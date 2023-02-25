@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barranquilla
 
-📆 Last Updated: `2023-02-25 16:16:00 UTC`
+📆 Last Updated: `2023-02-25 17:15:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for [Colombia](</Colombia>)
 | 4 | [Def Leppard](http://twitter.com/search?q=Def+Leppard) | N/A |
 | 5 | [#PetroMentiroso](http://twitter.com/search?q=%23PetroMentiroso) | N/A |
 | 6 | [#FumarMarihuanaEs](http://twitter.com/search?q=%23FumarMarihuanaEs) | N/A |
-| 7 | [#Bravissimo2023](http://twitter.com/search?q=%23Bravissimo2023) | N/A |
-| 8 | [#LesQuedóGrande](http://twitter.com/search?q=%23LesQued%c3%b3Grande) | N/A |
-| 9 | [#WorldTourRadioacktiva](http://twitter.com/search?q=%23WorldTourRadioacktiva) | N/A |
-| 10 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
-| 11 | [Marly](http://twitter.com/search?q=Marly) | N/A |
-| 12 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 13 | [Natalia París](http://twitter.com/search?q=Natalia+Par%c3%ads) | N/A |
-| 14 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 15 | [Poncho Zuleta](http://twitter.com/search?q=Poncho+Zuleta) | N/A |
-| 16 | [Ruiz](http://twitter.com/search?q=Ruiz) | Ruiz is a Spanish surname. It is derived from the Latin word "ruiz" which means "oak tree". In English, it can be translated to mean "oak tree". |
-| 17 | [Linda Caicedo](http://twitter.com/search?q=Linda+Caicedo) | N/A |
-| 18 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
+| 7 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 8 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
+| 9 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 10 | [#Bravissimo2023](http://twitter.com/search?q=%23Bravissimo2023) | N/A |
+| 11 | [#LesQuedóGrande](http://twitter.com/search?q=%23LesQued%c3%b3Grande) | N/A |
+| 12 | [Natalia París](http://twitter.com/search?q=Natalia+Par%c3%ads) | N/A |
+| 13 | [#WorldTourRadioacktiva](http://twitter.com/search?q=%23WorldTourRadioacktiva) | N/A |
+| 14 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 15 | [Marly](http://twitter.com/search?q=Marly) | N/A |
+| 16 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
+| 17 | [Ruiz](http://twitter.com/search?q=Ruiz) | Ruiz is a Spanish surname. It is derived from the Latin word "ruiz" which means "oak tree". In English, it can be translated to mean "oak tree". |
+| 18 | [Poncho Zuleta](http://twitter.com/search?q=Poncho+Zuleta) | N/A |
 | 19 | [Antioquia](http://twitter.com/search?q=Antioquia) | N/A |
-| 20 | [Carroña](http://twitter.com/search?q=Carro%c3%b1a) | N/A |
-| 21 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
-| 22 | [Juan Diego Alvira](http://twitter.com/search?q=Juan+Diego+Alvira) | N/A |
-| 23 | [Triple M](http://twitter.com/search?q=Triple+M) | N/A |
-| 24 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
-| 25 | [Choco](http://twitter.com/search?q=Choco) | N/A |
-| 26 | [Blink](http://twitter.com/search?q=Blink) | N/A |
-| 27 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
-| 28 | [CDMB](http://twitter.com/search?q=CDMB) | N/A |
-| 29 | [Lalis](http://twitter.com/search?q=Lalis) | Lalis is a Spanish term used to describe someone who is very friendly and kind. It can also be used to describe someone who is generous and helpful. In English, it could be translated as "kind-hearted" or "generous". |
-| 30 | [Bogotá](http://twitter.com/search?q=Bogot%c3%a1) | N/A |
-| 31 | [Hospitales](http://twitter.com/search?q=Hospitales) | N/A |
-| 32 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
-| 33 | [Gucci](http://twitter.com/search?q=Gucci) | Gucci is an Italian luxury fashion house founded in 1921 by Guccio Gucci. It is known for its high-end clothing, leather goods, shoes, and accessories. The brand has become synonymous with luxury and quality, and its iconic logo is recognized around the world. |
-| 34 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 35 | [Eficientes](http://twitter.com/search?q=Eficientes) | N/A |
-| 36 | [The Truman Show](http://twitter.com/search?q=The+Truman+Show) | N/A |
-| 37 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
-| 38 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
-| 39 | [Te Quiero Gonorrea](http://twitter.com/search?q=Te+Quiero+Gonorrea) | N/A |
-| 40 | [Tus Gafitas](http://twitter.com/search?q=Tus+Gafitas) | N/A |
-| 41 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
-| 42 | [Aguilar](http://twitter.com/search?q=Aguilar) | N/A |
-| 43 | [Francia](http://twitter.com/search?q=Francia) | N/A |
-| 44 | [Nikki Sixx](http://twitter.com/search?q=Nikki+Sixx) | N/A |
-| 45 | [Peñalosa](http://twitter.com/search?q=Pe%c3%b1alosa) | N/A |
-| 46 | [Travis](http://twitter.com/search?q=Travis) | N/A |
-| 47 | [Ojos Ferrari](http://twitter.com/search?q=Ojos+Ferrari) | N/A |
-| 48 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
-| 49 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
-| 50 | [Bichota](http://twitter.com/search?q=Bichota) | N/A |
+| 20 | [Arabia](http://twitter.com/search?q=Arabia) | Arabia is a region in the Middle East that includes the countries of Saudi Arabia, Yemen, Oman, United Arab Emirates, Qatar, Bahrain, Kuwait, and Jordan. It is known for its rich cultural heritage and its ancient civilizations. In English, Arabia means "land of the Arabs". |
+| 21 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
+| 22 | [Linda Caicedo](http://twitter.com/search?q=Linda+Caicedo) | N/A |
+| 23 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
+| 24 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 25 | [Juan Diego Alvira](http://twitter.com/search?q=Juan+Diego+Alvira) | N/A |
+| 26 | [Triple M](http://twitter.com/search?q=Triple+M) | N/A |
+| 27 | [Carroña](http://twitter.com/search?q=Carro%c3%b1a) | N/A |
+| 28 | [Blink](http://twitter.com/search?q=Blink) | N/A |
+| 29 | [Nikki Sixx](http://twitter.com/search?q=Nikki+Sixx) | N/A |
+| 30 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
+| 31 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
+| 32 | [Petro](http://twitter.com/search?q=Petro) | N/A |
+| 33 | [CDMB](http://twitter.com/search?q=CDMB) | N/A |
+| 34 | [Parque Simón Bolívar](http://twitter.com/search?q=Parque+Sim%c3%b3n+Bol%c3%advar) | N/A |
+| 35 | [Choco](http://twitter.com/search?q=Choco) | N/A |
+| 36 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
+| 37 | [Taylor Hawkins](http://twitter.com/search?q=Taylor+Hawkins) | N/A |
+| 38 | [Lalis](http://twitter.com/search?q=Lalis) | Lalis is a Spanish term used to describe someone who is very friendly and kind. It can also be used to describe someone who is generous and helpful. In English, it could be translated as "kind-hearted" or "generous". |
+| 39 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 40 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 41 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
+| 42 | [Jessica Rabbit](http://twitter.com/search?q=Jessica+Rabbit) | N/A |
+| 43 | [The Truman Show](http://twitter.com/search?q=The+Truman+Show) | N/A |
+| 44 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
+| 45 | [Bogotá](http://twitter.com/search?q=Bogot%c3%a1) | N/A |
+| 46 | [Eficientes](http://twitter.com/search?q=Eficientes) | N/A |
+| 47 | [Tus Gafitas](http://twitter.com/search?q=Tus+Gafitas) | N/A |
+| 48 | [Aguilar](http://twitter.com/search?q=Aguilar) | N/A |
+| 49 | [Hospitales](http://twitter.com/search?q=Hospitales) | N/A |
+| 50 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
 
 
 

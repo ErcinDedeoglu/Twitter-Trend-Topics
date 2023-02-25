@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bilbao
 
-📆 Last Updated: `2023-02-25 16:16:12 UTC`
+📆 Last Updated: `2023-02-25 17:16:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#RCDE](http://twitter.com/search?q=%23RCDE) | N/A |
-| 2 | [Maffeo](http://twitter.com/search?q=Maffeo) | Maffeo is an Italian name derived from the Latin name Matthaeus, which means "gift of God". It is also a variant of the name Matthew. |
-| 3 | [Lobi](http://twitter.com/search?q=Lobi) | N/A |
-| 4 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 5 | [Espanyol](http://twitter.com/search?q=Espanyol) | Espanyol is the Spanish word for "Spanish". It is used to refer to the language, people, or culture of Spain. |
-| 6 | [#FiestaT5](http://twitter.com/search?q=%23FiestaT5) | N/A |
-| 7 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 8 | [Muriqi](http://twitter.com/search?q=Muriqi) | Muriqi is a term used in Albanian culture to refer to a person who is brave, strong, and courageous. In English, it can be translated as "hero". |
-| 9 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
-| 10 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 11 | [Van Baarle](http://twitter.com/search?q=Van+Baarle) | N/A |
-| 12 | [Andorra](http://twitter.com/search?q=Andorra) | N/A |
-| 13 | [#SerMujerNoEsUnSentimiento](http://twitter.com/search?q=%23SerMujerNoEsUnSentimiento) | N/A |
-| 14 | [Braithwaite](http://twitter.com/search?q=Braithwaite) | N/A |
-| 15 | [Marburgo](http://twitter.com/search?q=Marburgo) | N/A |
-| 16 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 17 | [#CadizRayo](http://twitter.com/search?q=%23CadizRayo) | N/A |
-| 18 | [De Lie](http://twitter.com/search?q=De+Lie) | N/A |
-| 19 | [Iturralde](http://twitter.com/search?q=Iturralde) | N/A |
-| 20 | [Jumbo](http://twitter.com/search?q=Jumbo) | N/A |
-| 21 | [Falcon](http://twitter.com/search?q=Falcon) | N/A |
-| 22 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 23 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
-| 24 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 25 | [Tchouameni](http://twitter.com/search?q=Tchouameni) | N/A |
-| 26 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 27 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 28 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 29 | [Tito Berni](http://twitter.com/search?q=Tito+Berni) | N/A |
-| 30 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
-| 31 | [Shingeki](http://twitter.com/search?q=Shingeki) | Shingeki is a Japanese word that translates to "advancement" or "onslaught" in English. It is often used to refer to a sudden, large-scale attack or invasion. |
-| 32 | [Elden Ring](http://twitter.com/search?q=Elden+Ring) | N/A |
-| 33 | [Airbus](http://twitter.com/search?q=Airbus) | N/A |
-| 34 | [MODOK](http://twitter.com/search?q=MODOK) | MODOK stands for Mental/Mobile/Mechanized Organism Designed Only for Killing. It is a fictional supervillain appearing in comic books published by Marvel Comics. |
-| 35 | [Pérez](http://twitter.com/search?q=P%c3%a9rez) | N/A |
-| 36 | [Extremadura](http://twitter.com/search?q=Extremadura) | N/A |
-| 37 | [Aguirre](http://twitter.com/search?q=Aguirre) | Aguirre is a Spanish surname derived from the Basque word "aguirre" meaning "wolf". It is also a place name in Spain, and may refer to Aguirre, Navarre, a municipality in the province of Navarre. |
-| 38 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 39 | [Badajoz](http://twitter.com/search?q=Badajoz) | N/A |
-| 40 | [Miranda](http://twitter.com/search?q=Miranda) | Miranda is a female given name of Latin origin, derived from the word "mirandus" meaning "admirable" or "wonderful". It is also associated with the phrase "miranda rights", which are rights read to criminal suspects in the United States during an arrest. |
-| 41 | [La Cope](http://twitter.com/search?q=La+Cope) | N/A |
-| 42 | [Joselu](http://twitter.com/search?q=Joselu) | Joselu is a Spanish given name, derived from the Hebrew name Yosef. It is a combination of the names Jose and Luis. In English, it can be translated to mean "God will increase". |
-| 43 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 44 | [Leguina](http://twitter.com/search?q=Leguina) | N/A |
-| 45 | [Aspas](http://twitter.com/search?q=Aspas) | Aspas is a Spanish word meaning quotation marks or inverted commas. It is used to indicate direct speech or to set off a phrase or word for emphasis. |
-| 46 | [Ansu Fati](http://twitter.com/search?q=Ansu+Fati) | Ansu Fati is the nickname of a Spanish professional footballer, Anssumane Fati. He currently plays for FC Barcelona and the Spanish national team. The name Ansu Fati is derived from his given name, Anssumane, which means "God's gift" in the West African language of Bambara. In English, Ansu Fati translates to "God's Gift". |
-| 47 | [Russell](http://twitter.com/search?q=Russell) | N/A |
+| 1 | [Lobi](http://twitter.com/search?q=Lobi) | N/A |
+| 2 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 3 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 4 | [Saúl](http://twitter.com/search?q=Sa%c3%bal) | Saúl is a Spanish name derived from the Hebrew name Saul, which means "asked for". In English, it is usually spelled Saul. |
+| 5 | [#MetAmazonPresale](http://twitter.com/search?q=%23MetAmazonPresale) | N/A |
+| 6 | [#RCDE](http://twitter.com/search?q=%23RCDE) | N/A |
+| 7 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 8 | [#FiestaT5](http://twitter.com/search?q=%23FiestaT5) | N/A |
+| 9 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 10 | [Alfa Romeo](http://twitter.com/search?q=Alfa+Romeo) | N/A |
+| 11 | [#RealMadridAtleti](http://twitter.com/search?q=%23RealMadridAtleti) | N/A |
+| 12 | [Maffeo](http://twitter.com/search?q=Maffeo) | Maffeo is an Italian name derived from the Latin name Matthaeus, which means "gift of God". It is also a variant of the name Matthew. |
+| 13 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 14 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 15 | [Espanyol](http://twitter.com/search?q=Espanyol) | Espanyol is the Spanish word for "Spanish". It is used to refer to the language, people, or culture of Spain. |
+| 16 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 17 | [Mboula](http://twitter.com/search?q=Mboula) | N/A |
+| 18 | [Andorra](http://twitter.com/search?q=Andorra) | N/A |
+| 19 | [Kroos de 5](http://twitter.com/search?q=Kroos+de+5) | N/A |
+| 20 | [Alpha Tauri](http://twitter.com/search?q=Alpha+Tauri) | N/A |
+| 21 | [Muriqi](http://twitter.com/search?q=Muriqi) | Muriqi is a term used in Albanian culture to refer to a person who is brave, strong, and courageous. In English, it can be translated as "hero". |
+| 22 | [Braithwaite](http://twitter.com/search?q=Braithwaite) | N/A |
+| 23 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 24 | [Van Baarle](http://twitter.com/search?q=Van+Baarle) | N/A |
+| 25 | [Barrios](http://twitter.com/search?q=Barrios) | N/A |
+| 26 | [Tchouameni](http://twitter.com/search?q=Tchouameni) | N/A |
+| 27 | [Jumbo](http://twitter.com/search?q=Jumbo) | N/A |
+| 28 | [De Lie](http://twitter.com/search?q=De+Lie) | N/A |
+| 29 | [Riazor](http://twitter.com/search?q=Riazor) | N/A |
+| 30 | [Marburgo](http://twitter.com/search?q=Marburgo) | N/A |
+| 31 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
+| 32 | [Calahorra](http://twitter.com/search?q=Calahorra) | N/A |
+| 33 | [Atlético de Madrid](http://twitter.com/search?q=Atl%c3%a9tico+de+Madrid) | Atlético de Madrid is a Spanish professional football club based in Madrid, Spain. The club plays in La Liga, the top tier of Spanish football. Atlético has won La Liga on 10 occasions, including a league and cup double in 1996; the Copa del Rey on 10 occasions; two Supercopas de España; one Copa Eva Duarte; and one Copa de la Liga. In English, Atlético de Madrid translates to "Athletic of Madrid". |
+| 34 | [Tito Berni](http://twitter.com/search?q=Tito+Berni) | N/A |
+| 35 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 36 | [Iturralde](http://twitter.com/search?q=Iturralde) | N/A |
+| 37 | [Savic](http://twitter.com/search?q=Savic) | Savic is a Serbian surname derived from the Slavic word for "son of the sabre." It is also found in other Slavic countries, such as Croatia and Slovenia. In English, it can be translated to mean "son of the sword." |
+| 38 | [Falcon](http://twitter.com/search?q=Falcon) | N/A |
+| 39 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 40 | [Vingegaard](http://twitter.com/search?q=Vingegaard) | N/A |
+| 41 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 42 | [Llorente](http://twitter.com/search?q=Llorente) | Llorente is a Spanish surname derived from the name of a place in Spain. It is derived from the Latin word Laurentius, which means "from Laurentum". In English, it can be translated to mean "from Laurentum". |
+| 43 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
+| 44 | [MODOK](http://twitter.com/search?q=MODOK) | MODOK stands for Mental/Mobile/Mechanized Organism Designed Only for Killing. It is a fictional supervillain appearing in comic books published by Marvel Comics. |
+| 45 | [Pérez](http://twitter.com/search?q=P%c3%a9rez) | N/A |
+| 46 | [Shingeki](http://twitter.com/search?q=Shingeki) | Shingeki is a Japanese word that translates to "advancement" or "onslaught" in English. It is often used to refer to a sudden, large-scale attack or invasion. |
+| 47 | [Elden Ring](http://twitter.com/search?q=Elden+Ring) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Poland
 
-📆 Last Updated: `2023-02-25 16:16:55 UTC`
+📆 Last Updated: `2023-02-25 17:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Poland
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#t5m2](http://twitter.com/search?q=%23t5m2) | N/A |
-| 2 | [#TAURONPucharPolski](http://twitter.com/search?q=%23TAURONPucharPolski) | N/A |
-| 3 | [#PIACRA](http://twitter.com/search?q=%23PIACRA) | N/A |
+| 1 | [#skijumpingfamily](http://twitter.com/search?q=%23skijumpingfamily) | N/A |
+| 2 | [#t5m2](http://twitter.com/search?q=%23t5m2) | N/A |
+| 3 | [#TAURONPucharPolski](http://twitter.com/search?q=%23TAURONPucharPolski) | N/A |
 | 4 | [#LEGWID](http://twitter.com/search?q=%23LEGWID) | N/A |
-| 5 | [#skijumpingfamily](http://twitter.com/search?q=%23skijumpingfamily) | N/A |
+| 5 | [#viaF1](http://twitter.com/search?q=%23viaF1) | N/A |
 | 6 | [Orlen](http://twitter.com/search?q=Orlen) | N/A |
 | 7 | [Ukrainę](http://twitter.com/search?q=Ukrain%c4%99) | N/A |
 | 8 | [Sace](http://twitter.com/search?q=Sace) | N/A |
-| 9 | [Piotr Żyła](http://twitter.com/search?q=Piotr+%c5%bby%c5%82a) | N/A |
-| 10 | [Gliwicach](http://twitter.com/search?q=Gliwicach) | N/A |
-| 11 | [Rosji](http://twitter.com/search?q=Rosji) | N/A |
-| 12 | [Hubert Hurkacz](http://twitter.com/search?q=Hubert+Hurkacz) | N/A |
-| 13 | [Marsylii](http://twitter.com/search?q=Marsylii) | N/A |
-| 14 | [Widzewa](http://twitter.com/search?q=Widzewa) | N/A |
+| 9 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 10 | [Kraft](http://twitter.com/search?q=Kraft) | N/A |
+| 11 | [Gliwicach](http://twitter.com/search?q=Gliwicach) | N/A |
+| 12 | [Rosji](http://twitter.com/search?q=Rosji) | N/A |
+| 13 | [Piotr Żyła](http://twitter.com/search?q=Piotr+%c5%bby%c5%82a) | N/A |
+| 14 | [Czeszka](http://twitter.com/search?q=Czeszka) | N/A |
 | 15 | [Sokołowski](http://twitter.com/search?q=Soko%c5%82owski) | N/A |
-| 16 | [Kliczko](http://twitter.com/search?q=Kliczko) | N/A |
-| 17 | [Piasta](http://twitter.com/search?q=Piasta) | N/A |
-| 18 | [Przyjaźń](http://twitter.com/search?q=Przyja%c5%ba%c5%84) | N/A |
-| 19 | [Zawiercie](http://twitter.com/search?q=Zawiercie) | N/A |
-| 20 | [Leopardy](http://twitter.com/search?q=Leopardy) | N/A |
-| 21 | [Ukraińców](http://twitter.com/search?q=Ukrai%c5%84c%c3%b3w) | N/A |
-| 22 | [Zaksy](http://twitter.com/search?q=Zaksy) | N/A |
-| 23 | [Obajtek](http://twitter.com/search?q=Obajtek) | N/A |
-| 24 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
-| 25 | [Lecha](http://twitter.com/search?q=Lecha) | N/A |
-| 26 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 27 | [Małysz](http://twitter.com/search?q=Ma%c5%82ysz) | N/A |
-| 28 | [Mula](http://twitter.com/search?q=Mula) | N/A |
-| 29 | [Hansen](http://twitter.com/search?q=Hansen) | N/A |
-| 30 | [Centralne Biuro Antyaborcyjne](http://twitter.com/search?q=Centralne+Biuro+Antyaborcyjne) | N/A |
-| 31 | [Bury](http://twitter.com/search?q=Bury) | N/A |
-| 32 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
-| 33 | [Josue](http://twitter.com/search?q=Josue) | N/A |
-| 34 | [Warzecha](http://twitter.com/search?q=Warzecha) | N/A |
-| 35 | [Depresją](http://twitter.com/search?q=Depresj%c4%85) | N/A |
-| 36 | [Andruszkiewicz](http://twitter.com/search?q=Andruszkiewicz) | N/A |
-| 37 | [augusta emila fieldorfa](http://twitter.com/search?q=augusta+emila+fieldorfa) | N/A |
-| 38 | [Kacper](http://twitter.com/search?q=Kacper) | N/A |
-| 39 | [Rodado](http://twitter.com/search?q=Rodado) | N/A |
-| 40 | [Terlikowski](http://twitter.com/search?q=Terlikowski) | N/A |
-| 41 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 42 | [Rosołek](http://twitter.com/search?q=Roso%c5%82ek) | N/A |
-| 43 | [trójkąta weimarskiego](http://twitter.com/search?q=tr%c3%b3jk%c4%85ta+weimarskiego) | N/A |
-| 44 | [Jasiu](http://twitter.com/search?q=Jasiu) | N/A |
-| 45 | [Cracovii](http://twitter.com/search?q=Cracovii) | N/A |
-| 46 | [Wrzosek](http://twitter.com/search?q=Wrzosek) | N/A |
-| 47 | [Dominik](http://twitter.com/search?q=Dominik) | Dominik is a masculine given name of Latin origin, derived from the word "Dominicus" meaning "belonging to the Lord". It is a popular name in many countries, including Germany, Poland, Slovakia, and the Czech Republic. |
-| 48 | [raków](http://twitter.com/search?q=rak%c3%b3w) | N/A |
-| 49 | [Muci](http://twitter.com/search?q=Muci) | N/A |
-| 50 | [Faflun](http://twitter.com/search?q=Faflun) | N/A |
+| 16 | [Krejcikova](http://twitter.com/search?q=Krejcikova) | N/A |
+| 17 | [Hubert Hurkacz](http://twitter.com/search?q=Hubert+Hurkacz) | N/A |
+| 18 | [Dawid Kubacki](http://twitter.com/search?q=Dawid+Kubacki) | N/A |
+| 19 | [Widzew](http://twitter.com/search?q=Widzew) | N/A |
+| 20 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 21 | [Kliczko](http://twitter.com/search?q=Kliczko) | N/A |
+| 22 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
+| 23 | [Przyjaźń](http://twitter.com/search?q=Przyja%c5%ba%c5%84) | N/A |
+| 24 | [Obajtek](http://twitter.com/search?q=Obajtek) | N/A |
+| 25 | [Zawiercie](http://twitter.com/search?q=Zawiercie) | N/A |
+| 26 | [Marsylii](http://twitter.com/search?q=Marsylii) | N/A |
+| 27 | [Dominik](http://twitter.com/search?q=Dominik) | Dominik is a masculine given name of Latin origin, derived from the word "Dominicus" meaning "belonging to the Lord". It is a popular name in many countries, including Germany, Poland, Slovakia, and the Czech Republic. |
+| 28 | [Leopardy](http://twitter.com/search?q=Leopardy) | N/A |
+| 29 | [Piasta](http://twitter.com/search?q=Piasta) | N/A |
+| 30 | [Zaksy](http://twitter.com/search?q=Zaksy) | N/A |
+| 31 | [Olka](http://twitter.com/search?q=Olka) | N/A |
+| 32 | [Małysza](http://twitter.com/search?q=Ma%c5%82ysza) | N/A |
+| 33 | [Ukraińców](http://twitter.com/search?q=Ukrai%c5%84c%c3%b3w) | N/A |
+| 34 | [Dubaju](http://twitter.com/search?q=Dubaju) | N/A |
+| 35 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
+| 36 | [Iga Świątek](http://twitter.com/search?q=Iga+%c5%9awi%c4%85tek) | N/A |
+| 37 | [Mula](http://twitter.com/search?q=Mula) | N/A |
+| 38 | [Hansen](http://twitter.com/search?q=Hansen) | N/A |
+| 39 | [Seefeld](http://twitter.com/search?q=Seefeld) | N/A |
+| 40 | [Piotrka](http://twitter.com/search?q=Piotrka) | N/A |
+| 41 | [Lecha](http://twitter.com/search?q=Lecha) | N/A |
+| 42 | [centralne biuro antyaborcyjne](http://twitter.com/search?q=centralne+biuro+antyaborcyjne) | N/A |
+| 43 | [Bury](http://twitter.com/search?q=Bury) | N/A |
+| 44 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
+| 45 | [Warzecha](http://twitter.com/search?q=Warzecha) | N/A |
+| 46 | [Josue](http://twitter.com/search?q=Josue) | N/A |
+| 47 | [Depresją](http://twitter.com/search?q=Depresj%c4%85) | N/A |
+| 48 | [Andruszkiewicz](http://twitter.com/search?q=Andruszkiewicz) | N/A |
+| 49 | [augusta emila fieldorfa](http://twitter.com/search?q=augusta+emila+fieldorfa) | N/A |
+| 50 | [Janna](http://twitter.com/search?q=Janna) | N/A |
 
 
 

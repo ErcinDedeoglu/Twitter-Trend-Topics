@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Campinas
 
-📆 Last Updated: `2023-02-25 16:16:03 UTC`
+📆 Last Updated: `2023-02-25 17:15:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#PremierLeagueNaESPN](http://twitter.com/search?q=%23PremierLeagueNaESPN) | N/A |
-| 2 | [Blink](http://twitter.com/search?q=Blink) | N/A |
+| 1 | [Péssimo](http://twitter.com/search?q=P%c3%a9ssimo) | N/A |
+| 2 | [Elden Ring](http://twitter.com/search?q=Elden+Ring) | N/A |
 | 3 | [Votando](http://twitter.com/search?q=Votando) | N/A |
-| 4 | [Ceará](http://twitter.com/search?q=Cear%c3%a1) | Ceará is a state in northeastern Brazil. Its capital is Fortaleza. The name Ceará comes from the Tupi language and means "sings the jaguar". |
-| 5 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 6 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 7 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 8 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 9 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
-| 10 | [#EDeCasa](http://twitter.com/search?q=%23EDeCasa) | N/A |
-| 11 | [#ForaGustavoCowboy](http://twitter.com/search?q=%23ForaGustavoCowboy) | N/A |
-| 12 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
-| 13 | [Jason Derulo](http://twitter.com/search?q=Jason+Derulo) | N/A |
-| 14 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
-| 15 | [Sapato](http://twitter.com/search?q=Sapato) | Sapato is the Portuguese word for shoe. In English, it means the same thing. |
-| 16 | [#AlemãonoOneFootball](http://twitter.com/search?q=%23Alem%c3%a3onoOneFootball) | N/A |
-| 17 | [Justin Jefferson](http://twitter.com/search?q=Justin+Jefferson) | Justin Jefferson is a phrase used to describe someone who is a strong advocate for civil rights and social justice. It is derived from the name of the late civil rights leader, Dr. Martin Luther King Jr., who was known for his commitment to equality and justice for all people. |
-| 18 | [Urubu](http://twitter.com/search?q=Urubu) | N/A |
-| 19 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
-| 20 | [Brandt](http://twitter.com/search?q=Brandt) | N/A |
-| 21 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
-| 22 | [Duda Sampaio](http://twitter.com/search?q=Duda+Sampaio) | N/A |
-| 23 | [Perez](http://twitter.com/search?q=Perez) | N/A |
-| 24 | [Portilho](http://twitter.com/search?q=Portilho) | N/A |
-| 25 | [Medvedev](http://twitter.com/search?q=Medvedev) | Medvedev is a Russian surname derived from the word medved, which means "bear". It is also the surname of Dmitry Medvedev, the current Prime Minister of Russia. In English, the name Medvedev can be translated to mean "son of the bear". |
-| 26 | [fred e yuri](http://twitter.com/search?q=fred+e+yuri) | N/A |
-| 27 | [Pior Filme](http://twitter.com/search?q=Pior+Filme) | N/A |
-| 28 | [Brabas](http://twitter.com/search?q=Brabas) | N/A |
-| 29 | [Melhor Filme](http://twitter.com/search?q=Melhor+Filme) | N/A |
-| 30 | [Botafogo de Futebol e Regatas](http://twitter.com/search?q=Botafogo+de+Futebol+e+Regatas) | N/A |
-| 31 | [Hoffenheim](http://twitter.com/search?q=Hoffenheim) | N/A |
-| 32 | [Maria Beltrão](http://twitter.com/search?q=Maria+Beltr%c3%a3o) | N/A |
-| 33 | [Nicácio](http://twitter.com/search?q=Nic%c3%a1cio) | Nicácio is a Portuguese name derived from the Latin name Nicasius, which means “victory of the people.” In English, it can be translated to mean “victorious people.” |
-| 34 | [Kylie](http://twitter.com/search?q=Kylie) | Kylie is a female given name of Irish and Gaelic origin, meaning "boomerang". It is also a diminutive form of the name Kyle. |
-| 35 | [Riquelme](http://twitter.com/search?q=Riquelme) | Riquelme is a Spanish surname. It is derived from the Latin word "ricus" meaning "rich". In English, it can be translated to mean "wealthy". |
-| 36 | [GENTEEEE NÃO ACREDITOOOOO](http://twitter.com/search?q=GENTEEEE+N%c3%83O+ACREDITOOOOO) | N/A |
-| 37 | [aespa](http://twitter.com/search?q=aespa) | N/A |
-| 38 | [Vettel](http://twitter.com/search?q=Vettel) | N/A |
-| 39 | [Universo SCCP](http://twitter.com/search?q=Universo+SCCP) | N/A |
-| 40 | [Mikasa](http://twitter.com/search?q=Mikasa) | N/A |
-| 41 | [Corinthians Feminino](http://twitter.com/search?q=Corinthians+Feminino) | N/A |
-| 42 | [CPMI](http://twitter.com/search?q=CPMI) | N/A |
-| 43 | [Sunoo](http://twitter.com/search?q=Sunoo) | N/A |
-| 44 | [Zico](http://twitter.com/search?q=Zico) | N/A |
-| 45 | [Navio Pirata](http://twitter.com/search?q=Navio+Pirata) | N/A |
-| 46 | [Murray](http://twitter.com/search?q=Murray) | N/A |
-| 47 | [Atlético de Madrid](http://twitter.com/search?q=Atl%c3%a9tico+de+Madrid) | Atlético de Madrid is a Spanish professional football club based in Madrid, Spain. The club plays in La Liga, the top tier of Spanish football. Atlético has won La Liga on 10 occasions, including a league and cup double in 1996; the Copa del Rey on 10 occasions; two Supercopas de España; one Copa Eva Duarte; and one Copa de la Liga. In English, Atlético de Madrid translates to "Athletic of Madrid". |
-| 48 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 49 | [George Harrison](http://twitter.com/search?q=George+Harrison) | N/A |
+| 4 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 5 | [#ForaFredNicacio](http://twitter.com/search?q=%23ForaFredNicacio) | N/A |
+| 6 | [Sapato e Amanda](http://twitter.com/search?q=Sapato+e+Amanda) | N/A |
+| 7 | [Ceará](http://twitter.com/search?q=Cear%c3%a1) | Ceará is a state in northeastern Brazil. Its capital is Fortaleza. The name Ceará comes from the Tupi language and means "sings the jaguar". |
+| 8 | [#MetAmazonPresale](http://twitter.com/search?q=%23MetAmazonPresale) | N/A |
+| 9 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 10 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 11 | [#PremierLeagueNaESPN](http://twitter.com/search?q=%23PremierLeagueNaESPN) | N/A |
+| 12 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
+| 13 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 14 | [Wizer](http://twitter.com/search?q=Wizer) | N/A |
+| 15 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
+| 16 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 17 | [Scarpa](http://twitter.com/search?q=Scarpa) | Scarpa is an Italian word meaning "shoe". It is also the name of a popular Italian footwear brand. |
+| 18 | [Grell](http://twitter.com/search?q=Grell) | N/A |
+| 19 | [Arábia](http://twitter.com/search?q=Ar%c3%a1bia) | Arábia is a Portuguese word that refers to the Arabian Peninsula. It is used to describe the region, its people, and its culture. In English, it can be translated as "Arabia". |
+| 20 | [#CBLOLDiff](http://twitter.com/search?q=%23CBLOLDiff) | N/A |
+| 21 | [Jason Derulo](http://twitter.com/search?q=Jason+Derulo) | N/A |
+| 22 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
+| 23 | [Bvoy](http://twitter.com/search?q=Bvoy) | N/A |
+| 24 | [Keyd](http://twitter.com/search?q=Keyd) | N/A |
+| 25 | [Cariok](http://twitter.com/search?q=Cariok) | Cariok is a Brazilian dance style that originated in the state of Bahia. It is a mix of samba, reggae, and African rhythms. The name comes from the Portuguese word "carroca," which means "cart." In English, Cariok translates to "cart dance." |
+| 26 | [SIGA PRIBUIAR ON INSTAGRAM](http://twitter.com/search?q=SIGA+PRIBUIAR+ON+INSTAGRAM) | N/A |
+| 27 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
+| 28 | [Damage](http://twitter.com/search?q=Damage) | N/A |
+| 29 | [Urubu](http://twitter.com/search?q=Urubu) | N/A |
+| 30 | [Justin Jefferson](http://twitter.com/search?q=Justin+Jefferson) | Justin Jefferson is a phrase used to describe someone who is a strong advocate for civil rights and social justice. It is derived from the name of the late civil rights leader, Dr. Martin Luther King Jr., who was known for his commitment to equality and justice for all people. |
+| 31 | [Paulo Henrique](http://twitter.com/search?q=Paulo+Henrique) | N/A |
+| 32 | [Hoffenheim](http://twitter.com/search?q=Hoffenheim) | N/A |
+| 33 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
+| 34 | [Nottingham Forest](http://twitter.com/search?q=Nottingham+Forest) | Nottingham Forest is an English professional football club based in Nottingham, England. The club was founded in 1865 and currently plays in the Championship, the second tier of English football. The club's nickname is "The Reds" due to their traditional red and white kit. Nottingham Forest has won two European Cups, four League Cups, one FA Cup, and two League titles. |
+| 35 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
+| 36 | [O Arsenal](http://twitter.com/search?q=O+Arsenal) | N/A |
+| 37 | [Perez](http://twitter.com/search?q=Perez) | N/A |
+| 38 | [Fred e Yuri](http://twitter.com/search?q=Fred+e+Yuri) | N/A |
+| 39 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
+| 40 | [Borussia Dortmund](http://twitter.com/search?q=Borussia+Dortmund) | N/A |
+| 41 | [Hat-trick](http://twitter.com/search?q=Hat-trick) | A hat-trick is a term used in sports, particularly association football and cricket, to describe when a player achieves three successes in a single game or match. It can refer to goals scored by one player, wickets taken by a bowler, or other achievements. The term originates from cricket, where it was traditionally awarded for a bowler taking three wickets with consecutive deliveries. |
+| 42 | [Duda Sampaio](http://twitter.com/search?q=Duda+Sampaio) | N/A |
+| 43 | [Medvedev](http://twitter.com/search?q=Medvedev) | Medvedev is a Russian surname derived from the word medved, which means "bear". It is also the surname of Dmitry Medvedev, the current Prime Minister of Russia. In English, the name Medvedev can be translated to mean "son of the bear". |
+| 44 | [Riquelme](http://twitter.com/search?q=Riquelme) | Riquelme is a Spanish surname. It is derived from the Latin word "ricus" meaning "rich". In English, it can be translated to mean "wealthy". |
+| 45 | [Brabas](http://twitter.com/search?q=Brabas) | N/A |
+| 46 | [Pior Filme](http://twitter.com/search?q=Pior+Filme) | N/A |
+| 47 | [Kylie](http://twitter.com/search?q=Kylie) | Kylie is a female given name of Irish and Gaelic origin, meaning "boomerang". It is also a diminutive form of the name Kyle. |
+| 48 | [Papai Cris](http://twitter.com/search?q=Papai+Cris) | Papai Cris is a Portuguese term of endearment used to refer to a father figure. It translates literally to "Daddy Cris" in English. |
+| 49 | [Brandt](http://twitter.com/search?q=Brandt) | N/A |
 
 
 

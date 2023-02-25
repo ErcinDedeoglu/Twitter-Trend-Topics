@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Amsterdam
 
-📆 Last Updated: `2023-02-25 16:16:11 UTC`
+📆 Last Updated: `2023-02-25 17:16:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Netherlands](</Netherlands>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#omloophetnieuwsblad](http://twitter.com/search?q=%23omloophetnieuwsblad) | N/A |
+| 1 | [#groexc](http://twitter.com/search?q=%23groexc) | N/A |
 | 2 | [Groningers](http://twitter.com/search?q=Groningers) | N/A |
-| 3 | [Dylan van Baarle](http://twitter.com/search?q=Dylan+van+Baarle) | N/A |
-| 4 | [#GROEXC](http://twitter.com/search?q=%23GROEXC) | N/A |
-| 5 | [Rutte](http://twitter.com/search?q=Rutte) | N/A |
-| 6 | [#aftreden](http://twitter.com/search?q=%23aftreden) | N/A |
-| 7 | [#uniaja](http://twitter.com/search?q=%23uniaja) | N/A |
-| 8 | [#pegas](http://twitter.com/search?q=%23pegas) | N/A |
+| 3 | [Rutte](http://twitter.com/search?q=Rutte) | N/A |
+| 4 | [#omloophetnieuwsblad](http://twitter.com/search?q=%23omloophetnieuwsblad) | N/A |
+| 5 | [#aftreden](http://twitter.com/search?q=%23aftreden) | N/A |
+| 6 | [#uniaja](http://twitter.com/search?q=%23uniaja) | N/A |
+| 7 | [#pegas](http://twitter.com/search?q=%23pegas) | N/A |
+| 8 | [Van Baarle](http://twitter.com/search?q=Van+Baarle) | N/A |
 | 9 | [Huub](http://twitter.com/search?q=Huub) | N/A |
 | 10 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 11 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 12 | [Zwijndrecht](http://twitter.com/search?q=Zwijndrecht) | N/A |
-| 13 | [Oekraïne](http://twitter.com/search?q=Oekra%c3%afne) | N/A |
-| 14 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
-| 15 | [Jumbo-Visma](http://twitter.com/search?q=Jumbo-Visma) | N/A |
-| 16 | [De Lie](http://twitter.com/search?q=De+Lie) | N/A |
-| 17 | [Schiedam](http://twitter.com/search?q=Schiedam) | N/A |
-| 18 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
-| 19 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 20 | [Pauw](http://twitter.com/search?q=Pauw) | N/A |
-| 21 | [Dag 25](http://twitter.com/search?q=Dag+25) | N/A |
-| 22 | [Fijn](http://twitter.com/search?q=Fijn) | N/A |
-| 23 | [Russische](http://twitter.com/search?q=Russische) | N/A |
+| 11 | [Oekraïne](http://twitter.com/search?q=Oekra%c3%afne) | N/A |
+| 12 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 13 | [Zwijndrecht](http://twitter.com/search?q=Zwijndrecht) | N/A |
+| 14 | [De Lie](http://twitter.com/search?q=De+Lie) | N/A |
+| 15 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
+| 16 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
+| 17 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 18 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 19 | [Pauw](http://twitter.com/search?q=Pauw) | N/A |
+| 20 | [Dag 25](http://twitter.com/search?q=Dag+25) | N/A |
+| 21 | [Jumbo-Visma](http://twitter.com/search?q=Jumbo-Visma) | N/A |
+| 22 | [Russische](http://twitter.com/search?q=Russische) | N/A |
+| 23 | [Groningse](http://twitter.com/search?q=Groningse) | N/A |
 | 24 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
-| 25 | [Groningse](http://twitter.com/search?q=Groningse) | N/A |
+| 25 | [Fijn](http://twitter.com/search?q=Fijn) | N/A |
 | 26 | [Youp](http://twitter.com/search?q=Youp) | N/A |
 | 27 | [Fontys](http://twitter.com/search?q=Fontys) | N/A |
-| 28 | [Bernhard](http://twitter.com/search?q=Bernhard) | N/A |
-| 29 | [Vera Bergkamp](http://twitter.com/search?q=Vera+Bergkamp) | N/A |
+| 28 | [Excelsior](http://twitter.com/search?q=Excelsior) | N/A |
+| 29 | [vera bergkamp](http://twitter.com/search?q=vera+bergkamp) | N/A |
 | 30 | [vijlbrief](http://twitter.com/search?q=vijlbrief) | N/A |
-| 31 | [Excelsior](http://twitter.com/search?q=Excelsior) | N/A |
-| 32 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 31 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 32 | [Bernhard](http://twitter.com/search?q=Bernhard) | N/A |
 | 33 | [Koopmans](http://twitter.com/search?q=Koopmans) | N/A |
-| 34 | [Haga](http://twitter.com/search?q=Haga) | N/A |
-| 35 | [Exxon](http://twitter.com/search?q=Exxon) | N/A |
-| 36 | [Ollongren](http://twitter.com/search?q=Ollongren) | N/A |
-| 37 | [Laporte](http://twitter.com/search?q=Laporte) | Laporte is a French surname derived from the Old French word "la porte," meaning "the door." It is also the name of several towns in France. |
-| 38 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 39 | [Zuidland](http://twitter.com/search?q=Zuidland) | N/A |
-| 40 | [auassar](http://twitter.com/search?q=auassar) | N/A |
-| 41 | [kuiken](http://twitter.com/search?q=kuiken) | N/A |
-| 42 | [INEC](http://twitter.com/search?q=INEC) | N/A |
-| 43 | [BMTH](http://twitter.com/search?q=BMTH) | N/A |
-| 44 | [Edith Schippers](http://twitter.com/search?q=Edith+Schippers) | N/A |
-| 45 | [Eemnes](http://twitter.com/search?q=Eemnes) | N/A |
-| 46 | [Klimaatterrorisme](http://twitter.com/search?q=Klimaatterrorisme) | N/A |
-| 47 | [George Harrison](http://twitter.com/search?q=George+Harrison) | N/A |
-| 48 | [Brands](http://twitter.com/search?q=Brands) | N/A |
-| 49 | [Chantal](http://twitter.com/search?q=Chantal) | N/A |
-| 50 | [goedemorgen leon](http://twitter.com/search?q=goedemorgen+leon) | N/A |
+| 34 | [Exxon](http://twitter.com/search?q=Exxon) | N/A |
+| 35 | [Haga](http://twitter.com/search?q=Haga) | N/A |
+| 36 | [enquêtecommissie](http://twitter.com/search?q=enqu%c3%aatecommissie) | N/A |
+| 37 | [Ollongren](http://twitter.com/search?q=Ollongren) | N/A |
+| 38 | [Zuidland](http://twitter.com/search?q=Zuidland) | N/A |
+| 39 | [auassar](http://twitter.com/search?q=auassar) | N/A |
+| 40 | [Schippers](http://twitter.com/search?q=Schippers) | N/A |
+| 41 | [Kuiken](http://twitter.com/search?q=Kuiken) | N/A |
+| 42 | [BMTH](http://twitter.com/search?q=BMTH) | N/A |
+| 43 | [INEC](http://twitter.com/search?q=INEC) | N/A |
+| 44 | [Eemnes](http://twitter.com/search?q=Eemnes) | N/A |
+| 45 | [Chantal](http://twitter.com/search?q=Chantal) | N/A |
+| 46 | [Brands](http://twitter.com/search?q=Brands) | N/A |
+| 47 | [goedemorgen leon](http://twitter.com/search?q=goedemorgen+leon) | N/A |
+| 48 | [Eritreeërs in Nederland](http://twitter.com/search?q=Eritree%c3%abrs+in+Nederland) | N/A |
+| 49 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
+| 50 | [George Harrison](http://twitter.com/search?q=George+Harrison) | N/A |
 
 
 

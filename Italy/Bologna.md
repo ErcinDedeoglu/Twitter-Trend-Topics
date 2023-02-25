@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bologna
 
-📆 Last Updated: `2023-02-25 16:16:10 UTC`
+📆 Last Updated: `2023-02-25 17:16:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,48 +21,48 @@ This is top 50 for [Italy](</Italy>)
 | 4 | [Luca Laurenti](http://twitter.com/search?q=Luca+Laurenti) | N/A |
 | 5 | [Costituzione](http://twitter.com/search?q=Costituzione) | N/A |
 | 6 | [Travaglio](http://twitter.com/search?q=Travaglio) | N/A |
-| 7 | [ivan capelli](http://twitter.com/search?q=ivan+capelli) | N/A |
-| 8 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 7 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 8 | [Ivan Capelli](http://twitter.com/search?q=Ivan+Capelli) | N/A |
 | 9 | [Grattugia](http://twitter.com/search?q=Grattugia) | N/A |
-| 10 | [Murgia](http://twitter.com/search?q=Murgia) | Murgia is a geographical region in southern Italy, located in the provinces of Bari and Taranto. It is characterized by its limestone hills, deep ravines, and caves. The name Murgia comes from the Latin word murex, meaning "rocky hill". In English, Murgia can be translated as "rocky land". |
-| 11 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
+| 10 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
+| 11 | [Murgia](http://twitter.com/search?q=Murgia) | Murgia is a geographical region in southern Italy, located in the provinces of Bari and Taranto. It is characterized by its limestone hills, deep ravines, and caves. The name Murgia comes from the Latin word murex, meaning "rocky hill". In English, Murgia can be translated as "rocky land". |
 | 12 | [Preside](http://twitter.com/search?q=Preside) | N/A |
 | 13 | [Agnelli](http://twitter.com/search?q=Agnelli) | N/A |
-| 14 | [Van Baarle](http://twitter.com/search?q=Van+Baarle) | N/A |
-| 15 | [Superlega](http://twitter.com/search?q=Superlega) | N/A |
-| 16 | [Namjoon](http://twitter.com/search?q=Namjoon) | N/A |
+| 14 | [Namjoon](http://twitter.com/search?q=Namjoon) | N/A |
+| 15 | [Ingroia](http://twitter.com/search?q=Ingroia) | N/A |
+| 16 | [Ucraina](http://twitter.com/search?q=Ucraina) | N/A |
 | 17 | [De Lie](http://twitter.com/search?q=De+Lie) | N/A |
-| 18 | [Buon Sabato](http://twitter.com/search?q=Buon+Sabato) | N/A |
+| 18 | [BREAK THE WALL TOUR](http://twitter.com/search?q=BREAK+THE+WALL+TOUR) | N/A |
 | 19 | [Mogol](http://twitter.com/search?q=Mogol) | N/A |
 | 20 | [Heineken](http://twitter.com/search?q=Heineken) | N/A |
-| 21 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
-| 22 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 23 | [L'antifascismo](http://twitter.com/search?q=L%27antifascismo) | N/A |
-| 24 | [Ichnusa](http://twitter.com/search?q=Ichnusa) | N/A |
-| 25 | [Antonino](http://twitter.com/search?q=Antonino) | Antonino is an Italian name derived from the Latin name Antonius, which means "beyond praise". It is a popular name in Italy and other parts of Europe. |
-| 26 | [Cina](http://twitter.com/search?q=Cina) | N/A |
-| 27 | [Severgnini](http://twitter.com/search?q=Severgnini) | N/A |
-| 28 | [Demir](http://twitter.com/search?q=Demir) | N/A |
-| 29 | [Vanzini](http://twitter.com/search?q=Vanzini) | N/A |
-| 30 | [Friburgo](http://twitter.com/search?q=Friburgo) | N/A |
-| 31 | [Perez](http://twitter.com/search?q=Perez) | N/A |
+| 21 | [Buon Sabato](http://twitter.com/search?q=Buon+Sabato) | N/A |
+| 22 | [Basciano](http://twitter.com/search?q=Basciano) | N/A |
+| 23 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 24 | [L'antifascismo](http://twitter.com/search?q=L%27antifascismo) | N/A |
+| 25 | [Van Baarle](http://twitter.com/search?q=Van+Baarle) | N/A |
+| 26 | [Ichnusa](http://twitter.com/search?q=Ichnusa) | N/A |
+| 27 | [Antonino](http://twitter.com/search?q=Antonino) | Antonino is an Italian name derived from the Latin name Antonius, which means "beyond praise". It is a popular name in Italy and other parts of Europe. |
+| 28 | [Cina](http://twitter.com/search?q=Cina) | N/A |
+| 29 | [Severgnini](http://twitter.com/search?q=Severgnini) | N/A |
+| 30 | [Demir](http://twitter.com/search?q=Demir) | N/A |
+| 31 | [Vanzini](http://twitter.com/search?q=Vanzini) | N/A |
 | 32 | [Capezzone](http://twitter.com/search?q=Capezzone) | N/A |
-| 33 | [Donbass](http://twitter.com/search?q=Donbass) | N/A |
-| 34 | [Gramsci](http://twitter.com/search?q=Gramsci) | N/A |
-| 35 | [nuoro](http://twitter.com/search?q=nuoro) | N/A |
-| 36 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
-| 37 | [Campidoglio](http://twitter.com/search?q=Campidoglio) | N/A |
-| 38 | [Carros](http://twitter.com/search?q=Carros) | N/A |
-| 39 | [Real Sociedad](http://twitter.com/search?q=Real+Sociedad) | Real Sociedad is a Spanish professional football club based in San Sebastián, Basque Country. The club's name means "Royal Society" in English. It was founded in 1909 and currently plays in La Liga, the top tier of Spanish football. |
-| 40 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 33 | [Mr Rain](http://twitter.com/search?q=Mr+Rain) | N/A |
+| 34 | [Friburgo](http://twitter.com/search?q=Friburgo) | N/A |
+| 35 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
+| 36 | [Gramsci](http://twitter.com/search?q=Gramsci) | N/A |
+| 37 | [Donbass](http://twitter.com/search?q=Donbass) | N/A |
+| 38 | [Nuoro](http://twitter.com/search?q=Nuoro) | N/A |
+| 39 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 40 | [Superlega](http://twitter.com/search?q=Superlega) | N/A |
 | 41 | [Jared](http://twitter.com/search?q=Jared) | N/A |
-| 42 | [Basciano](http://twitter.com/search?q=Basciano) | N/A |
-| 43 | [Yilmaz](http://twitter.com/search?q=Yilmaz) | N/A |
-| 44 | [Renzi](http://twitter.com/search?q=Renzi) | N/A |
-| 45 | [Badu](http://twitter.com/search?q=Badu) | N/A |
-| 46 | [Font](http://twitter.com/search?q=Font) | N/A |
-| 47 | [Jensen](http://twitter.com/search?q=Jensen) | N/A |
-| 48 | [Bonaccini](http://twitter.com/search?q=Bonaccini) | N/A |
+| 42 | [Campidoglio](http://twitter.com/search?q=Campidoglio) | N/A |
+| 43 | [Gabriele](http://twitter.com/search?q=Gabriele) | N/A |
+| 44 | [Carros](http://twitter.com/search?q=Carros) | N/A |
+| 45 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 46 | [Jensen](http://twitter.com/search?q=Jensen) | N/A |
+| 47 | [Badu](http://twitter.com/search?q=Badu) | N/A |
+| 48 | [Yilmaz](http://twitter.com/search?q=Yilmaz) | N/A |
 
 
 
