@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Yokohama
 
-📆 Last Updated: `2023-02-25 12:17:19 UTC`
+📆 Last Updated: `2023-02-25 13:19:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#frontale](http://twitter.com/search?q=%23frontale) | N/A |
-| 2 | [#ミリビリ](http://twitter.com/search?q=%23%e3%83%9f%e3%83%aa%e3%83%93%e3%83%aa) | N/A |
-| 3 | [PKやり直し](http://twitter.com/search?q=PK%e3%82%84%e3%82%8a%e7%9b%b4%e3%81%97) | N/A |
-| 4 | [横浜優勝](http://twitter.com/search?q=%e6%a8%aa%e6%b5%9c%e5%84%aa%e5%8b%9d) | N/A |
-| 5 | [鈴木優磨](http://twitter.com/search?q=%e9%88%b4%e6%9c%a8%e5%84%aa%e7%a3%a8) | N/A |
-| 6 | [マリノス](http://twitter.com/search?q=%e3%83%9e%e3%83%aa%e3%83%8e%e3%82%b9) | マリノス (Marinos) is a Japanese professional football club based in Yokohama, Kanagawa Prefecture. The team competes in the J1 League, which is the top tier of football in Japan. The name "Marinos" is derived from the Spanish word for "sailors". |
-| 7 | [アキさん](http://twitter.com/search?q=%e3%82%a2%e3%82%ad%e3%81%95%e3%82%93) | N/A |
-| 8 | [#fmarinos](http://twitter.com/search?q=%23fmarinos) | N/A |
-| 9 | [#鹿島アントラーズ](http://twitter.com/search?q=%23%e9%b9%bf%e5%b3%b6%e3%82%a2%e3%83%b3%e3%83%88%e3%83%a9%e3%83%bc%e3%82%ba) | N/A |
-| 10 | [中山記念](http://twitter.com/search?q=%e4%b8%ad%e5%b1%b1%e8%a8%98%e5%bf%b5) | N/A |
-| 11 | [#ジャニーズJrCHAMP](http://twitter.com/search?q=%23%e3%82%b8%e3%83%a3%e3%83%8b%e3%83%bc%e3%82%baJrCHAMP) | N/A |
-| 12 | [アドニス](http://twitter.com/search?q=%e3%82%a2%e3%83%89%e3%83%8b%e3%82%b9) | アドニス is a Japanese word that means "Adonis," which is the name of a Greek god of beauty and desire. In English, it can also refer to a very handsome man. |
-| 13 | [ヤンデレちゃん](http://twitter.com/search?q=%e3%83%a4%e3%83%b3%e3%83%87%e3%83%ac%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 14 | [ヤンデレ度80](http://twitter.com/search?q=%e3%83%a4%e3%83%b3%e3%83%87%e3%83%ac%e5%ba%a680) | N/A |
-| 15 | [メンヘラ度20](http://twitter.com/search?q=%e3%83%a1%e3%83%b3%e3%83%98%e3%83%a9%e5%ba%a620) | N/A |
-| 16 | [上級ヤンデレ](http://twitter.com/search?q=%e4%b8%8a%e7%b4%9a%e3%83%a4%e3%83%b3%e3%83%87%e3%83%ac) | N/A |
+| 1 | [ベッキー](http://twitter.com/search?q=%e3%83%99%e3%83%83%e3%82%ad%e3%83%bc) | N/A |
+| 2 | [DOGSO](http://twitter.com/search?q=DOGSO) | N/A |
+| 3 | [フロンターレ](http://twitter.com/search?q=%e3%83%95%e3%83%ad%e3%83%b3%e3%82%bf%e3%83%bc%e3%83%ac) | N/A |
+| 4 | [#自民党全員落選運動](http://twitter.com/search?q=%23%e8%87%aa%e6%b0%91%e5%85%9a%e5%85%a8%e5%93%a1%e8%90%bd%e9%81%b8%e9%81%8b%e5%8b%95) | N/A |
+| 5 | [PKやり直し](http://twitter.com/search?q=PK%e3%82%84%e3%82%8a%e7%9b%b4%e3%81%97) | N/A |
+| 6 | [進撃の巨人](http://twitter.com/search?q=%e9%80%b2%e6%92%83%e3%81%ae%e5%b7%a8%e4%ba%ba) | 進撃の巨人 (Shingeki no Kyojin) is a Japanese manga series written and illustrated by Hajime Isayama. It is set in a world where humanity lives inside cities surrounded by enormous walls due to the sudden appearance of the Titans, gigantic humanoid creatures who devour humans seemingly without reason. The story follows the adventures of Eren Yeager, his adopted sister Mikasa Ackerman, and their friend Armin Arlert, who join the military to fight the Titans after their home town is invaded and Eren's mother is eaten. The title of the series translates to "Attack on Titan" in English. |
+| 7 | [#frontale](http://twitter.com/search?q=%23frontale) | N/A |
+| 8 | [横浜優勝](http://twitter.com/search?q=%e6%a8%aa%e6%b5%9c%e5%84%aa%e5%8b%9d) | N/A |
+| 9 | [マリノス](http://twitter.com/search?q=%e3%83%9e%e3%83%aa%e3%83%8e%e3%82%b9) | マリノス (Marinos) is a Japanese professional football club based in Yokohama, Kanagawa Prefecture. The team competes in the J1 League, which is the top tier of football in Japan. The name "Marinos" is derived from the Spanish word for "sailors". |
+| 10 | [カイオーガ](http://twitter.com/search?q=%e3%82%ab%e3%82%a4%e3%82%aa%e3%83%bc%e3%82%ac) | N/A |
+| 11 | [中山記念](http://twitter.com/search?q=%e4%b8%ad%e5%b1%b1%e8%a8%98%e5%bf%b5) | N/A |
+| 12 | [周年イベ](http://twitter.com/search?q=%e5%91%a8%e5%b9%b4%e3%82%a4%e3%83%99) | 周年イベ is short for 周年イベント, which means "anniversary event" in English. It is an event that is held to celebrate the anniversary of a company, organization, or other entity. |
+| 13 | [#fmarinos](http://twitter.com/search?q=%23fmarinos) | N/A |
+| 14 | [アドニス](http://twitter.com/search?q=%e3%82%a2%e3%83%89%e3%83%8b%e3%82%b9) | アドニス is a Japanese word that means "Adonis," which is the name of a Greek god of beauty and desire. In English, it can also refer to a very handsome man. |
+| 15 | [チャント](http://twitter.com/search?q=%e3%83%81%e3%83%a3%e3%83%b3%e3%83%88) | N/A |
+| 16 | [テニミュ](http://twitter.com/search?q=%e3%83%86%e3%83%8b%e3%83%9f%e3%83%a5) | N/A |
 | 17 | [シュート](http://twitter.com/search?q=%e3%82%b7%e3%83%a5%e3%83%bc%e3%83%88) | シュート is a Japanese word that means "shoot" or "shooting". It is used to refer to shooting a basketball, soccer ball, or other type of ball. It can also be used to refer to shooting a gun. |
-| 18 | [DAZN](http://twitter.com/search?q=DAZN) | DAZN is a subscription-based streaming service for live sports. It stands for "Digital Access Zone Network" and is used to provide access to live sports events and on-demand content. |
-| 19 | [侍ジャパン](http://twitter.com/search?q=%e4%be%8d%e3%82%b8%e3%83%a3%e3%83%91%e3%83%b3) | N/A |
-| 20 | [グラマス](http://twitter.com/search?q=%e3%82%b0%e3%83%a9%e3%83%9e%e3%82%b9) | N/A |
-| 21 | [ホークス](http://twitter.com/search?q=%e3%83%9b%e3%83%bc%e3%82%af%e3%82%b9) | ホークス (Hawks) is the name of a professional baseball team in Japan. The team is based in Fukuoka and plays in the Pacific League of Nippon Professional Baseball. The English translation of ホークス is "Hawks". |
-| 22 | [日産スタジアム](http://twitter.com/search?q=%e6%97%a5%e7%94%a3%e3%82%b9%e3%82%bf%e3%82%b8%e3%82%a2%e3%83%a0) | 日産スタジアム is a multi-purpose stadium located in Yokohama, Japan. It is primarily used for football matches and is the home stadium of Yokohama F. Marinos. The name Nissan Stadium comes from the fact that it was built by Nissan Motors, who also sponsor the team. In English, it is known as Nissan Stadium. |
-| 23 | [ソフトバンク](http://twitter.com/search?q=%e3%82%bd%e3%83%95%e3%83%88%e3%83%90%e3%83%b3%e3%82%af) | ソフトバンク is a Japanese telecommunications company that provides mobile phone, fixed-line telephone, internet, and IPTV services. In English, it is known as SoftBank. |
-| 24 | [甲賀忍法帖](http://twitter.com/search?q=%e7%94%b2%e8%b3%80%e5%bf%8d%e6%b3%95%e5%b8%96) | N/A |
-| 25 | [ふしぎ発見](http://twitter.com/search?q=%e3%81%b5%e3%81%97%e3%81%8e%e7%99%ba%e8%a6%8b) | N/A |
-| 26 | [獄Luck](http://twitter.com/search?q=%e7%8d%84Luck) | N/A |
-| 27 | [TOP4](http://twitter.com/search?q=TOP4) | TOP4 is an acronym that stands for the top four teams in a particular competition or tournament. It is used to refer to the four teams that have achieved the highest ranking in a given event. |
-| 28 | [餃子の王将](http://twitter.com/search?q=%e9%a4%83%e5%ad%90%e3%81%ae%e7%8e%8b%e5%b0%86) | N/A |
-| 29 | [オロロジャイア](http://twitter.com/search?q=%e3%82%aa%e3%83%ad%e3%83%ad%e3%82%b8%e3%83%a3%e3%82%a4%e3%82%a2) | N/A |
-| 30 | [北斗茶髪](http://twitter.com/search?q=%e5%8c%97%e6%96%97%e8%8c%b6%e9%ab%aa) | N/A |
-| 31 | [赤面フラッシュ](http://twitter.com/search?q=%e8%b5%a4%e9%9d%a2%e3%83%95%e3%83%a9%e3%83%83%e3%82%b7%e3%83%a5) | N/A |
-| 32 | [北斗くん茶髪](http://twitter.com/search?q=%e5%8c%97%e6%96%97%e3%81%8f%e3%82%93%e8%8c%b6%e9%ab%aa) | N/A |
-| 33 | [未来ハーモニー](http://twitter.com/search?q=%e6%9c%aa%e6%9d%a5%e3%83%8f%e3%83%bc%e3%83%a2%e3%83%8b%e3%83%bc) | N/A |
-| 34 | [プレミュ](http://twitter.com/search?q=%e3%83%97%e3%83%ac%e3%83%9f%e3%83%a5) | N/A |
-| 35 | [ロジャー](http://twitter.com/search?q=%e3%83%ad%e3%82%b8%e3%83%a3%e3%83%bc) | N/A |
-| 36 | [首相キーウ訪問](http://twitter.com/search?q=%e9%a6%96%e7%9b%b8%e3%82%ad%e3%83%bc%e3%82%a6%e8%a8%aa%e5%95%8f) | N/A |
-| 37 | [速水さん](http://twitter.com/search?q=%e9%80%9f%e6%b0%b4%e3%81%95%e3%82%93) | 速水さん is a nickname for the Japanese actor, Hayato Ichihara. It is derived from his given name, Hayato, which can be translated to mean "fast water". |
-| 38 | [宝石の国](http://twitter.com/search?q=%e5%ae%9d%e7%9f%b3%e3%81%ae%e5%9b%bd) | N/A |
-| 39 | [国会の事前承認](http://twitter.com/search?q=%e5%9b%bd%e4%bc%9a%e3%81%ae%e4%ba%8b%e5%89%8d%e6%89%bf%e8%aa%8d) | N/A |
-| 40 | [立民・泉氏](http://twitter.com/search?q=%e7%ab%8b%e6%b0%91%e3%83%bb%e6%b3%89%e6%b0%8f) | N/A |
-| 41 | [ぱしゃっつ](http://twitter.com/search?q=%e3%81%b1%e3%81%97%e3%82%83%e3%81%a3%e3%81%a4) | ぱしゃっつ is an onomatopoeia that is used to express the sound of something being thrown or tossed. In English, it could be translated as "toss" or "throw". |
-| 42 | [シンシャ](http://twitter.com/search?q=%e3%82%b7%e3%83%b3%e3%82%b7%e3%83%a3) | シンシャ is a Japanese word that means "sincere". It is used to describe someone who is honest and genuine in their feelings and actions. |
-| 43 | [After the Rain](http://twitter.com/search?q=After+the+Rain) | N/A |
-| 44 | [バジリスクタイム](http://twitter.com/search?q=%e3%83%90%e3%82%b8%e3%83%aa%e3%82%b9%e3%82%af%e3%82%bf%e3%82%a4%e3%83%a0) | N/A |
-| 45 | [ドラマ班](http://twitter.com/search?q=%e3%83%89%e3%83%a9%e3%83%9e%e7%8f%ad) | N/A |
-| 46 | [赤メッシュ](http://twitter.com/search?q=%e8%b5%a4%e3%83%a1%e3%83%83%e3%82%b7%e3%83%a5) | N/A |
-| 47 | [カタシロ](http://twitter.com/search?q=%e3%82%ab%e3%82%bf%e3%82%b7%e3%83%ad) | カタシロ is a Japanese word that means "tattoo". It is often used to refer to traditional Japanese tattoos, which are usually large and intricate designs. |
-| 48 | [関門海峡](http://twitter.com/search?q=%e9%96%a2%e9%96%80%e6%b5%b7%e5%b3%a1) | N/A |
-| 49 | [グランドチャンピオン](http://twitter.com/search?q=%e3%82%b0%e3%83%a9%e3%83%b3%e3%83%89%e3%83%81%e3%83%a3%e3%83%b3%e3%83%94%e3%82%aa%e3%83%b3) | N/A |
+| 18 | [#antlers](http://twitter.com/search?q=%23antlers) | N/A |
+| 19 | [ヤンデレちゃん](http://twitter.com/search?q=%e3%83%a4%e3%83%b3%e3%83%87%e3%83%ac%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 20 | [ヤンデレ度80](http://twitter.com/search?q=%e3%83%a4%e3%83%b3%e3%83%87%e3%83%ac%e5%ba%a680) | N/A |
+| 21 | [メンヘラ度20](http://twitter.com/search?q=%e3%83%a1%e3%83%b3%e3%83%98%e3%83%a9%e5%ba%a620) | N/A |
+| 22 | [上級ヤンデレ](http://twitter.com/search?q=%e4%b8%8a%e7%b4%9a%e3%83%a4%e3%83%b3%e3%83%87%e3%83%ac) | N/A |
+| 23 | [DAZN](http://twitter.com/search?q=DAZN) | DAZN is a subscription-based streaming service for live sports. It stands for "Digital Access Zone Network" and is used to provide access to live sports events and on-demand content. |
+| 24 | [#ジャニーズJrCHAMP](http://twitter.com/search?q=%23%e3%82%b8%e3%83%a3%e3%83%8b%e3%83%bc%e3%82%baJrCHAMP) | N/A |
+| 25 | [グラマス](http://twitter.com/search?q=%e3%82%b0%e3%83%a9%e3%83%9e%e3%82%b9) | N/A |
+| 26 | [ホークス](http://twitter.com/search?q=%e3%83%9b%e3%83%bc%e3%82%af%e3%82%b9) | ホークス (Hawks) is the name of a professional baseball team in Japan. The team is based in Fukuoka and plays in the Pacific League of Nippon Professional Baseball. The English translation of ホークス is "Hawks". |
+| 27 | [ソフトバンク](http://twitter.com/search?q=%e3%82%bd%e3%83%95%e3%83%88%e3%83%90%e3%83%b3%e3%82%af) | ソフトバンク is a Japanese telecommunications company that provides mobile phone, fixed-line telephone, internet, and IPTV services. In English, it is known as SoftBank. |
+| 28 | [ドラマ班](http://twitter.com/search?q=%e3%83%89%e3%83%a9%e3%83%9e%e7%8f%ad) | N/A |
+| 29 | [竹下通り](http://twitter.com/search?q=%e7%ab%b9%e4%b8%8b%e9%80%9a%e3%82%8a) | N/A |
+| 30 | [スングァン](http://twitter.com/search?q=%e3%82%b9%e3%83%b3%e3%82%b0%e3%82%a1%e3%83%b3) | N/A |
+| 31 | [甲賀忍法帖](http://twitter.com/search?q=%e7%94%b2%e8%b3%80%e5%bf%8d%e6%b3%95%e5%b8%96) | N/A |
+| 32 | [獄Luck](http://twitter.com/search?q=%e7%8d%84Luck) | N/A |
+| 33 | [TOP4](http://twitter.com/search?q=TOP4) | TOP4 is an acronym that stands for the top four teams in a particular competition or tournament. It is used to refer to the four teams that have achieved the highest ranking in a given event. |
+| 34 | [オロロジャイア](http://twitter.com/search?q=%e3%82%aa%e3%83%ad%e3%83%ad%e3%82%b8%e3%83%a3%e3%82%a4%e3%82%a2) | N/A |
+| 35 | [ラージャマウリ監督](http://twitter.com/search?q=%e3%83%a9%e3%83%bc%e3%82%b8%e3%83%a3%e3%83%9e%e3%82%a6%e3%83%aa%e7%9b%a3%e7%9d%a3) | N/A |
+| 36 | [北斗茶髪](http://twitter.com/search?q=%e5%8c%97%e6%96%97%e8%8c%b6%e9%ab%aa) | N/A |
+| 37 | [ぱしゃっつ](http://twitter.com/search?q=%e3%81%b1%e3%81%97%e3%82%83%e3%81%a3%e3%81%a4) | ぱしゃっつ is an onomatopoeia that is used to express the sound of something being thrown or tossed. In English, it could be translated as "toss" or "throw". |
+| 38 | [鷺沼プール](http://twitter.com/search?q=%e9%b7%ba%e6%b2%bc%e3%83%97%e3%83%bc%e3%83%ab) | N/A |
+| 39 | [未来ハーモニー](http://twitter.com/search?q=%e6%9c%aa%e6%9d%a5%e3%83%8f%e3%83%bc%e3%83%a2%e3%83%8b%e3%83%bc) | N/A |
+| 40 | [赤メッシュ](http://twitter.com/search?q=%e8%b5%a4%e3%83%a1%e3%83%83%e3%82%b7%e3%83%a5) | N/A |
+| 41 | [宝石の国](http://twitter.com/search?q=%e5%ae%9d%e7%9f%b3%e3%81%ae%e5%9b%bd) | N/A |
+| 42 | [餃子の王将](http://twitter.com/search?q=%e9%a4%83%e5%ad%90%e3%81%ae%e7%8e%8b%e5%b0%86) | N/A |
+| 43 | [北斗くん茶髪](http://twitter.com/search?q=%e5%8c%97%e6%96%97%e3%81%8f%e3%82%93%e8%8c%b6%e9%ab%aa) | N/A |
+| 44 | [バーフバリ](http://twitter.com/search?q=%e3%83%90%e3%83%bc%e3%83%95%e3%83%90%e3%83%aa) | N/A |
+| 45 | [シンシャ](http://twitter.com/search?q=%e3%82%b7%e3%83%b3%e3%82%b7%e3%83%a3) | シンシャ is a Japanese word that means "sincere". It is used to describe someone who is honest and genuine in their feelings and actions. |
+| 46 | [康二くん](http://twitter.com/search?q=%e5%ba%b7%e4%ba%8c%e3%81%8f%e3%82%93) | 康二くん is a Japanese manga series written and illustrated by Takashi Shiina. It follows the story of a young man named Kōji, who is trying to find his place in the world. The title literally translates to "Kōji the Second". |
+| 47 | [ロジャー](http://twitter.com/search?q=%e3%83%ad%e3%82%b8%e3%83%a3%e3%83%bc) | N/A |
+| 48 | [有吉さん](http://twitter.com/search?q=%e6%9c%89%e5%90%89%e3%81%95%e3%82%93) | N/A |
+| 49 | [肘タッチ](http://twitter.com/search?q=%e8%82%98%e3%82%bf%e3%83%83%e3%83%81) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Germany
 
-📆 Last Updated: `2023-02-25 12:17:50 UTC`
+📆 Last Updated: `2023-02-25 13:19:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,49 +22,49 @@ This is top 50 for Germany
 | 5 | [Bock auf Arbeit](http://twitter.com/search?q=Bock+auf+Arbeit) | N/A |
 | 6 | [#StandWithUkraine](http://twitter.com/search?q=%23StandWithUkraine) | N/A |
 | 7 | [Irreführung der Bevölkerung](http://twitter.com/search?q=Irref%c3%bchrung+der+Bev%c3%b6lkerung) | N/A |
-| 8 | [BASF](http://twitter.com/search?q=BASF) | N/A |
-| 9 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
-| 10 | [Seite der Geschichte](http://twitter.com/search?q=Seite+der+Geschichte) | N/A |
-| 11 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
-| 12 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
+| 8 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
+| 9 | [Seite der Geschichte](http://twitter.com/search?q=Seite+der+Geschichte) | N/A |
+| 10 | [BASF](http://twitter.com/search?q=BASF) | N/A |
+| 11 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
+| 12 | [SOOBIN](http://twitter.com/search?q=SOOBIN) | SOOBIN is a Korean name, derived from the Chinese characters for "protection" and "beauty". It can be translated to mean "protected beauty" in English. |
 | 13 | [Schönen Samstag](http://twitter.com/search?q=Sch%c3%b6nen+Samstag) | N/A |
-| 14 | [Begeisterung an die Front](http://twitter.com/search?q=Begeisterung+an+die+Front) | N/A |
-| 15 | ['Skurriles'](http://twitter.com/search?q=%27Skurriles%27) | N/A |
-| 16 | [Fleischhauer](http://twitter.com/search?q=Fleischhauer) | N/A |
-| 17 | [INEC](http://twitter.com/search?q=INEC) | N/A |
-| 18 | [Werner Sinn](http://twitter.com/search?q=Werner+Sinn) | N/A |
-| 19 | [Farke](http://twitter.com/search?q=Farke) | N/A |
-| 20 | [Höcke](http://twitter.com/search?q=H%c3%b6cke) | N/A |
-| 21 | [Panzer](http://twitter.com/search?q=Panzer) | N/A |
-| 22 | [Weltbilds](http://twitter.com/search?q=Weltbilds) | N/A |
-| 23 | [Botschaft](http://twitter.com/search?q=Botschaft) | N/A |
-| 24 | [Uni Bonn](http://twitter.com/search?q=Uni+Bonn) | N/A |
-| 25 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 26 | [Affront](http://twitter.com/search?q=Affront) | N/A |
-| 27 | [Klimapolitik](http://twitter.com/search?q=Klimapolitik) | N/A |
-| 28 | [George Harrison](http://twitter.com/search?q=George+Harrison) | N/A |
-| 29 | [Plagiat](http://twitter.com/search?q=Plagiat) | N/A |
-| 30 | [Heimsieg](http://twitter.com/search?q=Heimsieg) | N/A |
-| 31 | [Die Politik der Grünen](http://twitter.com/search?q=Die+Politik+der+Gr%c3%bcnen) | N/A |
+| 14 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
+| 15 | [Habeck](http://twitter.com/search?q=Habeck) | N/A |
+| 16 | [SEUNGKWAN](http://twitter.com/search?q=SEUNGKWAN) | N/A |
+| 17 | [Panzer](http://twitter.com/search?q=Panzer) | N/A |
+| 18 | [Botschaft](http://twitter.com/search?q=Botschaft) | N/A |
+| 19 | [farke](http://twitter.com/search?q=farke) | N/A |
+| 20 | [uni bonn](http://twitter.com/search?q=uni+bonn) | N/A |
+| 21 | [begeisterung an die front](http://twitter.com/search?q=begeisterung+an+die+front) | N/A |
+| 22 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 23 | [George Harrison](http://twitter.com/search?q=George+Harrison) | N/A |
+| 24 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 25 | [Plagiat](http://twitter.com/search?q=Plagiat) | N/A |
+| 26 | [heimsieg](http://twitter.com/search?q=heimsieg) | N/A |
+| 27 | [Die Politik der Grünen](http://twitter.com/search?q=Die+Politik+der+Gr%c3%bcnen) | N/A |
+| 28 | [Elsässer](http://twitter.com/search?q=Els%c3%a4sser) | N/A |
+| 29 | [Brandenburger Tor](http://twitter.com/search?q=Brandenburger+Tor) | N/A |
+| 30 | ['Skurriles'](http://twitter.com/search?q=%27Skurriles%27) | N/A |
+| 31 | [Fleischhauer](http://twitter.com/search?q=Fleischhauer) | N/A |
 | 32 | [Hofreiter](http://twitter.com/search?q=Hofreiter) | N/A |
-| 33 | [Kriegstreiber](http://twitter.com/search?q=Kriegstreiber) | N/A |
-| 34 | [freitagabend](http://twitter.com/search?q=freitagabend) | N/A |
-| 35 | [Jahrestag](http://twitter.com/search?q=Jahrestag) | N/A |
-| 36 | [Chromosom](http://twitter.com/search?q=Chromosom) | N/A |
-| 37 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
-| 38 | [Elvedi](http://twitter.com/search?q=Elvedi) | N/A |
-| 39 | [Brandenburger Tor](http://twitter.com/search?q=Brandenburger+Tor) | N/A |
-| 40 | [Angriffskrieg](http://twitter.com/search?q=Angriffskrieg) | N/A |
-| 41 | [Standort Deutschland](http://twitter.com/search?q=Standort+Deutschland) | N/A |
-| 42 | [Hagel](http://twitter.com/search?q=Hagel) | N/A |
-| 43 | [Negativbeispiel](http://twitter.com/search?q=Negativbeispiel) | N/A |
-| 44 | [Schlesinger](http://twitter.com/search?q=Schlesinger) | N/A |
+| 33 | [Hagel](http://twitter.com/search?q=Hagel) | N/A |
+| 34 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
+| 35 | [Kriegstreiber](http://twitter.com/search?q=Kriegstreiber) | N/A |
+| 36 | [Elvedi](http://twitter.com/search?q=Elvedi) | N/A |
+| 37 | [Hans-Werner Sinn](http://twitter.com/search?q=Hans-Werner+Sinn) | N/A |
+| 38 | [Chromosom](http://twitter.com/search?q=Chromosom) | N/A |
+| 39 | [INEC](http://twitter.com/search?q=INEC) | N/A |
+| 40 | [Affront](http://twitter.com/search?q=Affront) | N/A |
+| 41 | [Freitagabend](http://twitter.com/search?q=Freitagabend) | N/A |
+| 42 | [Flocken](http://twitter.com/search?q=Flocken) | N/A |
+| 43 | [Klimapolitik](http://twitter.com/search?q=Klimapolitik) | N/A |
+| 44 | [Standort Deutschland](http://twitter.com/search?q=Standort+Deutschland) | N/A |
 | 45 | [Arbeitgeber](http://twitter.com/search?q=Arbeitgeber) | N/A |
-| 46 | [Pubertätsblocker](http://twitter.com/search?q=Pubert%c3%a4tsblocker) | N/A |
-| 47 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 48 | [Wölfin](http://twitter.com/search?q=W%c3%b6lfin) | N/A |
-| 49 | [Faktenfinder](http://twitter.com/search?q=Faktenfinder) | N/A |
-| 50 | [karina](http://twitter.com/search?q=karina) | N/A |
+| 46 | [Herr Lindner](http://twitter.com/search?q=Herr+Lindner) | N/A |
+| 47 | [pubertätsblocker](http://twitter.com/search?q=pubert%c3%a4tsblocker) | N/A |
+| 48 | [Christoph Waltz](http://twitter.com/search?q=Christoph+Waltz) | N/A |
+| 49 | [Angriffskrieg](http://twitter.com/search?q=Angriffskrieg) | N/A |
+| 50 | [Schlesinger](http://twitter.com/search?q=Schlesinger) | N/A |
 
 
 

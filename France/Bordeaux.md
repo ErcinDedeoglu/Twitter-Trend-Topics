@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bordeaux
 
-📆 Last Updated: `2023-02-25 12:17:05 UTC`
+📆 Last Updated: `2023-02-25 13:19:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,12 +15,12 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#cesar2023](http://twitter.com/search?q=%23cesar2023) | N/A |
+| 1 | [#Cesar2023](http://twitter.com/search?q=%23Cesar2023) | N/A |
 | 2 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
-| 3 | [Brad Pitt](http://twitter.com/search?q=Brad+Pitt) | N/A |
-| 4 | [#SIA2023](http://twitter.com/search?q=%23SIA2023) | N/A |
-| 5 | [#UnibetFive](http://twitter.com/search?q=%23UnibetFive) | N/A |
-| 6 | [Diacre](http://twitter.com/search?q=Diacre) | N/A |
+| 3 | [#SIA2023](http://twitter.com/search?q=%23SIA2023) | N/A |
+| 4 | [Brad Pitt](http://twitter.com/search?q=Brad+Pitt) | N/A |
+| 5 | [Diacre](http://twitter.com/search?q=Diacre) | N/A |
+| 6 | [#LOSCSB29](http://twitter.com/search?q=%23LOSCSB29) | N/A |
 | 7 | [Virginie Efira](http://twitter.com/search?q=Virginie+Efira) | N/A |
 | 8 | [La Nuit du 12](http://twitter.com/search?q=La+Nuit+du+12) | N/A |
 | 9 | [HONOR Magic 5 Lite](http://twitter.com/search?q=HONOR+Magic+5+Lite) | N/A |
@@ -29,38 +29,38 @@ This is top 50 for [France](</France>)
 | 12 | [Ahmed Sylla](http://twitter.com/search?q=Ahmed+Sylla) | N/A |
 | 13 | [Chine](http://twitter.com/search?q=Chine) | N/A |
 | 14 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 15 | [Adèle Haenel](http://twitter.com/search?q=Ad%c3%a8le+Haenel) | N/A |
-| 16 | [David Fincher](http://twitter.com/search?q=David+Fincher) | N/A |
-| 17 | [Ziak](http://twitter.com/search?q=Ziak) | N/A |
-| 18 | [Beefcut](http://twitter.com/search?q=Beefcut) | N/A |
-| 19 | [Alice Diop](http://twitter.com/search?q=Alice+Diop) | N/A |
+| 15 | [David Fincher](http://twitter.com/search?q=David+Fincher) | N/A |
+| 16 | [Adèle Haenel](http://twitter.com/search?q=Ad%c3%a8le+Haenel) | N/A |
+| 17 | [Beefcut](http://twitter.com/search?q=Beefcut) | N/A |
+| 18 | [Alice Diop](http://twitter.com/search?q=Alice+Diop) | N/A |
+| 19 | [Ziak](http://twitter.com/search?q=Ziak) | N/A |
 | 20 | [Dominik Moll](http://twitter.com/search?q=Dominik+Moll) | N/A |
-| 21 | [Mbemba](http://twitter.com/search?q=Mbemba) | Mbemba is a Bantu language spoken in the Democratic Republic of Congo. It is also known as Cibemba, Chibemba, Ichibemba, and Cilamba. The meaning of Mbemba in English is "language". |
-| 22 | [Jérôme Commandeur](http://twitter.com/search?q=J%c3%a9r%c3%b4me+Commandeur) | N/A |
+| 21 | [Jérôme Commandeur](http://twitter.com/search?q=J%c3%a9r%c3%b4me+Commandeur) | N/A |
+| 22 | [Pacifiction](http://twitter.com/search?q=Pacifiction) | N/A |
 | 23 | [Bastien Bouillon](http://twitter.com/search?q=Bastien+Bouillon) | N/A |
-| 24 | ["Pacifiction"](http://twitter.com/search?q=%22Pacifiction%22) | N/A |
-| 25 | [Wendie Renard](http://twitter.com/search?q=Wendie+Renard) | N/A |
-| 26 | [Camargue](http://twitter.com/search?q=Camargue) | N/A |
-| 27 | [Noémie Merlant](http://twitter.com/search?q=No%c3%a9mie+Merlant) | N/A |
-| 28 | [Benoît Magimel](http://twitter.com/search?q=Beno%c3%aet+Magimel) | N/A |
-| 29 | [Fonseca](http://twitter.com/search?q=Fonseca) | N/A |
-| 30 | [JOUR DE MATCH](http://twitter.com/search?q=JOUR+DE+MATCH) | N/A |
-| 31 | [Brest](http://twitter.com/search?q=Brest) | N/A |
-| 32 | [bouli lanners](http://twitter.com/search?q=bouli+lanners) | N/A |
-| 33 | [Ukrainiens](http://twitter.com/search?q=Ukrainiens) | N/A |
-| 34 | [Danso](http://twitter.com/search?q=Danso) | N/A |
-| 35 | [Tahar Rahim](http://twitter.com/search?q=Tahar+Rahim) | N/A |
-| 36 | [Charlotte Gainsbourg](http://twitter.com/search?q=Charlotte+Gainsbourg) | N/A |
-| 37 | [Laporte](http://twitter.com/search?q=Laporte) | Laporte is a French surname derived from the Old French word "la porte," meaning "the door." It is also the name of several towns in France. |
-| 38 | [Le Graet](http://twitter.com/search?q=Le+Graet) | Le Graet is a French surname. It is derived from the Old French word "graet," which means "great." In English, it can be translated to mean "the great one." |
-| 39 | [Revoir Paris](http://twitter.com/search?q=Revoir+Paris) | N/A |
-| 40 | [la fff](http://twitter.com/search?q=la+fff) | N/A |
-| 41 | [Don Toliver](http://twitter.com/search?q=Don+Toliver) | N/A |
-| 42 | [Dinos](http://twitter.com/search?q=Dinos) | N/A |
-| 43 | [Todibo](http://twitter.com/search?q=Todibo) | N/A |
-| 44 | [Feldup](http://twitter.com/search?q=Feldup) | N/A |
-| 45 | [Everest](http://twitter.com/search?q=Everest) | N/A |
-| 46 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
+| 24 | [Wendie Renard](http://twitter.com/search?q=Wendie+Renard) | N/A |
+| 25 | [benoît magimel](http://twitter.com/search?q=beno%c3%aet+magimel) | N/A |
+| 26 | [Noémie Merlant](http://twitter.com/search?q=No%c3%a9mie+Merlant) | N/A |
+| 27 | [Fonseca](http://twitter.com/search?q=Fonseca) | N/A |
+| 28 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
+| 29 | [Mbemba](http://twitter.com/search?q=Mbemba) | Mbemba is a Bantu language spoken in the Democratic Republic of Congo. It is also known as Cibemba, Chibemba, Ichibemba, and Cilamba. The meaning of Mbemba in English is "language". |
+| 30 | [Brest](http://twitter.com/search?q=Brest) | N/A |
+| 31 | [L'épisode de MHA](http://twitter.com/search?q=L%27%c3%a9pisode+de+MHA) | N/A |
+| 32 | [Ukrainiens](http://twitter.com/search?q=Ukrainiens) | N/A |
+| 33 | [Charlotte Gainsbourg](http://twitter.com/search?q=Charlotte+Gainsbourg) | N/A |
+| 34 | [Tahar Rahim](http://twitter.com/search?q=Tahar+Rahim) | N/A |
+| 35 | [Everest](http://twitter.com/search?q=Everest) | N/A |
+| 36 | [Revoir Paris](http://twitter.com/search?q=Revoir+Paris) | N/A |
+| 37 | [Dinos](http://twitter.com/search?q=Dinos) | N/A |
+| 38 | [Bouli Lanners](http://twitter.com/search?q=Bouli+Lanners) | N/A |
+| 39 | [Saint Omer](http://twitter.com/search?q=Saint+Omer) | N/A |
+| 40 | [Mandanda](http://twitter.com/search?q=Mandanda) | N/A |
+| 41 | [Feldup](http://twitter.com/search?q=Feldup) | N/A |
+| 42 | [Don Toliver](http://twitter.com/search?q=Don+Toliver) | N/A |
+| 43 | [Le Graet](http://twitter.com/search?q=Le+Graet) | Le Graet is a French surname. It is derived from the Old French word "graet," which means "great." In English, it can be translated to mean "the great one." |
+| 44 | [arthur fils](http://twitter.com/search?q=arthur+fils) | N/A |
+| 45 | [Diani](http://twitter.com/search?q=Diani) | N/A |
+| 46 | [Bale](http://twitter.com/search?q=Bale) | Bale is a large bundle of goods, usually compressed and tied up with string or wire, for storage or transport. It is commonly used to refer to bundles of hay, straw, or cotton. |
 
 
 

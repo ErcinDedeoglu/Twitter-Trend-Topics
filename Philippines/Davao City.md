@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Davao City
 
-📆 Last Updated: `2023-02-25 12:17:23 UTC`
+📆 Last Updated: `2023-02-25 13:19:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TheVoiceKidsPH5](http://twitter.com/search?q=%23TheVoiceKidsPH5) | N/A |
-| 2 | [KDLEX TUMINDIG AT UMIBIG](http://twitter.com/search?q=KDLEX+TUMINDIG+AT+UMIBIG) | N/A |
-| 3 | [#FERRAGAMOxJENO](http://twitter.com/search?q=%23FERRAGAMOxJENO) | N/A |
-| 4 | [#FreenBeckyxTaitaituan](http://twitter.com/search?q=%23FreenBeckyxTaitaituan) | N/A |
-| 5 | [Ara Galang](http://twitter.com/search?q=Ara+Galang) | N/A |
-| 6 | [#aespa1stConcertSYNK_HYPERLINE](http://twitter.com/search?q=%23aespa1stConcertSYNK_HYPERLINE) | N/A |
-| 7 | [BGYO AT SINGKAMASaya FEST](http://twitter.com/search?q=BGYO+AT+SINGKAMASaya+FEST) | N/A |
-| 8 | [Ningning](http://twitter.com/search?q=Ningning) | Ningning is a Chinese term of endearment, similar to "honey" or "sweetheart" in English. It is used to express affection and fondness for someone. |
-| 9 | [MARICEL SORIANO DAY](http://twitter.com/search?q=MARICEL+SORIANO+DAY) | N/A |
-| 10 | [Congrats Creamline](http://twitter.com/search?q=Congrats+Creamline) | N/A |
-| 11 | [KAOMIAHxACE TADHANAMV](http://twitter.com/search?q=KAOMIAHxACE+TADHANAMV) | N/A |
-| 12 | [karina](http://twitter.com/search?q=karina) | N/A |
-| 13 | [ZACHAM CHOSEN B4RKADA](http://twitter.com/search?q=ZACHAM+CHOSEN+B4RKADA) | N/A |
-| 14 | [BODY ROCK ASIA WITH BINI](http://twitter.com/search?q=BODY+ROCK+ASIA+WITH+BINI) | N/A |
-| 15 | [SoldOut Queen REGINE](http://twitter.com/search?q=SoldOut+Queen+REGINE) | N/A |
-| 16 | [Kyla](http://twitter.com/search?q=Kyla) | N/A |
-| 17 | [GISELLE](http://twitter.com/search?q=GISELLE) | N/A |
-| 18 | [Jema](http://twitter.com/search?q=Jema) | N/A |
-| 19 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 20 | [JIA IS GOLD](http://twitter.com/search?q=JIA+IS+GOLD) | N/A |
-| 21 | [Irene](http://twitter.com/search?q=Irene) | N/A |
-| 22 | [Yeri](http://twitter.com/search?q=Yeri) | N/A |
-| 23 | [BARKADAS WITH ROBXINE](http://twitter.com/search?q=BARKADAS+WITH+ROBXINE) | N/A |
-| 24 | [Cignal](http://twitter.com/search?q=Cignal) | N/A |
-| 25 | [HAN JISUNG](http://twitter.com/search?q=HAN+JISUNG) | HAN JISUNG is the stage name of South Korean singer and actor Han Ji-sung. He is a member of the K-pop boy group Stray Kids. The name "HAN JISUNG" can be translated to mean "one who stands out" in English. |
-| 26 | [Tots](http://twitter.com/search?q=Tots) | N/A |
-| 27 | [KIM MINJEONG](http://twitter.com/search?q=KIM+MINJEONG) | N/A |
-| 28 | [Chery Tiggo](http://twitter.com/search?q=Chery+Tiggo) | N/A |
-| 29 | [Inay](http://twitter.com/search?q=Inay) | N/A |
-| 30 | [KODREA AT VISTAMALL TAGUIG](http://twitter.com/search?q=KODREA+AT+VISTAMALL+TAGUIG) | N/A |
-| 31 | [Kross the Line with ENHYPEN](http://twitter.com/search?q=Kross+the+Line+with+ENHYPEN) | N/A |
-| 32 | [Gigi](http://twitter.com/search?q=Gigi) | Gigi is a French name, derived from the diminutive of the name Georges. It is also a 1958 musical film about a young Parisian girl who is being groomed as a courtesan in turn-of-the-20th-century France. In English, Gigi means "little one". |
-| 33 | [Ateneo](http://twitter.com/search?q=Ateneo) | N/A |
-| 34 | [Winter](http://twitter.com/search?q=Winter) | N/A |
-| 35 | [Belen](http://twitter.com/search?q=Belen) | N/A |
-| 36 | [Faith](http://twitter.com/search?q=Faith) | N/A |
-| 37 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
-| 38 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 39 | [Lamina](http://twitter.com/search?q=Lamina) | N/A |
-| 40 | [Martial Law](http://twitter.com/search?q=Martial+Law) | N/A |
-| 41 | [ADMU](http://twitter.com/search?q=ADMU) | N/A |
-| 42 | [EDSA Revolution](http://twitter.com/search?q=EDSA+Revolution) | N/A |
-| 43 | [YOUR TYPE GAME](http://twitter.com/search?q=YOUR+TYPE+GAME) | N/A |
-| 44 | [Marcoses](http://twitter.com/search?q=Marcoses) | N/A |
-| 45 | [#BGYOsaZambales](http://twitter.com/search?q=%23BGYOsaZambales) | N/A |
-| 46 | [#SingkamasFestival2023](http://twitter.com/search?q=%23SingkamasFestival2023) | N/A |
-| 47 | [#BreakTheCode](http://twitter.com/search?q=%23BreakTheCode) | #BreakTheCode is a hashtag used to encourage people to challenge themselves to solve puzzles, riddles, and other types of codes. It is a call to action for people to use their problem-solving skills and creativity to break through barriers and find solutions. |
+| 1 | [SOOBIN](http://twitter.com/search?q=SOOBIN) | SOOBIN is a Korean name, derived from the Chinese characters for "protection" and "beauty". It can be translated to mean "protected beauty" in English. |
+| 2 | [KIM SUNOO](http://twitter.com/search?q=KIM+SUNOO) | N/A |
+| 3 | [#FreenBeckyxTaitaituan](http://twitter.com/search?q=%23FreenBeckyxTaitaituan) | N/A |
+| 4 | [Congrats F2](http://twitter.com/search?q=Congrats+F2) | N/A |
+| 5 | [#도겸_발리쇼에서만나](http://twitter.com/search?q=%23%eb%8f%84%ea%b2%b8_%eb%b0%9c%eb%a6%ac%ec%87%bc%ec%97%90%ec%84%9c%eb%a7%8c%eb%82%98) | N/A |
+| 6 | [#DOKYEOMxBALLYatMFW](http://twitter.com/search?q=%23DOKYEOMxBALLYatMFW) | N/A |
+| 7 | [#TheVoiceKidsPH5](http://twitter.com/search?q=%23TheVoiceKidsPH5) | N/A |
+| 8 | [KDLEX TUMINDIG AT UMIBIG](http://twitter.com/search?q=KDLEX+TUMINDIG+AT+UMIBIG) | N/A |
+| 9 | [SUNOO CROP TOP](http://twitter.com/search?q=SUNOO+CROP+TOP) | N/A |
+| 10 | [DOKYEOM AT MILAN FASHION WEEK](http://twitter.com/search?q=DOKYEOM+AT+MILAN+FASHION+WEEK) | N/A |
+| 11 | [Ara Galang](http://twitter.com/search?q=Ara+Galang) | N/A |
+| 12 | [BGYO AT SINGKAMASaya FEST](http://twitter.com/search?q=BGYO+AT+SINGKAMASaya+FEST) | N/A |
+| 13 | [MARICEL SORIANO DAY](http://twitter.com/search?q=MARICEL+SORIANO+DAY) | N/A |
+| 14 | [soldout queen regine](http://twitter.com/search?q=soldout+queen+regine) | N/A |
+| 15 | [Cignal](http://twitter.com/search?q=Cignal) | N/A |
+| 16 | [Ningning](http://twitter.com/search?q=Ningning) | Ningning is a Chinese term of endearment, similar to "honey" or "sweetheart" in English. It is used to express affection and fondness for someone. |
+| 17 | [Irene](http://twitter.com/search?q=Irene) | N/A |
+| 18 | [ORDINARY CONCEPT PHOTO](http://twitter.com/search?q=ORDINARY+CONCEPT+PHOTO) | N/A |
+| 19 | [Congrats Creamline](http://twitter.com/search?q=Congrats+Creamline) | N/A |
+| 20 | [KAOMIAHxACE TADHANAMV](http://twitter.com/search?q=KAOMIAHxACE+TADHANAMV) | N/A |
+| 21 | [BODY ROCK ASIA WITH BINI](http://twitter.com/search?q=BODY+ROCK+ASIA+WITH+BINI) | N/A |
+| 22 | [ZACHAM CHOSEN B4RKADA](http://twitter.com/search?q=ZACHAM+CHOSEN+B4RKADA) | N/A |
+| 23 | [Kross the Line with ENHYPEN](http://twitter.com/search?q=Kross+the+Line+with+ENHYPEN) | N/A |
+| 24 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
+| 25 | [karina](http://twitter.com/search?q=karina) | N/A |
+| 26 | [Jema](http://twitter.com/search?q=Jema) | N/A |
+| 27 | [WE LOVE OUR BLUE](http://twitter.com/search?q=WE+LOVE+OUR+BLUE) | N/A |
+| 28 | [BARKADAS WITH ROBXINE](http://twitter.com/search?q=BARKADAS+WITH+ROBXINE) | N/A |
+| 29 | [JIA IS GOLD](http://twitter.com/search?q=JIA+IS+GOLD) | N/A |
+| 30 | [KYLA ATIENZA](http://twitter.com/search?q=KYLA+ATIENZA) | N/A |
+| 31 | [Wise](http://twitter.com/search?q=Wise) | N/A |
+| 32 | [GISELLE](http://twitter.com/search?q=GISELLE) | N/A |
+| 33 | [yeri](http://twitter.com/search?q=yeri) | N/A |
+| 34 | [KIM MINJEONG](http://twitter.com/search?q=KIM+MINJEONG) | N/A |
+| 35 | [Winter](http://twitter.com/search?q=Winter) | N/A |
+| 36 | [Inay](http://twitter.com/search?q=Inay) | N/A |
+| 37 | [Gigi](http://twitter.com/search?q=Gigi) | Gigi is a French name, derived from the diminutive of the name Georges. It is also a 1958 musical film about a young Parisian girl who is being groomed as a courtesan in turn-of-the-20th-century France. In English, Gigi means "little one". |
+| 38 | [Ateneo](http://twitter.com/search?q=Ateneo) | N/A |
+| 39 | [HAN JISUNG](http://twitter.com/search?q=HAN+JISUNG) | HAN JISUNG is the stage name of South Korean singer and actor Han Ji-sung. He is a member of the K-pop boy group Stray Kids. The name "HAN JISUNG" can be translated to mean "one who stands out" in English. |
+| 40 | [Lamina](http://twitter.com/search?q=Lamina) | N/A |
+| 41 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
+| 42 | [Jinyoung](http://twitter.com/search?q=Jinyoung) | N/A |
+| 43 | [Martial Law](http://twitter.com/search?q=Martial+Law) | N/A |
+| 44 | [ADMU](http://twitter.com/search?q=ADMU) | N/A |
+| 45 | [#FERRAGAMOxJENO](http://twitter.com/search?q=%23FERRAGAMOxJENO) | N/A |
+| 46 | [#BGYOsaZambales](http://twitter.com/search?q=%23BGYOsaZambales) | N/A |
+| 47 | [#ENHYPEN_at_KROSSvol2](http://twitter.com/search?q=%23ENHYPEN_at_KROSSvol2) | N/A |
 
 
 

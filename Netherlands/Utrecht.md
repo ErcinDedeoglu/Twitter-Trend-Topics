@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Utrecht
 
-📆 Last Updated: `2023-02-25 12:17:10 UTC`
+📆 Last Updated: `2023-02-25 13:19:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,50 +20,50 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 3 | [#aftreden](http://twitter.com/search?q=%23aftreden) | N/A |
 | 4 | [#pegas](http://twitter.com/search?q=%23pegas) | N/A |
 | 5 | [#uniaja](http://twitter.com/search?q=%23uniaja) | N/A |
-| 6 | [#Avastars](http://twitter.com/search?q=%23Avastars) | N/A |
-| 7 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 8 | [Oekraïne](http://twitter.com/search?q=Oekra%c3%afne) | N/A |
+| 6 | [Zwijndrecht](http://twitter.com/search?q=Zwijndrecht) | N/A |
+| 7 | [#Avastars](http://twitter.com/search?q=%23Avastars) | N/A |
+| 8 | [SEUNGKWAN](http://twitter.com/search?q=SEUNGKWAN) | N/A |
 | 9 | [Huub](http://twitter.com/search?q=Huub) | N/A |
-| 10 | [George Harrison](http://twitter.com/search?q=George+Harrison) | N/A |
-| 11 | [Youp](http://twitter.com/search?q=Youp) | N/A |
-| 12 | [joey kooij](http://twitter.com/search?q=joey+kooij) | N/A |
+| 10 | [Oekraïne](http://twitter.com/search?q=Oekra%c3%afne) | N/A |
+| 11 | [SOOBIN](http://twitter.com/search?q=SOOBIN) | SOOBIN is a Korean name, derived from the Chinese characters for "protection" and "beauty". It can be translated to mean "protected beauty" in English. |
+| 12 | [Goedemiddag](http://twitter.com/search?q=Goedemiddag) | N/A |
 | 13 | [Fijn](http://twitter.com/search?q=Fijn) | N/A |
 | 14 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 15 | [Groningse](http://twitter.com/search?q=Groningse) | N/A |
-| 16 | [Vijlbrief](http://twitter.com/search?q=Vijlbrief) | N/A |
-| 17 | [WOZ-waarde](http://twitter.com/search?q=WOZ-waarde) | N/A |
-| 18 | [Russische](http://twitter.com/search?q=Russische) | N/A |
-| 19 | [Bernhard](http://twitter.com/search?q=Bernhard) | N/A |
-| 20 | [Vera Bergkamp](http://twitter.com/search?q=Vera+Bergkamp) | N/A |
-| 21 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
-| 22 | [Dag 25](http://twitter.com/search?q=Dag+25) | N/A |
-| 23 | [Pauw](http://twitter.com/search?q=Pauw) | N/A |
-| 24 | [Exxon](http://twitter.com/search?q=Exxon) | N/A |
-| 25 | [Fontys](http://twitter.com/search?q=Fontys) | N/A |
-| 26 | [Koopmans](http://twitter.com/search?q=Koopmans) | N/A |
-| 27 | [Ollongren](http://twitter.com/search?q=Ollongren) | N/A |
-| 28 | [Silva](http://twitter.com/search?q=Silva) | N/A |
-| 29 | [Carel](http://twitter.com/search?q=Carel) | N/A |
-| 30 | [Dylano](http://twitter.com/search?q=Dylano) | N/A |
-| 31 | [Haga](http://twitter.com/search?q=Haga) | N/A |
-| 32 | [op 25](http://twitter.com/search?q=op+25) | N/A |
-| 33 | [Chantal](http://twitter.com/search?q=Chantal) | N/A |
-| 34 | [opstappen](http://twitter.com/search?q=opstappen) | N/A |
-| 35 | [Karolien](http://twitter.com/search?q=Karolien) | N/A |
-| 36 | [Edith Schippers](http://twitter.com/search?q=Edith+Schippers) | N/A |
-| 37 | [Shakhtar Donetsk](http://twitter.com/search?q=Shakhtar+Donetsk) | N/A |
-| 38 | [Van der Wal](http://twitter.com/search?q=Van+der+Wal) | N/A |
-| 39 | [Bassey](http://twitter.com/search?q=Bassey) | N/A |
-| 40 | [BMTH](http://twitter.com/search?q=BMTH) | N/A |
-| 41 | [Klimaatterrorisme](http://twitter.com/search?q=Klimaatterrorisme) | N/A |
-| 42 | [Brands](http://twitter.com/search?q=Brands) | N/A |
-| 43 | [Auassar](http://twitter.com/search?q=Auassar) | N/A |
-| 44 | [Erasmusbrug](http://twitter.com/search?q=Erasmusbrug) | N/A |
-| 45 | [Kuiken](http://twitter.com/search?q=Kuiken) | N/A |
-| 46 | [INEC](http://twitter.com/search?q=INEC) | N/A |
-| 47 | [Willem II](http://twitter.com/search?q=Willem+II) | N/A |
-| 48 | [Geniet](http://twitter.com/search?q=Geniet) | N/A |
-| 49 | [Toto](http://twitter.com/search?q=Toto) | N/A |
+| 15 | [Zuidland](http://twitter.com/search?q=Zuidland) | N/A |
+| 16 | [Groningse](http://twitter.com/search?q=Groningse) | N/A |
+| 17 | [Dag 25](http://twitter.com/search?q=Dag+25) | N/A |
+| 18 | [Pauw](http://twitter.com/search?q=Pauw) | N/A |
+| 19 | [Schiedam](http://twitter.com/search?q=Schiedam) | N/A |
+| 20 | [Youp](http://twitter.com/search?q=Youp) | N/A |
+| 21 | [Vijlbrief](http://twitter.com/search?q=Vijlbrief) | N/A |
+| 22 | [Russische](http://twitter.com/search?q=Russische) | N/A |
+| 23 | [Bernhard](http://twitter.com/search?q=Bernhard) | N/A |
+| 24 | [PvdA](http://twitter.com/search?q=PvdA) | N/A |
+| 25 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
+| 26 | [Fontys](http://twitter.com/search?q=Fontys) | N/A |
+| 27 | [Exxon](http://twitter.com/search?q=Exxon) | N/A |
+| 28 | [Koopmans](http://twitter.com/search?q=Koopmans) | N/A |
+| 29 | [Vera Bergkamp](http://twitter.com/search?q=Vera+Bergkamp) | N/A |
+| 30 | [Haga](http://twitter.com/search?q=Haga) | N/A |
+| 31 | [Silva](http://twitter.com/search?q=Silva) | N/A |
+| 32 | [Dylano](http://twitter.com/search?q=Dylano) | N/A |
+| 33 | [carel](http://twitter.com/search?q=carel) | N/A |
+| 34 | [Ollongren](http://twitter.com/search?q=Ollongren) | N/A |
+| 35 | [Chantal](http://twitter.com/search?q=Chantal) | N/A |
+| 36 | [Opstappen](http://twitter.com/search?q=Opstappen) | N/A |
+| 37 | [Auassar](http://twitter.com/search?q=Auassar) | N/A |
+| 38 | [Shakhtar Donetsk](http://twitter.com/search?q=Shakhtar+Donetsk) | N/A |
+| 39 | [Van der Wal](http://twitter.com/search?q=Van+der+Wal) | N/A |
+| 40 | [Kuiken](http://twitter.com/search?q=Kuiken) | N/A |
+| 41 | [George Harrison](http://twitter.com/search?q=George+Harrison) | N/A |
+| 42 | [BMTH](http://twitter.com/search?q=BMTH) | N/A |
+| 43 | [Klimaatterrorisme](http://twitter.com/search?q=Klimaatterrorisme) | N/A |
+| 44 | [INEC](http://twitter.com/search?q=INEC) | N/A |
+| 45 | [Bassey](http://twitter.com/search?q=Bassey) | N/A |
+| 46 | [Edith Schippers](http://twitter.com/search?q=Edith+Schippers) | N/A |
+| 47 | [Brands](http://twitter.com/search?q=Brands) | N/A |
+| 48 | [Erasmusbrug](http://twitter.com/search?q=Erasmusbrug) | N/A |
+| 49 | [Willem II](http://twitter.com/search?q=Willem+II) | N/A |
 
 
 

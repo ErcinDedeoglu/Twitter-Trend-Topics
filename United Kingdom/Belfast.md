@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belfast
 
-📆 Last Updated: `2023-02-25 12:16:53 UTC`
+📆 Last Updated: `2023-02-25 13:18:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 2 | [#SaturdayKitchen](http://twitter.com/search?q=%23SaturdayKitchen) | N/A |
-| 3 | [#Boxing365](http://twitter.com/search?q=%23Boxing365) | N/A |
-| 4 | [INEC](http://twitter.com/search?q=INEC) | N/A |
-| 5 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
-| 6 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
+| 1 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 2 | [#Boxing365](http://twitter.com/search?q=%23Boxing365) | N/A |
+| 3 | [INEC](http://twitter.com/search?q=INEC) | N/A |
+| 4 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 5 | [#NigeriaDecides2023](http://twitter.com/search?q=%23NigeriaDecides2023) | N/A |
+| 6 | [SEUNGKWAN](http://twitter.com/search?q=SEUNGKWAN) | N/A |
 | 7 | [MC Oluomo](http://twitter.com/search?q=MC+Oluomo) | N/A |
-| 8 | [Pat Symonds](http://twitter.com/search?q=Pat+Symonds) | N/A |
-| 9 | [Honor Oak](http://twitter.com/search?q=Honor+Oak) | N/A |
-| 10 | [Mason Greenwood](http://twitter.com/search?q=Mason+Greenwood) | Mason Greenwood is a professional footballer who plays for Manchester United in the English Premier League. He is an attacking player who primarily plays as a forward. His name is derived from his hometown of Mason, England, and the word "greenwood," which refers to a type of forest. |
-| 11 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
-| 12 | [George Harrison](http://twitter.com/search?q=George+Harrison) | N/A |
-| 13 | [Avram](http://twitter.com/search?q=Avram) | N/A |
-| 14 | [Daily Quordle 397](http://twitter.com/search?q=Daily+Quordle+397) | N/A |
-| 15 | [Cenotaph](http://twitter.com/search?q=Cenotaph) | N/A |
-| 16 | [Coventry](http://twitter.com/search?q=Coventry) | Coventry is a city in the West Midlands region of England. It is the 11th largest city in England and the 12th largest in the United Kingdom. The name Coventry is derived from Old English and means "meeting place of the people". |
-| 17 | [BVAS](http://twitter.com/search?q=BVAS) | BVAS stands for Behavioral and Vital Signs. It is a term used in the medical field to refer to the physical and mental signs that can be used to assess a patient's health. These signs include heart rate, blood pressure, temperature, respiration rate, and other indicators of physical and mental health. |
-| 18 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
-| 19 | [Radio 2](http://twitter.com/search?q=Radio+2) | Radio 2 is a BBC radio station in the United Kingdom. It broadcasts a mix of music, news, and entertainment programs. The station's tagline is "The UK's Most Popular Music Station". Radio 2 is the most listened to radio station in the UK, with an average weekly reach of 15.2 million listeners. |
-| 20 | [Atlantis](http://twitter.com/search?q=Atlantis) | N/A |
-| 21 | [Wordle 616 X](http://twitter.com/search?q=Wordle+616+X) | N/A |
-| 22 | [Peter Obi](http://twitter.com/search?q=Peter+Obi) | N/A |
-| 23 | [Kogi](http://twitter.com/search?q=Kogi) | N/A |
-| 24 | [Election Day](http://twitter.com/search?q=Election+Day) | N/A |
-| 25 | [Kempton](http://twitter.com/search?q=Kempton) | N/A |
-| 26 | [Micky Flanagan](http://twitter.com/search?q=Micky+Flanagan) | N/A |
-| 27 | [Kano](http://twitter.com/search?q=Kano) | Kano is a Japanese term that means “riverbank” or “shore.” It is often used to refer to the area around a river or lake, and can also be used to describe a place of natural beauty. |
-| 28 | [South Wales](http://twitter.com/search?q=South+Wales) | N/A |
-| 29 | [Six Nations](http://twitter.com/search?q=Six+Nations) | N/A |
-| 30 | [Catalonia](http://twitter.com/search?q=Catalonia) | N/A |
-| 31 | [Hillsborough](http://twitter.com/search?q=Hillsborough) | N/A |
-| 32 | [Premier Division](http://twitter.com/search?q=Premier+Division) | N/A |
-| 33 | ["Geordies"](http://twitter.com/search?q=%22Geordies%22) | N/A |
-| 34 | [Skegness](http://twitter.com/search?q=Skegness) | N/A |
-| 35 | [Gaza](http://twitter.com/search?q=Gaza) | N/A |
-| 36 | [Nunes](http://twitter.com/search?q=Nunes) | Nunes is a Portuguese surname derived from the Latin word "nuncius," meaning "messenger." It is most commonly found in Portugal, Brazil, and other countries with Portuguese heritage. |
-| 37 | [Ken Bruce](http://twitter.com/search?q=Ken+Bruce) | Ken Bruce is a British radio presenter who has been broadcasting on BBC Radio 2 since 1978. He is best known for his weekday morning show, which features music, news, interviews and competitions. The show has been running since 1985 and is one of the most popular radio shows in the UK. |
-| 38 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 39 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
-| 40 | [Greatest Hits](http://twitter.com/search?q=Greatest+Hits) | N/A |
-| 41 | [Trafalgar Square](http://twitter.com/search?q=Trafalgar+Square) | N/A |
-| 42 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
-| 43 | [Reserves](http://twitter.com/search?q=Reserves) | N/A |
-| 44 | [Vernon](http://twitter.com/search?q=Vernon) | N/A |
-| 45 | [Rod Stewart](http://twitter.com/search?q=Rod+Stewart) | N/A |
-| 46 | [Popmaster](http://twitter.com/search?q=Popmaster) | Popmaster is a British radio quiz show that has been running since the 1980s. It is broadcast on BBC Radio 2 and hosted by Ken Bruce. The show involves contestants answering questions about popular music, with the winner receiving a prize. The term "Popmaster" is used to refer to the host of the show, as well as to describe the game itself. |
-| 47 | [Steve Wright](http://twitter.com/search?q=Steve+Wright) | Steve Wright is a British radio presenter and comedian. He is best known for his long-running BBC Radio 2 show, Steve Wright in the Afternoon. The show features music, comedy sketches, and interviews with celebrity guests. The phrase "Steve Wright" has come to mean a light-hearted and entertaining radio show. |
+| 8 | [Coventry](http://twitter.com/search?q=Coventry) | Coventry is a city in the West Midlands region of England. It is the 11th largest city in England and the 12th largest in the United Kingdom. The name Coventry is derived from Old English and means "meeting place of the people". |
+| 9 | [SOOBIN](http://twitter.com/search?q=SOOBIN) | SOOBIN is a Korean name, derived from the Chinese characters for "protection" and "beauty". It can be translated to mean "protected beauty" in English. |
+| 10 | [Gyokeres](http://twitter.com/search?q=Gyokeres) | N/A |
+| 11 | [Avram Glazer](http://twitter.com/search?q=Avram+Glazer) | N/A |
+| 12 | [Tinubu](http://twitter.com/search?q=Tinubu) | N/A |
+| 13 | [Honor Oak](http://twitter.com/search?q=Honor+Oak) | N/A |
+| 14 | [Football Focus](http://twitter.com/search?q=Football+Focus) | N/A |
+| 15 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
+| 16 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
+| 17 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
+| 18 | [Pat Symonds](http://twitter.com/search?q=Pat+Symonds) | N/A |
+| 19 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
+| 20 | [George Harrison](http://twitter.com/search?q=George+Harrison) | N/A |
+| 21 | [Mason Greenwood](http://twitter.com/search?q=Mason+Greenwood) | Mason Greenwood is a professional footballer who plays for Manchester United in the English Premier League. He is an attacking player who primarily plays as a forward. His name is derived from his hometown of Mason, England, and the word "greenwood," which refers to a type of forest. |
+| 22 | [Kempton](http://twitter.com/search?q=Kempton) | N/A |
+| 23 | [Skegness](http://twitter.com/search?q=Skegness) | N/A |
+| 24 | [Daily Quordle 397](http://twitter.com/search?q=Daily+Quordle+397) | N/A |
+| 25 | [Kone](http://twitter.com/search?q=Kone) | N/A |
+| 26 | [BVAS](http://twitter.com/search?q=BVAS) | BVAS stands for Behavioral and Vital Signs. It is a term used in the medical field to refer to the physical and mental signs that can be used to assess a patient's health. These signs include heart rate, blood pressure, temperature, respiration rate, and other indicators of physical and mental health. |
+| 27 | [Radio 2](http://twitter.com/search?q=Radio+2) | Radio 2 is a BBC radio station in the United Kingdom. It broadcasts a mix of music, news, and entertainment programs. The station's tagline is "The UK's Most Popular Music Station". Radio 2 is the most listened to radio station in the UK, with an average weekly reach of 15.2 million listeners. |
+| 28 | [Cenotaph](http://twitter.com/search?q=Cenotaph) | N/A |
+| 29 | [Atlantis](http://twitter.com/search?q=Atlantis) | N/A |
+| 30 | [Crystal Palace](http://twitter.com/search?q=Crystal+Palace) | Crystal Palace is a cast-iron and plate-glass building originally erected in Hyde Park, London, England, for the Great Exhibition of 1851. The structure was designed by Joseph Paxton and was the first large prefabricated building ever constructed. It has since become a symbol of Victorian architecture and engineering. The term "Crystal Palace" is often used to refer to any large, grand building made of glass and metal. |
+| 31 | [Wordle 616 X](http://twitter.com/search?q=Wordle+616+X) | N/A |
+| 32 | [Election Day](http://twitter.com/search?q=Election+Day) | N/A |
+| 33 | [Peter Obi](http://twitter.com/search?q=Peter+Obi) | N/A |
+| 34 | [Wales](http://twitter.com/search?q=Wales) | Wales is a country in the United Kingdom, located on the western side of Great Britain. It is bordered by England to the east, the Irish Sea to the north and west, and the Bristol Channel to the south. Wales has a population of around 3 million people and is officially bilingual, with both English and Welsh being spoken. The capital city is Cardiff. Wales is known for its rugged coastline, mountainous national parks, medieval castles, and vibrant culture. |
+| 35 | [Kogi](http://twitter.com/search?q=Kogi) | N/A |
+| 36 | [Micky Flanagan](http://twitter.com/search?q=Micky+Flanagan) | N/A |
+| 37 | [Harriet](http://twitter.com/search?q=Harriet) | N/A |
+| 38 | [Kano](http://twitter.com/search?q=Kano) | Kano is a Japanese term that means “riverbank” or “shore.” It is often used to refer to the area around a river or lake, and can also be used to describe a place of natural beauty. |
+| 39 | [Gaza](http://twitter.com/search?q=Gaza) | N/A |
+| 40 | [Hillsborough](http://twitter.com/search?q=Hillsborough) | N/A |
+| 41 | [Catalonia](http://twitter.com/search?q=Catalonia) | N/A |
+| 42 | [Premier Division](http://twitter.com/search?q=Premier+Division) | N/A |
+| 43 | [Trafalgar Square](http://twitter.com/search?q=Trafalgar+Square) | N/A |
+| 44 | [Geordies](http://twitter.com/search?q=Geordies) | N/A |
+| 45 | [Nunes](http://twitter.com/search?q=Nunes) | Nunes is a Portuguese surname derived from the Latin word "nuncius," meaning "messenger." It is most commonly found in Portugal, Brazil, and other countries with Portuguese heritage. |
+| 46 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
+| 47 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
 
 
 

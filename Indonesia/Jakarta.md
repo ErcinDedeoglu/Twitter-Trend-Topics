@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jakarta
 
-📆 Last Updated: `2023-02-25 12:17:14 UTC`
+📆 Last Updated: `2023-02-25 13:19:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Indonesia](</Indonesia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#LeeJaeWookFIRSTinJKT](http://twitter.com/search?q=%23LeeJaeWookFIRSTinJKT) | N/A |
-| 2 | [#RaisaGBK2023](http://twitter.com/search?q=%23RaisaGBK2023) | N/A |
+| 2 | [#RAISAGBK2023](http://twitter.com/search?q=%23RAISAGBK2023) | N/A |
 | 3 | [#FERRAGAMOxJENO](http://twitter.com/search?q=%23FERRAGAMOxJENO) | N/A |
-| 4 | [rakernas ika undip](http://twitter.com/search?q=rakernas+ika+undip) | N/A |
-| 5 | [WE LOVE OUR BLUE](http://twitter.com/search?q=WE+LOVE+OUR+BLUE) | N/A |
-| 6 | [KIM MINJEONG](http://twitter.com/search?q=KIM+MINJEONG) | N/A |
-| 7 | [Nikah](http://twitter.com/search?q=Nikah) | N/A |
-| 8 | [GISELLE](http://twitter.com/search?q=GISELLE) | N/A |
-| 9 | [Ningning](http://twitter.com/search?q=Ningning) | Ningning is a Chinese term of endearment, similar to "honey" or "sweetheart" in English. It is used to express affection and fondness for someone. |
-| 10 | [karina](http://twitter.com/search?q=karina) | N/A |
-| 11 | [Winter](http://twitter.com/search?q=Winter) | N/A |
-| 12 | [Baldwin IV](http://twitter.com/search?q=Baldwin+IV) | N/A |
-| 13 | [Risih](http://twitter.com/search?q=Risih) | N/A |
-| 14 | [Malming](http://twitter.com/search?q=Malming) | N/A |
-| 15 | [King Baldwin](http://twitter.com/search?q=King+Baldwin) | N/A |
-| 16 | [Grace](http://twitter.com/search?q=Grace) | N/A |
-| 17 | [3 SMP](http://twitter.com/search?q=3+SMP) | N/A |
-| 18 | [JINAN SAFA SAFIRA S.I.KOM](http://twitter.com/search?q=JINAN+SAFA+SAFIRA+S.I.KOM) | N/A |
-| 19 | [Polres Jaksel](http://twitter.com/search?q=Polres+Jaksel) | N/A |
-| 20 | [$MOOO](http://twitter.com/search?q=%24MOOO) | N/A |
-| 21 | [Elif](http://twitter.com/search?q=Elif) | N/A |
-| 22 | [Dirumah](http://twitter.com/search?q=Dirumah) | N/A |
-| 23 | [Ayahku](http://twitter.com/search?q=Ayahku) | N/A |
-| 24 | [Cerai](http://twitter.com/search?q=Cerai) | N/A |
-| 25 | [Pengacara](http://twitter.com/search?q=Pengacara) | N/A |
-| 26 | [Marjan](http://twitter.com/search?q=Marjan) | N/A |
-| 27 | [SLAM DUNK](http://twitter.com/search?q=SLAM+DUNK) | N/A |
-| 28 | [#aespa1stConcertSYNK_HYPERLINE](http://twitter.com/search?q=%23aespa1stConcertSYNK_HYPERLINE) | N/A |
-| 29 | [#TheLastKinnPorsche](http://twitter.com/search?q=%23TheLastKinnPorsche) | N/A |
-| 30 | [#AdaApaDenganPNBekasi](http://twitter.com/search?q=%23AdaApaDenganPNBekasi) | N/A |
-| 31 | [#BiuTheBluePrince](http://twitter.com/search?q=%23BiuTheBluePrince) | N/A |
-| 32 | [#bocahedewe](http://twitter.com/search?q=%23bocahedewe) | N/A |
-| 33 | [#FerragamoFW23](http://twitter.com/search?q=%23FerragamoFW23) | N/A |
-| 34 | [#BrendaBagiBagiSkincare](http://twitter.com/search?q=%23BrendaBagiBagiSkincare) | N/A |
-| 35 | [#GALagi](http://twitter.com/search?q=%23GALagi) | N/A |
-| 36 | [#UsutKembaliKasusKM50](http://twitter.com/search?q=%23UsutKembaliKasusKM50) | N/A |
-| 37 | [#TWSMonster](http://twitter.com/search?q=%23TWSMonster) | N/A |
-| 38 | [#ChaTamara](http://twitter.com/search?q=%23ChaTamara) | N/A |
-| 39 | [#kinnporscheworldtour2023](http://twitter.com/search?q=%23kinnporscheworldtour2023) | N/A |
-| 40 | [#PurpleDinosaurs](http://twitter.com/search?q=%23PurpleDinosaurs) | N/A |
-| 41 | [#BibleWichapas](http://twitter.com/search?q=%23BibleWichapas) | N/A |
-| 42 | [#Fighting7thWin](http://twitter.com/search?q=%23Fighting7thWin) | N/A |
-| 43 | [#barcodetin](http://twitter.com/search?q=%23barcodetin) | N/A |
-| 44 | [#부석순_음악중심_1위_축하해](http://twitter.com/search?q=%23%eb%b6%80%ec%84%9d%ec%88%9c_%ec%9d%8c%ec%95%85%ec%a4%91%ec%8b%ac_1%ec%9c%84_%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
-| 45 | [#BSS7thWin](http://twitter.com/search?q=%23BSS7thWin) | N/A |
-| 46 | [#MilePhakphum](http://twitter.com/search?q=%23MilePhakphum) | N/A |
-| 47 | [#IreneDeservesBetterTreatment](http://twitter.com/search?q=%23IreneDeservesBetterTreatment) | N/A |
-| 48 | [#WINsSociety](http://twitter.com/search?q=%23WINsSociety) | N/A |
+| 4 | [SEUNGKWAN](http://twitter.com/search?q=SEUNGKWAN) | N/A |
+| 5 | [Nikah](http://twitter.com/search?q=Nikah) | N/A |
+| 6 | [BTS STREAMING BATTLE](http://twitter.com/search?q=BTS+STREAMING+BATTLE) | N/A |
+| 7 | [SOOBIN](http://twitter.com/search?q=SOOBIN) | SOOBIN is a Korean name, derived from the Chinese characters for "protection" and "beauty". It can be translated to mean "protected beauty" in English. |
+| 8 | [Pergi](http://twitter.com/search?q=Pergi) | N/A |
+| 9 | [YUK KITA BATTLE](http://twitter.com/search?q=YUK+KITA+BATTLE) | N/A |
+| 10 | [WE LOVE OUR BLUE](http://twitter.com/search?q=WE+LOVE+OUR+BLUE) | N/A |
+| 11 | [Malam Minggu](http://twitter.com/search?q=Malam+Minggu) | N/A |
+| 12 | [Malming](http://twitter.com/search?q=Malming) | N/A |
+| 13 | [KIM MINJEONG](http://twitter.com/search?q=KIM+MINJEONG) | N/A |
+| 14 | [Fansign](http://twitter.com/search?q=Fansign) | N/A |
+| 15 | [Ningning](http://twitter.com/search?q=Ningning) | Ningning is a Chinese term of endearment, similar to "honey" or "sweetheart" in English. It is used to express affection and fondness for someone. |
+| 16 | [GISELLE](http://twitter.com/search?q=GISELLE) | N/A |
+| 17 | [Winter](http://twitter.com/search?q=Winter) | N/A |
+| 18 | [karina](http://twitter.com/search?q=karina) | N/A |
+| 19 | [Baldwin IV](http://twitter.com/search?q=Baldwin+IV) | N/A |
+| 20 | [3 SMP](http://twitter.com/search?q=3+SMP) | N/A |
+| 21 | [Risih](http://twitter.com/search?q=Risih) | N/A |
+| 22 | [King Baldwin](http://twitter.com/search?q=King+Baldwin) | N/A |
+| 23 | [Putu](http://twitter.com/search?q=Putu) | N/A |
+| 24 | [Grace](http://twitter.com/search?q=Grace) | N/A |
+| 25 | [jinan safa safira s.i.kom](http://twitter.com/search?q=jinan+safa+safira+s.i.kom) | N/A |
+| 26 | [Irene](http://twitter.com/search?q=Irene) | N/A |
+| 27 | [Dirumah](http://twitter.com/search?q=Dirumah) | N/A |
+| 28 | [$MOOO](http://twitter.com/search?q=%24MOOO) | N/A |
+| 29 | [Marjan](http://twitter.com/search?q=Marjan) | N/A |
+| 30 | [Polres Jaksel](http://twitter.com/search?q=Polres+Jaksel) | N/A |
+| 31 | [Pengacara](http://twitter.com/search?q=Pengacara) | N/A |
+| 32 | [Elif](http://twitter.com/search?q=Elif) | N/A |
+| 33 | [Ayahku](http://twitter.com/search?q=Ayahku) | N/A |
+| 34 | [SLAM DUNK](http://twitter.com/search?q=SLAM+DUNK) | N/A |
+| 35 | [#TheLastKinnPorsche](http://twitter.com/search?q=%23TheLastKinnPorsche) | N/A |
+| 36 | [#aespa1stconcertsynk_hyperline](http://twitter.com/search?q=%23aespa1stconcertsynk_hyperline) | N/A |
+| 37 | [#YukKitaStreamingTeam](http://twitter.com/search?q=%23YukKitaStreamingTeam) | N/A |
+| 38 | [#LoveStory](http://twitter.com/search?q=%23LoveStory) | N/A |
+| 39 | [#PurpleDinosaurs](http://twitter.com/search?q=%23PurpleDinosaurs) | N/A |
+| 40 | [#ceritangedate](http://twitter.com/search?q=%23ceritangedate) | N/A |
+| 41 | [#AdaApaDenganPNBekasi](http://twitter.com/search?q=%23AdaApaDenganPNBekasi) | N/A |
+| 42 | [#kinnporscheworldtour2023](http://twitter.com/search?q=%23kinnporscheworldtour2023) | N/A |
+| 43 | [#BiuTheBluePrince](http://twitter.com/search?q=%23BiuTheBluePrince) | N/A |
+| 44 | [#FerragamoFW23](http://twitter.com/search?q=%23FerragamoFW23) | N/A |
+| 45 | [#BrendaBagiBagiSkincare](http://twitter.com/search?q=%23BrendaBagiBagiSkincare) | N/A |
+| 46 | [#UsutKembaliKasusKM50](http://twitter.com/search?q=%23UsutKembaliKasusKM50) | N/A |
+| 47 | [#galagi](http://twitter.com/search?q=%23galagi) | N/A |
+| 48 | [#TWSMonster](http://twitter.com/search?q=%23TWSMonster) | N/A |
 
 
 
