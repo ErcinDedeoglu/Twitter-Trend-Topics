@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico City
 
-📆 Last Updated: `2023-02-25 22:15:35 UTC`
+📆 Last Updated: `2023-02-25 23:15:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,50 +17,48 @@ This is top 50 for [Mexico](</Mexico>)
 | ------- | ------------ | ------------ |
 | 1 | [Sonora](http://twitter.com/search?q=Sonora) | N/A |
 | 2 | [#EDC2023](http://twitter.com/search?q=%23EDC2023) | N/A |
-| 3 | [#EDCMexico](http://twitter.com/search?q=%23EDCMexico) | N/A |
-| 4 | [#RMxBOTTEGAVENETA](http://twitter.com/search?q=%23RMxBOTTEGAVENETA) | N/A |
-| 5 | [Matt Pobereyko](http://twitter.com/search?q=Matt+Pobereyko) | N/A |
-| 6 | [RMILAN FASHION WEEK](http://twitter.com/search?q=RMILAN+FASHION+WEEK) | N/A |
-| 7 | [Álvaro Rodríguez](http://twitter.com/search?q=%c3%81lvaro+Rodr%c3%adguez) | N/A |
-| 8 | [#DíaNaranja](http://twitter.com/search?q=%23D%c3%adaNaranja) | N/A |
-| 9 | [Perú](http://twitter.com/search?q=Per%c3%ba) | Perú is the official name of a country in South America. It is bordered by Ecuador and Colombia to the north, Brazil and Bolivia to the east, Chile to the south, and the Pacific Ocean to the west. The name Perú comes from a word in the native Quechua language meaning "land of abundance." |
-| 10 | [Atlético](http://twitter.com/search?q=Atl%c3%a9tico) | Atlético is a Spanish word that means "athletic" or "energetic". It is often used to describe someone who is competitive, determined, and passionate. |
-| 11 | [#VCTHispano](http://twitter.com/search?q=%23VCTHispano) | N/A |
-| 12 | [Gil Manzano](http://twitter.com/search?q=Gil+Manzano) | Gil Manzano is a Spanish surname. In English, it translates to "son of Manuel". |
-| 13 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 14 | [Serie del Caribe](http://twitter.com/search?q=Serie+del+Caribe) | N/A |
-| 15 | [Correa](http://twitter.com/search?q=Correa) | Correa is a Spanish surname. It is derived from the Latin word correus, meaning "messenger". In English, it can be translated to mean "messenger" or "courier". |
+| 3 | [#RMxBOTTEGAVENETA](http://twitter.com/search?q=%23RMxBOTTEGAVENETA) | N/A |
+| 4 | [Matt Pobereyko](http://twitter.com/search?q=Matt+Pobereyko) | N/A |
+| 5 | [Álvaro Rodríguez](http://twitter.com/search?q=%c3%81lvaro+Rodr%c3%adguez) | N/A |
+| 6 | [#DíaNaranja](http://twitter.com/search?q=%23D%c3%adaNaranja) | N/A |
+| 7 | [RMILAN FASHION WEEK](http://twitter.com/search?q=RMILAN+FASHION+WEEK) | N/A |
+| 8 | [Perú](http://twitter.com/search?q=Per%c3%ba) | Perú is the official name of a country in South America. It is bordered by Ecuador and Colombia to the north, Brazil and Bolivia to the east, Chile to the south, and the Pacific Ocean to the west. The name Perú comes from a word in the native Quechua language meaning "land of abundance." |
+| 9 | [Atlético](http://twitter.com/search?q=Atl%c3%a9tico) | Atlético is a Spanish word that means "athletic" or "energetic". It is often used to describe someone who is competitive, determined, and passionate. |
+| 10 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
+| 11 | [Jelty](http://twitter.com/search?q=Jelty) | N/A |
+| 12 | [#VCTHispano](http://twitter.com/search?q=%23VCTHispano) | N/A |
+| 13 | [Serie del Caribe](http://twitter.com/search?q=Serie+del+Caribe) | N/A |
+| 14 | [Correa](http://twitter.com/search?q=Correa) | Correa is a Spanish surname. It is derived from the Latin word correus, meaning "messenger". In English, it can be translated to mean "messenger" or "courier". |
+| 15 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
 | 16 | [Tatiana Huezo](http://twitter.com/search?q=Tatiana+Huezo) | N/A |
 | 17 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 18 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 19 | [La Liga](http://twitter.com/search?q=La+Liga) | N/A |
-| 20 | [Carlos Vela](http://twitter.com/search?q=Carlos+Vela) | N/A |
-| 21 | [Bernabéu](http://twitter.com/search?q=Bernab%c3%a9u) | Bernabéu is the name of the home stadium of Spanish football club Real Madrid. It is officially known as Estadio Santiago Bernabéu, named after the former club president Santiago Bernabéu. In English, it is referred to as the Santiago Bernabéu Stadium. |
-| 22 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
-| 23 | [Línea 9](http://twitter.com/search?q=L%c3%adnea+9) | N/A |
-| 24 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
-| 25 | [Marshmello](http://twitter.com/search?q=Marshmello) | N/A |
-| 26 | [George Harrison](http://twitter.com/search?q=George+Harrison) | N/A |
-| 27 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
-| 28 | [Arabia](http://twitter.com/search?q=Arabia) | Arabia is a region in the Middle East that includes the countries of Saudi Arabia, Yemen, Oman, United Arab Emirates, Qatar, Bahrain, Kuwait, and Jordan. It is known for its rich cultural heritage and its ancient civilizations. In English, Arabia means "land of the Arabs". |
-| 29 | [Espuria](http://twitter.com/search?q=Espuria) | N/A |
-| 30 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
-| 31 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
-| 32 | [Dina Boluarte](http://twitter.com/search?q=Dina+Boluarte) | Dina Boluarte is a Spanish phrase meaning “fortified wall”. It is often used to refer to a person or group that provides protection and security. |
-| 33 | [Negreira](http://twitter.com/search?q=Negreira) | N/A |
-| 34 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
-| 35 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
-| 36 | [Marcial Maciel](http://twitter.com/search?q=Marcial+Maciel) | N/A |
-| 37 | [Tenoch](http://twitter.com/search?q=Tenoch) | N/A |
-| 38 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
-| 39 | [#BienestarEnTuColonia](http://twitter.com/search?q=%23BienestarEnTuColonia) | N/A |
-| 40 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
-| 41 | [#mfw2023](http://twitter.com/search?q=%23mfw2023) | N/A |
-| 42 | [#MorenaDestruyeAMexico](http://twitter.com/search?q=%23MorenaDestruyeAMexico) | N/A |
-| 43 | [#NarcoMarcha26DeFebrero](http://twitter.com/search?q=%23NarcoMarcha26DeFebrero) | N/A |
-| 44 | [#MiVotoSeRespeta](http://twitter.com/search?q=%23MiVotoSeRespeta) | N/A |
-| 45 | [#TheLastKinnPorsche](http://twitter.com/search?q=%23TheLastKinnPorsche) | N/A |
-| 46 | [#YoSiVoyAlZocalo](http://twitter.com/search?q=%23YoSiVoyAlZocalo) | N/A |
+| 18 | [Gil Manzano](http://twitter.com/search?q=Gil+Manzano) | Gil Manzano is a Spanish surname. In English, it translates to "son of Manuel". |
+| 19 | [Carlos Vela](http://twitter.com/search?q=Carlos+Vela) | N/A |
+| 20 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 21 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
+| 22 | [Marshmello](http://twitter.com/search?q=Marshmello) | N/A |
+| 23 | [La Liga](http://twitter.com/search?q=La+Liga) | N/A |
+| 24 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
+| 25 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
+| 26 | [Arabia](http://twitter.com/search?q=Arabia) | Arabia is a region in the Middle East that includes the countries of Saudi Arabia, Yemen, Oman, United Arab Emirates, Qatar, Bahrain, Kuwait, and Jordan. It is known for its rich cultural heritage and its ancient civilizations. In English, Arabia means "land of the Arabs". |
+| 27 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
+| 28 | [Cinta](http://twitter.com/search?q=Cinta) | Cinta is a Malay and Indonesian word that means "love". It is often used to refer to romantic love, but can also be used to describe familial love or platonic love. |
+| 29 | [George Harrison](http://twitter.com/search?q=George+Harrison) | N/A |
+| 30 | [Dina Boluarte](http://twitter.com/search?q=Dina+Boluarte) | Dina Boluarte is a Spanish phrase meaning “fortified wall”. It is often used to refer to a person or group that provides protection and security. |
+| 31 | [Negreira](http://twitter.com/search?q=Negreira) | N/A |
+| 32 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 33 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 34 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
+| 35 | [Marcial Maciel](http://twitter.com/search?q=Marcial+Maciel) | N/A |
+| 36 | [Tenoch](http://twitter.com/search?q=Tenoch) | N/A |
+| 37 | [#BienestarEnTuColonia](http://twitter.com/search?q=%23BienestarEnTuColonia) | N/A |
+| 38 | [#mfw2023](http://twitter.com/search?q=%23mfw2023) | N/A |
+| 39 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
+| 40 | [#MorenaDestruyeAMexico](http://twitter.com/search?q=%23MorenaDestruyeAMexico) | N/A |
+| 41 | [#NarcoMarcha26DeFebrero](http://twitter.com/search?q=%23NarcoMarcha26DeFebrero) | N/A |
+| 42 | [#MiVotoSeRespeta](http://twitter.com/search?q=%23MiVotoSeRespeta) | N/A |
+| 43 | [#MarchaDeNarcosyCorruptos](http://twitter.com/search?q=%23MarchaDeNarcosyCorruptos) | N/A |
+| 44 | [#NarcoPartidoPAN](http://twitter.com/search?q=%23NarcoPartidoPAN) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For São Luís
 
-📆 Last Updated: `2023-02-25 22:15:43 UTC`
+📆 Last Updated: `2023-02-25 23:15:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
-| 2 | [Botafogo](http://twitter.com/search?q=Botafogo) | Botafogo is a neighborhood in Rio de Janeiro, Brazil. The name Botafogo comes from the Portuguese phrase "bota fogo," which means "set fire." It is believed to have originated from a local legend about a brave warrior who set fire to the enemy's boats during a battle. |
+| 1 | [Botafogo](http://twitter.com/search?q=Botafogo) | Botafogo is a neighborhood in Rio de Janeiro, Brazil. The name Botafogo comes from the Portuguese phrase "bota fogo," which means "set fire." It is believed to have originated from a local legend about a brave warrior who set fire to the enemy's boats during a battle. |
+| 2 | [Marinho](http://twitter.com/search?q=Marinho) | Marinho is a Portuguese name derived from the Latin word marinus, meaning "of the sea". It is a masculine given name and can also be used as a surname. In English, Marinho can be translated to mean "marine" or "seafarer". |
 | 3 | [Daniel Borges](http://twitter.com/search?q=Daniel+Borges) | Daniel Borges is a Portuguese name. It is derived from the Hebrew name Daniel, which means “God is my judge”, and the surname Borges, which is derived from the Latin word for “fortress”. |
 | 4 | [Matheus Gonçalves](http://twitter.com/search?q=Matheus+Gon%c3%a7alves) | N/A |
-| 5 | [Marinho](http://twitter.com/search?q=Marinho) | Marinho is a Portuguese name derived from the Latin word marinus, meaning "of the sea". It is a masculine given name and can also be used as a surname. In English, Marinho can be translated to mean "marine" or "seafarer". |
-| 6 | [Carli](http://twitter.com/search?q=Carli) | N/A |
-| 7 | [Hyoran](http://twitter.com/search?q=Hyoran) | Hyoran is a Japanese word that means “to spread out” or “to expand”. It is often used to describe the act of spreading out one's arms or legs in order to make oneself appear larger. |
-| 8 | [Piazon](http://twitter.com/search?q=Piazon) | N/A |
+| 5 | [Rodrigo Caio](http://twitter.com/search?q=Rodrigo+Caio) | Rodrigo Caio is a Brazilian professional footballer who plays as a defender for São Paulo FC. His name translates to "Rodrigo Victory" in English. |
+| 6 | [São Bernardo](http://twitter.com/search?q=S%c3%a3o+Bernardo) | São Bernardo is a municipality in the state of São Paulo, Brazil. The name São Bernardo translates to Saint Bernard in English. |
+| 7 | [Nestor](http://twitter.com/search?q=Nestor) | Nestor is a Greek name derived from the word "nestorios" which means "wise and prudent". It is often used as a male given name, and can also be used as a surname. |
+| 8 | [Carli](http://twitter.com/search?q=Carli) | N/A |
 | 9 | [Alan Franco](http://twitter.com/search?q=Alan+Franco) | Alan Franco is a Spanish name. It is derived from the Latin name Alanius, which means "from Alania" (an ancient region in the Caucasus). In English, Alan Franco means "from Alania". |
-| 10 | [São Bernardo](http://twitter.com/search?q=S%c3%a3o+Bernardo) | São Bernardo is a municipality in the state of São Paulo, Brazil. The name São Bernardo translates to Saint Bernard in English. |
-| 11 | [Keno](http://twitter.com/search?q=Keno) | Keno is a lottery-style game that originated in China. It is a game of chance in which players select numbers from a board of 80 numbers and then wait for the draw to see if their numbers match the ones that are randomly selected. The goal of the game is to match as many of your chosen numbers with those drawn by the house. In English, Keno means "to win or gain something". |
-| 12 | [Zaracho](http://twitter.com/search?q=Zaracho) | N/A |
-| 13 | [Pedro Henrique](http://twitter.com/search?q=Pedro+Henrique) | Pedro Henrique is a Portuguese name, derived from the Latin name Petrus Henricus. It is composed of two elements: Petrus, which means "rock" or "stone", and Henricus, which means "ruler of the house". In English, Pedro Henrique can be translated to mean "Peter Henry". |
-| 14 | [Saravia](http://twitter.com/search?q=Saravia) | N/A |
+| 10 | [Hyoran](http://twitter.com/search?q=Hyoran) | Hyoran is a Japanese word that means “to spread out” or “to expand”. It is often used to describe the act of spreading out one's arms or legs in order to make oneself appear larger. |
+| 11 | [Marçal](http://twitter.com/search?q=Mar%c3%a7al) | N/A |
+| 12 | [#BOTxFLA](http://twitter.com/search?q=%23BOTxFLA) | N/A |
+| 13 | [Matheus França](http://twitter.com/search?q=Matheus+Fran%c3%a7a) | Matheus França is a Portuguese name. It is composed of two parts: Matheus, which is a variant of the name Matthew, and França, which is derived from the French word for France. In English, it would mean Matthew France. |
+| 14 | [#colunadofla](http://twitter.com/search?q=%23colunadofla) | N/A |
 | 15 | [Matheusão](http://twitter.com/search?q=Matheus%c3%a3o) | Matheusão is a nickname given to the Brazilian footballer Matheus Henrique. It is derived from his first name and is used as an affectionate term of endearment. In English, it could be translated as "Matheus-dear". |
-| 16 | [Cano](http://twitter.com/search?q=Cano) | Cano is a Spanish word meaning "to sing". It is also used as a verb to describe the act of singing. |
-| 17 | [Nathan Silva](http://twitter.com/search?q=Nathan+Silva) | Nathan Silva is a Portuguese name. It is derived from the Hebrew name Natan, which means "he gave". It can also be translated as "gift of God". |
-| 18 | [Hulk](http://twitter.com/search?q=Hulk) | Hulk is a fictional character created by Marvel Comics. He is a large, green humanoid with superhuman strength and invulnerability. The character first appeared in the comic book The Incredible Hulk #1 in May 1962. His catchphrase is "Hulk Smash!" |
-| 19 | [Igor Jesus](http://twitter.com/search?q=Igor+Jesus) | N/A |
-| 20 | [Pulgar](http://twitter.com/search?q=Pulgar) | N/A |
-| 21 | [#DionexBinance](http://twitter.com/search?q=%23DionexBinance) | N/A |
-| 22 | [#BOTxFLA](http://twitter.com/search?q=%23BOTxFLA) | N/A |
-| 23 | [Matheus Cunha](http://twitter.com/search?q=Matheus+Cunha) | Matheus Cunha is a Brazilian professional footballer who plays as a forward for RB Leipzig. His name in English translates to Matthew Cunha. |
-| 24 | [Patrick de Paula](http://twitter.com/search?q=Patrick+de+Paula) | N/A |
-| 25 | [Matheus Dias](http://twitter.com/search?q=Matheus+Dias) | N/A |
-| 26 | [Everson](http://twitter.com/search?q=Everson) | Everson is a surname of English origin. It is derived from the Old English personal name Eoforwine, which means "boar friend". |
-| 27 | [VIDENTE PARCIAL](http://twitter.com/search?q=VIDENTE+PARCIAL) | N/A |
-| 28 | [#Optimushinu](http://twitter.com/search?q=%23Optimushinu) | N/A |
-| 29 | [Lemos](http://twitter.com/search?q=Lemos) | N/A |
-| 30 | [#ForaGustavoCowboy](http://twitter.com/search?q=%23ForaGustavoCowboy) | N/A |
-| 31 | [Cleiton](http://twitter.com/search?q=Cleiton) | Cleiton is a Portuguese name derived from the Latin name Cleitus, which means “called” or “summoned”. It is also a variant of the Greek name Kleitos, which means “renowned” or “famous”. |
-| 32 | [Brasil 2022](http://twitter.com/search?q=Brasil+2022) | N/A |
-| 33 | [Coudet](http://twitter.com/search?q=Coudet) | N/A |
-| 34 | [Morumbi](http://twitter.com/search?q=Morumbi) | Morumbi is a neighborhood in the city of São Paulo, Brazil. It is located in the south zone of the city and is one of the most affluent areas in São Paulo. The name Morumbi comes from an indigenous word meaning "place of many trees". In English, Morumbi means "place of many trees". |
-| 35 | [Lucas Fernandes](http://twitter.com/search?q=Lucas+Fernandes) | N/A |
-| 36 | [Matheus França](http://twitter.com/search?q=Matheus+Fran%c3%a7a) | Matheus França is a Portuguese name. It is composed of two parts: Matheus, which is a variant of the name Matthew, and França, which is derived from the French word for France. In English, it would mean Matthew France. |
-| 37 | [Retrô](http://twitter.com/search?q=Retr%c3%b4) | N/A |
-| 38 | [Rodrigo Caio](http://twitter.com/search?q=Rodrigo+Caio) | Rodrigo Caio is a Brazilian professional footballer who plays as a defender for São Paulo FC. His name translates to "Rodrigo Victory" in English. |
-| 39 | [Lima](http://twitter.com/search?q=Lima) | Lima is the capital city of Peru. In English, it means "talker". |
-| 40 | [Marçal](http://twitter.com/search?q=Mar%c3%a7al) | N/A |
-| 41 | [Saraiva](http://twitter.com/search?q=Saraiva) | N/A |
-| 42 | [Gabriel Pires](http://twitter.com/search?q=Gabriel+Pires) | Gabriel Pires is a Portuguese name. It is derived from the Hebrew name Gabriel, which means “God is my strength”. |
-| 43 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 44 | [Rubens](http://twitter.com/search?q=Rubens) | N/A |
-| 45 | [Figueirense](http://twitter.com/search?q=Figueirense) | Figueirense is a Brazilian football club based in the city of Florianópolis, Santa Catarina. The name Figueirense is derived from the Portuguese word for fig tree, which is a reference to the city's nickname, "Cidade da Figueira" (City of the Fig Tree). In English, Figueirense translates to "of or from Figueira". |
-| 46 | [Álvaro Rodriguez](http://twitter.com/search?q=%c3%81lvaro+Rodriguez) | N/A |
-| 47 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
+| 16 | [Keno](http://twitter.com/search?q=Keno) | Keno is a lottery-style game that originated in China. It is a game of chance in which players select numbers from a board of 80 numbers and then wait for the draw to see if their numbers match the ones that are randomly selected. The goal of the game is to match as many of your chosen numbers with those drawn by the house. In English, Keno means "to win or gain something". |
+| 17 | [Zaracho](http://twitter.com/search?q=Zaracho) | N/A |
+| 18 | [Tiquinho](http://twitter.com/search?q=Tiquinho) | N/A |
+| 19 | [Saravia](http://twitter.com/search?q=Saravia) | N/A |
+| 20 | [Pedro Henrique](http://twitter.com/search?q=Pedro+Henrique) | Pedro Henrique is a Portuguese name, derived from the Latin name Petrus Henricus. It is composed of two elements: Petrus, which means "rock" or "stone", and Henricus, which means "ruler of the house". In English, Pedro Henrique can be translated to mean "Peter Henry". |
+| 21 | [Igor Jesus](http://twitter.com/search?q=Igor+Jesus) | N/A |
+| 22 | [Matheus Cunha](http://twitter.com/search?q=Matheus+Cunha) | Matheus Cunha is a Brazilian professional footballer who plays as a forward for RB Leipzig. His name in English translates to Matthew Cunha. |
+| 23 | [Morumbi](http://twitter.com/search?q=Morumbi) | Morumbi is a neighborhood in the city of São Paulo, Brazil. It is located in the south zone of the city and is one of the most affluent areas in São Paulo. The name Morumbi comes from an indigenous word meaning "place of many trees". In English, Morumbi means "place of many trees". |
+| 24 | [Matheus Nascimento](http://twitter.com/search?q=Matheus+Nascimento) | N/A |
+| 25 | [Cano](http://twitter.com/search?q=Cano) | Cano is a Spanish word meaning "to sing". It is also used as a verb to describe the act of singing. |
+| 26 | [Nathan Silva](http://twitter.com/search?q=Nathan+Silva) | Nathan Silva is a Portuguese name. It is derived from the Hebrew name Natan, which means "he gave". It can also be translated as "gift of God". |
+| 27 | [Pulgar](http://twitter.com/search?q=Pulgar) | N/A |
+| 28 | [VIDENTE PARCIAL](http://twitter.com/search?q=VIDENTE+PARCIAL) | N/A |
+| 29 | [Matheusinho](http://twitter.com/search?q=Matheusinho) | Matheusinho is a Portuguese nickname for the name Matheus, which is the Portuguese form of the name Matthew. In English, it would be translated to "Little Matthew". |
+| 30 | [#cazetv](http://twitter.com/search?q=%23cazetv) | N/A |
+| 31 | [#ForaGustavoCowboy](http://twitter.com/search?q=%23ForaGustavoCowboy) | N/A |
+| 32 | [Matheus Dias](http://twitter.com/search?q=Matheus+Dias) | N/A |
+| 33 | [Cleiton](http://twitter.com/search?q=Cleiton) | Cleiton is a Portuguese name derived from the Latin name Cleitus, which means “called” or “summoned”. It is also a variant of the Greek name Kleitos, which means “renowned” or “famous”. |
+| 34 | [Hulk](http://twitter.com/search?q=Hulk) | Hulk is a fictional character created by Marvel Comics. He is a large, green humanoid with superhuman strength and invulnerability. The character first appeared in the comic book The Incredible Hulk #1 in May 1962. His catchphrase is "Hulk Smash!" |
+| 35 | [Patrick de Paula](http://twitter.com/search?q=Patrick+de+Paula) | N/A |
+| 36 | [Mendez](http://twitter.com/search?q=Mendez) | Mendez is a Spanish surname. It is derived from the Latin name Mendicius, which means "beggar". In English, it can be translated to mean "one who begs". |
+| 37 | [FERJ](http://twitter.com/search?q=FERJ) | N/A |
+| 38 | [Everson](http://twitter.com/search?q=Everson) | Everson is a surname of English origin. It is derived from the Old English personal name Eoforwine, which means "boar friend". |
+| 39 | [Lucas Fernandes](http://twitter.com/search?q=Lucas+Fernandes) | N/A |
+| 40 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 41 | [Brasil 2022](http://twitter.com/search?q=Brasil+2022) | N/A |
+| 42 | [Lemos](http://twitter.com/search?q=Lemos) | N/A |
+| 43 | [O São Paulo](http://twitter.com/search?q=O+S%c3%a3o+Paulo) | N/A |
+| 44 | [Gabriel Pires](http://twitter.com/search?q=Gabriel+Pires) | Gabriel Pires is a Portuguese name. It is derived from the Hebrew name Gabriel, which means “God is my strength”. |
+| 45 | [Coudet](http://twitter.com/search?q=Coudet) | N/A |
+| 46 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 47 | [Retrô](http://twitter.com/search?q=Retr%c3%b4) | N/A |
 
 
 

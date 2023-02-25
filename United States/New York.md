@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-02-25 22:16:22 UTC`
+📆 Last Updated: `2023-02-25 23:16:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Brett Baty](http://twitter.com/search?q=Brett+Baty) | N/A |
+| 1 | [Jasson Dominguez](http://twitter.com/search?q=Jasson+Dominguez) | N/A |
 | 2 | [LTIR](http://twitter.com/search?q=LTIR) | N/A |
-| 3 | [Trouba](http://twitter.com/search?q=Trouba) | Trouba is a Czech word meaning "trouble" or "difficulty". It is often used to describe a situation that is difficult or challenging. |
-| 4 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 5 | [Lindy](http://twitter.com/search?q=Lindy) | N/A |
-| 6 | [Gallant](http://twitter.com/search?q=Gallant) | N/A |
-| 7 | [#sjubb](http://twitter.com/search?q=%23sjubb) | N/A |
-| 8 | [St. John](http://twitter.com/search?q=St.+John) | N/A |
-| 9 | [Drury](http://twitter.com/search?q=Drury) | N/A |
-| 10 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
-| 11 | [#Yankees](http://twitter.com/search?q=%23Yankees) | N/A |
+| 3 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 4 | [#sjubb](http://twitter.com/search?q=%23sjubb) | N/A |
+| 5 | [Baty](http://twitter.com/search?q=Baty) | Baty is a term used in the Philippines to refer to a close friend or companion. It is derived from the Tagalog word "bati," which means "friend." In English, it can be translated as "buddy" or "pal." |
+| 6 | [#SaveWarriorNun](http://twitter.com/search?q=%23SaveWarriorNun) | N/A |
+| 7 | [St. John](http://twitter.com/search?q=St.+John) | N/A |
+| 8 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
+| 9 | [#Yankees](http://twitter.com/search?q=%23Yankees) | N/A |
+| 10 | [Day of Hate](http://twitter.com/search?q=Day+of+Hate) | N/A |
+| 11 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
 | 12 | [#Optimusinu](http://twitter.com/search?q=%23Optimusinu) | N/A |
-| 13 | [#DionexBinance](http://twitter.com/search?q=%23DionexBinance) | N/A |
+| 13 | [#UFCVegas70](http://twitter.com/search?q=%23UFCVegas70) | N/A |
 | 14 | [Paul Ryan](http://twitter.com/search?q=Paul+Ryan) | Paul Ryan is the name of an American politician who served as the 54th Speaker of the United States House of Representatives from October 2015 to January 2019. He is a member of the Republican Party and was previously the Vice Presidential nominee for the 2012 election. The meaning of his name in English is "little king". |
-| 15 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
-| 16 | [Arizona State](http://twitter.com/search?q=Arizona+State) | N/A |
-| 17 | [#UFCVegas70](http://twitter.com/search?q=%23UFCVegas70) | N/A |
-| 18 | [Fran](http://twitter.com/search?q=Fran) | N/A |
-| 19 | [Aliev](http://twitter.com/search?q=Aliev) | N/A |
-| 20 | [Alves](http://twitter.com/search?q=Alves) | N/A |
-| 21 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
-| 22 | [Manfred](http://twitter.com/search?q=Manfred) | N/A |
-| 23 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
+| 15 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
+| 16 | [Pat Adams](http://twitter.com/search?q=Pat+Adams) | N/A |
+| 17 | [Jordan Leavitt](http://twitter.com/search?q=Jordan+Leavitt) | N/A |
+| 18 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
+| 19 | [Arizona State](http://twitter.com/search?q=Arizona+State) | N/A |
+| 20 | [Fran](http://twitter.com/search?q=Fran) | N/A |
+| 21 | [Matthew Cleveland](http://twitter.com/search?q=Matthew+Cleveland) | N/A |
+| 22 | [Florida State](http://twitter.com/search?q=Florida+State) | N/A |
+| 23 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
 | 24 | [WARRIOR NUN CAMPERS](http://twitter.com/search?q=WARRIOR+NUN+CAMPERS) | N/A |
-| 25 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
-| 26 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 27 | [Spring Training](http://twitter.com/search?q=Spring+Training) | N/A |
-| 28 | [Ballo](http://twitter.com/search?q=Ballo) | N/A |
-| 29 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
-| 30 | [Garrett Mitchell](http://twitter.com/search?q=Garrett+Mitchell) | N/A |
-| 31 | [Cubs](http://twitter.com/search?q=Cubs) | N/A |
-| 32 | [Desmond Cambridge](http://twitter.com/search?q=Desmond+Cambridge) | N/A |
-| 33 | [Sun Devils](http://twitter.com/search?q=Sun+Devils) | N/A |
-| 34 | [Michigan State](http://twitter.com/search?q=Michigan+State) | Michigan State is a public research university located in East Lansing, Michigan. It is the largest university in the state and one of the top research universities in the United States. The university offers more than 200 undergraduate, graduate, and professional degree programs across 17 colleges and schools. The school's athletic teams are known as the Spartans and compete in NCAA Division I sports. |
-| 35 | [Lindgren](http://twitter.com/search?q=Lindgren) | N/A |
-| 36 | [Izzo](http://twitter.com/search?q=Izzo) | Izzo is a slang term derived from the word "isso," which is a contraction of the Portuguese phrase "é isso," meaning "that's it." It can be used to express agreement, approval, or excitement. |
-| 37 | [Hendo](http://twitter.com/search?q=Hendo) | Hendo is a slang term derived from the Japanese word "hendou," which means "change." It is often used to refer to a sudden or unexpected change in something, such as a situation or a person's attitude. |
-| 38 | [Bobby Hurley](http://twitter.com/search?q=Bobby+Hurley) | N/A |
-| 39 | [Hogs](http://twitter.com/search?q=Hogs) | N/A |
-| 40 | [Dajuan Harris](http://twitter.com/search?q=Dajuan+Harris) | N/A |
-| 41 | [Tyson Walker](http://twitter.com/search?q=Tyson+Walker) | Tyson Walker is a slang term used to describe someone who is strong, determined, and resilient. It is often used to describe someone who has overcome difficult obstacles or achieved success despite the odds. |
-| 42 | [Igor](http://twitter.com/search?q=Igor) | N/A |
-| 43 | [Go Devils](http://twitter.com/search?q=Go+Devils) | N/A |
-| 44 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
-| 45 | [Nino](http://twitter.com/search?q=Nino) | N/A |
-| 46 | [joon](http://twitter.com/search?q=joon) | Joon is a Persian word that means "soul" or "spirit". It is often used to refer to the inner essence of a person, and is sometimes used as a term of endearment. |
-| 47 | [Braves](http://twitter.com/search?q=Braves) | N/A |
-| 48 | [Nick Smith](http://twitter.com/search?q=Nick+Smith) | N/A |
-| 49 | [Muss](http://twitter.com/search?q=Muss) | N/A |
-| 50 | [Mark Smith](http://twitter.com/search?q=Mark+Smith) | N/A |
+| 25 | [Antonio Reeves](http://twitter.com/search?q=Antonio+Reeves) | N/A |
+| 26 | [Walker Zimmerman](http://twitter.com/search?q=Walker+Zimmerman) | N/A |
+| 27 | [Alves](http://twitter.com/search?q=Alves) | N/A |
+| 28 | [Spring Training](http://twitter.com/search?q=Spring+Training) | N/A |
+| 29 | [Manfred](http://twitter.com/search?q=Manfred) | N/A |
+| 30 | [Charles Johnson](http://twitter.com/search?q=Charles+Johnson) | Charles Johnson is a common English surname. It is derived from the given name Charles, which is derived from the Germanic name Karl, meaning "free man". |
+| 31 | [Matt McLain](http://twitter.com/search?q=Matt+McLain) | N/A |
+| 32 | [Mayweather](http://twitter.com/search?q=Mayweather) | N/A |
+| 33 | [Osbourne](http://twitter.com/search?q=Osbourne) | N/A |
+| 34 | [Nino](http://twitter.com/search?q=Nino) | N/A |
+| 35 | [Noles](http://twitter.com/search?q=Noles) | N/A |
+| 36 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
+| 37 | [Toppin](http://twitter.com/search?q=Toppin) | Toppin is a slang term used to describe something that is the best or most impressive. It can be used to describe a person, an event, or an object. In English, it is often used as an exclamation of approval or admiration. |
+| 38 | [Garrett Mitchell](http://twitter.com/search?q=Garrett+Mitchell) | N/A |
+| 39 | [Ballo](http://twitter.com/search?q=Ballo) | N/A |
+| 40 | [Wet Paint](http://twitter.com/search?q=Wet+Paint) | N/A |
+| 41 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
+| 42 | [Rupp](http://twitter.com/search?q=Rupp) | Rupp is an acronym for the phrase "Recognize, Understand, Prepare, and Perform". It is a strategy used to help people achieve their goals by breaking them down into smaller steps. The idea is to recognize the goal, understand what it will take to reach it, prepare for the journey ahead, and then perform the necessary actions to make it happen. |
+| 43 | [Broome](http://twitter.com/search?q=Broome) | N/A |
+| 44 | [Baseball](http://twitter.com/search?q=Baseball) | N/A |
+| 45 | [Cubs](http://twitter.com/search?q=Cubs) | N/A |
+| 46 | [Joe Solecki](http://twitter.com/search?q=Joe+Solecki) | N/A |
+| 47 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
+| 48 | [Tshiebwe](http://twitter.com/search?q=Tshiebwe) | N/A |
+| 49 | [Bruce Pearl](http://twitter.com/search?q=Bruce+Pearl) | N/A |
+| 50 | [Ronny Jackson](http://twitter.com/search?q=Ronny+Jackson) | N/A |
 
 
 

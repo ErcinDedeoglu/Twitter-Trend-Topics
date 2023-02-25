@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Atlanta
 
-📆 Last Updated: `2023-02-25 22:16:16 UTC`
+📆 Last Updated: `2023-02-25 23:16:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 2 | [#Optimusinu](http://twitter.com/search?q=%23Optimusinu) | N/A |
-| 3 | [#DionexBinance](http://twitter.com/search?q=%23DionexBinance) | N/A |
-| 4 | [Paul Ryan](http://twitter.com/search?q=Paul+Ryan) | Paul Ryan is the name of an American politician who served as the 54th Speaker of the United States House of Representatives from October 2015 to January 2019. He is a member of the Republican Party and was previously the Vice Presidential nominee for the 2012 election. The meaning of his name in English is "little king". |
-| 5 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
-| 6 | [Arizona State](http://twitter.com/search?q=Arizona+State) | N/A |
-| 7 | [#UFCVegas70](http://twitter.com/search?q=%23UFCVegas70) | N/A |
-| 8 | [Fran](http://twitter.com/search?q=Fran) | N/A |
-| 9 | [Aliev](http://twitter.com/search?q=Aliev) | N/A |
-| 10 | [Alves](http://twitter.com/search?q=Alves) | N/A |
-| 11 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 12 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
-| 13 | [#MLSSeasonPass](http://twitter.com/search?q=%23MLSSeasonPass) | N/A |
-| 14 | [Manfred](http://twitter.com/search?q=Manfred) | N/A |
-| 15 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 16 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 17 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
-| 18 | [Spring Training](http://twitter.com/search?q=Spring+Training) | N/A |
-| 19 | [Ballo](http://twitter.com/search?q=Ballo) | N/A |
-| 20 | [WARRIOR NUN CAMPERS](http://twitter.com/search?q=WARRIOR+NUN+CAMPERS) | N/A |
-| 21 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
-| 22 | [Garrett Mitchell](http://twitter.com/search?q=Garrett+Mitchell) | N/A |
-| 23 | [Cubs](http://twitter.com/search?q=Cubs) | N/A |
-| 24 | [Desmond Cambridge](http://twitter.com/search?q=Desmond+Cambridge) | N/A |
-| 25 | [Sun Devils](http://twitter.com/search?q=Sun+Devils) | N/A |
-| 26 | [Michigan State](http://twitter.com/search?q=Michigan+State) | Michigan State is a public research university located in East Lansing, Michigan. It is the largest university in the state and one of the top research universities in the United States. The university offers more than 200 undergraduate, graduate, and professional degree programs across 17 colleges and schools. The school's athletic teams are known as the Spartans and compete in NCAA Division I sports. |
-| 27 | [Lindgren](http://twitter.com/search?q=Lindgren) | N/A |
-| 28 | [Izzo](http://twitter.com/search?q=Izzo) | Izzo is a slang term derived from the word "isso," which is a contraction of the Portuguese phrase "é isso," meaning "that's it." It can be used to express agreement, approval, or excitement. |
-| 29 | [Hendo](http://twitter.com/search?q=Hendo) | Hendo is a slang term derived from the Japanese word "hendou," which means "change." It is often used to refer to a sudden or unexpected change in something, such as a situation or a person's attitude. |
-| 30 | [Bobby Hurley](http://twitter.com/search?q=Bobby+Hurley) | N/A |
-| 31 | [Hogs](http://twitter.com/search?q=Hogs) | N/A |
-| 32 | [Dajuan Harris](http://twitter.com/search?q=Dajuan+Harris) | N/A |
-| 33 | [Tyson Walker](http://twitter.com/search?q=Tyson+Walker) | Tyson Walker is a slang term used to describe someone who is strong, determined, and resilient. It is often used to describe someone who has overcome difficult obstacles or achieved success despite the odds. |
-| 34 | [Igor](http://twitter.com/search?q=Igor) | N/A |
-| 35 | [Go Devils](http://twitter.com/search?q=Go+Devils) | N/A |
-| 36 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
-| 37 | [Nino](http://twitter.com/search?q=Nino) | N/A |
-| 38 | [joon](http://twitter.com/search?q=joon) | Joon is a Persian word that means "soul" or "spirit". It is often used to refer to the inner essence of a person, and is sometimes used as a term of endearment. |
-| 39 | [Braves](http://twitter.com/search?q=Braves) | N/A |
-| 40 | [Nick Smith](http://twitter.com/search?q=Nick+Smith) | N/A |
-| 41 | [Muss](http://twitter.com/search?q=Muss) | N/A |
-| 42 | [Mark Smith](http://twitter.com/search?q=Mark+Smith) | N/A |
-| 43 | [Casey Schmitt](http://twitter.com/search?q=Casey+Schmitt) | N/A |
-| 44 | [Byron Jones](http://twitter.com/search?q=Byron+Jones) | N/A |
-| 45 | [Baseball](http://twitter.com/search?q=Baseball) | N/A |
-| 46 | [McKale](http://twitter.com/search?q=McKale) | N/A |
-| 47 | [Senior Day](http://twitter.com/search?q=Senior+Day) | N/A |
-| 48 | [Dominguez](http://twitter.com/search?q=Dominguez) | N/A |
-| 49 | [Oshie](http://twitter.com/search?q=Oshie) | N/A |
+| 1 | [Braves](http://twitter.com/search?q=Braves) | N/A |
+| 2 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
+| 3 | [#Optimusinu](http://twitter.com/search?q=%23Optimusinu) | N/A |
+| 4 | [#UFCVegas70](http://twitter.com/search?q=%23UFCVegas70) | N/A |
+| 5 | [Paul Ryan](http://twitter.com/search?q=Paul+Ryan) | Paul Ryan is the name of an American politician who served as the 54th Speaker of the United States House of Representatives from October 2015 to January 2019. He is a member of the Republican Party and was previously the Vice Presidential nominee for the 2012 election. The meaning of his name in English is "little king". |
+| 6 | [Pat Adams](http://twitter.com/search?q=Pat+Adams) | N/A |
+| 7 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
+| 8 | [Arizona State](http://twitter.com/search?q=Arizona+State) | N/A |
+| 9 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
+| 10 | [Jordan Leavitt](http://twitter.com/search?q=Jordan+Leavitt) | N/A |
+| 11 | [#kubball](http://twitter.com/search?q=%23kubball) | N/A |
+| 12 | [Fran](http://twitter.com/search?q=Fran) | N/A |
+| 13 | [Matthew Cleveland](http://twitter.com/search?q=Matthew+Cleveland) | N/A |
+| 14 | [Florida State](http://twitter.com/search?q=Florida+State) | N/A |
+| 15 | [#MLSSeasonPass](http://twitter.com/search?q=%23MLSSeasonPass) | N/A |
+| 16 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
+| 17 | [#zeusnetwork](http://twitter.com/search?q=%23zeusnetwork) | N/A |
+| 18 | [WARRIOR NUN CAMPERS](http://twitter.com/search?q=WARRIOR+NUN+CAMPERS) | N/A |
+| 19 | [Antonio Reeves](http://twitter.com/search?q=Antonio+Reeves) | N/A |
+| 20 | [Walker Zimmerman](http://twitter.com/search?q=Walker+Zimmerman) | N/A |
+| 21 | [Alves](http://twitter.com/search?q=Alves) | N/A |
+| 22 | [Spring Training](http://twitter.com/search?q=Spring+Training) | N/A |
+| 23 | [Manfred](http://twitter.com/search?q=Manfred) | N/A |
+| 24 | [Charles Johnson](http://twitter.com/search?q=Charles+Johnson) | Charles Johnson is a common English surname. It is derived from the given name Charles, which is derived from the Germanic name Karl, meaning "free man". |
+| 25 | [Matt McLain](http://twitter.com/search?q=Matt+McLain) | N/A |
+| 26 | [Mayweather](http://twitter.com/search?q=Mayweather) | N/A |
+| 27 | [Osbourne](http://twitter.com/search?q=Osbourne) | N/A |
+| 28 | [Nino](http://twitter.com/search?q=Nino) | N/A |
+| 29 | [Noles](http://twitter.com/search?q=Noles) | N/A |
+| 30 | [Toppin](http://twitter.com/search?q=Toppin) | Toppin is a slang term used to describe something that is the best or most impressive. It can be used to describe a person, an event, or an object. In English, it is often used as an exclamation of approval or admiration. |
+| 31 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
+| 32 | [Garrett Mitchell](http://twitter.com/search?q=Garrett+Mitchell) | N/A |
+| 33 | [Ballo](http://twitter.com/search?q=Ballo) | N/A |
+| 34 | [Wet Paint](http://twitter.com/search?q=Wet+Paint) | N/A |
+| 35 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
+| 36 | [Broome](http://twitter.com/search?q=Broome) | N/A |
+| 37 | [Baseball](http://twitter.com/search?q=Baseball) | N/A |
+| 38 | [Cubs](http://twitter.com/search?q=Cubs) | N/A |
+| 39 | [Rupp](http://twitter.com/search?q=Rupp) | Rupp is an acronym for the phrase "Recognize, Understand, Prepare, and Perform". It is a strategy used to help people achieve their goals by breaking them down into smaller steps. The idea is to recognize the goal, understand what it will take to reach it, prepare for the journey ahead, and then perform the necessary actions to make it happen. |
+| 40 | [Joe Solecki](http://twitter.com/search?q=Joe+Solecki) | N/A |
+| 41 | [Tshiebwe](http://twitter.com/search?q=Tshiebwe) | N/A |
+| 42 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
+| 43 | [Ronny Jackson](http://twitter.com/search?q=Ronny+Jackson) | N/A |
+| 44 | [Bruce Pearl](http://twitter.com/search?q=Bruce+Pearl) | N/A |
+| 45 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
+| 46 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
+| 47 | [Jim Brown](http://twitter.com/search?q=Jim+Brown) | N/A |
+| 48 | [Desmond Cambridge](http://twitter.com/search?q=Desmond+Cambridge) | N/A |
+| 49 | [Scott Adams](http://twitter.com/search?q=Scott+Adams) | N/A |
+| 50 | [Go Devils](http://twitter.com/search?q=Go+Devils) | N/A |
 
 
 
