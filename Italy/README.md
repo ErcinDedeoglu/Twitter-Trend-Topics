@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Italy
 
-📆 Last Updated: `2023-02-26 20:16:53 UTC`
+📆 Last Updated: `2023-02-26 21:16:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Italy
 | ------- | ------------ | ------------ |
 | 1 | [#MilanAtalanta](http://twitter.com/search?q=%23MilanAtalanta) | N/A |
 | 2 | [#CTCF](http://twitter.com/search?q=%23CTCF) | N/A |
-| 3 | [#Crotone](http://twitter.com/search?q=%23Crotone) | N/A |
-| 4 | [#inonda](http://twitter.com/search?q=%23inonda) | N/A |
-| 5 | [#PrimariePD](http://twitter.com/search?q=%23PrimariePD) | N/A |
-| 6 | [De Filippi](http://twitter.com/search?q=De+Filippi) | N/A |
-| 7 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
-| 8 | [Mediterraneo](http://twitter.com/search?q=Mediterraneo) | N/A |
-| 9 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 10 | [Grecia](http://twitter.com/search?q=Grecia) | N/A |
-| 11 | [Jankto](http://twitter.com/search?q=Jankto) | N/A |
-| 12 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 13 | [Vecchioni](http://twitter.com/search?q=Vecchioni) | N/A |
-| 14 | [Libia](http://twitter.com/search?q=Libia) | N/A |
-| 15 | [Foglio](http://twitter.com/search?q=Foglio) | N/A |
-| 16 | [Mike](http://twitter.com/search?q=Mike) | N/A |
-| 17 | [Ambrosio](http://twitter.com/search?q=Ambrosio) | N/A |
-| 18 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 19 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 20 | [Ipocrita](http://twitter.com/search?q=Ipocrita) | N/A |
-| 21 | [Piacenza](http://twitter.com/search?q=Piacenza) | N/A |
-| 22 | [Vergognatevi](http://twitter.com/search?q=Vergognatevi) | N/A |
-| 23 | [Vanno](http://twitter.com/search?q=Vanno) | N/A |
-| 24 | [Simone](http://twitter.com/search?q=Simone) | Simone is a French feminine given name, derived from the Hebrew name Shimon, meaning "he who hears". It is also a surname, and may refer to:Simone de Beauvoir (1908–1986), French writer and philosopherSimone Weil (1909–1943), French philosopher, mystic, and political activistSimone Veil (1927–2017), French lawyer and politician |
-| 25 | [Thiago Motta](http://twitter.com/search?q=Thiago+Motta) | N/A |
-| 26 | [Manuel](http://twitter.com/search?q=Manuel) | N/A |
-| 27 | [Trento](http://twitter.com/search?q=Trento) | N/A |
-| 28 | [Marotta](http://twitter.com/search?q=Marotta) | N/A |
-| 29 | [#90giorniperinnamorarsi](http://twitter.com/search?q=%2390giorniperinnamorarsi) | N/A |
-| 30 | [#Schlein](http://twitter.com/search?q=%23Schlein) | N/A |
-| 31 | [#naufragio](http://twitter.com/search?q=%23naufragio) | N/A |
-| 32 | [#Yargı](http://twitter.com/search?q=%23Yarg%c4%b1) | Yargı is a Turkish word meaning "judgment" or "verdict". It is used to refer to the decision of a court or other legal authority. |
-| 33 | [#Piantedosi](http://twitter.com/search?q=%23Piantedosi) | N/A |
-| 34 | [#migranti](http://twitter.com/search?q=%23migranti) | N/A |
-| 35 | [#selfie](http://twitter.com/search?q=%23selfie) | N/A |
-| 36 | [#Calabria](http://twitter.com/search?q=%23Calabria) | N/A |
-| 37 | [#CarabaoCupFinal](http://twitter.com/search?q=%23CarabaoCupFinal) | N/A |
-| 38 | [#casabalestra](http://twitter.com/search?q=%23casabalestra) | N/A |
-| 39 | [#MondialiTipo](http://twitter.com/search?q=%23MondialiTipo) | N/A |
-| 40 | [#UdineseSpezia](http://twitter.com/search?q=%23UdineseSpezia) | N/A |
-| 41 | [#Nzola](http://twitter.com/search?q=%23Nzola) | N/A |
-| 42 | [#Cutro](http://twitter.com/search?q=%23Cutro) | N/A |
-| 43 | [#MUNNEW](http://twitter.com/search?q=%23MUNNEW) | N/A |
-| 44 | [#BolognaInter](http://twitter.com/search?q=%23BolognaInter) | N/A |
-| 45 | [#domenicain](http://twitter.com/search?q=%23domenicain) | N/A |
-| 46 | [#ghigliottina](http://twitter.com/search?q=%23ghigliottina) | N/A |
-| 47 | [#Bonaccini](http://twitter.com/search?q=%23Bonaccini) | N/A |
-| 48 | [#maurizioconstanzo](http://twitter.com/search?q=%23maurizioconstanzo) | N/A |
-| 49 | [#ManchesterUnited](http://twitter.com/search?q=%23ManchesterUnited) | N/A |
-| 50 | [#controcorrente](http://twitter.com/search?q=%23controcorrente) | N/A |
+| 3 | [#nonelarena](http://twitter.com/search?q=%23nonelarena) | N/A |
+| 4 | [#Schlein](http://twitter.com/search?q=%23Schlein) | N/A |
+| 5 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
+| 6 | [#90giorniperinnamorarsi](http://twitter.com/search?q=%2390giorniperinnamorarsi) | N/A |
+| 7 | [Theo](http://twitter.com/search?q=Theo) | N/A |
+| 8 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
+| 9 | [Diaz](http://twitter.com/search?q=Diaz) | N/A |
+| 10 | [Musso](http://twitter.com/search?q=Musso) | N/A |
+| 11 | [De Filippi](http://twitter.com/search?q=De+Filippi) | N/A |
+| 12 | [Messias](http://twitter.com/search?q=Messias) | Messias is a Hebrew word meaning "anointed one" or "savior." It is used in the Bible to refer to Jesus Christ, who is seen as the promised Messiah of the Old Testament. In English, it is often translated as "Messiah." |
+| 13 | [Grecia](http://twitter.com/search?q=Grecia) | N/A |
+| 14 | [Varese](http://twitter.com/search?q=Varese) | N/A |
+| 15 | [Renzi](http://twitter.com/search?q=Renzi) | N/A |
+| 16 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
+| 17 | [Maignan](http://twitter.com/search?q=Maignan) | Maignan is a French surname derived from the Old French word maigne, meaning "beloved". It is most commonly found in the regions of Normandy and Brittany. In English, it can be translated to mean "beloved one". |
+| 18 | [Vecchioni](http://twitter.com/search?q=Vecchioni) | N/A |
+| 19 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 20 | [Mediterraneo](http://twitter.com/search?q=Mediterraneo) | N/A |
+| 21 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 22 | [Il PD](http://twitter.com/search?q=Il+PD) | N/A |
+| 23 | [Mike](http://twitter.com/search?q=Mike) | N/A |
+| 24 | [Le ONG](http://twitter.com/search?q=Le+ONG) | N/A |
+| 25 | [Jankto](http://twitter.com/search?q=Jankto) | N/A |
+| 26 | [Libia](http://twitter.com/search?q=Libia) | N/A |
+| 27 | [Foglio](http://twitter.com/search?q=Foglio) | N/A |
+| 28 | [De Luca](http://twitter.com/search?q=De+Luca) | N/A |
+| 29 | [Bastava](http://twitter.com/search?q=Bastava) | N/A |
+| 30 | [Ambrosio](http://twitter.com/search?q=Ambrosio) | N/A |
+| 31 | [Mentana](http://twitter.com/search?q=Mentana) | N/A |
+| 32 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 33 | [Ipocrita](http://twitter.com/search?q=Ipocrita) | N/A |
+| 34 | [Orsolini](http://twitter.com/search?q=Orsolini) | N/A |
+| 35 | [Vergognatevi](http://twitter.com/search?q=Vergognatevi) | N/A |
+| 36 | [Vanno](http://twitter.com/search?q=Vanno) | N/A |
+| 37 | [Thiago Motta](http://twitter.com/search?q=Thiago+Motta) | N/A |
+| 38 | [#primariepd2023](http://twitter.com/search?q=%23primariepd2023) | N/A |
+| 39 | [#restaconme](http://twitter.com/search?q=%23restaconme) | N/A |
+| 40 | [#Crotone](http://twitter.com/search?q=%23Crotone) | N/A |
+| 41 | [#inonda](http://twitter.com/search?q=%23inonda) | N/A |
+| 42 | [#Bonaccini](http://twitter.com/search?q=%23Bonaccini) | N/A |
+| 43 | [#naufragio](http://twitter.com/search?q=%23naufragio) | N/A |
+| 44 | [#migranti](http://twitter.com/search?q=%23migranti) | N/A |
+| 45 | [#yargı](http://twitter.com/search?q=%23yarg%c4%b1) | N/A |
+| 46 | [#isolitiignoti](http://twitter.com/search?q=%23isolitiignoti) | N/A |
+| 47 | [#selfie](http://twitter.com/search?q=%23selfie) | N/A |
+| 48 | [#Piantedosi](http://twitter.com/search?q=%23Piantedosi) | N/A |
+| 49 | [#zonabianca](http://twitter.com/search?q=%23zonabianca) | N/A |
+| 50 | [#chetempochefa](http://twitter.com/search?q=%23chetempochefa) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belo Horizonte
 
-📆 Last Updated: `2023-02-26 20:16:12 UTC`
+📆 Last Updated: `2023-02-26 21:15:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 2 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 3 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 4 | [Yuri Alberto](http://twitter.com/search?q=Yuri+Alberto) | Yuri Alberto is a Spanish name. It is a combination of the names Yuri, which is derived from the Russian name Yuriy, meaning "farmer," and Alberto, which is derived from the Germanic name Adalbert, meaning "noble and bright." |
-| 5 | [Corinthians](http://twitter.com/search?q=Corinthians) | Corinthians is a book of the Bible, specifically the second book of the New Testament. It is a letter written by Paul to the church in Corinth, Greece. The book contains Paul's teachings on many topics, including love, faith, and hope. |
-| 6 | [Edna](http://twitter.com/search?q=Edna) | Edna is a female given name of Hebrew origin, meaning “pleasure” or “delight”. |
-| 7 | [Maicon](http://twitter.com/search?q=Maicon) | Maicon is a Portuguese name derived from the Latin name Michael, meaning “who is like God?” It is also a variant of the Hebrew name Mikha'el. |
-| 8 | [#TheMaskedSingerbr](http://twitter.com/search?q=%23TheMaskedSingerbr) | #TheMaskedSingerbr is a hashtag used to promote the Brazilian version of the popular reality TV show The Masked Singer. The show features celebrities competing against each other while wearing elaborate costumes and masks to conceal their identities. |
-| 9 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 10 | [Lucas Barbosa](http://twitter.com/search?q=Lucas+Barbosa) | N/A |
-| 11 | [Du Queiroz](http://twitter.com/search?q=Du+Queiroz) | Du Queiroz is a Portuguese surname. It is derived from the Latin word quaerere, which means "to seek". In English, it can be translated to mean "seeker". |
-| 12 | [Vila Belmiro](http://twitter.com/search?q=Vila+Belmiro) | Vila Belmiro is a football stadium located in Santos, Brazil. It is the home stadium of Santos FC, one of the most successful clubs in Brazilian football. The name Vila Belmiro translates to "Belmiro Village" in English. |
-| 13 | [#ForaKey](http://twitter.com/search?q=%23ForaKey) | #ForaKey is a hashtag used to promote the idea of providing access to keys for those in need. It is used to raise awareness about the importance of providing access to keys for those who are homeless, in poverty, or otherwise unable to secure a key for themselves. The hashtag is often used in conjunction with other hashtags such as #KeyAccess and #KeyInclusion. |
-| 14 | [Lucas Pires](http://twitter.com/search?q=Lucas+Pires) | Lucas Pires is a Portuguese name. It is derived from the Latin name Lucas, which means "light" or "illumination". The surname Pires is derived from the Latin word pire, which means "rock". In English, Lucas Pires can be translated to mean "Light of the Rock". |
-| 15 | [Guimê](http://twitter.com/search?q=Guim%c3%aa) | Guimê is a Brazilian term used to describe a person who is strong, brave, and determined. It can also be used to describe someone who is resilient and able to overcome difficult situations. In English, it could be translated as "fearless" or "unstoppable". |
-| 16 | [#CopaDaLigaNaESPN](http://twitter.com/search?q=%23CopaDaLigaNaESPN) | N/A |
-| 17 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
-| 18 | [Marcos Leonardo](http://twitter.com/search?q=Marcos+Leonardo) | Marcos Leonardo is a Spanish name. It is composed of two given names, Marcos and Leonardo. The name Marcos is derived from the Latin name Marcus, which means “dedicated to Mars” or “warlike”. The name Leonardo is derived from the Latin name Leonhardus, which means “brave lion”. In English, the meaning of the name Marcos Leonardo would be “dedicated to Mars and brave lion”. |
-| 19 | [árbitra](http://twitter.com/search?q=%c3%a1rbitra) | N/A |
-| 20 | [#PaulistaoNaRecord](http://twitter.com/search?q=%23PaulistaoNaRecord) | N/A |
-| 21 | [João Paulo](http://twitter.com/search?q=Jo%c3%a3o+Paulo) | João Paulo is a Portuguese name, derived from the Latin names Johannes and Paulus. It translates to John Paul in English. |
-| 22 | [Odair](http://twitter.com/search?q=Odair) | N/A |
-| 23 | [O VAR](http://twitter.com/search?q=O+VAR) | N/A |
-| 24 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 25 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 26 | [Mendoza](http://twitter.com/search?q=Mendoza) | N/A |
-| 27 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 28 | [Itabuna](http://twitter.com/search?q=Itabuna) | N/A |
-| 29 | [#ProvaDoLider](http://twitter.com/search?q=%23ProvaDoLider) | #ProvaDoLider is a hashtag used in Brazil to promote a leadership challenge. It translates to "Leadership Challenge" in English. The challenge encourages people to take on leadership roles and develop their skills. |
-| 30 | [Adson](http://twitter.com/search?q=Adson) | Adson is a Portuguese name derived from the Latin name Adsonus, which means “son of Adam”. It is a combination of the Latin words ad (meaning “to” or “toward”) and sonus (meaning “sound”). |
-| 31 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 32 | [Cariok](http://twitter.com/search?q=Cariok) | Cariok is a Brazilian dance style that originated in the state of Bahia. It is a mix of samba, reggae, and African rhythms. The name comes from the Portuguese word "carroca," which means "cart." In English, Cariok translates to "cart dance." |
-| 33 | [Roni](http://twitter.com/search?q=Roni) | Roni is a Hebrew name meaning "my joy". |
-| 34 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 35 | [Pablo Torre](http://twitter.com/search?q=Pablo+Torre) | Pablo Torre is a sports journalist and television personality who works for ESPN. He is known for his coverage of the NBA, NFL, and college basketball. The name "Pablo Torre" is derived from the Spanish words "pablo" (meaning "small") and "torre" (meaning "tower"). |
-| 36 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 37 | [Almeria](http://twitter.com/search?q=Almeria) | N/A |
-| 38 | [Kimpembe](http://twitter.com/search?q=Kimpembe) | N/A |
-| 39 | [Bauermann](http://twitter.com/search?q=Bauermann) | N/A |
-| 40 | [Larissa Luz](http://twitter.com/search?q=Larissa+Luz) | N/A |
-| 41 | [Bruno Guimarães](http://twitter.com/search?q=Bruno+Guimar%c3%a3es) | N/A |
-| 42 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
-| 43 | [LEI DO EX](http://twitter.com/search?q=LEI+DO+EX) | N/A |
-| 44 | [KEY NO PAREDÃO](http://twitter.com/search?q=KEY+NO+PARED%c3%83O) | N/A |
-| 45 | [Bruno Mendez](http://twitter.com/search?q=Bruno+Mendez) | N/A |
-| 46 | [Glory Glory Man United](http://twitter.com/search?q=Glory+Glory+Man+United) | N/A |
-| 47 | [Mosca](http://twitter.com/search?q=Mosca) | Mosca is a Spanish word meaning "fly". It is also used as a nickname for someone who is small and quick. |
-| 48 | [Croc](http://twitter.com/search?q=Croc) | N/A |
-| 49 | [Boal](http://twitter.com/search?q=Boal) | N/A |
-| 50 | [Timão](http://twitter.com/search?q=Tim%c3%a3o) | N/A |
+| 1 | [Cássio](http://twitter.com/search?q=C%c3%a1ssio) | Cássio is a Portuguese name derived from the Latin name Cassius. It is a masculine given name and can also be used as a surname. In English, it means "curly-haired". |
+| 2 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 3 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 4 | [#BBBB23](http://twitter.com/search?q=%23BBBB23) | #BBBB23 is a hexadecimal color code. It is a combination of six letters and numbers that represent the red, green, and blue components of a color. In this case, the color is a light yellow-green. |
+| 5 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 6 | [Corinthians](http://twitter.com/search?q=Corinthians) | Corinthians is a book of the Bible, specifically the second book of the New Testament. It is a letter written by Paul to the church in Corinth, Greece. The book contains Paul's teachings on many topics, including love, faith, and hope. |
+| 7 | [Yuri Alberto](http://twitter.com/search?q=Yuri+Alberto) | Yuri Alberto is a Spanish name. It is a combination of the names Yuri, which is derived from the Russian name Yuriy, meaning "farmer," and Alberto, which is derived from the Germanic name Adalbert, meaning "noble and bright." |
+| 8 | [Edna](http://twitter.com/search?q=Edna) | Edna is a female given name of Hebrew origin, meaning “pleasure” or “delight”. |
+| 9 | [Maicon](http://twitter.com/search?q=Maicon) | Maicon is a Portuguese name derived from the Latin name Michael, meaning “who is like God?” It is also a variant of the Hebrew name Mikha'el. |
+| 10 | [roger guedes](http://twitter.com/search?q=roger+guedes) | N/A |
+| 11 | [#TheMaskedSingerbr](http://twitter.com/search?q=%23TheMaskedSingerbr) | #TheMaskedSingerbr is a hashtag used to promote the Brazilian version of the popular reality TV show The Masked Singer. The show features celebrities competing against each other while wearing elaborate costumes and masks to conceal their identities. |
+| 12 | [Giovane](http://twitter.com/search?q=Giovane) | N/A |
+| 13 | [Marcos Leonardo](http://twitter.com/search?q=Marcos+Leonardo) | Marcos Leonardo is a Spanish name. It is composed of two given names, Marcos and Leonardo. The name Marcos is derived from the Latin name Marcus, which means “dedicated to Mars” or “warlike”. The name Leonardo is derived from the Latin name Leonhardus, which means “brave lion”. In English, the meaning of the name Marcos Leonardo would be “dedicated to Mars and brave lion”. |
+| 14 | [Balbuena](http://twitter.com/search?q=Balbuena) | Balbuena is a Spanish surname. It is derived from the Latin word balbus, which means stammering or stuttering. In English, the meaning of Balbuena is "stammering" or "stuttering". |
+| 15 | [Odair](http://twitter.com/search?q=Odair) | N/A |
+| 16 | [Lucas Barbosa](http://twitter.com/search?q=Lucas+Barbosa) | N/A |
+| 17 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 18 | [Du Queiroz](http://twitter.com/search?q=Du+Queiroz) | Du Queiroz is a Portuguese surname. It is derived from the Latin word quaerere, which means "to seek". In English, it can be translated to mean "seeker". |
+| 19 | [Giuliano](http://twitter.com/search?q=Giuliano) | Giuliano is an Italian name derived from the Latin name Julius. It is a masculine given name and can also be used as a surname. In English, it means "youthful" or "downy-bearded". |
+| 20 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 21 | [Vila Belmiro](http://twitter.com/search?q=Vila+Belmiro) | Vila Belmiro is a football stadium located in Santos, Brazil. It is the home stadium of Santos FC, one of the most successful clubs in Brazilian football. The name Vila Belmiro translates to "Belmiro Village" in English. |
+| 22 | [Lucas Pires](http://twitter.com/search?q=Lucas+Pires) | Lucas Pires is a Portuguese name. It is derived from the Latin name Lucas, which means "light" or "illumination". The surname Pires is derived from the Latin word pire, which means "rock". In English, Lucas Pires can be translated to mean "Light of the Rock". |
+| 23 | [Mendoza](http://twitter.com/search?q=Mendoza) | N/A |
+| 24 | [Balieiro](http://twitter.com/search?q=Balieiro) | N/A |
+| 25 | [#PaulistaoNaRecord](http://twitter.com/search?q=%23PaulistaoNaRecord) | N/A |
+| 26 | [#ForaKey](http://twitter.com/search?q=%23ForaKey) | #ForaKey is a hashtag used to promote the idea of providing access to keys for those in need. It is used to raise awareness about the importance of providing access to keys for those who are homeless, in poverty, or otherwise unable to secure a key for themselves. The hashtag is often used in conjunction with other hashtags such as #KeyAccess and #KeyInclusion. |
+| 27 | [O Santos](http://twitter.com/search?q=O+Santos) | O Santos is a Brazilian football club based in the city of Santos, São Paulo. The club was founded in 1912 and is one of the most successful clubs in Brazil, having won eight national titles and four international titles. In English, O Santos translates to "The Saints". |
+| 28 | [Roni](http://twitter.com/search?q=Roni) | Roni is a Hebrew name meaning "my joy". |
+| 29 | [árbitra](http://twitter.com/search?q=%c3%a1rbitra) | N/A |
+| 30 | [Itabuna](http://twitter.com/search?q=Itabuna) | N/A |
+| 31 | [#copadaliganaespn](http://twitter.com/search?q=%23copadaliganaespn) | N/A |
+| 32 | [Guimê](http://twitter.com/search?q=Guim%c3%aa) | Guimê is a Brazilian term used to describe a person who is strong, brave, and determined. It can also be used to describe someone who is resilient and able to overcome difficult situations. In English, it could be translated as "fearless" or "unstoppable". |
+| 33 | [João Paulo](http://twitter.com/search?q=Jo%c3%a3o+Paulo) | João Paulo is a Portuguese name, derived from the Latin names Johannes and Paulus. It translates to John Paul in English. |
+| 34 | [Fausto](http://twitter.com/search?q=Fausto) | N/A |
+| 35 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 36 | [Terans](http://twitter.com/search?q=Terans) | N/A |
+| 37 | [Adson](http://twitter.com/search?q=Adson) | Adson is a Portuguese name derived from the Latin name Adsonus, which means “son of Adam”. It is a combination of the Latin words ad (meaning “to” or “toward”) and sonus (meaning “sound”). |
+| 38 | [SONZA NO DOMINGAO](http://twitter.com/search?q=SONZA+NO+DOMINGAO) | N/A |
+| 39 | [O VAR](http://twitter.com/search?q=O+VAR) | N/A |
+| 40 | [Booker](http://twitter.com/search?q=Booker) | Booker is a term used to refer to someone who books or arranges appointments, events, or reservations. It is often used in the context of a person who works in the hospitality industry. |
+| 41 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
+| 42 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 43 | [Lazaro](http://twitter.com/search?q=Lazaro) | N/A |
+| 44 | [Meu 10](http://twitter.com/search?q=Meu+10) | Meu 10 is a Brazilian expression that literally translates to "My 10." It is used to express approval or agreement with something, similar to the English phrase "I'm with you." |
+| 45 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 46 | [Rosana](http://twitter.com/search?q=Rosana) | N/A |
+| 47 | [Jrue Holiday](http://twitter.com/search?q=Jrue+Holiday) | N/A |
+| 48 | [Cariok](http://twitter.com/search?q=Cariok) | Cariok is a Brazilian dance style that originated in the state of Bahia. It is a mix of samba, reggae, and African rhythms. The name comes from the Portuguese word "carroca," which means "cart." In English, Cariok translates to "cart dance." |
+| 49 | [Sandro Meira Ricci](http://twitter.com/search?q=Sandro+Meira+Ricci) | N/A |
+| 50 | [Bauermann](http://twitter.com/search?q=Bauermann) | N/A |
 
 
 

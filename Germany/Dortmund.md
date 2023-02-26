@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dortmund
 
-📆 Last Updated: `2023-02-26 20:16:17 UTC`
+📆 Last Updated: `2023-02-26 21:16:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,48 +17,54 @@ This is top 50 for [Germany](</Germany>)
 | ------- | ------------ | ------------ |
 | 1 | [#WSMDS](http://twitter.com/search?q=%23WSMDS) | N/A |
 | 2 | [#Tatort](http://twitter.com/search?q=%23Tatort) | N/A |
-| 3 | [#FCBFCU](http://twitter.com/search?q=%23FCBFCU) | N/A |
-| 4 | [Helena](http://twitter.com/search?q=Helena) | N/A |
+| 3 | [#b2502](http://twitter.com/search?q=%23b2502) | N/A |
+| 4 | [#FCBFCU](http://twitter.com/search?q=%23FCBFCU) | N/A |
 | 5 | [#KitchenImpossible](http://twitter.com/search?q=%23KitchenImpossible) | N/A |
-| 6 | [Joko](http://twitter.com/search?q=Joko) | N/A |
-| 7 | [Donuts](http://twitter.com/search?q=Donuts) | N/A |
-| 8 | [Sonntagabend](http://twitter.com/search?q=Sonntagabend) | N/A |
-| 9 | [Sandro Wagner](http://twitter.com/search?q=Sandro+Wagner) | N/A |
-| 10 | [Süle](http://twitter.com/search?q=S%c3%bcle) | N/A |
-| 11 | [Moritz](http://twitter.com/search?q=Moritz) | N/A |
-| 12 | [Ruhe in Frieden](http://twitter.com/search?q=Ruhe+in+Frieden) | N/A |
-| 13 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 14 | [Müller](http://twitter.com/search?q=M%c3%bcller) | N/A |
-| 15 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 16 | [Schröder](http://twitter.com/search?q=Schr%c3%b6der) | N/A |
-| 17 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 18 | [Kinderlose](http://twitter.com/search?q=Kinderlose) | N/A |
-| 19 | [Union Berlin](http://twitter.com/search?q=Union+Berlin) | N/A |
-| 20 | [Frau Schwarzer](http://twitter.com/search?q=Frau+Schwarzer) | N/A |
-| 21 | [#MUNNEW](http://twitter.com/search?q=%23MUNNEW) | N/A |
-| 22 | [#CarabaoCup](http://twitter.com/search?q=%23CarabaoCup) | #CarabaoCup is the official hashtag for the English Football League Cup, a knockout competition for teams in the top four tiers of English football. The competition is sponsored by Carabao, an energy drink company. |
-| 23 | [#GGMU](http://twitter.com/search?q=%23GGMU) | #GGMU is an acronym for the phrase “Glory, Glory, Manchester United”. It is a chant used by Manchester United fans to show their support for the team. |
-| 24 | [#MiaSanMia](http://twitter.com/search?q=%23MiaSanMia) | N/A |
-| 25 | [#FCBayern](http://twitter.com/search?q=%23FCBayern) | N/A |
-| 26 | [#G2WIN](http://twitter.com/search?q=%23G2WIN) | N/A |
-| 27 | [#ESLMeisterschaft](http://twitter.com/search?q=%23ESLMeisterschaft) | N/A |
-| 28 | [#Skispringen](http://twitter.com/search?q=%23Skispringen) | N/A |
-| 29 | [#Sundermeyer](http://twitter.com/search?q=%23Sundermeyer) | N/A |
-| 30 | [#DAZN](http://twitter.com/search?q=%23DAZN) | #DAZN is a streaming service for live sports. It stands for Digital Access Zone Network and is available in several countries around the world. It allows users to watch live sports events, including football, boxing, tennis, and more. |
-| 31 | [#SCFB04](http://twitter.com/search?q=%23SCFB04) | N/A |
-| 32 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
-| 33 | [#Vollidiot](http://twitter.com/search?q=%23Vollidiot) | N/A |
-| 34 | [#NikiSchreibtKacki](http://twitter.com/search?q=%23NikiSchreibtKacki) | N/A |
-| 35 | [#WalkoutIRI](http://twitter.com/search?q=%23WalkoutIRI) | N/A |
-| 36 | [#fcspfch](http://twitter.com/search?q=%23fcspfch) | N/A |
-| 37 | [#PokemonGO](http://twitter.com/search?q=%23PokemonGO) | N/A |
-| 38 | [#Ramstein](http://twitter.com/search?q=%23Ramstein) | N/A |
-| 39 | [#Planica2023](http://twitter.com/search?q=%23Planica2023) | N/A |
-| 40 | [#Bundesliga](http://twitter.com/search?q=%23Bundesliga) | N/A |
-| 41 | [#H96FCM](http://twitter.com/search?q=%23H96FCM) | N/A |
-| 42 | [#Arminia](http://twitter.com/search?q=%23Arminia) | N/A |
-| 43 | [#Friedensverhandlungen](http://twitter.com/search?q=%23Friedensverhandlungen) | N/A |
-| 44 | [#DSCFCH](http://twitter.com/search?q=%23DSCFCH) | N/A |
+| 6 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
+| 7 | [Helena](http://twitter.com/search?q=Helena) | N/A |
+| 8 | [Schönen Sonntag](http://twitter.com/search?q=Sch%c3%b6nen+Sonntag) | "Schönen Sonntag" is a German phrase that translates to "Have a nice Sunday" in English. It is a common greeting used to wish someone a pleasant day on Sunday. |
+| 9 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
+| 10 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
+| 11 | [Joko](http://twitter.com/search?q=Joko) | N/A |
+| 12 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 13 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
+| 14 | [Kinderlose](http://twitter.com/search?q=Kinderlose) | N/A |
+| 15 | [Moritz](http://twitter.com/search?q=Moritz) | N/A |
+| 16 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 17 | [Sonntagabend](http://twitter.com/search?q=Sonntagabend) | N/A |
+| 18 | [Teilnehmer](http://twitter.com/search?q=Teilnehmer) | N/A |
+| 19 | [Panzer](http://twitter.com/search?q=Panzer) | N/A |
+| 20 | [Süle](http://twitter.com/search?q=S%c3%bcle) | N/A |
+| 21 | [Donuts](http://twitter.com/search?q=Donuts) | N/A |
+| 22 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 23 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 24 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
+| 25 | [Wien](http://twitter.com/search?q=Wien) | N/A |
+| 26 | [Sandro Wagner](http://twitter.com/search?q=Sandro+Wagner) | N/A |
+| 27 | [Fratze Deutschlands](http://twitter.com/search?q=Fratze+Deutschlands) | N/A |
+| 28 | [Jasna](http://twitter.com/search?q=Jasna) | N/A |
+| 29 | [John Lennon](http://twitter.com/search?q=John+Lennon) | N/A |
+| 30 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 31 | [Union](http://twitter.com/search?q=Union) | N/A |
+| 32 | [Halbzeit](http://twitter.com/search?q=Halbzeit) | N/A |
+| 33 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
+| 34 | [Weltrekord](http://twitter.com/search?q=Weltrekord) | N/A |
+| 35 | [INEC](http://twitter.com/search?q=INEC) | N/A |
+| 36 | [Botschaft](http://twitter.com/search?q=Botschaft) | N/A |
+| 37 | [Pflegeversicherung](http://twitter.com/search?q=Pflegeversicherung) | N/A |
+| 38 | [Irreführung der Bevölkerung](http://twitter.com/search?q=Irref%c3%bchrung+der+Bev%c3%b6lkerung) | N/A |
+| 39 | [Mannschaft](http://twitter.com/search?q=Mannschaft) | N/A |
+| 40 | [Verbrecher in die Geschichte](http://twitter.com/search?q=Verbrecher+in+die+Geschichte) | N/A |
+| 41 | [Laborunfall](http://twitter.com/search?q=Laborunfall) | N/A |
+| 42 | [Hänsel](http://twitter.com/search?q=H%c3%a4nsel) | N/A |
+| 43 | [Frau Müller](http://twitter.com/search?q=Frau+M%c3%bcller) | N/A |
+| 44 | [Indien](http://twitter.com/search?q=Indien) | N/A |
+| 45 | [sonntagmorgen](http://twitter.com/search?q=sonntagmorgen) | N/A |
+| 46 | [Glory Glory Man United](http://twitter.com/search?q=Glory+Glory+Man+United) | N/A |
+| 47 | [Gretel](http://twitter.com/search?q=Gretel) | N/A |
+| 48 | [Seite der Geschichte](http://twitter.com/search?q=Seite+der+Geschichte) | N/A |
+| 49 | [Bock auf Arbeit](http://twitter.com/search?q=Bock+auf+Arbeit) | N/A |
+| 50 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
 
 
 

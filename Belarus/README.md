@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belarus
 
-📆 Last Updated: `2023-02-26 20:16:51 UTC`
+📆 Last Updated: `2023-02-26 21:16:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,19 +24,19 @@ This is top 50 for Belarus
 | 7 | [Какие](http://twitter.com/search?q=%d0%9a%d0%b0%d0%ba%d0%b8%d0%b5) | N/A |
 | 8 | [Украине](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%b5) | N/A |
 | 9 | [Благодарю](http://twitter.com/search?q=%d0%91%d0%bb%d0%b0%d0%b3%d0%be%d0%b4%d0%b0%d1%80%d1%8e) | N/A |
-| 10 | [#GlobalCrisis](http://twitter.com/search?q=%23GlobalCrisis) | N/A |
-| 11 | [Минска](http://twitter.com/search?q=%d0%9c%d0%b8%d0%bd%d1%81%d0%ba%d0%b0) | N/A |
-| 12 | [Европе](http://twitter.com/search?q=%d0%95%d0%b2%d1%80%d0%be%d0%bf%d0%b5) | N/A |
-| 13 | [Дзякуй](http://twitter.com/search?q=%d0%94%d0%b7%d1%8f%d0%ba%d1%83%d0%b9) | N/A |
-| 14 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
-| 15 | [Поздравляю](http://twitter.com/search?q=%d0%9f%d0%be%d0%b7%d0%b4%d1%80%d0%b0%d0%b2%d0%bb%d1%8f%d1%8e) | N/A |
+| 10 | [Минска](http://twitter.com/search?q=%d0%9c%d0%b8%d0%bd%d1%81%d0%ba%d0%b0) | N/A |
+| 11 | [Европе](http://twitter.com/search?q=%d0%95%d0%b2%d1%80%d0%be%d0%bf%d0%b5) | N/A |
+| 12 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
+| 13 | [Наверное](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b2%d0%b5%d1%80%d0%bd%d0%be%d0%b5) | N/A |
+| 14 | [Дзякуй](http://twitter.com/search?q=%d0%94%d0%b7%d1%8f%d0%ba%d1%83%d0%b9) | N/A |
+| 15 | [#GlobalCrisis](http://twitter.com/search?q=%23GlobalCrisis) | N/A |
 | 16 | [Китай](http://twitter.com/search?q=%d0%9a%d0%b8%d1%82%d0%b0%d0%b9) | N/A |
-| 17 | [Главное](http://twitter.com/search?q=%d0%93%d0%bb%d0%b0%d0%b2%d0%bd%d0%be%d0%b5) | N/A |
-| 18 | [Наверное](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b2%d0%b5%d1%80%d0%bd%d0%be%d0%b5) | N/A |
-| 19 | [#CreativeSociety](http://twitter.com/search?q=%23CreativeSociety) | N/A |
-| 20 | [Вось](http://twitter.com/search?q=%d0%92%d0%be%d1%81%d1%8c) | N/A |
+| 17 | [#CreativeSociety](http://twitter.com/search?q=%23CreativeSociety) | N/A |
+| 18 | [Главное](http://twitter.com/search?q=%d0%93%d0%bb%d0%b0%d0%b2%d0%bd%d0%be%d0%b5) | N/A |
+| 19 | [Жаль](http://twitter.com/search?q=%d0%96%d0%b0%d0%bb%d1%8c) | N/A |
+| 20 | [#ArtistOnTwitter](http://twitter.com/search?q=%23ArtistOnTwitter) | N/A |
 | 21 | [Ладно](http://twitter.com/search?q=%d0%9b%d0%b0%d0%b4%d0%bd%d0%be) | N/A |
-| 22 | [Жаль](http://twitter.com/search?q=%d0%96%d0%b0%d0%bb%d1%8c) | N/A |
+| 22 | [Вось](http://twitter.com/search?q=%d0%92%d0%be%d1%81%d1%8c) | N/A |
 
 
 
