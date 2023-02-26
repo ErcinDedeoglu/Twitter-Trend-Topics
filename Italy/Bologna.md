@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bologna
 
-📆 Last Updated: `2023-02-26 01:44:21 UTC`
+📆 Last Updated: `2023-02-26 02:43:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Italy](</Italy>)
 | ------- | ------------ | ------------ |
 | 1 | [#UnaVocePerSanMarino](http://twitter.com/search?q=%23UnaVocePerSanMarino) | N/A |
 | 2 | [#EmpoliNapoli](http://twitter.com/search?q=%23EmpoliNapoli) | N/A |
-| 3 | [#taleequalesanremo](http://twitter.com/search?q=%23taleequalesanremo) | N/A |
-| 4 | [#MaurizioCostanzo](http://twitter.com/search?q=%23MaurizioCostanzo) | N/A |
-| 5 | [Albano](http://twitter.com/search?q=Albano) | N/A |
+| 3 | [#MaurizioCostanzo](http://twitter.com/search?q=%23MaurizioCostanzo) | N/A |
+| 4 | [#taleequalesanremo](http://twitter.com/search?q=%23taleequalesanremo) | N/A |
+| 5 | [Al Bano](http://twitter.com/search?q=Al+Bano) | N/A |
 | 6 | [Mario Rui](http://twitter.com/search?q=Mario+Rui) | N/A |
-| 7 | [Jonathan](http://twitter.com/search?q=Jonathan) | N/A |
-| 8 | [Davide](http://twitter.com/search?q=Davide) | N/A |
-| 9 | [Le Deva](http://twitter.com/search?q=Le+Deva) | N/A |
-| 10 | [Murgia](http://twitter.com/search?q=Murgia) | Murgia is a geographical region in southern Italy, located in the provinces of Bari and Taranto. It is characterized by its limestone hills, deep ravines, and caves. The name Murgia comes from the Latin word murex, meaning "rocky hill". In English, Murgia can be translated as "rocky land". |
-| 11 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 12 | [Ronela](http://twitter.com/search?q=Ronela) | N/A |
-| 13 | [Diodato](http://twitter.com/search?q=Diodato) | N/A |
-| 14 | [ivan capelli](http://twitter.com/search?q=ivan+capelli) | N/A |
-| 15 | [Grattugia](http://twitter.com/search?q=Grattugia) | N/A |
-| 16 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 17 | [Travaglio](http://twitter.com/search?q=Travaglio) | N/A |
-| 18 | [Zucchero](http://twitter.com/search?q=Zucchero) | N/A |
+| 7 | [Davide](http://twitter.com/search?q=Davide) | N/A |
+| 8 | [Le Deva](http://twitter.com/search?q=Le+Deva) | N/A |
+| 9 | [Murgia](http://twitter.com/search?q=Murgia) | Murgia is a geographical region in southern Italy, located in the provinces of Bari and Taranto. It is characterized by its limestone hills, deep ravines, and caves. The name Murgia comes from the Latin word murex, meaning "rocky hill". In English, Murgia can be translated as "rocky land". |
+| 10 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 11 | [ivan capelli](http://twitter.com/search?q=ivan+capelli) | N/A |
+| 12 | [Grattugia](http://twitter.com/search?q=Grattugia) | N/A |
+| 13 | [Jonathan](http://twitter.com/search?q=Jonathan) | N/A |
+| 14 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 15 | [Travaglio](http://twitter.com/search?q=Travaglio) | N/A |
+| 16 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
+| 17 | [Licitra](http://twitter.com/search?q=Licitra) | N/A |
+| 18 | [Agnelli](http://twitter.com/search?q=Agnelli) | N/A |
 | 19 | [Costituzione](http://twitter.com/search?q=Costituzione) | N/A |
-| 20 | [Senhit](http://twitter.com/search?q=Senhit) | N/A |
-| 21 | [Corrado](http://twitter.com/search?q=Corrado) | N/A |
-| 22 | [Roy Paci](http://twitter.com/search?q=Roy+Paci) | N/A |
-| 23 | [Licitra](http://twitter.com/search?q=Licitra) | N/A |
-| 24 | [Agnelli](http://twitter.com/search?q=Agnelli) | N/A |
-| 25 | [Heineken](http://twitter.com/search?q=Heineken) | N/A |
-| 26 | [Ucraina](http://twitter.com/search?q=Ucraina) | N/A |
-| 27 | [Luca Laurenti](http://twitter.com/search?q=Luca+Laurenti) | N/A |
-| 28 | [Eiffel 65](http://twitter.com/search?q=Eiffel+65) | N/A |
-| 29 | [Malgioglio](http://twitter.com/search?q=Malgioglio) | N/A |
-| 30 | [Notte](http://twitter.com/search?q=Notte) | N/A |
-| 31 | [Piqued Jacks](http://twitter.com/search?q=Piqued+Jacks) | N/A |
-| 32 | [Buon Sabato](http://twitter.com/search?q=Buon+Sabato) | N/A |
-| 33 | [Ingroia](http://twitter.com/search?q=Ingroia) | N/A |
-| 34 | [Paolo Meneguzzi](http://twitter.com/search?q=Paolo+Meneguzzi) | N/A |
-| 35 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
-| 36 | [ichnusa](http://twitter.com/search?q=ichnusa) | N/A |
-| 37 | [Mogol](http://twitter.com/search?q=Mogol) | N/A |
-| 38 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 39 | [Capezzone](http://twitter.com/search?q=Capezzone) | N/A |
-| 40 | [PierGigi](http://twitter.com/search?q=PierGigi) | N/A |
-| 41 | [Preside](http://twitter.com/search?q=Preside) | N/A |
-| 42 | [Edobau](http://twitter.com/search?q=Edobau) | N/A |
-| 43 | [Maneskin](http://twitter.com/search?q=Maneskin) | N/A |
-| 44 | [Cina](http://twitter.com/search?q=Cina) | N/A |
-| 45 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
-| 46 | [Jared](http://twitter.com/search?q=Jared) | N/A |
-| 47 | [Daniele](http://twitter.com/search?q=Daniele) | N/A |
-| 48 | [Gabriele Cirilli](http://twitter.com/search?q=Gabriele+Cirilli) | N/A |
-| 49 | [Goggi](http://twitter.com/search?q=Goggi) | N/A |
+| 20 | [Heineken](http://twitter.com/search?q=Heineken) | N/A |
+| 21 | [Ucraina](http://twitter.com/search?q=Ucraina) | N/A |
+| 22 | [Luca Laurenti](http://twitter.com/search?q=Luca+Laurenti) | N/A |
+| 23 | [Edobau](http://twitter.com/search?q=Edobau) | N/A |
+| 24 | [Notte](http://twitter.com/search?q=Notte) | N/A |
+| 25 | [Piqued Jacks](http://twitter.com/search?q=Piqued+Jacks) | N/A |
+| 26 | [Ingroia](http://twitter.com/search?q=Ingroia) | N/A |
+| 27 | [buon sabato](http://twitter.com/search?q=buon+sabato) | N/A |
+| 28 | [ichnusa](http://twitter.com/search?q=ichnusa) | N/A |
+| 29 | [Mogol](http://twitter.com/search?q=Mogol) | N/A |
+| 30 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 31 | [Capezzone](http://twitter.com/search?q=Capezzone) | N/A |
+| 32 | [Eiffel 65](http://twitter.com/search?q=Eiffel+65) | N/A |
+| 33 | [PierGigi](http://twitter.com/search?q=PierGigi) | N/A |
+| 34 | [Preside](http://twitter.com/search?q=Preside) | N/A |
+| 35 | [Micol](http://twitter.com/search?q=Micol) | Micol is a female given name of Italian origin. It is derived from the Hebrew name Michal, which means "who is like God?". |
+| 36 | [Roy Paci](http://twitter.com/search?q=Roy+Paci) | N/A |
+| 37 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
+| 38 | [Daniele](http://twitter.com/search?q=Daniele) | N/A |
+| 39 | [Jared](http://twitter.com/search?q=Jared) | N/A |
+| 40 | [Gabriele Cirilli](http://twitter.com/search?q=Gabriele+Cirilli) | N/A |
+| 41 | [Cina](http://twitter.com/search?q=Cina) | N/A |
+| 42 | [Ronela](http://twitter.com/search?q=Ronela) | N/A |
+| 43 | [campidoglio](http://twitter.com/search?q=campidoglio) | N/A |
+| 44 | [nuoro](http://twitter.com/search?q=nuoro) | N/A |
+| 45 | [castellani](http://twitter.com/search?q=castellani) | N/A |
+| 46 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
+| 47 | [Zucchero](http://twitter.com/search?q=Zucchero) | N/A |
+| 48 | [L'antifascismo](http://twitter.com/search?q=L%27antifascismo) | N/A |
+| 49 | [Senhit](http://twitter.com/search?q=Senhit) | N/A |
 
 
 

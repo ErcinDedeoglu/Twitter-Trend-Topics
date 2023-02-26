@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Boston
 
-📆 Last Updated: `2023-02-26 01:44:46 UTC`
+📆 Last Updated: `2023-02-26 02:44:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Vancouver](http://twitter.com/search?q=Vancouver) | N/A |
-| 2 | [Brad Marchand](http://twitter.com/search?q=Brad+Marchand) | N/A |
-| 3 | [Hathaway](http://twitter.com/search?q=Hathaway) | N/A |
-| 4 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
-| 5 | [#NAACPImageAwards](http://twitter.com/search?q=%23NAACPImageAwards) | N/A |
-| 6 | [#UFCVegas70](http://twitter.com/search?q=%23UFCVegas70) | N/A |
-| 7 | [Paul Ryan](http://twitter.com/search?q=Paul+Ryan) | Paul Ryan is the name of an American politician who served as the 54th Speaker of the United States House of Representatives from October 2015 to January 2019. He is a member of the Republican Party and was previously the Vice Presidential nominee for the 2012 election. The meaning of his name in English is "little king". |
-| 8 | [#Svengoolie](http://twitter.com/search?q=%23Svengoolie) | N/A |
-| 9 | [#Optimusinu](http://twitter.com/search?q=%23Optimusinu) | N/A |
-| 10 | [#Chrome23](http://twitter.com/search?q=%23Chrome23) | N/A |
-| 11 | [Pete Nance](http://twitter.com/search?q=Pete+Nance) | N/A |
-| 12 | [zendaya](http://twitter.com/search?q=zendaya) | Zendaya is a female given name of African-American origin, derived from the Shona language of Zimbabwe. It means "to give thanks" or "to be thankful". |
-| 13 | [Trevor Peek](http://twitter.com/search?q=Trevor+Peek) | N/A |
-| 14 | [Jalen Hood](http://twitter.com/search?q=Jalen+Hood) | N/A |
-| 15 | [MLS 360](http://twitter.com/search?q=MLS+360) | N/A |
-| 16 | [Tatiana Suarez](http://twitter.com/search?q=Tatiana+Suarez) | N/A |
-| 17 | [Apple TV](http://twitter.com/search?q=Apple+TV) | N/A |
-| 18 | [Queen Latifah](http://twitter.com/search?q=Queen+Latifah) | Queen Latifah is the stage name of American rapper, singer, songwriter, actress, and producer Dana Elaine Owens. The name Queen Latifah is derived from the Arabic word "Latifah," which means "delicate" or "sensitive." |
-| 19 | [Uncle Clifford](http://twitter.com/search?q=Uncle+Clifford) | N/A |
-| 20 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
-| 21 | [Edey](http://twitter.com/search?q=Edey) | Edey is a slang term used in some parts of the United States to refer to someone who is cool, stylish, or attractive. It can also be used as a term of endearment. |
-| 22 | [Mayes](http://twitter.com/search?q=Mayes) | N/A |
-| 23 | [Sakai](http://twitter.com/search?q=Sakai) | N/A |
-| 24 | [Pristavia](http://twitter.com/search?q=Pristavia) | N/A |
-| 25 | [Pat Adams](http://twitter.com/search?q=Pat+Adams) | N/A |
-| 26 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
-| 27 | [Fran](http://twitter.com/search?q=Fran) | N/A |
-| 28 | [Virginia](http://twitter.com/search?q=Virginia) | N/A |
-| 29 | [Mike Malott](http://twitter.com/search?q=Mike+Malott) | N/A |
-| 30 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
-| 31 | [Boeheim](http://twitter.com/search?q=Boeheim) | N/A |
-| 32 | [Scott Adams](http://twitter.com/search?q=Scott+Adams) | N/A |
-| 33 | [Deep Purple](http://twitter.com/search?q=Deep+Purple) | N/A |
-| 34 | [Krylov](http://twitter.com/search?q=Krylov) | N/A |
-| 35 | [Brayden Point](http://twitter.com/search?q=Brayden+Point) | N/A |
-| 36 | [DC United](http://twitter.com/search?q=DC+United) | N/A |
-| 37 | [Atlanta United](http://twitter.com/search?q=Atlanta+United) | N/A |
-| 38 | [Zeus](http://twitter.com/search?q=Zeus) | Zeus is the name of the supreme god in Greek mythology. He was the god of the sky, lightning, thunder, law, order, and justice. He was also known as the king of gods and ruler of Mount Olympus. In English, Zeus is often used to refer to a person who is powerful or influential. |
-| 39 | [Hany Mukhtar](http://twitter.com/search?q=Hany+Mukhtar) | N/A |
-| 40 | [Vipers](http://twitter.com/search?q=Vipers) | N/A |
-| 41 | [Confidence Game](http://twitter.com/search?q=Confidence+Game) | N/A |
-| 42 | [Jordan Leavitt](http://twitter.com/search?q=Jordan+Leavitt) | N/A |
-| 43 | [Florida State](http://twitter.com/search?q=Florida+State) | N/A |
-| 44 | [Caleb Love](http://twitter.com/search?q=Caleb+Love) | Caleb Love is a phrase that is used to express love and affection for someone. It is derived from the biblical figure Caleb, who was known for his loyalty and faithfulness. In English, it can be used as a term of endearment or to express admiration for someone. |
-| 45 | [Trayce Jackson](http://twitter.com/search?q=Trayce+Jackson) | N/A |
-| 46 | [Mackey](http://twitter.com/search?q=Mackey) | N/A |
-| 47 | [Baseball](http://twitter.com/search?q=Baseball) | N/A |
-| 48 | [Matthew Cleveland](http://twitter.com/search?q=Matthew+Cleveland) | N/A |
-| 49 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
+| 1 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
+| 2 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
+| 3 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
+| 4 | [76ers](http://twitter.com/search?q=76ers) | 76ers is the nickname of the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The team was originally founded in 1946 as the Syracuse Nationals and changed its name to the 76ers in 1963. The name "76ers" is a reference to the year 1776, when the Declaration of Independence was signed in Philadelphia. |
+| 5 | [Vancouver](http://twitter.com/search?q=Vancouver) | N/A |
+| 6 | [Brad Marchand](http://twitter.com/search?q=Brad+Marchand) | N/A |
+| 7 | [Hathaway](http://twitter.com/search?q=Hathaway) | N/A |
+| 8 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
+| 9 | [#NAACPImageAwards](http://twitter.com/search?q=%23NAACPImageAwards) | N/A |
+| 10 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
+| 11 | [#iubb](http://twitter.com/search?q=%23iubb) | #iubb is an abbreviation for Indiana University Bloomington, which is a public research university located in Bloomington, Indiana. |
+| 12 | [#UFCVegas70](http://twitter.com/search?q=%23UFCVegas70) | N/A |
+| 13 | [Paul Ryan](http://twitter.com/search?q=Paul+Ryan) | Paul Ryan is the name of an American politician who served as the 54th Speaker of the United States House of Representatives from October 2015 to January 2019. He is a member of the Republican Party and was previously the Vice Presidential nominee for the 2012 election. The meaning of his name in English is "little king". |
+| 14 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
+| 15 | [#Chrome23](http://twitter.com/search?q=%23Chrome23) | N/A |
+| 16 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
+| 17 | [#Svengoolie](http://twitter.com/search?q=%23Svengoolie) | N/A |
+| 18 | [Mark Williams](http://twitter.com/search?q=Mark+Williams) | N/A |
+| 19 | [Almada](http://twitter.com/search?q=Almada) | N/A |
+| 20 | [Edey](http://twitter.com/search?q=Edey) | Edey is a slang term used in some parts of the United States to refer to someone who is cool, stylish, or attractive. It can also be used as a term of endearment. |
+| 21 | [Brendan Allen](http://twitter.com/search?q=Brendan+Allen) | N/A |
+| 22 | [PJ Tucker](http://twitter.com/search?q=PJ+Tucker) | PJ Tucker is an American professional basketball player who currently plays for the Houston Rockets of the National Basketball Association (NBA). His nickname is "The Round Mound of Rebound" due to his ability to grab rebounds despite his relatively small size. |
+| 23 | [Jalen Hood](http://twitter.com/search?q=Jalen+Hood) | N/A |
+| 24 | [Muniz](http://twitter.com/search?q=Muniz) | N/A |
+| 25 | [MLS 360](http://twitter.com/search?q=MLS+360) | N/A |
+| 26 | [Tim Parker](http://twitter.com/search?q=Tim+Parker) | N/A |
+| 27 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
+| 28 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
+| 29 | [Trey Galloway](http://twitter.com/search?q=Trey+Galloway) | N/A |
+| 30 | [D'Eriq King](http://twitter.com/search?q=D%27Eriq+King) | N/A |
+| 31 | [Pete Nance](http://twitter.com/search?q=Pete+Nance) | N/A |
+| 32 | [Apple TV](http://twitter.com/search?q=Apple+TV) | N/A |
+| 33 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
+| 34 | [Queen Latifah](http://twitter.com/search?q=Queen+Latifah) | Queen Latifah is the stage name of American rapper, singer, songwriter, actress, and producer Dana Elaine Owens. The name Queen Latifah is derived from the Arabic word "Latifah," which means "delicate" or "sensitive." |
+| 35 | [Driussi](http://twitter.com/search?q=Driussi) | N/A |
+| 36 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
+| 37 | [Ben Crump](http://twitter.com/search?q=Ben+Crump) | N/A |
+| 38 | [Uncle Clifford](http://twitter.com/search?q=Uncle+Clifford) | N/A |
+| 39 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
+| 40 | [DC United](http://twitter.com/search?q=DC+United) | N/A |
+| 41 | [Horford](http://twitter.com/search?q=Horford) | Horford is a surname of Spanish origin. It is derived from the Latin word "horreum" which means granary or storehouse. The name is most commonly associated with Al Horford, an American professional basketball player who currently plays for the Philadelphia 76ers. |
+| 42 | [Atlanta United](http://twitter.com/search?q=Atlanta+United) | N/A |
+| 43 | [Tatiana Suarez](http://twitter.com/search?q=Tatiana+Suarez) | N/A |
+| 44 | [Trevor Peek](http://twitter.com/search?q=Trevor+Peek) | N/A |
+| 45 | [Olive Garden](http://twitter.com/search?q=Olive+Garden) | N/A |
+| 46 | [Mayes](http://twitter.com/search?q=Mayes) | N/A |
+| 47 | [Benteke](http://twitter.com/search?q=Benteke) | N/A |
+| 48 | [Race Thompson](http://twitter.com/search?q=Race+Thompson) | N/A |
+| 49 | [michelle obama](http://twitter.com/search?q=michelle+obama) | N/A |
 
 
 

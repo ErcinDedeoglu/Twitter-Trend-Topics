@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Seattle
 
-📆 Last Updated: `2023-02-26 01:44:52 UTC`
+📆 Last Updated: `2023-02-26 02:44:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
-| 2 | [#NAACPImageAwards](http://twitter.com/search?q=%23NAACPImageAwards) | N/A |
-| 3 | [#UFCVegas70](http://twitter.com/search?q=%23UFCVegas70) | N/A |
-| 4 | [Paul Ryan](http://twitter.com/search?q=Paul+Ryan) | Paul Ryan is the name of an American politician who served as the 54th Speaker of the United States House of Representatives from October 2015 to January 2019. He is a member of the Republican Party and was previously the Vice Presidential nominee for the 2012 election. The meaning of his name in English is "little king". |
-| 5 | [#Svengoolie](http://twitter.com/search?q=%23Svengoolie) | N/A |
-| 6 | [#Optimusinu](http://twitter.com/search?q=%23Optimusinu) | N/A |
-| 7 | [#Chrome23](http://twitter.com/search?q=%23Chrome23) | N/A |
-| 8 | [Pete Nance](http://twitter.com/search?q=Pete+Nance) | N/A |
-| 9 | [zendaya](http://twitter.com/search?q=zendaya) | Zendaya is a female given name of African-American origin, derived from the Shona language of Zimbabwe. It means "to give thanks" or "to be thankful". |
-| 10 | [Trevor Peek](http://twitter.com/search?q=Trevor+Peek) | N/A |
-| 11 | [Jalen Hood](http://twitter.com/search?q=Jalen+Hood) | N/A |
-| 12 | [MLS 360](http://twitter.com/search?q=MLS+360) | N/A |
-| 13 | [Tatiana Suarez](http://twitter.com/search?q=Tatiana+Suarez) | N/A |
-| 14 | [Apple TV](http://twitter.com/search?q=Apple+TV) | N/A |
-| 15 | [Queen Latifah](http://twitter.com/search?q=Queen+Latifah) | Queen Latifah is the stage name of American rapper, singer, songwriter, actress, and producer Dana Elaine Owens. The name Queen Latifah is derived from the Arabic word "Latifah," which means "delicate" or "sensitive." |
-| 16 | [Uncle Clifford](http://twitter.com/search?q=Uncle+Clifford) | N/A |
-| 17 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
-| 18 | [Edey](http://twitter.com/search?q=Edey) | Edey is a slang term used in some parts of the United States to refer to someone who is cool, stylish, or attractive. It can also be used as a term of endearment. |
-| 19 | [Mayes](http://twitter.com/search?q=Mayes) | N/A |
-| 20 | [Sakai](http://twitter.com/search?q=Sakai) | N/A |
-| 21 | [Pristavia](http://twitter.com/search?q=Pristavia) | N/A |
-| 22 | [Pat Adams](http://twitter.com/search?q=Pat+Adams) | N/A |
-| 23 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
-| 24 | [Fran](http://twitter.com/search?q=Fran) | N/A |
-| 25 | [Virginia](http://twitter.com/search?q=Virginia) | N/A |
-| 26 | [Mike Malott](http://twitter.com/search?q=Mike+Malott) | N/A |
-| 27 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
-| 28 | [Boeheim](http://twitter.com/search?q=Boeheim) | N/A |
-| 29 | [Deep Purple](http://twitter.com/search?q=Deep+Purple) | N/A |
-| 30 | [Scott Adams](http://twitter.com/search?q=Scott+Adams) | N/A |
-| 31 | [Krylov](http://twitter.com/search?q=Krylov) | N/A |
-| 32 | [Brayden Point](http://twitter.com/search?q=Brayden+Point) | N/A |
-| 33 | [DC United](http://twitter.com/search?q=DC+United) | N/A |
-| 34 | [Atlanta United](http://twitter.com/search?q=Atlanta+United) | N/A |
-| 35 | [Zeus](http://twitter.com/search?q=Zeus) | Zeus is the name of the supreme god in Greek mythology. He was the god of the sky, lightning, thunder, law, order, and justice. He was also known as the king of gods and ruler of Mount Olympus. In English, Zeus is often used to refer to a person who is powerful or influential. |
-| 36 | [Trayce Jackson](http://twitter.com/search?q=Trayce+Jackson) | N/A |
-| 37 | [Hany Mukhtar](http://twitter.com/search?q=Hany+Mukhtar) | N/A |
-| 38 | [Vipers](http://twitter.com/search?q=Vipers) | N/A |
-| 39 | [Confidence Game](http://twitter.com/search?q=Confidence+Game) | N/A |
-| 40 | [Jordan Leavitt](http://twitter.com/search?q=Jordan+Leavitt) | N/A |
-| 41 | [Florida State](http://twitter.com/search?q=Florida+State) | N/A |
-| 42 | [Caleb Love](http://twitter.com/search?q=Caleb+Love) | Caleb Love is a phrase that is used to express love and affection for someone. It is derived from the biblical figure Caleb, who was known for his loyalty and faithfulness. In English, it can be used as a term of endearment or to express admiration for someone. |
-| 43 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
-| 44 | [Mackey](http://twitter.com/search?q=Mackey) | N/A |
-| 45 | [Baseball](http://twitter.com/search?q=Baseball) | N/A |
-| 46 | [Matthew Cleveland](http://twitter.com/search?q=Matthew+Cleveland) | N/A |
-| 47 | [Savannah James](http://twitter.com/search?q=Savannah+James) | N/A |
-| 48 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
-| 49 | [George Mason](http://twitter.com/search?q=George+Mason) | N/A |
+| 1 | [Cocaine Bear](http://twitter.com/search?q=Cocaine+Bear) | Cocaine Bear is an internet meme that originated from a real-life incident in 1985. It refers to a black bear that was found dead in the Great Smoky Mountains National Park in Tennessee, USA. The bear had ingested over 70 pounds of cocaine that had been dropped from an airplane by drug smugglers. The phrase "Cocaine Bear" is used to refer to any situation where someone or something has taken on more than they can handle. |
+| 2 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
+| 3 | [#NAACPImageAwards](http://twitter.com/search?q=%23NAACPImageAwards) | N/A |
+| 4 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
+| 5 | [#iubb](http://twitter.com/search?q=%23iubb) | #iubb is an abbreviation for Indiana University Bloomington, which is a public research university located in Bloomington, Indiana. |
+| 6 | [#UFCVegas70](http://twitter.com/search?q=%23UFCVegas70) | N/A |
+| 7 | [Paul Ryan](http://twitter.com/search?q=Paul+Ryan) | Paul Ryan is the name of an American politician who served as the 54th Speaker of the United States House of Representatives from October 2015 to January 2019. He is a member of the Republican Party and was previously the Vice Presidential nominee for the 2012 election. The meaning of his name in English is "little king". |
+| 8 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
+| 9 | [#Chrome23](http://twitter.com/search?q=%23Chrome23) | N/A |
+| 10 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
+| 11 | [#Svengoolie](http://twitter.com/search?q=%23Svengoolie) | N/A |
+| 12 | [Mark Williams](http://twitter.com/search?q=Mark+Williams) | N/A |
+| 13 | [Edey](http://twitter.com/search?q=Edey) | Edey is a slang term used in some parts of the United States to refer to someone who is cool, stylish, or attractive. It can also be used as a term of endearment. |
+| 14 | [Brendan Allen](http://twitter.com/search?q=Brendan+Allen) | N/A |
+| 15 | [Almada](http://twitter.com/search?q=Almada) | N/A |
+| 16 | [PJ Tucker](http://twitter.com/search?q=PJ+Tucker) | PJ Tucker is an American professional basketball player who currently plays for the Houston Rockets of the National Basketball Association (NBA). His nickname is "The Round Mound of Rebound" due to his ability to grab rebounds despite his relatively small size. |
+| 17 | [Jalen Hood](http://twitter.com/search?q=Jalen+Hood) | N/A |
+| 18 | [Muniz](http://twitter.com/search?q=Muniz) | N/A |
+| 19 | [Tim Parker](http://twitter.com/search?q=Tim+Parker) | N/A |
+| 20 | [MLS 360](http://twitter.com/search?q=MLS+360) | N/A |
+| 21 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
+| 22 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
+| 23 | [Trey Galloway](http://twitter.com/search?q=Trey+Galloway) | N/A |
+| 24 | [D'Eriq King](http://twitter.com/search?q=D%27Eriq+King) | N/A |
+| 25 | [Pete Nance](http://twitter.com/search?q=Pete+Nance) | N/A |
+| 26 | [Apple TV](http://twitter.com/search?q=Apple+TV) | N/A |
+| 27 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
+| 28 | [Queen Latifah](http://twitter.com/search?q=Queen+Latifah) | Queen Latifah is the stage name of American rapper, singer, songwriter, actress, and producer Dana Elaine Owens. The name Queen Latifah is derived from the Arabic word "Latifah," which means "delicate" or "sensitive." |
+| 29 | [Driussi](http://twitter.com/search?q=Driussi) | N/A |
+| 30 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
+| 31 | [Ben Crump](http://twitter.com/search?q=Ben+Crump) | N/A |
+| 32 | [Uncle Clifford](http://twitter.com/search?q=Uncle+Clifford) | N/A |
+| 33 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
+| 34 | [Horford](http://twitter.com/search?q=Horford) | Horford is a surname of Spanish origin. It is derived from the Latin word "horreum" which means granary or storehouse. The name is most commonly associated with Al Horford, an American professional basketball player who currently plays for the Philadelphia 76ers. |
+| 35 | [DC United](http://twitter.com/search?q=DC+United) | N/A |
+| 36 | [Tatiana Suarez](http://twitter.com/search?q=Tatiana+Suarez) | N/A |
+| 37 | [Trevor Peek](http://twitter.com/search?q=Trevor+Peek) | N/A |
+| 38 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
+| 39 | [Atlanta United](http://twitter.com/search?q=Atlanta+United) | N/A |
+| 40 | [Olive Garden](http://twitter.com/search?q=Olive+Garden) | N/A |
+| 41 | [Mayes](http://twitter.com/search?q=Mayes) | N/A |
+| 42 | [Benteke](http://twitter.com/search?q=Benteke) | N/A |
+| 43 | [Race Thompson](http://twitter.com/search?q=Race+Thompson) | N/A |
+| 44 | [michelle obama](http://twitter.com/search?q=michelle+obama) | N/A |
+| 45 | [Vipers](http://twitter.com/search?q=Vipers) | N/A |
+| 46 | [Brandon Newman](http://twitter.com/search?q=Brandon+Newman) | N/A |
+| 47 | [Method Man](http://twitter.com/search?q=Method+Man) | Method Man is a stage name used by American rapper and actor Clifford Smith. The name is derived from the 1979 film The Fearless Young Boxer, in which a character named Method Man was played by actor and martial artist Bruce Lee. The phrase "Method Man" has come to mean someone who is highly skilled or proficient at something. |
+| 48 | [Trayce Jackson](http://twitter.com/search?q=Trayce+Jackson) | N/A |
+| 49 | [Sakai](http://twitter.com/search?q=Sakai) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vancouver
 
-📆 Last Updated: `2023-02-26 01:44:06 UTC`
+📆 Last Updated: `2023-02-26 02:43:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
-| 2 | [#TFCLive](http://twitter.com/search?q=%23TFCLive) | N/A |
-| 3 | [Insigne](http://twitter.com/search?q=Insigne) | N/A |
-| 4 | [#CFMTL](http://twitter.com/search?q=%23CFMTL) | N/A |
-| 5 | [#UFCVegas70](http://twitter.com/search?q=%23UFCVegas70) | N/A |
-| 6 | [Watson](http://twitter.com/search?q=Watson) | Watson is an artificial intelligence (AI) computer system developed by IBM. It is capable of answering questions posed in natural language, making it a useful tool for businesses and researchers. Watson can also be used to analyze large amounts of data and generate insights from it. |
-| 7 | [#CNOY2023](http://twitter.com/search?q=%23CNOY2023) | N/A |
-| 8 | [Nick Suzuki](http://twitter.com/search?q=Nick+Suzuki) | N/A |
-| 9 | [Matheson](http://twitter.com/search?q=Matheson) | N/A |
-| 10 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
-| 11 | [Nino](http://twitter.com/search?q=Nino) | N/A |
-| 12 | [Coldest Night of the Year](http://twitter.com/search?q=Coldest+Night+of+the+Year) | N/A |
-| 13 | [Neil Young](http://twitter.com/search?q=Neil+Young) | N/A |
-| 14 | [Apple TV](http://twitter.com/search?q=Apple+TV) | N/A |
-| 15 | [Campbell](http://twitter.com/search?q=Campbell) | N/A |
-| 16 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
-| 17 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 18 | [Lockwood](http://twitter.com/search?q=Lockwood) | N/A |
-| 19 | [Kravtsov](http://twitter.com/search?q=Kravtsov) | N/A |
-| 20 | [Marchand](http://twitter.com/search?q=Marchand) | N/A |
-| 21 | [Holland](http://twitter.com/search?q=Holland) | N/A |
-| 22 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
-| 23 | [Skinner](http://twitter.com/search?q=Skinner) | N/A |
-| 24 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 25 | [Elden Ring](http://twitter.com/search?q=Elden+Ring) | N/A |
-| 26 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
-| 27 | [Kikuchi](http://twitter.com/search?q=Kikuchi) | N/A |
-| 28 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
-| 29 | [Talbot](http://twitter.com/search?q=Talbot) | N/A |
-| 30 | [Columbus](http://twitter.com/search?q=Columbus) | N/A |
-| 31 | [Conservative Party](http://twitter.com/search?q=Conservative+Party) | N/A |
-| 32 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 33 | [Pirates](http://twitter.com/search?q=Pirates) | Pirates are people who attack and steal from ships at sea. They are often seen as criminals who take what they want without regard for the law. The term "pirate" is derived from the Latin word "pirata," which means "one who plunders." |
-| 34 | [INEC](http://twitter.com/search?q=INEC) | N/A |
-| 35 | [Scott Adams](http://twitter.com/search?q=Scott+Adams) | N/A |
-| 36 | [Leslyn](http://twitter.com/search?q=Leslyn) | N/A |
-| 37 | [Pistons](http://twitter.com/search?q=Pistons) | Pistons are components of an engine that move up and down to create the power needed to drive a vehicle. They are usually made of metal and fit into the cylinder of an engine, where they move up and down in order to compress and expand the air-fuel mixture that powers the engine. |
-| 38 | [Donbass](http://twitter.com/search?q=Donbass) | N/A |
-| 39 | [#BudFirstGoal](http://twitter.com/search?q=%23BudFirstGoal) | N/A |
-| 40 | [#bcstorm](http://twitter.com/search?q=%23bcstorm) | N/A |
-| 41 | [#MLSSeasonPass](http://twitter.com/search?q=%23MLSSeasonPass) | N/A |
-| 42 | [#IMFC](http://twitter.com/search?q=%23IMFC) | N/A |
-| 43 | [#CurlingDayinCanada](http://twitter.com/search?q=%23CurlingDayinCanada) | N/A |
-| 44 | [#Bellator291](http://twitter.com/search?q=%23Bellator291) | N/A |
-| 45 | [#MLSisBack](http://twitter.com/search?q=%23MLSisBack) | N/A |
-| 46 | [#BlueJays](http://twitter.com/search?q=%23BlueJays) | N/A |
-| 47 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 48 | [#Oilers](http://twitter.com/search?q=%23Oilers) | N/A |
-| 49 | [#flames1stgoal](http://twitter.com/search?q=%23flames1stgoal) | N/A |
+| 1 | [Marchand](http://twitter.com/search?q=Marchand) | N/A |
+| 2 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
+| 3 | [#TFCLive](http://twitter.com/search?q=%23TFCLive) | N/A |
+| 4 | [Christine Anderson](http://twitter.com/search?q=Christine+Anderson) | N/A |
+| 5 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 6 | [#CFMTL](http://twitter.com/search?q=%23CFMTL) | N/A |
+| 7 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
+| 8 | [Trudeau](http://twitter.com/search?q=Trudeau) | N/A |
+| 9 | [Pierre](http://twitter.com/search?q=Pierre) | N/A |
+| 10 | [#UFCVegas70](http://twitter.com/search?q=%23UFCVegas70) | N/A |
+| 11 | [Insigne](http://twitter.com/search?q=Insigne) | N/A |
+| 12 | [Watson](http://twitter.com/search?q=Watson) | Watson is an artificial intelligence (AI) computer system developed by IBM. It is capable of answering questions posed in natural language, making it a useful tool for businesses and researchers. Watson can also be used to analyze large amounts of data and generate insights from it. |
+| 13 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 14 | [CSIS](http://twitter.com/search?q=CSIS) | N/A |
+| 15 | [Chabot](http://twitter.com/search?q=Chabot) | N/A |
+| 16 | [Wes McCauley](http://twitter.com/search?q=Wes+McCauley) | N/A |
+| 17 | [Kravtsov](http://twitter.com/search?q=Kravtsov) | N/A |
+| 18 | [Leslyn](http://twitter.com/search?q=Leslyn) | N/A |
+| 19 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 20 | [Nick Suzuki](http://twitter.com/search?q=Nick+Suzuki) | N/A |
+| 21 | [Kaye](http://twitter.com/search?q=Kaye) | N/A |
+| 22 | [German](http://twitter.com/search?q=German) | N/A |
+| 23 | [Matheson](http://twitter.com/search?q=Matheson) | N/A |
+| 24 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
+| 25 | [Brendan Allen](http://twitter.com/search?q=Brendan+Allen) | N/A |
+| 26 | [Kikuchi](http://twitter.com/search?q=Kikuchi) | N/A |
+| 27 | [Campbell](http://twitter.com/search?q=Campbell) | N/A |
+| 28 | [INEC](http://twitter.com/search?q=INEC) | N/A |
+| 29 | [Poilievre](http://twitter.com/search?q=Poilievre) | N/A |
+| 30 | [Nino](http://twitter.com/search?q=Nino) | N/A |
+| 31 | [Pantemis](http://twitter.com/search?q=Pantemis) | N/A |
+| 32 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
+| 33 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 34 | [Lockwood](http://twitter.com/search?q=Lockwood) | N/A |
+| 35 | [Maxime Bernier](http://twitter.com/search?q=Maxime+Bernier) | N/A |
+| 36 | [Piette](http://twitter.com/search?q=Piette) | N/A |
+| 37 | [Brian Lilley](http://twitter.com/search?q=Brian+Lilley) | N/A |
+| 38 | [Herrera](http://twitter.com/search?q=Herrera) | Herrera is a Spanish surname derived from the Latin word ferreus, meaning "iron". It is also a common given name in Spanish-speaking countries. In English, Herrera can be translated to mean "ironworker" or "blacksmith". |
+| 39 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
+| 40 | [Laith Marouf](http://twitter.com/search?q=Laith+Marouf) | N/A |
+| 41 | [Sean Rea](http://twitter.com/search?q=Sean+Rea) | N/A |
+| 42 | [Muniz](http://twitter.com/search?q=Muniz) | N/A |
+| 43 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 44 | [Messier](http://twitter.com/search?q=Messier) | N/A |
+| 45 | [Bernardeschi](http://twitter.com/search?q=Bernardeschi) | N/A |
+| 46 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
+| 47 | [Barger](http://twitter.com/search?q=Barger) | N/A |
+| 48 | [Draisaitl](http://twitter.com/search?q=Draisaitl) | N/A |
+| 49 | [Scott Adams](http://twitter.com/search?q=Scott+Adams) | N/A |
 
 
 

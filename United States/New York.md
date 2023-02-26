@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-02-26 01:44:50 UTC`
+📆 Last Updated: `2023-02-26 02:44:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
-| 2 | [Kulich](http://twitter.com/search?q=Kulich) | N/A |
-| 3 | [Tuch](http://twitter.com/search?q=Tuch) | N/A |
-| 4 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
-| 5 | [Keith](http://twitter.com/search?q=Keith) | N/A |
-| 6 | [#Mets](http://twitter.com/search?q=%23Mets) | N/A |
-| 7 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
-| 8 | [#LFGM](http://twitter.com/search?q=%23LFGM) | #LFGM stands for "Looking for Group Members" and is used on social media platforms to indicate that someone is looking for people to join their group or team. |
-| 9 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 10 | [Mitch](http://twitter.com/search?q=Mitch) | N/A |
+| 1 | [Clyde](http://twitter.com/search?q=Clyde) | N/A |
+| 2 | [Tuch](http://twitter.com/search?q=Tuch) | N/A |
+| 3 | [Kulich](http://twitter.com/search?q=Kulich) | N/A |
+| 4 | [#NYCFC](http://twitter.com/search?q=%23NYCFC) | N/A |
+| 5 | [Pete Alonso](http://twitter.com/search?q=Pete+Alonso) | N/A |
+| 6 | [Keith](http://twitter.com/search?q=Keith) | N/A |
+| 7 | [#Mets](http://twitter.com/search?q=%23Mets) | N/A |
+| 8 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
+| 9 | [#LFGM](http://twitter.com/search?q=%23LFGM) | #LFGM stands for "Looking for Group Members" and is used on social media platforms to indicate that someone is looking for people to join their group or team. |
+| 10 | [#NewYorkForever](http://twitter.com/search?q=%23NewYorkForever) | N/A |
 | 11 | [RINO](http://twitter.com/search?q=RINO) | RINO stands for "Republican In Name Only," and it is a term used to describe a Republican politician who is perceived as not adhering to the party's traditional values or platform. |
-| 12 | [Lindgren](http://twitter.com/search?q=Lindgren) | N/A |
-| 13 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
+| 12 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
+| 13 | [Mitch](http://twitter.com/search?q=Mitch) | N/A |
 | 14 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
 | 15 | [Spring Training](http://twitter.com/search?q=Spring+Training) | N/A |
-| 16 | [#sjubb](http://twitter.com/search?q=%23sjubb) | N/A |
+| 16 | [Lindgren](http://twitter.com/search?q=Lindgren) | N/A |
 | 17 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
 | 18 | [#NAACPImageAwards](http://twitter.com/search?q=%23NAACPImageAwards) | N/A |
-| 19 | [#UFCVegas70](http://twitter.com/search?q=%23UFCVegas70) | N/A |
+| 19 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
 | 20 | [Paul Ryan](http://twitter.com/search?q=Paul+Ryan) | Paul Ryan is the name of an American politician who served as the 54th Speaker of the United States House of Representatives from October 2015 to January 2019. He is a member of the Republican Party and was previously the Vice Presidential nominee for the 2012 election. The meaning of his name in English is "little king". |
-| 21 | [Pete Nance](http://twitter.com/search?q=Pete+Nance) | N/A |
-| 22 | [Trevor Peek](http://twitter.com/search?q=Trevor+Peek) | N/A |
-| 23 | [zendaya](http://twitter.com/search?q=zendaya) | Zendaya is a female given name of African-American origin, derived from the Shona language of Zimbabwe. It means "to give thanks" or "to be thankful". |
-| 24 | [Jalen Hood](http://twitter.com/search?q=Jalen+Hood) | N/A |
-| 25 | [MLS 360](http://twitter.com/search?q=MLS+360) | N/A |
-| 26 | [Tatiana Suarez](http://twitter.com/search?q=Tatiana+Suarez) | N/A |
-| 27 | [Apple TV](http://twitter.com/search?q=Apple+TV) | N/A |
-| 28 | [Queen Latifah](http://twitter.com/search?q=Queen+Latifah) | Queen Latifah is the stage name of American rapper, singer, songwriter, actress, and producer Dana Elaine Owens. The name Queen Latifah is derived from the Arabic word "Latifah," which means "delicate" or "sensitive." |
-| 29 | [Uncle Clifford](http://twitter.com/search?q=Uncle+Clifford) | N/A |
-| 30 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
-| 31 | [Edey](http://twitter.com/search?q=Edey) | Edey is a slang term used in some parts of the United States to refer to someone who is cool, stylish, or attractive. It can also be used as a term of endearment. |
-| 32 | [Mayes](http://twitter.com/search?q=Mayes) | N/A |
-| 33 | [Sakai](http://twitter.com/search?q=Sakai) | N/A |
-| 34 | [Pristavia](http://twitter.com/search?q=Pristavia) | N/A |
-| 35 | [Pat Adams](http://twitter.com/search?q=Pat+Adams) | N/A |
-| 36 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
-| 37 | [Fran](http://twitter.com/search?q=Fran) | N/A |
-| 38 | [Virginia](http://twitter.com/search?q=Virginia) | N/A |
-| 39 | [Mike Malott](http://twitter.com/search?q=Mike+Malott) | N/A |
-| 40 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
-| 41 | [Boeheim](http://twitter.com/search?q=Boeheim) | N/A |
-| 42 | [Scott Adams](http://twitter.com/search?q=Scott+Adams) | N/A |
-| 43 | [Deep Purple](http://twitter.com/search?q=Deep+Purple) | N/A |
-| 44 | [Krylov](http://twitter.com/search?q=Krylov) | N/A |
-| 45 | [Brayden Point](http://twitter.com/search?q=Brayden+Point) | N/A |
+| 21 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
+| 22 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
+| 23 | [Mark Williams](http://twitter.com/search?q=Mark+Williams) | N/A |
+| 24 | [Edey](http://twitter.com/search?q=Edey) | Edey is a slang term used in some parts of the United States to refer to someone who is cool, stylish, or attractive. It can also be used as a term of endearment. |
+| 25 | [Brendan Allen](http://twitter.com/search?q=Brendan+Allen) | N/A |
+| 26 | [PJ Tucker](http://twitter.com/search?q=PJ+Tucker) | PJ Tucker is an American professional basketball player who currently plays for the Houston Rockets of the National Basketball Association (NBA). His nickname is "The Round Mound of Rebound" due to his ability to grab rebounds despite his relatively small size. |
+| 27 | [Muniz](http://twitter.com/search?q=Muniz) | N/A |
+| 28 | [Jalen Hood](http://twitter.com/search?q=Jalen+Hood) | N/A |
+| 29 | [Almada](http://twitter.com/search?q=Almada) | N/A |
+| 30 | [Tim Parker](http://twitter.com/search?q=Tim+Parker) | N/A |
+| 31 | [MLS 360](http://twitter.com/search?q=MLS+360) | N/A |
+| 32 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
+| 33 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
+| 34 | [Trey Galloway](http://twitter.com/search?q=Trey+Galloway) | N/A |
+| 35 | [D'Eriq King](http://twitter.com/search?q=D%27Eriq+King) | N/A |
+| 36 | [Pete Nance](http://twitter.com/search?q=Pete+Nance) | N/A |
+| 37 | [Apple TV](http://twitter.com/search?q=Apple+TV) | N/A |
+| 38 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
+| 39 | [Queen Latifah](http://twitter.com/search?q=Queen+Latifah) | Queen Latifah is the stage name of American rapper, singer, songwriter, actress, and producer Dana Elaine Owens. The name Queen Latifah is derived from the Arabic word "Latifah," which means "delicate" or "sensitive." |
+| 40 | [Driussi](http://twitter.com/search?q=Driussi) | N/A |
+| 41 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
+| 42 | [Ben Crump](http://twitter.com/search?q=Ben+Crump) | N/A |
+| 43 | [Uncle Clifford](http://twitter.com/search?q=Uncle+Clifford) | N/A |
+| 44 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
+| 45 | [Horford](http://twitter.com/search?q=Horford) | Horford is a surname of Spanish origin. It is derived from the Latin word "horreum" which means granary or storehouse. The name is most commonly associated with Al Horford, an American professional basketball player who currently plays for the Philadelphia 76ers. |
 | 46 | [DC United](http://twitter.com/search?q=DC+United) | N/A |
-| 47 | [Atlanta United](http://twitter.com/search?q=Atlanta+United) | N/A |
-| 48 | [Zeus](http://twitter.com/search?q=Zeus) | Zeus is the name of the supreme god in Greek mythology. He was the god of the sky, lightning, thunder, law, order, and justice. He was also known as the king of gods and ruler of Mount Olympus. In English, Zeus is often used to refer to a person who is powerful or influential. |
-| 49 | [Hany Mukhtar](http://twitter.com/search?q=Hany+Mukhtar) | N/A |
-| 50 | [Vipers](http://twitter.com/search?q=Vipers) | N/A |
+| 47 | [Tatiana Suarez](http://twitter.com/search?q=Tatiana+Suarez) | N/A |
+| 48 | [Trevor Peek](http://twitter.com/search?q=Trevor+Peek) | N/A |
+| 49 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
+| 50 | [Olive Garden](http://twitter.com/search?q=Olive+Garden) | N/A |
 
 
 

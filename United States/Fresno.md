@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Fresno
 
-📆 Last Updated: `2023-02-26 01:44:47 UTC`
+📆 Last Updated: `2023-02-26 02:44:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#12ForeverTeal](http://twitter.com/search?q=%2312ForeverTeal) | N/A |
-| 2 | [San Bernardino](http://twitter.com/search?q=San+Bernardino) | N/A |
-| 3 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 4 | [Fontana](http://twitter.com/search?q=Fontana) | N/A |
-| 5 | [#LASnow](http://twitter.com/search?q=%23LASnow) | N/A |
-| 6 | [#SFGiants](http://twitter.com/search?q=%23SFGiants) | N/A |
-| 7 | [#Bellator291](http://twitter.com/search?q=%23Bellator291) | N/A |
-| 8 | [Spring Training](http://twitter.com/search?q=Spring+Training) | N/A |
-| 9 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 10 | [Skyline](http://twitter.com/search?q=Skyline) | N/A |
-| 11 | [#SJSharks](http://twitter.com/search?q=%23SJSharks) | N/A |
-| 12 | [Rancho Cucamonga](http://twitter.com/search?q=Rancho+Cucamonga) | N/A |
-| 13 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
-| 14 | [Southern California](http://twitter.com/search?q=Southern+California) | N/A |
-| 15 | [SoCal](http://twitter.com/search?q=SoCal) | N/A |
-| 16 | [Santa Clarita](http://twitter.com/search?q=Santa+Clarita) | N/A |
-| 17 | [CEQA](http://twitter.com/search?q=CEQA) | N/A |
-| 18 | [Day of Hate](http://twitter.com/search?q=Day+of+Hate) | N/A |
-| 19 | [Freddie](http://twitter.com/search?q=Freddie) | N/A |
-| 20 | [Big Bear](http://twitter.com/search?q=Big+Bear) | N/A |
-| 21 | [Rialto](http://twitter.com/search?q=Rialto) | N/A |
-| 22 | [Pac-12](http://twitter.com/search?q=Pac-12) | N/A |
-| 23 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
-| 24 | [Paul Ryan](http://twitter.com/search?q=Paul+Ryan) | Paul Ryan is the name of an American politician who served as the 54th Speaker of the United States House of Representatives from October 2015 to January 2019. He is a member of the Republican Party and was previously the Vice Presidential nominee for the 2012 election. The meaning of his name in English is "little king". |
-| 25 | [Pete Nance](http://twitter.com/search?q=Pete+Nance) | N/A |
-| 26 | [Trevor Peek](http://twitter.com/search?q=Trevor+Peek) | N/A |
-| 27 | [zendaya](http://twitter.com/search?q=zendaya) | Zendaya is a female given name of African-American origin, derived from the Shona language of Zimbabwe. It means "to give thanks" or "to be thankful". |
-| 28 | [Jalen Hood](http://twitter.com/search?q=Jalen+Hood) | N/A |
-| 29 | [MLS 360](http://twitter.com/search?q=MLS+360) | N/A |
-| 30 | [Tatiana Suarez](http://twitter.com/search?q=Tatiana+Suarez) | N/A |
-| 31 | [Apple TV](http://twitter.com/search?q=Apple+TV) | N/A |
-| 32 | [Queen Latifah](http://twitter.com/search?q=Queen+Latifah) | Queen Latifah is the stage name of American rapper, singer, songwriter, actress, and producer Dana Elaine Owens. The name Queen Latifah is derived from the Arabic word "Latifah," which means "delicate" or "sensitive." |
-| 33 | [Uncle Clifford](http://twitter.com/search?q=Uncle+Clifford) | N/A |
-| 34 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
-| 35 | [Mayes](http://twitter.com/search?q=Mayes) | N/A |
-| 36 | [Edey](http://twitter.com/search?q=Edey) | Edey is a slang term used in some parts of the United States to refer to someone who is cool, stylish, or attractive. It can also be used as a term of endearment. |
-| 37 | [Sakai](http://twitter.com/search?q=Sakai) | N/A |
-| 38 | [Pristavia](http://twitter.com/search?q=Pristavia) | N/A |
-| 39 | [Pat Adams](http://twitter.com/search?q=Pat+Adams) | N/A |
-| 40 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
-| 41 | [Virginia](http://twitter.com/search?q=Virginia) | N/A |
-| 42 | [Fran](http://twitter.com/search?q=Fran) | N/A |
-| 43 | [Mike Malott](http://twitter.com/search?q=Mike+Malott) | N/A |
-| 44 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
-| 45 | [Boeheim](http://twitter.com/search?q=Boeheim) | N/A |
-| 46 | [Deep Purple](http://twitter.com/search?q=Deep+Purple) | N/A |
-| 47 | [Krylov](http://twitter.com/search?q=Krylov) | N/A |
-| 48 | [Brayden Point](http://twitter.com/search?q=Brayden+Point) | N/A |
-| 49 | [DC United](http://twitter.com/search?q=DC+United) | N/A |
+| 1 | [#Quakes74](http://twitter.com/search?q=%23Quakes74) | N/A |
+| 2 | [Patty](http://twitter.com/search?q=Patty) | Patty is a slang term for a hamburger patty, which is a flat, round piece of ground meat that is cooked and served between two slices of bread. |
+| 3 | [#12ForeverTeal](http://twitter.com/search?q=%2312ForeverTeal) | N/A |
+| 4 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
+| 5 | [#SJSharks](http://twitter.com/search?q=%23SJSharks) | N/A |
+| 6 | [Fontana](http://twitter.com/search?q=Fontana) | N/A |
+| 7 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
+| 8 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 9 | [San Bernardino](http://twitter.com/search?q=San+Bernardino) | N/A |
+| 10 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 11 | [Zeus](http://twitter.com/search?q=Zeus) | Zeus is the name of the supreme god in Greek mythology. He was the god of the sky, lightning, thunder, law, order, and justice. He was also known as the king of gods and ruler of Mount Olympus. In English, Zeus is often used to refer to a person who is powerful or influential. |
+| 12 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
+| 13 | [Arizona](http://twitter.com/search?q=Arizona) | N/A |
+| 14 | [Baseball](http://twitter.com/search?q=Baseball) | N/A |
+| 15 | [Spring Training](http://twitter.com/search?q=Spring+Training) | N/A |
+| 16 | [#SFGiants](http://twitter.com/search?q=%23SFGiants) | N/A |
+| 17 | [Skyline](http://twitter.com/search?q=Skyline) | N/A |
+| 18 | [SoCal](http://twitter.com/search?q=SoCal) | N/A |
+| 19 | [CEQA](http://twitter.com/search?q=CEQA) | N/A |
+| 20 | [Santa Clarita](http://twitter.com/search?q=Santa+Clarita) | N/A |
+| 21 | [Day of Hate](http://twitter.com/search?q=Day+of+Hate) | N/A |
+| 22 | [Freddie](http://twitter.com/search?q=Freddie) | N/A |
+| 23 | [Big Bear](http://twitter.com/search?q=Big+Bear) | N/A |
+| 24 | [Rialto](http://twitter.com/search?q=Rialto) | N/A |
+| 25 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
+| 26 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
+| 27 | [Paul Ryan](http://twitter.com/search?q=Paul+Ryan) | Paul Ryan is the name of an American politician who served as the 54th Speaker of the United States House of Representatives from October 2015 to January 2019. He is a member of the Republican Party and was previously the Vice Presidential nominee for the 2012 election. The meaning of his name in English is "little king". |
+| 28 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
+| 29 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
+| 30 | [Almada](http://twitter.com/search?q=Almada) | N/A |
+| 31 | [Mark Williams](http://twitter.com/search?q=Mark+Williams) | N/A |
+| 32 | [Edey](http://twitter.com/search?q=Edey) | Edey is a slang term used in some parts of the United States to refer to someone who is cool, stylish, or attractive. It can also be used as a term of endearment. |
+| 33 | [Brendan Allen](http://twitter.com/search?q=Brendan+Allen) | N/A |
+| 34 | [PJ Tucker](http://twitter.com/search?q=PJ+Tucker) | PJ Tucker is an American professional basketball player who currently plays for the Houston Rockets of the National Basketball Association (NBA). His nickname is "The Round Mound of Rebound" due to his ability to grab rebounds despite his relatively small size. |
+| 35 | [Jalen Hood](http://twitter.com/search?q=Jalen+Hood) | N/A |
+| 36 | [Muniz](http://twitter.com/search?q=Muniz) | N/A |
+| 37 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
+| 38 | [MLS 360](http://twitter.com/search?q=MLS+360) | N/A |
+| 39 | [Tim Parker](http://twitter.com/search?q=Tim+Parker) | N/A |
+| 40 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
+| 41 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
+| 42 | [Trey Galloway](http://twitter.com/search?q=Trey+Galloway) | N/A |
+| 43 | [D'Eriq King](http://twitter.com/search?q=D%27Eriq+King) | N/A |
+| 44 | [Pete Nance](http://twitter.com/search?q=Pete+Nance) | N/A |
+| 45 | [Apple TV](http://twitter.com/search?q=Apple+TV) | N/A |
+| 46 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
+| 47 | [Queen Latifah](http://twitter.com/search?q=Queen+Latifah) | Queen Latifah is the stage name of American rapper, singer, songwriter, actress, and producer Dana Elaine Owens. The name Queen Latifah is derived from the Arabic word "Latifah," which means "delicate" or "sensitive." |
+| 48 | [Driussi](http://twitter.com/search?q=Driussi) | N/A |
+| 49 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
 
 
 

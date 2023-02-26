@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico City
 
-📆 Last Updated: `2023-02-26 01:44:10 UTC`
+📆 Last Updated: `2023-02-26 02:43:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,54 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#CruzAzul](http://twitter.com/search?q=%23CruzAzul) | N/A |
-| 2 | [#LaMarchaDeLosNarcos](http://twitter.com/search?q=%23LaMarchaDeLosNarcos) | N/A |
-| 3 | [#FueraTuca](http://twitter.com/search?q=%23FueraTuca) | N/A |
-| 4 | [Baca](http://twitter.com/search?q=Baca) | N/A |
-| 5 | [#MarcoReyPicks](http://twitter.com/search?q=%23MarcoReyPicks) | N/A |
-| 6 | [Lotti](http://twitter.com/search?q=Lotti) | N/A |
-| 7 | [Aluxe](http://twitter.com/search?q=Aluxe) | N/A |
-| 8 | [Uriel Antuna](http://twitter.com/search?q=Uriel+Antuna) | N/A |
-| 9 | [#MostRequestedLive](http://twitter.com/search?q=%23MostRequestedLive) | N/A |
-| 10 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 11 | [Carneiro](http://twitter.com/search?q=Carneiro) | N/A |
-| 12 | [Rotondi](http://twitter.com/search?q=Rotondi) | N/A |
-| 13 | [Cobarde](http://twitter.com/search?q=Cobarde) | N/A |
-| 14 | [Juárez](http://twitter.com/search?q=Ju%c3%a1rez) | N/A |
-| 15 | [Bravos](http://twitter.com/search?q=Bravos) | N/A |
-| 16 | [Ferretti](http://twitter.com/search?q=Ferretti) | N/A |
-| 17 | [Rivero](http://twitter.com/search?q=Rivero) | N/A |
-| 18 | [Matt Pobereyko](http://twitter.com/search?q=Matt+Pobereyko) | N/A |
-| 19 | [Volcán](http://twitter.com/search?q=Volc%c3%a1n) | N/A |
-| 20 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 21 | [76ers](http://twitter.com/search?q=76ers) | 76ers is the nickname of the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The team was originally founded in 1946 as the Syracuse Nationals and changed its name to the 76ers in 1963. The name "76ers" is a reference to the year 1776, when the Declaration of Independence was signed in Philadelphia. |
-| 22 | [Perú](http://twitter.com/search?q=Per%c3%ba) | Perú is the official name of a country in South America. It is bordered by Ecuador and Colombia to the north, Brazil and Bolivia to the east, Chile to the south, and the Pacific Ocean to the west. The name Perú comes from a word in the native Quechua language meaning "land of abundance." |
-| 23 | [La Máquina](http://twitter.com/search?q=La+M%c3%a1quina) | N/A |
-| 24 | [Jerry](http://twitter.com/search?q=Jerry) | N/A |
-| 25 | [Sonora](http://twitter.com/search?q=Sonora) | N/A |
-| 26 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
-| 27 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
-| 28 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 29 | [Atleti](http://twitter.com/search?q=Atleti) | Atleti is a nickname for the Spanish football club Atlético Madrid. The name is derived from the Spanish word for athlete, atleta. In English, Atleti can be translated to mean "Athletes". |
-| 30 | [RMILAN FASHION WEEK](http://twitter.com/search?q=RMILAN+FASHION+WEEK) | N/A |
-| 31 | [Marshmello](http://twitter.com/search?q=Marshmello) | N/A |
-| 32 | [Álvaro](http://twitter.com/search?q=%c3%81lvaro) | N/A |
-| 33 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
-| 34 | [#LeaguePartner](http://twitter.com/search?q=%23LeaguePartner) | N/A |
-| 35 | [#PokemonGOTour](http://twitter.com/search?q=%23PokemonGOTour) | N/A |
-| 36 | [#SabadoFutbolero](http://twitter.com/search?q=%23SabadoFutbolero) | N/A |
-| 37 | [#DiaNaranja](http://twitter.com/search?q=%23DiaNaranja) | N/A |
-| 38 | [#MarchaDeNarcosyCorruptos](http://twitter.com/search?q=%23MarchaDeNarcosyCorruptos) | N/A |
-| 39 | [#MarchaINE](http://twitter.com/search?q=%23MarchaINE) | N/A |
-| 40 | [#RMxBOTTEGAVENETA](http://twitter.com/search?q=%23RMxBOTTEGAVENETA) | N/A |
-| 41 | [#BienestarEnTuColonia](http://twitter.com/search?q=%23BienestarEnTuColonia) | N/A |
-| 42 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
-| 43 | [#VCTHispano](http://twitter.com/search?q=%23VCTHispano) | N/A |
-| 44 | [#ElINESomosTodos](http://twitter.com/search?q=%23ElINESomosTodos) | N/A |
-| 45 | [#NarcoMarcha26DeFebrero](http://twitter.com/search?q=%23NarcoMarcha26DeFebrero) | N/A |
-| 46 | [#NarcoPartidoPAN](http://twitter.com/search?q=%23NarcoPartidoPAN) | N/A |
-| 47 | [#LaLiga](http://twitter.com/search?q=%23LaLiga) | N/A |
+| 1 | [Gignac](http://twitter.com/search?q=Gignac) | Gignac is a French surname. It is derived from the Old French word "gaigner", which means "to cultivate". In English, it can be translated to mean "farmer". |
+| 2 | [Ricardo Ferretti](http://twitter.com/search?q=Ricardo+Ferretti) | N/A |
+| 3 | [Sonora](http://twitter.com/search?q=Sonora) | N/A |
+| 4 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
+| 5 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
+| 6 | [Aquino](http://twitter.com/search?q=Aquino) | N/A |
+| 7 | [Chima](http://twitter.com/search?q=Chima) | N/A |
+| 8 | [Diego Reyes](http://twitter.com/search?q=Diego+Reyes) | N/A |
+| 9 | [Quiñones](http://twitter.com/search?q=Qui%c3%b1ones) | Quiñones is a Spanish surname derived from the Latin word "quinonem," which means "fifth." It is a common surname in Spain, Latin America, and the Philippines. In English, it can be translated to mean "the fifth one." |
+| 10 | [Pizarro](http://twitter.com/search?q=Pizarro) | N/A |
+| 11 | [Ronaldo Cisneros](http://twitter.com/search?q=Ronaldo+Cisneros) | N/A |
+| 12 | [Nahuel](http://twitter.com/search?q=Nahuel) | N/A |
+| 13 | [Henry Martin](http://twitter.com/search?q=Henry+Martin) | N/A |
+| 14 | [Angulo](http://twitter.com/search?q=Angulo) | N/A |
+| 15 | [#ECDQEMSD](http://twitter.com/search?q=%23ECDQEMSD) | N/A |
+| 16 | [Gorriaran](http://twitter.com/search?q=Gorriaran) | N/A |
+| 17 | [Carioca](http://twitter.com/search?q=Carioca) | N/A |
+| 18 | [#FueraTuca](http://twitter.com/search?q=%23FueraTuca) | N/A |
+| 19 | [Aluxe](http://twitter.com/search?q=Aluxe) | N/A |
+| 20 | [#MegaFutbol](http://twitter.com/search?q=%23MegaFutbol) | N/A |
+| 21 | [Lainez](http://twitter.com/search?q=Lainez) | Lainez is a Spanish surname. It is derived from the Latin name "Laneus", which means "from the lane". In English, it can be translated to mean "from the lane". |
+| 22 | [Baca](http://twitter.com/search?q=Baca) | N/A |
+| 23 | [Paunovic](http://twitter.com/search?q=Paunovic) | N/A |
+| 24 | [Oswaldo Sánchez](http://twitter.com/search?q=Oswaldo+S%c3%a1nchez) | N/A |
+| 25 | [#MostRequestedLive](http://twitter.com/search?q=%23MostRequestedLive) | N/A |
+| 26 | [Tiba](http://twitter.com/search?q=Tiba) | N/A |
+| 27 | [Uriel Antuna](http://twitter.com/search?q=Uriel+Antuna) | N/A |
+| 28 | [TIEMPOS DOS AÑOS](http://twitter.com/search?q=TIEMPOS+DOS+A%c3%91OS) | N/A |
+| 29 | [#MarcoReyPicks](http://twitter.com/search?q=%23MarcoReyPicks) | N/A |
+| 30 | [Dedales](http://twitter.com/search?q=Dedales) | N/A |
+| 31 | [Volcán](http://twitter.com/search?q=Volc%c3%a1n) | N/A |
+| 32 | [Lotti](http://twitter.com/search?q=Lotti) | N/A |
+| 33 | [Rivero](http://twitter.com/search?q=Rivero) | N/A |
+| 34 | [Guido](http://twitter.com/search?q=Guido) | Guido is a slang term used to refer to a certain type of Italian-American man. It is often used in a derogatory way to describe someone who is seen as overly macho, chauvinistic, and/or aggressive. |
+| 35 | [Cobarde](http://twitter.com/search?q=Cobarde) | N/A |
+| 36 | [Cordova](http://twitter.com/search?q=Cordova) | N/A |
+| 37 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
+| 38 | [Rebaño](http://twitter.com/search?q=Reba%c3%b1o) | N/A |
+| 39 | [Rotondi](http://twitter.com/search?q=Rotondi) | N/A |
+| 40 | [Carneiro](http://twitter.com/search?q=Carneiro) | N/A |
+| 41 | [Bravos](http://twitter.com/search?q=Bravos) | N/A |
+| 42 | [Juárez](http://twitter.com/search?q=Ju%c3%a1rez) | N/A |
+| 43 | [Máquina](http://twitter.com/search?q=M%c3%a1quina) | N/A |
+| 44 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 45 | [76ers](http://twitter.com/search?q=76ers) | 76ers is the nickname of the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The team was originally founded in 1946 as the Syracuse Nationals and changed its name to the 76ers in 1963. The name "76ers" is a reference to the year 1776, when the Declaration of Independence was signed in Philadelphia. |
+| 46 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
+| 47 | [Jerry](http://twitter.com/search?q=Jerry) | N/A |
+| 48 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
 
 
 
