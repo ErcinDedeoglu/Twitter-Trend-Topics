@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Winnipeg
 
-📆 Last Updated: `2023-02-26 08:16:18 UTC`
+📆 Last Updated: `2023-02-26 09:15:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,49 +22,49 @@ This is top 50 for [Canada](</Canada>)
 | 5 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
 | 6 | [#TFCLive](http://twitter.com/search?q=%23TFCLive) | N/A |
 | 7 | [Trudeau](http://twitter.com/search?q=Trudeau) | N/A |
-| 8 | [Gordon Pinsent](http://twitter.com/search?q=Gordon+Pinsent) | N/A |
-| 9 | [Pierre](http://twitter.com/search?q=Pierre) | N/A |
-| 10 | [#VWFC](http://twitter.com/search?q=%23VWFC) | N/A |
-| 11 | [2seok](http://twitter.com/search?q=2seok) | N/A |
-| 12 | [#CFMTL](http://twitter.com/search?q=%23CFMTL) | N/A |
-| 13 | [#UFCVegas70](http://twitter.com/search?q=%23UFCVegas70) | N/A |
+| 8 | [Pierre](http://twitter.com/search?q=Pierre) | N/A |
+| 9 | [#VWFC](http://twitter.com/search?q=%23VWFC) | N/A |
+| 10 | [Gordon Pinsent](http://twitter.com/search?q=Gordon+Pinsent) | N/A |
+| 11 | [#CFMTL](http://twitter.com/search?q=%23CFMTL) | N/A |
+| 12 | [#UFCVegas70](http://twitter.com/search?q=%23UFCVegas70) | N/A |
+| 13 | [2seok](http://twitter.com/search?q=2seok) | N/A |
 | 14 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 15 | [jhope](http://twitter.com/search?q=jhope) | N/A |
+| 15 | [Woody Harrelson](http://twitter.com/search?q=Woody+Harrelson) | N/A |
 | 16 | [CSIS](http://twitter.com/search?q=CSIS) | N/A |
 | 17 | [Linus Ullmark](http://twitter.com/search?q=Linus+Ullmark) | N/A |
-| 18 | [Lucic](http://twitter.com/search?q=Lucic) | N/A |
-| 19 | [Woody Harrelson](http://twitter.com/search?q=Woody+Harrelson) | N/A |
-| 20 | [Leslyn](http://twitter.com/search?q=Leslyn) | N/A |
-| 21 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
-| 22 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 23 | [Kravtsov](http://twitter.com/search?q=Kravtsov) | N/A |
-| 24 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
-| 25 | [Markstrom](http://twitter.com/search?q=Markstrom) | N/A |
-| 26 | [Kikuchi](http://twitter.com/search?q=Kikuchi) | N/A |
-| 27 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 28 | [INEC](http://twitter.com/search?q=INEC) | N/A |
-| 29 | [German](http://twitter.com/search?q=German) | N/A |
-| 30 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
-| 31 | [Campbell](http://twitter.com/search?q=Campbell) | N/A |
-| 32 | [Nino](http://twitter.com/search?q=Nino) | N/A |
-| 33 | [Poilievre](http://twitter.com/search?q=Poilievre) | N/A |
-| 34 | [Jack White](http://twitter.com/search?q=Jack+White) | N/A |
-| 35 | [Insigne](http://twitter.com/search?q=Insigne) | N/A |
-| 36 | [Bernier](http://twitter.com/search?q=Bernier) | N/A |
-| 37 | [Lockwood](http://twitter.com/search?q=Lockwood) | N/A |
-| 38 | [Whitecaps](http://twitter.com/search?q=Whitecaps) | N/A |
-| 39 | [Away From Her](http://twitter.com/search?q=Away+From+Her) | N/A |
-| 40 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 41 | [BIGHIT](http://twitter.com/search?q=BIGHIT) | N/A |
-| 42 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
-| 43 | [Canucks](http://twitter.com/search?q=Canucks) | Canucks is a slang term for Canadians. It is derived from the word "Canadian" and is often used in a jocular or affectionate manner. |
-| 44 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
-| 45 | [The Rowdyman](http://twitter.com/search?q=The+Rowdyman) | N/A |
-| 46 | [GOALIE GOAL](http://twitter.com/search?q=GOALIE+GOAL) | N/A |
-| 47 | [Due South](http://twitter.com/search?q=Due+South) | N/A |
-| 48 | [Draisaitl](http://twitter.com/search?q=Draisaitl) | N/A |
-| 49 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 50 | [Laith Marouf](http://twitter.com/search?q=Laith+Marouf) | N/A |
+| 18 | [Leslyn](http://twitter.com/search?q=Leslyn) | N/A |
+| 19 | [Kikuchi](http://twitter.com/search?q=Kikuchi) | N/A |
+| 20 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
+| 21 | [Kravtsov](http://twitter.com/search?q=Kravtsov) | N/A |
+| 22 | [INEC](http://twitter.com/search?q=INEC) | N/A |
+| 23 | [German](http://twitter.com/search?q=German) | N/A |
+| 24 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
+| 25 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 26 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 27 | [jhope](http://twitter.com/search?q=jhope) | N/A |
+| 28 | [Campbell](http://twitter.com/search?q=Campbell) | N/A |
+| 29 | [Nino](http://twitter.com/search?q=Nino) | N/A |
+| 30 | [Markstrom](http://twitter.com/search?q=Markstrom) | N/A |
+| 31 | [Poilievre](http://twitter.com/search?q=Poilievre) | N/A |
+| 32 | [Insigne](http://twitter.com/search?q=Insigne) | N/A |
+| 33 | [Bernier](http://twitter.com/search?q=Bernier) | N/A |
+| 34 | [Lockwood](http://twitter.com/search?q=Lockwood) | N/A |
+| 35 | [Away From Her](http://twitter.com/search?q=Away+From+Her) | N/A |
+| 36 | [Lucic](http://twitter.com/search?q=Lucic) | N/A |
+| 37 | [Whitecaps](http://twitter.com/search?q=Whitecaps) | N/A |
+| 38 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
+| 39 | [Canucks](http://twitter.com/search?q=Canucks) | Canucks is a slang term for Canadians. It is derived from the word "Canadian" and is often used in a jocular or affectionate manner. |
+| 40 | [GOALIE GOAL](http://twitter.com/search?q=GOALIE+GOAL) | N/A |
+| 41 | [Due South](http://twitter.com/search?q=Due+South) | N/A |
+| 42 | [Draisaitl](http://twitter.com/search?q=Draisaitl) | N/A |
+| 43 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 44 | [Laith Marouf](http://twitter.com/search?q=Laith+Marouf) | N/A |
+| 45 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 46 | [Cocaine Bear](http://twitter.com/search?q=Cocaine+Bear) | Cocaine Bear is an internet meme that originated from a real-life incident in 1985. It refers to a black bear that was found dead in the Great Smoky Mountains National Park in Tennessee, USA. The bear had ingested over 70 pounds of cocaine that had been dropped from an airplane by drug smugglers. The phrase "Cocaine Bear" is used to refer to any situation where someone or something has taken on more than they can handle. |
+| 47 | [Scott Adams](http://twitter.com/search?q=Scott+Adams) | N/A |
+| 48 | [Brian Lilley](http://twitter.com/search?q=Brian+Lilley) | N/A |
+| 49 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
+| 50 | [Pistons](http://twitter.com/search?q=Pistons) | Pistons are components of an engine that move up and down to create the power needed to drive a vehicle. They are usually made of metal and fit into the cylinder of an engine, where they move up and down in order to compress and expand the air-fuel mixture that powers the engine. |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-02-26 08:17:12 UTC`
+📆 Last Updated: `2023-02-26 09:16:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Switzerland
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#b2502](http://twitter.com/search?q=%23b2502) | N/A |
-| 2 | [#fczyb](http://twitter.com/search?q=%23fczyb) | N/A |
-| 3 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 4 | [köppel](http://twitter.com/search?q=k%c3%b6ppel) | N/A |
+| 1 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 2 | [#b2502](http://twitter.com/search?q=%23b2502) | N/A |
+| 3 | [#fczyb](http://twitter.com/search?q=%23fczyb) | N/A |
+| 4 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
 | 5 | [Lomepal](http://twitter.com/search?q=Lomepal) | N/A |
 | 6 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
-| 7 | [Troll](http://twitter.com/search?q=Troll) | N/A |
-| 8 | [#RMxBOTTEGAVENETA](http://twitter.com/search?q=%23RMxBOTTEGAVENETA) | N/A |
-| 9 | [#Spotify](http://twitter.com/search?q=%23Spotify) | N/A |
+| 7 | [#Spotify](http://twitter.com/search?q=%23Spotify) | N/A |
+| 8 | [Troll](http://twitter.com/search?q=Troll) | N/A |
+| 9 | [#RMxBOTTEGAVENETA](http://twitter.com/search?q=%23RMxBOTTEGAVENETA) | N/A |
 | 10 | [#siofcsg](http://twitter.com/search?q=%23siofcsg) | N/A |
-| 11 | [Verhandlungen](http://twitter.com/search?q=Verhandlungen) | N/A |
-| 12 | [Habeck](http://twitter.com/search?q=Habeck) | N/A |
-| 13 | [Neutralität](http://twitter.com/search?q=Neutralit%c3%a4t) | N/A |
-| 14 | [Seite der Geschichte](http://twitter.com/search?q=Seite+der+Geschichte) | N/A |
-| 15 | [Garcia](http://twitter.com/search?q=Garcia) | Garcia is a Spanish surname. It is derived from the Basque word "gar" meaning "bear". The name is often associated with strength and courage. In English, Garcia means "brave and strong". |
-| 16 | [Montana](http://twitter.com/search?q=Montana) | Montana is a state in the northwestern United States. It is known for its rugged terrain and wide open spaces. The name Montana comes from the Spanish word montaña, which means "mountain". |
-| 17 | [Stuss](http://twitter.com/search?q=Stuss) | N/A |
-| 18 | [Kündigung](http://twitter.com/search?q=K%c3%bcndigung) | N/A |
-| 19 | [Kindergarten](http://twitter.com/search?q=Kindergarten) | N/A |
-| 20 | [Ukrainians](http://twitter.com/search?q=Ukrainians) | N/A |
-| 21 | [Miete](http://twitter.com/search?q=Miete) | N/A |
-| 22 | [Monaten](http://twitter.com/search?q=Monaten) | N/A |
-| 23 | [Army](http://twitter.com/search?q=Army) | N/A |
-| 24 | [Vietnam](http://twitter.com/search?q=Vietnam) | N/A |
-| 25 | [Trudeau](http://twitter.com/search?q=Trudeau) | N/A |
-| 26 | [Gleiche](http://twitter.com/search?q=Gleiche) | N/A |
-| 27 | [Gemeinde](http://twitter.com/search?q=Gemeinde) | N/A |
-| 28 | [Handeln](http://twitter.com/search?q=Handeln) | N/A |
-| 29 | [Schuss](http://twitter.com/search?q=Schuss) | N/A |
-| 30 | [svpler](http://twitter.com/search?q=svpler) | N/A |
-| 31 | [Solidarität](http://twitter.com/search?q=Solidarit%c3%a4t) | N/A |
-| 32 | [Bewohner](http://twitter.com/search?q=Bewohner) | N/A |
-| 33 | [Strategie](http://twitter.com/search?q=Strategie) | N/A |
-| 34 | [Journalismus](http://twitter.com/search?q=Journalismus) | N/A |
-| 35 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 36 | [Maurizio Costanzo](http://twitter.com/search?q=Maurizio+Costanzo) | N/A |
-| 37 | [Solange](http://twitter.com/search?q=Solange) | N/A |
-| 38 | [Framing](http://twitter.com/search?q=Framing) | N/A |
-| 39 | [Scholz](http://twitter.com/search?q=Scholz) | N/A |
-| 40 | [Konflikte](http://twitter.com/search?q=Konflikte) | N/A |
-| 41 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 42 | [Glaubwürdigkeit](http://twitter.com/search?q=Glaubw%c3%bcrdigkeit) | N/A |
-| 43 | [Africa](http://twitter.com/search?q=Africa) | N/A |
-| 44 | [Germany](http://twitter.com/search?q=Germany) | N/A |
-| 45 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 46 | [Wallis](http://twitter.com/search?q=Wallis) | N/A |
-| 47 | [Politikern](http://twitter.com/search?q=Politikern) | N/A |
-| 48 | [eigenbedarf](http://twitter.com/search?q=eigenbedarf) | N/A |
-| 49 | [Familien](http://twitter.com/search?q=Familien) | N/A |
-| 50 | [fribourg](http://twitter.com/search?q=fribourg) | N/A |
+| 11 | [Köppel](http://twitter.com/search?q=K%c3%b6ppel) | N/A |
+| 12 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
+| 13 | [Montana](http://twitter.com/search?q=Montana) | Montana is a state in the northwestern United States. It is known for its rugged terrain and wide open spaces. The name Montana comes from the Spanish word montaña, which means "mountain". |
+| 14 | [Kündigung](http://twitter.com/search?q=K%c3%bcndigung) | N/A |
+| 15 | [Strategie](http://twitter.com/search?q=Strategie) | N/A |
+| 16 | [Aussagen](http://twitter.com/search?q=Aussagen) | N/A |
+| 17 | [Ukrainians](http://twitter.com/search?q=Ukrainians) | N/A |
+| 18 | [Bundesrat](http://twitter.com/search?q=Bundesrat) | N/A |
+| 19 | [Miete](http://twitter.com/search?q=Miete) | N/A |
+| 20 | [Journalismus](http://twitter.com/search?q=Journalismus) | N/A |
+| 21 | [Solidarität](http://twitter.com/search?q=Solidarit%c3%a4t) | N/A |
+| 22 | [Seite der Geschichte](http://twitter.com/search?q=Seite+der+Geschichte) | N/A |
+| 23 | [Garcia](http://twitter.com/search?q=Garcia) | Garcia is a Spanish surname. It is derived from the Basque word "gar" meaning "bear". The name is often associated with strength and courage. In English, Garcia means "brave and strong". |
+| 24 | [Army](http://twitter.com/search?q=Army) | N/A |
+| 25 | [Vietnam](http://twitter.com/search?q=Vietnam) | N/A |
+| 26 | [Trudeau](http://twitter.com/search?q=Trudeau) | N/A |
+| 27 | [Gleiche](http://twitter.com/search?q=Gleiche) | N/A |
+| 28 | [Anlass](http://twitter.com/search?q=Anlass) | N/A |
+| 29 | [Stuss](http://twitter.com/search?q=Stuss) | N/A |
+| 30 | [Handeln](http://twitter.com/search?q=Handeln) | N/A |
+| 31 | [svpler](http://twitter.com/search?q=svpler) | N/A |
+| 32 | [Begriff](http://twitter.com/search?q=Begriff) | N/A |
+| 33 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 34 | [Bewohner](http://twitter.com/search?q=Bewohner) | N/A |
+| 35 | [Gemeinde](http://twitter.com/search?q=Gemeinde) | N/A |
+| 36 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 37 | [Kindergarten](http://twitter.com/search?q=Kindergarten) | N/A |
+| 38 | [Worten](http://twitter.com/search?q=Worten) | N/A |
+| 39 | [Maurizio Costanzo](http://twitter.com/search?q=Maurizio+Costanzo) | N/A |
+| 40 | [Gerechtigkeit](http://twitter.com/search?q=Gerechtigkeit) | N/A |
+| 41 | [Solange](http://twitter.com/search?q=Solange) | N/A |
+| 42 | [Framing](http://twitter.com/search?q=Framing) | N/A |
+| 43 | [Scholz](http://twitter.com/search?q=Scholz) | N/A |
+| 44 | [Konflikte](http://twitter.com/search?q=Konflikte) | N/A |
+| 45 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 46 | [Glaubwürdigkeit](http://twitter.com/search?q=Glaubw%c3%bcrdigkeit) | N/A |
+| 47 | [Monaten](http://twitter.com/search?q=Monaten) | N/A |
+| 48 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 49 | [Clown](http://twitter.com/search?q=Clown) | N/A |
+| 50 | [Kiew](http://twitter.com/search?q=Kiew) | N/A |
 
 
 

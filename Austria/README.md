@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-02-26 08:17:06 UTC`
+📆 Last Updated: `2023-02-26 09:16:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Austria
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Schönen Sonntag](http://twitter.com/search?q=Sch%c3%b6nen+Sonntag) | "Schönen Sonntag" is a German phrase that translates to "Have a nice Sunday" in English. It is a common greeting used to wish someone a pleasant day on Sunday. |
-| 2 | [#b2502](http://twitter.com/search?q=%23b2502) | N/A |
-| 3 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
-| 4 | [Ingrid](http://twitter.com/search?q=Ingrid) | N/A |
+| 2 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 3 | [#b2502](http://twitter.com/search?q=%23b2502) | N/A |
+| 4 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
 | 5 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
-| 6 | [Kern](http://twitter.com/search?q=Kern) | N/A |
+| 6 | [Andrea](http://twitter.com/search?q=Andrea) | Andrea is a feminine given name of Italian origin. It is derived from the Greek word andreios, meaning "manly" or "masculine". In English, Andrea is often translated as "daring" or "brave". |
 | 7 | [#w2402](http://twitter.com/search?q=%23w2402) | N/A |
 | 8 | [#askalu](http://twitter.com/search?q=%23askalu) | N/A |
-| 9 | [Andrea](http://twitter.com/search?q=Andrea) | Andrea is a feminine given name of Italian origin. It is derived from the Greek word andreios, meaning "manly" or "masculine". In English, Andrea is often translated as "daring" or "brave". |
-| 10 | [#oenr](http://twitter.com/search?q=%23oenr) | N/A |
-| 11 | [#ligazwa](http://twitter.com/search?q=%23ligazwa) | N/A |
-| 12 | [WARRIOR NUN CAMPERS](http://twitter.com/search?q=WARRIOR+NUN+CAMPERS) | N/A |
-| 13 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 14 | [haushaltsabgabe](http://twitter.com/search?q=haushaltsabgabe) | N/A |
-| 15 | [Schwarzer](http://twitter.com/search?q=Schwarzer) | N/A |
-| 16 | [Nika](http://twitter.com/search?q=Nika) | N/A |
-| 17 | [Mohammad](http://twitter.com/search?q=Mohammad) | N/A |
-| 18 | [Peter](http://twitter.com/search?q=Peter) | N/A |
-| 19 | [Kapitel](http://twitter.com/search?q=Kapitel) | N/A |
+| 9 | [#fakhtb](http://twitter.com/search?q=%23fakhtb) | N/A |
+| 10 | [haushaltsabgabe](http://twitter.com/search?q=haushaltsabgabe) | N/A |
+| 11 | [Kern](http://twitter.com/search?q=Kern) | N/A |
+| 12 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 13 | [#STUSKA](http://twitter.com/search?q=%23STUSKA) | N/A |
+| 14 | [WARRIOR NUN CAMPERS](http://twitter.com/search?q=WARRIOR+NUN+CAMPERS) | N/A |
+| 15 | [Peter](http://twitter.com/search?q=Peter) | N/A |
+| 16 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
+| 17 | [Kapitel](http://twitter.com/search?q=Kapitel) | N/A |
+| 18 | [Christine](http://twitter.com/search?q=Christine) | N/A |
+| 19 | [Ingrid](http://twitter.com/search?q=Ingrid) | N/A |
 | 20 | [Schiedsrichter](http://twitter.com/search?q=Schiedsrichter) | N/A |
-| 21 | [Händen](http://twitter.com/search?q=H%c3%a4nden) | N/A |
-| 22 | [Miete](http://twitter.com/search?q=Miete) | N/A |
-| 23 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
-| 24 | [Manfred](http://twitter.com/search?q=Manfred) | N/A |
-| 25 | [Elfer](http://twitter.com/search?q=Elfer) | N/A |
-| 26 | [Fehlentscheidung](http://twitter.com/search?q=Fehlentscheidung) | N/A |
-| 27 | [Lugner](http://twitter.com/search?q=Lugner) | N/A |
-| 28 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 29 | [Verhandlungen](http://twitter.com/search?q=Verhandlungen) | N/A |
-| 30 | [Bevölkerung](http://twitter.com/search?q=Bev%c3%b6lkerung) | N/A |
-| 31 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
-| 32 | [Verhandlungstisch](http://twitter.com/search?q=Verhandlungstisch) | N/A |
-| 33 | [Bomben](http://twitter.com/search?q=Bomben) | N/A |
-| 34 | [Haufen](http://twitter.com/search?q=Haufen) | N/A |
-| 35 | [fesch](http://twitter.com/search?q=fesch) | N/A |
-| 36 | [Brandstätter](http://twitter.com/search?q=Brandst%c3%a4tter) | N/A |
-| 37 | [Wien](http://twitter.com/search?q=Wien) | N/A |
-| 38 | [Aufmerksamkeit](http://twitter.com/search?q=Aufmerksamkeit) | N/A |
-| 39 | [Kickl](http://twitter.com/search?q=Kickl) | N/A |
-| 40 | [Erhöhung](http://twitter.com/search?q=Erh%c3%b6hung) | N/A |
-| 41 | [Linz](http://twitter.com/search?q=Linz) | N/A |
-| 42 | [Blumen](http://twitter.com/search?q=Blumen) | N/A |
-| 43 | [hofburg](http://twitter.com/search?q=hofburg) | N/A |
-| 44 | [Intelligenz](http://twitter.com/search?q=Intelligenz) | N/A |
-| 45 | [Spitze](http://twitter.com/search?q=Spitze) | N/A |
-| 46 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
-| 47 | [Supermarkt](http://twitter.com/search?q=Supermarkt) | N/A |
-| 48 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 49 | [Russisch](http://twitter.com/search?q=Russisch) | N/A |
-| 50 | [Clemens Arvay](http://twitter.com/search?q=Clemens+Arvay) | N/A |
+| 21 | [Manfred](http://twitter.com/search?q=Manfred) | N/A |
+| 22 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
+| 23 | [Elfer](http://twitter.com/search?q=Elfer) | N/A |
+| 24 | [Fehlentscheidung](http://twitter.com/search?q=Fehlentscheidung) | N/A |
+| 25 | [Lugner](http://twitter.com/search?q=Lugner) | N/A |
+| 26 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 27 | [Zustimmung](http://twitter.com/search?q=Zustimmung) | N/A |
+| 28 | [Verhandlungen](http://twitter.com/search?q=Verhandlungen) | N/A |
+| 29 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
+| 30 | [Bomben](http://twitter.com/search?q=Bomben) | N/A |
+| 31 | [Haufen](http://twitter.com/search?q=Haufen) | N/A |
+| 32 | [fesch](http://twitter.com/search?q=fesch) | N/A |
+| 33 | [Blumen](http://twitter.com/search?q=Blumen) | N/A |
+| 34 | [Schnupfen](http://twitter.com/search?q=Schnupfen) | N/A |
+| 35 | [Bine](http://twitter.com/search?q=Bine) | N/A |
+| 36 | [Aufmerksamkeit](http://twitter.com/search?q=Aufmerksamkeit) | N/A |
+| 37 | [Erhöhung](http://twitter.com/search?q=Erh%c3%b6hung) | N/A |
+| 38 | [Linz](http://twitter.com/search?q=Linz) | N/A |
+| 39 | [Italien](http://twitter.com/search?q=Italien) | N/A |
+| 40 | [Frühling](http://twitter.com/search?q=Fr%c3%bchling) | N/A |
+| 41 | [hofburg](http://twitter.com/search?q=hofburg) | N/A |
+| 42 | [Brandstätter](http://twitter.com/search?q=Brandst%c3%a4tter) | N/A |
+| 43 | [Kickl](http://twitter.com/search?q=Kickl) | N/A |
+| 44 | [Gebieten](http://twitter.com/search?q=Gebieten) | N/A |
+| 45 | [Plätze](http://twitter.com/search?q=Pl%c3%a4tze) | N/A |
+| 46 | [Intelligenz](http://twitter.com/search?q=Intelligenz) | N/A |
+| 47 | [Spitze](http://twitter.com/search?q=Spitze) | N/A |
+| 48 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
+| 49 | [Krim](http://twitter.com/search?q=Krim) | N/A |
+| 50 | [Covid](http://twitter.com/search?q=Covid) | N/A |
 
 
 

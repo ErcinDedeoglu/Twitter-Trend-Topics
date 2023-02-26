@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santo Domingo
 
-📆 Last Updated: `2023-02-26 08:16:22 UTC`
+📆 Last Updated: `2023-02-26 09:15:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,37 +15,37 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Matías Ramón Mella](http://twitter.com/search?q=Mat%c3%adas+Ram%c3%b3n+Mella) | N/A |
-| 2 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 3 | [roberto rodriguez](http://twitter.com/search?q=roberto+rodriguez) | N/A |
-| 4 | [junior tolentino](http://twitter.com/search?q=junior+tolentino) | N/A |
-| 5 | [puerta de la misericordia](http://twitter.com/search?q=puerta+de+la+misericordia) | N/A |
-| 6 | [#padredelapatria](http://twitter.com/search?q=%23padredelapatria) | N/A |
-| 7 | [#JHOPE](http://twitter.com/search?q=%23JHOPE) | N/A |
-| 8 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 9 | [independencia nacional](http://twitter.com/search?q=independencia+nacional) | N/A |
-| 10 | [independencia nacional](http://twitter.com/search?q=independencia+nacional) | N/A |
-| 11 | [Chicho](http://twitter.com/search?q=Chicho) | N/A |
-| 12 | [Pricesmart](http://twitter.com/search?q=Pricesmart) | N/A |
-| 13 | [mi vivienda](http://twitter.com/search?q=mi+vivienda) | N/A |
-| 14 | [este 27](http://twitter.com/search?q=este+27) | N/A |
-| 15 | [#palacalleconabel](http://twitter.com/search?q=%23palacalleconabel) | N/A |
-| 16 | [#orgullososdeestarmejor](http://twitter.com/search?q=%23orgullososdeestarmejor) | N/A |
-| 17 | [#RMxBOTTEGAVENETA](http://twitter.com/search?q=%23RMxBOTTEGAVENETA) | N/A |
-| 18 | [Jorge Drexler](http://twitter.com/search?q=Jorge+Drexler) | N/A |
-| 19 | [Matt Pobereyko](http://twitter.com/search?q=Matt+Pobereyko) | N/A |
-| 20 | [Horford](http://twitter.com/search?q=Horford) | Horford is a surname of Spanish origin. It is derived from the Latin word "horreum" which means granary or storehouse. The name is most commonly associated with Al Horford, an American professional basketball player who currently plays for the Philadelphia 76ers. |
-| 21 | [Juan Pablo Duarte](http://twitter.com/search?q=Juan+Pablo+Duarte) | Juan Pablo Duarte is a national hero of the Dominican Republic. He was a key figure in the struggle for independence from Haiti in 1844. His name is often used as a symbol of freedom and patriotism in the Dominican Republic. In English, his name translates to "John Paul Duarte". |
-| 22 | [santiago y moca](http://twitter.com/search?q=santiago+y+moca) | N/A |
-| 23 | [Alexandra](http://twitter.com/search?q=Alexandra) | N/A |
+| 1 | [matías ramón mella](http://twitter.com/search?q=mat%c3%adas+ram%c3%b3n+mella) | N/A |
+| 2 | [roberto rodriguez](http://twitter.com/search?q=roberto+rodriguez) | N/A |
+| 3 | [junior tolentino](http://twitter.com/search?q=junior+tolentino) | N/A |
+| 4 | [puerta de la misericordia](http://twitter.com/search?q=puerta+de+la+misericordia) | N/A |
+| 5 | [#padredelapatria](http://twitter.com/search?q=%23padredelapatria) | N/A |
+| 6 | [#JHOPE](http://twitter.com/search?q=%23JHOPE) | N/A |
+| 7 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
+| 8 | [independencia nacional](http://twitter.com/search?q=independencia+nacional) | N/A |
+| 9 | [Chicho](http://twitter.com/search?q=Chicho) | N/A |
+| 10 | [pricesmart](http://twitter.com/search?q=pricesmart) | N/A |
+| 11 | [viva la república dominicana](http://twitter.com/search?q=viva+la+rep%c3%bablica+dominicana) | N/A |
+| 12 | [mi vivienda](http://twitter.com/search?q=mi+vivienda) | N/A |
+| 13 | [este 27](http://twitter.com/search?q=este+27) | N/A |
+| 14 | [#palacalleconabel](http://twitter.com/search?q=%23palacalleconabel) | N/A |
+| 15 | [#orgullososdeestarmejor](http://twitter.com/search?q=%23orgullososdeestarmejor) | N/A |
+| 16 | [#RMxBOTTEGAVENETA](http://twitter.com/search?q=%23RMxBOTTEGAVENETA) | N/A |
+| 17 | [Jorge Drexler](http://twitter.com/search?q=Jorge+Drexler) | N/A |
+| 18 | [Matt Pobereyko](http://twitter.com/search?q=Matt+Pobereyko) | N/A |
+| 19 | [Horford](http://twitter.com/search?q=Horford) | Horford is a surname of Spanish origin. It is derived from the Latin word "horreum" which means granary or storehouse. The name is most commonly associated with Al Horford, an American professional basketball player who currently plays for the Philadelphia 76ers. |
+| 20 | [juan pablo duarte](http://twitter.com/search?q=juan+pablo+duarte) | Juan Pablo Duarte was a Dominican political leader and one of the founding fathers of the Dominican Republic. He is considered to be the father of Dominican independence, having led the fight for independence from Haiti in 1844. The phrase "Juan Pablo Duarte" is used to refer to his legacy and his role in the creation of the Dominican Republic. In English, it means "John Paul Duarte," or "Father of Dominican Independence." |
+| 21 | [santiago y moca](http://twitter.com/search?q=santiago+y+moca) | N/A |
+| 22 | [Alexandra](http://twitter.com/search?q=Alexandra) | N/A |
+| 23 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
 | 24 | [Nuria](http://twitter.com/search?q=Nuria) | N/A |
 | 25 | [pepca](http://twitter.com/search?q=pepca) | N/A |
 | 26 | [Asamblea Nacional](http://twitter.com/search?q=Asamblea+Nacional) | N/A |
-| 27 | [Hoy 25](http://twitter.com/search?q=Hoy+25) | N/A |
-| 28 | [rosario espinal](http://twitter.com/search?q=rosario+espinal) | N/A |
-| 29 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 30 | [víctor gómez bergés](http://twitter.com/search?q=v%c3%adctor+g%c3%b3mez+berg%c3%a9s) | N/A |
-| 31 | [Feid](http://twitter.com/search?q=Feid) | N/A |
+| 27 | [hoy 25](http://twitter.com/search?q=hoy+25) | N/A |
+| 28 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 29 | [víctor gómez bergés](http://twitter.com/search?q=v%c3%adctor+g%c3%b3mez+berg%c3%a9s) | N/A |
+| 30 | [Feid](http://twitter.com/search?q=Feid) | N/A |
+| 31 | [Rosario Espinal](http://twitter.com/search?q=Rosario+Espinal) | N/A |
 | 32 | [Botello](http://twitter.com/search?q=Botello) | N/A |
 | 33 | [taíno bay](http://twitter.com/search?q=ta%c3%adno+bay) | N/A |
 | 34 | [iqtek](http://twitter.com/search?q=iqtek) | N/A |
