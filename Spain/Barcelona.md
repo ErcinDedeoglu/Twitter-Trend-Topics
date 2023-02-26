@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barcelona
 
-📆 Last Updated: `2023-02-26 12:18:08 UTC`
+📆 Last Updated: `2023-02-26 13:19:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,48 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Gil Manzano](http://twitter.com/search?q=Gil+Manzano) | Gil Manzano is a Spanish surname. In English, it translates to "son of Manuel". |
-| 2 | [Correa](http://twitter.com/search?q=Correa) | Correa is a Spanish surname. It is derived from the Latin word correus, meaning "messenger". In English, it can be translated to mean "messenger" or "courier". |
-| 3 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
-| 4 | [Tito Berni](http://twitter.com/search?q=Tito+Berni) | N/A |
-| 5 | [#RealMadridAtleti](http://twitter.com/search?q=%23RealMadridAtleti) | N/A |
-| 6 | [Reinildo](http://twitter.com/search?q=Reinildo) | N/A |
-| 7 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 8 | [#APOYOROCIO26F](http://twitter.com/search?q=%23APOYOROCIO26F) | N/A |
-| 9 | [Elche](http://twitter.com/search?q=Elche) | Elche is a city in the Valencian Community of Spain. It is located in the province of Alicante, on the Costa Blanca. The name Elche comes from the Arabic term al-xarq, meaning "the wall". In English, Elche can be translated to mean "the walled city". |
-| 10 | [#UMK23](http://twitter.com/search?q=%23UMK23) | N/A |
-| 11 | [Loreen](http://twitter.com/search?q=Loreen) | N/A |
-| 12 | [Rudiger](http://twitter.com/search?q=Rudiger) | Rudiger is a German name derived from the Germanic elements hrod, meaning "fame," and ger, meaning "spear." It is a masculine name that can also be spelled Rudiger or Rudigar. In English, it means "famous spear." |
-| 13 | [Bernabéu](http://twitter.com/search?q=Bernab%c3%a9u) | Bernabéu is the name of the home stadium of Spanish football club Real Madrid. It is officially known as Estadio Santiago Bernabéu, named after the former club president Santiago Bernabéu. In English, it is referred to as the Santiago Bernabéu Stadium. |
-| 14 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
-| 15 | [#solos25f](http://twitter.com/search?q=%23solos25f) | N/A |
-| 16 | [Morata](http://twitter.com/search?q=Morata) | Morata is a Spanish surname. It is derived from the Latin word "moratus" which means "delay". In English, it can be translated to mean "delayed". |
-| 17 | [Falcon](http://twitter.com/search?q=Falcon) | N/A |
-| 18 | [Miranda](http://twitter.com/search?q=Miranda) | Miranda is a female given name of Latin origin, derived from the word "mirandus" meaning "admirable" or "wonderful". It is also associated with the phrase "miranda rights", which are rights read to criminal suspects in the United States during an arrest. |
-| 19 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 20 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 21 | [Hugo Duro](http://twitter.com/search?q=Hugo+Duro) | N/A |
-| 22 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
-| 23 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
-| 24 | [Nico Williams](http://twitter.com/search?q=Nico+Williams) | N/A |
-| 25 | [Álvaro Rodríguez](http://twitter.com/search?q=%c3%81lvaro+Rodr%c3%adguez) | N/A |
-| 26 | [lobi](http://twitter.com/search?q=lobi) | N/A |
-| 27 | [PSOE](http://twitter.com/search?q=PSOE) | N/A |
-| 28 | [Leguina](http://twitter.com/search?q=Leguina) | N/A |
-| 29 | [Mestalla](http://twitter.com/search?q=Mestalla) | Mestalla is the name of the home stadium of Valencia CF, a Spanish football club. The word Mestalla is derived from the Latin word matella, which means "fortress". In English, it can be translated to mean "fortress stadium". |
-| 30 | [Iturralde](http://twitter.com/search?q=Iturralde) | N/A |
-| 31 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
+| 1 | [#AthleticGirona](http://twitter.com/search?q=%23AthleticGirona) | N/A |
+| 2 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
+| 3 | [#Solos26F](http://twitter.com/search?q=%23Solos26F) | N/A |
+| 4 | [Aleix García](http://twitter.com/search?q=Aleix+Garc%c3%ada) | N/A |
+| 5 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 6 | [#APOYOROCIO26F](http://twitter.com/search?q=%23APOYOROCIO26F) | N/A |
+| 7 | [San Mamés](http://twitter.com/search?q=San+Mam%c3%a9s) | San Mamés is the name of a football stadium in Bilbao, Spain. It is the home stadium of Athletic Bilbao, a Spanish football club. The name San Mamés comes from a local saint, Saint Mammes of Caesarea, who was martyred in the 3rd century AD. In English, San Mamés translates to "Saint Mammes". |
+| 8 | [#WoLongOcaDynasty](http://twitter.com/search?q=%23WoLongOcaDynasty) | N/A |
+| 9 | [Nico Williams](http://twitter.com/search?q=Nico+Williams) | N/A |
+| 10 | [Vetusta](http://twitter.com/search?q=Vetusta) | N/A |
+| 11 | [Tito Berni](http://twitter.com/search?q=Tito+Berni) | N/A |
+| 12 | [Buen Domingo](http://twitter.com/search?q=Buen+Domingo) | N/A |
+| 13 | [Mt 4](http://twitter.com/search?q=Mt+4) | N/A |
+| 14 | [Irán](http://twitter.com/search?q=Ir%c3%a1n) | N/A |
+| 15 | [Eldense](http://twitter.com/search?q=Eldense) | N/A |
+| 16 | [Al Señor](http://twitter.com/search?q=Al+Se%c3%b1or) | N/A |
+| 17 | [Alcorcón](http://twitter.com/search?q=Alcorc%c3%b3n) | N/A |
+| 18 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
+| 19 | [Vettel](http://twitter.com/search?q=Vettel) | N/A |
+| 20 | [GitHub](http://twitter.com/search?q=GitHub) | GitHub is a web-based hosting service for version control using Git. It is mostly used for computer code. It offers all of the distributed version control and source code management (SCM) functionality of Git as well as adding its own features. GitHub provides access control and several collaboration features such as bug tracking, feature requests, task management, and wikis for every project. |
+| 21 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 22 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 23 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
+| 24 | [DÍA DE PARTIDO](http://twitter.com/search?q=D%c3%8dA+DE+PARTIDO) | N/A |
+| 25 | [Rudiger](http://twitter.com/search?q=Rudiger) | Rudiger is a German name derived from the Germanic elements hrod, meaning "fame," and ger, meaning "spear." It is a masculine name that can also be spelled Rudiger or Rudigar. In English, it means "famous spear." |
+| 26 | [Frigenti](http://twitter.com/search?q=Frigenti) | N/A |
+| 27 | [La Romareda](http://twitter.com/search?q=La+Romareda) | N/A |
+| 28 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 29 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
+| 30 | [Domingo 26](http://twitter.com/search?q=Domingo+26) | N/A |
+| 31 | [Abby](http://twitter.com/search?q=Abby) | Abby is a shortened form of the name Abigail, which is of Hebrew origin and means “father’s joy”. |
 | 32 | [Sofía Otero](http://twitter.com/search?q=Sof%c3%ada+Otero) | N/A |
-| 33 | [Mt 4](http://twitter.com/search?q=Mt+4) | N/A |
-| 34 | [Finlandia](http://twitter.com/search?q=Finlandia) | N/A |
-| 35 | [Giménez](http://twitter.com/search?q=Gim%c3%a9nez) | N/A |
-| 36 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 37 | [Cholo](http://twitter.com/search?q=Cholo) | Cholo is a term used to refer to a person of mixed Indigenous and Mexican heritage. It is often used as a derogatory term, but it can also be used as an identifier for people of this background. In English, the term can be translated to mean "mixed-race person". |
-| 38 | [Saúl](http://twitter.com/search?q=Sa%c3%bal) | Saúl is a Spanish name derived from the Hebrew name Saul, which means "asked for". In English, it is usually spelled Saul. |
-| 39 | [Pipo](http://twitter.com/search?q=Pipo) | N/A |
-| 40 | [Codazo](http://twitter.com/search?q=Codazo) | N/A |
-| 41 | [Alfa Romeo](http://twitter.com/search?q=Alfa+Romeo) | N/A |
-| 42 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 43 | [ana baneira](http://twitter.com/search?q=ana+baneira) | N/A |
-| 44 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 45 | [san carlos del valle](http://twitter.com/search?q=san+carlos+del+valle) | N/A |
-| 46 | [Mediador](http://twitter.com/search?q=Mediador) | N/A |
-| 47 | [Buen Domingo](http://twitter.com/search?q=Buen+Domingo) | N/A |
-| 48 | [Jacobo Ostos](http://twitter.com/search?q=Jacobo+Ostos) | N/A |
-| 49 | [Marburgo](http://twitter.com/search?q=Marburgo) | N/A |
-| 50 | [Benjamin](http://twitter.com/search?q=Benjamin) | N/A |
+| 33 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
+| 34 | [Pipo](http://twitter.com/search?q=Pipo) | N/A |
+| 35 | [#YoMeRebelo26F](http://twitter.com/search?q=%23YoMeRebelo26F) | N/A |
+| 36 | [#plantassilvestresradio3](http://twitter.com/search?q=%23plantassilvestresradio3) | N/A |
+| 37 | [#LFEndesa](http://twitter.com/search?q=%23LFEndesa) | N/A |
+| 38 | [#Recre](http://twitter.com/search?q=%23Recre) | N/A |
+| 39 | [#MWC23](http://twitter.com/search?q=%23MWC23) | N/A |
+| 40 | [#SegundaRFEF](http://twitter.com/search?q=%23SegundaRFEF) | N/A |
+| 41 | [#MWC2023](http://twitter.com/search?q=%23MWC2023) | N/A |
+| 42 | [#CasoMediador](http://twitter.com/search?q=%23CasoMediador) | N/A |
 
 
 

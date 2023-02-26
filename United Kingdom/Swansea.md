@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Swansea
 
-📆 Last Updated: `2023-02-26 12:17:50 UTC`
+📆 Last Updated: `2023-02-26 13:19:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,49 +15,47 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Keita](http://twitter.com/search?q=Keita) | Keita is a Japanese name meaning "blessed" or "happy". It is often used as a given name for boys. |
-| 2 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
+| 1 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
+| 2 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
 | 3 | [#NUFC](http://twitter.com/search?q=%23NUFC) | #NUFC stands for Newcastle United Football Club, an English professional football club based in Newcastle upon Tyne. The club was founded in 1892 and currently plays in the Premier League. |
-| 4 | [#BBCLauraK](http://twitter.com/search?q=%23BBCLauraK) | #BBCLauraK is a hashtag used to refer to the BBC journalist Laura Kuenssberg. It is used to promote her work and news stories she has reported on. |
+| 4 | [#TotChe](http://twitter.com/search?q=%23TotChe) | N/A |
 | 5 | [#CarabaoCupFinal](http://twitter.com/search?q=%23CarabaoCupFinal) | N/A |
 | 6 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 7 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 8 | [Raab](http://twitter.com/search?q=Raab) | Raab is a German surname derived from the Middle High German word "raap" meaning "raven". It is also a Jewish surname, originating from the Hebrew word "rav", meaning "teacher". |
-| 9 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
-| 10 | [Mark Francois](http://twitter.com/search?q=Mark+Francois) | N/A |
-| 11 | [HOWAY THE LADS](http://twitter.com/search?q=HOWAY+THE+LADS) | N/A |
-| 12 | [Green Brigade](http://twitter.com/search?q=Green+Brigade) | N/A |
-| 13 | [Hampden](http://twitter.com/search?q=Hampden) | N/A |
-| 14 | [Books](http://twitter.com/search?q=Books) | N/A |
-| 15 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
-| 16 | [Toon](http://twitter.com/search?q=Toon) | N/A |
-| 17 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
+| 7 | [Badiashile](http://twitter.com/search?q=Badiashile) | Badiashile is a Yoruba word that means “God has done it” or “God has made it happen.” It is often used as an expression of joy and gratitude for something that has been accomplished. |
+| 8 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 9 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 10 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
+| 11 | [Raab](http://twitter.com/search?q=Raab) | Raab is a German surname derived from the Middle High German word "raap" meaning "raven". It is also a Jewish surname, originating from the Hebrew word "rav", meaning "teacher". |
+| 12 | [Book of Slingo](http://twitter.com/search?q=Book+of+Slingo) | N/A |
+| 13 | [Loftus](http://twitter.com/search?q=Loftus) | N/A |
+| 14 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
+| 15 | [Hampden](http://twitter.com/search?q=Hampden) | N/A |
+| 16 | [Madueke](http://twitter.com/search?q=Madueke) | Madueke is a Nigerian name of Igbo origin. It means “God knows” or “God has done it” in English. |
+| 17 | [HOWAY THE LADS](http://twitter.com/search?q=HOWAY+THE+LADS) | N/A |
 | 18 | [Woody Harrelson](http://twitter.com/search?q=Woody+Harrelson) | N/A |
-| 19 | [Deepti](http://twitter.com/search?q=Deepti) | N/A |
-| 20 | [James Bond](http://twitter.com/search?q=James+Bond) | N/A |
-| 21 | [Super Sunday](http://twitter.com/search?q=Super+Sunday) | N/A |
-| 22 | [Geordies](http://twitter.com/search?q=Geordies) | N/A |
-| 23 | [Trophy](http://twitter.com/search?q=Trophy) | N/A |
-| 24 | [Yoruba](http://twitter.com/search?q=Yoruba) | N/A |
-| 25 | [Berger](http://twitter.com/search?q=Berger) | N/A |
-| 26 | [Daily Quordle 398](http://twitter.com/search?q=Daily+Quordle+398) | N/A |
-| 27 | [Nervous](http://twitter.com/search?q=Nervous) | N/A |
-| 28 | [Lorna Slater](http://twitter.com/search?q=Lorna+Slater) | N/A |
-| 29 | [Dan Burn](http://twitter.com/search?q=Dan+Burn) | Dan Burn is a phrase used to describe a situation in which someone has been completely overwhelmed by an emotional experience. It is often used to describe the feeling of being overwhelmed with sadness or grief. |
-| 30 | [Young Conservatives](http://twitter.com/search?q=Young+Conservatives) | N/A |
-| 31 | [Bernie Sanders](http://twitter.com/search?q=Bernie+Sanders) | N/A |
-| 32 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 33 | [Ramsgate](http://twitter.com/search?q=Ramsgate) | N/A |
-| 34 | [Suffolk](http://twitter.com/search?q=Suffolk) | N/A |
-| 35 | [Chels](http://twitter.com/search?q=Chels) | N/A |
-| 36 | [Bednarek](http://twitter.com/search?q=Bednarek) | N/A |
-| 37 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
-| 38 | [Zonal](http://twitter.com/search?q=Zonal) | N/A |
-| 39 | [INEC](http://twitter.com/search?q=INEC) | N/A |
-| 40 | [Scott Adams](http://twitter.com/search?q=Scott+Adams) | N/A |
-| 41 | [Eddie Howe](http://twitter.com/search?q=Eddie+Howe) | Eddie Howe is an English professional football manager and former player. He is currently the manager of Premier League club AFC Bournemouth. Howe has been praised for his tactical knowledge and ability to develop young players. |
-| 42 | [Trafalgar Square](http://twitter.com/search?q=Trafalgar+Square) | N/A |
-| 43 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
+| 19 | [Mark Francois](http://twitter.com/search?q=Mark+Francois) | N/A |
+| 20 | [Spurs vs Chelsea](http://twitter.com/search?q=Spurs+vs+Chelsea) | N/A |
+| 21 | [Green Brigade](http://twitter.com/search?q=Green+Brigade) | N/A |
+| 22 | [Karl Robinson](http://twitter.com/search?q=Karl+Robinson) | N/A |
+| 23 | [James Bond](http://twitter.com/search?q=James+Bond) | N/A |
+| 24 | [Books](http://twitter.com/search?q=Books) | N/A |
+| 25 | [Young Conservatives](http://twitter.com/search?q=Young+Conservatives) | N/A |
+| 26 | [Berger](http://twitter.com/search?q=Berger) | N/A |
+| 27 | [Deepti](http://twitter.com/search?q=Deepti) | N/A |
+| 28 | [Geordies](http://twitter.com/search?q=Geordies) | N/A |
+| 29 | [Daily Quordle 398](http://twitter.com/search?q=Daily+Quordle+398) | N/A |
+| 30 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
+| 31 | [Super Sunday](http://twitter.com/search?q=Super+Sunday) | N/A |
+| 32 | [Trophy](http://twitter.com/search?q=Trophy) | N/A |
+| 33 | [Nervous](http://twitter.com/search?q=Nervous) | N/A |
+| 34 | [Zonal](http://twitter.com/search?q=Zonal) | N/A |
+| 35 | [Dan Burn](http://twitter.com/search?q=Dan+Burn) | Dan Burn is a phrase used to describe a situation in which someone has been completely overwhelmed by an emotional experience. It is often used to describe the feeling of being overwhelmed with sadness or grief. |
+| 36 | [Yoruba](http://twitter.com/search?q=Yoruba) | N/A |
+| 37 | [COYS](http://twitter.com/search?q=COYS) | N/A |
+| 38 | [Lorna Slater](http://twitter.com/search?q=Lorna+Slater) | N/A |
+| 39 | [Suffolk](http://twitter.com/search?q=Suffolk) | N/A |
+| 40 | [COME ON UNITED](http://twitter.com/search?q=COME+ON+UNITED) | "Come on United" is a phrase used to show support for the English football team Manchester United. It is usually shouted by fans during a match to encourage the team and show their enthusiasm. |
+| 41 | [Bernie Sanders](http://twitter.com/search?q=Bernie+Sanders) | N/A |
 
 
 

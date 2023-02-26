@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stockholm
 
-📆 Last Updated: `2023-02-26 12:18:11 UTC`
+📆 Last Updated: `2023-02-26 13:19:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Sweden](</Sweden>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Loreen](http://twitter.com/search?q=Loreen) | N/A |
-| 2 | [#Melfest](http://twitter.com/search?q=%23Melfest) | N/A |
-| 3 | [#ifkgbg](http://twitter.com/search?q=%23ifkgbg) | N/A |
-| 4 | [#melodifestivalen2023](http://twitter.com/search?q=%23melodifestivalen2023) | N/A |
-| 5 | [Carola](http://twitter.com/search?q=Carola) | Carola is a female given name of Latin origin, derived from the masculine name Carolus, which is the Latin form of Charles. It means "free man" or "strong". |
-| 6 | [mello](http://twitter.com/search?q=mello) | N/A |
-| 7 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 8 | [Ukraina](http://twitter.com/search?q=Ukraina) | N/A |
-| 9 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 10 | [Gais](http://twitter.com/search?q=Gais) | N/A |
-| 11 | [Ingman](http://twitter.com/search?q=Ingman) | N/A |
-| 12 | [Ryssland](http://twitter.com/search?q=Ryssland) | N/A |
-| 13 | [frida karlsson](http://twitter.com/search?q=frida+karlsson) | N/A |
-| 14 | [#NFC2023](http://twitter.com/search?q=%23NFC2023) | N/A |
-| 15 | [Centerpartiet](http://twitter.com/search?q=Centerpartiet) | N/A |
+| 1 | [Jonna Sundling](http://twitter.com/search?q=Jonna+Sundling) | N/A |
+| 2 | [#ifkgbg](http://twitter.com/search?q=%23ifkgbg) | N/A |
+| 3 | [Loreen](http://twitter.com/search?q=Loreen) | N/A |
+| 4 | [Emma Ribom](http://twitter.com/search?q=Emma+Ribom) | N/A |
+| 5 | [#Melfest](http://twitter.com/search?q=%23Melfest) | N/A |
+| 6 | [Gais](http://twitter.com/search?q=Gais) | N/A |
+| 7 | [#Melodifestivalen2023](http://twitter.com/search?q=%23Melodifestivalen2023) | N/A |
+| 8 | [carola](http://twitter.com/search?q=carola) | N/A |
+| 9 | [Mello](http://twitter.com/search?q=Mello) | N/A |
+| 10 | [IFK Göteborg](http://twitter.com/search?q=IFK+G%c3%b6teborg) | N/A |
+| 11 | [Ukraina](http://twitter.com/search?q=Ukraina) | N/A |
+| 12 | [Blåvitt](http://twitter.com/search?q=Bl%c3%a5vitt) | N/A |
+| 13 | [#NFC2023](http://twitter.com/search?q=%23NFC2023) | N/A |
+| 14 | [ingman](http://twitter.com/search?q=ingman) | N/A |
+| 15 | [Ryssland](http://twitter.com/search?q=Ryssland) | N/A |
 | 16 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
-| 17 | [#LEIARS](http://twitter.com/search?q=%23LEIARS) | N/A |
-| 18 | [Kvist](http://twitter.com/search?q=Kvist) | N/A |
-| 19 | [Sandra Näslund](http://twitter.com/search?q=Sandra+N%c3%a4slund) | N/A |
-| 20 | [Ebba Andersson](http://twitter.com/search?q=Ebba+Andersson) | N/A |
-| 21 | [Farah](http://twitter.com/search?q=Farah) | N/A |
-| 22 | [IFK Göteborg](http://twitter.com/search?q=IFK+G%c3%b6teborg) | N/A |
-| 23 | [Gripen](http://twitter.com/search?q=Gripen) | N/A |
-| 24 | [Eurovision](http://twitter.com/search?q=Eurovision) | N/A |
+| 17 | [frida karlsson](http://twitter.com/search?q=frida+karlsson) | N/A |
+| 18 | [#LEIARS](http://twitter.com/search?q=%23LEIARS) | N/A |
+| 19 | [Kvist](http://twitter.com/search?q=Kvist) | N/A |
+| 20 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 21 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 22 | [VM-guld](http://twitter.com/search?q=VM-guld) | N/A |
+| 23 | [Sandra Näslund](http://twitter.com/search?q=Sandra+N%c3%a4slund) | N/A |
+| 24 | [Farah](http://twitter.com/search?q=Farah) | N/A |
 | 25 | [johan nitare](http://twitter.com/search?q=johan+nitare) | N/A |
 | 26 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
-| 27 | [Mariette](http://twitter.com/search?q=Mariette) | N/A |
-| 28 | [Suhonen](http://twitter.com/search?q=Suhonen) | N/A |
-| 29 | [Tomkins](http://twitter.com/search?q=Tomkins) | N/A |
-| 30 | [Godmorgon](http://twitter.com/search?q=Godmorgon) | N/A |
-| 31 | [edward](http://twitter.com/search?q=edward) | N/A |
-| 32 | [fröken snusk](http://twitter.com/search?q=fr%c3%b6ken+snusk) | N/A |
+| 27 | [Ebba Andersson](http://twitter.com/search?q=Ebba+Andersson) | N/A |
+| 28 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 29 | [Mariette](http://twitter.com/search?q=Mariette) | N/A |
+| 30 | [tomkins](http://twitter.com/search?q=tomkins) | N/A |
+| 31 | [Eurovision](http://twitter.com/search?q=Eurovision) | N/A |
+| 32 | [Edward](http://twitter.com/search?q=Edward) | N/A |
 | 33 | [Chang Frick](http://twitter.com/search?q=Chang+Frick) | N/A |
 | 34 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
 | 35 | [Shinnimin](http://twitter.com/search?q=Shinnimin) | N/A |
-| 36 | [Kiana](http://twitter.com/search?q=Kiana) | N/A |
-| 37 | [Hisingen](http://twitter.com/search?q=Hisingen) | N/A |
+| 36 | [kiana](http://twitter.com/search?q=kiana) | N/A |
+| 37 | [Suhonen](http://twitter.com/search?q=Suhonen) | N/A |
 | 38 | [Återställ](http://twitter.com/search?q=%c3%85terst%c3%a4ll) | N/A |
 | 39 | [Demirok](http://twitter.com/search?q=Demirok) | N/A |
-| 40 | [Hjördis](http://twitter.com/search?q=Hj%c3%b6rdis) | N/A |
-| 41 | [Armand Duplantis](http://twitter.com/search?q=Armand+Duplantis) | N/A |
-| 42 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 43 | [tingsryd](http://twitter.com/search?q=tingsryd) | N/A |
-| 44 | [comviq](http://twitter.com/search?q=comviq) | N/A |
-| 45 | [San Moteur](http://twitter.com/search?q=San+Moteur) | N/A |
-| 46 | [Keita](http://twitter.com/search?q=Keita) | Keita is a Japanese name meaning "blessed" or "happy". It is often used as a given name for boys. |
-| 47 | [Mondo](http://twitter.com/search?q=Mondo) | N/A |
-| 48 | [Smash Into Pieces](http://twitter.com/search?q=Smash+Into+Pieces) | N/A |
-| 49 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
-| 50 | [danielsson](http://twitter.com/search?q=danielsson) | N/A |
+| 40 | [Armand Duplantis](http://twitter.com/search?q=Armand+Duplantis) | N/A |
+| 41 | [comviq](http://twitter.com/search?q=comviq) | N/A |
+| 42 | [San Moteur](http://twitter.com/search?q=San+Moteur) | N/A |
+| 43 | [Keita](http://twitter.com/search?q=Keita) | Keita is a Japanese name meaning "blessed" or "happy". It is often used as a given name for boys. |
+| 44 | [mondo](http://twitter.com/search?q=mondo) | N/A |
+| 45 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
+| 46 | [Smash Into Pieces](http://twitter.com/search?q=Smash+Into+Pieces) | N/A |
+| 47 | [danielsson](http://twitter.com/search?q=danielsson) | N/A |
+| 48 | [keynes](http://twitter.com/search?q=keynes) | N/A |
+| 49 | [Skogsstyrelsen](http://twitter.com/search?q=Skogsstyrelsen) | N/A |
+| 50 | [Six Feet Under](http://twitter.com/search?q=Six+Feet+Under) | N/A |
 
 
 

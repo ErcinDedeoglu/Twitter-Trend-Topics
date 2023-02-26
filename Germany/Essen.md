@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Essen
 
-📆 Last Updated: `2023-02-26 12:18:05 UTC`
+📆 Last Updated: `2023-02-26 13:19:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Germany](</Germany>)
 | ------- | ------------ | ------------ |
 | 1 | [#b2502](http://twitter.com/search?q=%23b2502) | N/A |
 | 2 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
-| 3 | [#S04VfB](http://twitter.com/search?q=%23S04VfB) | N/A |
-| 4 | [#dopa](http://twitter.com/search?q=%23dopa) | N/A |
-| 5 | [Schönen Sonntag](http://twitter.com/search?q=Sch%c3%b6nen+Sonntag) | "Schönen Sonntag" is a German phrase that translates to "Have a nice Sunday" in English. It is a common greeting used to wish someone a pleasant day on Sunday. |
-| 6 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
-| 7 | [#MetAmazonPresale](http://twitter.com/search?q=%23MetAmazonPresale) | N/A |
+| 3 | [#S04VFB](http://twitter.com/search?q=%23S04VFB) | N/A |
+| 4 | [Schönen Sonntag](http://twitter.com/search?q=Sch%c3%b6nen+Sonntag) | "Schönen Sonntag" is a German phrase that translates to "Have a nice Sunday" in English. It is a common greeting used to wish someone a pleasant day on Sunday. |
+| 5 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
+| 6 | [#MetAmazonPresale](http://twitter.com/search?q=%23MetAmazonPresale) | N/A |
+| 7 | [#dopa](http://twitter.com/search?q=%23dopa) | N/A |
 | 8 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
 | 9 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 10 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 11 | [Kinderlose](http://twitter.com/search?q=Kinderlose) | N/A |
-| 12 | [Irreführung der Bevölkerung](http://twitter.com/search?q=Irref%c3%bchrung+der+Bev%c3%b6lkerung) | N/A |
-| 13 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
-| 14 | [Teilnehmer](http://twitter.com/search?q=Teilnehmer) | N/A |
-| 15 | [Bock auf Arbeit](http://twitter.com/search?q=Bock+auf+Arbeit) | N/A |
+| 10 | [Kinderlose](http://twitter.com/search?q=Kinderlose) | N/A |
+| 11 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
+| 12 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 13 | [Teilnehmer](http://twitter.com/search?q=Teilnehmer) | N/A |
+| 14 | [Irreführung der Bevölkerung](http://twitter.com/search?q=Irref%c3%bchrung+der+Bev%c3%b6lkerung) | N/A |
+| 15 | [Panzer](http://twitter.com/search?q=Panzer) | N/A |
 | 16 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 17 | [Panzer](http://twitter.com/search?q=Panzer) | N/A |
-| 18 | [Seite der Geschichte](http://twitter.com/search?q=Seite+der+Geschichte) | N/A |
-| 19 | [Busfahrer](http://twitter.com/search?q=Busfahrer) | N/A |
-| 20 | [Fratze Deutschlands](http://twitter.com/search?q=Fratze+Deutschlands) | N/A |
-| 21 | [Verbrecher in die Geschichte](http://twitter.com/search?q=Verbrecher+in+die+Geschichte) | N/A |
-| 22 | [Frau Müller](http://twitter.com/search?q=Frau+M%c3%bcller) | N/A |
-| 23 | [Sundermeyer](http://twitter.com/search?q=Sundermeyer) | N/A |
-| 24 | [Kriegstreiber](http://twitter.com/search?q=Kriegstreiber) | N/A |
-| 25 | [Botschaft](http://twitter.com/search?q=Botschaft) | N/A |
-| 26 | [Höcke](http://twitter.com/search?q=H%c3%b6cke) | N/A |
-| 27 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
-| 28 | [Sonntagmorgen](http://twitter.com/search?q=Sonntagmorgen) | N/A |
-| 29 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
-| 30 | [Pflegeversicherung](http://twitter.com/search?q=Pflegeversicherung) | N/A |
-| 31 | [Pack](http://twitter.com/search?q=Pack) | N/A |
-| 32 | [John Lennon](http://twitter.com/search?q=John+Lennon) | N/A |
-| 33 | [Flaggen](http://twitter.com/search?q=Flaggen) | N/A |
-| 34 | [Angriffskrieg](http://twitter.com/search?q=Angriffskrieg) | N/A |
+| 17 | [Bock auf Arbeit](http://twitter.com/search?q=Bock+auf+Arbeit) | N/A |
+| 18 | [Fratze Deutschlands](http://twitter.com/search?q=Fratze+Deutschlands) | N/A |
+| 19 | [Seite der Geschichte](http://twitter.com/search?q=Seite+der+Geschichte) | N/A |
+| 20 | [Verbrecher in die Geschichte](http://twitter.com/search?q=Verbrecher+in+die+Geschichte) | N/A |
+| 21 | [Frau Müller](http://twitter.com/search?q=Frau+M%c3%bcller) | N/A |
+| 22 | [Botschaft](http://twitter.com/search?q=Botschaft) | N/A |
+| 23 | [Kriegstreiber](http://twitter.com/search?q=Kriegstreiber) | N/A |
+| 24 | [Höcke](http://twitter.com/search?q=H%c3%b6cke) | N/A |
+| 25 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
+| 26 | [Sonntagmorgen](http://twitter.com/search?q=Sonntagmorgen) | N/A |
+| 27 | [Pflegeversicherung](http://twitter.com/search?q=Pflegeversicherung) | N/A |
+| 28 | [John Lennon](http://twitter.com/search?q=John+Lennon) | N/A |
+| 29 | [Pack](http://twitter.com/search?q=Pack) | N/A |
+| 30 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
+| 31 | [Busfahrer](http://twitter.com/search?q=Busfahrer) | N/A |
+| 32 | [Flaggen](http://twitter.com/search?q=Flaggen) | N/A |
+| 33 | [Angriffskrieg](http://twitter.com/search?q=Angriffskrieg) | N/A |
+| 34 | [Brandenburger Tor](http://twitter.com/search?q=Brandenburger+Tor) | N/A |
 | 35 | [INEC](http://twitter.com/search?q=INEC) | N/A |
-| 36 | [Brandenburger Tor](http://twitter.com/search?q=Brandenburger+Tor) | N/A |
-| 37 | [Zehntausende](http://twitter.com/search?q=Zehntausende) | N/A |
-| 38 | [Herr Lauterbach](http://twitter.com/search?q=Herr+Lauterbach) | N/A |
-| 39 | [Freistoß](http://twitter.com/search?q=Freisto%c3%9f) | N/A |
-| 40 | [Sosa](http://twitter.com/search?q=Sosa) | N/A |
-| 41 | [WARRIOR NUN CAMPERS](http://twitter.com/search?q=WARRIOR+NUN+CAMPERS) | N/A |
-| 42 | [Foul](http://twitter.com/search?q=Foul) | N/A |
-| 43 | [Fahnen](http://twitter.com/search?q=Fahnen) | N/A |
-| 44 | [Halbzeit](http://twitter.com/search?q=Halbzeit) | N/A |
-| 45 | [Elsässer](http://twitter.com/search?q=Els%c3%a4sser) | N/A |
-| 46 | [Aggressor](http://twitter.com/search?q=Aggressor) | N/A |
-| 47 | [Soldaten](http://twitter.com/search?q=Soldaten) | N/A |
+| 36 | [Fahnen](http://twitter.com/search?q=Fahnen) | N/A |
+| 37 | [Freistoß](http://twitter.com/search?q=Freisto%c3%9f) | N/A |
+| 38 | [Sosa](http://twitter.com/search?q=Sosa) | N/A |
+| 39 | [Herr Lauterbach](http://twitter.com/search?q=Herr+Lauterbach) | N/A |
+| 40 | [Foul](http://twitter.com/search?q=Foul) | N/A |
+| 41 | [Zehntausende](http://twitter.com/search?q=Zehntausende) | N/A |
+| 42 | [Herr Roth](http://twitter.com/search?q=Herr+Roth) | N/A |
+| 43 | [Halbzeit](http://twitter.com/search?q=Halbzeit) | N/A |
+| 44 | [Aggressor](http://twitter.com/search?q=Aggressor) | N/A |
+| 45 | [Spiegel](http://twitter.com/search?q=Spiegel) | N/A |
+| 46 | [WARRIOR NUN CAMPERS](http://twitter.com/search?q=WARRIOR+NUN+CAMPERS) | N/A |
+| 47 | [Veranstaltung](http://twitter.com/search?q=Veranstaltung) | N/A |
 | 48 | [Silas](http://twitter.com/search?q=Silas) | N/A |
-| 49 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 49 | [Elsässer](http://twitter.com/search?q=Els%c3%a4sser) | N/A |
 
 
 

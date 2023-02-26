@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indianapolis
 
-📆 Last Updated: `2023-02-26 12:18:41 UTC`
+📆 Last Updated: `2023-02-26 13:20:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for [United States](</United States>)
 | 4 | [Edey](http://twitter.com/search?q=Edey) | Edey is a slang term used in some parts of the United States to refer to someone who is cool, stylish, or attractive. It can also be used as a term of endearment. |
 | 5 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
 | 6 | [Good Sunday](http://twitter.com/search?q=Good+Sunday) | Good Sunday is a South Korean variety show that aired on SBS from 2005 to 2011. It was a popular variety show that featured celebrity guests, games, and performances. The show's name comes from the fact that it aired on Sundays, which is traditionally considered a day of rest and relaxation in South Korea. In English, Good Sunday means a day of rest and relaxation. |
-| 7 | [Woody](http://twitter.com/search?q=Woody) | Woody is a slang term used to describe someone who is strong, tough, and determined. It can also be used to describe someone who is stubborn and unyielding. |
-| 8 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
-| 9 | [#GIFT_tokyodome](http://twitter.com/search?q=%23GIFT_tokyodome) | N/A |
-| 10 | [FOREVER YOURS BUILD](http://twitter.com/search?q=FOREVER+YOURS+BUILD) | N/A |
+| 7 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
+| 8 | [Woody](http://twitter.com/search?q=Woody) | Woody is a slang term used to describe someone who is strong, tough, and determined. It can also be used to describe someone who is stubborn and unyielding. |
+| 9 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
+| 10 | [#ManlyRomanticGestures](http://twitter.com/search?q=%23ManlyRomanticGestures) | N/A |
 | 11 | [#Wordle617](http://twitter.com/search?q=%23Wordle617) | N/A |
-| 12 | [#WannaBeYourLuveForever](http://twitter.com/search?q=%23WannaBeYourLuveForever) | N/A |
-| 13 | [jhope](http://twitter.com/search?q=jhope) | N/A |
-| 14 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 15 | [2seok](http://twitter.com/search?q=2seok) | N/A |
-| 16 | [Paul Ryan](http://twitter.com/search?q=Paul+Ryan) | Paul Ryan is the name of an American politician who served as the 54th Speaker of the United States House of Representatives from October 2015 to January 2019. He is a member of the Republican Party and was previously the Vice Presidential nominee for the 2012 election. The meaning of his name in English is "little king". |
-| 17 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
-| 18 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 19 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
-| 20 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
-| 21 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 22 | [Yuzu](http://twitter.com/search?q=Yuzu) | N/A |
-| 23 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
-| 24 | [Jack White](http://twitter.com/search?q=Jack+White) | N/A |
-| 25 | [INEC](http://twitter.com/search?q=INEC) | N/A |
-| 26 | [Weverse](http://twitter.com/search?q=Weverse) | Weverse is a social media platform created by the South Korean entertainment company Big Hit Entertainment. It is designed to connect fans with artists and allow them to interact with each other. The name Weverse is derived from the words “we” and “universe”, representing the idea of creating a universe where fans and artists can come together. |
+| 12 | [#ArrestKatieHobbs](http://twitter.com/search?q=%23ArrestKatieHobbs) | N/A |
+| 13 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
+| 14 | [Paul Ryan](http://twitter.com/search?q=Paul+Ryan) | Paul Ryan is the name of an American politician who served as the 54th Speaker of the United States House of Representatives from October 2015 to January 2019. He is a member of the Republican Party and was previously the Vice Presidential nominee for the 2012 election. The meaning of his name in English is "little king". |
+| 15 | [Daily Quordle 398](http://twitter.com/search?q=Daily+Quordle+398) | N/A |
+| 16 | [FOREVER YOURS BUILD](http://twitter.com/search?q=FOREVER+YOURS+BUILD) | N/A |
+| 17 | [jhope](http://twitter.com/search?q=jhope) | N/A |
+| 18 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 19 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
+| 20 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
+| 21 | [2seok](http://twitter.com/search?q=2seok) | N/A |
+| 22 | [INEC](http://twitter.com/search?q=INEC) | N/A |
+| 23 | [RINO](http://twitter.com/search?q=RINO) | RINO stands for "Republican In Name Only," and it is a term used to describe a Republican politician who is perceived as not adhering to the party's traditional values or platform. |
+| 24 | [Yuzu](http://twitter.com/search?q=Yuzu) | N/A |
+| 25 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
+| 26 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
 | 27 | [Yoruba](http://twitter.com/search?q=Yoruba) | N/A |
 | 28 | [Eazy](http://twitter.com/search?q=Eazy) | N/A |
-| 29 | [BIGHIT](http://twitter.com/search?q=BIGHIT) | N/A |
-| 30 | [Witchcraft](http://twitter.com/search?q=Witchcraft) | N/A |
-| 31 | [Al Horford](http://twitter.com/search?q=Al+Horford) | Al Horford is a professional basketball player from the Dominican Republic who currently plays for the Philadelphia 76ers of the National Basketball Association (NBA). He is a four-time NBA All-Star and has won two NBA championships with the Boston Celtics. The meaning of Al Horford in English is "a talented basketball player". |
-| 32 | [Matias](http://twitter.com/search?q=Matias) | N/A |
-| 33 | [Olive Garden](http://twitter.com/search?q=Olive+Garden) | N/A |
-| 34 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
-| 35 | [Hitman](http://twitter.com/search?q=Hitman) | N/A |
-| 36 | [maxey](http://twitter.com/search?q=maxey) | N/A |
-| 37 | [Cartel](http://twitter.com/search?q=Cartel) | N/A |
-| 38 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
-| 39 | [Mike Breen](http://twitter.com/search?q=Mike+Breen) | N/A |
-| 40 | [Linus Ullmark](http://twitter.com/search?q=Linus+Ullmark) | N/A |
-| 41 | [Doc Rivers](http://twitter.com/search?q=Doc+Rivers) | N/A |
-| 42 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
-| 43 | [Red Lobster](http://twitter.com/search?q=Red+Lobster) | N/A |
-| 44 | [Karina](http://twitter.com/search?q=Karina) | N/A |
-| 45 | [Sharks](http://twitter.com/search?q=Sharks) | N/A |
-| 46 | [The Strays](http://twitter.com/search?q=The+Strays) | N/A |
-| 47 | [Zags](http://twitter.com/search?q=Zags) | Zags is a slang term used to refer to the Gonzaga University Bulldogs, the athletic teams of Gonzaga University in Spokane, Washington. It is derived from the university's nickname, the Bulldogs. |
-| 48 | [John Wall](http://twitter.com/search?q=John+Wall) | John Wall is the nickname of Johnathan Hildred Wall Jr., an American professional basketball player who currently plays for the Washington Wizards of the National Basketball Association (NBA). He is a five-time NBA All-Star and was selected first overall in the 2010 NBA draft. |
-| 49 | [Pasadena](http://twitter.com/search?q=Pasadena) | N/A |
-| 50 | [#ArrestKatieHobbs](http://twitter.com/search?q=%23ArrestKatieHobbs) | N/A |
+| 29 | [Witchcraft](http://twitter.com/search?q=Witchcraft) | N/A |
+| 30 | [BIGHIT](http://twitter.com/search?q=BIGHIT) | N/A |
+| 31 | [Weverse](http://twitter.com/search?q=Weverse) | Weverse is a social media platform created by the South Korean entertainment company Big Hit Entertainment. It is designed to connect fans with artists and allow them to interact with each other. The name Weverse is derived from the words “we” and “universe”, representing the idea of creating a universe where fans and artists can come together. |
+| 32 | [Jack White](http://twitter.com/search?q=Jack+White) | N/A |
+| 33 | [Ivy Park](http://twitter.com/search?q=Ivy+Park) | N/A |
+| 34 | [Cartel](http://twitter.com/search?q=Cartel) | N/A |
+| 35 | [Tinubu](http://twitter.com/search?q=Tinubu) | N/A |
+| 36 | [Hitman](http://twitter.com/search?q=Hitman) | N/A |
+| 37 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
+| 38 | [Matias](http://twitter.com/search?q=Matias) | N/A |
+| 39 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
+| 40 | [NAACP](http://twitter.com/search?q=NAACP) | N/A |
+| 41 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
+| 42 | [Maxey](http://twitter.com/search?q=Maxey) | Maxey is a surname of English origin. It is derived from the Old English personal name Maccus, which was a diminutive form of Matthew. The meaning of Maxey in English is "son of Maccus". |
+| 43 | [Ponce](http://twitter.com/search?q=Ponce) | N/A |
+| 44 | [Linus Ullmark](http://twitter.com/search?q=Linus+Ullmark) | N/A |
+| 45 | [Doc Rivers](http://twitter.com/search?q=Doc+Rivers) | N/A |
+| 46 | [Al Horford](http://twitter.com/search?q=Al+Horford) | Al Horford is a professional basketball player from the Dominican Republic who currently plays for the Philadelphia 76ers of the National Basketball Association (NBA). He is a four-time NBA All-Star and has won two NBA championships with the Boston Celtics. The meaning of Al Horford in English is "a talented basketball player". |
+| 47 | [#GIFT_tokyodome](http://twitter.com/search?q=%23GIFT_tokyodome) | N/A |
+| 48 | [#SundayMotivation](http://twitter.com/search?q=%23SundayMotivation) | N/A |
+| 49 | [#TotChe](http://twitter.com/search?q=%23TotChe) | N/A |
+| 50 | [#ShakespeareSunday](http://twitter.com/search?q=%23ShakespeareSunday) | N/A |
 
 
 

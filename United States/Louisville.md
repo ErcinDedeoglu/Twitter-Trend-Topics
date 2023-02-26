@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Louisville
 
-📆 Last Updated: `2023-02-26 12:18:42 UTC`
+📆 Last Updated: `2023-02-26 13:20:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,49 +17,47 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [#iubb](http://twitter.com/search?q=%23iubb) | #iubb is an abbreviation for Indiana University Bloomington, which is a public research university located in Bloomington, Indiana. |
 | 2 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
-| 3 | [pat adams](http://twitter.com/search?q=pat+adams) | N/A |
-| 4 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
-| 5 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 6 | [Good Sunday](http://twitter.com/search?q=Good+Sunday) | Good Sunday is a South Korean variety show that aired on SBS from 2005 to 2011. It was a popular variety show that featured celebrity guests, games, and performances. The show's name comes from the fact that it aired on Sundays, which is traditionally considered a day of rest and relaxation in South Korea. In English, Good Sunday means a day of rest and relaxation. |
-| 7 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
-| 8 | [Woody](http://twitter.com/search?q=Woody) | Woody is a slang term used to describe someone who is strong, tough, and determined. It can also be used to describe someone who is stubborn and unyielding. |
-| 9 | [#GIFT_tokyodome](http://twitter.com/search?q=%23GIFT_tokyodome) | N/A |
-| 10 | [FOREVER YOURS BUILD](http://twitter.com/search?q=FOREVER+YOURS+BUILD) | N/A |
-| 11 | [#Wordle617](http://twitter.com/search?q=%23Wordle617) | N/A |
-| 12 | [jhope](http://twitter.com/search?q=jhope) | N/A |
-| 13 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 14 | [2seok](http://twitter.com/search?q=2seok) | N/A |
-| 15 | [Paul Ryan](http://twitter.com/search?q=Paul+Ryan) | Paul Ryan is the name of an American politician who served as the 54th Speaker of the United States House of Representatives from October 2015 to January 2019. He is a member of the Republican Party and was previously the Vice Presidential nominee for the 2012 election. The meaning of his name in English is "little king". |
-| 16 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
-| 17 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
-| 18 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 19 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
-| 20 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 21 | [Yuzu](http://twitter.com/search?q=Yuzu) | N/A |
-| 22 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
-| 23 | [Jack White](http://twitter.com/search?q=Jack+White) | N/A |
-| 24 | [INEC](http://twitter.com/search?q=INEC) | N/A |
-| 25 | [Weverse](http://twitter.com/search?q=Weverse) | Weverse is a social media platform created by the South Korean entertainment company Big Hit Entertainment. It is designed to connect fans with artists and allow them to interact with each other. The name Weverse is derived from the words “we” and “universe”, representing the idea of creating a universe where fans and artists can come together. |
-| 26 | [Yoruba](http://twitter.com/search?q=Yoruba) | N/A |
-| 27 | [Eazy](http://twitter.com/search?q=Eazy) | N/A |
+| 3 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 4 | [Good Sunday](http://twitter.com/search?q=Good+Sunday) | Good Sunday is a South Korean variety show that aired on SBS from 2005 to 2011. It was a popular variety show that featured celebrity guests, games, and performances. The show's name comes from the fact that it aired on Sundays, which is traditionally considered a day of rest and relaxation in South Korea. In English, Good Sunday means a day of rest and relaxation. |
+| 5 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
+| 6 | [Woody](http://twitter.com/search?q=Woody) | Woody is a slang term used to describe someone who is strong, tough, and determined. It can also be used to describe someone who is stubborn and unyielding. |
+| 7 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
+| 8 | [#ManlyRomanticGestures](http://twitter.com/search?q=%23ManlyRomanticGestures) | N/A |
+| 9 | [#Wordle617](http://twitter.com/search?q=%23Wordle617) | N/A |
+| 10 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
+| 11 | [Paul Ryan](http://twitter.com/search?q=Paul+Ryan) | Paul Ryan is the name of an American politician who served as the 54th Speaker of the United States House of Representatives from October 2015 to January 2019. He is a member of the Republican Party and was previously the Vice Presidential nominee for the 2012 election. The meaning of his name in English is "little king". |
+| 12 | [Daily Quordle 398](http://twitter.com/search?q=Daily+Quordle+398) | N/A |
+| 13 | [FOREVER YOURS BUILD](http://twitter.com/search?q=FOREVER+YOURS+BUILD) | N/A |
+| 14 | [jhope](http://twitter.com/search?q=jhope) | N/A |
+| 15 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 16 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
+| 17 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
+| 18 | [2seok](http://twitter.com/search?q=2seok) | N/A |
+| 19 | [INEC](http://twitter.com/search?q=INEC) | N/A |
+| 20 | [Scott Adams](http://twitter.com/search?q=Scott+Adams) | N/A |
+| 21 | [RINO](http://twitter.com/search?q=RINO) | RINO stands for "Republican In Name Only," and it is a term used to describe a Republican politician who is perceived as not adhering to the party's traditional values or platform. |
+| 22 | [Yuzu](http://twitter.com/search?q=Yuzu) | N/A |
+| 23 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
+| 24 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 25 | [Yoruba](http://twitter.com/search?q=Yoruba) | N/A |
+| 26 | [Eazy](http://twitter.com/search?q=Eazy) | N/A |
+| 27 | [Witchcraft](http://twitter.com/search?q=Witchcraft) | N/A |
 | 28 | [BIGHIT](http://twitter.com/search?q=BIGHIT) | N/A |
-| 29 | [Witchcraft](http://twitter.com/search?q=Witchcraft) | N/A |
-| 30 | [Al Horford](http://twitter.com/search?q=Al+Horford) | Al Horford is a professional basketball player from the Dominican Republic who currently plays for the Philadelphia 76ers of the National Basketball Association (NBA). He is a four-time NBA All-Star and has won two NBA championships with the Boston Celtics. The meaning of Al Horford in English is "a talented basketball player". |
-| 31 | [Matias](http://twitter.com/search?q=Matias) | N/A |
-| 32 | [Olive Garden](http://twitter.com/search?q=Olive+Garden) | N/A |
-| 33 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
+| 29 | [Weverse](http://twitter.com/search?q=Weverse) | Weverse is a social media platform created by the South Korean entertainment company Big Hit Entertainment. It is designed to connect fans with artists and allow them to interact with each other. The name Weverse is derived from the words “we” and “universe”, representing the idea of creating a universe where fans and artists can come together. |
+| 30 | [Jack White](http://twitter.com/search?q=Jack+White) | N/A |
+| 31 | [Ivy Park](http://twitter.com/search?q=Ivy+Park) | N/A |
+| 32 | [Cartel](http://twitter.com/search?q=Cartel) | N/A |
+| 33 | [Tinubu](http://twitter.com/search?q=Tinubu) | N/A |
 | 34 | [Hitman](http://twitter.com/search?q=Hitman) | N/A |
-| 35 | [maxey](http://twitter.com/search?q=maxey) | N/A |
-| 36 | [Cartel](http://twitter.com/search?q=Cartel) | N/A |
-| 37 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
-| 38 | [Mike Breen](http://twitter.com/search?q=Mike+Breen) | N/A |
-| 39 | [Linus Ullmark](http://twitter.com/search?q=Linus+Ullmark) | N/A |
-| 40 | [Doc Rivers](http://twitter.com/search?q=Doc+Rivers) | N/A |
-| 41 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
-| 42 | [Red Lobster](http://twitter.com/search?q=Red+Lobster) | N/A |
-| 43 | [Karina](http://twitter.com/search?q=Karina) | N/A |
-| 44 | [Sharks](http://twitter.com/search?q=Sharks) | N/A |
-| 45 | [The Strays](http://twitter.com/search?q=The+Strays) | N/A |
+| 35 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
+| 36 | [Matias](http://twitter.com/search?q=Matias) | N/A |
+| 37 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
+| 38 | [NAACP](http://twitter.com/search?q=NAACP) | N/A |
+| 39 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
+| 40 | [Maxey](http://twitter.com/search?q=Maxey) | Maxey is a surname of English origin. It is derived from the Old English personal name Maccus, which was a diminutive form of Matthew. The meaning of Maxey in English is "son of Maccus". |
+| 41 | [Ponce](http://twitter.com/search?q=Ponce) | N/A |
+| 42 | [Linus Ullmark](http://twitter.com/search?q=Linus+Ullmark) | N/A |
+| 43 | [Doc Rivers](http://twitter.com/search?q=Doc+Rivers) | N/A |
 
 
 

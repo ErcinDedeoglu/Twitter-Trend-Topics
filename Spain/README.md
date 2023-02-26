@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Spain
 
-📆 Last Updated: `2023-02-26 12:18:57 UTC`
+📆 Last Updated: `2023-02-26 13:20:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,49 +22,49 @@ This is top 50 for Spain
 | 5 | [#RealMadridAtleti](http://twitter.com/search?q=%23RealMadridAtleti) | N/A |
 | 6 | [Reinildo](http://twitter.com/search?q=Reinildo) | N/A |
 | 7 | [#APOYOROCIO26F](http://twitter.com/search?q=%23APOYOROCIO26F) | N/A |
-| 8 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 9 | [Elche](http://twitter.com/search?q=Elche) | Elche is a city in the Valencian Community of Spain. It is located in the province of Alicante, on the Costa Blanca. The name Elche comes from the Arabic term al-xarq, meaning "the wall". In English, Elche can be translated to mean "the walled city". |
-| 10 | [#UMK23](http://twitter.com/search?q=%23UMK23) | N/A |
-| 11 | [Loreen](http://twitter.com/search?q=Loreen) | N/A |
-| 12 | [Rudiger](http://twitter.com/search?q=Rudiger) | Rudiger is a German name derived from the Germanic elements hrod, meaning "fame," and ger, meaning "spear." It is a masculine name that can also be spelled Rudiger or Rudigar. In English, it means "famous spear." |
-| 13 | [Bernabéu](http://twitter.com/search?q=Bernab%c3%a9u) | Bernabéu is the name of the home stadium of Spanish football club Real Madrid. It is officially known as Estadio Santiago Bernabéu, named after the former club president Santiago Bernabéu. In English, it is referred to as the Santiago Bernabéu Stadium. |
-| 14 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
-| 15 | [#solos25f](http://twitter.com/search?q=%23solos25f) | N/A |
+| 8 | [#AthleticGirona](http://twitter.com/search?q=%23AthleticGirona) | N/A |
+| 9 | [Loreen](http://twitter.com/search?q=Loreen) | N/A |
+| 10 | [Rudiger](http://twitter.com/search?q=Rudiger) | Rudiger is a German name derived from the Germanic elements hrod, meaning "fame," and ger, meaning "spear." It is a masculine name that can also be spelled Rudiger or Rudigar. In English, it means "famous spear." |
+| 11 | [Elche](http://twitter.com/search?q=Elche) | Elche is a city in the Valencian Community of Spain. It is located in the province of Alicante, on the Costa Blanca. The name Elche comes from the Arabic term al-xarq, meaning "the wall". In English, Elche can be translated to mean "the walled city". |
+| 12 | [#UMK23](http://twitter.com/search?q=%23UMK23) | N/A |
+| 13 | [Aleix García](http://twitter.com/search?q=Aleix+Garc%c3%ada) | N/A |
+| 14 | [Bernabéu](http://twitter.com/search?q=Bernab%c3%a9u) | Bernabéu is the name of the home stadium of Spanish football club Real Madrid. It is officially known as Estadio Santiago Bernabéu, named after the former club president Santiago Bernabéu. In English, it is referred to as the Santiago Bernabéu Stadium. |
+| 15 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
 | 16 | [Morata](http://twitter.com/search?q=Morata) | Morata is a Spanish surname. It is derived from the Latin word "moratus" which means "delay". In English, it can be translated to mean "delayed". |
-| 17 | [Falcon](http://twitter.com/search?q=Falcon) | N/A |
-| 18 | [Miranda](http://twitter.com/search?q=Miranda) | Miranda is a female given name of Latin origin, derived from the word "mirandus" meaning "admirable" or "wonderful". It is also associated with the phrase "miranda rights", which are rights read to criminal suspects in the United States during an arrest. |
-| 19 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 20 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 21 | [Nico Williams](http://twitter.com/search?q=Nico+Williams) | N/A |
-| 22 | [Hugo Duro](http://twitter.com/search?q=Hugo+Duro) | N/A |
-| 23 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
-| 24 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
-| 25 | [Álvaro Rodríguez](http://twitter.com/search?q=%c3%81lvaro+Rodr%c3%adguez) | N/A |
-| 26 | [lobi](http://twitter.com/search?q=lobi) | N/A |
-| 27 | [PSOE](http://twitter.com/search?q=PSOE) | N/A |
-| 28 | [Leguina](http://twitter.com/search?q=Leguina) | N/A |
-| 29 | [Mestalla](http://twitter.com/search?q=Mestalla) | Mestalla is the name of the home stadium of Valencia CF, a Spanish football club. The word Mestalla is derived from the Latin word matella, which means "fortress". In English, it can be translated to mean "fortress stadium". |
-| 30 | [Iturralde](http://twitter.com/search?q=Iturralde) | N/A |
-| 31 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
+| 17 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 18 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 19 | [Miranda](http://twitter.com/search?q=Miranda) | Miranda is a female given name of Latin origin, derived from the word "mirandus" meaning "admirable" or "wonderful". It is also associated with the phrase "miranda rights", which are rights read to criminal suspects in the United States during an arrest. |
+| 20 | [Falcon](http://twitter.com/search?q=Falcon) | N/A |
+| 21 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 22 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 23 | [Hugo Duro](http://twitter.com/search?q=Hugo+Duro) | N/A |
+| 24 | [San Mamés](http://twitter.com/search?q=San+Mam%c3%a9s) | San Mamés is the name of a football stadium in Bilbao, Spain. It is the home stadium of Athletic Bilbao, a Spanish football club. The name San Mamés comes from a local saint, Saint Mammes of Caesarea, who was martyred in the 3rd century AD. In English, San Mamés translates to "Saint Mammes". |
+| 25 | [lobi](http://twitter.com/search?q=lobi) | N/A |
+| 26 | [Adam Yates](http://twitter.com/search?q=Adam+Yates) | N/A |
+| 27 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
+| 28 | [Nico Williams](http://twitter.com/search?q=Nico+Williams) | N/A |
+| 29 | [Álvaro Rodríguez](http://twitter.com/search?q=%c3%81lvaro+Rodr%c3%adguez) | N/A |
+| 30 | [Leguina](http://twitter.com/search?q=Leguina) | N/A |
+| 31 | [Finlandia](http://twitter.com/search?q=Finlandia) | N/A |
 | 32 | [Sofía Otero](http://twitter.com/search?q=Sof%c3%ada+Otero) | N/A |
-| 33 | [Finlandia](http://twitter.com/search?q=Finlandia) | N/A |
-| 34 | [Mt 4](http://twitter.com/search?q=Mt+4) | N/A |
-| 35 | [Giménez](http://twitter.com/search?q=Gim%c3%a9nez) | N/A |
-| 36 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 37 | [Cholo](http://twitter.com/search?q=Cholo) | Cholo is a term used to refer to a person of mixed Indigenous and Mexican heritage. It is often used as a derogatory term, but it can also be used as an identifier for people of this background. In English, the term can be translated to mean "mixed-race person". |
-| 38 | [Saúl](http://twitter.com/search?q=Sa%c3%bal) | Saúl is a Spanish name derived from the Hebrew name Saul, which means "asked for". In English, it is usually spelled Saul. |
-| 39 | [Pipo](http://twitter.com/search?q=Pipo) | N/A |
+| 33 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
+| 34 | [Vetusta](http://twitter.com/search?q=Vetusta) | N/A |
+| 35 | [Mestalla](http://twitter.com/search?q=Mestalla) | Mestalla is the name of the home stadium of Valencia CF, a Spanish football club. The word Mestalla is derived from the Latin word matella, which means "fortress". In English, it can be translated to mean "fortress stadium". |
+| 36 | [Iturralde](http://twitter.com/search?q=Iturralde) | N/A |
+| 37 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 38 | [PSOE](http://twitter.com/search?q=PSOE) | N/A |
+| 39 | [Cholo](http://twitter.com/search?q=Cholo) | Cholo is a term used to refer to a person of mixed Indigenous and Mexican heritage. It is often used as a derogatory term, but it can also be used as an identifier for people of this background. In English, the term can be translated to mean "mixed-race person". |
 | 40 | [Codazo](http://twitter.com/search?q=Codazo) | N/A |
-| 41 | [Alfa Romeo](http://twitter.com/search?q=Alfa+Romeo) | N/A |
-| 42 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 43 | [ana baneira](http://twitter.com/search?q=ana+baneira) | N/A |
-| 44 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
+| 41 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 42 | [Mediador](http://twitter.com/search?q=Mediador) | N/A |
+| 43 | [Giménez](http://twitter.com/search?q=Gim%c3%a9nez) | N/A |
+| 44 | [Pipo](http://twitter.com/search?q=Pipo) | N/A |
 | 45 | [san carlos del valle](http://twitter.com/search?q=san+carlos+del+valle) | N/A |
-| 46 | [Jacobo Ostos](http://twitter.com/search?q=Jacobo+Ostos) | N/A |
-| 47 | [Mediador](http://twitter.com/search?q=Mediador) | N/A |
-| 48 | [Marburgo](http://twitter.com/search?q=Marburgo) | N/A |
-| 49 | [Buen Domingo](http://twitter.com/search?q=Buen+Domingo) | N/A |
-| 50 | [Benjamin](http://twitter.com/search?q=Benjamin) | N/A |
+| 46 | [Saúl](http://twitter.com/search?q=Sa%c3%bal) | Saúl is a Spanish name derived from the Hebrew name Saul, which means "asked for". In English, it is usually spelled Saul. |
+| 47 | [Jacobo Ostos](http://twitter.com/search?q=Jacobo+Ostos) | N/A |
+| 48 | [Alfa Romeo](http://twitter.com/search?q=Alfa+Romeo) | N/A |
+| 49 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 50 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Warsaw
 
-📆 Last Updated: `2023-02-26 12:18:01 UTC`
+📆 Last Updated: `2023-02-26 13:19:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Poland](</Poland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#krwawaropa](http://twitter.com/search?q=%23krwawaropa) | N/A |
-| 2 | [#skijumpingfamily](http://twitter.com/search?q=%23skijumpingfamily) | N/A |
-| 3 | [#Woronicza17](http://twitter.com/search?q=%23Woronicza17) | N/A |
-| 4 | [#TheVoiceKids](http://twitter.com/search?q=%23TheVoiceKids) | N/A |
-| 5 | [Orlen](http://twitter.com/search?q=Orlen) | N/A |
-| 6 | [Piotr Żyła](http://twitter.com/search?q=Piotr+%c5%bby%c5%82a) | N/A |
-| 7 | [#t5m2](http://twitter.com/search?q=%23t5m2) | N/A |
-| 8 | [Kropiwnicki](http://twitter.com/search?q=Kropiwnicki) | N/A |
+| 1 | [#skijumpingfamily](http://twitter.com/search?q=%23skijumpingfamily) | N/A |
+| 2 | [#krwawaropa](http://twitter.com/search?q=%23krwawaropa) | N/A |
+| 3 | [#TheVoiceKids](http://twitter.com/search?q=%23TheVoiceKids) | N/A |
+| 4 | [Orlen](http://twitter.com/search?q=Orlen) | N/A |
+| 5 | [#t5m2](http://twitter.com/search?q=%23t5m2) | N/A |
+| 6 | [#Woronicza17](http://twitter.com/search?q=%23Woronicza17) | N/A |
+| 7 | [Piotr Żyła](http://twitter.com/search?q=Piotr+%c5%bby%c5%82a) | N/A |
+| 8 | [Mvondo](http://twitter.com/search?q=Mvondo) | N/A |
 | 9 | [Obajtek](http://twitter.com/search?q=Obajtek) | N/A |
-| 10 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 11 | [Kliczko](http://twitter.com/search?q=Kliczko) | N/A |
-| 12 | [Ukrainie](http://twitter.com/search?q=Ukrainie) | N/A |
-| 13 | [Miłej](http://twitter.com/search?q=Mi%c5%82ej) | N/A |
-| 14 | [Lotos](http://twitter.com/search?q=Lotos) | N/A |
-| 15 | [z 13](http://twitter.com/search?q=z+13) | N/A |
-| 16 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
-| 17 | [Piotrka](http://twitter.com/search?q=Piotrka) | N/A |
-| 18 | [Łukaszenka](http://twitter.com/search?q=%c5%81ukaszenka) | N/A |
-| 19 | [Fogiel](http://twitter.com/search?q=Fogiel) | N/A |
-| 20 | [Przyjaźń](http://twitter.com/search?q=Przyja%c5%ba%c5%84) | N/A |
-| 21 | [Seefeld](http://twitter.com/search?q=Seefeld) | N/A |
-| 22 | [Pani Marto](http://twitter.com/search?q=Pani+Marto) | N/A |
-| 23 | [Kraft](http://twitter.com/search?q=Kraft) | N/A |
-| 24 | [resovia](http://twitter.com/search?q=resovia) | N/A |
-| 25 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 26 | [paweł wąsek](http://twitter.com/search?q=pawe%c5%82+w%c4%85sek) | N/A |
-| 27 | [Błogosławionej](http://twitter.com/search?q=B%c5%82ogos%c5%82awionej) | N/A |
+| 10 | [Kropiwnicki](http://twitter.com/search?q=Kropiwnicki) | N/A |
+| 11 | [Ukrainie](http://twitter.com/search?q=Ukrainie) | N/A |
+| 12 | [Kliczko](http://twitter.com/search?q=Kliczko) | N/A |
+| 13 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 14 | [z 13](http://twitter.com/search?q=z+13) | N/A |
+| 15 | [Lotos](http://twitter.com/search?q=Lotos) | N/A |
+| 16 | [Seefeld](http://twitter.com/search?q=Seefeld) | N/A |
+| 17 | [Przyjaźń](http://twitter.com/search?q=Przyja%c5%ba%c5%84) | N/A |
+| 18 | [Piotrka](http://twitter.com/search?q=Piotrka) | N/A |
+| 19 | [resovia](http://twitter.com/search?q=resovia) | N/A |
+| 20 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 21 | [Kraft](http://twitter.com/search?q=Kraft) | N/A |
+| 22 | [paweł wąsek](http://twitter.com/search?q=pawe%c5%82+w%c4%85sek) | N/A |
+| 23 | [Jankowski](http://twitter.com/search?q=Jankowski) | N/A |
+| 24 | [Pani Marto](http://twitter.com/search?q=Pani+Marto) | N/A |
+| 25 | [De Fries](http://twitter.com/search?q=De+Fries) | N/A |
+| 26 | [Górnika](http://twitter.com/search?q=G%c3%b3rnika) | N/A |
+| 27 | [dawid kubacki](http://twitter.com/search?q=dawid+kubacki) | N/A |
 | 28 | [Niedzieli](http://twitter.com/search?q=Niedzieli) | N/A |
-| 29 | [Stal](http://twitter.com/search?q=Stal) | N/A |
-| 30 | [De Fries](http://twitter.com/search?q=De+Fries) | N/A |
-| 31 | [Bury](http://twitter.com/search?q=Bury) | N/A |
-| 32 | [dawid kubacki](http://twitter.com/search?q=dawid+kubacki) | N/A |
-| 33 | [Jankowski](http://twitter.com/search?q=Jankowski) | N/A |
-| 34 | [Niemcom](http://twitter.com/search?q=Niemcom) | N/A |
-| 35 | [Granerud](http://twitter.com/search?q=Granerud) | N/A |
-| 36 | [Alvaro](http://twitter.com/search?q=Alvaro) | N/A |
-| 37 | [Kamil Stoch](http://twitter.com/search?q=Kamil+Stoch) | N/A |
-| 38 | [Mt 4](http://twitter.com/search?q=Mt+4) | N/A |
-| 39 | [Mazurek Dąbrowskiego](http://twitter.com/search?q=Mazurek+D%c4%85browskiego) | N/A |
-| 40 | [bronder](http://twitter.com/search?q=bronder) | N/A |
-| 41 | [Mateusz Klich](http://twitter.com/search?q=Mateusz+Klich) | N/A |
-| 42 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
-| 43 | [Burego](http://twitter.com/search?q=Burego) | N/A |
-| 44 | [żyłę](http://twitter.com/search?q=%c5%bcy%c5%82%c4%99) | N/A |
-| 45 | [Michalik](http://twitter.com/search?q=Michalik) | N/A |
-| 46 | [Ukraińców](http://twitter.com/search?q=Ukrai%c5%84c%c3%b3w) | N/A |
-| 47 | [Pięknej](http://twitter.com/search?q=Pi%c4%99knej) | N/A |
-| 48 | [Rosji](http://twitter.com/search?q=Rosji) | N/A |
-| 49 | [Zaksa](http://twitter.com/search?q=Zaksa) | N/A |
-| 50 | [Leopardy](http://twitter.com/search?q=Leopardy) | N/A |
+| 29 | [Bury](http://twitter.com/search?q=Bury) | N/A |
+| 30 | [Niemcom](http://twitter.com/search?q=Niemcom) | N/A |
+| 31 | [Granerud](http://twitter.com/search?q=Granerud) | N/A |
+| 32 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 33 | [Miłej](http://twitter.com/search?q=Mi%c5%82ej) | N/A |
+| 34 | [Alvaro](http://twitter.com/search?q=Alvaro) | N/A |
+| 35 | [Kamil Stoch](http://twitter.com/search?q=Kamil+Stoch) | N/A |
+| 36 | [Mt 4](http://twitter.com/search?q=Mt+4) | N/A |
+| 37 | [Rasak](http://twitter.com/search?q=Rasak) | N/A |
+| 38 | [Mazurek Dąbrowskiego](http://twitter.com/search?q=Mazurek+D%c4%85browskiego) | N/A |
+| 39 | [Błogosławionej](http://twitter.com/search?q=B%c5%82ogos%c5%82awionej) | N/A |
+| 40 | [Stankiewicz](http://twitter.com/search?q=Stankiewicz) | N/A |
+| 41 | [bronder](http://twitter.com/search?q=bronder) | N/A |
+| 42 | [Michalik](http://twitter.com/search?q=Michalik) | N/A |
+| 43 | [Mateusz Klich](http://twitter.com/search?q=Mateusz+Klich) | N/A |
+| 44 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
+| 45 | [Stali](http://twitter.com/search?q=Stali) | N/A |
+| 46 | [placki](http://twitter.com/search?q=placki) | N/A |
+| 47 | [żyłę](http://twitter.com/search?q=%c5%bcy%c5%82%c4%99) | N/A |
+| 48 | [Pięknej](http://twitter.com/search?q=Pi%c4%99knej) | N/A |
+| 49 | [Burego](http://twitter.com/search?q=Burego) | N/A |
+| 50 | [Łukaszenka](http://twitter.com/search?q=%c5%81ukaszenka) | N/A |
 
 
 

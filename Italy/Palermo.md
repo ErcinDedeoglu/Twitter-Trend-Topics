@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palermo
 
-📆 Last Updated: `2023-02-26 12:18:07 UTC`
+📆 Last Updated: `2023-02-26 13:19:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,46 @@ This is top 50 for [Italy](</Italy>)
 | 1 | [#BolognaInter](http://twitter.com/search?q=%23BolognaInter) | N/A |
 | 2 | [#naufragio](http://twitter.com/search?q=%23naufragio) | N/A |
 | 3 | [#Crotone](http://twitter.com/search?q=%23Crotone) | N/A |
-| 4 | [#UnaVocePerSanMarino](http://twitter.com/search?q=%23UnaVocePerSanMarino) | N/A |
-| 5 | [#EmpoliNapoli](http://twitter.com/search?q=%23EmpoliNapoli) | N/A |
-| 6 | [Buona Domenica](http://twitter.com/search?q=Buona+Domenica) | Buona Domenica is an Italian phrase that translates to "Good Sunday" in English. It is a common greeting used to wish someone a pleasant Sunday. |
+| 4 | [Ambrosio](http://twitter.com/search?q=Ambrosio) | N/A |
+| 5 | [#migranti](http://twitter.com/search?q=%23migranti) | N/A |
+| 6 | [Dumfries](http://twitter.com/search?q=Dumfries) | N/A |
 | 7 | [Orsato](http://twitter.com/search?q=Orsato) | N/A |
-| 8 | [Curzio Maltese](http://twitter.com/search?q=Curzio+Maltese) | N/A |
-| 9 | [Dominguez](http://twitter.com/search?q=Dominguez) | N/A |
-| 10 | [Barrow](http://twitter.com/search?q=Barrow) | N/A |
-| 11 | [Mario Rui](http://twitter.com/search?q=Mario+Rui) | N/A |
-| 12 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 13 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 8 | [Orsolini](http://twitter.com/search?q=Orsolini) | N/A |
+| 9 | [Barella](http://twitter.com/search?q=Barella) | Barella is an Italian word meaning "little bar". It is often used to refer to a small, informal bar or cafe. |
+| 10 | [De Vrij](http://twitter.com/search?q=De+Vrij) | N/A |
+| 11 | [Buona Domenica](http://twitter.com/search?q=Buona+Domenica) | Buona Domenica is an Italian phrase that translates to "Good Sunday" in English. It is a common greeting used to wish someone a pleasant Sunday. |
+| 12 | [Thiago Motta](http://twitter.com/search?q=Thiago+Motta) | N/A |
+| 13 | [Gosens](http://twitter.com/search?q=Gosens) | N/A |
 | 14 | [Chri](http://twitter.com/search?q=Chri) | N/A |
-| 15 | [Dumfries](http://twitter.com/search?q=Dumfries) | N/A |
-| 16 | [Murgia](http://twitter.com/search?q=Murgia) | Murgia is a geographical region in southern Italy, located in the provinces of Bari and Taranto. It is characterized by its limestone hills, deep ravines, and caves. The name Murgia comes from the Latin word murex, meaning "rocky hill". In English, Murgia can be translated as "rocky land". |
-| 17 | [Thiago Motta](http://twitter.com/search?q=Thiago+Motta) | N/A |
-| 18 | [Agnelli](http://twitter.com/search?q=Agnelli) | N/A |
-| 19 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
-| 20 | [Al Bano](http://twitter.com/search?q=Al+Bano) | N/A |
-| 21 | [Ucraina](http://twitter.com/search?q=Ucraina) | N/A |
-| 22 | [Criminale](http://twitter.com/search?q=Criminale) | N/A |
-| 23 | [Travaglio](http://twitter.com/search?q=Travaglio) | N/A |
-| 24 | [Darmian](http://twitter.com/search?q=Darmian) | Darmian is a surname of Italian origin. It is derived from the Latin word "darmius" which means "protector". In English, it can be translated to mean "protector" or "guardian". |
-| 25 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
-| 26 | [Grattugia](http://twitter.com/search?q=Grattugia) | N/A |
-| 27 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 28 | [Jonathan](http://twitter.com/search?q=Jonathan) | N/A |
-| 29 | [Barella](http://twitter.com/search?q=Barella) | Barella is an Italian word meaning "little bar". It is often used to refer to a small, informal bar or cafe. |
-| 30 | [Radu](http://twitter.com/search?q=Radu) | N/A |
-| 31 | [Jensen](http://twitter.com/search?q=Jensen) | N/A |
-| 32 | [Dall'Ara](http://twitter.com/search?q=Dall%27Ara) | N/A |
-| 33 | [Heineken](http://twitter.com/search?q=Heineken) | N/A |
-| 34 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
-| 35 | [Costituzione](http://twitter.com/search?q=Costituzione) | N/A |
-| 36 | [buon sabato](http://twitter.com/search?q=buon+sabato) | N/A |
-| 37 | [Mkhitaryan](http://twitter.com/search?q=Mkhitaryan) | N/A |
-| 38 | [Landini](http://twitter.com/search?q=Landini) | N/A |
-| 39 | [Libia](http://twitter.com/search?q=Libia) | N/A |
-| 40 | [Cina](http://twitter.com/search?q=Cina) | N/A |
-| 41 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 42 | [licitra](http://twitter.com/search?q=licitra) | N/A |
-| 43 | [Ingroia](http://twitter.com/search?q=Ingroia) | N/A |
-| 44 | [Jared](http://twitter.com/search?q=Jared) | N/A |
-| 45 | [Capezzone](http://twitter.com/search?q=Capezzone) | N/A |
-| 46 | [Mediterraneo](http://twitter.com/search?q=Mediterraneo) | N/A |
-| 47 | [Ivan Capelli](http://twitter.com/search?q=Ivan+Capelli) | N/A |
-| 48 | [Davide](http://twitter.com/search?q=Davide) | N/A |
-| 49 | [Asllani](http://twitter.com/search?q=Asllani) | N/A |
-| 50 | [Ichnusa](http://twitter.com/search?q=Ichnusa) | N/A |
+| 15 | [Libia](http://twitter.com/search?q=Libia) | N/A |
+| 16 | [Mediterraneo](http://twitter.com/search?q=Mediterraneo) | N/A |
+| 17 | [Darmian](http://twitter.com/search?q=Darmian) | Darmian is a surname of Italian origin. It is derived from the Latin word "darmius" which means "protector". In English, it can be translated to mean "protector" or "guardian". |
+| 18 | [Criminale](http://twitter.com/search?q=Criminale) | N/A |
+| 19 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 20 | [Maria De Filippi](http://twitter.com/search?q=Maria+De+Filippi) | N/A |
+| 21 | [Gazzetta](http://twitter.com/search?q=Gazzetta) | N/A |
+| 22 | [Trento](http://twitter.com/search?q=Trento) | N/A |
+| 23 | [Bersani](http://twitter.com/search?q=Bersani) | N/A |
+| 24 | [Zhang](http://twitter.com/search?q=Zhang) | N/A |
+| 25 | [Grillo](http://twitter.com/search?q=Grillo) | N/A |
+| 26 | [#primariepd2023](http://twitter.com/search?q=%23primariepd2023) | N/A |
+| 27 | [#CurzioMaltese](http://twitter.com/search?q=%23CurzioMaltese) | N/A |
+| 28 | [#26febbraio](http://twitter.com/search?q=%2326febbraio) | N/A |
+| 29 | [#Calabria](http://twitter.com/search?q=%23Calabria) | N/A |
+| 30 | [#Cutro](http://twitter.com/search?q=%23Cutro) | N/A |
+| 31 | [#Piantedosi](http://twitter.com/search?q=%23Piantedosi) | N/A |
+| 32 | [#CransMontana](http://twitter.com/search?q=%23CransMontana) | N/A |
+| 33 | [#EllySchlein](http://twitter.com/search?q=%23EllySchlein) | N/A |
+| 34 | [#Bonaccini](http://twitter.com/search?q=%23Bonaccini) | N/A |
+| 35 | [#HappyBdayLuigi](http://twitter.com/search?q=%23HappyBdayLuigi) | N/A |
+| 36 | [#StorieDiSguardi](http://twitter.com/search?q=%23StorieDiSguardi) | N/A |
+| 37 | [#RaccontoLaVita](http://twitter.com/search?q=%23RaccontoLaVita) | N/A |
+| 38 | [#twittamibeautiful](http://twitter.com/search?q=%23twittamibeautiful) | N/A |
+| 39 | [#GIFT_tokyodome](http://twitter.com/search?q=%23GIFT_tokyodome) | N/A |
+| 40 | [#MilanAtalanta](http://twitter.com/search?q=%23MilanAtalanta) | N/A |
+| 41 | [#Quaresima](http://twitter.com/search?q=%23Quaresima) | N/A |
+| 42 | [#luigistrangis](http://twitter.com/search?q=%23luigistrangis) | N/A |
+| 43 | [#Eurovision](http://twitter.com/search?q=%23Eurovision) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hai Phong
 
-📆 Last Updated: `2023-02-26 12:18:22 UTC`
+📆 Last Updated: `2023-02-26 13:19:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,49 +19,50 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 2 | [FOREVER YOURS BUILD](http://twitter.com/search?q=FOREVER+YOURS+BUILD) | N/A |
 | 3 | [#deriturns2](http://twitter.com/search?q=%23deriturns2) | N/A |
 | 4 | [#RMxBOTTEGAVENETA](http://twitter.com/search?q=%23RMxBOTTEGAVENETA) | N/A |
-| 5 | [#TheEndofKinnPorsche](http://twitter.com/search?q=%23TheEndofKinnPorsche) | N/A |
-| 6 | [#BiuTheBluePrince](http://twitter.com/search?q=%23BiuTheBluePrince) | N/A |
-| 7 | [synk with aespa day1](http://twitter.com/search?q=synk+with+aespa+day1) | N/A |
-| 8 | [WE LOVE OUR BLUE](http://twitter.com/search?q=WE+LOVE+OUR+BLUE) | N/A |
-| 9 | [nnine special stage](http://twitter.com/search?q=nnine+special+stage) | N/A |
-| 10 | [Beanz](http://twitter.com/search?q=Beanz) | N/A |
-| 11 | [RMILAN FASHION WEEK](http://twitter.com/search?q=RMILAN+FASHION+WEEK) | N/A |
-| 12 | [engfa waraha](http://twitter.com/search?q=engfa+waraha) | N/A |
-| 13 | [Yuehua](http://twitter.com/search?q=Yuehua) | N/A |
-| 14 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 15 | [Twitch](http://twitter.com/search?q=Twitch) | N/A |
-| 16 | [better treatment for irene](http://twitter.com/search?q=better+treatment+for+irene) | N/A |
-| 17 | [welcome to paris xin](http://twitter.com/search?q=welcome+to+paris+xin) | N/A |
+| 5 | [#BiuTheBluePrince](http://twitter.com/search?q=%23BiuTheBluePrince) | N/A |
+| 6 | [synk with aespa day1](http://twitter.com/search?q=synk+with+aespa+day1) | N/A |
+| 7 | [WE LOVE OUR BLUE](http://twitter.com/search?q=WE+LOVE+OUR+BLUE) | N/A |
+| 8 | [Beanz](http://twitter.com/search?q=Beanz) | N/A |
+| 9 | [#TheLastKinnPorsche](http://twitter.com/search?q=%23TheLastKinnPorsche) | N/A |
+| 10 | [RMILAN FASHION WEEK](http://twitter.com/search?q=RMILAN+FASHION+WEEK) | N/A |
+| 11 | [engfa waraha](http://twitter.com/search?q=engfa+waraha) | N/A |
+| 12 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 13 | [Twitch](http://twitter.com/search?q=Twitch) | N/A |
+| 14 | [BETTER TREATMENT FOR IRENE](http://twitter.com/search?q=BETTER+TREATMENT+FOR+IRENE) | N/A |
+| 15 | [my address](http://twitter.com/search?q=my+address) | N/A |
+| 16 | [welcome to paris xin](http://twitter.com/search?q=welcome+to+paris+xin) | N/A |
+| 17 | [Pete](http://twitter.com/search?q=Pete) | Pete is a nickname for the name Peter. It is derived from the Greek word "petros" which means "rock". |
 | 18 | [su tóc đỏ chứng tỏ yêu em](http://twitter.com/search?q=su+t%c3%b3c+%c4%91%e1%bb%8f+ch%e1%bb%a9ng+t%e1%bb%8f+y%c3%aau+em) | N/A |
 | 19 | [Paris Fashion Week](http://twitter.com/search?q=Paris+Fashion+Week) | N/A |
 | 20 | [mỹ diệu](http://twitter.com/search?q=m%e1%bb%b9+di%e1%bb%87u) | N/A |
-| 21 | [Valentino - WINWIN](http://twitter.com/search?q=Valentino+-+WINWIN) | N/A |
-| 22 | [Paris Time](http://twitter.com/search?q=Paris+Time) | N/A |
-| 23 | [Đông](http://twitter.com/search?q=%c4%90%c3%b4ng) | N/A |
-| 24 | [Pete](http://twitter.com/search?q=Pete) | Pete is a nickname for the name Peter. It is derived from the Greek word "petros" which means "rock". |
-| 25 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
-| 26 | [khóc](http://twitter.com/search?q=kh%c3%b3c) | N/A |
-| 27 | [Cong](http://twitter.com/search?q=Cong) | N/A |
-| 28 | [Get 700ERB](http://twitter.com/search?q=Get+700ERB) | N/A |
-| 29 | [Wormholes](http://twitter.com/search?q=Wormholes) | N/A |
-| 30 | [S-NFT](http://twitter.com/search?q=S-NFT) | N/A |
-| 31 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 32 | [Joong](http://twitter.com/search?q=Joong) | N/A |
-| 33 | [Chời](http://twitter.com/search?q=Ch%e1%bb%9di) | N/A |
-| 34 | [Thailand](http://twitter.com/search?q=Thailand) | N/A |
-| 35 | [mnet](http://twitter.com/search?q=mnet) | N/A |
-| 36 | [optimism](http://twitter.com/search?q=optimism) | N/A |
-| 37 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
-| 38 | [Đánh](http://twitter.com/search?q=%c4%90%c3%a1nh) | N/A |
-| 39 | [Airdrop](http://twitter.com/search?q=Airdrop) | N/A |
-| 40 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 21 | [Paris Time](http://twitter.com/search?q=Paris+Time) | N/A |
+| 22 | [Valentino - WINWIN](http://twitter.com/search?q=Valentino+-+WINWIN) | N/A |
+| 23 | [Yuehua](http://twitter.com/search?q=Yuehua) | N/A |
+| 24 | [đông](http://twitter.com/search?q=%c4%91%c3%b4ng) | N/A |
+| 25 | [chời](http://twitter.com/search?q=ch%e1%bb%9di) | N/A |
+| 26 | [Cong](http://twitter.com/search?q=Cong) | N/A |
+| 27 | [get 700erb](http://twitter.com/search?q=get+700erb) | N/A |
+| 28 | [wormholes](http://twitter.com/search?q=wormholes) | N/A |
+| 29 | [s-nft](http://twitter.com/search?q=s-nft) | N/A |
+| 30 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 31 | [Joong](http://twitter.com/search?q=Joong) | N/A |
+| 32 | [Thailand](http://twitter.com/search?q=Thailand) | N/A |
+| 33 | [mnet](http://twitter.com/search?q=mnet) | N/A |
+| 34 | [Gucci](http://twitter.com/search?q=Gucci) | Gucci is an Italian luxury fashion house founded in 1921 by Guccio Gucci. It is known for its high-end clothing, leather goods, shoes, and accessories. The brand has become synonymous with luxury and quality, and its iconic logo is recognized around the world. |
+| 35 | [Optimism](http://twitter.com/search?q=Optimism) | N/A |
+| 36 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
+| 37 | [đánh](http://twitter.com/search?q=%c4%91%c3%a1nh) | N/A |
+| 38 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 39 | [Khóc](http://twitter.com/search?q=Kh%c3%b3c) | N/A |
+| 40 | [Pond](http://twitter.com/search?q=Pond) | N/A |
 | 41 | [Base](http://twitter.com/search?q=Base) | N/A |
-| 42 | [Explore Yields](http://twitter.com/search?q=Explore+Yields) | N/A |
+| 42 | [Giao](http://twitter.com/search?q=Giao) | N/A |
 | 43 | [Hihi](http://twitter.com/search?q=Hihi) | N/A |
-| 44 | [Hà Nội](http://twitter.com/search?q=H%c3%a0+N%e1%bb%99i) | N/A |
-| 45 | [Cũng](http://twitter.com/search?q=C%c5%a9ng) | N/A |
-| 46 | [Nhưng](http://twitter.com/search?q=Nh%c6%b0ng) | N/A |
-| 47 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
+| 44 | [Excuse](http://twitter.com/search?q=Excuse) | N/A |
+| 45 | [nhưng](http://twitter.com/search?q=nh%c6%b0ng) | N/A |
+| 46 | [Chắc](http://twitter.com/search?q=Ch%e1%ba%afc) | N/A |
+| 47 | [Thôi](http://twitter.com/search?q=Th%c3%b4i) | N/A |
+| 48 | [Hà Nội](http://twitter.com/search?q=H%c3%a0+N%e1%bb%99i) | N/A |
 
 
 

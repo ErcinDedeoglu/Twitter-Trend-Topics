@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-02-26 12:18:10 UTC`
+📆 Last Updated: `2023-02-26 13:19:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Latvia](</Latvia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#MetAmazonPresale](http://twitter.com/search?q=%23MetAmazonPresale) | N/A |
-| 2 | [Berlīnē](http://twitter.com/search?q=Berl%c4%abn%c4%93) | N/A |
-| 3 | [Vācijā](http://twitter.com/search?q=V%c4%81cij%c4%81) | N/A |
+| 2 | [Vācijā](http://twitter.com/search?q=V%c4%81cij%c4%81) | N/A |
+| 3 | [Berlīnē](http://twitter.com/search?q=Berl%c4%abn%c4%93) | N/A |
 | 4 | [Kols](http://twitter.com/search?q=Kols) | N/A |
 | 5 | [kongresu](http://twitter.com/search?q=kongresu) | N/A |
 | 6 | [Ukrainas](http://twitter.com/search?q=Ukrainas) | N/A |
-| 7 | [kola](http://twitter.com/search?q=kola) | N/A |
+| 7 | [Kola](http://twitter.com/search?q=Kola) | N/A |
 | 8 | [#AIart](http://twitter.com/search?q=%23AIart) | N/A |
 | 9 | [Риге](http://twitter.com/search?q=%d0%a0%d0%b8%d0%b3%d0%b5) | N/A |
 | 10 | [Langas](http://twitter.com/search?q=Langas) | N/A |
-| 11 | [Krievijai](http://twitter.com/search?q=Krievijai) | N/A |
+| 11 | [krievijai](http://twitter.com/search?q=krievijai) | N/A |
 | 12 | [Riga](http://twitter.com/search?q=Riga) | N/A |
-| 13 | [Pilnīgi](http://twitter.com/search?q=Piln%c4%abgi) | N/A |
+| 13 | [pilnīgi](http://twitter.com/search?q=piln%c4%abgi) | N/A |
 | 14 | [Zini](http://twitter.com/search?q=Zini) | N/A |
 | 15 | [latvieši](http://twitter.com/search?q=latvie%c5%a1i) | N/A |
-| 16 | [Ķīna](http://twitter.com/search?q=%c4%b6%c4%abna) | N/A |
-| 17 | [dievs](http://twitter.com/search?q=dievs) | N/A |
-| 18 | [progresīvie](http://twitter.com/search?q=progres%c4%abvie) | N/A |
-| 19 | [America](http://twitter.com/search?q=America) | N/A |
-| 20 | [Krievu](http://twitter.com/search?q=Krievu) | N/A |
-| 21 | [līdz](http://twitter.com/search?q=l%c4%abdz) | N/A |
+| 16 | [#StandWithUkraine](http://twitter.com/search?q=%23StandWithUkraine) | N/A |
+| 17 | [Ķīna](http://twitter.com/search?q=%c4%b6%c4%abna) | N/A |
+| 18 | [dievs](http://twitter.com/search?q=dievs) | N/A |
+| 19 | [Viņš](http://twitter.com/search?q=Vi%c5%86%c5%a1) | N/A |
+| 20 | [Līdz](http://twitter.com/search?q=L%c4%abdz) | N/A |
+| 21 | [America](http://twitter.com/search?q=America) | N/A |
 | 22 | [Russians](http://twitter.com/search?q=Russians) | N/A |
-| 23 | [Pats](http://twitter.com/search?q=Pats) | Pats is a slang term used to refer to someone who is being praised or congratulated. It can also be used as a verb, meaning to give someone praise or congratulations. |
-| 24 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 25 | [#NFTCommunity](http://twitter.com/search?q=%23NFTCommunity) | N/A |
-| 26 | [Visas](http://twitter.com/search?q=Visas) | N/A |
-| 27 | [pavļuta](http://twitter.com/search?q=pav%c4%bcuta) | N/A |
-| 28 | [Украины](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d1%8b) | N/A |
-| 29 | [Skaisti](http://twitter.com/search?q=Skaisti) | N/A |
-| 30 | [skaidrs](http://twitter.com/search?q=skaidrs) | N/A |
-| 31 | [Mums](http://twitter.com/search?q=Mums) | N/A |
-| 32 | [Daudz](http://twitter.com/search?q=Daudz) | N/A |
-| 33 | [pozņakam](http://twitter.com/search?q=poz%c5%86akam) | N/A |
-| 34 | [saeima](http://twitter.com/search?q=saeima) | N/A |
-| 35 | [sveiks](http://twitter.com/search?q=sveiks) | N/A |
-| 36 | [Toties](http://twitter.com/search?q=Toties) | N/A |
-| 37 | [Tikai](http://twitter.com/search?q=Tikai) | N/A |
-| 38 | [avenam](http://twitter.com/search?q=avenam) | N/A |
-| 39 | [Latvijas](http://twitter.com/search?q=Latvijas) | N/A |
+| 23 | [Viss](http://twitter.com/search?q=Viss) | N/A |
+| 24 | [#NFTCommunity](http://twitter.com/search?q=%23NFTCommunity) | N/A |
+| 25 | [pavļuta](http://twitter.com/search?q=pav%c4%bcuta) | N/A |
+| 26 | [Progresīvie](http://twitter.com/search?q=Progres%c4%abvie) | N/A |
+| 27 | [Skaisti](http://twitter.com/search?q=Skaisti) | N/A |
+| 28 | [skaidrs](http://twitter.com/search?q=skaidrs) | N/A |
+| 29 | [Mums](http://twitter.com/search?q=Mums) | N/A |
+| 30 | [pozņakam](http://twitter.com/search?q=poz%c5%86akam) | N/A |
+| 31 | [saeima](http://twitter.com/search?q=saeima) | N/A |
+| 32 | [Pats](http://twitter.com/search?q=Pats) | Pats is a slang term used to refer to someone who is being praised or congratulated. It can also be used as a verb, meaning to give someone praise or congratulations. |
+| 33 | [#UkraineWillWin](http://twitter.com/search?q=%23UkraineWillWin) | N/A |
+| 34 | [sveiks](http://twitter.com/search?q=sveiks) | N/A |
+| 35 | [putinam](http://twitter.com/search?q=putinam) | N/A |
+| 36 | [Krimas](http://twitter.com/search?q=Krimas) | N/A |
+| 37 | [Toties](http://twitter.com/search?q=Toties) | N/A |
+| 38 | [Tikai](http://twitter.com/search?q=Tikai) | N/A |
+| 39 | [avenam](http://twitter.com/search?q=avenam) | N/A |
 | 40 | [kremļa](http://twitter.com/search?q=krem%c4%bca) | N/A |
 | 41 | [Lato](http://twitter.com/search?q=Lato) | Lato is a sans-serif typeface designed by Łukasz Dziedzic in 2010. It is a humanist typeface, meaning it has a more organic, calligraphic feel than other sans-serifs. The name Lato comes from the Polish word for "summer". |
-| 42 | [Krimas](http://twitter.com/search?q=Krimas) | N/A |
-| 43 | [Avenu](http://twitter.com/search?q=Avenu) | N/A |
-| 44 | [в латвии](http://twitter.com/search?q=%d0%b2+%d0%bb%d0%b0%d1%82%d0%b2%d0%b8%d0%b8) | N/A |
-| 45 | [Viņš](http://twitter.com/search?q=Vi%c5%86%c5%a1) | N/A |
-| 46 | [Ņemot](http://twitter.com/search?q=%c5%85emot) | N/A |
-| 47 | [Izklausās](http://twitter.com/search?q=Izklaus%c4%81s) | N/A |
-| 48 | [Ļoti](http://twitter.com/search?q=%c4%bboti) | N/A |
-| 49 | [Ja Tu](http://twitter.com/search?q=Ja+Tu) | N/A |
-| 50 | [Daugavpilī](http://twitter.com/search?q=Daugavpil%c4%ab) | N/A |
+| 42 | [Ņemot](http://twitter.com/search?q=%c5%85emot) | N/A |
+| 43 | [diezgan](http://twitter.com/search?q=diezgan) | N/A |
+| 44 | [Украине](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%b5) | N/A |
+| 45 | [Latvijas](http://twitter.com/search?q=Latvijas) | N/A |
+| 46 | [Jūsu](http://twitter.com/search?q=J%c5%absu) | N/A |
+| 47 | [avenu](http://twitter.com/search?q=avenu) | N/A |
+| 48 | [в латвии](http://twitter.com/search?q=%d0%b2+%d0%bb%d0%b0%d1%82%d0%b2%d0%b8%d0%b8) | N/A |
+| 49 | [Izklausās](http://twitter.com/search?q=Izklaus%c4%81s) | N/A |
+| 50 | [Ļoti](http://twitter.com/search?q=%c4%bboti) | N/A |
 
 
 
