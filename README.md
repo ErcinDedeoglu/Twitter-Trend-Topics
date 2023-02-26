@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2023-02-26 22:16:00 UTC`
+📆 Last Updated: `2023-02-26 23:16:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,56 +20,56 @@ This is top 50
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#OMPSG](http://twitter.com/search?q=%23OMPSG) | N/A |
+| 1 | [#PaulFury](http://twitter.com/search?q=%23PaulFury) | N/A |
 | 2 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 3 | [Corinthians](http://twitter.com/search?q=Corinthians) | Corinthians is a book of the Bible, specifically the second book of the New Testament. It is a letter written by Paul to the church in Corinth, Greece. The book contains Paul's teachings on many topics, including love, faith, and hope. |
-| 4 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
-| 5 | [Beşiktaş](http://twitter.com/search?q=Be%c5%9fikta%c5%9f) | Beşiktaş is a Turkish sports club based in Istanbul, Turkey. The name Beşiktaş translates to "cradle stone" in English. The club is best known for its football team, which competes in the Turkish Super League and is one of the most successful clubs in Turkey. |
-| 6 | [Badou Jack](http://twitter.com/search?q=Badou+Jack) | N/A |
-| 7 | [Ronaldinho](http://twitter.com/search?q=Ronaldinho) | N/A |
-| 8 | [#PaulFury](http://twitter.com/search?q=%23PaulFury) | N/A |
-| 9 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
-| 10 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 11 | [#MilanAtalanta](http://twitter.com/search?q=%23MilanAtalanta) | N/A |
-| 12 | [#ElINENoSeToca](http://twitter.com/search?q=%23ElINENoSeToca) | N/A |
-| 13 | [#ElectionResult](http://twitter.com/search?q=%23ElectionResult) | N/A |
-| 14 | [الهلال](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | الهلال (Al Hilal) is an Arabic phrase meaning "the crescent" or "the new moon". It is also the name of a popular Saudi Arabian football club. |
-| 15 | [Yuri Alberto](http://twitter.com/search?q=Yuri+Alberto) | Yuri Alberto is a Spanish name. It is a combination of the names Yuri, which is derived from the Russian name Yuriy, meaning "farmer," and Alberto, which is derived from the Germanic name Adalbert, meaning "noble and bright." |
-| 16 | [Bailly](http://twitter.com/search?q=Bailly) | Bailly is a French surname derived from the Old French word baillis, meaning "bailiff" or "steward". It is also a given name in France, derived from the same source. |
-| 17 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 18 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 19 | [Maicon](http://twitter.com/search?q=Maicon) | Maicon is a Portuguese name derived from the Latin name Michael, meaning “who is like God?” It is also a variant of the Hebrew name Mikha'el. |
-| 20 | [Marseille](http://twitter.com/search?q=Marseille) | N/A |
-| 21 | [Edna](http://twitter.com/search?q=Edna) | Edna is a female given name of Hebrew origin, meaning “pleasure” or “delight”. |
-| 22 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 23 | [Almería](http://twitter.com/search?q=Almer%c3%ada) | Almería is a city in the southeastern region of Spain. It is the capital of the province of Almería and is located on the Mediterranean Sea. In English, Almería means "The Watchtower". |
-| 24 | [Vitinha](http://twitter.com/search?q=Vitinha) | Vitinha is a Portuguese nickname for someone named Vitor, which is a common name in Portugal. In English, it translates to "little Vitor". |
-| 25 | [Pervin Buldan](http://twitter.com/search?q=Pervin+Buldan) | N/A |
-| 26 | [ROGER GUEDES](http://twitter.com/search?q=ROGER+GUEDES) | Roger Guedes is a Brazilian footballer who currently plays for Palmeiras. He is a versatile player who can play as a forward, winger, or attacking midfielder. His name in English translates to "strong warrior". |
-| 27 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
+| 3 | [#OMPSG](http://twitter.com/search?q=%23OMPSG) | N/A |
+| 4 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 5 | [Vanderbilt](http://twitter.com/search?q=Vanderbilt) | N/A |
+| 6 | [Corinthians](http://twitter.com/search?q=Corinthians) | Corinthians is a book of the Bible, specifically the second book of the New Testament. It is a letter written by Paul to the church in Corinth, Greece. The book contains Paul's teachings on many topics, including love, faith, and hope. |
+| 7 | [#Schlein](http://twitter.com/search?q=%23Schlein) | N/A |
+| 8 | [#otriangulotvi](http://twitter.com/search?q=%23otriangulotvi) | N/A |
+| 9 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
+| 10 | [Badou Jack](http://twitter.com/search?q=Badou+Jack) | N/A |
+| 11 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
+| 12 | [Beşiktaş](http://twitter.com/search?q=Be%c5%9fikta%c5%9f) | Beşiktaş is a Turkish sports club based in Istanbul, Turkey. The name Beşiktaş translates to "cradle stone" in English. The club is best known for its football team, which competes in the Turkish Super League and is one of the most successful clubs in Turkey. |
+| 13 | [Veiga](http://twitter.com/search?q=Veiga) | Veiga is a Portuguese surname derived from the Latin word "vigia," which means "watchman." It is also the name of a river in Portugal. In English, it can be translated to mean "watchman" or "guardian." |
+| 14 | [Ronaldinho](http://twitter.com/search?q=Ronaldinho) | N/A |
+| 15 | [Vando](http://twitter.com/search?q=Vando) | N/A |
+| 16 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
+| 17 | [Reaves](http://twitter.com/search?q=Reaves) | Reaves is a surname of English origin. It is derived from the Old French word "reves," meaning "dreams." The name is thought to have been given to someone who was known for having prophetic dreams. |
+| 18 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 19 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 20 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
+| 21 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
+| 22 | [الهلال](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | الهلال (Al Hilal) is an Arabic phrase meaning "the crescent" or "the new moon". It is also the name of a popular Saudi Arabian football club. |
+| 23 | [Gil Vicente](http://twitter.com/search?q=Gil+Vicente) | N/A |
+| 24 | [Bailly](http://twitter.com/search?q=Bailly) | Bailly is a French surname derived from the Old French word baillis, meaning "bailiff" or "steward". It is also a given name in France, derived from the same source. |
+| 25 | [Yuri Alberto](http://twitter.com/search?q=Yuri+Alberto) | Yuri Alberto is a Spanish name. It is a combination of the names Yuri, which is derived from the Russian name Yuriy, meaning "farmer," and Alberto, which is derived from the Germanic name Adalbert, meaning "noble and bright." |
+| 26 | [Osasuna](http://twitter.com/search?q=Osasuna) | Osasuna is a Spanish football club based in Pamplona, Navarre. The name Osasuna means "health" or "vigor" in the Basque language. |
+| 27 | [Marseille](http://twitter.com/search?q=Marseille) | N/A |
 | 28 | [Ekiti](http://twitter.com/search?q=Ekiti) | N/A |
-| 29 | [Devlet](http://twitter.com/search?q=Devlet) | N/A |
-| 30 | [Osasuna](http://twitter.com/search?q=Osasuna) | Osasuna is a Spanish football club based in Pamplona, Navarre. The name Osasuna means "health" or "vigor" in the Basque language. |
-| 31 | [Giovane](http://twitter.com/search?q=Giovane) | N/A |
-| 32 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
-| 33 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 34 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 35 | [تشافي](http://twitter.com/search?q=%d8%aa%d8%b4%d8%a7%d9%81%d9%8a) | تشافي is an Arabic word that means "enjoyment" or "pleasure". In English, it can be translated as "having a good time" or "having fun". |
-| 36 | [Marquinhos](http://twitter.com/search?q=Marquinhos) | Marquinhos is a nickname for the Brazilian footballer Marcos Aoás Corrêa, who plays for Paris Saint-Germain. The name is derived from his first name, Marcos, and is a common nickname in Brazil. In English, it translates to "Little Marcos". |
-| 37 | [Zócalo](http://twitter.com/search?q=Z%c3%b3calo) | N/A |
-| 38 | [Makabu](http://twitter.com/search?q=Makabu) | N/A |
-| 39 | [Booker](http://twitter.com/search?q=Booker) | Booker is a term used to refer to someone who books or arranges appointments, events, or reservations. It is often used in the context of a person who works in the hospitality industry. |
-| 40 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 41 | [Balbuena](http://twitter.com/search?q=Balbuena) | Balbuena is a Spanish surname. It is derived from the Latin word balbus, which means stammering or stuttering. In English, the meaning of Balbuena is "stammering" or "stuttering". |
-| 42 | [Marcos Leonardo](http://twitter.com/search?q=Marcos+Leonardo) | Marcos Leonardo is a Spanish name. It is composed of two given names, Marcos and Leonardo. The name Marcos is derived from the Latin name Marcus, which means “dedicated to Mars” or “warlike”. The name Leonardo is derived from the Latin name Leonhardus, which means “brave lion”. In English, the meaning of the name Marcos Leonardo would be “dedicated to Mars and brave lion”. |
-| 43 | [Fauci](http://twitter.com/search?q=Fauci) | N/A |
-| 44 | [Glory Glory Man United](http://twitter.com/search?q=Glory+Glory+Man+United) | N/A |
-| 45 | [Nuno](http://twitter.com/search?q=Nuno) | N/A |
-| 46 | [Ron and Lana](http://twitter.com/search?q=Ron+and+Lana) | N/A |
-| 47 | [Alice Santos](http://twitter.com/search?q=Alice+Santos) | N/A |
-| 48 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 49 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
-| 50 | [INEC](http://twitter.com/search?q=INEC) | N/A |
+| 29 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 30 | [Maycon](http://twitter.com/search?q=Maycon) | Maycon is a Portuguese name derived from the Latin name Magnus, meaning “great”. It is also a variant of the English name Maxon. |
+| 31 | [Almería](http://twitter.com/search?q=Almer%c3%ada) | Almería is a city in the southeastern region of Spain. It is the capital of the province of Almería and is located on the Mediterranean Sea. In English, Almería means "The Watchtower". |
+| 32 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 33 | [Edna](http://twitter.com/search?q=Edna) | Edna is a female given name of Hebrew origin, meaning “pleasure” or “delight”. |
+| 34 | [Solari](http://twitter.com/search?q=Solari) | Solari is a Latin word meaning “of the sun”. It is often used to refer to things related to the sun, such as solar energy or solar power. It can also be used as a surname, particularly in Italy. |
+| 35 | [Gabriel Menino](http://twitter.com/search?q=Gabriel+Menino) | Gabriel Menino is a Brazilian professional footballer who plays as a midfielder for Palmeiras. His name translates to "God is my strength" in English. |
+| 36 | [Vitinha](http://twitter.com/search?q=Vitinha) | Vitinha is a Portuguese nickname for someone named Vitor, which is a common name in Portugal. In English, it translates to "little Vitor". |
+| 37 | [Fauci](http://twitter.com/search?q=Fauci) | N/A |
+| 38 | [Devlet](http://twitter.com/search?q=Devlet) | N/A |
+| 39 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 40 | [Sampaoli](http://twitter.com/search?q=Sampaoli) | Sampaoli is a Spanish surname. It is derived from the Latin word sampo, which means "harvest". In English, it can be translated to mean "harvester". |
+| 41 | [Pervin Buldan](http://twitter.com/search?q=Pervin+Buldan) | N/A |
+| 42 | [Josh Green](http://twitter.com/search?q=Josh+Green) | Josh Green is a slang term used to describe someone who is inexperienced or naive. It is often used to describe someone who is new to a particular activity or situation and may not be aware of the rules or customs associated with it. |
+| 43 | [Zócalo](http://twitter.com/search?q=Z%c3%b3calo) | N/A |
+| 44 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
+| 45 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
+| 46 | [Endrick](http://twitter.com/search?q=Endrick) | Endrick is a Scottish name derived from the Gaelic elements 'ean', meaning 'one', and 'dreag', meaning 'flag'. The name is thought to mean 'one flag' or 'one banner'. |
+| 47 | [Giovane](http://twitter.com/search?q=Giovane) | N/A |
+| 48 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
+| 49 | [ROGER GUEDES](http://twitter.com/search?q=ROGER+GUEDES) | Roger Guedes is a Brazilian footballer who currently plays for Palmeiras. He is a versatile player who can play as a forward, winger, or attacking midfielder. His name in English translates to "strong warrior". |
+| 50 | [Paradela](http://twitter.com/search?q=Paradela) | Paradela is a Spanish word that means "parade". It is used to refer to a procession or march of people, usually with music and/or banners. |
 
 
 

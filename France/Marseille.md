@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Marseille
 
-📆 Last Updated: `2023-02-26 22:16:14 UTC`
+📆 Last Updated: `2023-02-26 23:16:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 2 | [#ASMOGCN](http://twitter.com/search?q=%23ASMOGCN) | N/A |
-| 3 | [#OGCNice](http://twitter.com/search?q=%23OGCNice) | N/A |
-| 4 | [Monaco](http://twitter.com/search?q=Monaco) | N/A |
-| 5 | [#OMPSG](http://twitter.com/search?q=%23OMPSG) | N/A |
-| 6 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
-| 7 | [Bailly](http://twitter.com/search?q=Bailly) | Bailly is a French surname derived from the Old French word baillis, meaning "bailiff" or "steward". It is also a given name in France, derived from the same source. |
-| 8 | [Vitinha](http://twitter.com/search?q=Vitinha) | Vitinha is a Portuguese nickname for someone named Vitor, which is a common name in Portugal. In English, it translates to "little Vitor". |
-| 9 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
-| 10 | [Marquinhos](http://twitter.com/search?q=Marquinhos) | Marquinhos is a nickname for the Brazilian footballer Marcos Aoás Corrêa, who plays for Paris Saint-Germain. The name is derived from his first name, Marcos, and is a common nickname in Brazil. In English, it translates to "Little Marcos". |
-| 11 | [Marseille](http://twitter.com/search?q=Marseille) | N/A |
-| 12 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
+| 1 | [#ASMOGCN](http://twitter.com/search?q=%23ASMOGCN) | N/A |
+| 2 | [#OGCNice](http://twitter.com/search?q=%23OGCNice) | N/A |
+| 3 | [#OMPSG](http://twitter.com/search?q=%23OMPSG) | N/A |
+| 4 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
+| 5 | [Bailly](http://twitter.com/search?q=Bailly) | Bailly is a French surname derived from the Old French word baillis, meaning "bailiff" or "steward". It is also a given name in France, derived from the same source. |
+| 6 | [Vitinha](http://twitter.com/search?q=Vitinha) | Vitinha is a Portuguese nickname for someone named Vitor, which is a common name in Portugal. In English, it translates to "little Vitor". |
+| 7 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
+| 8 | [Marseille](http://twitter.com/search?q=Marseille) | N/A |
+| 9 | [Marquinhos](http://twitter.com/search?q=Marquinhos) | Marquinhos is a nickname for the Brazilian footballer Marcos Aoás Corrêa, who plays for Paris Saint-Germain. The name is derived from his first name, Marcos, and is a common nickname in Brazil. In English, it translates to "Little Marcos". |
+| 10 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
+| 11 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
+| 12 | [Julien Bert](http://twitter.com/search?q=Julien+Bert) | N/A |
 | 13 | [Tudor](http://twitter.com/search?q=Tudor) | Tudor is an English royal dynasty that ruled from 1485 to 1603. The Tudors were a powerful family of Welsh origin who rose to prominence in England during the 15th century. They are best known for their strong rule and for the many influential monarchs they produced, including Henry VIII and Elizabeth I. |
 | 14 | [Mbemba](http://twitter.com/search?q=Mbemba) | Mbemba is a Bantu language spoken in the Democratic Republic of Congo. It is also known as Cibemba, Chibemba, Ichibemba, and Cilamba. The meaning of Mbemba in English is "language". |
-| 15 | [Vélodrome](http://twitter.com/search?q=V%c3%a9lodrome) | N/A |
-| 16 | [Kimpembe](http://twitter.com/search?q=Kimpembe) | N/A |
-| 17 | [Cavani](http://twitter.com/search?q=Cavani) | Cavani is a surname of Italian origin. It is derived from the Latin word cavus, meaning "hollow". The name is most commonly associated with Uruguayan footballer Edinson Cavani. |
-| 18 | [Ruiz](http://twitter.com/search?q=Ruiz) | Ruiz is a Spanish surname. It is derived from the Latin word "ruiz" which means "oak tree". In English, it can be translated to mean "oak tree". |
-| 19 | [#PSGOM](http://twitter.com/search?q=%23PSGOM) | N/A |
-| 20 | [Gigio](http://twitter.com/search?q=Gigio) | N/A |
-| 21 | [Julien Bert](http://twitter.com/search?q=Julien+Bert) | N/A |
-| 22 | [Turpin](http://twitter.com/search?q=Turpin) | Turpin is a French surname derived from the Old French word torp, meaning "stubborn". It is also a given name, usually for males. In English, it can be used as a nickname for someone who is stubborn or determined. |
-| 23 | [Balerdi](http://twitter.com/search?q=Balerdi) | N/A |
-| 24 | [Hilona](http://twitter.com/search?q=Hilona) | N/A |
-| 25 | [#TeamOM](http://twitter.com/search?q=%23TeamOM) | N/A |
-| 26 | [Merci Paris](http://twitter.com/search?q=Merci+Paris) | N/A |
-| 27 | [Kyks](http://twitter.com/search?q=Kyks) | N/A |
+| 15 | [Hilona](http://twitter.com/search?q=Hilona) | N/A |
+| 16 | [Vélodrome](http://twitter.com/search?q=V%c3%a9lodrome) | N/A |
+| 17 | [Kimpembe](http://twitter.com/search?q=Kimpembe) | N/A |
+| 18 | [#PSGOM](http://twitter.com/search?q=%23PSGOM) | N/A |
+| 19 | [Ruiz](http://twitter.com/search?q=Ruiz) | Ruiz is a Spanish surname. It is derived from the Latin word "ruiz" which means "oak tree". In English, it can be translated to mean "oak tree". |
+| 20 | [Cavani](http://twitter.com/search?q=Cavani) | Cavani is a surname of Italian origin. It is derived from the Latin word cavus, meaning "hollow". The name is most commonly associated with Uruguayan footballer Edinson Cavani. |
+| 21 | [Balerdi](http://twitter.com/search?q=Balerdi) | N/A |
+| 22 | [Presko](http://twitter.com/search?q=Presko) | N/A |
+| 23 | [Vanderbilt](http://twitter.com/search?q=Vanderbilt) | N/A |
+| 24 | [#PaulFury](http://twitter.com/search?q=%23PaulFury) | N/A |
+| 25 | [Merci Paris](http://twitter.com/search?q=Merci+Paris) | N/A |
+| 26 | [Gigio](http://twitter.com/search?q=Gigio) | N/A |
+| 27 | [Turpin](http://twitter.com/search?q=Turpin) | Turpin is a French surname derived from the Old French word torp, meaning "stubborn". It is also a given name, usually for males. In English, it can be used as a nickname for someone who is stubborn or determined. |
 | 28 | [Gigot](http://twitter.com/search?q=Gigot) | N/A |
 | 29 | [Verratti](http://twitter.com/search?q=Verratti) | Verratti is an Italian surname. It is derived from the Latin word verratum, which means "true". In English, it can be translated to mean "true and faithful". |
-| 30 | [ICI C'EST PARIS](http://twitter.com/search?q=ICI+C%27EST+PARIS) | N/A |
-| 31 | [Mukiele](http://twitter.com/search?q=Mukiele) | Mukiele is a name of African origin, derived from the Kikuyu language. It means "God's gift" in English. |
-| 32 | [Clauss](http://twitter.com/search?q=Clauss) | Clauss is a German surname. It is derived from the Latin word "clausus," which means "closed" or "shut." In English, the name Clauss can be translated to mean "closed off" or "shut away." |
-| 33 | [Payet](http://twitter.com/search?q=Payet) | Payet is a French surname. It is derived from the Old French word "paie," which means "payment." In English, it can be translated to mean "one who pays." |
-| 34 | [Presko](http://twitter.com/search?q=Presko) | N/A |
+| 30 | [Kyks](http://twitter.com/search?q=Kyks) | N/A |
+| 31 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 32 | [Achille](http://twitter.com/search?q=Achille) | N/A |
+| 33 | [ICI C'EST PARIS](http://twitter.com/search?q=ICI+C%27EST+PARIS) | N/A |
+| 34 | [Payet](http://twitter.com/search?q=Payet) | Payet is a French surname. It is derived from the Old French word "paie," which means "payment." In English, it can be translated to mean "one who pays." |
 | 35 | [Kyky](http://twitter.com/search?q=Kyky) | N/A |
-| 36 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 37 | [Guendouzi](http://twitter.com/search?q=Guendouzi) | Guendouzi is a French surname. It is derived from the Basque word "gendouz", which means "good luck". In English, it can be translated to mean "lucky one". |
+| 36 | [Roselyne](http://twitter.com/search?q=Roselyne) | N/A |
+| 37 | [Clauss](http://twitter.com/search?q=Clauss) | Clauss is a German surname. It is derived from the Latin word "clausus," which means "closed" or "shut." In English, the name Clauss can be translated to mean "closed off" or "shut away." |
 | 38 | [Allez Paris](http://twitter.com/search?q=Allez+Paris) | N/A |
-| 39 | [Marseillais](http://twitter.com/search?q=Marseillais) | N/A |
-| 40 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
-| 41 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
-| 42 | [Roselyne](http://twitter.com/search?q=Roselyne) | N/A |
-| 43 | [Clim](http://twitter.com/search?q=Clim) | N/A |
-| 44 | [L'OM](http://twitter.com/search?q=L%27OM) | N/A |
-| 45 | [Saint Germain](http://twitter.com/search?q=Saint+Germain) | N/A |
-| 46 | [Bondy](http://twitter.com/search?q=Bondy) | N/A |
-| 47 | [Coupe de France](http://twitter.com/search?q=Coupe+de+France) | N/A |
-| 48 | [Achille](http://twitter.com/search?q=Achille) | N/A |
-| 49 | [Chancel](http://twitter.com/search?q=Chancel) | Chancel is a term used in Christian churches to refer to the area around the altar, typically separated from the nave by a screen or rail. It is usually reserved for clergy and choir members during services. The word comes from the Latin cancelli, meaning "lattice" or "enclosure". |
-| 50 | [Almeria](http://twitter.com/search?q=Almeria) | N/A |
+| 39 | [Mukiele](http://twitter.com/search?q=Mukiele) | Mukiele is a name of African origin, derived from the Kikuyu language. It means "God's gift" in English. |
+| 40 | [Marseillais](http://twitter.com/search?q=Marseillais) | N/A |
+| 41 | [Guendouzi](http://twitter.com/search?q=Guendouzi) | Guendouzi is a French surname. It is derived from the Basque word "gendouz", which means "good luck". In English, it can be translated to mean "lucky one". |
+| 42 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
+| 43 | [Presnel](http://twitter.com/search?q=Presnel) | N/A |
+| 44 | [Clim](http://twitter.com/search?q=Clim) | N/A |
+| 45 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
+| 46 | [L'OM](http://twitter.com/search?q=L%27OM) | N/A |
+| 47 | [Saint Germain](http://twitter.com/search?q=Saint+Germain) | N/A |
+| 48 | [Doncic](http://twitter.com/search?q=Doncic) | Doncic is the surname of Slovenian professional basketball player Luka Doncic. In English, it is pronounced "DOHN-chich". |
+| 49 | [Coupe de France](http://twitter.com/search?q=Coupe+de+France) | N/A |
+| 50 | [Nordi](http://twitter.com/search?q=Nordi) | N/A |
 
 
 

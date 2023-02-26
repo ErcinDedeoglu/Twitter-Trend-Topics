@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vietnam
 
-📆 Last Updated: `2023-02-26 22:16:55 UTC`
+📆 Last Updated: `2023-02-26 23:17:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -54,7 +54,7 @@ This is top 50 for Vietnam
 | 37 | [Cong](http://twitter.com/search?q=Cong) | N/A |
 | 38 | [Thái](http://twitter.com/search?q=Th%c3%a1i) | N/A |
 | 39 | [mỹ diệu](http://twitter.com/search?q=m%e1%bb%b9+di%e1%bb%87u) | N/A |
-| 40 | [Chúc](http://twitter.com/search?q=Ch%c3%bac) | N/A |
+| 40 | [Russia](http://twitter.com/search?q=Russia) | N/A |
 | 41 | [Chào](http://twitter.com/search?q=Ch%c3%a0o) | N/A |
 | 42 | [#biutheblueprince](http://twitter.com/search?q=%23biutheblueprince) | N/A |
 | 43 | [#BottegaVeneta_RM](http://twitter.com/search?q=%23BottegaVeneta_RM) | N/A |

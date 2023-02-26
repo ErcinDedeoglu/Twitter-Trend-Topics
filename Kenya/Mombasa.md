@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mombasa
 
-📆 Last Updated: `2023-02-26 22:16:30 UTC`
+📆 Last Updated: `2023-02-26 23:16:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,42 +29,42 @@ This is top 50 for [Kenya](</Kenya>)
 | 12 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
 | 13 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
 | 14 | [Moses Kuria](http://twitter.com/search?q=Moses+Kuria) | N/A |
-| 15 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 15 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
 | 16 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
-| 17 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
-| 18 | [Glory Glory Man United](http://twitter.com/search?q=Glory+Glory+Man+United) | N/A |
-| 19 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
-| 20 | [BALD IS BEST](http://twitter.com/search?q=BALD+IS+BEST) | N/A |
+| 17 | [Glory Glory Man United](http://twitter.com/search?q=Glory+Glory+Man+United) | N/A |
+| 18 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
+| 19 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 20 | [Wan Bissaka](http://twitter.com/search?q=Wan+Bissaka) | Wan Bissaka is a nickname given to Manchester United footballer Aaron Wan-Bissaka. The name is derived from his surname, which is a combination of his first and last names. In English, it means "One Bissaka". |
 | 21 | [Nyamakima](http://twitter.com/search?q=Nyamakima) | N/A |
-| 22 | [Wan Bissaka](http://twitter.com/search?q=Wan+Bissaka) | Wan Bissaka is a nickname given to Manchester United footballer Aaron Wan-Bissaka. The name is derived from his surname, which is a combination of his first and last names. In English, it means "One Bissaka". |
-| 23 | [Anthony](http://twitter.com/search?q=Anthony) | N/A |
-| 24 | [Kenyans](http://twitter.com/search?q=Kenyans) | N/A |
-| 25 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 26 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
-| 27 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 28 | [Mr Cheng](http://twitter.com/search?q=Mr+Cheng) | N/A |
-| 29 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 22 | [Anthony](http://twitter.com/search?q=Anthony) | N/A |
+| 23 | [Kenyans](http://twitter.com/search?q=Kenyans) | N/A |
+| 24 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
+| 25 | [Mr Cheng](http://twitter.com/search?q=Mr+Cheng) | N/A |
+| 26 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 27 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 28 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
+| 29 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
 | 30 | [Todd Boehly](http://twitter.com/search?q=Todd+Boehly) | Todd Boehly is the name of an American businessman and investor. He is the founder, chairman, and CEO of Eldridge Industries, a private investment firm. He is also the former co-owner and vice chairman of the Los Angeles Dodgers baseball team. |
-| 31 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
-| 32 | [Gikomba](http://twitter.com/search?q=Gikomba) | N/A |
-| 33 | [Harry Kane](http://twitter.com/search?q=Harry+Kane) | Harry Kane is an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. His name is often used as a metaphor for someone who is a natural leader and has the ability to score goals. |
-| 34 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 35 | [Almeria](http://twitter.com/search?q=Almeria) | N/A |
-| 36 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 37 | [Happy Sabbath](http://twitter.com/search?q=Happy+Sabbath) | N/A |
-| 38 | [Peter Obi](http://twitter.com/search?q=Peter+Obi) | N/A |
-| 39 | [Kiburi FC](http://twitter.com/search?q=Kiburi+FC) | N/A |
-| 40 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 41 | [Amish](http://twitter.com/search?q=Amish) | N/A |
-| 42 | [Carrefour](http://twitter.com/search?q=Carrefour) | Carrefour is a French multinational retailer headquartered in Boulogne Billancourt, France. It is one of the largest hypermarket chains in the world with over 12,300 stores in more than 30 countries. The name Carrefour translates to "crossroads" in English. |
-| 43 | [Saint Maximin](http://twitter.com/search?q=Saint+Maximin) | N/A |
-| 44 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
-| 45 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
-| 46 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 47 | [Eastleigh](http://twitter.com/search?q=Eastleigh) | N/A |
-| 48 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 49 | [CITAM](http://twitter.com/search?q=CITAM) | N/A |
-| 50 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 31 | [Gikomba](http://twitter.com/search?q=Gikomba) | N/A |
+| 32 | [Harry Kane](http://twitter.com/search?q=Harry+Kane) | Harry Kane is an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. His name is often used as a metaphor for someone who is a natural leader and has the ability to score goals. |
+| 33 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 34 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 35 | [happy sabbath](http://twitter.com/search?q=happy+sabbath) | N/A |
+| 36 | [Kiburi FC](http://twitter.com/search?q=Kiburi+FC) | N/A |
+| 37 | [Peter Obi](http://twitter.com/search?q=Peter+Obi) | N/A |
+| 38 | [Carrefour](http://twitter.com/search?q=Carrefour) | Carrefour is a French multinational retailer headquartered in Boulogne Billancourt, France. It is one of the largest hypermarket chains in the world with over 12,300 stores in more than 30 countries. The name Carrefour translates to "crossroads" in English. |
+| 39 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 40 | [Saint Maximin](http://twitter.com/search?q=Saint+Maximin) | N/A |
+| 41 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
+| 42 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 43 | [BALD IS BEST](http://twitter.com/search?q=BALD+IS+BEST) | N/A |
+| 44 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
+| 45 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 46 | [Eastleigh](http://twitter.com/search?q=Eastleigh) | N/A |
+| 47 | [Marcus Rashford](http://twitter.com/search?q=Marcus+Rashford) | Marcus Rashford is an English professional footballer who plays as a forward for Premier League club Manchester United and the England national team. He is known for his pace, skill, and direct style of play. |
+| 48 | [CITAM](http://twitter.com/search?q=CITAM) | N/A |
+| 49 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 50 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
 
 
 

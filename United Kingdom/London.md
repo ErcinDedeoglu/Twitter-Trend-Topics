@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For London
 
-📆 Last Updated: `2023-02-26 22:16:04 UTC`
+📆 Last Updated: `2023-02-26 23:16:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#BrumHour](http://twitter.com/search?q=%23BrumHour) | N/A |
-| 2 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 3 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
-| 4 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 5 | [Wan Bissaka](http://twitter.com/search?q=Wan+Bissaka) | Wan Bissaka is a nickname given to Manchester United footballer Aaron Wan-Bissaka. The name is derived from his surname, which is a combination of his first and last names. In English, it means "One Bissaka". |
-| 6 | [Booker](http://twitter.com/search?q=Booker) | Booker is a term used to refer to someone who books or arranges appointments, events, or reservations. It is often used in the context of a person who works in the hospitality industry. |
-| 7 | [James Corden](http://twitter.com/search?q=James+Corden) | James Corden is an English actor, comedian, writer, and television host. He is best known for hosting The Late Late Show with James Corden on CBS. He has also starred in films such as Into the Woods and Peter Rabbit. |
-| 8 | [YouTuber](http://twitter.com/search?q=YouTuber) | N/A |
-| 9 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 10 | [#UKCraftersHour](http://twitter.com/search?q=%23UKCraftersHour) | N/A |
-| 11 | [Phil Jones](http://twitter.com/search?q=Phil+Jones) | N/A |
-| 12 | [Elton John](http://twitter.com/search?q=Elton+John) | N/A |
-| 13 | [Licha](http://twitter.com/search?q=Licha) | Licha is a Spanish word that means "beautiful" or "pretty". It is often used to describe someone's physical appearance, but can also be used to describe something that is aesthetically pleasing. |
-| 14 | [FA Cup](http://twitter.com/search?q=FA+Cup) | The FA Cup is an annual knockout football competition in England. It is the oldest football competition in the world and is run by The Football Association (FA). The FA Cup is open to any club in the top four tiers of English football, from the Premier League down to the semi-professional leagues. The tournament culminates with a final at Wembley Stadium, usually held in May. |
-| 15 | [#COYS](http://twitter.com/search?q=%23COYS) | #COYS is an acronym for “Come On You Spurs”, which is a popular chant used by fans of Tottenham Hotspur Football Club. It is used to show support for the team and encourage them to do their best. |
-| 16 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 17 | [Geordie](http://twitter.com/search?q=Geordie) | N/A |
-| 18 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
-| 19 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 20 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 21 | [Harry Kane](http://twitter.com/search?q=Harry+Kane) | Harry Kane is an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. His name is often used as a metaphor for someone who is a natural leader and has the ability to score goals. |
-| 22 | [INEC](http://twitter.com/search?q=INEC) | N/A |
-| 23 | [Badou Jack](http://twitter.com/search?q=Badou+Jack) | N/A |
-| 24 | [Claudia](http://twitter.com/search?q=Claudia) | Claudia is a female given name of Latin origin, derived from the Roman clan name Claudius. It means "lame" or "disabled". |
-| 25 | [#CallTheMidwife](http://twitter.com/search?q=%23CallTheMidwife) | N/A |
-| 26 | [#PaulFury](http://twitter.com/search?q=%23PaulFury) | N/A |
-| 27 | [Ron and Lana](http://twitter.com/search?q=Ron+and+Lana) | N/A |
-| 28 | [Rosie](http://twitter.com/search?q=Rosie) | N/A |
-| 29 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 30 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 1 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 2 | [Carley](http://twitter.com/search?q=Carley) | N/A |
+| 3 | [Dubravka](http://twitter.com/search?q=Dubravka) | Dubravka is a Slavic female name derived from the word "dubrava," which means "oak grove." It is also the name of a municipality in Serbia. The name is often translated to English as "oak meadow." |
+| 4 | [Casting Directors](http://twitter.com/search?q=Casting+Directors) | N/A |
+| 5 | [Carl Froch](http://twitter.com/search?q=Carl+Froch) | N/A |
+| 6 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
+| 7 | [Wilder](http://twitter.com/search?q=Wilder) | N/A |
+| 8 | [Eddie Howe](http://twitter.com/search?q=Eddie+Howe) | Eddie Howe is an English professional football manager and former player. He is currently the manager of Premier League club AFC Bournemouth. Howe has been praised for his tactical knowledge and ability to develop young players. |
+| 9 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 10 | [League Cup](http://twitter.com/search?q=League+Cup) | N/A |
+| 11 | [Booker](http://twitter.com/search?q=Booker) | Booker is a term used to refer to someone who books or arranges appointments, events, or reservations. It is often used in the context of a person who works in the hospitality industry. |
+| 12 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
+| 13 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 14 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
+| 15 | [FA Cup](http://twitter.com/search?q=FA+Cup) | The FA Cup is an annual knockout football competition in England. It is the oldest football competition in the world and is run by The Football Association (FA). The FA Cup is open to any club in the top four tiers of English football, from the Premier League down to the semi-professional leagues. The tournament culminates with a final at Wembley Stadium, usually held in May. |
+| 16 | [Geordie](http://twitter.com/search?q=Geordie) | N/A |
+| 17 | [#PaulFury](http://twitter.com/search?q=%23PaulFury) | N/A |
+| 18 | [#PaulFury](http://twitter.com/search?q=%23PaulFury) | N/A |
+| 19 | [Badou Jack](http://twitter.com/search?q=Badou+Jack) | N/A |
+| 20 | [Claudia](http://twitter.com/search?q=Claudia) | Claudia is a female given name of Latin origin, derived from the Roman clan name Claudius. It means "lame" or "disabled". |
+| 21 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
+| 22 | [#CallTheMidwife](http://twitter.com/search?q=%23CallTheMidwife) | N/A |
+| 23 | [#NorthernLights](http://twitter.com/search?q=%23NorthernLights) | N/A |
+| 24 | [Ron and Lana](http://twitter.com/search?q=Ron+and+Lana) | N/A |
+| 25 | [#Makabujack](http://twitter.com/search?q=%23Makabujack) | N/A |
+| 26 | [YouTuber](http://twitter.com/search?q=YouTuber) | N/A |
+| 27 | [Bambi](http://twitter.com/search?q=Bambi) | N/A |
+| 28 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 29 | [Rosie](http://twitter.com/search?q=Rosie) | N/A |
+| 30 | [Molly Mae](http://twitter.com/search?q=Molly+Mae) | Molly Mae is a female given name, derived from the Hebrew name Mary. It is a combination of the names Mary and Mae, and can be used as a nickname for Mary or as an independent given name. The meaning of Molly Mae in English is "bitter" or "star of the sea". |
 | 31 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 32 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 32 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
 | 33 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 34 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 35 | [Trixie](http://twitter.com/search?q=Trixie) | N/A |
-| 36 | [Piers](http://twitter.com/search?q=Piers) | Piers is a type of structure built out into a body of water, such as a river or ocean, to provide access for boats and other vessels. It can also refer to a landing stage or wharf. The word comes from the Old French "piere," meaning "pillar." |
-| 37 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 38 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
-| 39 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
-| 40 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 41 | [Mickey Mouse](http://twitter.com/search?q=Mickey+Mouse) | N/A |
-| 42 | [Man Utd](http://twitter.com/search?q=Man+Utd) | N/A |
-| 43 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
-| 44 | [Monica Joan](http://twitter.com/search?q=Monica+Joan) | N/A |
-| 45 | [Morse](http://twitter.com/search?q=Morse) | N/A |
-| 46 | [Beale](http://twitter.com/search?q=Beale) | Beale is a Scottish surname derived from the Old English word "bealu", meaning "brave". It is also an English place name, referring to a location in Hampshire, England. |
-| 47 | [Siva](http://twitter.com/search?q=Siva) | N/A |
-| 48 | [Saudi](http://twitter.com/search?q=Saudi) | Saudi is an adjective used to refer to something or someone from Saudi Arabia, a country in the Middle East. |
-| 49 | [Wilson](http://twitter.com/search?q=Wilson) | N/A |
+| 34 | [Draw](http://twitter.com/search?q=Draw) | N/A |
+| 35 | [Piers](http://twitter.com/search?q=Piers) | Piers is a type of structure built out into a body of water, such as a river or ocean, to provide access for boats and other vessels. It can also refer to a landing stage or wharf. The word comes from the Old French "piere," meaning "pillar." |
+| 36 | [Trixie](http://twitter.com/search?q=Trixie) | N/A |
+| 37 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 38 | [Morse](http://twitter.com/search?q=Morse) | N/A |
+| 39 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 40 | [Michael Buffer](http://twitter.com/search?q=Michael+Buffer) | N/A |
+| 41 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
+| 42 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 43 | [Man Utd](http://twitter.com/search?q=Man+Utd) | N/A |
+| 44 | [Mickey Mouse](http://twitter.com/search?q=Mickey+Mouse) | N/A |
+| 45 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
+| 46 | [Siva](http://twitter.com/search?q=Siva) | N/A |
+| 47 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 48 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 49 | [Beale](http://twitter.com/search?q=Beale) | Beale is a Scottish surname derived from the Old English word "bealu", meaning "brave". It is also an English place name, referring to a location in Hampshire, England. |
 
 
 

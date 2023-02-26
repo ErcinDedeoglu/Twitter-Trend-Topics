@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hanoi
 
-📆 Last Updated: `2023-02-26 22:16:28 UTC`
+📆 Last Updated: `2023-02-26 23:16:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,7 +20,7 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 3 | [#앞으로의_은찬이는_더_찬란할거야](http://twitter.com/search?q=%23%ec%95%9e%ec%9c%bc%eb%a1%9c%ec%9d%98_%ec%9d%80%ec%b0%ac%ec%9d%b4%eb%8a%94_%eb%8d%94_%ec%b0%ac%eb%9e%80%ed%95%a0%ea%b1%b0%ec%95%bc) | N/A |
 | 4 | [FOREVER YOURS BUILD](http://twitter.com/search?q=FOREVER+YOURS+BUILD) | N/A |
 | 5 | [#deriturns2](http://twitter.com/search?q=%23deriturns2) | N/A |
-| 6 | [#jhope](http://twitter.com/search?q=%23jhope) | N/A |
+| 6 | [#JHOPE](http://twitter.com/search?q=%23JHOPE) | N/A |
 | 7 | [we love our blue](http://twitter.com/search?q=we+love+our+blue) | N/A |
 | 8 | [Beanz](http://twitter.com/search?q=Beanz) | N/A |
 | 9 | [bible blowing up the stage](http://twitter.com/search?q=bible+blowing+up+the+stage) | N/A |
@@ -54,7 +54,7 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 37 | [Cong](http://twitter.com/search?q=Cong) | N/A |
 | 38 | [Thái](http://twitter.com/search?q=Th%c3%a1i) | N/A |
 | 39 | [mỹ diệu](http://twitter.com/search?q=m%e1%bb%b9+di%e1%bb%87u) | N/A |
-| 40 | [Chúc](http://twitter.com/search?q=Ch%c3%bac) | N/A |
+| 40 | [Russia](http://twitter.com/search?q=Russia) | N/A |
 | 41 | [Chào](http://twitter.com/search?q=Ch%c3%a0o) | N/A |
 | 42 | [#biutheblueprince](http://twitter.com/search?q=%23biutheblueprince) | N/A |
 | 43 | [#BottegaVeneta_RM](http://twitter.com/search?q=%23BottegaVeneta_RM) | N/A |

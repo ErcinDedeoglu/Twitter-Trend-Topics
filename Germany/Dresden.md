@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dresden
 
-📆 Last Updated: `2023-02-26 22:16:15 UTC`
+📆 Last Updated: `2023-02-26 23:16:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [Germany](</Germany>)
 | 1 | [#WSMDS](http://twitter.com/search?q=%23WSMDS) | N/A |
 | 2 | [#b2502](http://twitter.com/search?q=%23b2502) | N/A |
 | 3 | [#FCBFCU](http://twitter.com/search?q=%23FCBFCU) | N/A |
-| 4 | [#Tatort](http://twitter.com/search?q=%23Tatort) | N/A |
-| 5 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
-| 6 | [Helena](http://twitter.com/search?q=Helena) | N/A |
+| 4 | [Helena](http://twitter.com/search?q=Helena) | N/A |
+| 5 | [#Tatort](http://twitter.com/search?q=%23Tatort) | N/A |
+| 6 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
 | 7 | [Schönen Sonntag](http://twitter.com/search?q=Sch%c3%b6nen+Sonntag) | "Schönen Sonntag" is a German phrase that translates to "Have a nice Sunday" in English. It is a common greeting used to wish someone a pleasant day on Sunday. |
-| 8 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
+| 8 | [Joko](http://twitter.com/search?q=Joko) | N/A |
 | 9 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
-| 10 | [Joko](http://twitter.com/search?q=Joko) | N/A |
+| 10 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
 | 11 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
 | 12 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
 | 13 | [Kinderlose](http://twitter.com/search?q=Kinderlose) | N/A |
-| 14 | [Kerner](http://twitter.com/search?q=Kerner) | N/A |
-| 15 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 16 | [Teilnehmer](http://twitter.com/search?q=Teilnehmer) | N/A |
+| 14 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
+| 15 | [Kerner](http://twitter.com/search?q=Kerner) | N/A |
+| 16 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
 | 17 | [Panzer](http://twitter.com/search?q=Panzer) | N/A |
-| 18 | [Donuts](http://twitter.com/search?q=Donuts) | N/A |
-| 19 | [Moritz](http://twitter.com/search?q=Moritz) | N/A |
-| 20 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 21 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
-| 22 | [Laborunfall](http://twitter.com/search?q=Laborunfall) | N/A |
-| 23 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 24 | [John Lennon](http://twitter.com/search?q=John+Lennon) | N/A |
-| 25 | [Fratze Deutschlands](http://twitter.com/search?q=Fratze+Deutschlands) | N/A |
-| 26 | [Sandro Wagner](http://twitter.com/search?q=Sandro+Wagner) | N/A |
-| 27 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 28 | [Wien](http://twitter.com/search?q=Wien) | N/A |
-| 29 | [Klaas](http://twitter.com/search?q=Klaas) | N/A |
-| 30 | [Jasna](http://twitter.com/search?q=Jasna) | N/A |
-| 31 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
-| 32 | [Pflegeversicherung](http://twitter.com/search?q=Pflegeversicherung) | N/A |
-| 33 | [Sonntagabend](http://twitter.com/search?q=Sonntagabend) | N/A |
-| 34 | [INEC](http://twitter.com/search?q=INEC) | N/A |
+| 18 | [Teilnehmer](http://twitter.com/search?q=Teilnehmer) | N/A |
+| 19 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 20 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
+| 21 | [Moritz](http://twitter.com/search?q=Moritz) | N/A |
+| 22 | [Sandro Wagner](http://twitter.com/search?q=Sandro+Wagner) | N/A |
+| 23 | [John Lennon](http://twitter.com/search?q=John+Lennon) | N/A |
+| 24 | [Abrams](http://twitter.com/search?q=Abrams) | Abrams is a surname of English and German origin. It is derived from the Germanic personal name Abraham, meaning "father of many". |
+| 25 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 26 | [Fratze Deutschlands](http://twitter.com/search?q=Fratze+Deutschlands) | N/A |
+| 27 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 28 | [Klaas](http://twitter.com/search?q=Klaas) | N/A |
+| 29 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
+| 30 | [Pflegeversicherung](http://twitter.com/search?q=Pflegeversicherung) | N/A |
+| 31 | [Sonntagabend](http://twitter.com/search?q=Sonntagabend) | N/A |
+| 32 | [INEC](http://twitter.com/search?q=INEC) | N/A |
+| 33 | [Dave Chisnall](http://twitter.com/search?q=Dave+Chisnall) | N/A |
+| 34 | [Botschaft](http://twitter.com/search?q=Botschaft) | N/A |
 | 35 | [Irreführung der Bevölkerung](http://twitter.com/search?q=Irref%c3%bchrung+der+Bev%c3%b6lkerung) | N/A |
-| 36 | [Botschaft](http://twitter.com/search?q=Botschaft) | N/A |
-| 37 | [Hänsel](http://twitter.com/search?q=H%c3%a4nsel) | N/A |
-| 38 | [Mannschaft](http://twitter.com/search?q=Mannschaft) | N/A |
-| 39 | [Glory Glory Man United](http://twitter.com/search?q=Glory+Glory+Man+United) | N/A |
-| 40 | [Gretel](http://twitter.com/search?q=Gretel) | N/A |
+| 36 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 37 | [Seite der Geschichte](http://twitter.com/search?q=Seite+der+Geschichte) | N/A |
+| 38 | [Frau Müller](http://twitter.com/search?q=Frau+M%c3%bcller) | N/A |
+| 39 | [Höcke](http://twitter.com/search?q=H%c3%b6cke) | N/A |
+| 40 | [Jasna](http://twitter.com/search?q=Jasna) | N/A |
 | 41 | [Indien](http://twitter.com/search?q=Indien) | N/A |
-| 42 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 43 | [Bock auf Arbeit](http://twitter.com/search?q=Bock+auf+Arbeit) | N/A |
-| 44 | [Seite der Geschichte](http://twitter.com/search?q=Seite+der+Geschichte) | N/A |
-| 45 | [Halbzeit](http://twitter.com/search?q=Halbzeit) | N/A |
-| 46 | [Abrams](http://twitter.com/search?q=Abrams) | Abrams is a surname of English and German origin. It is derived from the Germanic personal name Abraham, meaning "father of many". |
-| 47 | [Frau Müller](http://twitter.com/search?q=Frau+M%c3%bcller) | N/A |
-| 48 | [Höcke](http://twitter.com/search?q=H%c3%b6cke) | N/A |
-| 49 | [Entchen](http://twitter.com/search?q=Entchen) | N/A |
+| 42 | [Mannschaft](http://twitter.com/search?q=Mannschaft) | N/A |
+| 43 | [Finale](http://twitter.com/search?q=Finale) | N/A |
+| 44 | [Kundgebung](http://twitter.com/search?q=Kundgebung) | N/A |
+| 45 | [Nachti](http://twitter.com/search?q=Nachti) | N/A |
+| 46 | [Verbrecher in die Geschichte](http://twitter.com/search?q=Verbrecher+in+die+Geschichte) | N/A |
+| 47 | [Hansa](http://twitter.com/search?q=Hansa) | N/A |
+| 48 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 49 | [Verhandlungen](http://twitter.com/search?q=Verhandlungen) | N/A |
 
 
 

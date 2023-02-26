@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Italy
 
-📆 Last Updated: `2023-02-26 22:16:51 UTC`
+📆 Last Updated: `2023-02-26 23:17:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Italy
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MilanAtalanta](http://twitter.com/search?q=%23MilanAtalanta) | N/A |
-| 2 | [#Schlein](http://twitter.com/search?q=%23Schlein) | N/A |
-| 3 | [#nonelarena](http://twitter.com/search?q=%23nonelarena) | N/A |
-| 4 | [#CTCF](http://twitter.com/search?q=%23CTCF) | N/A |
-| 5 | [#PrimariePD](http://twitter.com/search?q=%23PrimariePD) | N/A |
+| 1 | [#Schlein](http://twitter.com/search?q=%23Schlein) | N/A |
+| 2 | [#primariepd2023](http://twitter.com/search?q=%23primariepd2023) | N/A |
+| 3 | [#MilanAtalanta](http://twitter.com/search?q=%23MilanAtalanta) | N/A |
+| 4 | [#Bonaccini](http://twitter.com/search?q=%23Bonaccini) | N/A |
+| 5 | [#nonelarena](http://twitter.com/search?q=%23nonelarena) | N/A |
 | 6 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
-| 7 | [Messias](http://twitter.com/search?q=Messias) | Messias is a Hebrew word meaning "anointed one" or "savior." It is used in the Bible to refer to Jesus Christ, who is seen as the promised Messiah of the Old Testament. In English, it is often translated as "Messiah." |
-| 8 | [Thiaw](http://twitter.com/search?q=Thiaw) | N/A |
-| 9 | [Krunic](http://twitter.com/search?q=Krunic) | N/A |
-| 10 | [Theo](http://twitter.com/search?q=Theo) | N/A |
-| 11 | [Musso](http://twitter.com/search?q=Musso) | N/A |
-| 12 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
-| 13 | [Gabbia](http://twitter.com/search?q=Gabbia) | N/A |
-| 14 | [Diaz](http://twitter.com/search?q=Diaz) | N/A |
-| 15 | [Ibra](http://twitter.com/search?q=Ibra) | N/A |
-| 16 | [Gasperini](http://twitter.com/search?q=Gasperini) | N/A |
-| 17 | [Mariani](http://twitter.com/search?q=Mariani) | N/A |
-| 18 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 19 | [Maignan](http://twitter.com/search?q=Maignan) | Maignan is a French surname derived from the Old French word maigne, meaning "beloved". It is most commonly found in the regions of Normandy and Brittany. In English, it can be translated to mean "beloved one". |
-| 20 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
-| 21 | [Renzi](http://twitter.com/search?q=Renzi) | N/A |
-| 22 | [Hojlund](http://twitter.com/search?q=Hojlund) | N/A |
-| 23 | [Il PD](http://twitter.com/search?q=Il+PD) | N/A |
-| 24 | [Varese](http://twitter.com/search?q=Varese) | N/A |
-| 25 | [Mike](http://twitter.com/search?q=Mike) | N/A |
-| 26 | [Franceschini](http://twitter.com/search?q=Franceschini) | N/A |
-| 27 | [De Luca](http://twitter.com/search?q=De+Luca) | N/A |
-| 28 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
-| 29 | [Grecia](http://twitter.com/search?q=Grecia) | N/A |
-| 30 | [Vecchioni](http://twitter.com/search?q=Vecchioni) | N/A |
-| 31 | [Mediterraneo](http://twitter.com/search?q=Mediterraneo) | N/A |
-| 32 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 33 | [Le ONG](http://twitter.com/search?q=Le+ONG) | N/A |
-| 34 | [Jankto](http://twitter.com/search?q=Jankto) | N/A |
-| 35 | [Libia](http://twitter.com/search?q=Libia) | N/A |
-| 36 | [Mister](http://twitter.com/search?q=Mister) | N/A |
-| 37 | [Foglio](http://twitter.com/search?q=Foglio) | N/A |
-| 38 | [Bastava](http://twitter.com/search?q=Bastava) | N/A |
-| 39 | [Curzio Maltese](http://twitter.com/search?q=Curzio+Maltese) | N/A |
-| 40 | [#90giorniperinnamorarsi](http://twitter.com/search?q=%2390giorniperinnamorarsi) | N/A |
-| 41 | [#Bonaccini](http://twitter.com/search?q=%23Bonaccini) | N/A |
-| 42 | [#RestaConMe](http://twitter.com/search?q=%23RestaConMe) | N/A |
-| 43 | [#Crotone](http://twitter.com/search?q=%23Crotone) | N/A |
-| 44 | [#inonda](http://twitter.com/search?q=%23inonda) | N/A |
-| 45 | [#Loshowdeirecord](http://twitter.com/search?q=%23Loshowdeirecord) | N/A |
-| 46 | [#Giletti](http://twitter.com/search?q=%23Giletti) | N/A |
-| 47 | [#migranti](http://twitter.com/search?q=%23migranti) | N/A |
-| 48 | [#naufragio](http://twitter.com/search?q=%23naufragio) | N/A |
-| 49 | [#zonabianca](http://twitter.com/search?q=%23zonabianca) | N/A |
-| 50 | [#Mentana](http://twitter.com/search?q=%23Mentana) | N/A |
+| 7 | [Thiaw](http://twitter.com/search?q=Thiaw) | N/A |
+| 8 | [Franceschini](http://twitter.com/search?q=Franceschini) | N/A |
+| 9 | [Il PD](http://twitter.com/search?q=Il+PD) | N/A |
+| 10 | [Messias](http://twitter.com/search?q=Messias) | Messias is a Hebrew word meaning "anointed one" or "savior." It is used in the Bible to refer to Jesus Christ, who is seen as the promised Messiah of the Old Testament. In English, it is often translated as "Messiah." |
+| 11 | [Krunic](http://twitter.com/search?q=Krunic) | N/A |
+| 12 | [Renzi](http://twitter.com/search?q=Renzi) | N/A |
+| 13 | [Theo](http://twitter.com/search?q=Theo) | N/A |
+| 14 | [Partito Democratico](http://twitter.com/search?q=Partito+Democratico) | N/A |
+| 15 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
+| 16 | [Musso](http://twitter.com/search?q=Musso) | N/A |
+| 17 | [Segretaria](http://twitter.com/search?q=Segretaria) | N/A |
+| 18 | [Giletti](http://twitter.com/search?q=Giletti) | N/A |
+| 19 | [Gabbia](http://twitter.com/search?q=Gabbia) | N/A |
+| 20 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 21 | [Diaz](http://twitter.com/search?q=Diaz) | N/A |
+| 22 | [Mariani](http://twitter.com/search?q=Mariani) | N/A |
+| 23 | [Tomori](http://twitter.com/search?q=Tomori) | Tomori is a Japanese surname. It is derived from the Japanese words "tomo" (friend) and "ri" (village). In English, it can be translated to mean "Friendly Village". |
+| 24 | [Zlatan](http://twitter.com/search?q=Zlatan) | Zlatan is a nickname for the Swedish soccer player Zlatan Ibrahimović. It is derived from his first name and is used to refer to him in a friendly or affectionate way. In English, it can be translated as "golden one". |
+| 25 | [Maignan](http://twitter.com/search?q=Maignan) | Maignan is a French surname derived from the Old French word maigne, meaning "beloved". It is most commonly found in the regions of Normandy and Brittany. In English, it can be translated to mean "beloved one". |
+| 26 | [Amodeo](http://twitter.com/search?q=Amodeo) | N/A |
+| 27 | [Sinistra](http://twitter.com/search?q=Sinistra) | N/A |
+| 28 | [Emilia Romagna](http://twitter.com/search?q=Emilia+Romagna) | N/A |
+| 29 | [Hojlund](http://twitter.com/search?q=Hojlund) | N/A |
+| 30 | [Bennacer](http://twitter.com/search?q=Bennacer) | N/A |
+| 31 | [Varese](http://twitter.com/search?q=Varese) | N/A |
+| 32 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 33 | [Mike](http://twitter.com/search?q=Mike) | N/A |
+| 34 | [Italia Viva](http://twitter.com/search?q=Italia+Viva) | N/A |
+| 35 | [De Luca](http://twitter.com/search?q=De+Luca) | N/A |
+| 36 | [Grecia](http://twitter.com/search?q=Grecia) | N/A |
+| 37 | [Vecchioni](http://twitter.com/search?q=Vecchioni) | N/A |
+| 38 | [Mediterraneo](http://twitter.com/search?q=Mediterraneo) | N/A |
+| 39 | [Libia](http://twitter.com/search?q=Libia) | N/A |
+| 40 | [Mister](http://twitter.com/search?q=Mister) | N/A |
+| 41 | [Foglio](http://twitter.com/search?q=Foglio) | N/A |
+| 42 | [Bastava](http://twitter.com/search?q=Bastava) | N/A |
+| 43 | [#CTCF](http://twitter.com/search?q=%23CTCF) | N/A |
+| 44 | [#90giorniperinnamorarsi](http://twitter.com/search?q=%2390giorniperinnamorarsi) | N/A |
+| 45 | [#RestaConMe](http://twitter.com/search?q=%23RestaConMe) | N/A |
+| 46 | [#Ibrahimovic](http://twitter.com/search?q=%23Ibrahimovic) | N/A |
+| 47 | [#Mentana](http://twitter.com/search?q=%23Mentana) | N/A |
+| 48 | [#Loshowdeirecord](http://twitter.com/search?q=%23Loshowdeirecord) | N/A |
+| 49 | [#Gasperini](http://twitter.com/search?q=%23Gasperini) | N/A |
+| 50 | [#Pioli](http://twitter.com/search?q=%23Pioli) | N/A |
 
 
 

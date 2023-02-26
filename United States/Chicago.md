@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chicago
 
-📆 Last Updated: `2023-02-26 22:16:40 UTC`
+📆 Last Updated: `2023-02-26 23:17:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Bradley](http://twitter.com/search?q=Bradley) | N/A |
-| 2 | [Illini](http://twitter.com/search?q=Illini) | Illini is a nickname for the University of Illinois at Urbana-Champaign. It is derived from the word "Illiniwek," which was the name of a confederacy of Native American tribes that lived in what is now Illinois. The term is used to refer to students, alumni, and fans of the university. |
-| 3 | [Ohio State](http://twitter.com/search?q=Ohio+State) | Ohio State is the name of a public research university located in Columbus, Ohio. It is the flagship institution of the Ohio State University System and one of the largest universities in the United States. The university was founded in 1870 as a land-grant university and is currently ranked among the top 20 universities in the world. |
-| 4 | [Big Ten](http://twitter.com/search?q=Big+Ten) | N/A |
-| 5 | [Scott Adams](http://twitter.com/search?q=Scott+Adams) | N/A |
-| 6 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 7 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
-| 8 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 9 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
-| 10 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
-| 11 | [Badou Jack](http://twitter.com/search?q=Badou+Jack) | N/A |
-| 12 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
-| 13 | [#GoBlue](http://twitter.com/search?q=%23GoBlue) | N/A |
-| 14 | [Booker](http://twitter.com/search?q=Booker) | Booker is a term used to refer to someone who books or arranges appointments, events, or reservations. It is often used in the context of a person who works in the hospitality industry. |
-| 15 | [Fauci](http://twitter.com/search?q=Fauci) | N/A |
-| 16 | [Michigan](http://twitter.com/search?q=Michigan) | Michigan is a state in the Midwestern United States. It is bordered by four of the five Great Lakes, and is the only state to be surrounded by three out of the five. Michigan is known for its diverse landscape, which includes forests, beaches, and rolling hills. The state's name comes from the Ojibwe word "mishigami," which means "large lake." |
-| 17 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
-| 18 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 19 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
-| 20 | [Wayne](http://twitter.com/search?q=Wayne) | Wayne is a masculine given name in English, derived from an Old English surname meaning "wagon maker" or "wagon driver". It is also used as a surname. |
-| 21 | [Vando](http://twitter.com/search?q=Vando) | N/A |
-| 22 | [Gard](http://twitter.com/search?q=Gard) | N/A |
-| 23 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
-| 24 | [#PalaCasino400](http://twitter.com/search?q=%23PalaCasino400) | N/A |
-| 25 | [#NASCAR75](http://twitter.com/search?q=%23NASCAR75) | N/A |
-| 26 | [Makabu](http://twitter.com/search?q=Makabu) | N/A |
-| 27 | [#Break4Busch](http://twitter.com/search?q=%23Break4Busch) | N/A |
-| 28 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 29 | [LaJoie](http://twitter.com/search?q=LaJoie) | N/A |
-| 30 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
-| 31 | [Larson](http://twitter.com/search?q=Larson) | N/A |
-| 32 | [Hardaway](http://twitter.com/search?q=Hardaway) | Hardaway is a slang term used to describe someone who is very determined and focused on achieving their goals. It can also be used to describe someone who is very ambitious and willing to do whatever it takes to get what they want. |
-| 33 | [Morty](http://twitter.com/search?q=Morty) | Morty is a nickname for the given name Mortimer, which is of English origin and means "dead sea". It can also be used as a diminutive form of the name Mortimer. |
-| 34 | [Truex](http://twitter.com/search?q=Truex) | N/A |
-| 35 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 36 | [Timo](http://twitter.com/search?q=Timo) | N/A |
-| 37 | [Brock Nelson](http://twitter.com/search?q=Brock+Nelson) | Brock Nelson is a surname of English origin. It is derived from the Old English words "broc" meaning badger and "nel" meaning a small valley. The name can be translated to mean "valley of the badger". |
-| 38 | [Blaney](http://twitter.com/search?q=Blaney) | N/A |
-| 39 | [Adin](http://twitter.com/search?q=Adin) | Adin is a unisex name of Hebrew origin, meaning "noble" or "slender". |
-| 40 | [Mercer](http://twitter.com/search?q=Mercer) | N/A |
-| 41 | [Chastain](http://twitter.com/search?q=Chastain) | N/A |
-| 42 | [Trotz](http://twitter.com/search?q=Trotz) | N/A |
-| 43 | [Badgers](http://twitter.com/search?q=Badgers) | N/A |
-| 44 | [Jae Crowder](http://twitter.com/search?q=Jae+Crowder) | N/A |
-| 45 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
-| 46 | [Chris Paul](http://twitter.com/search?q=Chris+Paul) | Chris Paul is the name of an American professional basketball player. He currently plays for the Oklahoma City Thunder in the National Basketball Association (NBA). His full name is Christopher Emmanuel Paul. He is a nine-time NBA All-Star and has won two Olympic gold medals. |
-| 47 | [Kaprizov](http://twitter.com/search?q=Kaprizov) | N/A |
-| 48 | [Stage 1](http://twitter.com/search?q=Stage+1) | N/A |
-| 49 | [Canelo](http://twitter.com/search?q=Canelo) | N/A |
-| 50 | [Indiana](http://twitter.com/search?q=Indiana) | Indiana is a state in the Midwestern United States. It is bordered by Michigan to the north, Ohio to the east, Kentucky to the south, and Illinois to the west. The meaning of Indiana in English is "Land of the Indians". |
+| 1 | [#SD2023](http://twitter.com/search?q=%23SD2023) | N/A |
+| 2 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
+| 3 | [#BullsNation](http://twitter.com/search?q=%23BullsNation) | N/A |
+| 4 | [Bradley](http://twitter.com/search?q=Bradley) | N/A |
+| 5 | [Illini](http://twitter.com/search?q=Illini) | Illini is a nickname for the University of Illinois at Urbana-Champaign. It is derived from the word "Illiniwek," which was the name of a confederacy of Native American tribes that lived in what is now Illinois. The term is used to refer to students, alumni, and fans of the university. |
+| 6 | [Ohio State](http://twitter.com/search?q=Ohio+State) | Ohio State is the name of a public research university located in Columbus, Ohio. It is the flagship institution of the Ohio State University System and one of the largest universities in the United States. The university was founded in 1870 as a land-grant university and is currently ranked among the top 20 universities in the world. |
+| 7 | [Big Ten](http://twitter.com/search?q=Big+Ten) | N/A |
+| 8 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
+| 9 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 10 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 11 | [Vanderbilt](http://twitter.com/search?q=Vanderbilt) | N/A |
+| 12 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
+| 13 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
+| 14 | [Vando](http://twitter.com/search?q=Vando) | N/A |
+| 15 | [Reaves](http://twitter.com/search?q=Reaves) | Reaves is a surname of English origin. It is derived from the Old French word "reves," meaning "dreams." The name is thought to have been given to someone who was known for having prophetic dreams. |
+| 16 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
+| 17 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
+| 18 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
+| 19 | [Josh Green](http://twitter.com/search?q=Josh+Green) | Josh Green is a slang term used to describe someone who is inexperienced or naive. It is often used to describe someone who is new to a particular activity or situation and may not be aware of the rules or customs associated with it. |
+| 20 | [#NASCAR](http://twitter.com/search?q=%23NASCAR) | N/A |
+| 21 | [Badou Jack](http://twitter.com/search?q=Badou+Jack) | N/A |
+| 22 | [Fauci](http://twitter.com/search?q=Fauci) | N/A |
+| 23 | [Mavericks](http://twitter.com/search?q=Mavericks) | Mavericks is a term used to describe an independent-minded person who does not conform to the norms of society. It is often used to describe someone who is willing to take risks and challenge the status quo. |
+| 24 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
+| 25 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
+| 26 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
+| 27 | [Mark Cuban](http://twitter.com/search?q=Mark+Cuban) | Mark Cuban is an American entrepreneur, investor, and owner of the NBA's Dallas Mavericks. He is known for his outspokenness and his involvement in a variety of business ventures. He is also a regular investor on the television show Shark Tank. The phrase "Mark Cuban" has come to mean someone who is ambitious, successful, and outspoken. |
+| 28 | [Doughty](http://twitter.com/search?q=Doughty) | N/A |
+| 29 | [#MFFL](http://twitter.com/search?q=%23MFFL) | #MFFL stands for "Mavs Fan For Life" and is used by fans of the Dallas Mavericks NBA basketball team to show their loyalty and support. |
+| 30 | [Andre Miller](http://twitter.com/search?q=Andre+Miller) | Andre Miller is a retired American professional basketball player. He played in the National Basketball Association (NBA) for 17 seasons, from 1999 to 2016. He was known for his passing ability and his ability to control the tempo of the game. |
+| 31 | [Timo Meier](http://twitter.com/search?q=Timo+Meier) | N/A |
+| 32 | [Dwight Powell](http://twitter.com/search?q=Dwight+Powell) | N/A |
+| 33 | [Booker](http://twitter.com/search?q=Booker) | Booker is a term used to refer to someone who books or arranges appointments, events, or reservations. It is often used in the context of a person who works in the hospitality industry. |
+| 34 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
+| 35 | [Hardaway](http://twitter.com/search?q=Hardaway) | Hardaway is a slang term used to describe someone who is very determined and focused on achieving their goals. It can also be used to describe someone who is very ambitious and willing to do whatever it takes to get what they want. |
+| 36 | [Wayne](http://twitter.com/search?q=Wayne) | Wayne is a masculine given name in English, derived from an Old English surname meaning "wagon maker" or "wagon driver". It is also used as a surname. |
+| 37 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
+| 38 | [Jason Kidd](http://twitter.com/search?q=Jason+Kidd) | Jason Kidd is an American former professional basketball player and current head coach of the Milwaukee Bucks. He is considered one of the greatest point guards of all time, winning an NBA Championship in 2011 with the Dallas Mavericks and being a 10-time NBA All-Star. He was also a two-time Olympic gold medalist and was inducted into the Basketball Hall of Fame in 2018. |
+| 39 | [Chastain](http://twitter.com/search?q=Chastain) | N/A |
+| 40 | [Dallas](http://twitter.com/search?q=Dallas) | Dallas is a city in the U.S. state of Texas. It is the ninth most populous city in the United States and the third-largest in Texas after Houston and San Antonio. The city's population ranks ninth in the U.S. and third in Texas after Houston and San Antonio. Dallas is known for its oil, telecommunications, banking, technology, healthcare, defense, transportation, and commerce industries. |
+| 41 | [Michigan](http://twitter.com/search?q=Michigan) | Michigan is a state in the Midwestern United States. It is bordered by four of the five Great Lakes, and is the only state to be surrounded by three out of the five. Michigan is known for its diverse landscape, which includes forests, beaches, and rolling hills. The state's name comes from the Ojibwe word "mishigami," which means "large lake." |
+| 42 | [Mercer](http://twitter.com/search?q=Mercer) | N/A |
+| 43 | [Shawn Porter](http://twitter.com/search?q=Shawn+Porter) | N/A |
+| 44 | [Schneider](http://twitter.com/search?q=Schneider) | N/A |
+| 45 | [Cam Johnson](http://twitter.com/search?q=Cam+Johnson) | Cam Johnson is a slang term used to describe someone who is very confident and outgoing. It can also be used to describe someone who is always the life of the party. |
+| 46 | [Doris Burke](http://twitter.com/search?q=Doris+Burke) | N/A |
+| 47 | [Chris Kirk](http://twitter.com/search?q=Chris+Kirk) | N/A |
+| 48 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 49 | [Gard](http://twitter.com/search?q=Gard) | N/A |
+| 50 | [Trocheck](http://twitter.com/search?q=Trocheck) | N/A |
 
 
 

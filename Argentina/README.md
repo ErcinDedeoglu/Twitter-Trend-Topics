@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Argentina
 
-📆 Last Updated: `2023-02-26 22:16:48 UTC`
+📆 Last Updated: `2023-02-26 23:17:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Argentina
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 2 | [Coccaro](http://twitter.com/search?q=Coccaro) | N/A |
-| 3 | [Ronaldinho](http://twitter.com/search?q=Ronaldinho) | N/A |
-| 4 | [#integracionlouie](http://twitter.com/search?q=%23integracionlouie) | N/A |
-| 5 | [Niembro](http://twitter.com/search?q=Niembro) | N/A |
-| 6 | [#LouisTomlinson](http://twitter.com/search?q=%23LouisTomlinson) | N/A |
-| 7 | [Lionel](http://twitter.com/search?q=Lionel) | Lionel is a French name derived from the Latin word leo, meaning "lion". It is also a surname, and may refer to someone who is brave or strong like a lion. |
-| 8 | [Campisi](http://twitter.com/search?q=Campisi) | N/A |
-| 9 | [Delgado](http://twitter.com/search?q=Delgado) | N/A |
-| 10 | [#Huracán](http://twitter.com/search?q=%23Hurac%c3%a1n) | N/A |
-| 11 | [Marsella](http://twitter.com/search?q=Marsella) | N/A |
-| 12 | [Kylian](http://twitter.com/search?q=Kylian) | N/A |
-| 13 | [#BigTimeRushEnArgentina](http://twitter.com/search?q=%23BigTimeRushEnArgentina) | N/A |
-| 14 | [UN MILLÓN PARA CONE](http://twitter.com/search?q=UN+MILL%c3%93N+PARA+CONE) | N/A |
-| 15 | [Kiki](http://twitter.com/search?q=Kiki) | N/A |
-| 16 | [Licha](http://twitter.com/search?q=Licha) | Licha is a Spanish word that means "beautiful" or "pretty". It is often used to describe someone's physical appearance, but can also be used to describe something that is aesthetically pleasing. |
-| 17 | [Beltrán](http://twitter.com/search?q=Beltr%c3%a1n) | Beltrán is a Spanish name derived from the Germanic name Berengar, which means "bear-spear". It is also a common surname in Spanish-speaking countries. |
-| 18 | [Cordero](http://twitter.com/search?q=Cordero) | N/A |
-| 19 | [Londoño](http://twitter.com/search?q=Londo%c3%b1o) | N/A |
-| 20 | [Kimpembe](http://twitter.com/search?q=Kimpembe) | N/A |
-| 21 | [Pierotti](http://twitter.com/search?q=Pierotti) | N/A |
+| 1 | [Solari](http://twitter.com/search?q=Solari) | Solari is a Latin word meaning “of the sun”. It is often used to refer to things related to the sun, such as solar energy or solar power. It can also be used as a surname, particularly in Italy. |
+| 2 | [Paradela](http://twitter.com/search?q=Paradela) | Paradela is a Spanish word that means "parade". It is used to refer to a procession or march of people, usually with music and/or banners. |
+| 3 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 4 | [Beltran](http://twitter.com/search?q=Beltran) | N/A |
+| 5 | [Coccaro](http://twitter.com/search?q=Coccaro) | N/A |
+| 6 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 7 | [#integracionlouie](http://twitter.com/search?q=%23integracionlouie) | N/A |
+| 8 | [Ronaldinho](http://twitter.com/search?q=Ronaldinho) | N/A |
+| 9 | [Monumental](http://twitter.com/search?q=Monumental) | N/A |
+| 10 | [#LouisTomlinson](http://twitter.com/search?q=%23LouisTomlinson) | N/A |
+| 11 | [Rondon](http://twitter.com/search?q=Rondon) | N/A |
+| 12 | [Vamos River](http://twitter.com/search?q=Vamos+River) | N/A |
+| 13 | [Londoño](http://twitter.com/search?q=Londo%c3%b1o) | N/A |
+| 14 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
+| 15 | [Lionel](http://twitter.com/search?q=Lionel) | Lionel is a French name derived from the Latin word leo, meaning "lion". It is also a surname, and may refer to someone who is brave or strong like a lion. |
+| 16 | [Otamendi](http://twitter.com/search?q=Otamendi) | N/A |
+| 17 | [Campisi](http://twitter.com/search?q=Campisi) | N/A |
+| 18 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
+| 19 | [Delgado](http://twitter.com/search?q=Delgado) | N/A |
+| 20 | [Niembro](http://twitter.com/search?q=Niembro) | N/A |
+| 21 | [UN MILLÓN PARA CONE](http://twitter.com/search?q=UN+MILL%c3%93N+PARA+CONE) | N/A |
 | 22 | [Gauto](http://twitter.com/search?q=Gauto) | N/A |
-| 23 | [Mazzanti](http://twitter.com/search?q=Mazzanti) | N/A |
-| 24 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
-| 25 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
-| 26 | [Pata Castro](http://twitter.com/search?q=Pata+Castro) | N/A |
-| 27 | [Pusineri](http://twitter.com/search?q=Pusineri) | N/A |
-| 28 | [Kings League](http://twitter.com/search?q=Kings+League) | Kings League is a mobile strategy game developed by Gameloft. In the game, players build their own kingdom and compete against other players in a series of battles. The goal is to become the most powerful kingdom in the world. The name "Kings League" comes from the idea that players are competing to become the king of their own kingdom. |
-| 29 | [Colón](http://twitter.com/search?q=Col%c3%b3n) | N/A |
-| 30 | [CADU](http://twitter.com/search?q=CADU) | N/A |
-| 31 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
-| 32 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 33 | [Quevedo](http://twitter.com/search?q=Quevedo) | Quevedo is a Spanish surname derived from the town of Quevedo in the province of Valladolid, Spain. The name is derived from the Latin word quercus, meaning "oak tree". In English, it can be translated to mean "from the oak tree". |
-| 34 | [Almería](http://twitter.com/search?q=Almer%c3%ada) | Almería is a city in the southeastern region of Spain. It is the capital of the province of Almería and is located on the Mediterranean Sea. In English, Almería means "The Watchtower". |
-| 35 | [Meza](http://twitter.com/search?q=Meza) | N/A |
-| 36 | [Benítez](http://twitter.com/search?q=Ben%c3%adtez) | N/A |
-| 37 | [Barbona](http://twitter.com/search?q=Barbona) | N/A |
+| 23 | [#Huracan](http://twitter.com/search?q=%23Huracan) | N/A |
+| 24 | [Barbona](http://twitter.com/search?q=Barbona) | N/A |
+| 25 | [Salomón](http://twitter.com/search?q=Salom%c3%b3n) | N/A |
+| 26 | [Pierotti](http://twitter.com/search?q=Pierotti) | N/A |
+| 27 | [Cordero](http://twitter.com/search?q=Cordero) | N/A |
+| 28 | [Marsella](http://twitter.com/search?q=Marsella) | N/A |
+| 29 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 30 | [Kylian](http://twitter.com/search?q=Kylian) | N/A |
+| 31 | [Colón](http://twitter.com/search?q=Col%c3%b3n) | N/A |
+| 32 | [Neris](http://twitter.com/search?q=Neris) | N/A |
+| 33 | [Pata Castro](http://twitter.com/search?q=Pata+Castro) | N/A |
+| 34 | [Mazzanti](http://twitter.com/search?q=Mazzanti) | N/A |
+| 35 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
+| 36 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
+| 37 | [Pusineri](http://twitter.com/search?q=Pusineri) | N/A |
 | 38 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
-| 39 | [rauw](http://twitter.com/search?q=rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not finished or polished, or something that is unrefined. |
-| 40 | [Lisandro Martínez](http://twitter.com/search?q=Lisandro+Mart%c3%adnez) | N/A |
-| 41 | [#AtleticoTucuman](http://twitter.com/search?q=%23AtleticoTucuman) | N/A |
-| 42 | [Fabiola](http://twitter.com/search?q=Fabiola) | N/A |
-| 43 | [Marquinhos](http://twitter.com/search?q=Marquinhos) | Marquinhos is a nickname for the Brazilian footballer Marcos Aoás Corrêa, who plays for Paris Saint-Germain. The name is derived from his first name, Marcos, and is a common nickname in Brazil. In English, it translates to "Little Marcos". |
-| 44 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 45 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
-| 46 | [Dabove](http://twitter.com/search?q=Dabove) | N/A |
-| 47 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 48 | [Globo](http://twitter.com/search?q=Globo) | Globo is a Brazilian media conglomerate and the largest communications group in Latin America. It is one of the largest commercial TV networks in the world, and it produces content for television, radio, internet, and print media. In English, Globo means "global" or "worldwide". |
-| 49 | [Rial](http://twitter.com/search?q=Rial) | Rial is the official currency of Iran. It is divided into 100 dinar and is denoted by the symbol "﷼". In English, it is sometimes referred to as the Iranian Rial or Persian Rial. |
-| 50 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 39 | [#BigTimeRushEnArgentina](http://twitter.com/search?q=%23BigTimeRushEnArgentina) | N/A |
+| 40 | [Dabove](http://twitter.com/search?q=Dabove) | N/A |
+| 41 | [Juliana](http://twitter.com/search?q=Juliana) | Juliana is a female given name of Latin origin, derived from the name Julius. It means "youthful" or "downy-bearded". |
+| 42 | [Rial](http://twitter.com/search?q=Rial) | Rial is the official currency of Iran. It is divided into 100 dinar and is denoted by the symbol "﷼". In English, it is sometimes referred to as the Iranian Rial or Persian Rial. |
+| 43 | [CADU](http://twitter.com/search?q=CADU) | N/A |
+| 44 | [Licha](http://twitter.com/search?q=Licha) | Licha is a Spanish word that means "beautiful" or "pretty". It is often used to describe someone's physical appearance, but can also be used to describe something that is aesthetically pleasing. |
+| 45 | [Meza](http://twitter.com/search?q=Meza) | N/A |
+| 46 | [Benítez](http://twitter.com/search?q=Ben%c3%adtez) | N/A |
+| 47 | [#KingsLeague](http://twitter.com/search?q=%23KingsLeague) | N/A |
+| 48 | [Fabiola](http://twitter.com/search?q=Fabiola) | N/A |
+| 49 | [Kiki](http://twitter.com/search?q=Kiki) | N/A |
+| 50 | [rauw](http://twitter.com/search?q=rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not finished or polished, or something that is unrefined. |
 
 
 
