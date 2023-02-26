@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Zealand
 
-📆 Last Updated: `2023-02-26 15:16:58 UTC`
+📆 Last Updated: `2023-02-26 16:16:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,11 +18,11 @@ This is top 50 for New Zealand
 | 1 | [liz gunn](http://twitter.com/search?q=liz+gunn) | N/A |
 | 2 | [#mafsaunz](http://twitter.com/search?q=%23mafsaunz) | N/A |
 | 3 | [Ans Westra](http://twitter.com/search?q=Ans+Westra) | N/A |
-| 4 | [#eqnz](http://twitter.com/search?q=%23eqnz) | N/A |
+| 4 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 5 | [#higvblu](http://twitter.com/search?q=%23higvblu) | N/A |
 | 6 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 7 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 8 | [Councils](http://twitter.com/search?q=Councils) | N/A |
+| 7 | [#eqnz](http://twitter.com/search?q=%23eqnz) | N/A |
+| 8 | [councils](http://twitter.com/search?q=councils) | N/A |
 | 9 | [damien grant](http://twitter.com/search?q=damien+grant) | N/A |
 | 10 | [3 waters](http://twitter.com/search?q=3+waters) | N/A |
 | 11 | [nz european](http://twitter.com/search?q=nz+european) | N/A |
@@ -52,7 +52,7 @@ This is top 50 for New Zealand
 | 35 | [Shane](http://twitter.com/search?q=Shane) | N/A |
 | 36 | [Blues](http://twitter.com/search?q=Blues) | N/A |
 | 37 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 38 | [Three Waters](http://twitter.com/search?q=Three+Waters) | N/A |
+| 38 | [three waters](http://twitter.com/search?q=three+waters) | N/A |
 | 39 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
 | 40 | [Slash](http://twitter.com/search?q=Slash) | N/A |
 | 41 | [Hugs](http://twitter.com/search?q=Hugs) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Montpellier
 
-📆 Last Updated: `2023-02-26 15:16:17 UTC`
+📆 Last Updated: `2023-02-26 16:16:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,52 +16,53 @@ This is top 50 for [France](</France>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#FRAECO](http://twitter.com/search?q=%23FRAECO) | N/A |
-| 2 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
-| 3 | [#FCNSRFC](http://twitter.com/search?q=%23FCNSRFC) | N/A |
-| 4 | [François Hadji](http://twitter.com/search?q=Fran%c3%a7ois+Hadji) | N/A |
-| 5 | [Rouault](http://twitter.com/search?q=Rouault) | N/A |
-| 6 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 7 | [Allez les Bleus](http://twitter.com/search?q=Allez+les+Bleus) | N/A |
-| 8 | [Emerson](http://twitter.com/search?q=Emerson) | Emerson is a surname of English origin. It is derived from the Old English personal name Emery, which means “brave” or “powerful.” The name was popularized by Ralph Waldo Emerson, an American essayist, lecturer, and poet who lived in the 19th century. |
-| 9 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
-| 10 | [Martyrs](http://twitter.com/search?q=Martyrs) | N/A |
-| 11 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
-| 12 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 13 | [McDo](http://twitter.com/search?q=McDo) | N/A |
-| 14 | [Pigalle](http://twitter.com/search?q=Pigalle) | N/A |
+| 2 | [Haouas](http://twitter.com/search?q=Haouas) | N/A |
+| 3 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 4 | [#FCNSRFC](http://twitter.com/search?q=%23FCNSRFC) | N/A |
+| 5 | [#SDRTFC](http://twitter.com/search?q=%23SDRTFC) | N/A |
+| 6 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 7 | [François Hadji](http://twitter.com/search?q=Fran%c3%a7ois+Hadji) | N/A |
+| 8 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
+| 9 | [Rouault](http://twitter.com/search?q=Rouault) | N/A |
+| 10 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
+| 11 | [Jelonch](http://twitter.com/search?q=Jelonch) | N/A |
+| 12 | [Pigalle](http://twitter.com/search?q=Pigalle) | N/A |
+| 13 | [Martyrs](http://twitter.com/search?q=Martyrs) | N/A |
+| 14 | [Emerson](http://twitter.com/search?q=Emerson) | Emerson is a surname of English origin. It is derived from the Old English personal name Emery, which means “brave” or “powerful.” The name was popularized by Ralph Waldo Emerson, an American essayist, lecturer, and poet who lived in the 19th century. |
 | 15 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 16 | [Lorient](http://twitter.com/search?q=Lorient) | N/A |
+| 16 | [Allez les Bleus](http://twitter.com/search?q=Allez+les+Bleus) | N/A |
 | 17 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
-| 18 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 19 | [garçons bouchers](http://twitter.com/search?q=gar%c3%a7ons+bouchers) | N/A |
-| 20 | [Faivre](http://twitter.com/search?q=Faivre) | N/A |
-| 21 | [Radu](http://twitter.com/search?q=Radu) | N/A |
-| 22 | [Enzo Fernandez](http://twitter.com/search?q=Enzo+Fernandez) | N/A |
-| 23 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 24 | [Delort](http://twitter.com/search?q=Delort) | N/A |
-| 25 | [Thiago Silva](http://twitter.com/search?q=Thiago+Silva) | Thiago Silva is a Brazilian professional footballer who plays as a central defender for Paris Saint-Germain and the Brazil national team. In English, Thiago Silva means "Saint Thomas". |
-| 26 | [Doku](http://twitter.com/search?q=Doku) | N/A |
-| 27 | [Henri Guaino](http://twitter.com/search?q=Henri+Guaino) | N/A |
-| 28 | [Bologne](http://twitter.com/search?q=Bologne) | N/A |
-| 29 | [Burger King](http://twitter.com/search?q=Burger+King) | N/A |
-| 30 | [Félix](http://twitter.com/search?q=F%c3%a9lix) | N/A |
-| 31 | [Grand Rex](http://twitter.com/search?q=Grand+Rex) | N/A |
-| 32 | [Allez Rennes](http://twitter.com/search?q=Allez+Rennes) | N/A |
-| 33 | [AC Milan](http://twitter.com/search?q=AC+Milan) | AC Milan is a professional Italian football club based in Milan, Italy. The club is one of the most successful teams in the world, having won 18 FIFA and UEFA titles. The acronym AC stands for Associazione Calcio (Italian for Football Association). |
-| 34 | [Theate](http://twitter.com/search?q=Theate) | N/A |
-| 35 | [Bon Dimanche](http://twitter.com/search?q=Bon+Dimanche) | N/A |
-| 36 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 37 | [Perrine Laffont](http://twitter.com/search?q=Perrine+Laffont) | N/A |
-| 38 | [Brigitte](http://twitter.com/search?q=Brigitte) | N/A |
-| 39 | [Milan AC](http://twitter.com/search?q=Milan+AC) | N/A |
-| 40 | [Dragon Ball](http://twitter.com/search?q=Dragon+Ball) | N/A |
-| 41 | [Vélodrome](http://twitter.com/search?q=V%c3%a9lodrome) | N/A |
-| 42 | [Un AVC](http://twitter.com/search?q=Un+AVC) | N/A |
-| 43 | [Vettel](http://twitter.com/search?q=Vettel) | N/A |
-| 44 | [Inox](http://twitter.com/search?q=Inox) | Inox is short for "inoxidable," which is Spanish for "stainless steel." Inox is a type of steel that is resistant to corrosion and rust, making it a popular choice for kitchen appliances, cutlery, and other items. |
-| 45 | [Allez Paris](http://twitter.com/search?q=Allez+Paris) | N/A |
-| 46 | [Everest](http://twitter.com/search?q=Everest) | N/A |
-| 47 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
+| 18 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
+| 19 | [Garçons Bouchers](http://twitter.com/search?q=Gar%c3%a7ons+Bouchers) | N/A |
+| 20 | [McDo](http://twitter.com/search?q=McDo) | N/A |
+| 21 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 22 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
+| 23 | [Radu](http://twitter.com/search?q=Radu) | N/A |
+| 24 | [Ajaccio](http://twitter.com/search?q=Ajaccio) | N/A |
+| 25 | [Skipp](http://twitter.com/search?q=Skipp) | Skipp is a slang term used to refer to someone who is in charge or in control of a situation. It can also be used to refer to someone who is a leader or has authority. In English, it can be used as an informal way of saying "boss" or "leader". |
+| 26 | [Lorient](http://twitter.com/search?q=Lorient) | N/A |
+| 27 | [Enzo Fernandez](http://twitter.com/search?q=Enzo+Fernandez) | N/A |
+| 28 | [Écossais](http://twitter.com/search?q=%c3%89cossais) | N/A |
+| 29 | [Faivre](http://twitter.com/search?q=Faivre) | N/A |
+| 30 | [Doku](http://twitter.com/search?q=Doku) | N/A |
+| 31 | [Delort](http://twitter.com/search?q=Delort) | N/A |
+| 32 | [Will Still](http://twitter.com/search?q=Will+Still) | N/A |
+| 33 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 34 | [Le Mans](http://twitter.com/search?q=Le+Mans) | N/A |
+| 35 | [Thiago Silva](http://twitter.com/search?q=Thiago+Silva) | Thiago Silva is a Brazilian professional footballer who plays as a central defender for Paris Saint-Germain and the Brazil national team. In English, Thiago Silva means "Saint Thomas". |
+| 36 | [Angers](http://twitter.com/search?q=Angers) | Angers is a city in western France, located on the Maine River. It is the capital of the Maine-et-Loire department and the historic capital of Anjou. The meaning of Angers in English is "anger". |
+| 37 | [Henri Guaino](http://twitter.com/search?q=Henri+Guaino) | N/A |
+| 38 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
+| 39 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 40 | [Stade de France](http://twitter.com/search?q=Stade+de+France) | N/A |
+| 41 | [Félix](http://twitter.com/search?q=F%c3%a9lix) | N/A |
+| 42 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 43 | [Grand Rex](http://twitter.com/search?q=Grand+Rex) | N/A |
+| 44 | [Bologne](http://twitter.com/search?q=Bologne) | N/A |
+| 45 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 46 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 47 | [ALLEZ RENNES](http://twitter.com/search?q=ALLEZ+RENNES) | N/A |
+| 48 | [Burger King](http://twitter.com/search?q=Burger+King) | N/A |
 
 
 

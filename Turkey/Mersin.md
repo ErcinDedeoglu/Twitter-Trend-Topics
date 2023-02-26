@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mersin
 
-📆 Last Updated: `2023-02-26 15:16:43 UTC`
+📆 Last Updated: `2023-02-26 16:16:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Turkey](</Turkey>)
 | ------- | ------------ | ------------ |
 | 1 | [Kızılay](http://twitter.com/search?q=K%c4%b1z%c4%b1lay) | Kızılay is the Turkish Red Crescent, a humanitarian organization that provides aid and assistance to those in need. The name Kızılay comes from the Ottoman Empire era, when it was known as the Imperial Ottoman Society of the Red Crescent. In English, Kızılay translates to "Red Crescent". |
 | 2 | [Kızılay](http://twitter.com/search?q=K%c4%b1z%c4%b1lay) | Kızılay is the Turkish Red Crescent, a humanitarian organization that provides aid and assistance to those in need. The name Kızılay comes from the Ottoman Empire era, when it was known as the Imperial Ottoman Society of the Red Crescent. In English, Kızılay translates to "Red Crescent". |
-| 3 | [#kizilay](http://twitter.com/search?q=%23kizilay) | N/A |
-| 4 | [Durmadan Yorulmadan](http://twitter.com/search?q=Durmadan+Yorulmadan) | N/A |
-| 5 | [#SağlıktaYükÇokAtamaYok](http://twitter.com/search?q=%23Sa%c4%9fl%c4%b1ktaY%c3%bck%c3%87okAtamaYok) | N/A |
-| 6 | [#CumhurunBaşkanı69Yaşında](http://twitter.com/search?q=%23CumhurunBa%c5%9fkan%c4%b169Ya%c5%9f%c4%b1nda) | N/A |
-| 7 | [#İyikiDoğdunMilletinAdamı](http://twitter.com/search?q=%23%c4%b0yikiDo%c4%9fdunMilletinAdam%c4%b1) | N/A |
-| 8 | [DEVAM ULAN DEVAM](http://twitter.com/search?q=DEVAM+ULAN+DEVAM) | N/A |
-| 9 | [Ziya Şengül](http://twitter.com/search?q=Ziya+%c5%9eeng%c3%bcl) | N/A |
-| 10 | [PARALI KÖPEKLER](http://twitter.com/search?q=PARALI+K%c3%96PEKLER) | N/A |
-| 11 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
-| 12 | [Yusuf Demir](http://twitter.com/search?q=Yusuf+Demir) | Yusuf Demir is a Turkish name. It is composed of two parts: Yusuf, which means "God increases" in Arabic, and Demir, which means "iron" in Turkish. In English, the name would be translated as "God Increases Iron". |
-| 13 | [Depremin 3](http://twitter.com/search?q=Depremin+3) | N/A |
-| 14 | [DOĞUM GÜNÜN KUTLU OLSUN](http://twitter.com/search?q=DO%c4%9eUM+G%c3%9cN%c3%9cN+KUTLU+OLSUN) | N/A |
-| 15 | [Tekstil A.Ş](http://twitter.com/search?q=Tekstil+A.%c5%9e) | N/A |
-| 16 | [Azerbaycanlı](http://twitter.com/search?q=Azerbaycanl%c4%b1) | N/A |
-| 17 | [Maliyetine](http://twitter.com/search?q=Maliyetine) | N/A |
-| 18 | [Murat Ağırel](http://twitter.com/search?q=Murat+A%c4%9f%c4%b1rel) | N/A |
-| 19 | [Paralı](http://twitter.com/search?q=Paral%c4%b1) | N/A |
-| 20 | [Binali](http://twitter.com/search?q=Binali) | N/A |
-| 21 | [Cumhurbaşkanımız Sn](http://twitter.com/search?q=Cumhurba%c5%9fkan%c4%b1m%c4%b1z+Sn) | N/A |
-| 22 | [Satmak](http://twitter.com/search?q=Satmak) | N/A |
-| 23 | [Armağan](http://twitter.com/search?q=Arma%c4%9fan) | N/A |
-| 24 | [STK'ya](http://twitter.com/search?q=STK%27ya) | N/A |
-| 25 | [Satranç](http://twitter.com/search?q=Satran%c3%a7) | N/A |
-| 26 | [STK'lara](http://twitter.com/search?q=STK%27lara) | N/A |
-| 27 | [Ensar](http://twitter.com/search?q=Ensar) | N/A |
-| 28 | [Metin](http://twitter.com/search?q=Metin) | N/A |
-| 29 | [Ücretsiz](http://twitter.com/search?q=%c3%9ccretsiz) | N/A |
-| 30 | [Çarşı](http://twitter.com/search?q=%c3%87ar%c5%9f%c4%b1) | N/A |
-| 31 | [Satın](http://twitter.com/search?q=Sat%c4%b1n) | N/A |
-| 32 | [Ticari](http://twitter.com/search?q=Ticari) | N/A |
-| 33 | [Teşekkürler Fenerbahçe](http://twitter.com/search?q=Te%c5%9fekk%c3%bcrler+Fenerbah%c3%a7e) | N/A |
-| 34 | [Liderimiz](http://twitter.com/search?q=Liderimiz) | N/A |
-| 35 | [Parayla](http://twitter.com/search?q=Parayla) | N/A |
-| 36 | [Ermeni](http://twitter.com/search?q=Ermeni) | N/A |
-| 37 | [Anıtkabir](http://twitter.com/search?q=An%c4%b1tkabir) | Anıtkabir is the mausoleum of Mustafa Kemal Atatürk, the founder and first president of the Republic of Turkey. The word Anıtkabir translates to "memorial tomb" in English. |
-| 38 | [Unutmadık](http://twitter.com/search?q=Unutmad%c4%b1k) | N/A |
-| 39 | [TL'ye](http://twitter.com/search?q=TL%27ye) | N/A |
-| 40 | [Şirket](http://twitter.com/search?q=%c5%9eirket) | N/A |
-| 41 | [Ertem](http://twitter.com/search?q=Ertem) | N/A |
-| 42 | [Bedava](http://twitter.com/search?q=Bedava) | N/A |
-| 43 | [Kılıçdaroğlu'na](http://twitter.com/search?q=K%c4%b1l%c4%b1%c3%a7daro%c4%9flu%27na) | N/A |
-| 44 | [Merhuma Allah'tan](http://twitter.com/search?q=Merhuma+Allah%27tan) | N/A |
-| 45 | [Camide](http://twitter.com/search?q=Camide) | N/A |
-| 46 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 47 | [#KamuyaVetHekŞartt](http://twitter.com/search?q=%23KamuyaVetHek%c5%9eartt) | N/A |
-| 48 | [#RecepTayyipErdogan](http://twitter.com/search?q=%23RecepTayyipErdogan) | N/A |
-| 49 | [#28ŞubattaTastamamEYT](http://twitter.com/search?q=%2328%c5%9eubattaTastamamEYT) | N/A |
+| 3 | [#BJKvANT](http://twitter.com/search?q=%23BJKvANT) | N/A |
+| 4 | [#kizilay](http://twitter.com/search?q=%23kizilay) | N/A |
+| 5 | [Durmadan Yorulmadan](http://twitter.com/search?q=Durmadan+Yorulmadan) | N/A |
+| 6 | [Okan](http://twitter.com/search?q=Okan) | Okan is a Japanese word that means "mother." It is used as a term of endearment and respect for one's mother. |
+| 7 | [Yusuf Demir](http://twitter.com/search?q=Yusuf+Demir) | Yusuf Demir is a Turkish name. It is composed of two parts: Yusuf, which means "God increases" in Arabic, and Demir, which means "iron" in Turkish. In English, the name would be translated as "God Increases Iron". |
+| 8 | [Ghezzal](http://twitter.com/search?q=Ghezzal) | N/A |
+| 9 | [Beşiktaş](http://twitter.com/search?q=Be%c5%9fikta%c5%9f) | Beşiktaş is a Turkish sports club based in Istanbul, Turkey. The name Beşiktaş translates to "cradle stone" in English. The club is best known for its football team, which competes in the Turkish Super League and is one of the most successful clubs in Turkey. |
+| 10 | [#ALNvGS](http://twitter.com/search?q=%23ALNvGS) | #ALNvGS is an abbreviation for the football match between Al Nassr FC and Al-Gharafa SC. The match took place on October 18, 2020 in the Saudi Professional League. In English, the abbreviation stands for Al Nassr FC versus Al-Gharafa SC. |
+| 11 | [Muslera](http://twitter.com/search?q=Muslera) | Muslera is a Turkish surname. It is derived from the Turkish word muslu, which means "pious" or "devout". In English, the name Muslera can be translated to mean "devout one". |
+| 12 | [#SağlıktaYükÇokAtamaYok](http://twitter.com/search?q=%23Sa%c4%9fl%c4%b1ktaY%c3%bck%c3%87okAtamaYok) | N/A |
+| 13 | [ÇOCUKLAR HEP GÜLSÜN](http://twitter.com/search?q=%c3%87OCUKLAR+HEP+G%c3%9cLS%c3%9cN) | N/A |
+| 14 | [VedaMektubu YarınKanalDde](http://twitter.com/search?q=VedaMektubu+Yar%c4%b1nKanalDde) | N/A |
+| 15 | [DEVAM ULAN DEVAM](http://twitter.com/search?q=DEVAM+ULAN+DEVAM) | N/A |
+| 16 | [PARALI KÖPEKLER](http://twitter.com/search?q=PARALI+K%c3%96PEKLER) | N/A |
+| 17 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 18 | [Maliyetine](http://twitter.com/search?q=Maliyetine) | N/A |
+| 19 | [Rashica](http://twitter.com/search?q=Rashica) | Rashica is a surname of Albanian origin. It is derived from the word "rash" which means "joy" or "happiness". In English, it can be translated to mean "happy one". |
+| 20 | [Ziya Şengül](http://twitter.com/search?q=Ziya+%c5%9eeng%c3%bcl) | N/A |
+| 21 | [DOĞUM GÜNÜN KUTLU OLSUN](http://twitter.com/search?q=DO%c4%9eUM+G%c3%9cN%c3%9cN+KUTLU+OLSUN) | N/A |
+| 22 | [Haluk](http://twitter.com/search?q=Haluk) | N/A |
+| 23 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 24 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
+| 25 | [Torreira](http://twitter.com/search?q=Torreira) | Torreira is a Portuguese word meaning "tower". It is often used to refer to a defensive tower or fortress. |
+| 26 | [Vodafone Park](http://twitter.com/search?q=Vodafone+Park) | N/A |
+| 27 | [Depremin 3](http://twitter.com/search?q=Depremin+3) | N/A |
+| 28 | [Maxi](http://twitter.com/search?q=Maxi) | Maxi is a term used to describe a long, loose-fitting dress or skirt that reaches the ankles. It is typically made of lightweight fabrics such as cotton or linen and is often worn in warm weather. The term can also refer to a style of dress that is shorter than a maxi dress but still reaches the ankles. |
+| 29 | [Tekstil A.Ş](http://twitter.com/search?q=Tekstil+A.%c5%9e) | N/A |
+| 30 | [Paralı](http://twitter.com/search?q=Paral%c4%b1) | N/A |
+| 31 | [Azerbaycanlı](http://twitter.com/search?q=Azerbaycanl%c4%b1) | N/A |
+| 32 | [Binali](http://twitter.com/search?q=Binali) | N/A |
+| 33 | [Murat Ağırel](http://twitter.com/search?q=Murat+A%c4%9f%c4%b1rel) | N/A |
+| 34 | [Çarşı](http://twitter.com/search?q=%c3%87ar%c5%9f%c4%b1) | N/A |
+| 35 | [Mertens](http://twitter.com/search?q=Mertens) | Mertens is a German surname derived from the given name Merten, which is a variant of Martin. The English meaning of the name is "of Mars" or "warlike". |
+| 36 | [Kanımızı](http://twitter.com/search?q=Kan%c4%b1m%c4%b1z%c4%b1) | N/A |
+| 37 | [Icardi](http://twitter.com/search?q=Icardi) | Icardi is a surname of Italian origin. It is derived from the Latin word "cardus" meaning thistle. In English, it can be translated to mean "of the thistle". |
+| 38 | [Cumhurbaşkanımız Sn](http://twitter.com/search?q=Cumhurba%c5%9fkan%c4%b1m%c4%b1z+Sn) | N/A |
+| 39 | [Satmak](http://twitter.com/search?q=Satmak) | N/A |
+| 40 | [Ensar](http://twitter.com/search?q=Ensar) | N/A |
+| 41 | [Armağan](http://twitter.com/search?q=Arma%c4%9fan) | N/A |
+| 42 | [Parayla](http://twitter.com/search?q=Parayla) | N/A |
+| 43 | [STK'ya](http://twitter.com/search?q=STK%27ya) | N/A |
+| 44 | [STK'lara](http://twitter.com/search?q=STK%27lara) | N/A |
+| 45 | [Satın](http://twitter.com/search?q=Sat%c4%b1n) | N/A |
+| 46 | [#RecepTayyipErdogan](http://twitter.com/search?q=%23RecepTayyipErdogan) | N/A |
+| 47 | [#İyikiDoğdunMilletinAdamı](http://twitter.com/search?q=%23%c4%b0yikiDo%c4%9fdunMilletinAdam%c4%b1) | N/A |
+| 48 | [#CumhurunBaşkanı69Yaşında](http://twitter.com/search?q=%23CumhurunBa%c5%9fkan%c4%b169Ya%c5%9f%c4%b1nda) | N/A |
+| 49 | [#KamuyaVetHekŞartt](http://twitter.com/search?q=%23KamuyaVetHek%c5%9eartt) | N/A |
 
 
 
