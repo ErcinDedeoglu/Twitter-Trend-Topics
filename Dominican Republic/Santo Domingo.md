@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santo Domingo
 
-📆 Last Updated: `2023-02-26 11:15:44 UTC`
+📆 Last Updated: `2023-02-26 12:17:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 3 | [junior tolentino](http://twitter.com/search?q=junior+tolentino) | N/A |
 | 4 | [puerta de la misericordia](http://twitter.com/search?q=puerta+de+la+misericordia) | N/A |
 | 5 | [#padredelapatria](http://twitter.com/search?q=%23padredelapatria) | N/A |
-| 6 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 7 | [Chicho](http://twitter.com/search?q=Chicho) | N/A |
-| 8 | [pricesmart](http://twitter.com/search?q=pricesmart) | N/A |
-| 9 | [mi vivienda](http://twitter.com/search?q=mi+vivienda) | N/A |
-| 10 | [Viva la República Dominicana](http://twitter.com/search?q=Viva+la+Rep%c3%bablica+Dominicana) | N/A |
-| 11 | [#palacalleconabel](http://twitter.com/search?q=%23palacalleconabel) | N/A |
-| 12 | [#orgullososdeestarmejor](http://twitter.com/search?q=%23orgullososdeestarmejor) | N/A |
-| 13 | [#RMxBOTTEGAVENETA](http://twitter.com/search?q=%23RMxBOTTEGAVENETA) | N/A |
-| 14 | [Jorge Drexler](http://twitter.com/search?q=Jorge+Drexler) | N/A |
-| 15 | [matt pobereyko](http://twitter.com/search?q=matt+pobereyko) | N/A |
-| 16 | [Horford](http://twitter.com/search?q=Horford) | Horford is a surname of Spanish origin. It is derived from the Latin word "horreum" which means granary or storehouse. The name is most commonly associated with Al Horford, an American professional basketball player who currently plays for the Philadelphia 76ers. |
-| 17 | [juan pablo duarte](http://twitter.com/search?q=juan+pablo+duarte) | Juan Pablo Duarte was a Dominican political leader and one of the founding fathers of the Dominican Republic. He is considered to be the father of Dominican independence, having led the fight for independence from Haiti in 1844. The phrase "Juan Pablo Duarte" is used to refer to his legacy and his role in the creation of the Dominican Republic. In English, it means "John Paul Duarte," or "Father of Dominican Independence." |
-| 18 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
+| 6 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
+| 7 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
+| 8 | [Chicho](http://twitter.com/search?q=Chicho) | N/A |
+| 9 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 10 | [pricesmart](http://twitter.com/search?q=pricesmart) | N/A |
+| 11 | [mi vivienda](http://twitter.com/search?q=mi+vivienda) | N/A |
+| 12 | [Viva la República Dominicana](http://twitter.com/search?q=Viva+la+Rep%c3%bablica+Dominicana) | N/A |
+| 13 | [#palacalleconabel](http://twitter.com/search?q=%23palacalleconabel) | N/A |
+| 14 | [#orgullososdeestarmejor](http://twitter.com/search?q=%23orgullososdeestarmejor) | N/A |
+| 15 | [#RMxBOTTEGAVENETA](http://twitter.com/search?q=%23RMxBOTTEGAVENETA) | N/A |
+| 16 | [Jorge Drexler](http://twitter.com/search?q=Jorge+Drexler) | N/A |
+| 17 | [Juan Pablo Duarte](http://twitter.com/search?q=Juan+Pablo+Duarte) | Juan Pablo Duarte is a national hero of the Dominican Republic. He was a key figure in the struggle for independence from Haiti in 1844. His name is often used as a symbol of freedom and patriotism in the Dominican Republic. In English, his name translates to "John Paul Duarte". |
+| 18 | [Horford](http://twitter.com/search?q=Horford) | Horford is a surname of Spanish origin. It is derived from the Latin word "horreum" which means granary or storehouse. The name is most commonly associated with Al Horford, an American professional basketball player who currently plays for the Philadelphia 76ers. |
 | 19 | [santiago y moca](http://twitter.com/search?q=santiago+y+moca) | N/A |
-| 20 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 21 | [Nuria](http://twitter.com/search?q=Nuria) | N/A |
-| 22 | [pepca](http://twitter.com/search?q=pepca) | N/A |
-| 23 | [este 27](http://twitter.com/search?q=este+27) | N/A |
-| 24 | [Asamblea Nacional](http://twitter.com/search?q=Asamblea+Nacional) | N/A |
-| 25 | [Alexandra](http://twitter.com/search?q=Alexandra) | N/A |
-| 26 | [hoy 25](http://twitter.com/search?q=hoy+25) | N/A |
-| 27 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 28 | [#27defebrero](http://twitter.com/search?q=%2327defebrero) | N/A |
-| 29 | [víctor gómez bergés](http://twitter.com/search?q=v%c3%adctor+g%c3%b3mez+berg%c3%a9s) | N/A |
-| 30 | [Feid](http://twitter.com/search?q=Feid) | N/A |
+| 20 | [Nuria](http://twitter.com/search?q=Nuria) | N/A |
+| 21 | [pepca](http://twitter.com/search?q=pepca) | N/A |
+| 22 | [Matt Pobereyko](http://twitter.com/search?q=Matt+Pobereyko) | N/A |
+| 23 | [Este 27](http://twitter.com/search?q=Este+27) | N/A |
+| 24 | [asamblea nacional](http://twitter.com/search?q=asamblea+nacional) | N/A |
+| 25 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
+| 26 | [Alexandra](http://twitter.com/search?q=Alexandra) | N/A |
+| 27 | [hoy 25](http://twitter.com/search?q=hoy+25) | N/A |
+| 28 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 29 | [#27defebrero](http://twitter.com/search?q=%2327defebrero) | N/A |
+| 30 | [víctor gómez bergés](http://twitter.com/search?q=v%c3%adctor+g%c3%b3mez+berg%c3%a9s) | N/A |
 | 31 | [Rosario Espinal](http://twitter.com/search?q=Rosario+Espinal) | N/A |
-| 32 | [Botello](http://twitter.com/search?q=Botello) | N/A |
+| 32 | [botello](http://twitter.com/search?q=botello) | N/A |
 | 33 | [taíno bay](http://twitter.com/search?q=ta%c3%adno+bay) | N/A |
 | 34 | [iqtek](http://twitter.com/search?q=iqtek) | N/A |
-| 35 | [Montecristi](http://twitter.com/search?q=Montecristi) | N/A |
-| 36 | [Gamal](http://twitter.com/search?q=Gamal) | N/A |
-| 37 | [Anuel](http://twitter.com/search?q=Anuel) | N/A |
-| 38 | [christian de la rocha](http://twitter.com/search?q=christian+de+la+rocha) | N/A |
-| 39 | [Ferxxo](http://twitter.com/search?q=Ferxxo) | Ferxxo is a slang term used in Spanish-speaking countries to describe someone who is cool, stylish, and fashionable. It can also be used to describe someone who is confident and outgoing. In English, it could be translated as "cool cat" or "trendsetter". |
-| 40 | [el 27](http://twitter.com/search?q=el+27) | N/A |
-| 41 | [Coronel](http://twitter.com/search?q=Coronel) | N/A |
-| 42 | [Yailin](http://twitter.com/search?q=Yailin) | N/A |
-| 43 | [Bandera](http://twitter.com/search?q=Bandera) | N/A |
-| 44 | [Caid](http://twitter.com/search?q=Caid) | N/A |
-| 45 | [Tribunal Constitucional](http://twitter.com/search?q=Tribunal+Constitucional) | N/A |
-| 46 | [Cristo Jesús](http://twitter.com/search?q=Cristo+Jes%c3%bas) | N/A |
-| 47 | [debieron](http://twitter.com/search?q=debieron) | N/A |
-| 48 | [bávaro](http://twitter.com/search?q=b%c3%a1varo) | N/A |
-| 49 | [los alcarrizos](http://twitter.com/search?q=los+alcarrizos) | N/A |
-| 50 | [sosua](http://twitter.com/search?q=sosua) | N/A |
+| 35 | [metro de santo domingo](http://twitter.com/search?q=metro+de+santo+domingo) | N/A |
+| 36 | [gamal](http://twitter.com/search?q=gamal) | N/A |
+| 37 | [Haiti](http://twitter.com/search?q=Haiti) | N/A |
+| 38 | [Anuel](http://twitter.com/search?q=Anuel) | N/A |
+| 39 | [Montecristi](http://twitter.com/search?q=Montecristi) | N/A |
+| 40 | [christian de la rocha](http://twitter.com/search?q=christian+de+la+rocha) | N/A |
+| 41 | [Feid](http://twitter.com/search?q=Feid) | N/A |
+| 42 | [Ferxxo](http://twitter.com/search?q=Ferxxo) | Ferxxo is a slang term used in Spanish-speaking countries to describe someone who is cool, stylish, and fashionable. It can also be used to describe someone who is confident and outgoing. In English, it could be translated as "cool cat" or "trendsetter". |
+| 43 | [El 27](http://twitter.com/search?q=El+27) | N/A |
+| 44 | [Coronel](http://twitter.com/search?q=Coronel) | N/A |
+| 45 | [Bandera](http://twitter.com/search?q=Bandera) | N/A |
+| 46 | [yailin](http://twitter.com/search?q=yailin) | N/A |
+| 47 | [Caid](http://twitter.com/search?q=Caid) | N/A |
+| 48 | [Cristo Jesús](http://twitter.com/search?q=Cristo+Jes%c3%bas) | N/A |
+| 49 | [Debieron](http://twitter.com/search?q=Debieron) | N/A |
+| 50 | [bávaro](http://twitter.com/search?q=b%c3%a1varo) | N/A |
 
 
 

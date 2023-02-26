@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Srinagar
 
-📆 Last Updated: `2023-02-26 11:16:16 UTC`
+📆 Last Updated: `2023-02-26 12:18:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 1 | [SHEHNAAZ WINS LOKMAT AWARD](http://twitter.com/search?q=SHEHNAAZ+WINS+LOKMAT+AWARD) | N/A |
 | 2 | [#HeroIndianOpen](http://twitter.com/search?q=%23HeroIndianOpen) | N/A |
-| 3 | [#PanchamahabhutaLokotsava](http://twitter.com/search?q=%23PanchamahabhutaLokotsava) | N/A |
-| 4 | [#MannKiBaat](http://twitter.com/search?q=%23MannKiBaat) | N/A |
-| 5 | [#IshanIsMissing](http://twitter.com/search?q=%23IshanIsMissing) | N/A |
-| 6 | [मनीष सिसोदिया](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a8%e0%a5%80%e0%a4%b7+%e0%a4%b8%e0%a4%bf%e0%a4%b8%e0%a5%8b%e0%a4%a6%e0%a4%bf%e0%a4%af%e0%a4%be) | N/A |
-| 7 | [Sunil](http://twitter.com/search?q=Sunil) | N/A |
-| 8 | [लाल चौक](http://twitter.com/search?q=%e0%a4%b2%e0%a4%be%e0%a4%b2+%e0%a4%9a%e0%a5%8c%e0%a4%95) | लाल चौक (Lal Chauk) is a Hindi phrase that literally translates to "red square". It is used to refer to a place where people gather and socialize, such as a market or plaza. |
-| 9 | [वीर सावरकर](http://twitter.com/search?q=%e0%a4%b5%e0%a5%80%e0%a4%b0+%e0%a4%b8%e0%a4%be%e0%a4%b5%e0%a4%b0%e0%a4%95%e0%a4%b0) | N/A |
-| 10 | [jhope](http://twitter.com/search?q=jhope) | N/A |
-| 11 | [भगत सिंह](http://twitter.com/search?q=%e0%a4%ad%e0%a4%97%e0%a4%a4+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9) | N/A |
-| 12 | [Pulwama](http://twitter.com/search?q=Pulwama) | N/A |
-| 13 | [Narayan Seva Sansthan](http://twitter.com/search?q=Narayan+Seva+Sansthan) | N/A |
-| 14 | [MAJESTIC SHIV THAKARE](http://twitter.com/search?q=MAJESTIC+SHIV+THAKARE) | N/A |
-| 15 | [2seok](http://twitter.com/search?q=2seok) | N/A |
-| 16 | [कश्मीरी पंडित](http://twitter.com/search?q=%e0%a4%95%e0%a4%b6%e0%a5%8d%e0%a4%ae%e0%a5%80%e0%a4%b0%e0%a5%80+%e0%a4%aa%e0%a4%82%e0%a4%a1%e0%a4%bf%e0%a4%a4) | N/A |
-| 17 | [संजय सिंह](http://twitter.com/search?q=%e0%a4%b8%e0%a4%82%e0%a4%9c%e0%a4%af+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9) | N/A |
-| 18 | [दया धर्म](http://twitter.com/search?q=%e0%a4%a6%e0%a4%af%e0%a4%be+%e0%a4%a7%e0%a4%b0%e0%a5%8d%e0%a4%ae) | N/A |
-| 19 | [QUEEN OF HEARTS PRIYANKA](http://twitter.com/search?q=QUEEN+OF+HEARTS+PRIYANKA) | N/A |
-| 20 | [Healy](http://twitter.com/search?q=Healy) | N/A |
-| 21 | [Renewed Zeal 4Sushant Justice](http://twitter.com/search?q=Renewed+Zeal+4Sushant+Justice) | N/A |
-| 22 | [श्री नरेंद्र मोदी](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%a8%e0%a4%b0%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0+%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80) | N/A |
-| 23 | [VEER OBEROI ACING TIMG](http://twitter.com/search?q=VEER+OBEROI+ACING+TIMG) | N/A |
-| 24 | [Sanjay Sharma](http://twitter.com/search?q=Sanjay+Sharma) | N/A |
-| 25 | [शिक्षा मंत्री](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 26 | [शक्ति केंद्र](http://twitter.com/search?q=%e0%a4%b6%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf+%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0) | N/A |
-| 27 | [महान क्रांतिकारी](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%95%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%82%e0%a4%a4%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80) | N/A |
-| 28 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 29 | [Best Film](http://twitter.com/search?q=Best+Film) | N/A |
-| 30 | [Worst Film](http://twitter.com/search?q=Worst+Film) | N/A |
-| 31 | [जेल जाना](http://twitter.com/search?q=%e0%a4%9c%e0%a5%87%e0%a4%b2+%e0%a4%9c%e0%a4%be%e0%a4%a8%e0%a4%be) | N/A |
-| 32 | [लोकप्रिय कार्यक्रम](http://twitter.com/search?q=%e0%a4%b2%e0%a5%8b%e0%a4%95%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%bf%e0%a4%af+%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%af%e0%a4%95%e0%a5%8d%e0%a4%b0%e0%a4%ae) | N/A |
-| 33 | [Overrated Film](http://twitter.com/search?q=Overrated+Film) | N/A |
-| 34 | [महान स्वतंत्रता सेनानी](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%a4%e0%a4%be+%e0%a4%b8%e0%a5%87%e0%a4%a8%e0%a4%be%e0%a4%a8%e0%a5%80) | N/A |
-| 35 | [Bapu](http://twitter.com/search?q=Bapu) | N/A |
-| 36 | [Bhagat Singh](http://twitter.com/search?q=Bhagat+Singh) | N/A |
-| 37 | [Mahatma Gandhi](http://twitter.com/search?q=Mahatma+Gandhi) | N/A |
-| 38 | [श्री राहुल गांधी](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%b9%e0%a5%81%e0%a4%b2+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
-| 39 | [भारतीय वायुसेना](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%b5%e0%a4%be%e0%a4%af%e0%a5%81%e0%a4%b8%e0%a5%87%e0%a4%a8%e0%a4%be) | N/A |
-| 40 | [Rajghat](http://twitter.com/search?q=Rajghat) | N/A |
-| 41 | [Jail](http://twitter.com/search?q=Jail) | N/A |
-| 42 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 43 | [BIGHIT](http://twitter.com/search?q=BIGHIT) | N/A |
-| 44 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 45 | [Chor](http://twitter.com/search?q=Chor) | N/A |
-| 46 | [Britishers](http://twitter.com/search?q=Britishers) | N/A |
-| 47 | [प्रियंका गांधी](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%bf%e0%a4%af%e0%a4%82%e0%a4%95%e0%a4%be+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
-| 48 | [स्वतंत्रता संग्राम](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%a4%e0%a4%be+%e0%a4%b8%e0%a4%82%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 49 | [#VeerSavarkar](http://twitter.com/search?q=%23VeerSavarkar) | N/A |
+| 3 | [#नीतीश_जी_शिक्षक_बहाली_दीजिए](http://twitter.com/search?q=%23%e0%a4%a8%e0%a5%80%e0%a4%a4%e0%a5%80%e0%a4%b6_%e0%a4%9c%e0%a5%80_%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%95_%e0%a4%ac%e0%a4%b9%e0%a4%be%e0%a4%b2%e0%a5%80_%e0%a4%a6%e0%a5%80%e0%a4%9c%e0%a4%bf%e0%a4%8f) | N/A |
+| 4 | [#HaathSeHaathJodoJansabha](http://twitter.com/search?q=%23HaathSeHaathJodoJansabha) | N/A |
+| 5 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 6 | [ASIM'S IV EXPOSED HYPOCRITES](http://twitter.com/search?q=ASIM%27S+IV+EXPOSED+HYPOCRITES) | N/A |
+| 7 | [#PanchamahabhutaLokotsava](http://twitter.com/search?q=%23PanchamahabhutaLokotsava) | N/A |
+| 8 | [Favourite Director](http://twitter.com/search?q=Favourite+Director) | N/A |
+| 9 | [HAPPY BIRTHDAY SRITI](http://twitter.com/search?q=HAPPY+BIRTHDAY+SRITI) | N/A |
+| 10 | [Sunil](http://twitter.com/search?q=Sunil) | N/A |
+| 11 | [Worst Film](http://twitter.com/search?q=Worst+Film) | N/A |
+| 12 | [मनीष सिसोदिया](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a8%e0%a5%80%e0%a4%b7+%e0%a4%b8%e0%a4%bf%e0%a4%b8%e0%a5%8b%e0%a4%a6%e0%a4%bf%e0%a4%af%e0%a4%be) | N/A |
+| 13 | [लाल चौक](http://twitter.com/search?q=%e0%a4%b2%e0%a4%be%e0%a4%b2+%e0%a4%9a%e0%a5%8c%e0%a4%95) | लाल चौक (Lal Chauk) is a Hindi phrase that literally translates to "red square". It is used to refer to a place where people gather and socialize, such as a market or plaza. |
+| 14 | [Best Film](http://twitter.com/search?q=Best+Film) | N/A |
+| 15 | [Overrated Film](http://twitter.com/search?q=Overrated+Film) | N/A |
+| 16 | [Underrated Film](http://twitter.com/search?q=Underrated+Film) | N/A |
+| 17 | [वीर सावरकर](http://twitter.com/search?q=%e0%a4%b5%e0%a5%80%e0%a4%b0+%e0%a4%b8%e0%a4%be%e0%a4%b5%e0%a4%b0%e0%a4%95%e0%a4%b0) | N/A |
+| 18 | [QUEEN OF HEARTS PRIYANKA](http://twitter.com/search?q=QUEEN+OF+HEARTS+PRIYANKA) | N/A |
+| 19 | [MAJESTIC SHIV THAKARE](http://twitter.com/search?q=MAJESTIC+SHIV+THAKARE) | N/A |
+| 20 | [भगत सिंह](http://twitter.com/search?q=%e0%a4%ad%e0%a4%97%e0%a4%a4+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9) | N/A |
+| 21 | [Narayan Seva Sansthan](http://twitter.com/search?q=Narayan+Seva+Sansthan) | N/A |
+| 22 | [संजय सिंह](http://twitter.com/search?q=%e0%a4%b8%e0%a4%82%e0%a4%9c%e0%a4%af+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9) | N/A |
+| 23 | [Pulwama](http://twitter.com/search?q=Pulwama) | N/A |
+| 24 | [कश्मीरी पंडित](http://twitter.com/search?q=%e0%a4%95%e0%a4%b6%e0%a5%8d%e0%a4%ae%e0%a5%80%e0%a4%b0%e0%a5%80+%e0%a4%aa%e0%a4%82%e0%a4%a1%e0%a4%bf%e0%a4%a4) | N/A |
+| 25 | [Renewed Zeal 4Sushant Justice](http://twitter.com/search?q=Renewed+Zeal+4Sushant+Justice) | N/A |
+| 26 | [दया धर्म](http://twitter.com/search?q=%e0%a4%a6%e0%a4%af%e0%a4%be+%e0%a4%a7%e0%a4%b0%e0%a5%8d%e0%a4%ae) | N/A |
+| 27 | [Sanjay Sharma](http://twitter.com/search?q=Sanjay+Sharma) | N/A |
+| 28 | [महात्मा गांधी](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%ae%e0%a4%be+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | महात्मा गांधी (Mahatma Gandhi) is the title given to Mohandas Karamchand Gandhi, an Indian political and spiritual leader who led India's struggle for independence from British rule. He is often referred to as the "Father of the Nation" in India. The term Mahatma, which literally means "great soul," was bestowed upon him by Rabindranath Tagore. |
+| 29 | [Healy](http://twitter.com/search?q=Healy) | N/A |
+| 30 | [VEER OBEROI ACING TIMG](http://twitter.com/search?q=VEER+OBEROI+ACING+TIMG) | N/A |
+| 31 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 32 | [श्री नरेंद्र मोदी](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%a8%e0%a4%b0%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0+%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80) | N/A |
+| 33 | [Mahatma Gandhi](http://twitter.com/search?q=Mahatma+Gandhi) | N/A |
+| 34 | [शक्ति केंद्र](http://twitter.com/search?q=%e0%a4%b6%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf+%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0) | N/A |
+| 35 | [शिक्षा मंत्री](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
+| 36 | [भारतीय वायुसेना](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%b5%e0%a4%be%e0%a4%af%e0%a5%81%e0%a4%b8%e0%a5%87%e0%a4%a8%e0%a4%be) | N/A |
+| 37 | [श्री राहुल गांधी](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%b9%e0%a5%81%e0%a4%b2+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
+| 38 | [जेल जाना](http://twitter.com/search?q=%e0%a4%9c%e0%a5%87%e0%a4%b2+%e0%a4%9c%e0%a4%be%e0%a4%a8%e0%a4%be) | N/A |
+| 39 | [Bhagat Singh](http://twitter.com/search?q=Bhagat+Singh) | N/A |
+| 40 | [Bapu](http://twitter.com/search?q=Bapu) | N/A |
+| 41 | [महान स्वतंत्रता सेनानी](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%a4%e0%a4%be+%e0%a4%b8%e0%a5%87%e0%a4%a8%e0%a4%be%e0%a4%a8%e0%a5%80) | N/A |
+| 42 | [महान क्रांतिकारी](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%95%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%82%e0%a4%a4%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80) | N/A |
+| 43 | [Thalapathy](http://twitter.com/search?q=Thalapathy) | N/A |
+| 44 | [लोकप्रिय कार्यक्रम](http://twitter.com/search?q=%e0%a4%b2%e0%a5%8b%e0%a4%95%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%bf%e0%a4%af+%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%af%e0%a4%95%e0%a5%8d%e0%a4%b0%e0%a4%ae) | N/A |
+| 45 | [प्रियंका गांधी](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%bf%e0%a4%af%e0%a4%82%e0%a4%95%e0%a4%be+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
+| 46 | [2seok](http://twitter.com/search?q=2seok) | N/A |
+| 47 | [Jail](http://twitter.com/search?q=Jail) | N/A |
+| 48 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 49 | [Britishers](http://twitter.com/search?q=Britishers) | N/A |
 
 
 

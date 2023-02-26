@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Izmir
 
-📆 Last Updated: `2023-02-26 11:16:19 UTC`
+📆 Last Updated: `2023-02-26 12:18:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [Turkey](</Turkey>)
 | 3 | [#kizilay](http://twitter.com/search?q=%23kizilay) | N/A |
 | 4 | [#CumhurunBaşkanı69Yaşında](http://twitter.com/search?q=%23CumhurunBa%c5%9fkan%c4%b169Ya%c5%9f%c4%b1nda) | N/A |
 | 5 | [Ziya Şengül](http://twitter.com/search?q=Ziya+%c5%9eeng%c3%bcl) | N/A |
-| 6 | [PARALI KÖPEKLER](http://twitter.com/search?q=PARALI+K%c3%96PEKLER) | N/A |
-| 7 | [#28ŞubattaTastamamEYT](http://twitter.com/search?q=%2328%c5%9eubattaTastamamEYT) | N/A |
-| 8 | [#İyikiDoğdunMilletinAdamı](http://twitter.com/search?q=%23%c4%b0yikiDo%c4%9fdunMilletinAdam%c4%b1) | N/A |
-| 9 | [#HocalıKatliamı](http://twitter.com/search?q=%23Hocal%c4%b1Katliam%c4%b1) | N/A |
-| 10 | [Tekstil A.Ş](http://twitter.com/search?q=Tekstil+A.%c5%9e) | N/A |
-| 11 | [Depremin 3](http://twitter.com/search?q=Depremin+3) | N/A |
-| 12 | [SATMIŞ](http://twitter.com/search?q=SATMI%c5%9e) | N/A |
-| 13 | [Kerem Kınık](http://twitter.com/search?q=Kerem+K%c4%b1n%c4%b1k) | N/A |
-| 14 | [Murat Ağırel](http://twitter.com/search?q=Murat+A%c4%9f%c4%b1rel) | N/A |
-| 15 | [Azerbaycanlı](http://twitter.com/search?q=Azerbaycanl%c4%b1) | N/A |
-| 16 | [DEVAM ULAN DEVAM](http://twitter.com/search?q=DEVAM+ULAN+DEVAM) | N/A |
-| 17 | [Paralı](http://twitter.com/search?q=Paral%c4%b1) | N/A |
-| 18 | [Teşekkürler Fenerbahçe](http://twitter.com/search?q=Te%c5%9fekk%c3%bcrler+Fenerbah%c3%a7e) | N/A |
-| 19 | [Satranç](http://twitter.com/search?q=Satran%c3%a7) | N/A |
-| 20 | [STK'ya](http://twitter.com/search?q=STK%27ya) | N/A |
-| 21 | [Maliyetine](http://twitter.com/search?q=Maliyetine) | N/A |
-| 22 | [Ensar](http://twitter.com/search?q=Ensar) | N/A |
-| 23 | [Satın](http://twitter.com/search?q=Sat%c4%b1n) | N/A |
-| 24 | [Ücretsiz](http://twitter.com/search?q=%c3%9ccretsiz) | N/A |
-| 25 | [Armağan](http://twitter.com/search?q=Arma%c4%9fan) | N/A |
-| 26 | [WE LOVE YOU JHOPE](http://twitter.com/search?q=WE+LOVE+YOU+JHOPE) | N/A |
-| 27 | [DOĞUM GÜNÜN KUTLU OLSUN](http://twitter.com/search?q=DO%c4%9eUM+G%c3%9cN%c3%9cN+KUTLU+OLSUN) | N/A |
-| 28 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 29 | [Sayın Cumhurbaşkanım](http://twitter.com/search?q=Say%c4%b1n+Cumhurba%c5%9fkan%c4%b1m) | N/A |
-| 30 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 31 | [Tünaydın](http://twitter.com/search?q=T%c3%bcnayd%c4%b1n) | N/A |
-| 32 | [Parayla](http://twitter.com/search?q=Parayla) | N/A |
-| 33 | [Aziz Yıldırım](http://twitter.com/search?q=Aziz+Y%c4%b1ld%c4%b1r%c4%b1m) | Aziz Yıldırım is a Turkish name, with Aziz meaning "honored" and Yıldırım meaning "thunder". In English, the name would translate to "Honored Thunder". |
-| 34 | [Anıtkabir](http://twitter.com/search?q=An%c4%b1tkabir) | Anıtkabir is the mausoleum of Mustafa Kemal Atatürk, the founder and first president of the Republic of Turkey. The word Anıtkabir translates to "memorial tomb" in English. |
-| 35 | [Ermeniler](http://twitter.com/search?q=Ermeniler) | N/A |
-| 36 | [Metin](http://twitter.com/search?q=Metin) | N/A |
-| 37 | [Merhuma Allah'tan](http://twitter.com/search?q=Merhuma+Allah%27tan) | N/A |
-| 38 | [Fenerbahçeli](http://twitter.com/search?q=Fenerbah%c3%a7eli) | N/A |
-| 39 | [Ertem](http://twitter.com/search?q=Ertem) | N/A |
-| 40 | [Yargıtay](http://twitter.com/search?q=Yarg%c4%b1tay) | N/A |
-| 41 | [Camide](http://twitter.com/search?q=Camide) | N/A |
-| 42 | [Gökhan Zan](http://twitter.com/search?q=G%c3%b6khan+Zan) | N/A |
-| 43 | [Bedava](http://twitter.com/search?q=Bedava) | N/A |
-| 44 | [3 Temmuz](http://twitter.com/search?q=3+Temmuz) | N/A |
-| 45 | [Günaydınlar](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nlar) | N/A |
-| 46 | [Camilerde](http://twitter.com/search?q=Camilerde) | N/A |
-| 47 | [Cübbeli](http://twitter.com/search?q=C%c3%bcbbeli) | Cübbeli is a Turkish term that refers to a person who is wise, knowledgeable, and experienced. It is often used to describe someone who has achieved a high level of spiritual enlightenment. In English, it can be translated as "wise one" or "enlightened one". |
-| 48 | [Rojbaş](http://twitter.com/search?q=Rojba%c5%9f) | N/A |
-| 49 | [Günaydınnn](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nnn) | N/A |
-| 50 | [Günaydin](http://twitter.com/search?q=G%c3%bcnaydin) | N/A |
+| 6 | [#SağlıktaYükÇokAtamaYok](http://twitter.com/search?q=%23Sa%c4%9fl%c4%b1ktaY%c3%bck%c3%87okAtamaYok) | N/A |
+| 7 | [#İyikiDoğdunMilletinAdamı](http://twitter.com/search?q=%23%c4%b0yikiDo%c4%9fdunMilletinAdam%c4%b1) | N/A |
+| 8 | [PARALI KÖPEKLER](http://twitter.com/search?q=PARALI+K%c3%96PEKLER) | N/A |
+| 9 | [#28ŞubattaTastamamEYT](http://twitter.com/search?q=%2328%c5%9eubattaTastamamEYT) | N/A |
+| 10 | [Depremin 3](http://twitter.com/search?q=Depremin+3) | N/A |
+| 11 | [Kerem Kınık](http://twitter.com/search?q=Kerem+K%c4%b1n%c4%b1k) | N/A |
+| 12 | [Tekstil A.Ş](http://twitter.com/search?q=Tekstil+A.%c5%9e) | N/A |
+| 13 | [SATMIŞ](http://twitter.com/search?q=SATMI%c5%9e) | N/A |
+| 14 | [Azerbaycanlı](http://twitter.com/search?q=Azerbaycanl%c4%b1) | N/A |
+| 15 | [Maliyetine](http://twitter.com/search?q=Maliyetine) | N/A |
+| 16 | [Murat Ağırel](http://twitter.com/search?q=Murat+A%c4%9f%c4%b1rel) | N/A |
+| 17 | [STK'ya](http://twitter.com/search?q=STK%27ya) | N/A |
+| 18 | [Satmak](http://twitter.com/search?q=Satmak) | N/A |
+| 19 | [DEVAM ULAN DEVAM](http://twitter.com/search?q=DEVAM+ULAN+DEVAM) | N/A |
+| 20 | [Ensar](http://twitter.com/search?q=Ensar) | N/A |
+| 21 | [Teşekkürler Fenerbahçe](http://twitter.com/search?q=Te%c5%9fekk%c3%bcrler+Fenerbah%c3%a7e) | N/A |
+| 22 | [Armağan](http://twitter.com/search?q=Arma%c4%9fan) | N/A |
+| 23 | [Özrü](http://twitter.com/search?q=%c3%96zr%c3%bc) | N/A |
+| 24 | [Satranç](http://twitter.com/search?q=Satran%c3%a7) | N/A |
+| 25 | [STK'lara](http://twitter.com/search?q=STK%27lara) | N/A |
+| 26 | [Sayın Cumhurbaşkanım](http://twitter.com/search?q=Say%c4%b1n+Cumhurba%c5%9fkan%c4%b1m) | N/A |
+| 27 | [Satın](http://twitter.com/search?q=Sat%c4%b1n) | N/A |
+| 28 | [ÜCRETSİZ](http://twitter.com/search?q=%c3%9cCRETS%c4%b0Z) | N/A |
+| 29 | [WE LOVE YOU JHOPE](http://twitter.com/search?q=WE+LOVE+YOU+JHOPE) | N/A |
+| 30 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 31 | [10 Şubat](http://twitter.com/search?q=10+%c5%9eubat) | N/A |
+| 32 | [DOĞUM GÜNÜN KUTLU OLSUN](http://twitter.com/search?q=DO%c4%9eUM+G%c3%9cN%c3%9cN+KUTLU+OLSUN) | N/A |
+| 33 | [Ermeni](http://twitter.com/search?q=Ermeni) | N/A |
+| 34 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 35 | [Parayla](http://twitter.com/search?q=Parayla) | N/A |
+| 36 | [Anıtkabir](http://twitter.com/search?q=An%c4%b1tkabir) | Anıtkabir is the mausoleum of Mustafa Kemal Atatürk, the founder and first president of the Republic of Turkey. The word Anıtkabir translates to "memorial tomb" in English. |
+| 37 | [Tünaydın](http://twitter.com/search?q=T%c3%bcnayd%c4%b1n) | N/A |
+| 38 | [Liderimiz](http://twitter.com/search?q=Liderimiz) | N/A |
+| 39 | [Metin](http://twitter.com/search?q=Metin) | N/A |
+| 40 | [Merhuma Allah](http://twitter.com/search?q=Merhuma+Allah) | N/A |
+| 41 | [Aziz Yıldırım](http://twitter.com/search?q=Aziz+Y%c4%b1ld%c4%b1r%c4%b1m) | Aziz Yıldırım is a Turkish name, with Aziz meaning "honored" and Yıldırım meaning "thunder". In English, the name would translate to "Honored Thunder". |
+| 42 | [Binali](http://twitter.com/search?q=Binali) | N/A |
+| 43 | [Ertem](http://twitter.com/search?q=Ertem) | N/A |
+| 44 | [Fenerbahçeli](http://twitter.com/search?q=Fenerbah%c3%a7eli) | N/A |
+| 45 | [Camide](http://twitter.com/search?q=Camide) | N/A |
+| 46 | [Unutmadık](http://twitter.com/search?q=Unutmad%c4%b1k) | N/A |
+| 47 | [Bedava](http://twitter.com/search?q=Bedava) | N/A |
+| 48 | [Seninleyiz](http://twitter.com/search?q=Seninleyiz) | N/A |
+| 49 | [Yargıtay](http://twitter.com/search?q=Yarg%c4%b1tay) | N/A |
+| 50 | [3 Temmuz](http://twitter.com/search?q=3+Temmuz) | N/A |
 
 
 

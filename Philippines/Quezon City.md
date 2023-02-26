@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quezon City
 
-📆 Last Updated: `2023-02-26 11:16:08 UTC`
+📆 Last Updated: `2023-02-26 12:18:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Philippines](</Philippines>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [jaehyun](http://twitter.com/search?q=jaehyun) | Jaehyun is a Korean given name, derived from the Chinese characters 載賢 (jié xián). It is composed of two characters: 載 (jié), meaning “to carry” or “to convey”, and 賢 (xián), meaning “virtuous” or “wise”. Together, the name can be interpreted to mean “carrying wisdom”. |
-| 2 | [#SB19_KEN](http://twitter.com/search?q=%23SB19_KEN) | N/A |
-| 3 | [taeyeon](http://twitter.com/search?q=taeyeon) | Taeyeon is a Korean given name, derived from the Sino-Korean elements "tae" (meaning "great") and "yeon" (meaning "beauty"). It is usually given to girls. |
+| 2 | [2seok](http://twitter.com/search?q=2seok) | N/A |
+| 3 | [Taeyeon](http://twitter.com/search?q=Taeyeon) | N/A |
 | 4 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 5 | [#UAAPSeason85](http://twitter.com/search?q=%23UAAPSeason85) | N/A |
-| 6 | [#FiLayThanksgivingEvent](http://twitter.com/search?q=%23FiLayThanksgivingEvent) | N/A |
-| 7 | [Canino](http://twitter.com/search?q=Canino) | N/A |
-| 8 | [DLSU](http://twitter.com/search?q=DLSU) | N/A |
-| 9 | [La Salle](http://twitter.com/search?q=La+Salle) | N/A |
-| 10 | [#GlobeTurnsPink](http://twitter.com/search?q=%23GlobeTurnsPink) | N/A |
-| 11 | [Liza](http://twitter.com/search?q=Liza) | N/A |
-| 12 | [#선우_1000일_축하해](http://twitter.com/search?q=%23%ec%84%a0%ec%9a%b0_1000%ec%9d%bc_%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
-| 13 | [USTe](http://twitter.com/search?q=USTe) | N/A |
-| 14 | [Eya Laure](http://twitter.com/search?q=Eya+Laure) | N/A |
-| 15 | [ZACHAMxROBXINE EPLfinale](http://twitter.com/search?q=ZACHAMxROBXINE+EPLfinale) | N/A |
-| 16 | [Milena](http://twitter.com/search?q=Milena) | N/A |
+| 5 | [#GlobeTurnsPink](http://twitter.com/search?q=%23GlobeTurnsPink) | N/A |
+| 6 | [#TheClashUnangGulat](http://twitter.com/search?q=%23TheClashUnangGulat) | N/A |
+| 7 | [#TVKPH5inColor](http://twitter.com/search?q=%23TVKPH5inColor) | N/A |
+| 8 | [Liza](http://twitter.com/search?q=Liza) | N/A |
+| 9 | [LUCKYBEAUTY TIKTOKLIVESELLING](http://twitter.com/search?q=LUCKYBEAUTY+TIKTOKLIVESELLING) | N/A |
+| 10 | [#FiLayThanksgivingEvent](http://twitter.com/search?q=%23FiLayThanksgivingEvent) | N/A |
+| 11 | [#UAAPSeason85](http://twitter.com/search?q=%23UAAPSeason85) | N/A |
+| 12 | [Canino](http://twitter.com/search?q=Canino) | N/A |
+| 13 | [DLSU](http://twitter.com/search?q=DLSU) | N/A |
+| 14 | [ZACHAMxROBXINE EPLfinale](http://twitter.com/search?q=ZACHAMxROBXINE+EPLfinale) | N/A |
+| 15 | [La Salle](http://twitter.com/search?q=La+Salle) | N/A |
+| 16 | [Kathryn](http://twitter.com/search?q=Kathryn) | N/A |
 | 17 | [FOREVER YOURS BUILD](http://twitter.com/search?q=FOREVER+YOURS+BUILD) | N/A |
-| 18 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
-| 19 | [SYNK WITH AESPA DAY2](http://twitter.com/search?q=SYNK+WITH+AESPA+DAY2) | N/A |
-| 20 | [Kathryn](http://twitter.com/search?q=Kathryn) | N/A |
-| 21 | [jhope](http://twitter.com/search?q=jhope) | N/A |
-| 22 | [Leila](http://twitter.com/search?q=Leila) | N/A |
+| 18 | [Milena](http://twitter.com/search?q=Milena) | N/A |
+| 19 | [USTe](http://twitter.com/search?q=USTe) | N/A |
+| 20 | [La Luna](http://twitter.com/search?q=La+Luna) | N/A |
+| 21 | [SYNK WITH AESPA DAY2](http://twitter.com/search?q=SYNK+WITH+AESPA+DAY2) | N/A |
+| 22 | [Jolina](http://twitter.com/search?q=Jolina) | N/A |
 | 23 | [Maji](http://twitter.com/search?q=Maji) | N/A |
-| 24 | [Jolina](http://twitter.com/search?q=Jolina) | N/A |
-| 25 | [2seok](http://twitter.com/search?q=2seok) | N/A |
-| 26 | [Gula](http://twitter.com/search?q=Gula) | N/A |
-| 27 | [La Luna](http://twitter.com/search?q=La+Luna) | N/A |
-| 28 | [HAPPY 23RD BDAY ALEXA](http://twitter.com/search?q=HAPPY+23RD+BDAY+ALEXA) | N/A |
-| 29 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 30 | [ningning](http://twitter.com/search?q=ningning) | N/A |
-| 31 | [Fifi](http://twitter.com/search?q=Fifi) | N/A |
-| 32 | [Jin hyung](http://twitter.com/search?q=Jin+hyung) | N/A |
-| 33 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 34 | [WILDTONIGHT ON AOS](http://twitter.com/search?q=WILDTONIGHT+ON+AOS) | N/A |
-| 35 | [Imee](http://twitter.com/search?q=Imee) | N/A |
-| 36 | [Giselle](http://twitter.com/search?q=Giselle) | N/A |
-| 37 | [Nadine](http://twitter.com/search?q=Nadine) | Nadine is a female given name of French origin, derived from the name Nadia. It is a variant of the name Nadia, which is derived from the Russian name Nadezhda, meaning “hope”. |
-| 38 | [BIGHIT](http://twitter.com/search?q=BIGHIT) | N/A |
-| 39 | [ALL OUT JOSH CULLEN](http://twitter.com/search?q=ALL+OUT+JOSH+CULLEN) | N/A |
-| 40 | [Stell](http://twitter.com/search?q=Stell) | N/A |
-| 41 | [BINI OUR MODESS GIRLS](http://twitter.com/search?q=BINI+OUR+MODESS+GIRLS) | N/A |
-| 42 | [Felip](http://twitter.com/search?q=Felip) | N/A |
-| 43 | [Kross the Line with ENHYPEN](http://twitter.com/search?q=Kross+the+Line+with+ENHYPEN) | N/A |
-| 44 | [#WannaBeYourLuveForever](http://twitter.com/search?q=%23WannaBeYourLuveForever) | N/A |
-| 45 | [#SUNOO](http://twitter.com/search?q=%23SUNOO) | N/A |
-| 46 | [#AlEians](http://twitter.com/search?q=%23AlEians) | N/A |
-| 47 | [#PARKJINYOUNGinMNL2023](http://twitter.com/search?q=%23PARKJINYOUNGinMNL2023) | N/A |
-| 48 | [#BetweenUsFMinMNL2023](http://twitter.com/search?q=%23BetweenUsFMinMNL2023) | N/A |
-| 49 | [#GIFT_tokyodome](http://twitter.com/search?q=%23GIFT_tokyodome) | N/A |
-| 50 | [#TeddyBear4thWin](http://twitter.com/search?q=%23TeddyBear4thWin) | N/A |
+| 24 | [jhope](http://twitter.com/search?q=jhope) | N/A |
+| 25 | [Eya Laure](http://twitter.com/search?q=Eya+Laure) | N/A |
+| 26 | [Leila](http://twitter.com/search?q=Leila) | N/A |
+| 27 | [HAPPY 23RD BDAY ALEXA](http://twitter.com/search?q=HAPPY+23RD+BDAY+ALEXA) | N/A |
+| 28 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
+| 29 | [Fifi](http://twitter.com/search?q=Fifi) | N/A |
+| 30 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 31 | [WILDTONIGHT ON AOS](http://twitter.com/search?q=WILDTONIGHT+ON+AOS) | N/A |
+| 32 | [ningning](http://twitter.com/search?q=ningning) | N/A |
+| 33 | [Imee](http://twitter.com/search?q=Imee) | N/A |
+| 34 | [Giselle](http://twitter.com/search?q=Giselle) | N/A |
+| 35 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 36 | [Stell](http://twitter.com/search?q=Stell) | N/A |
+| 37 | [seungcheol](http://twitter.com/search?q=seungcheol) | N/A |
+| 38 | [Nadine](http://twitter.com/search?q=Nadine) | Nadine is a female given name of French origin, derived from the name Nadia. It is a variant of the name Nadia, which is derived from the Russian name Nadezhda, meaning “hope”. |
+| 39 | [Modern Family](http://twitter.com/search?q=Modern+Family) | Modern Family is an American television mockumentary sitcom created by Christopher Lloyd and Steven Levitan for the ABC network. It follows the lives of three related families, the Pritchetts, Dunphys, and Tuckers, who all live in Los Angeles. The show focuses on the characters' relationships with each other and their attempts to navigate modern life. The title of the show is a reference to the changing nature of family life in today's society. |
+| 40 | [ALL OUT JOSH CULLEN](http://twitter.com/search?q=ALL+OUT+JOSH+CULLEN) | N/A |
+| 41 | [Felip](http://twitter.com/search?q=Felip) | N/A |
+| 42 | [#선우_1000일_축하해](http://twitter.com/search?q=%23%ec%84%a0%ec%9a%b0_1000%ec%9d%bc_%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
+| 43 | [#TheEndofKinnPorsche](http://twitter.com/search?q=%23TheEndofKinnPorsche) | N/A |
+| 44 | [#SB19_KEN](http://twitter.com/search?q=%23SB19_KEN) | N/A |
+| 45 | [#KPWTBKKWTF](http://twitter.com/search?q=%23KPWTBKKWTF) | N/A |
+| 46 | [#WannaBeYourLuveForever](http://twitter.com/search?q=%23WannaBeYourLuveForever) | N/A |
+| 47 | [#FiLayThanksgivingFansDay](http://twitter.com/search?q=%23FiLayThanksgivingFansDay) | N/A |
+| 48 | [#GIFT_tokyodome](http://twitter.com/search?q=%23GIFT_tokyodome) | N/A |
+| 49 | [#SUNOO](http://twitter.com/search?q=%23SUNOO) | N/A |
+| 50 | [#AlEians](http://twitter.com/search?q=%23AlEians) | N/A |
 
 
 

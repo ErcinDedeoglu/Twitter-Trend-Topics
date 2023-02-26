@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Malaysia
 
-📆 Last Updated: `2023-02-26 11:16:33 UTC`
+📆 Last Updated: `2023-02-26 12:18:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Malaysia
 | 1 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
 | 2 | [#TheEndofKinnPorsche](http://twitter.com/search?q=%23TheEndofKinnPorsche) | N/A |
 | 3 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
-| 4 | [#WannaBeYourLuveForever](http://twitter.com/search?q=%23WannaBeYourLuveForever) | N/A |
-| 5 | [FOREVER YOURS BUILD](http://twitter.com/search?q=FOREVER+YOURS+BUILD) | N/A |
-| 6 | [JENO MILAN FASHION WEEK](http://twitter.com/search?q=JENO+MILAN+FASHION+WEEK) | N/A |
-| 7 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 8 | [jhope](http://twitter.com/search?q=jhope) | N/A |
-| 9 | [#PSJSahabatMILO](http://twitter.com/search?q=%23PSJSahabatMILO) | N/A |
-| 10 | [#aespa1stConcertSYNK_HYPERLINE](http://twitter.com/search?q=%23aespa1stConcertSYNK_HYPERLINE) | N/A |
-| 11 | [#ParkSeoJooninMY](http://twitter.com/search?q=%23ParkSeoJooninMY) | N/A |
-| 12 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 13 | [jaehyun](http://twitter.com/search?q=jaehyun) | Jaehyun is a Korean given name, derived from the Chinese characters 載賢 (jié xián). It is composed of two characters: 載 (jié), meaning “to carry” or “to convey”, and 賢 (xián), meaning “virtuous” or “wise”. Together, the name can be interpreted to mean “carrying wisdom”. |
-| 14 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 15 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 4 | [JENO MILAN FASHION WEEK](http://twitter.com/search?q=JENO+MILAN+FASHION+WEEK) | N/A |
+| 5 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 6 | [haechan sunbaenim](http://twitter.com/search?q=haechan+sunbaenim) | N/A |
+| 7 | [#aespa1stConcertSYNK_HYPERLINE](http://twitter.com/search?q=%23aespa1stConcertSYNK_HYPERLINE) | N/A |
+| 8 | [#XETA](http://twitter.com/search?q=%23XETA) | N/A |
+| 9 | [jaehyun](http://twitter.com/search?q=jaehyun) | Jaehyun is a Korean given name, derived from the Chinese characters 載賢 (jié xián). It is composed of two characters: 載 (jié), meaning “to carry” or “to convey”, and 賢 (xián), meaning “virtuous” or “wise”. Together, the name can be interpreted to mean “carrying wisdom”. |
+| 10 | [#PSJSahabatMILO](http://twitter.com/search?q=%23PSJSahabatMILO) | N/A |
+| 11 | [jhope](http://twitter.com/search?q=jhope) | N/A |
+| 12 | [#ParkSeoJooninMY](http://twitter.com/search?q=%23ParkSeoJooninMY) | N/A |
+| 13 | [FOREVER YOURS BUILD](http://twitter.com/search?q=FOREVER+YOURS+BUILD) | N/A |
+| 14 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 15 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
 | 16 | [Giselle](http://twitter.com/search?q=Giselle) | N/A |
-| 17 | [Jeff](http://twitter.com/search?q=Jeff) | N/A |
+| 17 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
 | 18 | [Selena](http://twitter.com/search?q=Selena) | N/A |
 | 19 | [2seok](http://twitter.com/search?q=2seok) | N/A |
 | 20 | [ningning](http://twitter.com/search?q=ningning) | N/A |
-| 21 | [JAEYONG](http://twitter.com/search?q=JAEYONG) | N/A |
-| 22 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
-| 23 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 24 | [WE LOVE OUR BLUE](http://twitter.com/search?q=WE+LOVE+OUR+BLUE) | N/A |
-| 25 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 26 | [BIGHIT](http://twitter.com/search?q=BIGHIT) | N/A |
-| 27 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 28 | [jisung](http://twitter.com/search?q=jisung) | N/A |
+| 21 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
+| 22 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 23 | [Jaeyong](http://twitter.com/search?q=Jaeyong) | N/A |
+| 24 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 25 | [BIGHIT](http://twitter.com/search?q=BIGHIT) | N/A |
+| 26 | [WE LOVE OUR BLUE](http://twitter.com/search?q=WE+LOVE+OUR+BLUE) | N/A |
+| 27 | [yixing](http://twitter.com/search?q=yixing) | N/A |
+| 28 | [Stray Kids](http://twitter.com/search?q=Stray+Kids) | N/A |
 | 29 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
-| 30 | [Hendo](http://twitter.com/search?q=Hendo) | Hendo is a slang term derived from the Japanese word "hendou," which means "change." It is often used to refer to a sudden or unexpected change in something, such as a situation or a person's attitude. |
-| 31 | [yixing](http://twitter.com/search?q=yixing) | N/A |
-| 32 | [nftduel](http://twitter.com/search?q=nftduel) | N/A |
-| 33 | [bob greene](http://twitter.com/search?q=bob+greene) | N/A |
-| 34 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
-| 35 | [Carvalho](http://twitter.com/search?q=Carvalho) | Carvalho is a Portuguese surname derived from the Latin word carbo, meaning "charcoal". In English, it can be translated to mean "charcoal maker" or "charcoal burner". |
-| 36 | [Full OC Name](http://twitter.com/search?q=Full+OC+Name) | N/A |
-| 37 | [INEC](http://twitter.com/search?q=INEC) | N/A |
-| 38 | [Pete](http://twitter.com/search?q=Pete) | Pete is a nickname for the name Peter. It is derived from the Greek word "petros" which means "rock". |
-| 39 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 40 | [DOLLA](http://twitter.com/search?q=DOLLA) | N/A |
-| 41 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
-| 42 | [Karina](http://twitter.com/search?q=Karina) | N/A |
-| 43 | [sofi](http://twitter.com/search?q=sofi) | N/A |
-| 44 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 45 | [NCT DREAM](http://twitter.com/search?q=NCT+DREAM) | N/A |
+| 30 | [nftduel](http://twitter.com/search?q=nftduel) | N/A |
+| 31 | [Hendo](http://twitter.com/search?q=Hendo) | Hendo is a slang term derived from the Japanese word "hendou," which means "change." It is often used to refer to a sudden or unexpected change in something, such as a situation or a person's attitude. |
+| 32 | [bob greene](http://twitter.com/search?q=bob+greene) | N/A |
+| 33 | [Carvalho](http://twitter.com/search?q=Carvalho) | Carvalho is a Portuguese surname derived from the Latin word carbo, meaning "charcoal". In English, it can be translated to mean "charcoal maker" or "charcoal burner". |
+| 34 | [INEC](http://twitter.com/search?q=INEC) | N/A |
+| 35 | [Yuzu](http://twitter.com/search?q=Yuzu) | N/A |
+| 36 | [Pete](http://twitter.com/search?q=Pete) | Pete is a nickname for the name Peter. It is derived from the Greek word "petros" which means "rock". |
+| 37 | [Full OC Name](http://twitter.com/search?q=Full+OC+Name) | N/A |
+| 38 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
+| 39 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 40 | [Jeff](http://twitter.com/search?q=Jeff) | N/A |
+| 41 | [sofi](http://twitter.com/search?q=sofi) | N/A |
+| 42 | [NCT DREAM](http://twitter.com/search?q=NCT+DREAM) | N/A |
+| 43 | [better treatment for irene](http://twitter.com/search?q=better+treatment+for+irene) | N/A |
+| 44 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 45 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
 | 46 | [Perth](http://twitter.com/search?q=Perth) | N/A |
-| 47 | [Hyunjin](http://twitter.com/search?q=Hyunjin) | N/A |
-| 48 | [taeyeon](http://twitter.com/search?q=taeyeon) | Taeyeon is a Korean given name, derived from the Sino-Korean elements "tae" (meaning "great") and "yeon" (meaning "beauty"). It is usually given to girls. |
-| 49 | [Yuzu](http://twitter.com/search?q=Yuzu) | N/A |
-| 50 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 47 | [Karina](http://twitter.com/search?q=Karina) | N/A |
+| 48 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 49 | [DOLLA](http://twitter.com/search?q=DOLLA) | N/A |
+| 50 | [astro](http://twitter.com/search?q=astro) | N/A |
 
 
 

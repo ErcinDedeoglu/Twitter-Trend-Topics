@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ecuador
 
-📆 Last Updated: `2023-02-26 11:16:30 UTC`
+📆 Last Updated: `2023-02-26 12:18:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for Ecuador
 | 2 | [Gualaceo](http://twitter.com/search?q=Gualaceo) | N/A |
 | 3 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
 | 4 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 5 | [Bauman](http://twitter.com/search?q=Bauman) | N/A |
-| 6 | [Díaz](http://twitter.com/search?q=D%c3%adaz) | N/A |
-| 7 | [Kendry Páez](http://twitter.com/search?q=Kendry+P%c3%a1ez) | N/A |
+| 5 | [kendry páez](http://twitter.com/search?q=kendry+p%c3%a1ez) | N/A |
+| 6 | [Bauman](http://twitter.com/search?q=Bauman) | N/A |
+| 7 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
 | 8 | [CONAIE](http://twitter.com/search?q=CONAIE) | N/A |
-| 9 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 10 | [#ligaprobet593](http://twitter.com/search?q=%23ligaprobet593) | N/A |
-| 11 | [#IzaTerrorista](http://twitter.com/search?q=%23IzaTerrorista) | N/A |
-| 12 | [#paronacional](http://twitter.com/search?q=%23paronacional) | N/A |
-| 13 | [Velasco](http://twitter.com/search?q=Velasco) | N/A |
-| 14 | [gaibor](http://twitter.com/search?q=gaibor) | N/A |
-| 15 | [Paco Rodríguez](http://twitter.com/search?q=Paco+Rodr%c3%adguez) | N/A |
-| 16 | [Cortez](http://twitter.com/search?q=Cortez) | N/A |
-| 17 | [Piñatares](http://twitter.com/search?q=Pi%c3%b1atares) | N/A |
-| 18 | [Alfaro](http://twitter.com/search?q=Alfaro) | N/A |
-| 19 | [Janner](http://twitter.com/search?q=Janner) | N/A |
-| 20 | [azogues](http://twitter.com/search?q=azogues) | N/A |
-| 21 | [Zubeldia](http://twitter.com/search?q=Zubeldia) | N/A |
-| 22 | [Burrai](http://twitter.com/search?q=Burrai) | N/A |
-| 23 | [#jhope](http://twitter.com/search?q=%23jhope) | N/A |
-| 24 | [maribel castillo](http://twitter.com/search?q=maribel+castillo) | N/A |
+| 9 | [#IzaTerrorista](http://twitter.com/search?q=%23IzaTerrorista) | N/A |
+| 10 | [Díaz](http://twitter.com/search?q=D%c3%adaz) | N/A |
+| 11 | [#LigaProBet593](http://twitter.com/search?q=%23LigaProBet593) | N/A |
+| 12 | [Velasco](http://twitter.com/search?q=Velasco) | N/A |
+| 13 | [Paco Rodríguez](http://twitter.com/search?q=Paco+Rodr%c3%adguez) | N/A |
+| 14 | [#ParoNacional](http://twitter.com/search?q=%23ParoNacional) | N/A |
+| 15 | [Gaibor](http://twitter.com/search?q=Gaibor) | N/A |
+| 16 | [Piñatares](http://twitter.com/search?q=Pi%c3%b1atares) | N/A |
+| 17 | [Alfaro](http://twitter.com/search?q=Alfaro) | N/A |
+| 18 | [Janner](http://twitter.com/search?q=Janner) | N/A |
+| 19 | [Cortez](http://twitter.com/search?q=Cortez) | N/A |
+| 20 | [Burrai](http://twitter.com/search?q=Burrai) | N/A |
+| 21 | [#JHOPE](http://twitter.com/search?q=%23JHOPE) | N/A |
+| 22 | [Zubeldía](http://twitter.com/search?q=Zubeld%c3%ada) | N/A |
+| 23 | [Azogues](http://twitter.com/search?q=Azogues) | N/A |
+| 24 | [jorge andrade cantos](http://twitter.com/search?q=jorge+andrade+cantos) | N/A |
 | 25 | [#mushucruna](http://twitter.com/search?q=%23mushucruna) | N/A |
-| 26 | [jorge andrade cantos](http://twitter.com/search?q=jorge+andrade+cantos) | N/A |
-| 27 | [Joaquín Vergés](http://twitter.com/search?q=Joaqu%c3%adn+Verg%c3%a9s) | N/A |
-| 28 | [Kitu](http://twitter.com/search?q=Kitu) | N/A |
-| 29 | [Quito](http://twitter.com/search?q=Quito) | N/A |
-| 30 | [Almada](http://twitter.com/search?q=Almada) | N/A |
-| 31 | [portocarrero](http://twitter.com/search?q=portocarrero) | N/A |
-| 32 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 33 | [Romeo](http://twitter.com/search?q=Romeo) | N/A |
-| 34 | [christian benítez](http://twitter.com/search?q=christian+ben%c3%adtez) | N/A |
+| 26 | [NO ESTOY SOPORTANDO](http://twitter.com/search?q=NO+ESTOY+SOPORTANDO) | N/A |
+| 27 | [joaquín vergés](http://twitter.com/search?q=joaqu%c3%adn+verg%c3%a9s) | N/A |
+| 28 | [Portocarrero](http://twitter.com/search?q=Portocarrero) | N/A |
+| 29 | [Kitu](http://twitter.com/search?q=Kitu) | N/A |
+| 30 | [Quito](http://twitter.com/search?q=Quito) | N/A |
+| 31 | [Almada](http://twitter.com/search?q=Almada) | N/A |
+| 32 | [Maribel Castillo](http://twitter.com/search?q=Maribel+Castillo) | N/A |
+| 33 | [christian benítez](http://twitter.com/search?q=christian+ben%c3%adtez) | N/A |
+| 34 | [Patricio](http://twitter.com/search?q=Patricio) | N/A |
 | 35 | [Leonidas Iza](http://twitter.com/search?q=Leonidas+Iza) | N/A |
-| 36 | [titi ortiz](http://twitter.com/search?q=titi+ortiz) | N/A |
-| 37 | [Quintero](http://twitter.com/search?q=Quintero) | Quintero is a Spanish surname derived from the Latin word quintarius, meaning "fifth." It is also a place name in Spain, referring to a small town in the province of Huelva. In English, the name Quintero can be translated to mean "of the fifth." |
-| 38 | [hoyos](http://twitter.com/search?q=hoyos) | N/A |
-| 39 | [adonis](http://twitter.com/search?q=adonis) | N/A |
-| 40 | [jesús preciado](http://twitter.com/search?q=jes%c3%bas+preciado) | N/A |
-| 41 | [Fecha 1](http://twitter.com/search?q=Fecha+1) | N/A |
+| 36 | [Adonis](http://twitter.com/search?q=Adonis) | N/A |
+| 37 | [titi ortiz](http://twitter.com/search?q=titi+ortiz) | N/A |
+| 38 | [Quintero](http://twitter.com/search?q=Quintero) | Quintero is a Spanish surname derived from the Latin word quintarius, meaning "fifth." It is also a place name in Spain, referring to a small town in the province of Huelva. In English, the name Quintero can be translated to mean "of the fifth." |
+| 39 | [Romeo](http://twitter.com/search?q=Romeo) | N/A |
+| 40 | [hoyos](http://twitter.com/search?q=hoyos) | N/A |
+| 41 | [jesús preciado](http://twitter.com/search?q=jes%c3%bas+preciado) | N/A |
 | 42 | [david hurtado](http://twitter.com/search?q=david+hurtado) | N/A |
-| 43 | [piovi](http://twitter.com/search?q=piovi) | N/A |
-| 44 | [cucalon](http://twitter.com/search?q=cucalon) | N/A |
-| 45 | [Cuenca](http://twitter.com/search?q=Cuenca) | N/A |
-| 46 | [El VAR](http://twitter.com/search?q=El+VAR) | El VAR is an acronym for Video Assistant Referee, which is a technology used in soccer to help referees make decisions. It uses video replays to review decisions made by the referee on the field. In English, it means Video Assistant Referee. |
-| 47 | [RMILAN FASHION WEEK](http://twitter.com/search?q=RMILAN+FASHION+WEEK) | N/A |
-| 48 | [Ídolo](http://twitter.com/search?q=%c3%8ddolo) | N/A |
-| 49 | [gary espinoza](http://twitter.com/search?q=gary+espinoza) | N/A |
-| 50 | [Indio](http://twitter.com/search?q=Indio) | N/A |
+| 43 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
+| 44 | [piovi](http://twitter.com/search?q=piovi) | N/A |
+| 45 | [El VAR](http://twitter.com/search?q=El+VAR) | El VAR is an acronym for Video Assistant Referee, which is a technology used in soccer to help referees make decisions. It uses video replays to review decisions made by the referee on the field. In English, it means Video Assistant Referee. |
+| 46 | [Cuenca](http://twitter.com/search?q=Cuenca) | N/A |
+| 47 | [Fecha 1](http://twitter.com/search?q=Fecha+1) | N/A |
+| 48 | [ídolo](http://twitter.com/search?q=%c3%addolo) | N/A |
+| 49 | [RMILAN FASHION WEEK](http://twitter.com/search?q=RMILAN+FASHION+WEEK) | N/A |
+| 50 | [Cucalon](http://twitter.com/search?q=Cucalon) | N/A |
 
 
 
