@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-02-26 10:16:29 UTC`
+📆 Last Updated: `2023-02-26 11:15:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,52 @@ This is top 50 for [Switzerland](</Switzerland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 2 | [#b2502](http://twitter.com/search?q=%23b2502) | N/A |
+| 1 | [#b2502](http://twitter.com/search?q=%23b2502) | N/A |
+| 2 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
 | 3 | [#fczyb](http://twitter.com/search?q=%23fczyb) | N/A |
-| 4 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 5 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
+| 4 | [Zuwanderung](http://twitter.com/search?q=Zuwanderung) | N/A |
+| 5 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
 | 6 | [Lomepal](http://twitter.com/search?q=Lomepal) | N/A |
-| 7 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
+| 7 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
 | 8 | [Köppel](http://twitter.com/search?q=K%c3%b6ppel) | N/A |
-| 9 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 10 | [Kündigung](http://twitter.com/search?q=K%c3%bcndigung) | N/A |
-| 11 | [Solidarität](http://twitter.com/search?q=Solidarit%c3%a4t) | N/A |
-| 12 | [Strategie](http://twitter.com/search?q=Strategie) | N/A |
-| 13 | [Aussagen](http://twitter.com/search?q=Aussagen) | N/A |
-| 14 | [Ukrainians](http://twitter.com/search?q=Ukrainians) | N/A |
-| 15 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
-| 16 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 17 | [Miete](http://twitter.com/search?q=Miete) | N/A |
-| 18 | [Journalismus](http://twitter.com/search?q=Journalismus) | N/A |
-| 19 | [Garcia](http://twitter.com/search?q=Garcia) | Garcia is a Spanish surname. It is derived from the Basque word "gar" meaning "bear". The name is often associated with strength and courage. In English, Garcia means "brave and strong". |
-| 20 | [Seite der Geschichte](http://twitter.com/search?q=Seite+der+Geschichte) | N/A |
-| 21 | [Army](http://twitter.com/search?q=Army) | N/A |
-| 22 | [Trudeau](http://twitter.com/search?q=Trudeau) | N/A |
-| 23 | [Vietnam](http://twitter.com/search?q=Vietnam) | N/A |
-| 24 | [Framing](http://twitter.com/search?q=Framing) | N/A |
-| 25 | [Cassis](http://twitter.com/search?q=Cassis) | N/A |
-| 26 | [Anlass](http://twitter.com/search?q=Anlass) | N/A |
-| 27 | [Mühe](http://twitter.com/search?q=M%c3%bche) | N/A |
-| 28 | [Kiew](http://twitter.com/search?q=Kiew) | N/A |
-| 29 | [Stuss](http://twitter.com/search?q=Stuss) | N/A |
-| 30 | [Begriff](http://twitter.com/search?q=Begriff) | N/A |
-| 31 | [Handeln](http://twitter.com/search?q=Handeln) | N/A |
-| 32 | [Bauern](http://twitter.com/search?q=Bauern) | N/A |
+| 9 | [Kündigung](http://twitter.com/search?q=K%c3%bcndigung) | N/A |
+| 10 | [Argumente](http://twitter.com/search?q=Argumente) | N/A |
+| 11 | [Einkommen](http://twitter.com/search?q=Einkommen) | N/A |
+| 12 | [Solidarität](http://twitter.com/search?q=Solidarit%c3%a4t) | N/A |
+| 13 | [Strategie](http://twitter.com/search?q=Strategie) | N/A |
+| 14 | [Bauern](http://twitter.com/search?q=Bauern) | N/A |
+| 15 | [Minderheit](http://twitter.com/search?q=Minderheit) | N/A |
+| 16 | [Miete](http://twitter.com/search?q=Miete) | N/A |
+| 17 | [Seite der Geschichte](http://twitter.com/search?q=Seite+der+Geschichte) | N/A |
+| 18 | [Cassis](http://twitter.com/search?q=Cassis) | N/A |
+| 19 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 20 | [Garcia](http://twitter.com/search?q=Garcia) | Garcia is a Spanish surname. It is derived from the Basque word "gar" meaning "bear". The name is often associated with strength and courage. In English, Garcia means "brave and strong". |
+| 21 | [Mühe](http://twitter.com/search?q=M%c3%bche) | N/A |
+| 22 | [Habeck](http://twitter.com/search?q=Habeck) | N/A |
+| 23 | [Army](http://twitter.com/search?q=Army) | N/A |
+| 24 | [Trudeau](http://twitter.com/search?q=Trudeau) | N/A |
+| 25 | [Framing](http://twitter.com/search?q=Framing) | N/A |
+| 26 | [Kiew](http://twitter.com/search?q=Kiew) | N/A |
+| 27 | [Vollidiot](http://twitter.com/search?q=Vollidiot) | N/A |
+| 28 | [Stuss](http://twitter.com/search?q=Stuss) | N/A |
+| 29 | [Lösung](http://twitter.com/search?q=L%c3%b6sung) | N/A |
+| 30 | [Grenzen](http://twitter.com/search?q=Grenzen) | N/A |
+| 31 | [Wirtschaft](http://twitter.com/search?q=Wirtschaft) | N/A |
+| 32 | [Gerechtigkeit](http://twitter.com/search?q=Gerechtigkeit) | N/A |
 | 33 | [svpler](http://twitter.com/search?q=svpler) | N/A |
 | 34 | [Bewohner](http://twitter.com/search?q=Bewohner) | N/A |
 | 35 | [Gemeinde](http://twitter.com/search?q=Gemeinde) | N/A |
-| 36 | [Minderheit](http://twitter.com/search?q=Minderheit) | N/A |
-| 37 | [Narrativ](http://twitter.com/search?q=Narrativ) | N/A |
-| 38 | [Wallis](http://twitter.com/search?q=Wallis) | N/A |
-| 39 | [Kindergarten](http://twitter.com/search?q=Kindergarten) | N/A |
-| 40 | [Maurizio Costanzo](http://twitter.com/search?q=Maurizio+Costanzo) | N/A |
-| 41 | [Grenzen](http://twitter.com/search?q=Grenzen) | N/A |
-| 42 | [Solange](http://twitter.com/search?q=Solange) | N/A |
-| 43 | [Decke](http://twitter.com/search?q=Decke) | N/A |
-| 44 | [Wohnungsnot](http://twitter.com/search?q=Wohnungsnot) | N/A |
-| 45 | [Konflikte](http://twitter.com/search?q=Konflikte) | N/A |
-| 46 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 36 | [Wallis](http://twitter.com/search?q=Wallis) | N/A |
+| 37 | [Maurizio Costanzo](http://twitter.com/search?q=Maurizio+Costanzo) | N/A |
+| 38 | [Solange](http://twitter.com/search?q=Solange) | N/A |
+| 39 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 40 | [Decke](http://twitter.com/search?q=Decke) | N/A |
+| 41 | [Wohnungsnot](http://twitter.com/search?q=Wohnungsnot) | N/A |
+| 42 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 43 | [Glaubwürdigkeit](http://twitter.com/search?q=Glaubw%c3%bcrdigkeit) | N/A |
+| 44 | [Politikern](http://twitter.com/search?q=Politikern) | N/A |
+| 45 | [Diktatur](http://twitter.com/search?q=Diktatur) | N/A |
+| 46 | [Worten](http://twitter.com/search?q=Worten) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dresden
 
-📆 Last Updated: `2023-02-26 10:16:25 UTC`
+📆 Last Updated: `2023-02-26 11:15:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Germany](</Germany>)
 | ------- | ------------ | ------------ |
 | 1 | [#b2502](http://twitter.com/search?q=%23b2502) | N/A |
 | 2 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
-| 3 | [Schönen Sonntag](http://twitter.com/search?q=Sch%c3%b6nen+Sonntag) | "Schönen Sonntag" is a German phrase that translates to "Have a nice Sunday" in English. It is a common greeting used to wish someone a pleasant day on Sunday. |
-| 4 | [#S04VfB](http://twitter.com/search?q=%23S04VfB) | N/A |
-| 5 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 6 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
-| 7 | [#MetAmazonPresale](http://twitter.com/search?q=%23MetAmazonPresale) | N/A |
-| 8 | [#TSGBVB](http://twitter.com/search?q=%23TSGBVB) | N/A |
+| 3 | [#S04VfB](http://twitter.com/search?q=%23S04VfB) | N/A |
+| 4 | [Schönen Sonntag](http://twitter.com/search?q=Sch%c3%b6nen+Sonntag) | "Schönen Sonntag" is a German phrase that translates to "Have a nice Sunday" in English. It is a common greeting used to wish someone a pleasant day on Sunday. |
+| 5 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
+| 6 | [#MetAmazonPresale](http://twitter.com/search?q=%23MetAmazonPresale) | N/A |
+| 7 | [#TSGBVB](http://twitter.com/search?q=%23TSGBVB) | N/A |
+| 8 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
 | 9 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
 | 10 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 11 | [Sonntagmorgen](http://twitter.com/search?q=Sonntagmorgen) | N/A |
-| 12 | [Irreführung der Bevölkerung](http://twitter.com/search?q=Irref%c3%bchrung+der+Bev%c3%b6lkerung) | N/A |
-| 13 | [Bock auf Arbeit](http://twitter.com/search?q=Bock+auf+Arbeit) | N/A |
-| 14 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
-| 15 | [Fratze Deutschlands](http://twitter.com/search?q=Fratze+Deutschlands) | N/A |
-| 16 | [Teilnehmer](http://twitter.com/search?q=Teilnehmer) | N/A |
-| 17 | [Seite der Geschichte](http://twitter.com/search?q=Seite+der+Geschichte) | N/A |
-| 18 | [Kinderlose](http://twitter.com/search?q=Kinderlose) | N/A |
+| 11 | [Irreführung der Bevölkerung](http://twitter.com/search?q=Irref%c3%bchrung+der+Bev%c3%b6lkerung) | N/A |
+| 12 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
+| 13 | [Kinderlose](http://twitter.com/search?q=Kinderlose) | N/A |
+| 14 | [Teilnehmer](http://twitter.com/search?q=Teilnehmer) | N/A |
+| 15 | [Bock auf Arbeit](http://twitter.com/search?q=Bock+auf+Arbeit) | N/A |
+| 16 | [Seite der Geschichte](http://twitter.com/search?q=Seite+der+Geschichte) | N/A |
+| 17 | [Fratze Deutschlands](http://twitter.com/search?q=Fratze+Deutschlands) | N/A |
+| 18 | [Busfahrer](http://twitter.com/search?q=Busfahrer) | N/A |
 | 19 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
 | 20 | [Panzer](http://twitter.com/search?q=Panzer) | N/A |
-| 21 | [Busfahrer](http://twitter.com/search?q=Busfahrer) | N/A |
-| 22 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 23 | [Verbrecher in die Geschichte](http://twitter.com/search?q=Verbrecher+in+die+Geschichte) | N/A |
-| 24 | [Sundermeyer](http://twitter.com/search?q=Sundermeyer) | N/A |
-| 25 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
-| 26 | [Höcke](http://twitter.com/search?q=H%c3%b6cke) | N/A |
-| 27 | [Frau Müller](http://twitter.com/search?q=Frau+M%c3%bcller) | N/A |
+| 21 | [Sonntagmorgen](http://twitter.com/search?q=Sonntagmorgen) | N/A |
+| 22 | [Verbrecher in die Geschichte](http://twitter.com/search?q=Verbrecher+in+die+Geschichte) | N/A |
+| 23 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
+| 24 | [Höcke](http://twitter.com/search?q=H%c3%b6cke) | N/A |
+| 25 | [Sundermeyer](http://twitter.com/search?q=Sundermeyer) | N/A |
+| 26 | [Frau Müller](http://twitter.com/search?q=Frau+M%c3%bcller) | N/A |
+| 27 | [Kriegstreiber](http://twitter.com/search?q=Kriegstreiber) | N/A |
 | 28 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
-| 29 | [Kriegstreiber](http://twitter.com/search?q=Kriegstreiber) | N/A |
-| 30 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
-| 31 | [Botschaft](http://twitter.com/search?q=Botschaft) | N/A |
-| 32 | [Brandenburger Tor](http://twitter.com/search?q=Brandenburger+Tor) | N/A |
-| 33 | [Silas](http://twitter.com/search?q=Silas) | N/A |
-| 34 | [Flaggen](http://twitter.com/search?q=Flaggen) | N/A |
-| 35 | [Pack](http://twitter.com/search?q=Pack) | N/A |
-| 36 | [INEC](http://twitter.com/search?q=INEC) | N/A |
-| 37 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 38 | [Sosa](http://twitter.com/search?q=Sosa) | N/A |
-| 39 | [Halbzeit](http://twitter.com/search?q=Halbzeit) | N/A |
-| 40 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 41 | [Atrium](http://twitter.com/search?q=Atrium) | N/A |
-| 42 | [Elsässer](http://twitter.com/search?q=Els%c3%a4sser) | N/A |
-| 43 | [Angriffskrieg](http://twitter.com/search?q=Angriffskrieg) | N/A |
-| 44 | [Fahnen](http://twitter.com/search?q=Fahnen) | N/A |
-| 45 | [Freistoß](http://twitter.com/search?q=Freisto%c3%9f) | N/A |
-| 46 | [Foul](http://twitter.com/search?q=Foul) | N/A |
-| 47 | [Sonnenschein](http://twitter.com/search?q=Sonnenschein) | N/A |
-| 48 | [WARRIOR NUN CAMPERS](http://twitter.com/search?q=WARRIOR+NUN+CAMPERS) | N/A |
-| 49 | [Moin Tom](http://twitter.com/search?q=Moin+Tom) | N/A |
+| 29 | [Botschaft](http://twitter.com/search?q=Botschaft) | N/A |
+| 30 | [INEC](http://twitter.com/search?q=INEC) | N/A |
+| 31 | [Pack](http://twitter.com/search?q=Pack) | N/A |
+| 32 | [Silas](http://twitter.com/search?q=Silas) | N/A |
+| 33 | [Sosa](http://twitter.com/search?q=Sosa) | N/A |
+| 34 | [Brandenburger Tor](http://twitter.com/search?q=Brandenburger+Tor) | N/A |
+| 35 | [Angriffskrieg](http://twitter.com/search?q=Angriffskrieg) | N/A |
+| 36 | [Flaggen](http://twitter.com/search?q=Flaggen) | N/A |
+| 37 | [Pflegeversicherung](http://twitter.com/search?q=Pflegeversicherung) | N/A |
+| 38 | [Halbzeit](http://twitter.com/search?q=Halbzeit) | N/A |
+| 39 | [Elsässer](http://twitter.com/search?q=Els%c3%a4sser) | N/A |
+| 40 | [Fahnen](http://twitter.com/search?q=Fahnen) | N/A |
+| 41 | [Zehntausende](http://twitter.com/search?q=Zehntausende) | N/A |
+| 42 | [Foul](http://twitter.com/search?q=Foul) | N/A |
+| 43 | [WARRIOR NUN CAMPERS](http://twitter.com/search?q=WARRIOR+NUN+CAMPERS) | N/A |
+| 44 | [Moin Tom](http://twitter.com/search?q=Moin+Tom) | N/A |
+| 45 | [Veranstaltung](http://twitter.com/search?q=Veranstaltung) | N/A |
+| 46 | [Guten Morgen Schubsi](http://twitter.com/search?q=Guten+Morgen+Schubsi) | N/A |
+| 47 | [John Lennon](http://twitter.com/search?q=John+Lennon) | N/A |
+| 48 | [Heyer](http://twitter.com/search?q=Heyer) | N/A |
+| 49 | [Herr Lauterbach](http://twitter.com/search?q=Herr+Lauterbach) | N/A |
 
 
 

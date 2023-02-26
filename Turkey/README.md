@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Turkey
 
-📆 Last Updated: `2023-02-26 10:17:05 UTC`
+📆 Last Updated: `2023-02-26 11:16:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Turkey
 | ------- | ------------ | ------------ |
 | 1 | [Kızılay](http://twitter.com/search?q=K%c4%b1z%c4%b1lay) | Kızılay is the Turkish Red Crescent, a humanitarian organization that provides aid and assistance to those in need. The name Kızılay comes from the Ottoman Empire era, when it was known as the Imperial Ottoman Society of the Red Crescent. In English, Kızılay translates to "Red Crescent". |
 | 2 | [Kızılay](http://twitter.com/search?q=K%c4%b1z%c4%b1lay) | Kızılay is the Turkish Red Crescent, a humanitarian organization that provides aid and assistance to those in need. The name Kızılay comes from the Ottoman Empire era, when it was known as the Imperial Ottoman Society of the Red Crescent. In English, Kızılay translates to "Red Crescent". |
-| 3 | [#CumhurunBaşkanı69Yaşında](http://twitter.com/search?q=%23CumhurunBa%c5%9fkan%c4%b169Ya%c5%9f%c4%b1nda) | N/A |
-| 4 | [#kizilay](http://twitter.com/search?q=%23kizilay) | N/A |
-| 5 | [#28ŞubattaTastamamEYT](http://twitter.com/search?q=%2328%c5%9eubattaTastamamEYT) | N/A |
-| 6 | [#İyikiDoğdunMilletinAdamı](http://twitter.com/search?q=%23%c4%b0yikiDo%c4%9fdunMilletinAdam%c4%b1) | N/A |
-| 7 | [#HocalıKatliamı](http://twitter.com/search?q=%23Hocal%c4%b1Katliam%c4%b1) | N/A |
-| 8 | [Ziya Şengül](http://twitter.com/search?q=Ziya+%c5%9eeng%c3%bcl) | N/A |
-| 9 | [Tekstil A.Ş](http://twitter.com/search?q=Tekstil+A.%c5%9e) | N/A |
-| 10 | [DEVAM ULAN DEVAM](http://twitter.com/search?q=DEVAM+ULAN+DEVAM) | N/A |
-| 11 | [PARALI KÖPEKLER](http://twitter.com/search?q=PARALI+K%c3%96PEKLER) | N/A |
-| 12 | [Depremin 3](http://twitter.com/search?q=Depremin+3) | N/A |
-| 13 | [Azerbaycanlı](http://twitter.com/search?q=Azerbaycanl%c4%b1) | N/A |
-| 14 | [SATMIŞ](http://twitter.com/search?q=SATMI%c5%9e) | N/A |
-| 15 | [Murat Ağırel](http://twitter.com/search?q=Murat+A%c4%9f%c4%b1rel) | N/A |
-| 16 | [Teşekkürler Fenerbahçe](http://twitter.com/search?q=Te%c5%9fekk%c3%bcrler+Fenerbah%c3%a7e) | N/A |
-| 17 | [STK'ya](http://twitter.com/search?q=STK%27ya) | N/A |
-| 18 | [Satın](http://twitter.com/search?q=Sat%c4%b1n) | N/A |
-| 19 | [Paralı](http://twitter.com/search?q=Paral%c4%b1) | N/A |
-| 20 | [DOĞUM GÜNÜN KUTLU OLSUN](http://twitter.com/search?q=DO%c4%9eUM+G%c3%9cN%c3%9cN+KUTLU+OLSUN) | N/A |
-| 21 | [WE LOVE YOU JHOPE](http://twitter.com/search?q=WE+LOVE+YOU+JHOPE) | N/A |
-| 22 | [Satranç](http://twitter.com/search?q=Satran%c3%a7) | N/A |
-| 23 | [Ensar](http://twitter.com/search?q=Ensar) | N/A |
-| 24 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 25 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 26 | [Çadırları](http://twitter.com/search?q=%c3%87ad%c4%b1rlar%c4%b1) | N/A |
-| 27 | [Sayın Cumhurbaşkanım](http://twitter.com/search?q=Say%c4%b1n+Cumhurba%c5%9fkan%c4%b1m) | N/A |
-| 28 | [Ücretsiz](http://twitter.com/search?q=%c3%9ccretsiz) | N/A |
-| 29 | [Anıtkabir](http://twitter.com/search?q=An%c4%b1tkabir) | Anıtkabir is the mausoleum of Mustafa Kemal Atatürk, the founder and first president of the Republic of Turkey. The word Anıtkabir translates to "memorial tomb" in English. |
-| 30 | [Armağan](http://twitter.com/search?q=Arma%c4%9fan) | N/A |
-| 31 | [Rojbaş](http://twitter.com/search?q=Rojba%c5%9f) | N/A |
-| 32 | [Ermeniler](http://twitter.com/search?q=Ermeniler) | N/A |
-| 33 | [Çadırı](http://twitter.com/search?q=%c3%87ad%c4%b1r%c4%b1) | N/A |
-| 34 | [Günaydınlar](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nlar) | N/A |
-| 35 | [Aziz Yıldırım](http://twitter.com/search?q=Aziz+Y%c4%b1ld%c4%b1r%c4%b1m) | Aziz Yıldırım is a Turkish name, with Aziz meaning "honored" and Yıldırım meaning "thunder". In English, the name would translate to "Honored Thunder". |
-| 36 | [Ali Koç](http://twitter.com/search?q=Ali+Ko%c3%a7) | Ali Koç is a Turkish surname. It is derived from the Turkish word "koç" which means "ram". In English, Ali Koç would translate to "Ali the Ram". |
-| 37 | [Parayla](http://twitter.com/search?q=Parayla) | N/A |
-| 38 | [Ertem](http://twitter.com/search?q=Ertem) | N/A |
-| 39 | [Yargıtay](http://twitter.com/search?q=Yarg%c4%b1tay) | N/A |
-| 40 | [Günaydınnn](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nnn) | N/A |
-| 41 | [Gökhan Zan](http://twitter.com/search?q=G%c3%b6khan+Zan) | N/A |
-| 42 | [Günaydin](http://twitter.com/search?q=G%c3%bcnaydin) | N/A |
-| 43 | [OYUMUZ CUMHUR İTTİFAKINA](http://twitter.com/search?q=OYUMUZ+CUMHUR+%c4%b0TT%c4%b0FAKINA) | N/A |
-| 44 | [Camide](http://twitter.com/search?q=Camide) | N/A |
-| 45 | [Camilerde](http://twitter.com/search?q=Camilerde) | N/A |
-| 46 | [Tuncay](http://twitter.com/search?q=Tuncay) | N/A |
-| 47 | [Spora](http://twitter.com/search?q=Spora) | N/A |
-| 48 | [DOLAN DOLAN DOLAN](http://twitter.com/search?q=DOLAN+DOLAN+DOLAN) | N/A |
-| 49 | [Jelibon](http://twitter.com/search?q=Jelibon) | N/A |
-| 50 | [Cübbeli](http://twitter.com/search?q=C%c3%bcbbeli) | Cübbeli is a Turkish term that refers to a person who is wise, knowledgeable, and experienced. It is often used to describe someone who has achieved a high level of spiritual enlightenment. In English, it can be translated as "wise one" or "enlightened one". |
+| 3 | [#kizilay](http://twitter.com/search?q=%23kizilay) | N/A |
+| 4 | [#CumhurunBaşkanı69Yaşında](http://twitter.com/search?q=%23CumhurunBa%c5%9fkan%c4%b169Ya%c5%9f%c4%b1nda) | N/A |
+| 5 | [Ziya Şengül](http://twitter.com/search?q=Ziya+%c5%9eeng%c3%bcl) | N/A |
+| 6 | [PARALI KÖPEKLER](http://twitter.com/search?q=PARALI+K%c3%96PEKLER) | N/A |
+| 7 | [#28ŞubattaTastamamEYT](http://twitter.com/search?q=%2328%c5%9eubattaTastamamEYT) | N/A |
+| 8 | [#İyikiDoğdunMilletinAdamı](http://twitter.com/search?q=%23%c4%b0yikiDo%c4%9fdunMilletinAdam%c4%b1) | N/A |
+| 9 | [#HocalıKatliamı](http://twitter.com/search?q=%23Hocal%c4%b1Katliam%c4%b1) | N/A |
+| 10 | [Tekstil A.Ş](http://twitter.com/search?q=Tekstil+A.%c5%9e) | N/A |
+| 11 | [Depremin 3](http://twitter.com/search?q=Depremin+3) | N/A |
+| 12 | [SATMIŞ](http://twitter.com/search?q=SATMI%c5%9e) | N/A |
+| 13 | [Kerem Kınık](http://twitter.com/search?q=Kerem+K%c4%b1n%c4%b1k) | N/A |
+| 14 | [Murat Ağırel](http://twitter.com/search?q=Murat+A%c4%9f%c4%b1rel) | N/A |
+| 15 | [Azerbaycanlı](http://twitter.com/search?q=Azerbaycanl%c4%b1) | N/A |
+| 16 | [DEVAM ULAN DEVAM](http://twitter.com/search?q=DEVAM+ULAN+DEVAM) | N/A |
+| 17 | [Paralı](http://twitter.com/search?q=Paral%c4%b1) | N/A |
+| 18 | [Teşekkürler Fenerbahçe](http://twitter.com/search?q=Te%c5%9fekk%c3%bcrler+Fenerbah%c3%a7e) | N/A |
+| 19 | [STK'ya](http://twitter.com/search?q=STK%27ya) | N/A |
+| 20 | [Satranç](http://twitter.com/search?q=Satran%c3%a7) | N/A |
+| 21 | [Maliyetine](http://twitter.com/search?q=Maliyetine) | N/A |
+| 22 | [Ensar](http://twitter.com/search?q=Ensar) | N/A |
+| 23 | [Satın](http://twitter.com/search?q=Sat%c4%b1n) | N/A |
+| 24 | [Ücretsiz](http://twitter.com/search?q=%c3%9ccretsiz) | N/A |
+| 25 | [Armağan](http://twitter.com/search?q=Arma%c4%9fan) | N/A |
+| 26 | [WE LOVE YOU JHOPE](http://twitter.com/search?q=WE+LOVE+YOU+JHOPE) | N/A |
+| 27 | [DOĞUM GÜNÜN KUTLU OLSUN](http://twitter.com/search?q=DO%c4%9eUM+G%c3%9cN%c3%9cN+KUTLU+OLSUN) | N/A |
+| 28 | [Sayın Cumhurbaşkanım](http://twitter.com/search?q=Say%c4%b1n+Cumhurba%c5%9fkan%c4%b1m) | N/A |
+| 29 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 30 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 31 | [Tünaydın](http://twitter.com/search?q=T%c3%bcnayd%c4%b1n) | N/A |
+| 32 | [Parayla](http://twitter.com/search?q=Parayla) | N/A |
+| 33 | [Aziz Yıldırım](http://twitter.com/search?q=Aziz+Y%c4%b1ld%c4%b1r%c4%b1m) | Aziz Yıldırım is a Turkish name, with Aziz meaning "honored" and Yıldırım meaning "thunder". In English, the name would translate to "Honored Thunder". |
+| 34 | [Anıtkabir](http://twitter.com/search?q=An%c4%b1tkabir) | Anıtkabir is the mausoleum of Mustafa Kemal Atatürk, the founder and first president of the Republic of Turkey. The word Anıtkabir translates to "memorial tomb" in English. |
+| 35 | [Ermeniler](http://twitter.com/search?q=Ermeniler) | N/A |
+| 36 | [Metin](http://twitter.com/search?q=Metin) | N/A |
+| 37 | [Merhuma Allah'tan](http://twitter.com/search?q=Merhuma+Allah%27tan) | N/A |
+| 38 | [Fenerbahçeli](http://twitter.com/search?q=Fenerbah%c3%a7eli) | N/A |
+| 39 | [Ertem](http://twitter.com/search?q=Ertem) | N/A |
+| 40 | [Yargıtay](http://twitter.com/search?q=Yarg%c4%b1tay) | N/A |
+| 41 | [Camide](http://twitter.com/search?q=Camide) | N/A |
+| 42 | [Gökhan Zan](http://twitter.com/search?q=G%c3%b6khan+Zan) | N/A |
+| 43 | [Bedava](http://twitter.com/search?q=Bedava) | N/A |
+| 44 | [3 Temmuz](http://twitter.com/search?q=3+Temmuz) | N/A |
+| 45 | [Günaydınlar](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nlar) | N/A |
+| 46 | [Camilerde](http://twitter.com/search?q=Camilerde) | N/A |
+| 47 | [Cübbeli](http://twitter.com/search?q=C%c3%bcbbeli) | Cübbeli is a Turkish term that refers to a person who is wise, knowledgeable, and experienced. It is often used to describe someone who has achieved a high level of spiritual enlightenment. In English, it can be translated as "wise one" or "enlightened one". |
+| 48 | [Rojbaş](http://twitter.com/search?q=Rojba%c5%9f) | N/A |
+| 49 | [Günaydınnn](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nnn) | N/A |
+| 50 | [Günaydin](http://twitter.com/search?q=G%c3%bcnaydin) | N/A |
 
 
 
