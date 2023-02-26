@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Saltillo
 
-📆 Last Updated: `2023-02-26 18:16:01 UTC`
+📆 Last Updated: `2023-02-26 19:16:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,50 +19,50 @@ This is top 50 for [Mexico](</Mexico>)
 | 2 | [#MarchaINE](http://twitter.com/search?q=%23MarchaINE) | N/A |
 | 3 | [#MiVotoNoSeToca](http://twitter.com/search?q=%23MiVotoNoSeToca) | N/A |
 | 4 | [Zócalo](http://twitter.com/search?q=Z%c3%b3calo) | N/A |
-| 5 | [#YoDefiendoAlINE](http://twitter.com/search?q=%23YoDefiendoAlINE) | N/A |
-| 6 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 7 | [Dodos](http://twitter.com/search?q=Dodos) | N/A |
-| 8 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 9 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 10 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
-| 11 | [Beatriz Pagés](http://twitter.com/search?q=Beatriz+Pag%c3%a9s) | N/A |
-| 12 | [Viva México](http://twitter.com/search?q=Viva+M%c3%a9xico) | N/A |
-| 13 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 14 | [Batres](http://twitter.com/search?q=Batres) | N/A |
-| 15 | [ON THE STREET IS COMING](http://twitter.com/search?q=ON+THE+STREET+IS+COMING) | N/A |
-| 16 | [Vamos México](http://twitter.com/search?q=Vamos+M%c3%a9xico) | N/A |
-| 17 | [Almería](http://twitter.com/search?q=Almer%c3%ada) | Almería is a city in the southeastern region of Spain. It is the capital of the province of Almería and is located on the Mediterranean Sea. In English, Almería means "The Watchtower". |
-| 18 | [Acarreados](http://twitter.com/search?q=Acarreados) | N/A |
-| 19 | [Salernitana](http://twitter.com/search?q=Salernitana) | Salernitana is the nickname of U.S. Salernitana 1919, an Italian football club based in Salerno, Campania. The name Salernitana is derived from the city of Salerno and translates to "of/from Salerno" in English. |
+| 5 | [#MiVotoSeRespeta](http://twitter.com/search?q=%23MiVotoSeRespeta) | N/A |
+| 6 | [Viva México](http://twitter.com/search?q=Viva+M%c3%a9xico) | N/A |
+| 7 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 8 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 9 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 10 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
+| 11 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 12 | [Batres](http://twitter.com/search?q=Batres) | N/A |
+| 13 | [Almería](http://twitter.com/search?q=Almer%c3%ada) | Almería is a city in the southeastern region of Spain. It is the capital of the province of Almería and is located on the Mediterranean Sea. In English, Almería means "The Watchtower". |
+| 14 | [Beatriz Pagés](http://twitter.com/search?q=Beatriz+Pag%c3%a9s) | N/A |
+| 15 | [Dodos](http://twitter.com/search?q=Dodos) | N/A |
+| 16 | [José Ramón Cossío](http://twitter.com/search?q=Jos%c3%a9+Ram%c3%b3n+Coss%c3%ado) | N/A |
+| 17 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
+| 18 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
+| 19 | [Farsa](http://twitter.com/search?q=Farsa) | N/A |
 | 20 | [Plaza de Armas](http://twitter.com/search?q=Plaza+de+Armas) | N/A |
-| 21 | [Edson Álvarez](http://twitter.com/search?q=Edson+%c3%81lvarez) | N/A |
-| 22 | [Palacio Nacional](http://twitter.com/search?q=Palacio+Nacional) | N/A |
-| 23 | [Santiago Giménez](http://twitter.com/search?q=Santiago+Gim%c3%a9nez) | N/A |
+| 21 | [Pablo Torre](http://twitter.com/search?q=Pablo+Torre) | Pablo Torre is a sports journalist and television personality who works for ESPN. He is known for his coverage of the NBA, NFL, and college basketball. The name "Pablo Torre" is derived from the Spanish words "pablo" (meaning "small") and "torre" (meaning "tower"). |
+| 22 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 23 | [Acarreados](http://twitter.com/search?q=Acarreados) | N/A |
 | 24 | [Plaza de la Constitución](http://twitter.com/search?q=Plaza+de+la+Constituci%c3%b3n) | N/A |
-| 25 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
-| 26 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 27 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
-| 28 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 29 | [Jeff](http://twitter.com/search?q=Jeff) | N/A |
-| 30 | [Defender al INE](http://twitter.com/search?q=Defender+al+INE) | N/A |
-| 31 | [Guillermo Ochoa](http://twitter.com/search?q=Guillermo+Ochoa) | N/A |
-| 32 | [Madero](http://twitter.com/search?q=Madero) | N/A |
-| 33 | [Grupo Firme](http://twitter.com/search?q=Grupo+Firme) | N/A |
-| 34 | [Instituto Nacional Electoral](http://twitter.com/search?q=Instituto+Nacional+Electoral) | N/A |
-| 35 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
-| 36 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 37 | [Lee Know](http://twitter.com/search?q=Lee+Know) | Lee Know is the stage name of Lee Min-ho, a South Korean singer and member of the K-pop group Stray Kids. The name is a combination of his given name, Lee Min-ho, and the English word "know," which means to be aware or informed about something. |
-| 38 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
-| 39 | [Aluxes](http://twitter.com/search?q=Aluxes) | N/A |
-| 40 | [Cobarde](http://twitter.com/search?q=Cobarde) | N/A |
-| 41 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
-| 42 | [Indonesia](http://twitter.com/search?q=Indonesia) | N/A |
-| 43 | [Cárdenas](http://twitter.com/search?q=C%c3%a1rdenas) | N/A |
-| 44 | [Nahuel](http://twitter.com/search?q=Nahuel) | N/A |
-| 45 | [Opino](http://twitter.com/search?q=Opino) | N/A |
-| 46 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
-| 47 | [Listos](http://twitter.com/search?q=Listos) | N/A |
-| 48 | [Peru](http://twitter.com/search?q=Peru) | Peru is a country located in western South America. It is bordered by Ecuador, Colombia, Brazil, Bolivia, and Chile. The official language of Peru is Spanish and its capital city is Lima. The name Peru comes from the Quechua word “piruw” which means “land of abundance”. |
+| 25 | [ON THE STREET IS COMING](http://twitter.com/search?q=ON+THE+STREET+IS+COMING) | N/A |
+| 26 | [Vitacilina](http://twitter.com/search?q=Vitacilina) | N/A |
+| 27 | [Himno Nacional](http://twitter.com/search?q=Himno+Nacional) | N/A |
+| 28 | [Palacio Nacional](http://twitter.com/search?q=Palacio+Nacional) | N/A |
+| 29 | [Vamos México](http://twitter.com/search?q=Vamos+M%c3%a9xico) | N/A |
+| 30 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 31 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 32 | [Grupo Firme](http://twitter.com/search?q=Grupo+Firme) | N/A |
+| 33 | [Fuera López](http://twitter.com/search?q=Fuera+L%c3%b3pez) | N/A |
+| 34 | [Ardido](http://twitter.com/search?q=Ardido) | N/A |
+| 35 | [Edson Álvarez](http://twitter.com/search?q=Edson+%c3%81lvarez) | N/A |
+| 36 | [En Guadalajara](http://twitter.com/search?q=En+Guadalajara) | N/A |
+| 37 | [Salernitana](http://twitter.com/search?q=Salernitana) | Salernitana is the nickname of U.S. Salernitana 1919, an Italian football club based in Salerno, Campania. The name Salernitana is derived from the city of Salerno and translates to "of/from Salerno" in English. |
+| 38 | [Defendiendo](http://twitter.com/search?q=Defendiendo) | N/A |
+| 39 | [Santiago Giménez](http://twitter.com/search?q=Santiago+Gim%c3%a9nez) | N/A |
+| 40 | [Jeff](http://twitter.com/search?q=Jeff) | N/A |
+| 41 | [Eric](http://twitter.com/search?q=Eric) | Eric is a masculine given name of Old Norse origin, derived from the Old Norse name Eiríkr. It is related to the Latin name Ericus, which is derived from the Latin word for "ever-ruler". In English, Eric means "eternal ruler" or "ever-powerful". |
+| 42 | [Instituto Nacional Electoral](http://twitter.com/search?q=Instituto+Nacional+Electoral) | N/A |
+| 43 | [Madero](http://twitter.com/search?q=Madero) | N/A |
+| 44 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 45 | [Defender al INE](http://twitter.com/search?q=Defender+al+INE) | N/A |
+| 46 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 47 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
+| 48 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
 
 
 

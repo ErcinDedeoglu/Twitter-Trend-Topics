@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guarulhos
 
-📆 Last Updated: `2023-02-26 18:16:05 UTC`
+📆 Last Updated: `2023-02-26 19:16:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Poliana](http://twitter.com/search?q=Poliana) | N/A |
-| 2 | [#AvantiPalestrinas](http://twitter.com/search?q=%23AvantiPalestrinas) | N/A |
-| 3 | [Timão](http://twitter.com/search?q=Tim%c3%a3o) | N/A |
-| 4 | [Daniela Mercury](http://twitter.com/search?q=Daniela+Mercury) | N/A |
-| 5 | [#DIADEFURIA](http://twitter.com/search?q=%23DIADEFURIA) | N/A |
-| 6 | [Vila Belmiro](http://twitter.com/search?q=Vila+Belmiro) | Vila Belmiro is a football stadium located in Santos, Brazil. It is the home stadium of Santos FC, one of the most successful clubs in Brazilian football. The name Vila Belmiro translates to "Belmiro Village" in English. |
-| 7 | [Ceni](http://twitter.com/search?q=Ceni) | N/A |
-| 8 | [hailey bieber](http://twitter.com/search?q=hailey+bieber) | N/A |
-| 9 | [Drugo](http://twitter.com/search?q=Drugo) | N/A |
-| 10 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
-| 11 | [Estevão Ferreira](http://twitter.com/search?q=Estev%c3%a3o+Ferreira) | N/A |
-| 12 | [O Sapato](http://twitter.com/search?q=O+Sapato) | N/A |
-| 13 | [Castelo Rá-Tim-Bum](http://twitter.com/search?q=Castelo+R%c3%a1-Tim-Bum) | N/A |
-| 14 | [#ForaSapato](http://twitter.com/search?q=%23ForaSapato) | N/A |
-| 15 | [Aurora](http://twitter.com/search?q=Aurora) | N/A |
-| 16 | [#PremierLeagueNaESPN](http://twitter.com/search?q=%23PremierLeagueNaESPN) | N/A |
-| 17 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 18 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 19 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
-| 20 | [#CopaDaLigaNaESPN](http://twitter.com/search?q=%23CopaDaLigaNaESPN) | N/A |
-| 21 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 22 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 23 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 24 | [Croc](http://twitter.com/search?q=Croc) | N/A |
-| 25 | [Bruno Guimarães](http://twitter.com/search?q=Bruno+Guimar%c3%a3es) | N/A |
-| 26 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 27 | [ESTAMOS COM VOCE GUSTAVO](http://twitter.com/search?q=ESTAMOS+COM+VOCE+GUSTAVO) | N/A |
-| 28 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
-| 29 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 30 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 31 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
-| 32 | [Bruna e Guimê](http://twitter.com/search?q=Bruna+e+Guim%c3%aa) | N/A |
-| 33 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 34 | [Jeff](http://twitter.com/search?q=Jeff) | N/A |
-| 35 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 36 | [Joelinton](http://twitter.com/search?q=Joelinton) | Joelinton is a Portuguese name, derived from the combination of the names Joel and António. It is usually given to boys and means "God will give". |
-| 37 | [Campari](http://twitter.com/search?q=Campari) | N/A |
+| 1 | [Flay](http://twitter.com/search?q=Flay) | N/A |
+| 2 | [Edna](http://twitter.com/search?q=Edna) | Edna is a female given name of Hebrew origin, meaning “pleasure” or “delight”. |
+| 3 | [Mentirosa](http://twitter.com/search?q=Mentirosa) | N/A |
+| 4 | [Bruninha](http://twitter.com/search?q=Bruninha) | N/A |
+| 5 | [#goFluxo](http://twitter.com/search?q=%23goFluxo) | N/A |
+| 6 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
+| 7 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
+| 8 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 9 | [Romário](http://twitter.com/search?q=Rom%c3%a1rio) | Romário is a Portuguese name derived from the Latin word "romanus," meaning "Roman." It is also a common given name in Brazil, where it is associated with the Brazilian footballer Romário de Souza Faria, who is widely considered one of the greatest players of all time. |
+| 10 | [#GoRED](http://twitter.com/search?q=%23GoRED) | N/A |
+| 11 | [#DIADEFURIA](http://twitter.com/search?q=%23DIADEFURIA) | N/A |
+| 12 | [Daniela Mercury](http://twitter.com/search?q=Daniela+Mercury) | N/A |
+| 13 | [jhope](http://twitter.com/search?q=jhope) | N/A |
+| 14 | [seulgi](http://twitter.com/search?q=seulgi) | Seulgi is a Korean name that means "wisdom and justice". It is often given to girls and is derived from the Sino-Korean characters for "wise" (seon) and "justice" (gi). |
+| 15 | [Ceni](http://twitter.com/search?q=Ceni) | N/A |
+| 16 | [Fred Bruno](http://twitter.com/search?q=Fred+Bruno) | N/A |
+| 17 | [hailey bieber](http://twitter.com/search?q=hailey+bieber) | N/A |
+| 18 | [Drugo](http://twitter.com/search?q=Drugo) | N/A |
+| 19 | [Essa Key](http://twitter.com/search?q=Essa+Key) | Essa Key is a term used in the Indian state of Kerala to refer to a type of traditional key. It is a flat, metal key with a round head and a long, thin stem that is used to open locks on doors and windows. The term comes from the Malayalam word "essa," which means "key." |
+| 20 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
+| 21 | [Estevão Ferreira](http://twitter.com/search?q=Estev%c3%a3o+Ferreira) | N/A |
+| 22 | [Castelo Rá-Tim-Bum](http://twitter.com/search?q=Castelo+R%c3%a1-Tim-Bum) | N/A |
+| 23 | [Aurora](http://twitter.com/search?q=Aurora) | N/A |
+| 24 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 25 | [#TheMaskedSingerbr](http://twitter.com/search?q=%23TheMaskedSingerbr) | #TheMaskedSingerbr is a hashtag used to promote the Brazilian version of the popular reality TV show The Masked Singer. The show features celebrities competing against each other while wearing elaborate costumes and masks to conceal their identities. |
+| 26 | [Guimê](http://twitter.com/search?q=Guim%c3%aa) | Guimê is a Brazilian term used to describe a person who is strong, brave, and determined. It can also be used to describe someone who is resilient and able to overcome difficult situations. In English, it could be translated as "fearless" or "unstoppable". |
+| 27 | [#CopaDaLigaNaESPN](http://twitter.com/search?q=%23CopaDaLigaNaESPN) | N/A |
+| 28 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
+| 29 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 30 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 31 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 32 | [Du Queiroz](http://twitter.com/search?q=Du+Queiroz) | Du Queiroz is a Portuguese surname. It is derived from the Latin word quaerere, which means "to seek". In English, it can be translated to mean "seeker". |
+| 33 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 34 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 35 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 36 | [Pablo Torre](http://twitter.com/search?q=Pablo+Torre) | Pablo Torre is a sports journalist and television personality who works for ESPN. He is known for his coverage of the NBA, NFL, and college basketball. The name "Pablo Torre" is derived from the Spanish words "pablo" (meaning "small") and "torre" (meaning "tower"). |
+| 37 | [VAI CORINTHIANS](http://twitter.com/search?q=VAI+CORINTHIANS) | N/A |
 | 38 | [Lucas Barbosa](http://twitter.com/search?q=Lucas+Barbosa) | N/A |
-| 39 | [Saint-Maximin](http://twitter.com/search?q=Saint-Maximin) | N/A |
-| 40 | [ON THE STREET IS COMING](http://twitter.com/search?q=ON+THE+STREET+IS+COMING) | N/A |
-| 41 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
-| 42 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
-| 43 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
-| 44 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 45 | [Naninha](http://twitter.com/search?q=Naninha) | N/A |
-| 46 | [Guerra Infinita](http://twitter.com/search?q=Guerra+Infinita) | N/A |
-| 47 | [Almería](http://twitter.com/search?q=Almer%c3%ada) | Almería is a city in the southeastern region of Spain. It is the capital of the province of Almería and is located on the Mediterranean Sea. In English, Almería means "The Watchtower". |
-| 48 | [O Gabriel](http://twitter.com/search?q=O+Gabriel) | N/A |
-| 49 | [Yami](http://twitter.com/search?q=Yami) | N/A |
+| 39 | [KEY NO PAREDÃO](http://twitter.com/search?q=KEY+NO+PARED%c3%83O) | N/A |
+| 40 | [Glory Glory Man United](http://twitter.com/search?q=Glory+Glory+Man+United) | N/A |
+| 41 | [Bruno Guimarães](http://twitter.com/search?q=Bruno+Guimar%c3%a3es) | N/A |
+| 42 | [Croc](http://twitter.com/search?q=Croc) | N/A |
+| 43 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
+| 44 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 45 | [FUMANTES NO TOPO](http://twitter.com/search?q=FUMANTES+NO+TOPO) | N/A |
+| 46 | [Rafael Ramos](http://twitter.com/search?q=Rafael+Ramos) | Rafael Ramos is a Spanish name, derived from the Hebrew name Rafael, which means "God has healed". It is also the name of a Venezuelan footballer. |
+| 47 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
+| 48 | [ESTAMOS COM VOCE GUSTAVO](http://twitter.com/search?q=ESTAMOS+COM+VOCE+GUSTAVO) | N/A |
+| 49 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 50 | [É CAMPEÃO](http://twitter.com/search?q=%c3%89+CAMPE%c3%83O) | É CAMPEÃO is a Portuguese phrase that translates to "It's a Champion" in English. It is typically used to express joy and excitement when someone or something has achieved a great victory or accomplishment. |
 
 
 

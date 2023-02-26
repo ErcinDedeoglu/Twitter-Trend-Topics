@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lyon
 
-📆 Last Updated: `2023-02-26 18:16:07 UTC`
+📆 Last Updated: `2023-02-26 19:16:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#FRAECO](http://twitter.com/search?q=%23FRAECO) | N/A |
+| 1 | [#LGBTQIASunIsComing](http://twitter.com/search?q=%23LGBTQIASunIsComing) | N/A |
 | 2 | [#ASMOGCN](http://twitter.com/search?q=%23ASMOGCN) | N/A |
-| 3 | [#LGBTQIASunIsComing](http://twitter.com/search?q=%23LGBTQIASunIsComing) | N/A |
-| 4 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 5 | [Moffi](http://twitter.com/search?q=Moffi) | Moffi is a slang term used in some parts of the United States to refer to someone who is a nerd or geek. It can also be used as an insult, implying that someone is socially awkward or not cool. |
-| 6 | [Saint Maximin](http://twitter.com/search?q=Saint+Maximin) | N/A |
-| 7 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
-| 8 | [#MUNNEW](http://twitter.com/search?q=%23MUNNEW) | N/A |
-| 9 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
-| 10 | [Haouas](http://twitter.com/search?q=Haouas) | N/A |
-| 11 | [François Hadji](http://twitter.com/search?q=Fran%c3%a7ois+Hadji) | N/A |
-| 12 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 13 | [Digard](http://twitter.com/search?q=Digard) | N/A |
-| 14 | [Thuram](http://twitter.com/search?q=Thuram) | N/A |
-| 15 | [Nubel](http://twitter.com/search?q=Nubel) | N/A |
+| 3 | [#FRAECO](http://twitter.com/search?q=%23FRAECO) | N/A |
+| 4 | [#septahuit](http://twitter.com/search?q=%23septahuit) | N/A |
+| 5 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 6 | [Clauss](http://twitter.com/search?q=Clauss) | Clauss is a German surname. It is derived from the Latin word "clausus," which means "closed" or "shut." In English, the name Clauss can be translated to mean "closed off" or "shut away." |
+| 7 | [Monaco](http://twitter.com/search?q=Monaco) | N/A |
+| 8 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 9 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
+| 10 | [Moffi](http://twitter.com/search?q=Moffi) | Moffi is a slang term used in some parts of the United States to refer to someone who is a nerd or geek. It can also be used as an insult, implying that someone is socially awkward or not cool. |
+| 11 | [Almeria](http://twitter.com/search?q=Almeria) | N/A |
+| 12 | [Saint Maximin](http://twitter.com/search?q=Saint+Maximin) | N/A |
+| 13 | [François Hadji](http://twitter.com/search?q=Fran%c3%a7ois+Hadji) | N/A |
+| 14 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 15 | [Éric Garcia](http://twitter.com/search?q=%c3%89ric+Garcia) | N/A |
 | 16 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 17 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 18 | [Wan Bissaka](http://twitter.com/search?q=Wan+Bissaka) | Wan Bissaka is a nickname given to Manchester United footballer Aaron Wan-Bissaka. The name is derived from his surname, which is a combination of his first and last names. In English, it means "One Bissaka". |
-| 19 | [Clément](http://twitter.com/search?q=Cl%c3%a9ment) | N/A |
-| 20 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 21 | [Pigalle](http://twitter.com/search?q=Pigalle) | N/A |
-| 22 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 23 | [Rouault](http://twitter.com/search?q=Rouault) | N/A |
-| 24 | [Diatta](http://twitter.com/search?q=Diatta) | N/A |
-| 25 | [Fickou](http://twitter.com/search?q=Fickou) | N/A |
-| 26 | [Martyrs](http://twitter.com/search?q=Martyrs) | N/A |
-| 27 | [Disasi](http://twitter.com/search?q=Disasi) | N/A |
-| 28 | [Ben Yedder](http://twitter.com/search?q=Ben+Yedder) | N/A |
-| 29 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
-| 30 | [Almeria](http://twitter.com/search?q=Almeria) | N/A |
-| 31 | [Ben Seghir](http://twitter.com/search?q=Ben+Seghir) | Ben Seghir is a town in Morocco located in the region of Tanger-Tetouan-Al Hoceima. The name Ben Seghir translates to "son of the marsh" in English. |
-| 32 | [Reims](http://twitter.com/search?q=Reims) | Reims is a city in the Grand Est region of France. It is located in the Marne department, about 130 km northeast of Paris. The name Reims comes from the Latin word "Remi", which means "rim" or "edge". In English, Reims can be translated to mean "at the edge". |
-| 33 | [Boadu](http://twitter.com/search?q=Boadu) | N/A |
-| 34 | [Bleus](http://twitter.com/search?q=Bleus) | N/A |
-| 35 | [Le Mans](http://twitter.com/search?q=Le+Mans) | N/A |
-| 36 | [Finn Russell](http://twitter.com/search?q=Finn+Russell) | N/A |
-| 37 | [Garçons Bouchers](http://twitter.com/search?q=Gar%c3%a7ons+Bouchers) | N/A |
-| 38 | [Jelonch](http://twitter.com/search?q=Jelonch) | N/A |
-| 39 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 40 | [Dante](http://twitter.com/search?q=Dante) | N/A |
-| 41 | [Louis II](http://twitter.com/search?q=Louis+II) | N/A |
-| 42 | [Lens](http://twitter.com/search?q=Lens) | Lens is a curved piece of glass or plastic used to focus light, such as in a camera or microscope. It can also refer to the ability to look at something from a particular perspective. In this sense, it is often used figuratively to refer to the way someone views a situation or problem. |
-| 43 | [Todibo](http://twitter.com/search?q=Todibo) | N/A |
-| 44 | [McDo](http://twitter.com/search?q=McDo) | N/A |
-| 45 | [Anthony Perez](http://twitter.com/search?q=Anthony+Perez) | N/A |
-| 46 | [Will Still](http://twitter.com/search?q=Will+Still) | N/A |
-| 47 | [Écossais](http://twitter.com/search?q=%c3%89cossais) | N/A |
-| 48 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 49 | [Tournoi](http://twitter.com/search?q=Tournoi) | N/A |
+| 17 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
+| 18 | [Marcos Alonso](http://twitter.com/search?q=Marcos+Alonso) | Marcos Alonso is a Spanish professional footballer who plays as a left back for Premier League club Chelsea and the Spanish national team. His name is derived from the Spanish words "mar" (sea) and "cos" (order). In English, his name translates to "ordered sea". |
+| 19 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
+| 20 | [Julien Bert](http://twitter.com/search?q=Julien+Bert) | N/A |
+| 21 | [Digard](http://twitter.com/search?q=Digard) | N/A |
+| 22 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
+| 23 | [Glory Glory Man United](http://twitter.com/search?q=Glory+Glory+Man+United) | N/A |
+| 24 | [Haouas](http://twitter.com/search?q=Haouas) | N/A |
+| 25 | [Thuram](http://twitter.com/search?q=Thuram) | N/A |
+| 26 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 27 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 28 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
+| 29 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 30 | [Wan Bissaka](http://twitter.com/search?q=Wan+Bissaka) | Wan Bissaka is a nickname given to Manchester United footballer Aaron Wan-Bissaka. The name is derived from his surname, which is a combination of his first and last names. In English, it means "One Bissaka". |
+| 31 | [Nubel](http://twitter.com/search?q=Nubel) | N/A |
+| 32 | [Pablo Torre](http://twitter.com/search?q=Pablo+Torre) | Pablo Torre is a sports journalist and television personality who works for ESPN. He is known for his coverage of the NBA, NFL, and college basketball. The name "Pablo Torre" is derived from the Spanish words "pablo" (meaning "small") and "torre" (meaning "tower"). |
+| 33 | [Jelonch](http://twitter.com/search?q=Jelonch) | N/A |
+| 34 | [Pigalle](http://twitter.com/search?q=Pigalle) | N/A |
+| 35 | [Clément](http://twitter.com/search?q=Cl%c3%a9ment) | N/A |
+| 36 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 37 | [Colors](http://twitter.com/search?q=Colors) | N/A |
+| 38 | [Martyrs](http://twitter.com/search?q=Martyrs) | N/A |
+| 39 | [Fickou](http://twitter.com/search?q=Fickou) | N/A |
+| 40 | [ALLEZ L'OM](http://twitter.com/search?q=ALLEZ+L%27OM) | N/A |
+| 41 | [Disasi](http://twitter.com/search?q=Disasi) | N/A |
+| 42 | [Diatta](http://twitter.com/search?q=Diatta) | N/A |
+| 43 | [Bailly](http://twitter.com/search?q=Bailly) | Bailly is a French surname derived from the Old French word baillis, meaning "bailiff" or "steward". It is also a given name in France, derived from the same source. |
+| 44 | [Garçons Bouchers](http://twitter.com/search?q=Gar%c3%a7ons+Bouchers) | N/A |
+| 45 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 46 | [Ben Yedder](http://twitter.com/search?q=Ben+Yedder) | N/A |
+| 47 | [Boadu](http://twitter.com/search?q=Boadu) | N/A |
+| 48 | [Bleus](http://twitter.com/search?q=Bleus) | N/A |
+| 49 | [Reims](http://twitter.com/search?q=Reims) | Reims is a city in the Grand Est region of France. It is located in the Marne department, about 130 km northeast of Paris. The name Reims comes from the Latin word "Remi", which means "rim" or "edge". In English, Reims can be translated to mean "at the edge". |
 
 
 

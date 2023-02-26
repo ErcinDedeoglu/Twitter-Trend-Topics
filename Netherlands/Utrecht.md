@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Utrecht
 
-📆 Last Updated: `2023-02-26 18:16:11 UTC`
+📆 Last Updated: `2023-02-26 19:16:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Netherlands](</Netherlands>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#vitaja](http://twitter.com/search?q=%23vitaja) | N/A |
-| 2 | [#psvtwe](http://twitter.com/search?q=%23psvtwe) | N/A |
-| 3 | [#forfey](http://twitter.com/search?q=%23forfey) | N/A |
+| 2 | [#forfey](http://twitter.com/search?q=%23forfey) | N/A |
+| 3 | [#psvtwe](http://twitter.com/search?q=%23psvtwe) | N/A |
 | 4 | [#wnlopzondag](http://twitter.com/search?q=%23wnlopzondag) | N/A |
-| 5 | [Rosenmöller](http://twitter.com/search?q=Rosenm%c3%b6ller) | N/A |
-| 6 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
+| 5 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 6 | [Rosenmöller](http://twitter.com/search?q=Rosenm%c3%b6ller) | N/A |
 | 7 | [Wijndal](http://twitter.com/search?q=Wijndal) | N/A |
-| 8 | [Brobbey](http://twitter.com/search?q=Brobbey) | N/A |
+| 8 | [Schippers](http://twitter.com/search?q=Schippers) | N/A |
 | 9 | [Leo Driessen](http://twitter.com/search?q=Leo+Driessen) | N/A |
-| 10 | [Schippers](http://twitter.com/search?q=Schippers) | N/A |
-| 11 | [Vitesse](http://twitter.com/search?q=Vitesse) | N/A |
-| 12 | [Twente](http://twitter.com/search?q=Twente) | Twente is a region in the eastern part of the Netherlands. It is located in the province of Overijssel and is known for its natural beauty, cultural heritage, and vibrant cities. The name Twente comes from the Germanic word "tweanta", which means "between two rivers". In English, it can be translated to mean "between two rivers". |
-| 13 | [Faber](http://twitter.com/search?q=Faber) | N/A |
-| 14 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 15 | [Groningers](http://twitter.com/search?q=Groningers) | N/A |
-| 16 | [Xavi Simons](http://twitter.com/search?q=Xavi+Simons) | N/A |
-| 17 | [Huub](http://twitter.com/search?q=Huub) | N/A |
-| 18 | [Bergwijn](http://twitter.com/search?q=Bergwijn) | N/A |
-| 19 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 20 | [Luuk de Jong](http://twitter.com/search?q=Luuk+de+Jong) | N/A |
-| 21 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 22 | [Zerrouki](http://twitter.com/search?q=Zerrouki) | N/A |
-| 23 | [Jans](http://twitter.com/search?q=Jans) | N/A |
-| 24 | [Berghuis](http://twitter.com/search?q=Berghuis) | Berghuis is a Dutch surname derived from the word "berg," which means mountain. The name is thought to have originated as a toponymic surname, referring to someone who lived near or on a mountain. In English, the name would be translated as "Mountainhouse." |
-| 25 | [Fortuna](http://twitter.com/search?q=Fortuna) | N/A |
-| 26 | [Bakayoko](http://twitter.com/search?q=Bakayoko) | N/A |
-| 27 | [Hato](http://twitter.com/search?q=Hato) | N/A |
-| 28 | [Tiesj Benoot](http://twitter.com/search?q=Tiesj+Benoot) | N/A |
+| 10 | [Vitesse](http://twitter.com/search?q=Vitesse) | N/A |
+| 11 | [Faber](http://twitter.com/search?q=Faber) | N/A |
+| 12 | [Groningers](http://twitter.com/search?q=Groningers) | N/A |
+| 13 | [Xavi Simons](http://twitter.com/search?q=Xavi+Simons) | N/A |
+| 14 | [Huub](http://twitter.com/search?q=Huub) | N/A |
+| 15 | [Bergwijn](http://twitter.com/search?q=Bergwijn) | N/A |
+| 16 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
+| 17 | [Twente](http://twitter.com/search?q=Twente) | Twente is a region in the eastern part of the Netherlands. It is located in the province of Overijssel and is known for its natural beauty, cultural heritage, and vibrant cities. The name Twente comes from the Germanic word "tweanta", which means "between two rivers". In English, it can be translated to mean "between two rivers". |
+| 18 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 19 | [Zerrouki](http://twitter.com/search?q=Zerrouki) | N/A |
+| 20 | [Fortuna](http://twitter.com/search?q=Fortuna) | N/A |
+| 21 | [Jans](http://twitter.com/search?q=Jans) | N/A |
+| 22 | [Berghuis](http://twitter.com/search?q=Berghuis) | Berghuis is a Dutch surname derived from the word "berg," which means mountain. The name is thought to have originated as a toponymic surname, referring to someone who lived near or on a mountain. In English, the name would be translated as "Mountainhouse." |
+| 23 | [Fabio Silva](http://twitter.com/search?q=Fabio+Silva) | N/A |
+| 24 | [Higler](http://twitter.com/search?q=Higler) | N/A |
+| 25 | [Klaassen](http://twitter.com/search?q=Klaassen) | N/A |
+| 26 | [Wout Weghorst](http://twitter.com/search?q=Wout+Weghorst) | Wout Weghorst is a Dutch professional footballer who plays as a striker for German club VfL Wolfsburg. The name Wout Weghorst translates to "strong will" in English. |
+| 27 | [Man United](http://twitter.com/search?q=Man+United) | Man United is a nickname for Manchester United Football Club, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
+| 28 | [Luuk de Jong](http://twitter.com/search?q=Luuk+de+Jong) | N/A |
 | 29 | [Van Ginkel](http://twitter.com/search?q=Van+Ginkel) | N/A |
-| 30 | [Klaassen](http://twitter.com/search?q=Klaassen) | N/A |
-| 31 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 32 | [Higler](http://twitter.com/search?q=Higler) | N/A |
-| 33 | [Fabio Silva](http://twitter.com/search?q=Fabio+Silva) | N/A |
+| 30 | [Rutte](http://twitter.com/search?q=Rutte) | N/A |
+| 31 | [Hato](http://twitter.com/search?q=Hato) | N/A |
+| 32 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
+| 33 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
 | 34 | [Sylvie Meis](http://twitter.com/search?q=Sylvie+Meis) | N/A |
-| 35 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
-| 36 | [Rutte](http://twitter.com/search?q=Rutte) | N/A |
-| 37 | [Wieffer](http://twitter.com/search?q=Wieffer) | N/A |
-| 38 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 39 | [Botman](http://twitter.com/search?q=Botman) | N/A |
-| 40 | [Rensch](http://twitter.com/search?q=Rensch) | Rensch is a German surname derived from the Old Germanic personal name Raginhilt, which means “counsel power”. In English, it can be translated to mean “wise counsel” or “strong advice”. |
-| 41 | [Mauro](http://twitter.com/search?q=Mauro) | N/A |
-| 42 | [Tadic](http://twitter.com/search?q=Tadic) | Tadic is a surname of Slavic origin. It is derived from the given name Tado, which is a diminutive form of the name Thaddeus. The English meaning of the name is "gift of God". |
-| 43 | [Dilrosun](http://twitter.com/search?q=Dilrosun) | N/A |
-| 44 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 45 | [Niclas Castello](http://twitter.com/search?q=Niclas+Castello) | N/A |
+| 35 | [Brobbey](http://twitter.com/search?q=Brobbey) | N/A |
+| 36 | [Rensch](http://twitter.com/search?q=Rensch) | Rensch is a German surname derived from the Old Germanic personal name Raginhilt, which means “counsel power”. In English, it can be translated to mean “wise counsel” or “strong advice”. |
+| 37 | [Botman](http://twitter.com/search?q=Botman) | N/A |
+| 38 | [Wieffer](http://twitter.com/search?q=Wieffer) | N/A |
+| 39 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 40 | [Venus](http://twitter.com/search?q=Venus) | N/A |
+| 41 | [Dilrosun](http://twitter.com/search?q=Dilrosun) | N/A |
+| 42 | [Mauro](http://twitter.com/search?q=Mauro) | N/A |
+| 43 | [Jurre](http://twitter.com/search?q=Jurre) | N/A |
+| 44 | [Erik](http://twitter.com/search?q=Erik) | N/A |
+| 45 | [Bakayoko](http://twitter.com/search?q=Bakayoko) | N/A |
 | 46 | [Emile](http://twitter.com/search?q=Emile) | N/A |
-| 47 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
-| 48 | [Jurre](http://twitter.com/search?q=Jurre) | N/A |
-| 49 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 47 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 48 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
+| 49 | [Kalverstraat](http://twitter.com/search?q=Kalverstraat) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Essen
 
-📆 Last Updated: `2023-02-26 18:16:09 UTC`
+📆 Last Updated: `2023-02-26 19:16:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,47 +23,47 @@ This is top 50 for [Germany](</Germany>)
 | 6 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
 | 7 | [#fcspfch](http://twitter.com/search?q=%23fcspfch) | N/A |
 | 8 | [#S04VfB](http://twitter.com/search?q=%23S04VfB) | N/A |
-| 9 | [Sandro Wagner](http://twitter.com/search?q=Sandro+Wagner) | N/A |
+| 9 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
 | 10 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
-| 11 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 12 | [Union](http://twitter.com/search?q=Union) | N/A |
-| 13 | [Kinderlose](http://twitter.com/search?q=Kinderlose) | N/A |
-| 14 | [Süle](http://twitter.com/search?q=S%c3%bcle) | N/A |
-| 15 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 16 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 11 | [Union](http://twitter.com/search?q=Union) | N/A |
+| 12 | [Kinderlose](http://twitter.com/search?q=Kinderlose) | N/A |
+| 13 | [Sandro Wagner](http://twitter.com/search?q=Sandro+Wagner) | N/A |
+| 14 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 15 | [Süle](http://twitter.com/search?q=S%c3%bcle) | N/A |
+| 16 | [Sonntagabend](http://twitter.com/search?q=Sonntagabend) | N/A |
 | 17 | [Teilnehmer](http://twitter.com/search?q=Teilnehmer) | N/A |
-| 18 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
+| 18 | [Sadio](http://twitter.com/search?q=Sadio) | N/A |
 | 19 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
-| 20 | [Sadio](http://twitter.com/search?q=Sadio) | N/A |
-| 21 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 22 | [Müller](http://twitter.com/search?q=M%c3%bcller) | N/A |
-| 23 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 24 | [Panzer](http://twitter.com/search?q=Panzer) | N/A |
-| 25 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
-| 26 | [De Ligt](http://twitter.com/search?q=De+Ligt) | N/A |
-| 27 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 28 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
-| 29 | [Fratze Deutschlands](http://twitter.com/search?q=Fratze+Deutschlands) | N/A |
-| 30 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 31 | [Corinna Miazga](http://twitter.com/search?q=Corinna+Miazga) | N/A |
-| 32 | [Azmoun](http://twitter.com/search?q=Azmoun) | Azmoun is a Persian name that means "crown". It is often used as a given name for boys. |
-| 33 | [Deutscher Meister](http://twitter.com/search?q=Deutscher+Meister) | N/A |
-| 34 | [Halbzeit](http://twitter.com/search?q=Halbzeit) | N/A |
-| 35 | [Seite der Geschichte](http://twitter.com/search?q=Seite+der+Geschichte) | N/A |
-| 36 | [Stanisic](http://twitter.com/search?q=Stanisic) | N/A |
-| 37 | [Verbrecher in die Geschichte](http://twitter.com/search?q=Verbrecher+in+die+Geschichte) | N/A |
-| 38 | [Bock auf Arbeit](http://twitter.com/search?q=Bock+auf+Arbeit) | N/A |
-| 39 | [John Lennon](http://twitter.com/search?q=John+Lennon) | N/A |
-| 40 | [Habeck](http://twitter.com/search?q=Habeck) | N/A |
-| 41 | [Irreführung der Bevölkerung](http://twitter.com/search?q=Irref%c3%bchrung+der+Bev%c3%b6lkerung) | N/A |
-| 42 | [Pflegeversicherung](http://twitter.com/search?q=Pflegeversicherung) | N/A |
-| 43 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
-| 44 | [Sonntagabend](http://twitter.com/search?q=Sonntagabend) | N/A |
-| 45 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
-| 46 | [Botschaft](http://twitter.com/search?q=Botschaft) | N/A |
-| 47 | [Kriegstreiber](http://twitter.com/search?q=Kriegstreiber) | N/A |
-| 48 | [Mannschaft](http://twitter.com/search?q=Mannschaft) | N/A |
-| 49 | [Höcke](http://twitter.com/search?q=H%c3%b6cke) | N/A |
+| 20 | [Panzer](http://twitter.com/search?q=Panzer) | N/A |
+| 21 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
+| 22 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 23 | [Fratze Deutschlands](http://twitter.com/search?q=Fratze+Deutschlands) | N/A |
+| 24 | [De Ligt](http://twitter.com/search?q=De+Ligt) | N/A |
+| 25 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 26 | [Müller](http://twitter.com/search?q=M%c3%bcller) | N/A |
+| 27 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 28 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
+| 29 | [Seite der Geschichte](http://twitter.com/search?q=Seite+der+Geschichte) | N/A |
+| 30 | [Verbrecher in die Geschichte](http://twitter.com/search?q=Verbrecher+in+die+Geschichte) | N/A |
+| 31 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 32 | [Halbzeit](http://twitter.com/search?q=Halbzeit) | N/A |
+| 33 | [John Lennon](http://twitter.com/search?q=John+Lennon) | N/A |
+| 34 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 35 | [Irreführung der Bevölkerung](http://twitter.com/search?q=Irref%c3%bchrung+der+Bev%c3%b6lkerung) | N/A |
+| 36 | [Mannschaft](http://twitter.com/search?q=Mannschaft) | N/A |
+| 37 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
+| 38 | [Botschaft](http://twitter.com/search?q=Botschaft) | N/A |
+| 39 | [INEC](http://twitter.com/search?q=INEC) | N/A |
+| 40 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 41 | [Bock auf Arbeit](http://twitter.com/search?q=Bock+auf+Arbeit) | N/A |
+| 42 | [Stanisic](http://twitter.com/search?q=Stanisic) | N/A |
+| 43 | [Kriegstreiber](http://twitter.com/search?q=Kriegstreiber) | N/A |
+| 44 | [Verhandlungen](http://twitter.com/search?q=Verhandlungen) | N/A |
+| 45 | [Pflegeversicherung](http://twitter.com/search?q=Pflegeversicherung) | N/A |
+| 46 | [Rouven Schröder](http://twitter.com/search?q=Rouven+Schr%c3%b6der) | N/A |
+| 47 | [sonntagmorgen](http://twitter.com/search?q=sonntagmorgen) | N/A |
+| 48 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 49 | [Dohnanyi](http://twitter.com/search?q=Dohnanyi) | N/A |
 
 
 
