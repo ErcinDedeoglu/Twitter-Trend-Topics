@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For St. Louis
 
-📆 Last Updated: `2023-02-26 13:20:20 UTC`
+📆 Last Updated: `2023-02-26 14:16:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#AllforCITY](http://twitter.com/search?q=%23AllforCITY) | N/A |
+| 1 | [#AllForCITY](http://twitter.com/search?q=%23AllForCITY) | N/A |
 | 2 | [#stlcitysc](http://twitter.com/search?q=%23stlcitysc) | N/A |
-| 3 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 4 | [Good Sunday](http://twitter.com/search?q=Good+Sunday) | Good Sunday is a South Korean variety show that aired on SBS from 2005 to 2011. It was a popular variety show that featured celebrity guests, games, and performances. The show's name comes from the fact that it aired on Sundays, which is traditionally considered a day of rest and relaxation in South Korea. In English, Good Sunday means a day of rest and relaxation. |
-| 5 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
+| 3 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
+| 4 | [#TOTCHE](http://twitter.com/search?q=%23TOTCHE) | N/A |
+| 5 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
 | 6 | [Woody](http://twitter.com/search?q=Woody) | Woody is a slang term used to describe someone who is strong, tough, and determined. It can also be used to describe someone who is stubborn and unyielding. |
 | 7 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
-| 8 | [#ManlyRomanticGestures](http://twitter.com/search?q=%23ManlyRomanticGestures) | N/A |
-| 9 | [#Wordle617](http://twitter.com/search?q=%23Wordle617) | N/A |
-| 10 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
-| 11 | [Paul Ryan](http://twitter.com/search?q=Paul+Ryan) | Paul Ryan is the name of an American politician who served as the 54th Speaker of the United States House of Representatives from October 2015 to January 2019. He is a member of the Republican Party and was previously the Vice Presidential nominee for the 2012 election. The meaning of his name in English is "little king". |
-| 12 | [Daily Quordle 398](http://twitter.com/search?q=Daily+Quordle+398) | N/A |
-| 13 | [FOREVER YOURS BUILD](http://twitter.com/search?q=FOREVER+YOURS+BUILD) | N/A |
-| 14 | [jhope](http://twitter.com/search?q=jhope) | N/A |
-| 15 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 16 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
-| 17 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
-| 18 | [2seok](http://twitter.com/search?q=2seok) | N/A |
-| 19 | [INEC](http://twitter.com/search?q=INEC) | N/A |
-| 20 | [RINO](http://twitter.com/search?q=RINO) | RINO stands for "Republican In Name Only," and it is a term used to describe a Republican politician who is perceived as not adhering to the party's traditional values or platform. |
-| 21 | [Yuzu](http://twitter.com/search?q=Yuzu) | N/A |
-| 22 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
-| 23 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 24 | [Yoruba](http://twitter.com/search?q=Yoruba) | N/A |
-| 25 | [Eazy](http://twitter.com/search?q=Eazy) | N/A |
-| 26 | [Witchcraft](http://twitter.com/search?q=Witchcraft) | N/A |
-| 27 | [BIGHIT](http://twitter.com/search?q=BIGHIT) | N/A |
-| 28 | [Weverse](http://twitter.com/search?q=Weverse) | Weverse is a social media platform created by the South Korean entertainment company Big Hit Entertainment. It is designed to connect fans with artists and allow them to interact with each other. The name Weverse is derived from the words “we” and “universe”, representing the idea of creating a universe where fans and artists can come together. |
-| 29 | [Jack White](http://twitter.com/search?q=Jack+White) | N/A |
-| 30 | [Cartel](http://twitter.com/search?q=Cartel) | N/A |
+| 8 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 9 | [Thiago Silva](http://twitter.com/search?q=Thiago+Silva) | Thiago Silva is a Brazilian professional footballer who plays as a central defender for Paris Saint-Germain and the Brazil national team. In English, Thiago Silva means "Saint Thomas". |
+| 10 | [Harry Kane](http://twitter.com/search?q=Harry+Kane) | Harry Kane is an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. His name is often used as a metaphor for someone who is a natural leader and has the ability to score goals. |
+| 11 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
+| 12 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
+| 13 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
+| 14 | [Paul Ryan](http://twitter.com/search?q=Paul+Ryan) | Paul Ryan is the name of an American politician who served as the 54th Speaker of the United States House of Representatives from October 2015 to January 2019. He is a member of the Republican Party and was previously the Vice Presidential nominee for the 2012 election. The meaning of his name in English is "little king". |
+| 15 | [Energy Department](http://twitter.com/search?q=Energy+Department) | N/A |
+| 16 | [Fofana](http://twitter.com/search?q=Fofana) | Fofana is a surname of West African origin. It is derived from the Fula language and means "son of the hunter". |
+| 17 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
+| 18 | [Joao Felix](http://twitter.com/search?q=Joao+Felix) | Joao Felix is the name of a Portuguese professional soccer player who currently plays for Atletico Madrid. His full name is Joao Felix Sequeira and he is considered one of the most promising young players in the world. The name Joao Felix means "God's gift" in English. |
+| 19 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
+| 20 | [Championship Sunday](http://twitter.com/search?q=Championship+Sunday) | Championship Sunday is the day of the year when the championship games of professional sports leagues are played. It is usually the last day of the season and is a highly anticipated event for fans of the sport. The term is most commonly used in American football, but can also refer to other sports such as basketball, baseball, and hockey. |
+| 21 | [Daily Quordle 398](http://twitter.com/search?q=Daily+Quordle+398) | N/A |
+| 22 | [Scott Adams](http://twitter.com/search?q=Scott+Adams) | N/A |
+| 23 | [RINO](http://twitter.com/search?q=RINO) | RINO stands for "Republican In Name Only," and it is a term used to describe a Republican politician who is perceived as not adhering to the party's traditional values or platform. |
+| 24 | [FOREVER YOURS BUILD](http://twitter.com/search?q=FOREVER+YOURS+BUILD) | N/A |
+| 25 | [jhope](http://twitter.com/search?q=jhope) | N/A |
+| 26 | [INEC](http://twitter.com/search?q=INEC) | N/A |
+| 27 | [Johnny Cash](http://twitter.com/search?q=Johnny+Cash) | N/A |
+| 28 | [2seok](http://twitter.com/search?q=2seok) | N/A |
+| 29 | [Eazy](http://twitter.com/search?q=Eazy) | N/A |
+| 30 | [Saturday Night Live](http://twitter.com/search?q=Saturday+Night+Live) | N/A |
 | 31 | [Ivy Park](http://twitter.com/search?q=Ivy+Park) | N/A |
-| 32 | [Tinubu](http://twitter.com/search?q=Tinubu) | N/A |
-| 33 | [Hitman](http://twitter.com/search?q=Hitman) | N/A |
-| 34 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
-| 35 | [Matias](http://twitter.com/search?q=Matias) | N/A |
-| 36 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
-| 37 | [NAACP](http://twitter.com/search?q=NAACP) | N/A |
-| 38 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
-| 39 | [Maxey](http://twitter.com/search?q=Maxey) | Maxey is a surname of English origin. It is derived from the Old English personal name Maccus, which was a diminutive form of Matthew. The meaning of Maxey in English is "son of Maccus". |
-| 40 | [Ponce](http://twitter.com/search?q=Ponce) | N/A |
-| 41 | [Linus Ullmark](http://twitter.com/search?q=Linus+Ullmark) | N/A |
-| 42 | [Doc Rivers](http://twitter.com/search?q=Doc+Rivers) | N/A |
-| 43 | [Al Horford](http://twitter.com/search?q=Al+Horford) | Al Horford is a professional basketball player from the Dominican Republic who currently plays for the Philadelphia 76ers of the National Basketball Association (NBA). He is a four-time NBA All-Star and has won two NBA championships with the Boston Celtics. The meaning of Al Horford in English is "a talented basketball player". |
-| 44 | [#ArrestKatieHobbs](http://twitter.com/search?q=%23ArrestKatieHobbs) | N/A |
-| 45 | [#GIFT_tokyodome](http://twitter.com/search?q=%23GIFT_tokyodome) | N/A |
-| 46 | [#SundayMotivation](http://twitter.com/search?q=%23SundayMotivation) | N/A |
-| 47 | [#TotChe](http://twitter.com/search?q=%23TotChe) | N/A |
-| 48 | [#ShakespeareSunday](http://twitter.com/search?q=%23ShakespeareSunday) | N/A |
-| 49 | [#WannaBeYourLuveForever](http://twitter.com/search?q=%23WannaBeYourLuveForever) | N/A |
-| 50 | [#potpourri](http://twitter.com/search?q=%23potpourri) | N/A |
+| 32 | [Witchcraft](http://twitter.com/search?q=Witchcraft) | N/A |
+| 33 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
+| 34 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
+| 35 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 36 | [Hitman](http://twitter.com/search?q=Hitman) | N/A |
+| 37 | [Yoruba](http://twitter.com/search?q=Yoruba) | N/A |
+| 38 | [Jeb Bush](http://twitter.com/search?q=Jeb+Bush) | N/A |
+| 39 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
+| 40 | [Tinubu](http://twitter.com/search?q=Tinubu) | N/A |
+| 41 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
+| 42 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 43 | [Global Warming](http://twitter.com/search?q=Global+Warming) | N/A |
+| 44 | [Jack White](http://twitter.com/search?q=Jack+White) | N/A |
+| 45 | [Weverse](http://twitter.com/search?q=Weverse) | Weverse is a social media platform created by the South Korean entertainment company Big Hit Entertainment. It is designed to connect fans with artists and allow them to interact with each other. The name Weverse is derived from the words “we” and “universe”, representing the idea of creating a universe where fans and artists can come together. |
+| 46 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
+| 47 | [NAACP](http://twitter.com/search?q=NAACP) | N/A |
+| 48 | [bighit](http://twitter.com/search?q=bighit) | N/A |
+| 49 | [ponce](http://twitter.com/search?q=ponce) | N/A |
+| 50 | [Pasadena](http://twitter.com/search?q=Pasadena) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Johor Bahru
 
-📆 Last Updated: `2023-02-26 13:19:57 UTC`
+📆 Last Updated: `2023-02-26 14:16:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Malaysia](</Malaysia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 2 | [Jeff](http://twitter.com/search?q=Jeff) | N/A |
-| 3 | [#TheEndofKinnPorsche](http://twitter.com/search?q=%23TheEndofKinnPorsche) | N/A |
-| 4 | [JENO MILAN FASHION WEEK](http://twitter.com/search?q=JENO+MILAN+FASHION+WEEK) | N/A |
-| 5 | [#GempakMostWantedAwards2022](http://twitter.com/search?q=%23GempakMostWantedAwards2022) | N/A |
-| 6 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 7 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
-| 8 | [#GMWA2022](http://twitter.com/search?q=%23GMWA2022) | N/A |
-| 9 | [#aespa1stConcertSYNK_HYPERLINE](http://twitter.com/search?q=%23aespa1stConcertSYNK_HYPERLINE) | N/A |
-| 10 | [jhope](http://twitter.com/search?q=jhope) | N/A |
-| 11 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 12 | [Giselle](http://twitter.com/search?q=Giselle) | N/A |
-| 13 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 14 | [FOREVER YOURS BUILD](http://twitter.com/search?q=FOREVER+YOURS+BUILD) | N/A |
-| 15 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 16 | [2seok](http://twitter.com/search?q=2seok) | N/A |
-| 17 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 18 | [ningning](http://twitter.com/search?q=ningning) | N/A |
-| 19 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 20 | [JAEYONG](http://twitter.com/search?q=JAEYONG) | N/A |
-| 21 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 22 | [BIGHIT](http://twitter.com/search?q=BIGHIT) | N/A |
-| 23 | [WE LOVE OUR BLUE](http://twitter.com/search?q=WE+LOVE+OUR+BLUE) | N/A |
-| 24 | [Yixing](http://twitter.com/search?q=Yixing) | Yixing is a city in Jiangsu Province, China. It is known for its production of Yixing clay teapots, which are highly prized by tea connoisseurs. The name Yixing translates to "purple sand" in English, referring to the purple-hued clay found in the area. |
-| 25 | [Stray Kids](http://twitter.com/search?q=Stray+Kids) | N/A |
-| 26 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
-| 27 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
-| 28 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 29 | [Selangor](http://twitter.com/search?q=Selangor) | N/A |
-| 30 | [jaehyun](http://twitter.com/search?q=jaehyun) | Jaehyun is a Korean given name, derived from the Chinese characters 載賢 (jié xián). It is composed of two characters: 載 (jié), meaning “to carry” or “to convey”, and 賢 (xián), meaning “virtuous” or “wise”. Together, the name can be interpreted to mean “carrying wisdom”. |
-| 31 | [Yuzu](http://twitter.com/search?q=Yuzu) | N/A |
-| 32 | [nftduel](http://twitter.com/search?q=nftduel) | N/A |
-| 33 | [Hendo](http://twitter.com/search?q=Hendo) | Hendo is a slang term derived from the Japanese word "hendou," which means "change." It is often used to refer to a sudden or unexpected change in something, such as a situation or a person's attitude. |
-| 34 | [bob greene](http://twitter.com/search?q=bob+greene) | N/A |
-| 35 | [Carvalho](http://twitter.com/search?q=Carvalho) | Carvalho is a Portuguese surname derived from the Latin word carbo, meaning "charcoal". In English, it can be translated to mean "charcoal maker" or "charcoal burner". |
-| 36 | [INEC](http://twitter.com/search?q=INEC) | N/A |
-| 37 | [Pete](http://twitter.com/search?q=Pete) | Pete is a nickname for the name Peter. It is derived from the Greek word "petros" which means "rock". |
-| 38 | [Full OC Name](http://twitter.com/search?q=Full+OC+Name) | N/A |
+| 2 | [#GempakMostWantedAwards2022](http://twitter.com/search?q=%23GempakMostWantedAwards2022) | N/A |
+| 3 | [Jeff](http://twitter.com/search?q=Jeff) | N/A |
+| 4 | [#GMWA2022](http://twitter.com/search?q=%23GMWA2022) | N/A |
+| 5 | [JENO MILAN FASHION WEEK](http://twitter.com/search?q=JENO+MILAN+FASHION+WEEK) | N/A |
+| 6 | [#DOLLA_GMWA](http://twitter.com/search?q=%23DOLLA_GMWA) | N/A |
+| 7 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 8 | [#TheEndofKinnPorsche](http://twitter.com/search?q=%23TheEndofKinnPorsche) | N/A |
+| 9 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 10 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
+| 11 | [jhope](http://twitter.com/search?q=jhope) | N/A |
+| 12 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 13 | [woozi](http://twitter.com/search?q=woozi) | N/A |
+| 14 | [JIMINIE](http://twitter.com/search?q=JIMINIE) | N/A |
+| 15 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
+| 16 | [Giselle](http://twitter.com/search?q=Giselle) | N/A |
+| 17 | [FOREVER YOURS BUILD](http://twitter.com/search?q=FOREVER+YOURS+BUILD) | N/A |
+| 18 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 19 | [2seok](http://twitter.com/search?q=2seok) | N/A |
+| 20 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 21 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 22 | [ningning](http://twitter.com/search?q=ningning) | N/A |
+| 23 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 24 | [jaeyong](http://twitter.com/search?q=jaeyong) | N/A |
+| 25 | [Selangor](http://twitter.com/search?q=Selangor) | N/A |
+| 26 | [WE LOVE OUR BLUE](http://twitter.com/search?q=WE+LOVE+OUR+BLUE) | N/A |
+| 27 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 28 | [bighit](http://twitter.com/search?q=bighit) | N/A |
+| 29 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
+| 30 | [jisung](http://twitter.com/search?q=jisung) | N/A |
+| 31 | [Hendo](http://twitter.com/search?q=Hendo) | Hendo is a slang term derived from the Japanese word "hendou," which means "change." It is often used to refer to a sudden or unexpected change in something, such as a situation or a person's attitude. |
+| 32 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
+| 33 | [Yuzu](http://twitter.com/search?q=Yuzu) | N/A |
+| 34 | [nftduel](http://twitter.com/search?q=nftduel) | N/A |
+| 35 | [bob greene](http://twitter.com/search?q=bob+greene) | N/A |
+| 36 | [Carvalho](http://twitter.com/search?q=Carvalho) | Carvalho is a Portuguese surname derived from the Latin word carbo, meaning "charcoal". In English, it can be translated to mean "charcoal maker" or "charcoal burner". |
+| 37 | [Full OC Name](http://twitter.com/search?q=Full+OC+Name) | N/A |
+| 38 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
 | 39 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
 | 40 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
-| 41 | [Sofi](http://twitter.com/search?q=Sofi) | N/A |
-| 42 | [Karina](http://twitter.com/search?q=Karina) | N/A |
+| 41 | [Karina](http://twitter.com/search?q=Karina) | N/A |
+| 42 | [Sofi](http://twitter.com/search?q=Sofi) | N/A |
 | 43 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
-| 44 | [BETTER TREATMENT FOR IRENE](http://twitter.com/search?q=BETTER+TREATMENT+FOR+IRENE) | N/A |
-| 45 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
-| 46 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 44 | [hyuna](http://twitter.com/search?q=hyuna) | Hyuna is a Korean female given name. It is derived from the Sino-Korean word meaning “shining,” and can also be interpreted to mean “intelligent and beautiful.” |
+| 45 | [BETTER TREATMENT FOR IRENE](http://twitter.com/search?q=BETTER+TREATMENT+FOR+IRENE) | N/A |
+| 46 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
 | 47 | [Perth](http://twitter.com/search?q=Perth) | N/A |
-| 48 | [jisung](http://twitter.com/search?q=jisung) | N/A |
-| 49 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 48 | [NCT DREAM](http://twitter.com/search?q=NCT+DREAM) | N/A |
+| 49 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
 
 
 

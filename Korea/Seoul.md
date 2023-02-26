@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Seoul
 
-📆 Last Updated: `2023-02-26 13:19:57 UTC`
+📆 Last Updated: `2023-02-26 14:16:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,56 @@ This is top 50 for [Korea](</Korea>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [부스신청](http://twitter.com/search?q=%eb%b6%80%ec%8a%a4%ec%8b%a0%ec%b2%ad) | N/A |
-| 2 | [네네 선생님](http://twitter.com/search?q=%eb%84%a4%eb%84%a4+%ec%84%a0%ec%83%9d%eb%8b%98) | N/A |
-| 3 | [발렌티노](http://twitter.com/search?q=%eb%b0%9c%eb%a0%8c%ed%8b%b0%eb%85%b8) | 발렌티노 is a type of Italian pasta dish. It is made with a creamy sauce, usually containing cheese, and served with vegetables or meat. In English, it is known as Fettuccine Alfredo. |
-| 4 | [대운동회](http://twitter.com/search?q=%eb%8c%80%ec%9a%b4%eb%8f%99%ed%9a%8c) | 대운동회 is a large-scale sports event in Korea. It is usually held once a year and involves athletes from all over the country competing in various sports. The English translation of 대운동회 is "National Sports Festival". |
-| 5 | [맥도르날그](http://twitter.com/search?q=%eb%a7%a5%eb%8f%84%eb%a5%b4%eb%82%a0%ea%b7%b8) | N/A |
-| 6 | [#악마랑계약한발전과정](http://twitter.com/search?q=%23%ec%95%85%eb%a7%88%eb%9e%91%ea%b3%84%ec%95%bd%ed%95%9c%eb%b0%9c%ec%a0%84%ea%b3%bc%ec%a0%95) | N/A |
-| 7 | [언제쯤 탈트](http://twitter.com/search?q=%ec%96%b8%ec%a0%9c%ec%af%a4+%ed%83%88%ed%8a%b8) | N/A |
-| 8 | [#에이티니_트친소](http://twitter.com/search?q=%23%ec%97%90%ec%9d%b4%ed%8b%b0%eb%8b%88_%ed%8a%b8%ec%b9%9c%ec%86%8c) | N/A |
-| 9 | [일타스캔들](http://twitter.com/search?q=%ec%9d%bc%ed%83%80%ec%8a%a4%ec%ba%94%eb%93%a4) | N/A |
-| 10 | [탈빠 절대](http://twitter.com/search?q=%ed%83%88%eb%b9%a0+%ec%a0%88%eb%8c%80) | N/A |
-| 11 | [자기 오빠들](http://twitter.com/search?q=%ec%9e%90%ea%b8%b0+%ec%98%a4%eb%b9%a0%eb%93%a4) | N/A |
-| 12 | [혼수상태](http://twitter.com/search?q=%ed%98%bc%ec%88%98%ec%83%81%ed%83%9c) | N/A |
-| 13 | [#코코페_트친소](http://twitter.com/search?q=%23%ec%bd%94%ec%bd%94%ed%8e%98_%ed%8a%b8%ec%b9%9c%ec%86%8c) | N/A |
-| 14 | [공장포타](http://twitter.com/search?q=%ea%b3%b5%ec%9e%a5%ed%8f%ac%ed%83%80) | N/A |
-| 15 | [새우튀김](http://twitter.com/search?q=%ec%83%88%ec%9a%b0%ed%8a%80%ea%b9%80) | N/A |
-| 16 | [#싸이코드_제이](http://twitter.com/search?q=%23%ec%8b%b8%ec%9d%b4%ec%bd%94%eb%93%9c_%ec%a0%9c%ec%9d%b4) | N/A |
-| 17 | [#코스어_트친소](http://twitter.com/search?q=%23%ec%bd%94%ec%8a%a4%ec%96%b4_%ed%8a%b8%ec%b9%9c%ec%86%8c) | N/A |
-| 18 | [대기번호](http://twitter.com/search?q=%eb%8c%80%ea%b8%b0%eb%b2%88%ed%98%b8) | N/A |
-| 19 | [드디어 성사](http://twitter.com/search?q=%eb%93%9c%eb%94%94%ec%96%b4+%ec%84%b1%ec%82%ac) | N/A |
-| 20 | [있는 글자](http://twitter.com/search?q=%ec%9e%88%eb%8a%94+%ea%b8%80%ec%9e%90) | N/A |
-| 21 | [가라오케](http://twitter.com/search?q=%ea%b0%80%eb%9d%bc%ec%98%a4%ec%bc%80) | 가라오케 is a Japanese phrase that means "Let's go!" or "Come on!" in English. |
-| 22 | [첫글자와 끝글자](http://twitter.com/search?q=%ec%b2%ab%ea%b8%80%ec%9e%90%ec%99%80+%eb%81%9d%ea%b8%80%ec%9e%90) | N/A |
-| 23 | [산왕 응상](http://twitter.com/search?q=%ec%82%b0%ec%99%95+%ec%9d%91%ec%83%81) | N/A |
-| 24 | [좋은 영향](http://twitter.com/search?q=%ec%a2%8b%ec%9d%80+%ec%98%81%ed%96%a5) | N/A |
-| 25 | [요즘 남자친구](http://twitter.com/search?q=%ec%9a%94%ec%a6%98+%eb%82%a8%ec%9e%90%ec%b9%9c%ea%b5%ac) | N/A |
-| 26 | [에스파 콘서트](http://twitter.com/search?q=%ec%97%90%ec%8a%a4%ed%8c%8c+%ec%bd%98%ec%84%9c%ed%8a%b8) | 에스파 콘서트 is a South Korean music festival held annually in Seoul. It is one of the largest music festivals in the country, featuring a variety of genres from K-pop to rock and hip-hop. The name "에스파 콘서트" translates to "Espa Concert" in English. |
-| 27 | [테디베어](http://twitter.com/search?q=%ed%85%8c%eb%94%94%eb%b2%a0%ec%96%b4) | N/A |
-| 28 | [이츠키슈](http://twitter.com/search?q=%ec%9d%b4%ec%b8%a0%ed%82%a4%ec%8a%88) | N/A |
-| 29 | [드레스코드](http://twitter.com/search?q=%eb%93%9c%eb%a0%88%ec%8a%a4%ec%bd%94%eb%93%9c) | N/A |
-| 30 | [많은 남자](http://twitter.com/search?q=%eb%a7%8e%ec%9d%80+%eb%82%a8%ec%9e%90) | N/A |
-| 31 | [인스타 라이브](http://twitter.com/search?q=%ec%9d%b8%ec%8a%a4%ed%83%80+%eb%9d%bc%ec%9d%b4%eb%b8%8c) | 인스타 라이브 (Insta Live) is a feature on the Instagram app that allows users to broadcast live video streams. It allows users to interact with their followers in real-time, as well as share their thoughts and experiences with them. The English translation of 인스타 라이브 is Instagram Live. |
-| 32 | [회전목마](http://twitter.com/search?q=%ed%9a%8c%ec%a0%84%eb%aa%a9%eb%a7%88) | N/A |
+| 1 | [#코코페_후기](http://twitter.com/search?q=%23%ec%bd%94%ec%bd%94%ed%8e%98_%ed%9b%84%ea%b8%b0) | N/A |
+| 2 | [쿠크다스](http://twitter.com/search?q=%ec%bf%a0%ed%81%ac%eb%8b%a4%ec%8a%a4) | N/A |
+| 3 | [#CHAEUNWOO](http://twitter.com/search?q=%23CHAEUNWOO) | N/A |
+| 4 | [웨이스티드](http://twitter.com/search?q=%ec%9b%a8%ec%9d%b4%ec%8a%a4%ed%8b%b0%eb%93%9c) | N/A |
+| 5 | [#WONHO](http://twitter.com/search?q=%23WONHO) | N/A |
+| 6 | [발렌티노](http://twitter.com/search?q=%eb%b0%9c%eb%a0%8c%ed%8b%b0%eb%85%b8) | 발렌티노 is a type of Italian pasta dish. It is made with a creamy sauce, usually containing cheese, and served with vegetables or meat. In English, it is known as Fettuccine Alfredo. |
+| 7 | [대운동회](http://twitter.com/search?q=%eb%8c%80%ec%9a%b4%eb%8f%99%ed%9a%8c) | 대운동회 is a large-scale sports event in Korea. It is usually held once a year and involves athletes from all over the country competing in various sports. The English translation of 대운동회 is "National Sports Festival". |
+| 8 | [일타스캔들](http://twitter.com/search?q=%ec%9d%bc%ed%83%80%ec%8a%a4%ec%ba%94%eb%93%a4) | N/A |
+| 9 | [우지 인스타](http://twitter.com/search?q=%ec%9a%b0%ec%a7%80+%ec%9d%b8%ec%8a%a4%ed%83%80) | N/A |
+| 10 | [맥도르날그](http://twitter.com/search?q=%eb%a7%a5%eb%8f%84%eb%a5%b4%eb%82%a0%ea%b7%b8) | N/A |
+| 11 | [#악마랑계약한발전과정](http://twitter.com/search?q=%23%ec%95%85%eb%a7%88%eb%9e%91%ea%b3%84%ec%95%bd%ed%95%9c%eb%b0%9c%ec%a0%84%ea%b3%bc%ec%a0%95) | N/A |
+| 12 | [#세상을_준_상엽아_생일축하해](http://twitter.com/search?q=%23%ec%84%b8%ec%83%81%ec%9d%84_%ec%a4%80_%ec%83%81%ec%97%bd%ec%95%84_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
+| 13 | [언제쯤 탈트](http://twitter.com/search?q=%ec%96%b8%ec%a0%9c%ec%af%a4+%ed%83%88%ed%8a%b8) | N/A |
+| 14 | [사무라이하트](http://twitter.com/search?q=%ec%82%ac%eb%ac%b4%eb%9d%bc%ec%9d%b4%ed%95%98%ed%8a%b8) | N/A |
+| 15 | [탈빠 절대 안함](http://twitter.com/search?q=%ed%83%88%eb%b9%a0+%ec%a0%88%eb%8c%80+%ec%95%88%ed%95%a8) | N/A |
+| 16 | [자기 오빠들](http://twitter.com/search?q=%ec%9e%90%ea%b8%b0+%ec%98%a4%eb%b9%a0%eb%93%a4) | N/A |
+| 17 | [해이 엄마](http://twitter.com/search?q=%ed%95%b4%ec%9d%b4+%ec%97%84%eb%a7%88) | N/A |
+| 18 | [해이 친엄마](http://twitter.com/search?q=%ed%95%b4%ec%9d%b4+%ec%b9%9c%ec%97%84%eb%a7%88) | N/A |
+| 19 | [빨간풍선](http://twitter.com/search?q=%eb%b9%a8%ea%b0%84%ed%92%8d%ec%84%a0) | N/A |
+| 20 | [대기번호](http://twitter.com/search?q=%eb%8c%80%ea%b8%b0%eb%b2%88%ed%98%b8) | N/A |
+| 21 | [부스신청](http://twitter.com/search?q=%eb%b6%80%ec%8a%a4%ec%8b%a0%ec%b2%ad) | N/A |
+| 22 | [공장포타](http://twitter.com/search?q=%ea%b3%b5%ec%9e%a5%ed%8f%ac%ed%83%80) | N/A |
+| 23 | [혼수상태](http://twitter.com/search?q=%ed%98%bc%ec%88%98%ec%83%81%ed%83%9c) | N/A |
+| 24 | [가라오케](http://twitter.com/search?q=%ea%b0%80%eb%9d%bc%ec%98%a4%ec%bc%80) | 가라오케 is a Japanese phrase that means "Let's go!" or "Come on!" in English. |
+| 25 | [첫글자와 끝글자](http://twitter.com/search?q=%ec%b2%ab%ea%b8%80%ec%9e%90%ec%99%80+%eb%81%9d%ea%b8%80%ec%9e%90) | N/A |
+| 26 | [드디어 성사](http://twitter.com/search?q=%eb%93%9c%eb%94%94%ec%96%b4+%ec%84%b1%ec%82%ac) | N/A |
+| 27 | [있는 글자](http://twitter.com/search?q=%ec%9e%88%eb%8a%94+%ea%b8%80%ec%9e%90) | N/A |
+| 28 | [인스타 게시물](http://twitter.com/search?q=%ec%9d%b8%ec%8a%a4%ed%83%80+%ea%b2%8c%ec%8b%9c%eb%ac%bc) | N/A |
+| 29 | [좋은 영향](http://twitter.com/search?q=%ec%a2%8b%ec%9d%80+%ec%98%81%ed%96%a5) | N/A |
+| 30 | [에스파 콘서트](http://twitter.com/search?q=%ec%97%90%ec%8a%a4%ed%8c%8c+%ec%bd%98%ec%84%9c%ed%8a%b8) | 에스파 콘서트 is a South Korean music festival held annually in Seoul. It is one of the largest music festivals in the country, featuring a variety of genres from K-pop to rock and hip-hop. The name "에스파 콘서트" translates to "Espa Concert" in English. |
+| 31 | [요즘 남자친구](http://twitter.com/search?q=%ec%9a%94%ec%a6%98+%eb%82%a8%ec%9e%90%ec%b9%9c%ea%b5%ac) | N/A |
+| 32 | [인스타 라이브](http://twitter.com/search?q=%ec%9d%b8%ec%8a%a4%ed%83%80+%eb%9d%bc%ec%9d%b4%eb%b8%8c) | 인스타 라이브 (Insta Live) is a feature on the Instagram app that allows users to broadcast live video streams. It allows users to interact with their followers in real-time, as well as share their thoughts and experiences with them. The English translation of 인스타 라이브 is Instagram Live. |
 | 33 | [닥다그닥](http://twitter.com/search?q=%eb%8b%a5%eb%8b%a4%ea%b7%b8%eb%8b%a5) | N/A |
-| 34 | [우리 호비](http://twitter.com/search?q=%ec%9a%b0%eb%a6%ac+%ed%98%b8%eb%b9%84) | N/A |
-| 35 | [인기가요](http://twitter.com/search?q=%ec%9d%b8%ea%b8%b0%ea%b0%80%ec%9a%94) | N/A |
-| 36 | [웨이스티드](http://twitter.com/search?q=%ec%9b%a8%ec%9d%b4%ec%8a%a4%ed%8b%b0%eb%93%9c) | N/A |
-| 37 | [#런쥔이왔당](http://twitter.com/search?q=%23%eb%9f%b0%ec%a5%94%ec%9d%b4%ec%99%94%eb%8b%b9) | N/A |
-| 38 | [#별명만들기](http://twitter.com/search?q=%23%eb%b3%84%eb%aa%85%eb%a7%8c%eb%93%a4%ea%b8%b0) | N/A |
-| 39 | [#실제로_본_후기](http://twitter.com/search?q=%23%ec%8b%a4%ec%a0%9c%eb%a1%9c_%eb%b3%b8_%ed%9b%84%ea%b8%b0) | N/A |
-| 40 | [#코코페_후기](http://twitter.com/search?q=%23%ec%bd%94%ec%bd%94%ed%8e%98_%ed%9b%84%ea%b8%b0) | N/A |
-| 41 | [#WeLoveYouHobi](http://twitter.com/search?q=%23WeLoveYouHobi) | N/A |
-| 42 | [#ZeeNuNew안녕D3](http://twitter.com/search?q=%23ZeeNuNew%ec%95%88%eb%85%95D3) | N/A |
-| 43 | [#이솔로몬](http://twitter.com/search?q=%23%ec%9d%b4%ec%86%94%eb%a1%9c%eb%aa%ac) | N/A |
-| 44 | [#CHAEUNWOO](http://twitter.com/search?q=%23CHAEUNWOO) | N/A |
-| 45 | [#JHOPE](http://twitter.com/search?q=%23JHOPE) | N/A |
-| 46 | [#제이홉](http://twitter.com/search?q=%23%ec%a0%9c%ec%9d%b4%ed%99%89) | N/A |
-| 47 | [#TeddyBear4thWin](http://twitter.com/search?q=%23TeddyBear4thWin) | N/A |
-| 48 | [#wonho](http://twitter.com/search?q=%23wonho) | N/A |
+| 34 | [드레스코드](http://twitter.com/search?q=%eb%93%9c%eb%a0%88%ec%8a%a4%ec%bd%94%eb%93%9c) | N/A |
+| 35 | [많은 남자](http://twitter.com/search?q=%eb%a7%8e%ec%9d%80+%eb%82%a8%ec%9e%90) | N/A |
+| 36 | [이츠키슈](http://twitter.com/search?q=%ec%9d%b4%ec%b8%a0%ed%82%a4%ec%8a%88) | N/A |
+| 37 | [회전목마](http://twitter.com/search?q=%ed%9a%8c%ec%a0%84%eb%aa%a9%eb%a7%88) | N/A |
+| 38 | [#에이티니_트친소](http://twitter.com/search?q=%23%ec%97%90%ec%9d%b4%ed%8b%b0%eb%8b%88_%ed%8a%b8%ec%b9%9c%ec%86%8c) | N/A |
+| 39 | [#코코페_트친소](http://twitter.com/search?q=%23%ec%bd%94%ec%bd%94%ed%8e%98_%ed%8a%b8%ec%b9%9c%ec%86%8c) | N/A |
+| 40 | [#지성뵤블](http://twitter.com/search?q=%23%ec%a7%80%ec%84%b1%eb%b5%a4%eb%b8%94) | N/A |
+| 41 | [#에이티니_승선소](http://twitter.com/search?q=%23%ec%97%90%ec%9d%b4%ed%8b%b0%eb%8b%88_%ec%8a%b9%ec%84%a0%ec%86%8c) | N/A |
+| 42 | [#코스어_트친소](http://twitter.com/search?q=%23%ec%bd%94%ec%8a%a4%ec%96%b4_%ed%8a%b8%ec%b9%9c%ec%86%8c) | N/A |
+| 43 | [#런쥔이왔당](http://twitter.com/search?q=%23%eb%9f%b0%ec%a5%94%ec%9d%b4%ec%99%94%eb%8b%b9) | N/A |
+| 44 | [#별명만들기](http://twitter.com/search?q=%23%eb%b3%84%eb%aa%85%eb%a7%8c%eb%93%a4%ea%b8%b0) | N/A |
+| 45 | [#실제로_본_후기](http://twitter.com/search?q=%23%ec%8b%a4%ec%a0%9c%eb%a1%9c_%eb%b3%b8_%ed%9b%84%ea%b8%b0) | N/A |
+| 46 | [#겹친소](http://twitter.com/search?q=%23%ea%b2%b9%ec%b9%9c%ec%86%8c) | N/A |
+| 47 | [#ZeeNuNew안녕D3](http://twitter.com/search?q=%23ZeeNuNew%ec%95%88%eb%85%95D3) | N/A |
+| 48 | [#JHOPE](http://twitter.com/search?q=%23JHOPE) | N/A |
+| 49 | [#WeLoveYouHobi](http://twitter.com/search?q=%23WeLoveYouHobi) | N/A |
+| 50 | [#제이홉](http://twitter.com/search?q=%23%ec%a0%9c%ec%9d%b4%ed%99%89) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-02-26 13:20:23 UTC`
+📆 Last Updated: `2023-02-26 14:16:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Austria
 | ------- | ------------ | ------------ |
 | 1 | [Schönen Sonntag](http://twitter.com/search?q=Sch%c3%b6nen+Sonntag) | "Schönen Sonntag" is a German phrase that translates to "Have a nice Sunday" in English. It is a common greeting used to wish someone a pleasant day on Sunday. |
 | 2 | [#b2502](http://twitter.com/search?q=%23b2502) | N/A |
-| 3 | [#Pressestunde](http://twitter.com/search?q=%23Pressestunde) | N/A |
-| 4 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
+| 3 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
+| 4 | [#Pressestunde](http://twitter.com/search?q=%23Pressestunde) | N/A |
 | 5 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
 | 6 | [#Schwarzer](http://twitter.com/search?q=%23Schwarzer) | N/A |
-| 7 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
-| 8 | [Kern](http://twitter.com/search?q=Kern) | N/A |
-| 9 | [#stuska](http://twitter.com/search?q=%23stuska) | N/A |
-| 10 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 11 | [#DSDS](http://twitter.com/search?q=%23DSDS) | N/A |
-| 12 | [WARRIOR NUN CAMPERS](http://twitter.com/search?q=WARRIOR+NUN+CAMPERS) | N/A |
-| 13 | [Armut](http://twitter.com/search?q=Armut) | N/A |
-| 14 | [Schiedsrichter](http://twitter.com/search?q=Schiedsrichter) | N/A |
-| 15 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
-| 16 | [Krone](http://twitter.com/search?q=Krone) | N/A |
-| 17 | [miete](http://twitter.com/search?q=miete) | N/A |
+| 7 | [Kern](http://twitter.com/search?q=Kern) | N/A |
+| 8 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
+| 9 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 10 | [#DSDS](http://twitter.com/search?q=%23DSDS) | N/A |
+| 11 | [WARRIOR NUN CAMPERS](http://twitter.com/search?q=WARRIOR+NUN+CAMPERS) | N/A |
+| 12 | [Miete](http://twitter.com/search?q=Miete) | N/A |
+| 13 | [Schiedsrichter](http://twitter.com/search?q=Schiedsrichter) | N/A |
+| 14 | [#scr2023](http://twitter.com/search?q=%23scr2023) | N/A |
+| 15 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
+| 16 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
+| 17 | [krone](http://twitter.com/search?q=krone) | N/A |
 | 18 | [Elfer](http://twitter.com/search?q=Elfer) | N/A |
-| 19 | [fehlentscheidung](http://twitter.com/search?q=fehlentscheidung) | N/A |
-| 20 | [Verhandlungen](http://twitter.com/search?q=Verhandlungen) | N/A |
-| 21 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 22 | [Blumen](http://twitter.com/search?q=Blumen) | N/A |
+| 19 | [Verhandlungen](http://twitter.com/search?q=Verhandlungen) | N/A |
+| 20 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 21 | [Blumen](http://twitter.com/search?q=Blumen) | N/A |
+| 22 | [Farbe](http://twitter.com/search?q=Farbe) | N/A |
 | 23 | [Lugner](http://twitter.com/search?q=Lugner) | N/A |
-| 24 | [bomben](http://twitter.com/search?q=bomben) | N/A |
+| 24 | [Bomben](http://twitter.com/search?q=Bomben) | N/A |
 | 25 | [Habeck](http://twitter.com/search?q=Habeck) | N/A |
-| 26 | [Ingrid](http://twitter.com/search?q=Ingrid) | N/A |
-| 27 | [Schas](http://twitter.com/search?q=Schas) | N/A |
-| 28 | [Kapitel](http://twitter.com/search?q=Kapitel) | N/A |
-| 29 | [Italien](http://twitter.com/search?q=Italien) | N/A |
-| 30 | [fesch](http://twitter.com/search?q=fesch) | N/A |
-| 31 | [haushaltsabgabe](http://twitter.com/search?q=haushaltsabgabe) | N/A |
-| 32 | [Brexit](http://twitter.com/search?q=Brexit) | Brexit is a shorthand way of referring to the UK's decision to leave the European Union (EU). It is a portmanteau of the words "British" and "exit". The term was first used in 2012 when Prime Minister David Cameron promised to hold a referendum on Britain's membership of the EU. On June 23, 2016, the UK voted to leave the EU, and Brexit officially began on March 29, 2019. |
-| 33 | [Sichtweise](http://twitter.com/search?q=Sichtweise) | N/A |
-| 34 | [Erhöhung](http://twitter.com/search?q=Erh%c3%b6hung) | N/A |
-| 35 | [Hofburg](http://twitter.com/search?q=Hofburg) | N/A |
-| 36 | [Verfügung](http://twitter.com/search?q=Verf%c3%bcgung) | N/A |
+| 26 | [Kapitel](http://twitter.com/search?q=Kapitel) | N/A |
+| 27 | [Italien](http://twitter.com/search?q=Italien) | N/A |
+| 28 | [Schas](http://twitter.com/search?q=Schas) | N/A |
+| 29 | [fesch](http://twitter.com/search?q=fesch) | N/A |
+| 30 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
+| 31 | [Ingrid](http://twitter.com/search?q=Ingrid) | N/A |
+| 32 | [Erhöhung](http://twitter.com/search?q=Erh%c3%b6hung) | N/A |
+| 33 | [hofburg](http://twitter.com/search?q=hofburg) | N/A |
+| 34 | [Führung](http://twitter.com/search?q=F%c3%bchrung) | N/A |
+| 35 | [Haushaltsabgabe](http://twitter.com/search?q=Haushaltsabgabe) | N/A |
+| 36 | [Karte](http://twitter.com/search?q=Karte) | N/A |
 | 37 | [Unterwerfung](http://twitter.com/search?q=Unterwerfung) | N/A |
-| 38 | [Farbe](http://twitter.com/search?q=Farbe) | N/A |
-| 39 | [Brandstätter](http://twitter.com/search?q=Brandst%c3%a4tter) | N/A |
-| 40 | [Optionen](http://twitter.com/search?q=Optionen) | N/A |
-| 41 | [Baldige Besserung](http://twitter.com/search?q=Baldige+Besserung) | N/A |
-| 42 | [Oooh](http://twitter.com/search?q=Oooh) | N/A |
-| 43 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
-| 44 | [Studio](http://twitter.com/search?q=Studio) | N/A |
-| 45 | [Nigerian](http://twitter.com/search?q=Nigerian) | N/A |
-| 46 | [Plätze](http://twitter.com/search?q=Pl%c3%a4tze) | N/A |
-| 47 | [Chips](http://twitter.com/search?q=Chips) | N/A |
-| 48 | [Überfall](http://twitter.com/search?q=%c3%9cberfall) | N/A |
-| 49 | [Fortschritte](http://twitter.com/search?q=Fortschritte) | N/A |
-| 50 | [Simon](http://twitter.com/search?q=Simon) | N/A |
+| 38 | [brandstätter](http://twitter.com/search?q=brandst%c3%a4tter) | N/A |
+| 39 | [Baldige Besserung](http://twitter.com/search?q=Baldige+Besserung) | N/A |
+| 40 | [Oooh](http://twitter.com/search?q=Oooh) | N/A |
+| 41 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
+| 42 | [Kriegstreiber](http://twitter.com/search?q=Kriegstreiber) | N/A |
+| 43 | [Nigerian](http://twitter.com/search?q=Nigerian) | N/A |
+| 44 | [Plätze](http://twitter.com/search?q=Pl%c3%a4tze) | N/A |
+| 45 | [Chips](http://twitter.com/search?q=Chips) | N/A |
+| 46 | [Überfall](http://twitter.com/search?q=%c3%9cberfall) | N/A |
+| 47 | [Vollzeit](http://twitter.com/search?q=Vollzeit) | N/A |
+| 48 | [Fortschritte](http://twitter.com/search?q=Fortschritte) | N/A |
+| 49 | [Eindruck](http://twitter.com/search?q=Eindruck) | N/A |
+| 50 | [Pension](http://twitter.com/search?q=Pension) | N/A |
 
 
 

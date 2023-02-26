@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gdańsk
 
-📆 Last Updated: `2023-02-26 13:19:41 UTC`
+📆 Last Updated: `2023-02-26 14:15:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Poland](</Poland>)
 | ------- | ------------ | ------------ |
 | 1 | [#skijumpingfamily](http://twitter.com/search?q=%23skijumpingfamily) | N/A |
 | 2 | [#krwawaropa](http://twitter.com/search?q=%23krwawaropa) | N/A |
-| 3 | [#TheVoiceKids](http://twitter.com/search?q=%23TheVoiceKids) | N/A |
-| 4 | [Orlen](http://twitter.com/search?q=Orlen) | N/A |
-| 5 | [#t5m2](http://twitter.com/search?q=%23t5m2) | N/A |
-| 6 | [#Woronicza17](http://twitter.com/search?q=%23Woronicza17) | N/A |
+| 3 | [#STMGÓR](http://twitter.com/search?q=%23STMG%c3%93R) | N/A |
+| 4 | [#TheVoiceKids](http://twitter.com/search?q=%23TheVoiceKids) | N/A |
+| 5 | [Orlen](http://twitter.com/search?q=Orlen) | N/A |
+| 6 | [#t5m2](http://twitter.com/search?q=%23t5m2) | N/A |
 | 7 | [Piotr Żyła](http://twitter.com/search?q=Piotr+%c5%bby%c5%82a) | N/A |
-| 8 | [Mvondo](http://twitter.com/search?q=Mvondo) | N/A |
-| 9 | [Obajtek](http://twitter.com/search?q=Obajtek) | N/A |
-| 10 | [Kropiwnicki](http://twitter.com/search?q=Kropiwnicki) | N/A |
+| 8 | [Obajtek](http://twitter.com/search?q=Obajtek) | N/A |
+| 9 | [stali](http://twitter.com/search?q=stali) | N/A |
+| 10 | [Sylwestrzak](http://twitter.com/search?q=Sylwestrzak) | N/A |
 | 11 | [Ukrainie](http://twitter.com/search?q=Ukrainie) | N/A |
-| 12 | [Kliczko](http://twitter.com/search?q=Kliczko) | N/A |
-| 13 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 14 | [z 13](http://twitter.com/search?q=z+13) | N/A |
-| 15 | [Lotos](http://twitter.com/search?q=Lotos) | N/A |
-| 16 | [Seefeld](http://twitter.com/search?q=Seefeld) | N/A |
-| 17 | [Przyjaźń](http://twitter.com/search?q=Przyja%c5%ba%c5%84) | N/A |
-| 18 | [Piotrka](http://twitter.com/search?q=Piotrka) | N/A |
-| 19 | [resovia](http://twitter.com/search?q=resovia) | N/A |
-| 20 | [Łukaszenka](http://twitter.com/search?q=%c5%81ukaszenka) | N/A |
-| 21 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 22 | [Kraft](http://twitter.com/search?q=Kraft) | N/A |
-| 23 | [paweł wąsek](http://twitter.com/search?q=pawe%c5%82+w%c4%85sek) | N/A |
-| 24 | [Jankowski](http://twitter.com/search?q=Jankowski) | N/A |
-| 25 | [Pani Marto](http://twitter.com/search?q=Pani+Marto) | N/A |
-| 26 | [De Fries](http://twitter.com/search?q=De+Fries) | N/A |
-| 27 | [Górnika](http://twitter.com/search?q=G%c3%b3rnika) | N/A |
-| 28 | [dawid kubacki](http://twitter.com/search?q=dawid+kubacki) | N/A |
-| 29 | [Niedzieli](http://twitter.com/search?q=Niedzieli) | N/A |
-| 30 | [Bury](http://twitter.com/search?q=Bury) | N/A |
-| 31 | [Niemcom](http://twitter.com/search?q=Niemcom) | N/A |
-| 32 | [Granerud](http://twitter.com/search?q=Granerud) | N/A |
-| 33 | [Miłej](http://twitter.com/search?q=Mi%c5%82ej) | N/A |
-| 34 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 35 | [Alvaro](http://twitter.com/search?q=Alvaro) | N/A |
-| 36 | [Kamil Stoch](http://twitter.com/search?q=Kamil+Stoch) | N/A |
-| 37 | [Mt 4](http://twitter.com/search?q=Mt+4) | N/A |
-| 38 | [Rasak](http://twitter.com/search?q=Rasak) | N/A |
-| 39 | [Mazurek Dąbrowskiego](http://twitter.com/search?q=Mazurek+D%c4%85browskiego) | N/A |
-| 40 | [Błogosławionej](http://twitter.com/search?q=B%c5%82ogos%c5%82awionej) | N/A |
-| 41 | [Stankiewicz](http://twitter.com/search?q=Stankiewicz) | N/A |
-| 42 | [bronder](http://twitter.com/search?q=bronder) | N/A |
-| 43 | [Michalik](http://twitter.com/search?q=Michalik) | N/A |
-| 44 | [Mateusz Klich](http://twitter.com/search?q=Mateusz+Klich) | N/A |
-| 45 | [Stali](http://twitter.com/search?q=Stali) | N/A |
-| 46 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
-| 47 | [placki](http://twitter.com/search?q=placki) | N/A |
-| 48 | [żyłę](http://twitter.com/search?q=%c5%bcy%c5%82%c4%99) | N/A |
-| 49 | [Pięknej](http://twitter.com/search?q=Pi%c4%99knej) | N/A |
-| 50 | [Burego](http://twitter.com/search?q=Burego) | N/A |
+| 12 | [Kropiwnicki](http://twitter.com/search?q=Kropiwnicki) | N/A |
+| 13 | [Górnika](http://twitter.com/search?q=G%c3%b3rnika) | N/A |
+| 14 | [Kliczko](http://twitter.com/search?q=Kliczko) | N/A |
+| 15 | [Mvondo](http://twitter.com/search?q=Mvondo) | N/A |
+| 16 | [z 13](http://twitter.com/search?q=z+13) | N/A |
+| 17 | [Lotos](http://twitter.com/search?q=Lotos) | N/A |
+| 18 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 19 | [Jankowski](http://twitter.com/search?q=Jankowski) | N/A |
+| 20 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 21 | [Przyjaźń](http://twitter.com/search?q=Przyja%c5%ba%c5%84) | N/A |
+| 22 | [Seefeld](http://twitter.com/search?q=Seefeld) | N/A |
+| 23 | [Piotrka](http://twitter.com/search?q=Piotrka) | N/A |
+| 24 | [Mielcu](http://twitter.com/search?q=Mielcu) | N/A |
+| 25 | [resovia](http://twitter.com/search?q=resovia) | N/A |
+| 26 | [dawid kubacki](http://twitter.com/search?q=dawid+kubacki) | N/A |
+| 27 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 28 | [paweł wąsek](http://twitter.com/search?q=pawe%c5%82+w%c4%85sek) | N/A |
+| 29 | [Kraft](http://twitter.com/search?q=Kraft) | N/A |
+| 30 | [De Fries](http://twitter.com/search?q=De+Fries) | N/A |
+| 31 | [Bury](http://twitter.com/search?q=Bury) | N/A |
+| 32 | [Niedzieli](http://twitter.com/search?q=Niedzieli) | N/A |
+| 33 | [Interu](http://twitter.com/search?q=Interu) | N/A |
+| 34 | [Niemcom](http://twitter.com/search?q=Niemcom) | N/A |
+| 35 | [Ruchu](http://twitter.com/search?q=Ruchu) | N/A |
+| 36 | [Fogla](http://twitter.com/search?q=Fogla) | N/A |
+| 37 | [Granerud](http://twitter.com/search?q=Granerud) | N/A |
+| 38 | [Pani Marto](http://twitter.com/search?q=Pani+Marto) | N/A |
+| 39 | [Alvaro](http://twitter.com/search?q=Alvaro) | N/A |
+| 40 | [Kamil Stoch](http://twitter.com/search?q=Kamil+Stoch) | N/A |
+| 41 | [Miłej](http://twitter.com/search?q=Mi%c5%82ej) | N/A |
+| 42 | [Rasak](http://twitter.com/search?q=Rasak) | N/A |
+| 43 | [Błogosławionej](http://twitter.com/search?q=B%c5%82ogos%c5%82awionej) | N/A |
+| 44 | [Jeff](http://twitter.com/search?q=Jeff) | N/A |
+| 45 | [Mt 4](http://twitter.com/search?q=Mt+4) | N/A |
+| 46 | [Michalik](http://twitter.com/search?q=Michalik) | N/A |
+| 47 | [bronder](http://twitter.com/search?q=bronder) | N/A |
+| 48 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
+| 49 | [Stankiewicz](http://twitter.com/search?q=Stankiewicz) | N/A |
+| 50 | [Leopardy](http://twitter.com/search?q=Leopardy) | N/A |
 
 
 

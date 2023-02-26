@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pekanbaru
 
-📆 Last Updated: `2023-02-26 13:19:50 UTC`
+📆 Last Updated: `2023-02-26 14:15:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,52 +16,55 @@ This is top 50 for [Indonesia](</Indonesia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Jeff](http://twitter.com/search?q=Jeff) | N/A |
-| 2 | [#SetoOut](http://twitter.com/search?q=%23SetoOut) | N/A |
-| 3 | [#TheEndofKinnPorsche](http://twitter.com/search?q=%23TheEndofKinnPorsche) | N/A |
-| 4 | [#1000DAYS_SARANGHEE](http://twitter.com/search?q=%231000DAYS_SARANGHEE) | N/A |
-| 5 | [TogHEEther for a THOUSAND DAYS](http://twitter.com/search?q=TogHEEther+for+a+THOUSAND+DAYS) | N/A |
-| 6 | [#AskHelga](http://twitter.com/search?q=%23AskHelga) | N/A |
-| 7 | [Koeun](http://twitter.com/search?q=Koeun) | N/A |
-| 8 | [#KPWTBKKWTF](http://twitter.com/search?q=%23KPWTBKKWTF) | N/A |
-| 9 | [Great Hall](http://twitter.com/search?q=Great+Hall) | N/A |
-| 10 | [Jerome](http://twitter.com/search?q=Jerome) | N/A |
-| 11 | [Jiraiya](http://twitter.com/search?q=Jiraiya) | N/A |
-| 12 | [Purel](http://twitter.com/search?q=Purel) | N/A |
-| 13 | [FOREVER YOURS BUILD](http://twitter.com/search?q=FOREVER+YOURS+BUILD) | N/A |
-| 14 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 15 | [haechan sunbaenim](http://twitter.com/search?q=haechan+sunbaenim) | N/A |
-| 16 | [Besok Senin](http://twitter.com/search?q=Besok+Senin) | N/A |
-| 17 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 18 | [THANK YOU AESPA](http://twitter.com/search?q=THANK+YOU+AESPA) | N/A |
-| 19 | [Neji](http://twitter.com/search?q=Neji) | N/A |
-| 20 | [Didi Kempot](http://twitter.com/search?q=Didi+Kempot) | N/A |
+| 2 | [#TheEndofKinnPorsche](http://twitter.com/search?q=%23TheEndofKinnPorsche) | N/A |
+| 3 | [Skylar](http://twitter.com/search?q=Skylar) | N/A |
+| 4 | [#SetoOut](http://twitter.com/search?q=%23SetoOut) | N/A |
+| 5 | [Bologna](http://twitter.com/search?q=Bologna) | N/A |
+| 6 | [#TOTCHE](http://twitter.com/search?q=%23TOTCHE) | N/A |
+| 7 | [TogHEEther for a THOUSAND DAYS](http://twitter.com/search?q=TogHEEther+for+a+THOUSAND+DAYS) | N/A |
+| 8 | [#1000DAYS_SARANGHEE](http://twitter.com/search?q=%231000DAYS_SARANGHEE) | N/A |
+| 9 | [Ngasih](http://twitter.com/search?q=Ngasih) | N/A |
+| 10 | [#AskHelga](http://twitter.com/search?q=%23AskHelga) | N/A |
+| 11 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 12 | [Koeun](http://twitter.com/search?q=Koeun) | N/A |
+| 13 | [Jack Frost](http://twitter.com/search?q=Jack+Frost) | N/A |
+| 14 | [Jerome](http://twitter.com/search?q=Jerome) | N/A |
+| 15 | [Evos](http://twitter.com/search?q=Evos) | N/A |
+| 16 | [Purel](http://twitter.com/search?q=Purel) | N/A |
+| 17 | [Jiraiya](http://twitter.com/search?q=Jiraiya) | N/A |
+| 18 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 19 | [Besok Senin](http://twitter.com/search?q=Besok+Senin) | N/A |
+| 20 | [Great Hall](http://twitter.com/search?q=Great+Hall) | N/A |
 | 21 | [Moge](http://twitter.com/search?q=Moge) | N/A |
-| 22 | [Itachi](http://twitter.com/search?q=Itachi) | N/A |
-| 23 | [JAEYONG JAYA JAYA JAYA](http://twitter.com/search?q=JAEYONG+JAYA+JAYA+JAYA) | N/A |
-| 24 | [Naruto](http://twitter.com/search?q=Naruto) | N/A |
-| 25 | [jhope](http://twitter.com/search?q=jhope) | N/A |
-| 26 | [Jorok](http://twitter.com/search?q=Jorok) | N/A |
-| 27 | [Hari RPL Desa](http://twitter.com/search?q=Hari+RPL+Desa) | N/A |
-| 28 | [Giselle](http://twitter.com/search?q=Giselle) | N/A |
-| 29 | [ningning](http://twitter.com/search?q=ningning) | N/A |
-| 30 | [Perempuan](http://twitter.com/search?q=Perempuan) | N/A |
-| 31 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 32 | [#WannaBeYourLuveForever](http://twitter.com/search?q=%23WannaBeYourLuveForever) | N/A |
-| 33 | [#Tomliwafa](http://twitter.com/search?q=%23Tomliwafa) | N/A |
-| 34 | [#ZeeLetter](http://twitter.com/search?q=%23ZeeLetter) | N/A |
-| 35 | [#CarabaoCup](http://twitter.com/search?q=%23CarabaoCup) | #CarabaoCup is the official hashtag for the English Football League Cup, a knockout competition for teams in the top four tiers of English football. The competition is sponsored by Carabao, an energy drink company. |
-| 36 | [#HEESEUNG](http://twitter.com/search?q=%23HEESEUNG) | N/A |
-| 37 | [#TeddyBear4thWin](http://twitter.com/search?q=%23TeddyBear4thWin) | N/A |
-| 38 | [#KhilafClubFebruari](http://twitter.com/search?q=%23KhilafClubFebruari) | N/A |
-| 39 | [#SuaraMantraTerkutuk](http://twitter.com/search?q=%23SuaraMantraTerkutuk) | N/A |
-| 40 | [#KemeriahanGanjarCiamis](http://twitter.com/search?q=%23KemeriahanGanjarCiamis) | N/A |
-| 41 | [#HollaEighteen](http://twitter.com/search?q=%23HollaEighteen) | N/A |
-| 42 | [#GIFT_tokyodome](http://twitter.com/search?q=%23GIFT_tokyodome) | N/A |
-| 43 | [#Highway](http://twitter.com/search?q=%23Highway) | N/A |
-| 44 | [#PersijaDay](http://twitter.com/search?q=%23PersijaDay) | N/A |
-| 45 | [#ShanDay](http://twitter.com/search?q=%23ShanDay) | N/A |
-| 46 | [#BoycottCaratBongVer3](http://twitter.com/search?q=%23BoycottCaratBongVer3) | N/A |
-| 47 | [#BibleWichapas](http://twitter.com/search?q=%23BibleWichapas) | N/A |
+| 22 | [FOREVER YOURS BUILD](http://twitter.com/search?q=FOREVER+YOURS+BUILD) | N/A |
+| 23 | [Barcode](http://twitter.com/search?q=Barcode) | N/A |
+| 24 | [haechan sunbaenim](http://twitter.com/search?q=haechan+sunbaenim) | N/A |
+| 25 | [Titik](http://twitter.com/search?q=Titik) | N/A |
+| 26 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 27 | [THANK YOU AESPA](http://twitter.com/search?q=THANK+YOU+AESPA) | N/A |
+| 28 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 29 | [Minato](http://twitter.com/search?q=Minato) | N/A |
+| 30 | [Neji](http://twitter.com/search?q=Neji) | N/A |
+| 31 | [Didi Kempot](http://twitter.com/search?q=Didi+Kempot) | N/A |
+| 32 | [Naruto](http://twitter.com/search?q=Naruto) | N/A |
+| 33 | [Itachi](http://twitter.com/search?q=Itachi) | N/A |
+| 34 | [JAEYONG JAYA JAYA JAYA](http://twitter.com/search?q=JAEYONG+JAYA+JAYA+JAYA) | N/A |
+| 35 | [jhope](http://twitter.com/search?q=jhope) | N/A |
+| 36 | [Jorok](http://twitter.com/search?q=Jorok) | N/A |
+| 37 | [Danau Toba](http://twitter.com/search?q=Danau+Toba) | N/A |
+| 38 | [Hari RPL Desa](http://twitter.com/search?q=Hari+RPL+Desa) | N/A |
+| 39 | [ningning](http://twitter.com/search?q=ningning) | N/A |
+| 40 | [Perempuan](http://twitter.com/search?q=Perempuan) | N/A |
+| 41 | [#KPWTBKKWTF](http://twitter.com/search?q=%23KPWTBKKWTF) | N/A |
+| 42 | [#WannaBeYourLuveForever](http://twitter.com/search?q=%23WannaBeYourLuveForever) | N/A |
+| 43 | [#CarabaoCup](http://twitter.com/search?q=%23CarabaoCup) | #CarabaoCup is the official hashtag for the English Football League Cup, a knockout competition for teams in the top four tiers of English football. The competition is sponsored by Carabao, an energy drink company. |
+| 44 | [#HEESEUNG](http://twitter.com/search?q=%23HEESEUNG) | N/A |
+| 45 | [#ZeeLetter](http://twitter.com/search?q=%23ZeeLetter) | N/A |
+| 46 | [#Tomliwafa](http://twitter.com/search?q=%23Tomliwafa) | N/A |
+| 47 | [#KhilafClubFebruari](http://twitter.com/search?q=%23KhilafClubFebruari) | N/A |
+| 48 | [#kemeriahanganjarciamis](http://twitter.com/search?q=%23kemeriahanganjarciamis) | N/A |
+| 49 | [#SuaraMantraTerkutuk](http://twitter.com/search?q=%23SuaraMantraTerkutuk) | N/A |
+| 50 | [#HollaEighteen](http://twitter.com/search?q=%23HollaEighteen) | N/A |
 
 
 

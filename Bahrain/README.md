@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bahrain
 
-📆 Last Updated: `2023-02-26 13:20:23 UTC`
+📆 Last Updated: `2023-02-26 14:16:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Bahrain
 | 1 | [#ناصر_بن_حمد](http://twitter.com/search?q=%23%d9%86%d8%a7%d8%b5%d8%b1_%d8%a8%d9%86_%d8%ad%d9%85%d8%af) | N/A |
 | 2 | [الكويت](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d9%88%d9%8a%d8%aa) | N/A |
 | 3 | [#مولد_السجاد](http://twitter.com/search?q=%23%d9%85%d9%88%d9%84%d8%af_%d8%a7%d9%84%d8%b3%d8%ac%d8%a7%d8%af) | N/A |
-| 4 | [#مولد_العباس](http://twitter.com/search?q=%23%d9%85%d9%88%d9%84%d8%af_%d8%a7%d9%84%d8%b9%d8%a8%d8%a7%d8%b3) | N/A |
-| 5 | [زين العابدين](http://twitter.com/search?q=%d8%b2%d9%8a%d9%86+%d8%a7%d9%84%d8%b9%d8%a7%d8%a8%d8%af%d9%8a%d9%86) | N/A |
-| 6 | [زين العباد](http://twitter.com/search?q=%d8%b2%d9%8a%d9%86+%d8%a7%d9%84%d8%b9%d8%a8%d8%a7%d8%af) | N/A |
+| 4 | [زين العابدين](http://twitter.com/search?q=%d8%b2%d9%8a%d9%86+%d8%a7%d9%84%d8%b9%d8%a7%d8%a8%d8%af%d9%8a%d9%86) | N/A |
+| 5 | [زين العباد](http://twitter.com/search?q=%d8%b2%d9%8a%d9%86+%d8%a7%d9%84%d8%b9%d8%a8%d8%a7%d8%af) | N/A |
+| 6 | [#حبيبي_عباس](http://twitter.com/search?q=%23%d8%ad%d8%a8%d9%8a%d8%a8%d9%8a_%d8%b9%d8%a8%d8%a7%d8%b3) | N/A |
 | 7 | [#قمر_بني_هاشم](http://twitter.com/search?q=%23%d9%82%d9%85%d8%b1_%d8%a8%d9%86%d9%8a_%d9%87%d8%a7%d8%b4%d9%85) | N/A |
 | 8 | [التقي النقي الطاهر العلم](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%82%d9%8a+%d8%a7%d9%84%d9%86%d9%82%d9%8a+%d8%a7%d9%84%d8%b7%d8%a7%d9%87%d8%b1+%d8%a7%d9%84%d8%b9%d9%84%d9%85) | N/A |
 | 9 | [#النصر_ضمك](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%86%d8%b5%d8%b1_%d8%b6%d9%85%d9%83) | N/A |
 | 10 | [علي بن الحسين](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a8%d9%86+%d8%a7%d9%84%d8%ad%d8%b3%d9%8a%d9%86) | N/A |
-| 11 | [انشيلوتي](http://twitter.com/search?q=%d8%a7%d9%86%d8%b4%d9%8a%d9%84%d9%88%d8%aa%d9%8a) | انشيلوتي (Anshiloti) is a type of traditional Arabic music and dance. It is characterized by its fast tempo and intricate rhythms. The word "Anshiloti" comes from the Arabic root word "anshil" which means to move quickly. In English, it can be translated as "quick dance". |
-| 12 | [وطن النهار](http://twitter.com/search?q=%d9%88%d8%b7%d9%86+%d8%a7%d9%84%d9%86%d9%87%d8%a7%d8%b1) | N/A |
-| 13 | [كورتوا](http://twitter.com/search?q=%d9%83%d9%88%d8%b1%d8%aa%d9%88%d8%a7) | كورتوا is a type of traditional Iraqi dish made with bulgur wheat, onions, and spices. It is usually served with yogurt or tahini sauce. In English, it is known as Korto or Korto Pilaf. |
-| 14 | [٢٥ فبراير](http://twitter.com/search?q=%d9%a2%d9%a5+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1) | N/A |
-| 15 | [كريستيانو](http://twitter.com/search?q=%d9%83%d8%b1%d9%8a%d8%b3%d8%aa%d9%8a%d8%a7%d9%86%d9%88) | كريستيانو is the Portuguese name for the football player Cristiano Ronaldo. In English, it translates to "Cristiano". |
-| 16 | [العيد الوطني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%8a%d8%af+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
-| 17 | [نعمه الامن](http://twitter.com/search?q=%d9%86%d8%b9%d9%85%d9%87+%d8%a7%d9%84%d8%a7%d9%85%d9%86) | N/A |
-| 18 | [ابن فاطمه](http://twitter.com/search?q=%d8%a7%d8%a8%d9%86+%d9%81%d8%a7%d8%b7%d9%85%d9%87) | N/A |
-| 19 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
-| 20 | [علي الناس](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%86%d8%a7%d8%b3) | N/A |
-| 21 | [Bahrain](http://twitter.com/search?q=Bahrain) | N/A |
+| 11 | [وطن النهار](http://twitter.com/search?q=%d9%88%d8%b7%d9%86+%d8%a7%d9%84%d9%86%d9%87%d8%a7%d8%b1) | N/A |
+| 12 | [نعمه الامن](http://twitter.com/search?q=%d9%86%d8%b9%d9%85%d9%87+%d8%a7%d9%84%d8%a7%d9%85%d9%86) | N/A |
+| 13 | [٢٥ فبراير](http://twitter.com/search?q=%d9%a2%d9%a5+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1) | N/A |
+| 14 | [كريستيانو](http://twitter.com/search?q=%d9%83%d8%b1%d9%8a%d8%b3%d8%aa%d9%8a%d8%a7%d9%86%d9%88) | كريستيانو is the Portuguese name for the football player Cristiano Ronaldo. In English, it translates to "Cristiano". |
+| 15 | [العيد الوطني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%8a%d8%af+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
+| 16 | [بنزيما](http://twitter.com/search?q=%d8%a8%d9%86%d8%b2%d9%8a%d9%85%d8%a7) | بنزيما (benzema) is a surname of Arabic origin. It is derived from the Arabic word "bin zamān" which means "son of time". In English, it can be translated to mean "son of time". |
+| 17 | [ابن فاطمه](http://twitter.com/search?q=%d8%a7%d8%a8%d9%86+%d9%81%d8%a7%d8%b7%d9%85%d9%87) | N/A |
+| 18 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
+| 19 | [علي الناس](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%86%d8%a7%d8%b3) | N/A |
+| 20 | [إيران](http://twitter.com/search?q=%d8%a5%d9%8a%d8%b1%d8%a7%d9%86) | N/A |
+| 21 | [لبنان](http://twitter.com/search?q=%d9%84%d8%a8%d9%86%d8%a7%d9%86) | لبنان (Lebanon) is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its capital and largest city is Beirut. The name Lebanon comes from the Semitic root lbn, meaning "white," likely a reference to the snow-capped Mount Lebanon. |
 | 22 | [بيت علي](http://twitter.com/search?q=%d8%a8%d9%8a%d8%aa+%d8%b9%d9%84%d9%8a) | N/A |
 | 23 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
 | 24 | [اليوم الوطني](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
 | 25 | [الملك المعظم](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%84%d9%83+%d8%a7%d9%84%d9%85%d8%b9%d8%b8%d9%85) | N/A |
-| 26 | [علي حسب](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%ad%d8%b3%d8%a8) | N/A |
-| 27 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
-| 28 | [اسرائيل](http://twitter.com/search?q=%d8%a7%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84) | N/A |
-| 29 | [فيصل](http://twitter.com/search?q=%d9%81%d9%8a%d8%b5%d9%84) | N/A |
-| 30 | [والبحرين](http://twitter.com/search?q=%d9%88%d8%a7%d9%84%d8%a8%d8%ad%d8%b1%d9%8a%d9%86) | N/A |
-| 31 | [ارسنال](http://twitter.com/search?q=%d8%a7%d8%b1%d8%b3%d9%86%d8%a7%d9%84) | ارسنال (Arsenal) is a professional football club based in London, England. It is one of the most successful clubs in English football, having won 13 First Division and Premier League titles and a record 14 FA Cups. The club's name is derived from the Royal Arsenal, an armaments factory in Woolwich, south-east London. |
-| 32 | [بن علي](http://twitter.com/search?q=%d8%a8%d9%86+%d8%b9%d9%84%d9%8a) | N/A |
-| 33 | [فاطمة](http://twitter.com/search?q=%d9%81%d8%a7%d8%b7%d9%85%d8%a9) | N/A |
-| 34 | [ابو فاضل](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d9%81%d8%a7%d8%b6%d9%84) | N/A |
-| 35 | [اوروبا](http://twitter.com/search?q=%d8%a7%d9%88%d8%b1%d9%88%d8%a8%d8%a7) | N/A |
-| 36 | [ابن تيمية](http://twitter.com/search?q=%d8%a7%d8%a8%d9%86+%d8%aa%d9%8a%d9%85%d9%8a%d8%a9) | N/A |
-| 37 | [تشافي](http://twitter.com/search?q=%d8%aa%d8%b4%d8%a7%d9%81%d9%8a) | تشافي is an Arabic word that means "enjoyment" or "pleasure". In English, it can be translated as "having a good time" or "having fun". |
-| 38 | [سلطان](http://twitter.com/search?q=%d8%b3%d9%84%d8%b7%d8%a7%d9%86) | N/A |
-| 39 | [لبنان](http://twitter.com/search?q=%d9%84%d8%a8%d9%86%d8%a7%d9%86) | لبنان (Lebanon) is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its capital and largest city is Beirut. The name Lebanon comes from the Semitic root lbn, meaning "white," likely a reference to the snow-capped Mount Lebanon. |
+| 26 | [انشيلوتي](http://twitter.com/search?q=%d8%a7%d9%86%d8%b4%d9%8a%d9%84%d9%88%d8%aa%d9%8a) | انشيلوتي (Anshiloti) is a type of traditional Arabic music and dance. It is characterized by its fast tempo and intricate rhythms. The word "Anshiloti" comes from the Arabic root word "anshil" which means to move quickly. In English, it can be translated as "quick dance". |
+| 27 | [علي حسب](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%ad%d8%b3%d8%a8) | N/A |
+| 28 | [الانتر](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%b1) | الانتر is an Arabic word that means "internet". In English, it is translated as "the internet". |
+| 29 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
+| 30 | [اسرائيل](http://twitter.com/search?q=%d8%a7%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84) | N/A |
+| 31 | [فيصل](http://twitter.com/search?q=%d9%81%d9%8a%d8%b5%d9%84) | N/A |
+| 32 | [والبحرين](http://twitter.com/search?q=%d9%88%d8%a7%d9%84%d8%a8%d8%ad%d8%b1%d9%8a%d9%86) | N/A |
+| 33 | [اوروبا](http://twitter.com/search?q=%d8%a7%d9%88%d8%b1%d9%88%d8%a8%d8%a7) | N/A |
+| 34 | [ارسنال](http://twitter.com/search?q=%d8%a7%d8%b1%d8%b3%d9%86%d8%a7%d9%84) | ارسنال (Arsenal) is a professional football club based in London, England. It is one of the most successful clubs in English football, having won 13 First Division and Premier League titles and a record 14 FA Cups. The club's name is derived from the Royal Arsenal, an armaments factory in Woolwich, south-east London. |
+| 35 | [بن علي](http://twitter.com/search?q=%d8%a8%d9%86+%d8%b9%d9%84%d9%8a) | N/A |
+| 36 | [فاطمة](http://twitter.com/search?q=%d9%81%d8%a7%d8%b7%d9%85%d8%a9) | N/A |
+| 37 | [ابو فاضل](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d9%81%d8%a7%d8%b6%d9%84) | N/A |
+| 38 | [open now](http://twitter.com/search?q=open+now) | N/A |
+| 39 | [سلطان](http://twitter.com/search?q=%d8%b3%d9%84%d8%b7%d8%a7%d9%86) | N/A |
 | 40 | [تين هاغ](http://twitter.com/search?q=%d8%aa%d9%8a%d9%86+%d9%87%d8%a7%d8%ba) | N/A |
 | 41 | [باب المولي](http://twitter.com/search?q=%d8%a8%d8%a7%d8%a8+%d8%a7%d9%84%d9%85%d9%88%d9%84%d9%8a) | N/A |
-| 42 | [علي قلب](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%82%d9%84%d8%a8) | N/A |
-| 43 | [ايران](http://twitter.com/search?q=%d8%a7%d9%8a%d8%b1%d8%a7%d9%86) | N/A |
-| 44 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 45 | [بنزيما](http://twitter.com/search?q=%d8%a8%d9%86%d8%b2%d9%8a%d9%85%d8%a7) | بنزيما (benzema) is a surname of Arabic origin. It is derived from the Arabic word "bin zamān" which means "son of time". In English, it can be translated to mean "son of time". |
+| 42 | [ابن تيمية](http://twitter.com/search?q=%d8%a7%d8%a8%d9%86+%d8%aa%d9%8a%d9%85%d9%8a%d8%a9) | N/A |
+| 43 | [تشافي](http://twitter.com/search?q=%d8%aa%d8%b4%d8%a7%d9%81%d9%8a) | تشافي is an Arabic word that means "enjoyment" or "pleasure". In English, it can be translated as "having a good time" or "having fun". |
+| 44 | [نابولي](http://twitter.com/search?q=%d9%86%d8%a7%d8%a8%d9%88%d9%84%d9%8a) | نابولي is a dialect of Arabic spoken in the city of Naples, Italy. It is a combination of Arabic, Italian, and Neapolitan dialects. In English, it can be translated as "Neapolitan Arabic". |
+| 45 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
 | 46 | [سالم](http://twitter.com/search?q=%d8%b3%d8%a7%d9%84%d9%85) | سالم (pronounced sa-lem) is an Arabic word meaning "safe" or "healthy". It is often used as a greeting or to wish someone well. |
 | 47 | [الشوط الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | الشوط الثاني is an Arabic phrase meaning "the second round". It is often used to refer to a second attempt at something, such as a second try at a test or a second attempt at a project. |
 | 48 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
 | 49 | [بني ادم](http://twitter.com/search?q=%d8%a8%d9%86%d9%8a+%d8%a7%d8%af%d9%85) | N/A |
-| 50 | [ايطاليا](http://twitter.com/search?q=%d8%a7%d9%8a%d8%b7%d8%a7%d9%84%d9%8a%d8%a7) | N/A |
+| 50 | [اليوفي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%81%d9%8a) | اليوفي is a type of Arabic script used in the Middle East and North Africa. It is also known as Kufic script, and its name comes from the city of Kufa in Iraq. In English, اليوفي translates to "Kufic". |
 
 
 
