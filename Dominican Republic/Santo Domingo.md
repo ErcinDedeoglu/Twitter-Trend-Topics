@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santo Domingo
 
-📆 Last Updated: `2023-02-26 07:15:27 UTC`
+📆 Last Updated: `2023-02-26 08:16:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,10 +21,10 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 4 | [junior tolentino](http://twitter.com/search?q=junior+tolentino) | N/A |
 | 5 | [puerta de la misericordia](http://twitter.com/search?q=puerta+de+la+misericordia) | N/A |
 | 6 | [#padredelapatria](http://twitter.com/search?q=%23padredelapatria) | N/A |
-| 7 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 8 | [#JHOPE](http://twitter.com/search?q=%23JHOPE) | N/A |
-| 9 | [Independencia Nacional](http://twitter.com/search?q=Independencia+Nacional) | N/A |
-| 10 | [Independencia Nacional](http://twitter.com/search?q=Independencia+Nacional) | N/A |
+| 7 | [#JHOPE](http://twitter.com/search?q=%23JHOPE) | N/A |
+| 8 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
+| 9 | [independencia nacional](http://twitter.com/search?q=independencia+nacional) | N/A |
+| 10 | [independencia nacional](http://twitter.com/search?q=independencia+nacional) | N/A |
 | 11 | [Chicho](http://twitter.com/search?q=Chicho) | N/A |
 | 12 | [Pricesmart](http://twitter.com/search?q=Pricesmart) | N/A |
 | 13 | [mi vivienda](http://twitter.com/search?q=mi+vivienda) | N/A |
@@ -35,24 +35,24 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 18 | [Jorge Drexler](http://twitter.com/search?q=Jorge+Drexler) | N/A |
 | 19 | [Matt Pobereyko](http://twitter.com/search?q=Matt+Pobereyko) | N/A |
 | 20 | [Horford](http://twitter.com/search?q=Horford) | Horford is a surname of Spanish origin. It is derived from the Latin word "horreum" which means granary or storehouse. The name is most commonly associated with Al Horford, an American professional basketball player who currently plays for the Philadelphia 76ers. |
-| 21 | [Asamblea Nacional](http://twitter.com/search?q=Asamblea+Nacional) | N/A |
-| 22 | [Juan Pablo Duarte](http://twitter.com/search?q=Juan+Pablo+Duarte) | Juan Pablo Duarte is a national hero of the Dominican Republic. He was a key figure in the struggle for independence from Haiti in 1844. His name is often used as a symbol of freedom and patriotism in the Dominican Republic. In English, his name translates to "John Paul Duarte". |
-| 23 | [santiago y moca](http://twitter.com/search?q=santiago+y+moca) | N/A |
-| 24 | [Alexandra](http://twitter.com/search?q=Alexandra) | N/A |
-| 25 | [Nuria](http://twitter.com/search?q=Nuria) | N/A |
-| 26 | [pepca](http://twitter.com/search?q=pepca) | N/A |
+| 21 | [Juan Pablo Duarte](http://twitter.com/search?q=Juan+Pablo+Duarte) | Juan Pablo Duarte is a national hero of the Dominican Republic. He was a key figure in the struggle for independence from Haiti in 1844. His name is often used as a symbol of freedom and patriotism in the Dominican Republic. In English, his name translates to "John Paul Duarte". |
+| 22 | [santiago y moca](http://twitter.com/search?q=santiago+y+moca) | N/A |
+| 23 | [Alexandra](http://twitter.com/search?q=Alexandra) | N/A |
+| 24 | [Nuria](http://twitter.com/search?q=Nuria) | N/A |
+| 25 | [pepca](http://twitter.com/search?q=pepca) | N/A |
+| 26 | [Asamblea Nacional](http://twitter.com/search?q=Asamblea+Nacional) | N/A |
 | 27 | [Hoy 25](http://twitter.com/search?q=Hoy+25) | N/A |
-| 28 | [Rosario Espinal](http://twitter.com/search?q=Rosario+Espinal) | N/A |
+| 28 | [rosario espinal](http://twitter.com/search?q=rosario+espinal) | N/A |
 | 29 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
 | 30 | [víctor gómez bergés](http://twitter.com/search?q=v%c3%adctor+g%c3%b3mez+berg%c3%a9s) | N/A |
 | 31 | [Feid](http://twitter.com/search?q=Feid) | N/A |
-| 32 | [botello](http://twitter.com/search?q=botello) | N/A |
+| 32 | [Botello](http://twitter.com/search?q=Botello) | N/A |
 | 33 | [taíno bay](http://twitter.com/search?q=ta%c3%adno+bay) | N/A |
 | 34 | [iqtek](http://twitter.com/search?q=iqtek) | N/A |
-| 35 | [Montecristi](http://twitter.com/search?q=Montecristi) | N/A |
+| 35 | [montecristi](http://twitter.com/search?q=montecristi) | N/A |
 | 36 | [Gamal](http://twitter.com/search?q=Gamal) | N/A |
 | 37 | [Anuel](http://twitter.com/search?q=Anuel) | N/A |
-| 38 | [Christian De La Rocha](http://twitter.com/search?q=Christian+De+La+Rocha) | N/A |
+| 38 | [christian de la rocha](http://twitter.com/search?q=christian+de+la+rocha) | N/A |
 | 39 | [Ferxxo](http://twitter.com/search?q=Ferxxo) | Ferxxo is a slang term used in Spanish-speaking countries to describe someone who is cool, stylish, and fashionable. It can also be used to describe someone who is confident and outgoing. In English, it could be translated as "cool cat" or "trendsetter". |
 | 40 | [El 27](http://twitter.com/search?q=El+27) | N/A |
 | 41 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |

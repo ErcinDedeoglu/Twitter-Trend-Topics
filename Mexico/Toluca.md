@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Toluca
 
-📆 Last Updated: `2023-02-26 07:15:30 UTC`
+📆 Last Updated: `2023-02-26 08:16:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,48 +20,48 @@ This is top 50 for [Mexico](</Mexico>)
 | 3 | [Jiménez](http://twitter.com/search?q=Jim%c3%a9nez) | N/A |
 | 4 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
 | 5 | [Tano](http://twitter.com/search?q=Tano) | N/A |
-| 6 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
-| 7 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
-| 8 | [WE LOVE YOU JHOPE](http://twitter.com/search?q=WE+LOVE+YOU+JHOPE) | N/A |
-| 9 | [Layun](http://twitter.com/search?q=Layun) | N/A |
-| 10 | [Malagón](http://twitter.com/search?q=Malag%c3%b3n) | N/A |
-| 11 | [NO ESTOY SOPORTANDO](http://twitter.com/search?q=NO+ESTOY+SOPORTANDO) | N/A |
-| 12 | [UNTIL WE MEET AGAIN](http://twitter.com/search?q=UNTIL+WE+MEET+AGAIN) | N/A |
-| 13 | [Viñas](http://twitter.com/search?q=Vi%c3%b1as) | N/A |
+| 6 | [#JHOPE](http://twitter.com/search?q=%23JHOPE) | N/A |
+| 7 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
+| 8 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
+| 9 | [Malagón](http://twitter.com/search?q=Malag%c3%b3n) | N/A |
+| 10 | [UNTIL WE MEET AGAIN](http://twitter.com/search?q=UNTIL+WE+MEET+AGAIN) | N/A |
+| 11 | [Layun](http://twitter.com/search?q=Layun) | N/A |
+| 12 | [NO ESTOY SOPORTANDO](http://twitter.com/search?q=NO+ESTOY+SOPORTANDO) | N/A |
+| 13 | [Weverse](http://twitter.com/search?q=Weverse) | Weverse is a social media platform created by the South Korean entertainment company Big Hit Entertainment. It is designed to connect fans with artists and allow them to interact with each other. The name Weverse is derived from the words “we” and “universe”, representing the idea of creating a universe where fans and artists can come together. |
 | 14 | [Lozano](http://twitter.com/search?q=Lozano) | N/A |
-| 15 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
-| 16 | [Weverse](http://twitter.com/search?q=Weverse) | Weverse is a social media platform created by the South Korean entertainment company Big Hit Entertainment. It is designed to connect fans with artists and allow them to interact with each other. The name Weverse is derived from the words “we” and “universe”, representing the idea of creating a universe where fans and artists can come together. |
+| 15 | [Viñas](http://twitter.com/search?q=Vi%c3%b1as) | N/A |
+| 16 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
 | 17 | [Henry](http://twitter.com/search?q=Henry) | N/A |
-| 18 | [#SabadoBotanero](http://twitter.com/search?q=%23SabadoBotanero) | N/A |
-| 19 | [Fidalgo](http://twitter.com/search?q=Fidalgo) | N/A |
-| 20 | [Reyes](http://twitter.com/search?q=Reyes) | Reyes is a Spanish word meaning "kings". It is derived from the Latin word rex, which means "king". |
-| 21 | [Ochoa](http://twitter.com/search?q=Ochoa) | Ochoa is a Spanish surname. It is derived from the Latin word "octavus," which means "eighth." The name is thought to have originated as a nickname for someone who was the eighth child in their family. In English, Ochoa can be translated to mean "eighth." |
-| 22 | [BIGHIT](http://twitter.com/search?q=BIGHIT) | N/A |
+| 18 | [Fidalgo](http://twitter.com/search?q=Fidalgo) | N/A |
+| 19 | [Ochoa](http://twitter.com/search?q=Ochoa) | Ochoa is a Spanish surname. It is derived from the Latin word "octavus," which means "eighth." The name is thought to have originated as a nickname for someone who was the eighth child in their family. In English, Ochoa can be translated to mean "eighth." |
+| 20 | [BIGHIT](http://twitter.com/search?q=BIGHIT) | N/A |
+| 21 | [Roger](http://twitter.com/search?q=Roger) | N/A |
+| 22 | [Navarrete](http://twitter.com/search?q=Navarrete) | N/A |
 | 23 | [Chima](http://twitter.com/search?q=Chima) | N/A |
-| 24 | [Roger](http://twitter.com/search?q=Roger) | N/A |
-| 25 | [Navarrete](http://twitter.com/search?q=Navarrete) | N/A |
-| 26 | [Quiñones](http://twitter.com/search?q=Qui%c3%b1ones) | Quiñones is a Spanish surname derived from the Latin word "quinonem," which means "fifth." It is a common surname in Spain, Latin America, and the Philippines. In English, it can be translated to mean "the fifth one." |
-| 27 | [NO PUEDE SER](http://twitter.com/search?q=NO+PUEDE+SER) | N/A |
-| 28 | [#RebNosDropeo](http://twitter.com/search?q=%23RebNosDropeo) | N/A |
-| 29 | [#ECDQEMSD](http://twitter.com/search?q=%23ECDQEMSD) | N/A |
-| 30 | [Aquino](http://twitter.com/search?q=Aquino) | N/A |
-| 31 | [Mozo](http://twitter.com/search?q=Mozo) | N/A |
-| 32 | [NO ESTOY LISTA](http://twitter.com/search?q=NO+ESTOY+LISTA) | N/A |
-| 33 | [Santander](http://twitter.com/search?q=Santander) | N/A |
-| 34 | [Gignac](http://twitter.com/search?q=Gignac) | Gignac is a French surname. It is derived from the Old French word "gaigner", which means "to cultivate". In English, it can be translated to mean "farmer". |
-| 35 | [Aluxe](http://twitter.com/search?q=Aluxe) | N/A |
-| 36 | [Cabecita](http://twitter.com/search?q=Cabecita) | N/A |
-| 37 | [Lara](http://twitter.com/search?q=Lara) | N/A |
+| 24 | [Reyes](http://twitter.com/search?q=Reyes) | Reyes is a Spanish word meaning "kings". It is derived from the Latin word rex, which means "king". |
+| 25 | [Verona](http://twitter.com/search?q=Verona) | N/A |
+| 26 | [#ECDQEMSD](http://twitter.com/search?q=%23ECDQEMSD) | N/A |
+| 27 | [Aquino](http://twitter.com/search?q=Aquino) | N/A |
+| 28 | [Quiñones](http://twitter.com/search?q=Qui%c3%b1ones) | Quiñones is a Spanish surname derived from the Latin word "quinonem," which means "fifth." It is a common surname in Spain, Latin America, and the Philippines. In English, it can be translated to mean "the fifth one." |
+| 29 | [NO PUEDE SER](http://twitter.com/search?q=NO+PUEDE+SER) | N/A |
+| 30 | [#RebNosDropeo](http://twitter.com/search?q=%23RebNosDropeo) | N/A |
+| 31 | [Santander](http://twitter.com/search?q=Santander) | N/A |
+| 32 | [Danna Paola](http://twitter.com/search?q=Danna+Paola) | N/A |
+| 33 | [Aluxe](http://twitter.com/search?q=Aluxe) | N/A |
+| 34 | [Lara](http://twitter.com/search?q=Lara) | N/A |
+| 35 | [NO ESTOY LISTA](http://twitter.com/search?q=NO+ESTOY+LISTA) | N/A |
+| 36 | [Gignac](http://twitter.com/search?q=Gignac) | Gignac is a French surname. It is derived from the Old French word "gaigner", which means "to cultivate". In English, it can be translated to mean "farmer". |
+| 37 | [Mozo](http://twitter.com/search?q=Mozo) | N/A |
 | 38 | [Valdés](http://twitter.com/search?q=Vald%c3%a9s) | N/A |
 | 39 | [Abella](http://twitter.com/search?q=Abella) | N/A |
-| 40 | [Pizarro](http://twitter.com/search?q=Pizarro) | N/A |
-| 41 | [Danna Paola](http://twitter.com/search?q=Danna+Paola) | N/A |
-| 42 | [Lainez](http://twitter.com/search?q=Lainez) | Lainez is a Spanish surname. It is derived from the Latin name "Laneus", which means "from the lane". In English, it can be translated to mean "from the lane". |
-| 43 | [Pauno](http://twitter.com/search?q=Pauno) | Pauno is a Finnish word meaning "to be brave". It is often used as an encouragement to someone to take on a challenge or difficult task. |
-| 44 | [Carioca](http://twitter.com/search?q=Carioca) | N/A |
-| 45 | [Tiba](http://twitter.com/search?q=Tiba) | N/A |
-| 46 | [Camilo Vargas](http://twitter.com/search?q=Camilo+Vargas) | N/A |
-| 47 | [Fuentes](http://twitter.com/search?q=Fuentes) | N/A |
+| 40 | [Pauno](http://twitter.com/search?q=Pauno) | Pauno is a Finnish word meaning "to be brave". It is often used as an encouragement to someone to take on a challenge or difficult task. |
+| 41 | [Pizarro](http://twitter.com/search?q=Pizarro) | N/A |
+| 42 | [Tiba](http://twitter.com/search?q=Tiba) | N/A |
+| 43 | [NO AUTORIZO](http://twitter.com/search?q=NO+AUTORIZO) | N/A |
+| 44 | [Fuentes](http://twitter.com/search?q=Fuentes) | N/A |
+| 45 | [Dedales](http://twitter.com/search?q=Dedales) | N/A |
+| 46 | [Cobarde](http://twitter.com/search?q=Cobarde) | N/A |
+| 47 | [Córdova](http://twitter.com/search?q=C%c3%b3rdova) | N/A |
 
 
 

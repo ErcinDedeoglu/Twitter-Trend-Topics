@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Istanbul
 
-📆 Last Updated: `2023-02-26 07:16:03 UTC`
+📆 Last Updated: `2023-02-26 08:16:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,54 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Fenerbahçe](http://twitter.com/search?q=Fenerbah%c3%a7e) | Fenerbahçe is a Turkish sports club based in Istanbul. The name Fenerbahçe translates to "Lighthouse Garden" in English. The club is best known for its football team, which competes in the Turkish Super Lig and is one of the most successful teams in Turkey. |
-| 2 | [#pazar](http://twitter.com/search?q=%23pazar) | #Pazar is a Turkish word meaning "market". It is used to refer to a market or bazaar, where people can buy and sell goods. |
-| 3 | [#İyikiDoğdunMilletinAdamı](http://twitter.com/search?q=%23%c4%b0yikiDo%c4%9fdunMilletinAdam%c4%b1) | N/A |
-| 4 | [#SeninleyizErdoğan](http://twitter.com/search?q=%23SeninleyizErdo%c4%9fan) | N/A |
-| 5 | [#DevletUnutmaz](http://twitter.com/search?q=%23DevletUnutmaz) | N/A |
-| 6 | [İSTİFA ULAN](http://twitter.com/search?q=%c4%b0ST%c4%b0FA+ULAN) | N/A |
-| 7 | [#TariheNot](http://twitter.com/search?q=%23TariheNot) | N/A |
-| 8 | [AHBAP'a 46](http://twitter.com/search?q=AHBAP%27a+46) | N/A |
-| 9 | [Bir Galatasaraylı](http://twitter.com/search?q=Bir+Galatasarayl%c4%b1) | N/A |
-| 10 | [kathimerini gazetesi](http://twitter.com/search?q=kathimerini+gazetesi) | N/A |
-| 11 | [zirvebiziz aytol](http://twitter.com/search?q=zirvebiziz+aytol) | N/A |
-| 12 | [Kızılay](http://twitter.com/search?q=K%c4%b1z%c4%b1lay) | Kızılay is the Turkish Red Crescent, a humanitarian organization that provides aid and assistance to those in need. The name Kızılay comes from the Ottoman Empire era, when it was known as the Imperial Ottoman Society of the Red Crescent. In English, Kızılay translates to "Red Crescent". |
-| 13 | [Ali Koç](http://twitter.com/search?q=Ali+Ko%c3%a7) | Ali Koç is a Turkish surname. It is derived from the Turkish word "koç" which means "ram". In English, Ali Koç would translate to "Ali the Ram". |
-| 14 | [YusufAnnesiyle İyileşsin](http://twitter.com/search?q=YusufAnnesiyle+%c4%b0yile%c5%9fsin) | YusufAnnesiyle İyileşsin is a Turkish phrase that translates to "May he/she be healed with the help of Yusuf's mother". It is often used as a blessing or prayer for someone who is ill. |
-| 15 | [DOLAN DOLAN DOLAN](http://twitter.com/search?q=DOLAN+DOLAN+DOLAN) | N/A |
-| 16 | [hayırlı cumalar](http://twitter.com/search?q=hay%c4%b1rl%c4%b1+cumalar) | N/A |
-| 17 | [ifperformance ankara](http://twitter.com/search?q=ifperformance+ankara) | N/A |
-| 18 | [Aziz Yıldırım](http://twitter.com/search?q=Aziz+Y%c4%b1ld%c4%b1r%c4%b1m) | Aziz Yıldırım is a Turkish name, with Aziz meaning "honored" and Yıldırım meaning "thunder". In English, the name would translate to "Honored Thunder". |
-| 19 | [Aslıhanın Terbiyesizliği](http://twitter.com/search?q=Asl%c4%b1han%c4%b1n+Terbiyesizli%c4%9fi) | N/A |
-| 20 | [Kentsel Dönüşüm](http://twitter.com/search?q=Kentsel+D%c3%b6n%c3%bc%c5%9f%c3%bcm) | N/A |
-| 21 | [orhan gazi](http://twitter.com/search?q=orhan+gazi) | N/A |
-| 22 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 23 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
-| 24 | [Azerbaycanlı](http://twitter.com/search?q=Azerbaycanl%c4%b1) | N/A |
-| 25 | [Rossi](http://twitter.com/search?q=Rossi) | Rossi is an Italian surname. It is derived from the Latin name "Rufus" and means "red-haired" or "ruddy". |
-| 26 | [Lincoln](http://twitter.com/search?q=Lincoln) | Lincoln is a city in England, located in the county of Lincolnshire. It is the county town and administrative centre of Lincolnshire, and is situated on the River Witham. The name Lincoln comes from the Latin name Lindum Colonia, which means "Roman colony by the pool". |
-| 27 | [seçimmührübizde afmeclise](http://twitter.com/search?q=se%c3%a7imm%c3%bchr%c3%bcbizde+afmeclise) | N/A |
-| 28 | [WE LOVE YOU JHOPE](http://twitter.com/search?q=WE+LOVE+YOU+JHOPE) | N/A |
-| 29 | [Beyaz Türk](http://twitter.com/search?q=Beyaz+T%c3%bcrk) | N/A |
-| 30 | [halil umut meler](http://twitter.com/search?q=halil+umut+meler) | N/A |
-| 31 | [Koç Holding](http://twitter.com/search?q=Ko%c3%a7+Holding) | N/A |
-| 32 | [biliniyo](http://twitter.com/search?q=biliniyo) | N/A |
-| 33 | [Günaydınlar](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nlar) | N/A |
-| 34 | [her şey türkiye](http://twitter.com/search?q=her+%c5%9fey+t%c3%bcrkiye) | N/A |
-| 35 | [OYUMUZ CUMHUR İTTİFAKINA](http://twitter.com/search?q=OYUMUZ+CUMHUR+%c4%b0TT%c4%b0FAKINA) | N/A |
-| 36 | [fatma aliye](http://twitter.com/search?q=fatma+aliye) | N/A |
-| 37 | [Arda](http://twitter.com/search?q=Arda) | Arda is a term used in J.R.R. Tolkien's fantasy world of Middle-earth, referring to the world itself and its inhabitants. It is derived from the Quenya word arda, meaning "region" or "realm". |
-| 38 | [Ökkeş Kavak](http://twitter.com/search?q=%c3%96kke%c5%9f+Kavak) | N/A |
-| 39 | [Paralı](http://twitter.com/search?q=Paral%c4%b1) | N/A |
-| 40 | [İrfan](http://twitter.com/search?q=%c4%b0rfan) | İrfan is an Arabic name meaning "knowledge" or "wisdom". It is also used as a Turkish name, and can be spelled as Irfan or Erfan. |
-| 41 | [DOĞUM GÜNÜN KUTLU OLSUN](http://twitter.com/search?q=DO%c4%9eUM+G%c3%9cN%c3%9cN+KUTLU+OLSUN) | N/A |
-| 42 | [Murat Ağırel](http://twitter.com/search?q=Murat+A%c4%9f%c4%b1rel) | N/A |
-| 43 | [Süreyya Önder](http://twitter.com/search?q=S%c3%bcreyya+%c3%96nder) | N/A |
-| 44 | [Mücella Yapıcı](http://twitter.com/search?q=M%c3%bccella+Yap%c4%b1c%c4%b1) | N/A |
-| 45 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 46 | [İlhan Palut](http://twitter.com/search?q=%c4%b0lhan+Palut) | İlhan Palut is a Turkish name. It is composed of two words: İlhan, which means "emperor" or "ruler," and Palut, which means "brave." In English, the name could be translated as "brave ruler." |
-| 47 | [Arao](http://twitter.com/search?q=Arao) | Arao is a Japanese surname. It is written with the characters 革生, which can be translated to mean "leather life". |
-| 48 | [Anıtkabir](http://twitter.com/search?q=An%c4%b1tkabir) | Anıtkabir is the mausoleum of Mustafa Kemal Atatürk, the founder and first president of the Republic of Turkey. The word Anıtkabir translates to "memorial tomb" in English. |
-| 49 | [Gunaydin](http://twitter.com/search?q=Gunaydin) | N/A |
-| 50 | [ADAM RECEP](http://twitter.com/search?q=ADAM+RECEP) | N/A |
+| 1 | [#pazar](http://twitter.com/search?q=%23pazar) | #Pazar is a Turkish word meaning "market". It is used to refer to a market or bazaar, where people can buy and sell goods. |
+| 2 | [#HocaliKatliami](http://twitter.com/search?q=%23HocaliKatliami) | N/A |
+| 3 | [DEVAM ULAN DEVAM](http://twitter.com/search?q=DEVAM+ULAN+DEVAM) | N/A |
+| 4 | [#İyikiDoğdunMilletinAdamı](http://twitter.com/search?q=%23%c4%b0yikiDo%c4%9fdunMilletinAdam%c4%b1) | N/A |
+| 5 | [AHBAP'a 46](http://twitter.com/search?q=AHBAP%27a+46) | N/A |
+| 6 | [#iyikidoğdunreis](http://twitter.com/search?q=%23iyikido%c4%9fdunreis) | N/A |
+| 7 | [#BeşiktaşınMaçıVar](http://twitter.com/search?q=%23Be%c5%9fikta%c5%9f%c4%b1nMa%c3%a7%c4%b1Var) | N/A |
+| 8 | [Azerbaycanlı](http://twitter.com/search?q=Azerbaycanl%c4%b1) | N/A |
+| 9 | [Teşekkürler Fenerbahçe](http://twitter.com/search?q=Te%c5%9fekk%c3%bcrler+Fenerbah%c3%a7e) | N/A |
+| 10 | [Kızılay'dan](http://twitter.com/search?q=K%c4%b1z%c4%b1lay%27dan) | N/A |
+| 11 | [Günaydınlar](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nlar) | N/A |
+| 12 | [OYUMUZ CUMHUR İTTİFAKINA](http://twitter.com/search?q=OYUMUZ+CUMHUR+%c4%b0TT%c4%b0FAKINA) | N/A |
+| 13 | [PARALI KÖPEKLER](http://twitter.com/search?q=PARALI+K%c3%96PEKLER) | N/A |
+| 14 | [DOĞUM GÜNÜN KUTLU OLSUN](http://twitter.com/search?q=DO%c4%9eUM+G%c3%9cN%c3%9cN+KUTLU+OLSUN) | N/A |
+| 15 | [Anıtkabir](http://twitter.com/search?q=An%c4%b1tkabir) | Anıtkabir is the mausoleum of Mustafa Kemal Atatürk, the founder and first president of the Republic of Turkey. The word Anıtkabir translates to "memorial tomb" in English. |
+| 16 | [Murat Ağırel](http://twitter.com/search?q=Murat+A%c4%9f%c4%b1rel) | N/A |
+| 17 | [Paralı](http://twitter.com/search?q=Paral%c4%b1) | N/A |
+| 18 | [Ali Koç](http://twitter.com/search?q=Ali+Ko%c3%a7) | Ali Koç is a Turkish surname. It is derived from the Turkish word "koç" which means "ram". In English, Ali Koç would translate to "Ali the Ram". |
+| 19 | [KIZILAY](http://twitter.com/search?q=KIZILAY) | N/A |
+| 20 | [26 Şubat](http://twitter.com/search?q=26+%c5%9eubat) | N/A |
+| 21 | [Rojbaş](http://twitter.com/search?q=Rojba%c5%9f) | N/A |
+| 22 | [Günaydınnn](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nnn) | N/A |
+| 23 | [Sayın Cumhurbaşkanım](http://twitter.com/search?q=Say%c4%b1n+Cumhurba%c5%9fkan%c4%b1m) | N/A |
+| 24 | [Recep Tayyip Erdoğan](http://twitter.com/search?q=Recep+Tayyip+Erdo%c4%9fan) | N/A |
+| 25 | [Ertem Şener](http://twitter.com/search?q=Ertem+%c5%9eener) | N/A |
+| 26 | [Aziz](http://twitter.com/search?q=Aziz) | N/A |
+| 27 | [DOLAN DOLAN DOLAN](http://twitter.com/search?q=DOLAN+DOLAN+DOLAN) | N/A |
+| 28 | [Tuncay](http://twitter.com/search?q=Tuncay) | N/A |
+| 29 | [Gezi](http://twitter.com/search?q=Gezi) | N/A |
+| 30 | [Uğur Dündar](http://twitter.com/search?q=U%c4%9fur+D%c3%bcndar) | Uğur Dündar is a Turkish journalist and television presenter. His name translates to "Lucky Star" in English. |
+| 31 | [Taraftar](http://twitter.com/search?q=Taraftar) | N/A |
+| 32 | [Faik](http://twitter.com/search?q=Faik) | N/A |
+| 33 | [Futbol](http://twitter.com/search?q=Futbol) | N/A |
+| 34 | [Koç Holding](http://twitter.com/search?q=Ko%c3%a7+Holding) | N/A |
+| 35 | [Aslıhanın Terbiyesizliği](http://twitter.com/search?q=Asl%c4%b1han%c4%b1n+Terbiyesizli%c4%9fi) | N/A |
+| 36 | [Bir Galatasaray](http://twitter.com/search?q=Bir+Galatasaray) | N/A |
+| 37 | [Zoruna](http://twitter.com/search?q=Zoruna) | N/A |
+| 38 | [Beyaz Türk](http://twitter.com/search?q=Beyaz+T%c3%bcrk) | N/A |
+| 39 | [#siirt](http://twitter.com/search?q=%23siirt) | N/A |
+| 40 | [#TekMilletİkiDevlet](http://twitter.com/search?q=%23TekMillet%c4%b0kiDevlet) | N/A |
+| 41 | [#SeninleyizErdoğan](http://twitter.com/search?q=%23SeninleyizErdo%c4%9fan) | N/A |
+| 42 | [#SosyalDevletStajıÇözer](http://twitter.com/search?q=%23SosyalDevletStaj%c4%b1%c3%87%c3%b6zer) | N/A |
+| 43 | [#EYTyiTastamamVerin](http://twitter.com/search?q=%23EYTyiTastamamVerin) | N/A |
+| 44 | [#100BinKonutNerede](http://twitter.com/search?q=%23100BinKonutNerede) | N/A |
+| 45 | [#gunaydin](http://twitter.com/search?q=%23gunaydin) | N/A |
+| 46 | [#İSTİFAULAN](http://twitter.com/search?q=%23%c4%b0ST%c4%b0FAULAN) | N/A |
+| 47 | [#Cbmarttayuzyuze](http://twitter.com/search?q=%23Cbmarttayuzyuze) | N/A |
+| 48 | [#DemetÖzdemir](http://twitter.com/search?q=%23Demet%c3%96zdemir) | N/A |
 
 
 
