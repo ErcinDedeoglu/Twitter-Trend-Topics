@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-02-26 04:16:42 UTC`
+📆 Last Updated: `2023-02-26 05:16:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -34,7 +34,7 @@ This is top 50 for Denmark
 | 17 | [#obdk](http://twitter.com/search?q=%23obdk) | N/A |
 | 18 | [næstved](http://twitter.com/search?q=n%c3%a6stved) | N/A |
 | 19 | [#cyklingdk](http://twitter.com/search?q=%23cyklingdk) | N/A |
-| 20 | [Pogacar](http://twitter.com/search?q=Pogacar) | N/A |
+| 20 | [pogacar](http://twitter.com/search?q=pogacar) | N/A |
 | 21 | [parken](http://twitter.com/search?q=parken) | N/A |
 | 22 | [Irak](http://twitter.com/search?q=Irak) | N/A |
 | 23 | [Money](http://twitter.com/search?q=Money) | N/A |
@@ -46,14 +46,14 @@ This is top 50 for Denmark
 | 29 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
 | 30 | [Emma](http://twitter.com/search?q=Emma) | Emma is a feminine given name derived from the Germanic word ermen, meaning “whole” or “universal.” It is also a diminutive form of the name Emily. Emma is a popular name in many English-speaking countries, including the United States, Canada, Australia, and New Zealand. |
 | 31 | [puha](http://twitter.com/search?q=puha) | N/A |
-| 32 | [Surely](http://twitter.com/search?q=Surely) | N/A |
-| 33 | [st. bededag](http://twitter.com/search?q=st.+bededag) | N/A |
-| 34 | [Europas](http://twitter.com/search?q=Europas) | N/A |
-| 35 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
-| 36 | [Australia](http://twitter.com/search?q=Australia) | N/A |
-| 37 | [Kina](http://twitter.com/search?q=Kina) | N/A |
-| 38 | [Sygt](http://twitter.com/search?q=Sygt) | N/A |
-| 39 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
+| 32 | [st. bededag](http://twitter.com/search?q=st.+bededag) | N/A |
+| 33 | [Europas](http://twitter.com/search?q=Europas) | N/A |
+| 34 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 35 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 36 | [Kina](http://twitter.com/search?q=Kina) | N/A |
+| 37 | [Sygt](http://twitter.com/search?q=Sygt) | N/A |
+| 38 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
+| 39 | [Surely](http://twitter.com/search?q=Surely) | N/A |
 | 40 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
 | 41 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
 | 42 | [Christmas](http://twitter.com/search?q=Christmas) | Christmas is an annual festival commemorating the birth of Jesus Christ, observed primarily on December 25 as a religious and cultural celebration among billions of people around the world. The traditional Christmas narrative, the Nativity of Jesus, delineated in the New Testament says that Jesus was born in Bethlehem, in accordance with messianic prophecies. When Joseph and Mary arrived in the city, the inn had no room and so they were offered a stable where the Christ Child was soon born. |
@@ -62,9 +62,9 @@ This is top 50 for Denmark
 | 45 | [Finland](http://twitter.com/search?q=Finland) | N/A |
 | 46 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
 | 47 | [Jensen](http://twitter.com/search?q=Jensen) | N/A |
-| 48 | [Viaplay](http://twitter.com/search?q=Viaplay) | N/A |
-| 49 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
-| 50 | [jonas vingegaard](http://twitter.com/search?q=jonas+vingegaard) | N/A |
+| 48 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
+| 49 | [Tænk](http://twitter.com/search?q=T%c3%a6nk) | N/A |
+| 50 | [Viaplay](http://twitter.com/search?q=Viaplay) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Algiers
 
-📆 Last Updated: `2023-02-26 04:16:21 UTC`
+📆 Last Updated: `2023-02-26 05:16:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,9 +20,9 @@ This is top 50 for [Algeria](</Algeria>)
 | 3 | [القصص الخياليه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b5%d8%b5+%d8%a7%d9%84%d8%ae%d9%8a%d8%a7%d9%84%d9%8a%d9%87) | N/A |
 | 4 | [غير معتمد](http://twitter.com/search?q=%d8%ba%d9%8a%d8%b1+%d9%85%d8%b9%d8%aa%d9%85%d8%af) | N/A |
 | 5 | [الطابور الخامس](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d8%a7%d8%a8%d9%88%d8%b1+%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3) | N/A |
-| 6 | [بورنموث](http://twitter.com/search?q=%d8%a8%d9%88%d8%b1%d9%86%d9%85%d9%88%d8%ab) | N/A |
-| 7 | [#جانت](http://twitter.com/search?q=%23%d8%ac%d8%a7%d9%86%d8%aa) | N/A |
-| 8 | [#سعد_لمجرد](http://twitter.com/search?q=%23%d8%b3%d8%b9%d8%af_%d9%84%d9%85%d8%ac%d8%b1%d8%af) | N/A |
+| 6 | [#سعد_لمجرد](http://twitter.com/search?q=%23%d8%b3%d8%b9%d8%af_%d9%84%d9%85%d8%ac%d8%b1%d8%af) | N/A |
+| 7 | [بورنموث](http://twitter.com/search?q=%d8%a8%d9%88%d8%b1%d9%86%d9%85%d9%88%d8%ab) | N/A |
+| 8 | [#جانت](http://twitter.com/search?q=%23%d8%ac%d8%a7%d9%86%d8%aa) | N/A |
 | 9 | [الكويت](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d9%88%d9%8a%d8%aa) | N/A |
 | 10 | [#LEIARS](http://twitter.com/search?q=%23LEIARS) | N/A |
 | 11 | [سيميوني](http://twitter.com/search?q=%d8%b3%d9%8a%d9%85%d9%8a%d9%88%d9%86%d9%8a) | سيميوني (Simonee) is an Arabic name meaning "listener". It is also a variant of the name Simone, which is derived from the Hebrew name Shimon, meaning "he who hears". |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Norway
 
-📆 Last Updated: `2023-02-26 04:16:46 UTC`
+📆 Last Updated: `2023-02-26 05:16:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -37,7 +37,7 @@ This is top 50 for Norway
 | 20 | [#esnsykkel](http://twitter.com/search?q=%23esnsykkel) | N/A |
 | 21 | [fosen](http://twitter.com/search?q=fosen) | N/A |
 | 22 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 23 | [kinas](http://twitter.com/search?q=kinas) | N/A |
+| 23 | [Kinas](http://twitter.com/search?q=Kinas) | N/A |
 | 24 | [herlig](http://twitter.com/search?q=herlig) | N/A |
 | 25 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
 | 26 | [tv2 play](http://twitter.com/search?q=tv2+play) | N/A |
@@ -51,13 +51,13 @@ This is top 50 for Norway
 | 34 | [sogndal](http://twitter.com/search?q=sogndal) | N/A |
 | 35 | [fredrikstad](http://twitter.com/search?q=fredrikstad) | N/A |
 | 36 | [vårt land](http://twitter.com/search?q=v%c3%a5rt+land) | N/A |
-| 37 | [Libya](http://twitter.com/search?q=Libya) | N/A |
-| 38 | [olje](http://twitter.com/search?q=olje) | N/A |
-| 39 | [åsane](http://twitter.com/search?q=%c3%a5sane) | N/A |
-| 40 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
-| 41 | [rosenborg](http://twitter.com/search?q=rosenborg) | N/A |
-| 42 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 43 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 37 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 38 | [Libya](http://twitter.com/search?q=Libya) | N/A |
+| 39 | [olje](http://twitter.com/search?q=olje) | N/A |
+| 40 | [åsane](http://twitter.com/search?q=%c3%a5sane) | N/A |
+| 41 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
+| 42 | [rosenborg](http://twitter.com/search?q=rosenborg) | N/A |
+| 43 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 44 | [faen](http://twitter.com/search?q=faen) | N/A |
 | 45 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
 | 46 | [supernytt](http://twitter.com/search?q=supernytt) | N/A |

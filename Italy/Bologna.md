@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bologna
 
-📆 Last Updated: `2023-02-26 04:16:08 UTC`
+📆 Last Updated: `2023-02-26 05:15:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,11 +19,11 @@ This is top 50 for [Italy](</Italy>)
 | 2 | [#EmpoliNapoli](http://twitter.com/search?q=%23EmpoliNapoli) | N/A |
 | 3 | [#MaurizioCostanzo](http://twitter.com/search?q=%23MaurizioCostanzo) | N/A |
 | 4 | [#taleequalesanremo](http://twitter.com/search?q=%23taleequalesanremo) | N/A |
-| 5 | [#HappyBdayLuigi](http://twitter.com/search?q=%23HappyBdayLuigi) | N/A |
+| 5 | [#25febbraio](http://twitter.com/search?q=%2325febbraio) | N/A |
 | 6 | [Mario Rui](http://twitter.com/search?q=Mario+Rui) | N/A |
 | 7 | [Murgia](http://twitter.com/search?q=Murgia) | Murgia is a geographical region in southern Italy, located in the provinces of Bari and Taranto. It is characterized by its limestone hills, deep ravines, and caves. The name Murgia comes from the Latin word murex, meaning "rocky hill". In English, Murgia can be translated as "rocky land". |
 | 8 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 9 | [Albano](http://twitter.com/search?q=Albano) | N/A |
+| 9 | [albano](http://twitter.com/search?q=albano) | N/A |
 | 10 | [ivan capelli](http://twitter.com/search?q=ivan+capelli) | N/A |
 | 11 | [Grattugia](http://twitter.com/search?q=Grattugia) | N/A |
 | 12 | [Jonathan](http://twitter.com/search?q=Jonathan) | N/A |
@@ -34,37 +34,37 @@ This is top 50 for [Italy](</Italy>)
 | 17 | [Costituzione](http://twitter.com/search?q=Costituzione) | N/A |
 | 18 | [Heineken](http://twitter.com/search?q=Heineken) | N/A |
 | 19 | [Ucraina](http://twitter.com/search?q=Ucraina) | N/A |
-| 20 | [Luca Laurenti](http://twitter.com/search?q=Luca+Laurenti) | N/A |
-| 21 | [EdoD](http://twitter.com/search?q=EdoD) | EdoD is an acronym for "Edo Digital", which is a Japanese digital media company. It specializes in creating content for mobile devices, such as apps, games, and videos. The company was founded in 2012 and is based in Tokyo. |
-| 22 | [Le Deva](http://twitter.com/search?q=Le+Deva) | N/A |
-| 23 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
-| 24 | [buon sabato](http://twitter.com/search?q=buon+sabato) | N/A |
-| 25 | [Ingroia](http://twitter.com/search?q=Ingroia) | N/A |
-| 26 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
-| 27 | [ichnusa](http://twitter.com/search?q=ichnusa) | N/A |
-| 28 | [Mogol](http://twitter.com/search?q=Mogol) | N/A |
-| 29 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 30 | [capezzone](http://twitter.com/search?q=capezzone) | N/A |
-| 31 | [Edoardo](http://twitter.com/search?q=Edoardo) | Edoardo is an Italian name derived from the Germanic name Edward, which means "wealthy guardian". It is a popular name in Italy and other parts of Europe. |
-| 32 | [Eiffel 65](http://twitter.com/search?q=Eiffel+65) | N/A |
-| 33 | [piergigi](http://twitter.com/search?q=piergigi) | N/A |
-| 34 | [Roy Paci](http://twitter.com/search?q=Roy+Paci) | N/A |
-| 35 | [Licitra](http://twitter.com/search?q=Licitra) | N/A |
-| 36 | [Preside](http://twitter.com/search?q=Preside) | N/A |
-| 37 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
-| 38 | [Jared](http://twitter.com/search?q=Jared) | N/A |
-| 39 | [Cina](http://twitter.com/search?q=Cina) | N/A |
-| 40 | [Ronela](http://twitter.com/search?q=Ronela) | N/A |
-| 41 | [Castellani](http://twitter.com/search?q=Castellani) | N/A |
-| 42 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
-| 43 | [campidoglio](http://twitter.com/search?q=campidoglio) | N/A |
-| 44 | [nuoro](http://twitter.com/search?q=nuoro) | N/A |
-| 45 | [Zucchero](http://twitter.com/search?q=Zucchero) | N/A |
-| 46 | [Micol](http://twitter.com/search?q=Micol) | Micol is a female given name of Italian origin. It is derived from the Hebrew name Michal, which means "who is like God?". |
-| 47 | [Senhit](http://twitter.com/search?q=Senhit) | N/A |
-| 48 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
-| 49 | [Landini](http://twitter.com/search?q=Landini) | N/A |
-| 50 | [Gramsci](http://twitter.com/search?q=Gramsci) | N/A |
+| 20 | [luca laurenti](http://twitter.com/search?q=luca+laurenti) | N/A |
+| 21 | [Le Deva](http://twitter.com/search?q=Le+Deva) | N/A |
+| 22 | [buon sabato](http://twitter.com/search?q=buon+sabato) | N/A |
+| 23 | [ingroia](http://twitter.com/search?q=ingroia) | N/A |
+| 24 | [Ichnusa](http://twitter.com/search?q=Ichnusa) | N/A |
+| 25 | [Mogol](http://twitter.com/search?q=Mogol) | N/A |
+| 26 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 27 | [capezzone](http://twitter.com/search?q=capezzone) | N/A |
+| 28 | [Eiffel 65](http://twitter.com/search?q=Eiffel+65) | N/A |
+| 29 | [piergigi](http://twitter.com/search?q=piergigi) | N/A |
+| 30 | [roy paci](http://twitter.com/search?q=roy+paci) | N/A |
+| 31 | [Licitra](http://twitter.com/search?q=Licitra) | N/A |
+| 32 | [Preside](http://twitter.com/search?q=Preside) | N/A |
+| 33 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
+| 34 | [Jared](http://twitter.com/search?q=Jared) | N/A |
+| 35 | [Ronela](http://twitter.com/search?q=Ronela) | N/A |
+| 36 | [Castellani](http://twitter.com/search?q=Castellani) | N/A |
+| 37 | [Zucchero](http://twitter.com/search?q=Zucchero) | N/A |
+| 38 | [Cina](http://twitter.com/search?q=Cina) | N/A |
+| 39 | [Senhit](http://twitter.com/search?q=Senhit) | N/A |
+| 40 | [EdoD](http://twitter.com/search?q=EdoD) | EdoD is an acronym for "Edo Digital", which is a Japanese digital media company. It specializes in creating content for mobile devices, such as apps, games, and videos. The company was founded in 2012 and is based in Tokyo. |
+| 41 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 42 | [Landini](http://twitter.com/search?q=Landini) | N/A |
+| 43 | [Jensen](http://twitter.com/search?q=Jensen) | N/A |
+| 44 | [Edoardo](http://twitter.com/search?q=Edoardo) | Edoardo is an Italian name derived from the Germanic name Edward, which means "wealthy guardian". It is a popular name in Italy and other parts of Europe. |
+| 45 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 46 | [L'antifascismo](http://twitter.com/search?q=L%27antifascismo) | N/A |
+| 47 | [Severgnini](http://twitter.com/search?q=Severgnini) | N/A |
+| 48 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
+| 49 | [Nuoro](http://twitter.com/search?q=Nuoro) | N/A |
+| 50 | [Donbass](http://twitter.com/search?q=Donbass) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Murcia
 
-📆 Last Updated: `2023-02-26 04:16:10 UTC`
+📆 Last Updated: `2023-02-26 05:15:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [Spain](</Spain>)
 | 3 | [Correa](http://twitter.com/search?q=Correa) | Correa is a Spanish surname. It is derived from the Latin word correus, meaning "messenger". In English, it can be translated to mean "messenger" or "courier". |
 | 4 | [#RealMadridAtleti](http://twitter.com/search?q=%23RealMadridAtleti) | N/A |
 | 5 | [Reinildo](http://twitter.com/search?q=Reinildo) | N/A |
-| 6 | [Elche](http://twitter.com/search?q=Elche) | Elche is a city in the Valencian Community of Spain. It is located in the province of Alicante, on the Costa Blanca. The name Elche comes from the Arabic term al-xarq, meaning "the wall". In English, Elche can be translated to mean "the walled city". |
-| 7 | [#UMK23](http://twitter.com/search?q=%23UMK23) | N/A |
+| 6 | [#UMK23](http://twitter.com/search?q=%23UMK23) | N/A |
+| 7 | [Elche](http://twitter.com/search?q=Elche) | Elche is a city in the Valencian Community of Spain. It is located in the province of Alicante, on the Costa Blanca. The name Elche comes from the Arabic term al-xarq, meaning "the wall". In English, Elche can be translated to mean "the walled city". |
 | 8 | [Bernabéu](http://twitter.com/search?q=Bernab%c3%a9u) | Bernabéu is the name of the home stadium of Spanish football club Real Madrid. It is officially known as Estadio Santiago Bernabéu, named after the former club president Santiago Bernabéu. In English, it is referred to as the Santiago Bernabéu Stadium. |
 | 9 | [Loreen](http://twitter.com/search?q=Loreen) | N/A |
-| 10 | [Tito Berni](http://twitter.com/search?q=Tito+Berni) | N/A |
-| 11 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 12 | [#euroten](http://twitter.com/search?q=%23euroten) | N/A |
+| 10 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 11 | [Tito Berni](http://twitter.com/search?q=Tito+Berni) | N/A |
+| 12 | [#EuroTEN](http://twitter.com/search?q=%23EuroTEN) | N/A |
 | 13 | [Falcon](http://twitter.com/search?q=Falcon) | N/A |
 | 14 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
 | 15 | [#Solos25F](http://twitter.com/search?q=%23Solos25F) | N/A |
 | 16 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
 | 17 | [#SerMujerNoEsUnSentimiento](http://twitter.com/search?q=%23SerMujerNoEsUnSentimiento) | N/A |
 | 18 | [Miranda](http://twitter.com/search?q=Miranda) | Miranda is a female given name of Latin origin, derived from the word "mirandus" meaning "admirable" or "wonderful". It is also associated with the phrase "miranda rights", which are rights read to criminal suspects in the United States during an arrest. |
-| 19 | [Rudiger](http://twitter.com/search?q=Rudiger) | Rudiger is a German name derived from the Germanic elements hrod, meaning "fame," and ger, meaning "spear." It is a masculine name that can also be spelled Rudiger or Rudigar. In English, it means "famous spear." |
-| 20 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
-| 21 | [hugo duro](http://twitter.com/search?q=hugo+duro) | N/A |
-| 22 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 19 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 20 | [Rudiger](http://twitter.com/search?q=Rudiger) | Rudiger is a German name derived from the Germanic elements hrod, meaning "fame," and ger, meaning "spear." It is a masculine name that can also be spelled Rudiger or Rudigar. In English, it means "famous spear." |
+| 21 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 22 | [Iturralde](http://twitter.com/search?q=Iturralde) | N/A |
 | 23 | [Morata](http://twitter.com/search?q=Morata) | Morata is a Spanish surname. It is derived from the Latin word "moratus" which means "delay". In English, it can be translated to mean "delayed". |
-| 24 | [Iturralde](http://twitter.com/search?q=Iturralde) | N/A |
-| 25 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 26 | [Álvaro Rodríguez](http://twitter.com/search?q=%c3%81lvaro+Rodr%c3%adguez) | N/A |
-| 27 | [Giménez](http://twitter.com/search?q=Gim%c3%a9nez) | N/A |
-| 28 | [Saúl](http://twitter.com/search?q=Sa%c3%bal) | Saúl is a Spanish name derived from the Hebrew name Saul, which means "asked for". In English, it is usually spelled Saul. |
-| 29 | [Leguina](http://twitter.com/search?q=Leguina) | N/A |
+| 24 | [Hugo Duro](http://twitter.com/search?q=Hugo+Duro) | N/A |
+| 25 | [Giménez](http://twitter.com/search?q=Gim%c3%a9nez) | N/A |
+| 26 | [Saúl](http://twitter.com/search?q=Sa%c3%bal) | Saúl is a Spanish name derived from the Hebrew name Saul, which means "asked for". In English, it is usually spelled Saul. |
+| 27 | [Álvaro Rodríguez](http://twitter.com/search?q=%c3%81lvaro+Rodr%c3%adguez) | N/A |
+| 28 | [Leguina](http://twitter.com/search?q=Leguina) | N/A |
+| 29 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
 | 30 | [Lobi](http://twitter.com/search?q=Lobi) | N/A |
 | 31 | [Benjamin](http://twitter.com/search?q=Benjamin) | N/A |
 | 32 | [Mestalla](http://twitter.com/search?q=Mestalla) | Mestalla is the name of the home stadium of Valencia CF, a Spanish football club. The word Mestalla is derived from the Latin word matella, which means "fortress". In English, it can be translated to mean "fortress stadium". |
 | 33 | [Marburgo](http://twitter.com/search?q=Marburgo) | N/A |
 | 34 | [Finlandia](http://twitter.com/search?q=Finlandia) | N/A |
-| 35 | [Cholo](http://twitter.com/search?q=Cholo) | Cholo is a term used to refer to a person of mixed Indigenous and Mexican heritage. It is often used as a derogatory term, but it can also be used as an identifier for people of this background. In English, the term can be translated to mean "mixed-race person". |
-| 36 | [Alfa Romeo](http://twitter.com/search?q=Alfa+Romeo) | N/A |
-| 37 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 38 | [Codazo](http://twitter.com/search?q=Codazo) | N/A |
-| 39 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
+| 35 | [Alfa Romeo](http://twitter.com/search?q=Alfa+Romeo) | N/A |
+| 36 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 37 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
+| 38 | [Cholo](http://twitter.com/search?q=Cholo) | Cholo is a term used to refer to a person of mixed Indigenous and Mexican heritage. It is often used as a derogatory term, but it can also be used as an identifier for people of this background. In English, the term can be translated to mean "mixed-race person". |
+| 39 | [jacobo ostos](http://twitter.com/search?q=jacobo+ostos) | N/A |
 | 40 | [Karol](http://twitter.com/search?q=Karol) | Karol is a Polish name derived from the Latin name Carolus, meaning "free man". It is a popular name in Poland and other Slavic countries. In English, it is usually spelled as Charles. |
 | 41 | [Badajoz](http://twitter.com/search?q=Badajoz) | N/A |
-| 42 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
-| 43 | [Jacobo Ostos](http://twitter.com/search?q=Jacobo+Ostos) | N/A |
-| 44 | [Sofía Otero](http://twitter.com/search?q=Sof%c3%ada+Otero) | N/A |
-| 45 | [Koke](http://twitter.com/search?q=Koke) | Koke is a Japanese slang term that means "stupid" or "foolish". It is often used to describe someone who has done something foolish or made a mistake. |
-| 46 | [San Marino](http://twitter.com/search?q=San+Marino) | N/A |
-| 47 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 48 | [Simeone](http://twitter.com/search?q=Simeone) | Simeone is a surname of Italian origin. It is derived from the given name Simone, which is the Italian form of Simon. The name means "he who hears" or "listening". |
-| 49 | [Savic](http://twitter.com/search?q=Savic) | Savic is a Serbian surname derived from the Slavic word for "son of the sabre." It is also found in other Slavic countries, such as Croatia and Slovenia. In English, it can be translated to mean "son of the sword." |
-| 50 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 42 | [sofía otero](http://twitter.com/search?q=sof%c3%ada+otero) | N/A |
+| 43 | [Codazo](http://twitter.com/search?q=Codazo) | N/A |
+| 44 | [Koke](http://twitter.com/search?q=Koke) | Koke is a Japanese slang term that means "stupid" or "foolish". It is often used to describe someone who has done something foolish or made a mistake. |
+| 45 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 46 | [Simeone](http://twitter.com/search?q=Simeone) | Simeone is a surname of Italian origin. It is derived from the given name Simone, which is the Italian form of Simon. The name means "he who hears" or "listening". |
+| 47 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 48 | [san carlos del valle](http://twitter.com/search?q=san+carlos+del+valle) | N/A |
+| 49 | [Guti](http://twitter.com/search?q=Guti) | N/A |
+| 50 | [Abner](http://twitter.com/search?q=Abner) | N/A |
 
 
 

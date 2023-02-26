@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Netherlands
 
-📆 Last Updated: `2023-02-26 04:16:46 UTC`
+📆 Last Updated: `2023-02-26 05:16:28 UTC`
 
 🔧 Updated every 1 hour!
 

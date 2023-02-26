@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rotterdam
 
-📆 Last Updated: `2023-02-26 04:16:09 UTC`
+📆 Last Updated: `2023-02-26 05:15:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,7 +26,7 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 9 | [Jurre](http://twitter.com/search?q=Jurre) | N/A |
 | 10 | [dylan van baarle](http://twitter.com/search?q=dylan+van+baarle) | N/A |
 | 11 | [Oekraïne](http://twitter.com/search?q=Oekra%c3%afne) | N/A |
-| 12 | [pauw](http://twitter.com/search?q=pauw) | N/A |
+| 12 | [Pauw](http://twitter.com/search?q=Pauw) | N/A |
 | 13 | [Zwijndrecht](http://twitter.com/search?q=Zwijndrecht) | N/A |
 | 14 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
 | 15 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |

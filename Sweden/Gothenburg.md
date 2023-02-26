@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gothenburg
 
-📆 Last Updated: `2023-02-26 04:16:11 UTC`
+📆 Last Updated: `2023-02-26 05:15:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,19 +15,19 @@ This is top 50 for [Sweden](</Sweden>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Melfest](http://twitter.com/search?q=%23Melfest) | N/A |
-| 2 | [Loreen](http://twitter.com/search?q=Loreen) | N/A |
+| 1 | [Loreen](http://twitter.com/search?q=Loreen) | N/A |
+| 2 | [#Melfest](http://twitter.com/search?q=%23Melfest) | N/A |
 | 3 | [#Melodifestivalen2023](http://twitter.com/search?q=%23Melodifestivalen2023) | N/A |
 | 4 | [Carola](http://twitter.com/search?q=Carola) | Carola is a female given name of Latin origin, derived from the masculine name Carolus, which is the Latin form of Charles. It means "free man" or "strong". |
-| 5 | [#mello](http://twitter.com/search?q=%23mello) | N/A |
+| 5 | [#Mello](http://twitter.com/search?q=%23Mello) | N/A |
 | 6 | [Ukraina](http://twitter.com/search?q=Ukraina) | N/A |
 | 7 | [ebba andersson](http://twitter.com/search?q=ebba+andersson) | N/A |
 | 8 | [Ingman](http://twitter.com/search?q=Ingman) | N/A |
 | 9 | [#UMK23](http://twitter.com/search?q=%23UMK23) | N/A |
 | 10 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
 | 11 | [Tomkins](http://twitter.com/search?q=Tomkins) | N/A |
-| 12 | [#NFC2023](http://twitter.com/search?q=%23NFC2023) | N/A |
-| 13 | [Farah](http://twitter.com/search?q=Farah) | N/A |
+| 12 | [Farah](http://twitter.com/search?q=Farah) | N/A |
+| 13 | [#NFC2023](http://twitter.com/search?q=%23NFC2023) | N/A |
 | 14 | [Ryssland](http://twitter.com/search?q=Ryssland) | N/A |
 | 15 | [shinnimin](http://twitter.com/search?q=shinnimin) | N/A |
 | 16 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
@@ -45,7 +45,7 @@ This is top 50 for [Sweden](</Sweden>)
 | 28 | [norrby](http://twitter.com/search?q=norrby) | N/A |
 | 29 | [Smash](http://twitter.com/search?q=Smash) | N/A |
 | 30 | [Mondo](http://twitter.com/search?q=Mondo) | N/A |
-| 31 | [Återställ](http://twitter.com/search?q=%c3%85terst%c3%a4ll) | N/A |
+| 31 | [återställ](http://twitter.com/search?q=%c3%a5terst%c3%a4ll) | N/A |
 | 32 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
 | 33 | [susse](http://twitter.com/search?q=susse) | N/A |
 | 34 | [fröken snusk](http://twitter.com/search?q=fr%c3%b6ken+snusk) | N/A |
@@ -55,7 +55,7 @@ This is top 50 for [Sweden](</Sweden>)
 | 38 | [skogsstyrelsen](http://twitter.com/search?q=skogsstyrelsen) | N/A |
 | 39 | [san moteur](http://twitter.com/search?q=san+moteur) | N/A |
 | 40 | [erabi](http://twitter.com/search?q=erabi) | N/A |
-| 41 | [Poznan](http://twitter.com/search?q=Poznan) | N/A |
+| 41 | [poznan](http://twitter.com/search?q=poznan) | N/A |
 | 42 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
 | 43 | [brickley](http://twitter.com/search?q=brickley) | N/A |
 | 44 | [skål](http://twitter.com/search?q=sk%c3%a5l) | N/A |

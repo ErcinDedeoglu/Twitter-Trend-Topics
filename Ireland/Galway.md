@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Galway
 
-📆 Last Updated: `2023-02-26 04:16:05 UTC`
+📆 Last Updated: `2023-02-26 05:15:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -31,7 +31,7 @@ This is top 50 for [Ireland](</Ireland>)
 | 14 | [Italians](http://twitter.com/search?q=Italians) | N/A |
 | 15 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
 | 16 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 17 | [HALF TIME](http://twitter.com/search?q=HALF+TIME) | Half time is a term used in sports to refer to the break between two halves of a game. It is usually 15 minutes long and is used to allow players to rest and coaches to make adjustments. In some sports, such as soccer, the teams switch sides of the field at half time. |
+| 17 | [Half Time](http://twitter.com/search?q=Half+Time) | N/A |
 | 18 | [Palace](http://twitter.com/search?q=Palace) | Palace is a large and grand residence, especially one owned by a monarch or other powerful figure. It is usually the residence of a head of state or some other high-ranking dignitary. The word comes from the Latin palatium, meaning "residence of a ruler". |
 | 19 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
 | 20 | [Armagh](http://twitter.com/search?q=Armagh) | N/A |
@@ -46,7 +46,7 @@ This is top 50 for [Ireland](</Ireland>)
 | 29 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
 | 30 | [Russia](http://twitter.com/search?q=Russia) | N/A |
 | 31 | [INEC](http://twitter.com/search?q=INEC) | N/A |
-| 32 | [The Italian](http://twitter.com/search?q=The+Italian) | N/A |
+| 32 | [the italian](http://twitter.com/search?q=the+italian) | N/A |
 | 33 | [Tyrone](http://twitter.com/search?q=Tyrone) | N/A |
 | 34 | [Ben White](http://twitter.com/search?q=Ben+White) | Ben White is a phrase used to describe someone who is fair-skinned or Caucasian. It is derived from the phrase "white as snow," which is often used to describe someone with very pale skin. |
 | 35 | [ringrose](http://twitter.com/search?q=ringrose) | N/A |

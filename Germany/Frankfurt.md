@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Frankfurt
 
-📆 Last Updated: `2023-02-26 04:16:07 UTC`
+📆 Last Updated: `2023-02-26 05:15:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,47 +24,47 @@ This is top 50 for [Germany](</Germany>)
 | 7 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
 | 8 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
 | 9 | [Irreführung der Bevölkerung](http://twitter.com/search?q=Irref%c3%bchrung+der+Bev%c3%b6lkerung) | N/A |
-| 10 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
-| 11 | [Bock auf Arbeit](http://twitter.com/search?q=Bock+auf+Arbeit) | N/A |
+| 10 | [bock auf arbeit](http://twitter.com/search?q=bock+auf+arbeit) | N/A |
+| 11 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
 | 12 | [Seite der Geschichte](http://twitter.com/search?q=Seite+der+Geschichte) | N/A |
 | 13 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
-| 14 | [Teilnehmer](http://twitter.com/search?q=Teilnehmer) | N/A |
-| 15 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
-| 16 | [freistoß](http://twitter.com/search?q=freisto%c3%9f) | N/A |
-| 17 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 18 | [Sosa](http://twitter.com/search?q=Sosa) | N/A |
-| 19 | [Verbrecher in die Geschichte](http://twitter.com/search?q=Verbrecher+in+die+Geschichte) | N/A |
+| 14 | [Habeck](http://twitter.com/search?q=Habeck) | N/A |
+| 15 | [Teilnehmer](http://twitter.com/search?q=Teilnehmer) | N/A |
+| 16 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
+| 17 | [freistoß](http://twitter.com/search?q=freisto%c3%9f) | N/A |
+| 18 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 19 | [Sosa](http://twitter.com/search?q=Sosa) | N/A |
 | 20 | [Halbzeit](http://twitter.com/search?q=Halbzeit) | N/A |
-| 21 | [Silas](http://twitter.com/search?q=Silas) | N/A |
-| 22 | [Brandenburger Tor](http://twitter.com/search?q=Brandenburger+Tor) | N/A |
+| 21 | [Verbrecher in die Geschichte](http://twitter.com/search?q=Verbrecher+in+die+Geschichte) | N/A |
+| 22 | [Silas](http://twitter.com/search?q=Silas) | N/A |
 | 23 | [Kinderlose](http://twitter.com/search?q=Kinderlose) | N/A |
-| 24 | [Heyer](http://twitter.com/search?q=Heyer) | N/A |
-| 25 | [Kriegstreiber](http://twitter.com/search?q=Kriegstreiber) | N/A |
+| 24 | [Brandenburger Tor](http://twitter.com/search?q=Brandenburger+Tor) | N/A |
+| 25 | [heyer](http://twitter.com/search?q=heyer) | N/A |
 | 26 | [Panzer](http://twitter.com/search?q=Panzer) | N/A |
-| 27 | [Botschaft](http://twitter.com/search?q=Botschaft) | N/A |
-| 28 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
+| 27 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
+| 28 | [Botschaft](http://twitter.com/search?q=Botschaft) | N/A |
 | 29 | [Foul](http://twitter.com/search?q=Foul) | N/A |
-| 30 | [flagge](http://twitter.com/search?q=flagge) | N/A |
-| 31 | [Elsässer](http://twitter.com/search?q=Els%c3%a4sser) | N/A |
-| 32 | [Fahnen](http://twitter.com/search?q=Fahnen) | N/A |
-| 33 | [Anton](http://twitter.com/search?q=Anton) | Anton is a masculine given name of Germanic origin. It is derived from the Roman family name Antonius, which is of unknown Etruscan origin. The name means "invaluable" or "priceless". |
-| 34 | [start ins wochenende](http://twitter.com/search?q=start+ins+wochenende) | N/A |
-| 35 | [Sieg](http://twitter.com/search?q=Sieg) | N/A |
+| 30 | [Kriegstreiber](http://twitter.com/search?q=Kriegstreiber) | N/A |
+| 31 | [flagge](http://twitter.com/search?q=flagge) | N/A |
+| 32 | [Elsässer](http://twitter.com/search?q=Els%c3%a4sser) | N/A |
+| 33 | [Fahnen](http://twitter.com/search?q=Fahnen) | N/A |
+| 34 | [Anton](http://twitter.com/search?q=Anton) | Anton is a masculine given name of Germanic origin. It is derived from the Roman family name Antonius, which is of unknown Etruscan origin. The name means "invaluable" or "priceless". |
+| 35 | [start ins wochenende](http://twitter.com/search?q=start+ins+wochenende) | N/A |
 | 36 | [WARRIOR NUN CAMPERS](http://twitter.com/search?q=WARRIOR+NUN+CAMPERS) | N/A |
-| 37 | [Samstag Abend](http://twitter.com/search?q=Samstag+Abend) | N/A |
-| 38 | [Hagel](http://twitter.com/search?q=Hagel) | N/A |
-| 39 | [Pack](http://twitter.com/search?q=Pack) | N/A |
-| 40 | [werner sinn](http://twitter.com/search?q=werner+sinn) | N/A |
-| 41 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
-| 42 | [BASF](http://twitter.com/search?q=BASF) | N/A |
-| 43 | [Veranstaltung](http://twitter.com/search?q=Veranstaltung) | N/A |
-| 44 | [Darmstadt](http://twitter.com/search?q=Darmstadt) | N/A |
-| 45 | [Pazifist](http://twitter.com/search?q=Pazifist) | N/A |
-| 46 | [Hoffenheim](http://twitter.com/search?q=Hoffenheim) | N/A |
-| 47 | [INEC](http://twitter.com/search?q=INEC) | N/A |
-| 48 | [Angriffskrieg](http://twitter.com/search?q=Angriffskrieg) | N/A |
-| 49 | [Faschisten](http://twitter.com/search?q=Faschisten) | N/A |
-| 50 | [Nachti](http://twitter.com/search?q=Nachti) | N/A |
+| 37 | [Sieg](http://twitter.com/search?q=Sieg) | N/A |
+| 38 | [samstag abend](http://twitter.com/search?q=samstag+abend) | N/A |
+| 39 | [Hagel](http://twitter.com/search?q=Hagel) | N/A |
+| 40 | [Pack](http://twitter.com/search?q=Pack) | N/A |
+| 41 | [werner sinn](http://twitter.com/search?q=werner+sinn) | N/A |
+| 42 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
+| 43 | [BASF](http://twitter.com/search?q=BASF) | N/A |
+| 44 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 45 | [INEC](http://twitter.com/search?q=INEC) | N/A |
+| 46 | [Darmstadt](http://twitter.com/search?q=Darmstadt) | N/A |
+| 47 | [Hoffenheim](http://twitter.com/search?q=Hoffenheim) | N/A |
+| 48 | [Pazifist](http://twitter.com/search?q=Pazifist) | N/A |
+| 49 | [Veranstaltung](http://twitter.com/search?q=Veranstaltung) | N/A |
+| 50 | [Angriffskrieg](http://twitter.com/search?q=Angriffskrieg) | N/A |
 
 
 

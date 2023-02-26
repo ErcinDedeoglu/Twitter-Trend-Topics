@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indonesia
 
-📆 Last Updated: `2023-02-26 04:16:44 UTC`
+📆 Last Updated: `2023-02-26 05:16:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,49 @@ This is top 50 for Indonesia
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#JakartaBINHarusMenang](http://twitter.com/search?q=%23JakartaBINHarusMenang) | N/A |
-| 2 | [#FERRAGAMOxJENO](http://twitter.com/search?q=%23FERRAGAMOxJENO) | N/A |
-| 3 | [David](http://twitter.com/search?q=David) | N/A |
-| 4 | [WE NEED IRENE SOLO SCHEDULE](http://twitter.com/search?q=WE+NEED+IRENE+SOLO+SCHEDULE) | N/A |
-| 5 | [Worst Ghibli](http://twitter.com/search?q=Worst+Ghibli) | N/A |
-| 6 | [Last Ghibli](http://twitter.com/search?q=Last+Ghibli) | N/A |
-| 7 | [Agnes](http://twitter.com/search?q=Agnes) | N/A |
-| 8 | [#RMxBOTTEGAVENETA](http://twitter.com/search?q=%23RMxBOTTEGAVENETA) | N/A |
-| 9 | [#BrendaBagiBagiSkincare](http://twitter.com/search?q=%23BrendaBagiBagiSkincare) | N/A |
-| 10 | [#HollaEighteen](http://twitter.com/search?q=%23HollaEighteen) | N/A |
-| 11 | [Hapsun](http://twitter.com/search?q=Hapsun) | N/A |
-| 12 | [synk with aespa day1](http://twitter.com/search?q=synk+with+aespa+day1) | N/A |
-| 13 | [rakernas ika undip](http://twitter.com/search?q=rakernas+ika+undip) | N/A |
-| 14 | [Minggu](http://twitter.com/search?q=Minggu) | N/A |
-| 15 | [danamon](http://twitter.com/search?q=danamon) | N/A |
-| 16 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 17 | [Menuju Kebangkitan Indonesia](http://twitter.com/search?q=Menuju+Kebangkitan+Indonesia) | N/A |
-| 18 | [Nikah](http://twitter.com/search?q=Nikah) | N/A |
-| 19 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
-| 20 | [PARK JISUNG THANK YOU](http://twitter.com/search?q=PARK+JISUNG+THANK+YOU) | N/A |
-| 21 | [Full OC Name](http://twitter.com/search?q=Full+OC+Name) | N/A |
-| 22 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
-| 23 | [LHKPN](http://twitter.com/search?q=LHKPN) | N/A |
-| 24 | [TXT DREAMGRAPHY](http://twitter.com/search?q=TXT+DREAMGRAPHY) | N/A |
-| 25 | [Yanto](http://twitter.com/search?q=Yanto) | N/A |
-| 26 | [Pesawaran Lampung](http://twitter.com/search?q=Pesawaran+Lampung) | N/A |
-| 27 | [Yamaken](http://twitter.com/search?q=Yamaken) | N/A |
-| 28 | [Dandy](http://twitter.com/search?q=Dandy) | N/A |
-| 29 | [BETTER TREATMENT FOR IRENE](http://twitter.com/search?q=BETTER+TREATMENT+FOR+IRENE) | N/A |
-| 30 | [bulanliterasikripto](http://twitter.com/search?q=bulanliterasikripto) | N/A |
-| 31 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 32 | [RM FASHION STANDARD](http://twitter.com/search?q=RM+FASHION+STANDARD) | N/A |
-| 33 | [Pergi](http://twitter.com/search?q=Pergi) | N/A |
-| 34 | [prabowo untuk indonesia](http://twitter.com/search?q=prabowo+untuk+indonesia) | N/A |
-| 35 | [Anissa Aziza](http://twitter.com/search?q=Anissa+Aziza) | N/A |
-| 36 | [Innalillahi](http://twitter.com/search?q=Innalillahi) | N/A |
-| 37 | [prabowo pilihan kita](http://twitter.com/search?q=prabowo+pilihan+kita) | N/A |
-| 38 | [teguh berislam kaffah](http://twitter.com/search?q=teguh+berislam+kaffah) | N/A |
-| 39 | [Umur 15](http://twitter.com/search?q=Umur+15) | N/A |
-| 40 | [Marnie](http://twitter.com/search?q=Marnie) | N/A |
-| 41 | [Grace](http://twitter.com/search?q=Grace) | N/A |
-| 42 | [Taati Perintah Allah](http://twitter.com/search?q=Taati+Perintah+Allah) | N/A |
-| 43 | [Jerome](http://twitter.com/search?q=Jerome) | N/A |
-| 44 | [Kuda](http://twitter.com/search?q=Kuda) | N/A |
-| 45 | [Risih](http://twitter.com/search?q=Risih) | N/A |
-| 46 | [Ali Yafie](http://twitter.com/search?q=Ali+Yafie) | N/A |
-| 47 | [Pagiii](http://twitter.com/search?q=Pagiii) | N/A |
-| 48 | [Kecoa](http://twitter.com/search?q=Kecoa) | N/A |
-| 49 | [Bersihin](http://twitter.com/search?q=Bersihin) | N/A |
-| 50 | [Elif](http://twitter.com/search?q=Elif) | N/A |
+| 1 | [#ShanDay](http://twitter.com/search?q=%23ShanDay) | N/A |
+| 2 | [#JakartaBINHarusMenang](http://twitter.com/search?q=%23JakartaBINHarusMenang) | N/A |
+| 3 | [WE NEED IRENE SOLO SCHEDULE](http://twitter.com/search?q=WE+NEED+IRENE+SOLO+SCHEDULE) | N/A |
+| 4 | [JAEYONG JAYA JAYA JAYA](http://twitter.com/search?q=JAEYONG+JAYA+JAYA+JAYA) | N/A |
+| 5 | [#RPLDesa](http://twitter.com/search?q=%23RPLDesa) | N/A |
+| 6 | [Jerome](http://twitter.com/search?q=Jerome) | N/A |
+| 7 | [#PCfandayxOsaka](http://twitter.com/search?q=%23PCfandayxOsaka) | N/A |
+| 8 | [Worst Ghibli](http://twitter.com/search?q=Worst+Ghibli) | N/A |
+| 9 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 10 | [Minggu](http://twitter.com/search?q=Minggu) | N/A |
+| 11 | [Didi Kempot](http://twitter.com/search?q=Didi+Kempot) | N/A |
+| 12 | [Last Ghibli](http://twitter.com/search?q=Last+Ghibli) | N/A |
+| 13 | [Menuju Kebangkitan Indonesia](http://twitter.com/search?q=Menuju+Kebangkitan+Indonesia) | N/A |
+| 14 | [BIGHIT](http://twitter.com/search?q=BIGHIT) | N/A |
+| 15 | [Hapsun](http://twitter.com/search?q=Hapsun) | N/A |
+| 16 | [#IreneDeservesBetterTreatment](http://twitter.com/search?q=%23IreneDeservesBetterTreatment) | N/A |
+| 17 | [Yanto](http://twitter.com/search?q=Yanto) | N/A |
+| 18 | [RM FASHION STANDARD](http://twitter.com/search?q=RM+FASHION+STANDARD) | N/A |
+| 19 | [PARK JISUNG THANK YOU](http://twitter.com/search?q=PARK+JISUNG+THANK+YOU) | N/A |
+| 20 | [Ali Yafie](http://twitter.com/search?q=Ali+Yafie) | N/A |
+| 21 | [Innalilahi](http://twitter.com/search?q=Innalilahi) | N/A |
+| 22 | [Perempuan](http://twitter.com/search?q=Perempuan) | N/A |
+| 23 | [Itachi](http://twitter.com/search?q=Itachi) | N/A |
+| 24 | [Spirited Away](http://twitter.com/search?q=Spirited+Away) | N/A |
+| 25 | [Marnie](http://twitter.com/search?q=Marnie) | N/A |
+| 26 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 27 | [Cuci](http://twitter.com/search?q=Cuci) | N/A |
+| 28 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
+| 29 | [Kecoa](http://twitter.com/search?q=Kecoa) | N/A |
+| 30 | [David](http://twitter.com/search?q=David) | N/A |
+| 31 | [Bersihin](http://twitter.com/search?q=Bersihin) | N/A |
+| 32 | [#HollaEighteen](http://twitter.com/search?q=%23HollaEighteen) | N/A |
+| 33 | [#MenangBersamaRakyat](http://twitter.com/search?q=%23MenangBersamaRakyat) | N/A |
+| 34 | [#PAN12PAS](http://twitter.com/search?q=%23PAN12PAS) | N/A |
+| 35 | [#GMMTVFANDAY2](http://twitter.com/search?q=%23GMMTVFANDAY2) | N/A |
+| 36 | [#Highway](http://twitter.com/search?q=%23Highway) | N/A |
+| 37 | [#HotGirlGiselleInKorea](http://twitter.com/search?q=%23HotGirlGiselleInKorea) | N/A |
+| 38 | [#RMxBOTTEGAVENETA](http://twitter.com/search?q=%23RMxBOTTEGAVENETA) | N/A |
+| 39 | [#RaisaGBK2023](http://twitter.com/search?q=%23RaisaGBK2023) | N/A |
+| 40 | [#TaxiDriver2Ep4](http://twitter.com/search?q=%23TaxiDriver2Ep4) | N/A |
+| 41 | [#UsutKembaliKasusKM50](http://twitter.com/search?q=%23UsutKembaliKasusKM50) | N/A |
+| 42 | [#MissingMovieID](http://twitter.com/search?q=%23MissingMovieID) | N/A |
+| 43 | [#bocahedewe](http://twitter.com/search?q=%23bocahedewe) | N/A |
 
 
 
