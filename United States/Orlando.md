@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Orlando
 
-📆 Last Updated: `2023-02-26 00:30:23 UTC`
+📆 Last Updated: `2023-02-26 01:44:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Canes](http://twitter.com/search?q=Canes) | N/A |
-| 2 | [#VamosOrlando](http://twitter.com/search?q=%23VamosOrlando) | N/A |
-| 3 | [Chair](http://twitter.com/search?q=Chair) | N/A |
-| 4 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 5 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
+| 1 | [#VamosOrlando](http://twitter.com/search?q=%23VamosOrlando) | N/A |
+| 2 | [Canes](http://twitter.com/search?q=Canes) | N/A |
+| 3 | [#MagicTogether](http://twitter.com/search?q=%23MagicTogether) | N/A |
+| 4 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
+| 5 | [Spring Training](http://twitter.com/search?q=Spring+Training) | N/A |
 | 6 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
-| 7 | [#Optimusinu](http://twitter.com/search?q=%23Optimusinu) | N/A |
+| 7 | [#NAACPImageAwards](http://twitter.com/search?q=%23NAACPImageAwards) | N/A |
 | 8 | [#UFCVegas70](http://twitter.com/search?q=%23UFCVegas70) | N/A |
 | 9 | [Paul Ryan](http://twitter.com/search?q=Paul+Ryan) | Paul Ryan is the name of an American politician who served as the 54th Speaker of the United States House of Representatives from October 2015 to January 2019. He is a member of the Republican Party and was previously the Vice Presidential nominee for the 2012 election. The meaning of his name in English is "little king". |
-| 10 | [Trevor Peek](http://twitter.com/search?q=Trevor+Peek) | N/A |
-| 11 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
-| 12 | [#UFCFightNight](http://twitter.com/search?q=%23UFCFightNight) | N/A |
-| 13 | [#Chrome23](http://twitter.com/search?q=%23Chrome23) | N/A |
-| 14 | [Pat Adams](http://twitter.com/search?q=Pat+Adams) | N/A |
-| 15 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
-| 16 | [Pete Nance](http://twitter.com/search?q=Pete+Nance) | N/A |
-| 17 | [Fran](http://twitter.com/search?q=Fran) | N/A |
-| 18 | [Arizona State](http://twitter.com/search?q=Arizona+State) | N/A |
-| 19 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
-| 20 | [Jordan Leavitt](http://twitter.com/search?q=Jordan+Leavitt) | N/A |
-| 21 | [Florida State](http://twitter.com/search?q=Florida+State) | N/A |
-| 22 | [Mike Malott](http://twitter.com/search?q=Mike+Malott) | N/A |
-| 23 | [Matthew Cleveland](http://twitter.com/search?q=Matthew+Cleveland) | N/A |
-| 24 | [Krylov](http://twitter.com/search?q=Krylov) | N/A |
-| 25 | [Noles](http://twitter.com/search?q=Noles) | N/A |
-| 26 | [WARRIOR NUN CAMPERS](http://twitter.com/search?q=WARRIOR+NUN+CAMPERS) | N/A |
-| 27 | [Hany Mukhtar](http://twitter.com/search?q=Hany+Mukhtar) | N/A |
-| 28 | [Zeus](http://twitter.com/search?q=Zeus) | Zeus is the name of the supreme god in Greek mythology. He was the god of the sky, lightning, thunder, law, order, and justice. He was also known as the king of gods and ruler of Mount Olympus. In English, Zeus is often used to refer to a person who is powerful or influential. |
-| 29 | [Boeheim](http://twitter.com/search?q=Boeheim) | N/A |
-| 30 | [Amosov](http://twitter.com/search?q=Amosov) | N/A |
-| 31 | [Apple TV](http://twitter.com/search?q=Apple+TV) | N/A |
+| 10 | [#Svengoolie](http://twitter.com/search?q=%23Svengoolie) | N/A |
+| 11 | [Pete Nance](http://twitter.com/search?q=Pete+Nance) | N/A |
+| 12 | [zendaya](http://twitter.com/search?q=zendaya) | Zendaya is a female given name of African-American origin, derived from the Shona language of Zimbabwe. It means "to give thanks" or "to be thankful". |
+| 13 | [Trevor Peek](http://twitter.com/search?q=Trevor+Peek) | N/A |
+| 14 | [Jalen Hood](http://twitter.com/search?q=Jalen+Hood) | N/A |
+| 15 | [MLS 360](http://twitter.com/search?q=MLS+360) | N/A |
+| 16 | [Tatiana Suarez](http://twitter.com/search?q=Tatiana+Suarez) | N/A |
+| 17 | [Apple TV](http://twitter.com/search?q=Apple+TV) | N/A |
+| 18 | [Queen Latifah](http://twitter.com/search?q=Queen+Latifah) | Queen Latifah is the stage name of American rapper, singer, songwriter, actress, and producer Dana Elaine Owens. The name Queen Latifah is derived from the Arabic word "Latifah," which means "delicate" or "sensitive." |
+| 19 | [Uncle Clifford](http://twitter.com/search?q=Uncle+Clifford) | N/A |
+| 20 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
+| 21 | [Edey](http://twitter.com/search?q=Edey) | Edey is a slang term used in some parts of the United States to refer to someone who is cool, stylish, or attractive. It can also be used as a term of endearment. |
+| 22 | [Mayes](http://twitter.com/search?q=Mayes) | N/A |
+| 23 | [Sakai](http://twitter.com/search?q=Sakai) | N/A |
+| 24 | [Pristavia](http://twitter.com/search?q=Pristavia) | N/A |
+| 25 | [Pat Adams](http://twitter.com/search?q=Pat+Adams) | N/A |
+| 26 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
+| 27 | [Fran](http://twitter.com/search?q=Fran) | N/A |
+| 28 | [Virginia](http://twitter.com/search?q=Virginia) | N/A |
+| 29 | [Mike Malott](http://twitter.com/search?q=Mike+Malott) | N/A |
+| 30 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
+| 31 | [Boeheim](http://twitter.com/search?q=Boeheim) | N/A |
 | 32 | [Deep Purple](http://twitter.com/search?q=Deep+Purple) | N/A |
-| 33 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
-| 34 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
-| 35 | [Bruce Pearl](http://twitter.com/search?q=Bruce+Pearl) | N/A |
-| 36 | [Spring Training](http://twitter.com/search?q=Spring+Training) | N/A |
-| 37 | [Cubs](http://twitter.com/search?q=Cubs) | N/A |
-| 38 | [Confidence Game](http://twitter.com/search?q=Confidence+Game) | N/A |
-| 39 | [Baseball](http://twitter.com/search?q=Baseball) | N/A |
-| 40 | [Nino](http://twitter.com/search?q=Nino) | N/A |
-| 41 | [Charles Johnson](http://twitter.com/search?q=Charles+Johnson) | Charles Johnson is a common English surname. It is derived from the given name Charles, which is derived from the Germanic name Karl, meaning "free man". |
-| 42 | [Joe Lombardi](http://twitter.com/search?q=Joe+Lombardi) | Joe Lombardi is an American football coach and former player. He is currently the offensive coordinator for the Detroit Lions of the National Football League (NFL). He previously served as the quarterbacks coach for the New Orleans Saints from 2009 to 2013, helping them win Super Bowl XLIV in 2010. The name Joe Lombardi is associated with success in the NFL, as he has been part of teams that have won three Super Bowls. |
-| 43 | [Antonio Reeves](http://twitter.com/search?q=Antonio+Reeves) | N/A |
-| 44 | [Manfred](http://twitter.com/search?q=Manfred) | N/A |
-| 45 | [Scott Adams](http://twitter.com/search?q=Scott+Adams) | N/A |
-| 46 | [Walker Zimmerman](http://twitter.com/search?q=Walker+Zimmerman) | N/A |
-| 47 | [Osbourne](http://twitter.com/search?q=Osbourne) | N/A |
-| 48 | [Pete Alonso](http://twitter.com/search?q=Pete+Alonso) | N/A |
-| 49 | [Aliev](http://twitter.com/search?q=Aliev) | N/A |
+| 33 | [Scott Adams](http://twitter.com/search?q=Scott+Adams) | N/A |
+| 34 | [Krylov](http://twitter.com/search?q=Krylov) | N/A |
+| 35 | [Brayden Point](http://twitter.com/search?q=Brayden+Point) | N/A |
+| 36 | [DC United](http://twitter.com/search?q=DC+United) | N/A |
+| 37 | [Atlanta United](http://twitter.com/search?q=Atlanta+United) | N/A |
+| 38 | [Zeus](http://twitter.com/search?q=Zeus) | Zeus is the name of the supreme god in Greek mythology. He was the god of the sky, lightning, thunder, law, order, and justice. He was also known as the king of gods and ruler of Mount Olympus. In English, Zeus is often used to refer to a person who is powerful or influential. |
+| 39 | [Trayce Jackson](http://twitter.com/search?q=Trayce+Jackson) | N/A |
+| 40 | [Hany Mukhtar](http://twitter.com/search?q=Hany+Mukhtar) | N/A |
+| 41 | [Vipers](http://twitter.com/search?q=Vipers) | N/A |
+| 42 | [Confidence Game](http://twitter.com/search?q=Confidence+Game) | N/A |
+| 43 | [Jordan Leavitt](http://twitter.com/search?q=Jordan+Leavitt) | N/A |
+| 44 | [Florida State](http://twitter.com/search?q=Florida+State) | N/A |
+| 45 | [Caleb Love](http://twitter.com/search?q=Caleb+Love) | Caleb Love is a phrase that is used to express love and affection for someone. It is derived from the biblical figure Caleb, who was known for his loyalty and faithfulness. In English, it can be used as a term of endearment or to express admiration for someone. |
+| 46 | [Mackey](http://twitter.com/search?q=Mackey) | N/A |
+| 47 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
+| 48 | [Baseball](http://twitter.com/search?q=Baseball) | N/A |
+| 49 | [Matthew Cleveland](http://twitter.com/search?q=Matthew+Cleveland) | N/A |
 
 
 

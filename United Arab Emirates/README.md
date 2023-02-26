@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For United Arab Emirates
 
-📆 Last Updated: `2023-02-26 00:30:26 UTC`
+📆 Last Updated: `2023-02-26 01:44:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for United Arab Emirates
 | 1 | [الكويت](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d9%88%d9%8a%d8%aa) | N/A |
 | 2 | [#العين_الشارقه](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b9%d9%8a%d9%86_%d8%a7%d9%84%d8%b4%d8%a7%d8%b1%d9%82%d9%87) | N/A |
 | 3 | [#كاس_السوبر_الاماراتي](http://twitter.com/search?q=%23%d9%83%d8%a7%d8%b3_%d8%a7%d9%84%d8%b3%d9%88%d8%a8%d8%b1_%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d8%b1%d8%a7%d8%aa%d9%8a) | N/A |
-| 4 | [#幸运飞艇](http://twitter.com/search?q=%23%e5%b9%b8%e8%bf%90%e9%a3%9e%e8%89%87) | N/A |
-| 5 | [#PP电子](http://twitter.com/search?q=%23PP%e7%94%b5%e5%ad%90) | N/A |
-| 6 | [#幸运五分彩](http://twitter.com/search?q=%23%e5%b9%b8%e8%bf%90%e4%ba%94%e5%88%86%e5%bd%a9) | N/A |
-| 7 | [الملك الشرجاوي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%84%d9%83+%d8%a7%d9%84%d8%b4%d8%b1%d8%ac%d8%a7%d9%88%d9%8a) | N/A |
+| 4 | [الملك الشرجاوي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%84%d9%83+%d8%a7%d9%84%d8%b4%d8%b1%d8%ac%d8%a7%d9%88%d9%8a) | N/A |
+| 5 | [#开云体育](http://twitter.com/search?q=%23%e5%bc%80%e4%ba%91%e4%bd%93%e8%82%b2) | N/A |
+| 6 | [#通比牛牛](http://twitter.com/search?q=%23%e9%80%9a%e6%af%94%e7%89%9b%e7%89%9b) | N/A |
+| 7 | [#奔驰宝马](http://twitter.com/search?q=%23%e5%a5%94%e9%a9%b0%e5%ae%9d%e9%a9%ac) | N/A |
 | 8 | [يحيى](http://twitter.com/search?q=%d9%8a%d8%ad%d9%8a%d9%89) | N/A |
 | 9 | [عادل الحوسني](http://twitter.com/search?q=%d8%b9%d8%a7%d8%af%d9%84+%d8%a7%d9%84%d8%ad%d9%88%d8%b3%d9%86%d9%8a) | N/A |
 | 10 | [عمر جابر](http://twitter.com/search?q=%d8%b9%d9%85%d8%b1+%d8%ac%d8%a7%d8%a8%d8%b1) | عمر جابر is an Arabic name meaning "Omar the Brave". |
 | 11 | [ليستر](http://twitter.com/search?q=%d9%84%d9%8a%d8%b3%d8%aa%d8%b1) | N/A |
 | 12 | [الامه العيناويه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%87+%d8%a7%d9%84%d8%b9%d9%8a%d9%86%d8%a7%d9%88%d9%8a%d9%87) | N/A |
-| 13 | [INEC](http://twitter.com/search?q=INEC) | N/A |
-| 14 | [مانولاس](http://twitter.com/search?q=%d9%85%d8%a7%d9%86%d9%88%d9%84%d8%a7%d8%b3) | N/A |
-| 15 | [الزمالك](http://twitter.com/search?q=%d8%a7%d9%84%d8%b2%d9%85%d8%a7%d9%84%d9%83) | الزمالك is a professional football club based in Cairo, Egypt. The club was founded in 1948 and is one of the most successful clubs in the Egyptian Premier League. The name الزمالك translates to "The Champions" in English. |
-| 16 | [الفارو](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%a7%d8%b1%d9%88) | الفارو is an Arabic word that means "the fox". |
+| 13 | [مانولاس](http://twitter.com/search?q=%d9%85%d8%a7%d9%86%d9%88%d9%84%d8%a7%d8%b3) | N/A |
+| 14 | [INEC](http://twitter.com/search?q=INEC) | N/A |
+| 15 | [الفارو](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%a7%d8%b1%d9%88) | الفارو is an Arabic word that means "the fox". |
+| 16 | [الزمالك](http://twitter.com/search?q=%d8%a7%d9%84%d8%b2%d9%85%d8%a7%d9%84%d9%83) | الزمالك is a professional football club based in Cairo, Egypt. The club was founded in 1948 and is one of the most successful clubs in the Egyptian Premier League. The name الزمالك translates to "The Champions" in English. |
 | 17 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
 | 18 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
 | 19 | [الزعيم العيناوي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b2%d8%b9%d9%8a%d9%85+%d8%a7%d9%84%d8%b9%d9%8a%d9%86%d8%a7%d9%88%d9%8a) | N/A |
-| 20 | [صانع لعب](http://twitter.com/search?q=%d8%b5%d8%a7%d9%86%d8%b9+%d9%84%d8%b9%d8%a8) | N/A |
-| 21 | [انشيلوتي](http://twitter.com/search?q=%d8%a7%d9%86%d8%b4%d9%8a%d9%84%d9%88%d8%aa%d9%8a) | انشيلوتي (Anshiloti) is a type of traditional Arabic music and dance. It is characterized by its fast tempo and intricate rhythms. The word "Anshiloti" comes from the Arabic root word "anshil" which means to move quickly. In English, it can be translated as "quick dance". |
-| 22 | [خالد البلوشي](http://twitter.com/search?q=%d8%ae%d8%a7%d9%84%d8%af+%d8%a7%d9%84%d8%a8%d9%84%d9%88%d8%b4%d9%8a) | N/A |
-| 23 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 24 | [سباليتي](http://twitter.com/search?q=%d8%b3%d8%a8%d8%a7%d9%84%d9%8a%d8%aa%d9%8a) | N/A |
-| 25 | [Yoruba](http://twitter.com/search?q=Yoruba) | N/A |
-| 26 | [علي العين](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b9%d9%8a%d9%86) | N/A |
-| 27 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
-| 28 | [سيميوني](http://twitter.com/search?q=%d8%b3%d9%8a%d9%85%d9%8a%d9%88%d9%86%d9%8a) | سيميوني (Simonee) is an Arabic name meaning "listener". It is also a variant of the name Simone, which is derived from the Hebrew name Shimon, meaning "he who hears". |
-| 29 | [وطن النهار](http://twitter.com/search?q=%d9%88%d8%b7%d9%86+%d8%a7%d9%84%d9%86%d9%87%d8%a7%d8%b1) | N/A |
-| 30 | [بورنموث](http://twitter.com/search?q=%d8%a8%d9%88%d8%b1%d9%86%d9%85%d9%88%d8%ab) | N/A |
-| 31 | [التشغيل التجاري](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b4%d8%ba%d9%8a%d9%84+%d8%a7%d9%84%d8%aa%d8%ac%d8%a7%d8%b1%d9%8a) | N/A |
-| 32 | [ايريك](http://twitter.com/search?q=%d8%a7%d9%8a%d8%b1%d9%8a%d9%83) | N/A |
-| 33 | [كويت المحبه](http://twitter.com/search?q=%d9%83%d9%88%d9%8a%d8%aa+%d8%a7%d9%84%d9%85%d8%ad%d8%a8%d9%87) | N/A |
-| 34 | [محمد هاني](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d9%87%d8%a7%d9%86%d9%8a) | N/A |
-| 35 | [صن داونز](http://twitter.com/search?q=%d8%b5%d9%86+%d8%af%d8%a7%d9%88%d9%86%d8%b2) | N/A |
-| 36 | [فالفيردي](http://twitter.com/search?q=%d9%81%d8%a7%d9%84%d9%81%d9%8a%d8%b1%d8%af%d9%8a) | فالفيردي is an Arabic phrase that translates to "farewell" in English. It is used as a way of saying goodbye or expressing good wishes when someone is leaving. |
-| 37 | [بو سالم](http://twitter.com/search?q=%d8%a8%d9%88+%d8%b3%d8%a7%d9%84%d9%85) | N/A |
-| 38 | [نواف الاحمد الجابر الصباح](http://twitter.com/search?q=%d9%86%d9%88%d8%a7%d9%81+%d8%a7%d9%84%d8%a7%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%ac%d8%a7%d8%a8%d8%b1+%d8%a7%d9%84%d8%b5%d8%a8%d8%a7%d8%ad) | N/A |
-| 39 | [الشوط الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | الشوط الثاني is an Arabic phrase meaning "the second round". It is often used to refer to a second attempt at something, such as a second try at a test or a second attempt at a project. |
-| 40 | [الدون](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d9%86) | الدون is an Arabic word that means "donation" or "contribution". It is used to refer to a voluntary gift of money or goods given to a charity, religious organization, or other cause. |
-| 41 | [علي لابا](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%84%d8%a7%d8%a8%d8%a7) | N/A |
-| 42 | [كاس رييس الدوله](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%87) | N/A |
-| 43 | [تاريخ العرب](http://twitter.com/search?q=%d8%aa%d8%a7%d8%b1%d9%8a%d8%ae+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8) | N/A |
-| 44 | [نواف الأحمد الجابر](http://twitter.com/search?q=%d9%86%d9%88%d8%a7%d9%81+%d8%a7%d9%84%d8%a3%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%ac%d8%a7%d8%a8%d8%b1) | N/A |
-| 45 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
-| 46 | [المره الثالثه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab%d9%87) | N/A |
-| 47 | [العيد الوطني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%8a%d8%af+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
-| 48 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 49 | [الذريه الصالحه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b0%d8%b1%d9%8a%d9%87+%d8%a7%d9%84%d8%b5%d8%a7%d9%84%d8%ad%d9%87) | N/A |
-| 50 | [اسينسيو](http://twitter.com/search?q=%d8%a7%d8%b3%d9%8a%d9%86%d8%b3%d9%8a%d9%88) | اسينسيو is a transliteration of the Greek word "συνέσεις" which means "understanding" or "insight" in English. |
+| 20 | [خالد البلوشي](http://twitter.com/search?q=%d8%ae%d8%a7%d9%84%d8%af+%d8%a7%d9%84%d8%a8%d9%84%d9%88%d8%b4%d9%8a) | N/A |
+| 21 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 22 | [سباليتي](http://twitter.com/search?q=%d8%b3%d8%a8%d8%a7%d9%84%d9%8a%d8%aa%d9%8a) | N/A |
+| 23 | [انشيلوتي](http://twitter.com/search?q=%d8%a7%d9%86%d8%b4%d9%8a%d9%84%d9%88%d8%aa%d9%8a) | انشيلوتي (Anshiloti) is a type of traditional Arabic music and dance. It is characterized by its fast tempo and intricate rhythms. The word "Anshiloti" comes from the Arabic root word "anshil" which means to move quickly. In English, it can be translated as "quick dance". |
+| 24 | [علي العين](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b9%d9%8a%d9%86) | N/A |
+| 25 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
+| 26 | [صانع لعب](http://twitter.com/search?q=%d8%b5%d8%a7%d9%86%d8%b9+%d9%84%d8%b9%d8%a8) | N/A |
+| 27 | [سيميوني](http://twitter.com/search?q=%d8%b3%d9%8a%d9%85%d9%8a%d9%88%d9%86%d9%8a) | سيميوني (Simonee) is an Arabic name meaning "listener". It is also a variant of the name Simone, which is derived from the Hebrew name Shimon, meaning "he who hears". |
+| 28 | [بورنموث](http://twitter.com/search?q=%d8%a8%d9%88%d8%b1%d9%86%d9%85%d9%88%d8%ab) | N/A |
+| 29 | [التشغيل التجاري](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b4%d8%ba%d9%8a%d9%84+%d8%a7%d9%84%d8%aa%d8%ac%d8%a7%d8%b1%d9%8a) | N/A |
+| 30 | [ايريك](http://twitter.com/search?q=%d8%a7%d9%8a%d8%b1%d9%8a%d9%83) | N/A |
+| 31 | [كويت المحبه](http://twitter.com/search?q=%d9%83%d9%88%d9%8a%d8%aa+%d8%a7%d9%84%d9%85%d8%ad%d8%a8%d9%87) | N/A |
+| 32 | [محمد هاني](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d9%87%d8%a7%d9%86%d9%8a) | N/A |
+| 33 | [صن داونز](http://twitter.com/search?q=%d8%b5%d9%86+%d8%af%d8%a7%d9%88%d9%86%d8%b2) | N/A |
+| 34 | [فالفيردي](http://twitter.com/search?q=%d9%81%d8%a7%d9%84%d9%81%d9%8a%d8%b1%d8%af%d9%8a) | فالفيردي is an Arabic phrase that translates to "farewell" in English. It is used as a way of saying goodbye or expressing good wishes when someone is leaving. |
+| 35 | [بو سالم](http://twitter.com/search?q=%d8%a8%d9%88+%d8%b3%d8%a7%d9%84%d9%85) | N/A |
+| 36 | [نواف الاحمد الجابر الصباح](http://twitter.com/search?q=%d9%86%d9%88%d8%a7%d9%81+%d8%a7%d9%84%d8%a7%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%ac%d8%a7%d8%a8%d8%b1+%d8%a7%d9%84%d8%b5%d8%a8%d8%a7%d8%ad) | N/A |
+| 37 | [الشوط الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | الشوط الثاني is an Arabic phrase meaning "the second round". It is often used to refer to a second attempt at something, such as a second try at a test or a second attempt at a project. |
+| 38 | [الدون](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d9%86) | الدون is an Arabic word that means "donation" or "contribution". It is used to refer to a voluntary gift of money or goods given to a charity, religious organization, or other cause. |
+| 39 | [علي لابا](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%84%d8%a7%d8%a8%d8%a7) | N/A |
+| 40 | [تاريخ العرب](http://twitter.com/search?q=%d8%aa%d8%a7%d8%b1%d9%8a%d8%ae+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8) | N/A |
+| 41 | [نواف الأحمد الجابر](http://twitter.com/search?q=%d9%86%d9%88%d8%a7%d9%81+%d8%a7%d9%84%d8%a3%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%ac%d8%a7%d8%a8%d8%b1) | N/A |
+| 42 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
+| 43 | [المره الثالثه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab%d9%87) | N/A |
+| 44 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 45 | [العيد الوطني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%8a%d8%af+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
+| 46 | [الذريه الصالحه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b0%d8%b1%d9%8a%d9%87+%d8%a7%d9%84%d8%b5%d8%a7%d9%84%d8%ad%d9%87) | N/A |
+| 47 | [اسينسيو](http://twitter.com/search?q=%d8%a7%d8%b3%d9%8a%d9%86%d8%b3%d9%8a%d9%88) | اسينسيو is a transliteration of the Greek word "συνέσεις" which means "understanding" or "insight" in English. |
+| 48 | [نادي العين](http://twitter.com/search?q=%d9%86%d8%a7%d8%af%d9%8a+%d8%a7%d9%84%d8%b9%d9%8a%d9%86) | N/A |
+| 49 | [عامر عبدالله](http://twitter.com/search?q=%d8%b9%d8%a7%d9%85%d8%b1+%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87) | N/A |
+| 50 | [اجانب](http://twitter.com/search?q=%d8%a7%d8%ac%d8%a7%d9%86%d8%a8) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-02-26 00:30:22 UTC`
+📆 Last Updated: `2023-02-26 01:44:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Keith](http://twitter.com/search?q=Keith) | N/A |
-| 2 | [#Mets](http://twitter.com/search?q=%23Mets) | N/A |
-| 3 | [Lindgren](http://twitter.com/search?q=Lindgren) | N/A |
-| 4 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 5 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 6 | [#SaveWarriorNun](http://twitter.com/search?q=%23SaveWarriorNun) | N/A |
-| 7 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 8 | [St. John](http://twitter.com/search?q=St.+John) | N/A |
-| 9 | [#sjubb](http://twitter.com/search?q=%23sjubb) | N/A |
-| 10 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
-| 11 | [#Optimusinu](http://twitter.com/search?q=%23Optimusinu) | N/A |
-| 12 | [#UFCVegas70](http://twitter.com/search?q=%23UFCVegas70) | N/A |
-| 13 | [Paul Ryan](http://twitter.com/search?q=Paul+Ryan) | Paul Ryan is the name of an American politician who served as the 54th Speaker of the United States House of Representatives from October 2015 to January 2019. He is a member of the Republican Party and was previously the Vice Presidential nominee for the 2012 election. The meaning of his name in English is "little king". |
-| 14 | [Trevor Peek](http://twitter.com/search?q=Trevor+Peek) | N/A |
-| 15 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
-| 16 | [Pat Adams](http://twitter.com/search?q=Pat+Adams) | N/A |
-| 17 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
-| 18 | [Pete Nance](http://twitter.com/search?q=Pete+Nance) | N/A |
-| 19 | [Fran](http://twitter.com/search?q=Fran) | N/A |
-| 20 | [Arizona State](http://twitter.com/search?q=Arizona+State) | N/A |
-| 21 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
-| 22 | [Jordan Leavitt](http://twitter.com/search?q=Jordan+Leavitt) | N/A |
-| 23 | [Florida State](http://twitter.com/search?q=Florida+State) | N/A |
-| 24 | [Matthew Cleveland](http://twitter.com/search?q=Matthew+Cleveland) | N/A |
-| 25 | [Krylov](http://twitter.com/search?q=Krylov) | N/A |
-| 26 | [Noles](http://twitter.com/search?q=Noles) | N/A |
-| 27 | [Mike Malott](http://twitter.com/search?q=Mike+Malott) | N/A |
-| 28 | [WARRIOR NUN CAMPERS](http://twitter.com/search?q=WARRIOR+NUN+CAMPERS) | N/A |
-| 29 | [Hany Mukhtar](http://twitter.com/search?q=Hany+Mukhtar) | N/A |
-| 30 | [Zeus](http://twitter.com/search?q=Zeus) | Zeus is the name of the supreme god in Greek mythology. He was the god of the sky, lightning, thunder, law, order, and justice. He was also known as the king of gods and ruler of Mount Olympus. In English, Zeus is often used to refer to a person who is powerful or influential. |
-| 31 | [Boeheim](http://twitter.com/search?q=Boeheim) | N/A |
-| 32 | [Amosov](http://twitter.com/search?q=Amosov) | N/A |
-| 33 | [Apple TV](http://twitter.com/search?q=Apple+TV) | N/A |
-| 34 | [Deep Purple](http://twitter.com/search?q=Deep+Purple) | N/A |
-| 35 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
-| 36 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
-| 37 | [Bruce Pearl](http://twitter.com/search?q=Bruce+Pearl) | N/A |
-| 38 | [Spring Training](http://twitter.com/search?q=Spring+Training) | N/A |
-| 39 | [Cubs](http://twitter.com/search?q=Cubs) | N/A |
-| 40 | [Confidence Game](http://twitter.com/search?q=Confidence+Game) | N/A |
-| 41 | [Baseball](http://twitter.com/search?q=Baseball) | N/A |
-| 42 | [Charles Johnson](http://twitter.com/search?q=Charles+Johnson) | Charles Johnson is a common English surname. It is derived from the given name Charles, which is derived from the Germanic name Karl, meaning "free man". |
-| 43 | [Nino](http://twitter.com/search?q=Nino) | N/A |
-| 44 | [Joe Lombardi](http://twitter.com/search?q=Joe+Lombardi) | Joe Lombardi is an American football coach and former player. He is currently the offensive coordinator for the Detroit Lions of the National Football League (NFL). He previously served as the quarterbacks coach for the New Orleans Saints from 2009 to 2013, helping them win Super Bowl XLIV in 2010. The name Joe Lombardi is associated with success in the NFL, as he has been part of teams that have won three Super Bowls. |
-| 45 | [Manfred](http://twitter.com/search?q=Manfred) | N/A |
-| 46 | [Antonio Reeves](http://twitter.com/search?q=Antonio+Reeves) | N/A |
-| 47 | [Scott Adams](http://twitter.com/search?q=Scott+Adams) | N/A |
-| 48 | [Walker Zimmerman](http://twitter.com/search?q=Walker+Zimmerman) | N/A |
-| 49 | [Osbourne](http://twitter.com/search?q=Osbourne) | N/A |
-| 50 | [Pete Alonso](http://twitter.com/search?q=Pete+Alonso) | N/A |
+| 1 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
+| 2 | [Kulich](http://twitter.com/search?q=Kulich) | N/A |
+| 3 | [Tuch](http://twitter.com/search?q=Tuch) | N/A |
+| 4 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
+| 5 | [Keith](http://twitter.com/search?q=Keith) | N/A |
+| 6 | [#Mets](http://twitter.com/search?q=%23Mets) | N/A |
+| 7 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
+| 8 | [#LFGM](http://twitter.com/search?q=%23LFGM) | #LFGM stands for "Looking for Group Members" and is used on social media platforms to indicate that someone is looking for people to join their group or team. |
+| 9 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
+| 10 | [Mitch](http://twitter.com/search?q=Mitch) | N/A |
+| 11 | [RINO](http://twitter.com/search?q=RINO) | RINO stands for "Republican In Name Only," and it is a term used to describe a Republican politician who is perceived as not adhering to the party's traditional values or platform. |
+| 12 | [Lindgren](http://twitter.com/search?q=Lindgren) | N/A |
+| 13 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
+| 14 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 15 | [Spring Training](http://twitter.com/search?q=Spring+Training) | N/A |
+| 16 | [#sjubb](http://twitter.com/search?q=%23sjubb) | N/A |
+| 17 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
+| 18 | [#NAACPImageAwards](http://twitter.com/search?q=%23NAACPImageAwards) | N/A |
+| 19 | [#UFCVegas70](http://twitter.com/search?q=%23UFCVegas70) | N/A |
+| 20 | [Paul Ryan](http://twitter.com/search?q=Paul+Ryan) | Paul Ryan is the name of an American politician who served as the 54th Speaker of the United States House of Representatives from October 2015 to January 2019. He is a member of the Republican Party and was previously the Vice Presidential nominee for the 2012 election. The meaning of his name in English is "little king". |
+| 21 | [Pete Nance](http://twitter.com/search?q=Pete+Nance) | N/A |
+| 22 | [Trevor Peek](http://twitter.com/search?q=Trevor+Peek) | N/A |
+| 23 | [zendaya](http://twitter.com/search?q=zendaya) | Zendaya is a female given name of African-American origin, derived from the Shona language of Zimbabwe. It means "to give thanks" or "to be thankful". |
+| 24 | [Jalen Hood](http://twitter.com/search?q=Jalen+Hood) | N/A |
+| 25 | [MLS 360](http://twitter.com/search?q=MLS+360) | N/A |
+| 26 | [Tatiana Suarez](http://twitter.com/search?q=Tatiana+Suarez) | N/A |
+| 27 | [Apple TV](http://twitter.com/search?q=Apple+TV) | N/A |
+| 28 | [Queen Latifah](http://twitter.com/search?q=Queen+Latifah) | Queen Latifah is the stage name of American rapper, singer, songwriter, actress, and producer Dana Elaine Owens. The name Queen Latifah is derived from the Arabic word "Latifah," which means "delicate" or "sensitive." |
+| 29 | [Uncle Clifford](http://twitter.com/search?q=Uncle+Clifford) | N/A |
+| 30 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
+| 31 | [Edey](http://twitter.com/search?q=Edey) | Edey is a slang term used in some parts of the United States to refer to someone who is cool, stylish, or attractive. It can also be used as a term of endearment. |
+| 32 | [Mayes](http://twitter.com/search?q=Mayes) | N/A |
+| 33 | [Sakai](http://twitter.com/search?q=Sakai) | N/A |
+| 34 | [Pristavia](http://twitter.com/search?q=Pristavia) | N/A |
+| 35 | [Pat Adams](http://twitter.com/search?q=Pat+Adams) | N/A |
+| 36 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
+| 37 | [Fran](http://twitter.com/search?q=Fran) | N/A |
+| 38 | [Virginia](http://twitter.com/search?q=Virginia) | N/A |
+| 39 | [Mike Malott](http://twitter.com/search?q=Mike+Malott) | N/A |
+| 40 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
+| 41 | [Boeheim](http://twitter.com/search?q=Boeheim) | N/A |
+| 42 | [Scott Adams](http://twitter.com/search?q=Scott+Adams) | N/A |
+| 43 | [Deep Purple](http://twitter.com/search?q=Deep+Purple) | N/A |
+| 44 | [Krylov](http://twitter.com/search?q=Krylov) | N/A |
+| 45 | [Brayden Point](http://twitter.com/search?q=Brayden+Point) | N/A |
+| 46 | [DC United](http://twitter.com/search?q=DC+United) | N/A |
+| 47 | [Atlanta United](http://twitter.com/search?q=Atlanta+United) | N/A |
+| 48 | [Zeus](http://twitter.com/search?q=Zeus) | Zeus is the name of the supreme god in Greek mythology. He was the god of the sky, lightning, thunder, law, order, and justice. He was also known as the king of gods and ruler of Mount Olympus. In English, Zeus is often used to refer to a person who is powerful or influential. |
+| 49 | [Hany Mukhtar](http://twitter.com/search?q=Hany+Mukhtar) | N/A |
+| 50 | [Vipers](http://twitter.com/search?q=Vipers) | N/A |
 
 
 

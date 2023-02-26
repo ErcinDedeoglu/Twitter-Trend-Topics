@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Osaka
 
-📆 Last Updated: `2023-02-26 00:30:26 UTC`
+📆 Last Updated: `2023-02-26 01:44:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Japan](</Japan>)
 | ------- | ------------ | ------------ |
 | 1 | [交通規制](http://twitter.com/search?q=%e4%ba%a4%e9%80%9a%e8%a6%8f%e5%88%b6) | N/A |
 | 2 | [ランナー](http://twitter.com/search?q=%e3%83%a9%e3%83%b3%e3%83%8a%e3%83%bc) | N/A |
-| 3 | [ジオグリフ](http://twitter.com/search?q=%e3%82%b8%e3%82%aa%e3%82%b0%e3%83%aa%e3%83%95) | N/A |
-| 4 | [シルヴァーソニック](http://twitter.com/search?q=%e3%82%b7%e3%83%ab%e3%83%b4%e3%82%a1%e3%83%bc%e3%82%bd%e3%83%8b%e3%83%83%e3%82%af) | N/A |
-| 5 | [スンミン](http://twitter.com/search?q=%e3%82%b9%e3%83%b3%e3%83%9f%e3%83%b3) | N/A |
-| 6 | [グッズ列](http://twitter.com/search?q=%e3%82%b0%e3%83%83%e3%82%ba%e5%88%97) | グッズ列 (Guzzu retsu) is a Japanese term that refers to a line of merchandise, usually related to a particular event or product. In English, it can be translated as "merchandise line" or "merchandise queue". |
-| 7 | [ソンムル](http://twitter.com/search?q=%e3%82%bd%e3%83%b3%e3%83%a0%e3%83%ab) | N/A |
-| 8 | [バンチャン](http://twitter.com/search?q=%e3%83%90%e3%83%b3%e3%83%81%e3%83%a3%e3%83%b3) | バンチャン (banchaan) is a Japanese onomatopoeia that describes the sound of a sudden impact or collision. In English, it could be translated as "bang" or "thud". |
-| 9 | [#SixTONES_ABARERO](http://twitter.com/search?q=%23SixTONES_ABARERO) | N/A |
-| 10 | [バスラットレオン](http://twitter.com/search?q=%e3%83%90%e3%82%b9%e3%83%a9%e3%83%83%e3%83%88%e3%83%ac%e3%82%aa%e3%83%b3) | バスラットレオン is a type of Japanese traditional folk dance. It is performed by two people, one playing the role of a lion and the other playing the role of a bushi (samurai). The lion dances around the bushi, who tries to catch it with a fan. The dance is usually accompanied by singing and chanting. In English, it is known as the Lion Bus Dance. |
-| 11 | [#StrayKids](http://twitter.com/search?q=%23StrayKids) | #StrayKids is a South Korean boy band formed by JYP Entertainment in 2017. The group consists of nine members: Bang Chan, Lee Know, Changbin, Hyunjin, Han, Felix, Seungmin, I.N and Woojin. The name "Stray Kids" is meant to represent the idea that the members are all different and unique individuals who have come together to create something special. |
-| 12 | [#GMMTVFANDAY2](http://twitter.com/search?q=%23GMMTVFANDAY2) | N/A |
-| 13 | [#precure](http://twitter.com/search?q=%23precure) | #Precure is a Japanese media franchise created by Izumi Todo and produced by Toei Animation. It is a magical girl anime series aimed at young girls, featuring teams of teenage girls who transform into legendary warriors to fight evil. The English translation of the term "Precure" is "Pretty Cure". |
-| 14 | [プリキュア](http://twitter.com/search?q=%e3%83%97%e3%83%aa%e3%82%ad%e3%83%a5%e3%82%a2) | プリキュア is short for "Pretty Cure," a popular Japanese magical girl anime series. The series follows the adventures of a group of girls who transform into powerful warriors to protect the world from evil forces. In English, it can be translated as "Pretty Cure." |
-| 15 | [パンサラッサ](http://twitter.com/search?q=%e3%83%91%e3%83%b3%e3%82%b5%e3%83%a9%e3%83%83%e3%82%b5) | パンサラッサ is a type of traditional Japanese dance that originated in the Edo period. It is performed by two people, one playing the role of a panther and the other playing the role of a hunter. The panther dances around the hunter, trying to avoid being caught. In English, it can be translated as "Panther Dance". |
-| 16 | [#仮面ライダーギーツ](http://twitter.com/search?q=%23%e4%bb%ae%e9%9d%a2%e3%83%a9%e3%82%a4%e3%83%80%e3%83%bc%e3%82%ae%e3%83%bc%e3%83%84) | #仮面ライダーギーツ is the Japanese title for the television series Kamen Rider Gaim. The English translation of the title is Masked Rider Gaim. The series follows a young man named Kouta Kazuraba, who transforms into a superhero known as Kamen Rider Gaim to fight against an evil organization called the Inves. |
-| 17 | [キュアプリズム](http://twitter.com/search?q=%e3%82%ad%e3%83%a5%e3%82%a2%e3%83%97%e3%83%aa%e3%82%ba%e3%83%a0) | N/A |
-| 18 | [あげはちゃん](http://twitter.com/search?q=%e3%81%82%e3%81%92%e3%81%af%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 19 | [ましろちゃん](http://twitter.com/search?q=%e3%81%be%e3%81%97%e3%82%8d%e3%81%a1%e3%82%83%e3%82%93) | ましろちゃん is a nickname for the Japanese anime character Mashiro Shiina from the series The Pet Girl of Sakurasou. It translates to "Mashiro-chan" in English. |
-| 20 | [キューン](http://twitter.com/search?q=%e3%82%ad%e3%83%a5%e3%83%bc%e3%83%b3) | N/A |
-| 21 | [ソラちゃん](http://twitter.com/search?q=%e3%82%bd%e3%83%a9%e3%81%a1%e3%82%83%e3%82%93) | ソラちゃん is a nickname for the character Sora from the Japanese manga and anime series No Game No Life. It is a combination of her name and the Japanese honorific suffix “-chan”, which is used to denote familiarity or endearment. In English, it could be translated as “Sora dear” or “dear Sora”. |
-| 22 | [触手プレイ](http://twitter.com/search?q=%e8%a7%a6%e6%89%8b%e3%83%97%e3%83%ac%e3%82%a4) | N/A |
-| 23 | [あげはさん](http://twitter.com/search?q=%e3%81%82%e3%81%92%e3%81%af%e3%81%95%e3%82%93) | N/A |
-| 24 | [ジャマト](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%83%9e%e3%83%88) | ジャマト is a Japanese word that means "jammed" or "stuck". It is often used to describe something that is stuck in a tight space or stuck in a difficult situation. |
-| 25 | [デザグラ](http://twitter.com/search?q=%e3%83%87%e3%82%b6%e3%82%b0%e3%83%a9) | N/A |
-| 26 | [シューイチ](http://twitter.com/search?q=%e3%82%b7%e3%83%a5%e3%83%bc%e3%82%a4%e3%83%81) | シューイチ is a Japanese phrase that translates to "shoe store". It is used to refer to a store that specializes in selling shoes. |
-| 27 | [カバトン](http://twitter.com/search?q=%e3%82%ab%e3%83%90%e3%83%88%e3%83%b3) | N/A |
-| 28 | [フォレストページ](http://twitter.com/search?q=%e3%83%95%e3%82%a9%e3%83%ac%e3%82%b9%e3%83%88%e3%83%9a%e3%83%bc%e3%82%b8) | N/A |
-| 29 | [金属バット](http://twitter.com/search?q=%e9%87%91%e5%b1%9e%e3%83%90%e3%83%83%e3%83%88) | 金属バット (kinzoku batto) is a metal bat, typically made of aluminum or other metal alloys. It is used in baseball and softball as a hitting tool. |
-| 30 | [ヒーローの出番](http://twitter.com/search?q=%e3%83%92%e3%83%bc%e3%83%ad%e3%83%bc%e3%81%ae%e5%87%ba%e7%95%aa) | N/A |
-| 31 | [ぷいきゅあ](http://twitter.com/search?q=%e3%81%b7%e3%81%84%e3%81%8d%e3%82%85%e3%81%82) | ぷいきゅあ is a Japanese onomatopoeia that is used to describe the sound of something being cut or sliced. In English, it could be translated as "snip" or "snip-snip". |
-| 32 | [ケケラさん](http://twitter.com/search?q=%e3%82%b1%e3%82%b1%e3%83%a9%e3%81%95%e3%82%93) | N/A |
-| 33 | [ニチアサ](http://twitter.com/search?q=%e3%83%8b%e3%83%81%e3%82%a2%e3%82%b5) | ニチアサ is a Japanese company that specializes in the production of stationery and office supplies. The name is derived from the Japanese words "nichi" (日) meaning "day" and "asahi" (朝日) meaning "morning sun". In English, the name can be translated to mean "Morning Sun Stationery". |
-| 34 | [キュアチューバー](http://twitter.com/search?q=%e3%82%ad%e3%83%a5%e3%82%a2%e3%83%81%e3%83%a5%e3%83%bc%e3%83%90%e3%83%bc) | N/A |
-| 35 | [ドンブラ最終回](http://twitter.com/search?q=%e3%83%89%e3%83%b3%e3%83%96%e3%83%a9%e6%9c%80%e7%b5%82%e5%9b%9e) | N/A |
-| 36 | [緊急特番](http://twitter.com/search?q=%e7%b7%8a%e6%80%a5%e7%89%b9%e7%95%aa) | N/A |
-| 37 | [ツムリちゃん](http://twitter.com/search?q=%e3%83%84%e3%83%a0%e3%83%aa%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 38 | [ヒーローガール](http://twitter.com/search?q=%e3%83%92%e3%83%bc%e3%83%ad%e3%83%bc%e3%82%ac%e3%83%bc%e3%83%ab) | ヒーローガール (Hi-ro-ga-ru) is a Japanese term for a female superhero. It is used to refer to female characters who possess superhuman abilities and use them to fight crime or protect the public. In English, it can be translated as "Heroine" or "Female Superhero". |
-| 39 | [ソラまし](http://twitter.com/search?q=%e3%82%bd%e3%83%a9%e3%81%be%e3%81%97) | N/A |
-| 40 | [サウジカップ](http://twitter.com/search?q=%e3%82%b5%e3%82%a6%e3%82%b8%e3%82%ab%e3%83%83%e3%83%97) | N/A |
-| 41 | [オーディエンス](http://twitter.com/search?q=%e3%82%aa%e3%83%bc%e3%83%87%e3%82%a3%e3%82%a8%e3%83%b3%e3%82%b9) | N/A |
-| 42 | [アゲハちゃん](http://twitter.com/search?q=%e3%82%a2%e3%82%b2%e3%83%8f%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 43 | [ミッチー](http://twitter.com/search?q=%e3%83%9f%e3%83%83%e3%83%81%e3%83%bc) | N/A |
-| 44 | [最強の保育士](http://twitter.com/search?q=%e6%9c%80%e5%bc%b7%e3%81%ae%e4%bf%9d%e8%82%b2%e5%a3%ab) | N/A |
-| 45 | [変身アイテム](http://twitter.com/search?q=%e5%a4%89%e8%ba%ab%e3%82%a2%e3%82%a4%e3%83%86%e3%83%a0) | N/A |
-| 46 | [熱愛報道](http://twitter.com/search?q=%e7%86%b1%e6%84%9b%e5%a0%b1%e9%81%93) | 熱愛報道 is a Japanese term that refers to news reports about celebrity couples who are in a romantic relationship. It literally translates to "hot love report". |
-| 47 | [電波ジャック](http://twitter.com/search?q=%e9%9b%bb%e6%b3%a2%e3%82%b8%e3%83%a3%e3%83%83%e3%82%af) | 電波ジャック (denpa jakku) is a Japanese slang term used to describe someone who is overly dependent on their phone or other electronic device. It literally translates to "radio jack," referring to the act of hijacking radio signals. |
-| 48 | [ラビリン](http://twitter.com/search?q=%e3%83%a9%e3%83%93%e3%83%aa%e3%83%b3) | N/A |
-| 49 | [変身シーン](http://twitter.com/search?q=%e5%a4%89%e8%ba%ab%e3%82%b7%e3%83%bc%e3%83%b3) | 変身シーン is a Japanese term that literally translates to "transformation scene." It is used to refer to a scene in a movie, TV show, or other media where a character undergoes a transformation, usually from one form to another. This could be anything from an animal transforming into a human, or a superhero changing into their costume. |
+| 3 | [通行止め](http://twitter.com/search?q=%e9%80%9a%e8%a1%8c%e6%ad%a2%e3%82%81) | 通行止め (tsuukou tome) is a Japanese term meaning "road closure". It is used to refer to the closure of a road or highway due to construction, an accident, or other reasons. |
+| 4 | [ミッチー](http://twitter.com/search?q=%e3%83%9f%e3%83%83%e3%83%81%e3%83%bc) | N/A |
+| 5 | [#中丸雄一](http://twitter.com/search?q=%23%e4%b8%ad%e4%b8%b8%e9%9b%84%e4%b8%80) | N/A |
+| 6 | [経済制裁](http://twitter.com/search?q=%e7%b5%8c%e6%b8%88%e5%88%b6%e8%a3%81) | N/A |
+| 7 | [#起きたら802](http://twitter.com/search?q=%23%e8%b5%b7%e3%81%8d%e3%81%9f%e3%82%89802) | N/A |
+| 8 | [中山記念](http://twitter.com/search?q=%e4%b8%ad%e5%b1%b1%e8%a8%98%e5%bf%b5) | N/A |
+| 9 | [令和のツインターボ](http://twitter.com/search?q=%e4%bb%a4%e5%92%8c%e3%81%ae%e3%83%84%e3%82%a4%e3%83%b3%e3%82%bf%e3%83%bc%e3%83%9c) | N/A |
+| 10 | [ベビーカー](http://twitter.com/search?q=%e3%83%99%e3%83%93%e3%83%bc%e3%82%ab%e3%83%bc) | N/A |
+| 11 | [#阪急杯](http://twitter.com/search?q=%23%e9%98%aa%e6%80%a5%e6%9d%af) | N/A |
+| 12 | [北方領土](http://twitter.com/search?q=%e5%8c%97%e6%96%b9%e9%a0%98%e5%9c%9f) | N/A |
+| 13 | [グッズ列](http://twitter.com/search?q=%e3%82%b0%e3%83%83%e3%82%ba%e5%88%97) | グッズ列 (Guzzu retsu) is a Japanese term that refers to a line of merchandise, usually related to a particular event or product. In English, it can be translated as "merchandise line" or "merchandise queue". |
+| 14 | [フィリックス](http://twitter.com/search?q=%e3%83%95%e3%82%a3%e3%83%aa%e3%83%83%e3%82%af%e3%82%b9) | N/A |
+| 15 | [バンチャン](http://twitter.com/search?q=%e3%83%90%e3%83%b3%e3%83%81%e3%83%a3%e3%83%b3) | バンチャン (banchaan) is a Japanese onomatopoeia that describes the sound of a sudden impact or collision. In English, it could be translated as "bang" or "thud". |
+| 16 | [ソーヴァリアント](http://twitter.com/search?q=%e3%82%bd%e3%83%bc%e3%83%b4%e3%82%a1%e3%83%aa%e3%82%a2%e3%83%b3%e3%83%88) | N/A |
+| 17 | [straykids](http://twitter.com/search?q=straykids) | N/A |
+| 18 | [ヒョンジン](http://twitter.com/search?q=%e3%83%92%e3%83%a7%e3%83%b3%e3%82%b8%e3%83%b3) | N/A |
+| 19 | [スンミン](http://twitter.com/search?q=%e3%82%b9%e3%83%b3%e3%83%9f%e3%83%b3) | N/A |
+| 20 | [アイエン](http://twitter.com/search?q=%e3%82%a2%e3%82%a4%e3%82%a8%e3%83%b3) | N/A |
+| 21 | [シルヴァーソニック](http://twitter.com/search?q=%e3%82%b7%e3%83%ab%e3%83%b4%e3%82%a1%e3%83%bc%e3%82%bd%e3%83%8b%e3%83%83%e3%82%af) | N/A |
+| 22 | [ABARERO](http://twitter.com/search?q=ABARERO) | ABARERO is a Spanish word that means "seller" or "vendor". It is used to refer to someone who sells goods or services. |
+| 23 | [#ポケカCL2023愛知](http://twitter.com/search?q=%23%e3%83%9d%e3%82%b1%e3%82%abCL2023%e6%84%9b%e7%9f%a5) | N/A |
+| 24 | [バスラットレオン](http://twitter.com/search?q=%e3%83%90%e3%82%b9%e3%83%a9%e3%83%83%e3%83%88%e3%83%ac%e3%82%aa%e3%83%b3) | バスラットレオン is a type of Japanese traditional folk dance. It is performed by two people, one playing the role of a lion and the other playing the role of a bushi (samurai). The lion dances around the bushi, who tries to catch it with a fan. The dance is usually accompanied by singing and chanting. In English, it is known as the Lion Bus Dance. |
+| 25 | [チャンビン](http://twitter.com/search?q=%e3%83%81%e3%83%a3%e3%83%b3%e3%83%93%e3%83%b3) | N/A |
+| 26 | [ソンムル](http://twitter.com/search?q=%e3%82%bd%e3%83%b3%e3%83%a0%e3%83%ab) | N/A |
+| 27 | [#GMMTVFANDAY2](http://twitter.com/search?q=%23GMMTVFANDAY2) | N/A |
+| 28 | [ドンブラザーズ](http://twitter.com/search?q=%e3%83%89%e3%83%b3%e3%83%96%e3%83%a9%e3%82%b6%e3%83%bc%e3%82%ba) | N/A |
+| 29 | [ムラサメ](http://twitter.com/search?q=%e3%83%a0%e3%83%a9%e3%82%b5%e3%83%a1) | ムラサメ is a type of Japanese fish. It is also known as the Japanese butterfish or the striped beakfish. In English, it is sometimes referred to as the Striped Marlin. |
+| 30 | [パンサラッサ](http://twitter.com/search?q=%e3%83%91%e3%83%b3%e3%82%b5%e3%83%a9%e3%83%83%e3%82%b5) | パンサラッサ is a type of traditional Japanese dance that originated in the Edo period. It is performed by two people, one playing the role of a panther and the other playing the role of a hunter. The panther dances around the hunter, trying to avoid being caught. In English, it can be translated as "Panther Dance". |
+| 31 | [プリキュア](http://twitter.com/search?q=%e3%83%97%e3%83%aa%e3%82%ad%e3%83%a5%e3%82%a2) | プリキュア is short for "Pretty Cure," a popular Japanese magical girl anime series. The series follows the adventures of a group of girls who transform into powerful warriors to protect the world from evil forces. In English, it can be translated as "Pretty Cure." |
+| 32 | [キュアプリズム](http://twitter.com/search?q=%e3%82%ad%e3%83%a5%e3%82%a2%e3%83%97%e3%83%aa%e3%82%ba%e3%83%a0) | N/A |
+| 33 | [キングオージャー](http://twitter.com/search?q=%e3%82%ad%e3%83%b3%e3%82%b0%e3%82%aa%e3%83%bc%e3%82%b8%e3%83%a3%e3%83%bc) | キングオージャー is a Japanese card game similar to the American game of Crazy Eights. The object of the game is to be the first player to get rid of all their cards. The game is played with a standard deck of 52 cards, with each player receiving seven cards at the start. The remaining cards are placed face down in a pile, and the top card is turned over to begin the discard pile. Players must match either the suit or rank of the card on top of the discard pile in order to play a card from their hand. |
+| 34 | [指名手配](http://twitter.com/search?q=%e6%8c%87%e5%90%8d%e6%89%8b%e9%85%8d) | N/A |
+| 35 | [キューン](http://twitter.com/search?q=%e3%82%ad%e3%83%a5%e3%83%bc%e3%83%b3) | N/A |
+| 36 | [あげはちゃん](http://twitter.com/search?q=%e3%81%82%e3%81%92%e3%81%af%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 37 | [トウサク](http://twitter.com/search?q=%e3%83%88%e3%82%a6%e3%82%b5%e3%82%af) | N/A |
+| 38 | [井上敏樹](http://twitter.com/search?q=%e4%ba%95%e4%b8%8a%e6%95%8f%e6%a8%b9) | N/A |
+| 39 | [許斐先生](http://twitter.com/search?q=%e8%a8%b1%e6%96%90%e5%85%88%e7%94%9f) | N/A |
+| 40 | [ソノニちゃん](http://twitter.com/search?q=%e3%82%bd%e3%83%8e%e3%83%8b%e3%81%a1%e3%82%83%e3%82%93) | ソノニちゃん is a character from the Japanese manga series, "Kochira Katsushika-ku Kameari Kōen-mae Hashutsujo". The character's name is Sononi, and her nickname is Sononi-chan. In English, it would be translated to "Little Sononi". |
+| 41 | [マスターの正体](http://twitter.com/search?q=%e3%83%9e%e3%82%b9%e3%82%bf%e3%83%bc%e3%81%ae%e6%ad%a3%e4%bd%93) | N/A |
+| 42 | [桃井タロウ](http://twitter.com/search?q=%e6%a1%83%e4%ba%95%e3%82%bf%e3%83%ad%e3%82%a6) | 桃井タロウ is a Japanese manga series written and illustrated by Taro Momoi. It follows the story of a young man named Taro Momoi, who is sent to a strange world where he must fight monsters and find his way back home. The title of the series is a play on words, as "桃井" (Momoi) can also be read as "peach well". In English, the title could be translated as "Taro Momoi of the Peach Well". |
+| 43 | [フォレストページ](http://twitter.com/search?q=%e3%83%95%e3%82%a9%e3%83%ac%e3%82%b9%e3%83%88%e3%83%9a%e3%83%bc%e3%82%b8) | N/A |
+| 44 | [ましろちゃん](http://twitter.com/search?q=%e3%81%be%e3%81%97%e3%82%8d%e3%81%a1%e3%82%83%e3%82%93) | ましろちゃん is a nickname for the Japanese anime character Mashiro Shiina from the series The Pet Girl of Sakurasou. It translates to "Mashiro-chan" in English. |
+| 45 | [ニチアサ](http://twitter.com/search?q=%e3%83%8b%e3%83%81%e3%82%a2%e3%82%b5) | ニチアサ is a Japanese company that specializes in the production of stationery and office supplies. The name is derived from the Japanese words "nichi" (日) meaning "day" and "asahi" (朝日) meaning "morning sun". In English, the name can be translated to mean "Morning Sun Stationery". |
+| 46 | [トゥルーヒーロー](http://twitter.com/search?q=%e3%83%88%e3%82%a5%e3%83%ab%e3%83%bc%e3%83%92%e3%83%bc%e3%83%ad%e3%83%bc) | N/A |
+| 47 | [カシワモチ](http://twitter.com/search?q=%e3%82%ab%e3%82%b7%e3%83%af%e3%83%a2%e3%83%81) | N/A |
+| 48 | [ハカイザー](http://twitter.com/search?q=%e3%83%8f%e3%82%ab%e3%82%a4%e3%82%b6%e3%83%bc) | N/A |
+| 49 | [人身事故](http://twitter.com/search?q=%e4%ba%ba%e8%ba%ab%e4%ba%8b%e6%95%85) | 人身事故 (Jinshin Jiko) is a Japanese term meaning "personal injury accident". It is used to refer to any type of accident that results in physical injury or death. |
 
 
 

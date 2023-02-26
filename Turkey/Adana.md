@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Adana
 
-📆 Last Updated: `2023-02-26 00:30:16 UTC`
+📆 Last Updated: `2023-02-26 01:44:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Turkey](</Turkey>)
 | ------- | ------------ | ------------ |
 | 1 | [#İyikiDoğdunMilletinAdamı](http://twitter.com/search?q=%23%c4%b0yikiDo%c4%9fdunMilletinAdam%c4%b1) | N/A |
 | 2 | [#SeninleyizErdoğan](http://twitter.com/search?q=%23SeninleyizErdo%c4%9fan) | N/A |
-| 3 | [Aslıhanın Terbiyesizliği](http://twitter.com/search?q=Asl%c4%b1han%c4%b1n+Terbiyesizli%c4%9fi) | N/A |
-| 4 | [Fenerbahçe](http://twitter.com/search?q=Fenerbah%c3%a7e) | Fenerbahçe is a Turkish sports club based in Istanbul. The name Fenerbahçe translates to "Lighthouse Garden" in English. The club is best known for its football team, which competes in the Turkish Super Lig and is one of the most successful teams in Turkey. |
-| 5 | [DEVAM ULAN DEVAM](http://twitter.com/search?q=DEVAM+ULAN+DEVAM) | N/A |
+| 3 | [DEVAM ULAN DEVAM](http://twitter.com/search?q=DEVAM+ULAN+DEVAM) | N/A |
+| 4 | [Aslıhanın Terbiyesizliği](http://twitter.com/search?q=Asl%c4%b1han%c4%b1n+Terbiyesizli%c4%9fi) | N/A |
+| 5 | [Fenerbahçe](http://twitter.com/search?q=Fenerbah%c3%a7e) | Fenerbahçe is a Turkish sports club based in Istanbul. The name Fenerbahçe translates to "Lighthouse Garden" in English. The club is best known for its football team, which competes in the Turkish Super Lig and is one of the most successful teams in Turkey. |
 | 6 | [#TariheNot](http://twitter.com/search?q=%23TariheNot) | N/A |
-| 7 | [#DionexBinance](http://twitter.com/search?q=%23DionexBinance) | N/A |
+| 7 | [#İSTİFAULAN](http://twitter.com/search?q=%23%c4%b0ST%c4%b0FAULAN) | N/A |
 | 8 | [İfperformance Ankara](http://twitter.com/search?q=%c4%b0fperformance+Ankara) | N/A |
 | 9 | [DOLAN DOLAN DOLAN](http://twitter.com/search?q=DOLAN+DOLAN+DOLAN) | N/A |
 | 10 | [OYUMUZ CUMHUR İTTİFAKINA](http://twitter.com/search?q=OYUMUZ+CUMHUR+%c4%b0TT%c4%b0FAKINA) | N/A |
 | 11 | [Ali Koç](http://twitter.com/search?q=Ali+Ko%c3%a7) | Ali Koç is a Turkish surname. It is derived from the Turkish word "koç" which means "ram". In English, Ali Koç would translate to "Ali the Ram". |
 | 12 | [YusufAnnesiyle İyileşsin](http://twitter.com/search?q=YusufAnnesiyle+%c4%b0yile%c5%9fsin) | YusufAnnesiyle İyileşsin is a Turkish phrase that translates to "May he/she be healed with the help of Yusuf's mother". It is often used as a blessing or prayer for someone who is ill. |
-| 13 | [Recep Tayyip Erdoğan](http://twitter.com/search?q=Recep+Tayyip+Erdo%c4%9fan) | N/A |
-| 14 | [Bir Galatasaraylı](http://twitter.com/search?q=Bir+Galatasarayl%c4%b1) | N/A |
+| 13 | [Bir Galatasaraylı](http://twitter.com/search?q=Bir+Galatasarayl%c4%b1) | N/A |
+| 14 | [Recep Tayyip Erdoğan](http://twitter.com/search?q=Recep+Tayyip+Erdo%c4%9fan) | N/A |
 | 15 | [Aziz Yıldırım](http://twitter.com/search?q=Aziz+Y%c4%b1ld%c4%b1r%c4%b1m) | Aziz Yıldırım is a Turkish name, with Aziz meaning "honored" and Yıldırım meaning "thunder". In English, the name would translate to "Honored Thunder". |
 | 16 | [Beyaz Türk](http://twitter.com/search?q=Beyaz+T%c3%bcrk) | N/A |
-| 17 | [ADAM RECEP](http://twitter.com/search?q=ADAM+RECEP) | N/A |
-| 18 | [Paralı](http://twitter.com/search?q=Paral%c4%b1) | N/A |
+| 17 | [Paralı](http://twitter.com/search?q=Paral%c4%b1) | N/A |
+| 18 | [Hükümet](http://twitter.com/search?q=H%c3%bck%c3%bcmet) | N/A |
 | 19 | [Akit](http://twitter.com/search?q=Akit) | N/A |
 | 20 | [Bir Beşiktaşlı](http://twitter.com/search?q=Bir+Be%c5%9fikta%c5%9fl%c4%b1) | N/A |
 | 21 | [Ertem Şener](http://twitter.com/search?q=Ertem+%c5%9eener) | N/A |
 | 22 | [Yarın Beşiktaş](http://twitter.com/search?q=Yar%c4%b1n+Be%c5%9fikta%c5%9f) | N/A |
-| 23 | [Faruk Aksoy](http://twitter.com/search?q=Faruk+Aksoy) | N/A |
+| 23 | [ADAM RECEP](http://twitter.com/search?q=ADAM+RECEP) | N/A |
 | 24 | [Uğur Dündar](http://twitter.com/search?q=U%c4%9fur+D%c3%bcndar) | Uğur Dündar is a Turkish journalist and television presenter. His name translates to "Lucky Star" in English. |
-| 25 | [Spora](http://twitter.com/search?q=Spora) | N/A |
-| 26 | [Yusuf Kerim](http://twitter.com/search?q=Yusuf+Kerim) | N/A |
-| 27 | [Camilerde](http://twitter.com/search?q=Camilerde) | N/A |
-| 28 | [Anıtkabir](http://twitter.com/search?q=An%c4%b1tkabir) | Anıtkabir is the mausoleum of Mustafa Kemal Atatürk, the founder and first president of the Republic of Turkey. The word Anıtkabir translates to "memorial tomb" in English. |
-| 29 | [26 Şubat](http://twitter.com/search?q=26+%c5%9eubat) | N/A |
-| 30 | [20 SENE OLDU](http://twitter.com/search?q=20+SENE+OLDU) | N/A |
-| 31 | [Küstah](http://twitter.com/search?q=K%c3%bcstah) | N/A |
-| 32 | [Camide](http://twitter.com/search?q=Camide) | N/A |
-| 33 | [İtler](http://twitter.com/search?q=%c4%b0tler) | N/A |
-| 34 | [Bir GS](http://twitter.com/search?q=Bir+GS) | N/A |
-| 35 | [Zoruna](http://twitter.com/search?q=Zoruna) | N/A |
-| 36 | [Taraftar](http://twitter.com/search?q=Taraftar) | N/A |
-| 37 | [Siyaseti](http://twitter.com/search?q=Siyaseti) | N/A |
-| 38 | [İlhan](http://twitter.com/search?q=%c4%b0lhan) | N/A |
-| 39 | [Misvak](http://twitter.com/search?q=Misvak) | N/A |
-| 40 | [Gezi](http://twitter.com/search?q=Gezi) | N/A |
-| 41 | [Acele](http://twitter.com/search?q=Acele) | N/A |
-| 42 | [#Optimushinu](http://twitter.com/search?q=%23Optimushinu) | N/A |
-| 43 | [#İSTİFAULAN](http://twitter.com/search?q=%23%c4%b0ST%c4%b0FAULAN) | N/A |
-| 44 | [#100BinKonutNerede](http://twitter.com/search?q=%23100BinKonutNerede) | N/A |
-| 45 | [#DevletUnutmaz](http://twitter.com/search?q=%23DevletUnutmaz) | N/A |
-| 46 | [#BeşiktaşınMaçıVar](http://twitter.com/search?q=%23Be%c5%9fikta%c5%9f%c4%b1nMa%c3%a7%c4%b1Var) | N/A |
-| 47 | [#21YıllıkFelAKet](http://twitter.com/search?q=%2321Y%c4%b1ll%c4%b1kFelAKet) | N/A |
-| 48 | [#ElbistanDepremSesimiziDuyun](http://twitter.com/search?q=%23ElbistanDepremSesimiziDuyun) | N/A |
-| 49 | [#HocalıKatliamı](http://twitter.com/search?q=%23Hocal%c4%b1Katliam%c4%b1) | N/A |
+| 25 | [Yusuf Kerim](http://twitter.com/search?q=Yusuf+Kerim) | N/A |
+| 26 | [Anıtkabir](http://twitter.com/search?q=An%c4%b1tkabir) | Anıtkabir is the mausoleum of Mustafa Kemal Atatürk, the founder and first president of the Republic of Turkey. The word Anıtkabir translates to "memorial tomb" in English. |
+| 27 | [26 Şubat](http://twitter.com/search?q=26+%c5%9eubat) | N/A |
+| 28 | [20 SENE OLDU](http://twitter.com/search?q=20+SENE+OLDU) | N/A |
+| 29 | [Camide](http://twitter.com/search?q=Camide) | N/A |
+| 30 | [Bir GS](http://twitter.com/search?q=Bir+GS) | N/A |
+| 31 | [Fenerli](http://twitter.com/search?q=Fenerli) | N/A |
+| 32 | [Siyaseti](http://twitter.com/search?q=Siyaseti) | N/A |
+| 33 | [Zoruna](http://twitter.com/search?q=Zoruna) | N/A |
+| 34 | [Gezi](http://twitter.com/search?q=Gezi) | N/A |
+| 35 | [Misvak](http://twitter.com/search?q=Misvak) | N/A |
+| 36 | [Acele](http://twitter.com/search?q=Acele) | N/A |
+| 37 | [#100BinKonutNerede](http://twitter.com/search?q=%23100BinKonutNerede) | N/A |
+| 38 | [#marsbahis](http://twitter.com/search?q=%23marsbahis) | N/A |
+| 39 | [#DevletUnutmaz](http://twitter.com/search?q=%23DevletUnutmaz) | N/A |
+| 40 | [#BeşiktaşınMaçıVar](http://twitter.com/search?q=%23Be%c5%9fikta%c5%9f%c4%b1nMa%c3%a7%c4%b1Var) | N/A |
+| 41 | [#HocalıKatliamı](http://twitter.com/search?q=%23Hocal%c4%b1Katliam%c4%b1) | N/A |
+| 42 | [#ElbistanDepremSesimiziDuyun](http://twitter.com/search?q=%23ElbistanDepremSesimiziDuyun) | N/A |
+| 43 | [#21YıllıkFelAKet](http://twitter.com/search?q=%2321Y%c4%b1ll%c4%b1kFelAKet) | N/A |
+| 44 | [#SosyalDevletStajıÇözer](http://twitter.com/search?q=%23SosyalDevletStaj%c4%b1%c3%87%c3%b6zer) | N/A |
+| 45 | [#KöpekleriToplayın](http://twitter.com/search?q=%23K%c3%b6pekleriToplay%c4%b1n) | N/A |
+| 46 | [#pazar](http://twitter.com/search?q=%23pazar) | #Pazar is a Turkish word meaning "market". It is used to refer to a market or bazaar, where people can buy and sell goods. |
+| 47 | [#Cbmarttayuzyuze](http://twitter.com/search?q=%23Cbmarttayuzyuze) | N/A |
+| 48 | [#iyigeceler](http://twitter.com/search?q=%23iyigeceler) | N/A |
+| 49 | [#beyazfutbol](http://twitter.com/search?q=%23beyazfutbol) | N/A |
 
 
 

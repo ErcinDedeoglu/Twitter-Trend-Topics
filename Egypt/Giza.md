@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Giza
 
-📆 Last Updated: `2023-02-26 00:30:07 UTC`
+📆 Last Updated: `2023-02-26 01:44:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,37 +16,55 @@ This is top 50 for [Egypt](</Egypt>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [محمد هاني](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d9%87%d8%a7%d9%86%d9%8a) | N/A |
-| 2 | [صن داونز](http://twitter.com/search?q=%d8%b5%d9%86+%d8%af%d8%a7%d9%88%d9%86%d8%b2) | N/A |
-| 3 | [حسين](http://twitter.com/search?q=%d8%ad%d8%b3%d9%8a%d9%86) | N/A |
-| 4 | [مروان عطيه](http://twitter.com/search?q=%d9%85%d8%b1%d9%88%d8%a7%d9%86+%d8%b9%d8%b7%d9%8a%d9%87) | N/A |
-| 5 | [حمدي فتحي](http://twitter.com/search?q=%d8%ad%d9%85%d8%af%d9%8a+%d9%81%d8%aa%d8%ad%d9%8a) | حمدي فتحي is an Arabic phrase that translates to "Praise be to God". It is a common expression of gratitude and appreciation for God's blessings. |
-| 6 | [جنوب افريقيا](http://twitter.com/search?q=%d8%ac%d9%86%d9%88%d8%a8+%d8%a7%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7) | N/A |
-| 7 | [عبد المنعم](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d9%85%d9%86%d8%b9%d9%85) | N/A |
+| 2 | [الزمالك](http://twitter.com/search?q=%d8%a7%d9%84%d8%b2%d9%85%d8%a7%d9%84%d9%83) | الزمالك is a professional football club based in Cairo, Egypt. The club was founded in 1948 and is one of the most successful clubs in the Egyptian Premier League. The name الزمالك translates to "The Champions" in English. |
+| 3 | [#مرتضي_منصور](http://twitter.com/search?q=%23%d9%85%d8%b1%d8%aa%d8%b6%d9%8a_%d9%85%d9%86%d8%b5%d9%88%d8%b1) | N/A |
+| 4 | [صن داونز](http://twitter.com/search?q=%d8%b5%d9%86+%d8%af%d8%a7%d9%88%d9%86%d8%b2) | N/A |
+| 5 | [عمر جابر](http://twitter.com/search?q=%d8%b9%d9%85%d8%b1+%d8%ac%d8%a7%d8%a8%d8%b1) | عمر جابر is an Arabic name meaning "Omar the Brave". |
+| 6 | [مروان عطية](http://twitter.com/search?q=%d9%85%d8%b1%d9%88%d8%a7%d9%86+%d8%b9%d8%b7%d9%8a%d8%a9) | N/A |
+| 7 | [عمرو السيسي](http://twitter.com/search?q=%d8%b9%d9%85%d8%b1%d9%88+%d8%a7%d9%84%d8%b3%d9%8a%d8%b3%d9%8a) | عمرو السيسي is the name of the current President of Egypt, Abdel Fattah el-Sisi. In English, it translates to Omar el-Sisi. |
 | 8 | [بيرسي تاو](http://twitter.com/search?q=%d8%a8%d9%8a%d8%b1%d8%b3%d9%8a+%d8%aa%d8%a7%d9%88) | بيرسي تاو is a phrase in Arabic that translates to "Be careful". It is used as a warning or cautionary statement. |
-| 9 | [عبد القادر](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d9%82%d8%a7%d8%af%d8%b1) | عبد القادر is an Arabic name which translates to English as "Servant of the Most Powerful". |
-| 10 | [الكره المصريه](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d8%b1%d9%87+%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a%d9%87) | N/A |
-| 11 | [معلول](http://twitter.com/search?q=%d9%85%d8%b9%d9%84%d9%88%d9%84) | N/A |
-| 12 | [والهلال](http://twitter.com/search?q=%d9%88%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | N/A |
-| 13 | [كهربا](http://twitter.com/search?q=%d9%83%d9%87%d8%b1%d8%a8%d8%a7) | كهربا (kahrba) is the Arabic word for electricity. In English, it means "electricity". |
-| 14 | [والاهلي](http://twitter.com/search?q=%d9%88%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a) | N/A |
-| 15 | [منتخب الشباب](http://twitter.com/search?q=%d9%85%d9%86%d8%aa%d8%ae%d8%a8+%d8%a7%d9%84%d8%b4%d8%a8%d8%a7%d8%a8) | N/A |
-| 16 | [محمد شريف](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%b4%d8%b1%d9%8a%d9%81) | محمد شريف is an Arabic name meaning "Mohammed the Noble". |
-| 17 | [الاله الحاسبه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%84%d9%87+%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d9%87) | N/A |
-| 18 | [محمد مجدي](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d9%85%d8%ac%d8%af%d9%8a) | محمد مجدي is an Arabic name, which translates to English as "Mohammed Majdi". |
-| 19 | [سليمان وهدان](http://twitter.com/search?q=%d8%b3%d9%84%d9%8a%d9%85%d8%a7%d9%86+%d9%88%d9%87%d8%af%d8%a7%d9%86) | N/A |
-| 20 | [#يلا_يا_اهلي](http://twitter.com/search?q=%23%d9%8a%d9%84%d8%a7_%d9%8a%d8%a7_%d8%a7%d9%87%d9%84%d9%8a) | N/A |
-| 21 | [مستر كولر](http://twitter.com/search?q=%d9%85%d8%b3%d8%aa%d8%b1+%d9%83%d9%88%d9%84%d8%b1) | N/A |
-| 22 | [دور المجموعات](http://twitter.com/search?q=%d8%af%d9%88%d8%b1+%d8%a7%d9%84%d9%85%d8%ac%d9%85%d9%88%d8%b9%d8%a7%d8%aa) | N/A |
-| 23 | [متولي](http://twitter.com/search?q=%d9%85%d8%aa%d9%88%d9%84%d9%8a) | N/A |
-| 24 | [علي محمد علي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%85%d8%ad%d9%85%d8%af+%d8%b9%d9%84%d9%8a) | N/A |
-| 25 | [الهدف التاني](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%af%d9%81+%d8%a7%d9%84%d8%aa%d8%a7%d9%86%d9%8a) | N/A |
-| 26 | [الجول](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%88%d9%84) | N/A |
-| 27 | [للأهلي](http://twitter.com/search?q=%d9%84%d9%84%d8%a3%d9%87%d9%84%d9%8a) | N/A |
-| 28 | [الفارو](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%a7%d8%b1%d9%88) | الفارو is an Arabic word that means "the fox". |
-| 29 | [منتخب مصر](http://twitter.com/search?q=%d9%85%d9%86%d8%aa%d8%ae%d8%a8+%d9%85%d8%b5%d8%b1) | N/A |
-| 30 | [الشوط الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | الشوط الثاني is an Arabic phrase meaning "the second round". It is often used to refer to a second attempt at something, such as a second try at a test or a second attempt at a project. |
-| 31 | [سيميوني](http://twitter.com/search?q=%d8%b3%d9%8a%d9%85%d9%8a%d9%88%d9%86%d9%8a) | سيميوني (Simonee) is an Arabic name meaning "listener". It is also a variant of the name Simone, which is derived from the Hebrew name Shimon, meaning "he who hears". |
-| 32 | [هيثم فاروق](http://twitter.com/search?q=%d9%87%d9%8a%d8%ab%d9%85+%d9%81%d8%a7%d8%b1%d9%88%d9%82) | N/A |
+| 9 | [حمدي فتحي](http://twitter.com/search?q=%d8%ad%d9%85%d8%af%d9%8a+%d9%81%d8%aa%d8%ad%d9%8a) | حمدي فتحي is an Arabic phrase that translates to "Praise be to God". It is a common expression of gratitude and appreciation for God's blessings. |
+| 10 | [محمود الخطيب](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d9%88%d8%af+%d8%a7%d9%84%d8%ae%d8%b7%d9%8a%d8%a8) | N/A |
+| 11 | [حسين](http://twitter.com/search?q=%d8%ad%d8%b3%d9%8a%d9%86) | N/A |
+| 12 | [#نعم_لسجن_مرتضي](http://twitter.com/search?q=%23%d9%86%d8%b9%d9%85_%d9%84%d8%b3%d8%ac%d9%86_%d9%85%d8%b1%d8%aa%d8%b6%d9%8a) | N/A |
+| 13 | [عبد المنعم](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d9%85%d9%86%d8%b9%d9%85) | N/A |
+| 14 | [عبدالقادر](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%82%d8%a7%d8%af%d8%b1) | N/A |
+| 15 | [جنوب افريقيا](http://twitter.com/search?q=%d8%ac%d9%86%d9%88%d8%a8+%d8%a7%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7) | N/A |
+| 16 | [#جمعه_مباركه](http://twitter.com/search?q=%23%d8%ac%d9%85%d8%b9%d9%87_%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | #جمعه_مباركه is an Arabic hashtag that translates to "blessed Friday". It is used to express joy and appreciation for the start of the weekend. |
+| 17 | [#العيد_الوطني_الكويتي](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b9%d9%8a%d8%af_%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a_%d8%a7%d9%84%d9%83%d9%88%d9%8a%d8%aa%d9%8a) | N/A |
+| 18 | [منتخب الشباب](http://twitter.com/search?q=%d9%85%d9%86%d8%aa%d8%ae%d8%a8+%d8%a7%d9%84%d8%b4%d8%a8%d8%a7%d8%a8) | N/A |
+| 19 | [معلول](http://twitter.com/search?q=%d9%85%d8%b9%d9%84%d9%88%d9%84) | N/A |
+| 20 | [هيثم فاروق](http://twitter.com/search?q=%d9%87%d9%8a%d8%ab%d9%85+%d9%81%d8%a7%d8%b1%d9%88%d9%82) | N/A |
+| 21 | [#اهلاوي_مع_بعض](http://twitter.com/search?q=%23%d8%a7%d9%87%d9%84%d8%a7%d9%88%d9%8a_%d9%85%d8%b9_%d8%a8%d8%b9%d8%b6) | N/A |
+| 22 | [علي محمد علي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%85%d8%ad%d9%85%d8%af+%d8%b9%d9%84%d9%8a) | N/A |
+| 23 | [دور المجموعات](http://twitter.com/search?q=%d8%af%d9%88%d8%b1+%d8%a7%d9%84%d9%85%d8%ac%d9%85%d9%88%d8%b9%d8%a7%d8%aa) | N/A |
+| 24 | [الكوره المصريه](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d9%88%d8%b1%d9%87+%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a%d9%87) | N/A |
+| 25 | [اسينسيو](http://twitter.com/search?q=%d8%a7%d8%b3%d9%8a%d9%86%d8%b3%d9%8a%d9%88) | اسينسيو is a transliteration of the Greek word "συνέσεις" which means "understanding" or "insight" in English. |
+| 26 | [سيميوني](http://twitter.com/search?q=%d8%b3%d9%8a%d9%85%d9%8a%d9%88%d9%86%d9%8a) | سيميوني (Simonee) is an Arabic name meaning "listener". It is also a variant of the name Simone, which is derived from the Hebrew name Shimon, meaning "he who hears". |
+| 27 | [محمد شريف](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%b4%d8%b1%d9%8a%d9%81) | محمد شريف is an Arabic name meaning "Mohammed the Noble". |
+| 28 | [سليمان وهدان](http://twitter.com/search?q=%d8%b3%d9%84%d9%8a%d9%85%d8%a7%d9%86+%d9%88%d9%87%d8%af%d8%a7%d9%86) | N/A |
+| 29 | [الاله الحاسبه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%84%d9%87+%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d9%87) | N/A |
+| 30 | [اتليتكو](http://twitter.com/search?q=%d8%a7%d8%aa%d9%84%d9%8a%d8%aa%d9%83%d9%88) | N/A |
+| 31 | [باسم يوسف](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b3%d9%85+%d9%8a%d9%88%d8%b3%d9%81) | N/A |
+| 32 | [سباليتي](http://twitter.com/search?q=%d8%b3%d8%a8%d8%a7%d9%84%d9%8a%d8%aa%d9%8a) | N/A |
+| 33 | [كهربا](http://twitter.com/search?q=%d9%83%d9%87%d8%b1%d8%a8%d8%a7) | كهربا (kahrba) is the Arabic word for electricity. In English, it means "electricity". |
+| 34 | [محمد مجدي](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d9%85%d8%ac%d8%af%d9%8a) | محمد مجدي is an Arabic name, which translates to English as "Mohammed Majdi". |
+| 35 | [الشناوي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%86%d8%a7%d9%88%d9%8a) | N/A |
+| 36 | [الهلال](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | الهلال (Al Hilal) is an Arabic phrase meaning "the crescent" or "the new moon". It is also the name of a popular Saudi Arabian football club. |
+| 37 | [زكريا](http://twitter.com/search?q=%d8%b2%d9%83%d8%b1%d9%8a%d8%a7) | زكريا (Zakariya) is an Arabic name meaning "God remembers". It is also a variant of the Hebrew name Zechariah. |
+| 38 | [الفارو](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%a7%d8%b1%d9%88) | الفارو is an Arabic word that means "the fox". |
+| 39 | [الشرط الجزايي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b1%d8%b7+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d9%8a) | N/A |
+| 40 | [الهدف التاني](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%af%d9%81+%d8%a7%d9%84%d8%aa%d8%a7%d9%86%d9%8a) | N/A |
+| 41 | [عواد](http://twitter.com/search?q=%d8%b9%d9%88%d8%a7%d8%af) | N/A |
+| 42 | [بورنموث](http://twitter.com/search?q=%d8%a8%d9%88%d8%b1%d9%86%d9%85%d9%88%d8%ab) | N/A |
+| 43 | [رونالدو](http://twitter.com/search?q=%d8%b1%d9%88%d9%86%d8%a7%d9%84%d8%af%d9%88) | رونالدو is the Portuguese spelling of the name Ronaldo, which is a popular given name in many countries. In English, it means "counselor of the ruler". |
+| 44 | [كريستال بالاس](http://twitter.com/search?q=%d9%83%d8%b1%d9%8a%d8%b3%d8%aa%d8%a7%d9%84+%d8%a8%d8%a7%d9%84%d8%a7%d8%b3) | N/A |
+| 45 | [الطعن المقدم](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d8%b9%d9%86+%d8%a7%d9%84%d9%85%d9%82%d8%af%d9%85) | N/A |
+| 46 | [مستر كولر](http://twitter.com/search?q=%d9%85%d8%b3%d8%aa%d8%b1+%d9%83%d9%88%d9%84%d8%b1) | N/A |
+| 47 | [ياسر ابراهيم](http://twitter.com/search?q=%d9%8a%d8%a7%d8%b3%d8%b1+%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85) | N/A |
+| 48 | [بن رمضان](http://twitter.com/search?q=%d8%a8%d9%86+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 49 | [منتخب السنغال](http://twitter.com/search?q=%d9%85%d9%86%d8%aa%d8%ae%d8%a8+%d8%a7%d9%84%d8%b3%d9%86%d8%ba%d8%a7%d9%84) | N/A |
+| 50 | [يابن اللاعيبه](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%86+%d8%a7%d9%84%d9%84%d8%a7%d8%b9%d9%8a%d8%a8%d9%87) | N/A |
 
 
 

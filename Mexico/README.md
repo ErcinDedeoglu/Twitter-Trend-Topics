@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico
 
-📆 Last Updated: `2023-02-26 00:30:30 UTC`
+📆 Last Updated: `2023-02-26 01:44:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,51 @@ This is top 50 for Mexico
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#DíaNaranja](http://twitter.com/search?q=%23D%c3%adaNaranja) | N/A |
-| 2 | [Perú](http://twitter.com/search?q=Per%c3%ba) | Perú is the official name of a country in South America. It is bordered by Ecuador and Colombia to the north, Brazil and Bolivia to the east, Chile to the south, and the Pacific Ocean to the west. The name Perú comes from a word in the native Quechua language meaning "land of abundance." |
-| 3 | [Anáhuac](http://twitter.com/search?q=An%c3%a1huac) | N/A |
-| 4 | [Rosario Robles](http://twitter.com/search?q=Rosario+Robles) | N/A |
-| 5 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
-| 6 | [Lotti](http://twitter.com/search?q=Lotti) | N/A |
-| 7 | [#RMxBOTTEGAVENETA](http://twitter.com/search?q=%23RMxBOTTEGAVENETA) | N/A |
-| 8 | [#FueraTuca](http://twitter.com/search?q=%23FueraTuca) | N/A |
-| 9 | [Baca](http://twitter.com/search?q=Baca) | N/A |
-| 10 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 11 | [#DíaDeLaBandera](http://twitter.com/search?q=%23D%c3%adaDeLaBandera) | N/A |
-| 12 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
-| 13 | [Yasmín Esquivel](http://twitter.com/search?q=Yasm%c3%adn+Esquivel) | Yasmín Esquivel is a Spanish name. It is composed of two words: Yasmín, which is a variant of the name Jasmine, and Esquivel, which is a Spanish surname meaning "one who evades or avoids". In English, the name would mean "Jasmine Evader". |
-| 14 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 15 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
-| 16 | [RMILAN FASHION WEEK](http://twitter.com/search?q=RMILAN+FASHION+WEEK) | N/A |
-| 17 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
-| 18 | [Uriel Antuna](http://twitter.com/search?q=Uriel+Antuna) | N/A |
-| 19 | [Aluxe](http://twitter.com/search?q=Aluxe) | N/A |
-| 20 | [Matt Pobereyko](http://twitter.com/search?q=Matt+Pobereyko) | N/A |
-| 21 | [Rotondi](http://twitter.com/search?q=Rotondi) | N/A |
-| 22 | [Nuevo León](http://twitter.com/search?q=Nuevo+Le%c3%b3n) | N/A |
-| 23 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 24 | [Mazatlán](http://twitter.com/search?q=Mazatl%c3%a1n) | Mazatlán is a city in the Mexican state of Sinaloa. It is located on the Pacific coast and is known for its beaches, seafood, and colonial architecture. The name Mazatlán comes from the Nahuatl language and means "place of deer." |
-| 25 | [Estafa Maestra](http://twitter.com/search?q=Estafa+Maestra) | N/A |
-| 26 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
-| 27 | [SCJN](http://twitter.com/search?q=SCJN) | SCJN stands for the Supreme Court of Justice of the Nation, which is the highest court in Mexico. It is responsible for interpreting and applying the laws of Mexico. In English, SCJN stands for Supreme Court of Justice of the Nation. |
-| 28 | [Álvaro Rodríguez](http://twitter.com/search?q=%c3%81lvaro+Rodr%c3%adguez) | N/A |
-| 29 | [Dina Boluarte](http://twitter.com/search?q=Dina+Boluarte) | Dina Boluarte is a Spanish phrase meaning “fortified wall”. It is often used to refer to a person or group that provides protection and security. |
-| 30 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
-| 31 | [hoy 24](http://twitter.com/search?q=hoy+24) | N/A |
-| 32 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 33 | [Doctorado](http://twitter.com/search?q=Doctorado) | N/A |
-| 34 | [Marshmello](http://twitter.com/search?q=Marshmello) | N/A |
-| 35 | [Marcial Maciel](http://twitter.com/search?q=Marcial+Maciel) | N/A |
-| 36 | [UNAM](http://twitter.com/search?q=UNAM) | UNAM stands for the Universidad Nacional Autónoma de México, which is the National Autonomous University of Mexico. It is a public research university located in Mexico City and is one of the most prestigious universities in Latin America. |
-| 37 | [Piña](http://twitter.com/search?q=Pi%c3%b1a) | N/A |
-| 38 | [Cinta](http://twitter.com/search?q=Cinta) | Cinta is a Malay and Indonesian word that means "love". It is often used to refer to romantic love, but can also be used to describe familial love or platonic love. |
-| 39 | [Mora](http://twitter.com/search?q=Mora) | N/A |
-| 40 | [Gil Manzano](http://twitter.com/search?q=Gil+Manzano) | Gil Manzano is a Spanish surname. In English, it translates to "son of Manuel". |
-| 41 | [Durazo](http://twitter.com/search?q=Durazo) | N/A |
-| 42 | [George Harrison](http://twitter.com/search?q=George+Harrison) | N/A |
-| 43 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
-| 44 | [Zócalo](http://twitter.com/search?q=Z%c3%b3calo) | N/A |
-| 45 | [YOU ARE THE STAR MATI](http://twitter.com/search?q=YOU+ARE+THE+STAR+MATI) | N/A |
-| 46 | [Carlos Vela](http://twitter.com/search?q=Carlos+Vela) | N/A |
-| 47 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 48 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
-| 49 | [El País](http://twitter.com/search?q=El+Pa%c3%ads) | N/A |
-| 50 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
+| 1 | [#FueraTuca](http://twitter.com/search?q=%23FueraTuca) | N/A |
+| 2 | [Baca](http://twitter.com/search?q=Baca) | N/A |
+| 3 | [#MarcoReyPicks](http://twitter.com/search?q=%23MarcoReyPicks) | N/A |
+| 4 | [Aluxe](http://twitter.com/search?q=Aluxe) | N/A |
+| 5 | [Lotti](http://twitter.com/search?q=Lotti) | N/A |
+| 6 | [Uriel Antuna](http://twitter.com/search?q=Uriel+Antuna) | N/A |
+| 7 | [TIEMPOS DOS AÑOS](http://twitter.com/search?q=TIEMPOS+DOS+A%c3%91OS) | N/A |
+| 8 | [#MostRequestedLive](http://twitter.com/search?q=%23MostRequestedLive) | N/A |
+| 9 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
+| 10 | [Carneiro](http://twitter.com/search?q=Carneiro) | N/A |
+| 11 | [Rotondi](http://twitter.com/search?q=Rotondi) | N/A |
+| 12 | [#LeaguePartner](http://twitter.com/search?q=%23LeaguePartner) | N/A |
+| 13 | [Cobarde](http://twitter.com/search?q=Cobarde) | N/A |
+| 14 | [Juárez](http://twitter.com/search?q=Ju%c3%a1rez) | N/A |
+| 15 | [Máquina](http://twitter.com/search?q=M%c3%a1quina) | N/A |
+| 16 | [Rivero](http://twitter.com/search?q=Rivero) | N/A |
+| 17 | [Bravos](http://twitter.com/search?q=Bravos) | N/A |
+| 18 | [Volcán](http://twitter.com/search?q=Volc%c3%a1n) | N/A |
+| 19 | [#PokemonGOTour](http://twitter.com/search?q=%23PokemonGOTour) | N/A |
+| 20 | [Ferretti](http://twitter.com/search?q=Ferretti) | N/A |
+| 21 | [Matt Pobereyko](http://twitter.com/search?q=Matt+Pobereyko) | N/A |
+| 22 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 23 | [76ers](http://twitter.com/search?q=76ers) | 76ers is the nickname of the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The team was originally founded in 1946 as the Syracuse Nationals and changed its name to the 76ers in 1963. The name "76ers" is a reference to the year 1776, when the Declaration of Independence was signed in Philadelphia. |
+| 24 | [Perú](http://twitter.com/search?q=Per%c3%ba) | Perú is the official name of a country in South America. It is bordered by Ecuador and Colombia to the north, Brazil and Bolivia to the east, Chile to the south, and the Pacific Ocean to the west. The name Perú comes from a word in the native Quechua language meaning "land of abundance." |
+| 25 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
+| 26 | [Jerry](http://twitter.com/search?q=Jerry) | N/A |
+| 27 | [Sonora](http://twitter.com/search?q=Sonora) | N/A |
+| 28 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
+| 29 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 30 | [Atleti](http://twitter.com/search?q=Atleti) | Atleti is a nickname for the Spanish football club Atlético Madrid. The name is derived from the Spanish word for athlete, atleta. In English, Atleti can be translated to mean "Athletes". |
+| 31 | [RMILAN FASHION WEEK](http://twitter.com/search?q=RMILAN+FASHION+WEEK) | N/A |
+| 32 | [Marshmello](http://twitter.com/search?q=Marshmello) | N/A |
+| 33 | [Álvaro](http://twitter.com/search?q=%c3%81lvaro) | N/A |
+| 34 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
+| 35 | [#SabadoFutbolero](http://twitter.com/search?q=%23SabadoFutbolero) | N/A |
+| 36 | [#DiaNaranja](http://twitter.com/search?q=%23DiaNaranja) | N/A |
+| 37 | [#MarchaDeNarcosyCorruptos](http://twitter.com/search?q=%23MarchaDeNarcosyCorruptos) | N/A |
+| 38 | [#MarchaINE](http://twitter.com/search?q=%23MarchaINE) | N/A |
+| 39 | [#RMxBOTTEGAVENETA](http://twitter.com/search?q=%23RMxBOTTEGAVENETA) | N/A |
+| 40 | [#BienestarEnTuColonia](http://twitter.com/search?q=%23BienestarEnTuColonia) | N/A |
+| 41 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
+| 42 | [#ElINESomosTodos](http://twitter.com/search?q=%23ElINESomosTodos) | N/A |
+| 43 | [#VCTHispano](http://twitter.com/search?q=%23VCTHispano) | N/A |
+| 44 | [#NarcoMarcha26DeFebrero](http://twitter.com/search?q=%23NarcoMarcha26DeFebrero) | N/A |
+| 45 | [#NarcoPartidoPAN](http://twitter.com/search?q=%23NarcoPartidoPAN) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bremen
 
-📆 Last Updated: `2023-02-26 00:29:52 UTC`
+📆 Last Updated: `2023-02-26 01:44:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Germany](</Germany>)
 | ------- | ------------ | ------------ |
 | 1 | [#b2502](http://twitter.com/search?q=%23b2502) | N/A |
 | 2 | [#S04VfB](http://twitter.com/search?q=%23S04VfB) | N/A |
-| 3 | [#MetAmazonPresale](http://twitter.com/search?q=%23MetAmazonPresale) | N/A |
-| 4 | [Demo](http://twitter.com/search?q=Demo) | N/A |
+| 3 | [#metamazonpresale](http://twitter.com/search?q=%23metamazonpresale) | N/A |
+| 4 | [#Friedensschwurbler](http://twitter.com/search?q=%23Friedensschwurbler) | N/A |
 | 5 | [Demo](http://twitter.com/search?q=Demo) | N/A |
 | 6 | [#TSGBVB](http://twitter.com/search?q=%23TSGBVB) | N/A |
-| 7 | [#SVDHSV](http://twitter.com/search?q=%23SVDHSV) | N/A |
-| 8 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
-| 9 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 10 | [Irreführung der Bevölkerung](http://twitter.com/search?q=Irref%c3%bchrung+der+Bev%c3%b6lkerung) | N/A |
-| 11 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
-| 12 | [Bock auf Arbeit](http://twitter.com/search?q=Bock+auf+Arbeit) | N/A |
-| 13 | [Seite der Geschichte](http://twitter.com/search?q=Seite+der+Geschichte) | N/A |
-| 14 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
-| 15 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
-| 16 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 17 | [Halbzeit](http://twitter.com/search?q=Halbzeit) | N/A |
-| 18 | [Freistoß](http://twitter.com/search?q=Freisto%c3%9f) | N/A |
-| 19 | [Verbrecher in die Geschichte](http://twitter.com/search?q=Verbrecher+in+die+Geschichte) | N/A |
-| 20 | [Walter Ulbricht](http://twitter.com/search?q=Walter+Ulbricht) | N/A |
-| 21 | [Sosa](http://twitter.com/search?q=Sosa) | N/A |
-| 22 | [Brandenburger Tor](http://twitter.com/search?q=Brandenburger+Tor) | N/A |
-| 23 | [Silas](http://twitter.com/search?q=Silas) | N/A |
+| 7 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
+| 8 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 9 | [Irreführung der Bevölkerung](http://twitter.com/search?q=Irref%c3%bchrung+der+Bev%c3%b6lkerung) | N/A |
+| 10 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
+| 11 | [Bock auf Arbeit](http://twitter.com/search?q=Bock+auf+Arbeit) | N/A |
+| 12 | [Seite der Geschichte](http://twitter.com/search?q=Seite+der+Geschichte) | N/A |
+| 13 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
+| 14 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
+| 15 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 16 | [freistoß](http://twitter.com/search?q=freisto%c3%9f) | N/A |
+| 17 | [Verbrecher in die Geschichte](http://twitter.com/search?q=Verbrecher+in+die+Geschichte) | N/A |
+| 18 | [Walter Ulbricht](http://twitter.com/search?q=Walter+Ulbricht) | N/A |
+| 19 | [Halbzeit](http://twitter.com/search?q=Halbzeit) | N/A |
+| 20 | [Sosa](http://twitter.com/search?q=Sosa) | N/A |
+| 21 | [Brandenburger Tor](http://twitter.com/search?q=Brandenburger+Tor) | N/A |
+| 22 | [Silas](http://twitter.com/search?q=Silas) | N/A |
+| 23 | [WARRIOR NUN CAMPERS](http://twitter.com/search?q=WARRIOR+NUN+CAMPERS) | N/A |
 | 24 | [Kinderlose](http://twitter.com/search?q=Kinderlose) | N/A |
-| 25 | [Kriegstreiber](http://twitter.com/search?q=Kriegstreiber) | N/A |
-| 26 | [Foul](http://twitter.com/search?q=Foul) | N/A |
-| 27 | [WARRIOR NUN CAMPERS](http://twitter.com/search?q=WARRIOR+NUN+CAMPERS) | N/A |
+| 25 | [Foul](http://twitter.com/search?q=Foul) | N/A |
+| 26 | [Kriegstreiber](http://twitter.com/search?q=Kriegstreiber) | N/A |
+| 27 | [Heyer](http://twitter.com/search?q=Heyer) | N/A |
 | 28 | [Pack](http://twitter.com/search?q=Pack) | N/A |
 | 29 | [Panzer](http://twitter.com/search?q=Panzer) | N/A |
-| 30 | [Heyer](http://twitter.com/search?q=Heyer) | N/A |
-| 31 | [Botschaft](http://twitter.com/search?q=Botschaft) | N/A |
-| 32 | [Fahnen](http://twitter.com/search?q=Fahnen) | N/A |
-| 33 | [Sieg](http://twitter.com/search?q=Sieg) | N/A |
-| 34 | [Lilien](http://twitter.com/search?q=Lilien) | N/A |
-| 35 | [Schönen Samstag](http://twitter.com/search?q=Sch%c3%b6nen+Samstag) | N/A |
-| 36 | [Darmstadt](http://twitter.com/search?q=Darmstadt) | N/A |
-| 37 | [Elsässer](http://twitter.com/search?q=Els%c3%a4sser) | N/A |
-| 38 | [Flagge](http://twitter.com/search?q=Flagge) | N/A |
-| 39 | [Anton](http://twitter.com/search?q=Anton) | Anton is a masculine given name of Germanic origin. It is derived from the Roman family name Antonius, which is of unknown Etruscan origin. The name means "invaluable" or "priceless". |
-| 40 | [BASF](http://twitter.com/search?q=BASF) | N/A |
-| 41 | [start ins wochenende](http://twitter.com/search?q=start+ins+wochenende) | N/A |
-| 42 | [Samstag Abend](http://twitter.com/search?q=Samstag+Abend) | N/A |
-| 43 | [Hagel](http://twitter.com/search?q=Hagel) | N/A |
+| 30 | [Botschaft](http://twitter.com/search?q=Botschaft) | N/A |
+| 31 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
+| 32 | [Darmstadt](http://twitter.com/search?q=Darmstadt) | N/A |
+| 33 | [Flagge](http://twitter.com/search?q=Flagge) | N/A |
+| 34 | [Sieg](http://twitter.com/search?q=Sieg) | N/A |
+| 35 | [Fahnen](http://twitter.com/search?q=Fahnen) | N/A |
+| 36 | [Elsässer](http://twitter.com/search?q=Els%c3%a4sser) | N/A |
+| 37 | [BASF](http://twitter.com/search?q=BASF) | N/A |
+| 38 | [Anton](http://twitter.com/search?q=Anton) | Anton is a masculine given name of Germanic origin. It is derived from the Roman family name Antonius, which is of unknown Etruscan origin. The name means "invaluable" or "priceless". |
+| 39 | [start ins wochenende](http://twitter.com/search?q=start+ins+wochenende) | N/A |
+| 40 | [Samstag Abend](http://twitter.com/search?q=Samstag+Abend) | N/A |
+| 41 | [Hagel](http://twitter.com/search?q=Hagel) | N/A |
+| 42 | [Werner Sinn](http://twitter.com/search?q=Werner+Sinn) | N/A |
+| 43 | [Hoffenheim](http://twitter.com/search?q=Hoffenheim) | N/A |
 | 44 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
-| 45 | [Werner Sinn](http://twitter.com/search?q=Werner+Sinn) | N/A |
-| 46 | [Hoffenheim](http://twitter.com/search?q=Hoffenheim) | N/A |
-| 47 | [Andrea Berg](http://twitter.com/search?q=Andrea+Berg) | N/A |
-| 48 | [Frau Müller](http://twitter.com/search?q=Frau+M%c3%bcller) | N/A |
-| 49 | [Pazifist](http://twitter.com/search?q=Pazifist) | N/A |
-| 50 | [Veranstaltung](http://twitter.com/search?q=Veranstaltung) | N/A |
+| 45 | [Frau Müller](http://twitter.com/search?q=Frau+M%c3%bcller) | N/A |
+| 46 | [Pazifist](http://twitter.com/search?q=Pazifist) | N/A |
+| 47 | [Veranstaltung](http://twitter.com/search?q=Veranstaltung) | N/A |
+| 48 | [Angriffskrieg](http://twitter.com/search?q=Angriffskrieg) | N/A |
+| 49 | [INEC](http://twitter.com/search?q=INEC) | N/A |
+| 50 | [Faschisten](http://twitter.com/search?q=Faschisten) | N/A |
 
 
 

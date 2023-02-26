@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belém
 
-📆 Last Updated: `2023-02-26 00:29:47 UTC`
+📆 Last Updated: `2023-02-26 01:44:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Paysandu](http://twitter.com/search?q=Paysandu) | N/A |
-| 2 | [dj ray](http://twitter.com/search?q=dj+ray) | N/A |
+| 1 | [Bruno Alves](http://twitter.com/search?q=Bruno+Alves) | N/A |
+| 2 | [Paysandu](http://twitter.com/search?q=Paysandu) | N/A |
 | 3 | [hailey](http://twitter.com/search?q=hailey) | N/A |
 | 4 | [Botafogo](http://twitter.com/search?q=Botafogo) | Botafogo is a neighborhood in Rio de Janeiro, Brazil. The name Botafogo comes from the Portuguese phrase "bota fogo," which means "set fire." It is believed to have originated from a local legend about a brave warrior who set fire to the enemy's boats during a battle. |
 | 5 | [Rodrigo Caio](http://twitter.com/search?q=Rodrigo+Caio) | Rodrigo Caio is a Brazilian professional footballer who plays as a defender for São Paulo FC. His name translates to "Rodrigo Victory" in English. |
 | 6 | [São Bernardo](http://twitter.com/search?q=S%c3%a3o+Bernardo) | São Bernardo is a municipality in the state of São Paulo, Brazil. The name São Bernardo translates to Saint Bernard in English. |
-| 7 | [Marinho](http://twitter.com/search?q=Marinho) | Marinho is a Portuguese name derived from the Latin word marinus, meaning "of the sea". It is a masculine given name and can also be used as a surname. In English, Marinho can be translated to mean "marine" or "seafarer". |
-| 8 | [OUÇA EP IDENTIDADE](http://twitter.com/search?q=OU%c3%87A+EP+IDENTIDADE) | N/A |
-| 9 | [Daniel Borges](http://twitter.com/search?q=Daniel+Borges) | Daniel Borges is a Portuguese name. It is derived from the Hebrew name Daniel, which means “God is my judge”, and the surname Borges, which is derived from the Latin word for “fortress”. |
-| 10 | [Nestor](http://twitter.com/search?q=Nestor) | Nestor is a Greek name derived from the word "nestorios" which means "wise and prudent". It is often used as a male given name, and can also be used as a surname. |
-| 11 | [#VaiNaFe](http://twitter.com/search?q=%23VaiNaFe) | #VaiNaFe is a Portuguese phrase that translates to "Go to Faith" in English. It is often used as an encouragement to stay strong and have faith in difficult times. |
-| 12 | [Matheus Gonçalves](http://twitter.com/search?q=Matheus+Gon%c3%a7alves) | N/A |
-| 13 | [Morumbi](http://twitter.com/search?q=Morumbi) | Morumbi is a neighborhood in the city of São Paulo, Brazil. It is located in the south zone of the city and is one of the most affluent areas in São Paulo. The name Morumbi comes from an indigenous word meaning "place of many trees". In English, Morumbi means "place of many trees". |
-| 14 | [Matheus Cunha](http://twitter.com/search?q=Matheus+Cunha) | Matheus Cunha is a Brazilian professional footballer who plays as a forward for RB Leipzig. His name in English translates to Matthew Cunha. |
-| 15 | [Carli](http://twitter.com/search?q=Carli) | N/A |
-| 16 | [Luciano](http://twitter.com/search?q=Luciano) | Luciano is an Italian given name derived from the Latin name Lucius. It means "light" or "illumination". |
-| 17 | [Marçal](http://twitter.com/search?q=Mar%c3%a7al) | N/A |
-| 18 | [#BOTxFLA](http://twitter.com/search?q=%23BOTxFLA) | N/A |
-| 19 | [Tiquinho](http://twitter.com/search?q=Tiquinho) | N/A |
-| 20 | [Alan Franco](http://twitter.com/search?q=Alan+Franco) | Alan Franco is a Spanish name. It is derived from the Latin name Alanius, which means "from Alania" (an ancient region in the Caucasus). In English, Alan Franco means "from Alania". |
-| 21 | [Piazon](http://twitter.com/search?q=Piazon) | N/A |
-| 22 | [#colunadofla](http://twitter.com/search?q=%23colunadofla) | N/A |
-| 23 | [Matheus Nascimento](http://twitter.com/search?q=Matheus+Nascimento) | N/A |
-| 24 | [FERJ](http://twitter.com/search?q=FERJ) | N/A |
-| 25 | [Campeonato Carioca](http://twitter.com/search?q=Campeonato+Carioca) | N/A |
-| 26 | [Campeonato Carioca](http://twitter.com/search?q=Campeonato+Carioca) | N/A |
-| 27 | [Matheus França](http://twitter.com/search?q=Matheus+Fran%c3%a7a) | Matheus França is a Portuguese name. It is composed of two parts: Matheus, which is a variant of the name Matthew, and França, which is derived from the French word for France. In English, it would mean Matthew France. |
-| 28 | [O São Paulo](http://twitter.com/search?q=O+S%c3%a3o+Paulo) | N/A |
-| 29 | [Igor Jesus](http://twitter.com/search?q=Igor+Jesus) | N/A |
-| 30 | [Sol e Ben](http://twitter.com/search?q=Sol+e+Ben) | N/A |
-| 31 | [#FORAGUSTAVOOOOO](http://twitter.com/search?q=%23FORAGUSTAVOOOOO) | N/A |
-| 32 | [Hyoran](http://twitter.com/search?q=Hyoran) | Hyoran is a Japanese word that means “to spread out” or “to expand”. It is often used to describe the act of spreading out one's arms or legs in order to make oneself appear larger. |
-| 33 | [SPFC](http://twitter.com/search?q=SPFC) | N/A |
-| 34 | [Keno](http://twitter.com/search?q=Keno) | Keno is a lottery-style game that originated in China. It is a game of chance in which players select numbers from a board of 80 numbers and then wait for the draw to see if their numbers match the ones that are randomly selected. The goal of the game is to match as many of your chosen numbers with those drawn by the house. In English, Keno means "to win or gain something". |
-| 35 | [Matheusão](http://twitter.com/search?q=Matheus%c3%a3o) | Matheusão is a nickname given to the Brazilian footballer Matheus Henrique. It is derived from his first name and is used as an affectionate term of endearment. In English, it could be translated as "Matheus-dear". |
-| 36 | [CHAMA O TEXTOR](http://twitter.com/search?q=CHAMA+O+TEXTOR) | N/A |
-| 37 | [Saravia](http://twitter.com/search?q=Saravia) | N/A |
-| 38 | [Luis Castro](http://twitter.com/search?q=Luis+Castro) | N/A |
-| 39 | [Mané Garrincha](http://twitter.com/search?q=Man%c3%a9+Garrincha) | N/A |
-| 40 | [Felizes](http://twitter.com/search?q=Felizes) | N/A |
-| 41 | [Zaracho](http://twitter.com/search?q=Zaracho) | N/A |
-| 42 | [Barletta](http://twitter.com/search?q=Barletta) | N/A |
-| 43 | [Juiz](http://twitter.com/search?q=Juiz) | N/A |
-| 44 | [Pedro Henrique](http://twitter.com/search?q=Pedro+Henrique) | Pedro Henrique is a Portuguese name, derived from the Latin name Petrus Henricus. It is composed of two elements: Petrus, which means "rock" or "stone", and Henricus, which means "ruler of the house". In English, Pedro Henrique can be translated to mean "Peter Henry". |
-| 45 | [#ForaGustavoCowboy](http://twitter.com/search?q=%23ForaGustavoCowboy) | N/A |
-| 46 | [Brasil 2022](http://twitter.com/search?q=Brasil+2022) | N/A |
-| 47 | [Lumiar](http://twitter.com/search?q=Lumiar) | N/A |
-| 48 | [Cleiton](http://twitter.com/search?q=Cleiton) | Cleiton is a Portuguese name derived from the Latin name Cleitus, which means “called” or “summoned”. It is also a variant of the Greek name Kleitos, which means “renowned” or “famous”. |
-| 49 | [Pulgar](http://twitter.com/search?q=Pulgar) | N/A |
-| 50 | [VIDENTE PARCIAL](http://twitter.com/search?q=VIDENTE+PARCIAL) | N/A |
+| 7 | [#CasteloRatimBum](http://twitter.com/search?q=%23CasteloRatimBum) | N/A |
+| 8 | [#CarnavalMultishow](http://twitter.com/search?q=%23CarnavalMultishow) | N/A |
+| 9 | [OUÇA EP IDENTIDADE](http://twitter.com/search?q=OU%c3%87A+EP+IDENTIDADE) | N/A |
+| 10 | [#BOTAnoGaules](http://twitter.com/search?q=%23BOTAnoGaules) | N/A |
+| 11 | [#FORAGUSTAVOOOOO](http://twitter.com/search?q=%23FORAGUSTAVOOOOO) | N/A |
+| 12 | [Marinho](http://twitter.com/search?q=Marinho) | Marinho is a Portuguese name derived from the Latin word marinus, meaning "of the sea". It is a masculine given name and can also be used as a surname. In English, Marinho can be translated to mean "marine" or "seafarer". |
+| 13 | [Nestor](http://twitter.com/search?q=Nestor) | Nestor is a Greek name derived from the word "nestorios" which means "wise and prudent". It is often used as a male given name, and can also be used as a surname. |
+| 14 | [Daniel Borges](http://twitter.com/search?q=Daniel+Borges) | Daniel Borges is a Portuguese name. It is derived from the Hebrew name Daniel, which means “God is my judge”, and the surname Borges, which is derived from the Latin word for “fortress”. |
+| 15 | [Morumbi](http://twitter.com/search?q=Morumbi) | Morumbi is a neighborhood in the city of São Paulo, Brazil. It is located in the south zone of the city and is one of the most affluent areas in São Paulo. The name Morumbi comes from an indigenous word meaning "place of many trees". In English, Morumbi means "place of many trees". |
+| 16 | [Cebolinha](http://twitter.com/search?q=Cebolinha) | Cebolinha is a character from the Brazilian comic strip Turma da Mônica. He is known for his mischievous behavior and his unique way of speaking, which involves replacing the letter "r" with "l". In English, Cebolinha means "Little Onion". |
+| 17 | [#VaiNaFe](http://twitter.com/search?q=%23VaiNaFe) | #VaiNaFe is a Portuguese phrase that translates to "Go to Faith" in English. It is often used as an encouragement to stay strong and have faith in difficult times. |
+| 18 | [Matheus Gonçalves](http://twitter.com/search?q=Matheus+Gon%c3%a7alves) | N/A |
+| 19 | [Matheus Cunha](http://twitter.com/search?q=Matheus+Cunha) | Matheus Cunha is a Brazilian professional footballer who plays as a forward for RB Leipzig. His name in English translates to Matthew Cunha. |
+| 20 | [Carli](http://twitter.com/search?q=Carli) | N/A |
+| 21 | [zendaya](http://twitter.com/search?q=zendaya) | Zendaya is a female given name of African-American origin, derived from the Shona language of Zimbabwe. It means "to give thanks" or "to be thankful". |
+| 22 | [Luciano](http://twitter.com/search?q=Luciano) | Luciano is an Italian given name derived from the Latin name Lucius. It means "light" or "illumination". |
+| 23 | [Squel](http://twitter.com/search?q=Squel) | N/A |
+| 24 | [Marçal](http://twitter.com/search?q=Mar%c3%a7al) | N/A |
+| 25 | [Tiquinho](http://twitter.com/search?q=Tiquinho) | N/A |
+| 26 | [Alan Franco](http://twitter.com/search?q=Alan+Franco) | Alan Franco is a Spanish name. It is derived from the Latin name Alanius, which means "from Alania" (an ancient region in the Caucasus). In English, Alan Franco means "from Alania". |
+| 27 | [Piazon](http://twitter.com/search?q=Piazon) | N/A |
+| 28 | [Matheus Nascimento](http://twitter.com/search?q=Matheus+Nascimento) | N/A |
+| 29 | [Pinscher raivoso](http://twitter.com/search?q=Pinscher+raivoso) | N/A |
+| 30 | [Campeonato Carioca](http://twitter.com/search?q=Campeonato+Carioca) | N/A |
+| 31 | [Brasil 2013](http://twitter.com/search?q=Brasil+2013) | N/A |
+| 32 | [Ângelo](http://twitter.com/search?q=%c3%82ngelo) | N/A |
+| 33 | [FERJ](http://twitter.com/search?q=FERJ) | N/A |
+| 34 | [O São Paulo](http://twitter.com/search?q=O+S%c3%a3o+Paulo) | N/A |
+| 35 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
+| 36 | [THE WEEKND NA HBO](http://twitter.com/search?q=THE+WEEKND+NA+HBO) | N/A |
+| 37 | [SPFC](http://twitter.com/search?q=SPFC) | N/A |
+| 38 | [Igor Jesus](http://twitter.com/search?q=Igor+Jesus) | N/A |
+| 39 | [Felizes](http://twitter.com/search?q=Felizes) | N/A |
+| 40 | [Mané Garrincha](http://twitter.com/search?q=Man%c3%a9+Garrincha) | N/A |
+| 41 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
+| 42 | [Luis Castro](http://twitter.com/search?q=Luis+Castro) | N/A |
+| 43 | [Sol e Ben](http://twitter.com/search?q=Sol+e+Ben) | N/A |
+| 44 | [Madison](http://twitter.com/search?q=Madison) | N/A |
+| 45 | [SKIN DO FLAKES](http://twitter.com/search?q=SKIN+DO+FLAKES) | N/A |
+| 46 | [Matheus França](http://twitter.com/search?q=Matheus+Fran%c3%a7a) | Matheus França is a Portuguese name. It is composed of two parts: Matheus, which is a variant of the name Matthew, and França, which is derived from the French word for France. In English, it would mean Matthew France. |
+| 47 | [Juiz](http://twitter.com/search?q=Juiz) | N/A |
+| 48 | [Mariana Gross](http://twitter.com/search?q=Mariana+Gross) | N/A |
+| 49 | [Barletta](http://twitter.com/search?q=Barletta) | N/A |
+| 50 | [CHAMA O TEXTOR](http://twitter.com/search?q=CHAMA+O+TEXTOR) | N/A |
 
 
 

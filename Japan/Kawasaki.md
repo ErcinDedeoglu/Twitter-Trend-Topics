@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kawasaki
 
-📆 Last Updated: `2023-02-26 00:30:01 UTC`
+📆 Last Updated: `2023-02-26 01:44:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [エスカレーター](http://twitter.com/search?q=%e3%82%a8%e3%82%b9%e3%82%ab%e3%83%ac%e3%83%bc%e3%82%bf%e3%83%bc) | N/A |
-| 2 | [ABARERO](http://twitter.com/search?q=ABARERO) | ABARERO is a Spanish word that means "seller" or "vendor". It is used to refer to someone who sells goods or services. |
-| 3 | [シルヴァーソニック](http://twitter.com/search?q=%e3%82%b7%e3%83%ab%e3%83%b4%e3%82%a1%e3%83%bc%e3%82%bd%e3%83%8b%e3%83%83%e3%82%af) | N/A |
-| 4 | [バスラットレオン](http://twitter.com/search?q=%e3%83%90%e3%82%b9%e3%83%a9%e3%83%83%e3%83%88%e3%83%ac%e3%82%aa%e3%83%b3) | バスラットレオン is a type of Japanese traditional folk dance. It is performed by two people, one playing the role of a lion and the other playing the role of a bushi (samurai). The lion dances around the bushi, who tries to catch it with a fan. The dance is usually accompanied by singing and chanting. In English, it is known as the Lion Bus Dance. |
-| 5 | [参加OK](http://twitter.com/search?q=%e5%8f%82%e5%8a%a0OK) | N/A |
-| 6 | [#precure](http://twitter.com/search?q=%23precure) | #Precure is a Japanese media franchise created by Izumi Todo and produced by Toei Animation. It is a magical girl anime series aimed at young girls, featuring teams of teenage girls who transform into legendary warriors to fight evil. The English translation of the term "Precure" is "Pretty Cure". |
-| 7 | [プリキュア](http://twitter.com/search?q=%e3%83%97%e3%83%aa%e3%82%ad%e3%83%a5%e3%82%a2) | プリキュア is short for "Pretty Cure," a popular Japanese magical girl anime series. The series follows the adventures of a group of girls who transform into powerful warriors to protect the world from evil forces. In English, it can be translated as "Pretty Cure." |
-| 8 | [パンサラッサ](http://twitter.com/search?q=%e3%83%91%e3%83%b3%e3%82%b5%e3%83%a9%e3%83%83%e3%82%b5) | パンサラッサ is a type of traditional Japanese dance that originated in the Edo period. It is performed by two people, one playing the role of a panther and the other playing the role of a hunter. The panther dances around the hunter, trying to avoid being caught. In English, it can be translated as "Panther Dance". |
-| 9 | [キュアプリズム](http://twitter.com/search?q=%e3%82%ad%e3%83%a5%e3%82%a2%e3%83%97%e3%83%aa%e3%82%ba%e3%83%a0) | N/A |
-| 10 | [#仮面ライダーギーツ](http://twitter.com/search?q=%23%e4%bb%ae%e9%9d%a2%e3%83%a9%e3%82%a4%e3%83%80%e3%83%bc%e3%82%ae%e3%83%bc%e3%83%84) | #仮面ライダーギーツ is the Japanese title for the television series Kamen Rider Gaim. The English translation of the title is Masked Rider Gaim. The series follows a young man named Kouta Kazuraba, who transforms into a superhero known as Kamen Rider Gaim to fight against an evil organization called the Inves. |
-| 11 | [あげはちゃん](http://twitter.com/search?q=%e3%81%82%e3%81%92%e3%81%af%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 12 | [ましろちゃん](http://twitter.com/search?q=%e3%81%be%e3%81%97%e3%82%8d%e3%81%a1%e3%82%83%e3%82%93) | ましろちゃん is a nickname for the Japanese anime character Mashiro Shiina from the series The Pet Girl of Sakurasou. It translates to "Mashiro-chan" in English. |
-| 13 | [#ひろプリ](http://twitter.com/search?q=%23%e3%81%b2%e3%82%8d%e3%83%97%e3%83%aa) | #ひろプリ is a hashtag used on Twitter in Japan to refer to the popular manga and anime series, "Hiroshima Prefecture". It is used to discuss the series, share fan art, and connect with other fans. In English, it translates to "#HiroshimaPrefecture". |
-| 14 | [#nitiasa](http://twitter.com/search?q=%23nitiasa) | #nitiasa is a hashtag used on Twitter in Japan. It stands for "Night Time Information Sharing Association" and is used to share information about nightlife events, such as concerts, clubs, and bars. |
-| 15 | [キューン](http://twitter.com/search?q=%e3%82%ad%e3%83%a5%e3%83%bc%e3%83%b3) | N/A |
-| 16 | [ソラちゃん](http://twitter.com/search?q=%e3%82%bd%e3%83%a9%e3%81%a1%e3%82%83%e3%82%93) | ソラちゃん is a nickname for the character Sora from the Japanese manga and anime series No Game No Life. It is a combination of her name and the Japanese honorific suffix “-chan”, which is used to denote familiarity or endearment. In English, it could be translated as “Sora dear” or “dear Sora”. |
-| 17 | [触手プレイ](http://twitter.com/search?q=%e8%a7%a6%e6%89%8b%e3%83%97%e3%83%ac%e3%82%a4) | N/A |
-| 18 | [あげはさん](http://twitter.com/search?q=%e3%81%82%e3%81%92%e3%81%af%e3%81%95%e3%82%93) | N/A |
-| 19 | [ジャマトグランプリ](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%83%9e%e3%83%88%e3%82%b0%e3%83%a9%e3%83%b3%e3%83%97%e3%83%aa) | N/A |
-| 20 | [シューイチ](http://twitter.com/search?q=%e3%82%b7%e3%83%a5%e3%83%bc%e3%82%a4%e3%83%81) | シューイチ is a Japanese phrase that translates to "shoe store". It is used to refer to a store that specializes in selling shoes. |
-| 21 | [カバトン](http://twitter.com/search?q=%e3%82%ab%e3%83%90%e3%83%88%e3%83%b3) | N/A |
-| 22 | [デザグラ](http://twitter.com/search?q=%e3%83%87%e3%82%b6%e3%82%b0%e3%83%a9) | N/A |
-| 23 | [金属バット](http://twitter.com/search?q=%e9%87%91%e5%b1%9e%e3%83%90%e3%83%83%e3%83%88) | 金属バット (kinzoku batto) is a metal bat, typically made of aluminum or other metal alloys. It is used in baseball and softball as a hitting tool. |
-| 24 | [ぷいきゅあ](http://twitter.com/search?q=%e3%81%b7%e3%81%84%e3%81%8d%e3%82%85%e3%81%82) | ぷいきゅあ is a Japanese onomatopoeia that is used to describe the sound of something being cut or sliced. In English, it could be translated as "snip" or "snip-snip". |
-| 25 | [フォレストページ](http://twitter.com/search?q=%e3%83%95%e3%82%a9%e3%83%ac%e3%82%b9%e3%83%88%e3%83%9a%e3%83%bc%e3%82%b8) | N/A |
-| 26 | [ヒーローの出番](http://twitter.com/search?q=%e3%83%92%e3%83%bc%e3%83%ad%e3%83%bc%e3%81%ae%e5%87%ba%e7%95%aa) | N/A |
-| 27 | [キュアチューバー](http://twitter.com/search?q=%e3%82%ad%e3%83%a5%e3%82%a2%e3%83%81%e3%83%a5%e3%83%bc%e3%83%90%e3%83%bc) | N/A |
-| 28 | [ニチアサ](http://twitter.com/search?q=%e3%83%8b%e3%83%81%e3%82%a2%e3%82%b5) | ニチアサ is a Japanese company that specializes in the production of stationery and office supplies. The name is derived from the Japanese words "nichi" (日) meaning "day" and "asahi" (朝日) meaning "morning sun". In English, the name can be translated to mean "Morning Sun Stationery". |
-| 29 | [緊急特番](http://twitter.com/search?q=%e7%b7%8a%e6%80%a5%e7%89%b9%e7%95%aa) | N/A |
-| 30 | [ドンブラ最終回](http://twitter.com/search?q=%e3%83%89%e3%83%b3%e3%83%96%e3%83%a9%e6%9c%80%e7%b5%82%e5%9b%9e) | N/A |
-| 31 | [ヒーローガール](http://twitter.com/search?q=%e3%83%92%e3%83%bc%e3%83%ad%e3%83%bc%e3%82%ac%e3%83%bc%e3%83%ab) | ヒーローガール (Hi-ro-ga-ru) is a Japanese term for a female superhero. It is used to refer to female characters who possess superhuman abilities and use them to fight crime or protect the public. In English, it can be translated as "Heroine" or "Female Superhero". |
-| 32 | [ツムリちゃん](http://twitter.com/search?q=%e3%83%84%e3%83%a0%e3%83%aa%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 33 | [ソラまし](http://twitter.com/search?q=%e3%82%bd%e3%83%a9%e3%81%be%e3%81%97) | N/A |
-| 34 | [サウジカップ](http://twitter.com/search?q=%e3%82%b5%e3%82%a6%e3%82%b8%e3%82%ab%e3%83%83%e3%83%97) | N/A |
-| 35 | [オーディエンス](http://twitter.com/search?q=%e3%82%aa%e3%83%bc%e3%83%87%e3%82%a3%e3%82%a8%e3%83%b3%e3%82%b9) | N/A |
-| 36 | [アゲハちゃん](http://twitter.com/search?q=%e3%82%a2%e3%82%b2%e3%83%8f%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 37 | [最強の保育士](http://twitter.com/search?q=%e6%9c%80%e5%bc%b7%e3%81%ae%e4%bf%9d%e8%82%b2%e5%a3%ab) | N/A |
-| 38 | [変身アイテム](http://twitter.com/search?q=%e5%a4%89%e8%ba%ab%e3%82%a2%e3%82%a4%e3%83%86%e3%83%a0) | N/A |
-| 39 | [熱愛報道](http://twitter.com/search?q=%e7%86%b1%e6%84%9b%e5%a0%b1%e9%81%93) | 熱愛報道 is a Japanese term that refers to news reports about celebrity couples who are in a romantic relationship. It literally translates to "hot love report". |
-| 40 | [ミッチー](http://twitter.com/search?q=%e3%83%9f%e3%83%83%e3%83%81%e3%83%bc) | N/A |
-| 41 | [電波ジャック](http://twitter.com/search?q=%e9%9b%bb%e6%b3%a2%e3%82%b8%e3%83%a3%e3%83%83%e3%82%af) | 電波ジャック (denpa jakku) is a Japanese slang term used to describe someone who is overly dependent on their phone or other electronic device. It literally translates to "radio jack," referring to the act of hijacking radio signals. |
-| 42 | [ラビリン](http://twitter.com/search?q=%e3%83%a9%e3%83%93%e3%83%aa%e3%83%b3) | N/A |
-| 43 | [変身シーン](http://twitter.com/search?q=%e5%a4%89%e8%ba%ab%e3%82%b7%e3%83%bc%e3%83%b3) | 変身シーン is a Japanese term that literally translates to "transformation scene." It is used to refer to a scene in a movie, TV show, or other media where a character undergoes a transformation, usually from one form to another. This could be anything from an animal transforming into a human, or a superhero changing into their costume. |
-| 44 | [ましろさん](http://twitter.com/search?q=%e3%81%be%e3%81%97%e3%82%8d%e3%81%95%e3%82%93) | N/A |
-| 45 | [愛河里花子](http://twitter.com/search?q=%e6%84%9b%e6%b2%b3%e9%87%8c%e8%8a%b1%e5%ad%90) | N/A |
-| 46 | [テリアモン](http://twitter.com/search?q=%e3%83%86%e3%83%aa%e3%82%a2%e3%83%a2%e3%83%b3) | N/A |
-| 47 | [キュアバタフライ](http://twitter.com/search?q=%e3%82%ad%e3%83%a5%e3%82%a2%e3%83%90%e3%82%bf%e3%83%95%e3%83%a9%e3%82%a4) | キュアバタフライ (Kyua Batafurai) is a Japanese magical girl anime series created by Toei Animation. It follows the adventures of a young girl named Cure Butterfly, who is chosen to become a Pretty Cure, or magical girl, and use her powers to protect the world from evil. The English translation of the title is "Pretty Cure Butterfly". |
-| 48 | [愛河さん](http://twitter.com/search?q=%e6%84%9b%e6%b2%b3%e3%81%95%e3%82%93) | N/A |
-| 49 | [令和のツインターボ](http://twitter.com/search?q=%e4%bb%a4%e5%92%8c%e3%81%ae%e3%83%84%e3%82%a4%e3%83%b3%e3%82%bf%e3%83%bc%e3%83%9c) | N/A |
+| 1 | [#バイザシー](http://twitter.com/search?q=%23%e3%83%90%e3%82%a4%e3%82%b6%e3%82%b7%e3%83%bc) | N/A |
+| 2 | [終わり方](http://twitter.com/search?q=%e7%b5%82%e3%82%8f%e3%82%8a%e6%96%b9) | 終わり方 is a Japanese phrase that literally translates to "the way something ends". It is used to refer to the conclusion or outcome of a situation, event, or story. In English, it could be translated as "the ending" or "how it all ends". |
+| 3 | [ナムさん](http://twitter.com/search?q=%e3%83%8a%e3%83%a0%e3%81%95%e3%82%93) | N/A |
+| 4 | [ベビーカー](http://twitter.com/search?q=%e3%83%99%e3%83%93%e3%83%bc%e3%82%ab%e3%83%bc) | N/A |
+| 5 | [エスカレーター](http://twitter.com/search?q=%e3%82%a8%e3%82%b9%e3%82%ab%e3%83%ac%e3%83%bc%e3%82%bf%e3%83%bc) | N/A |
+| 6 | [中山記念](http://twitter.com/search?q=%e4%b8%ad%e5%b1%b1%e8%a8%98%e5%bf%b5) | N/A |
+| 7 | [ABARERO](http://twitter.com/search?q=ABARERO) | ABARERO is a Spanish word that means "seller" or "vendor". It is used to refer to someone who sells goods or services. |
+| 8 | [#GIFT_tokyodome](http://twitter.com/search?q=%23GIFT_tokyodome) | N/A |
+| 9 | [#YetToCome](http://twitter.com/search?q=%23YetToCome) | #YetToCome is a hashtag used to express anticipation for something that has yet to happen. It can be used to express excitement for an upcoming event, or to express hope for something that has not yet occurred. |
+| 10 | [シルヴァーソニック](http://twitter.com/search?q=%e3%82%b7%e3%83%ab%e3%83%b4%e3%82%a1%e3%83%bc%e3%82%bd%e3%83%8b%e3%83%83%e3%82%af) | N/A |
+| 11 | [#BestMusicVideo](http://twitter.com/search?q=%23BestMusicVideo) | #BestMusicVideo is a hashtag used on social media to highlight the best music videos. It is used to draw attention to music videos that are particularly creative, entertaining, or well-made. |
+| 12 | [無料10連](http://twitter.com/search?q=%e7%84%a1%e6%96%9910%e9%80%a3) | 無料10連 is a type of promotion offered by some Japanese mobile gaming companies. It refers to a free 10-draw of in-game items, such as coins, gems, or other virtual rewards. In English, it can be translated as "Free 10 Draw". |
+| 13 | [ドンブラザーズ](http://twitter.com/search?q=%e3%83%89%e3%83%b3%e3%83%96%e3%83%a9%e3%82%b6%e3%83%bc%e3%82%ba) | N/A |
+| 14 | [ムラサメ](http://twitter.com/search?q=%e3%83%a0%e3%83%a9%e3%82%b5%e3%83%a1) | ムラサメ is a type of Japanese fish. It is also known as the Japanese butterfish or the striped beakfish. In English, it is sometimes referred to as the Striped Marlin. |
+| 15 | [パンサラッサ](http://twitter.com/search?q=%e3%83%91%e3%83%b3%e3%82%b5%e3%83%a9%e3%83%83%e3%82%b5) | パンサラッサ is a type of traditional Japanese dance that originated in the Edo period. It is performed by two people, one playing the role of a panther and the other playing the role of a hunter. The panther dances around the hunter, trying to avoid being caught. In English, it can be translated as "Panther Dance". |
+| 16 | [プリキュア](http://twitter.com/search?q=%e3%83%97%e3%83%aa%e3%82%ad%e3%83%a5%e3%82%a2) | プリキュア is short for "Pretty Cure," a popular Japanese magical girl anime series. The series follows the adventures of a group of girls who transform into powerful warriors to protect the world from evil forces. In English, it can be translated as "Pretty Cure." |
+| 17 | [キュアプリズム](http://twitter.com/search?q=%e3%82%ad%e3%83%a5%e3%82%a2%e3%83%97%e3%83%aa%e3%82%ba%e3%83%a0) | N/A |
+| 18 | [キングオージャー](http://twitter.com/search?q=%e3%82%ad%e3%83%b3%e3%82%b0%e3%82%aa%e3%83%bc%e3%82%b8%e3%83%a3%e3%83%bc) | キングオージャー is a Japanese card game similar to the American game of Crazy Eights. The object of the game is to be the first player to get rid of all their cards. The game is played with a standard deck of 52 cards, with each player receiving seven cards at the start. The remaining cards are placed face down in a pile, and the top card is turned over to begin the discard pile. Players must match either the suit or rank of the card on top of the discard pile in order to play a card from their hand. |
+| 19 | [キューン](http://twitter.com/search?q=%e3%82%ad%e3%83%a5%e3%83%bc%e3%83%b3) | N/A |
+| 20 | [指名手配](http://twitter.com/search?q=%e6%8c%87%e5%90%8d%e6%89%8b%e9%85%8d) | N/A |
+| 21 | [あげはちゃん](http://twitter.com/search?q=%e3%81%82%e3%81%92%e3%81%af%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 22 | [トウサク](http://twitter.com/search?q=%e3%83%88%e3%82%a6%e3%82%b5%e3%82%af) | N/A |
+| 23 | [井上敏樹](http://twitter.com/search?q=%e4%ba%95%e4%b8%8a%e6%95%8f%e6%a8%b9) | N/A |
+| 24 | [ソノニちゃん](http://twitter.com/search?q=%e3%82%bd%e3%83%8e%e3%83%8b%e3%81%a1%e3%82%83%e3%82%93) | ソノニちゃん is a character from the Japanese manga series, "Kochira Katsushika-ku Kameari Kōen-mae Hashutsujo". The character's name is Sononi, and her nickname is Sononi-chan. In English, it would be translated to "Little Sononi". |
+| 25 | [許斐先生](http://twitter.com/search?q=%e8%a8%b1%e6%96%90%e5%85%88%e7%94%9f) | N/A |
+| 26 | [ましろちゃん](http://twitter.com/search?q=%e3%81%be%e3%81%97%e3%82%8d%e3%81%a1%e3%82%83%e3%82%93) | ましろちゃん is a nickname for the Japanese anime character Mashiro Shiina from the series The Pet Girl of Sakurasou. It translates to "Mashiro-chan" in English. |
+| 27 | [マスターの正体](http://twitter.com/search?q=%e3%83%9e%e3%82%b9%e3%82%bf%e3%83%bc%e3%81%ae%e6%ad%a3%e4%bd%93) | N/A |
+| 28 | [桃井タロウ](http://twitter.com/search?q=%e6%a1%83%e4%ba%95%e3%82%bf%e3%83%ad%e3%82%a6) | 桃井タロウ is a Japanese manga series written and illustrated by Taro Momoi. It follows the story of a young man named Taro Momoi, who is sent to a strange world where he must fight monsters and find his way back home. The title of the series is a play on words, as "桃井" (Momoi) can also be read as "peach well". In English, the title could be translated as "Taro Momoi of the Peach Well". |
+| 29 | [フォレストページ](http://twitter.com/search?q=%e3%83%95%e3%82%a9%e3%83%ac%e3%82%b9%e3%83%88%e3%83%9a%e3%83%bc%e3%82%b8) | N/A |
+| 30 | [ニチアサ](http://twitter.com/search?q=%e3%83%8b%e3%83%81%e3%82%a2%e3%82%b5) | ニチアサ is a Japanese company that specializes in the production of stationery and office supplies. The name is derived from the Japanese words "nichi" (日) meaning "day" and "asahi" (朝日) meaning "morning sun". In English, the name can be translated to mean "Morning Sun Stationery". |
+| 31 | [カシワモチ](http://twitter.com/search?q=%e3%82%ab%e3%82%b7%e3%83%af%e3%83%a2%e3%83%81) | N/A |
+| 32 | [トゥルーヒーロー](http://twitter.com/search?q=%e3%83%88%e3%82%a5%e3%83%ab%e3%83%bc%e3%83%92%e3%83%bc%e3%83%ad%e3%83%bc) | N/A |
+| 33 | [ハカイザー](http://twitter.com/search?q=%e3%83%8f%e3%82%ab%e3%82%a4%e3%82%b6%e3%83%bc) | N/A |
+| 34 | [人身事故](http://twitter.com/search?q=%e4%ba%ba%e8%ba%ab%e4%ba%8b%e6%95%85) | 人身事故 (Jinshin Jiko) is a Japanese term meaning "personal injury accident". It is used to refer to any type of accident that results in physical injury or death. |
+| 35 | [ジャマトグランプリ](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%83%9e%e3%83%88%e3%82%b0%e3%83%a9%e3%83%b3%e3%83%97%e3%83%aa) | N/A |
+| 36 | [五色田介](http://twitter.com/search?q=%e4%ba%94%e8%89%b2%e7%94%b0%e4%bb%8b) | N/A |
+| 37 | [タロウの記憶](http://twitter.com/search?q=%e3%82%bf%e3%83%ad%e3%82%a6%e3%81%ae%e8%a8%98%e6%86%b6) | N/A |
+| 38 | [はるか先生](http://twitter.com/search?q=%e3%81%af%e3%82%8b%e3%81%8b%e5%85%88%e7%94%9f) | N/A |
+| 39 | [触手プレイ](http://twitter.com/search?q=%e8%a7%a6%e6%89%8b%e3%83%97%e3%83%ac%e3%82%a4) | N/A |
+| 40 | [ソラちゃん](http://twitter.com/search?q=%e3%82%bd%e3%83%a9%e3%81%a1%e3%82%83%e3%82%93) | ソラちゃん is a nickname for the character Sora from the Japanese manga and anime series No Game No Life. It is a combination of her name and the Japanese honorific suffix “-chan”, which is used to denote familiarity or endearment. In English, it could be translated as “Sora dear” or “dear Sora”. |
+| 41 | [草加スマイル](http://twitter.com/search?q=%e8%8d%89%e5%8a%a0%e3%82%b9%e3%83%9e%e3%82%a4%e3%83%ab) | N/A |
+| 42 | [ドンモモタロウ](http://twitter.com/search?q=%e3%83%89%e3%83%b3%e3%83%a2%e3%83%a2%e3%82%bf%e3%83%ad%e3%82%a6) | N/A |
+| 43 | [熱愛報道](http://twitter.com/search?q=%e7%86%b1%e6%84%9b%e5%a0%b1%e9%81%93) | 熱愛報道 is a Japanese term that refers to news reports about celebrity couples who are in a romantic relationship. It literally translates to "hot love report". |
+| 44 | [ケケラさん](http://twitter.com/search?q=%e3%82%b1%e3%82%b1%e3%83%a9%e3%81%95%e3%82%93) | N/A |
+| 45 | [デザグラ](http://twitter.com/search?q=%e3%83%87%e3%82%b6%e3%82%b0%e3%83%a9) | N/A |
+| 46 | [全員名乗り](http://twitter.com/search?q=%e5%85%a8%e5%93%a1%e5%90%8d%e4%b9%97%e3%82%8a) | N/A |
+| 47 | [あげはさん](http://twitter.com/search?q=%e3%81%82%e3%81%92%e3%81%af%e3%81%95%e3%82%93) | N/A |
+| 48 | [金属バット](http://twitter.com/search?q=%e9%87%91%e5%b1%9e%e3%83%90%e3%83%83%e3%83%88) | 金属バット (kinzoku batto) is a metal bat, typically made of aluminum or other metal alloys. It is used in baseball and softball as a hitting tool. |
+| 49 | [ゾックス](http://twitter.com/search?q=%e3%82%be%e3%83%83%e3%82%af%e3%82%b9) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Berlin
 
-📆 Last Updated: `2023-02-26 00:29:52 UTC`
+📆 Last Updated: `2023-02-26 01:44:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,7 +17,7 @@ This is top 50 for [Germany](</Germany>)
 | ------- | ------------ | ------------ |
 | 1 | [#b2502](http://twitter.com/search?q=%23b2502) | N/A |
 | 2 | [#S04VfB](http://twitter.com/search?q=%23S04VfB) | N/A |
-| 3 | [#MetAmazonPresale](http://twitter.com/search?q=%23MetAmazonPresale) | N/A |
+| 3 | [#metamazonpresale](http://twitter.com/search?q=%23metamazonpresale) | N/A |
 | 4 | [#Friedensschwurbler](http://twitter.com/search?q=%23Friedensschwurbler) | N/A |
 | 5 | [Demo](http://twitter.com/search?q=Demo) | N/A |
 | 6 | [#TSGBVB](http://twitter.com/search?q=%23TSGBVB) | N/A |
@@ -30,41 +30,41 @@ This is top 50 for [Germany](</Germany>)
 | 13 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
 | 14 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
 | 15 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 16 | [Halbzeit](http://twitter.com/search?q=Halbzeit) | N/A |
-| 17 | [Freistoß](http://twitter.com/search?q=Freisto%c3%9f) | N/A |
-| 18 | [Verbrecher in die Geschichte](http://twitter.com/search?q=Verbrecher+in+die+Geschichte) | N/A |
-| 19 | [Walter Ulbricht](http://twitter.com/search?q=Walter+Ulbricht) | N/A |
+| 16 | [freistoß](http://twitter.com/search?q=freisto%c3%9f) | N/A |
+| 17 | [Verbrecher in die Geschichte](http://twitter.com/search?q=Verbrecher+in+die+Geschichte) | N/A |
+| 18 | [Walter Ulbricht](http://twitter.com/search?q=Walter+Ulbricht) | N/A |
+| 19 | [Halbzeit](http://twitter.com/search?q=Halbzeit) | N/A |
 | 20 | [Sosa](http://twitter.com/search?q=Sosa) | N/A |
 | 21 | [Brandenburger Tor](http://twitter.com/search?q=Brandenburger+Tor) | N/A |
 | 22 | [Silas](http://twitter.com/search?q=Silas) | N/A |
-| 23 | [Kinderlose](http://twitter.com/search?q=Kinderlose) | N/A |
-| 24 | [Kriegstreiber](http://twitter.com/search?q=Kriegstreiber) | N/A |
+| 23 | [WARRIOR NUN CAMPERS](http://twitter.com/search?q=WARRIOR+NUN+CAMPERS) | N/A |
+| 24 | [Kinderlose](http://twitter.com/search?q=Kinderlose) | N/A |
 | 25 | [Foul](http://twitter.com/search?q=Foul) | N/A |
-| 26 | [WARRIOR NUN CAMPERS](http://twitter.com/search?q=WARRIOR+NUN+CAMPERS) | N/A |
-| 27 | [Panzer](http://twitter.com/search?q=Panzer) | N/A |
+| 26 | [Kriegstreiber](http://twitter.com/search?q=Kriegstreiber) | N/A |
+| 27 | [Heyer](http://twitter.com/search?q=Heyer) | N/A |
 | 28 | [Pack](http://twitter.com/search?q=Pack) | N/A |
-| 29 | [Heyer](http://twitter.com/search?q=Heyer) | N/A |
+| 29 | [Panzer](http://twitter.com/search?q=Panzer) | N/A |
 | 30 | [Botschaft](http://twitter.com/search?q=Botschaft) | N/A |
-| 31 | [Fahnen](http://twitter.com/search?q=Fahnen) | N/A |
-| 32 | [Sieg](http://twitter.com/search?q=Sieg) | N/A |
-| 33 | [Schönen Samstag](http://twitter.com/search?q=Sch%c3%b6nen+Samstag) | N/A |
-| 34 | [Darmstadt](http://twitter.com/search?q=Darmstadt) | N/A |
-| 35 | [Elsässer](http://twitter.com/search?q=Els%c3%a4sser) | N/A |
-| 36 | [Flagge](http://twitter.com/search?q=Flagge) | N/A |
-| 37 | [Anton](http://twitter.com/search?q=Anton) | Anton is a masculine given name of Germanic origin. It is derived from the Roman family name Antonius, which is of unknown Etruscan origin. The name means "invaluable" or "priceless". |
-| 38 | [BASF](http://twitter.com/search?q=BASF) | N/A |
+| 31 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
+| 32 | [Darmstadt](http://twitter.com/search?q=Darmstadt) | N/A |
+| 33 | [Flagge](http://twitter.com/search?q=Flagge) | N/A |
+| 34 | [Sieg](http://twitter.com/search?q=Sieg) | N/A |
+| 35 | [Fahnen](http://twitter.com/search?q=Fahnen) | N/A |
+| 36 | [Elsässer](http://twitter.com/search?q=Els%c3%a4sser) | N/A |
+| 37 | [BASF](http://twitter.com/search?q=BASF) | N/A |
+| 38 | [Anton](http://twitter.com/search?q=Anton) | Anton is a masculine given name of Germanic origin. It is derived from the Roman family name Antonius, which is of unknown Etruscan origin. The name means "invaluable" or "priceless". |
 | 39 | [start ins wochenende](http://twitter.com/search?q=start+ins+wochenende) | N/A |
 | 40 | [Samstag Abend](http://twitter.com/search?q=Samstag+Abend) | N/A |
 | 41 | [Hagel](http://twitter.com/search?q=Hagel) | N/A |
-| 42 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
-| 43 | [Werner Sinn](http://twitter.com/search?q=Werner+Sinn) | N/A |
-| 44 | [Hoffenheim](http://twitter.com/search?q=Hoffenheim) | N/A |
-| 45 | [Andrea Berg](http://twitter.com/search?q=Andrea+Berg) | N/A |
-| 46 | [Frau Müller](http://twitter.com/search?q=Frau+M%c3%bcller) | N/A |
-| 47 | [Pazifist](http://twitter.com/search?q=Pazifist) | N/A |
-| 48 | [Veranstaltung](http://twitter.com/search?q=Veranstaltung) | N/A |
-| 49 | [Jatta](http://twitter.com/search?q=Jatta) | N/A |
-| 50 | [Angriffskrieg](http://twitter.com/search?q=Angriffskrieg) | N/A |
+| 42 | [Werner Sinn](http://twitter.com/search?q=Werner+Sinn) | N/A |
+| 43 | [Hoffenheim](http://twitter.com/search?q=Hoffenheim) | N/A |
+| 44 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
+| 45 | [Frau Müller](http://twitter.com/search?q=Frau+M%c3%bcller) | N/A |
+| 46 | [Pazifist](http://twitter.com/search?q=Pazifist) | N/A |
+| 47 | [Veranstaltung](http://twitter.com/search?q=Veranstaltung) | N/A |
+| 48 | [Angriffskrieg](http://twitter.com/search?q=Angriffskrieg) | N/A |
+| 49 | [INEC](http://twitter.com/search?q=INEC) | N/A |
+| 50 | [Faschisten](http://twitter.com/search?q=Faschisten) | N/A |
 
 
 

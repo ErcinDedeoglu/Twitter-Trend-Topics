@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Long Beach
 
-📆 Last Updated: `2023-02-26 00:30:21 UTC`
+📆 Last Updated: `2023-02-26 01:44:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#NASCAR](http://twitter.com/search?q=%23NASCAR) | N/A |
-| 2 | [Fontana](http://twitter.com/search?q=Fontana) | N/A |
-| 3 | [#SFGiants](http://twitter.com/search?q=%23SFGiants) | N/A |
-| 4 | [Southern California](http://twitter.com/search?q=Southern+California) | N/A |
-| 5 | [San Bernardino](http://twitter.com/search?q=San+Bernardino) | N/A |
-| 6 | [SoCal](http://twitter.com/search?q=SoCal) | N/A |
-| 7 | [Santa Clarita](http://twitter.com/search?q=Santa+Clarita) | N/A |
-| 8 | [Freddie](http://twitter.com/search?q=Freddie) | N/A |
-| 9 | [Rancho Cucamonga](http://twitter.com/search?q=Rancho+Cucamonga) | N/A |
-| 10 | [Rialto](http://twitter.com/search?q=Rialto) | N/A |
-| 11 | [#Dodgers](http://twitter.com/search?q=%23Dodgers) | N/A |
-| 12 | [Riverside](http://twitter.com/search?q=Riverside) | N/A |
-| 13 | [Skyline](http://twitter.com/search?q=Skyline) | N/A |
-| 14 | [Pac-12](http://twitter.com/search?q=Pac-12) | N/A |
-| 15 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
-| 16 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
-| 17 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
-| 18 | [CEQA](http://twitter.com/search?q=CEQA) | N/A |
-| 19 | [Porsche](http://twitter.com/search?q=Porsche) | N/A |
-| 20 | [Day of Hate](http://twitter.com/search?q=Day+of+Hate) | N/A |
-| 21 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 22 | [Big Bear](http://twitter.com/search?q=Big+Bear) | N/A |
+| 1 | [#12ForeverTeal](http://twitter.com/search?q=%2312ForeverTeal) | N/A |
+| 2 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 3 | [San Bernardino](http://twitter.com/search?q=San+Bernardino) | N/A |
+| 4 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
+| 5 | [Fontana](http://twitter.com/search?q=Fontana) | N/A |
+| 6 | [#LASnow](http://twitter.com/search?q=%23LASnow) | N/A |
+| 7 | [#SFGiants](http://twitter.com/search?q=%23SFGiants) | N/A |
+| 8 | [#Bellator291](http://twitter.com/search?q=%23Bellator291) | N/A |
+| 9 | [Spring Training](http://twitter.com/search?q=Spring+Training) | N/A |
+| 10 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 11 | [Skyline](http://twitter.com/search?q=Skyline) | N/A |
+| 12 | [Rancho Cucamonga](http://twitter.com/search?q=Rancho+Cucamonga) | N/A |
+| 13 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
+| 14 | [Southern California](http://twitter.com/search?q=Southern+California) | N/A |
+| 15 | [SoCal](http://twitter.com/search?q=SoCal) | N/A |
+| 16 | [Santa Clarita](http://twitter.com/search?q=Santa+Clarita) | N/A |
+| 17 | [CEQA](http://twitter.com/search?q=CEQA) | N/A |
+| 18 | [Day of Hate](http://twitter.com/search?q=Day+of+Hate) | N/A |
+| 19 | [Freddie](http://twitter.com/search?q=Freddie) | N/A |
+| 20 | [Big Bear](http://twitter.com/search?q=Big+Bear) | N/A |
+| 21 | [Rialto](http://twitter.com/search?q=Rialto) | N/A |
+| 22 | [Pac-12](http://twitter.com/search?q=Pac-12) | N/A |
 | 23 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
-| 24 | [#Optimusinu](http://twitter.com/search?q=%23Optimusinu) | N/A |
-| 25 | [#UFCVegas70](http://twitter.com/search?q=%23UFCVegas70) | N/A |
-| 26 | [Paul Ryan](http://twitter.com/search?q=Paul+Ryan) | Paul Ryan is the name of an American politician who served as the 54th Speaker of the United States House of Representatives from October 2015 to January 2019. He is a member of the Republican Party and was previously the Vice Presidential nominee for the 2012 election. The meaning of his name in English is "little king". |
+| 24 | [Paul Ryan](http://twitter.com/search?q=Paul+Ryan) | Paul Ryan is the name of an American politician who served as the 54th Speaker of the United States House of Representatives from October 2015 to January 2019. He is a member of the Republican Party and was previously the Vice Presidential nominee for the 2012 election. The meaning of his name in English is "little king". |
+| 25 | [Pete Nance](http://twitter.com/search?q=Pete+Nance) | N/A |
+| 26 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
 | 27 | [Trevor Peek](http://twitter.com/search?q=Trevor+Peek) | N/A |
-| 28 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
-| 29 | [Pat Adams](http://twitter.com/search?q=Pat+Adams) | N/A |
-| 30 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
-| 31 | [Pete Nance](http://twitter.com/search?q=Pete+Nance) | N/A |
-| 32 | [Fran](http://twitter.com/search?q=Fran) | N/A |
-| 33 | [Arizona State](http://twitter.com/search?q=Arizona+State) | N/A |
-| 34 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
-| 35 | [Jordan Leavitt](http://twitter.com/search?q=Jordan+Leavitt) | N/A |
-| 36 | [Florida State](http://twitter.com/search?q=Florida+State) | N/A |
-| 37 | [Matthew Cleveland](http://twitter.com/search?q=Matthew+Cleveland) | N/A |
-| 38 | [Krylov](http://twitter.com/search?q=Krylov) | N/A |
-| 39 | [Noles](http://twitter.com/search?q=Noles) | N/A |
-| 40 | [Mike Malott](http://twitter.com/search?q=Mike+Malott) | N/A |
-| 41 | [WARRIOR NUN CAMPERS](http://twitter.com/search?q=WARRIOR+NUN+CAMPERS) | N/A |
-| 42 | [Hany Mukhtar](http://twitter.com/search?q=Hany+Mukhtar) | N/A |
-| 43 | [Zeus](http://twitter.com/search?q=Zeus) | Zeus is the name of the supreme god in Greek mythology. He was the god of the sky, lightning, thunder, law, order, and justice. He was also known as the king of gods and ruler of Mount Olympus. In English, Zeus is often used to refer to a person who is powerful or influential. |
-| 44 | [Boeheim](http://twitter.com/search?q=Boeheim) | N/A |
-| 45 | [Amosov](http://twitter.com/search?q=Amosov) | N/A |
-| 46 | [Apple TV](http://twitter.com/search?q=Apple+TV) | N/A |
-| 47 | [Deep Purple](http://twitter.com/search?q=Deep+Purple) | N/A |
-| 48 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
-| 49 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
+| 28 | [Jalen Hood](http://twitter.com/search?q=Jalen+Hood) | N/A |
+| 29 | [MLS 360](http://twitter.com/search?q=MLS+360) | N/A |
+| 30 | [Tatiana Suarez](http://twitter.com/search?q=Tatiana+Suarez) | N/A |
+| 31 | [Apple TV](http://twitter.com/search?q=Apple+TV) | N/A |
+| 32 | [Queen Latifah](http://twitter.com/search?q=Queen+Latifah) | Queen Latifah is the stage name of American rapper, singer, songwriter, actress, and producer Dana Elaine Owens. The name Queen Latifah is derived from the Arabic word "Latifah," which means "delicate" or "sensitive." |
+| 33 | [Uncle Clifford](http://twitter.com/search?q=Uncle+Clifford) | N/A |
+| 34 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
+| 35 | [Edey](http://twitter.com/search?q=Edey) | Edey is a slang term used in some parts of the United States to refer to someone who is cool, stylish, or attractive. It can also be used as a term of endearment. |
+| 36 | [Mayes](http://twitter.com/search?q=Mayes) | N/A |
+| 37 | [Sakai](http://twitter.com/search?q=Sakai) | N/A |
+| 38 | [Pristavia](http://twitter.com/search?q=Pristavia) | N/A |
+| 39 | [Pat Adams](http://twitter.com/search?q=Pat+Adams) | N/A |
+| 40 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
+| 41 | [Fran](http://twitter.com/search?q=Fran) | N/A |
+| 42 | [Virginia](http://twitter.com/search?q=Virginia) | N/A |
+| 43 | [Mike Malott](http://twitter.com/search?q=Mike+Malott) | N/A |
+| 44 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
+| 45 | [Boeheim](http://twitter.com/search?q=Boeheim) | N/A |
+| 46 | [Deep Purple](http://twitter.com/search?q=Deep+Purple) | N/A |
+| 47 | [Krylov](http://twitter.com/search?q=Krylov) | N/A |
+| 48 | [Brayden Point](http://twitter.com/search?q=Brayden+Point) | N/A |
+| 49 | [DC United](http://twitter.com/search?q=DC+United) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Paris
 
-📆 Last Updated: `2023-02-26 00:29:52 UTC`
+📆 Last Updated: `2023-02-26 01:44:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,56 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#OMPSG](http://twitter.com/search?q=%23OMPSG) | N/A |
-| 2 | [#TheVoice](http://twitter.com/search?q=%23TheVoice) | N/A |
+| 1 | [#TheVoice](http://twitter.com/search?q=%23TheVoice) | N/A |
+| 2 | [#Cesar2023](http://twitter.com/search?q=%23Cesar2023) | N/A |
 | 3 | [#MHSCRCL](http://twitter.com/search?q=%23MHSCRCL) | N/A |
-| 4 | [#QuelleEpoque](http://twitter.com/search?q=%23QuelleEpoque) | N/A |
-| 5 | [#100Logique](http://twitter.com/search?q=%23100Logique) | N/A |
-| 6 | [Yann Moix](http://twitter.com/search?q=Yann+Moix) | N/A |
-| 7 | [Duplantis](http://twitter.com/search?q=Duplantis) | N/A |
-| 8 | [Sotoca](http://twitter.com/search?q=Sotoca) | N/A |
-| 9 | [Openda](http://twitter.com/search?q=Openda) | Openda is a Japanese term that means “open door” or “open gate.” It is used to refer to an opportunity or chance that can be taken advantage of. It can also be used to describe a situation in which someone is able to take advantage of an opportunity or gain access to something that was previously unavailable. |
-| 10 | [Haise](http://twitter.com/search?q=Haise) | N/A |
-| 11 | [Montpellier](http://twitter.com/search?q=Montpellier) | N/A |
-| 12 | [Bigflo](http://twitter.com/search?q=Bigflo) | N/A |
-| 13 | [Fulgini](http://twitter.com/search?q=Fulgini) | N/A |
-| 14 | [Thatcher](http://twitter.com/search?q=Thatcher) | Thatcher is a term used to refer to a person who is an advocate of conservative economic policies, such as those associated with former British Prime Minister Margaret Thatcher. It can also be used to describe someone who is politically conservative and/or holds traditional values. |
-| 15 | [Lecomte](http://twitter.com/search?q=Lecomte) | N/A |
-| 16 | [Ramzan](http://twitter.com/search?q=Ramzan) | N/A |
-| 17 | [Vianney](http://twitter.com/search?q=Vianney) | N/A |
-| 18 | [Ethnicité](http://twitter.com/search?q=Ethnicit%c3%a9) | N/A |
-| 19 | [Maxence](http://twitter.com/search?q=Maxence) | N/A |
-| 20 | [Amel Bent](http://twitter.com/search?q=Amel+Bent) | N/A |
-| 21 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
-| 22 | [Zazie](http://twitter.com/search?q=Zazie) | N/A |
-| 23 | [Danso](http://twitter.com/search?q=Danso) | N/A |
-| 24 | [Benalla](http://twitter.com/search?q=Benalla) | N/A |
-| 25 | [Sochaux](http://twitter.com/search?q=Sochaux) | N/A |
-| 26 | [Alvaro](http://twitter.com/search?q=Alvaro) | N/A |
-| 27 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 28 | [El Arouch](http://twitter.com/search?q=El+Arouch) | El Arouch is a type of traditional Lebanese dish made with bulgur wheat, vegetables, and spices. It is typically served as a side dish or as part of a mezze platter. The name El Arouch comes from the Arabic phrase “al-arish” which means “the top layer”, referring to the top layer of bulgur wheat that is cooked in the dish. In English, El Arouch translates to "the top layer". |
-| 29 | [Ligue 2](http://twitter.com/search?q=Ligue+2) | N/A |
-| 30 | [Everest](http://twitter.com/search?q=Everest) | N/A |
-| 31 | [Deschamps](http://twitter.com/search?q=Deschamps) | Deschamps is a French surname derived from the Old French word deschamps, meaning "of the fields". It is also a common given name in France. |
-| 32 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
-| 33 | [#DemonSlayer](http://twitter.com/search?q=%23DemonSlayer) | N/A |
-| 34 | [#OnEstObligé](http://twitter.com/search?q=%23OnEstOblig%c3%a9) | N/A |
-| 35 | [#karmalaserie](http://twitter.com/search?q=%23karmalaserie) | N/A |
-| 36 | [#STSP](http://twitter.com/search?q=%23STSP) | N/A |
-| 37 | [#RCLens](http://twitter.com/search?q=%23RCLens) | N/A |
-| 38 | [#AllStarPerche](http://twitter.com/search?q=%23AllStarPerche) | N/A |
-| 39 | [#KSW79](http://twitter.com/search?q=%23KSW79) | N/A |
-| 40 | [#Salondelagriculture](http://twitter.com/search?q=%23Salondelagriculture) | N/A |
-| 41 | [#ASSEPAU](http://twitter.com/search?q=%23ASSEPAU) | N/A |
-| 42 | [#EAGSMC](http://twitter.com/search?q=%23EAGSMC) | N/A |
-| 43 | [#FCMNO](http://twitter.com/search?q=%23FCMNO) | N/A |
-| 44 | [#RealMadridAtleti](http://twitter.com/search?q=%23RealMadridAtleti) | N/A |
-| 45 | [#MacronNousPrendPourDesCons](http://twitter.com/search?q=%23MacronNousPrendPourDesCons) | N/A |
-| 46 | [#TOP14](http://twitter.com/search?q=%23TOP14) | N/A |
+| 4 | [#SCOOL](http://twitter.com/search?q=%23SCOOL) | N/A |
+| 5 | [#Salondelagriculture](http://twitter.com/search?q=%23Salondelagriculture) | N/A |
+| 6 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 7 | [Brad Pitt](http://twitter.com/search?q=Brad+Pitt) | N/A |
+| 8 | [El Arouch](http://twitter.com/search?q=El+Arouch) | El Arouch is a type of traditional Lebanese dish made with bulgur wheat, vegetables, and spices. It is typically served as a side dish or as part of a mezze platter. The name El Arouch comes from the Arabic phrase “al-arish” which means “the top layer”, referring to the top layer of bulgur wheat that is cooked in the dish. In English, El Arouch translates to "the top layer". |
+| 9 | [Diacre](http://twitter.com/search?q=Diacre) | N/A |
+| 10 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
+| 11 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 12 | [Seductive Sunday](http://twitter.com/search?q=Seductive+Sunday) | N/A |
+| 13 | [thiago mendes](http://twitter.com/search?q=thiago+mendes) | N/A |
+| 14 | [Alvaro](http://twitter.com/search?q=Alvaro) | N/A |
+| 15 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 16 | [Yann Moix](http://twitter.com/search?q=Yann+Moix) | N/A |
+| 17 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 18 | [Barcola](http://twitter.com/search?q=Barcola) | N/A |
+| 19 | [Malika](http://twitter.com/search?q=Malika) | N/A |
+| 20 | [Virginie Efira](http://twitter.com/search?q=Virginie+Efira) | N/A |
+| 21 | [Lavillenie](http://twitter.com/search?q=Lavillenie) | N/A |
+| 22 | [Duplantis](http://twitter.com/search?q=Duplantis) | N/A |
+| 23 | [Lens](http://twitter.com/search?q=Lens) | Lens is a curved piece of glass or plastic used to focus light, such as in a camera or microscope. It can also refer to the ability to look at something from a particular perspective. In this sense, it is often used figuratively to refer to the way someone views a situation or problem. |
+| 24 | [JOUR DE CLASSIQUE](http://twitter.com/search?q=JOUR+DE+CLASSIQUE) | N/A |
+| 25 | [Everest](http://twitter.com/search?q=Everest) | N/A |
+| 26 | [Angers](http://twitter.com/search?q=Angers) | Angers is a city in western France, located on the Maine River. It is the capital of the Maine-et-Loire department and the historic capital of Anjou. The meaning of Angers in English is "anger". |
+| 27 | [Tunisie](http://twitter.com/search?q=Tunisie) | N/A |
+| 28 | [Ethnicité](http://twitter.com/search?q=Ethnicit%c3%a9) | N/A |
+| 29 | [Openda](http://twitter.com/search?q=Openda) | Openda is a Japanese term that means “open door” or “open gate.” It is used to refer to an opportunity or chance that can be taken advantage of. It can also be used to describe a situation in which someone is able to take advantage of an opportunity or gain access to something that was previously unavailable. |
+| 30 | [Jeffinho](http://twitter.com/search?q=Jeffinho) | Jeffinho is a Portuguese nickname derived from the name "Jefferson". It is often used as a term of endearment, similar to "honey" or "sweetheart" in English. |
+| 31 | [Un AVC](http://twitter.com/search?q=Un+AVC) | N/A |
+| 32 | [Sotoca](http://twitter.com/search?q=Sotoca) | N/A |
+| 33 | [Thatcher](http://twitter.com/search?q=Thatcher) | Thatcher is a term used to refer to a person who is an advocate of conservative economic policies, such as those associated with former British Prime Minister Margaret Thatcher. It can also be used to describe someone who is politically conservative and/or holds traditional values. |
+| 34 | [Amin Sarr](http://twitter.com/search?q=Amin+Sarr) | N/A |
+| 35 | [Ramzan](http://twitter.com/search?q=Ramzan) | N/A |
+| 36 | [Bigflo](http://twitter.com/search?q=Bigflo) | N/A |
+| 37 | [La Nuit du 12](http://twitter.com/search?q=La+Nuit+du+12) | N/A |
+| 38 | [HONOR Magic 5 Lite](http://twitter.com/search?q=HONOR+Magic+5+Lite) | N/A |
+| 39 | [Chine](http://twitter.com/search?q=Chine) | N/A |
+| 40 | [Correa](http://twitter.com/search?q=Correa) | Correa is a Spanish surname. It is derived from the Latin word correus, meaning "messenger". In English, it can be translated to mean "messenger" or "courier". |
+| 41 | [Danso](http://twitter.com/search?q=Danso) | N/A |
+| 42 | [Ahmed Sylla](http://twitter.com/search?q=Ahmed+Sylla) | N/A |
+| 43 | [Simeone](http://twitter.com/search?q=Simeone) | Simeone is a surname of Italian origin. It is derived from the given name Simone, which is the Italian form of Simon. The name means "he who hears" or "listening". |
+| 44 | [Fulgini](http://twitter.com/search?q=Fulgini) | N/A |
+| 45 | [Akaza](http://twitter.com/search?q=Akaza) | N/A |
+| 46 | [Jullien](http://twitter.com/search?q=Jullien) | N/A |
+| 47 | [Montpellier](http://twitter.com/search?q=Montpellier) | N/A |
+| 48 | [Lecomte](http://twitter.com/search?q=Lecomte) | N/A |
+| 49 | [Maxence](http://twitter.com/search?q=Maxence) | N/A |
+| 50 | [Bernardoni](http://twitter.com/search?q=Bernardoni) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-02-26 00:30:32 UTC`
+📆 Last Updated: `2023-02-26 01:44:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -30,41 +30,41 @@ This is top 50 for Panama
 | 13 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
 | 14 | [Correa](http://twitter.com/search?q=Correa) | Correa is a Spanish surname. It is derived from the Latin word correus, meaning "messenger". In English, it can be translated to mean "messenger" or "courier". |
 | 15 | [Atalaya](http://twitter.com/search?q=Atalaya) | N/A |
-| 16 | [Los Ruices](http://twitter.com/search?q=Los+Ruices) | N/A |
-| 17 | [Colón](http://twitter.com/search?q=Col%c3%b3n) | N/A |
-| 18 | [Arabia](http://twitter.com/search?q=Arabia) | Arabia is a region in the Middle East that includes the countries of Saudi Arabia, Yemen, Oman, United Arab Emirates, Qatar, Bahrain, Kuwait, and Jordan. It is known for its rich cultural heritage and its ancient civilizations. In English, Arabia means "land of the Arabs". |
-| 19 | [Veraguas](http://twitter.com/search?q=Veraguas) | N/A |
-| 20 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
-| 21 | [Asamblea](http://twitter.com/search?q=Asamblea) | N/A |
-| 22 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
-| 23 | [Veracruz](http://twitter.com/search?q=Veracruz) | N/A |
-| 24 | [Jesús Nazareno](http://twitter.com/search?q=Jes%c3%bas+Nazareno) | N/A |
-| 25 | [Rubén Blades](http://twitter.com/search?q=Rub%c3%a9n+Blades) | N/A |
-| 26 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 27 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
-| 28 | [Santiago](http://twitter.com/search?q=Santiago) | N/A |
-| 29 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
-| 30 | [Porqué](http://twitter.com/search?q=Porqu%c3%a9) | N/A |
-| 31 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
-| 32 | [Foco](http://twitter.com/search?q=Foco) | N/A |
-| 33 | [Oeste](http://twitter.com/search?q=Oeste) | N/A |
-| 34 | [Popi](http://twitter.com/search?q=Popi) | N/A |
-| 35 | [América Latina](http://twitter.com/search?q=Am%c3%a9rica+Latina) | N/A |
-| 36 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 37 | [Manchester](http://twitter.com/search?q=Manchester) | N/A |
-| 38 | [Somos 2](http://twitter.com/search?q=Somos+2) | N/A |
-| 39 | [Minera Panamá](http://twitter.com/search?q=Minera+Panam%c3%a1) | N/A |
-| 40 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 41 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 42 | [yemil](http://twitter.com/search?q=yemil) | N/A |
-| 43 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
-| 44 | [JUAN CARLOS VARELA](http://twitter.com/search?q=JUAN+CARLOS+VARELA) | N/A |
-| 45 | [Corrupción](http://twitter.com/search?q=Corrupci%c3%b3n) | N/A |
-| 46 | [#TodosXLaCopa](http://twitter.com/search?q=%23TodosXLaCopa) | N/A |
-| 47 | [La Liga](http://twitter.com/search?q=La+Liga) | N/A |
-| 48 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
+| 16 | [#RMxBOTTEGAVENETA](http://twitter.com/search?q=%23RMxBOTTEGAVENETA) | N/A |
+| 17 | [Los Ruices](http://twitter.com/search?q=Los+Ruices) | N/A |
+| 18 | [DJ Black](http://twitter.com/search?q=DJ+Black) | N/A |
+| 19 | [Arabia](http://twitter.com/search?q=Arabia) | Arabia is a region in the Middle East that includes the countries of Saudi Arabia, Yemen, Oman, United Arab Emirates, Qatar, Bahrain, Kuwait, and Jordan. It is known for its rich cultural heritage and its ancient civilizations. In English, Arabia means "land of the Arabs". |
+| 20 | [Veraguas](http://twitter.com/search?q=Veraguas) | N/A |
+| 21 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
+| 22 | [Colón](http://twitter.com/search?q=Col%c3%b3n) | N/A |
+| 23 | [Asamblea](http://twitter.com/search?q=Asamblea) | N/A |
+| 24 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
+| 25 | [Veracruz](http://twitter.com/search?q=Veracruz) | N/A |
+| 26 | [Penonomé](http://twitter.com/search?q=Penonom%c3%a9) | N/A |
+| 27 | [Jesús Nazareno](http://twitter.com/search?q=Jes%c3%bas+Nazareno) | N/A |
+| 28 | [Rubén](http://twitter.com/search?q=Rub%c3%a9n) | N/A |
+| 29 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 30 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
+| 31 | [Oeste](http://twitter.com/search?q=Oeste) | N/A |
+| 32 | [Batman](http://twitter.com/search?q=Batman) | Batman is a fictional superhero created by Bob Kane and Bill Finger. He first appeared in Detective Comics #27 in 1939. Batman is a vigilante who fights crime and injustice in Gotham City using his physical prowess, detective skills, science and technology, wealth, and intimidation. He is often referred to as the "Caped Crusader" or the "Dark Knight". |
+| 33 | [Santiago](http://twitter.com/search?q=Santiago) | N/A |
+| 34 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
+| 35 | [Porqué](http://twitter.com/search?q=Porqu%c3%a9) | N/A |
+| 36 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
+| 37 | [Foco](http://twitter.com/search?q=Foco) | N/A |
+| 38 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
+| 39 | [#TodosXLaCopa](http://twitter.com/search?q=%23TodosXLaCopa) | N/A |
+| 40 | [Popi](http://twitter.com/search?q=Popi) | N/A |
+| 41 | [América Latina](http://twitter.com/search?q=Am%c3%a9rica+Latina) | N/A |
+| 42 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 43 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 44 | [Los Planes de Gualaca](http://twitter.com/search?q=Los+Planes+de+Gualaca) | N/A |
+| 45 | [Minera Panamá](http://twitter.com/search?q=Minera+Panam%c3%a1) | N/A |
+| 46 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 47 | [yemil](http://twitter.com/search?q=yemil) | N/A |
+| 48 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
 | 49 | [Feid](http://twitter.com/search?q=Feid) | N/A |
-| 50 | [Martín](http://twitter.com/search?q=Mart%c3%adn) | N/A |
+| 50 | [juan carlos varela](http://twitter.com/search?q=juan+carlos+varela) | N/A |
 
 
 

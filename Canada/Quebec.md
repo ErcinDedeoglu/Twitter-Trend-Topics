@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quebec
 
-📆 Last Updated: `2023-02-26 00:29:38 UTC`
+📆 Last Updated: `2023-02-26 01:44:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,51 +15,55 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#UFCVegas70](http://twitter.com/search?q=%23UFCVegas70) | N/A |
-| 2 | [Nino](http://twitter.com/search?q=Nino) | N/A |
-| 3 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
-| 4 | [#BudFirstGoal](http://twitter.com/search?q=%23BudFirstGoal) | N/A |
-| 5 | [Campbell](http://twitter.com/search?q=Campbell) | N/A |
-| 6 | [#CNOY2023](http://twitter.com/search?q=%23CNOY2023) | N/A |
-| 7 | [Kravtsov](http://twitter.com/search?q=Kravtsov) | N/A |
-| 8 | [#Bellator291](http://twitter.com/search?q=%23Bellator291) | N/A |
-| 9 | [Lockwood](http://twitter.com/search?q=Lockwood) | N/A |
-| 10 | [Skinner](http://twitter.com/search?q=Skinner) | N/A |
-| 11 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 12 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
-| 13 | [Coldest Night of the Year](http://twitter.com/search?q=Coldest+Night+of+the+Year) | N/A |
+| 1 | [#GoHabsGo](http://twitter.com/search?q=%23GoHabsGo) | N/A |
+| 2 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
+| 3 | [#IMFC](http://twitter.com/search?q=%23IMFC) | N/A |
+| 4 | [#TFCLive](http://twitter.com/search?q=%23TFCLive) | N/A |
+| 5 | [Insigne](http://twitter.com/search?q=Insigne) | N/A |
+| 6 | [#CFMTL](http://twitter.com/search?q=%23CFMTL) | N/A |
+| 7 | [Watson](http://twitter.com/search?q=Watson) | Watson is an artificial intelligence (AI) computer system developed by IBM. It is capable of answering questions posed in natural language, making it a useful tool for businesses and researchers. Watson can also be used to analyze large amounts of data and generate insights from it. |
+| 8 | [Matheson](http://twitter.com/search?q=Matheson) | N/A |
+| 9 | [Nick Suzuki](http://twitter.com/search?q=Nick+Suzuki) | N/A |
+| 10 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
+| 11 | [Nino](http://twitter.com/search?q=Nino) | N/A |
+| 12 | [Coldest Night of the Year](http://twitter.com/search?q=Coldest+Night+of+the+Year) | N/A |
+| 13 | [Neil Young](http://twitter.com/search?q=Neil+Young) | N/A |
 | 14 | [Apple TV](http://twitter.com/search?q=Apple+TV) | N/A |
-| 15 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 16 | [Holland](http://twitter.com/search?q=Holland) | N/A |
-| 17 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
-| 18 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
-| 19 | [McDavid](http://twitter.com/search?q=McDavid) | McDavid is a brand of sports equipment and apparel, named after the Canadian hockey player Connor McDavid. The company produces protective gear, such as hockey helmets and shoulder pads, as well as clothing and accessories. |
-| 20 | [Kikuchi](http://twitter.com/search?q=Kikuchi) | N/A |
-| 21 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
-| 22 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 23 | [Columbus](http://twitter.com/search?q=Columbus) | N/A |
-| 24 | [Pirates](http://twitter.com/search?q=Pirates) | Pirates are people who attack and steal from ships at sea. They are often seen as criminals who take what they want without regard for the law. The term "pirate" is derived from the Latin word "pirata," which means "one who plunders." |
-| 25 | [Pistons](http://twitter.com/search?q=Pistons) | Pistons are components of an engine that move up and down to create the power needed to drive a vehicle. They are usually made of metal and fit into the cylinder of an engine, where they move up and down in order to compress and expand the air-fuel mixture that powers the engine. |
-| 26 | [INEC](http://twitter.com/search?q=INEC) | N/A |
-| 27 | [North](http://twitter.com/search?q=North) | N/A |
-| 28 | [Spring Training](http://twitter.com/search?q=Spring+Training) | N/A |
-| 29 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 30 | [Scott Adams](http://twitter.com/search?q=Scott+Adams) | N/A |
-| 31 | [Leslyn](http://twitter.com/search?q=Leslyn) | N/A |
-| 32 | [Donbass](http://twitter.com/search?q=Donbass) | N/A |
-| 33 | [Pittsburgh](http://twitter.com/search?q=Pittsburgh) | Pittsburgh is a city in the state of Pennsylvania in the United States. It is located at the confluence of the Allegheny, Monongahela, and Ohio rivers. Pittsburgh is known for its steel industry, museums, and sports teams. It is also home to several universities and colleges. |
-| 34 | [Maxime](http://twitter.com/search?q=Maxime) | N/A |
-| 35 | [#TFCLive](http://twitter.com/search?q=%23TFCLive) | N/A |
-| 36 | [#bcstorm](http://twitter.com/search?q=%23bcstorm) | N/A |
-| 37 | [#CFMTL](http://twitter.com/search?q=%23CFMTL) | N/A |
-| 38 | [#CurlingDayinCanada](http://twitter.com/search?q=%23CurlingDayinCanada) | N/A |
-| 39 | [#LetsGoOilers](http://twitter.com/search?q=%23LetsGoOilers) | N/A |
-| 40 | [#MLSisBack](http://twitter.com/search?q=%23MLSisBack) | N/A |
-| 41 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 42 | [#BlueJays](http://twitter.com/search?q=%23BlueJays) | N/A |
-| 43 | [#LetsGoPens](http://twitter.com/search?q=%23LetsGoPens) | #LetsGoPens is a hashtag used by fans of the Pittsburgh Penguins, a professional ice hockey team based in Pittsburgh, Pennsylvania. It is used to show support for the team and to encourage them to victory. |
-| 44 | [#NigeriaDecides2023](http://twitter.com/search?q=%23NigeriaDecides2023) | N/A |
-| 45 | [#flames1stgoal](http://twitter.com/search?q=%23flames1stgoal) | N/A |
+| 15 | [Campbell](http://twitter.com/search?q=Campbell) | N/A |
+| 16 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
+| 17 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
+| 18 | [Lockwood](http://twitter.com/search?q=Lockwood) | N/A |
+| 19 | [Kravtsov](http://twitter.com/search?q=Kravtsov) | N/A |
+| 20 | [Marchand](http://twitter.com/search?q=Marchand) | N/A |
+| 21 | [Holland](http://twitter.com/search?q=Holland) | N/A |
+| 22 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
+| 23 | [Skinner](http://twitter.com/search?q=Skinner) | N/A |
+| 24 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
+| 25 | [Elden Ring](http://twitter.com/search?q=Elden+Ring) | N/A |
+| 26 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
+| 27 | [Kikuchi](http://twitter.com/search?q=Kikuchi) | N/A |
+| 28 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
+| 29 | [Talbot](http://twitter.com/search?q=Talbot) | N/A |
+| 30 | [Columbus](http://twitter.com/search?q=Columbus) | N/A |
+| 31 | [Conservative Party](http://twitter.com/search?q=Conservative+Party) | N/A |
+| 32 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 33 | [Pirates](http://twitter.com/search?q=Pirates) | Pirates are people who attack and steal from ships at sea. They are often seen as criminals who take what they want without regard for the law. The term "pirate" is derived from the Latin word "pirata," which means "one who plunders." |
+| 34 | [INEC](http://twitter.com/search?q=INEC) | N/A |
+| 35 | [Scott Adams](http://twitter.com/search?q=Scott+Adams) | N/A |
+| 36 | [Leslyn](http://twitter.com/search?q=Leslyn) | N/A |
+| 37 | [Pistons](http://twitter.com/search?q=Pistons) | Pistons are components of an engine that move up and down to create the power needed to drive a vehicle. They are usually made of metal and fit into the cylinder of an engine, where they move up and down in order to compress and expand the air-fuel mixture that powers the engine. |
+| 38 | [Donbass](http://twitter.com/search?q=Donbass) | N/A |
+| 39 | [#UFCVegas70](http://twitter.com/search?q=%23UFCVegas70) | N/A |
+| 40 | [#CNOY2023](http://twitter.com/search?q=%23CNOY2023) | N/A |
+| 41 | [#BudFirstGoal](http://twitter.com/search?q=%23BudFirstGoal) | N/A |
+| 42 | [#bcstorm](http://twitter.com/search?q=%23bcstorm) | N/A |
+| 43 | [#MLSSeasonPass](http://twitter.com/search?q=%23MLSSeasonPass) | N/A |
+| 44 | [#CurlingDayinCanada](http://twitter.com/search?q=%23CurlingDayinCanada) | N/A |
+| 45 | [#Bellator291](http://twitter.com/search?q=%23Bellator291) | N/A |
+| 46 | [#MLSisBack](http://twitter.com/search?q=%23MLSisBack) | N/A |
+| 47 | [#BlueJays](http://twitter.com/search?q=%23BlueJays) | N/A |
+| 48 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 49 | [#Oilers](http://twitter.com/search?q=%23Oilers) | N/A |
 
 
 
