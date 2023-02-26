@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Glasgow
 
-📆 Last Updated: `2023-02-26 19:16:02 UTC`
+📆 Last Updated: `2023-02-26 20:16:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Kent](http://twitter.com/search?q=Kent) | N/A |
-| 2 | [Jack](http://twitter.com/search?q=Jack) | N/A |
-| 3 | [#ViaplayCupFinal](http://twitter.com/search?q=%23ViaplayCupFinal) | N/A |
-| 4 | [#CelticFC](http://twitter.com/search?q=%23CelticFC) | N/A |
-| 5 | [Starfelt](http://twitter.com/search?q=Starfelt) | Starfelt is a term used to describe a feeling of being deeply moved or inspired by something. It is often used to describe the feeling of awe and wonder that comes from looking up at the night sky and seeing the stars. |
-| 6 | [Hatate](http://twitter.com/search?q=Hatate) | N/A |
-| 7 | [Maeda](http://twitter.com/search?q=Maeda) | Maeda is a Japanese surname. It is derived from the Japanese words for “front” and “field”, and it can be translated to mean “in the front of the field”. |
-| 8 | [#CELRAN](http://twitter.com/search?q=%23CELRAN) | N/A |
-| 9 | [Abada](http://twitter.com/search?q=Abada) | Abada is a term used in the Yoruba language of Nigeria, which means "patience" or "endurance". It is often used to refer to someone who is patient and resilient in the face of adversity. |
-| 10 | [#COYBIG](http://twitter.com/search?q=%23COYBIG) | N/A |
-| 11 | [#SixNations2023](http://twitter.com/search?q=%23SixNations2023) | N/A |
-| 12 | [Mooy](http://twitter.com/search?q=Mooy) | Mooy is a slang term used in the Philippines to describe someone who is cool, stylish, or attractive. It can also be used to describe something that is impressive or noteworthy. In English, it could be translated as "awesome" or "amazing". |
-| 13 | [Hampden](http://twitter.com/search?q=Hampden) | N/A |
-| 14 | [Paris](http://twitter.com/search?q=Paris) | N/A |
-| 15 | [Jota](http://twitter.com/search?q=Jota) | N/A |
-| 16 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 17 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 18 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
-| 19 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 20 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 21 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 22 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 23 | [Man Utd](http://twitter.com/search?q=Man+Utd) | N/A |
-| 24 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 25 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 26 | [Beale](http://twitter.com/search?q=Beale) | Beale is a Scottish surname derived from the Old English word "bealu", meaning "brave". It is also an English place name, referring to a location in Hampshire, England. |
-| 27 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 28 | [Kamara](http://twitter.com/search?q=Kamara) | Kamara is a female given name of African origin, derived from the Igbo language. It means “moon” in English. |
-| 29 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
-| 30 | [Mickey Mouse](http://twitter.com/search?q=Mickey+Mouse) | N/A |
-| 31 | [Raskin](http://twitter.com/search?q=Raskin) | N/A |
-| 32 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
+| 2 | [Colak](http://twitter.com/search?q=Colak) | Colak is a type of traditional Indonesian cake made from glutinous rice flour, coconut milk, and sugar. It is usually served as a snack or dessert. The name Colak comes from the Javanese word "colak-colakan" which means to mix or stir. In English, Colak can be translated as "mixed cake". |
+| 3 | [Beautiful Sunday](http://twitter.com/search?q=Beautiful+Sunday) | N/A |
+| 4 | [#ViaplayCupFinal](http://twitter.com/search?q=%23ViaplayCupFinal) | N/A |
+| 5 | [#CelticFC](http://twitter.com/search?q=%23CelticFC) | N/A |
+| 6 | [Starfelt](http://twitter.com/search?q=Starfelt) | Starfelt is a term used to describe a feeling of being deeply moved or inspired by something. It is often used to describe the feeling of awe and wonder that comes from looking up at the night sky and seeing the stars. |
+| 7 | [Jack](http://twitter.com/search?q=Jack) | N/A |
+| 8 | [Maeda](http://twitter.com/search?q=Maeda) | Maeda is a Japanese surname. It is derived from the Japanese words for “front” and “field”, and it can be translated to mean “in the front of the field”. |
+| 9 | [#CELRAN](http://twitter.com/search?q=%23CELRAN) | N/A |
+| 10 | [Abada](http://twitter.com/search?q=Abada) | Abada is a term used in the Yoruba language of Nigeria, which means "patience" or "endurance". It is often used to refer to someone who is patient and resilient in the face of adversity. |
+| 11 | [#COYBIG](http://twitter.com/search?q=%23COYBIG) | N/A |
+| 12 | [#AsOne](http://twitter.com/search?q=%23AsOne) | N/A |
+| 13 | [Mooy](http://twitter.com/search?q=Mooy) | Mooy is a slang term used in the Philippines to describe someone who is cool, stylish, or attractive. It can also be used to describe something that is impressive or noteworthy. In English, it could be translated as "awesome" or "amazing". |
+| 14 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 15 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 16 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 17 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
+| 18 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 19 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 20 | [Man Utd](http://twitter.com/search?q=Man+Utd) | N/A |
+| 21 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 22 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 23 | [Beale](http://twitter.com/search?q=Beale) | Beale is a Scottish surname derived from the Old English word "bealu", meaning "brave". It is also an English place name, referring to a location in Hampshire, England. |
+| 24 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 25 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 26 | [Mickey Mouse](http://twitter.com/search?q=Mickey+Mouse) | N/A |
+| 27 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 28 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 29 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
+| 30 | [Kamara](http://twitter.com/search?q=Kamara) | Kamara is a female given name of African origin, derived from the Igbo language. It means “moon” in English. |
+| 31 | [Siva](http://twitter.com/search?q=Siva) | N/A |
+| 32 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
 | 33 | [Dan Burn](http://twitter.com/search?q=Dan+Burn) | Dan Burn is a phrase used to describe a situation in which someone has been completely overwhelmed by an emotional experience. It is often used to describe the feeling of being overwhelmed with sadness or grief. |
-| 34 | [Wan Bissaka](http://twitter.com/search?q=Wan+Bissaka) | Wan Bissaka is a nickname given to Manchester United footballer Aaron Wan-Bissaka. The name is derived from his surname, which is a combination of his first and last names. In English, it means "One Bissaka". |
-| 35 | [Wilson](http://twitter.com/search?q=Wilson) | N/A |
-| 36 | [Dubravka](http://twitter.com/search?q=Dubravka) | Dubravka is a Slavic female name derived from the word "dubrava," which means "oak grove." It is also the name of a municipality in Serbia. The name is often translated to English as "oak meadow." |
-| 37 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
-| 38 | [Eddie Howe](http://twitter.com/search?q=Eddie+Howe) | Eddie Howe is an English professional football manager and former player. He is currently the manager of Premier League club AFC Bournemouth. Howe has been praised for his tactical knowledge and ability to develop young players. |
-| 39 | [Licha](http://twitter.com/search?q=Licha) | Licha is a Spanish word that means "beautiful" or "pretty". It is often used to describe someone's physical appearance, but can also be used to describe something that is aesthetically pleasing. |
-| 40 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 41 | [League Cup](http://twitter.com/search?q=League+Cup) | N/A |
-| 42 | [Luke Shaw](http://twitter.com/search?q=Luke+Shaw) | Luke Shaw is an English professional footballer who plays as a left-back for Premier League club Manchester United and the England national team. The phrase is used to refer to the player himself. |
-| 43 | [James Corden](http://twitter.com/search?q=James+Corden) | James Corden is an English actor, comedian, writer, and television host. He is best known for hosting The Late Late Show with James Corden on CBS. He has also starred in films such as Into the Woods and Peter Rabbit. |
-| 44 | [Sakala](http://twitter.com/search?q=Sakala) | Sakala is a Sanskrit word meaning “all” or “everything.” It is often used to refer to the totality of existence, or the universe as a whole. In Hinduism, it is used to refer to the divine power that encompasses and sustains all of creation. |
-| 45 | [Tillman](http://twitter.com/search?q=Tillman) | Tillman is a surname of German origin. It is derived from the given name Tilman, which is a combination of the Germanic elements "til" meaning "people" and "man" meaning "man". The name can also be found in other countries, such as England and Scotland. |
-| 46 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
-| 47 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 48 | [Geordie](http://twitter.com/search?q=Geordie) | N/A |
-| 49 | [Saint-Maximin](http://twitter.com/search?q=Saint-Maximin) | N/A |
-| 50 | [BALD IS BEST](http://twitter.com/search?q=BALD+IS+BEST) | N/A |
+| 34 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
+| 35 | [Piers](http://twitter.com/search?q=Piers) | Piers is a type of structure built out into a body of water, such as a river or ocean, to provide access for boats and other vessels. It can also refer to a landing stage or wharf. The word comes from the Old French "piere," meaning "pillar." |
+| 36 | [Wilson](http://twitter.com/search?q=Wilson) | N/A |
+| 37 | [Raskin](http://twitter.com/search?q=Raskin) | N/A |
+| 38 | [League Cup](http://twitter.com/search?q=League+Cup) | N/A |
+| 39 | [Eddie Howe](http://twitter.com/search?q=Eddie+Howe) | Eddie Howe is an English professional football manager and former player. He is currently the manager of Premier League club AFC Bournemouth. Howe has been praised for his tactical knowledge and ability to develop young players. |
+| 40 | [Phil Jones](http://twitter.com/search?q=Phil+Jones) | N/A |
+| 41 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
+| 42 | [Carley](http://twitter.com/search?q=Carley) | N/A |
+| 43 | [Licha](http://twitter.com/search?q=Licha) | Licha is a Spanish word that means "beautiful" or "pretty". It is often used to describe someone's physical appearance, but can also be used to describe something that is aesthetically pleasing. |
+| 44 | [Wan Bissaka](http://twitter.com/search?q=Wan+Bissaka) | Wan Bissaka is a nickname given to Manchester United footballer Aaron Wan-Bissaka. The name is derived from his surname, which is a combination of his first and last names. In English, it means "One Bissaka". |
+| 45 | [Dubravka](http://twitter.com/search?q=Dubravka) | Dubravka is a Slavic female name derived from the word "dubrava," which means "oak grove." It is also the name of a municipality in Serbia. The name is often translated to English as "oak meadow." |
+| 46 | [Luke Shaw](http://twitter.com/search?q=Luke+Shaw) | Luke Shaw is an English professional footballer who plays as a left-back for Premier League club Manchester United and the England national team. The phrase is used to refer to the player himself. |
+| 47 | [James Corden](http://twitter.com/search?q=James+Corden) | James Corden is an English actor, comedian, writer, and television host. He is best known for hosting The Late Late Show with James Corden on CBS. He has also starred in films such as Into the Woods and Peter Rabbit. |
+| 48 | [BALD IS BEST](http://twitter.com/search?q=BALD+IS+BEST) | N/A |
+| 49 | [Warra](http://twitter.com/search?q=Warra) | N/A |
+| 50 | [Geordie](http://twitter.com/search?q=Geordie) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Boston
 
-📆 Last Updated: `2023-02-26 19:16:40 UTC`
+📆 Last Updated: `2023-02-26 20:16:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,52 @@ This is top 50 for [United States](</United States>)
 | 1 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
 | 2 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
 | 3 | [Philly](http://twitter.com/search?q=Philly) | Philly is a nickname for the city of Philadelphia, Pennsylvania. It is often used as shorthand for the city and its surrounding metropolitan area. |
-| 4 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
-| 5 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
-| 6 | [#CarabaoCupFinal](http://twitter.com/search?q=%23CarabaoCupFinal) | N/A |
-| 7 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 8 | [#GGMU](http://twitter.com/search?q=%23GGMU) | #GGMU is an acronym for the phrase “Glory, Glory, Manchester United”. It is a chant used by Manchester United fans to show their support for the team. |
-| 9 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 10 | [Glory Glory Man United](http://twitter.com/search?q=Glory+Glory+Man+United) | N/A |
-| 11 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 12 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 13 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
-| 14 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
-| 15 | [#MUNNEW](http://twitter.com/search?q=%23MUNNEW) | N/A |
-| 16 | [Fauci](http://twitter.com/search?q=Fauci) | N/A |
-| 17 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
-| 18 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 19 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 20 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 21 | [Padres](http://twitter.com/search?q=Padres) | N/A |
-| 22 | [Jordan Walker](http://twitter.com/search?q=Jordan+Walker) | N/A |
-| 23 | [Woody](http://twitter.com/search?q=Woody) | Woody is a slang term used to describe someone who is strong, tough, and determined. It can also be used to describe someone who is stubborn and unyielding. |
-| 24 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 25 | [Prime Wayne](http://twitter.com/search?q=Prime+Wayne) | N/A |
-| 26 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 27 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
-| 28 | [#mnwildfirst](http://twitter.com/search?q=%23mnwildfirst) | N/A |
-| 29 | [Energy Department](http://twitter.com/search?q=Energy+Department) | N/A |
-| 30 | [Sunday Funday](http://twitter.com/search?q=Sunday+Funday) | N/A |
-| 31 | [Machado](http://twitter.com/search?q=Machado) | N/A |
-| 32 | [Soto](http://twitter.com/search?q=Soto) | Soto is a type of Indonesian soup made with a variety of ingredients such as beef, chicken, vegetables, and spices. The word "soto" is derived from the Javanese word "sroto", which means "soup". In English, it can be translated as "soup". |
-| 33 | [Volpe](http://twitter.com/search?q=Volpe) | N/A |
-| 34 | [Olivia Miles](http://twitter.com/search?q=Olivia+Miles) | N/A |
-| 35 | [Department of Energy](http://twitter.com/search?q=Department+of+Energy) | N/A |
-| 36 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 37 | [Okogie](http://twitter.com/search?q=Okogie) | N/A |
-| 38 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
-| 39 | [Clarke Schmidt](http://twitter.com/search?q=Clarke+Schmidt) | N/A |
-| 40 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
-| 41 | [Brice Sensabaugh](http://twitter.com/search?q=Brice+Sensabaugh) | N/A |
-| 42 | [Trevino](http://twitter.com/search?q=Trevino) | N/A |
-| 43 | [Scott Adams](http://twitter.com/search?q=Scott+Adams) | N/A |
-| 44 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
-| 45 | [Jahmir Young](http://twitter.com/search?q=Jahmir+Young) | N/A |
-| 46 | [Energy Dept](http://twitter.com/search?q=Energy+Dept) | N/A |
-| 47 | [Barbashev](http://twitter.com/search?q=Barbashev) | N/A |
-| 48 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 49 | [Bruce Thornton](http://twitter.com/search?q=Bruce+Thornton) | N/A |
-| 50 | [LOW CONFIDENCE](http://twitter.com/search?q=LOW+CONFIDENCE) | N/A |
+| 4 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
+| 5 | [Fauci](http://twitter.com/search?q=Fauci) | N/A |
+| 6 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
+| 7 | [#CarabaoCupFinal](http://twitter.com/search?q=%23CarabaoCupFinal) | N/A |
+| 8 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
+| 9 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 10 | [#GGMU](http://twitter.com/search?q=%23GGMU) | #GGMU is an acronym for the phrase “Glory, Glory, Manchester United”. It is a chant used by Manchester United fans to show their support for the team. |
+| 11 | [Glory Glory Man United](http://twitter.com/search?q=Glory+Glory+Man+United) | N/A |
+| 12 | [Wayne](http://twitter.com/search?q=Wayne) | Wayne is a masculine given name in English, derived from an Old English surname meaning "wagon maker" or "wagon driver". It is also used as a surname. |
+| 13 | [Volpe](http://twitter.com/search?q=Volpe) | N/A |
+| 14 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 15 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 16 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 17 | [#MUNNEW](http://twitter.com/search?q=%23MUNNEW) | N/A |
+| 18 | [Woody](http://twitter.com/search?q=Woody) | Woody is a slang term used to describe someone who is strong, tough, and determined. It can also be used to describe someone who is stubborn and unyielding. |
+| 19 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 20 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
+| 21 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 22 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
+| 23 | [Padres](http://twitter.com/search?q=Padres) | N/A |
+| 24 | [Sunday Funday](http://twitter.com/search?q=Sunday+Funday) | N/A |
+| 25 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
+| 26 | [Jordan Walker](http://twitter.com/search?q=Jordan+Walker) | N/A |
+| 27 | [Cozens](http://twitter.com/search?q=Cozens) | N/A |
+| 28 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 29 | [Almeria](http://twitter.com/search?q=Almeria) | N/A |
+| 30 | [#GuardianGiveaways](http://twitter.com/search?q=%23GuardianGiveaways) | N/A |
+| 31 | [Energy Department](http://twitter.com/search?q=Energy+Department) | N/A |
+| 32 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 33 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
+| 34 | [Department of Energy](http://twitter.com/search?q=Department+of+Energy) | N/A |
+| 35 | [Soto](http://twitter.com/search?q=Soto) | Soto is a type of Indonesian soup made with a variety of ingredients such as beef, chicken, vegetables, and spices. The word "soto" is derived from the Javanese word "sroto", which means "soup". In English, it can be translated as "soup". |
+| 36 | [Machado](http://twitter.com/search?q=Machado) | N/A |
+| 37 | [Morty](http://twitter.com/search?q=Morty) | Morty is a nickname for the given name Mortimer, which is of English origin and means "dead sea". It can also be used as a diminutive form of the name Mortimer. |
+| 38 | [Adin](http://twitter.com/search?q=Adin) | Adin is a unisex name of Hebrew origin, meaning "noble" or "slender". |
+| 39 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
+| 40 | [Devin Booker](http://twitter.com/search?q=Devin+Booker) | N/A |
+| 41 | [Mittelstadt](http://twitter.com/search?q=Mittelstadt) | N/A |
+| 42 | [Olivia Miles](http://twitter.com/search?q=Olivia+Miles) | N/A |
+| 43 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 44 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 45 | [LOW CONFIDENCE](http://twitter.com/search?q=LOW+CONFIDENCE) | N/A |
+| 46 | [Jack Quinn](http://twitter.com/search?q=Jack+Quinn) | N/A |
+| 47 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
+| 48 | [Brook Lopez](http://twitter.com/search?q=Brook+Lopez) | Brook Lopez is the name of an American professional basketball player who currently plays for the Milwaukee Bucks of the National Basketball Association (NBA). He was drafted 10th overall by the Nets in the 2008 NBA Draft. |
+| 49 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
 
 
 

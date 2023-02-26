@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Delhi
 
-📆 Last Updated: `2023-02-26 19:16:47 UTC`
+📆 Last Updated: `2023-02-26 20:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#AamAadmiParty](http://twitter.com/search?q=%23AamAadmiParty) | N/A |
-| 2 | [जेल जाना](http://twitter.com/search?q=%e0%a4%9c%e0%a5%87%e0%a4%b2+%e0%a4%9c%e0%a4%be%e0%a4%a8%e0%a4%be) | N/A |
+| 1 | [जेल जाना](http://twitter.com/search?q=%e0%a4%9c%e0%a5%87%e0%a4%b2+%e0%a4%9c%e0%a4%be%e0%a4%a8%e0%a4%be) | N/A |
+| 2 | [#AamAadmiParty](http://twitter.com/search?q=%23AamAadmiParty) | N/A |
 | 3 | [South Africa](http://twitter.com/search?q=South+Africa) | N/A |
 | 4 | [#CarabaoCupFinal](http://twitter.com/search?q=%23CarabaoCupFinal) | N/A |
 | 5 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
-| 6 | [#MUNNEW](http://twitter.com/search?q=%23MUNNEW) | N/A |
-| 7 | [#GGMU](http://twitter.com/search?q=%23GGMU) | #GGMU is an acronym for the phrase “Glory, Glory, Manchester United”. It is a chant used by Manchester United fans to show their support for the team. |
-| 8 | [मनीष सिसोदिया](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a8%e0%a5%80%e0%a4%b7+%e0%a4%b8%e0%a4%bf%e0%a4%b8%e0%a5%8b%e0%a4%a6%e0%a4%bf%e0%a4%af%e0%a4%be) | N/A |
-| 9 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 6 | [#GGMU](http://twitter.com/search?q=%23GGMU) | #GGMU is an acronym for the phrase “Glory, Glory, Manchester United”. It is a chant used by Manchester United fans to show their support for the team. |
+| 7 | [#MUNNEW](http://twitter.com/search?q=%23MUNNEW) | N/A |
+| 8 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 9 | [मनीष सिसोदिया](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a8%e0%a5%80%e0%a4%b7+%e0%a4%b8%e0%a4%bf%e0%a4%b8%e0%a5%8b%e0%a4%a6%e0%a4%bf%e0%a4%af%e0%a4%be) | N/A |
 | 10 | [Glory Glory Man United](http://twitter.com/search?q=Glory+Glory+Man+United) | N/A |
 | 11 | [Erik Ten Hag](http://twitter.com/search?q=Erik+Ten+Hag) | N/A |
 | 12 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
 | 13 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 14 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 15 | [शिक्षा मंत्री](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 16 | [Bumrah](http://twitter.com/search?q=Bumrah) | N/A |
-| 17 | [Licha](http://twitter.com/search?q=Licha) | Licha is a Spanish word that means "beautiful" or "pretty". It is often used to describe someone's physical appearance, but can also be used to describe something that is aesthetically pleasing. |
-| 18 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 19 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
-| 20 | [After 6](http://twitter.com/search?q=After+6) | N/A |
+| 14 | [Almeria](http://twitter.com/search?q=Almeria) | N/A |
+| 15 | [Roberto](http://twitter.com/search?q=Roberto) | N/A |
+| 16 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 17 | [शिक्षा मंत्री](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
+| 18 | [Licha](http://twitter.com/search?q=Licha) | Licha is a Spanish word that means "beautiful" or "pretty". It is often used to describe someone's physical appearance, but can also be used to describe something that is aesthetically pleasing. |
+| 19 | [Bumrah](http://twitter.com/search?q=Bumrah) | N/A |
+| 20 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 21 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 22 | [Wan Bissaka](http://twitter.com/search?q=Wan+Bissaka) | Wan Bissaka is a nickname given to Manchester United footballer Aaron Wan-Bissaka. The name is derived from his surname, which is a combination of his first and last names. In English, it means "One Bissaka". |
-| 23 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 24 | [Reds](http://twitter.com/search?q=Reds) | Reds is a slang term used to refer to people who are communists or supporters of communism. It is derived from the color red, which has been associated with communism since the Russian Revolution of 1917. |
-| 25 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
+| 22 | [After 6](http://twitter.com/search?q=After+6) | N/A |
+| 23 | [Wan Bissaka](http://twitter.com/search?q=Wan+Bissaka) | Wan Bissaka is a nickname given to Manchester United footballer Aaron Wan-Bissaka. The name is derived from his surname, which is a combination of his first and last names. In English, it means "One Bissaka". |
+| 24 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
+| 25 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
 | 26 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 27 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
-| 28 | [Marcus Rashford](http://twitter.com/search?q=Marcus+Rashford) | Marcus Rashford is an English professional footballer who plays as a forward for Premier League club Manchester United and the England national team. He is known for his pace, skill, and direct style of play. |
-| 29 | [Almeria](http://twitter.com/search?q=Almeria) | N/A |
-| 30 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 31 | [Nokia](http://twitter.com/search?q=Nokia) | N/A |
-| 32 | [Roberto](http://twitter.com/search?q=Roberto) | N/A |
-| 33 | [आम आदमी पार्टी](http://twitter.com/search?q=%e0%a4%86%e0%a4%ae+%e0%a4%86%e0%a4%a6%e0%a4%ae%e0%a5%80+%e0%a4%aa%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9f%e0%a5%80) | N/A |
+| 27 | [Reds](http://twitter.com/search?q=Reds) | Reds is a slang term used to refer to people who are communists or supporters of communism. It is derived from the color red, which has been associated with communism since the Russian Revolution of 1917. |
+| 28 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
+| 29 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 30 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 31 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
+| 32 | [Eric](http://twitter.com/search?q=Eric) | Eric is a masculine given name of Old Norse origin, derived from the Old Norse name Eiríkr. It is related to the Latin name Ericus, which is derived from the Latin word for "ever-ruler". In English, Eric means "eternal ruler" or "ever-powerful". |
+| 33 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
 | 34 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
-| 35 | [Eric](http://twitter.com/search?q=Eric) | Eric is a masculine given name of Old Norse origin, derived from the Old Norse name Eiríkr. It is related to the Latin name Ericus, which is derived from the Latin word for "ever-ruler". In English, Eric means "eternal ruler" or "ever-powerful". |
-| 36 | [Vipul](http://twitter.com/search?q=Vipul) | N/A |
-| 37 | [Shaheen](http://twitter.com/search?q=Shaheen) | N/A |
-| 38 | [Luke Shaw](http://twitter.com/search?q=Luke+Shaw) | Luke Shaw is an English professional footballer who plays as a left-back for Premier League club Manchester United and the England national team. The phrase is used to refer to the player himself. |
-| 39 | [संजय सिंह](http://twitter.com/search?q=%e0%a4%b8%e0%a4%82%e0%a4%9c%e0%a4%af+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9) | N/A |
-| 40 | [Garcia](http://twitter.com/search?q=Garcia) | Garcia is a Spanish surname. It is derived from the Basque word "gar" meaning "bear". The name is often associated with strength and courage. In English, Garcia means "brave and strong". |
-| 41 | [दारू मंत्री](http://twitter.com/search?q=%e0%a4%a6%e0%a4%be%e0%a4%b0%e0%a5%82+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 42 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
-| 43 | [अरविंद केजरीवाल](http://twitter.com/search?q=%e0%a4%85%e0%a4%b0%e0%a4%b5%e0%a4%bf%e0%a4%82%e0%a4%a6+%e0%a4%95%e0%a5%87%e0%a4%9c%e0%a4%b0%e0%a5%80%e0%a4%b5%e0%a4%be%e0%a4%b2) | N/A |
-| 44 | [SHEHNAAZ WINS LOKMAT AWARD](http://twitter.com/search?q=SHEHNAAZ+WINS+LOKMAT+AWARD) | N/A |
-| 45 | [Laura Wolvaardt](http://twitter.com/search?q=Laura+Wolvaardt) | N/A |
-| 46 | [Congratulations Australia](http://twitter.com/search?q=Congratulations+Australia) | N/A |
-| 47 | [Worst Film](http://twitter.com/search?q=Worst+Film) | N/A |
-| 48 | [Jail](http://twitter.com/search?q=Jail) | N/A |
-| 49 | [Meg Lanning](http://twitter.com/search?q=Meg+Lanning) | N/A |
-| 50 | [अन्ना हजारे](http://twitter.com/search?q=%e0%a4%85%e0%a4%a8%e0%a5%8d%e0%a4%a8%e0%a4%be+%e0%a4%b9%e0%a4%9c%e0%a4%be%e0%a4%b0%e0%a5%87) | N/A |
+| 35 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 36 | [Nokia](http://twitter.com/search?q=Nokia) | N/A |
+| 37 | [Vipul](http://twitter.com/search?q=Vipul) | N/A |
+| 38 | [संजय सिंह](http://twitter.com/search?q=%e0%a4%b8%e0%a4%82%e0%a4%9c%e0%a4%af+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9) | N/A |
+| 39 | [आम आदमी पार्टी](http://twitter.com/search?q=%e0%a4%86%e0%a4%ae+%e0%a4%86%e0%a4%a6%e0%a4%ae%e0%a5%80+%e0%a4%aa%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9f%e0%a5%80) | N/A |
+| 40 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
+| 41 | [Shaheen](http://twitter.com/search?q=Shaheen) | N/A |
+| 42 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 43 | [दारू मंत्री](http://twitter.com/search?q=%e0%a4%a6%e0%a4%be%e0%a4%b0%e0%a5%82+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
+| 44 | [Garcia](http://twitter.com/search?q=Garcia) | Garcia is a Spanish surname. It is derived from the Basque word "gar" meaning "bear". The name is often associated with strength and courage. In English, Garcia means "brave and strong". |
+| 45 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
+| 46 | [Trophy](http://twitter.com/search?q=Trophy) | N/A |
+| 47 | [अरविंद केजरीवाल](http://twitter.com/search?q=%e0%a4%85%e0%a4%b0%e0%a4%b5%e0%a4%bf%e0%a4%82%e0%a4%a6+%e0%a4%95%e0%a5%87%e0%a4%9c%e0%a4%b0%e0%a5%80%e0%a4%b5%e0%a4%be%e0%a4%b2) | N/A |
+| 48 | [Worst Film](http://twitter.com/search?q=Worst+Film) | N/A |
+| 49 | [SHEHNAAZ WINS LOKMAT AWARD](http://twitter.com/search?q=SHEHNAAZ+WINS+LOKMAT+AWARD) | N/A |
+| 50 | [Congratulations Australia](http://twitter.com/search?q=Congratulations+Australia) | N/A |
 
 
 

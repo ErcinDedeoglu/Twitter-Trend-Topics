@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For France
 
-📆 Last Updated: `2023-02-26 19:16:50 UTC`
+📆 Last Updated: `2023-02-26 20:16:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for France
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#LGBTQIASunIsComing](http://twitter.com/search?q=%23LGBTQIASunIsComing) | N/A |
-| 2 | [#ASMOGCN](http://twitter.com/search?q=%23ASMOGCN) | N/A |
-| 3 | [#FRAECO](http://twitter.com/search?q=%23FRAECO) | N/A |
-| 4 | [#OMPSG](http://twitter.com/search?q=%23OMPSG) | N/A |
-| 5 | [#septahuit](http://twitter.com/search?q=%23septahuit) | N/A |
-| 6 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 7 | [Clauss](http://twitter.com/search?q=Clauss) | Clauss is a German surname. It is derived from the Latin word "clausus," which means "closed" or "shut." In English, the name Clauss can be translated to mean "closed off" or "shut away." |
-| 8 | [Monaco](http://twitter.com/search?q=Monaco) | N/A |
-| 9 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
-| 10 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 11 | [Almeria](http://twitter.com/search?q=Almeria) | N/A |
-| 12 | [Moffi](http://twitter.com/search?q=Moffi) | Moffi is a slang term used in some parts of the United States to refer to someone who is a nerd or geek. It can also be used as an insult, implying that someone is socially awkward or not cool. |
-| 13 | [Saint Maximin](http://twitter.com/search?q=Saint+Maximin) | N/A |
-| 14 | [François Hadji](http://twitter.com/search?q=Fran%c3%a7ois+Hadji) | N/A |
-| 15 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 16 | [Éric Garcia](http://twitter.com/search?q=%c3%89ric+Garcia) | N/A |
-| 17 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 18 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
-| 19 | [Marcos Alonso](http://twitter.com/search?q=Marcos+Alonso) | Marcos Alonso is a Spanish professional footballer who plays as a left back for Premier League club Chelsea and the Spanish national team. His name is derived from the Spanish words "mar" (sea) and "cos" (order). In English, his name translates to "ordered sea". |
-| 20 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
-| 21 | [Julien Bert](http://twitter.com/search?q=Julien+Bert) | N/A |
-| 22 | [Digard](http://twitter.com/search?q=Digard) | N/A |
-| 23 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
-| 24 | [Glory Glory Man United](http://twitter.com/search?q=Glory+Glory+Man+United) | N/A |
-| 25 | [Thuram](http://twitter.com/search?q=Thuram) | N/A |
-| 26 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 27 | [Haouas](http://twitter.com/search?q=Haouas) | N/A |
-| 28 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 29 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
-| 30 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 31 | [Wan Bissaka](http://twitter.com/search?q=Wan+Bissaka) | Wan Bissaka is a nickname given to Manchester United footballer Aaron Wan-Bissaka. The name is derived from his surname, which is a combination of his first and last names. In English, it means "One Bissaka". |
-| 32 | [Nubel](http://twitter.com/search?q=Nubel) | N/A |
-| 33 | [Pablo Torre](http://twitter.com/search?q=Pablo+Torre) | Pablo Torre is a sports journalist and television personality who works for ESPN. He is known for his coverage of the NBA, NFL, and college basketball. The name "Pablo Torre" is derived from the Spanish words "pablo" (meaning "small") and "torre" (meaning "tower"). |
-| 34 | [Jelonch](http://twitter.com/search?q=Jelonch) | N/A |
-| 35 | [Pigalle](http://twitter.com/search?q=Pigalle) | N/A |
-| 36 | [Clément](http://twitter.com/search?q=Cl%c3%a9ment) | N/A |
-| 37 | [Martyrs](http://twitter.com/search?q=Martyrs) | N/A |
-| 38 | [ALLEZ L'OM](http://twitter.com/search?q=ALLEZ+L%27OM) | N/A |
-| 39 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 40 | [Colors](http://twitter.com/search?q=Colors) | N/A |
-| 41 | [Fickou](http://twitter.com/search?q=Fickou) | N/A |
-| 42 | [Disasi](http://twitter.com/search?q=Disasi) | N/A |
-| 43 | [Diatta](http://twitter.com/search?q=Diatta) | N/A |
-| 44 | [Bailly](http://twitter.com/search?q=Bailly) | Bailly is a French surname derived from the Old French word baillis, meaning "bailiff" or "steward". It is also a given name in France, derived from the same source. |
-| 45 | [Garçons Bouchers](http://twitter.com/search?q=Gar%c3%a7ons+Bouchers) | N/A |
-| 46 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 47 | [Ben Yedder](http://twitter.com/search?q=Ben+Yedder) | N/A |
-| 48 | [Boadu](http://twitter.com/search?q=Boadu) | N/A |
-| 49 | [Bleus](http://twitter.com/search?q=Bleus) | N/A |
-| 50 | [Reims](http://twitter.com/search?q=Reims) | Reims is a city in the Grand Est region of France. It is located in the Marne department, about 130 km northeast of Paris. The name Reims comes from the Latin word "Remi", which means "rim" or "edge". In English, Reims can be translated to mean "at the edge". |
+| 1 | [#OMPSG](http://twitter.com/search?q=%23OMPSG) | N/A |
+| 2 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
+| 3 | [Kimpembe](http://twitter.com/search?q=Kimpembe) | N/A |
+| 4 | [Bailly](http://twitter.com/search?q=Bailly) | Bailly is a French surname derived from the Old French word baillis, meaning "bailiff" or "steward". It is also a given name in France, derived from the same source. |
+| 5 | [Marquinhos](http://twitter.com/search?q=Marquinhos) | Marquinhos is a nickname for the Brazilian footballer Marcos Aoás Corrêa, who plays for Paris Saint-Germain. The name is derived from his first name, Marcos, and is a common nickname in Brazil. In English, it translates to "Little Marcos". |
+| 6 | [Turpin](http://twitter.com/search?q=Turpin) | Turpin is a French surname derived from the Old French word torp, meaning "stubborn". It is also a given name, usually for males. In English, it can be used as a nickname for someone who is stubborn or determined. |
+| 7 | [Presko](http://twitter.com/search?q=Presko) | N/A |
+| 8 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
+| 9 | [#LGBTQIASunIsComing](http://twitter.com/search?q=%23LGBTQIASunIsComing) | N/A |
+| 10 | [Julien Bert](http://twitter.com/search?q=Julien+Bert) | N/A |
+| 11 | [Allez Paris](http://twitter.com/search?q=Allez+Paris) | N/A |
+| 12 | [Ruiz](http://twitter.com/search?q=Ruiz) | Ruiz is a Spanish surname. It is derived from the Latin word "ruiz" which means "oak tree". In English, it can be translated to mean "oak tree". |
+| 13 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 14 | [Almeria](http://twitter.com/search?q=Almeria) | N/A |
+| 15 | [ALLEZ L'OM](http://twitter.com/search?q=ALLEZ+L%27OM) | N/A |
+| 16 | [Hilona](http://twitter.com/search?q=Hilona) | N/A |
+| 17 | [Kylian](http://twitter.com/search?q=Kylian) | N/A |
+| 18 | [#septahuit](http://twitter.com/search?q=%23septahuit) | N/A |
+| 19 | [#ASMOGCN](http://twitter.com/search?q=%23ASMOGCN) | N/A |
+| 20 | [Clauss](http://twitter.com/search?q=Clauss) | Clauss is a German surname. It is derived from the Latin word "clausus," which means "closed" or "shut." In English, the name Clauss can be translated to mean "closed off" or "shut away." |
+| 21 | [Presnel](http://twitter.com/search?q=Presnel) | N/A |
+| 22 | [#PSGOM](http://twitter.com/search?q=%23PSGOM) | N/A |
+| 23 | [Marseille](http://twitter.com/search?q=Marseille) | N/A |
+| 24 | [François Hadji](http://twitter.com/search?q=Fran%c3%a7ois+Hadji) | N/A |
+| 25 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 26 | [Monaco](http://twitter.com/search?q=Monaco) | N/A |
+| 27 | [Saint Maximin](http://twitter.com/search?q=Saint+Maximin) | N/A |
+| 28 | [Mukiele](http://twitter.com/search?q=Mukiele) | Mukiele is a name of African origin, derived from the Kikuyu language. It means "God's gift" in English. |
+| 29 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 30 | [Eric Garcia](http://twitter.com/search?q=Eric+Garcia) | Eric Garcia is a Spanish name. It is derived from the Germanic name Eric, which means "ever ruler," and Garcia, which is a patronymic surname meaning "son of Garcia." |
+| 31 | [Vélodrome](http://twitter.com/search?q=V%c3%a9lodrome) | N/A |
+| 32 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
+| 33 | [Roselyne](http://twitter.com/search?q=Roselyne) | N/A |
+| 34 | [Moffi](http://twitter.com/search?q=Moffi) | Moffi is a slang term used in some parts of the United States to refer to someone who is a nerd or geek. It can also be used as an insult, implying that someone is socially awkward or not cool. |
+| 35 | [Kyks](http://twitter.com/search?q=Kyks) | N/A |
+| 36 | [Marcos Alonso](http://twitter.com/search?q=Marcos+Alonso) | Marcos Alonso is a Spanish professional footballer who plays as a left back for Premier League club Chelsea and the Spanish national team. His name is derived from the Spanish words "mar" (sea) and "cos" (order). In English, his name translates to "ordered sea". |
+| 37 | [Digard](http://twitter.com/search?q=Digard) | N/A |
+| 38 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 39 | [ICI C'EST PARIS](http://twitter.com/search?q=ICI+C%27EST+PARIS) | N/A |
+| 40 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
+| 41 | [Yike](http://twitter.com/search?q=Yike) | Yike is an expression of surprise or shock, usually used in response to something unexpected or unpleasant. It is often used as an exclamation in informal speech. |
+| 42 | [Glory Glory Man United](http://twitter.com/search?q=Glory+Glory+Man+United) | N/A |
+| 43 | [Pablo Torre](http://twitter.com/search?q=Pablo+Torre) | Pablo Torre is a sports journalist and television personality who works for ESPN. He is known for his coverage of the NBA, NFL, and college basketball. The name "Pablo Torre" is derived from the Spanish words "pablo" (meaning "small") and "torre" (meaning "tower"). |
+| 44 | [Hans Sama](http://twitter.com/search?q=Hans+Sama) | N/A |
+| 45 | [Jelonch](http://twitter.com/search?q=Jelonch) | N/A |
+| 46 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 47 | [Achille](http://twitter.com/search?q=Achille) | N/A |
+| 48 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 49 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
+| 50 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
 
 
 

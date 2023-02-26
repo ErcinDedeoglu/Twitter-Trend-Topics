@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bangkok
 
-📆 Last Updated: `2023-02-26 19:16:28 UTC`
+📆 Last Updated: `2023-02-26 20:16:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Thailand](</Thailand>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#PERSES_TH](http://twitter.com/search?q=%23PERSES_TH) | N/A |
-| 2 | [#HAPPYTENDAY](http://twitter.com/search?q=%23HAPPYTENDAY) | N/A |
-| 3 | [TENLEE 27th BDAY](http://twitter.com/search?q=TENLEE+27th+BDAY) | N/A |
-| 4 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
-| 5 | [#BB3isComing](http://twitter.com/search?q=%23BB3isComing) | N/A |
-| 6 | [#TheEndofKinnPorsche](http://twitter.com/search?q=%23TheEndofKinnPorsche) | N/A |
-| 7 | [BAMBAM BB3 COMING](http://twitter.com/search?q=BAMBAM+BB3+COMING) | N/A |
-| 8 | [#테니생일_축하축하_하네요](http://twitter.com/search?q=%23%ed%85%8c%eb%8b%88%ec%83%9d%ec%9d%bc_%ec%b6%95%ed%95%98%ec%b6%95%ed%95%98_%ed%95%98%eb%84%a4%ec%9a%94) | N/A |
-| 9 | [#CarabaoCupFinal](http://twitter.com/search?q=%23CarabaoCupFinal) | N/A |
-| 10 | [#ShineBrightKitTENDay](http://twitter.com/search?q=%23ShineBrightKitTENDay) | N/A |
-| 11 | [#โอซาก้าหวานมาก](http://twitter.com/search?q=%23%e0%b9%82%e0%b8%ad%e0%b8%8b%e0%b8%b2%e0%b8%81%e0%b9%89%e0%b8%b2%e0%b8%ab%e0%b8%a7%e0%b8%b2%e0%b8%99%e0%b8%a1%e0%b8%b2%e0%b8%81) | N/A |
-| 12 | [#KPWTBKKWTF](http://twitter.com/search?q=%23KPWTBKKWTF) | N/A |
-| 13 | [#ดิสอิสมายแคท](http://twitter.com/search?q=%23%e0%b8%94%e0%b8%b4%e0%b8%aa%e0%b8%ad%e0%b8%b4%e0%b8%aa%e0%b8%a1%e0%b8%b2%e0%b8%a2%e0%b9%81%e0%b8%84%e0%b8%97) | N/A |
-| 14 | [#teayiixsrchafreen](http://twitter.com/search?q=%23teayiixsrchafreen) | N/A |
-| 15 | [#CrashCourseInRomanceEp14](http://twitter.com/search?q=%23CrashCourseInRomanceEp14) | N/A |
-| 16 | [#ใหม่ดาวิกา](http://twitter.com/search?q=%23%e0%b9%83%e0%b8%ab%e0%b8%a1%e0%b9%88%e0%b8%94%e0%b8%b2%e0%b8%a7%e0%b8%b4%e0%b8%81%e0%b8%b2) | N/A |
-| 17 | [#ProjectAlphaTHEP11](http://twitter.com/search?q=%23ProjectAlphaTHEP11) | N/A |
-| 18 | [#GumGuengXTARAYLS](http://twitter.com/search?q=%23GumGuengXTARAYLS) | N/A |
-| 19 | [#AHYEON](http://twitter.com/search?q=%23AHYEON) | N/A |
-| 20 | [#แมนยู](http://twitter.com/search?q=%23%e0%b9%81%e0%b8%a1%e0%b8%99%e0%b8%a2%e0%b8%b9) | N/A |
-| 21 | [#ItscharlottySamiuVlog](http://twitter.com/search?q=%23ItscharlottySamiuVlog) | N/A |
-| 22 | [#มิ้ลค์เลิฟ](http://twitter.com/search?q=%23%e0%b8%a1%e0%b8%b4%e0%b9%89%e0%b8%a5%e0%b8%84%e0%b9%8c%e0%b9%80%e0%b8%a5%e0%b8%b4%e0%b8%9f) | N/A |
-| 23 | [#มิวนิษฐา](http://twitter.com/search?q=%23%e0%b8%a1%e0%b8%b4%e0%b8%a7%e0%b8%99%e0%b8%b4%e0%b8%a9%e0%b8%90%e0%b8%b2) | N/A |
-| 24 | [#23point5](http://twitter.com/search?q=%2323point5) | N/A |
-| 25 | [#มาร์กี้](http://twitter.com/search?q=%23%e0%b8%a1%e0%b8%b2%e0%b8%a3%e0%b9%8c%e0%b8%81%e0%b8%b5%e0%b9%89) | N/A |
-| 26 | [#เบลล่าราณี](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%9a%e0%b8%a5%e0%b8%a5%e0%b9%88%e0%b8%b2%e0%b8%a3%e0%b8%b2%e0%b8%93%e0%b8%b5) | N/A |
-| 27 | [#PotterOut](http://twitter.com/search?q=%23PotterOut) | N/A |
-| 28 | [#มิ้นต์ชาลิดา](http://twitter.com/search?q=%23%e0%b8%a1%e0%b8%b4%e0%b9%89%e0%b8%99%e0%b8%95%e0%b9%8c%e0%b8%8a%e0%b8%b2%e0%b8%a5%e0%b8%b4%e0%b8%94%e0%b8%b2) | N/A |
-| 29 | [#500KLoveJamesSu](http://twitter.com/search?q=%23500KLoveJamesSu) | N/A |
-| 30 | [#CHARLOTTE_IS_YOUTUBER](http://twitter.com/search?q=%23CHARLOTTE_IS_YOUTUBER) | N/A |
-| 31 | [#MAMIxBossNoeulPuppyLoveDay](http://twitter.com/search?q=%23MAMIxBossNoeulPuppyLoveDay) | N/A |
-| 32 | [#ฮักหลายมายเลดี้EP13](http://twitter.com/search?q=%23%e0%b8%ae%e0%b8%b1%e0%b8%81%e0%b8%ab%e0%b8%a5%e0%b8%b2%e0%b8%a2%e0%b8%a1%e0%b8%b2%e0%b8%a2%e0%b9%80%e0%b8%a5%e0%b8%94%e0%b8%b5%e0%b9%89EP13) | N/A |
-| 33 | [#ที่สุดของหัวใจตอนจบ](http://twitter.com/search?q=%23%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%aa%e0%b8%b8%e0%b8%94%e0%b8%82%e0%b8%ad%e0%b8%87%e0%b8%ab%e0%b8%b1%e0%b8%a7%e0%b9%83%e0%b8%88%e0%b8%95%e0%b8%ad%e0%b8%99%e0%b8%88%e0%b8%9a) | N/A |
-| 34 | [#ออฟกัน](http://twitter.com/search?q=%23%e0%b8%ad%e0%b8%ad%e0%b8%9f%e0%b8%81%e0%b8%b1%e0%b8%99) | N/A |
-| 35 | [#on_the_street](http://twitter.com/search?q=%23on_the_street) | N/A |
-| 36 | [#KAI_Rover](http://twitter.com/search?q=%23KAI_Rover) | N/A |
-| 37 | [#D1000WithSUNGHOON](http://twitter.com/search?q=%23D1000WithSUNGHOON) | N/A |
-| 38 | [#jaedo](http://twitter.com/search?q=%23jaedo) | N/A |
-| 39 | [#BlessingTEN_27BD](http://twitter.com/search?q=%23BlessingTEN_27BD) | N/A |
-| 40 | [#HOTของไฮล็อต](http://twitter.com/search?q=%23HOT%e0%b8%82%e0%b8%ad%e0%b8%87%e0%b9%84%e0%b8%ae%e0%b8%a5%e0%b9%87%e0%b8%ad%e0%b8%95) | N/A |
-| 41 | [#yellowskrt](http://twitter.com/search?q=%23yellowskrt) | N/A |
-| 42 | [#TOPCHEFThailand2023](http://twitter.com/search?q=%23TOPCHEFThailand2023) | N/A |
-| 43 | [#kinnporscheworldtour2022WTF](http://twitter.com/search?q=%23kinnporscheworldtour2022WTF) | N/A |
-| 44 | [#KonaBirthday2023](http://twitter.com/search?q=%23KonaBirthday2023) | N/A |
-| 45 | [#MAMIxBossNoeulPuppyDayLove](http://twitter.com/search?q=%23MAMIxBossNoeulPuppyDayLove) | N/A |
-| 46 | [#theinternsหมอมือใหม่](http://twitter.com/search?q=%23theinterns%e0%b8%ab%e0%b8%a1%e0%b8%ad%e0%b8%a1%e0%b8%b7%e0%b8%ad%e0%b9%83%e0%b8%ab%e0%b8%a1%e0%b9%88) | N/A |
-| 47 | [#คิมเบอร์ลี่](http://twitter.com/search?q=%23%e0%b8%84%e0%b8%b4%e0%b8%a1%e0%b9%80%e0%b8%9a%e0%b8%ad%e0%b8%a3%e0%b9%8c%e0%b8%a5%e0%b8%b5%e0%b9%88) | N/A |
-| 48 | [#JeffBarcode](http://twitter.com/search?q=%23JeffBarcode) | N/A |
-| 49 | [#เตนล์](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%95%e0%b8%99%e0%b8%a5%e0%b9%8c) | N/A |
-| 50 | [#OffGun](http://twitter.com/search?q=%23OffGun) | N/A |
+| 1 | [#HAPPYTENDAY](http://twitter.com/search?q=%23HAPPYTENDAY) | N/A |
+| 2 | [TENLEE 27th BDAY](http://twitter.com/search?q=TENLEE+27th+BDAY) | N/A |
+| 3 | [#TheEndofKinnPorsche](http://twitter.com/search?q=%23TheEndofKinnPorsche) | N/A |
+| 4 | [#KPWTBKKWTF](http://twitter.com/search?q=%23KPWTBKKWTF) | N/A |
+| 5 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
+| 6 | [#ใหม่ดาวิกา](http://twitter.com/search?q=%23%e0%b9%83%e0%b8%ab%e0%b8%a1%e0%b9%88%e0%b8%94%e0%b8%b2%e0%b8%a7%e0%b8%b4%e0%b8%81%e0%b8%b2) | N/A |
+| 7 | [patrick 051 concert](http://twitter.com/search?q=patrick+051+concert) | N/A |
+| 8 | [cl brother mv 1m](http://twitter.com/search?q=cl+brother+mv+1m) | N/A |
+| 9 | [shopee33gameshow nnn](http://twitter.com/search?q=shopee33gameshow+nnn) | N/A |
+| 10 | [nnine special stage](http://twitter.com/search?q=nnine+special+stage) | N/A |
+| 11 | [nene sohu red carpet](http://twitter.com/search?q=nene+sohu+red+carpet) | N/A |
+| 12 | [JENO MILAN FASHION WEEK](http://twitter.com/search?q=JENO+MILAN+FASHION+WEEK) | N/A |
+| 13 | [CapCher Single13th](http://twitter.com/search?q=CapCher+Single13th) | N/A |
+| 14 | [Nene 1st Thai Song](http://twitter.com/search?q=Nene+1st+Thai+Song) | N/A |
+| 15 | [702 blood donation](http://twitter.com/search?q=702+blood+donation) | N/A |
+| 16 | [charlotte be my love26](http://twitter.com/search?q=charlotte+be+my+love26) | N/A |
+| 17 | [FOREVER YOURS BUILD](http://twitter.com/search?q=FOREVER+YOURS+BUILD) | N/A |
+| 18 | [MILAN FASHION WEEK KANAWUT](http://twitter.com/search?q=MILAN+FASHION+WEEK+KANAWUT) | N/A |
+| 19 | [Happy HOONthousand Days](http://twitter.com/search?q=Happy+HOONthousand+Days) | N/A |
+| 20 | [HAPPY BIRTHDAY TEN](http://twitter.com/search?q=HAPPY+BIRTHDAY+TEN) | N/A |
+| 21 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 22 | [#BB3isComing](http://twitter.com/search?q=%23BB3isComing) | N/A |
+| 23 | [#มาร์กี้](http://twitter.com/search?q=%23%e0%b8%a1%e0%b8%b2%e0%b8%a3%e0%b9%8c%e0%b8%81%e0%b8%b5%e0%b9%89) | N/A |
+| 24 | [#테니생일_축하축하_하네요](http://twitter.com/search?q=%23%ed%85%8c%eb%8b%88%ec%83%9d%ec%9d%bc_%ec%b6%95%ed%95%98%ec%b6%95%ed%95%98_%ed%95%98%eb%84%a4%ec%9a%94) | N/A |
+| 25 | [#โอซาก้าหวานมาก](http://twitter.com/search?q=%23%e0%b9%82%e0%b8%ad%e0%b8%8b%e0%b8%b2%e0%b8%81%e0%b9%89%e0%b8%b2%e0%b8%ab%e0%b8%a7%e0%b8%b2%e0%b8%99%e0%b8%a1%e0%b8%b2%e0%b8%81) | N/A |
+| 26 | [#ZeeNuNew안녕D3](http://twitter.com/search?q=%23ZeeNuNew%ec%95%88%eb%85%95D3) | N/A |
+| 27 | [#JAEYONG](http://twitter.com/search?q=%23JAEYONG) | N/A |
+| 28 | [#ProjectAlphaTHEP11](http://twitter.com/search?q=%23ProjectAlphaTHEP11) | N/A |
+| 29 | [#iiwakeMaybeTH_FirstPerf](http://twitter.com/search?q=%23iiwakeMaybeTH_FirstPerf) | N/A |
+| 30 | [#INTO1_GROWNUPINBKK](http://twitter.com/search?q=%23INTO1_GROWNUPINBKK) | N/A |
+| 31 | [#GumGuengXTARAYLS](http://twitter.com/search?q=%23GumGuengXTARAYLS) | N/A |
+| 32 | [#MAMIxBossNoeulPuppyLoveDay](http://twitter.com/search?q=%23MAMIxBossNoeulPuppyLoveDay) | N/A |
+| 33 | [#teayiixsrchafreen](http://twitter.com/search?q=%23teayiixsrchafreen) | N/A |
+| 34 | [#CarabaoCupFinal](http://twitter.com/search?q=%23CarabaoCupFinal) | N/A |
+| 35 | [#ShineBrightKitTENDay](http://twitter.com/search?q=%23ShineBrightKitTENDay) | N/A |
+| 36 | [#champwebommu](http://twitter.com/search?q=%23champwebommu) | N/A |
+| 37 | [#YSLBEAUTYTHxBAMBAM](http://twitter.com/search?q=%23YSLBEAUTYTHxBAMBAM) | N/A |
+| 38 | [#แจยง](http://twitter.com/search?q=%23%e0%b9%81%e0%b8%88%e0%b8%a2%e0%b8%87) | N/A |
+| 39 | [#ไม่โรแมนติกchallenge](http://twitter.com/search?q=%23%e0%b9%84%e0%b8%a1%e0%b9%88%e0%b9%82%e0%b8%a3%e0%b9%81%e0%b8%a1%e0%b8%99%e0%b8%95%e0%b8%b4%e0%b8%81challenge) | N/A |
+| 40 | [#KPWTBKK2023](http://twitter.com/search?q=%23KPWTBKK2023) | N/A |
+| 41 | [#ดิสอิสมายแคท](http://twitter.com/search?q=%23%e0%b8%94%e0%b8%b4%e0%b8%aa%e0%b8%ad%e0%b8%b4%e0%b8%aa%e0%b8%a1%e0%b8%b2%e0%b8%a2%e0%b9%81%e0%b8%84%e0%b8%97) | N/A |
+| 42 | [#FERRAGAMOxJENO](http://twitter.com/search?q=%23FERRAGAMOxJENO) | N/A |
+| 43 | [#มิวนิษฐา](http://twitter.com/search?q=%23%e0%b8%a1%e0%b8%b4%e0%b8%a7%e0%b8%99%e0%b8%b4%e0%b8%a9%e0%b8%90%e0%b8%b2) | N/A |
+| 44 | [#เบลล่าราณี](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%9a%e0%b8%a5%e0%b8%a5%e0%b9%88%e0%b8%b2%e0%b8%a3%e0%b8%b2%e0%b8%93%e0%b8%b5) | N/A |
+| 45 | [#ออฟกัน](http://twitter.com/search?q=%23%e0%b8%ad%e0%b8%ad%e0%b8%9f%e0%b8%81%e0%b8%b1%e0%b8%99) | N/A |
+| 46 | [#มิ้นต์ชาลิดา](http://twitter.com/search?q=%23%e0%b8%a1%e0%b8%b4%e0%b9%89%e0%b8%99%e0%b8%95%e0%b9%8c%e0%b8%8a%e0%b8%b2%e0%b8%a5%e0%b8%b4%e0%b8%94%e0%b8%b2) | N/A |
+| 47 | [#paipaixinto1零伍壹](http://twitter.com/search?q=%23paipaixinto1%e9%9b%b6%e4%bc%8d%e5%a3%b9) | N/A |
+| 48 | [#PETNMExJOONGDUNK](http://twitter.com/search?q=%23PETNMExJOONGDUNK) | N/A |
+| 49 | [#ManchesterUnited](http://twitter.com/search?q=%23ManchesterUnited) | N/A |
+| 50 | [#ชาล็อตนางเอกล้านวิว](http://twitter.com/search?q=%23%e0%b8%8a%e0%b8%b2%e0%b8%a5%e0%b9%87%e0%b8%ad%e0%b8%95%e0%b8%99%e0%b8%b2%e0%b8%87%e0%b9%80%e0%b8%ad%e0%b8%81%e0%b8%a5%e0%b9%89%e0%b8%b2%e0%b8%99%e0%b8%a7%e0%b8%b4%e0%b8%a7) | N/A |
 
 
 

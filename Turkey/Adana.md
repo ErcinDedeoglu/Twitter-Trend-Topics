@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Adana
 
-📆 Last Updated: `2023-02-26 19:16:37 UTC`
+📆 Last Updated: `2023-02-26 20:16:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Turkey](</Turkey>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Beşiktaş](http://twitter.com/search?q=Be%c5%9fikta%c5%9f) | Beşiktaş is a Turkish sports club based in Istanbul, Turkey. The name Beşiktaş translates to "cradle stone" in English. The club is best known for its football team, which competes in the Turkish Super League and is one of the most successful clubs in Turkey. |
-| 2 | [#BJKvANT](http://twitter.com/search?q=%23BJKvANT) | N/A |
-| 3 | [Engin Aksoy](http://twitter.com/search?q=Engin+Aksoy) | N/A |
+| 2 | [#VodafonePark](http://twitter.com/search?q=%23VodafonePark) | N/A |
+| 3 | [#BJKvANT](http://twitter.com/search?q=%23BJKvANT) | N/A |
 | 4 | [#RecepTayyipErdogan](http://twitter.com/search?q=%23RecepTayyipErdogan) | N/A |
-| 5 | [#VodafonePark](http://twitter.com/search?q=%23VodafonePark) | N/A |
-| 6 | [#VodafoneİPTAL](http://twitter.com/search?q=%23Vodafone%c4%b0PTAL) | N/A |
-| 7 | [Kayserispor](http://twitter.com/search?q=Kayserispor) | N/A |
-| 8 | [YapıKayıtı ReisÇözer](http://twitter.com/search?q=Yap%c4%b1Kay%c4%b1t%c4%b1+Reis%c3%87%c3%b6zer) | N/A |
-| 9 | [Cenk](http://twitter.com/search?q=Cenk) | Cenk is a Turkish name derived from the word "genç" which means "youthful". It is also used as a nickname for people named Cengiz, meaning "strong one". |
-| 10 | [BİR BAŞKADIR BENİM MEMLEKETİM](http://twitter.com/search?q=B%c4%b0R+BA%c5%9eKADIR+BEN%c4%b0M+MEMLEKET%c4%b0M) | N/A |
-| 11 | [Kızılay](http://twitter.com/search?q=K%c4%b1z%c4%b1lay) | Kızılay is the Turkish Red Crescent, a humanitarian organization that provides aid and assistance to those in need. The name Kızılay comes from the Ottoman Empire era, when it was known as the Imperial Ottoman Society of the Red Crescent. In English, Kızılay translates to "Red Crescent". |
-| 12 | [#Zaniolo](http://twitter.com/search?q=%23Zaniolo) | N/A |
-| 13 | [BilirOBeni ElSed](http://twitter.com/search?q=BilirOBeni+ElSed) | N/A |
-| 14 | [Zillet](http://twitter.com/search?q=Zillet) | N/A |
-| 15 | [Şenol Güneş](http://twitter.com/search?q=%c5%9eenol+G%c3%bcne%c5%9f) | Şenol Güneş is a Turkish football manager and former player. He is currently the manager of the Turkish national team. In English, his name translates to "Joyful Sun". |
+| 5 | [Kayserispor](http://twitter.com/search?q=Kayserispor) | N/A |
+| 6 | [#DEVAM_ULAN_DEVAM](http://twitter.com/search?q=%23DEVAM_ULAN_DEVAM) | N/A |
+| 7 | [Engin Aksoy](http://twitter.com/search?q=Engin+Aksoy) | N/A |
+| 8 | [#Yargı](http://twitter.com/search?q=%23Yarg%c4%b1) | Yargı is a Turkish word meaning "judgment" or "verdict". It is used to refer to the decision of a court or other legal authority. |
+| 9 | [Zillet](http://twitter.com/search?q=Zillet) | N/A |
+| 10 | [Kızılay](http://twitter.com/search?q=K%c4%b1z%c4%b1lay) | Kızılay is the Turkish Red Crescent, a humanitarian organization that provides aid and assistance to those in need. The name Kızılay comes from the Ottoman Empire era, when it was known as the Imperial Ottoman Society of the Red Crescent. In English, Kızılay translates to "Red Crescent". |
+| 11 | [BİR BAŞKADIR BENİM MEMLEKETİM](http://twitter.com/search?q=B%c4%b0R+BA%c5%9eKADIR+BEN%c4%b0M+MEMLEKET%c4%b0M) | N/A |
+| 12 | [İT ÜRÜR KERVAN YÜRÜR](http://twitter.com/search?q=%c4%b0T+%c3%9cR%c3%9cR+KERVAN+Y%c3%9cR%c3%9cR) | N/A |
+| 13 | [YapıKayıtı ReisÇözer](http://twitter.com/search?q=Yap%c4%b1Kay%c4%b1t%c4%b1+Reis%c3%87%c3%b6zer) | N/A |
+| 14 | [BilirOBeni ElSed](http://twitter.com/search?q=BilirOBeni+ElSed) | N/A |
+| 15 | [İsabet](http://twitter.com/search?q=%c4%b0sabet) | N/A |
 | 16 | [Darısı](http://twitter.com/search?q=Dar%c4%b1s%c4%b1) | N/A |
-| 17 | [İsabet](http://twitter.com/search?q=%c4%b0sabet) | N/A |
-| 18 | [Dün Fenerbahçe](http://twitter.com/search?q=D%c3%bcn+Fenerbah%c3%a7e) | N/A |
-| 19 | [Elbistanİl Olsun](http://twitter.com/search?q=Elbistan%c4%b0l+Olsun) | N/A |
+| 17 | [Cenk](http://twitter.com/search?q=Cenk) | Cenk is a Turkish name derived from the word "genç" which means "youthful". It is also used as a nickname for people named Cengiz, meaning "strong one". |
+| 18 | [Şenol Güneş](http://twitter.com/search?q=%c5%9eenol+G%c3%bcne%c5%9f) | Şenol Güneş is a Turkish football manager and former player. He is currently the manager of the Turkish national team. In English, his name translates to "Joyful Sun". |
+| 19 | [Konyaspor](http://twitter.com/search?q=Konyaspor) | N/A |
 | 20 | [Sinan Ateş](http://twitter.com/search?q=Sinan+Ate%c5%9f) | N/A |
-| 21 | [Elbistan Şehir Olsun](http://twitter.com/search?q=Elbistan+%c5%9eehir+Olsun) | N/A |
-| 22 | [Ataberk](http://twitter.com/search?q=Ataberk) | N/A |
-| 23 | [Kuru Fasulye](http://twitter.com/search?q=Kuru+Fasulye) | N/A |
-| 24 | [Devlet Bey](http://twitter.com/search?q=Devlet+Bey) | N/A |
-| 25 | [Semih Kılıçsoy](http://twitter.com/search?q=Semih+K%c4%b1l%c4%b1%c3%a7soy) | N/A |
-| 26 | [Trübün](http://twitter.com/search?q=Tr%c3%bcb%c3%bcn) | N/A |
-| 27 | [Muleka](http://twitter.com/search?q=Muleka) | Muleka is a Swahili word that means "child" or "offspring". It is often used as a term of endearment for a young person. |
-| 28 | [Ahbap](http://twitter.com/search?q=Ahbap) | N/A |
-| 29 | [ÖnceAf SonraOyPusulası](http://twitter.com/search?q=%c3%96nceAf+SonraOyPusulas%c4%b1) | N/A |
-| 30 | [Antalyaspor](http://twitter.com/search?q=Antalyaspor) | N/A |
-| 31 | [Haftaya](http://twitter.com/search?q=Haftaya) | N/A |
-| 32 | [Gomis](http://twitter.com/search?q=Gomis) | Gomis is a French surname. It is derived from the Latin word "gomesius", which means "man of God". In English, it can be translated to mean "servant of God". |
-| 33 | [Korkma](http://twitter.com/search?q=Korkma) | N/A |
-| 34 | [Ölürüm Türkiyem](http://twitter.com/search?q=%c3%96l%c3%bcr%c3%bcm+T%c3%bcrkiyem) | N/A |
-| 35 | [Seyircisiz](http://twitter.com/search?q=Seyircisiz) | N/A |
-| 36 | [Futbol](http://twitter.com/search?q=Futbol) | N/A |
-| 37 | [Barış Alper Yılmaz](http://twitter.com/search?q=Bar%c4%b1%c5%9f+Alper+Y%c4%b1lmaz) | N/A |
-| 38 | [Çokta](http://twitter.com/search?q=%c3%87okta) | N/A |
-| 39 | [Gerekli](http://twitter.com/search?q=Gerekli) | N/A |
-| 40 | [İT ÜRÜR KERVAN YÜRÜR](http://twitter.com/search?q=%c4%b0T+%c3%9cR%c3%9cR+KERVAN+Y%c3%9cR%c3%9cR) | N/A |
-| 41 | [Kerem](http://twitter.com/search?q=Kerem) | Kerem is a Hebrew word meaning vineyard. It is also used to refer to a place of abundance and blessing. |
-| 42 | [Mustafa Kemal'in Askerleriyiz](http://twitter.com/search?q=Mustafa+Kemal%27in+Askerleriyiz) | N/A |
-| 43 | [Maçlar](http://twitter.com/search?q=Ma%c3%a7lar) | N/A |
-| 44 | [Dede](http://twitter.com/search?q=Dede) | N/A |
-| 45 | [Ghezzal](http://twitter.com/search?q=Ghezzal) | N/A |
-| 46 | [Kulüp](http://twitter.com/search?q=Kul%c3%bcp) | N/A |
-| 47 | [Korkunun](http://twitter.com/search?q=Korkunun) | N/A |
-| 48 | [Berkan](http://twitter.com/search?q=Berkan) | Berkan is a Turkish name derived from the Arabic word “baraka”, which means blessing. In English, it can be translated to mean “blessed” or “favored by God”. |
-| 49 | [Adekugbe](http://twitter.com/search?q=Adekugbe) | N/A |
-| 50 | [Halktan](http://twitter.com/search?q=Halktan) | N/A |
+| 21 | [Ahmet Nur Çebi](http://twitter.com/search?q=Ahmet+Nur+%c3%87ebi) | Ahmet Nur Çebi is a Turkish name. It is composed of two given names, Ahmet and Nur, and the surname Çebi. In English, it would be translated as "Ahmet Light of the Moon Çebi". |
+| 22 | [Dün Fenerbahçe](http://twitter.com/search?q=D%c3%bcn+Fenerbah%c3%a7e) | N/A |
+| 23 | [Devlet Bey](http://twitter.com/search?q=Devlet+Bey) | N/A |
+| 24 | [Kuru Fasulye](http://twitter.com/search?q=Kuru+Fasulye) | N/A |
+| 25 | [Mustafa Kemal'in Askerleriyiz](http://twitter.com/search?q=Mustafa+Kemal%27in+Askerleriyiz) | N/A |
+| 26 | [Devletle](http://twitter.com/search?q=Devletle) | N/A |
+| 27 | [Ataberk](http://twitter.com/search?q=Ataberk) | N/A |
+| 28 | [Çokta](http://twitter.com/search?q=%c3%87okta) | N/A |
+| 29 | [Kulüp](http://twitter.com/search?q=Kul%c3%bcp) | N/A |
+| 30 | [Haftaya](http://twitter.com/search?q=Haftaya) | N/A |
+| 31 | [Futbol](http://twitter.com/search?q=Futbol) | N/A |
+| 32 | [Elbistan Şehir Olsun](http://twitter.com/search?q=Elbistan+%c5%9eehir+Olsun) | N/A |
+| 33 | [AldatırOBeni Elsed](http://twitter.com/search?q=Aldat%c4%b1rOBeni+Elsed) | N/A |
+| 34 | [Ahbap](http://twitter.com/search?q=Ahbap) | N/A |
+| 35 | [Semih](http://twitter.com/search?q=Semih) | N/A |
+| 36 | [Maçlar](http://twitter.com/search?q=Ma%c3%a7lar) | N/A |
+| 37 | [Affını](http://twitter.com/search?q=Aff%c4%b1n%c4%b1) | N/A |
+| 38 | [Tribün](http://twitter.com/search?q=Trib%c3%bcn) | N/A |
+| 39 | [Korkma](http://twitter.com/search?q=Korkma) | N/A |
+| 40 | [Siyaset](http://twitter.com/search?q=Siyaset) | N/A |
+| 41 | [Yallah](http://twitter.com/search?q=Yallah) | N/A |
+| 42 | [Taraftar](http://twitter.com/search?q=Taraftar) | N/A |
+| 43 | [Ölürüm Türkiyem](http://twitter.com/search?q=%c3%96l%c3%bcr%c3%bcm+T%c3%bcrkiyem) | N/A |
+| 44 | [Süleyman Seba](http://twitter.com/search?q=S%c3%bcleyman+Seba) | N/A |
+| 45 | [Muleka](http://twitter.com/search?q=Muleka) | Muleka is a Swahili word that means "child" or "offspring". It is often used as a term of endearment for a young person. |
+| 46 | [Antalyaspor](http://twitter.com/search?q=Antalyaspor) | N/A |
+| 47 | [#protesto](http://twitter.com/search?q=%23protesto) | N/A |
+| 48 | [#çarşı](http://twitter.com/search?q=%23%c3%a7ar%c5%9f%c4%b1) | N/A |
+| 49 | [#Zaniolo](http://twitter.com/search?q=%23Zaniolo) | N/A |
+| 50 | [#BuOyuncakSanaArkadaşım](http://twitter.com/search?q=%23BuOyuncakSanaArkada%c5%9f%c4%b1m) | N/A |
 
 
 
