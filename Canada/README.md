@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canada
 
-📆 Last Updated: `2023-02-26 09:16:39 UTC`
+📆 Last Updated: `2023-02-26 10:16:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,49 +22,49 @@ This is top 50 for Canada
 | 5 | [#TFCLive](http://twitter.com/search?q=%23TFCLive) | N/A |
 | 6 | [Trudeau](http://twitter.com/search?q=Trudeau) | N/A |
 | 7 | [Pierre](http://twitter.com/search?q=Pierre) | N/A |
-| 8 | [#VWFC](http://twitter.com/search?q=%23VWFC) | N/A |
-| 9 | [#CFMTL](http://twitter.com/search?q=%23CFMTL) | N/A |
-| 10 | [Gordon Pinsent](http://twitter.com/search?q=Gordon+Pinsent) | N/A |
-| 11 | [#UFCVegas70](http://twitter.com/search?q=%23UFCVegas70) | N/A |
-| 12 | [#bcstorm](http://twitter.com/search?q=%23bcstorm) | N/A |
-| 13 | [2seok](http://twitter.com/search?q=2seok) | N/A |
-| 14 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 15 | [Woody Harrelson](http://twitter.com/search?q=Woody+Harrelson) | N/A |
-| 16 | [CSIS](http://twitter.com/search?q=CSIS) | N/A |
-| 17 | [Linus Ullmark](http://twitter.com/search?q=Linus+Ullmark) | N/A |
-| 18 | [Leslyn](http://twitter.com/search?q=Leslyn) | N/A |
-| 19 | [Kikuchi](http://twitter.com/search?q=Kikuchi) | N/A |
-| 20 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
-| 21 | [Kravtsov](http://twitter.com/search?q=Kravtsov) | N/A |
-| 22 | [INEC](http://twitter.com/search?q=INEC) | N/A |
+| 8 | [#CFMTL](http://twitter.com/search?q=%23CFMTL) | N/A |
+| 9 | [Gordon Pinsent](http://twitter.com/search?q=Gordon+Pinsent) | N/A |
+| 10 | [#UFCVegas70](http://twitter.com/search?q=%23UFCVegas70) | N/A |
+| 11 | [#bcstorm](http://twitter.com/search?q=%23bcstorm) | N/A |
+| 12 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 13 | [CSIS](http://twitter.com/search?q=CSIS) | N/A |
+| 14 | [Linus Ullmark](http://twitter.com/search?q=Linus+Ullmark) | N/A |
+| 15 | [Woody](http://twitter.com/search?q=Woody) | Woody is a slang term used to describe someone who is strong, tough, and determined. It can also be used to describe someone who is stubborn and unyielding. |
+| 16 | [Leslyn](http://twitter.com/search?q=Leslyn) | N/A |
+| 17 | [Kikuchi](http://twitter.com/search?q=Kikuchi) | N/A |
+| 18 | [Kravtsov](http://twitter.com/search?q=Kravtsov) | N/A |
+| 19 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
+| 20 | [INEC](http://twitter.com/search?q=INEC) | N/A |
+| 21 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 22 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
 | 23 | [German](http://twitter.com/search?q=German) | N/A |
-| 24 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
-| 25 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 26 | [jhope](http://twitter.com/search?q=jhope) | N/A |
-| 27 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 28 | [Campbell](http://twitter.com/search?q=Campbell) | N/A |
-| 29 | [Nino](http://twitter.com/search?q=Nino) | N/A |
-| 30 | [Markstrom](http://twitter.com/search?q=Markstrom) | N/A |
-| 31 | [Poilievre](http://twitter.com/search?q=Poilievre) | N/A |
-| 32 | [Insigne](http://twitter.com/search?q=Insigne) | N/A |
-| 33 | [Bernier](http://twitter.com/search?q=Bernier) | N/A |
-| 34 | [Lockwood](http://twitter.com/search?q=Lockwood) | N/A |
-| 35 | [Away From Her](http://twitter.com/search?q=Away+From+Her) | N/A |
-| 36 | [Lucic](http://twitter.com/search?q=Lucic) | N/A |
-| 37 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
-| 38 | [Whitecaps](http://twitter.com/search?q=Whitecaps) | N/A |
-| 39 | [Canucks](http://twitter.com/search?q=Canucks) | Canucks is a slang term for Canadians. It is derived from the word "Canadian" and is often used in a jocular or affectionate manner. |
-| 40 | [GOALIE GOAL](http://twitter.com/search?q=GOALIE+GOAL) | N/A |
-| 41 | [Draisaitl](http://twitter.com/search?q=Draisaitl) | N/A |
-| 42 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 43 | [Laith Marouf](http://twitter.com/search?q=Laith+Marouf) | N/A |
-| 44 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 45 | [Cocaine Bear](http://twitter.com/search?q=Cocaine+Bear) | Cocaine Bear is an internet meme that originated from a real-life incident in 1985. It refers to a black bear that was found dead in the Great Smoky Mountains National Park in Tennessee, USA. The bear had ingested over 70 pounds of cocaine that had been dropped from an airplane by drug smugglers. The phrase "Cocaine Bear" is used to refer to any situation where someone or something has taken on more than they can handle. |
-| 46 | [Scott Adams](http://twitter.com/search?q=Scott+Adams) | N/A |
-| 47 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
-| 48 | [Brian Lilley](http://twitter.com/search?q=Brian+Lilley) | N/A |
-| 49 | [Pistons](http://twitter.com/search?q=Pistons) | Pistons are components of an engine that move up and down to create the power needed to drive a vehicle. They are usually made of metal and fit into the cylinder of an engine, where they move up and down in order to compress and expand the air-fuel mixture that powers the engine. |
-| 50 | [BARGER](http://twitter.com/search?q=BARGER) | N/A |
+| 24 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 25 | [jhope](http://twitter.com/search?q=jhope) | N/A |
+| 26 | [Campbell](http://twitter.com/search?q=Campbell) | N/A |
+| 27 | [Nino](http://twitter.com/search?q=Nino) | N/A |
+| 28 | [Markstrom](http://twitter.com/search?q=Markstrom) | N/A |
+| 29 | [Poilievre](http://twitter.com/search?q=Poilievre) | N/A |
+| 30 | [Lockwood](http://twitter.com/search?q=Lockwood) | N/A |
+| 31 | [Bernier](http://twitter.com/search?q=Bernier) | N/A |
+| 32 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
+| 33 | [Whitecaps](http://twitter.com/search?q=Whitecaps) | N/A |
+| 34 | [GOALIE GOAL](http://twitter.com/search?q=GOALIE+GOAL) | N/A |
+| 35 | [Canucks](http://twitter.com/search?q=Canucks) | Canucks is a slang term for Canadians. It is derived from the word "Canadian" and is often used in a jocular or affectionate manner. |
+| 36 | [Insigne](http://twitter.com/search?q=Insigne) | N/A |
+| 37 | [Draisaitl](http://twitter.com/search?q=Draisaitl) | N/A |
+| 38 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 39 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 40 | [Cocaine Bear](http://twitter.com/search?q=Cocaine+Bear) | Cocaine Bear is an internet meme that originated from a real-life incident in 1985. It refers to a black bear that was found dead in the Great Smoky Mountains National Park in Tennessee, USA. The bear had ingested over 70 pounds of cocaine that had been dropped from an airplane by drug smugglers. The phrase "Cocaine Bear" is used to refer to any situation where someone or something has taken on more than they can handle. |
+| 41 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
+| 42 | [Scott Adams](http://twitter.com/search?q=Scott+Adams) | N/A |
+| 43 | [Brian Lilley](http://twitter.com/search?q=Brian+Lilley) | N/A |
+| 44 | [Pistons](http://twitter.com/search?q=Pistons) | Pistons are components of an engine that move up and down to create the power needed to drive a vehicle. They are usually made of metal and fit into the cylinder of an engine, where they move up and down in order to compress and expand the air-fuel mixture that powers the engine. |
+| 45 | [Lucic](http://twitter.com/search?q=Lucic) | N/A |
+| 46 | [BARGER](http://twitter.com/search?q=BARGER) | N/A |
+| 47 | [2seok](http://twitter.com/search?q=2seok) | N/A |
+| 48 | [BIGHIT](http://twitter.com/search?q=BIGHIT) | N/A |
+| 49 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 50 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
 
 
 

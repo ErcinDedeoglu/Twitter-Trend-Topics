@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For United Kingdom
 
-📆 Last Updated: `2023-02-26 09:16:45 UTC`
+📆 Last Updated: `2023-02-26 10:17:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,50 +16,55 @@ This is top 50 for United Kingdom
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#BBCLauraK](http://twitter.com/search?q=%23BBCLauraK) | #BBCLauraK is a hashtag used to refer to the BBC journalist Laura Kuenssberg. It is used to promote her work and news stories she has reported on. |
-| 2 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 3 | [#Ridge](http://twitter.com/search?q=%23Ridge) | N/A |
-| 4 | [#NUFC](http://twitter.com/search?q=%23NUFC) | #NUFC stands for Newcastle United Football Club, an English professional football club based in Newcastle upon Tyne. The club was founded in 1892 and currently plays in the Premier League. |
-| 5 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
-| 6 | [#CarabaoCupFinal](http://twitter.com/search?q=%23CarabaoCupFinal) | N/A |
-| 7 | [Dominic Raab](http://twitter.com/search?q=Dominic+Raab) | N/A |
-| 8 | [HOWAY THE LADS](http://twitter.com/search?q=HOWAY+THE+LADS) | N/A |
-| 9 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
-| 10 | [Daily Quordle 398](http://twitter.com/search?q=Daily+Quordle+398) | N/A |
+| 2 | [#NUFC](http://twitter.com/search?q=%23NUFC) | #NUFC stands for Newcastle United Football Club, an English professional football club based in Newcastle upon Tyne. The club was founded in 1892 and currently plays in the Premier League. |
+| 3 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 4 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
+| 5 | [#CarabaoCupFinal](http://twitter.com/search?q=%23CarabaoCupFinal) | N/A |
+| 6 | [#Ridge](http://twitter.com/search?q=%23Ridge) | N/A |
+| 7 | [Raab](http://twitter.com/search?q=Raab) | Raab is a German surname derived from the Middle High German word "raap" meaning "raven". It is also a Jewish surname, originating from the Hebrew word "rav", meaning "teacher". |
+| 8 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
+| 9 | [HOWAY THE LADS](http://twitter.com/search?q=HOWAY+THE+LADS) | N/A |
+| 10 | [Mark Francois](http://twitter.com/search?q=Mark+Francois) | N/A |
 | 11 | [Books](http://twitter.com/search?q=Books) | N/A |
-| 12 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
-| 13 | [Yoruba](http://twitter.com/search?q=Yoruba) | N/A |
-| 14 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
-| 15 | [Suffolk](http://twitter.com/search?q=Suffolk) | N/A |
-| 16 | [Berger](http://twitter.com/search?q=Berger) | N/A |
-| 17 | [Nigerians](http://twitter.com/search?q=Nigerians) | Nigerians is a term used to refer to people who are citizens of Nigeria, a country located in West Africa. The official language of Nigeria is English. |
-| 18 | [INEC](http://twitter.com/search?q=INEC) | N/A |
-| 19 | [Trafalgar Square](http://twitter.com/search?q=Trafalgar+Square) | N/A |
-| 20 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
-| 21 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
-| 22 | [Camilla](http://twitter.com/search?q=Camilla) | N/A |
-| 23 | [Wike](http://twitter.com/search?q=Wike) | Wike is a term used in the Philippines to refer to a person who is knowledgeable or wise. It is derived from the Tagalog word "wikain," which means "to know." In English, it can be translated as "wise" or "knowledgeable." |
-| 24 | [Geordies](http://twitter.com/search?q=Geordies) | N/A |
-| 25 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 26 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
-| 27 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
-| 28 | [Mayweather](http://twitter.com/search?q=Mayweather) | N/A |
-| 29 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
-| 30 | [#SundayFunday](http://twitter.com/search?q=%23SundayFunday) | N/A |
-| 31 | [#HWTL](http://twitter.com/search?q=%23HWTL) | N/A |
-| 32 | [#ShakespeareSunday](http://twitter.com/search?q=%23ShakespeareSunday) | N/A |
-| 33 | [#SundayMotivation](http://twitter.com/search?q=%23SundayMotivation) | N/A |
-| 34 | [#SocialistSunday](http://twitter.com/search?q=%23SocialistSunday) | N/A |
-| 35 | [#UKGiftHour](http://twitter.com/search?q=%23UKGiftHour) | N/A |
-| 36 | [#MUNNEW](http://twitter.com/search?q=%23MUNNEW) | N/A |
-| 37 | [#ToriesOut234](http://twitter.com/search?q=%23ToriesOut234) | N/A |
-| 38 | [#EnglishTop10](http://twitter.com/search?q=%23EnglishTop10) | N/A |
-| 39 | [#UKGiftAM](http://twitter.com/search?q=%23UKGiftAM) | N/A |
-| 40 | [#NewcastleUnited](http://twitter.com/search?q=%23NewcastleUnited) | N/A |
-| 41 | [#ToonArmy](http://twitter.com/search?q=%23ToonArmy) | N/A |
-| 42 | [#presidentialelection2023](http://twitter.com/search?q=%23presidentialelection2023) | N/A |
-| 43 | [#ToryTurnips](http://twitter.com/search?q=%23ToryTurnips) | N/A |
-| 44 | [#NigeriaDecides2023](http://twitter.com/search?q=%23NigeriaDecides2023) | N/A |
-| 45 | [#TorySewageParty](http://twitter.com/search?q=%23TorySewageParty) | N/A |
+| 12 | [Yoruba](http://twitter.com/search?q=Yoruba) | N/A |
+| 13 | [Daily Quordle 398](http://twitter.com/search?q=Daily+Quordle+398) | N/A |
+| 14 | [Toon](http://twitter.com/search?q=Toon) | N/A |
+| 15 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
+| 16 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
+| 17 | [Hampden](http://twitter.com/search?q=Hampden) | N/A |
+| 18 | [Berger](http://twitter.com/search?q=Berger) | N/A |
+| 19 | [Suffolk](http://twitter.com/search?q=Suffolk) | N/A |
+| 20 | [Ramsgate](http://twitter.com/search?q=Ramsgate) | N/A |
+| 21 | [Nervous](http://twitter.com/search?q=Nervous) | N/A |
+| 22 | [Geordies](http://twitter.com/search?q=Geordies) | N/A |
+| 23 | [Bernie Sanders](http://twitter.com/search?q=Bernie+Sanders) | N/A |
+| 24 | [Scott Adams](http://twitter.com/search?q=Scott+Adams) | N/A |
+| 25 | [INEC](http://twitter.com/search?q=INEC) | N/A |
+| 26 | [Trafalgar Square](http://twitter.com/search?q=Trafalgar+Square) | N/A |
+| 27 | [Nigerians](http://twitter.com/search?q=Nigerians) | Nigerians is a term used to refer to people who are citizens of Nigeria, a country located in West Africa. The official language of Nigeria is English. |
+| 28 | [Bednarek](http://twitter.com/search?q=Bednarek) | N/A |
+| 29 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
+| 30 | [Mags](http://twitter.com/search?q=Mags) | N/A |
+| 31 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
+| 32 | [Camilla](http://twitter.com/search?q=Camilla) | N/A |
+| 33 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
+| 34 | [Diana](http://twitter.com/search?q=Diana) | N/A |
+| 35 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 36 | [Queen Consort](http://twitter.com/search?q=Queen+Consort) | N/A |
+| 37 | [Wike](http://twitter.com/search?q=Wike) | Wike is a term used in the Philippines to refer to a person who is knowledgeable or wise. It is derived from the Tagalog word "wikain," which means "to know." In English, it can be translated as "wise" or "knowledgeable." |
+| 38 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
+| 39 | [Skegness](http://twitter.com/search?q=Skegness) | N/A |
+| 40 | [Mayweather](http://twitter.com/search?q=Mayweather) | N/A |
+| 41 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
+| 42 | [#sundaybrunch](http://twitter.com/search?q=%23sundaybrunch) | N/A |
+| 43 | [#ASongOrMovieForAnger](http://twitter.com/search?q=%23ASongOrMovieForAnger) | N/A |
+| 44 | [#UKGiftHour](http://twitter.com/search?q=%23UKGiftHour) | N/A |
+| 45 | [#SocialistSunday](http://twitter.com/search?q=%23SocialistSunday) | N/A |
+| 46 | [#HWTL](http://twitter.com/search?q=%23HWTL) | N/A |
+| 47 | [#UKGiftAM](http://twitter.com/search?q=%23UKGiftAM) | N/A |
+| 48 | [#NewcastleUnited](http://twitter.com/search?q=%23NewcastleUnited) | N/A |
+| 49 | [#TOTCHE](http://twitter.com/search?q=%23TOTCHE) | N/A |
+| 50 | [#SundayMotivation](http://twitter.com/search?q=%23SundayMotivation) | N/A |
 
 
 

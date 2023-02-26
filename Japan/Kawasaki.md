@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kawasaki
 
-📆 Last Updated: `2023-02-26 09:16:14 UTC`
+📆 Last Updated: `2023-02-26 10:16:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [ウェンデルケン](http://twitter.com/search?q=%e3%82%a6%e3%82%a7%e3%83%b3%e3%83%87%e3%83%ab%e3%82%b1%e3%83%b3) | N/A |
-| 2 | [#それスノ](http://twitter.com/search?q=%23%e3%81%9d%e3%82%8c%e3%82%b9%e3%83%8e) | #それスノ is a hashtag used on Twitter in Japan. It translates to "That's snow" and is used to express surprise or admiration at something beautiful or amazing. |
-| 3 | [#AkatsukiJapan](http://twitter.com/search?q=%23AkatsukiJapan) | N/A |
-| 4 | [#富士山](http://twitter.com/search?q=%23%e5%af%8c%e5%a3%ab%e5%b1%b1) | N/A |
-| 5 | [#swallows](http://twitter.com/search?q=%23swallows) | N/A |
-| 6 | [フォレストページ](http://twitter.com/search?q=%e3%83%95%e3%82%a9%e3%83%ac%e3%82%b9%e3%83%88%e3%83%9a%e3%83%bc%e3%82%b8) | N/A |
-| 7 | [エスカレーター](http://twitter.com/search?q=%e3%82%a8%e3%82%b9%e3%82%ab%e3%83%ac%e3%83%bc%e3%82%bf%e3%83%bc) | N/A |
-| 8 | [ベビーカー](http://twitter.com/search?q=%e3%83%99%e3%83%93%e3%83%bc%e3%82%ab%e3%83%bc) | N/A |
-| 9 | [キュアプリズム](http://twitter.com/search?q=%e3%82%ad%e3%83%a5%e3%82%a2%e3%83%97%e3%83%aa%e3%82%ba%e3%83%a0) | N/A |
-| 10 | [ヒシイグアス](http://twitter.com/search?q=%e3%83%92%e3%82%b7%e3%82%a4%e3%82%b0%e3%82%a2%e3%82%b9) | N/A |
-| 11 | [サンダーボルト](http://twitter.com/search?q=%e3%82%b5%e3%83%b3%e3%83%80%e3%83%bc%e3%83%9c%e3%83%ab%e3%83%88) | サンダーボルト (Thunderbolt) is a Japanese manga series written and illustrated by Mitsuteru Yokoyama. It follows the adventures of a young boy named Tsubasa Oozora, who is granted superhuman powers by a mysterious alien race known as the "Lightning Gods". The series follows Tsubasa as he uses his newfound powers to protect Earth from various threats. In English, the title translates to "Thunderbolt". |
-| 12 | [ナラティブ](http://twitter.com/search?q=%e3%83%8a%e3%83%a9%e3%83%86%e3%82%a3%e3%83%96) | N/A |
-| 13 | [ジンくん](http://twitter.com/search?q=%e3%82%b8%e3%83%b3%e3%81%8f%e3%82%93) | ジンくん is a character from the Japanese manga series "Kochira Katsushika-ku Kameari Kōen-mae Hashutsujo". His name is Jin Kamiya and he is a young delinquent who often gets into trouble. He is known for his mischievous behavior and his catchphrase, "Yare yare daze". In English, this phrase roughly translates to "Oh, come on!" |
-| 14 | [中山記念](http://twitter.com/search?q=%e4%b8%ad%e5%b1%b1%e8%a8%98%e5%bf%b5) | N/A |
-| 15 | [アトラスガンダム](http://twitter.com/search?q=%e3%82%a2%e3%83%88%e3%83%a9%e3%82%b9%e3%82%ac%e3%83%b3%e3%83%80%e3%83%a0) | N/A |
-| 16 | [粉塵爆発](http://twitter.com/search?q=%e7%b2%89%e5%a1%b5%e7%88%86%e7%99%ba) | N/A |
-| 17 | [ドーブネ](http://twitter.com/search?q=%e3%83%89%e3%83%bc%e3%83%96%e3%83%8d) | ドーブネ (Dōbune) is a type of traditional Japanese boat. It is a flat-bottomed boat with a pointed bow and stern, and is usually propelled by oars or sails. In English, it is sometimes referred to as a "dugout canoe". |
-| 18 | [ラーグルフ](http://twitter.com/search?q=%e3%83%a9%e3%83%bc%e3%82%b0%e3%83%ab%e3%83%95) | ラーグルフ (Ragurufu) is a Japanese card game that is similar to the Western game of Rummy. It is played with a set of 108 cards, divided into four suits (red, blue, green and yellow). The objective of the game is to be the first player to get rid of all their cards by forming sets and runs. In English, it can be translated as Rummy. |
-| 19 | [オンゲキ](http://twitter.com/search?q=%e3%82%aa%e3%83%b3%e3%82%b2%e3%82%ad) | N/A |
-| 20 | [ソーヴァリアント](http://twitter.com/search?q=%e3%82%bd%e3%83%bc%e3%83%b4%e3%82%a1%e3%83%aa%e3%82%a2%e3%83%b3%e3%83%88) | N/A |
-| 21 | [サンボル](http://twitter.com/search?q=%e3%82%b5%e3%83%b3%e3%83%9c%e3%83%ab) | サンボル (sanboru) is a Japanese word that means "sandbar". It is used to refer to a sandbar or shallow area in a river or lake. |
-| 22 | [羽生さん](http://twitter.com/search?q=%e7%be%bd%e7%94%9f%e3%81%95%e3%82%93) | 羽生さん is a respectful way of referring to the Japanese professional shogi player, Yūki Satoshi. In English, it would be translated as "Mr. Yūki". |
-| 23 | [ダノンザキッド](http://twitter.com/search?q=%e3%83%80%e3%83%8e%e3%83%b3%e3%82%b6%e3%82%ad%e3%83%83%e3%83%89) | N/A |
-| 24 | [ナディアガーズ](http://twitter.com/search?q=%e3%83%8a%e3%83%87%e3%82%a3%e3%82%a2%e3%82%ac%e3%83%bc%e3%82%ba) | ナディアガーズ is a Japanese rock band formed in Tokyo in 2002. The name is derived from the phrase "Nadia's Gaze," which refers to the gaze of a young girl looking out into the world. The band's music is characterized by melodic guitar riffs, driving rhythms, and passionate vocals. |
-| 25 | [みかちゃん](http://twitter.com/search?q=%e3%81%bf%e3%81%8b%e3%81%a1%e3%82%83%e3%82%93) | みかちゃん is a nickname for the Japanese name Mikako. It is a term of endearment, similar to calling someone "Mika" or "Mikki". In English, it could be translated as "Mika-chan". |
-| 26 | [ホビたん](http://twitter.com/search?q=%e3%83%9b%e3%83%93%e3%81%9f%e3%82%93) | N/A |
-| 27 | [ホソクさん](http://twitter.com/search?q=%e3%83%9b%e3%82%bd%e3%82%af%e3%81%95%e3%82%93) | N/A |
-| 28 | [キハダ先生](http://twitter.com/search?q=%e3%82%ad%e3%83%8f%e3%83%80%e5%85%88%e7%94%9f) | N/A |
-| 29 | [タラちゃん](http://twitter.com/search?q=%e3%82%bf%e3%83%a9%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 30 | [真夏さん](http://twitter.com/search?q=%e7%9c%9f%e5%a4%8f%e3%81%95%e3%82%93) | 真夏さん is a Japanese honorific title used to refer to someone who is respected or admired. It can be translated as "Mr./Ms. Midsummer" in English. |
-| 31 | [ポカスカジャン](http://twitter.com/search?q=%e3%83%9d%e3%82%ab%e3%82%b9%e3%82%ab%e3%82%b8%e3%83%a3%e3%83%b3) | N/A |
-| 32 | [荒牧さん](http://twitter.com/search?q=%e8%8d%92%e7%89%a7%e3%81%95%e3%82%93) | 荒牧さん is a Japanese term for a person who is considered to be a master of the wilderness. It is often used to refer to someone who has an intimate knowledge of nature and the outdoors, and is able to survive in harsh conditions. In English, it can be translated as "wilderness master". |
-| 33 | [すわほー](http://twitter.com/search?q=%e3%81%99%e3%82%8f%e3%81%bb%e3%83%bc) | N/A |
-| 34 | [東大物理](http://twitter.com/search?q=%e6%9d%b1%e5%a4%a7%e7%89%a9%e7%90%86) | N/A |
-| 35 | [ガンダムNT](http://twitter.com/search?q=%e3%82%ac%e3%83%b3%e3%83%80%e3%83%a0NT) | N/A |
-| 36 | [ホワイトアウト](http://twitter.com/search?q=%e3%83%9b%e3%83%af%e3%82%a4%e3%83%88%e3%82%a2%e3%82%a6%e3%83%88) | ホワイトアウト (Whiteout) is a Japanese term used to describe a situation in which all the colors of an image or text are replaced with white. It is often used to describe a situation in which all the details of an image or text are obscured or lost. In English, it can be referred to as "whiting out" or "blanking out". |
-| 37 | [ハートフル](http://twitter.com/search?q=%e3%83%8f%e3%83%bc%e3%83%88%e3%83%95%e3%83%ab) | N/A |
-| 38 | [ビームサーベル](http://twitter.com/search?q=%e3%83%93%e3%83%bc%e3%83%a0%e3%82%b5%e3%83%bc%e3%83%99%e3%83%ab) | N/A |
-| 39 | [シュネル](http://twitter.com/search?q=%e3%82%b7%e3%83%a5%e3%83%8d%e3%83%ab) | N/A |
-| 40 | [お師さん](http://twitter.com/search?q=%e3%81%8a%e5%b8%ab%e3%81%95%e3%82%93) | N/A |
-| 41 | [サンモニ](http://twitter.com/search?q=%e3%82%b5%e3%83%b3%e3%83%a2%e3%83%8b) | N/A |
-| 42 | [ロンカプ](http://twitter.com/search?q=%e3%83%ad%e3%83%b3%e3%82%ab%e3%83%97) | ロンカプ is a Japanese term that translates to "long-term commitment". It is used to describe a relationship or situation in which two people or groups are committed to each other for a long period of time. |
-| 43 | [自民党大会](http://twitter.com/search?q=%e8%87%aa%e6%b0%91%e5%85%9a%e5%a4%a7%e4%bc%9a) | N/A |
-| 44 | [スタニングローズ](http://twitter.com/search?q=%e3%82%b9%e3%82%bf%e3%83%8b%e3%83%b3%e3%82%b0%e3%83%ad%e3%83%bc%e3%82%ba) | N/A |
-| 45 | [憲法の早期改正](http://twitter.com/search?q=%e6%86%b2%e6%b3%95%e3%81%ae%e6%97%a9%e6%9c%9f%e6%94%b9%e6%ad%a3) | N/A |
-| 46 | [アッガイ](http://twitter.com/search?q=%e3%82%a2%e3%83%83%e3%82%ac%e3%82%a4) | N/A |
-| 47 | [羽生くん](http://twitter.com/search?q=%e7%be%bd%e7%94%9f%e3%81%8f%e3%82%93) | 羽生くん is a nickname for Japanese figure skater Yuzuru Hanyu. It is a combination of his given name, Yuzuru, and the Japanese honorific suffix “-kun” which is used to refer to boys or young men. In English, it can be translated as “Yuzuru-kun”. |
-| 48 | [ホウオウアマゾン](http://twitter.com/search?q=%e3%83%9b%e3%82%a6%e3%82%aa%e3%82%a6%e3%82%a2%e3%83%9e%e3%82%be%e3%83%b3) | ホウオウアマゾン is a Japanese phrase that translates to "Amazon Rainforest" in English. It is the largest tropical rainforest in the world, located in South America. |
-| 49 | [羽生先生](http://twitter.com/search?q=%e7%be%bd%e7%94%9f%e5%85%88%e7%94%9f) | 羽生先生 is a title of respect used to refer to a male teacher or professor. In English, it would be translated as "Mr. Hayabusa". |
+| 1 | [ホウオウアマゾン](http://twitter.com/search?q=%e3%83%9b%e3%82%a6%e3%82%aa%e3%82%a6%e3%82%a2%e3%83%9e%e3%82%be%e3%83%b3) | ホウオウアマゾン is a Japanese phrase that translates to "Amazon Rainforest" in English. It is the largest tropical rainforest in the world, located in South America. |
+| 2 | [#zelvia](http://twitter.com/search?q=%23zelvia) | N/A |
+| 3 | [#富士山](http://twitter.com/search?q=%23%e5%af%8c%e5%a3%ab%e5%b1%b1) | N/A |
+| 4 | [カイオーガ](http://twitter.com/search?q=%e3%82%ab%e3%82%a4%e3%82%aa%e3%83%bc%e3%82%ac) | N/A |
+| 5 | [#それスノ](http://twitter.com/search?q=%23%e3%81%9d%e3%82%8c%e3%82%b9%e3%83%8e) | #それスノ is a hashtag used on Twitter in Japan. It translates to "That's snow" and is used to express surprise or admiration at something beautiful or amazing. |
+| 6 | [#AkatsukiJapan](http://twitter.com/search?q=%23AkatsukiJapan) | N/A |
+| 7 | [スタニングローズ](http://twitter.com/search?q=%e3%82%b9%e3%82%bf%e3%83%8b%e3%83%b3%e3%82%b0%e3%83%ad%e3%83%bc%e3%82%ba) | N/A |
+| 8 | [ひな祭り](http://twitter.com/search?q=%e3%81%b2%e3%81%aa%e7%a5%ad%e3%82%8a) | N/A |
+| 9 | [許斐先生](http://twitter.com/search?q=%e8%a8%b1%e6%96%90%e5%85%88%e7%94%9f) | N/A |
+| 10 | [エスカレーター](http://twitter.com/search?q=%e3%82%a8%e3%82%b9%e3%82%ab%e3%83%ac%e3%83%bc%e3%82%bf%e3%83%bc) | N/A |
+| 11 | [フォレスト](http://twitter.com/search?q=%e3%83%95%e3%82%a9%e3%83%ac%e3%82%b9%e3%83%88) | N/A |
+| 12 | [粉塵爆発](http://twitter.com/search?q=%e7%b2%89%e5%a1%b5%e7%88%86%e7%99%ba) | N/A |
+| 13 | [タラちゃん](http://twitter.com/search?q=%e3%82%bf%e3%83%a9%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 14 | [サンダーボルト](http://twitter.com/search?q=%e3%82%b5%e3%83%b3%e3%83%80%e3%83%bc%e3%83%9c%e3%83%ab%e3%83%88) | サンダーボルト (Thunderbolt) is a Japanese manga series written and illustrated by Mitsuteru Yokoyama. It follows the adventures of a young boy named Tsubasa Oozora, who is granted superhuman powers by a mysterious alien race known as the "Lightning Gods". The series follows Tsubasa as he uses his newfound powers to protect Earth from various threats. In English, the title translates to "Thunderbolt". |
+| 15 | [ロンカプ](http://twitter.com/search?q=%e3%83%ad%e3%83%b3%e3%82%ab%e3%83%97) | ロンカプ is a Japanese term that translates to "long-term commitment". It is used to describe a relationship or situation in which two people or groups are committed to each other for a long period of time. |
+| 16 | [ナラティブ](http://twitter.com/search?q=%e3%83%8a%e3%83%a9%e3%83%86%e3%82%a3%e3%83%96) | N/A |
+| 17 | [ヒシイグアス](http://twitter.com/search?q=%e3%83%92%e3%82%b7%e3%82%a4%e3%82%b0%e3%82%a2%e3%82%b9) | N/A |
+| 18 | [羽生さん](http://twitter.com/search?q=%e7%be%bd%e7%94%9f%e3%81%95%e3%82%93) | 羽生さん is a respectful way of referring to the Japanese professional shogi player, Yūki Satoshi. In English, it would be translated as "Mr. Yūki". |
+| 19 | [ジンくん](http://twitter.com/search?q=%e3%82%b8%e3%83%b3%e3%81%8f%e3%82%93) | ジンくん is a character from the Japanese manga series "Kochira Katsushika-ku Kameari Kōen-mae Hashutsujo". His name is Jin Kamiya and he is a young delinquent who often gets into trouble. He is known for his mischievous behavior and his catchphrase, "Yare yare daze". In English, this phrase roughly translates to "Oh, come on!" |
+| 20 | [アトラスガンダム](http://twitter.com/search?q=%e3%82%a2%e3%83%88%e3%83%a9%e3%82%b9%e3%82%ac%e3%83%b3%e3%83%80%e3%83%a0) | N/A |
+| 21 | [藤井王将](http://twitter.com/search?q=%e8%97%a4%e4%ba%95%e7%8e%8b%e5%b0%86) | 藤井王将 is a Japanese board game similar to chess. It is a two-player strategy game in which each player attempts to capture the other's pieces and gain control of the board. The literal translation of 藤井王将 is "Fujiwara King General". |
+| 22 | [椎名林檎](http://twitter.com/search?q=%e6%a4%8e%e5%90%8d%e6%9e%97%e6%aa%8e) | N/A |
+| 23 | [中山記念](http://twitter.com/search?q=%e4%b8%ad%e5%b1%b1%e8%a8%98%e5%bf%b5) | N/A |
+| 24 | [羽生九段](http://twitter.com/search?q=%e7%be%bd%e7%94%9f%e4%b9%9d%e6%ae%b5) | 羽生九段 (Ungyo Kyudan) is a title given to the highest rank of professional shogi players in Japan. It is equivalent to the title of 9-dan in other martial arts such as Go and Judo. The title is awarded by the Japan Shogi Association and is considered to be one of the most prestigious titles in the world of shogi. In English, it translates to "9-dan Grandmaster". |
+| 25 | [ドーブネ](http://twitter.com/search?q=%e3%83%89%e3%83%bc%e3%83%96%e3%83%8d) | ドーブネ (Dōbune) is a type of traditional Japanese boat. It is a flat-bottomed boat with a pointed bow and stern, and is usually propelled by oars or sails. In English, it is sometimes referred to as a "dugout canoe". |
+| 26 | [カマキリ](http://twitter.com/search?q=%e3%82%ab%e3%83%9e%e3%82%ad%e3%83%aa) | N/A |
+| 27 | [オンゲキ](http://twitter.com/search?q=%e3%82%aa%e3%83%b3%e3%82%b2%e3%82%ad) | N/A |
+| 28 | [みかちゃん](http://twitter.com/search?q=%e3%81%bf%e3%81%8b%e3%81%a1%e3%82%83%e3%82%93) | みかちゃん is a nickname for the Japanese name Mikako. It is a term of endearment, similar to calling someone "Mika" or "Mikki". In English, it could be translated as "Mika-chan". |
+| 29 | [サンボル](http://twitter.com/search?q=%e3%82%b5%e3%83%b3%e3%83%9c%e3%83%ab) | サンボル (sanboru) is a Japanese word that means "sandbar". It is used to refer to a sandbar or shallow area in a river or lake. |
+| 30 | [ラーグルフ](http://twitter.com/search?q=%e3%83%a9%e3%83%bc%e3%82%b0%e3%83%ab%e3%83%95) | ラーグルフ (Ragurufu) is a Japanese card game that is similar to the Western game of Rummy. It is played with a set of 108 cards, divided into four suits (red, blue, green and yellow). The objective of the game is to be the first player to get rid of all their cards by forming sets and runs. In English, it can be translated as Rummy. |
+| 31 | [羽生くん](http://twitter.com/search?q=%e7%be%bd%e7%94%9f%e3%81%8f%e3%82%93) | 羽生くん is a nickname for Japanese figure skater Yuzuru Hanyu. It is a combination of his given name, Yuzuru, and the Japanese honorific suffix “-kun” which is used to refer to boys or young men. In English, it can be translated as “Yuzuru-kun”. |
+| 32 | [羽生先生](http://twitter.com/search?q=%e7%be%bd%e7%94%9f%e5%85%88%e7%94%9f) | 羽生先生 is a title of respect used to refer to a male teacher or professor. In English, it would be translated as "Mr. Hayabusa". |
+| 33 | [花沢さん](http://twitter.com/search?q=%e8%8a%b1%e6%b2%a2%e3%81%95%e3%82%93) | 花沢さん is a Japanese honorific title used to refer to someone who is respected or admired. It can be translated into English as "Mr./Ms. Hanazawa". |
+| 34 | [真夏さん](http://twitter.com/search?q=%e7%9c%9f%e5%a4%8f%e3%81%95%e3%82%93) | 真夏さん is a Japanese honorific title used to refer to someone who is respected or admired. It can be translated as "Mr./Ms. Midsummer" in English. |
+| 35 | [ハートフル](http://twitter.com/search?q=%e3%83%8f%e3%83%bc%e3%83%88%e3%83%95%e3%83%ab) | N/A |
+| 36 | [ワカサギ釣り](http://twitter.com/search?q=%e3%83%af%e3%82%ab%e3%82%b5%e3%82%ae%e9%87%a3%e3%82%8a) | N/A |
+| 37 | [ホウエンツアー](http://twitter.com/search?q=%e3%83%9b%e3%82%a6%e3%82%a8%e3%83%b3%e3%83%84%e3%82%a2%e3%83%bc) | N/A |
+| 38 | [荒牧さん](http://twitter.com/search?q=%e8%8d%92%e7%89%a7%e3%81%95%e3%82%93) | 荒牧さん is a Japanese term for a person who is considered to be a master of the wilderness. It is often used to refer to someone who has an intimate knowledge of nature and the outdoors, and is able to survive in harsh conditions. In English, it can be translated as "wilderness master". |
+| 39 | [Valkyrie](http://twitter.com/search?q=Valkyrie) | N/A |
+| 40 | [貴家さん](http://twitter.com/search?q=%e8%b2%b4%e5%ae%b6%e3%81%95%e3%82%93) | N/A |
+| 41 | [ソーヴァリアント](http://twitter.com/search?q=%e3%82%bd%e3%83%bc%e3%83%b4%e3%82%a1%e3%83%aa%e3%82%a2%e3%83%b3%e3%83%88) | N/A |
+| 42 | [キハダ先生](http://twitter.com/search?q=%e3%82%ad%e3%83%8f%e3%83%80%e5%85%88%e7%94%9f) | N/A |
+| 43 | [ホビたん](http://twitter.com/search?q=%e3%83%9b%e3%83%93%e3%81%9f%e3%82%93) | N/A |
+| 44 | [羽生結弦](http://twitter.com/search?q=%e7%be%bd%e7%94%9f%e7%b5%90%e5%bc%a6) | N/A |
+| 45 | [東大物理](http://twitter.com/search?q=%e6%9d%b1%e5%a4%a7%e7%89%a9%e7%90%86) | N/A |
+| 46 | [ホソクさん](http://twitter.com/search?q=%e3%83%9b%e3%82%bd%e3%82%af%e3%81%95%e3%82%93) | N/A |
+| 47 | [堀川くん](http://twitter.com/search?q=%e5%a0%80%e5%b7%9d%e3%81%8f%e3%82%93) | N/A |
+| 48 | [お師さん](http://twitter.com/search?q=%e3%81%8a%e5%b8%ab%e3%81%95%e3%82%93) | N/A |
+| 49 | [ガンダムNT](http://twitter.com/search?q=%e3%82%ac%e3%83%b3%e3%83%80%e3%83%a0NT) | N/A |
 
 
 

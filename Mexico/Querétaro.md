@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Querétaro
 
-📆 Last Updated: `2023-02-26 09:15:58 UTC`
+📆 Last Updated: `2023-02-26 10:16:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,48 +21,37 @@ This is top 50 for [Mexico](</Mexico>)
 | 4 | [Jiménez](http://twitter.com/search?q=Jim%c3%a9nez) | N/A |
 | 5 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
 | 6 | [Tano](http://twitter.com/search?q=Tano) | N/A |
-| 7 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
+| 7 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
 | 8 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
-| 9 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
-| 10 | [Malagón](http://twitter.com/search?q=Malag%c3%b3n) | N/A |
-| 11 | [UNTIL WE MEET AGAIN](http://twitter.com/search?q=UNTIL+WE+MEET+AGAIN) | N/A |
-| 12 | [Layun](http://twitter.com/search?q=Layun) | N/A |
-| 13 | [Weverse](http://twitter.com/search?q=Weverse) | Weverse is a social media platform created by the South Korean entertainment company Big Hit Entertainment. It is designed to connect fans with artists and allow them to interact with each other. The name Weverse is derived from the words “we” and “universe”, representing the idea of creating a universe where fans and artists can come together. |
-| 14 | [Viñas](http://twitter.com/search?q=Vi%c3%b1as) | N/A |
-| 15 | [NO ESTOY SOPORTANDO](http://twitter.com/search?q=NO+ESTOY+SOPORTANDO) | N/A |
-| 16 | [Lozano](http://twitter.com/search?q=Lozano) | N/A |
-| 17 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
-| 18 | [Henry](http://twitter.com/search?q=Henry) | N/A |
-| 19 | [#ECDQEMSD](http://twitter.com/search?q=%23ECDQEMSD) | N/A |
+| 9 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
+| 10 | [UNTIL WE MEET AGAIN](http://twitter.com/search?q=UNTIL+WE+MEET+AGAIN) | N/A |
+| 11 | [Layun](http://twitter.com/search?q=Layun) | N/A |
+| 12 | [Weverse](http://twitter.com/search?q=Weverse) | Weverse is a social media platform created by the South Korean entertainment company Big Hit Entertainment. It is designed to connect fans with artists and allow them to interact with each other. The name Weverse is derived from the words “we” and “universe”, representing the idea of creating a universe where fans and artists can come together. |
+| 13 | [Malagón](http://twitter.com/search?q=Malag%c3%b3n) | N/A |
+| 14 | [NO ESTOY SOPORTANDO](http://twitter.com/search?q=NO+ESTOY+SOPORTANDO) | N/A |
+| 15 | [Lozano](http://twitter.com/search?q=Lozano) | N/A |
+| 16 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
+| 17 | [#ECDQEMSD](http://twitter.com/search?q=%23ECDQEMSD) | N/A |
+| 18 | [Ortiz](http://twitter.com/search?q=Ortiz) | N/A |
+| 19 | [Henry](http://twitter.com/search?q=Henry) | N/A |
 | 20 | [Ochoa](http://twitter.com/search?q=Ochoa) | Ochoa is a Spanish surname. It is derived from the Latin word "octavus," which means "eighth." The name is thought to have originated as a nickname for someone who was the eighth child in their family. In English, Ochoa can be translated to mean "eighth." |
-| 21 | [Chima](http://twitter.com/search?q=Chima) | N/A |
+| 21 | [Roger](http://twitter.com/search?q=Roger) | N/A |
 | 22 | [Fidalgo](http://twitter.com/search?q=Fidalgo) | N/A |
-| 23 | [Roger](http://twitter.com/search?q=Roger) | N/A |
-| 24 | [Verona](http://twitter.com/search?q=Verona) | N/A |
-| 25 | [BIGHIT](http://twitter.com/search?q=BIGHIT) | N/A |
-| 26 | [Quiñones](http://twitter.com/search?q=Qui%c3%b1ones) | Quiñones is a Spanish surname derived from the Latin word "quinonem," which means "fifth." It is a common surname in Spain, Latin America, and the Philippines. In English, it can be translated to mean "the fifth one." |
-| 27 | [NO PUEDE SER](http://twitter.com/search?q=NO+PUEDE+SER) | N/A |
-| 28 | [Huevo](http://twitter.com/search?q=Huevo) | N/A |
-| 29 | [Reyes](http://twitter.com/search?q=Reyes) | Reyes is a Spanish word meaning "kings". It is derived from the Latin word rex, which means "king". |
-| 30 | [#RebNosDropeo](http://twitter.com/search?q=%23RebNosDropeo) | N/A |
-| 31 | [Santander](http://twitter.com/search?q=Santander) | N/A |
-| 32 | [Danna Paola](http://twitter.com/search?q=Danna+Paola) | N/A |
-| 33 | [Aluxe](http://twitter.com/search?q=Aluxe) | N/A |
-| 34 | [Aquino](http://twitter.com/search?q=Aquino) | N/A |
-| 35 | [Gignac](http://twitter.com/search?q=Gignac) | Gignac is a French surname. It is derived from the Old French word "gaigner", which means "to cultivate". In English, it can be translated to mean "farmer". |
-| 36 | [NO ESTOY LISTA](http://twitter.com/search?q=NO+ESTOY+LISTA) | N/A |
-| 37 | [Cobarde](http://twitter.com/search?q=Cobarde) | N/A |
-| 38 | [Mozo](http://twitter.com/search?q=Mozo) | N/A |
-| 39 | [#XT4S1STOUR](http://twitter.com/search?q=%23XT4S1STOUR) | N/A |
-| 40 | [NO AUTORIZO](http://twitter.com/search?q=NO+AUTORIZO) | N/A |
-| 41 | [Pizarro](http://twitter.com/search?q=Pizarro) | N/A |
-| 42 | [Dedales](http://twitter.com/search?q=Dedales) | N/A |
-| 43 | [Camilo](http://twitter.com/search?q=Camilo) | N/A |
-| 44 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
-| 45 | [Carioca](http://twitter.com/search?q=Carioca) | N/A |
-| 46 | [#MarchaINE](http://twitter.com/search?q=%23MarchaINE) | N/A |
-| 47 | [#MarchaDeNarcosyCorruptos](http://twitter.com/search?q=%23MarchaDeNarcosyCorruptos) | N/A |
-| 48 | [#edc2023](http://twitter.com/search?q=%23edc2023) | N/A |
+| 23 | [Chima](http://twitter.com/search?q=Chima) | N/A |
+| 24 | [Huevo](http://twitter.com/search?q=Huevo) | N/A |
+| 25 | [Reyes](http://twitter.com/search?q=Reyes) | Reyes is a Spanish word meaning "kings". It is derived from the Latin word rex, which means "king". |
+| 26 | [Danna Paola](http://twitter.com/search?q=Danna+Paola) | N/A |
+| 27 | [Aquino](http://twitter.com/search?q=Aquino) | N/A |
+| 28 | [Aluxe](http://twitter.com/search?q=Aluxe) | N/A |
+| 29 | [Quiñones](http://twitter.com/search?q=Qui%c3%b1ones) | Quiñones is a Spanish surname derived from the Latin word "quinonem," which means "fifth." It is a common surname in Spain, Latin America, and the Philippines. In English, it can be translated to mean "the fifth one." |
+| 30 | [Gignac](http://twitter.com/search?q=Gignac) | Gignac is a French surname. It is derived from the Old French word "gaigner", which means "to cultivate". In English, it can be translated to mean "farmer". |
+| 31 | [Cobarde](http://twitter.com/search?q=Cobarde) | N/A |
+| 32 | [#MarchaINE](http://twitter.com/search?q=%23MarchaINE) | N/A |
+| 33 | [Mozo](http://twitter.com/search?q=Mozo) | N/A |
+| 34 | [Pizarro](http://twitter.com/search?q=Pizarro) | N/A |
+| 35 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
+| 36 | [Carioca](http://twitter.com/search?q=Carioca) | N/A |
+| 37 | [#MarchaDeNarcosyCorruptos](http://twitter.com/search?q=%23MarchaDeNarcosyCorruptos) | N/A |
 
 
 

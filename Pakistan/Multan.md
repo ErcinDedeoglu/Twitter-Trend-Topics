@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Multan
 
-📆 Last Updated: `2023-02-26 09:16:25 UTC`
+📆 Last Updated: `2023-02-26 10:16:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 2 | [#شٹرڈاؤن_ہڑتال_لٹیرےپریشان](http://twitter.com/search?q=%23%d8%b4%d9%b9%d8%b1%da%88%d8%a7%d8%a4%d9%86_%db%81%da%91%d8%aa%d8%a7%d9%84_%d9%84%d9%b9%db%8c%d8%b1%db%92%d9%be%d8%b1%db%8c%d8%b4%d8%a7%d9%86) | N/A |
 | 3 | [#Azerbaijan](http://twitter.com/search?q=%23Azerbaijan) | N/A |
 | 4 | [#KhojalyGenocide](http://twitter.com/search?q=%23KhojalyGenocide) | N/A |
-| 5 | [#FearlessMaryam](http://twitter.com/search?q=%23FearlessMaryam) | N/A |
+| 5 | [#MaryamTheSpoiltBrat](http://twitter.com/search?q=%23MaryamTheSpoiltBrat) | N/A |
 | 6 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 7 | [Armenian](http://twitter.com/search?q=Armenian) | N/A |
-| 8 | [Faysal Bank](http://twitter.com/search?q=Faysal+Bank) | N/A |
-| 9 | [Multan Sultans](http://twitter.com/search?q=Multan+Sultans) | N/A |
-| 10 | [jhope](http://twitter.com/search?q=jhope) | N/A |
-| 11 | [Azam Khan](http://twitter.com/search?q=Azam+Khan) | N/A |
-| 12 | [SOP Unified Marathon](http://twitter.com/search?q=SOP+Unified+Marathon) | N/A |
-| 13 | [We Condemn Enemy Of Sahaba](http://twitter.com/search?q=We+Condemn+Enemy+Of+Sahaba) | N/A |
-| 14 | [No PSL](http://twitter.com/search?q=No+PSL) | N/A |
-| 15 | [Special Olympics](http://twitter.com/search?q=Special+Olympics) | N/A |
-| 16 | [Karachi Kings](http://twitter.com/search?q=Karachi+Kings) | N/A |
-| 17 | [IELTS](http://twitter.com/search?q=IELTS) | N/A |
-| 18 | [BISP](http://twitter.com/search?q=BISP) | N/A |
-| 19 | [Sabahat Rizvi](http://twitter.com/search?q=Sabahat+Rizvi) | N/A |
-| 20 | [Fahad hussain](http://twitter.com/search?q=Fahad+hussain) | N/A |
-| 21 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 22 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
-| 23 | [Oxford](http://twitter.com/search?q=Oxford) | Oxford is a city in England, located about 50 miles northwest of London. It is best known as the home of the University of Oxford, the oldest university in the English-speaking world. The city is also known for its many historic buildings, including the Bodleian Library and Christ Church College. |
-| 24 | [Wikipedia](http://twitter.com/search?q=Wikipedia) | N/A |
-| 25 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
-| 26 | [Imam Zain](http://twitter.com/search?q=Imam+Zain) | N/A |
-| 27 | [Dirty Harry](http://twitter.com/search?q=Dirty+Harry) | N/A |
-| 28 | [Imam Sajjad](http://twitter.com/search?q=Imam+Sajjad) | N/A |
-| 29 | [Punjab Govt](http://twitter.com/search?q=Punjab+Govt) | N/A |
-| 30 | [Asim Riaz](http://twitter.com/search?q=Asim+Riaz) | N/A |
-| 31 | [Abideen](http://twitter.com/search?q=Abideen) | N/A |
-| 32 | [Noam Chomsky](http://twitter.com/search?q=Noam+Chomsky) | N/A |
-| 33 | [Master](http://twitter.com/search?q=Master) | N/A |
-| 34 | [Gaddafi Stadium](http://twitter.com/search?q=Gaddafi+Stadium) | N/A |
-| 35 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 36 | [Haider Ali](http://twitter.com/search?q=Haider+Ali) | N/A |
-| 37 | [Mazy](http://twitter.com/search?q=Mazy) | N/A |
-| 38 | [Balochistan](http://twitter.com/search?q=Balochistan) | N/A |
-| 39 | [Modi](http://twitter.com/search?q=Modi) | N/A |
+| 7 | [Tayyab Tahir](http://twitter.com/search?q=Tayyab+Tahir) | N/A |
+| 8 | [Wade](http://twitter.com/search?q=Wade) | N/A |
+| 9 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 10 | [Faysal Bank](http://twitter.com/search?q=Faysal+Bank) | N/A |
+| 11 | [jhope](http://twitter.com/search?q=jhope) | N/A |
+| 12 | [Armenian](http://twitter.com/search?q=Armenian) | N/A |
+| 13 | [Multan Sultans](http://twitter.com/search?q=Multan+Sultans) | N/A |
+| 14 | [sop unified marathon](http://twitter.com/search?q=sop+unified+marathon) | N/A |
+| 15 | [We Condemn Enemy Of Sahaba](http://twitter.com/search?q=We+Condemn+Enemy+Of+Sahaba) | N/A |
+| 16 | [no psl](http://twitter.com/search?q=no+psl) | N/A |
+| 17 | [special olympics](http://twitter.com/search?q=special+olympics) | N/A |
+| 18 | [Sabahat Rizvi](http://twitter.com/search?q=Sabahat+Rizvi) | N/A |
+| 19 | [IELTS](http://twitter.com/search?q=IELTS) | N/A |
+| 20 | [Babar vs Shaheen](http://twitter.com/search?q=Babar+vs+Shaheen) | N/A |
+| 21 | [BISP](http://twitter.com/search?q=BISP) | N/A |
+| 22 | [Fahad Hussain](http://twitter.com/search?q=Fahad+Hussain) | N/A |
+| 23 | [Haider Ali](http://twitter.com/search?q=Haider+Ali) | N/A |
+| 24 | [Noam Chomsky](http://twitter.com/search?q=Noam+Chomsky) | N/A |
+| 25 | [Karachi Kings](http://twitter.com/search?q=Karachi+Kings) | N/A |
+| 26 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
+| 27 | [Oxford](http://twitter.com/search?q=Oxford) | Oxford is a city in England, located about 50 miles northwest of London. It is best known as the home of the University of Oxford, the oldest university in the English-speaking world. The city is also known for its many historic buildings, including the Bodleian Library and Christ Church College. |
+| 28 | [Imam Zain](http://twitter.com/search?q=Imam+Zain) | N/A |
+| 29 | [Abideen](http://twitter.com/search?q=Abideen) | N/A |
+| 30 | [Balakot](http://twitter.com/search?q=Balakot) | N/A |
+| 31 | [Imam Sajjad](http://twitter.com/search?q=Imam+Sajjad) | N/A |
+| 32 | [Platinum](http://twitter.com/search?q=Platinum) | N/A |
+| 33 | [Dirty Harry](http://twitter.com/search?q=Dirty+Harry) | N/A |
+| 34 | [Punjab Govt](http://twitter.com/search?q=Punjab+Govt) | N/A |
+| 35 | [Air Force](http://twitter.com/search?q=Air+Force) | Air Force is the branch of a nation's armed forces that is responsible for aerial warfare, including the operation of military aircraft and the deployment of airborne troops. It is also responsible for air defense and providing support to land and naval forces. |
+| 36 | [Ihsanullah](http://twitter.com/search?q=Ihsanullah) | N/A |
+| 37 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 38 | [Master](http://twitter.com/search?q=Master) | N/A |
+| 39 | [Zardari](http://twitter.com/search?q=Zardari) | N/A |
 | 40 | [Asad](http://twitter.com/search?q=Asad) | N/A |
-| 41 | [America](http://twitter.com/search?q=America) | N/A |
-| 42 | [Nailed](http://twitter.com/search?q=Nailed) | N/A |
-| 43 | [Bangladesh](http://twitter.com/search?q=Bangladesh) | N/A |
-| 44 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 45 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
-| 46 | [People of Pakistan](http://twitter.com/search?q=People+of+Pakistan) | N/A |
-| 47 | [Islamic](http://twitter.com/search?q=Islamic) | N/A |
-| 48 | [Shaheen](http://twitter.com/search?q=Shaheen) | N/A |
-| 49 | [Army](http://twitter.com/search?q=Army) | N/A |
-| 50 | [Money](http://twitter.com/search?q=Money) | N/A |
+| 41 | [Balochistan](http://twitter.com/search?q=Balochistan) | N/A |
+| 42 | [Qasim](http://twitter.com/search?q=Qasim) | N/A |
+| 43 | [Army](http://twitter.com/search?q=Army) | N/A |
+| 44 | [Excellent](http://twitter.com/search?q=Excellent) | N/A |
+| 45 | [Sindh](http://twitter.com/search?q=Sindh) | N/A |
+| 46 | [Insha Allah](http://twitter.com/search?q=Insha+Allah) | N/A |
+| 47 | [Gaddafi Stadium](http://twitter.com/search?q=Gaddafi+Stadium) | N/A |
+| 48 | [Correction](http://twitter.com/search?q=Correction) | N/A |
+| 49 | [Modi](http://twitter.com/search?q=Modi) | N/A |
+| 50 | [Holy Quran](http://twitter.com/search?q=Holy+Quran) | N/A |
 
 
 

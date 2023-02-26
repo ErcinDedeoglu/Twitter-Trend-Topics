@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2023-02-26 09:15:52 UTC`
+📆 Last Updated: `2023-02-26 10:16:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,55 +21,55 @@ This is top 50
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 2 | [#秋元真夏卒業コンサート](http://twitter.com/search?q=%23%e7%a7%8b%e5%85%83%e7%9c%9f%e5%a4%8f%e5%8d%92%e6%a5%ad%e3%82%b3%e3%83%b3%e3%82%b5%e3%83%bc%e3%83%88) | N/A |
-| 3 | [Kızılay](http://twitter.com/search?q=K%c4%b1z%c4%b1lay) | Kızılay is the Turkish Red Crescent, a humanitarian organization that provides aid and assistance to those in need. The name Kızılay comes from the Ottoman Empire era, when it was known as the Imperial Ottoman Society of the Red Crescent. In English, Kızılay translates to "Red Crescent". |
-| 4 | [ヒシイグアス](http://twitter.com/search?q=%e3%83%92%e3%82%b7%e3%82%a4%e3%82%b0%e3%82%a2%e3%82%b9) | N/A |
-| 5 | [サンダーボルト](http://twitter.com/search?q=%e3%82%b5%e3%83%b3%e3%83%80%e3%83%bc%e3%83%9c%e3%83%ab%e3%83%88) | サンダーボルト (Thunderbolt) is a Japanese manga series written and illustrated by Mitsuteru Yokoyama. It follows the adventures of a young boy named Tsubasa Oozora, who is granted superhuman powers by a mysterious alien race known as the "Lightning Gods". The series follows Tsubasa as he uses his newfound powers to protect Earth from various threats. In English, the title translates to "Thunderbolt". |
-| 6 | [ジンくん](http://twitter.com/search?q=%e3%82%b8%e3%83%b3%e3%81%8f%e3%82%93) | ジンくん is a character from the Japanese manga series "Kochira Katsushika-ku Kameari Kōen-mae Hashutsujo". His name is Jin Kamiya and he is a young delinquent who often gets into trouble. He is known for his mischievous behavior and his catchphrase, "Yare yare daze". In English, this phrase roughly translates to "Oh, come on!" |
-| 7 | [#JHOPE](http://twitter.com/search?q=%23JHOPE) | N/A |
-| 8 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 9 | [中山記念](http://twitter.com/search?q=%e4%b8%ad%e5%b1%b1%e8%a8%98%e5%bf%b5) | N/A |
-| 10 | [ナラティブ](http://twitter.com/search?q=%e3%83%8a%e3%83%a9%e3%83%86%e3%82%a3%e3%83%96) | N/A |
-| 11 | [#コネしにキルキル](http://twitter.com/search?q=%23%e3%82%b3%e3%83%8d%e3%81%97%e3%81%ab%e3%82%ad%e3%83%ab%e3%82%ad%e3%83%ab) | N/A |
-| 12 | [アトラスガンダム](http://twitter.com/search?q=%e3%82%a2%e3%83%88%e3%83%a9%e3%82%b9%e3%82%ac%e3%83%b3%e3%83%80%e3%83%a0) | N/A |
-| 13 | [ドーブネ](http://twitter.com/search?q=%e3%83%89%e3%83%bc%e3%83%96%e3%83%8d) | ドーブネ (Dōbune) is a type of traditional Japanese boat. It is a flat-bottomed boat with a pointed bow and stern, and is usually propelled by oars or sails. In English, it is sometimes referred to as a "dugout canoe". |
-| 14 | [ラーグルフ](http://twitter.com/search?q=%e3%83%a9%e3%83%bc%e3%82%b0%e3%83%ab%e3%83%95) | ラーグルフ (Ragurufu) is a Japanese card game that is similar to the Western game of Rummy. It is played with a set of 108 cards, divided into four suits (red, blue, green and yellow). The objective of the game is to be the first player to get rid of all their cards by forming sets and runs. In English, it can be translated as Rummy. |
-| 15 | [粉塵爆発](http://twitter.com/search?q=%e7%b2%89%e5%a1%b5%e7%88%86%e7%99%ba) | N/A |
-| 16 | [#GIFT_tokyodome](http://twitter.com/search?q=%23GIFT_tokyodome) | N/A |
-| 17 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 18 | [オンゲキ](http://twitter.com/search?q=%e3%82%aa%e3%83%b3%e3%82%b2%e3%82%ad) | N/A |
-| 19 | [#みてるぜKOP4th](http://twitter.com/search?q=%23%e3%81%bf%e3%81%a6%e3%82%8b%e3%81%9cKOP4th) | N/A |
-| 20 | [ソーヴァリアント](http://twitter.com/search?q=%e3%82%bd%e3%83%bc%e3%83%b4%e3%82%a1%e3%83%aa%e3%82%a2%e3%83%b3%e3%83%88) | N/A |
-| 21 | [الفصل الدراسي الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b5%d9%84+%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%8a+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
-| 22 | [2seok](http://twitter.com/search?q=2seok) | N/A |
-| 23 | [サンボル](http://twitter.com/search?q=%e3%82%b5%e3%83%b3%e3%83%9c%e3%83%ab) | サンボル (sanboru) is a Japanese word that means "sandbar". It is used to refer to a sandbar or shallow area in a river or lake. |
-| 24 | [ダノンザキッド](http://twitter.com/search?q=%e3%83%80%e3%83%8e%e3%83%b3%e3%82%b6%e3%82%ad%e3%83%83%e3%83%89) | N/A |
-| 25 | [ナディアガーズ](http://twitter.com/search?q=%e3%83%8a%e3%83%87%e3%82%a3%e3%82%a2%e3%82%ac%e3%83%bc%e3%82%ba) | ナディアガーズ is a Japanese rock band formed in Tokyo in 2002. The name is derived from the phrase "Nadia's Gaze," which refers to the gaze of a young girl looking out into the world. The band's music is characterized by melodic guitar riffs, driving rhythms, and passionate vocals. |
-| 26 | [羽生さん](http://twitter.com/search?q=%e7%be%bd%e7%94%9f%e3%81%95%e3%82%93) | 羽生さん is a respectful way of referring to the Japanese professional shogi player, Yūki Satoshi. In English, it would be translated as "Mr. Yūki". |
-| 27 | [ホビたん](http://twitter.com/search?q=%e3%83%9b%e3%83%93%e3%81%9f%e3%82%93) | N/A |
-| 28 | [ホソクさん](http://twitter.com/search?q=%e3%83%9b%e3%82%bd%e3%82%af%e3%81%95%e3%82%93) | N/A |
-| 29 | [キハダ先生](http://twitter.com/search?q=%e3%82%ad%e3%83%8f%e3%83%80%e5%85%88%e7%94%9f) | N/A |
-| 30 | [Ahbap](http://twitter.com/search?q=Ahbap) | N/A |
-| 31 | [Canino](http://twitter.com/search?q=Canino) | N/A |
-| 32 | [みかちゃん](http://twitter.com/search?q=%e3%81%bf%e3%81%8b%e3%81%a1%e3%82%83%e3%82%93) | みかちゃん is a nickname for the Japanese name Mikako. It is a term of endearment, similar to calling someone "Mika" or "Mikki". In English, it could be translated as "Mika-chan". |
-| 33 | [真夏さん](http://twitter.com/search?q=%e7%9c%9f%e5%a4%8f%e3%81%95%e3%82%93) | 真夏さん is a Japanese honorific title used to refer to someone who is respected or admired. It can be translated as "Mr./Ms. Midsummer" in English. |
-| 34 | [Weverse](http://twitter.com/search?q=Weverse) | Weverse is a social media platform created by the South Korean entertainment company Big Hit Entertainment. It is designed to connect fans with artists and allow them to interact with each other. The name Weverse is derived from the words “we” and “universe”, representing the idea of creating a universe where fans and artists can come together. |
-| 35 | [Yoruba](http://twitter.com/search?q=Yoruba) | N/A |
-| 36 | [ポカスカジャン](http://twitter.com/search?q=%e3%83%9d%e3%82%ab%e3%82%b9%e3%82%ab%e3%82%b8%e3%83%a3%e3%83%b3) | N/A |
-| 37 | [すわほー](http://twitter.com/search?q=%e3%81%99%e3%82%8f%e3%81%bb%e3%83%bc) | N/A |
-| 38 | [CL BROTHER MV 1M](http://twitter.com/search?q=CL+BROTHER+MV+1M) | N/A |
-| 39 | [荒牧さん](http://twitter.com/search?q=%e8%8d%92%e7%89%a7%e3%81%95%e3%82%93) | 荒牧さん is a Japanese term for a person who is considered to be a master of the wilderness. It is often used to refer to someone who has an intimate knowledge of nature and the outdoors, and is able to survive in harsh conditions. In English, it can be translated as "wilderness master". |
-| 40 | [東大物理](http://twitter.com/search?q=%e6%9d%b1%e5%a4%a7%e7%89%a9%e7%90%86) | N/A |
-| 41 | [Schönen Sonntag](http://twitter.com/search?q=Sch%c3%b6nen+Sonntag) | "Schönen Sonntag" is a German phrase that translates to "Have a nice Sunday" in English. It is a common greeting used to wish someone a pleasant day on Sunday. |
-| 42 | [シュネルマイスター](http://twitter.com/search?q=%e3%82%b7%e3%83%a5%e3%83%8d%e3%83%ab%e3%83%9e%e3%82%a4%e3%82%b9%e3%82%bf%e3%83%bc) | N/A |
-| 43 | [ホワイトアウト](http://twitter.com/search?q=%e3%83%9b%e3%83%af%e3%82%a4%e3%83%88%e3%82%a2%e3%82%a6%e3%83%88) | ホワイトアウト (Whiteout) is a Japanese term used to describe a situation in which all the colors of an image or text are replaced with white. It is often used to describe a situation in which all the details of an image or text are obscured or lost. In English, it can be referred to as "whiting out" or "blanking out". |
-| 44 | [SYNK WITH AESPA DAY2](http://twitter.com/search?q=SYNK+WITH+AESPA+DAY2) | N/A |
-| 45 | [スタニングローズ](http://twitter.com/search?q=%e3%82%b9%e3%82%bf%e3%83%8b%e3%83%b3%e3%82%b0%e3%83%ad%e3%83%bc%e3%82%ba) | N/A |
-| 46 | [ハートフル](http://twitter.com/search?q=%e3%83%8f%e3%83%bc%e3%83%88%e3%83%95%e3%83%ab) | N/A |
-| 47 | [ガンダムNT](http://twitter.com/search?q=%e3%82%ac%e3%83%b3%e3%83%80%e3%83%a0NT) | N/A |
-| 48 | [ビームサーベル](http://twitter.com/search?q=%e3%83%93%e3%83%bc%e3%83%a0%e3%82%b5%e3%83%bc%e3%83%99%e3%83%ab) | N/A |
-| 49 | [お師さん](http://twitter.com/search?q=%e3%81%8a%e5%b8%ab%e3%81%95%e3%82%93) | N/A |
-| 50 | [サンモニ](http://twitter.com/search?q=%e3%82%b5%e3%83%b3%e3%83%a2%e3%83%8b) | N/A |
+| 2 | [Kızılay](http://twitter.com/search?q=K%c4%b1z%c4%b1lay) | Kızılay is the Turkish Red Crescent, a humanitarian organization that provides aid and assistance to those in need. The name Kızılay comes from the Ottoman Empire era, when it was known as the Imperial Ottoman Society of the Red Crescent. In English, Kızılay translates to "Red Crescent". |
+| 3 | [#秋元真夏卒業コンサート](http://twitter.com/search?q=%23%e7%a7%8b%e5%85%83%e7%9c%9f%e5%a4%8f%e5%8d%92%e6%a5%ad%e3%82%b3%e3%83%b3%e3%82%b5%e3%83%bc%e3%83%88) | N/A |
+| 4 | [サザエさん](http://twitter.com/search?q=%e3%82%b5%e3%82%b6%e3%82%a8%e3%81%95%e3%82%93) | サザエさん is a popular Japanese manga and anime series that follows the everyday life of a family living in a small fishing village. The title translates to "Sazae-san" in English. It is one of the longest running anime series, having been in production since 1969. |
+| 5 | [#GIFT_tokyodome](http://twitter.com/search?q=%23GIFT_tokyodome) | N/A |
+| 6 | [粉塵爆発](http://twitter.com/search?q=%e7%b2%89%e5%a1%b5%e7%88%86%e7%99%ba) | N/A |
+| 7 | [タラちゃん](http://twitter.com/search?q=%e3%82%bf%e3%83%a9%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 8 | [サンダーボルト](http://twitter.com/search?q=%e3%82%b5%e3%83%b3%e3%83%80%e3%83%bc%e3%83%9c%e3%83%ab%e3%83%88) | サンダーボルト (Thunderbolt) is a Japanese manga series written and illustrated by Mitsuteru Yokoyama. It follows the adventures of a young boy named Tsubasa Oozora, who is granted superhuman powers by a mysterious alien race known as the "Lightning Gods". The series follows Tsubasa as he uses his newfound powers to protect Earth from various threats. In English, the title translates to "Thunderbolt". |
+| 9 | [#JHOPE](http://twitter.com/search?q=%23JHOPE) | N/A |
+| 10 | [ヒシイグアス](http://twitter.com/search?q=%e3%83%92%e3%82%b7%e3%82%a4%e3%82%b0%e3%82%a2%e3%82%b9) | N/A |
+| 11 | [#DD_LIVEday2](http://twitter.com/search?q=%23DD_LIVEday2) | N/A |
+| 12 | [ナラティブ](http://twitter.com/search?q=%e3%83%8a%e3%83%a9%e3%83%86%e3%82%a3%e3%83%96) | N/A |
+| 13 | [ロンカプ](http://twitter.com/search?q=%e3%83%ad%e3%83%b3%e3%82%ab%e3%83%97) | ロンカプ is a Japanese term that translates to "long-term commitment". It is used to describe a relationship or situation in which two people or groups are committed to each other for a long period of time. |
+| 14 | [#BBCLauraK](http://twitter.com/search?q=%23BBCLauraK) | #BBCLauraK is a hashtag used to refer to the BBC journalist Laura Kuenssberg. It is used to promote her work and news stories she has reported on. |
+| 15 | [ジンくん](http://twitter.com/search?q=%e3%82%b8%e3%83%b3%e3%81%8f%e3%82%93) | ジンくん is a character from the Japanese manga series "Kochira Katsushika-ku Kameari Kōen-mae Hashutsujo". His name is Jin Kamiya and he is a young delinquent who often gets into trouble. He is known for his mischievous behavior and his catchphrase, "Yare yare daze". In English, this phrase roughly translates to "Oh, come on!" |
+| 16 | [羽生さん](http://twitter.com/search?q=%e7%be%bd%e7%94%9f%e3%81%95%e3%82%93) | 羽生さん is a respectful way of referring to the Japanese professional shogi player, Yūki Satoshi. In English, it would be translated as "Mr. Yūki". |
+| 17 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 18 | [FOREVER YOURS BUILD](http://twitter.com/search?q=FOREVER+YOURS+BUILD) | N/A |
+| 19 | [Ahbap](http://twitter.com/search?q=Ahbap) | N/A |
+| 20 | [中山記念](http://twitter.com/search?q=%e4%b8%ad%e5%b1%b1%e8%a8%98%e5%bf%b5) | N/A |
+| 21 | [藤井王将](http://twitter.com/search?q=%e8%97%a4%e4%ba%95%e7%8e%8b%e5%b0%86) | 藤井王将 is a Japanese board game similar to chess. It is a two-player strategy game in which each player attempts to capture the other's pieces and gain control of the board. The literal translation of 藤井王将 is "Fujiwara King General". |
+| 22 | [アトラスガンダム](http://twitter.com/search?q=%e3%82%a2%e3%83%88%e3%83%a9%e3%82%b9%e3%82%ac%e3%83%b3%e3%83%80%e3%83%a0) | N/A |
+| 23 | [羽生九段](http://twitter.com/search?q=%e7%be%bd%e7%94%9f%e4%b9%9d%e6%ae%b5) | 羽生九段 (Ungyo Kyudan) is a title given to the highest rank of professional shogi players in Japan. It is equivalent to the title of 9-dan in other martial arts such as Go and Judo. The title is awarded by the Japan Shogi Association and is considered to be one of the most prestigious titles in the world of shogi. In English, it translates to "9-dan Grandmaster". |
+| 24 | [椎名林檎](http://twitter.com/search?q=%e6%a4%8e%e5%90%8d%e6%9e%97%e6%aa%8e) | N/A |
+| 25 | [ドーブネ](http://twitter.com/search?q=%e3%83%89%e3%83%bc%e3%83%96%e3%83%8d) | ドーブネ (Dōbune) is a type of traditional Japanese boat. It is a flat-bottomed boat with a pointed bow and stern, and is usually propelled by oars or sails. In English, it is sometimes referred to as a "dugout canoe". |
+| 26 | [ラーグルフ](http://twitter.com/search?q=%e3%83%a9%e3%83%bc%e3%82%b0%e3%83%ab%e3%83%95) | ラーグルフ (Ragurufu) is a Japanese card game that is similar to the Western game of Rummy. It is played with a set of 108 cards, divided into four suits (red, blue, green and yellow). The objective of the game is to be the first player to get rid of all their cards by forming sets and runs. In English, it can be translated as Rummy. |
+| 27 | [オンゲキ](http://twitter.com/search?q=%e3%82%aa%e3%83%b3%e3%82%b2%e3%82%ad) | N/A |
+| 28 | [الفصل الدراسي الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b5%d9%84+%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%8a+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
+| 29 | [みかちゃん](http://twitter.com/search?q=%e3%81%bf%e3%81%8b%e3%81%a1%e3%82%83%e3%82%93) | みかちゃん is a nickname for the Japanese name Mikako. It is a term of endearment, similar to calling someone "Mika" or "Mikki". In English, it could be translated as "Mika-chan". |
+| 30 | [サンボル](http://twitter.com/search?q=%e3%82%b5%e3%83%b3%e3%83%9c%e3%83%ab) | サンボル (sanboru) is a Japanese word that means "sandbar". It is used to refer to a sandbar or shallow area in a river or lake. |
+| 31 | [羽生くん](http://twitter.com/search?q=%e7%be%bd%e7%94%9f%e3%81%8f%e3%82%93) | 羽生くん is a nickname for Japanese figure skater Yuzuru Hanyu. It is a combination of his given name, Yuzuru, and the Japanese honorific suffix “-kun” which is used to refer to boys or young men. In English, it can be translated as “Yuzuru-kun”. |
+| 32 | [Yoruba](http://twitter.com/search?q=Yoruba) | N/A |
+| 33 | [羽生先生](http://twitter.com/search?q=%e7%be%bd%e7%94%9f%e5%85%88%e7%94%9f) | 羽生先生 is a title of respect used to refer to a male teacher or professor. In English, it would be translated as "Mr. Hayabusa". |
+| 34 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 35 | [2seok](http://twitter.com/search?q=2seok) | N/A |
+| 36 | [真夏さん](http://twitter.com/search?q=%e7%9c%9f%e5%a4%8f%e3%81%95%e3%82%93) | 真夏さん is a Japanese honorific title used to refer to someone who is respected or admired. It can be translated as "Mr./Ms. Midsummer" in English. |
+| 37 | [ソーヴァリアント](http://twitter.com/search?q=%e3%82%bd%e3%83%bc%e3%83%b4%e3%82%a1%e3%83%aa%e3%82%a2%e3%83%b3%e3%83%88) | N/A |
+| 38 | [花沢さん](http://twitter.com/search?q=%e8%8a%b1%e6%b2%a2%e3%81%95%e3%82%93) | 花沢さん is a Japanese honorific title used to refer to someone who is respected or admired. It can be translated into English as "Mr./Ms. Hanazawa". |
+| 39 | [ハートフル](http://twitter.com/search?q=%e3%83%8f%e3%83%bc%e3%83%88%e3%83%95%e3%83%ab) | N/A |
+| 40 | [荒牧さん](http://twitter.com/search?q=%e8%8d%92%e7%89%a7%e3%81%95%e3%82%93) | 荒牧さん is a Japanese term for a person who is considered to be a master of the wilderness. It is often used to refer to someone who has an intimate knowledge of nature and the outdoors, and is able to survive in harsh conditions. In English, it can be translated as "wilderness master". |
+| 41 | [ホウエンツアー](http://twitter.com/search?q=%e3%83%9b%e3%82%a6%e3%82%a8%e3%83%b3%e3%83%84%e3%82%a2%e3%83%bc) | N/A |
+| 42 | [ワカサギ釣り](http://twitter.com/search?q=%e3%83%af%e3%82%ab%e3%82%b5%e3%82%ae%e9%87%a3%e3%82%8a) | N/A |
+| 43 | [ホビたん](http://twitter.com/search?q=%e3%83%9b%e3%83%93%e3%81%9f%e3%82%93) | N/A |
+| 44 | [キハダ先生](http://twitter.com/search?q=%e3%82%ad%e3%83%8f%e3%83%80%e5%85%88%e7%94%9f) | N/A |
+| 45 | [貴家さん](http://twitter.com/search?q=%e8%b2%b4%e5%ae%b6%e3%81%95%e3%82%93) | N/A |
+| 46 | [Canino](http://twitter.com/search?q=Canino) | N/A |
+| 47 | [haechan sunbaenim](http://twitter.com/search?q=haechan+sunbaenim) | N/A |
+| 48 | [ダノンザキッド](http://twitter.com/search?q=%e3%83%80%e3%83%8e%e3%83%b3%e3%82%b6%e3%82%ad%e3%83%83%e3%83%89) | N/A |
+| 49 | [ホソクさん](http://twitter.com/search?q=%e3%83%9b%e3%82%bd%e3%82%af%e3%81%95%e3%82%93) | N/A |
+| 50 | [Schönen Sonntag](http://twitter.com/search?q=Sch%c3%b6nen+Sonntag) | "Schönen Sonntag" is a German phrase that translates to "Have a nice Sunday" in English. It is a common greeting used to wish someone a pleasant day on Sunday. |
 
 
 
