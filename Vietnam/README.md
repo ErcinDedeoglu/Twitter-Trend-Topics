@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vietnam
 
-📆 Last Updated: `2023-02-26 21:16:45 UTC`
+📆 Last Updated: `2023-02-26 22:16:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,20 +27,20 @@ This is top 50 for Vietnam
 | 10 | [RMILAN FASHION WEEK](http://twitter.com/search?q=RMILAN+FASHION+WEEK) | N/A |
 | 11 | [TENLEE 27th BDAY](http://twitter.com/search?q=TENLEE+27th+BDAY) | N/A |
 | 12 | [j-hope fashion king](http://twitter.com/search?q=j-hope+fashion+king) | N/A |
-| 13 | [SYNK WITH AESPA DAY2](http://twitter.com/search?q=SYNK+WITH+AESPA+DAY2) | N/A |
+| 13 | [synk with aespa day2](http://twitter.com/search?q=synk+with+aespa+day2) | N/A |
 | 14 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
 | 15 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 16 | [better treatment for irene](http://twitter.com/search?q=better+treatment+for+irene) | N/A |
+| 16 | [BETTER TREATMENT FOR IRENE](http://twitter.com/search?q=BETTER+TREATMENT+FOR+IRENE) | N/A |
 | 17 | [Pete](http://twitter.com/search?q=Pete) | Pete is a nickname for the name Peter. It is derived from the Greek word "petros" which means "rock". |
 | 18 | [My Address](http://twitter.com/search?q=My+Address) | N/A |
 | 19 | [Paris Fashion Week](http://twitter.com/search?q=Paris+Fashion+Week) | N/A |
 | 20 | [Paris Time](http://twitter.com/search?q=Paris+Time) | N/A |
 | 21 | [Valentino - WINWIN](http://twitter.com/search?q=Valentino+-+WINWIN) | N/A |
-| 22 | [Freen](http://twitter.com/search?q=Freen) | N/A |
-| 23 | [jennie](http://twitter.com/search?q=jennie) | N/A |
-| 24 | [Yuehua](http://twitter.com/search?q=Yuehua) | N/A |
-| 25 | [Twitch](http://twitter.com/search?q=Twitch) | N/A |
-| 26 | [oh hanbin](http://twitter.com/search?q=oh+hanbin) | N/A |
+| 22 | [Jennie](http://twitter.com/search?q=Jennie) | Jennie is a female given name, derived from the name Jennifer. It is a diminutive form of Jennifer, which means "white wave" or "fair one". |
+| 23 | [Yuehua](http://twitter.com/search?q=Yuehua) | N/A |
+| 24 | [Twitch](http://twitter.com/search?q=Twitch) | N/A |
+| 25 | [oh hanbin](http://twitter.com/search?q=oh+hanbin) | N/A |
+| 26 | [Freen](http://twitter.com/search?q=Freen) | N/A |
 | 27 | [đông](http://twitter.com/search?q=%c4%91%c3%b4ng) | N/A |
 | 28 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
 | 29 | [joong](http://twitter.com/search?q=joong) | N/A |
@@ -50,18 +50,17 @@ This is top 50 for Vietnam
 | 33 | [wormholes](http://twitter.com/search?q=wormholes) | N/A |
 | 34 | [s-nft](http://twitter.com/search?q=s-nft) | N/A |
 | 35 | [chời](http://twitter.com/search?q=ch%e1%bb%9di) | N/A |
-| 36 | [ENGFA WARAHA](http://twitter.com/search?q=ENGFA+WARAHA) | ENGFA WARAHA is a phrase in the Somali language that translates to "may peace be upon you." It is a common greeting used to wish someone peace and goodwill. |
+| 36 | [engfa waraha](http://twitter.com/search?q=engfa+waraha) | N/A |
 | 37 | [Cong](http://twitter.com/search?q=Cong) | N/A |
 | 38 | [Thái](http://twitter.com/search?q=Th%c3%a1i) | N/A |
 | 39 | [mỹ diệu](http://twitter.com/search?q=m%e1%bb%b9+di%e1%bb%87u) | N/A |
 | 40 | [Chúc](http://twitter.com/search?q=Ch%c3%bac) | N/A |
-| 41 | [#biutheblueprince](http://twitter.com/search?q=%23biutheblueprince) | N/A |
-| 42 | [#BottegaVeneta_RM](http://twitter.com/search?q=%23BottegaVeneta_RM) | N/A |
-| 43 | [#buildxmommae](http://twitter.com/search?q=%23buildxmommae) | N/A |
-| 44 | [#TheEndofKinnPorsche](http://twitter.com/search?q=%23TheEndofKinnPorsche) | N/A |
-| 45 | [#템페스트](http://twitter.com/search?q=%23%ed%85%9c%ed%8e%98%ec%8a%a4%ed%8a%b8) | N/A |
-| 46 | [#HAPPYTENDAY](http://twitter.com/search?q=%23HAPPYTENDAY) | N/A |
-| 47 | [#aespa1stConcertSYNK_HYPERLINE](http://twitter.com/search?q=%23aespa1stConcertSYNK_HYPERLINE) | N/A |
+| 41 | [Chào](http://twitter.com/search?q=Ch%c3%a0o) | N/A |
+| 42 | [#biutheblueprince](http://twitter.com/search?q=%23biutheblueprince) | N/A |
+| 43 | [#BottegaVeneta_RM](http://twitter.com/search?q=%23BottegaVeneta_RM) | N/A |
+| 44 | [#buildxmommae](http://twitter.com/search?q=%23buildxmommae) | N/A |
+| 45 | [#TheEndofKinnPorsche](http://twitter.com/search?q=%23TheEndofKinnPorsche) | N/A |
+| 46 | [#템페스트](http://twitter.com/search?q=%23%ed%85%9c%ed%8e%98%ec%8a%a4%ed%8a%b8) | N/A |
 
 
 

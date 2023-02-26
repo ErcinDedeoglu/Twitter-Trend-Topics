@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gdańsk
 
-📆 Last Updated: `2023-02-26 21:15:59 UTC`
+📆 Last Updated: `2023-02-26 22:16:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,46 +17,54 @@ This is top 50 for [Poland](</Poland>)
 | ------- | ------------ | ------------ |
 | 1 | [#tubijeserceeuropy](http://twitter.com/search?q=%23tubijeserceeuropy) | N/A |
 | 2 | [#Eurovision](http://twitter.com/search?q=%23Eurovision) | N/A |
-| 3 | [Blanka](http://twitter.com/search?q=Blanka) | N/A |
-| 4 | [Jann](http://twitter.com/search?q=Jann) | N/A |
-| 5 | [#strefastarcia](http://twitter.com/search?q=%23strefastarcia) | N/A |
-| 6 | [Eurowizji](http://twitter.com/search?q=Eurowizji) | N/A |
-| 7 | [#ŚLĄLPO](http://twitter.com/search?q=%23%c5%9aL%c4%84LPO) | N/A |
-| 8 | [#krwawaropa](http://twitter.com/search?q=%23krwawaropa) | N/A |
-| 9 | [Zupa](http://twitter.com/search?q=Zupa) | N/A |
-| 10 | [Almerią](http://twitter.com/search?q=Almeri%c4%85) | N/A |
-| 11 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 12 | [Milanu](http://twitter.com/search?q=Milanu) | N/A |
-| 13 | [Marchwiński](http://twitter.com/search?q=Marchwi%c5%84ski) | N/A |
-| 14 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 15 | [Marchewa](http://twitter.com/search?q=Marchewa) | N/A |
-| 16 | [Amarala](http://twitter.com/search?q=Amarala) | N/A |
-| 17 | [Śląskiem](http://twitter.com/search?q=%c5%9al%c4%85skiem) | N/A |
-| 18 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 19 | [Alicji](http://twitter.com/search?q=Alicji) | N/A |
-| 20 | [Felivers](http://twitter.com/search?q=Felivers) | N/A |
-| 21 | [Pinokio](http://twitter.com/search?q=Pinokio) | N/A |
-| 22 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
-| 23 | [Brom](http://twitter.com/search?q=Brom) | N/A |
-| 24 | [Roberto](http://twitter.com/search?q=Roberto) | N/A |
-| 25 | [Lechem](http://twitter.com/search?q=Lechem) | N/A |
-| 26 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 27 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 28 | [Bachmut](http://twitter.com/search?q=Bachmut) | N/A |
-| 29 | [Łukaszenka](http://twitter.com/search?q=%c5%81ukaszenka) | N/A |
-| 30 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 31 | [Dominik](http://twitter.com/search?q=Dominik) | Dominik is a masculine given name of Latin origin, derived from the word "Dominicus" meaning "belonging to the Lord". It is a popular name in many countries, including Germany, Poland, Slovakia, and the Czech Republic. |
-| 32 | [Marsylii](http://twitter.com/search?q=Marsylii) | N/A |
-| 33 | [Lechu](http://twitter.com/search?q=Lechu) | N/A |
-| 34 | [Nitrasa](http://twitter.com/search?q=Nitrasa) | N/A |
-| 35 | [Ruch](http://twitter.com/search?q=Ruch) | N/A |
-| 36 | [#Minela20](http://twitter.com/search?q=%23Minela20) | N/A |
-| 37 | [#MUNNEW](http://twitter.com/search?q=%23MUNNEW) | N/A |
-| 38 | [#włoskarobota](http://twitter.com/search?q=%23w%c5%82oskarobota) | N/A |
-| 39 | [#genzie](http://twitter.com/search?q=%23genzie) | N/A |
-| 40 | [#CarabaoCup](http://twitter.com/search?q=%23CarabaoCup) | #CarabaoCup is the official hashtag for the English Football League Cup, a knockout competition for teams in the top four tiers of English football. The competition is sponsored by Carabao, an energy drink company. |
-| 41 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
-| 42 | [#GOATsoe](http://twitter.com/search?q=%23GOATsoe) | N/A |
+| 3 | [#krwawaropa](http://twitter.com/search?q=%23krwawaropa) | N/A |
+| 4 | [#strefastarcia](http://twitter.com/search?q=%23strefastarcia) | N/A |
+| 5 | [Jann](http://twitter.com/search?q=Jann) | N/A |
+| 6 | [Orlen](http://twitter.com/search?q=Orlen) | N/A |
+| 7 | [#skijumpingfamily](http://twitter.com/search?q=%23skijumpingfamily) | N/A |
+| 8 | [Blanka](http://twitter.com/search?q=Blanka) | N/A |
+| 9 | [Eurowizji](http://twitter.com/search?q=Eurowizji) | N/A |
+| 10 | [Piotr Żyła](http://twitter.com/search?q=Piotr+%c5%bby%c5%82a) | N/A |
+| 11 | [Makabu](http://twitter.com/search?q=Makabu) | N/A |
+| 12 | [Morderstwo](http://twitter.com/search?q=Morderstwo) | N/A |
+| 13 | [Obajtek](http://twitter.com/search?q=Obajtek) | N/A |
+| 14 | [Zupa](http://twitter.com/search?q=Zupa) | N/A |
+| 15 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 16 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
+| 17 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 18 | [Zupy](http://twitter.com/search?q=Zupy) | N/A |
+| 19 | [Napieralski](http://twitter.com/search?q=Napieralski) | N/A |
+| 20 | [Marchewa](http://twitter.com/search?q=Marchewa) | N/A |
+| 21 | [Alicja](http://twitter.com/search?q=Alicja) | N/A |
+| 22 | [Felivers](http://twitter.com/search?q=Felivers) | N/A |
+| 23 | [Marsylii](http://twitter.com/search?q=Marsylii) | N/A |
+| 24 | [ziyecha](http://twitter.com/search?q=ziyecha) | N/A |
+| 25 | [Almeria](http://twitter.com/search?q=Almeria) | N/A |
+| 26 | [Natasza](http://twitter.com/search?q=Natasza) | N/A |
+| 27 | [Ukrainę](http://twitter.com/search?q=Ukrain%c4%99) | N/A |
+| 28 | [Kropiwnicki](http://twitter.com/search?q=Kropiwnicki) | N/A |
+| 29 | [Marchwiński](http://twitter.com/search?q=Marchwi%c5%84ski) | N/A |
+| 30 | [Hubert Hurkacz](http://twitter.com/search?q=Hubert+Hurkacz) | N/A |
+| 31 | [Wątróbka](http://twitter.com/search?q=W%c4%85tr%c3%b3bka) | N/A |
+| 32 | [Lotos](http://twitter.com/search?q=Lotos) | N/A |
+| 33 | [Holec](http://twitter.com/search?q=Holec) | N/A |
+| 34 | [Amaral](http://twitter.com/search?q=Amaral) | N/A |
+| 35 | [Hobiego](http://twitter.com/search?q=Hobiego) | N/A |
+| 36 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 37 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 38 | [Gdula](http://twitter.com/search?q=Gdula) | N/A |
+| 39 | [Edyta Górniak](http://twitter.com/search?q=Edyta+G%c3%b3rniak) | N/A |
+| 40 | [Jankowski](http://twitter.com/search?q=Jankowski) | N/A |
+| 41 | [Murawski](http://twitter.com/search?q=Murawski) | N/A |
+| 42 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 43 | [Kliczko](http://twitter.com/search?q=Kliczko) | N/A |
+| 44 | [ZAKSA](http://twitter.com/search?q=ZAKSA) | N/A |
+| 45 | [Yeboah](http://twitter.com/search?q=Yeboah) | N/A |
+| 46 | [Rebocho](http://twitter.com/search?q=Rebocho) | N/A |
+| 47 | [Śląska](http://twitter.com/search?q=%c5%9al%c4%85ska) | N/A |
+| 48 | [Piotrek](http://twitter.com/search?q=Piotrek) | N/A |
+| 49 | [Piotrka](http://twitter.com/search?q=Piotrka) | N/A |
+| 50 | [Dominik Dudek](http://twitter.com/search?q=Dominik+Dudek) | N/A |
 
 
 

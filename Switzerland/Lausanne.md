@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lausanne
 
-📆 Last Updated: `2023-02-26 21:16:07 UTC`
+📆 Last Updated: `2023-02-26 22:16:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -46,23 +46,23 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 29 | [Sofa](http://twitter.com/search?q=Sofa) | N/A |
 | 30 | [Framing](http://twitter.com/search?q=Framing) | N/A |
 | 31 | [Army](http://twitter.com/search?q=Army) | N/A |
-| 32 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
+| 32 | [Andy](http://twitter.com/search?q=Andy) | N/A |
 | 33 | [Stuss](http://twitter.com/search?q=Stuss) | N/A |
 | 34 | [FC SIon](http://twitter.com/search?q=FC+SIon) | N/A |
 | 35 | [Strategie](http://twitter.com/search?q=Strategie) | N/A |
-| 36 | [Genève](http://twitter.com/search?q=Gen%c3%a8ve) | N/A |
-| 37 | [Jaaa](http://twitter.com/search?q=Jaaa) | N/A |
-| 38 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 39 | [Argumente](http://twitter.com/search?q=Argumente) | N/A |
-| 40 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 41 | [Andy](http://twitter.com/search?q=Andy) | N/A |
-| 42 | [Solidarität](http://twitter.com/search?q=Solidarit%c3%a4t) | N/A |
-| 43 | [Cassis](http://twitter.com/search?q=Cassis) | N/A |
-| 44 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
-| 45 | [Zuwanderung](http://twitter.com/search?q=Zuwanderung) | N/A |
-| 46 | [Sorgen](http://twitter.com/search?q=Sorgen) | N/A |
-| 47 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 48 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 36 | [Jaaa](http://twitter.com/search?q=Jaaa) | N/A |
+| 37 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 38 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
+| 39 | [Solidarität](http://twitter.com/search?q=Solidarit%c3%a4t) | N/A |
+| 40 | [Cassis](http://twitter.com/search?q=Cassis) | N/A |
+| 41 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
+| 42 | [Zuwanderung](http://twitter.com/search?q=Zuwanderung) | N/A |
+| 43 | [Sorgen](http://twitter.com/search?q=Sorgen) | N/A |
+| 44 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 45 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 46 | [Gemeinderat](http://twitter.com/search?q=Gemeinderat) | N/A |
+| 47 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 48 | [Argumente](http://twitter.com/search?q=Argumente) | N/A |
 
 
 

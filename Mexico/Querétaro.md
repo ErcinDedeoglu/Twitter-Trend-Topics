@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Querétaro
 
-📆 Last Updated: `2023-02-26 21:15:54 UTC`
+📆 Last Updated: `2023-02-26 22:16:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Mexico](</Mexico>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Querétaro](http://twitter.com/search?q=Quer%c3%a9taro) | N/A |
-| 2 | [#ElINENoSeToca](http://twitter.com/search?q=%23ElINENoSeToca) | N/A |
-| 3 | [#MarchaINE](http://twitter.com/search?q=%23MarchaINE) | N/A |
-| 4 | [#MiVotoNoSeToca](http://twitter.com/search?q=%23MiVotoNoSeToca) | N/A |
-| 5 | [Zócalo](http://twitter.com/search?q=Z%c3%b3calo) | N/A |
-| 6 | [Ronaldinho](http://twitter.com/search?q=Ronaldinho) | N/A |
-| 7 | [#MiVotoSeRespeta](http://twitter.com/search?q=%23MiVotoSeRespeta) | N/A |
-| 8 | [Viva México](http://twitter.com/search?q=Viva+M%c3%a9xico) | N/A |
-| 9 | [#YoDefiendoAlINE](http://twitter.com/search?q=%23YoDefiendoAlINE) | N/A |
-| 10 | [Almería](http://twitter.com/search?q=Almer%c3%ada) | Almería is a city in the southeastern region of Spain. It is the capital of the province of Almería and is located on the Mediterranean Sea. In English, Almería means "The Watchtower". |
-| 11 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 12 | [Farsa](http://twitter.com/search?q=Farsa) | N/A |
-| 13 | [Batres](http://twitter.com/search?q=Batres) | N/A |
-| 14 | [Vitacilina](http://twitter.com/search?q=Vitacilina) | N/A |
-| 15 | [Photoshop](http://twitter.com/search?q=Photoshop) | N/A |
-| 16 | [Democracia](http://twitter.com/search?q=Democracia) | Democracia is a Spanish word meaning democracy. It is used to refer to a system of government in which the people have the power to choose their leaders through free and fair elections. Democracia is based on the principle of majority rule, with the majority of citizens having a say in how their country is run. |
-| 17 | [Plan B](http://twitter.com/search?q=Plan+B) | N/A |
-| 18 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
-| 19 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
-| 20 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 21 | [Himno Nacional](http://twitter.com/search?q=Himno+Nacional) | N/A |
-| 22 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 23 | [Pablo Torre](http://twitter.com/search?q=Pablo+Torre) | Pablo Torre is a sports journalist and television personality who works for ESPN. He is known for his coverage of the NBA, NFL, and college basketball. The name "Pablo Torre" is derived from the Spanish words "pablo" (meaning "small") and "torre" (meaning "tower"). |
-| 24 | [Acarreados](http://twitter.com/search?q=Acarreados) | N/A |
-| 25 | [Ardido](http://twitter.com/search?q=Ardido) | N/A |
-| 26 | [Beatriz Pagés](http://twitter.com/search?q=Beatriz+Pag%c3%a9s) | N/A |
-| 27 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 28 | [Grupo Firme](http://twitter.com/search?q=Grupo+Firme) | N/A |
-| 29 | [Don Ángel](http://twitter.com/search?q=Don+%c3%81ngel) | N/A |
-| 30 | [Palacio Nacional](http://twitter.com/search?q=Palacio+Nacional) | N/A |
-| 31 | [Theo](http://twitter.com/search?q=Theo) | N/A |
-| 32 | [Plaza de la Constitución](http://twitter.com/search?q=Plaza+de+la+Constituci%c3%b3n) | N/A |
-| 33 | [Fuera López](http://twitter.com/search?q=Fuera+L%c3%b3pez) | N/A |
-| 34 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 35 | [José Ramón Cossío](http://twitter.com/search?q=Jos%c3%a9+Ram%c3%b3n+Coss%c3%ado) | N/A |
-| 36 | [Isalia](http://twitter.com/search?q=Isalia) | N/A |
-| 37 | [Palenque](http://twitter.com/search?q=Palenque) | N/A |
-| 38 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 39 | [Desde Guadalajara](http://twitter.com/search?q=Desde+Guadalajara) | N/A |
-| 40 | [Mario Delgado](http://twitter.com/search?q=Mario+Delgado) | N/A |
-| 41 | [Plaza de Armas](http://twitter.com/search?q=Plaza+de+Armas) | N/A |
-| 42 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
-| 43 | [Dodos](http://twitter.com/search?q=Dodos) | N/A |
-| 44 | [Instituto Nacional Electoral](http://twitter.com/search?q=Instituto+Nacional+Electoral) | N/A |
-| 45 | [En Guadalajara](http://twitter.com/search?q=En+Guadalajara) | N/A |
-| 46 | [Macroplaza](http://twitter.com/search?q=Macroplaza) | N/A |
-| 47 | [Vamos México](http://twitter.com/search?q=Vamos+M%c3%a9xico) | N/A |
-| 48 | [ON THE STREET IS COMING](http://twitter.com/search?q=ON+THE+STREET+IS+COMING) | N/A |
-| 49 | [En 2024](http://twitter.com/search?q=En+2024) | N/A |
-| 50 | [Defendiendo](http://twitter.com/search?q=Defendiendo) | N/A |
+| 2 | [Plaza de Armas](http://twitter.com/search?q=Plaza+de+Armas) | N/A |
+| 3 | [#ElINENoSeToca](http://twitter.com/search?q=%23ElINENoSeToca) | N/A |
+| 4 | [#MarchaINE](http://twitter.com/search?q=%23MarchaINE) | N/A |
+| 5 | [#MiVotoNoSeToca](http://twitter.com/search?q=%23MiVotoNoSeToca) | N/A |
+| 6 | [Zócalo](http://twitter.com/search?q=Z%c3%b3calo) | N/A |
+| 7 | [Ronaldinho](http://twitter.com/search?q=Ronaldinho) | N/A |
+| 8 | [#KingsLeague](http://twitter.com/search?q=%23KingsLeague) | N/A |
+| 9 | [Viva México](http://twitter.com/search?q=Viva+M%c3%a9xico) | N/A |
+| 10 | [#YoDefiendoAlINE](http://twitter.com/search?q=%23YoDefiendoAlINE) | N/A |
+| 11 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
+| 12 | [Vitacilina](http://twitter.com/search?q=Vitacilina) | N/A |
+| 13 | [PIO FC](http://twitter.com/search?q=PIO+FC) | N/A |
+| 14 | [Pioneta](http://twitter.com/search?q=Pioneta) | N/A |
+| 15 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
+| 16 | [Almería](http://twitter.com/search?q=Almer%c3%ada) | Almería is a city in the southeastern region of Spain. It is the capital of the province of Almería and is located on the Mediterranean Sea. In English, Almería means "The Watchtower". |
+| 17 | [Farsa](http://twitter.com/search?q=Farsa) | N/A |
+| 18 | [Plan B](http://twitter.com/search?q=Plan+B) | N/A |
+| 19 | [Democracia](http://twitter.com/search?q=Democracia) | Democracia is a Spanish word meaning democracy. It is used to refer to a system of government in which the people have the power to choose their leaders through free and fair elections. Democracia is based on the principle of majority rule, with the majority of citizens having a say in how their country is run. |
+| 20 | [Batres](http://twitter.com/search?q=Batres) | N/A |
+| 21 | [Photoshop](http://twitter.com/search?q=Photoshop) | N/A |
+| 22 | [Himno Nacional](http://twitter.com/search?q=Himno+Nacional) | N/A |
+| 23 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
+| 24 | [Fuera López](http://twitter.com/search?q=Fuera+L%c3%b3pez) | N/A |
+| 25 | [Palenque](http://twitter.com/search?q=Palenque) | N/A |
+| 26 | [Isalia](http://twitter.com/search?q=Isalia) | N/A |
+| 27 | [Ardido](http://twitter.com/search?q=Ardido) | N/A |
+| 28 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 29 | [Mario Delgado](http://twitter.com/search?q=Mario+Delgado) | N/A |
+| 30 | [Acarreados](http://twitter.com/search?q=Acarreados) | N/A |
+| 31 | [Grupo Firme](http://twitter.com/search?q=Grupo+Firme) | N/A |
+| 32 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
+| 33 | [Marsella](http://twitter.com/search?q=Marsella) | N/A |
+| 34 | [Don Ángel](http://twitter.com/search?q=Don+%c3%81ngel) | N/A |
+| 35 | [Beatriz Pagés](http://twitter.com/search?q=Beatriz+Pag%c3%a9s) | N/A |
+| 36 | [Palacio Nacional](http://twitter.com/search?q=Palacio+Nacional) | N/A |
+| 37 | [Plaza de la Constitución](http://twitter.com/search?q=Plaza+de+la+Constituci%c3%b3n) | N/A |
+| 38 | [Theo](http://twitter.com/search?q=Theo) | N/A |
+| 39 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 40 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 41 | [Pablo Torre](http://twitter.com/search?q=Pablo+Torre) | Pablo Torre is a sports journalist and television personality who works for ESPN. He is known for his coverage of the NBA, NFL, and college basketball. The name "Pablo Torre" is derived from the Spanish words "pablo" (meaning "small") and "torre" (meaning "tower"). |
+| 42 | [En Guadalajara](http://twitter.com/search?q=En+Guadalajara) | N/A |
+| 43 | [Desde Guadalajara](http://twitter.com/search?q=Desde+Guadalajara) | N/A |
+| 44 | [Sergi](http://twitter.com/search?q=Sergi) | N/A |
+| 45 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 46 | [José Ramón Cossío](http://twitter.com/search?q=Jos%c3%a9+Ram%c3%b3n+Coss%c3%ado) | N/A |
+| 47 | [Fifis](http://twitter.com/search?q=Fifis) | N/A |
+| 48 | [Instituto Nacional Electoral](http://twitter.com/search?q=Instituto+Nacional+Electoral) | N/A |
+| 49 | [Robo](http://twitter.com/search?q=Robo) | N/A |
+| 50 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
 
 
 

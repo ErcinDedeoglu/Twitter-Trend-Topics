@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-02-26 21:16:44 UTC`
+📆 Last Updated: `2023-02-26 22:16:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,8 +16,8 @@ This is top 50 for Switzerland
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#OMPSG](http://twitter.com/search?q=%23OMPSG) | N/A |
-| 2 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 3 | [#Tatort](http://twitter.com/search?q=%23Tatort) | N/A |
+| 2 | [#Tatort](http://twitter.com/search?q=%23Tatort) | N/A |
+| 3 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 4 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
 | 5 | [#WSMDS](http://twitter.com/search?q=%23WSMDS) | N/A |
 | 6 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
@@ -35,8 +35,8 @@ This is top 50 for Switzerland
 | 18 | [Lomepal](http://twitter.com/search?q=Lomepal) | N/A |
 | 19 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
 | 20 | [Servette](http://twitter.com/search?q=Servette) | N/A |
-| 21 | [Köppel](http://twitter.com/search?q=K%c3%b6ppel) | N/A |
-| 22 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
+| 21 | [Almeria](http://twitter.com/search?q=Almeria) | N/A |
+| 22 | [Köppel](http://twitter.com/search?q=K%c3%b6ppel) | N/A |
 | 23 | [Bauern](http://twitter.com/search?q=Bauern) | N/A |
 | 24 | [Seite der Geschichte](http://twitter.com/search?q=Seite+der+Geschichte) | N/A |
 | 25 | [Gerechtigkeit](http://twitter.com/search?q=Gerechtigkeit) | N/A |
@@ -46,25 +46,25 @@ This is top 50 for Switzerland
 | 29 | [Sofa](http://twitter.com/search?q=Sofa) | N/A |
 | 30 | [Framing](http://twitter.com/search?q=Framing) | N/A |
 | 31 | [Army](http://twitter.com/search?q=Army) | N/A |
-| 32 | [Stuss](http://twitter.com/search?q=Stuss) | N/A |
-| 33 | [FC SIon](http://twitter.com/search?q=FC+SIon) | N/A |
-| 34 | [Strategie](http://twitter.com/search?q=Strategie) | N/A |
-| 35 | [Genève](http://twitter.com/search?q=Gen%c3%a8ve) | N/A |
+| 32 | [Andy](http://twitter.com/search?q=Andy) | N/A |
+| 33 | [Stuss](http://twitter.com/search?q=Stuss) | N/A |
+| 34 | [FC SIon](http://twitter.com/search?q=FC+SIon) | N/A |
+| 35 | [Strategie](http://twitter.com/search?q=Strategie) | N/A |
 | 36 | [Jaaa](http://twitter.com/search?q=Jaaa) | N/A |
 | 37 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 38 | [Argumente](http://twitter.com/search?q=Argumente) | N/A |
-| 39 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
-| 40 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 41 | [Andy](http://twitter.com/search?q=Andy) | N/A |
-| 42 | [Solidarität](http://twitter.com/search?q=Solidarit%c3%a4t) | N/A |
-| 43 | [Cassis](http://twitter.com/search?q=Cassis) | N/A |
-| 44 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
-| 45 | [Zuwanderung](http://twitter.com/search?q=Zuwanderung) | N/A |
-| 46 | [Sorgen](http://twitter.com/search?q=Sorgen) | N/A |
-| 47 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 48 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 49 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 50 | [Gemeinderat](http://twitter.com/search?q=Gemeinderat) | N/A |
+| 38 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
+| 39 | [Solidarität](http://twitter.com/search?q=Solidarit%c3%a4t) | N/A |
+| 40 | [Cassis](http://twitter.com/search?q=Cassis) | N/A |
+| 41 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
+| 42 | [Sorgen](http://twitter.com/search?q=Sorgen) | N/A |
+| 43 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 44 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 45 | [Gemeinderat](http://twitter.com/search?q=Gemeinderat) | N/A |
+| 46 | [Zuwanderung](http://twitter.com/search?q=Zuwanderung) | N/A |
+| 47 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 48 | [Argumente](http://twitter.com/search?q=Argumente) | N/A |
+| 49 | [Wallis](http://twitter.com/search?q=Wallis) | N/A |
+| 50 | [Politikern](http://twitter.com/search?q=Politikern) | N/A |
 
 
 

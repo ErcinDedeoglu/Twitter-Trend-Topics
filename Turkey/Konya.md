@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Konya
 
-📆 Last Updated: `2023-02-26 21:16:28 UTC`
+📆 Last Updated: `2023-02-26 22:16:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Turkey](</Turkey>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Beşiktaş](http://twitter.com/search?q=Be%c5%9fikta%c5%9f) | Beşiktaş is a Turkish sports club based in Istanbul, Turkey. The name Beşiktaş translates to "cradle stone" in English. The club is best known for its football team, which competes in the Turkish Super League and is one of the most successful clubs in Turkey. |
-| 2 | [#VodafonePark](http://twitter.com/search?q=%23VodafonePark) | N/A |
-| 3 | [#RecepTayyipErdogan](http://twitter.com/search?q=%23RecepTayyipErdogan) | N/A |
-| 4 | [#protesto](http://twitter.com/search?q=%23protesto) | N/A |
-| 5 | [#yargı](http://twitter.com/search?q=%23yarg%c4%b1) | N/A |
-| 6 | [Kayserispor](http://twitter.com/search?q=Kayserispor) | N/A |
-| 7 | [Engin Aksoy](http://twitter.com/search?q=Engin+Aksoy) | N/A |
-| 8 | [Konyaspor](http://twitter.com/search?q=Konyaspor) | N/A |
-| 9 | [Rıdvan](http://twitter.com/search?q=R%c4%b1dvan) | Rıdvan is a Turkish name derived from the Arabic word “Ridwan”, which means “pleasure” or “contentment”. It is also used as a given name in many other cultures, including Arabic, Persian, and Urdu. |
-| 10 | [Necmettin Erbakan](http://twitter.com/search?q=Necmettin+Erbakan) | N/A |
-| 11 | [Zillet](http://twitter.com/search?q=Zillet) | N/A |
-| 12 | [Çarşı](http://twitter.com/search?q=%c3%87ar%c5%9f%c4%b1) | N/A |
-| 13 | [Darısı](http://twitter.com/search?q=Dar%c4%b1s%c4%b1) | N/A |
-| 14 | [İT ÜRÜR KERVAN YÜRÜR](http://twitter.com/search?q=%c4%b0T+%c3%9cR%c3%9cR+KERVAN+Y%c3%9cR%c3%9cR) | N/A |
-| 15 | [BilirOBeni ElSed](http://twitter.com/search?q=BilirOBeni+ElSed) | N/A |
-| 16 | [Pogba](http://twitter.com/search?q=Pogba) | Pogba is a nickname for the French professional footballer Paul Pogba. It is derived from his last name and is often used as a term of endearment by his fans. |
-| 17 | [Sinan Ateş](http://twitter.com/search?q=Sinan+Ate%c5%9f) | N/A |
+| 2 | [Pervin Buldan](http://twitter.com/search?q=Pervin+Buldan) | N/A |
+| 3 | [#protesto](http://twitter.com/search?q=%23protesto) | N/A |
+| 4 | [#VodafonePark](http://twitter.com/search?q=%23VodafonePark) | N/A |
+| 5 | [#RecepTayyipErdogan](http://twitter.com/search?q=%23RecepTayyipErdogan) | N/A |
+| 6 | [#13marttayuzyuze](http://twitter.com/search?q=%2313marttayuzyuze) | N/A |
+| 7 | [Kayserispor](http://twitter.com/search?q=Kayserispor) | N/A |
+| 8 | [Pogba](http://twitter.com/search?q=Pogba) | Pogba is a nickname for the French professional footballer Paul Pogba. It is derived from his last name and is often used as a term of endearment by his fans. |
+| 9 | [Konyaspor](http://twitter.com/search?q=Konyaspor) | N/A |
+| 10 | [Çarşı](http://twitter.com/search?q=%c3%87ar%c5%9f%c4%b1) | N/A |
+| 11 | [Rıdvan](http://twitter.com/search?q=R%c4%b1dvan) | Rıdvan is a Turkish name derived from the Arabic word “Ridwan”, which means “pleasure” or “contentment”. It is also used as a given name in many other cultures, including Arabic, Persian, and Urdu. |
+| 12 | [Zillet](http://twitter.com/search?q=Zillet) | N/A |
+| 13 | [Engin Aksoy](http://twitter.com/search?q=Engin+Aksoy) | N/A |
+| 14 | [BilirOBeni ElSed](http://twitter.com/search?q=BilirOBeni+ElSed) | N/A |
+| 15 | [İT ÜRÜR KERVAN YÜRÜR](http://twitter.com/search?q=%c4%b0T+%c3%9cR%c3%9cR+KERVAN+Y%c3%9cR%c3%9cR) | N/A |
+| 16 | [Sinan Ateş](http://twitter.com/search?q=Sinan+Ate%c5%9f) | N/A |
+| 17 | [YapıKayıtı ReisÇözer](http://twitter.com/search?q=Yap%c4%b1Kay%c4%b1t%c4%b1+Reis%c3%87%c3%b6zer) | N/A |
 | 18 | [İsabet](http://twitter.com/search?q=%c4%b0sabet) | N/A |
-| 19 | [YapıKayıtı ReisÇözer](http://twitter.com/search?q=Yap%c4%b1Kay%c4%b1t%c4%b1+Reis%c3%87%c3%b6zer) | N/A |
+| 19 | [Alanyaspor](http://twitter.com/search?q=Alanyaspor) | N/A |
 | 20 | [AldatırOBeni Elsed](http://twitter.com/search?q=Aldat%c4%b1rOBeni+Elsed) | N/A |
-| 21 | [BİR BAŞKADIR BENİM MEMLEKETİM](http://twitter.com/search?q=B%c4%b0R+BA%c5%9eKADIR+BEN%c4%b0M+MEMLEKET%c4%b0M) | N/A |
-| 22 | [Şenol Güneş](http://twitter.com/search?q=%c5%9eenol+G%c3%bcne%c5%9f) | Şenol Güneş is a Turkish football manager and former player. He is currently the manager of the Turkish national team. In English, his name translates to "Joyful Sun". |
-| 23 | [Dün Fenerbahçe](http://twitter.com/search?q=D%c3%bcn+Fenerbah%c3%a7e) | N/A |
-| 24 | [Ahmet Nur Çebi](http://twitter.com/search?q=Ahmet+Nur+%c3%87ebi) | Ahmet Nur Çebi is a Turkish name. It is composed of two given names, Ahmet and Nur, and the surname Çebi. In English, it would be translated as "Ahmet Light of the Moon Çebi". |
-| 25 | [Mustafa Kemal'in Askerleriyiz](http://twitter.com/search?q=Mustafa+Kemal%27in+Askerleriyiz) | N/A |
-| 26 | [Cenk](http://twitter.com/search?q=Cenk) | Cenk is a Turkish name derived from the word "genç" which means "youthful". It is also used as a nickname for people named Cengiz, meaning "strong one". |
-| 27 | [Çokta](http://twitter.com/search?q=%c3%87okta) | N/A |
-| 28 | [Kulüp](http://twitter.com/search?q=Kul%c3%bcp) | N/A |
-| 29 | [Semih Yalçın](http://twitter.com/search?q=Semih+Yal%c3%a7%c4%b1n) | N/A |
-| 30 | [Tribün](http://twitter.com/search?q=Trib%c3%bcn) | N/A |
-| 31 | [Alanyaspor](http://twitter.com/search?q=Alanyaspor) | N/A |
-| 32 | [Taraftar](http://twitter.com/search?q=Taraftar) | N/A |
-| 33 | [Elbistan Şehir Olsun](http://twitter.com/search?q=Elbistan+%c5%9eehir+Olsun) | N/A |
-| 34 | [Demokratik](http://twitter.com/search?q=Demokratik) | N/A |
-| 35 | [Haftaya](http://twitter.com/search?q=Haftaya) | N/A |
-| 36 | [Camide](http://twitter.com/search?q=Camide) | N/A |
-| 37 | [Siyaset](http://twitter.com/search?q=Siyaset) | N/A |
-| 38 | [Mert](http://twitter.com/search?q=Mert) | Mert is a Turkish name derived from the Arabic word for “blessed”. It is also used as a surname in some parts of the world. In English, it can be translated to mean “blessed” or “fortunate”. |
-| 39 | [Süleyman Seba](http://twitter.com/search?q=S%c3%bcleyman+Seba) | N/A |
-| 40 | [Yallah](http://twitter.com/search?q=Yallah) | N/A |
-| 41 | [Ahmet Çakar](http://twitter.com/search?q=Ahmet+%c3%87akar) | N/A |
-| 42 | [Gezi](http://twitter.com/search?q=Gezi) | N/A |
+| 21 | [Darısı](http://twitter.com/search?q=Dar%c4%b1s%c4%b1) | N/A |
+| 22 | [Semih Yalçın](http://twitter.com/search?q=Semih+Yal%c3%a7%c4%b1n) | N/A |
+| 23 | [Mustafa Kemal'in Askerleriyiz](http://twitter.com/search?q=Mustafa+Kemal%27in+Askerleriyiz) | N/A |
+| 24 | [BİR BAŞKADIR BENİM MEMLEKETİM](http://twitter.com/search?q=B%c4%b0R+BA%c5%9eKADIR+BEN%c4%b0M+MEMLEKET%c4%b0M) | N/A |
+| 25 | [Camide](http://twitter.com/search?q=Camide) | N/A |
+| 26 | [Dün Fenerbahçe](http://twitter.com/search?q=D%c3%bcn+Fenerbah%c3%a7e) | N/A |
+| 27 | [Kulüp](http://twitter.com/search?q=Kul%c3%bcp) | N/A |
+| 28 | [Çokta](http://twitter.com/search?q=%c3%87okta) | N/A |
+| 29 | [Demokratik](http://twitter.com/search?q=Demokratik) | N/A |
+| 30 | [Şenol Güneş](http://twitter.com/search?q=%c5%9eenol+G%c3%bcne%c5%9f) | Şenol Güneş is a Turkish football manager and former player. He is currently the manager of the Turkish national team. In English, his name translates to "Joyful Sun". |
+| 31 | [Siyaset](http://twitter.com/search?q=Siyaset) | N/A |
+| 32 | [Cenk](http://twitter.com/search?q=Cenk) | Cenk is a Turkish name derived from the word "genç" which means "youthful". It is also used as a nickname for people named Cengiz, meaning "strong one". |
+| 33 | [Ahmet Nur Çebi](http://twitter.com/search?q=Ahmet+Nur+%c3%87ebi) | Ahmet Nur Çebi is a Turkish name. It is composed of two given names, Ahmet and Nur, and the surname Çebi. In English, it would be translated as "Ahmet Light of the Moon Çebi". |
+| 34 | [Ahmet Çakar](http://twitter.com/search?q=Ahmet+%c3%87akar) | N/A |
+| 35 | [Taraftar](http://twitter.com/search?q=Taraftar) | N/A |
+| 36 | [Mert](http://twitter.com/search?q=Mert) | Mert is a Turkish name derived from the Arabic word for “blessed”. It is also used as a surname in some parts of the world. In English, it can be translated to mean “blessed” or “fortunate”. |
+| 37 | [Türkiye İşçi Partisi](http://twitter.com/search?q=T%c3%bcrkiye+%c4%b0%c5%9f%c3%a7i+Partisi) | N/A |
+| 38 | [Haftaya](http://twitter.com/search?q=Haftaya) | N/A |
+| 39 | [Tribün](http://twitter.com/search?q=Trib%c3%bcn) | N/A |
+| 40 | [Süleyman Seba](http://twitter.com/search?q=S%c3%bcleyman+Seba) | N/A |
+| 41 | [Yallah](http://twitter.com/search?q=Yallah) | N/A |
+| 42 | [#yargı](http://twitter.com/search?q=%23yarg%c4%b1) | N/A |
 | 43 | [#DEVAM_ULAN_DEVAM](http://twitter.com/search?q=%23DEVAM_ULAN_DEVAM) | N/A |
-| 44 | [#BJKvANT](http://twitter.com/search?q=%23BJKvANT) | N/A |
-| 45 | [#BuOyuncakSanaArkadaşım](http://twitter.com/search?q=%23BuOyuncakSanaArkada%c5%9f%c4%b1m) | N/A |
-| 46 | [#13marttayuzyuze](http://twitter.com/search?q=%2313marttayuzyuze) | N/A |
+| 44 | [#KızılaydanUtanıyorum](http://twitter.com/search?q=%23K%c4%b1z%c4%b1laydanUtan%c4%b1yorum) | N/A |
+| 45 | [#NecmettinErbakan](http://twitter.com/search?q=%23NecmettinErbakan) | N/A |
+| 46 | [#BuOyuncakSanaArkadaşım](http://twitter.com/search?q=%23BuOyuncakSanaArkada%c5%9f%c4%b1m) | N/A |
 | 47 | [#cocuklarhepgulsun](http://twitter.com/search?q=%23cocuklarhepgulsun) | N/A |
-| 48 | [#beyazfutbol](http://twitter.com/search?q=%23beyazfutbol) | N/A |
+| 48 | [#BJKvANT](http://twitter.com/search?q=%23BJKvANT) | N/A |
 
 
 
