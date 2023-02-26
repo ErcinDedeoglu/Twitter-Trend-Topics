@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-02-26 02:43:51 UTC`
+📆 Last Updated: `2023-02-26 03:24:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,44 +27,44 @@ This is top 50 for [Austria](</Austria>)
 | 10 | [Schwarzer](http://twitter.com/search?q=Schwarzer) | N/A |
 | 11 | [haushaltsabgabe](http://twitter.com/search?q=haushaltsabgabe) | N/A |
 | 12 | [Kapitel](http://twitter.com/search?q=Kapitel) | N/A |
-| 13 | [Schiedsrichter](http://twitter.com/search?q=Schiedsrichter) | N/A |
-| 14 | [Demo](http://twitter.com/search?q=Demo) | N/A |
-| 15 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
-| 16 | [mieten](http://twitter.com/search?q=mieten) | N/A |
-| 17 | [Elfer](http://twitter.com/search?q=Elfer) | N/A |
-| 18 | [Fehlentscheidung](http://twitter.com/search?q=Fehlentscheidung) | N/A |
-| 19 | [Kickl](http://twitter.com/search?q=Kickl) | N/A |
-| 20 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 21 | [fesch](http://twitter.com/search?q=fesch) | N/A |
-| 22 | [Jahrestag](http://twitter.com/search?q=Jahrestag) | N/A |
-| 23 | [Verhandlungstisch](http://twitter.com/search?q=Verhandlungstisch) | N/A |
-| 24 | [Verhandlungen](http://twitter.com/search?q=Verhandlungen) | N/A |
+| 13 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
+| 14 | [Miete](http://twitter.com/search?q=Miete) | N/A |
+| 15 | [schiedsrichter](http://twitter.com/search?q=schiedsrichter) | N/A |
+| 16 | [Demo](http://twitter.com/search?q=Demo) | N/A |
+| 17 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
+| 18 | [Elfer](http://twitter.com/search?q=Elfer) | N/A |
+| 19 | [kickl](http://twitter.com/search?q=kickl) | N/A |
+| 20 | [Fehlentscheidung](http://twitter.com/search?q=Fehlentscheidung) | N/A |
+| 21 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 22 | [fesch](http://twitter.com/search?q=fesch) | N/A |
+| 23 | [Verhandlungen](http://twitter.com/search?q=Verhandlungen) | N/A |
+| 24 | [Jahrestag](http://twitter.com/search?q=Jahrestag) | N/A |
 | 25 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
-| 26 | [Bomben](http://twitter.com/search?q=Bomben) | N/A |
-| 27 | [Brandstätter](http://twitter.com/search?q=Brandst%c3%a4tter) | N/A |
-| 28 | [Lugner](http://twitter.com/search?q=Lugner) | N/A |
-| 29 | [krieg in europa](http://twitter.com/search?q=krieg+in+europa) | N/A |
-| 30 | [Linz](http://twitter.com/search?q=Linz) | N/A |
+| 26 | [Verhandlungstisch](http://twitter.com/search?q=Verhandlungstisch) | N/A |
+| 27 | [Bomben](http://twitter.com/search?q=Bomben) | N/A |
+| 28 | [Brandstätter](http://twitter.com/search?q=Brandst%c3%a4tter) | N/A |
+| 29 | [Lugner](http://twitter.com/search?q=Lugner) | N/A |
+| 30 | [krieg in europa](http://twitter.com/search?q=krieg+in+europa) | N/A |
 | 31 | [immunität](http://twitter.com/search?q=immunit%c3%a4t) | N/A |
-| 32 | [hofburg](http://twitter.com/search?q=hofburg) | N/A |
-| 33 | [Ebenen](http://twitter.com/search?q=Ebenen) | N/A |
-| 34 | [Supermarkt](http://twitter.com/search?q=Supermarkt) | N/A |
-| 35 | [Russisch](http://twitter.com/search?q=Russisch) | N/A |
-| 36 | [clemens arvay](http://twitter.com/search?q=clemens+arvay) | N/A |
-| 37 | [Optionen](http://twitter.com/search?q=Optionen) | N/A |
-| 38 | [Mumie](http://twitter.com/search?q=Mumie) | N/A |
-| 39 | [Werte](http://twitter.com/search?q=Werte) | N/A |
+| 32 | [Linz](http://twitter.com/search?q=Linz) | N/A |
+| 33 | [hofburg](http://twitter.com/search?q=hofburg) | N/A |
+| 34 | [Ebenen](http://twitter.com/search?q=Ebenen) | N/A |
+| 35 | [Supermarkt](http://twitter.com/search?q=Supermarkt) | N/A |
+| 36 | [Russisch](http://twitter.com/search?q=Russisch) | N/A |
+| 37 | [clemens arvay](http://twitter.com/search?q=clemens+arvay) | N/A |
+| 38 | [Optionen](http://twitter.com/search?q=Optionen) | N/A |
+| 39 | [Mumie](http://twitter.com/search?q=Mumie) | N/A |
 | 40 | [Italy](http://twitter.com/search?q=Italy) | N/A |
-| 41 | [Podcasts](http://twitter.com/search?q=Podcasts) | N/A |
-| 42 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
+| 41 | [Werte](http://twitter.com/search?q=Werte) | N/A |
+| 42 | [Podcasts](http://twitter.com/search?q=Podcasts) | N/A |
 | 43 | [Oooh](http://twitter.com/search?q=Oooh) | N/A |
 | 44 | [Australia](http://twitter.com/search?q=Australia) | N/A |
 | 45 | [Ingrid](http://twitter.com/search?q=Ingrid) | N/A |
 | 46 | [Führung](http://twitter.com/search?q=F%c3%bchrung) | N/A |
 | 47 | [Zustände](http://twitter.com/search?q=Zust%c3%a4nde) | N/A |
-| 48 | [Verfassungsschutz](http://twitter.com/search?q=Verfassungsschutz) | N/A |
+| 48 | [verfassungsschutz](http://twitter.com/search?q=verfassungsschutz) | N/A |
 | 49 | [Adresse](http://twitter.com/search?q=Adresse) | N/A |
-| 50 | [Studio](http://twitter.com/search?q=Studio) | N/A |
+| 50 | [Botschaft](http://twitter.com/search?q=Botschaft) | N/A |
 
 
 

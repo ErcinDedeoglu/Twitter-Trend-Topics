@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ipoh
 
-📆 Last Updated: `2023-02-26 02:44:04 UTC`
+📆 Last Updated: `2023-02-26 03:25:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Malaysia](</Malaysia>)
 | ------- | ------------ | ------------ |
 | 1 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
 | 2 | [#FERRAGAMOxJENO](http://twitter.com/search?q=%23FERRAGAMOxJENO) | N/A |
-| 3 | [#ParkSeoJooninMY](http://twitter.com/search?q=%23ParkSeoJooninMY) | N/A |
-| 4 | [#PSJSahabatMILO](http://twitter.com/search?q=%23PSJSahabatMILO) | N/A |
+| 3 | [#PSJSahabatMILO](http://twitter.com/search?q=%23PSJSahabatMILO) | N/A |
+| 4 | [#ParkSeoJooninMY](http://twitter.com/search?q=%23ParkSeoJooninMY) | N/A |
 | 5 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
 | 6 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
 | 7 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 8 | [NFTDuel](http://twitter.com/search?q=NFTDuel) | N/A |
-| 9 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 10 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
-| 11 | [Giselle](http://twitter.com/search?q=Giselle) | N/A |
-| 12 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
+| 8 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
+| 9 | [NFTDuel](http://twitter.com/search?q=NFTDuel) | N/A |
+| 10 | [Giselle](http://twitter.com/search?q=Giselle) | N/A |
+| 11 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
+| 12 | [hailey](http://twitter.com/search?q=hailey) | N/A |
 | 13 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
-| 14 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 15 | [WE LOVE OUR BLUE](http://twitter.com/search?q=WE+LOVE+OUR+BLUE) | N/A |
-| 16 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 17 | [Hendo](http://twitter.com/search?q=Hendo) | Hendo is a slang term derived from the Japanese word "hendou," which means "change." It is often used to refer to a sudden or unexpected change in something, such as a situation or a person's attitude. |
-| 18 | [nct dream](http://twitter.com/search?q=nct+dream) | N/A |
-| 19 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 20 | [Irene](http://twitter.com/search?q=Irene) | N/A |
-| 21 | [Carvalho](http://twitter.com/search?q=Carvalho) | Carvalho is a Portuguese surname derived from the Latin word carbo, meaning "charcoal". In English, it can be translated to mean "charcoal maker" or "charcoal burner". |
-| 22 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
-| 23 | [INEC](http://twitter.com/search?q=INEC) | N/A |
-| 24 | [sunway](http://twitter.com/search?q=sunway) | N/A |
-| 25 | [synk with aespa day1](http://twitter.com/search?q=synk+with+aespa+day1) | N/A |
-| 26 | [daeul](http://twitter.com/search?q=daeul) | N/A |
-| 27 | [Pete](http://twitter.com/search?q=Pete) | Pete is a nickname for the name Peter. It is derived from the Greek word "petros" which means "rock". |
-| 28 | [putra](http://twitter.com/search?q=putra) | N/A |
-| 29 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 30 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 31 | [ningning](http://twitter.com/search?q=ningning) | N/A |
-| 32 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
+| 14 | [Hendo](http://twitter.com/search?q=Hendo) | Hendo is a slang term derived from the Japanese word "hendou," which means "change." It is often used to refer to a sudden or unexpected change in something, such as a situation or a person's attitude. |
+| 15 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 16 | [WE LOVE OUR BLUE](http://twitter.com/search?q=WE+LOVE+OUR+BLUE) | N/A |
+| 17 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 18 | [NCT Dream](http://twitter.com/search?q=NCT+Dream) | N/A |
+| 19 | [Irene](http://twitter.com/search?q=Irene) | N/A |
+| 20 | [Carvalho](http://twitter.com/search?q=Carvalho) | Carvalho is a Portuguese surname derived from the Latin word carbo, meaning "charcoal". In English, it can be translated to mean "charcoal maker" or "charcoal burner". |
+| 21 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 22 | [sunway](http://twitter.com/search?q=sunway) | N/A |
+| 23 | [synk with aespa day1](http://twitter.com/search?q=synk+with+aespa+day1) | N/A |
+| 24 | [Budget 2023](http://twitter.com/search?q=Budget+2023) | N/A |
+| 25 | [Pete](http://twitter.com/search?q=Pete) | Pete is a nickname for the name Peter. It is derived from the Greek word "petros" which means "rock". |
+| 26 | [putra](http://twitter.com/search?q=putra) | N/A |
+| 27 | [ningning](http://twitter.com/search?q=ningning) | N/A |
+| 28 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 29 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
+| 30 | [INEC](http://twitter.com/search?q=INEC) | N/A |
+| 31 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 32 | [hyuna](http://twitter.com/search?q=hyuna) | Hyuna is a Korean female given name. It is derived from the Sino-Korean word meaning “shining,” and can also be interpreted to mean “intelligent and beautiful.” |
 | 33 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 34 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 35 | [hyuna](http://twitter.com/search?q=hyuna) | Hyuna is a Korean female given name. It is derived from the Sino-Korean word meaning “shining,” and can also be interpreted to mean “intelligent and beautiful.” |
-| 36 | [LOTR](http://twitter.com/search?q=LOTR) | N/A |
-| 37 | [mrsm](http://twitter.com/search?q=mrsm) | N/A |
-| 38 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 39 | [ariana](http://twitter.com/search?q=ariana) | N/A |
-| 40 | [Nadeam nahas](http://twitter.com/search?q=Nadeam+nahas) | N/A |
-| 41 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 42 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
-| 43 | [KLCC](http://twitter.com/search?q=KLCC) | N/A |
-| 44 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
-| 45 | [Keita](http://twitter.com/search?q=Keita) | Keita is a Japanese name meaning "blessed" or "happy". It is often used as a given name for boys. |
-| 46 | [Thankss](http://twitter.com/search?q=Thankss) | N/A |
-| 47 | [karina](http://twitter.com/search?q=karina) | N/A |
-| 48 | [Demon Slayer](http://twitter.com/search?q=Demon+Slayer) | N/A |
-| 49 | [Matip](http://twitter.com/search?q=Matip) | Matip is a term used in the West African language of Fon, which is spoken in Benin and Togo. It means "to help" or "to assist". |
+| 34 | [LOTR](http://twitter.com/search?q=LOTR) | N/A |
+| 35 | [mrsm](http://twitter.com/search?q=mrsm) | N/A |
+| 36 | [ariana](http://twitter.com/search?q=ariana) | N/A |
+| 37 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 38 | [daeul](http://twitter.com/search?q=daeul) | N/A |
+| 39 | [Thankss](http://twitter.com/search?q=Thankss) | N/A |
+| 40 | [Keita](http://twitter.com/search?q=Keita) | Keita is a Japanese name meaning "blessed" or "happy". It is often used as a given name for boys. |
+| 41 | [KLCC](http://twitter.com/search?q=KLCC) | N/A |
+| 42 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 43 | [Nadeam nahas](http://twitter.com/search?q=Nadeam+nahas) | N/A |
+| 44 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 45 | [karina](http://twitter.com/search?q=karina) | N/A |
+| 46 | [Matip](http://twitter.com/search?q=Matip) | Matip is a term used in the West African language of Fon, which is spoken in Benin and Togo. It means "to help" or "to assist". |
+| 47 | [Demon Slayer](http://twitter.com/search?q=Demon+Slayer) | N/A |
+| 48 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
+| 49 | [Hanni](http://twitter.com/search?q=Hanni) | Hanni is a German name derived from the Hebrew name Hannah, meaning “grace” or “favor.” It is also a diminutive form of the name Johanna. |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quebec
 
-📆 Last Updated: `2023-02-26 02:43:38 UTC`
+📆 Last Updated: `2023-02-26 03:24:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
-| 2 | [#TFCLive](http://twitter.com/search?q=%23TFCLive) | N/A |
-| 3 | [Christine Anderson](http://twitter.com/search?q=Christine+Anderson) | N/A |
-| 4 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 1 | [Herrera](http://twitter.com/search?q=Herrera) | Herrera is a Spanish surname derived from the Latin word ferreus, meaning "iron". It is also a common given name in Spanish-speaking countries. In English, Herrera can be translated to mean "ironworker" or "blacksmith". |
+| 2 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
+| 3 | [#TFCLive](http://twitter.com/search?q=%23TFCLive) | N/A |
+| 4 | [Linus Ullmark](http://twitter.com/search?q=Linus+Ullmark) | N/A |
 | 5 | [#CFMTL](http://twitter.com/search?q=%23CFMTL) | N/A |
-| 6 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
-| 7 | [Trudeau](http://twitter.com/search?q=Trudeau) | N/A |
-| 8 | [Pierre](http://twitter.com/search?q=Pierre) | N/A |
-| 9 | [#UFCVegas70](http://twitter.com/search?q=%23UFCVegas70) | N/A |
-| 10 | [Insigne](http://twitter.com/search?q=Insigne) | N/A |
-| 11 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 12 | [Watson](http://twitter.com/search?q=Watson) | Watson is an artificial intelligence (AI) computer system developed by IBM. It is capable of answering questions posed in natural language, making it a useful tool for businesses and researchers. Watson can also be used to analyze large amounts of data and generate insights from it. |
-| 13 | [CSIS](http://twitter.com/search?q=CSIS) | N/A |
-| 14 | [Chabot](http://twitter.com/search?q=Chabot) | N/A |
-| 15 | [Wes McCauley](http://twitter.com/search?q=Wes+McCauley) | N/A |
-| 16 | [Kravtsov](http://twitter.com/search?q=Kravtsov) | N/A |
-| 17 | [Leslyn](http://twitter.com/search?q=Leslyn) | N/A |
-| 18 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 19 | [Nick Suzuki](http://twitter.com/search?q=Nick+Suzuki) | N/A |
-| 20 | [Kaye](http://twitter.com/search?q=Kaye) | N/A |
-| 21 | [German](http://twitter.com/search?q=German) | N/A |
-| 22 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
-| 23 | [Kikuchi](http://twitter.com/search?q=Kikuchi) | N/A |
-| 24 | [Brendan Allen](http://twitter.com/search?q=Brendan+Allen) | N/A |
-| 25 | [Campbell](http://twitter.com/search?q=Campbell) | N/A |
-| 26 | [INEC](http://twitter.com/search?q=INEC) | N/A |
-| 27 | [Poilievre](http://twitter.com/search?q=Poilievre) | N/A |
-| 28 | [Nino](http://twitter.com/search?q=Nino) | N/A |
-| 29 | [Matheson](http://twitter.com/search?q=Matheson) | N/A |
-| 30 | [Pantemis](http://twitter.com/search?q=Pantemis) | N/A |
-| 31 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
-| 32 | [Benteke](http://twitter.com/search?q=Benteke) | N/A |
-| 33 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 34 | [Lockwood](http://twitter.com/search?q=Lockwood) | N/A |
-| 35 | [Maxime Bernier](http://twitter.com/search?q=Maxime+Bernier) | N/A |
-| 36 | [Piette](http://twitter.com/search?q=Piette) | N/A |
-| 37 | [Brian Lilley](http://twitter.com/search?q=Brian+Lilley) | N/A |
-| 38 | [Herrera](http://twitter.com/search?q=Herrera) | Herrera is a Spanish surname derived from the Latin word ferreus, meaning "iron". It is also a common given name in Spanish-speaking countries. In English, Herrera can be translated to mean "ironworker" or "blacksmith". |
-| 39 | [Brad Marchand](http://twitter.com/search?q=Brad+Marchand) | N/A |
-| 40 | [Laith Marouf](http://twitter.com/search?q=Laith+Marouf) | N/A |
-| 41 | [Sean Rea](http://twitter.com/search?q=Sean+Rea) | N/A |
-| 42 | [Muniz](http://twitter.com/search?q=Muniz) | N/A |
-| 43 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 44 | [Messier](http://twitter.com/search?q=Messier) | N/A |
-| 45 | [Bernardeschi](http://twitter.com/search?q=Bernardeschi) | N/A |
-| 46 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
-| 47 | [Barger](http://twitter.com/search?q=Barger) | N/A |
-| 48 | [Draisaitl](http://twitter.com/search?q=Draisaitl) | N/A |
-| 49 | [Scott Adams](http://twitter.com/search?q=Scott+Adams) | N/A |
+| 6 | [GOALIE GOAL](http://twitter.com/search?q=GOALIE+GOAL) | N/A |
+| 7 | [#Canucks](http://twitter.com/search?q=%23Canucks) | N/A |
+| 8 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
+| 9 | [Insigne](http://twitter.com/search?q=Insigne) | N/A |
+| 10 | [#UFCVegas70](http://twitter.com/search?q=%23UFCVegas70) | N/A |
+| 11 | [Watson](http://twitter.com/search?q=Watson) | Watson is an artificial intelligence (AI) computer system developed by IBM. It is capable of answering questions posed in natural language, making it a useful tool for businesses and researchers. Watson can also be used to analyze large amounts of data and generate insights from it. |
+| 12 | [Chabot](http://twitter.com/search?q=Chabot) | N/A |
+| 13 | [Gauthier](http://twitter.com/search?q=Gauthier) | N/A |
+| 14 | [Nick Suzuki](http://twitter.com/search?q=Nick+Suzuki) | N/A |
+| 15 | [Matheson](http://twitter.com/search?q=Matheson) | N/A |
+| 16 | [Bradley](http://twitter.com/search?q=Bradley) | N/A |
+| 17 | [Neil Young](http://twitter.com/search?q=Neil+Young) | N/A |
+| 18 | [Apple TV](http://twitter.com/search?q=Apple+TV) | N/A |
+| 19 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
+| 20 | [Toronto FC](http://twitter.com/search?q=Toronto+FC) | N/A |
+| 21 | [Coldest Night of the Year](http://twitter.com/search?q=Coldest+Night+of+the+Year) | N/A |
+| 22 | [Monty](http://twitter.com/search?q=Monty) | N/A |
+| 23 | [Brad Marchand](http://twitter.com/search?q=Brad+Marchand) | N/A |
+| 24 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
+| 25 | [Nino](http://twitter.com/search?q=Nino) | N/A |
+| 26 | [Campbell](http://twitter.com/search?q=Campbell) | N/A |
+| 27 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
+| 28 | [Pinto](http://twitter.com/search?q=Pinto) | N/A |
+| 29 | [Boeser](http://twitter.com/search?q=Boeser) | N/A |
+| 30 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
+| 31 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
+| 32 | [Skinner](http://twitter.com/search?q=Skinner) | N/A |
+| 33 | [Talbot](http://twitter.com/search?q=Talbot) | N/A |
+| 34 | [Holland](http://twitter.com/search?q=Holland) | N/A |
+| 35 | [Lockwood](http://twitter.com/search?q=Lockwood) | N/A |
+| 36 | [Kravtsov](http://twitter.com/search?q=Kravtsov) | N/A |
+| 37 | [Elden Ring](http://twitter.com/search?q=Elden+Ring) | N/A |
+| 38 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 39 | [#GoHabsGo](http://twitter.com/search?q=%23GoHabsGo) | N/A |
+| 40 | [#Sens](http://twitter.com/search?q=%23Sens) | N/A |
+| 41 | [#bcstorm](http://twitter.com/search?q=%23bcstorm) | N/A |
+| 42 | [#IMFC](http://twitter.com/search?q=%23IMFC) | N/A |
+| 43 | [#MLSSeasonPass](http://twitter.com/search?q=%23MLSSeasonPass) | N/A |
+| 44 | [#CNOY2023](http://twitter.com/search?q=%23CNOY2023) | N/A |
+| 45 | [#VWFC](http://twitter.com/search?q=%23VWFC) | N/A |
+| 46 | [#MLSisBack](http://twitter.com/search?q=%23MLSisBack) | N/A |
+| 47 | [#CurlingDayinCanada](http://twitter.com/search?q=%23CurlingDayinCanada) | N/A |
+| 48 | [#Bellator291](http://twitter.com/search?q=%23Bellator291) | N/A |
+| 49 | [#cnoy23](http://twitter.com/search?q=%23cnoy23) | N/A |
 
 
 

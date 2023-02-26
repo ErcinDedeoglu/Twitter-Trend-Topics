@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Porto Alegre
 
-📆 Last Updated: `2023-02-26 02:43:48 UTC`
+📆 Last Updated: `2023-02-26 03:24:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Brazil](</Brazil>)
 | ------- | ------------ | ------------ |
 | 1 | [Pedro Henrique](http://twitter.com/search?q=Pedro+Henrique) | Pedro Henrique is a Portuguese name, derived from the Latin name Petrus Henricus. It is composed of two elements: Petrus, which means "rock" or "stone", and Henricus, which means "ruler of the house". In English, Pedro Henrique can be translated to mean "Peter Henry". |
 | 2 | [Matheus Dias](http://twitter.com/search?q=Matheus+Dias) | N/A |
-| 3 | [Alan Patrick](http://twitter.com/search?q=Alan+Patrick) | N/A |
+| 3 | [Wanderson](http://twitter.com/search?q=Wanderson) | N/A |
 | 4 | [Maurício](http://twitter.com/search?q=Maur%c3%adcio) | N/A |
-| 5 | [Wanderson](http://twitter.com/search?q=Wanderson) | N/A |
-| 6 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 7 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
-| 8 | [Gustavo](http://twitter.com/search?q=Gustavo) | Gustavo is a Spanish and Portuguese name derived from the Latin name Gustavus, which means "staff of the gods". It is also a variant of the Germanic name Gustaf, meaning "staff of the Geats". |
-| 9 | [Guimê](http://twitter.com/search?q=Guim%c3%aa) | Guimê is a Brazilian term used to describe a person who is strong, brave, and determined. It can also be used to describe someone who is resilient and able to overcome difficult situations. In English, it could be translated as "fearless" or "unstoppable". |
-| 10 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 11 | [#EliminacaoBBB](http://twitter.com/search?q=%23EliminacaoBBB) | N/A |
-| 12 | [alves](http://twitter.com/search?q=alves) | Alves is a Portuguese surname. It is derived from the Latin word albus, meaning "white". In English, it can be translated to mean "white" or "fair-haired". |
-| 13 | [Stone](http://twitter.com/search?q=Stone) | Stone is a natural material that is composed of minerals and is found in the earth's crust. It is often used for building, decoration, and other purposes. In English, stone can refer to a large rock or boulder, or it can be used as a metaphor for something that is hard and unyielding. |
-| 14 | [Dr Fred](http://twitter.com/search?q=Dr+Fred) | Dr Fred is a nickname for Dr. Frederick Banting, a Canadian medical scientist who co-discovered insulin in 1921. He was awarded the Nobel Prize in Physiology or Medicine in 1923 for his work. The nickname "Dr Fred" is used to refer to him as a sign of respect and admiration for his groundbreaking work. |
+| 5 | [Gustavo](http://twitter.com/search?q=Gustavo) | Gustavo is a Spanish and Portuguese name derived from the Latin name Gustavus, which means "staff of the gods". It is also a variant of the Germanic name Gustaf, meaning "staff of the Geats". |
+| 6 | [Guimê](http://twitter.com/search?q=Guim%c3%aa) | Guimê is a Brazilian term used to describe a person who is strong, brave, and determined. It can also be used to describe someone who is resilient and able to overcome difficult situations. In English, it could be translated as "fearless" or "unstoppable". |
+| 7 | [#BatePapoBBB](http://twitter.com/search?q=%23BatePapoBBB) | N/A |
+| 8 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
+| 9 | [#EliminacaoBBB](http://twitter.com/search?q=%23EliminacaoBBB) | N/A |
+| 10 | [alves](http://twitter.com/search?q=alves) | Alves is a Portuguese surname. It is derived from the Latin word albus, meaning "white". In English, it can be translated to mean "white" or "fair-haired". |
+| 11 | [#CarnavalMultishow](http://twitter.com/search?q=%23CarnavalMultishow) | N/A |
+| 12 | [Stone](http://twitter.com/search?q=Stone) | Stone is a natural material that is composed of minerals and is found in the earth's crust. It is often used for building, decoration, and other purposes. In English, stone can refer to a large rock or boulder, or it can be used as a metaphor for something that is hard and unyielding. |
+| 13 | [Se a Key](http://twitter.com/search?q=Se+a+Key) | N/A |
+| 14 | [Sapato](http://twitter.com/search?q=Sapato) | Sapato is the Portuguese word for shoe. In English, it means the same thing. |
 | 15 | [Dr Fred](http://twitter.com/search?q=Dr+Fred) | Dr Fred is a nickname for Dr. Frederick Banting, a Canadian medical scientist who co-discovered insulin in 1921. He was awarded the Nobel Prize in Physiology or Medicine in 1923 for his work. The nickname "Dr Fred" is used to refer to him as a sign of respect and admiration for his groundbreaking work. |
-| 16 | [Se a Key](http://twitter.com/search?q=Se+a+Key) | N/A |
-| 17 | [Sapato](http://twitter.com/search?q=Sapato) | Sapato is the Portuguese word for shoe. In English, it means the same thing. |
-| 18 | [#CarnavalMultishow](http://twitter.com/search?q=%23CarnavalMultishow) | N/A |
-| 19 | [Botafogo](http://twitter.com/search?q=Botafogo) | Botafogo is a neighborhood in Rio de Janeiro, Brazil. The name Botafogo comes from the Portuguese phrase "bota fogo," which means "set fire." It is believed to have originated from a local legend about a brave warrior who set fire to the enemy's boats during a battle. |
-| 20 | [#CasteloRatimBum](http://twitter.com/search?q=%23CasteloRatimBum) | N/A |
-| 21 | [#AltasHoras](http://twitter.com/search?q=%23AltasHoras) | #AltasHoras is a Brazilian late-night talk show hosted by journalist Patrícia Poeta. The show features interviews with celebrities, musical performances, and comedy sketches. In English, the phrase "Altas Horas" translates to "Late Hours". |
-| 22 | [Big Fone](http://twitter.com/search?q=Big+Fone) | Big Fone is a slang term used to refer to a large, expensive mobile phone. It is often used to describe a phone that is seen as being luxurious or ostentatious. |
-| 23 | [#BOTAnoGaules](http://twitter.com/search?q=%23BOTAnoGaules) | N/A |
-| 24 | [Chico Bento](http://twitter.com/search?q=Chico+Bento) | N/A |
-| 25 | [Domi](http://twitter.com/search?q=Domi) | Domi is a Japanese term that means "dominance" or "dominant." It is often used to describe someone who is strong, powerful, and in control. |
-| 26 | [Lui Lorenzo](http://twitter.com/search?q=Lui+Lorenzo) | N/A |
-| 27 | [Essa Key](http://twitter.com/search?q=Essa+Key) | Essa Key is a term used in the Indian state of Kerala to refer to a type of traditional key. It is a flat, metal key with a round head and a long, thin stem that is used to open locks on doors and windows. The term comes from the Malayalam word "essa," which means "key." |
-| 28 | [Chora Key](http://twitter.com/search?q=Chora+Key) | N/A |
-| 29 | [São Bernardo](http://twitter.com/search?q=S%c3%a3o+Bernardo) | São Bernardo is a municipality in the state of São Paulo, Brazil. The name São Bernardo translates to Saint Bernard in English. |
-| 30 | [Rodrigo Caio](http://twitter.com/search?q=Rodrigo+Caio) | Rodrigo Caio is a Brazilian professional footballer who plays as a defender for São Paulo FC. His name translates to "Rodrigo Victory" in English. |
-| 31 | [Vai Key](http://twitter.com/search?q=Vai+Key) | N/A |
-| 32 | [Pipokey](http://twitter.com/search?q=Pipokey) | N/A |
-| 33 | [OUÇA EP IDENTIDADE](http://twitter.com/search?q=OU%c3%87A+EP+IDENTIDADE) | N/A |
-| 34 | [Isso Key](http://twitter.com/search?q=Isso+Key) | N/A |
-| 35 | [Se o Fred](http://twitter.com/search?q=Se+o+Fred) | N/A |
-| 36 | [Calma Key](http://twitter.com/search?q=Calma+Key) | N/A |
+| 16 | [#AltasHoras](http://twitter.com/search?q=%23AltasHoras) | #AltasHoras is a Brazilian late-night talk show hosted by journalist Patrícia Poeta. The show features interviews with celebrities, musical performances, and comedy sketches. In English, the phrase "Altas Horas" translates to "Late Hours". |
+| 17 | [#CasteloRatimBum](http://twitter.com/search?q=%23CasteloRatimBum) | N/A |
+| 18 | [Botafogo](http://twitter.com/search?q=Botafogo) | Botafogo is a neighborhood in Rio de Janeiro, Brazil. The name Botafogo comes from the Portuguese phrase "bota fogo," which means "set fire." It is believed to have originated from a local legend about a brave warrior who set fire to the enemy's boats during a battle. |
+| 19 | [Domi](http://twitter.com/search?q=Domi) | Domi is a Japanese term that means "dominance" or "dominant." It is often used to describe someone who is strong, powerful, and in control. |
+| 20 | [Big Fone](http://twitter.com/search?q=Big+Fone) | Big Fone is a slang term used to refer to a large, expensive mobile phone. It is often used to describe a phone that is seen as being luxurious or ostentatious. |
+| 21 | [Chico Bento](http://twitter.com/search?q=Chico+Bento) | N/A |
+| 22 | [Lui Lorenzo](http://twitter.com/search?q=Lui+Lorenzo) | N/A |
+| 23 | [Chora Key](http://twitter.com/search?q=Chora+Key) | N/A |
+| 24 | [Essa Key](http://twitter.com/search?q=Essa+Key) | Essa Key is a term used in the Indian state of Kerala to refer to a type of traditional key. It is a flat, metal key with a round head and a long, thin stem that is used to open locks on doors and windows. The term comes from the Malayalam word "essa," which means "key." |
+| 25 | [Vai Key](http://twitter.com/search?q=Vai+Key) | N/A |
+| 26 | [OUÇA EP IDENTIDADE](http://twitter.com/search?q=OU%c3%87A+EP+IDENTIDADE) | N/A |
+| 27 | [São Bernardo](http://twitter.com/search?q=S%c3%a3o+Bernardo) | São Bernardo is a municipality in the state of São Paulo, Brazil. The name São Bernardo translates to Saint Bernard in English. |
+| 28 | [Pipokey](http://twitter.com/search?q=Pipokey) | N/A |
+| 29 | [Rodrigo Caio](http://twitter.com/search?q=Rodrigo+Caio) | Rodrigo Caio is a Brazilian professional footballer who plays as a defender for São Paulo FC. His name translates to "Rodrigo Victory" in English. |
+| 30 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
+| 31 | [Isso Key](http://twitter.com/search?q=Isso+Key) | N/A |
+| 32 | [Jade Picon](http://twitter.com/search?q=Jade+Picon) | N/A |
+| 33 | [Vivian](http://twitter.com/search?q=Vivian) | N/A |
+| 34 | [Se o Fred](http://twitter.com/search?q=Se+o+Fred) | N/A |
+| 35 | [Vem Key](http://twitter.com/search?q=Vem+Key) | N/A |
+| 36 | [Obrigada Brasil](http://twitter.com/search?q=Obrigada+Brasil) | N/A |
 | 37 | [Agora a Key](http://twitter.com/search?q=Agora+a+Key) | N/A |
-| 38 | [QUE SABOR](http://twitter.com/search?q=QUE+SABOR) | N/A |
-| 39 | [OBRIGADA BRASIL](http://twitter.com/search?q=OBRIGADA+BRASIL) | N/A |
-| 40 | [Vem Key](http://twitter.com/search?q=Vem+Key) | N/A |
-| 41 | [José Loreto](http://twitter.com/search?q=Jos%c3%a9+Loreto) | N/A |
-| 42 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
+| 38 | [Calma Key](http://twitter.com/search?q=Calma+Key) | N/A |
+| 39 | [QUE SABOR](http://twitter.com/search?q=QUE+SABOR) | N/A |
+| 40 | [José Loreto](http://twitter.com/search?q=Jos%c3%a9+Loreto) | N/A |
+| 41 | [Gshow](http://twitter.com/search?q=Gshow) | N/A |
+| 42 | [Pyong](http://twitter.com/search?q=Pyong) | N/A |
 | 43 | [O BEM VENCEU](http://twitter.com/search?q=O+BEM+VENCEU) | O BEM VENCEU is a Portuguese phrase that translates to "Good has won" in English. It is often used to express joy and celebration at the victory of good over evil. |
-| 44 | [Keyla](http://twitter.com/search?q=Keyla) | N/A |
-| 45 | [Gshow](http://twitter.com/search?q=Gshow) | N/A |
-| 46 | [Jade Picon](http://twitter.com/search?q=Jade+Picon) | N/A |
-| 47 | [Tiririca](http://twitter.com/search?q=Tiririca) | N/A |
-| 48 | [Nestor](http://twitter.com/search?q=Nestor) | Nestor is a Greek name derived from the word "nestorios" which means "wise and prudent". It is often used as a male given name, and can also be used as a surname. |
-| 49 | [Fredão](http://twitter.com/search?q=Fred%c3%a3o) | Fredão is a Portuguese slang term used to describe someone who is very strong or powerful. It can also be used to describe someone who is brave or courageous. In English, it could be translated as "tough guy" or "strongman". |
+| 44 | [HOJE TEM CORINTHIANS](http://twitter.com/search?q=HOJE+TEM+CORINTHIANS) | N/A |
+| 45 | [Keyla](http://twitter.com/search?q=Keyla) | N/A |
+| 46 | [Mariana Gross](http://twitter.com/search?q=Mariana+Gross) | N/A |
+| 47 | [Agroboy](http://twitter.com/search?q=Agroboy) | Agroboy is a slang term used to describe someone who is aggressive, confrontational, and quick to anger. It is often used to describe someone who is easily provoked and prone to outbursts of rage. |
+| 48 | [Fredão](http://twitter.com/search?q=Fred%c3%a3o) | Fredão is a Portuguese slang term used to describe someone who is very strong or powerful. It can also be used to describe someone who is brave or courageous. In English, it could be translated as "tough guy" or "strongman". |
+| 49 | [Tiririca](http://twitter.com/search?q=Tiririca) | N/A |
 | 50 | [Squel](http://twitter.com/search?q=Squel) | N/A |
 
 

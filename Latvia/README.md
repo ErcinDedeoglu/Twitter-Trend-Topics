@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-02-26 02:44:29 UTC`
+📆 Last Updated: `2023-02-26 03:25:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,11 +17,11 @@ This is top 50 for Latvia
 | ------- | ------------ | ------------ |
 | 1 | [#MetAmazonPresale](http://twitter.com/search?q=%23MetAmazonPresale) | N/A |
 | 2 | [#StandWithUkraine](http://twitter.com/search?q=%23StandWithUkraine) | N/A |
-| 3 | [Vācijā](http://twitter.com/search?q=V%c4%81cij%c4%81) | N/A |
+| 3 | [vācijā](http://twitter.com/search?q=v%c4%81cij%c4%81) | N/A |
 | 4 | [Kols](http://twitter.com/search?q=Kols) | N/A |
 | 5 | [kongresu](http://twitter.com/search?q=kongresu) | N/A |
-| 6 | [Riga](http://twitter.com/search?q=Riga) | N/A |
-| 7 | [Berlīnē](http://twitter.com/search?q=Berl%c4%abn%c4%93) | N/A |
+| 6 | [berlīnē](http://twitter.com/search?q=berl%c4%abn%c4%93) | N/A |
+| 7 | [Riga](http://twitter.com/search?q=Riga) | N/A |
 | 8 | [Kola](http://twitter.com/search?q=Kola) | N/A |
 | 9 | [Krievijas](http://twitter.com/search?q=Krievijas) | N/A |
 | 10 | [риге](http://twitter.com/search?q=%d1%80%d0%b8%d0%b3%d0%b5) | N/A |
@@ -51,18 +51,18 @@ This is top 50 for Latvia
 | 34 | [saeima](http://twitter.com/search?q=saeima) | N/A |
 | 35 | [izklausās](http://twitter.com/search?q=izklaus%c4%81s) | N/A |
 | 36 | [helmanis](http://twitter.com/search?q=helmanis) | N/A |
-| 37 | [Украины](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d1%8b) | N/A |
-| 38 | [avenam](http://twitter.com/search?q=avenam) | N/A |
+| 37 | [avenam](http://twitter.com/search?q=avenam) | N/A |
+| 38 | [Lato](http://twitter.com/search?q=Lato) | Lato is a sans-serif typeface designed by Łukasz Dziedzic in 2010. It is a humanist typeface, meaning it has a more organic, calligraphic feel than other sans-serifs. The name Lato comes from the Polish word for "summer". |
 | 39 | [Kremļa](http://twitter.com/search?q=Krem%c4%bca) | N/A |
-| 40 | [Lato](http://twitter.com/search?q=Lato) | Lato is a sans-serif typeface designed by Łukasz Dziedzic in 2010. It is a humanist typeface, meaning it has a more organic, calligraphic feel than other sans-serifs. The name Lato comes from the Polish word for "summer". |
-| 41 | [ķīna](http://twitter.com/search?q=%c4%b7%c4%abna) | N/A |
-| 42 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 40 | [ķīna](http://twitter.com/search?q=%c4%b7%c4%abna) | N/A |
+| 41 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 42 | [kurš](http://twitter.com/search?q=kur%c5%a1) | N/A |
 | 43 | [pozņaku](http://twitter.com/search?q=poz%c5%86aku) | N/A |
-| 44 | [Kurš](http://twitter.com/search?q=Kur%c5%a1) | N/A |
-| 45 | [vairāk](http://twitter.com/search?q=vair%c4%81k) | N/A |
+| 44 | [vairāk](http://twitter.com/search?q=vair%c4%81k) | N/A |
+| 45 | [Украины](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d1%8b) | N/A |
 | 46 | [sveiks](http://twitter.com/search?q=sveiks) | N/A |
-| 47 | [latvenergo](http://twitter.com/search?q=latvenergo) | N/A |
-| 48 | [vienmēr](http://twitter.com/search?q=vienm%c4%93r) | N/A |
+| 47 | [vienmēr](http://twitter.com/search?q=vienm%c4%93r) | N/A |
+| 48 | [latvenergo](http://twitter.com/search?q=latvenergo) | N/A |
 | 49 | [#birdle](http://twitter.com/search?q=%23birdle) | N/A |
 | 50 | [lūdzu](http://twitter.com/search?q=l%c5%abdzu) | N/A |
 

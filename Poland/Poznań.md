@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Poznań
 
-📆 Last Updated: `2023-02-26 02:43:50 UTC`
+📆 Last Updated: `2023-02-26 03:24:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,9 +18,9 @@ This is top 50 for [Poland](</Poland>)
 | 1 | [#skijumpingfamily](http://twitter.com/search?q=%23skijumpingfamily) | N/A |
 | 2 | [#TheVoiceKids](http://twitter.com/search?q=%23TheVoiceKids) | N/A |
 | 3 | [#t5m2](http://twitter.com/search?q=%23t5m2) | N/A |
-| 4 | [Piotr Żyła](http://twitter.com/search?q=Piotr+%c5%bby%c5%82a) | N/A |
+| 4 | [piotr żyła](http://twitter.com/search?q=piotr+%c5%bcy%c5%82a) | N/A |
 | 5 | [#KSW79](http://twitter.com/search?q=%23KSW79) | N/A |
-| 6 | [#TAURONPucharPolski](http://twitter.com/search?q=%23TAURONPucharPolski) | N/A |
+| 6 | [#tauronpucharpolski](http://twitter.com/search?q=%23tauronpucharpolski) | N/A |
 | 7 | [Orlen](http://twitter.com/search?q=Orlen) | N/A |
 | 8 | [Piotrka](http://twitter.com/search?q=Piotrka) | N/A |
 | 9 | [Ukrainie](http://twitter.com/search?q=Ukrainie) | N/A |
@@ -32,39 +32,39 @@ This is top 50 for [Poland](</Poland>)
 | 15 | [z 13](http://twitter.com/search?q=z+13) | N/A |
 | 16 | [Kamil Stoch](http://twitter.com/search?q=Kamil+Stoch) | N/A |
 | 17 | [Atletico](http://twitter.com/search?q=Atletico) | N/A |
-| 18 | [Obajtek](http://twitter.com/search?q=Obajtek) | N/A |
-| 19 | [Kraft](http://twitter.com/search?q=Kraft) | N/A |
+| 18 | [Kraft](http://twitter.com/search?q=Kraft) | N/A |
+| 19 | [Obajtek](http://twitter.com/search?q=Obajtek) | N/A |
 | 20 | [Przyjaźń](http://twitter.com/search?q=Przyja%c5%ba%c5%84) | N/A |
 | 21 | [Alvaro](http://twitter.com/search?q=Alvaro) | N/A |
 | 22 | [zaksa](http://twitter.com/search?q=zaksa) | N/A |
-| 23 | [Resovia](http://twitter.com/search?q=Resovia) | N/A |
-| 24 | [Lechia](http://twitter.com/search?q=Lechia) | N/A |
-| 25 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 26 | [San Marino](http://twitter.com/search?q=San+Marino) | N/A |
-| 27 | [paweł wąsek](http://twitter.com/search?q=pawe%c5%82+w%c4%85sek) | N/A |
-| 28 | [Bury](http://twitter.com/search?q=Bury) | N/A |
-| 29 | [sokołowski](http://twitter.com/search?q=soko%c5%82owski) | N/A |
-| 30 | [Wrzosek](http://twitter.com/search?q=Wrzosek) | N/A |
-| 31 | [De Fries](http://twitter.com/search?q=De+Fries) | N/A |
-| 32 | [Leopardy](http://twitter.com/search?q=Leopardy) | N/A |
-| 33 | [Crystal Palace](http://twitter.com/search?q=Crystal+Palace) | Crystal Palace is a cast-iron and plate-glass building originally erected in Hyde Park, London, England, for the Great Exhibition of 1851. The structure was designed by Joseph Paxton and was the first large prefabricated building ever constructed. It has since become a symbol of Victorian architecture and engineering. The term "Crystal Palace" is often used to refer to any large, grand building made of glass and metal. |
-| 34 | [Madrytu](http://twitter.com/search?q=Madrytu) | N/A |
-| 35 | [Warty](http://twitter.com/search?q=Warty) | N/A |
-| 36 | [Geiger](http://twitter.com/search?q=Geiger) | N/A |
-| 37 | [Widzew](http://twitter.com/search?q=Widzew) | N/A |
-| 38 | [Fortuna](http://twitter.com/search?q=Fortuna) | N/A |
-| 39 | [Piast](http://twitter.com/search?q=Piast) | N/A |
-| 40 | [Małysz](http://twitter.com/search?q=Ma%c5%82ysz) | N/A |
-| 41 | [burego](http://twitter.com/search?q=burego) | N/A |
-| 42 | [Ukraińców](http://twitter.com/search?q=Ukrai%c5%84c%c3%b3w) | N/A |
-| 43 | [Niemcom](http://twitter.com/search?q=Niemcom) | N/A |
-| 44 | [rosołek](http://twitter.com/search?q=roso%c5%82ek) | N/A |
-| 45 | [andruszkiewicza](http://twitter.com/search?q=andruszkiewicza) | N/A |
-| 46 | [bronder](http://twitter.com/search?q=bronder) | N/A |
-| 47 | [Lotos](http://twitter.com/search?q=Lotos) | N/A |
+| 23 | [resovia](http://twitter.com/search?q=resovia) | N/A |
+| 24 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 25 | [San Marino](http://twitter.com/search?q=San+Marino) | N/A |
+| 26 | [paweł wąsek](http://twitter.com/search?q=pawe%c5%82+w%c4%85sek) | N/A |
+| 27 | [Bury](http://twitter.com/search?q=Bury) | N/A |
+| 28 | [sokołowski](http://twitter.com/search?q=soko%c5%82owski) | N/A |
+| 29 | [Wrzosek](http://twitter.com/search?q=Wrzosek) | N/A |
+| 30 | [de fries](http://twitter.com/search?q=de+fries) | N/A |
+| 31 | [Leopardy](http://twitter.com/search?q=Leopardy) | N/A |
+| 32 | [Crystal Palace](http://twitter.com/search?q=Crystal+Palace) | Crystal Palace is a cast-iron and plate-glass building originally erected in Hyde Park, London, England, for the Great Exhibition of 1851. The structure was designed by Joseph Paxton and was the first large prefabricated building ever constructed. It has since become a symbol of Victorian architecture and engineering. The term "Crystal Palace" is often used to refer to any large, grand building made of glass and metal. |
+| 33 | [madrytu](http://twitter.com/search?q=madrytu) | N/A |
+| 34 | [Geiger](http://twitter.com/search?q=Geiger) | N/A |
+| 35 | [Widzew](http://twitter.com/search?q=Widzew) | N/A |
+| 36 | [Fortuna](http://twitter.com/search?q=Fortuna) | N/A |
+| 37 | [Piast](http://twitter.com/search?q=Piast) | N/A |
+| 38 | [Małysz](http://twitter.com/search?q=Ma%c5%82ysz) | N/A |
+| 39 | [burego](http://twitter.com/search?q=burego) | N/A |
+| 40 | [Ukraińców](http://twitter.com/search?q=Ukrai%c5%84c%c3%b3w) | N/A |
+| 41 | [Warty](http://twitter.com/search?q=Warty) | N/A |
+| 42 | [Niemcom](http://twitter.com/search?q=Niemcom) | N/A |
+| 43 | [andruszkiewicza](http://twitter.com/search?q=andruszkiewicza) | N/A |
+| 44 | [bronder](http://twitter.com/search?q=bronder) | N/A |
+| 45 | [rosołek](http://twitter.com/search?q=roso%c5%82ek) | N/A |
+| 46 | [Lotos](http://twitter.com/search?q=Lotos) | N/A |
+| 47 | [Hubert Hurkacz](http://twitter.com/search?q=Hubert+Hurkacz) | N/A |
 | 48 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
 | 49 | [Kaczmarek](http://twitter.com/search?q=Kaczmarek) | N/A |
-| 50 | [Żyłę](http://twitter.com/search?q=%c5%bby%c5%82%c4%99) | N/A |
+| 50 | [Lechii](http://twitter.com/search?q=Lechii) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-02-26 02:44:26 UTC`
+📆 Last Updated: `2023-02-26 03:25:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,17 +23,17 @@ This is top 50 for Denmark
 | 6 | [#lfcdk](http://twitter.com/search?q=%23lfcdk) | N/A |
 | 7 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
 | 8 | [#OHN23](http://twitter.com/search?q=%23OHN23) | N/A |
-| 9 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
-| 10 | [Pape](http://twitter.com/search?q=Pape) | N/A |
-| 11 | [Folketinget](http://twitter.com/search?q=Folketinget) | N/A |
-| 12 | [Premier League](http://twitter.com/search?q=Premier+League) | N/A |
-| 13 | [Rusland](http://twitter.com/search?q=Rusland) | N/A |
-| 14 | [farum](http://twitter.com/search?q=farum) | N/A |
-| 15 | [Alternativet](http://twitter.com/search?q=Alternativet) | N/A |
-| 16 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 17 | [Simon](http://twitter.com/search?q=Simon) | N/A |
+| 9 | [Pape](http://twitter.com/search?q=Pape) | N/A |
+| 10 | [Folketinget](http://twitter.com/search?q=Folketinget) | N/A |
+| 11 | [Rusland](http://twitter.com/search?q=Rusland) | N/A |
+| 12 | [farum](http://twitter.com/search?q=farum) | N/A |
+| 13 | [Alternativet](http://twitter.com/search?q=Alternativet) | N/A |
+| 14 | [Premier League](http://twitter.com/search?q=Premier+League) | N/A |
+| 15 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 16 | [Simon](http://twitter.com/search?q=Simon) | N/A |
+| 17 | [#obdk](http://twitter.com/search?q=%23obdk) | N/A |
 | 18 | [næstved](http://twitter.com/search?q=n%c3%a6stved) | N/A |
-| 19 | [#obdk](http://twitter.com/search?q=%23obdk) | N/A |
+| 19 | [#cyklingdk](http://twitter.com/search?q=%23cyklingdk) | N/A |
 | 20 | [Pogacar](http://twitter.com/search?q=Pogacar) | N/A |
 | 21 | [Parken](http://twitter.com/search?q=Parken) | N/A |
 | 22 | [Irak](http://twitter.com/search?q=Irak) | N/A |
@@ -48,23 +48,23 @@ This is top 50 for Denmark
 | 31 | [puha](http://twitter.com/search?q=puha) | N/A |
 | 32 | [Surely](http://twitter.com/search?q=Surely) | N/A |
 | 33 | [st. bededag](http://twitter.com/search?q=st.+bededag) | N/A |
-| 34 | [cepos](http://twitter.com/search?q=cepos) | N/A |
-| 35 | [Europas](http://twitter.com/search?q=Europas) | N/A |
-| 36 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
-| 37 | [Australia](http://twitter.com/search?q=Australia) | N/A |
-| 38 | [Kina](http://twitter.com/search?q=Kina) | N/A |
-| 39 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 40 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 41 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 34 | [Europas](http://twitter.com/search?q=Europas) | N/A |
+| 35 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 36 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 37 | [Kina](http://twitter.com/search?q=Kina) | N/A |
+| 38 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
+| 39 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 40 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 41 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
 | 42 | [Christmas](http://twitter.com/search?q=Christmas) | Christmas is an annual festival commemorating the birth of Jesus Christ, observed primarily on December 25 as a religious and cultural celebration among billions of people around the world. The traditional Christmas narrative, the Nativity of Jesus, delineated in the New Testament says that Jesus was born in Bethlehem, in accordance with messianic prophecies. When Joseph and Mary arrived in the city, the inn had no room and so they were offered a stable where the Christ Child was soon born. |
-| 43 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
-| 44 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 45 | [Musk](http://twitter.com/search?q=Musk) | N/A |
-| 46 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 43 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 44 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 45 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 46 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
 | 47 | [Sygt](http://twitter.com/search?q=Sygt) | N/A |
 | 48 | [Jensen](http://twitter.com/search?q=Jensen) | N/A |
-| 49 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 50 | [Viaplay](http://twitter.com/search?q=Viaplay) | N/A |
+| 49 | [Viaplay](http://twitter.com/search?q=Viaplay) | N/A |
+| 50 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
 
 
 

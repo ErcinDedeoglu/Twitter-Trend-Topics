@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pakistan
 
-📆 Last Updated: `2023-02-26 02:44:30 UTC`
+📆 Last Updated: `2023-02-26 03:25:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,47 +24,47 @@ This is top 50 for Pakistan
 | 7 | [We Condemn Enemy Of Sahaba](http://twitter.com/search?q=We+Condemn+Enemy+Of+Sahaba) | N/A |
 | 8 | [no psl](http://twitter.com/search?q=no+psl) | N/A |
 | 9 | [Sabahat Rizvi](http://twitter.com/search?q=Sabahat+Rizvi) | N/A |
-| 10 | [fahad](http://twitter.com/search?q=fahad) | N/A |
-| 11 | [IELTS](http://twitter.com/search?q=IELTS) | N/A |
+| 10 | [IELTS](http://twitter.com/search?q=IELTS) | N/A |
+| 11 | [Fahad](http://twitter.com/search?q=Fahad) | N/A |
 | 12 | [Abideen](http://twitter.com/search?q=Abideen) | N/A |
 | 13 | [Imam Zain](http://twitter.com/search?q=Imam+Zain) | N/A |
 | 14 | [lhcba](http://twitter.com/search?q=lhcba) | N/A |
-| 15 | [Imam Sajjad](http://twitter.com/search?q=Imam+Sajjad) | N/A |
-| 16 | [Asim Riaz](http://twitter.com/search?q=Asim+Riaz) | N/A |
+| 15 | [ASIM RIAZ](http://twitter.com/search?q=ASIM+RIAZ) | N/A |
+| 16 | [Imam Sajjad](http://twitter.com/search?q=Imam+Sajjad) | N/A |
 | 17 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
-| 18 | [ASIF ALI](http://twitter.com/search?q=ASIF+ALI) | N/A |
-| 19 | [Hafeez](http://twitter.com/search?q=Hafeez) | N/A |
+| 18 | [Hafeez](http://twitter.com/search?q=Hafeez) | N/A |
+| 19 | [asif ali](http://twitter.com/search?q=asif+ali) | N/A |
 | 20 | [Dirty Harry](http://twitter.com/search?q=Dirty+Harry) | N/A |
 | 21 | [Javed Ali](http://twitter.com/search?q=Javed+Ali) | N/A |
 | 22 | [Wikipedia](http://twitter.com/search?q=Wikipedia) | N/A |
-| 23 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
-| 24 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 23 | [benazir income support program](http://twitter.com/search?q=benazir+income+support+program) | N/A |
+| 24 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
 | 25 | [alkhidmat foundation](http://twitter.com/search?q=alkhidmat+foundation) | N/A |
-| 26 | [benazir income support program](http://twitter.com/search?q=benazir+income+support+program) | N/A |
-| 27 | [Abrar](http://twitter.com/search?q=Abrar) | N/A |
-| 28 | [umer graces the dance floor](http://twitter.com/search?q=umer+graces+the+dance+floor) | N/A |
-| 29 | [Breaking Bad](http://twitter.com/search?q=Breaking+Bad) | N/A |
-| 30 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
-| 31 | [Shakespeare](http://twitter.com/search?q=Shakespeare) | N/A |
-| 32 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 33 | [Oxford](http://twitter.com/search?q=Oxford) | Oxford is a city in England, located about 50 miles northwest of London. It is best known as the home of the University of Oxford, the oldest university in the English-speaking world. The city is also known for its many historic buildings, including the Bodleian Library and Christ Church College. |
-| 34 | [Punjab Govt](http://twitter.com/search?q=Punjab+Govt) | N/A |
-| 35 | [Abu Bakr](http://twitter.com/search?q=Abu+Bakr) | N/A |
+| 26 | [umer graces the dance floor](http://twitter.com/search?q=umer+graces+the+dance+floor) | N/A |
+| 27 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 28 | [Breaking Bad](http://twitter.com/search?q=Breaking+Bad) | N/A |
+| 29 | [Abrar](http://twitter.com/search?q=Abrar) | N/A |
+| 30 | [Shakespeare](http://twitter.com/search?q=Shakespeare) | N/A |
+| 31 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 32 | [Oxford](http://twitter.com/search?q=Oxford) | Oxford is a city in England, located about 50 miles northwest of London. It is best known as the home of the University of Oxford, the oldest university in the English-speaking world. The city is also known for its many historic buildings, including the Bodleian Library and Christ Church College. |
+| 33 | [People of Pakistan](http://twitter.com/search?q=People+of+Pakistan) | N/A |
+| 34 | [Abu Bakr](http://twitter.com/search?q=Abu+Bakr) | N/A |
+| 35 | [Punjab Govt](http://twitter.com/search?q=Punjab+Govt) | N/A |
 | 36 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
 | 37 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
 | 38 | [Masters](http://twitter.com/search?q=Masters) | N/A |
-| 39 | [Heya](http://twitter.com/search?q=Heya) | N/A |
-| 40 | [Nani](http://twitter.com/search?q=Nani) | N/A |
-| 41 | [People of Pakistan](http://twitter.com/search?q=People+of+Pakistan) | N/A |
-| 42 | [Just HMU](http://twitter.com/search?q=Just+HMU) | N/A |
-| 43 | [Kindly DM](http://twitter.com/search?q=Kindly+DM) | N/A |
-| 44 | [Black](http://twitter.com/search?q=Black) | N/A |
-| 45 | [Spring](http://twitter.com/search?q=Spring) | N/A |
-| 46 | [Amen](http://twitter.com/search?q=Amen) | N/A |
-| 47 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 48 | [Prophet](http://twitter.com/search?q=Prophet) | N/A |
-| 49 | [Japan](http://twitter.com/search?q=Japan) | N/A |
-| 50 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
+| 39 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
+| 40 | [Heya](http://twitter.com/search?q=Heya) | N/A |
+| 41 | [Black](http://twitter.com/search?q=Black) | N/A |
+| 42 | [Army](http://twitter.com/search?q=Army) | N/A |
+| 43 | [Nani](http://twitter.com/search?q=Nani) | N/A |
+| 44 | [Amen](http://twitter.com/search?q=Amen) | N/A |
+| 45 | [Just HMU](http://twitter.com/search?q=Just+HMU) | N/A |
+| 46 | [Fantastic](http://twitter.com/search?q=Fantastic) | N/A |
+| 47 | [Ameeen](http://twitter.com/search?q=Ameeen) | N/A |
+| 48 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
+| 49 | [Inbox](http://twitter.com/search?q=Inbox) | N/A |
+| 50 | [Prophet](http://twitter.com/search?q=Prophet) | N/A |
 
 
 

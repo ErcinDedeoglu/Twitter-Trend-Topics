@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Boston
 
-📆 Last Updated: `2023-02-26 02:44:18 UTC`
+📆 Last Updated: `2023-02-26 03:25:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
-| 2 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
-| 3 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
-| 4 | [76ers](http://twitter.com/search?q=76ers) | 76ers is the nickname of the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The team was originally founded in 1946 as the Syracuse Nationals and changed its name to the 76ers in 1963. The name "76ers" is a reference to the year 1776, when the Declaration of Independence was signed in Philadelphia. |
-| 5 | [Vancouver](http://twitter.com/search?q=Vancouver) | N/A |
-| 6 | [Brad Marchand](http://twitter.com/search?q=Brad+Marchand) | N/A |
-| 7 | [Hathaway](http://twitter.com/search?q=Hathaway) | N/A |
-| 8 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
+| 1 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
+| 2 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
+| 3 | [Vancouver](http://twitter.com/search?q=Vancouver) | N/A |
+| 4 | [#BleedGreen](http://twitter.com/search?q=%23BleedGreen) | N/A |
+| 5 | [Brad Marchand](http://twitter.com/search?q=Brad+Marchand) | N/A |
+| 6 | [Hathaway](http://twitter.com/search?q=Hathaway) | N/A |
+| 7 | [#iubb](http://twitter.com/search?q=%23iubb) | #iubb is an abbreviation for Indiana University Bloomington, which is a public research university located in Bloomington, Indiana. |
+| 8 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
 | 9 | [#NAACPImageAwards](http://twitter.com/search?q=%23NAACPImageAwards) | N/A |
-| 10 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
-| 11 | [#iubb](http://twitter.com/search?q=%23iubb) | #iubb is an abbreviation for Indiana University Bloomington, which is a public research university located in Bloomington, Indiana. |
-| 12 | [#UFCVegas70](http://twitter.com/search?q=%23UFCVegas70) | N/A |
-| 13 | [Paul Ryan](http://twitter.com/search?q=Paul+Ryan) | Paul Ryan is the name of an American politician who served as the 54th Speaker of the United States House of Representatives from October 2015 to January 2019. He is a member of the Republican Party and was previously the Vice Presidential nominee for the 2012 election. The meaning of his name in English is "little king". |
-| 14 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
-| 15 | [#Chrome23](http://twitter.com/search?q=%23Chrome23) | N/A |
-| 16 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
-| 17 | [#Svengoolie](http://twitter.com/search?q=%23Svengoolie) | N/A |
-| 18 | [Mark Williams](http://twitter.com/search?q=Mark+Williams) | N/A |
-| 19 | [Almada](http://twitter.com/search?q=Almada) | N/A |
-| 20 | [Edey](http://twitter.com/search?q=Edey) | Edey is a slang term used in some parts of the United States to refer to someone who is cool, stylish, or attractive. It can also be used as a term of endearment. |
-| 21 | [Brendan Allen](http://twitter.com/search?q=Brendan+Allen) | N/A |
-| 22 | [PJ Tucker](http://twitter.com/search?q=PJ+Tucker) | PJ Tucker is an American professional basketball player who currently plays for the Houston Rockets of the National Basketball Association (NBA). His nickname is "The Round Mound of Rebound" due to his ability to grab rebounds despite his relatively small size. |
-| 23 | [Jalen Hood](http://twitter.com/search?q=Jalen+Hood) | N/A |
-| 24 | [Muniz](http://twitter.com/search?q=Muniz) | N/A |
-| 25 | [MLS 360](http://twitter.com/search?q=MLS+360) | N/A |
-| 26 | [Tim Parker](http://twitter.com/search?q=Tim+Parker) | N/A |
-| 27 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
+| 10 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
+| 11 | [Al Horford](http://twitter.com/search?q=Al+Horford) | Al Horford is a professional basketball player from the Dominican Republic who currently plays for the Philadelphia 76ers of the National Basketball Association (NBA). He is a four-time NBA All-Star and has won two NBA championships with the Boston Celtics. The meaning of Al Horford in English is "a talented basketball player". |
+| 12 | [Linus Ullmark](http://twitter.com/search?q=Linus+Ullmark) | N/A |
+| 13 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
+| 14 | [Jalen Hood](http://twitter.com/search?q=Jalen+Hood) | N/A |
+| 15 | [GOALIE GOAL](http://twitter.com/search?q=GOALIE+GOAL) | N/A |
+| 16 | [#Chrome23](http://twitter.com/search?q=%23Chrome23) | N/A |
+| 17 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
+| 18 | [Paul Ryan](http://twitter.com/search?q=Paul+Ryan) | Paul Ryan is the name of an American politician who served as the 54th Speaker of the United States House of Representatives from October 2015 to January 2019. He is a member of the Republican Party and was previously the Vice Presidential nominee for the 2012 election. The meaning of his name in English is "little king". |
+| 19 | [#UFCVegas70](http://twitter.com/search?q=%23UFCVegas70) | N/A |
+| 20 | [Almada](http://twitter.com/search?q=Almada) | N/A |
+| 21 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
+| 22 | [Edey](http://twitter.com/search?q=Edey) | Edey is a slang term used in some parts of the United States to refer to someone who is cool, stylish, or attractive. It can also be used as a term of endearment. |
+| 23 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
+| 24 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
+| 25 | [PJ Tucker](http://twitter.com/search?q=PJ+Tucker) | PJ Tucker is an American professional basketball player who currently plays for the Houston Rockets of the National Basketball Association (NBA). His nickname is "The Round Mound of Rebound" due to his ability to grab rebounds despite his relatively small size. |
+| 26 | [Eazy](http://twitter.com/search?q=Eazy) | N/A |
+| 27 | [Hoosiers](http://twitter.com/search?q=Hoosiers) | N/A |
 | 28 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
-| 29 | [Trey Galloway](http://twitter.com/search?q=Trey+Galloway) | N/A |
-| 30 | [D'Eriq King](http://twitter.com/search?q=D%27Eriq+King) | N/A |
-| 31 | [Pete Nance](http://twitter.com/search?q=Pete+Nance) | N/A |
-| 32 | [Apple TV](http://twitter.com/search?q=Apple+TV) | N/A |
-| 33 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
-| 34 | [Queen Latifah](http://twitter.com/search?q=Queen+Latifah) | Queen Latifah is the stage name of American rapper, singer, songwriter, actress, and producer Dana Elaine Owens. The name Queen Latifah is derived from the Arabic word "Latifah," which means "delicate" or "sensitive." |
-| 35 | [Driussi](http://twitter.com/search?q=Driussi) | N/A |
-| 36 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
-| 37 | [Ben Crump](http://twitter.com/search?q=Ben+Crump) | N/A |
-| 38 | [Uncle Clifford](http://twitter.com/search?q=Uncle+Clifford) | N/A |
-| 39 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
-| 40 | [DC United](http://twitter.com/search?q=DC+United) | N/A |
-| 41 | [Horford](http://twitter.com/search?q=Horford) | Horford is a surname of Spanish origin. It is derived from the Latin word "horreum" which means granary or storehouse. The name is most commonly associated with Al Horford, an American professional basketball player who currently plays for the Philadelphia 76ers. |
-| 42 | [Atlanta United](http://twitter.com/search?q=Atlanta+United) | N/A |
-| 43 | [Tatiana Suarez](http://twitter.com/search?q=Tatiana+Suarez) | N/A |
-| 44 | [Trevor Peek](http://twitter.com/search?q=Trevor+Peek) | N/A |
-| 45 | [Olive Garden](http://twitter.com/search?q=Olive+Garden) | N/A |
-| 46 | [Mayes](http://twitter.com/search?q=Mayes) | N/A |
-| 47 | [Benteke](http://twitter.com/search?q=Benteke) | N/A |
-| 48 | [Race Thompson](http://twitter.com/search?q=Race+Thompson) | N/A |
-| 49 | [michelle obama](http://twitter.com/search?q=michelle+obama) | N/A |
+| 29 | [Mark Williams](http://twitter.com/search?q=Mark+Williams) | N/A |
+| 30 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
+| 31 | [Indiana](http://twitter.com/search?q=Indiana) | Indiana is a state in the Midwestern United States. It is bordered by Michigan to the north, Ohio to the east, Kentucky to the south, and Illinois to the west. The meaning of Indiana in English is "Land of the Indians". |
+| 32 | [Brendan Allen](http://twitter.com/search?q=Brendan+Allen) | N/A |
+| 33 | [Mackey](http://twitter.com/search?q=Mackey) | N/A |
+| 34 | [Adorno](http://twitter.com/search?q=Adorno) | N/A |
+| 35 | [MLS 360](http://twitter.com/search?q=MLS+360) | N/A |
+| 36 | [Jack Edwards](http://twitter.com/search?q=Jack+Edwards) | N/A |
+| 37 | [Muniz](http://twitter.com/search?q=Muniz) | N/A |
+| 38 | [Atlanta United](http://twitter.com/search?q=Atlanta+United) | N/A |
+| 39 | [Tim Parker](http://twitter.com/search?q=Tim+Parker) | N/A |
+| 40 | [Apple TV](http://twitter.com/search?q=Apple+TV) | N/A |
+| 41 | [Trey Galloway](http://twitter.com/search?q=Trey+Galloway) | N/A |
+| 42 | [D'Eriq King](http://twitter.com/search?q=D%27Eriq+King) | N/A |
+| 43 | [Thibs](http://twitter.com/search?q=Thibs) | Thibs is an abbreviation for Tom Thibodeau, an American professional basketball coach and former player. He is currently the head coach of the New York Knicks of the National Basketball Association (NBA). |
+| 44 | [76ers](http://twitter.com/search?q=76ers) | 76ers is the nickname of the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The team was originally founded in 1946 as the Syracuse Nationals and changed its name to the 76ers in 1963. The name "76ers" is a reference to the year 1776, when the Declaration of Independence was signed in Philadelphia. |
+| 45 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
+| 46 | [Jack Hughes](http://twitter.com/search?q=Jack+Hughes) | Jack Hughes is a British slang term used to describe someone who is considered to be a bit of a fool or an idiot. It can also be used to describe someone who is clumsy or inept. |
+| 47 | [Tobias Harris](http://twitter.com/search?q=Tobias+Harris) | Tobias Harris is an American professional basketball player who currently plays for the Philadelphia 76ers of the National Basketball Association (NBA). He was drafted 19th overall by the Charlotte Bobcats in the 2011 NBA draft. He is known for his ability to score from all three levels of the court and his versatility on defense. |
+| 48 | [John Gibson](http://twitter.com/search?q=John+Gibson) | N/A |
+| 49 | [Vezina](http://twitter.com/search?q=Vezina) | N/A |
+| 50 | [Queen Latifah](http://twitter.com/search?q=Queen+Latifah) | Queen Latifah is the stage name of American rapper, singer, songwriter, actress, and producer Dana Elaine Owens. The name Queen Latifah is derived from the Arabic word "Latifah," which means "delicate" or "sensitive." |
 
 
 

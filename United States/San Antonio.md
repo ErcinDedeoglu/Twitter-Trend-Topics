@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Antonio
 
-📆 Last Updated: `2023-02-26 02:44:23 UTC`
+📆 Last Updated: `2023-02-26 03:25:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#dtid](http://twitter.com/search?q=%23dtid) | N/A |
-| 2 | [#HoldItDown](http://twitter.com/search?q=%23HoldItDown) | N/A |
-| 3 | [RINO](http://twitter.com/search?q=RINO) | RINO stands for "Republican In Name Only," and it is a term used to describe a Republican politician who is perceived as not adhering to the party's traditional values or platform. |
-| 4 | [#SicEm](http://twitter.com/search?q=%23SicEm) | N/A |
-| 5 | [Baylor](http://twitter.com/search?q=Baylor) | Baylor is a private Christian university located in Waco, Texas. It was founded in 1845 and is the oldest continuously operating university in Texas. The name Baylor comes from the school's namesake, Judge R.E.B. Baylor, who was a leader in the Republic of Texas and a founding trustee of the university. The mission of Baylor University is to educate men and women for worldwide leadership and service by integrating academic excellence and Christian commitment within a caring community. |
-| 6 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
-| 7 | [Baseball](http://twitter.com/search?q=Baseball) | N/A |
-| 8 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 9 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 10 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
-| 11 | [#NAACPImageAwards](http://twitter.com/search?q=%23NAACPImageAwards) | N/A |
-| 12 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
-| 13 | [Paul Ryan](http://twitter.com/search?q=Paul+Ryan) | Paul Ryan is the name of an American politician who served as the 54th Speaker of the United States House of Representatives from October 2015 to January 2019. He is a member of the Republican Party and was previously the Vice Presidential nominee for the 2012 election. The meaning of his name in English is "little king". |
-| 14 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
-| 15 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
-| 16 | [Almada](http://twitter.com/search?q=Almada) | N/A |
-| 17 | [Mark Williams](http://twitter.com/search?q=Mark+Williams) | N/A |
-| 18 | [Edey](http://twitter.com/search?q=Edey) | Edey is a slang term used in some parts of the United States to refer to someone who is cool, stylish, or attractive. It can also be used as a term of endearment. |
-| 19 | [Brendan Allen](http://twitter.com/search?q=Brendan+Allen) | N/A |
-| 20 | [PJ Tucker](http://twitter.com/search?q=PJ+Tucker) | PJ Tucker is an American professional basketball player who currently plays for the Houston Rockets of the National Basketball Association (NBA). His nickname is "The Round Mound of Rebound" due to his ability to grab rebounds despite his relatively small size. |
-| 21 | [Jalen Hood](http://twitter.com/search?q=Jalen+Hood) | N/A |
-| 22 | [Muniz](http://twitter.com/search?q=Muniz) | N/A |
-| 23 | [MLS 360](http://twitter.com/search?q=MLS+360) | N/A |
-| 24 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
-| 25 | [Tim Parker](http://twitter.com/search?q=Tim+Parker) | N/A |
-| 26 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
-| 27 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
-| 28 | [Trey Galloway](http://twitter.com/search?q=Trey+Galloway) | N/A |
-| 29 | [D'Eriq King](http://twitter.com/search?q=D%27Eriq+King) | N/A |
-| 30 | [Pete Nance](http://twitter.com/search?q=Pete+Nance) | N/A |
-| 31 | [Apple TV](http://twitter.com/search?q=Apple+TV) | N/A |
-| 32 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
-| 33 | [Queen Latifah](http://twitter.com/search?q=Queen+Latifah) | Queen Latifah is the stage name of American rapper, singer, songwriter, actress, and producer Dana Elaine Owens. The name Queen Latifah is derived from the Arabic word "Latifah," which means "delicate" or "sensitive." |
-| 34 | [Driussi](http://twitter.com/search?q=Driussi) | N/A |
-| 35 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
-| 36 | [Ben Crump](http://twitter.com/search?q=Ben+Crump) | N/A |
-| 37 | [Uncle Clifford](http://twitter.com/search?q=Uncle+Clifford) | N/A |
-| 38 | [Atlanta United](http://twitter.com/search?q=Atlanta+United) | N/A |
-| 39 | [DC United](http://twitter.com/search?q=DC+United) | N/A |
-| 40 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
-| 41 | [Horford](http://twitter.com/search?q=Horford) | Horford is a surname of Spanish origin. It is derived from the Latin word "horreum" which means granary or storehouse. The name is most commonly associated with Al Horford, an American professional basketball player who currently plays for the Philadelphia 76ers. |
-| 42 | [Tatiana Suarez](http://twitter.com/search?q=Tatiana+Suarez) | N/A |
-| 43 | [Trevor Peek](http://twitter.com/search?q=Trevor+Peek) | N/A |
-| 44 | [Olive Garden](http://twitter.com/search?q=Olive+Garden) | N/A |
-| 45 | [Jack Hughes](http://twitter.com/search?q=Jack+Hughes) | Jack Hughes is a British slang term used to describe someone who is considered to be a bit of a fool or an idiot. It can also be used to describe someone who is clumsy or inept. |
-| 46 | [Mayes](http://twitter.com/search?q=Mayes) | N/A |
-| 47 | [Benteke](http://twitter.com/search?q=Benteke) | N/A |
-| 48 | [Brandon Newman](http://twitter.com/search?q=Brandon+Newman) | N/A |
-| 49 | [Race Thompson](http://twitter.com/search?q=Race+Thompson) | N/A |
+| 1 | [#DTID](http://twitter.com/search?q=%23DTID) | N/A |
+| 2 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
+| 3 | [#HoldItDown](http://twitter.com/search?q=%23HoldItDown) | N/A |
+| 4 | [Dynamo](http://twitter.com/search?q=Dynamo) | N/A |
+| 5 | [RINO](http://twitter.com/search?q=RINO) | RINO stands for "Republican In Name Only," and it is a term used to describe a Republican politician who is perceived as not adhering to the party's traditional values or platform. |
+| 6 | [#SicEm](http://twitter.com/search?q=%23SicEm) | N/A |
+| 7 | [Baylor](http://twitter.com/search?q=Baylor) | Baylor is a private Christian university located in Waco, Texas. It was founded in 1845 and is the oldest continuously operating university in Texas. The name Baylor comes from the school's namesake, Judge R.E.B. Baylor, who was a leader in the Republic of Texas and a founding trustee of the university. The mission of Baylor University is to educate men and women for worldwide leadership and service by integrating academic excellence and Christian commitment within a caring community. |
+| 8 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
+| 9 | [Baseball](http://twitter.com/search?q=Baseball) | N/A |
+| 10 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 11 | [Scott Adams](http://twitter.com/search?q=Scott+Adams) | N/A |
+| 12 | [#iubb](http://twitter.com/search?q=%23iubb) | #iubb is an abbreviation for Indiana University Bloomington, which is a public research university located in Bloomington, Indiana. |
+| 13 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
+| 14 | [#NAACPImageAwards](http://twitter.com/search?q=%23NAACPImageAwards) | N/A |
+| 15 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
+| 16 | [Al Horford](http://twitter.com/search?q=Al+Horford) | Al Horford is a professional basketball player from the Dominican Republic who currently plays for the Philadelphia 76ers of the National Basketball Association (NBA). He is a four-time NBA All-Star and has won two NBA championships with the Boston Celtics. The meaning of Al Horford in English is "a talented basketball player". |
+| 17 | [Linus Ullmark](http://twitter.com/search?q=Linus+Ullmark) | N/A |
+| 18 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
+| 19 | [Jalen Hood](http://twitter.com/search?q=Jalen+Hood) | N/A |
+| 20 | [GOALIE GOAL](http://twitter.com/search?q=GOALIE+GOAL) | N/A |
+| 21 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
+| 22 | [Paul Ryan](http://twitter.com/search?q=Paul+Ryan) | Paul Ryan is the name of an American politician who served as the 54th Speaker of the United States House of Representatives from October 2015 to January 2019. He is a member of the Republican Party and was previously the Vice Presidential nominee for the 2012 election. The meaning of his name in English is "little king". |
+| 23 | [Almada](http://twitter.com/search?q=Almada) | N/A |
+| 24 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
+| 25 | [Edey](http://twitter.com/search?q=Edey) | Edey is a slang term used in some parts of the United States to refer to someone who is cool, stylish, or attractive. It can also be used as a term of endearment. |
+| 26 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
+| 27 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
+| 28 | [PJ Tucker](http://twitter.com/search?q=PJ+Tucker) | PJ Tucker is an American professional basketball player who currently plays for the Houston Rockets of the National Basketball Association (NBA). His nickname is "The Round Mound of Rebound" due to his ability to grab rebounds despite his relatively small size. |
+| 29 | [Eazy](http://twitter.com/search?q=Eazy) | N/A |
+| 30 | [Hoosiers](http://twitter.com/search?q=Hoosiers) | N/A |
+| 31 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
+| 32 | [Mark Williams](http://twitter.com/search?q=Mark+Williams) | N/A |
+| 33 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
+| 34 | [Indiana](http://twitter.com/search?q=Indiana) | Indiana is a state in the Midwestern United States. It is bordered by Michigan to the north, Ohio to the east, Kentucky to the south, and Illinois to the west. The meaning of Indiana in English is "Land of the Indians". |
+| 35 | [Brendan Allen](http://twitter.com/search?q=Brendan+Allen) | N/A |
+| 36 | [Mackey](http://twitter.com/search?q=Mackey) | N/A |
+| 37 | [Adorno](http://twitter.com/search?q=Adorno) | N/A |
+| 38 | [MLS 360](http://twitter.com/search?q=MLS+360) | N/A |
+| 39 | [Jack Edwards](http://twitter.com/search?q=Jack+Edwards) | N/A |
+| 40 | [Muniz](http://twitter.com/search?q=Muniz) | N/A |
+| 41 | [Atlanta United](http://twitter.com/search?q=Atlanta+United) | N/A |
+| 42 | [Tim Parker](http://twitter.com/search?q=Tim+Parker) | N/A |
+| 43 | [Apple TV](http://twitter.com/search?q=Apple+TV) | N/A |
+| 44 | [Trey Galloway](http://twitter.com/search?q=Trey+Galloway) | N/A |
+| 45 | [D'Eriq King](http://twitter.com/search?q=D%27Eriq+King) | N/A |
+| 46 | [Thibs](http://twitter.com/search?q=Thibs) | Thibs is an abbreviation for Tom Thibodeau, an American professional basketball coach and former player. He is currently the head coach of the New York Knicks of the National Basketball Association (NBA). |
+| 47 | [76ers](http://twitter.com/search?q=76ers) | 76ers is the nickname of the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The team was originally founded in 1946 as the Syracuse Nationals and changed its name to the 76ers in 1963. The name "76ers" is a reference to the year 1776, when the Declaration of Independence was signed in Philadelphia. |
+| 48 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
+| 49 | [Jack Hughes](http://twitter.com/search?q=Jack+Hughes) | Jack Hughes is a British slang term used to describe someone who is considered to be a bit of a fool or an idiot. It can also be used to describe someone who is clumsy or inept. |
 
 
 

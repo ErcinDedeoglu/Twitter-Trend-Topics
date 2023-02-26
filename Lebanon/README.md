@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lebanon
 
-📆 Last Updated: `2023-02-26 02:44:29 UTC`
+📆 Last Updated: `2023-02-26 03:25:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -31,40 +31,40 @@ This is top 50 for Lebanon
 | 14 | [الحرس الثوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%b1%d8%b3+%d8%a7%d9%84%d8%ab%d9%88%d8%b1%d9%8a) | N/A |
 | 15 | [سماح حسام الدين](http://twitter.com/search?q=%d8%b3%d9%85%d8%a7%d8%ad+%d8%ad%d8%b3%d8%a7%d9%85+%d8%a7%d9%84%d8%af%d9%8a%d9%86) | N/A |
 | 16 | [قمر العشيره](http://twitter.com/search?q=%d9%82%d9%85%d8%b1+%d8%a7%d9%84%d8%b9%d8%b4%d9%8a%d8%b1%d9%87) | N/A |
-| 17 | [زين العابدين](http://twitter.com/search?q=%d8%b2%d9%8a%d9%86+%d8%a7%d9%84%d8%b9%d8%a7%d8%a8%d8%af%d9%8a%d9%86) | N/A |
-| 18 | [طوني بولس](http://twitter.com/search?q=%d8%b7%d9%88%d9%86%d9%8a+%d8%a8%d9%88%d9%84%d8%b3) | N/A |
+| 17 | [طوني بولس](http://twitter.com/search?q=%d8%b7%d9%88%d9%86%d9%8a+%d8%a8%d9%88%d9%84%d8%b3) | N/A |
+| 18 | [زين العابدين](http://twitter.com/search?q=%d8%b2%d9%8a%d9%86+%d8%a7%d9%84%d8%b9%d8%a7%d8%a8%d8%af%d9%8a%d9%86) | N/A |
 | 19 | [مخيم نهر البارد](http://twitter.com/search?q=%d9%85%d8%ae%d9%8a%d9%85+%d9%86%d9%87%d8%b1+%d8%a7%d9%84%d8%a8%d8%a7%d8%b1%d8%af) | N/A |
 | 20 | [٤ شعبان](http://twitter.com/search?q=%d9%a4+%d8%b4%d8%b9%d8%a8%d8%a7%d9%86) | N/A |
-| 21 | [الاتهام السياسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d9%87%d8%a7%d9%85+%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b3%d9%8a) | N/A |
-| 22 | [لقمان سليم](http://twitter.com/search?q=%d9%84%d9%82%d9%85%d8%a7%d9%86+%d8%b3%d9%84%d9%8a%d9%85) | N/A |
+| 21 | [لقمان سليم](http://twitter.com/search?q=%d9%84%d9%82%d9%85%d8%a7%d9%86+%d8%b3%d9%84%d9%8a%d9%85) | N/A |
+| 22 | [القوي الامنيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%88%d9%8a+%d8%a7%d9%84%d8%a7%d9%85%d9%86%d9%8a%d9%87) | N/A |
 | 23 | [علي اتحاد](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d8%aa%d8%ad%d8%a7%d8%af) | N/A |
 | 24 | [سرايا المقاومه](http://twitter.com/search?q=%d8%b3%d8%b1%d8%a7%d9%8a%d8%a7+%d8%a7%d9%84%d9%85%d9%82%d8%a7%d9%88%d9%85%d9%87) | N/A |
-| 25 | [القوي الامنيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%88%d9%8a+%d8%a7%d9%84%d8%a7%d9%85%d9%86%d9%8a%d9%87) | N/A |
-| 26 | [القضاء الفرنسي](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b6%d8%a7%d8%a1+%d8%a7%d9%84%d9%81%d8%b1%d9%86%d8%b3%d9%8a) | N/A |
-| 27 | [علي بن الحسين](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a8%d9%86+%d8%a7%d9%84%d8%ad%d8%b3%d9%8a%d9%86) | N/A |
-| 28 | [فرع المعلومات](http://twitter.com/search?q=%d9%81%d8%b1%d8%b9+%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa) | N/A |
-| 29 | [الاجهزه الامنيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ac%d9%87%d8%b2%d9%87+%d8%a7%d9%84%d8%a7%d9%85%d9%86%d9%8a%d9%87) | N/A |
-| 30 | [رييس البلديه](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%a8%d9%84%d8%af%d9%8a%d9%87) | N/A |
-| 31 | [الريال](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d9%84) | الريال is the currency of Saudi Arabia. In English, it is known as the Saudi Riyal. |
-| 32 | [القايد الجريح](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%a7%d9%8a%d8%af+%d8%a7%d9%84%d8%ac%d8%b1%d9%8a%d8%ad) | N/A |
-| 33 | [المقاومه الاسلاميه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%82%d8%a7%d9%88%d9%85%d9%87+%d8%a7%d9%84%d8%a7%d8%b3%d9%84%d8%a7%d9%85%d9%8a%d9%87) | N/A |
-| 34 | [ايلي لحود](http://twitter.com/search?q=%d8%a7%d9%8a%d9%84%d9%8a+%d9%84%d8%ad%d9%88%d8%af) | N/A |
-| 35 | [الشهداء الاحياء](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d8%af%d8%a7%d8%a1+%d8%a7%d9%84%d8%a7%d8%ad%d9%8a%d8%a7%d8%a1) | N/A |
-| 36 | [محمد سعد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%b3%d8%b9%d8%af) | N/A |
-| 37 | [باب الحوايج](http://twitter.com/search?q=%d8%a8%d8%a7%d8%a8+%d8%a7%d9%84%d8%ad%d9%88%d8%a7%d9%8a%d8%ac) | N/A |
-| 38 | [الاهلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a) | الاهلي is a professional football club based in Cairo, Egypt. It is one of the most successful clubs in the country, having won the Egyptian Premier League title a record 39 times. In English, it translates to "The Family". |
-| 39 | [بيكيه](http://twitter.com/search?q=%d8%a8%d9%8a%d9%83%d9%8a%d9%87) | N/A |
-| 40 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 41 | [القاء القبض](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%a7%d8%a1+%d8%a7%d9%84%d9%82%d8%a8%d8%b6) | N/A |
-| 42 | [بن علي](http://twitter.com/search?q=%d8%a8%d9%86+%d8%b9%d9%84%d9%8a) | N/A |
-| 43 | [ابو لولوه](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d9%84%d9%88%d9%84%d9%88%d9%87) | N/A |
-| 44 | [الامن الداخلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%86+%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a) | N/A |
-| 45 | [ميلاد الحسين](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d8%a7%d8%af+%d8%a7%d9%84%d8%ad%d8%b3%d9%8a%d9%86) | N/A |
+| 25 | [الاتهام السياسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d9%87%d8%a7%d9%85+%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b3%d9%8a) | N/A |
+| 26 | [النعرات الطايفيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%b9%d8%b1%d8%a7%d8%aa+%d8%a7%d9%84%d8%b7%d8%a7%d9%8a%d9%81%d9%8a%d9%87) | N/A |
+| 27 | [القضاء الفرنسي](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b6%d8%a7%d8%a1+%d8%a7%d9%84%d9%81%d8%b1%d9%86%d8%b3%d9%8a) | N/A |
+| 28 | [علي بن الحسين](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a8%d9%86+%d8%a7%d9%84%d8%ad%d8%b3%d9%8a%d9%86) | N/A |
+| 29 | [علي بن الحسين](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a8%d9%86+%d8%a7%d9%84%d8%ad%d8%b3%d9%8a%d9%86) | N/A |
+| 30 | [فرع المعلومات](http://twitter.com/search?q=%d9%81%d8%b1%d8%b9+%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa) | N/A |
+| 31 | [الاجهزه الامنيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ac%d9%87%d8%b2%d9%87+%d8%a7%d9%84%d8%a7%d9%85%d9%86%d9%8a%d9%87) | N/A |
+| 32 | [رييس البلديه](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%a8%d9%84%d8%af%d9%8a%d9%87) | N/A |
+| 33 | [الريال](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d9%84) | الريال is the currency of Saudi Arabia. In English, it is known as the Saudi Riyal. |
+| 34 | [القايد الجريح](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%a7%d9%8a%d8%af+%d8%a7%d9%84%d8%ac%d8%b1%d9%8a%d8%ad) | N/A |
+| 35 | [المقاومه الاسلاميه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%82%d8%a7%d9%88%d9%85%d9%87+%d8%a7%d9%84%d8%a7%d8%b3%d9%84%d8%a7%d9%85%d9%8a%d9%87) | N/A |
+| 36 | [ايلي لحود](http://twitter.com/search?q=%d8%a7%d9%8a%d9%84%d9%8a+%d9%84%d8%ad%d9%88%d8%af) | N/A |
+| 37 | [الشهداء الاحياء](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d8%af%d8%a7%d8%a1+%d8%a7%d9%84%d8%a7%d8%ad%d9%8a%d8%a7%d8%a1) | N/A |
+| 38 | [محمد سعد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%b3%d8%b9%d8%af) | N/A |
+| 39 | [الاهلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a) | الاهلي is a professional football club based in Cairo, Egypt. It is one of the most successful clubs in the country, having won the Egyptian Premier League title a record 39 times. In English, it translates to "The Family". |
+| 40 | [بيكيه](http://twitter.com/search?q=%d8%a8%d9%8a%d9%83%d9%8a%d9%87) | N/A |
+| 41 | [باب الحوايج](http://twitter.com/search?q=%d8%a8%d8%a7%d8%a8+%d8%a7%d9%84%d8%ad%d9%88%d8%a7%d9%8a%d8%ac) | N/A |
+| 42 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 43 | [القاء القبض](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%a7%d8%a1+%d8%a7%d9%84%d9%82%d8%a8%d8%b6) | N/A |
+| 44 | [ابو لولوه](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d9%84%d9%88%d9%84%d9%88%d9%87) | N/A |
+| 45 | [بن علي](http://twitter.com/search?q=%d8%a8%d9%86+%d8%b9%d9%84%d9%8a) | N/A |
 | 46 | [القرض الحسن](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b1%d8%b6+%d8%a7%d9%84%d8%ad%d8%b3%d9%86) | N/A |
-| 47 | [عمر بن الخطاب](http://twitter.com/search?q=%d8%b9%d9%85%d8%b1+%d8%a8%d9%86+%d8%a7%d9%84%d8%ae%d8%b7%d8%a7%d8%a8) | N/A |
-| 48 | [فيصل](http://twitter.com/search?q=%d9%81%d9%8a%d8%b5%d9%84) | N/A |
-| 49 | [دار الفتوي](http://twitter.com/search?q=%d8%af%d8%a7%d8%b1+%d8%a7%d9%84%d9%81%d8%aa%d9%88%d9%8a) | N/A |
-| 50 | [الطرف الاخر](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d8%b1%d9%81+%d8%a7%d9%84%d8%a7%d8%ae%d8%b1) | N/A |
+| 47 | [الامن الداخلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%86+%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a) | N/A |
+| 48 | [دفاع جوي](http://twitter.com/search?q=%d8%af%d9%81%d8%a7%d8%b9+%d8%ac%d9%88%d9%8a) | N/A |
+| 49 | [الذكري الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b0%d9%83%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
+| 50 | [فيصل](http://twitter.com/search?q=%d9%81%d9%8a%d8%b5%d9%84) | N/A |
 
 
 

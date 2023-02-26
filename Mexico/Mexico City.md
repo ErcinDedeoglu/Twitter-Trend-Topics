@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico City
 
-📆 Last Updated: `2023-02-26 02:43:43 UTC`
+📆 Last Updated: `2023-02-26 03:24:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Gignac](http://twitter.com/search?q=Gignac) | Gignac is a French surname. It is derived from the Old French word "gaigner", which means "to cultivate". In English, it can be translated to mean "farmer". |
+| 1 | [#CruzAzul](http://twitter.com/search?q=%23CruzAzul) | N/A |
 | 2 | [Ricardo Ferretti](http://twitter.com/search?q=Ricardo+Ferretti) | N/A |
-| 3 | [Sonora](http://twitter.com/search?q=Sonora) | N/A |
-| 4 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
-| 5 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
-| 6 | [Aquino](http://twitter.com/search?q=Aquino) | N/A |
+| 3 | [#LaMarchaDeLosNarcos](http://twitter.com/search?q=%23LaMarchaDeLosNarcos) | N/A |
+| 4 | [#LaMarchaDeLosPENDEJOS2](http://twitter.com/search?q=%23LaMarchaDeLosPENDEJOS2) | N/A |
+| 5 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
+| 6 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
 | 7 | [Chima](http://twitter.com/search?q=Chima) | N/A |
-| 8 | [Diego Reyes](http://twitter.com/search?q=Diego+Reyes) | N/A |
-| 9 | [Quiñones](http://twitter.com/search?q=Qui%c3%b1ones) | Quiñones is a Spanish surname derived from the Latin word "quinonem," which means "fifth." It is a common surname in Spain, Latin America, and the Philippines. In English, it can be translated to mean "the fifth one." |
-| 10 | [Pizarro](http://twitter.com/search?q=Pizarro) | N/A |
-| 11 | [Ronaldo Cisneros](http://twitter.com/search?q=Ronaldo+Cisneros) | N/A |
-| 12 | [Nahuel](http://twitter.com/search?q=Nahuel) | N/A |
-| 13 | [Henry Martin](http://twitter.com/search?q=Henry+Martin) | N/A |
-| 14 | [Angulo](http://twitter.com/search?q=Angulo) | N/A |
-| 15 | [#ECDQEMSD](http://twitter.com/search?q=%23ECDQEMSD) | N/A |
-| 16 | [Gorriaran](http://twitter.com/search?q=Gorriaran) | N/A |
-| 17 | [Carioca](http://twitter.com/search?q=Carioca) | N/A |
-| 18 | [#FueraTuca](http://twitter.com/search?q=%23FueraTuca) | N/A |
-| 19 | [Aluxe](http://twitter.com/search?q=Aluxe) | N/A |
-| 20 | [#MegaFutbol](http://twitter.com/search?q=%23MegaFutbol) | N/A |
-| 21 | [Lainez](http://twitter.com/search?q=Lainez) | Lainez is a Spanish surname. It is derived from the Latin name "Laneus", which means "from the lane". In English, it can be translated to mean "from the lane". |
-| 22 | [Baca](http://twitter.com/search?q=Baca) | N/A |
-| 23 | [Paunovic](http://twitter.com/search?q=Paunovic) | N/A |
-| 24 | [Oswaldo Sánchez](http://twitter.com/search?q=Oswaldo+S%c3%a1nchez) | N/A |
-| 25 | [#MostRequestedLive](http://twitter.com/search?q=%23MostRequestedLive) | N/A |
-| 26 | [Tiba](http://twitter.com/search?q=Tiba) | N/A |
-| 27 | [Uriel Antuna](http://twitter.com/search?q=Uriel+Antuna) | N/A |
-| 28 | [TIEMPOS DOS AÑOS](http://twitter.com/search?q=TIEMPOS+DOS+A%c3%91OS) | N/A |
-| 29 | [#MarcoReyPicks](http://twitter.com/search?q=%23MarcoReyPicks) | N/A |
-| 30 | [Dedales](http://twitter.com/search?q=Dedales) | N/A |
-| 31 | [Volcán](http://twitter.com/search?q=Volc%c3%a1n) | N/A |
-| 32 | [Lotti](http://twitter.com/search?q=Lotti) | N/A |
-| 33 | [Rivero](http://twitter.com/search?q=Rivero) | N/A |
-| 34 | [Guido](http://twitter.com/search?q=Guido) | Guido is a slang term used to refer to a certain type of Italian-American man. It is often used in a derogatory way to describe someone who is seen as overly macho, chauvinistic, and/or aggressive. |
-| 35 | [Cobarde](http://twitter.com/search?q=Cobarde) | N/A |
-| 36 | [Cordova](http://twitter.com/search?q=Cordova) | N/A |
-| 37 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 38 | [Rebaño](http://twitter.com/search?q=Reba%c3%b1o) | N/A |
-| 39 | [Rotondi](http://twitter.com/search?q=Rotondi) | N/A |
-| 40 | [Carneiro](http://twitter.com/search?q=Carneiro) | N/A |
-| 41 | [Bravos](http://twitter.com/search?q=Bravos) | N/A |
-| 42 | [Juárez](http://twitter.com/search?q=Ju%c3%a1rez) | N/A |
-| 43 | [Máquina](http://twitter.com/search?q=M%c3%a1quina) | N/A |
-| 44 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 45 | [76ers](http://twitter.com/search?q=76ers) | 76ers is the nickname of the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The team was originally founded in 1946 as the Syracuse Nationals and changed its name to the 76ers in 1963. The name "76ers" is a reference to the year 1776, when the Declaration of Independence was signed in Philadelphia. |
-| 46 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
-| 47 | [Jerry](http://twitter.com/search?q=Jerry) | N/A |
-| 48 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
+| 8 | [Aquino](http://twitter.com/search?q=Aquino) | N/A |
+| 9 | [Tiba](http://twitter.com/search?q=Tiba) | N/A |
+| 10 | [Quiñones](http://twitter.com/search?q=Qui%c3%b1ones) | Quiñones is a Spanish surname derived from the Latin word "quinonem," which means "fifth." It is a common surname in Spain, Latin America, and the Philippines. In English, it can be translated to mean "the fifth one." |
+| 11 | [Gignac](http://twitter.com/search?q=Gignac) | Gignac is a French surname. It is derived from the Old French word "gaigner", which means "to cultivate". In English, it can be translated to mean "farmer". |
+| 12 | [Lainez](http://twitter.com/search?q=Lainez) | Lainez is a Spanish surname. It is derived from the Latin name "Laneus", which means "from the lane". In English, it can be translated to mean "from the lane". |
+| 13 | [Pizarro](http://twitter.com/search?q=Pizarro) | N/A |
+| 14 | [Diego Reyes](http://twitter.com/search?q=Diego+Reyes) | N/A |
+| 15 | [Mozo](http://twitter.com/search?q=Mozo) | N/A |
+| 16 | [Henry Martin](http://twitter.com/search?q=Henry+Martin) | N/A |
+| 17 | [Córdova](http://twitter.com/search?q=C%c3%b3rdova) | N/A |
+| 18 | [Ronaldo Cisneros](http://twitter.com/search?q=Ronaldo+Cisneros) | N/A |
+| 19 | [Carioca](http://twitter.com/search?q=Carioca) | N/A |
+| 20 | [#ECDQEMSD](http://twitter.com/search?q=%23ECDQEMSD) | N/A |
+| 21 | [Nahuel](http://twitter.com/search?q=Nahuel) | N/A |
+| 22 | [#nishaspace](http://twitter.com/search?q=%23nishaspace) | N/A |
+| 23 | [Gorriaran](http://twitter.com/search?q=Gorriaran) | N/A |
+| 24 | [Aluxe](http://twitter.com/search?q=Aluxe) | N/A |
+| 25 | [Angulo](http://twitter.com/search?q=Angulo) | N/A |
+| 26 | [Paunovic](http://twitter.com/search?q=Paunovic) | N/A |
+| 27 | [Wacho](http://twitter.com/search?q=Wacho) | Wacho is a Spanish slang term that is used to describe someone who is attractive or good-looking. It can also be used to express admiration for someone's physical appearance. In English, it could be translated as "hot" or "sexy". |
+| 28 | [Volcán](http://twitter.com/search?q=Volc%c3%a1n) | N/A |
+| 29 | [Oswaldo Sánchez](http://twitter.com/search?q=Oswaldo+S%c3%a1nchez) | N/A |
+| 30 | [Baca](http://twitter.com/search?q=Baca) | N/A |
+| 31 | [Guido](http://twitter.com/search?q=Guido) | Guido is a slang term used to refer to a certain type of Italian-American man. It is often used in a derogatory way to describe someone who is seen as overly macho, chauvinistic, and/or aggressive. |
+| 32 | [Nico Ibáñez](http://twitter.com/search?q=Nico+Ib%c3%a1%c3%b1ez) | N/A |
+| 33 | [Rebaño](http://twitter.com/search?q=Reba%c3%b1o) | N/A |
+| 34 | [Dedales](http://twitter.com/search?q=Dedales) | N/A |
+| 35 | [TIEMPOS DOS AÑOS](http://twitter.com/search?q=TIEMPOS+DOS+A%c3%91OS) | N/A |
+| 36 | [Uriel Antuna](http://twitter.com/search?q=Uriel+Antuna) | N/A |
+| 37 | [Lotti](http://twitter.com/search?q=Lotti) | N/A |
+| 38 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
+| 39 | [Cobarde](http://twitter.com/search?q=Cobarde) | N/A |
+| 40 | [Rivero](http://twitter.com/search?q=Rivero) | N/A |
+| 41 | [Carneiro](http://twitter.com/search?q=Carneiro) | N/A |
+| 42 | [Rotondi](http://twitter.com/search?q=Rotondi) | N/A |
+| 43 | [TUDN](http://twitter.com/search?q=TUDN) | N/A |
+| 44 | [Bravos](http://twitter.com/search?q=Bravos) | N/A |
+| 45 | [Jerry](http://twitter.com/search?q=Jerry) | N/A |
+| 46 | [Suecia](http://twitter.com/search?q=Suecia) | N/A |
+| 47 | [Máquina](http://twitter.com/search?q=M%c3%a1quina) | N/A |
+| 48 | [Juárez](http://twitter.com/search?q=Ju%c3%a1rez) | N/A |
 
 
 
