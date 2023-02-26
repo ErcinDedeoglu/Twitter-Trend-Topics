@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-02-26 14:15:55 UTC`
+📆 Last Updated: `2023-02-26 15:16:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,51 +16,51 @@ This is top 50 for [Switzerland](</Switzerland>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#BolognaInter](http://twitter.com/search?q=%23BolognaInter) | N/A |
-| 2 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 2 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 3 | [#b2502](http://twitter.com/search?q=%23b2502) | N/A |
-| 4 | [Katar](http://twitter.com/search?q=Katar) | N/A |
-| 5 | [Schönen Sonntag](http://twitter.com/search?q=Sch%c3%b6nen+Sonntag) | "Schönen Sonntag" is a German phrase that translates to "Have a nice Sunday" in English. It is a common greeting used to wish someone a pleasant day on Sunday. |
-| 6 | [Bise](http://twitter.com/search?q=Bise) | N/A |
-| 7 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
-| 8 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 4 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 5 | [Katar](http://twitter.com/search?q=Katar) | N/A |
+| 6 | [Schönen Sonntag](http://twitter.com/search?q=Sch%c3%b6nen+Sonntag) | "Schönen Sonntag" is a German phrase that translates to "Have a nice Sunday" in English. It is a common greeting used to wish someone a pleasant day on Sunday. |
+| 7 | [Bise](http://twitter.com/search?q=Bise) | N/A |
+| 8 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
 | 9 | [Lomepal](http://twitter.com/search?q=Lomepal) | N/A |
-| 10 | [köppel](http://twitter.com/search?q=k%c3%b6ppel) | N/A |
-| 11 | [Schwarzer](http://twitter.com/search?q=Schwarzer) | N/A |
-| 12 | [Kündigung](http://twitter.com/search?q=K%c3%bcndigung) | N/A |
-| 13 | [Strategie](http://twitter.com/search?q=Strategie) | N/A |
-| 14 | [Steuern](http://twitter.com/search?q=Steuern) | N/A |
-| 15 | [Solidarität](http://twitter.com/search?q=Solidarit%c3%a4t) | N/A |
-| 16 | [Bauern](http://twitter.com/search?q=Bauern) | N/A |
-| 17 | [Stuss](http://twitter.com/search?q=Stuss) | N/A |
-| 18 | [Seite der Geschichte](http://twitter.com/search?q=Seite+der+Geschichte) | N/A |
-| 19 | [Miete](http://twitter.com/search?q=Miete) | N/A |
+| 10 | [Kündigung](http://twitter.com/search?q=K%c3%bcndigung) | N/A |
+| 11 | [Köppel](http://twitter.com/search?q=K%c3%b6ppel) | N/A |
+| 12 | [Strategie](http://twitter.com/search?q=Strategie) | N/A |
+| 13 | [Sofa](http://twitter.com/search?q=Sofa) | N/A |
+| 14 | [Solidarität](http://twitter.com/search?q=Solidarit%c3%a4t) | N/A |
+| 15 | [Bauern](http://twitter.com/search?q=Bauern) | N/A |
+| 16 | [stuss](http://twitter.com/search?q=stuss) | N/A |
+| 17 | [Seite der Geschichte](http://twitter.com/search?q=Seite+der+Geschichte) | N/A |
+| 18 | [Miete](http://twitter.com/search?q=Miete) | N/A |
+| 19 | [Turquie](http://twitter.com/search?q=Turquie) | N/A |
 | 20 | [Entschuldigung](http://twitter.com/search?q=Entschuldigung) | N/A |
 | 21 | [Cassis](http://twitter.com/search?q=Cassis) | N/A |
 | 22 | [Habeck](http://twitter.com/search?q=Habeck) | N/A |
-| 23 | [Army](http://twitter.com/search?q=Army) | N/A |
-| 24 | [Framing](http://twitter.com/search?q=Framing) | N/A |
-| 25 | [Trudeau](http://twitter.com/search?q=Trudeau) | N/A |
-| 26 | [Garcia](http://twitter.com/search?q=Garcia) | Garcia is a Spanish surname. It is derived from the Basque word "gar" meaning "bear". The name is often associated with strength and courage. In English, Garcia means "brave and strong". |
-| 27 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
-| 28 | [Gerechtigkeit](http://twitter.com/search?q=Gerechtigkeit) | N/A |
+| 23 | [Gerechtigkeit](http://twitter.com/search?q=Gerechtigkeit) | N/A |
+| 24 | [Army](http://twitter.com/search?q=Army) | N/A |
+| 25 | [framing](http://twitter.com/search?q=framing) | N/A |
+| 26 | [Trudeau](http://twitter.com/search?q=Trudeau) | N/A |
+| 27 | [Garcia](http://twitter.com/search?q=Garcia) | Garcia is a Spanish surname. It is derived from the Basque word "gar" meaning "bear". The name is often associated with strength and courage. In English, Garcia means "brave and strong". |
+| 28 | [Verhandlungen](http://twitter.com/search?q=Verhandlungen) | N/A |
 | 29 | [Kiew](http://twitter.com/search?q=Kiew) | N/A |
 | 30 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 31 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 32 | [Vollidiot](http://twitter.com/search?q=Vollidiot) | N/A |
+| 31 | [Vollidiot](http://twitter.com/search?q=Vollidiot) | N/A |
+| 32 | [NATO](http://twitter.com/search?q=NATO) | N/A |
 | 33 | [svpler](http://twitter.com/search?q=svpler) | N/A |
 | 34 | [Bewohner](http://twitter.com/search?q=Bewohner) | N/A |
-| 35 | [Zimmer](http://twitter.com/search?q=Zimmer) | N/A |
-| 36 | [Maurizio Costanzo](http://twitter.com/search?q=Maurizio+Costanzo) | N/A |
-| 37 | [zuwanderung](http://twitter.com/search?q=zuwanderung) | N/A |
-| 38 | [Studien](http://twitter.com/search?q=Studien) | N/A |
-| 39 | [Teufel](http://twitter.com/search?q=Teufel) | N/A |
-| 40 | [gemeinderat](http://twitter.com/search?q=gemeinderat) | N/A |
-| 41 | [Wallis](http://twitter.com/search?q=Wallis) | N/A |
-| 42 | [Politikern](http://twitter.com/search?q=Politikern) | N/A |
-| 43 | [Decke](http://twitter.com/search?q=Decke) | N/A |
-| 44 | [Neutralität](http://twitter.com/search?q=Neutralit%c3%a4t) | N/A |
-| 45 | [Wohnungsnot](http://twitter.com/search?q=Wohnungsnot) | N/A |
-| 46 | [Info](http://twitter.com/search?q=Info) | N/A |
+| 35 | [Maurizio Costanzo](http://twitter.com/search?q=Maurizio+Costanzo) | N/A |
+| 36 | [Andy](http://twitter.com/search?q=Andy) | N/A |
+| 37 | [Studien](http://twitter.com/search?q=Studien) | N/A |
+| 38 | [Teufel](http://twitter.com/search?q=Teufel) | N/A |
+| 39 | [gemeinderat](http://twitter.com/search?q=gemeinderat) | N/A |
+| 40 | [Wallis](http://twitter.com/search?q=Wallis) | N/A |
+| 41 | [Neutralität](http://twitter.com/search?q=Neutralit%c3%a4t) | N/A |
+| 42 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
+| 43 | [Steuern](http://twitter.com/search?q=Steuern) | N/A |
+| 44 | [politikern](http://twitter.com/search?q=politikern) | N/A |
+| 45 | [Decke](http://twitter.com/search?q=Decke) | N/A |
+| 46 | [Wohnungsnot](http://twitter.com/search?q=Wohnungsnot) | N/A |
 
 
 

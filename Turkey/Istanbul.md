@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Istanbul
 
-📆 Last Updated: `2023-02-26 14:16:16 UTC`
+📆 Last Updated: `2023-02-26 15:16:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Turkey](</Turkey>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Haluk](http://twitter.com/search?q=Haluk) | N/A |
-| 2 | [Aslı](http://twitter.com/search?q=Asl%c4%b1) | N/A |
-| 3 | [Tünaydın](http://twitter.com/search?q=T%c3%bcnayd%c4%b1n) | N/A |
-| 4 | [Aziz Yıldırım](http://twitter.com/search?q=Aziz+Y%c4%b1ld%c4%b1r%c4%b1m) | Aziz Yıldırım is a Turkish name, with Aziz meaning "honored" and Yıldırım meaning "thunder". In English, the name would translate to "Honored Thunder". |
-| 5 | [Kızılay](http://twitter.com/search?q=K%c4%b1z%c4%b1lay) | Kızılay is the Turkish Red Crescent, a humanitarian organization that provides aid and assistance to those in need. The name Kızılay comes from the Ottoman Empire era, when it was known as the Imperial Ottoman Society of the Red Crescent. In English, Kızılay translates to "Red Crescent". |
-| 6 | [Kızılay](http://twitter.com/search?q=K%c4%b1z%c4%b1lay) | Kızılay is the Turkish Red Crescent, a humanitarian organization that provides aid and assistance to those in need. The name Kızılay comes from the Ottoman Empire era, when it was known as the Imperial Ottoman Society of the Red Crescent. In English, Kızılay translates to "Red Crescent". |
-| 7 | [#kizilay](http://twitter.com/search?q=%23kizilay) | N/A |
+| 2 | [#AkParti](http://twitter.com/search?q=%23AkParti) | N/A |
+| 3 | [Kızılay](http://twitter.com/search?q=K%c4%b1z%c4%b1lay) | Kızılay is the Turkish Red Crescent, a humanitarian organization that provides aid and assistance to those in need. The name Kızılay comes from the Ottoman Empire era, when it was known as the Imperial Ottoman Society of the Red Crescent. In English, Kızılay translates to "Red Crescent". |
+| 4 | [Kızılay](http://twitter.com/search?q=K%c4%b1z%c4%b1lay) | Kızılay is the Turkish Red Crescent, a humanitarian organization that provides aid and assistance to those in need. The name Kızılay comes from the Ottoman Empire era, when it was known as the Imperial Ottoman Society of the Red Crescent. In English, Kızılay translates to "Red Crescent". |
+| 5 | [#kizilay](http://twitter.com/search?q=%23kizilay) | N/A |
+| 6 | [Durmadan Yorulmadan](http://twitter.com/search?q=Durmadan+Yorulmadan) | N/A |
+| 7 | [#SağlıktaYükÇokAtamaYok](http://twitter.com/search?q=%23Sa%c4%9fl%c4%b1ktaY%c3%bck%c3%87okAtamaYok) | N/A |
 | 8 | [#CumhurunBaşkanı69Yaşında](http://twitter.com/search?q=%23CumhurunBa%c5%9fkan%c4%b169Ya%c5%9f%c4%b1nda) | N/A |
-| 9 | [#İSTİFAULAN](http://twitter.com/search?q=%23%c4%b0ST%c4%b0FAULAN) | N/A |
-| 10 | [#İSTİFAULAN](http://twitter.com/search?q=%23%c4%b0ST%c4%b0FAULAN) | N/A |
-| 11 | [#KamuyaVetHekŞartt](http://twitter.com/search?q=%23KamuyaVetHek%c5%9eartt) | N/A |
+| 9 | [#İyikiDoğdunMilletinAdamı](http://twitter.com/search?q=%23%c4%b0yikiDo%c4%9fdunMilletinAdam%c4%b1) | N/A |
+| 10 | [DEVAM ULAN DEVAM](http://twitter.com/search?q=DEVAM+ULAN+DEVAM) | N/A |
+| 11 | [Ziya Şengül](http://twitter.com/search?q=Ziya+%c5%9eeng%c3%bcl) | N/A |
 | 12 | [PARALI KÖPEKLER](http://twitter.com/search?q=PARALI+K%c3%96PEKLER) | N/A |
-| 13 | [Ziya Şengül](http://twitter.com/search?q=Ziya+%c5%9eeng%c3%bcl) | N/A |
-| 14 | [DEVAM ULAN DEVAM](http://twitter.com/search?q=DEVAM+ULAN+DEVAM) | N/A |
-| 15 | [Tekstil A.Ş](http://twitter.com/search?q=Tekstil+A.%c5%9e) | N/A |
-| 16 | [Depremin 3](http://twitter.com/search?q=Depremin+3) | N/A |
-| 17 | [Azerbaycanlı](http://twitter.com/search?q=Azerbaycanl%c4%b1) | N/A |
-| 18 | [SATMIŞ](http://twitter.com/search?q=SATMI%c5%9e) | N/A |
-| 19 | [Murat Ağırel](http://twitter.com/search?q=Murat+A%c4%9f%c4%b1rel) | N/A |
-| 20 | [DOĞUM GÜNÜN KUTLU OLSUN](http://twitter.com/search?q=DO%c4%9eUM+G%c3%9cN%c3%9cN+KUTLU+OLSUN) | N/A |
-| 21 | [Maliyetine](http://twitter.com/search?q=Maliyetine) | N/A |
-| 22 | [STK'ya](http://twitter.com/search?q=STK%27ya) | N/A |
-| 23 | [Satmak](http://twitter.com/search?q=Satmak) | N/A |
-| 24 | [Ensar](http://twitter.com/search?q=Ensar) | N/A |
-| 25 | [Sayın Cumhurbaşkanım](http://twitter.com/search?q=Say%c4%b1n+Cumhurba%c5%9fkan%c4%b1m) | N/A |
+| 13 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
+| 14 | [Yusuf Demir](http://twitter.com/search?q=Yusuf+Demir) | Yusuf Demir is a Turkish name. It is composed of two parts: Yusuf, which means "God increases" in Arabic, and Demir, which means "iron" in Turkish. In English, the name would be translated as "God Increases Iron". |
+| 15 | [Depremin 3](http://twitter.com/search?q=Depremin+3) | N/A |
+| 16 | [DOĞUM GÜNÜN KUTLU OLSUN](http://twitter.com/search?q=DO%c4%9eUM+G%c3%9cN%c3%9cN+KUTLU+OLSUN) | N/A |
+| 17 | [Tekstil A.Ş](http://twitter.com/search?q=Tekstil+A.%c5%9e) | N/A |
+| 18 | [Azerbaycanlı](http://twitter.com/search?q=Azerbaycanl%c4%b1) | N/A |
+| 19 | [Maliyetine](http://twitter.com/search?q=Maliyetine) | N/A |
+| 20 | [Murat Ağırel](http://twitter.com/search?q=Murat+A%c4%9f%c4%b1rel) | N/A |
+| 21 | [satmiş](http://twitter.com/search?q=satmi%c5%9f) | N/A |
+| 22 | [Paralı](http://twitter.com/search?q=Paral%c4%b1) | N/A |
+| 23 | [Binali](http://twitter.com/search?q=Binali) | N/A |
+| 24 | [Cumhurbaşkanımız Sn](http://twitter.com/search?q=Cumhurba%c5%9fkan%c4%b1m%c4%b1z+Sn) | N/A |
+| 25 | [Satmak](http://twitter.com/search?q=Satmak) | N/A |
 | 26 | [Armağan](http://twitter.com/search?q=Arma%c4%9fan) | N/A |
-| 27 | [STK'lara](http://twitter.com/search?q=STK%27lara) | N/A |
-| 28 | [satranç](http://twitter.com/search?q=satran%c3%a7) | N/A |
-| 29 | [Satın](http://twitter.com/search?q=Sat%c4%b1n) | N/A |
-| 30 | [Ücretsiz](http://twitter.com/search?q=%c3%9ccretsiz) | N/A |
-| 31 | [10 Şubat](http://twitter.com/search?q=10+%c5%9eubat) | N/A |
-| 32 | [Parayla](http://twitter.com/search?q=Parayla) | N/A |
-| 33 | [Ticari](http://twitter.com/search?q=Ticari) | N/A |
-| 34 | [Teşekkürler Fenerbahçe](http://twitter.com/search?q=Te%c5%9fekk%c3%bcrler+Fenerbah%c3%a7e) | N/A |
-| 35 | [WE LOVE YOU JHOPE](http://twitter.com/search?q=WE+LOVE+YOU+JHOPE) | N/A |
-| 36 | [Liderimiz](http://twitter.com/search?q=Liderimiz) | N/A |
-| 37 | [Ermeni](http://twitter.com/search?q=Ermeni) | N/A |
-| 38 | [Anıtkabir](http://twitter.com/search?q=An%c4%b1tkabir) | Anıtkabir is the mausoleum of Mustafa Kemal Atatürk, the founder and first president of the Republic of Turkey. The word Anıtkabir translates to "memorial tomb" in English. |
-| 39 | [TL'ye](http://twitter.com/search?q=TL%27ye) | N/A |
-| 40 | [Metin](http://twitter.com/search?q=Metin) | N/A |
-| 41 | [Şirket](http://twitter.com/search?q=%c5%9eirket) | N/A |
-| 42 | [Ertem](http://twitter.com/search?q=Ertem) | N/A |
+| 27 | [STK'ya](http://twitter.com/search?q=STK%27ya) | N/A |
+| 28 | [Satranç](http://twitter.com/search?q=Satran%c3%a7) | N/A |
+| 29 | [Ensar](http://twitter.com/search?q=Ensar) | N/A |
+| 30 | [STK'lara](http://twitter.com/search?q=STK%27lara) | N/A |
+| 31 | [Ücretsiz](http://twitter.com/search?q=%c3%9ccretsiz) | N/A |
+| 32 | [Metin](http://twitter.com/search?q=Metin) | N/A |
+| 33 | [Çarşı](http://twitter.com/search?q=%c3%87ar%c5%9f%c4%b1) | N/A |
+| 34 | [Satın](http://twitter.com/search?q=Sat%c4%b1n) | N/A |
+| 35 | [Ticari](http://twitter.com/search?q=Ticari) | N/A |
+| 36 | [Teşekkürler Fenerbahçe](http://twitter.com/search?q=Te%c5%9fekk%c3%bcrler+Fenerbah%c3%a7e) | N/A |
+| 37 | [Liderimiz](http://twitter.com/search?q=Liderimiz) | N/A |
+| 38 | [Parayla](http://twitter.com/search?q=Parayla) | N/A |
+| 39 | [Ermeni](http://twitter.com/search?q=Ermeni) | N/A |
+| 40 | [Anıtkabir](http://twitter.com/search?q=An%c4%b1tkabir) | Anıtkabir is the mausoleum of Mustafa Kemal Atatürk, the founder and first president of the Republic of Turkey. The word Anıtkabir translates to "memorial tomb" in English. |
+| 41 | [Unutmadık](http://twitter.com/search?q=Unutmad%c4%b1k) | N/A |
+| 42 | [TL'ye](http://twitter.com/search?q=TL%27ye) | N/A |
 | 43 | [Camide](http://twitter.com/search?q=Camide) | N/A |
-| 44 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 45 | [Binali](http://twitter.com/search?q=Binali) | N/A |
-| 46 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 47 | [Unutmadık](http://twitter.com/search?q=Unutmad%c4%b1k) | N/A |
-| 48 | [3 Temmuz](http://twitter.com/search?q=3+Temmuz) | N/A |
-| 49 | [Merhuma Allah'tan](http://twitter.com/search?q=Merhuma+Allah%27tan) | N/A |
-| 50 | [Bedava](http://twitter.com/search?q=Bedava) | N/A |
+| 44 | [Şirket](http://twitter.com/search?q=%c5%9eirket) | N/A |
+| 45 | [Ertem](http://twitter.com/search?q=Ertem) | N/A |
+| 46 | [Bedava](http://twitter.com/search?q=Bedava) | N/A |
+| 47 | [Kılıçdaroğlu'na](http://twitter.com/search?q=K%c4%b1l%c4%b1%c3%a7daro%c4%9flu%27na) | N/A |
+| 48 | [Merhuma Allah'tan](http://twitter.com/search?q=Merhuma+Allah%27tan) | N/A |
+| 49 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 50 | [#KamuyaVetHekŞartt](http://twitter.com/search?q=%23KamuyaVetHek%c5%9eartt) | N/A |
 
 
 

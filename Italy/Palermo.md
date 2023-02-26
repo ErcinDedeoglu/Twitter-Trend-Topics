@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palermo
 
-📆 Last Updated: `2023-02-26 14:15:53 UTC`
+📆 Last Updated: `2023-02-26 15:16:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,54 @@ This is top 50 for [Italy](</Italy>)
 | ------- | ------------ | ------------ |
 | 1 | [#BolognaInter](http://twitter.com/search?q=%23BolognaInter) | N/A |
 | 2 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
-| 3 | [#naufragio](http://twitter.com/search?q=%23naufragio) | N/A |
-| 4 | [Ambrosio](http://twitter.com/search?q=Ambrosio) | N/A |
+| 3 | [#DomenicaIn](http://twitter.com/search?q=%23DomenicaIn) | N/A |
+| 4 | [#naufragio](http://twitter.com/search?q=%23naufragio) | N/A |
 | 5 | [#Crotone](http://twitter.com/search?q=%23Crotone) | N/A |
-| 6 | [Orsolini](http://twitter.com/search?q=Orsolini) | N/A |
-| 7 | [Thiago Motta](http://twitter.com/search?q=Thiago+Motta) | N/A |
-| 8 | [#DomenicaIn](http://twitter.com/search?q=%23DomenicaIn) | N/A |
-| 9 | [Dumfries](http://twitter.com/search?q=Dumfries) | N/A |
-| 10 | [Orsato](http://twitter.com/search?q=Orsato) | N/A |
-| 11 | [Carboni](http://twitter.com/search?q=Carboni) | N/A |
-| 12 | [Gosens](http://twitter.com/search?q=Gosens) | N/A |
+| 6 | [Ambrosio](http://twitter.com/search?q=Ambrosio) | N/A |
+| 7 | [Orsolini](http://twitter.com/search?q=Orsolini) | N/A |
+| 8 | [Thiago Motta](http://twitter.com/search?q=Thiago+Motta) | N/A |
+| 9 | [#PrimariePD](http://twitter.com/search?q=%23PrimariePD) | N/A |
+| 10 | [Dumfries](http://twitter.com/search?q=Dumfries) | N/A |
+| 11 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
+| 12 | [Lautaro](http://twitter.com/search?q=Lautaro) | Lautaro is a male given name of Mapuche origin, meaning "hawk". It is also the name of a legendary Mapuche warrior who fought against the Spanish conquistadors in the 16th century. |
 | 13 | [Barella](http://twitter.com/search?q=Barella) | Barella is an Italian word meaning "little bar". It is often used to refer to a small, informal bar or cafe. |
-| 14 | [Radu](http://twitter.com/search?q=Radu) | N/A |
-| 15 | [De Vrij](http://twitter.com/search?q=De+Vrij) | N/A |
-| 16 | [Acerbi](http://twitter.com/search?q=Acerbi) | Acerbi is an Italian surname. It is derived from the Latin word acerbus, which means "bitter". In English, it can be translated to mean "bitter" or "harsh". |
-| 17 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
-| 18 | [Brozovic](http://twitter.com/search?q=Brozovic) | N/A |
-| 19 | [Marotta](http://twitter.com/search?q=Marotta) | N/A |
-| 20 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 21 | [Steffy](http://twitter.com/search?q=Steffy) | N/A |
+| 14 | [Gosens](http://twitter.com/search?q=Gosens) | N/A |
+| 15 | [orsato](http://twitter.com/search?q=orsato) | N/A |
+| 16 | [Radu](http://twitter.com/search?q=Radu) | N/A |
+| 17 | [Carboni](http://twitter.com/search?q=Carboni) | N/A |
+| 18 | [brozovic](http://twitter.com/search?q=brozovic) | N/A |
+| 19 | [De Vrij](http://twitter.com/search?q=De+Vrij) | N/A |
+| 20 | [Acerbi](http://twitter.com/search?q=Acerbi) | Acerbi is an Italian surname. It is derived from the Latin word acerbus, which means "bitter". In English, it can be translated to mean "bitter" or "harsh". |
+| 21 | [Asllani](http://twitter.com/search?q=Asllani) | N/A |
 | 22 | [Libia](http://twitter.com/search?q=Libia) | N/A |
-| 23 | [Dominguez](http://twitter.com/search?q=Dominguez) | N/A |
-| 24 | [Dall'Ara](http://twitter.com/search?q=Dall%27Ara) | N/A |
-| 25 | [Barrow](http://twitter.com/search?q=Barrow) | N/A |
-| 26 | [Limone](http://twitter.com/search?q=Limone) | N/A |
-| 27 | [Buona Domenica](http://twitter.com/search?q=Buona+Domenica) | Buona Domenica is an Italian phrase that translates to "Good Sunday" in English. It is a common greeting used to wish someone a pleasant Sunday. |
-| 28 | [Skriniar](http://twitter.com/search?q=Skriniar) | Skriniar is a surname of Slovak origin. It is derived from the word skrin, which means "cupboard" or "wardrobe". In English, the name Skriniar can be translated to mean "one who comes from a cupboard". |
-| 29 | [Darmian](http://twitter.com/search?q=Darmian) | Darmian is a surname of Italian origin. It is derived from the Latin word "darmius" which means "protector". In English, it can be translated to mean "protector" or "guardian". |
-| 30 | [Chri](http://twitter.com/search?q=Chri) | N/A |
-| 31 | [Mediterraneo](http://twitter.com/search?q=Mediterraneo) | N/A |
-| 32 | [Zhang](http://twitter.com/search?q=Zhang) | N/A |
-| 33 | [Criminale](http://twitter.com/search?q=Criminale) | N/A |
-| 34 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 35 | [Trento](http://twitter.com/search?q=Trento) | N/A |
-| 36 | [Bersani](http://twitter.com/search?q=Bersani) | N/A |
-| 37 | [grillo](http://twitter.com/search?q=grillo) | N/A |
-| 38 | [#migranti](http://twitter.com/search?q=%23migranti) | N/A |
-| 39 | [#CurzioMaltese](http://twitter.com/search?q=%23CurzioMaltese) | N/A |
-| 40 | [#SerieA](http://twitter.com/search?q=%23SerieA) | N/A |
-| 41 | [#PrimariePD](http://twitter.com/search?q=%23PrimariePD) | N/A |
-| 42 | [#twittamibeautiful](http://twitter.com/search?q=%23twittamibeautiful) | N/A |
+| 23 | [Marotta](http://twitter.com/search?q=Marotta) | N/A |
+| 24 | [Steffy](http://twitter.com/search?q=Steffy) | N/A |
+| 25 | [Limone](http://twitter.com/search?q=Limone) | N/A |
+| 26 | [Dominguez](http://twitter.com/search?q=Dominguez) | N/A |
+| 27 | [Dall'Ara](http://twitter.com/search?q=Dall%27Ara) | N/A |
+| 28 | [Barrow](http://twitter.com/search?q=Barrow) | N/A |
+| 29 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
+| 30 | [Mediterraneo](http://twitter.com/search?q=Mediterraneo) | N/A |
+| 31 | [Buona Domenica](http://twitter.com/search?q=Buona+Domenica) | Buona Domenica is an Italian phrase that translates to "Good Sunday" in English. It is a common greeting used to wish someone a pleasant Sunday. |
+| 32 | [Darmian](http://twitter.com/search?q=Darmian) | Darmian is a surname of Italian origin. It is derived from the Latin word "darmius" which means "protector". In English, it can be translated to mean "protector" or "guardian". |
+| 33 | [chri](http://twitter.com/search?q=chri) | N/A |
+| 34 | [Skriniar](http://twitter.com/search?q=Skriniar) | Skriniar is a surname of Slovak origin. It is derived from the word skrin, which means "cupboard" or "wardrobe". In English, the name Skriniar can be translated to mean "one who comes from a cupboard". |
+| 35 | [Ipocriti](http://twitter.com/search?q=Ipocriti) | N/A |
+| 36 | [Criminale](http://twitter.com/search?q=Criminale) | N/A |
+| 37 | [Zhang](http://twitter.com/search?q=Zhang) | N/A |
+| 38 | [Bersani](http://twitter.com/search?q=Bersani) | N/A |
+| 39 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 40 | [trento](http://twitter.com/search?q=trento) | N/A |
+| 41 | [#migranti](http://twitter.com/search?q=%23migranti) | N/A |
+| 42 | [#curziomaltese](http://twitter.com/search?q=%23curziomaltese) | N/A |
 | 43 | [#mezzorainpiu](http://twitter.com/search?q=%23mezzorainpiu) | N/A |
-| 44 | [#ForzaNapoliSempre](http://twitter.com/search?q=%23ForzaNapoliSempre) | N/A |
-| 45 | [#Calabria](http://twitter.com/search?q=%23Calabria) | N/A |
-| 46 | [#amala](http://twitter.com/search?q=%23amala) | N/A |
-| 47 | [#26Febbraio](http://twitter.com/search?q=%2326Febbraio) | N/A |
-| 48 | [#Cutro](http://twitter.com/search?q=%23Cutro) | N/A |
-| 49 | [#Piantedosi](http://twitter.com/search?q=%23Piantedosi) | N/A |
+| 44 | [#SerieA](http://twitter.com/search?q=%23SerieA) | N/A |
+| 45 | [#ForzaNapoliSempre](http://twitter.com/search?q=%23ForzaNapoliSempre) | N/A |
+| 46 | [#terraamara](http://twitter.com/search?q=%23terraamara) | N/A |
+| 47 | [#JuveParma](http://twitter.com/search?q=%23JuveParma) | N/A |
+| 48 | [#twittamibeautiful](http://twitter.com/search?q=%23twittamibeautiful) | N/A |
+| 49 | [#Cutro](http://twitter.com/search?q=%23Cutro) | N/A |
+| 50 | [#Italgym](http://twitter.com/search?q=%23Italgym) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canberra
 
-📆 Last Updated: `2023-02-26 14:15:58 UTC`
+📆 Last Updated: `2023-02-26 15:16:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Australia](</Australia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Mardi Gras](http://twitter.com/search?q=Mardi+Gras) | N/A |
-| 2 | [Lidia Thorpe](http://twitter.com/search?q=Lidia+Thorpe) | N/A |
-| 3 | [#MVCvADL](http://twitter.com/search?q=%23MVCvADL) | N/A |
-| 4 | [#SurvivorAU](http://twitter.com/search?q=%23SurvivorAU) | N/A |
-| 5 | [#T20WorldCup](http://twitter.com/search?q=%23T20WorldCup) | N/A |
-| 6 | [#insiders](http://twitter.com/search?q=%23insiders) | N/A |
-| 7 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 8 | [Flick](http://twitter.com/search?q=Flick) | N/A |
-| 9 | [Alyssa](http://twitter.com/search?q=Alyssa) | N/A |
-| 10 | [Olivia Newton](http://twitter.com/search?q=Olivia+Newton) | N/A |
-| 11 | [Pride](http://twitter.com/search?q=Pride) | N/A |
-| 12 | [Blackmores](http://twitter.com/search?q=Blackmores) | N/A |
-| 13 | [Golden Sixty](http://twitter.com/search?q=Golden+Sixty) | Golden Sixty is a Hong Kong horse racing term that refers to the top 60 horses in the Hong Kong Jockey Club's ratings. It is used to refer to the best horses in the country and is often used as a benchmark for success in the sport. In English, it can be translated as "the best of the best". |
-| 14 | [Shonee](http://twitter.com/search?q=Shonee) | N/A |
-| 15 | [Stevie](http://twitter.com/search?q=Stevie) | Stevie is a nickname for the name Steven or Stephen. It is derived from the Greek name Stephanos, which means "crown" or "garland". |
-| 16 | [Tayla](http://twitter.com/search?q=Tayla) | N/A |
-| 17 | [Woody](http://twitter.com/search?q=Woody) | Woody is a slang term used to describe someone who is strong, tough, and determined. It can also be used to describe someone who is stubborn and unyielding. |
-| 18 | [Hayley](http://twitter.com/search?q=Hayley) | N/A |
-| 19 | [Speers](http://twitter.com/search?q=Speers) | N/A |
-| 20 | [Stonewall](http://twitter.com/search?q=Stonewall) | N/A |
-| 21 | [Claire](http://twitter.com/search?q=Claire) | N/A |
-| 22 | [LGBTQI](http://twitter.com/search?q=LGBTQI) | N/A |
-| 23 | [Janelle](http://twitter.com/search?q=Janelle) | N/A |
-| 24 | [Rowan Dean](http://twitter.com/search?q=Rowan+Dean) | N/A |
-| 25 | [Sha Tin](http://twitter.com/search?q=Sha+Tin) | N/A |
-| 26 | [Anamoe](http://twitter.com/search?q=Anamoe) | N/A |
-| 27 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 28 | [jhope](http://twitter.com/search?q=jhope) | N/A |
-| 29 | [Albo](http://twitter.com/search?q=Albo) | N/A |
-| 30 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
-| 31 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
-| 32 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 33 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
-| 34 | [Scott Adams](http://twitter.com/search?q=Scott+Adams) | N/A |
-| 35 | [Duncan](http://twitter.com/search?q=Duncan) | N/A |
-| 36 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
-| 37 | [Howard](http://twitter.com/search?q=Howard) | N/A |
-| 38 | [Antonia](http://twitter.com/search?q=Antonia) | N/A |
-| 39 | [protesting](http://twitter.com/search?q=protesting) | N/A |
-| 40 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
-| 41 | [QLife](http://twitter.com/search?q=QLife) | N/A |
-| 42 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
-| 43 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
-| 44 | [Shiz](http://twitter.com/search?q=Shiz) | N/A |
-| 45 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
-| 46 | [2seok](http://twitter.com/search?q=2seok) | N/A |
-| 47 | [Irankunda](http://twitter.com/search?q=Irankunda) | N/A |
-| 48 | [Midnight Oil](http://twitter.com/search?q=Midnight+Oil) | N/A |
-| 49 | [David Marr](http://twitter.com/search?q=David+Marr) | N/A |
+| 2 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
+| 3 | [#TotChe](http://twitter.com/search?q=%23TotChe) | N/A |
+| 4 | [#T20WorldCup](http://twitter.com/search?q=%23T20WorldCup) | N/A |
+| 5 | [Lidia Thorpe](http://twitter.com/search?q=Lidia+Thorpe) | N/A |
+| 6 | [#MVCvADL](http://twitter.com/search?q=%23MVCvADL) | N/A |
+| 7 | [#SurvivorAU](http://twitter.com/search?q=%23SurvivorAU) | N/A |
+| 8 | [Beth Mooney](http://twitter.com/search?q=Beth+Mooney) | N/A |
+| 9 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 10 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 11 | [Flick](http://twitter.com/search?q=Flick) | N/A |
+| 12 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 13 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 14 | [Alyssa](http://twitter.com/search?q=Alyssa) | N/A |
+| 15 | [Olivia Newton](http://twitter.com/search?q=Olivia+Newton) | N/A |
+| 16 | [Pride](http://twitter.com/search?q=Pride) | N/A |
+| 17 | [golden sixty](http://twitter.com/search?q=golden+sixty) | N/A |
+| 18 | [Blackmores](http://twitter.com/search?q=Blackmores) | N/A |
+| 19 | [Shonee](http://twitter.com/search?q=Shonee) | N/A |
+| 20 | [Emerson](http://twitter.com/search?q=Emerson) | Emerson is a surname of English origin. It is derived from the Old English personal name Emery, which means “brave” or “powerful.” The name was popularized by Ralph Waldo Emerson, an American essayist, lecturer, and poet who lived in the 19th century. |
+| 21 | [Tayla](http://twitter.com/search?q=Tayla) | N/A |
+| 22 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 23 | [Stevie](http://twitter.com/search?q=Stevie) | Stevie is a nickname for the name Steven or Stephen. It is derived from the Greek name Stephanos, which means "crown" or "garland". |
+| 24 | [Woody](http://twitter.com/search?q=Woody) | Woody is a slang term used to describe someone who is strong, tough, and determined. It can also be used to describe someone who is stubborn and unyielding. |
+| 25 | [Hayley](http://twitter.com/search?q=Hayley) | N/A |
+| 26 | [Speers](http://twitter.com/search?q=Speers) | N/A |
+| 27 | [Stonewall](http://twitter.com/search?q=Stonewall) | N/A |
+| 28 | [South Africa](http://twitter.com/search?q=South+Africa) | N/A |
+| 29 | [LGBTQI](http://twitter.com/search?q=LGBTQI) | N/A |
+| 30 | [JHOPE](http://twitter.com/search?q=JHOPE) | N/A |
+| 31 | [Gardner](http://twitter.com/search?q=Gardner) | N/A |
+| 32 | [janelle](http://twitter.com/search?q=janelle) | N/A |
+| 33 | [rowan dean](http://twitter.com/search?q=rowan+dean) | N/A |
+| 34 | [Sha Tin](http://twitter.com/search?q=Sha+Tin) | N/A |
+| 35 | [Anamoe](http://twitter.com/search?q=Anamoe) | N/A |
+| 36 | [Claire](http://twitter.com/search?q=Claire) | N/A |
+| 37 | [Albo](http://twitter.com/search?q=Albo) | N/A |
+| 38 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
+| 39 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
+| 40 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
+| 41 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 42 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 43 | [Scott Adams](http://twitter.com/search?q=Scott+Adams) | N/A |
+| 44 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
+| 45 | [Howard](http://twitter.com/search?q=Howard) | N/A |
+| 46 | [Antonia](http://twitter.com/search?q=Antonia) | N/A |
+| 47 | [Protesting](http://twitter.com/search?q=Protesting) | N/A |
+| 48 | [Shiz](http://twitter.com/search?q=Shiz) | N/A |
+| 49 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
 
 
 
