@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quebec
 
-📆 Last Updated: `2023-02-26 16:15:46 UTC`
+📆 Last Updated: `2023-02-26 17:15:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 2 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 3 | [Gurianov](http://twitter.com/search?q=Gurianov) | N/A |
-| 4 | [Dadonov](http://twitter.com/search?q=Dadonov) | N/A |
-| 5 | [#TotChe](http://twitter.com/search?q=%23TotChe) | N/A |
-| 6 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
-| 7 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 8 | [Gordon Pinsent](http://twitter.com/search?q=Gordon+Pinsent) | N/A |
-| 9 | [Christine Anderson](http://twitter.com/search?q=Christine+Anderson) | N/A |
-| 10 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
-| 11 | [Trudeau](http://twitter.com/search?q=Trudeau) | N/A |
+| 1 | [Gurianov](http://twitter.com/search?q=Gurianov) | N/A |
+| 2 | [Dadonov](http://twitter.com/search?q=Dadonov) | N/A |
+| 3 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 4 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 5 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 6 | [Gordon Pinsent](http://twitter.com/search?q=Gordon+Pinsent) | N/A |
+| 7 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
+| 8 | [Christine Anderson](http://twitter.com/search?q=Christine+Anderson) | N/A |
+| 9 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
+| 10 | [Trudeau](http://twitter.com/search?q=Trudeau) | N/A |
+| 11 | [#CarabaoCupFinal](http://twitter.com/search?q=%23CarabaoCupFinal) | N/A |
 | 12 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 13 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
-| 14 | [Pierre](http://twitter.com/search?q=Pierre) | N/A |
-| 15 | [#TFCLive](http://twitter.com/search?q=%23TFCLive) | N/A |
-| 16 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
-| 17 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 18 | [#UFCVegas70](http://twitter.com/search?q=%23UFCVegas70) | N/A |
-| 19 | [Woody](http://twitter.com/search?q=Woody) | Woody is a slang term used to describe someone who is strong, tough, and determined. It can also be used to describe someone who is stubborn and unyielding. |
-| 20 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
-| 21 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
-| 22 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 23 | [CSIS](http://twitter.com/search?q=CSIS) | N/A |
-| 24 | [Emerson](http://twitter.com/search?q=Emerson) | Emerson is a surname of English origin. It is derived from the Old English personal name Emery, which means “brave” or “powerful.” The name was popularized by Ralph Waldo Emerson, an American essayist, lecturer, and poet who lived in the 19th century. |
-| 25 | [INEC](http://twitter.com/search?q=INEC) | N/A |
-| 26 | [Boehly](http://twitter.com/search?q=Boehly) | Boehly is a German surname derived from the word "Böhl", which means "hill". It is most commonly found in the Rhineland-Palatinate region of Germany. In English, Boehly can be translated to mean "of or from the hill". |
-| 27 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 28 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
-| 29 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 30 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
+| 13 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
+| 14 | [#TotChe](http://twitter.com/search?q=%23TotChe) | N/A |
+| 15 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 16 | [#bcstorm](http://twitter.com/search?q=%23bcstorm) | N/A |
+| 17 | [Pierre](http://twitter.com/search?q=Pierre) | N/A |
+| 18 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
+| 19 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 20 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 21 | [Dallas](http://twitter.com/search?q=Dallas) | Dallas is a city in the U.S. state of Texas. It is the ninth most populous city in the United States and the third-largest in Texas after Houston and San Antonio. The city's population ranks ninth in the U.S. and third in Texas after Houston and San Antonio. Dallas is known for its oil, telecommunications, banking, technology, healthcare, defense, transportation, and commerce industries. |
+| 22 | [Woody](http://twitter.com/search?q=Woody) | Woody is a slang term used to describe someone who is strong, tough, and determined. It can also be used to describe someone who is stubborn and unyielding. |
+| 23 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
+| 24 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
+| 25 | [Emerson](http://twitter.com/search?q=Emerson) | Emerson is a surname of English origin. It is derived from the Old English personal name Emery, which means “brave” or “powerful.” The name was popularized by Ralph Waldo Emerson, an American essayist, lecturer, and poet who lived in the 19th century. |
+| 26 | [Barbashev](http://twitter.com/search?q=Barbashev) | N/A |
+| 27 | [CSIS](http://twitter.com/search?q=CSIS) | N/A |
+| 28 | [INEC](http://twitter.com/search?q=INEC) | N/A |
+| 29 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
+| 30 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
 | 31 | [Linus Ullmark](http://twitter.com/search?q=Linus+Ullmark) | N/A |
-| 32 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
-| 33 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 34 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
+| 32 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
+| 33 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
+| 34 | [Meier](http://twitter.com/search?q=Meier) | N/A |
 | 35 | [Skipp](http://twitter.com/search?q=Skipp) | Skipp is a slang term used to refer to someone who is in charge or in control of a situation. It can also be used to refer to someone who is a leader or has authority. In English, it can be used as an informal way of saying "boss" or "leader". |
-| 36 | [Dallas](http://twitter.com/search?q=Dallas) | Dallas is a city in the U.S. state of Texas. It is the ninth most populous city in the United States and the third-largest in Texas after Houston and San Antonio. The city's population ranks ninth in the U.S. and third in Texas after Houston and San Antonio. Dallas is known for its oil, telecommunications, banking, technology, healthcare, defense, transportation, and commerce industries. |
-| 37 | [Chapman](http://twitter.com/search?q=Chapman) | N/A |
-| 38 | [Leslyn](http://twitter.com/search?q=Leslyn) | N/A |
-| 39 | [Kravtsov](http://twitter.com/search?q=Kravtsov) | N/A |
-| 40 | [Harry Kane](http://twitter.com/search?q=Harry+Kane) | Harry Kane is an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. His name is often used as a metaphor for someone who is a natural leader and has the ability to score goals. |
-| 41 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 42 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 43 | [poilievre](http://twitter.com/search?q=poilievre) | N/A |
-| 44 | [Stars](http://twitter.com/search?q=Stars) | N/A |
-| 45 | [German](http://twitter.com/search?q=German) | N/A |
-| 46 | [Michkov](http://twitter.com/search?q=Michkov) | N/A |
-| 47 | [Lockwood](http://twitter.com/search?q=Lockwood) | N/A |
+| 36 | [Leslyn](http://twitter.com/search?q=Leslyn) | N/A |
+| 37 | [Boehly](http://twitter.com/search?q=Boehly) | Boehly is a German surname derived from the word "Böhl", which means "hill". It is most commonly found in the Rhineland-Palatinate region of Germany. In English, Boehly can be translated to mean "of or from the hill". |
+| 38 | [Stars](http://twitter.com/search?q=Stars) | N/A |
+| 39 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 40 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 41 | [Saint Maximin](http://twitter.com/search?q=Saint+Maximin) | N/A |
+| 42 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
+| 43 | [Harry Kane](http://twitter.com/search?q=Harry+Kane) | Harry Kane is an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. His name is often used as a metaphor for someone who is a natural leader and has the ability to score goals. |
+| 44 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 45 | [Lockwood](http://twitter.com/search?q=Lockwood) | N/A |
+| 46 | [Germany](http://twitter.com/search?q=Germany) | N/A |
+| 47 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
 | 48 | [Bernier](http://twitter.com/search?q=Bernier) | N/A |
-| 49 | [Padres](http://twitter.com/search?q=Padres) | N/A |
+| 49 | [Went Wughes](http://twitter.com/search?q=Went+Wughes) | N/A |
 
 
 

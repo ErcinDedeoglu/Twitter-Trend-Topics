@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zurich
 
-📆 Last Updated: `2023-02-26 16:16:06 UTC`
+📆 Last Updated: `2023-02-26 17:16:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Switzerland](</Switzerland>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 2 | [#TotChe](http://twitter.com/search?q=%23TotChe) | N/A |
-| 3 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 4 | [#BolognaInter](http://twitter.com/search?q=%23BolognaInter) | N/A |
-| 5 | [#b2502](http://twitter.com/search?q=%23b2502) | N/A |
-| 6 | [Katar](http://twitter.com/search?q=Katar) | N/A |
-| 7 | [#Spotify](http://twitter.com/search?q=%23Spotify) | N/A |
-| 8 | [Schönen Sonntag](http://twitter.com/search?q=Sch%c3%b6nen+Sonntag) | "Schönen Sonntag" is a German phrase that translates to "Have a nice Sunday" in English. It is a common greeting used to wish someone a pleasant day on Sunday. |
+| 2 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 3 | [#rotblaulive](http://twitter.com/search?q=%23rotblaulive) | N/A |
+| 4 | [#TotChe](http://twitter.com/search?q=%23TotChe) | N/A |
+| 5 | [#BolognaInter](http://twitter.com/search?q=%23BolognaInter) | N/A |
+| 6 | [#b2502](http://twitter.com/search?q=%23b2502) | N/A |
+| 7 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 8 | [KATAR](http://twitter.com/search?q=KATAR) | N/A |
 | 9 | [Bise](http://twitter.com/search?q=Bise) | N/A |
-| 10 | [#SupportArtists](http://twitter.com/search?q=%23SupportArtists) | N/A |
-| 11 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
-| 12 | [Lomepal](http://twitter.com/search?q=Lomepal) | N/A |
-| 13 | [Köppel](http://twitter.com/search?q=K%c3%b6ppel) | N/A |
-| 14 | [Sofa](http://twitter.com/search?q=Sofa) | N/A |
-| 15 | [Bauern](http://twitter.com/search?q=Bauern) | N/A |
-| 16 | [Stuss](http://twitter.com/search?q=Stuss) | N/A |
-| 17 | [Seite der Geschichte](http://twitter.com/search?q=Seite+der+Geschichte) | N/A |
-| 18 | [Miete](http://twitter.com/search?q=Miete) | N/A |
-| 19 | [Gerechtigkeit](http://twitter.com/search?q=Gerechtigkeit) | N/A |
-| 20 | [Turquie](http://twitter.com/search?q=Turquie) | N/A |
-| 21 | [Entschuldigung](http://twitter.com/search?q=Entschuldigung) | N/A |
-| 22 | [Strategie](http://twitter.com/search?q=Strategie) | N/A |
+| 10 | [#Spotify](http://twitter.com/search?q=%23Spotify) | N/A |
+| 11 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
+| 12 | [Schönen Sonntag](http://twitter.com/search?q=Sch%c3%b6nen+Sonntag) | "Schönen Sonntag" is a German phrase that translates to "Have a nice Sunday" in English. It is a common greeting used to wish someone a pleasant day on Sunday. |
+| 13 | [Lomepal](http://twitter.com/search?q=Lomepal) | N/A |
+| 14 | [Friedensdemo](http://twitter.com/search?q=Friedensdemo) | N/A |
+| 15 | [Köppel](http://twitter.com/search?q=K%c3%b6ppel) | N/A |
+| 16 | [Sofa](http://twitter.com/search?q=Sofa) | N/A |
+| 17 | [Bauern](http://twitter.com/search?q=Bauern) | N/A |
+| 18 | [Stuss](http://twitter.com/search?q=Stuss) | N/A |
+| 19 | [Seite der Geschichte](http://twitter.com/search?q=Seite+der+Geschichte) | N/A |
+| 20 | [Entschuldigung](http://twitter.com/search?q=Entschuldigung) | N/A |
+| 21 | [Strategie](http://twitter.com/search?q=Strategie) | N/A |
+| 22 | [Absicht](http://twitter.com/search?q=Absicht) | N/A |
 | 23 | [Cassis](http://twitter.com/search?q=Cassis) | N/A |
 | 24 | [FC Sion](http://twitter.com/search?q=FC+Sion) | N/A |
-| 25 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
-| 26 | [Framing](http://twitter.com/search?q=Framing) | N/A |
-| 27 | [Trudeau](http://twitter.com/search?q=Trudeau) | N/A |
-| 28 | [Garcia](http://twitter.com/search?q=Garcia) | Garcia is a Spanish surname. It is derived from the Basque word "gar" meaning "bear". The name is often associated with strength and courage. In English, Garcia means "brave and strong". |
+| 25 | [Framing](http://twitter.com/search?q=Framing) | N/A |
+| 26 | [Trudeau](http://twitter.com/search?q=Trudeau) | N/A |
+| 27 | [Garcia](http://twitter.com/search?q=Garcia) | Garcia is a Spanish surname. It is derived from the Basque word "gar" meaning "bear". The name is often associated with strength and courage. In English, Garcia means "brave and strong". |
+| 28 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
 | 29 | [Verhandlungen](http://twitter.com/search?q=Verhandlungen) | N/A |
-| 30 | [Kiew](http://twitter.com/search?q=Kiew) | N/A |
-| 31 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 32 | [solidarität](http://twitter.com/search?q=solidarit%c3%a4t) | N/A |
-| 33 | [Andy](http://twitter.com/search?q=Andy) | N/A |
-| 34 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 35 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 36 | [Teufel](http://twitter.com/search?q=Teufel) | N/A |
-| 37 | [gemeinderat](http://twitter.com/search?q=gemeinderat) | N/A |
-| 38 | [wallis](http://twitter.com/search?q=wallis) | N/A |
-| 39 | [Politikern](http://twitter.com/search?q=Politikern) | N/A |
-| 40 | [Neutralität](http://twitter.com/search?q=Neutralit%c3%a4t) | N/A |
-| 41 | [Decke](http://twitter.com/search?q=Decke) | N/A |
-| 42 | [Argumente](http://twitter.com/search?q=Argumente) | N/A |
-| 43 | [Waffenlieferungen](http://twitter.com/search?q=Waffenlieferungen) | N/A |
-| 44 | [Absicht](http://twitter.com/search?q=Absicht) | N/A |
-| 45 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 46 | [Info](http://twitter.com/search?q=Info) | N/A |
+| 30 | [Gerechtigkeit](http://twitter.com/search?q=Gerechtigkeit) | N/A |
+| 31 | [Solidarität](http://twitter.com/search?q=Solidarit%c3%a4t) | N/A |
+| 32 | [Andy](http://twitter.com/search?q=Andy) | N/A |
+| 33 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 34 | [Infrastruktur](http://twitter.com/search?q=Infrastruktur) | N/A |
+| 35 | [Teufel](http://twitter.com/search?q=Teufel) | N/A |
+| 36 | [gemeinderat](http://twitter.com/search?q=gemeinderat) | N/A |
+| 37 | [Fasnacht](http://twitter.com/search?q=Fasnacht) | N/A |
+| 38 | [Wallis](http://twitter.com/search?q=Wallis) | N/A |
+| 39 | [Arab](http://twitter.com/search?q=Arab) | N/A |
+| 40 | [Politikern](http://twitter.com/search?q=Politikern) | N/A |
+| 41 | [Vollidiot](http://twitter.com/search?q=Vollidiot) | N/A |
+| 42 | [Neutralität](http://twitter.com/search?q=Neutralit%c3%a4t) | N/A |
+| 43 | [Mitglied](http://twitter.com/search?q=Mitglied) | N/A |
+| 44 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 45 | [Argumente](http://twitter.com/search?q=Argumente) | N/A |
+| 46 | [Budapest](http://twitter.com/search?q=Budapest) | N/A |
 | 47 | [Steuern](http://twitter.com/search?q=Steuern) | N/A |
-| 48 | [Vollidiot](http://twitter.com/search?q=Vollidiot) | N/A |
-| 49 | [Wohnungsnot](http://twitter.com/search?q=Wohnungsnot) | N/A |
-| 50 | [Arab](http://twitter.com/search?q=Arab) | N/A |
+| 48 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 49 | [Müll](http://twitter.com/search?q=M%c3%bcll) | N/A |
+| 50 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
 
 
 
