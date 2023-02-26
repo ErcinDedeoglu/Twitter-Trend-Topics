@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-02-26 03:25:34 UTC`
+📆 Last Updated: `2023-02-26 04:16:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,9 +24,9 @@ This is top 50 for Latvia
 | 7 | [Riga](http://twitter.com/search?q=Riga) | N/A |
 | 8 | [Kola](http://twitter.com/search?q=Kola) | N/A |
 | 9 | [Krievijas](http://twitter.com/search?q=Krievijas) | N/A |
-| 10 | [риге](http://twitter.com/search?q=%d1%80%d0%b8%d0%b3%d0%b5) | N/A |
-| 11 | [Langa](http://twitter.com/search?q=Langa) | N/A |
-| 12 | [zini](http://twitter.com/search?q=zini) | N/A |
+| 10 | [Langa](http://twitter.com/search?q=Langa) | N/A |
+| 11 | [zini](http://twitter.com/search?q=zini) | N/A |
+| 12 | [Риге](http://twitter.com/search?q=%d0%a0%d0%b8%d0%b3%d0%b5) | N/A |
 | 13 | [America](http://twitter.com/search?q=America) | N/A |
 | 14 | [Līdz](http://twitter.com/search?q=L%c4%abdz) | N/A |
 | 15 | [Visas](http://twitter.com/search?q=Visas) | N/A |
@@ -53,7 +53,7 @@ This is top 50 for Latvia
 | 36 | [helmanis](http://twitter.com/search?q=helmanis) | N/A |
 | 37 | [avenam](http://twitter.com/search?q=avenam) | N/A |
 | 38 | [Lato](http://twitter.com/search?q=Lato) | Lato is a sans-serif typeface designed by Łukasz Dziedzic in 2010. It is a humanist typeface, meaning it has a more organic, calligraphic feel than other sans-serifs. The name Lato comes from the Polish word for "summer". |
-| 39 | [Kremļa](http://twitter.com/search?q=Krem%c4%bca) | N/A |
+| 39 | [kremļa](http://twitter.com/search?q=krem%c4%bca) | N/A |
 | 40 | [ķīna](http://twitter.com/search?q=%c4%b7%c4%abna) | N/A |
 | 41 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
 | 42 | [kurš](http://twitter.com/search?q=kur%c5%a1) | N/A |

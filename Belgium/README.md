@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belgium
 
-📆 Last Updated: `2023-02-26 03:25:31 UTC`
+📆 Last Updated: `2023-02-26 04:16:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,7 +25,7 @@ This is top 50 for Belgium
 | 8 | [Jihad](http://twitter.com/search?q=Jihad) | N/A |
 | 9 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
 | 10 | [Van Baarle](http://twitter.com/search?q=Van+Baarle) | N/A |
-| 11 | [Muur](http://twitter.com/search?q=Muur) | N/A |
+| 11 | [muur](http://twitter.com/search?q=muur) | N/A |
 | 12 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
 | 13 | [vic anciaux](http://twitter.com/search?q=vic+anciaux) | N/A |
 | 14 | [Lotte](http://twitter.com/search?q=Lotte) | N/A |
@@ -35,7 +35,7 @@ This is top 50 for Belgium
 | 18 | [pidcock](http://twitter.com/search?q=pidcock) | N/A |
 | 19 | [Loreen](http://twitter.com/search?q=Loreen) | N/A |
 | 20 | [oprechte](http://twitter.com/search?q=oprechte) | N/A |
-| 21 | [eupen](http://twitter.com/search?q=eupen) | N/A |
+| 21 | [Eupen](http://twitter.com/search?q=Eupen) | N/A |
 | 22 | [wuyts](http://twitter.com/search?q=wuyts) | N/A |
 | 23 | [Laporte](http://twitter.com/search?q=Laporte) | Laporte is a French surname derived from the Old French word "la porte," meaning "the door." It is also the name of several towns in France. |
 | 24 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
@@ -50,21 +50,21 @@ This is top 50 for Belgium
 | 33 | [Bosberg](http://twitter.com/search?q=Bosberg) | N/A |
 | 34 | [Bert](http://twitter.com/search?q=Bert) | N/A |
 | 35 | [Oekraïne](http://twitter.com/search?q=Oekra%c3%afne) | N/A |
-| 36 | [Tunisie](http://twitter.com/search?q=Tunisie) | N/A |
-| 37 | [Salar](http://twitter.com/search?q=Salar) | N/A |
-| 38 | [ninove](http://twitter.com/search?q=ninove) | N/A |
-| 39 | [merlier](http://twitter.com/search?q=merlier) | N/A |
-| 40 | [Rusland](http://twitter.com/search?q=Rusland) | N/A |
-| 41 | [innige](http://twitter.com/search?q=innige) | N/A |
+| 36 | [Salar](http://twitter.com/search?q=Salar) | N/A |
+| 37 | [ninove](http://twitter.com/search?q=ninove) | N/A |
+| 38 | [merlier](http://twitter.com/search?q=merlier) | N/A |
+| 39 | [Rusland](http://twitter.com/search?q=Rusland) | N/A |
+| 40 | [innige](http://twitter.com/search?q=innige) | N/A |
+| 41 | [Tunisie](http://twitter.com/search?q=Tunisie) | N/A |
 | 42 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
-| 43 | [defensie](http://twitter.com/search?q=defensie) | N/A |
-| 44 | [I LOVE](http://twitter.com/search?q=I+LOVE) | N/A |
-| 45 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 46 | [Noorwegen](http://twitter.com/search?q=Noorwegen) | N/A |
-| 47 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
-| 48 | [Vienna](http://twitter.com/search?q=Vienna) | N/A |
-| 49 | [jeremie](http://twitter.com/search?q=jeremie) | N/A |
-| 50 | [FN Herstal](http://twitter.com/search?q=FN+Herstal) | N/A |
+| 43 | [I Vote](http://twitter.com/search?q=I+Vote) | N/A |
+| 44 | [defensie](http://twitter.com/search?q=defensie) | N/A |
+| 45 | [I LOVE](http://twitter.com/search?q=I+LOVE) | N/A |
+| 46 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 47 | [noorwegen](http://twitter.com/search?q=noorwegen) | N/A |
+| 48 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 49 | [Vienna](http://twitter.com/search?q=Vienna) | N/A |
+| 50 | [jeremie](http://twitter.com/search?q=jeremie) | N/A |
 
 
 

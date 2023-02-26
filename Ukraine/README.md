@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ukraine
 
-📆 Last Updated: `2023-02-26 03:25:38 UTC`
+📆 Last Updated: `2023-02-26 04:16:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -43,28 +43,28 @@ This is top 50 for Ukraine
 | 26 | [#testosterone](http://twitter.com/search?q=%23testosterone) | N/A |
 | 27 | [Base](http://twitter.com/search?q=Base) | N/A |
 | 28 | [приднестровья](http://twitter.com/search?q=%d0%bf%d1%80%d0%b8%d0%b4%d0%bd%d0%b5%d1%81%d1%82%d1%80%d0%be%d0%b2%d1%8c%d1%8f) | N/A |
-| 29 | [слава україні](http://twitter.com/search?q=%d1%81%d0%bb%d0%b0%d0%b2%d0%b0+%d1%83%d0%ba%d1%80%d0%b0%d1%97%d0%bd%d1%96) | N/A |
-| 30 | [Britain](http://twitter.com/search?q=Britain) | N/A |
-| 31 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 32 | [UN Charter](http://twitter.com/search?q=UN+Charter) | N/A |
-| 33 | [кремле](http://twitter.com/search?q=%d0%ba%d1%80%d0%b5%d0%bc%d0%bb%d0%b5) | N/A |
-| 34 | [днепр](http://twitter.com/search?q=%d0%b4%d0%bd%d0%b5%d0%bf%d1%80) | N/A |
-| 35 | [бучи](http://twitter.com/search?q=%d0%b1%d1%83%d1%87%d0%b8) | N/A |
-| 36 | [Hostomel](http://twitter.com/search?q=Hostomel) | N/A |
-| 37 | [Зеленский](http://twitter.com/search?q=%d0%97%d0%b5%d0%bb%d0%b5%d0%bd%d1%81%d0%ba%d0%b8%d0%b9) | N/A |
-| 38 | [согласна](http://twitter.com/search?q=%d1%81%d0%be%d0%b3%d0%bb%d0%b0%d1%81%d0%bd%d0%b0) | N/A |
-| 39 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
-| 40 | [WWII](http://twitter.com/search?q=WWII) | N/A |
-| 41 | [Quest](http://twitter.com/search?q=Quest) | N/A |
-| 42 | [Смерть](http://twitter.com/search?q=%d0%a1%d0%bc%d0%b5%d1%80%d1%82%d1%8c) | N/A |
-| 43 | [буче](http://twitter.com/search?q=%d0%b1%d1%83%d1%87%d0%b5) | N/A |
-| 44 | [Transnistria](http://twitter.com/search?q=Transnistria) | N/A |
-| 45 | [Берлине](http://twitter.com/search?q=%d0%91%d0%b5%d1%80%d0%bb%d0%b8%d0%bd%d0%b5) | N/A |
-| 46 | [Франции](http://twitter.com/search?q=%d0%a4%d1%80%d0%b0%d0%bd%d1%86%d0%b8%d0%b8) | N/A |
-| 47 | [Victory](http://twitter.com/search?q=Victory) | N/A |
-| 48 | [Коли](http://twitter.com/search?q=%d0%9a%d0%be%d0%bb%d0%b8) | N/A |
-| 49 | [бутусов](http://twitter.com/search?q=%d0%b1%d1%83%d1%82%d1%83%d1%81%d0%be%d0%b2) | N/A |
-| 50 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
+| 29 | [Britain](http://twitter.com/search?q=Britain) | N/A |
+| 30 | [UN Charter](http://twitter.com/search?q=UN+Charter) | N/A |
+| 31 | [кремле](http://twitter.com/search?q=%d0%ba%d1%80%d0%b5%d0%bc%d0%bb%d0%b5) | N/A |
+| 32 | [днепр](http://twitter.com/search?q=%d0%b4%d0%bd%d0%b5%d0%bf%d1%80) | N/A |
+| 33 | [бучи](http://twitter.com/search?q=%d0%b1%d1%83%d1%87%d0%b8) | N/A |
+| 34 | [Hostomel](http://twitter.com/search?q=Hostomel) | N/A |
+| 35 | [Зеленский](http://twitter.com/search?q=%d0%97%d0%b5%d0%bb%d0%b5%d0%bd%d1%81%d0%ba%d0%b8%d0%b9) | N/A |
+| 36 | [Согласна](http://twitter.com/search?q=%d0%a1%d0%be%d0%b3%d0%bb%d0%b0%d1%81%d0%bd%d0%b0) | N/A |
+| 37 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
+| 38 | [WWII](http://twitter.com/search?q=WWII) | N/A |
+| 39 | [Quest](http://twitter.com/search?q=Quest) | N/A |
+| 40 | [Смерть](http://twitter.com/search?q=%d0%a1%d0%bc%d0%b5%d1%80%d1%82%d1%8c) | N/A |
+| 41 | [буче](http://twitter.com/search?q=%d0%b1%d1%83%d1%87%d0%b5) | N/A |
+| 42 | [Transnistria](http://twitter.com/search?q=Transnistria) | N/A |
+| 43 | [Берлине](http://twitter.com/search?q=%d0%91%d0%b5%d1%80%d0%bb%d0%b8%d0%bd%d0%b5) | N/A |
+| 44 | [Франции](http://twitter.com/search?q=%d0%a4%d1%80%d0%b0%d0%bd%d1%86%d0%b8%d0%b8) | N/A |
+| 45 | [Victory](http://twitter.com/search?q=Victory) | N/A |
+| 46 | [коли](http://twitter.com/search?q=%d0%ba%d0%be%d0%bb%d0%b8) | N/A |
+| 47 | [бутусов](http://twitter.com/search?q=%d0%b1%d1%83%d1%82%d1%83%d1%81%d0%be%d0%b2) | N/A |
+| 48 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
+| 49 | [Vuhledar](http://twitter.com/search?q=Vuhledar) | N/A |
+| 50 | [Lithuania](http://twitter.com/search?q=Lithuania) | N/A |
 
 
 

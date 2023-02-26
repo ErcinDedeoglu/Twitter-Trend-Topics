@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Accra
 
-📆 Last Updated: `2023-02-26 03:25:11 UTC`
+📆 Last Updated: `2023-02-26 04:16:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,49 +22,49 @@ This is top 50 for [Ghana](</Ghana>)
 | 5 | [#ObiWon](http://twitter.com/search?q=%23ObiWon) | N/A |
 | 6 | [#LEIARS](http://twitter.com/search?q=%23LEIARS) | N/A |
 | 7 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
-| 8 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
-| 9 | [Nana](http://twitter.com/search?q=Nana) | Nana is a Japanese term of endearment for grandmother. It is also used as a nickname for someone who is older and wiser. In English, it can be translated to mean "Grandma" or "Granny". |
-| 10 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 11 | [INEC](http://twitter.com/search?q=INEC) | N/A |
-| 12 | [#wakenbake](http://twitter.com/search?q=%23wakenbake) | N/A |
-| 13 | [Ben White](http://twitter.com/search?q=Ben+White) | Ben White is a phrase used to describe someone who is fair-skinned or Caucasian. It is derived from the phrase "white as snow," which is often used to describe someone with very pale skin. |
-| 14 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
-| 15 | [#CountrySide](http://twitter.com/search?q=%23CountrySide) | N/A |
-| 16 | [Yemi](http://twitter.com/search?q=Yemi) | Yemi is a Yoruba name of Nigerian origin. It is derived from the Yoruba phrase "Oluwa yemi," which means "My God has heard me." In English, it can be translated to mean "God has answered me." |
-| 17 | [Game of Thrones](http://twitter.com/search?q=Game+of+Thrones) | N/A |
-| 18 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
-| 19 | [Keita](http://twitter.com/search?q=Keita) | Keita is a Japanese name meaning "blessed" or "happy". It is often used as a given name for boys. |
-| 20 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 21 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
-| 22 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 23 | [Tinubu](http://twitter.com/search?q=Tinubu) | N/A |
-| 24 | [Yvonne](http://twitter.com/search?q=Yvonne) | Yvonne is a French feminine given name derived from the Germanic name Yvon, which is derived from the element yv, meaning "yew". It is also a variant of the name Yvette, which means "little archer". |
-| 25 | [Labour Party](http://twitter.com/search?q=Labour+Party) | N/A |
-| 26 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
-| 27 | [Prison Break](http://twitter.com/search?q=Prison+Break) | N/A |
-| 28 | [Citi](http://twitter.com/search?q=Citi) | Citi is an abbreviation for the financial services company Citigroup. It is a multinational investment bank and financial services corporation headquartered in New York City. |
-| 29 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 30 | [Saudi](http://twitter.com/search?q=Saudi) | Saudi is an adjective used to refer to something or someone from Saudi Arabia, a country in the Middle East. |
-| 31 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
-| 32 | [Peaky Blinders](http://twitter.com/search?q=Peaky+Blinders) | N/A |
-| 33 | [black sherif](http://twitter.com/search?q=black+sherif) | N/A |
-| 34 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 35 | [My GOAT](http://twitter.com/search?q=My+GOAT) | N/A |
-| 36 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 37 | [The Office](http://twitter.com/search?q=The+Office) | N/A |
-| 38 | [North](http://twitter.com/search?q=North) | N/A |
-| 39 | [Modern Family](http://twitter.com/search?q=Modern+Family) | Modern Family is an American television mockumentary sitcom created by Christopher Lloyd and Steven Levitan for the ABC network. It follows the lives of three related families, the Pritchetts, Dunphys, and Tuckers, who all live in Los Angeles. The show focuses on the characters' relationships with each other and their attempts to navigate modern life. The title of the show is a reference to the changing nature of family life in today's society. |
-| 40 | [Prince Dovlo](http://twitter.com/search?q=Prince+Dovlo) | N/A |
-| 41 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 42 | [Breaking Bad](http://twitter.com/search?q=Breaking+Bad) | N/A |
-| 43 | [Kojo Jones](http://twitter.com/search?q=Kojo+Jones) | N/A |
-| 44 | [Alvaro Rodriguez](http://twitter.com/search?q=Alvaro+Rodriguez) | N/A |
-| 45 | [Juicy](http://twitter.com/search?q=Juicy) | N/A |
-| 46 | [Ipeleng](http://twitter.com/search?q=Ipeleng) | Ipeleng is a Setswana word meaning “to be beautiful”. It is often used as a name for girls in Botswana. |
-| 47 | [Atletico](http://twitter.com/search?q=Atletico) | N/A |
-| 48 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 49 | [overall best kanaga jnr](http://twitter.com/search?q=overall+best+kanaga+jnr) | N/A |
-| 50 | [The DJ](http://twitter.com/search?q=The+DJ) | The DJ is an abbreviation for disc jockey, which is a person who plays recorded music for an audience. DJs typically play music at clubs, parties, and other events. |
+| 8 | [#presidentialelection2023](http://twitter.com/search?q=%23presidentialelection2023) | N/A |
+| 9 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 10 | [INEC](http://twitter.com/search?q=INEC) | N/A |
+| 11 | [#wakenbake](http://twitter.com/search?q=%23wakenbake) | N/A |
+| 12 | [Ben White](http://twitter.com/search?q=Ben+White) | Ben White is a phrase used to describe someone who is fair-skinned or Caucasian. It is derived from the phrase "white as snow," which is often used to describe someone with very pale skin. |
+| 13 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
+| 14 | [Yemi](http://twitter.com/search?q=Yemi) | Yemi is a Yoruba name of Nigerian origin. It is derived from the Yoruba phrase "Oluwa yemi," which means "My God has heard me." In English, it can be translated to mean "God has answered me." |
+| 15 | [Game of Thrones](http://twitter.com/search?q=Game+of+Thrones) | N/A |
+| 16 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
+| 17 | [Keita](http://twitter.com/search?q=Keita) | Keita is a Japanese name meaning "blessed" or "happy". It is often used as a given name for boys. |
+| 18 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 19 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
+| 20 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 21 | [Tinubu](http://twitter.com/search?q=Tinubu) | N/A |
+| 22 | [Yvonne](http://twitter.com/search?q=Yvonne) | Yvonne is a French feminine given name derived from the Germanic name Yvon, which is derived from the element yv, meaning "yew". It is also a variant of the name Yvette, which means "little archer". |
+| 23 | [Labour Party](http://twitter.com/search?q=Labour+Party) | N/A |
+| 24 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
+| 25 | [Prison Break](http://twitter.com/search?q=Prison+Break) | N/A |
+| 26 | [Citi](http://twitter.com/search?q=Citi) | Citi is an abbreviation for the financial services company Citigroup. It is a multinational investment bank and financial services corporation headquartered in New York City. |
+| 27 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 28 | [Saudi](http://twitter.com/search?q=Saudi) | Saudi is an adjective used to refer to something or someone from Saudi Arabia, a country in the Middle East. |
+| 29 | [Nana](http://twitter.com/search?q=Nana) | Nana is a Japanese term of endearment for grandmother. It is also used as a nickname for someone who is older and wiser. In English, it can be translated to mean "Grandma" or "Granny". |
+| 30 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 31 | [Peaky Blinders](http://twitter.com/search?q=Peaky+Blinders) | N/A |
+| 32 | [black sherif](http://twitter.com/search?q=black+sherif) | N/A |
+| 33 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 34 | [My GOAT](http://twitter.com/search?q=My+GOAT) | N/A |
+| 35 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 36 | [The Office](http://twitter.com/search?q=The+Office) | N/A |
+| 37 | [North](http://twitter.com/search?q=North) | N/A |
+| 38 | [Modern Family](http://twitter.com/search?q=Modern+Family) | Modern Family is an American television mockumentary sitcom created by Christopher Lloyd and Steven Levitan for the ABC network. It follows the lives of three related families, the Pritchetts, Dunphys, and Tuckers, who all live in Los Angeles. The show focuses on the characters' relationships with each other and their attempts to navigate modern life. The title of the show is a reference to the changing nature of family life in today's society. |
+| 39 | [prince dovlo](http://twitter.com/search?q=prince+dovlo) | N/A |
+| 40 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
+| 41 | [Breaking Bad](http://twitter.com/search?q=Breaking+Bad) | N/A |
+| 42 | [Kojo Jones](http://twitter.com/search?q=Kojo+Jones) | N/A |
+| 43 | [Alvaro Rodriguez](http://twitter.com/search?q=Alvaro+Rodriguez) | N/A |
+| 44 | [Juicy](http://twitter.com/search?q=Juicy) | N/A |
+| 45 | [Ipeleng](http://twitter.com/search?q=Ipeleng) | Ipeleng is a Setswana word meaning “to be beautiful”. It is often used as a name for girls in Botswana. |
+| 46 | [Atletico](http://twitter.com/search?q=Atletico) | N/A |
+| 47 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 48 | [overall best kanaga jnr](http://twitter.com/search?q=overall+best+kanaga+jnr) | N/A |
+| 49 | [The DJ](http://twitter.com/search?q=The+DJ) | The DJ is an abbreviation for disc jockey, which is a person who plays recorded music for an audience. DJs typically play music at clubs, parties, and other events. |
+| 50 | [Miracle](http://twitter.com/search?q=Miracle) | In English, the word "miracle" is used to describe an event or occurrence that is not explicable by natural or scientific laws and is therefore considered to be the work of a divine agency. It can also refer to any amazing or wonderful event that defies explanation. |
 
 
 

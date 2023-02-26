@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Netherlands
 
-📆 Last Updated: `2023-02-26 03:25:35 UTC`
+📆 Last Updated: `2023-02-26 04:16:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,7 +24,7 @@ This is top 50 for Netherlands
 | 7 | [Rutte](http://twitter.com/search?q=Rutte) | N/A |
 | 8 | [Huub](http://twitter.com/search?q=Huub) | N/A |
 | 9 | [Jurre](http://twitter.com/search?q=Jurre) | N/A |
-| 10 | [Dylan van Baarle](http://twitter.com/search?q=Dylan+van+Baarle) | N/A |
+| 10 | [dylan van baarle](http://twitter.com/search?q=dylan+van+baarle) | N/A |
 | 11 | [Oekraïne](http://twitter.com/search?q=Oekra%c3%afne) | N/A |
 | 12 | [Pauw](http://twitter.com/search?q=Pauw) | N/A |
 | 13 | [Zwijndrecht](http://twitter.com/search?q=Zwijndrecht) | N/A |
@@ -39,32 +39,32 @@ This is top 50 for Netherlands
 | 22 | [youp](http://twitter.com/search?q=youp) | N/A |
 | 23 | [Panic](http://twitter.com/search?q=Panic) | Panic is a sudden and intense feeling of fear or anxiety that can cause physical reactions such as increased heart rate, sweating, and trembling. It is often accompanied by a sense of impending doom or danger. In English, the phrase "panic attack" is used to describe an episode of intense fear or anxiety. |
 | 24 | [De Lie](http://twitter.com/search?q=De+Lie) | N/A |
-| 25 | [Slaap](http://twitter.com/search?q=Slaap) | N/A |
-| 26 | [Exxon](http://twitter.com/search?q=Exxon) | N/A |
-| 27 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 28 | [dan howell](http://twitter.com/search?q=dan+howell) | N/A |
-| 29 | [Fijn](http://twitter.com/search?q=Fijn) | N/A |
-| 30 | [enquêtecommissie](http://twitter.com/search?q=enqu%c3%aatecommissie) | N/A |
-| 31 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
-| 32 | [dag 25](http://twitter.com/search?q=dag+25) | N/A |
-| 33 | [INEC](http://twitter.com/search?q=INEC) | N/A |
-| 34 | [schippers](http://twitter.com/search?q=schippers) | N/A |
-| 35 | [Bubba](http://twitter.com/search?q=Bubba) | N/A |
-| 36 | [fc volendam](http://twitter.com/search?q=fc+volendam) | N/A |
-| 37 | [Ranomi](http://twitter.com/search?q=Ranomi) | N/A |
-| 38 | [Koopmans](http://twitter.com/search?q=Koopmans) | N/A |
-| 39 | [John de Mol](http://twitter.com/search?q=John+de+Mol) | N/A |
-| 40 | [Groningse](http://twitter.com/search?q=Groningse) | N/A |
-| 41 | [irandust](http://twitter.com/search?q=irandust) | N/A |
+| 25 | [Exxon](http://twitter.com/search?q=Exxon) | N/A |
+| 26 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 27 | [dan howell](http://twitter.com/search?q=dan+howell) | N/A |
+| 28 | [Fijn](http://twitter.com/search?q=Fijn) | N/A |
+| 29 | [enquêtecommissie](http://twitter.com/search?q=enqu%c3%aatecommissie) | N/A |
+| 30 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
+| 31 | [dag 25](http://twitter.com/search?q=dag+25) | N/A |
+| 32 | [INEC](http://twitter.com/search?q=INEC) | N/A |
+| 33 | [schippers](http://twitter.com/search?q=schippers) | N/A |
+| 34 | [Bubba](http://twitter.com/search?q=Bubba) | N/A |
+| 35 | [fc volendam](http://twitter.com/search?q=fc+volendam) | N/A |
+| 36 | [Ranomi](http://twitter.com/search?q=Ranomi) | N/A |
+| 37 | [John de Mol](http://twitter.com/search?q=John+de+Mol) | N/A |
+| 38 | [groningse](http://twitter.com/search?q=groningse) | N/A |
+| 39 | [irandust](http://twitter.com/search?q=irandust) | N/A |
+| 40 | [Koopmans](http://twitter.com/search?q=Koopmans) | N/A |
+| 41 | [Slaap](http://twitter.com/search?q=Slaap) | N/A |
 | 42 | [Excelsior](http://twitter.com/search?q=Excelsior) | N/A |
-| 43 | [Chiara](http://twitter.com/search?q=Chiara) | N/A |
-| 44 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
-| 45 | [Emile](http://twitter.com/search?q=Emile) | N/A |
-| 46 | [Keita](http://twitter.com/search?q=Keita) | Keita is a Japanese name meaning "blessed" or "happy". It is often used as a given name for boys. |
-| 47 | [Bernhard](http://twitter.com/search?q=Bernhard) | N/A |
-| 48 | [eemnes](http://twitter.com/search?q=eemnes) | N/A |
-| 49 | [keizer karelplein](http://twitter.com/search?q=keizer+karelplein) | N/A |
-| 50 | [Michelangelo](http://twitter.com/search?q=Michelangelo) | N/A |
+| 43 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 44 | [Emile](http://twitter.com/search?q=Emile) | N/A |
+| 45 | [Keita](http://twitter.com/search?q=Keita) | Keita is a Japanese name meaning "blessed" or "happy". It is often used as a given name for boys. |
+| 46 | [Bernhard](http://twitter.com/search?q=Bernhard) | N/A |
+| 47 | [eemnes](http://twitter.com/search?q=eemnes) | N/A |
+| 48 | [keizer karelplein](http://twitter.com/search?q=keizer+karelplein) | N/A |
+| 49 | [Michelangelo](http://twitter.com/search?q=Michelangelo) | N/A |
+| 50 | [Haga](http://twitter.com/search?q=Haga) | N/A |
 
 
 

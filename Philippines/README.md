@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philippines
 
-📆 Last Updated: `2023-02-26 03:25:36 UTC`
+📆 Last Updated: `2023-02-26 04:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Philippines
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
-| 2 | [#LizaAndHerStory](http://twitter.com/search?q=%23LizaAndHerStory) | N/A |
-| 3 | [#WalangDudaWithModessLong](http://twitter.com/search?q=%23WalangDudaWithModessLong) | N/A |
-| 4 | [BINI OUR MODESS GIRLS](http://twitter.com/search?q=BINI+OUR+MODESS+GIRLS) | N/A |
-| 5 | [#ModessxBini](http://twitter.com/search?q=%23ModessxBini) | N/A |
-| 6 | [WELCOME BACK LWL](http://twitter.com/search?q=WELCOME+BACK+LWL) | N/A |
-| 7 | [#EDSA37](http://twitter.com/search?q=%23EDSA37) | N/A |
-| 8 | [#MostRequestedLive](http://twitter.com/search?q=%23MostRequestedLive) | N/A |
-| 9 | [ANJI OnASAP BESTofFEB](http://twitter.com/search?q=ANJI+OnASAP+BESTofFEB) | N/A |
-| 10 | [Where You At](http://twitter.com/search?q=Where+You+At) | N/A |
-| 11 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
-| 12 | [KIM SUNOO](http://twitter.com/search?q=KIM+SUNOO) | N/A |
-| 13 | [iWant Alpha Boys](http://twitter.com/search?q=iWant+Alpha+Boys) | N/A |
-| 14 | [Zephanie AOyeSnaYes](http://twitter.com/search?q=Zephanie+AOyeSnaYes) | N/A |
-| 15 | [BGYO AT SINGKAMASaya FEST](http://twitter.com/search?q=BGYO+AT+SINGKAMASaya+FEST) | N/A |
-| 16 | [DOKYEOM AT MILAN FASHION WEEK](http://twitter.com/search?q=DOKYEOM+AT+MILAN+FASHION+WEEK) | N/A |
-| 17 | [nayeon](http://twitter.com/search?q=nayeon) | N/A |
-| 18 | [FebeverWithYou MAYWARD](http://twitter.com/search?q=FebeverWithYou+MAYWARD) | N/A |
-| 19 | [KDLEX TUMINDIG AT UMIBIG](http://twitter.com/search?q=KDLEX+TUMINDIG+AT+UMIBIG) | N/A |
-| 20 | [synk with aespa day1](http://twitter.com/search?q=synk+with+aespa+day1) | N/A |
-| 21 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 22 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
-| 23 | [Ping Remulla](http://twitter.com/search?q=Ping+Remulla) | N/A |
-| 24 | [SoldOut Queen REGINE](http://twitter.com/search?q=SoldOut+Queen+REGINE) | N/A |
-| 25 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
-| 26 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
-| 27 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 28 | [MARICEL SORIANO DAY](http://twitter.com/search?q=MARICEL+SORIANO+DAY) | N/A |
-| 29 | [JoshCullen OnWishBus](http://twitter.com/search?q=JoshCullen+OnWishBus) | N/A |
-| 30 | [ail top1 dasurv](http://twitter.com/search?q=ail+top1+dasurv) | N/A |
-| 31 | [TXT DREAMGRAPHY](http://twitter.com/search?q=TXT+DREAMGRAPHY) | N/A |
-| 32 | [Ateneo](http://twitter.com/search?q=Ateneo) | N/A |
-| 33 | [SOOBOOnit](http://twitter.com/search?q=SOOBOOnit) | N/A |
-| 34 | [Marcos](http://twitter.com/search?q=Marcos) | Marcos is a Spanish name derived from the Latin name Marcus, which means "dedicated to Mars". It is also a common surname in Portugal and Brazil. In English, Marcos can be translated to mean "dedicated to Mars". |
-| 35 | [record maker yeji](http://twitter.com/search?q=record+maker+yeji) | N/A |
-| 36 | [First Sunday of Lent](http://twitter.com/search?q=First+Sunday+of+Lent) | N/A |
-| 37 | [Allison](http://twitter.com/search?q=Allison) | Allison is a feminine given name of English origin. It is derived from the Old French name Alisone, which is a combination of Alice and the suffix -son, meaning "son of Alice". |
-| 38 | [body rock asia with bini](http://twitter.com/search?q=body+rock+asia+with+bini) | N/A |
-| 39 | [ara galang](http://twitter.com/search?q=ara+galang) | N/A |
-| 40 | [Jema](http://twitter.com/search?q=Jema) | N/A |
-| 41 | [congrats creamline](http://twitter.com/search?q=congrats+creamline) | N/A |
-| 42 | [zacham chosen b4rkada](http://twitter.com/search?q=zacham+chosen+b4rkada) | N/A |
-| 43 | [Kross the Line with ENHYPEN](http://twitter.com/search?q=Kross+the+Line+with+ENHYPEN) | N/A |
-| 44 | [Congrats F2](http://twitter.com/search?q=Congrats+F2) | N/A |
-| 45 | [TRIE](http://twitter.com/search?q=TRIE) | N/A |
-| 46 | [Hunter](http://twitter.com/search?q=Hunter) | N/A |
-| 47 | [Adamson](http://twitter.com/search?q=Adamson) | N/A |
-| 48 | [Mayor Joy](http://twitter.com/search?q=Mayor+Joy) | N/A |
-| 49 | [Alinsug](http://twitter.com/search?q=Alinsug) | N/A |
-| 50 | [MINER](http://twitter.com/search?q=MINER) | N/A |
+| 1 | [BINI OUR MODESS GIRLS](http://twitter.com/search?q=BINI+OUR+MODESS+GIRLS) | N/A |
+| 2 | [#WalangDudaWithModessLong](http://twitter.com/search?q=%23WalangDudaWithModessLong) | N/A |
+| 3 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
+| 4 | [HAPPY 23RD BDAY ALEXA](http://twitter.com/search?q=HAPPY+23RD+BDAY+ALEXA) | N/A |
+| 5 | [#AOSYesNaYes](http://twitter.com/search?q=%23AOSYesNaYes) | N/A |
+| 6 | [#EDSA37](http://twitter.com/search?q=%23EDSA37) | N/A |
+| 7 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
+| 8 | [#LizaAndHerStory](http://twitter.com/search?q=%23LizaAndHerStory) | N/A |
+| 9 | [iWant Alpha Boys](http://twitter.com/search?q=iWant+Alpha+Boys) | N/A |
+| 10 | [#UAAPSeason85](http://twitter.com/search?q=%23UAAPSeason85) | N/A |
+| 11 | [ANJI OnASAP BESTofFEB](http://twitter.com/search?q=ANJI+OnASAP+BESTofFEB) | N/A |
+| 12 | [WE NEED IRENE SOLO SCHEDULE](http://twitter.com/search?q=WE+NEED+IRENE+SOLO+SCHEDULE) | N/A |
+| 13 | [KIM SUNOO](http://twitter.com/search?q=KIM+SUNOO) | N/A |
+| 14 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 15 | [YesNaYes SaJULIEVER](http://twitter.com/search?q=YesNaYes+SaJULIEVER) | N/A |
+| 16 | [WELCOME BACK LWL](http://twitter.com/search?q=WELCOME+BACK+LWL) | N/A |
+| 17 | [Where You At](http://twitter.com/search?q=Where+You+At) | N/A |
+| 18 | [nayeon](http://twitter.com/search?q=nayeon) | N/A |
+| 19 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
+| 20 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
+| 21 | [CONGRATS CHA EUNWOO X ARCHIVE](http://twitter.com/search?q=CONGRATS+CHA+EUNWOO+X+ARCHIVE) | N/A |
+| 22 | [BGYO AT SINGKAMASaya FEST](http://twitter.com/search?q=BGYO+AT+SINGKAMASaya+FEST) | N/A |
+| 23 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
+| 24 | [FebeverWithYou MAYWARD](http://twitter.com/search?q=FebeverWithYou+MAYWARD) | N/A |
+| 25 | [DOKYEOM AT MILAN FASHION WEEK](http://twitter.com/search?q=DOKYEOM+AT+MILAN+FASHION+WEEK) | N/A |
+| 26 | [synk with aespa day1](http://twitter.com/search?q=synk+with+aespa+day1) | N/A |
+| 27 | [KDLEX TUMINDIG AT UMIBIG](http://twitter.com/search?q=KDLEX+TUMINDIG+AT+UMIBIG) | N/A |
+| 28 | [Zephanie AOyeSnaYes](http://twitter.com/search?q=Zephanie+AOyeSnaYes) | N/A |
+| 29 | [AOSundayWith JulieSJ](http://twitter.com/search?q=AOSundayWith+JulieSJ) | N/A |
+| 30 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
+| 31 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 32 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
+| 33 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 34 | [MARICEL SORIANO DAY](http://twitter.com/search?q=MARICEL+SORIANO+DAY) | N/A |
+| 35 | [FEBtastic Thea Astley](http://twitter.com/search?q=FEBtastic+Thea+Astley) | N/A |
+| 36 | [SoldOut Queen REGINE](http://twitter.com/search?q=SoldOut+Queen+REGINE) | N/A |
+| 37 | [EDWARD ASAP FEBORITO](http://twitter.com/search?q=EDWARD+ASAP+FEBORITO) | N/A |
+| 38 | [ail top1 dasurv](http://twitter.com/search?q=ail+top1+dasurv) | N/A |
+| 39 | [TXT DREAMGRAPHY](http://twitter.com/search?q=TXT+DREAMGRAPHY) | N/A |
+| 40 | [Sheena B PowerSunday](http://twitter.com/search?q=Sheena+B+PowerSunday) | N/A |
+| 41 | [Sooboonit](http://twitter.com/search?q=Sooboonit) | N/A |
+| 42 | [Marcos](http://twitter.com/search?q=Marcos) | Marcos is a Spanish name derived from the Latin name Marcus, which means "dedicated to Mars". It is also a common surname in Portugal and Brazil. In English, Marcos can be translated to mean "dedicated to Mars". |
+| 43 | [Ateneo](http://twitter.com/search?q=Ateneo) | N/A |
+| 44 | [ASAP MUSIKILIG SA KINJI](http://twitter.com/search?q=ASAP+MUSIKILIG+SA+KINJI) | N/A |
+| 45 | [ara galang](http://twitter.com/search?q=ara+galang) | N/A |
+| 46 | [TRIE](http://twitter.com/search?q=TRIE) | N/A |
+| 47 | [Jema](http://twitter.com/search?q=Jema) | N/A |
+| 48 | [congrats creamline](http://twitter.com/search?q=congrats+creamline) | N/A |
+| 49 | [zacham chosen b4rkada](http://twitter.com/search?q=zacham+chosen+b4rkada) | N/A |
+| 50 | [congrats f2](http://twitter.com/search?q=congrats+f2) | N/A |
 
 
 

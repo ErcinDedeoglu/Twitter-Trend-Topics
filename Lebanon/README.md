@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lebanon
 
-📆 Last Updated: `2023-02-26 03:25:34 UTC`
+📆 Last Updated: `2023-02-26 04:16:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,31 +19,31 @@ This is top 50 for Lebanon
 | 2 | [الشيخ الرفاعي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%8a%d8%ae+%d8%a7%d9%84%d8%b1%d9%81%d8%a7%d8%b9%d9%8a) | N/A |
 | 3 | [#يوم_الجريح](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%ac%d8%b1%d9%8a%d8%ad) | N/A |
 | 4 | [#ولاده_ابو_الفضل_العباس](http://twitter.com/search?q=%23%d9%88%d9%84%d8%a7%d8%af%d9%87_%d8%a7%d8%a8%d9%88_%d8%a7%d9%84%d9%81%d8%b6%d9%84_%d8%a7%d9%84%d8%b9%d8%a8%d8%a7%d8%b3) | N/A |
-| 5 | [#HappyBirthdayNajwaKaram](http://twitter.com/search?q=%23HappyBirthdayNajwaKaram) | N/A |
-| 6 | [#متباركين](http://twitter.com/search?q=%23%d9%85%d8%aa%d8%a8%d8%a7%d8%b1%d9%83%d9%8a%d9%86) | N/A |
+| 5 | [#متباركين](http://twitter.com/search?q=%23%d9%85%d8%aa%d8%a8%d8%a7%d8%b1%d9%83%d9%8a%d9%86) | N/A |
+| 6 | [#HappyBirthdayNajwaKaram](http://twitter.com/search?q=%23HappyBirthdayNajwaKaram) | N/A |
 | 7 | [ابن عمو](http://twitter.com/search?q=%d8%a7%d8%a8%d9%86+%d8%b9%d9%85%d9%88) | N/A |
 | 8 | [سعد المجرد](http://twitter.com/search?q=%d8%b3%d8%b9%d8%af+%d8%a7%d9%84%d9%85%d8%ac%d8%b1%d8%af) | N/A |
 | 9 | [خالد الضاهر](http://twitter.com/search?q=%d8%ae%d8%a7%d9%84%d8%af+%d8%a7%d9%84%d8%b6%d8%a7%d9%87%d8%b1) | N/A |
-| 10 | [الكويت](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d9%88%d9%8a%d8%aa) | N/A |
-| 11 | [نواف](http://twitter.com/search?q=%d9%86%d9%88%d8%a7%d9%81) | N/A |
-| 12 | [ابن رييس](http://twitter.com/search?q=%d8%a7%d8%a8%d9%86+%d8%b1%d9%8a%d9%8a%d8%b3) | N/A |
-| 13 | [حريق كبير](http://twitter.com/search?q=%d8%ad%d8%b1%d9%8a%d9%82+%d9%83%d8%a8%d9%8a%d8%b1) | N/A |
-| 14 | [الحرس الثوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%b1%d8%b3+%d8%a7%d9%84%d8%ab%d9%88%d8%b1%d9%8a) | N/A |
-| 15 | [سماح حسام الدين](http://twitter.com/search?q=%d8%b3%d9%85%d8%a7%d8%ad+%d8%ad%d8%b3%d8%a7%d9%85+%d8%a7%d9%84%d8%af%d9%8a%d9%86) | N/A |
-| 16 | [قمر العشيره](http://twitter.com/search?q=%d9%82%d9%85%d8%b1+%d8%a7%d9%84%d8%b9%d8%b4%d9%8a%d8%b1%d9%87) | N/A |
-| 17 | [طوني بولس](http://twitter.com/search?q=%d8%b7%d9%88%d9%86%d9%8a+%d8%a8%d9%88%d9%84%d8%b3) | N/A |
-| 18 | [زين العابدين](http://twitter.com/search?q=%d8%b2%d9%8a%d9%86+%d8%a7%d9%84%d8%b9%d8%a7%d8%a8%d8%af%d9%8a%d9%86) | N/A |
-| 19 | [مخيم نهر البارد](http://twitter.com/search?q=%d9%85%d8%ae%d9%8a%d9%85+%d9%86%d9%87%d8%b1+%d8%a7%d9%84%d8%a8%d8%a7%d8%b1%d8%af) | N/A |
-| 20 | [٤ شعبان](http://twitter.com/search?q=%d9%a4+%d8%b4%d8%b9%d8%a8%d8%a7%d9%86) | N/A |
-| 21 | [لقمان سليم](http://twitter.com/search?q=%d9%84%d9%82%d9%85%d8%a7%d9%86+%d8%b3%d9%84%d9%8a%d9%85) | N/A |
-| 22 | [القوي الامنيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%88%d9%8a+%d8%a7%d9%84%d8%a7%d9%85%d9%86%d9%8a%d9%87) | N/A |
+| 10 | [علي بن الحسين](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a8%d9%86+%d8%a7%d9%84%d8%ad%d8%b3%d9%8a%d9%86) | N/A |
+| 11 | [علي بن الحسين](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a8%d9%86+%d8%a7%d9%84%d8%ad%d8%b3%d9%8a%d9%86) | N/A |
+| 12 | [الكويت](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d9%88%d9%8a%d8%aa) | N/A |
+| 13 | [نواف](http://twitter.com/search?q=%d9%86%d9%88%d8%a7%d9%81) | N/A |
+| 14 | [ابن رييس](http://twitter.com/search?q=%d8%a7%d8%a8%d9%86+%d8%b1%d9%8a%d9%8a%d8%b3) | N/A |
+| 15 | [حريق كبير](http://twitter.com/search?q=%d8%ad%d8%b1%d9%8a%d9%82+%d9%83%d8%a8%d9%8a%d8%b1) | N/A |
+| 16 | [الحرس الثوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%b1%d8%b3+%d8%a7%d9%84%d8%ab%d9%88%d8%b1%d9%8a) | N/A |
+| 17 | [سماح حسام الدين](http://twitter.com/search?q=%d8%b3%d9%85%d8%a7%d8%ad+%d8%ad%d8%b3%d8%a7%d9%85+%d8%a7%d9%84%d8%af%d9%8a%d9%86) | N/A |
+| 18 | [قمر العشيره](http://twitter.com/search?q=%d9%82%d9%85%d8%b1+%d8%a7%d9%84%d8%b9%d8%b4%d9%8a%d8%b1%d9%87) | N/A |
+| 19 | [طوني بولس](http://twitter.com/search?q=%d8%b7%d9%88%d9%86%d9%8a+%d8%a8%d9%88%d9%84%d8%b3) | N/A |
+| 20 | [زين العابدين](http://twitter.com/search?q=%d8%b2%d9%8a%d9%86+%d8%a7%d9%84%d8%b9%d8%a7%d8%a8%d8%af%d9%8a%d9%86) | N/A |
+| 21 | [مخيم نهر البارد](http://twitter.com/search?q=%d9%85%d8%ae%d9%8a%d9%85+%d9%86%d9%87%d8%b1+%d8%a7%d9%84%d8%a8%d8%a7%d8%b1%d8%af) | N/A |
+| 22 | [٤ شعبان](http://twitter.com/search?q=%d9%a4+%d8%b4%d8%b9%d8%a8%d8%a7%d9%86) | N/A |
 | 23 | [علي اتحاد](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d8%aa%d8%ad%d8%a7%d8%af) | N/A |
-| 24 | [سرايا المقاومه](http://twitter.com/search?q=%d8%b3%d8%b1%d8%a7%d9%8a%d8%a7+%d8%a7%d9%84%d9%85%d9%82%d8%a7%d9%88%d9%85%d9%87) | N/A |
-| 25 | [الاتهام السياسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d9%87%d8%a7%d9%85+%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b3%d9%8a) | N/A |
-| 26 | [النعرات الطايفيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%b9%d8%b1%d8%a7%d8%aa+%d8%a7%d9%84%d8%b7%d8%a7%d9%8a%d9%81%d9%8a%d9%87) | N/A |
-| 27 | [القضاء الفرنسي](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b6%d8%a7%d8%a1+%d8%a7%d9%84%d9%81%d8%b1%d9%86%d8%b3%d9%8a) | N/A |
-| 28 | [علي بن الحسين](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a8%d9%86+%d8%a7%d9%84%d8%ad%d8%b3%d9%8a%d9%86) | N/A |
-| 29 | [علي بن الحسين](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a8%d9%86+%d8%a7%d9%84%d8%ad%d8%b3%d9%8a%d9%86) | N/A |
+| 24 | [القوي الامنيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%88%d9%8a+%d8%a7%d9%84%d8%a7%d9%85%d9%86%d9%8a%d9%87) | N/A |
+| 25 | [سرايا المقاومه](http://twitter.com/search?q=%d8%b3%d8%b1%d8%a7%d9%8a%d8%a7+%d8%a7%d9%84%d9%85%d9%82%d8%a7%d9%88%d9%85%d9%87) | N/A |
+| 26 | [الاتهام السياسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d9%87%d8%a7%d9%85+%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b3%d9%8a) | N/A |
+| 27 | [لقمان سليم](http://twitter.com/search?q=%d9%84%d9%82%d9%85%d8%a7%d9%86+%d8%b3%d9%84%d9%8a%d9%85) | N/A |
+| 28 | [النعرات الطايفيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%b9%d8%b1%d8%a7%d8%aa+%d8%a7%d9%84%d8%b7%d8%a7%d9%8a%d9%81%d9%8a%d9%87) | N/A |
+| 29 | [القضاء الفرنسي](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b6%d8%a7%d8%a1+%d8%a7%d9%84%d9%81%d8%b1%d9%86%d8%b3%d9%8a) | N/A |
 | 30 | [فرع المعلومات](http://twitter.com/search?q=%d9%81%d8%b1%d8%b9+%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa) | N/A |
 | 31 | [الاجهزه الامنيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ac%d9%87%d8%b2%d9%87+%d8%a7%d9%84%d8%a7%d9%85%d9%86%d9%8a%d9%87) | N/A |
 | 32 | [رييس البلديه](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%a8%d9%84%d8%af%d9%8a%d9%87) | N/A |

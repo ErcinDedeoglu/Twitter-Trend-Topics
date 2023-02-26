@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Zealand
 
-📆 Last Updated: `2023-02-26 03:25:35 UTC`
+📆 Last Updated: `2023-02-26 04:16:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for New Zealand
 | 1 | [Liz Gunn](http://twitter.com/search?q=Liz+Gunn) | N/A |
 | 2 | [#higvblu](http://twitter.com/search?q=%23higvblu) | N/A |
 | 3 | [Councils](http://twitter.com/search?q=Councils) | N/A |
-| 4 | [#TeMatatini2023](http://twitter.com/search?q=%23TeMatatini2023) | N/A |
-| 5 | [Tokelau](http://twitter.com/search?q=Tokelau) | N/A |
-| 6 | [3 Waters](http://twitter.com/search?q=3+Waters) | N/A |
-| 7 | [#sdws](http://twitter.com/search?q=%23sdws) | N/A |
-| 8 | [Auckland Airport](http://twitter.com/search?q=Auckland+Airport) | N/A |
-| 9 | [mark telea](http://twitter.com/search?q=mark+telea) | N/A |
-| 10 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
+| 4 | [Tokelau](http://twitter.com/search?q=Tokelau) | N/A |
+| 5 | [3 Waters](http://twitter.com/search?q=3+Waters) | N/A |
+| 6 | [#sdws](http://twitter.com/search?q=%23sdws) | N/A |
+| 7 | [mark telea](http://twitter.com/search?q=mark+telea) | N/A |
+| 8 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
+| 9 | [Auckland Airport](http://twitter.com/search?q=Auckland+Airport) | N/A |
+| 10 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
 | 11 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 12 | [Three Waters](http://twitter.com/search?q=Three+Waters) | N/A |
-| 13 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 14 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 15 | [North](http://twitter.com/search?q=North) | N/A |
-| 16 | [#SuperRugbyPacific](http://twitter.com/search?q=%23SuperRugbyPacific) | N/A |
-| 17 | [#REDvHUR](http://twitter.com/search?q=%23REDvHUR) | N/A |
-| 18 | [Blues](http://twitter.com/search?q=Blues) | N/A |
-| 19 | [waihi beach](http://twitter.com/search?q=waihi+beach) | N/A |
-| 20 | [Labours](http://twitter.com/search?q=Labours) | N/A |
-| 21 | [Shane](http://twitter.com/search?q=Shane) | N/A |
-| 22 | [Crusaders](http://twitter.com/search?q=Crusaders) | N/A |
-| 23 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
-| 24 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
-| 25 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
-| 26 | [Y'all](http://twitter.com/search?q=Y%27all) | N/A |
-| 27 | [Jedi](http://twitter.com/search?q=Jedi) | N/A |
-| 28 | [Nats](http://twitter.com/search?q=Nats) | N/A |
-| 29 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
-| 30 | [whangarei](http://twitter.com/search?q=whangarei) | N/A |
-| 31 | [Tibet](http://twitter.com/search?q=Tibet) | N/A |
-| 32 | [Greg](http://twitter.com/search?q=Greg) | N/A |
-| 33 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 34 | [Cocaine Bear](http://twitter.com/search?q=Cocaine+Bear) | Cocaine Bear is an internet meme that originated from a real-life incident in 1985. It refers to a black bear that was found dead in the Great Smoky Mountains National Park in Tennessee, USA. The bear had ingested over 70 pounds of cocaine that had been dropped from an airplane by drug smugglers. The phrase "Cocaine Bear" is used to refer to any situation where someone or something has taken on more than they can handle. |
-| 35 | [angitu](http://twitter.com/search?q=angitu) | N/A |
-| 36 | [Nature](http://twitter.com/search?q=Nature) | N/A |
-| 37 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
-| 38 | [every five minutes](http://twitter.com/search?q=every+five+minutes) | N/A |
-| 39 | [read a new zealand](http://twitter.com/search?q=read+a+new+zealand) | N/A |
-| 40 | [Clint](http://twitter.com/search?q=Clint) | N/A |
-| 41 | [Census](http://twitter.com/search?q=Census) | N/A |
-| 42 | [Wales](http://twitter.com/search?q=Wales) | Wales is a country in the United Kingdom, located on the western side of Great Britain. It is bordered by England to the east, the Irish Sea to the north and west, and the Bristol Channel to the south. Wales has a population of around 3 million people and is officially bilingual, with both English and Welsh being spoken. The capital city is Cardiff. Wales is known for its rugged coastline, mountainous national parks, medieval castles, and vibrant culture. |
-| 43 | [California](http://twitter.com/search?q=California) | N/A |
-| 44 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 45 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
-| 46 | [National Party](http://twitter.com/search?q=National+Party) | N/A |
-| 47 | [Hooton](http://twitter.com/search?q=Hooton) | N/A |
+| 12 | [Damien Grant](http://twitter.com/search?q=Damien+Grant) | N/A |
+| 13 | [#matatini2023](http://twitter.com/search?q=%23matatini2023) | N/A |
+| 14 | [Three Waters](http://twitter.com/search?q=Three+Waters) | N/A |
+| 15 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 16 | [North](http://twitter.com/search?q=North) | N/A |
+| 17 | [#SuperRugbyPacific](http://twitter.com/search?q=%23SuperRugbyPacific) | N/A |
+| 18 | [#REDvHUR](http://twitter.com/search?q=%23REDvHUR) | N/A |
+| 19 | [Blues](http://twitter.com/search?q=Blues) | N/A |
+| 20 | [waihi beach](http://twitter.com/search?q=waihi+beach) | N/A |
+| 21 | [Labours](http://twitter.com/search?q=Labours) | N/A |
+| 22 | [Rates](http://twitter.com/search?q=Rates) | N/A |
+| 23 | [Shane](http://twitter.com/search?q=Shane) | N/A |
+| 24 | [Crusaders](http://twitter.com/search?q=Crusaders) | N/A |
+| 25 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
+| 26 | [Conspiracy](http://twitter.com/search?q=Conspiracy) | N/A |
+| 27 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
+| 28 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
+| 29 | [Greg](http://twitter.com/search?q=Greg) | N/A |
+| 30 | [Nats](http://twitter.com/search?q=Nats) | N/A |
+| 31 | [Y'all](http://twitter.com/search?q=Y%27all) | N/A |
+| 32 | [Jedi](http://twitter.com/search?q=Jedi) | N/A |
+| 33 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
+| 34 | [Tibet](http://twitter.com/search?q=Tibet) | N/A |
+| 35 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 36 | [angitu](http://twitter.com/search?q=angitu) | N/A |
+| 37 | [Nature](http://twitter.com/search?q=Nature) | N/A |
+| 38 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
+| 39 | [every five minutes](http://twitter.com/search?q=every+five+minutes) | N/A |
+| 40 | [read a new zealand](http://twitter.com/search?q=read+a+new+zealand) | N/A |
+| 41 | [Clint](http://twitter.com/search?q=Clint) | N/A |
+| 42 | [Census](http://twitter.com/search?q=Census) | N/A |
+| 43 | [Wales](http://twitter.com/search?q=Wales) | Wales is a country in the United Kingdom, located on the western side of Great Britain. It is bordered by England to the east, the Irish Sea to the north and west, and the Bristol Channel to the south. Wales has a population of around 3 million people and is officially bilingual, with both English and Welsh being spoken. The capital city is Cardiff. Wales is known for its rugged coastline, mountainous national parks, medieval castles, and vibrant culture. |
+| 44 | [California](http://twitter.com/search?q=California) | N/A |
+| 45 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 46 | [Nationals](http://twitter.com/search?q=Nationals) | N/A |
+| 47 | [National Party](http://twitter.com/search?q=National+Party) | N/A |
 | 48 | [Local](http://twitter.com/search?q=Local) | N/A |
-| 49 | [Sande](http://twitter.com/search?q=Sande) | N/A |
-| 50 | [ariana](http://twitter.com/search?q=ariana) | N/A |
+| 49 | [Slash](http://twitter.com/search?q=Slash) | N/A |
+| 50 | [Sande](http://twitter.com/search?q=Sande) | N/A |
 
 
 

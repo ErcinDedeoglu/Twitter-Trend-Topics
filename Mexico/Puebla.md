@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Puebla
 
-📆 Last Updated: `2023-02-26 03:24:48 UTC`
+📆 Last Updated: `2023-02-26 04:15:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Mexico](</Mexico>)
 | ------- | ------------ | ------------ |
 | 1 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
 | 2 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
-| 3 | [Chima](http://twitter.com/search?q=Chima) | N/A |
-| 4 | [Aquino](http://twitter.com/search?q=Aquino) | N/A |
-| 5 | [Tiba](http://twitter.com/search?q=Tiba) | N/A |
+| 3 | [Henry](http://twitter.com/search?q=Henry) | N/A |
+| 4 | [Chima](http://twitter.com/search?q=Chima) | N/A |
+| 5 | [Gignac](http://twitter.com/search?q=Gignac) | Gignac is a French surname. It is derived from the Old French word "gaigner", which means "to cultivate". In English, it can be translated to mean "farmer". |
 | 6 | [Quiñones](http://twitter.com/search?q=Qui%c3%b1ones) | Quiñones is a Spanish surname derived from the Latin word "quinonem," which means "fifth." It is a common surname in Spain, Latin America, and the Philippines. In English, it can be translated to mean "the fifth one." |
-| 7 | [Gignac](http://twitter.com/search?q=Gignac) | Gignac is a French surname. It is derived from the Old French word "gaigner", which means "to cultivate". In English, it can be translated to mean "farmer". |
-| 8 | [Lainez](http://twitter.com/search?q=Lainez) | Lainez is a Spanish surname. It is derived from the Latin name "Laneus", which means "from the lane". In English, it can be translated to mean "from the lane". |
+| 7 | [Aquino](http://twitter.com/search?q=Aquino) | N/A |
+| 8 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
 | 9 | [Pizarro](http://twitter.com/search?q=Pizarro) | N/A |
-| 10 | [Diego Reyes](http://twitter.com/search?q=Diego+Reyes) | N/A |
+| 10 | [Tiba](http://twitter.com/search?q=Tiba) | N/A |
 | 11 | [Mozo](http://twitter.com/search?q=Mozo) | N/A |
-| 12 | [Henry Martin](http://twitter.com/search?q=Henry+Martin) | N/A |
-| 13 | [Córdova](http://twitter.com/search?q=C%c3%b3rdova) | N/A |
-| 14 | [Ronaldo Cisneros](http://twitter.com/search?q=Ronaldo+Cisneros) | N/A |
-| 15 | [Carioca](http://twitter.com/search?q=Carioca) | N/A |
-| 16 | [#ECDQEMSD](http://twitter.com/search?q=%23ECDQEMSD) | N/A |
-| 17 | [Nahuel](http://twitter.com/search?q=Nahuel) | N/A |
-| 18 | [#nishaspace](http://twitter.com/search?q=%23nishaspace) | N/A |
-| 19 | [Gorriaran](http://twitter.com/search?q=Gorriaran) | N/A |
-| 20 | [Aluxe](http://twitter.com/search?q=Aluxe) | N/A |
-| 21 | [Angulo](http://twitter.com/search?q=Angulo) | N/A |
-| 22 | [Paunovic](http://twitter.com/search?q=Paunovic) | N/A |
-| 23 | [Wacho](http://twitter.com/search?q=Wacho) | Wacho is a Spanish slang term that is used to describe someone who is attractive or good-looking. It can also be used to express admiration for someone's physical appearance. In English, it could be translated as "hot" or "sexy". |
-| 24 | [Volcán](http://twitter.com/search?q=Volc%c3%a1n) | N/A |
-| 25 | [Oswaldo Sánchez](http://twitter.com/search?q=Oswaldo+S%c3%a1nchez) | N/A |
-| 26 | [#FueraTuca](http://twitter.com/search?q=%23FueraTuca) | N/A |
-| 27 | [#MostRequestedLive](http://twitter.com/search?q=%23MostRequestedLive) | N/A |
-| 28 | [#MegaFutbol](http://twitter.com/search?q=%23MegaFutbol) | N/A |
-| 29 | [Baca](http://twitter.com/search?q=Baca) | N/A |
-| 30 | [Guido](http://twitter.com/search?q=Guido) | Guido is a slang term used to refer to a certain type of Italian-American man. It is often used in a derogatory way to describe someone who is seen as overly macho, chauvinistic, and/or aggressive. |
-| 31 | [Nico Ibáñez](http://twitter.com/search?q=Nico+Ib%c3%a1%c3%b1ez) | N/A |
-| 32 | [Rebaño](http://twitter.com/search?q=Reba%c3%b1o) | N/A |
-| 33 | [Dedales](http://twitter.com/search?q=Dedales) | N/A |
-| 34 | [TIEMPOS DOS AÑOS](http://twitter.com/search?q=TIEMPOS+DOS+A%c3%91OS) | N/A |
-| 35 | [Uriel Antuna](http://twitter.com/search?q=Uriel+Antuna) | N/A |
-| 36 | [Lotti](http://twitter.com/search?q=Lotti) | N/A |
-| 37 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 38 | [Cobarde](http://twitter.com/search?q=Cobarde) | N/A |
-| 39 | [Rivero](http://twitter.com/search?q=Rivero) | N/A |
-| 40 | [Carneiro](http://twitter.com/search?q=Carneiro) | N/A |
-| 41 | [Rotondi](http://twitter.com/search?q=Rotondi) | N/A |
-| 42 | [TUDN](http://twitter.com/search?q=TUDN) | N/A |
-| 43 | [Bravos](http://twitter.com/search?q=Bravos) | N/A |
-| 44 | [Jerry](http://twitter.com/search?q=Jerry) | N/A |
-| 45 | [Máquina](http://twitter.com/search?q=M%c3%a1quina) | N/A |
-| 46 | [Juárez](http://twitter.com/search?q=Ju%c3%a1rez) | N/A |
-| 47 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 48 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
-| 49 | [Ferretti](http://twitter.com/search?q=Ferretti) | N/A |
-| 50 | [76ers](http://twitter.com/search?q=76ers) | 76ers is the nickname of the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The team was originally founded in 1946 as the Syracuse Nationals and changed its name to the 76ers in 1963. The name "76ers" is a reference to the year 1776, when the Declaration of Independence was signed in Philadelphia. |
+| 12 | [#SabadoBotanero](http://twitter.com/search?q=%23SabadoBotanero) | N/A |
+| 13 | [Lainez](http://twitter.com/search?q=Lainez) | Lainez is a Spanish surname. It is derived from the Latin name "Laneus", which means "from the lane". In English, it can be translated to mean "from the lane". |
+| 14 | [#ECDQEMSD](http://twitter.com/search?q=%23ECDQEMSD) | N/A |
+| 15 | [Córdova](http://twitter.com/search?q=C%c3%b3rdova) | N/A |
+| 16 | [Abella](http://twitter.com/search?q=Abella) | N/A |
+| 17 | [#SabadoFutbolero](http://twitter.com/search?q=%23SabadoFutbolero) | N/A |
+| 18 | [Cabecita](http://twitter.com/search?q=Cabecita) | N/A |
+| 19 | [Diego Reyes](http://twitter.com/search?q=Diego+Reyes) | N/A |
+| 20 | [Carioca](http://twitter.com/search?q=Carioca) | N/A |
+| 21 | [Pauno](http://twitter.com/search?q=Pauno) | Pauno is a Finnish word meaning "to be brave". It is often used as an encouragement to someone to take on a challenge or difficult task. |
+| 22 | [Ronaldo Cisneros](http://twitter.com/search?q=Ronaldo+Cisneros) | N/A |
+| 23 | [#nishaspace](http://twitter.com/search?q=%23nishaspace) | N/A |
+| 24 | [Layun](http://twitter.com/search?q=Layun) | N/A |
+| 25 | [Nahuel](http://twitter.com/search?q=Nahuel) | N/A |
+| 26 | [Wacho](http://twitter.com/search?q=Wacho) | Wacho is a Spanish slang term that is used to describe someone who is attractive or good-looking. It can also be used to express admiration for someone's physical appearance. In English, it could be translated as "hot" or "sexy". |
+| 27 | [Gorriaran](http://twitter.com/search?q=Gorriaran) | N/A |
+| 28 | [Angulo](http://twitter.com/search?q=Angulo) | N/A |
+| 29 | [Aluxe](http://twitter.com/search?q=Aluxe) | N/A |
+| 30 | [Volcán](http://twitter.com/search?q=Volc%c3%a1n) | N/A |
+| 31 | [Club Deportivo Guadalajara](http://twitter.com/search?q=Club+Deportivo+Guadalajara) | N/A |
+| 32 | [Guido](http://twitter.com/search?q=Guido) | Guido is a slang term used to refer to a certain type of Italian-American man. It is often used in a derogatory way to describe someone who is seen as overly macho, chauvinistic, and/or aggressive. |
+| 33 | [#EllasEnTUDN](http://twitter.com/search?q=%23EllasEnTUDN) | N/A |
+| 34 | [Oswaldo Sánchez](http://twitter.com/search?q=Oswaldo+S%c3%a1nchez) | N/A |
+| 35 | [Oso González](http://twitter.com/search?q=Oso+Gonz%c3%a1lez) | N/A |
+| 36 | [Garza](http://twitter.com/search?q=Garza) | N/A |
+| 37 | [Nico Ibáñez](http://twitter.com/search?q=Nico+Ib%c3%a1%c3%b1ez) | N/A |
+| 38 | [Jiménez](http://twitter.com/search?q=Jim%c3%a9nez) | N/A |
+| 39 | [Rebaño](http://twitter.com/search?q=Reba%c3%b1o) | N/A |
+| 40 | [Dedales](http://twitter.com/search?q=Dedales) | N/A |
+| 41 | [Cobarde](http://twitter.com/search?q=Cobarde) | N/A |
+| 42 | [TIEMPOS DOS AÑOS](http://twitter.com/search?q=TIEMPOS+DOS+A%c3%91OS) | N/A |
+| 43 | [Baca](http://twitter.com/search?q=Baca) | N/A |
+| 44 | [Uriel Antuna](http://twitter.com/search?q=Uriel+Antuna) | N/A |
+| 45 | [Universitario](http://twitter.com/search?q=Universitario) | N/A |
+| 46 | [Rivero](http://twitter.com/search?q=Rivero) | N/A |
+| 47 | [Lotti](http://twitter.com/search?q=Lotti) | N/A |
+| 48 | [Estadio Jalisco](http://twitter.com/search?q=Estadio+Jalisco) | N/A |
+| 49 | [Carneiro](http://twitter.com/search?q=Carneiro) | N/A |
+| 50 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
 
 
 

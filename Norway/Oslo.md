@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oslo
 
-📆 Last Updated: `2023-02-26 03:25:02 UTC`
+📆 Last Updated: `2023-02-26 04:16:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -35,28 +35,28 @@ This is top 50 for [Norway](</Norway>)
 | 18 | [Ukraina](http://twitter.com/search?q=Ukraina) | N/A |
 | 19 | [storhamar](http://twitter.com/search?q=storhamar) | N/A |
 | 20 | [#esnsykkel](http://twitter.com/search?q=%23esnsykkel) | N/A |
-| 21 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 22 | [fosen](http://twitter.com/search?q=fosen) | N/A |
-| 23 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 24 | [kinas](http://twitter.com/search?q=kinas) | N/A |
-| 25 | [herlig](http://twitter.com/search?q=herlig) | N/A |
-| 26 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 27 | [tv2 play](http://twitter.com/search?q=tv2+play) | N/A |
-| 28 | [Sony](http://twitter.com/search?q=Sony) | N/A |
-| 29 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
-| 30 | [Darwin](http://twitter.com/search?q=Darwin) | Darwin is the name of a city in Australia, located in the Northern Territory. It is named after Charles Darwin, the British naturalist who developed the theory of evolution. The name Darwin is derived from the Old English words 'deor' (animal) and 'wine' (friend). |
-| 31 | [Hersh](http://twitter.com/search?q=Hersh) | N/A |
-| 32 | [Sophie Elise](http://twitter.com/search?q=Sophie+Elise) | N/A |
-| 33 | [Russlands](http://twitter.com/search?q=Russlands) | N/A |
-| 34 | [mRNA](http://twitter.com/search?q=mRNA) | N/A |
-| 35 | [sogndal](http://twitter.com/search?q=sogndal) | N/A |
-| 36 | [fredrikstad](http://twitter.com/search?q=fredrikstad) | N/A |
-| 37 | [vårt land](http://twitter.com/search?q=v%c3%a5rt+land) | N/A |
-| 38 | [Libya](http://twitter.com/search?q=Libya) | N/A |
-| 39 | [Olje](http://twitter.com/search?q=Olje) | N/A |
-| 40 | [åsane](http://twitter.com/search?q=%c3%a5sane) | N/A |
-| 41 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
-| 42 | [rosenborg](http://twitter.com/search?q=rosenborg) | N/A |
+| 21 | [fosen](http://twitter.com/search?q=fosen) | N/A |
+| 22 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 23 | [kinas](http://twitter.com/search?q=kinas) | N/A |
+| 24 | [herlig](http://twitter.com/search?q=herlig) | N/A |
+| 25 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 26 | [tv2 play](http://twitter.com/search?q=tv2+play) | N/A |
+| 27 | [Sony](http://twitter.com/search?q=Sony) | N/A |
+| 28 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 29 | [Darwin](http://twitter.com/search?q=Darwin) | Darwin is the name of a city in Australia, located in the Northern Territory. It is named after Charles Darwin, the British naturalist who developed the theory of evolution. The name Darwin is derived from the Old English words 'deor' (animal) and 'wine' (friend). |
+| 30 | [Hersh](http://twitter.com/search?q=Hersh) | N/A |
+| 31 | [sophie elise](http://twitter.com/search?q=sophie+elise) | N/A |
+| 32 | [Russlands](http://twitter.com/search?q=Russlands) | N/A |
+| 33 | [mRNA](http://twitter.com/search?q=mRNA) | N/A |
+| 34 | [sogndal](http://twitter.com/search?q=sogndal) | N/A |
+| 35 | [fredrikstad](http://twitter.com/search?q=fredrikstad) | N/A |
+| 36 | [vårt land](http://twitter.com/search?q=v%c3%a5rt+land) | N/A |
+| 37 | [Libya](http://twitter.com/search?q=Libya) | N/A |
+| 38 | [olje](http://twitter.com/search?q=olje) | N/A |
+| 39 | [åsane](http://twitter.com/search?q=%c3%a5sane) | N/A |
+| 40 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
+| 41 | [rosenborg](http://twitter.com/search?q=rosenborg) | N/A |
+| 42 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 43 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
 | 44 | [faen](http://twitter.com/search?q=faen) | N/A |
 | 45 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |

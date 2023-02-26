@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rosario
 
-📆 Last Updated: `2023-02-26 03:24:53 UTC`
+📆 Last Updated: `2023-02-26 04:16:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,8 +18,8 @@ This is top 50 for [Argentina](</Argentina>)
 | 1 | [Figal](http://twitter.com/search?q=Figal) | N/A |
 | 2 | [Velez](http://twitter.com/search?q=Velez) | N/A |
 | 3 | [Medina](http://twitter.com/search?q=Medina) | N/A |
-| 4 | [Villa](http://twitter.com/search?q=Villa) | Villa is a type of large, luxurious house or estate. It is usually located in a rural or semi-rural area and is often surrounded by gardens and grounds. The term comes from the Latin word villa, which means "country house." |
-| 5 | [Ibarra](http://twitter.com/search?q=Ibarra) | Ibarra is a Spanish surname derived from the Basque name Ibar. It is also the name of several towns in Spain, as well as a city in Mexico. In English, it means "from the banks of the river Ibar". |
+| 4 | [Ibarra](http://twitter.com/search?q=Ibarra) | Ibarra is a Spanish surname derived from the Basque name Ibar. It is also the name of several towns in Spain, as well as a city in Mexico. In English, it means "from the banks of the river Ibar". |
+| 5 | [Villa](http://twitter.com/search?q=Villa) | Villa is a type of large, luxurious house or estate. It is usually located in a rural or semi-rural area and is often surrounded by gardens and grounds. The term comes from the Latin word villa, which means "country house." |
 | 6 | [Equi](http://twitter.com/search?q=Equi) | Equi is a Latin word meaning "equal" or "equally". It is often used in legal and financial contexts to refer to a situation where two parties have equal rights or obligations. |
 | 7 | [Fabra](http://twitter.com/search?q=Fabra) | N/A |
 | 8 | [Varela](http://twitter.com/search?q=Varela) | Varela is a Spanish surname derived from the Latin word "varellus," which means "young calf." It is also the name of a small town in Galicia, Spain. In English, it can be translated to mean "young calf." |
@@ -30,41 +30,41 @@ This is top 50 for [Argentina](</Argentina>)
 | 13 | [Ramirez](http://twitter.com/search?q=Ramirez) | Ramirez is a Spanish surname. It is derived from the Germanic personal name Raimer, which means "wise counselor". In English, it can be translated to mean "wise ruler". |
 | 14 | [Pratto](http://twitter.com/search?q=Pratto) | N/A |
 | 15 | [Ganó Boca](http://twitter.com/search?q=Gan%c3%b3+Boca) | N/A |
-| 16 | [Payero](http://twitter.com/search?q=Payero) | N/A |
-| 17 | [Mesopotamia](http://twitter.com/search?q=Mesopotamia) | N/A |
-| 18 | [Liniers](http://twitter.com/search?q=Liniers) | N/A |
-| 19 | [Janson](http://twitter.com/search?q=Janson) | N/A |
-| 20 | [Balbo](http://twitter.com/search?q=Balbo) | N/A |
-| 21 | [Aguante Boca](http://twitter.com/search?q=Aguante+Boca) | N/A |
-| 22 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
-| 23 | [#SDTV](http://twitter.com/search?q=%23SDTV) | N/A |
-| 24 | [Florentin](http://twitter.com/search?q=Florentin) | N/A |
-| 25 | [Falcón Pérez](http://twitter.com/search?q=Falc%c3%b3n+P%c3%a9rez) | N/A |
-| 26 | [Castro](http://twitter.com/search?q=Castro) | N/A |
-| 27 | [CABJ](http://twitter.com/search?q=CABJ) | N/A |
-| 28 | [Vignolo](http://twitter.com/search?q=Vignolo) | N/A |
-| 29 | [Talleres](http://twitter.com/search?q=Talleres) | N/A |
-| 30 | [HOY JUEGA RIVER](http://twitter.com/search?q=HOY+JUEGA+RIVER) | N/A |
-| 31 | [Velesh](http://twitter.com/search?q=Velesh) | N/A |
-| 32 | [Latorre](http://twitter.com/search?q=Latorre) | N/A |
-| 33 | [Con 10](http://twitter.com/search?q=Con+10) | N/A |
-| 34 | [SIEMPRE BOCA](http://twitter.com/search?q=SIEMPRE+BOCA) | N/A |
-| 35 | [Zuqui](http://twitter.com/search?q=Zuqui) | N/A |
-| 36 | [Carrillo](http://twitter.com/search?q=Carrillo) | Carrillo is a Spanish surname. It is derived from the Latin name Carillus, which means "little Charles". In English, it can be translated to mean "Little Charles". |
-| 37 | [Jara](http://twitter.com/search?q=Jara) | N/A |
-| 38 | [Deian](http://twitter.com/search?q=Deian) | N/A |
-| 39 | [Xeneize](http://twitter.com/search?q=Xeneize) | N/A |
-| 40 | [Langosta](http://twitter.com/search?q=Langosta) | N/A |
-| 41 | [Boquita](http://twitter.com/search?q=Boquita) | N/A |
-| 42 | [#BocaJuniors](http://twitter.com/search?q=%23BocaJuniors) | N/A |
+| 16 | [Gareca](http://twitter.com/search?q=Gareca) | N/A |
+| 17 | [Payero](http://twitter.com/search?q=Payero) | N/A |
+| 18 | [Mesopotamia](http://twitter.com/search?q=Mesopotamia) | N/A |
+| 19 | [Liniers](http://twitter.com/search?q=Liniers) | N/A |
+| 20 | [Bassedas](http://twitter.com/search?q=Bassedas) | N/A |
+| 21 | [Palmetta](http://twitter.com/search?q=Palmetta) | N/A |
+| 22 | [Janson](http://twitter.com/search?q=Janson) | N/A |
+| 23 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
+| 24 | [Balbo](http://twitter.com/search?q=Balbo) | N/A |
+| 25 | [Aguante Boca](http://twitter.com/search?q=Aguante+Boca) | N/A |
+| 26 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
+| 27 | [Florentin](http://twitter.com/search?q=Florentin) | N/A |
+| 28 | [HOY JUEGA RIVER](http://twitter.com/search?q=HOY+JUEGA+RIVER) | N/A |
+| 29 | [CABJ](http://twitter.com/search?q=CABJ) | N/A |
+| 30 | [#SDTV](http://twitter.com/search?q=%23SDTV) | N/A |
+| 31 | [Falcón Pérez](http://twitter.com/search?q=Falc%c3%b3n+P%c3%a9rez) | N/A |
+| 32 | [Castro](http://twitter.com/search?q=Castro) | N/A |
+| 33 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
+| 34 | [Vignolo](http://twitter.com/search?q=Vignolo) | N/A |
+| 35 | [Talleres](http://twitter.com/search?q=Talleres) | N/A |
+| 36 | [Velesh](http://twitter.com/search?q=Velesh) | N/A |
+| 37 | [#ESPNKnockOut](http://twitter.com/search?q=%23ESPNKnockOut) | N/A |
+| 38 | [Troyansky](http://twitter.com/search?q=Troyansky) | N/A |
+| 39 | [Arjona](http://twitter.com/search?q=Arjona) | N/A |
+| 40 | [Jara](http://twitter.com/search?q=Jara) | N/A |
+| 41 | [Con 10](http://twitter.com/search?q=Con+10) | N/A |
+| 42 | [SIEMPRE BOCA](http://twitter.com/search?q=SIEMPRE+BOCA) | N/A |
 | 43 | [Dedales](http://twitter.com/search?q=Dedales) | N/A |
-| 44 | [Gol de Boca](http://twitter.com/search?q=Gol+de+Boca) | N/A |
-| 45 | [Pizzini](http://twitter.com/search?q=Pizzini) | N/A |
-| 46 | [Amalfitani](http://twitter.com/search?q=Amalfitani) | N/A |
-| 47 | [La Bestia](http://twitter.com/search?q=La+Bestia) | N/A |
-| 48 | [#ECDQEMSD](http://twitter.com/search?q=%23ECDQEMSD) | N/A |
-| 49 | [Dale Boca](http://twitter.com/search?q=Dale+Boca) | N/A |
-| 50 | [#EDLP](http://twitter.com/search?q=%23EDLP) | N/A |
+| 44 | [Deian](http://twitter.com/search?q=Deian) | N/A |
+| 45 | [Latorre](http://twitter.com/search?q=Latorre) | N/A |
+| 46 | [Xeneize](http://twitter.com/search?q=Xeneize) | N/A |
+| 47 | [Amalfitani](http://twitter.com/search?q=Amalfitani) | N/A |
+| 48 | [Vamos Boquita](http://twitter.com/search?q=Vamos+Boquita) | N/A |
+| 49 | [#BocaJuniors](http://twitter.com/search?q=%23BocaJuniors) | N/A |
+| 50 | [#ECDQEMSD](http://twitter.com/search?q=%23ECDQEMSD) | N/A |
 
 
 

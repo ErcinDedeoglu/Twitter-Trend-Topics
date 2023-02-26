@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-02-26 03:25:01 UTC`
+📆 Last Updated: `2023-02-26 04:16:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,9 +24,9 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 7 | [Habeck](http://twitter.com/search?q=Habeck) | N/A |
 | 8 | [Seite der Geschichte](http://twitter.com/search?q=Seite+der+Geschichte) | N/A |
 | 9 | [Garcia](http://twitter.com/search?q=Garcia) | Garcia is a Spanish surname. It is derived from the Basque word "gar" meaning "bear". The name is often associated with strength and courage. In English, Garcia means "brave and strong". |
-| 10 | [montana](http://twitter.com/search?q=montana) | N/A |
+| 10 | [Montana](http://twitter.com/search?q=Montana) | Montana is a state in the northwestern United States. It is known for its rugged terrain and wide open spaces. The name Montana comes from the Spanish word montaña, which means "mountain". |
 | 11 | [Stuss](http://twitter.com/search?q=Stuss) | N/A |
-| 12 | [Kündigung](http://twitter.com/search?q=K%c3%bcndigung) | N/A |
+| 12 | [kündigung](http://twitter.com/search?q=k%c3%bcndigung) | N/A |
 | 13 | [Solidarität](http://twitter.com/search?q=Solidarit%c3%a4t) | N/A |
 | 14 | [Gemeinde](http://twitter.com/search?q=Gemeinde) | N/A |
 | 15 | [Ukrainiens](http://twitter.com/search?q=Ukrainiens) | N/A |

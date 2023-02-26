@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Amman
 
-📆 Last Updated: `2023-02-26 03:25:14 UTC`
+📆 Last Updated: `2023-02-26 04:16:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,33 +19,33 @@ This is top 50 for [Jordan](</Jordan>)
 | 2 | [ابو شقره](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%b4%d9%82%d8%b1%d9%87) | N/A |
 | 3 | [#قمه_العار](http://twitter.com/search?q=%23%d9%82%d9%85%d9%87_%d8%a7%d9%84%d8%b9%d8%a7%d8%b1) | N/A |
 | 4 | [اسينسيو](http://twitter.com/search?q=%d8%a7%d8%b3%d9%8a%d9%86%d8%b3%d9%8a%d9%88) | اسينسيو is a transliteration of the Greek word "συνέσεις" which means "understanding" or "insight" in English. |
-| 5 | [#البزنس81](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b2%d9%86%d8%b381) | N/A |
-| 6 | [الزمالك](http://twitter.com/search?q=%d8%a7%d9%84%d8%b2%d9%85%d8%a7%d9%84%d9%83) | الزمالك is a professional football club based in Cairo, Egypt. The club was founded in 1948 and is one of the most successful clubs in the Egyptian Premier League. The name الزمالك translates to "The Champions" in English. |
-| 7 | [الفصل الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b5%d9%84+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
-| 8 | [#النصر_ضمك](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%86%d8%b5%d8%b1_%d8%b6%d9%85%d9%83) | N/A |
-| 9 | [#HappyBirthdayNajwaKaram](http://twitter.com/search?q=%23HappyBirthdayNajwaKaram) | N/A |
-| 10 | [اتلتيكو](http://twitter.com/search?q=%d8%a7%d8%aa%d9%84%d8%aa%d9%8a%d9%83%d9%88) | N/A |
-| 11 | [#جمعه_مباركه](http://twitter.com/search?q=%23%d8%ac%d9%85%d8%b9%d9%87_%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | #جمعه_مباركه is an Arabic hashtag that translates to "blessed Friday". It is used to express joy and appreciation for the start of the weekend. |
-| 12 | [كوريا](http://twitter.com/search?q=%d9%83%d9%88%d8%b1%d9%8a%d8%a7) | N/A |
-| 13 | [الطاقه الشمسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d8%a7%d9%82%d9%87+%d8%a7%d9%84%d8%b4%d9%85%d8%b3%d9%8a%d9%87) | N/A |
-| 14 | [سعد المجرد](http://twitter.com/search?q=%d8%b3%d8%b9%d8%af+%d8%a7%d9%84%d9%85%d8%ac%d8%b1%d8%af) | N/A |
-| 15 | [اليوم السبت](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b3%d8%a8%d8%aa) | N/A |
-| 16 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 17 | [سيميوني](http://twitter.com/search?q=%d8%b3%d9%8a%d9%85%d9%8a%d9%88%d9%86%d9%8a) | سيميوني (Simonee) is an Arabic name meaning "listener". It is also a variant of the name Simone, which is derived from the Hebrew name Shimon, meaning "he who hears". |
-| 18 | [رونالدو](http://twitter.com/search?q=%d8%b1%d9%88%d9%86%d8%a7%d9%84%d8%af%d9%88) | رونالدو is the Portuguese spelling of the name Ronaldo, which is a popular given name in many countries. In English, it means "counselor of the ruler". |
-| 19 | [الجيش الاردني](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%8a%d8%b4+%d8%a7%d9%84%d8%a7%d8%b1%d8%af%d9%86%d9%8a) | N/A |
-| 20 | [ليستر](http://twitter.com/search?q=%d9%84%d9%8a%d8%b3%d8%aa%d8%b1) | N/A |
-| 21 | [شادي زيدان](http://twitter.com/search?q=%d8%b4%d8%a7%d8%af%d9%8a+%d8%b2%d9%8a%d8%af%d8%a7%d9%86) | N/A |
-| 22 | [إربد](http://twitter.com/search?q=%d8%a5%d8%b1%d8%a8%d8%af) | N/A |
-| 23 | [المنتخب الوطني](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%aa%d8%ae%d8%a8+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
-| 24 | [الدوري السعودي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
-| 25 | [رييس مجلس النواب](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d9%86%d9%88%d8%a7%d8%a8) | N/A |
-| 26 | [الدون](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d9%86) | الدون is an Arabic word that means "donation" or "contribution". It is used to refer to a voluntary gift of money or goods given to a charity, religious organization, or other cause. |
-| 27 | [ابراهيم](http://twitter.com/search?q=%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85) | N/A |
+| 5 | [طرفه عين](http://twitter.com/search?q=%d8%b7%d8%b1%d9%81%d9%87+%d8%b9%d9%8a%d9%86) | N/A |
+| 6 | [#البزنس81](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b2%d9%86%d8%b381) | N/A |
+| 7 | [الزمالك](http://twitter.com/search?q=%d8%a7%d9%84%d8%b2%d9%85%d8%a7%d9%84%d9%83) | الزمالك is a professional football club based in Cairo, Egypt. The club was founded in 1948 and is one of the most successful clubs in the Egyptian Premier League. The name الزمالك translates to "The Champions" in English. |
+| 8 | [الفصل الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b5%d9%84+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
+| 9 | [#النصر_ضمك](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%86%d8%b5%d8%b1_%d8%b6%d9%85%d9%83) | N/A |
+| 10 | [#HappyBirthdayNajwaKaram](http://twitter.com/search?q=%23HappyBirthdayNajwaKaram) | N/A |
+| 11 | [اتلتيكو](http://twitter.com/search?q=%d8%a7%d8%aa%d9%84%d8%aa%d9%8a%d9%83%d9%88) | N/A |
+| 12 | [#جمعه_مباركه](http://twitter.com/search?q=%23%d8%ac%d9%85%d8%b9%d9%87_%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | #جمعه_مباركه is an Arabic hashtag that translates to "blessed Friday". It is used to express joy and appreciation for the start of the weekend. |
+| 13 | [كوريا](http://twitter.com/search?q=%d9%83%d9%88%d8%b1%d9%8a%d8%a7) | N/A |
+| 14 | [الطاقه الشمسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d8%a7%d9%82%d9%87+%d8%a7%d9%84%d8%b4%d9%85%d8%b3%d9%8a%d9%87) | N/A |
+| 15 | [سعد المجرد](http://twitter.com/search?q=%d8%b3%d8%b9%d8%af+%d8%a7%d9%84%d9%85%d8%ac%d8%b1%d8%af) | N/A |
+| 16 | [اليوم السبت](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b3%d8%a8%d8%aa) | N/A |
+| 17 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 18 | [سيميوني](http://twitter.com/search?q=%d8%b3%d9%8a%d9%85%d9%8a%d9%88%d9%86%d9%8a) | سيميوني (Simonee) is an Arabic name meaning "listener". It is also a variant of the name Simone, which is derived from the Hebrew name Shimon, meaning "he who hears". |
+| 19 | [رونالدو](http://twitter.com/search?q=%d8%b1%d9%88%d9%86%d8%a7%d9%84%d8%af%d9%88) | رونالدو is the Portuguese spelling of the name Ronaldo, which is a popular given name in many countries. In English, it means "counselor of the ruler". |
+| 20 | [الجيش الاردني](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%8a%d8%b4+%d8%a7%d9%84%d8%a7%d8%b1%d8%af%d9%86%d9%8a) | N/A |
+| 21 | [ليستر](http://twitter.com/search?q=%d9%84%d9%8a%d8%b3%d8%aa%d8%b1) | N/A |
+| 22 | [شادي زيدان](http://twitter.com/search?q=%d8%b4%d8%a7%d8%af%d9%8a+%d8%b2%d9%8a%d8%af%d8%a7%d9%86) | N/A |
+| 23 | [إربد](http://twitter.com/search?q=%d8%a5%d8%b1%d8%a8%d8%af) | N/A |
+| 24 | [المنتخب الوطني](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%aa%d8%ae%d8%a8+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
+| 25 | [الدوري السعودي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
+| 26 | [رييس مجلس النواب](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d9%86%d9%88%d8%a7%d8%a8) | N/A |
+| 27 | [الدون](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d9%86) | الدون is an Arabic word that means "donation" or "contribution". It is used to refer to a voluntary gift of money or goods given to a charity, religious organization, or other cause. |
 | 28 | [برشلونة](http://twitter.com/search?q=%d8%a8%d8%b1%d8%b4%d9%84%d9%88%d9%86%d8%a9) | برشلونة (Barcelona) is a Spanish professional football club based in Barcelona, Catalonia, Spain. It is one of the most successful clubs in Spanish football and is one of the most widely supported teams in the world. In English, it means "Barcelona". |
-| 29 | [روح نام](http://twitter.com/search?q=%d8%b1%d9%88%d8%ad+%d9%86%d8%a7%d9%85) | N/A |
-| 30 | [سعد السعود](http://twitter.com/search?q=%d8%b3%d8%b9%d8%af+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af) | N/A |
-| 31 | [حمزة](http://twitter.com/search?q=%d8%ad%d9%85%d8%b2%d8%a9) | N/A |
+| 29 | [سعد السعود](http://twitter.com/search?q=%d8%b3%d8%b9%d8%af+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af) | N/A |
+| 30 | [حمزة](http://twitter.com/search?q=%d8%ad%d9%85%d8%b2%d8%a9) | N/A |
+| 31 | [أمريكا](http://twitter.com/search?q=%d8%a3%d9%85%d8%b1%d9%8a%d9%83%d8%a7) | N/A |
 | 32 | [المسجد الأقصى](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d8%ac%d8%af+%d8%a7%d9%84%d8%a3%d9%82%d8%b5%d9%89) | N/A |
 | 33 | [العراق](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b1%d8%a7%d9%82) | العراق is the Arabic word for Iraq. In English, it means "Iraq". |
 | 34 | [العيد الوطني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%8a%d8%af+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
@@ -54,17 +54,17 @@ This is top 50 for [Jordan](</Jordan>)
 | 37 | [جي بي سي نيوز](http://twitter.com/search?q=%d8%ac%d9%8a+%d8%a8%d9%8a+%d8%b3%d9%8a+%d9%86%d9%8a%d9%88%d8%b2) | N/A |
 | 38 | [روسيا](http://twitter.com/search?q=%d8%b1%d9%88%d8%b3%d9%8a%d8%a7) | N/A |
 | 39 | [وزير السياحه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%ad%d9%87) | N/A |
-| 40 | [الفصل الجديد](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b5%d9%84+%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af) | N/A |
-| 41 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 42 | [النظام السوري](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%b8%d8%a7%d9%85+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
-| 43 | [الايام القادمه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%8a%d8%a7%d9%85+%d8%a7%d9%84%d9%82%d8%a7%d8%af%d9%85%d9%87) | N/A |
-| 44 | [المره الثالثه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab%d9%87) | N/A |
-| 45 | [انشيلوتي](http://twitter.com/search?q=%d8%a7%d9%86%d8%b4%d9%8a%d9%84%d9%88%d8%aa%d9%8a) | انشيلوتي (Anshiloti) is a type of traditional Arabic music and dance. It is characterized by its fast tempo and intricate rhythms. The word "Anshiloti" comes from the Arabic root word "anshil" which means to move quickly. In English, it can be translated as "quick dance". |
-| 46 | [الشوط الاول](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | الشوط الاول is an Arabic phrase that translates to "the first round" or "the first stage". It is often used to refer to the beginning of a process or competition. |
-| 47 | [تشافي](http://twitter.com/search?q=%d8%aa%d8%b4%d8%a7%d9%81%d9%8a) | تشافي is an Arabic word that means "enjoyment" or "pleasure". In English, it can be translated as "having a good time" or "having fun". |
-| 48 | [الفصل الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b5%d9%84+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
-| 49 | [علي الخاص](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ae%d8%a7%d8%b5) | N/A |
-| 50 | [تين هاغ](http://twitter.com/search?q=%d8%aa%d9%8a%d9%86+%d9%87%d8%a7%d8%ba) | N/A |
+| 40 | [ابراهيم](http://twitter.com/search?q=%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85) | N/A |
+| 41 | [الفصل الجديد](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b5%d9%84+%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af) | N/A |
+| 42 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 43 | [النظام السوري](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%b8%d8%a7%d9%85+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
+| 44 | [الايام القادمه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%8a%d8%a7%d9%85+%d8%a7%d9%84%d9%82%d8%a7%d8%af%d9%85%d9%87) | N/A |
+| 45 | [المره الثالثه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab%d9%87) | N/A |
+| 46 | [انشيلوتي](http://twitter.com/search?q=%d8%a7%d9%86%d8%b4%d9%8a%d9%84%d9%88%d8%aa%d9%8a) | انشيلوتي (Anshiloti) is a type of traditional Arabic music and dance. It is characterized by its fast tempo and intricate rhythms. The word "Anshiloti" comes from the Arabic root word "anshil" which means to move quickly. In English, it can be translated as "quick dance". |
+| 47 | [الشوط الاول](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | الشوط الاول is an Arabic phrase that translates to "the first round" or "the first stage". It is often used to refer to the beginning of a process or competition. |
+| 48 | [تشافي](http://twitter.com/search?q=%d8%aa%d8%b4%d8%a7%d9%81%d9%8a) | تشافي is an Arabic word that means "enjoyment" or "pleasure". In English, it can be translated as "having a good time" or "having fun". |
+| 49 | [بدي حدا](http://twitter.com/search?q=%d8%a8%d8%af%d9%8a+%d8%ad%d8%af%d8%a7) | N/A |
+| 50 | [الفصل الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b5%d9%84+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
 
 
 
