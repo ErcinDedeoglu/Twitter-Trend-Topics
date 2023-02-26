@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rome
 
-📆 Last Updated: `2023-02-25 23:16:04 UTC`
+📆 Last Updated: `2023-02-26 00:29:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Italy](</Italy>)
 | 1 | [#UnaVocePerSanMarino](http://twitter.com/search?q=%23UnaVocePerSanMarino) | N/A |
 | 2 | [#taleequalesanremo](http://twitter.com/search?q=%23taleequalesanremo) | N/A |
 | 3 | [#EmpoliNapoli](http://twitter.com/search?q=%23EmpoliNapoli) | N/A |
-| 4 | [#MaurizioCostanzo](http://twitter.com/search?q=%23MaurizioCostanzo) | N/A |
-| 5 | [#HappyBdayLuigi](http://twitter.com/search?q=%23HappyBdayLuigi) | N/A |
-| 6 | [Mario Rui](http://twitter.com/search?q=Mario+Rui) | N/A |
-| 7 | [Albano](http://twitter.com/search?q=Albano) | N/A |
-| 8 | [PierGigi](http://twitter.com/search?q=PierGigi) | N/A |
-| 9 | [Jonathan](http://twitter.com/search?q=Jonathan) | N/A |
-| 10 | [Zucchero](http://twitter.com/search?q=Zucchero) | N/A |
-| 11 | [Diodato](http://twitter.com/search?q=Diodato) | N/A |
-| 12 | [Paolo Meneguzzi](http://twitter.com/search?q=Paolo+Meneguzzi) | N/A |
-| 13 | [Lorenzo Licitra](http://twitter.com/search?q=Lorenzo+Licitra) | N/A |
-| 14 | [Paolantoni](http://twitter.com/search?q=Paolantoni) | N/A |
-| 15 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 16 | [Murgia](http://twitter.com/search?q=Murgia) | Murgia is a geographical region in southern Italy, located in the provinces of Bari and Taranto. It is characterized by its limestone hills, deep ravines, and caves. The name Murgia comes from the Latin word murex, meaning "rocky hill". In English, Murgia can be translated as "rocky land". |
-| 17 | [Valerio Scanu](http://twitter.com/search?q=Valerio+Scanu) | N/A |
-| 18 | [Bianca Guaccero](http://twitter.com/search?q=Bianca+Guaccero) | N/A |
-| 19 | [Eiffel 65](http://twitter.com/search?q=Eiffel+65) | N/A |
-| 20 | [Cirilli](http://twitter.com/search?q=Cirilli) | N/A |
-| 21 | [Celentano](http://twitter.com/search?q=Celentano) | N/A |
-| 22 | [Senhit](http://twitter.com/search?q=Senhit) | N/A |
-| 23 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 24 | [Grattugia](http://twitter.com/search?q=Grattugia) | N/A |
-| 25 | [Patty Pravo](http://twitter.com/search?q=Patty+Pravo) | N/A |
-| 26 | [Ivan Capelli](http://twitter.com/search?q=Ivan+Capelli) | N/A |
-| 27 | [Travaglio](http://twitter.com/search?q=Travaglio) | N/A |
-| 28 | [Costituzione](http://twitter.com/search?q=Costituzione) | N/A |
-| 29 | [Monica Vitti](http://twitter.com/search?q=Monica+Vitti) | N/A |
-| 30 | [Deborah Iurato](http://twitter.com/search?q=Deborah+Iurato) | N/A |
-| 31 | [Agnelli](http://twitter.com/search?q=Agnelli) | N/A |
-| 32 | [Le Deva](http://twitter.com/search?q=Le+Deva) | N/A |
-| 33 | [Davide](http://twitter.com/search?q=Davide) | N/A |
-| 34 | [Luca Laurenti](http://twitter.com/search?q=Luca+Laurenti) | N/A |
-| 35 | [Nevruz](http://twitter.com/search?q=Nevruz) | N/A |
-| 36 | [Malgioglio](http://twitter.com/search?q=Malgioglio) | N/A |
-| 37 | [Notte](http://twitter.com/search?q=Notte) | N/A |
-| 38 | [Loretta](http://twitter.com/search?q=Loretta) | N/A |
-| 39 | [Roy Paci](http://twitter.com/search?q=Roy+Paci) | N/A |
-| 40 | [Heineken](http://twitter.com/search?q=Heineken) | N/A |
-| 41 | [Ucraina](http://twitter.com/search?q=Ucraina) | N/A |
-| 42 | [Frankenstein](http://twitter.com/search?q=Frankenstein) | N/A |
-| 43 | [Gassman](http://twitter.com/search?q=Gassman) | N/A |
-| 44 | [Corrado](http://twitter.com/search?q=Corrado) | N/A |
-| 45 | [Sordi](http://twitter.com/search?q=Sordi) | N/A |
-| 46 | [Maneskin](http://twitter.com/search?q=Maneskin) | N/A |
-| 47 | [Achille Lauro](http://twitter.com/search?q=Achille+Lauro) | N/A |
-| 48 | [Rosy Bindi](http://twitter.com/search?q=Rosy+Bindi) | N/A |
-| 49 | [Mogol](http://twitter.com/search?q=Mogol) | N/A |
-| 50 | [Preside](http://twitter.com/search?q=Preside) | N/A |
+| 4 | [#HappyBdayLuigi](http://twitter.com/search?q=%23HappyBdayLuigi) | N/A |
+| 5 | [#MaurizioCostanzo](http://twitter.com/search?q=%23MaurizioCostanzo) | N/A |
+| 6 | [Albano](http://twitter.com/search?q=Albano) | N/A |
+| 7 | [Le Deva](http://twitter.com/search?q=Le+Deva) | N/A |
+| 8 | [Mario Rui](http://twitter.com/search?q=Mario+Rui) | N/A |
+| 9 | [Davide](http://twitter.com/search?q=Davide) | N/A |
+| 10 | [Jonathan](http://twitter.com/search?q=Jonathan) | N/A |
+| 11 | [Licitra](http://twitter.com/search?q=Licitra) | N/A |
+| 12 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 13 | [Murgia](http://twitter.com/search?q=Murgia) | Murgia is a geographical region in southern Italy, located in the provinces of Bari and Taranto. It is characterized by its limestone hills, deep ravines, and caves. The name Murgia comes from the Latin word murex, meaning "rocky hill". In English, Murgia can be translated as "rocky land". |
+| 14 | [Valerio Scanu](http://twitter.com/search?q=Valerio+Scanu) | N/A |
+| 15 | [Ronela](http://twitter.com/search?q=Ronela) | N/A |
+| 16 | [Diodato](http://twitter.com/search?q=Diodato) | N/A |
+| 17 | [Grattugia](http://twitter.com/search?q=Grattugia) | N/A |
+| 18 | [ivan capelli](http://twitter.com/search?q=ivan+capelli) | N/A |
+| 19 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 20 | [Travaglio](http://twitter.com/search?q=Travaglio) | N/A |
+| 21 | [Zucchero](http://twitter.com/search?q=Zucchero) | N/A |
+| 22 | [Roy Paci](http://twitter.com/search?q=Roy+Paci) | N/A |
+| 23 | [Costituzione](http://twitter.com/search?q=Costituzione) | N/A |
+| 24 | [Senhit](http://twitter.com/search?q=Senhit) | N/A |
+| 25 | [Corrado](http://twitter.com/search?q=Corrado) | N/A |
+| 26 | [Bianca Guaccero](http://twitter.com/search?q=Bianca+Guaccero) | N/A |
+| 27 | [Agnelli](http://twitter.com/search?q=Agnelli) | N/A |
+| 28 | [Luca Laurenti](http://twitter.com/search?q=Luca+Laurenti) | N/A |
+| 29 | [Nevruz](http://twitter.com/search?q=Nevruz) | N/A |
+| 30 | [Loretta](http://twitter.com/search?q=Loretta) | N/A |
+| 31 | [Heineken](http://twitter.com/search?q=Heineken) | N/A |
+| 32 | [Ucraina](http://twitter.com/search?q=Ucraina) | N/A |
+| 33 | [Paolantoni](http://twitter.com/search?q=Paolantoni) | N/A |
+| 34 | [Notte](http://twitter.com/search?q=Notte) | N/A |
+| 35 | [Eiffel 65](http://twitter.com/search?q=Eiffel+65) | N/A |
+| 36 | [Mia Martini](http://twitter.com/search?q=Mia+Martini) | N/A |
+| 37 | [Malgioglio](http://twitter.com/search?q=Malgioglio) | N/A |
+| 38 | [Rosy Bindi](http://twitter.com/search?q=Rosy+Bindi) | N/A |
+| 39 | [Buon Sabato](http://twitter.com/search?q=Buon+Sabato) | N/A |
+| 40 | [Ingroia](http://twitter.com/search?q=Ingroia) | N/A |
+| 41 | [Vitti](http://twitter.com/search?q=Vitti) | N/A |
+| 42 | [Mogol](http://twitter.com/search?q=Mogol) | N/A |
+| 43 | [Paolo Meneguzzi](http://twitter.com/search?q=Paolo+Meneguzzi) | N/A |
+| 44 | [Ichnusa](http://twitter.com/search?q=Ichnusa) | N/A |
+| 45 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 46 | [Carlo Conti](http://twitter.com/search?q=Carlo+Conti) | N/A |
+| 47 | [Parietti](http://twitter.com/search?q=Parietti) | N/A |
+| 48 | [Cirilli](http://twitter.com/search?q=Cirilli) | N/A |
+| 49 | [Preside](http://twitter.com/search?q=Preside) | N/A |
+| 50 | [Capezzone](http://twitter.com/search?q=Capezzone) | N/A |
 
 
 

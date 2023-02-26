@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Los Angeles
 
-📆 Last Updated: `2023-02-25 23:16:32 UTC`
+📆 Last Updated: `2023-02-26 00:30:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Fontana](http://twitter.com/search?q=Fontana) | N/A |
-| 2 | [Casey Schmitt](http://twitter.com/search?q=Casey+Schmitt) | N/A |
-| 3 | [San Bernardino](http://twitter.com/search?q=San+Bernardino) | N/A |
-| 4 | [#SFGiants](http://twitter.com/search?q=%23SFGiants) | N/A |
-| 5 | [Freddie](http://twitter.com/search?q=Freddie) | N/A |
-| 6 | [Southern California](http://twitter.com/search?q=Southern+California) | N/A |
-| 7 | [SoCal](http://twitter.com/search?q=SoCal) | N/A |
-| 8 | [Rialto](http://twitter.com/search?q=Rialto) | N/A |
-| 9 | [Jo Adell](http://twitter.com/search?q=Jo+Adell) | N/A |
-| 10 | [#NASCAR](http://twitter.com/search?q=%23NASCAR) | N/A |
+| 1 | [#NASCAR](http://twitter.com/search?q=%23NASCAR) | N/A |
+| 2 | [#SFGiants](http://twitter.com/search?q=%23SFGiants) | N/A |
+| 3 | [Fontana](http://twitter.com/search?q=Fontana) | N/A |
+| 4 | [Southern California](http://twitter.com/search?q=Southern+California) | N/A |
+| 5 | [SoCal](http://twitter.com/search?q=SoCal) | N/A |
+| 6 | [San Bernardino](http://twitter.com/search?q=San+Bernardino) | N/A |
+| 7 | [Santa Clarita](http://twitter.com/search?q=Santa+Clarita) | N/A |
+| 8 | [Freddie](http://twitter.com/search?q=Freddie) | N/A |
+| 9 | [Rancho Cucamonga](http://twitter.com/search?q=Rancho+Cucamonga) | N/A |
+| 10 | [Rialto](http://twitter.com/search?q=Rialto) | N/A |
 | 11 | [#Dodgers](http://twitter.com/search?q=%23Dodgers) | N/A |
-| 12 | [Santa Clarita](http://twitter.com/search?q=Santa+Clarita) | N/A |
-| 13 | [Rancho Cucamonga](http://twitter.com/search?q=Rancho+Cucamonga) | N/A |
-| 14 | [Redlands](http://twitter.com/search?q=Redlands) | N/A |
-| 15 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
-| 16 | [Pac-12](http://twitter.com/search?q=Pac-12) | N/A |
-| 17 | [Skyline](http://twitter.com/search?q=Skyline) | N/A |
-| 18 | [Riverside](http://twitter.com/search?q=Riverside) | N/A |
-| 19 | [CEQA](http://twitter.com/search?q=CEQA) | N/A |
-| 20 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
-| 21 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
+| 12 | [Riverside](http://twitter.com/search?q=Riverside) | N/A |
+| 13 | [Skyline](http://twitter.com/search?q=Skyline) | N/A |
+| 14 | [Pac-12](http://twitter.com/search?q=Pac-12) | N/A |
+| 15 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
+| 16 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
+| 17 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
+| 18 | [CEQA](http://twitter.com/search?q=CEQA) | N/A |
+| 19 | [Porsche](http://twitter.com/search?q=Porsche) | N/A |
+| 20 | [Day of Hate](http://twitter.com/search?q=Day+of+Hate) | N/A |
+| 21 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
 | 22 | [Big Bear](http://twitter.com/search?q=Big+Bear) | N/A |
-| 23 | [Burbank](http://twitter.com/search?q=Burbank) | N/A |
-| 24 | [Day of Hate](http://twitter.com/search?q=Day+of+Hate) | N/A |
-| 25 | [Ontario](http://twitter.com/search?q=Ontario) | N/A |
-| 26 | [Porsche](http://twitter.com/search?q=Porsche) | N/A |
-| 27 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
-| 28 | [#Optimusinu](http://twitter.com/search?q=%23Optimusinu) | N/A |
-| 29 | [#UFCVegas70](http://twitter.com/search?q=%23UFCVegas70) | N/A |
-| 30 | [Paul Ryan](http://twitter.com/search?q=Paul+Ryan) | Paul Ryan is the name of an American politician who served as the 54th Speaker of the United States House of Representatives from October 2015 to January 2019. He is a member of the Republican Party and was previously the Vice Presidential nominee for the 2012 election. The meaning of his name in English is "little king". |
-| 31 | [Pat Adams](http://twitter.com/search?q=Pat+Adams) | N/A |
-| 32 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
+| 23 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
+| 24 | [#Optimusinu](http://twitter.com/search?q=%23Optimusinu) | N/A |
+| 25 | [#UFCVegas70](http://twitter.com/search?q=%23UFCVegas70) | N/A |
+| 26 | [Paul Ryan](http://twitter.com/search?q=Paul+Ryan) | Paul Ryan is the name of an American politician who served as the 54th Speaker of the United States House of Representatives from October 2015 to January 2019. He is a member of the Republican Party and was previously the Vice Presidential nominee for the 2012 election. The meaning of his name in English is "little king". |
+| 27 | [Trevor Peek](http://twitter.com/search?q=Trevor+Peek) | N/A |
+| 28 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
+| 29 | [Pat Adams](http://twitter.com/search?q=Pat+Adams) | N/A |
+| 30 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
+| 31 | [Pete Nance](http://twitter.com/search?q=Pete+Nance) | N/A |
+| 32 | [Fran](http://twitter.com/search?q=Fran) | N/A |
 | 33 | [Arizona State](http://twitter.com/search?q=Arizona+State) | N/A |
-| 34 | [Jordan Leavitt](http://twitter.com/search?q=Jordan+Leavitt) | N/A |
-| 35 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
-| 36 | [Fran](http://twitter.com/search?q=Fran) | N/A |
+| 34 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
+| 35 | [Jordan Leavitt](http://twitter.com/search?q=Jordan+Leavitt) | N/A |
+| 36 | [Florida State](http://twitter.com/search?q=Florida+State) | N/A |
 | 37 | [Matthew Cleveland](http://twitter.com/search?q=Matthew+Cleveland) | N/A |
-| 38 | [Florida State](http://twitter.com/search?q=Florida+State) | N/A |
-| 39 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
-| 40 | [WARRIOR NUN CAMPERS](http://twitter.com/search?q=WARRIOR+NUN+CAMPERS) | N/A |
-| 41 | [Antonio Reeves](http://twitter.com/search?q=Antonio+Reeves) | N/A |
-| 42 | [Walker Zimmerman](http://twitter.com/search?q=Walker+Zimmerman) | N/A |
-| 43 | [Alves](http://twitter.com/search?q=Alves) | N/A |
-| 44 | [Spring Training](http://twitter.com/search?q=Spring+Training) | N/A |
-| 45 | [Manfred](http://twitter.com/search?q=Manfred) | N/A |
-| 46 | [Charles Johnson](http://twitter.com/search?q=Charles+Johnson) | Charles Johnson is a common English surname. It is derived from the given name Charles, which is derived from the Germanic name Karl, meaning "free man". |
-| 47 | [Matt McLain](http://twitter.com/search?q=Matt+McLain) | N/A |
-| 48 | [Mayweather](http://twitter.com/search?q=Mayweather) | N/A |
-| 49 | [Osbourne](http://twitter.com/search?q=Osbourne) | N/A |
-| 50 | [Nino](http://twitter.com/search?q=Nino) | N/A |
+| 38 | [Krylov](http://twitter.com/search?q=Krylov) | N/A |
+| 39 | [Noles](http://twitter.com/search?q=Noles) | N/A |
+| 40 | [Mike Malott](http://twitter.com/search?q=Mike+Malott) | N/A |
+| 41 | [WARRIOR NUN CAMPERS](http://twitter.com/search?q=WARRIOR+NUN+CAMPERS) | N/A |
+| 42 | [Hany Mukhtar](http://twitter.com/search?q=Hany+Mukhtar) | N/A |
+| 43 | [Zeus](http://twitter.com/search?q=Zeus) | Zeus is the name of the supreme god in Greek mythology. He was the god of the sky, lightning, thunder, law, order, and justice. He was also known as the king of gods and ruler of Mount Olympus. In English, Zeus is often used to refer to a person who is powerful or influential. |
+| 44 | [Boeheim](http://twitter.com/search?q=Boeheim) | N/A |
+| 45 | [Amosov](http://twitter.com/search?q=Amosov) | N/A |
+| 46 | [Apple TV](http://twitter.com/search?q=Apple+TV) | N/A |
+| 47 | [Deep Purple](http://twitter.com/search?q=Deep+Purple) | N/A |
+| 48 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
+| 49 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
+| 50 | [Bruce Pearl](http://twitter.com/search?q=Bruce+Pearl) | N/A |
 
 
 

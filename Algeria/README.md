@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Algeria
 
-📆 Last Updated: `2023-02-25 23:16:37 UTC`
+📆 Last Updated: `2023-02-26 00:30:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,11 +19,11 @@ This is top 50 for Algeria
 | 2 | [#RMxBOTTEGAVENETA](http://twitter.com/search?q=%23RMxBOTTEGAVENETA) | N/A |
 | 3 | [القصص الخياليه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b5%d8%b5+%d8%a7%d9%84%d8%ae%d9%8a%d8%a7%d9%84%d9%8a%d9%87) | N/A |
 | 4 | [غير معتمد](http://twitter.com/search?q=%d8%ba%d9%8a%d8%b1+%d9%85%d8%b9%d8%aa%d9%85%d8%af) | N/A |
-| 5 | [#سعد_لمجرد](http://twitter.com/search?q=%23%d8%b3%d8%b9%d8%af_%d9%84%d9%85%d8%ac%d8%b1%d8%af) | N/A |
-| 6 | [بورنموث](http://twitter.com/search?q=%d8%a8%d9%88%d8%b1%d9%86%d9%85%d9%88%d8%ab) | N/A |
-| 7 | [الطابور الخامس](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d8%a7%d8%a8%d9%88%d8%b1+%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3) | N/A |
-| 8 | [#جانت](http://twitter.com/search?q=%23%d8%ac%d8%a7%d9%86%d8%aa) | N/A |
-| 9 | [الكويت](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d9%88%d9%8a%d8%aa) | N/A |
+| 5 | [بورنموث](http://twitter.com/search?q=%d8%a8%d9%88%d8%b1%d9%86%d9%85%d9%88%d8%ab) | N/A |
+| 6 | [الطابور الخامس](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d8%a7%d8%a8%d9%88%d8%b1+%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3) | N/A |
+| 7 | [#جانت](http://twitter.com/search?q=%23%d8%ac%d8%a7%d9%86%d8%aa) | N/A |
+| 8 | [الكويت](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d9%88%d9%8a%d8%aa) | N/A |
+| 9 | [#سعد_لمجرد](http://twitter.com/search?q=%23%d8%b3%d8%b9%d8%af_%d9%84%d9%85%d8%ac%d8%b1%d8%af) | N/A |
 | 10 | [#LEIARS](http://twitter.com/search?q=%23LEIARS) | N/A |
 | 11 | [سيميوني](http://twitter.com/search?q=%d8%b3%d9%8a%d9%85%d9%8a%d9%88%d9%86%d9%8a) | سيميوني (Simonee) is an Arabic name meaning "listener". It is also a variant of the name Simone, which is derived from the Hebrew name Shimon, meaning "he who hears". |
 | 12 | [وزير التجاره](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%aa%d8%ac%d8%a7%d8%b1%d9%87) | N/A |
@@ -50,21 +50,21 @@ This is top 50 for Algeria
 | 33 | [مالك بن نبي](http://twitter.com/search?q=%d9%85%d8%a7%d9%84%d9%83+%d8%a8%d9%86+%d9%86%d8%a8%d9%8a) | N/A |
 | 34 | [رونالدو](http://twitter.com/search?q=%d8%b1%d9%88%d9%86%d8%a7%d9%84%d8%af%d9%88) | رونالدو is the Portuguese spelling of the name Ronaldo, which is a popular given name in many countries. In English, it means "counselor of the ruler". |
 | 35 | [القضاء الفرنسي](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b6%d8%a7%d8%a1+%d8%a7%d9%84%d9%81%d8%b1%d9%86%d8%b3%d9%8a) | N/A |
-| 36 | [Tunisie](http://twitter.com/search?q=Tunisie) | N/A |
-| 37 | [شمال افريقيا](http://twitter.com/search?q=%d8%b4%d9%85%d8%a7%d9%84+%d8%a7%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7) | N/A |
+| 36 | [شمال افريقيا](http://twitter.com/search?q=%d8%b4%d9%85%d8%a7%d9%84+%d8%a7%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7) | N/A |
+| 37 | [Tunisie](http://twitter.com/search?q=Tunisie) | N/A |
 | 38 | [إيطاليا](http://twitter.com/search?q=%d8%a5%d9%8a%d8%b7%d8%a7%d9%84%d9%8a%d8%a7) | N/A |
 | 39 | [قيس سعيد](http://twitter.com/search?q=%d9%82%d9%8a%d8%b3+%d8%b3%d8%b9%d9%8a%d8%af) | N/A |
 | 40 | [الفيفا](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%8a%d9%81%d8%a7) | N/A |
-| 41 | [الطريق الوطني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d8%b1%d9%8a%d9%82+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
+| 41 | [بن ابي سفيان](http://twitter.com/search?q=%d8%a8%d9%86+%d8%a7%d8%a8%d9%8a+%d8%b3%d9%81%d9%8a%d8%a7%d9%86) | N/A |
 | 42 | [وليبيا](http://twitter.com/search?q=%d9%88%d9%84%d9%8a%d8%a8%d9%8a%d8%a7) | N/A |
-| 43 | [بن ابي سفيان](http://twitter.com/search?q=%d8%a8%d9%86+%d8%a7%d8%a8%d9%8a+%d8%b3%d9%81%d9%8a%d8%a7%d9%86) | N/A |
-| 44 | [محمد علي](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%b9%d9%84%d9%8a) | N/A |
-| 45 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 46 | [المفكر الجزايري](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%81%d9%83%d8%b1+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1%d9%8a) | N/A |
-| 47 | [الولايات المتحدة](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%84%d8%a7%d9%8a%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d8%aa%d8%ad%d8%af%d8%a9) | N/A |
-| 48 | [الشرقية](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b1%d9%82%d9%8a%d8%a9) | N/A |
-| 49 | [الريال](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d9%84) | الريال is the currency of Saudi Arabia. In English, it is known as the Saudi Riyal. |
-| 50 | [المهاجرين الافارقه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%87%d8%a7%d8%ac%d8%b1%d9%8a%d9%86+%d8%a7%d9%84%d8%a7%d9%81%d8%a7%d8%b1%d9%82%d9%87) | N/A |
+| 43 | [محمد علي](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%b9%d9%84%d9%8a) | N/A |
+| 44 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 45 | [المفكر الجزايري](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%81%d9%83%d8%b1+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1%d9%8a) | N/A |
+| 46 | [الموسم الماضي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85+%d8%a7%d9%84%d9%85%d8%a7%d8%b6%d9%8a) | N/A |
+| 47 | [الشرقية](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b1%d9%82%d9%8a%d8%a9) | N/A |
+| 48 | [المهاجرين الافارقه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%87%d8%a7%d8%ac%d8%b1%d9%8a%d9%86+%d8%a7%d9%84%d8%a7%d9%81%d8%a7%d8%b1%d9%82%d9%87) | N/A |
+| 49 | [السيد الرييس](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%af+%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3) | N/A |
+| 50 | [حمزة](http://twitter.com/search?q=%d8%ad%d9%85%d8%b2%d8%a9) | N/A |
 
 
 

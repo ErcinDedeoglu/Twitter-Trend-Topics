@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Detroit
 
-📆 Last Updated: `2023-02-25 23:16:30 UTC`
+📆 Last Updated: `2023-02-26 00:30:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Don Shane](http://twitter.com/search?q=Don+Shane) | N/A |
-| 2 | [#Pistons](http://twitter.com/search?q=%23Pistons) | N/A |
-| 3 | [Ivey](http://twitter.com/search?q=Ivey) | N/A |
+| 1 | [Izzo](http://twitter.com/search?q=Izzo) | Izzo is a slang term derived from the word "isso," which is a contraction of the Portuguese phrase "é isso," meaning "that's it." It can be used to express agreement, approval, or excitement. |
+| 2 | [Tyson Walker](http://twitter.com/search?q=Tyson+Walker) | Tyson Walker is a slang term used to describe someone who is strong, determined, and resilient. It is often used to describe someone who has overcome difficult obstacles or achieved success despite the odds. |
+| 3 | [Pistons](http://twitter.com/search?q=Pistons) | Pistons are components of an engine that move up and down to create the power needed to drive a vehicle. They are usually made of metal and fit into the cylinder of an engine, where they move up and down in order to compress and expand the air-fuel mixture that powers the engine. |
 | 4 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
 | 5 | [#Optimusinu](http://twitter.com/search?q=%23Optimusinu) | N/A |
 | 6 | [#UFCVegas70](http://twitter.com/search?q=%23UFCVegas70) | N/A |
 | 7 | [Paul Ryan](http://twitter.com/search?q=Paul+Ryan) | Paul Ryan is the name of an American politician who served as the 54th Speaker of the United States House of Representatives from October 2015 to January 2019. He is a member of the Republican Party and was previously the Vice Presidential nominee for the 2012 election. The meaning of his name in English is "little king". |
-| 8 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
-| 9 | [Pat Adams](http://twitter.com/search?q=Pat+Adams) | N/A |
-| 10 | [Jordan Leavitt](http://twitter.com/search?q=Jordan+Leavitt) | N/A |
-| 11 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
-| 12 | [Arizona State](http://twitter.com/search?q=Arizona+State) | N/A |
-| 13 | [#kubball](http://twitter.com/search?q=%23kubball) | N/A |
-| 14 | [Fran](http://twitter.com/search?q=Fran) | N/A |
-| 15 | [Matthew Cleveland](http://twitter.com/search?q=Matthew+Cleveland) | N/A |
-| 16 | [Florida State](http://twitter.com/search?q=Florida+State) | N/A |
-| 17 | [#MLSSeasonPass](http://twitter.com/search?q=%23MLSSeasonPass) | N/A |
-| 18 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
-| 19 | [WARRIOR NUN CAMPERS](http://twitter.com/search?q=WARRIOR+NUN+CAMPERS) | N/A |
-| 20 | [Antonio Reeves](http://twitter.com/search?q=Antonio+Reeves) | N/A |
-| 21 | [Walker Zimmerman](http://twitter.com/search?q=Walker+Zimmerman) | N/A |
-| 22 | [Alves](http://twitter.com/search?q=Alves) | N/A |
-| 23 | [Spring Training](http://twitter.com/search?q=Spring+Training) | N/A |
-| 24 | [Manfred](http://twitter.com/search?q=Manfred) | N/A |
-| 25 | [Charles Johnson](http://twitter.com/search?q=Charles+Johnson) | Charles Johnson is a common English surname. It is derived from the given name Charles, which is derived from the Germanic name Karl, meaning "free man". |
-| 26 | [Matt McLain](http://twitter.com/search?q=Matt+McLain) | N/A |
-| 27 | [Mayweather](http://twitter.com/search?q=Mayweather) | N/A |
-| 28 | [Osbourne](http://twitter.com/search?q=Osbourne) | N/A |
-| 29 | [Nino](http://twitter.com/search?q=Nino) | N/A |
-| 30 | [Noles](http://twitter.com/search?q=Noles) | N/A |
-| 31 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
-| 32 | [Toppin](http://twitter.com/search?q=Toppin) | Toppin is a slang term used to describe something that is the best or most impressive. It can be used to describe a person, an event, or an object. In English, it is often used as an exclamation of approval or admiration. |
-| 33 | [Garrett Mitchell](http://twitter.com/search?q=Garrett+Mitchell) | N/A |
-| 34 | [Ballo](http://twitter.com/search?q=Ballo) | N/A |
-| 35 | [Wet Paint](http://twitter.com/search?q=Wet+Paint) | N/A |
-| 36 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
-| 37 | [Rupp](http://twitter.com/search?q=Rupp) | Rupp is an acronym for the phrase "Recognize, Understand, Prepare, and Perform". It is a strategy used to help people achieve their goals by breaking them down into smaller steps. The idea is to recognize the goal, understand what it will take to reach it, prepare for the journey ahead, and then perform the necessary actions to make it happen. |
-| 38 | [Broome](http://twitter.com/search?q=Broome) | N/A |
-| 39 | [Baseball](http://twitter.com/search?q=Baseball) | N/A |
-| 40 | [Cubs](http://twitter.com/search?q=Cubs) | N/A |
-| 41 | [Joe Solecki](http://twitter.com/search?q=Joe+Solecki) | N/A |
-| 42 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 43 | [Tshiebwe](http://twitter.com/search?q=Tshiebwe) | N/A |
-| 44 | [Bruce Pearl](http://twitter.com/search?q=Bruce+Pearl) | N/A |
-| 45 | [Ronny Jackson](http://twitter.com/search?q=Ronny+Jackson) | N/A |
-| 46 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 47 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
-| 48 | [Jim Brown](http://twitter.com/search?q=Jim+Brown) | N/A |
-| 49 | [Desmond Cambridge](http://twitter.com/search?q=Desmond+Cambridge) | N/A |
-| 50 | [Scott Adams](http://twitter.com/search?q=Scott+Adams) | N/A |
+| 8 | [Trevor Peek](http://twitter.com/search?q=Trevor+Peek) | N/A |
+| 9 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
+| 10 | [#UFCFightNight](http://twitter.com/search?q=%23UFCFightNight) | N/A |
+| 11 | [#Chrome23](http://twitter.com/search?q=%23Chrome23) | N/A |
+| 12 | [#LightningStrikes](http://twitter.com/search?q=%23LightningStrikes) | N/A |
+| 13 | [Pat Adams](http://twitter.com/search?q=Pat+Adams) | N/A |
+| 14 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
+| 15 | [Pete Nance](http://twitter.com/search?q=Pete+Nance) | N/A |
+| 16 | [Fran](http://twitter.com/search?q=Fran) | N/A |
+| 17 | [Arizona State](http://twitter.com/search?q=Arizona+State) | N/A |
+| 18 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
+| 19 | [Jordan Leavitt](http://twitter.com/search?q=Jordan+Leavitt) | N/A |
+| 20 | [Florida State](http://twitter.com/search?q=Florida+State) | N/A |
+| 21 | [Matthew Cleveland](http://twitter.com/search?q=Matthew+Cleveland) | N/A |
+| 22 | [Krylov](http://twitter.com/search?q=Krylov) | N/A |
+| 23 | [Noles](http://twitter.com/search?q=Noles) | N/A |
+| 24 | [Mike Malott](http://twitter.com/search?q=Mike+Malott) | N/A |
+| 25 | [WARRIOR NUN CAMPERS](http://twitter.com/search?q=WARRIOR+NUN+CAMPERS) | N/A |
+| 26 | [Hany Mukhtar](http://twitter.com/search?q=Hany+Mukhtar) | N/A |
+| 27 | [Zeus](http://twitter.com/search?q=Zeus) | Zeus is the name of the supreme god in Greek mythology. He was the god of the sky, lightning, thunder, law, order, and justice. He was also known as the king of gods and ruler of Mount Olympus. In English, Zeus is often used to refer to a person who is powerful or influential. |
+| 28 | [Boeheim](http://twitter.com/search?q=Boeheim) | N/A |
+| 29 | [Amosov](http://twitter.com/search?q=Amosov) | N/A |
+| 30 | [Apple TV](http://twitter.com/search?q=Apple+TV) | N/A |
+| 31 | [Deep Purple](http://twitter.com/search?q=Deep+Purple) | N/A |
+| 32 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
+| 33 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
+| 34 | [Bruce Pearl](http://twitter.com/search?q=Bruce+Pearl) | N/A |
+| 35 | [Spring Training](http://twitter.com/search?q=Spring+Training) | N/A |
+| 36 | [Cubs](http://twitter.com/search?q=Cubs) | N/A |
+| 37 | [Confidence Game](http://twitter.com/search?q=Confidence+Game) | N/A |
+| 38 | [Baseball](http://twitter.com/search?q=Baseball) | N/A |
+| 39 | [Charles Johnson](http://twitter.com/search?q=Charles+Johnson) | Charles Johnson is a common English surname. It is derived from the given name Charles, which is derived from the Germanic name Karl, meaning "free man". |
+| 40 | [Nino](http://twitter.com/search?q=Nino) | N/A |
+| 41 | [Joe Lombardi](http://twitter.com/search?q=Joe+Lombardi) | Joe Lombardi is an American football coach and former player. He is currently the offensive coordinator for the Detroit Lions of the National Football League (NFL). He previously served as the quarterbacks coach for the New Orleans Saints from 2009 to 2013, helping them win Super Bowl XLIV in 2010. The name Joe Lombardi is associated with success in the NFL, as he has been part of teams that have won three Super Bowls. |
+| 42 | [Manfred](http://twitter.com/search?q=Manfred) | N/A |
+| 43 | [Antonio Reeves](http://twitter.com/search?q=Antonio+Reeves) | N/A |
+| 44 | [Scott Adams](http://twitter.com/search?q=Scott+Adams) | N/A |
+| 45 | [Walker Zimmerman](http://twitter.com/search?q=Walker+Zimmerman) | N/A |
+| 46 | [Osbourne](http://twitter.com/search?q=Osbourne) | N/A |
+| 47 | [Pete Alonso](http://twitter.com/search?q=Pete+Alonso) | N/A |
+| 48 | [Aliev](http://twitter.com/search?q=Aliev) | N/A |
+| 49 | [Mayweather](http://twitter.com/search?q=Mayweather) | N/A |
+| 50 | [Matt McLain](http://twitter.com/search?q=Matt+McLain) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Germany
 
-📆 Last Updated: `2023-02-25 23:16:39 UTC`
+📆 Last Updated: `2023-02-26 00:30:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,56 @@ This is top 50 for Germany
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SVDHSV](http://twitter.com/search?q=%23SVDHSV) | N/A |
-| 2 | [#GiovanniZarrellaShow](http://twitter.com/search?q=%23GiovanniZarrellaShow) | N/A |
-| 3 | [#DSDS](http://twitter.com/search?q=%23DSDS) | N/A |
-| 4 | [#S04VfB](http://twitter.com/search?q=%23S04VfB) | N/A |
-| 5 | [#b2502](http://twitter.com/search?q=%23b2502) | N/A |
-| 6 | [Demo](http://twitter.com/search?q=Demo) | N/A |
-| 7 | [Heyer](http://twitter.com/search?q=Heyer) | N/A |
-| 8 | [Darmstadt](http://twitter.com/search?q=Darmstadt) | N/A |
-| 9 | [Pack](http://twitter.com/search?q=Pack) | N/A |
-| 10 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
-| 11 | [Kinderlose](http://twitter.com/search?q=Kinderlose) | N/A |
-| 12 | [Verbrecher in die Geschichte](http://twitter.com/search?q=Verbrecher+in+die+Geschichte) | N/A |
-| 13 | [Friedensbewegung](http://twitter.com/search?q=Friedensbewegung) | N/A |
-| 14 | [Sosa](http://twitter.com/search?q=Sosa) | N/A |
-| 15 | [Walter](http://twitter.com/search?q=Walter) | N/A |
-| 16 | [Zehntausende](http://twitter.com/search?q=Zehntausende) | N/A |
+| 1 | [#b2502](http://twitter.com/search?q=%23b2502) | N/A |
+| 2 | [#S04VfB](http://twitter.com/search?q=%23S04VfB) | N/A |
+| 3 | [#MetAmazonPresale](http://twitter.com/search?q=%23MetAmazonPresale) | N/A |
+| 4 | [Demo](http://twitter.com/search?q=Demo) | N/A |
+| 5 | [Demo](http://twitter.com/search?q=Demo) | N/A |
+| 6 | [#TSGBVB](http://twitter.com/search?q=%23TSGBVB) | N/A |
+| 7 | [#SVDHSV](http://twitter.com/search?q=%23SVDHSV) | N/A |
+| 8 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
+| 9 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 10 | [Irreführung der Bevölkerung](http://twitter.com/search?q=Irref%c3%bchrung+der+Bev%c3%b6lkerung) | N/A |
+| 11 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
+| 12 | [Bock auf Arbeit](http://twitter.com/search?q=Bock+auf+Arbeit) | N/A |
+| 13 | [Seite der Geschichte](http://twitter.com/search?q=Seite+der+Geschichte) | N/A |
+| 14 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
+| 15 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
+| 16 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
 | 17 | [Halbzeit](http://twitter.com/search?q=Halbzeit) | N/A |
-| 18 | [Unentschieden](http://twitter.com/search?q=Unentschieden) | N/A |
-| 19 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 20 | [Anton](http://twitter.com/search?q=Anton) | Anton is a masculine given name of Germanic origin. It is derived from the Roman family name Antonius, which is of unknown Etruscan origin. The name means "invaluable" or "priceless". |
-| 21 | [Teilnehmer](http://twitter.com/search?q=Teilnehmer) | N/A |
-| 22 | [Silas](http://twitter.com/search?q=Silas) | N/A |
-| 23 | [Samstag Abend](http://twitter.com/search?q=Samstag+Abend) | N/A |
-| 24 | [Gegentor](http://twitter.com/search?q=Gegentor) | N/A |
-| 25 | [Herr Lauterbach](http://twitter.com/search?q=Herr+Lauterbach) | N/A |
-| 26 | [Faschos](http://twitter.com/search?q=Faschos) | N/A |
-| 27 | [Mannschaft](http://twitter.com/search?q=Mannschaft) | N/A |
-| 28 | [Querfront](http://twitter.com/search?q=Querfront) | N/A |
-| 29 | [Klassenerhalt](http://twitter.com/search?q=Klassenerhalt) | N/A |
-| 30 | [Höcke](http://twitter.com/search?q=H%c3%b6cke) | N/A |
-| 31 | [Foul](http://twitter.com/search?q=Foul) | N/A |
-| 32 | [Sahra](http://twitter.com/search?q=Sahra) | N/A |
-| 33 | [Rechtsextreme](http://twitter.com/search?q=Rechtsextreme) | N/A |
-| 34 | [Seite der Geschichte](http://twitter.com/search?q=Seite+der+Geschichte) | N/A |
-| 35 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 36 | [Flaggen](http://twitter.com/search?q=Flaggen) | N/A |
-| 37 | [Fahnen](http://twitter.com/search?q=Fahnen) | N/A |
-| 38 | [Elfer](http://twitter.com/search?q=Elfer) | N/A |
-| 39 | [Hoffenheim](http://twitter.com/search?q=Hoffenheim) | N/A |
-| 40 | [Bochum](http://twitter.com/search?q=Bochum) | N/A |
-| 41 | [#TakeMeOut](http://twitter.com/search?q=%23TakeMeOut) | N/A |
-| 42 | [#UMK23](http://twitter.com/search?q=%23UMK23) | N/A |
-| 43 | [#nurderHSV](http://twitter.com/search?q=%23nurderHSV) | N/A |
-| 44 | [#Vollidiot](http://twitter.com/search?q=%23Vollidiot) | N/A |
-| 45 | [#Schwarzer](http://twitter.com/search?q=%23Schwarzer) | N/A |
-| 46 | [#Melfest](http://twitter.com/search?q=%23Melfest) | N/A |
-| 47 | [#Querdeppen](http://twitter.com/search?q=%23Querdeppen) | N/A |
-| 48 | [#PokemonGO](http://twitter.com/search?q=%23PokemonGO) | N/A |
+| 18 | [Freistoß](http://twitter.com/search?q=Freisto%c3%9f) | N/A |
+| 19 | [Verbrecher in die Geschichte](http://twitter.com/search?q=Verbrecher+in+die+Geschichte) | N/A |
+| 20 | [Walter Ulbricht](http://twitter.com/search?q=Walter+Ulbricht) | N/A |
+| 21 | [Sosa](http://twitter.com/search?q=Sosa) | N/A |
+| 22 | [Brandenburger Tor](http://twitter.com/search?q=Brandenburger+Tor) | N/A |
+| 23 | [Silas](http://twitter.com/search?q=Silas) | N/A |
+| 24 | [Kinderlose](http://twitter.com/search?q=Kinderlose) | N/A |
+| 25 | [Kriegstreiber](http://twitter.com/search?q=Kriegstreiber) | N/A |
+| 26 | [Foul](http://twitter.com/search?q=Foul) | N/A |
+| 27 | [WARRIOR NUN CAMPERS](http://twitter.com/search?q=WARRIOR+NUN+CAMPERS) | N/A |
+| 28 | [Pack](http://twitter.com/search?q=Pack) | N/A |
+| 29 | [Panzer](http://twitter.com/search?q=Panzer) | N/A |
+| 30 | [Heyer](http://twitter.com/search?q=Heyer) | N/A |
+| 31 | [Höcke](http://twitter.com/search?q=H%c3%b6cke) | N/A |
+| 32 | [Botschaft](http://twitter.com/search?q=Botschaft) | N/A |
+| 33 | [Fahnen](http://twitter.com/search?q=Fahnen) | N/A |
+| 34 | [Sieg](http://twitter.com/search?q=Sieg) | N/A |
+| 35 | [Schönen Samstag](http://twitter.com/search?q=Sch%c3%b6nen+Samstag) | N/A |
+| 36 | [Darmstadt](http://twitter.com/search?q=Darmstadt) | N/A |
+| 37 | [Elsässer](http://twitter.com/search?q=Els%c3%a4sser) | N/A |
+| 38 | [Flagge](http://twitter.com/search?q=Flagge) | N/A |
+| 39 | [Anton](http://twitter.com/search?q=Anton) | Anton is a masculine given name of Germanic origin. It is derived from the Roman family name Antonius, which is of unknown Etruscan origin. The name means "invaluable" or "priceless". |
+| 40 | [BASF](http://twitter.com/search?q=BASF) | N/A |
+| 41 | [start ins wochenende](http://twitter.com/search?q=start+ins+wochenende) | N/A |
+| 42 | [Samstag Abend](http://twitter.com/search?q=Samstag+Abend) | N/A |
+| 43 | [Hagel](http://twitter.com/search?q=Hagel) | N/A |
+| 44 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
+| 45 | [Werner Sinn](http://twitter.com/search?q=Werner+Sinn) | N/A |
+| 46 | [Hoffenheim](http://twitter.com/search?q=Hoffenheim) | N/A |
+| 47 | [Andrea Berg](http://twitter.com/search?q=Andrea+Berg) | N/A |
+| 48 | [Frau Müller](http://twitter.com/search?q=Frau+M%c3%bcller) | N/A |
+| 49 | [Pazifist](http://twitter.com/search?q=Pazifist) | N/A |
+| 50 | [Veranstaltung](http://twitter.com/search?q=Veranstaltung) | N/A |
 
 
 

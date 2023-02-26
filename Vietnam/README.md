@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vietnam
 
-📆 Last Updated: `2023-02-25 23:16:45 UTC`
+📆 Last Updated: `2023-02-26 00:30:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -34,37 +34,36 @@ This is top 50 for Vietnam
 | 17 | [get 700erb](http://twitter.com/search?q=get+700erb) | N/A |
 | 18 | [wormholes](http://twitter.com/search?q=wormholes) | N/A |
 | 19 | [s-nft](http://twitter.com/search?q=s-nft) | N/A |
-| 20 | [joong](http://twitter.com/search?q=joong) | N/A |
-| 21 | [welcome to paris xin](http://twitter.com/search?q=welcome+to+paris+xin) | N/A |
-| 22 | [LISA CELINE AMBASSADOR](http://twitter.com/search?q=LISA+CELINE+AMBASSADOR) | N/A |
+| 20 | [welcome to paris xin](http://twitter.com/search?q=welcome+to+paris+xin) | N/A |
+| 21 | [LISA CELINE AMBASSADOR](http://twitter.com/search?q=LISA+CELINE+AMBASSADOR) | N/A |
+| 22 | [Twitch](http://twitter.com/search?q=Twitch) | N/A |
 | 23 | [Base](http://twitter.com/search?q=Base) | N/A |
 | 24 | [Alchemy](http://twitter.com/search?q=Alchemy) | N/A |
 | 25 | [Paris Fashion Week](http://twitter.com/search?q=Paris+Fashion+Week) | N/A |
 | 26 | [apo happy birthday](http://twitter.com/search?q=apo+happy+birthday) | N/A |
 | 27 | [mỹ diệu](http://twitter.com/search?q=m%e1%bb%b9+di%e1%bb%87u) | N/A |
 | 28 | [Earth](http://twitter.com/search?q=Earth) | N/A |
-| 29 | [Optimism](http://twitter.com/search?q=Optimism) | N/A |
-| 30 | [khóc](http://twitter.com/search?q=kh%c3%b3c) | N/A |
-| 31 | [đánh](http://twitter.com/search?q=%c4%91%c3%a1nh) | N/A |
-| 32 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 33 | [Explore Yields](http://twitter.com/search?q=Explore+Yields) | N/A |
-| 34 | [hưng](http://twitter.com/search?q=h%c6%b0ng) | N/A |
-| 35 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 36 | [đà nẵng](http://twitter.com/search?q=%c4%91%c3%a0+n%e1%ba%b5ng) | N/A |
-| 37 | [Hihi](http://twitter.com/search?q=Hihi) | N/A |
-| 38 | [Dodo](http://twitter.com/search?q=Dodo) | N/A |
-| 39 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
-| 40 | [JINNYS KITCHEN WITH V TODAY](http://twitter.com/search?q=JINNYS+KITCHEN+WITH+V+TODAY) | N/A |
-| 41 | [OP Stack](http://twitter.com/search?q=OP+Stack) | N/A |
-| 42 | [Kiana](http://twitter.com/search?q=Kiana) | N/A |
-| 43 | [Get 15](http://twitter.com/search?q=Get+15) | N/A |
-| 44 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 45 | [cách](http://twitter.com/search?q=c%c3%a1ch) | N/A |
-| 46 | [Muốn](http://twitter.com/search?q=Mu%e1%bb%91n) | N/A |
-| 47 | [#FERRAGAMOxJENO](http://twitter.com/search?q=%23FERRAGAMOxJENO) | N/A |
-| 48 | [#FinalMissGrandLoei2023](http://twitter.com/search?q=%23FinalMissGrandLoei2023) | N/A |
-| 49 | [#synkwithacewinter](http://twitter.com/search?q=%23synkwithacewinter) | N/A |
-| 50 | [#MySchoolPresidentFinalEP](http://twitter.com/search?q=%23MySchoolPresidentFinalEP) | N/A |
+| 29 | [Joong](http://twitter.com/search?q=Joong) | N/A |
+| 30 | [Optimism](http://twitter.com/search?q=Optimism) | N/A |
+| 31 | [khóc](http://twitter.com/search?q=kh%c3%b3c) | N/A |
+| 32 | [đánh](http://twitter.com/search?q=%c4%91%c3%a1nh) | N/A |
+| 33 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 34 | [Explore Yields](http://twitter.com/search?q=Explore+Yields) | N/A |
+| 35 | [hưng](http://twitter.com/search?q=h%c6%b0ng) | N/A |
+| 36 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 37 | [đà nẵng](http://twitter.com/search?q=%c4%91%c3%a0+n%e1%ba%b5ng) | N/A |
+| 38 | [Hihi](http://twitter.com/search?q=Hihi) | N/A |
+| 39 | [Dodo](http://twitter.com/search?q=Dodo) | N/A |
+| 40 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
+| 41 | [JINNYS KITCHEN WITH V TODAY](http://twitter.com/search?q=JINNYS+KITCHEN+WITH+V+TODAY) | N/A |
+| 42 | [OP Stack](http://twitter.com/search?q=OP+Stack) | N/A |
+| 43 | [Kiana](http://twitter.com/search?q=Kiana) | N/A |
+| 44 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 45 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 46 | [cách](http://twitter.com/search?q=c%c3%a1ch) | N/A |
+| 47 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 48 | [#FERRAGAMOxJENO](http://twitter.com/search?q=%23FERRAGAMOxJENO) | N/A |
+| 49 | [#FinalMissGrandLoei2023](http://twitter.com/search?q=%23FinalMissGrandLoei2023) | N/A |
 
 
 
