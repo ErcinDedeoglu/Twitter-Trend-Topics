@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Poznań
 
-📆 Last Updated: `2023-02-26 17:16:13 UTC`
+📆 Last Updated: `2023-02-26 18:16:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Poland](</Poland>)
 | ------- | ------------ | ------------ |
 | 1 | [#tubijeserceeuropy](http://twitter.com/search?q=%23tubijeserceeuropy) | N/A |
 | 2 | [#Eurovision](http://twitter.com/search?q=%23Eurovision) | N/A |
-| 3 | [#TAURONPucharPolski](http://twitter.com/search?q=%23TAURONPucharPolski) | N/A |
-| 4 | [#ŚLĄLPO](http://twitter.com/search?q=%23%c5%9aL%c4%84LPO) | N/A |
-| 5 | [#krwawaropa](http://twitter.com/search?q=%23krwawaropa) | N/A |
-| 6 | [Orlen](http://twitter.com/search?q=Orlen) | N/A |
-| 7 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 8 | [Piotr Żyła](http://twitter.com/search?q=Piotr+%c5%bby%c5%82a) | N/A |
-| 9 | [Nataszy](http://twitter.com/search?q=Nataszy) | N/A |
-| 10 | [Murawskiego](http://twitter.com/search?q=Murawskiego) | N/A |
-| 11 | [Obajtek](http://twitter.com/search?q=Obajtek) | N/A |
-| 12 | [Ziyecha](http://twitter.com/search?q=Ziyecha) | N/A |
-| 13 | [Janna](http://twitter.com/search?q=Janna) | N/A |
-| 14 | [Zaksy](http://twitter.com/search?q=Zaksy) | N/A |
-| 15 | [Krzysztof Piątek](http://twitter.com/search?q=Krzysztof+Pi%c4%85tek) | N/A |
-| 16 | [Ukrainy](http://twitter.com/search?q=Ukrainy) | N/A |
-| 17 | [Marsylii](http://twitter.com/search?q=Marsylii) | N/A |
-| 18 | [Kowalczyka](http://twitter.com/search?q=Kowalczyka) | N/A |
-| 19 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 20 | [Holec](http://twitter.com/search?q=Holec) | N/A |
-| 21 | [Kropiwnicki](http://twitter.com/search?q=Kropiwnicki) | N/A |
-| 22 | [Kliczko](http://twitter.com/search?q=Kliczko) | N/A |
-| 23 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 24 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 25 | [Hubert Hurkacz](http://twitter.com/search?q=Hubert+Hurkacz) | N/A |
-| 26 | [z 13](http://twitter.com/search?q=z+13) | N/A |
-| 27 | [Śląska](http://twitter.com/search?q=%c5%9al%c4%85ska) | N/A |
-| 28 | [Arki](http://twitter.com/search?q=Arki) | N/A |
-| 29 | [Jankowski](http://twitter.com/search?q=Jankowski) | N/A |
-| 30 | [Pogoni](http://twitter.com/search?q=Pogoni) | N/A |
-| 31 | [Rebocho](http://twitter.com/search?q=Rebocho) | N/A |
-| 32 | [Przyjaźń](http://twitter.com/search?q=Przyja%c5%ba%c5%84) | N/A |
-| 33 | [Lotos](http://twitter.com/search?q=Lotos) | N/A |
-| 34 | [Piotrka](http://twitter.com/search?q=Piotrka) | N/A |
-| 35 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 36 | [paweł wąsek](http://twitter.com/search?q=pawe%c5%82+w%c4%85sek) | N/A |
-| 37 | [Wisła Płock](http://twitter.com/search?q=Wis%c5%82a+P%c5%82ock) | N/A |
-| 38 | [Seefeld](http://twitter.com/search?q=Seefeld) | N/A |
-| 39 | [Płocku](http://twitter.com/search?q=P%c5%82ocku) | N/A |
-| 40 | [de fries](http://twitter.com/search?q=de+fries) | N/A |
-| 41 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
-| 42 | [Sylwestrzak](http://twitter.com/search?q=Sylwestrzak) | N/A |
-| 43 | [Niedzieli](http://twitter.com/search?q=Niedzieli) | N/A |
-| 44 | [Amaral](http://twitter.com/search?q=Amaral) | N/A |
-| 45 | [Fornal](http://twitter.com/search?q=Fornal) | N/A |
-| 46 | [kubacki](http://twitter.com/search?q=kubacki) | N/A |
-| 47 | [pani marto](http://twitter.com/search?q=pani+marto) | N/A |
-| 48 | [Planicy](http://twitter.com/search?q=Planicy) | N/A |
-| 49 | [Granerud](http://twitter.com/search?q=Granerud) | N/A |
-| 50 | [Kraft](http://twitter.com/search?q=Kraft) | N/A |
+| 3 | [#ŚLĄLPO](http://twitter.com/search?q=%23%c5%9aL%c4%84LPO) | N/A |
+| 4 | [Jann](http://twitter.com/search?q=Jann) | N/A |
+| 5 | [#skijumpingfamily](http://twitter.com/search?q=%23skijumpingfamily) | N/A |
+| 6 | [#krwawaropa](http://twitter.com/search?q=%23krwawaropa) | N/A |
+| 7 | [Orlen](http://twitter.com/search?q=Orlen) | N/A |
+| 8 | [Blanka](http://twitter.com/search?q=Blanka) | N/A |
+| 9 | [Eurowizję](http://twitter.com/search?q=Eurowizj%c4%99) | N/A |
+| 10 | [Piotr Żyła](http://twitter.com/search?q=Piotr+%c5%bby%c5%82a) | N/A |
+| 11 | [Murawski](http://twitter.com/search?q=Murawski) | N/A |
+| 12 | [Natasza](http://twitter.com/search?q=Natasza) | N/A |
+| 13 | [Alicja](http://twitter.com/search?q=Alicja) | N/A |
+| 14 | [Śląska](http://twitter.com/search?q=%c5%9al%c4%85ska) | N/A |
+| 15 | [Rebocho](http://twitter.com/search?q=Rebocho) | N/A |
+| 16 | [Yeboah](http://twitter.com/search?q=Yeboah) | N/A |
+| 17 | [Obajtek](http://twitter.com/search?q=Obajtek) | N/A |
+| 18 | [Dominik Dudek](http://twitter.com/search?q=Dominik+Dudek) | N/A |
+| 19 | [Holec](http://twitter.com/search?q=Holec) | N/A |
+| 20 | [Edyta Górniak](http://twitter.com/search?q=Edyta+G%c3%b3rniak) | N/A |
+| 21 | [Maja Hyży](http://twitter.com/search?q=Maja+Hy%c5%bcy) | N/A |
+| 22 | [Marchewa](http://twitter.com/search?q=Marchewa) | N/A |
+| 23 | [Amaral](http://twitter.com/search?q=Amaral) | N/A |
+| 24 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
+| 25 | [Yan Majewski](http://twitter.com/search?q=Yan+Majewski) | N/A |
+| 26 | [Marchwiński](http://twitter.com/search?q=Marchwi%c5%84ski) | N/A |
+| 27 | [Ariana Grande](http://twitter.com/search?q=Ariana+Grande) | N/A |
+| 28 | [Brom](http://twitter.com/search?q=Brom) | N/A |
+| 29 | [Felivers](http://twitter.com/search?q=Felivers) | N/A |
+| 30 | [Lecha](http://twitter.com/search?q=Lecha) | N/A |
+| 31 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 32 | [Krzysztof Piątek](http://twitter.com/search?q=Krzysztof+Pi%c4%85tek) | N/A |
+| 33 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 34 | [Kinga Rajda](http://twitter.com/search?q=Kinga+Rajda) | N/A |
+| 35 | [Kropiwnicki](http://twitter.com/search?q=Kropiwnicki) | N/A |
+| 36 | [Marsylii](http://twitter.com/search?q=Marsylii) | N/A |
+| 37 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 38 | [Sousa](http://twitter.com/search?q=Sousa) | N/A |
+| 39 | [Gladiator](http://twitter.com/search?q=Gladiator) | Gladiator is a 2000 historical epic film directed by Ridley Scott. It stars Russell Crowe as the fictional character Maximus Decimus Meridius, a Roman general who is betrayed and enslaved, and then fights in the gladiatorial arena to gain his freedom. The term "gladiator" refers to a professional fighter in ancient Rome who fought against other gladiators or wild animals for the entertainment of the public. |
+| 40 | [Jankowski](http://twitter.com/search?q=Jankowski) | N/A |
+| 41 | [z 13](http://twitter.com/search?q=z+13) | N/A |
+| 42 | [ZAKSA](http://twitter.com/search?q=ZAKSA) | N/A |
+| 43 | [Ziyecha](http://twitter.com/search?q=Ziyecha) | N/A |
+| 44 | [Kliczko](http://twitter.com/search?q=Kliczko) | N/A |
+| 45 | [Hubert Hurkacz](http://twitter.com/search?q=Hubert+Hurkacz) | N/A |
+| 46 | [Ukrainę](http://twitter.com/search?q=Ukrain%c4%99) | N/A |
+| 47 | [Piotrka](http://twitter.com/search?q=Piotrka) | N/A |
+| 48 | [Lotos](http://twitter.com/search?q=Lotos) | N/A |
+| 49 | [Pogonią](http://twitter.com/search?q=Pogoni%c4%85) | N/A |
+| 50 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
 
 
 

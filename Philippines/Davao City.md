@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Davao City
 
-📆 Last Updated: `2023-02-26 17:16:31 UTC`
+📆 Last Updated: `2023-02-26 18:16:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,46 +22,38 @@ This is top 50 for [Philippines](</Philippines>)
 | 5 | [TENLEE 27th BDAY](http://twitter.com/search?q=TENLEE+27th+BDAY) | N/A |
 | 6 | [READY TO BE THRILLED](http://twitter.com/search?q=READY+TO+BE+THRILLED) | N/A |
 | 7 | [KAI Rover Teaser Image 1](http://twitter.com/search?q=KAI+Rover+Teaser+Image+1) | N/A |
-| 8 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
-| 9 | [HAPPY BIRTHDAY TEN](http://twitter.com/search?q=HAPPY+BIRTHDAY+TEN) | N/A |
+| 8 | [HAPPY BIRTHDAY TEN](http://twitter.com/search?q=HAPPY+BIRTHDAY+TEN) | N/A |
+| 9 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
 | 10 | [ON THE STREET](http://twitter.com/search?q=ON+THE+STREET) | N/A |
 | 11 | [Happy HOONthousand Days](http://twitter.com/search?q=Happy+HOONthousand+Days) | N/A |
 | 12 | [Jeff](http://twitter.com/search?q=Jeff) | N/A |
-| 13 | [TogHEEther for a THOUSAND DAYS](http://twitter.com/search?q=TogHEEther+for+a+THOUSAND+DAYS) | N/A |
-| 14 | [KIM JONGIN](http://twitter.com/search?q=KIM+JONGIN) | N/A |
+| 13 | [Liza](http://twitter.com/search?q=Liza) | N/A |
+| 14 | [TogHEEther for a THOUSAND DAYS](http://twitter.com/search?q=TogHEEther+for+a+THOUSAND+DAYS) | N/A |
 | 15 | [1M LOVE FOR FRANSETH](http://twitter.com/search?q=1M+LOVE+FOR+FRANSETH) | N/A |
-| 16 | [Liza](http://twitter.com/search?q=Liza) | N/A |
+| 16 | [Reply 1988](http://twitter.com/search?q=Reply+1988) | N/A |
 | 17 | [jhope](http://twitter.com/search?q=jhope) | N/A |
-| 18 | [Reply 1988](http://twitter.com/search?q=Reply+1988) | N/A |
-| 19 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
-| 20 | [TREASURE HARUTO](http://twitter.com/search?q=TREASURE+HARUTO) | N/A |
-| 21 | [woozi](http://twitter.com/search?q=woozi) | N/A |
-| 22 | [HAN JISUNG](http://twitter.com/search?q=HAN+JISUNG) | HAN JISUNG is the stage name of South Korean singer and actor Han Ji-sung. He is a member of the K-pop boy group Stray Kids. The name "HAN JISUNG" can be translated to mean "one who stands out" in English. |
-| 23 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
-| 24 | [Beomgyu](http://twitter.com/search?q=Beomgyu) | N/A |
-| 25 | [Kathryn](http://twitter.com/search?q=Kathryn) | N/A |
-| 26 | [Stranger Things](http://twitter.com/search?q=Stranger+Things) | N/A |
-| 27 | [Game of Thrones](http://twitter.com/search?q=Game+of+Thrones) | N/A |
-| 28 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 29 | [Modern Family](http://twitter.com/search?q=Modern+Family) | Modern Family is an American television mockumentary sitcom created by Christopher Lloyd and Steven Levitan for the ABC network. It follows the lives of three related families, the Pritchetts, Dunphys, and Tuckers, who all live in Los Angeles. The show focuses on the characters' relationships with each other and their attempts to navigate modern life. The title of the show is a reference to the changing nature of family life in today's society. |
-| 30 | [Nadine](http://twitter.com/search?q=Nadine) | Nadine is a female given name of French origin, derived from the name Nadia. It is a variant of the name Nadia, which is derived from the Russian name Nadezhda, meaning “hope”. |
-| 31 | [#TWICE_ConceptPhotoD5](http://twitter.com/search?q=%23TWICE_ConceptPhotoD5) | N/A |
-| 32 | [#teayiixsrchafreen](http://twitter.com/search?q=%23teayiixsrchafreen) | N/A |
-| 33 | [#AHYEON](http://twitter.com/search?q=%23AHYEON) | N/A |
-| 34 | [#D1000WithSUNGHOON](http://twitter.com/search?q=%23D1000WithSUNGHOON) | N/A |
-| 35 | [#PARKJINYOUNGinMNL2023](http://twitter.com/search?q=%23PARKJINYOUNGinMNL2023) | N/A |
-| 36 | [#CrashCourseInRomanceEp14](http://twitter.com/search?q=%23CrashCourseInRomanceEp14) | N/A |
-| 37 | [#TheEndofKinnPorsche](http://twitter.com/search?q=%23TheEndofKinnPorsche) | N/A |
-| 38 | [#O_D8](http://twitter.com/search?q=%23O_D8) | N/A |
-| 39 | [#1000DAYS_SARANGHEE](http://twitter.com/search?q=%231000DAYS_SARANGHEE) | N/A |
-| 40 | [#RendezvousinMNL](http://twitter.com/search?q=%23RendezvousinMNL) | N/A |
-| 41 | [#KMJS](http://twitter.com/search?q=%23KMJS) | N/A |
-| 42 | [#WayV](http://twitter.com/search?q=%23WayV) | N/A |
-| 43 | [#HexLivewire](http://twitter.com/search?q=%23HexLivewire) | N/A |
-| 44 | [#FranSeth4thVPCA](http://twitter.com/search?q=%23FranSeth4thVPCA) | N/A |
-| 45 | [#선우_1000일_축하해](http://twitter.com/search?q=%23%ec%84%a0%ec%9a%b0_1000%ec%9d%bc_%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
-| 46 | [#TVKPH5inColor](http://twitter.com/search?q=%23TVKPH5inColor) | N/A |
-| 47 | [#FiLayThanksgivingFansDay](http://twitter.com/search?q=%23FiLayThanksgivingFansDay) | N/A |
+| 18 | [TREASURE HARUTO](http://twitter.com/search?q=TREASURE+HARUTO) | N/A |
+| 19 | [han jisung](http://twitter.com/search?q=han+jisung) | N/A |
+| 20 | [woozi](http://twitter.com/search?q=woozi) | N/A |
+| 21 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
+| 22 | [Beomgyu](http://twitter.com/search?q=Beomgyu) | N/A |
+| 23 | [Kathryn](http://twitter.com/search?q=Kathryn) | N/A |
+| 24 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 25 | [Modern Family](http://twitter.com/search?q=Modern+Family) | Modern Family is an American television mockumentary sitcom created by Christopher Lloyd and Steven Levitan for the ABC network. It follows the lives of three related families, the Pritchetts, Dunphys, and Tuckers, who all live in Los Angeles. The show focuses on the characters' relationships with each other and their attempts to navigate modern life. The title of the show is a reference to the changing nature of family life in today's society. |
+| 26 | [#TWICE_ConceptPhotoD5](http://twitter.com/search?q=%23TWICE_ConceptPhotoD5) | N/A |
+| 27 | [#teayiixsrchafreen](http://twitter.com/search?q=%23teayiixsrchafreen) | N/A |
+| 28 | [#AHYEON](http://twitter.com/search?q=%23AHYEON) | N/A |
+| 29 | [#CrashCourseInRomanceEp14](http://twitter.com/search?q=%23CrashCourseInRomanceEp14) | N/A |
+| 30 | [#PARKJINYOUNGinMNL2023](http://twitter.com/search?q=%23PARKJINYOUNGinMNL2023) | N/A |
+| 31 | [#D1000WithSUNGHOON](http://twitter.com/search?q=%23D1000WithSUNGHOON) | N/A |
+| 32 | [#TheEndofKinnPorsche](http://twitter.com/search?q=%23TheEndofKinnPorsche) | N/A |
+| 33 | [#RendezvousinMNL](http://twitter.com/search?q=%23RendezvousinMNL) | N/A |
+| 34 | [#1000DAYS_SARANGHEE](http://twitter.com/search?q=%231000DAYS_SARANGHEE) | N/A |
+| 35 | [#KMJS](http://twitter.com/search?q=%23KMJS) | N/A |
+| 36 | [#WayV](http://twitter.com/search?q=%23WayV) | N/A |
+| 37 | [#HexLivewire](http://twitter.com/search?q=%23HexLivewire) | N/A |
+| 38 | [#선우_1000일_축하해](http://twitter.com/search?q=%23%ec%84%a0%ec%9a%b0_1000%ec%9d%bc_%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
+| 39 | [#HEESEUNG](http://twitter.com/search?q=%23HEESEUNG) | N/A |
 
 
 

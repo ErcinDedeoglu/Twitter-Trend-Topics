@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philippines
 
-📆 Last Updated: `2023-02-26 17:17:02 UTC`
+📆 Last Updated: `2023-02-26 18:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Philippines
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#테니생일_축하축하_하네요](http://twitter.com/search?q=%23%ed%85%8c%eb%8b%88%ec%83%9d%ec%9d%bc_%ec%b6%95%ed%95%98%ec%b6%95%ed%95%98_%ed%95%98%eb%84%a4%ec%9a%94) | N/A |
-| 2 | [#ShineBrightKitTENDay](http://twitter.com/search?q=%23ShineBrightKitTENDay) | N/A |
-| 3 | [#ROVER_1stTeaser](http://twitter.com/search?q=%23ROVER_1stTeaser) | N/A |
-| 4 | [#KAI_Rover](http://twitter.com/search?q=%23KAI_Rover) | N/A |
-| 5 | [#TWICE_ConceptPhotoD5](http://twitter.com/search?q=%23TWICE_ConceptPhotoD5) | N/A |
-| 6 | [TENLEE 27th BDAY](http://twitter.com/search?q=TENLEE+27th+BDAY) | N/A |
-| 7 | [READY TO BE THRILLED](http://twitter.com/search?q=READY+TO+BE+THRILLED) | N/A |
-| 8 | [KAI Rover Teaser Image 1](http://twitter.com/search?q=KAI+Rover+Teaser+Image+1) | N/A |
-| 9 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
-| 10 | [HAPPY BIRTHDAY TEN](http://twitter.com/search?q=HAPPY+BIRTHDAY+TEN) | N/A |
-| 11 | [ON THE STREET](http://twitter.com/search?q=ON+THE+STREET) | N/A |
-| 12 | [Happy HOONthousand Days](http://twitter.com/search?q=Happy+HOONthousand+Days) | N/A |
-| 13 | [Jeff](http://twitter.com/search?q=Jeff) | N/A |
-| 14 | [TogHEEther for a THOUSAND DAYS](http://twitter.com/search?q=TogHEEther+for+a+THOUSAND+DAYS) | N/A |
-| 15 | [KIM JONGIN](http://twitter.com/search?q=KIM+JONGIN) | N/A |
-| 16 | [Liza](http://twitter.com/search?q=Liza) | N/A |
-| 17 | [1M LOVE FOR FRANSETH](http://twitter.com/search?q=1M+LOVE+FOR+FRANSETH) | N/A |
-| 18 | [jhope](http://twitter.com/search?q=jhope) | N/A |
-| 19 | [Reply 1988](http://twitter.com/search?q=Reply+1988) | N/A |
-| 20 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
-| 21 | [TREASURE HARUTO](http://twitter.com/search?q=TREASURE+HARUTO) | N/A |
-| 22 | [woozi](http://twitter.com/search?q=woozi) | N/A |
-| 23 | [HAN JISUNG](http://twitter.com/search?q=HAN+JISUNG) | HAN JISUNG is the stage name of South Korean singer and actor Han Ji-sung. He is a member of the K-pop boy group Stray Kids. The name "HAN JISUNG" can be translated to mean "one who stands out" in English. |
-| 24 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
-| 25 | [Beomgyu](http://twitter.com/search?q=Beomgyu) | N/A |
-| 26 | [Kathryn](http://twitter.com/search?q=Kathryn) | N/A |
-| 27 | [Stranger Things](http://twitter.com/search?q=Stranger+Things) | N/A |
-| 28 | [Game of Thrones](http://twitter.com/search?q=Game+of+Thrones) | N/A |
-| 29 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 30 | [Modern Family](http://twitter.com/search?q=Modern+Family) | Modern Family is an American television mockumentary sitcom created by Christopher Lloyd and Steven Levitan for the ABC network. It follows the lives of three related families, the Pritchetts, Dunphys, and Tuckers, who all live in Los Angeles. The show focuses on the characters' relationships with each other and their attempts to navigate modern life. The title of the show is a reference to the changing nature of family life in today's society. |
-| 31 | [Nadine](http://twitter.com/search?q=Nadine) | Nadine is a female given name of French origin, derived from the name Nadia. It is a variant of the name Nadia, which is derived from the Russian name Nadezhda, meaning “hope”. |
-| 32 | [#teayiixsrchafreen](http://twitter.com/search?q=%23teayiixsrchafreen) | N/A |
-| 33 | [#AHYEON](http://twitter.com/search?q=%23AHYEON) | N/A |
-| 34 | [#D1000WithSUNGHOON](http://twitter.com/search?q=%23D1000WithSUNGHOON) | N/A |
-| 35 | [#CrashCourseInRomanceEp14](http://twitter.com/search?q=%23CrashCourseInRomanceEp14) | N/A |
-| 36 | [#PARKJINYOUNGinMNL2023](http://twitter.com/search?q=%23PARKJINYOUNGinMNL2023) | N/A |
-| 37 | [#TheEndofKinnPorsche](http://twitter.com/search?q=%23TheEndofKinnPorsche) | N/A |
-| 38 | [#O_D8](http://twitter.com/search?q=%23O_D8) | N/A |
-| 39 | [#1000DAYS_SARANGHEE](http://twitter.com/search?q=%231000DAYS_SARANGHEE) | N/A |
-| 40 | [#RendezvousinMNL](http://twitter.com/search?q=%23RendezvousinMNL) | N/A |
-| 41 | [#KMJS](http://twitter.com/search?q=%23KMJS) | N/A |
-| 42 | [#WayV](http://twitter.com/search?q=%23WayV) | N/A |
-| 43 | [#HexLivewire](http://twitter.com/search?q=%23HexLivewire) | N/A |
-| 44 | [#FranSeth4thVPCA](http://twitter.com/search?q=%23FranSeth4thVPCA) | N/A |
-| 45 | [#선우_1000일_축하해](http://twitter.com/search?q=%23%ec%84%a0%ec%9a%b0_1000%ec%9d%bc_%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
-| 46 | [#TVKPH5inColor](http://twitter.com/search?q=%23TVKPH5inColor) | N/A |
-| 47 | [#FiLayThanksgivingFansDay](http://twitter.com/search?q=%23FiLayThanksgivingFansDay) | N/A |
-| 48 | [#KissesDelavin](http://twitter.com/search?q=%23KissesDelavin) | N/A |
-| 49 | [#HEESEUNG](http://twitter.com/search?q=%23HEESEUNG) | N/A |
-| 50 | [#FiLayThanksgivingEvent](http://twitter.com/search?q=%23FiLayThanksgivingEvent) | N/A |
+| 1 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 2 | [#UAAPSeason85](http://twitter.com/search?q=%23UAAPSeason85) | N/A |
+| 3 | [#PARKJINYOUNGinMNL2023](http://twitter.com/search?q=%23PARKJINYOUNGinMNL2023) | N/A |
+| 4 | [#테니생일_축하축하_하네요](http://twitter.com/search?q=%23%ed%85%8c%eb%8b%88%ec%83%9d%ec%9d%bc_%ec%b6%95%ed%95%98%ec%b6%95%ed%95%98_%ed%95%98%eb%84%a4%ec%9a%94) | N/A |
+| 5 | [#ShineBrightKitTENDay](http://twitter.com/search?q=%23ShineBrightKitTENDay) | N/A |
+| 6 | [WILDTONIGHT ON AOS](http://twitter.com/search?q=WILDTONIGHT+ON+AOS) | N/A |
+| 7 | [#TWICE_ConceptPhotoD5](http://twitter.com/search?q=%23TWICE_ConceptPhotoD5) | N/A |
+| 8 | [READY TO BE THRILLED](http://twitter.com/search?q=READY+TO+BE+THRILLED) | N/A |
+| 9 | [Liza](http://twitter.com/search?q=Liza) | N/A |
+| 10 | [TENLEE 27th BDAY](http://twitter.com/search?q=TENLEE+27th+BDAY) | N/A |
+| 11 | [Canino](http://twitter.com/search?q=Canino) | N/A |
+| 12 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
+| 13 | [HAPPY 23RD BDAY ALEXA](http://twitter.com/search?q=HAPPY+23RD+BDAY+ALEXA) | N/A |
+| 14 | [ON THE STREET](http://twitter.com/search?q=ON+THE+STREET) | N/A |
+| 15 | [all out josh cullen](http://twitter.com/search?q=all+out+josh+cullen) | N/A |
+| 16 | [2seok](http://twitter.com/search?q=2seok) | N/A |
+| 17 | [jhope](http://twitter.com/search?q=jhope) | N/A |
+| 18 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 19 | [bgyo at singkamasaya fest](http://twitter.com/search?q=bgyo+at+singkamasaya+fest) | N/A |
+| 20 | [La Salle](http://twitter.com/search?q=La+Salle) | N/A |
+| 21 | [synk with aespa day1](http://twitter.com/search?q=synk+with+aespa+day1) | N/A |
+| 22 | [TogHEEther for a THOUSAND DAYS](http://twitter.com/search?q=TogHEEther+for+a+THOUSAND+DAYS) | N/A |
+| 23 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 24 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
+| 25 | [Happy HOONthousand Days](http://twitter.com/search?q=Happy+HOONthousand+Days) | N/A |
+| 26 | [maricel soriano day](http://twitter.com/search?q=maricel+soriano+day) | N/A |
+| 27 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 28 | [Jeff](http://twitter.com/search?q=Jeff) | N/A |
+| 29 | [Top 8](http://twitter.com/search?q=Top+8) | N/A |
+| 30 | [Milena](http://twitter.com/search?q=Milena) | N/A |
+| 31 | [kdlex tumindig at umibig](http://twitter.com/search?q=kdlex+tumindig+at+umibig) | N/A |
+| 32 | [1M LOVE FOR FRANSETH](http://twitter.com/search?q=1M+LOVE+FOR+FRANSETH) | N/A |
+| 33 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 34 | [Kim Sunoo](http://twitter.com/search?q=Kim+Sunoo) | N/A |
+| 35 | [jihoon](http://twitter.com/search?q=jihoon) | N/A |
+| 36 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 37 | [LUCKYBEAUTY TIKTOKLIVESELLING](http://twitter.com/search?q=LUCKYBEAUTY+TIKTOKLIVESELLING) | N/A |
+| 38 | [BINI OUR MODESS GIRLS](http://twitter.com/search?q=BINI+OUR+MODESS+GIRLS) | N/A |
+| 39 | [WITH JIMIN TILL THE END](http://twitter.com/search?q=WITH+JIMIN+TILL+THE+END) | "WITH JIMIN TILL THE END" is a phrase used by fans of the South Korean boy band BTS to express their loyalty and support for the group's member Jimin. It is often used as a hashtag on social media or as a slogan for fan merchandise. The phrase means that the fans will remain loyal and supportive of Jimin until the end. |
+| 40 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
+| 41 | [Jennie](http://twitter.com/search?q=Jennie) | Jennie is a female given name, derived from the name Jennifer. It is a diminutive form of Jennifer, which means "white wave" or "fair one". |
+| 42 | [ZACHAMxROBXINE EPLfinale](http://twitter.com/search?q=ZACHAMxROBXINE+EPLfinale) | N/A |
+| 43 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
+| 44 | [BETTER TREATMENT FOR IRENE](http://twitter.com/search?q=BETTER+TREATMENT+FOR+IRENE) | N/A |
+| 45 | [TREASURE HARUTO](http://twitter.com/search?q=TREASURE+HARUTO) | N/A |
+| 46 | [Eya Laure](http://twitter.com/search?q=Eya+Laure) | N/A |
+| 47 | [SECRET OF SWEET OASIS](http://twitter.com/search?q=SECRET+OF+SWEET+OASIS) | N/A |
+| 48 | [seulgi](http://twitter.com/search?q=seulgi) | Seulgi is a Korean name that means "wisdom and justice". It is often given to girls and is derived from the Sino-Korean characters for "wise" (seon) and "justice" (gi). |
+| 49 | [MINGYU INNISFREE GLOBAL MODEL](http://twitter.com/search?q=MINGYU+INNISFREE+GLOBAL+MODEL) | N/A |
+| 50 | [iwantasap wewantralphgail](http://twitter.com/search?q=iwantasap+wewantralphgail) | N/A |
 
 
 
