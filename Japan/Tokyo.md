@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tokyo
 
-📆 Last Updated: `2023-02-26 05:16:00 UTC`
+📆 Last Updated: `2023-02-26 06:16:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [ホビさん](http://twitter.com/search?q=%e3%83%9b%e3%83%93%e3%81%95%e3%82%93) | N/A |
-| 2 | [#zelvia](http://twitter.com/search?q=%23zelvia) | N/A |
-| 3 | [澤井くん](http://twitter.com/search?q=%e6%be%a4%e4%ba%95%e3%81%8f%e3%82%93) | N/A |
-| 4 | [#羽生結弦](http://twitter.com/search?q=%23%e7%be%bd%e7%94%9f%e7%b5%90%e5%bc%a6) | N/A |
-| 5 | [#スクール革命](http://twitter.com/search?q=%23%e3%82%b9%e3%82%af%e3%83%bc%e3%83%ab%e9%9d%a9%e5%91%bd) | N/A |
-| 6 | [大千秋楽](http://twitter.com/search?q=%e5%a4%a7%e5%8d%83%e7%a7%8b%e6%a5%bd) | 大千秋楽 is a Japanese phrase that literally translates to "grand finale of a thousand autumns". It is used to refer to the end of something grand or significant, such as a long-running performance or event. |
-| 7 | [#WACK野音](http://twitter.com/search?q=%23WACK%e9%87%8e%e9%9f%b3) | N/A |
-| 8 | [#高橋李依1stLIVE](http://twitter.com/search?q=%23%e9%ab%98%e6%a9%8b%e6%9d%8e%e4%be%9d1stLIVE) | N/A |
-| 9 | [A賞希望](http://twitter.com/search?q=A%e8%b3%9e%e5%b8%8c%e6%9c%9b) | N/A |
-| 10 | [スタニングローズ](http://twitter.com/search?q=%e3%82%b9%e3%82%bf%e3%83%8b%e3%83%b3%e3%82%b0%e3%83%ad%e3%83%bc%e3%82%ba) | N/A |
-| 11 | [藤原丈一郎](http://twitter.com/search?q=%e8%97%a4%e5%8e%9f%e4%b8%88%e4%b8%80%e9%83%8e) | N/A |
-| 12 | [エンビード](http://twitter.com/search?q=%e3%82%a8%e3%83%b3%e3%83%93%e3%83%bc%e3%83%89) | N/A |
-| 13 | [ヒシイグアス](http://twitter.com/search?q=%e3%83%92%e3%82%b7%e3%82%a4%e3%82%b0%e3%82%a2%e3%82%b9) | N/A |
-| 14 | [ソノニちゃん](http://twitter.com/search?q=%e3%82%bd%e3%83%8e%e3%83%8b%e3%81%a1%e3%82%83%e3%82%93) | ソノニちゃん is a character from the Japanese manga series, "Kochira Katsushika-ku Kameari Kōen-mae Hashutsujo". The character's name is Sononi, and her nickname is Sononi-chan. In English, it would be translated to "Little Sononi". |
-| 15 | [カツオさん](http://twitter.com/search?q=%e3%82%ab%e3%83%84%e3%82%aa%e3%81%95%e3%82%93) | N/A |
-| 16 | [五色田介](http://twitter.com/search?q=%e4%ba%94%e8%89%b2%e7%94%b0%e4%bb%8b) | N/A |
-| 17 | [ニチアサ](http://twitter.com/search?q=%e3%83%8b%e3%83%81%e3%82%a2%e3%82%b5) | ニチアサ is a Japanese company that specializes in the production of stationery and office supplies. The name is derived from the Japanese words "nichi" (日) meaning "day" and "asahi" (朝日) meaning "morning sun". In English, the name can be translated to mean "Morning Sun Stationery". |
-| 18 | [指名手配](http://twitter.com/search?q=%e6%8c%87%e5%90%8d%e6%89%8b%e9%85%8d) | N/A |
-| 19 | [kyouさん](http://twitter.com/search?q=kyou%e3%81%95%e3%82%93) | N/A |
-| 20 | [ドンブラザーズ](http://twitter.com/search?q=%e3%83%89%e3%83%b3%e3%83%96%e3%83%a9%e3%82%b6%e3%83%bc%e3%82%ba) | N/A |
-| 21 | [丈くんドラマ](http://twitter.com/search?q=%e4%b8%88%e3%81%8f%e3%82%93%e3%83%89%e3%83%a9%e3%83%9e) | N/A |
-| 22 | [許斐先生](http://twitter.com/search?q=%e8%a8%b1%e6%96%90%e5%85%88%e7%94%9f) | N/A |
-| 23 | [秘匿2PL](http://twitter.com/search?q=%e7%a7%98%e5%8c%bf2PL) | N/A |
-| 24 | [他人の生命](http://twitter.com/search?q=%e4%bb%96%e4%ba%ba%e3%81%ae%e7%94%9f%e5%91%bd) | N/A |
-| 25 | [フォレストページ](http://twitter.com/search?q=%e3%83%95%e3%82%a9%e3%83%ac%e3%82%b9%e3%83%88%e3%83%9a%e3%83%bc%e3%82%b8) | N/A |
-| 26 | [ダメバフ](http://twitter.com/search?q=%e3%83%80%e3%83%a1%e3%83%90%e3%83%95) | N/A |
-| 27 | [プリキュア](http://twitter.com/search?q=%e3%83%97%e3%83%aa%e3%82%ad%e3%83%a5%e3%82%a2) | プリキュア is short for "Pretty Cure," a popular Japanese magical girl anime series. The series follows the adventures of a group of girls who transform into powerful warriors to protect the world from evil forces. In English, it can be translated as "Pretty Cure." |
-| 28 | [中山記念](http://twitter.com/search?q=%e4%b8%ad%e5%b1%b1%e8%a8%98%e5%bf%b5) | N/A |
-| 29 | [ムラサメ](http://twitter.com/search?q=%e3%83%a0%e3%83%a9%e3%82%b5%e3%83%a1) | ムラサメ is a type of Japanese fish. It is also known as the Japanese butterfish or the striped beakfish. In English, it is sometimes referred to as the Striped Marlin. |
-| 30 | [DUEL](http://twitter.com/search?q=DUEL) | N/A |
-| 31 | [パンサラッサ](http://twitter.com/search?q=%e3%83%91%e3%83%b3%e3%82%b5%e3%83%a9%e3%83%83%e3%82%b5) | パンサラッサ is a type of traditional Japanese dance that originated in the Edo period. It is performed by two people, one playing the role of a panther and the other playing the role of a hunter. The panther dances around the hunter, trying to avoid being caught. In English, it can be translated as "Panther Dance". |
-| 32 | [アオラキ](http://twitter.com/search?q=%e3%82%a2%e3%82%aa%e3%83%a9%e3%82%ad) | N/A |
-| 33 | [アキーノ](http://twitter.com/search?q=%e3%82%a2%e3%82%ad%e3%83%bc%e3%83%8e) | N/A |
-| 34 | [エエヤン](http://twitter.com/search?q=%e3%82%a8%e3%82%a8%e3%83%a4%e3%83%b3) | N/A |
-| 35 | [イグノー](http://twitter.com/search?q=%e3%82%a4%e3%82%b0%e3%83%8e%e3%83%bc) | N/A |
-| 36 | [オンゲキ](http://twitter.com/search?q=%e3%82%aa%e3%83%b3%e3%82%b2%e3%82%ad) | N/A |
-| 37 | [東大物理](http://twitter.com/search?q=%e6%9d%b1%e5%a4%a7%e7%89%a9%e7%90%86) | N/A |
-| 38 | [キュアプリズム](http://twitter.com/search?q=%e3%82%ad%e3%83%a5%e3%82%a2%e3%83%97%e3%83%aa%e3%82%ba%e3%83%a0) | N/A |
-| 39 | [不健全図書](http://twitter.com/search?q=%e4%b8%8d%e5%81%a5%e5%85%a8%e5%9b%b3%e6%9b%b8) | N/A |
-| 40 | [熱愛報道](http://twitter.com/search?q=%e7%86%b1%e6%84%9b%e5%a0%b1%e9%81%93) | 熱愛報道 is a Japanese term that refers to news reports about celebrity couples who are in a romantic relationship. It literally translates to "hot love report". |
-| 41 | [ハートフル](http://twitter.com/search?q=%e3%83%8f%e3%83%bc%e3%83%88%e3%83%95%e3%83%ab) | N/A |
-| 42 | [キングオージャー](http://twitter.com/search?q=%e3%82%ad%e3%83%b3%e3%82%b0%e3%82%aa%e3%83%bc%e3%82%b8%e3%83%a3%e3%83%bc) | キングオージャー is a Japanese card game similar to the American game of Crazy Eights. The object of the game is to be the first player to get rid of all their cards. The game is played with a standard deck of 52 cards, with each player receiving seven cards at the start. The remaining cards are placed face down in a pile, and the top card is turned over to begin the discard pile. Players must match either the suit or rank of the card on top of the discard pile in order to play a card from their hand. |
-| 43 | [個人サイト](http://twitter.com/search?q=%e5%80%8b%e4%ba%ba%e3%82%b5%e3%82%a4%e3%83%88) | 個人サイト (Kojin Saito) is a type of website created by an individual for personal use. It can be used to showcase a portfolio, share information, or provide a platform for self-expression. In English, it is often referred to as a personal website. |
-| 44 | [配布武器](http://twitter.com/search?q=%e9%85%8d%e5%b8%83%e6%ad%a6%e5%99%a8) | N/A |
-| 45 | [飴取りゲーム](http://twitter.com/search?q=%e9%a3%b4%e5%8f%96%e3%82%8a%e3%82%b2%e3%83%bc%e3%83%a0) | N/A |
-| 46 | [歩行困難](http://twitter.com/search?q=%e6%ad%a9%e8%a1%8c%e5%9b%b0%e9%9b%a3) | N/A |
-| 47 | [会心両手剣](http://twitter.com/search?q=%e4%bc%9a%e5%bf%83%e4%b8%a1%e6%89%8b%e5%89%a3) | N/A |
-| 48 | [ソーヴァリアント](http://twitter.com/search?q=%e3%82%bd%e3%83%bc%e3%83%b4%e3%82%a1%e3%83%aa%e3%82%a2%e3%83%b3%e3%83%88) | N/A |
-| 49 | [車椅子生活](http://twitter.com/search?q=%e8%bb%8a%e6%a4%85%e5%ad%90%e7%94%9f%e6%b4%bb) | N/A |
-| 50 | [関ジャニWEST](http://twitter.com/search?q=%e9%96%a2%e3%82%b8%e3%83%a3%e3%83%8bWEST) | N/A |
+| 1 | [#GIFT_tokyodome](http://twitter.com/search?q=%23GIFT_tokyodome) | N/A |
+| 2 | [TOEIC](http://twitter.com/search?q=TOEIC) | N/A |
+| 3 | [#羽生結弦](http://twitter.com/search?q=%23%e7%be%bd%e7%94%9f%e7%b5%90%e5%bc%a6) | N/A |
+| 4 | [#高橋李依1stLIVE](http://twitter.com/search?q=%23%e9%ab%98%e6%a9%8b%e6%9d%8e%e4%be%9d1stLIVE) | N/A |
+| 5 | [#水戸ホーリーホック](http://twitter.com/search?q=%23%e6%b0%b4%e6%88%b8%e3%83%9b%e3%83%bc%e3%83%aa%e3%83%bc%e3%83%9b%e3%83%83%e3%82%af) | N/A |
+| 6 | [#ns954](http://twitter.com/search?q=%23ns954) | N/A |
+| 7 | [舞香ちゃん](http://twitter.com/search?q=%e8%88%9e%e9%a6%99%e3%81%a1%e3%82%83%e3%82%93) | "舞香ちゃん" is a nickname for the Japanese idol group Nogizaka46's member Maika Ozaki. It is a combination of her given name "Maika" and the Japanese word for fragrance, "Kō". In English, it can be translated to mean "Fragrant Maika". |
+| 8 | [飴取りゲーム](http://twitter.com/search?q=%e9%a3%b4%e5%8f%96%e3%82%8a%e3%82%b2%e3%83%bc%e3%83%a0) | N/A |
+| 9 | [ドーブネ](http://twitter.com/search?q=%e3%83%89%e3%83%bc%e3%83%96%e3%83%8d) | ドーブネ (Dōbune) is a type of traditional Japanese boat. It is a flat-bottomed boat with a pointed bow and stern, and is usually propelled by oars or sails. In English, it is sometimes referred to as a "dugout canoe". |
+| 10 | [ゴールデンハインド](http://twitter.com/search?q=%e3%82%b4%e3%83%bc%e3%83%ab%e3%83%87%e3%83%b3%e3%83%8f%e3%82%a4%e3%83%b3%e3%83%89) | N/A |
+| 11 | [歩行困難](http://twitter.com/search?q=%e6%ad%a9%e8%a1%8c%e5%9b%b0%e9%9b%a3) | N/A |
+| 12 | [松本零士さん追悼](http://twitter.com/search?q=%e6%9d%be%e6%9c%ac%e9%9b%b6%e5%a3%ab%e3%81%95%e3%82%93%e8%bf%bd%e6%82%bc) | N/A |
+| 13 | [内山壮真](http://twitter.com/search?q=%e5%86%85%e5%b1%b1%e5%a3%ae%e7%9c%9f) | N/A |
+| 14 | [車椅子生活](http://twitter.com/search?q=%e8%bb%8a%e6%a4%85%e5%ad%90%e7%94%9f%e6%b4%bb) | N/A |
+| 15 | [WIN5](http://twitter.com/search?q=WIN5) | WIN5 is an acronym for Windows 5.0, which is the fifth major release of the Microsoft Windows operating system. It was released in 1990 and included a number of new features such as improved memory management, better graphics support, and a new user interface. |
+| 16 | [光一くん](http://twitter.com/search?q=%e5%85%89%e4%b8%80%e3%81%8f%e3%82%93) | N/A |
+| 17 | [サンモニ](http://twitter.com/search?q=%e3%82%b5%e3%83%b3%e3%83%a2%e3%83%8b) | N/A |
+| 18 | [SNS困惑](http://twitter.com/search?q=SNS%e5%9b%b0%e6%83%91) | N/A |
+| 19 | [丈くんドラマ](http://twitter.com/search?q=%e4%b8%88%e3%81%8f%e3%82%93%e3%83%89%e3%83%a9%e3%83%9e) | N/A |
+| 20 | [ホビたん](http://twitter.com/search?q=%e3%83%9b%e3%83%93%e3%81%9f%e3%82%93) | N/A |
+| 21 | [ホソクさん](http://twitter.com/search?q=%e3%83%9b%e3%82%bd%e3%82%af%e3%81%95%e3%82%93) | N/A |
+| 22 | [ビッグシーザー](http://twitter.com/search?q=%e3%83%93%e3%83%83%e3%82%b0%e3%82%b7%e3%83%bc%e3%82%b6%e3%83%bc) | N/A |
+| 23 | [中山記念](http://twitter.com/search?q=%e4%b8%ad%e5%b1%b1%e8%a8%98%e5%bf%b5) | N/A |
+| 24 | [許斐先生](http://twitter.com/search?q=%e8%a8%b1%e6%96%90%e5%85%88%e7%94%9f) | N/A |
+| 25 | [ドンブラザーズ](http://twitter.com/search?q=%e3%83%89%e3%83%b3%e3%83%96%e3%83%a9%e3%82%b6%e3%83%bc%e3%82%ba) | N/A |
+| 26 | [ガルちゃん](http://twitter.com/search?q=%e3%82%ac%e3%83%ab%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 27 | [みかちゃん](http://twitter.com/search?q=%e3%81%bf%e3%81%8b%e3%81%a1%e3%82%83%e3%82%93) | みかちゃん is a nickname for the Japanese name Mikako. It is a term of endearment, similar to calling someone "Mika" or "Mikki". In English, it could be translated as "Mika-chan". |
+| 28 | [秘匿2PL](http://twitter.com/search?q=%e7%a7%98%e5%8c%bf2PL) | N/A |
+| 29 | [ガルビス](http://twitter.com/search?q=%e3%82%ac%e3%83%ab%e3%83%93%e3%82%b9) | N/A |
+| 30 | [他人の生命](http://twitter.com/search?q=%e4%bb%96%e4%ba%ba%e3%81%ae%e7%94%9f%e5%91%bd) | N/A |
+| 31 | [山本由伸](http://twitter.com/search?q=%e5%b1%b1%e6%9c%ac%e7%94%b1%e4%bc%b8) | N/A |
+| 32 | [あと5回](http://twitter.com/search?q=%e3%81%82%e3%81%a85%e5%9b%9e) | N/A |
+| 33 | [ソーヴァリアント](http://twitter.com/search?q=%e3%82%bd%e3%83%bc%e3%83%b4%e3%82%a1%e3%83%aa%e3%82%a2%e3%83%b3%e3%83%88) | N/A |
+| 34 | [東大物理](http://twitter.com/search?q=%e6%9d%b1%e5%a4%a7%e7%89%a9%e7%90%86) | N/A |
+| 35 | [伊藤涼太郎](http://twitter.com/search?q=%e4%bc%8a%e8%97%a4%e6%b6%bc%e5%a4%aa%e9%83%8e) | N/A |
+| 36 | [フォレスト](http://twitter.com/search?q=%e3%83%95%e3%82%a9%e3%83%ac%e3%82%b9%e3%83%88) | N/A |
+| 37 | [お師さん](http://twitter.com/search?q=%e3%81%8a%e5%b8%ab%e3%81%95%e3%82%93) | N/A |
+| 38 | [ダメバフ](http://twitter.com/search?q=%e3%83%80%e3%83%a1%e3%83%90%e3%83%95) | N/A |
+| 39 | [ナディアガーズ](http://twitter.com/search?q=%e3%83%8a%e3%83%87%e3%82%a3%e3%82%a2%e3%82%ac%e3%83%bc%e3%82%ba) | ナディアガーズ is a Japanese rock band formed in Tokyo in 2002. The name is derived from the phrase "Nadia's Gaze," which refers to the gaze of a young girl looking out into the world. The band's music is characterized by melodic guitar riffs, driving rhythms, and passionate vocals. |
+| 40 | [ウェンデルケン](http://twitter.com/search?q=%e3%82%a6%e3%82%a7%e3%83%b3%e3%83%87%e3%83%ab%e3%82%b1%e3%83%b3) | N/A |
+| 41 | [ホビちゃん](http://twitter.com/search?q=%e3%83%9b%e3%83%93%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 42 | [DUEL](http://twitter.com/search?q=DUEL) | N/A |
+| 43 | [タローマンヒストリア](http://twitter.com/search?q=%e3%82%bf%e3%83%ad%e3%83%bc%e3%83%9e%e3%83%b3%e3%83%92%e3%82%b9%e3%83%88%e3%83%aa%e3%82%a2) | N/A |
+| 44 | [ジンくんの時](http://twitter.com/search?q=%e3%82%b8%e3%83%b3%e3%81%8f%e3%82%93%e3%81%ae%e6%99%82) | N/A |
+| 45 | [ヒシイグアス](http://twitter.com/search?q=%e3%83%92%e3%82%b7%e3%82%a4%e3%82%b0%e3%82%a2%e3%82%b9) | N/A |
+| 46 | [スタニングローズ](http://twitter.com/search?q=%e3%82%b9%e3%82%bf%e3%83%8b%e3%83%b3%e3%82%b0%e3%83%ad%e3%83%bc%e3%82%ba) | N/A |
+| 47 | [ボンボンイ](http://twitter.com/search?q=%e3%83%9c%e3%83%b3%e3%83%9c%e3%83%b3%e3%82%a4) | N/A |
+| 48 | [ダノンザキッド](http://twitter.com/search?q=%e3%83%80%e3%83%8e%e3%83%b3%e3%82%b6%e3%82%ad%e3%83%83%e3%83%89) | N/A |
+| 49 | [ハートフル](http://twitter.com/search?q=%e3%83%8f%e3%83%bc%e3%83%88%e3%83%95%e3%83%ab) | N/A |
+| 50 | [れおほー](http://twitter.com/search?q=%e3%82%8c%e3%81%8a%e3%81%bb%e3%83%bc) | N/A |
 
 
 

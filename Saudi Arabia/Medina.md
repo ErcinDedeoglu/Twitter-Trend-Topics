@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Medina
 
-📆 Last Updated: `2023-02-26 05:16:07 UTC`
+📆 Last Updated: `2023-02-26 06:16:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,44 @@ This is top 50 for [Saudi Arabia](</Saudi Arabia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ضمك_النصر](http://twitter.com/search?q=%23%d8%b6%d9%85%d9%83_%d8%a7%d9%84%d9%86%d8%b5%d8%b1) | N/A |
-| 2 | [#الاختبارات](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d8%ae%d8%aa%d8%a8%d8%a7%d8%b1%d8%a7%d8%aa) | N/A |
-| 3 | [#الاختبارات](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d8%ae%d8%aa%d8%a8%d8%a7%d8%b1%d8%a7%d8%aa) | N/A |
-| 4 | [#صباح_الخيرᅠ](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1%e1%85%a0) | #صباح_الخيرᅠ is an Arabic phrase meaning "Good Morning". |
-| 5 | [#البزنس81](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b2%d9%86%d8%b381) | N/A |
-| 6 | [الكويت](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d9%88%d9%8a%d8%aa) | N/A |
-| 7 | [فتوح العارفين](http://twitter.com/search?q=%d9%81%d8%aa%d9%88%d8%ad+%d8%a7%d9%84%d8%b9%d8%a7%d8%b1%d9%81%d9%8a%d9%86) | N/A |
-| 8 | [اليوم الاحد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ad%d8%af) | N/A |
-| 9 | [رونالدو](http://twitter.com/search?q=%d8%b1%d9%88%d9%86%d8%a7%d9%84%d8%af%d9%88) | رونالدو is the Portuguese spelling of the name Ronaldo, which is a popular given name in many countries. In English, it means "counselor of the ruler". |
-| 10 | [الدون](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d9%86) | الدون is an Arabic word that means "donation" or "contribution". It is used to refer to a voluntary gift of money or goods given to a charity, religious organization, or other cause. |
-| 11 | [اختبار اليوم](http://twitter.com/search?q=%d8%a7%d8%ae%d8%aa%d8%a8%d8%a7%d8%b1+%d8%a7%d9%84%d9%8a%d9%88%d9%85) | N/A |
-| 12 | [اتلتيكو](http://twitter.com/search?q=%d8%a7%d8%aa%d9%84%d8%aa%d9%8a%d9%83%d9%88) | N/A |
-| 13 | [سبا الايه](http://twitter.com/search?q=%d8%b3%d8%a8%d8%a7+%d8%a7%d9%84%d8%a7%d9%8a%d9%87) | N/A |
-| 14 | [الباطن](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%a7%d8%b7%d9%86) | N/A |
-| 15 | [المشرف التربوي الاستاذ](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b4%d8%b1%d9%81+%d8%a7%d9%84%d8%aa%d8%b1%d8%a8%d9%88%d9%8a+%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%a7%d8%b0) | N/A |
-| 16 | [سيميوني](http://twitter.com/search?q=%d8%b3%d9%8a%d9%85%d9%8a%d9%88%d9%86%d9%8a) | سيميوني (Simonee) is an Arabic name meaning "listener". It is also a variant of the name Simone, which is derived from the Hebrew name Shimon, meaning "he who hears". |
-| 17 | [اسينسيو](http://twitter.com/search?q=%d8%a7%d8%b3%d9%8a%d9%86%d8%b3%d9%8a%d9%88) | اسينسيو is a transliteration of the Greek word "συνέσεις" which means "understanding" or "insight" in English. |
-| 18 | [عين القطر](http://twitter.com/search?q=%d8%b9%d9%8a%d9%86+%d8%a7%d9%84%d9%82%d8%b7%d8%b1) | N/A |
-| 19 | [الهمهم الصواب](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%85%d9%87%d9%85+%d8%a7%d9%84%d8%b5%d9%88%d8%a7%d8%a8) | N/A |
-| 20 | [امل المستقبل](http://twitter.com/search?q=%d8%a7%d9%85%d9%84+%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d9%82%d8%a8%d9%84) | N/A |
-| 21 | [ايمن يحيى](http://twitter.com/search?q=%d8%a7%d9%8a%d9%85%d9%86+%d9%8a%d8%ad%d9%8a%d9%89) | "ايمن يحيى" is an Arabic name, and it translates to "Iman Yahya" in English. |
-| 22 | [مدير المدرسه](http://twitter.com/search?q=%d9%85%d8%af%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%87) | N/A |
-| 23 | [علي غريب](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%ba%d8%b1%d9%8a%d8%a8) | N/A |
-| 24 | [ديربي مدريد](http://twitter.com/search?q=%d8%af%d9%8a%d8%b1%d8%a8%d9%8a+%d9%85%d8%af%d8%b1%d9%8a%d8%af) | N/A |
-| 25 | [سباليتي](http://twitter.com/search?q=%d8%b3%d8%a8%d8%a7%d9%84%d9%8a%d8%aa%d9%8a) | N/A |
-| 26 | [ليستر](http://twitter.com/search?q=%d9%84%d9%8a%d8%b3%d8%aa%d8%b1) | N/A |
-| 27 | [اوبلاك](http://twitter.com/search?q=%d8%a7%d9%88%d8%a8%d9%84%d8%a7%d9%83) | N/A |
-| 28 | [سهل علي](http://twitter.com/search?q=%d8%b3%d9%87%d9%84+%d8%b9%d9%84%d9%8a) | N/A |
-| 29 | [الجيوب الانفيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%8a%d9%88%d8%a8+%d8%a7%d9%84%d8%a7%d9%86%d9%81%d9%8a%d9%87) | N/A |
-| 30 | [ايدي هاو](http://twitter.com/search?q=%d8%a7%d9%8a%d8%af%d9%8a+%d9%87%d8%a7%d9%88) | N/A |
-| 31 | [علوم العارفين](http://twitter.com/search?q=%d8%b9%d9%84%d9%88%d9%85+%d8%a7%d9%84%d8%b9%d8%a7%d8%b1%d9%81%d9%8a%d9%86) | N/A |
-| 32 | [عزيزي الطالب](http://twitter.com/search?q=%d8%b9%d8%b2%d9%8a%d8%b2%d9%8a+%d8%a7%d9%84%d8%b7%d8%a7%d9%84%d8%a8) | N/A |
-| 33 | [٩ مارس](http://twitter.com/search?q=%d9%a9+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
-| 34 | [قول الفارو](http://twitter.com/search?q=%d9%82%d9%88%d9%84+%d8%a7%d9%84%d9%81%d8%a7%d8%b1%d9%88) | N/A |
-| 35 | [الاردن](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b1%d8%af%d9%86) | N/A |
-| 36 | [الفاريز](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%a7%d8%b1%d9%8a%d8%b2) | الفاريز (al-fariiz) is an Arabic word meaning "the chosen one". It is often used to refer to someone who has been chosen for a special task or purpose. |
-| 37 | [اليوم السبت](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b3%d8%a8%d8%aa) | N/A |
-| 38 | [المحيط الاطلسي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ad%d9%8a%d8%b7+%d8%a7%d9%84%d8%a7%d8%b7%d9%84%d8%b3%d9%8a) | N/A |
-| 39 | [بن وايت](http://twitter.com/search?q=%d8%a8%d9%86+%d9%88%d8%a7%d9%8a%d8%aa) | N/A |
-| 40 | [الاستعداد الجيد](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%b9%d8%af%d8%a7%d8%af+%d8%a7%d9%84%d8%ac%d9%8a%d8%af) | N/A |
-| 41 | [فوز العالمي](http://twitter.com/search?q=%d9%81%d9%88%d8%b2+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
-| 42 | [بورنموث](http://twitter.com/search?q=%d8%a8%d9%88%d8%b1%d9%86%d9%85%d9%88%d8%ab) | N/A |
-| 43 | [فاردي](http://twitter.com/search?q=%d9%81%d8%a7%d8%b1%d8%af%d9%8a) | N/A |
-| 44 | [نواف العقيدي](http://twitter.com/search?q=%d9%86%d9%88%d8%a7%d9%81+%d8%a7%d9%84%d8%b9%d9%82%d9%8a%d8%af%d9%8a) | نواف العقيدي is an Arabic phrase meaning "the commander of the faithful". It is a title given to the leader of a Muslim community, usually referring to the Caliph or Imam. |
-| 45 | [الدرجه الكامله](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%b1%d8%ac%d9%87+%d8%a7%d9%84%d9%83%d8%a7%d9%85%d9%84%d9%87) | N/A |
-| 46 | [العلم النافع](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%84%d9%85+%d8%a7%d9%84%d9%86%d8%a7%d9%81%d8%b9) | N/A |
-| 47 | [شايع شراحيلي](http://twitter.com/search?q=%d8%b4%d8%a7%d9%8a%d8%b9+%d8%b4%d8%b1%d8%a7%d8%ad%d9%8a%d9%84%d9%8a) | N/A |
-| 48 | [ماجد الشهري](http://twitter.com/search?q=%d9%85%d8%a7%d8%ac%d8%af+%d8%a7%d9%84%d8%b4%d9%87%d8%b1%d9%8a) | N/A |
-| 49 | [عزيزي ولي الامر](http://twitter.com/search?q=%d8%b9%d8%b2%d9%8a%d8%b2%d9%8a+%d9%88%d9%84%d9%8a+%d8%a7%d9%84%d8%a7%d9%85%d8%b1) | N/A |
-| 50 | [قوه الحفظ](http://twitter.com/search?q=%d9%82%d9%88%d9%87+%d8%a7%d9%84%d8%ad%d9%81%d8%b8) | N/A |
+| 1 | [الفصل الدراسي الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b5%d9%84+%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%8a+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
+| 2 | [#صباح_الخيرᅠ](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1%e1%85%a0) | #صباح_الخيرᅠ is an Arabic phrase meaning "Good Morning". |
+| 3 | [اليوم الاحد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ad%d8%af) | N/A |
+| 4 | [المشرف التربوي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b4%d8%b1%d9%81+%d8%a7%d9%84%d8%aa%d8%b1%d8%a8%d9%88%d9%8a) | N/A |
+| 5 | [فتوح العارفين](http://twitter.com/search?q=%d9%81%d8%aa%d9%88%d8%ad+%d8%a7%d9%84%d8%b9%d8%a7%d8%b1%d9%81%d9%8a%d9%86) | N/A |
+| 6 | [#صباحات_الهلال](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad%d8%a7%d8%aa_%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | N/A |
+| 7 | [#متي_تنام_عاده](http://twitter.com/search?q=%23%d9%85%d8%aa%d9%8a_%d8%aa%d9%86%d8%a7%d9%85_%d8%b9%d8%a7%d8%af%d9%87) | N/A |
+| 8 | [#جده_تتحرك](http://twitter.com/search?q=%23%d8%ac%d8%af%d9%87_%d8%aa%d8%aa%d8%ad%d8%b1%d9%83) | N/A |
+| 9 | [#تعليم_القنفذه](http://twitter.com/search?q=%23%d8%aa%d8%b9%d9%84%d9%8a%d9%85_%d8%a7%d9%84%d9%82%d9%86%d9%81%d8%b0%d9%87) | N/A |
+| 10 | [اختبار اليوم](http://twitter.com/search?q=%d8%a7%d8%ae%d8%aa%d8%a8%d8%a7%d8%b1+%d8%a7%d9%84%d9%8a%d9%88%d9%85) | N/A |
+| 11 | [الفصل الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b5%d9%84+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
+| 12 | [العام الدراسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%a7%d9%85+%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%8a) | N/A |
+| 13 | [التهييه الارشاديه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%87%d9%8a%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d8%b1%d8%b4%d8%a7%d8%af%d9%8a%d9%87) | N/A |
+| 14 | [عين القطر](http://twitter.com/search?q=%d8%b9%d9%8a%d9%86+%d8%a7%d9%84%d9%82%d8%b7%d8%b1) | N/A |
+| 15 | [سبا الايه](http://twitter.com/search?q=%d8%b3%d8%a8%d8%a7+%d8%a7%d9%84%d8%a7%d9%8a%d9%87) | N/A |
+| 16 | [الهمهم الصواب](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%85%d9%87%d9%85+%d8%a7%d9%84%d8%b5%d9%88%d8%a7%d8%a8) | N/A |
+| 17 | [الموجهه الطلابيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%ac%d9%87%d9%87+%d8%a7%d9%84%d8%b7%d9%84%d8%a7%d8%a8%d9%8a%d9%87) | N/A |
+| 18 | [الجميع التوفيق](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%85%d9%8a%d8%b9+%d8%a7%d9%84%d8%aa%d9%88%d9%81%d9%8a%d9%82) | N/A |
+| 19 | [اللهم اليسر](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%87%d9%85+%d8%a7%d9%84%d9%8a%d8%b3%d8%b1) | N/A |
+| 20 | [الجيوب الانفيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%8a%d9%88%d8%a8+%d8%a7%d9%84%d8%a7%d9%86%d9%81%d9%8a%d9%87) | N/A |
+| 21 | [سهل علي](http://twitter.com/search?q=%d8%b3%d9%87%d9%84+%d8%b9%d9%84%d9%8a) | N/A |
+| 22 | [العلم النافع](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%84%d9%85+%d8%a7%d9%84%d9%86%d8%a7%d9%81%d8%b9) | N/A |
+| 23 | [مارك](http://twitter.com/search?q=%d9%85%d8%a7%d8%b1%d9%83) | N/A |
+| 24 | [الدرجه الكامله](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%b1%d8%ac%d9%87+%d8%a7%d9%84%d9%83%d8%a7%d9%85%d9%84%d9%87) | N/A |
+| 25 | [علي الاختبار](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a7%d8%ae%d8%aa%d8%a8%d8%a7%d8%b1) | N/A |
+| 26 | [اختبار الرياضيات](http://twitter.com/search?q=%d8%a7%d8%ae%d8%aa%d8%a8%d8%a7%d8%b1+%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d9%8a%d8%a7%d8%aa) | N/A |
+| 27 | [الاردن](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b1%d8%af%d9%86) | N/A |
+| 28 | [هند القحطاني](http://twitter.com/search?q=%d9%87%d9%86%d8%af+%d8%a7%d9%84%d9%82%d8%ad%d8%b7%d8%a7%d9%86%d9%8a) | N/A |
+| 29 | [#تعليم_محايل_عسير](http://twitter.com/search?q=%23%d8%aa%d8%b9%d9%84%d9%8a%d9%85_%d9%85%d8%ad%d8%a7%d9%8a%d9%84_%d8%b9%d8%b3%d9%8a%d8%b1) | N/A |
+| 30 | [#الهلال_الدحيل](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84_%d8%a7%d9%84%d8%af%d8%ad%d9%8a%d9%84) | N/A |
+| 31 | [#تعليم_الطايف](http://twitter.com/search?q=%23%d8%aa%d8%b9%d9%84%d9%8a%d9%85_%d8%a7%d9%84%d8%b7%d8%a7%d9%8a%d9%81) | N/A |
+| 32 | [#يه_نع](http://twitter.com/search?q=%23%d9%8a%d9%87_%d9%86%d8%b9) | N/A |
+| 33 | [#فاطمه_الانصاري](http://twitter.com/search?q=%23%d9%81%d8%a7%d8%b7%d9%85%d9%87_%d8%a7%d9%84%d8%a7%d9%86%d8%b5%d8%a7%d8%b1%d9%8a) | N/A |
+| 34 | [#تدل_دربها](http://twitter.com/search?q=%23%d8%aa%d8%af%d9%84_%d8%af%d8%b1%d8%a8%d9%87%d8%a7) | N/A |
+| 35 | [#ياسر_الدوسري](http://twitter.com/search?q=%23%d9%8a%d8%a7%d8%b3%d8%b1_%d8%a7%d9%84%d8%af%d9%88%d8%b3%d8%b1%d9%8a) | N/A |
+| 36 | [#HONORMWC2023](http://twitter.com/search?q=%23HONORMWC2023) | N/A |
+| 37 | [#متصدر_لاتكلمني](http://twitter.com/search?q=%23%d9%85%d8%aa%d8%b5%d8%af%d8%b1_%d9%84%d8%a7%d8%aa%d9%83%d9%84%d9%85%d9%86%d9%8a) | N/A |
+| 38 | [#تعليم_الدوادمي](http://twitter.com/search?q=%23%d8%aa%d8%b9%d9%84%d9%8a%d9%85_%d8%a7%d9%84%d8%af%d9%88%d8%a7%d8%af%d9%85%d9%8a) | N/A |
 
 
 

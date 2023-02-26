@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austin
 
-📆 Last Updated: `2023-02-26 05:16:16 UTC`
+📆 Last Updated: `2023-02-26 06:17:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [jhope](http://twitter.com/search?q=jhope) | N/A |
+| 1 | [Keller](http://twitter.com/search?q=Keller) | N/A |
 | 2 | [#Verde](http://twitter.com/search?q=%23Verde) | N/A |
 | 3 | [Driussi](http://twitter.com/search?q=Driussi) | N/A |
-| 4 | [#DTID](http://twitter.com/search?q=%23DTID) | N/A |
-| 5 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
-| 6 | [FC Dallas](http://twitter.com/search?q=FC+Dallas) | N/A |
-| 7 | [#HoldItDown](http://twitter.com/search?q=%23HoldItDown) | N/A |
+| 4 | [#OPNation](http://twitter.com/search?q=%23OPNation) | N/A |
+| 5 | [St. Louis](http://twitter.com/search?q=St.+Louis) | N/A |
+| 6 | [#DTID](http://twitter.com/search?q=%23DTID) | N/A |
+| 7 | [FC Dallas](http://twitter.com/search?q=FC+Dallas) | N/A |
 | 8 | [RINO](http://twitter.com/search?q=RINO) | RINO stands for "Republican In Name Only," and it is a term used to describe a Republican politician who is perceived as not adhering to the party's traditional values or platform. |
-| 9 | [#MLSisBack](http://twitter.com/search?q=%23MLSisBack) | N/A |
+| 9 | [Apple TV](http://twitter.com/search?q=Apple+TV) | N/A |
 | 10 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
 | 11 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
 | 12 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
 | 13 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
-| 14 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
-| 15 | [Al Horford](http://twitter.com/search?q=Al+Horford) | Al Horford is a professional basketball player from the Dominican Republic who currently plays for the Philadelphia 76ers of the National Basketball Association (NBA). He is a four-time NBA All-Star and has won two NBA championships with the Boston Celtics. The meaning of Al Horford in English is "a talented basketball player". |
-| 16 | [76ers](http://twitter.com/search?q=76ers) | 76ers is the nickname of the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The team was originally founded in 1946 as the Syracuse Nationals and changed its name to the 76ers in 1963. The name "76ers" is a reference to the year 1776, when the Declaration of Independence was signed in Philadelphia. |
+| 14 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 15 | [jhope](http://twitter.com/search?q=jhope) | N/A |
+| 16 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
 | 17 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
-| 18 | [#iubb](http://twitter.com/search?q=%23iubb) | #iubb is an abbreviation for Indiana University Bloomington, which is a public research university located in Bloomington, Indiana. |
-| 19 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
-| 20 | [Matias](http://twitter.com/search?q=Matias) | N/A |
-| 21 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
-| 22 | [HOSEOK](http://twitter.com/search?q=HOSEOK) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is often used to refer to someone who is strong and reliable. |
-| 23 | [Maxey](http://twitter.com/search?q=Maxey) | Maxey is a surname of English origin. It is derived from the Old English personal name Maccus, which was a diminutive form of Matthew. The meaning of Maxey in English is "son of Maccus". |
-| 24 | [Jaylen Brown](http://twitter.com/search?q=Jaylen+Brown) | Jaylen Brown is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). His name is derived from his parents' first names, James and Lenora. |
-| 25 | [BIGHIT](http://twitter.com/search?q=BIGHIT) | N/A |
-| 26 | [Doc Rivers](http://twitter.com/search?q=Doc+Rivers) | N/A |
-| 27 | [Eazy](http://twitter.com/search?q=Eazy) | N/A |
-| 28 | [Paul Ryan](http://twitter.com/search?q=Paul+Ryan) | Paul Ryan is the name of an American politician who served as the 54th Speaker of the United States House of Representatives from October 2015 to January 2019. He is a member of the Republican Party and was previously the Vice Presidential nominee for the 2012 election. The meaning of his name in English is "little king". |
-| 29 | [Linus Ullmark](http://twitter.com/search?q=Linus+Ullmark) | N/A |
-| 30 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
-| 31 | [Woody Harrelson](http://twitter.com/search?q=Woody+Harrelson) | N/A |
-| 32 | [Mike Breen](http://twitter.com/search?q=Mike+Breen) | N/A |
-| 33 | [Boston](http://twitter.com/search?q=Boston) | Boston is the capital and most populous city of the Commonwealth of Massachusetts in the United States. It is one of the oldest cities in the United States, founded in 1630 by Puritan settlers from England. The city is known for its rich history, culture, and educational institutions. It is also home to many world-renowned museums, universities, and hospitals. |
-| 34 | [Melton](http://twitter.com/search?q=Melton) | N/A |
-| 35 | [Derrick White](http://twitter.com/search?q=Derrick+White) | Derrick White is a professional basketball player who currently plays for the San Antonio Spurs of the National Basketball Association (NBA). He was drafted 29th overall in the 2018 NBA Draft. The name "Derrick White" is derived from his given name, Derrick, and his middle name, White. |
-| 36 | [Thiago Almada](http://twitter.com/search?q=Thiago+Almada) | N/A |
-| 37 | [GOALIE GOAL](http://twitter.com/search?q=GOALIE+GOAL) | N/A |
-| 38 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
-| 39 | [Jalen Hood](http://twitter.com/search?q=Jalen+Hood) | N/A |
-| 40 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
-| 41 | [PJ Tucker](http://twitter.com/search?q=PJ+Tucker) | PJ Tucker is an American professional basketball player who currently plays for the Houston Rockets of the National Basketball Association (NBA). His nickname is "The Round Mound of Rebound" due to his ability to grab rebounds despite his relatively small size. |
-| 42 | [Hitman](http://twitter.com/search?q=Hitman) | N/A |
-| 43 | [Brogdon](http://twitter.com/search?q=Brogdon) | Brogdon is a surname of Scottish origin. It is derived from the Old English words "broc" and "dun", meaning "brook hill". The name is associated with the Brogdon family, who were prominent landowners in Scotland during the Middle Ages. |
-| 44 | [2seok](http://twitter.com/search?q=2seok) | N/A |
-| 45 | [Lucic](http://twitter.com/search?q=Lucic) | N/A |
-| 46 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
-| 47 | [Edey](http://twitter.com/search?q=Edey) | Edey is a slang term used in some parts of the United States to refer to someone who is cool, stylish, or attractive. It can also be used as a term of endearment. |
-| 48 | [David Gust](http://twitter.com/search?q=David+Gust) | N/A |
-| 49 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
-| 50 | [Klauss](http://twitter.com/search?q=Klauss) | N/A |
+| 18 | [Jack White](http://twitter.com/search?q=Jack+White) | N/A |
+| 19 | [BIGHIT](http://twitter.com/search?q=BIGHIT) | N/A |
+| 20 | [Al Horford](http://twitter.com/search?q=Al+Horford) | Al Horford is a professional basketball player from the Dominican Republic who currently plays for the Philadelphia 76ers of the National Basketball Association (NBA). He is a four-time NBA All-Star and has won two NBA championships with the Boston Celtics. The meaning of Al Horford in English is "a talented basketball player". |
+| 21 | [76ers](http://twitter.com/search?q=76ers) | 76ers is the nickname of the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The team was originally founded in 1946 as the Syracuse Nationals and changed its name to the 76ers in 1963. The name "76ers" is a reference to the year 1776, when the Declaration of Independence was signed in Philadelphia. |
+| 22 | [2seok](http://twitter.com/search?q=2seok) | N/A |
+| 23 | [#iubb](http://twitter.com/search?q=%23iubb) | #iubb is an abbreviation for Indiana University Bloomington, which is a public research university located in Bloomington, Indiana. |
+| 24 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
+| 25 | [#AllforCITY](http://twitter.com/search?q=%23AllforCITY) | N/A |
+| 26 | [Matias](http://twitter.com/search?q=Matias) | N/A |
+| 27 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 28 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
+| 29 | [Maxey](http://twitter.com/search?q=Maxey) | Maxey is a surname of English origin. It is derived from the Old English personal name Maccus, which was a diminutive form of Matthew. The meaning of Maxey in English is "son of Maccus". |
+| 30 | [Woody Harrelson](http://twitter.com/search?q=Woody+Harrelson) | N/A |
+| 31 | [Eazy](http://twitter.com/search?q=Eazy) | N/A |
+| 32 | [Lamont Butler](http://twitter.com/search?q=Lamont+Butler) | N/A |
+| 33 | [Jaylen Brown](http://twitter.com/search?q=Jaylen+Brown) | Jaylen Brown is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). His name is derived from his parents' first names, James and Lenora. |
+| 34 | [Doc Rivers](http://twitter.com/search?q=Doc+Rivers) | N/A |
+| 35 | [Paul Ryan](http://twitter.com/search?q=Paul+Ryan) | Paul Ryan is the name of an American politician who served as the 54th Speaker of the United States House of Representatives from October 2015 to January 2019. He is a member of the Republican Party and was previously the Vice Presidential nominee for the 2012 election. The meaning of his name in English is "little king". |
+| 36 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
+| 37 | [Mike Breen](http://twitter.com/search?q=Mike+Breen) | N/A |
+| 38 | [Linus Ullmark](http://twitter.com/search?q=Linus+Ullmark) | N/A |
+| 39 | [TAKE ME INSTEAD](http://twitter.com/search?q=TAKE+ME+INSTEAD) | N/A |
+| 40 | [Hitman](http://twitter.com/search?q=Hitman) | N/A |
+| 41 | [Brossoit](http://twitter.com/search?q=Brossoit) | N/A |
+| 42 | [Lucic](http://twitter.com/search?q=Lucic) | N/A |
+| 43 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
+| 44 | [GOALIE GOAL](http://twitter.com/search?q=GOALIE+GOAL) | N/A |
+| 45 | [Melton](http://twitter.com/search?q=Melton) | N/A |
+| 46 | [Derrick White](http://twitter.com/search?q=Derrick+White) | Derrick White is a professional basketball player who currently plays for the San Antonio Spurs of the National Basketball Association (NBA). He was drafted 29th overall in the 2018 NBA Draft. The name "Derrick White" is derived from his given name, Derrick, and his middle name, White. |
+| 47 | [Boston](http://twitter.com/search?q=Boston) | Boston is the capital and most populous city of the Commonwealth of Massachusetts in the United States. It is one of the oldest cities in the United States, founded in 1630 by Puritan settlers from England. The city is known for its rich history, culture, and educational institutions. It is also home to many world-renowned museums, universities, and hospitals. |
+| 48 | [Zags](http://twitter.com/search?q=Zags) | Zags is a slang term used to refer to the Gonzaga University Bulldogs, the athletic teams of Gonzaga University in Spokane, Washington. It is derived from the university's nickname, the Bulldogs. |
+| 49 | [Jalen Hood](http://twitter.com/search?q=Jalen+Hood) | N/A |
+| 50 | [Thiago Almada](http://twitter.com/search?q=Thiago+Almada) | N/A |
 
 
 

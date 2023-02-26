@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-02-26 05:16:30 UTC`
+📆 Last Updated: `2023-02-26 06:17:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,14 +22,14 @@ This is top 50 for Switzerland
 | 5 | [köppel](http://twitter.com/search?q=k%c3%b6ppel) | N/A |
 | 6 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
 | 7 | [#RMxBOTTEGAVENETA](http://twitter.com/search?q=%23RMxBOTTEGAVENETA) | N/A |
-| 8 | [#Schwarzer](http://twitter.com/search?q=%23Schwarzer) | N/A |
-| 9 | [#siofcsg](http://twitter.com/search?q=%23siofcsg) | N/A |
-| 10 | [Habeck](http://twitter.com/search?q=Habeck) | N/A |
+| 8 | [#siofcsg](http://twitter.com/search?q=%23siofcsg) | N/A |
+| 9 | [Habeck](http://twitter.com/search?q=Habeck) | N/A |
+| 10 | [#srfarena](http://twitter.com/search?q=%23srfarena) | N/A |
 | 11 | [Seite der Geschichte](http://twitter.com/search?q=Seite+der+Geschichte) | N/A |
 | 12 | [Garcia](http://twitter.com/search?q=Garcia) | Garcia is a Spanish surname. It is derived from the Basque word "gar" meaning "bear". The name is often associated with strength and courage. In English, Garcia means "brave and strong". |
 | 13 | [Montana](http://twitter.com/search?q=Montana) | Montana is a state in the northwestern United States. It is known for its rugged terrain and wide open spaces. The name Montana comes from the Spanish word montaña, which means "mountain". |
 | 14 | [Stuss](http://twitter.com/search?q=Stuss) | N/A |
-| 15 | [kündigung](http://twitter.com/search?q=k%c3%bcndigung) | N/A |
+| 15 | [Kündigung](http://twitter.com/search?q=K%c3%bcndigung) | N/A |
 | 16 | [Solidarität](http://twitter.com/search?q=Solidarit%c3%a4t) | N/A |
 | 17 | [Gemeinde](http://twitter.com/search?q=Gemeinde) | N/A |
 | 18 | [Ukrainiens](http://twitter.com/search?q=Ukrainiens) | N/A |
@@ -39,7 +39,7 @@ This is top 50 for Switzerland
 | 22 | [Trudeau](http://twitter.com/search?q=Trudeau) | N/A |
 | 23 | [Gleiche](http://twitter.com/search?q=Gleiche) | N/A |
 | 24 | [Wallis](http://twitter.com/search?q=Wallis) | N/A |
-| 25 | [Handeln](http://twitter.com/search?q=Handeln) | N/A |
+| 25 | [handeln](http://twitter.com/search?q=handeln) | N/A |
 | 26 | [Teufel](http://twitter.com/search?q=Teufel) | N/A |
 | 27 | [Schuss](http://twitter.com/search?q=Schuss) | N/A |
 | 28 | [svpler](http://twitter.com/search?q=svpler) | N/A |
@@ -49,22 +49,22 @@ This is top 50 for Switzerland
 | 32 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
 | 33 | [Gerechtigkeit](http://twitter.com/search?q=Gerechtigkeit) | N/A |
 | 34 | [Solange](http://twitter.com/search?q=Solange) | N/A |
-| 35 | [kiew](http://twitter.com/search?q=kiew) | N/A |
+| 35 | [Kiew](http://twitter.com/search?q=Kiew) | N/A |
 | 36 | [Orban](http://twitter.com/search?q=Orban) | N/A |
-| 37 | [scholz](http://twitter.com/search?q=scholz) | N/A |
-| 38 | [konflikte](http://twitter.com/search?q=konflikte) | N/A |
+| 37 | [Scholz](http://twitter.com/search?q=Scholz) | N/A |
+| 38 | [Konflikte](http://twitter.com/search?q=Konflikte) | N/A |
 | 39 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
 | 40 | [Glaubwürdigkeit](http://twitter.com/search?q=Glaubw%c3%bcrdigkeit) | N/A |
-| 41 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 42 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 43 | [Opfern](http://twitter.com/search?q=Opfern) | N/A |
-| 44 | [Solana](http://twitter.com/search?q=Solana) | N/A |
-| 45 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 46 | [eigenbedarf](http://twitter.com/search?q=eigenbedarf) | N/A |
-| 47 | [Familien](http://twitter.com/search?q=Familien) | N/A |
-| 48 | [fribourg](http://twitter.com/search?q=fribourg) | N/A |
-| 49 | [kompliment](http://twitter.com/search?q=kompliment) | N/A |
-| 50 | [Gebiete](http://twitter.com/search?q=Gebiete) | N/A |
+| 41 | [Solana](http://twitter.com/search?q=Solana) | N/A |
+| 42 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 43 | [Worten](http://twitter.com/search?q=Worten) | N/A |
+| 44 | [eigenbedarf](http://twitter.com/search?q=eigenbedarf) | N/A |
+| 45 | [Familien](http://twitter.com/search?q=Familien) | N/A |
+| 46 | [fribourg](http://twitter.com/search?q=fribourg) | N/A |
+| 47 | [kompliment](http://twitter.com/search?q=kompliment) | N/A |
+| 48 | [Gebiete](http://twitter.com/search?q=Gebiete) | N/A |
+| 49 | [Tsukasa](http://twitter.com/search?q=Tsukasa) | N/A |
+| 50 | [Fokus](http://twitter.com/search?q=Fokus) | N/A |
 
 
 

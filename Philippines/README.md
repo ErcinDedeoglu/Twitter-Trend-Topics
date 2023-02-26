@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philippines
 
-📆 Last Updated: `2023-02-26 05:16:29 UTC`
+📆 Last Updated: `2023-02-26 06:17:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,47 +15,56 @@ This is top 50 for Philippines
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [WILDTONIGHT ON AOS](http://twitter.com/search?q=WILDTONIGHT+ON+AOS) | N/A |
-| 2 | [ALL OUT JOSH CULLEN](http://twitter.com/search?q=ALL+OUT+JOSH+CULLEN) | N/A |
-| 3 | [HAPPY 23RD BDAY ALEXA](http://twitter.com/search?q=HAPPY+23RD+BDAY+ALEXA) | N/A |
-| 4 | [#AOSYesNaYes](http://twitter.com/search?q=%23AOSYesNaYes) | N/A |
-| 5 | [#ModessxBini](http://twitter.com/search?q=%23ModessxBini) | N/A |
-| 6 | [#WalangDudaWithModessLong](http://twitter.com/search?q=%23WalangDudaWithModessLong) | N/A |
-| 7 | [BINI OUR MODESS GIRLS](http://twitter.com/search?q=BINI+OUR+MODESS+GIRLS) | N/A |
-| 8 | [iWant Alpha Boys](http://twitter.com/search?q=iWant+Alpha+Boys) | N/A |
-| 9 | [#iWantASAP](http://twitter.com/search?q=%23iWantASAP) | N/A |
-| 10 | [WE NEED IRENE SOLO SCHEDULE](http://twitter.com/search?q=WE+NEED+IRENE+SOLO+SCHEDULE) | N/A |
-| 11 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
-| 12 | [JAEYONG](http://twitter.com/search?q=JAEYONG) | N/A |
-| 13 | [#PARKJINYOUNGinMNL2023](http://twitter.com/search?q=%23PARKJINYOUNGinMNL2023) | N/A |
-| 14 | [BIGHIT](http://twitter.com/search?q=BIGHIT) | N/A |
-| 15 | [ANJI OnASAP BESTofFEB](http://twitter.com/search?q=ANJI+OnASAP+BESTofFEB) | N/A |
-| 16 | [YesNaYes SaJULIEVER](http://twitter.com/search?q=YesNaYes+SaJULIEVER) | N/A |
-| 17 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
-| 18 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 19 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
-| 20 | [Where You At](http://twitter.com/search?q=Where+You+At) | N/A |
-| 21 | [WELCOME BACK LWL](http://twitter.com/search?q=WELCOME+BACK+LWL) | N/A |
-| 22 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
-| 23 | [Ssob](http://twitter.com/search?q=Ssob) | N/A |
-| 24 | [Hunter](http://twitter.com/search?q=Hunter) | N/A |
-| 25 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 26 | [Felip](http://twitter.com/search?q=Felip) | N/A |
-| 27 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 28 | [Cavite](http://twitter.com/search?q=Cavite) | N/A |
-| 29 | [#BrightestStarDrei](http://twitter.com/search?q=%23BrightestStarDrei) | N/A |
-| 30 | [#LizaAndHerStory](http://twitter.com/search?q=%23LizaAndHerStory) | N/A |
-| 31 | [#Mori3D](http://twitter.com/search?q=%23Mori3D) | N/A |
-| 32 | [#ASAPAllHits](http://twitter.com/search?q=%23ASAPAllHits) | N/A |
-| 33 | [#MostRequestedLive](http://twitter.com/search?q=%23MostRequestedLive) | N/A |
-| 34 | [#1000DaysWithJake](http://twitter.com/search?q=%231000DaysWithJake) | N/A |
-| 35 | [#WYAT](http://twitter.com/search?q=%23WYAT) | N/A |
-| 36 | [#IreneDeservesBetterTreatment](http://twitter.com/search?q=%23IreneDeservesBetterTreatment) | N/A |
-| 37 | [#VeryCherryDay](http://twitter.com/search?q=%23VeryCherryDay) | N/A |
-| 38 | [#Brigiding](http://twitter.com/search?q=%23Brigiding) | N/A |
-| 39 | [#RMxBOTTEGAVENETA](http://twitter.com/search?q=%23RMxBOTTEGAVENETA) | N/A |
-| 40 | [#ENHYPEN_at_KROSSvol2](http://twitter.com/search?q=%23ENHYPEN_at_KROSSvol2) | N/A |
-| 41 | [#SurrenderAllToCHANGSUB](http://twitter.com/search?q=%23SurrenderAllToCHANGSUB) | N/A |
+| 1 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 2 | [WILDTONIGHT ON AOS](http://twitter.com/search?q=WILDTONIGHT+ON+AOS) | N/A |
+| 3 | [jhope](http://twitter.com/search?q=jhope) | N/A |
+| 4 | [ALL OUT JOSH CULLEN](http://twitter.com/search?q=ALL+OUT+JOSH+CULLEN) | N/A |
+| 5 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 6 | [HAPPY 23RD BDAY ALEXA](http://twitter.com/search?q=HAPPY+23RD+BDAY+ALEXA) | N/A |
+| 7 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 8 | [2seok](http://twitter.com/search?q=2seok) | N/A |
+| 9 | [#AOSYesNaYes](http://twitter.com/search?q=%23AOSYesNaYes) | N/A |
+| 10 | [BIGHIT](http://twitter.com/search?q=BIGHIT) | N/A |
+| 11 | [Liza](http://twitter.com/search?q=Liza) | N/A |
+| 12 | [#PARKJINYOUNGinMNL2023](http://twitter.com/search?q=%23PARKJINYOUNGinMNL2023) | N/A |
+| 13 | [Stell](http://twitter.com/search?q=Stell) | N/A |
+| 14 | [BINI OUR MODESS GIRLS](http://twitter.com/search?q=BINI+OUR+MODESS+GIRLS) | N/A |
+| 15 | [#ModessxBini](http://twitter.com/search?q=%23ModessxBini) | N/A |
+| 16 | [#WalangDudaWithModessLong](http://twitter.com/search?q=%23WalangDudaWithModessLong) | N/A |
+| 17 | [jaeyong](http://twitter.com/search?q=jaeyong) | N/A |
+| 18 | [#ASAPAllHits](http://twitter.com/search?q=%23ASAPAllHits) | N/A |
+| 19 | [iWant Alpha Boys](http://twitter.com/search?q=iWant+Alpha+Boys) | N/A |
+| 20 | [MY SUNSHINE](http://twitter.com/search?q=MY+SUNSHINE) | N/A |
+| 21 | [WE NEED IRENE SOLO SCHEDULE](http://twitter.com/search?q=WE+NEED+IRENE+SOLO+SCHEDULE) | N/A |
+| 22 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
+| 23 | [ANJI OnASAP BESTofFEB](http://twitter.com/search?q=ANJI+OnASAP+BESTofFEB) | N/A |
+| 24 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
+| 25 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
+| 26 | [YesNaYes SaJULIEVER](http://twitter.com/search?q=YesNaYes+SaJULIEVER) | N/A |
+| 27 | [Where You At](http://twitter.com/search?q=Where+You+At) | N/A |
+| 28 | [WELCOME BACK LWL](http://twitter.com/search?q=WELCOME+BACK+LWL) | N/A |
+| 29 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
+| 30 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 31 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 32 | [Ssob](http://twitter.com/search?q=Ssob) | N/A |
+| 33 | [Hunter](http://twitter.com/search?q=Hunter) | N/A |
+| 34 | [Kross the Line with ENHYPEN](http://twitter.com/search?q=Kross+the+Line+with+ENHYPEN) | N/A |
+| 35 | [Felip](http://twitter.com/search?q=Felip) | N/A |
+| 36 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 37 | [Cavite](http://twitter.com/search?q=Cavite) | N/A |
+| 38 | [#iWantASAP](http://twitter.com/search?q=%23iWantASAP) | N/A |
+| 39 | [#Mori3D](http://twitter.com/search?q=%23Mori3D) | N/A |
+| 40 | [#BrightestStarDrei](http://twitter.com/search?q=%23BrightestStarDrei) | N/A |
+| 41 | [#MostRequestedLive](http://twitter.com/search?q=%23MostRequestedLive) | N/A |
+| 42 | [#WYAT](http://twitter.com/search?q=%23WYAT) | N/A |
+| 43 | [#1000DaysWithJake](http://twitter.com/search?q=%231000DaysWithJake) | N/A |
+| 44 | [#UPFight](http://twitter.com/search?q=%23UPFight) | N/A |
+| 45 | [#IreneDeservesBetterTreatment](http://twitter.com/search?q=%23IreneDeservesBetterTreatment) | N/A |
+| 46 | [#VeryCherryDay](http://twitter.com/search?q=%23VeryCherryDay) | N/A |
+| 47 | [#Brigiding](http://twitter.com/search?q=%23Brigiding) | N/A |
+| 48 | [#RMxBOTTEGAVENETA](http://twitter.com/search?q=%23RMxBOTTEGAVENETA) | N/A |
+| 49 | [#KROSSvol2](http://twitter.com/search?q=%23KROSSvol2) | N/A |
+| 50 | [#祝_ENHYPENヘッドライナー](http://twitter.com/search?q=%23%e7%a5%9d_ENHYPEN%e3%83%98%e3%83%83%e3%83%89%e3%83%a9%e3%82%a4%e3%83%8a%e3%83%bc) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Portugal
 
-📆 Last Updated: `2023-02-26 05:16:29 UTC`
+📆 Last Updated: `2023-02-26 06:17:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,42 +29,42 @@ This is top 50 for Portugal
 | 12 | [#BBB23](http://twitter.com/search?q=%23BBB23) | #BBB23 is a hashtag used on social media platforms such as Twitter and Instagram. It is not an acronym or abbreviation and does not have a specific meaning. It is simply a combination of letters and numbers that can be used to categorize posts, making them easier to find when searching for specific topics. |
 | 13 | [neon soho](http://twitter.com/search?q=neon+soho) | N/A |
 | 14 | [nasci maria](http://twitter.com/search?q=nasci+maria) | N/A |
-| 15 | [Rúben da Cruz](http://twitter.com/search?q=R%c3%baben+da+Cruz) | N/A |
-| 16 | [sou team bs](http://twitter.com/search?q=sou+team+bs) | N/A |
-| 17 | [eurovisão](http://twitter.com/search?q=eurovis%c3%a3o) | N/A |
-| 18 | [#ValeTudo](http://twitter.com/search?q=%23ValeTudo) | N/A |
-| 19 | [Conceição](http://twitter.com/search?q=Concei%c3%a7%c3%a3o) | N/A |
-| 20 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 21 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 15 | [rúben da cruz](http://twitter.com/search?q=r%c3%baben+da+cruz) | N/A |
+| 16 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 17 | [sou team bs](http://twitter.com/search?q=sou+team+bs) | N/A |
+| 18 | [eurovisão](http://twitter.com/search?q=eurovis%c3%a3o) | N/A |
+| 19 | [#valetudo](http://twitter.com/search?q=%23valetudo) | N/A |
+| 20 | [Conceição](http://twitter.com/search?q=Concei%c3%a7%c3%a3o) | N/A |
+| 21 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
 | 22 | [Ucrânia](http://twitter.com/search?q=Ucr%c3%a2nia) | N/A |
-| 23 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 24 | [#fcvslb](http://twitter.com/search?q=%23fcvslb) | N/A |
-| 25 | [Magui](http://twitter.com/search?q=Magui) | N/A |
-| 26 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 27 | [Tadeu](http://twitter.com/search?q=Tadeu) | Tadeu is a Portuguese name derived from the Latin name Thaddeus. It is a masculine given name meaning "gift of God". |
-| 28 | [sofia ribeiro](http://twitter.com/search?q=sofia+ribeiro) | N/A |
-| 29 | [rafe](http://twitter.com/search?q=rafe) | Rafe is a short form of the name Raphael, which is a Hebrew name meaning “God has healed”. |
-| 30 | [john b](http://twitter.com/search?q=john+b) | John B is a traditional folk song from the Outer Banks of North Carolina. The song tells the story of a young man named John B who sails away to sea and never returns. The lyrics of the song have been adapted over time, but the original version speaks of John B's longing for his home and his love for his sweetheart. |
-| 31 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
-| 32 | [faltam 12](http://twitter.com/search?q=faltam+12) | N/A |
-| 33 | [sapatos de cimento](http://twitter.com/search?q=sapatos+de+cimento) | N/A |
-| 34 | [Super Dragões](http://twitter.com/search?q=Super+Drag%c3%b5es) | N/A |
-| 35 | [Ai Coração](http://twitter.com/search?q=Ai+Cora%c3%a7%c3%a3o) | N/A |
-| 36 | [Botafogo](http://twitter.com/search?q=Botafogo) | Botafogo is a neighborhood in Rio de Janeiro, Brazil. The name Botafogo comes from the Portuguese phrase "bota fogo," which means "set fire." It is believed to have originated from a local legend about a brave warrior who set fire to the enemy's boats during a battle. |
-| 37 | [Churky](http://twitter.com/search?q=Churky) | N/A |
-| 38 | [Charlie Brown](http://twitter.com/search?q=Charlie+Brown) | N/A |
-| 39 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 40 | [Rodas](http://twitter.com/search?q=Rodas) | N/A |
-| 41 | [Nuno Almeida](http://twitter.com/search?q=Nuno+Almeida) | N/A |
-| 42 | [contraste mudo](http://twitter.com/search?q=contraste+mudo) | N/A |
-| 43 | [Vlachodimos](http://twitter.com/search?q=Vlachodimos) | N/A |
-| 44 | [Esse Povo](http://twitter.com/search?q=Esse+Povo) | N/A |
-| 45 | [Atlético](http://twitter.com/search?q=Atl%c3%a9tico) | Atlético is a Spanish word that means "athletic" or "energetic". It is often used to describe someone who is competitive, determined, and passionate. |
-| 46 | [Mais 3](http://twitter.com/search?q=Mais+3) | N/A |
-| 47 | [OUÇA EP IDENTIDADE](http://twitter.com/search?q=OU%c3%87A+EP+IDENTIDADE) | N/A |
-| 48 | [Gustavo](http://twitter.com/search?q=Gustavo) | Gustavo is a Spanish and Portuguese name derived from the Latin name Gustavus, which means "staff of the gods". It is also a variant of the Germanic name Gustaf, meaning "staff of the Geats". |
-| 49 | [Arábia Saudita](http://twitter.com/search?q=Ar%c3%a1bia+Saudita) | N/A |
-| 50 | [Musa](http://twitter.com/search?q=Musa) | N/A |
+| 23 | [#fcvslb](http://twitter.com/search?q=%23fcvslb) | N/A |
+| 24 | [Magui](http://twitter.com/search?q=Magui) | N/A |
+| 25 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 26 | [sofia ribeiro](http://twitter.com/search?q=sofia+ribeiro) | N/A |
+| 27 | [rafe](http://twitter.com/search?q=rafe) | Rafe is a short form of the name Raphael, which is a Hebrew name meaning “God has healed”. |
+| 28 | [faltam 12](http://twitter.com/search?q=faltam+12) | N/A |
+| 29 | [sapatos de cimento](http://twitter.com/search?q=sapatos+de+cimento) | N/A |
+| 30 | [Super Dragões](http://twitter.com/search?q=Super+Drag%c3%b5es) | N/A |
+| 31 | [ai coração](http://twitter.com/search?q=ai+cora%c3%a7%c3%a3o) | N/A |
+| 32 | [john b](http://twitter.com/search?q=john+b) | John B is a traditional folk song from the Outer Banks of North Carolina. The song tells the story of a young man named John B who sails away to sea and never returns. The lyrics of the song have been adapted over time, but the original version speaks of John B's longing for his home and his love for his sweetheart. |
+| 33 | [Botafogo](http://twitter.com/search?q=Botafogo) | Botafogo is a neighborhood in Rio de Janeiro, Brazil. The name Botafogo comes from the Portuguese phrase "bota fogo," which means "set fire." It is believed to have originated from a local legend about a brave warrior who set fire to the enemy's boats during a battle. |
+| 34 | [Churky](http://twitter.com/search?q=Churky) | N/A |
+| 35 | [Charlie Brown](http://twitter.com/search?q=Charlie+Brown) | N/A |
+| 36 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 37 | [Rodas](http://twitter.com/search?q=Rodas) | N/A |
+| 38 | [Nuno Almeida](http://twitter.com/search?q=Nuno+Almeida) | N/A |
+| 39 | [contraste mudo](http://twitter.com/search?q=contraste+mudo) | N/A |
+| 40 | [vlachodimos](http://twitter.com/search?q=vlachodimos) | N/A |
+| 41 | [Esse Povo](http://twitter.com/search?q=Esse+Povo) | N/A |
+| 42 | [Atlético](http://twitter.com/search?q=Atl%c3%a9tico) | Atlético is a Spanish word that means "athletic" or "energetic". It is often used to describe someone who is competitive, determined, and passionate. |
+| 43 | [Mais 3](http://twitter.com/search?q=Mais+3) | N/A |
+| 44 | [OUÇA EP IDENTIDADE](http://twitter.com/search?q=OU%c3%87A+EP+IDENTIDADE) | N/A |
+| 45 | [Gustavo](http://twitter.com/search?q=Gustavo) | Gustavo is a Spanish and Portuguese name derived from the Latin name Gustavus, which means "staff of the gods". It is also a variant of the Germanic name Gustaf, meaning "staff of the Geats". |
+| 46 | [Arábia Saudita](http://twitter.com/search?q=Ar%c3%a1bia+Saudita) | N/A |
+| 47 | [Musa](http://twitter.com/search?q=Musa) | N/A |
+| 48 | [Endless World](http://twitter.com/search?q=Endless+World) | N/A |
+| 49 | [O PCP](http://twitter.com/search?q=O+PCP) | N/A |
+| 50 | [Tulipa](http://twitter.com/search?q=Tulipa) | N/A |
 
 
 

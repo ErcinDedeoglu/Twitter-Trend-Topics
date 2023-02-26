@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Norway
 
-📆 Last Updated: `2023-02-26 05:16:28 UTC`
+📆 Last Updated: `2023-02-26 06:17:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,11 +21,11 @@ This is top 50 for Norway
 | 4 | [Keita](http://twitter.com/search?q=Keita) | Keita is a Japanese name meaning "blessed" or "happy". It is often used as a given name for boys. |
 | 5 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
 | 6 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
-| 7 | [Ward](http://twitter.com/search?q=Ward) | Ward is a term used to refer to a division of a city or town, typically for administrative or political purposes. It can also refer to an area of a hospital that is dedicated to the care of patients with similar medical conditions. |
-| 8 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 9 | [jordal](http://twitter.com/search?q=jordal) | N/A |
-| 10 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 11 | [#2hockey](http://twitter.com/search?q=%232hockey) | N/A |
+| 7 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 8 | [jordal](http://twitter.com/search?q=jordal) | N/A |
+| 9 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 10 | [#2hockey](http://twitter.com/search?q=%232hockey) | N/A |
+| 11 | [Ward](http://twitter.com/search?q=Ward) | Ward is a term used to refer to a division of a city or town, typically for administrative or political purposes. It can also refer to an area of a hospital that is dedicated to the care of patients with similar medical conditions. |
 | 12 | [Hendo](http://twitter.com/search?q=Hendo) | Hendo is a slang term derived from the Japanese word "hendou," which means "change." It is often used to refer to a sudden or unexpected change in something, such as a situation or a person's attitude. |
 | 13 | [#nrksport](http://twitter.com/search?q=%23nrksport) | N/A |
 | 14 | [#viaplaypl](http://twitter.com/search?q=%23viaplaypl) | N/A |
@@ -57,14 +57,14 @@ This is top 50 for Norway
 | 40 | [åsane](http://twitter.com/search?q=%c3%a5sane) | N/A |
 | 41 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
 | 42 | [rosenborg](http://twitter.com/search?q=rosenborg) | N/A |
-| 43 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 44 | [faen](http://twitter.com/search?q=faen) | N/A |
-| 45 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
-| 46 | [supernytt](http://twitter.com/search?q=supernytt) | N/A |
-| 47 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 48 | [Molde](http://twitter.com/search?q=Molde) | N/A |
-| 49 | [Donbas](http://twitter.com/search?q=Donbas) | N/A |
-| 50 | [ADHD](http://twitter.com/search?q=ADHD) | N/A |
+| 43 | [faen](http://twitter.com/search?q=faen) | N/A |
+| 44 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
+| 45 | [supernytt](http://twitter.com/search?q=supernytt) | N/A |
+| 46 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 47 | [molde](http://twitter.com/search?q=molde) | N/A |
+| 48 | [Donbas](http://twitter.com/search?q=Donbas) | N/A |
+| 49 | [ADHD](http://twitter.com/search?q=ADHD) | N/A |
+| 50 | [Batman](http://twitter.com/search?q=Batman) | Batman is a fictional superhero created by Bob Kane and Bill Finger. He first appeared in Detective Comics #27 in 1939. Batman is a vigilante who fights crime and injustice in Gotham City using his physical prowess, detective skills, science and technology, wealth, and intimidation. He is often referred to as the "Caped Crusader" or the "Dark Knight". |
 
 
 

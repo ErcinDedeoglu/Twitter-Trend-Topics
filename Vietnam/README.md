@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vietnam
 
-📆 Last Updated: `2023-02-26 05:16:31 UTC`
+📆 Last Updated: `2023-02-26 06:17:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,17 +15,17 @@ This is top 50 for Vietnam
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#BiuTheBluePrince](http://twitter.com/search?q=%23BiuTheBluePrince) | N/A |
-| 2 | [#TheLastKinnPorsche](http://twitter.com/search?q=%23TheLastKinnPorsche) | N/A |
-| 3 | [WE LOVE OUR BLUE](http://twitter.com/search?q=WE+LOVE+OUR+BLUE) | N/A |
-| 4 | [#aespa1stConcertSYNK_HYPERLINE](http://twitter.com/search?q=%23aespa1stConcertSYNK_HYPERLINE) | N/A |
-| 5 | [#RMxBOTTEGAVENETA](http://twitter.com/search?q=%23RMxBOTTEGAVENETA) | N/A |
-| 6 | [#GQCSuzhouMusicFest](http://twitter.com/search?q=%23GQCSuzhouMusicFest) | N/A |
-| 7 | [NNINE SPECIAL STAGE](http://twitter.com/search?q=NNINE+SPECIAL+STAGE) | N/A |
-| 8 | [Pete](http://twitter.com/search?q=Pete) | Pete is a nickname for the name Peter. It is derived from the Greek word "petros" which means "rock". |
-| 9 | [engfa waraha](http://twitter.com/search?q=engfa+waraha) | N/A |
+| 1 | [Beanz](http://twitter.com/search?q=Beanz) | N/A |
+| 2 | [#JHOPE](http://twitter.com/search?q=%23JHOPE) | N/A |
+| 3 | [#DeriTurns2](http://twitter.com/search?q=%23DeriTurns2) | N/A |
+| 4 | [#BiuTheBluePrince](http://twitter.com/search?q=%23BiuTheBluePrince) | N/A |
+| 5 | [WE LOVE OUR BLUE](http://twitter.com/search?q=WE+LOVE+OUR+BLUE) | N/A |
+| 6 | [#aespa1stConcertSYNK_HYPERLINE](http://twitter.com/search?q=%23aespa1stConcertSYNK_HYPERLINE) | N/A |
+| 7 | [#RMxBOTTEGAVENETA](http://twitter.com/search?q=%23RMxBOTTEGAVENETA) | N/A |
+| 8 | [NNINE SPECIAL STAGE](http://twitter.com/search?q=NNINE+SPECIAL+STAGE) | N/A |
+| 9 | [Engfa Waraha](http://twitter.com/search?q=Engfa+Waraha) | N/A |
 | 10 | [Thái](http://twitter.com/search?q=Th%c3%a1i) | N/A |
-| 11 | [YUEHUA](http://twitter.com/search?q=YUEHUA) | N/A |
+| 11 | [Yuehua](http://twitter.com/search?q=Yuehua) | N/A |
 | 12 | [MILEAPO ON STAGE BANGKOK](http://twitter.com/search?q=MILEAPO+ON+STAGE+BANGKOK) | N/A |
 | 13 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
 | 14 | [proud of ace karina](http://twitter.com/search?q=proud+of+ace+karina) | N/A |
@@ -34,37 +34,37 @@ This is top 50 for Vietnam
 | 17 | [get 700erb](http://twitter.com/search?q=get+700erb) | N/A |
 | 18 | [wormholes](http://twitter.com/search?q=wormholes) | N/A |
 | 19 | [s-nft](http://twitter.com/search?q=s-nft) | N/A |
-| 20 | [Alchemy](http://twitter.com/search?q=Alchemy) | N/A |
-| 21 | [apo happy birthday](http://twitter.com/search?q=apo+happy+birthday) | N/A |
-| 22 | [mỹ diệu](http://twitter.com/search?q=m%e1%bb%b9+di%e1%bb%87u) | N/A |
-| 23 | [Earth](http://twitter.com/search?q=Earth) | N/A |
-| 24 | [America](http://twitter.com/search?q=America) | N/A |
+| 20 | [WELCOME TO PARIS XIN](http://twitter.com/search?q=WELCOME+TO+PARIS+XIN) | N/A |
+| 21 | [Alchemy](http://twitter.com/search?q=Alchemy) | N/A |
+| 22 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 23 | [mỹ diệu](http://twitter.com/search?q=m%e1%bb%b9+di%e1%bb%87u) | N/A |
+| 24 | [Pete](http://twitter.com/search?q=Pete) | Pete is a nickname for the name Peter. It is derived from the Greek word "petros" which means "rock". |
 | 25 | [joong](http://twitter.com/search?q=joong) | N/A |
 | 26 | [Người](http://twitter.com/search?q=Ng%c6%b0%e1%bb%9di) | N/A |
-| 27 | [đánh](http://twitter.com/search?q=%c4%91%c3%a1nh) | N/A |
-| 28 | [khóc](http://twitter.com/search?q=kh%c3%b3c) | N/A |
+| 27 | [Paris Fashion Week](http://twitter.com/search?q=Paris+Fashion+Week) | N/A |
+| 28 | [đánh](http://twitter.com/search?q=%c4%91%c3%a1nh) | N/A |
 | 29 | [Đông](http://twitter.com/search?q=%c4%90%c3%b4ng) | N/A |
-| 30 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 30 | [Paris Time](http://twitter.com/search?q=Paris+Time) | N/A |
 | 31 | [Valentino - WINWIN](http://twitter.com/search?q=Valentino+-+WINWIN) | N/A |
-| 32 | [hưng](http://twitter.com/search?q=h%c6%b0ng) | N/A |
-| 33 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 34 | [Hihi](http://twitter.com/search?q=Hihi) | N/A |
-| 35 | [Dodo](http://twitter.com/search?q=Dodo) | N/A |
-| 36 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
-| 37 | [JINNYS KITCHEN WITH V TODAY](http://twitter.com/search?q=JINNYS+KITCHEN+WITH+V+TODAY) | N/A |
-| 38 | [OP Stack](http://twitter.com/search?q=OP+Stack) | N/A |
-| 39 | [Optimism](http://twitter.com/search?q=Optimism) | N/A |
-| 40 | [Kiana](http://twitter.com/search?q=Kiana) | N/A |
-| 41 | [Explore Yields](http://twitter.com/search?q=Explore+Yields) | N/A |
-| 42 | [Đang](http://twitter.com/search?q=%c4%90ang) | N/A |
-| 43 | [Trước](http://twitter.com/search?q=Tr%c6%b0%e1%bb%9bc) | N/A |
-| 44 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 45 | [cách](http://twitter.com/search?q=c%c3%a1ch) | N/A |
-| 46 | [Chéo](http://twitter.com/search?q=Ch%c3%a9o) | N/A |
-| 47 | [Đà Nẵng](http://twitter.com/search?q=%c4%90%c3%a0+N%e1%ba%b5ng) | N/A |
-| 48 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 49 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 50 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 32 | [Khóc](http://twitter.com/search?q=Kh%c3%b3c) | N/A |
+| 33 | [Earth](http://twitter.com/search?q=Earth) | N/A |
+| 34 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 35 | [Base](http://twitter.com/search?q=Base) | N/A |
+| 36 | [hưng](http://twitter.com/search?q=h%c6%b0ng) | N/A |
+| 37 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 38 | [Hihi](http://twitter.com/search?q=Hihi) | N/A |
+| 39 | [Dodo](http://twitter.com/search?q=Dodo) | N/A |
+| 40 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
+| 41 | [JINNYS KITCHEN WITH V TODAY](http://twitter.com/search?q=JINNYS+KITCHEN+WITH+V+TODAY) | N/A |
+| 42 | [Mong](http://twitter.com/search?q=Mong) | N/A |
+| 43 | [Optimism](http://twitter.com/search?q=Optimism) | N/A |
+| 44 | [Kiana](http://twitter.com/search?q=Kiana) | N/A |
+| 45 | [Explore Yields](http://twitter.com/search?q=Explore+Yields) | N/A |
+| 46 | [America](http://twitter.com/search?q=America) | N/A |
+| 47 | [trước](http://twitter.com/search?q=tr%c6%b0%e1%bb%9bc) | N/A |
+| 48 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 49 | [Chéo](http://twitter.com/search?q=Ch%c3%a9o) | N/A |
+| 50 | [Đà Nẵng](http://twitter.com/search?q=%c4%90%c3%a0+N%e1%ba%b5ng) | N/A |
 
 
 
