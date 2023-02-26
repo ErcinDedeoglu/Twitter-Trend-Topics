@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chennai
 
-📆 Last Updated: `2023-02-26 06:17:03 UTC`
+📆 Last Updated: `2023-02-26 07:16:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 2 | [#VeerSavarkar](http://twitter.com/search?q=%23VeerSavarkar) | N/A |
-| 3 | [#DivyangVivah2023](http://twitter.com/search?q=%23DivyangVivah2023) | N/A |
-| 4 | [#ModiFearsKejriwal](http://twitter.com/search?q=%23ModiFearsKejriwal) | N/A |
-| 5 | [मनीष सिसोदिया](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a8%e0%a5%80%e0%a4%b7+%e0%a4%b8%e0%a4%bf%e0%a4%b8%e0%a5%8b%e0%a4%a6%e0%a4%bf%e0%a4%af%e0%a4%be) | N/A |
-| 6 | [भगत सिंह](http://twitter.com/search?q=%e0%a4%ad%e0%a4%97%e0%a4%a4+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9) | N/A |
-| 7 | [#MannKiBaat](http://twitter.com/search?q=%23MannKiBaat) | N/A |
-| 8 | [#Manishsisodia](http://twitter.com/search?q=%23Manishsisodia) | N/A |
+| 1 | [#13YearsOfVTV](http://twitter.com/search?q=%2313YearsOfVTV) | N/A |
+| 2 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 3 | [#MannKiBaat](http://twitter.com/search?q=%23MannKiBaat) | N/A |
+| 4 | [#DivyangVivah2023](http://twitter.com/search?q=%23DivyangVivah2023) | N/A |
+| 5 | [#VeerSavarkar](http://twitter.com/search?q=%23VeerSavarkar) | N/A |
+| 6 | [#BalakotAirStrike](http://twitter.com/search?q=%23BalakotAirStrike) | N/A |
+| 7 | [मनीष सिसोदिया](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a8%e0%a5%80%e0%a4%b7+%e0%a4%b8%e0%a4%bf%e0%a4%b8%e0%a5%8b%e0%a4%a6%e0%a4%bf%e0%a4%af%e0%a4%be) | N/A |
+| 8 | [Narayan Seva Sansthan](http://twitter.com/search?q=Narayan+Seva+Sansthan) | N/A |
 | 9 | [वीर सावरकर](http://twitter.com/search?q=%e0%a4%b5%e0%a5%80%e0%a4%b0+%e0%a4%b8%e0%a4%be%e0%a4%b5%e0%a4%b0%e0%a4%95%e0%a4%b0) | N/A |
 | 10 | [jhope](http://twitter.com/search?q=jhope) | N/A |
-| 11 | [महान क्रांतिकारी](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%95%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%82%e0%a4%a4%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80) | N/A |
-| 12 | [BIGHIT](http://twitter.com/search?q=BIGHIT) | N/A |
-| 13 | [Renewed Zeal 4Sushant Justice](http://twitter.com/search?q=Renewed+Zeal+4Sushant+Justice) | N/A |
-| 14 | [जेल जाना](http://twitter.com/search?q=%e0%a4%9c%e0%a5%87%e0%a4%b2+%e0%a4%9c%e0%a4%be%e0%a4%a8%e0%a4%be) | N/A |
-| 15 | [Science Behind Hindu Rituals](http://twitter.com/search?q=Science+Behind+Hindu+Rituals) | N/A |
-| 16 | [Hindu Dharma](http://twitter.com/search?q=Hindu+Dharma) | N/A |
+| 11 | [2seok](http://twitter.com/search?q=2seok) | N/A |
+| 12 | [भगत सिंह](http://twitter.com/search?q=%e0%a4%ad%e0%a4%97%e0%a4%a4+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9) | N/A |
+| 13 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 14 | [महान क्रांतिकारी](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%95%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%82%e0%a4%a4%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80) | N/A |
+| 15 | [Sanjay Sharma](http://twitter.com/search?q=Sanjay+Sharma) | N/A |
+| 16 | [MAJESTIC SHIV THAKARE](http://twitter.com/search?q=MAJESTIC+SHIV+THAKARE) | N/A |
 | 17 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 18 | [2seok](http://twitter.com/search?q=2seok) | N/A |
-| 19 | [महान स्वतंत्रता सेनानी](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%a4%e0%a4%be+%e0%a4%b8%e0%a5%87%e0%a4%a8%e0%a4%be%e0%a4%a8%e0%a5%80) | N/A |
-| 20 | [Rajghat](http://twitter.com/search?q=Rajghat) | N/A |
-| 21 | [Bhagat Singh](http://twitter.com/search?q=Bhagat+Singh) | N/A |
-| 22 | [Shame On INC](http://twitter.com/search?q=Shame+On+INC) | N/A |
-| 23 | [शिक्षा मंत्री](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 24 | [Sant Shri Asharamji Bapu](http://twitter.com/search?q=Sant+Shri+Asharamji+Bapu) | N/A |
+| 18 | [Renewed Zeal 4Sushant Justice](http://twitter.com/search?q=Renewed+Zeal+4Sushant+Justice) | N/A |
+| 19 | [VEER OBEROI ACING TIMG](http://twitter.com/search?q=VEER+OBEROI+ACING+TIMG) | N/A |
+| 20 | [जेल जाना](http://twitter.com/search?q=%e0%a4%9c%e0%a5%87%e0%a4%b2+%e0%a4%9c%e0%a4%be%e0%a4%a8%e0%a4%be) | N/A |
+| 21 | [महान स्वतंत्रता सेनानी](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%a4%e0%a4%be+%e0%a4%b8%e0%a5%87%e0%a4%a8%e0%a4%be%e0%a4%a8%e0%a5%80) | N/A |
+| 22 | [BIGHIT](http://twitter.com/search?q=BIGHIT) | N/A |
+| 23 | [Bhagat Singh](http://twitter.com/search?q=Bhagat+Singh) | N/A |
+| 24 | [Healy](http://twitter.com/search?q=Healy) | N/A |
 | 25 | [ब्रिज कोर्स](http://twitter.com/search?q=%e0%a4%ac%e0%a5%8d%e0%a4%b0%e0%a4%bf%e0%a4%9c+%e0%a4%95%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%b8) | N/A |
-| 26 | [भारतीय वायु सेना](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%b5%e0%a4%be%e0%a4%af%e0%a5%81+%e0%a4%b8%e0%a5%87%e0%a4%a8%e0%a4%be) | N/A |
-| 27 | [Narayan](http://twitter.com/search?q=Narayan) | N/A |
-| 28 | [भारतीय स्वतंत्रता आंदोलन](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%a4%e0%a4%be+%e0%a4%86%e0%a4%82%e0%a4%a6%e0%a5%8b%e0%a4%b2%e0%a4%a8) | N/A |
-| 29 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 30 | [Healy](http://twitter.com/search?q=Healy) | N/A |
-| 31 | [स्वतंत्रता संग्राम](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%a4%e0%a4%be+%e0%a4%b8%e0%a4%82%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 32 | [सूर्य देव](http://twitter.com/search?q=%e0%a4%b8%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%af+%e0%a4%a6%e0%a5%87%e0%a4%b5) | N/A |
-| 33 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 34 | [रेडियो कार्यक्रम](http://twitter.com/search?q=%e0%a4%b0%e0%a5%87%e0%a4%a1%e0%a4%bf%e0%a4%af%e0%a5%8b+%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%af%e0%a4%95%e0%a5%8d%e0%a4%b0%e0%a4%ae) | N/A |
-| 35 | [Britishers](http://twitter.com/search?q=Britishers) | N/A |
-| 36 | [अरविंद केजरीवाल](http://twitter.com/search?q=%e0%a4%85%e0%a4%b0%e0%a4%b5%e0%a4%bf%e0%a4%82%e0%a4%a6+%e0%a4%95%e0%a5%87%e0%a4%9c%e0%a4%b0%e0%a5%80%e0%a4%b5%e0%a4%be%e0%a4%b2) | N/A |
-| 37 | [श्री नरेन्द्र मोदी](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%a8%e0%a4%b0%e0%a5%87%e0%a4%a8%e0%a5%8d%e0%a4%a6%e0%a5%8d%e0%a4%b0+%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80) | N/A |
-| 38 | [IITs](http://twitter.com/search?q=IITs) | N/A |
-| 39 | [#BalakotAirStrike](http://twitter.com/search?q=%23BalakotAirStrike) | N/A |
-| 40 | [#Balakot_SurgicalStrike2](http://twitter.com/search?q=%23Balakot_SurgicalStrike2) | N/A |
-| 41 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
-| 42 | [#SpiritualSunday](http://twitter.com/search?q=%23SpiritualSunday) | N/A |
-| 43 | [#हमारे_संस्कार](http://twitter.com/search?q=%23%e0%a4%b9%e0%a4%ae%e0%a4%be%e0%a4%b0%e0%a5%87_%e0%a4%b8%e0%a4%82%e0%a4%b8%e0%a5%8d%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
-| 44 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
-| 45 | [#DepthCampaign](http://twitter.com/search?q=%23DepthCampaign) | N/A |
-| 46 | [#भारत_हिन्दूराष्ट्र_बने](http://twitter.com/search?q=%23%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4_%e0%a4%b9%e0%a4%bf%e0%a4%a8%e0%a5%8d%e0%a4%a6%e0%a5%82%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0_%e0%a4%ac%e0%a4%a8%e0%a5%87) | N/A |
-| 47 | [#CongressSankalp2024](http://twitter.com/search?q=%23CongressSankalp2024) | N/A |
-| 48 | [#Ahmedabadfoundationday](http://twitter.com/search?q=%23Ahmedabadfoundationday) | N/A |
-| 49 | [#MPTET_VARG_3_FINAL_MERIT_LIST](http://twitter.com/search?q=%23MPTET_VARG_3_FINAL_MERIT_LIST) | N/A |
-| 50 | [#AntiIndiaCongress](http://twitter.com/search?q=%23AntiIndiaCongress) | N/A |
+| 26 | [शिक्षा मंत्री](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
+| 27 | [Rajghat](http://twitter.com/search?q=Rajghat) | N/A |
+| 28 | [भारतीय वायु सेना](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%b5%e0%a4%be%e0%a4%af%e0%a5%81+%e0%a4%b8%e0%a5%87%e0%a4%a8%e0%a4%be) | N/A |
+| 29 | [Hindu Dharma](http://twitter.com/search?q=Hindu+Dharma) | N/A |
+| 30 | [Shame On INC](http://twitter.com/search?q=Shame+On+INC) | N/A |
+| 31 | [Science Behind Hindu Rituals](http://twitter.com/search?q=Science+Behind+Hindu+Rituals) | N/A |
+| 32 | [Weverse](http://twitter.com/search?q=Weverse) | Weverse is a social media platform created by the South Korean entertainment company Big Hit Entertainment. It is designed to connect fans with artists and allow them to interact with each other. The name Weverse is derived from the words “we” and “universe”, representing the idea of creating a universe where fans and artists can come together. |
+| 33 | [श्री नरेंद्र मोदी](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%a8%e0%a4%b0%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0+%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80) | N/A |
+| 34 | [स्वतंत्रता संग्राम](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%a4%e0%a4%be+%e0%a4%b8%e0%a4%82%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
+| 35 | [लोकप्रिय कार्यक्रम](http://twitter.com/search?q=%e0%a4%b2%e0%a5%8b%e0%a4%95%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%bf%e0%a4%af+%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%af%e0%a4%95%e0%a5%8d%e0%a4%b0%e0%a4%ae) | N/A |
+| 36 | [Sant Shri Asharamji Bapu](http://twitter.com/search?q=Sant+Shri+Asharamji+Bapu) | N/A |
+| 37 | [भारतीय स्वतंत्रता आंदोलन](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%a4%e0%a4%be+%e0%a4%86%e0%a4%82%e0%a4%a6%e0%a5%8b%e0%a4%b2%e0%a4%a8) | N/A |
+| 38 | [Jail](http://twitter.com/search?q=Jail) | N/A |
+| 39 | [गुड्डू मुस्लिम](http://twitter.com/search?q=%e0%a4%97%e0%a5%81%e0%a4%a1%e0%a5%8d%e0%a4%a1%e0%a5%82+%e0%a4%ae%e0%a5%81%e0%a4%b8%e0%a5%8d%e0%a4%b2%e0%a4%bf%e0%a4%ae) | N/A |
+| 40 | [Drama](http://twitter.com/search?q=Drama) | N/A |
+| 41 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 42 | [Britishers](http://twitter.com/search?q=Britishers) | N/A |
+| 43 | [सूर्य देव](http://twitter.com/search?q=%e0%a4%b8%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%af+%e0%a4%a6%e0%a5%87%e0%a4%b5) | N/A |
+| 44 | [रेडियो कार्यक्रम](http://twitter.com/search?q=%e0%a4%b0%e0%a5%87%e0%a4%a1%e0%a4%bf%e0%a4%af%e0%a5%8b+%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%af%e0%a4%95%e0%a5%8d%e0%a4%b0%e0%a4%ae) | N/A |
+| 45 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 46 | [अरविंद केजरीवाल](http://twitter.com/search?q=%e0%a4%85%e0%a4%b0%e0%a4%b5%e0%a4%bf%e0%a4%82%e0%a4%a6+%e0%a4%95%e0%a5%87%e0%a4%9c%e0%a4%b0%e0%a5%80%e0%a4%b5%e0%a4%be%e0%a4%b2) | N/A |
+| 47 | [IITs](http://twitter.com/search?q=IITs) | N/A |
+| 48 | [#ModiFearsKejriwal](http://twitter.com/search?q=%23ModiFearsKejriwal) | N/A |
+| 49 | [#ManishSisodia](http://twitter.com/search?q=%23ManishSisodia) | N/A |
+| 50 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
 
 
 

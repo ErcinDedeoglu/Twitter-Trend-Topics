@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bergen
 
-📆 Last Updated: `2023-02-26 06:16:44 UTC`
+📆 Last Updated: `2023-02-26 07:15:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,8 +17,8 @@ This is top 50 for [Norway](</Norway>)
 | ------- | ------------ | ------------ |
 | 1 | [#LEIARS](http://twitter.com/search?q=%23LEIARS) | N/A |
 | 2 | [astrid øyre slind](http://twitter.com/search?q=astrid+%c3%b8yre+slind) | N/A |
-| 3 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
-| 4 | [Keita](http://twitter.com/search?q=Keita) | Keita is a Japanese name meaning "blessed" or "happy". It is often used as a given name for boys. |
+| 3 | [Keita](http://twitter.com/search?q=Keita) | Keita is a Japanese name meaning "blessed" or "happy". It is often used as a given name for boys. |
+| 4 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
 | 5 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
 | 6 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
 | 7 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
@@ -45,19 +45,19 @@ This is top 50 for [Norway](</Norway>)
 | 28 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
 | 29 | [Darwin](http://twitter.com/search?q=Darwin) | Darwin is the name of a city in Australia, located in the Northern Territory. It is named after Charles Darwin, the British naturalist who developed the theory of evolution. The name Darwin is derived from the Old English words 'deor' (animal) and 'wine' (friend). |
 | 30 | [Hersh](http://twitter.com/search?q=Hersh) | N/A |
-| 31 | [sophie elise](http://twitter.com/search?q=sophie+elise) | N/A |
-| 32 | [Russlands](http://twitter.com/search?q=Russlands) | N/A |
-| 33 | [mRNA](http://twitter.com/search?q=mRNA) | N/A |
-| 34 | [sogndal](http://twitter.com/search?q=sogndal) | N/A |
-| 35 | [fredrikstad](http://twitter.com/search?q=fredrikstad) | N/A |
-| 36 | [vårt land](http://twitter.com/search?q=v%c3%a5rt+land) | N/A |
-| 37 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 38 | [Libya](http://twitter.com/search?q=Libya) | N/A |
-| 39 | [olje](http://twitter.com/search?q=olje) | N/A |
-| 40 | [åsane](http://twitter.com/search?q=%c3%a5sane) | N/A |
-| 41 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
-| 42 | [rosenborg](http://twitter.com/search?q=rosenborg) | N/A |
-| 43 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 31 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
+| 32 | [sophie elise](http://twitter.com/search?q=sophie+elise) | N/A |
+| 33 | [Russlands](http://twitter.com/search?q=Russlands) | N/A |
+| 34 | [mRNA](http://twitter.com/search?q=mRNA) | N/A |
+| 35 | [sogndal](http://twitter.com/search?q=sogndal) | N/A |
+| 36 | [fredrikstad](http://twitter.com/search?q=fredrikstad) | N/A |
+| 37 | [vårt land](http://twitter.com/search?q=v%c3%a5rt+land) | N/A |
+| 38 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 39 | [Libya](http://twitter.com/search?q=Libya) | N/A |
+| 40 | [olje](http://twitter.com/search?q=olje) | N/A |
+| 41 | [åsane](http://twitter.com/search?q=%c3%a5sane) | N/A |
+| 42 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
+| 43 | [rosenborg](http://twitter.com/search?q=rosenborg) | N/A |
 | 44 | [faen](http://twitter.com/search?q=faen) | N/A |
 | 45 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
 | 46 | [supernytt](http://twitter.com/search?q=supernytt) | N/A |

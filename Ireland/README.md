@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ireland
 
-📆 Last Updated: `2023-02-26 06:17:15 UTC`
+📆 Last Updated: `2023-02-26 07:16:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,7 +21,7 @@ This is top 50 for Ireland
 | 4 | [#Bellator291](http://twitter.com/search?q=%23Bellator291) | N/A |
 | 5 | [Ireland's Call](http://twitter.com/search?q=Ireland%27s+Call) | N/A |
 | 6 | [Keita](http://twitter.com/search?q=Keita) | Keita is a Japanese name meaning "blessed" or "happy". It is often used as a given name for boys. |
-| 7 | [#SixNations](http://twitter.com/search?q=%23SixNations) | N/A |
+| 7 | [#sixnations](http://twitter.com/search?q=%23sixnations) | N/A |
 | 8 | [Italy](http://twitter.com/search?q=Italy) | N/A |
 | 9 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
 | 10 | [Mack Hansen](http://twitter.com/search?q=Mack+Hansen) | N/A |
@@ -35,15 +35,15 @@ This is top 50 for Ireland
 | 18 | [Palace](http://twitter.com/search?q=Palace) | Palace is a large and grand residence, especially one owned by a monarch or other powerful figure. It is usually the residence of a head of state or some other high-ranking dignitary. The word comes from the Latin palatium, meaning "residence of a ruler". |
 | 19 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
 | 20 | [Armagh](http://twitter.com/search?q=Armagh) | N/A |
-| 21 | [nphet](http://twitter.com/search?q=nphet) | N/A |
+| 21 | [NPHET](http://twitter.com/search?q=NPHET) | N/A |
 | 22 | [croke park](http://twitter.com/search?q=croke+park) | N/A |
 | 23 | [Jota](http://twitter.com/search?q=Jota) | N/A |
 | 24 | [james lowe](http://twitter.com/search?q=james+lowe) | N/A |
 | 25 | [Naby](http://twitter.com/search?q=Naby) | Naby is a slang term derived from the phrase "neighborhood buddy." It is used to refer to someone who is a close friend or ally in one's local area. |
 | 26 | [hugo keenan](http://twitter.com/search?q=hugo+keenan) | N/A |
 | 27 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
-| 28 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 29 | [INEC](http://twitter.com/search?q=INEC) | N/A |
+| 28 | [INEC](http://twitter.com/search?q=INEC) | N/A |
+| 29 | [Russia](http://twitter.com/search?q=Russia) | N/A |
 | 30 | [The Italian](http://twitter.com/search?q=The+Italian) | N/A |
 | 31 | [Cocaine Bear](http://twitter.com/search?q=Cocaine+Bear) | Cocaine Bear is an internet meme that originated from a real-life incident in 1985. It refers to a black bear that was found dead in the Great Smoky Mountains National Park in Tennessee, USA. The bear had ingested over 70 pounds of cocaine that had been dropped from an airplane by drug smugglers. The phrase "Cocaine Bear" is used to refer to any situation where someone or something has taken on more than they can handle. |
 | 32 | [Tyrone](http://twitter.com/search?q=Tyrone) | N/A |

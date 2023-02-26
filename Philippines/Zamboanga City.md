@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zamboanga City
 
-📆 Last Updated: `2023-02-26 06:16:53 UTC`
+📆 Last Updated: `2023-02-26 07:15:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Philippines](</Philippines>)
 | ------- | ------------ | ------------ |
 | 1 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
 | 2 | [WILDTONIGHT ON AOS](http://twitter.com/search?q=WILDTONIGHT+ON+AOS) | N/A |
-| 3 | [jhope](http://twitter.com/search?q=jhope) | N/A |
-| 4 | [ALL OUT JOSH CULLEN](http://twitter.com/search?q=ALL+OUT+JOSH+CULLEN) | N/A |
-| 5 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 6 | [HAPPY 23RD BDAY ALEXA](http://twitter.com/search?q=HAPPY+23RD+BDAY+ALEXA) | N/A |
-| 7 | [#AOSYesNaYes](http://twitter.com/search?q=%23AOSYesNaYes) | N/A |
-| 8 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 9 | [2seok](http://twitter.com/search?q=2seok) | N/A |
-| 10 | [BIGHIT](http://twitter.com/search?q=BIGHIT) | N/A |
-| 11 | [#PARKJINYOUNGinMNL2023](http://twitter.com/search?q=%23PARKJINYOUNGinMNL2023) | N/A |
-| 12 | [Liza](http://twitter.com/search?q=Liza) | N/A |
-| 13 | [Stell](http://twitter.com/search?q=Stell) | N/A |
-| 14 | [BINI OUR MODESS GIRLS](http://twitter.com/search?q=BINI+OUR+MODESS+GIRLS) | N/A |
-| 15 | [#ModessxBini](http://twitter.com/search?q=%23ModessxBini) | N/A |
-| 16 | [#WalangDudaWithModessLong](http://twitter.com/search?q=%23WalangDudaWithModessLong) | N/A |
-| 17 | [jaeyong](http://twitter.com/search?q=jaeyong) | N/A |
-| 18 | [iWant Alpha Boys](http://twitter.com/search?q=iWant+Alpha+Boys) | N/A |
-| 19 | [MY SUNSHINE](http://twitter.com/search?q=MY+SUNSHINE) | N/A |
-| 20 | [WE NEED IRENE SOLO SCHEDULE](http://twitter.com/search?q=WE+NEED+IRENE+SOLO+SCHEDULE) | N/A |
-| 21 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
-| 22 | [ANJI OnASAP BESTofFEB](http://twitter.com/search?q=ANJI+OnASAP+BESTofFEB) | N/A |
-| 23 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
-| 24 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
-| 25 | [YesNaYes SaJULIEVER](http://twitter.com/search?q=YesNaYes+SaJULIEVER) | N/A |
-| 26 | [Where You At](http://twitter.com/search?q=Where+You+At) | N/A |
-| 27 | [WELCOME BACK LWL](http://twitter.com/search?q=WELCOME+BACK+LWL) | N/A |
-| 28 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
-| 29 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 30 | [Ssob](http://twitter.com/search?q=Ssob) | N/A |
-| 31 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 32 | [Felip](http://twitter.com/search?q=Felip) | N/A |
-| 33 | [Hunter](http://twitter.com/search?q=Hunter) | N/A |
+| 3 | [2seok](http://twitter.com/search?q=2seok) | N/A |
+| 4 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 5 | [jhope](http://twitter.com/search?q=jhope) | N/A |
+| 6 | [ALL OUT JOSH CULLEN](http://twitter.com/search?q=ALL+OUT+JOSH+CULLEN) | N/A |
+| 7 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 8 | [#SturdyAimDLSU](http://twitter.com/search?q=%23SturdyAimDLSU) | N/A |
+| 9 | [HAPPY 23RD BDAY ALEXA](http://twitter.com/search?q=HAPPY+23RD+BDAY+ALEXA) | N/A |
+| 10 | [#UAAPSeason85](http://twitter.com/search?q=%23UAAPSeason85) | N/A |
+| 11 | [#FiLayThanksgivingEvent](http://twitter.com/search?q=%23FiLayThanksgivingEvent) | N/A |
+| 12 | [#PARKJINYOUNGinMNL2023](http://twitter.com/search?q=%23PARKJINYOUNGinMNL2023) | N/A |
+| 13 | [BIGHIT](http://twitter.com/search?q=BIGHIT) | N/A |
+| 14 | [Liza](http://twitter.com/search?q=Liza) | N/A |
+| 15 | [Go USTe](http://twitter.com/search?q=Go+USTe) | N/A |
+| 16 | [Tina Salak](http://twitter.com/search?q=Tina+Salak) | N/A |
+| 17 | [Coach Tina](http://twitter.com/search?q=Coach+Tina) | N/A |
+| 18 | [Jin hyung](http://twitter.com/search?q=Jin+hyung) | N/A |
+| 19 | [Ytang](http://twitter.com/search?q=Ytang) | N/A |
+| 20 | [Stell](http://twitter.com/search?q=Stell) | N/A |
+| 21 | [Jaeyong](http://twitter.com/search?q=Jaeyong) | N/A |
+| 22 | [iWant Alpha Boys](http://twitter.com/search?q=iWant+Alpha+Boys) | N/A |
+| 23 | [MY SUNSHINE](http://twitter.com/search?q=MY+SUNSHINE) | N/A |
+| 24 | [WE NEED IRENE SOLO SCHEDULE](http://twitter.com/search?q=WE+NEED+IRENE+SOLO+SCHEDULE) | N/A |
+| 25 | [BINI OUR MODESS GIRLS](http://twitter.com/search?q=BINI+OUR+MODESS+GIRLS) | N/A |
+| 26 | [ANJI OnASAP BESTofFEB](http://twitter.com/search?q=ANJI+OnASAP+BESTofFEB) | N/A |
+| 27 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
+| 28 | [YesNaYes SaJULIEVER](http://twitter.com/search?q=YesNaYes+SaJULIEVER) | N/A |
+| 29 | [WELCOME BACK LWL](http://twitter.com/search?q=WELCOME+BACK+LWL) | N/A |
+| 30 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 31 | [Ssob](http://twitter.com/search?q=Ssob) | N/A |
+| 32 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 33 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
 | 34 | [Kross the Line with ENHYPEN](http://twitter.com/search?q=Kross+the+Line+with+ENHYPEN) | N/A |
-| 35 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 35 | [Felip](http://twitter.com/search?q=Felip) | N/A |
 | 36 | [Cavite](http://twitter.com/search?q=Cavite) | N/A |
-| 37 | [#ASAPAllHits](http://twitter.com/search?q=%23ASAPAllHits) | N/A |
-| 38 | [#iWantASAP](http://twitter.com/search?q=%23iWantASAP) | N/A |
-| 39 | [#Mori3D](http://twitter.com/search?q=%23Mori3D) | N/A |
-| 40 | [#BrightestStarDrei](http://twitter.com/search?q=%23BrightestStarDrei) | N/A |
-| 41 | [#MostRequestedLive](http://twitter.com/search?q=%23MostRequestedLive) | N/A |
-| 42 | [#WYAT](http://twitter.com/search?q=%23WYAT) | N/A |
-| 43 | [#1000DaysWithJake](http://twitter.com/search?q=%231000DaysWithJake) | N/A |
-| 44 | [#UPFight](http://twitter.com/search?q=%23UPFight) | N/A |
-| 45 | [#IreneDeservesBetterTreatment](http://twitter.com/search?q=%23IreneDeservesBetterTreatment) | N/A |
-| 46 | [#VeryCherryDay](http://twitter.com/search?q=%23VeryCherryDay) | N/A |
-| 47 | [#Brigiding](http://twitter.com/search?q=%23Brigiding) | N/A |
-| 48 | [#RMxBOTTEGAVENETA](http://twitter.com/search?q=%23RMxBOTTEGAVENETA) | N/A |
-| 49 | [#KROSSvol2](http://twitter.com/search?q=%23KROSSvol2) | N/A |
+| 37 | [#AOSYesNaYes](http://twitter.com/search?q=%23AOSYesNaYes) | N/A |
+| 38 | [#ASAPAllHits](http://twitter.com/search?q=%23ASAPAllHits) | N/A |
+| 39 | [#AnimoLaSalle](http://twitter.com/search?q=%23AnimoLaSalle) | N/A |
+| 40 | [#ModessxBini](http://twitter.com/search?q=%23ModessxBini) | N/A |
+| 41 | [#WalangDudaWithModessLong](http://twitter.com/search?q=%23WalangDudaWithModessLong) | N/A |
+| 42 | [#iWantASAP](http://twitter.com/search?q=%23iWantASAP) | N/A |
+| 43 | [#BrightestStarDrei](http://twitter.com/search?q=%23BrightestStarDrei) | N/A |
+| 44 | [#UAAPVolleyball](http://twitter.com/search?q=%23UAAPVolleyball) | N/A |
+| 45 | [#JAYR](http://twitter.com/search?q=%23JAYR) | N/A |
+| 46 | [#ItoNaKami](http://twitter.com/search?q=%23ItoNaKami) | N/A |
+| 47 | [#UPFight](http://twitter.com/search?q=%23UPFight) | N/A |
+| 48 | [#1000DaysWithJake](http://twitter.com/search?q=%231000DaysWithJake) | N/A |
+| 49 | [#WYAT](http://twitter.com/search?q=%23WYAT) | N/A |
 
 
 

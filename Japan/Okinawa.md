@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Okinawa
 
-📆 Last Updated: `2023-02-26 06:17:05 UTC`
+📆 Last Updated: `2023-02-26 07:16:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Japan](</Japan>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#チルドキ](http://twitter.com/search?q=%23%e3%83%81%e3%83%ab%e3%83%89%e3%82%ad) | N/A |
-| 2 | [#YUDT](http://twitter.com/search?q=%23YUDT) | N/A |
-| 3 | [丈くんドラマ](http://twitter.com/search?q=%e4%b8%88%e3%81%8f%e3%82%93%e3%83%89%e3%83%a9%e3%83%9e) | N/A |
-| 4 | [ホビたん](http://twitter.com/search?q=%e3%83%9b%e3%83%93%e3%81%9f%e3%82%93) | N/A |
-| 5 | [ホソクさん](http://twitter.com/search?q=%e3%83%9b%e3%82%bd%e3%82%af%e3%81%95%e3%82%93) | N/A |
-| 6 | [#みてるぜKOP4th](http://twitter.com/search?q=%23%e3%81%bf%e3%81%a6%e3%82%8b%e3%81%9cKOP4th) | N/A |
-| 7 | [ビッグシーザー](http://twitter.com/search?q=%e3%83%93%e3%83%83%e3%82%b0%e3%82%b7%e3%83%bc%e3%82%b6%e3%83%bc) | N/A |
-| 8 | [中山記念](http://twitter.com/search?q=%e4%b8%ad%e5%b1%b1%e8%a8%98%e5%bf%b5) | N/A |
-| 9 | [#みんなで見ようAPOŹ_DAY2](http://twitter.com/search?q=%23%e3%81%bf%e3%82%93%e3%81%aa%e3%81%a7%e8%a6%8b%e3%82%88%e3%81%86APO%c5%b9_DAY2) | N/A |
-| 10 | [許斐先生](http://twitter.com/search?q=%e8%a8%b1%e6%96%90%e5%85%88%e7%94%9f) | N/A |
-| 11 | [#それスノ](http://twitter.com/search?q=%23%e3%81%9d%e3%82%8c%e3%82%b9%e3%83%8e) | #それスノ is a hashtag used on Twitter in Japan. It translates to "That's snow" and is used to express surprise or admiration at something beautiful or amazing. |
-| 12 | [ドンブラザーズ](http://twitter.com/search?q=%e3%83%89%e3%83%b3%e3%83%96%e3%83%a9%e3%82%b6%e3%83%bc%e3%82%ba) | N/A |
-| 13 | [みかちゃん](http://twitter.com/search?q=%e3%81%bf%e3%81%8b%e3%81%a1%e3%82%83%e3%82%93) | みかちゃん is a nickname for the Japanese name Mikako. It is a term of endearment, similar to calling someone "Mika" or "Mikki". In English, it could be translated as "Mika-chan". |
-| 14 | [ガルちゃん](http://twitter.com/search?q=%e3%82%ac%e3%83%ab%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 15 | [秘匿2PL](http://twitter.com/search?q=%e7%a7%98%e5%8c%bf2PL) | N/A |
-| 16 | [ガルビス](http://twitter.com/search?q=%e3%82%ac%e3%83%ab%e3%83%93%e3%82%b9) | N/A |
-| 17 | [他人の生命](http://twitter.com/search?q=%e4%bb%96%e4%ba%ba%e3%81%ae%e7%94%9f%e5%91%bd) | N/A |
-| 18 | [あと5回](http://twitter.com/search?q=%e3%81%82%e3%81%a85%e5%9b%9e) | N/A |
-| 19 | [山本由伸](http://twitter.com/search?q=%e5%b1%b1%e6%9c%ac%e7%94%b1%e4%bc%b8) | N/A |
-| 20 | [お師さん](http://twitter.com/search?q=%e3%81%8a%e5%b8%ab%e3%81%95%e3%82%93) | N/A |
-| 21 | [ソーヴァリアント](http://twitter.com/search?q=%e3%82%bd%e3%83%bc%e3%83%b4%e3%82%a1%e3%83%aa%e3%82%a2%e3%83%b3%e3%83%88) | N/A |
-| 22 | [東大物理](http://twitter.com/search?q=%e6%9d%b1%e5%a4%a7%e7%89%a9%e7%90%86) | N/A |
-| 23 | [伊藤涼太郎](http://twitter.com/search?q=%e4%bc%8a%e8%97%a4%e6%b6%bc%e5%a4%aa%e9%83%8e) | N/A |
-| 24 | [ナディアガーズ](http://twitter.com/search?q=%e3%83%8a%e3%83%87%e3%82%a3%e3%82%a2%e3%82%ac%e3%83%bc%e3%82%ba) | ナディアガーズ is a Japanese rock band formed in Tokyo in 2002. The name is derived from the phrase "Nadia's Gaze," which refers to the gaze of a young girl looking out into the world. The band's music is characterized by melodic guitar riffs, driving rhythms, and passionate vocals. |
-| 25 | [フォレスト](http://twitter.com/search?q=%e3%83%95%e3%82%a9%e3%83%ac%e3%82%b9%e3%83%88) | N/A |
-| 26 | [ダメバフ](http://twitter.com/search?q=%e3%83%80%e3%83%a1%e3%83%90%e3%83%95) | N/A |
-| 27 | [ウェンデルケン](http://twitter.com/search?q=%e3%82%a6%e3%82%a7%e3%83%b3%e3%83%87%e3%83%ab%e3%82%b1%e3%83%b3) | N/A |
-| 28 | [ホビちゃん](http://twitter.com/search?q=%e3%83%9b%e3%83%93%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 29 | [タローマンヒストリア](http://twitter.com/search?q=%e3%82%bf%e3%83%ad%e3%83%bc%e3%83%9e%e3%83%b3%e3%83%92%e3%82%b9%e3%83%88%e3%83%aa%e3%82%a2) | N/A |
-| 30 | [ヒシイグアス](http://twitter.com/search?q=%e3%83%92%e3%82%b7%e3%82%a4%e3%82%b0%e3%82%a2%e3%82%b9) | N/A |
-| 31 | [ジンくんの時](http://twitter.com/search?q=%e3%82%b8%e3%83%b3%e3%81%8f%e3%82%93%e3%81%ae%e6%99%82) | N/A |
-| 32 | [スタニングローズ](http://twitter.com/search?q=%e3%82%b9%e3%82%bf%e3%83%8b%e3%83%b3%e3%82%b0%e3%83%ad%e3%83%bc%e3%82%ba) | N/A |
-| 33 | [ダノンザキッド](http://twitter.com/search?q=%e3%83%80%e3%83%8e%e3%83%b3%e3%82%b6%e3%82%ad%e3%83%83%e3%83%89) | N/A |
-| 34 | [DUEL](http://twitter.com/search?q=DUEL) | N/A |
-| 35 | [ボンボンイ](http://twitter.com/search?q=%e3%83%9c%e3%83%b3%e3%83%9c%e3%83%b3%e3%82%a4) | N/A |
-| 36 | [ハートフル](http://twitter.com/search?q=%e3%83%8f%e3%83%bc%e3%83%88%e3%83%95%e3%83%ab) | N/A |
-| 37 | [キハダ先生](http://twitter.com/search?q=%e3%82%ad%e3%83%8f%e3%83%80%e5%85%88%e7%94%9f) | N/A |
-| 38 | [れおほー](http://twitter.com/search?q=%e3%82%8c%e3%81%8a%e3%81%bb%e3%83%bc) | N/A |
-| 39 | [パンサラッサ](http://twitter.com/search?q=%e3%83%91%e3%83%b3%e3%82%b5%e3%83%a9%e3%83%83%e3%82%b5) | パンサラッサ is a type of traditional Japanese dance that originated in the Edo period. It is performed by two people, one playing the role of a panther and the other playing the role of a hunter. The panther dances around the hunter, trying to avoid being caught. In English, it can be translated as "Panther Dance". |
-| 40 | [イグノー](http://twitter.com/search?q=%e3%82%a4%e3%82%b0%e3%83%8e%e3%83%bc) | N/A |
-| 41 | [広島相手](http://twitter.com/search?q=%e5%ba%83%e5%b3%b6%e7%9b%b8%e6%89%8b) | N/A |
-| 42 | [シュネルマイスター](http://twitter.com/search?q=%e3%82%b7%e3%83%a5%e3%83%8d%e3%83%ab%e3%83%9e%e3%82%a4%e3%82%b9%e3%82%bf%e3%83%bc) | N/A |
-| 43 | [キハダSAR](http://twitter.com/search?q=%e3%82%ad%e3%83%8f%e3%83%80SAR) | N/A |
-| 44 | [藤井くん](http://twitter.com/search?q=%e8%97%a4%e4%ba%95%e3%81%8f%e3%82%93) | N/A |
-| 45 | [日曜日の午後](http://twitter.com/search?q=%e6%97%a5%e6%9b%9c%e6%97%a5%e3%81%ae%e5%8d%88%e5%be%8c) | N/A |
-| 46 | [アキーノ](http://twitter.com/search?q=%e3%82%a2%e3%82%ad%e3%83%bc%e3%83%8e) | N/A |
-| 47 | [ヴァルイベ](http://twitter.com/search?q=%e3%83%b4%e3%82%a1%e3%83%ab%e3%82%a4%e3%83%99) | N/A |
-| 48 | [個人サイト](http://twitter.com/search?q=%e5%80%8b%e4%ba%ba%e3%82%b5%e3%82%a4%e3%83%88) | 個人サイト (Kojin Saito) is a type of website created by an individual for personal use. It can be used to showcase a portfolio, share information, or provide a platform for self-expression. In English, it is often referred to as a personal website. |
-| 49 | [ラーグルフ](http://twitter.com/search?q=%e3%83%a9%e3%83%bc%e3%82%b0%e3%83%ab%e3%83%95) | ラーグルフ (Ragurufu) is a Japanese card game that is similar to the Western game of Rummy. It is played with a set of 108 cards, divided into four suits (red, blue, green and yellow). The objective of the game is to be the first player to get rid of all their cards by forming sets and runs. In English, it can be translated as Rummy. |
-| 50 | [ケレンのグッズ](http://twitter.com/search?q=%e3%82%b1%e3%83%ac%e3%83%b3%e3%81%ae%e3%82%b0%e3%83%83%e3%82%ba) | N/A |
+| 2 | [ヒシイグアス](http://twitter.com/search?q=%e3%83%92%e3%82%b7%e3%82%a4%e3%82%b0%e3%82%a2%e3%82%b9) | N/A |
+| 3 | [中山記念](http://twitter.com/search?q=%e4%b8%ad%e5%b1%b1%e8%a8%98%e5%bf%b5) | N/A |
+| 4 | [ジンくん](http://twitter.com/search?q=%e3%82%b8%e3%83%b3%e3%81%8f%e3%82%93) | ジンくん is a character from the Japanese manga series "Kochira Katsushika-ku Kameari Kōen-mae Hashutsujo". His name is Jin Kamiya and he is a young delinquent who often gets into trouble. He is known for his mischievous behavior and his catchphrase, "Yare yare daze". In English, this phrase roughly translates to "Oh, come on!" |
+| 5 | [ラーグルフ](http://twitter.com/search?q=%e3%83%a9%e3%83%bc%e3%82%b0%e3%83%ab%e3%83%95) | ラーグルフ (Ragurufu) is a Japanese card game that is similar to the Western game of Rummy. It is played with a set of 108 cards, divided into four suits (red, blue, green and yellow). The objective of the game is to be the first player to get rid of all their cards by forming sets and runs. In English, it can be translated as Rummy. |
+| 6 | [ドーブネ](http://twitter.com/search?q=%e3%83%89%e3%83%bc%e3%83%96%e3%83%8d) | ドーブネ (Dōbune) is a type of traditional Japanese boat. It is a flat-bottomed boat with a pointed bow and stern, and is usually propelled by oars or sails. In English, it is sometimes referred to as a "dugout canoe". |
+| 7 | [ソーヴァリアント](http://twitter.com/search?q=%e3%82%bd%e3%83%bc%e3%83%b4%e3%82%a1%e3%83%aa%e3%82%a2%e3%83%b3%e3%83%88) | N/A |
+| 8 | [ナディアガーズ](http://twitter.com/search?q=%e3%83%8a%e3%83%87%e3%82%a3%e3%82%a2%e3%82%ac%e3%83%bc%e3%82%ba) | ナディアガーズ is a Japanese rock band formed in Tokyo in 2002. The name is derived from the phrase "Nadia's Gaze," which refers to the gaze of a young girl looking out into the world. The band's music is characterized by melodic guitar riffs, driving rhythms, and passionate vocals. |
+| 9 | [ダノンザキッド](http://twitter.com/search?q=%e3%83%80%e3%83%8e%e3%83%b3%e3%82%b6%e3%82%ad%e3%83%83%e3%83%89) | N/A |
+| 10 | [#YUDT](http://twitter.com/search?q=%23YUDT) | N/A |
+| 11 | [#DD_LIVEday2](http://twitter.com/search?q=%23DD_LIVEday2) | N/A |
+| 12 | [#albirex](http://twitter.com/search?q=%23albirex) | N/A |
+| 13 | [スタニングローズ](http://twitter.com/search?q=%e3%82%b9%e3%82%bf%e3%83%8b%e3%83%b3%e3%82%b0%e3%83%ad%e3%83%bc%e3%82%ba) | N/A |
+| 14 | [みかちゃん](http://twitter.com/search?q=%e3%81%bf%e3%81%8b%e3%81%a1%e3%82%83%e3%82%93) | みかちゃん is a nickname for the Japanese name Mikako. It is a term of endearment, similar to calling someone "Mika" or "Mikki". In English, it could be translated as "Mika-chan". |
+| 15 | [シュネルマイスター](http://twitter.com/search?q=%e3%82%b7%e3%83%a5%e3%83%8d%e3%83%ab%e3%83%9e%e3%82%a4%e3%82%b9%e3%82%bf%e3%83%bc) | N/A |
+| 16 | [#みてるぜKOP4th](http://twitter.com/search?q=%23%e3%81%bf%e3%81%a6%e3%82%8b%e3%81%9cKOP4th) | N/A |
+| 17 | [ホビたん](http://twitter.com/search?q=%e3%83%9b%e3%83%93%e3%81%9f%e3%82%93) | N/A |
+| 18 | [ホウオウアマゾン](http://twitter.com/search?q=%e3%83%9b%e3%82%a6%e3%82%aa%e3%82%a6%e3%82%a2%e3%83%9e%e3%82%be%e3%83%b3) | ホウオウアマゾン is a Japanese phrase that translates to "Amazon Rainforest" in English. It is the largest tropical rainforest in the world, located in South America. |
+| 19 | [イルーシヴパンサー](http://twitter.com/search?q=%e3%82%a4%e3%83%ab%e3%83%bc%e3%82%b7%e3%83%b4%e3%83%91%e3%83%b3%e3%82%b5%e3%83%bc) | イルーシヴパンサー is a Japanese manga series written and illustrated by Hideaki Yoshikawa. It follows the story of a group of high school students who are given special powers by a mysterious entity known as the Illusive Panther. The English translation of the title is "Illusive Panther". |
+| 20 | [ホソクさん](http://twitter.com/search?q=%e3%83%9b%e3%82%bd%e3%82%af%e3%81%95%e3%82%93) | N/A |
+| 21 | [キハダ先生](http://twitter.com/search?q=%e3%82%ad%e3%83%8f%e3%83%80%e5%85%88%e7%94%9f) | N/A |
+| 22 | [丈くんドラマ](http://twitter.com/search?q=%e4%b8%88%e3%81%8f%e3%82%93%e3%83%89%e3%83%a9%e3%83%9e) | N/A |
+| 23 | [お師さん](http://twitter.com/search?q=%e3%81%8a%e5%b8%ab%e3%81%95%e3%82%93) | N/A |
+| 24 | [ネスカウ](http://twitter.com/search?q=%e3%83%8d%e3%82%b9%e3%82%ab%e3%82%a6) | N/A |
+| 25 | [WIN5](http://twitter.com/search?q=WIN5) | WIN5 is an acronym for Windows 5.0, which is the fifth major release of the Microsoft Windows operating system. It was released in 1990 and included a number of new features such as improved memory management, better graphics support, and a new user interface. |
+| 26 | [東大物理](http://twitter.com/search?q=%e6%9d%b1%e5%a4%a7%e7%89%a9%e7%90%86) | N/A |
+| 27 | [ビッグシーザー](http://twitter.com/search?q=%e3%83%93%e3%83%83%e3%82%b0%e3%82%b7%e3%83%bc%e3%82%b6%e3%83%bc) | N/A |
+| 28 | [井崎先生](http://twitter.com/search?q=%e4%ba%95%e5%b4%8e%e5%85%88%e7%94%9f) | N/A |
+| 29 | [許斐先生](http://twitter.com/search?q=%e8%a8%b1%e6%96%90%e5%85%88%e7%94%9f) | N/A |
+| 30 | [ガルちゃん](http://twitter.com/search?q=%e3%82%ac%e3%83%ab%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 31 | [ダディーズビビッド](http://twitter.com/search?q=%e3%83%80%e3%83%87%e3%82%a3%e3%83%bc%e3%82%ba%e3%83%93%e3%83%93%e3%83%83%e3%83%89) | N/A |
+| 32 | [キハダSAR](http://twitter.com/search?q=%e3%82%ad%e3%83%8f%e3%83%80SAR) | N/A |
+| 33 | [あと5回](http://twitter.com/search?q=%e3%81%82%e3%81%a85%e5%9b%9e) | N/A |
+| 34 | [秘匿2PL](http://twitter.com/search?q=%e7%a7%98%e5%8c%bf2PL) | N/A |
+| 35 | [ガルビス](http://twitter.com/search?q=%e3%82%ac%e3%83%ab%e3%83%93%e3%82%b9) | N/A |
+| 36 | [ヴァルイベ](http://twitter.com/search?q=%e3%83%b4%e3%82%a1%e3%83%ab%e3%82%a4%e3%83%99) | N/A |
+| 37 | [ホワイトアウト](http://twitter.com/search?q=%e3%83%9b%e3%83%af%e3%82%a4%e3%83%88%e3%82%a2%e3%82%a6%e3%83%88) | ホワイトアウト (Whiteout) is a Japanese term used to describe a situation in which all the colors of an image or text are replaced with white. It is often used to describe a situation in which all the details of an image or text are obscured or lost. In English, it can be referred to as "whiting out" or "blanking out". |
+| 38 | [Wユウキ](http://twitter.com/search?q=W%e3%83%a6%e3%82%a6%e3%82%ad) | N/A |
+| 39 | [ホビちゃん](http://twitter.com/search?q=%e3%83%9b%e3%83%93%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 40 | [他人の生命](http://twitter.com/search?q=%e4%bb%96%e4%ba%ba%e3%81%ae%e7%94%9f%e5%91%bd) | N/A |
+| 41 | [ドンブラザーズ](http://twitter.com/search?q=%e3%83%89%e3%83%b3%e3%83%96%e3%83%a9%e3%82%b6%e3%83%bc%e3%82%ba) | N/A |
+| 42 | [内山くん](http://twitter.com/search?q=%e5%86%85%e5%b1%b1%e3%81%8f%e3%82%93) | N/A |
+| 43 | [ショウナンマグマ](http://twitter.com/search?q=%e3%82%b7%e3%83%a7%e3%82%a6%e3%83%8a%e3%83%b3%e3%83%9e%e3%82%b0%e3%83%9e) | N/A |
+| 44 | [ハートフル](http://twitter.com/search?q=%e3%83%8f%e3%83%bc%e3%83%88%e3%83%95%e3%83%ab) | N/A |
+| 45 | [千葉ちゃん](http://twitter.com/search?q=%e5%8d%83%e8%91%89%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 46 | [ボンボンイ](http://twitter.com/search?q=%e3%83%9c%e3%83%b3%e3%83%9c%e3%83%b3%e3%82%a4) | N/A |
+| 47 | [ルプリュフォール](http://twitter.com/search?q=%e3%83%ab%e3%83%97%e3%83%aa%e3%83%a5%e3%83%95%e3%82%a9%e3%83%bc%e3%83%ab) | N/A |
+| 48 | [山本由伸](http://twitter.com/search?q=%e5%b1%b1%e6%9c%ac%e7%94%b1%e4%bc%b8) | N/A |
+| 49 | [リューベック](http://twitter.com/search?q=%e3%83%aa%e3%83%a5%e3%83%bc%e3%83%99%e3%83%83%e3%82%af) | N/A |
+| 50 | [竹山くん](http://twitter.com/search?q=%e7%ab%b9%e5%b1%b1%e3%81%8f%e3%82%93) | N/A |
 
 
 
