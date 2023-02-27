@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tangerang
 
-📆 Last Updated: `2023-02-27 10:16:23 UTC`
+📆 Last Updated: `2023-02-27 11:16:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Indonesia](</Indonesia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#GGMU](http://twitter.com/search?q=%23GGMU) | #GGMU is an acronym for the phrase “Glory, Glory, Manchester United”. It is a chant used by Manchester United fans to show their support for the team. |
-| 2 | [Teja](http://twitter.com/search?q=Teja) | N/A |
-| 3 | [Mbanking BCA](http://twitter.com/search?q=Mbanking+BCA) | N/A |
-| 4 | [KunjungiAja Dekade 08](http://twitter.com/search?q=KunjungiAja+Dekade+08) | N/A |
-| 5 | [Prabowo Bikin Nyaman](http://twitter.com/search?q=Prabowo+Bikin+Nyaman) | N/A |
-| 6 | [Pilihannya Mending Prabowo](http://twitter.com/search?q=Pilihannya+Mending+Prabowo) | N/A |
-| 7 | [Bapak Prabowo](http://twitter.com/search?q=Bapak+Prabowo) | N/A |
-| 8 | [#PersibDay](http://twitter.com/search?q=%23PersibDay) | N/A |
-| 9 | [#FeelTheSenseWithWinter](http://twitter.com/search?q=%23FeelTheSenseWithWinter) | N/A |
-| 10 | [Floral Sense](http://twitter.com/search?q=Floral+Sense) | N/A |
-| 11 | [Tanpa](http://twitter.com/search?q=Tanpa) | N/A |
-| 12 | [JENO CONGRATS ON MFW](http://twitter.com/search?q=JENO+CONGRATS+ON+MFW) | N/A |
-| 13 | [#OURPRIDEJENO](http://twitter.com/search?q=%23OURPRIDEJENO) | N/A |
-| 14 | [PARK JISUNG](http://twitter.com/search?q=PARK+JISUNG) | N/A |
-| 15 | [Persija](http://twitter.com/search?q=Persija) | Persija is a football club based in Jakarta, Indonesia. The name is derived from the Sanskrit word for 'victory', and it is also the nickname of the team's supporters. In English, Persija translates to 'Victorious'. |
-| 16 | [Barito](http://twitter.com/search?q=Barito) | N/A |
-| 17 | [Abby Choi](http://twitter.com/search?q=Abby+Choi) | N/A |
-| 18 | [Hendra Kurniawan](http://twitter.com/search?q=Hendra+Kurniawan) | N/A |
-| 19 | [Mati](http://twitter.com/search?q=Mati) | N/A |
-| 20 | [Kiper](http://twitter.com/search?q=Kiper) | N/A |
-| 21 | [Aliran](http://twitter.com/search?q=Aliran) | N/A |
-| 22 | [JUNGKOOK TO 1 BILLION](http://twitter.com/search?q=JUNGKOOK+TO+1+BILLION) | N/A |
-| 23 | [Nick Pope](http://twitter.com/search?q=Nick+Pope) | Nick Pope is a British author, journalist, and media commentator who specializes in conspiracy theories and the paranormal. He is best known for his work with the British Ministry of Defence from 1991 to 1994, where he investigated reports of UFOs. |
-| 24 | [BCA Mobile](http://twitter.com/search?q=BCA+Mobile) | N/A |
-| 25 | [JK FASTEST TO 1B](http://twitter.com/search?q=JK+FASTEST+TO+1B) | N/A |
-| 26 | [BD Jepang](http://twitter.com/search?q=BD+Jepang) | N/A |
-| 27 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 28 | [Keahliannya](http://twitter.com/search?q=Keahliannya) | N/A |
-| 29 | [Syahril](http://twitter.com/search?q=Syahril) | N/A |
-| 30 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 31 | [Heru](http://twitter.com/search?q=Heru) | N/A |
-| 32 | [Bias](http://twitter.com/search?q=Bias) | N/A |
-| 33 | [Opick](http://twitter.com/search?q=Opick) | N/A |
-| 34 | [Sholat](http://twitter.com/search?q=Sholat) | N/A |
-| 35 | [#BeaCukaiHedon](http://twitter.com/search?q=%23BeaCukaiHedon) | N/A |
-| 36 | [#kamday](http://twitter.com/search?q=%23kamday) | N/A |
-| 37 | [#HWANGMINHYUN](http://twitter.com/search?q=%23HWANGMINHYUN) | N/A |
-| 38 | [#Truth_or_Lie](http://twitter.com/search?q=%23Truth_or_Lie) | N/A |
-| 39 | [#OPPOReno8TSeries](http://twitter.com/search?q=%23OPPOReno8TSeries) | N/A |
-| 40 | [#ThePortraitExpert](http://twitter.com/search?q=%23ThePortraitExpert) | N/A |
-| 41 | [#JungkookTo1BOnSpotify](http://twitter.com/search?q=%23JungkookTo1BOnSpotify) | N/A |
-| 42 | [#SahabatTerbaikToppers](http://twitter.com/search?q=%23SahabatTerbaikToppers) | N/A |
-| 43 | [#ADVANCE](http://twitter.com/search?q=%23ADVANCE) | N/A |
-| 44 | [#SriMulyaniOMDO](http://twitter.com/search?q=%23SriMulyaniOMDO) | N/A |
-| 45 | [#SEHUN](http://twitter.com/search?q=%23SEHUN) | N/A |
-| 46 | [#OPPOPortraitofLove](http://twitter.com/search?q=%23OPPOPortraitofLove) | N/A |
-| 47 | [#9RACIASDAY](http://twitter.com/search?q=%239RACIASDAY) | N/A |
-| 48 | [#CHANYEOL](http://twitter.com/search?q=%23CHANYEOL) | N/A |
-| 49 | [#SUHO](http://twitter.com/search?q=%23SUHO) | N/A |
+| 2 | [#FilterLegend](http://twitter.com/search?q=%23FilterLegend) | N/A |
+| 3 | [Garpitnya Ariel Tatum](http://twitter.com/search?q=Garpitnya+Ariel+Tatum) | N/A |
+| 4 | [Teja](http://twitter.com/search?q=Teja) | N/A |
+| 5 | [PARK JISUNG](http://twitter.com/search?q=PARK+JISUNG) | N/A |
+| 6 | [KunjungiAja Dekade 08](http://twitter.com/search?q=KunjungiAja+Dekade+08) | N/A |
+| 7 | [Prabowo Bikin Nyaman](http://twitter.com/search?q=Prabowo+Bikin+Nyaman) | N/A |
+| 8 | [Pilihannya Mending Prabowo](http://twitter.com/search?q=Pilihannya+Mending+Prabowo) | N/A |
+| 9 | [Bapak Prabowo](http://twitter.com/search?q=Bapak+Prabowo) | N/A |
+| 10 | [Persib](http://twitter.com/search?q=Persib) | N/A |
+| 11 | [Mbanking BCA](http://twitter.com/search?q=Mbanking+BCA) | N/A |
+| 12 | [Floral Sense](http://twitter.com/search?q=Floral+Sense) | N/A |
+| 13 | [#kamday](http://twitter.com/search?q=%23kamday) | N/A |
+| 14 | [#FeelTheSenseWithWinter](http://twitter.com/search?q=%23FeelTheSenseWithWinter) | N/A |
+| 15 | [Tanpa](http://twitter.com/search?q=Tanpa) | N/A |
+| 16 | [Indra Bekti](http://twitter.com/search?q=Indra+Bekti) | N/A |
+| 17 | [Persija](http://twitter.com/search?q=Persija) | Persija is a football club based in Jakarta, Indonesia. The name is derived from the Sanskrit word for 'victory', and it is also the nickname of the team's supporters. In English, Persija translates to 'Victorious'. |
+| 18 | [#BeaCukaiHedon](http://twitter.com/search?q=%23BeaCukaiHedon) | N/A |
+| 19 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 20 | [JENO CONGRATS ON MFW](http://twitter.com/search?q=JENO+CONGRATS+ON+MFW) | N/A |
+| 21 | [Barito](http://twitter.com/search?q=Barito) | N/A |
+| 22 | [Abby Choi](http://twitter.com/search?q=Abby+Choi) | N/A |
+| 23 | [Mati](http://twitter.com/search?q=Mati) | N/A |
+| 24 | [Kiper](http://twitter.com/search?q=Kiper) | N/A |
+| 25 | [JEON WONWOO](http://twitter.com/search?q=JEON+WONWOO) | JEON WONWOO is a Korean name. It is composed of two characters: Jeon (전) meaning “field” and Wonwoo (원우) meaning “protection” or “blessing”. Together, the name can be translated to mean “protected field” or “blessed field”. |
+| 26 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 27 | [Nick Pope](http://twitter.com/search?q=Nick+Pope) | Nick Pope is a British author, journalist, and media commentator who specializes in conspiracy theories and the paranormal. He is best known for his work with the British Ministry of Defence from 1991 to 1994, where he investigated reports of UFOs. |
+| 28 | [BCA Mobile](http://twitter.com/search?q=BCA+Mobile) | N/A |
+| 29 | [Aliran](http://twitter.com/search?q=Aliran) | N/A |
+| 30 | [Hendra Kurniawan](http://twitter.com/search?q=Hendra+Kurniawan) | N/A |
+| 31 | [JK FASTEST TO 1B](http://twitter.com/search?q=JK+FASTEST+TO+1B) | N/A |
+| 32 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 33 | [Keahliannya](http://twitter.com/search?q=Keahliannya) | N/A |
+| 34 | [syahril](http://twitter.com/search?q=syahril) | N/A |
+| 35 | [BD Jepang](http://twitter.com/search?q=BD+Jepang) | N/A |
+| 36 | [Heru](http://twitter.com/search?q=Heru) | N/A |
+| 37 | [Juara](http://twitter.com/search?q=Juara) | N/A |
+| 38 | [Opick](http://twitter.com/search?q=Opick) | N/A |
+| 39 | [Bias](http://twitter.com/search?q=Bias) | N/A |
+| 40 | [#HWANGMINHYUN](http://twitter.com/search?q=%23HWANGMINHYUN) | N/A |
+| 41 | [#OURPRIDEJENO](http://twitter.com/search?q=%23OURPRIDEJENO) | N/A |
+| 42 | [#ADVANCE](http://twitter.com/search?q=%23ADVANCE) | N/A |
+| 43 | [#Truth_or_Lie](http://twitter.com/search?q=%23Truth_or_Lie) | N/A |
+| 44 | [#JungkookTo1BOnSpotify](http://twitter.com/search?q=%23JungkookTo1BOnSpotify) | N/A |
+| 45 | [#SahabatTerbaikToppers](http://twitter.com/search?q=%23SahabatTerbaikToppers) | N/A |
+| 46 | [#FionyMail](http://twitter.com/search?q=%23FionyMail) | N/A |
+| 47 | [#SEHUN](http://twitter.com/search?q=%23SEHUN) | N/A |
+| 48 | [#SriMulyaniOMDO](http://twitter.com/search?q=%23SriMulyaniOMDO) | N/A |
+| 49 | [#CHANYEOL](http://twitter.com/search?q=%23CHANYEOL) | N/A |
 
 
 

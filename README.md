@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2023-02-27 10:16:02 UTC`
+📆 Last Updated: `2023-02-27 11:16:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,56 +20,56 @@ This is top 50
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [カブトボーグ](http://twitter.com/search?q=%e3%82%ab%e3%83%96%e3%83%88%e3%83%9c%e3%83%bc%e3%82%b0) | N/A |
-| 2 | [#MaziMatic](http://twitter.com/search?q=%23MaziMatic) | N/A |
-| 3 | [#HOTJAPAN](http://twitter.com/search?q=%23HOTJAPAN) | N/A |
-| 4 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 5 | [ザシアン](http://twitter.com/search?q=%e3%82%b6%e3%82%b7%e3%82%a2%e3%83%b3) | N/A |
-| 6 | [#PatrickXBalmain](http://twitter.com/search?q=%23PatrickXBalmain) | N/A |
-| 7 | [PATRICK TO PARIS](http://twitter.com/search?q=PATRICK+TO+PARIS) | N/A |
-| 8 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 9 | [リュウセイさん](http://twitter.com/search?q=%e3%83%aa%e3%83%a5%e3%82%a6%e3%82%bb%e3%82%a4%e3%81%95%e3%82%93) | N/A |
-| 10 | [#イオンカードライブ](http://twitter.com/search?q=%23%e3%82%a4%e3%82%aa%e3%83%b3%e3%82%ab%e3%83%bc%e3%83%89%e3%83%a9%e3%82%a4%e3%83%96) | N/A |
-| 11 | [Banky](http://twitter.com/search?q=Banky) | N/A |
-| 12 | [ツイステ](http://twitter.com/search?q=%e3%83%84%e3%82%a4%e3%82%b9%e3%83%86) | N/A |
-| 13 | [Malatya'da 5.6](http://twitter.com/search?q=Malatya%27da+5.6) | N/A |
-| 14 | [YOLO-konde](http://twitter.com/search?q=YOLO-konde) | N/A |
-| 15 | [Teja](http://twitter.com/search?q=Teja) | N/A |
+| 1 | [#CDTVライブライブ](http://twitter.com/search?q=%23CDTV%e3%83%a9%e3%82%a4%e3%83%96%e3%83%a9%e3%82%a4%e3%83%96) | #CDTVライブライブ is a hashtag used on Twitter to refer to the Japanese music program "Countdown TV Live Live". It is a weekly music show that airs on the Japanese television network TBS. The show features live performances from popular Japanese artists and bands. |
+| 2 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 3 | [カブトボーグ](http://twitter.com/search?q=%e3%82%ab%e3%83%96%e3%83%88%e3%83%9c%e3%83%bc%e3%82%b0) | N/A |
+| 4 | [#祝ミリオンライブ10周年](http://twitter.com/search?q=%23%e7%a5%9d%e3%83%9f%e3%83%aa%e3%82%aa%e3%83%b3%e3%83%a9%e3%82%a4%e3%83%9610%e5%91%a8%e5%b9%b4) | N/A |
+| 5 | [#electionresults2023](http://twitter.com/search?q=%23electionresults2023) | N/A |
+| 6 | [#ジャニーズWESTのPOWER](http://twitter.com/search?q=%23%e3%82%b8%e3%83%a3%e3%83%8b%e3%83%bc%e3%82%baWEST%e3%81%aePOWER) | "#ジャニーズWESTのPOWER" is a hashtag used by fans of the Japanese boy band, Johnny's West. It translates to "Johnny's West Power" and is used to show support for the group. |
+| 7 | [#Malatya](http://twitter.com/search?q=%23Malatya) | Malatya is a city in eastern Turkey. It is the administrative center of Malatya Province and has a population of around 590,000. The name Malatya is derived from the Arabic word malatiyah, which means "fortress". In English, Malatya translates to "fortress of God". |
+| 8 | [ツイステ](http://twitter.com/search?q=%e3%83%84%e3%82%a4%e3%82%b9%e3%83%86) | N/A |
+| 9 | [ザシアン](http://twitter.com/search?q=%e3%82%b6%e3%82%b7%e3%82%a2%e3%83%b3) | N/A |
+| 10 | [リュウセイさん](http://twitter.com/search?q=%e3%83%aa%e3%83%a5%e3%82%a6%e3%82%bb%e3%82%a4%e3%81%95%e3%82%93) | N/A |
+| 11 | [WANDS](http://twitter.com/search?q=WANDS) | N/A |
+| 12 | [Banky](http://twitter.com/search?q=Banky) | N/A |
+| 13 | [PATRICK TO PARIS](http://twitter.com/search?q=PATRICK+TO+PARIS) | N/A |
+| 14 | [Sanwo Olu](http://twitter.com/search?q=Sanwo+Olu) | N/A |
+| 15 | [赤羽根P](http://twitter.com/search?q=%e8%b5%a4%e7%be%bd%e6%a0%b9P) | N/A |
 | 16 | [マレウス](http://twitter.com/search?q=%e3%83%9e%e3%83%ac%e3%82%a6%e3%82%b9) | N/A |
-| 17 | [松本パルコ](http://twitter.com/search?q=%e6%9d%be%e6%9c%ac%e3%83%91%e3%83%ab%e3%82%b3) | N/A |
-| 18 | [トムキャットレッドビートル](http://twitter.com/search?q=%e3%83%88%e3%83%a0%e3%82%ad%e3%83%a3%e3%83%83%e3%83%88%e3%83%ac%e3%83%83%e3%83%89%e3%83%93%e3%83%bc%e3%83%88%e3%83%ab) | N/A |
-| 19 | [Floral Sense](http://twitter.com/search?q=Floral+Sense) | N/A |
-| 20 | [ベネット](http://twitter.com/search?q=%e3%83%99%e3%83%8d%e3%83%83%e3%83%88) | N/A |
-| 21 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
-| 22 | [NEBUTA in AOMORI](http://twitter.com/search?q=NEBUTA+in+AOMORI) | N/A |
+| 17 | [金星と木星](http://twitter.com/search?q=%e9%87%91%e6%98%9f%e3%81%a8%e6%9c%a8%e6%98%9f) | N/A |
+| 18 | [YOLO-konde](http://twitter.com/search?q=YOLO-konde) | N/A |
+| 19 | [Yalnız Değilsiniz Yanınızdayız](http://twitter.com/search?q=Yaln%c4%b1z+De%c4%9filsiniz+Yan%c4%b1n%c4%b1zday%c4%b1z) | N/A |
+| 20 | [チーフプロデューサー](http://twitter.com/search?q=%e3%83%81%e3%83%bc%e3%83%95%e3%83%97%e3%83%ad%e3%83%87%e3%83%a5%e3%83%bc%e3%82%b5%e3%83%bc) | N/A |
+| 21 | [उमेश पाल](http://twitter.com/search?q=%e0%a4%89%e0%a4%ae%e0%a5%87%e0%a4%b6+%e0%a4%aa%e0%a4%be%e0%a4%b2) | N/A |
+| 22 | [バネP出世](http://twitter.com/search?q=%e3%83%90%e3%83%8dP%e5%87%ba%e4%b8%96) | N/A |
 | 23 | [ツノ太郎](http://twitter.com/search?q=%e3%83%84%e3%83%8e%e5%a4%aa%e9%83%8e) | ツノ太郎 is a Japanese name meaning "Tsuno Taro". It is composed of two characters: "ツノ" (tsuno) which means "horn" and "太郎" (Taro) which is a common suffix for male names. The name can be translated to mean "Horned Taro". |
-| 24 | [Haluk Levent](http://twitter.com/search?q=Haluk+Levent) | N/A |
-| 25 | [WANDS](http://twitter.com/search?q=WANDS) | N/A |
-| 26 | [RACE WEEK](http://twitter.com/search?q=RACE+WEEK) | N/A |
-| 27 | [ISSEN](http://twitter.com/search?q=ISSEN) | N/A |
-| 28 | [IT IS DONE](http://twitter.com/search?q=IT+IS+DONE) | IT IS DONE is an expression used to indicate that a task or project has been completed. It is often used as a declaration of accomplishment or success. |
-| 29 | [Καλη Σαρακοστη](http://twitter.com/search?q=%ce%9a%ce%b1%ce%bb%ce%b7+%ce%a3%ce%b1%cf%81%ce%b1%ce%ba%ce%bf%cf%83%cf%84%ce%b7) | N/A |
-| 30 | [金星と木星](http://twitter.com/search?q=%e9%87%91%e6%98%9f%e3%81%a8%e6%9c%a8%e6%98%9f) | N/A |
-| 31 | [オバブロ](http://twitter.com/search?q=%e3%82%aa%e3%83%90%e3%83%96%e3%83%ad) | N/A |
-| 32 | [チャージ3回](http://twitter.com/search?q=%e3%83%81%e3%83%a3%e3%83%bc%e3%82%b83%e5%9b%9e) | N/A |
-| 33 | [Kızılay](http://twitter.com/search?q=K%c4%b1z%c4%b1lay) | Kızılay is the Turkish Red Crescent, a humanitarian organization that provides aid and assistance to those in need. The name Kızılay comes from the Ottoman Empire era, when it was known as the Imperial Ottoman Society of the Red Crescent. In English, Kızılay translates to "Red Crescent". |
-| 34 | [リリアちゃん](http://twitter.com/search?q=%e3%83%aa%e3%83%aa%e3%82%a2%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 35 | [클린스만](http://twitter.com/search?q=%ed%81%b4%eb%a6%b0%ec%8a%a4%eb%a7%8c) | N/A |
-| 36 | [フリーエントリー](http://twitter.com/search?q=%e3%83%95%e3%83%aa%e3%83%bc%e3%82%a8%e3%83%b3%e3%83%88%e3%83%aa%e3%83%bc) | N/A |
-| 37 | [藍沢先生](http://twitter.com/search?q=%e8%97%8d%e6%b2%a2%e5%85%88%e7%94%9f) | N/A |
-| 38 | [到達距離](http://twitter.com/search?q=%e5%88%b0%e9%81%94%e8%b7%9d%e9%9b%a2) | 到達距離 (dàodá jùlí) is a Chinese phrase that translates to “distance to destination” in English. It is used to refer to the distance between two points, usually in terms of travel. |
-| 39 | [木星と金星](http://twitter.com/search?q=%e6%9c%a8%e6%98%9f%e3%81%a8%e9%87%91%e6%98%9f) | N/A |
-| 40 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
-| 41 | [KunjungiAja Dekade 08](http://twitter.com/search?q=KunjungiAja+Dekade+08) | N/A |
-| 42 | [Prabowo Bikin Nyaman](http://twitter.com/search?q=Prabowo+Bikin+Nyaman) | N/A |
-| 43 | [Mbanking BCA](http://twitter.com/search?q=Mbanking+BCA) | N/A |
-| 44 | [ボーグバトル](http://twitter.com/search?q=%e3%83%9c%e3%83%bc%e3%82%b0%e3%83%90%e3%83%88%e3%83%ab) | N/A |
-| 45 | [難聴11歳女児の逸失利益](http://twitter.com/search?q=%e9%9b%a3%e8%81%b411%e6%ad%b3%e5%a5%b3%e5%85%90%e3%81%ae%e9%80%b8%e5%a4%b1%e5%88%a9%e7%9b%8a) | N/A |
-| 46 | [Yalnız Değilsiniz Yanınızdayız](http://twitter.com/search?q=Yaln%c4%b1z+De%c4%9filsiniz+Yan%c4%b1n%c4%b1zday%c4%b1z) | N/A |
-| 47 | [नेहरू पार्क](http://twitter.com/search?q=%e0%a4%a8%e0%a5%87%e0%a4%b9%e0%a4%b0%e0%a5%82+%e0%a4%aa%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%95) | N/A |
-| 48 | [ノーオプションバトル](http://twitter.com/search?q=%e3%83%8e%e3%83%bc%e3%82%aa%e3%83%97%e3%82%b7%e3%83%a7%e3%83%b3%e3%83%90%e3%83%88%e3%83%ab) | N/A |
-| 49 | [Pilihannya Mending Prabowo](http://twitter.com/search?q=Pilihannya+Mending+Prabowo) | N/A |
-| 50 | [Bapak Prabowo](http://twitter.com/search?q=Bapak+Prabowo) | N/A |
+| 24 | [木星と金星](http://twitter.com/search?q=%e6%9c%a8%e6%98%9f%e3%81%a8%e9%87%91%e6%98%9f) | N/A |
+| 25 | [トムキャットレッドビートル](http://twitter.com/search?q=%e3%83%88%e3%83%a0%e3%82%ad%e3%83%a3%e3%83%83%e3%83%88%e3%83%ac%e3%83%83%e3%83%89%e3%83%93%e3%83%bc%e3%83%88%e3%83%ab) | N/A |
+| 26 | [キャンチョメ](http://twitter.com/search?q=%e3%82%ad%e3%83%a3%e3%83%b3%e3%83%81%e3%83%a7%e3%83%a1) | N/A |
+| 27 | [Teja](http://twitter.com/search?q=Teja) | N/A |
+| 28 | [Tinubu](http://twitter.com/search?q=Tinubu) | N/A |
+| 29 | [オバブロ](http://twitter.com/search?q=%e3%82%aa%e3%83%90%e3%83%96%e3%83%ad) | N/A |
+| 30 | [Plateau](http://twitter.com/search?q=Plateau) | N/A |
+| 31 | [松本パルコ](http://twitter.com/search?q=%e6%9d%be%e6%9c%ac%e3%83%91%e3%83%ab%e3%82%b3) | N/A |
+| 32 | [FormidaBELLE MEGAWoman](http://twitter.com/search?q=FormidaBELLE+MEGAWoman) | N/A |
+| 33 | [ISSEN](http://twitter.com/search?q=ISSEN) | N/A |
+| 34 | [学力テスト](http://twitter.com/search?q=%e5%ad%a6%e5%8a%9b%e3%83%86%e3%82%b9%e3%83%88) | N/A |
+| 35 | [नेहरू पार्क](http://twitter.com/search?q=%e0%a4%a8%e0%a5%87%e0%a4%b9%e0%a4%b0%e0%a5%82+%e0%a4%aa%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%95) | N/A |
+| 36 | [本当のハッピーエンド](http://twitter.com/search?q=%e6%9c%ac%e5%bd%93%e3%81%ae%e3%83%8f%e3%83%83%e3%83%94%e3%83%bc%e3%82%a8%e3%83%b3%e3%83%89) | N/A |
+| 37 | [Haluk Levent](http://twitter.com/search?q=Haluk+Levent) | N/A |
+| 38 | [ポケモンプレゼンツ](http://twitter.com/search?q=%e3%83%9d%e3%82%b1%e3%83%a2%e3%83%b3%e3%83%97%e3%83%ac%e3%82%bc%e3%83%b3%e3%83%84) | N/A |
+| 39 | [照史くん](http://twitter.com/search?q=%e7%85%a7%e5%8f%b2%e3%81%8f%e3%82%93) | 照史くん is a character from the Japanese manga series, Kochikame. He is a police officer who works at the Ryōgoku Police Station. His name literally translates to "Shine History" and he is known for his strong sense of justice and his dedication to protecting the peace of the city. |
+| 40 | [クリンスマン](http://twitter.com/search?q=%e3%82%af%e3%83%aa%e3%83%b3%e3%82%b9%e3%83%9e%e3%83%b3) | N/A |
+| 41 | [Garpitnya Ariel Tatum](http://twitter.com/search?q=Garpitnya+Ariel+Tatum) | N/A |
+| 42 | [淳太くん](http://twitter.com/search?q=%e6%b7%b3%e5%a4%aa%e3%81%8f%e3%82%93) | 淳太くん is a Japanese manga series written and illustrated by Tetsuya Chiba. It follows the adventures of Junichi, a young boy who dreams of becoming a great detective. The title literally translates to "Junichi-kun" in English. |
+| 43 | [PARK JISUNG](http://twitter.com/search?q=PARK+JISUNG) | N/A |
+| 44 | [生理用品](http://twitter.com/search?q=%e7%94%9f%e7%90%86%e7%94%a8%e5%93%81) | N/A |
+| 45 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
+| 46 | [City Boy](http://twitter.com/search?q=City+Boy) | N/A |
+| 47 | [Floral Sense](http://twitter.com/search?q=Floral+Sense) | N/A |
+| 48 | [Καλη Σαρακοστη](http://twitter.com/search?q=%ce%9a%ce%b1%ce%bb%ce%b7+%ce%a3%ce%b1%cf%81%ce%b1%ce%ba%ce%bf%cf%83%cf%84%ce%b7) | N/A |
+| 49 | [コオロギ太郎](http://twitter.com/search?q=%e3%82%b3%e3%82%aa%e3%83%ad%e3%82%ae%e5%a4%aa%e9%83%8e) | N/A |
+| 50 | [NEBUTA in AOMORI](http://twitter.com/search?q=NEBUTA+in+AOMORI) | N/A |
 
 
 

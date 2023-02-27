@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lahore
 
-📆 Last Updated: `2023-02-27 10:16:36 UTC`
+📆 Last Updated: `2023-02-27 11:16:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 3 | [#جام_پور_ضمنی_الیکشن](http://twitter.com/search?q=%23%d8%ac%d8%a7%d9%85_%d9%be%d9%88%d8%b1_%d8%b6%d9%85%d9%86%db%8c_%d8%a7%d9%84%db%8c%da%a9%d8%b4%d9%86) | N/A |
 | 4 | [#شٹرڈاون_ہڑتال_27_فروری](http://twitter.com/search?q=%23%d8%b4%d9%b9%d8%b1%da%88%d8%a7%d9%88%d9%86_%db%81%da%91%d8%aa%d8%a7%d9%84_27_%d9%81%d8%b1%d9%88%d8%b1%db%8c) | N/A |
 | 5 | [#LQvsPZ](http://twitter.com/search?q=%23LQvsPZ) | N/A |
-| 6 | [Narowal](http://twitter.com/search?q=Narowal) | N/A |
-| 7 | [Shaheen](http://twitter.com/search?q=Shaheen) | N/A |
-| 8 | [Fakhar Zaman](http://twitter.com/search?q=Fakhar+Zaman) | Fakhar Zaman is a Pakistani cricketer who plays for the Pakistan national cricket team. His name means "pride" in English. |
-| 9 | [Abdullah Shafique](http://twitter.com/search?q=Abdullah+Shafique) | N/A |
-| 10 | [SAIM AYUB](http://twitter.com/search?q=SAIM+AYUB) | N/A |
+| 6 | [Shaheen](http://twitter.com/search?q=Shaheen) | N/A |
+| 7 | [Fakhar](http://twitter.com/search?q=Fakhar) | N/A |
+| 8 | [Abdullah Shafique](http://twitter.com/search?q=Abdullah+Shafique) | N/A |
+| 9 | [Saim Ayub](http://twitter.com/search?q=Saim+Ayub) | N/A |
+| 10 | [Wade](http://twitter.com/search?q=Wade) | N/A |
 | 11 | [Credit](http://twitter.com/search?q=Credit) | N/A |
-| 12 | [Wade](http://twitter.com/search?q=Wade) | N/A |
-| 13 | [anwar ali](http://twitter.com/search?q=anwar+ali) | N/A |
-| 14 | [Progress](http://twitter.com/search?q=Progress) | N/A |
-| 15 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
-| 16 | [Tayyab Tahir](http://twitter.com/search?q=Tayyab+Tahir) | N/A |
-| 17 | [shamsi](http://twitter.com/search?q=shamsi) | N/A |
+| 12 | [anwar ali](http://twitter.com/search?q=anwar+ali) | N/A |
+| 13 | [Progress](http://twitter.com/search?q=Progress) | N/A |
+| 14 | [Jake](http://twitter.com/search?q=Jake) | N/A |
+| 15 | [shamsi](http://twitter.com/search?q=shamsi) | N/A |
+| 16 | [Lt Gen](http://twitter.com/search?q=Lt+Gen) | N/A |
+| 17 | [Tayyab Tahir](http://twitter.com/search?q=Tayyab+Tahir) | N/A |
 | 18 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
 | 19 | [fifer](http://twitter.com/search?q=fifer) | N/A |
-| 20 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 21 | [Jampur](http://twitter.com/search?q=Jampur) | N/A |
-| 22 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
-| 23 | [Lt Gen](http://twitter.com/search?q=Lt+Gen) | N/A |
-| 24 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 25 | [Bench](http://twitter.com/search?q=Bench) | N/A |
-| 26 | [Ayaz Sadiq](http://twitter.com/search?q=Ayaz+Sadiq) | N/A |
-| 27 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 28 | [Noam Chomsky](http://twitter.com/search?q=Noam+Chomsky) | N/A |
-| 29 | [jhope](http://twitter.com/search?q=jhope) | N/A |
-| 30 | [Pulwama](http://twitter.com/search?q=Pulwama) | N/A |
-| 31 | [Ahsan Iqbal](http://twitter.com/search?q=Ahsan+Iqbal) | N/A |
-| 32 | [Gen Amjad](http://twitter.com/search?q=Gen+Amjad) | N/A |
-| 33 | [Shame](http://twitter.com/search?q=Shame) | N/A |
-| 34 | [Prime Minister Shehbaz Sharif](http://twitter.com/search?q=Prime+Minister+Shehbaz+Sharif) | N/A |
-| 35 | [Armed Forces](http://twitter.com/search?q=Armed+Forces) | N/A |
-| 36 | [Ramna](http://twitter.com/search?q=Ramna) | N/A |
-| 37 | [Lieutenant General](http://twitter.com/search?q=Lieutenant+General) | N/A |
-| 38 | [Nikki](http://twitter.com/search?q=Nikki) | N/A |
-| 39 | [James Vince](http://twitter.com/search?q=James+Vince) | N/A |
-| 40 | [Generals](http://twitter.com/search?q=Generals) | N/A |
-| 41 | [The Tea](http://twitter.com/search?q=The+Tea) | N/A |
-| 42 | [Happiest](http://twitter.com/search?q=Happiest) | N/A |
-| 43 | [Itni](http://twitter.com/search?q=Itni) | N/A |
-| 44 | [Mjhe](http://twitter.com/search?q=Mjhe) | N/A |
-| 45 | [PMLN](http://twitter.com/search?q=PMLN) | N/A |
-| 46 | [Nation](http://twitter.com/search?q=Nation) | N/A |
-| 47 | [Extremely](http://twitter.com/search?q=Extremely) | N/A |
-| 48 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 49 | [Chief Justice](http://twitter.com/search?q=Chief+Justice) | N/A |
-| 50 | [Balochistan](http://twitter.com/search?q=Balochistan) | N/A |
+| 20 | [Jampur](http://twitter.com/search?q=Jampur) | N/A |
+| 21 | [Bench](http://twitter.com/search?q=Bench) | N/A |
+| 22 | [Ayaz Sadiq](http://twitter.com/search?q=Ayaz+Sadiq) | N/A |
+| 23 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
+| 24 | [Noam Chomsky](http://twitter.com/search?q=Noam+Chomsky) | N/A |
+| 25 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 26 | [Rashid](http://twitter.com/search?q=Rashid) | N/A |
+| 27 | [Ahsan Iqbal](http://twitter.com/search?q=Ahsan+Iqbal) | N/A |
+| 28 | [Mig-21](http://twitter.com/search?q=Mig-21) | N/A |
+| 29 | [Pulwama](http://twitter.com/search?q=Pulwama) | N/A |
+| 30 | [Ramna](http://twitter.com/search?q=Ramna) | N/A |
+| 31 | [Lieutenant General](http://twitter.com/search?q=Lieutenant+General) | N/A |
+| 32 | [Shame](http://twitter.com/search?q=Shame) | N/A |
+| 33 | [Prime Minister Shehbaz Sharif](http://twitter.com/search?q=Prime+Minister+Shehbaz+Sharif) | N/A |
+| 34 | [Nikki](http://twitter.com/search?q=Nikki) | N/A |
+| 35 | [Generals](http://twitter.com/search?q=Generals) | N/A |
+| 36 | [Itni](http://twitter.com/search?q=Itni) | N/A |
+| 37 | [james vince](http://twitter.com/search?q=james+vince) | N/A |
+| 38 | [Maryam Nawaz Sharif](http://twitter.com/search?q=Maryam+Nawaz+Sharif) | N/A |
+| 39 | [ARY NEWS](http://twitter.com/search?q=ARY+NEWS) | N/A |
+| 40 | [Balochistan](http://twitter.com/search?q=Balochistan) | N/A |
+| 41 | [Happiest](http://twitter.com/search?q=Happiest) | N/A |
+| 42 | [Germany](http://twitter.com/search?q=Germany) | N/A |
+| 43 | [Hero](http://twitter.com/search?q=Hero) | N/A |
+| 44 | [Agar](http://twitter.com/search?q=Agar) | N/A |
+| 45 | [Mjhe](http://twitter.com/search?q=Mjhe) | N/A |
+| 46 | [Africa](http://twitter.com/search?q=Africa) | N/A |
+| 47 | [Haram](http://twitter.com/search?q=Haram) | N/A |
+| 48 | [Simply](http://twitter.com/search?q=Simply) | N/A |
+| 49 | [nust](http://twitter.com/search?q=nust) | N/A |
+| 50 | [Bilawal](http://twitter.com/search?q=Bilawal) | N/A |
 
 
 

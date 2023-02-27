@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bournemouth
 
-📆 Last Updated: `2023-02-27 10:16:04 UTC`
+📆 Last Updated: `2023-02-27 11:16:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Whitby](http://twitter.com/search?q=Whitby) | N/A |
-| 2 | [#PaulFury](http://twitter.com/search?q=%23PaulFury) | N/A |
-| 3 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
-| 4 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
-| 5 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 6 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
-| 7 | [Ofgem](http://twitter.com/search?q=Ofgem) | N/A |
-| 8 | [Banky](http://twitter.com/search?q=Banky) | N/A |
-| 9 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 1 | [#popmaster](http://twitter.com/search?q=%23popmaster) | N/A |
+| 2 | [#JeremyVine](http://twitter.com/search?q=%23JeremyVine) | N/A |
+| 3 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
+| 4 | [#PaulFury](http://twitter.com/search?q=%23PaulFury) | N/A |
+| 5 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
+| 6 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
+| 7 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 8 | [Ofgem](http://twitter.com/search?q=Ofgem) | N/A |
+| 9 | [Banky](http://twitter.com/search?q=Banky) | N/A |
 | 10 | [Northern Lights](http://twitter.com/search?q=Northern+Lights) | N/A |
-| 11 | [RACE WEEK](http://twitter.com/search?q=RACE+WEEK) | N/A |
-| 12 | [Daily Quordle 399](http://twitter.com/search?q=Daily+Quordle+399) | N/A |
-| 13 | [Rachel Reeves](http://twitter.com/search?q=Rachel+Reeves) | N/A |
-| 14 | [Wordle 618 X](http://twitter.com/search?q=Wordle+618+X) | N/A |
-| 15 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
-| 16 | [18 in England and Wales](http://twitter.com/search?q=18+in+England+and+Wales) | N/A |
-| 17 | [Morning Chris](http://twitter.com/search?q=Morning+Chris) | N/A |
-| 18 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
-| 19 | [Peter Kay](http://twitter.com/search?q=Peter+Kay) | N/A |
-| 20 | [Yoruba](http://twitter.com/search?q=Yoruba) | N/A |
-| 21 | [Frozen](http://twitter.com/search?q=Frozen) | N/A |
-| 22 | [Mark Francois](http://twitter.com/search?q=Mark+Francois) | N/A |
-| 23 | [Igbos](http://twitter.com/search?q=Igbos) | Igbos is a term used to refer to the Igbo people, an ethnic group native to southeastern Nigeria. The Igbo language is also known as Igboid. In English, the term "Igbos" is used to refer to both the people and their language. |
-| 24 | [James Bond](http://twitter.com/search?q=James+Bond) | N/A |
-| 25 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
-| 26 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
-| 27 | [Ekiti](http://twitter.com/search?q=Ekiti) | N/A |
-| 28 | [Queen Consort](http://twitter.com/search?q=Queen+Consort) | N/A |
-| 29 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
-| 30 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
-| 31 | [#ASongOrMovieForBears](http://twitter.com/search?q=%23ASongOrMovieForBears) | N/A |
-| 32 | [#mondaythoughts](http://twitter.com/search?q=%23mondaythoughts) | #MondayThoughts is a hashtag used on social media to share thoughts, ideas, and reflections on the start of the week. It is often used to encourage others to have a positive outlook on the week ahead. |
-| 33 | [#arsecastextra](http://twitter.com/search?q=%23arsecastextra) | N/A |
-| 34 | [#FairtradeFortnight](http://twitter.com/search?q=%23FairtradeFortnight) | N/A |
-| 35 | [#Mondayvibes](http://twitter.com/search?q=%23Mondayvibes) | N/A |
-| 36 | [#WorldBookDay](http://twitter.com/search?q=%23WorldBookDay) | N/A |
-| 37 | [#MondayMood](http://twitter.com/search?q=%23MondayMood) | N/A |
-| 38 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
-| 39 | [#MWC23](http://twitter.com/search?q=%23MWC23) | N/A |
-| 40 | [#ToriesOut235](http://twitter.com/search?q=%23ToriesOut235) | N/A |
-| 41 | [#EDAW2023](http://twitter.com/search?q=%23EDAW2023) | N/A |
-| 42 | [#incomplete](http://twitter.com/search?q=%23incomplete) | N/A |
-| 43 | [#PokemonPresents](http://twitter.com/search?q=%23PokemonPresents) | N/A |
-| 44 | [#Auroraborealis](http://twitter.com/search?q=%23Auroraborealis) | N/A |
-| 45 | [#SAGAwards](http://twitter.com/search?q=%23SAGAwards) | N/A |
-| 46 | [#ElectionResults](http://twitter.com/search?q=%23ElectionResults) | N/A |
-| 47 | [#NIProtocol](http://twitter.com/search?q=%23NIProtocol) | N/A |
-| 48 | [#EnglishTop10](http://twitter.com/search?q=%23EnglishTop10) | N/A |
+| 11 | [Sanwo Olu](http://twitter.com/search?q=Sanwo+Olu) | N/A |
+| 12 | [Energy Price Guarantee](http://twitter.com/search?q=Energy+Price+Guarantee) | N/A |
+| 13 | [RACE WEEK](http://twitter.com/search?q=RACE+WEEK) | N/A |
+| 14 | [Rachel Reeves](http://twitter.com/search?q=Rachel+Reeves) | N/A |
+| 15 | [Sitter](http://twitter.com/search?q=Sitter) | N/A |
+| 16 | [Wordle 618 X](http://twitter.com/search?q=Wordle+618+X) | N/A |
+| 17 | [Daily Quordle 399](http://twitter.com/search?q=Daily+Quordle+399) | N/A |
+| 18 | [England and Wales](http://twitter.com/search?q=England+and+Wales) | N/A |
+| 19 | [Tinubu](http://twitter.com/search?q=Tinubu) | N/A |
+| 20 | [World Book Week](http://twitter.com/search?q=World+Book+Week) | N/A |
+| 21 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
+| 22 | [Peter Kay](http://twitter.com/search?q=Peter+Kay) | N/A |
+| 23 | [Governor](http://twitter.com/search?q=Governor) | N/A |
+| 24 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
+| 25 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
+| 26 | [New IRA](http://twitter.com/search?q=New+IRA) | N/A |
+| 27 | [Yoruba](http://twitter.com/search?q=Yoruba) | N/A |
+| 28 | [Morning Chris](http://twitter.com/search?q=Morning+Chris) | N/A |
+| 29 | [The ERG](http://twitter.com/search?q=The+ERG) | N/A |
+| 30 | [Frozen](http://twitter.com/search?q=Frozen) | N/A |
+| 31 | [Camilla](http://twitter.com/search?q=Camilla) | N/A |
+| 32 | [James Bond](http://twitter.com/search?q=James+Bond) | N/A |
+| 33 | [Mark Francois](http://twitter.com/search?q=Mark+Francois) | N/A |
+| 34 | [Whitby](http://twitter.com/search?q=Whitby) | N/A |
+| 35 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
+| 36 | [Queen Consort](http://twitter.com/search?q=Queen+Consort) | N/A |
+| 37 | [Calvin](http://twitter.com/search?q=Calvin) | N/A |
+| 38 | [Northern Ireland Protocol](http://twitter.com/search?q=Northern+Ireland+Protocol) | N/A |
+| 39 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
+| 40 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 41 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
+| 42 | [#mondaythoughts](http://twitter.com/search?q=%23mondaythoughts) | #MondayThoughts is a hashtag used on social media to share thoughts, ideas, and reflections on the start of the week. It is often used to encourage others to have a positive outlook on the week ahead. |
+| 43 | [#mondaymorning](http://twitter.com/search?q=%23mondaymorning) | N/A |
+| 44 | [#EnergyBills](http://twitter.com/search?q=%23EnergyBills) | N/A |
+| 45 | [#RequestABetRewards](http://twitter.com/search?q=%23RequestABetRewards) | N/A |
+| 46 | [#WorldBookDay](http://twitter.com/search?q=%23WorldBookDay) | N/A |
+| 47 | [#electionresults2023](http://twitter.com/search?q=%23electionresults2023) | N/A |
+| 48 | [#ASongOrMovieForBears](http://twitter.com/search?q=%23ASongOrMovieForBears) | N/A |
 
 
 

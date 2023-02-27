@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palermo
 
-📆 Last Updated: `2023-02-27 10:16:18 UTC`
+📆 Last Updated: `2023-02-27 11:16:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,37 +15,40 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Schlein](http://twitter.com/search?q=%23Schlein) | N/A |
+| 1 | [Schlein](http://twitter.com/search?q=Schlein) | N/A |
 | 2 | [#27febbraio](http://twitter.com/search?q=%2327febbraio) | N/A |
-| 3 | [#primariepd2023](http://twitter.com/search?q=%23primariepd2023) | N/A |
-| 4 | [Bonaccini](http://twitter.com/search?q=Bonaccini) | N/A |
-| 5 | [Renzi](http://twitter.com/search?q=Renzi) | N/A |
-| 6 | [Il PD](http://twitter.com/search?q=Il+PD) | N/A |
+| 3 | [#addiopd](http://twitter.com/search?q=%23addiopd) | N/A |
+| 4 | [#lariachetira](http://twitter.com/search?q=%23lariachetira) | N/A |
+| 5 | [Bonaccini](http://twitter.com/search?q=Bonaccini) | N/A |
+| 6 | [Renzi](http://twitter.com/search?q=Renzi) | N/A |
 | 7 | [Pippo Franco](http://twitter.com/search?q=Pippo+Franco) | N/A |
-| 8 | [Franceschini](http://twitter.com/search?q=Franceschini) | N/A |
+| 8 | [Il PD](http://twitter.com/search?q=Il+PD) | N/A |
 | 9 | [Adinolfi](http://twitter.com/search?q=Adinolfi) | N/A |
-| 10 | [RACE WEEK](http://twitter.com/search?q=RACE+WEEK) | N/A |
-| 11 | [Boccia](http://twitter.com/search?q=Boccia) | N/A |
-| 12 | [Fiorello](http://twitter.com/search?q=Fiorello) | N/A |
-| 13 | [Sinistra](http://twitter.com/search?q=Sinistra) | N/A |
-| 14 | [Orlando](http://twitter.com/search?q=Orlando) | Orlando is a city in the U.S. state of Florida. It is the county seat of Orange County and the center of the Greater Orlando metropolitan area. The name "Orlando" is derived from the Italian phrase "orare labore," which means "to pray and work." |
+| 10 | [Franceschini](http://twitter.com/search?q=Franceschini) | N/A |
+| 11 | [RACE WEEK](http://twitter.com/search?q=RACE+WEEK) | N/A |
+| 12 | [Terzo Polo](http://twitter.com/search?q=Terzo+Polo) | N/A |
+| 13 | [Boccia](http://twitter.com/search?q=Boccia) | N/A |
+| 14 | [Fiorello](http://twitter.com/search?q=Fiorello) | N/A |
 | 15 | [Letta](http://twitter.com/search?q=Letta) | N/A |
-| 16 | [Partito Democratico](http://twitter.com/search?q=Partito+Democratico) | N/A |
-| 17 | [Vedremo](http://twitter.com/search?q=Vedremo) | N/A |
-| 18 | [Stefano](http://twitter.com/search?q=Stefano) | N/A |
-| 19 | [Turchia](http://twitter.com/search?q=Turchia) | N/A |
-| 20 | [Grecia](http://twitter.com/search?q=Grecia) | N/A |
-| 21 | [Bersani](http://twitter.com/search?q=Bersani) | N/A |
-| 22 | [Emilia Romagna](http://twitter.com/search?q=Emilia+Romagna) | N/A |
-| 23 | [Calabria](http://twitter.com/search?q=Calabria) | Calabria is a region in southern Italy. It is located at the "toe" of the Italian peninsula and is bordered by the Tyrrhenian Sea to the west, the Ionian Sea to the south, and the Apennine Mountains to the north. In English, Calabria means "the heel of Italy". |
-| 24 | [#VivaRai2](http://twitter.com/search?q=%23VivaRai2) | N/A |
-| 25 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
-| 26 | [#agorarai](http://twitter.com/search?q=%23agorarai) | N/A |
-| 27 | [#SAGAwards](http://twitter.com/search?q=%23SAGAwards) | N/A |
-| 28 | [#LaTerraDiCaino](http://twitter.com/search?q=%23LaTerraDiCaino) | N/A |
-| 29 | [#TerzoPolo](http://twitter.com/search?q=%23TerzoPolo) | N/A |
-| 30 | [#omnibusla7](http://twitter.com/search?q=%23omnibusla7) | N/A |
-| 31 | [#pdnetwork](http://twitter.com/search?q=%23pdnetwork) | N/A |
+| 16 | [Vedremo](http://twitter.com/search?q=Vedremo) | N/A |
+| 17 | [Orlando](http://twitter.com/search?q=Orlando) | Orlando is a city in the U.S. state of Florida. It is the county seat of Orange County and the center of the Greater Orlando metropolitan area. The name "Orlando" is derived from the Italian phrase "orare labore," which means "to pray and work." |
+| 18 | [Sinistra](http://twitter.com/search?q=Sinistra) | N/A |
+| 19 | [Grecia](http://twitter.com/search?q=Grecia) | N/A |
+| 20 | [Turchia](http://twitter.com/search?q=Turchia) | N/A |
+| 21 | [Stefano](http://twitter.com/search?q=Stefano) | N/A |
+| 22 | [Svizzera](http://twitter.com/search?q=Svizzera) | N/A |
+| 23 | [Piantedosi](http://twitter.com/search?q=Piantedosi) | N/A |
+| 24 | [Bersani](http://twitter.com/search?q=Bersani) | N/A |
+| 25 | [Thiaw](http://twitter.com/search?q=Thiaw) | N/A |
+| 26 | [Emilia Romagna](http://twitter.com/search?q=Emilia+Romagna) | N/A |
+| 27 | [#primariepd2023](http://twitter.com/search?q=%23primariepd2023) | N/A |
+| 28 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
+| 29 | [#VivaRai2](http://twitter.com/search?q=%23VivaRai2) | N/A |
+| 30 | [#agorarai](http://twitter.com/search?q=%23agorarai) | N/A |
+| 31 | [#LaTerraDiCaino](http://twitter.com/search?q=%23LaTerraDiCaino) | N/A |
+| 32 | [#SAGAwards](http://twitter.com/search?q=%23SAGAwards) | N/A |
+| 33 | [#PartitoDemocratico](http://twitter.com/search?q=%23PartitoDemocratico) | N/A |
+| 34 | [#selfie](http://twitter.com/search?q=%23selfie) | N/A |
 
 
 

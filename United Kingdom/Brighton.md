@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brighton
 
-📆 Last Updated: `2023-02-27 10:16:04 UTC`
+📆 Last Updated: `2023-02-27 11:16:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Whitby](http://twitter.com/search?q=Whitby) | N/A |
-| 2 | [Fury](http://twitter.com/search?q=Fury) | N/A |
-| 3 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 4 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
-| 5 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
-| 6 | [#ASongOrMovieForBears](http://twitter.com/search?q=%23ASongOrMovieForBears) | N/A |
+| 1 | [#popmaster](http://twitter.com/search?q=%23popmaster) | N/A |
+| 2 | [#JeremyVine](http://twitter.com/search?q=%23JeremyVine) | N/A |
+| 3 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
+| 4 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 5 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 6 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
 | 7 | [Ofgem](http://twitter.com/search?q=Ofgem) | N/A |
 | 8 | [Banky](http://twitter.com/search?q=Banky) | N/A |
-| 9 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 10 | [Northern Lights](http://twitter.com/search?q=Northern+Lights) | N/A |
-| 11 | [RACE WEEK](http://twitter.com/search?q=RACE+WEEK) | N/A |
-| 12 | [Daily Quordle 399](http://twitter.com/search?q=Daily+Quordle+399) | N/A |
+| 9 | [Northern Lights](http://twitter.com/search?q=Northern+Lights) | N/A |
+| 10 | [Sanwo Olu](http://twitter.com/search?q=Sanwo+Olu) | N/A |
+| 11 | [Energy Price Guarantee](http://twitter.com/search?q=Energy+Price+Guarantee) | N/A |
+| 12 | [RACE WEEK](http://twitter.com/search?q=RACE+WEEK) | N/A |
 | 13 | [Rachel Reeves](http://twitter.com/search?q=Rachel+Reeves) | N/A |
-| 14 | [Wordle 618 X](http://twitter.com/search?q=Wordle+618+X) | N/A |
-| 15 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
-| 16 | [18 in England and Wales](http://twitter.com/search?q=18+in+England+and+Wales) | N/A |
-| 17 | [Morning Chris](http://twitter.com/search?q=Morning+Chris) | N/A |
-| 18 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
-| 19 | [Peter Kay](http://twitter.com/search?q=Peter+Kay) | N/A |
-| 20 | [Yoruba](http://twitter.com/search?q=Yoruba) | N/A |
-| 21 | [Frozen](http://twitter.com/search?q=Frozen) | N/A |
-| 22 | [Mark Francois](http://twitter.com/search?q=Mark+Francois) | N/A |
-| 23 | [Igbos](http://twitter.com/search?q=Igbos) | Igbos is a term used to refer to the Igbo people, an ethnic group native to southeastern Nigeria. The Igbo language is also known as Igboid. In English, the term "Igbos" is used to refer to both the people and their language. |
-| 24 | [James Bond](http://twitter.com/search?q=James+Bond) | N/A |
-| 25 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
-| 26 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
-| 27 | [Ekiti](http://twitter.com/search?q=Ekiti) | N/A |
-| 28 | [Queen Consort](http://twitter.com/search?q=Queen+Consort) | N/A |
-| 29 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
-| 30 | [#mondaythoughts](http://twitter.com/search?q=%23mondaythoughts) | #MondayThoughts is a hashtag used on social media to share thoughts, ideas, and reflections on the start of the week. It is often used to encourage others to have a positive outlook on the week ahead. |
-| 31 | [#arsecastextra](http://twitter.com/search?q=%23arsecastextra) | N/A |
-| 32 | [#FairtradeFortnight](http://twitter.com/search?q=%23FairtradeFortnight) | N/A |
-| 33 | [#Mondayvibes](http://twitter.com/search?q=%23Mondayvibes) | N/A |
-| 34 | [#WorldBookDay](http://twitter.com/search?q=%23WorldBookDay) | N/A |
-| 35 | [#MondayMood](http://twitter.com/search?q=%23MondayMood) | N/A |
-| 36 | [#ToriesOut235](http://twitter.com/search?q=%23ToriesOut235) | N/A |
-| 37 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
-| 38 | [#MWC23](http://twitter.com/search?q=%23MWC23) | N/A |
-| 39 | [#EDAW2023](http://twitter.com/search?q=%23EDAW2023) | N/A |
-| 40 | [#incomplete](http://twitter.com/search?q=%23incomplete) | N/A |
-| 41 | [#PokemonPresents](http://twitter.com/search?q=%23PokemonPresents) | N/A |
-| 42 | [#Auroraborealis](http://twitter.com/search?q=%23Auroraborealis) | N/A |
-| 43 | [#SAGAwards](http://twitter.com/search?q=%23SAGAwards) | N/A |
-| 44 | [#NIProtocol](http://twitter.com/search?q=%23NIProtocol) | N/A |
-| 45 | [#ElectionResults](http://twitter.com/search?q=%23ElectionResults) | N/A |
-| 46 | [#EnglishTop10](http://twitter.com/search?q=%23EnglishTop10) | N/A |
+| 14 | [Sitter](http://twitter.com/search?q=Sitter) | N/A |
+| 15 | [Wordle 618 X](http://twitter.com/search?q=Wordle+618+X) | N/A |
+| 16 | [Daily Quordle 399](http://twitter.com/search?q=Daily+Quordle+399) | N/A |
+| 17 | [England and Wales](http://twitter.com/search?q=England+and+Wales) | N/A |
+| 18 | [Tinubu](http://twitter.com/search?q=Tinubu) | N/A |
+| 19 | [World Book Week](http://twitter.com/search?q=World+Book+Week) | N/A |
+| 20 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
+| 21 | [Peter Kay](http://twitter.com/search?q=Peter+Kay) | N/A |
+| 22 | [Governor](http://twitter.com/search?q=Governor) | N/A |
+| 23 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
+| 24 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
+| 25 | [New IRA](http://twitter.com/search?q=New+IRA) | N/A |
+| 26 | [Yoruba](http://twitter.com/search?q=Yoruba) | N/A |
+| 27 | [Morning Chris](http://twitter.com/search?q=Morning+Chris) | N/A |
+| 28 | [The ERG](http://twitter.com/search?q=The+ERG) | N/A |
+| 29 | [Frozen](http://twitter.com/search?q=Frozen) | N/A |
+| 30 | [Camilla](http://twitter.com/search?q=Camilla) | N/A |
+| 31 | [James Bond](http://twitter.com/search?q=James+Bond) | N/A |
+| 32 | [Mark Francois](http://twitter.com/search?q=Mark+Francois) | N/A |
+| 33 | [Whitby](http://twitter.com/search?q=Whitby) | N/A |
+| 34 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
+| 35 | [Queen Consort](http://twitter.com/search?q=Queen+Consort) | N/A |
+| 36 | [Calvin](http://twitter.com/search?q=Calvin) | N/A |
+| 37 | [Northern Ireland Protocol](http://twitter.com/search?q=Northern+Ireland+Protocol) | N/A |
+| 38 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
+| 39 | [#mondaythoughts](http://twitter.com/search?q=%23mondaythoughts) | #MondayThoughts is a hashtag used on social media to share thoughts, ideas, and reflections on the start of the week. It is often used to encourage others to have a positive outlook on the week ahead. |
+| 40 | [#mondaymorning](http://twitter.com/search?q=%23mondaymorning) | N/A |
+| 41 | [#EnergyBills](http://twitter.com/search?q=%23EnergyBills) | N/A |
+| 42 | [#RequestABetRewards](http://twitter.com/search?q=%23RequestABetRewards) | N/A |
+| 43 | [#WorldBookDay](http://twitter.com/search?q=%23WorldBookDay) | N/A |
+| 44 | [#electionresults2023](http://twitter.com/search?q=%23electionresults2023) | N/A |
+| 45 | [#ASongOrMovieForBears](http://twitter.com/search?q=%23ASongOrMovieForBears) | N/A |
+| 46 | [#SmashHitsDickens](http://twitter.com/search?q=%23SmashHitsDickens) | N/A |
+| 47 | [#Mondayvibes](http://twitter.com/search?q=%23Mondayvibes) | N/A |
+| 48 | [#FairtradeFortnight](http://twitter.com/search?q=%23FairtradeFortnight) | N/A |
+| 49 | [#MondayMood](http://twitter.com/search?q=%23MondayMood) | N/A |
 
 
 
