@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cork
 
-📆 Last Updated: `2023-02-27 03:20:35 UTC`
+📆 Last Updated: `2023-02-27 04:16:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,7 +17,7 @@ This is top 50 for [Ireland](</Ireland>)
 | ------- | ------------ | ------------ |
 | 1 | [#PaulFury](http://twitter.com/search?q=%23PaulFury) | N/A |
 | 2 | [#CarabaoCupFinal](http://twitter.com/search?q=%23CarabaoCupFinal) | N/A |
-| 3 | [#ITAvIRE](http://twitter.com/search?q=%23ITAvIRE) | N/A |
+| 3 | [#itavire](http://twitter.com/search?q=%23itavire) | N/A |
 | 4 | [#MUNNEW](http://twitter.com/search?q=%23MUNNEW) | N/A |
 | 5 | [#FRAvSCO](http://twitter.com/search?q=%23FRAvSCO) | N/A |
 | 6 | [Holly](http://twitter.com/search?q=Holly) | N/A |
@@ -45,24 +45,24 @@ This is top 50 for [Ireland](</Ireland>)
 | 28 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
 | 29 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
 | 30 | [come on united](http://twitter.com/search?q=come+on+united) | N/A |
-| 31 | [FULL TIME](http://twitter.com/search?q=FULL+TIME) | FULL TIME is a term used to describe a job or activity that requires a person to work a certain number of hours per week, usually 40 hours. It is typically used to distinguish between part-time and full-time employment. |
+| 31 | [Full Time](http://twitter.com/search?q=Full+Time) | N/A |
 | 32 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
-| 33 | [Limerick](http://twitter.com/search?q=Limerick) | N/A |
-| 34 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
-| 35 | [Harry Maguire](http://twitter.com/search?q=Harry+Maguire) | N/A |
-| 36 | [Glory Glory Man United](http://twitter.com/search?q=Glory+Glory+Man+United) | N/A |
-| 37 | [Brooke](http://twitter.com/search?q=Brooke) | N/A |
-| 38 | [keita](http://twitter.com/search?q=keita) | N/A |
-| 39 | [League Cup](http://twitter.com/search?q=League+Cup) | N/A |
-| 40 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 41 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
-| 42 | [Warra](http://twitter.com/search?q=Warra) | N/A |
-| 43 | [Suzanne](http://twitter.com/search?q=Suzanne) | N/A |
-| 44 | [Eddie Howe](http://twitter.com/search?q=Eddie+Howe) | Eddie Howe is an English professional football manager and former player. He is currently the manager of Premier League club AFC Bournemouth. Howe has been praised for his tactical knowledge and ability to develop young players. |
-| 45 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
-| 46 | [Kyogo](http://twitter.com/search?q=Kyogo) | Kyogo is a Japanese term that translates to "experience" or "practice". It is often used to refer to the practice of gaining knowledge and experience through hands-on learning. |
-| 47 | [Finn Russell](http://twitter.com/search?q=Finn+Russell) | N/A |
-| 48 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 33 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
+| 34 | [Harry Maguire](http://twitter.com/search?q=Harry+Maguire) | N/A |
+| 35 | [Glory Glory Man United](http://twitter.com/search?q=Glory+Glory+Man+United) | N/A |
+| 36 | [Brooke](http://twitter.com/search?q=Brooke) | N/A |
+| 37 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 38 | [League Cup](http://twitter.com/search?q=League+Cup) | N/A |
+| 39 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 40 | [Warra](http://twitter.com/search?q=Warra) | N/A |
+| 41 | [Suzanne](http://twitter.com/search?q=Suzanne) | N/A |
+| 42 | [Eddie Howe](http://twitter.com/search?q=Eddie+Howe) | Eddie Howe is an English professional football manager and former player. He is currently the manager of Premier League club AFC Bournemouth. Howe has been praised for his tactical knowledge and ability to develop young players. |
+| 43 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
+| 44 | [Limerick](http://twitter.com/search?q=Limerick) | N/A |
+| 45 | [Kyogo](http://twitter.com/search?q=Kyogo) | Kyogo is a Japanese term that translates to "experience" or "practice". It is often used to refer to the practice of gaining knowledge and experience through hands-on learning. |
+| 46 | [Finn Russell](http://twitter.com/search?q=Finn+Russell) | N/A |
+| 47 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 48 | [Logan](http://twitter.com/search?q=Logan) | N/A |
 | 49 | [Derry](http://twitter.com/search?q=Derry) | N/A |
 | 50 | [Roy Keane](http://twitter.com/search?q=Roy+Keane) | Roy Keane is an Irish former professional footballer and football manager. He is currently the assistant manager of the Republic of Ireland national team. He is widely regarded as one of the greatest midfielders of his generation, and was known for his aggressive style of play, leadership, and uncompromising attitude. |
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexicali
 
-📆 Last Updated: `2023-02-27 03:20:28 UTC`
+📆 Last Updated: `2023-02-27 04:16:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SAGAwards](http://twitter.com/search?q=%23SAGAwards) | N/A |
+| 1 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
 | 2 | [#DomingoAllStar](http://twitter.com/search?q=%23DomingoAllStar) | N/A |
-| 3 | [FOGEL ESTAMOS CONTIGO](http://twitter.com/search?q=FOGEL+ESTAMOS+CONTIGO) | N/A |
-| 4 | [#ElINENoSeToca](http://twitter.com/search?q=%23ElINENoSeToca) | N/A |
-| 5 | [#TLOU](http://twitter.com/search?q=%23TLOU) | #TLOU is an acronym for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is a post-apocalyptic action-adventure survival horror game set in the United States. The game follows the story of Joel and Ellie as they traverse a post-apocalyptic world filled with hostile humans and cannibalistic creatures known as the Infected. |
-| 6 | [#MiVotoNoSeatoca](http://twitter.com/search?q=%23MiVotoNoSeatoca) | N/A |
-| 7 | [FUERZA VELOCIJUMPER](http://twitter.com/search?q=FUERZA+VELOCIJUMPER) | N/A |
-| 8 | [Zócalo](http://twitter.com/search?q=Z%c3%b3calo) | N/A |
-| 9 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
-| 10 | [Puebla](http://twitter.com/search?q=Puebla) | Puebla is a city in Mexico. It is the capital of the state of Puebla and is located in Central Mexico, about 70 miles southeast of Mexico City. The name Puebla comes from the Nahuatl language and means “place of the people” or “people’s place.” |
-| 11 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
-| 12 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
-| 13 | [Vitacilina](http://twitter.com/search?q=Vitacilina) | N/A |
-| 14 | [Harold Preciado](http://twitter.com/search?q=Harold+Preciado) | N/A |
-| 15 | [Arce](http://twitter.com/search?q=Arce) | N/A |
-| 16 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
-| 17 | [Uruguay](http://twitter.com/search?q=Uruguay) | Uruguay is a country located in South America, bordered by Brazil to the north and Argentina to the west. The name Uruguay is derived from the Guarani language and means "river of painted birds." |
-| 18 | [Palenque](http://twitter.com/search?q=Palenque) | N/A |
-| 19 | [Mario Delgado](http://twitter.com/search?q=Mario+Delgado) | N/A |
-| 20 | [Fentanes](http://twitter.com/search?q=Fentanes) | N/A |
-| 21 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
-| 22 | [Eddy](http://twitter.com/search?q=Eddy) | N/A |
-| 23 | [Plan B](http://twitter.com/search?q=Plan+B) | N/A |
-| 24 | [Querías](http://twitter.com/search?q=Quer%c3%adas) | N/A |
-| 25 | [Photoshop](http://twitter.com/search?q=Photoshop) | N/A |
-| 26 | [Ardidos](http://twitter.com/search?q=Ardidos) | N/A |
-| 27 | [Andrew](http://twitter.com/search?q=Andrew) | N/A |
-| 28 | [Democracia](http://twitter.com/search?q=Democracia) | Democracia is a Spanish word meaning democracy. It is used to refer to a system of government in which the people have the power to choose their leaders through free and fair elections. Democracia is based on the principle of majority rule, with the majority of citizens having a say in how their country is run. |
-| 29 | [Acarreados](http://twitter.com/search?q=Acarreados) | N/A |
-| 30 | [Batres](http://twitter.com/search?q=Batres) | N/A |
-| 31 | [Farsa](http://twitter.com/search?q=Farsa) | N/A |
-| 32 | [Tommy Fury](http://twitter.com/search?q=Tommy+Fury) | N/A |
-| 33 | [Damián](http://twitter.com/search?q=Dami%c3%a1n) | N/A |
-| 34 | [Ronaldinho](http://twitter.com/search?q=Ronaldinho) | N/A |
-| 35 | [Cate Blanchett](http://twitter.com/search?q=Cate+Blanchett) | N/A |
-| 36 | [Atlante](http://twitter.com/search?q=Atlante) | N/A |
-| 37 | [Himno Nacional](http://twitter.com/search?q=Himno+Nacional) | N/A |
-| 38 | [Reforma](http://twitter.com/search?q=Reforma) | N/A |
-| 39 | [Chayanne](http://twitter.com/search?q=Chayanne) | N/A |
-| 40 | [Ana Gabriel](http://twitter.com/search?q=Ana+Gabriel) | N/A |
-| 41 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 42 | [Plaza de la Constitución](http://twitter.com/search?q=Plaza+de+la+Constituci%c3%b3n) | N/A |
-| 43 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 44 | [Millones](http://twitter.com/search?q=Millones) | N/A |
-| 45 | [Ardor](http://twitter.com/search?q=Ardor) | N/A |
-| 46 | [Epigmenio](http://twitter.com/search?q=Epigmenio) | N/A |
-| 47 | [PIO FC](http://twitter.com/search?q=PIO+FC) | N/A |
-| 48 | [Fifi](http://twitter.com/search?q=Fifi) | N/A |
-| 49 | [Chairo](http://twitter.com/search?q=Chairo) | N/A |
+| 3 | [#TLOU](http://twitter.com/search?q=%23TLOU) | #TLOU is an acronym for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is a post-apocalyptic action-adventure survival horror game set in the United States. The game follows the story of Joel and Ellie as they traverse a post-apocalyptic world filled with hostile humans and cannibalistic creatures known as the Infected. |
+| 4 | [#SAGAwards](http://twitter.com/search?q=%23SAGAwards) | N/A |
+| 5 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 6 | [FOGEL ESTAMOS CONTIGO](http://twitter.com/search?q=FOGEL+ESTAMOS+CONTIGO) | N/A |
+| 7 | [#MiVotoNoSeatoca](http://twitter.com/search?q=%23MiVotoNoSeatoca) | N/A |
+| 8 | [Fentanes](http://twitter.com/search?q=Fentanes) | N/A |
+| 9 | [Ustari](http://twitter.com/search?q=Ustari) | N/A |
+| 10 | [FUERZA VELOCIJUMPER](http://twitter.com/search?q=FUERZA+VELOCIJUMPER) | N/A |
+| 11 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
+| 12 | [Zócalo](http://twitter.com/search?q=Z%c3%b3calo) | N/A |
+| 13 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
+| 14 | [Spoiler](http://twitter.com/search?q=Spoiler) | N/A |
+| 15 | [Almada](http://twitter.com/search?q=Almada) | N/A |
+| 16 | [Arce](http://twitter.com/search?q=Arce) | N/A |
+| 17 | [Left Behind](http://twitter.com/search?q=Left+Behind) | N/A |
+| 18 | [Sally Field](http://twitter.com/search?q=Sally+Field) | N/A |
+| 19 | [Puebla](http://twitter.com/search?q=Puebla) | Puebla is a city in Mexico. It is the capital of the state of Puebla and is located in Central Mexico, about 70 miles southeast of Mexico City. The name Puebla comes from the Nahuatl language and means “place of the people” or “people’s place.” |
+| 20 | [Vitacilina](http://twitter.com/search?q=Vitacilina) | N/A |
+| 21 | [Estados Unidos](http://twitter.com/search?q=Estados+Unidos) | Estados Unidos is the Spanish name for the United States of America. It literally translates to "United States" in English. |
+| 22 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
+| 23 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
+| 24 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
+| 25 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
+| 26 | [Heliud](http://twitter.com/search?q=Heliud) | N/A |
+| 27 | [Uruguay](http://twitter.com/search?q=Uruguay) | Uruguay is a country located in South America, bordered by Brazil to the north and Argentina to the west. The name Uruguay is derived from the Guarani language and means "river of painted birds." |
+| 28 | [Palenque](http://twitter.com/search?q=Palenque) | N/A |
+| 29 | [Nuevo Laredo](http://twitter.com/search?q=Nuevo+Laredo) | N/A |
+| 30 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
+| 31 | [Rebeldía](http://twitter.com/search?q=Rebeld%c3%ada) | N/A |
+| 32 | [Fuera López](http://twitter.com/search?q=Fuera+L%c3%b3pez) | N/A |
+| 33 | [Brendan](http://twitter.com/search?q=Brendan) | Brendan is an Irish name derived from the Gaelic Breandán, meaning "prince". It is also used as a surname. |
+| 34 | [Harold Preciado](http://twitter.com/search?q=Harold+Preciado) | N/A |
+| 35 | [Acarreados](http://twitter.com/search?q=Acarreados) | N/A |
+| 36 | [Eddy](http://twitter.com/search?q=Eddy) | N/A |
+| 37 | [Ardido](http://twitter.com/search?q=Ardido) | N/A |
+| 38 | [Mario Delgado](http://twitter.com/search?q=Mario+Delgado) | N/A |
+| 39 | [Cate Blanchett](http://twitter.com/search?q=Cate+Blanchett) | N/A |
+| 40 | [Farsa](http://twitter.com/search?q=Farsa) | N/A |
+| 41 | [Querías](http://twitter.com/search?q=Quer%c3%adas) | N/A |
+| 42 | [Batres](http://twitter.com/search?q=Batres) | N/A |
+| 43 | [Atlante](http://twitter.com/search?q=Atlante) | N/A |
+| 44 | [Photoshop](http://twitter.com/search?q=Photoshop) | N/A |
+| 45 | [Damián](http://twitter.com/search?q=Dami%c3%a1n) | N/A |
+| 46 | [Ronaldinho](http://twitter.com/search?q=Ronaldinho) | N/A |
+| 47 | [Millones](http://twitter.com/search?q=Millones) | N/A |
+| 48 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
+| 49 | [Andrew](http://twitter.com/search?q=Andrew) | N/A |
 
 
 

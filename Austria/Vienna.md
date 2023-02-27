@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-02-27 03:20:35 UTC`
+📆 Last Updated: `2023-02-27 04:16:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,13 +21,13 @@ This is top 50 for [Austria](</Austria>)
 | 4 | [#wsmds](http://twitter.com/search?q=%23wsmds) | N/A |
 | 5 | [#wacscr](http://twitter.com/search?q=%23wacscr) | N/A |
 | 6 | [Plakolm](http://twitter.com/search?q=Plakolm) | N/A |
-| 7 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
-| 8 | [#b2502](http://twitter.com/search?q=%23b2502) | N/A |
-| 9 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 10 | [Kern](http://twitter.com/search?q=Kern) | N/A |
-| 11 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 12 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 13 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
+| 7 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
+| 8 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
+| 9 | [#b2502](http://twitter.com/search?q=%23b2502) | N/A |
+| 10 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 11 | [Kern](http://twitter.com/search?q=Kern) | N/A |
+| 12 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 13 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 14 | [Vollzeit](http://twitter.com/search?q=Vollzeit) | N/A |
 | 15 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
 | 16 | [WARRIOR NUN CAMPERS](http://twitter.com/search?q=WARRIOR+NUN+CAMPERS) | N/A |

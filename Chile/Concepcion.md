@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Concepcion
 
-📆 Last Updated: `2023-02-27 03:20:30 UTC`
+📆 Last Updated: `2023-02-27 04:16:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Chile](</Chile>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#VamosColoColo](http://twitter.com/search?q=%23VamosColoColo) | #VamosColoColo is a hashtag used by fans of the Chilean soccer team Club Social y Deportivo Colo-Colo. It translates to "Let's go Colo-Colo" in English, and is used to show support for the team. |
-| 2 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 1 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 2 | [#VamosColoColo](http://twitter.com/search?q=%23VamosColoColo) | #VamosColoColo is a hashtag used by fans of the Chilean soccer team Club Social y Deportivo Colo-Colo. It translates to "Let's go Colo-Colo" in English, and is used to show support for the team. |
 | 3 | [Quinteros](http://twitter.com/search?q=Quinteros) | Quinteros is a Spanish surname. It is derived from the Latin word "quintus," which means "fifth." The name is thought to have originated from a family of five brothers who lived in Spain during the Middle Ages. In English, the meaning of Quinteros is "of the fifth." |
 | 4 | [#AquiSeBaila](http://twitter.com/search?q=%23AquiSeBaila) | N/A |
 | 5 | [#YoSoyCHV](http://twitter.com/search?q=%23YoSoyCHV) | N/A |
-| 6 | [Coquimbo](http://twitter.com/search?q=Coquimbo) | N/A |
-| 7 | [Benegas](http://twitter.com/search?q=Benegas) | Benegas is a Spanish surname. It is derived from the Latin word "bene" meaning "good" and the suffix "-gas" which is a patronymic ending. In English, it can be translated to mean "son of good". |
-| 8 | [#SAGAwards](http://twitter.com/search?q=%23SAGAwards) | N/A |
-| 9 | [Lezcano](http://twitter.com/search?q=Lezcano) | N/A |
-| 10 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 11 | [Castillo](http://twitter.com/search?q=Castillo) | N/A |
-| 12 | [Ramiro](http://twitter.com/search?q=Ramiro) | N/A |
+| 6 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 7 | [#SAGAwards](http://twitter.com/search?q=%23SAGAwards) | N/A |
+| 8 | [Coquimbo](http://twitter.com/search?q=Coquimbo) | N/A |
+| 9 | [Benegas](http://twitter.com/search?q=Benegas) | Benegas is a Spanish surname. It is derived from the Latin word "bene" meaning "good" and the suffix "-gas" which is a patronymic ending. In English, it can be translated to mean "son of good". |
+| 10 | [Lezcano](http://twitter.com/search?q=Lezcano) | N/A |
+| 11 | [Ramiro](http://twitter.com/search?q=Ramiro) | N/A |
+| 12 | [Gutiérrez](http://twitter.com/search?q=Guti%c3%a9rrez) | N/A |
 | 13 | [Palacios](http://twitter.com/search?q=Palacios) | N/A |
-| 14 | [Gutiérrez](http://twitter.com/search?q=Guti%c3%a9rrez) | N/A |
-| 15 | [Parraguez](http://twitter.com/search?q=Parraguez) | N/A |
+| 14 | [Castillo](http://twitter.com/search?q=Castillo) | N/A |
+| 15 | [Mago Valdivia](http://twitter.com/search?q=Mago+Valdivia) | N/A |
 | 16 | [Bouzat](http://twitter.com/search?q=Bouzat) | Bouzat is a French word that means "small village". It is often used to refer to a small, rural community. |
-| 17 | [Bolados](http://twitter.com/search?q=Bolados) | Bolados is a Spanish slang term that means "cool" or "awesome." It is often used to express approval or admiration for something. |
-| 18 | [Mono Sánchez](http://twitter.com/search?q=Mono+S%c3%a1nchez) | N/A |
-| 19 | [Pizarro](http://twitter.com/search?q=Pizarro) | N/A |
-| 20 | [Mago Valdivia](http://twitter.com/search?q=Mago+Valdivia) | N/A |
-| 21 | [Pavez](http://twitter.com/search?q=Pavez) | Pavez is a Spanish word meaning "to protect" or "to guard". It is derived from the Latin word pavens, which means "guardian". |
-| 22 | [Fuentes](http://twitter.com/search?q=Fuentes) | N/A |
-| 23 | [Maite Orsini](http://twitter.com/search?q=Maite+Orsini) | N/A |
-| 24 | [Thompson](http://twitter.com/search?q=Thompson) | N/A |
-| 25 | [Rojas](http://twitter.com/search?q=Rojas) | N/A |
-| 26 | [Nano Díaz](http://twitter.com/search?q=Nano+D%c3%adaz) | N/A |
+| 17 | [Parraguez](http://twitter.com/search?q=Parraguez) | N/A |
+| 18 | [Bolados](http://twitter.com/search?q=Bolados) | Bolados is a Spanish slang term that means "cool" or "awesome." It is often used to express approval or admiration for something. |
+| 19 | [Maite Orsini](http://twitter.com/search?q=Maite+Orsini) | N/A |
+| 20 | [Pizarro](http://twitter.com/search?q=Pizarro) | N/A |
+| 21 | [Mono Sánchez](http://twitter.com/search?q=Mono+S%c3%a1nchez) | N/A |
+| 22 | [Pavez](http://twitter.com/search?q=Pavez) | Pavez is a Spanish word meaning "to protect" or "to guard". It is derived from the Latin word pavens, which means "guardian". |
+| 23 | [Rojas](http://twitter.com/search?q=Rojas) | N/A |
+| 24 | [Fuentes](http://twitter.com/search?q=Fuentes) | N/A |
+| 25 | [Nano Díaz](http://twitter.com/search?q=Nano+D%c3%adaz) | N/A |
+| 26 | [Thompson](http://twitter.com/search?q=Thompson) | N/A |
 | 27 | [Monumental](http://twitter.com/search?q=Monumental) | N/A |
 | 28 | [Wiemberg](http://twitter.com/search?q=Wiemberg) | N/A |
-| 29 | [Falcón](http://twitter.com/search?q=Falc%c3%b3n) | N/A |
-| 30 | [Palma](http://twitter.com/search?q=Palma) | N/A |
-| 31 | [Suazo](http://twitter.com/search?q=Suazo) | N/A |
+| 29 | [Palma](http://twitter.com/search?q=Palma) | N/A |
+| 30 | [Falcón](http://twitter.com/search?q=Falc%c3%b3n) | N/A |
+| 31 | [Jeyson](http://twitter.com/search?q=Jeyson) | N/A |
 | 32 | [Camilo Sesto](http://twitter.com/search?q=Camilo+Sesto) | N/A |
 | 33 | [Cortés](http://twitter.com/search?q=Cort%c3%a9s) | N/A |
-| 34 | [Costa](http://twitter.com/search?q=Costa) | N/A |
-| 35 | [Jeyson](http://twitter.com/search?q=Jeyson) | N/A |
-| 36 | [Navarro](http://twitter.com/search?q=Navarro) | Navarro is a Spanish surname derived from the Latin word "navalis," meaning "of the ship." It is also a place name in Spain, referring to the region of Navarre. In English, it can refer to someone from Navarre or someone with the surname Navarro. |
-| 37 | [Parrasex](http://twitter.com/search?q=Parrasex) | N/A |
-| 38 | [Opazo](http://twitter.com/search?q=Opazo) | N/A |
-| 39 | [Peluca](http://twitter.com/search?q=Peluca) | N/A |
-| 40 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
-| 41 | [Zaldivia](http://twitter.com/search?q=Zaldivia) | Zaldivia is a Spanish surname derived from the Basque language. It is composed of two elements: zaldu (meaning "valley") and ibar (meaning "meadow"). In English, it can be translated to mean "valley meadow". |
-| 42 | [Allende](http://twitter.com/search?q=Allende) | N/A |
-| 43 | [Ñublense](http://twitter.com/search?q=%c3%91ublense) | Ñublense is a Chilean football club based in the city of Chillán. The club's name is derived from the Mapudungun language, meaning "people of the sun". |
-| 44 | [Ronaldinho](http://twitter.com/search?q=Ronaldinho) | N/A |
-| 45 | [Arica](http://twitter.com/search?q=Arica) | N/A |
+| 34 | [Suazo](http://twitter.com/search?q=Suazo) | N/A |
+| 35 | [Costa](http://twitter.com/search?q=Costa) | N/A |
+| 36 | [Oroz](http://twitter.com/search?q=Oroz) | Oroz is a Basque word meaning "dawn" or "daybreak". |
+| 37 | [Navarro](http://twitter.com/search?q=Navarro) | Navarro is a Spanish surname derived from the Latin word "navalis," meaning "of the ship." It is also a place name in Spain, referring to the region of Navarre. In English, it can refer to someone from Navarre or someone with the surname Navarro. |
+| 38 | [Parrasex](http://twitter.com/search?q=Parrasex) | N/A |
+| 39 | [Opazo](http://twitter.com/search?q=Opazo) | N/A |
+| 40 | [Peluca](http://twitter.com/search?q=Peluca) | N/A |
+| 41 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
+| 42 | [Zaldivia](http://twitter.com/search?q=Zaldivia) | Zaldivia is a Spanish surname derived from the Basque language. It is composed of two elements: zaldu (meaning "valley") and ibar (meaning "meadow"). In English, it can be translated to mean "valley meadow". |
+| 43 | [Allende](http://twitter.com/search?q=Allende) | N/A |
+| 44 | [Ñublense](http://twitter.com/search?q=%c3%91ublense) | Ñublense is a Chilean football club based in the city of Chillán. The club's name is derived from the Mapudungun language, meaning "people of the sun". |
+| 45 | [#TLOU](http://twitter.com/search?q=%23TLOU) | #TLOU is an acronym for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is a post-apocalyptic action-adventure survival horror game set in the United States. The game follows the story of Joel and Ellie as they traverse a post-apocalyptic world filled with hostile humans and cannibalistic creatures known as the Infected. |
 | 46 | [#CCvsCOQxTNTSports](http://twitter.com/search?q=%23CCvsCOQxTNTSports) | N/A |
-| 47 | [#TLOU](http://twitter.com/search?q=%23TLOU) | #TLOU is an acronym for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is a post-apocalyptic action-adventure survival horror game set in the United States. The game follows the story of Joel and Ellie as they traverse a post-apocalyptic world filled with hostile humans and cannibalistic creatures known as the Infected. |
-| 48 | [#KingsLeagueJ8](http://twitter.com/search?q=%23KingsLeagueJ8) | N/A |
+| 47 | [#SecretosDelMatrimonio](http://twitter.com/search?q=%23SecretosDelMatrimonio) | N/A |
+| 48 | [#Cadem](http://twitter.com/search?q=%23Cadem) | N/A |
 
 
 

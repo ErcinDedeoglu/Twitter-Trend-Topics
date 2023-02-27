@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-02-27 03:20:41 UTC`
+📆 Last Updated: `2023-02-27 04:16:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -32,8 +32,8 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 15 | [Katar](http://twitter.com/search?q=Katar) | N/A |
 | 16 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
 | 17 | [Maroc](http://twitter.com/search?q=Maroc) | N/A |
-| 18 | [Seite der Geschichte](http://twitter.com/search?q=Seite+der+Geschichte) | N/A |
-| 19 | [Entschuldigung](http://twitter.com/search?q=Entschuldigung) | N/A |
+| 18 | [seite der geschichte](http://twitter.com/search?q=seite+der+geschichte) | N/A |
+| 19 | [entschuldigung](http://twitter.com/search?q=entschuldigung) | N/A |
 | 20 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
 | 21 | [Andy](http://twitter.com/search?q=Andy) | N/A |
 | 22 | [servette](http://twitter.com/search?q=servette) | N/A |
@@ -49,19 +49,19 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 32 | [Fair](http://twitter.com/search?q=Fair) | N/A |
 | 33 | [Schlein](http://twitter.com/search?q=Schlein) | N/A |
 | 34 | [fc sion](http://twitter.com/search?q=fc+sion) | N/A |
-| 35 | [Kapitulation](http://twitter.com/search?q=Kapitulation) | N/A |
+| 35 | [kapitulation](http://twitter.com/search?q=kapitulation) | N/A |
 | 36 | [Strategie](http://twitter.com/search?q=Strategie) | N/A |
 | 37 | [Jaaa](http://twitter.com/search?q=Jaaa) | N/A |
 | 38 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 39 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 40 | [gemeinderat](http://twitter.com/search?q=gemeinderat) | N/A |
-| 41 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 42 | [zuwanderung](http://twitter.com/search?q=zuwanderung) | N/A |
-| 43 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
-| 44 | [Argumente](http://twitter.com/search?q=Argumente) | N/A |
-| 45 | [Cassis](http://twitter.com/search?q=Cassis) | N/A |
-| 46 | [Mitglied](http://twitter.com/search?q=Mitglied) | N/A |
-| 47 | [Politikern](http://twitter.com/search?q=Politikern) | N/A |
+| 39 | [Wörter](http://twitter.com/search?q=W%c3%b6rter) | N/A |
+| 40 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 41 | [gemeinderat](http://twitter.com/search?q=gemeinderat) | N/A |
+| 42 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 43 | [zuwanderung](http://twitter.com/search?q=zuwanderung) | N/A |
+| 44 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
+| 45 | [Argumente](http://twitter.com/search?q=Argumente) | N/A |
+| 46 | [Cassis](http://twitter.com/search?q=Cassis) | N/A |
+| 47 | [Mitglied](http://twitter.com/search?q=Mitglied) | N/A |
 
 
 

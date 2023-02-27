@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belgium
 
-📆 Last Updated: `2023-02-27 03:21:10 UTC`
+📆 Last Updated: `2023-02-27 04:17:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,10 +16,10 @@ This is top 50 for Belgium
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#clugnt](http://twitter.com/search?q=%23clugnt) | N/A |
-| 2 | [#ANDSTA](http://twitter.com/search?q=%23ANDSTA) | N/A |
-| 3 | [#OMPSG](http://twitter.com/search?q=%23OMPSG) | N/A |
-| 4 | [#kbk23](http://twitter.com/search?q=%23kbk23) | N/A |
-| 5 | [Buchanan](http://twitter.com/search?q=Buchanan) | N/A |
+| 2 | [#andsta](http://twitter.com/search?q=%23andsta) | N/A |
+| 3 | [#kbk23](http://twitter.com/search?q=%23kbk23) | N/A |
+| 4 | [Buchanan](http://twitter.com/search?q=Buchanan) | N/A |
+| 5 | [#OMPSG](http://twitter.com/search?q=%23OMPSG) | N/A |
 | 6 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
 | 7 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
 | 8 | [#ohlant](http://twitter.com/search?q=%23ohlant) | N/A |
@@ -56,10 +56,10 @@ This is top 50 for Belgium
 | 39 | [benoot](http://twitter.com/search?q=benoot) | N/A |
 | 40 | [slag](http://twitter.com/search?q=slag) | N/A |
 | 41 | [Nielsen](http://twitter.com/search?q=Nielsen) | N/A |
-| 42 | [Lardot](http://twitter.com/search?q=Lardot) | N/A |
+| 42 | [lardot](http://twitter.com/search?q=lardot) | N/A |
 | 43 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 44 | [Amuzu](http://twitter.com/search?q=Amuzu) | N/A |
-| 45 | [Sardella](http://twitter.com/search?q=Sardella) | N/A |
+| 44 | [amuzu](http://twitter.com/search?q=amuzu) | N/A |
+| 45 | [sardella](http://twitter.com/search?q=sardella) | N/A |
 | 46 | [Westerlo](http://twitter.com/search?q=Westerlo) | N/A |
 | 47 | [Vélodrome](http://twitter.com/search?q=V%c3%a9lodrome) | N/A |
 | 48 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |

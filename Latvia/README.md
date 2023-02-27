@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-02-27 03:21:13 UTC`
+📆 Last Updated: `2023-02-27 04:17:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,29 +16,29 @@ This is top 50 for Latvia
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#balssmaskā](http://twitter.com/search?q=%23balssmask%c4%81) | N/A |
-| 2 | [#LielaisKristaps](http://twitter.com/search?q=%23LielaisKristaps) | N/A |
+| 2 | [#lielaiskristaps](http://twitter.com/search?q=%23lielaiskristaps) | N/A |
 | 3 | [The Office](http://twitter.com/search?q=The+Office) | N/A |
 | 4 | [IKEA](http://twitter.com/search?q=IKEA) | N/A |
 | 5 | [berlīnē](http://twitter.com/search?q=berl%c4%abn%c4%93) | N/A |
 | 6 | [Ukrainas](http://twitter.com/search?q=Ukrainas) | N/A |
-| 7 | [Vācijā](http://twitter.com/search?q=V%c4%81cij%c4%81) | N/A |
+| 7 | [vācijā](http://twitter.com/search?q=v%c4%81cij%c4%81) | N/A |
 | 8 | [ķīna](http://twitter.com/search?q=%c4%b7%c4%abna) | N/A |
 | 9 | [langas](http://twitter.com/search?q=langas) | N/A |
 | 10 | [Russians](http://twitter.com/search?q=Russians) | N/A |
 | 11 | [#herpes](http://twitter.com/search?q=%23herpes) | N/A |
 | 12 | [skaisti](http://twitter.com/search?q=skaisti) | N/A |
 | 13 | [domā](http://twitter.com/search?q=dom%c4%81) | N/A |
-| 14 | [Līdz](http://twitter.com/search?q=L%c4%abdz) | N/A |
+| 14 | [līdz](http://twitter.com/search?q=l%c4%abdz) | N/A |
 | 15 | [Laba](http://twitter.com/search?q=Laba) | N/A |
 | 16 | [Baltic](http://twitter.com/search?q=Baltic) | N/A |
 | 17 | [#StandWithUkraine](http://twitter.com/search?q=%23StandWithUkraine) | N/A |
 | 18 | [#NFTCommunity](http://twitter.com/search?q=%23NFTCommunity) | N/A |
-| 19 | [krievijai](http://twitter.com/search?q=krievijai) | N/A |
-| 20 | [America](http://twitter.com/search?q=America) | N/A |
-| 21 | [Zini](http://twitter.com/search?q=Zini) | N/A |
-| 22 | [diezgan](http://twitter.com/search?q=diezgan) | N/A |
-| 23 | [progresīvie](http://twitter.com/search?q=progres%c4%abvie) | N/A |
-| 24 | [Visas](http://twitter.com/search?q=Visas) | N/A |
+| 19 | [America](http://twitter.com/search?q=America) | N/A |
+| 20 | [Zini](http://twitter.com/search?q=Zini) | N/A |
+| 21 | [diezgan](http://twitter.com/search?q=diezgan) | N/A |
+| 22 | [progresīvie](http://twitter.com/search?q=progres%c4%abvie) | N/A |
+| 23 | [Visas](http://twitter.com/search?q=Visas) | N/A |
+| 24 | [Krievijai](http://twitter.com/search?q=Krievijai) | N/A |
 | 25 | [Runa](http://twitter.com/search?q=Runa) | N/A |
 | 26 | [Pats](http://twitter.com/search?q=Pats) | Pats is a slang term used to refer to someone who is being praised or congratulated. It can also be used as a verb, meaning to give someone praise or congratulations. |
 | 27 | [sveiks](http://twitter.com/search?q=sveiks) | N/A |
@@ -64,7 +64,7 @@ This is top 50 for Latvia
 | 47 | [lūdzu](http://twitter.com/search?q=l%c5%abdzu) | N/A |
 | 48 | [ja tu](http://twitter.com/search?q=ja+tu) | N/A |
 | 49 | [Krievu](http://twitter.com/search?q=Krievu) | N/A |
-| 50 | [Latvija](http://twitter.com/search?q=Latvija) | N/A |
+| 50 | [šķiet](http://twitter.com/search?q=%c5%a1%c4%b7iet) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-02-27 03:21:11 UTC`
+📆 Last Updated: `2023-02-27 04:17:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,14 +19,14 @@ This is top 50 for Denmark
 | 2 | [#agfsif](http://twitter.com/search?q=%23agfsif) | N/A |
 | 3 | [#fcklive](http://twitter.com/search?q=%23fcklive) | N/A |
 | 4 | [#TotChe](http://twitter.com/search?q=%23TotChe) | N/A |
-| 5 | [Parken](http://twitter.com/search?q=Parken) | N/A |
-| 6 | [#ultratwitteragf](http://twitter.com/search?q=%23ultratwitteragf) | N/A |
+| 5 | [#ultratwitteragf](http://twitter.com/search?q=%23ultratwitteragf) | N/A |
+| 6 | [Parken](http://twitter.com/search?q=Parken) | N/A |
 | 7 | [Jake](http://twitter.com/search?q=Jake) | N/A |
 | 8 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
 | 9 | [Sousa](http://twitter.com/search?q=Sousa) | N/A |
-| 10 | [Indien](http://twitter.com/search?q=Indien) | N/A |
-| 11 | [randers](http://twitter.com/search?q=randers) | N/A |
-| 12 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 10 | [randers](http://twitter.com/search?q=randers) | N/A |
+| 11 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 12 | [Indien](http://twitter.com/search?q=Indien) | N/A |
 | 13 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
 | 14 | [saxo bank](http://twitter.com/search?q=saxo+bank) | N/A |
 | 15 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
@@ -40,10 +40,10 @@ This is top 50 for Denmark
 | 23 | [st. bededag](http://twitter.com/search?q=st.+bededag) | N/A |
 | 24 | [daramy](http://twitter.com/search?q=daramy) | N/A |
 | 25 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 26 | [Radikale](http://twitter.com/search?q=Radikale) | N/A |
-| 27 | [Pape](http://twitter.com/search?q=Pape) | N/A |
-| 28 | [Harald Nyborg](http://twitter.com/search?q=Harald+Nyborg) | N/A |
-| 29 | [horsens](http://twitter.com/search?q=horsens) | N/A |
+| 26 | [Harald Nyborg](http://twitter.com/search?q=Harald+Nyborg) | N/A |
+| 27 | [Radikale](http://twitter.com/search?q=Radikale) | N/A |
+| 28 | [Pape](http://twitter.com/search?q=Pape) | N/A |
+| 29 | [Horsens](http://twitter.com/search?q=Horsens) | N/A |
 | 30 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
 | 31 | [jeppe kofod](http://twitter.com/search?q=jeppe+kofod) | N/A |
 | 32 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
