@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chicago
 
-📆 Last Updated: `2023-02-27 18:17:12 UTC`
+📆 Last Updated: `2023-02-27 19:16:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Champaign](http://twitter.com/search?q=Champaign) | N/A |
-| 2 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
-| 3 | [#RizzToken](http://twitter.com/search?q=%23RizzToken) | N/A |
-| 4 | [#GOGimmighoul](http://twitter.com/search?q=%23GOGimmighoul) | N/A |
-| 5 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
+| 2 | [#GOGimmighoul](http://twitter.com/search?q=%23GOGimmighoul) | N/A |
+| 3 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
+| 4 | [kevin hart](http://twitter.com/search?q=kevin+hart) | N/A |
+| 5 | [#RizzToken](http://twitter.com/search?q=%23RizzToken) | N/A |
 | 6 | [#DeadSpaceMarkerMerchSweeps](http://twitter.com/search?q=%23DeadSpaceMarkerMerchSweeps) | N/A |
-| 7 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 8 | [Walking Wake](http://twitter.com/search?q=Walking+Wake) | N/A |
-| 9 | [kevin hart](http://twitter.com/search?q=kevin+hart) | N/A |
+| 7 | [Walking Wake](http://twitter.com/search?q=Walking+Wake) | N/A |
+| 8 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 9 | [HOIL](http://twitter.com/search?q=HOIL) | N/A |
 | 10 | [Maino](http://twitter.com/search?q=Maino) | N/A |
-| 11 | [AP Poll](http://twitter.com/search?q=AP+Poll) | The AP Poll (or the Associated Press Poll) is a weekly ranking of the top 25 college football teams in the United States, as determined by a panel of sportswriters and broadcasters. The poll is conducted by the Associated Press (AP), a news agency based in New York City. The rankings are released each Sunday during the college football season, with the exception of the final poll, which is released after the conclusion of the College Football Playoff National Championship. |
-| 12 | [Reedy Creek](http://twitter.com/search?q=Reedy+Creek) | N/A |
-| 13 | [Buckhead](http://twitter.com/search?q=Buckhead) | N/A |
-| 14 | [Bryan Cranston](http://twitter.com/search?q=Bryan+Cranston) | N/A |
+| 11 | [McCabe](http://twitter.com/search?q=McCabe) | N/A |
+| 12 | [Lafferty](http://twitter.com/search?q=Lafferty) | Lafferty is a Scottish surname derived from the Gaelic name Mac an Leifheartaigh, meaning "son of the follower of St. Laverty". It is most commonly found in County Donegal, Ireland. In English, it can be translated to mean "son of the follower of St. Laverty". |
+| 13 | [Reedy Creek](http://twitter.com/search?q=Reedy+Creek) | N/A |
+| 14 | [Buckhead](http://twitter.com/search?q=Buckhead) | N/A |
 | 15 | [Yellen](http://twitter.com/search?q=Yellen) | N/A |
-| 16 | [Virizion](http://twitter.com/search?q=Virizion) | N/A |
-| 17 | [Joey Votto](http://twitter.com/search?q=Joey+Votto) | N/A |
+| 16 | [AP Poll](http://twitter.com/search?q=AP+Poll) | The AP Poll (or the Associated Press Poll) is a weekly ranking of the top 25 college football teams in the United States, as determined by a panel of sportswriters and broadcasters. The poll is conducted by the Associated Press (AP), a news agency based in New York City. The rankings are released each Sunday during the college football season, with the exception of the final poll, which is released after the conclusion of the College Football Playoff National Championship. |
+| 17 | [Bryan Cranston](http://twitter.com/search?q=Bryan+Cranston) | N/A |
 | 18 | [David Hogg](http://twitter.com/search?q=David+Hogg) | N/A |
-| 19 | [Dominican Independence Day](http://twitter.com/search?q=Dominican+Independence+Day) | N/A |
-| 20 | [AP Top 25](http://twitter.com/search?q=AP+Top+25) | N/A |
-| 21 | [Mystery Dungeon](http://twitter.com/search?q=Mystery+Dungeon) | N/A |
-| 22 | [Fauci](http://twitter.com/search?q=Fauci) | N/A |
-| 23 | [Joyce Manor](http://twitter.com/search?q=Joyce+Manor) | N/A |
-| 24 | [Terapagos](http://twitter.com/search?q=Terapagos) | N/A |
-| 25 | [Momotaro](http://twitter.com/search?q=Momotaro) | N/A |
-| 26 | [CFPB](http://twitter.com/search?q=CFPB) | N/A |
-| 27 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
-| 28 | [SV DLC](http://twitter.com/search?q=SV+DLC) | N/A |
-| 29 | [Al Gore](http://twitter.com/search?q=Al+Gore) | N/A |
-| 30 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
-| 31 | [NFL Combine](http://twitter.com/search?q=NFL+Combine) | N/A |
-| 32 | [Good Monday](http://twitter.com/search?q=Good+Monday) | Good Monday is an expression used to express enthusiasm for the start of a new week. It is typically used as a greeting or salutation when wishing someone a good start to the week. |
-| 33 | [Slim Jim](http://twitter.com/search?q=Slim+Jim) | N/A |
-| 34 | [Ho-Oh](http://twitter.com/search?q=Ho-Oh) | N/A |
-| 35 | [Slotkin](http://twitter.com/search?q=Slotkin) | N/A |
-| 36 | [Victoria Monet](http://twitter.com/search?q=Victoria+Monet) | N/A |
-| 37 | [Okidogi](http://twitter.com/search?q=Okidogi) | N/A |
-| 38 | [Kalos](http://twitter.com/search?q=Kalos) | N/A |
-| 39 | [DLCs](http://twitter.com/search?q=DLCs) | N/A |
-| 40 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
-| 41 | [Gamefreak](http://twitter.com/search?q=Gamefreak) | N/A |
-| 42 | [Master P](http://twitter.com/search?q=Master+P) | N/A |
-| 43 | [Seonghwa](http://twitter.com/search?q=Seonghwa) | N/A |
-| 44 | [Terry Holland](http://twitter.com/search?q=Terry+Holland) | N/A |
-| 45 | [The DLC](http://twitter.com/search?q=The+DLC) | N/A |
-| 46 | [Zebstrika](http://twitter.com/search?q=Zebstrika) | N/A |
-| 47 | [Yemen](http://twitter.com/search?q=Yemen) | N/A |
-| 48 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 49 | [Temperature of America](http://twitter.com/search?q=Temperature+of+America) | N/A |
-| 50 | [Jimmy Haslam](http://twitter.com/search?q=Jimmy+Haslam) | N/A |
+| 19 | [MATT MERCER](http://twitter.com/search?q=MATT+MERCER) | N/A |
+| 20 | [Alec Bohm](http://twitter.com/search?q=Alec+Bohm) | N/A |
+| 21 | [David Peterson](http://twitter.com/search?q=David+Peterson) | N/A |
+| 22 | [Starfire](http://twitter.com/search?q=Starfire) | N/A |
+| 23 | [Dominican Independence Day](http://twitter.com/search?q=Dominican+Independence+Day) | N/A |
+| 24 | [Joey Votto](http://twitter.com/search?q=Joey+Votto) | N/A |
+| 25 | [Brendan Donovan](http://twitter.com/search?q=Brendan+Donovan) | N/A |
+| 26 | [AP Top 25](http://twitter.com/search?q=AP+Top+25) | N/A |
+| 27 | [Matt Olson](http://twitter.com/search?q=Matt+Olson) | N/A |
+| 28 | [CFPB](http://twitter.com/search?q=CFPB) | N/A |
+| 29 | [Tornado Watch](http://twitter.com/search?q=Tornado+Watch) | N/A |
+| 30 | [Virizion](http://twitter.com/search?q=Virizion) | N/A |
+| 31 | [Slim Jim](http://twitter.com/search?q=Slim+Jim) | N/A |
+| 32 | [Jim Acosta](http://twitter.com/search?q=Jim+Acosta) | N/A |
+| 33 | [Joyce Manor](http://twitter.com/search?q=Joyce+Manor) | N/A |
+| 34 | [NFL Combine](http://twitter.com/search?q=NFL+Combine) | N/A |
+| 35 | [Ho-Oh](http://twitter.com/search?q=Ho-Oh) | N/A |
+| 36 | [Emilia Clarke](http://twitter.com/search?q=Emilia+Clarke) | N/A |
+| 37 | [Temperature of America](http://twitter.com/search?q=Temperature+of+America) | N/A |
+| 38 | [Okidogi](http://twitter.com/search?q=Okidogi) | N/A |
+| 39 | [Keeley](http://twitter.com/search?q=Keeley) | N/A |
+| 40 | [The Supreme Court](http://twitter.com/search?q=The+Supreme+Court) | N/A |
+| 41 | [Dubas](http://twitter.com/search?q=Dubas) | N/A |
+| 42 | [Terapagos](http://twitter.com/search?q=Terapagos) | N/A |
+| 43 | [Hockenson](http://twitter.com/search?q=Hockenson) | Hockenson is a surname of German origin. It is derived from the Old German word "hocke" meaning "hook" or "crook". The name is thought to have been given to someone who lived near a bend in a river or stream. |
+| 44 | [Wrath of the Machine](http://twitter.com/search?q=Wrath+of+the+Machine) | N/A |
+| 45 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
+| 46 | [Ordinary World](http://twitter.com/search?q=Ordinary+World) | N/A |
+| 47 | [Sneed](http://twitter.com/search?q=Sneed) | Sneed is a slang term used to describe someone who is sneaky or untrustworthy. It can also be used to describe someone who is up to no good. |
+| 48 | [Rudolph](http://twitter.com/search?q=Rudolph) | N/A |
+| 49 | [Extreme MAGA Republicans](http://twitter.com/search?q=Extreme+MAGA+Republicans) | N/A |
+| 50 | [Slotkin](http://twitter.com/search?q=Slotkin) | N/A |
 
 
 

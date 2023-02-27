@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For São Paulo
 
-📆 Last Updated: `2023-02-27 18:16:33 UTC`
+📆 Last Updated: `2023-02-27 19:15:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Calleri](http://twitter.com/search?q=Calleri) | Calleri is a Spanish surname. It is derived from the Latin word "calerius," which means "strong" or "brave." In English, the meaning of the name Calleri is "strong and brave." |
-| 2 | [Campari](http://twitter.com/search?q=Campari) | N/A |
+| 2 | [#bbb2023](http://twitter.com/search?q=%23bbb2023) | #bbb2023 is a hashtag used on social media platforms such as Twitter and Instagram. It is typically used to tag posts related to a specific event, topic, or person. In this case, it could be used to tag posts related to a particular event taking place in 2023. |
 | 3 | [Março](http://twitter.com/search?q=Mar%c3%a7o) | N/A |
-| 4 | [#bbb2023](http://twitter.com/search?q=%23bbb2023) | #bbb2023 is a hashtag used on social media platforms such as Twitter and Instagram. It is typically used to tag posts related to a specific event, topic, or person. In this case, it could be used to tag posts related to a particular event taking place in 2023. |
-| 5 | [#BDSP](http://twitter.com/search?q=%23BDSP) | N/A |
-| 6 | [Bruna](http://twitter.com/search?q=Bruna) | Bruna is a Portuguese word meaning "brown". It is often used to describe someone or something that has a brown color. |
-| 7 | [Zé Ricardo](http://twitter.com/search?q=Z%c3%a9+Ricardo) | N/A |
-| 8 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 9 | [#RizzToken](http://twitter.com/search?q=%23RizzToken) | N/A |
-| 10 | [MC Bin Laden](http://twitter.com/search?q=MC+Bin+Laden) | N/A |
-| 11 | [Dove](http://twitter.com/search?q=Dove) | N/A |
-| 12 | [Agressão](http://twitter.com/search?q=Agress%c3%a3o) | N/A |
-| 13 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
-| 14 | [Suicune](http://twitter.com/search?q=Suicune) | N/A |
-| 15 | [Duzz](http://twitter.com/search?q=Duzz) | N/A |
-| 16 | [#BalançoGeralRJ](http://twitter.com/search?q=%23Balan%c3%a7oGeralRJ) | N/A |
-| 17 | [Hariany](http://twitter.com/search?q=Hariany) | N/A |
-| 18 | [Natália](http://twitter.com/search?q=Nat%c3%a1lia) | Natália is a female given name of Latin origin, derived from the word “natalis”, meaning “birthday”. In English, it is often translated as Natalie. |
-| 19 | [TERROR NA PAIN](http://twitter.com/search?q=TERROR+NA+PAIN) | N/A |
-| 20 | [Atravessei São Paulo](http://twitter.com/search?q=Atravessei+S%c3%a3o+Paulo) | N/A |
-| 21 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
-| 22 | [Carelli](http://twitter.com/search?q=Carelli) | N/A |
-| 23 | [Ivone](http://twitter.com/search?q=Ivone) | N/A |
-| 24 | [Endless Summer Vacation](http://twitter.com/search?q=Endless+Summer+Vacation) | N/A |
-| 25 | [América MG](http://twitter.com/search?q=Am%c3%a9rica+MG) | N/A |
-| 26 | [Meu Presidente](http://twitter.com/search?q=Meu+Presidente) | N/A |
-| 27 | [GREnal](http://twitter.com/search?q=GREnal) | N/A |
-| 28 | [Ana Maria](http://twitter.com/search?q=Ana+Maria) | N/A |
-| 29 | [Bolsonaro Store](http://twitter.com/search?q=Bolsonaro+Store) | N/A |
-| 30 | [Silvio Almeida](http://twitter.com/search?q=Silvio+Almeida) | Silvio Almeida is a Portuguese name. It is derived from the Latin words silva (meaning forest) and almeida (meaning defender). The name can be translated to mean "defender of the forest". |
-| 31 | [shao](http://twitter.com/search?q=shao) | N/A |
-| 32 | [Vacinação](http://twitter.com/search?q=Vacina%c3%a7%c3%a3o) | N/A |
-| 33 | [MILEY ANNOUNCEMENT TODAY](http://twitter.com/search?q=MILEY+ANNOUNCEMENT+TODAY) | N/A |
-| 34 | [Bocardi](http://twitter.com/search?q=Bocardi) | N/A |
-| 35 | [Movimento Nacional](http://twitter.com/search?q=Movimento+Nacional) | N/A |
-| 36 | [BOLSONARO VAGABUNDO](http://twitter.com/search?q=BOLSONARO+VAGABUNDO) | N/A |
-| 37 | [Walking Wake](http://twitter.com/search?q=Walking+Wake) | N/A |
-| 38 | [Carabobo](http://twitter.com/search?q=Carabobo) | Carabobo is a state in Venezuela. Its name is derived from the Carabobo tribe, which inhabited the area before the Spanish colonization of the Americas. In English, it means "Valley of the Brave". |
-| 39 | [Katana](http://twitter.com/search?q=Katana) | N/A |
-| 40 | [READY TO BE](http://twitter.com/search?q=READY+TO+BE) | N/A |
-| 41 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
-| 42 | [Zé Gotinha](http://twitter.com/search?q=Z%c3%a9+Gotinha) | N/A |
-| 43 | [Fred e Key](http://twitter.com/search?q=Fred+e+Key) | N/A |
-| 44 | [Virizion](http://twitter.com/search?q=Virizion) | N/A |
-| 45 | [Imposto de Renda 2023](http://twitter.com/search?q=Imposto+de+Renda+2023) | N/A |
-| 46 | [SEM QUERER](http://twitter.com/search?q=SEM+QUERER) | N/A |
-| 47 | [Cercle](http://twitter.com/search?q=Cercle) | N/A |
-| 48 | [Key e Nicácio](http://twitter.com/search?q=Key+e+Nic%c3%a1cio) | N/A |
-| 49 | [Calendário](http://twitter.com/search?q=Calend%c3%a1rio) | N/A |
-| 50 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 4 | [Bruna](http://twitter.com/search?q=Bruna) | Bruna is a Portuguese word meaning "brown". It is often used to describe someone or something that has a brown color. |
+| 5 | [Zé Gotinha](http://twitter.com/search?q=Z%c3%a9+Gotinha) | N/A |
+| 6 | [Zé Ricardo](http://twitter.com/search?q=Z%c3%a9+Ricardo) | N/A |
+| 7 | [Agressão](http://twitter.com/search?q=Agress%c3%a3o) | N/A |
+| 8 | [MC Bin Laden](http://twitter.com/search?q=MC+Bin+Laden) | N/A |
+| 9 | [Alckmin](http://twitter.com/search?q=Alckmin) | Alckmin is a surname of Portuguese origin. It is derived from the Latin word alciminium, which means "little rock". In English, the name Alckmin can be translated to mean "little rock". |
+| 10 | [Hariany](http://twitter.com/search?q=Hariany) | N/A |
+| 11 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 12 | [#RizzToken](http://twitter.com/search?q=%23RizzToken) | N/A |
+| 13 | [Duzz](http://twitter.com/search?q=Duzz) | N/A |
+| 14 | [Natália](http://twitter.com/search?q=Nat%c3%a1lia) | Natália is a female given name of Latin origin, derived from the word “natalis”, meaning “birthday”. In English, it is often translated as Natalie. |
+| 15 | [Dove](http://twitter.com/search?q=Dove) | N/A |
+| 16 | [Dr. Geraldo](http://twitter.com/search?q=Dr.+Geraldo) | N/A |
+| 17 | [Vacinação](http://twitter.com/search?q=Vacina%c3%a7%c3%a3o) | N/A |
+| 18 | [#SelecaoSportv](http://twitter.com/search?q=%23SelecaoSportv) | N/A |
+| 19 | [Riqueza](http://twitter.com/search?q=Riqueza) | N/A |
+| 20 | [#HabbletBRPT14Anos](http://twitter.com/search?q=%23HabbletBRPT14Anos) | N/A |
+| 21 | [Suicune](http://twitter.com/search?q=Suicune) | N/A |
+| 22 | [NAVI](http://twitter.com/search?q=NAVI) | N/A |
+| 23 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
+| 24 | [#BalançoGeralRJ](http://twitter.com/search?q=%23Balan%c3%a7oGeralRJ) | N/A |
+| 25 | [Movimento Nacional](http://twitter.com/search?q=Movimento+Nacional) | N/A |
+| 26 | [Pintar](http://twitter.com/search?q=Pintar) | N/A |
+| 27 | [TERROR NA PAIN](http://twitter.com/search?q=TERROR+NA+PAIN) | N/A |
+| 28 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
+| 29 | [Expulsão](http://twitter.com/search?q=Expuls%c3%a3o) | N/A |
+| 30 | [Ivone](http://twitter.com/search?q=Ivone) | N/A |
+| 31 | [Meu Presidente](http://twitter.com/search?q=Meu+Presidente) | N/A |
+| 32 | [Carelli](http://twitter.com/search?q=Carelli) | N/A |
+| 33 | [Atravessei São Paulo](http://twitter.com/search?q=Atravessei+S%c3%a3o+Paulo) | N/A |
+| 34 | [América-MG](http://twitter.com/search?q=Am%c3%a9rica-MG) | N/A |
+| 35 | [Viva o SUS](http://twitter.com/search?q=Viva+o+SUS) | N/A |
+| 36 | [Jessi](http://twitter.com/search?q=Jessi) | N/A |
+| 37 | [Silvio Almeida](http://twitter.com/search?q=Silvio+Almeida) | Silvio Almeida is a Portuguese name. It is derived from the Latin words silva (meaning forest) and almeida (meaning defender). The name can be translated to mean "defender of the forest". |
+| 38 | [Imposto de Renda 2023](http://twitter.com/search?q=Imposto+de+Renda+2023) | N/A |
+| 39 | [BOLSONARO VAGABUNDO](http://twitter.com/search?q=BOLSONARO+VAGABUNDO) | N/A |
+| 40 | [Endless Summer Vacation](http://twitter.com/search?q=Endless+Summer+Vacation) | N/A |
+| 41 | [Cigarro](http://twitter.com/search?q=Cigarro) | N/A |
+| 42 | [Bocardi](http://twitter.com/search?q=Bocardi) | N/A |
+| 43 | [GREnal](http://twitter.com/search?q=GREnal) | N/A |
+| 44 | [Arrependimento](http://twitter.com/search?q=Arrependimento) | N/A |
+| 45 | [Carabobo](http://twitter.com/search?q=Carabobo) | Carabobo is a state in Venezuela. Its name is derived from the Carabobo tribe, which inhabited the area before the Spanish colonization of the Americas. In English, it means "Valley of the Brave". |
+| 46 | [shao](http://twitter.com/search?q=shao) | N/A |
+| 47 | [Bolsonaro Store](http://twitter.com/search?q=Bolsonaro+Store) | N/A |
+| 48 | [Katana](http://twitter.com/search?q=Katana) | N/A |
+| 49 | [Walking Wake](http://twitter.com/search?q=Walking+Wake) | N/A |
+| 50 | [MILEY ANNOUNCEMENT TODAY](http://twitter.com/search?q=MILEY+ANNOUNCEMENT+TODAY) | N/A |
 
 
 

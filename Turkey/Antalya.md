@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Antalya
 
-📆 Last Updated: `2023-02-27 18:17:08 UTC`
+📆 Last Updated: `2023-02-27 19:16:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Turkey](</Turkey>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#helaletmiyorum](http://twitter.com/search?q=%23helaletmiyorum) | N/A |
-| 2 | [BinaKimlik Sertifikası](http://twitter.com/search?q=BinaKimlik+Sertifikas%c4%b1) | N/A |
+| 2 | [#izmirdeprem](http://twitter.com/search?q=%23izmirdeprem) | N/A |
 | 3 | [#mehmetakifersoy](http://twitter.com/search?q=%23mehmetakifersoy) | N/A |
-| 4 | [#RizzToken](http://twitter.com/search?q=%23RizzToken) | N/A |
-| 5 | [#CbSeçime100Bin](http://twitter.com/search?q=%23CbSe%c3%a7ime100Bin) | N/A |
-| 6 | [HAKKIM HELAL OLSUN REİS](http://twitter.com/search?q=HAKKIM+HELAL+OLSUN+RE%c4%b0S) | N/A |
-| 7 | [#Elbistan82PlakaOlsun](http://twitter.com/search?q=%23Elbistan82PlakaOlsun) | N/A |
-| 8 | [ÇşbSadeceKpss](http://twitter.com/search?q=%c3%87%c5%9fbSadeceKpss) | N/A |
-| 9 | [AfetYıktıAdaletYaktı ÇözümAf](http://twitter.com/search?q=AfetY%c4%b1kt%c4%b1AdaletYakt%c4%b1+%c3%87%c3%b6z%c3%bcmAf) | N/A |
-| 10 | [Çocuklara](http://twitter.com/search?q=%c3%87ocuklara) | N/A |
-| 11 | [PrimNerde SedatOrda](http://twitter.com/search?q=PrimNerde+SedatOrda) | N/A |
-| 12 | [Helallik](http://twitter.com/search?q=Helallik) | N/A |
-| 13 | [AHMET NUR ÇEBİ İSTİFA](http://twitter.com/search?q=AHMET+NUR+%c3%87EB%c4%b0+%c4%b0ST%c4%b0FA) | N/A |
+| 4 | [BinaKimlik Sertifikası](http://twitter.com/search?q=BinaKimlik+Sertifikas%c4%b1) | N/A |
+| 5 | [#EnkazdaBileKHKlı](http://twitter.com/search?q=%23EnkazdaBileKHKl%c4%b1) | N/A |
+| 6 | [#RizzToken](http://twitter.com/search?q=%23RizzToken) | N/A |
+| 7 | [HAKKIM HELAL OLSUN REİS](http://twitter.com/search?q=HAKKIM+HELAL+OLSUN+RE%c4%b0S) | N/A |
+| 8 | [Çocuklara](http://twitter.com/search?q=%c3%87ocuklara) | N/A |
+| 9 | [ÇşbSadeceKpss](http://twitter.com/search?q=%c3%87%c5%9fbSadeceKpss) | N/A |
+| 10 | [PrimNerde SedatOrda](http://twitter.com/search?q=PrimNerde+SedatOrda) | N/A |
+| 11 | [AfetYıktıAdaletYaktı ÇözümAf](http://twitter.com/search?q=AfetY%c4%b1kt%c4%b1AdaletYakt%c4%b1+%c3%87%c3%b6z%c3%bcmAf) | N/A |
+| 12 | [Donsuz](http://twitter.com/search?q=Donsuz) | N/A |
+| 13 | [Helallik](http://twitter.com/search?q=Helallik) | N/A |
 | 14 | [TGRT](http://twitter.com/search?q=TGRT) | N/A |
 | 15 | [Sadettin Saran](http://twitter.com/search?q=Sadettin+Saran) | N/A |
-| 16 | [Hayrettin Güngör](http://twitter.com/search?q=Hayrettin+G%c3%bcng%c3%b6r) | N/A |
-| 17 | [YÖNETİM İSTİFA](http://twitter.com/search?q=Y%c3%96NET%c4%b0M+%c4%b0ST%c4%b0FA) | YÖNETİM İSTİFA is a Turkish phrase meaning "resignation of management". It is used to refer to the act of a manager or executive resigning from their position. |
-| 18 | [Haram](http://twitter.com/search?q=Haram) | N/A |
-| 19 | [Kulüpler Birliği](http://twitter.com/search?q=Kul%c3%bcpler+Birli%c4%9fi) | N/A |
-| 20 | [Galatasaray](http://twitter.com/search?q=Galatasaray) | Galatasaray is a Turkish sports club based in Istanbul, Turkey. The name Galatasaray translates to "Galata Palace" in English, referring to the nearby Galata Tower. The club is best known for its football team, which competes in the Turkish Super Lig and has won a record 22 league titles. |
-| 21 | [Aziz Yıldırım](http://twitter.com/search?q=Aziz+Y%c4%b1ld%c4%b1r%c4%b1m) | Aziz Yıldırım is a Turkish name, with Aziz meaning "honored" and Yıldırım meaning "thunder". In English, the name would translate to "Honored Thunder". |
-| 22 | [Adıyamanlı](http://twitter.com/search?q=Ad%c4%b1yamanl%c4%b1) | N/A |
-| 23 | [Psikolog](http://twitter.com/search?q=Psikolog) | N/A |
-| 24 | [Yalnız Değilsiniz Yanınızdayız](http://twitter.com/search?q=Yaln%c4%b1z+De%c4%9filsiniz+Yan%c4%b1n%c4%b1zday%c4%b1z) | N/A |
-| 25 | [Sadece Adıyaman](http://twitter.com/search?q=Sadece+Ad%c4%b1yaman) | N/A |
-| 26 | [Burası Beşiktaş](http://twitter.com/search?q=Buras%c4%b1+Be%c5%9fikta%c5%9f) | N/A |
-| 27 | [Ersun Yanal](http://twitter.com/search?q=Ersun+Yanal) | N/A |
-| 28 | [Hakikat](http://twitter.com/search?q=Hakikat) | N/A |
-| 29 | [Senlik](http://twitter.com/search?q=Senlik) | N/A |
-| 30 | [Prof. Dr.](http://twitter.com/search?q=Prof.+Dr.) | N/A |
-| 31 | [Dalkavuk](http://twitter.com/search?q=Dalkavuk) | N/A |
+| 16 | [Biz Prof. Dr.](http://twitter.com/search?q=Biz+Prof.+Dr.) | N/A |
+| 17 | [Hayrettin Güngör](http://twitter.com/search?q=Hayrettin+G%c3%bcng%c3%b6r) | N/A |
+| 18 | [AHMET NUR ÇEBİ İSTİFA](http://twitter.com/search?q=AHMET+NUR+%c3%87EB%c4%b0+%c4%b0ST%c4%b0FA) | N/A |
+| 19 | [HARAM OLSUN](http://twitter.com/search?q=HARAM+OLSUN) | N/A |
+| 20 | [Hissetmedim](http://twitter.com/search?q=Hissetmedim) | N/A |
+| 21 | [Hocamız](http://twitter.com/search?q=Hocam%c4%b1z) | N/A |
+| 22 | [Çevir](http://twitter.com/search?q=%c3%87evir) | N/A |
+| 23 | [Galatasaray](http://twitter.com/search?q=Galatasaray) | Galatasaray is a Turkish sports club based in Istanbul, Turkey. The name Galatasaray translates to "Galata Palace" in English, referring to the nearby Galata Tower. The club is best known for its football team, which competes in the Turkish Super Lig and has won a record 22 league titles. |
+| 24 | [Kulüpler Birliği](http://twitter.com/search?q=Kul%c3%bcpler+Birli%c4%9fi) | N/A |
+| 25 | [İSTİFA ET](http://twitter.com/search?q=%c4%b0ST%c4%b0FA+ET) | N/A |
+| 26 | [Senlik](http://twitter.com/search?q=Senlik) | N/A |
+| 27 | [Sadece Adıyaman](http://twitter.com/search?q=Sadece+Ad%c4%b1yaman) | N/A |
+| 28 | [Burası Beşiktaş](http://twitter.com/search?q=Buras%c4%b1+Be%c5%9fikta%c5%9f) | N/A |
+| 29 | [28 Şubat](http://twitter.com/search?q=28+%c5%9eubat) | N/A |
+| 30 | [Kerem Kınık](http://twitter.com/search?q=Kerem+K%c4%b1n%c4%b1k) | N/A |
+| 31 | [Hakikat](http://twitter.com/search?q=Hakikat) | N/A |
 | 32 | [Melih Gökçek](http://twitter.com/search?q=Melih+G%c3%b6k%c3%a7ek) | N/A |
-| 33 | [Milli Görüş](http://twitter.com/search?q=Milli+G%c3%b6r%c3%bc%c5%9f) | N/A |
-| 34 | [Şahan](http://twitter.com/search?q=%c5%9eahan) | N/A |
-| 35 | [Fikret Orman](http://twitter.com/search?q=Fikret+Orman) | N/A |
-| 36 | [Hocamızı](http://twitter.com/search?q=Hocam%c4%b1z%c4%b1) | N/A |
-| 37 | [İSTİFA ET](http://twitter.com/search?q=%c4%b0ST%c4%b0FA+ET) | N/A |
-| 38 | [Bayram](http://twitter.com/search?q=Bayram) | N/A |
-| 39 | [Affet Türkiyem](http://twitter.com/search?q=Affet+T%c3%bcrkiyem) | N/A |
-| 40 | [Admin](http://twitter.com/search?q=Admin) | N/A |
-| 41 | [Barış](http://twitter.com/search?q=Bar%c4%b1%c5%9f) | N/A |
-| 42 | [Ölenlerden](http://twitter.com/search?q=%c3%96lenlerden) | N/A |
+| 33 | [Adıyamanlı](http://twitter.com/search?q=Ad%c4%b1yamanl%c4%b1) | N/A |
+| 34 | [Psikolog](http://twitter.com/search?q=Psikolog) | N/A |
+| 35 | [Aziz Yıldırım](http://twitter.com/search?q=Aziz+Y%c4%b1ld%c4%b1r%c4%b1m) | Aziz Yıldırım is a Turkish name, with Aziz meaning "honored" and Yıldırım meaning "thunder". In English, the name would translate to "Honored Thunder". |
+| 36 | [Bayram](http://twitter.com/search?q=Bayram) | N/A |
+| 37 | [Yalnız Değilsiniz Yanınızdayız](http://twitter.com/search?q=Yaln%c4%b1z+De%c4%9filsiniz+Yan%c4%b1n%c4%b1zday%c4%b1z) | N/A |
+| 38 | [Karşıyaka](http://twitter.com/search?q=Kar%c5%9f%c4%b1yaka) | N/A |
+| 39 | [İade](http://twitter.com/search?q=%c4%b0ade) | N/A |
+| 40 | [Ezan](http://twitter.com/search?q=Ezan) | N/A |
+| 41 | [Dalkavuk](http://twitter.com/search?q=Dalkavuk) | N/A |
+| 42 | [Ersun Yanal](http://twitter.com/search?q=Ersun+Yanal) | N/A |
 | 43 | [Utanç](http://twitter.com/search?q=Utan%c3%a7) | N/A |
-| 44 | [Adıyaman'ın Gölbaşı](http://twitter.com/search?q=Ad%c4%b1yaman%27%c4%b1n+G%c3%b6lba%c5%9f%c4%b1) | N/A |
-| 45 | [Sefa](http://twitter.com/search?q=Sefa) | N/A |
-| 46 | [Vefatının 12](http://twitter.com/search?q=Vefat%c4%b1n%c4%b1n+12) | N/A |
-| 47 | [Camiler](http://twitter.com/search?q=Camiler) | N/A |
-| 48 | [Adıyaman'dan](http://twitter.com/search?q=Ad%c4%b1yaman%27dan) | N/A |
-| 49 | [Korkaklar](http://twitter.com/search?q=Korkaklar) | N/A |
-| 50 | [Zehir](http://twitter.com/search?q=Zehir) | N/A |
+| 44 | [Şahan](http://twitter.com/search?q=%c5%9eahan) | N/A |
+| 45 | [Barış](http://twitter.com/search?q=Bar%c4%b1%c5%9f) | N/A |
+| 46 | [Sefa](http://twitter.com/search?q=Sefa) | N/A |
+| 47 | [Milli Görüş](http://twitter.com/search?q=Milli+G%c3%b6r%c3%bc%c5%9f) | N/A |
+| 48 | [Vefatının 12](http://twitter.com/search?q=Vefat%c4%b1n%c4%b1n+12) | N/A |
+| 49 | [Admin](http://twitter.com/search?q=Admin) | N/A |
+| 50 | [Atay](http://twitter.com/search?q=Atay) | N/A |
 
 
 

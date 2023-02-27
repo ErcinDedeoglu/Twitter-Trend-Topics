@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Taguig
 
-📆 Last Updated: `2023-02-27 18:16:54 UTC`
+📆 Last Updated: `2023-02-27 19:16:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,46 +24,46 @@ This is top 50 for [Philippines](</Philippines>)
 | 7 | [#MEGAWomenToWatch](http://twitter.com/search?q=%23MEGAWomenToWatch) | N/A |
 | 8 | [#SB19TripleWinNYLONAwards](http://twitter.com/search?q=%23SB19TripleWinNYLONAwards) | N/A |
 | 9 | [formidabelle megawoman](http://twitter.com/search?q=formidabelle+megawoman) | N/A |
-| 10 | [Brownlee](http://twitter.com/search?q=Brownlee) | N/A |
+| 10 | [BROWNLEE](http://twitter.com/search?q=BROWNLEE) | N/A |
 | 11 | [TENLEE 27th BDAY](http://twitter.com/search?q=TENLEE+27th+BDAY) | N/A |
 | 12 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 13 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
-| 14 | [the church built by god](http://twitter.com/search?q=the+church+built+by+god) | N/A |
-| 15 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
+| 13 | [the church built by god](http://twitter.com/search?q=the+church+built+by+god) | N/A |
+| 14 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
+| 15 | [DIRTY LINEN OUTRAGE](http://twitter.com/search?q=DIRTY+LINEN+OUTRAGE) | N/A |
 | 16 | [Gilas](http://twitter.com/search?q=Gilas) | N/A |
-| 17 | [DIRTY LINEN OUTRAGE](http://twitter.com/search?q=DIRTY+LINEN+OUTRAGE) | N/A |
-| 18 | [junmyeon](http://twitter.com/search?q=junmyeon) | Junmyeon is a Korean name, and it means "truthful and righteous". |
-| 19 | [TREASURE in Shopee](http://twitter.com/search?q=TREASURE+in+Shopee) | N/A |
-| 20 | [BLAME IT ON ME](http://twitter.com/search?q=BLAME+IT+ON+ME) | N/A |
+| 17 | [BLAME IT ON ME](http://twitter.com/search?q=BLAME+IT+ON+ME) | N/A |
+| 18 | [TREASURE in Shopee](http://twitter.com/search?q=TREASURE+in+Shopee) | N/A |
+| 19 | [KAI Rover Teaser Images 1](http://twitter.com/search?q=KAI+Rover+Teaser+Images+1) | N/A |
+| 20 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
 | 21 | [happy 23rd bday alexa](http://twitter.com/search?q=happy+23rd+bday+alexa) | N/A |
-| 22 | [KAI Rover Teaser Images 1](http://twitter.com/search?q=KAI+Rover+Teaser+Images+1) | N/A |
-| 23 | [Scottie](http://twitter.com/search?q=Scottie) | Scottie is a nickname for the Scottish Terrier, a small breed of dog. It is also used as a nickname for people from Scotland or with Scottish heritage. |
-| 24 | [Happy Birthday Ten](http://twitter.com/search?q=Happy+Birthday+Ten) | N/A |
+| 22 | [Scottie](http://twitter.com/search?q=Scottie) | Scottie is a nickname for the Scottish Terrier, a small breed of dog. It is also used as a nickname for people from Scotland or with Scottish heritage. |
+| 23 | [HAPPY BIRTHDAY TEN](http://twitter.com/search?q=HAPPY+BIRTHDAY+TEN) | N/A |
+| 24 | [junmyeon](http://twitter.com/search?q=junmyeon) | Junmyeon is a Korean name, and it means "truthful and righteous". |
 | 25 | [Luo Yi](http://twitter.com/search?q=Luo+Yi) | N/A |
-| 26 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
-| 27 | [8 League of Legends](http://twitter.com/search?q=8+League+of+Legends) | N/A |
-| 28 | [gma7 widescreen format](http://twitter.com/search?q=gma7+widescreen+format) | N/A |
-| 29 | [Floral Sense](http://twitter.com/search?q=Floral+Sense) | N/A |
-| 30 | [Coach Tai](http://twitter.com/search?q=Coach+Tai) | N/A |
+| 26 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 27 | [Floral Sense](http://twitter.com/search?q=Floral+Sense) | N/A |
+| 28 | [Coach Tai](http://twitter.com/search?q=Coach+Tai) | N/A |
+| 29 | [gma7 widescreen format](http://twitter.com/search?q=gma7+widescreen+format) | N/A |
+| 30 | [8 League of Legends](http://twitter.com/search?q=8+League+of+Legends) | N/A |
 | 31 | [2yeon](http://twitter.com/search?q=2yeon) | N/A |
 | 32 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
-| 33 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 34 | [vibrent pieluvarn](http://twitter.com/search?q=vibrent+pieluvarn) | N/A |
+| 33 | [vibrent pieluvarn](http://twitter.com/search?q=vibrent+pieluvarn) | N/A |
+| 34 | [hailey](http://twitter.com/search?q=hailey) | N/A |
 | 35 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
 | 36 | [Happy Fools](http://twitter.com/search?q=Happy+Fools) | Happy Fools is a phrase used to describe people who are content with their lives despite the challenges they may face. It is often used as a reminder to be grateful for what one has and to focus on the positive aspects of life. |
 | 37 | [SUGA AT THE VIP PREMIERE](http://twitter.com/search?q=SUGA+AT+THE+VIP+PREMIERE) | N/A |
 | 38 | [NAIA](http://twitter.com/search?q=NAIA) | N/A |
 | 39 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
-| 40 | [judy](http://twitter.com/search?q=judy) | N/A |
+| 40 | [Judy](http://twitter.com/search?q=Judy) | N/A |
 | 41 | [Top 8](http://twitter.com/search?q=Top+8) | N/A |
-| 42 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 43 | [PARK JISUNG](http://twitter.com/search?q=PARK+JISUNG) | N/A |
+| 42 | [PARK JISUNG](http://twitter.com/search?q=PARK+JISUNG) | N/A |
+| 43 | [Selena](http://twitter.com/search?q=Selena) | N/A |
 | 44 | [togheether for a thousand days](http://twitter.com/search?q=togheether+for+a+thousand+days) | N/A |
-| 45 | [Walking Wake](http://twitter.com/search?q=Walking+Wake) | N/A |
-| 46 | [TXT SECRET SPECIAL CLIP](http://twitter.com/search?q=TXT+SECRET+SPECIAL+CLIP) | N/A |
-| 47 | [Oni 2.0](http://twitter.com/search?q=Oni+2.0) | N/A |
-| 48 | [Miss Fortune](http://twitter.com/search?q=Miss+Fortune) | N/A |
-| 49 | [WITH JIMIN TILL THE END](http://twitter.com/search?q=WITH+JIMIN+TILL+THE+END) | "WITH JIMIN TILL THE END" is a phrase used by fans of the South Korean boy band BTS to express their loyalty and support for the group's member Jimin. It is often used as a hashtag on social media or as a slogan for fan merchandise. The phrase means that the fans will remain loyal and supportive of Jimin until the end. |
+| 45 | [WITH JIMIN TILL THE END](http://twitter.com/search?q=WITH+JIMIN+TILL+THE+END) | "WITH JIMIN TILL THE END" is a phrase used by fans of the South Korean boy band BTS to express their loyalty and support for the group's member Jimin. It is often used as a hashtag on social media or as a slogan for fan merchandise. The phrase means that the fans will remain loyal and supportive of Jimin until the end. |
+| 46 | [Oni 2.0](http://twitter.com/search?q=Oni+2.0) | N/A |
+| 47 | [VXON WON BBBAwards FRPG](http://twitter.com/search?q=VXON+WON+BBBAwards+FRPG) | N/A |
+| 48 | [TXT SECRET SPECIAL CLIP](http://twitter.com/search?q=TXT+SECRET+SPECIAL+CLIP) | N/A |
+| 49 | [arra san agustin](http://twitter.com/search?q=arra+san+agustin) | N/A |
 
 
 

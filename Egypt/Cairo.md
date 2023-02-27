@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cairo
 
-📆 Last Updated: `2023-02-27 18:16:58 UTC`
+📆 Last Updated: `2023-02-27 19:16:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Egypt](</Egypt>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 2 | [#خلاها](http://twitter.com/search?q=%23%d8%ae%d9%84%d8%a7%d9%87%d8%a7) | N/A |
-| 3 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
+| 1 | [#خلاها](http://twitter.com/search?q=%23%d8%ae%d9%84%d8%a7%d9%87%d8%a7) | N/A |
+| 2 | [الاتحاد](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af) | الاتحاد is an Arabic word meaning "union" or "alliance" in English. It is often used to refer to a political union or alliance between two or more countries, organizations, or groups. |
+| 3 | [#القيمه](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%82%d9%8a%d9%85%d9%87) | N/A |
 | 4 | [#_بيحصل](http://twitter.com/search?q=%23_%d8%a8%d9%8a%d8%ad%d8%b5%d9%84) | N/A |
-| 5 | [#القيمه](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%82%d9%8a%d9%85%d9%87) | N/A |
-| 6 | [كاريوس](http://twitter.com/search?q=%d9%83%d8%a7%d8%b1%d9%8a%d9%88%d8%b3) | N/A |
-| 7 | [الاتحاد](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af) | الاتحاد is an Arabic word meaning "union" or "alliance" in English. It is often used to refer to a political union or alliance between two or more countries, organizations, or groups. |
+| 5 | [#حبها_قول_وفعل](http://twitter.com/search?q=%23%d8%ad%d8%a8%d9%87%d8%a7_%d9%82%d9%88%d9%84_%d9%88%d9%81%d8%b9%d9%84) | N/A |
+| 6 | [#الهلال_الدحيل](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84_%d8%a7%d9%84%d8%af%d8%ad%d9%8a%d9%84) | N/A |
+| 7 | [بنزيما](http://twitter.com/search?q=%d8%a8%d9%86%d8%b2%d9%8a%d9%85%d8%a7) | بنزيما (benzema) is a surname of Arabic origin. It is derived from the Arabic word "bin zamān" which means "son of time". In English, it can be translated to mean "son of time". |
 | 8 | [سامح شكري](http://twitter.com/search?q=%d8%b3%d8%a7%d9%85%d8%ad+%d8%b4%d9%83%d8%b1%d9%8a) | N/A |
-| 9 | [بنزيما](http://twitter.com/search?q=%d8%a8%d9%86%d8%b2%d9%8a%d9%85%d8%a7) | بنزيما (benzema) is a surname of Arabic origin. It is derived from the Arabic word "bin zamān" which means "son of time". In English, it can be translated to mean "son of time". |
-| 10 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
-| 11 | [منى زكي](http://twitter.com/search?q=%d9%85%d9%86%d9%89+%d8%b2%d9%83%d9%8a) | N/A |
-| 12 | [Glory Glory MAN UNITED](http://twitter.com/search?q=Glory+Glory+MAN+UNITED) | N/A |
-| 13 | [27 فبراير 2023](http://twitter.com/search?q=27+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1+2023) | N/A |
-| 14 | [وزير الخارجيه المصري](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87+%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a) | N/A |
-| 15 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
-| 16 | [اليوم الاثنين](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86) | اليوم الاثنين is Arabic for "Monday" and it means "Monday" in English. |
-| 17 | [كاس الحليب](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d8%ad%d9%84%d9%8a%d8%a8) | N/A |
-| 18 | [كاسيميرو](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3%d9%8a%d9%85%d9%8a%d8%b1%d9%88) | كاسيميرو (Kasimero) is a type of traditional Yemeni clothing. It is a long, loose-fitting robe with wide sleeves and a hood. The garment is usually made from cotton or wool and is often decorated with embroidery. In English, it is sometimes referred to as a "Yemeni thawb" or "Yemeni jalabiya". |
-| 19 | [باريس سان جيرمان](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b1%d9%8a%d8%b3+%d8%b3%d8%a7%d9%86+%d8%ac%d9%8a%d8%b1%d9%85%d8%a7%d9%86) | N/A |
-| 20 | [خالد يوسف](http://twitter.com/search?q=%d8%ae%d8%a7%d9%84%d8%af+%d9%8a%d9%88%d8%b3%d9%81) | N/A |
-| 21 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
-| 22 | [محمد هانى](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d9%87%d8%a7%d9%86%d9%89) | N/A |
-| 23 | [صيام الاثنين](http://twitter.com/search?q=%d8%b5%d9%8a%d8%a7%d9%85+%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86) | N/A |
-| 24 | [مارسيليا](http://twitter.com/search?q=%d9%85%d8%a7%d8%b1%d8%b3%d9%8a%d9%84%d9%8a%d8%a7) | N/A |
-| 25 | [نيوكاسل](http://twitter.com/search?q=%d9%86%d9%8a%d9%88%d9%83%d8%a7%d8%b3%d9%84) | نيوكاسل (Nuqasil) is an Arabic word meaning "to build". It is often used to refer to the process of constructing a building or other structure. |
-| 26 | [البنك الدولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%86%d9%83+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a) | N/A |
-| 27 | [علي الزواج](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b2%d9%88%d8%a7%d8%ac) | N/A |
-| 28 | [امير قطر](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a%d8%b1+%d9%82%d8%b7%d8%b1) | N/A |
-| 29 | [الرييس السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
-| 30 | [بولونيا](http://twitter.com/search?q=%d8%a8%d9%88%d9%84%d9%88%d9%86%d9%8a%d8%a7) | N/A |
-| 31 | [فالنسيا](http://twitter.com/search?q=%d9%81%d8%a7%d9%84%d9%86%d8%b3%d9%8a%d8%a7) | فالنسيا is an Arabic phrase that translates to "farewell" in English. It is used as a way of saying goodbye or expressing good wishes when someone is leaving. |
-| 32 | [الفضاء الدوليه](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b6%d8%a7%d8%a1+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a%d9%87) | N/A |
-| 33 | [الجيش الملكي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%8a%d8%b4+%d8%a7%d9%84%d9%85%d9%84%d9%83%d9%8a) | N/A |
-| 34 | [العلمين الجديده](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%84%d9%85%d9%8a%d9%86+%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af%d9%87) | N/A |
+| 9 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
+| 10 | [طلائع الجيش](http://twitter.com/search?q=%d8%b7%d9%84%d8%a7%d8%a6%d8%b9+%d8%a7%d9%84%d8%ac%d9%8a%d8%b4) | N/A |
+| 11 | [منتخب تونس](http://twitter.com/search?q=%d9%85%d9%86%d8%aa%d8%ae%d8%a8+%d8%aa%d9%88%d9%86%d8%b3) | N/A |
+| 12 | [منى زكي](http://twitter.com/search?q=%d9%85%d9%86%d9%89+%d8%b2%d9%83%d9%8a) | N/A |
+| 13 | [الفيفا](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%8a%d9%81%d8%a7) | N/A |
+| 14 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
+| 15 | [Glory Glory Man United](http://twitter.com/search?q=Glory+Glory+Man+United) | N/A |
+| 16 | [27 فبراير 2023](http://twitter.com/search?q=27+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1+2023) | N/A |
+| 17 | [وزير الخارجيه المصري](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87+%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a) | N/A |
+| 18 | [اليوم الاثنين](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86) | اليوم الاثنين is Arabic for "Monday" and it means "Monday" in English. |
+| 19 | [سيناء](http://twitter.com/search?q=%d8%b3%d9%8a%d9%86%d8%a7%d8%a1) | N/A |
+| 20 | [كاس الحليب](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d8%ad%d9%84%d9%8a%d8%a8) | N/A |
+| 21 | [كاسيميرو](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3%d9%8a%d9%85%d9%8a%d8%b1%d9%88) | كاسيميرو (Kasimero) is a type of traditional Yemeni clothing. It is a long, loose-fitting robe with wide sleeves and a hood. The garment is usually made from cotton or wool and is often decorated with embroidery. In English, it is sometimes referred to as a "Yemeni thawb" or "Yemeni jalabiya". |
+| 22 | [كاريوس](http://twitter.com/search?q=%d9%83%d8%a7%d8%b1%d9%8a%d9%88%d8%b3) | N/A |
+| 23 | [خالد يوسف](http://twitter.com/search?q=%d8%ae%d8%a7%d9%84%d8%af+%d9%8a%d9%88%d8%b3%d9%81) | N/A |
+| 24 | [باريس سان جيرمان](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b1%d9%8a%d8%b3+%d8%b3%d8%a7%d9%86+%d8%ac%d9%8a%d8%b1%d9%85%d8%a7%d9%86) | N/A |
+| 25 | [محمد هانى](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d9%87%d8%a7%d9%86%d9%89) | N/A |
+| 26 | [وزارة الشباب](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d8%b4%d8%a8%d8%a7%d8%a8) | N/A |
+| 27 | [صيام الاثنين](http://twitter.com/search?q=%d8%b5%d9%8a%d8%a7%d9%85+%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86) | N/A |
+| 28 | [نيوكاسل](http://twitter.com/search?q=%d9%86%d9%8a%d9%88%d9%83%d8%a7%d8%b3%d9%84) | نيوكاسل (Nuqasil) is an Arabic word meaning "to build". It is often used to refer to the process of constructing a building or other structure. |
+| 29 | [مارسيليا](http://twitter.com/search?q=%d9%85%d8%a7%d8%b1%d8%b3%d9%8a%d9%84%d9%8a%d8%a7) | N/A |
+| 30 | [امير قطر](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a%d8%b1+%d9%82%d8%b7%d8%b1) | N/A |
+| 31 | [علي الزواج](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b2%d9%88%d8%a7%d8%ac) | N/A |
+| 32 | [الرييس السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
+| 33 | [بولونيا](http://twitter.com/search?q=%d8%a8%d9%88%d9%84%d9%88%d9%86%d9%8a%d8%a7) | N/A |
+| 34 | [الفضاء الدوليه](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b6%d8%a7%d8%a1+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a%d9%87) | N/A |
 | 35 | [ديربي لندن](http://twitter.com/search?q=%d8%af%d9%8a%d8%b1%d8%a8%d9%8a+%d9%84%d9%86%d8%af%d9%86) | N/A |
-| 36 | [الفيفا](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%8a%d9%81%d8%a7) | N/A |
-| 37 | [اللاجيين السوريين](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d8%a7%d8%ac%d9%8a%d9%8a%d9%86+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a%d9%8a%d9%86) | N/A |
-| 38 | [الدوري الدنماركي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%af%d9%86%d9%85%d8%a7%d8%b1%d9%83%d9%8a) | N/A |
-| 39 | [جزر القمر](http://twitter.com/search?q=%d8%ac%d8%b2%d8%b1+%d8%a7%d9%84%d9%82%d9%85%d8%b1) | N/A |
-| 40 | [الشعب التركي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d8%aa%d8%b1%d9%83%d9%8a) | N/A |
+| 36 | [الجيش الملكي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%8a%d8%b4+%d8%a7%d9%84%d9%85%d9%84%d9%83%d9%8a) | N/A |
+| 37 | [العلمين الجديده](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%84%d9%85%d9%8a%d9%86+%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af%d9%87) | N/A |
+| 38 | [Crew-6](http://twitter.com/search?q=Crew-6) | N/A |
+| 39 | [اللاجيين السوريين](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d8%a7%d8%ac%d9%8a%d9%8a%d9%86+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a%d9%8a%d9%86) | N/A |
+| 40 | [فالنسيا](http://twitter.com/search?q=%d9%81%d8%a7%d9%84%d9%86%d8%b3%d9%8a%d8%a7) | فالنسيا is an Arabic phrase that translates to "farewell" in English. It is used as a way of saying goodbye or expressing good wishes when someone is leaving. |
 | 41 | [ليساندرو مارتينيز](http://twitter.com/search?q=%d9%84%d9%8a%d8%b3%d8%a7%d9%86%d8%af%d8%b1%d9%88+%d9%85%d8%a7%d8%b1%d8%aa%d9%8a%d9%86%d9%8a%d8%b2) | N/A |
-| 42 | [Crew-6](http://twitter.com/search?q=Crew-6) | N/A |
-| 43 | [رايد الفضاء الاماراتي](http://twitter.com/search?q=%d8%b1%d8%a7%d9%8a%d8%af+%d8%a7%d9%84%d9%81%d8%b6%d8%a7%d8%a1+%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d8%b1%d8%a7%d8%aa%d9%8a) | N/A |
-| 44 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
-| 45 | [ايدي هاو](http://twitter.com/search?q=%d8%a7%d9%8a%d8%af%d9%8a+%d9%87%d8%a7%d9%88) | N/A |
-| 46 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 47 | [النيابه العامه](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d9%8a%d8%a7%d8%a8%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87) | N/A |
-| 48 | [صن داونز](http://twitter.com/search?q=%d8%b5%d9%86+%d8%af%d8%a7%d9%88%d9%86%d8%b2) | N/A |
-| 49 | [الدوري الفرنسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d9%81%d8%b1%d9%86%d8%b3%d9%8a) | N/A |
+| 42 | [جزر القمر](http://twitter.com/search?q=%d8%ac%d8%b2%d8%b1+%d8%a7%d9%84%d9%82%d9%85%d8%b1) | N/A |
+| 43 | [الدوري الدنماركي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%af%d9%86%d9%85%d8%a7%d8%b1%d9%83%d9%8a) | N/A |
+| 44 | [ميسى](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%89) | N/A |
+| 45 | [السوق السعودي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%88%d9%82+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
+| 46 | [الشعب التركي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d8%aa%d8%b1%d9%83%d9%8a) | N/A |
+| 47 | [ايدي هاو](http://twitter.com/search?q=%d8%a7%d9%8a%d8%af%d9%8a+%d9%87%d8%a7%d9%88) | N/A |
+| 48 | [الدوري الفرنسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d9%81%d8%b1%d9%86%d8%b3%d9%8a) | N/A |
+| 49 | [كومان](http://twitter.com/search?q=%d9%83%d9%88%d9%85%d8%a7%d9%86) | N/A |
 | 50 | [القوه الناعمه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%88%d9%87+%d8%a7%d9%84%d9%86%d8%a7%d8%b9%d9%85%d9%87) | N/A |
 
 

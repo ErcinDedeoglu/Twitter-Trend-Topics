@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For London
 
-📆 Last Updated: `2023-02-27 18:16:25 UTC`
+📆 Last Updated: `2023-02-27 19:15:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Rishi Sunak](http://twitter.com/search?q=Rishi+Sunak) | Rishi Sunak is the current Chancellor of the Exchequer in the United Kingdom. The Chancellor of the Exchequer is the British government minister responsible for all economic and financial matters. The name Rishi Sunak is derived from two words: Rishi, which means sage or saint in Sanskrit, and Sunak, which means treasurer or banker in Hindi. |
-| 2 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
-| 3 | [Sinn Fein](http://twitter.com/search?q=Sinn+Fein) | N/A |
-| 4 | [Unionists](http://twitter.com/search?q=Unionists) | N/A |
-| 5 | [Steven](http://twitter.com/search?q=Steven) | N/A |
-| 6 | [Commons](http://twitter.com/search?q=Commons) | N/A |
+| 1 | [#UndergroundFilmsOrSongs](http://twitter.com/search?q=%23UndergroundFilmsOrSongs) | N/A |
+| 2 | [Sinn Fein](http://twitter.com/search?q=Sinn+Fein) | N/A |
+| 3 | [#RequestABetRewards](http://twitter.com/search?q=%23RequestABetRewards) | N/A |
+| 4 | [Theresa May](http://twitter.com/search?q=Theresa+May) | N/A |
+| 5 | [Unionists](http://twitter.com/search?q=Unionists) | N/A |
+| 6 | [Steven](http://twitter.com/search?q=Steven) | N/A |
 | 7 | [Windsor Framework](http://twitter.com/search?q=Windsor+Framework) | N/A |
-| 8 | [#TheChase](http://twitter.com/search?q=%23TheChase) | N/A |
-| 9 | [Northern Ireland](http://twitter.com/search?q=Northern+Ireland) | N/A |
-| 10 | [#bridgeoflies](http://twitter.com/search?q=%23bridgeoflies) | N/A |
-| 11 | [Stormont](http://twitter.com/search?q=Stormont) | N/A |
-| 12 | [Betty Boothroyd](http://twitter.com/search?q=Betty+Boothroyd) | N/A |
-| 13 | [#GOGimmighoul](http://twitter.com/search?q=%23GOGimmighoul) | N/A |
-| 14 | [#DeadSpaceMarkerMerchSweeps](http://twitter.com/search?q=%23DeadSpaceMarkerMerchSweeps) | N/A |
-| 15 | [#bbcpm](http://twitter.com/search?q=%23bbcpm) | N/A |
-| 16 | [Brighton Pride](http://twitter.com/search?q=Brighton+Pride) | N/A |
-| 17 | [Black Eyed Peas](http://twitter.com/search?q=Black+Eyed+Peas) | N/A |
-| 18 | [Steve Baker](http://twitter.com/search?q=Steve+Baker) | N/A |
-| 19 | [Leyen](http://twitter.com/search?q=Leyen) | N/A |
-| 20 | [Walking Wake](http://twitter.com/search?q=Walking+Wake) | N/A |
-| 21 | [Horizon Europe](http://twitter.com/search?q=Horizon+Europe) | N/A |
-| 22 | [Speaker](http://twitter.com/search?q=Speaker) | Speaker is a person who speaks in public, usually to an audience. It can also refer to the device used to amplify sound, such as a loudspeaker. |
-| 23 | [The DUP](http://twitter.com/search?q=The+DUP) | N/A |
-| 24 | [UK and EU](http://twitter.com/search?q=UK+and+EU) | N/A |
-| 25 | [Frost](http://twitter.com/search?q=Frost) | N/A |
-| 26 | [Iron Leaves](http://twitter.com/search?q=Iron+Leaves) | N/A |
-| 27 | [Noel](http://twitter.com/search?q=Noel) | Noel is a French word meaning "Christmas". It is often used as a greeting during the Christmas season. |
-| 28 | [The ECJ](http://twitter.com/search?q=The+ECJ) | N/A |
-| 29 | [Irish Sea](http://twitter.com/search?q=Irish+Sea) | N/A |
-| 30 | [Suicune](http://twitter.com/search?q=Suicune) | N/A |
-| 31 | [UK-EU](http://twitter.com/search?q=UK-EU) | N/A |
-| 32 | [Labour MPs](http://twitter.com/search?q=Labour+MPs) | N/A |
-| 33 | [Baroness Boothroyd](http://twitter.com/search?q=Baroness+Boothroyd) | N/A |
-| 34 | [Assembly](http://twitter.com/search?q=Assembly) | N/A |
-| 35 | [Royals](http://twitter.com/search?q=Royals) | N/A |
-| 36 | [Gazza](http://twitter.com/search?q=Gazza) | N/A |
-| 37 | [Northern Lights](http://twitter.com/search?q=Northern+Lights) | N/A |
-| 38 | [Courts](http://twitter.com/search?q=Courts) | N/A |
-| 39 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
-| 40 | [Single Market](http://twitter.com/search?q=Single+Market) | N/A |
-| 41 | [Universal Credit](http://twitter.com/search?q=Universal+Credit) | N/A |
-| 42 | [International Women's Day](http://twitter.com/search?q=International+Women%27s+Day) | N/A |
-| 43 | [Blood](http://twitter.com/search?q=Blood) | N/A |
-| 44 | [Jeffrey Epstein](http://twitter.com/search?q=Jeffrey+Epstein) | N/A |
-| 45 | [Ofgem](http://twitter.com/search?q=Ofgem) | N/A |
-| 46 | [Oven](http://twitter.com/search?q=Oven) | N/A |
-| 47 | [Whitby](http://twitter.com/search?q=Whitby) | N/A |
-| 48 | [Enugu](http://twitter.com/search?q=Enugu) | N/A |
-| 49 | [Mogg](http://twitter.com/search?q=Mogg) | N/A |
+| 8 | [Northern Ireland](http://twitter.com/search?q=Northern+Ireland) | N/A |
+| 9 | [Stormont](http://twitter.com/search?q=Stormont) | N/A |
+| 10 | [#TheChase](http://twitter.com/search?q=%23TheChase) | N/A |
+| 11 | [Sunak](http://twitter.com/search?q=Sunak) | N/A |
+| 12 | [#BrexitDeal](http://twitter.com/search?q=%23BrexitDeal) | N/A |
+| 13 | [#DeadSpaceMarkerMerchSweeps](http://twitter.com/search?q=%23DeadSpaceMarkerMerchSweeps) | N/A |
+| 14 | [Betty Boothroyd](http://twitter.com/search?q=Betty+Boothroyd) | N/A |
+| 15 | [Brighton Pride](http://twitter.com/search?q=Brighton+Pride) | N/A |
+| 16 | [The DUP](http://twitter.com/search?q=The+DUP) | N/A |
+| 17 | [Steve Baker](http://twitter.com/search?q=Steve+Baker) | N/A |
+| 18 | [Black Eyed Peas](http://twitter.com/search?q=Black+Eyed+Peas) | N/A |
+| 19 | [Frost](http://twitter.com/search?q=Frost) | N/A |
+| 20 | [Irish Sea](http://twitter.com/search?q=Irish+Sea) | N/A |
+| 21 | [King](http://twitter.com/search?q=King) | In English, "king" is a title given to a male monarch, usually the ruler of a kingdom or empire. It is also used as a term of endearment for someone who is seen as having great power or influence. |
+| 22 | [Noel](http://twitter.com/search?q=Noel) | Noel is a French word meaning "Christmas". It is often used as a greeting during the Christmas season. |
+| 23 | [UK and EU](http://twitter.com/search?q=UK+and+EU) | N/A |
+| 24 | [The ECJ](http://twitter.com/search?q=The+ECJ) | N/A |
+| 25 | [Horizon Europe](http://twitter.com/search?q=Horizon+Europe) | N/A |
+| 26 | [Ursula](http://twitter.com/search?q=Ursula) | N/A |
+| 27 | [Iron Leaves](http://twitter.com/search?q=Iron+Leaves) | N/A |
+| 28 | [Jim Allister](http://twitter.com/search?q=Jim+Allister) | N/A |
+| 29 | [UK-EU](http://twitter.com/search?q=UK-EU) | N/A |
+| 30 | [Speaker](http://twitter.com/search?q=Speaker) | Speaker is a person who speaks in public, usually to an audience. It can also refer to the device used to amplify sound, such as a loudspeaker. |
+| 31 | [Northern Lights](http://twitter.com/search?q=Northern+Lights) | N/A |
+| 32 | [Assembly](http://twitter.com/search?q=Assembly) | N/A |
+| 33 | [Commons](http://twitter.com/search?q=Commons) | N/A |
+| 34 | [Aurora](http://twitter.com/search?q=Aurora) | N/A |
+| 35 | [Single Market](http://twitter.com/search?q=Single+Market) | N/A |
+| 36 | [Suicune](http://twitter.com/search?q=Suicune) | N/A |
+| 37 | [Mogg](http://twitter.com/search?q=Mogg) | N/A |
+| 38 | [Labour MPs](http://twitter.com/search?q=Labour+MPs) | N/A |
+| 39 | [Edward VIII](http://twitter.com/search?q=Edward+VIII) | N/A |
+| 40 | [Gazza](http://twitter.com/search?q=Gazza) | N/A |
+| 41 | [Baroness Boothroyd](http://twitter.com/search?q=Baroness+Boothroyd) | N/A |
+| 42 | [Royals](http://twitter.com/search?q=Royals) | N/A |
+| 43 | [ERG and DUP](http://twitter.com/search?q=ERG+and+DUP) | N/A |
+| 44 | [Northern Irish](http://twitter.com/search?q=Northern+Irish) | N/A |
+| 45 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
+| 46 | [Courts](http://twitter.com/search?q=Courts) | N/A |
+| 47 | [Universal Credit](http://twitter.com/search?q=Universal+Credit) | N/A |
+| 48 | [Koran](http://twitter.com/search?q=Koran) | N/A |
+| 49 | [Jamaican](http://twitter.com/search?q=Jamaican) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For El Paso
 
-📆 Last Updated: `2023-02-27 18:17:13 UTC`
+📆 Last Updated: `2023-02-27 19:16:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [West Texas](http://twitter.com/search?q=West+Texas) | N/A |
+| 1 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
 | 2 | [Sengun](http://twitter.com/search?q=Sengun) | Sengun is a Japanese term that refers to the Imperial Japanese Army during World War II. It literally translates to "war-supporting army" and was used to describe the Japanese military forces that fought in the war. |
-| 3 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
-| 4 | [Silas](http://twitter.com/search?q=Silas) | N/A |
-| 5 | [#RizzToken](http://twitter.com/search?q=%23RizzToken) | N/A |
+| 3 | [Silas](http://twitter.com/search?q=Silas) | N/A |
+| 4 | [West Texas](http://twitter.com/search?q=West+Texas) | N/A |
+| 5 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
 | 6 | [#GOGimmighoul](http://twitter.com/search?q=%23GOGimmighoul) | N/A |
 | 7 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
-| 8 | [#DeadSpaceMarkerMerchSweeps](http://twitter.com/search?q=%23DeadSpaceMarkerMerchSweeps) | N/A |
-| 9 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 10 | [kevin hart](http://twitter.com/search?q=kevin+hart) | N/A |
+| 8 | [kevin hart](http://twitter.com/search?q=kevin+hart) | N/A |
+| 9 | [#RizzToken](http://twitter.com/search?q=%23RizzToken) | N/A |
+| 10 | [#DeadSpaceMarkerMerchSweeps](http://twitter.com/search?q=%23DeadSpaceMarkerMerchSweeps) | N/A |
 | 11 | [Walking Wake](http://twitter.com/search?q=Walking+Wake) | N/A |
-| 12 | [Maino](http://twitter.com/search?q=Maino) | N/A |
-| 13 | [AP Poll](http://twitter.com/search?q=AP+Poll) | The AP Poll (or the Associated Press Poll) is a weekly ranking of the top 25 college football teams in the United States, as determined by a panel of sportswriters and broadcasters. The poll is conducted by the Associated Press (AP), a news agency based in New York City. The rankings are released each Sunday during the college football season, with the exception of the final poll, which is released after the conclusion of the College Football Playoff National Championship. |
-| 14 | [Reedy Creek](http://twitter.com/search?q=Reedy+Creek) | N/A |
-| 15 | [Buckhead](http://twitter.com/search?q=Buckhead) | N/A |
-| 16 | [Bryan Cranston](http://twitter.com/search?q=Bryan+Cranston) | N/A |
-| 17 | [Yellen](http://twitter.com/search?q=Yellen) | N/A |
-| 18 | [Virizion](http://twitter.com/search?q=Virizion) | N/A |
-| 19 | [Joey Votto](http://twitter.com/search?q=Joey+Votto) | N/A |
-| 20 | [David Hogg](http://twitter.com/search?q=David+Hogg) | N/A |
-| 21 | [Dominican Independence Day](http://twitter.com/search?q=Dominican+Independence+Day) | N/A |
-| 22 | [AP Top 25](http://twitter.com/search?q=AP+Top+25) | N/A |
-| 23 | [Mystery Dungeon](http://twitter.com/search?q=Mystery+Dungeon) | N/A |
-| 24 | [Fauci](http://twitter.com/search?q=Fauci) | N/A |
-| 25 | [Joyce Manor](http://twitter.com/search?q=Joyce+Manor) | N/A |
-| 26 | [Terapagos](http://twitter.com/search?q=Terapagos) | N/A |
-| 27 | [Momotaro](http://twitter.com/search?q=Momotaro) | N/A |
-| 28 | [CFPB](http://twitter.com/search?q=CFPB) | N/A |
-| 29 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
-| 30 | [SV DLC](http://twitter.com/search?q=SV+DLC) | N/A |
-| 31 | [Al Gore](http://twitter.com/search?q=Al+Gore) | N/A |
-| 32 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
-| 33 | [NFL Combine](http://twitter.com/search?q=NFL+Combine) | N/A |
-| 34 | [Good Monday](http://twitter.com/search?q=Good+Monday) | Good Monday is an expression used to express enthusiasm for the start of a new week. It is typically used as a greeting or salutation when wishing someone a good start to the week. |
+| 12 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 13 | [HOIL](http://twitter.com/search?q=HOIL) | N/A |
+| 14 | [Maino](http://twitter.com/search?q=Maino) | N/A |
+| 15 | [McCabe](http://twitter.com/search?q=McCabe) | N/A |
+| 16 | [Lafferty](http://twitter.com/search?q=Lafferty) | Lafferty is a Scottish surname derived from the Gaelic name Mac an Leifheartaigh, meaning "son of the follower of St. Laverty". It is most commonly found in County Donegal, Ireland. In English, it can be translated to mean "son of the follower of St. Laverty". |
+| 17 | [Reedy Creek](http://twitter.com/search?q=Reedy+Creek) | N/A |
+| 18 | [Buckhead](http://twitter.com/search?q=Buckhead) | N/A |
+| 19 | [Yellen](http://twitter.com/search?q=Yellen) | N/A |
+| 20 | [AP Poll](http://twitter.com/search?q=AP+Poll) | The AP Poll (or the Associated Press Poll) is a weekly ranking of the top 25 college football teams in the United States, as determined by a panel of sportswriters and broadcasters. The poll is conducted by the Associated Press (AP), a news agency based in New York City. The rankings are released each Sunday during the college football season, with the exception of the final poll, which is released after the conclusion of the College Football Playoff National Championship. |
+| 21 | [Bryan Cranston](http://twitter.com/search?q=Bryan+Cranston) | N/A |
+| 22 | [David Hogg](http://twitter.com/search?q=David+Hogg) | N/A |
+| 23 | [MATT MERCER](http://twitter.com/search?q=MATT+MERCER) | N/A |
+| 24 | [Alec Bohm](http://twitter.com/search?q=Alec+Bohm) | N/A |
+| 25 | [David Peterson](http://twitter.com/search?q=David+Peterson) | N/A |
+| 26 | [Starfire](http://twitter.com/search?q=Starfire) | N/A |
+| 27 | [Dominican Independence Day](http://twitter.com/search?q=Dominican+Independence+Day) | N/A |
+| 28 | [Joey Votto](http://twitter.com/search?q=Joey+Votto) | N/A |
+| 29 | [Brendan Donovan](http://twitter.com/search?q=Brendan+Donovan) | N/A |
+| 30 | [AP Top 25](http://twitter.com/search?q=AP+Top+25) | N/A |
+| 31 | [Matt Olson](http://twitter.com/search?q=Matt+Olson) | N/A |
+| 32 | [CFPB](http://twitter.com/search?q=CFPB) | N/A |
+| 33 | [Tornado Watch](http://twitter.com/search?q=Tornado+Watch) | N/A |
+| 34 | [Virizion](http://twitter.com/search?q=Virizion) | N/A |
 | 35 | [Slim Jim](http://twitter.com/search?q=Slim+Jim) | N/A |
-| 36 | [Ho-Oh](http://twitter.com/search?q=Ho-Oh) | N/A |
-| 37 | [Slotkin](http://twitter.com/search?q=Slotkin) | N/A |
-| 38 | [Victoria Monet](http://twitter.com/search?q=Victoria+Monet) | N/A |
-| 39 | [Kalos](http://twitter.com/search?q=Kalos) | N/A |
-| 40 | [Okidogi](http://twitter.com/search?q=Okidogi) | N/A |
-| 41 | [DLCs](http://twitter.com/search?q=DLCs) | N/A |
-| 42 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
-| 43 | [Gamefreak](http://twitter.com/search?q=Gamefreak) | N/A |
-| 44 | [Master P](http://twitter.com/search?q=Master+P) | N/A |
-| 45 | [Seonghwa](http://twitter.com/search?q=Seonghwa) | N/A |
-| 46 | [Terry Holland](http://twitter.com/search?q=Terry+Holland) | N/A |
-| 47 | [The DLC](http://twitter.com/search?q=The+DLC) | N/A |
+| 36 | [Jim Acosta](http://twitter.com/search?q=Jim+Acosta) | N/A |
+| 37 | [Joyce Manor](http://twitter.com/search?q=Joyce+Manor) | N/A |
+| 38 | [NFL Combine](http://twitter.com/search?q=NFL+Combine) | N/A |
+| 39 | [Ho-Oh](http://twitter.com/search?q=Ho-Oh) | N/A |
+| 40 | [Emilia Clarke](http://twitter.com/search?q=Emilia+Clarke) | N/A |
+| 41 | [Temperature of America](http://twitter.com/search?q=Temperature+of+America) | N/A |
+| 42 | [Keeley](http://twitter.com/search?q=Keeley) | N/A |
+| 43 | [The Supreme Court](http://twitter.com/search?q=The+Supreme+Court) | N/A |
+| 44 | [Dubas](http://twitter.com/search?q=Dubas) | N/A |
+| 45 | [Terapagos](http://twitter.com/search?q=Terapagos) | N/A |
+| 46 | [Hockenson](http://twitter.com/search?q=Hockenson) | Hockenson is a surname of German origin. It is derived from the Old German word "hocke" meaning "hook" or "crook". The name is thought to have been given to someone who lived near a bend in a river or stream. |
+| 47 | [Okidogi](http://twitter.com/search?q=Okidogi) | N/A |
 
 
 

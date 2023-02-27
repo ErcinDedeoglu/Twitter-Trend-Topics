@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Germany
 
-📆 Last Updated: `2023-02-27 18:17:24 UTC`
+📆 Last Updated: `2023-02-27 19:16:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Germany
 | 1 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
 | 2 | [#FirstDates](http://twitter.com/search?q=%23FirstDates) | N/A |
 | 3 | [#PokemonPresents](http://twitter.com/search?q=%23PokemonPresents) | N/A |
-| 4 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
-| 5 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
-| 6 | [#FCBFCU](http://twitter.com/search?q=%23FCBFCU) | N/A |
-| 7 | [#Laborunfall](http://twitter.com/search?q=%23Laborunfall) | N/A |
-| 8 | [Start in die Woche](http://twitter.com/search?q=Start+in+die+Woche) | Start in die Woche is a German phrase that translates to "start of the week" in English. It is used to refer to the beginning of a new week, usually on Monday. |
-| 9 | [Helena](http://twitter.com/search?q=Helena) | N/A |
+| 4 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
+| 5 | [#Laborunfall](http://twitter.com/search?q=%23Laborunfall) | N/A |
+| 6 | [Start in die Woche](http://twitter.com/search?q=Start+in+die+Woche) | Start in die Woche is a German phrase that translates to "start of the week" in English. It is used to refer to the beginning of a new week, usually on Monday. |
+| 7 | [#FCBFCU](http://twitter.com/search?q=%23FCBFCU) | N/A |
+| 8 | [Trinkgeld](http://twitter.com/search?q=Trinkgeld) | N/A |
+| 9 | [Fabienne](http://twitter.com/search?q=Fabienne) | N/A |
 | 10 | [Demo](http://twitter.com/search?q=Demo) | N/A |
-| 11 | [Fabienne](http://twitter.com/search?q=Fabienne) | N/A |
-| 12 | [Senioren](http://twitter.com/search?q=Senioren) | N/A |
-| 13 | [Trinkgeld](http://twitter.com/search?q=Trinkgeld) | N/A |
-| 14 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
-| 15 | [Gutachten](http://twitter.com/search?q=Gutachten) | N/A |
-| 16 | [Berliner Kirchenstift](http://twitter.com/search?q=Berliner+Kirchenstift) | N/A |
+| 11 | [Senioren](http://twitter.com/search?q=Senioren) | N/A |
+| 12 | [Bratapfel](http://twitter.com/search?q=Bratapfel) | N/A |
+| 13 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
+| 14 | [Gutachten](http://twitter.com/search?q=Gutachten) | N/A |
+| 15 | [Berliner Kirchenstift](http://twitter.com/search?q=Berliner+Kirchenstift) | N/A |
+| 16 | [Werbeverbot](http://twitter.com/search?q=Werbeverbot) | N/A |
 | 17 | [Kinderlose](http://twitter.com/search?q=Kinderlose) | N/A |
-| 18 | [Tobias](http://twitter.com/search?q=Tobias) | N/A |
-| 19 | [Suicune](http://twitter.com/search?q=Suicune) | N/A |
+| 18 | [Polarlichter](http://twitter.com/search?q=Polarlichter) | N/A |
+| 19 | [Helena](http://twitter.com/search?q=Helena) | N/A |
 | 20 | [Abrams](http://twitter.com/search?q=Abrams) | Abrams is a surname of English and German origin. It is derived from the Germanic personal name Abraham, meaning "father of many". |
-| 21 | [Polarlichter](http://twitter.com/search?q=Polarlichter) | N/A |
-| 22 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
+| 21 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
+| 22 | [Lumpenpazifisten](http://twitter.com/search?q=Lumpenpazifisten) | N/A |
 | 23 | [Ethikrat](http://twitter.com/search?q=Ethikrat) | N/A |
-| 24 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 25 | [montagmorgen](http://twitter.com/search?q=montagmorgen) | N/A |
-| 26 | ['Feuer'](http://twitter.com/search?q=%27Feuer%27) | N/A |
-| 27 | [Teilnehmer](http://twitter.com/search?q=Teilnehmer) | N/A |
-| 28 | [Siedler](http://twitter.com/search?q=Siedler) | N/A |
-| 29 | [Panzer](http://twitter.com/search?q=Panzer) | N/A |
-| 30 | [Joko](http://twitter.com/search?q=Joko) | N/A |
-| 31 | [Montagabend](http://twitter.com/search?q=Montagabend) | N/A |
-| 32 | [Schutzbedürftige](http://twitter.com/search?q=Schutzbed%c3%bcrftige) | N/A |
-| 33 | [Puppen](http://twitter.com/search?q=Puppen) | N/A |
-| 34 | [Ukrainer](http://twitter.com/search?q=Ukrainer) | N/A |
-| 35 | [Greta Thunberg](http://twitter.com/search?q=Greta+Thunberg) | Greta Thunberg is a Swedish environmental activist who has gained international recognition for her work in raising awareness about the dangers of climate change. She is best known for her school strike for climate, which began in August 2018 when she was 15 years old. She has since become a prominent figure in the global climate movement and has been nominated for the Nobel Peace Prize. |
-| 36 | [Hubsi](http://twitter.com/search?q=Hubsi) | N/A |
-| 37 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
-| 38 | [Mystery Dungeon](http://twitter.com/search?q=Mystery+Dungeon) | N/A |
-| 39 | [Virus](http://twitter.com/search?q=Virus) | N/A |
-| 40 | [John Lennon](http://twitter.com/search?q=John+Lennon) | N/A |
-| 41 | [Süßigkeiten](http://twitter.com/search?q=S%c3%bc%c3%9figkeiten) | N/A |
-| 42 | [Kohlekraftwerke](http://twitter.com/search?q=Kohlekraftwerke) | N/A |
-| 43 | [Altenpflege](http://twitter.com/search?q=Altenpflege) | N/A |
-| 44 | [fratze deutschlands](http://twitter.com/search?q=fratze+deutschlands) | N/A |
-| 45 | [Morty](http://twitter.com/search?q=Morty) | Morty is a nickname for the given name Mortimer, which is of English origin and means "dead sea". It can also be used as a diminutive form of the name Mortimer. |
-| 46 | [DLCs](http://twitter.com/search?q=DLCs) | N/A |
-| 47 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
-| 48 | [Pflegeversicherung](http://twitter.com/search?q=Pflegeversicherung) | N/A |
-| 49 | [Verhandlungen](http://twitter.com/search?q=Verhandlungen) | N/A |
-| 50 | [INEC](http://twitter.com/search?q=INEC) | N/A |
+| 24 | [Suicune](http://twitter.com/search?q=Suicune) | N/A |
+| 25 | [Schönen Abend](http://twitter.com/search?q=Sch%c3%b6nen+Abend) | N/A |
+| 26 | [montagmorgen](http://twitter.com/search?q=montagmorgen) | N/A |
+| 27 | ['Feuer'](http://twitter.com/search?q=%27Feuer%27) | N/A |
+| 28 | [Hammer](http://twitter.com/search?q=Hammer) | N/A |
+| 29 | [Süßigkeiten](http://twitter.com/search?q=S%c3%bc%c3%9figkeiten) | N/A |
+| 30 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 31 | [Siedler](http://twitter.com/search?q=Siedler) | N/A |
+| 32 | [Joko](http://twitter.com/search?q=Joko) | N/A |
+| 33 | [Greta Thunberg](http://twitter.com/search?q=Greta+Thunberg) | Greta Thunberg is a Swedish environmental activist who has gained international recognition for her work in raising awareness about the dangers of climate change. She is best known for her school strike for climate, which began in August 2018 when she was 15 years old. She has since become a prominent figure in the global climate movement and has been nominated for the Nobel Peace Prize. |
+| 34 | [Teilnehmer](http://twitter.com/search?q=Teilnehmer) | N/A |
+| 35 | [Hubsi](http://twitter.com/search?q=Hubsi) | N/A |
+| 36 | [Panzer](http://twitter.com/search?q=Panzer) | N/A |
+| 37 | [Schutzbedürftige](http://twitter.com/search?q=Schutzbed%c3%bcrftige) | N/A |
+| 38 | [Frau Buyx](http://twitter.com/search?q=Frau+Buyx) | N/A |
+| 39 | [Ukrainer](http://twitter.com/search?q=Ukrainer) | N/A |
+| 40 | [Virus](http://twitter.com/search?q=Virus) | N/A |
+| 41 | [Nordlichter](http://twitter.com/search?q=Nordlichter) | N/A |
+| 42 | [Finne](http://twitter.com/search?q=Finne) | N/A |
+| 43 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
+| 44 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
+| 45 | [Mystery Dungeon](http://twitter.com/search?q=Mystery+Dungeon) | N/A |
+| 46 | [Kohlekraftwerke](http://twitter.com/search?q=Kohlekraftwerke) | N/A |
+| 47 | [Altenpflege](http://twitter.com/search?q=Altenpflege) | N/A |
+| 48 | [Fratze Deutschlands](http://twitter.com/search?q=Fratze+Deutschlands) | N/A |
+| 49 | [Tobias](http://twitter.com/search?q=Tobias) | N/A |
+| 50 | [Morty](http://twitter.com/search?q=Morty) | Morty is a nickname for the given name Mortimer, which is of English origin and means "dead sea". It can also be used as a diminutive form of the name Mortimer. |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Valparaiso
 
-📆 Last Updated: `2023-02-27 18:16:29 UTC`
+📆 Last Updated: `2023-02-27 19:15:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Chile](</Chile>)
 | ------- | ------------ | ------------ |
 | 1 | [#VamosColoColo](http://twitter.com/search?q=%23VamosColoColo) | #VamosColoColo is a hashtag used by fans of the Chilean soccer team Club Social y Deportivo Colo-Colo. It translates to "Let's go Colo-Colo" in English, and is used to show support for the team. |
 | 2 | [Quinteros](http://twitter.com/search?q=Quinteros) | Quinteros is a Spanish surname. It is derived from the Latin word "quintus," which means "fifth." The name is thought to have originated from a family of five brothers who lived in Spain during the Middle Ages. In English, the meaning of Quinteros is "of the fifth." |
-| 3 | [Allende](http://twitter.com/search?q=Allende) | N/A |
-| 4 | [Maite Orsini](http://twitter.com/search?q=Maite+Orsini) | N/A |
+| 3 | [Maite Orsini](http://twitter.com/search?q=Maite+Orsini) | N/A |
+| 4 | [Allende](http://twitter.com/search?q=Allende) | N/A |
 | 5 | [Irina Karamanos](http://twitter.com/search?q=Irina+Karamanos) | N/A |
 | 6 | [Mago Valdivia](http://twitter.com/search?q=Mago+Valdivia) | N/A |
 | 7 | [#ccvscoqxtntsports](http://twitter.com/search?q=%23ccvscoqxtntsports) | N/A |
-| 8 | [#AquiSeBaila](http://twitter.com/search?q=%23AquiSeBaila) | N/A |
-| 9 | [Pinochet](http://twitter.com/search?q=Pinochet) | N/A |
-| 10 | [Bouzat](http://twitter.com/search?q=Bouzat) | Bouzat is a French word that means "small village". It is often used to refer to a small, rural community. |
+| 8 | [#aquisebaila](http://twitter.com/search?q=%23aquisebaila) | N/A |
+| 9 | [#JuegoDeIlusiones](http://twitter.com/search?q=%23JuegoDeIlusiones) | N/A |
+| 10 | [Pinochet](http://twitter.com/search?q=Pinochet) | N/A |
 | 11 | [Benegas](http://twitter.com/search?q=Benegas) | Benegas is a Spanish surname. It is derived from the Latin word "bene" meaning "good" and the suffix "-gas" which is a patronymic ending. In English, it can be translated to mean "son of good". |
-| 12 | [#Terremoto](http://twitter.com/search?q=%23Terremoto) | #Terremoto is a hashtag used on social media to refer to an earthquake. In English, it translates to "earthquake". |
-| 13 | [Coquimbo](http://twitter.com/search?q=Coquimbo) | N/A |
-| 14 | [Daniela Aranguiz](http://twitter.com/search?q=Daniela+Aranguiz) | N/A |
-| 15 | [Daniela Aranguiz](http://twitter.com/search?q=Daniela+Aranguiz) | N/A |
-| 16 | [Parraguez](http://twitter.com/search?q=Parraguez) | N/A |
-| 17 | [mono sánchez](http://twitter.com/search?q=mono+s%c3%a1nchez) | N/A |
-| 18 | [Ramiro](http://twitter.com/search?q=Ramiro) | N/A |
-| 19 | [Bolados](http://twitter.com/search?q=Bolados) | Bolados is a Spanish slang term that means "cool" or "awesome." It is often used to express approval or admiration for something. |
-| 20 | [Palacios](http://twitter.com/search?q=Palacios) | N/A |
-| 21 | [INDH](http://twitter.com/search?q=INDH) | N/A |
-| 22 | [Lezcano](http://twitter.com/search?q=Lezcano) | N/A |
-| 23 | [Pizarro](http://twitter.com/search?q=Pizarro) | N/A |
-| 24 | [Jorge Hevia](http://twitter.com/search?q=Jorge+Hevia) | N/A |
-| 25 | [Fuentes](http://twitter.com/search?q=Fuentes) | N/A |
-| 26 | [Soledad Onetto](http://twitter.com/search?q=Soledad+Onetto) | N/A |
-| 27 | [Castillo](http://twitter.com/search?q=Castillo) | N/A |
-| 28 | [Laila Roth](http://twitter.com/search?q=Laila+Roth) | N/A |
-| 29 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
-| 30 | [Pavez](http://twitter.com/search?q=Pavez) | Pavez is a Spanish word meaning "to protect" or "to guard". It is derived from the Latin word pavens, which means "guardian". |
-| 31 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
-| 32 | [Roberto Saa](http://twitter.com/search?q=Roberto+Saa) | N/A |
-| 33 | [Rechazo](http://twitter.com/search?q=Rechazo) | N/A |
-| 34 | [Thompson](http://twitter.com/search?q=Thompson) | N/A |
-| 35 | [nano diaz](http://twitter.com/search?q=nano+diaz) | N/A |
-| 36 | [Constanza Valdés](http://twitter.com/search?q=Constanza+Vald%c3%a9s) | N/A |
-| 37 | [Bresh](http://twitter.com/search?q=Bresh) | N/A |
-| 38 | [Margot Kahl](http://twitter.com/search?q=Margot+Kahl) | N/A |
-| 39 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 40 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
-| 41 | [Wiemberg](http://twitter.com/search?q=Wiemberg) | N/A |
-| 42 | [Rojas](http://twitter.com/search?q=Rojas) | N/A |
-| 43 | [Banco](http://twitter.com/search?q=Banco) | N/A |
+| 12 | [Parraguez](http://twitter.com/search?q=Parraguez) | N/A |
+| 13 | [Bouzat](http://twitter.com/search?q=Bouzat) | Bouzat is a French word that means "small village". It is often used to refer to a small, rural community. |
+| 14 | [mono Sánchez](http://twitter.com/search?q=mono+S%c3%a1nchez) | N/A |
+| 15 | [Coquimbo](http://twitter.com/search?q=Coquimbo) | N/A |
+| 16 | [Ramiro](http://twitter.com/search?q=Ramiro) | N/A |
+| 17 | [Bolados](http://twitter.com/search?q=Bolados) | Bolados is a Spanish slang term that means "cool" or "awesome." It is often used to express approval or admiration for something. |
+| 18 | [Palacios](http://twitter.com/search?q=Palacios) | N/A |
+| 19 | [Daniela Aranguiz](http://twitter.com/search?q=Daniela+Aranguiz) | N/A |
+| 20 | [INDH](http://twitter.com/search?q=INDH) | N/A |
+| 21 | [Lezcano](http://twitter.com/search?q=Lezcano) | N/A |
+| 22 | [Pizarro](http://twitter.com/search?q=Pizarro) | N/A |
+| 23 | [Jorge Hevia](http://twitter.com/search?q=Jorge+Hevia) | N/A |
+| 24 | [Fuentes](http://twitter.com/search?q=Fuentes) | N/A |
+| 25 | [Soledad Onetto](http://twitter.com/search?q=Soledad+Onetto) | N/A |
+| 26 | [Laila Roth](http://twitter.com/search?q=Laila+Roth) | N/A |
+| 27 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
+| 28 | [Pavez](http://twitter.com/search?q=Pavez) | Pavez is a Spanish word meaning "to protect" or "to guard". It is derived from the Latin word pavens, which means "guardian". |
+| 29 | [Castillo](http://twitter.com/search?q=Castillo) | N/A |
+| 30 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
+| 31 | [Roberto Saa](http://twitter.com/search?q=Roberto+Saa) | N/A |
+| 32 | [Thompson](http://twitter.com/search?q=Thompson) | N/A |
+| 33 | [nano diaz](http://twitter.com/search?q=nano+diaz) | N/A |
+| 34 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 35 | [Constanza Valdés](http://twitter.com/search?q=Constanza+Vald%c3%a9s) | N/A |
+| 36 | [Wiemberg](http://twitter.com/search?q=Wiemberg) | N/A |
+| 37 | [Margot Kahl](http://twitter.com/search?q=Margot+Kahl) | N/A |
+| 38 | [Rojas](http://twitter.com/search?q=Rojas) | N/A |
+| 39 | [Cantinflas](http://twitter.com/search?q=Cantinflas) | N/A |
+| 40 | [Usach](http://twitter.com/search?q=Usach) | N/A |
+| 41 | [Rechazo](http://twitter.com/search?q=Rechazo) | N/A |
+| 42 | [Pulso Ciudadano](http://twitter.com/search?q=Pulso+Ciudadano) | N/A |
+| 43 | [Ronaldinho](http://twitter.com/search?q=Ronaldinho) | N/A |
 | 44 | [Cortes](http://twitter.com/search?q=Cortes) | N/A |
-| 45 | [Pulso Ciudadano](http://twitter.com/search?q=Pulso+Ciudadano) | N/A |
-| 46 | [Ronaldinho](http://twitter.com/search?q=Ronaldinho) | N/A |
-| 47 | [USACH](http://twitter.com/search?q=USACH) | N/A |
-| 48 | [Cantinflas](http://twitter.com/search?q=Cantinflas) | N/A |
-| 49 | [Suicune](http://twitter.com/search?q=Suicune) | N/A |
+| 45 | [Banco](http://twitter.com/search?q=Banco) | N/A |
+| 46 | [Piñera 2](http://twitter.com/search?q=Pi%c3%b1era+2) | N/A |
+| 47 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 48 | [Tucapel Jiménez](http://twitter.com/search?q=Tucapel+Jim%c3%a9nez) | N/A |
+| 49 | [España](http://twitter.com/search?q=Espa%c3%b1a) | N/A |
 
 
 

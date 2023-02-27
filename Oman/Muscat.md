@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Muscat
 
-📆 Last Updated: `2023-02-27 18:17:05 UTC`
+📆 Last Updated: `2023-02-27 19:16:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for [Oman](</Oman>)
 | 4 | [#بيان_الشيخ_الخليلي_يمثلني](http://twitter.com/search?q=%23%d8%a8%d9%8a%d8%a7%d9%86_%d8%a7%d9%84%d8%b4%d9%8a%d8%ae_%d8%a7%d9%84%d8%ae%d9%84%d9%8a%d9%84%d9%8a_%d9%8a%d9%85%d8%ab%d9%84%d9%86%d9%8a) | N/A |
 | 5 | [#وزاره_التربيه_والتعليم](http://twitter.com/search?q=%23%d9%88%d8%b2%d8%a7%d8%b1%d9%87_%d8%a7%d9%84%d8%aa%d8%b1%d8%a8%d9%8a%d9%87_%d9%88%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85) | N/A |
 | 6 | [اليوم الرياضي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d9%8a) | N/A |
-| 7 | [راعي الباص](http://twitter.com/search?q=%d8%b1%d8%a7%d8%b9%d9%8a+%d8%a7%d9%84%d8%a8%d8%a7%d8%b5) | N/A |
-| 8 | [الحافلات المدرسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%a7%d9%81%d9%84%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%8a%d9%87) | N/A |
-| 9 | [باب الباص](http://twitter.com/search?q=%d8%a8%d8%a7%d8%a8+%d8%a7%d9%84%d8%a8%d8%a7%d8%b5) | N/A |
-| 10 | [البطوله العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b7%d9%88%d9%84%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
+| 7 | [صاحب الباص](http://twitter.com/search?q=%d8%b5%d8%a7%d8%ad%d8%a8+%d8%a7%d9%84%d8%a8%d8%a7%d8%b5) | N/A |
+| 8 | [راعي الباص](http://twitter.com/search?q=%d8%b1%d8%a7%d8%b9%d9%8a+%d8%a7%d9%84%d8%a8%d8%a7%d8%b5) | N/A |
+| 9 | [الحافلات المدرسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%a7%d9%81%d9%84%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%8a%d9%87) | N/A |
+| 10 | [باب الباص](http://twitter.com/search?q=%d8%a8%d8%a7%d8%a8+%d8%a7%d9%84%d8%a8%d8%a7%d8%b5) | N/A |
 | 11 | [صاحب الحافله](http://twitter.com/search?q=%d8%b5%d8%a7%d8%ad%d8%a8+%d8%a7%d9%84%d8%ad%d8%a7%d9%81%d9%84%d9%87) | N/A |
 | 12 | [بنزيما](http://twitter.com/search?q=%d8%a8%d9%86%d8%b2%d9%8a%d9%85%d8%a7) | بنزيما (benzema) is a surname of Arabic origin. It is derived from the Arabic word "bin zamān" which means "son of time". In English, it can be translated to mean "son of time". |
 | 13 | [الامان الوظيفي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d9%86+%d8%a7%d9%84%d9%88%d8%b8%d9%8a%d9%81%d9%8a) | N/A |
-| 14 | [المدارس الحكوميه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%af%d8%a7%d8%b1%d8%b3+%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d9%8a%d9%87) | N/A |
-| 15 | [معرض الكتاب](http://twitter.com/search?q=%d9%85%d8%b9%d8%b1%d8%b6+%d8%a7%d9%84%d9%83%d8%aa%d8%a7%d8%a8) | N/A |
-| 16 | [احمد بن حمد الخليلي](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%ae%d9%84%d9%8a%d9%84%d9%8a) | N/A |
+| 14 | [معرض الكتاب](http://twitter.com/search?q=%d9%85%d8%b9%d8%b1%d8%b6+%d8%a7%d9%84%d9%83%d8%aa%d8%a7%d8%a8) | N/A |
+| 15 | [المدارس الحكوميه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%af%d8%a7%d8%b1%d8%b3+%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d9%8a%d9%87) | N/A |
+| 16 | [كورتوا](http://twitter.com/search?q=%d9%83%d9%88%d8%b1%d8%aa%d9%88%d8%a7) | كورتوا is a type of traditional Iraqi dish made with bulgur wheat, onions, and spices. It is usually served with yogurt or tahini sauce. In English, it is known as Korto or Korto Pilaf. |
 | 17 | [قانون العمل](http://twitter.com/search?q=%d9%82%d8%a7%d9%86%d9%88%d9%86+%d8%a7%d9%84%d8%b9%d9%85%d9%84) | N/A |
-| 18 | [علي السايق](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b3%d8%a7%d9%8a%d9%82) | N/A |
-| 19 | [كورتوا](http://twitter.com/search?q=%d9%83%d9%88%d8%b1%d8%aa%d9%88%d8%a7) | كورتوا is a type of traditional Iraqi dish made with bulgur wheat, onions, and spices. It is usually served with yogurt or tahini sauce. In English, it is known as Korto or Korto Pilaf. |
-| 20 | [احمد الخليلي](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%ae%d9%84%d9%8a%d9%84%d9%8a) | N/A |
+| 18 | [احمد بن حمد الخليلي](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%ae%d9%84%d9%8a%d9%84%d9%8a) | N/A |
+| 19 | [علي السايق](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b3%d8%a7%d9%8a%d9%82) | N/A |
+| 20 | [اليوم الاثنين](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86) | اليوم الاثنين is Arabic for "Monday" and it means "Monday" in English. |
 | 21 | [يونس المنذري](http://twitter.com/search?q=%d9%8a%d9%88%d9%86%d8%b3+%d8%a7%d9%84%d9%85%d9%86%d8%b0%d8%b1%d9%8a) | N/A |
-| 22 | [الاخصاييه الاجتماعيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ae%d8%b5%d8%a7%d9%8a%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a%d9%87) | N/A |
-| 23 | [الحمايه الاجتماعيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%85%d8%a7%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a%d9%87) | N/A |
-| 24 | [المدارس الخاصه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%af%d8%a7%d8%b1%d8%b3+%d8%a7%d9%84%d8%ae%d8%a7%d8%b5%d9%87) | N/A |
-| 25 | [الأهلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a3%d9%87%d9%84%d9%8a) | الأهلي is the name of a professional Saudi Arabian football club based in Jeddah. In English, it translates to "The Family". |
-| 26 | [الحلقه الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%84%d9%82%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
-| 27 | [نقل الطلبه](http://twitter.com/search?q=%d9%86%d9%82%d9%84+%d8%a7%d9%84%d8%b7%d9%84%d8%a8%d9%87) | N/A |
-| 28 | [عمان السلطانيه](http://twitter.com/search?q=%d8%b9%d9%85%d8%a7%d9%86+%d8%a7%d9%84%d8%b3%d9%84%d8%b7%d8%a7%d9%86%d9%8a%d9%87) | N/A |
-| 29 | [نيوكاسل](http://twitter.com/search?q=%d9%86%d9%8a%d9%88%d9%83%d8%a7%d8%b3%d9%84) | نيوكاسل (Nuqasil) is an Arabic word meaning "to build". It is often used to refer to the process of constructing a building or other structure. |
-| 30 | [اليوم الاثنين](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86) | اليوم الاثنين is Arabic for "Monday" and it means "Monday" in English. |
-| 31 | [القطاعين العام](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b7%d8%a7%d8%b9%d9%8a%d9%86+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
-| 32 | [الفيفا](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%8a%d9%81%d8%a7) | N/A |
-| 33 | [العمليه التعليميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%85%d9%84%d9%8a%d9%87+%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85%d9%8a%d9%87) | N/A |
-| 34 | [حفظ القران الكريم](http://twitter.com/search?q=%d8%ad%d9%81%d8%b8+%d8%a7%d9%84%d9%82%d8%b1%d8%a7%d9%86+%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85) | N/A |
-| 35 | [العقود الموقته](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%82%d9%88%d8%af+%d8%a7%d9%84%d9%85%d9%88%d9%82%d8%aa%d9%87) | N/A |
-| 36 | [المحتوي المحلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ad%d8%aa%d9%88%d9%8a+%d8%a7%d9%84%d9%85%d8%ad%d9%84%d9%8a) | المحتوي المحلي is a term used in the context of digital media and refers to content that is created and stored locally, rather than being accessed from an external source. In English, it translates to "local content". |
-| 37 | [التوجيه المهني](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%88%d8%ac%d9%8a%d9%87+%d8%a7%d9%84%d9%85%d9%87%d9%86%d9%8a) | N/A |
-| 38 | [كاس العالم](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | كاس العالم (Kass al-Alam) is an Arabic phrase meaning "World Cup". It is used to refer to the FIFA World Cup, an international football tournament held every four years. |
-| 39 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
-| 40 | [التعليم الاساسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85+%d8%a7%d9%84%d8%a7%d8%b3%d8%a7%d8%b3%d9%8a) | N/A |
-| 41 | [محمد العويسي](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%b9%d9%88%d9%8a%d8%b3%d9%8a) | N/A |
-| 42 | [فتح الباب](http://twitter.com/search?q=%d9%81%d8%aa%d8%ad+%d8%a7%d9%84%d8%a8%d8%a7%d8%a8) | N/A |
-| 43 | [الوظايف المسانده المرتبطه](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%b8%d8%a7%d9%8a%d9%81+%d8%a7%d9%84%d9%85%d8%b3%d8%a7%d9%86%d8%af%d9%87+%d8%a7%d9%84%d9%85%d8%b1%d8%aa%d8%a8%d8%b7%d9%87) | N/A |
-| 44 | [الشيخ الجليل](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%8a%d8%ae+%d8%a7%d9%84%d8%ac%d9%84%d9%8a%d9%84) | N/A |
-| 45 | [اللجنه العمانيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d8%ac%d9%86%d9%87+%d8%a7%d9%84%d8%b9%d9%85%d8%a7%d9%86%d9%8a%d9%87) | N/A |
-| 46 | [التعليم المهني](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85+%d8%a7%d9%84%d9%85%d9%87%d9%86%d9%8a) | N/A |
-| 47 | [بيوم المعلم](http://twitter.com/search?q=%d8%a8%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%85) | N/A |
-| 48 | [البرامج التدريبيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b1%d8%a7%d9%85%d8%ac+%d8%a7%d9%84%d8%aa%d8%af%d8%b1%d9%8a%d8%a8%d9%8a%d9%87) | N/A |
-| 49 | [الاجراءات القانونيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ac%d8%b1%d8%a7%d8%a1%d8%a7%d8%aa+%d8%a7%d9%84%d9%82%d8%a7%d9%86%d9%88%d9%86%d9%8a%d9%87) | N/A |
-| 50 | [المسوول الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d9%88%d9%88%d9%84+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
+| 22 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
+| 23 | [احمد الخليلي](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%ae%d9%84%d9%8a%d9%84%d9%8a) | N/A |
+| 24 | [الحلقه الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%84%d9%82%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
+| 25 | [الاخصاييه الاجتماعيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ae%d8%b5%d8%a7%d9%8a%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a%d9%87) | N/A |
+| 26 | [البطوله العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b7%d9%88%d9%84%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
+| 27 | [الأهلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a3%d9%87%d9%84%d9%8a) | الأهلي is the name of a professional Saudi Arabian football club based in Jeddah. In English, it translates to "The Family". |
+| 28 | [المدارس الخاصه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%af%d8%a7%d8%b1%d8%b3+%d8%a7%d9%84%d8%ae%d8%a7%d8%b5%d9%87) | N/A |
+| 29 | [الحمايه الاجتماعيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%85%d8%a7%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a%d9%87) | N/A |
+| 30 | [نقل الطلبه](http://twitter.com/search?q=%d9%86%d9%82%d9%84+%d8%a7%d9%84%d8%b7%d9%84%d8%a8%d9%87) | N/A |
+| 31 | [نيوكاسل](http://twitter.com/search?q=%d9%86%d9%8a%d9%88%d9%83%d8%a7%d8%b3%d9%84) | نيوكاسل (Nuqasil) is an Arabic word meaning "to build". It is often used to refer to the process of constructing a building or other structure. |
+| 32 | [علي الموعد](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d9%88%d8%b9%d8%af) | N/A |
+| 33 | [حفظ القران الكريم](http://twitter.com/search?q=%d8%ad%d9%81%d8%b8+%d8%a7%d9%84%d9%82%d8%b1%d8%a7%d9%86+%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85) | N/A |
+| 34 | [التوجيه المهني](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%88%d8%ac%d9%8a%d9%87+%d8%a7%d9%84%d9%85%d9%87%d9%86%d9%8a) | N/A |
+| 35 | [التعليم الاساسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85+%d8%a7%d9%84%d8%a7%d8%b3%d8%a7%d8%b3%d9%8a) | N/A |
+| 36 | [العقود الموقته](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%82%d9%88%d8%af+%d8%a7%d9%84%d9%85%d9%88%d9%82%d8%aa%d9%87) | N/A |
+| 37 | [المحتوي المحلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ad%d8%aa%d9%88%d9%8a+%d8%a7%d9%84%d9%85%d8%ad%d9%84%d9%8a) | المحتوي المحلي is a term used in the context of digital media and refers to content that is created and stored locally, rather than being accessed from an external source. In English, it translates to "local content". |
+| 38 | [العمليه التعليميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%85%d9%84%d9%8a%d9%87+%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85%d9%8a%d9%87) | N/A |
+| 39 | [عمان السلطانيه](http://twitter.com/search?q=%d8%b9%d9%85%d8%a7%d9%86+%d8%a7%d9%84%d8%b3%d9%84%d8%b7%d8%a7%d9%86%d9%8a%d9%87) | N/A |
+| 40 | [فتح الباب](http://twitter.com/search?q=%d9%81%d8%aa%d8%ad+%d8%a7%d9%84%d8%a8%d8%a7%d8%a8) | N/A |
+| 41 | [التعليم المهني](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85+%d8%a7%d9%84%d9%85%d9%87%d9%86%d9%8a) | N/A |
+| 42 | [الشيخ الجليل](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%8a%d8%ae+%d8%a7%d9%84%d8%ac%d9%84%d9%8a%d9%84) | N/A |
+| 43 | [اللجنه العمانيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d8%ac%d9%86%d9%87+%d8%a7%d9%84%d8%b9%d9%85%d8%a7%d9%86%d9%8a%d9%87) | N/A |
+| 44 | [كاس العالم](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | كاس العالم (Kass al-Alam) is an Arabic phrase meaning "World Cup". It is used to refer to the FIFA World Cup, an international football tournament held every four years. |
+| 45 | [الوظايف المسانده المرتبطه](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%b8%d8%a7%d9%8a%d9%81+%d8%a7%d9%84%d9%85%d8%b3%d8%a7%d9%86%d8%af%d9%87+%d8%a7%d9%84%d9%85%d8%b1%d8%aa%d8%a8%d8%b7%d9%87) | N/A |
+| 46 | [الاجراءات القانونيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ac%d8%b1%d8%a7%d8%a1%d8%a7%d8%aa+%d8%a7%d9%84%d9%82%d8%a7%d9%86%d9%88%d9%86%d9%8a%d9%87) | N/A |
+| 47 | [المسوول الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d9%88%d9%88%d9%84+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
+| 48 | [القطاعين العام](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b7%d8%a7%d8%b9%d9%8a%d9%86+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
+| 49 | [طلبه المدرسه](http://twitter.com/search?q=%d8%b7%d9%84%d8%a8%d9%87+%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%87) | N/A |
+| 50 | [الرياضه المدرسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d9%87+%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%8a%d9%87) | N/A |
 
 
 
