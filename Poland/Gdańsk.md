@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gdańsk
 
-📆 Last Updated: `2023-02-27 08:17:06 UTC`
+📆 Last Updated: `2023-02-27 09:16:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [Poland](</Poland>)
 | 3 | [#Eurovision](http://twitter.com/search?q=%23Eurovision) | N/A |
 | 4 | [#krwawaropa](http://twitter.com/search?q=%23krwawaropa) | N/A |
 | 5 | [#Jedziemy](http://twitter.com/search?q=%23Jedziemy) | N/A |
-| 6 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
-| 7 | [Orlen](http://twitter.com/search?q=Orlen) | N/A |
-| 8 | [Jann](http://twitter.com/search?q=Jann) | N/A |
-| 9 | [Blanka](http://twitter.com/search?q=Blanka) | N/A |
-| 10 | [Eurowizji](http://twitter.com/search?q=Eurowizji) | N/A |
-| 11 | [Dobrego](http://twitter.com/search?q=Dobrego) | N/A |
-| 12 | [Bidenem](http://twitter.com/search?q=Bidenem) | N/A |
-| 13 | [Cześć](http://twitter.com/search?q=Cze%c5%9b%c4%87) | N/A |
-| 14 | [RACE WEEK](http://twitter.com/search?q=RACE+WEEK) | N/A |
+| 6 | [Orlen](http://twitter.com/search?q=Orlen) | N/A |
+| 7 | [Jann](http://twitter.com/search?q=Jann) | N/A |
+| 8 | [Włodzimierza K.](http://twitter.com/search?q=W%c5%82odzimierza+K.) | N/A |
+| 9 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
+| 10 | [Blanka](http://twitter.com/search?q=Blanka) | N/A |
+| 11 | [Eurowizji](http://twitter.com/search?q=Eurowizji) | N/A |
+| 12 | [Beaty Szydło](http://twitter.com/search?q=Beaty+Szyd%c5%82o) | N/A |
+| 13 | [Bidenem](http://twitter.com/search?q=Bidenem) | N/A |
+| 14 | [Dobrego](http://twitter.com/search?q=Dobrego) | N/A |
 | 15 | [Rosji](http://twitter.com/search?q=Rosji) | N/A |
-| 16 | [Morderstwo](http://twitter.com/search?q=Morderstwo) | N/A |
-| 17 | [Piotr Żyła](http://twitter.com/search?q=Piotr+%c5%bby%c5%82a) | N/A |
-| 18 | [Tuska](http://twitter.com/search?q=Tuska) | N/A |
-| 19 | [Łukaszenka](http://twitter.com/search?q=%c5%81ukaszenka) | N/A |
-| 20 | [felivers](http://twitter.com/search?q=felivers) | N/A |
-| 21 | [marsylii](http://twitter.com/search?q=marsylii) | N/A |
+| 16 | [Tuska](http://twitter.com/search?q=Tuska) | N/A |
+| 17 | [Morderstwo](http://twitter.com/search?q=Morderstwo) | N/A |
+| 18 | [NCBiR](http://twitter.com/search?q=NCBiR) | N/A |
+| 19 | [RACE WEEK](http://twitter.com/search?q=RACE+WEEK) | N/A |
+| 20 | [Piotr Żyła](http://twitter.com/search?q=Piotr+%c5%bby%c5%82a) | N/A |
+| 21 | [felivers](http://twitter.com/search?q=felivers) | N/A |
 | 22 | [ziyecha](http://twitter.com/search?q=ziyecha) | N/A |
-| 23 | [Putina](http://twitter.com/search?q=Putina) | N/A |
-| 24 | [natasza](http://twitter.com/search?q=natasza) | N/A |
-| 25 | [Zupa](http://twitter.com/search?q=Zupa) | N/A |
-| 26 | [Joński](http://twitter.com/search?q=Jo%c5%84ski) | N/A |
-| 27 | [Dzień Dobry](http://twitter.com/search?q=Dzie%c5%84+Dobry) | N/A |
-| 28 | [Marchewa](http://twitter.com/search?q=Marchewa) | N/A |
+| 23 | [PO-PSL](http://twitter.com/search?q=PO-PSL) | N/A |
+| 24 | [Zupa](http://twitter.com/search?q=Zupa) | N/A |
+| 25 | [Giertych](http://twitter.com/search?q=Giertych) | N/A |
+| 26 | [Witam](http://twitter.com/search?q=Witam) | N/A |
+| 27 | [Cześć](http://twitter.com/search?q=Cze%c5%9b%c4%87) | N/A |
+| 28 | [Fakty](http://twitter.com/search?q=Fakty) | N/A |
 | 29 | [murawski](http://twitter.com/search?q=murawski) | N/A |
 | 30 | [Marchwiński](http://twitter.com/search?q=Marchwi%c5%84ski) | N/A |
-| 31 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 32 | [NCBiR](http://twitter.com/search?q=NCBiR) | N/A |
-| 33 | [Witam](http://twitter.com/search?q=Witam) | N/A |
-| 34 | [Zabójstwo](http://twitter.com/search?q=Zab%c3%b3jstwo) | N/A |
-| 35 | [Baiden](http://twitter.com/search?q=Baiden) | N/A |
-| 36 | [Lotos](http://twitter.com/search?q=Lotos) | N/A |
-| 37 | [piotrka](http://twitter.com/search?q=piotrka) | N/A |
-| 38 | [jankowski](http://twitter.com/search?q=jankowski) | N/A |
-| 39 | [Hubert Hurkacz](http://twitter.com/search?q=Hubert+Hurkacz) | N/A |
-| 40 | [Nawzajem](http://twitter.com/search?q=Nawzajem) | N/A |
-| 41 | [Kropiwnicki](http://twitter.com/search?q=Kropiwnicki) | N/A |
-| 42 | [Alicja](http://twitter.com/search?q=Alicja) | N/A |
-| 43 | [Edyta Górniak](http://twitter.com/search?q=Edyta+G%c3%b3rniak) | N/A |
-| 44 | [Gladiator](http://twitter.com/search?q=Gladiator) | Gladiator is a 2000 historical epic film directed by Ridley Scott. It stars Russell Crowe as the fictional character Maximus Decimus Meridius, a Roman general who is betrayed and enslaved, and then fights in the gladiatorial arena to gain his freedom. The term "gladiator" refers to a professional fighter in ancient Rome who fought against other gladiators or wild animals for the entertainment of the public. |
-| 45 | [Zupy](http://twitter.com/search?q=Zupy) | N/A |
-| 46 | [Makabu](http://twitter.com/search?q=Makabu) | N/A |
-| 47 | [Aguś](http://twitter.com/search?q=Agu%c5%9b) | N/A |
-| 48 | [Torre](http://twitter.com/search?q=Torre) | N/A |
-| 49 | [Almeria](http://twitter.com/search?q=Almeria) | N/A |
-| 50 | [Choroszczy](http://twitter.com/search?q=Choroszczy) | N/A |
+| 31 | [Zabójstwo](http://twitter.com/search?q=Zab%c3%b3jstwo) | N/A |
+| 32 | [Dzień Dobry](http://twitter.com/search?q=Dzie%c5%84+Dobry) | N/A |
+| 33 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 34 | [Putina](http://twitter.com/search?q=Putina) | N/A |
+| 35 | [Lotos](http://twitter.com/search?q=Lotos) | N/A |
+| 36 | [Jarosława Kaczyńskiego](http://twitter.com/search?q=Jaros%c5%82awa+Kaczy%c5%84skiego) | N/A |
+| 37 | [Marchewa](http://twitter.com/search?q=Marchewa) | N/A |
+| 38 | [Czarnka](http://twitter.com/search?q=Czarnka) | N/A |
+| 39 | [Edyta Górniak](http://twitter.com/search?q=Edyta+G%c3%b3rniak) | N/A |
+| 40 | [Hubert Hurkacz](http://twitter.com/search?q=Hubert+Hurkacz) | N/A |
+| 41 | [Baiden](http://twitter.com/search?q=Baiden) | N/A |
+| 42 | [Kropiwnicki](http://twitter.com/search?q=Kropiwnicki) | N/A |
+| 43 | [Stankiewicz](http://twitter.com/search?q=Stankiewicz) | N/A |
+| 44 | [Zupy](http://twitter.com/search?q=Zupy) | N/A |
+| 45 | [nataszy](http://twitter.com/search?q=nataszy) | N/A |
+| 46 | [Gladiator](http://twitter.com/search?q=Gladiator) | Gladiator is a 2000 historical epic film directed by Ridley Scott. It stars Russell Crowe as the fictional character Maximus Decimus Meridius, a Roman general who is betrayed and enslaved, and then fights in the gladiatorial arena to gain his freedom. The term "gladiator" refers to a professional fighter in ancient Rome who fought against other gladiators or wild animals for the entertainment of the public. |
+| 47 | [Makabu](http://twitter.com/search?q=Makabu) | N/A |
+| 48 | [Łukaszenka](http://twitter.com/search?q=%c5%81ukaszenka) | N/A |
+| 49 | [Torre](http://twitter.com/search?q=Torre) | N/A |
+| 50 | [Almeria](http://twitter.com/search?q=Almeria) | N/A |
 
 
 

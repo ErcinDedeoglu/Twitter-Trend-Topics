@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mumbai
 
-📆 Last Updated: `2023-02-27 08:17:30 UTC`
+📆 Last Updated: `2023-02-27 09:17:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [India](</India>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [मनीष सिसोदिया](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a8%e0%a5%80%e0%a4%b7+%e0%a4%b8%e0%a4%bf%e0%a4%b8%e0%a5%8b%e0%a4%a6%e0%a4%bf%e0%a4%af%e0%a4%be) | N/A |
-| 2 | [#ChandrashekharAzad](http://twitter.com/search?q=%23ChandrashekharAzad) | N/A |
-| 3 | [#चंद्रशेखर_आज़ाद](http://twitter.com/search?q=%23%e0%a4%9a%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a4%b6%e0%a5%87%e0%a4%96%e0%a4%b0_%e0%a4%86%e0%a4%9c%e0%a4%bc%e0%a4%be%e0%a4%a6) | N/A |
+| 2 | [Om Shanti](http://twitter.com/search?q=Om+Shanti) | N/A |
+| 3 | [#ChandrashekharAzad](http://twitter.com/search?q=%23ChandrashekharAzad) | N/A |
 | 4 | [#Aashiqana3OnHotstar](http://twitter.com/search?q=%23Aashiqana3OnHotstar) | N/A |
-| 5 | [#VivekAgnihotri](http://twitter.com/search?q=%23VivekAgnihotri) | N/A |
-| 6 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 7 | [महान क्रांतिकारी](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%95%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%82%e0%a4%a4%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80) | N/A |
-| 8 | [The Kashmir Files](http://twitter.com/search?q=The+Kashmir+Files) | N/A |
+| 5 | [#BharatVsSoros](http://twitter.com/search?q=%23BharatVsSoros) | N/A |
+| 6 | [#चंद्रशेखर_आज़ाद](http://twitter.com/search?q=%23%e0%a4%9a%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a4%b6%e0%a5%87%e0%a4%96%e0%a4%b0_%e0%a4%86%e0%a4%9c%e0%a4%bc%e0%a4%be%e0%a4%a6) | N/A |
+| 7 | [#KisiKaBhaiKisiKiJaan](http://twitter.com/search?q=%23KisiKaBhaiKisiKiJaan) | N/A |
+| 8 | [महान क्रांतिकारी](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%95%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%82%e0%a4%a4%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80) | N/A |
 | 9 | [सदा याद](http://twitter.com/search?q=%e0%a4%b8%e0%a4%a6%e0%a4%be+%e0%a4%af%e0%a4%be%e0%a4%a6) | N/A |
-| 10 | [नानाजी देशमुख](http://twitter.com/search?q=%e0%a4%a8%e0%a4%be%e0%a4%a8%e0%a4%be%e0%a4%9c%e0%a5%80+%e0%a4%a6%e0%a5%87%e0%a4%b6%e0%a4%ae%e0%a5%81%e0%a4%96) | N/A |
-| 11 | [रंगा बिल्ला](http://twitter.com/search?q=%e0%a4%b0%e0%a4%82%e0%a4%97%e0%a4%be+%e0%a4%ac%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a4%be) | N/A |
-| 12 | [भारतीय स्वतंत्रता संग्राम](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%a4%e0%a4%be+%e0%a4%b8%e0%a4%82%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 13 | [Shivamogga](http://twitter.com/search?q=Shivamogga) | N/A |
+| 10 | [The Kashmir Files](http://twitter.com/search?q=The+Kashmir+Files) | N/A |
+| 11 | [Ashwani Gujral](http://twitter.com/search?q=Ashwani+Gujral) | N/A |
+| 12 | [रंगा बिल्ला](http://twitter.com/search?q=%e0%a4%b0%e0%a4%82%e0%a4%97%e0%a4%be+%e0%a4%ac%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a4%be) | N/A |
+| 13 | [नानाजी देशमुख](http://twitter.com/search?q=%e0%a4%a8%e0%a4%be%e0%a4%a8%e0%a4%be%e0%a4%9c%e0%a5%80+%e0%a4%a6%e0%a5%87%e0%a4%b6%e0%a4%ae%e0%a5%81%e0%a4%96) | N/A |
 | 14 | [शिक्षा मंत्री](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 15 | [Almost 3Yrs SSRJustice Pending](http://twitter.com/search?q=Almost+3Yrs+SSRJustice+Pending) | N/A |
-| 16 | [राजस्थान केसरी](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be%e0%a4%a8+%e0%a4%95%e0%a5%87%e0%a4%b8%e0%a4%b0%e0%a5%80) | N/A |
+| 15 | [भारतीय स्वतंत्रता संग्राम](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%a4%e0%a4%be+%e0%a4%b8%e0%a4%82%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
+| 16 | [SHIV X RUHEE MARATHI TADKA](http://twitter.com/search?q=SHIV+X+RUHEE+MARATHI+TADKA) | N/A |
 | 17 | [2nd March](http://twitter.com/search?q=2nd+March) | N/A |
-| 18 | [NGOs](http://twitter.com/search?q=NGOs) | N/A |
-| 19 | [महान स्वतंत्रता सेनानी](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%a4%e0%a4%be+%e0%a4%b8%e0%a5%87%e0%a4%a8%e0%a4%be%e0%a4%a8%e0%a5%80) | N/A |
-| 20 | [केंद्रीय सामाजिक](http://twitter.com/search?q=%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%b8%e0%a4%be%e0%a4%ae%e0%a4%be%e0%a4%9c%e0%a4%bf%e0%a4%95) | N/A |
-| 21 | [राष्ट्र ऋषि](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0+%e0%a4%8b%e0%a4%b7%e0%a4%bf) | N/A |
+| 18 | [Almost 3Yrs SSRJustice Pending](http://twitter.com/search?q=Almost+3Yrs+SSRJustice+Pending) | N/A |
+| 19 | [राजस्थान केसरी](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be%e0%a4%a8+%e0%a4%95%e0%a5%87%e0%a4%b8%e0%a4%b0%e0%a5%80) | N/A |
+| 20 | [साबरमती एक्सप्रेस](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%ac%e0%a4%b0%e0%a4%ae%e0%a4%a4%e0%a5%80+%e0%a4%8f%e0%a4%95%e0%a5%8d%e0%a4%b8%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%b8) | N/A |
+| 21 | [महान स्वतंत्रता सेनानी](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%a4%e0%a4%be+%e0%a4%b8%e0%a5%87%e0%a4%a8%e0%a4%be%e0%a4%a8%e0%a5%80) | N/A |
 | 22 | [बिहार विधानसभा](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%b9%e0%a4%be%e0%a4%b0+%e0%a4%b5%e0%a4%bf%e0%a4%a7%e0%a4%be%e0%a4%a8%e0%a4%b8%e0%a4%ad%e0%a4%be) | N/A |
-| 23 | [Delhi HC](http://twitter.com/search?q=Delhi+HC) | N/A |
-| 24 | [जियो तिवारी](http://twitter.com/search?q=%e0%a4%9c%e0%a4%bf%e0%a4%af%e0%a5%8b+%e0%a4%a4%e0%a4%bf%e0%a4%b5%e0%a4%be%e0%a4%b0%e0%a5%80) | N/A |
-| 25 | [दारू मंत्री](http://twitter.com/search?q=%e0%a4%a6%e0%a4%be%e0%a4%b0%e0%a5%82+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 26 | [Liquor](http://twitter.com/search?q=Liquor) | N/A |
-| 27 | [ग्राम विकास](http://twitter.com/search?q=%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%b5%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b8) | N/A |
-| 28 | [भारतीय जनसंघ](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%9c%e0%a4%a8%e0%a4%b8%e0%a4%82%e0%a4%98) | N/A |
-| 29 | [Shah Satnam Ji Maharaj](http://twitter.com/search?q=Shah+Satnam+Ji+Maharaj) | N/A |
-| 30 | [Easy Health Tips](http://twitter.com/search?q=Easy+Health+Tips) | N/A |
-| 31 | [Gujrat](http://twitter.com/search?q=Gujrat) | N/A |
+| 23 | [NGOs](http://twitter.com/search?q=NGOs) | N/A |
+| 24 | [दारू मंत्री](http://twitter.com/search?q=%e0%a4%a6%e0%a4%be%e0%a4%b0%e0%a5%82+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
+| 25 | [Delhi HC](http://twitter.com/search?q=Delhi+HC) | N/A |
+| 26 | [राष्ट्र ऋषि](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0+%e0%a4%8b%e0%a4%b7%e0%a4%bf) | N/A |
+| 27 | [जियो तिवारी](http://twitter.com/search?q=%e0%a4%9c%e0%a4%bf%e0%a4%af%e0%a5%8b+%e0%a4%a4%e0%a4%bf%e0%a4%b5%e0%a4%be%e0%a4%b0%e0%a5%80) | N/A |
+| 28 | [ग्राम विकास](http://twitter.com/search?q=%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%b5%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b8) | N/A |
+| 29 | [भारतीय जनसंघ](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%9c%e0%a4%a8%e0%a4%b8%e0%a4%82%e0%a4%98) | N/A |
+| 30 | [Shah Satnam Ji Maharaj](http://twitter.com/search?q=Shah+Satnam+Ji+Maharaj) | N/A |
+| 31 | [Easy Health Tips](http://twitter.com/search?q=Easy+Health+Tips) | N/A |
 | 32 | [Swasthya Labh](http://twitter.com/search?q=Swasthya+Labh) | N/A |
-| 33 | [शाह मस्ताना](http://twitter.com/search?q=%e0%a4%b6%e0%a4%be%e0%a4%b9+%e0%a4%ae%e0%a4%b8%e0%a5%8d%e0%a4%a4%e0%a4%be%e0%a4%a8%e0%a4%be) | N/A |
-| 34 | [डेरा सच्चा सौदा](http://twitter.com/search?q=%e0%a4%a1%e0%a5%87%e0%a4%b0%e0%a4%be+%e0%a4%b8%e0%a4%9a%e0%a5%8d%e0%a4%9a%e0%a4%be+%e0%a4%b8%e0%a5%8c%e0%a4%a6%e0%a4%be) | N/A |
-| 35 | [मंत्री जेल](http://twitter.com/search?q=%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%9c%e0%a5%87%e0%a4%b2) | N/A |
-| 36 | [Sant Shri Asharamji Bapu](http://twitter.com/search?q=Sant+Shri+Asharamji+Bapu) | N/A |
-| 37 | [कोटि प्रणाम](http://twitter.com/search?q=%e0%a4%95%e0%a5%8b%e0%a4%9f%e0%a4%bf+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a3%e0%a4%be%e0%a4%ae) | N/A |
-| 38 | [विधानसभा चुनाव](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%a7%e0%a4%be%e0%a4%a8%e0%a4%b8%e0%a4%ad%e0%a4%be+%e0%a4%9a%e0%a5%81%e0%a4%a8%e0%a4%be%e0%a4%b5) | N/A |
-| 39 | [Daru](http://twitter.com/search?q=Daru) | N/A |
-| 40 | [#PallaviJoshi](http://twitter.com/search?q=%23PallaviJoshi) | N/A |
-| 41 | [#जियो_तिवारी_जनेऊधारी](http://twitter.com/search?q=%23%e0%a4%9c%e0%a4%bf%e0%a4%af%e0%a5%8b_%e0%a4%a4%e0%a4%bf%e0%a4%b5%e0%a4%be%e0%a4%b0%e0%a5%80_%e0%a4%9c%e0%a4%a8%e0%a5%87%e0%a4%8a%e0%a4%a7%e0%a4%be%e0%a4%b0%e0%a5%80) | N/A |
-| 42 | [#KisiKaBhaiKisiKiJaan](http://twitter.com/search?q=%23KisiKaBhaiKisiKiJaan) | N/A |
-| 43 | [#mondaythoughts](http://twitter.com/search?q=%23mondaythoughts) | #MondayThoughts is a hashtag used on social media to share thoughts, ideas, and reflections on the start of the week. It is often used to encourage others to have a positive outlook on the week ahead. |
-| 44 | [#agnipathscheme](http://twitter.com/search?q=%23agnipathscheme) | N/A |
-| 45 | [#JusticeForPreethi](http://twitter.com/search?q=%23JusticeForPreethi) | N/A |
-| 46 | [#100கோடி_ஆட்டையபோட்ட_ஆடு](http://twitter.com/search?q=%23100%e0%ae%95%e0%af%8b%e0%ae%9f%e0%ae%bf_%e0%ae%86%e0%ae%9f%e0%af%8d%e0%ae%9f%e0%af%88%e0%ae%af%e0%ae%aa%e0%af%8b%e0%ae%9f%e0%af%8d%e0%ae%9f_%e0%ae%86%e0%ae%9f%e0%af%81) | N/A |
-| 47 | [#ManishSisodiaArrested](http://twitter.com/search?q=%23ManishSisodiaArrested) | N/A |
-| 48 | [#News18GujaratiNo1](http://twitter.com/search?q=%23News18GujaratiNo1) | N/A |
-| 49 | [#WorldNGODay](http://twitter.com/search?q=%23WorldNGODay) | N/A |
+| 33 | [Gujrat](http://twitter.com/search?q=Gujrat) | N/A |
+| 34 | [ताहिर हुसैन](http://twitter.com/search?q=%e0%a4%a4%e0%a4%be%e0%a4%b9%e0%a4%bf%e0%a4%b0+%e0%a4%b9%e0%a5%81%e0%a4%b8%e0%a5%88%e0%a4%a8) | N/A |
+| 35 | [कोटि प्रणाम](http://twitter.com/search?q=%e0%a4%95%e0%a5%8b%e0%a4%9f%e0%a4%bf+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a3%e0%a4%be%e0%a4%ae) | N/A |
+| 36 | [मंत्री जेल](http://twitter.com/search?q=%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%9c%e0%a5%87%e0%a4%b2) | N/A |
+| 37 | [Arvind Kejriwal](http://twitter.com/search?q=Arvind+Kejriwal) | N/A |
+| 38 | [#VivekAgnihotri](http://twitter.com/search?q=%23VivekAgnihotri) | N/A |
+| 39 | [#ManishSisodiaArrested](http://twitter.com/search?q=%23ManishSisodiaArrested) | N/A |
+| 40 | [#जियो_तिवारी_जनेऊधारी](http://twitter.com/search?q=%23%e0%a4%9c%e0%a4%bf%e0%a4%af%e0%a5%8b_%e0%a4%a4%e0%a4%bf%e0%a4%b5%e0%a4%be%e0%a4%b0%e0%a5%80_%e0%a4%9c%e0%a4%a8%e0%a5%87%e0%a4%8a%e0%a4%a7%e0%a4%be%e0%a4%b0%e0%a5%80) | N/A |
+| 41 | [#JusticeForPreethi](http://twitter.com/search?q=%23JusticeForPreethi) | N/A |
+| 42 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 43 | [#100கோடி_ஆட்டையபோட்ட_ஆடு](http://twitter.com/search?q=%23100%e0%ae%95%e0%af%8b%e0%ae%9f%e0%ae%bf_%e0%ae%86%e0%ae%9f%e0%af%8d%e0%ae%9f%e0%af%88%e0%ae%af%e0%ae%aa%e0%af%8b%e0%ae%9f%e0%af%8d%e0%ae%9f_%e0%ae%86%e0%ae%9f%e0%af%81) | N/A |
+| 44 | [#PallaviJoshi](http://twitter.com/search?q=%23PallaviJoshi) | N/A |
+| 45 | [#ShivamoggaAirport](http://twitter.com/search?q=%23ShivamoggaAirport) | N/A |
+| 46 | [#agnipathscheme](http://twitter.com/search?q=%23agnipathscheme) | N/A |
+| 47 | [#WorldNGODay](http://twitter.com/search?q=%23WorldNGODay) | N/A |
+| 48 | [#mondaythoughts](http://twitter.com/search?q=%23mondaythoughts) | #MondayThoughts is a hashtag used on social media to share thoughts, ideas, and reflections on the start of the week. It is often used to encourage others to have a positive outlook on the week ahead. |
+| 49 | [#SalmanKhan](http://twitter.com/search?q=%23SalmanKhan) | N/A |
 | 50 | [#ZeeCineAwards2023](http://twitter.com/search?q=%23ZeeCineAwards2023) | N/A |
 
 

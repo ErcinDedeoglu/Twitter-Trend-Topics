@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Den Haag
 
-📆 Last Updated: `2023-02-27 08:17:11 UTC`
+📆 Last Updated: `2023-02-27 09:16:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Netherlands](</Netherlands>)
 | ------- | ------------ | ------------ |
 | 1 | [#vitaja](http://twitter.com/search?q=%23vitaja) | N/A |
 | 2 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 3 | [#forfey](http://twitter.com/search?q=%23forfey) | N/A |
-| 4 | [#Indigo](http://twitter.com/search?q=%23Indigo) | N/A |
-| 5 | [#PSVTWE](http://twitter.com/search?q=%23PSVTWE) | N/A |
-| 6 | [#WNLOpZondag](http://twitter.com/search?q=%23WNLOpZondag) | N/A |
+| 3 | [#forFey](http://twitter.com/search?q=%23forFey) | N/A |
+| 4 | [#PSVTWE](http://twitter.com/search?q=%23PSVTWE) | N/A |
+| 5 | [#indigo](http://twitter.com/search?q=%23indigo) | N/A |
+| 6 | [#wnlopzondag](http://twitter.com/search?q=%23wnlopzondag) | N/A |
 | 7 | [Rosenmöller](http://twitter.com/search?q=Rosenm%c3%b6ller) | N/A |
-| 8 | [Mogguh](http://twitter.com/search?q=Mogguh) | N/A |
-| 9 | [Jeroen Pauw](http://twitter.com/search?q=Jeroen+Pauw) | N/A |
-| 10 | [leo driessen](http://twitter.com/search?q=leo+driessen) | N/A |
+| 8 | [Stelling](http://twitter.com/search?q=Stelling) | N/A |
+| 9 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
+| 10 | [Schippers](http://twitter.com/search?q=Schippers) | N/A |
 | 11 | [Wijndal](http://twitter.com/search?q=Wijndal) | N/A |
-| 12 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
-| 13 | [Stelling](http://twitter.com/search?q=Stelling) | N/A |
-| 14 | [Schippers](http://twitter.com/search?q=Schippers) | N/A |
-| 15 | [Faber](http://twitter.com/search?q=Faber) | N/A |
-| 16 | [Vitesse](http://twitter.com/search?q=Vitesse) | N/A |
-| 17 | [Rutte](http://twitter.com/search?q=Rutte) | N/A |
-| 18 | [Klaassen](http://twitter.com/search?q=Klaassen) | N/A |
-| 19 | [Brobbey](http://twitter.com/search?q=Brobbey) | N/A |
-| 20 | [Hato](http://twitter.com/search?q=Hato) | N/A |
-| 21 | [Fortuna](http://twitter.com/search?q=Fortuna) | N/A |
+| 12 | [Jeroen Pauw](http://twitter.com/search?q=Jeroen+Pauw) | N/A |
+| 13 | [Dag 27](http://twitter.com/search?q=Dag+27) | N/A |
+| 14 | [Faber](http://twitter.com/search?q=Faber) | N/A |
+| 15 | [Vitesse](http://twitter.com/search?q=Vitesse) | N/A |
+| 16 | [Rutte](http://twitter.com/search?q=Rutte) | N/A |
+| 17 | [Klaassen](http://twitter.com/search?q=Klaassen) | N/A |
+| 18 | [Hato](http://twitter.com/search?q=Hato) | N/A |
+| 19 | [Leo Driessen](http://twitter.com/search?q=Leo+Driessen) | N/A |
+| 20 | [Brobbey](http://twitter.com/search?q=Brobbey) | N/A |
+| 21 | [rensch](http://twitter.com/search?q=rensch) | N/A |
 | 22 | [van ginkel](http://twitter.com/search?q=van+ginkel) | N/A |
-| 23 | [rensch](http://twitter.com/search?q=rensch) | N/A |
-| 24 | [Bergwijn](http://twitter.com/search?q=Bergwijn) | N/A |
-| 25 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 23 | [Bergwijn](http://twitter.com/search?q=Bergwijn) | N/A |
+| 24 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 25 | [sittard](http://twitter.com/search?q=sittard) | N/A |
 | 26 | [Huub](http://twitter.com/search?q=Huub) | N/A |
-| 27 | [Anton](http://twitter.com/search?q=Anton) | Anton is a masculine given name of Germanic origin. It is derived from the Roman family name Antonius, which is of unknown Etruscan origin. The name means "invaluable" or "priceless". |
-| 28 | [Sylvie Meis](http://twitter.com/search?q=Sylvie+Meis) | N/A |
-| 29 | [Groningen](http://twitter.com/search?q=Groningen) | N/A |
-| 30 | [zerrouki](http://twitter.com/search?q=zerrouki) | N/A |
-| 31 | [Emile](http://twitter.com/search?q=Emile) | N/A |
-| 32 | [wellenreuther](http://twitter.com/search?q=wellenreuther) | N/A |
-| 33 | [dilrosun](http://twitter.com/search?q=dilrosun) | N/A |
-| 34 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 35 | [van aanholt](http://twitter.com/search?q=van+aanholt) | N/A |
+| 27 | [Sylvie Meis](http://twitter.com/search?q=Sylvie+Meis) | N/A |
+| 28 | [Groningen](http://twitter.com/search?q=Groningen) | N/A |
+| 29 | [zerrouki](http://twitter.com/search?q=zerrouki) | N/A |
+| 30 | [Emile](http://twitter.com/search?q=Emile) | N/A |
+| 31 | [wellenreuther](http://twitter.com/search?q=wellenreuther) | N/A |
+| 32 | [dilrosun](http://twitter.com/search?q=dilrosun) | N/A |
+| 33 | [Nanninga](http://twitter.com/search?q=Nanninga) | N/A |
+| 34 | [van aanholt](http://twitter.com/search?q=van+aanholt) | N/A |
+| 35 | [niclas castello](http://twitter.com/search?q=niclas+castello) | N/A |
 | 36 | [Berghuis](http://twitter.com/search?q=Berghuis) | Berghuis is a Dutch surname derived from the word "berg," which means mountain. The name is thought to have originated as a toponymic surname, referring to someone who lived near or on a mountain. In English, the name would be translated as "Mountainhouse." |
-| 37 | [niclas castello](http://twitter.com/search?q=niclas+castello) | N/A |
-| 38 | [dylan van baarle](http://twitter.com/search?q=dylan+van+baarle) | N/A |
-| 39 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 40 | [manhoef](http://twitter.com/search?q=manhoef) | N/A |
-| 41 | [mario been](http://twitter.com/search?q=mario+been) | N/A |
-| 42 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
-| 43 | [Herik](http://twitter.com/search?q=Herik) | N/A |
-| 44 | [Marjon](http://twitter.com/search?q=Marjon) | N/A |
-| 45 | [Pol Pot](http://twitter.com/search?q=Pol+Pot) | N/A |
-| 46 | [Nanninga](http://twitter.com/search?q=Nanninga) | N/A |
-| 47 | [Mogge](http://twitter.com/search?q=Mogge) | N/A |
-| 48 | [Italië](http://twitter.com/search?q=Itali%c3%ab) | N/A |
-| 49 | [kalverstraat](http://twitter.com/search?q=kalverstraat) | N/A |
+| 37 | [Pol Pot](http://twitter.com/search?q=Pol+Pot) | N/A |
+| 38 | [manhoef](http://twitter.com/search?q=manhoef) | N/A |
+| 39 | [Herik](http://twitter.com/search?q=Herik) | N/A |
+| 40 | [mario been](http://twitter.com/search?q=mario+been) | N/A |
+| 41 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
+| 42 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 43 | [twente](http://twitter.com/search?q=twente) | N/A |
+| 44 | [jans](http://twitter.com/search?q=jans) | N/A |
+| 45 | [Italië](http://twitter.com/search?q=Itali%c3%ab) | N/A |
+| 46 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
+| 47 | [Bakayoko](http://twitter.com/search?q=Bakayoko) | N/A |
+| 48 | [Laurens](http://twitter.com/search?q=Laurens) | N/A |
+| 49 | [Morguh](http://twitter.com/search?q=Morguh) | N/A |
 
 
 
