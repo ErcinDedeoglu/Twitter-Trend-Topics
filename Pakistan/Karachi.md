@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Karachi
 
-📆 Last Updated: `2023-02-26 23:17:02 UTC`
+📆 Last Updated: `2023-02-27 00:29:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,19 +15,19 @@ This is top 50 for [Pakistan](</Pakistan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#جام_پور_ضمنی_الیکشن](http://twitter.com/search?q=%23%d8%ac%d8%a7%d9%85_%d9%be%d9%88%d8%b1_%d8%b6%d9%85%d9%86%db%8c_%d8%a7%d9%84%db%8c%da%a9%d8%b4%d9%86) | N/A |
-| 2 | [#LQvsPZ](http://twitter.com/search?q=%23LQvsPZ) | N/A |
+| 1 | [#LQvsPZ](http://twitter.com/search?q=%23LQvsPZ) | N/A |
+| 2 | [#جام_پور_ضمنی_الیکشن](http://twitter.com/search?q=%23%d8%ac%d8%a7%d9%85_%d9%be%d9%88%d8%b1_%d8%b6%d9%85%d9%86%db%8c_%d8%a7%d9%84%db%8c%da%a9%d8%b4%d9%86) | N/A |
 | 3 | [#NA193](http://twitter.com/search?q=%23NA193) | N/A |
 | 4 | [#PZvLQ](http://twitter.com/search?q=%23PZvLQ) | N/A |
 | 5 | [#شٹرڈاؤن_ہڑتال_لٹیرےپریشان](http://twitter.com/search?q=%23%d8%b4%d9%b9%d8%b1%da%88%d8%a7%d8%a4%d9%86_%db%81%da%91%d8%aa%d8%a7%d9%84_%d9%84%d9%b9%db%8c%d8%b1%db%92%d9%be%d8%b1%db%8c%d8%b4%d8%a7%d9%86) | N/A |
 | 6 | [Shaheen](http://twitter.com/search?q=Shaheen) | N/A |
-| 7 | [Fakhar Zaman](http://twitter.com/search?q=Fakhar+Zaman) | Fakhar Zaman is a Pakistani cricketer who plays for the Pakistan national cricket team. His name means "pride" in English. |
-| 8 | [Tayyab Tahir](http://twitter.com/search?q=Tayyab+Tahir) | N/A |
-| 9 | [Abdullah Shafique](http://twitter.com/search?q=Abdullah+Shafique) | N/A |
-| 10 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
-| 11 | [Jake](http://twitter.com/search?q=Jake) | N/A |
-| 12 | [Saim Ayub](http://twitter.com/search?q=Saim+Ayub) | N/A |
-| 13 | [Wade](http://twitter.com/search?q=Wade) | N/A |
+| 7 | [Jake](http://twitter.com/search?q=Jake) | N/A |
+| 8 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
+| 9 | [Fakhar Zaman](http://twitter.com/search?q=Fakhar+Zaman) | Fakhar Zaman is a Pakistani cricketer who plays for the Pakistan national cricket team. His name means "pride" in English. |
+| 10 | [Abdullah Shafique](http://twitter.com/search?q=Abdullah+Shafique) | N/A |
+| 11 | [Saim Ayub](http://twitter.com/search?q=Saim+Ayub) | N/A |
+| 12 | [Wade](http://twitter.com/search?q=Wade) | N/A |
+| 13 | [Tayyab Tahir](http://twitter.com/search?q=Tayyab+Tahir) | N/A |
 | 14 | [Shamsi](http://twitter.com/search?q=Shamsi) | N/A |
 | 15 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
 | 16 | [sop unified marathon](http://twitter.com/search?q=sop+unified+marathon) | N/A |
@@ -42,29 +42,29 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 25 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
 | 26 | [Fifer](http://twitter.com/search?q=Fifer) | N/A |
 | 27 | [Noam Chomsky](http://twitter.com/search?q=Noam+Chomsky) | N/A |
-| 28 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 29 | [Zalmi](http://twitter.com/search?q=Zalmi) | N/A |
-| 30 | [Haris Rauf](http://twitter.com/search?q=Haris+Rauf) | N/A |
-| 31 | [Sam Billings](http://twitter.com/search?q=Sam+Billings) | N/A |
-| 32 | [Armenian](http://twitter.com/search?q=Armenian) | N/A |
-| 33 | [YUMHAJ ON THE TALK TALK SHOW](http://twitter.com/search?q=YUMHAJ+ON+THE+TALK+TALK+SHOW) | N/A |
-| 34 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 35 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 36 | [Wahab](http://twitter.com/search?q=Wahab) | N/A |
-| 37 | [PMLN 55,218](http://twitter.com/search?q=PMLN+55%2c218) | N/A |
-| 38 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 39 | [Mohsin Leghari](http://twitter.com/search?q=Mohsin+Leghari) | N/A |
-| 40 | [Italy](http://twitter.com/search?q=Italy) | N/A |
-| 41 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 42 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 43 | [Ramzan](http://twitter.com/search?q=Ramzan) | N/A |
-| 44 | [Asia](http://twitter.com/search?q=Asia) | N/A |
-| 45 | [Neesham](http://twitter.com/search?q=Neesham) | N/A |
-| 46 | [Arshad](http://twitter.com/search?q=Arshad) | N/A |
-| 47 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 48 | [Relatable](http://twitter.com/search?q=Relatable) | N/A |
-| 49 | [MashaAllah](http://twitter.com/search?q=MashaAllah) | N/A |
-| 50 | [Man United](http://twitter.com/search?q=Man+United) | Man United is a nickname for Manchester United Football Club, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
+| 28 | [Haris Rauf](http://twitter.com/search?q=Haris+Rauf) | N/A |
+| 29 | [sam billings](http://twitter.com/search?q=sam+billings) | N/A |
+| 30 | [Armenian](http://twitter.com/search?q=Armenian) | N/A |
+| 31 | [YUMHAJ ON THE TALK TALK SHOW](http://twitter.com/search?q=YUMHAJ+ON+THE+TALK+TALK+SHOW) | N/A |
+| 32 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 33 | [Zalmi](http://twitter.com/search?q=Zalmi) | N/A |
+| 34 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 35 | [Wahab](http://twitter.com/search?q=Wahab) | N/A |
+| 36 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 37 | [Count](http://twitter.com/search?q=Count) | N/A |
+| 38 | [Ramzan](http://twitter.com/search?q=Ramzan) | N/A |
+| 39 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 40 | [Arshad](http://twitter.com/search?q=Arshad) | N/A |
+| 41 | [Mohsin Leghari](http://twitter.com/search?q=Mohsin+Leghari) | N/A |
+| 42 | [Man United](http://twitter.com/search?q=Man+United) | Man United is a nickname for Manchester United Football Club, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
+| 43 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 44 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 45 | [Pakistan Zindabad](http://twitter.com/search?q=Pakistan+Zindabad) | N/A |
+| 46 | [Surely](http://twitter.com/search?q=Surely) | N/A |
+| 47 | [PMLN](http://twitter.com/search?q=PMLN) | N/A |
+| 48 | [Warra](http://twitter.com/search?q=Warra) | N/A |
+| 49 | [Pakistan Super League](http://twitter.com/search?q=Pakistan+Super+League) | N/A |
+| 50 | [Credit](http://twitter.com/search?q=Credit) | N/A |
 
 
 

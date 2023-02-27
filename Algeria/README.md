@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Algeria
 
-📆 Last Updated: `2023-02-26 23:17:16 UTC`
+📆 Last Updated: `2023-02-27 00:29:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,16 +16,16 @@ This is top 50 for Algeria
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#HappyBirthdayNajwaKaram](http://twitter.com/search?q=%23HappyBirthdayNajwaKaram) | N/A |
-| 2 | [#OMPSG](http://twitter.com/search?q=%23OMPSG) | N/A |
+| 2 | [الحركات السياسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%b1%d9%83%d8%a7%d8%aa+%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b3%d9%8a%d9%87) | N/A |
 | 3 | [#نابلس](http://twitter.com/search?q=%23%d9%86%d8%a7%d8%a8%d9%84%d8%b3) | N/A |
-| 4 | [الحركات السياسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%b1%d9%83%d8%a7%d8%aa+%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b3%d9%8a%d9%87) | N/A |
-| 5 | [#قمه_العار](http://twitter.com/search?q=%23%d9%82%d9%85%d9%87_%d8%a7%d9%84%d8%b9%d8%a7%d8%b1) | N/A |
-| 6 | [نيوكاسل](http://twitter.com/search?q=%d9%86%d9%8a%d9%88%d9%83%d8%a7%d8%b3%d9%84) | نيوكاسل (Nuqasil) is an Arabic word meaning "to build". It is often used to refer to the process of constructing a building or other structure. |
-| 7 | [#حواره](http://twitter.com/search?q=%23%d8%ad%d9%88%d8%a7%d8%b1%d9%87) | N/A |
-| 8 | [تشافي](http://twitter.com/search?q=%d8%aa%d8%b4%d8%a7%d9%81%d9%8a) | تشافي is an Arabic word that means "enjoyment" or "pleasure". In English, it can be translated as "having a good time" or "having fun". |
-| 9 | [غارسيا](http://twitter.com/search?q=%d8%ba%d8%a7%d8%b1%d8%b3%d9%8a%d8%a7) | غارسيا is an Arabic name meaning "Garcia". It is a unisex name, and can be used for both boys and girls. |
+| 4 | [#قمه_العار](http://twitter.com/search?q=%23%d9%82%d9%85%d9%87_%d8%a7%d9%84%d8%b9%d8%a7%d8%b1) | N/A |
+| 5 | [نيوكاسل](http://twitter.com/search?q=%d9%86%d9%8a%d9%88%d9%83%d8%a7%d8%b3%d9%84) | نيوكاسل (Nuqasil) is an Arabic word meaning "to build". It is often used to refer to the process of constructing a building or other structure. |
+| 6 | [#OMPSG](http://twitter.com/search?q=%23OMPSG) | N/A |
+| 7 | [#KAI_Rover](http://twitter.com/search?q=%23KAI_Rover) | N/A |
+| 8 | [غارسيا](http://twitter.com/search?q=%d8%ba%d8%a7%d8%b1%d8%b3%d9%8a%d8%a7) | غارسيا is an Arabic name meaning "Garcia". It is a unisex name, and can be used for both boys and girls. |
+| 9 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
 | 10 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 11 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 11 | [تشافي](http://twitter.com/search?q=%d8%aa%d8%b4%d8%a7%d9%81%d9%8a) | تشافي is an Arabic word that means "enjoyment" or "pleasure". In English, it can be translated as "having a good time" or "having fun". |
 | 12 | [بوسكيتس](http://twitter.com/search?q=%d8%a8%d9%88%d8%b3%d9%83%d9%8a%d8%aa%d8%b3) | بوسكيتس (Bouskites) is a type of traditional Greek pastry made with phyllo dough, butter, and sugar. It is usually filled with a sweet custard or cream and topped with nuts or honey. The name comes from the Greek word for "baked" (bouski). In English, it is sometimes referred to as "Greek custard pies". |
 | 13 | [jhope](http://twitter.com/search?q=jhope) | N/A |
 | 14 | [القوات المسلحه البريطانيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%88%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d8%ad%d9%87+%d8%a7%d9%84%d8%a8%d8%b1%d9%8a%d8%b7%d8%a7%d9%86%d9%8a%d9%87) | N/A |
@@ -40,31 +40,31 @@ This is top 50 for Algeria
 | 23 | [فالنسيا](http://twitter.com/search?q=%d9%81%d8%a7%d9%84%d9%86%d8%b3%d9%8a%d8%a7) | فالنسيا is an Arabic phrase that translates to "farewell" in English. It is used as a way of saying goodbye or expressing good wishes when someone is leaving. |
 | 24 | [الكويت](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d9%88%d9%8a%d8%aa) | N/A |
 | 25 | [هيلاريون هيجي](http://twitter.com/search?q=%d9%87%d9%8a%d9%84%d8%a7%d8%b1%d9%8a%d9%88%d9%86+%d9%87%d9%8a%d8%ac%d9%8a) | N/A |
-| 26 | [فلسطين](http://twitter.com/search?q=%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86) | فلسطين (Palestine) is a region in the Middle East that is considered to be the ancestral homeland of the Palestinian people. It is bordered by Israel, Jordan, and Egypt. In English, Palestine means "Land of the Philistines". |
-| 27 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
-| 28 | [ابي عبد المعز](http://twitter.com/search?q=%d8%a7%d8%a8%d9%8a+%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d9%85%d8%b9%d8%b2) | N/A |
-| 29 | [المركز الدولي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a) | N/A |
-| 30 | [روبيرتو](http://twitter.com/search?q=%d8%b1%d9%88%d8%a8%d9%8a%d8%b1%d8%aa%d9%88) | N/A |
-| 31 | [كاسيميرو](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3%d9%8a%d9%85%d9%8a%d8%b1%d9%88) | كاسيميرو (Kasimero) is a type of traditional Yemeni clothing. It is a long, loose-fitting robe with wide sleeves and a hood. The garment is usually made from cotton or wool and is often decorated with embroidery. In English, it is sometimes referred to as a "Yemeni thawb" or "Yemeni jalabiya". |
-| 32 | [غير معتمد](http://twitter.com/search?q=%d8%ba%d9%8a%d8%b1+%d9%85%d8%b9%d8%aa%d9%85%d8%af) | N/A |
-| 33 | [اتحاد العاصمه](http://twitter.com/search?q=%d8%a7%d8%aa%d8%ad%d8%a7%d8%af+%d8%a7%d9%84%d8%b9%d8%a7%d8%b5%d9%85%d9%87) | N/A |
-| 34 | [سعيد عبد اللطيف](http://twitter.com/search?q=%d8%b3%d8%b9%d9%8a%d8%af+%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d9%84%d8%b7%d9%8a%d9%81) | N/A |
-| 35 | [26 فيفري 2023](http://twitter.com/search?q=26+%d9%81%d9%8a%d9%81%d8%b1%d9%8a+2023) | N/A |
-| 36 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 37 | [الطابور الخامس](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d8%a7%d8%a8%d9%88%d8%b1+%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3) | N/A |
-| 38 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 26 | [الصحراء الغربيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d8%ad%d8%b1%d8%a7%d8%a1+%d8%a7%d9%84%d8%ba%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
+| 27 | [ابي عبد المعز](http://twitter.com/search?q=%d8%a7%d8%a8%d9%8a+%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d9%85%d8%b9%d8%b2) | N/A |
+| 28 | [المركز الدولي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a) | N/A |
+| 29 | [روبيرتو](http://twitter.com/search?q=%d8%b1%d9%88%d8%a8%d9%8a%d8%b1%d8%aa%d9%88) | N/A |
+| 30 | [كاسيميرو](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3%d9%8a%d9%85%d9%8a%d8%b1%d9%88) | كاسيميرو (Kasimero) is a type of traditional Yemeni clothing. It is a long, loose-fitting robe with wide sleeves and a hood. The garment is usually made from cotton or wool and is often decorated with embroidery. In English, it is sometimes referred to as a "Yemeni thawb" or "Yemeni jalabiya". |
+| 31 | [غير معتمد](http://twitter.com/search?q=%d8%ba%d9%8a%d8%b1+%d9%85%d8%b9%d8%aa%d9%85%d8%af) | N/A |
+| 32 | [السلطه الفلسطينيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%84%d8%b7%d9%87+%d8%a7%d9%84%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86%d9%8a%d9%87) | N/A |
+| 33 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 34 | [اتحاد العاصمه](http://twitter.com/search?q=%d8%a7%d8%aa%d8%ad%d8%a7%d8%af+%d8%a7%d9%84%d8%b9%d8%a7%d8%b5%d9%85%d9%87) | N/A |
+| 35 | [سعيد عبد اللطيف](http://twitter.com/search?q=%d8%b3%d8%b9%d9%8a%d8%af+%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d9%84%d8%b7%d9%8a%d9%81) | N/A |
+| 36 | [26 فيفري 2023](http://twitter.com/search?q=26+%d9%81%d9%8a%d9%81%d8%b1%d9%8a+2023) | N/A |
+| 37 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 38 | [الطابور الخامس](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d8%a7%d8%a8%d9%88%d8%b1+%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3) | N/A |
 | 39 | [سعد المجرد](http://twitter.com/search?q=%d8%b3%d8%b9%d8%af+%d8%a7%d9%84%d9%85%d8%ac%d8%b1%d8%af) | N/A |
 | 40 | [الاحوال الجويه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ad%d9%88%d8%a7%d9%84+%d8%a7%d9%84%d8%ac%d9%88%d9%8a%d9%87) | N/A |
 | 41 | [سيميوني](http://twitter.com/search?q=%d8%b3%d9%8a%d9%85%d9%8a%d9%88%d9%86%d9%8a) | سيميوني (Simonee) is an Arabic name meaning "listener". It is also a variant of the name Simone, which is derived from the Hebrew name Shimon, meaning "he who hears". |
 | 42 | [J'adore](http://twitter.com/search?q=J%27adore) | N/A |
 | 43 | [انشيلوتي](http://twitter.com/search?q=%d8%a7%d9%86%d8%b4%d9%8a%d9%84%d9%88%d8%aa%d9%8a) | انشيلوتي (Anshiloti) is a type of traditional Arabic music and dance. It is characterized by its fast tempo and intricate rhythms. The word "Anshiloti" comes from the Arabic root word "anshil" which means to move quickly. In English, it can be translated as "quick dance". |
-| 44 | [الصحراء الغربيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d8%ad%d8%b1%d8%a7%d8%a1+%d8%a7%d9%84%d8%ba%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
-| 45 | [مكة المكرمة](http://twitter.com/search?q=%d9%85%d9%83%d8%a9+%d8%a7%d9%84%d9%85%d9%83%d8%b1%d9%85%d8%a9) | N/A |
-| 46 | [نور الدين](http://twitter.com/search?q=%d9%86%d9%88%d8%b1+%d8%a7%d9%84%d8%af%d9%8a%d9%86) | N/A |
-| 47 | [المهاجرين الافارقه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%87%d8%a7%d8%ac%d8%b1%d9%8a%d9%86+%d8%a7%d9%84%d8%a7%d9%81%d8%a7%d8%b1%d9%82%d9%87) | N/A |
-| 48 | [كره قدم](http://twitter.com/search?q=%d9%83%d8%b1%d9%87+%d9%82%d8%af%d9%85) | N/A |
-| 49 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
-| 50 | [سوريا](http://twitter.com/search?q=%d8%b3%d9%88%d8%b1%d9%8a%d8%a7) | سوريا is the Arabic word for Syria. In English, it means Syria. |
+| 44 | [سوريا](http://twitter.com/search?q=%d8%b3%d9%88%d8%b1%d9%8a%d8%a7) | سوريا is the Arabic word for Syria. In English, it means Syria. |
+| 45 | [نور الدين](http://twitter.com/search?q=%d9%86%d9%88%d8%b1+%d8%a7%d9%84%d8%af%d9%8a%d9%86) | N/A |
+| 46 | [المهاجرين الافارقه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%87%d8%a7%d8%ac%d8%b1%d9%8a%d9%86+%d8%a7%d9%84%d8%a7%d9%81%d8%a7%d8%b1%d9%82%d9%87) | N/A |
+| 47 | [كره قدم](http://twitter.com/search?q=%d9%83%d8%b1%d9%87+%d9%82%d8%af%d9%85) | N/A |
+| 48 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 49 | [توخيل](http://twitter.com/search?q=%d8%aa%d9%88%d8%ae%d9%8a%d9%84) | N/A |
+| 50 | [صدام حسين](http://twitter.com/search?q=%d8%b5%d8%af%d8%a7%d9%85+%d8%ad%d8%b3%d9%8a%d9%86) | N/A |
 
 
 

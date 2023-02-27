@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Netherlands
 
-📆 Last Updated: `2023-02-26 23:17:20 UTC`
+📆 Last Updated: `2023-02-27 00:29:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,45 +26,45 @@ This is top 50 for Netherlands
 | 9 | [Faber](http://twitter.com/search?q=Faber) | N/A |
 | 10 | [Leo Driessen](http://twitter.com/search?q=Leo+Driessen) | N/A |
 | 11 | [Vitesse](http://twitter.com/search?q=Vitesse) | N/A |
-| 12 | [Slaap](http://twitter.com/search?q=Slaap) | N/A |
-| 13 | [Bergwijn](http://twitter.com/search?q=Bergwijn) | N/A |
-| 14 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 15 | [Huub](http://twitter.com/search?q=Huub) | N/A |
-| 16 | [Groningers](http://twitter.com/search?q=Groningers) | N/A |
-| 17 | [higler](http://twitter.com/search?q=higler) | N/A |
-| 18 | [Sylvie Meis](http://twitter.com/search?q=Sylvie+Meis) | N/A |
-| 19 | [Fortuna](http://twitter.com/search?q=Fortuna) | N/A |
-| 20 | [Rutte](http://twitter.com/search?q=Rutte) | N/A |
-| 21 | [Klaassen](http://twitter.com/search?q=Klaassen) | N/A |
-| 22 | [Brobbey](http://twitter.com/search?q=Brobbey) | N/A |
+| 12 | [Bergwijn](http://twitter.com/search?q=Bergwijn) | N/A |
+| 13 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 14 | [Huub](http://twitter.com/search?q=Huub) | N/A |
+| 15 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 16 | [higler](http://twitter.com/search?q=higler) | N/A |
+| 17 | [Sylvie Meis](http://twitter.com/search?q=Sylvie+Meis) | N/A |
+| 18 | [Rutte](http://twitter.com/search?q=Rutte) | N/A |
+| 19 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 20 | [Klaassen](http://twitter.com/search?q=Klaassen) | N/A |
+| 21 | [Brobbey](http://twitter.com/search?q=Brobbey) | N/A |
+| 22 | [Groningers](http://twitter.com/search?q=Groningers) | N/A |
 | 23 | [Hato](http://twitter.com/search?q=Hato) | N/A |
-| 24 | [Berghuis](http://twitter.com/search?q=Berghuis) | Berghuis is a Dutch surname derived from the word "berg," which means mountain. The name is thought to have originated as a toponymic surname, referring to someone who lived near or on a mountain. In English, the name would be translated as "Mountainhouse." |
-| 25 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
-| 26 | [Van Ginkel](http://twitter.com/search?q=Van+Ginkel) | N/A |
+| 24 | [Fortuna](http://twitter.com/search?q=Fortuna) | N/A |
+| 25 | [Berghuis](http://twitter.com/search?q=Berghuis) | Berghuis is a Dutch surname derived from the word "berg," which means mountain. The name is thought to have originated as a toponymic surname, referring to someone who lived near or on a mountain. In English, the name would be translated as "Mountainhouse." |
+| 26 | [van ginkel](http://twitter.com/search?q=van+ginkel) | N/A |
 | 27 | [Rensch](http://twitter.com/search?q=Rensch) | Rensch is a German surname derived from the Old Germanic personal name Raginhilt, which means “counsel power”. In English, it can be translated to mean “wise counsel” or “strong advice”. |
-| 28 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 29 | [Emile](http://twitter.com/search?q=Emile) | N/A |
+| 28 | [Slaap](http://twitter.com/search?q=Slaap) | N/A |
+| 29 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
 | 30 | [Truste](http://twitter.com/search?q=Truste) | N/A |
 | 31 | [Bakayoko](http://twitter.com/search?q=Bakayoko) | N/A |
 | 32 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
 | 33 | [Wieffer](http://twitter.com/search?q=Wieffer) | N/A |
-| 34 | [Herik](http://twitter.com/search?q=Herik) | N/A |
-| 35 | [Zerrouki](http://twitter.com/search?q=Zerrouki) | N/A |
-| 36 | [Venus](http://twitter.com/search?q=Venus) | N/A |
+| 34 | [Zerrouki](http://twitter.com/search?q=Zerrouki) | N/A |
+| 35 | [Venus](http://twitter.com/search?q=Venus) | N/A |
+| 36 | [Emile](http://twitter.com/search?q=Emile) | N/A |
 | 37 | [wellenreuther](http://twitter.com/search?q=wellenreuther) | N/A |
-| 38 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 39 | [Mauro](http://twitter.com/search?q=Mauro) | N/A |
-| 40 | [Kalverstraat](http://twitter.com/search?q=Kalverstraat) | N/A |
-| 41 | [Dilrosun](http://twitter.com/search?q=Dilrosun) | N/A |
-| 42 | [Bero](http://twitter.com/search?q=Bero) | N/A |
-| 43 | [Nanninga](http://twitter.com/search?q=Nanninga) | N/A |
-| 44 | [Pol Pot](http://twitter.com/search?q=Pol+Pot) | N/A |
-| 45 | [van aanholt](http://twitter.com/search?q=van+aanholt) | N/A |
-| 46 | [Niclas Castello](http://twitter.com/search?q=Niclas+Castello) | N/A |
-| 47 | [Dylan Van Baarle](http://twitter.com/search?q=Dylan+Van+Baarle) | N/A |
-| 48 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 49 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 50 | [Italië](http://twitter.com/search?q=Itali%c3%ab) | N/A |
+| 38 | [Mauro](http://twitter.com/search?q=Mauro) | N/A |
+| 39 | [Dilrosun](http://twitter.com/search?q=Dilrosun) | N/A |
+| 40 | [Bero](http://twitter.com/search?q=Bero) | N/A |
+| 41 | [van aanholt](http://twitter.com/search?q=van+aanholt) | N/A |
+| 42 | [Pol Pot](http://twitter.com/search?q=Pol+Pot) | N/A |
+| 43 | [Niclas Castello](http://twitter.com/search?q=Niclas+Castello) | N/A |
+| 44 | [Nanninga](http://twitter.com/search?q=Nanninga) | N/A |
+| 45 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
+| 46 | [Dylan Van Baarle](http://twitter.com/search?q=Dylan+Van+Baarle) | N/A |
+| 47 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 48 | [Italië](http://twitter.com/search?q=Itali%c3%ab) | N/A |
+| 49 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 50 | [Manhoef](http://twitter.com/search?q=Manhoef) | N/A |
 
 
 

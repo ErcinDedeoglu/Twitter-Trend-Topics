@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Genoa
 
-📆 Last Updated: `2023-02-26 23:16:44 UTC`
+📆 Last Updated: `2023-02-27 00:28:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#BolognaInter](http://twitter.com/search?q=%23BolognaInter) | N/A |
-| 2 | [#Schlein](http://twitter.com/search?q=%23Schlein) | N/A |
-| 3 | [#primariepd2023](http://twitter.com/search?q=%23primariepd2023) | N/A |
-| 4 | [#MilanAtalanta](http://twitter.com/search?q=%23MilanAtalanta) | N/A |
-| 5 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
-| 6 | [Thiaw](http://twitter.com/search?q=Thiaw) | N/A |
+| 1 | [#Schlein](http://twitter.com/search?q=%23Schlein) | N/A |
+| 2 | [#primariepd2023](http://twitter.com/search?q=%23primariepd2023) | N/A |
+| 3 | [#MilanAtalanta](http://twitter.com/search?q=%23MilanAtalanta) | N/A |
+| 4 | [#Bonaccini](http://twitter.com/search?q=%23Bonaccini) | N/A |
+| 5 | [BUON COMPLEANNO DAYANE](http://twitter.com/search?q=BUON+COMPLEANNO+DAYANE) | N/A |
+| 6 | [Il PD](http://twitter.com/search?q=Il+PD) | N/A |
 | 7 | [Franceschini](http://twitter.com/search?q=Franceschini) | N/A |
-| 8 | [Il PD](http://twitter.com/search?q=Il+PD) | N/A |
-| 9 | [Messias](http://twitter.com/search?q=Messias) | Messias is a Hebrew word meaning "anointed one" or "savior." It is used in the Bible to refer to Jesus Christ, who is seen as the promised Messiah of the Old Testament. In English, it is often translated as "Messiah." |
-| 10 | [Krunic](http://twitter.com/search?q=Krunic) | N/A |
-| 11 | [Renzi](http://twitter.com/search?q=Renzi) | N/A |
-| 12 | [Theo](http://twitter.com/search?q=Theo) | N/A |
-| 13 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
-| 14 | [Musso](http://twitter.com/search?q=Musso) | N/A |
+| 8 | [Thiaw](http://twitter.com/search?q=Thiaw) | N/A |
+| 9 | [Renzi](http://twitter.com/search?q=Renzi) | N/A |
+| 10 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
+| 11 | [Messias](http://twitter.com/search?q=Messias) | Messias is a Hebrew word meaning "anointed one" or "savior." It is used in the Bible to refer to Jesus Christ, who is seen as the promised Messiah of the Old Testament. In English, it is often translated as "Messiah." |
+| 12 | [Segretaria](http://twitter.com/search?q=Segretaria) | N/A |
+| 13 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 14 | [Krunic](http://twitter.com/search?q=Krunic) | N/A |
 | 15 | [Partito Democratico](http://twitter.com/search?q=Partito+Democratico) | N/A |
-| 16 | [Gabbia](http://twitter.com/search?q=Gabbia) | N/A |
-| 17 | [Giletti](http://twitter.com/search?q=Giletti) | N/A |
-| 18 | [Segretaria](http://twitter.com/search?q=Segretaria) | N/A |
-| 19 | [Diaz](http://twitter.com/search?q=Diaz) | N/A |
-| 20 | [Gasperini](http://twitter.com/search?q=Gasperini) | N/A |
-| 21 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 22 | [Mariani](http://twitter.com/search?q=Mariani) | N/A |
-| 23 | [Tomori](http://twitter.com/search?q=Tomori) | Tomori is a Japanese surname. It is derived from the Japanese words "tomo" (friend) and "ri" (village). In English, it can be translated to mean "Friendly Village". |
-| 24 | [Zlatan](http://twitter.com/search?q=Zlatan) | Zlatan is a nickname for the Swedish soccer player Zlatan Ibrahimović. It is derived from his first name and is used to refer to him in a friendly or affectionate way. In English, it can be translated as "golden one". |
-| 25 | [Maignan](http://twitter.com/search?q=Maignan) | Maignan is a French surname derived from the Old French word maigne, meaning "beloved". It is most commonly found in the regions of Normandy and Brittany. In English, it can be translated to mean "beloved one". |
-| 26 | [Amodeo](http://twitter.com/search?q=Amodeo) | N/A |
-| 27 | [Emilia Romagna](http://twitter.com/search?q=Emilia+Romagna) | N/A |
-| 28 | [Hojlund](http://twitter.com/search?q=Hojlund) | N/A |
-| 29 | [Sinistra](http://twitter.com/search?q=Sinistra) | N/A |
-| 30 | [Varese](http://twitter.com/search?q=Varese) | N/A |
-| 31 | [Mike](http://twitter.com/search?q=Mike) | N/A |
-| 32 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 33 | [Italia Viva](http://twitter.com/search?q=Italia+Viva) | N/A |
-| 34 | [De Luca](http://twitter.com/search?q=De+Luca) | N/A |
-| 35 | [Grecia](http://twitter.com/search?q=Grecia) | N/A |
-| 36 | [Vecchioni](http://twitter.com/search?q=Vecchioni) | N/A |
-| 37 | [Mediterraneo](http://twitter.com/search?q=Mediterraneo) | N/A |
-| 38 | [Libia](http://twitter.com/search?q=Libia) | N/A |
-| 39 | [Mister](http://twitter.com/search?q=Mister) | N/A |
-| 40 | [Foglio](http://twitter.com/search?q=Foglio) | N/A |
-| 41 | [Bastava](http://twitter.com/search?q=Bastava) | N/A |
-| 42 | [#Bonaccini](http://twitter.com/search?q=%23Bonaccini) | N/A |
-| 43 | [#nonelarena](http://twitter.com/search?q=%23nonelarena) | N/A |
+| 16 | [Giletti](http://twitter.com/search?q=Giletti) | N/A |
+| 17 | [Musso](http://twitter.com/search?q=Musso) | N/A |
+| 18 | [Gabbia](http://twitter.com/search?q=Gabbia) | N/A |
+| 19 | [Theo](http://twitter.com/search?q=Theo) | N/A |
+| 20 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
+| 21 | [Gasperini](http://twitter.com/search?q=Gasperini) | N/A |
+| 22 | [Boccia](http://twitter.com/search?q=Boccia) | N/A |
+| 23 | [Diaz](http://twitter.com/search?q=Diaz) | N/A |
+| 24 | [Fassino](http://twitter.com/search?q=Fassino) | N/A |
+| 25 | [Tomori](http://twitter.com/search?q=Tomori) | Tomori is a Japanese surname. It is derived from the Japanese words "tomo" (friend) and "ri" (village). In English, it can be translated to mean "Friendly Village". |
+| 26 | [Sinistra](http://twitter.com/search?q=Sinistra) | N/A |
+| 27 | [Zlatan](http://twitter.com/search?q=Zlatan) | Zlatan is a nickname for the Swedish soccer player Zlatan Ibrahimović. It is derived from his first name and is used to refer to him in a friendly or affectionate way. In English, it can be translated as "golden one". |
+| 28 | [Amodeo](http://twitter.com/search?q=Amodeo) | N/A |
+| 29 | [Italia Viva](http://twitter.com/search?q=Italia+Viva) | N/A |
+| 30 | [Emilia Romagna](http://twitter.com/search?q=Emilia+Romagna) | N/A |
+| 31 | [Maignan](http://twitter.com/search?q=Maignan) | Maignan is a French surname derived from the Old French word maigne, meaning "beloved". It is most commonly found in the regions of Normandy and Brittany. In English, it can be translated to mean "beloved one". |
+| 32 | [De Filippi](http://twitter.com/search?q=De+Filippi) | N/A |
+| 33 | [Hojlund](http://twitter.com/search?q=Hojlund) | N/A |
+| 34 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 35 | [Bennacer](http://twitter.com/search?q=Bennacer) | N/A |
+| 36 | [De Luca](http://twitter.com/search?q=De+Luca) | N/A |
+| 37 | [Mike](http://twitter.com/search?q=Mike) | N/A |
+| 38 | [Bersani](http://twitter.com/search?q=Bersani) | N/A |
+| 39 | [Grecia](http://twitter.com/search?q=Grecia) | N/A |
+| 40 | [Libia](http://twitter.com/search?q=Libia) | N/A |
+| 41 | [Mister](http://twitter.com/search?q=Mister) | N/A |
+| 42 | [#nonelarena](http://twitter.com/search?q=%23nonelarena) | N/A |
+| 43 | [#90giorniperinnamorarsi](http://twitter.com/search?q=%2390giorniperinnamorarsi) | N/A |
 | 44 | [#CTCF](http://twitter.com/search?q=%23CTCF) | N/A |
-| 45 | [#90giorniperinnamorarsi](http://twitter.com/search?q=%2390giorniperinnamorarsi) | N/A |
-| 46 | [#RestaConMe](http://twitter.com/search?q=%23RestaConMe) | N/A |
-| 47 | [#Ibrahimovic](http://twitter.com/search?q=%23Ibrahimovic) | N/A |
-| 48 | [#Mentana](http://twitter.com/search?q=%23Mentana) | N/A |
-| 49 | [#Loshowdeirecord](http://twitter.com/search?q=%23Loshowdeirecord) | N/A |
+| 45 | [#RestaConMe](http://twitter.com/search?q=%23RestaConMe) | N/A |
+| 46 | [#SAGAwards](http://twitter.com/search?q=%23SAGAwards) | N/A |
+| 47 | [#Mentana](http://twitter.com/search?q=%23Mentana) | N/A |
+| 48 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
+| 49 | [#Ibrahimovic](http://twitter.com/search?q=%23Ibrahimovic) | N/A |
 
 
 
