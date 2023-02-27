@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Colorado Springs
 
-📆 Last Updated: `2023-02-27 22:16:18 UTC`
+📆 Last Updated: `2023-02-27 23:16:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
-| 2 | [Fauci](http://twitter.com/search?q=Fauci) | N/A |
-| 3 | [#ETHDenver](http://twitter.com/search?q=%23ETHDenver) | N/A |
-| 4 | [#BETCrypto](http://twitter.com/search?q=%23BETCrypto) | N/A |
-| 5 | [kevin hart](http://twitter.com/search?q=kevin+hart) | N/A |
+| 1 | [#ETHDenver](http://twitter.com/search?q=%23ETHDenver) | N/A |
+| 2 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
+| 3 | [Fauci](http://twitter.com/search?q=Fauci) | N/A |
+| 4 | [kevin hart](http://twitter.com/search?q=kevin+hart) | N/A |
+| 5 | [#BETCrypto](http://twitter.com/search?q=%23BETCrypto) | N/A |
 | 6 | [Carson Wentz](http://twitter.com/search?q=Carson+Wentz) | Carson Wentz is an American football quarterback for the Philadelphia Eagles of the National Football League (NFL). He was drafted by the Eagles with the second overall pick in the 2016 NFL Draft. He played college football at North Dakota State University, where he won five NCAA FCS National Championships. |
-| 7 | [Gavin Lux](http://twitter.com/search?q=Gavin+Lux) | N/A |
-| 8 | [John Marvin](http://twitter.com/search?q=John+Marvin) | N/A |
-| 9 | [#GOGimmighoul](http://twitter.com/search?q=%23GOGimmighoul) | N/A |
-| 10 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
-| 11 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 12 | [#PMSLive](http://twitter.com/search?q=%23PMSLive) | N/A |
+| 7 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 8 | [#KarmaIsReal](http://twitter.com/search?q=%23KarmaIsReal) | N/A |
+| 9 | [Rupert Murdoch](http://twitter.com/search?q=Rupert+Murdoch) | N/A |
+| 10 | [Gavin Lux](http://twitter.com/search?q=Gavin+Lux) | N/A |
+| 11 | [John Marvin](http://twitter.com/search?q=John+Marvin) | N/A |
+| 12 | [Adam Silver](http://twitter.com/search?q=Adam+Silver) | N/A |
 | 13 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 14 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
-| 15 | [Roman Quinn](http://twitter.com/search?q=Roman+Quinn) | N/A |
-| 16 | [Wesson](http://twitter.com/search?q=Wesson) | N/A |
-| 17 | [DA SLEEZE](http://twitter.com/search?q=DA+SLEEZE) | N/A |
-| 18 | [Jim Acosta](http://twitter.com/search?q=Jim+Acosta) | N/A |
-| 19 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
-| 20 | [Walking Wake](http://twitter.com/search?q=Walking+Wake) | N/A |
-| 21 | [HOIL](http://twitter.com/search?q=HOIL) | N/A |
-| 22 | [Buckhead](http://twitter.com/search?q=Buckhead) | N/A |
-| 23 | [Suicune](http://twitter.com/search?q=Suicune) | N/A |
-| 24 | [Maino](http://twitter.com/search?q=Maino) | N/A |
-| 25 | [Beyond the Summit](http://twitter.com/search?q=Beyond+the+Summit) | N/A |
-| 26 | [Iron Leaves](http://twitter.com/search?q=Iron+Leaves) | N/A |
-| 27 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
-| 28 | [Reedy Creek](http://twitter.com/search?q=Reedy+Creek) | N/A |
-| 29 | [Fnatic](http://twitter.com/search?q=Fnatic) | N/A |
-| 30 | [Emilia Clarke](http://twitter.com/search?q=Emilia+Clarke) | N/A |
-| 31 | [Boosie](http://twitter.com/search?q=Boosie) | N/A |
-| 32 | [Scaloni](http://twitter.com/search?q=Scaloni) | N/A |
-| 33 | [Disney World](http://twitter.com/search?q=Disney+World) | N/A |
-| 34 | [Evan White](http://twitter.com/search?q=Evan+White) | N/A |
-| 35 | [Seagal](http://twitter.com/search?q=Seagal) | N/A |
-| 36 | [John Kirby](http://twitter.com/search?q=John+Kirby) | N/A |
-| 37 | [Jake Burger](http://twitter.com/search?q=Jake+Burger) | N/A |
-| 38 | [Don't Say Gay](http://twitter.com/search?q=Don%27t+Say+Gay) | N/A |
-| 39 | [Janet Yellen](http://twitter.com/search?q=Janet+Yellen) | N/A |
-| 40 | [Sedition Panda](http://twitter.com/search?q=Sedition+Panda) | N/A |
-| 41 | [Foles](http://twitter.com/search?q=Foles) | Foles is a surname of English origin. It is derived from the Old English word "fool," which means "a foolish person." The name is most commonly associated with American football quarterback Nick Foles, who currently plays for the Chicago Bears. |
-| 42 | [Bobby McCain](http://twitter.com/search?q=Bobby+McCain) | N/A |
-| 43 | [Extreme MAGA Republicans](http://twitter.com/search?q=Extreme+MAGA+Republicans) | N/A |
-| 44 | [Bryan Cranston](http://twitter.com/search?q=Bryan+Cranston) | N/A |
-| 45 | [Ronny Mauricio](http://twitter.com/search?q=Ronny+Mauricio) | N/A |
-| 46 | [David Hogg](http://twitter.com/search?q=David+Hogg) | N/A |
-| 47 | [Dominican Independence Day](http://twitter.com/search?q=Dominican+Independence+Day) | N/A |
-| 48 | [Player of the Week](http://twitter.com/search?q=Player+of+the+Week) | N/A |
-| 49 | [McCabe](http://twitter.com/search?q=McCabe) | N/A |
+| 14 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
+| 15 | [Jim Acosta](http://twitter.com/search?q=Jim+Acosta) | N/A |
+| 16 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 17 | [#GOGimmighoul](http://twitter.com/search?q=%23GOGimmighoul) | N/A |
+| 18 | [Wesson](http://twitter.com/search?q=Wesson) | N/A |
+| 19 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
+| 20 | [Roman Quinn](http://twitter.com/search?q=Roman+Quinn) | N/A |
+| 21 | [Proud Boys](http://twitter.com/search?q=Proud+Boys) | N/A |
+| 22 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 23 | [DA SLEEZE](http://twitter.com/search?q=DA+SLEEZE) | N/A |
+| 24 | [Nerlens Noel](http://twitter.com/search?q=Nerlens+Noel) | N/A |
+| 25 | [David Stern](http://twitter.com/search?q=David+Stern) | N/A |
+| 26 | [Walking Wake](http://twitter.com/search?q=Walking+Wake) | N/A |
+| 27 | [OUT OF THE WOODS](http://twitter.com/search?q=OUT+OF+THE+WOODS) | N/A |
+| 28 | [1000 ETH](http://twitter.com/search?q=1000+ETH) | N/A |
+| 29 | [Steven Seagal](http://twitter.com/search?q=Steven+Seagal) | N/A |
+| 30 | [Iron Leaves](http://twitter.com/search?q=Iron+Leaves) | N/A |
+| 31 | [PAPER RINGS](http://twitter.com/search?q=PAPER+RINGS) | N/A |
+| 32 | [Sedition Panda](http://twitter.com/search?q=Sedition+Panda) | N/A |
+| 33 | [HOIL](http://twitter.com/search?q=HOIL) | N/A |
+| 34 | [Buckhead](http://twitter.com/search?q=Buckhead) | N/A |
+| 35 | [Reedy Creek](http://twitter.com/search?q=Reedy+Creek) | N/A |
+| 36 | [Emilia Clarke](http://twitter.com/search?q=Emilia+Clarke) | N/A |
+| 37 | [Beyond the Summit](http://twitter.com/search?q=Beyond+the+Summit) | N/A |
+| 38 | [Landlords](http://twitter.com/search?q=Landlords) | N/A |
+| 39 | [Suicune](http://twitter.com/search?q=Suicune) | N/A |
+| 40 | [Yellen](http://twitter.com/search?q=Yellen) | N/A |
+| 41 | [Elam](http://twitter.com/search?q=Elam) | N/A |
+| 42 | [Jake Burger](http://twitter.com/search?q=Jake+Burger) | N/A |
+| 43 | [Don't Say Gay](http://twitter.com/search?q=Don%27t+Say+Gay) | N/A |
+| 44 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
+| 45 | [Maino](http://twitter.com/search?q=Maino) | N/A |
+| 46 | [Scaloni](http://twitter.com/search?q=Scaloni) | N/A |
+| 47 | [Ozempic](http://twitter.com/search?q=Ozempic) | N/A |
+| 48 | [Better Off Dead](http://twitter.com/search?q=Better+Off+Dead) | N/A |
+| 49 | [Extreme MAGA Republicans](http://twitter.com/search?q=Extreme+MAGA+Republicans) | N/A |
 
 
 

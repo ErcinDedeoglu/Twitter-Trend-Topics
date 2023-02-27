@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belfast
 
-📆 Last Updated: `2023-02-27 22:15:40 UTC`
+📆 Last Updated: `2023-02-27 23:16:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | ------- | ------------ | ------------ |
 | 1 | [Claudia](http://twitter.com/search?q=Claudia) | Claudia is a female given name of Latin origin, derived from the Roman clan name Claudius. It means "lame" or "disabled". |
 | 2 | [#Unforgotten](http://twitter.com/search?q=%23Unforgotten) | N/A |
-| 3 | [#UniversityChallenge](http://twitter.com/search?q=%23UniversityChallenge) | #UniversityChallenge is a British quiz show that has been running since 1962. It pits teams of two students from universities across the UK against each other in a series of general knowledge and academic questions. The aim of the game is to answer as many questions correctly as possible in order to win the competition. |
-| 4 | [#onlyconnect](http://twitter.com/search?q=%23onlyconnect) | #onlyconnect is a hashtag used to express the idea of connecting with others, either through social media or in real life. It is often used to encourage people to reach out and build relationships with those around them. |
-| 5 | [#rufc](http://twitter.com/search?q=%23rufc) | N/A |
-| 6 | [#Corrie](http://twitter.com/search?q=%23Corrie) | N/A |
-| 7 | [Swansea](http://twitter.com/search?q=Swansea) | N/A |
-| 8 | [Mary Earps](http://twitter.com/search?q=Mary+Earps) | N/A |
-| 9 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 10 | [Sarina](http://twitter.com/search?q=Sarina) | Sarina is a feminine given name of Italian origin. It is derived from the Latin name Sarah, which means "princess". |
-| 11 | [Alexia](http://twitter.com/search?q=Alexia) | Alexia is a neurological disorder that affects a person's ability to read. It is also known as word blindness or dyslexia. People with Alexia have difficulty understanding written words, even though they may be able to speak and write normally. |
-| 12 | [Keenan](http://twitter.com/search?q=Keenan) | N/A |
-| 13 | [Sunak](http://twitter.com/search?q=Sunak) | N/A |
-| 14 | [Stormont](http://twitter.com/search?q=Stormont) | N/A |
-| 15 | [Beth Mead](http://twitter.com/search?q=Beth+Mead) | Beth Mead is a professional English footballer who plays for Arsenal Women and the England national team. She is known for her speed, agility, and ability to score goals from long range. The name Beth Mead is derived from the Old English word "mead" which means meadow or pasture. |
-| 16 | [Rotherham](http://twitter.com/search?q=Rotherham) | N/A |
-| 17 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
-| 18 | [Steve Baker](http://twitter.com/search?q=Steve+Baker) | N/A |
-| 19 | [Whitney](http://twitter.com/search?q=Whitney) | N/A |
-| 20 | [The DUP](http://twitter.com/search?q=The+DUP) | N/A |
-| 21 | [Lionel Messi](http://twitter.com/search?q=Lionel+Messi) | N/A |
-| 22 | [Piroe](http://twitter.com/search?q=Piroe) | N/A |
-| 23 | [Garth Crooks](http://twitter.com/search?q=Garth+Crooks) | N/A |
-| 24 | [Obasanjo](http://twitter.com/search?q=Obasanjo) | Obasanjo is a Yoruba name meaning "the king has returned". It is the surname of Olusegun Obasanjo, a former Nigerian military leader and two-term president. |
-| 25 | [Nish](http://twitter.com/search?q=Nish) | N/A |
-| 26 | [Fnatic](http://twitter.com/search?q=Fnatic) | N/A |
-| 27 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
-| 28 | [Cloudy](http://twitter.com/search?q=Cloudy) | N/A |
-| 29 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
-| 30 | [Zack](http://twitter.com/search?q=Zack) | N/A |
-| 31 | [Frost](http://twitter.com/search?q=Frost) | N/A |
-| 32 | [Manning](http://twitter.com/search?q=Manning) | N/A |
-| 33 | [Study](http://twitter.com/search?q=Study) | N/A |
-| 34 | [Widnes](http://twitter.com/search?q=Widnes) | N/A |
-| 35 | [Paisley](http://twitter.com/search?q=Paisley) | N/A |
-| 36 | [kevin hart](http://twitter.com/search?q=kevin+hart) | N/A |
-| 37 | [Betty Boothroyd](http://twitter.com/search?q=Betty+Boothroyd) | N/A |
-| 38 | [The EU](http://twitter.com/search?q=The+EU) | N/A |
-| 39 | [Black Eyed Peas](http://twitter.com/search?q=Black+Eyed+Peas) | N/A |
-| 40 | [Irish Sea](http://twitter.com/search?q=Irish+Sea) | N/A |
-| 41 | [Edward VIII](http://twitter.com/search?q=Edward+VIII) | N/A |
-| 42 | [Queen Elizabeth II](http://twitter.com/search?q=Queen+Elizabeth+II) | N/A |
-| 43 | [The ECJ](http://twitter.com/search?q=The+ECJ) | N/A |
-| 44 | [Walking Wake](http://twitter.com/search?q=Walking+Wake) | N/A |
-| 45 | [Noel](http://twitter.com/search?q=Noel) | Noel is a French word meaning "Christmas". It is often used as a greeting during the Christmas season. |
-| 46 | [World Book Day](http://twitter.com/search?q=World+Book+Day) | N/A |
-| 47 | [Iron Leaves](http://twitter.com/search?q=Iron+Leaves) | N/A |
-| 48 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
-| 49 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
-| 50 | [Theresa May](http://twitter.com/search?q=Theresa+May) | N/A |
+| 3 | [#Newsnight](http://twitter.com/search?q=%23Newsnight) | N/A |
+| 4 | [#NorthernLights](http://twitter.com/search?q=%23NorthernLights) | N/A |
+| 5 | [#NZvENG](http://twitter.com/search?q=%23NZvENG) | N/A |
+| 6 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 7 | [Root](http://twitter.com/search?q=Root) | N/A |
+| 8 | [Steve Baker](http://twitter.com/search?q=Steve+Baker) | N/A |
+| 9 | [Swansea](http://twitter.com/search?q=Swansea) | N/A |
+| 10 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 11 | [Brook](http://twitter.com/search?q=Brook) | N/A |
+| 12 | [Mary Earps](http://twitter.com/search?q=Mary+Earps) | N/A |
+| 13 | [Stokes](http://twitter.com/search?q=Stokes) | N/A |
+| 14 | [Sarina](http://twitter.com/search?q=Sarina) | Sarina is a feminine given name of Italian origin. It is derived from the Latin name Sarah, which means "princess". |
+| 15 | [Alexia](http://twitter.com/search?q=Alexia) | Alexia is a neurological disorder that affects a person's ability to read. It is also known as word blindness or dyslexia. People with Alexia have difficulty understanding written words, even though they may be able to speak and write normally. |
+| 16 | [Beth Mead](http://twitter.com/search?q=Beth+Mead) | Beth Mead is a professional English footballer who plays for Arsenal Women and the England national team. She is known for her speed, agility, and ability to score goals from long range. The name Beth Mead is derived from the Old English word "mead" which means meadow or pasture. |
+| 17 | [Stormont](http://twitter.com/search?q=Stormont) | N/A |
+| 18 | [Rotherham](http://twitter.com/search?q=Rotherham) | N/A |
+| 19 | [Sunak](http://twitter.com/search?q=Sunak) | N/A |
+| 20 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 21 | [Sammy Wilson](http://twitter.com/search?q=Sammy+Wilson) | N/A |
+| 22 | [Ollie Pope](http://twitter.com/search?q=Ollie+Pope) | N/A |
+| 23 | [Keenan](http://twitter.com/search?q=Keenan) | N/A |
+| 24 | [Whitney](http://twitter.com/search?q=Whitney) | N/A |
+| 25 | [Garth Crooks](http://twitter.com/search?q=Garth+Crooks) | N/A |
+| 26 | [kevin hart](http://twitter.com/search?q=kevin+hart) | N/A |
+| 27 | [The DUP](http://twitter.com/search?q=The+DUP) | N/A |
+| 28 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
+| 29 | [Lionel Messi](http://twitter.com/search?q=Lionel+Messi) | N/A |
+| 30 | [RCCG](http://twitter.com/search?q=RCCG) | N/A |
+| 31 | [Russell Martin](http://twitter.com/search?q=Russell+Martin) | N/A |
+| 32 | [Piroe](http://twitter.com/search?q=Piroe) | N/A |
+| 33 | [Duckett](http://twitter.com/search?q=Duckett) | N/A |
+| 34 | [Cloudy](http://twitter.com/search?q=Cloudy) | N/A |
+| 35 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
+| 36 | [Nicola Walker](http://twitter.com/search?q=Nicola+Walker) | N/A |
+| 37 | [Cassie](http://twitter.com/search?q=Cassie) | N/A |
+| 38 | [Keira](http://twitter.com/search?q=Keira) | N/A |
+| 39 | [Sunny](http://twitter.com/search?q=Sunny) | N/A |
+| 40 | [Nish](http://twitter.com/search?q=Nish) | N/A |
+| 41 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
+| 42 | [Fnatic](http://twitter.com/search?q=Fnatic) | N/A |
+| 43 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
+| 44 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
+| 45 | [Ian Paisley](http://twitter.com/search?q=Ian+Paisley) | N/A |
+| 46 | [Study](http://twitter.com/search?q=Study) | N/A |
+| 47 | [Obasanjo](http://twitter.com/search?q=Obasanjo) | Obasanjo is a Yoruba name meaning "the king has returned". It is the surname of Olusegun Obasanjo, a former Nigerian military leader and two-term president. |
+| 48 | [Frost](http://twitter.com/search?q=Frost) | N/A |
+| 49 | [Manning](http://twitter.com/search?q=Manning) | N/A |
+| 50 | [Iceland](http://twitter.com/search?q=Iceland) | N/A |
 
 
 

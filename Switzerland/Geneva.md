@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-02-27 22:15:55 UTC`
+📆 Last Updated: `2023-02-27 23:16:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,46 +16,46 @@ This is top 50 for [Switzerland](</Switzerland>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#HRC52](http://twitter.com/search?q=%23HRC52) | N/A |
-| 2 | [#hartaberfair](http://twitter.com/search?q=%23hartaberfair) | #hartaberfair is a German phrase that translates to "fair and square" or "just and fair". It is used to express the idea of fairness and justice in a situation. |
+| 2 | [#gfvip](http://twitter.com/search?q=%23gfvip) | #GFVIP stands for "Good Friends Very Important Person" and is used to refer to someone who is a close friend or an important person in one's life. |
 | 3 | [#Yemen](http://twitter.com/search?q=%23Yemen) | N/A |
-| 4 | [#OMPSG](http://twitter.com/search?q=%23OMPSG) | N/A |
+| 4 | [#hartaberfair](http://twitter.com/search?q=%23hartaberfair) | #hartaberfair is a German phrase that translates to "fair and square" or "just and fair". It is used to express the idea of fairness and justice in a situation. |
 | 5 | [Human Rights Council](http://twitter.com/search?q=Human+Rights+Council) | N/A |
 | 6 | [Asylunterkunft](http://twitter.com/search?q=Asylunterkunft) | N/A |
 | 7 | [Schlein](http://twitter.com/search?q=Schlein) | N/A |
-| 8 | [Fabio Celestini](http://twitter.com/search?q=Fabio+Celestini) | N/A |
-| 9 | [Mieter](http://twitter.com/search?q=Mieter) | N/A |
+| 8 | [fabio celestini](http://twitter.com/search?q=fabio+celestini) | N/A |
+| 9 | [Shame](http://twitter.com/search?q=Shame) | N/A |
 | 10 | [Conference](http://twitter.com/search?q=Conference) | N/A |
-| 11 | [Shame](http://twitter.com/search?q=Shame) | N/A |
-| 12 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
+| 11 | [Kündigung](http://twitter.com/search?q=K%c3%bcndigung) | N/A |
+| 12 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 13 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
-| 14 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 15 | [Almeria](http://twitter.com/search?q=Almeria) | N/A |
-| 16 | [Kündigung](http://twitter.com/search?q=K%c3%bcndigung) | N/A |
+| 14 | [Mieter](http://twitter.com/search?q=Mieter) | N/A |
+| 15 | [Bise](http://twitter.com/search?q=Bise) | N/A |
+| 16 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
 | 17 | [Geneva](http://twitter.com/search?q=Geneva) | N/A |
-| 18 | [Bise](http://twitter.com/search?q=Bise) | N/A |
-| 19 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
-| 20 | [FC Sion](http://twitter.com/search?q=FC+Sion) | N/A |
-| 21 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 22 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 23 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 24 | [Putins](http://twitter.com/search?q=Putins) | N/A |
+| 18 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
+| 19 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
+| 20 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 21 | [FC Sion](http://twitter.com/search?q=FC+Sion) | N/A |
+| 22 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 23 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 24 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
 | 25 | [Pokemon](http://twitter.com/search?q=Pokemon) | N/A |
-| 26 | [Migration](http://twitter.com/search?q=Migration) | N/A |
-| 27 | [SVPler](http://twitter.com/search?q=SVPler) | N/A |
-| 28 | [Tories](http://twitter.com/search?q=Tories) | N/A |
-| 29 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
-| 30 | [Flüchtlinge](http://twitter.com/search?q=Fl%c3%bcchtlinge) | N/A |
+| 26 | [Murgia](http://twitter.com/search?q=Murgia) | Murgia is a geographical region in southern Italy, located in the provinces of Bari and Taranto. It is characterized by its limestone hills, deep ravines, and caves. The name Murgia comes from the Latin word murex, meaning "rocky hill". In English, Murgia can be translated as "rocky land". |
+| 27 | [Putins](http://twitter.com/search?q=Putins) | N/A |
+| 28 | [Migration](http://twitter.com/search?q=Migration) | N/A |
+| 29 | [Geschichten](http://twitter.com/search?q=Geschichten) | N/A |
+| 30 | [SVPler](http://twitter.com/search?q=SVPler) | N/A |
 | 31 | [Menschenrechte](http://twitter.com/search?q=Menschenrechte) | N/A |
-| 32 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
-| 33 | [Fauci](http://twitter.com/search?q=Fauci) | N/A |
-| 34 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 35 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 36 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
-| 37 | [Stuss](http://twitter.com/search?q=Stuss) | N/A |
-| 38 | [Katar](http://twitter.com/search?q=Katar) | N/A |
-| 39 | [Murgia](http://twitter.com/search?q=Murgia) | Murgia is a geographical region in southern Italy, located in the provinces of Bari and Taranto. It is characterized by its limestone hills, deep ravines, and caves. The name Murgia comes from the Latin word murex, meaning "rocky hill". In English, Murgia can be translated as "rocky land". |
-| 40 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 41 | [Ptdrrrrr](http://twitter.com/search?q=Ptdrrrrr) | N/A |
+| 32 | [Fauci](http://twitter.com/search?q=Fauci) | N/A |
+| 33 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
+| 34 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
+| 35 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 36 | [Ptdrrrrr](http://twitter.com/search?q=Ptdrrrrr) | N/A |
+| 37 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 38 | [Flüchtlinge](http://twitter.com/search?q=Fl%c3%bcchtlinge) | N/A |
+| 39 | [Stuss](http://twitter.com/search?q=Stuss) | N/A |
+| 40 | [Katar](http://twitter.com/search?q=Katar) | N/A |
+| 41 | [Bund](http://twitter.com/search?q=Bund) | N/A |
 | 42 | [Wachstum](http://twitter.com/search?q=Wachstum) | N/A |
 | 43 | [Timo Meier](http://twitter.com/search?q=Timo+Meier) | N/A |
 | 44 | [Strategie](http://twitter.com/search?q=Strategie) | N/A |

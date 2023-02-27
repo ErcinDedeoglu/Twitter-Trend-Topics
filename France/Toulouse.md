@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Toulouse
 
-📆 Last Updated: `2023-02-27 22:15:50 UTC`
+📆 Last Updated: `2023-02-27 23:16:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,52 @@ This is top 50 for [France](</France>)
 | ------- | ------------ | ------------ |
 | 1 | [#neige](http://twitter.com/search?q=%23neige) | N/A |
 | 2 | [Payet](http://twitter.com/search?q=Payet) | Payet is a French surname. It is derived from the Old French word "paie," which means "payment." In English, it can be translated to mean "one who pays." |
-| 3 | [#ASCFCGB](http://twitter.com/search?q=%23ASCFCGB) | N/A |
-| 4 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
-| 5 | [Puskas](http://twitter.com/search?q=Puskas) | N/A |
-| 6 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
-| 7 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
-| 8 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 9 | [Guion](http://twitter.com/search?q=Guion) | N/A |
-| 10 | [#Avenir](http://twitter.com/search?q=%23Avenir) | N/A |
-| 11 | [Fransergio](http://twitter.com/search?q=Fransergio) | N/A |
+| 3 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
+| 4 | [#ASCFCGB](http://twitter.com/search?q=%23ASCFCGB) | N/A |
+| 5 | [#Avenir](http://twitter.com/search?q=%23Avenir) | N/A |
+| 6 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 7 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 8 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 9 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
+| 10 | [Puskas](http://twitter.com/search?q=Puskas) | N/A |
+| 11 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
 | 12 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
-| 13 | [Mwanga](http://twitter.com/search?q=Mwanga) | N/A |
-| 14 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
-| 15 | [#BETCrypto](http://twitter.com/search?q=%23BETCrypto) | N/A |
-| 16 | [Amiens](http://twitter.com/search?q=Amiens) | N/A |
-| 17 | [Lacoux](http://twitter.com/search?q=Lacoux) | N/A |
-| 18 | [Maja](http://twitter.com/search?q=Maja) | N/A |
-| 19 | [Bakwa](http://twitter.com/search?q=Bakwa) | N/A |
-| 20 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
-| 21 | [Nsimba](http://twitter.com/search?q=Nsimba) | N/A |
-| 22 | [Michelin](http://twitter.com/search?q=Michelin) | N/A |
-| 23 | [Aziliz](http://twitter.com/search?q=Aziliz) | N/A |
-| 24 | [Pitu](http://twitter.com/search?q=Pitu) | N/A |
-| 25 | [Badji](http://twitter.com/search?q=Badji) | N/A |
-| 26 | [Balkany](http://twitter.com/search?q=Balkany) | N/A |
-| 27 | [Ignatenko](http://twitter.com/search?q=Ignatenko) | N/A |
-| 28 | [Mendy](http://twitter.com/search?q=Mendy) | Mendy is a diminutive form of the name Mendel, which is a Hebrew name meaning "little man". It can also be used as a nickname for someone named Mendel or as an independent given name. |
-| 29 | [Scaloni](http://twitter.com/search?q=Scaloni) | N/A |
-| 30 | [Sambou](http://twitter.com/search?q=Sambou) | N/A |
-| 31 | [Shay](http://twitter.com/search?q=Shay) | N/A |
+| 13 | [Fransergio](http://twitter.com/search?q=Fransergio) | N/A |
+| 14 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 15 | [Mwanga](http://twitter.com/search?q=Mwanga) | N/A |
+| 16 | [Guion](http://twitter.com/search?q=Guion) | N/A |
+| 17 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
+| 18 | [#BETCrypto](http://twitter.com/search?q=%23BETCrypto) | N/A |
+| 19 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
+| 20 | [Amiens](http://twitter.com/search?q=Amiens) | N/A |
+| 21 | [Aziliz](http://twitter.com/search?q=Aziliz) | N/A |
+| 22 | [Lacoux](http://twitter.com/search?q=Lacoux) | N/A |
+| 23 | [Pitu](http://twitter.com/search?q=Pitu) | N/A |
+| 24 | [Maja](http://twitter.com/search?q=Maja) | N/A |
+| 25 | [Michelin](http://twitter.com/search?q=Michelin) | N/A |
+| 26 | [Bakwa](http://twitter.com/search?q=Bakwa) | N/A |
+| 27 | [Balkany](http://twitter.com/search?q=Balkany) | N/A |
+| 28 | [Badji](http://twitter.com/search?q=Badji) | N/A |
+| 29 | [Nsimba](http://twitter.com/search?q=Nsimba) | N/A |
+| 30 | [Scaloni](http://twitter.com/search?q=Scaloni) | N/A |
+| 31 | [Sambou](http://twitter.com/search?q=Sambou) | N/A |
 | 32 | [Nabil](http://twitter.com/search?q=Nabil) | N/A |
-| 33 | [Gregersen](http://twitter.com/search?q=Gregersen) | N/A |
-| 34 | [Ethnicité](http://twitter.com/search?q=Ethnicit%c3%a9) | N/A |
-| 35 | [Raymond](http://twitter.com/search?q=Raymond) | N/A |
-| 36 | [Lionel Messi](http://twitter.com/search?q=Lionel+Messi) | N/A |
-| 37 | [Guy Savoy](http://twitter.com/search?q=Guy+Savoy) | N/A |
-| 38 | [Samy](http://twitter.com/search?q=Samy) | N/A |
-| 39 | [Argentine](http://twitter.com/search?q=Argentine) | N/A |
-| 40 | [Pétain](http://twitter.com/search?q=P%c3%a9tain) | N/A |
-| 41 | [Bono](http://twitter.com/search?q=Bono) | N/A |
-| 42 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
-| 43 | [Palomba](http://twitter.com/search?q=Palomba) | N/A |
-| 44 | [Suicune](http://twitter.com/search?q=Suicune) | N/A |
-| 45 | [Pokémon](http://twitter.com/search?q=Pok%c3%a9mon) | N/A |
-| 46 | [Hilona](http://twitter.com/search?q=Hilona) | N/A |
-| 47 | [Ballon](http://twitter.com/search?q=Ballon) | N/A |
-| 48 | [Leris](http://twitter.com/search?q=Leris) | N/A |
+| 33 | [Mendy](http://twitter.com/search?q=Mendy) | Mendy is a diminutive form of the name Mendel, which is a Hebrew name meaning "little man". It can also be used as a nickname for someone named Mendel or as an independent given name. |
+| 34 | [Ignatenko](http://twitter.com/search?q=Ignatenko) | N/A |
+| 35 | [Ethnicité](http://twitter.com/search?q=Ethnicit%c3%a9) | N/A |
+| 36 | [Pétain](http://twitter.com/search?q=P%c3%a9tain) | N/A |
+| 37 | [Gregersen](http://twitter.com/search?q=Gregersen) | N/A |
+| 38 | [Shay](http://twitter.com/search?q=Shay) | N/A |
+| 39 | [Makoto Shinkai](http://twitter.com/search?q=Makoto+Shinkai) | N/A |
+| 40 | [Bono](http://twitter.com/search?q=Bono) | N/A |
+| 41 | [Samy](http://twitter.com/search?q=Samy) | N/A |
+| 42 | [Guy Savoy](http://twitter.com/search?q=Guy+Savoy) | N/A |
+| 43 | [Militao](http://twitter.com/search?q=Militao) | Militão is a Portuguese name derived from the Latin word militare, meaning “to serve in the military”. In English, it can be translated to mean “soldier” or “warrior”. |
+| 44 | [Fally](http://twitter.com/search?q=Fally) | N/A |
+| 45 | [Raymond](http://twitter.com/search?q=Raymond) | N/A |
+| 46 | [Ballon](http://twitter.com/search?q=Ballon) | N/A |
+| 47 | [Argentine](http://twitter.com/search?q=Argentine) | N/A |
+| 48 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
 
 
 

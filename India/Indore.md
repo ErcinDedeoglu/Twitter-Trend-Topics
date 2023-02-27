@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indore
 
-📆 Last Updated: `2023-02-27 22:16:14 UTC`
+📆 Last Updated: `2023-02-27 23:16:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -30,41 +30,41 @@ This is top 50 for [India](</India>)
 | 13 | [सदा याद](http://twitter.com/search?q=%e0%a4%b8%e0%a4%a6%e0%a4%be+%e0%a4%af%e0%a4%be%e0%a4%a6) | N/A |
 | 14 | [नानाजी देशमुख](http://twitter.com/search?q=%e0%a4%a8%e0%a4%be%e0%a4%a8%e0%a4%be%e0%a4%9c%e0%a5%80+%e0%a4%a6%e0%a5%87%e0%a4%b6%e0%a4%ae%e0%a5%81%e0%a4%96) | N/A |
 | 15 | [भारतीय स्वतंत्रता संग्राम](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%a4%e0%a4%be+%e0%a4%b8%e0%a4%82%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 16 | [भारत रत्न](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4+%e0%a4%b0%e0%a4%a4%e0%a5%8d%e0%a4%a8) | भारत रत्न (Bharat Ratna) is the highest civilian award of India, given for exceptional service towards advancement of Art, Literature and Science, and in recognition of Public Service of the highest order. The literal meaning of Bharat Ratna in English is "Jewel of India". |
-| 17 | [नेहरू पार्क](http://twitter.com/search?q=%e0%a4%a8%e0%a5%87%e0%a4%b9%e0%a4%b0%e0%a5%82+%e0%a4%aa%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%95) | N/A |
-| 18 | [आम आदमी पार्टी](http://twitter.com/search?q=%e0%a4%86%e0%a4%ae+%e0%a4%86%e0%a4%a6%e0%a4%ae%e0%a5%80+%e0%a4%aa%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9f%e0%a5%80) | N/A |
-| 19 | [रंगा बिल्ला](http://twitter.com/search?q=%e0%a4%b0%e0%a4%82%e0%a4%97%e0%a4%be+%e0%a4%ac%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a4%be) | N/A |
-| 20 | [Emi Martinez](http://twitter.com/search?q=Emi+Martinez) | N/A |
+| 16 | [नेहरू पार्क](http://twitter.com/search?q=%e0%a4%a8%e0%a5%87%e0%a4%b9%e0%a4%b0%e0%a5%82+%e0%a4%aa%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%95) | N/A |
+| 17 | [Emi Martinez](http://twitter.com/search?q=Emi+Martinez) | N/A |
+| 18 | [भारत रत्न](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4+%e0%a4%b0%e0%a4%a4%e0%a5%8d%e0%a4%a8) | भारत रत्न (Bharat Ratna) is the highest civilian award of India, given for exceptional service towards advancement of Art, Literature and Science, and in recognition of Public Service of the highest order. The literal meaning of Bharat Ratna in English is "Jewel of India". |
+| 19 | [आम आदमी पार्टी](http://twitter.com/search?q=%e0%a4%86%e0%a4%ae+%e0%a4%86%e0%a4%a6%e0%a4%ae%e0%a5%80+%e0%a4%aa%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9f%e0%a5%80) | N/A |
+| 20 | [रंगा बिल्ला](http://twitter.com/search?q=%e0%a4%b0%e0%a4%82%e0%a4%97%e0%a4%be+%e0%a4%ac%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a4%be) | N/A |
 | 21 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
-| 22 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
-| 23 | [दारू मंत्री](http://twitter.com/search?q=%e0%a4%a6%e0%a4%be%e0%a4%b0%e0%a5%82+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 24 | [PRIYANKIT X DMF SOON](http://twitter.com/search?q=PRIYANKIT+X+DMF+SOON) | N/A |
-| 25 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
-| 26 | [The Greatest](http://twitter.com/search?q=The+Greatest) | N/A |
+| 22 | [दारू मंत्री](http://twitter.com/search?q=%e0%a4%a6%e0%a4%be%e0%a4%b0%e0%a5%82+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
+| 23 | [PRIYANKIT X DMF SOON](http://twitter.com/search?q=PRIYANKIT+X+DMF+SOON) | N/A |
+| 24 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
+| 25 | [The Greatest](http://twitter.com/search?q=The+Greatest) | N/A |
+| 26 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
 | 27 | [Almost 3Yrs SSRJustice Pending](http://twitter.com/search?q=Almost+3Yrs+SSRJustice+Pending) | N/A |
 | 28 | [Sushant A Perfectionist](http://twitter.com/search?q=Sushant+A+Perfectionist) | N/A |
 | 29 | [Best Film](http://twitter.com/search?q=Best+Film) | N/A |
-| 30 | [संजय सिंह](http://twitter.com/search?q=%e0%a4%b8%e0%a4%82%e0%a4%9c%e0%a4%af+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9) | N/A |
-| 31 | [Shah Satnam Ji Maharaj](http://twitter.com/search?q=Shah+Satnam+Ji+Maharaj) | N/A |
+| 30 | [shah satnam ji maharaj](http://twitter.com/search?q=shah+satnam+ji+maharaj) | N/A |
+| 31 | [Worst Film](http://twitter.com/search?q=Worst+Film) | N/A |
 | 32 | [भगत सिंह](http://twitter.com/search?q=%e0%a4%ad%e0%a4%97%e0%a4%a4+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9) | N/A |
-| 33 | [Worst Film](http://twitter.com/search?q=Worst+Film) | N/A |
-| 34 | [Underrated Film](http://twitter.com/search?q=Underrated+Film) | N/A |
+| 33 | [Underrated Film](http://twitter.com/search?q=Underrated+Film) | N/A |
+| 34 | [Overrated Film](http://twitter.com/search?q=Overrated+Film) | N/A |
 | 35 | [The Kashmir Files](http://twitter.com/search?q=The+Kashmir+Files) | N/A |
-| 36 | [मंत्री जेल](http://twitter.com/search?q=%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%9c%e0%a5%87%e0%a4%b2) | N/A |
-| 37 | [एवेन्यू कोर्ट](http://twitter.com/search?q=%e0%a4%8f%e0%a4%b5%e0%a5%87%e0%a4%a8%e0%a5%8d%e0%a4%af%e0%a5%82+%e0%a4%95%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%9f) | N/A |
-| 38 | [Overrated Film](http://twitter.com/search?q=Overrated+Film) | N/A |
-| 39 | [अरविंद केजरीवाल](http://twitter.com/search?q=%e0%a4%85%e0%a4%b0%e0%a4%b5%e0%a4%bf%e0%a4%82%e0%a4%a6+%e0%a4%95%e0%a5%87%e0%a4%9c%e0%a4%b0%e0%a5%80%e0%a4%b5%e0%a4%be%e0%a4%b2) | N/A |
-| 40 | [Belagavi](http://twitter.com/search?q=Belagavi) | N/A |
-| 41 | [राजस्थान केसरी](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be%e0%a4%a8+%e0%a4%95%e0%a5%87%e0%a4%b8%e0%a4%b0%e0%a5%80) | N/A |
+| 36 | [एवेन्यू कोर्ट](http://twitter.com/search?q=%e0%a4%8f%e0%a4%b5%e0%a5%87%e0%a4%a8%e0%a5%8d%e0%a4%af%e0%a5%82+%e0%a4%95%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%9f) | N/A |
+| 37 | [संजय सिंह](http://twitter.com/search?q=%e0%a4%b8%e0%a4%82%e0%a4%9c%e0%a4%af+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9) | N/A |
+| 38 | [अरविंद केजरीवाल](http://twitter.com/search?q=%e0%a4%85%e0%a4%b0%e0%a4%b5%e0%a4%bf%e0%a4%82%e0%a4%a6+%e0%a4%95%e0%a5%87%e0%a4%9c%e0%a4%b0%e0%a5%80%e0%a4%b5%e0%a4%be%e0%a4%b2) | N/A |
+| 39 | [Belagavi](http://twitter.com/search?q=Belagavi) | N/A |
+| 40 | [राजस्थान केसरी](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be%e0%a4%a8+%e0%a4%95%e0%a5%87%e0%a4%b8%e0%a4%b0%e0%a5%80) | N/A |
+| 41 | [मंत्री जेल](http://twitter.com/search?q=%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%9c%e0%a5%87%e0%a4%b2) | N/A |
 | 42 | [21 YEARS OF KARANVIR SHARMA](http://twitter.com/search?q=21+YEARS+OF+KARANVIR+SHARMA) | N/A |
 | 43 | [easy health tips](http://twitter.com/search?q=easy+health+tips) | N/A |
 | 44 | [swasthya labh](http://twitter.com/search?q=swasthya+labh) | N/A |
-| 45 | [Jail](http://twitter.com/search?q=Jail) | N/A |
-| 46 | [जेल जाना](http://twitter.com/search?q=%e0%a4%9c%e0%a5%87%e0%a4%b2+%e0%a4%9c%e0%a4%be%e0%a4%a8%e0%a4%be) | N/A |
-| 47 | [Sharab](http://twitter.com/search?q=Sharab) | N/A |
-| 48 | [महान स्वतंत्रता सेनानी](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%a4%e0%a4%be+%e0%a4%b8%e0%a5%87%e0%a4%a8%e0%a4%be%e0%a4%a8%e0%a5%80) | N/A |
+| 45 | [प्रथम राष्ट्रपति](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a5%e0%a4%ae+%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a4%aa%e0%a4%a4%e0%a4%bf) | N/A |
+| 46 | [Sharab](http://twitter.com/search?q=Sharab) | N/A |
+| 47 | [महान स्वतंत्रता सेनानी](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%a4%e0%a4%be+%e0%a4%b8%e0%a5%87%e0%a4%a8%e0%a4%be%e0%a4%a8%e0%a5%80) | N/A |
+| 48 | [Jail](http://twitter.com/search?q=Jail) | N/A |
 | 49 | [अरबाज़ पुलिस](http://twitter.com/search?q=%e0%a4%85%e0%a4%b0%e0%a4%ac%e0%a4%be%e0%a4%9c%e0%a4%bc+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
-| 50 | [शिक्षा क्रांति](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be+%e0%a4%95%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%82%e0%a4%a4%e0%a4%bf) | N/A |
+| 50 | [जेल जाना](http://twitter.com/search?q=%e0%a4%9c%e0%a5%87%e0%a4%b2+%e0%a4%9c%e0%a4%be%e0%a4%a8%e0%a4%be) | N/A |
 
 
 

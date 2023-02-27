@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tokyo
 
-📆 Last Updated: `2023-02-27 22:16:00 UTC`
+📆 Last Updated: `2023-02-27 23:16:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ちょうどいいラジオ](http://twitter.com/search?q=%23%e3%81%a1%e3%82%87%e3%81%86%e3%81%a9%e3%81%84%e3%81%84%e3%83%a9%e3%82%b8%e3%82%aa) | N/A |
-| 2 | [#ワンモ](http://twitter.com/search?q=%23%e3%83%af%e3%83%b3%e3%83%a2) | N/A |
-| 3 | [最高気温](http://twitter.com/search?q=%e6%9c%80%e9%ab%98%e6%b0%97%e6%b8%a9) | 最高気温 (saikou kion) is the highest temperature of the day. It is the highest temperature recorded in a given area over a 24-hour period. In English, it is referred to as the "high temperature" or "maximum temperature". |
-| 4 | [#キョコロヒー](http://twitter.com/search?q=%23%e3%82%ad%e3%83%a7%e3%82%b3%e3%83%ad%e3%83%92%e3%83%bc) | #キョコロヒー is a Japanese hashtag that translates to "Let's go!" It is often used to express enthusiasm and excitement. |
-| 5 | [生理用品](http://twitter.com/search?q=%e7%94%9f%e7%90%86%e7%94%a8%e5%93%81) | N/A |
-| 6 | [クワガノン](http://twitter.com/search?q=%e3%82%af%e3%83%af%e3%82%ac%e3%83%8e%e3%83%b3) | N/A |
-| 7 | [ネロリ博士](http://twitter.com/search?q=%e3%83%8d%e3%83%ad%e3%83%aa%e5%8d%9a%e5%a3%ab) | N/A |
-| 8 | [BWリメイク](http://twitter.com/search?q=BW%e3%83%aa%e3%83%a1%e3%82%a4%e3%82%af) | N/A |
-| 9 | [#Paradise](http://twitter.com/search?q=%23Paradise) | N/A |
-| 10 | [#PokemonPresents](http://twitter.com/search?q=%23PokemonPresents) | N/A |
-| 11 | [水ドラゴン](http://twitter.com/search?q=%e6%b0%b4%e3%83%89%e3%83%a9%e3%82%b4%e3%83%b3) | N/A |
-| 12 | [パルデア](http://twitter.com/search?q=%e3%83%91%e3%83%ab%e3%83%87%e3%82%a2) | N/A |
-| 13 | [ジュゴン](http://twitter.com/search?q=%e3%82%b8%e3%83%a5%e3%82%b4%e3%83%b3) | N/A |
-| 14 | [ブルーベリー学園](http://twitter.com/search?q=%e3%83%96%e3%83%ab%e3%83%bc%e3%83%99%e3%83%aa%e3%83%bc%e5%ad%a6%e5%9c%92) | N/A |
-| 15 | [追加DLC](http://twitter.com/search?q=%e8%bf%bd%e5%8a%a0DLC) | N/A |
-| 16 | [藍の円盤](http://twitter.com/search?q=%e8%97%8d%e3%81%ae%e5%86%86%e7%9b%a4) | N/A |
-| 17 | [バスコショット](http://twitter.com/search?q=%e3%83%90%e3%82%b9%e3%82%b3%e3%82%b7%e3%83%a7%e3%83%83%e3%83%88) | N/A |
-| 18 | [ホップくん](http://twitter.com/search?q=%e3%83%9b%e3%83%83%e3%83%97%e3%81%8f%e3%82%93) | N/A |
-| 19 | [浦島太郎](http://twitter.com/search?q=%e6%b5%a6%e5%b3%b6%e5%a4%aa%e9%83%8e) | N/A |
-| 20 | [きらファン](http://twitter.com/search?q=%e3%81%8d%e3%82%89%e3%83%95%e3%82%a1%e3%83%b3) | N/A |
-| 21 | [ビートくん](http://twitter.com/search?q=%e3%83%93%e3%83%bc%e3%83%88%e3%81%8f%e3%82%93) | N/A |
-| 22 | [アルセウス](http://twitter.com/search?q=%e3%82%a2%e3%83%ab%e3%82%bb%e3%82%a6%e3%82%b9) | アルセウス (Aruseusu) is a character from Greek mythology. He was the son of Zeus and the Titaness Metis, and was known for his strength and intelligence. In English, his name is often translated as "Alcaeus" or "Alceus". |
-| 23 | [ビビヨン](http://twitter.com/search?q=%e3%83%93%e3%83%93%e3%83%a8%e3%83%b3) | N/A |
-| 24 | [春の陽気](http://twitter.com/search?q=%e6%98%a5%e3%81%ae%e9%99%bd%e6%b0%97) | N/A |
-| 25 | [ウネルミナモ](http://twitter.com/search?q=%e3%82%a6%e3%83%8d%e3%83%ab%e3%83%9f%e3%83%8a%e3%83%a2) | N/A |
-| 26 | [スイクン](http://twitter.com/search?q=%e3%82%b9%e3%82%a4%e3%82%af%e3%83%b3) | N/A |
-| 27 | [ポケモン](http://twitter.com/search?q=%e3%83%9d%e3%82%b1%e3%83%a2%e3%83%b3) | N/A |
-| 28 | [イイネイヌ](http://twitter.com/search?q=%e3%82%a4%e3%82%a4%e3%83%8d%e3%82%a4%e3%83%8c) | N/A |
-| 29 | [ビスケットの日](http://twitter.com/search?q=%e3%83%93%e3%82%b9%e3%82%b1%e3%83%83%e3%83%88%e3%81%ae%e6%97%a5) | N/A |
-| 30 | [テラピース節約](http://twitter.com/search?q=%e3%83%86%e3%83%a9%e3%83%94%e3%83%bc%e3%82%b9%e7%af%80%e7%b4%84) | N/A |
-| 31 | [ハエの幼虫](http://twitter.com/search?q=%e3%83%8f%e3%82%a8%e3%81%ae%e5%b9%bc%e8%99%ab) | N/A |
-| 32 | [恭平くん](http://twitter.com/search?q=%e6%81%ad%e5%b9%b3%e3%81%8f%e3%82%93) | N/A |
-| 33 | [第403回](http://twitter.com/search?q=%e7%ac%ac403%e5%9b%9e) | N/A |
-| 34 | [NAVI](http://twitter.com/search?q=NAVI) | N/A |
-| 35 | [ZIPさん](http://twitter.com/search?q=ZIP%e3%81%95%e3%82%93) | N/A |
-| 36 | [未公開シーン](http://twitter.com/search?q=%e6%9c%aa%e5%85%ac%e9%96%8b%e3%82%b7%e3%83%bc%e3%83%b3) | N/A |
-| 37 | [ANAのセール](http://twitter.com/search?q=ANA%e3%81%ae%e3%82%bb%e3%83%bc%e3%83%ab) | N/A |
-| 38 | [ツイステ](http://twitter.com/search?q=%e3%83%84%e3%82%a4%e3%82%b9%e3%83%86) | N/A |
-| 39 | [ミロカロス](http://twitter.com/search?q=%e3%83%9f%e3%83%ad%e3%82%ab%e3%83%ad%e3%82%b9) | N/A |
-| 40 | [Fnatic](http://twitter.com/search?q=Fnatic) | N/A |
-| 41 | [林間学校](http://twitter.com/search?q=%e6%9e%97%e9%96%93%e5%ad%a6%e6%a0%a1) | N/A |
-| 42 | [ヒスイゾロアーク](http://twitter.com/search?q=%e3%83%92%e3%82%b9%e3%82%a4%e3%82%be%e3%83%ad%e3%82%a2%e3%83%bc%e3%82%af) | N/A |
-| 43 | [マホイップ](http://twitter.com/search?q=%e3%83%9e%e3%83%9b%e3%82%a4%e3%83%83%e3%83%97) | N/A |
-| 44 | [テラパゴス](http://twitter.com/search?q=%e3%83%86%e3%83%a9%e3%83%91%e3%82%b4%e3%82%b9) | N/A |
-| 45 | [題の答え](http://twitter.com/search?q=%e9%a1%8c%e3%81%ae%e7%ad%94%e3%81%88) | N/A |
-| 46 | [メタグロス](http://twitter.com/search?q=%e3%83%a1%e3%82%bf%e3%82%b0%e3%83%ad%e3%82%b9) | N/A |
-| 47 | [スカーレット](http://twitter.com/search?q=%e3%82%b9%e3%82%ab%e3%83%bc%e3%83%ac%e3%83%83%e3%83%88) | スカーレット (sukaaretto) is a shade of red in Japanese. It is similar to the English word "scarlet" and is often used to describe a deep, bright red color. |
-| 48 | [エルフーン](http://twitter.com/search?q=%e3%82%a8%e3%83%ab%e3%83%95%e3%83%bc%e3%83%b3) | N/A |
-| 49 | [オーガポン](http://twitter.com/search?q=%e3%82%aa%e3%83%bc%e3%82%ac%e3%83%9d%e3%83%b3) | N/A |
-| 50 | [鬼丸国綱](http://twitter.com/search?q=%e9%ac%bc%e4%b8%b8%e5%9b%bd%e7%b6%b1) | N/A |
+| 1 | [#ワンモ](http://twitter.com/search?q=%23%e3%83%af%e3%83%b3%e3%83%a2) | N/A |
+| 2 | [#愛車に言われた事集](http://twitter.com/search?q=%23%e6%84%9b%e8%bb%8a%e3%81%ab%e8%a8%80%e3%82%8f%e3%82%8c%e3%81%9f%e4%ba%8b%e9%9b%86) | N/A |
+| 3 | [#まちゃお765](http://twitter.com/search?q=%23%e3%81%be%e3%81%a1%e3%82%83%e3%81%8a765) | N/A |
+| 4 | [#きららファンタジア](http://twitter.com/search?q=%23%e3%81%8d%e3%82%89%e3%82%89%e3%83%95%e3%82%a1%e3%83%b3%e3%82%bf%e3%82%b8%e3%82%a2) | N/A |
+| 5 | [キュウコン](http://twitter.com/search?q=%e3%82%ad%e3%83%a5%e3%82%a6%e3%82%b3%e3%83%b3) | N/A |
+| 6 | [#萩原利久誕生祭2023](http://twitter.com/search?q=%23%e8%90%a9%e5%8e%9f%e5%88%a9%e4%b9%85%e8%aa%95%e7%94%9f%e7%a5%ad2023) | N/A |
+| 7 | [キタカミの里](http://twitter.com/search?q=%e3%82%ad%e3%82%bf%e3%82%ab%e3%83%9f%e3%81%ae%e9%87%8c) | N/A |
+| 8 | [ハイドロスチーム](http://twitter.com/search?q=%e3%83%8f%e3%82%a4%e3%83%89%e3%83%ad%e3%82%b9%e3%83%81%e3%83%bc%e3%83%a0) | N/A |
+| 9 | [バイオレット](http://twitter.com/search?q=%e3%83%90%e3%82%a4%e3%82%aa%e3%83%ac%e3%83%83%e3%83%88) | バイオレット is a shade of purple in Japanese. In English, it is translated as "violet". |
+| 10 | [不二先輩](http://twitter.com/search?q=%e4%b8%8d%e4%ba%8c%e5%85%88%e8%bc%a9) | N/A |
+| 11 | [マレウス](http://twitter.com/search?q=%e3%83%9e%e3%83%ac%e3%82%a6%e3%82%b9) | N/A |
+| 12 | [春の陽気](http://twitter.com/search?q=%e6%98%a5%e3%81%ae%e9%99%bd%e6%b0%97) | N/A |
+| 13 | [ロアルドロス](http://twitter.com/search?q=%e3%83%ad%e3%82%a2%e3%83%ab%e3%83%89%e3%83%ad%e3%82%b9) | N/A |
+| 14 | [ポケカクラシック](http://twitter.com/search?q=%e3%83%9d%e3%82%b1%e3%82%ab%e3%82%af%e3%83%a9%e3%82%b7%e3%83%83%e3%82%af) | N/A |
+| 15 | [ヴァンダル](http://twitter.com/search?q=%e3%83%b4%e3%82%a1%e3%83%b3%e3%83%80%e3%83%ab) | N/A |
+| 16 | [碧の仮面](http://twitter.com/search?q=%e7%a2%a7%e3%81%ae%e4%bb%ae%e9%9d%a2) | N/A |
+| 17 | [日本の誇り](http://twitter.com/search?q=%e6%97%a5%e6%9c%ac%e3%81%ae%e8%aa%87%e3%82%8a) | N/A |
+| 18 | [追加DLC](http://twitter.com/search?q=%e8%bf%bd%e5%8a%a0DLC) | N/A |
+| 19 | [イイネイヌ](http://twitter.com/search?q=%e3%82%a4%e3%82%a4%e3%83%8d%e3%82%a4%e3%83%8c) | N/A |
+| 20 | [ウネルミナモ](http://twitter.com/search?q=%e3%82%a6%e3%83%8d%e3%83%ab%e3%83%9f%e3%83%8a%e3%83%a2) | N/A |
+| 21 | [ビスケットの日](http://twitter.com/search?q=%e3%83%93%e3%82%b9%e3%82%b1%e3%83%83%e3%83%88%e3%81%ae%e6%97%a5) | N/A |
+| 22 | [スイクン](http://twitter.com/search?q=%e3%82%b9%e3%82%a4%e3%82%af%e3%83%b3) | N/A |
+| 23 | [ハエの幼虫](http://twitter.com/search?q=%e3%83%8f%e3%82%a8%e3%81%ae%e5%b9%bc%e8%99%ab) | N/A |
+| 24 | [テラピース節約](http://twitter.com/search?q=%e3%83%86%e3%83%a9%e3%83%94%e3%83%bc%e3%82%b9%e7%af%80%e7%b4%84) | N/A |
+| 25 | [ポケモン](http://twitter.com/search?q=%e3%83%9d%e3%82%b1%e3%83%a2%e3%83%b3) | N/A |
+| 26 | [恭平くん](http://twitter.com/search?q=%e6%81%ad%e5%b9%b3%e3%81%8f%e3%82%93) | N/A |
+| 27 | [ゲートガーディアン](http://twitter.com/search?q=%e3%82%b2%e3%83%bc%e3%83%88%e3%82%ac%e3%83%bc%e3%83%87%e3%82%a3%e3%82%a2%e3%83%b3) | N/A |
+| 28 | [第403回](http://twitter.com/search?q=%e7%ac%ac403%e5%9b%9e) | N/A |
+| 29 | [テツノイサハ](http://twitter.com/search?q=%e3%83%86%e3%83%84%e3%83%8e%e3%82%a4%e3%82%b5%e3%83%8f) | N/A |
+| 30 | [金網のハンモック](http://twitter.com/search?q=%e9%87%91%e7%b6%b2%e3%81%ae%e3%83%8f%e3%83%b3%e3%83%a2%e3%83%83%e3%82%af) | N/A |
+| 31 | [ANAのセール](http://twitter.com/search?q=ANA%e3%81%ae%e3%82%bb%e3%83%bc%e3%83%ab) | N/A |
+| 32 | [はまっする](http://twitter.com/search?q=%e3%81%af%e3%81%be%e3%81%a3%e3%81%99%e3%82%8b) | N/A |
+| 33 | [ZIPさん](http://twitter.com/search?q=ZIP%e3%81%95%e3%82%93) | N/A |
+| 34 | [ツイステ](http://twitter.com/search?q=%e3%83%84%e3%82%a4%e3%82%b9%e3%83%86) | N/A |
+| 35 | [最高気温19度](http://twitter.com/search?q=%e6%9c%80%e9%ab%98%e6%b0%97%e6%b8%a919%e5%ba%a6) | N/A |
+| 36 | [鬼丸国綱](http://twitter.com/search?q=%e9%ac%bc%e4%b8%b8%e5%9b%bd%e7%b6%b1) | N/A |
+| 37 | [題の答え](http://twitter.com/search?q=%e9%a1%8c%e3%81%ae%e7%ad%94%e3%81%88) | N/A |
+| 38 | [追加コンテンツ](http://twitter.com/search?q=%e8%bf%bd%e5%8a%a0%e3%82%b3%e3%83%b3%e3%83%86%e3%83%b3%e3%83%84) | N/A |
+| 39 | [テスト最終日](http://twitter.com/search?q=%e3%83%86%e3%82%b9%e3%83%88%e6%9c%80%e7%b5%82%e6%97%a5) | N/A |
+| 40 | [未公開シーン](http://twitter.com/search?q=%e6%9c%aa%e5%85%ac%e9%96%8b%e3%82%b7%e3%83%bc%e3%83%b3) | N/A |
+| 41 | [小堺さん](http://twitter.com/search?q=%e5%b0%8f%e5%a0%ba%e3%81%95%e3%82%93) | N/A |
+| 42 | [XP4000](http://twitter.com/search?q=XP4000) | N/A |
+| 43 | [滝沢歌舞伎](http://twitter.com/search?q=%e6%bb%9d%e6%b2%a2%e6%ad%8c%e8%88%9e%e4%bc%8e) | 滝沢歌舞伎 (Takizawa Kabuki) is a traditional form of Japanese theater that combines music, dance, and drama. It originated in the Edo period (1603-1868) and is still performed today. The name comes from the Takizawa district of Tokyo, where it was first performed. In English, it can be translated as "Takizawa Kabuki Theater". |
+| 44 | [ユンケル](http://twitter.com/search?q=%e3%83%a6%e3%83%b3%e3%82%b1%e3%83%ab) | N/A |
+| 45 | [宮田くんCM](http://twitter.com/search?q=%e5%ae%ae%e7%94%b0%e3%81%8f%e3%82%93CM) | N/A |
+| 46 | [山添さん](http://twitter.com/search?q=%e5%b1%b1%e6%b7%bb%e3%81%95%e3%82%93) | 山添さん is a Japanese honorific title used to refer to someone who is respected or admired. It can be translated as "Mr. Yamazoe" or "Mr. Respectable". |
+| 47 | [NAVI](http://twitter.com/search?q=NAVI) | N/A |
+| 48 | [光石さん](http://twitter.com/search?q=%e5%85%89%e7%9f%b3%e3%81%95%e3%82%93) | N/A |
+| 49 | [G20欠席](http://twitter.com/search?q=G20%e6%ac%a0%e5%b8%ad) | N/A |
+| 50 | [ほっしゃん](http://twitter.com/search?q=%e3%81%bb%e3%81%a3%e3%81%97%e3%82%83%e3%82%93) | N/A |
 
 
 

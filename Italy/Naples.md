@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Naples
 
-📆 Last Updated: `2023-02-27 22:15:52 UTC`
+📆 Last Updated: `2023-02-27 23:16:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Italy](</Italy>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Giulia](http://twitter.com/search?q=Giulia) | N/A |
-| 2 | [Maurizio](http://twitter.com/search?q=Maurizio) | N/A |
+| 2 | [Murgia](http://twitter.com/search?q=Murgia) | Murgia is a geographical region in southern Italy, located in the provinces of Bari and Taranto. It is characterized by its limestone hills, deep ravines, and caves. The name Murgia comes from the Latin word murex, meaning "rocky hill". In English, Murgia can be translated as "rocky land". |
 | 3 | [#fiorisopralinferno](http://twitter.com/search?q=%23fiorisopralinferno) | N/A |
-| 4 | [#GFVIPParty](http://twitter.com/search?q=%23GFVIPParty) | N/A |
-| 5 | [Murgia](http://twitter.com/search?q=Murgia) | Murgia is a geographical region in southern Italy, located in the provinces of Bari and Taranto. It is characterized by its limestone hills, deep ravines, and caves. The name Murgia comes from the Latin word murex, meaning "rocky hill". In English, Murgia can be translated as "rocky land". |
-| 6 | [#LazioSamp](http://twitter.com/search?q=%23LazioSamp) | N/A |
-| 7 | [Orietta](http://twitter.com/search?q=Orietta) | Orietta is an Italian female name derived from the Latin word "aurum" meaning "gold". It is also a variant of the name Oriana, which means "dawn". |
-| 8 | [#presadiretta](http://twitter.com/search?q=%23presadiretta) | N/A |
-| 9 | [#QuartaRepubblica](http://twitter.com/search?q=%23QuartaRepubblica) | N/A |
-| 10 | [Donnamaria](http://twitter.com/search?q=Donnamaria) | N/A |
-| 11 | [Luis Alberto](http://twitter.com/search?q=Luis+Alberto) | N/A |
-| 12 | [Osvaldo](http://twitter.com/search?q=Osvaldo) | N/A |
-| 13 | [EdoD](http://twitter.com/search?q=EdoD) | EdoD is an acronym for "Edo Digital", which is a Japanese digital media company. It specializes in creating content for mobile devices, such as apps, games, and videos. The company was founded in 2012 and is based in Tokyo. |
+| 4 | [Daniele](http://twitter.com/search?q=Daniele) | N/A |
+| 5 | [Orietta](http://twitter.com/search?q=Orietta) | Orietta is an Italian female name derived from the Latin word "aurum" meaning "gold". It is also a variant of the name Oriana, which means "dawn". |
+| 6 | [#GFVIPParty](http://twitter.com/search?q=%23GFVIPParty) | N/A |
+| 7 | [EdoD](http://twitter.com/search?q=EdoD) | EdoD is an acronym for "Edo Digital", which is a Japanese digital media company. It specializes in creating content for mobile devices, such as apps, games, and videos. The company was founded in 2012 and is based in Tokyo. |
+| 8 | [#LazioSamp](http://twitter.com/search?q=%23LazioSamp) | N/A |
+| 9 | [#staseratuttoèpossibile](http://twitter.com/search?q=%23staseratutto%c3%a8possibile) | N/A |
+| 10 | [#presadiretta](http://twitter.com/search?q=%23presadiretta) | N/A |
+| 11 | [Osvaldo](http://twitter.com/search?q=Osvaldo) | N/A |
+| 12 | [Luis Alberto](http://twitter.com/search?q=Luis+Alberto) | N/A |
+| 13 | [Gianluca](http://twitter.com/search?q=Gianluca) | N/A |
 | 14 | [Donnalisi](http://twitter.com/search?q=Donnalisi) | N/A |
-| 15 | [Biraghi](http://twitter.com/search?q=Biraghi) | N/A |
+| 15 | [Forum](http://twitter.com/search?q=Forum) | N/A |
 | 16 | [Vittimella](http://twitter.com/search?q=Vittimella) | N/A |
-| 17 | [Antonino e Ginevra](http://twitter.com/search?q=Antonino+e+Ginevra) | N/A |
-| 18 | [Alex Sandro](http://twitter.com/search?q=Alex+Sandro) | Alex Sandro is a Brazilian professional footballer who plays for Italian club Juventus and the Brazil national team. His full name is Alex Sandro Lobo Silva. He primarily plays as a left-back, but can also play as a left winger. In English, his name means "Protector of Man". |
-| 19 | [Renato](http://twitter.com/search?q=Renato) | Renato is an Italian name meaning "reborn" or "renewed". It is derived from the Latin word renatus, which means "born again". |
-| 20 | [Giancarlo](http://twitter.com/search?q=Giancarlo) | N/A |
-| 21 | [Casarini](http://twitter.com/search?q=Casarini) | N/A |
-| 22 | [Forum](http://twitter.com/search?q=Forum) | N/A |
-| 23 | [Patty](http://twitter.com/search?q=Patty) | Patty is a slang term for a hamburger patty, which is a flat, round piece of ground meat that is cooked and served between two slices of bread. |
-| 24 | [Immobile](http://twitter.com/search?q=Immobile) | N/A |
-| 25 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
-| 26 | [Vespa](http://twitter.com/search?q=Vespa) | N/A |
-| 27 | [Bucciantini](http://twitter.com/search?q=Bucciantini) | N/A |
-| 28 | [Grecia](http://twitter.com/search?q=Grecia) | N/A |
-| 29 | [Enrico](http://twitter.com/search?q=Enrico) | N/A |
+| 17 | [Elena Sofia Ricci](http://twitter.com/search?q=Elena+Sofia+Ricci) | N/A |
+| 18 | [Biraghi](http://twitter.com/search?q=Biraghi) | N/A |
+| 19 | [Edobau](http://twitter.com/search?q=Edobau) | N/A |
+| 20 | [Casarini](http://twitter.com/search?q=Casarini) | N/A |
+| 21 | [Immobile](http://twitter.com/search?q=Immobile) | N/A |
+| 22 | [Alex Sandro](http://twitter.com/search?q=Alex+Sandro) | Alex Sandro is a Brazilian professional footballer who plays for Italian club Juventus and the Brazil national team. His full name is Alex Sandro Lobo Silva. He primarily plays as a left-back, but can also play as a left winger. In English, his name means "Protector of Man". |
+| 23 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
+| 24 | [Cassano](http://twitter.com/search?q=Cassano) | N/A |
+| 25 | [Bucciantini](http://twitter.com/search?q=Bucciantini) | N/A |
+| 26 | [Grecia](http://twitter.com/search?q=Grecia) | N/A |
+| 27 | [Vespa](http://twitter.com/search?q=Vespa) | N/A |
+| 28 | [Enrico](http://twitter.com/search?q=Enrico) | N/A |
+| 29 | [Prodi](http://twitter.com/search?q=Prodi) | N/A |
 | 30 | [Saviano](http://twitter.com/search?q=Saviano) | N/A |
-| 31 | [Prodi](http://twitter.com/search?q=Prodi) | N/A |
-| 32 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
-| 33 | [Marotta](http://twitter.com/search?q=Marotta) | N/A |
-| 34 | [Berlinguer](http://twitter.com/search?q=Berlinguer) | N/A |
-| 35 | [#Piantedosi](http://twitter.com/search?q=%23Piantedosi) | N/A |
-| 36 | [#staseratuttoepossibile](http://twitter.com/search?q=%23staseratuttoepossibile) | N/A |
-| 37 | [#IoStoConAmodeo](http://twitter.com/search?q=%23IoStoConAmodeo) | N/A |
-| 38 | [#staseraitalia](http://twitter.com/search?q=%23staseraitalia) | N/A |
-| 39 | [#LittleBigItaly](http://twitter.com/search?q=%23LittleBigItaly) | N/A |
-| 40 | [#Caressa](http://twitter.com/search?q=%23Caressa) | N/A |
-| 41 | [#VeronaFiorentina](http://twitter.com/search?q=%23VeronaFiorentina) | N/A |
-| 42 | [#FreedomItalia1](http://twitter.com/search?q=%23FreedomItalia1) | N/A |
-| 43 | [#DontForgetTheLyrics](http://twitter.com/search?q=%23DontForgetTheLyrics) | N/A |
-| 44 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 45 | [#Bocchino](http://twitter.com/search?q=%23Bocchino) | N/A |
+| 31 | [Marotta](http://twitter.com/search?q=Marotta) | N/A |
+| 32 | [#QuartaRepubblica](http://twitter.com/search?q=%23QuartaRepubblica) | N/A |
+| 33 | [#Piantedosi](http://twitter.com/search?q=%23Piantedosi) | N/A |
+| 34 | [#LittleBigItaly](http://twitter.com/search?q=%23LittleBigItaly) | N/A |
+| 35 | [#IoStoConAmodeo](http://twitter.com/search?q=%23IoStoConAmodeo) | N/A |
+| 36 | [#FreedomItalia1](http://twitter.com/search?q=%23FreedomItalia1) | N/A |
+| 37 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 38 | [#Caressa](http://twitter.com/search?q=%23Caressa) | N/A |
+| 39 | [#denzzzers](http://twitter.com/search?q=%23denzzzers) | N/A |
+| 40 | [#Sarri](http://twitter.com/search?q=%23Sarri) | N/A |
+| 41 | [#Bocchino](http://twitter.com/search?q=%23Bocchino) | N/A |
+| 42 | [#VeronaFiorentina](http://twitter.com/search?q=%23VeronaFiorentina) | N/A |
+| 43 | [#murgette](http://twitter.com/search?q=%23murgette) | N/A |
+| 44 | [#GrandeFratello](http://twitter.com/search?q=%23GrandeFratello) | N/A |
+| 45 | [#ilcavalloelatorre](http://twitter.com/search?q=%23ilcavalloelatorre) | N/A |
 | 46 | [#CinqueMinuti](http://twitter.com/search?q=%23CinqueMinuti) | N/A |
-| 47 | [#ilcavalloelatorre](http://twitter.com/search?q=%23ilcavalloelatorre) | N/A |
-| 48 | [#Fioroni](http://twitter.com/search?q=%23Fioroni) | N/A |
-| 49 | [#Schelin](http://twitter.com/search?q=%23Schelin) | N/A |
-| 50 | [#AddioPD](http://twitter.com/search?q=%23AddioPD) | N/A |
+| 47 | [#staseraitalia](http://twitter.com/search?q=%23staseraitalia) | N/A |
+| 48 | [#Tavassi](http://twitter.com/search?q=%23Tavassi) | N/A |
+| 49 | [#AddioPD](http://twitter.com/search?q=%23AddioPD) | N/A |
+| 50 | [#vergogna](http://twitter.com/search?q=%23vergogna) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Multan
 
-📆 Last Updated: `2023-02-27 22:16:11 UTC`
+📆 Last Updated: `2023-02-27 23:16:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,49 +21,49 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 4 | [#شٹرڈاون_ہڑتال_27_فروری](http://twitter.com/search?q=%23%d8%b4%d9%b9%d8%b1%da%88%d8%a7%d9%88%d9%86_%db%81%da%91%d8%aa%d8%a7%d9%84_27_%d9%81%d8%b1%d9%88%d8%b1%db%8c) | N/A |
 | 5 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
 | 6 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
-| 7 | [Lahore Qalandars](http://twitter.com/search?q=Lahore+Qalandars) | N/A |
-| 8 | [Lt Gen](http://twitter.com/search?q=Lt+Gen) | N/A |
-| 9 | [Abdullah Shafique](http://twitter.com/search?q=Abdullah+Shafique) | N/A |
-| 10 | [Rashid](http://twitter.com/search?q=Rashid) | N/A |
-| 11 | [Fakhar Zaman](http://twitter.com/search?q=Fakhar+Zaman) | Fakhar Zaman is a Pakistani cricketer who plays for the Pakistan national cricket team. His name means "pride" in English. |
-| 12 | [Wiese](http://twitter.com/search?q=Wiese) | N/A |
-| 13 | [Tom Curran](http://twitter.com/search?q=Tom+Curran) | N/A |
-| 14 | [tayyab tahir](http://twitter.com/search?q=tayyab+tahir) | N/A |
-| 15 | [Credit](http://twitter.com/search?q=Credit) | N/A |
-| 16 | [Haris Rauf](http://twitter.com/search?q=Haris+Rauf) | N/A |
-| 17 | [Saim Ayub](http://twitter.com/search?q=Saim+Ayub) | N/A |
-| 18 | [Hassan](http://twitter.com/search?q=Hassan) | N/A |
-| 19 | [Prince of Karbala](http://twitter.com/search?q=Prince+of+Karbala) | N/A |
-| 20 | [PM Imran Khan](http://twitter.com/search?q=PM+Imran+Khan) | N/A |
-| 21 | [Wealth](http://twitter.com/search?q=Wealth) | Wealth is an abundance of valuable resources or material possessions. It can refer to money, investments, real estate, and other tangible and intangible assets. Wealth is often used to measure a person's financial standing or social status. |
-| 22 | [Abrar](http://twitter.com/search?q=Abrar) | N/A |
-| 23 | [Islamabad](http://twitter.com/search?q=Islamabad) | N/A |
-| 24 | [Pashtoon](http://twitter.com/search?q=Pashtoon) | N/A |
-| 25 | [Come to DM](http://twitter.com/search?q=Come+to+DM) | N/A |
-| 26 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 27 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 7 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 8 | [Lahore Qalandars](http://twitter.com/search?q=Lahore+Qalandars) | N/A |
+| 9 | [Lt Gen](http://twitter.com/search?q=Lt+Gen) | N/A |
+| 10 | [Abdullah Shafique](http://twitter.com/search?q=Abdullah+Shafique) | N/A |
+| 11 | [Rashid](http://twitter.com/search?q=Rashid) | N/A |
+| 12 | [fakhar zaman](http://twitter.com/search?q=fakhar+zaman) | N/A |
+| 13 | [Wiese](http://twitter.com/search?q=Wiese) | N/A |
+| 14 | [Tom Curran](http://twitter.com/search?q=Tom+Curran) | N/A |
+| 15 | [tayyab tahir](http://twitter.com/search?q=tayyab+tahir) | N/A |
+| 16 | [Credit](http://twitter.com/search?q=Credit) | N/A |
+| 17 | [Haris Rauf](http://twitter.com/search?q=Haris+Rauf) | N/A |
+| 18 | [Saim Ayub](http://twitter.com/search?q=Saim+Ayub) | N/A |
+| 19 | [Heya](http://twitter.com/search?q=Heya) | N/A |
+| 20 | [Hassan](http://twitter.com/search?q=Hassan) | N/A |
+| 21 | [Prince of Karbala](http://twitter.com/search?q=Prince+of+Karbala) | N/A |
+| 22 | [PM Imran Khan](http://twitter.com/search?q=PM+Imran+Khan) | N/A |
+| 23 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 24 | [Wealth](http://twitter.com/search?q=Wealth) | Wealth is an abundance of valuable resources or material possessions. It can refer to money, investments, real estate, and other tangible and intangible assets. Wealth is often used to measure a person's financial standing or social status. |
+| 25 | [Your DM](http://twitter.com/search?q=Your+DM) | N/A |
+| 26 | [Abrar](http://twitter.com/search?q=Abrar) | N/A |
+| 27 | [Pashtuns](http://twitter.com/search?q=Pashtuns) | N/A |
 | 28 | [Kindly](http://twitter.com/search?q=Kindly) | N/A |
-| 29 | [Heya](http://twitter.com/search?q=Heya) | N/A |
-| 30 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
-| 31 | [Pakistan Army](http://twitter.com/search?q=Pakistan+Army) | N/A |
-| 32 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
-| 33 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 34 | [Inbox](http://twitter.com/search?q=Inbox) | N/A |
-| 35 | [Check DM](http://twitter.com/search?q=Check+DM) | N/A |
-| 36 | [Best of Luck](http://twitter.com/search?q=Best+of+Luck) | N/A |
-| 37 | [Munro](http://twitter.com/search?q=Munro) | N/A |
-| 38 | [Punjabis](http://twitter.com/search?q=Punjabis) | N/A |
-| 39 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
-| 40 | [Prettiest](http://twitter.com/search?q=Prettiest) | N/A |
-| 41 | [Your DM](http://twitter.com/search?q=Your+DM) | N/A |
-| 42 | [Saad](http://twitter.com/search?q=Saad) | N/A |
-| 43 | [University](http://twitter.com/search?q=University) | N/A |
-| 44 | [Heyy](http://twitter.com/search?q=Heyy) | N/A |
-| 45 | [Brave](http://twitter.com/search?q=Brave) | N/A |
-| 46 | [Sum Ameen](http://twitter.com/search?q=Sum+Ameen) | N/A |
-| 47 | [Slide](http://twitter.com/search?q=Slide) | N/A |
-| 48 | [Amen](http://twitter.com/search?q=Amen) | N/A |
-| 49 | [Adil Raja](http://twitter.com/search?q=Adil+Raja) | N/A |
+| 29 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 30 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 31 | [Inbox](http://twitter.com/search?q=Inbox) | N/A |
+| 32 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
+| 33 | [Check DM](http://twitter.com/search?q=Check+DM) | N/A |
+| 34 | [Heyy](http://twitter.com/search?q=Heyy) | N/A |
+| 35 | [Come to Dm](http://twitter.com/search?q=Come+to+Dm) | N/A |
+| 36 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 37 | [Slide](http://twitter.com/search?q=Slide) | N/A |
+| 38 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
+| 39 | [University](http://twitter.com/search?q=University) | N/A |
+| 40 | [Saad](http://twitter.com/search?q=Saad) | N/A |
+| 41 | [Amen](http://twitter.com/search?q=Amen) | N/A |
+| 42 | [Adil Raja](http://twitter.com/search?q=Adil+Raja) | N/A |
+| 43 | [Bhai](http://twitter.com/search?q=Bhai) | N/A |
+| 44 | [Count](http://twitter.com/search?q=Count) | N/A |
+| 45 | [The King](http://twitter.com/search?q=The+King) | N/A |
+| 46 | [Spain](http://twitter.com/search?q=Spain) | N/A |
+| 47 | [Dropped](http://twitter.com/search?q=Dropped) | N/A |
+| 48 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 49 | [INSANE](http://twitter.com/search?q=INSANE) | N/A |
 
 
 
