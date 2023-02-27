@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For United Kingdom
 
-📆 Last Updated: `2023-02-27 13:21:34 UTC`
+📆 Last Updated: `2023-02-27 14:16:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for United Kingdom
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Betty Boothroyd](http://twitter.com/search?q=Betty+Boothroyd) | N/A |
-| 2 | [Speaker](http://twitter.com/search?q=Speaker) | Speaker is a person who speaks in public, usually to an audience. It can also refer to the device used to amplify sound, such as a loudspeaker. |
-| 3 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
-| 4 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 5 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
+| 2 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
+| 3 | [Speaker](http://twitter.com/search?q=Speaker) | Speaker is a person who speaks in public, usually to an audience. It can also refer to the device used to amplify sound, such as a loudspeaker. |
+| 4 | [King](http://twitter.com/search?q=King) | In English, "king" is a title given to a male monarch, usually the ruler of a kingdom or empire. It is also used as a term of endearment for someone who is seen as having great power or influence. |
+| 5 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
 | 6 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 7 | [King](http://twitter.com/search?q=King) | In English, "king" is a title given to a male monarch, usually the ruler of a kingdom or empire. It is also used as a term of endearment for someone who is seen as having great power or influence. |
-| 8 | [#electionresults2023](http://twitter.com/search?q=%23electionresults2023) | N/A |
-| 9 | [Baroness Boothroyd](http://twitter.com/search?q=Baroness+Boothroyd) | N/A |
+| 7 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
+| 8 | [Baroness Boothroyd](http://twitter.com/search?q=Baroness+Boothroyd) | N/A |
+| 9 | [#electionresults2023](http://twitter.com/search?q=%23electionresults2023) | N/A |
 | 10 | [#WorldBookDay](http://twitter.com/search?q=%23WorldBookDay) | N/A |
 | 11 | [#RequestABetRewards](http://twitter.com/search?q=%23RequestABetRewards) | N/A |
 | 12 | [Ursula](http://twitter.com/search?q=Ursula) | N/A |
-| 13 | [Ofgem](http://twitter.com/search?q=Ofgem) | N/A |
-| 14 | [Orubebe](http://twitter.com/search?q=Orubebe) | N/A |
-| 15 | [Steve Baker](http://twitter.com/search?q=Steve+Baker) | N/A |
-| 16 | [Plateau](http://twitter.com/search?q=Plateau) | N/A |
-| 17 | [Northern Lights](http://twitter.com/search?q=Northern+Lights) | N/A |
-| 18 | [Labour MPs](http://twitter.com/search?q=Labour+MPs) | N/A |
-| 19 | [Windsor](http://twitter.com/search?q=Windsor) | N/A |
-| 20 | [Gazza](http://twitter.com/search?q=Gazza) | N/A |
-| 21 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
-| 22 | [RACE WEEK](http://twitter.com/search?q=RACE+WEEK) | N/A |
-| 23 | [Noel Gallagher](http://twitter.com/search?q=Noel+Gallagher) | N/A |
-| 24 | [Energy Price Guarantee](http://twitter.com/search?q=Energy+Price+Guarantee) | N/A |
-| 25 | [Banky](http://twitter.com/search?q=Banky) | N/A |
-| 26 | [Tinubu](http://twitter.com/search?q=Tinubu) | N/A |
-| 27 | [Sanwo Olu](http://twitter.com/search?q=Sanwo+Olu) | N/A |
-| 28 | [Sitter](http://twitter.com/search?q=Sitter) | N/A |
-| 29 | [World Book Week](http://twitter.com/search?q=World+Book+Week) | N/A |
-| 30 | [Rachel Reeves](http://twitter.com/search?q=Rachel+Reeves) | N/A |
-| 31 | [Matt Hancock](http://twitter.com/search?q=Matt+Hancock) | Matt Hancock is the current Secretary of State for Health and Social Care in the United Kingdom. He is responsible for leading the government's response to the coronavirus pandemic. The phrase "Matt Hancock" is used to refer to him and his role in government. |
-| 32 | [Daily Quordle 399](http://twitter.com/search?q=Daily+Quordle+399) | N/A |
-| 33 | [On Friday](http://twitter.com/search?q=On+Friday) | N/A |
-| 34 | [The Queen](http://twitter.com/search?q=The+Queen) | N/A |
-| 35 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
-| 36 | [Universal Credit](http://twitter.com/search?q=Universal+Credit) | N/A |
+| 13 | [Steve Baker](http://twitter.com/search?q=Steve+Baker) | N/A |
+| 14 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
+| 15 | [Ofgem](http://twitter.com/search?q=Ofgem) | N/A |
+| 16 | [Queen](http://twitter.com/search?q=Queen) | N/A |
+| 17 | [Sarah Jane](http://twitter.com/search?q=Sarah+Jane) | N/A |
+| 18 | [Plateau](http://twitter.com/search?q=Plateau) | N/A |
+| 19 | [Northern Lights](http://twitter.com/search?q=Northern+Lights) | N/A |
+| 20 | [Noel Gallagher](http://twitter.com/search?q=Noel+Gallagher) | N/A |
+| 21 | [Labour MPs](http://twitter.com/search?q=Labour+MPs) | N/A |
+| 22 | [Windsor](http://twitter.com/search?q=Windsor) | N/A |
+| 23 | [Tennant](http://twitter.com/search?q=Tennant) | N/A |
+| 24 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
+| 25 | [Orubebe](http://twitter.com/search?q=Orubebe) | N/A |
+| 26 | [Robyn](http://twitter.com/search?q=Robyn) | Robyn is a female given name of English origin, derived from the Old Germanic name Hrodebert, meaning "bright fame". It is also a variant spelling of the name Robin. |
+| 27 | [Jamaica](http://twitter.com/search?q=Jamaica) | N/A |
+| 28 | [Sanwo Olu](http://twitter.com/search?q=Sanwo+Olu) | N/A |
+| 29 | [Energy Price Guarantee](http://twitter.com/search?q=Energy+Price+Guarantee) | N/A |
+| 30 | [Gazza](http://twitter.com/search?q=Gazza) | N/A |
+| 31 | [Tinubu](http://twitter.com/search?q=Tinubu) | N/A |
+| 32 | [Matt Hancock](http://twitter.com/search?q=Matt+Hancock) | Matt Hancock is the current Secretary of State for Health and Social Care in the United Kingdom. He is responsible for leading the government's response to the coronavirus pandemic. The phrase "Matt Hancock" is used to refer to him and his role in government. |
+| 33 | [Blood](http://twitter.com/search?q=Blood) | N/A |
+| 34 | [Northern Ireland Protocol](http://twitter.com/search?q=Northern+Ireland+Protocol) | N/A |
+| 35 | [ITS RACE WEEK](http://twitter.com/search?q=ITS+RACE+WEEK) | N/A |
+| 36 | [On Friday](http://twitter.com/search?q=On+Friday) | N/A |
 | 37 | [England and Wales](http://twitter.com/search?q=England+and+Wales) | N/A |
-| 38 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
+| 38 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
 | 39 | [Monarchy](http://twitter.com/search?q=Monarchy) | N/A |
-| 40 | [Governor](http://twitter.com/search?q=Governor) | N/A |
-| 41 | [Ekiti](http://twitter.com/search?q=Ekiti) | N/A |
-| 42 | [New IRA](http://twitter.com/search?q=New+IRA) | N/A |
-| 43 | [Wordle 618 X](http://twitter.com/search?q=Wordle+618+X) | N/A |
-| 44 | [Atiku](http://twitter.com/search?q=Atiku) | N/A |
-| 45 | [The ERG](http://twitter.com/search?q=The+ERG) | N/A |
-| 46 | [Peter Kay](http://twitter.com/search?q=Peter+Kay) | N/A |
-| 47 | [Mark Francois](http://twitter.com/search?q=Mark+Francois) | N/A |
-| 48 | [Yoruba](http://twitter.com/search?q=Yoruba) | N/A |
-| 49 | [Miggy](http://twitter.com/search?q=Miggy) | N/A |
-| 50 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
+| 40 | [Banky W](http://twitter.com/search?q=Banky+W) | N/A |
+| 41 | [Universal Credit](http://twitter.com/search?q=Universal+Credit) | N/A |
+| 42 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
+| 43 | [Silverstone](http://twitter.com/search?q=Silverstone) | N/A |
+| 44 | [Daily Quordle 399](http://twitter.com/search?q=Daily+Quordle+399) | N/A |
+| 45 | [New IRA](http://twitter.com/search?q=New+IRA) | N/A |
+| 46 | [Governor](http://twitter.com/search?q=Governor) | N/A |
+| 47 | [Atiku](http://twitter.com/search?q=Atiku) | N/A |
+| 48 | [Whitby](http://twitter.com/search?q=Whitby) | N/A |
+| 49 | [The ERG](http://twitter.com/search?q=The+ERG) | N/A |
+| 50 | [Mark Francois](http://twitter.com/search?q=Mark+Francois) | N/A |
 
 
 

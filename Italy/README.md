@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Italy
 
-📆 Last Updated: `2023-02-27 13:21:30 UTC`
+📆 Last Updated: `2023-02-27 14:16:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,46 +15,50 @@ This is top 50 for Italy
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Schlein](http://twitter.com/search?q=Schlein) | N/A |
+| 1 | [#Verissimo](http://twitter.com/search?q=%23Verissimo) | N/A |
 | 2 | [#addiopd](http://twitter.com/search?q=%23addiopd) | N/A |
-| 3 | [Fioroni](http://twitter.com/search?q=Fioroni) | N/A |
-| 4 | [#27febbraio](http://twitter.com/search?q=%2327febbraio) | N/A |
-| 5 | [#lariachetira](http://twitter.com/search?q=%23lariachetira) | N/A |
-| 6 | [Renzi](http://twitter.com/search?q=Renzi) | N/A |
-| 7 | [Pippo Franco](http://twitter.com/search?q=Pippo+Franco) | N/A |
-| 8 | [Enrico](http://twitter.com/search?q=Enrico) | N/A |
-| 9 | [#twittamibeautiful](http://twitter.com/search?q=%23twittamibeautiful) | N/A |
-| 10 | [Bonaccini](http://twitter.com/search?q=Bonaccini) | N/A |
-| 11 | [lercio](http://twitter.com/search?q=lercio) | N/A |
-| 12 | [#TerzoPolo](http://twitter.com/search?q=%23TerzoPolo) | N/A |
-| 13 | [Adinolfi](http://twitter.com/search?q=Adinolfi) | N/A |
-| 14 | [Il PD](http://twitter.com/search?q=Il+PD) | N/A |
-| 15 | [Franceschini](http://twitter.com/search?q=Franceschini) | N/A |
+| 3 | [#DueVitePLATINO](http://twitter.com/search?q=%23DueVitePLATINO) | N/A |
+| 4 | [Schlein](http://twitter.com/search?q=Schlein) | N/A |
+| 5 | [Caressa](http://twitter.com/search?q=Caressa) | N/A |
+| 6 | [Fioroni](http://twitter.com/search?q=Fioroni) | N/A |
+| 7 | [#ore14](http://twitter.com/search?q=%23ore14) | N/A |
+| 8 | [#MaurizioCostanzo](http://twitter.com/search?q=%23MaurizioCostanzo) | N/A |
+| 9 | [Renzi](http://twitter.com/search?q=Renzi) | N/A |
+| 10 | [Lercio](http://twitter.com/search?q=Lercio) | N/A |
+| 11 | [enrico](http://twitter.com/search?q=enrico) | N/A |
+| 12 | [Pippo Franco](http://twitter.com/search?q=Pippo+Franco) | N/A |
+| 13 | [Bonaccini](http://twitter.com/search?q=Bonaccini) | N/A |
+| 14 | [Adinolfi](http://twitter.com/search?q=Adinolfi) | N/A |
+| 15 | [Il PD](http://twitter.com/search?q=Il+PD) | N/A |
 | 16 | [Grecia](http://twitter.com/search?q=Grecia) | N/A |
-| 17 | [Turchia](http://twitter.com/search?q=Turchia) | N/A |
-| 18 | [Sala](http://twitter.com/search?q=Sala) | N/A |
-| 19 | [Zingaretti](http://twitter.com/search?q=Zingaretti) | N/A |
-| 20 | [Letta](http://twitter.com/search?q=Letta) | N/A |
-| 21 | [Vedremo](http://twitter.com/search?q=Vedremo) | N/A |
-| 22 | [RACE WEEK](http://twitter.com/search?q=RACE+WEEK) | N/A |
+| 17 | [Franceschini](http://twitter.com/search?q=Franceschini) | N/A |
+| 18 | [Turchia](http://twitter.com/search?q=Turchia) | N/A |
+| 19 | [Orlando](http://twitter.com/search?q=Orlando) | Orlando is a city in the U.S. state of Florida. It is the county seat of Orange County and the center of the Greater Orlando metropolitan area. The name "Orlando" is derived from the Italian phrase "orare labore," which means "to pray and work." |
+| 20 | [Zingaretti](http://twitter.com/search?q=Zingaretti) | N/A |
+| 21 | [Sala](http://twitter.com/search?q=Sala) | N/A |
+| 22 | [Letta](http://twitter.com/search?q=Letta) | N/A |
 | 23 | [Boccia](http://twitter.com/search?q=Boccia) | N/A |
-| 24 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 25 | [Sinistra](http://twitter.com/search?q=Sinistra) | N/A |
-| 26 | [Orlando](http://twitter.com/search?q=Orlando) | Orlando is a city in the U.S. state of Florida. It is the county seat of Orange County and the center of the Greater Orlando metropolitan area. The name "Orlando" is derived from the Italian phrase "orare labore," which means "to pray and work." |
-| 27 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
-| 28 | [Ditta](http://twitter.com/search?q=Ditta) | N/A |
-| 29 | [Svizzera](http://twitter.com/search?q=Svizzera) | N/A |
-| 30 | [Partito Democratico](http://twitter.com/search?q=Partito+Democratico) | N/A |
-| 31 | [Marotta](http://twitter.com/search?q=Marotta) | N/A |
-| 32 | [Hojlund](http://twitter.com/search?q=Hojlund) | N/A |
-| 33 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
-| 34 | [#Piantedosi](http://twitter.com/search?q=%23Piantedosi) | N/A |
-| 35 | [#LaTerraDiCaino](http://twitter.com/search?q=%23LaTerraDiCaino) | N/A |
-| 36 | [#primarie2023](http://twitter.com/search?q=%23primarie2023) | N/A |
-| 37 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
-| 38 | [#SAGAwards](http://twitter.com/search?q=%23SAGAwards) | N/A |
-| 39 | [#Cutro](http://twitter.com/search?q=%23Cutro) | N/A |
-| 40 | [#VivaRai2](http://twitter.com/search?q=%23VivaRai2) | N/A |
+| 24 | [Sinistra](http://twitter.com/search?q=Sinistra) | N/A |
+| 25 | [Vedremo](http://twitter.com/search?q=Vedremo) | N/A |
+| 26 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
+| 27 | [Svizzera](http://twitter.com/search?q=Svizzera) | N/A |
+| 28 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
+| 29 | [Marotta](http://twitter.com/search?q=Marotta) | N/A |
+| 30 | [#PokemonPresents](http://twitter.com/search?q=%23PokemonPresents) | N/A |
+| 31 | [#27febbraio](http://twitter.com/search?q=%2327febbraio) | N/A |
+| 32 | [#Piantedosi](http://twitter.com/search?q=%23Piantedosi) | N/A |
+| 33 | [#lariachetira](http://twitter.com/search?q=%23lariachetira) | N/A |
+| 34 | [#twittamibeautiful](http://twitter.com/search?q=%23twittamibeautiful) | N/A |
+| 35 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
+| 36 | [#Pogba](http://twitter.com/search?q=%23Pogba) | N/A |
+| 37 | [#TerzoPolo](http://twitter.com/search?q=%23TerzoPolo) | N/A |
+| 38 | [#LaTerraDiCaino](http://twitter.com/search?q=%23LaTerraDiCaino) | N/A |
+| 39 | [#primarie2023](http://twitter.com/search?q=%23primarie2023) | N/A |
+| 40 | [#Cutro](http://twitter.com/search?q=%23Cutro) | N/A |
+| 41 | [#PartitoDemocratico](http://twitter.com/search?q=%23PartitoDemocratico) | N/A |
+| 42 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
+| 43 | [#SAGAwards](http://twitter.com/search?q=%23SAGAwards) | N/A |
+| 44 | [#VivaRai2](http://twitter.com/search?q=%23VivaRai2) | N/A |
 
 
 

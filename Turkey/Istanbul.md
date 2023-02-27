@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Istanbul
 
-📆 Last Updated: `2023-02-27 13:21:18 UTC`
+📆 Last Updated: `2023-02-27 14:16:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [HÜKÜMET İSTİFA](http://twitter.com/search?q=H%c3%9cK%c3%9cMET+%c4%b0ST%c4%b0FA) | N/A |
-| 2 | [Türkiye İşçi Partisi](http://twitter.com/search?q=T%c3%bcrkiye+%c4%b0%c5%9f%c3%a7i+Partisi) | N/A |
-| 3 | [#Galatasaray](http://twitter.com/search?q=%23Galatasaray) | #Galatasaray is the name of a Turkish sports club based in Istanbul. The name translates to "Galata Palace" in English, referring to the Galata district of Istanbul where the club was founded in 1905. |
-| 4 | [Fenerbahçe'ye](http://twitter.com/search?q=Fenerbah%c3%a7e%27ye) | N/A |
-| 5 | [Kızılayı](http://twitter.com/search?q=K%c4%b1z%c4%b1lay%c4%b1) | N/A |
-| 6 | [#helaletmiyorum](http://twitter.com/search?q=%23helaletmiyorum) | N/A |
-| 7 | [#Malatya](http://twitter.com/search?q=%23Malatya) | Malatya is a city in eastern Turkey. It is the administrative center of Malatya Province and has a population of around 590,000. The name Malatya is derived from the Arabic word malatiyah, which means "fortress". In English, Malatya translates to "fortress of God". |
-| 8 | [#AliKoçİstifa](http://twitter.com/search?q=%23AliKo%c3%a7%c4%b0stifa) | N/A |
-| 9 | [Helallik](http://twitter.com/search?q=Helallik) | N/A |
+| 1 | [Sezer](http://twitter.com/search?q=Sezer) | N/A |
+| 2 | [#Galatasaray](http://twitter.com/search?q=%23Galatasaray) | #Galatasaray is the name of a Turkish sports club based in Istanbul. The name translates to "Galata Palace" in English, referring to the Galata district of Istanbul where the club was founded in 1905. |
+| 3 | [Tehdit](http://twitter.com/search?q=Tehdit) | N/A |
+| 4 | [#helaletmiyorum](http://twitter.com/search?q=%23helaletmiyorum) | N/A |
+| 5 | [#AliKoçİstifa](http://twitter.com/search?q=%23AliKo%c3%a7%c4%b0stifa) | N/A |
+| 6 | [#Malatya](http://twitter.com/search?q=%23Malatya) | Malatya is a city in eastern Turkey. It is the administrative center of Malatya Province and has a population of around 590,000. The name Malatya is derived from the Arabic word malatiyah, which means "fortress". In English, Malatya translates to "fortress of God". |
+| 7 | [Helallik](http://twitter.com/search?q=Helallik) | N/A |
+| 8 | [YÖNETİM İSTİFA](http://twitter.com/search?q=Y%c3%96NET%c4%b0M+%c4%b0ST%c4%b0FA) | YÖNETİM İSTİFA is a Turkish phrase meaning "resignation of management". It is used to refer to the act of a manager or executive resigning from their position. |
+| 9 | [#NecmettinErbakan](http://twitter.com/search?q=%23NecmettinErbakan) | N/A |
 | 10 | [Yalnız Değilsiniz Yanınızdayız](http://twitter.com/search?q=Yaln%c4%b1z+De%c4%9filsiniz+Yan%c4%b1n%c4%b1zday%c4%b1z) | N/A |
-| 11 | [#NecmettinErbakan](http://twitter.com/search?q=%23NecmettinErbakan) | N/A |
-| 12 | [ISSEN](http://twitter.com/search?q=ISSEN) | N/A |
-| 13 | [YÖNETİM İSTİFA](http://twitter.com/search?q=Y%c3%96NET%c4%b0M+%c4%b0ST%c4%b0FA) | YÖNETİM İSTİFA is a Turkish phrase meaning "resignation of management". It is used to refer to the act of a manager or executive resigning from their position. |
-| 14 | [Haram](http://twitter.com/search?q=Haram) | N/A |
-| 15 | [Haluk Levent](http://twitter.com/search?q=Haluk+Levent) | N/A |
-| 16 | [Kulüpler Birliği](http://twitter.com/search?q=Kul%c3%bcpler+Birli%c4%9fi) | N/A |
+| 11 | [Haram](http://twitter.com/search?q=Haram) | N/A |
+| 12 | [Kulüpler Birliği](http://twitter.com/search?q=Kul%c3%bcpler+Birli%c4%9fi) | N/A |
+| 13 | [Sadece Adıyaman](http://twitter.com/search?q=Sadece+Ad%c4%b1yaman) | N/A |
+| 14 | [Haluk Levent](http://twitter.com/search?q=Haluk+Levent) | N/A |
+| 15 | [Dalkavuk](http://twitter.com/search?q=Dalkavuk) | N/A |
+| 16 | [Aziz Yıldırım](http://twitter.com/search?q=Aziz+Y%c4%b1ld%c4%b1r%c4%b1m) | Aziz Yıldırım is a Turkish name, with Aziz meaning "honored" and Yıldırım meaning "thunder". In English, the name would translate to "Honored Thunder". |
 | 17 | [Şahan](http://twitter.com/search?q=%c5%9eahan) | N/A |
 | 18 | [Vefatının 12](http://twitter.com/search?q=Vefat%c4%b1n%c4%b1n+12) | N/A |
-| 19 | [Dalkavuk](http://twitter.com/search?q=Dalkavuk) | N/A |
+| 19 | [Ölenlerden](http://twitter.com/search?q=%c3%96lenlerden) | N/A |
 | 20 | [Hükümetin Başbakanı](http://twitter.com/search?q=H%c3%bck%c3%bcmetin+Ba%c5%9fbakan%c4%b1) | N/A |
 | 21 | [Sefa](http://twitter.com/search?q=Sefa) | N/A |
-| 22 | [Rasim](http://twitter.com/search?q=Rasim) | N/A |
-| 23 | [Camiler](http://twitter.com/search?q=Camiler) | N/A |
-| 24 | [Milli Görüş](http://twitter.com/search?q=Milli+G%c3%b6r%c3%bc%c5%9f) | N/A |
-| 25 | [Sezer](http://twitter.com/search?q=Sezer) | N/A |
-| 26 | [Aziz Yıldırım](http://twitter.com/search?q=Aziz+Y%c4%b1ld%c4%b1r%c4%b1m) | Aziz Yıldırım is a Turkish name, with Aziz meaning "honored" and Yıldırım meaning "thunder". In English, the name would translate to "Honored Thunder". |
-| 27 | [Rize](http://twitter.com/search?q=Rize) | N/A |
-| 28 | [Alpay](http://twitter.com/search?q=Alpay) | N/A |
-| 29 | [Affet Türkiyem](http://twitter.com/search?q=Affet+T%c3%bcrkiyem) | N/A |
-| 30 | [Ömer Faruk](http://twitter.com/search?q=%c3%96mer+Faruk) | N/A |
-| 31 | [Barış](http://twitter.com/search?q=Bar%c4%b1%c5%9f) | N/A |
-| 32 | [Deprem Ağı](http://twitter.com/search?q=Deprem+A%c4%9f%c4%b1) | N/A |
-| 33 | [Seyircisiz](http://twitter.com/search?q=Seyircisiz) | N/A |
-| 34 | [Rahmetle](http://twitter.com/search?q=Rahmetle) | N/A |
-| 35 | [HODRİ MEYDAN](http://twitter.com/search?q=HODR%c4%b0+MEYDAN) | N/A |
-| 36 | [Kızılaydan](http://twitter.com/search?q=K%c4%b1z%c4%b1laydan) | N/A |
-| 37 | [Tehdit](http://twitter.com/search?q=Tehdit) | N/A |
-| 38 | [Pervin Buldan](http://twitter.com/search?q=Pervin+Buldan) | N/A |
-| 39 | [Foseptik](http://twitter.com/search?q=Foseptik) | N/A |
-| 40 | [Devletimin](http://twitter.com/search?q=Devletimin) | N/A |
-| 41 | [Cebinden](http://twitter.com/search?q=Cebinden) | N/A |
-| 42 | [Anayasal](http://twitter.com/search?q=Anayasal) | N/A |
-| 43 | [İSTİFA ET](http://twitter.com/search?q=%c4%b0ST%c4%b0FA+ET) | N/A |
-| 44 | [Başakşehir](http://twitter.com/search?q=Ba%c5%9fak%c5%9fehir) | N/A |
-| 45 | [3 Temmuz](http://twitter.com/search?q=3+Temmuz) | N/A |
-| 46 | [Vodafone](http://twitter.com/search?q=Vodafone) | N/A |
-| 47 | [Ruhları](http://twitter.com/search?q=Ruhlar%c4%b1) | N/A |
-| 48 | [Babasının](http://twitter.com/search?q=Babas%c4%b1n%c4%b1n) | N/A |
-| 49 | [Seçimde](http://twitter.com/search?q=Se%c3%a7imde) | N/A |
-| 50 | [#EYTyeTastamamAdalet](http://twitter.com/search?q=%23EYTyeTastamamAdalet) | N/A |
+| 22 | [Milli Görüş](http://twitter.com/search?q=Milli+G%c3%b6r%c3%bc%c5%9f) | N/A |
+| 23 | [ISSEN](http://twitter.com/search?q=ISSEN) | N/A |
+| 24 | [Adıyamanlı](http://twitter.com/search?q=Ad%c4%b1yamanl%c4%b1) | N/A |
+| 25 | [Camiler](http://twitter.com/search?q=Camiler) | N/A |
+| 26 | [Rasim](http://twitter.com/search?q=Rasim) | N/A |
+| 27 | [Barış](http://twitter.com/search?q=Bar%c4%b1%c5%9f) | N/A |
+| 28 | [Adıyaman'dan](http://twitter.com/search?q=Ad%c4%b1yaman%27dan) | N/A |
+| 29 | [Alpay](http://twitter.com/search?q=Alpay) | N/A |
+| 30 | [Gereği](http://twitter.com/search?q=Gere%c4%9fi) | N/A |
+| 31 | [Ali Baba](http://twitter.com/search?q=Ali+Baba) | N/A |
+| 32 | [çok yaşa türkmen beyim](http://twitter.com/search?q=%c3%a7ok+ya%c5%9fa+t%c3%bcrkmen+beyim) | N/A |
+| 33 | [İSTİFA ET](http://twitter.com/search?q=%c4%b0ST%c4%b0FA+ET) | N/A |
+| 34 | [Ali İsmail Korkmaz](http://twitter.com/search?q=Ali+%c4%b0smail+Korkmaz) | Ali İsmail Korkmaz is the name of a 19-year-old Turkish student who was killed in 2013 during the Gezi Park protests in Istanbul. His death sparked outrage and led to further protests against the government. The name Ali İsmail Korkmaz translates to "Ali Ismail Fearless" in English. |
+| 35 | [Affet Türkiyem](http://twitter.com/search?q=Affet+T%c3%bcrkiyem) | N/A |
+| 36 | [Ömer Faruk](http://twitter.com/search?q=%c3%96mer+Faruk) | N/A |
+| 37 | [Deprem Ağı](http://twitter.com/search?q=Deprem+A%c4%9f%c4%b1) | N/A |
+| 38 | [Seyircisiz](http://twitter.com/search?q=Seyircisiz) | N/A |
+| 39 | [Rize](http://twitter.com/search?q=Rize) | N/A |
+| 40 | [Fenerbahçe'den](http://twitter.com/search?q=Fenerbah%c3%a7e%27den) | N/A |
+| 41 | [Rahmetle](http://twitter.com/search?q=Rahmetle) | N/A |
+| 42 | [İSTİFA EDİN](http://twitter.com/search?q=%c4%b0ST%c4%b0FA+ED%c4%b0N) | N/A |
+| 43 | [HODRİ MEYDAN](http://twitter.com/search?q=HODR%c4%b0+MEYDAN) | N/A |
+| 44 | [Kasımpaşa](http://twitter.com/search?q=Kas%c4%b1mpa%c5%9fa) | Kasımpaşa is a neighborhood in Istanbul, Turkey. It is located on the European side of the city, on the shores of the Sea of Marmara. The name Kasımpaşa comes from the Ottoman era and means "the place of the butcher". |
+| 45 | [Cumhurbaşkanımız Sayın](http://twitter.com/search?q=Cumhurba%c5%9fkan%c4%b1m%c4%b1z+Say%c4%b1n) | N/A |
+| 46 | [Türkiye İşçi Partisi](http://twitter.com/search?q=T%c3%bcrkiye+%c4%b0%c5%9f%c3%a7i+Partisi) | N/A |
+| 47 | [Rezilsiniz](http://twitter.com/search?q=Rezilsiniz) | N/A |
+| 48 | [3 Temmuz](http://twitter.com/search?q=3+Temmuz) | N/A |
+| 49 | [27 Şubat](http://twitter.com/search?q=27+%c5%9eubat) | N/A |
+| 50 | [Melih](http://twitter.com/search?q=Melih) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bremen
 
-📆 Last Updated: `2023-02-27 13:20:54 UTC`
+📆 Last Updated: `2023-02-27 14:16:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,7 +17,7 @@ This is top 50 for [Germany](</Germany>)
 | ------- | ------------ | ------------ |
 | 1 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
 | 2 | [#b2502](http://twitter.com/search?q=%23b2502) | N/A |
-| 3 | [#FCBFCU](http://twitter.com/search?q=%23FCBFCU) | N/A |
+| 3 | [#PokemonPresents](http://twitter.com/search?q=%23PokemonPresents) | N/A |
 | 4 | [#WSMDS](http://twitter.com/search?q=%23WSMDS) | N/A |
 | 5 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
 | 6 | [Start in die Woche](http://twitter.com/search?q=Start+in+die+Woche) | Start in die Woche is a German phrase that translates to "start of the week" in English. It is used to refer to the beginning of a new week, usually on Monday. |
@@ -26,43 +26,43 @@ This is top 50 for [Germany](</Germany>)
 | 9 | [Helena](http://twitter.com/search?q=Helena) | N/A |
 | 10 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
 | 11 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
-| 12 | [Senioren](http://twitter.com/search?q=Senioren) | N/A |
-| 13 | [Kinderlose](http://twitter.com/search?q=Kinderlose) | N/A |
-| 14 | [Joko](http://twitter.com/search?q=Joko) | N/A |
-| 15 | [Trinkgeld](http://twitter.com/search?q=Trinkgeld) | N/A |
+| 12 | [Joko](http://twitter.com/search?q=Joko) | N/A |
+| 13 | [Trinkgeld](http://twitter.com/search?q=Trinkgeld) | N/A |
+| 14 | [Kinderlose](http://twitter.com/search?q=Kinderlose) | N/A |
+| 15 | [Senioren](http://twitter.com/search?q=Senioren) | N/A |
 | 16 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 17 | [schnee](http://twitter.com/search?q=schnee) | N/A |
+| 17 | [Gutachten](http://twitter.com/search?q=Gutachten) | N/A |
 | 18 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
-| 19 | [Gutachten](http://twitter.com/search?q=Gutachten) | N/A |
-| 20 | [berliner kirchenstift](http://twitter.com/search?q=berliner+kirchenstift) | N/A |
-| 21 | [Ethikrat](http://twitter.com/search?q=Ethikrat) | N/A |
+| 19 | [schnee](http://twitter.com/search?q=schnee) | N/A |
+| 20 | [Abrams](http://twitter.com/search?q=Abrams) | Abrams is a surname of English and German origin. It is derived from the Germanic personal name Abraham, meaning "father of many". |
+| 21 | [Berliner Kirchenstift](http://twitter.com/search?q=Berliner+Kirchenstift) | N/A |
 | 22 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
 | 23 | [Panzer](http://twitter.com/search?q=Panzer) | N/A |
-| 24 | [Abrams](http://twitter.com/search?q=Abrams) | Abrams is a surname of English and German origin. It is derived from the Germanic personal name Abraham, meaning "father of many". |
+| 24 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
 | 25 | [Teilnehmer](http://twitter.com/search?q=Teilnehmer) | N/A |
-| 26 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
+| 26 | [Greta Thunberg](http://twitter.com/search?q=Greta+Thunberg) | Greta Thunberg is a Swedish environmental activist who has gained international recognition for her work in raising awareness about the dangers of climate change. She is best known for her school strike for climate, which began in August 2018 when she was 15 years old. She has since become a prominent figure in the global climate movement and has been nominated for the Nobel Peace Prize. |
 | 27 | [Montagmorgen](http://twitter.com/search?q=Montagmorgen) | N/A |
-| 28 | [schutzbedürftige](http://twitter.com/search?q=schutzbed%c3%bcrftige) | N/A |
+| 28 | [Frau Buyx](http://twitter.com/search?q=Frau+Buyx) | N/A |
 | 29 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 30 | [Siedler](http://twitter.com/search?q=Siedler) | N/A |
-| 31 | [John Lennon](http://twitter.com/search?q=John+Lennon) | N/A |
-| 32 | [Aiwanger](http://twitter.com/search?q=Aiwanger) | N/A |
-| 33 | ['Feuer'](http://twitter.com/search?q=%27Feuer%27) | N/A |
+| 30 | [Polarlichter](http://twitter.com/search?q=Polarlichter) | N/A |
+| 31 | [Siedler](http://twitter.com/search?q=Siedler) | N/A |
+| 32 | ['Feuer'](http://twitter.com/search?q=%27Feuer%27) | N/A |
+| 33 | [John Lennon](http://twitter.com/search?q=John+Lennon) | N/A |
 | 34 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
 | 35 | [sonntag abend](http://twitter.com/search?q=sonntag+abend) | N/A |
-| 36 | [Polarlichter](http://twitter.com/search?q=Polarlichter) | N/A |
+| 36 | [Aiwanger](http://twitter.com/search?q=Aiwanger) | N/A |
 | 37 | [Menschen mit Kindern](http://twitter.com/search?q=Menschen+mit+Kindern) | N/A |
-| 38 | [Altenpflege](http://twitter.com/search?q=Altenpflege) | N/A |
-| 39 | [Zuschüsse](http://twitter.com/search?q=Zusch%c3%bcsse) | N/A |
-| 40 | [wochenanfang](http://twitter.com/search?q=wochenanfang) | N/A |
+| 38 | [Schutzbedürftige](http://twitter.com/search?q=Schutzbed%c3%bcrftige) | N/A |
+| 39 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 40 | [Morty](http://twitter.com/search?q=Morty) | Morty is a nickname for the given name Mortimer, which is of English origin and means "dead sea". It can also be used as a diminutive form of the name Mortimer. |
 | 41 | [Pflegeversicherung](http://twitter.com/search?q=Pflegeversicherung) | N/A |
-| 42 | [Frau Buyx](http://twitter.com/search?q=Frau+Buyx) | N/A |
-| 43 | [Kohlekraftwerke](http://twitter.com/search?q=Kohlekraftwerke) | N/A |
-| 44 | [INEC](http://twitter.com/search?q=INEC) | N/A |
-| 45 | [Zinsen](http://twitter.com/search?q=Zinsen) | N/A |
-| 46 | [Morty](http://twitter.com/search?q=Morty) | Morty is a nickname for the given name Mortimer, which is of English origin and means "dead sea". It can also be used as a diminutive form of the name Mortimer. |
-| 47 | [Flüchtlinge](http://twitter.com/search?q=Fl%c3%bcchtlinge) | N/A |
-| 48 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 42 | [INEC](http://twitter.com/search?q=INEC) | N/A |
+| 43 | [Fauci](http://twitter.com/search?q=Fauci) | N/A |
+| 44 | [Wochenanfang](http://twitter.com/search?q=Wochenanfang) | N/A |
+| 45 | [Fratze Deutschlands](http://twitter.com/search?q=Fratze+Deutschlands) | N/A |
+| 46 | [Kohlekraftwerke](http://twitter.com/search?q=Kohlekraftwerke) | N/A |
+| 47 | [Zuschüsse](http://twitter.com/search?q=Zusch%c3%bcsse) | N/A |
+| 48 | [Femboys](http://twitter.com/search?q=Femboys) | N/A |
 
 
 

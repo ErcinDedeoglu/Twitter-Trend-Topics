@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nashville
 
-📆 Last Updated: `2023-02-27 13:21:23 UTC`
+📆 Last Updated: `2023-02-27 14:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
-| 2 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 3 | [Preds](http://twitter.com/search?q=Preds) | N/A |
-| 4 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 2 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 3 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 4 | [Preds](http://twitter.com/search?q=Preds) | N/A |
 | 5 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
-| 6 | [#mondaythoughts](http://twitter.com/search?q=%23mondaythoughts) | #MondayThoughts is a hashtag used on social media to share thoughts, ideas, and reflections on the start of the week. It is often used to encourage others to have a positive outlook on the week ahead. |
-| 7 | [Good Monday](http://twitter.com/search?q=Good+Monday) | Good Monday is an expression used to express enthusiasm for the start of a new week. It is typically used as a greeting or salutation when wishing someone a good start to the week. |
-| 8 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 9 | [#PokemonPresents](http://twitter.com/search?q=%23PokemonPresents) | N/A |
-| 10 | [#Mondayvibes](http://twitter.com/search?q=%23Mondayvibes) | N/A |
-| 11 | [Master P](http://twitter.com/search?q=Master+P) | N/A |
-| 12 | [Daily Quordle 399](http://twitter.com/search?q=Daily+Quordle+399) | N/A |
-| 13 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
-| 14 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
-| 15 | [New Week](http://twitter.com/search?q=New+Week) | N/A |
-| 16 | [Fauci](http://twitter.com/search?q=Fauci) | N/A |
-| 17 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
-| 18 | [John Steinbeck](http://twitter.com/search?q=John+Steinbeck) | N/A |
-| 19 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 20 | [Deion](http://twitter.com/search?q=Deion) | N/A |
-| 21 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
-| 22 | [Tinubu](http://twitter.com/search?q=Tinubu) | N/A |
-| 23 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
-| 24 | [Hogg](http://twitter.com/search?q=Hogg) | N/A |
-| 25 | [Militia](http://twitter.com/search?q=Militia) | N/A |
-| 26 | [toya](http://twitter.com/search?q=toya) | N/A |
-| 27 | [Jeannot](http://twitter.com/search?q=Jeannot) | N/A |
-| 28 | [Bojack](http://twitter.com/search?q=Bojack) | N/A |
-| 29 | [Govenor](http://twitter.com/search?q=Govenor) | N/A |
-| 30 | [Bryan Cranston](http://twitter.com/search?q=Bryan+Cranston) | N/A |
-| 31 | [Lightfall](http://twitter.com/search?q=Lightfall) | N/A |
-| 32 | [Zimmerman](http://twitter.com/search?q=Zimmerman) | N/A |
-| 33 | [Clue](http://twitter.com/search?q=Clue) | N/A |
-| 34 | [Paul George](http://twitter.com/search?q=Paul+George) | Paul George is an American professional basketball player who currently plays for the Los Angeles Clippers of the National Basketball Association (NBA). He is a six-time NBA All-Star and four-time All-NBA Team selection. The phrase "Paul George" is used to refer to the basketball player himself. |
-| 35 | [Department of Energy](http://twitter.com/search?q=Department+of+Energy) | N/A |
-| 36 | [Morty](http://twitter.com/search?q=Morty) | Morty is a nickname for the given name Mortimer, which is of English origin and means "dead sea". It can also be used as a diminutive form of the name Mortimer. |
-| 37 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
-| 38 | [Ty Lue](http://twitter.com/search?q=Ty+Lue) | Ty Lue is the name of an American basketball coach and former player. He is currently the head coach of the Los Angeles Clippers of the National Basketball Association (NBA). The name "Ty Lue" is derived from his given name, Tyronn. |
-| 39 | [Rockets](http://twitter.com/search?q=Rockets) | Rockets are a type of spacecraft used for space exploration and travel. They are powered by engines that use fuel to generate thrust, allowing them to move through the air or outer space. Rockets are used to launch satellites, transport people and cargo into space, and even explore other planets. The word "rocket" comes from the Latin word "rockete," which means "to shoot." |
-| 40 | [Trayvon](http://twitter.com/search?q=Trayvon) | N/A |
-| 41 | [James Hong](http://twitter.com/search?q=James+Hong) | N/A |
-| 42 | [ekiti](http://twitter.com/search?q=ekiti) | N/A |
-| 43 | [Morris](http://twitter.com/search?q=Morris) | N/A |
-| 44 | [Eric Gordon](http://twitter.com/search?q=Eric+Gordon) | N/A |
-| 45 | [Wilt](http://twitter.com/search?q=Wilt) | N/A |
-| 46 | [Apartheid](http://twitter.com/search?q=Apartheid) | N/A |
-| 47 | [CrossFit](http://twitter.com/search?q=CrossFit) | N/A |
-| 48 | [Family Guy](http://twitter.com/search?q=Family+Guy) | Family Guy is an American animated sitcom created by Seth MacFarlane for the Fox Broadcasting Company. The show follows the adventures of the Griffin family, consisting of father Peter, mother Lois, daughter Meg, son Chris, baby Stewie and the family dog Brian, who reside in their hometown of Quahog. The show is known for its off-color humor and often satirical take on American culture. |
-| 49 | [Yoruba](http://twitter.com/search?q=Yoruba) | N/A |
-| 50 | [Labour Party](http://twitter.com/search?q=Labour+Party) | N/A |
+| 6 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 7 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
+| 8 | [#mondaythoughts](http://twitter.com/search?q=%23mondaythoughts) | #MondayThoughts is a hashtag used on social media to share thoughts, ideas, and reflections on the start of the week. It is often used to encourage others to have a positive outlook on the week ahead. |
+| 9 | [Maino](http://twitter.com/search?q=Maino) | N/A |
+| 10 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 11 | [Haslam](http://twitter.com/search?q=Haslam) | N/A |
+| 12 | [New Week](http://twitter.com/search?q=New+Week) | N/A |
+| 13 | [Fauci](http://twitter.com/search?q=Fauci) | N/A |
+| 14 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
+| 15 | [Daily Quordle 399](http://twitter.com/search?q=Daily+Quordle+399) | N/A |
+| 16 | [Dominican Independence Day](http://twitter.com/search?q=Dominican+Independence+Day) | N/A |
+| 17 | [Master P](http://twitter.com/search?q=Master+P) | N/A |
+| 18 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
+| 19 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
+| 20 | [Elissa Slotkin](http://twitter.com/search?q=Elissa+Slotkin) | N/A |
+| 21 | [Another Monday](http://twitter.com/search?q=Another+Monday) | N/A |
+| 22 | [Mayagüez](http://twitter.com/search?q=Mayag%c3%bcez) | N/A |
+| 23 | [Bryan Cranston](http://twitter.com/search?q=Bryan+Cranston) | N/A |
+| 24 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
+| 25 | [John Steinbeck](http://twitter.com/search?q=John+Steinbeck) | N/A |
+| 26 | [Deion](http://twitter.com/search?q=Deion) | N/A |
+| 27 | [Mystery Dungeon](http://twitter.com/search?q=Mystery+Dungeon) | N/A |
+| 28 | [SV DLC](http://twitter.com/search?q=SV+DLC) | N/A |
+| 29 | [Zacian](http://twitter.com/search?q=Zacian) | N/A |
+| 30 | [NFL Combine](http://twitter.com/search?q=NFL+Combine) | N/A |
+| 31 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
+| 32 | [Hogg](http://twitter.com/search?q=Hogg) | N/A |
+| 33 | [LIRR](http://twitter.com/search?q=LIRR) | N/A |
+| 34 | [Department of Energy](http://twitter.com/search?q=Department+of+Energy) | N/A |
+| 35 | [toya](http://twitter.com/search?q=toya) | N/A |
+| 36 | [Damian Lillard](http://twitter.com/search?q=Damian+Lillard) | Damian Lillard is an American professional basketball player who currently plays for the Portland Trail Blazers of the National Basketball Association (NBA). He is a six-time NBA All-Star and was named the NBA Rookie of the Year in 2013. |
+| 37 | [Trayvon](http://twitter.com/search?q=Trayvon) | N/A |
+| 38 | [Read Across America Week](http://twitter.com/search?q=Read+Across+America+Week) | N/A |
+| 39 | [Militia](http://twitter.com/search?q=Militia) | N/A |
+| 40 | [Jeannot](http://twitter.com/search?q=Jeannot) | N/A |
+| 41 | [Govenor](http://twitter.com/search?q=Govenor) | N/A |
+| 42 | [Tinubu](http://twitter.com/search?q=Tinubu) | N/A |
+| 43 | [Make America Great Again](http://twitter.com/search?q=Make+America+Great+Again) | N/A |
+| 44 | [Futurama](http://twitter.com/search?q=Futurama) | N/A |
+| 45 | [Zimmerman](http://twitter.com/search?q=Zimmerman) | N/A |
+| 46 | [Chris Benoit](http://twitter.com/search?q=Chris+Benoit) | N/A |
+| 47 | [Wilt](http://twitter.com/search?q=Wilt) | N/A |
+| 48 | [Lightfall](http://twitter.com/search?q=Lightfall) | N/A |
+| 49 | [Bojack](http://twitter.com/search?q=Bojack) | N/A |
+| 50 | [Clue](http://twitter.com/search?q=Clue) | N/A |
 
 
 

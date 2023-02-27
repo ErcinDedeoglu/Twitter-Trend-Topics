@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Albuquerque
 
-📆 Last Updated: `2023-02-27 13:21:19 UTC`
+📆 Last Updated: `2023-02-27 14:16:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 2 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
-| 3 | [#mondaythoughts](http://twitter.com/search?q=%23mondaythoughts) | #MondayThoughts is a hashtag used on social media to share thoughts, ideas, and reflections on the start of the week. It is often used to encourage others to have a positive outlook on the week ahead. |
-| 4 | [Good Monday](http://twitter.com/search?q=Good+Monday) | Good Monday is an expression used to express enthusiasm for the start of a new week. It is typically used as a greeting or salutation when wishing someone a good start to the week. |
+| 1 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
+| 2 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 3 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
+| 4 | [Maino](http://twitter.com/search?q=Maino) | N/A |
 | 5 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 6 | [Master P](http://twitter.com/search?q=Master+P) | N/A |
-| 7 | [Daily Quordle 399](http://twitter.com/search?q=Daily+Quordle+399) | N/A |
-| 8 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
-| 9 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
-| 10 | [New Week](http://twitter.com/search?q=New+Week) | N/A |
-| 11 | [Fauci](http://twitter.com/search?q=Fauci) | N/A |
-| 12 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
-| 13 | [John Steinbeck](http://twitter.com/search?q=John+Steinbeck) | N/A |
-| 14 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 15 | [Deion](http://twitter.com/search?q=Deion) | N/A |
-| 16 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
-| 17 | [Tinubu](http://twitter.com/search?q=Tinubu) | N/A |
-| 18 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
-| 19 | [Hogg](http://twitter.com/search?q=Hogg) | N/A |
-| 20 | [Militia](http://twitter.com/search?q=Militia) | N/A |
-| 21 | [toya](http://twitter.com/search?q=toya) | N/A |
-| 22 | [Jeannot](http://twitter.com/search?q=Jeannot) | N/A |
-| 23 | [Bojack](http://twitter.com/search?q=Bojack) | N/A |
-| 24 | [Govenor](http://twitter.com/search?q=Govenor) | N/A |
-| 25 | [Lightfall](http://twitter.com/search?q=Lightfall) | N/A |
-| 26 | [Zimmerman](http://twitter.com/search?q=Zimmerman) | N/A |
-| 27 | [Clue](http://twitter.com/search?q=Clue) | N/A |
-| 28 | [Cranston](http://twitter.com/search?q=Cranston) | N/A |
-| 29 | [Paul George](http://twitter.com/search?q=Paul+George) | Paul George is an American professional basketball player who currently plays for the Los Angeles Clippers of the National Basketball Association (NBA). He is a six-time NBA All-Star and four-time All-NBA Team selection. The phrase "Paul George" is used to refer to the basketball player himself. |
-| 30 | [Department of Energy](http://twitter.com/search?q=Department+of+Energy) | N/A |
-| 31 | [Morty](http://twitter.com/search?q=Morty) | Morty is a nickname for the given name Mortimer, which is of English origin and means "dead sea". It can also be used as a diminutive form of the name Mortimer. |
-| 32 | [Ty Lue](http://twitter.com/search?q=Ty+Lue) | Ty Lue is the name of an American basketball coach and former player. He is currently the head coach of the Los Angeles Clippers of the National Basketball Association (NBA). The name "Ty Lue" is derived from his given name, Tyronn. |
-| 33 | [Rockets](http://twitter.com/search?q=Rockets) | Rockets are a type of spacecraft used for space exploration and travel. They are powered by engines that use fuel to generate thrust, allowing them to move through the air or outer space. Rockets are used to launch satellites, transport people and cargo into space, and even explore other planets. The word "rocket" comes from the Latin word "rockete," which means "to shoot." |
-| 34 | [Trayvon](http://twitter.com/search?q=Trayvon) | N/A |
-| 35 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
-| 36 | [James Hong](http://twitter.com/search?q=James+Hong) | N/A |
-| 37 | [Ekiti](http://twitter.com/search?q=Ekiti) | N/A |
-| 38 | [Morris](http://twitter.com/search?q=Morris) | N/A |
-| 39 | [Eric Gordon](http://twitter.com/search?q=Eric+Gordon) | N/A |
-| 40 | [Wilt](http://twitter.com/search?q=Wilt) | N/A |
-| 41 | [Apartheid](http://twitter.com/search?q=Apartheid) | N/A |
-| 42 | [Family Guy](http://twitter.com/search?q=Family+Guy) | Family Guy is an American animated sitcom created by Seth MacFarlane for the Fox Broadcasting Company. The show follows the adventures of the Griffin family, consisting of father Peter, mother Lois, daughter Meg, son Chris, baby Stewie and the family dog Brian, who reside in their hometown of Quahog. The show is known for its off-color humor and often satirical take on American culture. |
-| 43 | [Yoruba](http://twitter.com/search?q=Yoruba) | N/A |
-| 44 | [CrossFit](http://twitter.com/search?q=CrossFit) | N/A |
-| 45 | [Labour Party](http://twitter.com/search?q=Labour+Party) | N/A |
-| 46 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
-| 47 | [Futurama](http://twitter.com/search?q=Futurama) | N/A |
-| 48 | [Femboys](http://twitter.com/search?q=Femboys) | N/A |
+| 6 | [Haslam](http://twitter.com/search?q=Haslam) | N/A |
+| 7 | [New Week](http://twitter.com/search?q=New+Week) | N/A |
+| 8 | [Fauci](http://twitter.com/search?q=Fauci) | N/A |
+| 9 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
+| 10 | [Daily Quordle 399](http://twitter.com/search?q=Daily+Quordle+399) | N/A |
+| 11 | [Master P](http://twitter.com/search?q=Master+P) | N/A |
+| 12 | [Dominican Independence Day](http://twitter.com/search?q=Dominican+Independence+Day) | N/A |
+| 13 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
+| 14 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
+| 15 | [Elissa Slotkin](http://twitter.com/search?q=Elissa+Slotkin) | N/A |
+| 16 | [Another Monday](http://twitter.com/search?q=Another+Monday) | N/A |
+| 17 | [Mayagüez](http://twitter.com/search?q=Mayag%c3%bcez) | N/A |
+| 18 | [Bryan Cranston](http://twitter.com/search?q=Bryan+Cranston) | N/A |
+| 19 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
+| 20 | [John Steinbeck](http://twitter.com/search?q=John+Steinbeck) | N/A |
+| 21 | [Deion](http://twitter.com/search?q=Deion) | N/A |
+| 22 | [Mystery Dungeon](http://twitter.com/search?q=Mystery+Dungeon) | N/A |
+| 23 | [SV DLC](http://twitter.com/search?q=SV+DLC) | N/A |
+| 24 | [Zacian](http://twitter.com/search?q=Zacian) | N/A |
+| 25 | [NFL Combine](http://twitter.com/search?q=NFL+Combine) | N/A |
+| 26 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
+| 27 | [Hogg](http://twitter.com/search?q=Hogg) | N/A |
+| 28 | [LIRR](http://twitter.com/search?q=LIRR) | N/A |
+| 29 | [Department of Energy](http://twitter.com/search?q=Department+of+Energy) | N/A |
+| 30 | [toya](http://twitter.com/search?q=toya) | N/A |
+| 31 | [Damian Lillard](http://twitter.com/search?q=Damian+Lillard) | Damian Lillard is an American professional basketball player who currently plays for the Portland Trail Blazers of the National Basketball Association (NBA). He is a six-time NBA All-Star and was named the NBA Rookie of the Year in 2013. |
+| 32 | [Trayvon](http://twitter.com/search?q=Trayvon) | N/A |
+| 33 | [Militia](http://twitter.com/search?q=Militia) | N/A |
+| 34 | [Jeannot](http://twitter.com/search?q=Jeannot) | N/A |
+| 35 | [Govenor](http://twitter.com/search?q=Govenor) | N/A |
+| 36 | [Read Across America Week](http://twitter.com/search?q=Read+Across+America+Week) | N/A |
+| 37 | [Tinubu](http://twitter.com/search?q=Tinubu) | N/A |
+| 38 | [Make America Great Again](http://twitter.com/search?q=Make+America+Great+Again) | N/A |
+| 39 | [Futurama](http://twitter.com/search?q=Futurama) | N/A |
+| 40 | [Zimmerman](http://twitter.com/search?q=Zimmerman) | N/A |
+| 41 | [Chris Benoit](http://twitter.com/search?q=Chris+Benoit) | N/A |
+| 42 | [Wilt](http://twitter.com/search?q=Wilt) | N/A |
+| 43 | [Lightfall](http://twitter.com/search?q=Lightfall) | N/A |
+| 44 | [Bojack](http://twitter.com/search?q=Bojack) | N/A |
+| 45 | [Clue](http://twitter.com/search?q=Clue) | N/A |
+| 46 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 47 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
+| 48 | [Ty Lue](http://twitter.com/search?q=Ty+Lue) | Ty Lue is the name of an American basketball coach and former player. He is currently the head coach of the Los Angeles Clippers of the National Basketball Association (NBA). The name "Ty Lue" is derived from his given name, Tyronn. |
 
 
 

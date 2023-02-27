@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Edinburgh
 
-📆 Last Updated: `2023-02-27 13:20:41 UTC`
+📆 Last Updated: `2023-02-27 14:16:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,53 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
-| 2 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
-| 3 | [#PaulFury](http://twitter.com/search?q=%23PaulFury) | N/A |
-| 4 | [Betty Boothroyd](http://twitter.com/search?q=Betty+Boothroyd) | N/A |
-| 5 | [Speaker](http://twitter.com/search?q=Speaker) | Speaker is a person who speaks in public, usually to an audience. It can also refer to the device used to amplify sound, such as a loudspeaker. |
-| 6 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
-| 7 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 8 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 9 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
-| 10 | [King](http://twitter.com/search?q=King) | In English, "king" is a title given to a male monarch, usually the ruler of a kingdom or empire. It is also used as a term of endearment for someone who is seen as having great power or influence. |
-| 11 | [#electionresults2023](http://twitter.com/search?q=%23electionresults2023) | N/A |
-| 12 | [Baroness Boothroyd](http://twitter.com/search?q=Baroness+Boothroyd) | N/A |
-| 13 | [#RequestABetRewards](http://twitter.com/search?q=%23RequestABetRewards) | N/A |
-| 14 | [Ursula](http://twitter.com/search?q=Ursula) | N/A |
-| 15 | [Ofgem](http://twitter.com/search?q=Ofgem) | N/A |
-| 16 | [Orubebe](http://twitter.com/search?q=Orubebe) | N/A |
-| 17 | [Steve Baker](http://twitter.com/search?q=Steve+Baker) | N/A |
-| 18 | [Plateau](http://twitter.com/search?q=Plateau) | N/A |
-| 19 | [Labour MPs](http://twitter.com/search?q=Labour+MPs) | N/A |
-| 20 | [Northern Lights](http://twitter.com/search?q=Northern+Lights) | N/A |
-| 21 | [Windsor](http://twitter.com/search?q=Windsor) | N/A |
-| 22 | [Gazza](http://twitter.com/search?q=Gazza) | N/A |
-| 23 | [RACE WEEK](http://twitter.com/search?q=RACE+WEEK) | N/A |
-| 24 | [Banky](http://twitter.com/search?q=Banky) | N/A |
-| 25 | [Noel Gallagher](http://twitter.com/search?q=Noel+Gallagher) | N/A |
-| 26 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
-| 27 | [Energy Price Guarantee](http://twitter.com/search?q=Energy+Price+Guarantee) | N/A |
-| 28 | [Tinubu](http://twitter.com/search?q=Tinubu) | N/A |
-| 29 | [Sanwo Olu](http://twitter.com/search?q=Sanwo+Olu) | N/A |
-| 30 | [Sitter](http://twitter.com/search?q=Sitter) | N/A |
-| 31 | [NI Protocol](http://twitter.com/search?q=NI+Protocol) | N/A |
-| 32 | [World Book Week](http://twitter.com/search?q=World+Book+Week) | N/A |
-| 33 | [Rachel Reeves](http://twitter.com/search?q=Rachel+Reeves) | N/A |
-| 34 | [Daily Quordle 399](http://twitter.com/search?q=Daily+Quordle+399) | N/A |
-| 35 | [Matt Hancock](http://twitter.com/search?q=Matt+Hancock) | Matt Hancock is the current Secretary of State for Health and Social Care in the United Kingdom. He is responsible for leading the government's response to the coronavirus pandemic. The phrase "Matt Hancock" is used to refer to him and his role in government. |
-| 36 | [On Friday](http://twitter.com/search?q=On+Friday) | N/A |
-| 37 | [England and Wales](http://twitter.com/search?q=England+and+Wales) | N/A |
-| 38 | [Universal Credit](http://twitter.com/search?q=Universal+Credit) | N/A |
-| 39 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
-| 40 | [The Queen](http://twitter.com/search?q=The+Queen) | N/A |
+| 2 | [Betty Boothroyd](http://twitter.com/search?q=Betty+Boothroyd) | N/A |
+| 3 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
+| 4 | [Speaker](http://twitter.com/search?q=Speaker) | Speaker is a person who speaks in public, usually to an audience. It can also refer to the device used to amplify sound, such as a loudspeaker. |
+| 5 | [King](http://twitter.com/search?q=King) | In English, "king" is a title given to a male monarch, usually the ruler of a kingdom or empire. It is also used as a term of endearment for someone who is seen as having great power or influence. |
+| 6 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 7 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 8 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
+| 9 | [Baroness Boothroyd](http://twitter.com/search?q=Baroness+Boothroyd) | N/A |
+| 10 | [#electionresults2023](http://twitter.com/search?q=%23electionresults2023) | N/A |
+| 11 | [#WorldBookDay](http://twitter.com/search?q=%23WorldBookDay) | N/A |
+| 12 | [Ursula](http://twitter.com/search?q=Ursula) | N/A |
+| 13 | [Steve Baker](http://twitter.com/search?q=Steve+Baker) | N/A |
+| 14 | [Ofgem](http://twitter.com/search?q=Ofgem) | N/A |
+| 15 | [Queen](http://twitter.com/search?q=Queen) | N/A |
+| 16 | [Sarah Jane](http://twitter.com/search?q=Sarah+Jane) | N/A |
+| 17 | [Plateau](http://twitter.com/search?q=Plateau) | N/A |
+| 18 | [Noel Gallagher](http://twitter.com/search?q=Noel+Gallagher) | N/A |
+| 19 | [Northern Lights](http://twitter.com/search?q=Northern+Lights) | N/A |
+| 20 | [Labour MPs](http://twitter.com/search?q=Labour+MPs) | N/A |
+| 21 | [Tennant](http://twitter.com/search?q=Tennant) | N/A |
+| 22 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
+| 23 | [Orubebe](http://twitter.com/search?q=Orubebe) | N/A |
+| 24 | [Windsor](http://twitter.com/search?q=Windsor) | N/A |
+| 25 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
+| 26 | [Robyn](http://twitter.com/search?q=Robyn) | Robyn is a female given name of English origin, derived from the Old Germanic name Hrodebert, meaning "bright fame". It is also a variant spelling of the name Robin. |
+| 27 | [Jamaica](http://twitter.com/search?q=Jamaica) | N/A |
+| 28 | [Sanwo Olu](http://twitter.com/search?q=Sanwo+Olu) | N/A |
+| 29 | [Energy Price Guarantee](http://twitter.com/search?q=Energy+Price+Guarantee) | N/A |
+| 30 | [Banky](http://twitter.com/search?q=Banky) | N/A |
+| 31 | [Gazza](http://twitter.com/search?q=Gazza) | N/A |
+| 32 | [Tinubu](http://twitter.com/search?q=Tinubu) | N/A |
+| 33 | [Matt Hancock](http://twitter.com/search?q=Matt+Hancock) | Matt Hancock is the current Secretary of State for Health and Social Care in the United Kingdom. He is responsible for leading the government's response to the coronavirus pandemic. The phrase "Matt Hancock" is used to refer to him and his role in government. |
+| 34 | [Northern Ireland Protocol](http://twitter.com/search?q=Northern+Ireland+Protocol) | N/A |
+| 35 | [Blood](http://twitter.com/search?q=Blood) | N/A |
+| 36 | [ITS RACE WEEK](http://twitter.com/search?q=ITS+RACE+WEEK) | N/A |
+| 37 | [On Friday](http://twitter.com/search?q=On+Friday) | N/A |
+| 38 | [England and Wales](http://twitter.com/search?q=England+and+Wales) | N/A |
+| 39 | [Universal Credit](http://twitter.com/search?q=Universal+Credit) | N/A |
+| 40 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
 | 41 | [Monarchy](http://twitter.com/search?q=Monarchy) | N/A |
 | 42 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
-| 43 | [Governor](http://twitter.com/search?q=Governor) | N/A |
-| 44 | [Ekiti](http://twitter.com/search?q=Ekiti) | N/A |
-| 45 | [New IRA](http://twitter.com/search?q=New+IRA) | N/A |
-| 46 | [Wordle 618 X](http://twitter.com/search?q=Wordle+618+X) | N/A |
-| 47 | [Atiku](http://twitter.com/search?q=Atiku) | N/A |
-| 48 | [The ERG](http://twitter.com/search?q=The+ERG) | N/A |
-| 49 | [Peter Kay](http://twitter.com/search?q=Peter+Kay) | N/A |
-| 50 | [Mark Francois](http://twitter.com/search?q=Mark+Francois) | N/A |
+| 43 | [Silverstone](http://twitter.com/search?q=Silverstone) | N/A |
+| 44 | [Daily Quordle 399](http://twitter.com/search?q=Daily+Quordle+399) | N/A |
+| 45 | [Governor](http://twitter.com/search?q=Governor) | N/A |
+| 46 | [New IRA](http://twitter.com/search?q=New+IRA) | N/A |
+| 47 | [Wordle 618 X](http://twitter.com/search?q=Wordle+618+X) | N/A |
+| 48 | [Atiku](http://twitter.com/search?q=Atiku) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Coventry
 
-📆 Last Updated: `2023-02-27 13:20:41 UTC`
+📆 Last Updated: `2023-02-27 14:16:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#popmaster](http://twitter.com/search?q=%23popmaster) | N/A |
-| 2 | [#thetraitors](http://twitter.com/search?q=%23thetraitors) | N/A |
+| 1 | [Orubebe](http://twitter.com/search?q=Orubebe) | N/A |
+| 2 | [#TheTraitors](http://twitter.com/search?q=%23TheTraitors) | #TheTraitors is a hashtag used to refer to those who are seen as having betrayed their country or cause. It is often used in political contexts, such as when referring to politicians who have switched parties or taken actions that are seen as betraying their constituents. |
 | 3 | [#JeremyVine](http://twitter.com/search?q=%23JeremyVine) | N/A |
-| 4 | [Matt Hancock](http://twitter.com/search?q=Matt+Hancock) | Matt Hancock is the current Secretary of State for Health and Social Care in the United Kingdom. He is responsible for leading the government's response to the coronavirus pandemic. The phrase "Matt Hancock" is used to refer to him and his role in government. |
-| 5 | [#Auroraborealis](http://twitter.com/search?q=%23Auroraborealis) | N/A |
-| 6 | [Jacob Rees](http://twitter.com/search?q=Jacob+Rees) | N/A |
-| 7 | [The ERG](http://twitter.com/search?q=The+ERG) | N/A |
-| 8 | [Queen Consort](http://twitter.com/search?q=Queen+Consort) | N/A |
+| 4 | [#MondayMood](http://twitter.com/search?q=%23MondayMood) | N/A |
+| 5 | [Matt Hancock](http://twitter.com/search?q=Matt+Hancock) | Matt Hancock is the current Secretary of State for Health and Social Care in the United Kingdom. He is responsible for leading the government's response to the coronavirus pandemic. The phrase "Matt Hancock" is used to refer to him and his role in government. |
+| 6 | [#Auroraborealis](http://twitter.com/search?q=%23Auroraborealis) | N/A |
+| 7 | [Jacob Rees](http://twitter.com/search?q=Jacob+Rees) | N/A |
+| 8 | [The ERG](http://twitter.com/search?q=The+ERG) | N/A |
 | 9 | [James Bond](http://twitter.com/search?q=James+Bond) | N/A |
 | 10 | [Betty Boothroyd](http://twitter.com/search?q=Betty+Boothroyd) | N/A |
 | 11 | [Speaker](http://twitter.com/search?q=Speaker) | Speaker is a person who speaks in public, usually to an audience. It can also refer to the device used to amplify sound, such as a loudspeaker. |
-| 12 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 13 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
-| 14 | [King](http://twitter.com/search?q=King) | In English, "king" is a title given to a male monarch, usually the ruler of a kingdom or empire. It is also used as a term of endearment for someone who is seen as having great power or influence. |
+| 12 | [King](http://twitter.com/search?q=King) | In English, "king" is a title given to a male monarch, usually the ruler of a kingdom or empire. It is also used as a term of endearment for someone who is seen as having great power or influence. |
+| 13 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 14 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
 | 15 | [Baroness Boothroyd](http://twitter.com/search?q=Baroness+Boothroyd) | N/A |
 | 16 | [Ursula](http://twitter.com/search?q=Ursula) | N/A |
-| 17 | [Ofgem](http://twitter.com/search?q=Ofgem) | N/A |
-| 18 | [Orubebe](http://twitter.com/search?q=Orubebe) | N/A |
-| 19 | [Steve Baker](http://twitter.com/search?q=Steve+Baker) | N/A |
-| 20 | [Plateau](http://twitter.com/search?q=Plateau) | N/A |
-| 21 | [Labour MPs](http://twitter.com/search?q=Labour+MPs) | N/A |
-| 22 | [Northern Lights](http://twitter.com/search?q=Northern+Lights) | N/A |
-| 23 | [Windsor](http://twitter.com/search?q=Windsor) | N/A |
-| 24 | [Gazza](http://twitter.com/search?q=Gazza) | N/A |
-| 25 | [RACE WEEK](http://twitter.com/search?q=RACE+WEEK) | N/A |
-| 26 | [Banky](http://twitter.com/search?q=Banky) | N/A |
-| 27 | [Noel Gallagher](http://twitter.com/search?q=Noel+Gallagher) | N/A |
+| 17 | [Steve Baker](http://twitter.com/search?q=Steve+Baker) | N/A |
+| 18 | [Ofgem](http://twitter.com/search?q=Ofgem) | N/A |
+| 19 | [Queen](http://twitter.com/search?q=Queen) | N/A |
+| 20 | [Sarah Jane](http://twitter.com/search?q=Sarah+Jane) | N/A |
+| 21 | [Plateau](http://twitter.com/search?q=Plateau) | N/A |
+| 22 | [Noel Gallagher](http://twitter.com/search?q=Noel+Gallagher) | N/A |
+| 23 | [Northern Lights](http://twitter.com/search?q=Northern+Lights) | N/A |
+| 24 | [Labour MPs](http://twitter.com/search?q=Labour+MPs) | N/A |
+| 25 | [Tennant](http://twitter.com/search?q=Tennant) | N/A |
+| 26 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
+| 27 | [Windsor](http://twitter.com/search?q=Windsor) | N/A |
 | 28 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
-| 29 | [Energy Price Guarantee](http://twitter.com/search?q=Energy+Price+Guarantee) | N/A |
-| 30 | [Tinubu](http://twitter.com/search?q=Tinubu) | N/A |
+| 29 | [Robyn](http://twitter.com/search?q=Robyn) | Robyn is a female given name of English origin, derived from the Old Germanic name Hrodebert, meaning "bright fame". It is also a variant spelling of the name Robin. |
+| 30 | [Jamaica](http://twitter.com/search?q=Jamaica) | N/A |
 | 31 | [Sanwo Olu](http://twitter.com/search?q=Sanwo+Olu) | N/A |
-| 32 | [Sitter](http://twitter.com/search?q=Sitter) | N/A |
-| 33 | [World Book Week](http://twitter.com/search?q=World+Book+Week) | N/A |
-| 34 | [Rachel Reeves](http://twitter.com/search?q=Rachel+Reeves) | N/A |
-| 35 | [Daily Quordle 399](http://twitter.com/search?q=Daily+Quordle+399) | N/A |
-| 36 | [On Friday](http://twitter.com/search?q=On+Friday) | N/A |
-| 37 | [England and Wales](http://twitter.com/search?q=England+and+Wales) | N/A |
-| 38 | [Universal Credit](http://twitter.com/search?q=Universal+Credit) | N/A |
-| 39 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
-| 40 | [The Queen](http://twitter.com/search?q=The+Queen) | N/A |
-| 41 | [Monarchy](http://twitter.com/search?q=Monarchy) | N/A |
-| 42 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
-| 43 | [Governor](http://twitter.com/search?q=Governor) | N/A |
-| 44 | [Ekiti](http://twitter.com/search?q=Ekiti) | N/A |
-| 45 | [New IRA](http://twitter.com/search?q=New+IRA) | N/A |
-| 46 | [Wordle 618 X](http://twitter.com/search?q=Wordle+618+X) | N/A |
-| 47 | [Atiku](http://twitter.com/search?q=Atiku) | N/A |
-| 48 | [Peter Kay](http://twitter.com/search?q=Peter+Kay) | N/A |
-| 49 | [Mark Francois](http://twitter.com/search?q=Mark+Francois) | N/A |
+| 32 | [Energy Price Guarantee](http://twitter.com/search?q=Energy+Price+Guarantee) | N/A |
+| 33 | [Banky](http://twitter.com/search?q=Banky) | N/A |
+| 34 | [Gazza](http://twitter.com/search?q=Gazza) | N/A |
+| 35 | [Tinubu](http://twitter.com/search?q=Tinubu) | N/A |
+| 36 | [Northern Ireland Protocol](http://twitter.com/search?q=Northern+Ireland+Protocol) | N/A |
+| 37 | [Blood](http://twitter.com/search?q=Blood) | N/A |
+| 38 | [ITS RACE WEEK](http://twitter.com/search?q=ITS+RACE+WEEK) | N/A |
+| 39 | [On Friday](http://twitter.com/search?q=On+Friday) | N/A |
+| 40 | [England and Wales](http://twitter.com/search?q=England+and+Wales) | N/A |
+| 41 | [Universal Credit](http://twitter.com/search?q=Universal+Credit) | N/A |
+| 42 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
+| 43 | [Monarchy](http://twitter.com/search?q=Monarchy) | N/A |
+| 44 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
+| 45 | [Silverstone](http://twitter.com/search?q=Silverstone) | N/A |
+| 46 | [Daily Quordle 399](http://twitter.com/search?q=Daily+Quordle+399) | N/A |
+| 47 | [Governor](http://twitter.com/search?q=Governor) | N/A |
+| 48 | [New IRA](http://twitter.com/search?q=New+IRA) | N/A |
+| 49 | [Wordle 618 X](http://twitter.com/search?q=Wordle+618+X) | N/A |
 
 
 

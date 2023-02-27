@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Surat
 
-📆 Last Updated: `2023-02-27 13:21:16 UTC`
+📆 Last Updated: `2023-02-27 14:16:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [India](</India>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#AskKartik](http://twitter.com/search?q=%23AskKartik) | N/A |
-| 2 | [#News18LuxurySummit](http://twitter.com/search?q=%23News18LuxurySummit) | N/A |
-| 3 | [उमेश पाल](http://twitter.com/search?q=%e0%a4%89%e0%a4%ae%e0%a5%87%e0%a4%b6+%e0%a4%aa%e0%a4%be%e0%a4%b2) | N/A |
-| 4 | [#ManishSisodiaArrested](http://twitter.com/search?q=%23ManishSisodiaArrested) | N/A |
-| 5 | [#ProteinDay](http://twitter.com/search?q=%23ProteinDay) | N/A |
+| 2 | [#SportstarAces](http://twitter.com/search?q=%23SportstarAces) | N/A |
+| 3 | [#OdishaBestState4Sports](http://twitter.com/search?q=%23OdishaBestState4Sports) | N/A |
+| 4 | [#News18LuxurySummit](http://twitter.com/search?q=%23News18LuxurySummit) | N/A |
+| 5 | [उमेश पाल](http://twitter.com/search?q=%e0%a4%89%e0%a4%ae%e0%a5%87%e0%a4%b6+%e0%a4%aa%e0%a4%be%e0%a4%b2) | N/A |
 | 6 | [नेहरू पार्क](http://twitter.com/search?q=%e0%a4%a8%e0%a5%87%e0%a4%b9%e0%a4%b0%e0%a5%82+%e0%a4%aa%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%95) | N/A |
-| 7 | [PRIYANKIT X DMF SOON](http://twitter.com/search?q=PRIYANKIT+X+DMF+SOON) | N/A |
-| 8 | [अरबाज़ पुलिस](http://twitter.com/search?q=%e0%a4%85%e0%a4%b0%e0%a4%ac%e0%a4%be%e0%a4%9c%e0%a4%bc+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
-| 9 | [एवेन्यू कोर्ट](http://twitter.com/search?q=%e0%a4%8f%e0%a4%b5%e0%a5%87%e0%a4%a8%e0%a5%8d%e0%a4%af%e0%a5%82+%e0%a4%95%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%9f) | N/A |
+| 7 | [Vivek Agnihotri](http://twitter.com/search?q=Vivek+Agnihotri) | N/A |
+| 8 | [PRIYANKIT X DMF SOON](http://twitter.com/search?q=PRIYANKIT+X+DMF+SOON) | N/A |
+| 9 | [$SNFTS](http://twitter.com/search?q=%24SNFTS) | N/A |
 | 10 | [Belagavi](http://twitter.com/search?q=Belagavi) | N/A |
-| 11 | [चंद्रशेखर आज़ाद](http://twitter.com/search?q=%e0%a4%9a%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a4%b6%e0%a5%87%e0%a4%96%e0%a4%b0+%e0%a4%86%e0%a4%9c%e0%a4%bc%e0%a4%be%e0%a4%a6) | N/A |
-| 12 | [रंगा बिल्ला](http://twitter.com/search?q=%e0%a4%b0%e0%a4%82%e0%a4%97%e0%a4%be+%e0%a4%ac%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a4%be) | N/A |
-| 13 | [जनपद पुलिस](http://twitter.com/search?q=%e0%a4%9c%e0%a4%a8%e0%a4%aa%e0%a4%a6+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
-| 14 | [Rouse Avenue](http://twitter.com/search?q=Rouse+Avenue) | N/A |
-| 15 | [महान क्रांतिकारी](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%95%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%82%e0%a4%a4%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80) | N/A |
-| 16 | [om shanti](http://twitter.com/search?q=om+shanti) | N/A |
-| 17 | [We Love Emraan As Om Prakash](http://twitter.com/search?q=We+Love+Emraan+As+Om+Prakash) | N/A |
-| 18 | [UP Police](http://twitter.com/search?q=UP+Police) | N/A |
-| 19 | [सदा याद](http://twitter.com/search?q=%e0%a4%b8%e0%a4%a6%e0%a4%be+%e0%a4%af%e0%a4%be%e0%a4%a6) | N/A |
-| 20 | [Vistara](http://twitter.com/search?q=Vistara) | N/A |
+| 11 | [अरबाज़ पुलिस](http://twitter.com/search?q=%e0%a4%85%e0%a4%b0%e0%a4%ac%e0%a4%be%e0%a4%9c%e0%a4%bc+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
+| 12 | [एवेन्यू कोर्ट](http://twitter.com/search?q=%e0%a4%8f%e0%a4%b5%e0%a5%87%e0%a4%a8%e0%a5%8d%e0%a4%af%e0%a5%82+%e0%a4%95%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%9f) | N/A |
+| 13 | [चंद्रशेखर आज़ाद](http://twitter.com/search?q=%e0%a4%9a%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a4%b6%e0%a5%87%e0%a4%96%e0%a4%b0+%e0%a4%86%e0%a4%9c%e0%a4%bc%e0%a4%be%e0%a4%a6) | N/A |
+| 14 | [रंगा बिल्ला](http://twitter.com/search?q=%e0%a4%b0%e0%a4%82%e0%a4%97%e0%a4%be+%e0%a4%ac%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a4%be) | N/A |
+| 15 | [Vistara](http://twitter.com/search?q=Vistara) | N/A |
+| 16 | [UP Police](http://twitter.com/search?q=UP+Police) | N/A |
+| 17 | [Rouse Avenue](http://twitter.com/search?q=Rouse+Avenue) | N/A |
+| 18 | [Om Shanti](http://twitter.com/search?q=Om+Shanti) | N/A |
+| 19 | [We Love Emraan as Om Prakash](http://twitter.com/search?q=We+Love+Emraan+as+Om+Prakash) | N/A |
+| 20 | [सदा याद](http://twitter.com/search?q=%e0%a4%b8%e0%a4%a6%e0%a4%be+%e0%a4%af%e0%a4%be%e0%a4%a6) | N/A |
 | 21 | [Beth Mooney](http://twitter.com/search?q=Beth+Mooney) | N/A |
-| 22 | [chahal](http://twitter.com/search?q=chahal) | N/A |
-| 23 | [Almost 3Yrs SSRJustice Pending](http://twitter.com/search?q=Almost+3Yrs+SSRJustice+Pending) | N/A |
-| 24 | [ALL TIME BLOCKBUSTER](http://twitter.com/search?q=ALL+TIME+BLOCKBUSTER) | N/A |
-| 25 | [Murder](http://twitter.com/search?q=Murder) | N/A |
+| 22 | [निधि योजना](http://twitter.com/search?q=%e0%a4%a8%e0%a4%bf%e0%a4%a7%e0%a4%bf+%e0%a4%af%e0%a5%8b%e0%a4%9c%e0%a4%a8%e0%a4%be) | N/A |
+| 23 | [राष्ट्रीय संस्कृति](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%b8%e0%a4%82%e0%a4%b8%e0%a5%8d%e0%a4%95%e0%a5%83%e0%a4%a4%e0%a4%bf) | N/A |
+| 24 | [Murder](http://twitter.com/search?q=Murder) | N/A |
+| 25 | [Chahal](http://twitter.com/search?q=Chahal) | N/A |
 | 26 | [2nd March](http://twitter.com/search?q=2nd+March) | N/A |
-| 27 | [नानाजी देशमुख](http://twitter.com/search?q=%e0%a4%a8%e0%a4%be%e0%a4%a8%e0%a4%be%e0%a4%9c%e0%a5%80+%e0%a4%a6%e0%a5%87%e0%a4%b6%e0%a4%ae%e0%a5%81%e0%a4%96) | N/A |
-| 28 | [साबरमती एक्सप्रेस](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%ac%e0%a4%b0%e0%a4%ae%e0%a4%a4%e0%a5%80+%e0%a4%8f%e0%a4%95%e0%a5%8d%e0%a4%b8%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%b8) | N/A |
-| 29 | [उत्तर प्रदेश पुलिस](http://twitter.com/search?q=%e0%a4%89%e0%a4%a4%e0%a5%8d%e0%a4%a4%e0%a4%b0+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
-| 30 | [भारतीय स्वतंत्रता संग्राम](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%a4%e0%a4%be+%e0%a4%b8%e0%a4%82%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 31 | [प्रदेश कार्यालय](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6+%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%b2%e0%a4%af) | N/A |
-| 32 | [शीला दीक्षित](http://twitter.com/search?q=%e0%a4%b6%e0%a5%80%e0%a4%b2%e0%a4%be+%e0%a4%a6%e0%a5%80%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%bf%e0%a4%a4) | N/A |
-| 33 | [शिक्षा नीति](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be+%e0%a4%a8%e0%a5%80%e0%a4%a4%e0%a4%bf) | N/A |
-| 34 | [Hon'ble PM Shri](http://twitter.com/search?q=Hon%27ble+PM+Shri) | N/A |
-| 35 | [Delhi Deputy CM](http://twitter.com/search?q=Delhi+Deputy+CM) | N/A |
-| 36 | [NGOs](http://twitter.com/search?q=NGOs) | N/A |
-| 37 | [दारू मंत्री](http://twitter.com/search?q=%e0%a4%a6%e0%a4%be%e0%a4%b0%e0%a5%82+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 38 | [The Kashmir Files](http://twitter.com/search?q=The+Kashmir+Files) | N/A |
-| 39 | [3rd March](http://twitter.com/search?q=3rd+March) | N/A |
-| 40 | [राजस्थान केसरी](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be%e0%a4%a8+%e0%a4%95%e0%a5%87%e0%a4%b8%e0%a4%b0%e0%a5%80) | N/A |
-| 41 | [#AJIOHeistRevealed](http://twitter.com/search?q=%23AJIOHeistRevealed) | N/A |
-| 42 | [#Encounter](http://twitter.com/search?q=%23Encounter) | N/A |
-| 43 | [#Prayagraj](http://twitter.com/search?q=%23Prayagraj) | N/A |
-| 44 | [#umeshpal](http://twitter.com/search?q=%23umeshpal) | N/A |
-| 45 | [#Pichaikkaran2](http://twitter.com/search?q=%23Pichaikkaran2) | N/A |
-| 46 | [#100கோடி_ஆட்டையபோட்ட_ஆடு](http://twitter.com/search?q=%23100%e0%ae%95%e0%af%8b%e0%ae%9f%e0%ae%bf_%e0%ae%86%e0%ae%9f%e0%af%8d%e0%ae%9f%e0%af%88%e0%ae%af%e0%ae%aa%e0%af%8b%e0%ae%9f%e0%af%8d%e0%ae%9f_%e0%ae%86%e0%ae%9f%e0%af%81) | N/A |
-| 47 | [#MahilaMorcha1CrSelfies](http://twitter.com/search?q=%23MahilaMorcha1CrSelfies) | N/A |
-| 48 | [#RailInfra4Karnataka](http://twitter.com/search?q=%23RailInfra4Karnataka) | N/A |
-| 49 | [#ChandrashekharAzad](http://twitter.com/search?q=%23ChandrashekharAzad) | N/A |
+| 27 | [प्रदेश कार्यालय](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6+%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%b2%e0%a4%af) | N/A |
+| 28 | [Almost 3Yrs SSRJustice Pending](http://twitter.com/search?q=Almost+3Yrs+SSRJustice+Pending) | N/A |
+| 29 | [दारू मंत्री](http://twitter.com/search?q=%e0%a4%a6%e0%a4%be%e0%a4%b0%e0%a5%82+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
+| 30 | [Hon'ble PM Shri](http://twitter.com/search?q=Hon%27ble+PM+Shri) | N/A |
+| 31 | [उत्तर प्रदेश पुलिस](http://twitter.com/search?q=%e0%a4%89%e0%a4%a4%e0%a5%8d%e0%a4%a4%e0%a4%b0+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
+| 32 | [शिक्षा नीति](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be+%e0%a4%a8%e0%a5%80%e0%a4%a4%e0%a4%bf) | N/A |
+| 33 | [Delhi Deputy CM](http://twitter.com/search?q=Delhi+Deputy+CM) | N/A |
+| 34 | [3rd March](http://twitter.com/search?q=3rd+March) | N/A |
+| 35 | [NGOs](http://twitter.com/search?q=NGOs) | N/A |
+| 36 | [शीला दीक्षित](http://twitter.com/search?q=%e0%a4%b6%e0%a5%80%e0%a4%b2%e0%a4%be+%e0%a4%a6%e0%a5%80%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%bf%e0%a4%a4) | N/A |
+| 37 | [राजस्थान केसरी](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be%e0%a4%a8+%e0%a4%95%e0%a5%87%e0%a4%b8%e0%a4%b0%e0%a5%80) | N/A |
+| 38 | [#AngelOneForAll](http://twitter.com/search?q=%23AngelOneForAll) | N/A |
+| 39 | [#Encounter](http://twitter.com/search?q=%23Encounter) | N/A |
+| 40 | [#Pichaikkaran2](http://twitter.com/search?q=%23Pichaikkaran2) | N/A |
+| 41 | [#Prayagraj](http://twitter.com/search?q=%23Prayagraj) | N/A |
+| 42 | [#ProteinDay](http://twitter.com/search?q=%23ProteinDay) | N/A |
+| 43 | [#100கோடி_ஆட்டையபோட்ட_ஆடு](http://twitter.com/search?q=%23100%e0%ae%95%e0%af%8b%e0%ae%9f%e0%ae%bf_%e0%ae%86%e0%ae%9f%e0%af%8d%e0%ae%9f%e0%af%88%e0%ae%af%e0%ae%aa%e0%af%8b%e0%ae%9f%e0%af%8d%e0%ae%9f_%e0%ae%86%e0%ae%9f%e0%af%81) | N/A |
+| 44 | [#ExitPolls](http://twitter.com/search?q=%23ExitPolls) | N/A |
+| 45 | [#ManishSisodiaArrested](http://twitter.com/search?q=%23ManishSisodiaArrested) | N/A |
+| 46 | [#AJIOHeistRevealed](http://twitter.com/search?q=%23AJIOHeistRevealed) | N/A |
+| 47 | [#My11CircleTestOfTests](http://twitter.com/search?q=%23My11CircleTestOfTests) | N/A |
+| 48 | [#umeshpal](http://twitter.com/search?q=%23umeshpal) | N/A |
+| 49 | [#MahilaMorcha1CrSelfies](http://twitter.com/search?q=%23MahilaMorcha1CrSelfies) | N/A |
 
 
 

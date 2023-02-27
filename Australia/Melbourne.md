@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Melbourne
 
-📆 Last Updated: `2023-02-27 13:21:01 UTC`
+📆 Last Updated: `2023-02-27 14:16:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Australia](</Australia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#QandA](http://twitter.com/search?q=%23QandA) | N/A |
-| 2 | [#SurvivorAU](http://twitter.com/search?q=%23SurvivorAU) | N/A |
-| 3 | [Mardi Gras](http://twitter.com/search?q=Mardi+Gras) | N/A |
-| 4 | [#MAFS](http://twitter.com/search?q=%23MAFS) | N/A |
-| 5 | [Flick](http://twitter.com/search?q=Flick) | N/A |
+| 1 | [#SurvivorAU](http://twitter.com/search?q=%23SurvivorAU) | N/A |
+| 2 | [Mardi Gras](http://twitter.com/search?q=Mardi+Gras) | N/A |
+| 3 | [#QandA](http://twitter.com/search?q=%23QandA) | N/A |
+| 4 | [Flick](http://twitter.com/search?q=Flick) | N/A |
+| 5 | [#PokemonPresents](http://twitter.com/search?q=%23PokemonPresents) | N/A |
 | 6 | [#PaulFury](http://twitter.com/search?q=%23PaulFury) | N/A |
 | 7 | [Shonee](http://twitter.com/search?q=Shonee) | N/A |
 | 8 | [#askkenty](http://twitter.com/search?q=%23askkenty) | N/A |
-| 9 | [Lidia](http://twitter.com/search?q=Lidia) | N/A |
-| 10 | [Tayla](http://twitter.com/search?q=Tayla) | N/A |
+| 9 | [Lidia Thorpe](http://twitter.com/search?q=Lidia+Thorpe) | N/A |
+| 10 | [tayla](http://twitter.com/search?q=tayla) | N/A |
 | 11 | [Sandy](http://twitter.com/search?q=Sandy) | N/A |
 | 12 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
 | 13 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
 | 14 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
-| 15 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
+| 15 | [Hayley](http://twitter.com/search?q=Hayley) | N/A |
 | 16 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
-| 17 | [Woody](http://twitter.com/search?q=Woody) | Woody is a slang term used to describe someone who is strong, tough, and determined. It can also be used to describe someone who is stubborn and unyielding. |
-| 18 | [Hayley](http://twitter.com/search?q=Hayley) | N/A |
-| 19 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 20 | [Shaun](http://twitter.com/search?q=Shaun) | N/A |
-| 21 | [joffa](http://twitter.com/search?q=joffa) | N/A |
-| 22 | [Father Bob](http://twitter.com/search?q=Father+Bob) | N/A |
-| 23 | [andrew asten](http://twitter.com/search?q=andrew+asten) | N/A |
-| 24 | [Rachel](http://twitter.com/search?q=Rachel) | N/A |
-| 25 | [Simon](http://twitter.com/search?q=Simon) | N/A |
-| 26 | [Shiz](http://twitter.com/search?q=Shiz) | N/A |
-| 27 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
-| 28 | [Stan Grant](http://twitter.com/search?q=Stan+Grant) | N/A |
-| 29 | [Olivia Newton](http://twitter.com/search?q=Olivia+Newton) | N/A |
-| 30 | [Woodside](http://twitter.com/search?q=Woodside) | N/A |
-| 31 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
-| 32 | [David](http://twitter.com/search?q=David) | N/A |
-| 33 | [JetStar](http://twitter.com/search?q=JetStar) | N/A |
-| 34 | [Noora](http://twitter.com/search?q=Noora) | N/A |
-| 35 | [Fauci](http://twitter.com/search?q=Fauci) | N/A |
-| 36 | [Morris](http://twitter.com/search?q=Morris) | N/A |
-| 37 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 38 | [Albo](http://twitter.com/search?q=Albo) | N/A |
-| 39 | [rowan dean](http://twitter.com/search?q=rowan+dean) | N/A |
-| 40 | [Stevie](http://twitter.com/search?q=Stevie) | Stevie is a nickname for the name Steven or Stephen. It is derived from the Greek name Stephanos, which means "crown" or "garland". |
-| 41 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
-| 42 | [Saul Griffith](http://twitter.com/search?q=Saul+Griffith) | N/A |
-| 43 | [Damian Lillard](http://twitter.com/search?q=Damian+Lillard) | Damian Lillard is an American professional basketball player who currently plays for the Portland Trail Blazers of the National Basketball Association (NBA). He is a six-time NBA All-Star and was named the NBA Rookie of the Year in 2013. |
-| 44 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
-| 45 | [Spanian](http://twitter.com/search?q=Spanian) | N/A |
-| 46 | [Scott Adams](http://twitter.com/search?q=Scott+Adams) | N/A |
-| 47 | [INEC](http://twitter.com/search?q=INEC) | N/A |
-| 48 | [Jason Castagna](http://twitter.com/search?q=Jason+Castagna) | N/A |
-| 49 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 50 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
+| 17 | [Shaun](http://twitter.com/search?q=Shaun) | N/A |
+| 18 | [Joffa](http://twitter.com/search?q=Joffa) | N/A |
+| 19 | [Woody](http://twitter.com/search?q=Woody) | Woody is a slang term used to describe someone who is strong, tough, and determined. It can also be used to describe someone who is stubborn and unyielding. |
+| 20 | [Andrew Asten](http://twitter.com/search?q=Andrew+Asten) | N/A |
+| 21 | [Father Bob](http://twitter.com/search?q=Father+Bob) | N/A |
+| 22 | [Shiz](http://twitter.com/search?q=Shiz) | N/A |
+| 23 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
+| 24 | [Simon](http://twitter.com/search?q=Simon) | N/A |
+| 25 | [Olivia Newton](http://twitter.com/search?q=Olivia+Newton) | N/A |
+| 26 | [Woodside](http://twitter.com/search?q=Woodside) | N/A |
+| 27 | [Fauci](http://twitter.com/search?q=Fauci) | N/A |
+| 28 | [Jetstar](http://twitter.com/search?q=Jetstar) | N/A |
+| 29 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
+| 30 | [Noora](http://twitter.com/search?q=Noora) | N/A |
+| 31 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
+| 32 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 33 | [Rachel](http://twitter.com/search?q=Rachel) | N/A |
+| 34 | [Albo](http://twitter.com/search?q=Albo) | N/A |
+| 35 | [Stevie](http://twitter.com/search?q=Stevie) | Stevie is a nickname for the name Steven or Stephen. It is derived from the Greek name Stephanos, which means "crown" or "garland". |
+| 36 | [rowan dean](http://twitter.com/search?q=rowan+dean) | N/A |
+| 37 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 38 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
+| 39 | [Saul Griffith](http://twitter.com/search?q=Saul+Griffith) | N/A |
+| 40 | [Damian Lillard](http://twitter.com/search?q=Damian+Lillard) | Damian Lillard is an American professional basketball player who currently plays for the Portland Trail Blazers of the National Basketball Association (NBA). He is a six-time NBA All-Star and was named the NBA Rookie of the Year in 2013. |
+| 41 | [Scott Adams](http://twitter.com/search?q=Scott+Adams) | N/A |
+| 42 | [INEC](http://twitter.com/search?q=INEC) | N/A |
+| 43 | [spanian](http://twitter.com/search?q=spanian) | N/A |
+| 44 | [Gerry](http://twitter.com/search?q=Gerry) | N/A |
+| 45 | [Jason Castagna](http://twitter.com/search?q=Jason+Castagna) | N/A |
+| 46 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 47 | [Blackmores](http://twitter.com/search?q=Blackmores) | N/A |
+| 48 | [Dan Andrews](http://twitter.com/search?q=Dan+Andrews) | N/A |
+| 49 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
+| 50 | [Ty Lue](http://twitter.com/search?q=Ty+Lue) | Ty Lue is the name of an American basketball coach and former player. He is currently the head coach of the Los Angeles Clippers of the National Basketball Association (NBA). The name "Ty Lue" is derived from his given name, Tyronn. |
 
 
 
