@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Germany
 
-📆 Last Updated: `2023-02-27 01:45:41 UTC`
+📆 Last Updated: `2023-02-27 02:41:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,49 +22,49 @@ This is top 50 for Germany
 | 5 | [Demo](http://twitter.com/search?q=Demo) | N/A |
 | 6 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
 | 7 | [Helena](http://twitter.com/search?q=Helena) | N/A |
-| 8 | [#KitchenImpossible](http://twitter.com/search?q=%23KitchenImpossible) | N/A |
+| 8 | [#S04VfB](http://twitter.com/search?q=%23S04VfB) | N/A |
 | 9 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
 | 10 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
 | 11 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 12 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
-| 13 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
-| 14 | [Kinderlose](http://twitter.com/search?q=Kinderlose) | N/A |
-| 15 | [Joko](http://twitter.com/search?q=Joko) | N/A |
-| 16 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 17 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 18 | [Teilnehmer](http://twitter.com/search?q=Teilnehmer) | N/A |
-| 19 | [Panzer](http://twitter.com/search?q=Panzer) | N/A |
-| 20 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 21 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
-| 22 | [Sandro Wagner](http://twitter.com/search?q=Sandro+Wagner) | N/A |
+| 12 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
+| 13 | [Kinderlose](http://twitter.com/search?q=Kinderlose) | N/A |
+| 14 | [Joko](http://twitter.com/search?q=Joko) | N/A |
+| 15 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
+| 16 | [Panzer](http://twitter.com/search?q=Panzer) | N/A |
+| 17 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 18 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 19 | [Teilnehmer](http://twitter.com/search?q=Teilnehmer) | N/A |
+| 20 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
+| 21 | [Sandro Wagner](http://twitter.com/search?q=Sandro+Wagner) | N/A |
+| 22 | [Fratze Deutschlands](http://twitter.com/search?q=Fratze+Deutschlands) | N/A |
 | 23 | [John Lennon](http://twitter.com/search?q=John+Lennon) | N/A |
-| 24 | [Fratze Deutschlands](http://twitter.com/search?q=Fratze+Deutschlands) | N/A |
-| 25 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 26 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
-| 27 | [Pflegeversicherung](http://twitter.com/search?q=Pflegeversicherung) | N/A |
-| 28 | [INEC](http://twitter.com/search?q=INEC) | N/A |
-| 29 | [Abrams](http://twitter.com/search?q=Abrams) | Abrams is a surname of English and German origin. It is derived from the Germanic personal name Abraham, meaning "father of many". |
-| 30 | [Sonntag Abend](http://twitter.com/search?q=Sonntag+Abend) | N/A |
-| 31 | [frau müller](http://twitter.com/search?q=frau+m%c3%bcller) | N/A |
-| 32 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
-| 33 | [Irreführung der Bevölkerung](http://twitter.com/search?q=Irref%c3%bchrung+der+Bev%c3%b6lkerung) | N/A |
-| 34 | [Seite der Geschichte](http://twitter.com/search?q=Seite+der+Geschichte) | N/A |
-| 35 | [Botschaft](http://twitter.com/search?q=Botschaft) | N/A |
-| 36 | [Dohnanyi](http://twitter.com/search?q=Dohnanyi) | N/A |
-| 37 | [Verbrecher in die Geschichte](http://twitter.com/search?q=Verbrecher+in+die+Geschichte) | N/A |
-| 38 | [Hansa](http://twitter.com/search?q=Hansa) | N/A |
-| 39 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 40 | [Heidenheim](http://twitter.com/search?q=Heidenheim) | N/A |
-| 41 | [Moritz](http://twitter.com/search?q=Moritz) | N/A |
-| 42 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 43 | [Halbzeit](http://twitter.com/search?q=Halbzeit) | N/A |
-| 44 | [Mannschaft](http://twitter.com/search?q=Mannschaft) | N/A |
-| 45 | [Indien](http://twitter.com/search?q=Indien) | N/A |
+| 24 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 25 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
+| 26 | [Pflegeversicherung](http://twitter.com/search?q=Pflegeversicherung) | N/A |
+| 27 | [INEC](http://twitter.com/search?q=INEC) | N/A |
+| 28 | [Irreführung der Bevölkerung](http://twitter.com/search?q=Irref%c3%bchrung+der+Bev%c3%b6lkerung) | N/A |
+| 29 | [frau müller](http://twitter.com/search?q=frau+m%c3%bcller) | N/A |
+| 30 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
+| 31 | [Sonntag Abend](http://twitter.com/search?q=Sonntag+Abend) | N/A |
+| 32 | [Seite der Geschichte](http://twitter.com/search?q=Seite+der+Geschichte) | N/A |
+| 33 | [Botschaft](http://twitter.com/search?q=Botschaft) | N/A |
+| 34 | [Dohnanyi](http://twitter.com/search?q=Dohnanyi) | N/A |
+| 35 | [verbrecher in die geschichte](http://twitter.com/search?q=verbrecher+in+die+geschichte) | N/A |
+| 36 | [Hansa](http://twitter.com/search?q=Hansa) | N/A |
+| 37 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 38 | [Heidenheim](http://twitter.com/search?q=Heidenheim) | N/A |
+| 39 | [Indien](http://twitter.com/search?q=Indien) | N/A |
+| 40 | [Moritz](http://twitter.com/search?q=Moritz) | N/A |
+| 41 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 42 | [Mannschaft](http://twitter.com/search?q=Mannschaft) | N/A |
+| 43 | [Abrams](http://twitter.com/search?q=Abrams) | Abrams is a surname of English and German origin. It is derived from the Germanic personal name Abraham, meaning "father of many". |
+| 44 | [Halbzeit](http://twitter.com/search?q=Halbzeit) | N/A |
+| 45 | [Morty](http://twitter.com/search?q=Morty) | Morty is a nickname for the given name Mortimer, which is of English origin and means "dead sea". It can also be used as a diminutive form of the name Mortimer. |
 | 46 | [Verhandlungen](http://twitter.com/search?q=Verhandlungen) | N/A |
-| 47 | [Morty](http://twitter.com/search?q=Morty) | Morty is a nickname for the given name Mortimer, which is of English origin and means "dead sea". It can also be used as a diminutive form of the name Mortimer. |
-| 48 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
-| 49 | [Kundgebung](http://twitter.com/search?q=Kundgebung) | N/A |
-| 50 | [Süle](http://twitter.com/search?q=S%c3%bcle) | N/A |
+| 47 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
+| 48 | [Kundgebung](http://twitter.com/search?q=Kundgebung) | N/A |
+| 49 | [Punkte](http://twitter.com/search?q=Punkte) | N/A |
+| 50 | [Höcke](http://twitter.com/search?q=H%c3%b6cke) | N/A |
 
 
 

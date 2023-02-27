@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Maracay
 
-📆 Last Updated: `2023-02-27 01:44:49 UTC`
+📆 Last Updated: `2023-02-27 02:40:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,51 +17,51 @@ This is top 50 for [Venezuela](</Venezuela>)
 | ------- | ------------ | ------------ |
 | 1 | [#26Feb](http://twitter.com/search?q=%2326Feb) | N/A |
 | 2 | [#JuntosPorLaPatria](http://twitter.com/search?q=%23JuntosPorLaPatria) | N/A |
-| 3 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
-| 4 | [Almería](http://twitter.com/search?q=Almer%c3%ada) | Almería is a city in the southeastern region of Spain. It is the capital of the province of Almería and is located on the Mediterranean Sea. In English, Almería means "The Watchtower". |
-| 5 | [Capriles](http://twitter.com/search?q=Capriles) | N/A |
-| 6 | [Ana Gabriel](http://twitter.com/search?q=Ana+Gabriel) | N/A |
-| 7 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
-| 8 | [Autoevaluación HONESTA](http://twitter.com/search?q=Autoevaluaci%c3%b3n+HONESTA) | N/A |
-| 9 | [Tves](http://twitter.com/search?q=Tves) | N/A |
-| 10 | [#LouisComeToVenezuela](http://twitter.com/search?q=%23LouisComeToVenezuela) | N/A |
-| 11 | [Dedales](http://twitter.com/search?q=Dedales) | N/A |
-| 12 | [Garly Sojo](http://twitter.com/search?q=Garly+Sojo) | N/A |
+| 3 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
+| 4 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
+| 5 | [#LouisComeToVenezuela](http://twitter.com/search?q=%23LouisComeToVenezuela) | N/A |
+| 6 | [Che García](http://twitter.com/search?q=Che+Garc%c3%ada) | N/A |
+| 7 | [Dominicana](http://twitter.com/search?q=Dominicana) | Dominicana is the Spanish word for Dominican Republic, a Caribbean nation located on the island of Hispaniola. It is bordered by Haiti to the west and the Atlantic Ocean to the north and east. The Dominican Republic is known for its beautiful beaches, lush rainforests, and vibrant culture. |
+| 8 | [Almería](http://twitter.com/search?q=Almer%c3%ada) | Almería is a city in the southeastern region of Spain. It is the capital of the province of Almería and is located on the Mediterranean Sea. In English, Almería means "The Watchtower". |
+| 9 | [#FIBAWC2023](http://twitter.com/search?q=%23FIBAWC2023) | N/A |
+| 10 | [Ana Gabriel](http://twitter.com/search?q=Ana+Gabriel) | N/A |
+| 11 | [Capriles](http://twitter.com/search?q=Capriles) | N/A |
+| 12 | [Autoevaluación HONESTA](http://twitter.com/search?q=Autoevaluaci%c3%b3n+HONESTA) | N/A |
 | 13 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
-| 14 | [Eneas](http://twitter.com/search?q=Eneas) | N/A |
-| 15 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
-| 16 | [La Estancia](http://twitter.com/search?q=La+Estancia) | N/A |
-| 17 | [Ronaldinho](http://twitter.com/search?q=Ronaldinho) | N/A |
+| 14 | [Garly Sojo](http://twitter.com/search?q=Garly+Sojo) | N/A |
+| 15 | [La Estancia](http://twitter.com/search?q=La+Estancia) | N/A |
+| 16 | [Eneas](http://twitter.com/search?q=Eneas) | N/A |
+| 17 | [Dedales](http://twitter.com/search?q=Dedales) | N/A |
 | 18 | [Claudio](http://twitter.com/search?q=Claudio) | N/A |
-| 19 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
-| 20 | [Rondón](http://twitter.com/search?q=Rond%c3%b3n) | N/A |
-| 21 | [La Gata](http://twitter.com/search?q=La+Gata) | N/A |
-| 22 | [Primero Justicia](http://twitter.com/search?q=Primero+Justicia) | N/A |
-| 23 | [Carolina Herrera](http://twitter.com/search?q=Carolina+Herrera) | N/A |
-| 24 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
-| 25 | [Javier Solis](http://twitter.com/search?q=Javier+Solis) | N/A |
-| 26 | [DDHH](http://twitter.com/search?q=DDHH) | N/A |
-| 27 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
-| 28 | [Chelo Rodríguez](http://twitter.com/search?q=Chelo+Rodr%c3%adguez) | N/A |
-| 29 | [Bujía](http://twitter.com/search?q=Buj%c3%ada) | N/A |
-| 30 | [Eric García](http://twitter.com/search?q=Eric+Garc%c3%ada) | N/A |
-| 31 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 32 | [Elvis Presley](http://twitter.com/search?q=Elvis+Presley) | N/A |
-| 33 | [Acuña](http://twitter.com/search?q=Acu%c3%b1a) | Acuña is a Spanish surname derived from the place name Acuña, which is located in the province of León in northwestern Spain. The meaning of Acuña in English is "from Acuña". |
-| 34 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
-| 35 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 36 | [Gil Manzano](http://twitter.com/search?q=Gil+Manzano) | Gil Manzano is a Spanish surname. In English, it translates to "son of Manuel". |
-| 37 | [Carlos Olivier](http://twitter.com/search?q=Carlos+Olivier) | N/A |
-| 38 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 39 | [Juan Arango](http://twitter.com/search?q=Juan+Arango) | N/A |
-| 40 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 41 | [Maras](http://twitter.com/search?q=Maras) | N/A |
-| 42 | [Mineros](http://twitter.com/search?q=Mineros) | N/A |
-| 43 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 44 | [Forza Di Oro](http://twitter.com/search?q=Forza+Di+Oro) | N/A |
-| 45 | [Herminia Martinez](http://twitter.com/search?q=Herminia+Martinez) | N/A |
-| 46 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 47 | [Arturo Uslar Pietri](http://twitter.com/search?q=Arturo+Uslar+Pietri) | N/A |
+| 19 | [Tves](http://twitter.com/search?q=Tves) | N/A |
+| 20 | [Michael Carrera](http://twitter.com/search?q=Michael+Carrera) | N/A |
+| 21 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
+| 22 | [Ronaldinho](http://twitter.com/search?q=Ronaldinho) | N/A |
+| 23 | [DDHH](http://twitter.com/search?q=DDHH) | N/A |
+| 24 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
+| 25 | [Primero Justicia](http://twitter.com/search?q=Primero+Justicia) | N/A |
+| 26 | [Javier Solis](http://twitter.com/search?q=Javier+Solis) | N/A |
+| 27 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
+| 28 | [La Gata](http://twitter.com/search?q=La+Gata) | N/A |
+| 29 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 30 | [Bujía](http://twitter.com/search?q=Buj%c3%ada) | N/A |
+| 31 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
+| 32 | [Gil Manzano](http://twitter.com/search?q=Gil+Manzano) | Gil Manzano is a Spanish surname. In English, it translates to "son of Manuel". |
+| 33 | [Elvis Presley](http://twitter.com/search?q=Elvis+Presley) | N/A |
+| 34 | [Carlos Olivier](http://twitter.com/search?q=Carlos+Olivier) | N/A |
+| 35 | [Acuña](http://twitter.com/search?q=Acu%c3%b1a) | Acuña is a Spanish surname derived from the place name Acuña, which is located in the province of León in northwestern Spain. The meaning of Acuña in English is "from Acuña". |
+| 36 | [Carolina Herrera](http://twitter.com/search?q=Carolina+Herrera) | N/A |
+| 37 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
+| 38 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 39 | [Indonesia](http://twitter.com/search?q=Indonesia) | N/A |
+| 40 | [Maras](http://twitter.com/search?q=Maras) | N/A |
+| 41 | [Forza Di Oro](http://twitter.com/search?q=Forza+Di+Oro) | N/A |
+| 42 | [Herminia Martinez](http://twitter.com/search?q=Herminia+Martinez) | N/A |
+| 43 | [Chelo Rodríguez](http://twitter.com/search?q=Chelo+Rodr%c3%adguez) | N/A |
+| 44 | [Arturo Uslar Pietri](http://twitter.com/search?q=Arturo+Uslar+Pietri) | N/A |
+| 45 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 46 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 47 | [Rondón](http://twitter.com/search?q=Rond%c3%b3n) | N/A |
 
 
 

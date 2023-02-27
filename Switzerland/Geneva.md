@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-02-27 01:45:01 UTC`
+📆 Last Updated: `2023-02-27 02:40:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,18 +22,18 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 5 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
 | 6 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
 | 7 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 8 | [Bise](http://twitter.com/search?q=Bise) | N/A |
+| 8 | [bise](http://twitter.com/search?q=bise) | N/A |
 | 9 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
 | 10 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
 | 11 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 12 | [Lomepal](http://twitter.com/search?q=Lomepal) | N/A |
+| 12 | [lomepal](http://twitter.com/search?q=lomepal) | N/A |
 | 13 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
 | 14 | [Almeria](http://twitter.com/search?q=Almeria) | N/A |
 | 15 | [Katar](http://twitter.com/search?q=Katar) | N/A |
 | 16 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
 | 17 | [Maroc](http://twitter.com/search?q=Maroc) | N/A |
 | 18 | [Seite der Geschichte](http://twitter.com/search?q=Seite+der+Geschichte) | N/A |
-| 19 | [Marseille](http://twitter.com/search?q=Marseille) | N/A |
+| 19 | [Gerechtigkeit](http://twitter.com/search?q=Gerechtigkeit) | N/A |
 | 20 | [Entschuldigung](http://twitter.com/search?q=Entschuldigung) | N/A |
 | 21 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
 | 22 | [Andy](http://twitter.com/search?q=Andy) | N/A |
@@ -43,25 +43,25 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 26 | [Sofa](http://twitter.com/search?q=Sofa) | N/A |
 | 27 | [Framing](http://twitter.com/search?q=Framing) | N/A |
 | 28 | [Stuss](http://twitter.com/search?q=Stuss) | N/A |
-| 29 | [Köppel](http://twitter.com/search?q=K%c3%b6ppel) | N/A |
-| 30 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 31 | [Gerechtigkeit](http://twitter.com/search?q=Gerechtigkeit) | N/A |
-| 32 | [Tories](http://twitter.com/search?q=Tories) | N/A |
-| 33 | [Fair](http://twitter.com/search?q=Fair) | N/A |
-| 34 | [Schlein](http://twitter.com/search?q=Schlein) | N/A |
-| 35 | [FC SIon](http://twitter.com/search?q=FC+SIon) | N/A |
-| 36 | [Kapitulation](http://twitter.com/search?q=Kapitulation) | N/A |
-| 37 | [Jaaa](http://twitter.com/search?q=Jaaa) | N/A |
-| 38 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 39 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
-| 40 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 41 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 42 | [gemeinderat](http://twitter.com/search?q=gemeinderat) | N/A |
-| 43 | [Strategie](http://twitter.com/search?q=Strategie) | N/A |
-| 44 | [Zuwanderung](http://twitter.com/search?q=Zuwanderung) | N/A |
-| 45 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
-| 46 | [Argumente](http://twitter.com/search?q=Argumente) | N/A |
-| 47 | [Cassis](http://twitter.com/search?q=Cassis) | N/A |
+| 29 | [Tories](http://twitter.com/search?q=Tories) | N/A |
+| 30 | [Köppel](http://twitter.com/search?q=K%c3%b6ppel) | N/A |
+| 31 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 32 | [Fair](http://twitter.com/search?q=Fair) | N/A |
+| 33 | [Schlein](http://twitter.com/search?q=Schlein) | N/A |
+| 34 | [fc sion](http://twitter.com/search?q=fc+sion) | N/A |
+| 35 | [Strategie](http://twitter.com/search?q=Strategie) | N/A |
+| 36 | [Jaaa](http://twitter.com/search?q=Jaaa) | N/A |
+| 37 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 38 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 39 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 40 | [gemeinderat](http://twitter.com/search?q=gemeinderat) | N/A |
+| 41 | [zuwanderung](http://twitter.com/search?q=zuwanderung) | N/A |
+| 42 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
+| 43 | [Cassis](http://twitter.com/search?q=Cassis) | N/A |
+| 44 | [Argumente](http://twitter.com/search?q=Argumente) | N/A |
+| 45 | [Mitglied](http://twitter.com/search?q=Mitglied) | N/A |
+| 46 | [Politikern](http://twitter.com/search?q=Politikern) | N/A |
+| 47 | [Führung](http://twitter.com/search?q=F%c3%bchrung) | N/A |
 
 
 

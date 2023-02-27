@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-02-27 01:45:43 UTC`
+📆 Last Updated: `2023-02-27 02:41:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,7 +29,7 @@ This is top 50 for Latvia
 | 12 | [skaisti](http://twitter.com/search?q=skaisti) | N/A |
 | 13 | [domā](http://twitter.com/search?q=dom%c4%81) | N/A |
 | 14 | [Līdz](http://twitter.com/search?q=L%c4%abdz) | N/A |
-| 15 | [laba](http://twitter.com/search?q=laba) | N/A |
+| 15 | [Laba](http://twitter.com/search?q=Laba) | N/A |
 | 16 | [Baltic](http://twitter.com/search?q=Baltic) | N/A |
 | 17 | [#StandWithUkraine](http://twitter.com/search?q=%23StandWithUkraine) | N/A |
 | 18 | [#NFTCommunity](http://twitter.com/search?q=%23NFTCommunity) | N/A |
@@ -44,27 +44,27 @@ This is top 50 for Latvia
 | 27 | [sveiks](http://twitter.com/search?q=sveiks) | N/A |
 | 28 | [avenu](http://twitter.com/search?q=avenu) | N/A |
 | 29 | [putinam](http://twitter.com/search?q=putinam) | N/A |
-| 30 | [риге](http://twitter.com/search?q=%d1%80%d0%b8%d0%b3%d0%b5) | N/A |
-| 31 | [Viņš](http://twitter.com/search?q=Vi%c5%86%c5%a1) | N/A |
+| 30 | [Viņš](http://twitter.com/search?q=Vi%c5%86%c5%a1) | N/A |
+| 31 | [риге](http://twitter.com/search?q=%d1%80%d0%b8%d0%b3%d0%b5) | N/A |
 | 32 | [krimas](http://twitter.com/search?q=krimas) | N/A |
 | 33 | [vajadzēja](http://twitter.com/search?q=vajadz%c4%93ja) | N/A |
-| 34 | [USSR](http://twitter.com/search?q=USSR) | N/A |
-| 35 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 36 | [toties](http://twitter.com/search?q=toties) | N/A |
+| 34 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 35 | [toties](http://twitter.com/search?q=toties) | N/A |
+| 36 | [USSR](http://twitter.com/search?q=USSR) | N/A |
 | 37 | [nebūs](http://twitter.com/search?q=neb%c5%abs) | N/A |
-| 38 | [в латвии](http://twitter.com/search?q=%d0%b2+%d0%bb%d0%b0%d1%82%d0%b2%d0%b8%d0%b8) | N/A |
+| 38 | [В Латвии](http://twitter.com/search?q=%d0%92+%d0%9b%d0%b0%d1%82%d0%b2%d0%b8%d0%b8) | N/A |
 | 39 | [Riga](http://twitter.com/search?q=Riga) | N/A |
 | 40 | [daugavpilī](http://twitter.com/search?q=daugavpil%c4%ab) | N/A |
-| 41 | [Украины](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d1%8b) | N/A |
-| 42 | [Polijas](http://twitter.com/search?q=Polijas) | N/A |
-| 43 | [vairāk](http://twitter.com/search?q=vair%c4%81k) | N/A |
-| 44 | [ņemot](http://twitter.com/search?q=%c5%86emot) | N/A |
-| 45 | [Satversmes](http://twitter.com/search?q=Satversmes) | N/A |
-| 46 | [beidzot](http://twitter.com/search?q=beidzot) | N/A |
-| 47 | [Германии](http://twitter.com/search?q=%d0%93%d0%b5%d1%80%d0%bc%d0%b0%d0%bd%d0%b8%d0%b8) | N/A |
-| 48 | [lūdzu](http://twitter.com/search?q=l%c5%abdzu) | N/A |
-| 49 | [ja tu](http://twitter.com/search?q=ja+tu) | N/A |
-| 50 | [Valsts](http://twitter.com/search?q=Valsts) | N/A |
+| 41 | [polijas](http://twitter.com/search?q=polijas) | N/A |
+| 42 | [vairāk](http://twitter.com/search?q=vair%c4%81k) | N/A |
+| 43 | [ņemot](http://twitter.com/search?q=%c5%86emot) | N/A |
+| 44 | [satversmes](http://twitter.com/search?q=satversmes) | N/A |
+| 45 | [beidzot](http://twitter.com/search?q=beidzot) | N/A |
+| 46 | [ja tu](http://twitter.com/search?q=ja+tu) | N/A |
+| 47 | [lūdzu](http://twitter.com/search?q=l%c5%abdzu) | N/A |
+| 48 | [Krievu](http://twitter.com/search?q=Krievu) | N/A |
+| 49 | [šķiet](http://twitter.com/search?q=%c5%a1%c4%b7iet) | N/A |
+| 50 | [igauniju](http://twitter.com/search?q=igauniju) | N/A |
 
 
 

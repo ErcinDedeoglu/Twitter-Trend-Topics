@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Genoa
 
-📆 Last Updated: `2023-02-27 01:44:58 UTC`
+📆 Last Updated: `2023-02-27 02:40:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,49 +17,53 @@ This is top 50 for [Italy](</Italy>)
 | ------- | ------------ | ------------ |
 | 1 | [#Schlein](http://twitter.com/search?q=%23Schlein) | N/A |
 | 2 | [#primariepd2023](http://twitter.com/search?q=%23primariepd2023) | N/A |
-| 3 | [#MilanAtalanta](http://twitter.com/search?q=%23MilanAtalanta) | N/A |
-| 4 | [#Bonaccini](http://twitter.com/search?q=%23Bonaccini) | N/A |
-| 5 | [BUON COMPLEANNO DAYANE](http://twitter.com/search?q=BUON+COMPLEANNO+DAYANE) | N/A |
-| 6 | [Il PD](http://twitter.com/search?q=Il+PD) | N/A |
-| 7 | [Franceschini](http://twitter.com/search?q=Franceschini) | N/A |
-| 8 | [Renzi](http://twitter.com/search?q=Renzi) | N/A |
-| 9 | [Thiaw](http://twitter.com/search?q=Thiaw) | N/A |
-| 10 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
-| 11 | [Messias](http://twitter.com/search?q=Messias) | Messias is a Hebrew word meaning "anointed one" or "savior." It is used in the Bible to refer to Jesus Christ, who is seen as the promised Messiah of the Old Testament. In English, it is often translated as "Messiah." |
-| 12 | [Segretaria](http://twitter.com/search?q=Segretaria) | N/A |
-| 13 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 14 | [Krunic](http://twitter.com/search?q=Krunic) | N/A |
-| 15 | [Giletti](http://twitter.com/search?q=Giletti) | N/A |
-| 16 | [Partito Democratico](http://twitter.com/search?q=Partito+Democratico) | N/A |
-| 17 | [Gabbia](http://twitter.com/search?q=Gabbia) | N/A |
-| 18 | [Theo](http://twitter.com/search?q=Theo) | N/A |
-| 19 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
-| 20 | [Boccia](http://twitter.com/search?q=Boccia) | N/A |
-| 21 | [Sinistra](http://twitter.com/search?q=Sinistra) | N/A |
-| 22 | [Emilia Romagna](http://twitter.com/search?q=Emilia+Romagna) | N/A |
-| 23 | [Italia Viva](http://twitter.com/search?q=Italia+Viva) | N/A |
-| 24 | [Maignan](http://twitter.com/search?q=Maignan) | Maignan is a French surname derived from the Old French word maigne, meaning "beloved". It is most commonly found in the regions of Normandy and Brittany. In English, it can be translated to mean "beloved one". |
-| 25 | [De Filippi](http://twitter.com/search?q=De+Filippi) | N/A |
-| 26 | [Hojlund](http://twitter.com/search?q=Hojlund) | N/A |
-| 27 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 28 | [Bennacer](http://twitter.com/search?q=Bennacer) | N/A |
-| 29 | [De Luca](http://twitter.com/search?q=De+Luca) | N/A |
-| 30 | [Mike](http://twitter.com/search?q=Mike) | N/A |
-| 31 | [Crotone](http://twitter.com/search?q=Crotone) | N/A |
-| 32 | [Bersani](http://twitter.com/search?q=Bersani) | N/A |
-| 33 | [Grecia](http://twitter.com/search?q=Grecia) | N/A |
-| 34 | [#nonelarena](http://twitter.com/search?q=%23nonelarena) | N/A |
-| 35 | [#SAGAwards](http://twitter.com/search?q=%23SAGAwards) | N/A |
-| 36 | [#CTCF](http://twitter.com/search?q=%23CTCF) | N/A |
-| 37 | [#restaconme](http://twitter.com/search?q=%23restaconme) | N/A |
-| 38 | [#Mentana](http://twitter.com/search?q=%23Mentana) | N/A |
-| 39 | [#Ibrahimovic](http://twitter.com/search?q=%23Ibrahimovic) | N/A |
-| 40 | [#zonabianca](http://twitter.com/search?q=%23zonabianca) | N/A |
-| 41 | [#Gasperini](http://twitter.com/search?q=%23Gasperini) | N/A |
-| 42 | [#Pioli](http://twitter.com/search?q=%23Pioli) | N/A |
-| 43 | [#Piantedosi](http://twitter.com/search?q=%23Piantedosi) | N/A |
-| 44 | [#Cutro](http://twitter.com/search?q=%23Cutro) | N/A |
-| 45 | [#casabalestra](http://twitter.com/search?q=%23casabalestra) | N/A |
+| 3 | [#BolognaInter](http://twitter.com/search?q=%23BolognaInter) | N/A |
+| 4 | [#MilanAtalanta](http://twitter.com/search?q=%23MilanAtalanta) | N/A |
+| 5 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
+| 6 | [De Filippi](http://twitter.com/search?q=De+Filippi) | N/A |
+| 7 | [BUON COMPLEANNO DAYANE](http://twitter.com/search?q=BUON+COMPLEANNO+DAYANE) | N/A |
+| 8 | [buona domenica](http://twitter.com/search?q=buona+domenica) | N/A |
+| 9 | [Renzi](http://twitter.com/search?q=Renzi) | N/A |
+| 10 | [Franceschini](http://twitter.com/search?q=Franceschini) | N/A |
+| 11 | [Ambrosio](http://twitter.com/search?q=Ambrosio) | N/A |
+| 12 | [Thiaw](http://twitter.com/search?q=Thiaw) | N/A |
+| 13 | [Il PD](http://twitter.com/search?q=Il+PD) | N/A |
+| 14 | [Orsolini](http://twitter.com/search?q=Orsolini) | N/A |
+| 15 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
+| 16 | [Thiago Motta](http://twitter.com/search?q=Thiago+Motta) | N/A |
+| 17 | [Murgia](http://twitter.com/search?q=Murgia) | Murgia is a geographical region in southern Italy, located in the provinces of Bari and Taranto. It is characterized by its limestone hills, deep ravines, and caves. The name Murgia comes from the Latin word murex, meaning "rocky hill". In English, Murgia can be translated as "rocky land". |
+| 18 | [Musso](http://twitter.com/search?q=Musso) | N/A |
+| 19 | [Messias](http://twitter.com/search?q=Messias) | Messias is a Hebrew word meaning "anointed one" or "savior." It is used in the Bible to refer to Jesus Christ, who is seen as the promised Messiah of the Old Testament. In English, it is often translated as "Messiah." |
+| 20 | [Theo](http://twitter.com/search?q=Theo) | N/A |
+| 21 | [orsato](http://twitter.com/search?q=orsato) | N/A |
+| 22 | [Vecchioni](http://twitter.com/search?q=Vecchioni) | N/A |
+| 23 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 24 | [Gabbia](http://twitter.com/search?q=Gabbia) | N/A |
+| 25 | [Libia](http://twitter.com/search?q=Libia) | N/A |
+| 26 | [Jankto](http://twitter.com/search?q=Jankto) | N/A |
+| 27 | [Mediterraneo](http://twitter.com/search?q=Mediterraneo) | N/A |
+| 28 | [Fassino](http://twitter.com/search?q=Fassino) | N/A |
+| 29 | [Partito Democratico](http://twitter.com/search?q=Partito+Democratico) | N/A |
+| 30 | [Bersani](http://twitter.com/search?q=Bersani) | N/A |
+| 31 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 32 | [Sciacallo](http://twitter.com/search?q=Sciacallo) | N/A |
+| 33 | [Dumfries](http://twitter.com/search?q=Dumfries) | N/A |
+| 34 | [Scalfarotto](http://twitter.com/search?q=Scalfarotto) | N/A |
+| 35 | [Sinistra](http://twitter.com/search?q=Sinistra) | N/A |
+| 36 | [De Vrij](http://twitter.com/search?q=De+Vrij) | N/A |
+| 37 | [Le ONG](http://twitter.com/search?q=Le+ONG) | N/A |
+| 38 | [Mario Rui](http://twitter.com/search?q=Mario+Rui) | N/A |
+| 39 | [Emilia Romagna](http://twitter.com/search?q=Emilia+Romagna) | N/A |
+| 40 | [Zlatan](http://twitter.com/search?q=Zlatan) | Zlatan is a nickname for the Swedish soccer player Zlatan Ibrahimović. It is derived from his first name and is used to refer to him in a friendly or affectionate way. In English, it can be translated as "golden one". |
+| 41 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 42 | [Bettini](http://twitter.com/search?q=Bettini) | N/A |
+| 43 | [Notte](http://twitter.com/search?q=Notte) | N/A |
+| 44 | [Terzo Polo](http://twitter.com/search?q=Terzo+Polo) | N/A |
+| 45 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
+| 46 | [Maignan](http://twitter.com/search?q=Maignan) | Maignan is a French surname derived from the Old French word maigne, meaning "beloved". It is most commonly found in the regions of Normandy and Brittany. In English, it can be translated to mean "beloved one". |
+| 47 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 48 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
+| 49 | [Dallas](http://twitter.com/search?q=Dallas) | Dallas is a city in the U.S. state of Texas. It is the ninth most populous city in the United States and the third-largest in Texas after Houston and San Antonio. The city's population ranks ninth in the U.S. and third in Texas after Houston and San Antonio. Dallas is known for its oil, telecommunications, banking, technology, healthcare, defense, transportation, and commerce industries. |
 
 
 
