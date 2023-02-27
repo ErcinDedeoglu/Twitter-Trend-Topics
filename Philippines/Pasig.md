@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pasig
 
-📆 Last Updated: `2023-02-27 11:16:31 UTC`
+📆 Last Updated: `2023-02-27 12:17:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,53 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MEGAWomenToWatch](http://twitter.com/search?q=%23MEGAWomenToWatch) | N/A |
-| 2 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
-| 3 | [8 ML Heroes](http://twitter.com/search?q=8+ML+Heroes) | N/A |
-| 4 | [#테니생일_축하축하_하네요](http://twitter.com/search?q=%23%ed%85%8c%eb%8b%88%ec%83%9d%ec%9d%bc_%ec%b6%95%ed%95%98%ec%b6%95%ed%95%98_%ed%95%98%eb%84%a4%ec%9a%94) | N/A |
-| 5 | [Liza](http://twitter.com/search?q=Liza) | N/A |
-| 6 | [#ShineBrightKitTENDay](http://twitter.com/search?q=%23ShineBrightKitTENDay) | N/A |
-| 7 | [The Church Built by God](http://twitter.com/search?q=The+Church+Built+by+God) | The Church Built by God is a phrase used to refer to the Christian Church, which is seen as being founded by God and established on the teachings of Jesus Christ. It is often used to emphasize the importance of the Church in Christian faith and practice. |
-| 8 | [wildtonight on aos](http://twitter.com/search?q=wildtonight+on+aos) | N/A |
-| 9 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 10 | [#PureDoctrinesOfChrist](http://twitter.com/search?q=%23PureDoctrinesOfChrist) | N/A |
-| 11 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
-| 12 | [JISUNG](http://twitter.com/search?q=JISUNG) | N/A |
-| 13 | [all out josh cullen](http://twitter.com/search?q=all+out+josh+cullen) | N/A |
-| 14 | [TENLEE 27th BDAY](http://twitter.com/search?q=TENLEE+27th+BDAY) | N/A |
-| 15 | [Gilas](http://twitter.com/search?q=Gilas) | N/A |
+| 1 | [Liza Soberano](http://twitter.com/search?q=Liza+Soberano) | N/A |
+| 2 | [Gilas](http://twitter.com/search?q=Gilas) | N/A |
+| 3 | [#MgaLihimNiUrduja](http://twitter.com/search?q=%23MgaLihimNiUrduja) | N/A |
+| 4 | [Brownlee](http://twitter.com/search?q=Brownlee) | N/A |
+| 5 | [#FreenIsOurHeart](http://twitter.com/search?q=%23FreenIsOurHeart) | N/A |
+| 6 | [#MEGAWomenToWatch](http://twitter.com/search?q=%23MEGAWomenToWatch) | N/A |
+| 7 | [FormidaBELLE MEGAWoman](http://twitter.com/search?q=FormidaBELLE+MEGAWoman) | N/A |
+| 8 | [8 ML Heroes](http://twitter.com/search?q=8+ML+Heroes) | N/A |
+| 9 | [Scottie](http://twitter.com/search?q=Scottie) | Scottie is a nickname for the Scottish Terrier, a small breed of dog. It is also used as a nickname for people from Scotland or with Scottish heritage. |
+| 10 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
+| 11 | [The Church Built by God](http://twitter.com/search?q=The+Church+Built+by+God) | The Church Built by God is a phrase used to refer to the Christian Church, which is seen as being founded by God and established on the teachings of Jesus Christ. It is often used to emphasize the importance of the Church in Christian faith and practice. |
+| 12 | [#PureDoctrinesOfChrist](http://twitter.com/search?q=%23PureDoctrinesOfChrist) | N/A |
+| 13 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
+| 14 | [#DLWrath](http://twitter.com/search?q=%23DLWrath) | N/A |
+| 15 | [DIRTY LINEN OUTRAGE](http://twitter.com/search?q=DIRTY+LINEN+OUTRAGE) | N/A |
 | 16 | [TREASURE in Shopee](http://twitter.com/search?q=TREASURE+in+Shopee) | N/A |
-| 17 | [VIBRENT PIELuvarn](http://twitter.com/search?q=VIBRENT+PIELuvarn) | N/A |
-| 18 | [GMA7 WideScreen Format](http://twitter.com/search?q=GMA7+WideScreen+Format) | N/A |
-| 19 | [KAI Rover Teaser Image 1](http://twitter.com/search?q=KAI+Rover+Teaser+Image+1) | N/A |
-| 20 | [happy 23rd bday alexa](http://twitter.com/search?q=happy+23rd+bday+alexa) | N/A |
-| 21 | [2yeon](http://twitter.com/search?q=2yeon) | N/A |
-| 22 | [ready to be thrilled](http://twitter.com/search?q=ready+to+be+thrilled) | N/A |
-| 23 | [NAIA](http://twitter.com/search?q=NAIA) | N/A |
-| 24 | [Canino](http://twitter.com/search?q=Canino) | N/A |
-| 25 | [WONHUI SELCA](http://twitter.com/search?q=WONHUI+SELCA) | N/A |
-| 26 | [Wonu](http://twitter.com/search?q=Wonu) | N/A |
-| 27 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
-| 28 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 29 | [ArraSanAgustin As Valencia](http://twitter.com/search?q=ArraSanAgustin+As+Valencia) | N/A |
-| 30 | [luckybeauty tiktokliveselling](http://twitter.com/search?q=luckybeauty+tiktokliveselling) | N/A |
-| 31 | [Brownlee](http://twitter.com/search?q=Brownlee) | N/A |
-| 32 | [2seok](http://twitter.com/search?q=2seok) | N/A |
-| 33 | [blessed sunday](http://twitter.com/search?q=blessed+sunday) | N/A |
-| 34 | [TogHEEther for a THOUSAND DAYS](http://twitter.com/search?q=TogHEEther+for+a+THOUSAND+DAYS) | N/A |
-| 35 | [GAYUMA RECORD VLOG](http://twitter.com/search?q=GAYUMA+RECORD+VLOG) | N/A |
-| 36 | [BrentManalo PIEKadaGuest](http://twitter.com/search?q=BrentManalo+PIEKadaGuest) | N/A |
-| 37 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 38 | [Armstrong](http://twitter.com/search?q=Armstrong) | Armstrong is a surname of Scottish origin. It is derived from the Old English words for "strong" and "brave". The name is often associated with the Armstrong clan, a powerful family in the Scottish Borders during the Middle Ages. In modern times, it is a common surname in many countries around the world. |
-| 39 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 40 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 41 | [zachamxrobxine eplfinale](http://twitter.com/search?q=zachamxrobxine+eplfinale) | N/A |
-| 42 | [Luo Yi](http://twitter.com/search?q=Luo+Yi) | N/A |
-| 43 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
-| 44 | [Mocha](http://twitter.com/search?q=Mocha) | N/A |
-| 45 | [jhope](http://twitter.com/search?q=jhope) | N/A |
-| 46 | [eya laure](http://twitter.com/search?q=eya+laure) | N/A |
-| 47 | [Jeff](http://twitter.com/search?q=Jeff) | N/A |
-| 48 | [Vando](http://twitter.com/search?q=Vando) | N/A |
-| 49 | [La Salle](http://twitter.com/search?q=La+Salle) | N/A |
+| 17 | [GMA7 WideScreen Format](http://twitter.com/search?q=GMA7+WideScreen+Format) | N/A |
+| 18 | [jisung](http://twitter.com/search?q=jisung) | N/A |
+| 19 | [Ginebra](http://twitter.com/search?q=Ginebra) | Ginebra is a Spanish word for gin, a type of alcoholic beverage made from juniper berries. In English, it is simply referred to as gin. |
+| 20 | [NAIA](http://twitter.com/search?q=NAIA) | N/A |
+| 21 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 22 | [Floral Sense](http://twitter.com/search?q=Floral+Sense) | N/A |
+| 23 | [Luo Yi](http://twitter.com/search?q=Luo+Yi) | N/A |
+| 24 | [Belle Mariano](http://twitter.com/search?q=Belle+Mariano) | N/A |
+| 25 | [Wonu](http://twitter.com/search?q=Wonu) | N/A |
+| 26 | [Smart](http://twitter.com/search?q=Smart) | N/A |
+| 27 | [#KiehlsBrightestSkinExperience](http://twitter.com/search?q=%23KiehlsBrightestSkinExperience) | N/A |
+| 28 | [#BGYO](http://twitter.com/search?q=%23BGYO) | N/A |
+| 29 | [#FIBAWC](http://twitter.com/search?q=%23FIBAWC) | N/A |
+| 30 | [#KiehlsXBright](http://twitter.com/search?q=%23KiehlsXBright) | N/A |
+| 31 | [#NoToJeepneyPhaseout](http://twitter.com/search?q=%23NoToJeepneyPhaseout) | N/A |
+| 32 | [#MCISepanx](http://twitter.com/search?q=%23MCISepanx) | N/A |
+| 33 | [#HWANGMINHYUN](http://twitter.com/search?q=%23HWANGMINHYUN) | N/A |
+| 34 | [#FeelTheSenseWithWinter](http://twitter.com/search?q=%23FeelTheSenseWithWinter) | N/A |
+| 35 | [#Truth_or_Lie](http://twitter.com/search?q=%23Truth_or_Lie) | N/A |
+| 36 | [#LabanPilipinas](http://twitter.com/search?q=%23LabanPilipinas) | N/A |
+| 37 | [#anjisalvacion](http://twitter.com/search?q=%23anjisalvacion) | N/A |
+| 38 | [#pakmanifest](http://twitter.com/search?q=%23pakmanifest) | N/A |
+| 39 | [#kamday](http://twitter.com/search?q=%23kamday) | N/A |
+| 40 | [#YESUNG](http://twitter.com/search?q=%23YESUNG) | N/A |
+| 41 | [#Hidden_Side](http://twitter.com/search?q=%23Hidden_Side) | N/A |
+| 42 | [#1000DaysWithJay](http://twitter.com/search?q=%231000DaysWithJay) | N/A |
+| 43 | [#제이_1000일_축하해](http://twitter.com/search?q=%23%ec%a0%9c%ec%9d%b4_1000%ec%9d%bc_%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
+| 44 | [#BOYCOTTEBxGMA719](http://twitter.com/search?q=%23BOYCOTTEBxGMA719) | N/A |
+| 45 | [#PARKJINYOUNGinMANILA2023](http://twitter.com/search?q=%23PARKJINYOUNGinMANILA2023) | N/A |
+| 46 | [#UnbreakMyHeart](http://twitter.com/search?q=%23UnbreakMyHeart) | N/A |
+| 47 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
 
 
 

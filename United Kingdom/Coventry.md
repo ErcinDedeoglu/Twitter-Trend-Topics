@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Coventry
 
-📆 Last Updated: `2023-02-27 11:16:06 UTC`
+📆 Last Updated: `2023-02-27 12:17:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | ------- | ------------ | ------------ |
 | 1 | [#popmaster](http://twitter.com/search?q=%23popmaster) | N/A |
 | 2 | [#JeremyVine](http://twitter.com/search?q=%23JeremyVine) | N/A |
-| 3 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
-| 4 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 5 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 6 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
-| 7 | [Ofgem](http://twitter.com/search?q=Ofgem) | N/A |
-| 8 | [Banky](http://twitter.com/search?q=Banky) | N/A |
-| 9 | [Northern Lights](http://twitter.com/search?q=Northern+Lights) | N/A |
-| 10 | [Sanwo Olu](http://twitter.com/search?q=Sanwo+Olu) | N/A |
-| 11 | [Energy Price Guarantee](http://twitter.com/search?q=Energy+Price+Guarantee) | N/A |
-| 12 | [RACE WEEK](http://twitter.com/search?q=RACE+WEEK) | N/A |
-| 13 | [Rachel Reeves](http://twitter.com/search?q=Rachel+Reeves) | N/A |
-| 14 | [Sitter](http://twitter.com/search?q=Sitter) | N/A |
-| 15 | [Wordle 618 X](http://twitter.com/search?q=Wordle+618+X) | N/A |
-| 16 | [Daily Quordle 399](http://twitter.com/search?q=Daily+Quordle+399) | N/A |
-| 17 | [England and Wales](http://twitter.com/search?q=England+and+Wales) | N/A |
-| 18 | [Tinubu](http://twitter.com/search?q=Tinubu) | N/A |
-| 19 | [World Book Week](http://twitter.com/search?q=World+Book+Week) | N/A |
-| 20 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
-| 21 | [Peter Kay](http://twitter.com/search?q=Peter+Kay) | N/A |
-| 22 | [Governor](http://twitter.com/search?q=Governor) | N/A |
-| 23 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
-| 24 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
-| 25 | [Yoruba](http://twitter.com/search?q=Yoruba) | N/A |
-| 26 | [Morning Chris](http://twitter.com/search?q=Morning+Chris) | N/A |
-| 27 | [The ERG](http://twitter.com/search?q=The+ERG) | N/A |
-| 28 | [Frozen](http://twitter.com/search?q=Frozen) | N/A |
-| 29 | [Camilla](http://twitter.com/search?q=Camilla) | N/A |
-| 30 | [James Bond](http://twitter.com/search?q=James+Bond) | N/A |
-| 31 | [Mark Francois](http://twitter.com/search?q=Mark+Francois) | N/A |
-| 32 | [Whitby](http://twitter.com/search?q=Whitby) | N/A |
-| 33 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
-| 34 | [Queen Consort](http://twitter.com/search?q=Queen+Consort) | N/A |
-| 35 | [Calvin](http://twitter.com/search?q=Calvin) | N/A |
-| 36 | [Northern Ireland Protocol](http://twitter.com/search?q=Northern+Ireland+Protocol) | N/A |
-| 37 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
-| 38 | [#mondaythoughts](http://twitter.com/search?q=%23mondaythoughts) | #MondayThoughts is a hashtag used on social media to share thoughts, ideas, and reflections on the start of the week. It is often used to encourage others to have a positive outlook on the week ahead. |
-| 39 | [#mondaymorning](http://twitter.com/search?q=%23mondaymorning) | N/A |
-| 40 | [#EnergyBills](http://twitter.com/search?q=%23EnergyBills) | N/A |
-| 41 | [#RequestABetRewards](http://twitter.com/search?q=%23RequestABetRewards) | N/A |
-| 42 | [#WorldBookDay](http://twitter.com/search?q=%23WorldBookDay) | N/A |
-| 43 | [#electionresults2023](http://twitter.com/search?q=%23electionresults2023) | N/A |
-| 44 | [#ASongOrMovieForBears](http://twitter.com/search?q=%23ASongOrMovieForBears) | N/A |
-| 45 | [#SmashHitsDickens](http://twitter.com/search?q=%23SmashHitsDickens) | N/A |
-| 46 | [#Mondayvibes](http://twitter.com/search?q=%23Mondayvibes) | N/A |
-| 47 | [#FairtradeFortnight](http://twitter.com/search?q=%23FairtradeFortnight) | N/A |
-| 48 | [#MondayMood](http://twitter.com/search?q=%23MondayMood) | N/A |
-| 49 | [#EDAW2023](http://twitter.com/search?q=%23EDAW2023) | N/A |
+| 3 | [Labour MPs](http://twitter.com/search?q=Labour+MPs) | N/A |
+| 4 | [Rachel Reeves](http://twitter.com/search?q=Rachel+Reeves) | N/A |
+| 5 | [The ERG](http://twitter.com/search?q=The+ERG) | N/A |
+| 6 | [James Bond](http://twitter.com/search?q=James+Bond) | N/A |
+| 7 | [Betty Boothroyd](http://twitter.com/search?q=Betty+Boothroyd) | N/A |
+| 8 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 9 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
+| 10 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 11 | [Speaker](http://twitter.com/search?q=Speaker) | Speaker is a person who speaks in public, usually to an audience. It can also refer to the device used to amplify sound, such as a loudspeaker. |
+| 12 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
+| 13 | [Leyen](http://twitter.com/search?q=Leyen) | N/A |
+| 14 | [Orubebe](http://twitter.com/search?q=Orubebe) | N/A |
+| 15 | [Ofgem](http://twitter.com/search?q=Ofgem) | N/A |
+| 16 | [King Charles](http://twitter.com/search?q=King+Charles) | N/A |
+| 17 | [Plateau](http://twitter.com/search?q=Plateau) | N/A |
+| 18 | [Northern Lights](http://twitter.com/search?q=Northern+Lights) | N/A |
+| 19 | [Sanwo Olu](http://twitter.com/search?q=Sanwo+Olu) | N/A |
+| 20 | [Banky](http://twitter.com/search?q=Banky) | N/A |
+| 21 | [Windsor Castle](http://twitter.com/search?q=Windsor+Castle) | N/A |
+| 22 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
+| 23 | [Energy Price Guarantee](http://twitter.com/search?q=Energy+Price+Guarantee) | N/A |
+| 24 | [sitter](http://twitter.com/search?q=sitter) | N/A |
+| 25 | [Tinubu](http://twitter.com/search?q=Tinubu) | N/A |
+| 26 | [ITS RACE WEEK](http://twitter.com/search?q=ITS+RACE+WEEK) | N/A |
+| 27 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
+| 28 | [England and Wales](http://twitter.com/search?q=England+and+Wales) | N/A |
+| 29 | [World Book Week](http://twitter.com/search?q=World+Book+Week) | N/A |
+| 30 | [Wordle 618 X](http://twitter.com/search?q=Wordle+618+X) | N/A |
+| 31 | [Peter Kay](http://twitter.com/search?q=Peter+Kay) | N/A |
+| 32 | [Governor](http://twitter.com/search?q=Governor) | N/A |
+| 33 | [Ekiti](http://twitter.com/search?q=Ekiti) | N/A |
+| 34 | [Daily Quordle 399](http://twitter.com/search?q=Daily+Quordle+399) | N/A |
+| 35 | [Universal Credit](http://twitter.com/search?q=Universal+Credit) | N/A |
+| 36 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
+| 37 | [New IRA](http://twitter.com/search?q=New+IRA) | N/A |
+| 38 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
+| 39 | [Morning Chris](http://twitter.com/search?q=Morning+Chris) | N/A |
+| 40 | [Northern Ireland Protocol](http://twitter.com/search?q=Northern+Ireland+Protocol) | N/A |
+| 41 | [Atiku](http://twitter.com/search?q=Atiku) | N/A |
+| 42 | [On Friday](http://twitter.com/search?q=On+Friday) | N/A |
+| 43 | [Matt Hancock](http://twitter.com/search?q=Matt+Hancock) | Matt Hancock is the current Secretary of State for Health and Social Care in the United Kingdom. He is responsible for leading the government's response to the coronavirus pandemic. The phrase "Matt Hancock" is used to refer to him and his role in government. |
+| 44 | [Yoruba](http://twitter.com/search?q=Yoruba) | N/A |
+| 45 | [Camilla](http://twitter.com/search?q=Camilla) | N/A |
+| 46 | [Whitby](http://twitter.com/search?q=Whitby) | N/A |
+| 47 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
+| 48 | [Mark Francois](http://twitter.com/search?q=Mark+Francois) | N/A |
+| 49 | [Miggy](http://twitter.com/search?q=Miggy) | N/A |
 
 
 

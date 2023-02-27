@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canberra
 
-📆 Last Updated: `2023-02-27 11:16:25 UTC`
+📆 Last Updated: `2023-02-27 12:17:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Australia](</Australia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SurvivorAU](http://twitter.com/search?q=%23SurvivorAU) | N/A |
-| 2 | [#QandA](http://twitter.com/search?q=%23QandA) | N/A |
+| 1 | [#QandA](http://twitter.com/search?q=%23QandA) | N/A |
+| 2 | [#SurvivorAU](http://twitter.com/search?q=%23SurvivorAU) | N/A |
 | 3 | [#MAFSAU](http://twitter.com/search?q=%23MAFSAU) | N/A |
-| 4 | [Sandy](http://twitter.com/search?q=Sandy) | N/A |
-| 5 | [Mardi Gras](http://twitter.com/search?q=Mardi+Gras) | N/A |
-| 6 | [Tayla](http://twitter.com/search?q=Tayla) | N/A |
-| 7 | [Flick](http://twitter.com/search?q=Flick) | N/A |
-| 8 | [#PaulFury](http://twitter.com/search?q=%23PaulFury) | N/A |
-| 9 | [Shonee](http://twitter.com/search?q=Shonee) | N/A |
-| 10 | [Simon](http://twitter.com/search?q=Simon) | N/A |
-| 11 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
-| 12 | [Lidia](http://twitter.com/search?q=Lidia) | N/A |
+| 4 | [Mardi Gras](http://twitter.com/search?q=Mardi+Gras) | N/A |
+| 5 | [Flick](http://twitter.com/search?q=Flick) | N/A |
+| 6 | [#PaulFury](http://twitter.com/search?q=%23PaulFury) | N/A |
+| 7 | [Sandy](http://twitter.com/search?q=Sandy) | N/A |
+| 8 | [Shonee](http://twitter.com/search?q=Shonee) | N/A |
+| 9 | [Lidia](http://twitter.com/search?q=Lidia) | N/A |
+| 10 | [Tayla](http://twitter.com/search?q=Tayla) | N/A |
+| 11 | [Simon](http://twitter.com/search?q=Simon) | N/A |
+| 12 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
 | 13 | [Rachel](http://twitter.com/search?q=Rachel) | N/A |
-| 14 | [Shaun](http://twitter.com/search?q=Shaun) | N/A |
-| 15 | [Hayley](http://twitter.com/search?q=Hayley) | N/A |
-| 16 | [David](http://twitter.com/search?q=David) | N/A |
-| 17 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
-| 18 | [Woody](http://twitter.com/search?q=Woody) | Woody is a slang term used to describe someone who is strong, tough, and determined. It can also be used to describe someone who is stubborn and unyielding. |
-| 19 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
-| 20 | [Noora](http://twitter.com/search?q=Noora) | N/A |
-| 21 | [Shiz](http://twitter.com/search?q=Shiz) | N/A |
-| 22 | [Father Bob](http://twitter.com/search?q=Father+Bob) | N/A |
-| 23 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
-| 24 | [andrew asten](http://twitter.com/search?q=andrew+asten) | N/A |
-| 25 | [Joffa](http://twitter.com/search?q=Joffa) | N/A |
-| 26 | [Dan Andrews](http://twitter.com/search?q=Dan+Andrews) | N/A |
+| 14 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
+| 15 | [Woody](http://twitter.com/search?q=Woody) | Woody is a slang term used to describe someone who is strong, tough, and determined. It can also be used to describe someone who is stubborn and unyielding. |
+| 16 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
+| 17 | [Noora](http://twitter.com/search?q=Noora) | N/A |
+| 18 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
+| 19 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
+| 20 | [Shaun](http://twitter.com/search?q=Shaun) | N/A |
+| 21 | [Hayley](http://twitter.com/search?q=Hayley) | N/A |
+| 22 | [Joffa](http://twitter.com/search?q=Joffa) | N/A |
+| 23 | [andrew asten](http://twitter.com/search?q=andrew+asten) | N/A |
+| 24 | [Father Bob](http://twitter.com/search?q=Father+Bob) | N/A |
+| 25 | [David](http://twitter.com/search?q=David) | N/A |
+| 26 | [Shiz](http://twitter.com/search?q=Shiz) | N/A |
 | 27 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
-| 28 | [Sha Tin](http://twitter.com/search?q=Sha+Tin) | N/A |
-| 29 | [Gerry](http://twitter.com/search?q=Gerry) | N/A |
-| 30 | [Olivia Newton](http://twitter.com/search?q=Olivia+Newton) | N/A |
-| 31 | [Woodside](http://twitter.com/search?q=Woodside) | N/A |
-| 32 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 28 | [sha tin](http://twitter.com/search?q=sha+tin) | N/A |
+| 29 | [Andrews](http://twitter.com/search?q=Andrews) | N/A |
+| 30 | [Stan Grant](http://twitter.com/search?q=Stan+Grant) | N/A |
+| 31 | [Olivia Newton](http://twitter.com/search?q=Olivia+Newton) | N/A |
+| 32 | [Woodside](http://twitter.com/search?q=Woodside) | N/A |
 | 33 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
-| 34 | [Pride](http://twitter.com/search?q=Pride) | N/A |
-| 35 | [Julian](http://twitter.com/search?q=Julian) | Julian is a given name of Latin origin, derived from Julius. It is a masculine name, and can also be used as a surname. In English, it means "youthful" or "downy-bearded". |
+| 34 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
+| 35 | [Fauci](http://twitter.com/search?q=Fauci) | N/A |
 | 36 | [Jetstar](http://twitter.com/search?q=Jetstar) | N/A |
-| 37 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
-| 38 | [Rupert](http://twitter.com/search?q=Rupert) | N/A |
-| 39 | [Claire](http://twitter.com/search?q=Claire) | N/A |
-| 40 | [Morris](http://twitter.com/search?q=Morris) | N/A |
-| 41 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 42 | [Albo](http://twitter.com/search?q=Albo) | N/A |
-| 43 | [Blackmores](http://twitter.com/search?q=Blackmores) | N/A |
-| 44 | [rowan dean](http://twitter.com/search?q=rowan+dean) | N/A |
-| 45 | [Fauci](http://twitter.com/search?q=Fauci) | N/A |
-| 46 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
-| 47 | [Alyssa](http://twitter.com/search?q=Alyssa) | N/A |
-| 48 | [Stevie](http://twitter.com/search?q=Stevie) | Stevie is a nickname for the name Steven or Stephen. It is derived from the Greek name Stephanos, which means "crown" or "garland". |
-| 49 | [Saul Griffith](http://twitter.com/search?q=Saul+Griffith) | N/A |
+| 37 | [Morris](http://twitter.com/search?q=Morris) | N/A |
+| 38 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 39 | [Albo](http://twitter.com/search?q=Albo) | N/A |
+| 40 | [Rowan Dean](http://twitter.com/search?q=Rowan+Dean) | N/A |
+| 41 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
+| 42 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 43 | [Stevie](http://twitter.com/search?q=Stevie) | Stevie is a nickname for the name Steven or Stephen. It is derived from the Greek name Stephanos, which means "crown" or "garland". |
+| 44 | [Saul Griffith](http://twitter.com/search?q=Saul+Griffith) | N/A |
+| 45 | [Gerry](http://twitter.com/search?q=Gerry) | N/A |
+| 46 | [Beth Mooney](http://twitter.com/search?q=Beth+Mooney) | N/A |
+| 47 | [Damian Lillard](http://twitter.com/search?q=Damian+Lillard) | Damian Lillard is an American professional basketball player who currently plays for the Portland Trail Blazers of the National Basketball Association (NBA). He is a six-time NBA All-Star and was named the NBA Rookie of the Year in 2013. |
+| 48 | [Julian](http://twitter.com/search?q=Julian) | Julian is a given name of Latin origin, derived from Julius. It is a masculine name, and can also be used as a surname. In English, it means "youthful" or "downy-bearded". |
+| 49 | [Scott Adams](http://twitter.com/search?q=Scott+Adams) | N/A |
 
 
 

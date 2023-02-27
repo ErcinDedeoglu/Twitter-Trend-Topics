@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Italy
 
-📆 Last Updated: `2023-02-27 11:16:55 UTC`
+📆 Last Updated: `2023-02-27 12:18:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,38 +16,36 @@ This is top 50 for Italy
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Schlein](http://twitter.com/search?q=Schlein) | N/A |
-| 2 | [#27febbraio](http://twitter.com/search?q=%2327febbraio) | N/A |
+| 2 | [#lariachetira](http://twitter.com/search?q=%23lariachetira) | N/A |
 | 3 | [#addiopd](http://twitter.com/search?q=%23addiopd) | N/A |
-| 4 | [#lariachetira](http://twitter.com/search?q=%23lariachetira) | N/A |
-| 5 | [Bonaccini](http://twitter.com/search?q=Bonaccini) | N/A |
-| 6 | [Renzi](http://twitter.com/search?q=Renzi) | N/A |
-| 7 | [Pippo Franco](http://twitter.com/search?q=Pippo+Franco) | N/A |
-| 8 | [Il PD](http://twitter.com/search?q=Il+PD) | N/A |
-| 9 | [#primariepd2023](http://twitter.com/search?q=%23primariepd2023) | N/A |
-| 10 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
-| 11 | [Adinolfi](http://twitter.com/search?q=Adinolfi) | N/A |
-| 12 | [Franceschini](http://twitter.com/search?q=Franceschini) | N/A |
-| 13 | [RACE WEEK](http://twitter.com/search?q=RACE+WEEK) | N/A |
-| 14 | [Terzo Polo](http://twitter.com/search?q=Terzo+Polo) | N/A |
-| 15 | [Boccia](http://twitter.com/search?q=Boccia) | N/A |
-| 16 | [Letta](http://twitter.com/search?q=Letta) | N/A |
-| 17 | [Fiorello](http://twitter.com/search?q=Fiorello) | N/A |
-| 18 | [Vedremo](http://twitter.com/search?q=Vedremo) | N/A |
-| 19 | [Sinistra](http://twitter.com/search?q=Sinistra) | N/A |
-| 20 | [Turchia](http://twitter.com/search?q=Turchia) | N/A |
-| 21 | [Grecia](http://twitter.com/search?q=Grecia) | N/A |
-| 22 | [Svizzera](http://twitter.com/search?q=Svizzera) | N/A |
-| 23 | [Stefano](http://twitter.com/search?q=Stefano) | N/A |
-| 24 | [Piantedosi](http://twitter.com/search?q=Piantedosi) | N/A |
-| 25 | [Bersani](http://twitter.com/search?q=Bersani) | N/A |
+| 4 | [#27febbraio](http://twitter.com/search?q=%2327febbraio) | N/A |
+| 5 | [Pippo Franco](http://twitter.com/search?q=Pippo+Franco) | N/A |
+| 6 | [Bonaccini](http://twitter.com/search?q=Bonaccini) | N/A |
+| 7 | [Renzi](http://twitter.com/search?q=Renzi) | N/A |
+| 8 | [#primariepd2023](http://twitter.com/search?q=%23primariepd2023) | N/A |
+| 9 | [Il PD](http://twitter.com/search?q=Il+PD) | N/A |
+| 10 | [adinolfi](http://twitter.com/search?q=adinolfi) | N/A |
+| 11 | [Franceschini](http://twitter.com/search?q=Franceschini) | N/A |
+| 12 | [terzo polo](http://twitter.com/search?q=terzo+polo) | N/A |
+| 13 | [#VivaRai2](http://twitter.com/search?q=%23VivaRai2) | N/A |
+| 14 | [Grecia](http://twitter.com/search?q=Grecia) | N/A |
+| 15 | [RACE WEEK](http://twitter.com/search?q=RACE+WEEK) | N/A |
+| 16 | [Turchia](http://twitter.com/search?q=Turchia) | N/A |
+| 17 | [Boccia](http://twitter.com/search?q=Boccia) | N/A |
+| 18 | [letta](http://twitter.com/search?q=letta) | N/A |
+| 19 | [Vedremo](http://twitter.com/search?q=Vedremo) | N/A |
+| 20 | [Ditta](http://twitter.com/search?q=Ditta) | N/A |
+| 21 | [Partito Democratico](http://twitter.com/search?q=Partito+Democratico) | N/A |
+| 22 | [Sinistra](http://twitter.com/search?q=Sinistra) | N/A |
+| 23 | [Svizzera](http://twitter.com/search?q=Svizzera) | N/A |
+| 24 | [Hojlund](http://twitter.com/search?q=Hojlund) | N/A |
+| 25 | [Stefano](http://twitter.com/search?q=Stefano) | N/A |
 | 26 | [Thiaw](http://twitter.com/search?q=Thiaw) | N/A |
-| 27 | [Emilia Romagna](http://twitter.com/search?q=Emilia+Romagna) | N/A |
-| 28 | [#VivaRai2](http://twitter.com/search?q=%23VivaRai2) | N/A |
-| 29 | [#agorarai](http://twitter.com/search?q=%23agorarai) | N/A |
-| 30 | [#LaTerraDiCaino](http://twitter.com/search?q=%23LaTerraDiCaino) | N/A |
-| 31 | [#SAGAwards](http://twitter.com/search?q=%23SAGAwards) | N/A |
-| 32 | [#PartitoDemocratico](http://twitter.com/search?q=%23PartitoDemocratico) | N/A |
-| 33 | [#selfie](http://twitter.com/search?q=%23selfie) | N/A |
+| 27 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
+| 28 | [#LaTerraDiCaino](http://twitter.com/search?q=%23LaTerraDiCaino) | N/A |
+| 29 | [#Piantedosi](http://twitter.com/search?q=%23Piantedosi) | N/A |
+| 30 | [#SAGAwards](http://twitter.com/search?q=%23SAGAwards) | N/A |
+| 31 | [#selfie](http://twitter.com/search?q=%23selfie) | N/A |
 
 
 

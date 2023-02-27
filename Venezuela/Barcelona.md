@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barcelona
 
-📆 Last Updated: `2023-02-27 11:16:13 UTC`
+📆 Last Updated: `2023-02-27 12:17:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,50 +16,50 @@ This is top 50 for [Venezuela](</Venezuela>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#27Feb](http://twitter.com/search?q=%2327Feb) | N/A |
-| 2 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
-| 3 | [#27FRebeliónAntimperialista](http://twitter.com/search?q=%2327FRebeli%c3%b3nAntimperialista) | N/A |
-| 4 | [#JuntosPorLaPatria](http://twitter.com/search?q=%23JuntosPorLaPatria) | N/A |
-| 5 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
-| 6 | [El Caracazo](http://twitter.com/search?q=El+Caracazo) | N/A |
-| 7 | [Autoevaluación HONESTA](http://twitter.com/search?q=Autoevaluaci%c3%b3n+HONESTA) | N/A |
-| 8 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
-| 9 | [Ana Gabriel](http://twitter.com/search?q=Ana+Gabriel) | N/A |
-| 10 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
-| 11 | [Almería](http://twitter.com/search?q=Almer%c3%ada) | Almería is a city in the southeastern region of Spain. It is the capital of the province of Almería and is located on the Mediterranean Sea. In English, Almería means "The Watchtower". |
-| 12 | [Capriles](http://twitter.com/search?q=Capriles) | N/A |
-| 13 | [Eneas](http://twitter.com/search?q=Eneas) | N/A |
-| 14 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
-| 15 | [La Estancia](http://twitter.com/search?q=La+Estancia) | N/A |
-| 16 | [Canadá](http://twitter.com/search?q=Canad%c3%a1) | Canadá is the Spanish name for Canada, a country located in North America. It is bordered by the United States to the south and northwest, and by the Arctic Ocean to the north. Canada is a bilingual country with both English and French as official languages. |
+| 2 | [#27FRebeliónAntimperialista](http://twitter.com/search?q=%2327FRebeli%c3%b3nAntimperialista) | N/A |
+| 3 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
+| 4 | [El Caracazo](http://twitter.com/search?q=El+Caracazo) | N/A |
+| 5 | [#JuntosPorLaPatria](http://twitter.com/search?q=%23JuntosPorLaPatria) | N/A |
+| 6 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
+| 7 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
+| 8 | [Autoevaluación HONESTA](http://twitter.com/search?q=Autoevaluaci%c3%b3n+HONESTA) | N/A |
+| 9 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
+| 10 | [Ana Gabriel](http://twitter.com/search?q=Ana+Gabriel) | N/A |
+| 11 | [Carlos Andrés Pérez](http://twitter.com/search?q=Carlos+Andr%c3%a9s+P%c3%a9rez) | N/A |
+| 12 | [Almería](http://twitter.com/search?q=Almer%c3%ada) | Almería is a city in the southeastern region of Spain. It is the capital of the province of Almería and is located on the Mediterranean Sea. In English, Almería means "The Watchtower". |
+| 13 | [DDHH](http://twitter.com/search?q=DDHH) | N/A |
+| 14 | [Capriles](http://twitter.com/search?q=Capriles) | N/A |
+| 15 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
+| 16 | [Eneas](http://twitter.com/search?q=Eneas) | N/A |
 | 17 | [Claudio](http://twitter.com/search?q=Claudio) | N/A |
-| 18 | [DDHH](http://twitter.com/search?q=DDHH) | N/A |
-| 19 | [Dedales](http://twitter.com/search?q=Dedales) | N/A |
-| 20 | [Carlos Andrés Pérez](http://twitter.com/search?q=Carlos+Andr%c3%a9s+P%c3%a9rez) | N/A |
-| 21 | [Ronaldinho](http://twitter.com/search?q=Ronaldinho) | N/A |
+| 18 | [Canadá](http://twitter.com/search?q=Canad%c3%a1) | Canadá is the Spanish name for Canada, a country located in North America. It is bordered by the United States to the south and northwest, and by the Arctic Ocean to the north. Canada is a bilingual country with both English and French as official languages. |
+| 19 | [La Estancia](http://twitter.com/search?q=La+Estancia) | N/A |
+| 20 | [Hace 34](http://twitter.com/search?q=Hace+34) | N/A |
+| 21 | [Dedales](http://twitter.com/search?q=Dedales) | N/A |
 | 22 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
-| 23 | [Che García](http://twitter.com/search?q=Che+Garc%c3%ada) | N/A |
-| 24 | [La Gata](http://twitter.com/search?q=La+Gata) | N/A |
-| 25 | [Bujía](http://twitter.com/search?q=Buj%c3%ada) | N/A |
-| 26 | [Primero Justicia](http://twitter.com/search?q=Primero+Justicia) | N/A |
-| 27 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 28 | [Javier Solis](http://twitter.com/search?q=Javier+Solis) | N/A |
-| 29 | [Carlos Olivier](http://twitter.com/search?q=Carlos+Olivier) | N/A |
-| 30 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
-| 31 | [Forza Di Oro](http://twitter.com/search?q=Forza+Di+Oro) | N/A |
-| 32 | [Elvis Presley](http://twitter.com/search?q=Elvis+Presley) | N/A |
-| 33 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 34 | [arturo uslar pietri](http://twitter.com/search?q=arturo+uslar+pietri) | N/A |
+| 23 | [La Gata](http://twitter.com/search?q=La+Gata) | N/A |
+| 24 | [Bujía](http://twitter.com/search?q=Buj%c3%ada) | N/A |
+| 25 | [Che García](http://twitter.com/search?q=Che+Garc%c3%ada) | N/A |
+| 26 | [Revolución Bolivariana](http://twitter.com/search?q=Revoluci%c3%b3n+Bolivariana) | N/A |
+| 27 | [Ronaldinho](http://twitter.com/search?q=Ronaldinho) | N/A |
+| 28 | [Primero Justicia](http://twitter.com/search?q=Primero+Justicia) | N/A |
+| 29 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 30 | [Javier Solis](http://twitter.com/search?q=Javier+Solis) | N/A |
+| 31 | [Carlos Olivier](http://twitter.com/search?q=Carlos+Olivier) | N/A |
+| 32 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
+| 33 | [Elvis Presley](http://twitter.com/search?q=Elvis+Presley) | N/A |
+| 34 | [Maras](http://twitter.com/search?q=Maras) | N/A |
 | 35 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 36 | [Maras](http://twitter.com/search?q=Maras) | N/A |
-| 37 | [Acuña](http://twitter.com/search?q=Acu%c3%b1a) | Acuña is a Spanish surname derived from the place name Acuña, which is located in the province of León in northwestern Spain. The meaning of Acuña in English is "from Acuña". |
-| 38 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
-| 39 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 40 | [Carolina Herrera](http://twitter.com/search?q=Carolina+Herrera) | N/A |
-| 41 | [Héctor](http://twitter.com/search?q=H%c3%a9ctor) | N/A |
-| 42 | [Cacao](http://twitter.com/search?q=Cacao) | N/A |
-| 43 | [consejos feministas](http://twitter.com/search?q=consejos+feministas) | N/A |
-| 44 | [José Bardina](http://twitter.com/search?q=Jos%c3%a9+Bardina) | N/A |
-| 45 | [tves](http://twitter.com/search?q=tves) | N/A |
+| 36 | [Acuña](http://twitter.com/search?q=Acu%c3%b1a) | Acuña is a Spanish surname derived from the place name Acuña, which is located in the province of León in northwestern Spain. The meaning of Acuña in English is "from Acuña". |
+| 37 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
+| 38 | [Carolina Herrera](http://twitter.com/search?q=Carolina+Herrera) | N/A |
+| 39 | [Dominicana](http://twitter.com/search?q=Dominicana) | Dominicana is the Spanish word for Dominican Republic, a Caribbean nation located on the island of Hispaniola. It is bordered by Haiti to the west and the Atlantic Ocean to the north and east. The Dominican Republic is known for its beautiful beaches, lush rainforests, and vibrant culture. |
+| 40 | [Héctor](http://twitter.com/search?q=H%c3%a9ctor) | N/A |
+| 41 | [josé bardina](http://twitter.com/search?q=jos%c3%a9+bardina) | N/A |
+| 42 | [Alex Saab](http://twitter.com/search?q=Alex+Saab) | N/A |
+| 43 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
+| 44 | [Consejos Feministas](http://twitter.com/search?q=Consejos+Feministas) | N/A |
+| 45 | [herminia martínez](http://twitter.com/search?q=herminia+mart%c3%adnez) | N/A |
 | 46 | [Pablo Torre](http://twitter.com/search?q=Pablo+Torre) | Pablo Torre is a sports journalist and television personality who works for ESPN. He is known for his coverage of the NBA, NFL, and college basketball. The name "Pablo Torre" is derived from the Spanish words "pablo" (meaning "small") and "torre" (meaning "tower"). |
 
 
