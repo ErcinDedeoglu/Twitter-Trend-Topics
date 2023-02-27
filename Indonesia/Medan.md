@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Medan
 
-📆 Last Updated: `2023-02-27 02:40:50 UTC`
+📆 Last Updated: `2023-02-27 03:20:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,47 +23,47 @@ This is top 50 for [Indonesia](</Indonesia>)
 | 6 | [Kita Mulia Dengan Syariah](http://twitter.com/search?q=Kita+Mulia+Dengan+Syariah) | N/A |
 | 7 | [TENLEE 27th BDAY](http://twitter.com/search?q=TENLEE+27th+BDAY) | N/A |
 | 8 | [Jiraiya](http://twitter.com/search?q=Jiraiya) | N/A |
-| 9 | [Last Ghibli](http://twitter.com/search?q=Last+Ghibli) | N/A |
-| 10 | [Khilafah Ajaran Mulia](http://twitter.com/search?q=Khilafah+Ajaran+Mulia) | N/A |
-| 11 | [Kasad Dudung AR](http://twitter.com/search?q=Kasad+Dudung+AR) | N/A |
-| 12 | [Glory Glory Man United](http://twitter.com/search?q=Glory+Glory+Man+United) | N/A |
-| 13 | [Worst Ghibli](http://twitter.com/search?q=Worst+Ghibli) | N/A |
-| 14 | [Jerome](http://twitter.com/search?q=Jerome) | N/A |
-| 15 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 9 | [Kasad Dudung AR](http://twitter.com/search?q=Kasad+Dudung+AR) | N/A |
+| 10 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 11 | [Jerome](http://twitter.com/search?q=Jerome) | N/A |
+| 12 | [Last Ghibli](http://twitter.com/search?q=Last+Ghibli) | N/A |
+| 13 | [Glory Glory Man United](http://twitter.com/search?q=Glory+Glory+Man+United) | N/A |
+| 14 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
+| 15 | [First Ghibli](http://twitter.com/search?q=First+Ghibli) | N/A |
 | 16 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 17 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
+| 17 | [Apel Pagi](http://twitter.com/search?q=Apel+Pagi) | N/A |
 | 18 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
 | 19 | [Jeff](http://twitter.com/search?q=Jeff) | N/A |
-| 20 | [Apel Pagi](http://twitter.com/search?q=Apel+Pagi) | N/A |
-| 21 | [Opick](http://twitter.com/search?q=Opick) | N/A |
-| 22 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 23 | [JAEYONG JAYA JAYA JAYA](http://twitter.com/search?q=JAEYONG+JAYA+JAYA+JAYA) | N/A |
-| 24 | [David](http://twitter.com/search?q=David) | N/A |
+| 20 | [PROTECT OUR JUNGKOOK](http://twitter.com/search?q=PROTECT+OUR+JUNGKOOK) | N/A |
+| 21 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 22 | [JAEYONG JAYA JAYA JAYA](http://twitter.com/search?q=JAEYONG+JAYA+JAYA+JAYA) | N/A |
+| 23 | [Tulus Utamakan Rakyat](http://twitter.com/search?q=Tulus+Utamakan+Rakyat) | Tulus Utamakan Rakyat is a Malay phrase which translates to "Dedicated to Serving the People". It is a slogan used by the Malaysian government to emphasize their commitment to providing quality services and support for the people of Malaysia. |
+| 24 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
 | 25 | [JENO MILAN FASHION WEEK](http://twitter.com/search?q=JENO+MILAN+FASHION+WEEK) | N/A |
-| 26 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 27 | [Pagiii](http://twitter.com/search?q=Pagiii) | N/A |
-| 28 | [KAI Rover Teaser Image 1](http://twitter.com/search?q=KAI+Rover+Teaser+Image+1) | N/A |
+| 26 | [David](http://twitter.com/search?q=David) | N/A |
+| 27 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 28 | [Pagiii](http://twitter.com/search?q=Pagiii) | N/A |
 | 29 | [didi kempot](http://twitter.com/search?q=didi+kempot) | N/A |
-| 30 | [PROTECT OUR JUNGKOOK](http://twitter.com/search?q=PROTECT+OUR+JUNGKOOK) | N/A |
-| 31 | [Sholat](http://twitter.com/search?q=Sholat) | N/A |
-| 32 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 33 | [HAPPY BIRTHDAY TEN](http://twitter.com/search?q=HAPPY+BIRTHDAY+TEN) | N/A |
-| 34 | [Piers Morgan](http://twitter.com/search?q=Piers+Morgan) | N/A |
-| 35 | [Itachi](http://twitter.com/search?q=Itachi) | N/A |
-| 36 | [haechan sunbaenim](http://twitter.com/search?q=haechan+sunbaenim) | N/A |
-| 37 | [Pags](http://twitter.com/search?q=Pags) | N/A |
-| 38 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 39 | [Glory Glory Manchester United](http://twitter.com/search?q=Glory+Glory+Manchester+United) | N/A |
-| 40 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
-| 41 | [Neji](http://twitter.com/search?q=Neji) | N/A |
+| 30 | [Opick](http://twitter.com/search?q=Opick) | N/A |
+| 31 | [Khilafah Ajaran Mulia](http://twitter.com/search?q=Khilafah+Ajaran+Mulia) | N/A |
+| 32 | [Sholat](http://twitter.com/search?q=Sholat) | N/A |
+| 33 | [KAI Rover Teaser Image 1](http://twitter.com/search?q=KAI+Rover+Teaser+Image+1) | N/A |
+| 34 | [Itachi](http://twitter.com/search?q=Itachi) | N/A |
+| 35 | [haechan sunbaenim](http://twitter.com/search?q=haechan+sunbaenim) | N/A |
+| 36 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 37 | [HAPPY BIRTHDAY TEN](http://twitter.com/search?q=HAPPY+BIRTHDAY+TEN) | N/A |
+| 38 | [Glory Glory Manchester United](http://twitter.com/search?q=Glory+Glory+Manchester+United) | N/A |
+| 39 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
+| 40 | [Neji](http://twitter.com/search?q=Neji) | N/A |
+| 41 | [pesawaran lampung](http://twitter.com/search?q=pesawaran+lampung) | N/A |
 | 42 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
-| 43 | [pesawaran lampung](http://twitter.com/search?q=pesawaran+lampung) | N/A |
+| 43 | [Purel](http://twitter.com/search?q=Purel) | N/A |
 | 44 | [ON THE STREET IS COMING](http://twitter.com/search?q=ON+THE+STREET+IS+COMING) | N/A |
-| 45 | [Purel](http://twitter.com/search?q=Purel) | N/A |
-| 46 | [RSVP'ed](http://twitter.com/search?q=RSVP%27ed) | N/A |
-| 47 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
-| 48 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
-| 49 | [great hall](http://twitter.com/search?q=great+hall) | N/A |
+| 45 | [RSVP'ed](http://twitter.com/search?q=RSVP%27ed) | N/A |
+| 46 | [great hall](http://twitter.com/search?q=great+hall) | N/A |
+| 47 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
+| 48 | [Marnie](http://twitter.com/search?q=Marnie) | N/A |
+| 49 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
 
 
 

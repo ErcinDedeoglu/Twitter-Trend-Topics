@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gaziantep
 
-📆 Last Updated: `2023-02-27 02:41:09 UTC`
+📆 Last Updated: `2023-02-27 03:21:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,42 +21,37 @@ This is top 50 for [Turkey](</Turkey>)
 | 4 | [#KızılaydanUtanıyorum](http://twitter.com/search?q=%23K%c4%b1z%c4%b1laydanUtan%c4%b1yorum) | N/A |
 | 5 | [#13marttayuzyuze](http://twitter.com/search?q=%2313marttayuzyuze) | N/A |
 | 6 | [Pervin Buldan](http://twitter.com/search?q=Pervin+Buldan) | N/A |
-| 7 | [#RecepTayyipErdogan](http://twitter.com/search?q=%23RecepTayyipErdogan) | N/A |
+| 7 | [#hükümetistifa](http://twitter.com/search?q=%23h%c3%bck%c3%bcmetistifa) | N/A |
 | 8 | [Türkiye İşçi Partisi](http://twitter.com/search?q=T%c3%bcrkiye+%c4%b0%c5%9f%c3%a7i+Partisi) | N/A |
 | 9 | [Bahçeli](http://twitter.com/search?q=Bah%c3%a7eli) | N/A |
 | 10 | [Kayserispor](http://twitter.com/search?q=Kayserispor) | N/A |
-| 11 | [Barış Atay](http://twitter.com/search?q=Bar%c4%b1%c5%9f+Atay) | N/A |
-| 12 | [Polis](http://twitter.com/search?q=Polis) | N/A |
+| 11 | [Polis](http://twitter.com/search?q=Polis) | N/A |
+| 12 | [Barış Atay](http://twitter.com/search?q=Bar%c4%b1%c5%9f+Atay) | N/A |
 | 13 | [Çarşı](http://twitter.com/search?q=%c3%87ar%c5%9f%c4%b1) | N/A |
-| 14 | [Güntekin](http://twitter.com/search?q=G%c3%bcntekin) | Güntekin is a Turkish name derived from the words "gün" (meaning "day") and "tekin" (meaning "strong"). It can be translated to mean "strong day" or "day of strength". |
-| 15 | [Devlet Bey](http://twitter.com/search?q=Devlet+Bey) | N/A |
-| 16 | [Zillet](http://twitter.com/search?q=Zillet) | N/A |
-| 17 | [Rıdvan](http://twitter.com/search?q=R%c4%b1dvan) | Rıdvan is a Turkish name derived from the Arabic word “Ridwan”, which means “pleasure” or “contentment”. It is also used as a given name in many other cultures, including Arabic, Persian, and Urdu. |
-| 18 | [Devletle](http://twitter.com/search?q=Devletle) | N/A |
+| 14 | [Konyaspor](http://twitter.com/search?q=Konyaspor) | N/A |
+| 15 | [15 Temmuz](http://twitter.com/search?q=15+Temmuz) | N/A |
+| 16 | [Rıdvan](http://twitter.com/search?q=R%c4%b1dvan) | Rıdvan is a Turkish name derived from the Arabic word “Ridwan”, which means “pleasure” or “contentment”. It is also used as a given name in many other cultures, including Arabic, Persian, and Urdu. |
+| 17 | [Alanyaspor](http://twitter.com/search?q=Alanyaspor) | N/A |
+| 18 | [Camide](http://twitter.com/search?q=Camide) | N/A |
 | 19 | [Mert](http://twitter.com/search?q=Mert) | Mert is a Turkish name derived from the Arabic word for “blessed”. It is also used as a surname in some parts of the world. In English, it can be translated to mean “blessed” or “fortunate”. |
-| 20 | [Sinan Ateş](http://twitter.com/search?q=Sinan+Ate%c5%9f) | N/A |
-| 21 | [Çokta](http://twitter.com/search?q=%c3%87okta) | N/A |
-| 22 | [İsabet](http://twitter.com/search?q=%c4%b0sabet) | N/A |
-| 23 | [Darısı](http://twitter.com/search?q=Dar%c4%b1s%c4%b1) | N/A |
-| 24 | [Camide](http://twitter.com/search?q=Camide) | N/A |
+| 20 | [Devletle](http://twitter.com/search?q=Devletle) | N/A |
+| 21 | [Sinan Ateş](http://twitter.com/search?q=Sinan+Ate%c5%9f) | N/A |
+| 22 | [Kulüp](http://twitter.com/search?q=Kul%c3%bcp) | N/A |
+| 23 | [Çokta](http://twitter.com/search?q=%c3%87okta) | N/A |
+| 24 | [İsabet](http://twitter.com/search?q=%c4%b0sabet) | N/A |
 | 25 | [Yallah](http://twitter.com/search?q=Yallah) | N/A |
 | 26 | [Ahmet Çakar](http://twitter.com/search?q=Ahmet+%c3%87akar) | N/A |
-| 27 | [Kulüp](http://twitter.com/search?q=Kul%c3%bcp) | N/A |
-| 28 | [Mustafa Kemal'in Askerleriyiz](http://twitter.com/search?q=Mustafa+Kemal%27in+Askerleriyiz) | N/A |
-| 29 | [Tribünler](http://twitter.com/search?q=Trib%c3%bcnler) | N/A |
-| 30 | [Futbola](http://twitter.com/search?q=Futbola) | N/A |
-| 31 | [Sandıkta](http://twitter.com/search?q=Sand%c4%b1kta) | N/A |
-| 32 | [Siyaseti](http://twitter.com/search?q=Siyaseti) | N/A |
-| 33 | [Camilerde](http://twitter.com/search?q=Camilerde) | N/A |
-| 34 | [#hükümetistifa](http://twitter.com/search?q=%23h%c3%bck%c3%bcmetistifa) | N/A |
-| 35 | [#DEVAM_ULAN_DEVAM](http://twitter.com/search?q=%23DEVAM_ULAN_DEVAM) | N/A |
-| 36 | [#buoyuncaksanaarkadasim](http://twitter.com/search?q=%23buoyuncaksanaarkadasim) | N/A |
-| 37 | [#NecmettinErbakan](http://twitter.com/search?q=%23NecmettinErbakan) | N/A |
-| 38 | [#yargı](http://twitter.com/search?q=%23yarg%c4%b1) | N/A |
-| 39 | [#Gezi](http://twitter.com/search?q=%23Gezi) | N/A |
-| 40 | [#cocuklarhepgulsun](http://twitter.com/search?q=%23cocuklarhepgulsun) | N/A |
-| 41 | [#beyazfutbol](http://twitter.com/search?q=%23beyazfutbol) | N/A |
-| 42 | [#DevletiminYanındayım](http://twitter.com/search?q=%23DevletiminYan%c4%b1nday%c4%b1m) | N/A |
+| 27 | [Tribünler](http://twitter.com/search?q=Trib%c3%bcnler) | N/A |
+| 28 | [Futbola](http://twitter.com/search?q=Futbola) | N/A |
+| 29 | [#RecepTayyipErdogan](http://twitter.com/search?q=%23RecepTayyipErdogan) | N/A |
+| 30 | [#DEVAM_ULAN_DEVAM](http://twitter.com/search?q=%23DEVAM_ULAN_DEVAM) | N/A |
+| 31 | [#NecmettinErbakan](http://twitter.com/search?q=%23NecmettinErbakan) | N/A |
+| 32 | [#buoyuncaksanaarkadasim](http://twitter.com/search?q=%23buoyuncaksanaarkadasim) | N/A |
+| 33 | [#yargı](http://twitter.com/search?q=%23yarg%c4%b1) | N/A |
+| 34 | [#cocuklarhepgulsun](http://twitter.com/search?q=%23cocuklarhepgulsun) | N/A |
+| 35 | [#Gezi](http://twitter.com/search?q=%23Gezi) | N/A |
+| 36 | [#DevletiminYanındayım](http://twitter.com/search?q=%23DevletiminYan%c4%b1nday%c4%b1m) | N/A |
+| 37 | [#beyazfutbol](http://twitter.com/search?q=%23beyazfutbol) | N/A |
 
 
 

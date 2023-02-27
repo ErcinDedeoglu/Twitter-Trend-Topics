@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-02-27 02:40:48 UTC`
+📆 Last Updated: `2023-02-27 03:20:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -37,34 +37,34 @@ This is top 50 for [Latvia](</Latvia>)
 | 20 | [America](http://twitter.com/search?q=America) | N/A |
 | 21 | [Zini](http://twitter.com/search?q=Zini) | N/A |
 | 22 | [diezgan](http://twitter.com/search?q=diezgan) | N/A |
-| 23 | [Progresīvie](http://twitter.com/search?q=Progres%c4%abvie) | N/A |
+| 23 | [progresīvie](http://twitter.com/search?q=progres%c4%abvie) | N/A |
 | 24 | [Visas](http://twitter.com/search?q=Visas) | N/A |
 | 25 | [Runa](http://twitter.com/search?q=Runa) | N/A |
 | 26 | [Pats](http://twitter.com/search?q=Pats) | Pats is a slang term used to refer to someone who is being praised or congratulated. It can also be used as a verb, meaning to give someone praise or congratulations. |
 | 27 | [sveiks](http://twitter.com/search?q=sveiks) | N/A |
 | 28 | [avenu](http://twitter.com/search?q=avenu) | N/A |
 | 29 | [putinam](http://twitter.com/search?q=putinam) | N/A |
-| 30 | [Viņš](http://twitter.com/search?q=Vi%c5%86%c5%a1) | N/A |
-| 31 | [риге](http://twitter.com/search?q=%d1%80%d0%b8%d0%b3%d0%b5) | N/A |
+| 30 | [риге](http://twitter.com/search?q=%d1%80%d0%b8%d0%b3%d0%b5) | N/A |
+| 31 | [Viņš](http://twitter.com/search?q=Vi%c5%86%c5%a1) | N/A |
 | 32 | [krimas](http://twitter.com/search?q=krimas) | N/A |
 | 33 | [vajadzēja](http://twitter.com/search?q=vajadz%c4%93ja) | N/A |
-| 34 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 35 | [toties](http://twitter.com/search?q=toties) | N/A |
-| 36 | [USSR](http://twitter.com/search?q=USSR) | N/A |
+| 34 | [USSR](http://twitter.com/search?q=USSR) | N/A |
+| 35 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 36 | [toties](http://twitter.com/search?q=toties) | N/A |
 | 37 | [nebūs](http://twitter.com/search?q=neb%c5%abs) | N/A |
 | 38 | [В Латвии](http://twitter.com/search?q=%d0%92+%d0%9b%d0%b0%d1%82%d0%b2%d0%b8%d0%b8) | N/A |
 | 39 | [Riga](http://twitter.com/search?q=Riga) | N/A |
 | 40 | [daugavpilī](http://twitter.com/search?q=daugavpil%c4%ab) | N/A |
-| 41 | [polijas](http://twitter.com/search?q=polijas) | N/A |
-| 42 | [vairāk](http://twitter.com/search?q=vair%c4%81k) | N/A |
-| 43 | [ņemot](http://twitter.com/search?q=%c5%86emot) | N/A |
-| 44 | [satversmes](http://twitter.com/search?q=satversmes) | N/A |
-| 45 | [beidzot](http://twitter.com/search?q=beidzot) | N/A |
-| 46 | [ja tu](http://twitter.com/search?q=ja+tu) | N/A |
+| 41 | [Украины](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d1%8b) | N/A |
+| 42 | [polijas](http://twitter.com/search?q=polijas) | N/A |
+| 43 | [vairāk](http://twitter.com/search?q=vair%c4%81k) | N/A |
+| 44 | [ņemot](http://twitter.com/search?q=%c5%86emot) | N/A |
+| 45 | [satversmes](http://twitter.com/search?q=satversmes) | N/A |
+| 46 | [beidzot](http://twitter.com/search?q=beidzot) | N/A |
 | 47 | [lūdzu](http://twitter.com/search?q=l%c5%abdzu) | N/A |
-| 48 | [Krievu](http://twitter.com/search?q=Krievu) | N/A |
-| 49 | [šķiet](http://twitter.com/search?q=%c5%a1%c4%b7iet) | N/A |
-| 50 | [igauniju](http://twitter.com/search?q=igauniju) | N/A |
+| 48 | [ja tu](http://twitter.com/search?q=ja+tu) | N/A |
+| 49 | [Krievu](http://twitter.com/search?q=Krievu) | N/A |
+| 50 | [Latvija](http://twitter.com/search?q=Latvija) | N/A |
 
 
 

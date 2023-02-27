@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dallas-Ft. Worth
 
-📆 Last Updated: `2023-02-27 02:41:11 UTC`
+📆 Last Updated: `2023-02-27 03:21:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 2 | [Roughnecks](http://twitter.com/search?q=Roughnecks) | N/A |
-| 3 | [#txwx](http://twitter.com/search?q=%23txwx) | N/A |
-| 4 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 5 | [#RoughneckNation](http://twitter.com/search?q=%23RoughneckNation) | N/A |
-| 6 | [Lubbock](http://twitter.com/search?q=Lubbock) | N/A |
-| 7 | [#MFFL](http://twitter.com/search?q=%23MFFL) | #MFFL stands for "Mavs Fan For Life" and is used by fans of the Dallas Mavericks NBA basketball team to show their loyalty and support. |
-| 8 | [Wood](http://twitter.com/search?q=Wood) | N/A |
-| 9 | [#XFL2023](http://twitter.com/search?q=%23XFL2023) | N/A |
-| 10 | [West Texas](http://twitter.com/search?q=West+Texas) | N/A |
-| 11 | [Mavericks](http://twitter.com/search?q=Mavericks) | Mavericks is a term used to describe an independent-minded person who does not conform to the norms of society. It is often used to describe someone who is willing to take risks and challenge the status quo. |
-| 12 | [#HornsForward](http://twitter.com/search?q=%23HornsForward) | N/A |
-| 13 | [Brahmas](http://twitter.com/search?q=Brahmas) | N/A |
-| 14 | [Wayne](http://twitter.com/search?q=Wayne) | Wayne is a masculine given name in English, derived from an Old English surname meaning "wagon maker" or "wagon driver". It is also used as a surname. |
-| 15 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
-| 16 | [Josh Green](http://twitter.com/search?q=Josh+Green) | Josh Green is a slang term used to describe someone who is inexperienced or naive. It is often used to describe someone who is new to a particular activity or situation and may not be aware of the rules or customs associated with it. |
-| 17 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
-| 18 | [Sunday Funday](http://twitter.com/search?q=Sunday+Funday) | N/A |
-| 19 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
-| 20 | [YouTuber](http://twitter.com/search?q=YouTuber) | N/A |
-| 21 | [Dallas](http://twitter.com/search?q=Dallas) | Dallas is a city in the U.S. state of Texas. It is the ninth most populous city in the United States and the third-largest in Texas after Houston and San Antonio. The city's population ranks ninth in the U.S. and third in Texas after Houston and San Antonio. Dallas is known for its oil, telecommunications, banking, technology, healthcare, defense, transportation, and commerce industries. |
-| 22 | [Logan](http://twitter.com/search?q=Logan) | N/A |
-| 23 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
-| 24 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
-| 25 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 26 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
-| 27 | [Naz Reid](http://twitter.com/search?q=Naz+Reid) | Naz Reid is a professional basketball player who currently plays for the Minnesota Timberwolves of the National Basketball Association (NBA). His name is a combination of his first name, Naz, and his middle name, Reid. The name Naz Reid is derived from his full name, Nazareth Reid. |
-| 28 | [Sally Field](http://twitter.com/search?q=Sally+Field) | N/A |
-| 29 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
-| 30 | [Bron](http://twitter.com/search?q=Bron) | Bron is a Dutch name that is derived from the Old Germanic name Brunhild, which means "armored warrior." In English, Bron can be translated to mean "armored warrior" or "brave one." |
-| 31 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
-| 32 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
-| 33 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 34 | [Jennifer Coolidge](http://twitter.com/search?q=Jennifer+Coolidge) | Jennifer Coolidge is an American actress and comedian. She is best known for her roles in the films Legally Blonde, American Pie, and Best in Show. She has also appeared in television shows such as Friends, Seinfeld, and 2 Broke Girls. |
-| 35 | [Kyle Busch](http://twitter.com/search?q=Kyle+Busch) | N/A |
-| 36 | [Candiace](http://twitter.com/search?q=Candiace) | Candiace is a female given name of Latin origin, derived from the word "candidus" meaning "bright" or "shining". |
-| 37 | [Andrew Garfield](http://twitter.com/search?q=Andrew+Garfield) | Andrew Garfield is an English actor. He is best known for his roles in films such as The Social Network, The Amazing Spider-Man, and Hacksaw Ridge. |
-| 38 | [Vanderbilt](http://twitter.com/search?q=Vanderbilt) | N/A |
-| 39 | [Meier](http://twitter.com/search?q=Meier) | N/A |
-| 40 | [Jessica Chastain](http://twitter.com/search?q=Jessica+Chastain) | Jessica Chastain is an American actress and producer. She is known for her roles in films such as The Help, Zero Dark Thirty, Interstellar, and Molly's Game. Her name is derived from the Latin word "castus," which means pure or chaste. |
-| 41 | [TAKE ON ME](http://twitter.com/search?q=TAKE+ON+ME) | N/A |
-| 42 | [Holtz](http://twitter.com/search?q=Holtz) | N/A |
-| 43 | [Fauci](http://twitter.com/search?q=Fauci) | N/A |
-| 44 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
-| 45 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
-| 46 | [Vando](http://twitter.com/search?q=Vando) | N/A |
-| 47 | [Jacqueline](http://twitter.com/search?q=Jacqueline) | Jacqueline is a French feminine given name. It is derived from the Hebrew name Ya'aqov, meaning "may God protect". In English, it is usually translated as "supplanter" or "one who supplants". |
-| 48 | [Devils](http://twitter.com/search?q=Devils) | N/A |
-| 49 | [Nemec](http://twitter.com/search?q=Nemec) | N/A |
-| 50 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
+| 1 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
+| 2 | [#RoughneckNation](http://twitter.com/search?q=%23RoughneckNation) | N/A |
+| 3 | [Kidd](http://twitter.com/search?q=Kidd) | N/A |
+| 4 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 5 | [#Roughnecks](http://twitter.com/search?q=%23Roughnecks) | N/A |
+| 6 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 7 | [Lubbock](http://twitter.com/search?q=Lubbock) | N/A |
+| 8 | [Dwight Powell](http://twitter.com/search?q=Dwight+Powell) | N/A |
+| 9 | [#txwx](http://twitter.com/search?q=%23txwx) | N/A |
+| 10 | [#MFFL](http://twitter.com/search?q=%23MFFL) | #MFFL stands for "Mavs Fan For Life" and is used by fans of the Dallas Mavericks NBA basketball team to show their loyalty and support. |
+| 11 | [#XFL2023](http://twitter.com/search?q=%23XFL2023) | N/A |
+| 12 | [Wood](http://twitter.com/search?q=Wood) | N/A |
+| 13 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
+| 14 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
+| 15 | [West Texas](http://twitter.com/search?q=West+Texas) | N/A |
+| 16 | [Mavericks](http://twitter.com/search?q=Mavericks) | Mavericks is a term used to describe an independent-minded person who does not conform to the norms of society. It is often used to describe someone who is willing to take risks and challenge the status quo. |
+| 17 | [Wayne](http://twitter.com/search?q=Wayne) | Wayne is a masculine given name in English, derived from an Old English surname meaning "wagon maker" or "wagon driver". It is also used as a surname. |
+| 18 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
+| 19 | [Josh Green](http://twitter.com/search?q=Josh+Green) | Josh Green is a slang term used to describe someone who is inexperienced or naive. It is often used to describe someone who is new to a particular activity or situation and may not be aware of the rules or customs associated with it. |
+| 20 | [Dallas](http://twitter.com/search?q=Dallas) | Dallas is a city in the U.S. state of Texas. It is the ninth most populous city in the United States and the third-largest in Texas after Houston and San Antonio. The city's population ranks ninth in the U.S. and third in Texas after Houston and San Antonio. Dallas is known for its oil, telecommunications, banking, technology, healthcare, defense, transportation, and commerce industries. |
+| 21 | [Logan](http://twitter.com/search?q=Logan) | N/A |
+| 22 | [Sunday Funday](http://twitter.com/search?q=Sunday+Funday) | N/A |
+| 23 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 24 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 25 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
+| 26 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
+| 27 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 28 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
+| 29 | [James Hong](http://twitter.com/search?q=James+Hong) | N/A |
+| 30 | [Naz Reid](http://twitter.com/search?q=Naz+Reid) | Naz Reid is a professional basketball player who currently plays for the Minnesota Timberwolves of the National Basketball Association (NBA). His name is a combination of his first name, Naz, and his middle name, Reid. The name Naz Reid is derived from his full name, Nazareth Reid. |
+| 31 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
+| 32 | [Sally Field](http://twitter.com/search?q=Sally+Field) | N/A |
+| 33 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
+| 34 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
+| 35 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
+| 36 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
+| 37 | [Left Behind](http://twitter.com/search?q=Left+Behind) | N/A |
+| 38 | [Jennifer Coolidge](http://twitter.com/search?q=Jennifer+Coolidge) | Jennifer Coolidge is an American actress and comedian. She is best known for her roles in the films Legally Blonde, American Pie, and Best in Show. She has also appeared in television shows such as Friends, Seinfeld, and 2 Broke Girls. |
+| 39 | [Donte](http://twitter.com/search?q=Donte) | Donte is a given name of Italian origin, derived from the Latin name "Donatus". It is a variant of the name "Donato" and can be translated to mean "given" or "gift". |
+| 40 | [Austin Rivers](http://twitter.com/search?q=Austin+Rivers) | Austin Rivers is an American professional basketball player who currently plays for the Houston Rockets of the National Basketball Association (NBA). His name is derived from his father, Doc Rivers, who is also a professional basketball coach. The name Austin Rivers means "from the river of Austin," referring to the city of Austin, Texas. |
+| 41 | [Damian Lillard](http://twitter.com/search?q=Damian+Lillard) | Damian Lillard is an American professional basketball player who currently plays for the Portland Trail Blazers of the National Basketball Association (NBA). He is a six-time NBA All-Star and was named the NBA Rookie of the Year in 2013. |
+| 42 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
+| 43 | [Candiace](http://twitter.com/search?q=Candiace) | Candiace is a female given name of Latin origin, derived from the word "candidus" meaning "bright" or "shining". |
+| 44 | [Storm Reid](http://twitter.com/search?q=Storm+Reid) | N/A |
+| 45 | [Timberwolves](http://twitter.com/search?q=Timberwolves) | Timberwolves is a nickname for the Minnesota Timberwolves, a professional basketball team based in Minneapolis, Minnesota. The name was chosen to reflect the state's rich history of logging and timber production. |
+| 46 | [Kyle Busch](http://twitter.com/search?q=Kyle+Busch) | N/A |
+| 47 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 48 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
+| 49 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
+| 50 | [Women Are Talking](http://twitter.com/search?q=Women+Are+Talking) | N/A |
 
 
 

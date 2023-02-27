@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brazil
 
-📆 Last Updated: `2023-02-27 02:41:19 UTC`
+📆 Last Updated: `2023-02-27 03:21:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Brazil
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SAGAwards](http://twitter.com/search?q=%23SAGAwards) | N/A |
-| 2 | [#Fantastico](http://twitter.com/search?q=%23Fantastico) | #Fantastico is an Italian word meaning "fantastic" or "amazing". It is often used as a hashtag on social media to express enthusiasm for something. |
-| 3 | [jenna](http://twitter.com/search?q=jenna) | Jenna is a female given name of Arabic origin, meaning “heaven” or “paradise”. |
-| 4 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
-| 5 | [#BasqueteNaESPN](http://twitter.com/search?q=%23BasqueteNaESPN) | N/A |
-| 6 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
-| 7 | [Andrey](http://twitter.com/search?q=Andrey) | Andrey is a Russian male given name derived from the Greek name Andreas, meaning "manly" or "masculine". |
-| 8 | [Bolsonaro Store](http://twitter.com/search?q=Bolsonaro+Store) | N/A |
-| 9 | [Jessica Chastain](http://twitter.com/search?q=Jessica+Chastain) | Jessica Chastain is an American actress and producer. She is known for her roles in films such as The Help, Zero Dark Thirty, Interstellar, and Molly's Game. Her name is derived from the Latin word "castus," which means pure or chaste. |
-| 10 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 11 | [take on](http://twitter.com/search?q=take+on) | N/A |
-| 12 | [Corinthians](http://twitter.com/search?q=Corinthians) | Corinthians is a book of the Bible, specifically the second book of the New Testament. It is a letter written by Paul to the church in Corinth, Greece. The book contains Paul's teachings on many topics, including love, faith, and hope. |
-| 13 | [Eliezer](http://twitter.com/search?q=Eliezer) | N/A |
-| 14 | [Jailson](http://twitter.com/search?q=Jailson) | Jailson is a Portuguese name derived from the Latin name Iacobus, which means "supplanter". It is also a variant of the English name Jacob. |
-| 15 | [Rodrigo Faro](http://twitter.com/search?q=Rodrigo+Faro) | N/A |
-| 16 | [#TeamSapato](http://twitter.com/search?q=%23TeamSapato) | N/A |
-| 17 | [Veiga](http://twitter.com/search?q=Veiga) | Veiga is a Portuguese surname derived from the Latin word "vigia," which means "watchman." It is also the name of a river in Portugal. In English, it can be translated to mean "watchman" or "guardian." |
-| 18 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
-| 19 | [#DomingoEspetacular](http://twitter.com/search?q=%23DomingoEspetacular) | N/A |
-| 20 | [aubrey](http://twitter.com/search?q=aubrey) | N/A |
-| 21 | [Andrew Garfield](http://twitter.com/search?q=Andrew+Garfield) | Andrew Garfield is an English actor. He is best known for his roles in films such as The Social Network, The Amazing Spider-Man, and Hacksaw Ridge. |
-| 22 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
-| 23 | [Jennifer Coolidge](http://twitter.com/search?q=Jennifer+Coolidge) | Jennifer Coolidge is an American actress and comedian. She is best known for her roles in the films Legally Blonde, American Pie, and Best in Show. She has also appeared in television shows such as Friends, Seinfeld, and 2 Broke Girls. |
-| 24 | [Stephanie Hsu](http://twitter.com/search?q=Stephanie+Hsu) | Stephanie Hsu is a Taiwanese-American actress and singer. She is best known for her roles in the Broadway musicals Be More Chill and SpongeBob SquarePants: The Musical. Her name means "graceful lily" in Chinese. |
-| 25 | [Gui Santos](http://twitter.com/search?q=Gui+Santos) | N/A |
-| 26 | [Sally Field](http://twitter.com/search?q=Sally+Field) | N/A |
-| 27 | [Angela](http://twitter.com/search?q=Angela) | N/A |
-| 28 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
-| 29 | [Mundo de Basquete](http://twitter.com/search?q=Mundo+de+Basquete) | N/A |
-| 30 | [Evan](http://twitter.com/search?q=Evan) | N/A |
-| 31 | [Viih Tube](http://twitter.com/search?q=Viih+Tube) | Viih Tube is a Brazilian YouTube channel created by Viih Rohden. It features videos about beauty, lifestyle, fashion, and other topics related to the life of a young woman. The name Viih Tube is a combination of the creator's name and the word "tube," which is slang for YouTube. In English, Viih Tube means "Viih's YouTube channel." |
-| 32 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
-| 33 | [Brasil de Pelotas](http://twitter.com/search?q=Brasil+de+Pelotas) | Brasil de Pelotas is a Brazilian football club based in the city of Pelotas, Rio Grande do Sul. The club was founded in 1912 and currently plays in the Campeonato Brasileiro Série B, the second tier of Brazilian football. The name of the club literally translates to "Brazil from Pelotas" in English. |
-| 34 | [Jael](http://twitter.com/search?q=Jael) | N/A |
-| 35 | [Lelê](http://twitter.com/search?q=Lel%c3%aa) | N/A |
-| 36 | [cate](http://twitter.com/search?q=cate) | N/A |
-| 37 | [Yuri](http://twitter.com/search?q=Yuri) | N/A |
-| 38 | [Left Behind](http://twitter.com/search?q=Left+Behind) | N/A |
-| 39 | [Laura Linney](http://twitter.com/search?q=Laura+Linney) | N/A |
-| 40 | [Gabriel Menino](http://twitter.com/search?q=Gabriel+Menino) | Gabriel Menino is a Brazilian professional footballer who plays as a midfielder for Palmeiras. His name translates to "God is my strength" in English. |
-| 41 | [Marlon Gomes](http://twitter.com/search?q=Marlon+Gomes) | Marlon Gomes is a Brazilian name. It is derived from the Latin words "mar" (sea) and "lon" (lion). The name means "sea lion". |
-| 42 | [Kerry](http://twitter.com/search?q=Kerry) | N/A |
-| 43 | [jeremy allen](http://twitter.com/search?q=jeremy+allen) | N/A |
-| 44 | [Pedrosa](http://twitter.com/search?q=Pedrosa) | Pedrosa is a Spanish surname derived from the given name Pedro. It is a patronymic name meaning "son of Pedro". In English, it can be translated to mean "son of Peter". |
-| 45 | [Lusa](http://twitter.com/search?q=Lusa) | N/A |
-| 46 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
-| 47 | [Portuguesa](http://twitter.com/search?q=Portuguesa) | N/A |
-| 48 | [Brasil x EUA](http://twitter.com/search?q=Brasil+x+EUA) | N/A |
-| 49 | [BUON COMPLEANNO DAYANE](http://twitter.com/search?q=BUON+COMPLEANNO+DAYANE) | N/A |
-| 50 | [A-ha](http://twitter.com/search?q=A-ha) | N/A |
+| 1 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 2 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 3 | [#TLOU](http://twitter.com/search?q=%23TLOU) | #TLOU is an acronym for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is a post-apocalyptic action-adventure survival horror game set in the United States. The game follows the story of Joel and Ellie as they traverse a post-apocalyptic world filled with hostile humans and cannibalistic creatures known as the Infected. |
+| 4 | [#SAGAwards](http://twitter.com/search?q=%23SAGAwards) | N/A |
+| 5 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
+| 6 | [Se a Key](http://twitter.com/search?q=Se+a+Key) | N/A |
+| 7 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
+| 8 | [Dummy](http://twitter.com/search?q=Dummy) | Dummy is a slang term used to describe someone who is foolish or gullible. It can also be used to describe someone who is not very intelligent or knowledgeable. |
+| 9 | [#Fantastico](http://twitter.com/search?q=%23Fantastico) | #Fantastico is an Italian word meaning "fantastic" or "amazing". It is often used as a hashtag on social media to express enthusiasm for something. |
+| 10 | [Engov](http://twitter.com/search?q=Engov) | N/A |
+| 11 | [Neil](http://twitter.com/search?q=Neil) | N/A |
+| 12 | [take on](http://twitter.com/search?q=take+on) | N/A |
+| 13 | [Marvila](http://twitter.com/search?q=Marvila) | N/A |
+| 14 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
+| 15 | [jenna](http://twitter.com/search?q=jenna) | Jenna is a female given name of Arabic origin, meaning “heaven” or “paradise”. |
+| 16 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
+| 17 | [Left Behind](http://twitter.com/search?q=Left+Behind) | N/A |
+| 18 | [#BasqueteNaESPN](http://twitter.com/search?q=%23BasqueteNaESPN) | N/A |
+| 19 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 20 | [Storm Reid](http://twitter.com/search?q=Storm+Reid) | N/A |
+| 21 | [Bolsonaro Store](http://twitter.com/search?q=Bolsonaro+Store) | N/A |
+| 22 | [Cate](http://twitter.com/search?q=Cate) | Cate is short for the name Catherine, which is a feminine given name of Greek origin. It means "pure" or "clear". |
+| 23 | [Babu](http://twitter.com/search?q=Babu) | N/A |
+| 24 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 25 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
+| 26 | [Andrey](http://twitter.com/search?q=Andrey) | Andrey is a Russian male given name derived from the Greek name Andreas, meaning "manly" or "masculine". |
+| 27 | [Eliezer](http://twitter.com/search?q=Eliezer) | N/A |
+| 28 | [Jessica Chastain](http://twitter.com/search?q=Jessica+Chastain) | Jessica Chastain is an American actress and producer. She is known for her roles in films such as The Help, Zero Dark Thirty, Interstellar, and Molly's Game. Her name is derived from the Latin word "castus," which means pure or chaste. |
+| 29 | [RACE WEEK](http://twitter.com/search?q=RACE+WEEK) | N/A |
+| 30 | [Bate e Volta](http://twitter.com/search?q=Bate+e+Volta) | N/A |
+| 31 | [Rodrigo Faro](http://twitter.com/search?q=Rodrigo+Faro) | N/A |
+| 32 | [Brendan](http://twitter.com/search?q=Brendan) | Brendan is an Irish name derived from the Gaelic Breandán, meaning "prince". It is also used as a surname. |
+| 33 | [Damian Lillard](http://twitter.com/search?q=Damian+Lillard) | Damian Lillard is an American professional basketball player who currently plays for the Portland Trail Blazers of the National Basketball Association (NBA). He is a six-time NBA All-Star and was named the NBA Rookie of the Year in 2013. |
+| 34 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 35 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
+| 36 | [aubrey](http://twitter.com/search?q=aubrey) | N/A |
+| 37 | [Jailson](http://twitter.com/search?q=Jailson) | Jailson is a Portuguese name derived from the Latin name Iacobus, which means "supplanter". It is also a variant of the English name Jacob. |
+| 38 | [Stephanie Hsu](http://twitter.com/search?q=Stephanie+Hsu) | Stephanie Hsu is a Taiwanese-American actress and singer. She is best known for her roles in the Broadway musicals Be More Chill and SpongeBob SquarePants: The Musical. Her name means "graceful lily" in Chinese. |
+| 39 | [Que a Key](http://twitter.com/search?q=Que+a+Key) | N/A |
+| 40 | [Andrew Garfield](http://twitter.com/search?q=Andrew+Garfield) | Andrew Garfield is an English actor. He is best known for his roles in films such as The Social Network, The Amazing Spider-Man, and Hacksaw Ridge. |
+| 41 | [Jennifer Coolidge](http://twitter.com/search?q=Jennifer+Coolidge) | Jennifer Coolidge is an American actress and comedian. She is best known for her roles in the films Legally Blonde, American Pie, and Best in Show. She has also appeared in television shows such as Friends, Seinfeld, and 2 Broke Girls. |
+| 42 | [Angela](http://twitter.com/search?q=Angela) | N/A |
+| 43 | [Anthony Lamb](http://twitter.com/search?q=Anthony+Lamb) | Anthony Lamb is a phrase used to describe someone who is indecisive or easily swayed. It comes from the story of Anthony and Cleopatra, in which Anthony was unable to make up his mind between his love for Cleopatra and his loyalty to Rome. |
+| 44 | [mc bin laden](http://twitter.com/search?q=mc+bin+laden) | N/A |
+| 45 | [Sally Field](http://twitter.com/search?q=Sally+Field) | N/A |
+| 46 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
+| 47 | [Austin Butler](http://twitter.com/search?q=Austin+Butler) | Austin Butler is an American actor and singer. He is best known for his roles in the films The Carrie Diaries, Switched at Birth, and The Shannara Chronicles. He has also appeared in the television series Zoey 101 and Arrow. The name Austin Butler has no particular meaning in English; it is simply a combination of two given names. |
+| 48 | [Izzo](http://twitter.com/search?q=Izzo) | Izzo is a slang term derived from the word "isso," which is a contraction of the Portuguese phrase "é isso," meaning "that's it." It can be used to express agreement, approval, or excitement. |
+| 49 | [Mundo de Basquete](http://twitter.com/search?q=Mundo+de+Basquete) | N/A |
+| 50 | [Veiga](http://twitter.com/search?q=Veiga) | Veiga is a Portuguese surname derived from the Latin word "vigia," which means "watchman." It is also the name of a river in Portugal. In English, it can be translated to mean "watchman" or "guardian." |
 
 
 

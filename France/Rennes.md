@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rennes
 
-📆 Last Updated: `2023-02-27 02:40:43 UTC`
+📆 Last Updated: `2023-02-27 03:20:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#FCNSRFC](http://twitter.com/search?q=%23FCNSRFC) | N/A |
-| 2 | [#OMPSG](http://twitter.com/search?q=%23OMPSG) | N/A |
-| 3 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
-| 4 | [Bailly](http://twitter.com/search?q=Bailly) | Bailly is a French surname derived from the Old French word baillis, meaning "bailiff" or "steward". It is also a given name in France, derived from the same source. |
-| 5 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
-| 6 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 7 | [Hilona](http://twitter.com/search?q=Hilona) | N/A |
-| 8 | [Julien Bert](http://twitter.com/search?q=Julien+Bert) | N/A |
+| 1 | [#OMPSG](http://twitter.com/search?q=%23OMPSG) | N/A |
+| 2 | [Bailly](http://twitter.com/search?q=Bailly) | Bailly is a French surname derived from the Old French word baillis, meaning "bailiff" or "steward". It is also a given name in France, derived from the same source. |
+| 3 | [#FRAECO](http://twitter.com/search?q=%23FRAECO) | N/A |
+| 4 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
+| 5 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
+| 6 | [Marseille](http://twitter.com/search?q=Marseille) | N/A |
+| 7 | [#ASMOGCN](http://twitter.com/search?q=%23ASMOGCN) | N/A |
+| 8 | [Marquinhos](http://twitter.com/search?q=Marquinhos) | Marquinhos is a nickname for the Brazilian footballer Marcos Aoás Corrêa, who plays for Paris Saint-Germain. The name is derived from his first name, Marcos, and is a common nickname in Brazil. In English, it translates to "Little Marcos". |
 | 9 | [Vitinha](http://twitter.com/search?q=Vitinha) | Vitinha is a Portuguese nickname for someone named Vitor, which is a common name in Portugal. In English, it translates to "little Vitor". |
-| 10 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 11 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
-| 12 | [Marseille](http://twitter.com/search?q=Marseille) | N/A |
-| 13 | [#SAGAwards](http://twitter.com/search?q=%23SAGAwards) | N/A |
-| 14 | [Nuno](http://twitter.com/search?q=Nuno) | N/A |
-| 15 | [#PaulFury](http://twitter.com/search?q=%23PaulFury) | N/A |
-| 16 | [Vanderbilt](http://twitter.com/search?q=Vanderbilt) | N/A |
-| 17 | [Tudor](http://twitter.com/search?q=Tudor) | Tudor is an English royal dynasty that ruled from 1485 to 1603. The Tudors were a powerful family of Welsh origin who rose to prominence in England during the 15th century. They are best known for their strong rule and for the many influential monarchs they produced, including Henry VIII and Elizabeth I. |
-| 18 | [#OlivierFacts](http://twitter.com/search?q=%23OlivierFacts) | N/A |
-| 19 | [Mbemba](http://twitter.com/search?q=Mbemba) | Mbemba is a Bantu language spoken in the Democratic Republic of Congo. It is also known as Cibemba, Chibemba, Ichibemba, and Cilamba. The meaning of Mbemba in English is "language". |
-| 20 | [Vélodrome](http://twitter.com/search?q=V%c3%a9lodrome) | N/A |
-| 21 | [Kimpembe](http://twitter.com/search?q=Kimpembe) | N/A |
-| 22 | [Merci Paris](http://twitter.com/search?q=Merci+Paris) | N/A |
-| 23 | [Ruiz](http://twitter.com/search?q=Ruiz) | Ruiz is a Spanish surname. It is derived from the Latin word "ruiz" which means "oak tree". In English, it can be translated to mean "oak tree". |
-| 24 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
-| 25 | [Achille](http://twitter.com/search?q=Achille) | N/A |
-| 26 | [Cavani](http://twitter.com/search?q=Cavani) | Cavani is a surname of Italian origin. It is derived from the Latin word cavus, meaning "hollow". The name is most commonly associated with Uruguayan footballer Edinson Cavani. |
-| 27 | [Presko](http://twitter.com/search?q=Presko) | N/A |
-| 28 | [Roselyne](http://twitter.com/search?q=Roselyne) | N/A |
+| 10 | [#LGBTQIASunIsComing](http://twitter.com/search?q=%23LGBTQIASunIsComing) | N/A |
+| 11 | [Julien Bert](http://twitter.com/search?q=Julien+Bert) | N/A |
+| 12 | [François Hadji](http://twitter.com/search?q=Fran%c3%a7ois+Hadji) | N/A |
+| 13 | [Hilona](http://twitter.com/search?q=Hilona) | N/A |
+| 14 | [#FCNSRFC](http://twitter.com/search?q=%23FCNSRFC) | N/A |
+| 15 | [Vélodrome](http://twitter.com/search?q=V%c3%a9lodrome) | N/A |
+| 16 | [Mbemba](http://twitter.com/search?q=Mbemba) | Mbemba is a Bantu language spoken in the Democratic Republic of Congo. It is also known as Cibemba, Chibemba, Ichibemba, and Cilamba. The meaning of Mbemba in English is "language". |
+| 17 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
+| 18 | [ALLEZ PARIS](http://twitter.com/search?q=ALLEZ+PARIS) | N/A |
+| 19 | [Haouas](http://twitter.com/search?q=Haouas) | N/A |
+| 20 | [Kimpembe](http://twitter.com/search?q=Kimpembe) | N/A |
+| 21 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
+| 22 | [Presko](http://twitter.com/search?q=Presko) | N/A |
+| 23 | [Tudor](http://twitter.com/search?q=Tudor) | Tudor is an English royal dynasty that ruled from 1485 to 1603. The Tudors were a powerful family of Welsh origin who rose to prominence in England during the 15th century. They are best known for their strong rule and for the many influential monarchs they produced, including Henry VIII and Elizabeth I. |
+| 24 | [Moffi](http://twitter.com/search?q=Moffi) | Moffi is a slang term used in some parts of the United States to refer to someone who is a nerd or geek. It can also be used as an insult, implying that someone is socially awkward or not cool. |
+| 25 | [McDo](http://twitter.com/search?q=McDo) | N/A |
+| 26 | [Almeria](http://twitter.com/search?q=Almeria) | N/A |
+| 27 | [Turpin](http://twitter.com/search?q=Turpin) | Turpin is a French surname derived from the Old French word torp, meaning "stubborn". It is also a given name, usually for males. In English, it can be used as a nickname for someone who is stubborn or determined. |
+| 28 | [Saint Maximin](http://twitter.com/search?q=Saint+Maximin) | N/A |
 | 29 | [Balerdi](http://twitter.com/search?q=Balerdi) | N/A |
-| 30 | [Gigot](http://twitter.com/search?q=Gigot) | N/A |
-| 31 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
-| 32 | [Bachelot](http://twitter.com/search?q=Bachelot) | N/A |
-| 33 | [Verratti](http://twitter.com/search?q=Verratti) | Verratti is an Italian surname. It is derived from the Latin word verratum, which means "true". In English, it can be translated to mean "true and faithful". |
-| 34 | [ICI C'EST PARIS](http://twitter.com/search?q=ICI+C%27EST+PARIS) | N/A |
-| 35 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
-| 36 | [Marseillais](http://twitter.com/search?q=Marseillais) | N/A |
-| 37 | [Presnel](http://twitter.com/search?q=Presnel) | N/A |
-| 38 | [Mukiele](http://twitter.com/search?q=Mukiele) | Mukiele is a name of African origin, derived from the Kikuyu language. It means "God's gift" in English. |
-| 39 | [Olivier Dussopt](http://twitter.com/search?q=Olivier+Dussopt) | N/A |
-| 40 | [Marqui](http://twitter.com/search?q=Marqui) | N/A |
-| 41 | [Turpin](http://twitter.com/search?q=Turpin) | Turpin is a French surname derived from the Old French word torp, meaning "stubborn". It is also a given name, usually for males. In English, it can be used as a nickname for someone who is stubborn or determined. |
-| 42 | [L'OM](http://twitter.com/search?q=L%27OM) | N/A |
-| 43 | [Clim](http://twitter.com/search?q=Clim) | N/A |
-| 44 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
-| 45 | [ALLEZ PARIS](http://twitter.com/search?q=ALLEZ+PARIS) | N/A |
-| 46 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
-| 47 | [Coupe de France](http://twitter.com/search?q=Coupe+de+France) | N/A |
-| 48 | [Lewis Capaldi](http://twitter.com/search?q=Lewis+Capaldi) | N/A |
-| 49 | [Guendouzi](http://twitter.com/search?q=Guendouzi) | Guendouzi is a French surname. It is derived from the Basque word "gendouz", which means "good luck". In English, it can be translated to mean "lucky one". |
-| 50 | [Chancel](http://twitter.com/search?q=Chancel) | Chancel is a term used in Christian churches to refer to the area around the altar, typically separated from the nave by a screen or rail. It is usually reserved for clergy and choir members during services. The word comes from the Latin cancelli, meaning "lattice" or "enclosure". |
+| 30 | [Cavani](http://twitter.com/search?q=Cavani) | Cavani is a surname of Italian origin. It is derived from the Latin word cavus, meaning "hollow". The name is most commonly associated with Uruguayan footballer Edinson Cavani. |
+| 31 | [Martyrs](http://twitter.com/search?q=Martyrs) | N/A |
+| 32 | [ALLEZ L'OM](http://twitter.com/search?q=ALLEZ+L%27OM) | N/A |
+| 33 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
+| 34 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
+| 35 | [Clauss](http://twitter.com/search?q=Clauss) | Clauss is a German surname. It is derived from the Latin word "clausus," which means "closed" or "shut." In English, the name Clauss can be translated to mean "closed off" or "shut away." |
+| 36 | [Gigio](http://twitter.com/search?q=Gigio) | N/A |
+| 37 | [Ruiz](http://twitter.com/search?q=Ruiz) | Ruiz is a Spanish surname. It is derived from the Latin word "ruiz" which means "oak tree". In English, it can be translated to mean "oak tree". |
+| 38 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 39 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
+| 40 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 41 | [Roselyne](http://twitter.com/search?q=Roselyne) | N/A |
+| 42 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 43 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 44 | [Pigalle](http://twitter.com/search?q=Pigalle) | N/A |
+| 45 | [Kyks](http://twitter.com/search?q=Kyks) | N/A |
+| 46 | [Ethnicité](http://twitter.com/search?q=Ethnicit%c3%a9) | N/A |
+| 47 | [ICI C'EST PARIS](http://twitter.com/search?q=ICI+C%27EST+PARIS) | N/A |
+| 48 | [Gigot](http://twitter.com/search?q=Gigot) | N/A |
+| 49 | [Mukiele](http://twitter.com/search?q=Mukiele) | Mukiele is a name of African origin, derived from the Kikuyu language. It means "God's gift" in English. |
+| 50 | [Merci Paris](http://twitter.com/search?q=Merci+Paris) | N/A |
 
 
 

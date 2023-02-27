@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bilbao
 
-📆 Last Updated: `2023-02-27 02:40:47 UTC`
+📆 Last Updated: `2023-02-27 03:20:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SAGAwards](http://twitter.com/search?q=%23SAGAwards) | N/A |
-| 2 | [#LoDeMaruja](http://twitter.com/search?q=%23LoDeMaruja) | N/A |
-| 3 | [Ronaldinho](http://twitter.com/search?q=Ronaldinho) | N/A |
-| 4 | [Sampaoli](http://twitter.com/search?q=Sampaoli) | Sampaoli is a Spanish surname. It is derived from the Latin word sampo, which means "harvest". In English, it can be translated to mean "harvester". |
-| 5 | [Osasuna](http://twitter.com/search?q=Osasuna) | Osasuna is a Spanish football club based in Pamplona, Navarre. The name Osasuna means "health" or "vigor" in the Basque language. |
-| 6 | [#ChiringuitoBarcelona](http://twitter.com/search?q=%23ChiringuitoBarcelona) | N/A |
-| 7 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 8 | [#CuartoMilenio](http://twitter.com/search?q=%23CuartoMilenio) | N/A |
-| 9 | [Bono](http://twitter.com/search?q=Bono) | N/A |
-| 10 | [Norrie](http://twitter.com/search?q=Norrie) | N/A |
-| 11 | [Almería](http://twitter.com/search?q=Almer%c3%ada) | Almería is a city in the southeastern region of Spain. It is the capital of the province of Almería and is located on the Mediterranean Sea. In English, Almería means "The Watchtower". |
-| 12 | [#SecretosFamilia26Feb](http://twitter.com/search?q=%23SecretosFamilia26Feb) | N/A |
-| 13 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
-| 14 | [Fernando](http://twitter.com/search?q=Fernando) | Fernando is a Spanish name derived from the Germanic elements "faro" (journey) and "nand" (brave, daring). It is a masculine given name meaning "adventurous journey". |
-| 15 | [Dallas](http://twitter.com/search?q=Dallas) | Dallas is a city in the U.S. state of Texas. It is the ninth most populous city in the United States and the third-largest in Texas after Houston and San Antonio. The city's population ranks ninth in the U.S. and third in Texas after Houston and San Antonio. Dallas is known for its oil, telecommunications, banking, technology, healthcare, defense, transportation, and commerce industries. |
-| 16 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
-| 17 | [Abde](http://twitter.com/search?q=Abde) | Abde is a name of Arabic origin that means "servant of God". |
-| 18 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 19 | [Acuña](http://twitter.com/search?q=Acu%c3%b1a) | Acuña is a Spanish surname derived from the place name Acuña, which is located in the province of León in northwestern Spain. The meaning of Acuña in English is "from Acuña". |
-| 20 | [Navas](http://twitter.com/search?q=Navas) | Navas is a Spanish surname derived from the Latin word navis, meaning “ship”. It is believed to have originated as a nickname for someone who was associated with ships or seafaring. In English, the name Navas can be translated to mean “sailor” or “seafarer”. |
+| 1 | [Almería](http://twitter.com/search?q=Almer%c3%ada) | Almería is a city in the southeastern region of Spain. It is the capital of the province of Almería and is located on the Mediterranean Sea. In English, Almería means "The Watchtower". |
+| 2 | [Ronaldinho](http://twitter.com/search?q=Ronaldinho) | N/A |
+| 3 | [#LoDeMaruja](http://twitter.com/search?q=%23LoDeMaruja) | N/A |
+| 4 | [#KingsLeagueJ8](http://twitter.com/search?q=%23KingsLeagueJ8) | N/A |
+| 5 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 6 | [Correa](http://twitter.com/search?q=Correa) | Correa is a Spanish surname. It is derived from the Latin word correus, meaning "messenger". In English, it can be translated to mean "messenger" or "courier". |
+| 7 | [#SAGAwards](http://twitter.com/search?q=%23SAGAwards) | N/A |
+| 8 | [Sampaoli](http://twitter.com/search?q=Sampaoli) | Sampaoli is a Spanish surname. It is derived from the Latin word sampo, which means "harvest". In English, it can be translated to mean "harvester". |
+| 9 | [Gabri Veiga](http://twitter.com/search?q=Gabri+Veiga) | Gabri Veiga is a Portuguese name. It is derived from the Hebrew name Gabriel, which means "God is my strength". |
+| 10 | [Tito Berni](http://twitter.com/search?q=Tito+Berni) | N/A |
+| 11 | [Osasuna](http://twitter.com/search?q=Osasuna) | Osasuna is a Spanish football club based in Pamplona, Navarre. The name Osasuna means "health" or "vigor" in the Basque language. |
+| 12 | [#Solos26F](http://twitter.com/search?q=%23Solos26F) | N/A |
+| 13 | [Gil Manzano](http://twitter.com/search?q=Gil+Manzano) | Gil Manzano is a Spanish surname. In English, it translates to "son of Manuel". |
+| 14 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
+| 15 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
+| 16 | [Bono](http://twitter.com/search?q=Bono) | N/A |
+| 17 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
+| 18 | [Eric García](http://twitter.com/search?q=Eric+Garc%c3%ada) | N/A |
+| 19 | [Atleti](http://twitter.com/search?q=Atleti) | Atleti is a nickname for the Spanish football club Atlético Madrid. The name is derived from the Spanish word for athlete, atleta. In English, Atleti can be translated to mean "Athletes". |
+| 20 | [Pablo Torre](http://twitter.com/search?q=Pablo+Torre) | Pablo Torre is a sports journalist and television personality who works for ESPN. He is known for his coverage of the NBA, NFL, and college basketball. The name "Pablo Torre" is derived from the Spanish words "pablo" (meaning "small") and "torre" (meaning "tower"). |
 | 21 | [Gudelj](http://twitter.com/search?q=Gudelj) | N/A |
-| 22 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
-| 23 | [Cervera](http://twitter.com/search?q=Cervera) | N/A |
-| 24 | [David García](http://twitter.com/search?q=David+Garc%c3%ada) | N/A |
-| 25 | [En-Nesyri](http://twitter.com/search?q=En-Nesyri) | N/A |
-| 26 | [Montiel](http://twitter.com/search?q=Montiel) | Montiel is a Spanish surname derived from the Latin word monticulus, meaning "small mountain". It is most commonly found in Spain and Latin America. In English, the name Montiel can be translated to mean "of the mountain". |
-| 27 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
-| 28 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 29 | [Barja](http://twitter.com/search?q=Barja) | N/A |
-| 30 | [Doncic](http://twitter.com/search?q=Doncic) | Doncic is the surname of Slovenian professional basketball player Luka Doncic. In English, it is pronounced "DOHN-chich". |
-| 31 | [Pizjuán](http://twitter.com/search?q=Pizju%c3%a1n) | N/A |
-| 32 | [El Corte Inglés](http://twitter.com/search?q=El+Corte+Ingl%c3%a9s) | N/A |
-| 33 | [Bryan Gil](http://twitter.com/search?q=Bryan+Gil) | Bryan Gil is a Spanish professional footballer who plays as a winger for Real Madrid. He is known for his speed, dribbling ability, and crossing. His name is often used as a slang term in Spanish to describe someone who is fast and skillful. |
-| 34 | [Lamela](http://twitter.com/search?q=Lamela) | Lamela is a Spanish surname derived from the Latin word "lamina," which means "blade." It is also used as a given name in some countries. In English, Lamela can be translated to mean "blade of steel." |
-| 35 | [Pablo Torre](http://twitter.com/search?q=Pablo+Torre) | Pablo Torre is a sports journalist and television personality who works for ESPN. He is known for his coverage of the NBA, NFL, and college basketball. The name "Pablo Torre" is derived from the Spanish words "pablo" (meaning "small") and "torre" (meaning "tower"). |
-| 36 | [Suso](http://twitter.com/search?q=Suso) | Suso is a Spanish nickname for the given name Jesús. It is derived from the Latin name Iesus, which is the Greek version of the Hebrew name Joshua. In English, Suso would be translated to "Jesus". |
-| 37 | [JA ESTEM EN FALLES](http://twitter.com/search?q=JA+ESTEM+EN+FALLES) | N/A |
-| 38 | [Tartiere](http://twitter.com/search?q=Tartiere) | N/A |
-| 39 | [Paloma Chamorro](http://twitter.com/search?q=Paloma+Chamorro) | N/A |
-| 40 | [Carlitos](http://twitter.com/search?q=Carlitos) | N/A |
-| 41 | [Bottas](http://twitter.com/search?q=Bottas) | N/A |
-| 42 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
-| 43 | [Aitor](http://twitter.com/search?q=Aitor) | N/A |
-| 44 | [Bela](http://twitter.com/search?q=Bela) | N/A |
-| 45 | [Perez](http://twitter.com/search?q=Perez) | N/A |
-| 46 | [Gabri](http://twitter.com/search?q=Gabri) | N/A |
-| 47 | [#KingsLeagueJ8](http://twitter.com/search?q=%23KingsLeagueJ8) | N/A |
-| 48 | [#Solos26F](http://twitter.com/search?q=%23Solos26F) | N/A |
-| 49 | [#IMPChamorro](http://twitter.com/search?q=%23IMPChamorro) | N/A |
+| 22 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
+| 23 | [PSOE](http://twitter.com/search?q=PSOE) | N/A |
+| 24 | [Girona](http://twitter.com/search?q=Girona) | Girona is a city in Catalonia, Spain. It is located on the northeastern coast of the Iberian Peninsula, about 100 km northeast of Barcelona. The name Girona is derived from the Latin word Gerunda, which means "watchtower". In English, Girona can be translated to mean "watchtower city". |
+| 25 | [Reinildo](http://twitter.com/search?q=Reinildo) | N/A |
+| 26 | [Telles](http://twitter.com/search?q=Telles) | N/A |
+| 27 | [Lamela](http://twitter.com/search?q=Lamela) | Lamela is a Spanish surname derived from the Latin word "lamina," which means "blade." It is also used as a given name in some countries. In English, Lamela can be translated to mean "blade of steel." |
+| 28 | [Rudiger](http://twitter.com/search?q=Rudiger) | Rudiger is a German name derived from the Germanic elements hrod, meaning "fame," and ger, meaning "spear." It is a masculine name that can also be spelled Rudiger or Rudigar. In English, it means "famous spear." |
+| 29 | [Fernando](http://twitter.com/search?q=Fernando) | Fernando is a Spanish name derived from the Germanic elements "faro" (journey) and "nand" (brave, daring). It is a masculine given name meaning "adventurous journey". |
+| 30 | [Bottas](http://twitter.com/search?q=Bottas) | N/A |
+| 31 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 32 | [Gil Marín](http://twitter.com/search?q=Gil+Mar%c3%adn) | N/A |
+| 33 | [Celta](http://twitter.com/search?q=Celta) | Celta is an acronym for Certificate in English Language Teaching to Adults. It is a qualification for teaching English as a foreign language to adults. It is offered by Cambridge Assessment English and accredited by Ofqual, the UK government's regulator of qualifications, examinations and assessments. |
+| 34 | [David García](http://twitter.com/search?q=David+Garc%c3%ada) | N/A |
+| 35 | [Norrie](http://twitter.com/search?q=Norrie) | N/A |
+| 36 | [Montiel](http://twitter.com/search?q=Montiel) | Montiel is a Spanish surname derived from the Latin word monticulus, meaning "small mountain". It is most commonly found in Spain and Latin America. In English, the name Montiel can be translated to mean "of the mountain". |
+| 37 | [Operación Camarón](http://twitter.com/search?q=Operaci%c3%b3n+Camar%c3%b3n) | N/A |
+| 38 | [Navas](http://twitter.com/search?q=Navas) | Navas is a Spanish surname derived from the Latin word navis, meaning “ship”. It is believed to have originated as a nickname for someone who was associated with ships or seafaring. In English, the name Navas can be translated to mean “sailor” or “seafarer”. |
+| 39 | [Bernabéu](http://twitter.com/search?q=Bernab%c3%a9u) | Bernabéu is the name of the home stadium of Spanish football club Real Madrid. It is officially known as Estadio Santiago Bernabéu, named after the former club president Santiago Bernabéu. In English, it is referred to as the Santiago Bernabéu Stadium. |
+| 40 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 41 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
+| 42 | [Alarcón](http://twitter.com/search?q=Alarc%c3%b3n) | N/A |
+| 43 | [San Mamés](http://twitter.com/search?q=San+Mam%c3%a9s) | San Mamés is the name of a football stadium in Bilbao, Spain. It is the home stadium of Athletic Bilbao, a Spanish football club. The name San Mamés comes from a local saint, Saint Mammes of Caesarea, who was martyred in the 3rd century AD. In English, San Mamés translates to "Saint Mammes". |
+| 44 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 45 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
+| 46 | [Pacheta](http://twitter.com/search?q=Pacheta) | N/A |
+| 47 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
+| 48 | [Sin Pedri](http://twitter.com/search?q=Sin+Pedri) | N/A |
+| 49 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
+| 50 | [Hay Liga](http://twitter.com/search?q=Hay+Liga) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Preston
 
-📆 Last Updated: `2023-02-27 02:40:32 UTC`
+📆 Last Updated: `2023-02-27 03:20:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,46 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
-| 2 | [The American](http://twitter.com/search?q=The+American) | N/A |
-| 3 | [#NHS1000miles](http://twitter.com/search?q=%23NHS1000miles) | N/A |
-| 4 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
-| 5 | [YouTuber](http://twitter.com/search?q=YouTuber) | N/A |
-| 6 | [#SAGAwards](http://twitter.com/search?q=%23SAGAwards) | N/A |
-| 7 | [#NorthernLights](http://twitter.com/search?q=%23NorthernLights) | N/A |
-| 8 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
+| 2 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
+| 3 | [YouTuber](http://twitter.com/search?q=YouTuber) | N/A |
+| 4 | [#SAGAwards](http://twitter.com/search?q=%23SAGAwards) | N/A |
+| 5 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
+| 6 | [#NorthernLights](http://twitter.com/search?q=%23NorthernLights) | N/A |
+| 7 | [#Aurora](http://twitter.com/search?q=%23Aurora) | N/A |
+| 8 | [Badou Jack](http://twitter.com/search?q=Badou+Jack) | N/A |
 | 9 | [Bambi](http://twitter.com/search?q=Bambi) | N/A |
-| 10 | [Badou Jack](http://twitter.com/search?q=Badou+Jack) | N/A |
-| 11 | [Carl Froch](http://twitter.com/search?q=Carl+Froch) | N/A |
+| 10 | [Carl Froch](http://twitter.com/search?q=Carl+Froch) | N/A |
+| 11 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
 | 12 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 13 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
-| 14 | [Claudia](http://twitter.com/search?q=Claudia) | Claudia is a female given name of Latin origin, derived from the Roman clan name Claudius. It means "lame" or "disabled". |
-| 15 | [Molly Mae](http://twitter.com/search?q=Molly+Mae) | Molly Mae is a female given name, derived from the Hebrew name Mary. It is a combination of the names Mary and Mae, and can be used as a nickname for Mary or as an independent given name. The meaning of Molly Mae in English is "bitter" or "star of the sea". |
-| 16 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 17 | [Canelo](http://twitter.com/search?q=Canelo) | N/A |
-| 18 | [Mike Ross](http://twitter.com/search?q=Mike+Ross) | N/A |
-| 19 | [Radio Rahim](http://twitter.com/search?q=Radio+Rahim) | N/A |
-| 20 | [Casey](http://twitter.com/search?q=Casey) | Casey is a unisex name of Irish origin, derived from the Gaelic Cathasaigh, meaning “brave” or “vigilant.” It is also a popular surname in the United States. |
-| 21 | [Piers](http://twitter.com/search?q=Piers) | Piers is a type of structure built out into a body of water, such as a river or ocean, to provide access for boats and other vessels. It can also refer to a landing stage or wharf. The word comes from the Old French "piere," meaning "pillar." |
-| 22 | [Split](http://twitter.com/search?q=Split) | N/A |
-| 23 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 24 | [Makabu](http://twitter.com/search?q=Makabu) | N/A |
-| 25 | [Draw](http://twitter.com/search?q=Draw) | N/A |
-| 26 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
-| 27 | [Deji](http://twitter.com/search?q=Deji) | N/A |
-| 28 | [Rematch](http://twitter.com/search?q=Rematch) | N/A |
-| 29 | [Cam Norrie](http://twitter.com/search?q=Cam+Norrie) | N/A |
-| 30 | [Rosie](http://twitter.com/search?q=Rosie) | N/A |
-| 31 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 32 | [Morse](http://twitter.com/search?q=Morse) | N/A |
-| 33 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
-| 34 | [Trixie](http://twitter.com/search?q=Trixie) | N/A |
-| 35 | [Morty](http://twitter.com/search?q=Morty) | Morty is a nickname for the given name Mortimer, which is of English origin and means "dead sea". It can also be used as a diminutive form of the name Mortimer. |
-| 36 | [Embarrassing](http://twitter.com/search?q=Embarrassing) | N/A |
-| 37 | [Ekiti](http://twitter.com/search?q=Ekiti) | N/A |
-| 38 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
-| 39 | [Mickey Mouse](http://twitter.com/search?q=Mickey+Mouse) | N/A |
-| 40 | [Wilder](http://twitter.com/search?q=Wilder) | N/A |
-| 41 | [Alan Shearer](http://twitter.com/search?q=Alan+Shearer) | N/A |
-| 42 | [#Aurora](http://twitter.com/search?q=%23Aurora) | N/A |
-| 43 | [#CallTheMidwife](http://twitter.com/search?q=%23CallTheMidwife) | N/A |
-| 44 | [#Boxing](http://twitter.com/search?q=%23Boxing) | N/A |
-| 45 | [#loveislandaftersun](http://twitter.com/search?q=%23loveislandaftersun) | N/A |
-| 46 | [#Endeavour](http://twitter.com/search?q=%23Endeavour) | N/A |
-| 47 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
-| 48 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
+| 13 | [Claudia](http://twitter.com/search?q=Claudia) | Claudia is a female given name of Latin origin, derived from the Roman clan name Claudius. It means "lame" or "disabled". |
+| 14 | [Molly Mae](http://twitter.com/search?q=Molly+Mae) | Molly Mae is a female given name, derived from the Hebrew name Mary. It is a combination of the names Mary and Mae, and can be used as a nickname for Mary or as an independent given name. The meaning of Molly Mae in English is "bitter" or "star of the sea". |
+| 15 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 16 | [Canelo](http://twitter.com/search?q=Canelo) | N/A |
+| 17 | [Piers](http://twitter.com/search?q=Piers) | Piers is a type of structure built out into a body of water, such as a river or ocean, to provide access for boats and other vessels. It can also refer to a landing stage or wharf. The word comes from the Old French "piere," meaning "pillar." |
+| 18 | [Split](http://twitter.com/search?q=Split) | N/A |
+| 19 | [Casey](http://twitter.com/search?q=Casey) | Casey is a unisex name of Irish origin, derived from the Gaelic Cathasaigh, meaning “brave” or “vigilant.” It is also a popular surname in the United States. |
+| 20 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 21 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
+| 22 | [Deji](http://twitter.com/search?q=Deji) | N/A |
+| 23 | [Draw](http://twitter.com/search?q=Draw) | N/A |
+| 24 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 25 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
+| 26 | [Trixie](http://twitter.com/search?q=Trixie) | N/A |
+| 27 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
+| 28 | [Morse](http://twitter.com/search?q=Morse) | N/A |
+| 29 | [Ekiti](http://twitter.com/search?q=Ekiti) | N/A |
+| 30 | [Morty](http://twitter.com/search?q=Morty) | Morty is a nickname for the given name Mortimer, which is of English origin and means "dead sea". It can also be used as a diminutive form of the name Mortimer. |
+| 31 | [Rosie](http://twitter.com/search?q=Rosie) | N/A |
+| 32 | [Embarrassing](http://twitter.com/search?q=Embarrassing) | N/A |
+| 33 | [Alan Shearer](http://twitter.com/search?q=Alan+Shearer) | N/A |
+| 34 | [#CallTheMidwife](http://twitter.com/search?q=%23CallTheMidwife) | N/A |
+| 35 | [#Boxing](http://twitter.com/search?q=%23Boxing) | N/A |
+| 36 | [#Endeavour](http://twitter.com/search?q=%23Endeavour) | N/A |
+| 37 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
+| 38 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
+| 39 | [#dancingonice](http://twitter.com/search?q=%23dancingonice) | N/A |
+| 40 | [#ElectionResult](http://twitter.com/search?q=%23ElectionResult) | N/A |
+| 41 | [#PotteryThrowdown](http://twitter.com/search?q=%23PotteryThrowdown) | N/A |
 
 
 

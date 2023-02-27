@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-02-27 02:41:15 UTC`
+📆 Last Updated: `2023-02-27 03:21:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 2 | [#TLOU](http://twitter.com/search?q=%23TLOU) | #TLOU is an acronym for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is a post-apocalyptic action-adventure survival horror game set in the United States. The game follows the story of Joel and Ellie as they traverse a post-apocalyptic world filled with hostile humans and cannibalistic creatures known as the Infected. |
-| 3 | [Miller](http://twitter.com/search?q=Miller) | N/A |
-| 4 | [Trocheck](http://twitter.com/search?q=Trocheck) | N/A |
+| 2 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
+| 3 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 4 | [Doughty](http://twitter.com/search?q=Doughty) | N/A |
 | 5 | [San Jose](http://twitter.com/search?q=San+Jose) | N/A |
-| 6 | [Schneider](http://twitter.com/search?q=Schneider) | N/A |
-| 7 | [Carpenter](http://twitter.com/search?q=Carpenter) | N/A |
-| 8 | [Mercer](http://twitter.com/search?q=Mercer) | N/A |
-| 9 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 10 | [Trae Young](http://twitter.com/search?q=Trae+Young) | Trae Young is the name of an American professional basketball player who currently plays for the Atlanta Hawks of the National Basketball Association (NBA). He was selected fifth overall in the 2018 NBA Draft. The name Trae is derived from the word "trailblazer," which means someone who is a pioneer or innovator in their field. |
-| 11 | [YouTuber](http://twitter.com/search?q=YouTuber) | N/A |
-| 12 | [#Boxing](http://twitter.com/search?q=%23Boxing) | N/A |
-| 13 | [Wayne](http://twitter.com/search?q=Wayne) | Wayne is a masculine given name in English, derived from an Old English surname meaning "wagon maker" or "wagon driver". It is also used as a surname. |
-| 14 | [Casey](http://twitter.com/search?q=Casey) | Casey is a unisex name of Irish origin, derived from the Gaelic Cathasaigh, meaning “brave” or “vigilant.” It is also a popular surname in the United States. |
+| 6 | [Andre Miller](http://twitter.com/search?q=Andre+Miller) | Andre Miller is a retired American professional basketball player. He played in the National Basketball Association (NBA) for 17 seasons, from 1999 to 2016. He was known for his passing ability and his ability to control the tempo of the game. |
+| 7 | [Penn State](http://twitter.com/search?q=Penn+State) | Penn State is a public research university with 24 campuses across Pennsylvania. It is the largest university in the state and one of the largest universities in the United States. The school's motto is "Making Lives Better Through Education, Research, and Service." |
+| 8 | [Schneider](http://twitter.com/search?q=Schneider) | N/A |
+| 9 | [Carpenter](http://twitter.com/search?q=Carpenter) | N/A |
+| 10 | [Mercer](http://twitter.com/search?q=Mercer) | N/A |
+| 11 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
+| 12 | [YouTuber](http://twitter.com/search?q=YouTuber) | N/A |
+| 13 | [Casey](http://twitter.com/search?q=Casey) | Casey is a unisex name of Irish origin, derived from the Gaelic Cathasaigh, meaning “brave” or “vigilant.” It is also a popular surname in the United States. |
+| 14 | [Wayne](http://twitter.com/search?q=Wayne) | Wayne is a masculine given name in English, derived from an Old English surname meaning "wagon maker" or "wagon driver". It is also used as a surname. |
 | 15 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
-| 16 | [#PokemonGO](http://twitter.com/search?q=%23PokemonGO) | N/A |
-| 17 | [#RHOP](http://twitter.com/search?q=%23RHOP) | #RHOP stands for The Real Housewives of Potomac, which is a reality television series that airs on the Bravo network. It follows the lives of six women living in Potomac, Maryland, as they navigate their personal and professional lives. |
-| 18 | [#SAGAwards](http://twitter.com/search?q=%23SAGAwards) | N/A |
-| 19 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
-| 20 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
-| 21 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 22 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
-| 23 | [Naz Reid](http://twitter.com/search?q=Naz+Reid) | Naz Reid is a professional basketball player who currently plays for the Minnesota Timberwolves of the National Basketball Association (NBA). His name is a combination of his first name, Naz, and his middle name, Reid. The name Naz Reid is derived from his full name, Nazareth Reid. |
-| 24 | [Sally Field](http://twitter.com/search?q=Sally+Field) | N/A |
-| 25 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
-| 26 | [Bron](http://twitter.com/search?q=Bron) | Bron is a Dutch name that is derived from the Old Germanic name Brunhild, which means "armored warrior." In English, Bron can be translated to mean "armored warrior" or "brave one." |
-| 27 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
-| 28 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
-| 29 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 30 | [Kyle Busch](http://twitter.com/search?q=Kyle+Busch) | N/A |
-| 31 | [Jennifer Coolidge](http://twitter.com/search?q=Jennifer+Coolidge) | Jennifer Coolidge is an American actress and comedian. She is best known for her roles in the films Legally Blonde, American Pie, and Best in Show. She has also appeared in television shows such as Friends, Seinfeld, and 2 Broke Girls. |
-| 32 | [Candiace](http://twitter.com/search?q=Candiace) | Candiace is a female given name of Latin origin, derived from the word "candidus" meaning "bright" or "shining". |
-| 33 | [Andrew Garfield](http://twitter.com/search?q=Andrew+Garfield) | Andrew Garfield is an English actor. He is best known for his roles in films such as The Social Network, The Amazing Spider-Man, and Hacksaw Ridge. |
-| 34 | [Vanderbilt](http://twitter.com/search?q=Vanderbilt) | N/A |
-| 35 | [Meier](http://twitter.com/search?q=Meier) | N/A |
-| 36 | [Jessica Chastain](http://twitter.com/search?q=Jessica+Chastain) | Jessica Chastain is an American actress and producer. She is known for her roles in films such as The Help, Zero Dark Thirty, Interstellar, and Molly's Game. Her name is derived from the Latin word "castus," which means pure or chaste. |
-| 37 | [Holtz](http://twitter.com/search?q=Holtz) | N/A |
-| 38 | [TAKE ON ME](http://twitter.com/search?q=TAKE+ON+ME) | N/A |
-| 39 | [Fauci](http://twitter.com/search?q=Fauci) | N/A |
-| 40 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
-| 41 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
-| 42 | [Vando](http://twitter.com/search?q=Vando) | N/A |
-| 43 | [Jacqueline](http://twitter.com/search?q=Jacqueline) | Jacqueline is a French feminine given name. It is derived from the Hebrew name Ya'aqov, meaning "may God protect". In English, it is usually translated as "supplanter" or "one who supplants". |
-| 44 | [Nemec](http://twitter.com/search?q=Nemec) | N/A |
-| 45 | [Devils](http://twitter.com/search?q=Devils) | N/A |
-| 46 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
-| 47 | [Penn State](http://twitter.com/search?q=Penn+State) | Penn State is a public research university with 24 campuses across Pennsylvania. It is the largest university in the state and one of the largest universities in the United States. The school's motto is "Making Lives Better Through Education, Research, and Service." |
-| 48 | [Jenna Ortega](http://twitter.com/search?q=Jenna+Ortega) | N/A |
-| 49 | [Stephanie Hsu](http://twitter.com/search?q=Stephanie+Hsu) | Stephanie Hsu is a Taiwanese-American actress and singer. She is best known for her roles in the Broadway musicals Be More Chill and SpongeBob SquarePants: The Musical. Her name means "graceful lily" in Chinese. |
-| 50 | [Morty](http://twitter.com/search?q=Morty) | Morty is a nickname for the given name Mortimer, which is of English origin and means "dead sea". It can also be used as a diminutive form of the name Mortimer. |
+| 16 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 17 | [#SAGAwards](http://twitter.com/search?q=%23SAGAwards) | N/A |
+| 18 | [#RHOP](http://twitter.com/search?q=%23RHOP) | #RHOP stands for The Real Housewives of Potomac, which is a reality television series that airs on the Bravo network. It follows the lives of six women living in Potomac, Maryland, as they navigate their personal and professional lives. |
+| 19 | [#TLOU](http://twitter.com/search?q=%23TLOU) | #TLOU is an acronym for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is a post-apocalyptic action-adventure survival horror game set in the United States. The game follows the story of Joel and Ellie as they traverse a post-apocalyptic world filled with hostile humans and cannibalistic creatures known as the Infected. |
+| 20 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 21 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
+| 22 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 23 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
+| 24 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 25 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
+| 26 | [James Hong](http://twitter.com/search?q=James+Hong) | N/A |
+| 27 | [Naz Reid](http://twitter.com/search?q=Naz+Reid) | Naz Reid is a professional basketball player who currently plays for the Minnesota Timberwolves of the National Basketball Association (NBA). His name is a combination of his first name, Naz, and his middle name, Reid. The name Naz Reid is derived from his full name, Nazareth Reid. |
+| 28 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
+| 29 | [#AmericanIdol](http://twitter.com/search?q=%23AmericanIdol) | N/A |
+| 30 | [Sally Field](http://twitter.com/search?q=Sally+Field) | N/A |
+| 31 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
+| 32 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
+| 33 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
+| 34 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
+| 35 | [Left Behind](http://twitter.com/search?q=Left+Behind) | N/A |
+| 36 | [Jennifer Coolidge](http://twitter.com/search?q=Jennifer+Coolidge) | Jennifer Coolidge is an American actress and comedian. She is best known for her roles in the films Legally Blonde, American Pie, and Best in Show. She has also appeared in television shows such as Friends, Seinfeld, and 2 Broke Girls. |
+| 37 | [Donte](http://twitter.com/search?q=Donte) | Donte is a given name of Italian origin, derived from the Latin name "Donatus". It is a variant of the name "Donato" and can be translated to mean "given" or "gift". |
+| 38 | [Austin Rivers](http://twitter.com/search?q=Austin+Rivers) | Austin Rivers is an American professional basketball player who currently plays for the Houston Rockets of the National Basketball Association (NBA). His name is derived from his father, Doc Rivers, who is also a professional basketball coach. The name Austin Rivers means "from the river of Austin," referring to the city of Austin, Texas. |
+| 39 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
+| 40 | [Candiace](http://twitter.com/search?q=Candiace) | Candiace is a female given name of Latin origin, derived from the word "candidus" meaning "bright" or "shining". |
+| 41 | [Damian Lillard](http://twitter.com/search?q=Damian+Lillard) | Damian Lillard is an American professional basketball player who currently plays for the Portland Trail Blazers of the National Basketball Association (NBA). He is a six-time NBA All-Star and was named the NBA Rookie of the Year in 2013. |
+| 42 | [Storm Reid](http://twitter.com/search?q=Storm+Reid) | N/A |
+| 43 | [Kyle Busch](http://twitter.com/search?q=Kyle+Busch) | N/A |
+| 44 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 45 | [Timberwolves](http://twitter.com/search?q=Timberwolves) | Timberwolves is a nickname for the Minnesota Timberwolves, a professional basketball team based in Minneapolis, Minnesota. The name was chosen to reflect the state's rich history of logging and timber production. |
+| 46 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
+| 47 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
+| 48 | [Women Are Talking](http://twitter.com/search?q=Women+Are+Talking) | N/A |
+| 49 | [Andrew Garfield](http://twitter.com/search?q=Andrew+Garfield) | Andrew Garfield is an English actor. He is best known for his roles in films such as The Social Network, The Amazing Spider-Man, and Hacksaw Ridge. |
+| 50 | [Anthony Lamb](http://twitter.com/search?q=Anthony+Lamb) | Anthony Lamb is a phrase used to describe someone who is indecisive or easily swayed. It comes from the story of Anthony and Cleopatra, in which Anthony was unable to make up his mind between his love for Cleopatra and his loyalty to Rome. |
 
 
 
