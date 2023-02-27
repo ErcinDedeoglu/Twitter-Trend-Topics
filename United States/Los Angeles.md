@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Los Angeles
 
-📆 Last Updated: `2023-02-27 21:16:32 UTC`
+📆 Last Updated: `2023-02-27 22:16:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
-| 2 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
-| 3 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
-| 4 | [Fauci](http://twitter.com/search?q=Fauci) | N/A |
+| 1 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
+| 2 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
+| 3 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
+| 4 | [#mondaythoughts](http://twitter.com/search?q=%23mondaythoughts) | #MondayThoughts is a hashtag used on social media to share thoughts, ideas, and reflections on the start of the week. It is often used to encourage others to have a positive outlook on the week ahead. |
 | 5 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
-| 6 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
-| 7 | [Harvard](http://twitter.com/search?q=Harvard) | N/A |
-| 8 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
-| 9 | [Racism](http://twitter.com/search?q=Racism) | N/A |
-| 10 | [#BETCrypto](http://twitter.com/search?q=%23BETCrypto) | N/A |
-| 11 | [Carson Wentz](http://twitter.com/search?q=Carson+Wentz) | Carson Wentz is an American football quarterback for the Philadelphia Eagles of the National Football League (NFL). He was drafted by the Eagles with the second overall pick in the 2016 NFL Draft. He played college football at North Dakota State University, where he won five NCAA FCS National Championships. |
-| 12 | [kevin hart](http://twitter.com/search?q=kevin+hart) | N/A |
-| 13 | [#GOGimmighoul](http://twitter.com/search?q=%23GOGimmighoul) | N/A |
-| 14 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
-| 15 | [John Marvin](http://twitter.com/search?q=John+Marvin) | N/A |
-| 16 | [#DeadSpaceMarkerMerchSweeps](http://twitter.com/search?q=%23DeadSpaceMarkerMerchSweeps) | N/A |
-| 17 | [Walking Wake](http://twitter.com/search?q=Walking+Wake) | N/A |
-| 18 | [Wesson](http://twitter.com/search?q=Wesson) | N/A |
-| 19 | [DA SLEEZE](http://twitter.com/search?q=DA+SLEEZE) | N/A |
-| 20 | [Suicune](http://twitter.com/search?q=Suicune) | N/A |
-| 21 | [HOIL](http://twitter.com/search?q=HOIL) | N/A |
-| 22 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
-| 23 | [Beyond the Summit](http://twitter.com/search?q=Beyond+the+Summit) | N/A |
-| 24 | [Maino](http://twitter.com/search?q=Maino) | N/A |
-| 25 | [Jim Acosta](http://twitter.com/search?q=Jim+Acosta) | N/A |
-| 26 | [Fnatic](http://twitter.com/search?q=Fnatic) | N/A |
-| 27 | [Reedy Creek](http://twitter.com/search?q=Reedy+Creek) | N/A |
-| 28 | [John Kirby](http://twitter.com/search?q=John+Kirby) | N/A |
-| 29 | [Evan White](http://twitter.com/search?q=Evan+White) | N/A |
-| 30 | [Iron Leaves](http://twitter.com/search?q=Iron+Leaves) | N/A |
-| 31 | [Buckhead](http://twitter.com/search?q=Buckhead) | N/A |
-| 32 | [Scaloni](http://twitter.com/search?q=Scaloni) | N/A |
-| 33 | [McCabe](http://twitter.com/search?q=McCabe) | N/A |
-| 34 | [Yellen](http://twitter.com/search?q=Yellen) | N/A |
-| 35 | [Player of the Week](http://twitter.com/search?q=Player+of+the+Week) | N/A |
-| 36 | [Emilia Clarke](http://twitter.com/search?q=Emilia+Clarke) | N/A |
-| 37 | [Tink Hence](http://twitter.com/search?q=Tink+Hence) | N/A |
-| 38 | [Bobby McCain](http://twitter.com/search?q=Bobby+McCain) | N/A |
-| 39 | [Steven Seagal](http://twitter.com/search?q=Steven+Seagal) | N/A |
-| 40 | [Bryan Cranston](http://twitter.com/search?q=Bryan+Cranston) | N/A |
-| 41 | [Extreme MAGA Republicans](http://twitter.com/search?q=Extreme+MAGA+Republicans) | N/A |
-| 42 | [David Hogg](http://twitter.com/search?q=David+Hogg) | N/A |
-| 43 | [Matt Mercer](http://twitter.com/search?q=Matt+Mercer) | N/A |
-| 44 | [Bryce Young](http://twitter.com/search?q=Bryce+Young) | Bryce Young is a name of a person. It is derived from the Old English words "bryce" meaning "proud" and "young" meaning "youthful". The name can be used for both males and females. |
-| 45 | [Dominican Independence Day](http://twitter.com/search?q=Dominican+Independence+Day) | N/A |
-| 46 | [Sedition Panda](http://twitter.com/search?q=Sedition+Panda) | N/A |
-| 47 | [Kodachrome](http://twitter.com/search?q=Kodachrome) | N/A |
-| 48 | [McShay](http://twitter.com/search?q=McShay) | N/A |
-| 49 | [Jarren Duran](http://twitter.com/search?q=Jarren+Duran) | N/A |
-| 50 | [Boosie](http://twitter.com/search?q=Boosie) | N/A |
+| 6 | [#BETCrypto](http://twitter.com/search?q=%23BETCrypto) | N/A |
+| 7 | [kevin hart](http://twitter.com/search?q=kevin+hart) | N/A |
+| 8 | [Carson Wentz](http://twitter.com/search?q=Carson+Wentz) | Carson Wentz is an American football quarterback for the Philadelphia Eagles of the National Football League (NFL). He was drafted by the Eagles with the second overall pick in the 2016 NFL Draft. He played college football at North Dakota State University, where he won five NCAA FCS National Championships. |
+| 9 | [Gavin Lux](http://twitter.com/search?q=Gavin+Lux) | N/A |
+| 10 | [John Marvin](http://twitter.com/search?q=John+Marvin) | N/A |
+| 11 | [#GOGimmighoul](http://twitter.com/search?q=%23GOGimmighoul) | N/A |
+| 12 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
+| 13 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 14 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 15 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
+| 16 | [Roman Quinn](http://twitter.com/search?q=Roman+Quinn) | N/A |
+| 17 | [Wesson](http://twitter.com/search?q=Wesson) | N/A |
+| 18 | [DA SLEEZE](http://twitter.com/search?q=DA+SLEEZE) | N/A |
+| 19 | [Jim Acosta](http://twitter.com/search?q=Jim+Acosta) | N/A |
+| 20 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 21 | [Walking Wake](http://twitter.com/search?q=Walking+Wake) | N/A |
+| 22 | [HOIL](http://twitter.com/search?q=HOIL) | N/A |
+| 23 | [Buckhead](http://twitter.com/search?q=Buckhead) | N/A |
+| 24 | [Suicune](http://twitter.com/search?q=Suicune) | N/A |
+| 25 | [Maino](http://twitter.com/search?q=Maino) | N/A |
+| 26 | [Beyond the Summit](http://twitter.com/search?q=Beyond+the+Summit) | N/A |
+| 27 | [Iron Leaves](http://twitter.com/search?q=Iron+Leaves) | N/A |
+| 28 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
+| 29 | [Reedy Creek](http://twitter.com/search?q=Reedy+Creek) | N/A |
+| 30 | [Fnatic](http://twitter.com/search?q=Fnatic) | N/A |
+| 31 | [Emilia Clarke](http://twitter.com/search?q=Emilia+Clarke) | N/A |
+| 32 | [Boosie](http://twitter.com/search?q=Boosie) | N/A |
+| 33 | [Scaloni](http://twitter.com/search?q=Scaloni) | N/A |
+| 34 | [Disney World](http://twitter.com/search?q=Disney+World) | N/A |
+| 35 | [Evan White](http://twitter.com/search?q=Evan+White) | N/A |
+| 36 | [Seagal](http://twitter.com/search?q=Seagal) | N/A |
+| 37 | [John Kirby](http://twitter.com/search?q=John+Kirby) | N/A |
+| 38 | [Jake Burger](http://twitter.com/search?q=Jake+Burger) | N/A |
+| 39 | [Don't Say Gay](http://twitter.com/search?q=Don%27t+Say+Gay) | N/A |
+| 40 | [Janet Yellen](http://twitter.com/search?q=Janet+Yellen) | N/A |
+| 41 | [Sedition Panda](http://twitter.com/search?q=Sedition+Panda) | N/A |
+| 42 | [Foles](http://twitter.com/search?q=Foles) | Foles is a surname of English origin. It is derived from the Old English word "fool," which means "a foolish person." The name is most commonly associated with American football quarterback Nick Foles, who currently plays for the Chicago Bears. |
+| 43 | [Bobby McCain](http://twitter.com/search?q=Bobby+McCain) | N/A |
+| 44 | [Extreme MAGA Republicans](http://twitter.com/search?q=Extreme+MAGA+Republicans) | N/A |
+| 45 | [Bryan Cranston](http://twitter.com/search?q=Bryan+Cranston) | N/A |
+| 46 | [David Hogg](http://twitter.com/search?q=David+Hogg) | N/A |
+| 47 | [Ronny Mauricio](http://twitter.com/search?q=Ronny+Mauricio) | N/A |
+| 48 | [Dominican Independence Day](http://twitter.com/search?q=Dominican+Independence+Day) | N/A |
+| 49 | [Player of the Week](http://twitter.com/search?q=Player+of+the+Week) | N/A |
+| 50 | [McCabe](http://twitter.com/search?q=McCabe) | N/A |
 
 
 

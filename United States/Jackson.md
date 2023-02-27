@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jackson
 
-📆 Last Updated: `2023-02-27 21:16:31 UTC`
+📆 Last Updated: `2023-02-27 22:16:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,51 +16,51 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#BETCrypto](http://twitter.com/search?q=%23BETCrypto) | N/A |
-| 2 | [Carson Wentz](http://twitter.com/search?q=Carson+Wentz) | Carson Wentz is an American football quarterback for the Philadelphia Eagles of the National Football League (NFL). He was drafted by the Eagles with the second overall pick in the 2016 NFL Draft. He played college football at North Dakota State University, where he won five NCAA FCS National Championships. |
-| 3 | [kevin hart](http://twitter.com/search?q=kevin+hart) | N/A |
-| 4 | [#GOGimmighoul](http://twitter.com/search?q=%23GOGimmighoul) | N/A |
-| 5 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
-| 6 | [John Marvin](http://twitter.com/search?q=John+Marvin) | N/A |
-| 7 | [Walking Wake](http://twitter.com/search?q=Walking+Wake) | N/A |
-| 8 | [Wesson](http://twitter.com/search?q=Wesson) | N/A |
-| 9 | [DA SLEEZE](http://twitter.com/search?q=DA+SLEEZE) | N/A |
-| 10 | [Suicune](http://twitter.com/search?q=Suicune) | N/A |
-| 11 | [HOIL](http://twitter.com/search?q=HOIL) | N/A |
-| 12 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
-| 13 | [Maino](http://twitter.com/search?q=Maino) | N/A |
-| 14 | [Beyond the Summit](http://twitter.com/search?q=Beyond+the+Summit) | N/A |
-| 15 | [Jim Acosta](http://twitter.com/search?q=Jim+Acosta) | N/A |
-| 16 | [Fnatic](http://twitter.com/search?q=Fnatic) | N/A |
-| 17 | [Reedy Creek](http://twitter.com/search?q=Reedy+Creek) | N/A |
-| 18 | [John Kirby](http://twitter.com/search?q=John+Kirby) | N/A |
-| 19 | [Evan White](http://twitter.com/search?q=Evan+White) | N/A |
-| 20 | [Iron Leaves](http://twitter.com/search?q=Iron+Leaves) | N/A |
-| 21 | [Buckhead](http://twitter.com/search?q=Buckhead) | N/A |
-| 22 | [Scaloni](http://twitter.com/search?q=Scaloni) | N/A |
-| 23 | [McCabe](http://twitter.com/search?q=McCabe) | N/A |
-| 24 | [Yellen](http://twitter.com/search?q=Yellen) | N/A |
-| 25 | [Player of the Week](http://twitter.com/search?q=Player+of+the+Week) | N/A |
+| 2 | [kevin hart](http://twitter.com/search?q=kevin+hart) | N/A |
+| 3 | [Carson Wentz](http://twitter.com/search?q=Carson+Wentz) | Carson Wentz is an American football quarterback for the Philadelphia Eagles of the National Football League (NFL). He was drafted by the Eagles with the second overall pick in the 2016 NFL Draft. He played college football at North Dakota State University, where he won five NCAA FCS National Championships. |
+| 4 | [Gavin Lux](http://twitter.com/search?q=Gavin+Lux) | N/A |
+| 5 | [John Marvin](http://twitter.com/search?q=John+Marvin) | N/A |
+| 6 | [#GOGimmighoul](http://twitter.com/search?q=%23GOGimmighoul) | N/A |
+| 7 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
+| 8 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 9 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 10 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
+| 11 | [Roman Quinn](http://twitter.com/search?q=Roman+Quinn) | N/A |
+| 12 | [Wesson](http://twitter.com/search?q=Wesson) | N/A |
+| 13 | [DA SLEEZE](http://twitter.com/search?q=DA+SLEEZE) | N/A |
+| 14 | [Jim Acosta](http://twitter.com/search?q=Jim+Acosta) | N/A |
+| 15 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 16 | [Walking Wake](http://twitter.com/search?q=Walking+Wake) | N/A |
+| 17 | [HOIL](http://twitter.com/search?q=HOIL) | N/A |
+| 18 | [Buckhead](http://twitter.com/search?q=Buckhead) | N/A |
+| 19 | [Suicune](http://twitter.com/search?q=Suicune) | N/A |
+| 20 | [Maino](http://twitter.com/search?q=Maino) | N/A |
+| 21 | [Beyond the Summit](http://twitter.com/search?q=Beyond+the+Summit) | N/A |
+| 22 | [Iron Leaves](http://twitter.com/search?q=Iron+Leaves) | N/A |
+| 23 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
+| 24 | [Reedy Creek](http://twitter.com/search?q=Reedy+Creek) | N/A |
+| 25 | [Fnatic](http://twitter.com/search?q=Fnatic) | N/A |
 | 26 | [Emilia Clarke](http://twitter.com/search?q=Emilia+Clarke) | N/A |
-| 27 | [Tink Hence](http://twitter.com/search?q=Tink+Hence) | N/A |
-| 28 | [Bobby McCain](http://twitter.com/search?q=Bobby+McCain) | N/A |
-| 29 | [Steven Seagal](http://twitter.com/search?q=Steven+Seagal) | N/A |
-| 30 | [Bryan Cranston](http://twitter.com/search?q=Bryan+Cranston) | N/A |
-| 31 | [Extreme MAGA Republicans](http://twitter.com/search?q=Extreme+MAGA+Republicans) | N/A |
-| 32 | [David Hogg](http://twitter.com/search?q=David+Hogg) | N/A |
-| 33 | [Matt Mercer](http://twitter.com/search?q=Matt+Mercer) | N/A |
-| 34 | [Bryce Young](http://twitter.com/search?q=Bryce+Young) | Bryce Young is a name of a person. It is derived from the Old English words "bryce" meaning "proud" and "young" meaning "youthful". The name can be used for both males and females. |
-| 35 | [Dominican Independence Day](http://twitter.com/search?q=Dominican+Independence+Day) | N/A |
+| 27 | [Boosie](http://twitter.com/search?q=Boosie) | N/A |
+| 28 | [Scaloni](http://twitter.com/search?q=Scaloni) | N/A |
+| 29 | [Disney World](http://twitter.com/search?q=Disney+World) | N/A |
+| 30 | [Evan White](http://twitter.com/search?q=Evan+White) | N/A |
+| 31 | [Seagal](http://twitter.com/search?q=Seagal) | N/A |
+| 32 | [John Kirby](http://twitter.com/search?q=John+Kirby) | N/A |
+| 33 | [Jake Burger](http://twitter.com/search?q=Jake+Burger) | N/A |
+| 34 | [Don't Say Gay](http://twitter.com/search?q=Don%27t+Say+Gay) | N/A |
+| 35 | [Janet Yellen](http://twitter.com/search?q=Janet+Yellen) | N/A |
 | 36 | [Sedition Panda](http://twitter.com/search?q=Sedition+Panda) | N/A |
-| 37 | [Kodachrome](http://twitter.com/search?q=Kodachrome) | N/A |
-| 38 | [McShay](http://twitter.com/search?q=McShay) | N/A |
-| 39 | [Jarren Duran](http://twitter.com/search?q=Jarren+Duran) | N/A |
-| 40 | [Virizion](http://twitter.com/search?q=Virizion) | N/A |
-| 41 | [Boosie](http://twitter.com/search?q=Boosie) | N/A |
+| 37 | [Foles](http://twitter.com/search?q=Foles) | Foles is a surname of English origin. It is derived from the Old English word "fool," which means "a foolish person." The name is most commonly associated with American football quarterback Nick Foles, who currently plays for the Chicago Bears. |
+| 38 | [Bobby McCain](http://twitter.com/search?q=Bobby+McCain) | N/A |
+| 39 | [Extreme MAGA Republicans](http://twitter.com/search?q=Extreme+MAGA+Republicans) | N/A |
+| 40 | [Bryan Cranston](http://twitter.com/search?q=Bryan+Cranston) | N/A |
+| 41 | [David Hogg](http://twitter.com/search?q=David+Hogg) | N/A |
 | 42 | [Ronny Mauricio](http://twitter.com/search?q=Ronny+Mauricio) | N/A |
-| 43 | [Starfire](http://twitter.com/search?q=Starfire) | N/A |
-| 44 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
-| 45 | [Sneed](http://twitter.com/search?q=Sneed) | Sneed is a slang term used to describe someone who is sneaky or untrustworthy. It can also be used to describe someone who is up to no good. |
-| 46 | [Joe Rudolph](http://twitter.com/search?q=Joe+Rudolph) | N/A |
+| 43 | [Dominican Independence Day](http://twitter.com/search?q=Dominican+Independence+Day) | N/A |
+| 44 | [Player of the Week](http://twitter.com/search?q=Player+of+the+Week) | N/A |
+| 45 | [McCabe](http://twitter.com/search?q=McCabe) | N/A |
+| 46 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
 
 
 

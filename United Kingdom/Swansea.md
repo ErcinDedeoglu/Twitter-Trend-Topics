@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Swansea
 
-📆 Last Updated: `2023-02-27 21:15:45 UTC`
+📆 Last Updated: `2023-02-27 22:15:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#UniversityChallenge](http://twitter.com/search?q=%23UniversityChallenge) | #UniversityChallenge is a British quiz show that has been running since 1962. It pits teams of two students from universities across the UK against each other in a series of general knowledge and academic questions. The aim of the game is to answer as many questions correctly as possible in order to win the competition. |
-| 2 | [#onlyconnect](http://twitter.com/search?q=%23onlyconnect) | #onlyconnect is a hashtag used to express the idea of connecting with others, either through social media or in real life. It is often used to encourage people to reach out and build relationships with those around them. |
-| 3 | [#Corrie](http://twitter.com/search?q=%23Corrie) | N/A |
-| 4 | [Sarina](http://twitter.com/search?q=Sarina) | Sarina is a feminine given name of Italian origin. It is derived from the Latin name Sarah, which means "princess". |
-| 5 | [Northern Ireland](http://twitter.com/search?q=Northern+Ireland) | N/A |
-| 6 | [Stormont](http://twitter.com/search?q=Stormont) | N/A |
-| 7 | [Sunak](http://twitter.com/search?q=Sunak) | N/A |
-| 8 | [Mary Earps](http://twitter.com/search?q=Mary+Earps) | N/A |
-| 9 | [Whitney](http://twitter.com/search?q=Whitney) | N/A |
-| 10 | [Swansea](http://twitter.com/search?q=Swansea) | N/A |
-| 11 | [Rotherham](http://twitter.com/search?q=Rotherham) | N/A |
-| 12 | [Steve Baker](http://twitter.com/search?q=Steve+Baker) | N/A |
-| 13 | [The DUP](http://twitter.com/search?q=The+DUP) | N/A |
-| 14 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
-| 15 | [Zack](http://twitter.com/search?q=Zack) | N/A |
-| 16 | [Nish](http://twitter.com/search?q=Nish) | N/A |
-| 17 | [Fnatic](http://twitter.com/search?q=Fnatic) | N/A |
-| 18 | [Frost](http://twitter.com/search?q=Frost) | N/A |
-| 19 | [Brighton Pride](http://twitter.com/search?q=Brighton+Pride) | N/A |
-| 20 | [Ian Paisley](http://twitter.com/search?q=Ian+Paisley) | N/A |
-| 21 | [The EU](http://twitter.com/search?q=The+EU) | N/A |
-| 22 | [Betty Boothroyd](http://twitter.com/search?q=Betty+Boothroyd) | N/A |
+| 1 | [Claudia](http://twitter.com/search?q=Claudia) | Claudia is a female given name of Latin origin, derived from the Roman clan name Claudius. It means "lame" or "disabled". |
+| 2 | [#Unforgotten](http://twitter.com/search?q=%23Unforgotten) | N/A |
+| 3 | [#UniversityChallenge](http://twitter.com/search?q=%23UniversityChallenge) | #UniversityChallenge is a British quiz show that has been running since 1962. It pits teams of two students from universities across the UK against each other in a series of general knowledge and academic questions. The aim of the game is to answer as many questions correctly as possible in order to win the competition. |
+| 4 | [#onlyconnect](http://twitter.com/search?q=%23onlyconnect) | #onlyconnect is a hashtag used to express the idea of connecting with others, either through social media or in real life. It is often used to encourage people to reach out and build relationships with those around them. |
+| 5 | [#rufc](http://twitter.com/search?q=%23rufc) | N/A |
+| 6 | [Swansea](http://twitter.com/search?q=Swansea) | N/A |
+| 7 | [Mary Earps](http://twitter.com/search?q=Mary+Earps) | N/A |
+| 8 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 9 | [Sarina](http://twitter.com/search?q=Sarina) | Sarina is a feminine given name of Italian origin. It is derived from the Latin name Sarah, which means "princess". |
+| 10 | [Alexia](http://twitter.com/search?q=Alexia) | Alexia is a neurological disorder that affects a person's ability to read. It is also known as word blindness or dyslexia. People with Alexia have difficulty understanding written words, even though they may be able to speak and write normally. |
+| 11 | [Keenan](http://twitter.com/search?q=Keenan) | N/A |
+| 12 | [Stormont](http://twitter.com/search?q=Stormont) | N/A |
+| 13 | [Beth Mead](http://twitter.com/search?q=Beth+Mead) | Beth Mead is a professional English footballer who plays for Arsenal Women and the England national team. She is known for her speed, agility, and ability to score goals from long range. The name Beth Mead is derived from the Old English word "mead" which means meadow or pasture. |
+| 14 | [Sunak](http://twitter.com/search?q=Sunak) | N/A |
+| 15 | [Rotherham](http://twitter.com/search?q=Rotherham) | N/A |
+| 16 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 17 | [Steve Baker](http://twitter.com/search?q=Steve+Baker) | N/A |
+| 18 | [Whitney](http://twitter.com/search?q=Whitney) | N/A |
+| 19 | [The DUP](http://twitter.com/search?q=The+DUP) | N/A |
+| 20 | [Piroe](http://twitter.com/search?q=Piroe) | N/A |
+| 21 | [Garth Crooks](http://twitter.com/search?q=Garth+Crooks) | N/A |
+| 22 | [Lionel Messi](http://twitter.com/search?q=Lionel+Messi) | N/A |
 | 23 | [Obasanjo](http://twitter.com/search?q=Obasanjo) | Obasanjo is a Yoruba name meaning "the king has returned". It is the surname of Olusegun Obasanjo, a former Nigerian military leader and two-term president. |
-| 24 | [Black Eyed Peas](http://twitter.com/search?q=Black+Eyed+Peas) | N/A |
-| 25 | [The ECJ](http://twitter.com/search?q=The+ECJ) | N/A |
-| 26 | [Noel](http://twitter.com/search?q=Noel) | Noel is a French word meaning "Christmas". It is often used as a greeting during the Christmas season. |
-| 27 | [Irish Sea](http://twitter.com/search?q=Irish+Sea) | N/A |
-| 28 | [Fiorentina](http://twitter.com/search?q=Fiorentina) | N/A |
-| 29 | [Theresa May](http://twitter.com/search?q=Theresa+May) | N/A |
-| 30 | [King](http://twitter.com/search?q=King) | In English, "king" is a title given to a male monarch, usually the ruler of a kingdom or empire. It is also used as a term of endearment for someone who is seen as having great power or influence. |
-| 31 | [Study](http://twitter.com/search?q=Study) | N/A |
-| 32 | [Queen Elizabeth II](http://twitter.com/search?q=Queen+Elizabeth+II) | N/A |
+| 24 | [Nish](http://twitter.com/search?q=Nish) | N/A |
+| 25 | [Fnatic](http://twitter.com/search?q=Fnatic) | N/A |
+| 26 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
+| 27 | [Cloudy](http://twitter.com/search?q=Cloudy) | N/A |
+| 28 | [Frost](http://twitter.com/search?q=Frost) | N/A |
+| 29 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
+| 30 | [Zack](http://twitter.com/search?q=Zack) | N/A |
+| 31 | [Manning](http://twitter.com/search?q=Manning) | N/A |
+| 32 | [Study](http://twitter.com/search?q=Study) | N/A |
 | 33 | [Widnes](http://twitter.com/search?q=Widnes) | N/A |
-| 34 | [Commons](http://twitter.com/search?q=Commons) | N/A |
-| 35 | [Edward VIII](http://twitter.com/search?q=Edward+VIII) | N/A |
-| 36 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
-| 37 | [Iron Leaves](http://twitter.com/search?q=Iron+Leaves) | N/A |
-| 38 | [Ursula](http://twitter.com/search?q=Ursula) | N/A |
-| 39 | [UK and EU](http://twitter.com/search?q=UK+and+EU) | N/A |
-| 40 | [Levein](http://twitter.com/search?q=Levein) | N/A |
-| 41 | [Sinn Fein](http://twitter.com/search?q=Sinn+Fein) | N/A |
-| 42 | [Horizon Europe](http://twitter.com/search?q=Horizon+Europe) | N/A |
-| 43 | [Jim Allister](http://twitter.com/search?q=Jim+Allister) | N/A |
-| 44 | [Single Market](http://twitter.com/search?q=Single+Market) | N/A |
-| 45 | [Assembly](http://twitter.com/search?q=Assembly) | N/A |
-| 46 | [Oven Ready](http://twitter.com/search?q=Oven+Ready) | N/A |
+| 34 | [Paisley](http://twitter.com/search?q=Paisley) | N/A |
+| 35 | [kevin hart](http://twitter.com/search?q=kevin+hart) | N/A |
+| 36 | [Betty Boothroyd](http://twitter.com/search?q=Betty+Boothroyd) | N/A |
+| 37 | [The EU](http://twitter.com/search?q=The+EU) | N/A |
+| 38 | [Black Eyed Peas](http://twitter.com/search?q=Black+Eyed+Peas) | N/A |
+| 39 | [Irish Sea](http://twitter.com/search?q=Irish+Sea) | N/A |
+| 40 | [Edward VIII](http://twitter.com/search?q=Edward+VIII) | N/A |
+| 41 | [Queen Elizabeth II](http://twitter.com/search?q=Queen+Elizabeth+II) | N/A |
+| 42 | [The ECJ](http://twitter.com/search?q=The+ECJ) | N/A |
+| 43 | [Walking Wake](http://twitter.com/search?q=Walking+Wake) | N/A |
+| 44 | [Noel](http://twitter.com/search?q=Noel) | Noel is a French word meaning "Christmas". It is often used as a greeting during the Christmas season. |
+| 45 | [World Book Day](http://twitter.com/search?q=World+Book+Day) | N/A |
+| 46 | [Iron Leaves](http://twitter.com/search?q=Iron+Leaves) | N/A |
+| 47 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
+| 48 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
+| 49 | [Brighton Pride](http://twitter.com/search?q=Brighton+Pride) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For London
 
-📆 Last Updated: `2023-02-27 21:15:45 UTC`
+📆 Last Updated: `2023-02-27 22:15:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#BrexitDisaster](http://twitter.com/search?q=%23BrexitDisaster) | N/A |
-| 2 | [#electionresults2023](http://twitter.com/search?q=%23electionresults2023) | N/A |
-| 3 | [#EnergyBills](http://twitter.com/search?q=%23EnergyBills) | N/A |
-| 4 | [#ToriesOut235](http://twitter.com/search?q=%23ToriesOut235) | N/A |
-| 5 | [Gazza](http://twitter.com/search?q=Gazza) | N/A |
-| 6 | [#WomensFACup](http://twitter.com/search?q=%23WomensFACup) | N/A |
-| 7 | [Good Friday Agreement](http://twitter.com/search?q=Good+Friday+Agreement) | N/A |
-| 8 | [Jamaica](http://twitter.com/search?q=Jamaica) | N/A |
-| 9 | [The Queen](http://twitter.com/search?q=The+Queen) | N/A |
-| 10 | [Unionists](http://twitter.com/search?q=Unionists) | N/A |
-| 11 | [The ERG](http://twitter.com/search?q=The+ERG) | N/A |
-| 12 | [Whitby](http://twitter.com/search?q=Whitby) | N/A |
-| 13 | [Sarina](http://twitter.com/search?q=Sarina) | Sarina is a feminine given name of Italian origin. It is derived from the Latin name Sarah, which means "princess". |
-| 14 | [Northern Ireland](http://twitter.com/search?q=Northern+Ireland) | N/A |
-| 15 | [Stormont](http://twitter.com/search?q=Stormont) | N/A |
-| 16 | [Sunak](http://twitter.com/search?q=Sunak) | N/A |
-| 17 | [Mary Earps](http://twitter.com/search?q=Mary+Earps) | N/A |
-| 18 | [Whitney](http://twitter.com/search?q=Whitney) | N/A |
-| 19 | [Swansea](http://twitter.com/search?q=Swansea) | N/A |
-| 20 | [Rotherham](http://twitter.com/search?q=Rotherham) | N/A |
-| 21 | [Steve Baker](http://twitter.com/search?q=Steve+Baker) | N/A |
-| 22 | [The DUP](http://twitter.com/search?q=The+DUP) | N/A |
-| 23 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
-| 24 | [Zack](http://twitter.com/search?q=Zack) | N/A |
-| 25 | [Nish](http://twitter.com/search?q=Nish) | N/A |
-| 26 | [Fnatic](http://twitter.com/search?q=Fnatic) | N/A |
-| 27 | [Frost](http://twitter.com/search?q=Frost) | N/A |
-| 28 | [Brighton Pride](http://twitter.com/search?q=Brighton+Pride) | N/A |
-| 29 | [Ian Paisley](http://twitter.com/search?q=Ian+Paisley) | N/A |
-| 30 | [The EU](http://twitter.com/search?q=The+EU) | N/A |
-| 31 | [Betty Boothroyd](http://twitter.com/search?q=Betty+Boothroyd) | N/A |
-| 32 | [Obasanjo](http://twitter.com/search?q=Obasanjo) | Obasanjo is a Yoruba name meaning "the king has returned". It is the surname of Olusegun Obasanjo, a former Nigerian military leader and two-term president. |
-| 33 | [Black Eyed Peas](http://twitter.com/search?q=Black+Eyed+Peas) | N/A |
-| 34 | [The ECJ](http://twitter.com/search?q=The+ECJ) | N/A |
-| 35 | [Noel](http://twitter.com/search?q=Noel) | Noel is a French word meaning "Christmas". It is often used as a greeting during the Christmas season. |
-| 36 | [Irish Sea](http://twitter.com/search?q=Irish+Sea) | N/A |
-| 37 | [Fiorentina](http://twitter.com/search?q=Fiorentina) | N/A |
-| 38 | [Theresa May](http://twitter.com/search?q=Theresa+May) | N/A |
-| 39 | [King](http://twitter.com/search?q=King) | In English, "king" is a title given to a male monarch, usually the ruler of a kingdom or empire. It is also used as a term of endearment for someone who is seen as having great power or influence. |
-| 40 | [Study](http://twitter.com/search?q=Study) | N/A |
-| 41 | [Queen Elizabeth II](http://twitter.com/search?q=Queen+Elizabeth+II) | N/A |
-| 42 | [Widnes](http://twitter.com/search?q=Widnes) | N/A |
-| 43 | [Commons](http://twitter.com/search?q=Commons) | N/A |
-| 44 | [Edward VIII](http://twitter.com/search?q=Edward+VIII) | N/A |
-| 45 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
-| 46 | [Iron Leaves](http://twitter.com/search?q=Iron+Leaves) | N/A |
-| 47 | [Ursula](http://twitter.com/search?q=Ursula) | N/A |
-| 48 | [UK and EU](http://twitter.com/search?q=UK+and+EU) | N/A |
-| 49 | [Levein](http://twitter.com/search?q=Levein) | N/A |
+| 1 | [Sanam](http://twitter.com/search?q=Sanam) | N/A |
+| 2 | [Cynthia](http://twitter.com/search?q=Cynthia) | N/A |
+| 3 | [Samie](http://twitter.com/search?q=Samie) | Samie is a given name of Arabic origin, meaning "elevated" or "lofty". |
+| 4 | [#PrimaryRocks](http://twitter.com/search?q=%23PrimaryRocks) | N/A |
+| 5 | [#GOGimmighoul](http://twitter.com/search?q=%23GOGimmighoul) | N/A |
+| 6 | [#BMKopparberg](http://twitter.com/search?q=%23BMKopparberg) | N/A |
+| 7 | [Brighton Pride](http://twitter.com/search?q=Brighton+Pride) | N/A |
+| 8 | [Cassie](http://twitter.com/search?q=Cassie) | N/A |
+| 9 | [Iceland](http://twitter.com/search?q=Iceland) | N/A |
+| 10 | [Sinn Fein](http://twitter.com/search?q=Sinn+Fein) | N/A |
+| 11 | [Speaker](http://twitter.com/search?q=Speaker) | Speaker is a person who speaks in public, usually to an audience. It can also refer to the device used to amplify sound, such as a loudspeaker. |
+| 12 | [Labour MPs](http://twitter.com/search?q=Labour+MPs) | N/A |
+| 13 | [The King](http://twitter.com/search?q=The+King) | N/A |
+| 14 | [Gazza](http://twitter.com/search?q=Gazza) | N/A |
+| 15 | [#NigerianElections2023](http://twitter.com/search?q=%23NigerianElections2023) | N/A |
+| 16 | [Mogg](http://twitter.com/search?q=Mogg) | N/A |
+| 17 | [Horizon](http://twitter.com/search?q=Horizon) | N/A |
+| 18 | [#ToriesOut235](http://twitter.com/search?q=%23ToriesOut235) | N/A |
+| 19 | [Jacob Rees](http://twitter.com/search?q=Jacob+Rees) | N/A |
+| 20 | [Single Market](http://twitter.com/search?q=Single+Market) | N/A |
+| 21 | [King Charles](http://twitter.com/search?q=King+Charles) | N/A |
+| 22 | [Good Friday Agreement](http://twitter.com/search?q=Good+Friday+Agreement) | N/A |
+| 23 | [Jamaica](http://twitter.com/search?q=Jamaica) | N/A |
+| 24 | [Claudia](http://twitter.com/search?q=Claudia) | Claudia is a female given name of Latin origin, derived from the Roman clan name Claudius. It means "lame" or "disabled". |
+| 25 | [Swansea](http://twitter.com/search?q=Swansea) | N/A |
+| 26 | [Mary Earps](http://twitter.com/search?q=Mary+Earps) | N/A |
+| 27 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 28 | [Sarina](http://twitter.com/search?q=Sarina) | Sarina is a feminine given name of Italian origin. It is derived from the Latin name Sarah, which means "princess". |
+| 29 | [Alexia](http://twitter.com/search?q=Alexia) | Alexia is a neurological disorder that affects a person's ability to read. It is also known as word blindness or dyslexia. People with Alexia have difficulty understanding written words, even though they may be able to speak and write normally. |
+| 30 | [Keenan](http://twitter.com/search?q=Keenan) | N/A |
+| 31 | [Sunak](http://twitter.com/search?q=Sunak) | N/A |
+| 32 | [Beth Mead](http://twitter.com/search?q=Beth+Mead) | Beth Mead is a professional English footballer who plays for Arsenal Women and the England national team. She is known for her speed, agility, and ability to score goals from long range. The name Beth Mead is derived from the Old English word "mead" which means meadow or pasture. |
+| 33 | [Stormont](http://twitter.com/search?q=Stormont) | N/A |
+| 34 | [Rotherham](http://twitter.com/search?q=Rotherham) | N/A |
+| 35 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 36 | [Steve Baker](http://twitter.com/search?q=Steve+Baker) | N/A |
+| 37 | [Whitney](http://twitter.com/search?q=Whitney) | N/A |
+| 38 | [The DUP](http://twitter.com/search?q=The+DUP) | N/A |
+| 39 | [Lionel Messi](http://twitter.com/search?q=Lionel+Messi) | N/A |
+| 40 | [Piroe](http://twitter.com/search?q=Piroe) | N/A |
+| 41 | [Garth Crooks](http://twitter.com/search?q=Garth+Crooks) | N/A |
+| 42 | [Obasanjo](http://twitter.com/search?q=Obasanjo) | Obasanjo is a Yoruba name meaning "the king has returned". It is the surname of Olusegun Obasanjo, a former Nigerian military leader and two-term president. |
+| 43 | [Nish](http://twitter.com/search?q=Nish) | N/A |
+| 44 | [Fnatic](http://twitter.com/search?q=Fnatic) | N/A |
+| 45 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
+| 46 | [Cloudy](http://twitter.com/search?q=Cloudy) | N/A |
+| 47 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
+| 48 | [Frost](http://twitter.com/search?q=Frost) | N/A |
+| 49 | [Zack](http://twitter.com/search?q=Zack) | N/A |
 
 
 

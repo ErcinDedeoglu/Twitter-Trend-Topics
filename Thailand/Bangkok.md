@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bangkok
 
-📆 Last Updated: `2023-02-27 21:16:14 UTC`
+📆 Last Updated: `2023-02-27 22:16:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -36,35 +36,35 @@ This is top 50 for [Thailand](</Thailand>)
 | 19 | [macolor runway](http://twitter.com/search?q=macolor+runway) | N/A |
 | 20 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
 | 21 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
-| 22 | [Taylor Swift](http://twitter.com/search?q=Taylor+Swift) | N/A |
-| 23 | [Official MV](http://twitter.com/search?q=Official+MV) | N/A |
-| 24 | [#PatrickXBalmain](http://twitter.com/search?q=%23PatrickXBalmain) | N/A |
-| 25 | [#KiehlsBrightestSkinExperience](http://twitter.com/search?q=%23KiehlsBrightestSkinExperience) | N/A |
-| 26 | [#SpoBam](http://twitter.com/search?q=%23SpoBam) | N/A |
-| 27 | [#PatrickFinkler](http://twitter.com/search?q=%23PatrickFinkler) | N/A |
+| 22 | [Official MV](http://twitter.com/search?q=Official+MV) | N/A |
+| 23 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 24 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 25 | [#PatrickXBalmain](http://twitter.com/search?q=%23PatrickXBalmain) | N/A |
+| 26 | [#KiehlsBrightestSkinExperience](http://twitter.com/search?q=%23KiehlsBrightestSkinExperience) | N/A |
+| 27 | [#SpoBam](http://twitter.com/search?q=%23SpoBam) | N/A |
 | 28 | [#KiehlsXBright](http://twitter.com/search?q=%23KiehlsXBright) | N/A |
-| 29 | [#Showmelove1DAYleft](http://twitter.com/search?q=%23Showmelove1DAYleft) | N/A |
-| 30 | [#MACJacksonWang](http://twitter.com/search?q=%23MACJacksonWang) | N/A |
-| 31 | [#ไลน์สติ๊กเกอร์YWPB](http://twitter.com/search?q=%23%e0%b9%84%e0%b8%a5%e0%b8%99%e0%b9%8c%e0%b8%aa%e0%b8%95%e0%b8%b4%e0%b9%8a%e0%b8%81%e0%b9%80%e0%b8%81%e0%b8%ad%e0%b8%a3%e0%b9%8cYWPB) | N/A |
+| 29 | [#PatrickFinkler](http://twitter.com/search?q=%23PatrickFinkler) | N/A |
+| 30 | [#Showmelove1DAYleft](http://twitter.com/search?q=%23Showmelove1DAYleft) | N/A |
+| 31 | [#ไลน์สติ๊กเกอร์ywpb](http://twitter.com/search?q=%23%e0%b9%84%e0%b8%a5%e0%b8%99%e0%b9%8c%e0%b8%aa%e0%b8%95%e0%b8%b4%e0%b9%8a%e0%b8%81%e0%b9%80%e0%b8%81%e0%b8%ad%e0%b8%a3%e0%b9%8cywpb) | N/A |
 | 32 | [#BB3isComing](http://twitter.com/search?q=%23BB3isComing) | N/A |
-| 33 | [#TheEndofKinnPorsche](http://twitter.com/search?q=%23TheEndofKinnPorsche) | N/A |
+| 33 | [#MACJacksonWang](http://twitter.com/search?q=%23MACJacksonWang) | N/A |
 | 34 | [#yinpromxceraveblemish](http://twitter.com/search?q=%23yinpromxceraveblemish) | N/A |
-| 35 | [#ใหม่ดาวิกา](http://twitter.com/search?q=%23%e0%b9%83%e0%b8%ab%e0%b8%a1%e0%b9%88%e0%b8%94%e0%b8%b2%e0%b8%a7%e0%b8%b4%e0%b8%81%e0%b8%b2) | N/A |
-| 36 | [#AlphaบุกMBKCenter](http://twitter.com/search?q=%23Alpha%e0%b8%9a%e0%b8%b8%e0%b8%81MBKCenter) | N/A |
-| 37 | [#ZeeNuNew안녕D4](http://twitter.com/search?q=%23ZeeNuNew%ec%95%88%eb%85%95D4) | N/A |
-| 38 | [#นิ่ม](http://twitter.com/search?q=%23%e0%b8%99%e0%b8%b4%e0%b9%88%e0%b8%a1) | N/A |
+| 35 | [#TheEndofKinnPorsche](http://twitter.com/search?q=%23TheEndofKinnPorsche) | N/A |
+| 36 | [#ใหม่ดาวิกา](http://twitter.com/search?q=%23%e0%b9%83%e0%b8%ab%e0%b8%a1%e0%b9%88%e0%b8%94%e0%b8%b2%e0%b8%a7%e0%b8%b4%e0%b8%81%e0%b8%b2) | N/A |
+| 37 | [#AlphaบุกMBKCenter](http://twitter.com/search?q=%23Alpha%e0%b8%9a%e0%b8%b8%e0%b8%81MBKCenter) | N/A |
+| 38 | [#ZeeNuNew안녕D4](http://twitter.com/search?q=%23ZeeNuNew%ec%95%88%eb%85%95D4) | N/A |
 | 39 | [#APOFLYTOPARIS](http://twitter.com/search?q=%23APOFLYTOPARIS) | N/A |
 | 40 | [#BB_Guess_the_Title](http://twitter.com/search?q=%23BB_Guess_the_Title) | N/A |
-| 41 | [#น้องต่อ](http://twitter.com/search?q=%23%e0%b8%99%e0%b9%89%e0%b8%ad%e0%b8%87%e0%b8%95%e0%b9%88%e0%b8%ad) | N/A |
-| 42 | [#IMAXLaserXWinnySatangMarkFord](http://twitter.com/search?q=%23IMAXLaserXWinnySatangMarkFord) | N/A |
+| 41 | [#นิ่ม](http://twitter.com/search?q=%23%e0%b8%99%e0%b8%b4%e0%b9%88%e0%b8%a1) | N/A |
+| 42 | [#น้องต่อ](http://twitter.com/search?q=%23%e0%b8%99%e0%b9%89%e0%b8%ad%e0%b8%87%e0%b8%95%e0%b9%88%e0%b8%ad) | N/A |
 | 43 | [#แน็กชาลี](http://twitter.com/search?q=%23%e0%b9%81%e0%b8%99%e0%b9%87%e0%b8%81%e0%b8%8a%e0%b8%b2%e0%b8%a5%e0%b8%b5) | N/A |
-| 44 | [#KPWTBKKWTF](http://twitter.com/search?q=%23KPWTBKKWTF) | N/A |
-| 45 | [#ดิสอิสมายแคท](http://twitter.com/search?q=%23%e0%b8%94%e0%b8%b4%e0%b8%aa%e0%b8%ad%e0%b8%b4%e0%b8%aa%e0%b8%a1%e0%b8%b2%e0%b8%a2%e0%b9%81%e0%b8%84%e0%b8%97) | N/A |
+| 44 | [#IMAXLaserXWinnySatangMarkFord](http://twitter.com/search?q=%23IMAXLaserXWinnySatangMarkFord) | N/A |
+| 45 | [#KPWTBKKWTF](http://twitter.com/search?q=%23KPWTBKKWTF) | N/A |
 | 46 | [#TheWarpEffectFinalEP](http://twitter.com/search?q=%23TheWarpEffectFinalEP) | N/A |
 | 47 | [#OurBelovedGemini1M](http://twitter.com/search?q=%23OurBelovedGemini1M) | N/A |
 | 48 | [#tiktokล่ม](http://twitter.com/search?q=%23tiktok%e0%b8%a5%e0%b9%88%e0%b8%a1) | N/A |
 | 49 | [#MarkTuan_CalvinKlein](http://twitter.com/search?q=%23MarkTuan_CalvinKlein) | N/A |
-| 50 | [#LINESTICKERSAWARDS2022](http://twitter.com/search?q=%23LINESTICKERSAWARDS2022) | N/A |
+| 50 | [#linestickersawards2022](http://twitter.com/search?q=%23linestickersawards2022) | N/A |
 
 
 

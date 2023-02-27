@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dallas-Ft. Worth
 
-📆 Last Updated: `2023-02-27 21:16:30 UTC`
+📆 Last Updated: `2023-02-27 22:16:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Titan](http://twitter.com/search?q=Titan) | Titan is a term used to refer to something that is very large or powerful. It can be used to describe a person, an organization, or an object. In Greek mythology, the Titans were a race of powerful gods who ruled the universe before the Olympian gods. |
-| 2 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
-| 3 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
-| 4 | [#BETCrypto](http://twitter.com/search?q=%23BETCrypto) | N/A |
-| 5 | [Carson Wentz](http://twitter.com/search?q=Carson+Wentz) | Carson Wentz is an American football quarterback for the Philadelphia Eagles of the National Football League (NFL). He was drafted by the Eagles with the second overall pick in the 2016 NFL Draft. He played college football at North Dakota State University, where he won five NCAA FCS National Championships. |
+| 1 | [Bill Gates](http://twitter.com/search?q=Bill+Gates) | N/A |
+| 2 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
+| 3 | [Titan](http://twitter.com/search?q=Titan) | Titan is a term used to refer to something that is very large or powerful. It can be used to describe a person, an organization, or an object. In Greek mythology, the Titans were a race of powerful gods who ruled the universe before the Olympian gods. |
+| 4 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
+| 5 | [#BETCrypto](http://twitter.com/search?q=%23BETCrypto) | N/A |
 | 6 | [kevin hart](http://twitter.com/search?q=kevin+hart) | N/A |
-| 7 | [#GOGimmighoul](http://twitter.com/search?q=%23GOGimmighoul) | N/A |
-| 8 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
+| 7 | [Carson Wentz](http://twitter.com/search?q=Carson+Wentz) | Carson Wentz is an American football quarterback for the Philadelphia Eagles of the National Football League (NFL). He was drafted by the Eagles with the second overall pick in the 2016 NFL Draft. He played college football at North Dakota State University, where he won five NCAA FCS National Championships. |
+| 8 | [Gavin Lux](http://twitter.com/search?q=Gavin+Lux) | N/A |
 | 9 | [John Marvin](http://twitter.com/search?q=John+Marvin) | N/A |
-| 10 | [#DeadSpaceMarkerMerchSweeps](http://twitter.com/search?q=%23DeadSpaceMarkerMerchSweeps) | N/A |
-| 11 | [#PMSLive](http://twitter.com/search?q=%23PMSLive) | N/A |
-| 12 | [Walking Wake](http://twitter.com/search?q=Walking+Wake) | N/A |
-| 13 | [Wesson](http://twitter.com/search?q=Wesson) | N/A |
-| 14 | [DA SLEEZE](http://twitter.com/search?q=DA+SLEEZE) | N/A |
-| 15 | [Suicune](http://twitter.com/search?q=Suicune) | N/A |
-| 16 | [HOIL](http://twitter.com/search?q=HOIL) | N/A |
-| 17 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
-| 18 | [Maino](http://twitter.com/search?q=Maino) | N/A |
-| 19 | [Beyond the Summit](http://twitter.com/search?q=Beyond+the+Summit) | N/A |
+| 10 | [#GOGimmighoul](http://twitter.com/search?q=%23GOGimmighoul) | N/A |
+| 11 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
+| 12 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 13 | [#PMSLive](http://twitter.com/search?q=%23PMSLive) | N/A |
+| 14 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 15 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
+| 16 | [#DeadSpaceMarkerMerchSweeps](http://twitter.com/search?q=%23DeadSpaceMarkerMerchSweeps) | N/A |
+| 17 | [Roman Quinn](http://twitter.com/search?q=Roman+Quinn) | N/A |
+| 18 | [Wesson](http://twitter.com/search?q=Wesson) | N/A |
+| 19 | [DA SLEEZE](http://twitter.com/search?q=DA+SLEEZE) | N/A |
 | 20 | [Jim Acosta](http://twitter.com/search?q=Jim+Acosta) | N/A |
-| 21 | [Fnatic](http://twitter.com/search?q=Fnatic) | N/A |
-| 22 | [Reedy Creek](http://twitter.com/search?q=Reedy+Creek) | N/A |
-| 23 | [John Kirby](http://twitter.com/search?q=John+Kirby) | N/A |
-| 24 | [Evan White](http://twitter.com/search?q=Evan+White) | N/A |
-| 25 | [Iron Leaves](http://twitter.com/search?q=Iron+Leaves) | N/A |
-| 26 | [Buckhead](http://twitter.com/search?q=Buckhead) | N/A |
-| 27 | [Scaloni](http://twitter.com/search?q=Scaloni) | N/A |
-| 28 | [McCabe](http://twitter.com/search?q=McCabe) | N/A |
-| 29 | [Yellen](http://twitter.com/search?q=Yellen) | N/A |
-| 30 | [Player of the Week](http://twitter.com/search?q=Player+of+the+Week) | N/A |
-| 31 | [Emilia Clarke](http://twitter.com/search?q=Emilia+Clarke) | N/A |
-| 32 | [Tink Hence](http://twitter.com/search?q=Tink+Hence) | N/A |
-| 33 | [Bobby McCain](http://twitter.com/search?q=Bobby+McCain) | N/A |
-| 34 | [Steven Seagal](http://twitter.com/search?q=Steven+Seagal) | N/A |
-| 35 | [Bryan Cranston](http://twitter.com/search?q=Bryan+Cranston) | N/A |
-| 36 | [Extreme MAGA Republicans](http://twitter.com/search?q=Extreme+MAGA+Republicans) | N/A |
-| 37 | [David Hogg](http://twitter.com/search?q=David+Hogg) | N/A |
-| 38 | [Matt Mercer](http://twitter.com/search?q=Matt+Mercer) | N/A |
-| 39 | [Bryce Young](http://twitter.com/search?q=Bryce+Young) | Bryce Young is a name of a person. It is derived from the Old English words "bryce" meaning "proud" and "young" meaning "youthful". The name can be used for both males and females. |
-| 40 | [Dominican Independence Day](http://twitter.com/search?q=Dominican+Independence+Day) | N/A |
-| 41 | [Sedition Panda](http://twitter.com/search?q=Sedition+Panda) | N/A |
-| 42 | [Kodachrome](http://twitter.com/search?q=Kodachrome) | N/A |
-| 43 | [McShay](http://twitter.com/search?q=McShay) | N/A |
-| 44 | [Jarren Duran](http://twitter.com/search?q=Jarren+Duran) | N/A |
-| 45 | [Virizion](http://twitter.com/search?q=Virizion) | N/A |
-| 46 | [Boosie](http://twitter.com/search?q=Boosie) | N/A |
+| 21 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 22 | [Walking Wake](http://twitter.com/search?q=Walking+Wake) | N/A |
+| 23 | [HOIL](http://twitter.com/search?q=HOIL) | N/A |
+| 24 | [Buckhead](http://twitter.com/search?q=Buckhead) | N/A |
+| 25 | [Suicune](http://twitter.com/search?q=Suicune) | N/A |
+| 26 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
+| 27 | [Maino](http://twitter.com/search?q=Maino) | N/A |
+| 28 | [Beyond the Summit](http://twitter.com/search?q=Beyond+the+Summit) | N/A |
+| 29 | [Iron Leaves](http://twitter.com/search?q=Iron+Leaves) | N/A |
+| 30 | [Reedy Creek](http://twitter.com/search?q=Reedy+Creek) | N/A |
+| 31 | [Fnatic](http://twitter.com/search?q=Fnatic) | N/A |
+| 32 | [Emilia Clarke](http://twitter.com/search?q=Emilia+Clarke) | N/A |
+| 33 | [Boosie](http://twitter.com/search?q=Boosie) | N/A |
+| 34 | [Scaloni](http://twitter.com/search?q=Scaloni) | N/A |
+| 35 | [Evan White](http://twitter.com/search?q=Evan+White) | N/A |
+| 36 | [Seagal](http://twitter.com/search?q=Seagal) | N/A |
+| 37 | [John Kirby](http://twitter.com/search?q=John+Kirby) | N/A |
+| 38 | [Disney World](http://twitter.com/search?q=Disney+World) | N/A |
+| 39 | [Jake Burger](http://twitter.com/search?q=Jake+Burger) | N/A |
+| 40 | [Don't Say Gay](http://twitter.com/search?q=Don%27t+Say+Gay) | N/A |
+| 41 | [Janet Yellen](http://twitter.com/search?q=Janet+Yellen) | N/A |
+| 42 | [Sedition Panda](http://twitter.com/search?q=Sedition+Panda) | N/A |
+| 43 | [Foles](http://twitter.com/search?q=Foles) | Foles is a surname of English origin. It is derived from the Old English word "fool," which means "a foolish person." The name is most commonly associated with American football quarterback Nick Foles, who currently plays for the Chicago Bears. |
+| 44 | [Bobby McCain](http://twitter.com/search?q=Bobby+McCain) | N/A |
+| 45 | [Extreme MAGA Republicans](http://twitter.com/search?q=Extreme+MAGA+Republicans) | N/A |
+| 46 | [Bryan Cranston](http://twitter.com/search?q=Bryan+Cranston) | N/A |
 | 47 | [Ronny Mauricio](http://twitter.com/search?q=Ronny+Mauricio) | N/A |
-| 48 | [Starfire](http://twitter.com/search?q=Starfire) | N/A |
-| 49 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
-| 50 | [Sneed](http://twitter.com/search?q=Sneed) | Sneed is a slang term used to describe someone who is sneaky or untrustworthy. It can also be used to describe someone who is up to no good. |
+| 48 | [David Hogg](http://twitter.com/search?q=David+Hogg) | N/A |
+| 49 | [Tink Hence](http://twitter.com/search?q=Tink+Hence) | N/A |
+| 50 | [Player of the Week](http://twitter.com/search?q=Player+of+the+Week) | N/A |
 
 
 

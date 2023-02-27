@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Berlin
 
-📆 Last Updated: `2023-02-27 21:15:58 UTC`
+📆 Last Updated: `2023-02-27 22:15:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for [Germany](</Germany>)
 | 4 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
 | 5 | [#PokemonPresents](http://twitter.com/search?q=%23PokemonPresents) | N/A |
 | 6 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
-| 7 | [Start in die Woche](http://twitter.com/search?q=Start+in+die+Woche) | Start in die Woche is a German phrase that translates to "start of the week" in English. It is used to refer to the beginning of a new week, usually on Monday. |
-| 8 | [Bratapfel](http://twitter.com/search?q=Bratapfel) | N/A |
+| 7 | [Vergewaltigungen](http://twitter.com/search?q=Vergewaltigungen) | N/A |
+| 8 | [Start in die Woche](http://twitter.com/search?q=Start+in+die+Woche) | Start in die Woche is a German phrase that translates to "start of the week" in English. It is used to refer to the beginning of a new week, usually on Monday. |
 | 9 | [Trinkgeld](http://twitter.com/search?q=Trinkgeld) | N/A |
-| 10 | [Lumpenpazifisten](http://twitter.com/search?q=Lumpenpazifisten) | N/A |
-| 11 | [Senioren](http://twitter.com/search?q=Senioren) | N/A |
-| 12 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
-| 13 | [Salvatore](http://twitter.com/search?q=Salvatore) | N/A |
-| 14 | [Gutachten](http://twitter.com/search?q=Gutachten) | N/A |
-| 15 | [Polarlichter](http://twitter.com/search?q=Polarlichter) | N/A |
-| 16 | [Berliner Kirchenstift](http://twitter.com/search?q=Berliner+Kirchenstift) | N/A |
-| 17 | [Werbeverbot](http://twitter.com/search?q=Werbeverbot) | N/A |
-| 18 | [Helena](http://twitter.com/search?q=Helena) | N/A |
-| 19 | [Nico](http://twitter.com/search?q=Nico) | N/A |
-| 20 | [Kinderlose](http://twitter.com/search?q=Kinderlose) | N/A |
-| 21 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
-| 22 | [Suicune](http://twitter.com/search?q=Suicune) | N/A |
-| 23 | [Ethikrat](http://twitter.com/search?q=Ethikrat) | N/A |
-| 24 | [montagmorgen](http://twitter.com/search?q=montagmorgen) | N/A |
-| 25 | [Abrams](http://twitter.com/search?q=Abrams) | Abrams is a surname of English and German origin. It is derived from the Germanic personal name Abraham, meaning "father of many". |
-| 26 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 27 | [Siedler](http://twitter.com/search?q=Siedler) | N/A |
-| 28 | [Greta Thunberg](http://twitter.com/search?q=Greta+Thunberg) | Greta Thunberg is a Swedish environmental activist who has gained international recognition for her work in raising awareness about the dangers of climate change. She is best known for her school strike for climate, which began in August 2018 when she was 15 years old. She has since become a prominent figure in the global climate movement and has been nominated for the Nobel Peace Prize. |
-| 29 | ['Feuer'](http://twitter.com/search?q=%27Feuer%27) | N/A |
-| 30 | [Ukrainer](http://twitter.com/search?q=Ukrainer) | N/A |
-| 31 | [Finne](http://twitter.com/search?q=Finne) | N/A |
-| 32 | [Teilnehmer](http://twitter.com/search?q=Teilnehmer) | N/A |
-| 33 | [Ricarda](http://twitter.com/search?q=Ricarda) | N/A |
-| 34 | [Frau Buyx](http://twitter.com/search?q=Frau+Buyx) | N/A |
-| 35 | [Süßigkeiten](http://twitter.com/search?q=S%c3%bc%c3%9figkeiten) | N/A |
-| 36 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
-| 37 | [Moderator](http://twitter.com/search?q=Moderator) | N/A |
-| 38 | [Schutzbedürftige](http://twitter.com/search?q=Schutzbed%c3%bcrftige) | N/A |
-| 39 | [Virus](http://twitter.com/search?q=Virus) | N/A |
-| 40 | [Joko](http://twitter.com/search?q=Joko) | N/A |
-| 41 | [Panzer](http://twitter.com/search?q=Panzer) | N/A |
-| 42 | [Mystery Dungeon](http://twitter.com/search?q=Mystery+Dungeon) | N/A |
-| 43 | [Ernährung](http://twitter.com/search?q=Ern%c3%a4hrung) | N/A |
-| 44 | [Drosten](http://twitter.com/search?q=Drosten) | N/A |
-| 45 | [Elisabeth](http://twitter.com/search?q=Elisabeth) | N/A |
-| 46 | [Hammer](http://twitter.com/search?q=Hammer) | N/A |
-| 47 | [Altenpflege](http://twitter.com/search?q=Altenpflege) | N/A |
-| 48 | [Verhandlungen](http://twitter.com/search?q=Verhandlungen) | N/A |
-| 49 | [Streamplan](http://twitter.com/search?q=Streamplan) | N/A |
-| 50 | [Pflegeversicherung](http://twitter.com/search?q=Pflegeversicherung) | N/A |
+| 10 | [Zimmermann](http://twitter.com/search?q=Zimmermann) | N/A |
+| 11 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
+| 12 | [Moderator](http://twitter.com/search?q=Moderator) | N/A |
+| 13 | [Senioren](http://twitter.com/search?q=Senioren) | N/A |
+| 14 | [Salvatore](http://twitter.com/search?q=Salvatore) | N/A |
+| 15 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
+| 16 | [Polarlichter](http://twitter.com/search?q=Polarlichter) | N/A |
+| 17 | [Nico](http://twitter.com/search?q=Nico) | N/A |
+| 18 | [Gutachten](http://twitter.com/search?q=Gutachten) | N/A |
+| 19 | [Berliner Kirchenstift](http://twitter.com/search?q=Berliner+Kirchenstift) | N/A |
+| 20 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 21 | [Helena](http://twitter.com/search?q=Helena) | N/A |
+| 22 | [Werbeverbot](http://twitter.com/search?q=Werbeverbot) | N/A |
+| 23 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
+| 24 | [Suicune](http://twitter.com/search?q=Suicune) | N/A |
+| 25 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
+| 26 | [Ethikrat](http://twitter.com/search?q=Ethikrat) | N/A |
+| 27 | [montagmorgen](http://twitter.com/search?q=montagmorgen) | N/A |
+| 28 | [Abrams](http://twitter.com/search?q=Abrams) | Abrams is a surname of English and German origin. It is derived from the Germanic personal name Abraham, meaning "father of many". |
+| 29 | [Kinderlose](http://twitter.com/search?q=Kinderlose) | N/A |
+| 30 | [Talkshow](http://twitter.com/search?q=Talkshow) | N/A |
+| 31 | [Siedler](http://twitter.com/search?q=Siedler) | N/A |
+| 32 | [Greta Thunberg](http://twitter.com/search?q=Greta+Thunberg) | Greta Thunberg is a Swedish environmental activist who has gained international recognition for her work in raising awareness about the dangers of climate change. She is best known for her school strike for climate, which began in August 2018 when she was 15 years old. She has since become a prominent figure in the global climate movement and has been nominated for the Nobel Peace Prize. |
+| 33 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 34 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 35 | [Ukrainer](http://twitter.com/search?q=Ukrainer) | N/A |
+| 36 | ['Feuer'](http://twitter.com/search?q=%27Feuer%27) | N/A |
+| 37 | [Kriegsverbrechen](http://twitter.com/search?q=Kriegsverbrechen) | N/A |
+| 38 | [Ricarda](http://twitter.com/search?q=Ricarda) | N/A |
+| 39 | [Schutzbedürftige](http://twitter.com/search?q=Schutzbed%c3%bcrftige) | N/A |
+| 40 | [Frau Buyx](http://twitter.com/search?q=Frau+Buyx) | N/A |
+| 41 | [Carsten](http://twitter.com/search?q=Carsten) | N/A |
+| 42 | [Nageln](http://twitter.com/search?q=Nageln) | N/A |
+| 43 | [Heizungen](http://twitter.com/search?q=Heizungen) | N/A |
+| 44 | [Teilnehmer](http://twitter.com/search?q=Teilnehmer) | N/A |
+| 45 | [Süßigkeiten](http://twitter.com/search?q=S%c3%bc%c3%9figkeiten) | N/A |
+| 46 | [Streamplan](http://twitter.com/search?q=Streamplan) | N/A |
+| 47 | [Mystery Dungeon](http://twitter.com/search?q=Mystery+Dungeon) | N/A |
+| 48 | [Zucker](http://twitter.com/search?q=Zucker) | N/A |
+| 49 | [Bratapfel](http://twitter.com/search?q=Bratapfel) | N/A |
+| 50 | [Drosten](http://twitter.com/search?q=Drosten) | N/A |
 
 
 
