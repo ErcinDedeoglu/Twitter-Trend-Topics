@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Plymouth
 
-📆 Last Updated: `2023-02-27 04:16:21 UTC`
+📆 Last Updated: `2023-02-27 05:15:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,35 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
-| 2 | [YouTuber](http://twitter.com/search?q=YouTuber) | N/A |
-| 3 | [#SAGAwards](http://twitter.com/search?q=%23SAGAwards) | N/A |
-| 4 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
-| 5 | [#NorthernLights](http://twitter.com/search?q=%23NorthernLights) | N/A |
-| 6 | [#Aurora](http://twitter.com/search?q=%23Aurora) | N/A |
-| 7 | [Bambi](http://twitter.com/search?q=Bambi) | N/A |
-| 8 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
-| 9 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 10 | [Claudia](http://twitter.com/search?q=Claudia) | Claudia is a female given name of Latin origin, derived from the Roman clan name Claudius. It means "lame" or "disabled". |
-| 11 | [#CallTheMidwife](http://twitter.com/search?q=%23CallTheMidwife) | N/A |
-| 12 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 13 | [Canelo](http://twitter.com/search?q=Canelo) | N/A |
-| 14 | [Molly](http://twitter.com/search?q=Molly) | N/A |
-| 15 | [Piers](http://twitter.com/search?q=Piers) | Piers is a type of structure built out into a body of water, such as a river or ocean, to provide access for boats and other vessels. It can also refer to a landing stage or wharf. The word comes from the Old French "piere," meaning "pillar." |
-| 16 | [Split](http://twitter.com/search?q=Split) | N/A |
-| 17 | [Casey](http://twitter.com/search?q=Casey) | Casey is a unisex name of Irish origin, derived from the Gaelic Cathasaigh, meaning “brave” or “vigilant.” It is also a popular surname in the United States. |
-| 18 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
-| 19 | [Morty](http://twitter.com/search?q=Morty) | Morty is a nickname for the given name Mortimer, which is of English origin and means "dead sea". It can also be used as a diminutive form of the name Mortimer. |
-| 20 | [Draw](http://twitter.com/search?q=Draw) | N/A |
-| 21 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 22 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
-| 23 | [Trixie](http://twitter.com/search?q=Trixie) | N/A |
-| 24 | [Morse](http://twitter.com/search?q=Morse) | N/A |
-| 25 | [Ekiti](http://twitter.com/search?q=Ekiti) | N/A |
-| 26 | [#Boxing](http://twitter.com/search?q=%23Boxing) | N/A |
-| 27 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
-| 28 | [#Endeavour](http://twitter.com/search?q=%23Endeavour) | N/A |
-| 29 | [#ElectionResult](http://twitter.com/search?q=%23ElectionResult) | N/A |
+| 1 | [#PaulFury](http://twitter.com/search?q=%23PaulFury) | N/A |
+| 2 | [#CarabaoCupFinal](http://twitter.com/search?q=%23CarabaoCupFinal) | N/A |
+| 3 | [#NUFC](http://twitter.com/search?q=%23NUFC) | #NUFC stands for Newcastle United Football Club, an English professional football club based in Newcastle upon Tyne. The club was founded in 1892 and currently plays in the Premier League. |
+| 4 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 5 | [#TotChe](http://twitter.com/search?q=%23TotChe) | N/A |
+| 6 | [YouTuber](http://twitter.com/search?q=YouTuber) | N/A |
+| 7 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 8 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 9 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
+| 10 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
+| 11 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
+| 12 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 13 | [Badou Jack](http://twitter.com/search?q=Badou+Jack) | N/A |
+| 14 | [Raskin](http://twitter.com/search?q=Raskin) | N/A |
+| 15 | [Kamara](http://twitter.com/search?q=Kamara) | Kamara is a female given name of African origin, derived from the Igbo language. It means “moon” in English. |
+| 16 | [Lundstram](http://twitter.com/search?q=Lundstram) | N/A |
+| 17 | [Beale](http://twitter.com/search?q=Beale) | Beale is a Scottish surname derived from the Old English word "bealu", meaning "brave". It is also an English place name, referring to a location in Hampshire, England. |
+| 18 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
+| 19 | [INEC](http://twitter.com/search?q=INEC) | N/A |
+| 20 | [Trafalgar Square](http://twitter.com/search?q=Trafalgar+Square) | N/A |
+| 21 | [Skipp](http://twitter.com/search?q=Skipp) | Skipp is a slang term used to refer to someone who is in charge or in control of a situation. It can also be used to refer to someone who is a leader or has authority. In English, it can be used as an informal way of saying "boss" or "leader". |
+| 22 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 23 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 24 | [Man Utd](http://twitter.com/search?q=Man+Utd) | N/A |
+| 25 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 26 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 27 | [Mickey Mouse](http://twitter.com/search?q=Mickey+Mouse) | N/A |
+| 28 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
+| 29 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
+| 30 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
+| 31 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 32 | [Claudia](http://twitter.com/search?q=Claudia) | Claudia is a female given name of Latin origin, derived from the Roman clan name Claudius. It means "lame" or "disabled". |
+| 33 | [Cantwell](http://twitter.com/search?q=Cantwell) | N/A |
+| 34 | [Geordie](http://twitter.com/search?q=Geordie) | N/A |
+| 35 | [ron and lana](http://twitter.com/search?q=ron+and+lana) | N/A |
+| 36 | [Howay The Lads](http://twitter.com/search?q=Howay+The+Lads) | N/A |
+| 37 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
+| 38 | [League Cup](http://twitter.com/search?q=League+Cup) | N/A |
+| 39 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 40 | [come on united](http://twitter.com/search?q=come+on+united) | N/A |
+| 41 | [Dan Burn](http://twitter.com/search?q=Dan+Burn) | Dan Burn is a phrase used to describe a situation in which someone has been completely overwhelmed by an emotional experience. It is often used to describe the feeling of being overwhelmed with sadness or grief. |
+| 42 | [Bambi](http://twitter.com/search?q=Bambi) | N/A |
+| 43 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 44 | [Piers](http://twitter.com/search?q=Piers) | Piers is a type of structure built out into a body of water, such as a river or ocean, to provide access for boats and other vessels. It can also refer to a landing stage or wharf. The word comes from the Old French "piere," meaning "pillar." |
+| 45 | [Tillman](http://twitter.com/search?q=Tillman) | Tillman is a surname of German origin. It is derived from the given name Tilman, which is a combination of the Germanic elements "til" meaning "people" and "man" meaning "man". The name can also be found in other countries, such as England and Scotland. |
+| 46 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 47 | [Boxing](http://twitter.com/search?q=Boxing) | N/A |
+| 48 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
+| 49 | [Phil Jones](http://twitter.com/search?q=Phil+Jones) | N/A |
 
 
 

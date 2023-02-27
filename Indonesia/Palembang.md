@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palembang
 
-📆 Last Updated: `2023-02-27 04:16:38 UTC`
+📆 Last Updated: `2023-02-27 05:16:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,50 +16,50 @@ This is top 50 for [Indonesia](</Indonesia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#GGMU](http://twitter.com/search?q=%23GGMU) | #GGMU is an acronym for the phrase “Glory, Glory, Manchester United”. It is a chant used by Manchester United fans to show their support for the team. |
-| 2 | [#ShineBrightKitTENDay](http://twitter.com/search?q=%23ShineBrightKitTENDay) | N/A |
-| 3 | [#테니생일_축하축하_하네요](http://twitter.com/search?q=%23%ed%85%8c%eb%8b%88%ec%83%9d%ec%9d%bc_%ec%b6%95%ed%95%98%ec%b6%95%ed%95%98_%ed%95%98%eb%84%a4%ec%9a%94) | N/A |
+| 2 | [#Stopkriminalisasihelmut](http://twitter.com/search?q=%23Stopkriminalisasihelmut) | N/A |
+| 3 | [#ShineBrightKitTENDay](http://twitter.com/search?q=%23ShineBrightKitTENDay) | N/A |
 | 4 | [Senin](http://twitter.com/search?q=Senin) | N/A |
 | 5 | [TENLEE 27th BDAY](http://twitter.com/search?q=TENLEE+27th+BDAY) | N/A |
 | 6 | [MARK LEE THANK YOU](http://twitter.com/search?q=MARK+LEE+THANK+YOU) | N/A |
 | 7 | [Jiraiya](http://twitter.com/search?q=Jiraiya) | N/A |
 | 8 | [Jerome](http://twitter.com/search?q=Jerome) | N/A |
 | 9 | [Glory Glory Man United](http://twitter.com/search?q=Glory+Glory+Man+United) | N/A |
-| 10 | [First Ghibli](http://twitter.com/search?q=First+Ghibli) | N/A |
-| 11 | [Best Ghibli](http://twitter.com/search?q=Best+Ghibli) | N/A |
-| 12 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
-| 13 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 14 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 15 | [Tulus Utamakan Rakyat](http://twitter.com/search?q=Tulus+Utamakan+Rakyat) | Tulus Utamakan Rakyat is a Malay phrase which translates to "Dedicated to Serving the People". It is a slogan used by the Malaysian government to emphasize their commitment to providing quality services and support for the people of Malaysia. |
-| 16 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
-| 17 | [Syahril](http://twitter.com/search?q=Syahril) | N/A |
-| 18 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 19 | [Jeff](http://twitter.com/search?q=Jeff) | N/A |
-| 20 | [PROTECT OUR JUNGKOOK](http://twitter.com/search?q=PROTECT+OUR+JUNGKOOK) | N/A |
-| 21 | [JAEYONG JAYA JAYA JAYA](http://twitter.com/search?q=JAEYONG+JAYA+JAYA+JAYA) | N/A |
-| 22 | [Apel Pagi](http://twitter.com/search?q=Apel+Pagi) | N/A |
-| 23 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 24 | [JENO MILAN FASHION WEEK](http://twitter.com/search?q=JENO+MILAN+FASHION+WEEK) | N/A |
+| 10 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
+| 11 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 12 | [Last Ghibli](http://twitter.com/search?q=Last+Ghibli) | N/A |
+| 13 | [First Ghibli](http://twitter.com/search?q=First+Ghibli) | N/A |
+| 14 | [Tulus Utamakan Rakyat](http://twitter.com/search?q=Tulus+Utamakan+Rakyat) | Tulus Utamakan Rakyat is a Malay phrase which translates to "Dedicated to Serving the People". It is a slogan used by the Malaysian government to emphasize their commitment to providing quality services and support for the people of Malaysia. |
+| 15 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
+| 16 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 17 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 18 | [Syahril](http://twitter.com/search?q=Syahril) | N/A |
+| 19 | [JAEYONG JAYA JAYA JAYA](http://twitter.com/search?q=JAEYONG+JAYA+JAYA+JAYA) | N/A |
+| 20 | [Jeff](http://twitter.com/search?q=Jeff) | N/A |
+| 21 | [Akrab](http://twitter.com/search?q=Akrab) | N/A |
+| 22 | [Evos NT](http://twitter.com/search?q=Evos+NT) | N/A |
+| 23 | [PROTECT OUR JUNGKOOK](http://twitter.com/search?q=PROTECT+OUR+JUNGKOOK) | N/A |
+| 24 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
 | 25 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
 | 26 | [David](http://twitter.com/search?q=David) | N/A |
-| 27 | [didi kempot](http://twitter.com/search?q=didi+kempot) | N/A |
-| 28 | [Khilafah Ajaran Mulia](http://twitter.com/search?q=Khilafah+Ajaran+Mulia) | N/A |
-| 29 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 30 | [Pagiii](http://twitter.com/search?q=Pagiii) | N/A |
-| 31 | [KAI Rover Teaser Image 1](http://twitter.com/search?q=KAI+Rover+Teaser+Image+1) | N/A |
-| 32 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 33 | [Itachi](http://twitter.com/search?q=Itachi) | N/A |
-| 34 | [haechan sunbaenim](http://twitter.com/search?q=haechan+sunbaenim) | N/A |
-| 35 | [Kita Mulia Dengan Syariah](http://twitter.com/search?q=Kita+Mulia+Dengan+Syariah) | N/A |
-| 36 | [Glory Glory Manchester United](http://twitter.com/search?q=Glory+Glory+Manchester+United) | N/A |
+| 27 | [JENO MILAN FASHION WEEK](http://twitter.com/search?q=JENO+MILAN+FASHION+WEEK) | N/A |
+| 28 | [Apel Pagi](http://twitter.com/search?q=Apel+Pagi) | N/A |
+| 29 | [KAI Rover Teaser Image 1](http://twitter.com/search?q=KAI+Rover+Teaser+Image+1) | N/A |
+| 30 | [Opick](http://twitter.com/search?q=Opick) | N/A |
+| 31 | [Khilafah Ajaran Mulia](http://twitter.com/search?q=Khilafah+Ajaran+Mulia) | N/A |
+| 32 | [haechan sunbaenim](http://twitter.com/search?q=haechan+sunbaenim) | N/A |
+| 33 | [Dania](http://twitter.com/search?q=Dania) | N/A |
+| 34 | [Kita Mulia Dengan Syariah](http://twitter.com/search?q=Kita+Mulia+Dengan+Syariah) | N/A |
+| 35 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 36 | [GLORY GLORY MANCHESTER UNITED](http://twitter.com/search?q=GLORY+GLORY+MANCHESTER+UNITED) | N/A |
 | 37 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
-| 38 | [Opick](http://twitter.com/search?q=Opick) | N/A |
-| 39 | [HAPPY BIRTHDAY TEN](http://twitter.com/search?q=HAPPY+BIRTHDAY+TEN) | N/A |
+| 38 | [HAPPY BIRTHDAY TEN](http://twitter.com/search?q=HAPPY+BIRTHDAY+TEN) | N/A |
+| 39 | [RSVP'ed](http://twitter.com/search?q=RSVP%27ed) | N/A |
 | 40 | [pesawaran lampung](http://twitter.com/search?q=pesawaran+lampung) | N/A |
-| 41 | [Kim Taehyung](http://twitter.com/search?q=Kim+Taehyung) | Kim Taehyung is the stage name of South Korean singer, songwriter, and actor V (Kim Tae-hyung). His name means "to fly" in Korean. |
-| 42 | [Tom Holland](http://twitter.com/search?q=Tom+Holland) | N/A |
-| 43 | [RSVP'ed](http://twitter.com/search?q=RSVP%27ed) | N/A |
-| 44 | [Purel](http://twitter.com/search?q=Purel) | N/A |
-| 45 | [Kasad Dudung AR](http://twitter.com/search?q=Kasad+Dudung+AR) | N/A |
+| 41 | [Tom Holland](http://twitter.com/search?q=Tom+Holland) | N/A |
+| 42 | [Itachi](http://twitter.com/search?q=Itachi) | N/A |
+| 43 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
+| 44 | [Kasad Dudung AR](http://twitter.com/search?q=Kasad+Dudung+AR) | N/A |
+| 45 | [Purel](http://twitter.com/search?q=Purel) | N/A |
 | 46 | [Neji](http://twitter.com/search?q=Neji) | N/A |
 | 47 | [ON THE STREET IS COMING](http://twitter.com/search?q=ON+THE+STREET+IS+COMING) | N/A |
 

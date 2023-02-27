@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Houston
 
-📆 Last Updated: `2023-02-27 04:17:00 UTC`
+📆 Last Updated: `2023-02-27 05:16:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#RoughneckNation](http://twitter.com/search?q=%23RoughneckNation) | N/A |
-| 2 | [Kidd](http://twitter.com/search?q=Kidd) | N/A |
-| 3 | [#Roughnecks](http://twitter.com/search?q=%23Roughnecks) | N/A |
-| 4 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 5 | [Lubbock](http://twitter.com/search?q=Lubbock) | N/A |
-| 6 | [Dwight Powell](http://twitter.com/search?q=Dwight+Powell) | N/A |
-| 7 | [#txwx](http://twitter.com/search?q=%23txwx) | N/A |
-| 8 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
-| 9 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
-| 10 | [West Texas](http://twitter.com/search?q=West+Texas) | N/A |
-| 11 | [Reaves](http://twitter.com/search?q=Reaves) | Reaves is a surname of English origin. It is derived from the Old French word "reves," meaning "dreams." The name is thought to have been given to someone who was known for having prophetic dreams. |
-| 12 | [Wayne](http://twitter.com/search?q=Wayne) | Wayne is a masculine given name in English, derived from an Old English surname meaning "wagon maker" or "wagon driver". It is also used as a surname. |
+| 1 | [Portland](http://twitter.com/search?q=Portland) | N/A |
+| 2 | [Jabari](http://twitter.com/search?q=Jabari) | N/A |
+| 3 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 4 | [#RoughneckNation](http://twitter.com/search?q=%23RoughneckNation) | N/A |
+| 5 | [#Roughnecks](http://twitter.com/search?q=%23Roughnecks) | N/A |
+| 6 | [Kidd](http://twitter.com/search?q=Kidd) | N/A |
+| 7 | [West Texas](http://twitter.com/search?q=West+Texas) | N/A |
+| 8 | [#txwx](http://twitter.com/search?q=%23txwx) | N/A |
+| 9 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
+| 10 | [Lubbock](http://twitter.com/search?q=Lubbock) | N/A |
+| 11 | [Wayne](http://twitter.com/search?q=Wayne) | Wayne is a masculine given name in English, derived from an Old English surname meaning "wagon maker" or "wagon driver". It is also used as a surname. |
+| 12 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
 | 13 | [Wood](http://twitter.com/search?q=Wood) | N/A |
-| 14 | [#XFL2023](http://twitter.com/search?q=%23XFL2023) | N/A |
-| 15 | [Mavericks](http://twitter.com/search?q=Mavericks) | Mavericks is a term used to describe an independent-minded person who does not conform to the norms of society. It is often used to describe someone who is willing to take risks and challenge the status quo. |
-| 16 | [Josh Green](http://twitter.com/search?q=Josh+Green) | Josh Green is a slang term used to describe someone who is inexperienced or naive. It is often used to describe someone who is new to a particular activity or situation and may not be aware of the rules or customs associated with it. |
-| 17 | [Vando](http://twitter.com/search?q=Vando) | N/A |
-| 18 | [Vanderbilt](http://twitter.com/search?q=Vanderbilt) | N/A |
-| 19 | [Sunday Funday](http://twitter.com/search?q=Sunday+Funday) | N/A |
-| 20 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
-| 21 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
-| 22 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 23 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 14 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 15 | [#XFL2023](http://twitter.com/search?q=%23XFL2023) | N/A |
+| 16 | [Vanderbilt](http://twitter.com/search?q=Vanderbilt) | N/A |
+| 17 | [Mavericks](http://twitter.com/search?q=Mavericks) | Mavericks is a term used to describe an independent-minded person who does not conform to the norms of society. It is often used to describe someone who is willing to take risks and challenge the status quo. |
+| 18 | [Josh Green](http://twitter.com/search?q=Josh+Green) | Josh Green is a slang term used to describe someone who is inexperienced or naive. It is often used to describe someone who is new to a particular activity or situation and may not be aware of the rules or customs associated with it. |
+| 19 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
+| 20 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 21 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 22 | [Rockets](http://twitter.com/search?q=Rockets) | Rockets are a type of spacecraft used for space exploration and travel. They are powered by engines that use fuel to generate thrust, allowing them to move through the air or outer space. Rockets are used to launch satellites, transport people and cargo into space, and even explore other planets. The word "rocket" comes from the Latin word "rockete," which means "to shoot." |
+| 23 | [Jeannot](http://twitter.com/search?q=Jeannot) | N/A |
 | 24 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
-| 25 | [Jeannot](http://twitter.com/search?q=Jeannot) | N/A |
-| 26 | [James Hong](http://twitter.com/search?q=James+Hong) | N/A |
-| 27 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
-| 28 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
-| 29 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
-| 30 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
-| 31 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 32 | [Naz Reid](http://twitter.com/search?q=Naz+Reid) | Naz Reid is a professional basketball player who currently plays for the Minnesota Timberwolves of the National Basketball Association (NBA). His name is a combination of his first name, Naz, and his middle name, Reid. The name Naz Reid is derived from his full name, Nazareth Reid. |
+| 25 | [James Hong](http://twitter.com/search?q=James+Hong) | N/A |
+| 26 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
+| 27 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
+| 28 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
+| 29 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
+| 30 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 31 | [Wilt](http://twitter.com/search?q=Wilt) | N/A |
+| 32 | [Blazers](http://twitter.com/search?q=Blazers) | Blazers are a type of jacket, typically with a single row of buttons and a notched lapel. They are usually made from wool or cotton and can be worn as part of a suit or as a separate item. Blazers are often associated with formal occasions, but they can also be worn casually. |
 | 33 | [Left Behind](http://twitter.com/search?q=Left+Behind) | N/A |
-| 34 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
-| 35 | [Sally Field](http://twitter.com/search?q=Sally+Field) | N/A |
-| 36 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
-| 37 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
-| 38 | [Eubanks](http://twitter.com/search?q=Eubanks) | N/A |
-| 39 | [Sounders](http://twitter.com/search?q=Sounders) | Sounders is the name of a Major League Soccer (MLS) team based in Seattle, Washington. The team was founded in 2007 and plays its home games at CenturyLink Field. The name Sounders is derived from the maritime tradition of the Puget Sound region, and refers to the sound of a foghorn or whistle used to signal ships. |
-| 40 | [Storm Reid](http://twitter.com/search?q=Storm+Reid) | N/A |
-| 41 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
-| 42 | [Rockets](http://twitter.com/search?q=Rockets) | Rockets are a type of spacecraft used for space exploration and travel. They are powered by engines that use fuel to generate thrust, allowing them to move through the air or outer space. Rockets are used to launch satellites, transport people and cargo into space, and even explore other planets. The word "rocket" comes from the Latin word "rockete," which means "to shoot." |
-| 43 | [kevin hart](http://twitter.com/search?q=kevin+hart) | N/A |
-| 44 | [Timberwolves](http://twitter.com/search?q=Timberwolves) | Timberwolves is a nickname for the Minnesota Timberwolves, a professional basketball team based in Minneapolis, Minnesota. The name was chosen to reflect the state's rich history of logging and timber production. |
-| 45 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
+| 34 | [Naz Reid](http://twitter.com/search?q=Naz+Reid) | Naz Reid is a professional basketball player who currently plays for the Minnesota Timberwolves of the National Basketball Association (NBA). His name is a combination of his first name, Naz, and his middle name, Reid. The name Naz Reid is derived from his full name, Nazareth Reid. |
+| 35 | [kevin hart](http://twitter.com/search?q=kevin+hart) | N/A |
+| 36 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
+| 37 | [Kobe's 81](http://twitter.com/search?q=Kobe%27s+81) | N/A |
+| 38 | [71 POINTS](http://twitter.com/search?q=71+POINTS) | 71 Points is a Japanese game show that aired from 2004 to 2006. The show featured two teams of three players competing against each other in a series of physical and mental challenges. The team with the most points at the end of the game won. The name of the show comes from the fact that each challenge was worth 71 points. |
+| 39 | [Sally Field](http://twitter.com/search?q=Sally+Field) | N/A |
+| 40 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
+| 41 | [Morty](http://twitter.com/search?q=Morty) | Morty is a nickname for the given name Mortimer, which is of English origin and means "dead sea". It can also be used as a diminutive form of the name Mortimer. |
+| 42 | [Storm Reid](http://twitter.com/search?q=Storm+Reid) | N/A |
+| 43 | [Silas](http://twitter.com/search?q=Silas) | N/A |
+| 44 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
+| 45 | [Two 70](http://twitter.com/search?q=Two+70) | N/A |
 | 46 | [Stunna](http://twitter.com/search?q=Stunna) | Stunna is a slang term used to describe someone who is confident and stylish. It can also be used to describe someone who is bold and daring. The term comes from the phrase "stunna shades," which refers to a type of sunglasses that are popular among hip-hop artists. |
-| 47 | [Donte](http://twitter.com/search?q=Donte) | Donte is a given name of Italian origin, derived from the Latin name "Donatus". It is a variant of the name "Donato" and can be translated to mean "given" or "gift". |
-| 48 | [Candiace](http://twitter.com/search?q=Candiace) | Candiace is a female given name of Latin origin, derived from the word "candidus" meaning "bright" or "shining". |
-| 49 | [Mark Wahlberg](http://twitter.com/search?q=Mark+Wahlberg) | N/A |
-| 50 | [Oscars](http://twitter.com/search?q=Oscars) | Oscars is short for the Academy Awards, which are annual awards given out by the Academy of Motion Picture Arts and Sciences to recognize excellence in the film industry. The awards are presented in 24 categories, including Best Picture, Best Director, Best Actor, and Best Actress. |
+| 47 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
+| 48 | [Just Like Heaven](http://twitter.com/search?q=Just+Like+Heaven) | N/A |
+| 49 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
+| 50 | [Episode 7](http://twitter.com/search?q=Episode+7) | N/A |
 
 
 

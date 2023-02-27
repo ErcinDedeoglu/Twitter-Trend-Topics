@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cali
 
-📆 Last Updated: `2023-02-27 04:16:25 UTC`
+📆 Last Updated: `2023-02-27 05:15:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,51 +19,51 @@ This is top 50 for [Colombia](</Colombia>)
 | 2 | [Natalia París](http://twitter.com/search?q=Natalia+Par%c3%ads) | N/A |
 | 3 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
 | 4 | [Morelo](http://twitter.com/search?q=Morelo) | N/A |
-| 5 | [Marmolejo](http://twitter.com/search?q=Marmolejo) | N/A |
+| 5 | [Gamero](http://twitter.com/search?q=Gamero) | N/A |
 | 6 | [#CasoGnecco](http://twitter.com/search?q=%23CasoGnecco) | N/A |
-| 7 | [Gamero](http://twitter.com/search?q=Gamero) | N/A |
-| 8 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
-| 9 | [Aldair](http://twitter.com/search?q=Aldair) | N/A |
-| 10 | [Arias](http://twitter.com/search?q=Arias) | Arias is a type of vocal solo in opera or oratorio. It is a song for one voice, usually with orchestral accompaniment. The term comes from the Italian word for "air" or "melody". In English, an aria is a song that expresses emotion and is often used to highlight a particular character's feelings. |
-| 11 | [Vanegas](http://twitter.com/search?q=Vanegas) | N/A |
-| 12 | [Daniel Torres](http://twitter.com/search?q=Daniel+Torres) | N/A |
-| 13 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 14 | [#SAGAwards](http://twitter.com/search?q=%23SAGAwards) | N/A |
-| 15 | [Tolima](http://twitter.com/search?q=Tolima) | N/A |
-| 16 | [Almería](http://twitter.com/search?q=Almer%c3%ada) | Almería is a city in the southeastern region of Spain. It is the capital of the province of Almería and is located on the Mediterranean Sea. In English, Almería means "The Watchtower". |
-| 17 | [#TLOU](http://twitter.com/search?q=%23TLOU) | #TLOU is an acronym for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is a post-apocalyptic action-adventure survival horror game set in the United States. The game follows the story of Joel and Ellie as they traverse a post-apocalyptic world filled with hostile humans and cannibalistic creatures known as the Infected. |
-| 18 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
-| 19 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 20 | [Rivera](http://twitter.com/search?q=Rivera) | N/A |
-| 21 | [Deslealtad](http://twitter.com/search?q=Deslealtad) | N/A |
-| 22 | [Cali](http://twitter.com/search?q=Cali) | N/A |
-| 23 | [Santa Fe](http://twitter.com/search?q=Santa+Fe) | N/A |
-| 24 | [Poncho Zuleta](http://twitter.com/search?q=Poncho+Zuleta) | N/A |
-| 25 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
-| 26 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
-| 27 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 28 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 29 | [Yuber](http://twitter.com/search?q=Yuber) | N/A |
-| 30 | [Caldera](http://twitter.com/search?q=Caldera) | N/A |
-| 31 | [Uribe](http://twitter.com/search?q=Uribe) | N/A |
-| 32 | [Londoño](http://twitter.com/search?q=Londo%c3%b1o) | N/A |
-| 33 | [Boreal](http://twitter.com/search?q=Boreal) | N/A |
-| 34 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 35 | [Vamos Millonarios](http://twitter.com/search?q=Vamos+Millonarios) | N/A |
-| 36 | [Dayro Moreno](http://twitter.com/search?q=Dayro+Moreno) | N/A |
-| 37 | [Def Leppard](http://twitter.com/search?q=Def+Leppard) | N/A |
-| 38 | [Ronaldinho](http://twitter.com/search?q=Ronaldinho) | N/A |
-| 39 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
-| 40 | [Grave](http://twitter.com/search?q=Grave) | N/A |
-| 41 | [Ramiro Sánchez](http://twitter.com/search?q=Ramiro+S%c3%a1nchez) | N/A |
-| 42 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 43 | [Indignación](http://twitter.com/search?q=Indignaci%c3%b3n) | N/A |
-| 44 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 45 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 46 | [Marrugo](http://twitter.com/search?q=Marrugo) | Marrugo is a Spanish word that means "to be confused or perplexed". It is often used to describe a feeling of confusion or bewilderment. |
-| 47 | [Viveros](http://twitter.com/search?q=Viveros) | N/A |
-| 48 | [Mantilla](http://twitter.com/search?q=Mantilla) | N/A |
-| 49 | [Pardo](http://twitter.com/search?q=Pardo) | N/A |
+| 7 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
+| 8 | [Aldair](http://twitter.com/search?q=Aldair) | N/A |
+| 9 | [Arias](http://twitter.com/search?q=Arias) | Arias is a type of vocal solo in opera or oratorio. It is a song for one voice, usually with orchestral accompaniment. The term comes from the Italian word for "air" or "melody". In English, an aria is a song that expresses emotion and is often used to highlight a particular character's feelings. |
+| 10 | [Marmolejo](http://twitter.com/search?q=Marmolejo) | N/A |
+| 11 | [#SAGAwards](http://twitter.com/search?q=%23SAGAwards) | N/A |
+| 12 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 13 | [Almería](http://twitter.com/search?q=Almer%c3%ada) | Almería is a city in the southeastern region of Spain. It is the capital of the province of Almería and is located on the Mediterranean Sea. In English, Almería means "The Watchtower". |
+| 14 | [Vanegas](http://twitter.com/search?q=Vanegas) | N/A |
+| 15 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
+| 16 | [Rivera](http://twitter.com/search?q=Rivera) | N/A |
+| 17 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 18 | [Poncho Zuleta](http://twitter.com/search?q=Poncho+Zuleta) | N/A |
+| 19 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 20 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
+| 21 | [Santa Fe](http://twitter.com/search?q=Santa+Fe) | N/A |
+| 22 | [#ParadasDeLaRodolfoneta](http://twitter.com/search?q=%23ParadasDeLaRodolfoneta) | N/A |
+| 23 | [Yuber](http://twitter.com/search?q=Yuber) | N/A |
+| 24 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 25 | [Tolima](http://twitter.com/search?q=Tolima) | N/A |
+| 26 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
+| 27 | [Daniel Torres](http://twitter.com/search?q=Daniel+Torres) | N/A |
+| 28 | [Caldera](http://twitter.com/search?q=Caldera) | N/A |
+| 29 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 30 | [Uribe](http://twitter.com/search?q=Uribe) | N/A |
+| 31 | [vamos millonarios](http://twitter.com/search?q=vamos+millonarios) | N/A |
+| 32 | [Deslealtad](http://twitter.com/search?q=Deslealtad) | N/A |
+| 33 | [Dayro](http://twitter.com/search?q=Dayro) | N/A |
+| 34 | [Boreal](http://twitter.com/search?q=Boreal) | N/A |
+| 35 | [Def Leppard](http://twitter.com/search?q=Def+Leppard) | N/A |
+| 36 | [Cali](http://twitter.com/search?q=Cali) | N/A |
+| 37 | [Ronaldinho](http://twitter.com/search?q=Ronaldinho) | N/A |
+| 38 | [Indignación](http://twitter.com/search?q=Indignaci%c3%b3n) | N/A |
+| 39 | [Ramiro Sánchez](http://twitter.com/search?q=Ramiro+S%c3%a1nchez) | N/A |
+| 40 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 41 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 42 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
+| 43 | [Mantilla](http://twitter.com/search?q=Mantilla) | N/A |
+| 44 | [Chayanne](http://twitter.com/search?q=Chayanne) | N/A |
+| 45 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
+| 46 | [Estudien](http://twitter.com/search?q=Estudien) | N/A |
+| 47 | [Pardo](http://twitter.com/search?q=Pardo) | N/A |
+| 48 | [Carlos Darwin](http://twitter.com/search?q=Carlos+Darwin) | N/A |
+| 49 | [Batalla](http://twitter.com/search?q=Batalla) | N/A |
 
 
 

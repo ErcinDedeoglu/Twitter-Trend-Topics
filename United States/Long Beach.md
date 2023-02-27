@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Long Beach
 
-📆 Last Updated: `2023-02-27 04:17:01 UTC`
+📆 Last Updated: `2023-02-27 05:16:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 2 | [Mike Grier](http://twitter.com/search?q=Mike+Grier) | N/A |
-| 3 | [Sharks](http://twitter.com/search?q=Sharks) | N/A |
-| 4 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
-| 5 | [Aubrey Plaza](http://twitter.com/search?q=Aubrey+Plaza) | Aubrey Plaza is an American actress, comedian, and producer. She is best known for her roles in the films Safety Not Guaranteed, Scott Pilgrim vs. the World, and Mike and Dave Need Wedding Dates, as well as her role as April Ludgate on the NBC sitcom Parks and Recreation. |
-| 6 | [Jessica Chastain](http://twitter.com/search?q=Jessica+Chastain) | Jessica Chastain is an American actress and producer. She is known for her roles in films such as The Help, Zero Dark Thirty, Interstellar, and Molly's Game. Her name is derived from the Latin word "castus," which means pure or chaste. |
-| 7 | [Ty Jerome](http://twitter.com/search?q=Ty+Jerome) | Ty Jerome is a masculine given name. It is derived from the Greek name Theodore, which means "gift of God". The name Ty Jerome is often used as a nickname for Theodore. |
-| 8 | [Looney](http://twitter.com/search?q=Looney) | N/A |
-| 9 | [Kerr](http://twitter.com/search?q=Kerr) | N/A |
-| 10 | [Keegan](http://twitter.com/search?q=Keegan) | N/A |
-| 11 | [Isaiah Joe](http://twitter.com/search?q=Isaiah+Joe) | Isaiah Joe is a given name of Hebrew origin. It is derived from the Hebrew name Yesha'yahu, which means "God is salvation". |
-| 12 | [Jenna Ortega](http://twitter.com/search?q=Jenna+Ortega) | N/A |
-| 13 | [Kuminga](http://twitter.com/search?q=Kuminga) | Kuminga is a given name of African origin, derived from the Kikuyu language of Kenya. It means "the one who comes first" or "the firstborn". |
-| 14 | [Bron](http://twitter.com/search?q=Bron) | Bron is a Dutch name that is derived from the Old Germanic name Brunhild, which means "armored warrior." In English, Bron can be translated to mean "armored warrior" or "brave one." |
-| 15 | [Dubs](http://twitter.com/search?q=Dubs) | N/A |
-| 16 | [Vanderbilt](http://twitter.com/search?q=Vanderbilt) | N/A |
-| 17 | [Nuggets](http://twitter.com/search?q=Nuggets) | Nuggets is a term used to refer to small, bite-sized pieces of food, usually made from chicken or other meats. Nuggets are typically deep-fried and served with a dipping sauce. The term can also be used to refer to small pieces of information or knowledge that are valuable and useful. |
-| 18 | [Vando](http://twitter.com/search?q=Vando) | N/A |
-| 19 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 20 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
-| 21 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
-| 22 | [Dallas](http://twitter.com/search?q=Dallas) | Dallas is a city in the U.S. state of Texas. It is the ninth most populous city in the United States and the third-largest in Texas after Houston and San Antonio. The city's population ranks ninth in the U.S. and third in Texas after Houston and San Antonio. Dallas is known for its oil, telecommunications, banking, technology, healthcare, defense, transportation, and commerce industries. |
-| 23 | [De'Aaron Fox](http://twitter.com/search?q=De%27Aaron+Fox) | De'Aaron Fox is an American professional basketball player who currently plays for the Sacramento Kings of the National Basketball Association (NBA). His name is a combination of his parents' names, Deanna and Aaron. The name means "strong and wise" in English. |
-| 24 | [Adin](http://twitter.com/search?q=Adin) | Adin is a unisex name of Hebrew origin, meaning "noble" or "slender". |
-| 25 | [Reaves](http://twitter.com/search?q=Reaves) | Reaves is a surname of English origin. It is derived from the Old French word "reves," meaning "dreams." The name is thought to have been given to someone who was known for having prophetic dreams. |
-| 26 | [LIGHT THE BEAM](http://twitter.com/search?q=LIGHT+THE+BEAM) | "Light the Beam" is a phrase used to describe the act of focusing one's attention on a particular goal or task. It is often used as a metaphor for shining a light on something, or bringing attention to it. The phrase can also be used to encourage someone to take action and focus their energy on achieving their goals. |
-| 27 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
-| 28 | [Wayne](http://twitter.com/search?q=Wayne) | Wayne is a masculine given name in English, derived from an Old English surname meaning "wagon maker" or "wagon driver". It is also used as a surname. |
-| 29 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
-| 30 | [#NASCAR](http://twitter.com/search?q=%23NASCAR) | N/A |
-| 31 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
-| 32 | [#SacramentoProud](http://twitter.com/search?q=%23SacramentoProud) | N/A |
-| 33 | [Abbott Elementary](http://twitter.com/search?q=Abbott+Elementary) | Abbott Elementary is a public elementary school located in San Antonio, Texas. It is part of the Northside Independent School District and serves students in grades Pre-K through 5th. The school's mission is to provide a safe and nurturing learning environment that encourages academic excellence, personal growth, and responsible citizenship. |
-| 34 | [Thunder](http://twitter.com/search?q=Thunder) | Thunder is the sound caused by lightning. It is a loud, booming sound that can be heard from miles away. Thunder is often associated with storms and bad weather. |
-| 35 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
-| 36 | [#PokemonGO](http://twitter.com/search?q=%23PokemonGO) | N/A |
-| 37 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
-| 38 | [Ty Lue](http://twitter.com/search?q=Ty+Lue) | Ty Lue is the name of an American basketball coach and former player. He is currently the head coach of the Los Angeles Clippers of the National Basketball Association (NBA). The name "Ty Lue" is derived from his given name, Tyronn. |
+| 2 | [Lamb](http://twitter.com/search?q=Lamb) | Lamb is a young sheep, usually less than one year old. It is also used as a term of endearment for a young child. The word comes from the Old English “lamb”, which means “young sheep”. |
+| 3 | [G-Man](http://twitter.com/search?q=G-Man) | N/A |
+| 4 | [Morris](http://twitter.com/search?q=Morris) | N/A |
+| 5 | [Grier](http://twitter.com/search?q=Grier) | N/A |
+| 6 | [Nuggets](http://twitter.com/search?q=Nuggets) | Nuggets is a term used to refer to small, bite-sized pieces of food, usually made from chicken or other meats. Nuggets are typically deep-fried and served with a dipping sauce. The term can also be used to refer to small pieces of information or knowledge that are valuable and useful. |
+| 7 | [RoCo](http://twitter.com/search?q=RoCo) | N/A |
+| 8 | [Timo](http://twitter.com/search?q=Timo) | N/A |
+| 9 | [Andrew Garfield](http://twitter.com/search?q=Andrew+Garfield) | Andrew Garfield is an English actor. He is best known for his roles in films such as The Social Network, The Amazing Spider-Man, and Hacksaw Ridge. |
+| 10 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
+| 11 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
+| 12 | [Sharks](http://twitter.com/search?q=Sharks) | N/A |
+| 13 | [Jessica Chastain](http://twitter.com/search?q=Jessica+Chastain) | Jessica Chastain is an American actress and producer. She is known for her roles in films such as The Help, Zero Dark Thirty, Interstellar, and Molly's Game. Her name is derived from the Latin word "castus," which means pure or chaste. |
+| 14 | [Looney](http://twitter.com/search?q=Looney) | N/A |
+| 15 | [Kerr](http://twitter.com/search?q=Kerr) | N/A |
+| 16 | [Aubrey](http://twitter.com/search?q=Aubrey) | N/A |
+| 17 | [jenna](http://twitter.com/search?q=jenna) | Jenna is a female given name of Arabic origin, meaning “heaven” or “paradise”. |
+| 18 | [Keegan Murray](http://twitter.com/search?q=Keegan+Murray) | Keegan Murray is a name of Irish origin. It is derived from the Gaelic name Mac Aodhagáin, which means "son of Aodhagán". The name Aodhagán is derived from the Irish word for fire, aodh. Therefore, Keegan Murray can be translated to mean "son of fire". |
+| 19 | [Kuminga](http://twitter.com/search?q=Kuminga) | Kuminga is a given name of African origin, derived from the Kikuyu language of Kenya. It means "the one who comes first" or "the firstborn". |
+| 20 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 21 | [Vanderbilt](http://twitter.com/search?q=Vanderbilt) | N/A |
+| 22 | [Batum](http://twitter.com/search?q=Batum) | Batum is a city in Georgia, located on the coast of the Black Sea. It is the capital of the Autonomous Republic of Adjara and the largest city in the region. In English, Batum means "port" or "harbor". |
+| 23 | [Devils](http://twitter.com/search?q=Devils) | N/A |
+| 24 | [Vando](http://twitter.com/search?q=Vando) | N/A |
+| 25 | [Kyle Busch](http://twitter.com/search?q=Kyle+Busch) | N/A |
+| 26 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 27 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
+| 28 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
+| 29 | [#PokemonGO](http://twitter.com/search?q=%23PokemonGO) | N/A |
+| 30 | [Dubs](http://twitter.com/search?q=Dubs) | N/A |
+| 31 | [Dallas](http://twitter.com/search?q=Dallas) | Dallas is a city in the U.S. state of Texas. It is the ninth most populous city in the United States and the third-largest in Texas after Houston and San Antonio. The city's population ranks ninth in the U.S. and third in Texas after Houston and San Antonio. Dallas is known for its oil, telecommunications, banking, technology, healthcare, defense, transportation, and commerce industries. |
+| 32 | [De'Aaron Fox](http://twitter.com/search?q=De%27Aaron+Fox) | De'Aaron Fox is an American professional basketball player who currently plays for the Sacramento Kings of the National Basketball Association (NBA). His name is a combination of his parents' names, Deanna and Aaron. The name means "strong and wise" in English. |
+| 33 | [Ty Lue](http://twitter.com/search?q=Ty+Lue) | Ty Lue is the name of an American basketball coach and former player. He is currently the head coach of the Los Angeles Clippers of the National Basketball Association (NBA). The name "Ty Lue" is derived from his given name, Tyronn. |
+| 34 | [#SacramentoProud](http://twitter.com/search?q=%23SacramentoProud) | N/A |
+| 35 | [Reaves](http://twitter.com/search?q=Reaves) | Reaves is a surname of English origin. It is derived from the Old French word "reves," meaning "dreams." The name is thought to have been given to someone who was known for having prophetic dreams. |
+| 36 | [Adin](http://twitter.com/search?q=Adin) | Adin is a unisex name of Hebrew origin, meaning "noble" or "slender". |
+| 37 | [Wayne](http://twitter.com/search?q=Wayne) | Wayne is a masculine given name in English, derived from an Old English surname meaning "wagon maker" or "wagon driver". It is also used as a surname. |
+| 38 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
 | 39 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
-| 40 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
+| 40 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
 | 41 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
 | 42 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
-| 43 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
+| 43 | [Rockets](http://twitter.com/search?q=Rockets) | Rockets are a type of spacecraft used for space exploration and travel. They are powered by engines that use fuel to generate thrust, allowing them to move through the air or outer space. Rockets are used to launch satellites, transport people and cargo into space, and even explore other planets. The word "rocket" comes from the Latin word "rockete," which means "to shoot." |
 | 44 | [Jeannot](http://twitter.com/search?q=Jeannot) | N/A |
-| 45 | [James Hong](http://twitter.com/search?q=James+Hong) | N/A |
-| 46 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
-| 47 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
+| 45 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
+| 46 | [James Hong](http://twitter.com/search?q=James+Hong) | N/A |
+| 47 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
 | 48 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
 | 49 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
-| 50 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 50 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
 
 
 

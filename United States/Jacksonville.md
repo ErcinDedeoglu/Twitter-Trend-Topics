@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jacksonville
 
-📆 Last Updated: `2023-02-27 04:17:00 UTC`
+📆 Last Updated: `2023-02-27 05:16:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#GoBolts](http://twitter.com/search?q=%23GoBolts) | N/A |
-| 2 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
-| 3 | [Breaking Bad](http://twitter.com/search?q=Breaking+Bad) | N/A |
+| 2 | [Lightning](http://twitter.com/search?q=Lightning) | N/A |
+| 3 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
 | 4 | [Woody](http://twitter.com/search?q=Woody) | Woody is a slang term used to describe someone who is strong, tough, and determined. It can also be used to describe someone who is stubborn and unyielding. |
 | 5 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
 | 6 | [Wayne](http://twitter.com/search?q=Wayne) | Wayne is a masculine given name in English, derived from an Old English surname meaning "wagon maker" or "wagon driver". It is also used as a surname. |
-| 7 | [#XFL2023](http://twitter.com/search?q=%23XFL2023) | N/A |
-| 8 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 9 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
-| 10 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
-| 11 | [#SAGAwards](http://twitter.com/search?q=%23SAGAwards) | N/A |
+| 7 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
+| 8 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
+| 9 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 10 | [#RHOP](http://twitter.com/search?q=%23RHOP) | #RHOP stands for The Real Housewives of Potomac, which is a reality television series that airs on the Bravo network. It follows the lives of six women living in Potomac, Maryland, as they navigate their personal and professional lives. |
+| 11 | [#TLOU](http://twitter.com/search?q=%23TLOU) | #TLOU is an acronym for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is a post-apocalyptic action-adventure survival horror game set in the United States. The game follows the story of Joel and Ellie as they traverse a post-apocalyptic world filled with hostile humans and cannibalistic creatures known as the Infected. |
 | 12 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
 | 13 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
-| 14 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
+| 14 | [Rockets](http://twitter.com/search?q=Rockets) | Rockets are a type of spacecraft used for space exploration and travel. They are powered by engines that use fuel to generate thrust, allowing them to move through the air or outer space. Rockets are used to launch satellites, transport people and cargo into space, and even explore other planets. The word "rocket" comes from the Latin word "rockete," which means "to shoot." |
 | 15 | [Jeannot](http://twitter.com/search?q=Jeannot) | N/A |
-| 16 | [James Hong](http://twitter.com/search?q=James+Hong) | N/A |
-| 17 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
-| 18 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
+| 16 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
+| 17 | [James Hong](http://twitter.com/search?q=James+Hong) | N/A |
+| 18 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
 | 19 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
 | 20 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
-| 21 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 22 | [Naz Reid](http://twitter.com/search?q=Naz+Reid) | Naz Reid is a professional basketball player who currently plays for the Minnesota Timberwolves of the National Basketball Association (NBA). His name is a combination of his first name, Naz, and his middle name, Reid. The name Naz Reid is derived from his full name, Nazareth Reid. |
-| 23 | [Left Behind](http://twitter.com/search?q=Left+Behind) | N/A |
-| 24 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
-| 25 | [Sally Field](http://twitter.com/search?q=Sally+Field) | N/A |
-| 26 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
-| 27 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
-| 28 | [Eubanks](http://twitter.com/search?q=Eubanks) | N/A |
-| 29 | [Sounders](http://twitter.com/search?q=Sounders) | Sounders is the name of a Major League Soccer (MLS) team based in Seattle, Washington. The team was founded in 2007 and plays its home games at CenturyLink Field. The name Sounders is derived from the maritime tradition of the Puget Sound region, and refers to the sound of a foghorn or whistle used to signal ships. |
-| 30 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
-| 31 | [Storm Reid](http://twitter.com/search?q=Storm+Reid) | N/A |
-| 32 | [Rockets](http://twitter.com/search?q=Rockets) | Rockets are a type of spacecraft used for space exploration and travel. They are powered by engines that use fuel to generate thrust, allowing them to move through the air or outer space. Rockets are used to launch satellites, transport people and cargo into space, and even explore other planets. The word "rocket" comes from the Latin word "rockete," which means "to shoot." |
-| 33 | [kevin hart](http://twitter.com/search?q=kevin+hart) | N/A |
-| 34 | [Timberwolves](http://twitter.com/search?q=Timberwolves) | Timberwolves is a nickname for the Minnesota Timberwolves, a professional basketball team based in Minneapolis, Minnesota. The name was chosen to reflect the state's rich history of logging and timber production. |
-| 35 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
-| 36 | [Stunna](http://twitter.com/search?q=Stunna) | Stunna is a slang term used to describe someone who is confident and stylish. It can also be used to describe someone who is bold and daring. The term comes from the phrase "stunna shades," which refers to a type of sunglasses that are popular among hip-hop artists. |
-| 37 | [Donte](http://twitter.com/search?q=Donte) | Donte is a given name of Italian origin, derived from the Latin name "Donatus". It is a variant of the name "Donato" and can be translated to mean "given" or "gift". |
-| 38 | [Candiace](http://twitter.com/search?q=Candiace) | Candiace is a female given name of Latin origin, derived from the word "candidus" meaning "bright" or "shining". |
-| 39 | [Mark Wahlberg](http://twitter.com/search?q=Mark+Wahlberg) | N/A |
-| 40 | [Oscars](http://twitter.com/search?q=Oscars) | Oscars is short for the Academy Awards, which are annual awards given out by the Academy of Motion Picture Arts and Sciences to recognize excellence in the film industry. The awards are presented in 24 categories, including Best Picture, Best Director, Best Actor, and Best Actress. |
-| 41 | [Jennifer Coolidge](http://twitter.com/search?q=Jennifer+Coolidge) | Jennifer Coolidge is an American actress and comedian. She is best known for her roles in the films Legally Blonde, American Pie, and Best in Show. She has also appeared in television shows such as Friends, Seinfeld, and 2 Broke Girls. |
-| 42 | [Morty](http://twitter.com/search?q=Morty) | Morty is a nickname for the given name Mortimer, which is of English origin and means "dead sea". It can also be used as a diminutive form of the name Mortimer. |
-| 43 | [Just Like Heaven](http://twitter.com/search?q=Just+Like+Heaven) | N/A |
-| 44 | [Austin Rivers](http://twitter.com/search?q=Austin+Rivers) | Austin Rivers is an American professional basketball player who currently plays for the Houston Rockets of the National Basketball Association (NBA). His name is derived from his father, Doc Rivers, who is also a professional basketball coach. The name Austin Rivers means "from the river of Austin," referring to the city of Austin, Texas. |
-| 45 | [Women Are Talking](http://twitter.com/search?q=Women+Are+Talking) | N/A |
-| 46 | [Oklahoma](http://twitter.com/search?q=Oklahoma) | N/A |
-| 47 | [Stephanie Hsu](http://twitter.com/search?q=Stephanie+Hsu) | Stephanie Hsu is a Taiwanese-American actress and singer. She is best known for her roles in the Broadway musicals Be More Chill and SpongeBob SquarePants: The Musical. Her name means "graceful lily" in Chinese. |
-| 48 | [Meier](http://twitter.com/search?q=Meier) | N/A |
-| 49 | [Bones Hyland](http://twitter.com/search?q=Bones+Hyland) | N/A |
-| 50 | [Cal Foote](http://twitter.com/search?q=Cal+Foote) | N/A |
+| 21 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
+| 22 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 23 | [Wilt](http://twitter.com/search?q=Wilt) | N/A |
+| 24 | [Blazers](http://twitter.com/search?q=Blazers) | Blazers are a type of jacket, typically with a single row of buttons and a notched lapel. They are usually made from wool or cotton and can be worn as part of a suit or as a separate item. Blazers are often associated with formal occasions, but they can also be worn casually. |
+| 25 | [Left Behind](http://twitter.com/search?q=Left+Behind) | N/A |
+| 26 | [Naz Reid](http://twitter.com/search?q=Naz+Reid) | Naz Reid is a professional basketball player who currently plays for the Minnesota Timberwolves of the National Basketball Association (NBA). His name is a combination of his first name, Naz, and his middle name, Reid. The name Naz Reid is derived from his full name, Nazareth Reid. |
+| 27 | [kevin hart](http://twitter.com/search?q=kevin+hart) | N/A |
+| 28 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
+| 29 | [Kobe's 81](http://twitter.com/search?q=Kobe%27s+81) | N/A |
+| 30 | [71 POINTS](http://twitter.com/search?q=71+POINTS) | 71 Points is a Japanese game show that aired from 2004 to 2006. The show featured two teams of three players competing against each other in a series of physical and mental challenges. The team with the most points at the end of the game won. The name of the show comes from the fact that each challenge was worth 71 points. |
+| 31 | [Sally Field](http://twitter.com/search?q=Sally+Field) | N/A |
+| 32 | [Silas](http://twitter.com/search?q=Silas) | N/A |
+| 33 | [Storm Reid](http://twitter.com/search?q=Storm+Reid) | N/A |
+| 34 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
+| 35 | [Morty](http://twitter.com/search?q=Morty) | Morty is a nickname for the given name Mortimer, which is of English origin and means "dead sea". It can also be used as a diminutive form of the name Mortimer. |
+| 36 | [Thomas Bryant](http://twitter.com/search?q=Thomas+Bryant) | Thomas Bryant is a name. It is of English origin and means "twin". |
+| 37 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
+| 38 | [Two 70](http://twitter.com/search?q=Two+70) | N/A |
+| 39 | [Stunna](http://twitter.com/search?q=Stunna) | Stunna is a slang term used to describe someone who is confident and stylish. It can also be used to describe someone who is bold and daring. The term comes from the phrase "stunna shades," which refers to a type of sunglasses that are popular among hip-hop artists. |
+| 40 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
+| 41 | [Just Like Heaven](http://twitter.com/search?q=Just+Like+Heaven) | N/A |
+| 42 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
+| 43 | [Episode 7](http://twitter.com/search?q=Episode+7) | N/A |
+| 44 | [Sounders](http://twitter.com/search?q=Sounders) | Sounders is the name of a Major League Soccer (MLS) team based in Seattle, Washington. The team was founded in 2007 and plays its home games at CenturyLink Field. The name Sounders is derived from the maritime tradition of the Puget Sound region, and refers to the sound of a foghorn or whistle used to signal ships. |
+| 45 | [Oklahoma](http://twitter.com/search?q=Oklahoma) | N/A |
+| 46 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
+| 47 | [Sengun](http://twitter.com/search?q=Sengun) | Sengun is a Japanese term that refers to the Imperial Japanese Army during World War II. It literally translates to "war-supporting army" and was used to describe the Japanese military forces that fought in the war. |
+| 48 | [Eubanks](http://twitter.com/search?q=Eubanks) | N/A |
+| 49 | [Candiace](http://twitter.com/search?q=Candiace) | Candiace is a female given name of Latin origin, derived from the word "candidus" meaning "bright" or "shining". |
+| 50 | [Bones Hyland](http://twitter.com/search?q=Bones+Hyland) | N/A |
 
 
 

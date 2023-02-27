@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Buenos Aires
 
-📆 Last Updated: `2023-02-27 04:16:29 UTC`
+📆 Last Updated: `2023-02-27 05:16:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Argentina](</Argentina>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [big time rush](http://twitter.com/search?q=big+time+rush) | N/A |
-| 2 | [Valen](http://twitter.com/search?q=Valen) | N/A |
-| 3 | [#GranHernano](http://twitter.com/search?q=%23GranHernano) | N/A |
-| 4 | [Monumental](http://twitter.com/search?q=Monumental) | N/A |
-| 5 | [Leal](http://twitter.com/search?q=Leal) | N/A |
-| 6 | [De la Cruz](http://twitter.com/search?q=De+la+Cruz) | N/A |
-| 7 | [Barco](http://twitter.com/search?q=Barco) | N/A |
-| 8 | [Blanco](http://twitter.com/search?q=Blanco) | Blanco is a Spanish word meaning "white" or "blank". It is often used to describe a white color, such as the color of paper or a wall. It can also be used to refer to something that is empty or without content. |
-| 9 | [Brito](http://twitter.com/search?q=Brito) | N/A |
-| 10 | [Juliana](http://twitter.com/search?q=Juliana) | Juliana is a female given name of Latin origin, derived from the name Julius. It means "youthful" or "downy-bearded". |
-| 11 | [Otamendi](http://twitter.com/search?q=Otamendi) | N/A |
-| 12 | [Fabiola](http://twitter.com/search?q=Fabiola) | N/A |
-| 13 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
-| 14 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 15 | [#ACOMODACHO](http://twitter.com/search?q=%23ACOMODACHO) | N/A |
-| 16 | [Gladys](http://twitter.com/search?q=Gladys) | N/A |
-| 17 | [Independiente](http://twitter.com/search?q=Independiente) | Independiente is a term used to refer to someone or something that is independent, autonomous, and self-governing. In English, it can be translated as "independent" or "self-reliant". |
-| 18 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
-| 19 | [Banfield](http://twitter.com/search?q=Banfield) | N/A |
-| 20 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 21 | [Tora](http://twitter.com/search?q=Tora) | Tora is a Japanese word meaning "tiger". It is often used as a nickname for someone who is strong and brave. |
-| 22 | [Heinze](http://twitter.com/search?q=Heinze) | N/A |
-| 23 | [Delfino](http://twitter.com/search?q=Delfino) | N/A |
-| 24 | [Demichelis](http://twitter.com/search?q=Demichelis) | Demichelis is a surname of Italian origin. It is derived from the given name Michelangelo, which means "angel of God". In English, the name Demichelis can be translated to mean "God's angel". |
-| 25 | [Borro](http://twitter.com/search?q=Borro) | N/A |
-| 26 | [Borja](http://twitter.com/search?q=Borja) | Borja is a Spanish name derived from the Latin name "Burgus," which means "fortress." It is also the name of several towns in Spain, including Borja in Zaragoza. In English, it can be translated to mean "fortified town." |
-| 27 | [Cauteruccio](http://twitter.com/search?q=Cauteruccio) | N/A |
-| 28 | [Cazares](http://twitter.com/search?q=Cazares) | N/A |
-| 29 | [Mansilla](http://twitter.com/search?q=Mansilla) | N/A |
-| 30 | [Che García](http://twitter.com/search?q=Che+Garc%c3%ada) | N/A |
-| 31 | [Laso](http://twitter.com/search?q=Laso) | N/A |
-| 32 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 33 | [Stillitano](http://twitter.com/search?q=Stillitano) | N/A |
+| 1 | [#GranHernano](http://twitter.com/search?q=%23GranHernano) | N/A |
+| 2 | [Barco](http://twitter.com/search?q=Barco) | N/A |
+| 3 | [Brito](http://twitter.com/search?q=Brito) | N/A |
+| 4 | [Blanco](http://twitter.com/search?q=Blanco) | Blanco is a Spanish word meaning "white" or "blank". It is often used to describe a white color, such as the color of paper or a wall. It can also be used to refer to something that is empty or without content. |
+| 5 | [Monumental](http://twitter.com/search?q=Monumental) | N/A |
+| 6 | [Juliana](http://twitter.com/search?q=Juliana) | Juliana is a female given name of Latin origin, derived from the name Julius. It means "youthful" or "downy-bearded". |
+| 7 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 8 | [#ACOMODACHO](http://twitter.com/search?q=%23ACOMODACHO) | N/A |
+| 9 | [Independiente](http://twitter.com/search?q=Independiente) | Independiente is a term used to refer to someone or something that is independent, autonomous, and self-governing. In English, it can be translated as "independent" or "self-reliant". |
+| 10 | [Gladys](http://twitter.com/search?q=Gladys) | N/A |
+| 11 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
+| 12 | [Banfield](http://twitter.com/search?q=Banfield) | N/A |
+| 13 | [Tora](http://twitter.com/search?q=Tora) | Tora is a Japanese word meaning "tiger". It is often used as a nickname for someone who is strong and brave. |
+| 14 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 15 | [Borro](http://twitter.com/search?q=Borro) | N/A |
+| 16 | [Heinze](http://twitter.com/search?q=Heinze) | N/A |
+| 17 | [Delfino](http://twitter.com/search?q=Delfino) | N/A |
+| 18 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 19 | [Demichelis](http://twitter.com/search?q=Demichelis) | Demichelis is a surname of Italian origin. It is derived from the given name Michelangelo, which means "angel of God". In English, the name Demichelis can be translated to mean "God's angel". |
+| 20 | [Cauteruccio](http://twitter.com/search?q=Cauteruccio) | N/A |
+| 21 | [Lillard](http://twitter.com/search?q=Lillard) | N/A |
+| 22 | [Mansilla](http://twitter.com/search?q=Mansilla) | N/A |
+| 23 | [Che García](http://twitter.com/search?q=Che+Garc%c3%ada) | N/A |
+| 24 | [Borja](http://twitter.com/search?q=Borja) | Borja is a Spanish name derived from the Latin name "Burgus," which means "fortress." It is also the name of several towns in Spain, including Borja in Zaragoza. In English, it can be translated to mean "fortified town." |
+| 25 | [Cazares](http://twitter.com/search?q=Cazares) | N/A |
+| 26 | [CABB](http://twitter.com/search?q=CABB) | N/A |
+| 27 | [Stillitano](http://twitter.com/search?q=Stillitano) | N/A |
+| 28 | [Hidalgo](http://twitter.com/search?q=Hidalgo) | N/A |
+| 29 | [Laso](http://twitter.com/search?q=Laso) | N/A |
+| 30 | [Rodo](http://twitter.com/search?q=Rodo) | N/A |
+| 31 | [Dominicana](http://twitter.com/search?q=Dominicana) | Dominicana is the Spanish word for Dominican Republic, a Caribbean nation located on the island of Hispaniola. It is bordered by Haiti to the west and the Atlantic Ocean to the north and east. The Dominican Republic is known for its beautiful beaches, lush rainforests, and vibrant culture. |
+| 32 | [Tinder](http://twitter.com/search?q=Tinder) | N/A |
+| 33 | [Instituto](http://twitter.com/search?q=Instituto) | N/A |
 | 34 | [Marcone](http://twitter.com/search?q=Marcone) | Marcone is a Portuguese surname derived from the Latin name Marcus. It is a common surname in Portugal, Brazil, and other countries with Portuguese heritage. In English, it can be translated to mean "son of Marcus". |
-| 35 | [CABB](http://twitter.com/search?q=CABB) | N/A |
-| 36 | [Rodo](http://twitter.com/search?q=Rodo) | N/A |
-| 37 | [Hidalgo](http://twitter.com/search?q=Hidalgo) | N/A |
+| 35 | [Falcioni](http://twitter.com/search?q=Falcioni) | N/A |
+| 36 | [Newell](http://twitter.com/search?q=Newell) | N/A |
+| 37 | [Prigioni](http://twitter.com/search?q=Prigioni) | N/A |
 | 38 | [Rondón](http://twitter.com/search?q=Rond%c3%b3n) | N/A |
-| 39 | [Newell](http://twitter.com/search?q=Newell) | N/A |
-| 40 | [Falcioni](http://twitter.com/search?q=Falcioni) | N/A |
-| 41 | [Barreto](http://twitter.com/search?q=Barreto) | N/A |
-| 42 | [Dominicana](http://twitter.com/search?q=Dominicana) | Dominicana is the Spanish word for Dominican Republic, a Caribbean nation located on the island of Hispaniola. It is bordered by Haiti to the west and the Atlantic Ocean to the north and east. The Dominican Republic is known for its beautiful beaches, lush rainforests, and vibrant culture. |
-| 43 | [Instituto](http://twitter.com/search?q=Instituto) | N/A |
-| 44 | [Prigioni](http://twitter.com/search?q=Prigioni) | N/A |
-| 45 | [Aguirre](http://twitter.com/search?q=Aguirre) | Aguirre is a Spanish surname derived from the Basque word "aguirre" meaning "wolf". It is also a place name in Spain, and may refer to Aguirre, Navarre, a municipality in the province of Navarre. |
-| 46 | [Campazzo](http://twitter.com/search?q=Campazzo) | N/A |
-| 47 | [Hoyos](http://twitter.com/search?q=Hoyos) | Hoyos is a Spanish word meaning "holes". It can refer to physical holes in the ground or figuratively to a situation that is difficult to get out of. |
-| 48 | [#CanibalesEnC5N](http://twitter.com/search?q=%23CanibalesEnC5N) | N/A |
-| 49 | [tinder](http://twitter.com/search?q=tinder) | N/A |
-| 50 | [Palavecino](http://twitter.com/search?q=Palavecino) | N/A |
+| 39 | [#TLOU](http://twitter.com/search?q=%23TLOU) | #TLOU is an acronym for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is a post-apocalyptic action-adventure survival horror game set in the United States. The game follows the story of Joel and Ellie as they traverse a post-apocalyptic world filled with hostile humans and cannibalistic creatures known as the Infected. |
+| 40 | [Aguirre](http://twitter.com/search?q=Aguirre) | Aguirre is a Spanish surname derived from the Basque word "aguirre" meaning "wolf". It is also a place name in Spain, and may refer to Aguirre, Navarre, a municipality in the province of Navarre. |
+| 41 | [Campazzo](http://twitter.com/search?q=Campazzo) | N/A |
+| 42 | [Barreto](http://twitter.com/search?q=Barreto) | N/A |
+| 43 | [Palavecino](http://twitter.com/search?q=Palavecino) | N/A |
+| 44 | [#CanibalesEnC5N](http://twitter.com/search?q=%23CanibalesEnC5N) | N/A |
+| 45 | [Hoyos](http://twitter.com/search?q=Hoyos) | Hoyos is a Spanish word meaning "holes". It can refer to physical holes in the ground or figuratively to a situation that is difficult to get out of. |
+| 46 | [Reasco](http://twitter.com/search?q=Reasco) | N/A |
+| 47 | [big time rush](http://twitter.com/search?q=big+time+rush) | N/A |
+| 48 | [Recalde](http://twitter.com/search?q=Recalde) | N/A |
+| 49 | [Solari](http://twitter.com/search?q=Solari) | Solari is a Latin word meaning “of the sun”. It is often used to refer to things related to the sun, such as solar energy or solar power. It can also be used as a surname, particularly in Italy. |
+| 50 | [Laprovittola](http://twitter.com/search?q=Laprovittola) | N/A |
 
 
 
