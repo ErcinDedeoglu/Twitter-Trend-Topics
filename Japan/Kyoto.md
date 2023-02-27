@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kyoto
 
-📆 Last Updated: `2023-02-27 09:17:24 UTC`
+📆 Last Updated: `2023-02-27 10:16:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Japan](</Japan>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [カブトボーグ](http://twitter.com/search?q=%e3%82%ab%e3%83%96%e3%83%88%e3%83%9c%e3%83%bc%e3%82%b0) | N/A |
-| 2 | [ザシアン](http://twitter.com/search?q=%e3%82%b6%e3%82%b7%e3%82%a2%e3%83%b3) | N/A |
-| 3 | [リュウセイさん](http://twitter.com/search?q=%e3%83%aa%e3%83%a5%e3%82%a6%e3%82%bb%e3%82%a4%e3%81%95%e3%82%93) | N/A |
-| 4 | [ベネット](http://twitter.com/search?q=%e3%83%99%e3%83%8d%e3%83%83%e3%83%88) | N/A |
-| 5 | [ツイステ](http://twitter.com/search?q=%e3%83%84%e3%82%a4%e3%82%b9%e3%83%86) | N/A |
-| 6 | [マレウス](http://twitter.com/search?q=%e3%83%9e%e3%83%ac%e3%82%a6%e3%82%b9) | N/A |
-| 7 | [松本パルコ](http://twitter.com/search?q=%e6%9d%be%e6%9c%ac%e3%83%91%e3%83%ab%e3%82%b3) | N/A |
-| 8 | [YOLO-konde](http://twitter.com/search?q=YOLO-konde) | N/A |
-| 9 | [公用スマホ](http://twitter.com/search?q=%e5%85%ac%e7%94%a8%e3%82%b9%e3%83%9e%e3%83%9b) | N/A |
-| 10 | [#ヒロアカ最終決戦チャレンジ](http://twitter.com/search?q=%23%e3%83%92%e3%83%ad%e3%82%a2%e3%82%ab%e6%9c%80%e7%b5%82%e6%b1%ba%e6%88%a6%e3%83%81%e3%83%a3%e3%83%ac%e3%83%b3%e3%82%b8) | #ヒロアカ最終決戦チャレンジ is a hashtag used by fans of the manga and anime series My Hero Academia. It translates to "My Hero Academia Final Showdown Challenge" and is used to share fan art, cosplay, and other content related to the series. |
-| 11 | [トムキャットレッドビートル](http://twitter.com/search?q=%e3%83%88%e3%83%a0%e3%82%ad%e3%83%a3%e3%83%83%e3%83%88%e3%83%ac%e3%83%83%e3%83%89%e3%83%93%e3%83%bc%e3%83%88%e3%83%ab) | N/A |
-| 12 | [#MEGADETH](http://twitter.com/search?q=%23MEGADETH) | N/A |
-| 13 | [コミュニティカップ](http://twitter.com/search?q=%e3%82%b3%e3%83%9f%e3%83%a5%e3%83%8b%e3%83%86%e3%82%a3%e3%82%ab%e3%83%83%e3%83%97) | N/A |
-| 14 | [ツノ太郎](http://twitter.com/search?q=%e3%83%84%e3%83%8e%e5%a4%aa%e9%83%8e) | ツノ太郎 is a Japanese name meaning "Tsuno Taro". It is composed of two characters: "ツノ" (tsuno) which means "horn" and "太郎" (Taro) which is a common suffix for male names. The name can be translated to mean "Horned Taro". |
-| 15 | [#HOTJAPAN](http://twitter.com/search?q=%23HOTJAPAN) | N/A |
-| 16 | [到達距離](http://twitter.com/search?q=%e5%88%b0%e9%81%94%e8%b7%9d%e9%9b%a2) | 到達距離 (dàodá jùlí) is a Chinese phrase that translates to “distance to destination” in English. It is used to refer to the distance between two points, usually in terms of travel. |
-| 17 | [鞠莉の謎解き成功](http://twitter.com/search?q=%e9%9e%a0%e8%8e%89%e3%81%ae%e8%ac%8e%e8%a7%a3%e3%81%8d%e6%88%90%e5%8a%9f) | N/A |
-| 18 | [ピアノ組](http://twitter.com/search?q=%e3%83%94%e3%82%a2%e3%83%8e%e7%b5%84) | N/A |
-| 19 | [ヘルシェイク矢野](http://twitter.com/search?q=%e3%83%98%e3%83%ab%e3%82%b7%e3%82%a7%e3%82%a4%e3%82%af%e7%9f%a2%e9%87%8e) | ヘルシェイク矢野 is a Japanese phrase that translates to "Yano of Hellshake". It is the name of a Japanese rock band formed in the late 1980s. The band's music is a mix of hard rock, punk, and metal. |
-| 20 | [TikTok禁止](http://twitter.com/search?q=TikTok%e7%a6%81%e6%ad%a2) | N/A |
-| 21 | [#僕のヒーローアカデミア](http://twitter.com/search?q=%23%e5%83%95%e3%81%ae%e3%83%92%e3%83%bc%e3%83%ad%e3%83%bc%e3%82%a2%e3%82%ab%e3%83%87%e3%83%9f%e3%82%a2) | #僕のヒーローアカデミア is the title of a popular Japanese manga and anime series. The English translation of the title is My Hero Academia. The series follows the story of Izuku Midoriya, a young boy who dreams of becoming a superhero despite having no superpowers of his own. |
-| 22 | [#このファン3周年](http://twitter.com/search?q=%23%e3%81%93%e3%81%ae%e3%83%95%e3%82%a1%e3%83%b33%e5%91%a8%e5%b9%b4) | N/A |
-| 23 | [とうらぶエラー](http://twitter.com/search?q=%e3%81%a8%e3%81%86%e3%82%89%e3%81%b6%e3%82%a8%e3%83%a9%e3%83%bc) | N/A |
-| 24 | [MAGIC3](http://twitter.com/search?q=MAGIC3) | N/A |
-| 25 | [暴行疑い](http://twitter.com/search?q=%e6%9a%b4%e8%a1%8c%e7%96%91%e3%81%84) | N/A |
-| 26 | [藍沢先生](http://twitter.com/search?q=%e8%97%8d%e6%b2%a2%e5%85%88%e7%94%9f) | N/A |
-| 27 | [リリアちゃん](http://twitter.com/search?q=%e3%83%aa%e3%83%aa%e3%82%a2%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 28 | [市立船橋高](http://twitter.com/search?q=%e5%b8%82%e7%ab%8b%e8%88%b9%e6%a9%8b%e9%ab%98) | N/A |
-| 29 | [NEBUTA in AOMORI](http://twitter.com/search?q=NEBUTA+in+AOMORI) | N/A |
-| 30 | [和田岬線](http://twitter.com/search?q=%e5%92%8c%e7%94%b0%e5%b2%ac%e7%b7%9a) | N/A |
-| 31 | [到達記録](http://twitter.com/search?q=%e5%88%b0%e9%81%94%e8%a8%98%e9%8c%b2) | 到達記録 (tōtatsu kiroku) is a Japanese term that translates to “arrival record”. It is used to refer to a record of the arrival times of people or goods at a certain location. |
-| 32 | [公用端末](http://twitter.com/search?q=%e5%85%ac%e7%94%a8%e7%ab%af%e6%9c%ab) | N/A |
-| 33 | [難聴11歳女児の逸失利益](http://twitter.com/search?q=%e9%9b%a3%e8%81%b411%e6%ad%b3%e5%a5%b3%e5%85%90%e3%81%ae%e9%80%b8%e5%a4%b1%e5%88%a9%e7%9b%8a) | N/A |
-| 34 | [確定天井](http://twitter.com/search?q=%e7%a2%ba%e5%ae%9a%e5%a4%a9%e4%ba%95) | N/A |
-| 35 | [Wのビジュ](http://twitter.com/search?q=W%e3%81%ae%e3%83%93%e3%82%b8%e3%83%a5) | N/A |
-| 36 | [パソスト](http://twitter.com/search?q=%e3%83%91%e3%82%bd%e3%82%b9%e3%83%88) | N/A |
-| 37 | [チャージ3回](http://twitter.com/search?q=%e3%83%81%e3%83%a3%e3%83%bc%e3%82%b83%e5%9b%9e) | N/A |
-| 38 | [死亡事故巡り大阪地裁](http://twitter.com/search?q=%e6%ad%bb%e4%ba%a1%e4%ba%8b%e6%95%85%e5%b7%a1%e3%82%8a%e5%a4%a7%e9%98%aa%e5%9c%b0%e8%a3%81) | N/A |
-| 39 | [フリーエントリー](http://twitter.com/search?q=%e3%83%95%e3%83%aa%e3%83%bc%e3%82%a8%e3%83%b3%e3%83%88%e3%83%aa%e3%83%bc) | N/A |
-| 40 | [リンバス](http://twitter.com/search?q=%e3%83%aa%e3%83%b3%e3%83%90%e3%82%b9) | N/A |
-| 41 | [スキン大会](http://twitter.com/search?q=%e3%82%b9%e3%82%ad%e3%83%b3%e5%a4%a7%e4%bc%9a) | N/A |
-| 42 | [ボーグバトル](http://twitter.com/search?q=%e3%83%9c%e3%83%bc%e3%82%b0%e3%83%90%e3%83%88%e3%83%ab) | N/A |
-| 43 | [キッザニア](http://twitter.com/search?q=%e3%82%ad%e3%83%83%e3%82%b6%e3%83%8b%e3%82%a2) | N/A |
-| 44 | [チャレンジ成功](http://twitter.com/search?q=%e3%83%81%e3%83%a3%e3%83%ac%e3%83%b3%e3%82%b8%e6%88%90%e5%8a%9f) | チャレンジ成功 is a Japanese phrase that translates to "challenge success" in English. It is used to express the feeling of accomplishment after successfully completing a challenge or task. |
-| 45 | [パレード](http://twitter.com/search?q=%e3%83%91%e3%83%ac%e3%83%bc%e3%83%89) | パレード (Pareedo) is a Japanese word meaning "parade". It is used to refer to a procession of people or vehicles, usually accompanied by music, that moves along a street or other public area. It can also refer to a festive event featuring marching bands, floats, and other entertainment. |
-| 46 | [水際対策](http://twitter.com/search?q=%e6%b0%b4%e9%9a%9b%e5%af%be%e7%ad%96) | 水際対策 (suigai taisaku) is a Japanese term that translates to “measures against the shoreline”. It refers to measures taken to protect coastal areas from natural disasters such as floods, storms, and tsunamis. These measures can include the construction of seawalls, levees, and other protective structures. |
-| 47 | [chapter2](http://twitter.com/search?q=chapter2) | N/A |
-| 48 | [髪ごと引きずり](http://twitter.com/search?q=%e9%ab%aa%e3%81%94%e3%81%a8%e5%bc%95%e3%81%8d%e3%81%9a%e3%82%8a) | N/A |
-| 49 | [デルミン](http://twitter.com/search?q=%e3%83%87%e3%83%ab%e3%83%9f%e3%83%b3) | N/A |
-| 50 | [コオロギ太郎](http://twitter.com/search?q=%e3%82%b3%e3%82%aa%e3%83%ad%e3%82%ae%e5%a4%aa%e9%83%8e) | N/A |
+| 2 | [#祝ミリオンライブ10周年](http://twitter.com/search?q=%23%e7%a5%9d%e3%83%9f%e3%83%aa%e3%82%aa%e3%83%b3%e3%83%a9%e3%82%a4%e3%83%9610%e5%91%a8%e5%b9%b4) | N/A |
+| 3 | [#HOTJAPAN](http://twitter.com/search?q=%23HOTJAPAN) | N/A |
+| 4 | [ザシアン](http://twitter.com/search?q=%e3%82%b6%e3%82%b7%e3%82%a2%e3%83%b3) | N/A |
+| 5 | [#イオンカードライブ](http://twitter.com/search?q=%23%e3%82%a4%e3%82%aa%e3%83%b3%e3%82%ab%e3%83%bc%e3%83%89%e3%83%a9%e3%82%a4%e3%83%96) | N/A |
+| 6 | [リュウセイさん](http://twitter.com/search?q=%e3%83%aa%e3%83%a5%e3%82%a6%e3%82%bb%e3%82%a4%e3%81%95%e3%82%93) | N/A |
+| 7 | [#CDTVライブライブ](http://twitter.com/search?q=%23CDTV%e3%83%a9%e3%82%a4%e3%83%96%e3%83%a9%e3%82%a4%e3%83%96) | #CDTVライブライブ is a hashtag used on Twitter to refer to the Japanese music program "Countdown TV Live Live". It is a weekly music show that airs on the Japanese television network TBS. The show features live performances from popular Japanese artists and bands. |
+| 8 | [ツイステ](http://twitter.com/search?q=%e3%83%84%e3%82%a4%e3%82%b9%e3%83%86) | N/A |
+| 9 | [YOLO-konde](http://twitter.com/search?q=YOLO-konde) | N/A |
+| 10 | [#わたしの幸せな結婚](http://twitter.com/search?q=%23%e3%82%8f%e3%81%9f%e3%81%97%e3%81%ae%e5%b9%b8%e3%81%9b%e3%81%aa%e7%b5%90%e5%a9%9a) | N/A |
+| 11 | [WANDS](http://twitter.com/search?q=WANDS) | N/A |
+| 12 | [マレウス](http://twitter.com/search?q=%e3%83%9e%e3%83%ac%e3%82%a6%e3%82%b9) | N/A |
+| 13 | [松本パルコ](http://twitter.com/search?q=%e6%9d%be%e6%9c%ac%e3%83%91%e3%83%ab%e3%82%b3) | N/A |
+| 14 | [トムキャットレッドビートル](http://twitter.com/search?q=%e3%83%88%e3%83%a0%e3%82%ad%e3%83%a3%e3%83%83%e3%83%88%e3%83%ac%e3%83%83%e3%83%89%e3%83%93%e3%83%bc%e3%83%88%e3%83%ab) | N/A |
+| 15 | [NEBUTA in AOMORI](http://twitter.com/search?q=NEBUTA+in+AOMORI) | N/A |
+| 16 | [ツノ太郎](http://twitter.com/search?q=%e3%83%84%e3%83%8e%e5%a4%aa%e9%83%8e) | ツノ太郎 is a Japanese name meaning "Tsuno Taro". It is composed of two characters: "ツノ" (tsuno) which means "horn" and "太郎" (Taro) which is a common suffix for male names. The name can be translated to mean "Horned Taro". |
+| 17 | [ベネット](http://twitter.com/search?q=%e3%83%99%e3%83%8d%e3%83%83%e3%83%88) | N/A |
+| 18 | [GAOさん](http://twitter.com/search?q=GAO%e3%81%95%e3%82%93) | N/A |
+| 19 | [金星と木星](http://twitter.com/search?q=%e9%87%91%e6%98%9f%e3%81%a8%e6%9c%a8%e6%98%9f) | N/A |
+| 20 | [オバブロ](http://twitter.com/search?q=%e3%82%aa%e3%83%90%e3%83%96%e3%83%ad) | N/A |
+| 21 | [チャージ3回](http://twitter.com/search?q=%e3%83%81%e3%83%a3%e3%83%bc%e3%82%b83%e5%9b%9e) | N/A |
+| 22 | [フリーエントリー](http://twitter.com/search?q=%e3%83%95%e3%83%aa%e3%83%bc%e3%82%a8%e3%83%b3%e3%83%88%e3%83%aa%e3%83%bc) | N/A |
+| 23 | [木星と金星](http://twitter.com/search?q=%e6%9c%a8%e6%98%9f%e3%81%a8%e9%87%91%e6%98%9f) | N/A |
+| 24 | [逸失利益](http://twitter.com/search?q=%e9%80%b8%e5%a4%b1%e5%88%a9%e7%9b%8a) | N/A |
+| 25 | [藍沢先生](http://twitter.com/search?q=%e8%97%8d%e6%b2%a2%e5%85%88%e7%94%9f) | N/A |
+| 26 | [リリアちゃん](http://twitter.com/search?q=%e3%83%aa%e3%83%aa%e3%82%a2%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 27 | [ボーグバトル](http://twitter.com/search?q=%e3%83%9c%e3%83%bc%e3%82%b0%e3%83%90%e3%83%88%e3%83%ab) | N/A |
+| 28 | [本当のハッピーエンド](http://twitter.com/search?q=%e6%9c%ac%e5%bd%93%e3%81%ae%e3%83%8f%e3%83%83%e3%83%94%e3%83%bc%e3%82%a8%e3%83%b3%e3%83%89) | N/A |
+| 29 | [到達距離](http://twitter.com/search?q=%e5%88%b0%e9%81%94%e8%b7%9d%e9%9b%a2) | 到達距離 (dàodá jùlí) is a Chinese phrase that translates to “distance to destination” in English. It is used to refer to the distance between two points, usually in terms of travel. |
+| 30 | [ノーオプションバトル](http://twitter.com/search?q=%e3%83%8e%e3%83%bc%e3%82%aa%e3%83%97%e3%82%b7%e3%83%a7%e3%83%b3%e3%83%90%e3%83%88%e3%83%ab) | N/A |
+| 31 | [クリンスマン](http://twitter.com/search?q=%e3%82%af%e3%83%aa%e3%83%b3%e3%82%b9%e3%83%9e%e3%83%b3) | N/A |
+| 32 | [公用スマホ](http://twitter.com/search?q=%e5%85%ac%e7%94%a8%e3%82%b9%e3%83%9e%e3%83%9b) | N/A |
+| 33 | [コミュニティカップ](http://twitter.com/search?q=%e3%82%b3%e3%83%9f%e3%83%a5%e3%83%8b%e3%83%86%e3%82%a3%e3%82%ab%e3%83%83%e3%83%97) | N/A |
+| 34 | [ステッドワンダーランド](http://twitter.com/search?q=%e3%82%b9%e3%83%86%e3%83%83%e3%83%89%e3%83%af%e3%83%b3%e3%83%80%e3%83%bc%e3%83%a9%e3%83%b3%e3%83%89) | N/A |
+| 35 | [コオロギ太郎](http://twitter.com/search?q=%e3%82%b3%e3%82%aa%e3%83%ad%e3%82%ae%e5%a4%aa%e9%83%8e) | N/A |
+| 36 | [死亡事故巡り大阪地裁](http://twitter.com/search?q=%e6%ad%bb%e4%ba%a1%e4%ba%8b%e6%95%85%e5%b7%a1%e3%82%8a%e5%a4%a7%e9%98%aa%e5%9c%b0%e8%a3%81) | N/A |
+| 37 | [公用端末](http://twitter.com/search?q=%e5%85%ac%e7%94%a8%e7%ab%af%e6%9c%ab) | N/A |
+| 38 | [鞠莉の謎解き成功](http://twitter.com/search?q=%e9%9e%a0%e8%8e%89%e3%81%ae%e8%ac%8e%e8%a7%a3%e3%81%8d%e6%88%90%e5%8a%9f) | N/A |
+| 39 | [Wのビジュ](http://twitter.com/search?q=W%e3%81%ae%e3%83%93%e3%82%b8%e3%83%a5) | N/A |
+| 40 | [とうらぶエラー](http://twitter.com/search?q=%e3%81%a8%e3%81%86%e3%82%89%e3%81%b6%e3%82%a8%e3%83%a9%e3%83%bc) | N/A |
+| 41 | [メガデス](http://twitter.com/search?q=%e3%83%a1%e3%82%ac%e3%83%87%e3%82%b9) | N/A |
+| 42 | [顕嵐ちゃん](http://twitter.com/search?q=%e9%a1%95%e5%b5%90%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 43 | [ウォヌジュン](http://twitter.com/search?q=%e3%82%a6%e3%82%a9%e3%83%8c%e3%82%b8%e3%83%a5%e3%83%b3) | N/A |
+| 44 | [TikTok禁止](http://twitter.com/search?q=TikTok%e7%a6%81%e6%ad%a2) | N/A |
+| 45 | [和田岬線](http://twitter.com/search?q=%e5%92%8c%e7%94%b0%e5%b2%ac%e7%b7%9a) | N/A |
+| 46 | [到達記録](http://twitter.com/search?q=%e5%88%b0%e9%81%94%e8%a8%98%e9%8c%b2) | 到達記録 (tōtatsu kiroku) is a Japanese term that translates to “arrival record”. It is used to refer to a record of the arrival times of people or goods at a certain location. |
+| 47 | [パソスト](http://twitter.com/search?q=%e3%83%91%e3%82%bd%e3%82%b9%e3%83%88) | N/A |
+| 48 | [chapter2](http://twitter.com/search?q=chapter2) | N/A |
+| 49 | [MAGIC3](http://twitter.com/search?q=MAGIC3) | N/A |
+| 50 | [最後のセルカ](http://twitter.com/search?q=%e6%9c%80%e5%be%8c%e3%81%ae%e3%82%bb%e3%83%ab%e3%82%ab) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pekanbaru
 
-📆 Last Updated: `2023-02-27 09:16:47 UTC`
+📆 Last Updated: `2023-02-27 10:16:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,55 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [KunjungiAja Dekade 08](http://twitter.com/search?q=KunjungiAja+Dekade+08) | N/A |
-| 2 | [Prabowo Bikin Nyaman](http://twitter.com/search?q=Prabowo+Bikin+Nyaman) | N/A |
-| 3 | [Teja](http://twitter.com/search?q=Teja) | N/A |
-| 4 | [Pilihannya Mending Prabowo](http://twitter.com/search?q=Pilihannya+Mending+Prabowo) | N/A |
-| 5 | [Bapak Prabowo](http://twitter.com/search?q=Bapak+Prabowo) | N/A |
-| 6 | [Mbanking BCA](http://twitter.com/search?q=Mbanking+BCA) | N/A |
-| 7 | [#GGMU](http://twitter.com/search?q=%23GGMU) | #GGMU is an acronym for the phrase “Glory, Glory, Manchester United”. It is a chant used by Manchester United fans to show their support for the team. |
-| 8 | [JENO CONGRATS ON MFW](http://twitter.com/search?q=JENO+CONGRATS+ON+MFW) | N/A |
-| 9 | [#ShineBrightKitTENDay](http://twitter.com/search?q=%23ShineBrightKitTENDay) | N/A |
-| 10 | [#테니생일_축하축하_하네요](http://twitter.com/search?q=%23%ed%85%8c%eb%8b%88%ec%83%9d%ec%9d%bc_%ec%b6%95%ed%95%98%ec%b6%95%ed%95%98_%ed%95%98%eb%84%a4%ec%9a%94) | N/A |
-| 11 | [#PersibDay](http://twitter.com/search?q=%23PersibDay) | N/A |
-| 12 | [Senin](http://twitter.com/search?q=Senin) | N/A |
-| 13 | [Tanpa](http://twitter.com/search?q=Tanpa) | N/A |
-| 14 | [Abby Choi](http://twitter.com/search?q=Abby+Choi) | N/A |
-| 15 | [Floral Sense](http://twitter.com/search?q=Floral+Sense) | N/A |
-| 16 | [TENLEE 27th BDAY](http://twitter.com/search?q=TENLEE+27th+BDAY) | N/A |
-| 17 | [Hendra Kurniawan](http://twitter.com/search?q=Hendra+Kurniawan) | N/A |
-| 18 | [JK FASTEST TO 1B](http://twitter.com/search?q=JK+FASTEST+TO+1B) | N/A |
-| 19 | [Jerome](http://twitter.com/search?q=Jerome) | N/A |
-| 20 | [Jiraiya](http://twitter.com/search?q=Jiraiya) | N/A |
-| 21 | [Glory Glory Man United](http://twitter.com/search?q=Glory+Glory+Man+United) | N/A |
-| 22 | [Tulus Utamakan Rakyat](http://twitter.com/search?q=Tulus+Utamakan+Rakyat) | Tulus Utamakan Rakyat is a Malay phrase which translates to "Dedicated to Serving the People". It is a slogan used by the Malaysian government to emphasize their commitment to providing quality services and support for the people of Malaysia. |
-| 23 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
-| 24 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
-| 25 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 26 | [Keahliannya](http://twitter.com/search?q=Keahliannya) | N/A |
-| 27 | [BD Jepang](http://twitter.com/search?q=BD+Jepang) | N/A |
-| 28 | [Last Ghibli](http://twitter.com/search?q=Last+Ghibli) | N/A |
-| 29 | [BCA Mobile](http://twitter.com/search?q=BCA+Mobile) | N/A |
-| 30 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 31 | [Mati](http://twitter.com/search?q=Mati) | N/A |
-| 32 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 1 | [Teja](http://twitter.com/search?q=Teja) | N/A |
+| 2 | [Mbanking BCA](http://twitter.com/search?q=Mbanking+BCA) | N/A |
+| 3 | [KunjungiAja Dekade 08](http://twitter.com/search?q=KunjungiAja+Dekade+08) | N/A |
+| 4 | [Prabowo Bikin Nyaman](http://twitter.com/search?q=Prabowo+Bikin+Nyaman) | N/A |
+| 5 | [Pilihannya Mending Prabowo](http://twitter.com/search?q=Pilihannya+Mending+Prabowo) | N/A |
+| 6 | [Bapak Prabowo](http://twitter.com/search?q=Bapak+Prabowo) | N/A |
+| 7 | [#PersibDay](http://twitter.com/search?q=%23PersibDay) | N/A |
+| 8 | [#FeelTheSenseWithWinter](http://twitter.com/search?q=%23FeelTheSenseWithWinter) | N/A |
+| 9 | [Floral Sense](http://twitter.com/search?q=Floral+Sense) | N/A |
+| 10 | [Tanpa](http://twitter.com/search?q=Tanpa) | N/A |
+| 11 | [JENO CONGRATS ON MFW](http://twitter.com/search?q=JENO+CONGRATS+ON+MFW) | N/A |
+| 12 | [#OURPRIDEJENO](http://twitter.com/search?q=%23OURPRIDEJENO) | N/A |
+| 13 | [PARK JISUNG](http://twitter.com/search?q=PARK+JISUNG) | N/A |
+| 14 | [#BeaCukaiHedon](http://twitter.com/search?q=%23BeaCukaiHedon) | N/A |
+| 15 | [Persija](http://twitter.com/search?q=Persija) | Persija is a football club based in Jakarta, Indonesia. The name is derived from the Sanskrit word for 'victory', and it is also the nickname of the team's supporters. In English, Persija translates to 'Victorious'. |
+| 16 | [Barito](http://twitter.com/search?q=Barito) | N/A |
+| 17 | [Abby Choi](http://twitter.com/search?q=Abby+Choi) | N/A |
+| 18 | [Hendra Kurniawan](http://twitter.com/search?q=Hendra+Kurniawan) | N/A |
+| 19 | [Mati](http://twitter.com/search?q=Mati) | N/A |
+| 20 | [Kiper](http://twitter.com/search?q=Kiper) | N/A |
+| 21 | [Aliran](http://twitter.com/search?q=Aliran) | N/A |
+| 22 | [JUNGKOOK TO 1 BILLION](http://twitter.com/search?q=JUNGKOOK+TO+1+BILLION) | N/A |
+| 23 | [Nick Pope](http://twitter.com/search?q=Nick+Pope) | Nick Pope is a British author, journalist, and media commentator who specializes in conspiracy theories and the paranormal. He is best known for his work with the British Ministry of Defence from 1991 to 1994, where he investigated reports of UFOs. |
+| 24 | [BCA Mobile](http://twitter.com/search?q=BCA+Mobile) | N/A |
+| 25 | [JK FASTEST TO 1B](http://twitter.com/search?q=JK+FASTEST+TO+1B) | N/A |
+| 26 | [BD Jepang](http://twitter.com/search?q=BD+Jepang) | N/A |
+| 27 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 28 | [Keahliannya](http://twitter.com/search?q=Keahliannya) | N/A |
+| 29 | [Syahril](http://twitter.com/search?q=Syahril) | N/A |
+| 30 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 31 | [Heru](http://twitter.com/search?q=Heru) | N/A |
+| 32 | [Bias](http://twitter.com/search?q=Bias) | N/A |
 | 33 | [Opick](http://twitter.com/search?q=Opick) | N/A |
-| 34 | [First Ghibli](http://twitter.com/search?q=First+Ghibli) | N/A |
-| 35 | [JAEYONG JAYA JAYA JAYA](http://twitter.com/search?q=JAEYONG+JAYA+JAYA+JAYA) | N/A |
-| 36 | [Jeff](http://twitter.com/search?q=Jeff) | N/A |
-| 37 | [Yak Setuju](http://twitter.com/search?q=Yak+Setuju) | N/A |
-| 38 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 39 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 40 | [khilafah ajaran mulia](http://twitter.com/search?q=khilafah+ajaran+mulia) | N/A |
-| 41 | [Kelola Tagihan](http://twitter.com/search?q=Kelola+Tagihan) | N/A |
-| 42 | [kita mulia dengan syariah](http://twitter.com/search?q=kita+mulia+dengan+syariah) | N/A |
-| 43 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 44 | [KAI Rover Teaser Image 1](http://twitter.com/search?q=KAI+Rover+Teaser+Image+1) | N/A |
-| 45 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 46 | [Pemimpin Negeri](http://twitter.com/search?q=Pemimpin+Negeri) | N/A |
-| 47 | [Piala](http://twitter.com/search?q=Piala) | N/A |
-| 48 | [David](http://twitter.com/search?q=David) | N/A |
+| 34 | [Sholat](http://twitter.com/search?q=Sholat) | N/A |
+| 35 | [#kamday](http://twitter.com/search?q=%23kamday) | N/A |
+| 36 | [#HWANGMINHYUN](http://twitter.com/search?q=%23HWANGMINHYUN) | N/A |
+| 37 | [#Truth_or_Lie](http://twitter.com/search?q=%23Truth_or_Lie) | N/A |
+| 38 | [#OPPOReno8TSeries](http://twitter.com/search?q=%23OPPOReno8TSeries) | N/A |
+| 39 | [#ThePortraitExpert](http://twitter.com/search?q=%23ThePortraitExpert) | N/A |
+| 40 | [#JungkookTo1BOnSpotify](http://twitter.com/search?q=%23JungkookTo1BOnSpotify) | N/A |
+| 41 | [#SahabatTerbaikToppers](http://twitter.com/search?q=%23SahabatTerbaikToppers) | N/A |
+| 42 | [#ADVANCE](http://twitter.com/search?q=%23ADVANCE) | N/A |
+| 43 | [#SriMulyaniOMDO](http://twitter.com/search?q=%23SriMulyaniOMDO) | N/A |
+| 44 | [#SEHUN](http://twitter.com/search?q=%23SEHUN) | N/A |
+| 45 | [#OPPOPortraitofLove](http://twitter.com/search?q=%23OPPOPortraitofLove) | N/A |
+| 46 | [#9RACIASDAY](http://twitter.com/search?q=%239RACIASDAY) | N/A |
+| 47 | [#CHANYEOL](http://twitter.com/search?q=%23CHANYEOL) | N/A |
+| 48 | [#SUHO](http://twitter.com/search?q=%23SUHO) | N/A |
+| 49 | [#FionyMail](http://twitter.com/search?q=%23FionyMail) | N/A |
 
 
 

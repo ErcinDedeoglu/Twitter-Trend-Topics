@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Culiacán
 
-📆 Last Updated: `2023-02-27 09:16:28 UTC`
+📆 Last Updated: `2023-02-27 10:16:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,7 +19,7 @@ This is top 50 for [Mexico](</Mexico>)
 | 2 | [#MarchaINE](http://twitter.com/search?q=%23MarchaINE) | N/A |
 | 3 | [#MiVotoNoSeToca](http://twitter.com/search?q=%23MiVotoNoSeToca) | N/A |
 | 4 | [Zócalo](http://twitter.com/search?q=Z%c3%b3calo) | N/A |
-| 5 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 5 | [#YoDefiendoAlINE](http://twitter.com/search?q=%23YoDefiendoAlINE) | N/A |
 | 6 | [#MiVotoSeRespeta](http://twitter.com/search?q=%23MiVotoSeRespeta) | N/A |
 | 7 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
 | 8 | [Viva México](http://twitter.com/search?q=Viva+M%c3%a9xico) | N/A |
@@ -27,43 +27,43 @@ This is top 50 for [Mexico](</Mexico>)
 | 10 | [Vitacilina](http://twitter.com/search?q=Vitacilina) | N/A |
 | 11 | [hailey](http://twitter.com/search?q=hailey) | N/A |
 | 12 | [Palacio Nacional](http://twitter.com/search?q=Palacio+Nacional) | N/A |
-| 13 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 13 | [FOGEL ESTAMOS CONTIGO](http://twitter.com/search?q=FOGEL+ESTAMOS+CONTIGO) | N/A |
 | 14 | [Acarreados](http://twitter.com/search?q=Acarreados) | N/A |
-| 15 | [FOGEL ESTAMOS CONTIGO](http://twitter.com/search?q=FOGEL+ESTAMOS+CONTIGO) | N/A |
-| 16 | [Jiménez](http://twitter.com/search?q=Jim%c3%a9nez) | N/A |
-| 17 | [Fuera López](http://twitter.com/search?q=Fuera+L%c3%b3pez) | N/A |
-| 18 | [Ronaldinho](http://twitter.com/search?q=Ronaldinho) | N/A |
-| 19 | [Farsa](http://twitter.com/search?q=Farsa) | N/A |
-| 20 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
-| 21 | [Plan B](http://twitter.com/search?q=Plan+B) | N/A |
-| 22 | [Almería](http://twitter.com/search?q=Almer%c3%ada) | Almería is a city in the southeastern region of Spain. It is the capital of the province of Almería and is located on the Mediterranean Sea. In English, Almería means "The Watchtower". |
-| 23 | [Dodos](http://twitter.com/search?q=Dodos) | N/A |
+| 15 | [Fuera López](http://twitter.com/search?q=Fuera+L%c3%b3pez) | N/A |
+| 16 | [Ronaldinho](http://twitter.com/search?q=Ronaldinho) | N/A |
+| 17 | [Farsa](http://twitter.com/search?q=Farsa) | N/A |
+| 18 | [Jiménez](http://twitter.com/search?q=Jim%c3%a9nez) | N/A |
+| 19 | [Almería](http://twitter.com/search?q=Almer%c3%ada) | Almería is a city in the southeastern region of Spain. It is the capital of the province of Almería and is located on the Mediterranean Sea. In English, Almería means "The Watchtower". |
+| 20 | [Plan B](http://twitter.com/search?q=Plan+B) | N/A |
+| 21 | [DODOS](http://twitter.com/search?q=DODOS) | N/A |
+| 22 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
+| 23 | [Selena](http://twitter.com/search?q=Selena) | N/A |
 | 24 | [Palenque](http://twitter.com/search?q=Palenque) | N/A |
 | 25 | [Batres](http://twitter.com/search?q=Batres) | N/A |
 | 26 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
-| 27 | [Puro](http://twitter.com/search?q=Puro) | N/A |
-| 28 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
-| 29 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 30 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
+| 27 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
+| 28 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 29 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 30 | [Puro](http://twitter.com/search?q=Puro) | N/A |
 | 31 | [Perú](http://twitter.com/search?q=Per%c3%ba) | Perú is the official name of a country in South America. It is bordered by Ecuador and Colombia to the north, Brazil and Bolivia to the east, Chile to the south, and the Pacific Ocean to the west. The name Perú comes from a word in the native Quechua language meaning "land of abundance." |
 | 32 | [Beatriz Pagés](http://twitter.com/search?q=Beatriz+Pag%c3%a9s) | N/A |
 | 33 | [Himno Nacional](http://twitter.com/search?q=Himno+Nacional) | N/A |
 | 34 | [Ardido](http://twitter.com/search?q=Ardido) | N/A |
 | 35 | [Firme](http://twitter.com/search?q=Firme) | N/A |
 | 36 | [Aluxe](http://twitter.com/search?q=Aluxe) | N/A |
-| 37 | [Isalia](http://twitter.com/search?q=Isalia) | N/A |
-| 38 | [Nahuel](http://twitter.com/search?q=Nahuel) | N/A |
-| 39 | [WE LOVE YOU J-HOPE](http://twitter.com/search?q=WE+LOVE+YOU+J-HOPE) | N/A |
-| 40 | [Lavolpe](http://twitter.com/search?q=Lavolpe) | N/A |
-| 41 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
-| 42 | [fuerza velocijumper](http://twitter.com/search?q=fuerza+velocijumper) | N/A |
-| 43 | [Mario Delgado](http://twitter.com/search?q=Mario+Delgado) | N/A |
-| 44 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
-| 45 | [Tano](http://twitter.com/search?q=Tano) | N/A |
-| 46 | [Malagón](http://twitter.com/search?q=Malag%c3%b3n) | N/A |
-| 47 | [Photoshop](http://twitter.com/search?q=Photoshop) | N/A |
-| 48 | [Almada](http://twitter.com/search?q=Almada) | N/A |
-| 49 | [Xolos](http://twitter.com/search?q=Xolos) | Xolos is short for Club Tijuana Xoloitzcuintles de Caliente, which is a Mexican professional football club based in Tijuana, Baja California. The name Xoloitzcuintles is derived from the Aztec dog breed Xoloitzcuintli, which translates to "Mexican Hairless Dog" in English. |
+| 37 | [Nahuel](http://twitter.com/search?q=Nahuel) | N/A |
+| 38 | [we love you j-hope](http://twitter.com/search?q=we+love+you+j-hope) | N/A |
+| 39 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
+| 40 | [Isalia](http://twitter.com/search?q=Isalia) | N/A |
+| 41 | [fuerza velocijumper](http://twitter.com/search?q=fuerza+velocijumper) | N/A |
+| 42 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
+| 43 | [Malagón](http://twitter.com/search?q=Malag%c3%b3n) | N/A |
+| 44 | [Tano](http://twitter.com/search?q=Tano) | N/A |
+| 45 | [Photoshop](http://twitter.com/search?q=Photoshop) | N/A |
+| 46 | [Left Behind](http://twitter.com/search?q=Left+Behind) | N/A |
+| 47 | [Mario Delgado](http://twitter.com/search?q=Mario+Delgado) | N/A |
+| 48 | [Galantis](http://twitter.com/search?q=Galantis) | N/A |
+| 49 | [Plaza de la Constitución](http://twitter.com/search?q=Plaza+de+la+Constituci%c3%b3n) | N/A |
 
 
 

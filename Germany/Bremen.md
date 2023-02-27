@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bremen
 
-📆 Last Updated: `2023-02-27 09:16:40 UTC`
+📆 Last Updated: `2023-02-27 10:16:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
-| 2 | [#b2502](http://twitter.com/search?q=%23b2502) | N/A |
-| 3 | [Start in die Woche](http://twitter.com/search?q=Start+in+die+Woche) | Start in die Woche is a German phrase that translates to "start of the week" in English. It is used to refer to the beginning of a new week, usually on Monday. |
-| 4 | [#WSMDS](http://twitter.com/search?q=%23WSMDS) | N/A |
-| 5 | [#FCBFCU](http://twitter.com/search?q=%23FCBFCU) | N/A |
+| 1 | [#b2502](http://twitter.com/search?q=%23b2502) | N/A |
+| 2 | [#FCBFCU](http://twitter.com/search?q=%23FCBFCU) | N/A |
+| 3 | [#WSMDS](http://twitter.com/search?q=%23WSMDS) | N/A |
+| 4 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
+| 5 | [Start in die Woche](http://twitter.com/search?q=Start+in+die+Woche) | Start in die Woche is a German phrase that translates to "start of the week" in English. It is used to refer to the beginning of a new week, usually on Monday. |
 | 6 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
 | 7 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
 | 8 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
 | 9 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
 | 10 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
 | 11 | [Helena](http://twitter.com/search?q=Helena) | N/A |
-| 12 | [Wochenbeginn](http://twitter.com/search?q=Wochenbeginn) | N/A |
-| 13 | [Kinderlose](http://twitter.com/search?q=Kinderlose) | N/A |
-| 14 | [Montagmorgen](http://twitter.com/search?q=Montagmorgen) | N/A |
-| 15 | ['Feuer'](http://twitter.com/search?q=%27Feuer%27) | N/A |
-| 16 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
-| 17 | [Joko](http://twitter.com/search?q=Joko) | N/A |
-| 18 | [Wochenanfang](http://twitter.com/search?q=Wochenanfang) | N/A |
-| 19 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 20 | [A.J.](http://twitter.com/search?q=A.J.) | N/A |
+| 12 | [Kinderlose](http://twitter.com/search?q=Kinderlose) | N/A |
+| 13 | ['Feuer'](http://twitter.com/search?q=%27Feuer%27) | N/A |
+| 14 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
+| 15 | [Joko](http://twitter.com/search?q=Joko) | N/A |
+| 16 | [Berliner Kirchenstift](http://twitter.com/search?q=Berliner+Kirchenstift) | N/A |
+| 17 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 18 | [Senioren](http://twitter.com/search?q=Senioren) | N/A |
+| 19 | [Chicco](http://twitter.com/search?q=Chicco) | N/A |
+| 20 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
 | 21 | [Panzer](http://twitter.com/search?q=Panzer) | N/A |
-| 22 | [Tempolimit](http://twitter.com/search?q=Tempolimit) | N/A |
-| 23 | [Büro](http://twitter.com/search?q=B%c3%bcro) | N/A |
-| 24 | [Gutachten](http://twitter.com/search?q=Gutachten) | N/A |
-| 25 | [Chicco](http://twitter.com/search?q=Chicco) | N/A |
-| 26 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
-| 27 | [Schöne Woche](http://twitter.com/search?q=Sch%c3%b6ne+Woche) | N/A |
-| 28 | [Teilnehmer](http://twitter.com/search?q=Teilnehmer) | N/A |
+| 22 | [Wochenanfang](http://twitter.com/search?q=Wochenanfang) | N/A |
+| 23 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
+| 24 | [Teilnehmer](http://twitter.com/search?q=Teilnehmer) | N/A |
+| 25 | [Gutachten](http://twitter.com/search?q=Gutachten) | N/A |
+| 26 | [Montag Morgen](http://twitter.com/search?q=Montag+Morgen) | N/A |
+| 27 | [Abrams](http://twitter.com/search?q=Abrams) | Abrams is a surname of English and German origin. It is derived from the Germanic personal name Abraham, meaning "father of many". |
+| 28 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
 | 29 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
-| 30 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
-| 31 | [Guten Morgen Claudia](http://twitter.com/search?q=Guten+Morgen+Claudia) | N/A |
-| 32 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 33 | [Moin Andy](http://twitter.com/search?q=Moin+Andy) | N/A |
-| 34 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
-| 35 | [John Lennon](http://twitter.com/search?q=John+Lennon) | N/A |
-| 36 | [Guten Morgen Andreas](http://twitter.com/search?q=Guten+Morgen+Andreas) | N/A |
-| 37 | [Abrams](http://twitter.com/search?q=Abrams) | Abrams is a surname of English and German origin. It is derived from the Germanic personal name Abraham, meaning "father of many". |
-| 38 | [Arbeitswoche](http://twitter.com/search?q=Arbeitswoche) | N/A |
-| 39 | [Pflegeversicherung](http://twitter.com/search?q=Pflegeversicherung) | N/A |
-| 40 | [Sandro Wagner](http://twitter.com/search?q=Sandro+Wagner) | N/A |
-| 41 | [sonntag abend](http://twitter.com/search?q=sonntag+abend) | N/A |
-| 42 | [Guten Morgen Manfred](http://twitter.com/search?q=Guten+Morgen+Manfred) | N/A |
-| 43 | [Wunderschönen](http://twitter.com/search?q=Wundersch%c3%b6nen) | N/A |
-| 44 | [Fratze Deutschlands](http://twitter.com/search?q=Fratze+Deutschlands) | N/A |
-| 45 | [Martina](http://twitter.com/search?q=Martina) | Martina is a female given name of Latin origin, derived from the name Martinus, which means "of Mars". It is a popular name in many countries, including Italy, Spain, Germany, Austria, and the Czech Republic. In English-speaking countries, it is often used as a short form of the longer name Martina. |
-| 46 | [Lebenserfahrung](http://twitter.com/search?q=Lebenserfahrung) | N/A |
-| 47 | [INEC](http://twitter.com/search?q=INEC) | N/A |
-| 48 | [Verkehr](http://twitter.com/search?q=Verkehr) | N/A |
+| 30 | [John Lennon](http://twitter.com/search?q=John+Lennon) | N/A |
+| 31 | [Guten Morgen Andreas](http://twitter.com/search?q=Guten+Morgen+Andreas) | N/A |
+| 32 | [Arbeitswoche](http://twitter.com/search?q=Arbeitswoche) | N/A |
+| 33 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 34 | [Büro](http://twitter.com/search?q=B%c3%bcro) | N/A |
+| 35 | [Pflegeversicherung](http://twitter.com/search?q=Pflegeversicherung) | N/A |
+| 36 | [Sandro Wagner](http://twitter.com/search?q=Sandro+Wagner) | N/A |
+| 37 | [sonntag abend](http://twitter.com/search?q=sonntag+abend) | N/A |
+| 38 | [Fratze Deutschlands](http://twitter.com/search?q=Fratze+Deutschlands) | N/A |
+| 39 | [INEC](http://twitter.com/search?q=INEC) | N/A |
+| 40 | [Trinkgeld](http://twitter.com/search?q=Trinkgeld) | N/A |
+| 41 | [Morty](http://twitter.com/search?q=Morty) | Morty is a nickname for the given name Mortimer, which is of English origin and means "dead sea". It can also be used as a diminutive form of the name Mortimer. |
+| 42 | [Verhandlungen](http://twitter.com/search?q=Verhandlungen) | N/A |
+| 43 | [Siedler](http://twitter.com/search?q=Siedler) | N/A |
+| 44 | [Drosten](http://twitter.com/search?q=Drosten) | N/A |
+| 45 | [Autobahnen](http://twitter.com/search?q=Autobahnen) | N/A |
+| 46 | [Indien](http://twitter.com/search?q=Indien) | N/A |
+| 47 | [Wochenbeginn](http://twitter.com/search?q=Wochenbeginn) | N/A |
+| 48 | [Menschen mit Kindern](http://twitter.com/search?q=Menschen+mit+Kindern) | N/A |
 
 
 

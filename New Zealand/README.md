@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Zealand
 
-📆 Last Updated: `2023-02-27 09:17:31 UTC`
+📆 Last Updated: `2023-02-27 10:16:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,42 +29,42 @@ This is top 50 for New Zealand
 | 12 | [Kane Williamson](http://twitter.com/search?q=Kane+Williamson) | Kane Williamson is a New Zealand cricketer who is the current captain of the New Zealand national team. He is a right-handed batsman and an occasional off-spin bowler. He has scored over 10,000 runs in international cricket and holds the record for most centuries by a New Zealander in Test cricket. |
 | 13 | [Chester Borrows](http://twitter.com/search?q=Chester+Borrows) | N/A |
 | 14 | [#NUFC](http://twitter.com/search?q=%23NUFC) | #NUFC stands for Newcastle United Football Club, an English professional football club based in Newcastle upon Tyne. The club was founded in 1892 and currently plays in the Premier League. |
-| 15 | [Lotto](http://twitter.com/search?q=Lotto) | N/A |
-| 16 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 17 | [Tokelau](http://twitter.com/search?q=Tokelau) | N/A |
+| 15 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 16 | [Tokelau](http://twitter.com/search?q=Tokelau) | N/A |
+| 17 | [Lotto](http://twitter.com/search?q=Lotto) | N/A |
 | 18 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
-| 19 | [#NZvENG](http://twitter.com/search?q=%23NZvENG) | N/A |
-| 20 | [Pākehā](http://twitter.com/search?q=P%c4%81keh%c4%81) | N/A |
-| 21 | [Winston](http://twitter.com/search?q=Winston) | N/A |
+| 19 | [Winston](http://twitter.com/search?q=Winston) | N/A |
+| 20 | [#NZvENG](http://twitter.com/search?q=%23NZvENG) | N/A |
+| 21 | [Pākehā](http://twitter.com/search?q=P%c4%81keh%c4%81) | N/A |
 | 22 | [Cam Wallace](http://twitter.com/search?q=Cam+Wallace) | N/A |
 | 23 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
 | 24 | [Jane](http://twitter.com/search?q=Jane) | N/A |
-| 25 | [Councils](http://twitter.com/search?q=Councils) | N/A |
-| 26 | [Woody](http://twitter.com/search?q=Woody) | Woody is a slang term used to describe someone who is strong, tough, and determined. It can also be used to describe someone who is stubborn and unyielding. |
-| 27 | [Te Whatu Ora](http://twitter.com/search?q=Te+Whatu+Ora) | N/A |
-| 28 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
-| 29 | [simon watts](http://twitter.com/search?q=simon+watts) | N/A |
-| 30 | [Ouch](http://twitter.com/search?q=Ouch) | N/A |
-| 31 | [Southee](http://twitter.com/search?q=Southee) | N/A |
-| 32 | [Covid](http://twitter.com/search?q=Covid) | N/A |
-| 33 | [NZ Police](http://twitter.com/search?q=NZ+Police) | N/A |
-| 34 | [3 Waters](http://twitter.com/search?q=3+Waters) | N/A |
-| 35 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 36 | [Census](http://twitter.com/search?q=Census) | N/A |
+| 25 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
+| 26 | [Health NZ](http://twitter.com/search?q=Health+NZ) | N/A |
+| 27 | [simon watts](http://twitter.com/search?q=simon+watts) | N/A |
+| 28 | [Te Whatu Ora](http://twitter.com/search?q=Te+Whatu+Ora) | N/A |
+| 29 | [Ouch](http://twitter.com/search?q=Ouch) | N/A |
+| 30 | [Woody](http://twitter.com/search?q=Woody) | Woody is a slang term used to describe someone who is strong, tough, and determined. It can also be used to describe someone who is stubborn and unyielding. |
+| 31 | [Councils](http://twitter.com/search?q=Councils) | N/A |
+| 32 | [3 Waters](http://twitter.com/search?q=3+Waters) | N/A |
+| 33 | [Southee](http://twitter.com/search?q=Southee) | N/A |
+| 34 | [NZ Police](http://twitter.com/search?q=NZ+Police) | N/A |
+| 35 | [Census](http://twitter.com/search?q=Census) | N/A |
+| 36 | [Covid](http://twitter.com/search?q=Covid) | N/A |
 | 37 | [Phil](http://twitter.com/search?q=Phil) | Phil is short for the name Philip, which is a male given name of Greek origin meaning "lover of horses". |
-| 38 | [Scott Adams](http://twitter.com/search?q=Scott+Adams) | N/A |
-| 39 | [Shannon](http://twitter.com/search?q=Shannon) | Shannon is a unisex name of Irish origin. It is derived from the Gaelic word "seanachaidh" which means "wise one". The name is often used as a given name for both boys and girls. |
-| 40 | [New Zealander](http://twitter.com/search?q=New+Zealander) | N/A |
-| 41 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
-| 42 | [Hosking](http://twitter.com/search?q=Hosking) | N/A |
-| 43 | [forestry](http://twitter.com/search?q=forestry) | N/A |
-| 44 | [Blues](http://twitter.com/search?q=Blues) | N/A |
-| 45 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 46 | [Canterbury](http://twitter.com/search?q=Canterbury) | N/A |
-| 47 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 48 | [iPad](http://twitter.com/search?q=iPad) | N/A |
-| 49 | [Rates](http://twitter.com/search?q=Rates) | N/A |
-| 50 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
+| 38 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 39 | [Scott Adams](http://twitter.com/search?q=Scott+Adams) | N/A |
+| 40 | [Shannon](http://twitter.com/search?q=Shannon) | Shannon is a unisex name of Irish origin. It is derived from the Gaelic word "seanachaidh" which means "wise one". The name is often used as a given name for both boys and girls. |
+| 41 | [New Zealander](http://twitter.com/search?q=New+Zealander) | N/A |
+| 42 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
+| 43 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 44 | [Gender](http://twitter.com/search?q=Gender) | N/A |
+| 45 | [Hosking](http://twitter.com/search?q=Hosking) | N/A |
+| 46 | [forestry](http://twitter.com/search?q=forestry) | N/A |
+| 47 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 48 | [Blues](http://twitter.com/search?q=Blues) | N/A |
+| 49 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 50 | [iPad](http://twitter.com/search?q=iPad) | N/A |
 
 
 

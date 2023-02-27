@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Yongin
 
-📆 Last Updated: `2023-02-27 09:16:53 UTC`
+📆 Last Updated: `2023-02-27 10:16:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,50 @@ This is top 50 for [Korea](</Korea>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [새우튀김](http://twitter.com/search?q=%ec%83%88%ec%9a%b0%ed%8a%80%ea%b9%80) | N/A |
-| 2 | [클린스만](http://twitter.com/search?q=%ed%81%b4%eb%a6%b0%ec%8a%a4%eb%a7%8c) | N/A |
-| 3 | [언제쯤 탈트](http://twitter.com/search?q=%ec%96%b8%ec%a0%9c%ec%af%a4+%ed%83%88%ed%8a%b8) | N/A |
-| 4 | [대운동회](http://twitter.com/search?q=%eb%8c%80%ec%9a%b4%eb%8f%99%ed%9a%8c) | 대운동회 is a large-scale sports event in Korea. It is usually held once a year and involves athletes from all over the country competing in various sports. The English translation of 대운동회 is "National Sports Festival". |
-| 5 | [#악마랑계약한발전과정](http://twitter.com/search?q=%23%ec%95%85%eb%a7%88%eb%9e%91%ea%b3%84%ec%95%bd%ed%95%9c%eb%b0%9c%ec%a0%84%ea%b3%bc%ec%a0%95) | N/A |
-| 6 | [체포동의안](http://twitter.com/search?q=%ec%b2%b4%ed%8f%ac%eb%8f%99%ec%9d%98%ec%95%88) | N/A |
-| 7 | [정대만 유니폼](http://twitter.com/search?q=%ec%a0%95%eb%8c%80%eb%a7%8c+%ec%9c%a0%eb%8b%88%ed%8f%bc) | N/A |
-| 8 | [사사오입](http://twitter.com/search?q=%ec%82%ac%ec%82%ac%ec%98%a4%ec%9e%85) | N/A |
-| 9 | [림버스 컴퍼니](http://twitter.com/search?q=%eb%a6%bc%eb%b2%84%ec%8a%a4+%ec%bb%b4%ed%8d%bc%eb%8b%88) | N/A |
-| 10 | [수박새끼들](http://twitter.com/search?q=%ec%88%98%eb%b0%95%ec%83%88%eb%81%bc%eb%93%a4) | N/A |
-| 11 | [#세상을_준_상엽아_생일축하해](http://twitter.com/search?q=%23%ec%84%b8%ec%83%81%ec%9d%84_%ec%a4%80_%ec%83%81%ec%97%bd%ec%95%84_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
+| 1 | [클린스만](http://twitter.com/search?q=%ed%81%b4%eb%a6%b0%ec%8a%a4%eb%a7%8c) | N/A |
+| 2 | [지성의 세계](http://twitter.com/search?q=%ec%a7%80%ec%84%b1%ec%9d%98+%ec%84%b8%ea%b3%84) | N/A |
+| 3 | [사사오입](http://twitter.com/search?q=%ec%82%ac%ec%82%ac%ec%98%a4%ec%9e%85) | N/A |
+| 4 | [체포동의안](http://twitter.com/search?q=%ec%b2%b4%ed%8f%ac%eb%8f%99%ec%9d%98%ec%95%88) | N/A |
+| 5 | [수박새끼들](http://twitter.com/search?q=%ec%88%98%eb%b0%95%ec%83%88%eb%81%bc%eb%93%a4) | N/A |
+| 6 | [정대만 유니폼](http://twitter.com/search?q=%ec%a0%95%eb%8c%80%eb%a7%8c+%ec%9c%a0%eb%8b%88%ed%8f%bc) | N/A |
+| 7 | [드럼세탁기](http://twitter.com/search?q=%eb%93%9c%eb%9f%bc%ec%84%b8%ed%83%81%ea%b8%b0) | N/A |
+| 8 | [압도적 부결](http://twitter.com/search?q=%ec%95%95%eb%8f%84%ec%a0%81+%eb%b6%80%ea%b2%b0) | N/A |
+| 9 | [#탑티어_박우진_솔로데뷔축하해](http://twitter.com/search?q=%23%ed%83%91%ed%8b%b0%ec%96%b4_%eb%b0%95%ec%9a%b0%ec%a7%84_%ec%86%94%eb%a1%9c%eb%8d%b0%eb%b7%94%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
+| 10 | [여섯시내](http://twitter.com/search?q=%ec%97%ac%ec%84%af%ec%8b%9c%eb%82%b4) | N/A |
+| 11 | [찬성 139](http://twitter.com/search?q=%ec%b0%ac%ec%84%b1+139) | N/A |
 | 12 | [키링 0원](http://twitter.com/search?q=%ed%82%a4%eb%a7%81+0%ec%9b%90) | N/A |
-| 13 | [#탑티어_박우진_솔로데뷔축하해](http://twitter.com/search?q=%23%ed%83%91%ed%8b%b0%ec%96%b4_%eb%b0%95%ec%9a%b0%ec%a7%84_%ec%86%94%eb%a1%9c%eb%8d%b0%eb%b7%94%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
-| 14 | [찬성 139](http://twitter.com/search?q=%ec%b0%ac%ec%84%b1+139) | N/A |
-| 15 | [있는 글자](http://twitter.com/search?q=%ec%9e%88%eb%8a%94+%ea%b8%80%ec%9e%90) | N/A |
-| 16 | [민주당 이탈표](http://twitter.com/search?q=%eb%af%bc%ec%a3%bc%eb%8b%b9+%ec%9d%b4%ed%83%88%ed%91%9c) | N/A |
-| 17 | [압도적 부결](http://twitter.com/search?q=%ec%95%95%eb%8f%84%ec%a0%81+%eb%b6%80%ea%b2%b0) | N/A |
-| 18 | [그레고르](http://twitter.com/search?q=%ea%b7%b8%eb%a0%88%ea%b3%a0%eb%a5%b4) | N/A |
-| 19 | [#별명만들기](http://twitter.com/search?q=%23%eb%b3%84%eb%aa%85%eb%a7%8c%eb%93%a4%ea%b8%b0) | N/A |
-| 20 | [첫글자와 끝글자](http://twitter.com/search?q=%ec%b2%ab%ea%b8%80%ec%9e%90%ec%99%80+%eb%81%9d%ea%b8%80%ec%9e%90) | N/A |
-| 21 | [무효 11](http://twitter.com/search?q=%eb%ac%b4%ed%9a%a8+11) | N/A |
-| 22 | [#테니생일_축하축하_하네요](http://twitter.com/search?q=%23%ed%85%8c%eb%8b%88%ec%83%9d%ec%9d%bc_%ec%b6%95%ed%95%98%ec%b6%95%ed%95%98_%ed%95%98%eb%84%a4%ec%9a%94) | N/A |
-| 23 | [기권 9표](http://twitter.com/search?q=%ea%b8%b0%ea%b6%8c+9%ed%91%9c) | N/A |
-| 24 | [좋은 영향](http://twitter.com/search?q=%ec%a2%8b%ec%9d%80+%ec%98%81%ed%96%a5) | N/A |
-| 25 | [요즘 남자친구](http://twitter.com/search?q=%ec%9a%94%ec%a6%98+%eb%82%a8%ec%9e%90%ec%b9%9c%ea%b5%ac) | N/A |
-| 26 | [임시점검](http://twitter.com/search?q=%ec%9e%84%ec%8b%9c%ec%a0%90%ea%b2%80) | N/A |
+| 13 | [서태웅 유니폼](http://twitter.com/search?q=%ec%84%9c%ed%83%9c%ec%9b%85+%ec%9c%a0%eb%8b%88%ed%8f%bc) | N/A |
+| 14 | [#Truth_or_Lie](http://twitter.com/search?q=%23Truth_or_Lie) | N/A |
+| 15 | [민주당내](http://twitter.com/search?q=%eb%af%bc%ec%a3%bc%eb%8b%b9%eb%82%b4) | N/A |
+| 16 | [반대 138](http://twitter.com/search?q=%eb%b0%98%eb%8c%80+138) | N/A |
+| 17 | [#황민현](http://twitter.com/search?q=%23%ed%99%a9%eb%af%bc%ed%98%84) | N/A |
+| 18 | [민주당 이탈표](http://twitter.com/search?q=%eb%af%bc%ec%a3%bc%eb%8b%b9+%ec%9d%b4%ed%83%88%ed%91%9c) | N/A |
+| 19 | [언제쯤 탈트](http://twitter.com/search?q=%ec%96%b8%ec%a0%9c%ec%af%a4+%ed%83%88%ed%8a%b8) | N/A |
+| 20 | [최대 손해](http://twitter.com/search?q=%ec%b5%9c%eb%8c%80+%ec%86%90%ed%95%b4) | N/A |
+| 21 | [풍운쌍검](http://twitter.com/search?q=%ed%92%8d%ec%9a%b4%ec%8c%8d%ea%b2%80) | N/A |
+| 22 | [이재명 대표](http://twitter.com/search?q=%ec%9d%b4%ec%9e%ac%eb%aa%85+%eb%8c%80%ed%91%9c) | N/A |
+| 23 | [#HWANGMINHYUN](http://twitter.com/search?q=%23HWANGMINHYUN) | N/A |
+| 24 | [우리 지성](http://twitter.com/search?q=%ec%9a%b0%eb%a6%ac+%ec%a7%80%ec%84%b1) | N/A |
+| 25 | [무효 11](http://twitter.com/search?q=%eb%ac%b4%ed%9a%a8+11) | N/A |
+| 26 | [그레고르](http://twitter.com/search?q=%ea%b7%b8%eb%a0%88%ea%b3%a0%eb%a5%b4) | N/A |
 | 27 | [파우스트](http://twitter.com/search?q=%ed%8c%8c%ec%9a%b0%ec%8a%a4%ed%8a%b8) | N/A |
-| 28 | [서태웅 유니폼](http://twitter.com/search?q=%ec%84%9c%ed%83%9c%ec%9b%85+%ec%9c%a0%eb%8b%88%ed%8f%bc) | N/A |
-| 29 | [이니스프리](http://twitter.com/search?q=%ec%9d%b4%eb%8b%88%ec%8a%a4%ed%94%84%eb%a6%ac) | N/A |
-| 30 | [공장포타](http://twitter.com/search?q=%ea%b3%b5%ec%9e%a5%ed%8f%ac%ed%83%80) | N/A |
-| 31 | [탈빠 절대 안함](http://twitter.com/search?q=%ed%83%88%eb%b9%a0+%ec%a0%88%eb%8c%80+%ec%95%88%ed%95%a8) | N/A |
-| 32 | [민주당내](http://twitter.com/search?q=%eb%af%bc%ec%a3%bc%eb%8b%b9%eb%82%b4) | N/A |
-| 33 | [반대 138](http://twitter.com/search?q=%eb%b0%98%eb%8c%80+138) | N/A |
-| 34 | [송태섭 유니폼](http://twitter.com/search?q=%ec%86%a1%ed%83%9c%ec%84%ad+%ec%9c%a0%eb%8b%88%ed%8f%bc) | N/A |
-| 35 | [꼬들 422](http://twitter.com/search?q=%ea%bc%ac%eb%93%a4+422) | N/A |
-| 36 | [정순신 아들](http://twitter.com/search?q=%ec%a0%95%ec%88%9c%ec%8b%a0+%ec%95%84%eb%93%a4) | N/A |
-| 37 | [피아노조](http://twitter.com/search?q=%ed%94%bc%ec%95%84%eb%85%b8%ec%a1%b0) | N/A |
-| 38 | [사실상 가결](http://twitter.com/search?q=%ec%82%ac%ec%8b%a4%ec%83%81+%ea%b0%80%ea%b2%b0) | N/A |
-| 39 | [최대 손해](http://twitter.com/search?q=%ec%b5%9c%eb%8c%80+%ec%86%90%ed%95%b4) | N/A |
-| 40 | [상엽날 상엽시](http://twitter.com/search?q=%ec%83%81%ec%97%bd%eb%82%a0+%ec%83%81%ec%97%bd%ec%8b%9c) | N/A |
-| 41 | [우지 인스타](http://twitter.com/search?q=%ec%9a%b0%ec%a7%80+%ec%9d%b8%ec%8a%a4%ed%83%80) | N/A |
-| 42 | [슬램덩크 유니폼](http://twitter.com/search?q=%ec%8a%ac%eb%9e%a8%eb%8d%a9%ed%81%ac+%ec%9c%a0%eb%8b%88%ed%8f%bc) | N/A |
-| 43 | [자기 오빠들](http://twitter.com/search?q=%ec%9e%90%ea%b8%b0+%ec%98%a4%eb%b9%a0%eb%93%a4) | N/A |
-| 44 | [기업은행](http://twitter.com/search?q=%ea%b8%b0%ec%97%85%ec%9d%80%ed%96%89) | N/A |
-| 45 | [명예텐마](http://twitter.com/search?q=%eb%aa%85%ec%98%88%ed%85%90%eb%a7%88) | N/A |
-| 46 | [사무라이하트](http://twitter.com/search?q=%ec%82%ac%eb%ac%b4%eb%9d%bc%ec%9d%b4%ed%95%98%ed%8a%b8) | N/A |
-| 47 | [로보토미](http://twitter.com/search?q=%eb%a1%9c%eb%b3%b4%ed%86%a0%eb%af%b8) | N/A |
-| 48 | [같은 부결](http://twitter.com/search?q=%ea%b0%99%ec%9d%80+%eb%b6%80%ea%b2%b0) | N/A |
-| 49 | [국회의장](http://twitter.com/search?q=%ea%b5%ad%ed%9a%8c%ec%9d%98%ec%9e%a5) | N/A |
+| 28 | [렌티큘러](http://twitter.com/search?q=%eb%a0%8c%ed%8b%b0%ed%81%98%eb%9f%ac) | N/A |
+| 29 | [림버스 컴퍼니](http://twitter.com/search?q=%eb%a6%bc%eb%b2%84%ec%8a%a4+%ec%bb%b4%ed%8d%bc%eb%8b%88) | N/A |
+| 30 | [후드집업](http://twitter.com/search?q=%ed%9b%84%eb%93%9c%ec%a7%91%ec%97%85) | N/A |
+| 31 | [국회의장](http://twitter.com/search?q=%ea%b5%ad%ed%9a%8c%ec%9d%98%ec%9e%a5) | N/A |
+| 32 | [이재명 체포안](http://twitter.com/search?q=%ec%9d%b4%ec%9e%ac%eb%aa%85+%ec%b2%b4%ed%8f%ac%ec%95%88) | N/A |
+| 33 | [로보토미](http://twitter.com/search?q=%eb%a1%9c%eb%b3%b4%ed%86%a0%eb%af%b8) | N/A |
+| 34 | [기업은행](http://twitter.com/search?q=%ea%b8%b0%ec%97%85%ec%9d%80%ed%96%89) | N/A |
+| 35 | [다음 총선](http://twitter.com/search?q=%eb%8b%a4%ec%9d%8c+%ec%b4%9d%ec%84%a0) | N/A |
+| 36 | [자기계발](http://twitter.com/search?q=%ec%9e%90%ea%b8%b0%ea%b3%84%eb%b0%9c) | N/A |
+| 37 | [이스마엘](http://twitter.com/search?q=%ec%9d%b4%ec%8a%a4%eb%a7%88%ec%97%98) | N/A |
+| 38 | [돈키호테](http://twitter.com/search?q=%eb%8f%88%ed%82%a4%ed%98%b8%ed%85%8c) | 돈키호테 is a Japanese word that means "Don Quixote". It is the title of a novel by Spanish author Miguel de Cervantes Saavedra, which tells the story of an eccentric nobleman who sets out on a series of adventures in search of glory and honor. |
+| 39 | [있는 글자](http://twitter.com/search?q=%ec%9e%88%eb%8a%94+%ea%b8%80%ec%9e%90) | N/A |
+| 40 | [싱클레어](http://twitter.com/search?q=%ec%8b%b1%ed%81%b4%eb%a0%88%ec%96%b4) | N/A |
+| 41 | [포타 제목](http://twitter.com/search?q=%ed%8f%ac%ed%83%80+%ec%a0%9c%eb%aa%a9) | N/A |
+| 42 | [날씨 너무](http://twitter.com/search?q=%eb%82%a0%ec%94%a8+%eb%84%88%eb%ac%b4) | N/A |
+| 43 | [#별명만들기](http://twitter.com/search?q=%23%eb%b3%84%eb%aa%85%eb%a7%8c%eb%93%a4%ea%b8%b0) | N/A |
+| 44 | [포타 연성 문장](http://twitter.com/search?q=%ed%8f%ac%ed%83%80+%ec%97%b0%ec%84%b1+%eb%ac%b8%ec%9e%a5) | N/A |
 
 
 
