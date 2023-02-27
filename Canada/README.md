@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canada
 
-📆 Last Updated: `2023-02-27 19:16:38 UTC`
+📆 Last Updated: `2023-02-27 20:17:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Canada
 | 1 | [McCabe](http://twitter.com/search?q=McCabe) | N/A |
 | 2 | [Jeannot](http://twitter.com/search?q=Jeannot) | N/A |
 | 3 | [Dubas](http://twitter.com/search?q=Dubas) | N/A |
-| 4 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
-| 5 | [Kerfoot](http://twitter.com/search?q=Kerfoot) | N/A |
+| 4 | [Kerfoot](http://twitter.com/search?q=Kerfoot) | N/A |
+| 5 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
 | 6 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
 | 7 | [Sandin](http://twitter.com/search?q=Sandin) | N/A |
-| 8 | [Trudeau](http://twitter.com/search?q=Trudeau) | N/A |
-| 9 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 8 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 9 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
 | 10 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 11 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 12 | [#GOGimmighoul](http://twitter.com/search?q=%23GOGimmighoul) | N/A |
-| 13 | [Meier](http://twitter.com/search?q=Meier) | N/A |
+| 11 | [Meier](http://twitter.com/search?q=Meier) | N/A |
+| 12 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
+| 13 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
 | 14 | [#SAGAwards](http://twitter.com/search?q=%23SAGAwards) | N/A |
 | 15 | [Gordon Pinsent](http://twitter.com/search?q=Gordon+Pinsent) | N/A |
-| 16 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
-| 17 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
-| 18 | [Jully](http://twitter.com/search?q=Jully) | N/A |
-| 19 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
-| 20 | [Edmundson](http://twitter.com/search?q=Edmundson) | N/A |
+| 16 | [Jully](http://twitter.com/search?q=Jully) | N/A |
+| 17 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
+| 18 | [#TrudeauIsTheNewHitler](http://twitter.com/search?q=%23TrudeauIsTheNewHitler) | N/A |
+| 19 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
+| 20 | [#GOGimmighoul](http://twitter.com/search?q=%23GOGimmighoul) | N/A |
 | 21 | [Gurianov](http://twitter.com/search?q=Gurianov) | N/A |
-| 22 | [Christine Anderson](http://twitter.com/search?q=Christine+Anderson) | N/A |
-| 23 | [INEC](http://twitter.com/search?q=INEC) | N/A |
-| 24 | [#DeadSpaceMarkerMerchSweeps](http://twitter.com/search?q=%23DeadSpaceMarkerMerchSweeps) | N/A |
-| 25 | [Scott Adams](http://twitter.com/search?q=Scott+Adams) | N/A |
-| 26 | [Ekholm](http://twitter.com/search?q=Ekholm) | N/A |
-| 27 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
-| 28 | [Woody](http://twitter.com/search?q=Woody) | Woody is a slang term used to describe someone who is strong, tough, and determined. It can also be used to describe someone who is stubborn and unyielding. |
-| 29 | [Dadonov](http://twitter.com/search?q=Dadonov) | N/A |
-| 30 | [Pavel Gogolev](http://twitter.com/search?q=Pavel+Gogolev) | N/A |
-| 31 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
-| 32 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 33 | [Butts](http://twitter.com/search?q=Butts) | N/A |
-| 34 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
+| 22 | [INEC](http://twitter.com/search?q=INEC) | N/A |
+| 23 | [Scott Adams](http://twitter.com/search?q=Scott+Adams) | N/A |
+| 24 | [Christine Anderson](http://twitter.com/search?q=Christine+Anderson) | N/A |
+| 25 | [Murray](http://twitter.com/search?q=Murray) | N/A |
+| 26 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
+| 27 | [Woody](http://twitter.com/search?q=Woody) | Woody is a slang term used to describe someone who is strong, tough, and determined. It can also be used to describe someone who is stubborn and unyielding. |
+| 28 | [Engvall](http://twitter.com/search?q=Engvall) | N/A |
+| 29 | [Ekholm](http://twitter.com/search?q=Ekholm) | N/A |
+| 30 | [Butts](http://twitter.com/search?q=Butts) | N/A |
+| 31 | [Suicune](http://twitter.com/search?q=Suicune) | N/A |
+| 32 | [Dadonov](http://twitter.com/search?q=Dadonov) | N/A |
+| 33 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
+| 34 | [Fauci](http://twitter.com/search?q=Fauci) | N/A |
 | 35 | [Holtz](http://twitter.com/search?q=Holtz) | N/A |
-| 36 | [Fauci](http://twitter.com/search?q=Fauci) | N/A |
-| 37 | [Suicune](http://twitter.com/search?q=Suicune) | N/A |
-| 38 | [Schenn](http://twitter.com/search?q=Schenn) | N/A |
-| 39 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
+| 36 | [Knies](http://twitter.com/search?q=Knies) | N/A |
+| 37 | [Walking Wake](http://twitter.com/search?q=Walking+Wake) | N/A |
+| 38 | [Edmundson](http://twitter.com/search?q=Edmundson) | N/A |
+| 39 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
 | 40 | [Brisebois](http://twitter.com/search?q=Brisebois) | N/A |
-| 41 | [Engvall](http://twitter.com/search?q=Engvall) | N/A |
-| 42 | [Murray](http://twitter.com/search?q=Murray) | N/A |
-| 43 | [Walking Wake](http://twitter.com/search?q=Walking+Wake) | N/A |
+| 41 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
+| 42 | [Doughty](http://twitter.com/search?q=Doughty) | N/A |
+| 43 | [J.T. Miller](http://twitter.com/search?q=J.T.+Miller) | N/A |
 | 44 | [Hagel](http://twitter.com/search?q=Hagel) | N/A |
-| 45 | [J.T. Miller](http://twitter.com/search?q=J.T.+Miller) | N/A |
-| 46 | [Doughty](http://twitter.com/search?q=Doughty) | N/A |
-| 47 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
-| 48 | [Ekiti](http://twitter.com/search?q=Ekiti) | N/A |
-| 49 | [Knies](http://twitter.com/search?q=Knies) | N/A |
-| 50 | [Poile](http://twitter.com/search?q=Poile) | N/A |
+| 45 | [Hoglander](http://twitter.com/search?q=Hoglander) | N/A |
+| 46 | [Ekiti](http://twitter.com/search?q=Ekiti) | N/A |
+| 47 | [Poile](http://twitter.com/search?q=Poile) | N/A |
+| 48 | [Pierre](http://twitter.com/search?q=Pierre) | N/A |
+| 49 | [AstraZeneca](http://twitter.com/search?q=AstraZeneca) | N/A |
+| 50 | [Iron Leaves](http://twitter.com/search?q=Iron+Leaves) | N/A |
 
 
 

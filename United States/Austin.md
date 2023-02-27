@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austin
 
-📆 Last Updated: `2023-02-27 19:16:29 UTC`
+📆 Last Updated: `2023-02-27 20:17:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
-| 2 | [Sengun](http://twitter.com/search?q=Sengun) | Sengun is a Japanese term that refers to the Imperial Japanese Army during World War II. It literally translates to "war-supporting army" and was used to describe the Japanese military forces that fought in the war. |
-| 3 | [Silas](http://twitter.com/search?q=Silas) | N/A |
-| 4 | [West Texas](http://twitter.com/search?q=West+Texas) | N/A |
-| 5 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 6 | [#GOGimmighoul](http://twitter.com/search?q=%23GOGimmighoul) | N/A |
-| 7 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
-| 8 | [kevin hart](http://twitter.com/search?q=kevin+hart) | N/A |
-| 9 | [#RizzToken](http://twitter.com/search?q=%23RizzToken) | N/A |
-| 10 | [#DeadSpaceMarkerMerchSweeps](http://twitter.com/search?q=%23DeadSpaceMarkerMerchSweeps) | N/A |
-| 11 | [Walking Wake](http://twitter.com/search?q=Walking+Wake) | N/A |
-| 12 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 13 | [HOIL](http://twitter.com/search?q=HOIL) | N/A |
-| 14 | [Maino](http://twitter.com/search?q=Maino) | N/A |
-| 15 | [McCabe](http://twitter.com/search?q=McCabe) | N/A |
-| 16 | [Reedy Creek](http://twitter.com/search?q=Reedy+Creek) | N/A |
-| 17 | [Lafferty](http://twitter.com/search?q=Lafferty) | Lafferty is a Scottish surname derived from the Gaelic name Mac an Leifheartaigh, meaning "son of the follower of St. Laverty". It is most commonly found in County Donegal, Ireland. In English, it can be translated to mean "son of the follower of St. Laverty". |
-| 18 | [Buckhead](http://twitter.com/search?q=Buckhead) | N/A |
-| 19 | [Yellen](http://twitter.com/search?q=Yellen) | N/A |
-| 20 | [Bryan Cranston](http://twitter.com/search?q=Bryan+Cranston) | N/A |
-| 21 | [AP Poll](http://twitter.com/search?q=AP+Poll) | The AP Poll (or the Associated Press Poll) is a weekly ranking of the top 25 college football teams in the United States, as determined by a panel of sportswriters and broadcasters. The poll is conducted by the Associated Press (AP), a news agency based in New York City. The rankings are released each Sunday during the college football season, with the exception of the final poll, which is released after the conclusion of the College Football Playoff National Championship. |
-| 22 | [David Hogg](http://twitter.com/search?q=David+Hogg) | N/A |
-| 23 | [MATT MERCER](http://twitter.com/search?q=MATT+MERCER) | N/A |
-| 24 | [Alec Bohm](http://twitter.com/search?q=Alec+Bohm) | N/A |
-| 25 | [David Peterson](http://twitter.com/search?q=David+Peterson) | N/A |
-| 26 | [Starfire](http://twitter.com/search?q=Starfire) | N/A |
-| 27 | [Dominican Independence Day](http://twitter.com/search?q=Dominican+Independence+Day) | N/A |
-| 28 | [Joey Votto](http://twitter.com/search?q=Joey+Votto) | N/A |
-| 29 | [Brendan Donovan](http://twitter.com/search?q=Brendan+Donovan) | N/A |
-| 30 | [AP Top 25](http://twitter.com/search?q=AP+Top+25) | N/A |
-| 31 | [Matt Olson](http://twitter.com/search?q=Matt+Olson) | N/A |
-| 32 | [CFPB](http://twitter.com/search?q=CFPB) | N/A |
-| 33 | [Tornado Watch](http://twitter.com/search?q=Tornado+Watch) | N/A |
-| 34 | [Virizion](http://twitter.com/search?q=Virizion) | N/A |
-| 35 | [Slim Jim](http://twitter.com/search?q=Slim+Jim) | N/A |
+| 2 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
+| 3 | [Sengun](http://twitter.com/search?q=Sengun) | Sengun is a Japanese term that refers to the Imperial Japanese Army during World War II. It literally translates to "war-supporting army" and was used to describe the Japanese military forces that fought in the war. |
+| 4 | [Silas](http://twitter.com/search?q=Silas) | N/A |
+| 5 | [West Texas](http://twitter.com/search?q=West+Texas) | N/A |
+| 6 | [kevin hart](http://twitter.com/search?q=kevin+hart) | N/A |
+| 7 | [#GOGimmighoul](http://twitter.com/search?q=%23GOGimmighoul) | N/A |
+| 8 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
+| 9 | [#DeadSpaceMarkerMerchSweeps](http://twitter.com/search?q=%23DeadSpaceMarkerMerchSweeps) | N/A |
+| 10 | [#RizzToken](http://twitter.com/search?q=%23RizzToken) | N/A |
+| 11 | [Suicune](http://twitter.com/search?q=Suicune) | N/A |
+| 12 | [Walking Wake](http://twitter.com/search?q=Walking+Wake) | N/A |
+| 13 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 14 | [John Marvin](http://twitter.com/search?q=John+Marvin) | N/A |
+| 15 | [HOIL](http://twitter.com/search?q=HOIL) | N/A |
+| 16 | [Maino](http://twitter.com/search?q=Maino) | N/A |
+| 17 | [Beyond the Summit](http://twitter.com/search?q=Beyond+the+Summit) | N/A |
+| 18 | [Wesson](http://twitter.com/search?q=Wesson) | N/A |
+| 19 | [McCabe](http://twitter.com/search?q=McCabe) | N/A |
+| 20 | [Reedy Creek](http://twitter.com/search?q=Reedy+Creek) | N/A |
+| 21 | [Iron Leaves](http://twitter.com/search?q=Iron+Leaves) | N/A |
+| 22 | [Tink Hence](http://twitter.com/search?q=Tink+Hence) | N/A |
+| 23 | [Jarren Duran](http://twitter.com/search?q=Jarren+Duran) | N/A |
+| 24 | [Buckhead](http://twitter.com/search?q=Buckhead) | N/A |
+| 25 | [Yellen](http://twitter.com/search?q=Yellen) | N/A |
+| 26 | [Extreme MAGA Republicans](http://twitter.com/search?q=Extreme+MAGA+Republicans) | N/A |
+| 27 | [David Hogg](http://twitter.com/search?q=David+Hogg) | N/A |
+| 28 | [Bryan Cranston](http://twitter.com/search?q=Bryan+Cranston) | N/A |
+| 29 | [Jim Acosta](http://twitter.com/search?q=Jim+Acosta) | N/A |
+| 30 | [MATT MERCER](http://twitter.com/search?q=MATT+MERCER) | N/A |
+| 31 | [Maui Ahuna](http://twitter.com/search?q=Maui+Ahuna) | N/A |
+| 32 | [Joe Rudolph](http://twitter.com/search?q=Joe+Rudolph) | N/A |
+| 33 | [Starfire](http://twitter.com/search?q=Starfire) | N/A |
+| 34 | [Sedition Panda](http://twitter.com/search?q=Sedition+Panda) | N/A |
+| 35 | [Kodachrome](http://twitter.com/search?q=Kodachrome) | N/A |
 | 36 | [Dubas](http://twitter.com/search?q=Dubas) | N/A |
-| 37 | [Jim Acosta](http://twitter.com/search?q=Jim+Acosta) | N/A |
-| 38 | [NFL Combine](http://twitter.com/search?q=NFL+Combine) | N/A |
-| 39 | [Ho-Oh](http://twitter.com/search?q=Ho-Oh) | N/A |
-| 40 | [Emilia Clarke](http://twitter.com/search?q=Emilia+Clarke) | N/A |
-| 41 | [Temperature of America](http://twitter.com/search?q=Temperature+of+America) | N/A |
-| 42 | [Joyce Manor](http://twitter.com/search?q=Joyce+Manor) | N/A |
-| 43 | [Keeley](http://twitter.com/search?q=Keeley) | N/A |
-| 44 | [The Supreme Court](http://twitter.com/search?q=The+Supreme+Court) | N/A |
-| 45 | [Sneed](http://twitter.com/search?q=Sneed) | Sneed is a slang term used to describe someone who is sneaky or untrustworthy. It can also be used to describe someone who is up to no good. |
-| 46 | [Hockenson](http://twitter.com/search?q=Hockenson) | Hockenson is a surname of German origin. It is derived from the Old German word "hocke" meaning "hook" or "crook". The name is thought to have been given to someone who lived near a bend in a river or stream. |
-| 47 | [Okidogi](http://twitter.com/search?q=Okidogi) | N/A |
-| 48 | [Extreme MAGA Republicans](http://twitter.com/search?q=Extreme+MAGA+Republicans) | N/A |
-| 49 | [Wrath of the Machine](http://twitter.com/search?q=Wrath+of+the+Machine) | N/A |
-| 50 | [Terapagos](http://twitter.com/search?q=Terapagos) | N/A |
+| 37 | [McShay](http://twitter.com/search?q=McShay) | N/A |
+| 38 | [Sneed](http://twitter.com/search?q=Sneed) | Sneed is a slang term used to describe someone who is sneaky or untrustworthy. It can also be used to describe someone who is up to no good. |
+| 39 | [Player of the Week](http://twitter.com/search?q=Player+of+the+Week) | N/A |
+| 40 | [Dominican Independence Day](http://twitter.com/search?q=Dominican+Independence+Day) | N/A |
+| 41 | [Emilia Clarke](http://twitter.com/search?q=Emilia+Clarke) | N/A |
+| 42 | [Wander Franco](http://twitter.com/search?q=Wander+Franco) | N/A |
+| 43 | [CFPB](http://twitter.com/search?q=CFPB) | N/A |
+| 44 | [AP Poll](http://twitter.com/search?q=AP+Poll) | The AP Poll (or the Associated Press Poll) is a weekly ranking of the top 25 college football teams in the United States, as determined by a panel of sportswriters and broadcasters. The poll is conducted by the Associated Press (AP), a news agency based in New York City. The rankings are released each Sunday during the college football season, with the exception of the final poll, which is released after the conclusion of the College Football Playoff National Championship. |
+| 45 | [Brendan Donovan](http://twitter.com/search?q=Brendan+Donovan) | N/A |
+| 46 | [Fnatic](http://twitter.com/search?q=Fnatic) | N/A |
+| 47 | [Virizion](http://twitter.com/search?q=Virizion) | N/A |
+| 48 | [Joyce Manor](http://twitter.com/search?q=Joyce+Manor) | N/A |
+| 49 | [Paradox](http://twitter.com/search?q=Paradox) | N/A |
+| 50 | [The Supreme Court](http://twitter.com/search?q=The+Supreme+Court) | N/A |
 
 
 

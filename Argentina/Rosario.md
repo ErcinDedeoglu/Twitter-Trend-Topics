@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rosario
 
-📆 Last Updated: `2023-02-27 19:16:00 UTC`
+📆 Last Updated: `2023-02-27 20:16:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,46 @@ This is top 50 for [Argentina](</Argentina>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 2 | [Lionel Scaloni](http://twitter.com/search?q=Lionel+Scaloni) | N/A |
-| 3 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
-| 4 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
-| 5 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
-| 6 | [Demichelis](http://twitter.com/search?q=Demichelis) | Demichelis is a surname of Italian origin. It is derived from the given name Michelangelo, which means "angel of God". In English, the name Demichelis can be translated to mean "God's angel". |
-| 7 | [#ACOMODACHO](http://twitter.com/search?q=%23ACOMODACHO) | N/A |
-| 8 | [Curazao](http://twitter.com/search?q=Curazao) | Curazao is an island in the Caribbean Sea, located off the coast of Venezuela. It is a constituent country of the Kingdom of the Netherlands. The name Curazao is derived from the Portuguese word for "heart," and it is often referred to as "the heart of the Caribbean." In English, it means "heart of the Caribbean." |
-| 9 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
-| 10 | [Gladys](http://twitter.com/search?q=Gladys) | N/A |
-| 11 | [#BuenLunes](http://twitter.com/search?q=%23BuenLunes) | N/A |
-| 12 | [Borja](http://twitter.com/search?q=Borja) | Borja is a Spanish name derived from the Latin name "Burgus," which means "fortress." It is also the name of several towns in Spain, including Borja in Zaragoza. In English, it can be translated to mean "fortified town." |
-| 13 | [Palavecino](http://twitter.com/search?q=Palavecino) | N/A |
-| 14 | [Rondón](http://twitter.com/search?q=Rond%c3%b3n) | N/A |
-| 15 | [Dota](http://twitter.com/search?q=Dota) | N/A |
-| 16 | [Bangladesh](http://twitter.com/search?q=Bangladesh) | N/A |
-| 17 | [Peña Biafore](http://twitter.com/search?q=Pe%c3%b1a+Biafore) | N/A |
-| 18 | [Delfino](http://twitter.com/search?q=Delfino) | N/A |
-| 19 | [Solari](http://twitter.com/search?q=Solari) | Solari is a Latin word meaning “of the sun”. It is often used to refer to things related to the sun, such as solar energy or solar power. It can also be used as a surname, particularly in Italy. |
-| 20 | [Independiente](http://twitter.com/search?q=Independiente) | Independiente is a term used to refer to someone or something that is independent, autonomous, and self-governing. In English, it can be translated as "independent" or "self-reliant". |
-| 21 | [#NadieDiceNada](http://twitter.com/search?q=%23NadieDiceNada) | N/A |
-| 22 | [Beltran](http://twitter.com/search?q=Beltran) | N/A |
-| 23 | [Hay Scaloneta](http://twitter.com/search?q=Hay+Scaloneta) | N/A |
-| 24 | [Borro](http://twitter.com/search?q=Borro) | N/A |
-| 25 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 26 | [SIU Guaraní](http://twitter.com/search?q=SIU+Guaran%c3%ad) | N/A |
-| 27 | [Vélez](http://twitter.com/search?q=V%c3%a9lez) | N/A |
-| 28 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 29 | [Chiqui](http://twitter.com/search?q=Chiqui) | N/A |
-| 30 | [Che García](http://twitter.com/search?q=Che+Garc%c3%ada) | N/A |
-| 31 | [Gallardo](http://twitter.com/search?q=Gallardo) | Gallardo is a Spanish word meaning "brave" or "courageous". It is often used as a surname or given name. |
-| 32 | [#Intrusos](http://twitter.com/search?q=%23Intrusos) | N/A |
-| 33 | [Cauteruccio](http://twitter.com/search?q=Cauteruccio) | N/A |
-| 34 | [buen domingo](http://twitter.com/search?q=buen+domingo) | N/A |
-| 35 | [Fabiola](http://twitter.com/search?q=Fabiola) | N/A |
-| 36 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 37 | [CABB](http://twitter.com/search?q=CABB) | N/A |
-| 38 | [las poggio tienen aguante](http://twitter.com/search?q=las+poggio+tienen+aguante) | N/A |
-| 39 | [Dominicana](http://twitter.com/search?q=Dominicana) | Dominicana is the Spanish word for Dominican Republic, a Caribbean nation located on the island of Hispaniola. It is bordered by Haiti to the west and the Atlantic Ocean to the north and east. The Dominican Republic is known for its beautiful beaches, lush rainforests, and vibrant culture. |
-| 40 | [Stilitano](http://twitter.com/search?q=Stilitano) | N/A |
-| 41 | [Manuel Belgrano](http://twitter.com/search?q=Manuel+Belgrano) | N/A |
-| 42 | [Figal](http://twitter.com/search?q=Figal) | N/A |
-| 43 | [Banfield](http://twitter.com/search?q=Banfield) | N/A |
-| 44 | [Paradela](http://twitter.com/search?q=Paradela) | Paradela is a Spanish word that means "parade". It is used to refer to a procession or march of people, usually with music and/or banners. |
-| 45 | [big time rush](http://twitter.com/search?q=big+time+rush) | N/A |
-| 46 | [Quilmes](http://twitter.com/search?q=Quilmes) | N/A |
-| 47 | [Monumental](http://twitter.com/search?q=Monumental) | N/A |
-| 48 | [mansilla](http://twitter.com/search?q=mansilla) | N/A |
-| 49 | [Instituto](http://twitter.com/search?q=Instituto) | N/A |
-| 50 | [Heinze](http://twitter.com/search?q=Heinze) | N/A |
+| 1 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
+| 2 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
+| 3 | [Curazao](http://twitter.com/search?q=Curazao) | Curazao is an island in the Caribbean Sea, located off the coast of Venezuela. It is a constituent country of the Kingdom of the Netherlands. The name Curazao is derived from the Portuguese word for "heart," and it is often referred to as "the heart of the Caribbean." In English, it means "heart of the Caribbean." |
+| 4 | [gaston](http://twitter.com/search?q=gaston) | N/A |
+| 5 | [Lionel](http://twitter.com/search?q=Lionel) | Lionel is a French name derived from the Latin word leo, meaning "lion". It is also a surname, and may refer to someone who is brave or strong like a lion. |
+| 6 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
+| 7 | [Alex Morgan](http://twitter.com/search?q=Alex+Morgan) | N/A |
+| 8 | [Bono](http://twitter.com/search?q=Bono) | N/A |
+| 9 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 10 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
+| 11 | [Bangladesh](http://twitter.com/search?q=Bangladesh) | N/A |
+| 12 | [Tula](http://twitter.com/search?q=Tula) | N/A |
+| 13 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
+| 14 | [dijk](http://twitter.com/search?q=dijk) | N/A |
+| 15 | [Scaloneta](http://twitter.com/search?q=Scaloneta) | N/A |
+| 16 | [#Argenzuela](http://twitter.com/search?q=%23Argenzuela) | N/A |
+| 17 | [Chiqui Tapia](http://twitter.com/search?q=Chiqui+Tapia) | N/A |
+| 18 | [SIU Guaraní](http://twitter.com/search?q=SIU+Guaran%c3%ad) | N/A |
+| 19 | [Selección Argentina](http://twitter.com/search?q=Selecci%c3%b3n+Argentina) | N/A |
+| 20 | [Dota](http://twitter.com/search?q=Dota) | N/A |
+| 21 | [Quilmes](http://twitter.com/search?q=Quilmes) | N/A |
+| 22 | [Larroque](http://twitter.com/search?q=Larroque) | N/A |
+| 23 | [Sol de Mayo](http://twitter.com/search?q=Sol+de+Mayo) | N/A |
+| 24 | [Darío](http://twitter.com/search?q=Dar%c3%ado) | N/A |
+| 25 | [Marruecos](http://twitter.com/search?q=Marruecos) | N/A |
+| 26 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
+| 27 | [AMBA](http://twitter.com/search?q=AMBA) | N/A |
+| 28 | [Mayra Mendoza](http://twitter.com/search?q=Mayra+Mendoza) | N/A |
+| 29 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
+| 30 | [Benedetto](http://twitter.com/search?q=Benedetto) | Benedetto is an Italian name meaning "blessed". It is derived from the Latin word "benedictus", which means "blessed". |
+| 31 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
+| 32 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
+| 33 | [Manuel Belgrano](http://twitter.com/search?q=Manuel+Belgrano) | N/A |
+| 34 | [Miley Cyrus](http://twitter.com/search?q=Miley+Cyrus) | Miley Cyrus is an American singer, songwriter, and actress. She rose to fame as a teen idol after starring in the Disney Channel television series Hannah Montana in 2006. Her music has spanned a range of styles, from pop and country to hip hop. |
+| 35 | [#NadieDiceNada](http://twitter.com/search?q=%23NadieDiceNada) | N/A |
+| 36 | [#LaliEnVelezSOLDOUT](http://twitter.com/search?q=%23LaliEnVelezSOLDOUT) | N/A |
+| 37 | [Berni](http://twitter.com/search?q=Berni) | N/A |
+| 38 | [Salvador](http://twitter.com/search?q=Salvador) | N/A |
+| 39 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
+| 40 | [Gareca](http://twitter.com/search?q=Gareca) | N/A |
 
 
 

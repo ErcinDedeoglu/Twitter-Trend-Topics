@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nigeria
 
-📆 Last Updated: `2023-02-27 19:16:41 UTC`
+📆 Last Updated: `2023-02-27 20:17:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Nigeria
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#electionresults2023](http://twitter.com/search?q=%23electionresults2023) | N/A |
-| 2 | [#NigerianElections2023](http://twitter.com/search?q=%23NigerianElections2023) | N/A |
-| 3 | [#INECElectionResult](http://twitter.com/search?q=%23INECElectionResult) | N/A |
-| 4 | [Royals](http://twitter.com/search?q=Royals) | N/A |
-| 5 | [Thabana](http://twitter.com/search?q=Thabana) | Thabana is a Sesotho word meaning “to be brave” or “to have courage”. It is often used as a rallying cry for people to stand up and take action in the face of adversity. |
-| 6 | [#TinubuCannotWin](http://twitter.com/search?q=%23TinubuCannotWin) | N/A |
-| 7 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
-| 8 | [#benue](http://twitter.com/search?q=%23benue) | N/A |
-| 9 | [Kanaiva](http://twitter.com/search?q=Kanaiva) | N/A |
-| 10 | [Enugu](http://twitter.com/search?q=Enugu) | N/A |
-| 11 | [Frank Nweke](http://twitter.com/search?q=Frank+Nweke) | N/A |
-| 12 | [LP and PDP](http://twitter.com/search?q=LP+and+PDP) | N/A |
-| 13 | [Blaqleng](http://twitter.com/search?q=Blaqleng) | Blaqleng is a term used in the Caribbean to describe a type of dance music that combines elements of hip-hop, reggae, and soca. The name is derived from the words "black" and "leng," which refer to the African and Caribbean influences in the music. In English, Blaqleng can be translated as "black rhythm." |
+| 2 | [Royals](http://twitter.com/search?q=Royals) | N/A |
+| 3 | [#NigerianElections2023](http://twitter.com/search?q=%23NigerianElections2023) | N/A |
+| 4 | [Obasanjo](http://twitter.com/search?q=Obasanjo) | Obasanjo is a Yoruba name meaning "the king has returned". It is the surname of Olusegun Obasanjo, a former Nigerian military leader and two-term president. |
+| 5 | [#INECElectionResult](http://twitter.com/search?q=%23INECElectionResult) | N/A |
+| 6 | [Thabana](http://twitter.com/search?q=Thabana) | Thabana is a Sesotho word meaning “to be brave” or “to have courage”. It is often used as a rallying cry for people to stand up and take action in the face of adversity. |
+| 7 | [Kaniva](http://twitter.com/search?q=Kaniva) | N/A |
+| 8 | [Tsatsi](http://twitter.com/search?q=Tsatsi) | N/A |
+| 9 | [Blaqleng](http://twitter.com/search?q=Blaqleng) | Blaqleng is a term used in the Caribbean to describe a type of dance music that combines elements of hip-hop, reggae, and soca. The name is derived from the words "black" and "leng," which refer to the African and Caribbean influences in the music. In English, Blaqleng can be translated as "black rhythm." |
+| 10 | [#benue](http://twitter.com/search?q=%23benue) | N/A |
+| 11 | [#TinubuCannotWin](http://twitter.com/search?q=%23TinubuCannotWin) | N/A |
+| 12 | [Airtel](http://twitter.com/search?q=Airtel) | N/A |
+| 13 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
 | 14 | [Khosicle](http://twitter.com/search?q=Khosicle) | Khosicle is a portmanteau of the words “khaki” and “popsicle”. It is used to describe a type of clothing item that combines the look of khaki pants with the comfort of a popsicle. The term is often used to describe shorts, pants, or other clothing items that have a relaxed fit and are made from lightweight fabrics. |
-| 15 | [Imagination](http://twitter.com/search?q=Imagination) | N/A |
-| 16 | [Plateau](http://twitter.com/search?q=Plateau) | N/A |
-| 17 | [Bello](http://twitter.com/search?q=Bello) | N/A |
-| 18 | [Oyigbo](http://twitter.com/search?q=Oyigbo) | N/A |
-| 19 | [Obasanjo](http://twitter.com/search?q=Obasanjo) | Obasanjo is a Yoruba name meaning "the king has returned". It is the surname of Olusegun Obasanjo, a former Nigerian military leader and two-term president. |
-| 20 | [After God](http://twitter.com/search?q=After+God) | N/A |
-| 21 | [National Collation Centre](http://twitter.com/search?q=National+Collation+Centre) | N/A |
-| 22 | [INEC Chairman](http://twitter.com/search?q=INEC+Chairman) | N/A |
-| 23 | [Dele Alake](http://twitter.com/search?q=Dele+Alake) | N/A |
-| 24 | [Emeka](http://twitter.com/search?q=Emeka) | N/A |
-| 25 | [Givenchy](http://twitter.com/search?q=Givenchy) | N/A |
-| 26 | [Igbos in Lagos](http://twitter.com/search?q=Igbos+in+Lagos) | N/A |
-| 27 | [Edeoga](http://twitter.com/search?q=Edeoga) | N/A |
-| 28 | [Sanwo](http://twitter.com/search?q=Sanwo) | N/A |
-| 29 | [Mr Governor](http://twitter.com/search?q=Mr+Governor) | N/A |
-| 30 | [Okowa](http://twitter.com/search?q=Okowa) | N/A |
-| 31 | [APGA](http://twitter.com/search?q=APGA) | N/A |
-| 32 | [Orubebe](http://twitter.com/search?q=Orubebe) | N/A |
-| 33 | [Electoral Act](http://twitter.com/search?q=Electoral+Act) | N/A |
-| 34 | [Lagosians](http://twitter.com/search?q=Lagosians) | N/A |
-| 35 | [Mahmood Yakubu](http://twitter.com/search?q=Mahmood+Yakubu) | N/A |
-| 36 | [11th of March](http://twitter.com/search?q=11th+of+March) | N/A |
-| 37 | [PDP and LP](http://twitter.com/search?q=PDP+and+LP) | N/A |
-| 38 | [LP- 1,125,400](http://twitter.com/search?q=LP-+1%2c125%2c400) | N/A |
-| 39 | [Okwute](http://twitter.com/search?q=Okwute) | N/A |
-| 40 | [Congratulations Hon](http://twitter.com/search?q=Congratulations+Hon) | N/A |
-| 41 | [Gbadebo](http://twitter.com/search?q=Gbadebo) | N/A |
-| 42 | [Jagaban of Lagos](http://twitter.com/search?q=Jagaban+of+Lagos) | N/A |
-| 43 | [Nasarawa](http://twitter.com/search?q=Nasarawa) | N/A |
-| 44 | [Akwa Ibom](http://twitter.com/search?q=Akwa+Ibom) | N/A |
-| 45 | [Jide](http://twitter.com/search?q=Jide) | N/A |
-| 46 | [Waziri](http://twitter.com/search?q=Waziri) | N/A |
-| 47 | [Jandor](http://twitter.com/search?q=Jandor) | N/A |
-| 48 | [Breakfast](http://twitter.com/search?q=Breakfast) | N/A |
-| 49 | [Governorship](http://twitter.com/search?q=Governorship) | N/A |
-| 50 | [APC and INEC](http://twitter.com/search?q=APC+and+INEC) | N/A |
+| 15 | [Juvonne](http://twitter.com/search?q=Juvonne) | N/A |
+| 16 | [Enugu](http://twitter.com/search?q=Enugu) | N/A |
+| 17 | [Maurice Iwu](http://twitter.com/search?q=Maurice+Iwu) | N/A |
+| 18 | [LP and PDP](http://twitter.com/search?q=LP+and+PDP) | N/A |
+| 19 | [Imagination](http://twitter.com/search?q=Imagination) | N/A |
+| 20 | [Frank Nweke](http://twitter.com/search?q=Frank+Nweke) | N/A |
+| 21 | [Plateau](http://twitter.com/search?q=Plateau) | N/A |
+| 22 | [Natasha](http://twitter.com/search?q=Natasha) | N/A |
+| 23 | [Bello](http://twitter.com/search?q=Bello) | N/A |
+| 24 | [Oyigbo](http://twitter.com/search?q=Oyigbo) | N/A |
+| 25 | [Nasarawa](http://twitter.com/search?q=Nasarawa) | N/A |
+| 26 | [Emeka](http://twitter.com/search?q=Emeka) | N/A |
+| 27 | [INEC Chairman](http://twitter.com/search?q=INEC+Chairman) | N/A |
+| 28 | [Electoral Act](http://twitter.com/search?q=Electoral+Act) | N/A |
+| 29 | [After God](http://twitter.com/search?q=After+God) | N/A |
+| 30 | [Givenchy](http://twitter.com/search?q=Givenchy) | N/A |
+| 31 | [National Collation Centre](http://twitter.com/search?q=National+Collation+Centre) | N/A |
+| 32 | [11th of March](http://twitter.com/search?q=11th+of+March) | N/A |
+| 33 | [Edeoga](http://twitter.com/search?q=Edeoga) | N/A |
+| 34 | [Igbos in Lagos](http://twitter.com/search?q=Igbos+in+Lagos) | N/A |
+| 35 | [Dele Alake](http://twitter.com/search?q=Dele+Alake) | N/A |
+| 36 | [Sanwo](http://twitter.com/search?q=Sanwo) | N/A |
+| 37 | [Mahmood Yakubu](http://twitter.com/search?q=Mahmood+Yakubu) | N/A |
+| 38 | [Okowa](http://twitter.com/search?q=Okowa) | N/A |
+| 39 | [Mr Governor](http://twitter.com/search?q=Mr+Governor) | N/A |
+| 40 | [Waziri](http://twitter.com/search?q=Waziri) | N/A |
+| 41 | [Congratulations Hon](http://twitter.com/search?q=Congratulations+Hon) | N/A |
+| 42 | [APGA](http://twitter.com/search?q=APGA) | N/A |
+| 43 | [Rigged](http://twitter.com/search?q=Rigged) | N/A |
+| 44 | [PDP and LP](http://twitter.com/search?q=PDP+and+LP) | N/A |
+| 45 | [APC and INEC](http://twitter.com/search?q=APC+and+INEC) | N/A |
+| 46 | [Jandor](http://twitter.com/search?q=Jandor) | N/A |
+| 47 | [Kenneth Okonkwo](http://twitter.com/search?q=Kenneth+Okonkwo) | Kenneth Okonkwo is a Nigerian name, derived from the Igbo language. It is composed of two elements: Kenneth, which means “handsome” or “good-looking”, and Okonkwo, which means “brave” or “valiant”. Together, the name Kenneth Okonkwo can be translated to mean “handsome and brave”. |
+| 48 | [Jide](http://twitter.com/search?q=Jide) | N/A |
+| 49 | [Debo](http://twitter.com/search?q=Debo) | N/A |
+| 50 | [Jigawa](http://twitter.com/search?q=Jigawa) | N/A |
 
 
 

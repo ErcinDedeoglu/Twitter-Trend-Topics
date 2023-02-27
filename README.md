@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2023-02-27 19:15:48 UTC`
+📆 Last Updated: `2023-02-27 20:16:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,55 +21,55 @@ This is top 50
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#helaletmiyorum](http://twitter.com/search?q=%23helaletmiyorum) | N/A |
-| 2 | [ウネルミナモ](http://twitter.com/search?q=%e3%82%a6%e3%83%8d%e3%83%ab%e3%83%9f%e3%83%8a%e3%83%a2) | N/A |
-| 3 | [#GOGimmighoul](http://twitter.com/search?q=%23GOGimmighoul) | N/A |
+| 2 | [#izmirdeprem](http://twitter.com/search?q=%23izmirdeprem) | N/A |
+| 3 | [#LaVelada3](http://twitter.com/search?q=%23LaVelada3) | N/A |
 | 4 | [Bruna](http://twitter.com/search?q=Bruna) | Bruna is a Portuguese word meaning "brown". It is often used to describe someone or something that has a brown color. |
-| 5 | [スイクン](http://twitter.com/search?q=%e3%82%b9%e3%82%a4%e3%82%af%e3%83%b3) | N/A |
-| 6 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
-| 7 | [#izmir](http://twitter.com/search?q=%23izmir) | N/A |
-| 8 | [ポケモンスリープ](http://twitter.com/search?q=%e3%83%9d%e3%82%b1%e3%83%a2%e3%83%b3%e3%82%b9%e3%83%aa%e3%83%bc%e3%83%97) | N/A |
-| 9 | [#DeadSpaceMarkerMerchSweeps](http://twitter.com/search?q=%23DeadSpaceMarkerMerchSweeps) | N/A |
-| 10 | [テツノイサハ](http://twitter.com/search?q=%e3%83%86%e3%83%84%e3%83%8e%e3%82%a4%e3%82%b5%e3%83%8f) | N/A |
-| 11 | [Thabana](http://twitter.com/search?q=Thabana) | Thabana is a Sesotho word meaning “to be brave” or “to have courage”. It is often used as a rallying cry for people to stand up and take action in the face of adversity. |
-| 12 | [Suicune](http://twitter.com/search?q=Suicune) | N/A |
-| 13 | [Royals](http://twitter.com/search?q=Royals) | N/A |
-| 14 | [kevin hart](http://twitter.com/search?q=kevin+hart) | N/A |
-| 15 | [NAVI](http://twitter.com/search?q=NAVI) | N/A |
-| 16 | [BinaKimlik Sertifikası](http://twitter.com/search?q=BinaKimlik+Sertifikas%c4%b1) | N/A |
-| 17 | [イイネイヌ](http://twitter.com/search?q=%e3%82%a4%e3%82%a4%e3%83%8d%e3%82%a4%e3%83%8c) | N/A |
-| 18 | [McCabe](http://twitter.com/search?q=McCabe) | N/A |
-| 19 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
-| 20 | [PH SCAMMER](http://twitter.com/search?q=PH+SCAMMER) | N/A |
-| 21 | [Lionel Scaloni](http://twitter.com/search?q=Lionel+Scaloni) | N/A |
-| 22 | [Walking Wake](http://twitter.com/search?q=Walking+Wake) | N/A |
-| 23 | [Windsor Framework](http://twitter.com/search?q=Windsor+Framework) | N/A |
-| 24 | [Northern Ireland](http://twitter.com/search?q=Northern+Ireland) | N/A |
-| 25 | [Zé Gotinha](http://twitter.com/search?q=Z%c3%a9+Gotinha) | N/A |
-| 26 | [Foça](http://twitter.com/search?q=Fo%c3%a7a) | N/A |
-| 27 | [Lafferty](http://twitter.com/search?q=Lafferty) | Lafferty is a Scottish surname derived from the Gaelic name Mac an Leifheartaigh, meaning "son of the follower of St. Laverty". It is most commonly found in County Donegal, Ireland. In English, it can be translated to mean "son of the follower of St. Laverty". |
-| 28 | [Zé Ricardo](http://twitter.com/search?q=Z%c3%a9+Ricardo) | N/A |
-| 29 | [Fekir](http://twitter.com/search?q=Fekir) | Fekir is a French surname. It is derived from the Old French word fekir, which means "blessed". In English, it can be translated to mean "blessed one". |
-| 30 | [テラパゴス](http://twitter.com/search?q=%e3%83%86%e3%83%a9%e3%83%91%e3%82%b4%e3%82%b9) | N/A |
-| 31 | [林間学校](http://twitter.com/search?q=%e6%9e%97%e9%96%93%e5%ad%a6%e6%a0%a1) | N/A |
-| 32 | [HAKKIM HELAL OLSUN REİS](http://twitter.com/search?q=HAKKIM+HELAL+OLSUN+RE%c4%b0S) | N/A |
-| 33 | [ヒスイゾロアーク](http://twitter.com/search?q=%e3%83%92%e3%82%b9%e3%82%a4%e3%82%be%e3%83%ad%e3%82%a2%e3%83%bc%e3%82%af) | N/A |
-| 34 | [ミロカロス](http://twitter.com/search?q=%e3%83%9f%e3%83%ad%e3%82%ab%e3%83%ad%e3%82%b9) | N/A |
-| 35 | [Dubas](http://twitter.com/search?q=Dubas) | N/A |
-| 36 | [Kaniva](http://twitter.com/search?q=Kaniva) | N/A |
-| 37 | [Tsatsi](http://twitter.com/search?q=Tsatsi) | N/A |
-| 38 | [オーガポン](http://twitter.com/search?q=%e3%82%aa%e3%83%bc%e3%82%ac%e3%83%9d%e3%83%b3) | N/A |
-| 39 | [メタグロス](http://twitter.com/search?q=%e3%83%a1%e3%82%bf%e3%82%b0%e3%83%ad%e3%82%b9) | N/A |
-| 40 | [ビリジオン](http://twitter.com/search?q=%e3%83%93%e3%83%aa%e3%82%b8%e3%82%aa%e3%83%b3) | N/A |
-| 41 | [ツイステ](http://twitter.com/search?q=%e3%83%84%e3%82%a4%e3%82%b9%e3%83%86) | N/A |
-| 42 | [ANAのセール](http://twitter.com/search?q=ANA%e3%81%ae%e3%82%bb%e3%83%bc%e3%83%ab) | N/A |
-| 43 | [追加コンテンツ](http://twitter.com/search?q=%e8%bf%bd%e5%8a%a0%e3%82%b3%e3%83%b3%e3%83%86%e3%83%b3%e3%83%84) | N/A |
-| 44 | [マホイップ](http://twitter.com/search?q=%e3%83%9e%e3%83%9b%e3%82%a4%e3%83%83%e3%83%97) | N/A |
-| 45 | [エルフーン](http://twitter.com/search?q=%e3%82%a8%e3%83%ab%e3%83%95%e3%83%bc%e3%83%b3) | N/A |
-| 46 | [Iron Leaves](http://twitter.com/search?q=Iron+Leaves) | N/A |
-| 47 | [HOIL](http://twitter.com/search?q=HOIL) | N/A |
-| 48 | [スカーレット](http://twitter.com/search?q=%e3%82%b9%e3%82%ab%e3%83%bc%e3%83%ac%e3%83%83%e3%83%88) | スカーレット (sukaaretto) is a shade of red in Japanese. It is similar to the English word "scarlet" and is often used to describe a deep, bright red color. |
-| 49 | [Agressão](http://twitter.com/search?q=Agress%c3%a3o) | N/A |
-| 50 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
+| 5 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
+| 6 | [Papi Gavi](http://twitter.com/search?q=Papi+Gavi) | N/A |
+| 7 | [#GOGimmighoul](http://twitter.com/search?q=%23GOGimmighoul) | N/A |
+| 8 | [Ebubu](http://twitter.com/search?q=Ebubu) | Ebubu is a Nigerian language spoken by the Ebubu people in Rivers State, Nigeria. It is a dialect of the Igbo language and its meaning in English is "people". |
+| 9 | [Royals](http://twitter.com/search?q=Royals) | N/A |
+| 10 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
+| 11 | [kevin hart](http://twitter.com/search?q=kevin+hart) | N/A |
+| 12 | [Thabana](http://twitter.com/search?q=Thabana) | Thabana is a Sesotho word meaning “to be brave” or “to have courage”. It is often used as a rallying cry for people to stand up and take action in the face of adversity. |
+| 13 | [Pokémon](http://twitter.com/search?q=Pok%c3%a9mon) | N/A |
+| 14 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
+| 15 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
+| 16 | [#electionresults2023](http://twitter.com/search?q=%23electionresults2023) | N/A |
+| 17 | [ウネルミナモ](http://twitter.com/search?q=%e3%82%a6%e3%83%8d%e3%83%ab%e3%83%9f%e3%83%8a%e3%83%a2) | N/A |
+| 18 | [Tsatsi](http://twitter.com/search?q=Tsatsi) | N/A |
+| 19 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
+| 20 | [Zé Gotinha](http://twitter.com/search?q=Z%c3%a9+Gotinha) | N/A |
+| 21 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
+| 22 | [Biggie](http://twitter.com/search?q=Biggie) | Biggie is a nickname for the late American rapper and songwriter, Notorious B.I.G., whose real name was Christopher Wallace. The term is often used to refer to his music or legacy. |
+| 23 | [スイクン](http://twitter.com/search?q=%e3%82%b9%e3%82%a4%e3%82%af%e3%83%b3) | N/A |
+| 24 | [Suicune](http://twitter.com/search?q=Suicune) | N/A |
+| 25 | [Blaqleng](http://twitter.com/search?q=Blaqleng) | Blaqleng is a term used in the Caribbean to describe a type of dance music that combines elements of hip-hop, reggae, and soca. The name is derived from the words "black" and "leng," which refer to the African and Caribbean influences in the music. In English, Blaqleng can be translated as "black rhythm." |
+| 26 | [McCabe](http://twitter.com/search?q=McCabe) | N/A |
+| 27 | [Kaniva](http://twitter.com/search?q=Kaniva) | N/A |
+| 28 | [Khosicle](http://twitter.com/search?q=Khosicle) | Khosicle is a portmanteau of the words “khaki” and “popsicle”. It is used to describe a type of clothing item that combines the look of khaki pants with the comfort of a popsicle. The term is often used to describe shorts, pants, or other clothing items that have a relaxed fit and are made from lightweight fabrics. |
+| 29 | [Northern Ireland](http://twitter.com/search?q=Northern+Ireland) | N/A |
+| 30 | [بنزيما](http://twitter.com/search?q=%d8%a8%d9%86%d8%b2%d9%8a%d9%85%d8%a7) | بنزيما (benzema) is a surname of Arabic origin. It is derived from the Arabic word "bin zamān" which means "son of time". In English, it can be translated to mean "son of time". |
+| 31 | [ポケモン](http://twitter.com/search?q=%e3%83%9d%e3%82%b1%e3%83%a2%e3%83%b3) | N/A |
+| 32 | [Lafferty](http://twitter.com/search?q=Lafferty) | Lafferty is a Scottish surname derived from the Gaelic name Mac an Leifheartaigh, meaning "son of the follower of St. Laverty". It is most commonly found in County Donegal, Ireland. In English, it can be translated to mean "son of the follower of St. Laverty". |
+| 33 | [Walking Wake](http://twitter.com/search?q=Walking+Wake) | N/A |
+| 34 | [テツノイサハ](http://twitter.com/search?q=%e3%83%86%e3%83%84%e3%83%8e%e3%82%a4%e3%82%b5%e3%83%8f) | N/A |
+| 35 | [Fekir](http://twitter.com/search?q=Fekir) | Fekir is a French surname. It is derived from the Old French word fekir, which means "blessed". In English, it can be translated to mean "blessed one". |
+| 36 | [Lionel Scaloni](http://twitter.com/search?q=Lionel+Scaloni) | N/A |
+| 37 | [NAVI](http://twitter.com/search?q=NAVI) | N/A |
+| 38 | [PH SCAMMER](http://twitter.com/search?q=PH+SCAMMER) | N/A |
+| 39 | [Yelisa](http://twitter.com/search?q=Yelisa) | Yelisa is a Spanish name derived from the Hebrew name Elisheva, which means “God is my oath”. In English, it can be translated to mean “God is my promise”. |
+| 40 | [אבי מעוז](http://twitter.com/search?q=%d7%90%d7%91%d7%99+%d7%9e%d7%a2%d7%95%d7%96) | N/A |
+| 41 | [Obasanjo](http://twitter.com/search?q=Obasanjo) | Obasanjo is a Yoruba name meaning "the king has returned". It is the surname of Olusegun Obasanjo, a former Nigerian military leader and two-term president. |
+| 42 | [Foça](http://twitter.com/search?q=Fo%c3%a7a) | N/A |
+| 43 | [HAKKIM HELAL OLSUN REİS](http://twitter.com/search?q=HAKKIM+HELAL+OLSUN+RE%c4%b0S) | N/A |
+| 44 | [Dubas](http://twitter.com/search?q=Dubas) | N/A |
+| 45 | [Alckmin](http://twitter.com/search?q=Alckmin) | Alckmin is a surname of Portuguese origin. It is derived from the Latin word alciminium, which means "little rock". In English, the name Alckmin can be translated to mean "little rock". |
+| 46 | [イイネイヌ](http://twitter.com/search?q=%e3%82%a4%e3%82%a4%e3%83%8d%e3%82%a4%e3%83%8c) | N/A |
+| 47 | [BinaKimlik Sertifikası](http://twitter.com/search?q=BinaKimlik+Sertifikas%c4%b1) | N/A |
+| 48 | [HOIL](http://twitter.com/search?q=HOIL) | N/A |
+| 49 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
+| 50 | [Biraghi](http://twitter.com/search?q=Biraghi) | N/A |
 
 
 

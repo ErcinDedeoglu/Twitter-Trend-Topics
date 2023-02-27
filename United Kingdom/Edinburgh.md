@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Edinburgh
 
-📆 Last Updated: `2023-02-27 19:15:50 UTC`
+📆 Last Updated: `2023-02-27 20:16:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Windsor Framework](http://twitter.com/search?q=Windsor+Framework) | N/A |
+| 1 | [#WindsorFramework](http://twitter.com/search?q=%23WindsorFramework) | N/A |
 | 2 | [Northern Ireland](http://twitter.com/search?q=Northern+Ireland) | N/A |
 | 3 | [Stormont](http://twitter.com/search?q=Stormont) | N/A |
-| 4 | [#TheChase](http://twitter.com/search?q=%23TheChase) | N/A |
+| 4 | [#onlyconnect](http://twitter.com/search?q=%23onlyconnect) | #onlyconnect is a hashtag used to express the idea of connecting with others, either through social media or in real life. It is often used to encourage people to reach out and build relationships with those around them. |
 | 5 | [Sunak](http://twitter.com/search?q=Sunak) | N/A |
 | 6 | [#BrexitDeal](http://twitter.com/search?q=%23BrexitDeal) | N/A |
-| 7 | [#DeadSpaceMarkerMerchSweeps](http://twitter.com/search?q=%23DeadSpaceMarkerMerchSweeps) | N/A |
-| 8 | [#GOGimmighoul](http://twitter.com/search?q=%23GOGimmighoul) | N/A |
-| 9 | [Betty Boothroyd](http://twitter.com/search?q=Betty+Boothroyd) | N/A |
-| 10 | [Brighton Pride](http://twitter.com/search?q=Brighton+Pride) | N/A |
-| 11 | [The DUP](http://twitter.com/search?q=The+DUP) | N/A |
-| 12 | [Steve Baker](http://twitter.com/search?q=Steve+Baker) | N/A |
-| 13 | [Black Eyed Peas](http://twitter.com/search?q=Black+Eyed+Peas) | N/A |
-| 14 | [Frost](http://twitter.com/search?q=Frost) | N/A |
-| 15 | [Irish Sea](http://twitter.com/search?q=Irish+Sea) | N/A |
-| 16 | [King](http://twitter.com/search?q=King) | In English, "king" is a title given to a male monarch, usually the ruler of a kingdom or empire. It is also used as a term of endearment for someone who is seen as having great power or influence. |
-| 17 | [Noel](http://twitter.com/search?q=Noel) | Noel is a French word meaning "Christmas". It is often used as a greeting during the Christmas season. |
+| 7 | [#TheChase](http://twitter.com/search?q=%23TheChase) | N/A |
+| 8 | [Steve Baker](http://twitter.com/search?q=Steve+Baker) | N/A |
+| 9 | [The DUP](http://twitter.com/search?q=The+DUP) | N/A |
+| 10 | [Whitney](http://twitter.com/search?q=Whitney) | N/A |
+| 11 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
+| 12 | [Frost](http://twitter.com/search?q=Frost) | N/A |
+| 13 | [Betty Boothroyd](http://twitter.com/search?q=Betty+Boothroyd) | N/A |
+| 14 | [Ian Paisley](http://twitter.com/search?q=Ian+Paisley) | N/A |
+| 15 | [Brighton Pride](http://twitter.com/search?q=Brighton+Pride) | N/A |
+| 16 | [Black Eyed Peas](http://twitter.com/search?q=Black+Eyed+Peas) | N/A |
+| 17 | [Irish Sea](http://twitter.com/search?q=Irish+Sea) | N/A |
 | 18 | [UK and EU](http://twitter.com/search?q=UK+and+EU) | N/A |
-| 19 | [The ECJ](http://twitter.com/search?q=The+ECJ) | N/A |
-| 20 | [Horizon Europe](http://twitter.com/search?q=Horizon+Europe) | N/A |
-| 21 | [Ursula](http://twitter.com/search?q=Ursula) | N/A |
-| 22 | [Iron Leaves](http://twitter.com/search?q=Iron+Leaves) | N/A |
-| 23 | [Jim Allister](http://twitter.com/search?q=Jim+Allister) | N/A |
-| 24 | [UK-EU](http://twitter.com/search?q=UK-EU) | N/A |
-| 25 | [Speaker](http://twitter.com/search?q=Speaker) | Speaker is a person who speaks in public, usually to an audience. It can also refer to the device used to amplify sound, such as a loudspeaker. |
-| 26 | [Northern Lights](http://twitter.com/search?q=Northern+Lights) | N/A |
-| 27 | [Assembly](http://twitter.com/search?q=Assembly) | N/A |
-| 28 | [Commons](http://twitter.com/search?q=Commons) | N/A |
-| 29 | [Aurora](http://twitter.com/search?q=Aurora) | N/A |
-| 30 | [Single Market](http://twitter.com/search?q=Single+Market) | N/A |
-| 31 | [Suicune](http://twitter.com/search?q=Suicune) | N/A |
-| 32 | [Mogg](http://twitter.com/search?q=Mogg) | N/A |
-| 33 | [Labour MPs](http://twitter.com/search?q=Labour+MPs) | N/A |
+| 19 | [The EU](http://twitter.com/search?q=The+EU) | N/A |
+| 20 | [The ECJ](http://twitter.com/search?q=The+ECJ) | N/A |
+| 21 | [King](http://twitter.com/search?q=King) | In English, "king" is a title given to a male monarch, usually the ruler of a kingdom or empire. It is also used as a term of endearment for someone who is seen as having great power or influence. |
+| 22 | [Ursula](http://twitter.com/search?q=Ursula) | N/A |
+| 23 | [Northern Lights](http://twitter.com/search?q=Northern+Lights) | N/A |
+| 24 | [Commons](http://twitter.com/search?q=Commons) | N/A |
+| 25 | [Noel](http://twitter.com/search?q=Noel) | Noel is a French word meaning "Christmas". It is often used as a greeting during the Christmas season. |
+| 26 | [Iron Leaves](http://twitter.com/search?q=Iron+Leaves) | N/A |
+| 27 | [Theresa May](http://twitter.com/search?q=Theresa+May) | N/A |
+| 28 | [Sinn Fein](http://twitter.com/search?q=Sinn+Fein) | N/A |
+| 29 | [Levein](http://twitter.com/search?q=Levein) | N/A |
+| 30 | [Horizon Europe](http://twitter.com/search?q=Horizon+Europe) | N/A |
+| 31 | [Jim Allister](http://twitter.com/search?q=Jim+Allister) | N/A |
+| 32 | [UK-EU](http://twitter.com/search?q=UK-EU) | N/A |
+| 33 | [Assembly](http://twitter.com/search?q=Assembly) | N/A |
 | 34 | [Edward VIII](http://twitter.com/search?q=Edward+VIII) | N/A |
-| 35 | [Gazza](http://twitter.com/search?q=Gazza) | N/A |
-| 36 | [Baroness Boothroyd](http://twitter.com/search?q=Baroness+Boothroyd) | N/A |
-| 37 | [Royals](http://twitter.com/search?q=Royals) | N/A |
-| 38 | [ERG and DUP](http://twitter.com/search?q=ERG+and+DUP) | N/A |
-| 39 | [Northern Irish](http://twitter.com/search?q=Northern+Irish) | N/A |
-| 40 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
-| 41 | [Courts](http://twitter.com/search?q=Courts) | N/A |
-| 42 | [Universal Credit](http://twitter.com/search?q=Universal+Credit) | N/A |
-| 43 | [Koran](http://twitter.com/search?q=Koran) | N/A |
-| 44 | [Jamaican](http://twitter.com/search?q=Jamaican) | N/A |
-| 45 | [Queen Elizabeth II](http://twitter.com/search?q=Queen+Elizabeth+II) | N/A |
-| 46 | [Blood](http://twitter.com/search?q=Blood) | N/A |
-| 47 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
+| 35 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
+| 36 | [Aurora](http://twitter.com/search?q=Aurora) | N/A |
+| 37 | [Single Market](http://twitter.com/search?q=Single+Market) | N/A |
+| 38 | [Queen Elizabeth II](http://twitter.com/search?q=Queen+Elizabeth+II) | N/A |
+| 39 | [Obasanjo](http://twitter.com/search?q=Obasanjo) | Obasanjo is a Yoruba name meaning "the king has returned". It is the surname of Olusegun Obasanjo, a former Nigerian military leader and two-term president. |
+| 40 | [Speaker](http://twitter.com/search?q=Speaker) | Speaker is a person who speaks in public, usually to an audience. It can also refer to the device used to amplify sound, such as a loudspeaker. |
+| 41 | [ERG and DUP](http://twitter.com/search?q=ERG+and+DUP) | N/A |
+| 42 | [Suicune](http://twitter.com/search?q=Suicune) | N/A |
+| 43 | [Mogg](http://twitter.com/search?q=Mogg) | N/A |
+| 44 | [Royals](http://twitter.com/search?q=Royals) | N/A |
+| 45 | [Northern Irish](http://twitter.com/search?q=Northern+Irish) | N/A |
+| 46 | [Labour MPs](http://twitter.com/search?q=Labour+MPs) | N/A |
+| 47 | [The Queen](http://twitter.com/search?q=The+Queen) | N/A |
 
 
 

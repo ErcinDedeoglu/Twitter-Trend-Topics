@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bangkok
 
-📆 Last Updated: `2023-02-27 19:16:17 UTC`
+📆 Last Updated: `2023-02-27 20:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,8 +15,8 @@ This is top 50 for [Thailand](</Thailand>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SourandSweet](http://twitter.com/search?q=%23SourandSweet) | N/A |
-| 2 | [#HAPPYTENDAY](http://twitter.com/search?q=%23HAPPYTENDAY) | N/A |
+| 1 | [#HAPPYTENDAY](http://twitter.com/search?q=%23HAPPYTENDAY) | N/A |
+| 2 | [#SourandSweet](http://twitter.com/search?q=%23SourandSweet) | N/A |
 | 3 | [TENLEE 27th BDAY](http://twitter.com/search?q=TENLEE+27th+BDAY) | N/A |
 | 4 | [#ข้ามฟ้าเคียงเธอ](http://twitter.com/search?q=%23%e0%b8%82%e0%b9%89%e0%b8%b2%e0%b8%a1%e0%b8%9f%e0%b9%89%e0%b8%b2%e0%b9%80%e0%b8%84%e0%b8%b5%e0%b8%a2%e0%b8%87%e0%b9%80%e0%b8%98%e0%b8%ad) | N/A |
 | 5 | [#LINESTICKERxCUTIEPIE](http://twitter.com/search?q=%23LINESTICKERxCUTIEPIE) | N/A |
@@ -32,39 +32,39 @@ This is top 50 for [Thailand](</Thailand>)
 | 15 | [Sour & Sweet](http://twitter.com/search?q=Sour+%26+Sweet) | N/A |
 | 16 | [Floral Sense](http://twitter.com/search?q=Floral+Sense) | N/A |
 | 17 | [CHARLOTTE AUSTIN](http://twitter.com/search?q=CHARLOTTE+AUSTIN) | Charlotte Austin is a female given name. It is derived from the French name "Charlotte" which means "free man" and the English name "Austin" which means "great". |
-| 18 | [special day27 of engfa](http://twitter.com/search?q=special+day27+of+engfa) | N/A |
+| 18 | [SPECIAL DAY27 OF ENGFA](http://twitter.com/search?q=SPECIAL+DAY27+OF+ENGFA) | N/A |
 | 19 | [macolor runway](http://twitter.com/search?q=macolor+runway) | N/A |
-| 20 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
-| 21 | [Lucid](http://twitter.com/search?q=Lucid) | N/A |
+| 20 | [Lucid](http://twitter.com/search?q=Lucid) | N/A |
+| 21 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
 | 22 | [Good NaNoNite](http://twitter.com/search?q=Good+NaNoNite) | N/A |
-| 23 | [BLACKPINK](http://twitter.com/search?q=BLACKPINK) | BLACKPINK is a South Korean girl group formed by YG Entertainment in 2016. The group consists of four members: Jisoo, Jennie, Rosé, and Lisa. The name BLACKPINK is a combination of the words "black" and "pink," which represent the duality of the group's music, which combines both feminine and powerful elements. |
-| 24 | [IG Story](http://twitter.com/search?q=IG+Story) | N/A |
-| 25 | [#PatrickXBalmain](http://twitter.com/search?q=%23PatrickXBalmain) | N/A |
-| 26 | [#KiehlsBrightestSkinExperience](http://twitter.com/search?q=%23KiehlsBrightestSkinExperience) | N/A |
-| 27 | [#KiehlsXBright](http://twitter.com/search?q=%23KiehlsXBright) | N/A |
+| 23 | [Taylor Swift](http://twitter.com/search?q=Taylor+Swift) | N/A |
+| 24 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
+| 25 | [West](http://twitter.com/search?q=West) | N/A |
+| 26 | [IG Story](http://twitter.com/search?q=IG+Story) | N/A |
+| 27 | [#PatrickXBalmain](http://twitter.com/search?q=%23PatrickXBalmain) | N/A |
 | 28 | [#BB3isComing](http://twitter.com/search?q=%23BB3isComing) | N/A |
-| 29 | [#SpoBam](http://twitter.com/search?q=%23SpoBam) | N/A |
-| 30 | [#PatrickFinkler](http://twitter.com/search?q=%23PatrickFinkler) | N/A |
-| 31 | [#MACJacksonWang](http://twitter.com/search?q=%23MACJacksonWang) | N/A |
-| 32 | [#Showmelove1DAYleft](http://twitter.com/search?q=%23Showmelove1DAYleft) | N/A |
-| 33 | [#ไลน์สติ๊กเกอร์YWPB](http://twitter.com/search?q=%23%e0%b9%84%e0%b8%a5%e0%b8%99%e0%b9%8c%e0%b8%aa%e0%b8%95%e0%b8%b4%e0%b9%8a%e0%b8%81%e0%b9%80%e0%b8%81%e0%b8%ad%e0%b8%a3%e0%b9%8cYWPB) | N/A |
-| 34 | [#TheEndofKinnPorsche](http://twitter.com/search?q=%23TheEndofKinnPorsche) | N/A |
-| 35 | [#yinpromxceraveblemish](http://twitter.com/search?q=%23yinpromxceraveblemish) | N/A |
-| 36 | [#ใหม่ดาวิกา](http://twitter.com/search?q=%23%e0%b9%83%e0%b8%ab%e0%b8%a1%e0%b9%88%e0%b8%94%e0%b8%b2%e0%b8%a7%e0%b8%b4%e0%b8%81%e0%b8%b2) | N/A |
-| 37 | [#AlphaบุกMBKCenter](http://twitter.com/search?q=%23Alpha%e0%b8%9a%e0%b8%b8%e0%b8%81MBKCenter) | N/A |
-| 38 | [#นิ่ม](http://twitter.com/search?q=%23%e0%b8%99%e0%b8%b4%e0%b9%88%e0%b8%a1) | N/A |
-| 39 | [#ZeeNuNew안녕D4](http://twitter.com/search?q=%23ZeeNuNew%ec%95%88%eb%85%95D4) | N/A |
-| 40 | [#น้องต่อ](http://twitter.com/search?q=%23%e0%b8%99%e0%b9%89%e0%b8%ad%e0%b8%87%e0%b8%95%e0%b9%88%e0%b8%ad) | N/A |
-| 41 | [#APOFLYTOPARIS](http://twitter.com/search?q=%23APOFLYTOPARIS) | N/A |
-| 42 | [#BB_Guess_the_Title](http://twitter.com/search?q=%23BB_Guess_the_Title) | N/A |
-| 43 | [#IMAXLaserXWinnySatangMarkFord](http://twitter.com/search?q=%23IMAXLaserXWinnySatangMarkFord) | N/A |
-| 44 | [#KPWTBKKWTF](http://twitter.com/search?q=%23KPWTBKKWTF) | N/A |
-| 45 | [#แน็กชาลี](http://twitter.com/search?q=%23%e0%b9%81%e0%b8%99%e0%b9%87%e0%b8%81%e0%b8%8a%e0%b8%b2%e0%b8%a5%e0%b8%b5) | N/A |
-| 46 | [#TheWarpEffectFinalEP](http://twitter.com/search?q=%23TheWarpEffectFinalEP) | N/A |
-| 47 | [#OurBelovedGemini1M](http://twitter.com/search?q=%23OurBelovedGemini1M) | N/A |
-| 48 | [#ทวงคืนธาราผมดําจากธาราผมเทา](http://twitter.com/search?q=%23%e0%b8%97%e0%b8%a7%e0%b8%87%e0%b8%84%e0%b8%b7%e0%b8%99%e0%b8%98%e0%b8%b2%e0%b8%a3%e0%b8%b2%e0%b8%9c%e0%b8%a1%e0%b8%94%e0%b9%8d%e0%b8%b2%e0%b8%88%e0%b8%b2%e0%b8%81%e0%b8%98%e0%b8%b2%e0%b8%a3%e0%b8%b2%e0%b8%9c%e0%b8%a1%e0%b9%80%e0%b8%97%e0%b8%b2) | N/A |
-| 49 | [#BTSITSSKINxMeenPing](http://twitter.com/search?q=%23BTSITSSKINxMeenPing) | N/A |
-| 50 | [#MarkTuan_CalvinKlein](http://twitter.com/search?q=%23MarkTuan_CalvinKlein) | N/A |
+| 29 | [#KiehlsBrightestSkinExperience](http://twitter.com/search?q=%23KiehlsBrightestSkinExperience) | N/A |
+| 30 | [#SpoBam](http://twitter.com/search?q=%23SpoBam) | N/A |
+| 31 | [#KiehlsXBright](http://twitter.com/search?q=%23KiehlsXBright) | N/A |
+| 32 | [#PatrickFinkler](http://twitter.com/search?q=%23PatrickFinkler) | N/A |
+| 33 | [#Showmelove1DAYleft](http://twitter.com/search?q=%23Showmelove1DAYleft) | N/A |
+| 34 | [#MACJacksonWang](http://twitter.com/search?q=%23MACJacksonWang) | N/A |
+| 35 | [#ไลน์สติ๊กเกอร์YWPB](http://twitter.com/search?q=%23%e0%b9%84%e0%b8%a5%e0%b8%99%e0%b9%8c%e0%b8%aa%e0%b8%95%e0%b8%b4%e0%b9%8a%e0%b8%81%e0%b9%80%e0%b8%81%e0%b8%ad%e0%b8%a3%e0%b9%8cYWPB) | N/A |
+| 36 | [#TheEndofKinnPorsche](http://twitter.com/search?q=%23TheEndofKinnPorsche) | N/A |
+| 37 | [#yinpromxceraveblemish](http://twitter.com/search?q=%23yinpromxceraveblemish) | N/A |
+| 38 | [#ใหม่ดาวิกา](http://twitter.com/search?q=%23%e0%b9%83%e0%b8%ab%e0%b8%a1%e0%b9%88%e0%b8%94%e0%b8%b2%e0%b8%a7%e0%b8%b4%e0%b8%81%e0%b8%b2) | N/A |
+| 39 | [#AlphaบุกMBKCenter](http://twitter.com/search?q=%23Alpha%e0%b8%9a%e0%b8%b8%e0%b8%81MBKCenter) | N/A |
+| 40 | [#ZeeNuNew안녕D4](http://twitter.com/search?q=%23ZeeNuNew%ec%95%88%eb%85%95D4) | N/A |
+| 41 | [#นิ่ม](http://twitter.com/search?q=%23%e0%b8%99%e0%b8%b4%e0%b9%88%e0%b8%a1) | N/A |
+| 42 | [#APOFLYTOPARIS](http://twitter.com/search?q=%23APOFLYTOPARIS) | N/A |
+| 43 | [#BB_Guess_the_Title](http://twitter.com/search?q=%23BB_Guess_the_Title) | N/A |
+| 44 | [#น้องต่อ](http://twitter.com/search?q=%23%e0%b8%99%e0%b9%89%e0%b8%ad%e0%b8%87%e0%b8%95%e0%b9%88%e0%b8%ad) | N/A |
+| 45 | [#IMAXLaserXWinnySatangMarkFord](http://twitter.com/search?q=%23IMAXLaserXWinnySatangMarkFord) | N/A |
+| 46 | [#แน็กชาลี](http://twitter.com/search?q=%23%e0%b9%81%e0%b8%99%e0%b9%87%e0%b8%81%e0%b8%8a%e0%b8%b2%e0%b8%a5%e0%b8%b5) | N/A |
+| 47 | [#KPWTBKKWTF](http://twitter.com/search?q=%23KPWTBKKWTF) | N/A |
+| 48 | [#TheWarpEffectFinalEP](http://twitter.com/search?q=%23TheWarpEffectFinalEP) | N/A |
+| 49 | [#OurBelovedGemini1M](http://twitter.com/search?q=%23OurBelovedGemini1M) | N/A |
+| 50 | [#BTSITSSKINxMeenPing](http://twitter.com/search?q=%23BTSITSSKINxMeenPing) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Malaysia
 
-📆 Last Updated: `2023-02-27 19:16:41 UTC`
+📆 Last Updated: `2023-02-27 20:17:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,10 +17,10 @@ This is top 50 for Malaysia
 | ------- | ------------ | ------------ |
 | 1 | [#KiehlsXBright](http://twitter.com/search?q=%23KiehlsXBright) | N/A |
 | 2 | [PH SCAMMER](http://twitter.com/search?q=PH+SCAMMER) | N/A |
-| 3 | [#saranghaeyoodo](http://twitter.com/search?q=%23saranghaeyoodo) | N/A |
-| 4 | [#CarabaoCup](http://twitter.com/search?q=%23CarabaoCup) | #CarabaoCup is the official hashtag for the English Football League Cup, a knockout competition for teams in the top four tiers of English football. The competition is sponsored by Carabao, an energy drink company. |
+| 3 | [#CarabaoCup](http://twitter.com/search?q=%23CarabaoCup) | #CarabaoCup is the official hashtag for the English Football League Cup, a knockout competition for teams in the top four tiers of English football. The competition is sponsored by Carabao, an energy drink company. |
+| 4 | [#saranghaeyoodo](http://twitter.com/search?q=%23saranghaeyoodo) | N/A |
 | 5 | [#MUNNEW](http://twitter.com/search?q=%23MUNNEW) | N/A |
-| 6 | [#TotChe](http://twitter.com/search?q=%23TotChe) | N/A |
+| 6 | [#GGMU](http://twitter.com/search?q=%23GGMU) | #GGMU is an acronym for the phrase “Glory, Glory, Manchester United”. It is a chant used by Manchester United fans to show their support for the team. |
 | 7 | [Mascara - Maybelline](http://twitter.com/search?q=Mascara+-+Maybelline) | N/A |
 | 8 | [Concealer - Maybelline](http://twitter.com/search?q=Concealer+-+Maybelline) | N/A |
 | 9 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
@@ -30,41 +30,41 @@ This is top 50 for Malaysia
 | 13 | [Eyeliner - Maybelline](http://twitter.com/search?q=Eyeliner+-+Maybelline) | N/A |
 | 14 | [Glory Glory Man United](http://twitter.com/search?q=Glory+Glory+Man+United) | N/A |
 | 15 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
-| 16 | [John Mayer](http://twitter.com/search?q=John+Mayer) | N/A |
-| 17 | [JENO CONGRATS ON MFW](http://twitter.com/search?q=JENO+CONGRATS+ON+MFW) | N/A |
-| 18 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 16 | [JENO CONGRATS ON MFW](http://twitter.com/search?q=JENO+CONGRATS+ON+MFW) | N/A |
+| 17 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 18 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
 | 19 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 20 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 21 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 22 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
-| 23 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 24 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 25 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
-| 26 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
-| 27 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 28 | [eyeliner - silkygirl](http://twitter.com/search?q=eyeliner+-+silkygirl) | N/A |
-| 29 | [Seori](http://twitter.com/search?q=Seori) | N/A |
-| 30 | [Blusher - in2it](http://twitter.com/search?q=Blusher+-+in2it) | N/A |
-| 31 | [Floral Sense](http://twitter.com/search?q=Floral+Sense) | N/A |
+| 20 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 21 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
+| 22 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 23 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 24 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
+| 25 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
+| 26 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 27 | [eyeliner - silkygirl](http://twitter.com/search?q=eyeliner+-+silkygirl) | N/A |
+| 28 | [Seori](http://twitter.com/search?q=Seori) | N/A |
+| 29 | [Blusher - in2it](http://twitter.com/search?q=Blusher+-+in2it) | N/A |
+| 30 | [Floral Sense](http://twitter.com/search?q=Floral+Sense) | N/A |
+| 31 | [John Mayer](http://twitter.com/search?q=John+Mayer) | N/A |
 | 32 | [Lipmatte - Maybelline](http://twitter.com/search?q=Lipmatte+-+Maybelline) | N/A |
 | 33 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 34 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 35 | [Jeff](http://twitter.com/search?q=Jeff) | N/A |
-| 36 | [Sunblock - Biore](http://twitter.com/search?q=Sunblock+-+Biore) | N/A |
-| 37 | [Marcus](http://twitter.com/search?q=Marcus) | N/A |
+| 34 | [Jeff](http://twitter.com/search?q=Jeff) | N/A |
+| 35 | [Sunblock - Biore](http://twitter.com/search?q=Sunblock+-+Biore) | N/A |
+| 36 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 37 | [Momo](http://twitter.com/search?q=Momo) | Momo is a Japanese word that means "peach". It is also used as a nickname for someone who is cute or has a peachy complexion. |
 | 38 | [amir ahnaf](http://twitter.com/search?q=amir+ahnaf) | N/A |
 | 39 | [Reds](http://twitter.com/search?q=Reds) | Reds is a slang term used to refer to people who are communists or supporters of communism. It is derived from the color red, which has been associated with communism since the Russian Revolution of 1917. |
 | 40 | [KAI Rover Teaser Images 1](http://twitter.com/search?q=KAI+Rover+Teaser+Images+1) | N/A |
 | 41 | [Powder - Maybelline](http://twitter.com/search?q=Powder+-+Maybelline) | N/A |
-| 42 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
-| 43 | [Eyebrow - Silkygirl](http://twitter.com/search?q=Eyebrow+-+Silkygirl) | N/A |
-| 44 | [Chansung](http://twitter.com/search?q=Chansung) | N/A |
-| 45 | [1MDB](http://twitter.com/search?q=1MDB) | N/A |
-| 46 | [o tracklist](http://twitter.com/search?q=o+tracklist) | N/A |
-| 47 | [PARK JISUNG](http://twitter.com/search?q=PARK+JISUNG) | N/A |
-| 48 | [letshanaa](http://twitter.com/search?q=letshanaa) | N/A |
-| 49 | [League Cup](http://twitter.com/search?q=League+Cup) | N/A |
-| 50 | [Modern Family](http://twitter.com/search?q=Modern+Family) | Modern Family is an American television mockumentary sitcom created by Christopher Lloyd and Steven Levitan for the ABC network. It follows the lives of three related families, the Pritchetts, Dunphys, and Tuckers, who all live in Los Angeles. The show focuses on the characters' relationships with each other and their attempts to navigate modern life. The title of the show is a reference to the changing nature of family life in today's society. |
+| 42 | [Eyebrow - Silkygirl](http://twitter.com/search?q=Eyebrow+-+Silkygirl) | N/A |
+| 43 | [chansung](http://twitter.com/search?q=chansung) | N/A |
+| 44 | [1MDB](http://twitter.com/search?q=1MDB) | N/A |
+| 45 | [o tracklist](http://twitter.com/search?q=o+tracklist) | N/A |
+| 46 | [PARK JISUNG](http://twitter.com/search?q=PARK+JISUNG) | N/A |
+| 47 | [letshanaa](http://twitter.com/search?q=letshanaa) | N/A |
+| 48 | [League Cup](http://twitter.com/search?q=League+Cup) | N/A |
+| 49 | [Modern Family](http://twitter.com/search?q=Modern+Family) | Modern Family is an American television mockumentary sitcom created by Christopher Lloyd and Steven Levitan for the ABC network. It follows the lives of three related families, the Pritchetts, Dunphys, and Tuckers, who all live in Los Angeles. The show focuses on the characters' relationships with each other and their attempts to navigate modern life. The title of the show is a reference to the changing nature of family life in today's society. |
+| 50 | [Erik Ten Hag](http://twitter.com/search?q=Erik+Ten+Hag) | N/A |
 
 
 

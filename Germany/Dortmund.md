@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dortmund
 
-📆 Last Updated: `2023-02-27 19:16:03 UTC`
+📆 Last Updated: `2023-02-27 20:16:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
-| 2 | [#FirstDates](http://twitter.com/search?q=%23FirstDates) | N/A |
-| 3 | [#PokemonPresents](http://twitter.com/search?q=%23PokemonPresents) | N/A |
-| 4 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
+| 2 | [#hartaberfair](http://twitter.com/search?q=%23hartaberfair) | #hartaberfair is a German phrase that translates to "fair and square" or "just and fair". It is used to express the idea of fairness and justice in a situation. |
+| 3 | [#FirstDatesHotel](http://twitter.com/search?q=%23FirstDatesHotel) | N/A |
+| 4 | [#PokemonPresents](http://twitter.com/search?q=%23PokemonPresents) | N/A |
 | 5 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
-| 6 | [#Laborunfall](http://twitter.com/search?q=%23Laborunfall) | N/A |
-| 7 | [Start in die Woche](http://twitter.com/search?q=Start+in+die+Woche) | Start in die Woche is a German phrase that translates to "start of the week" in English. It is used to refer to the beginning of a new week, usually on Monday. |
+| 6 | [Start in die Woche](http://twitter.com/search?q=Start+in+die+Woche) | Start in die Woche is a German phrase that translates to "start of the week" in English. It is used to refer to the beginning of a new week, usually on Monday. |
+| 7 | [Bratapfel](http://twitter.com/search?q=Bratapfel) | N/A |
 | 8 | [Trinkgeld](http://twitter.com/search?q=Trinkgeld) | N/A |
-| 9 | [Fabienne](http://twitter.com/search?q=Fabienne) | N/A |
-| 10 | [Demo](http://twitter.com/search?q=Demo) | N/A |
-| 11 | [Senioren](http://twitter.com/search?q=Senioren) | N/A |
-| 12 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
+| 9 | [Senioren](http://twitter.com/search?q=Senioren) | N/A |
+| 10 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
+| 11 | [Lumpenpazifisten](http://twitter.com/search?q=Lumpenpazifisten) | N/A |
+| 12 | [Werbeverbot](http://twitter.com/search?q=Werbeverbot) | N/A |
 | 13 | [Gutachten](http://twitter.com/search?q=Gutachten) | N/A |
-| 14 | [Berliner Kirchenstift](http://twitter.com/search?q=Berliner+Kirchenstift) | N/A |
-| 15 | [Werbeverbot](http://twitter.com/search?q=Werbeverbot) | N/A |
-| 16 | [Kinderlose](http://twitter.com/search?q=Kinderlose) | N/A |
-| 17 | [Polarlichter](http://twitter.com/search?q=Polarlichter) | N/A |
-| 18 | [Helena](http://twitter.com/search?q=Helena) | N/A |
-| 19 | [Abrams](http://twitter.com/search?q=Abrams) | Abrams is a surname of English and German origin. It is derived from the Germanic personal name Abraham, meaning "father of many". |
-| 20 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
-| 21 | [Lumpenpazifisten](http://twitter.com/search?q=Lumpenpazifisten) | N/A |
-| 22 | [Ethikrat](http://twitter.com/search?q=Ethikrat) | N/A |
-| 23 | [Suicune](http://twitter.com/search?q=Suicune) | N/A |
-| 24 | [montagmorgen](http://twitter.com/search?q=montagmorgen) | N/A |
-| 25 | ['Feuer'](http://twitter.com/search?q=%27Feuer%27) | N/A |
-| 26 | [Schönen Abend](http://twitter.com/search?q=Sch%c3%b6nen+Abend) | N/A |
-| 27 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 14 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
+| 15 | [Berliner Kirchenstift](http://twitter.com/search?q=Berliner+Kirchenstift) | N/A |
+| 16 | [Polarlichter](http://twitter.com/search?q=Polarlichter) | N/A |
+| 17 | [Helena](http://twitter.com/search?q=Helena) | N/A |
+| 18 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
+| 19 | [Kinderlose](http://twitter.com/search?q=Kinderlose) | N/A |
+| 20 | [Ethikrat](http://twitter.com/search?q=Ethikrat) | N/A |
+| 21 | [Abrams](http://twitter.com/search?q=Abrams) | Abrams is a surname of English and German origin. It is derived from the Germanic personal name Abraham, meaning "father of many". |
+| 22 | [Suicune](http://twitter.com/search?q=Suicune) | N/A |
+| 23 | [Süßigkeiten](http://twitter.com/search?q=S%c3%bc%c3%9figkeiten) | N/A |
+| 24 | [Fabian](http://twitter.com/search?q=Fabian) | N/A |
+| 25 | [montagmorgen](http://twitter.com/search?q=montagmorgen) | N/A |
+| 26 | [Hammer](http://twitter.com/search?q=Hammer) | N/A |
+| 27 | [Schönen Abend](http://twitter.com/search?q=Sch%c3%b6nen+Abend) | N/A |
 | 28 | [Siedler](http://twitter.com/search?q=Siedler) | N/A |
-| 29 | [Hammer](http://twitter.com/search?q=Hammer) | N/A |
-| 30 | [Süßigkeiten](http://twitter.com/search?q=S%c3%bc%c3%9figkeiten) | N/A |
-| 31 | [Hubsi](http://twitter.com/search?q=Hubsi) | N/A |
-| 32 | [Joko](http://twitter.com/search?q=Joko) | N/A |
-| 33 | [Greta Thunberg](http://twitter.com/search?q=Greta+Thunberg) | Greta Thunberg is a Swedish environmental activist who has gained international recognition for her work in raising awareness about the dangers of climate change. She is best known for her school strike for climate, which began in August 2018 when she was 15 years old. She has since become a prominent figure in the global climate movement and has been nominated for the Nobel Peace Prize. |
+| 29 | [Ricarda](http://twitter.com/search?q=Ricarda) | N/A |
+| 30 | [Greta Thunberg](http://twitter.com/search?q=Greta+Thunberg) | Greta Thunberg is a Swedish environmental activist who has gained international recognition for her work in raising awareness about the dangers of climate change. She is best known for her school strike for climate, which began in August 2018 when she was 15 years old. She has since become a prominent figure in the global climate movement and has been nominated for the Nobel Peace Prize. |
+| 31 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 32 | [Schutzbedürftige](http://twitter.com/search?q=Schutzbed%c3%bcrftige) | N/A |
+| 33 | ['Feuer'](http://twitter.com/search?q=%27Feuer%27) | N/A |
 | 34 | [Teilnehmer](http://twitter.com/search?q=Teilnehmer) | N/A |
-| 35 | [Panzer](http://twitter.com/search?q=Panzer) | N/A |
-| 36 | [Schutzbedürftige](http://twitter.com/search?q=Schutzbed%c3%bcrftige) | N/A |
-| 37 | [Frau Buyx](http://twitter.com/search?q=Frau+Buyx) | N/A |
-| 38 | [Ukrainer](http://twitter.com/search?q=Ukrainer) | N/A |
+| 35 | [Frau Buyx](http://twitter.com/search?q=Frau+Buyx) | N/A |
+| 36 | [Ukrainer](http://twitter.com/search?q=Ukrainer) | N/A |
+| 37 | [Finne](http://twitter.com/search?q=Finne) | N/A |
+| 38 | [Panzer](http://twitter.com/search?q=Panzer) | N/A |
 | 39 | [Virus](http://twitter.com/search?q=Virus) | N/A |
-| 40 | [Nordlichter](http://twitter.com/search?q=Nordlichter) | N/A |
-| 41 | [Finne](http://twitter.com/search?q=Finne) | N/A |
-| 42 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
-| 43 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
-| 44 | [Verbotspartei](http://twitter.com/search?q=Verbotspartei) | N/A |
-| 45 | [Mystery Dungeon](http://twitter.com/search?q=Mystery+Dungeon) | N/A |
-| 46 | [Kohlekraftwerke](http://twitter.com/search?q=Kohlekraftwerke) | N/A |
-| 47 | [Fratze Deutschlands](http://twitter.com/search?q=Fratze+Deutschlands) | N/A |
+| 40 | [Ernährung](http://twitter.com/search?q=Ern%c3%a4hrung) | N/A |
+| 41 | [Altenpflege](http://twitter.com/search?q=Altenpflege) | N/A |
+| 42 | [Joko](http://twitter.com/search?q=Joko) | N/A |
+| 43 | [Hubsi](http://twitter.com/search?q=Hubsi) | N/A |
+| 44 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
+| 45 | [Nordlichter](http://twitter.com/search?q=Nordlichter) | N/A |
+| 46 | [Mystery Dungeon](http://twitter.com/search?q=Mystery+Dungeon) | N/A |
+| 47 | [fratze deutschlands](http://twitter.com/search?q=fratze+deutschlands) | N/A |
 | 48 | [Tobias](http://twitter.com/search?q=Tobias) | N/A |
-| 49 | [Altenpflege](http://twitter.com/search?q=Altenpflege) | N/A |
+| 49 | [Pflegeversicherung](http://twitter.com/search?q=Pflegeversicherung) | N/A |
 
 
 

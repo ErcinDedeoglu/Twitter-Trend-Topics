@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Germany
 
-📆 Last Updated: `2023-02-27 19:16:39 UTC`
+📆 Last Updated: `2023-02-27 20:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Germany
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
-| 2 | [#FirstDates](http://twitter.com/search?q=%23FirstDates) | N/A |
-| 3 | [#PokemonPresents](http://twitter.com/search?q=%23PokemonPresents) | N/A |
-| 4 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
-| 5 | [#Laborunfall](http://twitter.com/search?q=%23Laborunfall) | N/A |
+| 1 | [#hartaberfair](http://twitter.com/search?q=%23hartaberfair) | #hartaberfair is a German phrase that translates to "fair and square" or "just and fair". It is used to express the idea of fairness and justice in a situation. |
+| 2 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
+| 3 | [#firstdateshotel](http://twitter.com/search?q=%23firstdateshotel) | N/A |
+| 4 | [#PokemonPresents](http://twitter.com/search?q=%23PokemonPresents) | N/A |
+| 5 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
 | 6 | [Start in die Woche](http://twitter.com/search?q=Start+in+die+Woche) | Start in die Woche is a German phrase that translates to "start of the week" in English. It is used to refer to the beginning of a new week, usually on Monday. |
-| 7 | [#FCBFCU](http://twitter.com/search?q=%23FCBFCU) | N/A |
-| 8 | [Trinkgeld](http://twitter.com/search?q=Trinkgeld) | N/A |
-| 9 | [Fabienne](http://twitter.com/search?q=Fabienne) | N/A |
-| 10 | [Demo](http://twitter.com/search?q=Demo) | N/A |
-| 11 | [Senioren](http://twitter.com/search?q=Senioren) | N/A |
-| 12 | [Bratapfel](http://twitter.com/search?q=Bratapfel) | N/A |
+| 7 | [#Laborunfall](http://twitter.com/search?q=%23Laborunfall) | N/A |
+| 8 | [Bratapfel](http://twitter.com/search?q=Bratapfel) | N/A |
+| 9 | [Trinkgeld](http://twitter.com/search?q=Trinkgeld) | N/A |
+| 10 | [Senioren](http://twitter.com/search?q=Senioren) | N/A |
+| 11 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
+| 12 | [Lumpenpazifisten](http://twitter.com/search?q=Lumpenpazifisten) | N/A |
 | 13 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
 | 14 | [Gutachten](http://twitter.com/search?q=Gutachten) | N/A |
 | 15 | [Berliner Kirchenstift](http://twitter.com/search?q=Berliner+Kirchenstift) | N/A |
-| 16 | [Werbeverbot](http://twitter.com/search?q=Werbeverbot) | N/A |
-| 17 | [Kinderlose](http://twitter.com/search?q=Kinderlose) | N/A |
-| 18 | [Polarlichter](http://twitter.com/search?q=Polarlichter) | N/A |
-| 19 | [Helena](http://twitter.com/search?q=Helena) | N/A |
-| 20 | [Abrams](http://twitter.com/search?q=Abrams) | Abrams is a surname of English and German origin. It is derived from the Germanic personal name Abraham, meaning "father of many". |
-| 21 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
-| 22 | [Lumpenpazifisten](http://twitter.com/search?q=Lumpenpazifisten) | N/A |
-| 23 | [Ethikrat](http://twitter.com/search?q=Ethikrat) | N/A |
+| 16 | [Polarlichter](http://twitter.com/search?q=Polarlichter) | N/A |
+| 17 | [Werbeverbot](http://twitter.com/search?q=Werbeverbot) | N/A |
+| 18 | [Helena](http://twitter.com/search?q=Helena) | N/A |
+| 19 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
+| 20 | [Kinderlose](http://twitter.com/search?q=Kinderlose) | N/A |
+| 21 | [Ethikrat](http://twitter.com/search?q=Ethikrat) | N/A |
+| 22 | [Abrams](http://twitter.com/search?q=Abrams) | Abrams is a surname of English and German origin. It is derived from the Germanic personal name Abraham, meaning "father of many". |
+| 23 | [Hammer](http://twitter.com/search?q=Hammer) | N/A |
 | 24 | [Suicune](http://twitter.com/search?q=Suicune) | N/A |
-| 25 | [Schönen Abend](http://twitter.com/search?q=Sch%c3%b6nen+Abend) | N/A |
-| 26 | [montagmorgen](http://twitter.com/search?q=montagmorgen) | N/A |
-| 27 | ['Feuer'](http://twitter.com/search?q=%27Feuer%27) | N/A |
-| 28 | [Hammer](http://twitter.com/search?q=Hammer) | N/A |
-| 29 | [Süßigkeiten](http://twitter.com/search?q=S%c3%bc%c3%9figkeiten) | N/A |
-| 30 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 31 | [Siedler](http://twitter.com/search?q=Siedler) | N/A |
-| 32 | [Joko](http://twitter.com/search?q=Joko) | N/A |
-| 33 | [Greta Thunberg](http://twitter.com/search?q=Greta+Thunberg) | Greta Thunberg is a Swedish environmental activist who has gained international recognition for her work in raising awareness about the dangers of climate change. She is best known for her school strike for climate, which began in August 2018 when she was 15 years old. She has since become a prominent figure in the global climate movement and has been nominated for the Nobel Peace Prize. |
-| 34 | [Teilnehmer](http://twitter.com/search?q=Teilnehmer) | N/A |
-| 35 | [Hubsi](http://twitter.com/search?q=Hubsi) | N/A |
-| 36 | [Panzer](http://twitter.com/search?q=Panzer) | N/A |
-| 37 | [Schutzbedürftige](http://twitter.com/search?q=Schutzbed%c3%bcrftige) | N/A |
-| 38 | [Frau Buyx](http://twitter.com/search?q=Frau+Buyx) | N/A |
-| 39 | [Ukrainer](http://twitter.com/search?q=Ukrainer) | N/A |
-| 40 | [Virus](http://twitter.com/search?q=Virus) | N/A |
-| 41 | [Nordlichter](http://twitter.com/search?q=Nordlichter) | N/A |
-| 42 | [Finne](http://twitter.com/search?q=Finne) | N/A |
-| 43 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
-| 44 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
-| 45 | [Mystery Dungeon](http://twitter.com/search?q=Mystery+Dungeon) | N/A |
-| 46 | [Kohlekraftwerke](http://twitter.com/search?q=Kohlekraftwerke) | N/A |
-| 47 | [Altenpflege](http://twitter.com/search?q=Altenpflege) | N/A |
-| 48 | [Fratze Deutschlands](http://twitter.com/search?q=Fratze+Deutschlands) | N/A |
-| 49 | [Tobias](http://twitter.com/search?q=Tobias) | N/A |
-| 50 | [Morty](http://twitter.com/search?q=Morty) | Morty is a nickname for the given name Mortimer, which is of English origin and means "dead sea". It can also be used as a diminutive form of the name Mortimer. |
+| 25 | [Süßigkeiten](http://twitter.com/search?q=S%c3%bc%c3%9figkeiten) | N/A |
+| 26 | [Fabian](http://twitter.com/search?q=Fabian) | N/A |
+| 27 | [montagmorgen](http://twitter.com/search?q=montagmorgen) | N/A |
+| 28 | [Ricarda](http://twitter.com/search?q=Ricarda) | N/A |
+| 29 | [Siedler](http://twitter.com/search?q=Siedler) | N/A |
+| 30 | [Greta Thunberg](http://twitter.com/search?q=Greta+Thunberg) | Greta Thunberg is a Swedish environmental activist who has gained international recognition for her work in raising awareness about the dangers of climate change. She is best known for her school strike for climate, which began in August 2018 when she was 15 years old. She has since become a prominent figure in the global climate movement and has been nominated for the Nobel Peace Prize. |
+| 31 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 32 | [Schönen Abend](http://twitter.com/search?q=Sch%c3%b6nen+Abend) | N/A |
+| 33 | [Schutzbedürftige](http://twitter.com/search?q=Schutzbed%c3%bcrftige) | N/A |
+| 34 | ['Feuer'](http://twitter.com/search?q=%27Feuer%27) | N/A |
+| 35 | [Teilnehmer](http://twitter.com/search?q=Teilnehmer) | N/A |
+| 36 | [Ukrainer](http://twitter.com/search?q=Ukrainer) | N/A |
+| 37 | [Finne](http://twitter.com/search?q=Finne) | N/A |
+| 38 | [Virus](http://twitter.com/search?q=Virus) | N/A |
+| 39 | [Panzer](http://twitter.com/search?q=Panzer) | N/A |
+| 40 | [Frau Buyx](http://twitter.com/search?q=Frau+Buyx) | N/A |
+| 41 | [Ernährung](http://twitter.com/search?q=Ern%c3%a4hrung) | N/A |
+| 42 | [Carsten](http://twitter.com/search?q=Carsten) | N/A |
+| 43 | [Altenpflege](http://twitter.com/search?q=Altenpflege) | N/A |
+| 44 | [Joko](http://twitter.com/search?q=Joko) | N/A |
+| 45 | [Hubsi](http://twitter.com/search?q=Hubsi) | N/A |
+| 46 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
+| 47 | [Nordlichter](http://twitter.com/search?q=Nordlichter) | N/A |
+| 48 | [Mystery Dungeon](http://twitter.com/search?q=Mystery+Dungeon) | N/A |
+| 49 | [fratze deutschlands](http://twitter.com/search?q=fratze+deutschlands) | N/A |
+| 50 | [Tobias](http://twitter.com/search?q=Tobias) | N/A |
 
 
 

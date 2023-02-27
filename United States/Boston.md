@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Boston
 
-📆 Last Updated: `2023-02-27 19:16:29 UTC`
+📆 Last Updated: `2023-02-27 20:17:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#GOGimmighoul](http://twitter.com/search?q=%23GOGimmighoul) | N/A |
-| 2 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
-| 3 | [kevin hart](http://twitter.com/search?q=kevin+hart) | N/A |
-| 4 | [#RizzToken](http://twitter.com/search?q=%23RizzToken) | N/A |
-| 5 | [#DeadSpaceMarkerMerchSweeps](http://twitter.com/search?q=%23DeadSpaceMarkerMerchSweeps) | N/A |
-| 6 | [Walking Wake](http://twitter.com/search?q=Walking+Wake) | N/A |
-| 7 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 8 | [HOIL](http://twitter.com/search?q=HOIL) | N/A |
-| 9 | [Maino](http://twitter.com/search?q=Maino) | N/A |
-| 10 | [McCabe](http://twitter.com/search?q=McCabe) | N/A |
-| 11 | [Lafferty](http://twitter.com/search?q=Lafferty) | Lafferty is a Scottish surname derived from the Gaelic name Mac an Leifheartaigh, meaning "son of the follower of St. Laverty". It is most commonly found in County Donegal, Ireland. In English, it can be translated to mean "son of the follower of St. Laverty". |
-| 12 | [Reedy Creek](http://twitter.com/search?q=Reedy+Creek) | N/A |
-| 13 | [Buckhead](http://twitter.com/search?q=Buckhead) | N/A |
-| 14 | [Yellen](http://twitter.com/search?q=Yellen) | N/A |
-| 15 | [AP Poll](http://twitter.com/search?q=AP+Poll) | The AP Poll (or the Associated Press Poll) is a weekly ranking of the top 25 college football teams in the United States, as determined by a panel of sportswriters and broadcasters. The poll is conducted by the Associated Press (AP), a news agency based in New York City. The rankings are released each Sunday during the college football season, with the exception of the final poll, which is released after the conclusion of the College Football Playoff National Championship. |
-| 16 | [Bryan Cranston](http://twitter.com/search?q=Bryan+Cranston) | N/A |
-| 17 | [David Hogg](http://twitter.com/search?q=David+Hogg) | N/A |
-| 18 | [MATT MERCER](http://twitter.com/search?q=MATT+MERCER) | N/A |
-| 19 | [Alec Bohm](http://twitter.com/search?q=Alec+Bohm) | N/A |
-| 20 | [David Peterson](http://twitter.com/search?q=David+Peterson) | N/A |
-| 21 | [Starfire](http://twitter.com/search?q=Starfire) | N/A |
-| 22 | [Dominican Independence Day](http://twitter.com/search?q=Dominican+Independence+Day) | N/A |
-| 23 | [Joey Votto](http://twitter.com/search?q=Joey+Votto) | N/A |
-| 24 | [Brendan Donovan](http://twitter.com/search?q=Brendan+Donovan) | N/A |
-| 25 | [AP Top 25](http://twitter.com/search?q=AP+Top+25) | N/A |
-| 26 | [Matt Olson](http://twitter.com/search?q=Matt+Olson) | N/A |
-| 27 | [CFPB](http://twitter.com/search?q=CFPB) | N/A |
-| 28 | [Tornado Watch](http://twitter.com/search?q=Tornado+Watch) | N/A |
-| 29 | [Virizion](http://twitter.com/search?q=Virizion) | N/A |
-| 30 | [Slim Jim](http://twitter.com/search?q=Slim+Jim) | N/A |
-| 31 | [Jim Acosta](http://twitter.com/search?q=Jim+Acosta) | N/A |
-| 32 | [Joyce Manor](http://twitter.com/search?q=Joyce+Manor) | N/A |
-| 33 | [NFL Combine](http://twitter.com/search?q=NFL+Combine) | N/A |
-| 34 | [Ho-Oh](http://twitter.com/search?q=Ho-Oh) | N/A |
-| 35 | [Emilia Clarke](http://twitter.com/search?q=Emilia+Clarke) | N/A |
-| 36 | [Temperature of America](http://twitter.com/search?q=Temperature+of+America) | N/A |
-| 37 | [Keeley](http://twitter.com/search?q=Keeley) | N/A |
-| 38 | [The Supreme Court](http://twitter.com/search?q=The+Supreme+Court) | N/A |
-| 39 | [Dubas](http://twitter.com/search?q=Dubas) | N/A |
-| 40 | [Terapagos](http://twitter.com/search?q=Terapagos) | N/A |
-| 41 | [Hockenson](http://twitter.com/search?q=Hockenson) | Hockenson is a surname of German origin. It is derived from the Old German word "hocke" meaning "hook" or "crook". The name is thought to have been given to someone who lived near a bend in a river or stream. |
-| 42 | [Okidogi](http://twitter.com/search?q=Okidogi) | N/A |
-| 43 | [Extreme MAGA Republicans](http://twitter.com/search?q=Extreme+MAGA+Republicans) | N/A |
-| 44 | [Wrath of the Machine](http://twitter.com/search?q=Wrath+of+the+Machine) | N/A |
-| 45 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
-| 46 | [Ordinary World](http://twitter.com/search?q=Ordinary+World) | N/A |
-| 47 | [Sneed](http://twitter.com/search?q=Sneed) | Sneed is a slang term used to describe someone who is sneaky or untrustworthy. It can also be used to describe someone who is up to no good. |
-| 48 | [Rudolph](http://twitter.com/search?q=Rudolph) | N/A |
+| 1 | [kevin hart](http://twitter.com/search?q=kevin+hart) | N/A |
+| 2 | [#GOGimmighoul](http://twitter.com/search?q=%23GOGimmighoul) | N/A |
+| 3 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
+| 4 | [#DeadSpaceMarkerMerchSweeps](http://twitter.com/search?q=%23DeadSpaceMarkerMerchSweeps) | N/A |
+| 5 | [#RizzToken](http://twitter.com/search?q=%23RizzToken) | N/A |
+| 6 | [Suicune](http://twitter.com/search?q=Suicune) | N/A |
+| 7 | [Walking Wake](http://twitter.com/search?q=Walking+Wake) | N/A |
+| 8 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 9 | [John Marvin](http://twitter.com/search?q=John+Marvin) | N/A |
+| 10 | [HOIL](http://twitter.com/search?q=HOIL) | N/A |
+| 11 | [Maino](http://twitter.com/search?q=Maino) | N/A |
+| 12 | [Beyond the Summit](http://twitter.com/search?q=Beyond+the+Summit) | N/A |
+| 13 | [Wesson](http://twitter.com/search?q=Wesson) | N/A |
+| 14 | [McCabe](http://twitter.com/search?q=McCabe) | N/A |
+| 15 | [Reedy Creek](http://twitter.com/search?q=Reedy+Creek) | N/A |
+| 16 | [Iron Leaves](http://twitter.com/search?q=Iron+Leaves) | N/A |
+| 17 | [Tink Hence](http://twitter.com/search?q=Tink+Hence) | N/A |
+| 18 | [Jarren Duran](http://twitter.com/search?q=Jarren+Duran) | N/A |
+| 19 | [Buckhead](http://twitter.com/search?q=Buckhead) | N/A |
+| 20 | [Yellen](http://twitter.com/search?q=Yellen) | N/A |
+| 21 | [Extreme MAGA Republicans](http://twitter.com/search?q=Extreme+MAGA+Republicans) | N/A |
+| 22 | [David Hogg](http://twitter.com/search?q=David+Hogg) | N/A |
+| 23 | [Bryan Cranston](http://twitter.com/search?q=Bryan+Cranston) | N/A |
+| 24 | [Jim Acosta](http://twitter.com/search?q=Jim+Acosta) | N/A |
+| 25 | [MATT MERCER](http://twitter.com/search?q=MATT+MERCER) | N/A |
+| 26 | [Maui Ahuna](http://twitter.com/search?q=Maui+Ahuna) | N/A |
+| 27 | [Joe Rudolph](http://twitter.com/search?q=Joe+Rudolph) | N/A |
+| 28 | [Starfire](http://twitter.com/search?q=Starfire) | N/A |
+| 29 | [Sedition Panda](http://twitter.com/search?q=Sedition+Panda) | N/A |
+| 30 | [Kodachrome](http://twitter.com/search?q=Kodachrome) | N/A |
+| 31 | [Dubas](http://twitter.com/search?q=Dubas) | N/A |
+| 32 | [McShay](http://twitter.com/search?q=McShay) | N/A |
+| 33 | [Sneed](http://twitter.com/search?q=Sneed) | Sneed is a slang term used to describe someone who is sneaky or untrustworthy. It can also be used to describe someone who is up to no good. |
+| 34 | [Player of the Week](http://twitter.com/search?q=Player+of+the+Week) | N/A |
+| 35 | [Dominican Independence Day](http://twitter.com/search?q=Dominican+Independence+Day) | N/A |
+| 36 | [Emilia Clarke](http://twitter.com/search?q=Emilia+Clarke) | N/A |
+| 37 | [Wander Franco](http://twitter.com/search?q=Wander+Franco) | N/A |
+| 38 | [CFPB](http://twitter.com/search?q=CFPB) | N/A |
+| 39 | [AP Poll](http://twitter.com/search?q=AP+Poll) | The AP Poll (or the Associated Press Poll) is a weekly ranking of the top 25 college football teams in the United States, as determined by a panel of sportswriters and broadcasters. The poll is conducted by the Associated Press (AP), a news agency based in New York City. The rankings are released each Sunday during the college football season, with the exception of the final poll, which is released after the conclusion of the College Football Playoff National Championship. |
+| 40 | [Virizion](http://twitter.com/search?q=Virizion) | N/A |
+| 41 | [Brendan Donovan](http://twitter.com/search?q=Brendan+Donovan) | N/A |
+| 42 | [Fnatic](http://twitter.com/search?q=Fnatic) | N/A |
+| 43 | [Joyce Manor](http://twitter.com/search?q=Joyce+Manor) | N/A |
+| 44 | [Paradox](http://twitter.com/search?q=Paradox) | N/A |
+| 45 | [The Supreme Court](http://twitter.com/search?q=The+Supreme+Court) | N/A |
+| 46 | [Matt Olson](http://twitter.com/search?q=Matt+Olson) | N/A |
+| 47 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
+| 48 | [David Peterson](http://twitter.com/search?q=David+Peterson) | N/A |
 
 
 
