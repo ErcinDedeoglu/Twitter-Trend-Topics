@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nigeria
 
-📆 Last Updated: `2023-02-27 12:18:15 UTC`
+📆 Last Updated: `2023-02-27 13:21:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for Nigeria
 | 2 | [#electionresults2023](http://twitter.com/search?q=%23electionresults2023) | N/A |
 | 3 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
 | 4 | [Plateau](http://twitter.com/search?q=Plateau) | N/A |
-| 5 | [Orubebe](http://twitter.com/search?q=Orubebe) | N/A |
-| 6 | [Givenchy](http://twitter.com/search?q=Givenchy) | N/A |
-| 7 | [#NigerianElections2023](http://twitter.com/search?q=%23NigerianElections2023) | N/A |
-| 8 | [Sanwo Olu](http://twitter.com/search?q=Sanwo+Olu) | N/A |
+| 5 | [#NigerianElections2023](http://twitter.com/search?q=%23NigerianElections2023) | N/A |
+| 6 | [Orubebe](http://twitter.com/search?q=Orubebe) | N/A |
+| 7 | [Givenchy](http://twitter.com/search?q=Givenchy) | N/A |
+| 8 | [Kenneth Okonkwo](http://twitter.com/search?q=Kenneth+Okonkwo) | Kenneth Okonkwo is a Nigerian name, derived from the Igbo language. It is composed of two elements: Kenneth, which means “handsome” or “good-looking”, and Okonkwo, which means “brave” or “valiant”. Together, the name Kenneth Okonkwo can be translated to mean “handsome and brave”. |
 | 9 | [LP- 1,125,400](http://twitter.com/search?q=LP-+1%2c125%2c400) | N/A |
-| 10 | [Banky](http://twitter.com/search?q=Banky) | N/A |
-| 11 | [#Nigeriandecides2023](http://twitter.com/search?q=%23Nigeriandecides2023) | N/A |
-| 12 | [City Boy](http://twitter.com/search?q=City+Boy) | N/A |
-| 13 | [My Governor](http://twitter.com/search?q=My+Governor) | N/A |
-| 14 | [#protest](http://twitter.com/search?q=%23protest) | N/A |
+| 10 | [Sanwo Olu](http://twitter.com/search?q=Sanwo+Olu) | N/A |
+| 11 | [My Governor](http://twitter.com/search?q=My+Governor) | N/A |
+| 12 | [#Nigeriandecides2023](http://twitter.com/search?q=%23Nigeriandecides2023) | N/A |
+| 13 | [Banky](http://twitter.com/search?q=Banky) | N/A |
+| 14 | [City Boy](http://twitter.com/search?q=City+Boy) | N/A |
 | 15 | [PDP- 450,329](http://twitter.com/search?q=PDP-+450%2c329) | N/A |
-| 16 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 17 | [11th of March](http://twitter.com/search?q=11th+of+March) | N/A |
-| 18 | [Gotham](http://twitter.com/search?q=Gotham) | N/A |
-| 19 | [Ben Hundeyin](http://twitter.com/search?q=Ben+Hundeyin) | N/A |
-| 20 | [Gbadebo Rhodes](http://twitter.com/search?q=Gbadebo+Rhodes) | N/A |
-| 21 | [APC 150,134](http://twitter.com/search?q=APC+150%2c134) | N/A |
-| 22 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
-| 23 | [Kenneth Okonkwo](http://twitter.com/search?q=Kenneth+Okonkwo) | Kenneth Okonkwo is a Nigerian name, derived from the Igbo language. It is composed of two elements: Kenneth, which means “handsome” or “good-looking”, and Okonkwo, which means “brave” or “valiant”. Together, the name Kenneth Okonkwo can be translated to mean “handsome and brave”. |
+| 16 | [#protest](http://twitter.com/search?q=%23protest) | N/A |
+| 17 | [#2023PresidentialElection](http://twitter.com/search?q=%232023PresidentialElection) | N/A |
+| 18 | [Ben Hundeyin](http://twitter.com/search?q=Ben+Hundeyin) | N/A |
+| 19 | [11th of March](http://twitter.com/search?q=11th+of+March) | N/A |
+| 20 | [INEC Chairman](http://twitter.com/search?q=INEC+Chairman) | N/A |
+| 21 | [IT IS DONE](http://twitter.com/search?q=IT+IS+DONE) | IT IS DONE is an expression used to indicate that a task or project has been completed. It is often used as a declaration of accomplishment or success. |
+| 22 | [Gbadebo Rhodes](http://twitter.com/search?q=Gbadebo+Rhodes) | N/A |
+| 23 | [APC 150,134](http://twitter.com/search?q=APC+150%2c134) | N/A |
 | 24 | [Kwara](http://twitter.com/search?q=Kwara) | N/A |
-| 25 | [IT IS DONE](http://twitter.com/search?q=IT+IS+DONE) | IT IS DONE is an expression used to indicate that a task or project has been completed. It is often used as a declaration of accomplishment or success. |
-| 26 | [Ronu](http://twitter.com/search?q=Ronu) | N/A |
+| 25 | [Gotham](http://twitter.com/search?q=Gotham) | N/A |
+| 26 | [Enugu](http://twitter.com/search?q=Enugu) | N/A |
 | 27 | [Governorship](http://twitter.com/search?q=Governorship) | N/A |
-| 28 | [Jandor](http://twitter.com/search?q=Jandor) | N/A |
-| 29 | [Xbox](http://twitter.com/search?q=Xbox) | N/A |
-| 30 | [INEC Chairman](http://twitter.com/search?q=INEC+Chairman) | N/A |
-| 31 | [Landlord](http://twitter.com/search?q=Landlord) | N/A |
-| 32 | [Dayo](http://twitter.com/search?q=Dayo) | N/A |
-| 33 | [Eti-Osa](http://twitter.com/search?q=Eti-Osa) | N/A |
+| 28 | [Okwute](http://twitter.com/search?q=Okwute) | N/A |
+| 29 | [SS and SE](http://twitter.com/search?q=SS+and+SE) | N/A |
+| 30 | [Jandor](http://twitter.com/search?q=Jandor) | N/A |
+| 31 | [National Collation Centre](http://twitter.com/search?q=National+Collation+Centre) | N/A |
+| 32 | [Duke of Hastings](http://twitter.com/search?q=Duke+of+Hastings) | N/A |
+| 33 | [Igbo Traders](http://twitter.com/search?q=Igbo+Traders) | N/A |
 | 34 | [Osun](http://twitter.com/search?q=Osun) | Osun is an Orisha, or deity, in the Yoruba religion of West Africa. She is the goddess of fertility, love, and sensuality. Her name means "She Who Possesses Wealth" in the Yoruba language. |
-| 35 | [Gubernatorial](http://twitter.com/search?q=Gubernatorial) | N/A |
-| 36 | [SS and SE](http://twitter.com/search?q=SS+and+SE) | N/A |
-| 37 | [National Collation Centre](http://twitter.com/search?q=National+Collation+Centre) | N/A |
-| 38 | [Congratulations Sir](http://twitter.com/search?q=Congratulations+Sir) | N/A |
-| 39 | [Desmond Elliot](http://twitter.com/search?q=Desmond+Elliot) | N/A |
-| 40 | [Thaddeus](http://twitter.com/search?q=Thaddeus) | N/A |
-| 41 | [Akwa Ibom](http://twitter.com/search?q=Akwa+Ibom) | N/A |
-| 42 | [Jide](http://twitter.com/search?q=Jide) | N/A |
-| 43 | [Alimosho](http://twitter.com/search?q=Alimosho) | N/A |
-| 44 | [Breakfast](http://twitter.com/search?q=Breakfast) | N/A |
-| 45 | [Attah](http://twitter.com/search?q=Attah) | N/A |
-| 46 | [Mercy Johnson](http://twitter.com/search?q=Mercy+Johnson) | N/A |
-| 47 | [Yar'adua](http://twitter.com/search?q=Yar%27adua) | N/A |
-| 48 | [Hoodlums](http://twitter.com/search?q=Hoodlums) | N/A |
-| 49 | [Ayade](http://twitter.com/search?q=Ayade) | N/A |
-| 50 | [Tenant](http://twitter.com/search?q=Tenant) | N/A |
+| 35 | [Landlord](http://twitter.com/search?q=Landlord) | N/A |
+| 36 | [Congratulations Ma](http://twitter.com/search?q=Congratulations+Ma) | N/A |
+| 37 | [Ronu](http://twitter.com/search?q=Ronu) | N/A |
+| 38 | [Dayo Israel](http://twitter.com/search?q=Dayo+Israel) | N/A |
+| 39 | [North Central](http://twitter.com/search?q=North+Central) | N/A |
+| 40 | [Lessons](http://twitter.com/search?q=Lessons) | N/A |
+| 41 | [Mercy Johnson](http://twitter.com/search?q=Mercy+Johnson) | N/A |
+| 42 | [Hoodlums](http://twitter.com/search?q=Hoodlums) | N/A |
+| 43 | [Thaddeus](http://twitter.com/search?q=Thaddeus) | N/A |
+| 44 | [Xbox](http://twitter.com/search?q=Xbox) | N/A |
+| 45 | [Ambode](http://twitter.com/search?q=Ambode) | N/A |
+| 46 | [Jide](http://twitter.com/search?q=Jide) | N/A |
+| 47 | [Abia](http://twitter.com/search?q=Abia) | N/A |
+| 48 | [Gubernatorial](http://twitter.com/search?q=Gubernatorial) | N/A |
+| 49 | [Seyi](http://twitter.com/search?q=Seyi) | N/A |
+| 50 | [Akwa Ibom](http://twitter.com/search?q=Akwa+Ibom) | N/A |
 
 
 

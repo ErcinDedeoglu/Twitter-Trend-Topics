@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Milan
 
-📆 Last Updated: `2023-02-27 12:17:39 UTC`
+📆 Last Updated: `2023-02-27 13:20:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,38 +16,45 @@ This is top 50 for [Italy](</Italy>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#MariaDeFilippi](http://twitter.com/search?q=%23MariaDeFilippi) | N/A |
-| 2 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
-| 3 | [Schlein](http://twitter.com/search?q=Schlein) | N/A |
-| 4 | [#lariachetira](http://twitter.com/search?q=%23lariachetira) | N/A |
-| 5 | [#addiopd](http://twitter.com/search?q=%23addiopd) | N/A |
-| 6 | [#27febbraio](http://twitter.com/search?q=%2327febbraio) | N/A |
-| 7 | [Bonaccini](http://twitter.com/search?q=Bonaccini) | N/A |
-| 8 | [Pippo Franco](http://twitter.com/search?q=Pippo+Franco) | N/A |
-| 9 | [Renzi](http://twitter.com/search?q=Renzi) | N/A |
-| 10 | [#primariepd2023](http://twitter.com/search?q=%23primariepd2023) | N/A |
-| 11 | [adinolfi](http://twitter.com/search?q=adinolfi) | N/A |
-| 12 | [Il PD](http://twitter.com/search?q=Il+PD) | N/A |
-| 13 | [Franceschini](http://twitter.com/search?q=Franceschini) | N/A |
-| 14 | [Terzo Polo](http://twitter.com/search?q=Terzo+Polo) | N/A |
-| 15 | [RACE WEEK](http://twitter.com/search?q=RACE+WEEK) | N/A |
+| 2 | [Schlein](http://twitter.com/search?q=Schlein) | N/A |
+| 3 | [#addiopd](http://twitter.com/search?q=%23addiopd) | N/A |
+| 4 | [#27febbraio](http://twitter.com/search?q=%2327febbraio) | N/A |
+| 5 | [#lariachetira](http://twitter.com/search?q=%23lariachetira) | N/A |
+| 6 | [Fioroni](http://twitter.com/search?q=Fioroni) | N/A |
+| 7 | [Renzi](http://twitter.com/search?q=Renzi) | N/A |
+| 8 | [#twittamibeautiful](http://twitter.com/search?q=%23twittamibeautiful) | N/A |
+| 9 | [Pippo Franco](http://twitter.com/search?q=Pippo+Franco) | N/A |
+| 10 | [Bonaccini](http://twitter.com/search?q=Bonaccini) | N/A |
+| 11 | [Enrico](http://twitter.com/search?q=Enrico) | N/A |
+| 12 | [Lercio](http://twitter.com/search?q=Lercio) | N/A |
+| 13 | [Il PD](http://twitter.com/search?q=Il+PD) | N/A |
+| 14 | [Adinolfi](http://twitter.com/search?q=Adinolfi) | N/A |
+| 15 | [Franceschini](http://twitter.com/search?q=Franceschini) | N/A |
 | 16 | [Grecia](http://twitter.com/search?q=Grecia) | N/A |
-| 17 | [Boccia](http://twitter.com/search?q=Boccia) | N/A |
-| 18 | [Turchia](http://twitter.com/search?q=Turchia) | N/A |
-| 19 | [letta](http://twitter.com/search?q=letta) | N/A |
-| 20 | [Vedremo](http://twitter.com/search?q=Vedremo) | N/A |
-| 21 | [Ditta](http://twitter.com/search?q=Ditta) | N/A |
-| 22 | [Partito Democratico](http://twitter.com/search?q=Partito+Democratico) | N/A |
-| 23 | [Sinistra](http://twitter.com/search?q=Sinistra) | N/A |
-| 24 | [Svizzera](http://twitter.com/search?q=Svizzera) | N/A |
-| 25 | [Hojlund](http://twitter.com/search?q=Hojlund) | N/A |
-| 26 | [Stefano](http://twitter.com/search?q=Stefano) | N/A |
-| 27 | [Thiaw](http://twitter.com/search?q=Thiaw) | N/A |
-| 28 | [#VivaRai2](http://twitter.com/search?q=%23VivaRai2) | N/A |
-| 29 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
-| 30 | [#LaTerraDiCaino](http://twitter.com/search?q=%23LaTerraDiCaino) | N/A |
-| 31 | [#Piantedosi](http://twitter.com/search?q=%23Piantedosi) | N/A |
-| 32 | [#SAGAwards](http://twitter.com/search?q=%23SAGAwards) | N/A |
-| 33 | [#selfie](http://twitter.com/search?q=%23selfie) | N/A |
+| 17 | [Turchia](http://twitter.com/search?q=Turchia) | N/A |
+| 18 | [Sala](http://twitter.com/search?q=Sala) | N/A |
+| 19 | [Zingaretti](http://twitter.com/search?q=Zingaretti) | N/A |
+| 20 | [Letta](http://twitter.com/search?q=Letta) | N/A |
+| 21 | [RACE WEEK](http://twitter.com/search?q=RACE+WEEK) | N/A |
+| 22 | [Boccia](http://twitter.com/search?q=Boccia) | N/A |
+| 23 | [Vedremo](http://twitter.com/search?q=Vedremo) | N/A |
+| 24 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
+| 25 | [Orlando](http://twitter.com/search?q=Orlando) | Orlando is a city in the U.S. state of Florida. It is the county seat of Orange County and the center of the Greater Orlando metropolitan area. The name "Orlando" is derived from the Italian phrase "orare labore," which means "to pray and work." |
+| 26 | [Svizzera](http://twitter.com/search?q=Svizzera) | N/A |
+| 27 | [Ditta](http://twitter.com/search?q=Ditta) | N/A |
+| 28 | [Partito Democratico](http://twitter.com/search?q=Partito+Democratico) | N/A |
+| 29 | [Sinistra](http://twitter.com/search?q=Sinistra) | N/A |
+| 30 | [Marotta](http://twitter.com/search?q=Marotta) | N/A |
+| 31 | [Hojlund](http://twitter.com/search?q=Hojlund) | N/A |
+| 32 | [#terzopolo](http://twitter.com/search?q=%23terzopolo) | N/A |
+| 33 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
+| 34 | [#Piantedosi](http://twitter.com/search?q=%23Piantedosi) | N/A |
+| 35 | [#LaTerraDiCaino](http://twitter.com/search?q=%23LaTerraDiCaino) | N/A |
+| 36 | [#primarie2023](http://twitter.com/search?q=%23primarie2023) | N/A |
+| 37 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
+| 38 | [#SAGAwards](http://twitter.com/search?q=%23SAGAwards) | N/A |
+| 39 | [#Cutro](http://twitter.com/search?q=%23Cutro) | N/A |
+| 40 | [#VivaRai2](http://twitter.com/search?q=%23VivaRai2) | N/A |
 
 
 

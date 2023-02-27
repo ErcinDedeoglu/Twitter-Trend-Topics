@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Memphis
 
-📆 Last Updated: `2023-02-27 12:18:06 UTC`
+📆 Last Updated: `2023-02-27 13:21:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 2 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
+| 1 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
+| 2 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
 | 3 | [Preds](http://twitter.com/search?q=Preds) | N/A |
 | 4 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 5 | [Good Monday](http://twitter.com/search?q=Good+Monday) | Good Monday is an expression used to express enthusiasm for the start of a new week. It is typically used as a greeting or salutation when wishing someone a good start to the week. |
+| 5 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
 | 6 | [#mondaythoughts](http://twitter.com/search?q=%23mondaythoughts) | #MondayThoughts is a hashtag used on social media to share thoughts, ideas, and reflections on the start of the week. It is often used to encourage others to have a positive outlook on the week ahead. |
-| 7 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 8 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
-| 9 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
-| 10 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
-| 11 | [Daily Quordle 399](http://twitter.com/search?q=Daily+Quordle+399) | N/A |
-| 12 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
-| 13 | [#electionresults2023](http://twitter.com/search?q=%23electionresults2023) | N/A |
-| 14 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 15 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 16 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
-| 17 | [Ty Lue](http://twitter.com/search?q=Ty+Lue) | Ty Lue is the name of an American basketball coach and former player. He is currently the head coach of the Los Angeles Clippers of the National Basketball Association (NBA). The name "Ty Lue" is derived from his given name, Tyronn. |
-| 18 | [Tinubu](http://twitter.com/search?q=Tinubu) | N/A |
-| 19 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
-| 20 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
-| 21 | [Fauci](http://twitter.com/search?q=Fauci) | N/A |
-| 22 | [Lightfall](http://twitter.com/search?q=Lightfall) | N/A |
-| 23 | [Morris](http://twitter.com/search?q=Morris) | N/A |
-| 24 | [Eric Gordon](http://twitter.com/search?q=Eric+Gordon) | N/A |
-| 25 | [Paul George](http://twitter.com/search?q=Paul+George) | Paul George is an American professional basketball player who currently plays for the Los Angeles Clippers of the National Basketball Association (NBA). He is a six-time NBA All-Star and four-time All-NBA Team selection. The phrase "Paul George" is used to refer to the basketball player himself. |
-| 26 | [Deion](http://twitter.com/search?q=Deion) | N/A |
-| 27 | [Morty](http://twitter.com/search?q=Morty) | Morty is a nickname for the given name Mortimer, which is of English origin and means "dead sea". It can also be used as a diminutive form of the name Mortimer. |
-| 28 | [Jeannot](http://twitter.com/search?q=Jeannot) | N/A |
-| 29 | [Rockets](http://twitter.com/search?q=Rockets) | Rockets are a type of spacecraft used for space exploration and travel. They are powered by engines that use fuel to generate thrust, allowing them to move through the air or outer space. Rockets are used to launch satellites, transport people and cargo into space, and even explore other planets. The word "rocket" comes from the Latin word "rockete," which means "to shoot." |
-| 30 | [James Hong](http://twitter.com/search?q=James+Hong) | N/A |
-| 31 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
-| 32 | [Wilt](http://twitter.com/search?q=Wilt) | N/A |
-| 33 | [Hogg](http://twitter.com/search?q=Hogg) | N/A |
-| 34 | [Ekiti](http://twitter.com/search?q=Ekiti) | N/A |
-| 35 | [TOYA](http://twitter.com/search?q=TOYA) | N/A |
-| 36 | [Zimmerman](http://twitter.com/search?q=Zimmerman) | N/A |
-| 37 | [Sally Field](http://twitter.com/search?q=Sally+Field) | N/A |
-| 38 | [Nuggets](http://twitter.com/search?q=Nuggets) | Nuggets is a term used to refer to small, bite-sized pieces of food, usually made from chicken or other meats. Nuggets are typically deep-fried and served with a dipping sauce. The term can also be used to refer to small pieces of information or knowledge that are valuable and useful. |
-| 39 | [Yoruba](http://twitter.com/search?q=Yoruba) | N/A |
-| 40 | [Cranston](http://twitter.com/search?q=Cranston) | N/A |
-| 41 | [Stunna](http://twitter.com/search?q=Stunna) | Stunna is a slang term used to describe someone who is confident and stylish. It can also be used to describe someone who is bold and daring. The term comes from the phrase "stunna shades," which refers to a type of sunglasses that are popular among hip-hop artists. |
-| 42 | [Clue](http://twitter.com/search?q=Clue) | N/A |
-| 43 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
-| 44 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
-| 45 | [Silas](http://twitter.com/search?q=Silas) | N/A |
-| 46 | [CrossFit](http://twitter.com/search?q=CrossFit) | N/A |
-| 47 | [Bojack](http://twitter.com/search?q=Bojack) | N/A |
-| 48 | [Just Like Heaven](http://twitter.com/search?q=Just+Like+Heaven) | N/A |
-| 49 | [Storm Reid](http://twitter.com/search?q=Storm+Reid) | N/A |
+| 7 | [Good Monday](http://twitter.com/search?q=Good+Monday) | Good Monday is an expression used to express enthusiasm for the start of a new week. It is typically used as a greeting or salutation when wishing someone a good start to the week. |
+| 8 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 9 | [#PokemonPresents](http://twitter.com/search?q=%23PokemonPresents) | N/A |
+| 10 | [#Mondayvibes](http://twitter.com/search?q=%23Mondayvibes) | N/A |
+| 11 | [Master P](http://twitter.com/search?q=Master+P) | N/A |
+| 12 | [Daily Quordle 399](http://twitter.com/search?q=Daily+Quordle+399) | N/A |
+| 13 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
+| 14 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
+| 15 | [New Week](http://twitter.com/search?q=New+Week) | N/A |
+| 16 | [Fauci](http://twitter.com/search?q=Fauci) | N/A |
+| 17 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
+| 18 | [John Steinbeck](http://twitter.com/search?q=John+Steinbeck) | N/A |
+| 19 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 20 | [Deion](http://twitter.com/search?q=Deion) | N/A |
+| 21 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
+| 22 | [Tinubu](http://twitter.com/search?q=Tinubu) | N/A |
+| 23 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
+| 24 | [Hogg](http://twitter.com/search?q=Hogg) | N/A |
+| 25 | [Militia](http://twitter.com/search?q=Militia) | N/A |
+| 26 | [toya](http://twitter.com/search?q=toya) | N/A |
+| 27 | [Jeannot](http://twitter.com/search?q=Jeannot) | N/A |
+| 28 | [Bojack](http://twitter.com/search?q=Bojack) | N/A |
+| 29 | [Govenor](http://twitter.com/search?q=Govenor) | N/A |
+| 30 | [Lightfall](http://twitter.com/search?q=Lightfall) | N/A |
+| 31 | [Zimmerman](http://twitter.com/search?q=Zimmerman) | N/A |
+| 32 | [Cranston](http://twitter.com/search?q=Cranston) | N/A |
+| 33 | [Clue](http://twitter.com/search?q=Clue) | N/A |
+| 34 | [Paul George](http://twitter.com/search?q=Paul+George) | Paul George is an American professional basketball player who currently plays for the Los Angeles Clippers of the National Basketball Association (NBA). He is a six-time NBA All-Star and four-time All-NBA Team selection. The phrase "Paul George" is used to refer to the basketball player himself. |
+| 35 | [Department of Energy](http://twitter.com/search?q=Department+of+Energy) | N/A |
+| 36 | [Morty](http://twitter.com/search?q=Morty) | Morty is a nickname for the given name Mortimer, which is of English origin and means "dead sea". It can also be used as a diminutive form of the name Mortimer. |
+| 37 | [Ty Lue](http://twitter.com/search?q=Ty+Lue) | Ty Lue is the name of an American basketball coach and former player. He is currently the head coach of the Los Angeles Clippers of the National Basketball Association (NBA). The name "Ty Lue" is derived from his given name, Tyronn. |
+| 38 | [Rockets](http://twitter.com/search?q=Rockets) | Rockets are a type of spacecraft used for space exploration and travel. They are powered by engines that use fuel to generate thrust, allowing them to move through the air or outer space. Rockets are used to launch satellites, transport people and cargo into space, and even explore other planets. The word "rocket" comes from the Latin word "rockete," which means "to shoot." |
+| 39 | [Trayvon](http://twitter.com/search?q=Trayvon) | N/A |
+| 40 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
+| 41 | [James Hong](http://twitter.com/search?q=James+Hong) | N/A |
+| 42 | [Ekiti](http://twitter.com/search?q=Ekiti) | N/A |
+| 43 | [Morris](http://twitter.com/search?q=Morris) | N/A |
+| 44 | [Eric Gordon](http://twitter.com/search?q=Eric+Gordon) | N/A |
+| 45 | [Wilt](http://twitter.com/search?q=Wilt) | N/A |
+| 46 | [Apartheid](http://twitter.com/search?q=Apartheid) | N/A |
+| 47 | [Family Guy](http://twitter.com/search?q=Family+Guy) | Family Guy is an American animated sitcom created by Seth MacFarlane for the Fox Broadcasting Company. The show follows the adventures of the Griffin family, consisting of father Peter, mother Lois, daughter Meg, son Chris, baby Stewie and the family dog Brian, who reside in their hometown of Quahog. The show is known for its off-color humor and often satirical take on American culture. |
+| 48 | [Yoruba](http://twitter.com/search?q=Yoruba) | N/A |
 
 
 

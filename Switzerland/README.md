@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-02-27 12:18:17 UTC`
+📆 Last Updated: `2023-02-27 13:21:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Switzerland
 | 1 | [#HRC52](http://twitter.com/search?q=%23HRC52) | N/A |
 | 2 | [#OMPSG](http://twitter.com/search?q=%23OMPSG) | N/A |
 | 3 | [#Tatort](http://twitter.com/search?q=%23Tatort) | N/A |
-| 4 | [#HumanRights](http://twitter.com/search?q=%23HumanRights) | N/A |
-| 5 | [#WSMDS](http://twitter.com/search?q=%23WSMDS) | N/A |
-| 6 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 7 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 8 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
-| 9 | [Conseil](http://twitter.com/search?q=Conseil) | N/A |
-| 10 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 11 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 12 | [Bise](http://twitter.com/search?q=Bise) | N/A |
+| 4 | [#WSMDS](http://twitter.com/search?q=%23WSMDS) | N/A |
+| 5 | [#Iran](http://twitter.com/search?q=%23Iran) | N/A |
+| 6 | [Human Rights Council](http://twitter.com/search?q=Human+Rights+Council) | N/A |
+| 7 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 8 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 9 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
+| 10 | [Mieter](http://twitter.com/search?q=Mieter) | N/A |
+| 11 | [Conseil](http://twitter.com/search?q=Conseil) | N/A |
+| 12 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
 | 13 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
-| 14 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 15 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 16 | [FC Sion](http://twitter.com/search?q=FC+Sion) | N/A |
-| 17 | [Almeria](http://twitter.com/search?q=Almeria) | N/A |
-| 18 | [Geneva](http://twitter.com/search?q=Geneva) | N/A |
-| 19 | [Conference](http://twitter.com/search?q=Conference) | N/A |
+| 14 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 15 | [Almeria](http://twitter.com/search?q=Almeria) | N/A |
+| 16 | [Bise](http://twitter.com/search?q=Bise) | N/A |
+| 17 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 18 | [Conference](http://twitter.com/search?q=Conference) | N/A |
+| 19 | [FC Sion](http://twitter.com/search?q=FC+Sion) | N/A |
 | 20 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
-| 21 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 22 | [Entschuldigung](http://twitter.com/search?q=Entschuldigung) | N/A |
-| 23 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 24 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
-| 25 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 26 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 27 | [Andy](http://twitter.com/search?q=Andy) | N/A |
-| 28 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 29 | [Tories](http://twitter.com/search?q=Tories) | N/A |
-| 30 | [Schwarzer](http://twitter.com/search?q=Schwarzer) | N/A |
-| 31 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
-| 32 | [Telegram](http://twitter.com/search?q=Telegram) | N/A |
-| 33 | [Druck](http://twitter.com/search?q=Druck) | N/A |
-| 34 | [Stuss](http://twitter.com/search?q=Stuss) | N/A |
-| 35 | [Maroc](http://twitter.com/search?q=Maroc) | N/A |
-| 36 | [Jaaa](http://twitter.com/search?q=Jaaa) | N/A |
-| 37 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 38 | [Army](http://twitter.com/search?q=Army) | N/A |
-| 39 | [Munich](http://twitter.com/search?q=Munich) | N/A |
-| 40 | [Strategie](http://twitter.com/search?q=Strategie) | N/A |
-| 41 | [Wörter](http://twitter.com/search?q=W%c3%b6rter) | N/A |
-| 42 | [Mainstream](http://twitter.com/search?q=Mainstream) | N/A |
-| 43 | [Fair](http://twitter.com/search?q=Fair) | N/A |
-| 44 | [Cassis](http://twitter.com/search?q=Cassis) | N/A |
-| 45 | [Köppel](http://twitter.com/search?q=K%c3%b6ppel) | N/A |
+| 21 | [Geneva](http://twitter.com/search?q=Geneva) | N/A |
+| 22 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 23 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 24 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 25 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
+| 26 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 27 | [Jake](http://twitter.com/search?q=Jake) | N/A |
+| 28 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 29 | [Andy](http://twitter.com/search?q=Andy) | N/A |
+| 30 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 31 | [Tories](http://twitter.com/search?q=Tories) | N/A |
+| 32 | [Schwarzer](http://twitter.com/search?q=Schwarzer) | N/A |
+| 33 | [Stuss](http://twitter.com/search?q=Stuss) | N/A |
+| 34 | [Maroc](http://twitter.com/search?q=Maroc) | N/A |
+| 35 | [Jaaa](http://twitter.com/search?q=Jaaa) | N/A |
+| 36 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 37 | [Army](http://twitter.com/search?q=Army) | N/A |
+| 38 | [Strategie](http://twitter.com/search?q=Strategie) | N/A |
+| 39 | [Ptdrrrrr](http://twitter.com/search?q=Ptdrrrrr) | N/A |
+| 40 | [Mainstream](http://twitter.com/search?q=Mainstream) | N/A |
+| 41 | [Dido](http://twitter.com/search?q=Dido) | N/A |
+| 42 | [Wörter](http://twitter.com/search?q=W%c3%b6rter) | N/A |
+| 43 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
+| 44 | [Fair](http://twitter.com/search?q=Fair) | N/A |
+| 45 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
 | 46 | [Gerechtigkeit](http://twitter.com/search?q=Gerechtigkeit) | N/A |
-| 47 | [En Suisse](http://twitter.com/search?q=En+Suisse) | N/A |
-| 48 | [Demokratie](http://twitter.com/search?q=Demokratie) | N/A |
-| 49 | [Sofa](http://twitter.com/search?q=Sofa) | N/A |
-| 50 | [Stärke](http://twitter.com/search?q=St%c3%a4rke) | N/A |
+| 47 | [Ergebnisse](http://twitter.com/search?q=Ergebnisse) | N/A |
+| 48 | [En Suisse](http://twitter.com/search?q=En+Suisse) | N/A |
+| 49 | [Demokratie](http://twitter.com/search?q=Demokratie) | N/A |
+| 50 | [Sofa](http://twitter.com/search?q=Sofa) | N/A |
 
 
 
