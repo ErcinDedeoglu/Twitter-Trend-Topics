@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Manchester
 
-📆 Last Updated: `2023-02-27 16:15:45 UTC`
+📆 Last Updated: `2023-02-27 17:15:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,53 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
-| 2 | [#PaulFury](http://twitter.com/search?q=%23PaulFury) | N/A |
-| 3 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
-| 4 | [Northern Ireland](http://twitter.com/search?q=Northern+Ireland) | N/A |
-| 5 | [Rishi Sunak](http://twitter.com/search?q=Rishi+Sunak) | Rishi Sunak is the current Chancellor of the Exchequer in the United Kingdom. The Chancellor of the Exchequer is the British government minister responsible for all economic and financial matters. The name Rishi Sunak is derived from two words: Rishi, which means sage or saint in Sanskrit, and Sunak, which means treasurer or banker in Hindi. |
-| 6 | [Commons](http://twitter.com/search?q=Commons) | N/A |
-| 7 | [Matt Hancock](http://twitter.com/search?q=Matt+Hancock) | Matt Hancock is the current Secretary of State for Health and Social Care in the United Kingdom. He is responsible for leading the government's response to the coronavirus pandemic. The phrase "Matt Hancock" is used to refer to him and his role in government. |
-| 8 | [#5albums19](http://twitter.com/search?q=%235albums19) | N/A |
-| 9 | [Banky](http://twitter.com/search?q=Banky) | N/A |
-| 10 | [#Auroraborealis](http://twitter.com/search?q=%23Auroraborealis) | N/A |
-| 11 | [#SAGAwards](http://twitter.com/search?q=%23SAGAwards) | N/A |
-| 12 | [Lightfall](http://twitter.com/search?q=Lightfall) | N/A |
+| 2 | [Rishi Sunak](http://twitter.com/search?q=Rishi+Sunak) | Rishi Sunak is the current Chancellor of the Exchequer in the United Kingdom. The Chancellor of the Exchequer is the British government minister responsible for all economic and financial matters. The name Rishi Sunak is derived from two words: Rishi, which means sage or saint in Sanskrit, and Sunak, which means treasurer or banker in Hindi. |
+| 3 | [The DUP](http://twitter.com/search?q=The+DUP) | N/A |
+| 4 | [Commons](http://twitter.com/search?q=Commons) | N/A |
+| 5 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
+| 6 | [Single Market](http://twitter.com/search?q=Single+Market) | N/A |
+| 7 | [#EDAW2023](http://twitter.com/search?q=%23EDAW2023) | N/A |
+| 8 | [#Auroraborealis](http://twitter.com/search?q=%23Auroraborealis) | N/A |
+| 9 | [#SAGAwards](http://twitter.com/search?q=%23SAGAwards) | N/A |
+| 10 | [Lightfall](http://twitter.com/search?q=Lightfall) | N/A |
+| 11 | [Windsor Framework](http://twitter.com/search?q=Windsor+Framework) | N/A |
+| 12 | [Northern Ireland](http://twitter.com/search?q=Northern+Ireland) | N/A |
 | 13 | [#PokemonPresents](http://twitter.com/search?q=%23PokemonPresents) | N/A |
-| 14 | [Windsor Framework](http://twitter.com/search?q=Windsor+Framework) | N/A |
-| 15 | [Betty Boothroyd](http://twitter.com/search?q=Betty+Boothroyd) | N/A |
-| 16 | [Speaker](http://twitter.com/search?q=Speaker) | Speaker is a person who speaks in public, usually to an audience. It can also refer to the device used to amplify sound, such as a loudspeaker. |
-| 17 | [Leyen](http://twitter.com/search?q=Leyen) | N/A |
-| 18 | [Stormont](http://twitter.com/search?q=Stormont) | N/A |
-| 19 | [King](http://twitter.com/search?q=King) | In English, "king" is a title given to a male monarch, usually the ruler of a kingdom or empire. It is also used as a term of endearment for someone who is seen as having great power or influence. |
+| 14 | [Betty Boothroyd](http://twitter.com/search?q=Betty+Boothroyd) | N/A |
+| 15 | [Stormont](http://twitter.com/search?q=Stormont) | N/A |
+| 16 | [Leyen](http://twitter.com/search?q=Leyen) | N/A |
+| 17 | [Speaker](http://twitter.com/search?q=Speaker) | Speaker is a person who speaks in public, usually to an audience. It can also refer to the device used to amplify sound, such as a loudspeaker. |
+| 18 | [King](http://twitter.com/search?q=King) | In English, "king" is a title given to a male monarch, usually the ruler of a kingdom or empire. It is also used as a term of endearment for someone who is seen as having great power or influence. |
+| 19 | [UK and EU](http://twitter.com/search?q=UK+and+EU) | N/A |
 | 20 | [Suicune](http://twitter.com/search?q=Suicune) | N/A |
-| 21 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 22 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
-| 23 | [Baroness Boothroyd](http://twitter.com/search?q=Baroness+Boothroyd) | N/A |
+| 21 | [Steve Baker](http://twitter.com/search?q=Steve+Baker) | N/A |
+| 22 | [Baroness Boothroyd](http://twitter.com/search?q=Baroness+Boothroyd) | N/A |
+| 23 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
 | 24 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
-| 25 | [Mystery Dungeon](http://twitter.com/search?q=Mystery+Dungeon) | N/A |
-| 26 | [UK and EU](http://twitter.com/search?q=UK+and+EU) | N/A |
-| 27 | [Steve Baker](http://twitter.com/search?q=Steve+Baker) | N/A |
-| 28 | [Labour MPs](http://twitter.com/search?q=Labour+MPs) | N/A |
-| 29 | [Noel](http://twitter.com/search?q=Noel) | Noel is a French word meaning "Christmas". It is often used as a greeting during the Christmas season. |
-| 30 | [SV DLC](http://twitter.com/search?q=SV+DLC) | N/A |
-| 31 | [International Women's Day](http://twitter.com/search?q=International+Women%27s+Day) | N/A |
-| 32 | [Gazza](http://twitter.com/search?q=Gazza) | N/A |
-| 33 | [Queen](http://twitter.com/search?q=Queen) | N/A |
-| 34 | [Arlene](http://twitter.com/search?q=Arlene) | N/A |
-| 35 | [sarah jane](http://twitter.com/search?q=sarah+jane) | N/A |
-| 36 | [Jeffrey Epstein](http://twitter.com/search?q=Jeffrey+Epstein) | N/A |
-| 37 | [Northern Lights](http://twitter.com/search?q=Northern+Lights) | N/A |
-| 38 | [Jamaican](http://twitter.com/search?q=Jamaican) | N/A |
-| 39 | [Ofgem](http://twitter.com/search?q=Ofgem) | N/A |
-| 40 | [Plateau](http://twitter.com/search?q=Plateau) | N/A |
-| 41 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
-| 42 | [Robyn](http://twitter.com/search?q=Robyn) | Robyn is a female given name of English origin, derived from the Old Germanic name Hrodebert, meaning "bright fame". It is also a variant spelling of the name Robin. |
-| 43 | [Orubebe](http://twitter.com/search?q=Orubebe) | N/A |
-| 44 | [Sanwo Olu](http://twitter.com/search?q=Sanwo+Olu) | N/A |
-| 45 | [Universal Credit](http://twitter.com/search?q=Universal+Credit) | N/A |
-| 46 | [Monarchy](http://twitter.com/search?q=Monarchy) | N/A |
-| 47 | [England and Wales](http://twitter.com/search?q=England+and+Wales) | N/A |
-| 48 | [Goldson](http://twitter.com/search?q=Goldson) | Goldson is a surname of English origin. It is derived from the Old English words "gold" and "sunu," meaning "son of gold." The name is thought to have been given to someone who was wealthy or had a golden complexion. |
-| 49 | [Blood](http://twitter.com/search?q=Blood) | N/A |
-| 50 | [Weds](http://twitter.com/search?q=Weds) | N/A |
+| 25 | [Irish Sea](http://twitter.com/search?q=Irish+Sea) | N/A |
+| 26 | [Assembly](http://twitter.com/search?q=Assembly) | N/A |
+| 27 | [Noel](http://twitter.com/search?q=Noel) | Noel is a French word meaning "Christmas". It is often used as a greeting during the Christmas season. |
+| 28 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
+| 29 | [Labour MPs](http://twitter.com/search?q=Labour+MPs) | N/A |
+| 30 | [Mystery Dungeon](http://twitter.com/search?q=Mystery+Dungeon) | N/A |
+| 31 | [SV DLC](http://twitter.com/search?q=SV+DLC) | N/A |
+| 32 | [International Women's Day](http://twitter.com/search?q=International+Women%27s+Day) | N/A |
+| 33 | [Northern Lights](http://twitter.com/search?q=Northern+Lights) | N/A |
+| 34 | [Gazza](http://twitter.com/search?q=Gazza) | N/A |
+| 35 | [Jeffrey Epstein](http://twitter.com/search?q=Jeffrey+Epstein) | N/A |
+| 36 | [Jamaican](http://twitter.com/search?q=Jamaican) | N/A |
+| 37 | [Enugu](http://twitter.com/search?q=Enugu) | N/A |
+| 38 | [Ofgem](http://twitter.com/search?q=Ofgem) | N/A |
+| 39 | [Plateau](http://twitter.com/search?q=Plateau) | N/A |
+| 40 | [Whitby](http://twitter.com/search?q=Whitby) | N/A |
+| 41 | [Robyn](http://twitter.com/search?q=Robyn) | Robyn is a female given name of English origin, derived from the Old Germanic name Hrodebert, meaning "bright fame". It is also a variant spelling of the name Robin. |
+| 42 | [Queen Elizabeth II](http://twitter.com/search?q=Queen+Elizabeth+II) | N/A |
+| 43 | [Universal Credit](http://twitter.com/search?q=Universal+Credit) | N/A |
+| 44 | [Mogg](http://twitter.com/search?q=Mogg) | N/A |
+| 45 | [Blood](http://twitter.com/search?q=Blood) | N/A |
+| 46 | [Matt Hancock](http://twitter.com/search?q=Matt+Hancock) | Matt Hancock is the current Secretary of State for Health and Social Care in the United Kingdom. He is responsible for leading the government's response to the coronavirus pandemic. The phrase "Matt Hancock" is used to refer to him and his role in government. |
+| 47 | [The ERG](http://twitter.com/search?q=The+ERG) | N/A |
+| 48 | [Monarchy](http://twitter.com/search?q=Monarchy) | N/A |
 
 
 

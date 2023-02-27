@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-02-27 16:15:55 UTC`
+📆 Last Updated: `2023-02-27 17:15:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,45 +26,45 @@ This is top 50 for [Austria](</Austria>)
 | 9 | [Arbeitszeit](http://twitter.com/search?q=Arbeitszeit) | N/A |
 | 10 | [#b2502](http://twitter.com/search?q=%23b2502) | N/A |
 | 11 | [März 2023](http://twitter.com/search?q=M%c3%a4rz+2023) | N/A |
-| 12 | [Vollzeit](http://twitter.com/search?q=Vollzeit) | N/A |
-| 13 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 12 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 13 | [Vollzeit](http://twitter.com/search?q=Vollzeit) | N/A |
 | 14 | [Helmut](http://twitter.com/search?q=Helmut) | N/A |
 | 15 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
 | 16 | [start in die woche](http://twitter.com/search?q=start+in+die+woche) | N/A |
-| 17 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
-| 18 | [Studium](http://twitter.com/search?q=Studium) | N/A |
-| 19 | [raiffeisen](http://twitter.com/search?q=raiffeisen) | N/A |
-| 20 | [Wertschätzung](http://twitter.com/search?q=Wertsch%c3%a4tzung) | N/A |
-| 21 | [gemeindewohnung](http://twitter.com/search?q=gemeindewohnung) | N/A |
+| 17 | [Studium](http://twitter.com/search?q=Studium) | N/A |
+| 18 | [raiffeisen](http://twitter.com/search?q=raiffeisen) | N/A |
+| 19 | [Wertschätzung](http://twitter.com/search?q=Wertsch%c3%a4tzung) | N/A |
+| 20 | [gemeindewohnung](http://twitter.com/search?q=gemeindewohnung) | N/A |
+| 21 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
 | 22 | [durchmischung](http://twitter.com/search?q=durchmischung) | N/A |
-| 23 | [Schellhorn](http://twitter.com/search?q=Schellhorn) | N/A |
+| 23 | [schellhorn](http://twitter.com/search?q=schellhorn) | N/A |
 | 24 | [Betriebe](http://twitter.com/search?q=Betriebe) | N/A |
 | 25 | [Sozialstaat](http://twitter.com/search?q=Sozialstaat) | N/A |
 | 26 | [Schwarzer](http://twitter.com/search?q=Schwarzer) | N/A |
-| 27 | [Umfrage](http://twitter.com/search?q=Umfrage) | N/A |
-| 28 | [Witz](http://twitter.com/search?q=Witz) | N/A |
-| 29 | [haushaltsabgabe](http://twitter.com/search?q=haushaltsabgabe) | N/A |
-| 30 | [Lohnausgleich](http://twitter.com/search?q=Lohnausgleich) | N/A |
-| 31 | [Theorie](http://twitter.com/search?q=Theorie) | N/A |
-| 32 | [Eigenverantwortung](http://twitter.com/search?q=Eigenverantwortung) | N/A |
-| 33 | [WARRIOR NUN CAMPERS](http://twitter.com/search?q=WARRIOR+NUN+CAMPERS) | N/A |
-| 34 | [Kreml](http://twitter.com/search?q=Kreml) | N/A |
-| 35 | [Kauf](http://twitter.com/search?q=Kauf) | N/A |
-| 36 | [Ausnahmen](http://twitter.com/search?q=Ausnahmen) | N/A |
+| 27 | [Witz](http://twitter.com/search?q=Witz) | N/A |
+| 28 | [haushaltsabgabe](http://twitter.com/search?q=haushaltsabgabe) | N/A |
+| 29 | [Lohnausgleich](http://twitter.com/search?q=Lohnausgleich) | N/A |
+| 30 | [Theorie](http://twitter.com/search?q=Theorie) | N/A |
+| 31 | [Fleisch](http://twitter.com/search?q=Fleisch) | N/A |
+| 32 | [Ausnahmen](http://twitter.com/search?q=Ausnahmen) | N/A |
+| 33 | [Kauf](http://twitter.com/search?q=Kauf) | N/A |
+| 34 | [Eigenverantwortung](http://twitter.com/search?q=Eigenverantwortung) | N/A |
+| 35 | [warrior nun campers](http://twitter.com/search?q=warrior+nun+campers) | N/A |
+| 36 | [Kreml](http://twitter.com/search?q=Kreml) | N/A |
 | 37 | [Eigenheim](http://twitter.com/search?q=Eigenheim) | N/A |
 | 38 | [Italien](http://twitter.com/search?q=Italien) | N/A |
 | 39 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
-| 40 | [Anzahl](http://twitter.com/search?q=Anzahl) | N/A |
-| 41 | [Material](http://twitter.com/search?q=Material) | N/A |
-| 42 | [Steuern](http://twitter.com/search?q=Steuern) | N/A |
-| 43 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 44 | [Tanner](http://twitter.com/search?q=Tanner) | N/A |
-| 45 | [Einblick](http://twitter.com/search?q=Einblick) | N/A |
-| 46 | [Arbeitskräfte](http://twitter.com/search?q=Arbeitskr%c3%a4fte) | N/A |
-| 47 | [Impfpflicht](http://twitter.com/search?q=Impfpflicht) | N/A |
-| 48 | [Fleisch](http://twitter.com/search?q=Fleisch) | N/A |
-| 49 | [Earth](http://twitter.com/search?q=Earth) | N/A |
-| 50 | [Wusste](http://twitter.com/search?q=Wusste) | N/A |
+| 40 | [Material](http://twitter.com/search?q=Material) | N/A |
+| 41 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 42 | [Tanner](http://twitter.com/search?q=Tanner) | N/A |
+| 43 | [Einblick](http://twitter.com/search?q=Einblick) | N/A |
+| 44 | [arbeitskräfte](http://twitter.com/search?q=arbeitskr%c3%a4fte) | N/A |
+| 45 | [Impfpflicht](http://twitter.com/search?q=Impfpflicht) | N/A |
+| 46 | [Earth](http://twitter.com/search?q=Earth) | N/A |
+| 47 | [Wusste](http://twitter.com/search?q=Wusste) | N/A |
+| 48 | [Phrasen](http://twitter.com/search?q=Phrasen) | N/A |
+| 49 | [Diplomaten](http://twitter.com/search?q=Diplomaten) | N/A |
+| 50 | [Maskenpflicht](http://twitter.com/search?q=Maskenpflicht) | N/A |
 
 
 

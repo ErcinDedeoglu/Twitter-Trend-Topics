@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jacksonville
 
-📆 Last Updated: `2023-02-27 16:16:26 UTC`
+📆 Last Updated: `2023-02-27 17:16:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
-| 2 | [Scott Adams](http://twitter.com/search?q=Scott+Adams) | N/A |
-| 3 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
-| 4 | [Pokémon](http://twitter.com/search?q=Pok%c3%a9mon) | N/A |
-| 5 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 6 | [Walking Wake](http://twitter.com/search?q=Walking+Wake) | N/A |
-| 7 | [#mondaymorning](http://twitter.com/search?q=%23mondaymorning) | N/A |
-| 8 | [#mondaythoughts](http://twitter.com/search?q=%23mondaythoughts) | #MondayThoughts is a hashtag used on social media to share thoughts, ideas, and reflections on the start of the week. It is often used to encourage others to have a positive outlook on the week ahead. |
-| 9 | [SV DLC](http://twitter.com/search?q=SV+DLC) | N/A |
-| 10 | [#Mondayvibes](http://twitter.com/search?q=%23Mondayvibes) | N/A |
-| 11 | [Mystery Dungeon](http://twitter.com/search?q=Mystery+Dungeon) | N/A |
-| 12 | [Virizion](http://twitter.com/search?q=Virizion) | N/A |
-| 13 | [Maino](http://twitter.com/search?q=Maino) | N/A |
-| 14 | [Good Monday](http://twitter.com/search?q=Good+Monday) | Good Monday is an expression used to express enthusiasm for the start of a new week. It is typically used as a greeting or salutation when wishing someone a good start to the week. |
-| 15 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
-| 16 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
-| 17 | [Dominican Independence Day](http://twitter.com/search?q=Dominican+Independence+Day) | N/A |
-| 18 | [Buckhead](http://twitter.com/search?q=Buckhead) | N/A |
-| 19 | [Bryan Cranston](http://twitter.com/search?q=Bryan+Cranston) | N/A |
-| 20 | [The DLC](http://twitter.com/search?q=The+DLC) | N/A |
-| 21 | [Kalos](http://twitter.com/search?q=Kalos) | N/A |
-| 22 | [Haslam](http://twitter.com/search?q=Haslam) | N/A |
-| 23 | [Momotaro](http://twitter.com/search?q=Momotaro) | N/A |
-| 24 | [Terapagos](http://twitter.com/search?q=Terapagos) | N/A |
-| 25 | [Marc Lasry](http://twitter.com/search?q=Marc+Lasry) | N/A |
-| 26 | [Fauci](http://twitter.com/search?q=Fauci) | N/A |
-| 27 | [Ho-Oh](http://twitter.com/search?q=Ho-Oh) | N/A |
-| 28 | [CFPB](http://twitter.com/search?q=CFPB) | N/A |
-| 29 | [Reedy Creek](http://twitter.com/search?q=Reedy+Creek) | N/A |
-| 30 | [Hogg](http://twitter.com/search?q=Hogg) | N/A |
-| 31 | [DLCs](http://twitter.com/search?q=DLCs) | N/A |
-| 32 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
-| 33 | [Area Zero](http://twitter.com/search?q=Area+Zero) | N/A |
-| 34 | [Hisuian Zoroark](http://twitter.com/search?q=Hisuian+Zoroark) | N/A |
-| 35 | [Moselle](http://twitter.com/search?q=Moselle) | N/A |
-| 36 | [Master P](http://twitter.com/search?q=Master+P) | N/A |
+| 2 | [Jeannot](http://twitter.com/search?q=Jeannot) | N/A |
+| 3 | [Scott Adams](http://twitter.com/search?q=Scott+Adams) | N/A |
+| 4 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
+| 5 | [#GOGimmighoul](http://twitter.com/search?q=%23GOGimmighoul) | N/A |
+| 6 | [Pokémon](http://twitter.com/search?q=Pok%c3%a9mon) | N/A |
+| 7 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 8 | [Walking Wake](http://twitter.com/search?q=Walking+Wake) | N/A |
+| 9 | [#mondaythoughts](http://twitter.com/search?q=%23mondaythoughts) | #MondayThoughts is a hashtag used on social media to share thoughts, ideas, and reflections on the start of the week. It is often used to encourage others to have a positive outlook on the week ahead. |
+| 10 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
+| 11 | [kevin hart](http://twitter.com/search?q=kevin+hart) | N/A |
+| 12 | [Maino](http://twitter.com/search?q=Maino) | N/A |
+| 13 | [Virizion](http://twitter.com/search?q=Virizion) | N/A |
+| 14 | [SV DLC](http://twitter.com/search?q=SV+DLC) | N/A |
+| 15 | [Mystery Dungeon](http://twitter.com/search?q=Mystery+Dungeon) | N/A |
+| 16 | [Buckhead](http://twitter.com/search?q=Buckhead) | N/A |
+| 17 | [Bryan Cranston](http://twitter.com/search?q=Bryan+Cranston) | N/A |
+| 18 | [Dominican Independence Day](http://twitter.com/search?q=Dominican+Independence+Day) | N/A |
+| 19 | [Good Monday](http://twitter.com/search?q=Good+Monday) | Good Monday is an expression used to express enthusiasm for the start of a new week. It is typically used as a greeting or salutation when wishing someone a good start to the week. |
+| 20 | [AP Poll](http://twitter.com/search?q=AP+Poll) | The AP Poll (or the Associated Press Poll) is a weekly ranking of the top 25 college football teams in the United States, as determined by a panel of sportswriters and broadcasters. The poll is conducted by the Associated Press (AP), a news agency based in New York City. The rankings are released each Sunday during the college football season, with the exception of the final poll, which is released after the conclusion of the College Football Playoff National Championship. |
+| 21 | [Fauci](http://twitter.com/search?q=Fauci) | N/A |
+| 22 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
+| 23 | [Terapagos](http://twitter.com/search?q=Terapagos) | N/A |
+| 24 | [Momotaro](http://twitter.com/search?q=Momotaro) | N/A |
+| 25 | [Joey Votto](http://twitter.com/search?q=Joey+Votto) | N/A |
+| 26 | [David Hogg](http://twitter.com/search?q=David+Hogg) | N/A |
+| 27 | [Reedy Creek](http://twitter.com/search?q=Reedy+Creek) | N/A |
+| 28 | [The DLC](http://twitter.com/search?q=The+DLC) | N/A |
+| 29 | [CFPB](http://twitter.com/search?q=CFPB) | N/A |
+| 30 | [Kalos](http://twitter.com/search?q=Kalos) | N/A |
+| 31 | [Marc Lasry](http://twitter.com/search?q=Marc+Lasry) | N/A |
+| 32 | [DLCs](http://twitter.com/search?q=DLCs) | N/A |
+| 33 | [Ho-Oh](http://twitter.com/search?q=Ho-Oh) | N/A |
+| 34 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
+| 35 | [Master P](http://twitter.com/search?q=Master+P) | N/A |
+| 36 | [Public Schools Week](http://twitter.com/search?q=Public+Schools+Week) | N/A |
 | 37 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 38 | [Paldea](http://twitter.com/search?q=Paldea) | N/A |
+| 38 | [Haslams](http://twitter.com/search?q=Haslams) | N/A |
 | 39 | [Zebstrika](http://twitter.com/search?q=Zebstrika) | N/A |
-| 40 | [Game Freak](http://twitter.com/search?q=Game+Freak) | N/A |
-| 41 | [Terry Holland](http://twitter.com/search?q=Terry+Holland) | N/A |
-| 42 | [Yokai Watch](http://twitter.com/search?q=Yokai+Watch) | N/A |
-| 43 | [Daily Quordle 399](http://twitter.com/search?q=Daily+Quordle+399) | N/A |
-| 44 | [Happy Birthday Chelsea](http://twitter.com/search?q=Happy+Birthday+Chelsea) | N/A |
-| 45 | [Read Across America](http://twitter.com/search?q=Read+Across+America) | N/A |
-| 46 | [SwSh](http://twitter.com/search?q=SwSh) | N/A |
-| 47 | [Champaign](http://twitter.com/search?q=Champaign) | N/A |
-| 48 | [Snorlax](http://twitter.com/search?q=Snorlax) | N/A |
-| 49 | [Elissa Slotkin](http://twitter.com/search?q=Elissa+Slotkin) | N/A |
-| 50 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 40 | [Area Zero](http://twitter.com/search?q=Area+Zero) | N/A |
+| 41 | [Moselle](http://twitter.com/search?q=Moselle) | N/A |
+| 42 | [Seonghwa](http://twitter.com/search?q=Seonghwa) | N/A |
+| 43 | [Champaign](http://twitter.com/search?q=Champaign) | N/A |
+| 44 | [Game Freak](http://twitter.com/search?q=Game+Freak) | N/A |
+| 45 | [Slotkin](http://twitter.com/search?q=Slotkin) | N/A |
+| 46 | [Terry Holland](http://twitter.com/search?q=Terry+Holland) | N/A |
+| 47 | [Hisuian Zoroark](http://twitter.com/search?q=Hisuian+Zoroark) | N/A |
+| 48 | [Herbert Jones](http://twitter.com/search?q=Herbert+Jones) | N/A |
+| 49 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
+| 50 | [Temperature of America](http://twitter.com/search?q=Temperature+of+America) | N/A |
 
 
 

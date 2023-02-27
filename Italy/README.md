@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Italy
 
-📆 Last Updated: `2023-02-27 16:16:34 UTC`
+📆 Last Updated: `2023-02-27 17:16:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,46 +15,56 @@ This is top 50 for Italy
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MaurizioCostanzo](http://twitter.com/search?q=%23MaurizioCostanzo) | N/A |
-| 2 | [#Verissimo](http://twitter.com/search?q=%23Verissimo) | N/A |
-| 3 | [#Piantedosi](http://twitter.com/search?q=%23Piantedosi) | N/A |
-| 4 | [Caressa](http://twitter.com/search?q=Caressa) | N/A |
-| 5 | [#DueVitePlatino](http://twitter.com/search?q=%23DueVitePlatino) | N/A |
-| 6 | [Fioroni](http://twitter.com/search?q=Fioroni) | N/A |
-| 7 | [#PokemonPresents](http://twitter.com/search?q=%23PokemonPresents) | N/A |
-| 8 | [Schlein](http://twitter.com/search?q=Schlein) | N/A |
-| 9 | [Bucciantini](http://twitter.com/search?q=Bucciantini) | N/A |
-| 10 | [Camilla](http://twitter.com/search?q=Camilla) | N/A |
-| 11 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
-| 12 | [Gerry Scotti](http://twitter.com/search?q=Gerry+Scotti) | N/A |
-| 13 | [Lercio](http://twitter.com/search?q=Lercio) | N/A |
-| 14 | [Enrico](http://twitter.com/search?q=Enrico) | N/A |
-| 15 | [Piera](http://twitter.com/search?q=Piera) | N/A |
-| 16 | [Terzo Polo](http://twitter.com/search?q=Terzo+Polo) | N/A |
-| 17 | [Pippo Franco](http://twitter.com/search?q=Pippo+Franco) | N/A |
-| 18 | [Grecia](http://twitter.com/search?q=Grecia) | N/A |
-| 19 | [Adinolfi](http://twitter.com/search?q=Adinolfi) | N/A |
-| 20 | [Calenda](http://twitter.com/search?q=Calenda) | N/A |
-| 21 | [Gabriele](http://twitter.com/search?q=Gabriele) | N/A |
-| 22 | [Franceschini](http://twitter.com/search?q=Franceschini) | N/A |
-| 23 | [Zingaretti](http://twitter.com/search?q=Zingaretti) | N/A |
-| 24 | [Svizzera](http://twitter.com/search?q=Svizzera) | N/A |
-| 25 | [Berlinguer](http://twitter.com/search?q=Berlinguer) | N/A |
-| 26 | [Vedremo](http://twitter.com/search?q=Vedremo) | N/A |
-| 27 | [Boccia](http://twitter.com/search?q=Boccia) | N/A |
-| 28 | [Mike](http://twitter.com/search?q=Mike) | N/A |
-| 29 | [Segretario](http://twitter.com/search?q=Segretario) | N/A |
-| 30 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 31 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
-| 32 | [#tagadala7](http://twitter.com/search?q=%23tagadala7) | N/A |
-| 33 | [#AddioPD](http://twitter.com/search?q=%23AddioPD) | N/A |
-| 34 | [#ore14](http://twitter.com/search?q=%23ore14) | N/A |
-| 35 | [#Marotta](http://twitter.com/search?q=%23Marotta) | N/A |
-| 36 | [#27febbraio](http://twitter.com/search?q=%2327febbraio) | N/A |
-| 37 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 38 | [#Pogba](http://twitter.com/search?q=%23Pogba) | N/A |
-| 39 | [#primarie2023](http://twitter.com/search?q=%23primarie2023) | N/A |
-| 40 | [#LaTerraDiCaino](http://twitter.com/search?q=%23LaTerraDiCaino) | N/A |
+| 1 | [#Schlein](http://twitter.com/search?q=%23Schlein) | N/A |
+| 2 | [#primariepd2023](http://twitter.com/search?q=%23primariepd2023) | N/A |
+| 3 | [#Crotone](http://twitter.com/search?q=%23Crotone) | N/A |
+| 4 | [Bonaccini](http://twitter.com/search?q=Bonaccini) | N/A |
+| 5 | [#27febbraio](http://twitter.com/search?q=%2327febbraio) | N/A |
+| 6 | [#Piantedosi](http://twitter.com/search?q=%23Piantedosi) | N/A |
+| 7 | [Renzi](http://twitter.com/search?q=Renzi) | N/A |
+| 8 | [Caressa](http://twitter.com/search?q=Caressa) | N/A |
+| 9 | [Il PD](http://twitter.com/search?q=Il+PD) | N/A |
+| 10 | [De Filippi](http://twitter.com/search?q=De+Filippi) | N/A |
+| 11 | [Franceschini](http://twitter.com/search?q=Franceschini) | N/A |
+| 12 | [Daniele](http://twitter.com/search?q=Daniele) | N/A |
+| 13 | [Fioroni](http://twitter.com/search?q=Fioroni) | N/A |
+| 14 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
+| 15 | [Thiaw](http://twitter.com/search?q=Thiaw) | N/A |
+| 16 | [Pippo Franco](http://twitter.com/search?q=Pippo+Franco) | N/A |
+| 17 | [Bucciantini](http://twitter.com/search?q=Bucciantini) | N/A |
+| 18 | [Auguri Capitano](http://twitter.com/search?q=Auguri+Capitano) | N/A |
+| 19 | [Murgia](http://twitter.com/search?q=Murgia) | Murgia is a geographical region in southern Italy, located in the provinces of Bari and Taranto. It is characterized by its limestone hills, deep ravines, and caves. The name Murgia comes from the Latin word murex, meaning "rocky hill". In English, Murgia can be translated as "rocky land". |
+| 20 | [Partito Democratico](http://twitter.com/search?q=Partito+Democratico) | N/A |
+| 21 | [Grecia](http://twitter.com/search?q=Grecia) | N/A |
+| 22 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
+| 23 | [Ambrosio](http://twitter.com/search?q=Ambrosio) | N/A |
+| 24 | [Boccia](http://twitter.com/search?q=Boccia) | N/A |
+| 25 | [Bettini](http://twitter.com/search?q=Bettini) | N/A |
+| 26 | [Terzo Polo](http://twitter.com/search?q=Terzo+Polo) | N/A |
+| 27 | [Orsolini](http://twitter.com/search?q=Orsolini) | N/A |
+| 28 | [Bersani](http://twitter.com/search?q=Bersani) | N/A |
+| 29 | [Turchia](http://twitter.com/search?q=Turchia) | N/A |
+| 30 | [Veronica](http://twitter.com/search?q=Veronica) | Veronica is a female given name derived from the Latin word vera, meaning "true" or "faithful". It is also the name of a saint in the Catholic Church. |
+| 31 | [BUON COMPLEANNO DAYANE](http://twitter.com/search?q=BUON+COMPLEANNO+DAYANE) | N/A |
+| 32 | [RACE WEEK](http://twitter.com/search?q=RACE+WEEK) | N/A |
+| 33 | [Mediterraneo](http://twitter.com/search?q=Mediterraneo) | N/A |
+| 34 | [Gabbia](http://twitter.com/search?q=Gabbia) | N/A |
+| 35 | [Thiago Motta](http://twitter.com/search?q=Thiago+Motta) | N/A |
+| 36 | [Veltroni](http://twitter.com/search?q=Veltroni) | N/A |
+| 37 | [Sinistra](http://twitter.com/search?q=Sinistra) | N/A |
+| 38 | [Libia](http://twitter.com/search?q=Libia) | N/A |
+| 39 | [Ditta](http://twitter.com/search?q=Ditta) | N/A |
+| 40 | [Orlando](http://twitter.com/search?q=Orlando) | Orlando is a city in the U.S. state of Florida. It is the county seat of Orange County and the center of the Greater Orlando metropolitan area. The name "Orlando" is derived from the Italian phrase "orare labore," which means "to pray and work." |
+| 41 | [Letta](http://twitter.com/search?q=Letta) | N/A |
+| 42 | [Zingaretti](http://twitter.com/search?q=Zingaretti) | N/A |
+| 43 | [Messias](http://twitter.com/search?q=Messias) | Messias is a Hebrew word meaning "anointed one" or "savior." It is used in the Bible to refer to Jesus Christ, who is seen as the promised Messiah of the Old Testament. In English, it is often translated as "Messiah." |
+| 44 | [Camilla](http://twitter.com/search?q=Camilla) | N/A |
+| 45 | [Le ONG](http://twitter.com/search?q=Le+ONG) | N/A |
+| 46 | [Marcello](http://twitter.com/search?q=Marcello) | N/A |
+| 47 | ["Vecchioni"](http://twitter.com/search?q=%22Vecchioni%22) | N/A |
+| 48 | [Adinolfi](http://twitter.com/search?q=Adinolfi) | N/A |
+| 49 | [Corbyn](http://twitter.com/search?q=Corbyn) | N/A |
+| 50 | [Grazie Enrico](http://twitter.com/search?q=Grazie+Enrico) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austin
 
-📆 Last Updated: `2023-02-27 16:16:23 UTC`
+📆 Last Updated: `2023-02-27 17:16:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Sengun](http://twitter.com/search?q=Sengun) | Sengun is a Japanese term that refers to the Imperial Japanese Army during World War II. It literally translates to "war-supporting army" and was used to describe the Japanese military forces that fought in the war. |
+| 1 | [#CoachesSummit](http://twitter.com/search?q=%23CoachesSummit) | N/A |
 | 2 | [Silas](http://twitter.com/search?q=Silas) | N/A |
-| 3 | [West Texas](http://twitter.com/search?q=West+Texas) | N/A |
-| 4 | [Scott Adams](http://twitter.com/search?q=Scott+Adams) | N/A |
-| 5 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
-| 6 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
-| 7 | [Pokémon](http://twitter.com/search?q=Pok%c3%a9mon) | N/A |
-| 8 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 9 | [Walking Wake](http://twitter.com/search?q=Walking+Wake) | N/A |
-| 10 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
-| 11 | [#mondaythoughts](http://twitter.com/search?q=%23mondaythoughts) | #MondayThoughts is a hashtag used on social media to share thoughts, ideas, and reflections on the start of the week. It is often used to encourage others to have a positive outlook on the week ahead. |
-| 12 | [SV DLC](http://twitter.com/search?q=SV+DLC) | N/A |
-| 13 | [#Mondayvibes](http://twitter.com/search?q=%23Mondayvibes) | N/A |
-| 14 | [Mystery Dungeon](http://twitter.com/search?q=Mystery+Dungeon) | N/A |
+| 3 | [Sengun](http://twitter.com/search?q=Sengun) | Sengun is a Japanese term that refers to the Imperial Japanese Army during World War II. It literally translates to "war-supporting army" and was used to describe the Japanese military forces that fought in the war. |
+| 4 | [West Texas](http://twitter.com/search?q=West+Texas) | N/A |
+| 5 | [Scott Adams](http://twitter.com/search?q=Scott+Adams) | N/A |
+| 6 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
+| 7 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
+| 8 | [#GOGimmighoul](http://twitter.com/search?q=%23GOGimmighoul) | N/A |
+| 9 | [Pokémon](http://twitter.com/search?q=Pok%c3%a9mon) | N/A |
+| 10 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 11 | [Walking Wake](http://twitter.com/search?q=Walking+Wake) | N/A |
+| 12 | [#mondaythoughts](http://twitter.com/search?q=%23mondaythoughts) | #MondayThoughts is a hashtag used on social media to share thoughts, ideas, and reflections on the start of the week. It is often used to encourage others to have a positive outlook on the week ahead. |
+| 13 | [kevin hart](http://twitter.com/search?q=kevin+hart) | N/A |
+| 14 | [Maino](http://twitter.com/search?q=Maino) | N/A |
 | 15 | [Virizion](http://twitter.com/search?q=Virizion) | N/A |
-| 16 | [Maino](http://twitter.com/search?q=Maino) | N/A |
-| 17 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
-| 18 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
-| 19 | [Dominican Independence Day](http://twitter.com/search?q=Dominican+Independence+Day) | N/A |
-| 20 | [Bryan Cranston](http://twitter.com/search?q=Bryan+Cranston) | N/A |
-| 21 | [Buckhead](http://twitter.com/search?q=Buckhead) | N/A |
-| 22 | [The DLC](http://twitter.com/search?q=The+DLC) | N/A |
-| 23 | [Kalos](http://twitter.com/search?q=Kalos) | N/A |
-| 24 | [Haslam](http://twitter.com/search?q=Haslam) | N/A |
-| 25 | [Momotaro](http://twitter.com/search?q=Momotaro) | N/A |
-| 26 | [Terapagos](http://twitter.com/search?q=Terapagos) | N/A |
-| 27 | [Marc Lasry](http://twitter.com/search?q=Marc+Lasry) | N/A |
-| 28 | [Fauci](http://twitter.com/search?q=Fauci) | N/A |
-| 29 | [Ho-Oh](http://twitter.com/search?q=Ho-Oh) | N/A |
-| 30 | [CFPB](http://twitter.com/search?q=CFPB) | N/A |
-| 31 | [Reedy Creek](http://twitter.com/search?q=Reedy+Creek) | N/A |
-| 32 | [Hogg](http://twitter.com/search?q=Hogg) | N/A |
-| 33 | [DLCs](http://twitter.com/search?q=DLCs) | N/A |
-| 34 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
-| 35 | [Area Zero](http://twitter.com/search?q=Area+Zero) | N/A |
-| 36 | [Hisuian Zoroark](http://twitter.com/search?q=Hisuian+Zoroark) | N/A |
-| 37 | [Moselle](http://twitter.com/search?q=Moselle) | N/A |
-| 38 | [Master P](http://twitter.com/search?q=Master+P) | N/A |
+| 16 | [SV DLC](http://twitter.com/search?q=SV+DLC) | N/A |
+| 17 | [Mystery Dungeon](http://twitter.com/search?q=Mystery+Dungeon) | N/A |
+| 18 | [Buckhead](http://twitter.com/search?q=Buckhead) | N/A |
+| 19 | [Bryan Cranston](http://twitter.com/search?q=Bryan+Cranston) | N/A |
+| 20 | [Dominican Independence Day](http://twitter.com/search?q=Dominican+Independence+Day) | N/A |
+| 21 | [Good Monday](http://twitter.com/search?q=Good+Monday) | Good Monday is an expression used to express enthusiasm for the start of a new week. It is typically used as a greeting or salutation when wishing someone a good start to the week. |
+| 22 | [AP Poll](http://twitter.com/search?q=AP+Poll) | The AP Poll (or the Associated Press Poll) is a weekly ranking of the top 25 college football teams in the United States, as determined by a panel of sportswriters and broadcasters. The poll is conducted by the Associated Press (AP), a news agency based in New York City. The rankings are released each Sunday during the college football season, with the exception of the final poll, which is released after the conclusion of the College Football Playoff National Championship. |
+| 23 | [Fauci](http://twitter.com/search?q=Fauci) | N/A |
+| 24 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
+| 25 | [Terapagos](http://twitter.com/search?q=Terapagos) | N/A |
+| 26 | [Momotaro](http://twitter.com/search?q=Momotaro) | N/A |
+| 27 | [Joey Votto](http://twitter.com/search?q=Joey+Votto) | N/A |
+| 28 | [David Hogg](http://twitter.com/search?q=David+Hogg) | N/A |
+| 29 | [Reedy Creek](http://twitter.com/search?q=Reedy+Creek) | N/A |
+| 30 | [The DLC](http://twitter.com/search?q=The+DLC) | N/A |
+| 31 | [CFPB](http://twitter.com/search?q=CFPB) | N/A |
+| 32 | [Kalos](http://twitter.com/search?q=Kalos) | N/A |
+| 33 | [Marc Lasry](http://twitter.com/search?q=Marc+Lasry) | N/A |
+| 34 | [DLCs](http://twitter.com/search?q=DLCs) | N/A |
+| 35 | [Ho-Oh](http://twitter.com/search?q=Ho-Oh) | N/A |
+| 36 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
+| 37 | [Master P](http://twitter.com/search?q=Master+P) | N/A |
+| 38 | [Public Schools Week](http://twitter.com/search?q=Public+Schools+Week) | N/A |
 | 39 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 40 | [Paldea](http://twitter.com/search?q=Paldea) | N/A |
+| 40 | [Haslams](http://twitter.com/search?q=Haslams) | N/A |
 | 41 | [Zebstrika](http://twitter.com/search?q=Zebstrika) | N/A |
-| 42 | [Game Freak](http://twitter.com/search?q=Game+Freak) | N/A |
-| 43 | [Terry Holland](http://twitter.com/search?q=Terry+Holland) | N/A |
-| 44 | [Yokai Watch](http://twitter.com/search?q=Yokai+Watch) | N/A |
-| 45 | [Daily Quordle 399](http://twitter.com/search?q=Daily+Quordle+399) | N/A |
-| 46 | [Happy Birthday Chelsea](http://twitter.com/search?q=Happy+Birthday+Chelsea) | N/A |
-| 47 | [SwSh](http://twitter.com/search?q=SwSh) | N/A |
-| 48 | [Read Across America](http://twitter.com/search?q=Read+Across+America) | N/A |
+| 42 | [Area Zero](http://twitter.com/search?q=Area+Zero) | N/A |
+| 43 | [Moselle](http://twitter.com/search?q=Moselle) | N/A |
+| 44 | [Seonghwa](http://twitter.com/search?q=Seonghwa) | N/A |
+| 45 | [Champaign](http://twitter.com/search?q=Champaign) | N/A |
+| 46 | [Game Freak](http://twitter.com/search?q=Game+Freak) | N/A |
+| 47 | [Slotkin](http://twitter.com/search?q=Slotkin) | N/A |
+| 48 | [Terry Holland](http://twitter.com/search?q=Terry+Holland) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Albuquerque
 
-📆 Last Updated: `2023-02-27 16:16:23 UTC`
+📆 Last Updated: `2023-02-27 17:16:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
-| 2 | [Pokémon](http://twitter.com/search?q=Pok%c3%a9mon) | N/A |
-| 3 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 4 | [Walking Wake](http://twitter.com/search?q=Walking+Wake) | N/A |
-| 5 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
-| 6 | [SV DLC](http://twitter.com/search?q=SV+DLC) | N/A |
-| 7 | [Mystery Dungeon](http://twitter.com/search?q=Mystery+Dungeon) | N/A |
+| 2 | [#GOGimmighoul](http://twitter.com/search?q=%23GOGimmighoul) | N/A |
+| 3 | [Pokémon](http://twitter.com/search?q=Pok%c3%a9mon) | N/A |
+| 4 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 5 | [Walking Wake](http://twitter.com/search?q=Walking+Wake) | N/A |
+| 6 | [kevin hart](http://twitter.com/search?q=kevin+hart) | N/A |
+| 7 | [Maino](http://twitter.com/search?q=Maino) | N/A |
 | 8 | [Virizion](http://twitter.com/search?q=Virizion) | N/A |
-| 9 | [Maino](http://twitter.com/search?q=Maino) | N/A |
-| 10 | [pikachu](http://twitter.com/search?q=pikachu) | N/A |
-| 11 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
-| 12 | [Dominican Independence Day](http://twitter.com/search?q=Dominican+Independence+Day) | N/A |
-| 13 | [Buckhead](http://twitter.com/search?q=Buckhead) | N/A |
-| 14 | [Bryan Cranston](http://twitter.com/search?q=Bryan+Cranston) | N/A |
-| 15 | [The DLC](http://twitter.com/search?q=The+DLC) | N/A |
-| 16 | [Kalos](http://twitter.com/search?q=Kalos) | N/A |
-| 17 | [Haslam](http://twitter.com/search?q=Haslam) | N/A |
-| 18 | [Momotaro](http://twitter.com/search?q=Momotaro) | N/A |
-| 19 | [Terapagos](http://twitter.com/search?q=Terapagos) | N/A |
-| 20 | [Marc Lasry](http://twitter.com/search?q=Marc+Lasry) | N/A |
-| 21 | [Fauci](http://twitter.com/search?q=Fauci) | N/A |
-| 22 | [Ho-Oh](http://twitter.com/search?q=Ho-Oh) | N/A |
-| 23 | [CFPB](http://twitter.com/search?q=CFPB) | N/A |
-| 24 | [Reedy Creek](http://twitter.com/search?q=Reedy+Creek) | N/A |
-| 25 | [Hogg](http://twitter.com/search?q=Hogg) | N/A |
-| 26 | [DLCs](http://twitter.com/search?q=DLCs) | N/A |
-| 27 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
-| 28 | [Area Zero](http://twitter.com/search?q=Area+Zero) | N/A |
-| 29 | [Hisuian Zoroark](http://twitter.com/search?q=Hisuian+Zoroark) | N/A |
-| 30 | [Moselle](http://twitter.com/search?q=Moselle) | N/A |
-| 31 | [Master P](http://twitter.com/search?q=Master+P) | N/A |
-| 32 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 33 | [Paldea](http://twitter.com/search?q=Paldea) | N/A |
-| 34 | [Zebstrika](http://twitter.com/search?q=Zebstrika) | N/A |
+| 9 | [Mystery Dungeon](http://twitter.com/search?q=Mystery+Dungeon) | N/A |
+| 10 | [Bryan Cranston](http://twitter.com/search?q=Bryan+Cranston) | N/A |
+| 11 | [Buckhead](http://twitter.com/search?q=Buckhead) | N/A |
+| 12 | [SV DLC](http://twitter.com/search?q=SV+DLC) | N/A |
+| 13 | [Dominican Independence Day](http://twitter.com/search?q=Dominican+Independence+Day) | N/A |
+| 14 | [Good Monday](http://twitter.com/search?q=Good+Monday) | Good Monday is an expression used to express enthusiasm for the start of a new week. It is typically used as a greeting or salutation when wishing someone a good start to the week. |
+| 15 | [AP Poll](http://twitter.com/search?q=AP+Poll) | The AP Poll (or the Associated Press Poll) is a weekly ranking of the top 25 college football teams in the United States, as determined by a panel of sportswriters and broadcasters. The poll is conducted by the Associated Press (AP), a news agency based in New York City. The rankings are released each Sunday during the college football season, with the exception of the final poll, which is released after the conclusion of the College Football Playoff National Championship. |
+| 16 | [Fauci](http://twitter.com/search?q=Fauci) | N/A |
+| 17 | [Terapagos](http://twitter.com/search?q=Terapagos) | N/A |
+| 18 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
+| 19 | [Momotaro](http://twitter.com/search?q=Momotaro) | N/A |
+| 20 | [Joey Votto](http://twitter.com/search?q=Joey+Votto) | N/A |
+| 21 | [David Hogg](http://twitter.com/search?q=David+Hogg) | N/A |
+| 22 | [Reedy Creek](http://twitter.com/search?q=Reedy+Creek) | N/A |
+| 23 | [The DLC](http://twitter.com/search?q=The+DLC) | N/A |
+| 24 | [CFPB](http://twitter.com/search?q=CFPB) | N/A |
+| 25 | [Kalos](http://twitter.com/search?q=Kalos) | N/A |
+| 26 | [Marc Lasry](http://twitter.com/search?q=Marc+Lasry) | N/A |
+| 27 | [DLCs](http://twitter.com/search?q=DLCs) | N/A |
+| 28 | [Ho-Oh](http://twitter.com/search?q=Ho-Oh) | N/A |
+| 29 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
+| 30 | [Master P](http://twitter.com/search?q=Master+P) | N/A |
+| 31 | [Public Schools Week](http://twitter.com/search?q=Public+Schools+Week) | N/A |
+| 32 | [Haslams](http://twitter.com/search?q=Haslams) | N/A |
+| 33 | [Zebstrika](http://twitter.com/search?q=Zebstrika) | N/A |
+| 34 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
 | 35 | [Game Freak](http://twitter.com/search?q=Game+Freak) | N/A |
-| 36 | [Terry Holland](http://twitter.com/search?q=Terry+Holland) | N/A |
-| 37 | [Yokai Watch](http://twitter.com/search?q=Yokai+Watch) | N/A |
-| 38 | [Daily Quordle 399](http://twitter.com/search?q=Daily+Quordle+399) | N/A |
-| 39 | [Happy Birthday Chelsea](http://twitter.com/search?q=Happy+Birthday+Chelsea) | N/A |
-| 40 | [SwSh](http://twitter.com/search?q=SwSh) | N/A |
-| 41 | [Read Across America](http://twitter.com/search?q=Read+Across+America) | N/A |
-| 42 | [Snorlax](http://twitter.com/search?q=Snorlax) | N/A |
-| 43 | [Elissa Slotkin](http://twitter.com/search?q=Elissa+Slotkin) | N/A |
-| 44 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 45 | [Champaign](http://twitter.com/search?q=Champaign) | N/A |
-| 46 | [Galar](http://twitter.com/search?q=Galar) | N/A |
-| 47 | [New Week](http://twitter.com/search?q=New+Week) | N/A |
-| 48 | [Another Monday](http://twitter.com/search?q=Another+Monday) | N/A |
+| 36 | [Area Zero](http://twitter.com/search?q=Area+Zero) | N/A |
+| 37 | [Moselle](http://twitter.com/search?q=Moselle) | N/A |
+| 38 | [Seonghwa](http://twitter.com/search?q=Seonghwa) | N/A |
+| 39 | [Champaign](http://twitter.com/search?q=Champaign) | N/A |
+| 40 | [Slotkin](http://twitter.com/search?q=Slotkin) | N/A |
+| 41 | [Terry Holland](http://twitter.com/search?q=Terry+Holland) | N/A |
+| 42 | [Hisuian Zoroark](http://twitter.com/search?q=Hisuian+Zoroark) | N/A |
+| 43 | [Herbert Jones](http://twitter.com/search?q=Herbert+Jones) | N/A |
+| 44 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
+| 45 | [Temperature of America](http://twitter.com/search?q=Temperature+of+America) | N/A |
+| 46 | [Happy Birthday Chelsea](http://twitter.com/search?q=Happy+Birthday+Chelsea) | N/A |
+| 47 | [Paldea](http://twitter.com/search?q=Paldea) | N/A |
+| 48 | [My Monday](http://twitter.com/search?q=My+Monday) | N/A |
 
 
 
