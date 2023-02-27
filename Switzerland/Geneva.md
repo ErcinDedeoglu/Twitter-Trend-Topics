@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-02-27 00:28:50 UTC`
+📆 Last Updated: `2023-02-27 01:45:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,9 +16,9 @@ This is top 50 for [Switzerland](</Switzerland>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#OMPSG](http://twitter.com/search?q=%23OMPSG) | N/A |
-| 2 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
-| 3 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 4 | [#Tatort](http://twitter.com/search?q=%23Tatort) | N/A |
+| 2 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 3 | [#Tatort](http://twitter.com/search?q=%23Tatort) | N/A |
+| 4 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
 | 5 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
 | 6 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
 | 7 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
@@ -34,34 +34,34 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 17 | [Maroc](http://twitter.com/search?q=Maroc) | N/A |
 | 18 | [Seite der Geschichte](http://twitter.com/search?q=Seite+der+Geschichte) | N/A |
 | 19 | [Marseille](http://twitter.com/search?q=Marseille) | N/A |
-| 20 | [Gerechtigkeit](http://twitter.com/search?q=Gerechtigkeit) | N/A |
-| 21 | [Entschuldigung](http://twitter.com/search?q=Entschuldigung) | N/A |
-| 22 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 23 | [Andy](http://twitter.com/search?q=Andy) | N/A |
-| 24 | [Servette](http://twitter.com/search?q=Servette) | N/A |
-| 25 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 26 | [Army](http://twitter.com/search?q=Army) | N/A |
-| 27 | [Sofa](http://twitter.com/search?q=Sofa) | N/A |
-| 28 | [Framing](http://twitter.com/search?q=Framing) | N/A |
-| 29 | [German](http://twitter.com/search?q=German) | N/A |
-| 30 | [Köppel](http://twitter.com/search?q=K%c3%b6ppel) | N/A |
-| 31 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 32 | [Stuss](http://twitter.com/search?q=Stuss) | N/A |
-| 33 | [Tories](http://twitter.com/search?q=Tories) | N/A |
-| 34 | [Fair](http://twitter.com/search?q=Fair) | N/A |
-| 35 | [Schlein](http://twitter.com/search?q=Schlein) | N/A |
-| 36 | [FC SIon](http://twitter.com/search?q=FC+SIon) | N/A |
-| 37 | [Strategie](http://twitter.com/search?q=Strategie) | N/A |
-| 38 | [Jaaa](http://twitter.com/search?q=Jaaa) | N/A |
-| 39 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 40 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
-| 41 | [Cassis](http://twitter.com/search?q=Cassis) | N/A |
-| 42 | [Schritt](http://twitter.com/search?q=Schritt) | N/A |
-| 43 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 44 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 45 | [gemeinderat](http://twitter.com/search?q=gemeinderat) | N/A |
-| 46 | [Zuwanderung](http://twitter.com/search?q=Zuwanderung) | N/A |
-| 47 | [Argumente](http://twitter.com/search?q=Argumente) | N/A |
+| 20 | [Entschuldigung](http://twitter.com/search?q=Entschuldigung) | N/A |
+| 21 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 22 | [Andy](http://twitter.com/search?q=Andy) | N/A |
+| 23 | [servette](http://twitter.com/search?q=servette) | N/A |
+| 24 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 25 | [Army](http://twitter.com/search?q=Army) | N/A |
+| 26 | [Sofa](http://twitter.com/search?q=Sofa) | N/A |
+| 27 | [Framing](http://twitter.com/search?q=Framing) | N/A |
+| 28 | [Stuss](http://twitter.com/search?q=Stuss) | N/A |
+| 29 | [Köppel](http://twitter.com/search?q=K%c3%b6ppel) | N/A |
+| 30 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 31 | [Gerechtigkeit](http://twitter.com/search?q=Gerechtigkeit) | N/A |
+| 32 | [Tories](http://twitter.com/search?q=Tories) | N/A |
+| 33 | [Fair](http://twitter.com/search?q=Fair) | N/A |
+| 34 | [Schlein](http://twitter.com/search?q=Schlein) | N/A |
+| 35 | [FC SIon](http://twitter.com/search?q=FC+SIon) | N/A |
+| 36 | [Kapitulation](http://twitter.com/search?q=Kapitulation) | N/A |
+| 37 | [Jaaa](http://twitter.com/search?q=Jaaa) | N/A |
+| 38 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 39 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
+| 40 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 41 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 42 | [gemeinderat](http://twitter.com/search?q=gemeinderat) | N/A |
+| 43 | [Strategie](http://twitter.com/search?q=Strategie) | N/A |
+| 44 | [Zuwanderung](http://twitter.com/search?q=Zuwanderung) | N/A |
+| 45 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
+| 46 | [Argumente](http://twitter.com/search?q=Argumente) | N/A |
+| 47 | [Cassis](http://twitter.com/search?q=Cassis) | N/A |
 
 
 

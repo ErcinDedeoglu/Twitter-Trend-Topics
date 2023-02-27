@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For London
 
-📆 Last Updated: `2023-02-27 00:28:31 UTC`
+📆 Last Updated: `2023-02-27 01:44:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Casey](http://twitter.com/search?q=Casey) | Casey is a unisex name of Irish origin, derived from the Gaelic Cathasaigh, meaning “brave” or “vigilant.” It is also a popular surname in the United States. |
+| 1 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
 | 2 | [The American](http://twitter.com/search?q=The+American) | N/A |
-| 3 | [Embarrassing](http://twitter.com/search?q=Embarrassing) | N/A |
-| 4 | [#ElectionResult](http://twitter.com/search?q=%23ElectionResult) | N/A |
-| 5 | [#GGMU](http://twitter.com/search?q=%23GGMU) | #GGMU is an acronym for the phrase “Glory, Glory, Manchester United”. It is a chant used by Manchester United fans to show their support for the team. |
-| 6 | [Monica Joan](http://twitter.com/search?q=Monica+Joan) | N/A |
-| 7 | [Rigged](http://twitter.com/search?q=Rigged) | N/A |
-| 8 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
-| 9 | [#SignsOfSpring](http://twitter.com/search?q=%23SignsOfSpring) | N/A |
-| 10 | [Mickey Mouse](http://twitter.com/search?q=Mickey+Mouse) | N/A |
-| 11 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
-| 12 | [Wilder](http://twitter.com/search?q=Wilder) | N/A |
-| 13 | [#GlazersOut](http://twitter.com/search?q=%23GlazersOut) | N/A |
-| 14 | [FA Cup](http://twitter.com/search?q=FA+Cup) | The FA Cup is an annual knockout football competition in England. It is the oldest football competition in the world and is run by The Football Association (FA). The FA Cup is open to any club in the top four tiers of English football, from the Premier League down to the semi-professional leagues. The tournament culminates with a final at Wembley Stadium, usually held in May. |
-| 15 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
-| 16 | [YouTuber](http://twitter.com/search?q=YouTuber) | N/A |
-| 17 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
-| 18 | [Badou Jack](http://twitter.com/search?q=Badou+Jack) | N/A |
-| 19 | [Bambi](http://twitter.com/search?q=Bambi) | N/A |
-| 20 | [Carl Froch](http://twitter.com/search?q=Carl+Froch) | N/A |
-| 21 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 22 | [Claudia](http://twitter.com/search?q=Claudia) | Claudia is a female given name of Latin origin, derived from the Roman clan name Claudius. It means "lame" or "disabled". |
-| 23 | [Molly Mae](http://twitter.com/search?q=Molly+Mae) | Molly Mae is a female given name, derived from the Hebrew name Mary. It is a combination of the names Mary and Mae, and can be used as a nickname for Mary or as an independent given name. The meaning of Molly Mae in English is "bitter" or "star of the sea". |
-| 24 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 25 | [Ron and Lana](http://twitter.com/search?q=Ron+and+Lana) | N/A |
-| 26 | [Canelo](http://twitter.com/search?q=Canelo) | N/A |
-| 27 | [Mike Ross](http://twitter.com/search?q=Mike+Ross) | N/A |
-| 28 | [Radio Rahim](http://twitter.com/search?q=Radio+Rahim) | N/A |
-| 29 | [Split](http://twitter.com/search?q=Split) | N/A |
-| 30 | [Shawn Porter](http://twitter.com/search?q=Shawn+Porter) | N/A |
-| 31 | [Piers](http://twitter.com/search?q=Piers) | Piers is a type of structure built out into a body of water, such as a river or ocean, to provide access for boats and other vessels. It can also refer to a landing stage or wharf. The word comes from the Old French "piere," meaning "pillar." |
-| 32 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 33 | [Draw](http://twitter.com/search?q=Draw) | N/A |
-| 34 | [Vanderbilt](http://twitter.com/search?q=Vanderbilt) | N/A |
-| 35 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
-| 36 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 37 | [Rosie](http://twitter.com/search?q=Rosie) | N/A |
+| 3 | [#ElectionResults](http://twitter.com/search?q=%23ElectionResults) | N/A |
+| 4 | [#NHS1000miles](http://twitter.com/search?q=%23NHS1000miles) | N/A |
+| 5 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 6 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
+| 7 | [YouTuber](http://twitter.com/search?q=YouTuber) | N/A |
+| 8 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
+| 9 | [#NorthernLights](http://twitter.com/search?q=%23NorthernLights) | N/A |
+| 10 | [Bambi](http://twitter.com/search?q=Bambi) | N/A |
+| 11 | [Badou Jack](http://twitter.com/search?q=Badou+Jack) | N/A |
+| 12 | [#Auroraborealis](http://twitter.com/search?q=%23Auroraborealis) | N/A |
+| 13 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 14 | [Carl Froch](http://twitter.com/search?q=Carl+Froch) | N/A |
+| 15 | [Claudia](http://twitter.com/search?q=Claudia) | Claudia is a female given name of Latin origin, derived from the Roman clan name Claudius. It means "lame" or "disabled". |
+| 16 | [#CallTheMidwife](http://twitter.com/search?q=%23CallTheMidwife) | N/A |
+| 17 | [Molly Mae](http://twitter.com/search?q=Molly+Mae) | Molly Mae is a female given name, derived from the Hebrew name Mary. It is a combination of the names Mary and Mae, and can be used as a nickname for Mary or as an independent given name. The meaning of Molly Mae in English is "bitter" or "star of the sea". |
+| 18 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 19 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
+| 20 | [Ron and Lana](http://twitter.com/search?q=Ron+and+Lana) | N/A |
+| 21 | [Canelo](http://twitter.com/search?q=Canelo) | N/A |
+| 22 | [Mike Ross](http://twitter.com/search?q=Mike+Ross) | N/A |
+| 23 | [Split](http://twitter.com/search?q=Split) | N/A |
+| 24 | [Radio Rahim](http://twitter.com/search?q=Radio+Rahim) | N/A |
+| 25 | [Piers](http://twitter.com/search?q=Piers) | Piers is a type of structure built out into a body of water, such as a river or ocean, to provide access for boats and other vessels. It can also refer to a landing stage or wharf. The word comes from the Old French "piere," meaning "pillar." |
+| 26 | [Casey](http://twitter.com/search?q=Casey) | Casey is a unisex name of Irish origin, derived from the Gaelic Cathasaigh, meaning “brave” or “vigilant.” It is also a popular surname in the United States. |
+| 27 | [Shawn Porter](http://twitter.com/search?q=Shawn+Porter) | N/A |
+| 28 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 29 | [Vanderbilt](http://twitter.com/search?q=Vanderbilt) | N/A |
+| 30 | [Draw](http://twitter.com/search?q=Draw) | N/A |
+| 31 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
+| 32 | [Lana and Ron](http://twitter.com/search?q=Lana+and+Ron) | Lana and Ron is a phrase used to refer to a couple in a romantic relationship. It is derived from the names of two popular characters in the television show, "Archer" - Lana Kane and Ron Cadillac. The phrase is often used as a term of endearment for couples who share a strong bond. |
+| 33 | [Rematch](http://twitter.com/search?q=Rematch) | N/A |
+| 34 | [Cam Norrie](http://twitter.com/search?q=Cam+Norrie) | N/A |
+| 35 | [Rosie](http://twitter.com/search?q=Rosie) | N/A |
+| 36 | [Deji](http://twitter.com/search?q=Deji) | N/A |
+| 37 | [Paul 🤣](http://twitter.com/search?q=Paul+%f0%9f%a4%a3) | N/A |
 | 38 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 39 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 40 | [Cam Norrie](http://twitter.com/search?q=Cam+Norrie) | N/A |
-| 41 | [Morse](http://twitter.com/search?q=Morse) | N/A |
-| 42 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
-| 43 | [Paul 🤣](http://twitter.com/search?q=Paul+%f0%9f%a4%a3) | N/A |
-| 44 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 45 | [Trixie](http://twitter.com/search?q=Trixie) | N/A |
-| 46 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
-| 47 | [Boxer](http://twitter.com/search?q=Boxer) | N/A |
-| 48 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 49 | [Man Utd](http://twitter.com/search?q=Man+Utd) | N/A |
+| 39 | [Morse](http://twitter.com/search?q=Morse) | N/A |
+| 40 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
+| 41 | [Boxer](http://twitter.com/search?q=Boxer) | N/A |
+| 42 | [Michael Buffer](http://twitter.com/search?q=Michael+Buffer) | N/A |
+| 43 | [Trixie](http://twitter.com/search?q=Trixie) | N/A |
+| 44 | [Embarrassing](http://twitter.com/search?q=Embarrassing) | N/A |
+| 45 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
+| 46 | [Mickey Mouse](http://twitter.com/search?q=Mickey+Mouse) | N/A |
+| 47 | [Wilder](http://twitter.com/search?q=Wilder) | N/A |
+| 48 | [Morty](http://twitter.com/search?q=Morty) | Morty is a nickname for the given name Mortimer, which is of English origin and means "dead sea". It can also be used as a diminutive form of the name Mortimer. |
+| 49 | [Ekiti](http://twitter.com/search?q=Ekiti) | N/A |
 
 
 

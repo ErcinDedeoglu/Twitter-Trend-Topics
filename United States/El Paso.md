@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For El Paso
 
-📆 Last Updated: `2023-02-27 00:29:19 UTC`
+📆 Last Updated: `2023-02-27 01:45:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Hardaway](http://twitter.com/search?q=Hardaway) | Hardaway is a slang term used to describe someone who is very determined and focused on achieving their goals. It can also be used to describe someone who is very ambitious and willing to do whatever it takes to get what they want. |
-| 2 | [#HornsForward](http://twitter.com/search?q=%23HornsForward) | N/A |
-| 3 | [McGee](http://twitter.com/search?q=McGee) | N/A |
-| 4 | [Bullock](http://twitter.com/search?q=Bullock) | Bullock is an old English word for a young bull, usually one that has not yet been castrated. It can also be used to refer to a young, inexperienced person. |
-| 5 | [Brahmas](http://twitter.com/search?q=Brahmas) | N/A |
-| 6 | [Lubbock](http://twitter.com/search?q=Lubbock) | N/A |
-| 7 | [Sunday Funday](http://twitter.com/search?q=Sunday+Funday) | N/A |
-| 8 | [Adin](http://twitter.com/search?q=Adin) | Adin is a unisex name of Hebrew origin, meaning "noble" or "slender". |
-| 9 | [#okwx](http://twitter.com/search?q=%23okwx) | N/A |
-| 10 | [#ElINENoSeToca](http://twitter.com/search?q=%23ElINENoSeToca) | N/A |
-| 11 | [#GuardianGiveaways](http://twitter.com/search?q=%23GuardianGiveaways) | N/A |
-| 12 | [INEC](http://twitter.com/search?q=INEC) | N/A |
-| 13 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 14 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
-| 15 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 16 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
-| 17 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 18 | [Vanderbilt](http://twitter.com/search?q=Vanderbilt) | N/A |
-| 19 | [Bron](http://twitter.com/search?q=Bron) | Bron is a Dutch name that is derived from the Old Germanic name Brunhild, which means "armored warrior." In English, Bron can be translated to mean "armored warrior" or "brave one." |
-| 20 | [Kyle Busch](http://twitter.com/search?q=Kyle+Busch) | N/A |
-| 21 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
-| 22 | [Vando](http://twitter.com/search?q=Vando) | N/A |
-| 23 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
-| 24 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
-| 25 | [Jason Kidd](http://twitter.com/search?q=Jason+Kidd) | Jason Kidd is an American former professional basketball player and current head coach of the Milwaukee Bucks. He is considered one of the greatest point guards of all time, winning an NBA Championship in 2011 with the Dallas Mavericks and being a 10-time NBA All-Star. He was also a two-time Olympic gold medalist and was inducted into the Basketball Hall of Fame in 2018. |
-| 26 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
-| 27 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
-| 28 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
-| 29 | [Chris Kirk](http://twitter.com/search?q=Chris+Kirk) | N/A |
-| 30 | [Fauci](http://twitter.com/search?q=Fauci) | N/A |
-| 31 | [Doughty](http://twitter.com/search?q=Doughty) | N/A |
-| 32 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
-| 33 | [Down 27](http://twitter.com/search?q=Down+27) | N/A |
-| 34 | [Josh Green](http://twitter.com/search?q=Josh+Green) | Josh Green is a slang term used to describe someone who is inexperienced or naive. It is often used to describe someone who is new to a particular activity or situation and may not be aware of the rules or customs associated with it. |
-| 35 | [Mark Cuban](http://twitter.com/search?q=Mark+Cuban) | Mark Cuban is an American entrepreneur, investor, and owner of the NBA's Dallas Mavericks. He is known for his outspokenness and his involvement in a variety of business ventures. He is also a regular investor on the television show Shark Tank. The phrase "Mark Cuban" has come to mean someone who is ambitious, successful, and outspoken. |
-| 36 | [Timo Meier](http://twitter.com/search?q=Timo+Meier) | N/A |
-| 37 | [YouTuber](http://twitter.com/search?q=YouTuber) | N/A |
-| 38 | [Canelo](http://twitter.com/search?q=Canelo) | N/A |
-| 39 | [Englund](http://twitter.com/search?q=Englund) | N/A |
-| 40 | [Dwight Powell](http://twitter.com/search?q=Dwight+Powell) | N/A |
-| 41 | [Chastain](http://twitter.com/search?q=Chastain) | N/A |
-| 42 | [Dallas](http://twitter.com/search?q=Dallas) | Dallas is a city in the U.S. state of Texas. It is the ninth most populous city in the United States and the third-largest in Texas after Houston and San Antonio. The city's population ranks ninth in the U.S. and third in Texas after Houston and San Antonio. Dallas is known for its oil, telecommunications, banking, technology, healthcare, defense, transportation, and commerce industries. |
-| 43 | [Jack Johnson](http://twitter.com/search?q=Jack+Johnson) | N/A |
-| 44 | [Wayne](http://twitter.com/search?q=Wayne) | Wayne is a masculine given name in English, derived from an Old English surname meaning "wagon maker" or "wagon driver". It is also used as a surname. |
-| 45 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
-| 46 | [Badou Jack](http://twitter.com/search?q=Badou+Jack) | N/A |
-| 47 | [NICKI IS COMING](http://twitter.com/search?q=NICKI+IS+COMING) | N/A |
+| 1 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 2 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 3 | [Roughnecks](http://twitter.com/search?q=Roughnecks) | N/A |
+| 4 | [#MFFL](http://twitter.com/search?q=%23MFFL) | #MFFL stands for "Mavs Fan For Life" and is used by fans of the Dallas Mavericks NBA basketball team to show their loyalty and support. |
+| 5 | [#RoughneckNation](http://twitter.com/search?q=%23RoughneckNation) | N/A |
+| 6 | [West Texas](http://twitter.com/search?q=West+Texas) | N/A |
+| 7 | [McGee](http://twitter.com/search?q=McGee) | N/A |
+| 8 | [#HornsForward](http://twitter.com/search?q=%23HornsForward) | N/A |
+| 9 | [Bullock](http://twitter.com/search?q=Bullock) | Bullock is an old English word for a young bull, usually one that has not yet been castrated. It can also be used to refer to a young, inexperienced person. |
+| 10 | [Brahmas](http://twitter.com/search?q=Brahmas) | N/A |
+| 11 | [Lubbock](http://twitter.com/search?q=Lubbock) | N/A |
+| 12 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
+| 13 | [Dallas](http://twitter.com/search?q=Dallas) | Dallas is a city in the U.S. state of Texas. It is the ninth most populous city in the United States and the third-largest in Texas after Houston and San Antonio. The city's population ranks ninth in the U.S. and third in Texas after Houston and San Antonio. Dallas is known for its oil, telecommunications, banking, technology, healthcare, defense, transportation, and commerce industries. |
+| 14 | [Sunday Funday](http://twitter.com/search?q=Sunday+Funday) | N/A |
+| 15 | [Adin](http://twitter.com/search?q=Adin) | Adin is a unisex name of Hebrew origin, meaning "noble" or "slender". |
+| 16 | [#Boxing](http://twitter.com/search?q=%23Boxing) | N/A |
+| 17 | [#ElINENoSeToca](http://twitter.com/search?q=%23ElINENoSeToca) | N/A |
+| 18 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
+| 19 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 20 | [Robyn](http://twitter.com/search?q=Robyn) | Robyn is a female given name of English origin, derived from the Old Germanic name Hrodebert, meaning "bright fame". It is also a variant spelling of the name Robin. |
+| 21 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
+| 22 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 23 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
+| 24 | [Naz Reid](http://twitter.com/search?q=Naz+Reid) | Naz Reid is a professional basketball player who currently plays for the Minnesota Timberwolves of the National Basketball Association (NBA). His name is a combination of his first name, Naz, and his middle name, Reid. The name Naz Reid is derived from his full name, Nazareth Reid. |
+| 25 | [Bron](http://twitter.com/search?q=Bron) | Bron is a Dutch name that is derived from the Old Germanic name Brunhild, which means "armored warrior." In English, Bron can be translated to mean "armored warrior" or "brave one." |
+| 26 | [Kyle Busch](http://twitter.com/search?q=Kyle+Busch) | N/A |
+| 27 | [Vanderbilt](http://twitter.com/search?q=Vanderbilt) | N/A |
+| 28 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
+| 29 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
+| 30 | [Jessica Chastain](http://twitter.com/search?q=Jessica+Chastain) | Jessica Chastain is an American actress and producer. She is known for her roles in films such as The Help, Zero Dark Thirty, Interstellar, and Molly's Game. Her name is derived from the Latin word "castus," which means pure or chaste. |
+| 31 | [Vando](http://twitter.com/search?q=Vando) | N/A |
+| 32 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
+| 33 | [Penn State](http://twitter.com/search?q=Penn+State) | Penn State is a public research university with 24 campuses across Pennsylvania. It is the largest university in the state and one of the largest universities in the United States. The school's motto is "Making Lives Better Through Education, Research, and Service." |
+| 34 | [Fauci](http://twitter.com/search?q=Fauci) | N/A |
+| 35 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
+| 36 | [Sam Elliott](http://twitter.com/search?q=Sam+Elliott) | N/A |
+| 37 | [Jenna Ortega](http://twitter.com/search?q=Jenna+Ortega) | N/A |
+| 38 | [jeremy allen](http://twitter.com/search?q=jeremy+allen) | N/A |
+| 39 | [Derek Simpson](http://twitter.com/search?q=Derek+Simpson) | N/A |
+| 40 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
+| 41 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
+| 42 | [Jason Kidd](http://twitter.com/search?q=Jason+Kidd) | Jason Kidd is an American former professional basketball player and current head coach of the Milwaukee Bucks. He is considered one of the greatest point guards of all time, winning an NBA Championship in 2011 with the Dallas Mavericks and being a 10-time NBA All-Star. He was also a two-time Olympic gold medalist and was inducted into the Basketball Hall of Fame in 2018. |
+| 43 | [Aubrey Plaza](http://twitter.com/search?q=Aubrey+Plaza) | Aubrey Plaza is an American actress, comedian, and producer. She is best known for her roles in the films Safety Not Guaranteed, Scott Pilgrim vs. the World, and Mike and Dave Need Wedding Dates, as well as her role as April Ludgate on the NBC sitcom Parks and Recreation. |
+| 44 | [Englund](http://twitter.com/search?q=Englund) | N/A |
+| 45 | [Doughty](http://twitter.com/search?q=Doughty) | N/A |
+| 46 | [Holtz](http://twitter.com/search?q=Holtz) | N/A |
+| 47 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
 
 
 

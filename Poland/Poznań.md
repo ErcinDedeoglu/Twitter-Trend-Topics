@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Poznań
 
-📆 Last Updated: `2023-02-27 00:28:42 UTC`
+📆 Last Updated: `2023-02-27 01:44:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,46 +25,46 @@ This is top 50 for [Poland](</Poland>)
 | 8 | [#ŚLĄLPO](http://twitter.com/search?q=%23%c5%9aL%c4%84LPO) | N/A |
 | 9 | [Eurowizji](http://twitter.com/search?q=Eurowizji) | N/A |
 | 10 | [#TAURONPucharPolski](http://twitter.com/search?q=%23TAURONPucharPolski) | N/A |
-| 11 | [Zabójstwo](http://twitter.com/search?q=Zab%c3%b3jstwo) | N/A |
-| 12 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 11 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 12 | [Morderstwo](http://twitter.com/search?q=Morderstwo) | N/A |
 | 13 | [Piotr Żyła](http://twitter.com/search?q=Piotr+%c5%bby%c5%82a) | N/A |
-| 14 | [Morderstwo](http://twitter.com/search?q=Morderstwo) | N/A |
+| 14 | [Tommy Fury](http://twitter.com/search?q=Tommy+Fury) | N/A |
 | 15 | [Obajtek](http://twitter.com/search?q=Obajtek) | N/A |
-| 16 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
-| 17 | [Dallas](http://twitter.com/search?q=Dallas) | Dallas is a city in the U.S. state of Texas. It is the ninth most populous city in the United States and the third-largest in Texas after Houston and San Antonio. The city's population ranks ninth in the U.S. and third in Texas after Houston and San Antonio. Dallas is known for its oil, telecommunications, banking, technology, healthcare, defense, transportation, and commerce industries. |
+| 16 | [Dallas](http://twitter.com/search?q=Dallas) | Dallas is a city in the U.S. state of Texas. It is the ninth most populous city in the United States and the third-largest in Texas after Houston and San Antonio. The city's population ranks ninth in the U.S. and third in Texas after Houston and San Antonio. Dallas is known for its oil, telecommunications, banking, technology, healthcare, defense, transportation, and commerce industries. |
+| 17 | [Jake](http://twitter.com/search?q=Jake) | N/A |
 | 18 | [Felivers](http://twitter.com/search?q=Felivers) | N/A |
 | 19 | [Marsylii](http://twitter.com/search?q=Marsylii) | N/A |
-| 20 | [Zupy](http://twitter.com/search?q=Zupy) | N/A |
-| 21 | [ziyecha](http://twitter.com/search?q=ziyecha) | N/A |
-| 22 | [Almeria](http://twitter.com/search?q=Almeria) | N/A |
+| 20 | [ziyecha](http://twitter.com/search?q=ziyecha) | N/A |
+| 21 | [Almeria](http://twitter.com/search?q=Almeria) | N/A |
+| 22 | [Ukrainę](http://twitter.com/search?q=Ukrain%c4%99) | N/A |
 | 23 | [Natasza](http://twitter.com/search?q=Natasza) | N/A |
-| 24 | [Ukrainę](http://twitter.com/search?q=Ukrain%c4%99) | N/A |
-| 25 | [Marchewa](http://twitter.com/search?q=Marchewa) | N/A |
-| 26 | [Zupa](http://twitter.com/search?q=Zupa) | N/A |
-| 27 | [Marchwiński](http://twitter.com/search?q=Marchwi%c5%84ski) | N/A |
-| 28 | [Kropiwnicki](http://twitter.com/search?q=Kropiwnicki) | N/A |
-| 29 | [Holec](http://twitter.com/search?q=Holec) | N/A |
+| 24 | [Marchewa](http://twitter.com/search?q=Marchewa) | N/A |
+| 25 | [Zupa](http://twitter.com/search?q=Zupa) | N/A |
+| 26 | [Marchwiński](http://twitter.com/search?q=Marchwi%c5%84ski) | N/A |
+| 27 | [Kropiwnicki](http://twitter.com/search?q=Kropiwnicki) | N/A |
+| 28 | [holec](http://twitter.com/search?q=holec) | N/A |
+| 29 | [hobiego](http://twitter.com/search?q=hobiego) | N/A |
 | 30 | [Lotos](http://twitter.com/search?q=Lotos) | N/A |
-| 31 | [hobiego](http://twitter.com/search?q=hobiego) | N/A |
-| 32 | [Milanu](http://twitter.com/search?q=Milanu) | N/A |
-| 33 | [Amaral](http://twitter.com/search?q=Amaral) | N/A |
-| 34 | [murawski](http://twitter.com/search?q=murawski) | N/A |
-| 35 | [Edyta Górniak](http://twitter.com/search?q=Edyta+G%c3%b3rniak) | N/A |
-| 36 | [ZAKSA](http://twitter.com/search?q=ZAKSA) | N/A |
-| 37 | [Alicja](http://twitter.com/search?q=Alicja) | N/A |
-| 38 | [Yeboah](http://twitter.com/search?q=Yeboah) | N/A |
-| 39 | [Rebocho](http://twitter.com/search?q=Rebocho) | N/A |
-| 40 | [Bachmut](http://twitter.com/search?q=Bachmut) | N/A |
-| 41 | [Paula](http://twitter.com/search?q=Paula) | Paula is a female given name of Latin origin, meaning "small". It is derived from the word "paulus", which means "little". |
-| 42 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 43 | [piotrek](http://twitter.com/search?q=piotrek) | N/A |
-| 44 | [piotrka](http://twitter.com/search?q=piotrka) | N/A |
-| 45 | [Ochman](http://twitter.com/search?q=Ochman) | N/A |
-| 46 | [Jankowski](http://twitter.com/search?q=Jankowski) | N/A |
-| 47 | [Dominik Dudek](http://twitter.com/search?q=Dominik+Dudek) | N/A |
-| 48 | [Śląska](http://twitter.com/search?q=%c5%9al%c4%85ska) | N/A |
-| 49 | [Ofiara](http://twitter.com/search?q=Ofiara) | N/A |
-| 50 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
+| 31 | [Amaral](http://twitter.com/search?q=Amaral) | N/A |
+| 32 | [ZAKSA](http://twitter.com/search?q=ZAKSA) | N/A |
+| 33 | [murawski](http://twitter.com/search?q=murawski) | N/A |
+| 34 | [Edyta Górniak](http://twitter.com/search?q=Edyta+G%c3%b3rniak) | N/A |
+| 35 | [Alicja](http://twitter.com/search?q=Alicja) | N/A |
+| 36 | [Yeboah](http://twitter.com/search?q=Yeboah) | N/A |
+| 37 | [rebocho](http://twitter.com/search?q=rebocho) | N/A |
+| 38 | [Bachmut](http://twitter.com/search?q=Bachmut) | N/A |
+| 39 | [piotrek](http://twitter.com/search?q=piotrek) | N/A |
+| 40 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 41 | [Śląska](http://twitter.com/search?q=%c5%9al%c4%85ska) | N/A |
+| 42 | [Ochman](http://twitter.com/search?q=Ochman) | N/A |
+| 43 | [Jankowski](http://twitter.com/search?q=Jankowski) | N/A |
+| 44 | [Dominik Dudek](http://twitter.com/search?q=Dominik+Dudek) | N/A |
+| 45 | [piotrka](http://twitter.com/search?q=piotrka) | N/A |
+| 46 | [Hubert Hurkacz](http://twitter.com/search?q=Hubert+Hurkacz) | N/A |
+| 47 | [Ofiara](http://twitter.com/search?q=Ofiara) | N/A |
+| 48 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
+| 49 | [Zupy](http://twitter.com/search?q=Zupy) | N/A |
+| 50 | [Gladiator](http://twitter.com/search?q=Gladiator) | Gladiator is a 2000 historical epic film directed by Ridley Scott. It stars Russell Crowe as the fictional character Maximus Decimus Meridius, a Roman general who is betrayed and enslaved, and then fights in the gladiatorial arena to gain his freedom. The term "gladiator" refers to a professional fighter in ancient Rome who fought against other gladiators or wild animals for the entertainment of the public. |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Detroit
 
-📆 Last Updated: `2023-02-27 00:29:18 UTC`
+📆 Last Updated: `2023-02-27 01:45:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Hunter](http://twitter.com/search?q=Hunter) | N/A |
-| 2 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
-| 3 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
+| 1 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
+| 2 | [#GoBlue](http://twitter.com/search?q=%23GoBlue) | N/A |
+| 3 | [Hunter](http://twitter.com/search?q=Hunter) | N/A |
 | 4 | [Michigan](http://twitter.com/search?q=Michigan) | Michigan is a state in the Midwestern United States. It is bordered by four of the five Great Lakes, and is the only state to be surrounded by three out of the five. Michigan is known for its diverse landscape, which includes forests, beaches, and rolling hills. The state's name comes from the Ojibwe word "mishigami," which means "large lake." |
-| 5 | [Kobe](http://twitter.com/search?q=Kobe) | Kobe is a city in Japan. It is the capital of Hyogo Prefecture and one of the largest cities in the country. The meaning of Kobe in English is "God's Door". |
-| 6 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
+| 5 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
+| 6 | [#RHOP](http://twitter.com/search?q=%23RHOP) | #RHOP stands for The Real Housewives of Potomac, which is a reality television series that airs on the Bravo network. It follows the lives of six women living in Potomac, Maryland, as they navigate their personal and professional lives. |
 | 7 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 8 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
-| 9 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 10 | [Vanderbilt](http://twitter.com/search?q=Vanderbilt) | N/A |
-| 11 | [Bron](http://twitter.com/search?q=Bron) | Bron is a Dutch name that is derived from the Old Germanic name Brunhild, which means "armored warrior." In English, Bron can be translated to mean "armored warrior" or "brave one." |
-| 12 | [Kyle Busch](http://twitter.com/search?q=Kyle+Busch) | N/A |
-| 13 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
-| 14 | [Vando](http://twitter.com/search?q=Vando) | N/A |
-| 15 | [#NASCAR](http://twitter.com/search?q=%23NASCAR) | N/A |
-| 16 | [#SAGAwards](http://twitter.com/search?q=%23SAGAwards) | N/A |
-| 17 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
-| 18 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
-| 19 | [Jason Kidd](http://twitter.com/search?q=Jason+Kidd) | Jason Kidd is an American former professional basketball player and current head coach of the Milwaukee Bucks. He is considered one of the greatest point guards of all time, winning an NBA Championship in 2011 with the Dallas Mavericks and being a 10-time NBA All-Star. He was also a two-time Olympic gold medalist and was inducted into the Basketball Hall of Fame in 2018. |
-| 20 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
-| 21 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
-| 22 | [#PalaCasino400](http://twitter.com/search?q=%23PalaCasino400) | N/A |
-| 23 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
-| 24 | [Chris Kirk](http://twitter.com/search?q=Chris+Kirk) | N/A |
-| 25 | [#rowdynation](http://twitter.com/search?q=%23rowdynation) | N/A |
-| 26 | [Fauci](http://twitter.com/search?q=Fauci) | N/A |
-| 27 | [Doughty](http://twitter.com/search?q=Doughty) | N/A |
-| 28 | [Mark Cuban](http://twitter.com/search?q=Mark+Cuban) | Mark Cuban is an American entrepreneur, investor, and owner of the NBA's Dallas Mavericks. He is known for his outspokenness and his involvement in a variety of business ventures. He is also a regular investor on the television show Shark Tank. The phrase "Mark Cuban" has come to mean someone who is ambitious, successful, and outspoken. |
-| 29 | [Down 27](http://twitter.com/search?q=Down+27) | N/A |
-| 30 | [Josh Green](http://twitter.com/search?q=Josh+Green) | Josh Green is a slang term used to describe someone who is inexperienced or naive. It is often used to describe someone who is new to a particular activity or situation and may not be aware of the rules or customs associated with it. |
-| 31 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
-| 32 | [Timo Meier](http://twitter.com/search?q=Timo+Meier) | N/A |
-| 33 | [YouTuber](http://twitter.com/search?q=YouTuber) | N/A |
-| 34 | [Canelo](http://twitter.com/search?q=Canelo) | N/A |
-| 35 | [Dwight Powell](http://twitter.com/search?q=Dwight+Powell) | N/A |
-| 36 | [Englund](http://twitter.com/search?q=Englund) | N/A |
-| 37 | [Chastain](http://twitter.com/search?q=Chastain) | N/A |
-| 38 | [Dallas](http://twitter.com/search?q=Dallas) | Dallas is a city in the U.S. state of Texas. It is the ninth most populous city in the United States and the third-largest in Texas after Houston and San Antonio. The city's population ranks ninth in the U.S. and third in Texas after Houston and San Antonio. Dallas is known for its oil, telecommunications, banking, technology, healthcare, defense, transportation, and commerce industries. |
-| 39 | [Jack Johnson](http://twitter.com/search?q=Jack+Johnson) | N/A |
-| 40 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
-| 41 | [Wayne](http://twitter.com/search?q=Wayne) | Wayne is a masculine given name in English, derived from an Old English surname meaning "wagon maker" or "wagon driver". It is also used as a surname. |
-| 42 | [Badou Jack](http://twitter.com/search?q=Badou+Jack) | N/A |
-| 43 | [Joe Gibbs](http://twitter.com/search?q=Joe+Gibbs) | N/A |
-| 44 | [NICKI IS COMING](http://twitter.com/search?q=NICKI+IS+COMING) | N/A |
-| 45 | [Andre Miller](http://twitter.com/search?q=Andre+Miller) | Andre Miller is a retired American professional basketball player. He played in the National Basketball Association (NBA) for 17 seasons, from 1999 to 2016. He was known for his passing ability and his ability to control the tempo of the game. |
-| 46 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
-| 47 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
-| 48 | [Morty](http://twitter.com/search?q=Morty) | Morty is a nickname for the given name Mortimer, which is of English origin and means "dead sea". It can also be used as a diminutive form of the name Mortimer. |
-| 49 | [Shawn Porter](http://twitter.com/search?q=Shawn+Porter) | N/A |
-| 50 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
+| 8 | [#SAGAwards](http://twitter.com/search?q=%23SAGAwards) | N/A |
+| 9 | [Robyn](http://twitter.com/search?q=Robyn) | Robyn is a female given name of English origin, derived from the Old Germanic name Hrodebert, meaning "bright fame". It is also a variant spelling of the name Robin. |
+| 10 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
+| 11 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 12 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
+| 13 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
+| 14 | [Naz Reid](http://twitter.com/search?q=Naz+Reid) | Naz Reid is a professional basketball player who currently plays for the Minnesota Timberwolves of the National Basketball Association (NBA). His name is a combination of his first name, Naz, and his middle name, Reid. The name Naz Reid is derived from his full name, Nazareth Reid. |
+| 15 | [Kyle Busch](http://twitter.com/search?q=Kyle+Busch) | N/A |
+| 16 | [Bron](http://twitter.com/search?q=Bron) | Bron is a Dutch name that is derived from the Old Germanic name Brunhild, which means "armored warrior." In English, Bron can be translated to mean "armored warrior" or "brave one." |
+| 17 | [Vanderbilt](http://twitter.com/search?q=Vanderbilt) | N/A |
+| 18 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
+| 19 | [#90DayFiance](http://twitter.com/search?q=%2390DayFiance) | #90DayFiance is a reality television series on the TLC network. It follows couples who have applied for or received a K-1 visa, which allows foreign fiancés of American citizens to enter the United States for a 90-day period in order to get married. The show documents their journey as they decide whether or not to marry their partner and adjust to life in the United States. |
+| 20 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
+| 21 | [Jessica Chastain](http://twitter.com/search?q=Jessica+Chastain) | Jessica Chastain is an American actress and producer. She is known for her roles in films such as The Help, Zero Dark Thirty, Interstellar, and Molly's Game. Her name is derived from the Latin word "castus," which means pure or chaste. |
+| 22 | [Vando](http://twitter.com/search?q=Vando) | N/A |
+| 23 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
+| 24 | [Penn State](http://twitter.com/search?q=Penn+State) | Penn State is a public research university with 24 campuses across Pennsylvania. It is the largest university in the state and one of the largest universities in the United States. The school's motto is "Making Lives Better Through Education, Research, and Service." |
+| 25 | [Fauci](http://twitter.com/search?q=Fauci) | N/A |
+| 26 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
+| 27 | [Sam Elliott](http://twitter.com/search?q=Sam+Elliott) | N/A |
+| 28 | [Jenna Ortega](http://twitter.com/search?q=Jenna+Ortega) | N/A |
+| 29 | [jeremy allen](http://twitter.com/search?q=jeremy+allen) | N/A |
+| 30 | [Derek Simpson](http://twitter.com/search?q=Derek+Simpson) | N/A |
+| 31 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
+| 32 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
+| 33 | [Jason Kidd](http://twitter.com/search?q=Jason+Kidd) | Jason Kidd is an American former professional basketball player and current head coach of the Milwaukee Bucks. He is considered one of the greatest point guards of all time, winning an NBA Championship in 2011 with the Dallas Mavericks and being a 10-time NBA All-Star. He was also a two-time Olympic gold medalist and was inducted into the Basketball Hall of Fame in 2018. |
+| 34 | [Aubrey Plaza](http://twitter.com/search?q=Aubrey+Plaza) | Aubrey Plaza is an American actress, comedian, and producer. She is best known for her roles in the films Safety Not Guaranteed, Scott Pilgrim vs. the World, and Mike and Dave Need Wedding Dates, as well as her role as April Ludgate on the NBC sitcom Parks and Recreation. |
+| 35 | [Englund](http://twitter.com/search?q=Englund) | N/A |
+| 36 | [Doughty](http://twitter.com/search?q=Doughty) | N/A |
+| 37 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
+| 38 | [Holtz](http://twitter.com/search?q=Holtz) | N/A |
+| 39 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
+| 40 | [Timo Meier](http://twitter.com/search?q=Timo+Meier) | N/A |
+| 41 | [Morty](http://twitter.com/search?q=Morty) | Morty is a nickname for the given name Mortimer, which is of English origin and means "dead sea". It can also be used as a diminutive form of the name Mortimer. |
+| 42 | [Seth Lundy](http://twitter.com/search?q=Seth+Lundy) | N/A |
+| 43 | [Chris Kirk](http://twitter.com/search?q=Chris+Kirk) | N/A |
+| 44 | [Jack Johnson](http://twitter.com/search?q=Jack+Johnson) | N/A |
+| 45 | [YouTuber](http://twitter.com/search?q=YouTuber) | N/A |
+| 46 | [NICKI IS COMING](http://twitter.com/search?q=NICKI+IS+COMING) | N/A |
+| 47 | [Quin Snyder](http://twitter.com/search?q=Quin+Snyder) | N/A |
+| 48 | [Mavericks](http://twitter.com/search?q=Mavericks) | Mavericks is a term used to describe an independent-minded person who does not conform to the norms of society. It is often used to describe someone who is willing to take risks and challenge the status quo. |
+| 49 | [Mark Cuban](http://twitter.com/search?q=Mark+Cuban) | Mark Cuban is an American entrepreneur, investor, and owner of the NBA's Dallas Mavericks. He is known for his outspokenness and his involvement in a variety of business ventures. He is also a regular investor on the television show Shark Tank. The phrase "Mark Cuban" has come to mean someone who is ambitious, successful, and outspoken. |
+| 50 | [Martin Short](http://twitter.com/search?q=Martin+Short) | N/A |
 
 
 
