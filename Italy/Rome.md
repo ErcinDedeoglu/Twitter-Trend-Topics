@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rome
 
-📆 Last Updated: `2023-02-27 06:16:41 UTC`
+📆 Last Updated: `2023-02-27 07:16:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Italy](</Italy>)
 | ------- | ------------ | ------------ |
 | 1 | [#Schlein](http://twitter.com/search?q=%23Schlein) | N/A |
 | 2 | [#primariepd2023](http://twitter.com/search?q=%23primariepd2023) | N/A |
-| 3 | [#bolognainter](http://twitter.com/search?q=%23bolognainter) | N/A |
-| 4 | [#MilanAtalanta](http://twitter.com/search?q=%23MilanAtalanta) | N/A |
-| 5 | [#Crotone](http://twitter.com/search?q=%23Crotone) | N/A |
+| 3 | [#27febbraio](http://twitter.com/search?q=%2327febbraio) | N/A |
+| 4 | [#bolognainter](http://twitter.com/search?q=%23bolognainter) | N/A |
+| 5 | [#MilanAtalanta](http://twitter.com/search?q=%23MilanAtalanta) | N/A |
 | 6 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
-| 7 | [De Filippi](http://twitter.com/search?q=De+Filippi) | N/A |
-| 8 | [Renzi](http://twitter.com/search?q=Renzi) | N/A |
-| 9 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
-| 10 | [Il PD](http://twitter.com/search?q=Il+PD) | N/A |
-| 11 | [Ambrosio](http://twitter.com/search?q=Ambrosio) | N/A |
-| 12 | [Thiaw](http://twitter.com/search?q=Thiaw) | N/A |
-| 13 | [Franceschini](http://twitter.com/search?q=Franceschini) | N/A |
-| 14 | [Thiago Motta](http://twitter.com/search?q=Thiago+Motta) | N/A |
-| 15 | [Buongiorno Giusi](http://twitter.com/search?q=Buongiorno+Giusi) | N/A |
-| 16 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
-| 17 | [Buongiorno Silvia](http://twitter.com/search?q=Buongiorno+Silvia) | N/A |
-| 18 | [Murgia](http://twitter.com/search?q=Murgia) | Murgia is a geographical region in southern Italy, located in the provinces of Bari and Taranto. It is characterized by its limestone hills, deep ravines, and caves. The name Murgia comes from the Latin word murex, meaning "rocky hill". In English, Murgia can be translated as "rocky land". |
-| 19 | [BUON COMPLEANNO DAYANE](http://twitter.com/search?q=BUON+COMPLEANNO+DAYANE) | N/A |
-| 20 | [IT'S RACE WEEK](http://twitter.com/search?q=IT%27S+RACE+WEEK) | N/A |
-| 21 | [Musso](http://twitter.com/search?q=Musso) | N/A |
-| 22 | [Orsato](http://twitter.com/search?q=Orsato) | N/A |
-| 23 | [Vecchioni](http://twitter.com/search?q=Vecchioni) | N/A |
-| 24 | [Gabbia](http://twitter.com/search?q=Gabbia) | N/A |
-| 25 | [Buongiorno Giuseppe](http://twitter.com/search?q=Buongiorno+Giuseppe) | N/A |
-| 26 | [Buongiorno Clelia](http://twitter.com/search?q=Buongiorno+Clelia) | N/A |
-| 27 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 28 | [Libia](http://twitter.com/search?q=Libia) | N/A |
-| 29 | [Mediterraneo](http://twitter.com/search?q=Mediterraneo) | N/A |
-| 30 | [Partito Democratico](http://twitter.com/search?q=Partito+Democratico) | N/A |
-| 31 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 32 | [Theo](http://twitter.com/search?q=Theo) | N/A |
-| 33 | [Jankto](http://twitter.com/search?q=Jankto) | N/A |
-| 34 | [Buongiorno Monica](http://twitter.com/search?q=Buongiorno+Monica) | N/A |
-| 35 | [Bersani](http://twitter.com/search?q=Bersani) | N/A |
-| 36 | [Dumfries](http://twitter.com/search?q=Dumfries) | N/A |
-| 37 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
-| 38 | [Sciacallo](http://twitter.com/search?q=Sciacallo) | N/A |
-| 39 | [de vrij](http://twitter.com/search?q=de+vrij) | N/A |
-| 40 | [Stefano](http://twitter.com/search?q=Stefano) | N/A |
-| 41 | [Buongiorno Davide](http://twitter.com/search?q=Buongiorno+Davide) | N/A |
-| 42 | [Le ONG](http://twitter.com/search?q=Le+ONG) | N/A |
-| 43 | [Buongiorno Emi](http://twitter.com/search?q=Buongiorno+Emi) | N/A |
-| 44 | [Grecia](http://twitter.com/search?q=Grecia) | N/A |
-| 45 | [Buongiorno Antonio](http://twitter.com/search?q=Buongiorno+Antonio) | N/A |
-| 46 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 47 | [Terzo Polo](http://twitter.com/search?q=Terzo+Polo) | N/A |
-| 48 | [Buongiorno Francesca](http://twitter.com/search?q=Buongiorno+Francesca) | N/A |
-| 49 | [Turchia](http://twitter.com/search?q=Turchia) | N/A |
-| 50 | [Buongiorno Luigi](http://twitter.com/search?q=Buongiorno+Luigi) | N/A |
+| 7 | [Renzi](http://twitter.com/search?q=Renzi) | N/A |
+| 8 | [De Filippi](http://twitter.com/search?q=De+Filippi) | N/A |
+| 9 | [Il PD](http://twitter.com/search?q=Il+PD) | N/A |
+| 10 | [buona domenica](http://twitter.com/search?q=buona+domenica) | N/A |
+| 11 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
+| 12 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
+| 13 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
+| 14 | [IT'S RACE WEEK](http://twitter.com/search?q=IT%27S+RACE+WEEK) | N/A |
+| 15 | [Buongiorno Silvia](http://twitter.com/search?q=Buongiorno+Silvia) | N/A |
+| 16 | [Fiorello](http://twitter.com/search?q=Fiorello) | N/A |
+| 17 | [Buongiorno Giusi](http://twitter.com/search?q=Buongiorno+Giusi) | N/A |
+| 18 | [Franceschini](http://twitter.com/search?q=Franceschini) | N/A |
+| 19 | [Thiaw](http://twitter.com/search?q=Thiaw) | N/A |
+| 20 | [Ambrosio](http://twitter.com/search?q=Ambrosio) | N/A |
+| 21 | [Buongiorno Giuseppe](http://twitter.com/search?q=Buongiorno+Giuseppe) | N/A |
+| 22 | [Buongiorno Emi](http://twitter.com/search?q=Buongiorno+Emi) | N/A |
+| 23 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
+| 24 | [Thiago Motta](http://twitter.com/search?q=Thiago+Motta) | N/A |
+| 25 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
+| 26 | [BUON COMPLEANNO DAYANE](http://twitter.com/search?q=BUON+COMPLEANNO+DAYANE) | N/A |
+| 27 | [Murgia](http://twitter.com/search?q=Murgia) | Murgia is a geographical region in southern Italy, located in the provinces of Bari and Taranto. It is characterized by its limestone hills, deep ravines, and caves. The name Murgia comes from the Latin word murex, meaning "rocky hill". In English, Murgia can be translated as "rocky land". |
+| 28 | [Musso](http://twitter.com/search?q=Musso) | N/A |
+| 29 | [Orsato](http://twitter.com/search?q=Orsato) | N/A |
+| 30 | [Dory](http://twitter.com/search?q=Dory) | N/A |
+| 31 | [Vecchioni](http://twitter.com/search?q=Vecchioni) | N/A |
+| 32 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 33 | [Gabbia](http://twitter.com/search?q=Gabbia) | N/A |
+| 34 | [Buongiorno Antonio](http://twitter.com/search?q=Buongiorno+Antonio) | N/A |
+| 35 | [Mediterraneo](http://twitter.com/search?q=Mediterraneo) | N/A |
+| 36 | [Grecia](http://twitter.com/search?q=Grecia) | N/A |
+| 37 | [Buongiorno Massimo](http://twitter.com/search?q=Buongiorno+Massimo) | N/A |
+| 38 | [Libia](http://twitter.com/search?q=Libia) | N/A |
+| 39 | [Bersani](http://twitter.com/search?q=Bersani) | N/A |
+| 40 | [Buongiorno Sergio](http://twitter.com/search?q=Buongiorno+Sergio) | N/A |
+| 41 | [Partito Democratico](http://twitter.com/search?q=Partito+Democratico) | N/A |
+| 42 | [Ditta](http://twitter.com/search?q=Ditta) | N/A |
+| 43 | [Jankto](http://twitter.com/search?q=Jankto) | N/A |
+| 44 | [Sciacallo](http://twitter.com/search?q=Sciacallo) | N/A |
+| 45 | [Le ONG](http://twitter.com/search?q=Le+ONG) | N/A |
+| 46 | [Zingaretti](http://twitter.com/search?q=Zingaretti) | N/A |
+| 47 | [Turchia](http://twitter.com/search?q=Turchia) | N/A |
+| 48 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 49 | [Corbyn](http://twitter.com/search?q=Corbyn) | N/A |
+| 50 | [Buongiorno Antonella](http://twitter.com/search?q=Buongiorno+Antonella) | N/A |
 
 
 

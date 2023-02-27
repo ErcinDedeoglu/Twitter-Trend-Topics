@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kobe
 
-📆 Last Updated: `2023-02-27 06:16:47 UTC`
+📆 Last Updated: `2023-02-27 07:16:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Japan](</Japan>)
 | ------- | ------------ | ------------ |
 | 1 | [ベネット](http://twitter.com/search?q=%e3%83%99%e3%83%8d%e3%83%83%e3%83%88) | N/A |
 | 2 | [ザシアン](http://twitter.com/search?q=%e3%82%b6%e3%82%b7%e3%82%a2%e3%83%b3) | N/A |
-| 3 | [ステージ改修](http://twitter.com/search?q=%e3%82%b9%e3%83%86%e3%83%bc%e3%82%b8%e6%94%b9%e4%bf%ae) | N/A |
-| 4 | [カニタンク](http://twitter.com/search?q=%e3%82%ab%e3%83%8b%e3%82%bf%e3%83%b3%e3%82%af) | N/A |
-| 5 | [#ヒロアカ最終決戦チャレンジ](http://twitter.com/search?q=%23%e3%83%92%e3%83%ad%e3%82%a2%e3%82%ab%e6%9c%80%e7%b5%82%e6%b1%ba%e6%88%a6%e3%83%81%e3%83%a3%e3%83%ac%e3%83%b3%e3%82%b8) | #ヒロアカ最終決戦チャレンジ is a hashtag used by fans of the manga and anime series My Hero Academia. It translates to "My Hero Academia Final Showdown Challenge" and is used to share fan art, cosplay, and other content related to the series. |
-| 6 | [到達距離](http://twitter.com/search?q=%e5%88%b0%e9%81%94%e8%b7%9d%e9%9b%a2) | 到達距離 (dàodá jùlí) is a Chinese phrase that translates to “distance to destination” in English. It is used to refer to the distance between two points, usually in terms of travel. |
-| 7 | [鞠莉の謎解き成功](http://twitter.com/search?q=%e9%9e%a0%e8%8e%89%e3%81%ae%e8%ac%8e%e8%a7%a3%e3%81%8d%e6%88%90%e5%8a%9f) | N/A |
-| 8 | [ヘルシェイク矢野](http://twitter.com/search?q=%e3%83%98%e3%83%ab%e3%82%b7%e3%82%a7%e3%82%a4%e3%82%af%e7%9f%a2%e9%87%8e) | ヘルシェイク矢野 is a Japanese phrase that translates to "Yano of Hellshake". It is the name of a Japanese rock band formed in the late 1980s. The band's music is a mix of hard rock, punk, and metal. |
+| 3 | [ピアノ組](http://twitter.com/search?q=%e3%83%94%e3%82%a2%e3%83%8e%e7%b5%84) | N/A |
+| 4 | [ヘルシェイク矢野](http://twitter.com/search?q=%e3%83%98%e3%83%ab%e3%82%b7%e3%82%a7%e3%82%a4%e3%82%af%e7%9f%a2%e9%87%8e) | ヘルシェイク矢野 is a Japanese phrase that translates to "Yano of Hellshake". It is the name of a Japanese rock band formed in the late 1980s. The band's music is a mix of hard rock, punk, and metal. |
+| 5 | [鞠莉の謎解き成功](http://twitter.com/search?q=%e9%9e%a0%e8%8e%89%e3%81%ae%e8%ac%8e%e8%a7%a3%e3%81%8d%e6%88%90%e5%8a%9f) | N/A |
+| 6 | [#ヒロアカ最終決戦チャレンジ](http://twitter.com/search?q=%23%e3%83%92%e3%83%ad%e3%82%a2%e3%82%ab%e6%9c%80%e7%b5%82%e6%b1%ba%e6%88%a6%e3%83%81%e3%83%a3%e3%83%ac%e3%83%b3%e3%82%b8) | #ヒロアカ最終決戦チャレンジ is a hashtag used by fans of the manga and anime series My Hero Academia. It translates to "My Hero Academia Final Showdown Challenge" and is used to share fan art, cosplay, and other content related to the series. |
+| 7 | [到達距離](http://twitter.com/search?q=%e5%88%b0%e9%81%94%e8%b7%9d%e9%9b%a2) | 到達距離 (dàodá jùlí) is a Chinese phrase that translates to “distance to destination” in English. It is used to refer to the distance between two points, usually in terms of travel. |
+| 8 | [ステージ改修](http://twitter.com/search?q=%e3%82%b9%e3%83%86%e3%83%bc%e3%82%b8%e6%94%b9%e4%bf%ae) | N/A |
 | 9 | [キッザニア](http://twitter.com/search?q=%e3%82%ad%e3%83%83%e3%82%b6%e3%83%8b%e3%82%a2) | N/A |
-| 10 | [詫び狂気](http://twitter.com/search?q=%e8%a9%ab%e3%81%b3%e7%8b%82%e6%b0%97) | N/A |
-| 11 | [#僕のヒーローアカデミア](http://twitter.com/search?q=%23%e5%83%95%e3%81%ae%e3%83%92%e3%83%bc%e3%83%ad%e3%83%bc%e3%82%a2%e3%82%ab%e3%83%87%e3%83%9f%e3%82%a2) | #僕のヒーローアカデミア is the title of a popular Japanese manga and anime series. The English translation of the title is My Hero Academia. The series follows the story of Izuku Midoriya, a young boy who dreams of becoming a superhero despite having no superpowers of his own. |
-| 12 | [リンバス](http://twitter.com/search?q=%e3%83%aa%e3%83%b3%e3%83%90%e3%82%b9) | N/A |
-| 13 | [ジャックストラク](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%83%83%e3%82%af%e3%82%b9%e3%83%88%e3%83%a9%e3%82%af) | N/A |
+| 10 | [#国会中継](http://twitter.com/search?q=%23%e5%9b%bd%e4%bc%9a%e4%b8%ad%e7%b6%99) | N/A |
+| 11 | [公用スマホ](http://twitter.com/search?q=%e5%85%ac%e7%94%a8%e3%82%b9%e3%83%9e%e3%83%9b) | N/A |
+| 12 | [#僕のヒーローアカデミア](http://twitter.com/search?q=%23%e5%83%95%e3%81%ae%e3%83%92%e3%83%bc%e3%83%ad%e3%83%bc%e3%82%a2%e3%82%ab%e3%83%87%e3%83%9f%e3%82%a2) | #僕のヒーローアカデミア is the title of a popular Japanese manga and anime series. The English translation of the title is My Hero Academia. The series follows the story of Izuku Midoriya, a young boy who dreams of becoming a superhero despite having no superpowers of his own. |
+| 13 | [カニタンク](http://twitter.com/search?q=%e3%82%ab%e3%83%8b%e3%82%bf%e3%83%b3%e3%82%af) | N/A |
 | 14 | [到達記録](http://twitter.com/search?q=%e5%88%b0%e9%81%94%e8%a8%98%e9%8c%b2) | 到達記録 (tōtatsu kiroku) is a Japanese term that translates to “arrival record”. It is used to refer to a record of the arrival times of people or goods at a certain location. |
-| 15 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
-| 16 | [#Pleasure2023](http://twitter.com/search?q=%23Pleasure2023) | N/A |
-| 17 | [クイボ弱体化](http://twitter.com/search?q=%e3%82%af%e3%82%a4%e3%83%9c%e5%bc%b1%e4%bd%93%e5%8c%96) | N/A |
-| 18 | [#悩みに応えるラボシャンプー](http://twitter.com/search?q=%23%e6%82%a9%e3%81%bf%e3%81%ab%e5%bf%9c%e3%81%88%e3%82%8b%e3%83%a9%e3%83%9c%e3%82%b7%e3%83%a3%e3%83%b3%e3%83%97%e3%83%bc) | N/A |
-| 19 | [チャレンジ成功](http://twitter.com/search?q=%e3%83%81%e3%83%a3%e3%83%ac%e3%83%b3%e3%82%b8%e6%88%90%e5%8a%9f) | チャレンジ成功 is a Japanese phrase that translates to "challenge success" in English. It is used to express the feeling of accomplishment after successfully completing a challenge or task. |
-| 20 | [無糖ミルクティー](http://twitter.com/search?q=%e7%84%a1%e7%b3%96%e3%83%9f%e3%83%ab%e3%82%af%e3%83%86%e3%82%a3%e3%83%bc) | N/A |
-| 21 | [THE SECOND](http://twitter.com/search?q=THE+SECOND) | N/A |
-| 22 | [王者の鼓動](http://twitter.com/search?q=%e7%8e%8b%e8%80%85%e3%81%ae%e9%bc%93%e5%8b%95) | N/A |
-| 23 | [リラード](http://twitter.com/search?q=%e3%83%aa%e3%83%a9%e3%83%bc%e3%83%89) | N/A |
-| 24 | [キャンディス](http://twitter.com/search?q=%e3%82%ad%e3%83%a3%e3%83%b3%e3%83%87%e3%82%a3%e3%82%b9) | N/A |
-| 25 | [ピアノ組](http://twitter.com/search?q=%e3%83%94%e3%82%a2%e3%83%8e%e7%b5%84) | N/A |
-| 26 | [打ち切り](http://twitter.com/search?q=%e6%89%93%e3%81%a1%e5%88%87%e3%82%8a) | N/A |
-| 27 | [シャプマ](http://twitter.com/search?q=%e3%82%b7%e3%83%a3%e3%83%97%e3%83%9e) | シャプマ is a type of Japanese folk song. It is usually sung in a call-and-response style, with one singer singing the main melody and the other singers responding with a chorus. In English, it is sometimes referred to as a "shamisen song". |
-| 28 | [ロシア解体](http://twitter.com/search?q=%e3%83%ad%e3%82%b7%e3%82%a2%e8%a7%a3%e4%bd%93) | N/A |
-| 29 | [クラブジム](http://twitter.com/search?q=%e3%82%af%e3%83%a9%e3%83%96%e3%82%b8%e3%83%a0) | N/A |
-| 30 | [バーバラ](http://twitter.com/search?q=%e3%83%90%e3%83%bc%e3%83%90%e3%83%a9) | N/A |
-| 31 | [大阪高裁](http://twitter.com/search?q=%e5%a4%a7%e9%98%aa%e9%ab%98%e8%a3%81) | N/A |
-| 32 | [ダークアレイ](http://twitter.com/search?q=%e3%83%80%e3%83%bc%e3%82%af%e3%82%a2%e3%83%ac%e3%82%a4) | N/A |
-| 33 | [しいたけ占い](http://twitter.com/search?q=%e3%81%97%e3%81%84%e3%81%9f%e3%81%91%e5%8d%a0%e3%81%84) | しいたけ占い (Shiitake Fortune Telling) is a traditional Japanese fortune-telling game that uses shiitake mushrooms. Players take turns picking up mushrooms from a pile and interpreting the shape of the mushroom to determine their fortune. The fortunes range from good luck to bad luck, and can be interpreted in various ways. In English, it is sometimes referred to as Shiitake Mushroom Divination. |
-| 34 | [カニ弱体化](http://twitter.com/search?q=%e3%82%ab%e3%83%8b%e5%bc%b1%e4%bd%93%e5%8c%96) | N/A |
-| 35 | [ワイドローラー](http://twitter.com/search?q=%e3%83%af%e3%82%a4%e3%83%89%e3%83%ad%e3%83%bc%e3%83%a9%e3%83%bc) | N/A |
-| 36 | [カジノ・ロワイヤル](http://twitter.com/search?q=%e3%82%ab%e3%82%b8%e3%83%8e%e3%83%bb%e3%83%ad%e3%83%af%e3%82%a4%e3%83%a4%e3%83%ab) | カジノ・ロワイヤル is a 1966 British spy film and the first in the James Bond film series. The film is based on Ian Fleming's 1953 novel of the same name. In English, its title translates to "Casino Royale". |
-| 37 | [CLAMP](http://twitter.com/search?q=CLAMP) | N/A |
-| 38 | [公用スマホ](http://twitter.com/search?q=%e5%85%ac%e7%94%a8%e3%82%b9%e3%83%9e%e3%83%9b) | N/A |
-| 39 | [チャレンジ失敗](http://twitter.com/search?q=%e3%83%81%e3%83%a3%e3%83%ac%e3%83%b3%e3%82%b8%e5%a4%b1%e6%95%97) | チャレンジ失敗 (Challenge Failure) is a phrase used to describe when someone has attempted something but failed to achieve their goal. In English, it can be translated as "failed challenge". |
-| 40 | [宙組公演](http://twitter.com/search?q=%e5%ae%99%e7%b5%84%e5%85%ac%e6%bc%94) | 宙組公演 is a type of traditional Japanese theater performance. It is a combination of traditional dance, music, and drama. The term literally translates to "celestial group performance". |
-| 41 | [セレブガチャ](http://twitter.com/search?q=%e3%82%bb%e3%83%ac%e3%83%96%e3%82%ac%e3%83%81%e3%83%a3) | N/A |
-| 42 | [ブルラジ](http://twitter.com/search?q=%e3%83%96%e3%83%ab%e3%83%a9%e3%82%b8) | N/A |
-| 43 | [天地鳴動の力](http://twitter.com/search?q=%e5%a4%a9%e5%9c%b0%e9%b3%b4%e5%8b%95%e3%81%ae%e5%8a%9b) | N/A |
-| 44 | [地形変更](http://twitter.com/search?q=%e5%9c%b0%e5%bd%a2%e5%a4%89%e6%9b%b4) | N/A |
-| 45 | [非正規雇用の活用](http://twitter.com/search?q=%e9%9d%9e%e6%ad%a3%e8%a6%8f%e9%9b%87%e7%94%a8%e3%81%ae%e6%b4%bb%e7%94%a8) | N/A |
-| 46 | [カオスルーラー](http://twitter.com/search?q=%e3%82%ab%e3%82%aa%e3%82%b9%e3%83%ab%e3%83%bc%e3%83%a9%e3%83%bc) | N/A |
-| 47 | [ウルショ](http://twitter.com/search?q=%e3%82%a6%e3%83%ab%e3%82%b7%e3%83%a7) | N/A |
-| 48 | [もちの6曲](http://twitter.com/search?q=%e3%82%82%e3%81%a1%e3%81%ae6%e6%9b%b2) | N/A |
-| 49 | [事前ダウンロード](http://twitter.com/search?q=%e4%ba%8b%e5%89%8d%e3%83%80%e3%82%a6%e3%83%b3%e3%83%ad%e3%83%bc%e3%83%89) | N/A |
-| 50 | [ジャック強化](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%83%83%e3%82%af%e5%bc%b7%e5%8c%96) | N/A |
+| 15 | [詫び狂気](http://twitter.com/search?q=%e8%a9%ab%e3%81%b3%e7%8b%82%e6%b0%97) | N/A |
+| 16 | [リンバス](http://twitter.com/search?q=%e3%83%aa%e3%83%b3%e3%83%90%e3%82%b9) | N/A |
+| 17 | [TikTok禁止](http://twitter.com/search?q=TikTok%e7%a6%81%e6%ad%a2) | N/A |
+| 18 | [#ポケモンゲームサウンドライブラリー](http://twitter.com/search?q=%23%e3%83%9d%e3%82%b1%e3%83%a2%e3%83%b3%e3%82%b2%e3%83%bc%e3%83%a0%e3%82%b5%e3%82%a6%e3%83%b3%e3%83%89%e3%83%a9%e3%82%a4%e3%83%96%e3%83%a9%e3%83%aa%e3%83%bc) | N/A |
+| 19 | [パレード](http://twitter.com/search?q=%e3%83%91%e3%83%ac%e3%83%bc%e3%83%89) | パレード (Pareedo) is a Japanese word meaning "parade". It is used to refer to a procession of people or vehicles, usually accompanied by music, that moves along a street or other public area. It can also refer to a festive event featuring marching bands, floats, and other entertainment. |
+| 20 | [ジャックストラク](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%83%83%e3%82%af%e3%82%b9%e3%83%88%e3%83%a9%e3%82%af) | N/A |
+| 21 | [ポケモンBGM](http://twitter.com/search?q=%e3%83%9d%e3%82%b1%e3%83%a2%e3%83%b3BGM) | N/A |
+| 22 | [チャレンジ成功](http://twitter.com/search?q=%e3%83%81%e3%83%a3%e3%83%ac%e3%83%b3%e3%82%b8%e6%88%90%e5%8a%9f) | チャレンジ成功 is a Japanese phrase that translates to "challenge success" in English. It is used to express the feeling of accomplishment after successfully completing a challenge or task. |
+| 23 | [TSUKASAクッション](http://twitter.com/search?q=TSUKASA%e3%82%af%e3%83%83%e3%82%b7%e3%83%a7%e3%83%b3) | N/A |
+| 24 | [ロシア解体](http://twitter.com/search?q=%e3%83%ad%e3%82%b7%e3%82%a2%e8%a7%a3%e4%bd%93) | N/A |
+| 25 | [冬弥バナー](http://twitter.com/search?q=%e5%86%ac%e5%bc%a5%e3%83%90%e3%83%8a%e3%83%bc) | N/A |
+| 26 | [#THETRAD](http://twitter.com/search?q=%23THETRAD) | #THETRAD is an acronym for “The Trade”, which is a term used to refer to the stock market. It is used by traders and investors to refer to the buying and selling of stocks, bonds, commodities, and other financial instruments. |
+| 27 | [ゴシックワンピ](http://twitter.com/search?q=%e3%82%b4%e3%82%b7%e3%83%83%e3%82%af%e3%83%af%e3%83%b3%e3%83%94) | N/A |
+| 28 | [無糖ミルクティー](http://twitter.com/search?q=%e7%84%a1%e7%b3%96%e3%83%9f%e3%83%ab%e3%82%af%e3%83%86%e3%82%a3%e3%83%bc) | N/A |
+| 29 | [冬弥くん](http://twitter.com/search?q=%e5%86%ac%e5%bc%a5%e3%81%8f%e3%82%93) | N/A |
+| 30 | [公用端末](http://twitter.com/search?q=%e5%85%ac%e7%94%a8%e7%ab%af%e6%9c%ab) | N/A |
+| 31 | [クイボ弱体化](http://twitter.com/search?q=%e3%82%af%e3%82%a4%e3%83%9c%e5%bc%b1%e4%bd%93%e5%8c%96) | N/A |
+| 32 | [ビビミク](http://twitter.com/search?q=%e3%83%93%e3%83%93%e3%83%9f%e3%82%af) | N/A |
+| 33 | [キャンディス](http://twitter.com/search?q=%e3%82%ad%e3%83%a3%e3%83%b3%e3%83%87%e3%82%a3%e3%82%b9) | N/A |
+| 34 | [リラード](http://twitter.com/search?q=%e3%83%aa%e3%83%a9%e3%83%bc%e3%83%89) | N/A |
+| 35 | [新特級職](http://twitter.com/search?q=%e6%96%b0%e7%89%b9%e7%b4%9a%e8%81%b7) | N/A |
+| 36 | [王者の鼓動](http://twitter.com/search?q=%e7%8e%8b%e8%80%85%e3%81%ae%e9%bc%93%e5%8b%95) | N/A |
+| 37 | [和田岬線の103系](http://twitter.com/search?q=%e5%92%8c%e7%94%b0%e5%b2%ac%e7%b7%9a%e3%81%ae103%e7%b3%bb) | N/A |
+| 38 | [ブルラジ](http://twitter.com/search?q=%e3%83%96%e3%83%ab%e3%83%a9%e3%82%b8) | N/A |
+| 39 | [ポケモンデー](http://twitter.com/search?q=%e3%83%9d%e3%82%b1%e3%83%a2%e3%83%b3%e3%83%87%e3%83%bc) | N/A |
+| 40 | [法子ちゃん](http://twitter.com/search?q=%e6%b3%95%e5%ad%90%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 41 | [バーバラ](http://twitter.com/search?q=%e3%83%90%e3%83%bc%e3%83%90%e3%83%a9) | N/A |
+| 42 | [THE SECOND](http://twitter.com/search?q=THE+SECOND) | N/A |
+| 43 | [松本パルコ](http://twitter.com/search?q=%e6%9d%be%e6%9c%ac%e3%83%91%e3%83%ab%e3%82%b3) | N/A |
+| 44 | [大阪高裁](http://twitter.com/search?q=%e5%a4%a7%e9%98%aa%e9%ab%98%e8%a3%81) | N/A |
+| 45 | [咲希ちゃん](http://twitter.com/search?q=%e5%92%b2%e5%b8%8c%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 46 | [コミュニティカップ](http://twitter.com/search?q=%e3%82%b3%e3%83%9f%e3%83%a5%e3%83%8b%e3%83%86%e3%82%a3%e3%82%ab%e3%83%83%e3%83%97) | N/A |
+| 47 | [もちの6曲](http://twitter.com/search?q=%e3%82%82%e3%81%a1%e3%81%ae6%e6%9b%b2) | N/A |
+| 48 | [カオスルーラー](http://twitter.com/search?q=%e3%82%ab%e3%82%aa%e3%82%b9%e3%83%ab%e3%83%bc%e3%83%a9%e3%83%bc) | N/A |
+| 49 | [ビビKAITO](http://twitter.com/search?q=%e3%83%93%e3%83%93KAITO) | N/A |
+| 50 | [打ち切り](http://twitter.com/search?q=%e6%89%93%e3%81%a1%e5%88%87%e3%82%8a) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ufa
 
-📆 Last Updated: `2023-02-27 06:16:58 UTC`
+📆 Last Updated: `2023-02-27 07:16:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,7 +18,7 @@ This is top 50 for [Russia](</Russia>)
 | 1 | [#маска](http://twitter.com/search?q=%23%d0%bc%d0%b0%d1%81%d0%ba%d0%b0) | N/A |
 | 2 | [#aptoss](http://twitter.com/search?q=%23aptoss) | N/A |
 | 3 | [Слушай](http://twitter.com/search?q=%d0%a1%d0%bb%d1%83%d1%88%d0%b0%d0%b9) | N/A |
-| 4 | [берлине](http://twitter.com/search?q=%d0%b1%d0%b5%d1%80%d0%bb%d0%b8%d0%bd%d0%b5) | N/A |
+| 4 | [Берлине](http://twitter.com/search?q=%d0%91%d0%b5%d1%80%d0%bb%d0%b8%d0%bd%d0%b5) | N/A |
 | 5 | [РФ-СМИ](http://twitter.com/search?q=%d0%a0%d0%a4-%d0%a1%d0%9c%d0%98) | N/A |
 | 6 | [чемпионат россии](http://twitter.com/search?q=%d1%87%d0%b5%d0%bc%d0%bf%d0%b8%d0%be%d0%bd%d0%b0%d1%82+%d1%80%d0%be%d1%81%d1%81%d0%b8%d0%b8) | N/A |
 | 7 | [Тбилиси](http://twitter.com/search?q=%d0%a2%d0%b1%d0%b8%d0%bb%d0%b8%d1%81%d0%b8) | N/A |
@@ -28,43 +28,43 @@ This is top 50 for [Russia](</Russia>)
 | 11 | [Масленицы](http://twitter.com/search?q=%d0%9c%d0%b0%d1%81%d0%bb%d0%b5%d0%bd%d0%b8%d1%86%d1%8b) | N/A |
 | 12 | [Короче](http://twitter.com/search?q=%d0%9a%d0%be%d1%80%d0%be%d1%87%d0%b5) | N/A |
 | 13 | [Кайф](http://twitter.com/search?q=%d0%9a%d0%b0%d0%b9%d1%84) | N/A |
-| 14 | [арсения](http://twitter.com/search?q=%d0%b0%d1%80%d1%81%d0%b5%d0%bd%d0%b8%d1%8f) | N/A |
-| 15 | [Точно](http://twitter.com/search?q=%d0%a2%d0%be%d1%87%d0%bd%d0%be) | N/A |
-| 16 | [шойгу](http://twitter.com/search?q=%d1%88%d0%be%d0%b9%d0%b3%d1%83) | N/A |
-| 17 | [Украины](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d1%8b) | N/A |
-| 18 | [Хорошая](http://twitter.com/search?q=%d0%a5%d0%be%d1%80%d0%be%d1%88%d0%b0%d1%8f) | N/A |
-| 19 | [кошмар](http://twitter.com/search?q=%d0%ba%d0%be%d1%88%d0%bc%d0%b0%d1%80) | N/A |
-| 20 | [зеленского](http://twitter.com/search?q=%d0%b7%d0%b5%d0%bb%d0%b5%d0%bd%d1%81%d0%ba%d0%be%d0%b3%d0%be) | N/A |
-| 21 | [первая](http://twitter.com/search?q=%d0%bf%d0%b5%d1%80%d0%b2%d0%b0%d1%8f) | N/A |
-| 22 | [Кстати](http://twitter.com/search?q=%d0%9a%d1%81%d1%82%d0%b0%d1%82%d0%b8) | N/A |
-| 23 | [окей](http://twitter.com/search?q=%d0%be%d0%ba%d0%b5%d0%b9) | N/A |
-| 24 | [#GalxeID](http://twitter.com/search?q=%23GalxeID) | N/A |
-| 25 | [игорь](http://twitter.com/search?q=%d0%b8%d0%b3%d0%be%d1%80%d1%8c) | N/A |
-| 26 | [Labs](http://twitter.com/search?q=Labs) | N/A |
-| 27 | [Класс](http://twitter.com/search?q=%d0%9a%d0%bb%d0%b0%d1%81%d1%81) | N/A |
-| 28 | [Твиттер](http://twitter.com/search?q=%d0%a2%d0%b2%d0%b8%d1%82%d1%82%d0%b5%d1%80) | N/A |
-| 29 | [Хочется](http://twitter.com/search?q=%d0%a5%d0%be%d1%87%d0%b5%d1%82%d1%81%d1%8f) | N/A |
-| 30 | [антона](http://twitter.com/search?q=%d0%b0%d0%bd%d1%82%d0%be%d0%bd%d0%b0) | N/A |
-| 31 | [чувствую](http://twitter.com/search?q=%d1%87%d1%83%d0%b2%d1%81%d1%82%d0%b2%d1%83%d1%8e) | N/A |
+| 14 | [Точно](http://twitter.com/search?q=%d0%a2%d0%be%d1%87%d0%bd%d0%be) | N/A |
+| 15 | [шойгу](http://twitter.com/search?q=%d1%88%d0%be%d0%b9%d0%b3%d1%83) | N/A |
+| 16 | [Украины](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d1%8b) | N/A |
+| 17 | [кошмар](http://twitter.com/search?q=%d0%ba%d0%be%d1%88%d0%bc%d0%b0%d1%80) | N/A |
+| 18 | [Зеленского](http://twitter.com/search?q=%d0%97%d0%b5%d0%bb%d0%b5%d0%bd%d1%81%d0%ba%d0%be%d0%b3%d0%be) | N/A |
+| 19 | [Окей](http://twitter.com/search?q=%d0%9e%d0%ba%d0%b5%d0%b9) | N/A |
+| 20 | [Хорошая](http://twitter.com/search?q=%d0%a5%d0%be%d1%80%d0%be%d1%88%d0%b0%d1%8f) | N/A |
+| 21 | [#GalxeID](http://twitter.com/search?q=%23GalxeID) | N/A |
+| 22 | [игорь](http://twitter.com/search?q=%d0%b8%d0%b3%d0%be%d1%80%d1%8c) | N/A |
+| 23 | [Labs](http://twitter.com/search?q=Labs) | N/A |
+| 24 | [Класс](http://twitter.com/search?q=%d0%9a%d0%bb%d0%b0%d1%81%d1%81) | N/A |
+| 25 | [Твиттер](http://twitter.com/search?q=%d0%a2%d0%b2%d0%b8%d1%82%d1%82%d0%b5%d1%80) | N/A |
+| 26 | [Интересно](http://twitter.com/search?q=%d0%98%d0%bd%d1%82%d0%b5%d1%80%d0%b5%d1%81%d0%bd%d0%be) | N/A |
+| 27 | [Хочется](http://twitter.com/search?q=%d0%a5%d0%be%d1%87%d0%b5%d1%82%d1%81%d1%8f) | N/A |
+| 28 | [антона](http://twitter.com/search?q=%d0%b0%d0%bd%d1%82%d0%be%d0%bd%d0%b0) | N/A |
+| 29 | [Арсений](http://twitter.com/search?q=%d0%90%d1%80%d1%81%d0%b5%d0%bd%d0%b8%d0%b9) | N/A |
+| 30 | [чувствую](http://twitter.com/search?q=%d1%87%d1%83%d0%b2%d1%81%d1%82%d0%b2%d1%83%d1%8e) | N/A |
+| 31 | [Крыма](http://twitter.com/search?q=%d0%9a%d1%80%d1%8b%d0%bc%d0%b0) | N/A |
 | 32 | [Китая](http://twitter.com/search?q=%d0%9a%d0%b8%d1%82%d0%b0%d1%8f) | N/A |
-| 33 | [Крыма](http://twitter.com/search?q=%d0%9a%d1%80%d1%8b%d0%bc%d0%b0) | N/A |
-| 34 | [казани](http://twitter.com/search?q=%d0%ba%d0%b0%d0%b7%d0%b0%d0%bd%d0%b8) | N/A |
-| 35 | [германия](http://twitter.com/search?q=%d0%b3%d0%b5%d1%80%d0%bc%d0%b0%d0%bd%d0%b8%d1%8f) | N/A |
-| 36 | [приднестровье](http://twitter.com/search?q=%d0%bf%d1%80%d0%b8%d0%b4%d0%bd%d0%b5%d1%81%d1%82%d1%80%d0%be%d0%b2%d1%8c%d0%b5) | N/A |
-| 37 | [Украиной](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%be%d0%b9) | N/A |
-| 38 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
-| 39 | [завтра](http://twitter.com/search?q=%d0%b7%d0%b0%d0%b2%d1%82%d1%80%d0%b0) | N/A |
-| 40 | [завидую](http://twitter.com/search?q=%d0%b7%d0%b0%d0%b2%d0%b8%d0%b4%d1%83%d1%8e) | N/A |
+| 33 | [германия](http://twitter.com/search?q=%d0%b3%d0%b5%d1%80%d0%bc%d0%b0%d0%bd%d0%b8%d1%8f) | N/A |
+| 34 | [приднестровье](http://twitter.com/search?q=%d0%bf%d1%80%d0%b8%d0%b4%d0%bd%d0%b5%d1%81%d1%82%d1%80%d0%be%d0%b2%d1%8c%d0%b5) | N/A |
+| 35 | [Украиной](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%be%d0%b9) | N/A |
+| 36 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
+| 37 | [завтра](http://twitter.com/search?q=%d0%b7%d0%b0%d0%b2%d1%82%d1%80%d0%b0) | N/A |
+| 38 | [завидую](http://twitter.com/search?q=%d0%b7%d0%b0%d0%b2%d0%b8%d0%b4%d1%83%d1%8e) | N/A |
+| 39 | [Кстати](http://twitter.com/search?q=%d0%9a%d1%81%d1%82%d0%b0%d1%82%d0%b8) | N/A |
+| 40 | [Возможно](http://twitter.com/search?q=%d0%92%d0%be%d0%b7%d0%bc%d0%be%d0%b6%d0%bd%d0%be) | N/A |
 | 41 | [смотря](http://twitter.com/search?q=%d1%81%d0%bc%d0%be%d1%82%d1%80%d1%8f) | N/A |
 | 42 | [Норм](http://twitter.com/search?q=%d0%9d%d0%be%d1%80%d0%bc) | N/A |
-| 43 | [Видимо](http://twitter.com/search?q=%d0%92%d0%b8%d0%b4%d0%b8%d0%bc%d0%be) | N/A |
-| 44 | [Поздравляю](http://twitter.com/search?q=%d0%9f%d0%be%d0%b7%d0%b4%d1%80%d0%b0%d0%b2%d0%bb%d1%8f%d1%8e) | N/A |
-| 45 | [Issuedd 900](http://twitter.com/search?q=Issuedd+900) | N/A |
+| 43 | [Взаимно](http://twitter.com/search?q=%d0%92%d0%b7%d0%b0%d0%b8%d0%bc%d0%bd%d0%be) | N/A |
+| 44 | [Issuedd 900](http://twitter.com/search?q=Issuedd+900) | N/A |
+| 45 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
 | 46 | [Похоже](http://twitter.com/search?q=%d0%9f%d0%be%d1%85%d0%be%d0%b6%d0%b5) | N/A |
-| 47 | [добро](http://twitter.com/search?q=%d0%b4%d0%be%d0%b1%d1%80%d0%be) | N/A |
-| 48 | [Взаимно](http://twitter.com/search?q=%d0%92%d0%b7%d0%b0%d0%b8%d0%bc%d0%bd%d0%be) | N/A |
-| 49 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 50 | [Красиво](http://twitter.com/search?q=%d0%9a%d1%80%d0%b0%d1%81%d0%b8%d0%b2%d0%be) | N/A |
+| 47 | [Красиво](http://twitter.com/search?q=%d0%9a%d1%80%d0%b0%d1%81%d0%b8%d0%b2%d0%be) | N/A |
+| 48 | [Поэтому](http://twitter.com/search?q=%d0%9f%d0%be%d1%8d%d1%82%d0%be%d0%bc%d1%83) | N/A |
+| 49 | [хватит](http://twitter.com/search?q=%d1%85%d0%b2%d0%b0%d1%82%d0%b8%d1%82) | N/A |
+| 50 | [Russia](http://twitter.com/search?q=Russia) | N/A |
 
 
 

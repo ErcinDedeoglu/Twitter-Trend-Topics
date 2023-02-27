@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-02-27 06:17:14 UTC`
+📆 Last Updated: `2023-02-27 07:16:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Guatemala
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 2 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 3 | [Almería](http://twitter.com/search?q=Almer%c3%ada) | Almería is a city in the southeastern region of Spain. It is the capital of the province of Almería and is located on the Mediterranean Sea. In English, Almería means "The Watchtower". |
-| 4 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 2 | [Almería](http://twitter.com/search?q=Almer%c3%ada) | Almería is a city in the southeastern region of Spain. It is the capital of the province of Almería and is located on the Mediterranean Sea. In English, Almería means "The Watchtower". |
+| 3 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 4 | [Ronaldinho](http://twitter.com/search?q=Ronaldinho) | N/A |
 | 5 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
-| 6 | [Ronaldinho](http://twitter.com/search?q=Ronaldinho) | N/A |
-| 7 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
-| 8 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 9 | [Eric](http://twitter.com/search?q=Eric) | Eric is a masculine given name of Old Norse origin, derived from the Old Norse name Eiríkr. It is related to the Latin name Ericus, which is derived from the Latin word for "ever-ruler". In English, Eric means "eternal ruler" or "ever-powerful". |
-| 10 | [El Progreso](http://twitter.com/search?q=El+Progreso) | N/A |
-| 11 | [#SemanaSantaGT](http://twitter.com/search?q=%23SemanaSantaGT) | N/A |
-| 12 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 13 | [PABLO TORRE](http://twitter.com/search?q=PABLO+TORRE) | N/A |
-| 14 | [#KingsLeague](http://twitter.com/search?q=%23KingsLeague) | N/A |
-| 15 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 16 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
-| 17 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 18 | [#JHOPE](http://twitter.com/search?q=%23JHOPE) | N/A |
-| 19 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 20 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
-| 21 | [Comunicaciones](http://twitter.com/search?q=Comunicaciones) | N/A |
-| 22 | [#LaPremierEnParamount](http://twitter.com/search?q=%23LaPremierEnParamount) | N/A |
-| 23 | [Mazariegos](http://twitter.com/search?q=Mazariegos) | N/A |
-| 24 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
-| 25 | [Primer Domingo de Cuaresma](http://twitter.com/search?q=Primer+Domingo+de+Cuaresma) | N/A |
-| 26 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
-| 27 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
-| 28 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 29 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
+| 6 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
+| 7 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 8 | [Eric](http://twitter.com/search?q=Eric) | Eric is a masculine given name of Old Norse origin, derived from the Old Norse name Eiríkr. It is related to the Latin name Ericus, which is derived from the Latin word for "ever-ruler". In English, Eric means "eternal ruler" or "ever-powerful". |
+| 9 | [#SemanaSantaGT](http://twitter.com/search?q=%23SemanaSantaGT) | N/A |
+| 10 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 11 | [PABLO TORRE](http://twitter.com/search?q=PABLO+TORRE) | N/A |
+| 12 | [#KingsLeague](http://twitter.com/search?q=%23KingsLeague) | N/A |
+| 13 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 14 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
+| 15 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 16 | [we love you jhope](http://twitter.com/search?q=we+love+you+jhope) | N/A |
+| 17 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 18 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
+| 19 | [Comunicaciones](http://twitter.com/search?q=Comunicaciones) | N/A |
+| 20 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
+| 21 | [#LaPremierEnParamount](http://twitter.com/search?q=%23LaPremierEnParamount) | N/A |
+| 22 | [Mazariegos](http://twitter.com/search?q=Mazariegos) | N/A |
+| 23 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 24 | [primer domingo de cuaresma](http://twitter.com/search?q=primer+domingo+de+cuaresma) | N/A |
+| 25 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
+| 26 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
+| 27 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 28 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
+| 29 | [#SAGAwards](http://twitter.com/search?q=%23SAGAwards) | N/A |
 | 30 | [Estados Unidos](http://twitter.com/search?q=Estados+Unidos) | Estados Unidos is the Spanish name for the United States of America. It literally translates to "United States" in English. |
-| 31 | [UNESCO](http://twitter.com/search?q=UNESCO) | N/A |
-| 32 | [Barreto](http://twitter.com/search?q=Barreto) | N/A |
-| 33 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 34 | [Cremas](http://twitter.com/search?q=Cremas) | N/A |
-| 35 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 36 | [USAC](http://twitter.com/search?q=USAC) | N/A |
-| 37 | [Jesús del Consuelo](http://twitter.com/search?q=Jes%c3%bas+del+Consuelo) | N/A |
-| 38 | [Iztapa](http://twitter.com/search?q=Iztapa) | N/A |
-| 39 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 40 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 41 | [El Barça](http://twitter.com/search?q=El+Bar%c3%a7a) | N/A |
-| 42 | [Jordi Alba](http://twitter.com/search?q=Jordi+Alba) | Jordi Alba is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a left back, but can also operate as a left winger. In English, his name translates to George White. |
-| 43 | [Archila](http://twitter.com/search?q=Archila) | N/A |
-| 44 | [Willy](http://twitter.com/search?q=Willy) | N/A |
-| 45 | [Santa María](http://twitter.com/search?q=Santa+Mar%c3%ada) | N/A |
-| 46 | [Aldo Dávila](http://twitter.com/search?q=Aldo+D%c3%a1vila) | N/A |
-| 47 | [Atlético](http://twitter.com/search?q=Atl%c3%a9tico) | Atlético is a Spanish word that means "athletic" or "energetic". It is often used to describe someone who is competitive, determined, and passionate. |
-| 48 | [Álvaro](http://twitter.com/search?q=%c3%81lvaro) | N/A |
-| 49 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 50 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 31 | [El Progreso](http://twitter.com/search?q=El+Progreso) | N/A |
+| 32 | [UNESCO](http://twitter.com/search?q=UNESCO) | N/A |
+| 33 | [Barreto](http://twitter.com/search?q=Barreto) | N/A |
+| 34 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 35 | [Cremas](http://twitter.com/search?q=Cremas) | N/A |
+| 36 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 37 | [USAC](http://twitter.com/search?q=USAC) | N/A |
+| 38 | [Jesús del Consuelo](http://twitter.com/search?q=Jes%c3%bas+del+Consuelo) | N/A |
+| 39 | [Iztapa](http://twitter.com/search?q=Iztapa) | N/A |
+| 40 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 41 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 42 | [El Barça](http://twitter.com/search?q=El+Bar%c3%a7a) | N/A |
+| 43 | [Jordi Alba](http://twitter.com/search?q=Jordi+Alba) | Jordi Alba is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a left back, but can also operate as a left winger. In English, his name translates to George White. |
+| 44 | [Archila](http://twitter.com/search?q=Archila) | N/A |
+| 45 | [Willy](http://twitter.com/search?q=Willy) | N/A |
+| 46 | [Santa María](http://twitter.com/search?q=Santa+Mar%c3%ada) | N/A |
+| 47 | [Aldo Dávila](http://twitter.com/search?q=Aldo+D%c3%a1vila) | N/A |
+| 48 | [Atlético](http://twitter.com/search?q=Atl%c3%a9tico) | Atlético is a Spanish word that means "athletic" or "energetic". It is often used to describe someone who is competitive, determined, and passionate. |
+| 49 | [Álvaro](http://twitter.com/search?q=%c3%81lvaro) | N/A |
+| 50 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 
 
 

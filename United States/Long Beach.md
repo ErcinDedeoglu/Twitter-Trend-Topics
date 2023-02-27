@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Long Beach
 
-📆 Last Updated: `2023-02-27 06:17:07 UTC`
+📆 Last Updated: `2023-02-27 07:16:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 2 | [Denver](http://twitter.com/search?q=Denver) | Denver is the capital and most populous city of the U.S. state of Colorado. It is located in the South Platte River Valley on the western edge of the High Plains just east of the Front Range of the Rocky Mountains. The name Denver is derived from an old French term meaning "green valley". |
-| 3 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 4 | [Lamb](http://twitter.com/search?q=Lamb) | Lamb is a young sheep, usually less than one year old. It is also used as a term of endearment for a young child. The word comes from the Old English “lamb”, which means “young sheep”. |
-| 5 | [G-Man](http://twitter.com/search?q=G-Man) | N/A |
-| 6 | [Reggie](http://twitter.com/search?q=Reggie) | N/A |
-| 7 | [Grier](http://twitter.com/search?q=Grier) | N/A |
-| 8 | [Donte](http://twitter.com/search?q=Donte) | Donte is a given name of Italian origin, derived from the Latin name "Donatus". It is a variant of the name "Donato" and can be translated to mean "given" or "gift". |
-| 9 | [Jennifer Coolidge](http://twitter.com/search?q=Jennifer+Coolidge) | Jennifer Coolidge is an American actress and comedian. She is best known for her roles in the films Legally Blonde, American Pie, and Best in Show. She has also appeared in television shows such as Friends, Seinfeld, and 2 Broke Girls. |
-| 10 | [Timberwolves](http://twitter.com/search?q=Timberwolves) | Timberwolves is a nickname for the Minnesota Timberwolves, a professional basketball team based in Minneapolis, Minnesota. The name was chosen to reflect the state's rich history of logging and timber production. |
-| 11 | [Timo](http://twitter.com/search?q=Timo) | N/A |
-| 12 | [Clips](http://twitter.com/search?q=Clips) | N/A |
-| 13 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
-| 14 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
-| 15 | [Aubrey](http://twitter.com/search?q=Aubrey) | N/A |
-| 16 | [Sharks](http://twitter.com/search?q=Sharks) | N/A |
-| 17 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
-| 18 | [Kerr](http://twitter.com/search?q=Kerr) | N/A |
-| 19 | [Fury](http://twitter.com/search?q=Fury) | N/A |
-| 20 | [Devils](http://twitter.com/search?q=Devils) | N/A |
-| 21 | [jenna](http://twitter.com/search?q=jenna) | Jenna is a female given name of Arabic origin, meaning “heaven” or “paradise”. |
-| 22 | [Stephanie](http://twitter.com/search?q=Stephanie) | N/A |
-| 23 | [Dubs](http://twitter.com/search?q=Dubs) | N/A |
-| 24 | [#SacramentoProud](http://twitter.com/search?q=%23SacramentoProud) | N/A |
-| 25 | [#PokemonGO](http://twitter.com/search?q=%23PokemonGO) | N/A |
-| 26 | [Vando](http://twitter.com/search?q=Vando) | N/A |
-| 27 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
-| 28 | [Vanderbilt](http://twitter.com/search?q=Vanderbilt) | N/A |
-| 29 | [Wayne](http://twitter.com/search?q=Wayne) | Wayne is a masculine given name in English, derived from an Old English surname meaning "wagon maker" or "wagon driver". It is also used as a surname. |
-| 30 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
-| 31 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 32 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
-| 33 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 34 | [Ty Lue](http://twitter.com/search?q=Ty+Lue) | Ty Lue is the name of an American basketball coach and former player. He is currently the head coach of the Los Angeles Clippers of the National Basketball Association (NBA). The name "Ty Lue" is derived from his given name, Tyronn. |
-| 35 | [Paul George](http://twitter.com/search?q=Paul+George) | Paul George is an American professional basketball player who currently plays for the Los Angeles Clippers of the National Basketball Association (NBA). He is a six-time NBA All-Star and four-time All-NBA Team selection. The phrase "Paul George" is used to refer to the basketball player himself. |
-| 36 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 37 | [#TLOU](http://twitter.com/search?q=%23TLOU) | #TLOU is an acronym for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is a post-apocalyptic action-adventure survival horror game set in the United States. The game follows the story of Joel and Ellie as they traverse a post-apocalyptic world filled with hostile humans and cannibalistic creatures known as the Infected. |
-| 38 | [Morris](http://twitter.com/search?q=Morris) | N/A |
-| 39 | [Eric Gordon](http://twitter.com/search?q=Eric+Gordon) | N/A |
-| 40 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
-| 41 | [Rockets](http://twitter.com/search?q=Rockets) | Rockets are a type of spacecraft used for space exploration and travel. They are powered by engines that use fuel to generate thrust, allowing them to move through the air or outer space. Rockets are used to launch satellites, transport people and cargo into space, and even explore other planets. The word "rocket" comes from the Latin word "rockete," which means "to shoot." |
-| 42 | [Jeannot](http://twitter.com/search?q=Jeannot) | N/A |
-| 43 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
-| 44 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
-| 45 | [James Hong](http://twitter.com/search?q=James+Hong) | N/A |
-| 46 | [Robyn](http://twitter.com/search?q=Robyn) | Robyn is a female given name of English origin, derived from the Old Germanic name Hrodebert, meaning "bright fame". It is also a variant spelling of the name Robin. |
-| 47 | [Nuggets](http://twitter.com/search?q=Nuggets) | Nuggets is a term used to refer to small, bite-sized pieces of food, usually made from chicken or other meats. Nuggets are typically deep-fried and served with a dipping sauce. The term can also be used to refer to small pieces of information or knowledge that are valuable and useful. |
-| 48 | [Plumlee](http://twitter.com/search?q=Plumlee) | N/A |
-| 49 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
-| 50 | [kevin hart](http://twitter.com/search?q=kevin+hart) | N/A |
+| 2 | [G-Man](http://twitter.com/search?q=G-Man) | N/A |
+| 3 | [Reggie](http://twitter.com/search?q=Reggie) | N/A |
+| 4 | [#DubNation](http://twitter.com/search?q=%23DubNation) | #DubNation is a term used to refer to the fan base of the Golden State Warriors, a professional basketball team based in Oakland, California. The term is derived from the team's nickname, the "Warriors," and is used to show support for the team and its players. |
+| 5 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 6 | [Grier](http://twitter.com/search?q=Grier) | N/A |
+| 7 | [Donte](http://twitter.com/search?q=Donte) | Donte is a given name of Italian origin, derived from the Latin name "Donatus". It is a variant of the name "Donato" and can be translated to mean "given" or "gift". |
+| 8 | [Clips](http://twitter.com/search?q=Clips) | N/A |
+| 9 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
+| 10 | [Jennifer Coolidge](http://twitter.com/search?q=Jennifer+Coolidge) | Jennifer Coolidge is an American actress and comedian. She is best known for her roles in the films Legally Blonde, American Pie, and Best in Show. She has also appeared in television shows such as Friends, Seinfeld, and 2 Broke Girls. |
+| 11 | [Meier](http://twitter.com/search?q=Meier) | N/A |
+| 12 | [Lamb](http://twitter.com/search?q=Lamb) | Lamb is a young sheep, usually less than one year old. It is also used as a term of endearment for a young child. The word comes from the Old English “lamb”, which means “young sheep”. |
+| 13 | [Sharks](http://twitter.com/search?q=Sharks) | N/A |
+| 14 | [Fauci](http://twitter.com/search?q=Fauci) | N/A |
+| 15 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
+| 16 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
+| 17 | [Kerr](http://twitter.com/search?q=Kerr) | N/A |
+| 18 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
+| 19 | [jenna](http://twitter.com/search?q=jenna) | Jenna is a female given name of Arabic origin, meaning “heaven” or “paradise”. |
+| 20 | [#PokemonGO](http://twitter.com/search?q=%23PokemonGO) | N/A |
+| 21 | [Vando](http://twitter.com/search?q=Vando) | N/A |
+| 22 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
+| 23 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
+| 24 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 25 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
+| 26 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 27 | [Ty Lue](http://twitter.com/search?q=Ty+Lue) | Ty Lue is the name of an American basketball coach and former player. He is currently the head coach of the Los Angeles Clippers of the National Basketball Association (NBA). The name "Ty Lue" is derived from his given name, Tyronn. |
+| 28 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 29 | [Paul George](http://twitter.com/search?q=Paul+George) | Paul George is an American professional basketball player who currently plays for the Los Angeles Clippers of the National Basketball Association (NBA). He is a six-time NBA All-Star and four-time All-NBA Team selection. The phrase "Paul George" is used to refer to the basketball player himself. |
+| 30 | [Morris](http://twitter.com/search?q=Morris) | N/A |
+| 31 | [#TLOU](http://twitter.com/search?q=%23TLOU) | #TLOU is an acronym for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is a post-apocalyptic action-adventure survival horror game set in the United States. The game follows the story of Joel and Ellie as they traverse a post-apocalyptic world filled with hostile humans and cannibalistic creatures known as the Infected. |
+| 32 | [Eric Gordon](http://twitter.com/search?q=Eric+Gordon) | N/A |
+| 33 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
+| 34 | [Rockets](http://twitter.com/search?q=Rockets) | Rockets are a type of spacecraft used for space exploration and travel. They are powered by engines that use fuel to generate thrust, allowing them to move through the air or outer space. Rockets are used to launch satellites, transport people and cargo into space, and even explore other planets. The word "rocket" comes from the Latin word "rockete," which means "to shoot." |
+| 35 | [kevin hart](http://twitter.com/search?q=kevin+hart) | N/A |
+| 36 | [Jeannot](http://twitter.com/search?q=Jeannot) | N/A |
+| 37 | [Nuggets](http://twitter.com/search?q=Nuggets) | Nuggets is a term used to refer to small, bite-sized pieces of food, usually made from chicken or other meats. Nuggets are typically deep-fried and served with a dipping sauce. The term can also be used to refer to small pieces of information or knowledge that are valuable and useful. |
+| 38 | [James Hong](http://twitter.com/search?q=James+Hong) | N/A |
+| 39 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 40 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
+| 41 | [Plumlee](http://twitter.com/search?q=Plumlee) | N/A |
+| 42 | [Robyn](http://twitter.com/search?q=Robyn) | Robyn is a female given name of English origin, derived from the Old Germanic name Hrodebert, meaning "bright fame". It is also a variant spelling of the name Robin. |
+| 43 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
+| 44 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
+| 45 | [Batum](http://twitter.com/search?q=Batum) | Batum is a city in Georgia, located on the coast of the Black Sea. It is the capital of the Autonomous Republic of Adjara and the largest city in the region. In English, Batum means "port" or "harbor". |
+| 46 | [Wilt](http://twitter.com/search?q=Wilt) | N/A |
+| 47 | [4th and OT](http://twitter.com/search?q=4th+and+OT) | N/A |
+| 48 | [TEA-TEB](http://twitter.com/search?q=TEA-TEB) | N/A |
+| 49 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
+| 50 | [Blazers](http://twitter.com/search?q=Blazers) | Blazers are a type of jacket, typically with a single row of buttons and a notched lapel. They are usually made from wool or cotton and can be worn as part of a suit or as a separate item. Blazers are often associated with formal occasions, but they can also be worn casually. |
 
 
 

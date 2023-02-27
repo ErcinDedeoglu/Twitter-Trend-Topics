@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ankara
 
-📆 Last Updated: `2023-02-27 06:17:02 UTC`
+📆 Last Updated: `2023-02-27 07:16:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Kızılay](http://twitter.com/search?q=K%c4%b1z%c4%b1lay) | Kızılay is the Turkish Red Crescent, a humanitarian organization that provides aid and assistance to those in need. The name Kızılay comes from the Ottoman Empire era, when it was known as the Imperial Ottoman Society of the Red Crescent. In English, Kızılay translates to "Red Crescent". |
-| 2 | [Kızılay](http://twitter.com/search?q=K%c4%b1z%c4%b1lay) | Kızılay is the Turkish Red Crescent, a humanitarian organization that provides aid and assistance to those in need. The name Kızılay comes from the Ottoman Empire era, when it was known as the Imperial Ottoman Society of the Red Crescent. In English, Kızılay translates to "Red Crescent". |
-| 3 | [Beşiktaş](http://twitter.com/search?q=Be%c5%9fikta%c5%9f) | Beşiktaş is a Turkish sports club based in Istanbul, Turkey. The name Beşiktaş translates to "cradle stone" in English. The club is best known for its football team, which competes in the Turkish Super League and is one of the most successful clubs in Turkey. |
-| 4 | [Beşiktaş](http://twitter.com/search?q=Be%c5%9fikta%c5%9f) | Beşiktaş is a Turkish sports club based in Istanbul, Turkey. The name Beşiktaş translates to "cradle stone" in English. The club is best known for its football team, which competes in the Turkish Super League and is one of the most successful clubs in Turkey. |
-| 5 | [#pazartesi](http://twitter.com/search?q=%23pazartesi) | #Pazartesi is a Turkish word meaning "Monday". |
-| 6 | [#çöküşdönemi](http://twitter.com/search?q=%23%c3%a7%c3%b6k%c3%bc%c5%9fd%c3%b6nemi) | N/A |
-| 7 | [#BJKvANT](http://twitter.com/search?q=%23BJKvANT) | N/A |
-| 8 | [#RecepTayyipErdogan](http://twitter.com/search?q=%23RecepTayyipErdogan) | N/A |
-| 9 | [Ahbap](http://twitter.com/search?q=Ahbap) | N/A |
-| 10 | [PARALI KÖPEKLER](http://twitter.com/search?q=PARALI+K%c3%96PEKLER) | N/A |
-| 11 | [Kayserispor](http://twitter.com/search?q=Kayserispor) | N/A |
-| 12 | [Paralı](http://twitter.com/search?q=Paral%c4%b1) | N/A |
-| 13 | [Çarşı](http://twitter.com/search?q=%c3%87ar%c5%9f%c4%b1) | N/A |
-| 14 | [Bir Galatasaraylı](http://twitter.com/search?q=Bir+Galatasarayl%c4%b1) | N/A |
-| 15 | [Pervin Buldan](http://twitter.com/search?q=Pervin+Buldan) | N/A |
-| 16 | [aslıhanın terbiyesizliği](http://twitter.com/search?q=asl%c4%b1han%c4%b1n+terbiyesizli%c4%9fi) | N/A |
-| 17 | [Zillet](http://twitter.com/search?q=Zillet) | N/A |
-| 18 | [BİR BAŞKADIR BENİM MEMLEKETİM](http://twitter.com/search?q=B%c4%b0R+BA%c5%9eKADIR+BEN%c4%b0M+MEMLEKET%c4%b0M) | N/A |
-| 19 | [Konyaspor](http://twitter.com/search?q=Konyaspor) | N/A |
-| 20 | [Çocuklar Hep Gülsün](http://twitter.com/search?q=%c3%87ocuklar+Hep+G%c3%bcls%c3%bcn) | N/A |
-| 21 | [BilirOBeni ElSed](http://twitter.com/search?q=BilirOBeni+ElSed) | N/A |
-| 22 | [engin aksoy](http://twitter.com/search?q=engin+aksoy) | N/A |
-| 23 | [Aleyküm](http://twitter.com/search?q=Aleyk%c3%bcm) | N/A |
-| 24 | [elbistanil olsun](http://twitter.com/search?q=elbistanil+olsun) | N/A |
-| 25 | [Ziya Şengül](http://twitter.com/search?q=Ziya+%c5%9eeng%c3%bcl) | N/A |
-| 26 | [Futbol](http://twitter.com/search?q=Futbol) | N/A |
-| 27 | [elbistan şehir olsun](http://twitter.com/search?q=elbistan+%c5%9fehir+olsun) | N/A |
-| 28 | [İT ÜRÜR KERVAN YÜRÜR](http://twitter.com/search?q=%c4%b0T+%c3%9cR%c3%9cR+KERVAN+Y%c3%9cR%c3%9cR) | N/A |
-| 29 | [Taraftar](http://twitter.com/search?q=Taraftar) | N/A |
-| 30 | [Anıtkabir](http://twitter.com/search?q=An%c4%b1tkabir) | Anıtkabir is the mausoleum of Mustafa Kemal Atatürk, the founder and first president of the Republic of Turkey. The word Anıtkabir translates to "memorial tomb" in English. |
-| 31 | [Türkiye İşçi Partisi](http://twitter.com/search?q=T%c3%bcrkiye+%c4%b0%c5%9f%c3%a7i+Partisi) | N/A |
-| 32 | [Mehmet Demirkol](http://twitter.com/search?q=Mehmet+Demirkol) | N/A |
-| 33 | [Aziz Yıldırım](http://twitter.com/search?q=Aziz+Y%c4%b1ld%c4%b1r%c4%b1m) | Aziz Yıldırım is a Turkish name, with Aziz meaning "honored" and Yıldırım meaning "thunder". In English, the name would translate to "Honored Thunder". |
-| 34 | [Hodri](http://twitter.com/search?q=Hodri) | N/A |
-| 35 | [Cenk](http://twitter.com/search?q=Cenk) | Cenk is a Turkish name derived from the word "genç" which means "youthful". It is also used as a nickname for people named Cengiz, meaning "strong one". |
-| 36 | [Camide](http://twitter.com/search?q=Camide) | N/A |
-| 37 | [Ali Koç](http://twitter.com/search?q=Ali+Ko%c3%a7) | Ali Koç is a Turkish surname. It is derived from the Turkish word "koç" which means "ram". In English, Ali Koç would translate to "Ali the Ram". |
-| 38 | [Güntekin](http://twitter.com/search?q=G%c3%bcntekin) | Güntekin is a Turkish name derived from the words "gün" (meaning "day") and "tekin" (meaning "strong"). It can be translated to mean "strong day" or "day of strength". |
-| 39 | [Adıyaman Gölbaşı](http://twitter.com/search?q=Ad%c4%b1yaman+G%c3%b6lba%c5%9f%c4%b1) | N/A |
-| 40 | [Gezi](http://twitter.com/search?q=Gezi) | N/A |
-| 41 | [Bismillah](http://twitter.com/search?q=Bismillah) | N/A |
-| 42 | [Tribünler](http://twitter.com/search?q=Trib%c3%bcnler) | N/A |
-| 43 | [Şenol Güneş](http://twitter.com/search?q=%c5%9eenol+G%c3%bcne%c5%9f) | Şenol Güneş is a Turkish football manager and former player. He is currently the manager of the Turkish national team. In English, his name translates to "Joyful Sun". |
-| 44 | [Siyaset](http://twitter.com/search?q=Siyaset) | N/A |
-| 45 | [Barış Atay](http://twitter.com/search?q=Bar%c4%b1%c5%9f+Atay) | N/A |
-| 46 | [Polis](http://twitter.com/search?q=Polis) | N/A |
-| 47 | [Rizespor](http://twitter.com/search?q=Rizespor) | N/A |
-| 48 | [Soylu](http://twitter.com/search?q=Soylu) | N/A |
-| 49 | [Savunan Adam](http://twitter.com/search?q=Savunan+Adam) | N/A |
+| 1 | [#pazartesi](http://twitter.com/search?q=%23pazartesi) | #Pazartesi is a Turkish word meaning "Monday". |
+| 2 | [#çöküşdönemi](http://twitter.com/search?q=%23%c3%a7%c3%b6k%c3%bc%c5%9fd%c3%b6nemi) | N/A |
+| 3 | [#NecmettinErbakan](http://twitter.com/search?q=%23NecmettinErbakan) | N/A |
+| 4 | [#İstifaEdiyorum](http://twitter.com/search?q=%23%c4%b0stifaEdiyorum) | N/A |
+| 5 | [Günaydınlar](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nlar) | N/A |
+| 6 | [Vefatının 12](http://twitter.com/search?q=Vefat%c4%b1n%c4%b1n+12) | N/A |
+| 7 | [Foseptik](http://twitter.com/search?q=Foseptik) | N/A |
+| 8 | [Türkiye İşçi Partisi](http://twitter.com/search?q=T%c3%bcrkiye+%c4%b0%c5%9f%c3%a7i+Partisi) | N/A |
+| 9 | [Hodri](http://twitter.com/search?q=Hodri) | N/A |
+| 10 | [Rizespor](http://twitter.com/search?q=Rizespor) | N/A |
+| 11 | [Güntekin](http://twitter.com/search?q=G%c3%bcntekin) | Güntekin is a Turkish name derived from the words "gün" (meaning "day") and "tekin" (meaning "strong"). It can be translated to mean "strong day" or "day of strength". |
+| 12 | [Bahçeli Beşiktaş](http://twitter.com/search?q=Bah%c3%a7eli+Be%c5%9fikta%c5%9f) | N/A |
+| 13 | [Barış Atay](http://twitter.com/search?q=Bar%c4%b1%c5%9f+Atay) | N/A |
+| 14 | [Rojbaş](http://twitter.com/search?q=Rojba%c5%9f) | N/A |
+| 15 | [Pervin](http://twitter.com/search?q=Pervin) | N/A |
+| 16 | [Polis](http://twitter.com/search?q=Polis) | N/A |
+| 17 | [Ruhları](http://twitter.com/search?q=Ruhlar%c4%b1) | N/A |
+| 18 | [Camilerde](http://twitter.com/search?q=Camilerde) | N/A |
+| 19 | [Camide](http://twitter.com/search?q=Camide) | N/A |
+| 20 | [Demokratik](http://twitter.com/search?q=Demokratik) | N/A |
+| 21 | [Tehdit](http://twitter.com/search?q=Tehdit) | N/A |
+| 22 | [Anayasal](http://twitter.com/search?q=Anayasal) | N/A |
+| 23 | [Beşiktaşın](http://twitter.com/search?q=Be%c5%9fikta%c5%9f%c4%b1n) | N/A |
+| 24 | [Tribünler](http://twitter.com/search?q=Trib%c3%bcnler) | N/A |
+| 25 | [Tribünde](http://twitter.com/search?q=Trib%c3%bcnde) | N/A |
+| 26 | [Gezi](http://twitter.com/search?q=Gezi) | N/A |
+| 27 | [Armağan](http://twitter.com/search?q=Arma%c4%9fan) | N/A |
+| 28 | [Devletle](http://twitter.com/search?q=Devletle) | N/A |
+| 29 | [Beşiktaşlılar](http://twitter.com/search?q=Be%c5%9fikta%c5%9fl%c4%b1lar) | N/A |
+| 30 | [15 Temmuz](http://twitter.com/search?q=15+Temmuz) | N/A |
+| 31 | [Siyaseti](http://twitter.com/search?q=Siyaseti) | N/A |
+| 32 | [Seçime](http://twitter.com/search?q=Se%c3%a7ime) | N/A |
+| 33 | [#GerçekŞuKi](http://twitter.com/search?q=%23Ger%c3%a7ek%c5%9euKi) | N/A |
+| 34 | [#DenizGezmiş](http://twitter.com/search?q=%23DenizGezmi%c5%9f) | N/A |
+| 35 | [#hukumetistifa](http://twitter.com/search?q=%23hukumetistifa) | N/A |
+| 36 | [#iyihaftalar](http://twitter.com/search?q=%23iyihaftalar) | N/A |
+| 37 | [#HayırlıHaftalar](http://twitter.com/search?q=%23Hay%c4%b1rl%c4%b1Haftalar) | N/A |
+| 38 | [#StajyerUnutmayacak](http://twitter.com/search?q=%23StajyerUnutmayacak) | N/A |
+| 39 | [#Korkmuyoruz](http://twitter.com/search?q=%23Korkmuyoruz) | N/A |
+| 40 | [#gunaydin](http://twitter.com/search?q=%23gunaydin) | N/A |
+| 41 | [#SikayetvarSoygunu](http://twitter.com/search?q=%23SikayetvarSoygunu) | N/A |
+| 42 | [#13marttayuzyuze](http://twitter.com/search?q=%2313marttayuzyuze) | N/A |
+| 43 | [#sabahnamazı](http://twitter.com/search?q=%23sabahnamaz%c4%b1) | N/A |
+| 44 | [#DevletiminYanındayım](http://twitter.com/search?q=%23DevletiminYan%c4%b1nday%c4%b1m) | N/A |
+| 45 | [#Protesto](http://twitter.com/search?q=%23Protesto) | N/A |
+| 46 | [#VodafoneİPTAL](http://twitter.com/search?q=%23Vodafone%c4%b0PTAL) | N/A |
+| 47 | [#Kızılayİstifa](http://twitter.com/search?q=%23K%c4%b1z%c4%b1lay%c4%b0stifa) | N/A |
+| 48 | [#DevletBahceli](http://twitter.com/search?q=%23DevletBahceli) | N/A |
+| 49 | [#KızılaydanUtanıyorum](http://twitter.com/search?q=%23K%c4%b1z%c4%b1laydanUtan%c4%b1yorum) | N/A |
 
 
 
