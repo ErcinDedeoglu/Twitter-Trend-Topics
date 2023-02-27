@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Davao City
 
-📆 Last Updated: `2023-02-27 07:16:13 UTC`
+📆 Last Updated: `2023-02-27 08:17:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,50 +18,50 @@ This is top 50 for [Philippines](</Philippines>)
 | 1 | [#테니생일_축하축하_하네요](http://twitter.com/search?q=%23%ed%85%8c%eb%8b%88%ec%83%9d%ec%9d%bc_%ec%b6%95%ed%95%98%ec%b6%95%ed%95%98_%ed%95%98%eb%84%a4%ec%9a%94) | N/A |
 | 2 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
 | 3 | [#PARKJINYOUNGinMNL2023](http://twitter.com/search?q=%23PARKJINYOUNGinMNL2023) | N/A |
-| 4 | [#ShineBrightKitTENDay](http://twitter.com/search?q=%23ShineBrightKitTENDay) | N/A |
-| 5 | [Liza](http://twitter.com/search?q=Liza) | N/A |
-| 6 | [8 ML Heroes](http://twitter.com/search?q=8+ML+Heroes) | N/A |
-| 7 | [#AKNPAccusations](http://twitter.com/search?q=%23AKNPAccusations) | N/A |
-| 8 | [WILDTONIGHT ON AOS](http://twitter.com/search?q=WILDTONIGHT+ON+AOS) | N/A |
-| 9 | [2yeon](http://twitter.com/search?q=2yeon) | N/A |
+| 4 | [8 ML Heroes](http://twitter.com/search?q=8+ML+Heroes) | N/A |
+| 5 | [#ShineBrightKitTENDay](http://twitter.com/search?q=%23ShineBrightKitTENDay) | N/A |
+| 6 | [Liza](http://twitter.com/search?q=Liza) | N/A |
+| 7 | [wildtonight on aos](http://twitter.com/search?q=wildtonight+on+aos) | N/A |
+| 8 | [#ShowtimeEsKWELAhan](http://twitter.com/search?q=%23ShowtimeEsKWELAhan) | N/A |
+| 9 | [all out josh cullen](http://twitter.com/search?q=all+out+josh+cullen) | N/A |
 | 10 | [TENLEE 27th BDAY](http://twitter.com/search?q=TENLEE+27th+BDAY) | N/A |
-| 11 | [all out josh cullen](http://twitter.com/search?q=all+out+josh+cullen) | N/A |
-| 12 | [2seok](http://twitter.com/search?q=2seok) | N/A |
-| 13 | [Ilhoon](http://twitter.com/search?q=Ilhoon) | N/A |
+| 11 | [2yeon](http://twitter.com/search?q=2yeon) | N/A |
+| 12 | [VIBRENT PIELuvarn](http://twitter.com/search?q=VIBRENT+PIELuvarn) | N/A |
+| 13 | [JENO CONGRATS ON MFW](http://twitter.com/search?q=JENO+CONGRATS+ON+MFW) | N/A |
 | 14 | [Canino](http://twitter.com/search?q=Canino) | N/A |
-| 15 | [Smart](http://twitter.com/search?q=Smart) | N/A |
-| 16 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
-| 17 | [KAI Rover Teaser Image 1](http://twitter.com/search?q=KAI+Rover+Teaser+Image+1) | N/A |
-| 18 | [go uste](http://twitter.com/search?q=go+uste) | N/A |
-| 19 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
-| 20 | [HAPPY 23RD BDAY ALEXA](http://twitter.com/search?q=HAPPY+23RD+BDAY+ALEXA) | N/A |
-| 21 | [Lillard](http://twitter.com/search?q=Lillard) | N/A |
-| 22 | [Kim Taehyung](http://twitter.com/search?q=Kim+Taehyung) | Kim Taehyung is the stage name of South Korean singer, songwriter, and actor V (Kim Tae-hyung). His name means "to fly" in Korean. |
-| 23 | [READY TO BE THRILLED](http://twitter.com/search?q=READY+TO+BE+THRILLED) | N/A |
-| 24 | [Ty Lue](http://twitter.com/search?q=Ty+Lue) | Ty Lue is the name of an American basketball coach and former player. He is currently the head coach of the Los Angeles Clippers of the National Basketball Association (NBA). The name "Ty Lue" is derived from his given name, Tyronn. |
-| 25 | [kdlex tumindig at umibig](http://twitter.com/search?q=kdlex+tumindig+at+umibig) | N/A |
+| 15 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
+| 16 | [Smart](http://twitter.com/search?q=Smart) | N/A |
+| 17 | [Mandaue City](http://twitter.com/search?q=Mandaue+City) | N/A |
+| 18 | [KAI Rover Teaser Image 1](http://twitter.com/search?q=KAI+Rover+Teaser+Image+1) | N/A |
+| 19 | [go uste](http://twitter.com/search?q=go+uste) | N/A |
+| 20 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
+| 21 | [HAPPY 23RD BDAY ALEXA](http://twitter.com/search?q=HAPPY+23RD+BDAY+ALEXA) | N/A |
+| 22 | [Lillard](http://twitter.com/search?q=Lillard) | N/A |
+| 23 | [Kim Taehyung](http://twitter.com/search?q=Kim+Taehyung) | Kim Taehyung is the stage name of South Korean singer, songwriter, and actor V (Kim Tae-hyung). His name means "to fly" in Korean. |
+| 24 | [READY TO BE THRILLED](http://twitter.com/search?q=READY+TO+BE+THRILLED) | N/A |
+| 25 | [Ty Lue](http://twitter.com/search?q=Ty+Lue) | Ty Lue is the name of an American basketball coach and former player. He is currently the head coach of the Los Angeles Clippers of the National Basketball Association (NBA). The name "Ty Lue" is derived from his given name, Tyronn. |
 | 26 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 27 | [Makati City](http://twitter.com/search?q=Makati+City) | N/A |
-| 28 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 29 | [jhope](http://twitter.com/search?q=jhope) | N/A |
-| 30 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 31 | [luckybeauty tiktokliveselling](http://twitter.com/search?q=luckybeauty+tiktokliveselling) | N/A |
-| 32 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
-| 33 | [HUH YUNJIN FOR WAKEMAKE](http://twitter.com/search?q=HUH+YUNJIN+FOR+WAKEMAKE) | N/A |
-| 34 | [TogHEEther for a THOUSAND DAYS](http://twitter.com/search?q=TogHEEther+for+a+THOUSAND+DAYS) | N/A |
-| 35 | [Happy HOONthousand Days](http://twitter.com/search?q=Happy+HOONthousand+Days) | N/A |
-| 36 | [Makati LGU](http://twitter.com/search?q=Makati+LGU) | N/A |
-| 37 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
-| 38 | [MY PARENTS](http://twitter.com/search?q=MY+PARENTS) | N/A |
-| 39 | [Chanyeol](http://twitter.com/search?q=Chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
-| 40 | [Jeff](http://twitter.com/search?q=Jeff) | N/A |
-| 41 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 42 | [iwantasap wewantralphgail](http://twitter.com/search?q=iwantasap+wewantralphgail) | N/A |
-| 43 | [anji onasap bestoffeb](http://twitter.com/search?q=anji+onasap+bestoffeb) | N/A |
-| 44 | [iwant alpha boys](http://twitter.com/search?q=iwant+alpha+boys) | N/A |
-| 45 | [La Salle](http://twitter.com/search?q=La+Salle) | N/A |
-| 46 | [zachamxrobxine eplfinale](http://twitter.com/search?q=zachamxrobxine+eplfinale) | N/A |
-| 47 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
+| 27 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 28 | [jhope](http://twitter.com/search?q=jhope) | N/A |
+| 29 | [luckybeauty tiktokliveselling](http://twitter.com/search?q=luckybeauty+tiktokliveselling) | N/A |
+| 30 | [Makati LGU](http://twitter.com/search?q=Makati+LGU) | N/A |
+| 31 | [Happy HOONthousand Days](http://twitter.com/search?q=Happy+HOONthousand+Days) | N/A |
+| 32 | [Dame Time](http://twitter.com/search?q=Dame+Time) | N/A |
+| 33 | [TogHEEther for a THOUSAND DAYS](http://twitter.com/search?q=TogHEEther+for+a+THOUSAND+DAYS) | N/A |
+| 34 | [2seok](http://twitter.com/search?q=2seok) | N/A |
+| 35 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
+| 36 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 37 | [iwant alpha boys](http://twitter.com/search?q=iwant+alpha+boys) | N/A |
+| 38 | [zachamxrobxine eplfinale](http://twitter.com/search?q=zachamxrobxine+eplfinale) | N/A |
+| 39 | [Jeff](http://twitter.com/search?q=Jeff) | N/A |
+| 40 | [Ilhoon](http://twitter.com/search?q=Ilhoon) | N/A |
+| 41 | [La Salle](http://twitter.com/search?q=La+Salle) | N/A |
+| 42 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
+| 43 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
+| 44 | [Jaeyong](http://twitter.com/search?q=Jaeyong) | N/A |
+| 45 | [on the street](http://twitter.com/search?q=on+the+street) | N/A |
+| 46 | [MY PARENTS](http://twitter.com/search?q=MY+PARENTS) | N/A |
+| 47 | [Top 8](http://twitter.com/search?q=Top+8) | N/A |
 
 
 

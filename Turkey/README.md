@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Turkey
 
-📆 Last Updated: `2023-02-27 07:16:41 UTC`
+📆 Last Updated: `2023-02-27 08:17:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Turkey
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#pazartesi](http://twitter.com/search?q=%23pazartesi) | #Pazartesi is a Turkish word meaning "Monday". |
-| 2 | [#çöküşdönemi](http://twitter.com/search?q=%23%c3%a7%c3%b6k%c3%bc%c5%9fd%c3%b6nemi) | N/A |
-| 3 | [#NecmettinErbakan](http://twitter.com/search?q=%23NecmettinErbakan) | N/A |
-| 4 | [#İstifaEdiyorum](http://twitter.com/search?q=%23%c4%b0stifaEdiyorum) | N/A |
-| 5 | [#GerçekŞuKi](http://twitter.com/search?q=%23Ger%c3%a7ek%c5%9euKi) | N/A |
-| 6 | [Günaydınlar](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nlar) | N/A |
+| 1 | [#MaziMatic](http://twitter.com/search?q=%23MaziMatic) | N/A |
+| 2 | [#pazartesi](http://twitter.com/search?q=%23pazartesi) | #Pazartesi is a Turkish word meaning "Monday". |
+| 3 | [#çöküşdönemi](http://twitter.com/search?q=%23%c3%a7%c3%b6k%c3%bc%c5%9fd%c3%b6nemi) | N/A |
+| 4 | [#GerçekŞuKi](http://twitter.com/search?q=%23Ger%c3%a7ek%c5%9euKi) | N/A |
+| 5 | [#NecmettinErbakan](http://twitter.com/search?q=%23NecmettinErbakan) | N/A |
+| 6 | [Pervin Buldan](http://twitter.com/search?q=Pervin+Buldan) | N/A |
 | 7 | [Vefatının 12](http://twitter.com/search?q=Vefat%c4%b1n%c4%b1n+12) | N/A |
-| 8 | [Foseptik](http://twitter.com/search?q=Foseptik) | N/A |
-| 9 | [Türkiye İşçi Partisi](http://twitter.com/search?q=T%c3%bcrkiye+%c4%b0%c5%9f%c3%a7i+Partisi) | N/A |
-| 10 | [Hodri](http://twitter.com/search?q=Hodri) | N/A |
-| 11 | [Rizespor](http://twitter.com/search?q=Rizespor) | N/A |
-| 12 | [Güntekin](http://twitter.com/search?q=G%c3%bcntekin) | Güntekin is a Turkish name derived from the words "gün" (meaning "day") and "tekin" (meaning "strong"). It can be translated to mean "strong day" or "day of strength". |
-| 13 | [Bahçeli Beşiktaş](http://twitter.com/search?q=Bah%c3%a7eli+Be%c5%9fikta%c5%9f) | N/A |
-| 14 | [Barış Atay](http://twitter.com/search?q=Bar%c4%b1%c5%9f+Atay) | N/A |
-| 15 | [Elimi](http://twitter.com/search?q=Elimi) | N/A |
-| 16 | [Rojbaş](http://twitter.com/search?q=Rojba%c5%9f) | N/A |
-| 17 | [Pervin](http://twitter.com/search?q=Pervin) | N/A |
-| 18 | [Polis](http://twitter.com/search?q=Polis) | N/A |
-| 19 | [Camide](http://twitter.com/search?q=Camide) | N/A |
-| 20 | [Ruhları](http://twitter.com/search?q=Ruhlar%c4%b1) | N/A |
-| 21 | [Camilerde](http://twitter.com/search?q=Camilerde) | N/A |
-| 22 | [Demokratik](http://twitter.com/search?q=Demokratik) | N/A |
-| 23 | [Anayasal](http://twitter.com/search?q=Anayasal) | N/A |
-| 24 | [Tehdit](http://twitter.com/search?q=Tehdit) | N/A |
-| 25 | [Beşiktaşın](http://twitter.com/search?q=Be%c5%9fikta%c5%9f%c4%b1n) | N/A |
-| 26 | [Tribünler](http://twitter.com/search?q=Trib%c3%bcnler) | N/A |
-| 27 | [Tribünde](http://twitter.com/search?q=Trib%c3%bcnde) | N/A |
-| 28 | [Gezi](http://twitter.com/search?q=Gezi) | N/A |
-| 29 | [Armağan](http://twitter.com/search?q=Arma%c4%9fan) | N/A |
-| 30 | [Devletle](http://twitter.com/search?q=Devletle) | N/A |
-| 31 | [Beşiktaşlılar](http://twitter.com/search?q=Be%c5%9fikta%c5%9fl%c4%b1lar) | N/A |
-| 32 | [15 Temmuz](http://twitter.com/search?q=15+Temmuz) | N/A |
-| 33 | [Siyaseti](http://twitter.com/search?q=Siyaseti) | N/A |
-| 34 | [Seçime](http://twitter.com/search?q=Se%c3%a7ime) | N/A |
-| 35 | [#DenizGezmiş](http://twitter.com/search?q=%23DenizGezmi%c5%9f) | N/A |
-| 36 | [#hukumetistifa](http://twitter.com/search?q=%23hukumetistifa) | N/A |
-| 37 | [#iyihaftalar](http://twitter.com/search?q=%23iyihaftalar) | N/A |
-| 38 | [#HayırlıHaftalar](http://twitter.com/search?q=%23Hay%c4%b1rl%c4%b1Haftalar) | N/A |
-| 39 | [#StajyerUnutmayacak](http://twitter.com/search?q=%23StajyerUnutmayacak) | N/A |
-| 40 | [#Korkmuyoruz](http://twitter.com/search?q=%23Korkmuyoruz) | N/A |
-| 41 | [#gunaydin](http://twitter.com/search?q=%23gunaydin) | N/A |
-| 42 | [#SikayetvarSoygunu](http://twitter.com/search?q=%23SikayetvarSoygunu) | N/A |
-| 43 | [#sabahnamazı](http://twitter.com/search?q=%23sabahnamaz%c4%b1) | N/A |
-| 44 | [#13marttayuzyuze](http://twitter.com/search?q=%2313marttayuzyuze) | N/A |
-| 45 | [#Protesto](http://twitter.com/search?q=%23Protesto) | N/A |
-| 46 | [#VodafoneİPTAL](http://twitter.com/search?q=%23Vodafone%c4%b0PTAL) | N/A |
-| 47 | [#DevletiminYanındayım](http://twitter.com/search?q=%23DevletiminYan%c4%b1nday%c4%b1m) | N/A |
-| 48 | [#Kızılayİstifa](http://twitter.com/search?q=%23K%c4%b1z%c4%b1lay%c4%b0stifa) | N/A |
-| 49 | [#DevletBahceli](http://twitter.com/search?q=%23DevletBahceli) | N/A |
-| 50 | [#KızılaydanUtanıyorum](http://twitter.com/search?q=%23K%c4%b1z%c4%b1laydanUtan%c4%b1yorum) | N/A |
+| 8 | [Günaydınlar](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nlar) | N/A |
+| 9 | [Rize](http://twitter.com/search?q=Rize) | N/A |
+| 10 | [Foseptik](http://twitter.com/search?q=Foseptik) | N/A |
+| 11 | [Hükümet](http://twitter.com/search?q=H%c3%bck%c3%bcmet) | N/A |
+| 12 | [Türkiye İşçi Partisi](http://twitter.com/search?q=T%c3%bcrkiye+%c4%b0%c5%9f%c3%a7i+Partisi) | N/A |
+| 13 | [Suriye'nin İdlib](http://twitter.com/search?q=Suriye%27nin+%c4%b0dlib) | N/A |
+| 14 | [Hodri](http://twitter.com/search?q=Hodri) | N/A |
+| 15 | [Milli Görüş](http://twitter.com/search?q=Milli+G%c3%b6r%c3%bc%c5%9f) | N/A |
+| 16 | [Kızılay'dan](http://twitter.com/search?q=K%c4%b1z%c4%b1lay%27dan) | N/A |
+| 17 | [İlker](http://twitter.com/search?q=%c4%b0lker) | N/A |
+| 18 | [GÜNAYDIN](http://twitter.com/search?q=G%c3%9cNAYDIN) | N/A |
+| 19 | [Barış](http://twitter.com/search?q=Bar%c4%b1%c5%9f) | N/A |
+| 20 | [27 Şubat](http://twitter.com/search?q=27+%c5%9eubat) | N/A |
+| 21 | [Savunan Adam](http://twitter.com/search?q=Savunan+Adam) | N/A |
+| 22 | [Günaydınnn](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nnn) | N/A |
+| 23 | [Rojbaş](http://twitter.com/search?q=Rojba%c5%9f) | N/A |
+| 24 | [Güntekin](http://twitter.com/search?q=G%c3%bcntekin) | Güntekin is a Turkish name derived from the words "gün" (meaning "day") and "tekin" (meaning "strong"). It can be translated to mean "strong day" or "day of strength". |
+| 25 | [Bahçeli Beşiktaş](http://twitter.com/search?q=Bah%c3%a7eli+Be%c5%9fikta%c5%9f) | N/A |
+| 26 | [Elimi](http://twitter.com/search?q=Elimi) | N/A |
+| 27 | [Devletimin](http://twitter.com/search?q=Devletimin) | N/A |
+| 28 | [Ruhları](http://twitter.com/search?q=Ruhlar%c4%b1) | N/A |
+| 29 | [Demokratik](http://twitter.com/search?q=Demokratik) | N/A |
+| 30 | [Protesto](http://twitter.com/search?q=Protesto) | N/A |
+| 31 | [Tehdit](http://twitter.com/search?q=Tehdit) | N/A |
+| 32 | [Camide](http://twitter.com/search?q=Camide) | N/A |
+| 33 | [Anayasal](http://twitter.com/search?q=Anayasal) | N/A |
+| 34 | [Polis](http://twitter.com/search?q=Polis) | N/A |
+| 35 | [Tribünde](http://twitter.com/search?q=Trib%c3%bcnde) | N/A |
+| 36 | [Çadırı](http://twitter.com/search?q=%c3%87ad%c4%b1r%c4%b1) | N/A |
+| 37 | [Devletle](http://twitter.com/search?q=Devletle) | N/A |
+| 38 | [Tribünler](http://twitter.com/search?q=Trib%c3%bcnler) | N/A |
+| 39 | [Gezi](http://twitter.com/search?q=Gezi) | N/A |
+| 40 | [Beşiktaşın](http://twitter.com/search?q=Be%c5%9fikta%c5%9f%c4%b1n) | N/A |
+| 41 | [15 Temmuz](http://twitter.com/search?q=15+Temmuz) | N/A |
+| 42 | [Camilerde](http://twitter.com/search?q=Camilerde) | N/A |
+| 43 | [Alanya](http://twitter.com/search?q=Alanya) | Alanya is a city and resort on the southern coast of Turkey. It is located in the province of Antalya and is a popular tourist destination. The name Alanya comes from the Arabic word for "peninsula" or "island". In English, it can be translated to mean "Island of the Sun". |
+| 44 | [Siyaseti](http://twitter.com/search?q=Siyaseti) | N/A |
+| 45 | [Armağan](http://twitter.com/search?q=Arma%c4%9fan) | N/A |
+| 46 | [Seçime](http://twitter.com/search?q=Se%c3%a7ime) | N/A |
+| 47 | [#EYTyeTastamamAdalet](http://twitter.com/search?q=%23EYTyeTastamamAdalet) | N/A |
+| 48 | [#EmadAdaletİstiyor](http://twitter.com/search?q=%23EmadAdalet%c4%b0stiyor) | N/A |
+| 49 | [#FOXHaber](http://twitter.com/search?q=%23FOXHaber) | N/A |
+| 50 | [#EYTYarınBitiyor](http://twitter.com/search?q=%23EYTYar%c4%b1nBitiyor) | N/A |
 
 
 

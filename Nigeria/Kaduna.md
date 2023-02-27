@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kaduna
 
-📆 Last Updated: `2023-02-27 07:16:14 UTC`
+📆 Last Updated: `2023-02-27 08:17:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Nigeria](</Nigeria>)
 | 1 | [INEC](http://twitter.com/search?q=INEC) | N/A |
 | 2 | [#ElectionResult](http://twitter.com/search?q=%23ElectionResult) | N/A |
 | 3 | [#protest](http://twitter.com/search?q=%23protest) | N/A |
-| 4 | [#presidentialelection2023](http://twitter.com/search?q=%23presidentialelection2023) | N/A |
-| 5 | [Ekiti](http://twitter.com/search?q=Ekiti) | N/A |
+| 4 | [Ekiti](http://twitter.com/search?q=Ekiti) | N/A |
+| 5 | [#presidentialelection2023](http://twitter.com/search?q=%23presidentialelection2023) | N/A |
 | 6 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 7 | [BVAS](http://twitter.com/search?q=BVAS) | BVAS stands for Behavioral and Vital Signs. It is a term used in the medical field to refer to the physical and mental signs that can be used to assess a patient's health. These signs include heart rate, blood pressure, temperature, respiration rate, and other indicators of physical and mental health. |
-| 8 | [#CarabaoCupFinal](http://twitter.com/search?q=%23CarabaoCupFinal) | N/A |
-| 9 | [#MUNNEW](http://twitter.com/search?q=%23MUNNEW) | N/A |
-| 10 | [Banky](http://twitter.com/search?q=Banky) | N/A |
-| 11 | [North](http://twitter.com/search?q=North) | N/A |
-| 12 | [Yoruba](http://twitter.com/search?q=Yoruba) | N/A |
-| 13 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 14 | [ZIYECH](http://twitter.com/search?q=ZIYECH) | N/A |
-| 15 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 16 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 17 | [Happy New Week](http://twitter.com/search?q=Happy+New+Week) | Happy New Week is an expression used to express enthusiasm and excitement for the start of a new week. It is often used as a way to encourage someone to have a positive outlook on the upcoming week. |
-| 18 | [Alimosho](http://twitter.com/search?q=Alimosho) | N/A |
-| 19 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
-| 20 | [Rigging](http://twitter.com/search?q=Rigging) | N/A |
-| 21 | [Katsina](http://twitter.com/search?q=Katsina) | N/A |
-| 22 | [PU by PU](http://twitter.com/search?q=PU+by+PU) | N/A |
-| 23 | [Igbos](http://twitter.com/search?q=Igbos) | Igbos is a term used to refer to the Igbo people, an ethnic group native to southeastern Nigeria. The Igbo language is also known as Igboid. In English, the term "Igbos" is used to refer to both the people and their language. |
-| 24 | [Sign the Petition](http://twitter.com/search?q=Sign+the+Petition) | N/A |
-| 25 | [Akwa Ibom](http://twitter.com/search?q=Akwa+Ibom) | N/A |
-| 26 | [Glory Glory Man United](http://twitter.com/search?q=Glory+Glory+Man+United) | N/A |
-| 27 | [Yar'Adua](http://twitter.com/search?q=Yar%27Adua) | N/A |
-| 28 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 29 | [Lawrence](http://twitter.com/search?q=Lawrence) | Lawrence is a masculine given name of English origin. It is derived from the Latin Laurentius, which means "from Laurentum". The name is derived from the Roman city of Laurentum, which was located in Latium near the coast of the Mediterranean Sea. The name Lawrence has been used since at least the 11th century and has been popular in England since the 16th century. |
-| 30 | [Ahmed Lawan](http://twitter.com/search?q=Ahmed+Lawan) | N/A |
-| 31 | [Another 8](http://twitter.com/search?q=Another+8) | N/A |
-| 32 | [KOULIBALY](http://twitter.com/search?q=KOULIBALY) | N/A |
-| 33 | [Glory Glory Manchester United](http://twitter.com/search?q=Glory+Glory+Manchester+United) | N/A |
-| 34 | [Shame](http://twitter.com/search?q=Shame) | N/A |
-| 35 | [Eniola Badmus](http://twitter.com/search?q=Eniola+Badmus) | N/A |
-| 36 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 7 | [Banky](http://twitter.com/search?q=Banky) | N/A |
+| 8 | [BVAS](http://twitter.com/search?q=BVAS) | BVAS stands for Behavioral and Vital Signs. It is a term used in the medical field to refer to the physical and mental signs that can be used to assess a patient's health. These signs include heart rate, blood pressure, temperature, respiration rate, and other indicators of physical and mental health. |
+| 9 | [#CarabaoCupFinal](http://twitter.com/search?q=%23CarabaoCupFinal) | N/A |
+| 10 | [IT IS DONE](http://twitter.com/search?q=IT+IS+DONE) | IT IS DONE is an expression used to indicate that a task or project has been completed. It is often used as a declaration of accomplishment or success. |
+| 11 | [#NSPPD](http://twitter.com/search?q=%23NSPPD) | N/A |
+| 12 | [North](http://twitter.com/search?q=North) | N/A |
+| 13 | [Yoruba](http://twitter.com/search?q=Yoruba) | N/A |
+| 14 | [Happy New Week](http://twitter.com/search?q=Happy+New+Week) | Happy New Week is an expression used to express enthusiasm and excitement for the start of a new week. It is often used as a way to encourage someone to have a positive outlook on the upcoming week. |
+| 15 | [IREV](http://twitter.com/search?q=IREV) | N/A |
+| 16 | [Katsina](http://twitter.com/search?q=Katsina) | N/A |
+| 17 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 18 | [Rigging](http://twitter.com/search?q=Rigging) | N/A |
+| 19 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 20 | [Yar'Adua](http://twitter.com/search?q=Yar%27Adua) | N/A |
+| 21 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 22 | [Igbos](http://twitter.com/search?q=Igbos) | Igbos is a term used to refer to the Igbo people, an ethnic group native to southeastern Nigeria. The Igbo language is also known as Igboid. In English, the term "Igbos" is used to refer to both the people and their language. |
+| 23 | [Alimosho](http://twitter.com/search?q=Alimosho) | N/A |
+| 24 | [Akwa Ibom](http://twitter.com/search?q=Akwa+Ibom) | N/A |
+| 25 | [Eti-Osa](http://twitter.com/search?q=Eti-Osa) | N/A |
+| 26 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
+| 27 | [Sign the Petition](http://twitter.com/search?q=Sign+the+Petition) | N/A |
+| 28 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
+| 29 | [Kano](http://twitter.com/search?q=Kano) | Kano is a Japanese term that means “riverbank” or “shore.” It is often used to refer to the area around a river or lake, and can also be used to describe a place of natural beauty. |
+| 30 | [Attah](http://twitter.com/search?q=Attah) | N/A |
+| 31 | [Glory Glory Man United](http://twitter.com/search?q=Glory+Glory+Man+United) | N/A |
+| 32 | [Sanwo](http://twitter.com/search?q=Sanwo) | N/A |
+| 33 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 34 | [KOULIBALY](http://twitter.com/search?q=KOULIBALY) | N/A |
+| 35 | [Yayi](http://twitter.com/search?q=Yayi) | N/A |
+| 36 | [Ahmed Lawan](http://twitter.com/search?q=Ahmed+Lawan) | N/A |
 | 37 | [Rigged](http://twitter.com/search?q=Rigged) | N/A |
-| 38 | [Gbenga Daniel](http://twitter.com/search?q=Gbenga+Daniel) | N/A |
-| 39 | [Eti-Osa](http://twitter.com/search?q=Eti-Osa) | N/A |
-| 40 | [Mahmood Yakubu Visa](http://twitter.com/search?q=Mahmood+Yakubu+Visa) | N/A |
-| 41 | [Kastina](http://twitter.com/search?q=Kastina) | N/A |
-| 42 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
-| 43 | [Damian Lillard](http://twitter.com/search?q=Damian+Lillard) | Damian Lillard is an American professional basketball player who currently plays for the Portland Trail Blazers of the National Basketball Association (NBA). He is a six-time NBA All-Star and was named the NBA Rookie of the Year in 2013. |
-| 44 | [Intel](http://twitter.com/search?q=Intel) | N/A |
-| 45 | [Marseille](http://twitter.com/search?q=Marseille) | N/A |
-| 46 | [Bauchi LGA](http://twitter.com/search?q=Bauchi+LGA) | N/A |
-| 47 | [Falz](http://twitter.com/search?q=Falz) | N/A |
-| 48 | [Sanwo](http://twitter.com/search?q=Sanwo) | N/A |
-| 49 | [Gombe](http://twitter.com/search?q=Gombe) | N/A |
-| 50 | [Japa](http://twitter.com/search?q=Japa) | N/A |
+| 38 | [Shame](http://twitter.com/search?q=Shame) | N/A |
+| 39 | [Lawrence](http://twitter.com/search?q=Lawrence) | Lawrence is a masculine given name of English origin. It is derived from the Latin Laurentius, which means "from Laurentum". The name is derived from the Roman city of Laurentum, which was located in Latium near the coast of the Mediterranean Sea. The name Lawrence has been used since at least the 11th century and has been popular in England since the 16th century. |
+| 40 | [Obanikoro](http://twitter.com/search?q=Obanikoro) | N/A |
+| 41 | [Gbenga Daniel](http://twitter.com/search?q=Gbenga+Daniel) | N/A |
+| 42 | [Eniola Badmus](http://twitter.com/search?q=Eniola+Badmus) | N/A |
+| 43 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 44 | [Marseille](http://twitter.com/search?q=Marseille) | N/A |
+| 45 | [Kastina](http://twitter.com/search?q=Kastina) | N/A |
+| 46 | [Intel](http://twitter.com/search?q=Intel) | N/A |
+| 47 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
+| 48 | [Ogun](http://twitter.com/search?q=Ogun) | N/A |
+| 49 | [Tony Nwoye](http://twitter.com/search?q=Tony+Nwoye) | N/A |
+| 50 | [Bauchi LGA](http://twitter.com/search?q=Bauchi+LGA) | N/A |
 
 
 

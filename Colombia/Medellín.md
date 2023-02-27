@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Medellín
 
-📆 Last Updated: `2023-02-27 07:15:52 UTC`
+📆 Last Updated: `2023-02-27 08:17:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Colombia](</Colombia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Natalia París](http://twitter.com/search?q=Natalia+Par%c3%ads) | N/A |
-| 2 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 1 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 2 | [Natalia París](http://twitter.com/search?q=Natalia+Par%c3%ads) | N/A |
 | 3 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
-| 4 | [Morelo](http://twitter.com/search?q=Morelo) | N/A |
-| 5 | [Gamero](http://twitter.com/search?q=Gamero) | N/A |
-| 6 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
-| 7 | [Aldair](http://twitter.com/search?q=Aldair) | N/A |
+| 4 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 5 | [Morelo](http://twitter.com/search?q=Morelo) | N/A |
+| 6 | [Gamero](http://twitter.com/search?q=Gamero) | N/A |
+| 7 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
 | 8 | [Arias](http://twitter.com/search?q=Arias) | Arias is a type of vocal solo in opera or oratorio. It is a song for one voice, usually with orchestral accompaniment. The term comes from the Italian word for "air" or "melody". In English, an aria is a song that expresses emotion and is often used to highlight a particular character's feelings. |
-| 9 | [Almería](http://twitter.com/search?q=Almer%c3%ada) | Almería is a city in the southeastern region of Spain. It is the capital of the province of Almería and is located on the Mediterranean Sea. In English, Almería means "The Watchtower". |
+| 9 | [Aldair](http://twitter.com/search?q=Aldair) | N/A |
 | 10 | [Vanegas](http://twitter.com/search?q=Vanegas) | N/A |
 | 11 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
-| 12 | [#SAGAwards](http://twitter.com/search?q=%23SAGAwards) | N/A |
-| 13 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 12 | [Almería](http://twitter.com/search?q=Almer%c3%ada) | Almería is a city in the southeastern region of Spain. It is the capital of the province of Almería and is located on the Mediterranean Sea. In English, Almería means "The Watchtower". |
+| 13 | [#SAGAwards](http://twitter.com/search?q=%23SAGAwards) | N/A |
 | 14 | [Rivera](http://twitter.com/search?q=Rivera) | N/A |
 | 15 | [Poncho Zuleta](http://twitter.com/search?q=Poncho+Zuleta) | N/A |
 | 16 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
 | 17 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 18 | [Yuber](http://twitter.com/search?q=Yuber) | N/A |
-| 19 | [Santa Fe](http://twitter.com/search?q=Santa+Fe) | N/A |
-| 20 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
-| 21 | [#ParadasDeLaRodolfoneta](http://twitter.com/search?q=%23ParadasDeLaRodolfoneta) | N/A |
-| 22 | [#SiPetroFueraMédico](http://twitter.com/search?q=%23SiPetroFueraM%c3%a9dico) | N/A |
-| 23 | [Caldera](http://twitter.com/search?q=Caldera) | N/A |
-| 24 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 25 | [Uribe](http://twitter.com/search?q=Uribe) | N/A |
-| 26 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
-| 27 | [vamos millonarios](http://twitter.com/search?q=vamos+millonarios) | N/A |
-| 28 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 29 | [Def Leppard](http://twitter.com/search?q=Def+Leppard) | N/A |
-| 30 | [Dayro Moreno](http://twitter.com/search?q=Dayro+Moreno) | N/A |
-| 31 | [Boreal](http://twitter.com/search?q=Boreal) | N/A |
-| 32 | [Ramiro Sánchez](http://twitter.com/search?q=Ramiro+S%c3%a1nchez) | N/A |
-| 33 | [Ronaldinho](http://twitter.com/search?q=Ronaldinho) | N/A |
-| 34 | [Indignación](http://twitter.com/search?q=Indignaci%c3%b3n) | N/A |
+| 18 | [yuber](http://twitter.com/search?q=yuber) | N/A |
+| 19 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
+| 20 | [#ParadasDeLaRodolfoneta](http://twitter.com/search?q=%23ParadasDeLaRodolfoneta) | N/A |
+| 21 | [Santa Fe](http://twitter.com/search?q=Santa+Fe) | N/A |
+| 22 | [Uribe](http://twitter.com/search?q=Uribe) | N/A |
+| 23 | [#SiPetroFueraMédico](http://twitter.com/search?q=%23SiPetroFueraM%c3%a9dico) | N/A |
+| 24 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
+| 25 | [vamos millonarios](http://twitter.com/search?q=vamos+millonarios) | N/A |
+| 26 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 27 | [Def Leppard](http://twitter.com/search?q=Def+Leppard) | N/A |
+| 28 | [Dayro Moreno](http://twitter.com/search?q=Dayro+Moreno) | N/A |
+| 29 | [Boreal](http://twitter.com/search?q=Boreal) | N/A |
+| 30 | [Caldera](http://twitter.com/search?q=Caldera) | N/A |
+| 31 | [ramiro sánchez](http://twitter.com/search?q=ramiro+s%c3%a1nchez) | N/A |
+| 32 | [Ronaldinho](http://twitter.com/search?q=Ronaldinho) | N/A |
+| 33 | [Indignación](http://twitter.com/search?q=Indignaci%c3%b3n) | N/A |
+| 34 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 35 | [Marmolejo](http://twitter.com/search?q=Marmolejo) | N/A |
 | 36 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
-| 37 | [Mantilla](http://twitter.com/search?q=Mantilla) | N/A |
-| 38 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
-| 39 | [Estudien](http://twitter.com/search?q=Estudien) | N/A |
-| 40 | [Chayanne](http://twitter.com/search?q=Chayanne) | N/A |
+| 37 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
+| 38 | [Estudien](http://twitter.com/search?q=Estudien) | N/A |
+| 39 | [Chayanne](http://twitter.com/search?q=Chayanne) | N/A |
+| 40 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
 | 41 | [carlos darwin](http://twitter.com/search?q=carlos+darwin) | N/A |
-| 42 | [Marrugo](http://twitter.com/search?q=Marrugo) | Marrugo is a Spanish word that means "to be confused or perplexed". It is often used to describe a feeling of confusion or bewilderment. |
-| 43 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 44 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
-| 45 | [Novoa](http://twitter.com/search?q=Novoa) | N/A |
-| 46 | [Deslealtad](http://twitter.com/search?q=Deslealtad) | N/A |
-| 47 | [Torres](http://twitter.com/search?q=Torres) | N/A |
-| 48 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 49 | [Jader](http://twitter.com/search?q=Jader) | N/A |
-| 50 | [Asprilla](http://twitter.com/search?q=Asprilla) | N/A |
+| 42 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 43 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
+| 44 | [Novoa](http://twitter.com/search?q=Novoa) | N/A |
+| 45 | [Deslealtad](http://twitter.com/search?q=Deslealtad) | N/A |
+| 46 | [marrugo](http://twitter.com/search?q=marrugo) | N/A |
+| 47 | [Mantilla](http://twitter.com/search?q=Mantilla) | N/A |
+| 48 | [Torres](http://twitter.com/search?q=Torres) | N/A |
+| 49 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 50 | [Jader](http://twitter.com/search?q=Jader) | N/A |
 
 
 

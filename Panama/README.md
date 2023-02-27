@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-02-27 07:16:40 UTC`
+📆 Last Updated: `2023-02-27 08:17:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -39,30 +39,30 @@ This is top 50 for Panama
 | 22 | [rommel fernández](http://twitter.com/search?q=rommel+fern%c3%a1ndez) | N/A |
 | 23 | [Portobelo](http://twitter.com/search?q=Portobelo) | N/A |
 | 24 | [coka](http://twitter.com/search?q=coka) | N/A |
-| 25 | [Eric](http://twitter.com/search?q=Eric) | Eric is a masculine given name of Old Norse origin, derived from the Old Norse name Eiríkr. It is related to the Latin name Ericus, which is derived from the Latin word for "ever-ruler". In English, Eric means "eternal ruler" or "ever-powerful". |
-| 26 | [Bundesliga](http://twitter.com/search?q=Bundesliga) | N/A |
-| 27 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
-| 28 | [Gil Manzano](http://twitter.com/search?q=Gil+Manzano) | Gil Manzano is a Spanish surname. In English, it translates to "son of Manuel". |
-| 29 | [Atalaya](http://twitter.com/search?q=Atalaya) | N/A |
-| 30 | [bolota](http://twitter.com/search?q=bolota) | N/A |
-| 31 | [#LaLiga](http://twitter.com/search?q=%23LaLiga) | N/A |
-| 32 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 33 | [Veraguas](http://twitter.com/search?q=Veraguas) | N/A |
-| 34 | [Chorrera](http://twitter.com/search?q=Chorrera) | N/A |
-| 35 | [Dj Black](http://twitter.com/search?q=Dj+Black) | N/A |
-| 36 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
-| 37 | [Santa Ana](http://twitter.com/search?q=Santa+Ana) | N/A |
+| 25 | [Bundesliga](http://twitter.com/search?q=Bundesliga) | N/A |
+| 26 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
+| 27 | [Gil Manzano](http://twitter.com/search?q=Gil+Manzano) | Gil Manzano is a Spanish surname. In English, it translates to "son of Manuel". |
+| 28 | [Atalaya](http://twitter.com/search?q=Atalaya) | N/A |
+| 29 | [bolota](http://twitter.com/search?q=bolota) | N/A |
+| 30 | [#LaLiga](http://twitter.com/search?q=%23LaLiga) | N/A |
+| 31 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 32 | [Veraguas](http://twitter.com/search?q=Veraguas) | N/A |
+| 33 | [chorrera](http://twitter.com/search?q=chorrera) | N/A |
+| 34 | [Dj Black](http://twitter.com/search?q=Dj+Black) | N/A |
+| 35 | [Eric](http://twitter.com/search?q=Eric) | Eric is a masculine given name of Old Norse origin, derived from the Old Norse name Eiríkr. It is related to the Latin name Ericus, which is derived from the Latin word for "ever-ruler". In English, Eric means "eternal ruler" or "ever-powerful". |
+| 36 | [Santa Ana](http://twitter.com/search?q=Santa+Ana) | N/A |
+| 37 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
 | 38 | [hailey](http://twitter.com/search?q=hailey) | N/A |
 | 39 | [Ruben](http://twitter.com/search?q=Ruben) | N/A |
 | 40 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
 | 41 | [#radiopanama](http://twitter.com/search?q=%23radiopanama) | N/A |
 | 42 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
 | 43 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 44 | [Correa](http://twitter.com/search?q=Correa) | Correa is a Spanish surname. It is derived from the Latin word correus, meaning "messenger". In English, it can be translated to mean "messenger" or "courier". |
-| 45 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 46 | [acodeco](http://twitter.com/search?q=acodeco) | N/A |
-| 47 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 48 | [Atleti](http://twitter.com/search?q=Atleti) | Atleti is a nickname for the Spanish football club Atlético Madrid. The name is derived from the Spanish word for athlete, atleta. In English, Atleti can be translated to mean "Athletes". |
+| 44 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 45 | [acodeco](http://twitter.com/search?q=acodeco) | N/A |
+| 46 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 47 | [Atleti](http://twitter.com/search?q=Atleti) | Atleti is a nickname for the Spanish football club Atlético Madrid. The name is derived from the Spanish word for athlete, atleta. In English, Atleti can be translated to mean "Athletes". |
+| 48 | [Correa](http://twitter.com/search?q=Correa) | Correa is a Spanish surname. It is derived from the Latin word correus, meaning "messenger". In English, it can be translated to mean "messenger" or "courier". |
 | 49 | [Mario](http://twitter.com/search?q=Mario) | N/A |
 | 50 | [Union](http://twitter.com/search?q=Union) | N/A |
 
