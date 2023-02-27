@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Orleans
 
-📆 Last Updated: `2023-02-27 17:16:28 UTC`
+📆 Last Updated: `2023-02-27 18:17:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
-| 2 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 3 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 4 | [#RHOP](http://twitter.com/search?q=%23RHOP) | #RHOP stands for The Real Housewives of Potomac, which is a reality television series that airs on the Bravo network. It follows the lives of six women living in Potomac, Maryland, as they navigate their personal and professional lives. |
-| 5 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
-| 6 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
-| 7 | [Walking Wake](http://twitter.com/search?q=Walking+Wake) | N/A |
-| 8 | [kevin hart](http://twitter.com/search?q=kevin+hart) | N/A |
-| 9 | [Maino](http://twitter.com/search?q=Maino) | N/A |
-| 10 | [Virizion](http://twitter.com/search?q=Virizion) | N/A |
-| 11 | [Mystery Dungeon](http://twitter.com/search?q=Mystery+Dungeon) | N/A |
-| 12 | [Bryan Cranston](http://twitter.com/search?q=Bryan+Cranston) | N/A |
-| 13 | [Buckhead](http://twitter.com/search?q=Buckhead) | N/A |
-| 14 | [SV DLC](http://twitter.com/search?q=SV+DLC) | N/A |
-| 15 | [Dominican Independence Day](http://twitter.com/search?q=Dominican+Independence+Day) | N/A |
-| 16 | [Good Monday](http://twitter.com/search?q=Good+Monday) | Good Monday is an expression used to express enthusiasm for the start of a new week. It is typically used as a greeting or salutation when wishing someone a good start to the week. |
-| 17 | [AP Poll](http://twitter.com/search?q=AP+Poll) | The AP Poll (or the Associated Press Poll) is a weekly ranking of the top 25 college football teams in the United States, as determined by a panel of sportswriters and broadcasters. The poll is conducted by the Associated Press (AP), a news agency based in New York City. The rankings are released each Sunday during the college football season, with the exception of the final poll, which is released after the conclusion of the College Football Playoff National Championship. |
-| 18 | [Fauci](http://twitter.com/search?q=Fauci) | N/A |
-| 19 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
-| 20 | [Terapagos](http://twitter.com/search?q=Terapagos) | N/A |
-| 21 | [Momotaro](http://twitter.com/search?q=Momotaro) | N/A |
-| 22 | [David Hogg](http://twitter.com/search?q=David+Hogg) | N/A |
-| 23 | [Joey Votto](http://twitter.com/search?q=Joey+Votto) | N/A |
-| 24 | [Reedy Creek](http://twitter.com/search?q=Reedy+Creek) | N/A |
-| 25 | [The DLC](http://twitter.com/search?q=The+DLC) | N/A |
-| 26 | [CFPB](http://twitter.com/search?q=CFPB) | N/A |
-| 27 | [Kalos](http://twitter.com/search?q=Kalos) | N/A |
-| 28 | [Marc Lasry](http://twitter.com/search?q=Marc+Lasry) | N/A |
-| 29 | [DLCs](http://twitter.com/search?q=DLCs) | N/A |
-| 30 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
+| 1 | [#RizzToken](http://twitter.com/search?q=%23RizzToken) | N/A |
+| 2 | [#GOGimmighoul](http://twitter.com/search?q=%23GOGimmighoul) | N/A |
+| 3 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
+| 4 | [#DeadSpaceMarkerMerchSweeps](http://twitter.com/search?q=%23DeadSpaceMarkerMerchSweeps) | N/A |
+| 5 | [Walking Wake](http://twitter.com/search?q=Walking+Wake) | N/A |
+| 6 | [kevin hart](http://twitter.com/search?q=kevin+hart) | N/A |
+| 7 | [Maino](http://twitter.com/search?q=Maino) | N/A |
+| 8 | [AP Poll](http://twitter.com/search?q=AP+Poll) | The AP Poll (or the Associated Press Poll) is a weekly ranking of the top 25 college football teams in the United States, as determined by a panel of sportswriters and broadcasters. The poll is conducted by the Associated Press (AP), a news agency based in New York City. The rankings are released each Sunday during the college football season, with the exception of the final poll, which is released after the conclusion of the College Football Playoff National Championship. |
+| 9 | [Reedy Creek](http://twitter.com/search?q=Reedy+Creek) | N/A |
+| 10 | [Buckhead](http://twitter.com/search?q=Buckhead) | N/A |
+| 11 | [Bryan Cranston](http://twitter.com/search?q=Bryan+Cranston) | N/A |
+| 12 | [Yellen](http://twitter.com/search?q=Yellen) | N/A |
+| 13 | [Virizion](http://twitter.com/search?q=Virizion) | N/A |
+| 14 | [Joey Votto](http://twitter.com/search?q=Joey+Votto) | N/A |
+| 15 | [David Hogg](http://twitter.com/search?q=David+Hogg) | N/A |
+| 16 | [Dominican Independence Day](http://twitter.com/search?q=Dominican+Independence+Day) | N/A |
+| 17 | [AP Top 25](http://twitter.com/search?q=AP+Top+25) | N/A |
+| 18 | [Mystery Dungeon](http://twitter.com/search?q=Mystery+Dungeon) | N/A |
+| 19 | [Fauci](http://twitter.com/search?q=Fauci) | N/A |
+| 20 | [Joyce Manor](http://twitter.com/search?q=Joyce+Manor) | N/A |
+| 21 | [Terapagos](http://twitter.com/search?q=Terapagos) | N/A |
+| 22 | [Momotaro](http://twitter.com/search?q=Momotaro) | N/A |
+| 23 | [CFPB](http://twitter.com/search?q=CFPB) | N/A |
+| 24 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
+| 25 | [SV DLC](http://twitter.com/search?q=SV+DLC) | N/A |
+| 26 | [Al Gore](http://twitter.com/search?q=Al+Gore) | N/A |
+| 27 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
+| 28 | [NFL Combine](http://twitter.com/search?q=NFL+Combine) | N/A |
+| 29 | [Good Monday](http://twitter.com/search?q=Good+Monday) | Good Monday is an expression used to express enthusiasm for the start of a new week. It is typically used as a greeting or salutation when wishing someone a good start to the week. |
+| 30 | [Slim Jim](http://twitter.com/search?q=Slim+Jim) | N/A |
 | 31 | [Ho-Oh](http://twitter.com/search?q=Ho-Oh) | N/A |
-| 32 | [Master P](http://twitter.com/search?q=Master+P) | N/A |
-| 33 | [Public Schools Week](http://twitter.com/search?q=Public+Schools+Week) | N/A |
-| 34 | [Jimmy Haslam](http://twitter.com/search?q=Jimmy+Haslam) | N/A |
-| 35 | [Zebstrika](http://twitter.com/search?q=Zebstrika) | N/A |
-| 36 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 37 | [Game Freak](http://twitter.com/search?q=Game+Freak) | N/A |
-| 38 | [Area Zero](http://twitter.com/search?q=Area+Zero) | N/A |
-| 39 | [Moselle](http://twitter.com/search?q=Moselle) | N/A |
-| 40 | [Champaign](http://twitter.com/search?q=Champaign) | N/A |
-| 41 | [Slotkin](http://twitter.com/search?q=Slotkin) | N/A |
-| 42 | [Terry Holland](http://twitter.com/search?q=Terry+Holland) | N/A |
-| 43 | [Seonghwa](http://twitter.com/search?q=Seonghwa) | N/A |
-| 44 | [Hisuian Zoroark](http://twitter.com/search?q=Hisuian+Zoroark) | N/A |
-| 45 | [Herbert Jones](http://twitter.com/search?q=Herbert+Jones) | N/A |
-| 46 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
-| 47 | [Temperature of America](http://twitter.com/search?q=Temperature+of+America) | N/A |
-| 48 | [Happy Birthday Chelsea](http://twitter.com/search?q=Happy+Birthday+Chelsea) | N/A |
-| 49 | [Paldea](http://twitter.com/search?q=Paldea) | N/A |
+| 32 | [Slotkin](http://twitter.com/search?q=Slotkin) | N/A |
+| 33 | [Victoria Monet](http://twitter.com/search?q=Victoria+Monet) | N/A |
+| 34 | [Okidogi](http://twitter.com/search?q=Okidogi) | N/A |
+| 35 | [Kalos](http://twitter.com/search?q=Kalos) | N/A |
+| 36 | [DLCs](http://twitter.com/search?q=DLCs) | N/A |
+| 37 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
+| 38 | [Gamefreak](http://twitter.com/search?q=Gamefreak) | N/A |
+| 39 | [Master P](http://twitter.com/search?q=Master+P) | N/A |
+| 40 | [Seonghwa](http://twitter.com/search?q=Seonghwa) | N/A |
+| 41 | [Terry Holland](http://twitter.com/search?q=Terry+Holland) | N/A |
+| 42 | [The DLC](http://twitter.com/search?q=The+DLC) | N/A |
+| 43 | [Zebstrika](http://twitter.com/search?q=Zebstrika) | N/A |
+| 44 | [Yemen](http://twitter.com/search?q=Yemen) | N/A |
+| 45 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 46 | [Temperature of America](http://twitter.com/search?q=Temperature+of+America) | N/A |
+| 47 | [Jimmy Haslam](http://twitter.com/search?q=Jimmy+Haslam) | N/A |
+| 48 | [CrossFit](http://twitter.com/search?q=CrossFit) | N/A |
+| 49 | [Extreme MAGA Republicans](http://twitter.com/search?q=Extreme+MAGA+Republicans) | N/A |
 
 
 

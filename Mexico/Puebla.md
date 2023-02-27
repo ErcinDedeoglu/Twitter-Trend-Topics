@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Puebla
 
-📆 Last Updated: `2023-02-27 17:15:50 UTC`
+📆 Last Updated: `2023-02-27 18:16:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [Mexico](</Mexico>)
 | 3 | [Zócalo](http://twitter.com/search?q=Z%c3%b3calo) | N/A |
 | 4 | [#MiVotoNoSeToca](http://twitter.com/search?q=%23MiVotoNoSeToca) | N/A |
 | 5 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
-| 6 | [#KornoConMordidaDeBurro](http://twitter.com/search?q=%23KornoConMordidaDeBurro) | N/A |
+| 6 | [#PoderosoDeMalas](http://twitter.com/search?q=%23PoderosoDeMalas) | N/A |
 | 7 | [Viva México](http://twitter.com/search?q=Viva+M%c3%a9xico) | N/A |
-| 8 | [Democracia](http://twitter.com/search?q=Democracia) | Democracia is a Spanish word meaning democracy. It is used to refer to a system of government in which the people have the power to choose their leaders through free and fair elections. Democracia is based on the principle of majority rule, with the majority of citizens having a say in how their country is run. |
-| 9 | [Vitacilina](http://twitter.com/search?q=Vitacilina) | N/A |
-| 10 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 11 | [Palacio Nacional](http://twitter.com/search?q=Palacio+Nacional) | N/A |
-| 12 | [Plan B](http://twitter.com/search?q=Plan+B) | N/A |
-| 13 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 14 | [fogel estamos contigo](http://twitter.com/search?q=fogel+estamos+contigo) | N/A |
-| 15 | [Acarreados](http://twitter.com/search?q=Acarreados) | N/A |
-| 16 | [Fuera López](http://twitter.com/search?q=Fuera+L%c3%b3pez) | N/A |
-| 17 | [josé vasconcelos](http://twitter.com/search?q=jos%c3%a9+vasconcelos) | N/A |
-| 18 | [Pop Crave](http://twitter.com/search?q=Pop+Crave) | N/A |
-| 19 | [BLAME IT ON ME](http://twitter.com/search?q=BLAME+IT+ON+ME) | N/A |
-| 20 | [Suicune](http://twitter.com/search?q=Suicune) | N/A |
-| 21 | [Terminal 1](http://twitter.com/search?q=Terminal+1) | N/A |
-| 22 | [Palenque](http://twitter.com/search?q=Palenque) | N/A |
-| 23 | [Nuevo Laredo](http://twitter.com/search?q=Nuevo+Laredo) | N/A |
-| 24 | [Ronaldinho](http://twitter.com/search?q=Ronaldinho) | N/A |
-| 25 | [RACE WEEK](http://twitter.com/search?q=RACE+WEEK) | N/A |
-| 26 | [Farsa](http://twitter.com/search?q=Farsa) | N/A |
-| 27 | [Ana Gabriel](http://twitter.com/search?q=Ana+Gabriel) | N/A |
-| 28 | [DODOS](http://twitter.com/search?q=DODOS) | N/A |
-| 29 | [Ardido](http://twitter.com/search?q=Ardido) | N/A |
-| 30 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 31 | [Batres](http://twitter.com/search?q=Batres) | N/A |
-| 32 | [Puro](http://twitter.com/search?q=Puro) | N/A |
-| 33 | [Almería](http://twitter.com/search?q=Almer%c3%ada) | Almería is a city in the southeastern region of Spain. It is the capital of the province of Almería and is located on the Mediterranean Sea. In English, Almería means "The Watchtower". |
-| 34 | [Beatriz Pagés](http://twitter.com/search?q=Beatriz+Pag%c3%a9s) | N/A |
-| 35 | [Jiménez](http://twitter.com/search?q=Jim%c3%a9nez) | N/A |
-| 36 | [Himno Nacional](http://twitter.com/search?q=Himno+Nacional) | N/A |
-| 37 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
-| 38 | [Construcción de la Paz](http://twitter.com/search?q=Construcci%c3%b3n+de+la+Paz) | N/A |
-| 39 | [Fondo de Aportaciones](http://twitter.com/search?q=Fondo+de+Aportaciones) | N/A |
-| 40 | [Luis Abinader](http://twitter.com/search?q=Luis+Abinader) | N/A |
-| 41 | [Malatya](http://twitter.com/search?q=Malatya) | N/A |
-| 42 | [Perú](http://twitter.com/search?q=Per%c3%ba) | Perú is the official name of a country in South America. It is bordered by Ecuador and Colombia to the north, Brazil and Bolivia to the east, Chile to the south, and the Pacific Ocean to the west. The name Perú comes from a word in the native Quechua language meaning "land of abundance." |
-| 43 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
-| 44 | [Lunes 27](http://twitter.com/search?q=Lunes+27) | N/A |
-| 45 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 46 | [fuerza velocijumper](http://twitter.com/search?q=fuerza+velocijumper) | N/A |
-| 47 | [Día Nacional](http://twitter.com/search?q=D%c3%ada+Nacional) | N/A |
-| 48 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
-| 49 | [Firme](http://twitter.com/search?q=Firme) | N/A |
-| 50 | [Día Mundial](http://twitter.com/search?q=D%c3%ada+Mundial) | N/A |
+| 8 | [Vitacilina](http://twitter.com/search?q=Vitacilina) | N/A |
+| 9 | [Democracia](http://twitter.com/search?q=Democracia) | Democracia is a Spanish word meaning democracy. It is used to refer to a system of government in which the people have the power to choose their leaders through free and fair elections. Democracia is based on the principle of majority rule, with the majority of citizens having a say in how their country is run. |
+| 10 | [Palacio Nacional](http://twitter.com/search?q=Palacio+Nacional) | N/A |
+| 11 | [Plan B](http://twitter.com/search?q=Plan+B) | N/A |
+| 12 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 13 | [fogel estamos contigo](http://twitter.com/search?q=fogel+estamos+contigo) | N/A |
+| 14 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
+| 15 | [Fuera López](http://twitter.com/search?q=Fuera+L%c3%b3pez) | N/A |
+| 16 | [Acarreados](http://twitter.com/search?q=Acarreados) | N/A |
+| 17 | [Ana Gabriel](http://twitter.com/search?q=Ana+Gabriel) | N/A |
+| 18 | [Palenque](http://twitter.com/search?q=Palenque) | N/A |
+| 19 | [Nuevo Laredo](http://twitter.com/search?q=Nuevo+Laredo) | N/A |
+| 20 | [Ardido](http://twitter.com/search?q=Ardido) | N/A |
+| 21 | [José Vasconcelos](http://twitter.com/search?q=Jos%c3%a9+Vasconcelos) | N/A |
+| 22 | [dodos](http://twitter.com/search?q=dodos) | N/A |
+| 23 | [Terminal 1](http://twitter.com/search?q=Terminal+1) | N/A |
+| 24 | [Pop Crave](http://twitter.com/search?q=Pop+Crave) | N/A |
+| 25 | [Luis Abinader](http://twitter.com/search?q=Luis+Abinader) | N/A |
+| 26 | [RACE WEEK](http://twitter.com/search?q=RACE+WEEK) | N/A |
+| 27 | [Farsa](http://twitter.com/search?q=Farsa) | N/A |
+| 28 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 29 | [Puro](http://twitter.com/search?q=Puro) | N/A |
+| 30 | [Batres](http://twitter.com/search?q=Batres) | N/A |
+| 31 | [Almería](http://twitter.com/search?q=Almer%c3%ada) | Almería is a city in the southeastern region of Spain. It is the capital of the province of Almería and is located on the Mediterranean Sea. In English, Almería means "The Watchtower". |
+| 32 | [Ronaldinho](http://twitter.com/search?q=Ronaldinho) | N/A |
+| 33 | [Beatriz Pagés](http://twitter.com/search?q=Beatriz+Pag%c3%a9s) | N/A |
+| 34 | [Jiménez](http://twitter.com/search?q=Jim%c3%a9nez) | N/A |
+| 35 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
+| 36 | [fuerza velocijumper](http://twitter.com/search?q=fuerza+velocijumper) | N/A |
+| 37 | [Día Mundial](http://twitter.com/search?q=D%c3%ada+Mundial) | N/A |
+| 38 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 39 | [Perú](http://twitter.com/search?q=Per%c3%ba) | Perú is the official name of a country in South America. It is bordered by Ecuador and Colombia to the north, Brazil and Bolivia to the east, Chile to the south, and the Pacific Ocean to the west. The name Perú comes from a word in the native Quechua language meaning "land of abundance." |
+| 40 | [Himno Nacional](http://twitter.com/search?q=Himno+Nacional) | N/A |
+| 41 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
+| 42 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
+| 43 | [Suicune](http://twitter.com/search?q=Suicune) | N/A |
+| 44 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
+| 45 | [Lunes 27](http://twitter.com/search?q=Lunes+27) | N/A |
+| 46 | [Grupo Firme](http://twitter.com/search?q=Grupo+Firme) | N/A |
+| 47 | [Aluxes](http://twitter.com/search?q=Aluxes) | N/A |
+| 48 | [Reforma](http://twitter.com/search?q=Reforma) | N/A |
+| 49 | [José Ramón Cossío](http://twitter.com/search?q=Jos%c3%a9+Ram%c3%b3n+Coss%c3%ado) | N/A |
+| 50 | [André Marín](http://twitter.com/search?q=Andr%c3%a9+Mar%c3%adn) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Fortaleza
 
-📆 Last Updated: `2023-02-27 17:15:54 UTC`
+📆 Last Updated: `2023-02-27 18:16:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Bruna](http://twitter.com/search?q=Bruna) | Bruna is a Portuguese word meaning "brown". It is often used to describe someone or something that has a brown color. |
-| 2 | [Dove](http://twitter.com/search?q=Dove) | N/A |
-| 3 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
+| 2 | [Zé Ricardo](http://twitter.com/search?q=Z%c3%a9+Ricardo) | N/A |
+| 3 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
 | 4 | [MC Bin Laden](http://twitter.com/search?q=MC+Bin+Laden) | N/A |
-| 5 | [Suicune](http://twitter.com/search?q=Suicune) | N/A |
-| 6 | [#MaisVoce](http://twitter.com/search?q=%23MaisVoce) | N/A |
+| 5 | [#RizzToken](http://twitter.com/search?q=%23RizzToken) | N/A |
+| 6 | [Dove](http://twitter.com/search?q=Dove) | N/A |
 | 7 | [Agressão](http://twitter.com/search?q=Agress%c3%a3o) | N/A |
-| 8 | [#BalançoGeralRJ](http://twitter.com/search?q=%23Balan%c3%a7oGeralRJ) | N/A |
-| 9 | [#ForaNicacio](http://twitter.com/search?q=%23ForaNicacio) | N/A |
-| 10 | [Hariany](http://twitter.com/search?q=Hariany) | N/A |
-| 11 | [#FORACARADESAPATO](http://twitter.com/search?q=%23FORACARADESAPATO) | N/A |
-| 12 | [Lewis Hamilton](http://twitter.com/search?q=Lewis+Hamilton) | N/A |
-| 13 | [Carelli](http://twitter.com/search?q=Carelli) | N/A |
-| 14 | [Ana Maria](http://twitter.com/search?q=Ana+Maria) | N/A |
-| 15 | [Bolsonaro Store](http://twitter.com/search?q=Bolsonaro+Store) | N/A |
-| 16 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
-| 17 | [Virizion](http://twitter.com/search?q=Virizion) | N/A |
-| 18 | [MILEY ANNOUNCEMENT TODAY](http://twitter.com/search?q=MILEY+ANNOUNCEMENT+TODAY) | N/A |
-| 19 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
-| 20 | [Walking Wake](http://twitter.com/search?q=Walking+Wake) | N/A |
-| 21 | [READY TO BE](http://twitter.com/search?q=READY+TO+BE) | N/A |
-| 22 | [Duzz](http://twitter.com/search?q=Duzz) | N/A |
-| 23 | [Bocardi](http://twitter.com/search?q=Bocardi) | N/A |
-| 24 | [Imposto de Renda 2023](http://twitter.com/search?q=Imposto+de+Renda+2023) | N/A |
-| 25 | [Violet](http://twitter.com/search?q=Violet) | N/A |
-| 26 | [Movimento Nacional](http://twitter.com/search?q=Movimento+Nacional) | N/A |
-| 27 | [Scarlet](http://twitter.com/search?q=Scarlet) | N/A |
-| 28 | [Ivone](http://twitter.com/search?q=Ivone) | N/A |
-| 29 | [Cercle](http://twitter.com/search?q=Cercle) | N/A |
-| 30 | [Vacinação](http://twitter.com/search?q=Vacina%c3%a7%c3%a3o) | N/A |
-| 31 | [Fred e Key](http://twitter.com/search?q=Fred+e+Key) | N/A |
-| 32 | [Atravessei São Paulo](http://twitter.com/search?q=Atravessei+S%c3%a3o+Paulo) | N/A |
-| 33 | [Meu Presidente](http://twitter.com/search?q=Meu+Presidente) | N/A |
-| 34 | [GREnal](http://twitter.com/search?q=GREnal) | N/A |
-| 35 | [Zé Ricardo](http://twitter.com/search?q=Z%c3%a9+Ricardo) | N/A |
-| 36 | [Calendário](http://twitter.com/search?q=Calend%c3%a1rio) | N/A |
-| 37 | [Silvio Almeida](http://twitter.com/search?q=Silvio+Almeida) | Silvio Almeida is a Portuguese name. It is derived from the Latin words silva (meaning forest) and almeida (meaning defender). The name can be translated to mean "defender of the forest". |
-| 38 | [Presidência da República](http://twitter.com/search?q=Presid%c3%aancia+da+Rep%c3%bablica) | N/A |
-| 39 | [Gmail](http://twitter.com/search?q=Gmail) | N/A |
-| 40 | [Zé Gotinha](http://twitter.com/search?q=Z%c3%a9+Gotinha) | N/A |
-| 41 | [SEM QUERER](http://twitter.com/search?q=SEM+QUERER) | N/A |
-| 42 | [Feliz Ano Novo](http://twitter.com/search?q=Feliz+Ano+Novo) | N/A |
-| 43 | [DLCs](http://twitter.com/search?q=DLCs) | N/A |
-| 44 | [Cortaram](http://twitter.com/search?q=Cortaram) | N/A |
-| 45 | [Segundou](http://twitter.com/search?q=Segundou) | N/A |
-| 46 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 47 | [Beach Park](http://twitter.com/search?q=Beach+Park) | N/A |
-| 48 | [Imagine Dragons](http://twitter.com/search?q=Imagine+Dragons) | N/A |
-| 49 | [Feliz 2023](http://twitter.com/search?q=Feliz+2023) | Feliz 2023 is a Spanish phrase that translates to "Happy 2023" in English. It is typically used as a greeting or expression of good wishes for the upcoming year. |
-| 50 | [Damon Albarn](http://twitter.com/search?q=Damon+Albarn) | N/A |
+| 8 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
+| 9 | [Suicune](http://twitter.com/search?q=Suicune) | N/A |
+| 10 | [Duzz](http://twitter.com/search?q=Duzz) | N/A |
+| 11 | [#selecaosportv](http://twitter.com/search?q=%23selecaosportv) | N/A |
+| 12 | [#BalançoGeralRJ](http://twitter.com/search?q=%23Balan%c3%a7oGeralRJ) | N/A |
+| 13 | [Hariany](http://twitter.com/search?q=Hariany) | N/A |
+| 14 | [Natália](http://twitter.com/search?q=Nat%c3%a1lia) | Natália is a female given name of Latin origin, derived from the word “natalis”, meaning “birthday”. In English, it is often translated as Natalie. |
+| 15 | [#F90BR](http://twitter.com/search?q=%23F90BR) | N/A |
+| 16 | [TERROR NA PAIN](http://twitter.com/search?q=TERROR+NA+PAIN) | N/A |
+| 17 | [Atravessei São Paulo](http://twitter.com/search?q=Atravessei+S%c3%a3o+Paulo) | N/A |
+| 18 | [Carelli](http://twitter.com/search?q=Carelli) | N/A |
+| 19 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
+| 20 | [Ivone](http://twitter.com/search?q=Ivone) | N/A |
+| 21 | [Endless Summer Vacation](http://twitter.com/search?q=Endless+Summer+Vacation) | N/A |
+| 22 | [América MG](http://twitter.com/search?q=Am%c3%a9rica+MG) | N/A |
+| 23 | [Meu Presidente](http://twitter.com/search?q=Meu+Presidente) | N/A |
+| 24 | [Vacinação](http://twitter.com/search?q=Vacina%c3%a7%c3%a3o) | N/A |
+| 25 | [Riqueza](http://twitter.com/search?q=Riqueza) | N/A |
+| 26 | [GREnal](http://twitter.com/search?q=GREnal) | N/A |
+| 27 | [Ana Maria](http://twitter.com/search?q=Ana+Maria) | N/A |
+| 28 | [Silvio Almeida](http://twitter.com/search?q=Silvio+Almeida) | Silvio Almeida is a Portuguese name. It is derived from the Latin words silva (meaning forest) and almeida (meaning defender). The name can be translated to mean "defender of the forest". |
+| 29 | [Bolsonaro Store](http://twitter.com/search?q=Bolsonaro+Store) | N/A |
+| 30 | [shao](http://twitter.com/search?q=shao) | N/A |
+| 31 | [MILEY ANNOUNCEMENT TODAY](http://twitter.com/search?q=MILEY+ANNOUNCEMENT+TODAY) | N/A |
+| 32 | [Movimento Nacional](http://twitter.com/search?q=Movimento+Nacional) | N/A |
+| 33 | [Zé Gotinha](http://twitter.com/search?q=Z%c3%a9+Gotinha) | N/A |
+| 34 | [Bocardi](http://twitter.com/search?q=Bocardi) | N/A |
+| 35 | [BOLSONARO VAGABUNDO](http://twitter.com/search?q=BOLSONARO+VAGABUNDO) | N/A |
+| 36 | [Walking Wake](http://twitter.com/search?q=Walking+Wake) | N/A |
+| 37 | [Carabobo](http://twitter.com/search?q=Carabobo) | Carabobo is a state in Venezuela. Its name is derived from the Carabobo tribe, which inhabited the area before the Spanish colonization of the Americas. In English, it means "Valley of the Brave". |
+| 38 | [Katana](http://twitter.com/search?q=Katana) | N/A |
+| 39 | [READY TO BE](http://twitter.com/search?q=READY+TO+BE) | N/A |
+| 40 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
+| 41 | [Fred e Key](http://twitter.com/search?q=Fred+e+Key) | N/A |
+| 42 | [Virizion](http://twitter.com/search?q=Virizion) | N/A |
+| 43 | [Imposto de Renda 2023](http://twitter.com/search?q=Imposto+de+Renda+2023) | N/A |
+| 44 | [SEM QUERER](http://twitter.com/search?q=SEM+QUERER) | N/A |
+| 45 | [Cercle](http://twitter.com/search?q=Cercle) | N/A |
+| 46 | [Key e Nicácio](http://twitter.com/search?q=Key+e+Nic%c3%a1cio) | N/A |
+| 47 | [Calendário](http://twitter.com/search?q=Calend%c3%a1rio) | N/A |
+| 48 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 49 | [Cortaram](http://twitter.com/search?q=Cortaram) | N/A |
+| 50 | [DLCs](http://twitter.com/search?q=DLCs) | N/A |
 
 
 

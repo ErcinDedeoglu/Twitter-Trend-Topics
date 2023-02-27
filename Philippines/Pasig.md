@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pasig
 
-📆 Last Updated: `2023-02-27 17:16:11 UTC`
+📆 Last Updated: `2023-02-27 18:16:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,55 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SB19TripleWinNYLONAwards](http://twitter.com/search?q=%23SB19TripleWinNYLONAwards) | N/A |
-| 2 | [#ROVER_2ndTeaser](http://twitter.com/search?q=%23ROVER_2ndTeaser) | N/A |
-| 3 | [#TWICE_ConceptPhotoD6](http://twitter.com/search?q=%23TWICE_ConceptPhotoD6) | N/A |
-| 4 | [#PokemonPresents](http://twitter.com/search?q=%23PokemonPresents) | N/A |
-| 5 | [BLAME IT ON ME](http://twitter.com/search?q=BLAME+IT+ON+ME) | N/A |
-| 6 | [junmyeon](http://twitter.com/search?q=junmyeon) | Junmyeon is a Korean name, and it means "truthful and righteous". |
-| 7 | [8 ML Heroes](http://twitter.com/search?q=8+ML+Heroes) | N/A |
-| 8 | [KAI Rover Teaser Images 1](http://twitter.com/search?q=KAI+Rover+Teaser+Images+1) | N/A |
-| 9 | [#DLWrath](http://twitter.com/search?q=%23DLWrath) | N/A |
-| 10 | [Happy Fools](http://twitter.com/search?q=Happy+Fools) | Happy Fools is a phrase used to describe people who are content with their lives despite the challenges they may face. It is often used as a reminder to be grateful for what one has and to focus on the positive aspects of life. |
-| 11 | [Maya](http://twitter.com/search?q=Maya) | N/A |
-| 12 | [DIRTY LINEN OUTRAGE](http://twitter.com/search?q=DIRTY+LINEN+OUTRAGE) | N/A |
-| 13 | [VXON WON BBBAwards FRPG](http://twitter.com/search?q=VXON+WON+BBBAwards+FRPG) | N/A |
-| 14 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
-| 15 | [jeonghan](http://twitter.com/search?q=jeonghan) | Jeonghan is a Korean given name, usually for males. It is composed of two characters: "Jeong" meaning "righteous" and "Han" meaning "greatness". In English, Jeonghan can be translated to mean "righteous greatness". |
-| 16 | [TREASURE in Shopee](http://twitter.com/search?q=TREASURE+in+Shopee) | N/A |
-| 17 | [judy](http://twitter.com/search?q=judy) | N/A |
-| 18 | [NAIA](http://twitter.com/search?q=NAIA) | N/A |
-| 19 | [BROWNLEE](http://twitter.com/search?q=BROWNLEE) | N/A |
-| 20 | [Luo Yi](http://twitter.com/search?q=Luo+Yi) | N/A |
-| 21 | [KIM JONGIN](http://twitter.com/search?q=KIM+JONGIN) | N/A |
-| 22 | [Mila](http://twitter.com/search?q=Mila) | N/A |
+| 1 | [8 ML Heroes](http://twitter.com/search?q=8+ML+Heroes) | N/A |
+| 2 | [#MgaLihimNiUrduja](http://twitter.com/search?q=%23MgaLihimNiUrduja) | N/A |
+| 3 | [PH SCAMMER](http://twitter.com/search?q=PH+SCAMMER) | N/A |
+| 4 | [#테니생일_축하축하_하네요](http://twitter.com/search?q=%23%ed%85%8c%eb%8b%88%ec%83%9d%ec%9d%bc_%ec%b6%95%ed%95%98%ec%b6%95%ed%95%98_%ed%95%98%eb%84%a4%ec%9a%94) | N/A |
+| 5 | [Liza](http://twitter.com/search?q=Liza) | N/A |
+| 6 | [wildtonight on aos](http://twitter.com/search?q=wildtonight+on+aos) | N/A |
+| 7 | [#MEGAWomenToWatch](http://twitter.com/search?q=%23MEGAWomenToWatch) | N/A |
+| 8 | [#SB19TripleWinNYLONAwards](http://twitter.com/search?q=%23SB19TripleWinNYLONAwards) | N/A |
+| 9 | [formidabelle megawoman](http://twitter.com/search?q=formidabelle+megawoman) | N/A |
+| 10 | [Brownlee](http://twitter.com/search?q=Brownlee) | N/A |
+| 11 | [TENLEE 27th BDAY](http://twitter.com/search?q=TENLEE+27th+BDAY) | N/A |
+| 12 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 13 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
+| 14 | [the church built by god](http://twitter.com/search?q=the+church+built+by+god) | N/A |
+| 15 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
+| 16 | [Gilas](http://twitter.com/search?q=Gilas) | N/A |
+| 17 | [DIRTY LINEN OUTRAGE](http://twitter.com/search?q=DIRTY+LINEN+OUTRAGE) | N/A |
+| 18 | [junmyeon](http://twitter.com/search?q=junmyeon) | Junmyeon is a Korean name, and it means "truthful and righteous". |
+| 19 | [TREASURE in Shopee](http://twitter.com/search?q=TREASURE+in+Shopee) | N/A |
+| 20 | [BLAME IT ON ME](http://twitter.com/search?q=BLAME+IT+ON+ME) | N/A |
+| 21 | [happy 23rd bday alexa](http://twitter.com/search?q=happy+23rd+bday+alexa) | N/A |
+| 22 | [KAI Rover Teaser Images 1](http://twitter.com/search?q=KAI+Rover+Teaser+Images+1) | N/A |
 | 23 | [Scottie](http://twitter.com/search?q=Scottie) | Scottie is a nickname for the Scottish Terrier, a small breed of dog. It is also used as a nickname for people from Scotland or with Scottish heritage. |
-| 24 | [Gilas](http://twitter.com/search?q=Gilas) | N/A |
-| 25 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
-| 26 | [Coach Tai](http://twitter.com/search?q=Coach+Tai) | N/A |
-| 27 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 28 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 29 | [Gelo](http://twitter.com/search?q=Gelo) | N/A |
-| 30 | [#MgaLihimNiUrduja](http://twitter.com/search?q=%23MgaLihimNiUrduja) | N/A |
-| 31 | [#NoToJeepneyPhaseout](http://twitter.com/search?q=%23NoToJeepneyPhaseout) | N/A |
-| 32 | [#유태양_태어나줘서_곰다](http://twitter.com/search?q=%23%ec%9c%a0%ed%83%9c%ec%96%91_%ed%83%9c%ec%96%b4%eb%82%98%ec%a4%98%ec%84%9c_%ea%b3%b0%eb%8b%a4) | N/A |
-| 33 | [#D7_to_PromiseChristmasLove](http://twitter.com/search?q=%23D7_to_PromiseChristmasLove) | N/A |
-| 34 | [#VXONatNYLONManilaBBBAwards](http://twitter.com/search?q=%23VXONatNYLONManilaBBBAwards) | N/A |
-| 35 | [#FriendofGUCCIXGulf](http://twitter.com/search?q=%23FriendofGUCCIXGulf) | N/A |
-| 36 | [#FreenIsOurHeart](http://twitter.com/search?q=%23FreenIsOurHeart) | N/A |
-| 37 | [#MCISepanx](http://twitter.com/search?q=%23MCISepanx) | N/A |
-| 38 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 39 | [#SurvivorAU](http://twitter.com/search?q=%23SurvivorAU) | N/A |
-| 40 | [#TXT_2023DREAMWEEK](http://twitter.com/search?q=%23TXT_2023DREAMWEEK) | N/A |
-| 41 | [#THEHIDDENSTAGE](http://twitter.com/search?q=%23THEHIDDENSTAGE) | N/A |
-| 42 | [#MEGAWomenToWatch](http://twitter.com/search?q=%23MEGAWomenToWatch) | N/A |
-| 43 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 44 | [#제이_1000일_축하해](http://twitter.com/search?q=%23%ec%a0%9c%ec%9d%b4_1000%ec%9d%bc_%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
-| 45 | [#1000DaysWithJay](http://twitter.com/search?q=%231000DaysWithJay) | N/A |
-| 46 | [#FIBAWC](http://twitter.com/search?q=%23FIBAWC) | N/A |
-| 47 | [#HWANGMINHYUN](http://twitter.com/search?q=%23HWANGMINHYUN) | N/A |
+| 24 | [Happy Birthday Ten](http://twitter.com/search?q=Happy+Birthday+Ten) | N/A |
+| 25 | [Luo Yi](http://twitter.com/search?q=Luo+Yi) | N/A |
+| 26 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
+| 27 | [8 League of Legends](http://twitter.com/search?q=8+League+of+Legends) | N/A |
+| 28 | [gma7 widescreen format](http://twitter.com/search?q=gma7+widescreen+format) | N/A |
+| 29 | [Floral Sense](http://twitter.com/search?q=Floral+Sense) | N/A |
+| 30 | [Coach Tai](http://twitter.com/search?q=Coach+Tai) | N/A |
+| 31 | [2yeon](http://twitter.com/search?q=2yeon) | N/A |
+| 32 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
+| 33 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 34 | [vibrent pieluvarn](http://twitter.com/search?q=vibrent+pieluvarn) | N/A |
+| 35 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
+| 36 | [Happy Fools](http://twitter.com/search?q=Happy+Fools) | Happy Fools is a phrase used to describe people who are content with their lives despite the challenges they may face. It is often used as a reminder to be grateful for what one has and to focus on the positive aspects of life. |
+| 37 | [SUGA AT THE VIP PREMIERE](http://twitter.com/search?q=SUGA+AT+THE+VIP+PREMIERE) | N/A |
+| 38 | [NAIA](http://twitter.com/search?q=NAIA) | N/A |
+| 39 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
+| 40 | [judy](http://twitter.com/search?q=judy) | N/A |
+| 41 | [KEEP SHINING KIANO](http://twitter.com/search?q=KEEP+SHINING+KIANO) | N/A |
+| 42 | [Top 8](http://twitter.com/search?q=Top+8) | N/A |
+| 43 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 44 | [PARK JISUNG](http://twitter.com/search?q=PARK+JISUNG) | N/A |
+| 45 | [togheether for a thousand days](http://twitter.com/search?q=togheether+for+a+thousand+days) | N/A |
+| 46 | [Walking Wake](http://twitter.com/search?q=Walking+Wake) | N/A |
+| 47 | [Oni 2.0](http://twitter.com/search?q=Oni+2.0) | N/A |
+| 48 | [TXT SECRET SPECIAL CLIP](http://twitter.com/search?q=TXT+SECRET+SPECIAL+CLIP) | N/A |
+| 49 | [Miss Fortune](http://twitter.com/search?q=Miss+Fortune) | N/A |
 
 
 

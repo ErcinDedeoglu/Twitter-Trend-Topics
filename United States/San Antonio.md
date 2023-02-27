@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Antonio
 
-📆 Last Updated: `2023-02-27 17:16:30 UTC`
+📆 Last Updated: `2023-02-27 18:17:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 2 | [#CoachesSummit](http://twitter.com/search?q=%23CoachesSummit) | N/A |
-| 3 | [Silas](http://twitter.com/search?q=Silas) | N/A |
-| 4 | [Sengun](http://twitter.com/search?q=Sengun) | Sengun is a Japanese term that refers to the Imperial Japanese Army during World War II. It literally translates to "war-supporting army" and was used to describe the Japanese military forces that fought in the war. |
-| 5 | [West Texas](http://twitter.com/search?q=West+Texas) | N/A |
-| 6 | [Scott Adams](http://twitter.com/search?q=Scott+Adams) | N/A |
-| 7 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
+| 2 | [West Texas](http://twitter.com/search?q=West+Texas) | N/A |
+| 3 | [Sengun](http://twitter.com/search?q=Sengun) | Sengun is a Japanese term that refers to the Imperial Japanese Army during World War II. It literally translates to "war-supporting army" and was used to describe the Japanese military forces that fought in the war. |
+| 4 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
+| 5 | [Silas](http://twitter.com/search?q=Silas) | N/A |
+| 6 | [#RizzToken](http://twitter.com/search?q=%23RizzToken) | N/A |
+| 7 | [#GOGimmighoul](http://twitter.com/search?q=%23GOGimmighoul) | N/A |
 | 8 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
-| 9 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
-| 10 | [#GOGimmighoul](http://twitter.com/search?q=%23GOGimmighoul) | N/A |
+| 9 | [#DeadSpaceMarkerMerchSweeps](http://twitter.com/search?q=%23DeadSpaceMarkerMerchSweeps) | N/A |
+| 10 | [kevin hart](http://twitter.com/search?q=kevin+hart) | N/A |
 | 11 | [Walking Wake](http://twitter.com/search?q=Walking+Wake) | N/A |
-| 12 | [kevin hart](http://twitter.com/search?q=kevin+hart) | N/A |
-| 13 | [Maino](http://twitter.com/search?q=Maino) | N/A |
-| 14 | [Virizion](http://twitter.com/search?q=Virizion) | N/A |
-| 15 | [Mystery Dungeon](http://twitter.com/search?q=Mystery+Dungeon) | N/A |
+| 12 | [Maino](http://twitter.com/search?q=Maino) | N/A |
+| 13 | [AP Poll](http://twitter.com/search?q=AP+Poll) | The AP Poll (or the Associated Press Poll) is a weekly ranking of the top 25 college football teams in the United States, as determined by a panel of sportswriters and broadcasters. The poll is conducted by the Associated Press (AP), a news agency based in New York City. The rankings are released each Sunday during the college football season, with the exception of the final poll, which is released after the conclusion of the College Football Playoff National Championship. |
+| 14 | [Reedy Creek](http://twitter.com/search?q=Reedy+Creek) | N/A |
+| 15 | [Buckhead](http://twitter.com/search?q=Buckhead) | N/A |
 | 16 | [Bryan Cranston](http://twitter.com/search?q=Bryan+Cranston) | N/A |
-| 17 | [Buckhead](http://twitter.com/search?q=Buckhead) | N/A |
-| 18 | [SV DLC](http://twitter.com/search?q=SV+DLC) | N/A |
-| 19 | [Dominican Independence Day](http://twitter.com/search?q=Dominican+Independence+Day) | N/A |
-| 20 | [Good Monday](http://twitter.com/search?q=Good+Monday) | Good Monday is an expression used to express enthusiasm for the start of a new week. It is typically used as a greeting or salutation when wishing someone a good start to the week. |
-| 21 | [AP Poll](http://twitter.com/search?q=AP+Poll) | The AP Poll (or the Associated Press Poll) is a weekly ranking of the top 25 college football teams in the United States, as determined by a panel of sportswriters and broadcasters. The poll is conducted by the Associated Press (AP), a news agency based in New York City. The rankings are released each Sunday during the college football season, with the exception of the final poll, which is released after the conclusion of the College Football Playoff National Championship. |
-| 22 | [Fauci](http://twitter.com/search?q=Fauci) | N/A |
-| 23 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
-| 24 | [Terapagos](http://twitter.com/search?q=Terapagos) | N/A |
-| 25 | [Momotaro](http://twitter.com/search?q=Momotaro) | N/A |
-| 26 | [David Hogg](http://twitter.com/search?q=David+Hogg) | N/A |
-| 27 | [Joey Votto](http://twitter.com/search?q=Joey+Votto) | N/A |
-| 28 | [Reedy Creek](http://twitter.com/search?q=Reedy+Creek) | N/A |
-| 29 | [The DLC](http://twitter.com/search?q=The+DLC) | N/A |
-| 30 | [CFPB](http://twitter.com/search?q=CFPB) | N/A |
-| 31 | [Kalos](http://twitter.com/search?q=Kalos) | N/A |
-| 32 | [Marc Lasry](http://twitter.com/search?q=Marc+Lasry) | N/A |
-| 33 | [DLCs](http://twitter.com/search?q=DLCs) | N/A |
-| 34 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
-| 35 | [Ho-Oh](http://twitter.com/search?q=Ho-Oh) | N/A |
-| 36 | [Master P](http://twitter.com/search?q=Master+P) | N/A |
-| 37 | [Public Schools Week](http://twitter.com/search?q=Public+Schools+Week) | N/A |
-| 38 | [Jimmy Haslam](http://twitter.com/search?q=Jimmy+Haslam) | N/A |
-| 39 | [Zebstrika](http://twitter.com/search?q=Zebstrika) | N/A |
-| 40 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 41 | [Game Freak](http://twitter.com/search?q=Game+Freak) | N/A |
-| 42 | [Area Zero](http://twitter.com/search?q=Area+Zero) | N/A |
-| 43 | [Moselle](http://twitter.com/search?q=Moselle) | N/A |
-| 44 | [Champaign](http://twitter.com/search?q=Champaign) | N/A |
-| 45 | [Slotkin](http://twitter.com/search?q=Slotkin) | N/A |
+| 17 | [Yellen](http://twitter.com/search?q=Yellen) | N/A |
+| 18 | [Virizion](http://twitter.com/search?q=Virizion) | N/A |
+| 19 | [Joey Votto](http://twitter.com/search?q=Joey+Votto) | N/A |
+| 20 | [David Hogg](http://twitter.com/search?q=David+Hogg) | N/A |
+| 21 | [Dominican Independence Day](http://twitter.com/search?q=Dominican+Independence+Day) | N/A |
+| 22 | [AP Top 25](http://twitter.com/search?q=AP+Top+25) | N/A |
+| 23 | [Mystery Dungeon](http://twitter.com/search?q=Mystery+Dungeon) | N/A |
+| 24 | [Fauci](http://twitter.com/search?q=Fauci) | N/A |
+| 25 | [Joyce Manor](http://twitter.com/search?q=Joyce+Manor) | N/A |
+| 26 | [Terapagos](http://twitter.com/search?q=Terapagos) | N/A |
+| 27 | [Momotaro](http://twitter.com/search?q=Momotaro) | N/A |
+| 28 | [CFPB](http://twitter.com/search?q=CFPB) | N/A |
+| 29 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
+| 30 | [SV DLC](http://twitter.com/search?q=SV+DLC) | N/A |
+| 31 | [Al Gore](http://twitter.com/search?q=Al+Gore) | N/A |
+| 32 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
+| 33 | [NFL Combine](http://twitter.com/search?q=NFL+Combine) | N/A |
+| 34 | [Good Monday](http://twitter.com/search?q=Good+Monday) | Good Monday is an expression used to express enthusiasm for the start of a new week. It is typically used as a greeting or salutation when wishing someone a good start to the week. |
+| 35 | [Slim Jim](http://twitter.com/search?q=Slim+Jim) | N/A |
+| 36 | [Ho-Oh](http://twitter.com/search?q=Ho-Oh) | N/A |
+| 37 | [Slotkin](http://twitter.com/search?q=Slotkin) | N/A |
+| 38 | [Victoria Monet](http://twitter.com/search?q=Victoria+Monet) | N/A |
+| 39 | [Okidogi](http://twitter.com/search?q=Okidogi) | N/A |
+| 40 | [Kalos](http://twitter.com/search?q=Kalos) | N/A |
+| 41 | [DLCs](http://twitter.com/search?q=DLCs) | N/A |
+| 42 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
+| 43 | [Gamefreak](http://twitter.com/search?q=Gamefreak) | N/A |
+| 44 | [Master P](http://twitter.com/search?q=Master+P) | N/A |
+| 45 | [Seonghwa](http://twitter.com/search?q=Seonghwa) | N/A |
 | 46 | [Terry Holland](http://twitter.com/search?q=Terry+Holland) | N/A |
-| 47 | [Seonghwa](http://twitter.com/search?q=Seonghwa) | N/A |
-| 48 | [Hisuian Zoroark](http://twitter.com/search?q=Hisuian+Zoroark) | N/A |
-| 49 | [Herbert Jones](http://twitter.com/search?q=Herbert+Jones) | N/A |
+| 47 | [The DLC](http://twitter.com/search?q=The+DLC) | N/A |
+| 48 | [Zebstrika](http://twitter.com/search?q=Zebstrika) | N/A |
+| 49 | [Yemen](http://twitter.com/search?q=Yemen) | N/A |
 
 
 

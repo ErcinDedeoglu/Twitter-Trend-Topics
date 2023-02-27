@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Saltillo
 
-📆 Last Updated: `2023-02-27 17:15:50 UTC`
+📆 Last Updated: `2023-02-27 18:16:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,47 +21,47 @@ This is top 50 for [Mexico](</Mexico>)
 | 4 | [#MiVotoNoSeToca](http://twitter.com/search?q=%23MiVotoNoSeToca) | N/A |
 | 5 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
 | 6 | [Viva México](http://twitter.com/search?q=Viva+M%c3%a9xico) | N/A |
-| 7 | [Democracia](http://twitter.com/search?q=Democracia) | Democracia is a Spanish word meaning democracy. It is used to refer to a system of government in which the people have the power to choose their leaders through free and fair elections. Democracia is based on the principle of majority rule, with the majority of citizens having a say in how their country is run. |
-| 8 | [Vitacilina](http://twitter.com/search?q=Vitacilina) | N/A |
-| 9 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 10 | [Palacio Nacional](http://twitter.com/search?q=Palacio+Nacional) | N/A |
-| 11 | [Plan B](http://twitter.com/search?q=Plan+B) | N/A |
-| 12 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 13 | [fogel estamos contigo](http://twitter.com/search?q=fogel+estamos+contigo) | N/A |
-| 14 | [Acarreados](http://twitter.com/search?q=Acarreados) | N/A |
-| 15 | [Fuera López](http://twitter.com/search?q=Fuera+L%c3%b3pez) | N/A |
-| 16 | [josé vasconcelos](http://twitter.com/search?q=jos%c3%a9+vasconcelos) | N/A |
-| 17 | [Pop Crave](http://twitter.com/search?q=Pop+Crave) | N/A |
-| 18 | [BLAME IT ON ME](http://twitter.com/search?q=BLAME+IT+ON+ME) | N/A |
-| 19 | [Terminal 1](http://twitter.com/search?q=Terminal+1) | N/A |
-| 20 | [Palenque](http://twitter.com/search?q=Palenque) | N/A |
-| 21 | [Nuevo Laredo](http://twitter.com/search?q=Nuevo+Laredo) | N/A |
-| 22 | [RACE WEEK](http://twitter.com/search?q=RACE+WEEK) | N/A |
-| 23 | [Ronaldinho](http://twitter.com/search?q=Ronaldinho) | N/A |
-| 24 | [Farsa](http://twitter.com/search?q=Farsa) | N/A |
-| 25 | [Ana Gabriel](http://twitter.com/search?q=Ana+Gabriel) | N/A |
-| 26 | [DODOS](http://twitter.com/search?q=DODOS) | N/A |
-| 27 | [Ardido](http://twitter.com/search?q=Ardido) | N/A |
-| 28 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 29 | [Suicune](http://twitter.com/search?q=Suicune) | N/A |
-| 30 | [Batres](http://twitter.com/search?q=Batres) | N/A |
-| 31 | [Puro](http://twitter.com/search?q=Puro) | N/A |
-| 32 | [Almería](http://twitter.com/search?q=Almer%c3%ada) | Almería is a city in the southeastern region of Spain. It is the capital of the province of Almería and is located on the Mediterranean Sea. In English, Almería means "The Watchtower". |
-| 33 | [Beatriz Pagés](http://twitter.com/search?q=Beatriz+Pag%c3%a9s) | N/A |
-| 34 | [Himno Nacional](http://twitter.com/search?q=Himno+Nacional) | N/A |
-| 35 | [Jiménez](http://twitter.com/search?q=Jim%c3%a9nez) | N/A |
-| 36 | [Construcción de la Paz](http://twitter.com/search?q=Construcci%c3%b3n+de+la+Paz) | N/A |
-| 37 | [Fondo de Aportaciones](http://twitter.com/search?q=Fondo+de+Aportaciones) | N/A |
-| 38 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
-| 39 | [Malatya](http://twitter.com/search?q=Malatya) | N/A |
-| 40 | [Perú](http://twitter.com/search?q=Per%c3%ba) | Perú is the official name of a country in South America. It is bordered by Ecuador and Colombia to the north, Brazil and Bolivia to the east, Chile to the south, and the Pacific Ocean to the west. The name Perú comes from a word in the native Quechua language meaning "land of abundance." |
+| 7 | [Vitacilina](http://twitter.com/search?q=Vitacilina) | N/A |
+| 8 | [Democracia](http://twitter.com/search?q=Democracia) | Democracia is a Spanish word meaning democracy. It is used to refer to a system of government in which the people have the power to choose their leaders through free and fair elections. Democracia is based on the principle of majority rule, with the majority of citizens having a say in how their country is run. |
+| 9 | [Palacio Nacional](http://twitter.com/search?q=Palacio+Nacional) | N/A |
+| 10 | [Plan B](http://twitter.com/search?q=Plan+B) | N/A |
+| 11 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 12 | [fogel estamos contigo](http://twitter.com/search?q=fogel+estamos+contigo) | N/A |
+| 13 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
+| 14 | [Fuera López](http://twitter.com/search?q=Fuera+L%c3%b3pez) | N/A |
+| 15 | [Acarreados](http://twitter.com/search?q=Acarreados) | N/A |
+| 16 | [Ana Gabriel](http://twitter.com/search?q=Ana+Gabriel) | N/A |
+| 17 | [Palenque](http://twitter.com/search?q=Palenque) | N/A |
+| 18 | [Nuevo Laredo](http://twitter.com/search?q=Nuevo+Laredo) | N/A |
+| 19 | [Ardido](http://twitter.com/search?q=Ardido) | N/A |
+| 20 | [José Vasconcelos](http://twitter.com/search?q=Jos%c3%a9+Vasconcelos) | N/A |
+| 21 | [dodos](http://twitter.com/search?q=dodos) | N/A |
+| 22 | [Terminal 1](http://twitter.com/search?q=Terminal+1) | N/A |
+| 23 | [Luis Abinader](http://twitter.com/search?q=Luis+Abinader) | N/A |
+| 24 | [RACE WEEK](http://twitter.com/search?q=RACE+WEEK) | N/A |
+| 25 | [Farsa](http://twitter.com/search?q=Farsa) | N/A |
+| 26 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 27 | [Puro](http://twitter.com/search?q=Puro) | N/A |
+| 28 | [Batres](http://twitter.com/search?q=Batres) | N/A |
+| 29 | [Almería](http://twitter.com/search?q=Almer%c3%ada) | Almería is a city in the southeastern region of Spain. It is the capital of the province of Almería and is located on the Mediterranean Sea. In English, Almería means "The Watchtower". |
+| 30 | [Ronaldinho](http://twitter.com/search?q=Ronaldinho) | N/A |
+| 31 | [Beatriz Pagés](http://twitter.com/search?q=Beatriz+Pag%c3%a9s) | N/A |
+| 32 | [Jiménez](http://twitter.com/search?q=Jim%c3%a9nez) | N/A |
+| 33 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
+| 34 | [fuerza velocijumper](http://twitter.com/search?q=fuerza+velocijumper) | N/A |
+| 35 | [Día Mundial](http://twitter.com/search?q=D%c3%ada+Mundial) | N/A |
+| 36 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 37 | [Perú](http://twitter.com/search?q=Per%c3%ba) | Perú is the official name of a country in South America. It is bordered by Ecuador and Colombia to the north, Brazil and Bolivia to the east, Chile to the south, and the Pacific Ocean to the west. The name Perú comes from a word in the native Quechua language meaning "land of abundance." |
+| 38 | [Himno Nacional](http://twitter.com/search?q=Himno+Nacional) | N/A |
+| 39 | [Pop Crave](http://twitter.com/search?q=Pop+Crave) | N/A |
+| 40 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
 | 41 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
-| 42 | [Luis Abinader](http://twitter.com/search?q=Luis+Abinader) | N/A |
-| 43 | [fuerza velocijumper](http://twitter.com/search?q=fuerza+velocijumper) | N/A |
-| 44 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 45 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
-| 46 | [Lunes 27](http://twitter.com/search?q=Lunes+27) | N/A |
-| 47 | [Firme](http://twitter.com/search?q=Firme) | N/A |
+| 42 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
+| 43 | [Suicune](http://twitter.com/search?q=Suicune) | N/A |
+| 44 | [Lunes 27](http://twitter.com/search?q=Lunes+27) | N/A |
+| 45 | [Grupo Firme](http://twitter.com/search?q=Grupo+Firme) | N/A |
+| 46 | [Aluxes](http://twitter.com/search?q=Aluxes) | N/A |
+| 47 | [Reforma](http://twitter.com/search?q=Reforma) | N/A |
 
 
 

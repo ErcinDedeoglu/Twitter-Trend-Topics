@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guarulhos
 
-📆 Last Updated: `2023-02-27 17:15:55 UTC`
+📆 Last Updated: `2023-02-27 18:16:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 2 | [Imagine Dragons](http://twitter.com/search?q=Imagine+Dragons) | N/A |
-| 3 | [Campari](http://twitter.com/search?q=Campari) | N/A |
-| 4 | [Março](http://twitter.com/search?q=Mar%c3%a7o) | N/A |
-| 5 | [#bbb2023](http://twitter.com/search?q=%23bbb2023) | #bbb2023 is a hashtag used on social media platforms such as Twitter and Instagram. It is typically used to tag posts related to a specific event, topic, or person. In this case, it could be used to tag posts related to a particular event taking place in 2023. |
-| 6 | [#bdsp](http://twitter.com/search?q=%23bdsp) | N/A |
-| 7 | [Bruna](http://twitter.com/search?q=Bruna) | Bruna is a Portuguese word meaning "brown". It is often used to describe someone or something that has a brown color. |
-| 8 | [Dove](http://twitter.com/search?q=Dove) | N/A |
-| 9 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
-| 10 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
-| 11 | [Suicune](http://twitter.com/search?q=Suicune) | N/A |
-| 12 | [#MaisVoce](http://twitter.com/search?q=%23MaisVoce) | N/A |
-| 13 | [Agressão](http://twitter.com/search?q=Agress%c3%a3o) | N/A |
-| 14 | [Lewis Hamilton](http://twitter.com/search?q=Lewis+Hamilton) | N/A |
-| 15 | [Hariany](http://twitter.com/search?q=Hariany) | N/A |
-| 16 | [Carelli](http://twitter.com/search?q=Carelli) | N/A |
-| 17 | [Ana Maria](http://twitter.com/search?q=Ana+Maria) | N/A |
-| 18 | [Bolsonaro Store](http://twitter.com/search?q=Bolsonaro+Store) | N/A |
-| 19 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
-| 20 | [Virizion](http://twitter.com/search?q=Virizion) | N/A |
-| 21 | [MILEY ANNOUNCEMENT TODAY](http://twitter.com/search?q=MILEY+ANNOUNCEMENT+TODAY) | N/A |
-| 22 | [Zé Ricardo](http://twitter.com/search?q=Z%c3%a9+Ricardo) | N/A |
-| 23 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
-| 24 | [READY TO BE](http://twitter.com/search?q=READY+TO+BE) | N/A |
-| 25 | [Walking Wake](http://twitter.com/search?q=Walking+Wake) | N/A |
-| 26 | [Duzz](http://twitter.com/search?q=Duzz) | N/A |
-| 27 | [Bocardi](http://twitter.com/search?q=Bocardi) | N/A |
-| 28 | [Imposto de Renda 2023](http://twitter.com/search?q=Imposto+de+Renda+2023) | N/A |
-| 29 | [Violet](http://twitter.com/search?q=Violet) | N/A |
-| 30 | [Scarlet](http://twitter.com/search?q=Scarlet) | N/A |
-| 31 | [Movimento Nacional](http://twitter.com/search?q=Movimento+Nacional) | N/A |
-| 32 | [Ivone](http://twitter.com/search?q=Ivone) | N/A |
-| 33 | [Cercle](http://twitter.com/search?q=Cercle) | N/A |
-| 34 | [Vacinação](http://twitter.com/search?q=Vacina%c3%a7%c3%a3o) | N/A |
-| 35 | [Fred e Key](http://twitter.com/search?q=Fred+e+Key) | N/A |
-| 36 | [Grenal](http://twitter.com/search?q=Grenal) | N/A |
-| 37 | [Calendário](http://twitter.com/search?q=Calend%c3%a1rio) | N/A |
-| 38 | [Atravessei São Paulo](http://twitter.com/search?q=Atravessei+S%c3%a3o+Paulo) | N/A |
-| 39 | [Meu Presidente](http://twitter.com/search?q=Meu+Presidente) | N/A |
-| 40 | [SEM QUERER](http://twitter.com/search?q=SEM+QUERER) | N/A |
-| 41 | [Silvio Almeida](http://twitter.com/search?q=Silvio+Almeida) | Silvio Almeida is a Portuguese name. It is derived from the Latin words silva (meaning forest) and almeida (meaning defender). The name can be translated to mean "defender of the forest". |
-| 42 | [Presidência da República](http://twitter.com/search?q=Presid%c3%aancia+da+Rep%c3%bablica) | N/A |
-| 43 | [Gmail](http://twitter.com/search?q=Gmail) | N/A |
-| 44 | [DLCs](http://twitter.com/search?q=DLCs) | N/A |
-| 45 | [Zé Gotinha](http://twitter.com/search?q=Z%c3%a9+Gotinha) | N/A |
-| 46 | [Feliz Ano Novo](http://twitter.com/search?q=Feliz+Ano+Novo) | N/A |
-| 47 | [Cortaram](http://twitter.com/search?q=Cortaram) | N/A |
-| 48 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 49 | [Segundou](http://twitter.com/search?q=Segundou) | N/A |
-| 50 | [Beach Park](http://twitter.com/search?q=Beach+Park) | N/A |
+| 1 | [Campari](http://twitter.com/search?q=Campari) | N/A |
+| 2 | [Março](http://twitter.com/search?q=Mar%c3%a7o) | N/A |
+| 3 | [#bbb2023](http://twitter.com/search?q=%23bbb2023) | #bbb2023 is a hashtag used on social media platforms such as Twitter and Instagram. It is typically used to tag posts related to a specific event, topic, or person. In this case, it could be used to tag posts related to a particular event taking place in 2023. |
+| 4 | [#BDSP](http://twitter.com/search?q=%23BDSP) | N/A |
+| 5 | [Bruna](http://twitter.com/search?q=Bruna) | Bruna is a Portuguese word meaning "brown". It is often used to describe someone or something that has a brown color. |
+| 6 | [Zé Ricardo](http://twitter.com/search?q=Z%c3%a9+Ricardo) | N/A |
+| 7 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 8 | [MC Bin Laden](http://twitter.com/search?q=MC+Bin+Laden) | N/A |
+| 9 | [#RizzToken](http://twitter.com/search?q=%23RizzToken) | N/A |
+| 10 | [Dove](http://twitter.com/search?q=Dove) | N/A |
+| 11 | [Agressão](http://twitter.com/search?q=Agress%c3%a3o) | N/A |
+| 12 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
+| 13 | [Suicune](http://twitter.com/search?q=Suicune) | N/A |
+| 14 | [Duzz](http://twitter.com/search?q=Duzz) | N/A |
+| 15 | [#selecaosportv](http://twitter.com/search?q=%23selecaosportv) | N/A |
+| 16 | [Hariany](http://twitter.com/search?q=Hariany) | N/A |
+| 17 | [Natália](http://twitter.com/search?q=Nat%c3%a1lia) | Natália is a female given name of Latin origin, derived from the word “natalis”, meaning “birthday”. In English, it is often translated as Natalie. |
+| 18 | [TERROR NA PAIN](http://twitter.com/search?q=TERROR+NA+PAIN) | N/A |
+| 19 | [Atravessei São Paulo](http://twitter.com/search?q=Atravessei+S%c3%a3o+Paulo) | N/A |
+| 20 | [Carelli](http://twitter.com/search?q=Carelli) | N/A |
+| 21 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
+| 22 | [Ivone](http://twitter.com/search?q=Ivone) | N/A |
+| 23 | [Endless Summer Vacation](http://twitter.com/search?q=Endless+Summer+Vacation) | N/A |
+| 24 | [América MG](http://twitter.com/search?q=Am%c3%a9rica+MG) | N/A |
+| 25 | [Meu Presidente](http://twitter.com/search?q=Meu+Presidente) | N/A |
+| 26 | [Vacinação](http://twitter.com/search?q=Vacina%c3%a7%c3%a3o) | N/A |
+| 27 | [Riqueza](http://twitter.com/search?q=Riqueza) | N/A |
+| 28 | [GREnal](http://twitter.com/search?q=GREnal) | N/A |
+| 29 | [Ana Maria](http://twitter.com/search?q=Ana+Maria) | N/A |
+| 30 | [Silvio Almeida](http://twitter.com/search?q=Silvio+Almeida) | Silvio Almeida is a Portuguese name. It is derived from the Latin words silva (meaning forest) and almeida (meaning defender). The name can be translated to mean "defender of the forest". |
+| 31 | [Bolsonaro Store](http://twitter.com/search?q=Bolsonaro+Store) | N/A |
+| 32 | [shao](http://twitter.com/search?q=shao) | N/A |
+| 33 | [MILEY ANNOUNCEMENT TODAY](http://twitter.com/search?q=MILEY+ANNOUNCEMENT+TODAY) | N/A |
+| 34 | [Movimento Nacional](http://twitter.com/search?q=Movimento+Nacional) | N/A |
+| 35 | [Zé Gotinha](http://twitter.com/search?q=Z%c3%a9+Gotinha) | N/A |
+| 36 | [Bocardi](http://twitter.com/search?q=Bocardi) | N/A |
+| 37 | [BOLSONARO VAGABUNDO](http://twitter.com/search?q=BOLSONARO+VAGABUNDO) | N/A |
+| 38 | [Walking Wake](http://twitter.com/search?q=Walking+Wake) | N/A |
+| 39 | [Carabobo](http://twitter.com/search?q=Carabobo) | Carabobo is a state in Venezuela. Its name is derived from the Carabobo tribe, which inhabited the area before the Spanish colonization of the Americas. In English, it means "Valley of the Brave". |
+| 40 | [Katana](http://twitter.com/search?q=Katana) | N/A |
+| 41 | [READY TO BE](http://twitter.com/search?q=READY+TO+BE) | N/A |
+| 42 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
+| 43 | [Fred e Key](http://twitter.com/search?q=Fred+e+Key) | N/A |
+| 44 | [Virizion](http://twitter.com/search?q=Virizion) | N/A |
+| 45 | [Imposto de Renda 2023](http://twitter.com/search?q=Imposto+de+Renda+2023) | N/A |
+| 46 | [SEM QUERER](http://twitter.com/search?q=SEM+QUERER) | N/A |
+| 47 | [Cercle](http://twitter.com/search?q=Cercle) | N/A |
+| 48 | [Key e Nicácio](http://twitter.com/search?q=Key+e+Nic%c3%a1cio) | N/A |
+| 49 | [Calendário](http://twitter.com/search?q=Calend%c3%a1rio) | N/A |
+| 50 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
 
 
 
