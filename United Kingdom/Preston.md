@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Preston
 
-📆 Last Updated: `2023-02-27 20:16:25 UTC`
+📆 Last Updated: `2023-02-27 21:15:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Swansea](http://twitter.com/search?q=Swansea) | N/A |
-| 2 | [#BrexitDisaster](http://twitter.com/search?q=%23BrexitDisaster) | N/A |
-| 3 | [#WomensFACup](http://twitter.com/search?q=%23WomensFACup) | N/A |
-| 4 | [Good Friday Agreement](http://twitter.com/search?q=Good+Friday+Agreement) | N/A |
-| 5 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
-| 6 | [Unionists](http://twitter.com/search?q=Unionists) | N/A |
-| 7 | [#mondaythoughts](http://twitter.com/search?q=%23mondaythoughts) | #MondayThoughts is a hashtag used on social media to share thoughts, ideas, and reflections on the start of the week. It is often used to encourage others to have a positive outlook on the week ahead. |
-| 8 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
-| 9 | [Whitby](http://twitter.com/search?q=Whitby) | N/A |
-| 10 | [The ERG](http://twitter.com/search?q=The+ERG) | N/A |
-| 11 | [Blood](http://twitter.com/search?q=Blood) | N/A |
+| 1 | [#BrexitDisaster](http://twitter.com/search?q=%23BrexitDisaster) | N/A |
+| 2 | [#electionresults2023](http://twitter.com/search?q=%23electionresults2023) | N/A |
+| 3 | [#EnergyBills](http://twitter.com/search?q=%23EnergyBills) | N/A |
+| 4 | [Gazza](http://twitter.com/search?q=Gazza) | N/A |
+| 5 | [Good Friday Agreement](http://twitter.com/search?q=Good+Friday+Agreement) | N/A |
+| 6 | [Jamaica](http://twitter.com/search?q=Jamaica) | N/A |
+| 7 | [The Queen](http://twitter.com/search?q=The+Queen) | N/A |
+| 8 | [Unionists](http://twitter.com/search?q=Unionists) | N/A |
+| 9 | [The ERG](http://twitter.com/search?q=The+ERG) | N/A |
+| 10 | [Whitby](http://twitter.com/search?q=Whitby) | N/A |
+| 11 | [Sarina](http://twitter.com/search?q=Sarina) | Sarina is a feminine given name of Italian origin. It is derived from the Latin name Sarah, which means "princess". |
 | 12 | [Northern Ireland](http://twitter.com/search?q=Northern+Ireland) | N/A |
 | 13 | [Stormont](http://twitter.com/search?q=Stormont) | N/A |
 | 14 | [Sunak](http://twitter.com/search?q=Sunak) | N/A |
-| 15 | [Steve Baker](http://twitter.com/search?q=Steve+Baker) | N/A |
-| 16 | [The DUP](http://twitter.com/search?q=The+DUP) | N/A |
-| 17 | [Whitney](http://twitter.com/search?q=Whitney) | N/A |
-| 18 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
-| 19 | [Frost](http://twitter.com/search?q=Frost) | N/A |
-| 20 | [Betty Boothroyd](http://twitter.com/search?q=Betty+Boothroyd) | N/A |
-| 21 | [Ian Paisley](http://twitter.com/search?q=Ian+Paisley) | N/A |
-| 22 | [Brighton Pride](http://twitter.com/search?q=Brighton+Pride) | N/A |
-| 23 | [Black Eyed Peas](http://twitter.com/search?q=Black+Eyed+Peas) | N/A |
-| 24 | [Irish Sea](http://twitter.com/search?q=Irish+Sea) | N/A |
-| 25 | [UK and EU](http://twitter.com/search?q=UK+and+EU) | N/A |
-| 26 | [The EU](http://twitter.com/search?q=The+EU) | N/A |
-| 27 | [Zack](http://twitter.com/search?q=Zack) | N/A |
-| 28 | [The ECJ](http://twitter.com/search?q=The+ECJ) | N/A |
-| 29 | [King](http://twitter.com/search?q=King) | In English, "king" is a title given to a male monarch, usually the ruler of a kingdom or empire. It is also used as a term of endearment for someone who is seen as having great power or influence. |
-| 30 | [Ursula](http://twitter.com/search?q=Ursula) | N/A |
-| 31 | [Northern Lights](http://twitter.com/search?q=Northern+Lights) | N/A |
-| 32 | [Commons](http://twitter.com/search?q=Commons) | N/A |
+| 15 | [Mary Earps](http://twitter.com/search?q=Mary+Earps) | N/A |
+| 16 | [Whitney](http://twitter.com/search?q=Whitney) | N/A |
+| 17 | [Swansea](http://twitter.com/search?q=Swansea) | N/A |
+| 18 | [Rotherham](http://twitter.com/search?q=Rotherham) | N/A |
+| 19 | [Steve Baker](http://twitter.com/search?q=Steve+Baker) | N/A |
+| 20 | [The DUP](http://twitter.com/search?q=The+DUP) | N/A |
+| 21 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
+| 22 | [Nish](http://twitter.com/search?q=Nish) | N/A |
+| 23 | [Zack](http://twitter.com/search?q=Zack) | N/A |
+| 24 | [Frost](http://twitter.com/search?q=Frost) | N/A |
+| 25 | [Fnatic](http://twitter.com/search?q=Fnatic) | N/A |
+| 26 | [Brighton Pride](http://twitter.com/search?q=Brighton+Pride) | N/A |
+| 27 | [Ian Paisley](http://twitter.com/search?q=Ian+Paisley) | N/A |
+| 28 | [The EU](http://twitter.com/search?q=The+EU) | N/A |
+| 29 | [Betty Boothroyd](http://twitter.com/search?q=Betty+Boothroyd) | N/A |
+| 30 | [Obasanjo](http://twitter.com/search?q=Obasanjo) | Obasanjo is a Yoruba name meaning "the king has returned". It is the surname of Olusegun Obasanjo, a former Nigerian military leader and two-term president. |
+| 31 | [Black Eyed Peas](http://twitter.com/search?q=Black+Eyed+Peas) | N/A |
+| 32 | [The ECJ](http://twitter.com/search?q=The+ECJ) | N/A |
 | 33 | [Noel](http://twitter.com/search?q=Noel) | Noel is a French word meaning "Christmas". It is often used as a greeting during the Christmas season. |
-| 34 | [Iron Leaves](http://twitter.com/search?q=Iron+Leaves) | N/A |
-| 35 | [Theresa May](http://twitter.com/search?q=Theresa+May) | N/A |
-| 36 | [Sinn Fein](http://twitter.com/search?q=Sinn+Fein) | N/A |
-| 37 | [Levein](http://twitter.com/search?q=Levein) | N/A |
-| 38 | [Edward VIII](http://twitter.com/search?q=Edward+VIII) | N/A |
-| 39 | [Horizon Europe](http://twitter.com/search?q=Horizon+Europe) | N/A |
-| 40 | [Jim Allister](http://twitter.com/search?q=Jim+Allister) | N/A |
-| 41 | [UK-EU](http://twitter.com/search?q=UK-EU) | N/A |
-| 42 | [Assembly](http://twitter.com/search?q=Assembly) | N/A |
+| 34 | [Irish Sea](http://twitter.com/search?q=Irish+Sea) | N/A |
+| 35 | [Fiorentina](http://twitter.com/search?q=Fiorentina) | N/A |
+| 36 | [Theresa May](http://twitter.com/search?q=Theresa+May) | N/A |
+| 37 | [King](http://twitter.com/search?q=King) | In English, "king" is a title given to a male monarch, usually the ruler of a kingdom or empire. It is also used as a term of endearment for someone who is seen as having great power or influence. |
+| 38 | [Study](http://twitter.com/search?q=Study) | N/A |
+| 39 | [Queen Elizabeth II](http://twitter.com/search?q=Queen+Elizabeth+II) | N/A |
+| 40 | [Widnes](http://twitter.com/search?q=Widnes) | N/A |
+| 41 | [Commons](http://twitter.com/search?q=Commons) | N/A |
+| 42 | [Edward VIII](http://twitter.com/search?q=Edward+VIII) | N/A |
 | 43 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
-| 44 | [Aurora](http://twitter.com/search?q=Aurora) | N/A |
-| 45 | [Queen Elizabeth II](http://twitter.com/search?q=Queen+Elizabeth+II) | N/A |
-| 46 | [Single Market](http://twitter.com/search?q=Single+Market) | N/A |
-| 47 | [Obasanjo](http://twitter.com/search?q=Obasanjo) | Obasanjo is a Yoruba name meaning "the king has returned". It is the surname of Olusegun Obasanjo, a former Nigerian military leader and two-term president. |
-| 48 | [Speaker](http://twitter.com/search?q=Speaker) | Speaker is a person who speaks in public, usually to an audience. It can also refer to the device used to amplify sound, such as a loudspeaker. |
+| 44 | [Iron Leaves](http://twitter.com/search?q=Iron+Leaves) | N/A |
+| 45 | [Ursula](http://twitter.com/search?q=Ursula) | N/A |
+| 46 | [UK and EU](http://twitter.com/search?q=UK+and+EU) | N/A |
+| 47 | [Levein](http://twitter.com/search?q=Levein) | N/A |
+| 48 | [Sinn Fein](http://twitter.com/search?q=Sinn+Fein) | N/A |
 
 
 

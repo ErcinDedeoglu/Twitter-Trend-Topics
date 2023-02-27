@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pittsburgh
 
-📆 Last Updated: `2023-02-27 20:17:07 UTC`
+📆 Last Updated: `2023-02-27 21:16:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [kevin hart](http://twitter.com/search?q=kevin+hart) | N/A |
-| 2 | [#GOGimmighoul](http://twitter.com/search?q=%23GOGimmighoul) | N/A |
-| 3 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
-| 4 | [#DeadSpaceMarkerMerchSweeps](http://twitter.com/search?q=%23DeadSpaceMarkerMerchSweeps) | N/A |
-| 5 | [#RizzToken](http://twitter.com/search?q=%23RizzToken) | N/A |
-| 6 | [Suicune](http://twitter.com/search?q=Suicune) | N/A |
-| 7 | [Walking Wake](http://twitter.com/search?q=Walking+Wake) | N/A |
-| 8 | [John Marvin](http://twitter.com/search?q=John+Marvin) | N/A |
-| 9 | [HOIL](http://twitter.com/search?q=HOIL) | N/A |
-| 10 | [Maino](http://twitter.com/search?q=Maino) | N/A |
-| 11 | [Beyond the Summit](http://twitter.com/search?q=Beyond+the+Summit) | N/A |
-| 12 | [Wesson](http://twitter.com/search?q=Wesson) | N/A |
-| 13 | [McCabe](http://twitter.com/search?q=McCabe) | N/A |
-| 14 | [Reedy Creek](http://twitter.com/search?q=Reedy+Creek) | N/A |
-| 15 | [Iron Leaves](http://twitter.com/search?q=Iron+Leaves) | N/A |
-| 16 | [Tink Hence](http://twitter.com/search?q=Tink+Hence) | N/A |
-| 17 | [Jarren Duran](http://twitter.com/search?q=Jarren+Duran) | N/A |
-| 18 | [Buckhead](http://twitter.com/search?q=Buckhead) | N/A |
-| 19 | [Extreme MAGA Republicans](http://twitter.com/search?q=Extreme+MAGA+Republicans) | N/A |
-| 20 | [Bryan Cranston](http://twitter.com/search?q=Bryan+Cranston) | N/A |
-| 21 | [Yellen](http://twitter.com/search?q=Yellen) | N/A |
-| 22 | [David Hogg](http://twitter.com/search?q=David+Hogg) | N/A |
-| 23 | [Jim Acosta](http://twitter.com/search?q=Jim+Acosta) | N/A |
-| 24 | [MATT MERCER](http://twitter.com/search?q=MATT+MERCER) | N/A |
-| 25 | [Maui Ahuna](http://twitter.com/search?q=Maui+Ahuna) | N/A |
-| 26 | [Joe Rudolph](http://twitter.com/search?q=Joe+Rudolph) | N/A |
-| 27 | [Starfire](http://twitter.com/search?q=Starfire) | N/A |
-| 28 | [Sedition Panda](http://twitter.com/search?q=Sedition+Panda) | N/A |
-| 29 | [Kodachrome](http://twitter.com/search?q=Kodachrome) | N/A |
-| 30 | [Dubas](http://twitter.com/search?q=Dubas) | N/A |
-| 31 | [Dominican Independence Day](http://twitter.com/search?q=Dominican+Independence+Day) | N/A |
-| 32 | [McShay](http://twitter.com/search?q=McShay) | N/A |
-| 33 | [Sneed](http://twitter.com/search?q=Sneed) | Sneed is a slang term used to describe someone who is sneaky or untrustworthy. It can also be used to describe someone who is up to no good. |
-| 34 | [Player of the Week](http://twitter.com/search?q=Player+of+the+Week) | N/A |
-| 35 | [Emilia Clarke](http://twitter.com/search?q=Emilia+Clarke) | N/A |
-| 36 | [Wander Franco](http://twitter.com/search?q=Wander+Franco) | N/A |
-| 37 | [CFPB](http://twitter.com/search?q=CFPB) | N/A |
-| 38 | [Virizion](http://twitter.com/search?q=Virizion) | N/A |
-| 39 | [AP Poll](http://twitter.com/search?q=AP+Poll) | The AP Poll (or the Associated Press Poll) is a weekly ranking of the top 25 college football teams in the United States, as determined by a panel of sportswriters and broadcasters. The poll is conducted by the Associated Press (AP), a news agency based in New York City. The rankings are released each Sunday during the college football season, with the exception of the final poll, which is released after the conclusion of the College Football Playoff National Championship. |
-| 40 | [Paradox](http://twitter.com/search?q=Paradox) | N/A |
-| 41 | [Fnatic](http://twitter.com/search?q=Fnatic) | N/A |
-| 42 | [Brendan Donovan](http://twitter.com/search?q=Brendan+Donovan) | N/A |
-| 43 | [Joyce Manor](http://twitter.com/search?q=Joyce+Manor) | N/A |
-| 44 | [The Supreme Court](http://twitter.com/search?q=The+Supreme+Court) | N/A |
-| 45 | [Matt Olson](http://twitter.com/search?q=Matt+Olson) | N/A |
-| 46 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
-| 47 | [David Peterson](http://twitter.com/search?q=David+Peterson) | N/A |
-| 48 | [Alec Bohm](http://twitter.com/search?q=Alec+Bohm) | N/A |
-| 49 | [Tornado Watch](http://twitter.com/search?q=Tornado+Watch) | N/A |
+| 1 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 2 | [#BETCrypto](http://twitter.com/search?q=%23BETCrypto) | N/A |
+| 3 | [Carson Wentz](http://twitter.com/search?q=Carson+Wentz) | Carson Wentz is an American football quarterback for the Philadelphia Eagles of the National Football League (NFL). He was drafted by the Eagles with the second overall pick in the 2016 NFL Draft. He played college football at North Dakota State University, where he won five NCAA FCS National Championships. |
+| 4 | [kevin hart](http://twitter.com/search?q=kevin+hart) | N/A |
+| 5 | [#GOGimmighoul](http://twitter.com/search?q=%23GOGimmighoul) | N/A |
+| 6 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
+| 7 | [John Marvin](http://twitter.com/search?q=John+Marvin) | N/A |
+| 8 | [#DeadSpaceMarkerMerchSweeps](http://twitter.com/search?q=%23DeadSpaceMarkerMerchSweeps) | N/A |
+| 9 | [Walking Wake](http://twitter.com/search?q=Walking+Wake) | N/A |
+| 10 | [Wesson](http://twitter.com/search?q=Wesson) | N/A |
+| 11 | [DA SLEEZE](http://twitter.com/search?q=DA+SLEEZE) | N/A |
+| 12 | [HOIL](http://twitter.com/search?q=HOIL) | N/A |
+| 13 | [Suicune](http://twitter.com/search?q=Suicune) | N/A |
+| 14 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
+| 15 | [Beyond the Summit](http://twitter.com/search?q=Beyond+the+Summit) | N/A |
+| 16 | [Maino](http://twitter.com/search?q=Maino) | N/A |
+| 17 | [Jim Acosta](http://twitter.com/search?q=Jim+Acosta) | N/A |
+| 18 | [Fnatic](http://twitter.com/search?q=Fnatic) | N/A |
+| 19 | [Reedy Creek](http://twitter.com/search?q=Reedy+Creek) | N/A |
+| 20 | [John Kirby](http://twitter.com/search?q=John+Kirby) | N/A |
+| 21 | [Evan White](http://twitter.com/search?q=Evan+White) | N/A |
+| 22 | [Iron Leaves](http://twitter.com/search?q=Iron+Leaves) | N/A |
+| 23 | [Buckhead](http://twitter.com/search?q=Buckhead) | N/A |
+| 24 | [Scaloni](http://twitter.com/search?q=Scaloni) | N/A |
+| 25 | [McCabe](http://twitter.com/search?q=McCabe) | N/A |
+| 26 | [Yellen](http://twitter.com/search?q=Yellen) | N/A |
+| 27 | [Player of the Week](http://twitter.com/search?q=Player+of+the+Week) | N/A |
+| 28 | [Emilia Clarke](http://twitter.com/search?q=Emilia+Clarke) | N/A |
+| 29 | [Tink Hence](http://twitter.com/search?q=Tink+Hence) | N/A |
+| 30 | [Bobby McCain](http://twitter.com/search?q=Bobby+McCain) | N/A |
+| 31 | [Steven Seagal](http://twitter.com/search?q=Steven+Seagal) | N/A |
+| 32 | [Bryan Cranston](http://twitter.com/search?q=Bryan+Cranston) | N/A |
+| 33 | [Extreme MAGA Republicans](http://twitter.com/search?q=Extreme+MAGA+Republicans) | N/A |
+| 34 | [Ronny Mauricio](http://twitter.com/search?q=Ronny+Mauricio) | N/A |
+| 35 | [David Hogg](http://twitter.com/search?q=David+Hogg) | N/A |
+| 36 | [Matt Mercer](http://twitter.com/search?q=Matt+Mercer) | N/A |
+| 37 | [Dominican Independence Day](http://twitter.com/search?q=Dominican+Independence+Day) | N/A |
+| 38 | [Bryce Young](http://twitter.com/search?q=Bryce+Young) | Bryce Young is a name of a person. It is derived from the Old English words "bryce" meaning "proud" and "young" meaning "youthful". The name can be used for both males and females. |
+| 39 | [Sedition Panda](http://twitter.com/search?q=Sedition+Panda) | N/A |
+| 40 | [Kodachrome](http://twitter.com/search?q=Kodachrome) | N/A |
+| 41 | [McShay](http://twitter.com/search?q=McShay) | N/A |
+| 42 | [Jarren Duran](http://twitter.com/search?q=Jarren+Duran) | N/A |
+| 43 | [Boosie](http://twitter.com/search?q=Boosie) | N/A |
+| 44 | [Virizion](http://twitter.com/search?q=Virizion) | N/A |
+| 45 | [Starfire](http://twitter.com/search?q=Starfire) | N/A |
+| 46 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
+| 47 | [Sneed](http://twitter.com/search?q=Sneed) | Sneed is a slang term used to describe someone who is sneaky or untrustworthy. It can also be used to describe someone who is up to no good. |
+| 48 | [Joe Rudolph](http://twitter.com/search?q=Joe+Rudolph) | N/A |
+| 49 | [Better Off Dead](http://twitter.com/search?q=Better+Off+Dead) | N/A |
 
 
 

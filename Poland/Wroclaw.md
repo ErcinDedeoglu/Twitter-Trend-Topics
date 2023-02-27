@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Wroclaw
 
-📆 Last Updated: `2023-02-27 20:16:34 UTC`
+📆 Last Updated: `2023-02-27 21:15:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Poland](</Poland>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#tubijeserceeuropy](http://twitter.com/search?q=%23tubijeserceeuropy) | N/A |
-| 2 | [#krwawaropa](http://twitter.com/search?q=%23krwawaropa) | N/A |
-| 3 | [#ZAGMIE](http://twitter.com/search?q=%23ZAGMIE) | N/A |
+| 2 | [Marcin Oleksy](http://twitter.com/search?q=Marcin+Oleksy) | N/A |
+| 3 | [#krwawaropa](http://twitter.com/search?q=%23krwawaropa) | N/A |
 | 4 | [#highleague](http://twitter.com/search?q=%23highleague) | N/A |
-| 5 | [#ObajtekDoDymisji](http://twitter.com/search?q=%23ObajtekDoDymisji) | N/A |
-| 6 | [Orlen](http://twitter.com/search?q=Orlen) | N/A |
+| 5 | [#mjakmiłość](http://twitter.com/search?q=%23mjakmi%c5%82o%c5%9b%c4%87) | N/A |
+| 6 | [#ObajtekDoDymisji](http://twitter.com/search?q=%23ObajtekDoDymisji) | N/A |
 | 7 | [Pabianicach](http://twitter.com/search?q=Pabianicach) | N/A |
-| 8 | [Jann](http://twitter.com/search?q=Jann) | N/A |
-| 9 | [Blanka](http://twitter.com/search?q=Blanka) | N/A |
-| 10 | [Eurowizji](http://twitter.com/search?q=Eurowizji) | N/A |
-| 11 | [Rosji](http://twitter.com/search?q=Rosji) | N/A |
-| 12 | [Łącki](http://twitter.com/search?q=%c5%81%c4%85cki) | N/A |
+| 8 | [Orlen](http://twitter.com/search?q=Orlen) | N/A |
+| 9 | [Eurowizji](http://twitter.com/search?q=Eurowizji) | N/A |
+| 10 | [Blanka](http://twitter.com/search?q=Blanka) | N/A |
+| 11 | [Jann](http://twitter.com/search?q=Jann) | N/A |
+| 12 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
 | 13 | [Tuska](http://twitter.com/search?q=Tuska) | N/A |
-| 14 | [Morderstwo](http://twitter.com/search?q=Morderstwo) | N/A |
-| 15 | [Mieszkanie](http://twitter.com/search?q=Mieszkanie) | N/A |
-| 16 | [Razem](http://twitter.com/search?q=Razem) | N/A |
-| 17 | [Kredyt 0%](http://twitter.com/search?q=Kredyt+0%25) | N/A |
-| 18 | [Włodzimierza K.](http://twitter.com/search?q=W%c5%82odzimierza+K.) | N/A |
+| 14 | [Ferenca Puskasa](http://twitter.com/search?q=Ferenca+Puskasa) | N/A |
+| 15 | [Rosji](http://twitter.com/search?q=Rosji) | N/A |
+| 16 | [Morderstwo](http://twitter.com/search?q=Morderstwo) | N/A |
+| 17 | [Razem](http://twitter.com/search?q=Razem) | N/A |
+| 18 | [Łącki](http://twitter.com/search?q=%c5%81%c4%85cki) | N/A |
 | 19 | [Obajtka](http://twitter.com/search?q=Obajtka) | N/A |
-| 20 | [PRAWEM](http://twitter.com/search?q=PRAWEM) | N/A |
-| 21 | [Lewicy](http://twitter.com/search?q=Lewicy) | N/A |
-| 22 | [Bayer Full](http://twitter.com/search?q=Bayer+Full) | N/A |
-| 23 | [Kosowski](http://twitter.com/search?q=Kosowski) | N/A |
-| 24 | [Seicento](http://twitter.com/search?q=Seicento) | N/A |
-| 25 | [Beaty Szydło](http://twitter.com/search?q=Beaty+Szyd%c5%82o) | N/A |
-| 26 | [Sebastian Kościelnik](http://twitter.com/search?q=Sebastian+Ko%c5%9bcielnik) | N/A |
-| 27 | [Śląska](http://twitter.com/search?q=%c5%9al%c4%85ska) | N/A |
-| 28 | [Tomczyk](http://twitter.com/search?q=Tomczyk) | N/A |
-| 29 | [Zabójstwo](http://twitter.com/search?q=Zab%c3%b3jstwo) | N/A |
-| 30 | [nataszy](http://twitter.com/search?q=nataszy) | N/A |
-| 31 | [Puchar Biedronki](http://twitter.com/search?q=Puchar+Biedronki) | N/A |
-| 32 | [Xiaomi](http://twitter.com/search?q=Xiaomi) | N/A |
-| 33 | [Kropiwnicki](http://twitter.com/search?q=Kropiwnicki) | N/A |
-| 34 | [Auchan](http://twitter.com/search?q=Auchan) | N/A |
-| 35 | [Matysiak](http://twitter.com/search?q=Matysiak) | N/A |
-| 36 | [Stankiewicz](http://twitter.com/search?q=Stankiewicz) | N/A |
-| 37 | [Kaziu](http://twitter.com/search?q=Kaziu) | N/A |
-| 38 | [almerią](http://twitter.com/search?q=almeri%c4%85) | N/A |
-| 39 | [marsylii](http://twitter.com/search?q=marsylii) | N/A |
-| 40 | [Operze Wrocławskiej](http://twitter.com/search?q=Operze+Wroc%c5%82awskiej) | N/A |
-| 41 | [Lotos](http://twitter.com/search?q=Lotos) | N/A |
-| 42 | [yeboaha](http://twitter.com/search?q=yeboaha) | N/A |
-| 43 | [El Clasico](http://twitter.com/search?q=El+Clasico) | N/A |
-| 44 | [Zupy](http://twitter.com/search?q=Zupy) | N/A |
-| 45 | [marchwiński](http://twitter.com/search?q=marchwi%c5%84ski) | N/A |
+| 20 | [Włodzimierza K.](http://twitter.com/search?q=W%c5%82odzimierza+K.) | N/A |
+| 21 | [Seicento](http://twitter.com/search?q=Seicento) | N/A |
+| 22 | [Kosowski](http://twitter.com/search?q=Kosowski) | N/A |
+| 23 | [Bayer Full](http://twitter.com/search?q=Bayer+Full) | N/A |
+| 24 | [Lewicy](http://twitter.com/search?q=Lewicy) | N/A |
+| 25 | [Asia](http://twitter.com/search?q=Asia) | N/A |
+| 26 | [Beaty Szydło](http://twitter.com/search?q=Beaty+Szyd%c5%82o) | N/A |
+| 27 | [Mieszkanie](http://twitter.com/search?q=Mieszkanie) | N/A |
+| 28 | [Śląska](http://twitter.com/search?q=%c5%9al%c4%85ska) | N/A |
+| 29 | [PRAWEM](http://twitter.com/search?q=PRAWEM) | N/A |
+| 30 | [Zabójstwo](http://twitter.com/search?q=Zab%c3%b3jstwo) | N/A |
+| 31 | [Sebastian Kościelnik](http://twitter.com/search?q=Sebastian+Ko%c5%9bcielnik) | N/A |
+| 32 | [Tomczyk](http://twitter.com/search?q=Tomczyk) | N/A |
+| 33 | [Xiaomi](http://twitter.com/search?q=Xiaomi) | N/A |
+| 34 | [Kropiwnicki](http://twitter.com/search?q=Kropiwnicki) | N/A |
+| 35 | [Platforma](http://twitter.com/search?q=Platforma) | N/A |
+| 36 | [Puchar Biedronki](http://twitter.com/search?q=Puchar+Biedronki) | N/A |
+| 37 | [Obiecanki](http://twitter.com/search?q=Obiecanki) | N/A |
+| 38 | [Auchan](http://twitter.com/search?q=Auchan) | N/A |
+| 39 | [Kaziu](http://twitter.com/search?q=Kaziu) | N/A |
+| 40 | [almerią](http://twitter.com/search?q=almeri%c4%85) | N/A |
+| 41 | [marsylii](http://twitter.com/search?q=marsylii) | N/A |
+| 42 | [Weszło](http://twitter.com/search?q=Wesz%c5%82o) | N/A |
+| 43 | [Lotos](http://twitter.com/search?q=Lotos) | N/A |
+| 44 | [Stankiewicz](http://twitter.com/search?q=Stankiewicz) | N/A |
+| 45 | [yeboaha](http://twitter.com/search?q=yeboaha) | N/A |
 | 46 | [Łukaszenka](http://twitter.com/search?q=%c5%81ukaszenka) | N/A |
-| 47 | [Długosz](http://twitter.com/search?q=D%c5%82ugosz) | N/A |
-| 48 | [Miedzi](http://twitter.com/search?q=Miedzi) | N/A |
-| 49 | [Asia](http://twitter.com/search?q=Asia) | N/A |
-| 50 | [Orange](http://twitter.com/search?q=Orange) | N/A |
+| 47 | [Pcimia](http://twitter.com/search?q=Pcimia) | N/A |
+| 48 | [El Clasico](http://twitter.com/search?q=El+Clasico) | N/A |
+| 49 | [Zupy](http://twitter.com/search?q=Zupy) | N/A |
+| 50 | [Robert Lewandowski](http://twitter.com/search?q=Robert+Lewandowski) | N/A |
 
 
 

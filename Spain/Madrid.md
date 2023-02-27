@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Madrid
 
-📆 Last Updated: `2023-02-27 20:16:39 UTC`
+📆 Last Updated: `2023-02-27 21:16:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#yoveosálvame](http://twitter.com/search?q=%23yoveos%c3%a1lvame) | N/A |
-| 2 | [Jacobo Ostos](http://twitter.com/search?q=Jacobo+Ostos) | N/A |
-| 3 | [#MWC2023](http://twitter.com/search?q=%23MWC2023) | N/A |
-| 4 | [#LaVelada3](http://twitter.com/search?q=%23LaVelada3) | N/A |
-| 5 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
-| 6 | [Papi Gavi](http://twitter.com/search?q=Papi+Gavi) | N/A |
-| 7 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
-| 8 | [Fekir](http://twitter.com/search?q=Fekir) | Fekir is a French surname. It is derived from the Old French word fekir, which means "blessed". In English, it can be translated to mean "blessed one". |
-| 9 | [#Pasapalabra713](http://twitter.com/search?q=%23Pasapalabra713) | N/A |
-| 10 | [Metropolitano](http://twitter.com/search?q=Metropolitano) | N/A |
-| 11 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
-| 12 | [#ElCazador669](http://twitter.com/search?q=%23ElCazador669) | N/A |
-| 13 | [Orestes](http://twitter.com/search?q=Orestes) | N/A |
-| 14 | [Alexia](http://twitter.com/search?q=Alexia) | Alexia is a neurological disorder that affects a person's ability to read. It is also known as word blindness or dyslexia. People with Alexia have difficulty understanding written words, even though they may be able to speak and write normally. |
-| 15 | [Achraf Hakimi](http://twitter.com/search?q=Achraf+Hakimi) | N/A |
-| 16 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
-| 17 | [Tito Berni](http://twitter.com/search?q=Tito+Berni) | N/A |
-| 18 | [Pokémon](http://twitter.com/search?q=Pok%c3%a9mon) | N/A |
-| 19 | [Suicune](http://twitter.com/search?q=Suicune) | N/A |
-| 20 | [Almas](http://twitter.com/search?q=Almas) | N/A |
-| 21 | [Fray Perico](http://twitter.com/search?q=Fray+Perico) | N/A |
-| 22 | [Wanda](http://twitter.com/search?q=Wanda) | N/A |
-| 23 | [Los Cármenes](http://twitter.com/search?q=Los+C%c3%a1rmenes) | N/A |
-| 24 | [El Cristo](http://twitter.com/search?q=El+Cristo) | N/A |
-| 25 | [Posición Alonso](http://twitter.com/search?q=Posici%c3%b3n+Alonso) | N/A |
-| 26 | [Posición Sainz](http://twitter.com/search?q=Posici%c3%b3n+Sainz) | N/A |
-| 27 | [Irlanda del Norte](http://twitter.com/search?q=Irlanda+del+Norte) | N/A |
-| 28 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
-| 29 | [Juan Muñoz](http://twitter.com/search?q=Juan+Mu%c3%b1oz) | N/A |
-| 30 | [Virizion](http://twitter.com/search?q=Virizion) | N/A |
-| 31 | [DLCs](http://twitter.com/search?q=DLCs) | N/A |
-| 32 | [Garrapata](http://twitter.com/search?q=Garrapata) | N/A |
-| 33 | [Escalonilla](http://twitter.com/search?q=Escalonilla) | N/A |
-| 34 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 35 | [Vilamarxant](http://twitter.com/search?q=Vilamarxant) | N/A |
-| 36 | [Adara](http://twitter.com/search?q=Adara) | N/A |
-| 37 | [Aragorn](http://twitter.com/search?q=Aragorn) | N/A |
-| 38 | [Raquel Mosquera](http://twitter.com/search?q=Raquel+Mosquera) | N/A |
-| 39 | [Jagger](http://twitter.com/search?q=Jagger) | Jagger is a slang term used to describe someone who is stylish and fashionable. It can also be used to describe someone who is confident and cool. |
-| 40 | [Frigenti](http://twitter.com/search?q=Frigenti) | N/A |
-| 41 | [Paldea](http://twitter.com/search?q=Paldea) | N/A |
-| 42 | [Dulce](http://twitter.com/search?q=Dulce) | N/A |
-| 43 | [Escarlata](http://twitter.com/search?q=Escarlata) | N/A |
-| 44 | [Catedral](http://twitter.com/search?q=Catedral) | N/A |
-| 45 | [Ginés](http://twitter.com/search?q=Gin%c3%a9s) | N/A |
-| 46 | [James Bond](http://twitter.com/search?q=James+Bond) | N/A |
-| 47 | [Socialismo](http://twitter.com/search?q=Socialismo) | N/A |
-| 48 | [Salado](http://twitter.com/search?q=Salado) | N/A |
-| 49 | [Descanse](http://twitter.com/search?q=Descanse) | Descanse is a Spanish word that means "rest" or "relax". It is often used as a way to wish someone a good rest or to tell them to take a break. |
-| 50 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
+| 1 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 2 | [#yoveosálvame](http://twitter.com/search?q=%23yoveos%c3%a1lvame) | N/A |
+| 3 | [#PSOE](http://twitter.com/search?q=%23PSOE) | N/A |
+| 4 | [Mediador](http://twitter.com/search?q=Mediador) | N/A |
+| 5 | [#MWC23](http://twitter.com/search?q=%23MWC23) | N/A |
+| 6 | [#LaVelada3](http://twitter.com/search?q=%23LaVelada3) | N/A |
+| 7 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
+| 8 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
+| 9 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
+| 10 | [Viruzz](http://twitter.com/search?q=Viruzz) | N/A |
+| 11 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
+| 12 | [Papi Gavi](http://twitter.com/search?q=Papi+Gavi) | N/A |
+| 13 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 14 | [Luzu](http://twitter.com/search?q=Luzu) | Luzu is a Spanish word that means light. It is often used to refer to a bright, cheerful, and optimistic attitude. |
+| 15 | [#firstdates27f](http://twitter.com/search?q=%23firstdates27f) | N/A |
+| 16 | [Fekir](http://twitter.com/search?q=Fekir) | Fekir is a French surname. It is derived from the Old French word fekir, which means "blessed". In English, it can be translated to mean "blessed one". |
+| 17 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
+| 18 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 19 | [Metropolitano](http://twitter.com/search?q=Metropolitano) | N/A |
+| 20 | [Sarina](http://twitter.com/search?q=Sarina) | Sarina is a feminine given name of Italian origin. It is derived from the Latin name Sarah, which means "princess". |
+| 21 | [Alexia](http://twitter.com/search?q=Alexia) | Alexia is a neurological disorder that affects a person's ability to read. It is also known as word blindness or dyslexia. People with Alexia have difficulty understanding written words, even though they may be able to speak and write normally. |
+| 22 | [Portu](http://twitter.com/search?q=Portu) | N/A |
+| 23 | [Jagger](http://twitter.com/search?q=Jagger) | Jagger is a slang term used to describe someone who is stylish and fashionable. It can also be used to describe someone who is confident and cool. |
+| 24 | [Scaloni](http://twitter.com/search?q=Scaloni) | N/A |
+| 25 | [Tito Berni](http://twitter.com/search?q=Tito+Berni) | N/A |
+| 26 | [Coscu](http://twitter.com/search?q=Coscu) | N/A |
+| 27 | [Achraf Hakimi](http://twitter.com/search?q=Achraf+Hakimi) | N/A |
+| 28 | [Enes Ünal](http://twitter.com/search?q=Enes+%c3%9cnal) | N/A |
+| 29 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
+| 30 | [Pedro Piqueras](http://twitter.com/search?q=Pedro+Piqueras) | N/A |
+| 31 | [Orestes](http://twitter.com/search?q=Orestes) | N/A |
+| 32 | [Aston Villa](http://twitter.com/search?q=Aston+Villa) | Aston Villa is an English professional football club based in Aston, Birmingham. The club competes in the Championship, the second tier of English football. Aston Villa have won seven league titles, seven FA Cups, five League Cups and one European Cup. The club's traditional kit colours are claret and blue and their nickname is The Villans. |
+| 33 | [Setién](http://twitter.com/search?q=Seti%c3%a9n) | Setién is a Spanish surname derived from the Latin name Saturninus. It is a patronymic name meaning "son of Saturn". |
+| 34 | [Pokémon](http://twitter.com/search?q=Pok%c3%a9mon) | N/A |
+| 35 | [Rubius](http://twitter.com/search?q=Rubius) | Rubius is a Latin word meaning "red". It is often used to describe the color of hair, eyes, or skin. |
+| 36 | [Suicune](http://twitter.com/search?q=Suicune) | N/A |
+| 37 | [Almas](http://twitter.com/search?q=Almas) | N/A |
+| 38 | [Los Cármenes](http://twitter.com/search?q=Los+C%c3%a1rmenes) | N/A |
+| 39 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 40 | [Wanda](http://twitter.com/search?q=Wanda) | N/A |
+| 41 | [Bustamante](http://twitter.com/search?q=Bustamante) | N/A |
+| 42 | [Fray Perico](http://twitter.com/search?q=Fray+Perico) | N/A |
+| 43 | [Momo](http://twitter.com/search?q=Momo) | Momo is a Japanese word that means "peach". It is also used as a nickname for someone who is cute or has a peachy complexion. |
+| 44 | [Posición Alonso](http://twitter.com/search?q=Posici%c3%b3n+Alonso) | N/A |
+| 45 | [El Cristo](http://twitter.com/search?q=El+Cristo) | N/A |
+| 46 | [Quini](http://twitter.com/search?q=Quini) | N/A |
+| 47 | [Posición Sainz](http://twitter.com/search?q=Posici%c3%b3n+Sainz) | N/A |
+| 48 | [Balón de Oro](http://twitter.com/search?q=Bal%c3%b3n+de+Oro) | N/A |
+| 49 | [Adara](http://twitter.com/search?q=Adara) | N/A |
+| 50 | [lola indigo](http://twitter.com/search?q=lola+indigo) | N/A |
 
 
 

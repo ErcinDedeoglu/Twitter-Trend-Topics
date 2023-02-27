@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lagos
 
-📆 Last Updated: `2023-02-27 20:16:51 UTC`
+📆 Last Updated: `2023-02-27 21:16:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Nigeria](</Nigeria>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#electionresults2023](http://twitter.com/search?q=%23electionresults2023) | N/A |
-| 2 | [Royals](http://twitter.com/search?q=Royals) | N/A |
-| 3 | [#NigerianElections2023](http://twitter.com/search?q=%23NigerianElections2023) | N/A |
-| 4 | [Obasanjo](http://twitter.com/search?q=Obasanjo) | Obasanjo is a Yoruba name meaning "the king has returned". It is the surname of Olusegun Obasanjo, a former Nigerian military leader and two-term president. |
-| 5 | [#INECElectionResult](http://twitter.com/search?q=%23INECElectionResult) | N/A |
+| 1 | [Obasanjo](http://twitter.com/search?q=Obasanjo) | Obasanjo is a Yoruba name meaning "the king has returned". It is the surname of Olusegun Obasanjo, a former Nigerian military leader and two-term president. |
+| 2 | [Ebubu](http://twitter.com/search?q=Ebubu) | Ebubu is a Nigerian language spoken by the Ebubu people in Rivers State, Nigeria. It is a dialect of the Igbo language and its meaning in English is "people". |
+| 3 | [Royals](http://twitter.com/search?q=Royals) | N/A |
+| 4 | [#electionresults2023](http://twitter.com/search?q=%23electionresults2023) | N/A |
+| 5 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
 | 6 | [Thabana](http://twitter.com/search?q=Thabana) | Thabana is a Sesotho word meaning “to be brave” or “to have courage”. It is often used as a rallying cry for people to stand up and take action in the face of adversity. |
-| 7 | [Kaniva](http://twitter.com/search?q=Kaniva) | N/A |
-| 8 | [Tsatsi](http://twitter.com/search?q=Tsatsi) | N/A |
-| 9 | [Blaqleng](http://twitter.com/search?q=Blaqleng) | Blaqleng is a term used in the Caribbean to describe a type of dance music that combines elements of hip-hop, reggae, and soca. The name is derived from the words "black" and "leng," which refer to the African and Caribbean influences in the music. In English, Blaqleng can be translated as "black rhythm." |
-| 10 | [#benue](http://twitter.com/search?q=%23benue) | N/A |
-| 11 | [#TinubuCannotWin](http://twitter.com/search?q=%23TinubuCannotWin) | N/A |
-| 12 | [Airtel](http://twitter.com/search?q=Airtel) | N/A |
-| 13 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
-| 14 | [Khosicle](http://twitter.com/search?q=Khosicle) | Khosicle is a portmanteau of the words “khaki” and “popsicle”. It is used to describe a type of clothing item that combines the look of khaki pants with the comfort of a popsicle. The term is often used to describe shorts, pants, or other clothing items that have a relaxed fit and are made from lightweight fabrics. |
-| 15 | [Juvonne](http://twitter.com/search?q=Juvonne) | N/A |
-| 16 | [Enugu](http://twitter.com/search?q=Enugu) | N/A |
+| 7 | [#NigerianElections2023](http://twitter.com/search?q=%23NigerianElections2023) | N/A |
+| 8 | [Yelisa](http://twitter.com/search?q=Yelisa) | Yelisa is a Spanish name derived from the Hebrew name Elisheva, which means “God is my oath”. In English, it can be translated to mean “God is my promise”. |
+| 9 | [#INECElectionResult](http://twitter.com/search?q=%23INECElectionResult) | N/A |
+| 10 | [Kaniva](http://twitter.com/search?q=Kaniva) | N/A |
+| 11 | [Tsatsi](http://twitter.com/search?q=Tsatsi) | N/A |
+| 12 | [#TinubusWalkToVictory](http://twitter.com/search?q=%23TinubusWalkToVictory) | N/A |
+| 13 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
+| 14 | [#benue](http://twitter.com/search?q=%23benue) | N/A |
+| 15 | [Blaqleng](http://twitter.com/search?q=Blaqleng) | Blaqleng is a term used in the Caribbean to describe a type of dance music that combines elements of hip-hop, reggae, and soca. The name is derived from the words "black" and "leng," which refer to the African and Caribbean influences in the music. In English, Blaqleng can be translated as "black rhythm." |
+| 16 | [Airtel](http://twitter.com/search?q=Airtel) | N/A |
 | 17 | [Maurice Iwu](http://twitter.com/search?q=Maurice+Iwu) | N/A |
-| 18 | [LP and PDP](http://twitter.com/search?q=LP+and+PDP) | N/A |
-| 19 | [Imagination](http://twitter.com/search?q=Imagination) | N/A |
-| 20 | [Frank Nweke](http://twitter.com/search?q=Frank+Nweke) | N/A |
-| 21 | [Plateau](http://twitter.com/search?q=Plateau) | N/A |
-| 22 | [Natasha](http://twitter.com/search?q=Natasha) | N/A |
-| 23 | [Bello](http://twitter.com/search?q=Bello) | N/A |
-| 24 | [Oyigbo](http://twitter.com/search?q=Oyigbo) | N/A |
-| 25 | [Nasarawa](http://twitter.com/search?q=Nasarawa) | N/A |
-| 26 | [INEC Chairman](http://twitter.com/search?q=INEC+Chairman) | N/A |
-| 27 | [Electoral Act](http://twitter.com/search?q=Electoral+Act) | N/A |
-| 28 | [Emeka](http://twitter.com/search?q=Emeka) | N/A |
-| 29 | [After God](http://twitter.com/search?q=After+God) | N/A |
-| 30 | [Givenchy](http://twitter.com/search?q=Givenchy) | N/A |
-| 31 | [National Collation Centre](http://twitter.com/search?q=National+Collation+Centre) | N/A |
-| 32 | [11th of March](http://twitter.com/search?q=11th+of+March) | N/A |
-| 33 | [Edeoga](http://twitter.com/search?q=Edeoga) | N/A |
-| 34 | [Igbos in Lagos](http://twitter.com/search?q=Igbos+in+Lagos) | N/A |
-| 35 | [Dele Alake](http://twitter.com/search?q=Dele+Alake) | N/A |
-| 36 | [Sanwo](http://twitter.com/search?q=Sanwo) | N/A |
-| 37 | [Okowa](http://twitter.com/search?q=Okowa) | N/A |
-| 38 | [Mahmood](http://twitter.com/search?q=Mahmood) | N/A |
-| 39 | [Mr Governor](http://twitter.com/search?q=Mr+Governor) | N/A |
-| 40 | [Congratulations Hon](http://twitter.com/search?q=Congratulations+Hon) | N/A |
-| 41 | [Waziri](http://twitter.com/search?q=Waziri) | N/A |
-| 42 | [APGA](http://twitter.com/search?q=APGA) | N/A |
-| 43 | [Rigged](http://twitter.com/search?q=Rigged) | N/A |
-| 44 | [PDP and LP](http://twitter.com/search?q=PDP+and+LP) | N/A |
-| 45 | [APC and INEC](http://twitter.com/search?q=APC+and+INEC) | N/A |
-| 46 | [Jandor](http://twitter.com/search?q=Jandor) | N/A |
-| 47 | [Kenneth Okonkwo](http://twitter.com/search?q=Kenneth+Okonkwo) | Kenneth Okonkwo is a Nigerian name, derived from the Igbo language. It is composed of two elements: Kenneth, which means “handsome” or “good-looking”, and Okonkwo, which means “brave” or “valiant”. Together, the name Kenneth Okonkwo can be translated to mean “handsome and brave”. |
-| 48 | [Jide](http://twitter.com/search?q=Jide) | N/A |
-| 49 | [Debo](http://twitter.com/search?q=Debo) | N/A |
-| 50 | [Jigawa](http://twitter.com/search?q=Jigawa) | N/A |
+| 18 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
+| 19 | [Juvonne](http://twitter.com/search?q=Juvonne) | N/A |
+| 20 | [Khosicle](http://twitter.com/search?q=Khosicle) | Khosicle is a portmanteau of the words “khaki” and “popsicle”. It is used to describe a type of clothing item that combines the look of khaki pants with the comfort of a popsicle. The term is often used to describe shorts, pants, or other clothing items that have a relaxed fit and are made from lightweight fabrics. |
+| 21 | [Enugu](http://twitter.com/search?q=Enugu) | N/A |
+| 22 | [Imagination](http://twitter.com/search?q=Imagination) | N/A |
+| 23 | [PU by PU](http://twitter.com/search?q=PU+by+PU) | N/A |
+| 24 | [Natasha](http://twitter.com/search?q=Natasha) | N/A |
+| 25 | [After God](http://twitter.com/search?q=After+God) | N/A |
+| 26 | [Festus](http://twitter.com/search?q=Festus) | N/A |
+| 27 | [Frank Nweke](http://twitter.com/search?q=Frank+Nweke) | N/A |
+| 28 | [LP and PDP](http://twitter.com/search?q=LP+and+PDP) | N/A |
+| 29 | [Nasarawa](http://twitter.com/search?q=Nasarawa) | N/A |
+| 30 | [Emeka](http://twitter.com/search?q=Emeka) | N/A |
+| 31 | [INEC Chairman](http://twitter.com/search?q=INEC+Chairman) | N/A |
+| 32 | [Oyigbo](http://twitter.com/search?q=Oyigbo) | N/A |
+| 33 | [Mahmoud](http://twitter.com/search?q=Mahmoud) | N/A |
+| 34 | [11th of March](http://twitter.com/search?q=11th+of+March) | N/A |
+| 35 | [Electoral Act](http://twitter.com/search?q=Electoral+Act) | N/A |
+| 36 | [Waziri](http://twitter.com/search?q=Waziri) | N/A |
+| 37 | [Dele Alake](http://twitter.com/search?q=Dele+Alake) | N/A |
+| 38 | [INEC and APC](http://twitter.com/search?q=INEC+and+APC) | N/A |
+| 39 | [Sanwo](http://twitter.com/search?q=Sanwo) | N/A |
+| 40 | [Okowa](http://twitter.com/search?q=Okowa) | N/A |
+| 41 | [National Collation Centre](http://twitter.com/search?q=National+Collation+Centre) | N/A |
+| 42 | [My Governor](http://twitter.com/search?q=My+Governor) | N/A |
+| 43 | [APGA](http://twitter.com/search?q=APGA) | N/A |
+| 44 | [Rigged](http://twitter.com/search?q=Rigged) | N/A |
+| 45 | [PDP and LP](http://twitter.com/search?q=PDP+and+LP) | N/A |
+| 46 | [Jigawa](http://twitter.com/search?q=Jigawa) | N/A |
+| 47 | [Congratulations Hon](http://twitter.com/search?q=Congratulations+Hon) | N/A |
+| 48 | [Igbos in Lagos](http://twitter.com/search?q=Igbos+in+Lagos) | N/A |
+| 49 | [APC and INEC](http://twitter.com/search?q=APC+and+INEC) | N/A |
+| 50 | [Kenneth Okonkwo](http://twitter.com/search?q=Kenneth+Okonkwo) | Kenneth Okonkwo is a Nigerian name, derived from the Igbo language. It is composed of two elements: Kenneth, which means “handsome” or “good-looking”, and Okonkwo, which means “brave” or “valiant”. Together, the name Kenneth Okonkwo can be translated to mean “handsome and brave”. |
 
 
 

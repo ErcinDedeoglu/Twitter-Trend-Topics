@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Luis Potosí
 
-📆 Last Updated: `2023-02-27 20:16:28 UTC`
+📆 Last Updated: `2023-02-27 21:15:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,51 +18,51 @@ This is top 50 for [Mexico](</Mexico>)
 | 1 | [#ElINENoSeToca](http://twitter.com/search?q=%23ElINENoSeToca) | N/A |
 | 2 | [#MarchaINE](http://twitter.com/search?q=%23MarchaINE) | N/A |
 | 3 | [Zócalo](http://twitter.com/search?q=Z%c3%b3calo) | N/A |
-| 4 | [#MiVotoNoSeToca](http://twitter.com/search?q=%23MiVotoNoSeToca) | N/A |
-| 5 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
-| 6 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
-| 7 | [Nuevo Laredo](http://twitter.com/search?q=Nuevo+Laredo) | N/A |
-| 8 | [Viva México](http://twitter.com/search?q=Viva+M%c3%a9xico) | N/A |
-| 9 | [Vitacilina](http://twitter.com/search?q=Vitacilina) | N/A |
-| 10 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 11 | [Ana Gabriel](http://twitter.com/search?q=Ana+Gabriel) | N/A |
-| 12 | [fogel estamos contigo](http://twitter.com/search?q=fogel+estamos+contigo) | N/A |
-| 13 | [Plan B](http://twitter.com/search?q=Plan+B) | N/A |
-| 14 | [Democracia](http://twitter.com/search?q=Democracia) | Democracia is a Spanish word meaning democracy. It is used to refer to a system of government in which the people have the power to choose their leaders through free and fair elections. Democracia is based on the principle of majority rule, with the majority of citizens having a say in how their country is run. |
-| 15 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
-| 16 | [Papi Gavi](http://twitter.com/search?q=Papi+Gavi) | N/A |
-| 17 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
-| 18 | [Palacio Nacional](http://twitter.com/search?q=Palacio+Nacional) | N/A |
-| 19 | [Acarreados](http://twitter.com/search?q=Acarreados) | N/A |
-| 20 | [Ampeter](http://twitter.com/search?q=Ampeter) | N/A |
-| 21 | [Palenque](http://twitter.com/search?q=Palenque) | N/A |
-| 22 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
-| 23 | [Momon](http://twitter.com/search?q=Momon) | N/A |
-| 24 | [Ardido](http://twitter.com/search?q=Ardido) | N/A |
-| 25 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 26 | [Puro](http://twitter.com/search?q=Puro) | N/A |
-| 27 | [José Vasconcelos](http://twitter.com/search?q=Jos%c3%a9+Vasconcelos) | N/A |
-| 28 | [Lionel Scaloni](http://twitter.com/search?q=Lionel+Scaloni) | N/A |
-| 29 | [RACE WEEK](http://twitter.com/search?q=RACE+WEEK) | N/A |
-| 30 | [Farsa](http://twitter.com/search?q=Farsa) | N/A |
-| 31 | [Batres](http://twitter.com/search?q=Batres) | N/A |
-| 32 | [Almería](http://twitter.com/search?q=Almer%c3%ada) | Almería is a city in the southeastern region of Spain. It is the capital of the province of Almería and is located on the Mediterranean Sea. In English, Almería means "The Watchtower". |
-| 33 | [Beatriz Pagés](http://twitter.com/search?q=Beatriz+Pag%c3%a9s) | N/A |
-| 34 | [Día Mundial](http://twitter.com/search?q=D%c3%ada+Mundial) | N/A |
-| 35 | [fuerza velocijumper](http://twitter.com/search?q=fuerza+velocijumper) | N/A |
-| 36 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 37 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
-| 38 | [Perú](http://twitter.com/search?q=Per%c3%ba) | Perú is the official name of a country in South America. It is bordered by Ecuador and Colombia to the north, Brazil and Bolivia to the east, Chile to the south, and the Pacific Ocean to the west. The name Perú comes from a word in the native Quechua language meaning "land of abundance." |
-| 39 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
-| 40 | [Ronaldinho](http://twitter.com/search?q=Ronaldinho) | N/A |
-| 41 | [Jiménez](http://twitter.com/search?q=Jim%c3%a9nez) | N/A |
-| 42 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
-| 43 | [Himno Nacional](http://twitter.com/search?q=Himno+Nacional) | N/A |
-| 44 | [Turquía](http://twitter.com/search?q=Turqu%c3%ada) | Turquía is the Spanish name for Turkey, a country located in the Middle East and southeastern Europe. In English, it is simply referred to as Turkey. |
-| 45 | [Grupo Firme](http://twitter.com/search?q=Grupo+Firme) | N/A |
-| 46 | [Lunes 27](http://twitter.com/search?q=Lunes+27) | N/A |
-| 47 | [Aluxes](http://twitter.com/search?q=Aluxes) | N/A |
-| 48 | [Reforma](http://twitter.com/search?q=Reforma) | N/A |
+| 4 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
+| 5 | [#MiVotoNoSeToca](http://twitter.com/search?q=%23MiVotoNoSeToca) | N/A |
+| 6 | [#LaVelada3](http://twitter.com/search?q=%23LaVelada3) | N/A |
+| 7 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
+| 8 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
+| 9 | [Luzu](http://twitter.com/search?q=Luzu) | Luzu is a Spanish word that means light. It is often used to refer to a bright, cheerful, and optimistic attitude. |
+| 10 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 11 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 12 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
+| 13 | [Ana Gabriel](http://twitter.com/search?q=Ana+Gabriel) | N/A |
+| 14 | [Nuevo Laredo](http://twitter.com/search?q=Nuevo+Laredo) | N/A |
+| 15 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 16 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 17 | [Vitacilina](http://twitter.com/search?q=Vitacilina) | N/A |
+| 18 | [fogel estamos contigo](http://twitter.com/search?q=fogel+estamos+contigo) | N/A |
+| 19 | [Viva México](http://twitter.com/search?q=Viva+M%c3%a9xico) | N/A |
+| 20 | [Plan B](http://twitter.com/search?q=Plan+B) | N/A |
+| 21 | [Democracia](http://twitter.com/search?q=Democracia) | Democracia is a Spanish word meaning democracy. It is used to refer to a system of government in which the people have the power to choose their leaders through free and fair elections. Democracia is based on the principle of majority rule, with the majority of citizens having a say in how their country is run. |
+| 22 | [Lionel Scaloni](http://twitter.com/search?q=Lionel+Scaloni) | N/A |
+| 23 | [Texas](http://twitter.com/search?q=Texas) | N/A |
+| 24 | [Palacio Nacional](http://twitter.com/search?q=Palacio+Nacional) | N/A |
+| 25 | [Puskas](http://twitter.com/search?q=Puskas) | N/A |
+| 26 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 27 | [Papi Gavi](http://twitter.com/search?q=Papi+Gavi) | N/A |
+| 28 | [Darío Celis](http://twitter.com/search?q=Dar%c3%ado+Celis) | N/A |
+| 29 | [Acarreados](http://twitter.com/search?q=Acarreados) | N/A |
+| 30 | [Shelao](http://twitter.com/search?q=Shelao) | N/A |
+| 31 | [Ampeter](http://twitter.com/search?q=Ampeter) | N/A |
+| 32 | [Palenque](http://twitter.com/search?q=Palenque) | N/A |
+| 33 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 34 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 35 | [Momon](http://twitter.com/search?q=Momon) | N/A |
+| 36 | [Ardido](http://twitter.com/search?q=Ardido) | N/A |
+| 37 | [Puro](http://twitter.com/search?q=Puro) | N/A |
+| 38 | [José Vasconcelos](http://twitter.com/search?q=Jos%c3%a9+Vasconcelos) | N/A |
+| 39 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
+| 40 | [RACE WEEK](http://twitter.com/search?q=RACE+WEEK) | N/A |
+| 41 | [Carson Wentz](http://twitter.com/search?q=Carson+Wentz) | Carson Wentz is an American football quarterback for the Philadelphia Eagles of the National Football League (NFL). He was drafted by the Eagles with the second overall pick in the 2016 NFL Draft. He played college football at North Dakota State University, where he won five NCAA FCS National Championships. |
+| 42 | [Ovidio Guzmán](http://twitter.com/search?q=Ovidio+Guzm%c3%a1n) | N/A |
+| 43 | [Beatriz Pagés](http://twitter.com/search?q=Beatriz+Pag%c3%a9s) | N/A |
+| 44 | [Farsa](http://twitter.com/search?q=Farsa) | N/A |
+| 45 | [Marcin Oleksy](http://twitter.com/search?q=Marcin+Oleksy) | N/A |
+| 46 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 47 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
+| 48 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
 
 
 
