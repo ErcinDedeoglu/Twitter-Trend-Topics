@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Wroclaw
 
-📆 Last Updated: `2023-02-27 05:16:03 UTC`
+📆 Last Updated: `2023-02-27 06:16:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [Poland](</Poland>)
 | 3 | [#krwawaropa](http://twitter.com/search?q=%23krwawaropa) | N/A |
 | 4 | [Jann](http://twitter.com/search?q=Jann) | N/A |
 | 5 | [Orlen](http://twitter.com/search?q=Orlen) | N/A |
-| 6 | [Blanka](http://twitter.com/search?q=Blanka) | N/A |
-| 7 | [#śląlpo](http://twitter.com/search?q=%23%c5%9bl%c4%85lpo) | N/A |
-| 8 | [#tauronpucharpolski](http://twitter.com/search?q=%23tauronpucharpolski) | N/A |
+| 6 | [#śląlpo](http://twitter.com/search?q=%23%c5%9bl%c4%85lpo) | N/A |
+| 7 | [#tauronpucharpolski](http://twitter.com/search?q=%23tauronpucharpolski) | N/A |
+| 8 | [Blanka](http://twitter.com/search?q=Blanka) | N/A |
 | 9 | [Eurowizji](http://twitter.com/search?q=Eurowizji) | N/A |
-| 10 | [piotr żyła](http://twitter.com/search?q=piotr+%c5%bcy%c5%82a) | N/A |
-| 11 | [Obajtek](http://twitter.com/search?q=Obajtek) | N/A |
-| 12 | [Morderstwo](http://twitter.com/search?q=Morderstwo) | N/A |
-| 13 | [felivers](http://twitter.com/search?q=felivers) | N/A |
-| 14 | [marsylii](http://twitter.com/search?q=marsylii) | N/A |
-| 15 | [ziyecha](http://twitter.com/search?q=ziyecha) | N/A |
-| 16 | [Almeria](http://twitter.com/search?q=Almeria) | N/A |
-| 17 | [natasza](http://twitter.com/search?q=natasza) | N/A |
-| 18 | [Ukrainę](http://twitter.com/search?q=Ukrain%c4%99) | N/A |
-| 19 | [marchewa](http://twitter.com/search?q=marchewa) | N/A |
-| 20 | [zupa](http://twitter.com/search?q=zupa) | N/A |
+| 10 | [Morderstwo](http://twitter.com/search?q=Morderstwo) | N/A |
+| 11 | [piotr żyła](http://twitter.com/search?q=piotr+%c5%bcy%c5%82a) | N/A |
+| 12 | [Obajtek](http://twitter.com/search?q=Obajtek) | N/A |
+| 13 | [Cześć](http://twitter.com/search?q=Cze%c5%9b%c4%87) | N/A |
+| 14 | [felivers](http://twitter.com/search?q=felivers) | N/A |
+| 15 | [marsylii](http://twitter.com/search?q=marsylii) | N/A |
+| 16 | [ziyecha](http://twitter.com/search?q=ziyecha) | N/A |
+| 17 | [Almeria](http://twitter.com/search?q=Almeria) | N/A |
+| 18 | [natasza](http://twitter.com/search?q=natasza) | N/A |
+| 19 | [Ukrainę](http://twitter.com/search?q=Ukrain%c4%99) | N/A |
+| 20 | [Marchewa](http://twitter.com/search?q=Marchewa) | N/A |
 | 21 | [kropiwnicki](http://twitter.com/search?q=kropiwnicki) | N/A |
 | 22 | [holec](http://twitter.com/search?q=holec) | N/A |
 | 23 | [hobiego](http://twitter.com/search?q=hobiego) | N/A |
-| 24 | [Marchwiński](http://twitter.com/search?q=Marchwi%c5%84ski) | N/A |
-| 25 | [Amaral](http://twitter.com/search?q=Amaral) | N/A |
-| 26 | [murawski](http://twitter.com/search?q=murawski) | N/A |
-| 27 | [Edyta Górniak](http://twitter.com/search?q=Edyta+G%c3%b3rniak) | N/A |
-| 28 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 29 | [zaksa](http://twitter.com/search?q=zaksa) | N/A |
-| 30 | [alicja](http://twitter.com/search?q=alicja) | N/A |
-| 31 | [yeboah](http://twitter.com/search?q=yeboah) | N/A |
-| 32 | [rebocho](http://twitter.com/search?q=rebocho) | N/A |
-| 33 | [Lotos](http://twitter.com/search?q=Lotos) | N/A |
-| 34 | [Bachmut](http://twitter.com/search?q=Bachmut) | N/A |
-| 35 | [piotrek](http://twitter.com/search?q=piotrek) | N/A |
-| 36 | [piotrka](http://twitter.com/search?q=piotrka) | N/A |
-| 37 | [Ochman](http://twitter.com/search?q=Ochman) | N/A |
-| 38 | [jankowski](http://twitter.com/search?q=jankowski) | N/A |
-| 39 | [dominik dudek](http://twitter.com/search?q=dominik+dudek) | N/A |
-| 40 | [śląska](http://twitter.com/search?q=%c5%9bl%c4%85ska) | N/A |
-| 41 | [zupy](http://twitter.com/search?q=zupy) | N/A |
-| 42 | [Hubert Hurkacz](http://twitter.com/search?q=Hubert+Hurkacz) | N/A |
-| 43 | [Gladiator](http://twitter.com/search?q=Gladiator) | Gladiator is a 2000 historical epic film directed by Ridley Scott. It stars Russell Crowe as the fictional character Maximus Decimus Meridius, a Roman general who is betrayed and enslaved, and then fights in the gladiatorial arena to gain his freedom. The term "gladiator" refers to a professional fighter in ancient Rome who fought against other gladiators or wild animals for the entertainment of the public. |
-| 44 | [Makabu](http://twitter.com/search?q=Makabu) | N/A |
-| 45 | [Torre](http://twitter.com/search?q=Torre) | N/A |
-| 46 | [przyjaźń](http://twitter.com/search?q=przyja%c5%ba%c5%84) | N/A |
-| 47 | [kliczko](http://twitter.com/search?q=kliczko) | N/A |
-| 48 | [edzia](http://twitter.com/search?q=edzia) | N/A |
-| 49 | [Kraft](http://twitter.com/search?q=Kraft) | N/A |
-| 50 | [jędraszewski](http://twitter.com/search?q=j%c4%99draszewski) | N/A |
+| 24 | [Zupa](http://twitter.com/search?q=Zupa) | N/A |
+| 25 | [murawski](http://twitter.com/search?q=murawski) | N/A |
+| 26 | [Marchwiński](http://twitter.com/search?q=Marchwi%c5%84ski) | N/A |
+| 27 | [zaksa](http://twitter.com/search?q=zaksa) | N/A |
+| 28 | [yeboah](http://twitter.com/search?q=yeboah) | N/A |
+| 29 | [Lotos](http://twitter.com/search?q=Lotos) | N/A |
+| 30 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 31 | [Bachmut](http://twitter.com/search?q=Bachmut) | N/A |
+| 32 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
+| 33 | [Zabójstwo](http://twitter.com/search?q=Zab%c3%b3jstwo) | N/A |
+| 34 | [piotrka](http://twitter.com/search?q=piotrka) | N/A |
+| 35 | [Ochman](http://twitter.com/search?q=Ochman) | N/A |
+| 36 | [amarala](http://twitter.com/search?q=amarala) | N/A |
+| 37 | [jankowski](http://twitter.com/search?q=jankowski) | N/A |
+| 38 | [dominik dudek](http://twitter.com/search?q=dominik+dudek) | N/A |
+| 39 | [Ofiara](http://twitter.com/search?q=Ofiara) | N/A |
+| 40 | [Alicja](http://twitter.com/search?q=Alicja) | N/A |
+| 41 | [Hubert Hurkacz](http://twitter.com/search?q=Hubert+Hurkacz) | N/A |
+| 42 | [Edyta Górniak](http://twitter.com/search?q=Edyta+G%c3%b3rniak) | N/A |
+| 43 | [Baiden](http://twitter.com/search?q=Baiden) | N/A |
+| 44 | [Gladiator](http://twitter.com/search?q=Gladiator) | Gladiator is a 2000 historical epic film directed by Ridley Scott. It stars Russell Crowe as the fictional character Maximus Decimus Meridius, a Roman general who is betrayed and enslaved, and then fights in the gladiatorial arena to gain his freedom. The term "gladiator" refers to a professional fighter in ancient Rome who fought against other gladiators or wild animals for the entertainment of the public. |
+| 45 | [Makabu](http://twitter.com/search?q=Makabu) | N/A |
+| 46 | [Torre](http://twitter.com/search?q=Torre) | N/A |
+| 47 | [przyjaźń](http://twitter.com/search?q=przyja%c5%ba%c5%84) | N/A |
+| 48 | [Mińskiem](http://twitter.com/search?q=Mi%c5%84skiem) | N/A |
+| 49 | [edzia](http://twitter.com/search?q=edzia) | N/A |
+| 50 | [Kraft](http://twitter.com/search?q=Kraft) | N/A |
 
 
 
