@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Antonio
 
-📆 Last Updated: `2023-02-27 15:16:37 UTC`
+📆 Last Updated: `2023-02-27 16:16:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 2 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
-| 3 | [West Texas](http://twitter.com/search?q=West+Texas) | N/A |
-| 4 | [Scott Adams](http://twitter.com/search?q=Scott+Adams) | N/A |
-| 5 | [#PokemonPresents](http://twitter.com/search?q=%23PokemonPresents) | N/A |
-| 6 | [Pokémon](http://twitter.com/search?q=Pok%c3%a9mon) | N/A |
-| 7 | [Pokémon](http://twitter.com/search?q=Pok%c3%a9mon) | N/A |
-| 8 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 9 | [Walking Wake](http://twitter.com/search?q=Walking+Wake) | N/A |
-| 10 | [#mondaythoughts](http://twitter.com/search?q=%23mondaythoughts) | #MondayThoughts is a hashtag used on social media to share thoughts, ideas, and reflections on the start of the week. It is often used to encourage others to have a positive outlook on the week ahead. |
-| 11 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
-| 12 | [SV DLC](http://twitter.com/search?q=SV+DLC) | N/A |
-| 13 | [Mystery Dungeon](http://twitter.com/search?q=Mystery+Dungeon) | N/A |
-| 14 | [Virizion](http://twitter.com/search?q=Virizion) | N/A |
-| 15 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
-| 16 | [The DLC](http://twitter.com/search?q=The+DLC) | N/A |
-| 17 | [Maino](http://twitter.com/search?q=Maino) | N/A |
-| 18 | [Haslam](http://twitter.com/search?q=Haslam) | N/A |
-| 19 | [Dominican Independence Day](http://twitter.com/search?q=Dominican+Independence+Day) | N/A |
-| 20 | [Marc Lasry](http://twitter.com/search?q=Marc+Lasry) | N/A |
-| 21 | [Bryan Cranston](http://twitter.com/search?q=Bryan+Cranston) | N/A |
-| 22 | [Kalos](http://twitter.com/search?q=Kalos) | N/A |
-| 23 | [Ho-oh](http://twitter.com/search?q=Ho-oh) | N/A |
-| 24 | [Moselle](http://twitter.com/search?q=Moselle) | N/A |
-| 25 | [Fauci](http://twitter.com/search?q=Fauci) | N/A |
-| 26 | [Area Zero](http://twitter.com/search?q=Area+Zero) | N/A |
-| 27 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 28 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
-| 29 | [New Week](http://twitter.com/search?q=New+Week) | N/A |
-| 30 | [Master P](http://twitter.com/search?q=Master+P) | N/A |
-| 31 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
-| 32 | [Hisuian Zoroark](http://twitter.com/search?q=Hisuian+Zoroark) | N/A |
-| 33 | [Buckhead](http://twitter.com/search?q=Buckhead) | N/A |
-| 34 | [Paldea](http://twitter.com/search?q=Paldea) | N/A |
-| 35 | [Daily Quordle 399](http://twitter.com/search?q=Daily+Quordle+399) | N/A |
-| 36 | [Elissa Slotkin](http://twitter.com/search?q=Elissa+Slotkin) | N/A |
-| 37 | [DLCs](http://twitter.com/search?q=DLCs) | N/A |
-| 38 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
-| 39 | [CFPB](http://twitter.com/search?q=CFPB) | N/A |
-| 40 | [Another Monday](http://twitter.com/search?q=Another+Monday) | N/A |
-| 41 | [Game Freak](http://twitter.com/search?q=Game+Freak) | N/A |
-| 42 | [Johto](http://twitter.com/search?q=Johto) | N/A |
-| 43 | [Bede](http://twitter.com/search?q=Bede) | N/A |
-| 44 | [Happy Birthday Chelsea](http://twitter.com/search?q=Happy+Birthday+Chelsea) | N/A |
-| 45 | [Galar](http://twitter.com/search?q=Galar) | N/A |
-| 46 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 47 | [Snorlax](http://twitter.com/search?q=Snorlax) | N/A |
-| 48 | [Deion](http://twitter.com/search?q=Deion) | N/A |
-| 49 | [John Steinbeck](http://twitter.com/search?q=John+Steinbeck) | N/A |
+| 2 | [Sengun](http://twitter.com/search?q=Sengun) | Sengun is a Japanese term that refers to the Imperial Japanese Army during World War II. It literally translates to "war-supporting army" and was used to describe the Japanese military forces that fought in the war. |
+| 3 | [Silas](http://twitter.com/search?q=Silas) | N/A |
+| 4 | [West Texas](http://twitter.com/search?q=West+Texas) | N/A |
+| 5 | [Scott Adams](http://twitter.com/search?q=Scott+Adams) | N/A |
+| 6 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
+| 7 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
+| 8 | [Pokémon](http://twitter.com/search?q=Pok%c3%a9mon) | N/A |
+| 9 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 10 | [Walking Wake](http://twitter.com/search?q=Walking+Wake) | N/A |
+| 11 | [#mondaymorning](http://twitter.com/search?q=%23mondaymorning) | N/A |
+| 12 | [#mondaythoughts](http://twitter.com/search?q=%23mondaythoughts) | #MondayThoughts is a hashtag used on social media to share thoughts, ideas, and reflections on the start of the week. It is often used to encourage others to have a positive outlook on the week ahead. |
+| 13 | [SV DLC](http://twitter.com/search?q=SV+DLC) | N/A |
+| 14 | [Mystery Dungeon](http://twitter.com/search?q=Mystery+Dungeon) | N/A |
+| 15 | [Virizion](http://twitter.com/search?q=Virizion) | N/A |
+| 16 | [Maino](http://twitter.com/search?q=Maino) | N/A |
+| 17 | [Good Monday](http://twitter.com/search?q=Good+Monday) | Good Monday is an expression used to express enthusiasm for the start of a new week. It is typically used as a greeting or salutation when wishing someone a good start to the week. |
+| 18 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
+| 19 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
+| 20 | [Dominican Independence Day](http://twitter.com/search?q=Dominican+Independence+Day) | N/A |
+| 21 | [Buckhead](http://twitter.com/search?q=Buckhead) | N/A |
+| 22 | [Bryan Cranston](http://twitter.com/search?q=Bryan+Cranston) | N/A |
+| 23 | [The DLC](http://twitter.com/search?q=The+DLC) | N/A |
+| 24 | [Haslam](http://twitter.com/search?q=Haslam) | N/A |
+| 25 | [Momotaro](http://twitter.com/search?q=Momotaro) | N/A |
+| 26 | [Terapagos](http://twitter.com/search?q=Terapagos) | N/A |
+| 27 | [Kalos](http://twitter.com/search?q=Kalos) | N/A |
+| 28 | [Marc Lasry](http://twitter.com/search?q=Marc+Lasry) | N/A |
+| 29 | [Fauci](http://twitter.com/search?q=Fauci) | N/A |
+| 30 | [Ho-Oh](http://twitter.com/search?q=Ho-Oh) | N/A |
+| 31 | [CFPB](http://twitter.com/search?q=CFPB) | N/A |
+| 32 | [Reedy Creek](http://twitter.com/search?q=Reedy+Creek) | N/A |
+| 33 | [Hogg](http://twitter.com/search?q=Hogg) | N/A |
+| 34 | [DLCs](http://twitter.com/search?q=DLCs) | N/A |
+| 35 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
+| 36 | [Area Zero](http://twitter.com/search?q=Area+Zero) | N/A |
+| 37 | [Hisuian Zoroark](http://twitter.com/search?q=Hisuian+Zoroark) | N/A |
+| 38 | [Moselle](http://twitter.com/search?q=Moselle) | N/A |
+| 39 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 40 | [Master P](http://twitter.com/search?q=Master+P) | N/A |
+| 41 | [Paldea](http://twitter.com/search?q=Paldea) | N/A |
+| 42 | [Zebstrika](http://twitter.com/search?q=Zebstrika) | N/A |
+| 43 | [Terry Holland](http://twitter.com/search?q=Terry+Holland) | N/A |
+| 44 | [Game Freak](http://twitter.com/search?q=Game+Freak) | N/A |
+| 45 | [Yokai Watch](http://twitter.com/search?q=Yokai+Watch) | N/A |
+| 46 | [Daily Quordle 399](http://twitter.com/search?q=Daily+Quordle+399) | N/A |
+| 47 | [Happy Birthday Chelsea](http://twitter.com/search?q=Happy+Birthday+Chelsea) | N/A |
+| 48 | [International Polar Bear Day](http://twitter.com/search?q=International+Polar+Bear+Day) | N/A |
+| 49 | [Read Across America](http://twitter.com/search?q=Read+Across+America) | N/A |
 
 
 

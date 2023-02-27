@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Atlanta
 
-📆 Last Updated: `2023-02-27 15:16:31 UTC`
+📆 Last Updated: `2023-02-27 16:16:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [#RHOP](http://twitter.com/search?q=%23RHOP) | #RHOP stands for The Real Housewives of Potomac, which is a reality television series that airs on the Bravo network. It follows the lives of six women living in Potomac, Maryland, as they navigate their personal and professional lives. |
 | 2 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 3 | [#PokemonPresents](http://twitter.com/search?q=%23PokemonPresents) | N/A |
-| 4 | [Pokémon](http://twitter.com/search?q=Pok%c3%a9mon) | N/A |
-| 5 | [Pokémon](http://twitter.com/search?q=Pok%c3%a9mon) | N/A |
-| 6 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 7 | [Walking Wake](http://twitter.com/search?q=Walking+Wake) | N/A |
-| 8 | [#mondaythoughts](http://twitter.com/search?q=%23mondaythoughts) | #MondayThoughts is a hashtag used on social media to share thoughts, ideas, and reflections on the start of the week. It is often used to encourage others to have a positive outlook on the week ahead. |
-| 9 | [SV DLC](http://twitter.com/search?q=SV+DLC) | N/A |
-| 10 | [Mystery Dungeon](http://twitter.com/search?q=Mystery+Dungeon) | N/A |
-| 11 | [Virizion](http://twitter.com/search?q=Virizion) | N/A |
-| 12 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
-| 13 | [The DLC](http://twitter.com/search?q=The+DLC) | N/A |
-| 14 | [Maino](http://twitter.com/search?q=Maino) | N/A |
-| 15 | [Haslam](http://twitter.com/search?q=Haslam) | N/A |
+| 3 | [Scott Adams](http://twitter.com/search?q=Scott+Adams) | N/A |
+| 4 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
+| 5 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
+| 6 | [Pokémon](http://twitter.com/search?q=Pok%c3%a9mon) | N/A |
+| 7 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 8 | [Walking Wake](http://twitter.com/search?q=Walking+Wake) | N/A |
+| 9 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
+| 10 | [SV DLC](http://twitter.com/search?q=SV+DLC) | N/A |
+| 11 | [Mystery Dungeon](http://twitter.com/search?q=Mystery+Dungeon) | N/A |
+| 12 | [Virizion](http://twitter.com/search?q=Virizion) | N/A |
+| 13 | [Maino](http://twitter.com/search?q=Maino) | N/A |
+| 14 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
+| 15 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
 | 16 | [Dominican Independence Day](http://twitter.com/search?q=Dominican+Independence+Day) | N/A |
-| 17 | [Marc Lasry](http://twitter.com/search?q=Marc+Lasry) | N/A |
+| 17 | [Buckhead](http://twitter.com/search?q=Buckhead) | N/A |
 | 18 | [Bryan Cranston](http://twitter.com/search?q=Bryan+Cranston) | N/A |
-| 19 | [Kalos](http://twitter.com/search?q=Kalos) | N/A |
-| 20 | [Ho-oh](http://twitter.com/search?q=Ho-oh) | N/A |
-| 21 | [Moselle](http://twitter.com/search?q=Moselle) | N/A |
-| 22 | [Fauci](http://twitter.com/search?q=Fauci) | N/A |
-| 23 | [Area Zero](http://twitter.com/search?q=Area+Zero) | N/A |
-| 24 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 25 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
-| 26 | [New Week](http://twitter.com/search?q=New+Week) | N/A |
-| 27 | [Master P](http://twitter.com/search?q=Master+P) | N/A |
-| 28 | [Hisuian Zoroark](http://twitter.com/search?q=Hisuian+Zoroark) | N/A |
-| 29 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
-| 30 | [Buckhead](http://twitter.com/search?q=Buckhead) | N/A |
-| 31 | [Paldea](http://twitter.com/search?q=Paldea) | N/A |
-| 32 | [Daily Quordle 399](http://twitter.com/search?q=Daily+Quordle+399) | N/A |
-| 33 | [Elissa Slotkin](http://twitter.com/search?q=Elissa+Slotkin) | N/A |
-| 34 | [DLCs](http://twitter.com/search?q=DLCs) | N/A |
-| 35 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
-| 36 | [Another Monday](http://twitter.com/search?q=Another+Monday) | N/A |
-| 37 | [CFPB](http://twitter.com/search?q=CFPB) | N/A |
-| 38 | [Game Freak](http://twitter.com/search?q=Game+Freak) | N/A |
-| 39 | [Johto](http://twitter.com/search?q=Johto) | N/A |
-| 40 | [Bede](http://twitter.com/search?q=Bede) | N/A |
-| 41 | [Happy Birthday Chelsea](http://twitter.com/search?q=Happy+Birthday+Chelsea) | N/A |
-| 42 | [Galar](http://twitter.com/search?q=Galar) | N/A |
-| 43 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 44 | [Snorlax](http://twitter.com/search?q=Snorlax) | N/A |
-| 45 | [Deion](http://twitter.com/search?q=Deion) | N/A |
-| 46 | [John Steinbeck](http://twitter.com/search?q=John+Steinbeck) | N/A |
-| 47 | [SwSh](http://twitter.com/search?q=SwSh) | N/A |
-| 48 | [Switch Online](http://twitter.com/search?q=Switch+Online) | N/A |
-| 49 | [Unite](http://twitter.com/search?q=Unite) | N/A |
-| 50 | [Zacian](http://twitter.com/search?q=Zacian) | N/A |
+| 19 | [The DLC](http://twitter.com/search?q=The+DLC) | N/A |
+| 20 | [Kalos](http://twitter.com/search?q=Kalos) | N/A |
+| 21 | [Haslam](http://twitter.com/search?q=Haslam) | N/A |
+| 22 | [Momotaro](http://twitter.com/search?q=Momotaro) | N/A |
+| 23 | [Terapagos](http://twitter.com/search?q=Terapagos) | N/A |
+| 24 | [Marc Lasry](http://twitter.com/search?q=Marc+Lasry) | N/A |
+| 25 | [Fauci](http://twitter.com/search?q=Fauci) | N/A |
+| 26 | [Ho-Oh](http://twitter.com/search?q=Ho-Oh) | N/A |
+| 27 | [CFPB](http://twitter.com/search?q=CFPB) | N/A |
+| 28 | [Reedy Creek](http://twitter.com/search?q=Reedy+Creek) | N/A |
+| 29 | [Hogg](http://twitter.com/search?q=Hogg) | N/A |
+| 30 | [DLCs](http://twitter.com/search?q=DLCs) | N/A |
+| 31 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
+| 32 | [Area Zero](http://twitter.com/search?q=Area+Zero) | N/A |
+| 33 | [Hisuian Zoroark](http://twitter.com/search?q=Hisuian+Zoroark) | N/A |
+| 34 | [Moselle](http://twitter.com/search?q=Moselle) | N/A |
+| 35 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 36 | [Master P](http://twitter.com/search?q=Master+P) | N/A |
+| 37 | [Paldea](http://twitter.com/search?q=Paldea) | N/A |
+| 38 | [Zebstrika](http://twitter.com/search?q=Zebstrika) | N/A |
+| 39 | [Game Freak](http://twitter.com/search?q=Game+Freak) | N/A |
+| 40 | [Terry Holland](http://twitter.com/search?q=Terry+Holland) | N/A |
+| 41 | [Yokai Watch](http://twitter.com/search?q=Yokai+Watch) | N/A |
+| 42 | [Daily Quordle 399](http://twitter.com/search?q=Daily+Quordle+399) | N/A |
+| 43 | [Happy Birthday Chelsea](http://twitter.com/search?q=Happy+Birthday+Chelsea) | N/A |
+| 44 | [Read Across America](http://twitter.com/search?q=Read+Across+America) | N/A |
+| 45 | [SwSh](http://twitter.com/search?q=SwSh) | N/A |
+| 46 | [Snorlax](http://twitter.com/search?q=Snorlax) | N/A |
+| 47 | [Elissa Slotkin](http://twitter.com/search?q=Elissa+Slotkin) | N/A |
+| 48 | [Champaign](http://twitter.com/search?q=Champaign) | N/A |
+| 49 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 50 | [Galar](http://twitter.com/search?q=Galar) | N/A |
 
 
 

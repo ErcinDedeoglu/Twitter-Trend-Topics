@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Auckland
 
-📆 Last Updated: `2023-02-27 15:16:30 UTC`
+📆 Last Updated: `2023-02-27 16:16:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -37,13 +37,13 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 20 | [Qantas](http://twitter.com/search?q=Qantas) | N/A |
 | 21 | [cam wallace](http://twitter.com/search?q=cam+wallace) | N/A |
 | 22 | [Pokémon](http://twitter.com/search?q=Pok%c3%a9mon) | N/A |
-| 23 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
+| 23 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
 | 24 | [Pākehā](http://twitter.com/search?q=P%c4%81keh%c4%81) | N/A |
 | 25 | [Jane](http://twitter.com/search?q=Jane) | N/A |
 | 26 | [health nz](http://twitter.com/search?q=health+nz) | N/A |
 | 27 | [simon watts](http://twitter.com/search?q=simon+watts) | N/A |
-| 28 | [te whatu ora](http://twitter.com/search?q=te+whatu+ora) | N/A |
-| 29 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
+| 28 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
+| 29 | [Te Whatu Ora](http://twitter.com/search?q=Te+Whatu+Ora) | N/A |
 | 30 | [Woody](http://twitter.com/search?q=Woody) | Woody is a slang term used to describe someone who is strong, tough, and determined. It can also be used to describe someone who is stubborn and unyielding. |
 | 31 | [Councils](http://twitter.com/search?q=Councils) | N/A |
 | 32 | [3 waters](http://twitter.com/search?q=3+waters) | N/A |
@@ -61,9 +61,9 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 44 | [forestry](http://twitter.com/search?q=forestry) | N/A |
 | 45 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
 | 46 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 47 | [Rates](http://twitter.com/search?q=Rates) | N/A |
-| 48 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
-| 49 | [Cocaine Bear](http://twitter.com/search?q=Cocaine+Bear) | Cocaine Bear is an internet meme that originated from a real-life incident in 1985. It refers to a black bear that was found dead in the Great Smoky Mountains National Park in Tennessee, USA. The bear had ingested over 70 pounds of cocaine that had been dropped from an airplane by drug smugglers. The phrase "Cocaine Bear" is used to refer to any situation where someone or something has taken on more than they can handle. |
+| 47 | [RUSHTON ROULETTE](http://twitter.com/search?q=RUSHTON+ROULETTE) | N/A |
+| 48 | [Rates](http://twitter.com/search?q=Rates) | N/A |
+| 49 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
 
 
 

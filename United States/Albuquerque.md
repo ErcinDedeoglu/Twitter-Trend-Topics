@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Albuquerque
 
-📆 Last Updated: `2023-02-27 15:16:31 UTC`
+📆 Last Updated: `2023-02-27 16:16:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#PokemonPresents](http://twitter.com/search?q=%23PokemonPresents) | N/A |
+| 1 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
 | 2 | [Pokémon](http://twitter.com/search?q=Pok%c3%a9mon) | N/A |
-| 3 | [Pokémon](http://twitter.com/search?q=Pok%c3%a9mon) | N/A |
-| 4 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 5 | [Walking Wake](http://twitter.com/search?q=Walking+Wake) | N/A |
-| 6 | [#mondaythoughts](http://twitter.com/search?q=%23mondaythoughts) | #MondayThoughts is a hashtag used on social media to share thoughts, ideas, and reflections on the start of the week. It is often used to encourage others to have a positive outlook on the week ahead. |
-| 7 | [SV DLC](http://twitter.com/search?q=SV+DLC) | N/A |
-| 8 | [Mystery Dungeon](http://twitter.com/search?q=Mystery+Dungeon) | N/A |
-| 9 | [Virizion](http://twitter.com/search?q=Virizion) | N/A |
-| 10 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
-| 11 | [The DLC](http://twitter.com/search?q=The+DLC) | N/A |
-| 12 | [Maino](http://twitter.com/search?q=Maino) | N/A |
-| 13 | [Haslam](http://twitter.com/search?q=Haslam) | N/A |
-| 14 | [Dominican Independence Day](http://twitter.com/search?q=Dominican+Independence+Day) | N/A |
-| 15 | [Marc Lasry](http://twitter.com/search?q=Marc+Lasry) | N/A |
-| 16 | [Bryan Cranston](http://twitter.com/search?q=Bryan+Cranston) | N/A |
-| 17 | [Kalos](http://twitter.com/search?q=Kalos) | N/A |
-| 18 | [Ho-Oh](http://twitter.com/search?q=Ho-Oh) | N/A |
-| 19 | [Moselle](http://twitter.com/search?q=Moselle) | N/A |
-| 20 | [Fauci](http://twitter.com/search?q=Fauci) | N/A |
-| 21 | [Area Zero](http://twitter.com/search?q=Area+Zero) | N/A |
-| 22 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 23 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
-| 24 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
-| 25 | [New Week](http://twitter.com/search?q=New+Week) | N/A |
-| 26 | [Master P](http://twitter.com/search?q=Master+P) | N/A |
-| 27 | [Hisuian Zoroark](http://twitter.com/search?q=Hisuian+Zoroark) | N/A |
-| 28 | [Buckhead](http://twitter.com/search?q=Buckhead) | N/A |
-| 29 | [Paldea](http://twitter.com/search?q=Paldea) | N/A |
-| 30 | [Daily Quordle 399](http://twitter.com/search?q=Daily+Quordle+399) | N/A |
-| 31 | [Elissa Slotkin](http://twitter.com/search?q=Elissa+Slotkin) | N/A |
-| 32 | [DLCs](http://twitter.com/search?q=DLCs) | N/A |
-| 33 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
-| 34 | [CFPB](http://twitter.com/search?q=CFPB) | N/A |
-| 35 | [Another Monday](http://twitter.com/search?q=Another+Monday) | N/A |
-| 36 | [Game Freak](http://twitter.com/search?q=Game+Freak) | N/A |
-| 37 | [Johto](http://twitter.com/search?q=Johto) | N/A |
-| 38 | [Bede](http://twitter.com/search?q=Bede) | N/A |
+| 3 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 4 | [Walking Wake](http://twitter.com/search?q=Walking+Wake) | N/A |
+| 5 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
+| 6 | [SV DLC](http://twitter.com/search?q=SV+DLC) | N/A |
+| 7 | [Mystery Dungeon](http://twitter.com/search?q=Mystery+Dungeon) | N/A |
+| 8 | [Virizion](http://twitter.com/search?q=Virizion) | N/A |
+| 9 | [Maino](http://twitter.com/search?q=Maino) | N/A |
+| 10 | [pikachu](http://twitter.com/search?q=pikachu) | N/A |
+| 11 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
+| 12 | [Dominican Independence Day](http://twitter.com/search?q=Dominican+Independence+Day) | N/A |
+| 13 | [Buckhead](http://twitter.com/search?q=Buckhead) | N/A |
+| 14 | [Bryan Cranston](http://twitter.com/search?q=Bryan+Cranston) | N/A |
+| 15 | [The DLC](http://twitter.com/search?q=The+DLC) | N/A |
+| 16 | [Kalos](http://twitter.com/search?q=Kalos) | N/A |
+| 17 | [Haslam](http://twitter.com/search?q=Haslam) | N/A |
+| 18 | [Momotaro](http://twitter.com/search?q=Momotaro) | N/A |
+| 19 | [Terapagos](http://twitter.com/search?q=Terapagos) | N/A |
+| 20 | [Marc Lasry](http://twitter.com/search?q=Marc+Lasry) | N/A |
+| 21 | [Fauci](http://twitter.com/search?q=Fauci) | N/A |
+| 22 | [Ho-Oh](http://twitter.com/search?q=Ho-Oh) | N/A |
+| 23 | [CFPB](http://twitter.com/search?q=CFPB) | N/A |
+| 24 | [Reedy Creek](http://twitter.com/search?q=Reedy+Creek) | N/A |
+| 25 | [Hogg](http://twitter.com/search?q=Hogg) | N/A |
+| 26 | [DLCs](http://twitter.com/search?q=DLCs) | N/A |
+| 27 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
+| 28 | [Area Zero](http://twitter.com/search?q=Area+Zero) | N/A |
+| 29 | [Hisuian Zoroark](http://twitter.com/search?q=Hisuian+Zoroark) | N/A |
+| 30 | [Moselle](http://twitter.com/search?q=Moselle) | N/A |
+| 31 | [Master P](http://twitter.com/search?q=Master+P) | N/A |
+| 32 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 33 | [Paldea](http://twitter.com/search?q=Paldea) | N/A |
+| 34 | [Zebstrika](http://twitter.com/search?q=Zebstrika) | N/A |
+| 35 | [Game Freak](http://twitter.com/search?q=Game+Freak) | N/A |
+| 36 | [Terry Holland](http://twitter.com/search?q=Terry+Holland) | N/A |
+| 37 | [Yokai Watch](http://twitter.com/search?q=Yokai+Watch) | N/A |
+| 38 | [Daily Quordle 399](http://twitter.com/search?q=Daily+Quordle+399) | N/A |
 | 39 | [Happy Birthday Chelsea](http://twitter.com/search?q=Happy+Birthday+Chelsea) | N/A |
-| 40 | [Galar](http://twitter.com/search?q=Galar) | N/A |
-| 41 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 40 | [SwSh](http://twitter.com/search?q=SwSh) | N/A |
+| 41 | [Read Across America](http://twitter.com/search?q=Read+Across+America) | N/A |
 | 42 | [Snorlax](http://twitter.com/search?q=Snorlax) | N/A |
-| 43 | [Deion](http://twitter.com/search?q=Deion) | N/A |
-| 44 | [Unite](http://twitter.com/search?q=Unite) | N/A |
-| 45 | [John Steinbeck](http://twitter.com/search?q=John+Steinbeck) | N/A |
-| 46 | [SwSh](http://twitter.com/search?q=SwSh) | N/A |
-| 47 | [Switch Online](http://twitter.com/search?q=Switch+Online) | N/A |
-| 48 | [Zacian](http://twitter.com/search?q=Zacian) | N/A |
+| 43 | [Elissa Slotkin](http://twitter.com/search?q=Elissa+Slotkin) | N/A |
+| 44 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 45 | [Champaign](http://twitter.com/search?q=Champaign) | N/A |
+| 46 | [Galar](http://twitter.com/search?q=Galar) | N/A |
+| 47 | [New Week](http://twitter.com/search?q=New+Week) | N/A |
+| 48 | [Another Monday](http://twitter.com/search?q=Another+Monday) | N/A |
 
 
 

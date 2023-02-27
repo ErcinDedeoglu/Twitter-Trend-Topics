@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zaragoza
 
-📆 Last Updated: `2023-02-27 15:16:10 UTC`
+📆 Last Updated: `2023-02-27 16:16:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,48 +20,48 @@ This is top 50 for [Spain](</Spain>)
 | 3 | [Suicune](http://twitter.com/search?q=Suicune) | N/A |
 | 4 | [#Xiaomi13Pro](http://twitter.com/search?q=%23Xiaomi13Pro) | N/A |
 | 5 | [Juan Muñoz](http://twitter.com/search?q=Juan+Mu%c3%b1oz) | N/A |
-| 6 | [Garrapata](http://twitter.com/search?q=Garrapata) | N/A |
+| 6 | [Adara](http://twitter.com/search?q=Adara) | N/A |
 | 7 | [#MWC23](http://twitter.com/search?q=%23MWC23) | N/A |
-| 8 | [#GAMEBlackFebruary](http://twitter.com/search?q=%23GAMEBlackFebruary) | N/A |
-| 9 | [Adara](http://twitter.com/search?q=Adara) | N/A |
-| 10 | [DLCs](http://twitter.com/search?q=DLCs) | N/A |
-| 11 | [#MantaPegoteTijuana](http://twitter.com/search?q=%23MantaPegoteTijuana) | N/A |
-| 12 | [Mundo Misterioso](http://twitter.com/search?q=Mundo+Misterioso) | N/A |
-| 13 | [Virizion](http://twitter.com/search?q=Virizion) | N/A |
-| 14 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
-| 15 | [Raquel Mosquera](http://twitter.com/search?q=Raquel+Mosquera) | N/A |
-| 16 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
-| 17 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
-| 18 | [Vilamarxant](http://twitter.com/search?q=Vilamarxant) | N/A |
-| 19 | [Escarlata](http://twitter.com/search?q=Escarlata) | N/A |
-| 20 | [Paldea](http://twitter.com/search?q=Paldea) | N/A |
+| 8 | [Garrapata](http://twitter.com/search?q=Garrapata) | N/A |
+| 9 | [DLCs](http://twitter.com/search?q=DLCs) | N/A |
+| 10 | [Virizion](http://twitter.com/search?q=Virizion) | N/A |
+| 11 | [#GAMEBlackFebruary](http://twitter.com/search?q=%23GAMEBlackFebruary) | N/A |
+| 12 | [#MantaPegoteTijuana](http://twitter.com/search?q=%23MantaPegoteTijuana) | N/A |
+| 13 | [Mundo Misterioso](http://twitter.com/search?q=Mundo+Misterioso) | N/A |
+| 14 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
+| 15 | [Ondulagua](http://twitter.com/search?q=Ondulagua) | N/A |
+| 16 | [Raquel Mosquera](http://twitter.com/search?q=Raquel+Mosquera) | N/A |
+| 17 | [escarlata](http://twitter.com/search?q=escarlata) | N/A |
+| 18 | [pikachu](http://twitter.com/search?q=pikachu) | N/A |
+| 19 | [Paldea](http://twitter.com/search?q=Paldea) | N/A |
+| 20 | [Vilamarxant](http://twitter.com/search?q=Vilamarxant) | N/A |
 | 21 | [Game Freak](http://twitter.com/search?q=Game+Freak) | N/A |
-| 22 | [Salado](http://twitter.com/search?q=Salado) | N/A |
-| 23 | [Dulce](http://twitter.com/search?q=Dulce) | N/A |
-| 24 | [Aragorn](http://twitter.com/search?q=Aragorn) | N/A |
-| 25 | [Johto](http://twitter.com/search?q=Johto) | N/A |
-| 26 | [Unite](http://twitter.com/search?q=Unite) | N/A |
-| 27 | [Tito Berni](http://twitter.com/search?q=Tito+Berni) | N/A |
-| 28 | [Bustamante](http://twitter.com/search?q=Bustamante) | N/A |
-| 29 | [Alexia](http://twitter.com/search?q=Alexia) | Alexia is a neurological disorder that affects a person's ability to read. It is also known as word blindness or dyslexia. People with Alexia have difficulty understanding written words, even though they may be able to speak and write normally. |
-| 30 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
-| 31 | [Irlanda del Norte](http://twitter.com/search?q=Irlanda+del+Norte) | N/A |
-| 32 | [Munuera Montero](http://twitter.com/search?q=Munuera+Montero) | N/A |
-| 33 | [Dembele](http://twitter.com/search?q=Dembele) | Dembele is a surname of West African origin. It is derived from the Mande language and means "peaceful warrior". In English, it can be translated to mean "one who brings peace through strength". |
-| 34 | [Leyendas](http://twitter.com/search?q=Leyendas) | N/A |
-| 35 | [Montmeló](http://twitter.com/search?q=Montmel%c3%b3) | N/A |
-| 36 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
-| 37 | [Ginés](http://twitter.com/search?q=Gin%c3%a9s) | N/A |
-| 38 | [Almas](http://twitter.com/search?q=Almas) | N/A |
-| 39 | [Día Mundial](http://twitter.com/search?q=D%c3%ada+Mundial) | N/A |
-| 40 | [Tarragona](http://twitter.com/search?q=Tarragona) | N/A |
-| 41 | [James Bond](http://twitter.com/search?q=James+Bond) | N/A |
-| 42 | [Martes 28](http://twitter.com/search?q=Martes+28) | N/A |
-| 43 | [Clásico](http://twitter.com/search?q=Cl%c3%a1sico) | N/A |
-| 44 | [Día Internacional de la Mujer](http://twitter.com/search?q=D%c3%ada+Internacional+de+la+Mujer) | N/A |
-| 45 | [Día de Andalucía](http://twitter.com/search?q=D%c3%ada+de+Andaluc%c3%ada) | N/A |
-| 46 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
-| 47 | [El 27](http://twitter.com/search?q=El+27) | N/A |
+| 22 | [El DLC](http://twitter.com/search?q=El+DLC) | N/A |
+| 23 | [Almas](http://twitter.com/search?q=Almas) | N/A |
+| 24 | [Descanse](http://twitter.com/search?q=Descanse) | Descanse is a Spanish word that means "rest" or "relax". It is often used as a way to wish someone a good rest or to tell them to take a break. |
+| 25 | [Dulce](http://twitter.com/search?q=Dulce) | N/A |
+| 26 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
+| 27 | [Salado](http://twitter.com/search?q=Salado) | N/A |
+| 28 | [Ginés](http://twitter.com/search?q=Gin%c3%a9s) | N/A |
+| 29 | [Irlanda del Norte](http://twitter.com/search?q=Irlanda+del+Norte) | N/A |
+| 30 | [Aragorn](http://twitter.com/search?q=Aragorn) | N/A |
+| 31 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
+| 32 | [Unite](http://twitter.com/search?q=Unite) | N/A |
+| 33 | [Tito Berni](http://twitter.com/search?q=Tito+Berni) | N/A |
+| 34 | [Johto](http://twitter.com/search?q=Johto) | N/A |
+| 35 | [Bustamante](http://twitter.com/search?q=Bustamante) | N/A |
+| 36 | [alexia](http://twitter.com/search?q=alexia) | N/A |
+| 37 | [Munuera Montero](http://twitter.com/search?q=Munuera+Montero) | N/A |
+| 38 | [Dembele](http://twitter.com/search?q=Dembele) | Dembele is a surname of West African origin. It is derived from the Mande language and means "peaceful warrior". In English, it can be translated to mean "one who brings peace through strength". |
+| 39 | [Leyendas](http://twitter.com/search?q=Leyendas) | N/A |
+| 40 | [Martes 28](http://twitter.com/search?q=Martes+28) | N/A |
+| 41 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
+| 42 | [Montmeló](http://twitter.com/search?q=Montmel%c3%b3) | N/A |
+| 43 | [Frigenti](http://twitter.com/search?q=Frigenti) | N/A |
+| 44 | [Juliette](http://twitter.com/search?q=Juliette) | Juliette is a French female given name, derived from the Latin Julia. It is a diminutive form of Julia, meaning "youthful" or "downy". |
+| 45 | [Día Mundial](http://twitter.com/search?q=D%c3%ada+Mundial) | N/A |
+| 46 | [James Bond](http://twitter.com/search?q=James+Bond) | N/A |
+| 47 | [Día de Andalucía](http://twitter.com/search?q=D%c3%ada+de+Andaluc%c3%ada) | N/A |
 | 48 | [Mondongo](http://twitter.com/search?q=Mondongo) | N/A |
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Las Vegas
 
-📆 Last Updated: `2023-02-27 15:16:34 UTC`
+📆 Last Updated: `2023-02-27 16:16:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
-| 2 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 3 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 4 | [#PokemonPresents](http://twitter.com/search?q=%23PokemonPresents) | N/A |
-| 5 | [Pokémon](http://twitter.com/search?q=Pok%c3%a9mon) | N/A |
+| 2 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
+| 3 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 4 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 5 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
 | 6 | [Pokémon](http://twitter.com/search?q=Pok%c3%a9mon) | N/A |
 | 7 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
 | 8 | [Walking Wake](http://twitter.com/search?q=Walking+Wake) | N/A |
-| 9 | [#mondaythoughts](http://twitter.com/search?q=%23mondaythoughts) | #MondayThoughts is a hashtag used on social media to share thoughts, ideas, and reflections on the start of the week. It is often used to encourage others to have a positive outlook on the week ahead. |
-| 10 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
+| 9 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
+| 10 | [#mondaythoughts](http://twitter.com/search?q=%23mondaythoughts) | #MondayThoughts is a hashtag used on social media to share thoughts, ideas, and reflections on the start of the week. It is often used to encourage others to have a positive outlook on the week ahead. |
 | 11 | [SV DLC](http://twitter.com/search?q=SV+DLC) | N/A |
 | 12 | [Mystery Dungeon](http://twitter.com/search?q=Mystery+Dungeon) | N/A |
 | 13 | [Virizion](http://twitter.com/search?q=Virizion) | N/A |
-| 14 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
-| 15 | [The DLC](http://twitter.com/search?q=The+DLC) | N/A |
-| 16 | [Maino](http://twitter.com/search?q=Maino) | N/A |
-| 17 | [Haslam](http://twitter.com/search?q=Haslam) | N/A |
+| 14 | [Maino](http://twitter.com/search?q=Maino) | N/A |
+| 15 | [Good Monday](http://twitter.com/search?q=Good+Monday) | Good Monday is an expression used to express enthusiasm for the start of a new week. It is typically used as a greeting or salutation when wishing someone a good start to the week. |
+| 16 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
+| 17 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
 | 18 | [Dominican Independence Day](http://twitter.com/search?q=Dominican+Independence+Day) | N/A |
-| 19 | [Marc Lasry](http://twitter.com/search?q=Marc+Lasry) | N/A |
+| 19 | [Buckhead](http://twitter.com/search?q=Buckhead) | N/A |
 | 20 | [Bryan Cranston](http://twitter.com/search?q=Bryan+Cranston) | N/A |
-| 21 | [Kalos](http://twitter.com/search?q=Kalos) | N/A |
-| 22 | [Ho-Oh](http://twitter.com/search?q=Ho-Oh) | N/A |
-| 23 | [Moselle](http://twitter.com/search?q=Moselle) | N/A |
-| 24 | [Fauci](http://twitter.com/search?q=Fauci) | N/A |
-| 25 | [Area Zero](http://twitter.com/search?q=Area+Zero) | N/A |
-| 26 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 27 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
-| 28 | [New Week](http://twitter.com/search?q=New+Week) | N/A |
-| 29 | [Master P](http://twitter.com/search?q=Master+P) | N/A |
-| 30 | [Hisuian Zoroark](http://twitter.com/search?q=Hisuian+Zoroark) | N/A |
-| 31 | [Buckhead](http://twitter.com/search?q=Buckhead) | N/A |
-| 32 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
-| 33 | [Paldea](http://twitter.com/search?q=Paldea) | N/A |
-| 34 | [Daily Quordle 399](http://twitter.com/search?q=Daily+Quordle+399) | N/A |
-| 35 | [Elissa Slotkin](http://twitter.com/search?q=Elissa+Slotkin) | N/A |
-| 36 | [DLCs](http://twitter.com/search?q=DLCs) | N/A |
-| 37 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
-| 38 | [Another Monday](http://twitter.com/search?q=Another+Monday) | N/A |
-| 39 | [CFPB](http://twitter.com/search?q=CFPB) | N/A |
-| 40 | [Game Freak](http://twitter.com/search?q=Game+Freak) | N/A |
-| 41 | [Johto](http://twitter.com/search?q=Johto) | N/A |
-| 42 | [Bede](http://twitter.com/search?q=Bede) | N/A |
-| 43 | [Happy Birthday Chelsea](http://twitter.com/search?q=Happy+Birthday+Chelsea) | N/A |
-| 44 | [Galar](http://twitter.com/search?q=Galar) | N/A |
-| 45 | [Snorlax](http://twitter.com/search?q=Snorlax) | N/A |
-| 46 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 47 | [Deion](http://twitter.com/search?q=Deion) | N/A |
-| 48 | [John Steinbeck](http://twitter.com/search?q=John+Steinbeck) | N/A |
-| 49 | [SwSh](http://twitter.com/search?q=SwSh) | N/A |
+| 21 | [The DLC](http://twitter.com/search?q=The+DLC) | N/A |
+| 22 | [Kalos](http://twitter.com/search?q=Kalos) | N/A |
+| 23 | [Haslam](http://twitter.com/search?q=Haslam) | N/A |
+| 24 | [Momotaro](http://twitter.com/search?q=Momotaro) | N/A |
+| 25 | [Terapagos](http://twitter.com/search?q=Terapagos) | N/A |
+| 26 | [Marc Lasry](http://twitter.com/search?q=Marc+Lasry) | N/A |
+| 27 | [Fauci](http://twitter.com/search?q=Fauci) | N/A |
+| 28 | [Ho-Oh](http://twitter.com/search?q=Ho-Oh) | N/A |
+| 29 | [CFPB](http://twitter.com/search?q=CFPB) | N/A |
+| 30 | [Reedy Creek](http://twitter.com/search?q=Reedy+Creek) | N/A |
+| 31 | [Hogg](http://twitter.com/search?q=Hogg) | N/A |
+| 32 | [DLCs](http://twitter.com/search?q=DLCs) | N/A |
+| 33 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
+| 34 | [Area Zero](http://twitter.com/search?q=Area+Zero) | N/A |
+| 35 | [Hisuian Zoroark](http://twitter.com/search?q=Hisuian+Zoroark) | N/A |
+| 36 | [Moselle](http://twitter.com/search?q=Moselle) | N/A |
+| 37 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 38 | [Master P](http://twitter.com/search?q=Master+P) | N/A |
+| 39 | [Paldea](http://twitter.com/search?q=Paldea) | N/A |
+| 40 | [Zebstrika](http://twitter.com/search?q=Zebstrika) | N/A |
+| 41 | [Game Freak](http://twitter.com/search?q=Game+Freak) | N/A |
+| 42 | [Terry Holland](http://twitter.com/search?q=Terry+Holland) | N/A |
+| 43 | [Yokai Watch](http://twitter.com/search?q=Yokai+Watch) | N/A |
+| 44 | [Daily Quordle 399](http://twitter.com/search?q=Daily+Quordle+399) | N/A |
+| 45 | [Happy Birthday Chelsea](http://twitter.com/search?q=Happy+Birthday+Chelsea) | N/A |
+| 46 | [Read Across America](http://twitter.com/search?q=Read+Across+America) | N/A |
+| 47 | [SwSh](http://twitter.com/search?q=SwSh) | N/A |
+| 48 | [Snorlax](http://twitter.com/search?q=Snorlax) | N/A |
+| 49 | [Elissa Slotkin](http://twitter.com/search?q=Elissa+Slotkin) | N/A |
 
 
 
