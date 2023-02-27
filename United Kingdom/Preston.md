@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Preston
 
-📆 Last Updated: `2023-02-27 14:16:08 UTC`
+📆 Last Updated: `2023-02-27 15:15:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Orubebe](http://twitter.com/search?q=Orubebe) | N/A |
-| 2 | [#TheTraitors](http://twitter.com/search?q=%23TheTraitors) | #TheTraitors is a hashtag used to refer to those who are seen as having betrayed their country or cause. It is often used in political contexts, such as when referring to politicians who have switched parties or taken actions that are seen as betraying their constituents. |
-| 3 | [#JeremyVine](http://twitter.com/search?q=%23JeremyVine) | N/A |
+| 1 | [Northern Ireland Protocol](http://twitter.com/search?q=Northern+Ireland+Protocol) | N/A |
+| 2 | [Commons](http://twitter.com/search?q=Commons) | N/A |
+| 3 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
 | 4 | [Matt Hancock](http://twitter.com/search?q=Matt+Hancock) | Matt Hancock is the current Secretary of State for Health and Social Care in the United Kingdom. He is responsible for leading the government's response to the coronavirus pandemic. The phrase "Matt Hancock" is used to refer to him and his role in government. |
-| 5 | [#Auroraborealis](http://twitter.com/search?q=%23Auroraborealis) | N/A |
-| 6 | [Jacob Rees](http://twitter.com/search?q=Jacob+Rees) | N/A |
-| 7 | [The ERG](http://twitter.com/search?q=The+ERG) | N/A |
-| 8 | [James Bond](http://twitter.com/search?q=James+Bond) | N/A |
-| 9 | [Betty Boothroyd](http://twitter.com/search?q=Betty+Boothroyd) | N/A |
-| 10 | [Speaker](http://twitter.com/search?q=Speaker) | Speaker is a person who speaks in public, usually to an audience. It can also refer to the device used to amplify sound, such as a loudspeaker. |
-| 11 | [King](http://twitter.com/search?q=King) | In English, "king" is a title given to a male monarch, usually the ruler of a kingdom or empire. It is also used as a term of endearment for someone who is seen as having great power or influence. |
-| 12 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 13 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
-| 14 | [Baroness Boothroyd](http://twitter.com/search?q=Baroness+Boothroyd) | N/A |
-| 15 | [Ursula](http://twitter.com/search?q=Ursula) | N/A |
-| 16 | [Steve Baker](http://twitter.com/search?q=Steve+Baker) | N/A |
-| 17 | [Queen](http://twitter.com/search?q=Queen) | N/A |
-| 18 | [Ofgem](http://twitter.com/search?q=Ofgem) | N/A |
-| 19 | [Sarah Jane](http://twitter.com/search?q=Sarah+Jane) | N/A |
-| 20 | [Plateau](http://twitter.com/search?q=Plateau) | N/A |
-| 21 | [Noel Gallagher](http://twitter.com/search?q=Noel+Gallagher) | N/A |
-| 22 | [Northern Lights](http://twitter.com/search?q=Northern+Lights) | N/A |
-| 23 | [Tennant](http://twitter.com/search?q=Tennant) | N/A |
-| 24 | [Labour MPs](http://twitter.com/search?q=Labour+MPs) | N/A |
-| 25 | [Windsor](http://twitter.com/search?q=Windsor) | N/A |
-| 26 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
-| 27 | [Robyn](http://twitter.com/search?q=Robyn) | Robyn is a female given name of English origin, derived from the Old Germanic name Hrodebert, meaning "bright fame". It is also a variant spelling of the name Robin. |
-| 28 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
-| 29 | [Jamaica](http://twitter.com/search?q=Jamaica) | N/A |
-| 30 | [Sanwo Olu](http://twitter.com/search?q=Sanwo+Olu) | N/A |
-| 31 | [Energy Price Guarantee](http://twitter.com/search?q=Energy+Price+Guarantee) | N/A |
-| 32 | [Banky](http://twitter.com/search?q=Banky) | N/A |
-| 33 | [Gazza](http://twitter.com/search?q=Gazza) | N/A |
-| 34 | [Tinubu](http://twitter.com/search?q=Tinubu) | N/A |
-| 35 | [Northern Ireland Protocol](http://twitter.com/search?q=Northern+Ireland+Protocol) | N/A |
-| 36 | [Blood](http://twitter.com/search?q=Blood) | N/A |
-| 37 | [ITS RACE WEEK](http://twitter.com/search?q=ITS+RACE+WEEK) | N/A |
-| 38 | [On Friday](http://twitter.com/search?q=On+Friday) | N/A |
-| 39 | [England and Wales](http://twitter.com/search?q=England+and+Wales) | N/A |
-| 40 | [Universal Credit](http://twitter.com/search?q=Universal+Credit) | N/A |
-| 41 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
-| 42 | [Monarchy](http://twitter.com/search?q=Monarchy) | N/A |
-| 43 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
-| 44 | [Silverstone](http://twitter.com/search?q=Silverstone) | N/A |
-| 45 | [Daily Quordle 399](http://twitter.com/search?q=Daily+Quordle+399) | N/A |
-| 46 | [Governor](http://twitter.com/search?q=Governor) | N/A |
-| 47 | [New IRA](http://twitter.com/search?q=New+IRA) | N/A |
-| 48 | [Wordle 618 X](http://twitter.com/search?q=Wordle+618+X) | N/A |
+| 5 | [Jacob Rees](http://twitter.com/search?q=Jacob+Rees) | N/A |
+| 6 | [Ekiti](http://twitter.com/search?q=Ekiti) | N/A |
+| 7 | [#PokemonPresents](http://twitter.com/search?q=%23PokemonPresents) | N/A |
+| 8 | [Betty Boothroyd](http://twitter.com/search?q=Betty+Boothroyd) | N/A |
+| 9 | [Speaker](http://twitter.com/search?q=Speaker) | Speaker is a person who speaks in public, usually to an audience. It can also refer to the device used to amplify sound, such as a loudspeaker. |
+| 10 | [King](http://twitter.com/search?q=King) | In English, "king" is a title given to a male monarch, usually the ruler of a kingdom or empire. It is also used as a term of endearment for someone who is seen as having great power or influence. |
+| 11 | [Suicune](http://twitter.com/search?q=Suicune) | N/A |
+| 12 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
+| 13 | [Baroness Boothroyd](http://twitter.com/search?q=Baroness+Boothroyd) | N/A |
+| 14 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 15 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 16 | [Ursula von der Leyen](http://twitter.com/search?q=Ursula+von+der+Leyen) | N/A |
+| 17 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
+| 18 | [Mystery Dungeon](http://twitter.com/search?q=Mystery+Dungeon) | N/A |
+| 19 | [Steve Baker](http://twitter.com/search?q=Steve+Baker) | N/A |
+| 20 | [SV DLC](http://twitter.com/search?q=SV+DLC) | N/A |
+| 21 | [Noel](http://twitter.com/search?q=Noel) | Noel is a French word meaning "Christmas". It is often used as a greeting during the Christmas season. |
+| 22 | [Windsor](http://twitter.com/search?q=Windsor) | N/A |
+| 23 | [Labour MPs](http://twitter.com/search?q=Labour+MPs) | N/A |
+| 24 | [Queen](http://twitter.com/search?q=Queen) | N/A |
+| 25 | [Arlene](http://twitter.com/search?q=Arlene) | N/A |
+| 26 | [sarah jane](http://twitter.com/search?q=sarah+jane) | N/A |
+| 27 | [Ofgem](http://twitter.com/search?q=Ofgem) | N/A |
+| 28 | [Northern Lights](http://twitter.com/search?q=Northern+Lights) | N/A |
+| 29 | [Plateau](http://twitter.com/search?q=Plateau) | N/A |
+| 30 | [Tennant](http://twitter.com/search?q=Tennant) | N/A |
+| 31 | [UK and EU](http://twitter.com/search?q=UK+and+EU) | N/A |
+| 32 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
+| 33 | [Jamaica](http://twitter.com/search?q=Jamaica) | N/A |
+| 34 | [Gazza](http://twitter.com/search?q=Gazza) | N/A |
+| 35 | [Jeffrey Epstein](http://twitter.com/search?q=Jeffrey+Epstein) | N/A |
+| 36 | [International Women's Day](http://twitter.com/search?q=International+Women%27s+Day) | N/A |
+| 37 | [Orubebe](http://twitter.com/search?q=Orubebe) | N/A |
+| 38 | [Sanwo Olu](http://twitter.com/search?q=Sanwo+Olu) | N/A |
+| 39 | [Robyn](http://twitter.com/search?q=Robyn) | Robyn is a female given name of English origin, derived from the Old Germanic name Hrodebert, meaning "bright fame". It is also a variant spelling of the name Robin. |
+| 40 | [Tinubu](http://twitter.com/search?q=Tinubu) | N/A |
+| 41 | [England and Wales](http://twitter.com/search?q=England+and+Wales) | N/A |
+| 42 | [ITS RACE WEEK](http://twitter.com/search?q=ITS+RACE+WEEK) | N/A |
+| 43 | [Monarchy](http://twitter.com/search?q=Monarchy) | N/A |
+| 44 | [Universal Credit](http://twitter.com/search?q=Universal+Credit) | N/A |
+| 45 | [Blood](http://twitter.com/search?q=Blood) | N/A |
+| 46 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
+| 47 | [Banky](http://twitter.com/search?q=Banky) | N/A |
+| 48 | [Silverstone](http://twitter.com/search?q=Silverstone) | N/A |
 
 
 

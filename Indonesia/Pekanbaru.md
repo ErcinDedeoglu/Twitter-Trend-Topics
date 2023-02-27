@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pekanbaru
 
-📆 Last Updated: `2023-02-27 14:16:24 UTC`
+📆 Last Updated: `2023-02-27 15:16:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,53 @@ This is top 50 for [Indonesia](</Indonesia>)
 | ------- | ------------ | ------------ |
 | 1 | [#FilterLegend](http://twitter.com/search?q=%23FilterLegend) | N/A |
 | 2 | [Garpitnya Ariel Tatum](http://twitter.com/search?q=Garpitnya+Ariel+Tatum) | N/A |
-| 3 | [#kamday](http://twitter.com/search?q=%23kamday) | N/A |
+| 3 | [#KaiRover_2ndTeaser](http://twitter.com/search?q=%23KaiRover_2ndTeaser) | N/A |
 | 4 | [#FriendofGUCCIXGulf](http://twitter.com/search?q=%23FriendofGUCCIXGulf) | N/A |
-| 5 | [#IMAXLaserXWinnySatangMarkFord](http://twitter.com/search?q=%23IMAXLaserXWinnySatangMarkFord) | N/A |
-| 6 | [Indra Bekti](http://twitter.com/search?q=Indra+Bekti) | N/A |
-| 7 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
-| 8 | [tuan rumah](http://twitter.com/search?q=tuan+rumah) | N/A |
-| 9 | [SUGA AT THE VIP PREMIERE](http://twitter.com/search?q=SUGA+AT+THE+VIP+PREMIERE) | N/A |
-| 10 | [Teja](http://twitter.com/search?q=Teja) | N/A |
-| 11 | [TERAS KAPAL BAHTERA SEVA](http://twitter.com/search?q=TERAS+KAPAL+BAHTERA+SEVA) | N/A |
-| 12 | [YOONGI MARRY ME](http://twitter.com/search?q=YOONGI+MARRY+ME) | N/A |
+| 5 | [TXT SECRET SPECIAL CLIP](http://twitter.com/search?q=TXT+SECRET+SPECIAL+CLIP) | N/A |
+| 6 | [#kamday](http://twitter.com/search?q=%23kamday) | N/A |
+| 7 | [Tuan Rumah](http://twitter.com/search?q=Tuan+Rumah) | N/A |
+| 8 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
+| 9 | [Black Mirror](http://twitter.com/search?q=Black+Mirror) | N/A |
+| 10 | [Indra Bekti](http://twitter.com/search?q=Indra+Bekti) | N/A |
+| 11 | [SUGA AT THE VIP PREMIERE](http://twitter.com/search?q=SUGA+AT+THE+VIP+PREMIERE) | N/A |
+| 12 | [Modern Family](http://twitter.com/search?q=Modern+Family) | Modern Family is an American television mockumentary sitcom created by Christopher Lloyd and Steven Levitan for the ABC network. It follows the lives of three related families, the Pritchetts, Dunphys, and Tuckers, who all live in Los Angeles. The show focuses on the characters' relationships with each other and their attempts to navigate modern life. The title of the show is a reference to the changing nature of family life in today's society. |
 | 13 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 14 | [Piala Dunia U-20](http://twitter.com/search?q=Piala+Dunia+U-20) | N/A |
-| 15 | [pengiriman](http://twitter.com/search?q=pengiriman) | N/A |
-| 16 | [Tanpa](http://twitter.com/search?q=Tanpa) | N/A |
-| 17 | [Modern Family](http://twitter.com/search?q=Modern+Family) | Modern Family is an American television mockumentary sitcom created by Christopher Lloyd and Steven Levitan for the ABC network. It follows the lives of three related families, the Pritchetts, Dunphys, and Tuckers, who all live in Los Angeles. The show focuses on the characters' relationships with each other and their attempts to navigate modern life. The title of the show is a reference to the changing nature of family life in today's society. |
-| 18 | [Dilarang](http://twitter.com/search?q=Dilarang) | N/A |
-| 19 | [Ketawain](http://twitter.com/search?q=Ketawain) | N/A |
-| 20 | [Aliran](http://twitter.com/search?q=Aliran) | N/A |
-| 21 | [Ojan](http://twitter.com/search?q=Ojan) | N/A |
-| 22 | [PARK JISUNG MODEL IS BACK](http://twitter.com/search?q=PARK+JISUNG+MODEL+IS+BACK) | N/A |
-| 23 | [Breaking Bad](http://twitter.com/search?q=Breaking+Bad) | N/A |
-| 24 | [Cwtb](http://twitter.com/search?q=Cwtb) | N/A |
-| 25 | [Game of Thrones](http://twitter.com/search?q=Game+of+Thrones) | N/A |
-| 26 | [Black Mirror](http://twitter.com/search?q=Black+Mirror) | N/A |
-| 27 | [Kelola Tagihan](http://twitter.com/search?q=Kelola+Tagihan) | N/A |
-| 28 | [Persib](http://twitter.com/search?q=Persib) | N/A |
-| 29 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 30 | [Asep](http://twitter.com/search?q=Asep) | N/A |
-| 31 | [FLORAL SENSE YESUNG](http://twitter.com/search?q=FLORAL+SENSE+YESUNG) | N/A |
-| 32 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 33 | [Mati](http://twitter.com/search?q=Mati) | N/A |
-| 34 | [Abby Choi](http://twitter.com/search?q=Abby+Choi) | N/A |
-| 35 | [hendra kurniawan](http://twitter.com/search?q=hendra+kurniawan) | N/A |
-| 36 | [Barito](http://twitter.com/search?q=Barito) | N/A |
-| 37 | [Persija](http://twitter.com/search?q=Persija) | Persija is a football club based in Jakarta, Indonesia. The name is derived from the Sanskrit word for 'victory', and it is also the nickname of the team's supporters. In English, Persija translates to 'Victorious'. |
-| 38 | [Tom Holland](http://twitter.com/search?q=Tom+Holland) | N/A |
-| 39 | [PROTECT OUR JUNGKOOK](http://twitter.com/search?q=PROTECT+OUR+JUNGKOOK) | N/A |
-| 40 | [JENO CONGRATS ON MFW](http://twitter.com/search?q=JENO+CONGRATS+ON+MFW) | N/A |
+| 14 | [TERAS KAPAL BAHTERA SEVA](http://twitter.com/search?q=TERAS+KAPAL+BAHTERA+SEVA) | N/A |
+| 15 | [YOONGI MARRY ME](http://twitter.com/search?q=YOONGI+MARRY+ME) | N/A |
+| 16 | [Game of Thrones](http://twitter.com/search?q=Game+of+Thrones) | N/A |
+| 17 | [Breaking Bad](http://twitter.com/search?q=Breaking+Bad) | N/A |
+| 18 | [Ojan](http://twitter.com/search?q=Ojan) | N/A |
+| 19 | [How I Met Your Mother](http://twitter.com/search?q=How+I+Met+Your+Mother) | N/A |
+| 20 | [Ketawain](http://twitter.com/search?q=Ketawain) | N/A |
+| 21 | [Piala Dunia U-20](http://twitter.com/search?q=Piala+Dunia+U-20) | N/A |
+| 22 | [The Big Bang Theory](http://twitter.com/search?q=The+Big+Bang+Theory) | N/A |
+| 23 | [Teja](http://twitter.com/search?q=Teja) | N/A |
+| 24 | [Aliran](http://twitter.com/search?q=Aliran) | N/A |
+| 25 | [Maman](http://twitter.com/search?q=Maman) | N/A |
+| 26 | [jeonghan](http://twitter.com/search?q=jeonghan) | Jeonghan is a Korean given name, usually for males. It is composed of two characters: "Jeong" meaning "righteous" and "Han" meaning "greatness". In English, Jeonghan can be translated to mean "righteous greatness". |
+| 27 | [Brooklyn 99](http://twitter.com/search?q=Brooklyn+99) | N/A |
+| 28 | [Tanpa](http://twitter.com/search?q=Tanpa) | N/A |
+| 29 | [Cwtb](http://twitter.com/search?q=Cwtb) | N/A |
+| 30 | [Dilarang](http://twitter.com/search?q=Dilarang) | N/A |
+| 31 | [Pengiriman](http://twitter.com/search?q=Pengiriman) | N/A |
+| 32 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 33 | [PARK JISUNG MODEL IS BACK](http://twitter.com/search?q=PARK+JISUNG+MODEL+IS+BACK) | N/A |
+| 34 | [Kelola Tagihan](http://twitter.com/search?q=Kelola+Tagihan) | N/A |
+| 35 | [Asep](http://twitter.com/search?q=Asep) | N/A |
+| 36 | [Mati](http://twitter.com/search?q=Mati) | N/A |
+| 37 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 38 | [Stranger Things](http://twitter.com/search?q=Stranger+Things) | N/A |
+| 39 | [Persib](http://twitter.com/search?q=Persib) | N/A |
+| 40 | [Hospital Playlist](http://twitter.com/search?q=Hospital+Playlist) | N/A |
 | 41 | [Yanto](http://twitter.com/search?q=Yanto) | N/A |
-| 42 | [BD Jepang](http://twitter.com/search?q=BD+Jepang) | N/A |
-| 43 | [Heru](http://twitter.com/search?q=Heru) | N/A |
-| 44 | [#IndonesiaSiapU20](http://twitter.com/search?q=%23IndonesiaSiapU20) | N/A |
-| 45 | [#UN1TYEPIKBTV](http://twitter.com/search?q=%23UN1TYEPIKBTV) | N/A |
-| 46 | [#KiehlsBrightestSkinExperience](http://twitter.com/search?q=%23KiehlsBrightestSkinExperience) | N/A |
-| 47 | [#KiehlsXBright](http://twitter.com/search?q=%23KiehlsXBright) | N/A |
-| 48 | [#MemberiMaknaIndonesia](http://twitter.com/search?q=%23MemberiMaknaIndonesia) | N/A |
+| 42 | [hendra kurniawan](http://twitter.com/search?q=hendra+kurniawan) | N/A |
+| 43 | [Abby Choi](http://twitter.com/search?q=Abby+Choi) | N/A |
+| 44 | [Floral Sense](http://twitter.com/search?q=Floral+Sense) | N/A |
+| 45 | [Winter](http://twitter.com/search?q=Winter) | N/A |
+| 46 | [Nino](http://twitter.com/search?q=Nino) | N/A |
+| 47 | [Persija](http://twitter.com/search?q=Persija) | Persija is a football club based in Jakarta, Indonesia. The name is derived from the Sanskrit word for 'victory', and it is also the nickname of the team's supporters. In English, Persija translates to 'Victorious'. |
+| 48 | [Tom Holland](http://twitter.com/search?q=Tom+Holland) | N/A |
+| 49 | [Heru](http://twitter.com/search?q=Heru) | N/A |
 
 
 

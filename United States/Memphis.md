@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Memphis
 
-📆 Last Updated: `2023-02-27 14:16:47 UTC`
+📆 Last Updated: `2023-02-27 15:16:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
-| 2 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 3 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 4 | [Preds](http://twitter.com/search?q=Preds) | N/A |
-| 5 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
-| 6 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 7 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
-| 8 | [#mondaythoughts](http://twitter.com/search?q=%23mondaythoughts) | #MondayThoughts is a hashtag used on social media to share thoughts, ideas, and reflections on the start of the week. It is often used to encourage others to have a positive outlook on the week ahead. |
-| 9 | [Maino](http://twitter.com/search?q=Maino) | N/A |
-| 10 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 11 | [Haslam](http://twitter.com/search?q=Haslam) | N/A |
-| 12 | [New Week](http://twitter.com/search?q=New+Week) | N/A |
-| 13 | [Fauci](http://twitter.com/search?q=Fauci) | N/A |
-| 14 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
-| 15 | [Daily Quordle 399](http://twitter.com/search?q=Daily+Quordle+399) | N/A |
-| 16 | [Dominican Independence Day](http://twitter.com/search?q=Dominican+Independence+Day) | N/A |
-| 17 | [Master P](http://twitter.com/search?q=Master+P) | N/A |
-| 18 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
-| 19 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
-| 20 | [Elissa Slotkin](http://twitter.com/search?q=Elissa+Slotkin) | N/A |
-| 21 | [Another Monday](http://twitter.com/search?q=Another+Monday) | N/A |
-| 22 | [Mayagüez](http://twitter.com/search?q=Mayag%c3%bcez) | N/A |
+| 1 | [Jeannot](http://twitter.com/search?q=Jeannot) | N/A |
+| 2 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
+| 3 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
+| 4 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 5 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 6 | [#RHOP](http://twitter.com/search?q=%23RHOP) | #RHOP stands for The Real Housewives of Potomac, which is a reality television series that airs on the Bravo network. It follows the lives of six women living in Potomac, Maryland, as they navigate their personal and professional lives. |
+| 7 | [Preds](http://twitter.com/search?q=Preds) | N/A |
+| 8 | [#PokemonPresents](http://twitter.com/search?q=%23PokemonPresents) | N/A |
+| 9 | [Pokémon](http://twitter.com/search?q=Pok%c3%a9mon) | N/A |
+| 10 | [Pokémon](http://twitter.com/search?q=Pok%c3%a9mon) | N/A |
+| 11 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 12 | [Walking Wake](http://twitter.com/search?q=Walking+Wake) | N/A |
+| 13 | [#mondaythoughts](http://twitter.com/search?q=%23mondaythoughts) | #MondayThoughts is a hashtag used on social media to share thoughts, ideas, and reflections on the start of the week. It is often used to encourage others to have a positive outlook on the week ahead. |
+| 14 | [SV DLC](http://twitter.com/search?q=SV+DLC) | N/A |
+| 15 | [Mystery Dungeon](http://twitter.com/search?q=Mystery+Dungeon) | N/A |
+| 16 | [Virizion](http://twitter.com/search?q=Virizion) | N/A |
+| 17 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
+| 18 | [The DLC](http://twitter.com/search?q=The+DLC) | N/A |
+| 19 | [Maino](http://twitter.com/search?q=Maino) | N/A |
+| 20 | [Haslam](http://twitter.com/search?q=Haslam) | N/A |
+| 21 | [Dominican Independence Day](http://twitter.com/search?q=Dominican+Independence+Day) | N/A |
+| 22 | [Marc Lasry](http://twitter.com/search?q=Marc+Lasry) | N/A |
 | 23 | [Bryan Cranston](http://twitter.com/search?q=Bryan+Cranston) | N/A |
-| 24 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
-| 25 | [John Steinbeck](http://twitter.com/search?q=John+Steinbeck) | N/A |
-| 26 | [Deion](http://twitter.com/search?q=Deion) | N/A |
-| 27 | [Mystery Dungeon](http://twitter.com/search?q=Mystery+Dungeon) | N/A |
-| 28 | [SV DLC](http://twitter.com/search?q=SV+DLC) | N/A |
-| 29 | [Zacian](http://twitter.com/search?q=Zacian) | N/A |
-| 30 | [NFL Combine](http://twitter.com/search?q=NFL+Combine) | N/A |
-| 31 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
-| 32 | [Hogg](http://twitter.com/search?q=Hogg) | N/A |
-| 33 | [LIRR](http://twitter.com/search?q=LIRR) | N/A |
-| 34 | [Department of Energy](http://twitter.com/search?q=Department+of+Energy) | N/A |
-| 35 | [toya](http://twitter.com/search?q=toya) | N/A |
-| 36 | [Damian Lillard](http://twitter.com/search?q=Damian+Lillard) | Damian Lillard is an American professional basketball player who currently plays for the Portland Trail Blazers of the National Basketball Association (NBA). He is a six-time NBA All-Star and was named the NBA Rookie of the Year in 2013. |
-| 37 | [Trayvon](http://twitter.com/search?q=Trayvon) | N/A |
-| 38 | [Read Across America Week](http://twitter.com/search?q=Read+Across+America+Week) | N/A |
-| 39 | [Militia](http://twitter.com/search?q=Militia) | N/A |
-| 40 | [Jeannot](http://twitter.com/search?q=Jeannot) | N/A |
-| 41 | [Govenor](http://twitter.com/search?q=Govenor) | N/A |
-| 42 | [Tinubu](http://twitter.com/search?q=Tinubu) | N/A |
-| 43 | [Make America Great Again](http://twitter.com/search?q=Make+America+Great+Again) | N/A |
-| 44 | [Futurama](http://twitter.com/search?q=Futurama) | N/A |
-| 45 | [Zimmerman](http://twitter.com/search?q=Zimmerman) | N/A |
-| 46 | [Chris Benoit](http://twitter.com/search?q=Chris+Benoit) | N/A |
-| 47 | [Wilt](http://twitter.com/search?q=Wilt) | N/A |
-| 48 | [Lightfall](http://twitter.com/search?q=Lightfall) | N/A |
+| 24 | [Kalos](http://twitter.com/search?q=Kalos) | N/A |
+| 25 | [Ho-Oh](http://twitter.com/search?q=Ho-Oh) | N/A |
+| 26 | [Moselle](http://twitter.com/search?q=Moselle) | N/A |
+| 27 | [Fauci](http://twitter.com/search?q=Fauci) | N/A |
+| 28 | [Area Zero](http://twitter.com/search?q=Area+Zero) | N/A |
+| 29 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 30 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
+| 31 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
+| 32 | [New Week](http://twitter.com/search?q=New+Week) | N/A |
+| 33 | [Master P](http://twitter.com/search?q=Master+P) | N/A |
+| 34 | [Hisuian Zoroark](http://twitter.com/search?q=Hisuian+Zoroark) | N/A |
+| 35 | [Buckhead](http://twitter.com/search?q=Buckhead) | N/A |
+| 36 | [Paldea](http://twitter.com/search?q=Paldea) | N/A |
+| 37 | [Daily Quordle 399](http://twitter.com/search?q=Daily+Quordle+399) | N/A |
+| 38 | [Elissa Slotkin](http://twitter.com/search?q=Elissa+Slotkin) | N/A |
+| 39 | [DLCs](http://twitter.com/search?q=DLCs) | N/A |
+| 40 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
+| 41 | [CFPB](http://twitter.com/search?q=CFPB) | N/A |
+| 42 | [Another Monday](http://twitter.com/search?q=Another+Monday) | N/A |
+| 43 | [Game Freak](http://twitter.com/search?q=Game+Freak) | N/A |
+| 44 | [Johto](http://twitter.com/search?q=Johto) | N/A |
+| 45 | [Bede](http://twitter.com/search?q=Bede) | N/A |
+| 46 | [Happy Birthday Chelsea](http://twitter.com/search?q=Happy+Birthday+Chelsea) | N/A |
+| 47 | [Galar](http://twitter.com/search?q=Galar) | N/A |
+| 48 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
 
 
 

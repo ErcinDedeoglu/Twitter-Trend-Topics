@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vancouver
 
-📆 Last Updated: `2023-02-27 14:16:05 UTC`
+📆 Last Updated: `2023-02-27 15:15:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Canada](</Canada>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Miller](http://twitter.com/search?q=Miller) | N/A |
-| 2 | [Jeannot](http://twitter.com/search?q=Jeannot) | N/A |
-| 3 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 4 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 5 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
-| 6 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
-| 7 | [Jully](http://twitter.com/search?q=Jully) | N/A |
-| 8 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
-| 9 | [Meier](http://twitter.com/search?q=Meier) | N/A |
-| 10 | [Trudeau](http://twitter.com/search?q=Trudeau) | N/A |
-| 11 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 12 | [#SAGAwards](http://twitter.com/search?q=%23SAGAwards) | N/A |
-| 13 | [#mondaythoughts](http://twitter.com/search?q=%23mondaythoughts) | #MondayThoughts is a hashtag used on social media to share thoughts, ideas, and reflections on the start of the week. It is often used to encourage others to have a positive outlook on the week ahead. |
-| 14 | [Gordon Pinsent](http://twitter.com/search?q=Gordon+Pinsent) | N/A |
-| 15 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
-| 16 | [Christine Anderson](http://twitter.com/search?q=Christine+Anderson) | N/A |
-| 17 | [Gurianov](http://twitter.com/search?q=Gurianov) | N/A |
-| 18 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
-| 19 | [Dadonov](http://twitter.com/search?q=Dadonov) | N/A |
-| 20 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
-| 21 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
-| 22 | [INEC](http://twitter.com/search?q=INEC) | N/A |
-| 23 | [Good Monday](http://twitter.com/search?q=Good+Monday) | Good Monday is an expression used to express enthusiasm for the start of a new week. It is typically used as a greeting or salutation when wishing someone a good start to the week. |
-| 24 | [Woody](http://twitter.com/search?q=Woody) | Woody is a slang term used to describe someone who is strong, tough, and determined. It can also be used to describe someone who is stubborn and unyielding. |
-| 25 | [Holtz](http://twitter.com/search?q=Holtz) | N/A |
-| 26 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
-| 27 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
-| 28 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
-| 29 | [Dino Melaye](http://twitter.com/search?q=Dino+Melaye) | N/A |
-| 30 | [Devils](http://twitter.com/search?q=Devils) | N/A |
-| 31 | [Damian Lillard](http://twitter.com/search?q=Damian+Lillard) | Damian Lillard is an American professional basketball player who currently plays for the Portland Trail Blazers of the National Basketball Association (NBA). He is a six-time NBA All-Star and was named the NBA Rookie of the Year in 2013. |
-| 32 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 33 | [Fauci](http://twitter.com/search?q=Fauci) | N/A |
-| 34 | [Mercer](http://twitter.com/search?q=Mercer) | N/A |
-| 35 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 36 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 37 | [Pierre](http://twitter.com/search?q=Pierre) | N/A |
-| 38 | [Poile](http://twitter.com/search?q=Poile) | N/A |
-| 39 | [Scott Adams](http://twitter.com/search?q=Scott+Adams) | N/A |
-| 40 | [Sharks](http://twitter.com/search?q=Sharks) | N/A |
-| 41 | [Barry Trotz](http://twitter.com/search?q=Barry+Trotz) | N/A |
-| 42 | [Vanderbilt](http://twitter.com/search?q=Vanderbilt) | N/A |
-| 43 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 44 | [Adin](http://twitter.com/search?q=Adin) | Adin is a unisex name of Hebrew origin, meaning "noble" or "slender". |
-| 45 | [Bernier](http://twitter.com/search?q=Bernier) | N/A |
-| 46 | [Hagel](http://twitter.com/search?q=Hagel) | N/A |
-| 47 | [Brisebois](http://twitter.com/search?q=Brisebois) | N/A |
-| 48 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 49 | [Nemec](http://twitter.com/search?q=Nemec) | N/A |
-| 50 | [Linus Ullmark](http://twitter.com/search?q=Linus+Ullmark) | N/A |
+| 2 | [#PokemonPresents](http://twitter.com/search?q=%23PokemonPresents) | N/A |
+| 3 | [Jeannot](http://twitter.com/search?q=Jeannot) | N/A |
+| 4 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
+| 5 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 6 | [Jully](http://twitter.com/search?q=Jully) | N/A |
+| 7 | [Trudeau](http://twitter.com/search?q=Trudeau) | N/A |
+| 8 | [#mondaythoughts](http://twitter.com/search?q=%23mondaythoughts) | #MondayThoughts is a hashtag used on social media to share thoughts, ideas, and reflections on the start of the week. It is often used to encourage others to have a positive outlook on the week ahead. |
+| 9 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 10 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 11 | [Meier](http://twitter.com/search?q=Meier) | N/A |
+| 12 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
+| 13 | [#SAGAwards](http://twitter.com/search?q=%23SAGAwards) | N/A |
+| 14 | [Suicune](http://twitter.com/search?q=Suicune) | N/A |
+| 15 | [Gordon Pinsent](http://twitter.com/search?q=Gordon+Pinsent) | N/A |
+| 16 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
+| 17 | [Walking Wake](http://twitter.com/search?q=Walking+Wake) | N/A |
+| 18 | [Gurianov](http://twitter.com/search?q=Gurianov) | N/A |
+| 19 | [Christine Anderson](http://twitter.com/search?q=Christine+Anderson) | N/A |
+| 20 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
+| 21 | [James Click](http://twitter.com/search?q=James+Click) | N/A |
+| 22 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
+| 23 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
+| 24 | [Dadonov](http://twitter.com/search?q=Dadonov) | N/A |
+| 25 | [INEC](http://twitter.com/search?q=INEC) | N/A |
+| 26 | [Astros](http://twitter.com/search?q=Astros) | N/A |
+| 27 | [Woody](http://twitter.com/search?q=Woody) | Woody is a slang term used to describe someone who is strong, tough, and determined. It can also be used to describe someone who is stubborn and unyielding. |
+| 28 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
+| 29 | [Holtz](http://twitter.com/search?q=Holtz) | N/A |
+| 30 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
+| 31 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
+| 32 | [SV DLC](http://twitter.com/search?q=SV+DLC) | N/A |
+| 33 | [Kalos](http://twitter.com/search?q=Kalos) | N/A |
+| 34 | [Mystery Dungeon](http://twitter.com/search?q=Mystery+Dungeon) | N/A |
+| 35 | [Scott Adams](http://twitter.com/search?q=Scott+Adams) | N/A |
+| 36 | [Butts](http://twitter.com/search?q=Butts) | N/A |
+| 37 | [Damian Lillard](http://twitter.com/search?q=Damian+Lillard) | Damian Lillard is an American professional basketball player who currently plays for the Portland Trail Blazers of the National Basketball Association (NBA). He is a six-time NBA All-Star and was named the NBA Rookie of the Year in 2013. |
+| 38 | [Mercer](http://twitter.com/search?q=Mercer) | N/A |
+| 39 | [Fauci](http://twitter.com/search?q=Fauci) | N/A |
+| 40 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
+| 41 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
+| 42 | [Good Monday](http://twitter.com/search?q=Good+Monday) | Good Monday is an expression used to express enthusiasm for the start of a new week. It is typically used as a greeting or salutation when wishing someone a good start to the week. |
+| 43 | [Devils](http://twitter.com/search?q=Devils) | N/A |
+| 44 | [Brisebois](http://twitter.com/search?q=Brisebois) | N/A |
+| 45 | [Vanderbilt](http://twitter.com/search?q=Vanderbilt) | N/A |
+| 46 | [Bernier](http://twitter.com/search?q=Bernier) | N/A |
+| 47 | [Pierre](http://twitter.com/search?q=Pierre) | N/A |
+| 48 | [Barry Trotz](http://twitter.com/search?q=Barry+Trotz) | N/A |
+| 49 | [David Poile](http://twitter.com/search?q=David+Poile) | N/A |
+| 50 | [Sharks](http://twitter.com/search?q=Sharks) | N/A |
 
 
 

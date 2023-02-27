@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Albuquerque
 
-📆 Last Updated: `2023-02-27 14:16:43 UTC`
+📆 Last Updated: `2023-02-27 15:16:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
-| 2 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 3 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
-| 4 | [Maino](http://twitter.com/search?q=Maino) | N/A |
-| 5 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 6 | [Haslam](http://twitter.com/search?q=Haslam) | N/A |
-| 7 | [New Week](http://twitter.com/search?q=New+Week) | N/A |
-| 8 | [Fauci](http://twitter.com/search?q=Fauci) | N/A |
-| 9 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
-| 10 | [Daily Quordle 399](http://twitter.com/search?q=Daily+Quordle+399) | N/A |
-| 11 | [Master P](http://twitter.com/search?q=Master+P) | N/A |
-| 12 | [Dominican Independence Day](http://twitter.com/search?q=Dominican+Independence+Day) | N/A |
-| 13 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
-| 14 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
-| 15 | [Elissa Slotkin](http://twitter.com/search?q=Elissa+Slotkin) | N/A |
-| 16 | [Another Monday](http://twitter.com/search?q=Another+Monday) | N/A |
-| 17 | [Mayagüez](http://twitter.com/search?q=Mayag%c3%bcez) | N/A |
-| 18 | [Bryan Cranston](http://twitter.com/search?q=Bryan+Cranston) | N/A |
-| 19 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
-| 20 | [John Steinbeck](http://twitter.com/search?q=John+Steinbeck) | N/A |
-| 21 | [Deion](http://twitter.com/search?q=Deion) | N/A |
-| 22 | [Mystery Dungeon](http://twitter.com/search?q=Mystery+Dungeon) | N/A |
-| 23 | [SV DLC](http://twitter.com/search?q=SV+DLC) | N/A |
-| 24 | [Zacian](http://twitter.com/search?q=Zacian) | N/A |
-| 25 | [NFL Combine](http://twitter.com/search?q=NFL+Combine) | N/A |
-| 26 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
-| 27 | [Hogg](http://twitter.com/search?q=Hogg) | N/A |
-| 28 | [LIRR](http://twitter.com/search?q=LIRR) | N/A |
-| 29 | [Department of Energy](http://twitter.com/search?q=Department+of+Energy) | N/A |
-| 30 | [toya](http://twitter.com/search?q=toya) | N/A |
-| 31 | [Damian Lillard](http://twitter.com/search?q=Damian+Lillard) | Damian Lillard is an American professional basketball player who currently plays for the Portland Trail Blazers of the National Basketball Association (NBA). He is a six-time NBA All-Star and was named the NBA Rookie of the Year in 2013. |
-| 32 | [Trayvon](http://twitter.com/search?q=Trayvon) | N/A |
-| 33 | [Militia](http://twitter.com/search?q=Militia) | N/A |
-| 34 | [Jeannot](http://twitter.com/search?q=Jeannot) | N/A |
-| 35 | [Govenor](http://twitter.com/search?q=Govenor) | N/A |
-| 36 | [Read Across America Week](http://twitter.com/search?q=Read+Across+America+Week) | N/A |
-| 37 | [Tinubu](http://twitter.com/search?q=Tinubu) | N/A |
-| 38 | [Make America Great Again](http://twitter.com/search?q=Make+America+Great+Again) | N/A |
-| 39 | [Futurama](http://twitter.com/search?q=Futurama) | N/A |
-| 40 | [Zimmerman](http://twitter.com/search?q=Zimmerman) | N/A |
-| 41 | [Chris Benoit](http://twitter.com/search?q=Chris+Benoit) | N/A |
-| 42 | [Wilt](http://twitter.com/search?q=Wilt) | N/A |
-| 43 | [Lightfall](http://twitter.com/search?q=Lightfall) | N/A |
-| 44 | [Bojack](http://twitter.com/search?q=Bojack) | N/A |
-| 45 | [Clue](http://twitter.com/search?q=Clue) | N/A |
-| 46 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 47 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
-| 48 | [Ty Lue](http://twitter.com/search?q=Ty+Lue) | Ty Lue is the name of an American basketball coach and former player. He is currently the head coach of the Los Angeles Clippers of the National Basketball Association (NBA). The name "Ty Lue" is derived from his given name, Tyronn. |
+| 1 | [#PokemonPresents](http://twitter.com/search?q=%23PokemonPresents) | N/A |
+| 2 | [Pokémon](http://twitter.com/search?q=Pok%c3%a9mon) | N/A |
+| 3 | [Pokémon](http://twitter.com/search?q=Pok%c3%a9mon) | N/A |
+| 4 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 5 | [Walking Wake](http://twitter.com/search?q=Walking+Wake) | N/A |
+| 6 | [#mondaythoughts](http://twitter.com/search?q=%23mondaythoughts) | #MondayThoughts is a hashtag used on social media to share thoughts, ideas, and reflections on the start of the week. It is often used to encourage others to have a positive outlook on the week ahead. |
+| 7 | [SV DLC](http://twitter.com/search?q=SV+DLC) | N/A |
+| 8 | [Mystery Dungeon](http://twitter.com/search?q=Mystery+Dungeon) | N/A |
+| 9 | [Virizion](http://twitter.com/search?q=Virizion) | N/A |
+| 10 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
+| 11 | [The DLC](http://twitter.com/search?q=The+DLC) | N/A |
+| 12 | [Maino](http://twitter.com/search?q=Maino) | N/A |
+| 13 | [Haslam](http://twitter.com/search?q=Haslam) | N/A |
+| 14 | [Dominican Independence Day](http://twitter.com/search?q=Dominican+Independence+Day) | N/A |
+| 15 | [Marc Lasry](http://twitter.com/search?q=Marc+Lasry) | N/A |
+| 16 | [Bryan Cranston](http://twitter.com/search?q=Bryan+Cranston) | N/A |
+| 17 | [Kalos](http://twitter.com/search?q=Kalos) | N/A |
+| 18 | [Ho-Oh](http://twitter.com/search?q=Ho-Oh) | N/A |
+| 19 | [Moselle](http://twitter.com/search?q=Moselle) | N/A |
+| 20 | [Fauci](http://twitter.com/search?q=Fauci) | N/A |
+| 21 | [Area Zero](http://twitter.com/search?q=Area+Zero) | N/A |
+| 22 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 23 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
+| 24 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
+| 25 | [New Week](http://twitter.com/search?q=New+Week) | N/A |
+| 26 | [Master P](http://twitter.com/search?q=Master+P) | N/A |
+| 27 | [Hisuian Zoroark](http://twitter.com/search?q=Hisuian+Zoroark) | N/A |
+| 28 | [Buckhead](http://twitter.com/search?q=Buckhead) | N/A |
+| 29 | [Paldea](http://twitter.com/search?q=Paldea) | N/A |
+| 30 | [Daily Quordle 399](http://twitter.com/search?q=Daily+Quordle+399) | N/A |
+| 31 | [Elissa Slotkin](http://twitter.com/search?q=Elissa+Slotkin) | N/A |
+| 32 | [DLCs](http://twitter.com/search?q=DLCs) | N/A |
+| 33 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
+| 34 | [CFPB](http://twitter.com/search?q=CFPB) | N/A |
+| 35 | [Another Monday](http://twitter.com/search?q=Another+Monday) | N/A |
+| 36 | [Game Freak](http://twitter.com/search?q=Game+Freak) | N/A |
+| 37 | [Johto](http://twitter.com/search?q=Johto) | N/A |
+| 38 | [Bede](http://twitter.com/search?q=Bede) | N/A |
+| 39 | [Happy Birthday Chelsea](http://twitter.com/search?q=Happy+Birthday+Chelsea) | N/A |
+| 40 | [Galar](http://twitter.com/search?q=Galar) | N/A |
+| 41 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 42 | [Snorlax](http://twitter.com/search?q=Snorlax) | N/A |
+| 43 | [Deion](http://twitter.com/search?q=Deion) | N/A |
+| 44 | [Unite](http://twitter.com/search?q=Unite) | N/A |
+| 45 | [John Steinbeck](http://twitter.com/search?q=John+Steinbeck) | N/A |
+| 46 | [SwSh](http://twitter.com/search?q=SwSh) | N/A |
+| 47 | [Switch Online](http://twitter.com/search?q=Switch+Online) | N/A |
+| 48 | [Zacian](http://twitter.com/search?q=Zacian) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gothenburg
 
-📆 Last Updated: `2023-02-27 14:16:23 UTC`
+📆 Last Updated: `2023-02-27 15:16:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Sweden](</Sweden>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#jagvetvadensnippaär](http://twitter.com/search?q=%23jagvetvadensnippa%c3%a4r) | N/A |
-| 2 | [#ifkgbg](http://twitter.com/search?q=%23ifkgbg) | N/A |
-| 3 | [#PaulFury](http://twitter.com/search?q=%23PaulFury) | N/A |
-| 4 | [Stahre](http://twitter.com/search?q=Stahre) | N/A |
+| 1 | [#JagVetVadEnSnippaÄr](http://twitter.com/search?q=%23JagVetVadEnSnippa%c3%84r) | N/A |
+| 2 | [#PaulFury](http://twitter.com/search?q=%23PaulFury) | N/A |
+| 3 | [stahre](http://twitter.com/search?q=stahre) | N/A |
+| 4 | [#ifkgbg](http://twitter.com/search?q=%23ifkgbg) | N/A |
 | 5 | [Modo](http://twitter.com/search?q=Modo) | N/A |
-| 6 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
-| 7 | [Gais](http://twitter.com/search?q=Gais) | N/A |
-| 8 | [#Melodifestivalen2023](http://twitter.com/search?q=%23Melodifestivalen2023) | N/A |
-| 9 | [BADOU JACK](http://twitter.com/search?q=BADOU+JACK) | N/A |
-| 10 | [#TOTCHE](http://twitter.com/search?q=%23TOTCHE) | N/A |
-| 11 | [Hovrätten](http://twitter.com/search?q=Hovr%c3%a4tten) | N/A |
-| 12 | [utsikten](http://twitter.com/search?q=utsikten) | N/A |
-| 13 | [Loreen](http://twitter.com/search?q=Loreen) | N/A |
-| 14 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
-| 15 | [Carola](http://twitter.com/search?q=Carola) | Carola is a female given name of Latin origin, derived from the masculine name Carolus, which is the Latin form of Charles. It means "free man" or "strong". |
-| 16 | [Ljungberg](http://twitter.com/search?q=Ljungberg) | N/A |
-| 17 | [Saol](http://twitter.com/search?q=Saol) | N/A |
-| 18 | [emma ribom](http://twitter.com/search?q=emma+ribom) | N/A |
-| 19 | [Blåvitt](http://twitter.com/search?q=Bl%c3%a5vitt) | N/A |
-| 20 | [jonna sundling](http://twitter.com/search?q=jonna+sundling) | N/A |
-| 21 | [Svenska Freds](http://twitter.com/search?q=Svenska+Freds) | N/A |
-| 22 | [Roberto](http://twitter.com/search?q=Roberto) | N/A |
-| 23 | [Atalanta](http://twitter.com/search?q=Atalanta) | Atalanta is a figure from Greek mythology. She was a brave and strong hunter who refused to marry anyone who could not beat her in a footrace. The meaning of Atalanta in English is "equal in weight". |
+| 6 | [Gais](http://twitter.com/search?q=Gais) | N/A |
+| 7 | [#melodifestivalen2023](http://twitter.com/search?q=%23melodifestivalen2023) | N/A |
+| 8 | [#TotChe](http://twitter.com/search?q=%23TotChe) | N/A |
+| 9 | [utsikten](http://twitter.com/search?q=utsikten) | N/A |
+| 10 | [Hovrätten](http://twitter.com/search?q=Hovr%c3%a4tten) | N/A |
+| 11 | [Loreen](http://twitter.com/search?q=Loreen) | N/A |
+| 12 | [SAOL](http://twitter.com/search?q=SAOL) | N/A |
+| 13 | [BADOU JACK](http://twitter.com/search?q=BADOU+JACK) | N/A |
+| 14 | [Carola](http://twitter.com/search?q=Carola) | Carola is a female given name of Latin origin, derived from the masculine name Carolus, which is the Latin form of Charles. It means "free man" or "strong". |
+| 15 | [ljungberg](http://twitter.com/search?q=ljungberg) | N/A |
+| 16 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
+| 17 | [Jonna Sundling](http://twitter.com/search?q=Jonna+Sundling) | N/A |
+| 18 | [Pokémon](http://twitter.com/search?q=Pok%c3%a9mon) | N/A |
+| 19 | [Atalanta](http://twitter.com/search?q=Atalanta) | Atalanta is a figure from Greek mythology. She was a brave and strong hunter who refused to marry anyone who could not beat her in a footrace. The meaning of Atalanta in English is "equal in weight". |
+| 20 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
+| 21 | [Blåvitt](http://twitter.com/search?q=Bl%c3%a5vitt) | N/A |
+| 22 | [Svenska Freds](http://twitter.com/search?q=Svenska+Freds) | N/A |
+| 23 | [Roberto](http://twitter.com/search?q=Roberto) | N/A |
 | 24 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
 | 25 | [Zlatan](http://twitter.com/search?q=Zlatan) | Zlatan is a nickname for the Swedish soccer player Zlatan Ibrahimović. It is derived from his first name and is used to refer to him in a friendly or affectionate way. In English, it can be translated as "golden one". |
-| 26 | [Emerson](http://twitter.com/search?q=Emerson) | Emerson is a surname of English origin. It is derived from the Old English personal name Emery, which means “brave” or “powerful.” The name was popularized by Ralph Waldo Emerson, an American essayist, lecturer, and poet who lived in the 19th century. |
-| 27 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
-| 28 | [Demirok](http://twitter.com/search?q=Demirok) | N/A |
-| 29 | [Guidetti](http://twitter.com/search?q=Guidetti) | N/A |
+| 26 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
+| 27 | [guidetti](http://twitter.com/search?q=guidetti) | N/A |
+| 28 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 29 | [Åke Thimfors](http://twitter.com/search?q=%c3%85ke+Thimfors) | N/A |
 | 30 | [IFK Göteborg](http://twitter.com/search?q=IFK+G%c3%b6teborg) | N/A |
-| 31 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 32 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
+| 31 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
+| 32 | [jan scherman](http://twitter.com/search?q=jan+scherman) | N/A |
 | 33 | [James Bond](http://twitter.com/search?q=James+Bond) | N/A |
-| 34 | [Åke Thimfors](http://twitter.com/search?q=%c3%85ke+Thimfors) | N/A |
-| 35 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 36 | [hästen](http://twitter.com/search?q=h%c3%a4sten) | N/A |
-| 37 | [Bregott](http://twitter.com/search?q=Bregott) | N/A |
-| 38 | [onsala](http://twitter.com/search?q=onsala) | N/A |
-| 39 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 40 | [Ultima Thule](http://twitter.com/search?q=Ultima+Thule) | N/A |
-| 41 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 42 | [chang frick](http://twitter.com/search?q=chang+frick) | N/A |
-| 43 | [lisbeth palme](http://twitter.com/search?q=lisbeth+palme) | N/A |
-| 44 | [Ulla](http://twitter.com/search?q=Ulla) | N/A |
+| 34 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 35 | [Poznan](http://twitter.com/search?q=Poznan) | N/A |
+| 36 | [Bregott](http://twitter.com/search?q=Bregott) | N/A |
+| 37 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 38 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
+| 39 | [ultima thule](http://twitter.com/search?q=ultima+thule) | N/A |
+| 40 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 41 | [Chang Frick](http://twitter.com/search?q=Chang+Frick) | N/A |
+| 42 | [Uppsala](http://twitter.com/search?q=Uppsala) | N/A |
+| 43 | [Ulla](http://twitter.com/search?q=Ulla) | N/A |
+| 44 | [Demirok](http://twitter.com/search?q=Demirok) | N/A |
 | 45 | [kvist](http://twitter.com/search?q=kvist) | N/A |
 | 46 | [shinnimin](http://twitter.com/search?q=shinnimin) | N/A |
 | 47 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
 | 48 | [Linus Ullmark](http://twitter.com/search?q=Linus+Ullmark) | N/A |
-| 49 | [Ingman](http://twitter.com/search?q=Ingman) | N/A |
+| 49 | [Scott Adams](http://twitter.com/search?q=Scott+Adams) | N/A |
 | 50 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
 
 

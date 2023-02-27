@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jackson
 
-📆 Last Updated: `2023-02-27 14:16:46 UTC`
+📆 Last Updated: `2023-02-27 15:16:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
-| 2 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 3 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
-| 4 | [#mondaythoughts](http://twitter.com/search?q=%23mondaythoughts) | #MondayThoughts is a hashtag used on social media to share thoughts, ideas, and reflections on the start of the week. It is often used to encourage others to have a positive outlook on the week ahead. |
-| 5 | [Maino](http://twitter.com/search?q=Maino) | N/A |
-| 6 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 7 | [Haslam](http://twitter.com/search?q=Haslam) | N/A |
-| 8 | [New Week](http://twitter.com/search?q=New+Week) | N/A |
-| 9 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
-| 10 | [Fauci](http://twitter.com/search?q=Fauci) | N/A |
-| 11 | [Daily Quordle 399](http://twitter.com/search?q=Daily+Quordle+399) | N/A |
-| 12 | [Dominican Independence Day](http://twitter.com/search?q=Dominican+Independence+Day) | N/A |
-| 13 | [Master P](http://twitter.com/search?q=Master+P) | N/A |
-| 14 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
-| 15 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
-| 16 | [Elissa Slotkin](http://twitter.com/search?q=Elissa+Slotkin) | N/A |
-| 17 | [Another Monday](http://twitter.com/search?q=Another+Monday) | N/A |
-| 18 | [Mayagüez](http://twitter.com/search?q=Mayag%c3%bcez) | N/A |
-| 19 | [Bryan Cranston](http://twitter.com/search?q=Bryan+Cranston) | N/A |
-| 20 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
-| 21 | [John Steinbeck](http://twitter.com/search?q=John+Steinbeck) | N/A |
-| 22 | [Deion](http://twitter.com/search?q=Deion) | N/A |
-| 23 | [Mystery Dungeon](http://twitter.com/search?q=Mystery+Dungeon) | N/A |
-| 24 | [SV DLC](http://twitter.com/search?q=SV+DLC) | N/A |
-| 25 | [Zacian](http://twitter.com/search?q=Zacian) | N/A |
-| 26 | [NFL Combine](http://twitter.com/search?q=NFL+Combine) | N/A |
-| 27 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
-| 28 | [Hogg](http://twitter.com/search?q=Hogg) | N/A |
-| 29 | [LIRR](http://twitter.com/search?q=LIRR) | N/A |
-| 30 | [Department of Energy](http://twitter.com/search?q=Department+of+Energy) | N/A |
-| 31 | [toya](http://twitter.com/search?q=toya) | N/A |
-| 32 | [Damian Lillard](http://twitter.com/search?q=Damian+Lillard) | Damian Lillard is an American professional basketball player who currently plays for the Portland Trail Blazers of the National Basketball Association (NBA). He is a six-time NBA All-Star and was named the NBA Rookie of the Year in 2013. |
-| 33 | [Trayvon](http://twitter.com/search?q=Trayvon) | N/A |
-| 34 | [Read Across America Week](http://twitter.com/search?q=Read+Across+America+Week) | N/A |
-| 35 | [Militia](http://twitter.com/search?q=Militia) | N/A |
-| 36 | [Jeannot](http://twitter.com/search?q=Jeannot) | N/A |
-| 37 | [Govenor](http://twitter.com/search?q=Govenor) | N/A |
-| 38 | [Tinubu](http://twitter.com/search?q=Tinubu) | N/A |
-| 39 | [Make America Great Again](http://twitter.com/search?q=Make+America+Great+Again) | N/A |
-| 40 | [Futurama](http://twitter.com/search?q=Futurama) | N/A |
-| 41 | [Zimmerman](http://twitter.com/search?q=Zimmerman) | N/A |
-| 42 | [Chris Benoit](http://twitter.com/search?q=Chris+Benoit) | N/A |
-| 43 | [Wilt](http://twitter.com/search?q=Wilt) | N/A |
-| 44 | [Lightfall](http://twitter.com/search?q=Lightfall) | N/A |
-| 45 | [Bojack](http://twitter.com/search?q=Bojack) | N/A |
-| 46 | [Clue](http://twitter.com/search?q=Clue) | N/A |
-| 47 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 48 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
+| 1 | [#RHOP](http://twitter.com/search?q=%23RHOP) | #RHOP stands for The Real Housewives of Potomac, which is a reality television series that airs on the Bravo network. It follows the lives of six women living in Potomac, Maryland, as they navigate their personal and professional lives. |
+| 2 | [#PokemonPresents](http://twitter.com/search?q=%23PokemonPresents) | N/A |
+| 3 | [Pokémon](http://twitter.com/search?q=Pok%c3%a9mon) | N/A |
+| 4 | [Pokémon](http://twitter.com/search?q=Pok%c3%a9mon) | N/A |
+| 5 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 6 | [Walking Wake](http://twitter.com/search?q=Walking+Wake) | N/A |
+| 7 | [#mondaythoughts](http://twitter.com/search?q=%23mondaythoughts) | #MondayThoughts is a hashtag used on social media to share thoughts, ideas, and reflections on the start of the week. It is often used to encourage others to have a positive outlook on the week ahead. |
+| 8 | [SV DLC](http://twitter.com/search?q=SV+DLC) | N/A |
+| 9 | [Mystery Dungeon](http://twitter.com/search?q=Mystery+Dungeon) | N/A |
+| 10 | [Virizion](http://twitter.com/search?q=Virizion) | N/A |
+| 11 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
+| 12 | [The DLC](http://twitter.com/search?q=The+DLC) | N/A |
+| 13 | [Maino](http://twitter.com/search?q=Maino) | N/A |
+| 14 | [Haslam](http://twitter.com/search?q=Haslam) | N/A |
+| 15 | [Dominican Independence Day](http://twitter.com/search?q=Dominican+Independence+Day) | N/A |
+| 16 | [Marc Lasry](http://twitter.com/search?q=Marc+Lasry) | N/A |
+| 17 | [Bryan Cranston](http://twitter.com/search?q=Bryan+Cranston) | N/A |
+| 18 | [Kalos](http://twitter.com/search?q=Kalos) | N/A |
+| 19 | [Ho-Oh](http://twitter.com/search?q=Ho-Oh) | N/A |
+| 20 | [Moselle](http://twitter.com/search?q=Moselle) | N/A |
+| 21 | [Fauci](http://twitter.com/search?q=Fauci) | N/A |
+| 22 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 23 | [Area Zero](http://twitter.com/search?q=Area+Zero) | N/A |
+| 24 | [New Week](http://twitter.com/search?q=New+Week) | N/A |
+| 25 | [Master P](http://twitter.com/search?q=Master+P) | N/A |
+| 26 | [Hisuian Zoroark](http://twitter.com/search?q=Hisuian+Zoroark) | N/A |
+| 27 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
+| 28 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
+| 29 | [Buckhead](http://twitter.com/search?q=Buckhead) | N/A |
+| 30 | [Daily Quordle 399](http://twitter.com/search?q=Daily+Quordle+399) | N/A |
+| 31 | [Paldea](http://twitter.com/search?q=Paldea) | N/A |
+| 32 | [DLCs](http://twitter.com/search?q=DLCs) | N/A |
+| 33 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
+| 34 | [Elissa Slotkin](http://twitter.com/search?q=Elissa+Slotkin) | N/A |
+| 35 | [Another Monday](http://twitter.com/search?q=Another+Monday) | N/A |
+| 36 | [Game Freak](http://twitter.com/search?q=Game+Freak) | N/A |
+| 37 | [CFPB](http://twitter.com/search?q=CFPB) | N/A |
+| 38 | [Johto](http://twitter.com/search?q=Johto) | N/A |
+| 39 | [Bede](http://twitter.com/search?q=Bede) | N/A |
+| 40 | [Happy Birthday Chelsea](http://twitter.com/search?q=Happy+Birthday+Chelsea) | N/A |
+| 41 | [Galar](http://twitter.com/search?q=Galar) | N/A |
+| 42 | [Snorlax](http://twitter.com/search?q=Snorlax) | N/A |
+| 43 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 44 | [Deion](http://twitter.com/search?q=Deion) | N/A |
+| 45 | [John Steinbeck](http://twitter.com/search?q=John+Steinbeck) | N/A |
+| 46 | [SwSh](http://twitter.com/search?q=SwSh) | N/A |
+| 47 | [Switch Online](http://twitter.com/search?q=Switch+Online) | N/A |
+| 48 | [Zacian](http://twitter.com/search?q=Zacian) | N/A |
 
 
 

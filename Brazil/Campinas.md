@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Campinas
 
-📆 Last Updated: `2023-02-27 14:16:15 UTC`
+📆 Last Updated: `2023-02-27 15:16:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Imagine Dragons](http://twitter.com/search?q=Imagine+Dragons) | N/A |
+| 1 | [Março](http://twitter.com/search?q=Mar%c3%a7o) | N/A |
 | 2 | [Gshow](http://twitter.com/search?q=Gshow) | N/A |
-| 3 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
-| 4 | [GUSTAVO NO MAIS VOCE](http://twitter.com/search?q=GUSTAVO+NO+MAIS+VOCE) | N/A |
-| 5 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
-| 6 | [MC Bin Laden](http://twitter.com/search?q=MC+Bin+Laden) | N/A |
-| 7 | [#ForaNicacio](http://twitter.com/search?q=%23ForaNicacio) | N/A |
-| 8 | [Bolsonaro Store](http://twitter.com/search?q=Bolsonaro+Store) | N/A |
-| 9 | [Gmail](http://twitter.com/search?q=Gmail) | N/A |
-| 10 | [#FORACARADESAPATO](http://twitter.com/search?q=%23FORACARADESAPATO) | N/A |
-| 11 | [READY TO BE](http://twitter.com/search?q=READY+TO+BE) | N/A |
-| 12 | [#F360BR](http://twitter.com/search?q=%23F360BR) | N/A |
-| 13 | [#ForaSapato](http://twitter.com/search?q=%23ForaSapato) | N/A |
-| 14 | [Feliz 2023](http://twitter.com/search?q=Feliz+2023) | Feliz 2023 is a Spanish phrase that translates to "Happy 2023" in English. It is typically used as a greeting or expression of good wishes for the upcoming year. |
-| 15 | [Feliz Ano Novo](http://twitter.com/search?q=Feliz+Ano+Novo) | N/A |
-| 16 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
-| 17 | [RACE WEEK](http://twitter.com/search?q=RACE+WEEK) | N/A |
-| 18 | [Segundou](http://twitter.com/search?q=Segundou) | N/A |
-| 19 | [Bocardi](http://twitter.com/search?q=Bocardi) | N/A |
-| 20 | [Movimento Nacional](http://twitter.com/search?q=Movimento+Nacional) | N/A |
-| 21 | [Lisbela e o Prisioneiro](http://twitter.com/search?q=Lisbela+e+o+Prisioneiro) | N/A |
-| 22 | [calendário](http://twitter.com/search?q=calend%c3%a1rio) | N/A |
-| 23 | [Lavagem](http://twitter.com/search?q=Lavagem) | N/A |
-| 24 | [Vacinação](http://twitter.com/search?q=Vacina%c3%a7%c3%a3o) | N/A |
-| 25 | [Namaria](http://twitter.com/search?q=Namaria) | N/A |
-| 26 | [Dia de Vasco](http://twitter.com/search?q=Dia+de+Vasco) | Dia de Vasco is a holiday celebrated in the Basque Country of Spain. It is held on June 25th and commemorates the Battle of Vitoria, which was fought in 1813 and resulted in a decisive victory for the Spanish forces over the French. The holiday celebrates the Basque people's struggle for independence and freedom from foreign rule. In English, it translates to "Day of Vitoria". |
-| 27 | [Campari](http://twitter.com/search?q=Campari) | N/A |
-| 28 | [Estômago](http://twitter.com/search?q=Est%c3%b4mago) | N/A |
-| 29 | [Bacurau](http://twitter.com/search?q=Bacurau) | N/A |
-| 30 | [Lágrimas](http://twitter.com/search?q=L%c3%a1grimas) | N/A |
-| 31 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 32 | [Eliezer](http://twitter.com/search?q=Eliezer) | N/A |
-| 33 | [Lillard](http://twitter.com/search?q=Lillard) | N/A |
-| 34 | [Viva o SUS](http://twitter.com/search?q=Viva+o+SUS) | N/A |
-| 35 | [Harvard](http://twitter.com/search?q=Harvard) | N/A |
-| 36 | [Grenal](http://twitter.com/search?q=Grenal) | N/A |
-| 37 | [Eduardo Bolsonaro](http://twitter.com/search?q=Eduardo+Bolsonaro) | N/A |
-| 38 | [Zé Gotinha](http://twitter.com/search?q=Z%c3%a9+Gotinha) | N/A |
-| 39 | [O Homem](http://twitter.com/search?q=O+Homem) | N/A |
-| 40 | [Brasil de Pelotas](http://twitter.com/search?q=Brasil+de+Pelotas) | Brasil de Pelotas is a Brazilian football club based in the city of Pelotas, Rio Grande do Sul. The club was founded in 1912 and currently plays in the Campeonato Brasileiro Série B, the second tier of Brazilian football. The name of the club literally translates to "Brazil from Pelotas" in English. |
-| 41 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
-| 42 | [Tinashe](http://twitter.com/search?q=Tinashe) | N/A |
-| 43 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
-| 44 | [Kim Taehyung](http://twitter.com/search?q=Kim+Taehyung) | Kim Taehyung is the stage name of South Korean singer, songwriter, and actor V (Kim Tae-hyung). His name means "to fly" in Korean. |
-| 45 | [CESAR BLACK](http://twitter.com/search?q=CESAR+BLACK) | N/A |
-| 46 | [Bahrein](http://twitter.com/search?q=Bahrein) | N/A |
-| 47 | [Matrix](http://twitter.com/search?q=Matrix) | N/A |
-| 48 | [Rodrigo Faro](http://twitter.com/search?q=Rodrigo+Faro) | N/A |
-| 49 | [Estácio](http://twitter.com/search?q=Est%c3%a1cio) | Estácio is a Brazilian university network. It is the largest private higher education institution in Brazil, with more than 300,000 students enrolled in over 100 campuses across the country. The name Estácio comes from the Latin word "stacio", which means "to stand". In English, Estácio can be translated as "standing place". |
+| 3 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
+| 4 | [#MaisVoce](http://twitter.com/search?q=%23MaisVoce) | N/A |
+| 5 | [Suicune](http://twitter.com/search?q=Suicune) | N/A |
+| 6 | [Ana Maria](http://twitter.com/search?q=Ana+Maria) | N/A |
+| 7 | [MC Bin Laden](http://twitter.com/search?q=MC+Bin+Laden) | N/A |
+| 8 | [#ForaNicacio](http://twitter.com/search?q=%23ForaNicacio) | N/A |
+| 9 | [Bolsonaro Store](http://twitter.com/search?q=Bolsonaro+Store) | N/A |
+| 10 | [READY TO BE](http://twitter.com/search?q=READY+TO+BE) | N/A |
+| 11 | [#FORACARADESAPATO](http://twitter.com/search?q=%23FORACARADESAPATO) | N/A |
+| 12 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
+| 13 | [#f360br](http://twitter.com/search?q=%23f360br) | N/A |
+| 14 | [Scarlet](http://twitter.com/search?q=Scarlet) | N/A |
+| 15 | [Violet](http://twitter.com/search?q=Violet) | N/A |
+| 16 | [Gmail](http://twitter.com/search?q=Gmail) | N/A |
+| 17 | [Movimento Nacional](http://twitter.com/search?q=Movimento+Nacional) | N/A |
+| 18 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
+| 19 | [Vacinação](http://twitter.com/search?q=Vacina%c3%a7%c3%a3o) | N/A |
+| 20 | [Bocardi](http://twitter.com/search?q=Bocardi) | N/A |
+| 21 | [Fred Inácio](http://twitter.com/search?q=Fred+In%c3%a1cio) | N/A |
+| 22 | [Feliz Ano Novo](http://twitter.com/search?q=Feliz+Ano+Novo) | N/A |
+| 23 | [DLCs](http://twitter.com/search?q=DLCs) | N/A |
+| 24 | [Feliz 2023](http://twitter.com/search?q=Feliz+2023) | Feliz 2023 is a Spanish phrase that translates to "Happy 2023" in English. It is typically used as a greeting or expression of good wishes for the upcoming year. |
+| 25 | [RACE WEEK](http://twitter.com/search?q=RACE+WEEK) | N/A |
+| 26 | [Campari](http://twitter.com/search?q=Campari) | N/A |
+| 27 | [Segundou](http://twitter.com/search?q=Segundou) | N/A |
+| 28 | [Dia de Vasco](http://twitter.com/search?q=Dia+de+Vasco) | Dia de Vasco is a holiday celebrated in the Basque Country of Spain. It is held on June 25th and commemorates the Battle of Vitoria, which was fought in 1813 and resulted in a decisive victory for the Spanish forces over the French. The holiday celebrates the Basque people's struggle for independence and freedom from foreign rule. In English, it translates to "Day of Vitoria". |
+| 29 | [Calendário](http://twitter.com/search?q=Calend%c3%a1rio) | N/A |
+| 30 | [Estômago](http://twitter.com/search?q=Est%c3%b4mago) | N/A |
+| 31 | [Lisbela e o Prisioneiro](http://twitter.com/search?q=Lisbela+e+o+Prisioneiro) | N/A |
+| 32 | [Lavagem](http://twitter.com/search?q=Lavagem) | N/A |
+| 33 | [Imagine Dragons](http://twitter.com/search?q=Imagine+Dragons) | N/A |
+| 34 | [Zé Gotinha](http://twitter.com/search?q=Z%c3%a9+Gotinha) | N/A |
+| 35 | [Eduardo Bolsonaro](http://twitter.com/search?q=Eduardo+Bolsonaro) | N/A |
+| 36 | [Catarinense](http://twitter.com/search?q=Catarinense) | N/A |
+| 37 | [Beach Park](http://twitter.com/search?q=Beach+Park) | N/A |
+| 38 | [Eliezer](http://twitter.com/search?q=Eliezer) | N/A |
+| 39 | [Viva o SUS](http://twitter.com/search?q=Viva+o+SUS) | N/A |
+| 40 | [Lágrimas](http://twitter.com/search?q=L%c3%a1grimas) | N/A |
+| 41 | [Bacurau](http://twitter.com/search?q=Bacurau) | N/A |
+| 42 | [Lillard](http://twitter.com/search?q=Lillard) | N/A |
+| 43 | [GREnal](http://twitter.com/search?q=GREnal) | N/A |
+| 44 | [Harvard](http://twitter.com/search?q=Harvard) | N/A |
+| 45 | [O Homem](http://twitter.com/search?q=O+Homem) | N/A |
+| 46 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
+| 47 | [Bento Gonçalves](http://twitter.com/search?q=Bento+Gon%c3%a7alves) | N/A |
+| 48 | [tinashe](http://twitter.com/search?q=tinashe) | N/A |
+| 49 | [Lionel Messi](http://twitter.com/search?q=Lionel+Messi) | N/A |
 
 
 
