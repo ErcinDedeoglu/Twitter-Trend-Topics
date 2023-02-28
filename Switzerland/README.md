@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-02-28 13:21:46 UTC`
+📆 Last Updated: `2023-02-28 14:16:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Switzerland
 | 1 | [#HRC52](http://twitter.com/search?q=%23HRC52) | N/A |
 | 2 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
 | 3 | [#Yemen](http://twitter.com/search?q=%23Yemen) | N/A |
-| 4 | [#hartaberfair](http://twitter.com/search?q=%23hartaberfair) | #hartaberfair is a German phrase that translates to "fair and square" or "just and fair". It is used to express the idea of fairness and justice in a situation. |
-| 5 | [#Windisch](http://twitter.com/search?q=%23Windisch) | N/A |
-| 6 | [Asylanten](http://twitter.com/search?q=Asylanten) | N/A |
-| 7 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 8 | [#Iran](http://twitter.com/search?q=%23Iran) | N/A |
-| 9 | [Mieter](http://twitter.com/search?q=Mieter) | N/A |
+| 4 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 5 | [#Iran](http://twitter.com/search?q=%23Iran) | N/A |
+| 6 | [#Windisch](http://twitter.com/search?q=%23Windisch) | N/A |
+| 7 | [Mieter](http://twitter.com/search?q=Mieter) | N/A |
+| 8 | [#hartaberfair](http://twitter.com/search?q=%23hartaberfair) | #hartaberfair is a German phrase that translates to "fair and square" or "just and fair". It is used to express the idea of fairness and justice in a situation. |
+| 9 | [Asylanten](http://twitter.com/search?q=Asylanten) | N/A |
 | 10 | [Human Rights Council](http://twitter.com/search?q=Human+Rights+Council) | N/A |
-| 11 | [Fabio Celestini](http://twitter.com/search?q=Fabio+Celestini) | N/A |
-| 12 | [Kündigung](http://twitter.com/search?q=K%c3%bcndigung) | N/A |
-| 13 | [Alex](http://twitter.com/search?q=Alex) | N/A |
-| 14 | [Filter](http://twitter.com/search?q=Filter) | N/A |
+| 11 | [fabio celestini](http://twitter.com/search?q=fabio+celestini) | N/A |
+| 12 | [Filter](http://twitter.com/search?q=Filter) | N/A |
+| 13 | [Kündigung](http://twitter.com/search?q=K%c3%bcndigung) | N/A |
+| 14 | [Alex](http://twitter.com/search?q=Alex) | N/A |
 | 15 | [Isabel Garcia](http://twitter.com/search?q=Isabel+Garcia) | N/A |
 | 16 | [Eigentümer](http://twitter.com/search?q=Eigent%c3%bcmer) | N/A |
 | 17 | [Hetze](http://twitter.com/search?q=Hetze) | N/A |
 | 18 | [Elly Schlein](http://twitter.com/search?q=Elly+Schlein) | N/A |
 | 19 | [Kanton](http://twitter.com/search?q=Kanton) | N/A |
-| 20 | [asylunterkunft](http://twitter.com/search?q=asylunterkunft) | N/A |
-| 21 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 22 | [Disarmament](http://twitter.com/search?q=Disarmament) | N/A |
-| 23 | [Nationalrat](http://twitter.com/search?q=Nationalrat) | N/A |
-| 24 | [fc sion](http://twitter.com/search?q=fc+sion) | N/A |
-| 25 | [Moderator](http://twitter.com/search?q=Moderator) | N/A |
-| 26 | [Flüchtlinge](http://twitter.com/search?q=Fl%c3%bcchtlinge) | N/A |
-| 27 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
-| 28 | [Fachkräftemangel](http://twitter.com/search?q=Fachkr%c3%a4ftemangel) | N/A |
-| 29 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 30 | [Shame](http://twitter.com/search?q=Shame) | N/A |
-| 31 | [Agenda](http://twitter.com/search?q=Agenda) | N/A |
-| 32 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
-| 33 | [Zucker](http://twitter.com/search?q=Zucker) | N/A |
-| 34 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
-| 35 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
+| 20 | [Bank](http://twitter.com/search?q=Bank) | N/A |
+| 21 | [Asylunterkunft](http://twitter.com/search?q=Asylunterkunft) | N/A |
+| 22 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 23 | [Disarmament](http://twitter.com/search?q=Disarmament) | N/A |
+| 24 | [Nationalrat](http://twitter.com/search?q=Nationalrat) | N/A |
+| 25 | [fc sion](http://twitter.com/search?q=fc+sion) | N/A |
+| 26 | [Fachkräftemangel](http://twitter.com/search?q=Fachkr%c3%a4ftemangel) | N/A |
+| 27 | [Moderator](http://twitter.com/search?q=Moderator) | N/A |
+| 28 | [Flüchtlinge](http://twitter.com/search?q=Fl%c3%bcchtlinge) | N/A |
+| 29 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
+| 30 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 31 | [Shame](http://twitter.com/search?q=Shame) | N/A |
+| 32 | [Lösungen](http://twitter.com/search?q=L%c3%b6sungen) | N/A |
+| 33 | [Agenda](http://twitter.com/search?q=Agenda) | N/A |
+| 34 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
+| 35 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
 | 36 | [Elden Ring](http://twitter.com/search?q=Elden+Ring) | N/A |
 | 37 | [Northern Ireland](http://twitter.com/search?q=Northern+Ireland) | N/A |
 | 38 | [svpler](http://twitter.com/search?q=svpler) | N/A |
-| 39 | [Julien](http://twitter.com/search?q=Julien) | N/A |
-| 40 | [Daniele](http://twitter.com/search?q=Daniele) | N/A |
-| 41 | [Bank](http://twitter.com/search?q=Bank) | N/A |
-| 42 | [Geneva](http://twitter.com/search?q=Geneva) | N/A |
-| 43 | [Conference](http://twitter.com/search?q=Conference) | N/A |
-| 44 | [Fauci](http://twitter.com/search?q=Fauci) | N/A |
-| 45 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 46 | [Geschichten](http://twitter.com/search?q=Geschichten) | N/A |
-| 47 | [Details](http://twitter.com/search?q=Details) | N/A |
-| 48 | [Timo Meier](http://twitter.com/search?q=Timo+Meier) | N/A |
-| 49 | [D'ailleurs](http://twitter.com/search?q=D%27ailleurs) | N/A |
-| 50 | [Karte](http://twitter.com/search?q=Karte) | N/A |
+| 39 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 40 | [Julien](http://twitter.com/search?q=Julien) | N/A |
+| 41 | [Daniele](http://twitter.com/search?q=Daniele) | N/A |
+| 42 | [Zucker](http://twitter.com/search?q=Zucker) | N/A |
+| 43 | [Geneva](http://twitter.com/search?q=Geneva) | N/A |
+| 44 | [Conference](http://twitter.com/search?q=Conference) | N/A |
+| 45 | [migration](http://twitter.com/search?q=migration) | N/A |
+| 46 | [Karte](http://twitter.com/search?q=Karte) | N/A |
+| 47 | [Geschichten](http://twitter.com/search?q=Geschichten) | N/A |
+| 48 | [Details](http://twitter.com/search?q=Details) | N/A |
+| 49 | [Timo Meier](http://twitter.com/search?q=Timo+Meier) | N/A |
+| 50 | [D'ailleurs](http://twitter.com/search?q=D%27ailleurs) | N/A |
 
 
 

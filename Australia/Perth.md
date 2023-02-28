@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Perth
 
-📆 Last Updated: `2023-02-28 13:21:14 UTC`
+📆 Last Updated: `2023-02-28 14:16:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,53 @@ This is top 50 for [Australia](</Australia>)
 | 1 | [#NZvENG](http://twitter.com/search?q=%23NZvENG) | N/A |
 | 2 | [#SurvivorAU](http://twitter.com/search?q=%23SurvivorAU) | N/A |
 | 3 | [#MAFSAU](http://twitter.com/search?q=%23MAFSAU) | N/A |
-| 4 | [#Queerstralia](http://twitter.com/search?q=%23Queerstralia) | N/A |
-| 5 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 6 | [Flick](http://twitter.com/search?q=Flick) | N/A |
-| 7 | [Father Bob](http://twitter.com/search?q=Father+Bob) | N/A |
-| 8 | [Sandy](http://twitter.com/search?q=Sandy) | N/A |
-| 9 | [Stuart Robert](http://twitter.com/search?q=Stuart+Robert) | N/A |
-| 10 | [Shaun](http://twitter.com/search?q=Shaun) | N/A |
-| 11 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
+| 4 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 5 | [Flick](http://twitter.com/search?q=Flick) | N/A |
+| 6 | [Father Bob](http://twitter.com/search?q=Father+Bob) | N/A |
+| 7 | [Sandy](http://twitter.com/search?q=Sandy) | N/A |
+| 8 | [Stuart Robert](http://twitter.com/search?q=Stuart+Robert) | N/A |
+| 9 | [Shaun](http://twitter.com/search?q=Shaun) | N/A |
+| 10 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
+| 11 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
 | 12 | [Test Cricket](http://twitter.com/search?q=Test+Cricket) | N/A |
 | 13 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
-| 14 | [keenan](http://twitter.com/search?q=keenan) | N/A |
-| 15 | [Renee Leon](http://twitter.com/search?q=Renee+Leon) | N/A |
-| 16 | [Sarah Ferguson](http://twitter.com/search?q=Sarah+Ferguson) | N/A |
-| 17 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
+| 14 | [Keenan](http://twitter.com/search?q=Keenan) | N/A |
+| 15 | [renee leon](http://twitter.com/search?q=renee+leon) | N/A |
+| 16 | [Rupert Murdoch](http://twitter.com/search?q=Rupert+Murdoch) | N/A |
+| 17 | [sarah ferguson](http://twitter.com/search?q=sarah+ferguson) | N/A |
 | 18 | [Lismore](http://twitter.com/search?q=Lismore) | N/A |
-| 19 | [Hayley](http://twitter.com/search?q=Hayley) | N/A |
-| 20 | [Rupert Murdoch](http://twitter.com/search?q=Rupert+Murdoch) | N/A |
-| 21 | [Rowan Dean](http://twitter.com/search?q=Rowan+Dean) | N/A |
+| 19 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
+| 20 | [Shonee](http://twitter.com/search?q=Shonee) | N/A |
+| 21 | [Hayley](http://twitter.com/search?q=Hayley) | N/A |
 | 22 | [Joffa](http://twitter.com/search?q=Joffa) | N/A |
-| 23 | [Shonee](http://twitter.com/search?q=Shonee) | N/A |
-| 24 | [Angus](http://twitter.com/search?q=Angus) | N/A |
-| 25 | [Tayla](http://twitter.com/search?q=Tayla) | N/A |
-| 26 | [Marzhew](http://twitter.com/search?q=Marzhew) | N/A |
+| 23 | [Angus Taylor](http://twitter.com/search?q=Angus+Taylor) | N/A |
+| 24 | [Tayla](http://twitter.com/search?q=Tayla) | N/A |
+| 25 | [Sussan](http://twitter.com/search?q=Sussan) | N/A |
+| 26 | [marzhew](http://twitter.com/search?q=marzhew) | N/A |
 | 27 | [Fauci](http://twitter.com/search?q=Fauci) | N/A |
 | 28 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
 | 29 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
 | 30 | [Mardi Gras](http://twitter.com/search?q=Mardi+Gras) | N/A |
-| 31 | [Sussan](http://twitter.com/search?q=Sussan) | N/A |
-| 32 | [Foakes](http://twitter.com/search?q=Foakes) | N/A |
+| 31 | [Ronni](http://twitter.com/search?q=Ronni) | Ronni is a female given name, derived from the name Veronica. It is a diminutive form of the name, and can be used as a nickname. The meaning of Ronni in English is "true image". |
+| 32 | [Rowan Dean](http://twitter.com/search?q=Rowan+Dean) | N/A |
 | 33 | [Kathryn Campbell](http://twitter.com/search?q=Kathryn+Campbell) | N/A |
-| 34 | [neil wagner](http://twitter.com/search?q=neil+wagner) | N/A |
+| 34 | [Neil Wagner](http://twitter.com/search?q=Neil+Wagner) | N/A |
 | 35 | [Rachel](http://twitter.com/search?q=Rachel) | N/A |
 | 36 | [Walking Wake](http://twitter.com/search?q=Walking+Wake) | N/A |
 | 37 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
 | 38 | [Bazball](http://twitter.com/search?q=Bazball) | N/A |
-| 39 | [Daily Quordle 400](http://twitter.com/search?q=Daily+Quordle+400) | N/A |
-| 40 | [Luke Thompson](http://twitter.com/search?q=Luke+Thompson) | N/A |
-| 41 | [Windy Point](http://twitter.com/search?q=Windy+Point) | N/A |
+| 39 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
+| 40 | [Daily Quordle 400](http://twitter.com/search?q=Daily+Quordle+400) | N/A |
+| 41 | [Luke Thompson](http://twitter.com/search?q=Luke+Thompson) | N/A |
 | 42 | [NSW Cup](http://twitter.com/search?q=NSW+Cup) | N/A |
 | 43 | [saul griffith](http://twitter.com/search?q=saul+griffith) | N/A |
 | 44 | [Lita](http://twitter.com/search?q=Lita) | N/A |
 | 45 | [Lyndall](http://twitter.com/search?q=Lyndall) | N/A |
-| 46 | [allegra](http://twitter.com/search?q=allegra) | N/A |
-| 47 | [Jim Chalmers](http://twitter.com/search?q=Jim+Chalmers) | N/A |
-| 48 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
-| 49 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
+| 46 | [Pocock](http://twitter.com/search?q=Pocock) | N/A |
+| 47 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
+| 48 | [Creed III](http://twitter.com/search?q=Creed+III) | N/A |
+| 49 | [The Project](http://twitter.com/search?q=The+Project) | N/A |
+| 50 | [Kate](http://twitter.com/search?q=Kate) | N/A |
 
 
 

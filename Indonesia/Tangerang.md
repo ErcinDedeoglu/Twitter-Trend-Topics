@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tangerang
 
-📆 Last Updated: `2023-02-28 13:21:13 UTC`
+📆 Last Updated: `2023-02-28 14:16:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#BSICharityConcert2023](http://twitter.com/search?q=%23BSICharityConcert2023) | N/A |
-| 2 | [#BLK2023](http://twitter.com/search?q=%23BLK2023) | N/A |
-| 3 | [#Dehya](http://twitter.com/search?q=%23Dehya) | N/A |
-| 4 | [Perjalanan Sebuah Mahakarya](http://twitter.com/search?q=Perjalanan+Sebuah+Mahakarya) | N/A |
-| 5 | [Addie MS](http://twitter.com/search?q=Addie+MS) | N/A |
-| 6 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
+| 1 | [#JISOOxDiorAW23](http://twitter.com/search?q=%23JISOOxDiorAW23) | N/A |
+| 2 | [#BSICharityConcert2023](http://twitter.com/search?q=%23BSICharityConcert2023) | N/A |
+| 3 | [#BLK2023](http://twitter.com/search?q=%23BLK2023) | N/A |
+| 4 | [Series 5G](http://twitter.com/search?q=Series+5G) | N/A |
+| 5 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
+| 6 | [Perjalanan Sebuah Mahakarya](http://twitter.com/search?q=Perjalanan+Sebuah+Mahakarya) | N/A |
 | 7 | [ASTRO](http://twitter.com/search?q=ASTRO) | N/A |
-| 8 | [Chrisye](http://twitter.com/search?q=Chrisye) | N/A |
-| 9 | [PBSI](http://twitter.com/search?q=PBSI) | N/A |
-| 10 | [lazbeauty mua masterclass](http://twitter.com/search?q=lazbeauty+mua+masterclass) | N/A |
-| 11 | [Ilyy](http://twitter.com/search?q=Ilyy) | N/A |
-| 12 | [Didi Kempot](http://twitter.com/search?q=Didi+Kempot) | N/A |
-| 13 | [nadia](http://twitter.com/search?q=nadia) | N/A |
-| 14 | [Stranger Things](http://twitter.com/search?q=Stranger+Things) | N/A |
-| 15 | [Gen 2](http://twitter.com/search?q=Gen+2) | N/A |
-| 16 | [marline hariman](http://twitter.com/search?q=marline+hariman) | N/A |
-| 17 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 18 | [Ryan Ogilvy](http://twitter.com/search?q=Ryan+Ogilvy) | N/A |
-| 19 | [Jam 5](http://twitter.com/search?q=Jam+5) | N/A |
+| 8 | [DIOR WITH NATTAWIN](http://twitter.com/search?q=DIOR+WITH+NATTAWIN) | N/A |
+| 9 | [Addie MS](http://twitter.com/search?q=Addie+MS) | N/A |
+| 10 | [Chrisye](http://twitter.com/search?q=Chrisye) | N/A |
+| 11 | [Aroha](http://twitter.com/search?q=Aroha) | N/A |
+| 12 | [Ilyy](http://twitter.com/search?q=Ilyy) | N/A |
+| 13 | [PBSI](http://twitter.com/search?q=PBSI) | N/A |
+| 14 | [Mengangkat](http://twitter.com/search?q=Mengangkat) | N/A |
+| 15 | [Beng](http://twitter.com/search?q=Beng) | N/A |
+| 16 | [Nadia](http://twitter.com/search?q=Nadia) | N/A |
+| 17 | [Didi Kempot](http://twitter.com/search?q=Didi+Kempot) | N/A |
+| 18 | [Stranger Things](http://twitter.com/search?q=Stranger+Things) | N/A |
+| 19 | [Gen 2](http://twitter.com/search?q=Gen+2) | N/A |
 | 20 | [Flandy](http://twitter.com/search?q=Flandy) | N/A |
-| 21 | [Scoopy](http://twitter.com/search?q=Scoopy) | N/A |
-| 22 | [Reply 1988](http://twitter.com/search?q=Reply+1988) | N/A |
-| 23 | [Gubernurnya](http://twitter.com/search?q=Gubernurnya) | N/A |
-| 24 | [Rakyat](http://twitter.com/search?q=Rakyat) | N/A |
-| 25 | [Laut Bercerita](http://twitter.com/search?q=Laut+Bercerita) | N/A |
-| 26 | [Mengangkat](http://twitter.com/search?q=Mengangkat) | N/A |
-| 27 | [Hospital Playlist](http://twitter.com/search?q=Hospital+Playlist) | N/A |
-| 28 | [Vario](http://twitter.com/search?q=Vario) | N/A |
-| 29 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
-| 30 | [Sukuna](http://twitter.com/search?q=Sukuna) | N/A |
-| 31 | [Zara](http://twitter.com/search?q=Zara) | Zara is a Spanish clothing and accessories retailer. It is one of the largest international fashion companies, and specializes in fast fashion. The name Zara is derived from the name of the founder's daughter, Zara Amalia. |
-| 32 | [Okin](http://twitter.com/search?q=Okin) | N/A |
-| 33 | [Jam 7](http://twitter.com/search?q=Jam+7) | N/A |
-| 34 | [Februari 2023](http://twitter.com/search?q=Februari+2023) | N/A |
-| 35 | [Bertaruh](http://twitter.com/search?q=Bertaruh) | N/A |
-| 36 | [PNBP](http://twitter.com/search?q=PNBP) | N/A |
-| 37 | [#GenshinImpactID](http://twitter.com/search?q=%23GenshinImpactID) | N/A |
-| 38 | [#AturanAntiCintaJKT48](http://twitter.com/search?q=%23AturanAntiCintaJKT48) | N/A |
-| 39 | [#TiffanyxWin](http://twitter.com/search?q=%23TiffanyxWin) | N/A |
-| 40 | [#NeverLetMeGoSeriesFinalEP](http://twitter.com/search?q=%23NeverLetMeGoSeriesFinalEP) | N/A |
-| 41 | [#cikupawww](http://twitter.com/search?q=%23cikupawww) | N/A |
-| 42 | [#KelasMakeupLazada](http://twitter.com/search?q=%23KelasMakeupLazada) | N/A |
-| 43 | [#UN1TYEPIKBTV](http://twitter.com/search?q=%23UN1TYEPIKBTV) | N/A |
-| 44 | [#KawalDavid](http://twitter.com/search?q=%23KawalDavid) | N/A |
-| 45 | [#TiffanyAndCo](http://twitter.com/search?q=%23TiffanyAndCo) | N/A |
-| 46 | [#testimiroh](http://twitter.com/search?q=%23testimiroh) | N/A |
-| 47 | [#SamsungxRaisaConcert](http://twitter.com/search?q=%23SamsungxRaisaConcert) | N/A |
-| 48 | [#PeShan](http://twitter.com/search?q=%23PeShan) | N/A |
+| 21 | [Reply 1988](http://twitter.com/search?q=Reply+1988) | N/A |
+| 22 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 23 | [Jam 5](http://twitter.com/search?q=Jam+5) | N/A |
+| 24 | [Vario](http://twitter.com/search?q=Vario) | N/A |
+| 25 | [Hospital Playlist](http://twitter.com/search?q=Hospital+Playlist) | N/A |
+| 26 | [Rakyat](http://twitter.com/search?q=Rakyat) | N/A |
+| 27 | [Scoopy](http://twitter.com/search?q=Scoopy) | N/A |
+| 28 | [laut bercerita](http://twitter.com/search?q=laut+bercerita) | N/A |
+| 29 | [Shea](http://twitter.com/search?q=Shea) | N/A |
+| 30 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
+| 31 | [Sukuna](http://twitter.com/search?q=Sukuna) | N/A |
+| 32 | [Bubah Alfian](http://twitter.com/search?q=Bubah+Alfian) | N/A |
+| 33 | [Zara](http://twitter.com/search?q=Zara) | Zara is a Spanish clothing and accessories retailer. It is one of the largest international fashion companies, and specializes in fast fashion. The name Zara is derived from the name of the founder's daughter, Zara Amalia. |
+| 34 | [Gubernurnya](http://twitter.com/search?q=Gubernurnya) | N/A |
+| 35 | [Maret 2023](http://twitter.com/search?q=Maret+2023) | N/A |
+| 36 | [Februari 2023](http://twitter.com/search?q=Februari+2023) | N/A |
+| 37 | [Jam 7](http://twitter.com/search?q=Jam+7) | N/A |
+| 38 | [#ShareTheEpicwithRaisa](http://twitter.com/search?q=%23ShareTheEpicwithRaisa) | N/A |
+| 39 | [#withGalaxy](http://twitter.com/search?q=%23withGalaxy) | N/A |
+| 40 | [#Dehya](http://twitter.com/search?q=%23Dehya) | N/A |
+| 41 | [#ApoxDiorAW2023](http://twitter.com/search?q=%23ApoxDiorAW2023) | N/A |
+| 42 | [#NeverLetMeGoSeriesFinalEP](http://twitter.com/search?q=%23NeverLetMeGoSeriesFinalEP) | N/A |
+| 43 | [#GenshinImpactID](http://twitter.com/search?q=%23GenshinImpactID) | N/A |
+| 44 | [#UN1TYEPIKBTV](http://twitter.com/search?q=%23UN1TYEPIKBTV) | N/A |
+| 45 | [#NeverLetMeGoFinalEP](http://twitter.com/search?q=%23NeverLetMeGoFinalEP) | N/A |
+| 46 | [#AturanAntiCintaJKT48](http://twitter.com/search?q=%23AturanAntiCintaJKT48) | N/A |
+| 47 | [#KawalDavid](http://twitter.com/search?q=%23KawalDavid) | N/A |
+| 48 | [#TiffanyxWin](http://twitter.com/search?q=%23TiffanyxWin) | N/A |
 
 
 

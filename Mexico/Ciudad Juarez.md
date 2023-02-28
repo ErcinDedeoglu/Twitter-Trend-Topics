@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ciudad Juarez
 
-📆 Last Updated: `2023-02-28 13:20:57 UTC`
+📆 Last Updated: `2023-02-28 14:16:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,52 @@ This is top 50 for [Mexico](</Mexico>)
 | ------- | ------------ | ------------ |
 | 1 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
 | 2 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 3 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
-| 4 | [#ElINENoSeToca](http://twitter.com/search?q=%23ElINENoSeToca) | N/A |
-| 5 | [#EstaVivo](http://twitter.com/search?q=%23EstaVivo) | N/A |
-| 6 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
-| 7 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
-| 8 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
+| 3 | [#JISOOxDiorAW23](http://twitter.com/search?q=%23JISOOxDiorAW23) | N/A |
+| 4 | [#Kornelfo](http://twitter.com/search?q=%23Kornelfo) | N/A |
+| 5 | [#caminitoalaescuela](http://twitter.com/search?q=%23caminitoalaescuela) | N/A |
+| 6 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 7 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
+| 8 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
 | 9 | [Zócalo](http://twitter.com/search?q=Z%c3%b3calo) | N/A |
 | 10 | [Ana Gabriel](http://twitter.com/search?q=Ana+Gabriel) | N/A |
 | 11 | [ASTRO](http://twitter.com/search?q=ASTRO) | N/A |
 | 12 | [mati eres fortaleza](http://twitter.com/search?q=mati+eres+fortaleza) | N/A |
 | 13 | [Duvan](http://twitter.com/search?q=Duvan) | N/A |
 | 14 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 15 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
-| 16 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
-| 17 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 18 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 15 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 16 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
+| 17 | [Dinamarca](http://twitter.com/search?q=Dinamarca) | N/A |
+| 18 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
 | 19 | [Nuevo Laredo](http://twitter.com/search?q=Nuevo+Laredo) | N/A |
-| 20 | [Germán](http://twitter.com/search?q=Germ%c3%a1n) | Germán is a Spanish and Portuguese name derived from the Latin Germanus, meaning "brother". It is also a Germanic given name, derived from the Germanic element ger, meaning "spear". |
+| 20 | [hailey](http://twitter.com/search?q=hailey) | N/A |
 | 21 | [Luzu](http://twitter.com/search?q=Luzu) | Luzu is a Spanish word that means light. It is often used to refer to a bright, cheerful, and optimistic attitude. |
-| 22 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 23 | [LATE LATE SHOW WITH TXT](http://twitter.com/search?q=LATE+LATE+SHOW+WITH+TXT) | N/A |
-| 24 | [Rayados](http://twitter.com/search?q=Rayados) | Rayados is the nickname of the Mexican soccer team Club de Fútbol Monterrey, which is based in Monterrey, Mexico. The name Rayados translates to "Striped Ones" in English, referring to the team's striped jerseys. |
-| 25 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
-| 26 | [di yorio](http://twitter.com/search?q=di+yorio) | N/A |
-| 27 | [Fernan](http://twitter.com/search?q=Fernan) | N/A |
-| 28 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
-| 29 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
-| 30 | [López](http://twitter.com/search?q=L%c3%b3pez) | N/A |
-| 31 | [Maxi](http://twitter.com/search?q=Maxi) | Maxi is a term used to describe a long, loose-fitting dress or skirt that reaches the ankles. It is typically made of lightweight fabrics such as cotton or linen and is often worn in warm weather. The term can also refer to a style of dress that is shorter than a maxi dress but still reaches the ankles. |
-| 32 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 33 | [POLLY PASTEL BY BUILD](http://twitter.com/search?q=POLLY+PASTEL+BY+BUILD) | N/A |
+| 22 | [Germán](http://twitter.com/search?q=Germ%c3%a1n) | Germán is a Spanish and Portuguese name derived from the Latin Germanus, meaning "brother". It is also a Germanic given name, derived from the Germanic element ger, meaning "spear". |
+| 23 | [Colbert](http://twitter.com/search?q=Colbert) | N/A |
+| 24 | [Excelente Martes](http://twitter.com/search?q=Excelente+Martes) | N/A |
+| 25 | [LATE LATE SHOW WITH TXT](http://twitter.com/search?q=LATE+LATE+SHOW+WITH+TXT) | N/A |
+| 26 | [Miquella](http://twitter.com/search?q=Miquella) | N/A |
+| 27 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 28 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
+| 29 | [Rayados](http://twitter.com/search?q=Rayados) | Rayados is the nickname of the Mexican soccer team Club de Fútbol Monterrey, which is based in Monterrey, Mexico. The name Rayados translates to "Striped Ones" in English, referring to the team's striped jerseys. |
+| 30 | [Fernan](http://twitter.com/search?q=Fernan) | N/A |
+| 31 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
+| 32 | [López](http://twitter.com/search?q=L%c3%b3pez) | N/A |
+| 33 | [Meica](http://twitter.com/search?q=Meica) | N/A |
 | 34 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
-| 35 | [Andrada](http://twitter.com/search?q=Andrada) | Andrada is a Spanish surname derived from the Latin word "andradus," which means "brave." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "brave one." |
-| 36 | [Pandita](http://twitter.com/search?q=Pandita) | N/A |
-| 37 | [Funes](http://twitter.com/search?q=Funes) | Funes is a Spanish surname derived from the Latin word "fons" meaning "spring". It is also a place name in Spain, derived from the same root. In English, it can be translated to mean "source of water". |
-| 38 | [Coscu](http://twitter.com/search?q=Coscu) | N/A |
-| 39 | [Amouranth](http://twitter.com/search?q=Amouranth) | N/A |
-| 40 | [VITACILINA](http://twitter.com/search?q=VITACILINA) | N/A |
-| 41 | [Martes 28](http://twitter.com/search?q=Martes+28) | N/A |
-| 42 | [Mayichi](http://twitter.com/search?q=Mayichi) | N/A |
-| 43 | [berterame](http://twitter.com/search?q=berterame) | N/A |
-| 44 | [Vuce](http://twitter.com/search?q=Vuce) | N/A |
-| 45 | [GOLDEN SUN](http://twitter.com/search?q=GOLDEN+SUN) | N/A |
-| 46 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
-| 47 | [moscato](http://twitter.com/search?q=moscato) | N/A |
-| 48 | [Plan B](http://twitter.com/search?q=Plan+B) | N/A |
+| 35 | [POLLY PASTEL BY BUILD](http://twitter.com/search?q=POLLY+PASTEL+BY+BUILD) | N/A |
+| 36 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 37 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 38 | [Di Yorio](http://twitter.com/search?q=Di+Yorio) | N/A |
+| 39 | [Pandita](http://twitter.com/search?q=Pandita) | N/A |
+| 40 | [Maxi](http://twitter.com/search?q=Maxi) | Maxi is a term used to describe a long, loose-fitting dress or skirt that reaches the ankles. It is typically made of lightweight fabrics such as cotton or linen and is often worn in warm weather. The term can also refer to a style of dress that is shorter than a maxi dress but still reaches the ankles. |
+| 41 | [Funes](http://twitter.com/search?q=Funes) | Funes is a Spanish surname derived from the Latin word "fons" meaning "spring". It is also a place name in Spain, derived from the same root. In English, it can be translated to mean "source of water". |
+| 42 | [Coscu](http://twitter.com/search?q=Coscu) | N/A |
+| 43 | [Martes 28](http://twitter.com/search?q=Martes+28) | N/A |
+| 44 | [andrada](http://twitter.com/search?q=andrada) | N/A |
+| 45 | [Amouranth](http://twitter.com/search?q=Amouranth) | N/A |
+| 46 | [VITACILINA](http://twitter.com/search?q=VITACILINA) | N/A |
+| 47 | [Mayichi](http://twitter.com/search?q=Mayichi) | N/A |
+| 48 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
 
 
 

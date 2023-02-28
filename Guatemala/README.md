@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-02-28 13:21:42 UTC`
+📆 Last Updated: `2023-02-28 14:16:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,44 +17,44 @@ This is top 50 for Guatemala
 | ------- | ------------ | ------------ |
 | 1 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
 | 2 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 3 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
-| 4 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
+| 3 | [#ROCKY](http://twitter.com/search?q=%23ROCKY) | N/A |
+| 4 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
 | 5 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
 | 6 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 7 | [#ROCKY](http://twitter.com/search?q=%23ROCKY) | N/A |
+| 7 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
 | 8 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
 | 9 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
 | 10 | [Almería](http://twitter.com/search?q=Almer%c3%ada) | Almería is a city in the southeastern region of Spain. It is the capital of the province of Almería and is located on the Mediterranean Sea. In English, Almería means "The Watchtower". |
 | 11 | [Lana Del Rey](http://twitter.com/search?q=Lana+Del+Rey) | N/A |
 | 12 | [Kendrick Lamar](http://twitter.com/search?q=Kendrick+Lamar) | N/A |
 | 13 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 14 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
-| 15 | [mac miller](http://twitter.com/search?q=mac+miller) | N/A |
-| 16 | [#LaVelada3](http://twitter.com/search?q=%23LaVelada3) | N/A |
-| 17 | [Germán](http://twitter.com/search?q=Germ%c3%a1n) | Germán is a Spanish and Portuguese name derived from the Latin Germanus, meaning "brother". It is also a Germanic given name, derived from the Germanic element ger, meaning "spear". |
-| 18 | [Ariana Grande](http://twitter.com/search?q=Ariana+Grande) | N/A |
-| 19 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
-| 20 | [Fernan](http://twitter.com/search?q=Fernan) | N/A |
-| 21 | [Alexia](http://twitter.com/search?q=Alexia) | Alexia is a neurological disorder that affects a person's ability to read. It is also known as word blindness or dyslexia. People with Alexia have difficulty understanding written words, even though they may be able to speak and write normally. |
-| 22 | [taylor swift](http://twitter.com/search?q=taylor+swift) | N/A |
-| 23 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
-| 24 | [Arctic Monkeys](http://twitter.com/search?q=Arctic+Monkeys) | N/A |
-| 25 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
-| 26 | [Scaloni](http://twitter.com/search?q=Scaloni) | N/A |
-| 27 | [Michael Jackson](http://twitter.com/search?q=Michael+Jackson) | N/A |
+| 14 | [Mac Miller](http://twitter.com/search?q=Mac+Miller) | N/A |
+| 15 | [#LaVelada3](http://twitter.com/search?q=%23LaVelada3) | N/A |
+| 16 | [Germán](http://twitter.com/search?q=Germ%c3%a1n) | Germán is a Spanish and Portuguese name derived from the Latin Germanus, meaning "brother". It is also a Germanic given name, derived from the Germanic element ger, meaning "spear". |
+| 17 | [Ariana Grande](http://twitter.com/search?q=Ariana+Grande) | N/A |
+| 18 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
+| 19 | [Fernan](http://twitter.com/search?q=Fernan) | N/A |
+| 20 | [Alexia](http://twitter.com/search?q=Alexia) | Alexia is a neurological disorder that affects a person's ability to read. It is also known as word blindness or dyslexia. People with Alexia have difficulty understanding written words, even though they may be able to speak and write normally. |
+| 21 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
+| 22 | [Arctic Monkeys](http://twitter.com/search?q=Arctic+Monkeys) | N/A |
+| 23 | [Scaloni](http://twitter.com/search?q=Scaloni) | N/A |
+| 24 | [Danny Ocean](http://twitter.com/search?q=Danny+Ocean) | N/A |
+| 25 | [Michael Jackson](http://twitter.com/search?q=Michael+Jackson) | N/A |
+| 26 | [Taylor Swift](http://twitter.com/search?q=Taylor+Swift) | N/A |
+| 27 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
 | 28 | [Rels B](http://twitter.com/search?q=Rels+B) | N/A |
-| 29 | [Bruno Mars](http://twitter.com/search?q=Bruno+Mars) | Bruno Mars is the stage name of American singer-songwriter Peter Gene Hernandez. He is known for his soulful, pop-influenced music and his wide range of musical styles, including R&B, funk, reggae, hip hop, and pop. |
-| 30 | [Luzu](http://twitter.com/search?q=Luzu) | Luzu is a Spanish word that means light. It is often used to refer to a bright, cheerful, and optimistic attitude. |
-| 31 | [Danny Ocean](http://twitter.com/search?q=Danny+Ocean) | N/A |
+| 29 | [Luzu](http://twitter.com/search?q=Luzu) | Luzu is a Spanish word that means light. It is often used to refer to a bright, cheerful, and optimistic attitude. |
+| 30 | [Miley Cyrus](http://twitter.com/search?q=Miley+Cyrus) | Miley Cyrus is an American singer, songwriter, and actress. She rose to fame as a teen idol after starring in the Disney Channel television series Hannah Montana in 2006. Her music has spanned a range of styles, from pop and country to hip hop. |
+| 31 | [Post Malone](http://twitter.com/search?q=Post+Malone) | N/A |
 | 32 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
-| 33 | [Miley Cyrus](http://twitter.com/search?q=Miley+Cyrus) | Miley Cyrus is an American singer, songwriter, and actress. She rose to fame as a teen idol after starring in the Disney Channel television series Hannah Montana in 2006. Her music has spanned a range of styles, from pop and country to hip hop. |
-| 34 | [Post Malone](http://twitter.com/search?q=Post+Malone) | N/A |
-| 35 | [eladio carrion](http://twitter.com/search?q=eladio+carrion) | N/A |
-| 36 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
-| 37 | [Kanye West](http://twitter.com/search?q=Kanye+West) | N/A |
-| 38 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
-| 39 | [Justin Bieber](http://twitter.com/search?q=Justin+Bieber) | N/A |
-| 40 | [Mazariegos](http://twitter.com/search?q=Mazariegos) | N/A |
+| 33 | [eladio carrion](http://twitter.com/search?q=eladio+carrion) | N/A |
+| 34 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
+| 35 | [Kanye West](http://twitter.com/search?q=Kanye+West) | N/A |
+| 36 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
+| 37 | [Bruno Mars](http://twitter.com/search?q=Bruno+Mars) | Bruno Mars is the stage name of American singer-songwriter Peter Gene Hernandez. He is known for his soulful, pop-influenced music and his wide range of musical styles, including R&B, funk, reggae, hip hop, and pop. |
+| 38 | [Justin Bieber](http://twitter.com/search?q=Justin+Bieber) | N/A |
+| 39 | [MAZARIEGOS](http://twitter.com/search?q=MAZARIEGOS) | N/A |
+| 40 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
 | 41 | [rauw alejandro](http://twitter.com/search?q=rauw+alejandro) | N/A |
 | 42 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
 | 43 | [Mayichi](http://twitter.com/search?q=Mayichi) | N/A |

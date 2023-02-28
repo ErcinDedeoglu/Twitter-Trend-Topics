@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Antonio
 
-📆 Last Updated: `2023-02-28 13:21:37 UTC`
+📆 Last Updated: `2023-02-28 14:16:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
-| 2 | [#ApoxDiorAW2023](http://twitter.com/search?q=%23ApoxDiorAW2023) | N/A |
-| 3 | [Elden Ring DLC](http://twitter.com/search?q=Elden+Ring+DLC) | N/A |
-| 4 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 5 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
-| 6 | [Miquella](http://twitter.com/search?q=Miquella) | N/A |
-| 7 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 8 | [#TuesdayThoughts](http://twitter.com/search?q=%23TuesdayThoughts) | N/A |
-| 9 | [#Wordle619](http://twitter.com/search?q=%23Wordle619) | N/A |
-| 10 | [Daily Quordle 400](http://twitter.com/search?q=Daily+Quordle+400) | N/A |
-| 11 | [Nudy](http://twitter.com/search?q=Nudy) | N/A |
-| 12 | [David Hogg](http://twitter.com/search?q=David+Hogg) | N/A |
-| 13 | [Shadow of the Erdtree](http://twitter.com/search?q=Shadow+of+the+Erdtree) | N/A |
-| 14 | [Player of the Matchday](http://twitter.com/search?q=Player+of+the+Matchday) | N/A |
-| 15 | [Murdoch](http://twitter.com/search?q=Murdoch) | N/A |
-| 16 | [Torrent](http://twitter.com/search?q=Torrent) | N/A |
-| 17 | [Marika](http://twitter.com/search?q=Marika) | N/A |
-| 18 | [Daron Payne](http://twitter.com/search?q=Daron+Payne) | N/A |
-| 19 | [Colbert](http://twitter.com/search?q=Colbert) | N/A |
-| 20 | [Election Day](http://twitter.com/search?q=Election+Day) | N/A |
-| 21 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
-| 22 | [CNN and MSNBC](http://twitter.com/search?q=CNN+and+MSNBC) | N/A |
-| 23 | [Maxine Waters](http://twitter.com/search?q=Maxine+Waters) | N/A |
-| 24 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
-| 25 | [Gherbo](http://twitter.com/search?q=Gherbo) | N/A |
-| 26 | [Tom Sizemore](http://twitter.com/search?q=Tom+Sizemore) | N/A |
-| 27 | [Parkland](http://twitter.com/search?q=Parkland) | N/A |
-| 28 | [Lita](http://twitter.com/search?q=Lita) | N/A |
-| 29 | [Dan Snyder](http://twitter.com/search?q=Dan+Snyder) | N/A |
-| 30 | [Lori Lightfoot](http://twitter.com/search?q=Lori+Lightfoot) | N/A |
-| 31 | [Platinum Chanel](http://twitter.com/search?q=Platinum+Chanel) | N/A |
-| 32 | [Dr Fauci](http://twitter.com/search?q=Dr+Fauci) | N/A |
-| 33 | [Becky](http://twitter.com/search?q=Becky) | N/A |
-| 34 | [Pete Davidson](http://twitter.com/search?q=Pete+Davidson) | Pete Davidson is an American comedian, actor, and writer. He is best known for being a cast member on Saturday Night Live since 2014. He has also appeared in films such as Big Time Adolescence and The King of Staten Island. |
-| 35 | [Janet Yellen](http://twitter.com/search?q=Janet+Yellen) | N/A |
-| 36 | [Bill Gates](http://twitter.com/search?q=Bill+Gates) | N/A |
-| 37 | [Trish](http://twitter.com/search?q=Trish) | N/A |
-| 38 | [Gold Alpinas](http://twitter.com/search?q=Gold+Alpinas) | N/A |
-| 39 | [Jim Acosta](http://twitter.com/search?q=Jim+Acosta) | N/A |
-| 40 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
-| 41 | [Heineken](http://twitter.com/search?q=Heineken) | N/A |
-| 42 | [Proud Boys](http://twitter.com/search?q=Proud+Boys) | N/A |
-| 43 | [Weverse](http://twitter.com/search?q=Weverse) | Weverse is a social media platform created by the South Korean entertainment company Big Hit Entertainment. It is designed to connect fans with artists and allow them to interact with each other. The name Weverse is derived from the words “we” and “universe”, representing the idea of creating a universe where fans and artists can come together. |
-| 44 | [Jared Kushner](http://twitter.com/search?q=Jared+Kushner) | N/A |
-| 45 | [Damage CTRL](http://twitter.com/search?q=Damage+CTRL) | N/A |
-| 46 | [Fox "News"](http://twitter.com/search?q=Fox+%22News%22) | N/A |
-| 47 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
-| 48 | [Bray](http://twitter.com/search?q=Bray) | Bray is a verb meaning to make a loud, harsh sound, usually like the sound of an animal or machine. It is often used to describe the sound made by a donkey or mule. |
-| 49 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 50 | [Lashley](http://twitter.com/search?q=Lashley) | Lashley is a surname of English origin. It is derived from the Old English words læsc (meaning "salmon") and leah (meaning "woodland clearing"). The name was originally given to someone who lived near a salmon-filled stream or river. |
+| 1 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
+| 2 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
+| 3 | [#ApoxDiorAW2023](http://twitter.com/search?q=%23ApoxDiorAW2023) | N/A |
+| 4 | [#JISOOxDiorAW23](http://twitter.com/search?q=%23JISOOxDiorAW23) | N/A |
+| 5 | [JISOO THE FACE OF DIOR](http://twitter.com/search?q=JISOO+THE+FACE+OF+DIOR) | N/A |
+| 6 | [Leslie Frazier](http://twitter.com/search?q=Leslie+Frazier) | Leslie Frazier is an American football coach and former player. He is currently the defensive coordinator for the Buffalo Bills of the National Football League (NFL). He previously served as head coach of the Minnesota Vikings from 2011 to 2013. |
+| 7 | [Elden Ring DLC](http://twitter.com/search?q=Elden+Ring+DLC) | N/A |
+| 8 | [Miquella](http://twitter.com/search?q=Miquella) | N/A |
+| 9 | [#RareDiseaseDay](http://twitter.com/search?q=%23RareDiseaseDay) | N/A |
+| 10 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 11 | [Brian Johnson](http://twitter.com/search?q=Brian+Johnson) | N/A |
+| 12 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
+| 13 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
+| 14 | [DIOR WITH NATTAWIN](http://twitter.com/search?q=DIOR+WITH+NATTAWIN) | N/A |
+| 15 | [Dan Snyder](http://twitter.com/search?q=Dan+Snyder) | N/A |
+| 16 | [David Hogg](http://twitter.com/search?q=David+Hogg) | N/A |
+| 17 | [Nudy](http://twitter.com/search?q=Nudy) | N/A |
+| 18 | [Daily Quordle 400](http://twitter.com/search?q=Daily+Quordle+400) | N/A |
+| 19 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 20 | [Goodell](http://twitter.com/search?q=Goodell) | Goodell is a surname of English origin. It is derived from the Old English words "god" and "wella," meaning "good spring." The name was originally given to someone who lived near a good spring or well. |
+| 21 | [Murdoch](http://twitter.com/search?q=Murdoch) | N/A |
+| 22 | [Shadow of the Erdtree](http://twitter.com/search?q=Shadow+of+the+Erdtree) | N/A |
+| 23 | [Colbert](http://twitter.com/search?q=Colbert) | N/A |
+| 24 | [Daron Payne](http://twitter.com/search?q=Daron+Payne) | N/A |
+| 25 | [Fantagio](http://twitter.com/search?q=Fantagio) | N/A |
+| 26 | [Player of the Matchday](http://twitter.com/search?q=Player+of+the+Matchday) | N/A |
+| 27 | [Torrent](http://twitter.com/search?q=Torrent) | N/A |
+| 28 | [Election Day](http://twitter.com/search?q=Election+Day) | N/A |
+| 29 | [Jessie Bates](http://twitter.com/search?q=Jessie+Bates) | N/A |
+| 30 | [Marika](http://twitter.com/search?q=Marika) | N/A |
+| 31 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
+| 32 | [Parkland](http://twitter.com/search?q=Parkland) | N/A |
+| 33 | [Tom Sizemore](http://twitter.com/search?q=Tom+Sizemore) | N/A |
+| 34 | [Lightfoot](http://twitter.com/search?q=Lightfoot) | N/A |
+| 35 | [Gherbo](http://twitter.com/search?q=Gherbo) | N/A |
+| 36 | [CNN and MSNBC](http://twitter.com/search?q=CNN+and+MSNBC) | N/A |
+| 37 | [Joy Reid](http://twitter.com/search?q=Joy+Reid) | N/A |
+| 38 | [Maxine Waters](http://twitter.com/search?q=Maxine+Waters) | N/A |
+| 39 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
+| 40 | [Dr Fauci](http://twitter.com/search?q=Dr+Fauci) | N/A |
+| 41 | [Lita](http://twitter.com/search?q=Lita) | N/A |
+| 42 | [Pete Davidson](http://twitter.com/search?q=Pete+Davidson) | Pete Davidson is an American comedian, actor, and writer. He is best known for being a cast member on Saturday Night Live since 2014. He has also appeared in films such as Big Time Adolescence and The King of Staten Island. |
+| 43 | [Jim Acosta](http://twitter.com/search?q=Jim+Acosta) | N/A |
+| 44 | [Heineken](http://twitter.com/search?q=Heineken) | N/A |
+| 45 | [Janet Yellen](http://twitter.com/search?q=Janet+Yellen) | N/A |
+| 46 | [Brandon Johnson](http://twitter.com/search?q=Brandon+Johnson) | N/A |
+| 47 | [Northern Ireland](http://twitter.com/search?q=Northern+Ireland) | N/A |
+| 48 | [Gold Alpinas](http://twitter.com/search?q=Gold+Alpinas) | N/A |
+| 49 | [Platinum Chanel](http://twitter.com/search?q=Platinum+Chanel) | N/A |
+| 50 | [Bray](http://twitter.com/search?q=Bray) | Bray is a verb meaning to make a loud, harsh sound, usually like the sound of an animal or machine. It is often used to describe the sound made by a donkey or mule. |
 
 
 

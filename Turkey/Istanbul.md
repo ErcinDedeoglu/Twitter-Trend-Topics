@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Istanbul
 
-📆 Last Updated: `2023-02-28 13:21:30 UTC`
+📆 Last Updated: `2023-02-28 14:16:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Erbakan](http://twitter.com/search?q=Erbakan) | N/A |
-| 2 | [Kulüpler](http://twitter.com/search?q=Kul%c3%bcpler) | N/A |
-| 3 | [Mekanın](http://twitter.com/search?q=Mekan%c4%b1n) | N/A |
+| 1 | [Kulüpler](http://twitter.com/search?q=Kul%c3%bcpler) | N/A |
+| 2 | [Erbakan](http://twitter.com/search?q=Erbakan) | N/A |
+| 3 | [Ezan](http://twitter.com/search?q=Ezan) | N/A |
 | 4 | [#alfas](http://twitter.com/search?q=%23alfas) | N/A |
-| 5 | [Ezan](http://twitter.com/search?q=Ezan) | N/A |
-| 6 | [#DeplasmanımaDokunma](http://twitter.com/search?q=%23Deplasman%c4%b1maDokunma) | N/A |
+| 5 | [#DeplasmanımaDokunma](http://twitter.com/search?q=%23Deplasman%c4%b1maDokunma) | N/A |
+| 6 | [#EYTBugünBitiyor](http://twitter.com/search?q=%23EYTBug%c3%bcnBitiyor) | N/A |
 | 7 | [#28Şubat](http://twitter.com/search?q=%2328%c5%9eubat) | N/A |
-| 8 | [#EYTBugünBitiyor](http://twitter.com/search?q=%23EYTBug%c3%bcnBitiyor) | N/A |
+| 8 | [#DefolGeberesice](http://twitter.com/search?q=%23DefolGeberesice) | N/A |
 | 9 | [Mansur Yavaş](http://twitter.com/search?q=Mansur+Yava%c5%9f) | N/A |
 | 10 | [Karagümrük](http://twitter.com/search?q=Karag%c3%bcmr%c3%bck) | Karagümrük is a neighborhood in Istanbul, Turkey. The name Karagümrük is derived from the Turkish words "kara" (black) and "gümüş" (silver), referring to the blacksmiths who used to work in the area. In English, Karagümrük translates to "Blacksmith's Corner". |
 | 11 | [Sabih Kanadoğlu](http://twitter.com/search?q=Sabih+Kanado%c4%9flu) | N/A |
-| 12 | [#DefolGeberesice](http://twitter.com/search?q=%23DefolGeberesice) | N/A |
+| 12 | [Ateşi](http://twitter.com/search?q=Ate%c5%9fi) | N/A |
 | 13 | [Bugün Fenerbahçe'ye](http://twitter.com/search?q=Bug%c3%bcn+Fenerbah%c3%a7e%27ye) | N/A |
 | 14 | [Beraberiz Güçlüyüz](http://twitter.com/search?q=Beraberiz+G%c3%bc%c3%a7l%c3%bcy%c3%bcz) | N/A |
-| 15 | [Ateşi](http://twitter.com/search?q=Ate%c5%9fi) | N/A |
-| 16 | [Hudut](http://twitter.com/search?q=Hudut) | N/A |
-| 17 | [Kağıthane Devlet Hastanesi](http://twitter.com/search?q=Ka%c4%9f%c4%b1thane+Devlet+Hastanesi) | N/A |
-| 18 | [Altılı Masa](http://twitter.com/search?q=Alt%c4%b1l%c4%b1+Masa) | Altılı Masa is a Turkish card game. It is similar to the American game of poker, but with some differences. The name translates literally to "Six Table" and refers to the six players who can play at one time. The goal of the game is to make the best five-card hand out of seven cards dealt to each player. |
-| 19 | [Talisca](http://twitter.com/search?q=Talisca) | Talisca is a Portuguese name derived from the Latin word talis, meaning “such” or “so much.” It is also a surname in some parts of Portugal. In English, it can be translated to mean “so much” or “so great.” |
-| 20 | [Dünkü](http://twitter.com/search?q=D%c3%bcnk%c3%bc) | N/A |
-| 21 | [Hulusi Akar](http://twitter.com/search?q=Hulusi+Akar) | N/A |
-| 22 | [Uğur](http://twitter.com/search?q=U%c4%9fur) | N/A |
-| 23 | [Görevden](http://twitter.com/search?q=G%c3%b6revden) | N/A |
-| 24 | [Aidat](http://twitter.com/search?q=Aidat) | N/A |
-| 25 | [Burç](http://twitter.com/search?q=Bur%c3%a7) | N/A |
-| 26 | [Galatasaraylı](http://twitter.com/search?q=Galatasarayl%c4%b1) | N/A |
+| 15 | [Hudut](http://twitter.com/search?q=Hudut) | N/A |
+| 16 | [Kayseri](http://twitter.com/search?q=Kayseri) | N/A |
+| 17 | [Vural Savaş](http://twitter.com/search?q=Vural+Sava%c5%9f) | N/A |
+| 18 | [Yusuf Kerim](http://twitter.com/search?q=Yusuf+Kerim) | N/A |
+| 19 | [Kahramanmaraş'ın Elbistan](http://twitter.com/search?q=Kahramanmara%c5%9f%27%c4%b1n+Elbistan) | N/A |
+| 20 | [Kağıthane Devlet Hastanesi](http://twitter.com/search?q=Ka%c4%9f%c4%b1thane+Devlet+Hastanesi) | N/A |
+| 21 | [Piercing](http://twitter.com/search?q=Piercing) | N/A |
+| 22 | [Burç](http://twitter.com/search?q=Bur%c3%a7) | N/A |
+| 23 | [Talisca](http://twitter.com/search?q=Talisca) | Talisca is a Portuguese name derived from the Latin word talis, meaning “such” or “so much.” It is also a surname in some parts of Portugal. In English, it can be translated to mean “so much” or “so great.” |
+| 24 | [Altılı Masa](http://twitter.com/search?q=Alt%c4%b1l%c4%b1+Masa) | Altılı Masa is a Turkish card game. It is similar to the American game of poker, but with some differences. The name translates literally to "Six Table" and refers to the six players who can play at one time. The goal of the game is to make the best five-card hand out of seven cards dealt to each player. |
+| 25 | [Uğur](http://twitter.com/search?q=U%c4%9fur) | N/A |
+| 26 | [Dünkü](http://twitter.com/search?q=D%c3%bcnk%c3%bc) | N/A |
 | 27 | [Barbunya](http://twitter.com/search?q=Barbunya) | N/A |
-| 28 | [Aday](http://twitter.com/search?q=Aday) | N/A |
-| 29 | [Yukarı](http://twitter.com/search?q=Yukar%c4%b1) | N/A |
-| 30 | [Kerem Kınık](http://twitter.com/search?q=Kerem+K%c4%b1n%c4%b1k) | N/A |
-| 31 | [Piercing](http://twitter.com/search?q=Piercing) | N/A |
-| 32 | [Maça](http://twitter.com/search?q=Ma%c3%a7a) | N/A |
-| 33 | [Unutmadık](http://twitter.com/search?q=Unutmad%c4%b1k) | N/A |
-| 34 | [Zalimler](http://twitter.com/search?q=Zalimler) | N/A |
-| 35 | [Tuğba Ekinci](http://twitter.com/search?q=Tu%c4%9fba+Ekinci) | N/A |
-| 36 | [Çocuklara](http://twitter.com/search?q=%c3%87ocuklara) | N/A |
-| 37 | [Başarı](http://twitter.com/search?q=Ba%c5%9far%c4%b1) | N/A |
-| 38 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 39 | [Zorro](http://twitter.com/search?q=Zorro) | N/A |
-| 40 | [TİP'e](http://twitter.com/search?q=T%c4%b0P%27e) | N/A |
-| 41 | [Korkunun](http://twitter.com/search?q=Korkunun) | N/A |
-| 42 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 43 | [Yakışır](http://twitter.com/search?q=Yak%c4%b1%c5%9f%c4%b1r) | Yakışır is a Turkish word that means "it suits" or "it fits". It is used to express approval of something that looks good or appropriate. |
-| 44 | [Muhsin Yazıcıoğlu](http://twitter.com/search?q=Muhsin+Yaz%c4%b1c%c4%b1o%c4%9flu) | N/A |
-| 45 | [Korkaklar](http://twitter.com/search?q=Korkaklar) | N/A |
-| 46 | [Kasımpaşa](http://twitter.com/search?q=Kas%c4%b1mpa%c5%9fa) | Kasımpaşa is a neighborhood in Istanbul, Turkey. It is located on the European side of the city, on the shores of the Sea of Marmara. The name Kasımpaşa comes from the Ottoman era and means "the place of the butcher". |
-| 47 | [i̇rem derici](http://twitter.com/search?q=i%cc%87rem+derici) | N/A |
-| 48 | [Özlem](http://twitter.com/search?q=%c3%96zlem) | N/A |
-| 49 | [Futbola](http://twitter.com/search?q=Futbola) | N/A |
-| 50 | [Taraftarın](http://twitter.com/search?q=Taraftar%c4%b1n) | N/A |
+| 28 | [Aidat](http://twitter.com/search?q=Aidat) | N/A |
+| 29 | [2022 KPSS](http://twitter.com/search?q=2022+KPSS) | N/A |
+| 30 | [Kızılay Başkanı](http://twitter.com/search?q=K%c4%b1z%c4%b1lay+Ba%c5%9fkan%c4%b1) | N/A |
+| 31 | [Galatasaraylı](http://twitter.com/search?q=Galatasarayl%c4%b1) | N/A |
+| 32 | [Zalimler](http://twitter.com/search?q=Zalimler) | N/A |
+| 33 | [Hulusi Akar](http://twitter.com/search?q=Hulusi+Akar) | N/A |
+| 34 | [Yukarı](http://twitter.com/search?q=Yukar%c4%b1) | N/A |
+| 35 | [Unutmadık](http://twitter.com/search?q=Unutmad%c4%b1k) | N/A |
+| 36 | [Aday](http://twitter.com/search?q=Aday) | N/A |
+| 37 | [Görevden](http://twitter.com/search?q=G%c3%b6revden) | N/A |
+| 38 | [Maça](http://twitter.com/search?q=Ma%c3%a7a) | N/A |
+| 39 | [Üyelik](http://twitter.com/search?q=%c3%9cyelik) | N/A |
+| 40 | [Tuğba Ekinci](http://twitter.com/search?q=Tu%c4%9fba+Ekinci) | N/A |
+| 41 | [Zorro](http://twitter.com/search?q=Zorro) | N/A |
+| 42 | [Çocuklara](http://twitter.com/search?q=%c3%87ocuklara) | N/A |
+| 43 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 44 | [Başarı](http://twitter.com/search?q=Ba%c5%9far%c4%b1) | N/A |
+| 45 | [Mekanın](http://twitter.com/search?q=Mekan%c4%b1n) | N/A |
+| 46 | [Cumhurbaşkanımız Sn](http://twitter.com/search?q=Cumhurba%c5%9fkan%c4%b1m%c4%b1z+Sn) | N/A |
+| 47 | [Yakışır](http://twitter.com/search?q=Yak%c4%b1%c5%9f%c4%b1r) | Yakışır is a Turkish word that means "it suits" or "it fits". It is used to express approval of something that looks good or appropriate. |
+| 48 | [TİP'e](http://twitter.com/search?q=T%c4%b0P%27e) | N/A |
+| 49 | [Korkunun](http://twitter.com/search?q=Korkunun) | N/A |
+| 50 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Multan
 
-📆 Last Updated: `2023-02-28 13:21:26 UTC`
+📆 Last Updated: `2023-02-28 14:16:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,48 +22,48 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 5 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 6 | [G-11](http://twitter.com/search?q=G-11) | N/A |
 | 7 | [Abdullah Shafique](http://twitter.com/search?q=Abdullah+Shafique) | N/A |
-| 8 | [International Conference](http://twitter.com/search?q=International+Conference) | N/A |
-| 9 | [US Embassy](http://twitter.com/search?q=US+Embassy) | N/A |
-| 10 | [murad saeed](http://twitter.com/search?q=murad+saeed) | N/A |
-| 11 | [Maria B](http://twitter.com/search?q=Maria+B) | N/A |
-| 12 | [Test Cricket](http://twitter.com/search?q=Test+Cricket) | N/A |
-| 13 | [tom curran](http://twitter.com/search?q=tom+curran) | N/A |
-| 14 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
-| 15 | [Lt Gen](http://twitter.com/search?q=Lt+Gen) | N/A |
-| 16 | [Wheels](http://twitter.com/search?q=Wheels) | N/A |
-| 17 | [Lahore](http://twitter.com/search?q=Lahore) | N/A |
+| 8 | [Maria B](http://twitter.com/search?q=Maria+B) | N/A |
+| 9 | [tom curran](http://twitter.com/search?q=tom+curran) | N/A |
+| 10 | [Test Cricket](http://twitter.com/search?q=Test+Cricket) | N/A |
+| 11 | [Murad Saeed](http://twitter.com/search?q=Murad+Saeed) | N/A |
+| 12 | [International Conference](http://twitter.com/search?q=International+Conference) | N/A |
+| 13 | [Lt Gen](http://twitter.com/search?q=Lt+Gen) | N/A |
+| 14 | [US Embassy](http://twitter.com/search?q=US+Embassy) | N/A |
+| 15 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
+| 16 | [MAJOR MISSING ARYLIE](http://twitter.com/search?q=MAJOR+MISSING+ARYLIE) | N/A |
+| 17 | [Wheels](http://twitter.com/search?q=Wheels) | N/A |
 | 18 | [Your DM](http://twitter.com/search?q=Your+DM) | N/A |
-| 19 | [Fakhar Zaman](http://twitter.com/search?q=Fakhar+Zaman) | Fakhar Zaman is a Pakistani cricketer who plays for the Pakistan national cricket team. His name means "pride" in English. |
-| 20 | [Talat](http://twitter.com/search?q=Talat) | N/A |
-| 21 | [Wiese](http://twitter.com/search?q=Wiese) | N/A |
-| 22 | [Pashtun](http://twitter.com/search?q=Pashtun) | N/A |
-| 23 | [Haris Rauf](http://twitter.com/search?q=Haris+Rauf) | N/A |
-| 24 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 25 | [Qazi](http://twitter.com/search?q=Qazi) | N/A |
-| 26 | [Twitch](http://twitter.com/search?q=Twitch) | N/A |
-| 27 | [Judge](http://twitter.com/search?q=Judge) | N/A |
-| 28 | [Noon](http://twitter.com/search?q=Noon) | N/A |
-| 29 | [Constitution](http://twitter.com/search?q=Constitution) | N/A |
+| 19 | [Pashtun](http://twitter.com/search?q=Pashtun) | N/A |
+| 20 | [Qazi](http://twitter.com/search?q=Qazi) | N/A |
+| 21 | [Lahore Qalandars](http://twitter.com/search?q=Lahore+Qalandars) | N/A |
+| 22 | [fakhar zaman](http://twitter.com/search?q=fakhar+zaman) | N/A |
+| 23 | [Talat](http://twitter.com/search?q=Talat) | N/A |
+| 24 | [Rashid](http://twitter.com/search?q=Rashid) | N/A |
+| 25 | [Wiese](http://twitter.com/search?q=Wiese) | N/A |
+| 26 | [Haris Rauf](http://twitter.com/search?q=Haris+Rauf) | N/A |
+| 27 | [Khyber Pakhtunkhwa](http://twitter.com/search?q=Khyber+Pakhtunkhwa) | N/A |
+| 28 | [Punjab](http://twitter.com/search?q=Punjab) | N/A |
+| 29 | [Judge](http://twitter.com/search?q=Judge) | N/A |
 | 30 | [Pure](http://twitter.com/search?q=Pure) | N/A |
-| 31 | [Maryam Safdar](http://twitter.com/search?q=Maryam+Safdar) | N/A |
-| 32 | [Hindus](http://twitter.com/search?q=Hindus) | N/A |
-| 33 | [Petrol](http://twitter.com/search?q=Petrol) | N/A |
-| 34 | [Sindh](http://twitter.com/search?q=Sindh) | N/A |
-| 35 | [Noice](http://twitter.com/search?q=Noice) | N/A |
-| 36 | [Hats](http://twitter.com/search?q=Hats) | N/A |
-| 37 | [Ya Allah](http://twitter.com/search?q=Ya+Allah) | N/A |
-| 38 | [Feb Dump](http://twitter.com/search?q=Feb+Dump) | N/A |
-| 39 | [Establishment](http://twitter.com/search?q=Establishment) | N/A |
-| 40 | [Imam](http://twitter.com/search?q=Imam) | Imam is an Islamic term that refers to a spiritual leader or religious authority. It is typically used to refer to the person who leads prayers in a mosque, but it can also refer to any Muslim leader or scholar. In English, the word Imam is often translated as "leader" or "teacher". |
-| 41 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
-| 42 | [Lanat](http://twitter.com/search?q=Lanat) | N/A |
-| 43 | [Shame](http://twitter.com/search?q=Shame) | N/A |
-| 44 | [Hero](http://twitter.com/search?q=Hero) | N/A |
-| 45 | [Judiciary](http://twitter.com/search?q=Judiciary) | N/A |
-| 46 | [Ayesha](http://twitter.com/search?q=Ayesha) | N/A |
-| 47 | [Assembly](http://twitter.com/search?q=Assembly) | N/A |
-| 48 | [Germany](http://twitter.com/search?q=Germany) | N/A |
-| 49 | [OpenSea](http://twitter.com/search?q=OpenSea) | N/A |
+| 31 | [Germany](http://twitter.com/search?q=Germany) | N/A |
+| 32 | [America](http://twitter.com/search?q=America) | N/A |
+| 33 | [Lanat](http://twitter.com/search?q=Lanat) | N/A |
+| 34 | [absolutely not](http://twitter.com/search?q=absolutely+not) | N/A |
+| 35 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
+| 36 | [İmam](http://twitter.com/search?q=%c4%b0mam) | N/A |
+| 37 | [IIOJK](http://twitter.com/search?q=IIOJK) | N/A |
+| 38 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
+| 39 | [FEB DUMP](http://twitter.com/search?q=FEB+DUMP) | N/A |
+| 40 | [Judicial](http://twitter.com/search?q=Judicial) | N/A |
+| 41 | [Proof](http://twitter.com/search?q=Proof) | N/A |
+| 42 | [May God](http://twitter.com/search?q=May+God) | N/A |
+| 43 | [Hats](http://twitter.com/search?q=Hats) | N/A |
+| 44 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
+| 45 | [Aray](http://twitter.com/search?q=Aray) | N/A |
+| 46 | [Constitution](http://twitter.com/search?q=Constitution) | N/A |
+| 47 | [Shame](http://twitter.com/search?q=Shame) | N/A |
+| 48 | [Assembly](http://twitter.com/search?q=Assembly) | N/A |
+| 49 | [Google](http://twitter.com/search?q=Google) | N/A |
 
 
 

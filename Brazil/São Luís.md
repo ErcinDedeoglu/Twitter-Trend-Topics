@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For São Luís
 
-📆 Last Updated: `2023-02-28 13:21:04 UTC`
+📆 Last Updated: `2023-02-28 14:16:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,49 +21,49 @@ This is top 50 for [Brazil](</Brazil>)
 | 4 | [Domitila](http://twitter.com/search?q=Domitila) | Domitila is a Spanish female name derived from the Latin Domitius, meaning “tamed” or “subdued”. It is also a variant of the Roman name Domitia, which means “lordly” or “powerful”. |
 | 5 | [#bbb2023](http://twitter.com/search?q=%23bbb2023) | #bbb2023 is a hashtag used on social media platforms such as Twitter and Instagram. It is typically used to tag posts related to a specific event, topic, or person. In this case, it could be used to tag posts related to a particular event taking place in 2023. |
 | 6 | [Bruna](http://twitter.com/search?q=Bruna) | Bruna is a Portuguese word meaning "brown". It is often used to describe someone or something that has a brown color. |
-| 7 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
-| 8 | [UFMG](http://twitter.com/search?q=UFMG) | N/A |
-| 9 | [Parabénssss](http://twitter.com/search?q=Parab%c3%a9nssss) | N/A |
-| 10 | [sisu](http://twitter.com/search?q=sisu) | N/A |
-| 11 | [Miquella](http://twitter.com/search?q=Miquella) | N/A |
-| 12 | [#NeverLetMeGoSeriesFinalEP](http://twitter.com/search?q=%23NeverLetMeGoSeriesFinalEP) | N/A |
-| 13 | [#BDSP](http://twitter.com/search?q=%23BDSP) | N/A |
+| 7 | [JISOO THE FACE OF DIOR](http://twitter.com/search?q=JISOO+THE+FACE+OF+DIOR) | N/A |
+| 8 | [#JISOOxDiorAW23](http://twitter.com/search?q=%23JISOOxDiorAW23) | N/A |
+| 9 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
+| 10 | [Wanessa Camargo](http://twitter.com/search?q=Wanessa+Camargo) | N/A |
+| 11 | [#NeverLetMeGoSeriesFinalEP](http://twitter.com/search?q=%23NeverLetMeGoSeriesFinalEP) | N/A |
+| 12 | [UFMG](http://twitter.com/search?q=UFMG) | N/A |
+| 13 | [sisu](http://twitter.com/search?q=sisu) | N/A |
 | 14 | [#Encontro](http://twitter.com/search?q=%23Encontro) | N/A |
-| 15 | [DLC de Elden Ring](http://twitter.com/search?q=DLC+de+Elden+Ring) | N/A |
-| 16 | [União Brasil](http://twitter.com/search?q=Uni%c3%a3o+Brasil) | N/A |
-| 17 | [UFRJ](http://twitter.com/search?q=UFRJ) | N/A |
+| 15 | [Bolsa Família](http://twitter.com/search?q=Bolsa+Fam%c3%adlia) | N/A |
+| 16 | [Parabénssss](http://twitter.com/search?q=Parab%c3%a9nssss) | N/A |
+| 17 | [União Brasil](http://twitter.com/search?q=Uni%c3%a3o+Brasil) | N/A |
 | 18 | [Bento Gonçalves](http://twitter.com/search?q=Bento+Gon%c3%a7alves) | N/A |
-| 19 | [Juscelino Filho](http://twitter.com/search?q=Juscelino+Filho) | N/A |
-| 20 | [Shadow of the Erdtree](http://twitter.com/search?q=Shadow+of+the+Erdtree) | N/A |
-| 21 | [ASTRO](http://twitter.com/search?q=ASTRO) | N/A |
-| 22 | [JEON JUNGKOOK](http://twitter.com/search?q=JEON+JUNGKOOK) | Jeon Jungkook is the stage name of Jungkook, a South Korean singer, songwriter, and dancer. He is a member of the boy band BTS. The name Jeon Jungkook means "golden nation" in English. |
-| 23 | [Campari](http://twitter.com/search?q=Campari) | N/A |
-| 24 | [Patrícia Poeta](http://twitter.com/search?q=Patr%c3%adcia+Poeta) | N/A |
-| 25 | [Marika](http://twitter.com/search?q=Marika) | N/A |
-| 26 | [HOJE TEM FLAMENGO](http://twitter.com/search?q=HOJE+TEM+FLAMENGO) | "HOJE TEM FLAMENGO" is a phrase in Portuguese that translates to "Flamengo plays today" in English. It is used to express excitement and enthusiasm for a soccer match involving the Brazilian team Flamengo. |
-| 27 | [ProUni](http://twitter.com/search?q=ProUni) | N/A |
-| 28 | [Obrigadaaaa](http://twitter.com/search?q=Obrigadaaaa) | N/A |
-| 29 | [ufes](http://twitter.com/search?q=ufes) | N/A |
-| 30 | [UFSCar](http://twitter.com/search?q=UFSCar) | N/A |
-| 31 | [Doenças Raras](http://twitter.com/search?q=Doen%c3%a7as+Raras) | N/A |
-| 32 | [Avenida Brasil](http://twitter.com/search?q=Avenida+Brasil) | N/A |
-| 33 | [UFOP](http://twitter.com/search?q=UFOP) | N/A |
-| 34 | [Benedetto](http://twitter.com/search?q=Benedetto) | Benedetto is an Italian name meaning "blessed". It is derived from the Latin word "benedictus", which means "blessed". |
-| 35 | [Comunicações](http://twitter.com/search?q=Comunica%c3%a7%c3%b5es) | N/A |
-| 36 | [Petrobras](http://twitter.com/search?q=Petrobras) | N/A |
-| 37 | [Justiça Militar](http://twitter.com/search?q=Justi%c3%a7a+Militar) | N/A |
-| 38 | [Werg](http://twitter.com/search?q=Werg) | N/A |
-| 39 | [Moraes](http://twitter.com/search?q=Moraes) | N/A |
-| 40 | [Rioru](http://twitter.com/search?q=Rioru) | N/A |
-| 41 | [Ministro de Lula](http://twitter.com/search?q=Ministro+de+Lula) | N/A |
-| 42 | [Federal](http://twitter.com/search?q=Federal) | N/A |
-| 43 | [Obrigadoo](http://twitter.com/search?q=Obrigadoo) | N/A |
-| 44 | [UFBA](http://twitter.com/search?q=UFBA) | N/A |
-| 45 | [UFPE](http://twitter.com/search?q=UFPE) | N/A |
-| 46 | [VAMOS FLAMENGO](http://twitter.com/search?q=VAMOS+FLAMENGO) | N/A |
-| 47 | [Haddad](http://twitter.com/search?q=Haddad) | N/A |
-| 48 | [Gasolina](http://twitter.com/search?q=Gasolina) | N/A |
-| 49 | [Melancia](http://twitter.com/search?q=Melancia) | N/A |
+| 19 | [Miquella](http://twitter.com/search?q=Miquella) | N/A |
+| 20 | [ASTRO](http://twitter.com/search?q=ASTRO) | N/A |
+| 21 | [UFRJ](http://twitter.com/search?q=UFRJ) | N/A |
+| 22 | [DLC de Elden Ring](http://twitter.com/search?q=DLC+de+Elden+Ring) | N/A |
+| 23 | [Juscelino Filho](http://twitter.com/search?q=Juscelino+Filho) | N/A |
+| 24 | [ufes](http://twitter.com/search?q=ufes) | N/A |
+| 25 | [Campari](http://twitter.com/search?q=Campari) | N/A |
+| 26 | [Obrigadaaaa](http://twitter.com/search?q=Obrigadaaaa) | N/A |
+| 27 | [JEON JUNGKOOK](http://twitter.com/search?q=JEON+JUNGKOOK) | Jeon Jungkook is the stage name of Jungkook, a South Korean singer, songwriter, and dancer. He is a member of the boy band BTS. The name Jeon Jungkook means "golden nation" in English. |
+| 28 | [Werg](http://twitter.com/search?q=Werg) | N/A |
+| 29 | [Shadow of the Erdtree](http://twitter.com/search?q=Shadow+of+the+Erdtree) | N/A |
+| 30 | [UFOP](http://twitter.com/search?q=UFOP) | N/A |
+| 31 | [Benedetto](http://twitter.com/search?q=Benedetto) | Benedetto is an Italian name meaning "blessed". It is derived from the Latin word "benedictus", which means "blessed". |
+| 32 | [Marika](http://twitter.com/search?q=Marika) | N/A |
+| 33 | [Patrícia Poeta](http://twitter.com/search?q=Patr%c3%adcia+Poeta) | N/A |
+| 34 | [ProUni](http://twitter.com/search?q=ProUni) | N/A |
+| 35 | [Moraes](http://twitter.com/search?q=Moraes) | N/A |
+| 36 | [UFSCar](http://twitter.com/search?q=UFSCar) | N/A |
+| 37 | [Petrobras](http://twitter.com/search?q=Petrobras) | N/A |
+| 38 | [Comunicações](http://twitter.com/search?q=Comunica%c3%a7%c3%b5es) | N/A |
+| 39 | [Doenças Raras](http://twitter.com/search?q=Doen%c3%a7as+Raras) | N/A |
+| 40 | [Justus](http://twitter.com/search?q=Justus) | N/A |
+| 41 | [Avenida Brasil](http://twitter.com/search?q=Avenida+Brasil) | N/A |
+| 42 | [HOJE TEM FLAMENGO](http://twitter.com/search?q=HOJE+TEM+FLAMENGO) | "HOJE TEM FLAMENGO" is a phrase in Portuguese that translates to "Flamengo plays today" in English. It is used to express excitement and enthusiasm for a soccer match involving the Brazilian team Flamengo. |
+| 43 | [Justiça Militar](http://twitter.com/search?q=Justi%c3%a7a+Militar) | N/A |
+| 44 | [Obrigadoo](http://twitter.com/search?q=Obrigadoo) | N/A |
+| 45 | [Consea](http://twitter.com/search?q=Consea) | N/A |
+| 46 | [Rioru](http://twitter.com/search?q=Rioru) | N/A |
+| 47 | [UFBA](http://twitter.com/search?q=UFBA) | N/A |
+| 48 | [Ministro de Lula](http://twitter.com/search?q=Ministro+de+Lula) | N/A |
+| 49 | [UFPE](http://twitter.com/search?q=UFPE) | N/A |
 
 
 

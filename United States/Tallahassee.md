@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tallahassee
 
-📆 Last Updated: `2023-02-28 13:21:38 UTC`
+📆 Last Updated: `2023-02-28 14:16:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
-| 2 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
-| 3 | [#ApoxDiorAW2023](http://twitter.com/search?q=%23ApoxDiorAW2023) | N/A |
-| 4 | [Elden Ring DLC](http://twitter.com/search?q=Elden+Ring+DLC) | N/A |
-| 5 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 6 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
-| 7 | [Miquella](http://twitter.com/search?q=Miquella) | N/A |
-| 8 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 9 | [#TuesdayThoughts](http://twitter.com/search?q=%23TuesdayThoughts) | N/A |
-| 10 | [#Wordle619](http://twitter.com/search?q=%23Wordle619) | N/A |
-| 11 | [Daily Quordle 400](http://twitter.com/search?q=Daily+Quordle+400) | N/A |
-| 12 | [David Hogg](http://twitter.com/search?q=David+Hogg) | N/A |
-| 13 | [Nudy](http://twitter.com/search?q=Nudy) | N/A |
-| 14 | [Shadow of the Erdtree](http://twitter.com/search?q=Shadow+of+the+Erdtree) | N/A |
-| 15 | [Murdoch](http://twitter.com/search?q=Murdoch) | N/A |
-| 16 | [Player of the Matchday](http://twitter.com/search?q=Player+of+the+Matchday) | N/A |
-| 17 | [Torrent](http://twitter.com/search?q=Torrent) | N/A |
-| 18 | [Marika](http://twitter.com/search?q=Marika) | N/A |
-| 19 | [Daron Payne](http://twitter.com/search?q=Daron+Payne) | N/A |
-| 20 | [Colbert](http://twitter.com/search?q=Colbert) | N/A |
-| 21 | [Election Day](http://twitter.com/search?q=Election+Day) | N/A |
-| 22 | [CNN and MSNBC](http://twitter.com/search?q=CNN+and+MSNBC) | N/A |
-| 23 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
-| 24 | [Maxine Waters](http://twitter.com/search?q=Maxine+Waters) | N/A |
-| 25 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
-| 26 | [Gherbo](http://twitter.com/search?q=Gherbo) | N/A |
-| 27 | [Tom Sizemore](http://twitter.com/search?q=Tom+Sizemore) | N/A |
-| 28 | [Parkland](http://twitter.com/search?q=Parkland) | N/A |
-| 29 | [Lita](http://twitter.com/search?q=Lita) | N/A |
-| 30 | [Dan Snyder](http://twitter.com/search?q=Dan+Snyder) | N/A |
-| 31 | [Lori Lightfoot](http://twitter.com/search?q=Lori+Lightfoot) | N/A |
-| 32 | [Platinum Chanel](http://twitter.com/search?q=Platinum+Chanel) | N/A |
-| 33 | [Dr Fauci](http://twitter.com/search?q=Dr+Fauci) | N/A |
-| 34 | [Yellen](http://twitter.com/search?q=Yellen) | N/A |
-| 35 | [Becky](http://twitter.com/search?q=Becky) | N/A |
-| 36 | [Pete Davidson](http://twitter.com/search?q=Pete+Davidson) | Pete Davidson is an American comedian, actor, and writer. He is best known for being a cast member on Saturday Night Live since 2014. He has also appeared in films such as Big Time Adolescence and The King of Staten Island. |
-| 37 | [Bill Gates](http://twitter.com/search?q=Bill+Gates) | N/A |
-| 38 | [Trish](http://twitter.com/search?q=Trish) | N/A |
-| 39 | [Gold Alpinas](http://twitter.com/search?q=Gold+Alpinas) | N/A |
-| 40 | [Jim Acosta](http://twitter.com/search?q=Jim+Acosta) | N/A |
-| 41 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
-| 42 | [Heineken](http://twitter.com/search?q=Heineken) | N/A |
-| 43 | [Proud Boys](http://twitter.com/search?q=Proud+Boys) | N/A |
-| 44 | [Weverse](http://twitter.com/search?q=Weverse) | Weverse is a social media platform created by the South Korean entertainment company Big Hit Entertainment. It is designed to connect fans with artists and allow them to interact with each other. The name Weverse is derived from the words “we” and “universe”, representing the idea of creating a universe where fans and artists can come together. |
-| 45 | [Jared Kushner](http://twitter.com/search?q=Jared+Kushner) | N/A |
-| 46 | [Damage CTRL](http://twitter.com/search?q=Damage+CTRL) | N/A |
-| 47 | [Fox "News"](http://twitter.com/search?q=Fox+%22News%22) | N/A |
-| 48 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
-| 49 | [Bray](http://twitter.com/search?q=Bray) | Bray is a verb meaning to make a loud, harsh sound, usually like the sound of an animal or machine. It is often used to describe the sound made by a donkey or mule. |
+| 2 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
+| 3 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
+| 4 | [#ApoxDiorAW2023](http://twitter.com/search?q=%23ApoxDiorAW2023) | N/A |
+| 5 | [#JISOOxDiorAW23](http://twitter.com/search?q=%23JISOOxDiorAW23) | N/A |
+| 6 | [JISOO THE FACE OF DIOR](http://twitter.com/search?q=JISOO+THE+FACE+OF+DIOR) | N/A |
+| 7 | [Leslie Frazier](http://twitter.com/search?q=Leslie+Frazier) | Leslie Frazier is an American football coach and former player. He is currently the defensive coordinator for the Buffalo Bills of the National Football League (NFL). He previously served as head coach of the Minnesota Vikings from 2011 to 2013. |
+| 8 | [Elden Ring DLC](http://twitter.com/search?q=Elden+Ring+DLC) | N/A |
+| 9 | [Miquella](http://twitter.com/search?q=Miquella) | N/A |
+| 10 | [#RareDiseaseDay](http://twitter.com/search?q=%23RareDiseaseDay) | N/A |
+| 11 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 12 | [Brian Johnson](http://twitter.com/search?q=Brian+Johnson) | N/A |
+| 13 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
+| 14 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
+| 15 | [DIOR WITH NATTAWIN](http://twitter.com/search?q=DIOR+WITH+NATTAWIN) | N/A |
+| 16 | [Dan Snyder](http://twitter.com/search?q=Dan+Snyder) | N/A |
+| 17 | [David Hogg](http://twitter.com/search?q=David+Hogg) | N/A |
+| 18 | [Nudy](http://twitter.com/search?q=Nudy) | N/A |
+| 19 | [Daily Quordle 400](http://twitter.com/search?q=Daily+Quordle+400) | N/A |
+| 20 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 21 | [Goodell](http://twitter.com/search?q=Goodell) | Goodell is a surname of English origin. It is derived from the Old English words "god" and "wella," meaning "good spring." The name was originally given to someone who lived near a good spring or well. |
+| 22 | [Murdoch](http://twitter.com/search?q=Murdoch) | N/A |
+| 23 | [Shadow of the Erdtree](http://twitter.com/search?q=Shadow+of+the+Erdtree) | N/A |
+| 24 | [Colbert](http://twitter.com/search?q=Colbert) | N/A |
+| 25 | [Daron Payne](http://twitter.com/search?q=Daron+Payne) | N/A |
+| 26 | [Fantagio](http://twitter.com/search?q=Fantagio) | N/A |
+| 27 | [Player of the Matchday](http://twitter.com/search?q=Player+of+the+Matchday) | N/A |
+| 28 | [Torrent](http://twitter.com/search?q=Torrent) | N/A |
+| 29 | [Election Day](http://twitter.com/search?q=Election+Day) | N/A |
+| 30 | [Jessie Bates](http://twitter.com/search?q=Jessie+Bates) | N/A |
+| 31 | [Marika](http://twitter.com/search?q=Marika) | N/A |
+| 32 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
+| 33 | [Parkland](http://twitter.com/search?q=Parkland) | N/A |
+| 34 | [Tom Sizemore](http://twitter.com/search?q=Tom+Sizemore) | N/A |
+| 35 | [Gherbo](http://twitter.com/search?q=Gherbo) | N/A |
+| 36 | [Lightfoot](http://twitter.com/search?q=Lightfoot) | N/A |
+| 37 | [CNN and MSNBC](http://twitter.com/search?q=CNN+and+MSNBC) | N/A |
+| 38 | [Joy Reid](http://twitter.com/search?q=Joy+Reid) | N/A |
+| 39 | [Maxine Waters](http://twitter.com/search?q=Maxine+Waters) | N/A |
+| 40 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
+| 41 | [Dr Fauci](http://twitter.com/search?q=Dr+Fauci) | N/A |
+| 42 | [Lita](http://twitter.com/search?q=Lita) | N/A |
+| 43 | [Pete Davidson](http://twitter.com/search?q=Pete+Davidson) | Pete Davidson is an American comedian, actor, and writer. He is best known for being a cast member on Saturday Night Live since 2014. He has also appeared in films such as Big Time Adolescence and The King of Staten Island. |
+| 44 | [Jim Acosta](http://twitter.com/search?q=Jim+Acosta) | N/A |
+| 45 | [Heineken](http://twitter.com/search?q=Heineken) | N/A |
+| 46 | [Janet Yellen](http://twitter.com/search?q=Janet+Yellen) | N/A |
+| 47 | [Brandon Johnson](http://twitter.com/search?q=Brandon+Johnson) | N/A |
+| 48 | [Northern Ireland](http://twitter.com/search?q=Northern+Ireland) | N/A |
+| 49 | [Gold Alpinas](http://twitter.com/search?q=Gold+Alpinas) | N/A |
 
 
 
