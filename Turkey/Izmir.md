@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Izmir
 
-📆 Last Updated: `2023-02-28 09:16:50 UTC`
+📆 Last Updated: `2023-02-28 10:16:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Karagümrük](http://twitter.com/search?q=Karag%c3%bcmr%c3%bck) | Karagümrük is a neighborhood in Istanbul, Turkey. The name Karagümrük is derived from the Turkish words "kara" (black) and "gümüş" (silver), referring to the blacksmiths who used to work in the area. In English, Karagümrük translates to "Blacksmith's Corner". |
-| 2 | [UygunaTT HizmetiAl](http://twitter.com/search?q=UygunaTT+HizmetiAl) | N/A |
+| 1 | [#DeplasmanımaDokunma](http://twitter.com/search?q=%23Deplasman%c4%b1maDokunma) | N/A |
+| 2 | [Karagümrük](http://twitter.com/search?q=Karag%c3%bcmr%c3%bck) | Karagümrük is a neighborhood in Istanbul, Turkey. The name Karagümrük is derived from the Turkish words "kara" (black) and "gümüş" (silver), referring to the blacksmiths who used to work in the area. In English, Karagümrük translates to "Blacksmith's Corner". |
 | 3 | [#28Şubat](http://twitter.com/search?q=%2328%c5%9eubat) | N/A |
-| 4 | [Beraberiz Güçlüyüz](http://twitter.com/search?q=Beraberiz+G%c3%bc%c3%a7l%c3%bcy%c3%bcz) | N/A |
-| 5 | [#YaşarKemal](http://twitter.com/search?q=%23Ya%c5%9farKemal) | N/A |
-| 6 | [#EmeklilikteYaşaTakılanlar](http://twitter.com/search?q=%23EmeklilikteYa%c5%9faTak%c4%b1lanlar) | #EmeklilikteYaşaTakılanlar is a hashtag used in Turkey to refer to people who have retired and are living on their pension. In English, it translates to "Retirees Living on Pension". |
-| 7 | [#salı](http://twitter.com/search?q=%23sal%c4%b1) | #Salı is a Turkish hashtag that translates to "Tuesday" in English. It is used to tag posts related to Tuesday on social media platforms such as Twitter and Instagram. |
-| 8 | [Başarı](http://twitter.com/search?q=Ba%c5%9far%c4%b1) | N/A |
-| 9 | [Hudut](http://twitter.com/search?q=Hudut) | N/A |
-| 10 | [#KızılaydanUtanıyorum](http://twitter.com/search?q=%23K%c4%b1z%c4%b1laydanUtan%c4%b1yorum) | N/A |
-| 11 | [Mansur](http://twitter.com/search?q=Mansur) | N/A |
-| 12 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 13 | [Tuğba Ekinci](http://twitter.com/search?q=Tu%c4%9fba+Ekinci) | N/A |
-| 14 | [Çocuklara](http://twitter.com/search?q=%c3%87ocuklara) | N/A |
+| 4 | [Mansur Yavaş](http://twitter.com/search?q=Mansur+Yava%c5%9f) | N/A |
+| 5 | [Beraberiz Güçlüyüz](http://twitter.com/search?q=Beraberiz+G%c3%bc%c3%a7l%c3%bcy%c3%bcz) | N/A |
+| 6 | [#FenerbahceHalktır](http://twitter.com/search?q=%23FenerbahceHalkt%c4%b1r) | N/A |
+| 7 | [#YaşarKemal](http://twitter.com/search?q=%23Ya%c5%9farKemal) | N/A |
+| 8 | [Hudut](http://twitter.com/search?q=Hudut) | N/A |
+| 9 | [Kayseri İl Güvenlik Kurulu](http://twitter.com/search?q=Kayseri+%c4%b0l+G%c3%bcvenlik+Kurulu) | N/A |
+| 10 | [Hududu](http://twitter.com/search?q=Hududu) | N/A |
+| 11 | [#EmeklilikteYaşaTakılanlar](http://twitter.com/search?q=%23EmeklilikteYa%c5%9faTak%c4%b1lanlar) | #EmeklilikteYaşaTakılanlar is a hashtag used in Turkey to refer to people who have retired and are living on their pension. In English, it translates to "Retirees Living on Pension". |
+| 12 | [Başarı](http://twitter.com/search?q=Ba%c5%9far%c4%b1) | N/A |
+| 13 | [Talisca](http://twitter.com/search?q=Talisca) | Talisca is a Portuguese name derived from the Latin word talis, meaning “such” or “so much.” It is also a surname in some parts of Portugal. In English, it can be translated to mean “so much” or “so great.” |
+| 14 | [Tuğba Ekinci](http://twitter.com/search?q=Tu%c4%9fba+Ekinci) | N/A |
 | 15 | [Cihan Emir Parlak](http://twitter.com/search?q=Cihan+Emir+Parlak) | N/A |
-| 16 | [Ramazan Güneş](http://twitter.com/search?q=Ramazan+G%c3%bcne%c5%9f) | N/A |
-| 17 | [Mekanın](http://twitter.com/search?q=Mekan%c4%b1n) | N/A |
-| 18 | [HARAM OLSUN](http://twitter.com/search?q=HARAM+OLSUN) | N/A |
-| 19 | [Eminiz](http://twitter.com/search?q=Eminiz) | N/A |
-| 20 | [Günaydınn](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nn) | N/A |
-| 21 | [Mehmet Metiner](http://twitter.com/search?q=Mehmet+Metiner) | N/A |
-| 22 | [İrem Derici](http://twitter.com/search?q=%c4%b0rem+Derici) | N/A |
-| 23 | [Aidat](http://twitter.com/search?q=Aidat) | N/A |
-| 24 | [Günaydınlar](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nlar) | N/A |
-| 25 | [GÜNAYDIN](http://twitter.com/search?q=G%c3%9cNAYDIN) | N/A |
-| 26 | [Kasımpaşa](http://twitter.com/search?q=Kas%c4%b1mpa%c5%9fa) | Kasımpaşa is a neighborhood in Istanbul, Turkey. It is located on the European side of the city, on the shores of the Sea of Marmara. The name Kasımpaşa comes from the Ottoman era and means "the place of the butcher". |
-| 27 | [Ezan](http://twitter.com/search?q=Ezan) | N/A |
-| 28 | [Dünya Bankası](http://twitter.com/search?q=D%c3%bcnya+Bankas%c4%b1) | N/A |
-| 29 | [HAKKIM HELAL OLSUN REİS](http://twitter.com/search?q=HAKKIM+HELAL+OLSUN+RE%c4%b0S) | N/A |
-| 30 | [Helallik](http://twitter.com/search?q=Helallik) | N/A |
-| 31 | [Özlem](http://twitter.com/search?q=%c3%96zlem) | N/A |
-| 32 | [Zübük](http://twitter.com/search?q=Z%c3%bcb%c3%bck) | N/A |
-| 33 | [Rojbaş](http://twitter.com/search?q=Rojba%c5%9f) | N/A |
-| 34 | [Muhsin Yazıcıoğlu](http://twitter.com/search?q=Muhsin+Yaz%c4%b1c%c4%b1o%c4%9flu) | N/A |
-| 35 | [Kerem Kınık](http://twitter.com/search?q=Kerem+K%c4%b1n%c4%b1k) | N/A |
-| 36 | [Portakal](http://twitter.com/search?q=Portakal) | N/A |
-| 37 | [Donsuz](http://twitter.com/search?q=Donsuz) | N/A |
-| 38 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 39 | [Dava](http://twitter.com/search?q=Dava) | N/A |
-| 40 | [TGRT](http://twitter.com/search?q=TGRT) | N/A |
-| 41 | [Utanç](http://twitter.com/search?q=Utan%c3%a7) | N/A |
-| 42 | [Kızılay Başkanı](http://twitter.com/search?q=K%c4%b1z%c4%b1lay+Ba%c5%9fkan%c4%b1) | N/A |
-| 43 | [#StajyerMeclisiBekliyor](http://twitter.com/search?q=%23StajyerMeclisiBekliyor) | N/A |
-| 44 | [#HerŞeyinFarkındayız](http://twitter.com/search?q=%23Her%c5%9eeyinFark%c4%b1nday%c4%b1z) | N/A |
-| 45 | [#EYTBugünBitiyor](http://twitter.com/search?q=%23EYTBug%c3%bcnBitiyor) | N/A |
-| 46 | [#SivilSavunmaGünü](http://twitter.com/search?q=%23SivilSavunmaG%c3%bcn%c3%bc) | N/A |
-| 47 | [#FenerbahceHalktır](http://twitter.com/search?q=%23FenerbahceHalkt%c4%b1r) | N/A |
-| 48 | [#DenizGezmis76Yasında](http://twitter.com/search?q=%23DenizGezmis76Yas%c4%b1nda) | N/A |
-| 49 | [#çöküşdönemi](http://twitter.com/search?q=%23%c3%a7%c3%b6k%c3%bc%c5%9fd%c3%b6nemi) | N/A |
-| 50 | [#EYTyeTastamamAdalet](http://twitter.com/search?q=%23EYTyeTastamamAdalet) | N/A |
+| 16 | [Çocuklara](http://twitter.com/search?q=%c3%87ocuklara) | N/A |
+| 17 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 18 | [Mekanın](http://twitter.com/search?q=Mekan%c4%b1n) | N/A |
+| 19 | [Kazım Akşar](http://twitter.com/search?q=Kaz%c4%b1m+Ak%c5%9far) | N/A |
+| 20 | [Aidat](http://twitter.com/search?q=Aidat) | N/A |
+| 21 | [Ramazan Güneş](http://twitter.com/search?q=Ramazan+G%c3%bcne%c5%9f) | N/A |
+| 22 | [Tyler Dorsey](http://twitter.com/search?q=Tyler+Dorsey) | N/A |
+| 23 | [Altılı](http://twitter.com/search?q=Alt%c4%b1l%c4%b1) | N/A |
+| 24 | [HARAM OLSUN](http://twitter.com/search?q=HARAM+OLSUN) | N/A |
+| 25 | [Mehmet Metiner](http://twitter.com/search?q=Mehmet+Metiner) | N/A |
+| 26 | [Eminiz](http://twitter.com/search?q=Eminiz) | N/A |
+| 27 | [Unutmadık](http://twitter.com/search?q=Unutmad%c4%b1k) | N/A |
+| 28 | [İrem Derici](http://twitter.com/search?q=%c4%b0rem+Derici) | N/A |
+| 29 | [Günaydınn](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nn) | N/A |
+| 30 | [Zorro](http://twitter.com/search?q=Zorro) | N/A |
+| 31 | [Muhsin Yazıcıoğlu](http://twitter.com/search?q=Muhsin+Yaz%c4%b1c%c4%b1o%c4%9flu) | N/A |
+| 32 | [Günaydınlar](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nlar) | N/A |
+| 33 | [HAKKIM HELAL OLSUN REİS](http://twitter.com/search?q=HAKKIM+HELAL+OLSUN+RE%c4%b0S) | N/A |
+| 34 | [Dünya Bankası](http://twitter.com/search?q=D%c3%bcnya+Bankas%c4%b1) | N/A |
+| 35 | [Korkunun](http://twitter.com/search?q=Korkunun) | N/A |
+| 36 | [Helallik](http://twitter.com/search?q=Helallik) | N/A |
+| 37 | [Ezan](http://twitter.com/search?q=Ezan) | N/A |
+| 38 | [Rojbaş](http://twitter.com/search?q=Rojba%c5%9f) | N/A |
+| 39 | [Portakal](http://twitter.com/search?q=Portakal) | N/A |
+| 40 | [Korkmayın](http://twitter.com/search?q=Korkmay%c4%b1n) | N/A |
+| 41 | [Özlem](http://twitter.com/search?q=%c3%96zlem) | N/A |
+| 42 | [Kerem Kınık](http://twitter.com/search?q=Kerem+K%c4%b1n%c4%b1k) | N/A |
+| 43 | [Zübük](http://twitter.com/search?q=Z%c3%bcb%c3%bck) | N/A |
+| 44 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 45 | [Donsuz](http://twitter.com/search?q=Donsuz) | N/A |
+| 46 | [Dava](http://twitter.com/search?q=Dava) | N/A |
+| 47 | [Utanç](http://twitter.com/search?q=Utan%c3%a7) | N/A |
+| 48 | [#StajyerMeclisiBekliyor](http://twitter.com/search?q=%23StajyerMeclisiBekliyor) | N/A |
+| 49 | [#salı](http://twitter.com/search?q=%23sal%c4%b1) | #Salı is a Turkish hashtag that translates to "Tuesday" in English. It is used to tag posts related to Tuesday on social media platforms such as Twitter and Instagram. |
+| 50 | [#KızılaydanUtanıyorum](http://twitter.com/search?q=%23K%c4%b1z%c4%b1laydanUtan%c4%b1yorum) | N/A |
 
 
 

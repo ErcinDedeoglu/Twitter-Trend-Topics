@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bekasi
 
-📆 Last Updated: `2023-02-28 09:16:28 UTC`
+📆 Last Updated: `2023-02-28 10:16:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,50 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Bapak Prabowo Subianto](http://twitter.com/search?q=Bapak+Prabowo+Subianto) | N/A |
-| 2 | [Prabowo Utamakan Persatuan](http://twitter.com/search?q=Prabowo+Utamakan+Persatuan) | N/A |
-| 3 | [Temukan Di Dekade 08](http://twitter.com/search?q=Temukan+Di+Dekade+08) | N/A |
-| 4 | [IyaBetul Mending Prabowo](http://twitter.com/search?q=IyaBetul+Mending+Prabowo) | N/A |
-| 5 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 6 | [#KelasMakeupLazada](http://twitter.com/search?q=%23KelasMakeupLazada) | N/A |
-| 7 | [LazBeauty MUA Masterclass](http://twitter.com/search?q=LazBeauty+MUA+Masterclass) | N/A |
-| 8 | [#PNBPpascaproduksi](http://twitter.com/search?q=%23PNBPpascaproduksi) | N/A |
-| 9 | [#SaktiWahyuTrenggono](http://twitter.com/search?q=%23SaktiWahyuTrenggono) | N/A |
-| 10 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
-| 11 | [Make Up Artis](http://twitter.com/search?q=Make+Up+Artis) | N/A |
-| 12 | [Bubah Alfian](http://twitter.com/search?q=Bubah+Alfian) | N/A |
-| 13 | [Marline Hariman](http://twitter.com/search?q=Marline+Hariman) | N/A |
-| 14 | [Ryan Ogilvy](http://twitter.com/search?q=Ryan+Ogilvy) | N/A |
-| 15 | [Kerja Wamenhan M Herindra](http://twitter.com/search?q=Kerja+Wamenhan+M+Herindra) | N/A |
-| 16 | [Loyal - Beri Terbaik](http://twitter.com/search?q=Loyal+-+Beri+Terbaik) | N/A |
-| 17 | [Mengangkat](http://twitter.com/search?q=Mengangkat) | N/A |
+| 1 | [#KelasMakeupLazada](http://twitter.com/search?q=%23KelasMakeupLazada) | N/A |
+| 2 | [LazBeauty MUA Masterclass](http://twitter.com/search?q=LazBeauty+MUA+Masterclass) | N/A |
+| 3 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 4 | [#PNBPpascaproduksi](http://twitter.com/search?q=%23PNBPpascaproduksi) | N/A |
+| 5 | [Make Up Artis](http://twitter.com/search?q=Make+Up+Artis) | N/A |
+| 6 | [#SaktiWahyuTrenggono](http://twitter.com/search?q=%23SaktiWahyuTrenggono) | N/A |
+| 7 | [Bubah Alfian](http://twitter.com/search?q=Bubah+Alfian) | N/A |
+| 8 | [Marline Hariman](http://twitter.com/search?q=Marline+Hariman) | N/A |
+| 9 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
+| 10 | [PBSI](http://twitter.com/search?q=PBSI) | N/A |
+| 11 | [Ryan Ogilvy](http://twitter.com/search?q=Ryan+Ogilvy) | N/A |
+| 12 | [Kerja Wamenhan M Herindra](http://twitter.com/search?q=Kerja+Wamenhan+M+Herindra) | N/A |
+| 13 | [Loyal - Beri Terbaik](http://twitter.com/search?q=Loyal+-+Beri+Terbaik) | N/A |
+| 14 | [#testimiroh](http://twitter.com/search?q=%23testimiroh) | N/A |
+| 15 | [Mengangkat](http://twitter.com/search?q=Mengangkat) | N/A |
+| 16 | [Rakyat](http://twitter.com/search?q=Rakyat) | N/A |
+| 17 | [Jam 5](http://twitter.com/search?q=Jam+5) | N/A |
 | 18 | [#BrightSaturdayNight](http://twitter.com/search?q=%23BrightSaturdayNight) | N/A |
-| 19 | [#LIKE_IT_LIKE_IT](http://twitter.com/search?q=%23LIKE_IT_LIKE_IT) | N/A |
-| 20 | [Jam 5](http://twitter.com/search?q=Jam+5) | N/A |
-| 21 | [LATE LATE SHOW WITH TXT](http://twitter.com/search?q=LATE+LATE+SHOW+WITH+TXT) | N/A |
-| 22 | [Mbanking BCA](http://twitter.com/search?q=Mbanking+BCA) | N/A |
-| 23 | [Shea](http://twitter.com/search?q=Shea) | N/A |
-| 24 | [SECRET NUMBER JAPAN DEBUT](http://twitter.com/search?q=SECRET+NUMBER+JAPAN+DEBUT) | N/A |
-| 25 | [JK LIVE](http://twitter.com/search?q=JK+LIVE) | JK LIVE is a Japanese streaming service that allows users to watch live broadcasts of events, concerts, and other entertainment. The acronym stands for "Japan Kansai Live", referring to the Kansai region of Japan where the service is based. |
-| 26 | [Selasa](http://twitter.com/search?q=Selasa) | N/A |
-| 27 | [Terry](http://twitter.com/search?q=Terry) | N/A |
-| 28 | [POLLY PASTEL BY BUILD](http://twitter.com/search?q=POLLY+PASTEL+BY+BUILD) | N/A |
-| 29 | [Iris](http://twitter.com/search?q=Iris) | N/A |
-| 30 | [Okin](http://twitter.com/search?q=Okin) | N/A |
-| 31 | [Gubernur](http://twitter.com/search?q=Gubernur) | N/A |
-| 32 | [Vario](http://twitter.com/search?q=Vario) | N/A |
-| 33 | [Zara](http://twitter.com/search?q=Zara) | Zara is a Spanish clothing and accessories retailer. It is one of the largest international fashion companies, and specializes in fast fashion. The name Zara is derived from the name of the founder's daughter, Zara Amalia. |
-| 34 | [Scoopy](http://twitter.com/search?q=Scoopy) | N/A |
-| 35 | [Bertaruh](http://twitter.com/search?q=Bertaruh) | N/A |
-| 36 | [Tulus Utamakan Rakyat](http://twitter.com/search?q=Tulus+Utamakan+Rakyat) | Tulus Utamakan Rakyat is a Malay phrase which translates to "Dedicated to Serving the People". It is a slogan used by the Malaysian government to emphasize their commitment to providing quality services and support for the people of Malaysia. |
-| 37 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
-| 38 | [Putri LS](http://twitter.com/search?q=Putri+LS) | N/A |
-| 39 | [Heru](http://twitter.com/search?q=Heru) | N/A |
-| 40 | [PH SCAMMER](http://twitter.com/search?q=PH+SCAMMER) | N/A |
-| 41 | [HUANG RENJUN THANK YOU](http://twitter.com/search?q=HUANG+RENJUN+THANK+YOU) | N/A |
-| 42 | [#LIKEITLIKEIT_MVTeaser1](http://twitter.com/search?q=%23LIKEITLIKEIT_MVTeaser1) | N/A |
-| 43 | [#TXTonTheLateLateShow](http://twitter.com/search?q=%23TXTonTheLateLateShow) | N/A |
-| 44 | [#KristSoloAsiaTour2023](http://twitter.com/search?q=%23KristSoloAsiaTour2023) | N/A |
-| 45 | [#RedmiNote11dariShopee](http://twitter.com/search?q=%23RedmiNote11dariShopee) | N/A |
-| 46 | [#KristPerawat](http://twitter.com/search?q=%23KristPerawat) | N/A |
-| 47 | [#LuveForPollyPastel](http://twitter.com/search?q=%23LuveForPollyPastel) | N/A |
-| 48 | [#TOMORROW_X_TOGETHER](http://twitter.com/search?q=%23TOMORROW_X_TOGETHER) | #TOMORROW_X_TOGETHER is the name of a South Korean boy band formed by Big Hit Entertainment in 2019. The group consists of five members: Yeonjun, Soobin, Beomgyu, Taehyun and Huening Kai. The name of the group is meant to signify the power of togetherness and unity among people, regardless of their differences. In English, it translates to "Tomorrow Together". |
-| 49 | [#シークレットナンバー](http://twitter.com/search?q=%23%e3%82%b7%e3%83%bc%e3%82%af%e3%83%ac%e3%83%83%e3%83%88%e3%83%8a%e3%83%b3%e3%83%90%e3%83%bc) | N/A |
+| 19 | [Shea](http://twitter.com/search?q=Shea) | N/A |
+| 20 | [Mbanking BCA](http://twitter.com/search?q=Mbanking+BCA) | N/A |
+| 21 | [SECRET NUMBER JAPAN DEBUT](http://twitter.com/search?q=SECRET+NUMBER+JAPAN+DEBUT) | N/A |
+| 22 | [Okin](http://twitter.com/search?q=Okin) | N/A |
+| 23 | [Vario](http://twitter.com/search?q=Vario) | N/A |
+| 24 | [LATE LATE SHOW WITH TXT](http://twitter.com/search?q=LATE+LATE+SHOW+WITH+TXT) | N/A |
+| 25 | [Gubernur](http://twitter.com/search?q=Gubernur) | N/A |
+| 26 | [Iris](http://twitter.com/search?q=Iris) | N/A |
+| 27 | [Selasa](http://twitter.com/search?q=Selasa) | N/A |
+| 28 | [Bertaruh](http://twitter.com/search?q=Bertaruh) | N/A |
+| 29 | [Zara](http://twitter.com/search?q=Zara) | Zara is a Spanish clothing and accessories retailer. It is one of the largest international fashion companies, and specializes in fast fashion. The name Zara is derived from the name of the founder's daughter, Zara Amalia. |
+| 30 | [Scoopy](http://twitter.com/search?q=Scoopy) | N/A |
+| 31 | [Putri LS](http://twitter.com/search?q=Putri+LS) | N/A |
+| 32 | [Februari 2023](http://twitter.com/search?q=Februari+2023) | N/A |
+| 33 | [Heru](http://twitter.com/search?q=Heru) | N/A |
+| 34 | [HUANG RENJUN THANK YOU](http://twitter.com/search?q=HUANG+RENJUN+THANK+YOU) | N/A |
+| 35 | [#RedmiNote11dariShopee](http://twitter.com/search?q=%23RedmiNote11dariShopee) | N/A |
+| 36 | [#KristSoloAsiaTour2023](http://twitter.com/search?q=%23KristSoloAsiaTour2023) | N/A |
+| 37 | [#PersebayaDay](http://twitter.com/search?q=%23PersebayaDay) | N/A |
+| 38 | [#KristPerawat](http://twitter.com/search?q=%23KristPerawat) | N/A |
+| 39 | [#LIKEITLIKEIT_MVTeaser1](http://twitter.com/search?q=%23LIKEITLIKEIT_MVTeaser1) | N/A |
+| 40 | [#LIKE_IT_LIKE_IT](http://twitter.com/search?q=%23LIKE_IT_LIKE_IT) | N/A |
+| 41 | [#TXTonTheLateLateShow](http://twitter.com/search?q=%23TXTonTheLateLateShow) | N/A |
+| 42 | [#racuninskincare](http://twitter.com/search?q=%23racuninskincare) | N/A |
+| 43 | [#シークレットナンバー](http://twitter.com/search?q=%23%e3%82%b7%e3%83%bc%e3%82%af%e3%83%ac%e3%83%83%e3%83%88%e3%83%8a%e3%83%b3%e3%83%90%e3%83%bc) | N/A |
+| 44 | [#TOMORROW_X_TOGETHER](http://twitter.com/search?q=%23TOMORROW_X_TOGETHER) | #TOMORROW_X_TOGETHER is the name of a South Korean boy band formed by Big Hit Entertainment in 2019. The group consists of five members: Yeonjun, Soobin, Beomgyu, Taehyun and Huening Kai. The name of the group is meant to signify the power of togetherness and unity among people, regardless of their differences. In English, it translates to "Tomorrow Together". |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dusseldorf
 
-📆 Last Updated: `2023-02-28 09:16:23 UTC`
+📆 Last Updated: `2023-02-28 10:16:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,51 +19,51 @@ This is top 50 for [Germany](</Germany>)
 | 2 | [#BETCrypto](http://twitter.com/search?q=%23BETCrypto) | N/A |
 | 3 | [Meute](http://twitter.com/search?q=Meute) | N/A |
 | 4 | [#eFuels](http://twitter.com/search?q=%23eFuels) | N/A |
-| 5 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
-| 6 | [Vergewaltigungen](http://twitter.com/search?q=Vergewaltigungen) | N/A |
-| 7 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 8 | [start in die woche](http://twitter.com/search?q=start+in+die+woche) | N/A |
-| 9 | [#PokemonPresents](http://twitter.com/search?q=%23PokemonPresents) | N/A |
-| 10 | [Moderator](http://twitter.com/search?q=Moderator) | N/A |
-| 11 | [Bestandsflotte](http://twitter.com/search?q=Bestandsflotte) | N/A |
-| 12 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
-| 13 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
-| 14 | [ELDEN RING DLC](http://twitter.com/search?q=ELDEN+RING+DLC) | N/A |
-| 15 | [Heizungen](http://twitter.com/search?q=Heizungen) | N/A |
-| 16 | [Senioren](http://twitter.com/search?q=Senioren) | N/A |
-| 17 | [Kriegsverbrechen](http://twitter.com/search?q=Kriegsverbrechen) | N/A |
-| 18 | [Wärmepumpen](http://twitter.com/search?q=W%c3%a4rmepumpen) | N/A |
+| 5 | [Vergewaltigungen](http://twitter.com/search?q=Vergewaltigungen) | N/A |
+| 6 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
+| 7 | [start in die woche](http://twitter.com/search?q=start+in+die+woche) | N/A |
+| 8 | [#PokemonPresents](http://twitter.com/search?q=%23PokemonPresents) | N/A |
+| 9 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
+| 10 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
+| 11 | [Verbot](http://twitter.com/search?q=Verbot) | N/A |
+| 12 | [Wärmepumpen](http://twitter.com/search?q=W%c3%a4rmepumpen) | N/A |
+| 13 | [Senioren](http://twitter.com/search?q=Senioren) | N/A |
+| 14 | [Moderator](http://twitter.com/search?q=Moderator) | N/A |
+| 15 | [Kriegsverbrechen](http://twitter.com/search?q=Kriegsverbrechen) | N/A |
+| 16 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 17 | [Elden Ring DLC](http://twitter.com/search?q=Elden+Ring+DLC) | N/A |
+| 18 | [Heizung](http://twitter.com/search?q=Heizung) | N/A |
 | 19 | [Trinkgeld](http://twitter.com/search?q=Trinkgeld) | N/A |
-| 20 | [Polarlichter](http://twitter.com/search?q=Polarlichter) | N/A |
-| 21 | [Verbot](http://twitter.com/search?q=Verbot) | N/A |
-| 22 | [Gutachten](http://twitter.com/search?q=Gutachten) | N/A |
-| 23 | [Schönen Dienstag](http://twitter.com/search?q=Sch%c3%b6nen+Dienstag) | N/A |
-| 24 | [Lumpenpazifisten](http://twitter.com/search?q=Lumpenpazifisten) | N/A |
-| 25 | [Veto](http://twitter.com/search?q=Veto) | N/A |
-| 26 | [Start in den Tag](http://twitter.com/search?q=Start+in+den+Tag) | N/A |
-| 27 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
-| 28 | [Berliner Kirchenstift](http://twitter.com/search?q=Berliner+Kirchenstift) | N/A |
-| 29 | [Kraftstoffe](http://twitter.com/search?q=Kraftstoffe) | N/A |
-| 30 | [KUENFTIG](http://twitter.com/search?q=KUENFTIG) | N/A |
-| 31 | [Strom](http://twitter.com/search?q=Strom) | N/A |
-| 32 | [montagmorgen](http://twitter.com/search?q=montagmorgen) | N/A |
-| 33 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
-| 34 | [Wölfin](http://twitter.com/search?q=W%c3%b6lfin) | N/A |
-| 35 | [Suicune](http://twitter.com/search?q=Suicune) | N/A |
-| 36 | [Einbau](http://twitter.com/search?q=Einbau) | N/A |
-| 37 | [Klimaziele](http://twitter.com/search?q=Klimaziele) | N/A |
-| 38 | [Nagel](http://twitter.com/search?q=Nagel) | N/A |
-| 39 | [Salvatore](http://twitter.com/search?q=Salvatore) | N/A |
-| 40 | [Ethikrat](http://twitter.com/search?q=Ethikrat) | N/A |
-| 41 | [Prantl](http://twitter.com/search?q=Prantl) | N/A |
-| 42 | [Happy 28th](http://twitter.com/search?q=Happy+28th) | N/A |
-| 43 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
-| 44 | [Zimmermann](http://twitter.com/search?q=Zimmermann) | N/A |
-| 45 | [Markt](http://twitter.com/search?q=Markt) | N/A |
-| 46 | [Abrams](http://twitter.com/search?q=Abrams) | Abrams is a surname of English and German origin. It is derived from the Germanic personal name Abraham, meaning "father of many". |
-| 47 | [Habt den Tag](http://twitter.com/search?q=Habt+den+Tag) | N/A |
-| 48 | [Ernährung](http://twitter.com/search?q=Ern%c3%a4hrung) | N/A |
-| 49 | [Guten Morgen Michael](http://twitter.com/search?q=Guten+Morgen+Michael) | N/A |
+| 20 | [Gutachten](http://twitter.com/search?q=Gutachten) | N/A |
+| 21 | [Polarlichter](http://twitter.com/search?q=Polarlichter) | N/A |
+| 22 | [Klamroth](http://twitter.com/search?q=Klamroth) | N/A |
+| 23 | [Erdtree](http://twitter.com/search?q=Erdtree) | N/A |
+| 24 | [Kraftstoffe](http://twitter.com/search?q=Kraftstoffe) | N/A |
+| 25 | [Berliner Kirchenstift](http://twitter.com/search?q=Berliner+Kirchenstift) | N/A |
+| 26 | [Reschke](http://twitter.com/search?q=Reschke) | N/A |
+| 27 | [Bestandsflotte](http://twitter.com/search?q=Bestandsflotte) | N/A |
+| 28 | [Veto](http://twitter.com/search?q=Veto) | N/A |
+| 29 | [Einbau](http://twitter.com/search?q=Einbau) | N/A |
+| 30 | [Strom](http://twitter.com/search?q=Strom) | N/A |
+| 31 | [Markt](http://twitter.com/search?q=Markt) | N/A |
+| 32 | [Schönen Dienstag](http://twitter.com/search?q=Sch%c3%b6nen+Dienstag) | N/A |
+| 33 | [Start in den Tag](http://twitter.com/search?q=Start+in+den+Tag) | N/A |
+| 34 | [Nagel](http://twitter.com/search?q=Nagel) | N/A |
+| 35 | [Prantl](http://twitter.com/search?q=Prantl) | N/A |
+| 36 | [Salvatore](http://twitter.com/search?q=Salvatore) | N/A |
+| 37 | [Ethikrat](http://twitter.com/search?q=Ethikrat) | N/A |
+| 38 | [Lebensmittel](http://twitter.com/search?q=Lebensmittel) | N/A |
+| 39 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
+| 40 | [Zimmermann](http://twitter.com/search?q=Zimmermann) | N/A |
+| 41 | [Happy 28th](http://twitter.com/search?q=Happy+28th) | N/A |
+| 42 | [Neuzulassungen](http://twitter.com/search?q=Neuzulassungen) | N/A |
+| 43 | [Abrams](http://twitter.com/search?q=Abrams) | Abrams is a surname of English and German origin. It is derived from the Germanic personal name Abraham, meaning "father of many". |
+| 44 | [Ernährung](http://twitter.com/search?q=Ern%c3%a4hrung) | N/A |
+| 45 | [Suicune](http://twitter.com/search?q=Suicune) | N/A |
+| 46 | [Teil des Krieges](http://twitter.com/search?q=Teil+des+Krieges) | N/A |
+| 47 | [Porsche](http://twitter.com/search?q=Porsche) | N/A |
+| 48 | [Özdemir](http://twitter.com/search?q=%c3%96zdemir) | N/A |
+| 49 | [Süßigkeiten](http://twitter.com/search?q=S%c3%bc%c3%9figkeiten) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belgium
 
-📆 Last Updated: `2023-02-28 09:17:01 UTC`
+📆 Last Updated: `2023-02-28 10:16:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Belgium
 | ------- | ------------ | ------------ |
 | 1 | [#RareDiseaseDay](http://twitter.com/search?q=%23RareDiseaseDay) | N/A |
 | 2 | [#deafspraak](http://twitter.com/search?q=%23deafspraak) | N/A |
-| 3 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 4 | [#andsta](http://twitter.com/search?q=%23andsta) | N/A |
-| 5 | [#clugnt](http://twitter.com/search?q=%23clugnt) | N/A |
-| 6 | [#KBK23](http://twitter.com/search?q=%23KBK23) | N/A |
-| 7 | [Northern Ireland](http://twitter.com/search?q=Northern+Ireland) | N/A |
-| 8 | [Patrick](http://twitter.com/search?q=Patrick) | Patrick is a given name derived from the Latin name Patricius, meaning "nobleman". It is a popular name in many English-speaking countries, particularly in Ireland, where it is the third most common male name. |
-| 9 | [Jeremie](http://twitter.com/search?q=Jeremie) | N/A |
+| 3 | [#andsta](http://twitter.com/search?q=%23andsta) | N/A |
+| 4 | [#clugnt](http://twitter.com/search?q=%23clugnt) | N/A |
+| 5 | [#KBK23](http://twitter.com/search?q=%23KBK23) | N/A |
+| 6 | [Northern Ireland](http://twitter.com/search?q=Northern+Ireland) | N/A |
+| 7 | [Patrick](http://twitter.com/search?q=Patrick) | Patrick is a given name derived from the Latin name Patricius, meaning "nobleman". It is a popular name in many English-speaking countries, particularly in Ireland, where it is the third most common male name. |
+| 8 | [Jeremie](http://twitter.com/search?q=Jeremie) | N/A |
+| 9 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
 | 10 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
-| 11 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
-| 12 | [Elchardus](http://twitter.com/search?q=Elchardus) | N/A |
-| 13 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 11 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 12 | [elchardus](http://twitter.com/search?q=elchardus) | N/A |
+| 13 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 14 | [Buchanan](http://twitter.com/search?q=Buchanan) | N/A |
-| 15 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 16 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 17 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
-| 18 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
-| 19 | [Payet](http://twitter.com/search?q=Payet) | Payet is a French surname. It is derived from the Old French word "paie," which means "payment." In English, it can be translated to mean "one who pays." |
-| 20 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
-| 21 | [Hof van Cleve](http://twitter.com/search?q=Hof+van+Cleve) | N/A |
-| 22 | [Kosovo](http://twitter.com/search?q=Kosovo) | N/A |
-| 23 | [Hilona](http://twitter.com/search?q=Hilona) | N/A |
-| 24 | [tom waes](http://twitter.com/search?q=tom+waes) | N/A |
-| 25 | [N-VA](http://twitter.com/search?q=N-VA) | N/A |
-| 26 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
-| 27 | [Julien Bert](http://twitter.com/search?q=Julien+Bert) | N/A |
-| 28 | [Peter Goossens](http://twitter.com/search?q=Peter+Goossens) | N/A |
-| 29 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
-| 30 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
-| 31 | [Serbia](http://twitter.com/search?q=Serbia) | N/A |
-| 32 | [Sunak](http://twitter.com/search?q=Sunak) | N/A |
-| 33 | [Suicune](http://twitter.com/search?q=Suicune) | N/A |
-| 34 | [Ethnicité](http://twitter.com/search?q=Ethnicit%c3%a9) | N/A |
-| 35 | [Limburg](http://twitter.com/search?q=Limburg) | N/A |
-| 36 | [Gisteren](http://twitter.com/search?q=Gisteren) | N/A |
-| 37 | [Fossey](http://twitter.com/search?q=Fossey) | N/A |
-| 38 | [referee department](http://twitter.com/search?q=referee+department) | N/A |
-| 39 | [VOKA](http://twitter.com/search?q=VOKA) | N/A |
-| 40 | [Diawara](http://twitter.com/search?q=Diawara) | N/A |
-| 41 | [Tommy Fury](http://twitter.com/search?q=Tommy+Fury) | N/A |
-| 42 | [IT'S RACE WEEK](http://twitter.com/search?q=IT%27S+RACE+WEEK) | N/A |
-| 43 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 44 | [Leyen](http://twitter.com/search?q=Leyen) | N/A |
-| 45 | [EU-UK](http://twitter.com/search?q=EU-UK) | N/A |
-| 46 | [Astrid](http://twitter.com/search?q=Astrid) | N/A |
-| 47 | [Andy](http://twitter.com/search?q=Andy) | N/A |
-| 48 | [Tory](http://twitter.com/search?q=Tory) | Tory is a term used to refer to a member of the British Conservative Party. It is derived from the Middle Irish word "toraidhe", which means "outlaw". The term has been used since the late 17th century to refer to those who supported the Royalist cause during the English Civil War. |
-| 49 | [Natuurlijk](http://twitter.com/search?q=Natuurlijk) | N/A |
-| 50 | [Groen](http://twitter.com/search?q=Groen) | N/A |
+| 15 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
+| 16 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
+| 17 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
+| 18 | [Payet](http://twitter.com/search?q=Payet) | Payet is a French surname. It is derived from the Old French word "paie," which means "payment." In English, it can be translated to mean "one who pays." |
+| 19 | [Hof van Cleve](http://twitter.com/search?q=Hof+van+Cleve) | N/A |
+| 20 | [Kosovo](http://twitter.com/search?q=Kosovo) | N/A |
+| 21 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
+| 22 | [Hilona](http://twitter.com/search?q=Hilona) | N/A |
+| 23 | [tom waes](http://twitter.com/search?q=tom+waes) | N/A |
+| 24 | [Julien Bert](http://twitter.com/search?q=Julien+Bert) | N/A |
+| 25 | [Serbia](http://twitter.com/search?q=Serbia) | N/A |
+| 26 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
+| 27 | [Goeiemorgen](http://twitter.com/search?q=Goeiemorgen) | N/A |
+| 28 | [Sunak](http://twitter.com/search?q=Sunak) | N/A |
+| 29 | [Limburg](http://twitter.com/search?q=Limburg) | N/A |
+| 30 | [Peter Goossens](http://twitter.com/search?q=Peter+Goossens) | N/A |
+| 31 | [Diawara](http://twitter.com/search?q=Diawara) | N/A |
+| 32 | [Tommy Fury](http://twitter.com/search?q=Tommy+Fury) | N/A |
+| 33 | [Bpost](http://twitter.com/search?q=Bpost) | N/A |
+| 34 | [IT'S RACE WEEK](http://twitter.com/search?q=IT%27S+RACE+WEEK) | N/A |
+| 35 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
+| 36 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 37 | [vdab](http://twitter.com/search?q=vdab) | N/A |
+| 38 | [VOKA](http://twitter.com/search?q=VOKA) | N/A |
+| 39 | [Fally](http://twitter.com/search?q=Fally) | N/A |
+| 40 | [EU-UK](http://twitter.com/search?q=EU-UK) | N/A |
+| 41 | [Astrid](http://twitter.com/search?q=Astrid) | N/A |
+| 42 | [Roberto](http://twitter.com/search?q=Roberto) | N/A |
+| 43 | [Andy](http://twitter.com/search?q=Andy) | N/A |
+| 44 | [Commission](http://twitter.com/search?q=Commission) | N/A |
+| 45 | [Tory](http://twitter.com/search?q=Tory) | Tory is a term used to refer to a member of the British Conservative Party. It is derived from the Middle Irish word "toraidhe", which means "outlaw". The term has been used since the late 17th century to refer to those who supported the Royalist cause during the English Civil War. |
+| 46 | [Ethnicité](http://twitter.com/search?q=Ethnicit%c3%a9) | N/A |
+| 47 | [Paintsil](http://twitter.com/search?q=Paintsil) | N/A |
+| 48 | [Slimani](http://twitter.com/search?q=Slimani) | N/A |
+| 49 | [Bono](http://twitter.com/search?q=Bono) | N/A |
+| 50 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
 
 
 

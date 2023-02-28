@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Long Beach
 
-📆 Last Updated: `2023-02-28 09:16:55 UTC`
+📆 Last Updated: `2023-02-28 10:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
-| 2 | [#FlyTogether](http://twitter.com/search?q=%23FlyTogether) | N/A |
-| 3 | [Terry](http://twitter.com/search?q=Terry) | N/A |
-| 4 | [Bill Gates](http://twitter.com/search?q=Bill+Gates) | N/A |
-| 5 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 6 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 7 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
-| 8 | [Elden Ring DLC](http://twitter.com/search?q=Elden+Ring+DLC) | N/A |
-| 9 | [Miquella](http://twitter.com/search?q=Miquella) | N/A |
-| 10 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 11 | [Lita](http://twitter.com/search?q=Lita) | N/A |
-| 12 | [Nudy](http://twitter.com/search?q=Nudy) | N/A |
-| 13 | [Shadow of the Erdtree](http://twitter.com/search?q=Shadow+of+the+Erdtree) | N/A |
-| 14 | [TrustWallet](http://twitter.com/search?q=TrustWallet) | N/A |
+| 2 | [Terry](http://twitter.com/search?q=Terry) | N/A |
+| 3 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 4 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
+| 5 | [Elden Ring DLC](http://twitter.com/search?q=Elden+Ring+DLC) | N/A |
+| 6 | [Miquella](http://twitter.com/search?q=Miquella) | N/A |
+| 7 | [Nudy](http://twitter.com/search?q=Nudy) | N/A |
+| 8 | [TrustWallet](http://twitter.com/search?q=TrustWallet) | N/A |
+| 9 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 10 | [Lita](http://twitter.com/search?q=Lita) | N/A |
+| 11 | [Torrent](http://twitter.com/search?q=Torrent) | N/A |
+| 12 | [Shadow of the Erdtree](http://twitter.com/search?q=Shadow+of+the+Erdtree) | N/A |
+| 13 | [#Wordle619](http://twitter.com/search?q=%23Wordle619) | N/A |
+| 14 | [Tom Sizemore](http://twitter.com/search?q=Tom+Sizemore) | N/A |
 | 15 | [Trish](http://twitter.com/search?q=Trish) | N/A |
-| 16 | [Tom Sizemore](http://twitter.com/search?q=Tom+Sizemore) | N/A |
-| 17 | [Torrent](http://twitter.com/search?q=Torrent) | N/A |
-| 18 | [#Wordle619](http://twitter.com/search?q=%23Wordle619) | N/A |
-| 19 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
-| 20 | [Pete Davidson](http://twitter.com/search?q=Pete+Davidson) | Pete Davidson is an American comedian, actor, and writer. He is best known for being a cast member on Saturday Night Live since 2014. He has also appeared in films such as Big Time Adolescence and The King of Staten Island. |
-| 21 | [Weverse](http://twitter.com/search?q=Weverse) | Weverse is a social media platform created by the South Korean entertainment company Big Hit Entertainment. It is designed to connect fans with artists and allow them to interact with each other. The name Weverse is derived from the words “we” and “universe”, representing the idea of creating a universe where fans and artists can come together. |
-| 22 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
-| 23 | [#StillNotBaeBday](http://twitter.com/search?q=%23StillNotBaeBday) | N/A |
-| 24 | [Daily Quordle 400](http://twitter.com/search?q=Daily+Quordle+400) | N/A |
-| 25 | [Murdoch](http://twitter.com/search?q=Murdoch) | N/A |
+| 16 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
+| 17 | [Daily Quordle 400](http://twitter.com/search?q=Daily+Quordle+400) | N/A |
+| 18 | [Pete Davidson](http://twitter.com/search?q=Pete+Davidson) | Pete Davidson is an American comedian, actor, and writer. He is best known for being a cast member on Saturday Night Live since 2014. He has also appeared in films such as Big Time Adolescence and The King of Staten Island. |
+| 19 | [#TXTonTheLateLateShow](http://twitter.com/search?q=%23TXTonTheLateLateShow) | N/A |
+| 20 | [#StillNotBaeBday](http://twitter.com/search?q=%23StillNotBaeBday) | N/A |
+| 21 | [Murdoch](http://twitter.com/search?q=Murdoch) | N/A |
+| 22 | [Weverse](http://twitter.com/search?q=Weverse) | Weverse is a social media platform created by the South Korean entertainment company Big Hit Entertainment. It is designed to connect fans with artists and allow them to interact with each other. The name Weverse is derived from the words “we” and “universe”, representing the idea of creating a universe where fans and artists can come together. |
+| 23 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
+| 24 | [David Hogg](http://twitter.com/search?q=David+Hogg) | N/A |
+| 25 | [G Herbo](http://twitter.com/search?q=G+Herbo) | N/A |
 | 26 | [Player of the Matchday](http://twitter.com/search?q=Player+of+the+Matchday) | N/A |
-| 27 | [G Herbo](http://twitter.com/search?q=G+Herbo) | N/A |
-| 28 | [LATE LATE SHOW WITH TXT](http://twitter.com/search?q=LATE+LATE+SHOW+WITH+TXT) | N/A |
-| 29 | [Platinum Chanel](http://twitter.com/search?q=Platinum+Chanel) | N/A |
-| 30 | [David Hogg](http://twitter.com/search?q=David+Hogg) | N/A |
-| 31 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
-| 32 | [james corden](http://twitter.com/search?q=james+corden) | N/A |
-| 33 | [Bray](http://twitter.com/search?q=Bray) | Bray is a verb meaning to make a loud, harsh sound, usually like the sound of an animal or machine. It is often used to describe the sound made by a donkey or mule. |
-| 34 | [Iowa State](http://twitter.com/search?q=Iowa+State) | Iowa State is a public research university located in Ames, Iowa. It is the largest university in the state of Iowa and the third largest university in the Big 12 Conference. The university was founded in 1858 and is classified as a Doctoral/Research University by the Carnegie Classification of Institutions of Higher Education. Iowa State offers more than 100 undergraduate majors, over 200 graduate programs, and professional degrees in veterinary medicine, agriculture, design, engineering, and business. |
-| 35 | [Omos](http://twitter.com/search?q=Omos) | N/A |
-| 36 | [Gold Alpinas](http://twitter.com/search?q=Gold+Alpinas) | N/A |
-| 37 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 38 | [Damage CTRL](http://twitter.com/search?q=Damage+CTRL) | N/A |
+| 27 | [Platinum Chanel](http://twitter.com/search?q=Platinum+Chanel) | N/A |
+| 28 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
+| 29 | [james corden](http://twitter.com/search?q=james+corden) | N/A |
+| 30 | [Iowa State](http://twitter.com/search?q=Iowa+State) | Iowa State is a public research university located in Ames, Iowa. It is the largest university in the state of Iowa and the third largest university in the Big 12 Conference. The university was founded in 1858 and is classified as a Doctoral/Research University by the Carnegie Classification of Institutions of Higher Education. Iowa State offers more than 100 undergraduate majors, over 200 graduate programs, and professional degrees in veterinary medicine, agriculture, design, engineering, and business. |
+| 31 | [Bray](http://twitter.com/search?q=Bray) | Bray is a verb meaning to make a loud, harsh sound, usually like the sound of an animal or machine. It is often used to describe the sound made by a donkey or mule. |
+| 32 | [Omos](http://twitter.com/search?q=Omos) | N/A |
+| 33 | [Gold Alpinas](http://twitter.com/search?q=Gold+Alpinas) | N/A |
+| 34 | [Damage CTRL](http://twitter.com/search?q=Damage+CTRL) | N/A |
+| 35 | [When I Come Around](http://twitter.com/search?q=When+I+Come+Around) | N/A |
+| 36 | [Bennett](http://twitter.com/search?q=Bennett) | N/A |
+| 37 | [Wrestlemania](http://twitter.com/search?q=Wrestlemania) | WrestleMania is a professional wrestling pay-per-view event produced annually by World Wrestling Entertainment (WWE). It is the biggest event of the year for WWE and is considered to be the Super Bowl of professional wrestling. WrestleMania typically features some of the biggest matches of the year, as well as celebrity appearances and musical performances. The phrase "WrestleMania" has become synonymous with professional wrestling in general, and is often used to refer to any major wrestling event. |
+| 38 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
 | 39 | [Edward VIII](http://twitter.com/search?q=Edward+VIII) | N/A |
-| 40 | [Shayna](http://twitter.com/search?q=Shayna) | N/A |
-| 41 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
-| 42 | [When I Come Around](http://twitter.com/search?q=When+I+Come+Around) | N/A |
-| 43 | [Wrestlemania](http://twitter.com/search?q=Wrestlemania) | WrestleMania is a professional wrestling pay-per-view event produced annually by World Wrestling Entertainment (WWE). It is the biggest event of the year for WWE and is considered to be the Super Bowl of professional wrestling. WrestleMania typically features some of the biggest matches of the year, as well as celebrity appearances and musical performances. The phrase "WrestleMania" has become synonymous with professional wrestling in general, and is often used to refer to any major wrestling event. |
-| 44 | [Lashley](http://twitter.com/search?q=Lashley) | Lashley is a surname of English origin. It is derived from the Old English words læsc (meaning "salmon") and leah (meaning "woodland clearing"). The name was originally given to someone who lived near a salmon-filled stream or river. |
-| 45 | [Orph](http://twitter.com/search?q=Orph) | N/A |
-| 46 | [LastPass](http://twitter.com/search?q=LastPass) | N/A |
-| 47 | [Lesnar](http://twitter.com/search?q=Lesnar) | Lesnar is a surname of German origin. It is derived from the Middle High German word "lesen" which means "to read". In English, it can be translated to mean "reader". |
-| 48 | [Timbers](http://twitter.com/search?q=Timbers) | N/A |
-| 49 | [Proud Boys](http://twitter.com/search?q=Proud+Boys) | N/A |
+| 40 | [Lashley](http://twitter.com/search?q=Lashley) | Lashley is a surname of English origin. It is derived from the Old English words læsc (meaning "salmon") and leah (meaning "woodland clearing"). The name was originally given to someone who lived near a salmon-filled stream or river. |
+| 41 | [LastPass](http://twitter.com/search?q=LastPass) | N/A |
+| 42 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
+| 43 | [Proud Boys](http://twitter.com/search?q=Proud+Boys) | N/A |
+| 44 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
+| 45 | [Lesnar](http://twitter.com/search?q=Lesnar) | Lesnar is a surname of German origin. It is derived from the Middle High German word "lesen" which means "to read". In English, it can be translated to mean "reader". |
+| 46 | [Shayna](http://twitter.com/search?q=Shayna) | N/A |
+| 47 | [Candace](http://twitter.com/search?q=Candace) | N/A |
+| 48 | [Blaire](http://twitter.com/search?q=Blaire) | N/A |
+| 49 | [After School](http://twitter.com/search?q=After+School) | N/A |
 
 
 
