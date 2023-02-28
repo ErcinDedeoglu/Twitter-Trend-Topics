@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bremen
 
-📆 Last Updated: `2023-02-28 14:16:14 UTC`
+📆 Last Updated: `2023-02-28 15:16:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,47 +21,47 @@ This is top 50 for [Germany](</Germany>)
 | 4 | [#eFuels](http://twitter.com/search?q=%23eFuels) | N/A |
 | 5 | [Meute](http://twitter.com/search?q=Meute) | N/A |
 | 6 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
-| 7 | [start in die woche](http://twitter.com/search?q=start+in+die+woche) | N/A |
-| 8 | [Heizungen](http://twitter.com/search?q=Heizungen) | N/A |
-| 9 | [Moderator](http://twitter.com/search?q=Moderator) | N/A |
-| 10 | [Verbote](http://twitter.com/search?q=Verbote) | N/A |
+| 7 | [Heizungen](http://twitter.com/search?q=Heizungen) | N/A |
+| 8 | [Moderator](http://twitter.com/search?q=Moderator) | N/A |
+| 9 | [Kriegsverbrechen](http://twitter.com/search?q=Kriegsverbrechen) | N/A |
+| 10 | [Yfood](http://twitter.com/search?q=Yfood) | N/A |
 | 11 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
-| 12 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
-| 13 | [Kriegsverbrechen](http://twitter.com/search?q=Kriegsverbrechen) | N/A |
-| 14 | [Senioren](http://twitter.com/search?q=Senioren) | N/A |
-| 15 | [Yfood](http://twitter.com/search?q=Yfood) | N/A |
+| 12 | [Verbote](http://twitter.com/search?q=Verbote) | N/A |
+| 13 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
+| 14 | [Nestle](http://twitter.com/search?q=Nestle) | N/A |
+| 15 | [Senioren](http://twitter.com/search?q=Senioren) | N/A |
 | 16 | [Wärmepumpen](http://twitter.com/search?q=W%c3%a4rmepumpen) | N/A |
 | 17 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 18 | [Trinkgeld](http://twitter.com/search?q=Trinkgeld) | N/A |
-| 19 | [Polarlichter](http://twitter.com/search?q=Polarlichter) | N/A |
-| 20 | [Gutachten](http://twitter.com/search?q=Gutachten) | N/A |
-| 21 | [Hikari](http://twitter.com/search?q=Hikari) | N/A |
-| 22 | [Ernährung](http://twitter.com/search?q=Ern%c3%a4hrung) | N/A |
-| 23 | [Elden Ring DLC](http://twitter.com/search?q=Elden+Ring+DLC) | N/A |
-| 24 | [Kirche](http://twitter.com/search?q=Kirche) | N/A |
-| 25 | [Kraftstoffe](http://twitter.com/search?q=Kraftstoffe) | N/A |
-| 26 | [Boris Johnson](http://twitter.com/search?q=Boris+Johnson) | N/A |
-| 27 | [Lebensmittel](http://twitter.com/search?q=Lebensmittel) | N/A |
-| 28 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
-| 29 | [Strom](http://twitter.com/search?q=Strom) | N/A |
+| 18 | [Ankerkraut](http://twitter.com/search?q=Ankerkraut) | N/A |
+| 19 | [lumpenpazifisten](http://twitter.com/search?q=lumpenpazifisten) | N/A |
+| 20 | [Trinkgeld](http://twitter.com/search?q=Trinkgeld) | N/A |
+| 21 | [Gutachten](http://twitter.com/search?q=Gutachten) | N/A |
+| 22 | [Boris Johnson](http://twitter.com/search?q=Boris+Johnson) | N/A |
+| 23 | [Kirche](http://twitter.com/search?q=Kirche) | N/A |
+| 24 | [Elden Ring DLC](http://twitter.com/search?q=Elden+Ring+DLC) | N/A |
+| 25 | [JISOO THE FACE OF DIOR](http://twitter.com/search?q=JISOO+THE+FACE+OF+DIOR) | N/A |
+| 26 | [Lebensmittel](http://twitter.com/search?q=Lebensmittel) | N/A |
+| 27 | [Kraftstoffe](http://twitter.com/search?q=Kraftstoffe) | N/A |
+| 28 | [Strom](http://twitter.com/search?q=Strom) | N/A |
+| 29 | [Ernährung](http://twitter.com/search?q=Ern%c3%a4hrung) | N/A |
 | 30 | [Einbau](http://twitter.com/search?q=Einbau) | N/A |
-| 31 | [Schönen Dienstag](http://twitter.com/search?q=Sch%c3%b6nen+Dienstag) | N/A |
-| 32 | [Bestandsflotte](http://twitter.com/search?q=Bestandsflotte) | N/A |
-| 33 | [Nagel](http://twitter.com/search?q=Nagel) | N/A |
-| 34 | [Nestle](http://twitter.com/search?q=Nestle) | N/A |
-| 35 | [Prantl](http://twitter.com/search?q=Prantl) | N/A |
-| 36 | [Reschke](http://twitter.com/search?q=Reschke) | N/A |
-| 37 | [Süßigkeiten](http://twitter.com/search?q=S%c3%bc%c3%9figkeiten) | N/A |
-| 38 | [Salvatore](http://twitter.com/search?q=Salvatore) | N/A |
-| 39 | [Zimmermann](http://twitter.com/search?q=Zimmermann) | N/A |
-| 40 | [Demo](http://twitter.com/search?q=Demo) | N/A |
-| 41 | [Happy 28th](http://twitter.com/search?q=Happy+28th) | N/A |
-| 42 | [Teil des Krieges](http://twitter.com/search?q=Teil+des+Krieges) | N/A |
-| 43 | [Abrams](http://twitter.com/search?q=Abrams) | Abrams is a surname of English and German origin. It is derived from the Germanic personal name Abraham, meaning "father of many". |
-| 44 | [Warnstreiks](http://twitter.com/search?q=Warnstreiks) | N/A |
-| 45 | [Throne](http://twitter.com/search?q=Throne) | N/A |
-| 46 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
-| 47 | [Özdemir](http://twitter.com/search?q=%c3%96zdemir) | N/A |
+| 31 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
+| 32 | [Nagel](http://twitter.com/search?q=Nagel) | N/A |
+| 33 | [Reschke](http://twitter.com/search?q=Reschke) | N/A |
+| 34 | [Schönen Dienstag](http://twitter.com/search?q=Sch%c3%b6nen+Dienstag) | N/A |
+| 35 | [Bestandsflotte](http://twitter.com/search?q=Bestandsflotte) | N/A |
+| 36 | [Teil des Krieges](http://twitter.com/search?q=Teil+des+Krieges) | N/A |
+| 37 | [Neubauten](http://twitter.com/search?q=Neubauten) | N/A |
+| 38 | [Zimmermann](http://twitter.com/search?q=Zimmermann) | N/A |
+| 39 | [Hikari](http://twitter.com/search?q=Hikari) | N/A |
+| 40 | [Süßigkeiten](http://twitter.com/search?q=S%c3%bc%c3%9figkeiten) | N/A |
+| 41 | [Prantl](http://twitter.com/search?q=Prantl) | N/A |
+| 42 | [Demo](http://twitter.com/search?q=Demo) | N/A |
+| 43 | [Happy 28th](http://twitter.com/search?q=Happy+28th) | N/A |
+| 44 | [Partitio](http://twitter.com/search?q=Partitio) | N/A |
+| 45 | [Start in die Woche](http://twitter.com/search?q=Start+in+die+Woche) | Start in die Woche is a German phrase that translates to "start of the week" in English. It is used to refer to the beginning of a new week, usually on Monday. |
+| 46 | [Ochette](http://twitter.com/search?q=Ochette) | N/A |
+| 47 | [Throné](http://twitter.com/search?q=Thron%c3%a9) | N/A |
 | 48 | [Miquella](http://twitter.com/search?q=Miquella) | N/A |
 
 

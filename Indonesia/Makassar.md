@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Makassar
 
-📆 Last Updated: `2023-02-28 14:16:19 UTC`
+📆 Last Updated: `2023-02-28 15:16:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Indonesia](</Indonesia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#JISOOxDiorAW23](http://twitter.com/search?q=%23JISOOxDiorAW23) | N/A |
-| 2 | [#BSICharityConcert2023](http://twitter.com/search?q=%23BSICharityConcert2023) | N/A |
-| 3 | [#BLK2023](http://twitter.com/search?q=%23BLK2023) | N/A |
-| 4 | [#ShareTheEpicwithRaisa](http://twitter.com/search?q=%23ShareTheEpicwithRaisa) | N/A |
-| 5 | [Series 5G](http://twitter.com/search?q=Series+5G) | N/A |
-| 6 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
-| 7 | [Perjalanan Sebuah Mahakarya](http://twitter.com/search?q=Perjalanan+Sebuah+Mahakarya) | N/A |
-| 8 | [ASTRO](http://twitter.com/search?q=ASTRO) | N/A |
+| 2 | [#ROVER_MoodSampler1](http://twitter.com/search?q=%23ROVER_MoodSampler1) | N/A |
+| 3 | [ROVER IS COMING](http://twitter.com/search?q=ROVER+IS+COMING) | N/A |
+| 4 | [#BSICharityConcert2023](http://twitter.com/search?q=%23BSICharityConcert2023) | N/A |
+| 5 | [#GalaxyS23](http://twitter.com/search?q=%23GalaxyS23) | N/A |
+| 6 | [Series 5G](http://twitter.com/search?q=Series+5G) | N/A |
+| 7 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
+| 8 | [Vidi](http://twitter.com/search?q=Vidi) | N/A |
 | 9 | [DIOR WITH NATTAWIN](http://twitter.com/search?q=DIOR+WITH+NATTAWIN) | N/A |
-| 10 | [Addie MS](http://twitter.com/search?q=Addie+MS) | N/A |
-| 11 | [Chrisye](http://twitter.com/search?q=Chrisye) | N/A |
-| 12 | [Aroha](http://twitter.com/search?q=Aroha) | N/A |
-| 13 | [Ilyy](http://twitter.com/search?q=Ilyy) | N/A |
-| 14 | [PBSI](http://twitter.com/search?q=PBSI) | N/A |
+| 10 | [O HIGHLIGHT MEDLEY](http://twitter.com/search?q=O+HIGHLIGHT+MEDLEY) | N/A |
+| 11 | [ASTRO](http://twitter.com/search?q=ASTRO) | N/A |
+| 12 | [Perjalanan Sebuah Mahakarya](http://twitter.com/search?q=Perjalanan+Sebuah+Mahakarya) | N/A |
+| 13 | [Chrisye](http://twitter.com/search?q=Chrisye) | N/A |
+| 14 | [Ilyy](http://twitter.com/search?q=Ilyy) | N/A |
 | 15 | [Mengangkat](http://twitter.com/search?q=Mengangkat) | N/A |
 | 16 | [Beng](http://twitter.com/search?q=Beng) | N/A |
-| 17 | [Nadia](http://twitter.com/search?q=Nadia) | N/A |
-| 18 | [Didi Kempot](http://twitter.com/search?q=Didi+Kempot) | N/A |
-| 19 | [Stranger Things](http://twitter.com/search?q=Stranger+Things) | N/A |
-| 20 | [Gen 2](http://twitter.com/search?q=Gen+2) | N/A |
-| 21 | [Flandy](http://twitter.com/search?q=Flandy) | N/A |
-| 22 | [Reply 1988](http://twitter.com/search?q=Reply+1988) | N/A |
-| 23 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 24 | [Jam 5](http://twitter.com/search?q=Jam+5) | N/A |
-| 25 | [Vario](http://twitter.com/search?q=Vario) | N/A |
-| 26 | [Rakyat](http://twitter.com/search?q=Rakyat) | N/A |
-| 27 | [Scoopy](http://twitter.com/search?q=Scoopy) | N/A |
-| 28 | [Hospital Playlist](http://twitter.com/search?q=Hospital+Playlist) | N/A |
-| 29 | [laut bercerita](http://twitter.com/search?q=laut+bercerita) | N/A |
-| 30 | [Shea](http://twitter.com/search?q=Shea) | N/A |
-| 31 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
-| 32 | [Sukuna](http://twitter.com/search?q=Sukuna) | N/A |
-| 33 | [Bubah Alfian](http://twitter.com/search?q=Bubah+Alfian) | N/A |
-| 34 | [Zara](http://twitter.com/search?q=Zara) | Zara is a Spanish clothing and accessories retailer. It is one of the largest international fashion companies, and specializes in fast fashion. The name Zara is derived from the name of the founder's daughter, Zara Amalia. |
-| 35 | [Gubernurnya](http://twitter.com/search?q=Gubernurnya) | N/A |
-| 36 | [Maret 2023](http://twitter.com/search?q=Maret+2023) | N/A |
-| 37 | [Februari 2023](http://twitter.com/search?q=Februari+2023) | N/A |
-| 38 | [Jam 7](http://twitter.com/search?q=Jam+7) | N/A |
-| 39 | [#Dehya](http://twitter.com/search?q=%23Dehya) | N/A |
-| 40 | [#NeverLetMeGoSeriesFinalEP](http://twitter.com/search?q=%23NeverLetMeGoSeriesFinalEP) | N/A |
-| 41 | [#withGalaxy](http://twitter.com/search?q=%23withGalaxy) | N/A |
-| 42 | [#ApoxDiorAW2023](http://twitter.com/search?q=%23ApoxDiorAW2023) | N/A |
-| 43 | [#GenshinImpactID](http://twitter.com/search?q=%23GenshinImpactID) | N/A |
-| 44 | [#UN1TYEPIKBTV](http://twitter.com/search?q=%23UN1TYEPIKBTV) | N/A |
-| 45 | [#NeverLetMeGoFinalEP](http://twitter.com/search?q=%23NeverLetMeGoFinalEP) | N/A |
-| 46 | [#AturanAntiCintaJKT48](http://twitter.com/search?q=%23AturanAntiCintaJKT48) | N/A |
-| 47 | [#KawalDavid](http://twitter.com/search?q=%23KawalDavid) | N/A |
-| 48 | [#TiffanyxWin](http://twitter.com/search?q=%23TiffanyxWin) | N/A |
-| 49 | [#GREply](http://twitter.com/search?q=%23GREply) | N/A |
+| 17 | [Addie MS](http://twitter.com/search?q=Addie+MS) | N/A |
+| 18 | [Aroha](http://twitter.com/search?q=Aroha) | N/A |
+| 19 | [Hirotada](http://twitter.com/search?q=Hirotada) | N/A |
+| 20 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 21 | [PBSI](http://twitter.com/search?q=PBSI) | N/A |
+| 22 | [Nadia](http://twitter.com/search?q=Nadia) | N/A |
+| 23 | [didi kempot](http://twitter.com/search?q=didi+kempot) | N/A |
+| 24 | [Reply 1988](http://twitter.com/search?q=Reply+1988) | N/A |
+| 25 | [Stranger Things](http://twitter.com/search?q=Stranger+Things) | N/A |
+| 26 | [D.O.](http://twitter.com/search?q=D.O.) | N/A |
+| 27 | [Gen 2](http://twitter.com/search?q=Gen+2) | N/A |
+| 28 | [Flandy](http://twitter.com/search?q=Flandy) | N/A |
+| 29 | [Jam 5](http://twitter.com/search?q=Jam+5) | N/A |
+| 30 | [Hospital Playlist](http://twitter.com/search?q=Hospital+Playlist) | N/A |
+| 31 | [Laut Bercerita](http://twitter.com/search?q=Laut+Bercerita) | N/A |
+| 32 | [Shea](http://twitter.com/search?q=Shea) | N/A |
+| 33 | [scoopy](http://twitter.com/search?q=scoopy) | N/A |
+| 34 | [Vario](http://twitter.com/search?q=Vario) | N/A |
+| 35 | [Sukuna](http://twitter.com/search?q=Sukuna) | N/A |
+| 36 | [Bubah Alfian](http://twitter.com/search?q=Bubah+Alfian) | N/A |
+| 37 | [Nino](http://twitter.com/search?q=Nino) | N/A |
+| 38 | [Megumi](http://twitter.com/search?q=Megumi) | Megumi is a Japanese female given name. It is usually written with the characters 恵, meaning “blessing”, and 美, meaning “beauty”. In English, it can be translated to mean “blessed beauty”. |
+| 39 | [Zara](http://twitter.com/search?q=Zara) | Zara is a Spanish clothing and accessories retailer. It is one of the largest international fashion companies, and specializes in fast fashion. The name Zara is derived from the name of the founder's daughter, Zara Amalia. |
+| 40 | [Gubernurnya](http://twitter.com/search?q=Gubernurnya) | N/A |
+| 41 | [Brooklyn 99](http://twitter.com/search?q=Brooklyn+99) | N/A |
+| 42 | [Maret 2023](http://twitter.com/search?q=Maret+2023) | N/A |
+| 43 | [Februari 2023](http://twitter.com/search?q=Februari+2023) | N/A |
+| 44 | [#ShareTheEpicwithRaisa](http://twitter.com/search?q=%23ShareTheEpicwithRaisa) | N/A |
+| 45 | [#withGalaxy](http://twitter.com/search?q=%23withGalaxy) | N/A |
+| 46 | [#NeverLetMeGoSeriesFinalEP](http://twitter.com/search?q=%23NeverLetMeGoSeriesFinalEP) | N/A |
+| 47 | [#BLK2023](http://twitter.com/search?q=%23BLK2023) | N/A |
+| 48 | [#NeverLetMeGoFinalEP](http://twitter.com/search?q=%23NeverLetMeGoFinalEP) | N/A |
+| 49 | [#KAI_Rover](http://twitter.com/search?q=%23KAI_Rover) | N/A |
 
 
 

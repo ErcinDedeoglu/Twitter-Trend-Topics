@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Haven
 
-📆 Last Updated: `2023-02-28 14:16:42 UTC`
+📆 Last Updated: `2023-02-28 15:17:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,50 +18,49 @@ This is top 50 for [United States](</United States>)
 | 1 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
 | 2 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
 | 3 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
-| 4 | [#ApoxDiorAW2023](http://twitter.com/search?q=%23ApoxDiorAW2023) | N/A |
-| 5 | [#JISOOxDiorAW23](http://twitter.com/search?q=%23JISOOxDiorAW23) | N/A |
-| 6 | [JISOO THE FACE OF DIOR](http://twitter.com/search?q=JISOO+THE+FACE+OF+DIOR) | N/A |
-| 7 | [Elden Ring DLC](http://twitter.com/search?q=Elden+Ring+DLC) | N/A |
-| 8 | [Leslie Frazier](http://twitter.com/search?q=Leslie+Frazier) | Leslie Frazier is an American football coach and former player. He is currently the defensive coordinator for the Buffalo Bills of the National Football League (NFL). He previously served as head coach of the Minnesota Vikings from 2011 to 2013. |
+| 4 | [#RareDiseaseDay](http://twitter.com/search?q=%23RareDiseaseDay) | N/A |
+| 5 | [Leslie Frazier](http://twitter.com/search?q=Leslie+Frazier) | Leslie Frazier is an American football coach and former player. He is currently the defensive coordinator for the Buffalo Bills of the National Football League (NFL). He previously served as head coach of the Minnesota Vikings from 2011 to 2013. |
+| 6 | [Elden Ring DLC](http://twitter.com/search?q=Elden+Ring+DLC) | N/A |
+| 7 | [Marcus Mariota](http://twitter.com/search?q=Marcus+Mariota) | N/A |
+| 8 | [#ApoxDiorAW2023](http://twitter.com/search?q=%23ApoxDiorAW2023) | N/A |
 | 9 | [Miquella](http://twitter.com/search?q=Miquella) | N/A |
 | 10 | [Brian Johnson](http://twitter.com/search?q=Brian+Johnson) | N/A |
-| 11 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
-| 12 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
-| 13 | [David Hogg](http://twitter.com/search?q=David+Hogg) | N/A |
-| 14 | [DIOR WITH NATTAWIN](http://twitter.com/search?q=DIOR+WITH+NATTAWIN) | N/A |
+| 11 | [JISOO THE FACE OF DIOR](http://twitter.com/search?q=JISOO+THE+FACE+OF+DIOR) | N/A |
+| 12 | [Nudy](http://twitter.com/search?q=Nudy) | N/A |
+| 13 | [McDermott](http://twitter.com/search?q=McDermott) | McDermott is a surname of Irish origin. It is derived from the Gaelic Mac Diarmada, meaning "son of Diarmaid". The name is associated with County Roscommon in Ireland. |
+| 14 | [Dreamville](http://twitter.com/search?q=Dreamville) | N/A |
 | 15 | [Dan Snyder](http://twitter.com/search?q=Dan+Snyder) | N/A |
-| 16 | [Nudy](http://twitter.com/search?q=Nudy) | N/A |
-| 17 | [Daily Quordle 400](http://twitter.com/search?q=Daily+Quordle+400) | N/A |
-| 18 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 19 | [Goodell](http://twitter.com/search?q=Goodell) | Goodell is a surname of English origin. It is derived from the Old English words "god" and "wella," meaning "good spring." The name was originally given to someone who lived near a good spring or well. |
-| 20 | [Murdoch](http://twitter.com/search?q=Murdoch) | N/A |
-| 21 | [Shadow of the Erdtree](http://twitter.com/search?q=Shadow+of+the+Erdtree) | N/A |
+| 16 | [David Hogg](http://twitter.com/search?q=David+Hogg) | N/A |
+| 17 | [ROVER IS COMING](http://twitter.com/search?q=ROVER+IS+COMING) | N/A |
+| 18 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
+| 19 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
+| 20 | [Goodell](http://twitter.com/search?q=Goodell) | Goodell is a surname of English origin. It is derived from the Old English words "god" and "wella," meaning "good spring." The name was originally given to someone who lived near a good spring or well. |
+| 21 | [DIOR WITH NATTAWIN](http://twitter.com/search?q=DIOR+WITH+NATTAWIN) | N/A |
 | 22 | [Colbert](http://twitter.com/search?q=Colbert) | N/A |
-| 23 | [Daron Payne](http://twitter.com/search?q=Daron+Payne) | N/A |
-| 24 | [Fantagio](http://twitter.com/search?q=Fantagio) | N/A |
-| 25 | [Player of the Matchday](http://twitter.com/search?q=Player+of+the+Matchday) | N/A |
-| 26 | [Torrent](http://twitter.com/search?q=Torrent) | N/A |
-| 27 | [Election Day](http://twitter.com/search?q=Election+Day) | N/A |
-| 28 | [Jessie Bates](http://twitter.com/search?q=Jessie+Bates) | N/A |
-| 29 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
-| 30 | [Parkland](http://twitter.com/search?q=Parkland) | N/A |
-| 31 | [Marika](http://twitter.com/search?q=Marika) | N/A |
-| 32 | [Tom Sizemore](http://twitter.com/search?q=Tom+Sizemore) | N/A |
-| 33 | [Gherbo](http://twitter.com/search?q=Gherbo) | N/A |
-| 34 | [CNN and MSNBC](http://twitter.com/search?q=CNN+and+MSNBC) | N/A |
-| 35 | [Joy Reid](http://twitter.com/search?q=Joy+Reid) | N/A |
-| 36 | [Lightfoot](http://twitter.com/search?q=Lightfoot) | N/A |
-| 37 | [Maxine Waters](http://twitter.com/search?q=Maxine+Waters) | N/A |
-| 38 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
-| 39 | [Dr Fauci](http://twitter.com/search?q=Dr+Fauci) | N/A |
-| 40 | [Lita](http://twitter.com/search?q=Lita) | N/A |
-| 41 | [Jim Acosta](http://twitter.com/search?q=Jim+Acosta) | N/A |
-| 42 | [Pete Davidson](http://twitter.com/search?q=Pete+Davidson) | Pete Davidson is an American comedian, actor, and writer. He is best known for being a cast member on Saturday Night Live since 2014. He has also appeared in films such as Big Time Adolescence and The King of Staten Island. |
-| 43 | [Heineken](http://twitter.com/search?q=Heineken) | N/A |
-| 44 | [Janet Yellen](http://twitter.com/search?q=Janet+Yellen) | N/A |
-| 45 | [Gold Alpinas](http://twitter.com/search?q=Gold+Alpinas) | N/A |
-| 46 | [Brandon Johnson](http://twitter.com/search?q=Brandon+Johnson) | N/A |
-| 47 | [Northern Ireland](http://twitter.com/search?q=Northern+Ireland) | N/A |
+| 23 | [FFXVI](http://twitter.com/search?q=FFXVI) | N/A |
+| 24 | [Murdoch](http://twitter.com/search?q=Murdoch) | N/A |
+| 25 | [Final Fantasy XVI](http://twitter.com/search?q=Final+Fantasy+XVI) | N/A |
+| 26 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 27 | [Poot](http://twitter.com/search?q=Poot) | N/A |
+| 28 | [Daily Quordle 400](http://twitter.com/search?q=Daily+Quordle+400) | N/A |
+| 29 | [Shadow of the Erdtree](http://twitter.com/search?q=Shadow+of+the+Erdtree) | N/A |
+| 30 | [Election Day](http://twitter.com/search?q=Election+Day) | N/A |
+| 31 | [Wonho](http://twitter.com/search?q=Wonho) | N/A |
+| 32 | [Player of the Matchday](http://twitter.com/search?q=Player+of+the+Matchday) | N/A |
+| 33 | [John Johnson](http://twitter.com/search?q=John+Johnson) | N/A |
+| 34 | [Herb](http://twitter.com/search?q=Herb) | Herb is a noun that refers to a plant that does not have a woody stem and usually dies back at the end of each growing season. It is used in cooking, medicine, and other areas. In English, the word herb can also refer to any aromatic plant material used for flavoring or scenting food, medicines, or other products. |
+| 35 | [Torrent](http://twitter.com/search?q=Torrent) | N/A |
+| 36 | [Ryan Poles](http://twitter.com/search?q=Ryan+Poles) | N/A |
+| 37 | [Jessie Bates](http://twitter.com/search?q=Jessie+Bates) | N/A |
+| 38 | [Fantagio](http://twitter.com/search?q=Fantagio) | N/A |
+| 39 | [Marika](http://twitter.com/search?q=Marika) | N/A |
+| 40 | [Lori Lightfoot](http://twitter.com/search?q=Lori+Lightfoot) | N/A |
+| 41 | [St. Augustine](http://twitter.com/search?q=St.+Augustine) | N/A |
+| 42 | [Daron Payne](http://twitter.com/search?q=Daron+Payne) | N/A |
+| 43 | [Terrific Tuesday](http://twitter.com/search?q=Terrific+Tuesday) | N/A |
+| 44 | [$TGT](http://twitter.com/search?q=%24TGT) | N/A |
+| 45 | [Joy Reid](http://twitter.com/search?q=Joy+Reid) | N/A |
+| 46 | [Parkland](http://twitter.com/search?q=Parkland) | N/A |
 
 
 

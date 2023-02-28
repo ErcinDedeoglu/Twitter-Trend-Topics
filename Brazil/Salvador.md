@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Salvador
 
-📆 Last Updated: `2023-02-28 14:16:10 UTC`
+📆 Last Updated: `2023-02-28 15:16:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [JISOO THE FACE OF DIOR](http://twitter.com/search?q=JISOO+THE+FACE+OF+DIOR) | N/A |
-| 2 | [#JISOOxDiorAW23](http://twitter.com/search?q=%23JISOOxDiorAW23) | N/A |
-| 3 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
-| 4 | [Wanessa Camargo](http://twitter.com/search?q=Wanessa+Camargo) | N/A |
-| 5 | [#NeverLetMeGoSeriesFinalEP](http://twitter.com/search?q=%23NeverLetMeGoSeriesFinalEP) | N/A |
-| 6 | [UFMG](http://twitter.com/search?q=UFMG) | N/A |
-| 7 | [sisu](http://twitter.com/search?q=sisu) | N/A |
-| 8 | [#Encontro](http://twitter.com/search?q=%23Encontro) | N/A |
-| 9 | [Bolsa Família](http://twitter.com/search?q=Bolsa+Fam%c3%adlia) | N/A |
-| 10 | [Parabénssss](http://twitter.com/search?q=Parab%c3%a9nssss) | N/A |
-| 11 | [União Brasil](http://twitter.com/search?q=Uni%c3%a3o+Brasil) | N/A |
-| 12 | [Bento Gonçalves](http://twitter.com/search?q=Bento+Gon%c3%a7alves) | N/A |
-| 13 | [Miquella](http://twitter.com/search?q=Miquella) | N/A |
-| 14 | [ASTRO](http://twitter.com/search?q=ASTRO) | N/A |
-| 15 | [UFRJ](http://twitter.com/search?q=UFRJ) | N/A |
-| 16 | [#F360BR](http://twitter.com/search?q=%23F360BR) | N/A |
-| 17 | [DLC de Elden Ring](http://twitter.com/search?q=DLC+de+Elden+Ring) | N/A |
-| 18 | [Juscelino Filho](http://twitter.com/search?q=Juscelino+Filho) | N/A |
-| 19 | [ufes](http://twitter.com/search?q=ufes) | N/A |
-| 20 | [Campari](http://twitter.com/search?q=Campari) | N/A |
-| 21 | [Obrigadaaaa](http://twitter.com/search?q=Obrigadaaaa) | N/A |
-| 22 | [#ForaFredNicassio](http://twitter.com/search?q=%23ForaFredNicassio) | N/A |
-| 23 | [JEON JUNGKOOK](http://twitter.com/search?q=JEON+JUNGKOOK) | Jeon Jungkook is the stage name of Jungkook, a South Korean singer, songwriter, and dancer. He is a member of the boy band BTS. The name Jeon Jungkook means "golden nation" in English. |
-| 24 | [Werg](http://twitter.com/search?q=Werg) | N/A |
-| 25 | [Shadow of the Erdtree](http://twitter.com/search?q=Shadow+of+the+Erdtree) | N/A |
-| 26 | [UFOP](http://twitter.com/search?q=UFOP) | N/A |
-| 27 | [Benedetto](http://twitter.com/search?q=Benedetto) | Benedetto is an Italian name meaning "blessed". It is derived from the Latin word "benedictus", which means "blessed". |
-| 28 | [Marika](http://twitter.com/search?q=Marika) | N/A |
-| 29 | [ProUni](http://twitter.com/search?q=ProUni) | N/A |
-| 30 | [Patrícia Poeta](http://twitter.com/search?q=Patr%c3%adcia+Poeta) | N/A |
-| 31 | [Moraes](http://twitter.com/search?q=Moraes) | N/A |
-| 32 | [UFSCar](http://twitter.com/search?q=UFSCar) | N/A |
+| 1 | [UFBA](http://twitter.com/search?q=UFBA) | N/A |
+| 2 | [JISOO THE FACE OF DIOR](http://twitter.com/search?q=JISOO+THE+FACE+OF+DIOR) | N/A |
+| 3 | [DESSA VEZ NÃO](http://twitter.com/search?q=DESSA+VEZ+N%c3%83O) | N/A |
+| 4 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
+| 5 | [Wanessa Camargo](http://twitter.com/search?q=Wanessa+Camargo) | N/A |
+| 6 | [Bolsa Família](http://twitter.com/search?q=Bolsa+Fam%c3%adlia) | N/A |
+| 7 | [#NeverLetMeGoSeriesFinalEP](http://twitter.com/search?q=%23NeverLetMeGoSeriesFinalEP) | N/A |
+| 8 | [Bento Gonçalves](http://twitter.com/search?q=Bento+Gon%c3%a7alves) | N/A |
+| 9 | [sisu](http://twitter.com/search?q=sisu) | N/A |
+| 10 | [UFMG](http://twitter.com/search?q=UFMG) | N/A |
+| 11 | [Parabénssss](http://twitter.com/search?q=Parab%c3%a9nssss) | N/A |
+| 12 | [União Brasil](http://twitter.com/search?q=Uni%c3%a3o+Brasil) | N/A |
+| 13 | [#NeverLetMeGoFinalEP](http://twitter.com/search?q=%23NeverLetMeGoFinalEP) | N/A |
+| 14 | [UFRJ](http://twitter.com/search?q=UFRJ) | N/A |
+| 15 | [ASTRO](http://twitter.com/search?q=ASTRO) | N/A |
+| 16 | [Consea](http://twitter.com/search?q=Consea) | N/A |
+| 17 | [UFOP](http://twitter.com/search?q=UFOP) | N/A |
+| 18 | [DLC de Elden Ring](http://twitter.com/search?q=DLC+de+Elden+Ring) | N/A |
+| 19 | [Obrigadaaa](http://twitter.com/search?q=Obrigadaaa) | N/A |
+| 20 | [#F360BR](http://twitter.com/search?q=%23F360BR) | N/A |
+| 21 | [Campari](http://twitter.com/search?q=Campari) | N/A |
+| 22 | [Miquella](http://twitter.com/search?q=Miquella) | N/A |
+| 23 | [Final Fantasy XVI](http://twitter.com/search?q=Final+Fantasy+XVI) | N/A |
+| 24 | [#encontro](http://twitter.com/search?q=%23encontro) | N/A |
+| 25 | [ufes](http://twitter.com/search?q=ufes) | N/A |
+| 26 | [ProUni](http://twitter.com/search?q=ProUni) | N/A |
+| 27 | [#ForaFredNicassio](http://twitter.com/search?q=%23ForaFredNicassio) | N/A |
+| 28 | [Juscelino Filho](http://twitter.com/search?q=Juscelino+Filho) | N/A |
+| 29 | [jeon jungkook](http://twitter.com/search?q=jeon+jungkook) | N/A |
+| 30 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
+| 31 | [Werg](http://twitter.com/search?q=Werg) | N/A |
+| 32 | [Rioru](http://twitter.com/search?q=Rioru) | N/A |
 | 33 | [Comunicações](http://twitter.com/search?q=Comunica%c3%a7%c3%b5es) | N/A |
-| 34 | [Petrobras](http://twitter.com/search?q=Petrobras) | N/A |
-| 35 | [HOJE TEM FLAMENGO](http://twitter.com/search?q=HOJE+TEM+FLAMENGO) | "HOJE TEM FLAMENGO" is a phrase in Portuguese that translates to "Flamengo plays today" in English. It is used to express excitement and enthusiasm for a soccer match involving the Brazilian team Flamengo. |
-| 36 | [Doenças Raras](http://twitter.com/search?q=Doen%c3%a7as+Raras) | N/A |
-| 37 | [Justus](http://twitter.com/search?q=Justus) | N/A |
-| 38 | [Avenida Brasil](http://twitter.com/search?q=Avenida+Brasil) | N/A |
-| 39 | [Justiça Militar](http://twitter.com/search?q=Justi%c3%a7a+Militar) | N/A |
-| 40 | [Obrigadoo](http://twitter.com/search?q=Obrigadoo) | N/A |
-| 41 | [Rioru](http://twitter.com/search?q=Rioru) | N/A |
-| 42 | [Consea](http://twitter.com/search?q=Consea) | N/A |
-| 43 | [UFBA](http://twitter.com/search?q=UFBA) | N/A |
-| 44 | [Ministro de Lula](http://twitter.com/search?q=Ministro+de+Lula) | N/A |
-| 45 | [UFPE](http://twitter.com/search?q=UFPE) | N/A |
-| 46 | [Haddad](http://twitter.com/search?q=Haddad) | N/A |
-| 47 | [imagine dragons](http://twitter.com/search?q=imagine+dragons) | N/A |
-| 48 | [Federal](http://twitter.com/search?q=Federal) | N/A |
-| 49 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
-| 50 | [Igão](http://twitter.com/search?q=Ig%c3%a3o) | N/A |
+| 34 | [Obrigadooo](http://twitter.com/search?q=Obrigadooo) | N/A |
+| 35 | [Avelar](http://twitter.com/search?q=Avelar) | N/A |
+| 36 | [Patrícia Poeta](http://twitter.com/search?q=Patr%c3%adcia+Poeta) | N/A |
+| 37 | [Moraes](http://twitter.com/search?q=Moraes) | N/A |
+| 38 | [UFSCar](http://twitter.com/search?q=UFSCar) | N/A |
+| 39 | [imagine dragons](http://twitter.com/search?q=imagine+dragons) | N/A |
+| 40 | [Igão](http://twitter.com/search?q=Ig%c3%a3o) | N/A |
+| 41 | [Federal](http://twitter.com/search?q=Federal) | N/A |
+| 42 | [Justus](http://twitter.com/search?q=Justus) | N/A |
+| 43 | [Avenida Brasil](http://twitter.com/search?q=Avenida+Brasil) | N/A |
+| 44 | [Marika](http://twitter.com/search?q=Marika) | N/A |
+| 45 | [Shadow of the Erdtree](http://twitter.com/search?q=Shadow+of+the+Erdtree) | N/A |
+| 46 | [Petrobras](http://twitter.com/search?q=Petrobras) | N/A |
+| 47 | [Benedetto](http://twitter.com/search?q=Benedetto) | Benedetto is an Italian name meaning "blessed". It is derived from the Latin word "benedictus", which means "blessed". |
+| 48 | [Justiça Militar](http://twitter.com/search?q=Justi%c3%a7a+Militar) | N/A |
+| 49 | [Haddad](http://twitter.com/search?q=Haddad) | N/A |
+| 50 | [UFABC](http://twitter.com/search?q=UFABC) | N/A |
 
 
 

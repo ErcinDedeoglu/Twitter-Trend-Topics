@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Johor Bahru
 
-📆 Last Updated: `2023-02-28 14:16:25 UTC`
+📆 Last Updated: `2023-02-28 15:17:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Malaysia](</Malaysia>)
 | ------- | ------------ | ------------ |
 | 1 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 2 | [#JISOOxDiorAW23](http://twitter.com/search?q=%23JISOOxDiorAW23) | N/A |
-| 3 | [Toby](http://twitter.com/search?q=Toby) | N/A |
-| 4 | [#NeverLetMeGoSeriesFinalEP](http://twitter.com/search?q=%23NeverLetMeGoSeriesFinalEP) | N/A |
-| 5 | [#toasteed](http://twitter.com/search?q=%23toasteed) | N/A |
-| 6 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
-| 7 | [#KiehlsXBright](http://twitter.com/search?q=%23KiehlsXBright) | N/A |
-| 8 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
-| 9 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
-| 10 | [Cleanser](http://twitter.com/search?q=Cleanser) | N/A |
-| 11 | [The 10](http://twitter.com/search?q=The+10) | N/A |
-| 12 | [EXO SC](http://twitter.com/search?q=EXO+SC) | N/A |
-| 13 | [Terry](http://twitter.com/search?q=Terry) | N/A |
-| 14 | [Sehun](http://twitter.com/search?q=Sehun) | N/A |
-| 15 | [Bennett](http://twitter.com/search?q=Bennett) | N/A |
-| 16 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
-| 17 | [Mascara - Maybelline](http://twitter.com/search?q=Mascara+-+Maybelline) | N/A |
-| 18 | [TraderDAO](http://twitter.com/search?q=TraderDAO) | N/A |
-| 19 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 20 | [Chanyeol](http://twitter.com/search?q=Chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
-| 21 | [cost utilization](http://twitter.com/search?q=cost+utilization) | N/A |
-| 22 | [ASTRO](http://twitter.com/search?q=ASTRO) | N/A |
-| 23 | [POLLY PASTEL BY BUILD](http://twitter.com/search?q=POLLY+PASTEL+BY+BUILD) | N/A |
-| 24 | [The 3](http://twitter.com/search?q=The+3) | N/A |
-| 25 | [HAVE TO KNOW](http://twitter.com/search?q=HAVE+TO+KNOW) | N/A |
-| 26 | [concealer - maybelline](http://twitter.com/search?q=concealer+-+maybelline) | N/A |
-| 27 | [Sunblock - 3w](http://twitter.com/search?q=Sunblock+-+3w) | N/A |
-| 28 | [Fantagio](http://twitter.com/search?q=Fantagio) | N/A |
-| 29 | [Eyeliner - Maybelline](http://twitter.com/search?q=Eyeliner+-+Maybelline) | N/A |
-| 30 | [Benny](http://twitter.com/search?q=Benny) | N/A |
-| 31 | [minhyuk](http://twitter.com/search?q=minhyuk) | N/A |
-| 32 | [PH SCAMMER](http://twitter.com/search?q=PH+SCAMMER) | N/A |
-| 33 | [LATE LATE SHOW WITH TXT](http://twitter.com/search?q=LATE+LATE+SHOW+WITH+TXT) | N/A |
-| 34 | [Blusher - In2it](http://twitter.com/search?q=Blusher+-+In2it) | N/A |
-| 35 | [Momo](http://twitter.com/search?q=Momo) | Momo is a Japanese word that means "peach". It is also used as a nickname for someone who is cute or has a peachy complexion. |
+| 3 | [#ROVER_MoodSampler1](http://twitter.com/search?q=%23ROVER_MoodSampler1) | N/A |
+| 4 | [ROVER IS COMING](http://twitter.com/search?q=ROVER+IS+COMING) | N/A |
+| 5 | [Toby](http://twitter.com/search?q=Toby) | N/A |
+| 6 | [#toasteed](http://twitter.com/search?q=%23toasteed) | N/A |
+| 7 | [#NeverLetMeGoSeriesFinalEP](http://twitter.com/search?q=%23NeverLetMeGoSeriesFinalEP) | N/A |
+| 8 | [O HIGHLIGHT MEDLEY](http://twitter.com/search?q=O+HIGHLIGHT+MEDLEY) | N/A |
+| 9 | [sunscreen - 3w](http://twitter.com/search?q=sunscreen+-+3w) | N/A |
+| 10 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 11 | [bright in malaysia](http://twitter.com/search?q=bright+in+malaysia) | N/A |
+| 12 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
+| 13 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
+| 14 | [Wonho](http://twitter.com/search?q=Wonho) | N/A |
+| 15 | [Cleanser](http://twitter.com/search?q=Cleanser) | N/A |
+| 16 | [The 10](http://twitter.com/search?q=The+10) | N/A |
+| 17 | [Terry](http://twitter.com/search?q=Terry) | N/A |
+| 18 | [EXO SC](http://twitter.com/search?q=EXO+SC) | N/A |
+| 19 | [Bennett](http://twitter.com/search?q=Bennett) | N/A |
+| 20 | [Mascara - Maybelline](http://twitter.com/search?q=Mascara+-+Maybelline) | N/A |
+| 21 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
+| 22 | [Sehun](http://twitter.com/search?q=Sehun) | N/A |
+| 23 | [Chanyeol](http://twitter.com/search?q=Chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
+| 24 | [cost utilization](http://twitter.com/search?q=cost+utilization) | N/A |
+| 25 | [POLLY PASTEL BY BUILD](http://twitter.com/search?q=POLLY+PASTEL+BY+BUILD) | N/A |
+| 26 | [The 3](http://twitter.com/search?q=The+3) | N/A |
+| 27 | [have to know](http://twitter.com/search?q=have+to+know) | N/A |
+| 28 | [Sunblock - 3w](http://twitter.com/search?q=Sunblock+-+3w) | N/A |
+| 29 | [Fantagio](http://twitter.com/search?q=Fantagio) | N/A |
+| 30 | [Eyeliner - Maybelline](http://twitter.com/search?q=Eyeliner+-+Maybelline) | N/A |
+| 31 | [Benny](http://twitter.com/search?q=Benny) | N/A |
+| 32 | [Concealer - Maybelline](http://twitter.com/search?q=Concealer+-+Maybelline) | N/A |
+| 33 | [PH SCAMMER](http://twitter.com/search?q=PH+SCAMMER) | N/A |
+| 34 | [LATE LATE SHOW WITH TXT](http://twitter.com/search?q=LATE+LATE+SHOW+WITH+TXT) | N/A |
+| 35 | [Blusher - In2it](http://twitter.com/search?q=Blusher+-+In2it) | N/A |
 | 36 | [KAI Rover Teaser Images 1](http://twitter.com/search?q=KAI+Rover+Teaser+Images+1) | N/A |
-| 37 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 38 | [Circle 2](http://twitter.com/search?q=Circle+2) | N/A |
-| 39 | [PARK JISUNG](http://twitter.com/search?q=PARK+JISUNG) | N/A |
-| 40 | [eric chou](http://twitter.com/search?q=eric+chou) | N/A |
-| 41 | [footballing ability](http://twitter.com/search?q=footballing+ability) | N/A |
-| 42 | [Candace](http://twitter.com/search?q=Candace) | N/A |
-| 43 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
-| 44 | [Abby Choi](http://twitter.com/search?q=Abby+Choi) | N/A |
-| 45 | [jana wibawa](http://twitter.com/search?q=jana+wibawa) | N/A |
-| 46 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
-| 47 | [Pharmaniaga](http://twitter.com/search?q=Pharmaniaga) | N/A |
-| 48 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 49 | [Carabao Cup](http://twitter.com/search?q=Carabao+Cup) | N/A |
+| 37 | [Circle 2](http://twitter.com/search?q=Circle+2) | N/A |
+| 38 | [traderdao](http://twitter.com/search?q=traderdao) | N/A |
+| 39 | [eric chou](http://twitter.com/search?q=eric+chou) | N/A |
+| 40 | [Abby Choi](http://twitter.com/search?q=Abby+Choi) | N/A |
+| 41 | [jana wibawa](http://twitter.com/search?q=jana+wibawa) | N/A |
+| 42 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
+| 43 | [Pharmaniaga](http://twitter.com/search?q=Pharmaniaga) | N/A |
+| 44 | [Carabao Cup](http://twitter.com/search?q=Carabao+Cup) | N/A |
+| 45 | [Footballing Ability](http://twitter.com/search?q=Footballing+Ability) | N/A |
+| 46 | [1MDB](http://twitter.com/search?q=1MDB) | N/A |
+| 47 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 48 | [ASTRO](http://twitter.com/search?q=ASTRO) | N/A |
+| 49 | [Lipmatte - Maybelline](http://twitter.com/search?q=Lipmatte+-+Maybelline) | N/A |
 
 
 
