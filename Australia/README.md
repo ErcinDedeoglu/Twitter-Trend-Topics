@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Australia
 
-📆 Last Updated: `2023-02-28 08:17:19 UTC`
+📆 Last Updated: `2023-02-28 09:17:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Australia
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#NZvENG](http://twitter.com/search?q=%23NZvENG) | N/A |
-| 2 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 3 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
-| 4 | [#RobotDebtRC](http://twitter.com/search?q=%23RobotDebtRC) | N/A |
-| 5 | [Father Bob](http://twitter.com/search?q=Father+Bob) | N/A |
-| 6 | [Keenan](http://twitter.com/search?q=Keenan) | N/A |
-| 7 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 8 | [#TheDrum](http://twitter.com/search?q=%23TheDrum) | N/A |
-| 9 | [Test Cricket](http://twitter.com/search?q=Test+Cricket) | N/A |
-| 10 | [Stuart Robert](http://twitter.com/search?q=Stuart+Robert) | N/A |
-| 11 | [Shonee](http://twitter.com/search?q=Shonee) | N/A |
-| 12 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
-| 13 | [Renee Leon](http://twitter.com/search?q=Renee+Leon) | N/A |
-| 14 | [Sussan](http://twitter.com/search?q=Sussan) | N/A |
-| 15 | [Angus Taylor](http://twitter.com/search?q=Angus+Taylor) | N/A |
-| 16 | [Marzhew](http://twitter.com/search?q=Marzhew) | N/A |
-| 17 | [Joffa](http://twitter.com/search?q=Joffa) | N/A |
-| 18 | [Flick](http://twitter.com/search?q=Flick) | N/A |
-| 19 | [Lismore](http://twitter.com/search?q=Lismore) | N/A |
-| 20 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
-| 21 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
+| 2 | [#MAFSAU](http://twitter.com/search?q=%23MAFSAU) | N/A |
+| 3 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 4 | [#abc730](http://twitter.com/search?q=%23abc730) | N/A |
+| 5 | [Lyndall](http://twitter.com/search?q=Lyndall) | N/A |
+| 6 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
+| 7 | [#RobotDebtRC](http://twitter.com/search?q=%23RobotDebtRC) | N/A |
+| 8 | [Father Bob](http://twitter.com/search?q=Father+Bob) | N/A |
+| 9 | [Keenan](http://twitter.com/search?q=Keenan) | N/A |
+| 10 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
+| 11 | [Sarah Ferguson](http://twitter.com/search?q=Sarah+Ferguson) | N/A |
+| 12 | [Test Cricket](http://twitter.com/search?q=Test+Cricket) | N/A |
+| 13 | [Stuart Robert](http://twitter.com/search?q=Stuart+Robert) | N/A |
+| 14 | [Angus Taylor](http://twitter.com/search?q=Angus+Taylor) | N/A |
+| 15 | [Flick](http://twitter.com/search?q=Flick) | N/A |
+| 16 | [Cameron](http://twitter.com/search?q=Cameron) | N/A |
+| 17 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
+| 18 | [Renee Leon](http://twitter.com/search?q=Renee+Leon) | N/A |
+| 19 | [Joffa](http://twitter.com/search?q=Joffa) | N/A |
+| 20 | [Prue](http://twitter.com/search?q=Prue) | N/A |
+| 21 | [Lismore](http://twitter.com/search?q=Lismore) | N/A |
 | 22 | [Rupert Murdoch](http://twitter.com/search?q=Rupert+Murdoch) | N/A |
-| 23 | [Bazball](http://twitter.com/search?q=Bazball) | N/A |
-| 24 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
-| 25 | [Fauci](http://twitter.com/search?q=Fauci) | N/A |
-| 26 | [Tayla](http://twitter.com/search?q=Tayla) | N/A |
-| 27 | [Jake](http://twitter.com/search?q=Jake) | N/A |
-| 28 | [Mardi Gras](http://twitter.com/search?q=Mardi+Gras) | N/A |
-| 29 | [Shiz](http://twitter.com/search?q=Shiz) | N/A |
-| 30 | [Brother Stuie](http://twitter.com/search?q=Brother+Stuie) | N/A |
-| 31 | [Lita](http://twitter.com/search?q=Lita) | N/A |
-| 32 | [Albo](http://twitter.com/search?q=Albo) | N/A |
-| 33 | [Walking Wake](http://twitter.com/search?q=Walking+Wake) | N/A |
-| 34 | [Woodside](http://twitter.com/search?q=Woodside) | N/A |
-| 35 | [rowan dean](http://twitter.com/search?q=rowan+dean) | N/A |
+| 23 | [Sussan](http://twitter.com/search?q=Sussan) | N/A |
+| 24 | [Shonee](http://twitter.com/search?q=Shonee) | N/A |
+| 25 | [Bazball](http://twitter.com/search?q=Bazball) | N/A |
+| 26 | [Shaun](http://twitter.com/search?q=Shaun) | N/A |
+| 27 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
+| 28 | [Fauci](http://twitter.com/search?q=Fauci) | N/A |
+| 29 | [Marzhew](http://twitter.com/search?q=Marzhew) | N/A |
+| 30 | [Shiz](http://twitter.com/search?q=Shiz) | N/A |
+| 31 | [Elden Ring](http://twitter.com/search?q=Elden+Ring) | N/A |
+| 32 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
+| 33 | [Lita](http://twitter.com/search?q=Lita) | N/A |
+| 34 | [Albo](http://twitter.com/search?q=Albo) | N/A |
+| 35 | [Woodside](http://twitter.com/search?q=Woodside) | N/A |
 | 36 | [Jimmy Anderson](http://twitter.com/search?q=Jimmy+Anderson) | N/A |
 | 37 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
-| 38 | [Foakes](http://twitter.com/search?q=Foakes) | N/A |
-| 39 | [The LNP](http://twitter.com/search?q=The+LNP) | N/A |
-| 40 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
+| 38 | [Walking Wake](http://twitter.com/search?q=Walking+Wake) | N/A |
+| 39 | [Mardi Gras](http://twitter.com/search?q=Mardi+Gras) | N/A |
+| 40 | [Foakes](http://twitter.com/search?q=Foakes) | N/A |
 | 41 | [Labor](http://twitter.com/search?q=Labor) | N/A |
-| 42 | [Rachel](http://twitter.com/search?q=Rachel) | N/A |
-| 43 | [Neil Wagner](http://twitter.com/search?q=Neil+Wagner) | N/A |
-| 44 | [Kathryn Campbell](http://twitter.com/search?q=Kathryn+Campbell) | N/A |
-| 45 | [Thorpe](http://twitter.com/search?q=Thorpe) | N/A |
-| 46 | [Ashes](http://twitter.com/search?q=Ashes) | N/A |
+| 42 | [Kathryn Campbell](http://twitter.com/search?q=Kathryn+Campbell) | N/A |
+| 43 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
+| 44 | [Rachel](http://twitter.com/search?q=Rachel) | N/A |
+| 45 | [Neil Wagner](http://twitter.com/search?q=Neil+Wagner) | N/A |
+| 46 | [Jim Chalmers](http://twitter.com/search?q=Jim+Chalmers) | N/A |
 | 47 | [Gosford](http://twitter.com/search?q=Gosford) | N/A |
-| 48 | [Tommy Fury](http://twitter.com/search?q=Tommy+Fury) | N/A |
-| 49 | [Scott Adams](http://twitter.com/search?q=Scott+Adams) | N/A |
-| 50 | [Shaun](http://twitter.com/search?q=Shaun) | N/A |
+| 48 | [Hayley](http://twitter.com/search?q=Hayley) | N/A |
+| 49 | [Tommy Fury](http://twitter.com/search?q=Tommy+Fury) | N/A |
+| 50 | [Ashes](http://twitter.com/search?q=Ashes) | N/A |
 
 
 

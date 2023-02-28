@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belarus
 
-📆 Last Updated: `2023-02-28 08:17:19 UTC`
+📆 Last Updated: `2023-02-28 09:17:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,13 +22,12 @@ This is top 50 for Belarus
 | 5 | [реально](http://twitter.com/search?q=%d1%80%d0%b5%d0%b0%d0%bb%d1%8c%d0%bd%d0%be) | N/A |
 | 6 | [Минхо](http://twitter.com/search?q=%d0%9c%d0%b8%d0%bd%d1%85%d0%be) | N/A |
 | 7 | [Беларуси](http://twitter.com/search?q=%d0%91%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d0%b8) | N/A |
-| 8 | [#клубромантики](http://twitter.com/search?q=%23%d0%ba%d0%bb%d1%83%d0%b1%d1%80%d0%be%d0%bc%d0%b0%d0%bd%d1%82%d0%b8%d0%ba%d0%b8) | N/A |
-| 9 | [#Web3](http://twitter.com/search?q=%23Web3) | N/A |
-| 10 | [Благодарю](http://twitter.com/search?q=%d0%91%d0%bb%d0%b0%d0%b3%d0%be%d0%b4%d0%b0%d1%80%d1%8e) | N/A |
-| 11 | [Точно](http://twitter.com/search?q=%d0%a2%d0%be%d1%87%d0%bd%d0%be) | N/A |
-| 12 | [Наверное](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b2%d0%b5%d1%80%d0%bd%d0%be%d0%b5) | N/A |
-| 13 | [#SurvivalinUnity](http://twitter.com/search?q=%23SurvivalinUnity) | N/A |
-| 14 | [Жесть](http://twitter.com/search?q=%d0%96%d0%b5%d1%81%d1%82%d1%8c) | N/A |
+| 8 | [Благодарю](http://twitter.com/search?q=%d0%91%d0%bb%d0%b0%d0%b3%d0%be%d0%b4%d0%b0%d1%80%d1%8e) | N/A |
+| 9 | [Точно](http://twitter.com/search?q=%d0%a2%d0%be%d1%87%d0%bd%d0%be) | N/A |
+| 10 | [Наверное](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b2%d0%b5%d1%80%d0%bd%d0%be%d0%b5) | N/A |
+| 11 | [#SurvivalinUnity](http://twitter.com/search?q=%23SurvivalinUnity) | N/A |
+| 12 | [#клубромантики](http://twitter.com/search?q=%23%d0%ba%d0%bb%d1%83%d0%b1%d1%80%d0%be%d0%bc%d0%b0%d0%bd%d1%82%d0%b8%d0%ba%d0%b8) | N/A |
+| 13 | [#GlobalCrisis](http://twitter.com/search?q=%23GlobalCrisis) | N/A |
 
 
 

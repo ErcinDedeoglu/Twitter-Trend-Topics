@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bologna
 
-📆 Last Updated: `2023-02-28 08:16:46 UTC`
+📆 Last Updated: `2023-02-28 09:16:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Italy](</Italy>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#oriele](http://twitter.com/search?q=%23oriele) | N/A |
-| 2 | [#28febbraio](http://twitter.com/search?q=%2328febbraio) | N/A |
-| 3 | [#Schlein](http://twitter.com/search?q=%23Schlein) | N/A |
+| 2 | [#Schlein](http://twitter.com/search?q=%23Schlein) | N/A |
+| 3 | [#28febbraio](http://twitter.com/search?q=%2328febbraio) | N/A |
 | 4 | [#Piantedosi](http://twitter.com/search?q=%23Piantedosi) | N/A |
 | 5 | [#gfvip](http://twitter.com/search?q=%23gfvip) | #GFVIP stands for "Good Friends Very Important Person" and is used to refer to someone who is a close friend or an important person in one's life. |
-| 6 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 7 | [Murgia](http://twitter.com/search?q=Murgia) | Murgia is a geographical region in southern Italy, located in the provinces of Bari and Taranto. It is characterized by its limestone hills, deep ravines, and caves. The name Murgia comes from the Latin word murex, meaning "rocky hill". In English, Murgia can be translated as "rocky land". |
-| 8 | [Bonaccini](http://twitter.com/search?q=Bonaccini) | N/A |
+| 6 | [Murgia](http://twitter.com/search?q=Murgia) | Murgia is a geographical region in southern Italy, located in the provinces of Bari and Taranto. It is characterized by its limestone hills, deep ravines, and caves. The name Murgia comes from the Latin word murex, meaning "rocky hill". In English, Murgia can be translated as "rocky land". |
+| 7 | [Bonaccini](http://twitter.com/search?q=Bonaccini) | N/A |
+| 8 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 9 | [Renzi](http://twitter.com/search?q=Renzi) | N/A |
 | 10 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
 | 11 | [Orietta](http://twitter.com/search?q=Orietta) | Orietta is an Italian female name derived from the Latin word "aurum" meaning "gold". It is also a variant of the name Oriana, which means "dawn". |
 | 12 | [Il PD](http://twitter.com/search?q=Il+PD) | N/A |
-| 13 | [Daniele](http://twitter.com/search?q=Daniele) | N/A |
-| 14 | [Donnamaria](http://twitter.com/search?q=Donnamaria) | N/A |
-| 15 | [Fioroni](http://twitter.com/search?q=Fioroni) | N/A |
-| 16 | [Grecia](http://twitter.com/search?q=Grecia) | N/A |
-| 17 | [Franceschini](http://twitter.com/search?q=Franceschini) | N/A |
-| 18 | [Buon Martedì](http://twitter.com/search?q=Buon+Marted%c3%ac) | N/A |
-| 19 | [Bucciantini](http://twitter.com/search?q=Bucciantini) | N/A |
-| 20 | [EdoD](http://twitter.com/search?q=EdoD) | EdoD is an acronym for "Edo Digital", which is a Japanese digital media company. It specializes in creating content for mobile devices, such as apps, games, and videos. The company was founded in 2012 and is based in Tokyo. |
-| 21 | [Pippo Franco](http://twitter.com/search?q=Pippo+Franco) | N/A |
-| 22 | [Pillon](http://twitter.com/search?q=Pillon) | N/A |
-| 23 | [Buondì](http://twitter.com/search?q=Buond%c3%ac) | N/A |
-| 24 | [Buongiorno Patrizia](http://twitter.com/search?q=Buongiorno+Patrizia) | N/A |
-| 25 | [Biraghi](http://twitter.com/search?q=Biraghi) | N/A |
-| 26 | [Buongiorno Venere](http://twitter.com/search?q=Buongiorno+Venere) | N/A |
-| 27 | [Turchia](http://twitter.com/search?q=Turchia) | N/A |
-| 28 | [Osvaldo](http://twitter.com/search?q=Osvaldo) | N/A |
-| 29 | [Buongiorno Cristina](http://twitter.com/search?q=Buongiorno+Cristina) | N/A |
-| 30 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
-| 31 | [Thiaw](http://twitter.com/search?q=Thiaw) | N/A |
-| 32 | [Tavassi](http://twitter.com/search?q=Tavassi) | N/A |
-| 33 | [Boccia](http://twitter.com/search?q=Boccia) | N/A |
-| 34 | [Letta](http://twitter.com/search?q=Letta) | N/A |
-| 35 | [Buongiorno Giuseppe](http://twitter.com/search?q=Buongiorno+Giuseppe) | N/A |
-| 36 | [Buongiorno Michele](http://twitter.com/search?q=Buongiorno+Michele) | N/A |
-| 37 | [Grazie Johannes](http://twitter.com/search?q=Grazie+Johannes) | N/A |
-| 38 | [Enrico](http://twitter.com/search?q=Enrico) | N/A |
-| 39 | [Buongiorno Antonio](http://twitter.com/search?q=Buongiorno+Antonio) | N/A |
-| 40 | [Bocchino](http://twitter.com/search?q=Bocchino) | N/A |
-| 41 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
-| 42 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
-| 43 | [Calenda](http://twitter.com/search?q=Calenda) | N/A |
-| 44 | [Mediterraneo](http://twitter.com/search?q=Mediterraneo) | N/A |
-| 45 | [Le ONG](http://twitter.com/search?q=Le+ONG) | N/A |
-| 46 | [Amelia](http://twitter.com/search?q=Amelia) | N/A |
-| 47 | [Il 28](http://twitter.com/search?q=Il+28) | N/A |
-| 48 | [Pamela](http://twitter.com/search?q=Pamela) | N/A |
-| 49 | [Buongiorno Barbara](http://twitter.com/search?q=Buongiorno+Barbara) | N/A |
-| 50 | [Walter](http://twitter.com/search?q=Walter) | N/A |
+| 13 | [Grecia](http://twitter.com/search?q=Grecia) | N/A |
+| 14 | [Fioroni](http://twitter.com/search?q=Fioroni) | N/A |
+| 15 | [Daniele](http://twitter.com/search?q=Daniele) | N/A |
+| 16 | [Daniele](http://twitter.com/search?q=Daniele) | N/A |
+| 17 | [Daniele](http://twitter.com/search?q=Daniele) | N/A |
+| 18 | [Daniele](http://twitter.com/search?q=Daniele) | N/A |
+| 19 | [Daniele](http://twitter.com/search?q=Daniele) | N/A |
+| 20 | [Edoardo](http://twitter.com/search?q=Edoardo) | Edoardo is an Italian name derived from the Germanic name Edward, which means "wealthy guardian". It is a popular name in Italy and other parts of Europe. |
+| 21 | [Franceschini](http://twitter.com/search?q=Franceschini) | N/A |
+| 22 | [Bucciantini](http://twitter.com/search?q=Bucciantini) | N/A |
+| 23 | [Concita](http://twitter.com/search?q=Concita) | N/A |
+| 24 | [Pippo Franco](http://twitter.com/search?q=Pippo+Franco) | N/A |
+| 25 | [YOU SING](http://twitter.com/search?q=YOU+SING) | N/A |
+| 26 | [EdoD](http://twitter.com/search?q=EdoD) | EdoD is an acronym for "Edo Digital", which is a Japanese digital media company. It specializes in creating content for mobile devices, such as apps, games, and videos. The company was founded in 2012 and is based in Tokyo. |
+| 27 | [Biraghi](http://twitter.com/search?q=Biraghi) | N/A |
+| 28 | [Buondì](http://twitter.com/search?q=Buond%c3%ac) | N/A |
+| 29 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
+| 30 | [Turchia](http://twitter.com/search?q=Turchia) | N/A |
+| 31 | [Buongiorno Venere](http://twitter.com/search?q=Buongiorno+Venere) | N/A |
+| 32 | [Buon Martedì](http://twitter.com/search?q=Buon+Marted%c3%ac) | N/A |
+| 33 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
+| 34 | [Elden Ring](http://twitter.com/search?q=Elden+Ring) | N/A |
+| 35 | [Weverse](http://twitter.com/search?q=Weverse) | Weverse is a social media platform created by the South Korean entertainment company Big Hit Entertainment. It is designed to connect fans with artists and allow them to interact with each other. The name Weverse is derived from the words “we” and “universe”, representing the idea of creating a universe where fans and artists can come together. |
+| 36 | [Osvaldo](http://twitter.com/search?q=Osvaldo) | N/A |
+| 37 | [Thiaw](http://twitter.com/search?q=Thiaw) | N/A |
+| 38 | [Tavassi](http://twitter.com/search?q=Tavassi) | N/A |
+| 39 | [Boccia](http://twitter.com/search?q=Boccia) | N/A |
+| 40 | [Buongiorno Cristina](http://twitter.com/search?q=Buongiorno+Cristina) | N/A |
+| 41 | [Letta](http://twitter.com/search?q=Letta) | N/A |
+| 42 | [Ciccio Esposito](http://twitter.com/search?q=Ciccio+Esposito) | N/A |
+| 43 | [Buongiorno Patrizia](http://twitter.com/search?q=Buongiorno+Patrizia) | N/A |
+| 44 | [Enrico](http://twitter.com/search?q=Enrico) | N/A |
+| 45 | [Bocchino](http://twitter.com/search?q=Bocchino) | N/A |
+| 46 | [Mediterraneo](http://twitter.com/search?q=Mediterraneo) | N/A |
+| 47 | [Le ONG](http://twitter.com/search?q=Le+ONG) | N/A |
+| 48 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
+| 49 | [Buongiorno Valeria](http://twitter.com/search?q=Buongiorno+Valeria) | N/A |
+| 50 | [Buongiorno Sabrina](http://twitter.com/search?q=Buongiorno+Sabrina) | N/A |
 
 
 

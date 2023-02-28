@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zamboanga City
 
-📆 Last Updated: `2023-02-28 08:16:58 UTC`
+📆 Last Updated: `2023-02-28 09:16:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Philippines](</Philippines>)
 | ------- | ------------ | ------------ |
 | 1 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 2 | [8 ML Heroes](http://twitter.com/search?q=8+ML+Heroes) | N/A |
-| 3 | [LATE LATE SHOW WITH TXT](http://twitter.com/search?q=LATE+LATE+SHOW+WITH+TXT) | N/A |
-| 4 | [#TXTonTheLateLateShow](http://twitter.com/search?q=%23TXTonTheLateLateShow) | N/A |
-| 5 | [PH SCAMMER](http://twitter.com/search?q=PH+SCAMMER) | N/A |
-| 6 | [Liza](http://twitter.com/search?q=Liza) | N/A |
-| 7 | [#ShineBrightKitTENDay](http://twitter.com/search?q=%23ShineBrightKitTENDay) | N/A |
-| 8 | [#MgaLihimNiUrduja](http://twitter.com/search?q=%23MgaLihimNiUrduja) | N/A |
-| 9 | [#ShowtimeBagetsNaGets](http://twitter.com/search?q=%23ShowtimeBagetsNaGets) | N/A |
-| 10 | [GAME ON BGYO OUR MVP](http://twitter.com/search?q=GAME+ON+BGYO+OUR+MVP) | N/A |
-| 11 | [formidabelle megawoman](http://twitter.com/search?q=formidabelle+megawoman) | N/A |
-| 12 | [I VOLUNTEER](http://twitter.com/search?q=I+VOLUNTEER) | N/A |
-| 13 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
-| 14 | [TREASURE in Shopee](http://twitter.com/search?q=TREASURE+in+Shopee) | N/A |
-| 15 | [BPPH](http://twitter.com/search?q=BPPH) | N/A |
-| 16 | [Terry](http://twitter.com/search?q=Terry) | N/A |
-| 17 | [JK LIVE](http://twitter.com/search?q=JK+LIVE) | JK LIVE is a Japanese streaming service that allows users to watch live broadcasts of events, concerts, and other entertainment. The acronym stands for "Japan Kansai Live", referring to the Kansai region of Japan where the service is based. |
-| 18 | [Bennett](http://twitter.com/search?q=Bennett) | N/A |
-| 19 | [Fino](http://twitter.com/search?q=Fino) | N/A |
-| 20 | [Saturday Night](http://twitter.com/search?q=Saturday+Night) | N/A |
-| 21 | [TENLEE 27th BDAY](http://twitter.com/search?q=TENLEE+27th+BDAY) | N/A |
-| 22 | [NAIA](http://twitter.com/search?q=NAIA) | N/A |
-| 23 | [happy birthday ten](http://twitter.com/search?q=happy+birthday+ten) | N/A |
-| 24 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 25 | [BLAME IT ON ME](http://twitter.com/search?q=BLAME+IT+ON+ME) | N/A |
-| 26 | [JOKENxJOKERS Compl3xWild2night](http://twitter.com/search?q=JOKENxJOKERS+Compl3xWild2night) | N/A |
-| 27 | [gma7 widescreen format](http://twitter.com/search?q=gma7+widescreen+format) | N/A |
-| 28 | [dirty linen outrage](http://twitter.com/search?q=dirty+linen+outrage) | N/A |
-| 29 | [Ryujin](http://twitter.com/search?q=Ryujin) | N/A |
-| 30 | [Candace](http://twitter.com/search?q=Candace) | N/A |
-| 31 | [Dara](http://twitter.com/search?q=Dara) | N/A |
-| 32 | [ITZY](http://twitter.com/search?q=ITZY) | N/A |
-| 33 | [vibrent pieluvarn](http://twitter.com/search?q=vibrent+pieluvarn) | N/A |
-| 34 | [8 League of Legends](http://twitter.com/search?q=8+League+of+Legends) | N/A |
-| 35 | [KAI Rover Teaser Images 1](http://twitter.com/search?q=KAI+Rover+Teaser+Images+1) | N/A |
-| 36 | [Benny](http://twitter.com/search?q=Benny) | N/A |
-| 37 | [Brownlee](http://twitter.com/search?q=Brownlee) | N/A |
-| 38 | [Scottie](http://twitter.com/search?q=Scottie) | Scottie is a nickname for the Scottish Terrier, a small breed of dog. It is also used as a nickname for people from Scotland or with Scottish heritage. |
-| 39 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 40 | [Luo Yi](http://twitter.com/search?q=Luo+Yi) | N/A |
-| 41 | [Oni 2.0](http://twitter.com/search?q=Oni+2.0) | N/A |
-| 42 | [Here Lies Love](http://twitter.com/search?q=Here+Lies+Love) | N/A |
-| 43 | [NAKAKAHIYA KAYO](http://twitter.com/search?q=NAKAKAHIYA+KAYO) | N/A |
-| 44 | [Weverse](http://twitter.com/search?q=Weverse) | Weverse is a social media platform created by the South Korean entertainment company Big Hit Entertainment. It is designed to connect fans with artists and allow them to interact with each other. The name Weverse is derived from the words “we” and “universe”, representing the idea of creating a universe where fans and artists can come together. |
-| 45 | [Gilas](http://twitter.com/search?q=Gilas) | N/A |
-| 46 | [GoodTimeTo with YAMA](http://twitter.com/search?q=GoodTimeTo+with+YAMA) | N/A |
-| 47 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
-| 48 | [Judy](http://twitter.com/search?q=Judy) | N/A |
-| 49 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
+| 3 | [Jema](http://twitter.com/search?q=Jema) | N/A |
+| 4 | [PH SCAMMER](http://twitter.com/search?q=PH+SCAMMER) | N/A |
+| 5 | [Liza](http://twitter.com/search?q=Liza) | N/A |
+| 6 | [Vargas](http://twitter.com/search?q=Vargas) | Vargas is a Spanish surname derived from the Latin word "varga," which means "wolf." It is also a common given name in Spanish-speaking countries. In English, Vargas can be translated to mean "wolf." |
+| 7 | [#shinebrightkittenday](http://twitter.com/search?q=%23shinebrightkittenday) | N/A |
+| 8 | [#HORI7ON](http://twitter.com/search?q=%23HORI7ON) | N/A |
+| 9 | [#테니생일_축하축하_하네요](http://twitter.com/search?q=%23%ed%85%8c%eb%8b%88%ec%83%9d%ec%9d%bc_%ec%b6%95%ed%95%98%ec%b6%95%ed%95%98_%ed%95%98%eb%84%a4%ec%9a%94) | N/A |
+| 10 | [#호라이즌](http://twitter.com/search?q=%23%ed%98%b8%eb%9d%bc%ec%9d%b4%ec%a6%8c) | N/A |
+| 11 | [Lorie](http://twitter.com/search?q=Lorie) | N/A |
+| 12 | [formidabelle megawoman](http://twitter.com/search?q=formidabelle+megawoman) | N/A |
+| 13 | [LATE LATE SHOW WITH TXT](http://twitter.com/search?q=LATE+LATE+SHOW+WITH+TXT) | N/A |
+| 14 | [Sherwin](http://twitter.com/search?q=Sherwin) | N/A |
+| 15 | [GAME ON BGYO OUR MVP](http://twitter.com/search?q=GAME+ON+BGYO+OUR+MVP) | N/A |
+| 16 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
+| 17 | [TREASURE in Shopee](http://twitter.com/search?q=TREASURE+in+Shopee) | N/A |
+| 18 | [Fino](http://twitter.com/search?q=Fino) | N/A |
+| 19 | [Bennett](http://twitter.com/search?q=Bennett) | N/A |
+| 20 | [JOKENxJOKERS Compl3xWild2night](http://twitter.com/search?q=JOKENxJOKERS+Compl3xWild2night) | N/A |
+| 21 | [Terry](http://twitter.com/search?q=Terry) | N/A |
+| 22 | [BPPH](http://twitter.com/search?q=BPPH) | N/A |
+| 23 | [NAIA](http://twitter.com/search?q=NAIA) | N/A |
+| 24 | [ITZY](http://twitter.com/search?q=ITZY) | N/A |
+| 25 | [TENLEE 27th BDAY](http://twitter.com/search?q=TENLEE+27th+BDAY) | N/A |
+| 26 | [happy birthday ten](http://twitter.com/search?q=happy+birthday+ten) | N/A |
+| 27 | [I VOLUNTEER](http://twitter.com/search?q=I+VOLUNTEER) | N/A |
+| 28 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 29 | [BLAME IT ON ME](http://twitter.com/search?q=BLAME+IT+ON+ME) | N/A |
+| 30 | [gma7 widescreen format](http://twitter.com/search?q=gma7+widescreen+format) | N/A |
+| 31 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
+| 32 | [Here Lies Love](http://twitter.com/search?q=Here+Lies+Love) | N/A |
+| 33 | [JK LIVE](http://twitter.com/search?q=JK+LIVE) | JK LIVE is a Japanese streaming service that allows users to watch live broadcasts of events, concerts, and other entertainment. The acronym stands for "Japan Kansai Live", referring to the Kansai region of Japan where the service is based. |
+| 34 | [LTFRB](http://twitter.com/search?q=LTFRB) | N/A |
+| 35 | [vibrent pieluvarn](http://twitter.com/search?q=vibrent+pieluvarn) | N/A |
+| 36 | [Oriental Mindoro](http://twitter.com/search?q=Oriental+Mindoro) | N/A |
+| 37 | [KAI Rover Teaser Images 1](http://twitter.com/search?q=KAI+Rover+Teaser+Images+1) | N/A |
+| 38 | [Benny](http://twitter.com/search?q=Benny) | N/A |
+| 39 | [Scottie](http://twitter.com/search?q=Scottie) | Scottie is a nickname for the Scottish Terrier, a small breed of dog. It is also used as a nickname for people from Scotland or with Scottish heritage. |
+| 40 | [Oni 2.0](http://twitter.com/search?q=Oni+2.0) | N/A |
+| 41 | [Brownlee](http://twitter.com/search?q=Brownlee) | N/A |
+| 42 | [Candace](http://twitter.com/search?q=Candace) | N/A |
+| 43 | [Gelo](http://twitter.com/search?q=Gelo) | N/A |
+| 44 | [Luo Yi](http://twitter.com/search?q=Luo+Yi) | N/A |
+| 45 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 46 | [NAKAKAHIYA KAYO](http://twitter.com/search?q=NAKAKAHIYA+KAYO) | N/A |
+| 47 | [GoodTimeTo with YAMA](http://twitter.com/search?q=GoodTimeTo+with+YAMA) | N/A |
+| 48 | [Ryujin](http://twitter.com/search?q=Ryujin) | N/A |
+| 49 | [Coach Tai](http://twitter.com/search?q=Coach+Tai) | N/A |
 
 
 

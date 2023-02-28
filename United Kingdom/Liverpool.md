@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Liverpool
 
-📆 Last Updated: `2023-02-28 08:16:32 UTC`
+📆 Last Updated: `2023-02-28 09:16:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,53 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 2 | [#NorthernLights](http://twitter.com/search?q=%23NorthernLights) | N/A |
-| 3 | [#PaulFury](http://twitter.com/search?q=%23PaulFury) | N/A |
-| 4 | [#thicktrunktuesday](http://twitter.com/search?q=%23thicktrunktuesday) | N/A |
-| 5 | [Claudia](http://twitter.com/search?q=Claudia) | Claudia is a female given name of Latin origin, derived from the Roman clan name Claudius. It means "lame" or "disabled". |
-| 6 | [Betty Boothroyd](http://twitter.com/search?q=Betty+Boothroyd) | N/A |
-| 7 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
-| 8 | [#EarlyBiz](http://twitter.com/search?q=%23EarlyBiz) | N/A |
-| 9 | [Northern Ireland](http://twitter.com/search?q=Northern+Ireland) | N/A |
-| 10 | [Daily Quordle 400](http://twitter.com/search?q=Daily+Quordle+400) | N/A |
-| 11 | [Casey](http://twitter.com/search?q=Casey) | Casey is a unisex name of Irish origin, derived from the Gaelic Cathasaigh, meaning “brave” or “vigilant.” It is also a popular surname in the United States. |
-| 12 | [Steve Baker](http://twitter.com/search?q=Steve+Baker) | N/A |
-| 13 | [Brexit](http://twitter.com/search?q=Brexit) | Brexit is a shorthand way of referring to the UK's decision to leave the European Union (EU). It is a portmanteau of the words "British" and "exit". The term was first used in 2012 when Prime Minister David Cameron promised to hold a referendum on Britain's membership of the EU. On June 23, 2016, the UK voted to leave the EU, and Brexit officially began on March 29, 2019. |
-| 14 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 1 | [Northern Lights](http://twitter.com/search?q=Northern+Lights) | N/A |
+| 2 | [#r4today](http://twitter.com/search?q=%23r4today) | N/A |
+| 3 | [#RareDiseaseDay2023](http://twitter.com/search?q=%23RareDiseaseDay2023) | N/A |
+| 4 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 5 | [#thicktrunktuesday](http://twitter.com/search?q=%23thicktrunktuesday) | N/A |
+| 6 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 7 | [Cleverly](http://twitter.com/search?q=Cleverly) | Cleverly is an adverb that means in a skillful or clever manner. It is used to describe someone who is able to think quickly and come up with creative solutions. |
+| 8 | [Daily Quordle 400](http://twitter.com/search?q=Daily+Quordle+400) | N/A |
+| 9 | [Steve Baker](http://twitter.com/search?q=Steve+Baker) | N/A |
+| 10 | [Constance Marten](http://twitter.com/search?q=Constance+Marten) | N/A |
+| 11 | [Northern Ireland](http://twitter.com/search?q=Northern+Ireland) | N/A |
+| 12 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
+| 13 | [Mark Gordon](http://twitter.com/search?q=Mark+Gordon) | N/A |
+| 14 | [Test Cricket](http://twitter.com/search?q=Test+Cricket) | N/A |
 | 15 | [Sunak](http://twitter.com/search?q=Sunak) | N/A |
-| 16 | [Stormont](http://twitter.com/search?q=Stormont) | N/A |
-| 17 | [Cleverly](http://twitter.com/search?q=Cleverly) | Cleverly is an adverb that means in a skillful or clever manner. It is used to describe someone who is able to think quickly and come up with creative solutions. |
-| 18 | [Constance Marten](http://twitter.com/search?q=Constance+Marten) | N/A |
-| 19 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
-| 20 | [Rosie](http://twitter.com/search?q=Rosie) | N/A |
-| 21 | [Speaker](http://twitter.com/search?q=Speaker) | Speaker is a person who speaks in public, usually to an audience. It can also refer to the device used to amplify sound, such as a loudspeaker. |
-| 22 | [YouTuber](http://twitter.com/search?q=YouTuber) | N/A |
-| 23 | [Mark Gordon](http://twitter.com/search?q=Mark+Gordon) | N/A |
-| 24 | [Test Cricket](http://twitter.com/search?q=Test+Cricket) | N/A |
-| 25 | [INEC](http://twitter.com/search?q=INEC) | N/A |
-| 26 | [Leyen](http://twitter.com/search?q=Leyen) | N/A |
-| 27 | [King](http://twitter.com/search?q=King) | In English, "king" is a title given to a male monarch, usually the ruler of a kingdom or empire. It is also used as a term of endearment for someone who is seen as having great power or influence. |
-| 28 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 29 | [kevin hart](http://twitter.com/search?q=kevin+hart) | N/A |
-| 30 | [Stokes](http://twitter.com/search?q=Stokes) | N/A |
-| 31 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
-| 32 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 33 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
-| 34 | [The DUP](http://twitter.com/search?q=The+DUP) | N/A |
-| 35 | [Foakes](http://twitter.com/search?q=Foakes) | N/A |
-| 36 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
-| 37 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 38 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
-| 39 | [badou jack](http://twitter.com/search?q=badou+jack) | N/A |
-| 40 | [Mary Earps](http://twitter.com/search?q=Mary+Earps) | N/A |
-| 41 | [Queen](http://twitter.com/search?q=Queen) | N/A |
-| 42 | [Neil Wagner](http://twitter.com/search?q=Neil+Wagner) | N/A |
-| 43 | [Lita](http://twitter.com/search?q=Lita) | N/A |
-| 44 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
-| 45 | [Rupert Murdoch](http://twitter.com/search?q=Rupert+Murdoch) | N/A |
-| 46 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
-| 47 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
-| 48 | [Kamara](http://twitter.com/search?q=Kamara) | Kamara is a female given name of African origin, derived from the Igbo language. It means “moon” in English. |
-| 49 | [Edward VIII](http://twitter.com/search?q=Edward+VIII) | N/A |
-| 50 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
+| 16 | [Single Market](http://twitter.com/search?q=Single+Market) | N/A |
+| 17 | [Scotland and Wales](http://twitter.com/search?q=Scotland+and+Wales) | N/A |
+| 18 | [The EU](http://twitter.com/search?q=The+EU) | N/A |
+| 19 | [Lita](http://twitter.com/search?q=Lita) | N/A |
+| 20 | [Foakes](http://twitter.com/search?q=Foakes) | N/A |
+| 21 | [Bale](http://twitter.com/search?q=Bale) | Bale is a large bundle of goods, usually compressed and tied up with string or wire, for storage or transport. It is commonly used to refer to bundles of hay, straw, or cotton. |
+| 22 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
+| 23 | [Noel](http://twitter.com/search?q=Noel) | Noel is a French word meaning "Christmas". It is often used as a greeting during the Christmas season. |
+| 24 | [Stokes](http://twitter.com/search?q=Stokes) | N/A |
+| 25 | [UK and EU](http://twitter.com/search?q=UK+and+EU) | N/A |
+| 26 | [Frost](http://twitter.com/search?q=Frost) | N/A |
+| 27 | [Irish Sea](http://twitter.com/search?q=Irish+Sea) | N/A |
+| 28 | [Brexiteer](http://twitter.com/search?q=Brexiteer) | N/A |
+| 29 | [Root](http://twitter.com/search?q=Root) | N/A |
+| 30 | [#PayAttention](http://twitter.com/search?q=%23PayAttention) | N/A |
+| 31 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
+| 32 | [#EarlyBiz](http://twitter.com/search?q=%23EarlyBiz) | N/A |
+| 33 | [#cherish](http://twitter.com/search?q=%23cherish) | N/A |
+| 34 | [#TongueOutTuesday](http://twitter.com/search?q=%23TongueOutTuesday) | N/A |
+| 35 | [#TeacherStrike](http://twitter.com/search?q=%23TeacherStrike) | N/A |
+| 36 | [#ToriesOut236](http://twitter.com/search?q=%23ToriesOut236) | N/A |
+| 37 | [#BOIL](http://twitter.com/search?q=%23BOIL) | N/A |
+| 38 | [#TuesdayFeeling](http://twitter.com/search?q=%23TuesdayFeeling) | N/A |
+| 39 | [#Wordle619](http://twitter.com/search?q=%23Wordle619) | N/A |
+| 40 | [#TinyVoiceTalks](http://twitter.com/search?q=%23TinyVoiceTalks) | N/A |
+| 41 | [#SaveOurSchools](http://twitter.com/search?q=%23SaveOurSchools) | N/A |
+| 42 | [#WindsorAgreement](http://twitter.com/search?q=%23WindsorAgreement) | N/A |
+| 43 | [#PayUp](http://twitter.com/search?q=%23PayUp) | N/A |
+| 44 | [#NZvENG](http://twitter.com/search?q=%23NZvENG) | N/A |
+| 45 | [#EnglishTop10](http://twitter.com/search?q=%23EnglishTop10) | N/A |
+| 46 | [#BrexitDisaster](http://twitter.com/search?q=%23BrexitDisaster) | N/A |
+| 47 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
 
 
 
