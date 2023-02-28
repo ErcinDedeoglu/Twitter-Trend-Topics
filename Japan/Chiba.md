@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chiba
 
-📆 Last Updated: `2023-02-28 04:16:04 UTC`
+📆 Last Updated: `2023-02-28 05:16:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [Japan](</Japan>)
 | 1 | [つだぬまパルコ駅](http://twitter.com/search?q=%e3%81%a4%e3%81%a0%e3%81%ac%e3%81%be%e3%83%91%e3%83%ab%e3%82%b3%e9%a7%85) | N/A |
 | 2 | [無料10連](http://twitter.com/search?q=%e7%84%a1%e6%96%9910%e9%80%a3) | 無料10連 is a type of promotion offered by some Japanese mobile gaming companies. It refers to a free 10-draw of in-game items, such as coins, gems, or other virtual rewards. In English, it can be translated as "Free 10 Draw". |
 | 3 | [#ファミマでスキズ](http://twitter.com/search?q=%23%e3%83%95%e3%82%a1%e3%83%9f%e3%83%9e%e3%81%a7%e3%82%b9%e3%82%ad%e3%82%ba) | N/A |
-| 4 | [ヘカテー](http://twitter.com/search?q=%e3%83%98%e3%82%ab%e3%83%86%e3%83%bc) | N/A |
-| 5 | [サマソニ](http://twitter.com/search?q=%e3%82%b5%e3%83%9e%e3%82%bd%e3%83%8b) | サマソニ is short for "Summer Sonic", which is an annual music festival held in Japan. It features a variety of popular Japanese and international artists, and has been held since 2000. |
+| 4 | [サマソニ](http://twitter.com/search?q=%e3%82%b5%e3%83%9e%e3%82%bd%e3%83%8b) | サマソニ is short for "Summer Sonic", which is an annual music festival held in Japan. It features a variety of popular Japanese and international artists, and has been held since 2000. |
+| 5 | [ヘカテー](http://twitter.com/search?q=%e3%83%98%e3%82%ab%e3%83%86%e3%83%bc) | N/A |
 | 6 | [滝沢歌舞伎](http://twitter.com/search?q=%e6%bb%9d%e6%b2%a2%e6%ad%8c%e8%88%9e%e4%bc%8e) | 滝沢歌舞伎 (Takizawa Kabuki) is a traditional form of Japanese theater that combines music, dance, and drama. It originated in the Edo period (1603-1868) and is still performed today. The name comes from the Takizawa district of Tokyo, where it was first performed. In English, it can be translated as "Takizawa Kabuki Theater". |
 | 7 | [#IRIAMメンテ中のフォロー祭り](http://twitter.com/search?q=%23IRIAM%e3%83%a1%e3%83%b3%e3%83%86%e4%b8%ad%e3%81%ae%e3%83%95%e3%82%a9%e3%83%ad%e3%83%bc%e7%a5%ad%e3%82%8a) | #IRIAMメンテ中のフォロー祭り is a hashtag used on Twitter to encourage people to follow each other during maintenance of the IRIAM platform. It is a way for users to show their support for the platform and to help spread the word about it. In English, it translates to "Follow Festival During IRIAM Maintenance". |
 | 8 | [ハイカラシティ](http://twitter.com/search?q=%e3%83%8f%e3%82%a4%e3%82%ab%e3%83%a9%e3%82%b7%e3%83%86%e3%82%a3) | N/A |
-| 9 | [フェディエル](http://twitter.com/search?q=%e3%83%95%e3%82%a7%e3%83%87%e3%82%a3%e3%82%a8%e3%83%ab) | フェディエル (Fediel) is a Japanese fantasy novel series written by author Takashi Yano. It follows the story of a young man named Fediel, who is sent on a quest to save the world from an evil force. The series has been adapted into several manga and anime series. In English, the title translates to "The Hero of Fediel". |
-| 10 | [クランチ](http://twitter.com/search?q=%e3%82%af%e3%83%a9%e3%83%b3%e3%83%81) | N/A |
-| 11 | [#勝手に通すなインボイス制度](http://twitter.com/search?q=%23%e5%8b%9d%e6%89%8b%e3%81%ab%e9%80%9a%e3%81%99%e3%81%aa%e3%82%a4%e3%83%b3%e3%83%9c%e3%82%a4%e3%82%b9%e5%88%b6%e5%ba%a6) | N/A |
-| 12 | [ルオー武器](http://twitter.com/search?q=%e3%83%ab%e3%82%aa%e3%83%bc%e6%ad%a6%e5%99%a8) | N/A |
-| 13 | [ヴァイタリティー](http://twitter.com/search?q=%e3%83%b4%e3%82%a1%e3%82%a4%e3%82%bf%e3%83%aa%e3%83%86%e3%82%a3%e3%83%bc) | N/A |
-| 14 | [宇宙飛行士](http://twitter.com/search?q=%e5%ae%87%e5%ae%99%e9%a3%9b%e8%a1%8c%e5%a3%ab) | N/A |
-| 15 | [Wet Leg](http://twitter.com/search?q=Wet+Leg) | N/A |
-| 16 | [鈴木誠也](http://twitter.com/search?q=%e9%88%b4%e6%9c%a8%e8%aa%a0%e4%b9%9f) | N/A |
-| 17 | [代替選手](http://twitter.com/search?q=%e4%bb%a3%e6%9b%bf%e9%81%b8%e6%89%8b) | N/A |
-| 18 | [ミソラちゃん](http://twitter.com/search?q=%e3%83%9f%e3%82%bd%e3%83%a9%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 19 | [侍ジャパン辞退](http://twitter.com/search?q=%e4%be%8d%e3%82%b8%e3%83%a3%e3%83%91%e3%83%b3%e8%be%9e%e9%80%80) | N/A |
-| 20 | [ル・オー](http://twitter.com/search?q=%e3%83%ab%e3%83%bb%e3%82%aa%e3%83%bc) | N/A |
-| 21 | [津田沼パルコ](http://twitter.com/search?q=%e6%b4%a5%e7%94%b0%e6%b2%bc%e3%83%91%e3%83%ab%e3%82%b3) | N/A |
-| 22 | [シェロチケ](http://twitter.com/search?q=%e3%82%b7%e3%82%a7%e3%83%ad%e3%83%81%e3%82%b1) | N/A |
-| 23 | [ルオー拳](http://twitter.com/search?q=%e3%83%ab%e3%82%aa%e3%83%bc%e6%8b%b3) | N/A |
-| 24 | [ステージ改修](http://twitter.com/search?q=%e3%82%b9%e3%83%86%e3%83%bc%e3%82%b8%e6%94%b9%e4%bf%ae) | N/A |
-| 25 | [ライビュの詳細](http://twitter.com/search?q=%e3%83%a9%e3%82%a4%e3%83%93%e3%83%a5%e3%81%ae%e8%a9%b3%e7%b4%b0) | N/A |
-| 26 | [ナメロウ](http://twitter.com/search?q=%e3%83%8a%e3%83%a1%e3%83%ad%e3%82%a6) | N/A |
-| 27 | [イイネイヌ](http://twitter.com/search?q=%e3%82%a4%e3%82%a4%e3%83%8d%e3%82%a4%e3%83%8c) | N/A |
-| 28 | [#asukagram](http://twitter.com/search?q=%23asukagram) | N/A |
-| 29 | [ゲートガーディアン](http://twitter.com/search?q=%e3%82%b2%e3%83%bc%e3%83%88%e3%82%ac%e3%83%bc%e3%83%87%e3%82%a3%e3%82%a2%e3%83%b3) | N/A |
-| 30 | [春の陽気](http://twitter.com/search?q=%e6%98%a5%e3%81%ae%e9%99%bd%e6%b0%97) | N/A |
-| 31 | [#愛車に言われた事集](http://twitter.com/search?q=%23%e6%84%9b%e8%bb%8a%e3%81%ab%e8%a8%80%e3%82%8f%e3%82%8c%e3%81%9f%e4%ba%8b%e9%9b%86) | N/A |
-| 32 | [ルオーくん](http://twitter.com/search?q=%e3%83%ab%e3%82%aa%e3%83%bc%e3%81%8f%e3%82%93) | N/A |
-| 33 | [ハエの幼虫](http://twitter.com/search?q=%e3%83%8f%e3%82%a8%e3%81%ae%e5%b9%bc%e8%99%ab) | N/A |
-| 34 | [スティーブ禁止](http://twitter.com/search?q=%e3%82%b9%e3%83%86%e3%82%a3%e3%83%bc%e3%83%96%e7%a6%81%e6%ad%a2) | N/A |
-| 35 | [Misskey](http://twitter.com/search?q=Misskey) | N/A |
-| 36 | [長尾くん](http://twitter.com/search?q=%e9%95%b7%e5%b0%be%e3%81%8f%e3%82%93) | 長尾くん (Nagao-kun) is a Japanese manga series written and illustrated by Takashi Fukutani. It follows the story of Nagao, a high school student who is struggling to find his place in the world. The title of the series is a play on words, as "nagao" can mean both "long tail" and "long life". In English, it could be translated as "Long Tail Boy". |
-| 37 | [佐藤景瑚](http://twitter.com/search?q=%e4%bd%90%e8%97%a4%e6%99%af%e7%91%9a) | N/A |
-| 38 | [シオカラーズ](http://twitter.com/search?q=%e3%82%b7%e3%82%aa%e3%82%ab%e3%83%a9%e3%83%bc%e3%82%ba) | N/A |
-| 39 | [ジュークボックス](http://twitter.com/search?q=%e3%82%b8%e3%83%a5%e3%83%bc%e3%82%af%e3%83%9c%e3%83%83%e3%82%af%e3%82%b9) | N/A |
-| 40 | [無念の離脱](http://twitter.com/search?q=%e7%84%a1%e5%bf%b5%e3%81%ae%e9%9b%a2%e8%84%b1) | N/A |
-| 41 | [新作ジュエリー](http://twitter.com/search?q=%e6%96%b0%e4%bd%9c%e3%82%b8%e3%83%a5%e3%82%a8%e3%83%aa%e3%83%bc) | N/A |
-| 42 | [プリフェス](http://twitter.com/search?q=%e3%83%97%e3%83%aa%e3%83%95%e3%82%a7%e3%82%b9) | N/A |
-| 43 | [ショーメ](http://twitter.com/search?q=%e3%82%b7%e3%83%a7%e3%83%bc%e3%83%a1) | N/A |
-| 44 | [チャーミィ](http://twitter.com/search?q=%e3%83%81%e3%83%a3%e3%83%bc%e3%83%9f%e3%82%a3) | N/A |
-| 45 | [冬弥くん](http://twitter.com/search?q=%e5%86%ac%e5%bc%a5%e3%81%8f%e3%82%93) | N/A |
-| 46 | [歌舞伎会](http://twitter.com/search?q=%e6%ad%8c%e8%88%9e%e4%bc%8e%e4%bc%9a) | N/A |
-| 47 | [左脇腹の張り](http://twitter.com/search?q=%e5%b7%a6%e8%84%87%e8%85%b9%e3%81%ae%e5%bc%b5%e3%82%8a) | N/A |
-| 48 | [HONNE](http://twitter.com/search?q=HONNE) | N/A |
-| 49 | [TWO DOOR CINEMA CLUB](http://twitter.com/search?q=TWO+DOOR+CINEMA+CLUB) | N/A |
+| 9 | [安定の落選](http://twitter.com/search?q=%e5%ae%89%e5%ae%9a%e3%81%ae%e8%90%bd%e9%81%b8) | N/A |
+| 10 | [フェディエル](http://twitter.com/search?q=%e3%83%95%e3%82%a7%e3%83%87%e3%82%a3%e3%82%a8%e3%83%ab) | フェディエル (Fediel) is a Japanese fantasy novel series written by author Takashi Yano. It follows the story of a young man named Fediel, who is sent on a quest to save the world from an evil force. The series has been adapted into several manga and anime series. In English, the title translates to "The Hero of Fediel". |
+| 11 | [ライビュ](http://twitter.com/search?q=%e3%83%a9%e3%82%a4%e3%83%93%e3%83%a5) | ライビュ is a Japanese word that means "lively". It is often used to describe someone or something that is energetic and full of life. |
+| 12 | [クランチ](http://twitter.com/search?q=%e3%82%af%e3%83%a9%e3%83%b3%e3%83%81) | N/A |
+| 13 | [#プリコネR](http://twitter.com/search?q=%23%e3%83%97%e3%83%aa%e3%82%b3%e3%83%8dR) | N/A |
+| 14 | [#勝手に通すなインボイス制度](http://twitter.com/search?q=%23%e5%8b%9d%e6%89%8b%e3%81%ab%e9%80%9a%e3%81%99%e3%81%aa%e3%82%a4%e3%83%b3%e3%83%9c%e3%82%a4%e3%82%b9%e5%88%b6%e5%ba%a6) | N/A |
+| 15 | [ジョングク](http://twitter.com/search?q=%e3%82%b8%e3%83%a7%e3%83%b3%e3%82%b0%e3%82%af) | ジョングク is a type of Korean traditional clothing. It is a long, loose-fitting robe with wide sleeves and a belt at the waist. In English, it is sometimes referred to as a "hanbok". |
+| 16 | [ルオー武器](http://twitter.com/search?q=%e3%83%ab%e3%82%aa%e3%83%bc%e6%ad%a6%e5%99%a8) | N/A |
+| 17 | [鈴木誠也](http://twitter.com/search?q=%e9%88%b4%e6%9c%a8%e8%aa%a0%e4%b9%9f) | N/A |
+| 18 | [#ankoROCK](http://twitter.com/search?q=%23ankoROCK) | N/A |
+| 19 | [ミソラちゃん](http://twitter.com/search?q=%e3%83%9f%e3%82%bd%e3%83%a9%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 20 | [ベネット](http://twitter.com/search?q=%e3%83%99%e3%83%8d%e3%83%83%e3%83%88) | N/A |
+| 21 | [急性胃腸炎](http://twitter.com/search?q=%e6%80%a5%e6%80%a7%e8%83%83%e8%85%b8%e7%82%8e) | N/A |
+| 22 | [宇宙飛行士](http://twitter.com/search?q=%e5%ae%87%e5%ae%99%e9%a3%9b%e8%a1%8c%e5%a3%ab) | N/A |
+| 23 | [代替選手](http://twitter.com/search?q=%e4%bb%a3%e6%9b%bf%e9%81%b8%e6%89%8b) | N/A |
+| 24 | [Wet Leg](http://twitter.com/search?q=Wet+Leg) | N/A |
+| 25 | [Misskey](http://twitter.com/search?q=Misskey) | N/A |
+| 26 | [キャンディス](http://twitter.com/search?q=%e3%82%ad%e3%83%a3%e3%83%b3%e3%83%87%e3%82%a3%e3%82%b9) | N/A |
+| 27 | [ヴァイタリティー](http://twitter.com/search?q=%e3%83%b4%e3%82%a1%e3%82%a4%e3%82%bf%e3%83%aa%e3%83%86%e3%82%a3%e3%83%bc) | N/A |
+| 28 | [侍ジャパン辞退](http://twitter.com/search?q=%e4%be%8d%e3%82%b8%e3%83%a3%e3%83%91%e3%83%b3%e8%be%9e%e9%80%80) | N/A |
+| 29 | [シェロチケ](http://twitter.com/search?q=%e3%82%b7%e3%82%a7%e3%83%ad%e3%83%81%e3%82%b1) | N/A |
+| 30 | [モーニングカラオケ](http://twitter.com/search?q=%e3%83%a2%e3%83%bc%e3%83%8b%e3%83%b3%e3%82%b0%e3%82%ab%e3%83%a9%e3%82%aa%e3%82%b1) | N/A |
+| 31 | [津田沼パルコ](http://twitter.com/search?q=%e6%b4%a5%e7%94%b0%e6%b2%bc%e3%83%91%e3%83%ab%e3%82%b3) | N/A |
+| 32 | [春の陽気](http://twitter.com/search?q=%e6%98%a5%e3%81%ae%e9%99%bd%e6%b0%97) | N/A |
+| 33 | [ル・オー](http://twitter.com/search?q=%e3%83%ab%e3%83%bb%e3%82%aa%e3%83%bc) | N/A |
+| 34 | [フェディ石](http://twitter.com/search?q=%e3%83%95%e3%82%a7%e3%83%87%e3%82%a3%e7%9f%b3) | N/A |
+| 35 | [マイナンバーカード](http://twitter.com/search?q=%e3%83%9e%e3%82%a4%e3%83%8a%e3%83%b3%e3%83%90%e3%83%bc%e3%82%ab%e3%83%bc%e3%83%89) | N/A |
+| 36 | [ステージ改修](http://twitter.com/search?q=%e3%82%b9%e3%83%86%e3%83%bc%e3%82%b8%e6%94%b9%e4%bf%ae) | N/A |
+| 37 | [ルオー拳](http://twitter.com/search?q=%e3%83%ab%e3%82%aa%e3%83%bc%e6%8b%b3) | N/A |
+| 38 | [ジュークボックス](http://twitter.com/search?q=%e3%82%b8%e3%83%a5%e3%83%bc%e3%82%af%e3%83%9c%e3%83%83%e3%82%af%e3%82%b9) | N/A |
+| 39 | [スティーブ禁止](http://twitter.com/search?q=%e3%82%b9%e3%83%86%e3%82%a3%e3%83%bc%e3%83%96%e7%a6%81%e6%ad%a2) | N/A |
+| 40 | [ダレデスカ](http://twitter.com/search?q=%e3%83%80%e3%83%ac%e3%83%87%e3%82%b9%e3%82%ab) | N/A |
+| 41 | [ハエの幼虫](http://twitter.com/search?q=%e3%83%8f%e3%82%a8%e3%81%ae%e5%b9%bc%e8%99%ab) | N/A |
+| 42 | [シオカラーズ](http://twitter.com/search?q=%e3%82%b7%e3%82%aa%e3%82%ab%e3%83%a9%e3%83%bc%e3%82%ba) | N/A |
+| 43 | [プリフェス](http://twitter.com/search?q=%e3%83%97%e3%83%aa%e3%83%95%e3%82%a7%e3%82%b9) | N/A |
+| 44 | [イイネイヌ](http://twitter.com/search?q=%e3%82%a4%e3%82%a4%e3%83%8d%e3%82%a4%e3%83%8c) | N/A |
+| 45 | [プライズ](http://twitter.com/search?q=%e3%83%97%e3%83%a9%e3%82%a4%e3%82%ba) | N/A |
+| 46 | [長尾くん](http://twitter.com/search?q=%e9%95%b7%e5%b0%be%e3%81%8f%e3%82%93) | 長尾くん (Nagao-kun) is a Japanese manga series written and illustrated by Takashi Fukutani. It follows the story of Nagao, a high school student who is struggling to find his place in the world. The title of the series is a play on words, as "nagao" can mean both "long tail" and "long life". In English, it could be translated as "Long Tail Boy". |
+| 47 | [ハイドリ](http://twitter.com/search?q=%e3%83%8f%e3%82%a4%e3%83%89%e3%83%aa) | N/A |
+| 48 | [ルオーくん](http://twitter.com/search?q=%e3%83%ab%e3%82%aa%e3%83%bc%e3%81%8f%e3%82%93) | N/A |
+| 49 | [ナメロウ](http://twitter.com/search?q=%e3%83%8a%e3%83%a1%e3%83%ad%e3%82%a6) | N/A |
 
 
 

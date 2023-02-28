@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brisbane
 
-📆 Last Updated: `2023-02-28 04:16:03 UTC`
+📆 Last Updated: `2023-02-28 05:16:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Australia](</Australia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#NZvENG](http://twitter.com/search?q=%23NZvENG) | N/A |
-| 2 | [Test Cricket](http://twitter.com/search?q=Test+Cricket) | N/A |
-| 3 | [England](http://twitter.com/search?q=England) | N/A |
+| 2 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 3 | [Test Cricket](http://twitter.com/search?q=Test+Cricket) | N/A |
 | 4 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
-| 5 | [Neil Wagner](http://twitter.com/search?q=Neil+Wagner) | N/A |
-| 6 | [Renee Leon](http://twitter.com/search?q=Renee+Leon) | N/A |
-| 7 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 8 | [#askkenty](http://twitter.com/search?q=%23askkenty) | N/A |
-| 9 | [Kiwis](http://twitter.com/search?q=Kiwis) | N/A |
-| 10 | [Stuart Robert](http://twitter.com/search?q=Stuart+Robert) | N/A |
-| 11 | [#RobotDebtRC](http://twitter.com/search?q=%23RobotDebtRC) | N/A |
-| 12 | [Test Match](http://twitter.com/search?q=Test+Match) | N/A |
-| 13 | [Father Bob](http://twitter.com/search?q=Father+Bob) | N/A |
-| 14 | [Lita](http://twitter.com/search?q=Lita) | N/A |
-| 15 | [Jimmy Anderson](http://twitter.com/search?q=Jimmy+Anderson) | N/A |
-| 16 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
-| 17 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
-| 18 | [Shonee](http://twitter.com/search?q=Shonee) | N/A |
-| 19 | [Foakes](http://twitter.com/search?q=Foakes) | N/A |
-| 20 | [Flick](http://twitter.com/search?q=Flick) | N/A |
-| 21 | [Mardi Gras](http://twitter.com/search?q=Mardi+Gras) | N/A |
-| 22 | [Kathryn Campbell](http://twitter.com/search?q=Kathryn+Campbell) | N/A |
-| 23 | [Jack Leach](http://twitter.com/search?q=Jack+Leach) | N/A |
-| 24 | [Poms](http://twitter.com/search?q=Poms) | N/A |
-| 25 | [Joffa](http://twitter.com/search?q=Joffa) | N/A |
-| 26 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
-| 27 | [Woodside](http://twitter.com/search?q=Woodside) | N/A |
-| 28 | [Rupert Murdoch](http://twitter.com/search?q=Rupert+Murdoch) | N/A |
-| 29 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
-| 30 | [Ashes](http://twitter.com/search?q=Ashes) | N/A |
-| 31 | [Angus](http://twitter.com/search?q=Angus) | N/A |
-| 32 | [Fauci](http://twitter.com/search?q=Fauci) | N/A |
-| 33 | [Trish](http://twitter.com/search?q=Trish) | N/A |
-| 34 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
+| 5 | [#askkenty](http://twitter.com/search?q=%23askkenty) | N/A |
+| 6 | [#RobotDebtRC](http://twitter.com/search?q=%23RobotDebtRC) | N/A |
+| 7 | [England](http://twitter.com/search?q=England) | N/A |
+| 8 | [Father Bob](http://twitter.com/search?q=Father+Bob) | N/A |
+| 9 | [Test Match](http://twitter.com/search?q=Test+Match) | N/A |
+| 10 | [#BazBall](http://twitter.com/search?q=%23BazBall) | N/A |
+| 11 | [Stuart Robert](http://twitter.com/search?q=Stuart+Robert) | N/A |
+| 12 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
+| 13 | [Renee Leon](http://twitter.com/search?q=Renee+Leon) | N/A |
+| 14 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
+| 15 | [Shonee](http://twitter.com/search?q=Shonee) | N/A |
+| 16 | [Lita](http://twitter.com/search?q=Lita) | N/A |
+| 17 | [Flick](http://twitter.com/search?q=Flick) | N/A |
+| 18 | [Angus Taylor](http://twitter.com/search?q=Angus+Taylor) | N/A |
+| 19 | [Mardi Gras](http://twitter.com/search?q=Mardi+Gras) | N/A |
+| 20 | [Kiwis](http://twitter.com/search?q=Kiwis) | N/A |
+| 21 | [Jack Leach](http://twitter.com/search?q=Jack+Leach) | N/A |
+| 22 | [Keenan](http://twitter.com/search?q=Keenan) | N/A |
+| 23 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
+| 24 | [Joffa](http://twitter.com/search?q=Joffa) | N/A |
+| 25 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
+| 26 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
+| 27 | [Rupert Murdoch](http://twitter.com/search?q=Rupert+Murdoch) | N/A |
+| 28 | [Jimmy Anderson](http://twitter.com/search?q=Jimmy+Anderson) | N/A |
+| 29 | [Kathryn Campbell](http://twitter.com/search?q=Kathryn+Campbell) | N/A |
+| 30 | [Foakes](http://twitter.com/search?q=Foakes) | N/A |
+| 31 | [Fauci](http://twitter.com/search?q=Fauci) | N/A |
+| 32 | [Walking Wake](http://twitter.com/search?q=Walking+Wake) | N/A |
+| 33 | [Tayla](http://twitter.com/search?q=Tayla) | N/A |
+| 34 | [Woodside](http://twitter.com/search?q=Woodside) | N/A |
 | 35 | [Lismore](http://twitter.com/search?q=Lismore) | N/A |
-| 36 | [Walking Wake](http://twitter.com/search?q=Walking+Wake) | N/A |
-| 37 | [Tayla](http://twitter.com/search?q=Tayla) | N/A |
-| 38 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
-| 39 | [Shiz](http://twitter.com/search?q=Shiz) | N/A |
-| 40 | [Stokes](http://twitter.com/search?q=Stokes) | N/A |
-| 41 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
-| 42 | [Shaun](http://twitter.com/search?q=Shaun) | N/A |
-| 43 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
-| 44 | [Albo](http://twitter.com/search?q=Albo) | N/A |
-| 45 | [rowan dean](http://twitter.com/search?q=rowan+dean) | N/A |
-| 46 | [Thorpe](http://twitter.com/search?q=Thorpe) | N/A |
-| 47 | [Sandy](http://twitter.com/search?q=Sandy) | N/A |
-| 48 | [Woody](http://twitter.com/search?q=Woody) | Woody is a slang term used to describe someone who is strong, tough, and determined. It can also be used to describe someone who is stubborn and unyielding. |
-| 49 | [Secretary](http://twitter.com/search?q=Secretary) | N/A |
-| 50 | [INEC](http://twitter.com/search?q=INEC) | N/A |
+| 36 | [Shiz](http://twitter.com/search?q=Shiz) | N/A |
+| 37 | [Stokes](http://twitter.com/search?q=Stokes) | N/A |
+| 38 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
+| 39 | [Ashes](http://twitter.com/search?q=Ashes) | N/A |
+| 40 | [Albo](http://twitter.com/search?q=Albo) | N/A |
+| 41 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
+| 42 | [rowan dean](http://twitter.com/search?q=rowan+dean) | N/A |
+| 43 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
+| 44 | [Trish](http://twitter.com/search?q=Trish) | N/A |
+| 45 | [Thorpe](http://twitter.com/search?q=Thorpe) | N/A |
+| 46 | [Poms](http://twitter.com/search?q=Poms) | N/A |
+| 47 | [Labor](http://twitter.com/search?q=Labor) | N/A |
+| 48 | [Damo](http://twitter.com/search?q=Damo) | N/A |
+| 49 | [Scott Adams](http://twitter.com/search?q=Scott+Adams) | N/A |
+| 50 | [Shaun](http://twitter.com/search?q=Shaun) | N/A |
 
 
 

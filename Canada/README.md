@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canada
 
-📆 Last Updated: `2023-02-28 04:16:31 UTC`
+📆 Last Updated: `2023-02-28 05:16:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Canada
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 2 | [#LetsGoOilers](http://twitter.com/search?q=%23LetsGoOilers) | N/A |
-| 3 | [McDavid](http://twitter.com/search?q=McDavid) | McDavid is a brand of sports equipment and apparel, named after the Canadian hockey player Connor McDavid. The company produces protective gear, such as hockey helmets and shoulder pads, as well as clothing and accessories. |
-| 4 | [Lita](http://twitter.com/search?q=Lita) | N/A |
-| 5 | [Kostin](http://twitter.com/search?q=Kostin) | N/A |
-| 6 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
-| 7 | [#GoSensGo](http://twitter.com/search?q=%23GoSensGo) | N/A |
-| 8 | [Desharnais](http://twitter.com/search?q=Desharnais) | N/A |
-| 9 | [#NZvENG](http://twitter.com/search?q=%23NZvENG) | N/A |
+| 1 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 2 | [#Canucks](http://twitter.com/search?q=%23Canucks) | N/A |
+| 3 | [#LetsGoOilers](http://twitter.com/search?q=%23LetsGoOilers) | N/A |
+| 4 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 5 | [McDavid](http://twitter.com/search?q=McDavid) | McDavid is a brand of sports equipment and apparel, named after the Canadian hockey player Connor McDavid. The company produces protective gear, such as hockey helmets and shoulder pads, as well as clothing and accessories. |
+| 6 | [Yamo](http://twitter.com/search?q=Yamo) | N/A |
+| 7 | [Lita](http://twitter.com/search?q=Lita) | N/A |
+| 8 | [Kostin](http://twitter.com/search?q=Kostin) | N/A |
+| 9 | [Kuzmenko](http://twitter.com/search?q=Kuzmenko) | N/A |
 | 10 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
-| 11 | [Trish](http://twitter.com/search?q=Trish) | N/A |
+| 11 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
 | 12 | [Demko](http://twitter.com/search?q=Demko) | N/A |
-| 13 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
-| 14 | [Omos](http://twitter.com/search?q=Omos) | N/A |
-| 15 | [Brady](http://twitter.com/search?q=Brady) | Brady is a name of Irish origin, derived from the Gaelic surname Ó Brádaigh. It is an Anglicized form of the Irish surname, which means "spirited" or "broad". |
-| 16 | [Yamamoto](http://twitter.com/search?q=Yamamoto) | N/A |
-| 17 | [Yamo](http://twitter.com/search?q=Yamo) | N/A |
-| 18 | [Claude Giroux](http://twitter.com/search?q=Claude+Giroux) | N/A |
-| 19 | [Chabot](http://twitter.com/search?q=Chabot) | N/A |
-| 20 | [Hellberg](http://twitter.com/search?q=Hellberg) | N/A |
-| 21 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 22 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
-| 23 | [Kulak](http://twitter.com/search?q=Kulak) | N/A |
-| 24 | [Trudeau Foundation](http://twitter.com/search?q=Trudeau+Foundation) | N/A |
-| 25 | [Beauvillier](http://twitter.com/search?q=Beauvillier) | Beauvillier is a French surname. It is derived from the Old French word "beau" meaning "beautiful" and "villier" meaning "farmer". In English, it can be translated to mean "beautiful farmer". |
-| 26 | [Talbot](http://twitter.com/search?q=Talbot) | N/A |
-| 27 | [Jess](http://twitter.com/search?q=Jess) | N/A |
-| 28 | [Stillman](http://twitter.com/search?q=Stillman) | N/A |
-| 29 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
-| 30 | [Brooklyn](http://twitter.com/search?q=Brooklyn) | Brooklyn is a borough of New York City, located in the southwestern corner of the city. It is the most populous borough in New York City, with an estimated 2.6 million residents in 2019. The name Brooklyn comes from the Dutch village of Breukelen, meaning “broken land” or “marshland”. |
-| 31 | [Rupert Murdoch](http://twitter.com/search?q=Rupert+Murdoch) | N/A |
-| 32 | [Ceci](http://twitter.com/search?q=Ceci) | N/A |
-| 33 | [Red Wings](http://twitter.com/search?q=Red+Wings) | N/A |
-| 34 | [DeBrincat](http://twitter.com/search?q=DeBrincat) | N/A |
-| 35 | [Zach](http://twitter.com/search?q=Zach) | N/A |
+| 13 | [Desharnais](http://twitter.com/search?q=Desharnais) | N/A |
+| 14 | [#NZvENG](http://twitter.com/search?q=%23NZvENG) | N/A |
+| 15 | [Yamamoto](http://twitter.com/search?q=Yamamoto) | N/A |
+| 16 | [Trish](http://twitter.com/search?q=Trish) | N/A |
+| 17 | [Beauvillier](http://twitter.com/search?q=Beauvillier) | Beauvillier is a French surname. It is derived from the Old French word "beau" meaning "beautiful" and "villier" meaning "farmer". In English, it can be translated to mean "beautiful farmer". |
+| 18 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
+| 19 | [Omos](http://twitter.com/search?q=Omos) | N/A |
+| 20 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
+| 21 | [Evander Kane](http://twitter.com/search?q=Evander+Kane) | N/A |
+| 22 | [Claude Giroux](http://twitter.com/search?q=Claude+Giroux) | N/A |
+| 23 | [Chabot](http://twitter.com/search?q=Chabot) | N/A |
+| 24 | [Brady](http://twitter.com/search?q=Brady) | Brady is a name of Irish origin, derived from the Gaelic surname Ó Brádaigh. It is an Anglicized form of the Irish surname, which means "spirited" or "broad". |
+| 25 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 26 | [Ceci](http://twitter.com/search?q=Ceci) | N/A |
+| 27 | [Bennett](http://twitter.com/search?q=Bennett) | N/A |
+| 28 | [Dallas](http://twitter.com/search?q=Dallas) | Dallas is a city in the U.S. state of Texas. It is the ninth most populous city in the United States and the third-largest in Texas after Houston and San Antonio. The city's population ranks ninth in the U.S. and third in Texas after Houston and San Antonio. Dallas is known for its oil, telecommunications, banking, technology, healthcare, defense, transportation, and commerce industries. |
+| 29 | [Kulak](http://twitter.com/search?q=Kulak) | N/A |
+| 30 | [Hellberg](http://twitter.com/search?q=Hellberg) | N/A |
+| 31 | [Murdoch](http://twitter.com/search?q=Murdoch) | N/A |
+| 32 | [Talbot](http://twitter.com/search?q=Talbot) | N/A |
+| 33 | [Trudeau Foundation](http://twitter.com/search?q=Trudeau+Foundation) | N/A |
+| 34 | [Stars](http://twitter.com/search?q=Stars) | N/A |
+| 35 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
 | 36 | [Puljujarvi](http://twitter.com/search?q=Puljujarvi) | N/A |
-| 37 | [Stars](http://twitter.com/search?q=Stars) | N/A |
-| 38 | [Gambrell](http://twitter.com/search?q=Gambrell) | N/A |
-| 39 | [Bertuzzi](http://twitter.com/search?q=Bertuzzi) | N/A |
-| 40 | [Bloom](http://twitter.com/search?q=Bloom) | N/A |
-| 41 | [Marchand](http://twitter.com/search?q=Marchand) | N/A |
-| 42 | [Boeser](http://twitter.com/search?q=Boeser) | N/A |
-| 43 | [Dallas](http://twitter.com/search?q=Dallas) | Dallas is a city in the U.S. state of Texas. It is the ninth most populous city in the United States and the third-largest in Texas after Houston and San Antonio. The city's population ranks ninth in the U.S. and third in Texas after Houston and San Antonio. Dallas is known for its oil, telecommunications, banking, technology, healthcare, defense, transportation, and commerce industries. |
-| 44 | [McCabe](http://twitter.com/search?q=McCabe) | N/A |
-| 45 | [Boston](http://twitter.com/search?q=Boston) | Boston is the capital and most populous city of the Commonwealth of Massachusetts in the United States. It is one of the oldest cities in the United States, founded in 1630 by Puritan settlers from England. The city is known for its rich history, culture, and educational institutions. It is also home to many world-renowned museums, universities, and hospitals. |
-| 46 | [Beijing](http://twitter.com/search?q=Beijing) | N/A |
-| 47 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
-| 48 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 49 | [Kerfoot](http://twitter.com/search?q=Kerfoot) | N/A |
-| 50 | [Holl](http://twitter.com/search?q=Holl) | N/A |
+| 37 | [Zach](http://twitter.com/search?q=Zach) | N/A |
+| 38 | [Boston](http://twitter.com/search?q=Boston) | Boston is the capital and most populous city of the Commonwealth of Massachusetts in the United States. It is one of the oldest cities in the United States, founded in 1630 by Puritan settlers from England. The city is known for its rich history, culture, and educational institutions. It is also home to many world-renowned museums, universities, and hospitals. |
+| 39 | [Stillman](http://twitter.com/search?q=Stillman) | N/A |
+| 40 | [Jess](http://twitter.com/search?q=Jess) | N/A |
+| 41 | [Wings](http://twitter.com/search?q=Wings) | N/A |
+| 42 | [Marchand](http://twitter.com/search?q=Marchand) | N/A |
+| 43 | [Boeser](http://twitter.com/search?q=Boeser) | N/A |
+| 44 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 45 | [Beijing](http://twitter.com/search?q=Beijing) | N/A |
+| 46 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
+| 47 | [Chinese Communist Party](http://twitter.com/search?q=Chinese+Communist+Party) | N/A |
+| 48 | [Ekholm](http://twitter.com/search?q=Ekholm) | N/A |
+| 49 | [Engvall](http://twitter.com/search?q=Engvall) | N/A |
+| 50 | [#GoSensGo](http://twitter.com/search?q=%23GoSensGo) | N/A |
 
 
 

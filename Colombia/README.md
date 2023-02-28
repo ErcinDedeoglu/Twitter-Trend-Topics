@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Colombia
 
-📆 Last Updated: `2023-02-28 04:16:32 UTC`
+📆 Last Updated: `2023-02-28 05:16:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,41 @@ This is top 50 for Colombia
 | ------- | ------------ | ------------ |
 | 1 | [Gaviria](http://twitter.com/search?q=Gaviria) | N/A |
 | 2 | [Viva Air](http://twitter.com/search?q=Viva+Air) | N/A |
-| 3 | [Avianca](http://twitter.com/search?q=Avianca) | N/A |
-| 4 | [Ocampo](http://twitter.com/search?q=Ocampo) | Ocampo is a Spanish surname derived from the Latin word campus, meaning "field". It is most commonly found in Spain and Latin America. In English, it can be translated to mean "of the field". |
-| 5 | [Patricia Ariza](http://twitter.com/search?q=Patricia+Ariza) | N/A |
-| 6 | [#FirmesConLasPetroReformas](http://twitter.com/search?q=%23FirmesConLasPetroReformas) | N/A |
-| 7 | [Irene Vélez](http://twitter.com/search?q=Irene+V%c3%a9lez) | N/A |
-| 8 | [Ministerio](http://twitter.com/search?q=Ministerio) | N/A |
-| 9 | [#LaDescarga](http://twitter.com/search?q=%23LaDescarga) | N/A |
-| 10 | [Corcho](http://twitter.com/search?q=Corcho) | N/A |
+| 3 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 4 | [Avianca](http://twitter.com/search?q=Avianca) | N/A |
+| 5 | [Ocampo](http://twitter.com/search?q=Ocampo) | Ocampo is a Spanish surname derived from the Latin word campus, meaning "field". It is most commonly found in Spain and Latin America. In English, it can be translated to mean "of the field". |
+| 6 | [Patricia Ariza](http://twitter.com/search?q=Patricia+Ariza) | N/A |
+| 7 | [#FirmesConLasPetroReformas](http://twitter.com/search?q=%23FirmesConLasPetroReformas) | N/A |
+| 8 | [Irene Vélez](http://twitter.com/search?q=Irene+V%c3%a9lez) | N/A |
+| 9 | [Ministerio](http://twitter.com/search?q=Ministerio) | N/A |
+| 10 | [Aerocivil](http://twitter.com/search?q=Aerocivil) | N/A |
 | 11 | [Dilian](http://twitter.com/search?q=Dilian) | N/A |
-| 12 | [#SurvivorLaIsla](http://twitter.com/search?q=%23SurvivorLaIsla) | N/A |
-| 13 | [Deporte](http://twitter.com/search?q=Deporte) | N/A |
-| 14 | [Aerocivil](http://twitter.com/search?q=Aerocivil) | N/A |
-| 15 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
+| 12 | [Corcho](http://twitter.com/search?q=Corcho) | N/A |
+| 13 | [California](http://twitter.com/search?q=California) | N/A |
+| 14 | [#survivorlaisla](http://twitter.com/search?q=%23survivorlaisla) | N/A |
+| 15 | [Deporte](http://twitter.com/search?q=Deporte) | N/A |
 | 16 | [Mermelada](http://twitter.com/search?q=Mermelada) | N/A |
-| 17 | [La Gata](http://twitter.com/search?q=La+Gata) | N/A |
-| 18 | [Astrid Rodríguez](http://twitter.com/search?q=Astrid+Rodr%c3%adguez) | N/A |
-| 19 | [Aurora](http://twitter.com/search?q=Aurora) | N/A |
-| 20 | [Alcaldía de Bogotá](http://twitter.com/search?q=Alcald%c3%ada+de+Bogot%c3%a1) | N/A |
-| 21 | [Enilce López](http://twitter.com/search?q=Enilce+L%c3%b3pez) | N/A |
-| 22 | [Pierde](http://twitter.com/search?q=Pierde) | N/A |
-| 23 | [Copacabana](http://twitter.com/search?q=Copacabana) | N/A |
-| 24 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 25 | [California](http://twitter.com/search?q=California) | N/A |
-| 26 | [MinEducación](http://twitter.com/search?q=MinEducaci%c3%b3n) | N/A |
-| 27 | [Gabinete](http://twitter.com/search?q=Gabinete) | N/A |
-| 28 | [Galán](http://twitter.com/search?q=Gal%c3%a1n) | N/A |
-| 29 | [Dictadura](http://twitter.com/search?q=Dictadura) | N/A |
-| 30 | [Rodolfo](http://twitter.com/search?q=Rodolfo) | N/A |
-| 31 | [Troya](http://twitter.com/search?q=Troya) | N/A |
-| 32 | [Hacienda](http://twitter.com/search?q=Hacienda) | Hacienda is a Spanish word that refers to a large estate or plantation, typically one that is owned by a family. It can also refer to the main house on the estate, which is usually grand and luxurious. In English, it is often used to refer to a ranch or estate with an agricultural focus. |
-| 33 | [#BestFanArmy](http://twitter.com/search?q=%23BestFanArmy) | #BestFanArmy is a hashtag used to recognize and celebrate the most dedicated and passionate fanbases of various celebrities, musicians, athletes, and other public figures. It is often used to encourage fans to show their support for their favorite stars by engaging in activities such as attending concerts, buying merchandise, and sharing content online. |
-| 34 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
-| 35 | [Deossa](http://twitter.com/search?q=Deossa) | N/A |
-| 36 | [Goez](http://twitter.com/search?q=Goez) | N/A |
-| 37 | [Autuori](http://twitter.com/search?q=Autuori) | N/A |
-| 38 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
-| 39 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
-| 40 | [Huila](http://twitter.com/search?q=Huila) | N/A |
-| 41 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 42 | [Empezó](http://twitter.com/search?q=Empez%c3%b3) | N/A |
-| 43 | [Blink](http://twitter.com/search?q=Blink) | N/A |
-| 44 | [Reforma a la Salud](http://twitter.com/search?q=Reforma+a+la+Salud) | N/A |
-| 45 | [Brahian Palacios](http://twitter.com/search?q=Brahian+Palacios) | N/A |
-| 46 | [Seguro Social](http://twitter.com/search?q=Seguro+Social) | N/A |
-| 47 | [Scaloni](http://twitter.com/search?q=Scaloni) | N/A |
-| 48 | [Fecode](http://twitter.com/search?q=Fecode) | N/A |
-| 49 | [Oviedo](http://twitter.com/search?q=Oviedo) | N/A |
-| 50 | [Germán](http://twitter.com/search?q=Germ%c3%a1n) | Germán is a Spanish and Portuguese name derived from the Latin Germanus, meaning "brother". It is also a Germanic given name, derived from the Germanic element ger, meaning "spear". |
+| 17 | [Astrid Rodríguez](http://twitter.com/search?q=Astrid+Rodr%c3%adguez) | N/A |
+| 18 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
+| 19 | [La Gata](http://twitter.com/search?q=La+Gata) | N/A |
+| 20 | [Cecilia López](http://twitter.com/search?q=Cecilia+L%c3%b3pez) | N/A |
+| 21 | [Alcaldía de Bogotá](http://twitter.com/search?q=Alcald%c3%ada+de+Bogot%c3%a1) | N/A |
+| 22 | [Aurora](http://twitter.com/search?q=Aurora) | N/A |
+| 23 | [Pierde](http://twitter.com/search?q=Pierde) | N/A |
+| 24 | [Fajardo](http://twitter.com/search?q=Fajardo) | N/A |
+| 25 | [Galán](http://twitter.com/search?q=Gal%c3%a1n) | N/A |
+| 26 | [Troya](http://twitter.com/search?q=Troya) | N/A |
+| 27 | [Dictadura](http://twitter.com/search?q=Dictadura) | N/A |
+| 28 | [Hacienda](http://twitter.com/search?q=Hacienda) | Hacienda is a Spanish word that refers to a large estate or plantation, typically one that is owned by a family. It can also refer to the main house on the estate, which is usually grand and luxurious. In English, it is often used to refer to a ranch or estate with an agricultural focus. |
+| 29 | [Rodolfo](http://twitter.com/search?q=Rodolfo) | N/A |
+| 30 | [Deossa](http://twitter.com/search?q=Deossa) | N/A |
+| 31 | [Huila](http://twitter.com/search?q=Huila) | N/A |
+| 32 | [Empezó](http://twitter.com/search?q=Empez%c3%b3) | N/A |
+| 33 | [Blink](http://twitter.com/search?q=Blink) | N/A |
+| 34 | [Autuori](http://twitter.com/search?q=Autuori) | N/A |
+| 35 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 36 | [Seguro Social](http://twitter.com/search?q=Seguro+Social) | N/A |
+| 37 | [Germán](http://twitter.com/search?q=Germ%c3%a1n) | Germán is a Spanish and Portuguese name derived from the Latin Germanus, meaning "brother". It is also a Germanic given name, derived from the Germanic element ger, meaning "spear". |
 
 
 

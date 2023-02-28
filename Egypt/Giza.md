@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Giza
 
-📆 Last Updated: `2023-02-28 04:16:12 UTC`
+📆 Last Updated: `2023-02-28 05:16:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,13 +16,13 @@ This is top 50 for [Egypt](</Egypt>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
-| 2 | [#ساره_محمد](http://twitter.com/search?q=%23%d8%b3%d8%a7%d8%b1%d9%87_%d9%85%d8%ad%d9%85%d8%af) | N/A |
-| 3 | [#خلاها](http://twitter.com/search?q=%23%d8%ae%d9%84%d8%a7%d9%87%d8%a7) | N/A |
-| 4 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
+| 2 | [#خلاها](http://twitter.com/search?q=%23%d8%ae%d9%84%d8%a7%d9%87%d8%a7) | N/A |
+| 3 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
+| 4 | [#ساره_محمد](http://twitter.com/search?q=%23%d8%b3%d8%a7%d8%b1%d9%87_%d9%85%d8%ad%d9%85%d8%af) | N/A |
 | 5 | [مارتينيز](http://twitter.com/search?q=%d9%85%d8%a7%d8%b1%d8%aa%d9%8a%d9%86%d9%8a%d8%b2) | مارتينيز is a type of traditional Middle Eastern pastry. It is made with thin layers of dough filled with nuts, honey, and spices. In English, it is sometimes referred to as "baklava". |
 | 6 | [الفيفا](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%8a%d9%81%d8%a7) | N/A |
-| 7 | [#مصر_السيسي_تنتصر_دايما](http://twitter.com/search?q=%23%d9%85%d8%b5%d8%b1_%d8%a7%d9%84%d8%b3%d9%8a%d8%b3%d9%8a_%d8%aa%d9%86%d8%aa%d8%b5%d8%b1_%d8%af%d8%a7%d9%8a%d9%85%d8%a7) | N/A |
-| 8 | [#حبها_قول_وفعل](http://twitter.com/search?q=%23%d8%ad%d8%a8%d9%87%d8%a7_%d9%82%d9%88%d9%84_%d9%88%d9%81%d8%b9%d9%84) | N/A |
+| 7 | [#حبها_قول_وفعل](http://twitter.com/search?q=%23%d8%ad%d8%a8%d9%87%d8%a7_%d9%82%d9%88%d9%84_%d9%88%d9%81%d8%b9%d9%84) | N/A |
+| 8 | [#مصر_السيسي_تنتصر_دايما](http://twitter.com/search?q=%23%d9%85%d8%b5%d8%b1_%d8%a7%d9%84%d8%b3%d9%8a%d8%b3%d9%8a_%d8%aa%d9%86%d8%aa%d8%b5%d8%b1_%d8%af%d8%a7%d9%8a%d9%85%d8%a7) | N/A |
 | 9 | [#اللي_بيحصل_فالبلد](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%84%d9%8a_%d8%a8%d9%8a%d8%ad%d8%b5%d9%84_%d9%81%d8%a7%d9%84%d8%a8%d9%84%d8%af) | N/A |
 | 10 | [بنزيما](http://twitter.com/search?q=%d8%a8%d9%86%d8%b2%d9%8a%d9%85%d8%a7) | بنزيما (benzema) is a surname of Arabic origin. It is derived from the Arabic word "bin zamān" which means "son of time". In English, it can be translated to mean "son of time". |
 | 11 | [ميسى](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%89) | N/A |
@@ -31,40 +31,40 @@ This is top 50 for [Egypt](</Egypt>)
 | 14 | [سامح شكري](http://twitter.com/search?q=%d8%b3%d8%a7%d9%85%d8%ad+%d8%b4%d9%83%d8%b1%d9%8a) | N/A |
 | 15 | [الكره الذهبيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d8%b1%d9%87+%d8%a7%d9%84%d8%b0%d9%87%d8%a8%d9%8a%d9%87) | N/A |
 | 16 | [وزير الخارجيه المصري](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87+%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a) | N/A |
-| 17 | [كورتوا](http://twitter.com/search?q=%d9%83%d9%88%d8%b1%d8%aa%d9%88%d8%a7) | كورتوا is a type of traditional Iraqi dish made with bulgur wheat, onions, and spices. It is usually served with yogurt or tahini sauce. In English, it is known as Korto or Korto Pilaf. |
+| 17 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 18 | [سليمان وهدان](http://twitter.com/search?q=%d8%b3%d9%84%d9%8a%d9%85%d8%a7%d9%86+%d9%88%d9%87%d8%af%d8%a7%d9%86) | N/A |
-| 19 | [منى زكي](http://twitter.com/search?q=%d9%85%d9%86%d9%89+%d8%b2%d9%83%d9%8a) | N/A |
-| 20 | [صالح الاعمال](http://twitter.com/search?q=%d8%b5%d8%a7%d9%84%d8%ad+%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d8%a7%d9%84) | N/A |
-| 21 | [الجوايز الفرديه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%88%d8%a7%d9%8a%d8%b2+%d8%a7%d9%84%d9%81%d8%b1%d8%af%d9%8a%d9%87) | N/A |
-| 22 | [27 فبراير 2023](http://twitter.com/search?q=27+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1+2023) | N/A |
-| 23 | [الابا](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%a8%d8%a7) | الابا is an Arabic word meaning "father". |
-| 24 | [فان دايك](http://twitter.com/search?q=%d9%81%d8%a7%d9%86+%d8%af%d8%a7%d9%8a%d9%83) | N/A |
-| 25 | [وزارة الشباب](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d8%b4%d8%a8%d8%a7%d8%a8) | N/A |
-| 26 | [كاس عالم](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%b9%d8%a7%d9%84%d9%85) | كاس عالم (Kass Al-Alam) is an Arabic phrase meaning "World Cup". It is used to refer to the FIFA World Cup, an international football tournament held every four years. |
-| 27 | [منتخب الارجنتين](http://twitter.com/search?q=%d9%85%d9%86%d8%aa%d8%ae%d8%a8+%d8%a7%d9%84%d8%a7%d8%b1%d8%ac%d9%86%d8%aa%d9%8a%d9%86) | N/A |
-| 28 | [كاريوس](http://twitter.com/search?q=%d9%83%d8%a7%d8%b1%d9%8a%d9%88%d8%b3) | N/A |
-| 29 | [بيليه](http://twitter.com/search?q=%d8%a8%d9%8a%d9%84%d9%8a%d9%87) | N/A |
-| 30 | [السكندري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%83%d9%86%d8%af%d8%b1%d9%8a) | N/A |
-| 31 | [خالد يوسف](http://twitter.com/search?q=%d8%ae%d8%a7%d9%84%d8%af+%d9%8a%d9%88%d8%b3%d9%81) | N/A |
-| 32 | [مرتضى منصور](http://twitter.com/search?q=%d9%85%d8%b1%d8%aa%d8%b6%d9%89+%d9%85%d9%86%d8%b5%d9%88%d8%b1) | N/A |
-| 33 | [باريس سان جيرمان](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b1%d9%8a%d8%b3+%d8%b3%d8%a7%d9%86+%d8%ac%d9%8a%d8%b1%d9%85%d8%a7%d9%86) | N/A |
-| 34 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 19 | [بيوم جديد](http://twitter.com/search?q=%d8%a8%d9%8a%d9%88%d9%85+%d8%ac%d8%af%d9%8a%d8%af) | N/A |
+| 20 | [27 فبراير 2023](http://twitter.com/search?q=27+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1+2023) | N/A |
+| 21 | [منى زكي](http://twitter.com/search?q=%d9%85%d9%86%d9%89+%d8%b2%d9%83%d9%8a) | N/A |
+| 22 | [فان دايك](http://twitter.com/search?q=%d9%81%d8%a7%d9%86+%d8%af%d8%a7%d9%8a%d9%83) | N/A |
+| 23 | [الجوايز الفرديه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%88%d8%a7%d9%8a%d8%b2+%d8%a7%d9%84%d9%81%d8%b1%d8%af%d9%8a%d9%87) | N/A |
+| 24 | [وزارة الشباب](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d8%b4%d8%a8%d8%a7%d8%a8) | N/A |
+| 25 | [صالح الاعمال](http://twitter.com/search?q=%d8%b5%d8%a7%d9%84%d8%ad+%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d8%a7%d9%84) | N/A |
+| 26 | [منتخب الارجنتين](http://twitter.com/search?q=%d9%85%d9%86%d8%aa%d8%ae%d8%a8+%d8%a7%d9%84%d8%a7%d8%b1%d8%ac%d9%86%d8%aa%d9%8a%d9%86) | N/A |
+| 27 | [كاريوس](http://twitter.com/search?q=%d9%83%d8%a7%d8%b1%d9%8a%d9%88%d8%b3) | N/A |
+| 28 | [كاس عالم](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%b9%d8%a7%d9%84%d9%85) | كاس عالم (Kass Al-Alam) is an Arabic phrase meaning "World Cup". It is used to refer to the FIFA World Cup, an international football tournament held every four years. |
+| 29 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 30 | [بيليه](http://twitter.com/search?q=%d8%a8%d9%8a%d9%84%d9%8a%d9%87) | N/A |
+| 31 | [السكندري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%83%d9%86%d8%af%d8%b1%d9%8a) | N/A |
+| 32 | [خالد يوسف](http://twitter.com/search?q=%d8%ae%d8%a7%d9%84%d8%af+%d9%8a%d9%88%d8%b3%d9%81) | N/A |
+| 33 | [الابا](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%a8%d8%a7) | الابا is an Arabic word meaning "father". |
+| 34 | [باريس سان جيرمان](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b1%d9%8a%d8%b3+%d8%b3%d8%a7%d9%86+%d8%ac%d9%8a%d8%b1%d9%85%d8%a7%d9%86) | N/A |
 | 35 | [اليوم الاثنين](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86) | اليوم الاثنين is Arabic for "Monday" and it means "Monday" in English. |
-| 36 | [مارسيليا](http://twitter.com/search?q=%d9%85%d8%a7%d8%b1%d8%b3%d9%8a%d9%84%d9%8a%d8%a7) | N/A |
-| 37 | [عمرو اديب](http://twitter.com/search?q=%d8%b9%d9%85%d8%b1%d9%88+%d8%a7%d8%af%d9%8a%d8%a8) | N/A |
-| 38 | [بروين](http://twitter.com/search?q=%d8%a8%d8%b1%d9%88%d9%8a%d9%86) | بروين (pronounced "bru-een") is an Arabic word meaning "brother". |
-| 39 | [ياسين بونو](http://twitter.com/search?q=%d9%8a%d8%a7%d8%b3%d9%8a%d9%86+%d8%a8%d9%88%d9%86%d9%88) | N/A |
-| 40 | [أشرف حكيمي](http://twitter.com/search?q=%d8%a3%d8%b4%d8%b1%d9%81+%d8%ad%d9%83%d9%8a%d9%85%d9%8a) | N/A |
-| 41 | [سيناء](http://twitter.com/search?q=%d8%b3%d9%8a%d9%86%d8%a7%d8%a1) | N/A |
-| 42 | [The GOAT](http://twitter.com/search?q=The+GOAT) | N/A |
-| 43 | [دور التامنه](http://twitter.com/search?q=%d8%af%d9%88%d8%b1+%d8%a7%d9%84%d8%aa%d8%a7%d9%85%d9%86%d9%87) | N/A |
-| 44 | [ديل موندو](http://twitter.com/search?q=%d8%af%d9%8a%d9%84+%d9%85%d9%88%d9%86%d8%af%d9%88) | N/A |
-| 45 | [طلائع الجيش](http://twitter.com/search?q=%d8%b7%d9%84%d8%a7%d8%a6%d8%b9+%d8%a7%d9%84%d8%ac%d9%8a%d8%b4) | N/A |
-| 46 | [الفضاء الدوليه](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b6%d8%a7%d8%a1+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a%d9%87) | N/A |
-| 47 | [الجيش الملكي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%8a%d8%b4+%d8%a7%d9%84%d9%85%d9%84%d9%83%d9%8a) | N/A |
-| 48 | [العلمين الجديده](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%84%d9%85%d9%8a%d9%86+%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af%d9%87) | N/A |
-| 49 | [جمب الشباك](http://twitter.com/search?q=%d8%ac%d9%85%d8%a8+%d8%a7%d9%84%d8%b4%d8%a8%d8%a7%d9%83) | N/A |
-| 50 | [فالنسيا](http://twitter.com/search?q=%d9%81%d8%a7%d9%84%d9%86%d8%b3%d9%8a%d8%a7) | فالنسيا is an Arabic phrase that translates to "farewell" in English. It is used as a way of saying goodbye or expressing good wishes when someone is leaving. |
+| 36 | [مرتضى منصور](http://twitter.com/search?q=%d9%85%d8%b1%d8%aa%d8%b6%d9%89+%d9%85%d9%86%d8%b5%d9%88%d8%b1) | N/A |
+| 37 | [مارسيليا](http://twitter.com/search?q=%d9%85%d8%a7%d8%b1%d8%b3%d9%8a%d9%84%d9%8a%d8%a7) | N/A |
+| 38 | [عمرو اديب](http://twitter.com/search?q=%d8%b9%d9%85%d8%b1%d9%88+%d8%a7%d8%af%d9%8a%d8%a8) | N/A |
+| 39 | [بروين](http://twitter.com/search?q=%d8%a8%d8%b1%d9%88%d9%8a%d9%86) | بروين (pronounced "bru-een") is an Arabic word meaning "brother". |
+| 40 | [ياسين بونو](http://twitter.com/search?q=%d9%8a%d8%a7%d8%b3%d9%8a%d9%86+%d8%a8%d9%88%d9%86%d9%88) | N/A |
+| 41 | [أشرف حكيمي](http://twitter.com/search?q=%d8%a3%d8%b4%d8%b1%d9%81+%d8%ad%d9%83%d9%8a%d9%85%d9%8a) | N/A |
+| 42 | [سيناء](http://twitter.com/search?q=%d8%b3%d9%8a%d9%86%d8%a7%d8%a1) | N/A |
+| 43 | [The GOAT](http://twitter.com/search?q=The+GOAT) | N/A |
+| 44 | [دور التامنه](http://twitter.com/search?q=%d8%af%d9%88%d8%b1+%d8%a7%d9%84%d8%aa%d8%a7%d9%85%d9%86%d9%87) | N/A |
+| 45 | [ديل موندو](http://twitter.com/search?q=%d8%af%d9%8a%d9%84+%d9%85%d9%88%d9%86%d8%af%d9%88) | N/A |
+| 46 | [طلائع الجيش](http://twitter.com/search?q=%d8%b7%d9%84%d8%a7%d8%a6%d8%b9+%d8%a7%d9%84%d8%ac%d9%8a%d8%b4) | N/A |
+| 47 | [الفضاء الدوليه](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b6%d8%a7%d8%a1+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a%d9%87) | N/A |
+| 48 | [كورتوا](http://twitter.com/search?q=%d9%83%d9%88%d8%b1%d8%aa%d9%88%d8%a7) | كورتوا is a type of traditional Iraqi dish made with bulgur wheat, onions, and spices. It is usually served with yogurt or tahini sauce. In English, it is known as Korto or Korto Pilaf. |
+| 49 | [الجيش الملكي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%8a%d8%b4+%d8%a7%d9%84%d9%85%d9%84%d9%83%d9%8a) | N/A |
+| 50 | [العلمين الجديده](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%84%d9%85%d9%8a%d9%86+%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af%d9%87) | N/A |
 
 
 
