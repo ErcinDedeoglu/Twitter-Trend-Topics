@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rennes
 
-📆 Last Updated: `2023-02-28 12:18:13 UTC`
+📆 Last Updated: `2023-02-28 13:21:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Noël Le Graët](http://twitter.com/search?q=No%c3%abl+Le+Gra%c3%abt) | N/A |
-| 2 | [Payet](http://twitter.com/search?q=Payet) | Payet is a French surname. It is derived from the Old French word "paie," which means "payment." In English, it can be translated to mean "one who pays." |
-| 3 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
-| 4 | [#OMPSG](http://twitter.com/search?q=%23OMPSG) | N/A |
-| 5 | [#SIA2023](http://twitter.com/search?q=%23SIA2023) | N/A |
-| 6 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 7 | [Hilona](http://twitter.com/search?q=Hilona) | N/A |
-| 8 | [#pokemonpresents](http://twitter.com/search?q=%23pokemonpresents) | N/A |
-| 9 | [Ethnicité](http://twitter.com/search?q=Ethnicit%c3%a9) | N/A |
-| 10 | [Julien Bert](http://twitter.com/search?q=Julien+Bert) | N/A |
-| 11 | [Miquella](http://twitter.com/search?q=Miquella) | N/A |
-| 12 | [#ASCFCGB](http://twitter.com/search?q=%23ASCFCGB) | N/A |
-| 13 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
-| 14 | [Comex](http://twitter.com/search?q=Comex) | N/A |
-| 15 | [Balkany](http://twitter.com/search?q=Balkany) | N/A |
-| 16 | [Puskas](http://twitter.com/search?q=Puskas) | N/A |
-| 17 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
-| 18 | [Suicune](http://twitter.com/search?q=Suicune) | N/A |
-| 19 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
-| 20 | [Platini](http://twitter.com/search?q=Platini) | N/A |
-| 21 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 22 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 23 | [Bachelot](http://twitter.com/search?q=Bachelot) | N/A |
-| 24 | [Pétain](http://twitter.com/search?q=P%c3%a9tain) | N/A |
-| 25 | [Shadow of the Erdtree](http://twitter.com/search?q=Shadow+of+the+Erdtree) | N/A |
-| 26 | [Marika](http://twitter.com/search?q=Marika) | N/A |
-| 27 | [Bailly](http://twitter.com/search?q=Bailly) | Bailly is a French surname derived from the Old French word baillis, meaning "bailiff" or "steward". It is also a given name in France, derived from the same source. |
-| 28 | [Marseille](http://twitter.com/search?q=Marseille) | N/A |
-| 29 | [Fransergio](http://twitter.com/search?q=Fransergio) | N/A |
-| 30 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
-| 31 | [Astrid](http://twitter.com/search?q=Astrid) | N/A |
-| 32 | [Ruben Östlund](http://twitter.com/search?q=Ruben+%c3%96stlund) | N/A |
-| 33 | [Shay](http://twitter.com/search?q=Shay) | N/A |
+| 1 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 2 | [#LeGraet](http://twitter.com/search?q=%23LeGraet) | N/A |
+| 3 | [#FreebetWinamax](http://twitter.com/search?q=%23FreebetWinamax) | N/A |
+| 4 | [Infantino](http://twitter.com/search?q=Infantino) | Infantino is a Spanish word meaning "little baby". It is often used as an affectionate term for a young child. |
+| 5 | [Payet](http://twitter.com/search?q=Payet) | Payet is a French surname. It is derived from the Old French word "paie," which means "payment." In English, it can be translated to mean "one who pays." |
+| 6 | [#SIA2023](http://twitter.com/search?q=%23SIA2023) | N/A |
+| 7 | [Ethnicité](http://twitter.com/search?q=Ethnicit%c3%a9) | N/A |
+| 8 | [#PokemonPresents](http://twitter.com/search?q=%23PokemonPresents) | N/A |
+| 9 | [Hilona](http://twitter.com/search?q=Hilona) | N/A |
+| 10 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 11 | [Julien Bert](http://twitter.com/search?q=Julien+Bert) | N/A |
+| 12 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
+| 13 | [Balkany](http://twitter.com/search?q=Balkany) | N/A |
+| 14 | [Puskas](http://twitter.com/search?q=Puskas) | N/A |
+| 15 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
+| 16 | [Suicune](http://twitter.com/search?q=Suicune) | N/A |
+| 17 | [Miquella](http://twitter.com/search?q=Miquella) | N/A |
+| 18 | [ASTRO](http://twitter.com/search?q=ASTRO) | N/A |
+| 19 | [Comex](http://twitter.com/search?q=Comex) | N/A |
+| 20 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
+| 21 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 22 | [Platini](http://twitter.com/search?q=Platini) | N/A |
+| 23 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 24 | [Bachelot](http://twitter.com/search?q=Bachelot) | N/A |
+| 25 | [Reservoir Dogs](http://twitter.com/search?q=Reservoir+Dogs) | N/A |
+| 26 | [Pétain](http://twitter.com/search?q=P%c3%a9tain) | N/A |
+| 27 | [Marseille](http://twitter.com/search?q=Marseille) | N/A |
+| 28 | [Bailly](http://twitter.com/search?q=Bailly) | Bailly is a French surname derived from the Old French word baillis, meaning "bailiff" or "steward". It is also a given name in France, derived from the same source. |
+| 29 | [Elden Ring](http://twitter.com/search?q=Elden+Ring) | N/A |
+| 30 | [Shay](http://twitter.com/search?q=Shay) | N/A |
+| 31 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
+| 32 | [Fransergio](http://twitter.com/search?q=Fransergio) | N/A |
+| 33 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
 | 34 | [Michelin](http://twitter.com/search?q=Michelin) | N/A |
-| 35 | [Aziliz](http://twitter.com/search?q=Aziliz) | N/A |
-| 36 | [Zidane](http://twitter.com/search?q=Zidane) | Zidane is a French surname, derived from the Arabic name Ziyad. It is most famously associated with French football player Zinedine Zidane, who is widely regarded as one of the greatest players of all time. The name can also refer to his son, Enzo Zidane, who is also a professional footballer. |
-| 37 | [Leris](http://twitter.com/search?q=Leris) | N/A |
+| 35 | [Ruben Östlund](http://twitter.com/search?q=Ruben+%c3%96stlund) | N/A |
+| 36 | [Astrid](http://twitter.com/search?q=Astrid) | N/A |
+| 37 | [Aziliz](http://twitter.com/search?q=Aziliz) | N/A |
 | 38 | [Guy Savoy](http://twitter.com/search?q=Guy+Savoy) | N/A |
 | 39 | [Mwanga](http://twitter.com/search?q=Mwanga) | N/A |
-| 40 | [Maja](http://twitter.com/search?q=Maja) | N/A |
-| 41 | [amiens](http://twitter.com/search?q=amiens) | N/A |
-| 42 | [salon](http://twitter.com/search?q=salon) | N/A |
-| 43 | [Lacoux](http://twitter.com/search?q=Lacoux) | N/A |
-| 44 | [Montagnier](http://twitter.com/search?q=Montagnier) | N/A |
-| 45 | [Badji](http://twitter.com/search?q=Badji) | N/A |
-| 46 | [Estrosi](http://twitter.com/search?q=Estrosi) | N/A |
-| 47 | [Scaloni](http://twitter.com/search?q=Scaloni) | N/A |
-| 48 | [Zavatta](http://twitter.com/search?q=Zavatta) | N/A |
-| 49 | [Guion](http://twitter.com/search?q=Guion) | N/A |
+| 40 | [Shadow of the Erdtree](http://twitter.com/search?q=Shadow+of+the+Erdtree) | N/A |
+| 41 | [Maja](http://twitter.com/search?q=Maja) | N/A |
+| 42 | [Leris](http://twitter.com/search?q=Leris) | N/A |
+| 43 | [badji](http://twitter.com/search?q=badji) | N/A |
+| 44 | [Lacoux](http://twitter.com/search?q=Lacoux) | N/A |
+| 45 | [MONTAGNIER](http://twitter.com/search?q=MONTAGNIER) | N/A |
+| 46 | [Pulp Fiction](http://twitter.com/search?q=Pulp+Fiction) | N/A |
+| 47 | [Salon](http://twitter.com/search?q=Salon) | N/A |
+| 48 | [Estrosi](http://twitter.com/search?q=Estrosi) | N/A |
+| 49 | [Zavatta](http://twitter.com/search?q=Zavatta) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Las Palmas
 
-📆 Last Updated: `2023-02-28 12:18:16 UTC`
+📆 Last Updated: `2023-02-28 13:21:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,52 +16,52 @@ This is top 50 for [Spain](</Spain>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Andalucía](http://twitter.com/search?q=Andaluc%c3%ada) | N/A |
-| 2 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
-| 3 | [#EnfermedadesRaras](http://twitter.com/search?q=%23EnfermedadesRaras) | N/A |
-| 4 | [#28Feb](http://twitter.com/search?q=%2328Feb) | N/A |
-| 5 | [Andaluces](http://twitter.com/search?q=Andaluces) | N/A |
-| 6 | [Miquella](http://twitter.com/search?q=Miquella) | N/A |
-| 7 | [Blas Infante](http://twitter.com/search?q=Blas+Infante) | N/A |
-| 8 | [#BayonettaOriginsMM](http://twitter.com/search?q=%23BayonettaOriginsMM) | N/A |
-| 9 | [#28FNadaQueCelebrar](http://twitter.com/search?q=%2328FNadaQueCelebrar) | N/A |
+| 2 | [#HONORMagic5](http://twitter.com/search?q=%23HONORMagic5) | N/A |
+| 3 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
+| 4 | [#EnfermedadesRaras](http://twitter.com/search?q=%23EnfermedadesRaras) | N/A |
+| 5 | [#28Feb](http://twitter.com/search?q=%2328Feb) | N/A |
+| 6 | [#28FCanalSur](http://twitter.com/search?q=%2328FCanalSur) | N/A |
+| 7 | [Andaluces](http://twitter.com/search?q=Andaluces) | N/A |
+| 8 | [Miquella](http://twitter.com/search?q=Miquella) | N/A |
+| 9 | [Blas Infante](http://twitter.com/search?q=Blas+Infante) | N/A |
 | 10 | [Andaluz](http://twitter.com/search?q=Andaluz) | N/A |
-| 11 | [DLC de Elden Ring](http://twitter.com/search?q=DLC+de+Elden+Ring) | N/A |
-| 12 | [Hoy 28](http://twitter.com/search?q=Hoy+28) | N/A |
-| 13 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 14 | [Juan y Medio](http://twitter.com/search?q=Juan+y+Medio) | N/A |
-| 15 | [España y la Humanidad](http://twitter.com/search?q=Espa%c3%b1a+y+la+Humanidad) | N/A |
-| 16 | [Shadow of the Erdtree](http://twitter.com/search?q=Shadow+of+the+Erdtree) | N/A |
-| 17 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 18 | [Marika](http://twitter.com/search?q=Marika) | N/A |
-| 19 | [El IPC](http://twitter.com/search?q=El+IPC) | N/A |
-| 20 | [Tito Berni](http://twitter.com/search?q=Tito+Berni) | N/A |
-| 21 | [Jaén](http://twitter.com/search?q=Ja%c3%a9n) | N/A |
-| 22 | [Dalsy](http://twitter.com/search?q=Dalsy) | N/A |
-| 23 | [Feliz 28F](http://twitter.com/search?q=Feliz+28F) | N/A |
-| 24 | [28-F](http://twitter.com/search?q=28-F) | N/A |
-| 25 | [Güenos](http://twitter.com/search?q=G%c3%bcenos) | N/A |
+| 11 | [Hoy 28](http://twitter.com/search?q=Hoy+28) | N/A |
+| 12 | [DLC de Elden Ring](http://twitter.com/search?q=DLC+de+Elden+Ring) | N/A |
+| 13 | [Juan y Medio](http://twitter.com/search?q=Juan+y+Medio) | N/A |
+| 14 | [Marika](http://twitter.com/search?q=Marika) | N/A |
+| 15 | [Lola Flores](http://twitter.com/search?q=Lola+Flores) | N/A |
+| 16 | [Dalsy](http://twitter.com/search?q=Dalsy) | N/A |
+| 17 | [España y la Humanidad](http://twitter.com/search?q=Espa%c3%b1a+y+la+Humanidad) | N/A |
+| 18 | [Kitchen](http://twitter.com/search?q=Kitchen) | N/A |
+| 19 | [Shadow of the Erdtree](http://twitter.com/search?q=Shadow+of+the+Erdtree) | N/A |
+| 20 | [El IPC](http://twitter.com/search?q=El+IPC) | N/A |
+| 21 | [David Bisbal](http://twitter.com/search?q=David+Bisbal) | N/A |
+| 22 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 23 | [28-F](http://twitter.com/search?q=28-F) | N/A |
+| 24 | [Jaén](http://twitter.com/search?q=Ja%c3%a9n) | N/A |
+| 25 | [Feliz 28F](http://twitter.com/search?q=Feliz+28F) | N/A |
 | 26 | [Austria](http://twitter.com/search?q=Austria) | N/A |
 | 27 | [Miyazaki](http://twitter.com/search?q=Miyazaki) | N/A |
 | 28 | [Bandolero](http://twitter.com/search?q=Bandolero) | N/A |
-| 29 | [kitchen](http://twitter.com/search?q=kitchen) | N/A |
-| 30 | [Malenia](http://twitter.com/search?q=Malenia) | N/A |
-| 31 | [Zendal](http://twitter.com/search?q=Zendal) | N/A |
-| 32 | [Mediador](http://twitter.com/search?q=Mediador) | N/A |
+| 29 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 30 | [Zendal](http://twitter.com/search?q=Zendal) | N/A |
+| 31 | [Malenia](http://twitter.com/search?q=Malenia) | N/A |
+| 32 | [Rocío Jurado](http://twitter.com/search?q=Roc%c3%ado+Jurado) | N/A |
 | 33 | [Interior](http://twitter.com/search?q=Interior) | N/A |
 | 34 | [Comunidad Autónoma](http://twitter.com/search?q=Comunidad+Aut%c3%b3noma) | N/A |
 | 35 | [Inda](http://twitter.com/search?q=Inda) | N/A |
-| 36 | [Rocío Jurado](http://twitter.com/search?q=Roc%c3%ado+Jurado) | N/A |
-| 37 | [Repsol](http://twitter.com/search?q=Repsol) | N/A |
+| 36 | [Alhambra](http://twitter.com/search?q=Alhambra) | N/A |
+| 37 | [Pablo González](http://twitter.com/search?q=Pablo+Gonz%c3%a1lez) | N/A |
 | 38 | [Día Internacional de la Mujer](http://twitter.com/search?q=D%c3%ada+Internacional+de+la+Mujer) | N/A |
-| 39 | [Pablo González](http://twitter.com/search?q=Pablo+Gonz%c3%a1lez) | N/A |
-| 40 | [Sábado 4](http://twitter.com/search?q=S%c3%a1bado+4) | N/A |
-| 41 | [Alexia](http://twitter.com/search?q=Alexia) | Alexia is a neurological disorder that affects a person's ability to read. It is also known as word blindness or dyslexia. People with Alexia have difficulty understanding written words, even though they may be able to speak and write normally. |
-| 42 | [Karim](http://twitter.com/search?q=Karim) | Karim is an Arabic name meaning "generous" or "noble". It is also used as a surname in some cultures. |
-| 43 | [La España](http://twitter.com/search?q=La+Espa%c3%b1a) | N/A |
-| 44 | [Martes 28](http://twitter.com/search?q=Martes+28) | N/A |
-| 45 | [Federico](http://twitter.com/search?q=Federico) | N/A |
+| 39 | [Sábado 4](http://twitter.com/search?q=S%c3%a1bado+4) | N/A |
+| 40 | [Martes 28](http://twitter.com/search?q=Martes+28) | N/A |
+| 41 | [#BayonettaOriginsMM](http://twitter.com/search?q=%23BayonettaOriginsMM) | N/A |
+| 42 | [#DENCanarias23](http://twitter.com/search?q=%23DENCanarias23) | N/A |
+| 43 | [#28FNadaQueCelebrar](http://twitter.com/search?q=%2328FNadaQueCelebrar) | N/A |
+| 44 | [#APOYOROCIO28F](http://twitter.com/search?q=%23APOYOROCIO28F) | N/A |
+| 45 | [#Solos28F](http://twitter.com/search?q=%23Solos28F) | N/A |
 | 46 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
-| 47 | [#APOYOROCIO28F](http://twitter.com/search?q=%23APOYOROCIO28F) | N/A |
+| 47 | [#Skyshowtime](http://twitter.com/search?q=%23Skyshowtime) | N/A |
 
 
 

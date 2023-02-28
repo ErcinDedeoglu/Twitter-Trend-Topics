@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For United Kingdom
 
-📆 Last Updated: `2023-02-28 12:18:52 UTC`
+📆 Last Updated: `2023-02-28 13:21:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for United Kingdom
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#RareDiseaseDay](http://twitter.com/search?q=%23RareDiseaseDay) | N/A |
-| 2 | [Northern Ireland](http://twitter.com/search?q=Northern+Ireland) | N/A |
-| 3 | [#UseLemonadeFinance](http://twitter.com/search?q=%23UseLemonadeFinance) | N/A |
-| 4 | [#PayAttention](http://twitter.com/search?q=%23PayAttention) | N/A |
+| 1 | [#PoliticsLive](http://twitter.com/search?q=%23PoliticsLive) | N/A |
+| 2 | [#AskMooy](http://twitter.com/search?q=%23AskMooy) | N/A |
+| 3 | [Northern Ireland](http://twitter.com/search?q=Northern+Ireland) | N/A |
+| 4 | [#RareDiseaseDay](http://twitter.com/search?q=%23RareDiseaseDay) | N/A |
 | 5 | [Single Market](http://twitter.com/search?q=Single+Market) | N/A |
 | 6 | [#BrexitDisaster](http://twitter.com/search?q=%23BrexitDisaster) | N/A |
-| 7 | [Isla Bryson](http://twitter.com/search?q=Isla+Bryson) | N/A |
-| 8 | [Sunak](http://twitter.com/search?q=Sunak) | N/A |
-| 9 | [#LunchPun](http://twitter.com/search?q=%23LunchPun) | N/A |
-| 10 | [UK and EU](http://twitter.com/search?q=UK+and+EU) | N/A |
-| 11 | [Scotland and Wales](http://twitter.com/search?q=Scotland+and+Wales) | N/A |
-| 12 | [Adam Graham](http://twitter.com/search?q=Adam+Graham) | N/A |
-| 13 | [Cleverly](http://twitter.com/search?q=Cleverly) | Cleverly is an adverb that means in a skillful or clever manner. It is used to describe someone who is able to think quickly and come up with creative solutions. |
-| 14 | [Elden Ring DLC](http://twitter.com/search?q=Elden+Ring+DLC) | N/A |
-| 15 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 16 | [UK and the EU](http://twitter.com/search?q=UK+and+the+EU) | N/A |
-| 17 | [Thiago Silva](http://twitter.com/search?q=Thiago+Silva) | Thiago Silva is a Brazilian professional footballer who plays as a central defender for Paris Saint-Germain and the Brazil national team. In English, Thiago Silva means "Saint Thomas". |
-| 18 | [Miquella](http://twitter.com/search?q=Miquella) | N/A |
-| 19 | [Gas Panic](http://twitter.com/search?q=Gas+Panic) | N/A |
-| 20 | [Pete Davidson](http://twitter.com/search?q=Pete+Davidson) | Pete Davidson is an American comedian, actor, and writer. He is best known for being a cast member on Saturday Night Live since 2014. He has also appeared in films such as Big Time Adolescence and The King of Staten Island. |
-| 21 | [Steve Baker](http://twitter.com/search?q=Steve+Baker) | N/A |
-| 22 | [EU and UK](http://twitter.com/search?q=EU+and+UK) | N/A |
-| 23 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
-| 24 | [Daily Quordle 400](http://twitter.com/search?q=Daily+Quordle+400) | N/A |
-| 25 | [Constance Marten](http://twitter.com/search?q=Constance+Marten) | N/A |
-| 26 | [Wales and Scotland](http://twitter.com/search?q=Wales+and+Scotland) | N/A |
-| 27 | [So NI](http://twitter.com/search?q=So+NI) | N/A |
-| 28 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
-| 29 | [Mark Gordon](http://twitter.com/search?q=Mark+Gordon) | N/A |
-| 30 | [Remain](http://twitter.com/search?q=Remain) | N/A |
-| 31 | [Rina](http://twitter.com/search?q=Rina) | N/A |
+| 7 | [Jacqui Smith](http://twitter.com/search?q=Jacqui+Smith) | N/A |
+| 8 | [#UseLemonadeFinance](http://twitter.com/search?q=%23UseLemonadeFinance) | N/A |
+| 9 | [Scotland and Wales](http://twitter.com/search?q=Scotland+and+Wales) | N/A |
+| 10 | [Sunak](http://twitter.com/search?q=Sunak) | N/A |
+| 11 | [UK and EU](http://twitter.com/search?q=UK+and+EU) | N/A |
+| 12 | [Isla Bryson](http://twitter.com/search?q=Isla+Bryson) | N/A |
+| 13 | [Isabel](http://twitter.com/search?q=Isabel) | N/A |
+| 14 | [Adam Graham](http://twitter.com/search?q=Adam+Graham) | N/A |
+| 15 | [Elden Ring DLC](http://twitter.com/search?q=Elden+Ring+DLC) | N/A |
+| 16 | [Marcus Smith](http://twitter.com/search?q=Marcus+Smith) | N/A |
+| 17 | [25% in FCT](http://twitter.com/search?q=25%25+in+FCT) | N/A |
+| 18 | [Pete Davidson](http://twitter.com/search?q=Pete+Davidson) | Pete Davidson is an American comedian, actor, and writer. He is best known for being a cast member on Saturday Night Live since 2014. He has also appeared in films such as Big Time Adolescence and The King of Staten Island. |
+| 19 | [Wales and Scotland](http://twitter.com/search?q=Wales+and+Scotland) | N/A |
+| 20 | [Ford](http://twitter.com/search?q=Ford) | Ford is an American multinational automaker that designs, manufactures, markets, and services a range of cars, trucks, SUVs, and electrified vehicles. The company's name is derived from the surname of its founder, Henry Ford. |
+| 21 | [Constance Marten](http://twitter.com/search?q=Constance+Marten) | N/A |
+| 22 | [UK and the EU](http://twitter.com/search?q=UK+and+the+EU) | N/A |
+| 23 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
+| 24 | [Gas Panic](http://twitter.com/search?q=Gas+Panic) | N/A |
+| 25 | [Cleverly](http://twitter.com/search?q=Cleverly) | Cleverly is an adverb that means in a skillful or clever manner. It is used to describe someone who is able to think quickly and come up with creative solutions. |
+| 26 | [Remainers](http://twitter.com/search?q=Remainers) | N/A |
+| 27 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 28 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
+| 29 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
+| 30 | [EU and UK](http://twitter.com/search?q=EU+and+UK) | N/A |
+| 31 | [Miquella](http://twitter.com/search?q=Miquella) | N/A |
 | 32 | [Rupert Murdoch](http://twitter.com/search?q=Rupert+Murdoch) | N/A |
-| 33 | [Brexiteers](http://twitter.com/search?q=Brexiteers) | N/A |
-| 34 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
-| 35 | [The PM](http://twitter.com/search?q=The+PM) | N/A |
-| 36 | [Noel](http://twitter.com/search?q=Noel) | Noel is a French word meaning "Christmas". It is often used as a greeting during the Christmas season. |
-| 37 | [Test Cricket](http://twitter.com/search?q=Test+Cricket) | N/A |
-| 38 | [Iceland](http://twitter.com/search?q=Iceland) | N/A |
-| 39 | [Koran](http://twitter.com/search?q=Koran) | N/A |
-| 40 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
-| 41 | [Stormont Brake](http://twitter.com/search?q=Stormont+Brake) | N/A |
-| 42 | [Frost](http://twitter.com/search?q=Frost) | N/A |
-| 43 | [Abuja](http://twitter.com/search?q=Abuja) | N/A |
-| 44 | [Lita](http://twitter.com/search?q=Lita) | N/A |
-| 45 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 46 | [Isle of Man](http://twitter.com/search?q=Isle+of+Man) | N/A |
-| 47 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
-| 48 | [Lorna Slater](http://twitter.com/search?q=Lorna+Slater) | N/A |
-| 49 | [Bale](http://twitter.com/search?q=Bale) | Bale is a large bundle of goods, usually compressed and tied up with string or wire, for storage or transport. It is commonly used to refer to bundles of hay, straw, or cotton. |
-| 50 | [#popmaster](http://twitter.com/search?q=%23popmaster) | N/A |
+| 33 | [European Union](http://twitter.com/search?q=European+Union) | N/A |
+| 34 | [Steve Baker](http://twitter.com/search?q=Steve+Baker) | N/A |
+| 35 | [Thiago Silva](http://twitter.com/search?q=Thiago+Silva) | Thiago Silva is a Brazilian professional footballer who plays as a central defender for Paris Saint-Germain and the Brazil national team. In English, Thiago Silva means "Saint Thomas". |
+| 36 | [So NI](http://twitter.com/search?q=So+NI) | N/A |
+| 37 | [Mark Gordon](http://twitter.com/search?q=Mark+Gordon) | N/A |
+| 38 | [ASTRO](http://twitter.com/search?q=ASTRO) | N/A |
+| 39 | [Abuja](http://twitter.com/search?q=Abuja) | N/A |
+| 40 | [Noel](http://twitter.com/search?q=Noel) | Noel is a French word meaning "Christmas". It is often used as a greeting during the Christmas season. |
+| 41 | [Daily Quordle 400](http://twitter.com/search?q=Daily+Quordle+400) | N/A |
+| 42 | [Rina](http://twitter.com/search?q=Rina) | N/A |
+| 43 | [Great Britain](http://twitter.com/search?q=Great+Britain) | N/A |
+| 44 | [Perth](http://twitter.com/search?q=Perth) | N/A |
+| 45 | [Lita](http://twitter.com/search?q=Lita) | N/A |
+| 46 | [Koran](http://twitter.com/search?q=Koran) | N/A |
+| 47 | [Stormont Brake](http://twitter.com/search?q=Stormont+Brake) | N/A |
+| 48 | [The PM](http://twitter.com/search?q=The+PM) | N/A |
+| 49 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
+| 50 | [Iceland](http://twitter.com/search?q=Iceland) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gwangju
 
-📆 Last Updated: `2023-02-28 12:18:23 UTC`
+📆 Last Updated: `2023-02-28 13:21:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,52 @@ This is top 50 for [Korea](</Korea>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [미식버거](http://twitter.com/search?q=%eb%af%b8%ec%8b%9d%eb%b2%84%ea%b1%b0) | N/A |
-| 2 | [#숨참고점몇개](http://twitter.com/search?q=%23%ec%88%a8%ec%b0%b8%ea%b3%a0%ec%a0%90%eb%aa%87%ea%b0%9c) | N/A |
-| 3 | [닭떡볶이](http://twitter.com/search?q=%eb%8b%ad%eb%96%a1%eb%b3%b6%ec%9d%b4) | N/A |
-| 4 | [#마버블](http://twitter.com/search?q=%23%eb%a7%88%eb%b2%84%eb%b8%94) | N/A |
-| 5 | [언제쯤 탈트](http://twitter.com/search?q=%ec%96%b8%ec%a0%9c%ec%af%a4+%ed%83%88%ed%8a%b8) | N/A |
-| 6 | [#마크버블](http://twitter.com/search?q=%23%eb%a7%88%ed%81%ac%eb%b2%84%eb%b8%94) | N/A |
-| 7 | [#유태양_태어나줘서_곰다](http://twitter.com/search?q=%23%ec%9c%a0%ed%83%9c%ec%96%91_%ed%83%9c%ec%96%b4%eb%82%98%ec%a4%98%ec%84%9c_%ea%b3%b0%eb%8b%a4) | N/A |
-| 8 | [#정답은없어_STAYC투표_더쇼](http://twitter.com/search?q=%23%ec%a0%95%eb%8b%b5%ec%9d%80%ec%97%86%ec%96%b4_STAYC%ed%88%ac%ed%91%9c_%eb%8d%94%ec%87%bc) | N/A |
-| 9 | [그레고르](http://twitter.com/search?q=%ea%b7%b8%eb%a0%88%ea%b3%a0%eb%a5%b4) | N/A |
-| 10 | [새우튀김](http://twitter.com/search?q=%ec%83%88%ec%9a%b0%ed%8a%80%ea%b9%80) | N/A |
-| 11 | [림버스 컴퍼니](http://twitter.com/search?q=%eb%a6%bc%eb%b2%84%ec%8a%a4+%ec%bb%b4%ed%8d%bc%eb%8b%88) | N/A |
-| 12 | [프랭크버거](http://twitter.com/search?q=%ed%94%84%eb%9e%ad%ed%81%ac%eb%b2%84%ea%b1%b0) | N/A |
-| 13 | [모노노케](http://twitter.com/search?q=%eb%aa%a8%eb%85%b8%eb%85%b8%ec%bc%80) | N/A |
-| 14 | [솔로데뷔 4주년](http://twitter.com/search?q=%ec%86%94%eb%a1%9c%eb%8d%b0%eb%b7%94+4%ec%a3%bc%eb%85%84) | N/A |
-| 15 | [인스타 탈퇴](http://twitter.com/search?q=%ec%9d%b8%ec%8a%a4%ed%83%80+%ed%83%88%ed%87%b4) | N/A |
-| 16 | [스냅스 키링](http://twitter.com/search?q=%ec%8a%a4%eb%83%85%ec%8a%a4+%ed%82%a4%eb%a7%81) | N/A |
-| 17 | [거울던전](http://twitter.com/search?q=%ea%b1%b0%ec%9a%b8%eb%8d%98%ec%a0%84) | N/A |
-| 18 | [정구기 인스타](http://twitter.com/search?q=%ec%a0%95%ea%b5%ac%ea%b8%b0+%ec%9d%b8%ec%8a%a4%ed%83%80) | N/A |
-| 19 | [엑소 팬미팅](http://twitter.com/search?q=%ec%97%91%ec%86%8c+%ed%8c%ac%eb%af%b8%ed%8c%85) | N/A |
-| 20 | [쿠로사키 마온](http://twitter.com/search?q=%ec%bf%a0%eb%a1%9c%ec%82%ac%ed%82%a4+%eb%a7%88%ec%98%a8) | N/A |
-| 21 | [파우스트](http://twitter.com/search?q=%ed%8c%8c%ec%9a%b0%ec%8a%a4%ed%8a%b8) | N/A |
-| 22 | [차니 흑발](http://twitter.com/search?q=%ec%b0%a8%eb%8b%88+%ed%9d%91%eb%b0%9c) | N/A |
-| 23 | [진지한 얘기](http://twitter.com/search?q=%ec%a7%84%ec%a7%80%ed%95%9c+%ec%96%98%ea%b8%b0) | N/A |
-| 24 | [거의 셀카](http://twitter.com/search?q=%ea%b1%b0%ec%9d%98+%ec%85%80%ec%b9%b4) | N/A |
-| 25 | [눈물셀카](http://twitter.com/search?q=%eb%88%88%eb%ac%bc%ec%85%80%ec%b9%b4) | N/A |
-| 26 | [비소티콘](http://twitter.com/search?q=%eb%b9%84%ec%86%8c%ed%8b%b0%ec%bd%98) | N/A |
-| 27 | [최애의 속마음](http://twitter.com/search?q=%ec%b5%9c%ec%95%a0%ec%9d%98+%ec%86%8d%eb%a7%88%ec%9d%8c) | N/A |
-| 28 | [최애와 마주](http://twitter.com/search?q=%ec%b5%9c%ec%95%a0%ec%99%80+%eb%a7%88%ec%a3%bc) | N/A |
-| 29 | [캐랜 엠디](http://twitter.com/search?q=%ec%ba%90%eb%9e%9c+%ec%97%a0%eb%94%94) | N/A |
-| 30 | [있는 글자](http://twitter.com/search?q=%ec%9e%88%eb%8a%94+%ea%b8%80%ec%9e%90) | N/A |
-| 31 | [이니스프리](http://twitter.com/search?q=%ec%9d%b4%eb%8b%88%ec%8a%a4%ed%94%84%eb%a6%ac) | N/A |
-| 32 | [마라카스](http://twitter.com/search?q=%eb%a7%88%eb%9d%bc%ec%b9%b4%ec%8a%a4) | N/A |
-| 33 | [나의 변태력](http://twitter.com/search?q=%eb%82%98%ec%9d%98+%eb%b3%80%ed%83%9c%eb%a0%a5) | 나의 변태력 is a Korean phrase that literally translates to "my laziness". It is used to describe someone who is very lazy or unmotivated. |
-| 34 | [꼬들 423](http://twitter.com/search?q=%ea%bc%ac%eb%93%a4+423) | N/A |
-| 35 | [너의 세상](http://twitter.com/search?q=%eb%84%88%ec%9d%98+%ec%84%b8%ec%83%81) | N/A |
-| 36 | [번지점프](http://twitter.com/search?q=%eb%b2%88%ec%a7%80%ec%a0%90%ed%94%84) | N/A |
-| 37 | [로보토미](http://twitter.com/search?q=%eb%a1%9c%eb%b3%b4%ed%86%a0%eb%af%b8) | N/A |
-| 38 | [클린스만](http://twitter.com/search?q=%ed%81%b4%eb%a6%b0%ec%8a%a4%eb%a7%8c) | N/A |
-| 39 | [우리 마크](http://twitter.com/search?q=%ec%9a%b0%eb%a6%ac+%eb%a7%88%ed%81%ac) | N/A |
-| 40 | [어바등 단행본](http://twitter.com/search?q=%ec%96%b4%eb%b0%94%eb%93%b1+%eb%8b%a8%ed%96%89%eb%b3%b8) | N/A |
-| 41 | [송이언니](http://twitter.com/search?q=%ec%86%a1%ec%9d%b4%ec%96%b8%eb%8b%88) | N/A |
-| 42 | [이스마엘](http://twitter.com/search?q=%ec%9d%b4%ec%8a%a4%eb%a7%88%ec%97%98) | N/A |
-| 43 | [대운동회](http://twitter.com/search?q=%eb%8c%80%ec%9a%b4%eb%8f%99%ed%9a%8c) | 대운동회 is a large-scale sports event in Korea. It is usually held once a year and involves athletes from all over the country competing in various sports. The English translation of 대운동회 is "National Sports Festival". |
-| 44 | [주간미션](http://twitter.com/search?q=%ec%a3%bc%ea%b0%84%eb%af%b8%ec%85%98) | N/A |
-| 45 | [어바등 이북](http://twitter.com/search?q=%ec%96%b4%eb%b0%94%eb%93%b1+%ec%9d%b4%eb%b6%81) | N/A |
-| 46 | [정구기 라이브](http://twitter.com/search?q=%ec%a0%95%ea%b5%ac%ea%b8%b0+%eb%9d%bc%ec%9d%b4%eb%b8%8c) | N/A |
-| 47 | [첫글자와 끝글자](http://twitter.com/search?q=%ec%b2%ab%ea%b8%80%ec%9e%90%ec%99%80+%eb%81%9d%ea%b8%80%ec%9e%90) | N/A |
-| 48 | [키링 0원](http://twitter.com/search?q=%ed%82%a4%eb%a7%81+0%ec%9b%90) | N/A |
-| 49 | [국제시장](http://twitter.com/search?q=%ea%b5%ad%ec%a0%9c%ec%8b%9c%ec%9e%a5) | N/A |
+| 1 | [인삼공사](http://twitter.com/search?q=%ec%9d%b8%ec%82%bc%ea%b3%b5%ec%82%ac) | N/A |
+| 2 | [닭떡볶이](http://twitter.com/search?q=%eb%8b%ad%eb%96%a1%eb%b3%b6%ec%9d%b4) | N/A |
+| 3 | [#마버블](http://twitter.com/search?q=%23%eb%a7%88%eb%b2%84%eb%b8%94) | N/A |
+| 4 | [모노노케](http://twitter.com/search?q=%eb%aa%a8%eb%85%b8%eb%85%b8%ec%bc%80) | N/A |
+| 5 | [변태력 측정](http://twitter.com/search?q=%eb%b3%80%ed%83%9c%eb%a0%a5+%ec%b8%a1%ec%a0%95) | 변태력 측정 is a psychological test used to measure the level of perversion in an individual. It is used to assess the degree of sexual deviance and can be used to diagnose various types of paraphilias. The test consists of a series of questions that measure an individual's responses to various sexual stimuli. The results are then used to determine the level of perversion in the individual. In English, it is known as the Perversion Scale Test. |
+| 6 | [스춤 티저](http://twitter.com/search?q=%ec%8a%a4%ec%b6%a4+%ed%8b%b0%ec%a0%80) | N/A |
+| 7 | [#마크버블](http://twitter.com/search?q=%23%eb%a7%88%ed%81%ac%eb%b2%84%eb%b8%94) | N/A |
+| 8 | [비소티콘](http://twitter.com/search?q=%eb%b9%84%ec%86%8c%ed%8b%b0%ec%bd%98) | N/A |
+| 9 | [나의 변태력](http://twitter.com/search?q=%eb%82%98%ec%9d%98+%eb%b3%80%ed%83%9c%eb%a0%a5) | 나의 변태력 is a Korean phrase that literally translates to "my laziness". It is used to describe someone who is very lazy or unmotivated. |
+| 10 | [쿠로사키](http://twitter.com/search?q=%ec%bf%a0%eb%a1%9c%ec%82%ac%ed%82%a4) | N/A |
+| 11 | [도로공사](http://twitter.com/search?q=%eb%8f%84%eb%a1%9c%ea%b3%b5%ec%82%ac) | N/A |
+| 12 | [솔로데뷔 4주년](http://twitter.com/search?q=%ec%86%94%eb%a1%9c%eb%8d%b0%eb%b7%94+4%ec%a3%bc%eb%85%84) | N/A |
+| 13 | [얼마정도](http://twitter.com/search?q=%ec%96%bc%eb%a7%88%ec%a0%95%eb%8f%84) | 얼마정도 is a phrase in Korean that means "about how much" or "approximately how much". It is used to ask someone for an estimate of a certain amount. |
+| 14 | [#ZeeNuNew안녕D5](http://twitter.com/search?q=%23ZeeNuNew%ec%95%88%eb%85%95D5) | N/A |
+| 15 | [아스파라거스](http://twitter.com/search?q=%ec%95%84%ec%8a%a4%ed%8c%8c%eb%9d%bc%ea%b1%b0%ec%8a%a4) | N/A |
+| 16 | [도솔레스](http://twitter.com/search?q=%eb%8f%84%ec%86%94%eb%a0%88%ec%8a%a4) | N/A |
+| 17 | [송이언니](http://twitter.com/search?q=%ec%86%a1%ec%9d%b4%ec%96%b8%eb%8b%88) | N/A |
+| 18 | [엑소 팬미팅](http://twitter.com/search?q=%ec%97%91%ec%86%8c+%ed%8c%ac%eb%af%b8%ed%8c%85) | N/A |
+| 19 | [눈물셀카](http://twitter.com/search?q=%eb%88%88%eb%ac%bc%ec%85%80%ec%b9%b4) | N/A |
+| 20 | [우리 성운](http://twitter.com/search?q=%ec%9a%b0%eb%a6%ac+%ec%84%b1%ec%9a%b4) | N/A |
+| 21 | [번지점프](http://twitter.com/search?q=%eb%b2%88%ec%a7%80%ec%a0%90%ed%94%84) | N/A |
+| 22 | [최애의 선톡](http://twitter.com/search?q=%ec%b5%9c%ec%95%a0%ec%9d%98+%ec%84%a0%ed%86%a1) | N/A |
+| 23 | [#자관_머리색_차이](http://twitter.com/search?q=%23%ec%9e%90%ea%b4%80_%eb%a8%b8%eb%a6%ac%ec%83%89_%ec%b0%a8%ec%9d%b4) | N/A |
+| 24 | [#야채_호불호](http://twitter.com/search?q=%23%ec%95%bc%ec%b1%84_%ed%98%b8%eb%b6%88%ed%98%b8) | N/A |
+| 25 | [우리 마크](http://twitter.com/search?q=%ec%9a%b0%eb%a6%ac+%eb%a7%88%ed%81%ac) | N/A |
+| 26 | [진지한 얘기](http://twitter.com/search?q=%ec%a7%84%ec%a7%80%ed%95%9c+%ec%96%98%ea%b8%b0) | N/A |
+| 27 | [너의 세상](http://twitter.com/search?q=%eb%84%88%ec%9d%98+%ec%84%b8%ec%83%81) | N/A |
+| 28 | [메가박스](http://twitter.com/search?q=%eb%a9%94%ea%b0%80%eb%b0%95%ec%8a%a4) | N/A |
+| 29 | [파프리카](http://twitter.com/search?q=%ed%8c%8c%ed%94%84%eb%a6%ac%ec%b9%b4) | N/A |
+| 30 | [거울던전](http://twitter.com/search?q=%ea%b1%b0%ec%9a%b8%eb%8d%98%ec%a0%84) | N/A |
+| 31 | [미식버거](http://twitter.com/search?q=%eb%af%b8%ec%8b%9d%eb%b2%84%ea%b1%b0) | N/A |
+| 32 | [포타 연성 문장](http://twitter.com/search?q=%ed%8f%ac%ed%83%80+%ec%97%b0%ec%84%b1+%eb%ac%b8%ec%9e%a5) | N/A |
+| 33 | [최애의 속마음](http://twitter.com/search?q=%ec%b5%9c%ec%95%a0%ec%9d%98+%ec%86%8d%eb%a7%88%ec%9d%8c) | N/A |
+| 34 | [최애와 마주](http://twitter.com/search?q=%ec%b5%9c%ec%95%a0%ec%99%80+%eb%a7%88%ec%a3%bc) | N/A |
+| 35 | [대리티켓팅](http://twitter.com/search?q=%eb%8c%80%eb%a6%ac%ed%8b%b0%ec%bc%93%ed%8c%85) | N/A |
+| 36 | [인스타 탈퇴](http://twitter.com/search?q=%ec%9d%b8%ec%8a%a4%ed%83%80+%ed%83%88%ed%87%b4) | N/A |
+| 37 | [정구기 인스타](http://twitter.com/search?q=%ec%a0%95%ea%b5%ac%ea%b8%b0+%ec%9d%b8%ec%8a%a4%ed%83%80) | N/A |
+| 38 | [프랭크버거](http://twitter.com/search?q=%ed%94%84%eb%9e%ad%ed%81%ac%eb%b2%84%ea%b1%b0) | N/A |
+| 39 | [주간미션](http://twitter.com/search?q=%ec%a3%bc%ea%b0%84%eb%af%b8%ec%85%98) | N/A |
+| 40 | [캐랜 엠디](http://twitter.com/search?q=%ec%ba%90%eb%9e%9c+%ec%97%a0%eb%94%94) | N/A |
+| 41 | [마라카스](http://twitter.com/search?q=%eb%a7%88%eb%9d%bc%ec%b9%b4%ec%8a%a4) | N/A |
+| 42 | [#하늘통신](http://twitter.com/search?q=%23%ed%95%98%eb%8a%98%ed%86%b5%ec%8b%a0) | N/A |
+| 43 | [#TeddyBear](http://twitter.com/search?q=%23TeddyBear) | N/A |
+| 44 | [#숨참고점몇개](http://twitter.com/search?q=%23%ec%88%a8%ec%b0%b8%ea%b3%a0%ec%a0%90%eb%aa%87%ea%b0%9c) | N/A |
+| 45 | [#스테이씨](http://twitter.com/search?q=%23%ec%8a%a4%ed%85%8c%ec%9d%b4%ec%94%a8) | N/A |
+| 46 | [#하성운](http://twitter.com/search?q=%23%ed%95%98%ec%84%b1%ec%9a%b4) | N/A |
 
 
 

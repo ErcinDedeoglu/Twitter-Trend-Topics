@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cleveland
 
-📆 Last Updated: `2023-02-28 12:18:38 UTC`
+📆 Last Updated: `2023-02-28 13:21:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 2 | [Miquella](http://twitter.com/search?q=Miquella) | N/A |
-| 3 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
+| 1 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 2 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
+| 3 | [#ApoxDiorAW2023](http://twitter.com/search?q=%23ApoxDiorAW2023) | N/A |
 | 4 | [Elden Ring DLC](http://twitter.com/search?q=Elden+Ring+DLC) | N/A |
-| 5 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
-| 6 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 7 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
-| 8 | [#Wordle619](http://twitter.com/search?q=%23Wordle619) | N/A |
-| 9 | [Daily Quordle 400](http://twitter.com/search?q=Daily+Quordle+400) | N/A |
+| 5 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 6 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
+| 7 | [Miquella](http://twitter.com/search?q=Miquella) | N/A |
+| 8 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 9 | [#TuesdayThoughts](http://twitter.com/search?q=%23TuesdayThoughts) | N/A |
 | 10 | [Nudy](http://twitter.com/search?q=Nudy) | N/A |
-| 11 | [Marika](http://twitter.com/search?q=Marika) | N/A |
-| 12 | [Torrent](http://twitter.com/search?q=Torrent) | N/A |
-| 13 | [David Hogg](http://twitter.com/search?q=David+Hogg) | N/A |
+| 11 | [Daily Quordle 400](http://twitter.com/search?q=Daily+Quordle+400) | N/A |
+| 12 | [David Hogg](http://twitter.com/search?q=David+Hogg) | N/A |
+| 13 | [#Wordle619](http://twitter.com/search?q=%23Wordle619) | N/A |
 | 14 | [Shadow of the Erdtree](http://twitter.com/search?q=Shadow+of+the+Erdtree) | N/A |
-| 15 | [TrustWallet](http://twitter.com/search?q=TrustWallet) | N/A |
-| 16 | [#cherish](http://twitter.com/search?q=%23cherish) | N/A |
-| 17 | [Murdoch](http://twitter.com/search?q=Murdoch) | N/A |
-| 18 | [Lita](http://twitter.com/search?q=Lita) | N/A |
-| 19 | [Player of the Matchday](http://twitter.com/search?q=Player+of+the+Matchday) | N/A |
-| 20 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 21 | [Tom Sizemore](http://twitter.com/search?q=Tom+Sizemore) | N/A |
-| 22 | [Pete Davidson](http://twitter.com/search?q=Pete+Davidson) | Pete Davidson is an American comedian, actor, and writer. He is best known for being a cast member on Saturday Night Live since 2014. He has also appeared in films such as Big Time Adolescence and The King of Staten Island. |
-| 23 | [Becky](http://twitter.com/search?q=Becky) | N/A |
-| 24 | [G Herbo](http://twitter.com/search?q=G+Herbo) | N/A |
-| 25 | [Parkland](http://twitter.com/search?q=Parkland) | N/A |
-| 26 | [Weverse](http://twitter.com/search?q=Weverse) | Weverse is a social media platform created by the South Korean entertainment company Big Hit Entertainment. It is designed to connect fans with artists and allow them to interact with each other. The name Weverse is derived from the words “we” and “universe”, representing the idea of creating a universe where fans and artists can come together. |
-| 27 | [Trish](http://twitter.com/search?q=Trish) | N/A |
-| 28 | [Platinum Chanel](http://twitter.com/search?q=Platinum+Chanel) | N/A |
-| 29 | [Bill Gates](http://twitter.com/search?q=Bill+Gates) | N/A |
-| 30 | [Proud Boys](http://twitter.com/search?q=Proud+Boys) | N/A |
-| 31 | [Gold Alpinas](http://twitter.com/search?q=Gold+Alpinas) | N/A |
-| 32 | [Omos](http://twitter.com/search?q=Omos) | N/A |
-| 33 | [Bray](http://twitter.com/search?q=Bray) | Bray is a verb meaning to make a loud, harsh sound, usually like the sound of an animal or machine. It is often used to describe the sound made by a donkey or mule. |
-| 34 | [James Corden](http://twitter.com/search?q=James+Corden) | James Corden is an English actor, comedian, writer, and television host. He is best known for hosting The Late Late Show with James Corden on CBS. He has also starred in films such as Into the Woods and Peter Rabbit. |
-| 35 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
-| 36 | [Jared Kushner](http://twitter.com/search?q=Jared+Kushner) | N/A |
-| 37 | [Edward VIII](http://twitter.com/search?q=Edward+VIII) | N/A |
-| 38 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 39 | [Bennett](http://twitter.com/search?q=Bennett) | N/A |
+| 15 | [Player of the Matchday](http://twitter.com/search?q=Player+of+the+Matchday) | N/A |
+| 16 | [Murdoch](http://twitter.com/search?q=Murdoch) | N/A |
+| 17 | [Marika](http://twitter.com/search?q=Marika) | N/A |
+| 18 | [Torrent](http://twitter.com/search?q=Torrent) | N/A |
+| 19 | [Daron Payne](http://twitter.com/search?q=Daron+Payne) | N/A |
+| 20 | [Colbert](http://twitter.com/search?q=Colbert) | N/A |
+| 21 | [Election Day](http://twitter.com/search?q=Election+Day) | N/A |
+| 22 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
+| 23 | [CNN and MSNBC](http://twitter.com/search?q=CNN+and+MSNBC) | N/A |
+| 24 | [Maxine Waters](http://twitter.com/search?q=Maxine+Waters) | N/A |
+| 25 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
+| 26 | [Gherbo](http://twitter.com/search?q=Gherbo) | N/A |
+| 27 | [Tom Sizemore](http://twitter.com/search?q=Tom+Sizemore) | N/A |
+| 28 | [Parkland](http://twitter.com/search?q=Parkland) | N/A |
+| 29 | [Lita](http://twitter.com/search?q=Lita) | N/A |
+| 30 | [Lori Lightfoot](http://twitter.com/search?q=Lori+Lightfoot) | N/A |
+| 31 | [Dan Snyder](http://twitter.com/search?q=Dan+Snyder) | N/A |
+| 32 | [Platinum Chanel](http://twitter.com/search?q=Platinum+Chanel) | N/A |
+| 33 | [Dr Fauci](http://twitter.com/search?q=Dr+Fauci) | N/A |
+| 34 | [Becky](http://twitter.com/search?q=Becky) | N/A |
+| 35 | [Pete Davidson](http://twitter.com/search?q=Pete+Davidson) | Pete Davidson is an American comedian, actor, and writer. He is best known for being a cast member on Saturday Night Live since 2014. He has also appeared in films such as Big Time Adolescence and The King of Staten Island. |
+| 36 | [Janet Yellen](http://twitter.com/search?q=Janet+Yellen) | N/A |
+| 37 | [Bill Gates](http://twitter.com/search?q=Bill+Gates) | N/A |
+| 38 | [Trish](http://twitter.com/search?q=Trish) | N/A |
+| 39 | [Gold Alpinas](http://twitter.com/search?q=Gold+Alpinas) | N/A |
 | 40 | [Jim Acosta](http://twitter.com/search?q=Jim+Acosta) | N/A |
-| 41 | [Damage CTRL](http://twitter.com/search?q=Damage+CTRL) | N/A |
-| 42 | [Candace](http://twitter.com/search?q=Candace) | N/A |
-| 43 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
-| 44 | [Lesnar](http://twitter.com/search?q=Lesnar) | Lesnar is a surname of German origin. It is derived from the Middle High German word "lesen" which means "to read". In English, it can be translated to mean "reader". |
-| 45 | [Queen Elizabeth II](http://twitter.com/search?q=Queen+Elizabeth+II) | N/A |
-| 46 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
-| 47 | [#iwasanenglishmajor](http://twitter.com/search?q=%23iwasanenglishmajor) | N/A |
-| 48 | [#RareDiseaseDay](http://twitter.com/search?q=%23RareDiseaseDay) | N/A |
-| 49 | [#StillNotBaeBday](http://twitter.com/search?q=%23StillNotBaeBday) | N/A |
-| 50 | [#electionresults2023](http://twitter.com/search?q=%23electionresults2023) | N/A |
+| 41 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
+| 42 | [Proud Boys](http://twitter.com/search?q=Proud+Boys) | N/A |
+| 43 | [Weverse](http://twitter.com/search?q=Weverse) | Weverse is a social media platform created by the South Korean entertainment company Big Hit Entertainment. It is designed to connect fans with artists and allow them to interact with each other. The name Weverse is derived from the words “we” and “universe”, representing the idea of creating a universe where fans and artists can come together. |
+| 44 | [Heineken](http://twitter.com/search?q=Heineken) | N/A |
+| 45 | [Jared Kushner](http://twitter.com/search?q=Jared+Kushner) | N/A |
+| 46 | [Damage CTRL](http://twitter.com/search?q=Damage+CTRL) | N/A |
+| 47 | [Fox "News"](http://twitter.com/search?q=Fox+%22News%22) | N/A |
+| 48 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
+| 49 | [Bray](http://twitter.com/search?q=Bray) | Bray is a verb meaning to make a loud, harsh sound, usually like the sound of an animal or machine. It is often used to describe the sound made by a donkey or mule. |
+| 50 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
 
 
 

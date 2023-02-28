@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cebu City
 
-📆 Last Updated: `2023-02-28 12:18:25 UTC`
+📆 Last Updated: `2023-02-28 13:21:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,50 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 2 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
-| 3 | [#EXOSCinMNL](http://twitter.com/search?q=%23EXOSCinMNL) | N/A |
-| 4 | [WT PERFORMANCE VIDEO](http://twitter.com/search?q=WT+PERFORMANCE+VIDEO) | N/A |
-| 5 | [#STREAM_WILD_TONIGHT](http://twitter.com/search?q=%23STREAM_WILD_TONIGHT) | N/A |
-| 6 | [SeChan](http://twitter.com/search?q=SeChan) | N/A |
-| 7 | [8 ml heroes](http://twitter.com/search?q=8+ml+heroes) | N/A |
-| 8 | [PH SCAMMER](http://twitter.com/search?q=PH+SCAMMER) | N/A |
-| 9 | [Liza](http://twitter.com/search?q=Liza) | N/A |
-| 10 | [#TiffanyxWin](http://twitter.com/search?q=%23TiffanyxWin) | N/A |
-| 11 | [#테니생일_축하축하_하네요](http://twitter.com/search?q=%23%ed%85%8c%eb%8b%88%ec%83%9d%ec%9d%bc_%ec%b6%95%ed%95%98%ec%b6%95%ed%95%98_%ed%95%98%eb%84%a4%ec%9a%94) | N/A |
-| 12 | [fantagio](http://twitter.com/search?q=fantagio) | N/A |
-| 13 | [#PVL2023](http://twitter.com/search?q=%23PVL2023) | #PVL2023 is a hashtag used to promote the 2023 Pan-American Volleyball League. It is used to promote the event and to connect with fans and sponsors. |
-| 14 | [Sehun](http://twitter.com/search?q=Sehun) | N/A |
-| 15 | [GAME ON BGYO OUR MVP](http://twitter.com/search?q=GAME+ON+BGYO+OUR+MVP) | N/A |
-| 16 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
-| 17 | [LATE LATE SHOW WITH TXT](http://twitter.com/search?q=LATE+LATE+SHOW+WITH+TXT) | N/A |
-| 18 | [Accepting Christ and His Words](http://twitter.com/search?q=Accepting+Christ+and+His+Words) | N/A |
-| 19 | [Lorie](http://twitter.com/search?q=Lorie) | N/A |
-| 20 | [Fino](http://twitter.com/search?q=Fino) | N/A |
-| 21 | [Bennett](http://twitter.com/search?q=Bennett) | N/A |
-| 22 | [VXON GOES TO USA](http://twitter.com/search?q=VXON+GOES+TO+USA) | N/A |
-| 23 | [TREASURE in Shopee](http://twitter.com/search?q=TREASURE+in+Shopee) | N/A |
-| 24 | [Park Minhyuk](http://twitter.com/search?q=Park+Minhyuk) | N/A |
-| 25 | [BPPH](http://twitter.com/search?q=BPPH) | N/A |
-| 26 | [Congrats Creamline](http://twitter.com/search?q=Congrats+Creamline) | N/A |
-| 27 | [PIE Miss You Prince](http://twitter.com/search?q=PIE+Miss+You+Prince) | N/A |
-| 28 | [TENLEE 27th BDAY](http://twitter.com/search?q=TENLEE+27th+BDAY) | N/A |
-| 29 | [happy birthday ten](http://twitter.com/search?q=happy+birthday+ten) | N/A |
-| 30 | [SPECIAL DJ SEULGI](http://twitter.com/search?q=SPECIAL+DJ+SEULGI) | N/A |
-| 31 | [Akari](http://twitter.com/search?q=Akari) | N/A |
-| 32 | [NAIA](http://twitter.com/search?q=NAIA) | N/A |
-| 33 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 34 | [mark lee](http://twitter.com/search?q=mark+lee) | Mark Lee is a Korean name, and it does not have a specific meaning in English. |
-| 35 | [Jema](http://twitter.com/search?q=Jema) | N/A |
-| 36 | [BLAME IT ON ME](http://twitter.com/search?q=BLAME+IT+ON+ME) | N/A |
-| 37 | [LEE HEESEUNG](http://twitter.com/search?q=LEE+HEESEUNG) | Lee Heeseung is a South Korean singer, songwriter, and actor. He debuted as a member of the boy group N.Flying in 2013 and has since released several solo albums. The name Lee Heeseung translates to "shining star" in English. |
-| 38 | [gma7 widescreen format](http://twitter.com/search?q=gma7+widescreen+format) | N/A |
-| 39 | [Rocco](http://twitter.com/search?q=Rocco) | N/A |
-| 40 | [I VOLUNTEER](http://twitter.com/search?q=I+VOLUNTEER) | N/A |
-| 41 | [HWANG MINHYUN ON YST](http://twitter.com/search?q=HWANG+MINHYUN+ON+YST) | N/A |
-| 42 | [Terry](http://twitter.com/search?q=Terry) | N/A |
-| 43 | [Araneta](http://twitter.com/search?q=Araneta) | N/A |
-| 44 | [Yoshi](http://twitter.com/search?q=Yoshi) | N/A |
-| 45 | [JOKENxJOKERS Compl3xWild2night](http://twitter.com/search?q=JOKENxJOKERS+Compl3xWild2night) | N/A |
-| 46 | [Here Lies Love](http://twitter.com/search?q=Here+Lies+Love) | N/A |
-| 47 | [brownlee](http://twitter.com/search?q=brownlee) | N/A |
-| 48 | [ChiCo COMPLICATIONS](http://twitter.com/search?q=ChiCo+COMPLICATIONS) | N/A |
-| 49 | [Benny](http://twitter.com/search?q=Benny) | N/A |
-| 50 | [EXO-L](http://twitter.com/search?q=EXO-L) | N/A |
+| 1 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
+| 2 | [#STREAM_WILD_TONIGHT](http://twitter.com/search?q=%23STREAM_WILD_TONIGHT) | N/A |
+| 3 | [WT PERFORMANCE VIDEO](http://twitter.com/search?q=WT+PERFORMANCE+VIDEO) | N/A |
+| 4 | [#UrdujaItinakda](http://twitter.com/search?q=%23UrdujaItinakda) | N/A |
+| 5 | [#EXOSCinMNL](http://twitter.com/search?q=%23EXOSCinMNL) | N/A |
+| 6 | [Inang](http://twitter.com/search?q=Inang) | Inang is a Tagalog word that means "mother." |
+| 7 | [SeChan](http://twitter.com/search?q=SeChan) | N/A |
+| 8 | [#ShowmeloveTheseriesEP1](http://twitter.com/search?q=%23ShowmeloveTheseriesEP1) | N/A |
+| 9 | [#DLFindingMila](http://twitter.com/search?q=%23DLFindingMila) | N/A |
+| 10 | [Fantagio](http://twitter.com/search?q=Fantagio) | N/A |
+| 11 | [ChiCo COMPLICATIONS](http://twitter.com/search?q=ChiCo+COMPLICATIONS) | N/A |
+| 12 | [Akari](http://twitter.com/search?q=Akari) | N/A |
+| 13 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 14 | [Accepting Christ and His Words](http://twitter.com/search?q=Accepting+Christ+and+His+Words) | N/A |
+| 15 | [Sehun](http://twitter.com/search?q=Sehun) | N/A |
+| 16 | [VXON GOES TO USA](http://twitter.com/search?q=VXON+GOES+TO+USA) | N/A |
+| 17 | [Maya](http://twitter.com/search?q=Maya) | N/A |
+| 18 | [Araneta](http://twitter.com/search?q=Araneta) | N/A |
+| 19 | [Chanyeol](http://twitter.com/search?q=Chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
+| 20 | [Circle 1](http://twitter.com/search?q=Circle+1) | N/A |
+| 21 | [Yoshi](http://twitter.com/search?q=Yoshi) | N/A |
+| 22 | [Jema](http://twitter.com/search?q=Jema) | N/A |
+| 23 | [Gcash](http://twitter.com/search?q=Gcash) | N/A |
+| 24 | [ITZY](http://twitter.com/search?q=ITZY) | N/A |
+| 25 | [Fino](http://twitter.com/search?q=Fino) | N/A |
+| 26 | [Bennett](http://twitter.com/search?q=Bennett) | N/A |
+| 27 | [mark lee](http://twitter.com/search?q=mark+lee) | Mark Lee is a Korean name, and it does not have a specific meaning in English. |
+| 28 | [#NeverLetMeGoSeriesFinalEP](http://twitter.com/search?q=%23NeverLetMeGoSeriesFinalEP) | N/A |
+| 29 | [#TiffanyxWin](http://twitter.com/search?q=%23TiffanyxWin) | N/A |
+| 30 | [#TiffanyAndCo](http://twitter.com/search?q=%23TiffanyAndCo) | N/A |
+| 31 | [#AbolishFrats](http://twitter.com/search?q=%23AbolishFrats) | N/A |
+| 32 | [#JoChard](http://twitter.com/search?q=%23JoChard) | N/A |
+| 33 | [#PVLAFC2023](http://twitter.com/search?q=%23PVLAFC2023) | N/A |
+| 34 | [#CSEntAllStarConcertInUSA](http://twitter.com/search?q=%23CSEntAllStarConcertInUSA) | N/A |
+| 35 | [#WWIW21](http://twitter.com/search?q=%23WWIW21) | N/A |
+| 36 | [#NYLONManilaBBBAwards](http://twitter.com/search?q=%23NYLONManilaBBBAwards) | N/A |
+| 37 | [#HORI7ON](http://twitter.com/search?q=%23HORI7ON) | N/A |
+| 38 | [#UnbreakMyHeart](http://twitter.com/search?q=%23UnbreakMyHeart) | N/A |
+| 39 | [#DiorAW23](http://twitter.com/search?q=%23DiorAW23) | N/A |
+| 40 | [#호라이즌](http://twitter.com/search?q=%23%ed%98%b8%eb%9d%bc%ec%9d%b4%ec%a6%8c) | N/A |
+| 41 | [#ElijahCanlas](http://twitter.com/search?q=%23ElijahCanlas) | N/A |
+| 42 | [#NoToJeepneyPhaseout](http://twitter.com/search?q=%23NoToJeepneyPhaseout) | N/A |
+| 43 | [#BrightSaturdayNight](http://twitter.com/search?q=%23BrightSaturdayNight) | N/A |
+| 44 | [#BOYCOTTEBxGMA720](http://twitter.com/search?q=%23BOYCOTTEBxGMA720) | N/A |
 
 
 

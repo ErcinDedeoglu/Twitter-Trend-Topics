@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Porto Alegre
 
-📆 Last Updated: `2023-02-28 12:18:09 UTC`
+📆 Last Updated: `2023-02-28 13:21:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,50 @@ This is top 50 for [Brazil](</Brazil>)
 | 3 | [Bruna](http://twitter.com/search?q=Bruna) | Bruna is a Portuguese word meaning "brown". It is often used to describe someone or something that has a brown color. |
 | 4 | [Domitila](http://twitter.com/search?q=Domitila) | Domitila is a Spanish female name derived from the Latin Domitius, meaning “tamed” or “subdued”. It is also a variant of the Roman name Domitia, which means “lordly” or “powerful”. |
 | 5 | [Guimê](http://twitter.com/search?q=Guim%c3%aa) | Guimê is a Brazilian term used to describe a person who is strong, brave, and determined. It can also be used to describe someone who is resilient and able to overcome difficult situations. In English, it could be translated as "fearless" or "unstoppable". |
-| 6 | [Amanda](http://twitter.com/search?q=Amanda) | Amanda is a female given name derived from the Latin word for "loveable" or "worthy of love". It is often used as a short form of the name Amandine, which is the French form of the Latin name Amanda. |
+| 6 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
 | 7 | [UFMG](http://twitter.com/search?q=UFMG) | N/A |
-| 8 | [Miquella](http://twitter.com/search?q=Miquella) | N/A |
-| 9 | [#BDSP](http://twitter.com/search?q=%23BDSP) | N/A |
-| 10 | [JEON JUNGKOOK](http://twitter.com/search?q=JEON+JUNGKOOK) | Jeon Jungkook is the stage name of Jungkook, a South Korean singer, songwriter, and dancer. He is a member of the boy band BTS. The name Jeon Jungkook means "golden nation" in English. |
-| 11 | [Parabénsss](http://twitter.com/search?q=Parab%c3%a9nsss) | N/A |
-| 12 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
-| 13 | [sisu](http://twitter.com/search?q=sisu) | N/A |
+| 8 | [Parabénssss](http://twitter.com/search?q=Parab%c3%a9nssss) | N/A |
+| 9 | [sisu](http://twitter.com/search?q=sisu) | N/A |
+| 10 | [Miquella](http://twitter.com/search?q=Miquella) | N/A |
+| 11 | [#NeverLetMeGoSeriesFinalEP](http://twitter.com/search?q=%23NeverLetMeGoSeriesFinalEP) | N/A |
+| 12 | [#BDSP](http://twitter.com/search?q=%23BDSP) | N/A |
+| 13 | [#Encontro](http://twitter.com/search?q=%23Encontro) | N/A |
 | 14 | [DLC de Elden Ring](http://twitter.com/search?q=DLC+de+Elden+Ring) | N/A |
-| 15 | [HOJE TEM FLAMENGO](http://twitter.com/search?q=HOJE+TEM+FLAMENGO) | "HOJE TEM FLAMENGO" is a phrase in Portuguese that translates to "Flamengo plays today" in English. It is used to express excitement and enthusiasm for a soccer match involving the Brazilian team Flamengo. |
-| 16 | [Bento Gonçalves](http://twitter.com/search?q=Bento+Gon%c3%a7alves) | N/A |
-| 17 | [União Brasil](http://twitter.com/search?q=Uni%c3%a3o+Brasil) | N/A |
-| 18 | [UFRJ](http://twitter.com/search?q=UFRJ) | N/A |
-| 19 | [Avenida Brasil](http://twitter.com/search?q=Avenida+Brasil) | N/A |
-| 20 | [Benedetto](http://twitter.com/search?q=Benedetto) | Benedetto is an Italian name meaning "blessed". It is derived from the Latin word "benedictus", which means "blessed". |
-| 21 | [ufes](http://twitter.com/search?q=ufes) | N/A |
-| 22 | [Juscelino Filho](http://twitter.com/search?q=Juscelino+Filho) | N/A |
-| 23 | [Campari](http://twitter.com/search?q=Campari) | N/A |
-| 24 | [Rioru](http://twitter.com/search?q=Rioru) | N/A |
-| 25 | [UFSCar](http://twitter.com/search?q=UFSCar) | N/A |
-| 26 | [Petrobras](http://twitter.com/search?q=Petrobras) | N/A |
-| 27 | [UFOP](http://twitter.com/search?q=UFOP) | N/A |
-| 28 | [EU PASSEI](http://twitter.com/search?q=EU+PASSEI) | N/A |
-| 29 | [Justus](http://twitter.com/search?q=Justus) | N/A |
-| 30 | [UFBA](http://twitter.com/search?q=UFBA) | N/A |
-| 31 | [Werg](http://twitter.com/search?q=Werg) | N/A |
-| 32 | [Federal](http://twitter.com/search?q=Federal) | N/A |
-| 33 | [Guedes](http://twitter.com/search?q=Guedes) | N/A |
-| 34 | [ProUni](http://twitter.com/search?q=ProUni) | N/A |
-| 35 | [UFRN](http://twitter.com/search?q=UFRN) | N/A |
-| 36 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
-| 37 | [#LulaLadrao](http://twitter.com/search?q=%23LulaLadrao) | N/A |
-| 38 | [Índias](http://twitter.com/search?q=%c3%8dndias) | N/A |
-| 39 | [Moraes](http://twitter.com/search?q=Moraes) | N/A |
-| 40 | [Obrigadoo](http://twitter.com/search?q=Obrigadoo) | N/A |
-| 41 | [Tombense](http://twitter.com/search?q=Tombense) | N/A |
-| 42 | [Abacaxi](http://twitter.com/search?q=Abacaxi) | N/A |
-| 43 | [Melancia](http://twitter.com/search?q=Melancia) | N/A |
-| 44 | [Obrigadaaaaa](http://twitter.com/search?q=Obrigadaaaaa) | N/A |
-| 45 | [Salve Jorge](http://twitter.com/search?q=Salve+Jorge) | N/A |
-| 46 | [EU SUBE](http://twitter.com/search?q=EU+SUBE) | N/A |
-| 47 | [autoavaliação honesta](http://twitter.com/search?q=autoavalia%c3%a7%c3%a3o+honesta) | N/A |
-| 48 | [Imagine Dragons](http://twitter.com/search?q=Imagine+Dragons) | N/A |
-| 49 | [Destino](http://twitter.com/search?q=Destino) | N/A |
-| 50 | [Pantanal](http://twitter.com/search?q=Pantanal) | N/A |
+| 15 | [União Brasil](http://twitter.com/search?q=Uni%c3%a3o+Brasil) | N/A |
+| 16 | [UFRJ](http://twitter.com/search?q=UFRJ) | N/A |
+| 17 | [Bento Gonçalves](http://twitter.com/search?q=Bento+Gon%c3%a7alves) | N/A |
+| 18 | [Juscelino Filho](http://twitter.com/search?q=Juscelino+Filho) | N/A |
+| 19 | [Shadow of the Erdtree](http://twitter.com/search?q=Shadow+of+the+Erdtree) | N/A |
+| 20 | [ASTRO](http://twitter.com/search?q=ASTRO) | N/A |
+| 21 | [JEON JUNGKOOK](http://twitter.com/search?q=JEON+JUNGKOOK) | Jeon Jungkook is the stage name of Jungkook, a South Korean singer, songwriter, and dancer. He is a member of the boy band BTS. The name Jeon Jungkook means "golden nation" in English. |
+| 22 | [Campari](http://twitter.com/search?q=Campari) | N/A |
+| 23 | [Patrícia Poeta](http://twitter.com/search?q=Patr%c3%adcia+Poeta) | N/A |
+| 24 | [Marika](http://twitter.com/search?q=Marika) | N/A |
+| 25 | [HOJE TEM FLAMENGO](http://twitter.com/search?q=HOJE+TEM+FLAMENGO) | "HOJE TEM FLAMENGO" is a phrase in Portuguese that translates to "Flamengo plays today" in English. It is used to express excitement and enthusiasm for a soccer match involving the Brazilian team Flamengo. |
+| 26 | [ProUni](http://twitter.com/search?q=ProUni) | N/A |
+| 27 | [Obrigadaaaa](http://twitter.com/search?q=Obrigadaaaa) | N/A |
+| 28 | [ufes](http://twitter.com/search?q=ufes) | N/A |
+| 29 | [UFSCar](http://twitter.com/search?q=UFSCar) | N/A |
+| 30 | [Doenças Raras](http://twitter.com/search?q=Doen%c3%a7as+Raras) | N/A |
+| 31 | [Avenida Brasil](http://twitter.com/search?q=Avenida+Brasil) | N/A |
+| 32 | [UFOP](http://twitter.com/search?q=UFOP) | N/A |
+| 33 | [Benedetto](http://twitter.com/search?q=Benedetto) | Benedetto is an Italian name meaning "blessed". It is derived from the Latin word "benedictus", which means "blessed". |
+| 34 | [Comunicações](http://twitter.com/search?q=Comunica%c3%a7%c3%b5es) | N/A |
+| 35 | [Petrobras](http://twitter.com/search?q=Petrobras) | N/A |
+| 36 | [Justiça Militar](http://twitter.com/search?q=Justi%c3%a7a+Militar) | N/A |
+| 37 | [Werg](http://twitter.com/search?q=Werg) | N/A |
+| 38 | [Moraes](http://twitter.com/search?q=Moraes) | N/A |
+| 39 | [Rioru](http://twitter.com/search?q=Rioru) | N/A |
+| 40 | [Ministro de Lula](http://twitter.com/search?q=Ministro+de+Lula) | N/A |
+| 41 | [Federal](http://twitter.com/search?q=Federal) | N/A |
+| 42 | [Obrigadoo](http://twitter.com/search?q=Obrigadoo) | N/A |
+| 43 | [UFBA](http://twitter.com/search?q=UFBA) | N/A |
+| 44 | [UFPE](http://twitter.com/search?q=UFPE) | N/A |
+| 45 | [VAMOS FLAMENGO](http://twitter.com/search?q=VAMOS+FLAMENGO) | N/A |
+| 46 | [Haddad](http://twitter.com/search?q=Haddad) | N/A |
+| 47 | [Gasolina](http://twitter.com/search?q=Gasolina) | N/A |
+| 48 | [Melancia](http://twitter.com/search?q=Melancia) | N/A |
+| 49 | [#FORACARADESAPATO](http://twitter.com/search?q=%23FORACARADESAPATO) | N/A |
 
 
 

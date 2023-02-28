@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Germany
 
-📆 Last Updated: `2023-02-28 12:18:48 UTC`
+📆 Last Updated: `2023-02-28 13:21:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Germany
 | ------- | ------------ | ------------ |
 | 1 | [#hartaberfair](http://twitter.com/search?q=%23hartaberfair) | #hartaberfair is a German phrase that translates to "fair and square" or "just and fair". It is used to express the idea of fairness and justice in a situation. |
 | 2 | [#BETCrypto](http://twitter.com/search?q=%23BETCrypto) | N/A |
-| 3 | [#eFuels](http://twitter.com/search?q=%23eFuels) | N/A |
-| 4 | [Vergewaltigungen](http://twitter.com/search?q=Vergewaltigungen) | N/A |
+| 3 | [Vergewaltigungen](http://twitter.com/search?q=Vergewaltigungen) | N/A |
+| 4 | [#eFuels](http://twitter.com/search?q=%23eFuels) | N/A |
 | 5 | [Meute](http://twitter.com/search?q=Meute) | N/A |
 | 6 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
 | 7 | [start in die woche](http://twitter.com/search?q=start+in+die+woche) | N/A |
-| 8 | [Moderator](http://twitter.com/search?q=Moderator) | N/A |
-| 9 | [Heizungen](http://twitter.com/search?q=Heizungen) | N/A |
-| 10 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
-| 11 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
-| 12 | [Verbote](http://twitter.com/search?q=Verbote) | N/A |
-| 13 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
-| 14 | [Senioren](http://twitter.com/search?q=Senioren) | N/A |
-| 15 | [#PokemonPresents](http://twitter.com/search?q=%23PokemonPresents) | N/A |
-| 16 | [Kriegsverbrechen](http://twitter.com/search?q=Kriegsverbrechen) | N/A |
+| 8 | [Heizungen](http://twitter.com/search?q=Heizungen) | N/A |
+| 9 | [Moderator](http://twitter.com/search?q=Moderator) | N/A |
+| 10 | [Verbote](http://twitter.com/search?q=Verbote) | N/A |
+| 11 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
+| 12 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
+| 13 | [Kriegsverbrechen](http://twitter.com/search?q=Kriegsverbrechen) | N/A |
+| 14 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
+| 15 | [#firstdateshotel](http://twitter.com/search?q=%23firstdateshotel) | N/A |
+| 16 | [Senioren](http://twitter.com/search?q=Senioren) | N/A |
 | 17 | [Wärmepumpen](http://twitter.com/search?q=W%c3%a4rmepumpen) | N/A |
 | 18 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 19 | [Trinkgeld](http://twitter.com/search?q=Trinkgeld) | N/A |
-| 20 | [Lumpenpazifisten](http://twitter.com/search?q=Lumpenpazifisten) | N/A |
-| 21 | [Polarlichter](http://twitter.com/search?q=Polarlichter) | N/A |
-| 22 | [Gutachten](http://twitter.com/search?q=Gutachten) | N/A |
-| 23 | [Boris Johnson](http://twitter.com/search?q=Boris+Johnson) | N/A |
-| 24 | [Kirche](http://twitter.com/search?q=Kirche) | N/A |
-| 25 | [Elden Ring DLC](http://twitter.com/search?q=Elden+Ring+DLC) | N/A |
-| 26 | [Schönen Dienstag](http://twitter.com/search?q=Sch%c3%b6nen+Dienstag) | N/A |
-| 27 | [Markt](http://twitter.com/search?q=Markt) | N/A |
-| 28 | [Sicherungsverwahrung](http://twitter.com/search?q=Sicherungsverwahrung) | N/A |
-| 29 | [Kraftstoffe](http://twitter.com/search?q=Kraftstoffe) | N/A |
-| 30 | [Strom](http://twitter.com/search?q=Strom) | N/A |
-| 31 | [Ernährung](http://twitter.com/search?q=Ern%c3%a4hrung) | N/A |
-| 32 | [Lebensmittel](http://twitter.com/search?q=Lebensmittel) | N/A |
-| 33 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
-| 34 | [Happy 28th](http://twitter.com/search?q=Happy+28th) | N/A |
+| 20 | [polarlichter](http://twitter.com/search?q=polarlichter) | N/A |
+| 21 | [Gutachten](http://twitter.com/search?q=Gutachten) | N/A |
+| 22 | [Boris Johnson](http://twitter.com/search?q=Boris+Johnson) | N/A |
+| 23 | [Kirche](http://twitter.com/search?q=Kirche) | N/A |
+| 24 | [Elden Ring DLC](http://twitter.com/search?q=Elden+Ring+DLC) | N/A |
+| 25 | [Kraftstoffe](http://twitter.com/search?q=Kraftstoffe) | N/A |
+| 26 | [Ernährung](http://twitter.com/search?q=Ern%c3%a4hrung) | N/A |
+| 27 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
+| 28 | [Lebensmittel](http://twitter.com/search?q=Lebensmittel) | N/A |
+| 29 | [Schönen Dienstag](http://twitter.com/search?q=Sch%c3%b6nen+Dienstag) | N/A |
+| 30 | [Nagel](http://twitter.com/search?q=Nagel) | N/A |
+| 31 | [Einbau](http://twitter.com/search?q=Einbau) | N/A |
+| 32 | [Strom](http://twitter.com/search?q=Strom) | N/A |
+| 33 | [Happy 28th](http://twitter.com/search?q=Happy+28th) | N/A |
+| 34 | [Bestandsflotte](http://twitter.com/search?q=Bestandsflotte) | N/A |
 | 35 | [Prantl](http://twitter.com/search?q=Prantl) | N/A |
-| 36 | [Neuzulassungen](http://twitter.com/search?q=Neuzulassungen) | N/A |
-| 37 | [Nagel](http://twitter.com/search?q=Nagel) | N/A |
-| 38 | [Einbau](http://twitter.com/search?q=Einbau) | N/A |
-| 39 | [Salvatore](http://twitter.com/search?q=Salvatore) | N/A |
-| 40 | [Bestandsflotte](http://twitter.com/search?q=Bestandsflotte) | N/A |
-| 41 | [Süßigkeiten](http://twitter.com/search?q=S%c3%bc%c3%9figkeiten) | N/A |
-| 42 | [Ethikrat](http://twitter.com/search?q=Ethikrat) | N/A |
-| 43 | [Demo](http://twitter.com/search?q=Demo) | N/A |
-| 44 | [Miquella](http://twitter.com/search?q=Miquella) | N/A |
-| 45 | [Rupert Murdoch](http://twitter.com/search?q=Rupert+Murdoch) | N/A |
-| 46 | [Abrams](http://twitter.com/search?q=Abrams) | Abrams is a surname of English and German origin. It is derived from the Germanic personal name Abraham, meaning "father of many". |
-| 47 | [Suicune](http://twitter.com/search?q=Suicune) | N/A |
-| 48 | [Teil des Krieges](http://twitter.com/search?q=Teil+des+Krieges) | N/A |
-| 49 | [Zimmermann](http://twitter.com/search?q=Zimmermann) | N/A |
-| 50 | [Reschke](http://twitter.com/search?q=Reschke) | N/A |
+| 36 | [Stoltenberg](http://twitter.com/search?q=Stoltenberg) | N/A |
+| 37 | [Salvatore](http://twitter.com/search?q=Salvatore) | N/A |
+| 38 | [Reschke](http://twitter.com/search?q=Reschke) | N/A |
+| 39 | [Süßigkeiten](http://twitter.com/search?q=S%c3%bc%c3%9figkeiten) | N/A |
+| 40 | [Demo](http://twitter.com/search?q=Demo) | N/A |
+| 41 | [Zimmermann](http://twitter.com/search?q=Zimmermann) | N/A |
+| 42 | [Miquella](http://twitter.com/search?q=Miquella) | N/A |
+| 43 | [Abrams](http://twitter.com/search?q=Abrams) | Abrams is a surname of English and German origin. It is derived from the Germanic personal name Abraham, meaning "father of many". |
+| 44 | [Teil des Krieges](http://twitter.com/search?q=Teil+des+Krieges) | N/A |
+| 45 | [Özdemir](http://twitter.com/search?q=%c3%96zdemir) | N/A |
+| 46 | [Nahverkehr](http://twitter.com/search?q=Nahverkehr) | N/A |
+| 47 | [Rupert Murdoch](http://twitter.com/search?q=Rupert+Murdoch) | N/A |
+| 48 | [heizen](http://twitter.com/search?q=heizen) | N/A |
+| 49 | [Neubauten](http://twitter.com/search?q=Neubauten) | N/A |
+| 50 | [Fernwärme](http://twitter.com/search?q=Fernw%c3%a4rme) | N/A |
 
 
 
