@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico City
 
-📆 Last Updated: `2023-02-28 16:16:33 UTC`
+📆 Last Updated: `2023-02-28 17:15:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,42 +15,43 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Perú](http://twitter.com/search?q=Per%c3%ba) | Perú is the official name of a country in South America. It is bordered by Ecuador and Colombia to the north, Brazil and Bolivia to the east, Chile to the south, and the Pacific Ocean to the west. The name Perú comes from a word in the native Quechua language meaning "land of abundance." |
-| 2 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
-| 3 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 1 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 2 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 3 | [Monterrey](http://twitter.com/search?q=Monterrey) | N/A |
 | 4 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
-| 5 | [Monterrey](http://twitter.com/search?q=Monterrey) | N/A |
-| 6 | [#PoderosoConCalor](http://twitter.com/search?q=%23PoderosoConCalor) | N/A |
-| 7 | [#Kornelfo](http://twitter.com/search?q=%23Kornelfo) | N/A |
-| 8 | [#JISOOxDiorAW23](http://twitter.com/search?q=%23JISOOxDiorAW23) | N/A |
-| 9 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
-| 10 | [ASTRO](http://twitter.com/search?q=ASTRO) | N/A |
-| 11 | [Samuel](http://twitter.com/search?q=Samuel) | N/A |
-| 12 | [#HAPPY_WONHO_DAY](http://twitter.com/search?q=%23HAPPY_WONHO_DAY) | N/A |
-| 13 | [Colbert](http://twitter.com/search?q=Colbert) | N/A |
-| 14 | [Enfermedades Raras](http://twitter.com/search?q=Enfermedades+Raras) | N/A |
-| 15 | [Santa Catarina](http://twitter.com/search?q=Santa+Catarina) | N/A |
-| 16 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 5 | [#PoderosoConCalor](http://twitter.com/search?q=%23PoderosoConCalor) | N/A |
+| 6 | [Samuel](http://twitter.com/search?q=Samuel) | N/A |
+| 7 | [#JISOOxDiorAW23](http://twitter.com/search?q=%23JISOOxDiorAW23) | N/A |
+| 8 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
+| 9 | [ASTRO](http://twitter.com/search?q=ASTRO) | N/A |
+| 10 | [#HAPPY_WONHO_DAY](http://twitter.com/search?q=%23HAPPY_WONHO_DAY) | N/A |
+| 11 | [#SquidcraftGames2](http://twitter.com/search?q=%23SquidcraftGames2) | N/A |
+| 12 | [Stephen Colbert](http://twitter.com/search?q=Stephen+Colbert) | N/A |
+| 13 | [Perú](http://twitter.com/search?q=Per%c3%ba) | Perú is the official name of a country in South America. It is bordered by Ecuador and Colombia to the north, Brazil and Bolivia to the east, Chile to the south, and the Pacific Ocean to the west. The name Perú comes from a word in the native Quechua language meaning "land of abundance." |
+| 14 | [Santa Catarina](http://twitter.com/search?q=Santa+Catarina) | N/A |
+| 15 | [Wactor](http://twitter.com/search?q=Wactor) | N/A |
+| 16 | [Día Mundial](http://twitter.com/search?q=D%c3%ada+Mundial) | N/A |
 | 17 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
-| 18 | [N.L.](http://twitter.com/search?q=N.L.) | N/A |
-| 19 | [Martes 28](http://twitter.com/search?q=Martes+28) | N/A |
+| 18 | [Martes 28](http://twitter.com/search?q=Martes+28) | N/A |
+| 19 | [N.L.](http://twitter.com/search?q=N.L.) | N/A |
 | 20 | [Washington](http://twitter.com/search?q=Washington) | N/A |
-| 21 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
-| 22 | [Día Mundial](http://twitter.com/search?q=D%c3%ada+Mundial) | N/A |
-| 23 | [Squid](http://twitter.com/search?q=Squid) | N/A |
-| 24 | [Texas](http://twitter.com/search?q=Texas) | N/A |
-| 25 | [Aluxe](http://twitter.com/search?q=Aluxe) | N/A |
-| 26 | [Quedaste](http://twitter.com/search?q=Quedaste) | N/A |
-| 27 | [Alito](http://twitter.com/search?q=Alito) | Alito is a Spanish name meaning "little wing". It is also a surname. |
-| 28 | [#LenguaMañanera](http://twitter.com/search?q=%23LenguaMa%c3%b1anera) | N/A |
-| 29 | [#caminitoalaescuela](http://twitter.com/search?q=%23caminitoalaescuela) | N/A |
-| 30 | [#AMLOBurlaMundial](http://twitter.com/search?q=%23AMLOBurlaMundial) | N/A |
+| 21 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 22 | [Quedaste](http://twitter.com/search?q=Quedaste) | N/A |
+| 23 | [Aluxe](http://twitter.com/search?q=Aluxe) | N/A |
+| 24 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
+| 25 | [Texas](http://twitter.com/search?q=Texas) | N/A |
+| 26 | [Alito](http://twitter.com/search?q=Alito) | Alito is a Spanish name meaning "little wing". It is also a surname. |
+| 27 | [#EnfermedadesRaras](http://twitter.com/search?q=%23EnfermedadesRaras) | N/A |
+| 28 | [#AmloEstaDesesperado](http://twitter.com/search?q=%23AmloEstaDesesperado) | N/A |
+| 29 | [#AMLOBurlaMundial](http://twitter.com/search?q=%23AMLOBurlaMundial) | N/A |
+| 30 | [#ELDENRING](http://twitter.com/search?q=%23ELDENRING) | N/A |
 | 31 | [#BuenMartes](http://twitter.com/search?q=%23BuenMartes) | N/A |
-| 32 | [#AmloEstaDesesperado](http://twitter.com/search?q=%23AmloEstaDesesperado) | N/A |
+| 32 | [#AMLOverguenzamundial](http://twitter.com/search?q=%23AMLOverguenzamundial) | N/A |
 | 33 | [#ConferenciaPresidente](http://twitter.com/search?q=%23ConferenciaPresidente) | N/A |
-| 34 | [#COVID19](http://twitter.com/search?q=%23COVID19) | N/A |
-| 35 | [#AMLOverguenzamundial](http://twitter.com/search?q=%23AMLOverguenzamundial) | N/A |
-| 36 | [#NuevoLaredo](http://twitter.com/search?q=%23NuevoLaredo) | N/A |
+| 34 | [#caminitoalaescuela](http://twitter.com/search?q=%23caminitoalaescuela) | N/A |
+| 35 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 36 | [#COVID19](http://twitter.com/search?q=%23COVID19) | N/A |
+| 37 | [#NuevoLaredo](http://twitter.com/search?q=%23NuevoLaredo) | N/A |
 
 
 

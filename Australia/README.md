@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Australia
 
-📆 Last Updated: `2023-02-28 16:17:18 UTC`
+📆 Last Updated: `2023-02-28 17:16:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,11 +20,11 @@ This is top 50 for Australia
 | 3 | [#SurvivorAU](http://twitter.com/search?q=%23SurvivorAU) | N/A |
 | 4 | [#MAFSAU](http://twitter.com/search?q=%23MAFSAU) | N/A |
 | 5 | [Flick](http://twitter.com/search?q=Flick) | N/A |
-| 6 | [Shaun](http://twitter.com/search?q=Shaun) | N/A |
-| 7 | [Sandy](http://twitter.com/search?q=Sandy) | N/A |
-| 8 | [Father Bob](http://twitter.com/search?q=Father+Bob) | N/A |
-| 9 | [Stuart Robert](http://twitter.com/search?q=Stuart+Robert) | N/A |
-| 10 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
+| 6 | [Sandy](http://twitter.com/search?q=Sandy) | N/A |
+| 7 | [Father Bob](http://twitter.com/search?q=Father+Bob) | N/A |
+| 8 | [Stuart Robert](http://twitter.com/search?q=Stuart+Robert) | N/A |
+| 9 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
+| 10 | [Shaun](http://twitter.com/search?q=Shaun) | N/A |
 | 11 | [#superannuation](http://twitter.com/search?q=%23superannuation) | N/A |
 | 12 | [Test Cricket](http://twitter.com/search?q=Test+Cricket) | N/A |
 | 13 | [Keenan](http://twitter.com/search?q=Keenan) | N/A |
@@ -32,39 +32,39 @@ This is top 50 for Australia
 | 15 | [Rupert Murdoch](http://twitter.com/search?q=Rupert+Murdoch) | N/A |
 | 16 | [lismore](http://twitter.com/search?q=lismore) | N/A |
 | 17 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
-| 18 | [Sarah Ferguson](http://twitter.com/search?q=Sarah+Ferguson) | N/A |
-| 19 | [Shonee](http://twitter.com/search?q=Shonee) | N/A |
+| 18 | [sarah ferguson](http://twitter.com/search?q=sarah+ferguson) | N/A |
+| 19 | [Joffa](http://twitter.com/search?q=Joffa) | N/A |
 | 20 | [Hayley](http://twitter.com/search?q=Hayley) | N/A |
-| 21 | [Joffa](http://twitter.com/search?q=Joffa) | N/A |
-| 22 | [Angus](http://twitter.com/search?q=Angus) | N/A |
-| 23 | [tayla](http://twitter.com/search?q=tayla) | N/A |
-| 24 | [Charli](http://twitter.com/search?q=Charli) | N/A |
+| 21 | [Angus](http://twitter.com/search?q=Angus) | N/A |
+| 22 | [tayla](http://twitter.com/search?q=tayla) | N/A |
+| 23 | [Charli](http://twitter.com/search?q=Charli) | N/A |
+| 24 | [Shonee](http://twitter.com/search?q=Shonee) | N/A |
 | 25 | [Sussan](http://twitter.com/search?q=Sussan) | N/A |
 | 26 | [marzhew](http://twitter.com/search?q=marzhew) | N/A |
 | 27 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
 | 28 | [Fauci](http://twitter.com/search?q=Fauci) | N/A |
 | 29 | [Mardi Gras](http://twitter.com/search?q=Mardi+Gras) | N/A |
-| 30 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
-| 31 | [Ronni](http://twitter.com/search?q=Ronni) | Ronni is a female given name, derived from the name Veronica. It is a diminutive form of the name, and can be used as a nickname. The meaning of Ronni in English is "true image". |
-| 32 | [Kathryn Campbell](http://twitter.com/search?q=Kathryn+Campbell) | N/A |
-| 33 | [Rowan Dean](http://twitter.com/search?q=Rowan+Dean) | N/A |
-| 34 | [Neil Wagner](http://twitter.com/search?q=Neil+Wagner) | N/A |
-| 35 | [Walking Wake](http://twitter.com/search?q=Walking+Wake) | N/A |
-| 36 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
-| 37 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
-| 38 | [Bazball](http://twitter.com/search?q=Bazball) | N/A |
-| 39 | [Daily Quordle 400](http://twitter.com/search?q=Daily+Quordle+400) | N/A |
-| 40 | [Luke Thompson](http://twitter.com/search?q=Luke+Thompson) | N/A |
-| 41 | [nsw cup](http://twitter.com/search?q=nsw+cup) | N/A |
-| 42 | [saul griffith](http://twitter.com/search?q=saul+griffith) | N/A |
-| 43 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
-| 44 | [Lita](http://twitter.com/search?q=Lita) | N/A |
-| 45 | [Creed III](http://twitter.com/search?q=Creed+III) | N/A |
-| 46 | [pocock](http://twitter.com/search?q=pocock) | N/A |
-| 47 | [bronte](http://twitter.com/search?q=bronte) | N/A |
-| 48 | [The Project](http://twitter.com/search?q=The+Project) | N/A |
-| 49 | [Woodside](http://twitter.com/search?q=Woodside) | N/A |
-| 50 | [Lyndall](http://twitter.com/search?q=Lyndall) | N/A |
+| 30 | [Kathryn Campbell](http://twitter.com/search?q=Kathryn+Campbell) | N/A |
+| 31 | [Neil Wagner](http://twitter.com/search?q=Neil+Wagner) | N/A |
+| 32 | [Walking Wake](http://twitter.com/search?q=Walking+Wake) | N/A |
+| 33 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
+| 34 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
+| 35 | [Rowan Dean](http://twitter.com/search?q=Rowan+Dean) | N/A |
+| 36 | [Bazball](http://twitter.com/search?q=Bazball) | N/A |
+| 37 | [Daily Quordle 400](http://twitter.com/search?q=Daily+Quordle+400) | N/A |
+| 38 | [Luke Thompson](http://twitter.com/search?q=Luke+Thompson) | N/A |
+| 39 | [nsw cup](http://twitter.com/search?q=nsw+cup) | N/A |
+| 40 | [saul griffith](http://twitter.com/search?q=saul+griffith) | N/A |
+| 41 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
+| 42 | [Lita](http://twitter.com/search?q=Lita) | N/A |
+| 43 | [Creed III](http://twitter.com/search?q=Creed+III) | N/A |
+| 44 | [pocock](http://twitter.com/search?q=pocock) | N/A |
+| 45 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
+| 46 | [Lyndall](http://twitter.com/search?q=Lyndall) | N/A |
+| 47 | [bridget archer](http://twitter.com/search?q=bridget+archer) | N/A |
+| 48 | [Jimmy Anderson](http://twitter.com/search?q=Jimmy+Anderson) | N/A |
+| 49 | [Suicune](http://twitter.com/search?q=Suicune) | N/A |
+| 50 | [Rachel](http://twitter.com/search?q=Rachel) | N/A |
 
 
 

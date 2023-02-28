@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For France
 
-📆 Last Updated: `2023-02-28 16:17:20 UTC`
+📆 Last Updated: `2023-02-28 17:16:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,42 @@ This is top 50 for France
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 2 | [#SIA2023](http://twitter.com/search?q=%23SIA2023) | N/A |
-| 3 | [#LeGraet](http://twitter.com/search?q=%23LeGraet) | N/A |
-| 4 | [Payet](http://twitter.com/search?q=Payet) | Payet is a French surname. It is derived from the Old French word "paie," which means "payment." In English, it can be translated to mean "one who pays." |
-| 5 | [Ethnicité](http://twitter.com/search?q=Ethnicit%c3%a9) | N/A |
-| 6 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
+| 2 | [Housni](http://twitter.com/search?q=Housni) | Housni is an Arabic name that means "good luck". It is often used as a term of endearment or to express good wishes. |
+| 3 | [#HONORMagic5Pro](http://twitter.com/search?q=%23HONORMagic5Pro) | N/A |
+| 4 | [Upset](http://twitter.com/search?q=Upset) | N/A |
+| 5 | [#Papillomavirus](http://twitter.com/search?q=%23Papillomavirus) | N/A |
+| 6 | [Gharbi](http://twitter.com/search?q=Gharbi) | Gharbi is an Arabic word meaning "western". It is used to refer to things or people from the West, particularly Europe and North America. |
 | 7 | [#FreebetWinamax](http://twitter.com/search?q=%23FreebetWinamax) | N/A |
-| 8 | [#Papillomavirus](http://twitter.com/search?q=%23Papillomavirus) | N/A |
-| 9 | [Hilona](http://twitter.com/search?q=Hilona) | N/A |
-| 10 | [Infantino](http://twitter.com/search?q=Infantino) | Infantino is a Spanish word meaning "little baby". It is often used as an affectionate term for a young child. |
-| 11 | [Balkany](http://twitter.com/search?q=Balkany) | N/A |
-| 12 | [Julien Bert](http://twitter.com/search?q=Julien+Bert) | N/A |
-| 13 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
-| 14 | [#ASCFCGB](http://twitter.com/search?q=%23ASCFCGB) | N/A |
-| 15 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 16 | [Miquella](http://twitter.com/search?q=Miquella) | N/A |
-| 17 | [Voiture 1](http://twitter.com/search?q=Voiture+1) | N/A |
-| 18 | [Puskas](http://twitter.com/search?q=Puskas) | N/A |
-| 19 | [Upset](http://twitter.com/search?q=Upset) | N/A |
-| 20 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
-| 21 | [Suicune](http://twitter.com/search?q=Suicune) | N/A |
-| 22 | [Lemina](http://twitter.com/search?q=Lemina) | N/A |
-| 23 | [Platini](http://twitter.com/search?q=Platini) | N/A |
-| 24 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 25 | [Freeze Corleone](http://twitter.com/search?q=Freeze+Corleone) | N/A |
-| 26 | [Comex](http://twitter.com/search?q=Comex) | N/A |
-| 27 | [Pétain](http://twitter.com/search?q=P%c3%a9tain) | N/A |
-| 28 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 29 | [Michelin](http://twitter.com/search?q=Michelin) | N/A |
-| 30 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
-| 31 | [Marseille](http://twitter.com/search?q=Marseille) | N/A |
-| 32 | [ASTRO](http://twitter.com/search?q=ASTRO) | N/A |
-| 33 | [FFXVI](http://twitter.com/search?q=FFXVI) | N/A |
-| 34 | [Bachelot](http://twitter.com/search?q=Bachelot) | N/A |
-| 35 | [ROVER IS COMING](http://twitter.com/search?q=ROVER+IS+COMING) | N/A |
-| 36 | [Vita](http://twitter.com/search?q=Vita) | N/A |
-| 37 | [Housni](http://twitter.com/search?q=Housni) | Housni is an Arabic name that means "good luck". It is often used as a term of endearment or to express good wishes. |
-| 38 | [Ruben Östlund](http://twitter.com/search?q=Ruben+%c3%96stlund) | N/A |
-| 39 | [Gharbi](http://twitter.com/search?q=Gharbi) | Gharbi is an Arabic word meaning "western". It is used to refer to things or people from the West, particularly Europe and North America. |
-| 40 | [Gardasil](http://twitter.com/search?q=Gardasil) | N/A |
-| 41 | [Gane](http://twitter.com/search?q=Gane) | N/A |
-| 42 | [Maja](http://twitter.com/search?q=Maja) | N/A |
-| 43 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
-| 44 | [Fransergio](http://twitter.com/search?q=Fransergio) | N/A |
-| 45 | [Badji](http://twitter.com/search?q=Badji) | N/A |
-| 46 | [Shadow of the Erdtree](http://twitter.com/search?q=Shadow+of+the+Erdtree) | N/A |
-| 47 | [Salon](http://twitter.com/search?q=Salon) | N/A |
-| 48 | [Shay](http://twitter.com/search?q=Shay) | N/A |
-| 49 | [Montagnier](http://twitter.com/search?q=Montagnier) | N/A |
-| 50 | [Leris](http://twitter.com/search?q=Leris) | N/A |
+| 8 | [Voiture 1](http://twitter.com/search?q=Voiture+1) | N/A |
+| 9 | [#LeGraet](http://twitter.com/search?q=%23LeGraet) | N/A |
+| 10 | [#YouthLeague](http://twitter.com/search?q=%23YouthLeague) | N/A |
+| 11 | [Vitality](http://twitter.com/search?q=Vitality) | N/A |
+| 12 | [Infantino](http://twitter.com/search?q=Infantino) | Infantino is a Spanish word meaning "little baby". It is often used as an affectionate term for a young child. |
+| 13 | [FFXVI](http://twitter.com/search?q=FFXVI) | N/A |
+| 14 | [ASTRO](http://twitter.com/search?q=ASTRO) | N/A |
+| 15 | [Freeze Corleone](http://twitter.com/search?q=Freeze+Corleone) | N/A |
+| 16 | [Comex](http://twitter.com/search?q=Comex) | N/A |
+| 17 | [Platini](http://twitter.com/search?q=Platini) | N/A |
+| 18 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
+| 19 | [Gardasil](http://twitter.com/search?q=Gardasil) | N/A |
+| 20 | [Milan AC](http://twitter.com/search?q=Milan+AC) | N/A |
+| 21 | [Miquella](http://twitter.com/search?q=Miquella) | N/A |
+| 22 | [Elden Ring](http://twitter.com/search?q=Elden+Ring) | N/A |
+| 23 | [Julien Pain](http://twitter.com/search?q=Julien+Pain) | N/A |
+| 24 | [Michelin](http://twitter.com/search?q=Michelin) | N/A |
+| 25 | [Fally](http://twitter.com/search?q=Fally) | N/A |
+| 26 | [#affaireconclue](http://twitter.com/search?q=%23affaireconclue) | N/A |
+| 27 | [#TicketsTwitter](http://twitter.com/search?q=%23TicketsTwitter) | N/A |
+| 28 | [#LesRP](http://twitter.com/search?q=%23LesRP) | N/A |
+| 29 | [#JISOOxDiorAW23](http://twitter.com/search?q=%23JISOOxDiorAW23) | N/A |
+| 30 | [#RareDiseaseDay](http://twitter.com/search?q=%23RareDiseaseDay) | N/A |
+| 31 | [#KAI_Rover](http://twitter.com/search?q=%23KAI_Rover) | N/A |
+| 32 | [#Destiny2Lightfall](http://twitter.com/search?q=%23Destiny2Lightfall) | N/A |
+| 33 | [#maladiesrares](http://twitter.com/search?q=%23maladiesrares) | N/A |
+| 34 | [#xPortal](http://twitter.com/search?q=%23xPortal) | N/A |
+| 35 | [#OLGF38](http://twitter.com/search?q=%23OLGF38) | N/A |
+| 36 | [#OMAnnecy](http://twitter.com/search?q=%23OMAnnecy) | N/A |
+| 37 | [#MardiConseil](http://twitter.com/search?q=%23MardiConseil) | N/A |
 
 
 

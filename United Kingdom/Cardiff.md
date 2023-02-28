@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cardiff
 
-📆 Last Updated: `2023-02-28 16:16:30 UTC`
+📆 Last Updated: `2023-02-28 17:15:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#AntonymFilmTitles](http://twitter.com/search?q=%23AntonymFilmTitles) | N/A |
-| 2 | [#RareDiseaseDay](http://twitter.com/search?q=%23RareDiseaseDay) | N/A |
-| 3 | [Northern Ireland](http://twitter.com/search?q=Northern+Ireland) | N/A |
-| 4 | [#AskMooy](http://twitter.com/search?q=%23AskMooy) | N/A |
-| 5 | [Jacqui Smith](http://twitter.com/search?q=Jacqui+Smith) | N/A |
-| 6 | [Single Market](http://twitter.com/search?q=Single+Market) | N/A |
-| 7 | [Oakeshott](http://twitter.com/search?q=Oakeshott) | N/A |
+| 1 | [Northern Ireland](http://twitter.com/search?q=Northern+Ireland) | N/A |
+| 2 | [#Destiny2Lightfall](http://twitter.com/search?q=%23Destiny2Lightfall) | N/A |
+| 3 | [#AntonymFilmTitles](http://twitter.com/search?q=%23AntonymFilmTitles) | N/A |
+| 4 | [#RareDiseaseDay](http://twitter.com/search?q=%23RareDiseaseDay) | N/A |
+| 5 | [Oakeshott](http://twitter.com/search?q=Oakeshott) | N/A |
+| 6 | [Jacqui Smith](http://twitter.com/search?q=Jacqui+Smith) | N/A |
+| 7 | [Single Market](http://twitter.com/search?q=Single+Market) | N/A |
 | 8 | [Scotland and Wales](http://twitter.com/search?q=Scotland+and+Wales) | N/A |
 | 9 | [Rishi](http://twitter.com/search?q=Rishi) | N/A |
-| 10 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
-| 11 | [UK and EU](http://twitter.com/search?q=UK+and+EU) | N/A |
-| 12 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
-| 13 | [Isla Bryson](http://twitter.com/search?q=Isla+Bryson) | N/A |
+| 10 | [Tom Sizemore](http://twitter.com/search?q=Tom+Sizemore) | N/A |
+| 11 | [Malone](http://twitter.com/search?q=Malone) | N/A |
+| 12 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
+| 13 | [UK and EU](http://twitter.com/search?q=UK+and+EU) | N/A |
 | 14 | [History Month](http://twitter.com/search?q=History+Month) | N/A |
-| 15 | [Tom Sizemore](http://twitter.com/search?q=Tom+Sizemore) | N/A |
-| 16 | [Year 4](http://twitter.com/search?q=Year+4) | N/A |
-| 17 | [Pete Davidson](http://twitter.com/search?q=Pete+Davidson) | Pete Davidson is an American comedian, actor, and writer. He is best known for being a cast member on Saturday Night Live since 2014. He has also appeared in films such as Big Time Adolescence and The King of Staten Island. |
-| 18 | [Malone](http://twitter.com/search?q=Malone) | N/A |
-| 19 | [Adam Graham](http://twitter.com/search?q=Adam+Graham) | N/A |
-| 20 | [25% in FCT](http://twitter.com/search?q=25%25+in+FCT) | N/A |
-| 21 | [Justin Bieber](http://twitter.com/search?q=Justin+Bieber) | N/A |
+| 15 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
+| 16 | [Wike](http://twitter.com/search?q=Wike) | Wike is a term used in the Philippines to refer to a person who is knowledgeable or wise. It is derived from the Tagalog word "wikain," which means "to know." In English, it can be translated as "wise" or "knowledgeable." |
+| 17 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
+| 18 | [Justin Bieber](http://twitter.com/search?q=Justin+Bieber) | N/A |
+| 19 | [Isla Bryson](http://twitter.com/search?q=Isla+Bryson) | N/A |
+| 20 | [Year 4](http://twitter.com/search?q=Year+4) | N/A |
+| 21 | [Pete Davidson](http://twitter.com/search?q=Pete+Davidson) | Pete Davidson is an American comedian, actor, and writer. He is best known for being a cast member on Saturday Night Live since 2014. He has also appeared in films such as Big Time Adolescence and The King of Staten Island. |
 | 22 | [Elden Ring DLC](http://twitter.com/search?q=Elden+Ring+DLC) | N/A |
-| 23 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
-| 24 | [Marcus Smith](http://twitter.com/search?q=Marcus+Smith) | N/A |
-| 25 | [Ford](http://twitter.com/search?q=Ford) | Ford is an American multinational automaker that designs, manufactures, markets, and services a range of cars, trucks, SUVs, and electrified vehicles. The company's name is derived from the surname of its founder, Henry Ford. |
-| 26 | [Miquella](http://twitter.com/search?q=Miquella) | N/A |
-| 27 | [EU and UK](http://twitter.com/search?q=EU+and+UK) | N/A |
+| 23 | [Coca Cola](http://twitter.com/search?q=Coca+Cola) | N/A |
+| 24 | [Adam Graham](http://twitter.com/search?q=Adam+Graham) | N/A |
+| 25 | [Bristol City](http://twitter.com/search?q=Bristol+City) | N/A |
+| 26 | [Ford](http://twitter.com/search?q=Ford) | Ford is an American multinational automaker that designs, manufactures, markets, and services a range of cars, trucks, SUVs, and electrified vehicles. The company's name is derived from the surname of its founder, Henry Ford. |
+| 27 | [Miquella](http://twitter.com/search?q=Miquella) | N/A |
 | 28 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 29 | [Brexiteers](http://twitter.com/search?q=Brexiteers) | N/A |
-| 30 | [Noel](http://twitter.com/search?q=Noel) | Noel is a French word meaning "Christmas". It is often used as a greeting during the Christmas season. |
-| 31 | [Constance Marten](http://twitter.com/search?q=Constance+Marten) | N/A |
-| 32 | [Bristol City](http://twitter.com/search?q=Bristol+City) | N/A |
-| 33 | [Coca Cola](http://twitter.com/search?q=Coca+Cola) | N/A |
+| 29 | [Mark Gordon](http://twitter.com/search?q=Mark+Gordon) | N/A |
+| 30 | [EU and UK](http://twitter.com/search?q=EU+and+UK) | N/A |
+| 31 | [Abuja](http://twitter.com/search?q=Abuja) | N/A |
+| 32 | [Brexiteers](http://twitter.com/search?q=Brexiteers) | N/A |
+| 33 | [Noel](http://twitter.com/search?q=Noel) | Noel is a French word meaning "Christmas". It is often used as a greeting during the Christmas season. |
 | 34 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
-| 35 | [Remain](http://twitter.com/search?q=Remain) | N/A |
-| 36 | [International Women's Day](http://twitter.com/search?q=International+Women%27s+Day) | N/A |
+| 35 | [International Women's Day](http://twitter.com/search?q=International+Women%27s+Day) | N/A |
+| 36 | [Remain](http://twitter.com/search?q=Remain) | N/A |
 | 37 | [ASTRO](http://twitter.com/search?q=ASTRO) | N/A |
-| 38 | [Cleverly](http://twitter.com/search?q=Cleverly) | Cleverly is an adverb that means in a skillful or clever manner. It is used to describe someone who is able to think quickly and come up with creative solutions. |
-| 39 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 40 | [Tottenham Hotspur](http://twitter.com/search?q=Tottenham+Hotspur) | N/A |
-| 41 | [Abuja](http://twitter.com/search?q=Abuja) | N/A |
-| 42 | [Koran](http://twitter.com/search?q=Koran) | N/A |
+| 38 | [Tottenham Hotspur](http://twitter.com/search?q=Tottenham+Hotspur) | N/A |
+| 39 | [Mr Sunak](http://twitter.com/search?q=Mr+Sunak) | N/A |
+| 40 | [UK and the EU](http://twitter.com/search?q=UK+and+the+EU) | N/A |
+| 41 | [Koran](http://twitter.com/search?q=Koran) | N/A |
+| 42 | [Cleverly](http://twitter.com/search?q=Cleverly) | Cleverly is an adverb that means in a skillful or clever manner. It is used to describe someone who is able to think quickly and come up with creative solutions. |
 | 43 | [Omos](http://twitter.com/search?q=Omos) | N/A |
-| 44 | [Great Britain](http://twitter.com/search?q=Great+Britain) | N/A |
-| 45 | [UK and the EU](http://twitter.com/search?q=UK+and+the+EU) | N/A |
-| 46 | [Baker](http://twitter.com/search?q=Baker) | Baker is a person who bakes and sells bread, cakes, and other baked goods. It is also a term used to refer to someone who works in a bakery. |
-| 47 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 44 | [Reception](http://twitter.com/search?q=Reception) | N/A |
+| 45 | [Rupert Murdoch](http://twitter.com/search?q=Rupert+Murdoch) | N/A |
+| 46 | [Daily Quordle 400](http://twitter.com/search?q=Daily+Quordle+400) | N/A |
+| 47 | [Windsor Framework](http://twitter.com/search?q=Windsor+Framework) | N/A |
 
 
 

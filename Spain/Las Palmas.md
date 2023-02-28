@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Las Palmas
 
-📆 Last Updated: `2023-02-28 16:16:46 UTC`
+📆 Last Updated: `2023-02-28 17:16:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,51 +19,51 @@ This is top 50 for [Spain](</Spain>)
 | 2 | [Andalucía](http://twitter.com/search?q=Andaluc%c3%ada) | N/A |
 | 3 | [#HONORMagic5](http://twitter.com/search?q=%23HONORMagic5) | N/A |
 | 4 | [#PenaltiFinetwork](http://twitter.com/search?q=%23PenaltiFinetwork) | N/A |
-| 5 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
-| 6 | [#EnfermedadesRaras](http://twitter.com/search?q=%23EnfermedadesRaras) | N/A |
-| 7 | [#BayonettaOriginsMM](http://twitter.com/search?q=%23BayonettaOriginsMM) | N/A |
+| 5 | [#PecadoOriginal28Feb](http://twitter.com/search?q=%23PecadoOriginal28Feb) | N/A |
+| 6 | [#ATEEZinMadrid](http://twitter.com/search?q=%23ATEEZinMadrid) | N/A |
+| 7 | [FFXVI](http://twitter.com/search?q=FFXVI) | N/A |
 | 8 | [Final Fantasy XVI](http://twitter.com/search?q=Final+Fantasy+XVI) | N/A |
-| 9 | [FFXVI](http://twitter.com/search?q=FFXVI) | N/A |
-| 10 | [Dalsy](http://twitter.com/search?q=Dalsy) | N/A |
-| 11 | [Patxi López](http://twitter.com/search?q=Patxi+L%c3%b3pez) | N/A |
-| 12 | [Miquella](http://twitter.com/search?q=Miquella) | N/A |
-| 13 | [Andaluces](http://twitter.com/search?q=Andaluces) | N/A |
-| 14 | [Blas Infante](http://twitter.com/search?q=Blas+Infante) | N/A |
-| 15 | [Mediador](http://twitter.com/search?q=Mediador) | N/A |
-| 16 | [Andaluz](http://twitter.com/search?q=Andaluz) | N/A |
+| 9 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
+| 10 | [Patxi López](http://twitter.com/search?q=Patxi+L%c3%b3pez) | N/A |
+| 11 | [Dalsy](http://twitter.com/search?q=Dalsy) | N/A |
+| 12 | [Squid](http://twitter.com/search?q=Squid) | N/A |
+| 13 | [Miquella](http://twitter.com/search?q=Miquella) | N/A |
+| 14 | [Mediador](http://twitter.com/search?q=Mediador) | N/A |
+| 15 | [Autoevaluación HONESTA](http://twitter.com/search?q=Autoevaluaci%c3%b3n+HONESTA) | N/A |
+| 16 | [Andaluces](http://twitter.com/search?q=Andaluces) | N/A |
 | 17 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
-| 18 | [Lola Flores](http://twitter.com/search?q=Lola+Flores) | N/A |
-| 19 | [Apple TV](http://twitter.com/search?q=Apple+TV) | N/A |
-| 20 | [David Bisbal](http://twitter.com/search?q=David+Bisbal) | N/A |
-| 21 | [Marika](http://twitter.com/search?q=Marika) | N/A |
-| 22 | [Juanma Moreno](http://twitter.com/search?q=Juanma+Moreno) | N/A |
-| 23 | [Squid](http://twitter.com/search?q=Squid) | N/A |
-| 24 | [Elden Ring](http://twitter.com/search?q=Elden+Ring) | N/A |
-| 25 | [Kitchen](http://twitter.com/search?q=Kitchen) | N/A |
-| 26 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 27 | [Juan y Medio](http://twitter.com/search?q=Juan+y+Medio) | N/A |
-| 28 | [Halo](http://twitter.com/search?q=Halo) | N/A |
-| 29 | [Hoy 28](http://twitter.com/search?q=Hoy+28) | N/A |
-| 30 | [Cruzcampo](http://twitter.com/search?q=Cruzcampo) | N/A |
-| 31 | [28-F](http://twitter.com/search?q=28-F) | N/A |
-| 32 | [Shadow of the Erdtree](http://twitter.com/search?q=Shadow+of+the+Erdtree) | N/A |
-| 33 | [Jaén](http://twitter.com/search?q=Ja%c3%a9n) | N/A |
-| 34 | [Palma](http://twitter.com/search?q=Palma) | N/A |
-| 35 | [Austria](http://twitter.com/search?q=Austria) | N/A |
-| 36 | [Zendal](http://twitter.com/search?q=Zendal) | N/A |
-| 37 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 38 | [Pablo González](http://twitter.com/search?q=Pablo+Gonz%c3%a1lez) | N/A |
-| 39 | [España y la Humanidad](http://twitter.com/search?q=Espa%c3%b1a+y+la+Humanidad) | N/A |
-| 40 | [Interior](http://twitter.com/search?q=Interior) | N/A |
-| 41 | [alhambra](http://twitter.com/search?q=alhambra) | N/A |
-| 42 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
-| 43 | [Comunidad Autónoma](http://twitter.com/search?q=Comunidad+Aut%c3%b3noma) | N/A |
-| 44 | [#28Febrero](http://twitter.com/search?q=%2328Febrero) | N/A |
-| 45 | [#28fcanalsur](http://twitter.com/search?q=%2328fcanalsur) | N/A |
-| 46 | [#Solos28F](http://twitter.com/search?q=%23Solos28F) | N/A |
-| 47 | [#QueTeVoteTitoBerni](http://twitter.com/search?q=%23QueTeVoteTitoBerni) | N/A |
-| 48 | [#DENCanarias23](http://twitter.com/search?q=%23DENCanarias23) | N/A |
-| 49 | [#28FNadaQueCelebrar](http://twitter.com/search?q=%2328FNadaQueCelebrar) | N/A |
+| 18 | [Blas Infante](http://twitter.com/search?q=Blas+Infante) | N/A |
+| 19 | [Elden Ring](http://twitter.com/search?q=Elden+Ring) | N/A |
+| 20 | [Lola Flores](http://twitter.com/search?q=Lola+Flores) | N/A |
+| 21 | [Juanma Moreno](http://twitter.com/search?q=Juanma+Moreno) | N/A |
+| 22 | [Apple TV](http://twitter.com/search?q=Apple+TV) | N/A |
+| 23 | [Kitchen](http://twitter.com/search?q=Kitchen) | N/A |
+| 24 | [Andaluz](http://twitter.com/search?q=Andaluz) | N/A |
+| 25 | [Marika](http://twitter.com/search?q=Marika) | N/A |
+| 26 | [Halo](http://twitter.com/search?q=Halo) | N/A |
+| 27 | [Miyazaki](http://twitter.com/search?q=Miyazaki) | N/A |
+| 28 | [Zendal](http://twitter.com/search?q=Zendal) | N/A |
+| 29 | [Jana](http://twitter.com/search?q=Jana) | Jana is a feminine given name of Slavic origin. It is derived from the Hebrew name Yohanan, meaning "God is gracious". In English, Jana can be translated to mean "God's gracious gift". |
+| 30 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 31 | [David Bisbal](http://twitter.com/search?q=David+Bisbal) | N/A |
+| 32 | [Jaén](http://twitter.com/search?q=Ja%c3%a9n) | N/A |
+| 33 | [Cruzcampo](http://twitter.com/search?q=Cruzcampo) | N/A |
+| 34 | [Juan y Medio](http://twitter.com/search?q=Juan+y+Medio) | N/A |
+| 35 | [Hoy 28](http://twitter.com/search?q=Hoy+28) | N/A |
+| 36 | [Palma](http://twitter.com/search?q=Palma) | N/A |
+| 37 | [Austria](http://twitter.com/search?q=Austria) | N/A |
+| 38 | [Interior](http://twitter.com/search?q=Interior) | N/A |
+| 39 | [Feliz Martes](http://twitter.com/search?q=Feliz+Martes) | N/A |
+| 40 | [España y la Humanidad](http://twitter.com/search?q=Espa%c3%b1a+y+la+Humanidad) | N/A |
+| 41 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
+| 42 | [#TodoEsMentira28F](http://twitter.com/search?q=%23TodoEsMentira28F) | N/A |
+| 43 | [#EnfermedadesRaras](http://twitter.com/search?q=%23EnfermedadesRaras) | N/A |
+| 44 | [#BayonettaOriginsMM](http://twitter.com/search?q=%23BayonettaOriginsMM) | N/A |
+| 45 | [#QueTeVoteTitoBerni](http://twitter.com/search?q=%23QueTeVoteTitoBerni) | N/A |
+| 46 | [#DENCanarias23](http://twitter.com/search?q=%23DENCanarias23) | N/A |
+| 47 | [#Solos28F](http://twitter.com/search?q=%23Solos28F) | N/A |
+| 48 | [#SkyShowtime](http://twitter.com/search?q=%23SkyShowtime) | N/A |
+| 49 | [#APOYOROCI028F](http://twitter.com/search?q=%23APOYOROCI028F) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Leeds
 
-📆 Last Updated: `2023-02-28 16:16:31 UTC`
+📆 Last Updated: `2023-02-28 17:15:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#UseLemonadeFinance](http://twitter.com/search?q=%23UseLemonadeFinance) | N/A |
-| 2 | [Angus](http://twitter.com/search?q=Angus) | N/A |
-| 3 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
-| 4 | [#journorequest](http://twitter.com/search?q=%23journorequest) | N/A |
-| 5 | [#SaveOurSchools](http://twitter.com/search?q=%23SaveOurSchools) | N/A |
-| 6 | [Quran](http://twitter.com/search?q=Quran) | N/A |
-| 7 | [Iceland](http://twitter.com/search?q=Iceland) | N/A |
-| 8 | [#AntonymFilmTitles](http://twitter.com/search?q=%23AntonymFilmTitles) | N/A |
-| 9 | [Northern Ireland](http://twitter.com/search?q=Northern+Ireland) | N/A |
-| 10 | [Jacqui Smith](http://twitter.com/search?q=Jacqui+Smith) | N/A |
-| 11 | [Single Market](http://twitter.com/search?q=Single+Market) | N/A |
-| 12 | [Oakeshott](http://twitter.com/search?q=Oakeshott) | N/A |
-| 13 | [Scotland and Wales](http://twitter.com/search?q=Scotland+and+Wales) | N/A |
-| 14 | [Rishi](http://twitter.com/search?q=Rishi) | N/A |
-| 15 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
-| 16 | [UK and EU](http://twitter.com/search?q=UK+and+EU) | N/A |
-| 17 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
-| 18 | [Isla Bryson](http://twitter.com/search?q=Isla+Bryson) | N/A |
-| 19 | [History Month](http://twitter.com/search?q=History+Month) | N/A |
-| 20 | [Tom Sizemore](http://twitter.com/search?q=Tom+Sizemore) | N/A |
-| 21 | [Year 4](http://twitter.com/search?q=Year+4) | N/A |
-| 22 | [Pete Davidson](http://twitter.com/search?q=Pete+Davidson) | Pete Davidson is an American comedian, actor, and writer. He is best known for being a cast member on Saturday Night Live since 2014. He has also appeared in films such as Big Time Adolescence and The King of Staten Island. |
-| 23 | [Malone](http://twitter.com/search?q=Malone) | N/A |
-| 24 | [Adam Graham](http://twitter.com/search?q=Adam+Graham) | N/A |
-| 25 | [25% in FCT](http://twitter.com/search?q=25%25+in+FCT) | N/A |
-| 26 | [Justin Bieber](http://twitter.com/search?q=Justin+Bieber) | N/A |
-| 27 | [Elden Ring DLC](http://twitter.com/search?q=Elden+Ring+DLC) | N/A |
-| 28 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
-| 29 | [Marcus Smith](http://twitter.com/search?q=Marcus+Smith) | N/A |
-| 30 | [Ford](http://twitter.com/search?q=Ford) | Ford is an American multinational automaker that designs, manufactures, markets, and services a range of cars, trucks, SUVs, and electrified vehicles. The company's name is derived from the surname of its founder, Henry Ford. |
-| 31 | [Miquella](http://twitter.com/search?q=Miquella) | N/A |
-| 32 | [Wales and Scotland](http://twitter.com/search?q=Wales+and+Scotland) | N/A |
-| 33 | [EU and UK](http://twitter.com/search?q=EU+and+UK) | N/A |
-| 34 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 35 | [Noel](http://twitter.com/search?q=Noel) | Noel is a French word meaning "Christmas". It is often used as a greeting during the Christmas season. |
-| 36 | [Constance Marten](http://twitter.com/search?q=Constance+Marten) | N/A |
-| 37 | [Bristol City](http://twitter.com/search?q=Bristol+City) | N/A |
-| 38 | [Coca Cola](http://twitter.com/search?q=Coca+Cola) | N/A |
+| 1 | [#FACup](http://twitter.com/search?q=%23FACup) | #FACup is an abbreviation for the Football Association Challenge Cup, which is an annual knockout football competition in England. It is the oldest football competition in the world and is open to all teams from the top four tiers of English football. |
+| 2 | [#electionresults2023](http://twitter.com/search?q=%23electionresults2023) | N/A |
+| 3 | [#journorequest](http://twitter.com/search?q=%23journorequest) | N/A |
+| 4 | [Great Britain](http://twitter.com/search?q=Great+Britain) | N/A |
+| 5 | [Northern Ireland](http://twitter.com/search?q=Northern+Ireland) | N/A |
+| 6 | [#AntonymFilmTitles](http://twitter.com/search?q=%23AntonymFilmTitles) | N/A |
+| 7 | [Oakeshott](http://twitter.com/search?q=Oakeshott) | N/A |
+| 8 | [Jacqui Smith](http://twitter.com/search?q=Jacqui+Smith) | N/A |
+| 9 | [Single Market](http://twitter.com/search?q=Single+Market) | N/A |
+| 10 | [Scotland and Wales](http://twitter.com/search?q=Scotland+and+Wales) | N/A |
+| 11 | [Rishi](http://twitter.com/search?q=Rishi) | N/A |
+| 12 | [Tom Sizemore](http://twitter.com/search?q=Tom+Sizemore) | N/A |
+| 13 | [Malone](http://twitter.com/search?q=Malone) | N/A |
+| 14 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
+| 15 | [UK and EU](http://twitter.com/search?q=UK+and+EU) | N/A |
+| 16 | [History Month](http://twitter.com/search?q=History+Month) | N/A |
+| 17 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
+| 18 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
+| 19 | [Justin Bieber](http://twitter.com/search?q=Justin+Bieber) | N/A |
+| 20 | [Wike](http://twitter.com/search?q=Wike) | Wike is a term used in the Philippines to refer to a person who is knowledgeable or wise. It is derived from the Tagalog word "wikain," which means "to know." In English, it can be translated as "wise" or "knowledgeable." |
+| 21 | [Isla Bryson](http://twitter.com/search?q=Isla+Bryson) | N/A |
+| 22 | [Year 4](http://twitter.com/search?q=Year+4) | N/A |
+| 23 | [Pete Davidson](http://twitter.com/search?q=Pete+Davidson) | Pete Davidson is an American comedian, actor, and writer. He is best known for being a cast member on Saturday Night Live since 2014. He has also appeared in films such as Big Time Adolescence and The King of Staten Island. |
+| 24 | [Elden Ring DLC](http://twitter.com/search?q=Elden+Ring+DLC) | N/A |
+| 25 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 26 | [Adam Graham](http://twitter.com/search?q=Adam+Graham) | N/A |
+| 27 | [Coca Cola](http://twitter.com/search?q=Coca+Cola) | N/A |
+| 28 | [Bristol City](http://twitter.com/search?q=Bristol+City) | N/A |
+| 29 | [Ford](http://twitter.com/search?q=Ford) | Ford is an American multinational automaker that designs, manufactures, markets, and services a range of cars, trucks, SUVs, and electrified vehicles. The company's name is derived from the surname of its founder, Henry Ford. |
+| 30 | [Miquella](http://twitter.com/search?q=Miquella) | N/A |
+| 31 | [Mark Gordon](http://twitter.com/search?q=Mark+Gordon) | N/A |
+| 32 | [EU and UK](http://twitter.com/search?q=EU+and+UK) | N/A |
+| 33 | [Abuja](http://twitter.com/search?q=Abuja) | N/A |
+| 34 | [Wales and Scotland](http://twitter.com/search?q=Wales+and+Scotland) | N/A |
+| 35 | [Brexiteers](http://twitter.com/search?q=Brexiteers) | N/A |
+| 36 | [Noel](http://twitter.com/search?q=Noel) | Noel is a French word meaning "Christmas". It is often used as a greeting during the Christmas season. |
+| 37 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
+| 38 | [International Women's Day](http://twitter.com/search?q=International+Women%27s+Day) | N/A |
 | 39 | [Remain](http://twitter.com/search?q=Remain) | N/A |
-| 40 | [International Women's Day](http://twitter.com/search?q=International+Women%27s+Day) | N/A |
-| 41 | [ASTRO](http://twitter.com/search?q=ASTRO) | N/A |
-| 42 | [Cleverly](http://twitter.com/search?q=Cleverly) | Cleverly is an adverb that means in a skillful or clever manner. It is used to describe someone who is able to think quickly and come up with creative solutions. |
-| 43 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 44 | [Tottenham Hotspur](http://twitter.com/search?q=Tottenham+Hotspur) | N/A |
-| 45 | [Abuja](http://twitter.com/search?q=Abuja) | N/A |
-| 46 | [Koran](http://twitter.com/search?q=Koran) | N/A |
-| 47 | [Omos](http://twitter.com/search?q=Omos) | N/A |
+| 40 | [ASTRO](http://twitter.com/search?q=ASTRO) | N/A |
+| 41 | [Tottenham Hotspur](http://twitter.com/search?q=Tottenham+Hotspur) | N/A |
+| 42 | [UK and the EU](http://twitter.com/search?q=UK+and+the+EU) | N/A |
+| 43 | [Koran](http://twitter.com/search?q=Koran) | N/A |
+| 44 | [Cleverly](http://twitter.com/search?q=Cleverly) | Cleverly is an adverb that means in a skillful or clever manner. It is used to describe someone who is able to think quickly and come up with creative solutions. |
+| 45 | [Omos](http://twitter.com/search?q=Omos) | N/A |
+| 46 | [Reception](http://twitter.com/search?q=Reception) | N/A |
+| 47 | [Rupert Murdoch](http://twitter.com/search?q=Rupert+Murdoch) | N/A |
 
 
 

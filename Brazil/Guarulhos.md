@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guarulhos
 
-📆 Last Updated: `2023-02-28 16:16:40 UTC`
+📆 Last Updated: `2023-02-28 17:16:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,51 +19,51 @@ This is top 50 for [Brazil](</Brazil>)
 | 2 | [Lauren](http://twitter.com/search?q=Lauren) | N/A |
 | 3 | [Calvo](http://twitter.com/search?q=Calvo) | N/A |
 | 4 | [Travis](http://twitter.com/search?q=Travis) | N/A |
-| 5 | [Green Day](http://twitter.com/search?q=Green+Day) | N/A |
-| 6 | [JISOO THE FACE OF DIOR](http://twitter.com/search?q=JISOO+THE+FACE+OF+DIOR) | N/A |
-| 7 | [dessa vez não](http://twitter.com/search?q=dessa+vez+n%c3%a3o) | N/A |
-| 8 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
-| 9 | [Bento Gonçalves](http://twitter.com/search?q=Bento+Gon%c3%a7alves) | N/A |
-| 10 | [Sisu](http://twitter.com/search?q=Sisu) | N/A |
-| 11 | [Bolsa Família](http://twitter.com/search?q=Bolsa+Fam%c3%adlia) | N/A |
-| 12 | [#NeverLetMeGoFinalEP](http://twitter.com/search?q=%23NeverLetMeGoFinalEP) | N/A |
-| 13 | [Consea](http://twitter.com/search?q=Consea) | N/A |
-| 14 | [UFMG](http://twitter.com/search?q=UFMG) | N/A |
-| 15 | [#HAPPY_WONHO_DAY](http://twitter.com/search?q=%23HAPPY_WONHO_DAY) | N/A |
-| 16 | [#NeverLetMeGoSeriesFinalEP](http://twitter.com/search?q=%23NeverLetMeGoSeriesFinalEP) | N/A |
-| 17 | [Parabénsssss](http://twitter.com/search?q=Parab%c3%a9nsssss) | N/A |
-| 18 | [Euclides](http://twitter.com/search?q=Euclides) | N/A |
-| 19 | [União Brasil](http://twitter.com/search?q=Uni%c3%a3o+Brasil) | N/A |
-| 20 | [Rioru](http://twitter.com/search?q=Rioru) | N/A |
-| 21 | [chelo](http://twitter.com/search?q=chelo) | N/A |
-| 22 | [UFRJ](http://twitter.com/search?q=UFRJ) | N/A |
-| 23 | [ASTRO](http://twitter.com/search?q=ASTRO) | N/A |
-| 24 | [Campari](http://twitter.com/search?q=Campari) | N/A |
-| 25 | [Final Fantasy XVI](http://twitter.com/search?q=Final+Fantasy+XVI) | N/A |
-| 26 | [Obrigadaaa](http://twitter.com/search?q=Obrigadaaa) | N/A |
-| 27 | [Wanessa Camargo](http://twitter.com/search?q=Wanessa+Camargo) | N/A |
-| 28 | [Elden Ring](http://twitter.com/search?q=Elden+Ring) | N/A |
-| 29 | [Bota](http://twitter.com/search?q=Bota) | N/A |
-| 30 | [Werg](http://twitter.com/search?q=Werg) | N/A |
-| 31 | [ProUni](http://twitter.com/search?q=ProUni) | N/A |
-| 32 | [Miquella](http://twitter.com/search?q=Miquella) | N/A |
-| 33 | [#BalançoGeralRJ](http://twitter.com/search?q=%23Balan%c3%a7oGeralRJ) | N/A |
-| 34 | [show me love](http://twitter.com/search?q=show+me+love) | N/A |
-| 35 | [#FORACARADESAPATO](http://twitter.com/search?q=%23FORACARADESAPATO) | N/A |
-| 36 | [GRLS](http://twitter.com/search?q=GRLS) | N/A |
-| 37 | [ufes](http://twitter.com/search?q=ufes) | N/A |
-| 38 | [Haddad](http://twitter.com/search?q=Haddad) | N/A |
-| 39 | [4 ANOS DE LOUD](http://twitter.com/search?q=4+ANOS+DE+LOUD) | N/A |
-| 40 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
-| 41 | [Juscelino Filho](http://twitter.com/search?q=Juscelino+Filho) | N/A |
-| 42 | [UFOP](http://twitter.com/search?q=UFOP) | N/A |
-| 43 | [Obrigadooo](http://twitter.com/search?q=Obrigadooo) | N/A |
-| 44 | [Imagine Dragons](http://twitter.com/search?q=Imagine+Dragons) | N/A |
-| 45 | [Comunicações](http://twitter.com/search?q=Comunica%c3%a7%c3%b5es) | N/A |
-| 46 | [Petrobras](http://twitter.com/search?q=Petrobras) | N/A |
-| 47 | [UFABC](http://twitter.com/search?q=UFABC) | N/A |
-| 48 | [tinashe](http://twitter.com/search?q=tinashe) | N/A |
-| 49 | [Justus](http://twitter.com/search?q=Justus) | N/A |
+| 5 | [Bin Laden](http://twitter.com/search?q=Bin+Laden) | N/A |
+| 6 | [Racismo](http://twitter.com/search?q=Racismo) | N/A |
+| 7 | [twenty one pilots](http://twitter.com/search?q=twenty+one+pilots) | N/A |
+| 8 | [Lelê](http://twitter.com/search?q=Lel%c3%aa) | N/A |
+| 9 | [#JISOOxDiorAW23](http://twitter.com/search?q=%23JISOOxDiorAW23) | N/A |
+| 10 | [4 ANOS DE LOUD](http://twitter.com/search?q=4+ANOS+DE+LOUD) | N/A |
+| 11 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
+| 12 | [EU QUERO BOTI](http://twitter.com/search?q=EU+QUERO+BOTI) | N/A |
+| 13 | [DESSA VEZ NÃO](http://twitter.com/search?q=DESSA+VEZ+N%c3%83O) | N/A |
+| 14 | [Bento Gonçalves](http://twitter.com/search?q=Bento+Gon%c3%a7alves) | N/A |
+| 15 | [#NeverLetMeGoFinalEP](http://twitter.com/search?q=%23NeverLetMeGoFinalEP) | N/A |
+| 16 | [Apple](http://twitter.com/search?q=Apple) | N/A |
+| 17 | [Petrobras](http://twitter.com/search?q=Petrobras) | N/A |
+| 18 | [Bolsa Família](http://twitter.com/search?q=Bolsa+Fam%c3%adlia) | N/A |
+| 19 | [#HeavenObeysElijah](http://twitter.com/search?q=%23HeavenObeysElijah) | N/A |
+| 20 | [UFMG](http://twitter.com/search?q=UFMG) | N/A |
+| 21 | [Sisu](http://twitter.com/search?q=Sisu) | N/A |
+| 22 | [#HAPPY_WONHO_DAY](http://twitter.com/search?q=%23HAPPY_WONHO_DAY) | N/A |
+| 23 | [Consea](http://twitter.com/search?q=Consea) | N/A |
+| 24 | [União Brasil](http://twitter.com/search?q=Uni%c3%a3o+Brasil) | N/A |
+| 25 | [#BalançoGeralRJ](http://twitter.com/search?q=%23Balan%c3%a7oGeralRJ) | N/A |
+| 26 | [Rioru](http://twitter.com/search?q=Rioru) | N/A |
+| 27 | [Campari](http://twitter.com/search?q=Campari) | N/A |
+| 28 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
+| 29 | [Blink](http://twitter.com/search?q=Blink) | N/A |
+| 30 | [iPhone 15](http://twitter.com/search?q=iPhone+15) | N/A |
+| 31 | [Haddad](http://twitter.com/search?q=Haddad) | N/A |
+| 32 | [UFRJ](http://twitter.com/search?q=UFRJ) | N/A |
+| 33 | [Final Fantasy XVI](http://twitter.com/search?q=Final+Fantasy+XVI) | N/A |
+| 34 | [ASTRO](http://twitter.com/search?q=ASTRO) | N/A |
+| 35 | [GRLS](http://twitter.com/search?q=GRLS) | N/A |
+| 36 | [Parabénssss](http://twitter.com/search?q=Parab%c3%a9nssss) | N/A |
+| 37 | [Chelo](http://twitter.com/search?q=Chelo) | N/A |
+| 38 | [Euclides](http://twitter.com/search?q=Euclides) | N/A |
+| 39 | [Creed III](http://twitter.com/search?q=Creed+III) | N/A |
+| 40 | [Miquella](http://twitter.com/search?q=Miquella) | N/A |
+| 41 | [Obrigadaaa](http://twitter.com/search?q=Obrigadaaa) | N/A |
+| 42 | [ProUni](http://twitter.com/search?q=ProUni) | N/A |
+| 43 | [Bota](http://twitter.com/search?q=Bota) | N/A |
+| 44 | [Werg](http://twitter.com/search?q=Werg) | N/A |
+| 45 | [LDRV](http://twitter.com/search?q=LDRV) | N/A |
+| 46 | [ufes](http://twitter.com/search?q=ufes) | N/A |
+| 47 | [Elden Ring](http://twitter.com/search?q=Elden+Ring) | N/A |
+| 48 | [UFOP](http://twitter.com/search?q=UFOP) | N/A |
+| 49 | [Imagine Dragons](http://twitter.com/search?q=Imagine+Dragons) | N/A |
 
 
 

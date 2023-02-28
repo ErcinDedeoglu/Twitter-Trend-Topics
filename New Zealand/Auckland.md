@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Auckland
 
-📆 Last Updated: `2023-02-28 16:17:09 UTC`
+📆 Last Updated: `2023-02-28 17:16:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,12 +21,12 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 4 | [#mafsaunz](http://twitter.com/search?q=%23mafsaunz) | N/A |
 | 5 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 6 | [Test Cricket](http://twitter.com/search?q=Test+Cricket) | N/A |
-| 7 | [Neil Wagner](http://twitter.com/search?q=Neil+Wagner) | N/A |
-| 8 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
-| 9 | [hdpa](http://twitter.com/search?q=hdpa) | N/A |
-| 10 | [Bracewell](http://twitter.com/search?q=Bracewell) | Bracewell is a surname of English origin. It is derived from the Old English words "braec" meaning "hill" and "wella" meaning "spring". The name is thought to refer to someone who lived near a hill with a spring. |
-| 11 | [England](http://twitter.com/search?q=England) | N/A |
-| 12 | [Root](http://twitter.com/search?q=Root) | N/A |
+| 7 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
+| 8 | [hdpa](http://twitter.com/search?q=hdpa) | N/A |
+| 9 | [Bracewell](http://twitter.com/search?q=Bracewell) | Bracewell is a surname of English origin. It is derived from the Old English words "braec" meaning "hill" and "wella" meaning "spring". The name is thought to refer to someone who lived near a hill with a spring. |
+| 10 | [England](http://twitter.com/search?q=England) | N/A |
+| 11 | [Root](http://twitter.com/search?q=Root) | N/A |
+| 12 | [Neil Wagner](http://twitter.com/search?q=Neil+Wagner) | N/A |
 | 13 | [#blackcaps](http://twitter.com/search?q=%23blackcaps) | N/A |
 | 14 | [Bishop](http://twitter.com/search?q=Bishop) | N/A |
 | 15 | [Foakes](http://twitter.com/search?q=Foakes) | N/A |
@@ -35,25 +35,25 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 18 | [Lotto](http://twitter.com/search?q=Lotto) | N/A |
 | 19 | [southee](http://twitter.com/search?q=southee) | N/A |
 | 20 | [Picton](http://twitter.com/search?q=Picton) | N/A |
-| 21 | [te whatu ora](http://twitter.com/search?q=te+whatu+ora) | N/A |
-| 22 | [Hilary](http://twitter.com/search?q=Hilary) | N/A |
-| 23 | [Stokes](http://twitter.com/search?q=Stokes) | N/A |
-| 24 | [health nz](http://twitter.com/search?q=health+nz) | N/A |
-| 25 | [Basin Reserve](http://twitter.com/search?q=Basin+Reserve) | N/A |
-| 26 | [prime minister chris hipkins](http://twitter.com/search?q=prime+minister+chris+hipkins) | N/A |
-| 27 | [Heather](http://twitter.com/search?q=Heather) | N/A |
-| 28 | [Floof](http://twitter.com/search?q=Floof) | N/A |
-| 29 | [Murdoch](http://twitter.com/search?q=Murdoch) | N/A |
-| 30 | [ayesha verrall](http://twitter.com/search?q=ayesha+verrall) | N/A |
-| 31 | [Aurora Australis](http://twitter.com/search?q=Aurora+Australis) | N/A |
-| 32 | [chester borrows](http://twitter.com/search?q=chester+borrows) | N/A |
-| 33 | [Winston](http://twitter.com/search?q=Winston) | N/A |
-| 34 | [Tokelau](http://twitter.com/search?q=Tokelau) | N/A |
-| 35 | [Bazball](http://twitter.com/search?q=Bazball) | N/A |
-| 36 | [Liz Gunn](http://twitter.com/search?q=Liz+Gunn) | N/A |
-| 37 | [pākehā](http://twitter.com/search?q=p%c4%81keh%c4%81) | N/A |
-| 38 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 39 | [Blundell](http://twitter.com/search?q=Blundell) | N/A |
+| 21 | [Hilary](http://twitter.com/search?q=Hilary) | N/A |
+| 22 | [Stokes](http://twitter.com/search?q=Stokes) | N/A |
+| 23 | [Basin Reserve](http://twitter.com/search?q=Basin+Reserve) | N/A |
+| 24 | [prime minister chris hipkins](http://twitter.com/search?q=prime+minister+chris+hipkins) | N/A |
+| 25 | [Floof](http://twitter.com/search?q=Floof) | N/A |
+| 26 | [Murdoch](http://twitter.com/search?q=Murdoch) | N/A |
+| 27 | [ayesha verrall](http://twitter.com/search?q=ayesha+verrall) | N/A |
+| 28 | [heather du plessis-allan](http://twitter.com/search?q=heather+du+plessis-allan) | N/A |
+| 29 | [Health NZ](http://twitter.com/search?q=Health+NZ) | N/A |
+| 30 | [chester borrows](http://twitter.com/search?q=chester+borrows) | N/A |
+| 31 | [Aurora](http://twitter.com/search?q=Aurora) | N/A |
+| 32 | [Winston](http://twitter.com/search?q=Winston) | N/A |
+| 33 | [Tokelau](http://twitter.com/search?q=Tokelau) | N/A |
+| 34 | [Bazball](http://twitter.com/search?q=Bazball) | N/A |
+| 35 | [Liz Gunn](http://twitter.com/search?q=Liz+Gunn) | N/A |
+| 36 | [pākehā](http://twitter.com/search?q=p%c4%81keh%c4%81) | N/A |
+| 37 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 38 | [Blundell](http://twitter.com/search?q=Blundell) | N/A |
+| 39 | [Te Whatu Ora](http://twitter.com/search?q=Te+Whatu+Ora) | N/A |
 | 40 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
 | 41 | [young nats](http://twitter.com/search?q=young+nats) | N/A |
 | 42 | [Board](http://twitter.com/search?q=Board) | N/A |
