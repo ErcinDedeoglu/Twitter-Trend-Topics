@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Multan
 
-📆 Last Updated: `2023-02-28 02:41:34 UTC`
+📆 Last Updated: `2023-02-28 03:20:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Pakistan](</Pakistan>)
 | ------- | ------------ | ------------ |
 | 1 | [#امجد_شعیب_کو_رہا_کرو](http://twitter.com/search?q=%23%d8%a7%d9%85%d8%ac%d8%af_%d8%b4%d8%b9%db%8c%d8%a8_%da%a9%d9%88_%d8%b1%db%81%d8%a7_%da%a9%d8%b1%d9%88) | N/A |
 | 2 | [#ظالموں_پرپہلاوارشٹرڈاؤن_ہڑتال](http://twitter.com/search?q=%23%d8%b8%d8%a7%d9%84%d9%85%d9%88%da%ba_%d9%be%d8%b1%d9%be%db%81%d9%84%d8%a7%d9%88%d8%a7%d8%b1%d8%b4%d9%b9%d8%b1%da%88%d8%a7%d8%a4%d9%86_%db%81%da%91%d8%aa%d8%a7%d9%84) | N/A |
-| 3 | [#LQvIU](http://twitter.com/search?q=%23LQvIU) | N/A |
-| 4 | [#شٹرڈاون_ہڑتال_27_فروری](http://twitter.com/search?q=%23%d8%b4%d9%b9%d8%b1%da%88%d8%a7%d9%88%d9%86_%db%81%da%91%d8%aa%d8%a7%d9%84_27_%d9%81%d8%b1%d9%88%d8%b1%db%8c) | N/A |
-| 5 | [Lahore Qalandars](http://twitter.com/search?q=Lahore+Qalandars) | N/A |
-| 6 | [Lt Gen](http://twitter.com/search?q=Lt+Gen) | N/A |
-| 7 | [Abdullah Shafique](http://twitter.com/search?q=Abdullah+Shafique) | N/A |
-| 8 | [Rashid](http://twitter.com/search?q=Rashid) | N/A |
-| 9 | [fakhar zaman](http://twitter.com/search?q=fakhar+zaman) | N/A |
-| 10 | [Wiese](http://twitter.com/search?q=Wiese) | N/A |
-| 11 | [Tom Curran](http://twitter.com/search?q=Tom+Curran) | N/A |
-| 12 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 13 | [tayyab tahir](http://twitter.com/search?q=tayyab+tahir) | N/A |
-| 14 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
-| 15 | [Credit](http://twitter.com/search?q=Credit) | N/A |
-| 16 | [Haris Rauf](http://twitter.com/search?q=Haris+Rauf) | N/A |
-| 17 | [saim ayub](http://twitter.com/search?q=saim+ayub) | N/A |
-| 18 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 19 | [Prince of Karbala](http://twitter.com/search?q=Prince+of+Karbala) | N/A |
+| 3 | [#ENGvsNZ](http://twitter.com/search?q=%23ENGvsNZ) | N/A |
+| 4 | [#LQvIU](http://twitter.com/search?q=%23LQvIU) | N/A |
+| 5 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
+| 6 | [England](http://twitter.com/search?q=England) | N/A |
+| 7 | [Lahore Qalandars](http://twitter.com/search?q=Lahore+Qalandars) | N/A |
+| 8 | [Abdullah Shafique](http://twitter.com/search?q=Abdullah+Shafique) | N/A |
+| 9 | [Rashid](http://twitter.com/search?q=Rashid) | N/A |
+| 10 | [fakhar zaman](http://twitter.com/search?q=fakhar+zaman) | N/A |
+| 11 | [Lt Gen](http://twitter.com/search?q=Lt+Gen) | N/A |
+| 12 | [WIESE](http://twitter.com/search?q=WIESE) | N/A |
+| 13 | [Tom Curran](http://twitter.com/search?q=Tom+Curran) | N/A |
+| 14 | [tayyab tahir](http://twitter.com/search?q=tayyab+tahir) | N/A |
+| 15 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
+| 16 | [Saim Ayub](http://twitter.com/search?q=Saim+Ayub) | N/A |
+| 17 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 18 | [Prince of Karbala](http://twitter.com/search?q=Prince+of+Karbala) | N/A |
+| 19 | [Credit](http://twitter.com/search?q=Credit) | N/A |
 | 20 | [Your DM](http://twitter.com/search?q=Your+DM) | N/A |
 | 21 | [Hassan](http://twitter.com/search?q=Hassan) | N/A |
-| 22 | [Abrar](http://twitter.com/search?q=Abrar) | N/A |
-| 23 | [Wealth](http://twitter.com/search?q=Wealth) | Wealth is an abundance of valuable resources or material possessions. It can refer to money, investments, real estate, and other tangible and intangible assets. Wealth is often used to measure a person's financial standing or social status. |
+| 22 | [Haris Rauf](http://twitter.com/search?q=Haris+Rauf) | N/A |
+| 23 | [G-11](http://twitter.com/search?q=G-11) | N/A |
 | 24 | [Kindly](http://twitter.com/search?q=Kindly) | N/A |
 | 25 | [Adam Rossington](http://twitter.com/search?q=Adam+Rossington) | N/A |
 | 26 | [Heya](http://twitter.com/search?q=Heya) | N/A |
-| 27 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 28 | [Check DM](http://twitter.com/search?q=Check+DM) | N/A |
-| 29 | [Pashtun](http://twitter.com/search?q=Pashtun) | N/A |
-| 30 | [Army](http://twitter.com/search?q=Army) | N/A |
-| 31 | [London](http://twitter.com/search?q=London) | N/A |
-| 32 | [Slide](http://twitter.com/search?q=Slide) | N/A |
-| 33 | [England](http://twitter.com/search?q=England) | N/A |
-| 34 | [Quran](http://twitter.com/search?q=Quran) | N/A |
+| 27 | [Doctor](http://twitter.com/search?q=Doctor) | N/A |
+| 28 | [Army](http://twitter.com/search?q=Army) | N/A |
+| 29 | [Salam](http://twitter.com/search?q=Salam) | N/A |
+| 30 | [Pashtun](http://twitter.com/search?q=Pashtun) | N/A |
+| 31 | [Slide](http://twitter.com/search?q=Slide) | N/A |
+| 32 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 33 | [Quran](http://twitter.com/search?q=Quran) | N/A |
+| 34 | [Stay Blessed](http://twitter.com/search?q=Stay+Blessed) | N/A |
 | 35 | [Sharif](http://twitter.com/search?q=Sharif) | N/A |
-| 36 | [Road](http://twitter.com/search?q=Road) | N/A |
-| 37 | [Stake](http://twitter.com/search?q=Stake) | N/A |
-| 38 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 39 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 40 | [Bhai](http://twitter.com/search?q=Bhai) | N/A |
-| 41 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 42 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
-| 43 | [Snapchat](http://twitter.com/search?q=Snapchat) | N/A |
-| 44 | [Palestine](http://twitter.com/search?q=Palestine) | N/A |
-| 45 | [Amen](http://twitter.com/search?q=Amen) | N/A |
-| 46 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
-| 47 | [Dear Customer](http://twitter.com/search?q=Dear+Customer) | N/A |
-| 48 | [NUST](http://twitter.com/search?q=NUST) | N/A |
-| 49 | [May God](http://twitter.com/search?q=May+God) | N/A |
+| 36 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 37 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 38 | [Shadab](http://twitter.com/search?q=Shadab) | N/A |
+| 39 | [London](http://twitter.com/search?q=London) | N/A |
+| 40 | [Simply](http://twitter.com/search?q=Simply) | N/A |
+| 41 | [Musharraf](http://twitter.com/search?q=Musharraf) | N/A |
+| 42 | [Palestine](http://twitter.com/search?q=Palestine) | N/A |
+| 43 | [Lovely](http://twitter.com/search?q=Lovely) | N/A |
+| 44 | [Queen](http://twitter.com/search?q=Queen) | N/A |
+| 45 | [Elite](http://twitter.com/search?q=Elite) | N/A |
+| 46 | [Bhai](http://twitter.com/search?q=Bhai) | N/A |
+| 47 | [Ameen](http://twitter.com/search?q=Ameen) | N/A |
+| 48 | [Snapchat](http://twitter.com/search?q=Snapchat) | N/A |
+| 49 | [Israel](http://twitter.com/search?q=Israel) | N/A |
 
 
 

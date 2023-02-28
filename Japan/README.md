@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Japan
 
-📆 Last Updated: `2023-02-28 02:41:51 UTC`
+📆 Last Updated: `2023-02-28 03:20:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Japan
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [滝沢歌舞伎](http://twitter.com/search?q=%e6%bb%9d%e6%b2%a2%e6%ad%8c%e8%88%9e%e4%bc%8e) | 滝沢歌舞伎 (Takizawa Kabuki) is a traditional form of Japanese theater that combines music, dance, and drama. It originated in the Edo period (1603-1868) and is still performed today. The name comes from the Takizawa district of Tokyo, where it was first performed. In English, it can be translated as "Takizawa Kabuki Theater". |
-| 2 | [ハイカラシティ](http://twitter.com/search?q=%e3%83%8f%e3%82%a4%e3%82%ab%e3%83%a9%e3%82%b7%e3%83%86%e3%82%a3) | N/A |
-| 3 | [クランチ](http://twitter.com/search?q=%e3%82%af%e3%83%a9%e3%83%b3%e3%83%81) | N/A |
-| 4 | [安定の落選](http://twitter.com/search?q=%e5%ae%89%e5%ae%9a%e3%81%ae%e8%90%bd%e9%81%b8) | N/A |
-| 5 | [#勝手に通すなインボイス制度](http://twitter.com/search?q=%23%e5%8b%9d%e6%89%8b%e3%81%ab%e9%80%9a%e3%81%99%e3%81%aa%e3%82%a4%e3%83%b3%e3%83%9c%e3%82%a4%e3%82%b9%e5%88%b6%e5%ba%a6) | N/A |
-| 6 | [#ゴンチャの新作予想](http://twitter.com/search?q=%23%e3%82%b4%e3%83%b3%e3%83%81%e3%83%a3%e3%81%ae%e6%96%b0%e4%bd%9c%e4%ba%88%e6%83%b3) | N/A |
-| 7 | [#ローソンヘブバンコラボ](http://twitter.com/search?q=%23%e3%83%ad%e3%83%bc%e3%82%bd%e3%83%b3%e3%83%98%e3%83%96%e3%83%90%e3%83%b3%e3%82%b3%e3%83%a9%e3%83%9c) | N/A |
-| 8 | [#スッキリ](http://twitter.com/search?q=%23%e3%82%b9%e3%83%83%e3%82%ad%e3%83%aa) | #スッキリ is a Japanese hashtag that translates to "refreshingly" or "refreshingly clear". It is often used to describe something that is refreshing, clear, and easy to understand. |
-| 9 | [イイネイヌ](http://twitter.com/search?q=%e3%82%a4%e3%82%a4%e3%83%8d%e3%82%a4%e3%83%8c) | N/A |
-| 10 | [#キンプリ2作連続ミリオンおめでとう](http://twitter.com/search?q=%23%e3%82%ad%e3%83%b3%e3%83%97%e3%83%aa2%e4%bd%9c%e9%80%a3%e7%b6%9a%e3%83%9f%e3%83%aa%e3%82%aa%e3%83%b3%e3%81%8a%e3%82%81%e3%81%a7%e3%81%a8%e3%81%86) | N/A |
-| 11 | [津田沼パルコ](http://twitter.com/search?q=%e6%b4%a5%e7%94%b0%e6%b2%bc%e3%83%91%e3%83%ab%e3%82%b3) | N/A |
-| 12 | [いちごあんにん](http://twitter.com/search?q=%e3%81%84%e3%81%a1%e3%81%94%e3%81%82%e3%82%93%e3%81%ab%e3%82%93) | N/A |
-| 13 | [ハエの幼虫](http://twitter.com/search?q=%e3%83%8f%e3%82%a8%e3%81%ae%e5%b9%bc%e8%99%ab) | N/A |
-| 14 | [長尾くん](http://twitter.com/search?q=%e9%95%b7%e5%b0%be%e3%81%8f%e3%82%93) | 長尾くん (Nagao-kun) is a Japanese manga series written and illustrated by Takashi Fukutani. It follows the story of Nagao, a high school student who is struggling to find his place in the world. The title of the series is a play on words, as "nagao" can mean both "long tail" and "long life". In English, it could be translated as "Long Tail Boy". |
-| 15 | [佐藤景瑚](http://twitter.com/search?q=%e4%bd%90%e8%97%a4%e6%99%af%e7%91%9a) | N/A |
-| 16 | [新作ジュエリー](http://twitter.com/search?q=%e6%96%b0%e4%bd%9c%e3%82%b8%e3%83%a5%e3%82%a8%e3%83%aa%e3%83%bc) | N/A |
-| 17 | [ビスケットの日](http://twitter.com/search?q=%e3%83%93%e3%82%b9%e3%82%b1%e3%83%83%e3%83%88%e3%81%ae%e6%97%a5) | N/A |
-| 18 | [ELLE Japan](http://twitter.com/search?q=ELLE+Japan) | N/A |
-| 19 | [ゲートガーディアン](http://twitter.com/search?q=%e3%82%b2%e3%83%bc%e3%83%88%e3%82%ac%e3%83%bc%e3%83%87%e3%82%a3%e3%82%a2%e3%83%b3) | N/A |
-| 20 | [ショーメ](http://twitter.com/search?q=%e3%82%b7%e3%83%a7%e3%83%bc%e3%83%a1) | N/A |
-| 21 | [五輪談合](http://twitter.com/search?q=%e4%ba%94%e8%bc%aa%e8%ab%87%e5%90%88) | N/A |
-| 22 | [宇宙飛行士](http://twitter.com/search?q=%e5%ae%87%e5%ae%99%e9%a3%9b%e8%a1%8c%e5%a3%ab) | N/A |
-| 23 | [ナメロウ](http://twitter.com/search?q=%e3%83%8a%e3%83%a1%e3%83%ad%e3%82%a6) | N/A |
-| 24 | [妖精のランプ](http://twitter.com/search?q=%e5%a6%96%e7%b2%be%e3%81%ae%e3%83%a9%e3%83%b3%e3%83%97) | N/A |
-| 25 | [アースインフィニティ](http://twitter.com/search?q=%e3%82%a2%e3%83%bc%e3%82%b9%e3%82%a4%e3%83%b3%e3%83%95%e3%82%a3%e3%83%8b%e3%83%86%e3%82%a3) | N/A |
-| 26 | [ウネルミナモ](http://twitter.com/search?q=%e3%82%a6%e3%83%8d%e3%83%ab%e3%83%9f%e3%83%8a%e3%83%a2) | N/A |
-| 27 | [つだぬまパルコ駅](http://twitter.com/search?q=%e3%81%a4%e3%81%a0%e3%81%ac%e3%81%be%e3%83%91%e3%83%ab%e3%82%b3%e9%a7%85) | N/A |
-| 28 | [テラピース節約](http://twitter.com/search?q=%e3%83%86%e3%83%a9%e3%83%94%e3%83%bc%e3%82%b9%e7%af%80%e7%b4%84) | N/A |
-| 29 | [春の陽気](http://twitter.com/search?q=%e6%98%a5%e3%81%ae%e9%99%bd%e6%b0%97) | N/A |
-| 30 | [駆け込み申請](http://twitter.com/search?q=%e9%a7%86%e3%81%91%e8%be%bc%e3%81%bf%e7%94%b3%e8%ab%8b) | N/A |
-| 31 | [ライビュの詳細](http://twitter.com/search?q=%e3%83%a9%e3%82%a4%e3%83%93%e3%83%a5%e3%81%ae%e8%a9%b3%e7%b4%b0) | N/A |
-| 32 | [リコリス5周年](http://twitter.com/search?q=%e3%83%aa%e3%82%b3%e3%83%aa%e3%82%b95%e5%91%a8%e5%b9%b4) | N/A |
-| 33 | [ANAのセール](http://twitter.com/search?q=ANA%e3%81%ae%e3%82%bb%e3%83%bc%e3%83%ab) | N/A |
-| 34 | [介護保険証](http://twitter.com/search?q=%e4%bb%8b%e8%ad%b7%e4%bf%9d%e9%99%ba%e8%a8%bc) | N/A |
-| 35 | [ククパケ](http://twitter.com/search?q=%e3%82%af%e3%82%af%e3%83%91%e3%82%b1) | ククパケ is a Japanese onomatopoeia that is used to describe the sound of something being crushed or broken. In English, it could be translated as "crunch". |
-| 36 | [マイナポイント](http://twitter.com/search?q=%e3%83%9e%e3%82%a4%e3%83%8a%e3%83%9d%e3%82%a4%e3%83%b3%e3%83%88) | N/A |
-| 37 | [環奈ちゃん](http://twitter.com/search?q=%e7%92%b0%e5%a5%88%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 38 | [フラゲ完了](http://twitter.com/search?q=%e3%83%95%e3%83%a9%e3%82%b2%e5%ae%8c%e4%ba%86) | N/A |
-| 39 | [上伊那ぼたん](http://twitter.com/search?q=%e4%b8%8a%e4%bc%8a%e9%82%a3%e3%81%bc%e3%81%9f%e3%82%93) | N/A |
-| 40 | [ステージ改修](http://twitter.com/search?q=%e3%82%b9%e3%83%86%e3%83%bc%e3%82%b8%e6%94%b9%e4%bf%ae) | N/A |
-| 41 | [延伸の可能性](http://twitter.com/search?q=%e5%bb%b6%e4%bc%b8%e3%81%ae%e5%8f%af%e8%83%bd%e6%80%a7) | N/A |
-| 42 | [スイクン](http://twitter.com/search?q=%e3%82%b9%e3%82%a4%e3%82%af%e3%83%b3) | N/A |
-| 43 | [刑事告発](http://twitter.com/search?q=%e5%88%91%e4%ba%8b%e5%91%8a%e7%99%ba) | N/A |
-| 44 | [謙杜くん](http://twitter.com/search?q=%e8%ac%99%e6%9d%9c%e3%81%8f%e3%82%93) | N/A |
-| 45 | [歌舞伎会](http://twitter.com/search?q=%e6%ad%8c%e8%88%9e%e4%bc%8e%e4%bc%9a) | N/A |
-| 46 | [絶滅植物](http://twitter.com/search?q=%e7%b5%b6%e6%bb%85%e6%a4%8d%e7%89%a9) | N/A |
-| 47 | [ニッチェッチェ](http://twitter.com/search?q=%e3%83%8b%e3%83%83%e3%83%81%e3%82%a7%e3%83%83%e3%83%81%e3%82%a7) | N/A |
-| 48 | [フラゲ日](http://twitter.com/search?q=%e3%83%95%e3%83%a9%e3%82%b2%e6%97%a5) | N/A |
-| 49 | [いちご杏仁](http://twitter.com/search?q=%e3%81%84%e3%81%a1%e3%81%94%e6%9d%8f%e4%bb%81) | N/A |
-| 50 | [高校合格](http://twitter.com/search?q=%e9%ab%98%e6%a0%a1%e5%90%88%e6%a0%bc) | N/A |
+| 1 | [ヘカテー](http://twitter.com/search?q=%e3%83%98%e3%82%ab%e3%83%86%e3%83%bc) | N/A |
+| 2 | [滝沢歌舞伎](http://twitter.com/search?q=%e6%bb%9d%e6%b2%a2%e6%ad%8c%e8%88%9e%e4%bc%8e) | 滝沢歌舞伎 (Takizawa Kabuki) is a traditional form of Japanese theater that combines music, dance, and drama. It originated in the Edo period (1603-1868) and is still performed today. The name comes from the Takizawa district of Tokyo, where it was first performed. In English, it can be translated as "Takizawa Kabuki Theater". |
+| 3 | [ハイカラシティ](http://twitter.com/search?q=%e3%83%8f%e3%82%a4%e3%82%ab%e3%83%a9%e3%82%b7%e3%83%86%e3%82%a3) | N/A |
+| 4 | [クランチ](http://twitter.com/search?q=%e3%82%af%e3%83%a9%e3%83%b3%e3%83%81) | N/A |
+| 5 | [#ファミマでスキズ](http://twitter.com/search?q=%23%e3%83%95%e3%82%a1%e3%83%9f%e3%83%9e%e3%81%a7%e3%82%b9%e3%82%ad%e3%82%ba) | N/A |
+| 6 | [#IRIAMメンテ中のフォロー祭り](http://twitter.com/search?q=%23IRIAM%e3%83%a1%e3%83%b3%e3%83%86%e4%b8%ad%e3%81%ae%e3%83%95%e3%82%a9%e3%83%ad%e3%83%bc%e7%a5%ad%e3%82%8a) | #IRIAMメンテ中のフォロー祭り is a hashtag used on Twitter to encourage people to follow each other during maintenance of the IRIAM platform. It is a way for users to show their support for the platform and to help spread the word about it. In English, it translates to "Follow Festival During IRIAM Maintenance". |
+| 7 | [#勝手に通すなインボイス制度](http://twitter.com/search?q=%23%e5%8b%9d%e6%89%8b%e3%81%ab%e9%80%9a%e3%81%99%e3%81%aa%e3%82%a4%e3%83%b3%e3%83%9c%e3%82%a4%e3%82%b9%e5%88%b6%e5%ba%a6) | N/A |
+| 8 | [ヴァイタリティー](http://twitter.com/search?q=%e3%83%b4%e3%82%a1%e3%82%a4%e3%82%bf%e3%83%aa%e3%83%86%e3%82%a3%e3%83%bc) | N/A |
+| 9 | [ルオー武器](http://twitter.com/search?q=%e3%83%ab%e3%82%aa%e3%83%bc%e6%ad%a6%e5%99%a8) | N/A |
+| 10 | [フェディエル](http://twitter.com/search?q=%e3%83%95%e3%82%a7%e3%83%87%e3%82%a3%e3%82%a8%e3%83%ab) | フェディエル (Fediel) is a Japanese fantasy novel series written by author Takashi Yano. It follows the story of a young man named Fediel, who is sent on a quest to save the world from an evil force. The series has been adapted into several manga and anime series. In English, the title translates to "The Hero of Fediel". |
+| 11 | [Wet Leg](http://twitter.com/search?q=Wet+Leg) | N/A |
+| 12 | [宇宙飛行士](http://twitter.com/search?q=%e5%ae%87%e5%ae%99%e9%a3%9b%e8%a1%8c%e5%a3%ab) | N/A |
+| 13 | [津田沼パルコ](http://twitter.com/search?q=%e6%b4%a5%e7%94%b0%e6%b2%bc%e3%83%91%e3%83%ab%e3%82%b3) | N/A |
+| 14 | [サマソニ](http://twitter.com/search?q=%e3%82%b5%e3%83%9e%e3%82%bd%e3%83%8b) | サマソニ is short for "Summer Sonic", which is an annual music festival held in Japan. It features a variety of popular Japanese and international artists, and has been held since 2000. |
+| 15 | [#ゴンチャの新作予想](http://twitter.com/search?q=%23%e3%82%b4%e3%83%b3%e3%83%81%e3%83%a3%e3%81%ae%e6%96%b0%e4%bd%9c%e4%ba%88%e6%83%b3) | N/A |
+| 16 | [イイネイヌ](http://twitter.com/search?q=%e3%82%a4%e3%82%a4%e3%83%8d%e3%82%a4%e3%83%8c) | N/A |
+| 17 | [#ローソンヘブバンコラボ](http://twitter.com/search?q=%23%e3%83%ad%e3%83%bc%e3%82%bd%e3%83%b3%e3%83%98%e3%83%96%e3%83%90%e3%83%b3%e3%82%b3%e3%83%a9%e3%83%9c) | N/A |
+| 18 | [長尾くん](http://twitter.com/search?q=%e9%95%b7%e5%b0%be%e3%81%8f%e3%82%93) | 長尾くん (Nagao-kun) is a Japanese manga series written and illustrated by Takashi Fukutani. It follows the story of Nagao, a high school student who is struggling to find his place in the world. The title of the series is a play on words, as "nagao" can mean both "long tail" and "long life". In English, it could be translated as "Long Tail Boy". |
+| 19 | [ナメロウ](http://twitter.com/search?q=%e3%83%8a%e3%83%a1%e3%83%ad%e3%82%a6) | N/A |
+| 20 | [ゲートガーディアン](http://twitter.com/search?q=%e3%82%b2%e3%83%bc%e3%83%88%e3%82%ac%e3%83%bc%e3%83%87%e3%82%a3%e3%82%a2%e3%83%b3) | N/A |
+| 21 | [ハエの幼虫](http://twitter.com/search?q=%e3%83%8f%e3%82%a8%e3%81%ae%e5%b9%bc%e8%99%ab) | N/A |
+| 22 | [ル・オー](http://twitter.com/search?q=%e3%83%ab%e3%83%bb%e3%82%aa%e3%83%bc) | N/A |
+| 23 | [いちごあんにん](http://twitter.com/search?q=%e3%81%84%e3%81%a1%e3%81%94%e3%81%82%e3%82%93%e3%81%ab%e3%82%93) | N/A |
+| 24 | [新作ジュエリー](http://twitter.com/search?q=%e6%96%b0%e4%bd%9c%e3%82%b8%e3%83%a5%e3%82%a8%e3%83%aa%e3%83%bc) | N/A |
+| 25 | [佐藤景瑚](http://twitter.com/search?q=%e4%bd%90%e8%97%a4%e6%99%af%e7%91%9a) | N/A |
+| 26 | [ライビュの詳細](http://twitter.com/search?q=%e3%83%a9%e3%82%a4%e3%83%93%e3%83%a5%e3%81%ae%e8%a9%b3%e7%b4%b0) | N/A |
+| 27 | [ショーメ](http://twitter.com/search?q=%e3%82%b7%e3%83%a7%e3%83%bc%e3%83%a1) | N/A |
+| 28 | [ビスケットの日](http://twitter.com/search?q=%e3%83%93%e3%82%b9%e3%82%b1%e3%83%83%e3%83%88%e3%81%ae%e6%97%a5) | N/A |
+| 29 | [ELLE Japan](http://twitter.com/search?q=ELLE+Japan) | N/A |
+| 30 | [ステージ改修](http://twitter.com/search?q=%e3%82%b9%e3%83%86%e3%83%bc%e3%82%b8%e6%94%b9%e4%bf%ae) | N/A |
+| 31 | [ルオーくん](http://twitter.com/search?q=%e3%83%ab%e3%82%aa%e3%83%bc%e3%81%8f%e3%82%93) | N/A |
+| 32 | [五輪談合](http://twitter.com/search?q=%e4%ba%94%e8%bc%aa%e8%ab%87%e5%90%88) | N/A |
+| 33 | [ワム斧互換](http://twitter.com/search?q=%e3%83%af%e3%83%a0%e6%96%a7%e4%ba%92%e6%8f%9b) | N/A |
+| 34 | [妖精のランプ](http://twitter.com/search?q=%e5%a6%96%e7%b2%be%e3%81%ae%e3%83%a9%e3%83%b3%e3%83%97) | N/A |
+| 35 | [春の陽気](http://twitter.com/search?q=%e6%98%a5%e3%81%ae%e9%99%bd%e6%b0%97) | N/A |
+| 36 | [ルオー拳](http://twitter.com/search?q=%e3%83%ab%e3%82%aa%e3%83%bc%e6%8b%b3) | N/A |
+| 37 | [歌舞伎会](http://twitter.com/search?q=%e6%ad%8c%e8%88%9e%e4%bc%8e%e4%bc%9a) | N/A |
+| 38 | [リコリス5周年](http://twitter.com/search?q=%e3%83%aa%e3%82%b3%e3%83%aa%e3%82%b95%e5%91%a8%e5%b9%b4) | N/A |
+| 39 | [マイナポイント](http://twitter.com/search?q=%e3%83%9e%e3%82%a4%e3%83%8a%e3%83%9d%e3%82%a4%e3%83%b3%e3%83%88) | N/A |
+| 40 | [フェディ石](http://twitter.com/search?q=%e3%83%95%e3%82%a7%e3%83%87%e3%82%a3%e7%9f%b3) | N/A |
+| 41 | [slowthai](http://twitter.com/search?q=slowthai) | N/A |
+| 42 | [ウネルミナモ](http://twitter.com/search?q=%e3%82%a6%e3%83%8d%e3%83%ab%e3%83%9f%e3%83%8a%e3%83%a2) | N/A |
+| 43 | [ククパケ](http://twitter.com/search?q=%e3%82%af%e3%82%af%e3%83%91%e3%82%b1) | ククパケ is a Japanese onomatopoeia that is used to describe the sound of something being crushed or broken. In English, it could be translated as "crunch". |
+| 44 | [シオカラーズ](http://twitter.com/search?q=%e3%82%b7%e3%82%aa%e3%82%ab%e3%83%a9%e3%83%bc%e3%82%ba) | N/A |
+| 45 | [つだぬまパルコ駅](http://twitter.com/search?q=%e3%81%a4%e3%81%a0%e3%81%ac%e3%81%be%e3%83%91%e3%83%ab%e3%82%b3%e9%a7%85) | N/A |
+| 46 | [テラピース](http://twitter.com/search?q=%e3%83%86%e3%83%a9%e3%83%94%e3%83%bc%e3%82%b9) | N/A |
+| 47 | [駆け込み申請](http://twitter.com/search?q=%e9%a7%86%e3%81%91%e8%be%bc%e3%81%bf%e7%94%b3%e8%ab%8b) | N/A |
+| 48 | [悪役令嬢](http://twitter.com/search?q=%e6%82%aa%e5%bd%b9%e4%bb%a4%e5%ac%a2) | N/A |
+| 49 | [スティーブ禁止](http://twitter.com/search?q=%e3%82%b9%e3%83%86%e3%82%a3%e3%83%bc%e3%83%96%e7%a6%81%e6%ad%a2) | N/A |
+| 50 | [チャーミィ](http://twitter.com/search?q=%e3%83%81%e3%83%a3%e3%83%bc%e3%83%9f%e3%82%a3) | N/A |
 
 
 

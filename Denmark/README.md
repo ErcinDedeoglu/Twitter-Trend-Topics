@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-02-28 02:41:49 UTC`
+📆 Last Updated: `2023-02-28 03:20:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,21 +20,21 @@ This is top 50 for Denmark
 | 3 | [Wass](http://twitter.com/search?q=Wass) | N/A |
 | 4 | [jesper sørensen](http://twitter.com/search?q=jesper+s%c3%b8rensen) | N/A |
 | 5 | [Isaksen](http://twitter.com/search?q=Isaksen) | N/A |
-| 6 | [#sldk](http://twitter.com/search?q=%23sldk) | N/A |
-| 7 | [#fckaab](http://twitter.com/search?q=%23fckaab) | N/A |
+| 6 | [#fckaab](http://twitter.com/search?q=%23fckaab) | N/A |
+| 7 | [#sldk](http://twitter.com/search?q=%23sldk) | N/A |
 | 8 | [Midtjylland](http://twitter.com/search?q=Midtjylland) | N/A |
 | 9 | [ashour](http://twitter.com/search?q=ashour) | N/A |
 | 10 | [Greve](http://twitter.com/search?q=Greve) | N/A |
 | 11 | [hedlund](http://twitter.com/search?q=hedlund) | N/A |
 | 12 | [Bell](http://twitter.com/search?q=Bell) | N/A |
 | 13 | [#agfsif](http://twitter.com/search?q=%23agfsif) | N/A |
-| 14 | [Herning](http://twitter.com/search?q=Herning) | N/A |
-| 15 | [redder](http://twitter.com/search?q=redder) | N/A |
+| 14 | [redder](http://twitter.com/search?q=redder) | N/A |
+| 15 | [Herning](http://twitter.com/search?q=Herning) | N/A |
 | 16 | [Evjen](http://twitter.com/search?q=Evjen) | N/A |
 | 17 | [Blas](http://twitter.com/search?q=Blas) | N/A |
 | 18 | [harald nyborg](http://twitter.com/search?q=harald+nyborg) | N/A |
 | 19 | [duelund](http://twitter.com/search?q=duelund) | N/A |
-| 20 | [Randers](http://twitter.com/search?q=Randers) | N/A |
+| 20 | [randers](http://twitter.com/search?q=randers) | N/A |
 | 21 | [St. Bededag](http://twitter.com/search?q=St.+Bededag) | N/A |
 | 22 | [Vallys](http://twitter.com/search?q=Vallys) | N/A |
 | 23 | [jelert](http://twitter.com/search?q=jelert) | N/A |
@@ -45,11 +45,11 @@ This is top 50 for Denmark
 | 28 | [grundloven](http://twitter.com/search?q=grundloven) | N/A |
 | 29 | [Parken](http://twitter.com/search?q=Parken) | N/A |
 | 30 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 31 | [Indien](http://twitter.com/search?q=Indien) | N/A |
-| 32 | [theo sander](http://twitter.com/search?q=theo+sander) | N/A |
+| 31 | [theo sander](http://twitter.com/search?q=theo+sander) | N/A |
+| 32 | [Indien](http://twitter.com/search?q=Indien) | N/A |
 | 33 | [forsvaret](http://twitter.com/search?q=forsvaret) | N/A |
-| 34 | [Saxo Bank](http://twitter.com/search?q=Saxo+Bank) | N/A |
-| 35 | [lars seier](http://twitter.com/search?q=lars+seier) | N/A |
+| 34 | [lars seier](http://twitter.com/search?q=lars+seier) | N/A |
+| 35 | [Saxo Bank](http://twitter.com/search?q=Saxo+Bank) | N/A |
 | 36 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
 | 37 | [vidste](http://twitter.com/search?q=vidste) | N/A |
 | 38 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
@@ -59,8 +59,8 @@ This is top 50 for Denmark
 | 42 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
 | 43 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
 | 44 | [Jack](http://twitter.com/search?q=Jack) | N/A |
-| 45 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
-| 46 | [vejle](http://twitter.com/search?q=vejle) | N/A |
+| 45 | [vejle](http://twitter.com/search?q=vejle) | N/A |
+| 46 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
 | 47 | [Sousa](http://twitter.com/search?q=Sousa) | N/A |
 | 48 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
 | 49 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |

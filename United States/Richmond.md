@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Richmond
 
-📆 Last Updated: `2023-02-28 02:41:45 UTC`
+📆 Last Updated: `2023-02-28 03:20:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Zach](http://twitter.com/search?q=Zach) | N/A |
-| 2 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 3 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 4 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
-| 5 | [kevin hart](http://twitter.com/search?q=kevin+hart) | N/A |
-| 6 | [#MultiAI](http://twitter.com/search?q=%23MultiAI) | N/A |
-| 7 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
-| 8 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
-| 9 | [Jimmy Butler](http://twitter.com/search?q=Jimmy+Butler) | Jimmy Butler is an American professional basketball player who currently plays for the Miami Heat of the National Basketball Association (NBA). He is a four-time NBA All-Star and was named the NBA Most Improved Player in 2015. He is known for his defensive prowess and his ability to score, pass, and rebound. |
-| 10 | [Keke](http://twitter.com/search?q=Keke) | N/A |
+| 1 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 2 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
+| 3 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
+| 4 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
+| 5 | [#MultiAI](http://twitter.com/search?q=%23MultiAI) | N/A |
+| 6 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
+| 7 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
+| 8 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 9 | [#NewYorkForever](http://twitter.com/search?q=%23NewYorkForever) | N/A |
+| 10 | [#SummerHouse](http://twitter.com/search?q=%23SummerHouse) | N/A |
 | 11 | [Lamelo](http://twitter.com/search?q=Lamelo) | N/A |
-| 12 | [Maxey](http://twitter.com/search?q=Maxey) | Maxey is a surname of English origin. It is derived from the Old English personal name Maccus, which was a diminutive form of Matthew. The meaning of Maxey in English is "son of Maccus". |
-| 13 | [Rupert Murdoch](http://twitter.com/search?q=Rupert+Murdoch) | N/A |
-| 14 | [Gable](http://twitter.com/search?q=Gable) | Gable is a triangular section of wall at the end of a pitched roof. It is the area between the edges of the two sloping sides of a roof. In English, it is also used to refer to the entire end wall of a building, which includes both the gable and any other parts below it. |
-| 15 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
-| 16 | [Pete Davidson](http://twitter.com/search?q=Pete+Davidson) | Pete Davidson is an American comedian, actor, and writer. He is best known for being a cast member on Saturday Night Live since 2014. He has also appeared in films such as Big Time Adolescence and The King of Staten Island. |
-| 17 | [Cody Zeller](http://twitter.com/search?q=Cody+Zeller) | N/A |
-| 18 | [Jess](http://twitter.com/search?q=Jess) | N/A |
-| 19 | [Tobias Harris](http://twitter.com/search?q=Tobias+Harris) | Tobias Harris is an American professional basketball player who currently plays for the Philadelphia 76ers of the National Basketball Association (NBA). He was drafted 19th overall by the Charlotte Bobcats in the 2011 NBA draft. He is known for his ability to score from all three levels of the court and his versatility on defense. |
-| 20 | [#HEATCulture](http://twitter.com/search?q=%23HEATCulture) | N/A |
-| 21 | [Montez](http://twitter.com/search?q=Montez) | N/A |
-| 22 | [Leodis](http://twitter.com/search?q=Leodis) | N/A |
-| 23 | [RJ Barrett](http://twitter.com/search?q=RJ+Barrett) | RJ Barrett is an American professional basketball player who currently plays for the New York Knicks of the National Basketball Association (NBA). He was selected third overall in the 2019 NBA draft. |
-| 24 | [Leaky Black](http://twitter.com/search?q=Leaky+Black) | N/A |
-| 25 | [Josh Hart](http://twitter.com/search?q=Josh+Hart) | N/A |
-| 26 | [Ottawa](http://twitter.com/search?q=Ottawa) | N/A |
-| 27 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
-| 28 | [Wentz](http://twitter.com/search?q=Wentz) | Wentz is a surname of German origin. It is derived from the Middle High German word "wenz" meaning "to go". The name Wentz is most commonly found in the United States, where it is the 5,917th most common surname. |
-| 29 | [Carmella](http://twitter.com/search?q=Carmella) | Carmella is an Italian name derived from the Latin word for "song". It is also a variant of the name Carmel, which means "garden" or "orchard". In English, Carmella can be translated to mean "song of the garden". |
-| 30 | [Bellarmine](http://twitter.com/search?q=Bellarmine) | N/A |
-| 31 | [Street Profits](http://twitter.com/search?q=Street+Profits) | N/A |
-| 32 | [Cody Cutter](http://twitter.com/search?q=Cody+Cutter) | N/A |
-| 33 | [Lita](http://twitter.com/search?q=Lita) | N/A |
-| 34 | [Mitchell Robinson](http://twitter.com/search?q=Mitchell+Robinson) | Mitchell Robinson is an American professional basketball player who currently plays for the New York Knicks of the National Basketball Association (NBA). He was selected in the second round of the 2018 NBA draft. His name is derived from his father's middle name, Mitchell. |
-| 35 | [Charity](http://twitter.com/search?q=Charity) | N/A |
-| 36 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
-| 37 | [Jimmy Buckets](http://twitter.com/search?q=Jimmy+Buckets) | N/A |
-| 38 | [Muscala](http://twitter.com/search?q=Muscala) | N/A |
-| 39 | [Hartenstein](http://twitter.com/search?q=Hartenstein) | N/A |
-| 40 | [Proud Boys](http://twitter.com/search?q=Proud+Boys) | N/A |
-| 41 | [Jimmy Uso](http://twitter.com/search?q=Jimmy+Uso) | N/A |
-| 42 | [Quickley](http://twitter.com/search?q=Quickley) | N/A |
-| 43 | [Marcus Smart](http://twitter.com/search?q=Marcus+Smart) | Marcus Smart is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). His name is often used as a metaphor for someone who is intelligent, hardworking, and dedicated to their craft. |
-| 44 | [Platinum Chanel](http://twitter.com/search?q=Platinum+Chanel) | N/A |
-| 45 | [Jimmy and Solo](http://twitter.com/search?q=Jimmy+and+Solo) | N/A |
-| 46 | [Hellberg](http://twitter.com/search?q=Hellberg) | N/A |
-| 47 | [Jim Acosta](http://twitter.com/search?q=Jim+Acosta) | N/A |
-| 48 | [UNCLE NICK](http://twitter.com/search?q=UNCLE+NICK) | N/A |
-| 49 | [James Wiseman](http://twitter.com/search?q=James+Wiseman) | N/A |
+| 12 | [Jimmy Butler](http://twitter.com/search?q=Jimmy+Butler) | Jimmy Butler is an American professional basketball player who currently plays for the Miami Heat of the National Basketball Association (NBA). He is a four-time NBA All-Star and was named the NBA Most Improved Player in 2015. He is known for his defensive prowess and his ability to score, pass, and rebound. |
+| 13 | [Pete Davidson](http://twitter.com/search?q=Pete+Davidson) | Pete Davidson is an American comedian, actor, and writer. He is best known for being a cast member on Saturday Night Live since 2014. He has also appeared in films such as Big Time Adolescence and The King of Staten Island. |
+| 14 | [Murdoch](http://twitter.com/search?q=Murdoch) | N/A |
+| 15 | [Keke](http://twitter.com/search?q=Keke) | N/A |
+| 16 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
+| 17 | [McDavid](http://twitter.com/search?q=McDavid) | McDavid is a brand of sports equipment and apparel, named after the Canadian hockey player Connor McDavid. The company produces protective gear, such as hockey helmets and shoulder pads, as well as clothing and accessories. |
+| 18 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 19 | [Maxey](http://twitter.com/search?q=Maxey) | Maxey is a surname of English origin. It is derived from the Old English personal name Maccus, which was a diminutive form of Matthew. The meaning of Maxey in English is "son of Maccus". |
+| 20 | [Gable](http://twitter.com/search?q=Gable) | Gable is a triangular section of wall at the end of a pitched roof. It is the area between the edges of the two sloping sides of a roof. In English, it is also used to refer to the entire end wall of a building, which includes both the gable and any other parts below it. |
+| 21 | [Tobias Harris](http://twitter.com/search?q=Tobias+Harris) | Tobias Harris is an American professional basketball player who currently plays for the Philadelphia 76ers of the National Basketball Association (NBA). He was drafted 19th overall by the Charlotte Bobcats in the 2011 NBA draft. He is known for his ability to score from all three levels of the court and his versatility on defense. |
+| 22 | [Jess](http://twitter.com/search?q=Jess) | N/A |
+| 23 | [Cody Zeller](http://twitter.com/search?q=Cody+Zeller) | N/A |
+| 24 | [Zacha](http://twitter.com/search?q=Zacha) | Zacha is a name of Slavic origin, derived from the name Zachary. It is a variant of Zachariah, which means "God remembers" in Hebrew. |
+| 25 | [Leodis](http://twitter.com/search?q=Leodis) | N/A |
+| 26 | [Seth Rollins](http://twitter.com/search?q=Seth+Rollins) | N/A |
+| 27 | [Mitchell Robinson](http://twitter.com/search?q=Mitchell+Robinson) | Mitchell Robinson is an American professional basketball player who currently plays for the New York Knicks of the National Basketball Association (NBA). He was selected in the second round of the 2018 NBA draft. His name is derived from his father's middle name, Mitchell. |
+| 28 | [RJ Barrett](http://twitter.com/search?q=RJ+Barrett) | RJ Barrett is an American professional basketball player who currently plays for the New York Knicks of the National Basketball Association (NBA). He was selected third overall in the 2019 NBA draft. |
+| 29 | [Montez](http://twitter.com/search?q=Montez) | N/A |
+| 30 | [Carmella](http://twitter.com/search?q=Carmella) | Carmella is an Italian name derived from the Latin word for "song". It is also a variant of the name Carmel, which means "garden" or "orchard". In English, Carmella can be translated to mean "song of the garden". |
+| 31 | [Ottawa](http://twitter.com/search?q=Ottawa) | N/A |
+| 32 | [Leaky Black](http://twitter.com/search?q=Leaky+Black) | N/A |
+| 33 | [Wentz](http://twitter.com/search?q=Wentz) | Wentz is a surname of German origin. It is derived from the Middle High German word "wenz" meaning "to go". The name Wentz is most commonly found in the United States, where it is the 5,917th most common surname. |
+| 34 | [Wiseman](http://twitter.com/search?q=Wiseman) | Wiseman is a term used to refer to a wise and knowledgeable person. It is often used to describe someone who has a great deal of experience and knowledge in a particular field or area of expertise. |
+| 35 | [Quickley](http://twitter.com/search?q=Quickley) | N/A |
+| 36 | [Street Profits](http://twitter.com/search?q=Street+Profits) | N/A |
+| 37 | [Charity](http://twitter.com/search?q=Charity) | N/A |
+| 38 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
+| 39 | [Platinum Chanel](http://twitter.com/search?q=Platinum+Chanel) | N/A |
+| 40 | [Bellarmine](http://twitter.com/search?q=Bellarmine) | N/A |
+| 41 | [Marcus Smart](http://twitter.com/search?q=Marcus+Smart) | Marcus Smart is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). His name is often used as a metaphor for someone who is intelligent, hardworking, and dedicated to their craft. |
+| 42 | [Lita](http://twitter.com/search?q=Lita) | N/A |
+| 43 | [Proud Boys](http://twitter.com/search?q=Proud+Boys) | N/A |
+| 44 | [Cody Cutter](http://twitter.com/search?q=Cody+Cutter) | N/A |
+| 45 | [YOU SING](http://twitter.com/search?q=YOU+SING) | N/A |
+| 46 | [The Miz](http://twitter.com/search?q=The+Miz) | N/A |
+| 47 | [Jimmy Buckets](http://twitter.com/search?q=Jimmy+Buckets) | N/A |
+| 48 | [Muscala](http://twitter.com/search?q=Muscala) | N/A |
+| 49 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
 
 
 

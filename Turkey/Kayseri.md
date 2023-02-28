@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kayseri
 
-📆 Last Updated: `2023-02-28 02:41:38 UTC`
+📆 Last Updated: `2023-02-28 03:20:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,45 +26,45 @@ This is top 50 for [Turkey](</Turkey>)
 | 9 | [Fenerbahçe](http://twitter.com/search?q=Fenerbah%c3%a7e) | Fenerbahçe is a Turkish sports club based in Istanbul. The name Fenerbahçe translates to "Lighthouse Garden" in English. The club is best known for its football team, which competes in the Turkish Super Lig and is one of the most successful teams in Turkey. |
 | 10 | [HAKKIM HELAL OLSUN REİS](http://twitter.com/search?q=HAKKIM+HELAL+OLSUN+RE%c4%b0S) | N/A |
 | 11 | [Helallik](http://twitter.com/search?q=Helallik) | N/A |
-| 12 | [Yalnız Değilsiniz Yanınızdayız](http://twitter.com/search?q=Yaln%c4%b1z+De%c4%9filsiniz+Yan%c4%b1n%c4%b1zday%c4%b1z) | N/A |
+| 12 | [yalnız değilsiniz yanınızdayız](http://twitter.com/search?q=yaln%c4%b1z+de%c4%9filsiniz+yan%c4%b1n%c4%b1zday%c4%b1z) | N/A |
 | 13 | [bilen herkes kazanır](http://twitter.com/search?q=bilen+herkes+kazan%c4%b1r) | N/A |
 | 14 | [binakimlik sertifikası](http://twitter.com/search?q=binakimlik+sertifikas%c4%b1) | N/A |
 | 15 | [HARAM OLSUN](http://twitter.com/search?q=HARAM+OLSUN) | N/A |
 | 16 | [çşbsadecekpss](http://twitter.com/search?q=%c3%a7%c5%9fbsadecekpss) | N/A |
 | 17 | [Aziz Yıldırım](http://twitter.com/search?q=Aziz+Y%c4%b1ld%c4%b1r%c4%b1m) | Aziz Yıldırım is a Turkish name, with Aziz meaning "honored" and Yıldırım meaning "thunder". In English, the name would translate to "Honored Thunder". |
 | 18 | [Ahbap](http://twitter.com/search?q=Ahbap) | N/A |
-| 19 | [Haluk Levent](http://twitter.com/search?q=Haluk+Levent) | N/A |
-| 20 | [Çocuklara](http://twitter.com/search?q=%c3%87ocuklara) | N/A |
-| 21 | [Vefatının 12](http://twitter.com/search?q=Vefat%c4%b1n%c4%b1n+12) | N/A |
+| 19 | [Vefatının 12](http://twitter.com/search?q=Vefat%c4%b1n%c4%b1n+12) | N/A |
+| 20 | [Haluk Levent](http://twitter.com/search?q=Haluk+Levent) | N/A |
+| 21 | [Çocuklara](http://twitter.com/search?q=%c3%87ocuklara) | N/A |
 | 22 | [issen](http://twitter.com/search?q=issen) | N/A |
 | 23 | [Kulüpler Birliği](http://twitter.com/search?q=Kul%c3%bcpler+Birli%c4%9fi) | N/A |
 | 24 | [Devlet](http://twitter.com/search?q=Devlet) | N/A |
 | 25 | [Pervin Buldan](http://twitter.com/search?q=Pervin+Buldan) | N/A |
-| 26 | [Türkiye İşçi Partisi](http://twitter.com/search?q=T%c3%bcrkiye+%c4%b0%c5%9f%c3%a7i+Partisi) | N/A |
+| 26 | [türkiye işçi partisi](http://twitter.com/search?q=t%c3%bcrkiye+i%c5%9f%c3%a7i+partisi) | N/A |
 | 27 | [Milli Görüş](http://twitter.com/search?q=Milli+G%c3%b6r%c3%bc%c5%9f) | N/A |
 | 28 | [Kayserispor](http://twitter.com/search?q=Kayserispor) | N/A |
 | 29 | [Paralı](http://twitter.com/search?q=Paral%c4%b1) | N/A |
 | 30 | [Çarşı](http://twitter.com/search?q=%c3%87ar%c5%9f%c4%b1) | N/A |
 | 31 | [Taraftar](http://twitter.com/search?q=Taraftar) | N/A |
 | 32 | [Barış](http://twitter.com/search?q=Bar%c4%b1%c5%9f) | N/A |
-| 33 | [Gülşah](http://twitter.com/search?q=G%c3%bcl%c5%9fah) | N/A |
-| 34 | [Ezan](http://twitter.com/search?q=Ezan) | N/A |
-| 35 | [Kayapınar](http://twitter.com/search?q=Kayap%c4%b1nar) | N/A |
-| 36 | [Mansur Yavaş](http://twitter.com/search?q=Mansur+Yava%c5%9f) | N/A |
+| 33 | [Mansur Yavaş](http://twitter.com/search?q=Mansur+Yava%c5%9f) | N/A |
+| 34 | [Kayapınar](http://twitter.com/search?q=Kayap%c4%b1nar) | N/A |
+| 35 | [Ezan](http://twitter.com/search?q=Ezan) | N/A |
+| 36 | [Bakarız](http://twitter.com/search?q=Bakar%c4%b1z) | N/A |
 | 37 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 38 | [Bakarız](http://twitter.com/search?q=Bakar%c4%b1z) | N/A |
-| 39 | [TGRT](http://twitter.com/search?q=TGRT) | N/A |
-| 40 | [Vira](http://twitter.com/search?q=Vira) | N/A |
-| 41 | [Çevir](http://twitter.com/search?q=%c3%87evir) | N/A |
-| 42 | [Melih Gökçek](http://twitter.com/search?q=Melih+G%c3%b6k%c3%a7ek) | N/A |
-| 43 | [Faruk Aksoy](http://twitter.com/search?q=Faruk+Aksoy) | N/A |
-| 44 | [Donunu](http://twitter.com/search?q=Donunu) | N/A |
-| 45 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 46 | [Kalbimin](http://twitter.com/search?q=Kalbimin) | N/A |
-| 47 | [Ahmet Hakan](http://twitter.com/search?q=Ahmet+Hakan) | N/A |
-| 48 | [Zübük](http://twitter.com/search?q=Z%c3%bcb%c3%bck) | N/A |
-| 49 | [Simge](http://twitter.com/search?q=Simge) | N/A |
-| 50 | [Sadettin Saran](http://twitter.com/search?q=Sadettin+Saran) | N/A |
+| 38 | [Vira](http://twitter.com/search?q=Vira) | N/A |
+| 39 | [Gülşah](http://twitter.com/search?q=G%c3%bcl%c5%9fah) | N/A |
+| 40 | [Faruk Aksoy](http://twitter.com/search?q=Faruk+Aksoy) | N/A |
+| 41 | [Zübük](http://twitter.com/search?q=Z%c3%bcb%c3%bck) | N/A |
+| 42 | [Kalbimin](http://twitter.com/search?q=Kalbimin) | N/A |
+| 43 | [Ahmet Hakan](http://twitter.com/search?q=Ahmet+Hakan) | N/A |
+| 44 | [Güngör](http://twitter.com/search?q=G%c3%bcng%c3%b6r) | N/A |
+| 45 | [Donunu](http://twitter.com/search?q=Donunu) | N/A |
+| 46 | [Simge](http://twitter.com/search?q=Simge) | N/A |
+| 47 | [Nedim](http://twitter.com/search?q=Nedim) | N/A |
+| 48 | [İrem Derici](http://twitter.com/search?q=%c4%b0rem+Derici) | N/A |
+| 49 | [TGRT](http://twitter.com/search?q=TGRT) | N/A |
+| 50 | [Çevir](http://twitter.com/search?q=%c3%87evir) | N/A |
 
 
 

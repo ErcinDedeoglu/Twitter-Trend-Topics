@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indonesia
 
-📆 Last Updated: `2023-02-28 02:41:50 UTC`
+📆 Last Updated: `2023-02-28 03:20:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Indonesia
 | ------- | ------------ | ------------ |
 | 1 | [Garpitnya Ariel Tatum](http://twitter.com/search?q=Garpitnya+Ariel+Tatum) | N/A |
 | 2 | [#FilterLegend](http://twitter.com/search?q=%23FilterLegend) | N/A |
-| 3 | [HUANG RENJUN THANK YOU](http://twitter.com/search?q=HUANG+RENJUN+THANK+YOU) | N/A |
-| 4 | [PH SCAMMER](http://twitter.com/search?q=PH+SCAMMER) | N/A |
-| 5 | [kunjungiaja dekade 08](http://twitter.com/search?q=kunjungiaja+dekade+08) | N/A |
-| 6 | [prabowo bikin nyaman](http://twitter.com/search?q=prabowo+bikin+nyaman) | N/A |
-| 7 | [Mari Dakwahkan Islam](http://twitter.com/search?q=Mari+Dakwahkan+Islam) | N/A |
-| 8 | [pilihannya mending prabowo](http://twitter.com/search?q=pilihannya+mending+prabowo) | N/A |
+| 3 | [prabowo bikin nyaman](http://twitter.com/search?q=prabowo+bikin+nyaman) | N/A |
+| 4 | [kunjungiaja dekade 08](http://twitter.com/search?q=kunjungiaja+dekade+08) | N/A |
+| 5 | [HUANG RENJUN THANK YOU](http://twitter.com/search?q=HUANG+RENJUN+THANK+YOU) | N/A |
+| 6 | [PH SCAMMER](http://twitter.com/search?q=PH+SCAMMER) | N/A |
+| 7 | [pilihannya mending prabowo](http://twitter.com/search?q=pilihannya+mending+prabowo) | N/A |
+| 8 | [bapak prabowo](http://twitter.com/search?q=bapak+prabowo) | N/A |
 | 9 | [#IKNProyekIlusi](http://twitter.com/search?q=%23IKNProyekIlusi) | N/A |
-| 10 | [bapak prabowo](http://twitter.com/search?q=bapak+prabowo) | N/A |
-| 11 | [#SyariahBerkahSemesta](http://twitter.com/search?q=%23SyariahBerkahSemesta) | N/A |
-| 12 | [#NCT런쥔](http://twitter.com/search?q=%23NCT%eb%9f%b0%ec%a5%94) | N/A |
-| 13 | [Teja](http://twitter.com/search?q=Teja) | N/A |
-| 14 | [mbanking bca](http://twitter.com/search?q=mbanking+bca) | N/A |
-| 15 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 16 | [Indra Bekti](http://twitter.com/search?q=Indra+Bekti) | N/A |
-| 17 | [#kamday](http://twitter.com/search?q=%23kamday) | N/A |
-| 18 | [Vario](http://twitter.com/search?q=Vario) | N/A |
-| 19 | [Putri LS](http://twitter.com/search?q=Putri+LS) | N/A |
-| 20 | [Okin](http://twitter.com/search?q=Okin) | N/A |
+| 10 | [#SyariahBerkahSemesta](http://twitter.com/search?q=%23SyariahBerkahSemesta) | N/A |
+| 11 | [Teja](http://twitter.com/search?q=Teja) | N/A |
+| 12 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 13 | [Indra Bekti](http://twitter.com/search?q=Indra+Bekti) | N/A |
+| 14 | [#kamday](http://twitter.com/search?q=%23kamday) | N/A |
+| 15 | [#NCT런쥔](http://twitter.com/search?q=%23NCT%eb%9f%b0%ec%a5%94) | N/A |
+| 16 | [POLLY PASTEL BY BUILD](http://twitter.com/search?q=POLLY+PASTEL+BY+BUILD) | N/A |
+| 17 | [Okin](http://twitter.com/search?q=Okin) | N/A |
+| 18 | [mbanking bca](http://twitter.com/search?q=mbanking+bca) | N/A |
+| 19 | [Jam 5](http://twitter.com/search?q=Jam+5) | N/A |
+| 20 | [Energetic](http://twitter.com/search?q=Energetic) | N/A |
 | 21 | [Tanpa](http://twitter.com/search?q=Tanpa) | N/A |
-| 22 | [Scoopy](http://twitter.com/search?q=Scoopy) | N/A |
-| 23 | [Energetic](http://twitter.com/search?q=Energetic) | N/A |
-| 24 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 25 | [Jam 5](http://twitter.com/search?q=Jam+5) | N/A |
-| 26 | [Jadi Penyeru Kebenaran](http://twitter.com/search?q=Jadi+Penyeru+Kebenaran) | N/A |
-| 27 | [Pagii](http://twitter.com/search?q=Pagii) | N/A |
-| 28 | [First M of Fourth](http://twitter.com/search?q=First+M+of+Fourth) | N/A |
-| 29 | [Zara](http://twitter.com/search?q=Zara) | Zara is a Spanish clothing and accessories retailer. It is one of the largest international fashion companies, and specializes in fast fashion. The name Zara is derived from the name of the founder's daughter, Zara Amalia. |
-| 30 | [Modern Family](http://twitter.com/search?q=Modern+Family) | Modern Family is an American television mockumentary sitcom created by Christopher Lloyd and Steven Levitan for the ABC network. It follows the lives of three related families, the Pritchetts, Dunphys, and Tuckers, who all live in Los Angeles. The show focuses on the characters' relationships with each other and their attempts to navigate modern life. The title of the show is a reference to the changing nature of family life in today's society. |
-| 31 | [Senin](http://twitter.com/search?q=Senin) | N/A |
-| 32 | [Selasa](http://twitter.com/search?q=Selasa) | N/A |
-| 33 | [Game of Thrones](http://twitter.com/search?q=Game+of+Thrones) | N/A |
-| 34 | [PARK JISUNG](http://twitter.com/search?q=PARK+JISUNG) | N/A |
-| 35 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
-| 36 | [JENO CONGRATS ON MFW](http://twitter.com/search?q=JENO+CONGRATS+ON+MFW) | N/A |
-| 37 | [PROTECT OUR JUNGKOOK](http://twitter.com/search?q=PROTECT+OUR+JUNGKOOK) | N/A |
+| 22 | [Vario](http://twitter.com/search?q=Vario) | N/A |
+| 23 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 24 | [Zara](http://twitter.com/search?q=Zara) | Zara is a Spanish clothing and accessories retailer. It is one of the largest international fashion companies, and specializes in fast fashion. The name Zara is derived from the name of the founder's daughter, Zara Amalia. |
+| 25 | [Scoopy](http://twitter.com/search?q=Scoopy) | N/A |
+| 26 | [Putri LS](http://twitter.com/search?q=Putri+LS) | N/A |
+| 27 | [Jadi Penyeru Kebenaran](http://twitter.com/search?q=Jadi+Penyeru+Kebenaran) | N/A |
+| 28 | [Modern Family](http://twitter.com/search?q=Modern+Family) | Modern Family is an American television mockumentary sitcom created by Christopher Lloyd and Steven Levitan for the ABC network. It follows the lives of three related families, the Pritchetts, Dunphys, and Tuckers, who all live in Los Angeles. The show focuses on the characters' relationships with each other and their attempts to navigate modern life. The title of the show is a reference to the changing nature of family life in today's society. |
+| 29 | [Tulus Utamakan Rakyat](http://twitter.com/search?q=Tulus+Utamakan+Rakyat) | Tulus Utamakan Rakyat is a Malay phrase which translates to "Dedicated to Serving the People". It is a slogan used by the Malaysian government to emphasize their commitment to providing quality services and support for the people of Malaysia. |
+| 30 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
+| 31 | [Selasa](http://twitter.com/search?q=Selasa) | N/A |
+| 32 | [Senin](http://twitter.com/search?q=Senin) | N/A |
+| 33 | [PARK JISUNG](http://twitter.com/search?q=PARK+JISUNG) | N/A |
+| 34 | [Game of Thrones](http://twitter.com/search?q=Game+of+Thrones) | N/A |
+| 35 | [Kimmy](http://twitter.com/search?q=Kimmy) | N/A |
+| 36 | [PROTECT OUR JUNGKOOK](http://twitter.com/search?q=PROTECT+OUR+JUNGKOOK) | N/A |
+| 37 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
 | 38 | [Breaking Bad](http://twitter.com/search?q=Breaking+Bad) | N/A |
-| 39 | [Kimmy](http://twitter.com/search?q=Kimmy) | N/A |
-| 40 | [khilafah ajaran mulia](http://twitter.com/search?q=khilafah+ajaran+mulia) | N/A |
+| 39 | [JENO CONGRATS ON MFW](http://twitter.com/search?q=JENO+CONGRATS+ON+MFW) | N/A |
+| 40 | [Pagii](http://twitter.com/search?q=Pagii) | N/A |
 | 41 | [TENLEE 27th BDAY](http://twitter.com/search?q=TENLEE+27th+BDAY) | N/A |
-| 42 | [Abby Choi](http://twitter.com/search?q=Abby+Choi) | N/A |
-| 43 | [Morningg](http://twitter.com/search?q=Morningg) | N/A |
-| 44 | [Aliran](http://twitter.com/search?q=Aliran) | N/A |
+| 42 | [Aliran](http://twitter.com/search?q=Aliran) | N/A |
+| 43 | [Abby Choi](http://twitter.com/search?q=Abby+Choi) | N/A |
+| 44 | [Mari Dakwahkan Islam](http://twitter.com/search?q=Mari+Dakwahkan+Islam) | N/A |
 | 45 | [Black Mirror](http://twitter.com/search?q=Black+Mirror) | N/A |
-| 46 | [TNI AD](http://twitter.com/search?q=TNI+AD) | N/A |
-| 47 | [TERAS KAPAL BAHTERA SEVA](http://twitter.com/search?q=TERAS+KAPAL+BAHTERA+SEVA) | N/A |
-| 48 | [bd jepang](http://twitter.com/search?q=bd+jepang) | N/A |
-| 49 | [hendra kurniawan](http://twitter.com/search?q=hendra+kurniawan) | N/A |
-| 50 | [JERE](http://twitter.com/search?q=JERE) | N/A |
+| 46 | [BD Jepang](http://twitter.com/search?q=BD+Jepang) | N/A |
+| 47 | [Helmut](http://twitter.com/search?q=Helmut) | N/A |
+| 48 | [TERAS KAPAL BAHTERA SEVA](http://twitter.com/search?q=TERAS+KAPAL+BAHTERA+SEVA) | N/A |
+| 49 | [Floral Sense](http://twitter.com/search?q=Floral+Sense) | N/A |
+| 50 | [Bertaruh](http://twitter.com/search?q=Bertaruh) | N/A |
 
 
 

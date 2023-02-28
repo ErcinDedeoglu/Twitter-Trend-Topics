@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Israel
 
-📆 Last Updated: `2023-02-28 02:41:50 UTC`
+📆 Last Updated: `2023-02-28 03:20:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,8 +26,8 @@ This is top 50 for Israel
 | 9 | [רצח יהודים](http://twitter.com/search?q=%d7%a8%d7%a6%d7%97+%d7%99%d7%94%d7%95%d7%93%d7%99%d7%9d) | N/A |
 | 10 | [תומך טרור](http://twitter.com/search?q=%d7%aa%d7%95%d7%9e%d7%9a+%d7%98%d7%a8%d7%95%d7%a8) | N/A |
 | 11 | [דם יהודי](http://twitter.com/search?q=%d7%93%d7%9d+%d7%99%d7%94%d7%95%d7%93%d7%99) | N/A |
-| 12 | [של הלל](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%94%d7%9c%d7%9c) | N/A |
-| 13 | [שני יהודים](http://twitter.com/search?q=%d7%a9%d7%a0%d7%99+%d7%99%d7%94%d7%95%d7%93%d7%99%d7%9d) | N/A |
+| 12 | [שני יהודים](http://twitter.com/search?q=%d7%a9%d7%a0%d7%99+%d7%99%d7%94%d7%95%d7%93%d7%99%d7%9d) | N/A |
+| 13 | [של הלל](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%94%d7%9c%d7%9c) | N/A |
 | 14 | [עוצמה יהודית](http://twitter.com/search?q=%d7%a2%d7%95%d7%a6%d7%9e%d7%94+%d7%99%d7%94%d7%95%d7%93%d7%99%d7%aa) | N/A |
 | 15 | [תג מחיר](http://twitter.com/search?q=%d7%aa%d7%92+%d7%9e%d7%97%d7%99%d7%a8) | N/A |
 | 16 | [של חווארה](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%97%d7%95%d7%95%d7%90%d7%a8%d7%94) | N/A |
@@ -43,9 +43,9 @@ This is top 50 for Israel
 | 26 | [חנן יובל](http://twitter.com/search?q=%d7%97%d7%a0%d7%9f+%d7%99%d7%95%d7%91%d7%9c) | N/A |
 | 27 | [חיי אדם](http://twitter.com/search?q=%d7%97%d7%99%d7%99+%d7%90%d7%93%d7%9d) | N/A |
 | 28 | [אובדן שליטה](http://twitter.com/search?q=%d7%90%d7%95%d7%91%d7%93%d7%9f+%d7%a9%d7%9c%d7%99%d7%98%d7%94) | N/A |
-| 29 | [West Bank](http://twitter.com/search?q=West+Bank) | N/A |
-| 30 | [שני ילדים](http://twitter.com/search?q=%d7%a9%d7%a0%d7%99+%d7%99%d7%9c%d7%93%d7%99%d7%9d) | N/A |
-| 31 | [סגן שר](http://twitter.com/search?q=%d7%a1%d7%92%d7%9f+%d7%a9%d7%a8) | N/A |
+| 29 | [שני ילדים](http://twitter.com/search?q=%d7%a9%d7%a0%d7%99+%d7%99%d7%9c%d7%93%d7%99%d7%9d) | N/A |
+| 30 | [סגן שר](http://twitter.com/search?q=%d7%a1%d7%92%d7%9f+%d7%a9%d7%a8) | N/A |
+| 31 | [West Bank](http://twitter.com/search?q=West+Bank) | N/A |
 | 32 | [צלם אנוש](http://twitter.com/search?q=%d7%a6%d7%9c%d7%9d+%d7%90%d7%a0%d7%95%d7%a9) | N/A |
 | 33 | [של נקמה](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a0%d7%a7%d7%9e%d7%94) | N/A |
 | 34 | [עשה לייק](http://twitter.com/search?q=%d7%a2%d7%a9%d7%94+%d7%9c%d7%99%d7%99%d7%a7) | N/A |
@@ -55,10 +55,10 @@ This is top 50 for Israel
 | 38 | [כפר ערבי](http://twitter.com/search?q=%d7%9b%d7%a4%d7%a8+%d7%a2%d7%a8%d7%91%d7%99) | N/A |
 | 39 | [בהר הרצל](http://twitter.com/search?q=%d7%91%d7%94%d7%a8+%d7%94%d7%a8%d7%a6%d7%9c) | N/A |
 | 40 | [ליל בדולח](http://twitter.com/search?q=%d7%9c%d7%99%d7%9c+%d7%91%d7%93%d7%95%d7%9c%d7%97) | N/A |
-| 41 | [ביבי בוגד](http://twitter.com/search?q=%d7%91%d7%99%d7%91%d7%99+%d7%91%d7%95%d7%92%d7%93) | N/A |
-| 42 | [של פלסטינים](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a4%d7%9c%d7%a1%d7%98%d7%99%d7%a0%d7%99%d7%9d) | N/A |
-| 43 | [פיגוע רודף פיגוע](http://twitter.com/search?q=%d7%a4%d7%99%d7%92%d7%95%d7%a2+%d7%a8%d7%95%d7%93%d7%a3+%d7%a4%d7%99%d7%92%d7%95%d7%a2) | N/A |
-| 44 | [נגד יהודים](http://twitter.com/search?q=%d7%a0%d7%92%d7%93+%d7%99%d7%94%d7%95%d7%93%d7%99%d7%9d) | N/A |
+| 41 | [נגד יהודים](http://twitter.com/search?q=%d7%a0%d7%92%d7%93+%d7%99%d7%94%d7%95%d7%93%d7%99%d7%9d) | N/A |
+| 42 | [ביבי בוגד](http://twitter.com/search?q=%d7%91%d7%99%d7%91%d7%99+%d7%91%d7%95%d7%92%d7%93) | N/A |
+| 43 | [של פלסטינים](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a4%d7%9c%d7%a1%d7%98%d7%99%d7%a0%d7%99%d7%9d) | N/A |
+| 44 | [פיגוע רודף פיגוע](http://twitter.com/search?q=%d7%a4%d7%99%d7%92%d7%95%d7%a2+%d7%a8%d7%95%d7%93%d7%a3+%d7%a4%d7%99%d7%92%d7%95%d7%a2) | N/A |
 | 45 | [נועם יעקב](http://twitter.com/search?q=%d7%a0%d7%95%d7%a2%d7%9d+%d7%99%d7%a2%d7%a7%d7%91) | N/A |
 | 46 | [אחרי פיגוע](http://twitter.com/search?q=%d7%90%d7%97%d7%a8%d7%99+%d7%a4%d7%99%d7%92%d7%95%d7%a2) | N/A |
 | 47 | [יניב הי](http://twitter.com/search?q=%d7%99%d7%a0%d7%99%d7%91+%d7%94%d7%99) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-02-28 02:41:48 UTC`
+📆 Last Updated: `2023-02-28 03:20:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,12 +29,12 @@ This is top 50 for Austria
 | 12 | [Kauf](http://twitter.com/search?q=Kauf) | N/A |
 | 13 | [AMA Gütesiegel](http://twitter.com/search?q=AMA+G%c3%bctesiegel) | N/A |
 | 14 | [#kocher](http://twitter.com/search?q=%23kocher) | N/A |
-| 15 | [Filter](http://twitter.com/search?q=Filter) | N/A |
-| 16 | [wertschätzung](http://twitter.com/search?q=wertsch%c3%a4tzung) | N/A |
-| 17 | [Fahrrad](http://twitter.com/search?q=Fahrrad) | N/A |
+| 15 | [Fahrrad](http://twitter.com/search?q=Fahrrad) | N/A |
+| 16 | [Filter](http://twitter.com/search?q=Filter) | N/A |
+| 17 | [wertschätzung](http://twitter.com/search?q=wertsch%c3%a4tzung) | N/A |
 | 18 | [märz 2023](http://twitter.com/search?q=m%c3%a4rz+2023) | N/A |
 | 19 | [guten morgen helmut](http://twitter.com/search?q=guten+morgen+helmut) | N/A |
-| 20 | [Kinderbetreuung](http://twitter.com/search?q=Kinderbetreuung) | N/A |
+| 20 | [kinderbetreuung](http://twitter.com/search?q=kinderbetreuung) | N/A |
 | 21 | [Vollzeit](http://twitter.com/search?q=Vollzeit) | N/A |
 | 22 | [Trinkgeld](http://twitter.com/search?q=Trinkgeld) | N/A |
 | 23 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
@@ -44,18 +44,18 @@ This is top 50 for Austria
 | 27 | [Prioritäten](http://twitter.com/search?q=Priorit%c3%a4ten) | N/A |
 | 28 | [start in die woche](http://twitter.com/search?q=start+in+die+woche) | N/A |
 | 29 | [Ausnahmen](http://twitter.com/search?q=Ausnahmen) | N/A |
-| 30 | [schellhorn](http://twitter.com/search?q=schellhorn) | N/A |
-| 31 | [Eigenverantwortung](http://twitter.com/search?q=Eigenverantwortung) | N/A |
-| 32 | [warrior nun campers](http://twitter.com/search?q=warrior+nun+campers) | N/A |
-| 33 | [Diplomaten](http://twitter.com/search?q=Diplomaten) | N/A |
-| 34 | [Militär](http://twitter.com/search?q=Milit%c3%a4r) | N/A |
-| 35 | [Studium](http://twitter.com/search?q=Studium) | N/A |
-| 36 | [Sozialstaat](http://twitter.com/search?q=Sozialstaat) | N/A |
-| 37 | [Frankreich](http://twitter.com/search?q=Frankreich) | N/A |
-| 38 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
+| 30 | [Eigenverantwortung](http://twitter.com/search?q=Eigenverantwortung) | N/A |
+| 31 | [warrior nun campers](http://twitter.com/search?q=warrior+nun+campers) | N/A |
+| 32 | [Militär](http://twitter.com/search?q=Milit%c3%a4r) | N/A |
+| 33 | [Studium](http://twitter.com/search?q=Studium) | N/A |
+| 34 | [schellhorn](http://twitter.com/search?q=schellhorn) | N/A |
+| 35 | [Sozialstaat](http://twitter.com/search?q=Sozialstaat) | N/A |
+| 36 | [Frankreich](http://twitter.com/search?q=Frankreich) | N/A |
+| 37 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
+| 38 | [Diplomaten](http://twitter.com/search?q=Diplomaten) | N/A |
 | 39 | [Handel](http://twitter.com/search?q=Handel) | N/A |
-| 40 | [Gruß](http://twitter.com/search?q=Gru%c3%9f) | N/A |
-| 41 | [Eigenheim](http://twitter.com/search?q=Eigenheim) | N/A |
+| 40 | [gruß](http://twitter.com/search?q=gru%c3%9f) | N/A |
+| 41 | [eigenheim](http://twitter.com/search?q=eigenheim) | N/A |
 | 42 | [Schulden](http://twitter.com/search?q=Schulden) | N/A |
 | 43 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
 | 44 | [Schwarzer](http://twitter.com/search?q=Schwarzer) | N/A |

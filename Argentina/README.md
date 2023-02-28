@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Argentina
 
-📆 Last Updated: `2023-02-28 02:41:47 UTC`
+📆 Last Updated: `2023-02-28 03:20:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Argentina
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 2 | [Tora](http://twitter.com/search?q=Tora) | Tora is a Japanese word meaning "tiger". It is often used as a nickname for someone who is strong and brave. |
+| 1 | [Tora](http://twitter.com/search?q=Tora) | Tora is a Japanese word meaning "tiger". It is often used as a nickname for someone who is strong and brave. |
+| 2 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 3 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
-| 4 | [Piovi](http://twitter.com/search?q=Piovi) | Piovi is an Italian word that means "to rain". It is used to describe the sound of rain falling. |
-| 5 | [Iker](http://twitter.com/search?q=Iker) | N/A |
-| 6 | [Nancy Pazos](http://twitter.com/search?q=Nancy+Pazos) | Nancy Pazos is a Spanish singer and songwriter. Her name translates to "peaceful Nancy" in English. |
-| 7 | [#AAAJ](http://twitter.com/search?q=%23AAAJ) | N/A |
-| 8 | [Ubfal](http://twitter.com/search?q=Ubfal) | Ubfal is an acronym for the German phrase "Unternehmen für Berufliche Fortbildung und Arbeitslosenhilfe", which translates to "Company for Vocational Training and Unemployment Assistance". |
-| 9 | [#VolvioDuro](http://twitter.com/search?q=%23VolvioDuro) | N/A |
-| 10 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
-| 11 | [#GranHernano](http://twitter.com/search?q=%23GranHernano) | N/A |
-| 12 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
-| 13 | [Gladys](http://twitter.com/search?q=Gladys) | N/A |
-| 14 | [Germán](http://twitter.com/search?q=Germ%c3%a1n) | Germán is a Spanish and Portuguese name derived from the Latin Germanus, meaning "brother". It is also a Germanic given name, derived from the Germanic element ger, meaning "spear". |
-| 15 | [QUE VUELVA AGUSTIN](http://twitter.com/search?q=QUE+VUELVA+AGUSTIN) | N/A |
-| 16 | [Tula](http://twitter.com/search?q=Tula) | N/A |
-| 17 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
-| 18 | [Duro de Domar](http://twitter.com/search?q=Duro+de+Domar) | N/A |
-| 19 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 20 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
-| 21 | [Verratti](http://twitter.com/search?q=Verratti) | Verratti is an Italian surname. It is derived from the Latin word verratum, which means "true". In English, it can be translated to mean "true and faithful". |
-| 22 | [#Los8EscalonesDelMillon](http://twitter.com/search?q=%23Los8EscalonesDelMillon) | N/A |
-| 23 | [Lucila](http://twitter.com/search?q=Lucila) | Lucila is a Spanish female name derived from the Latin name Lucius, which means “light”. In English, Lucila can be translated to mean “bringer of light”. |
-| 24 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
-| 25 | [#MacriMufa](http://twitter.com/search?q=%23MacriMufa) | N/A |
-| 26 | [Coscu](http://twitter.com/search?q=Coscu) | N/A |
-| 27 | [Aguilar](http://twitter.com/search?q=Aguilar) | N/A |
-| 28 | [Rojas](http://twitter.com/search?q=Rojas) | N/A |
-| 29 | [Rosada](http://twitter.com/search?q=Rosada) | N/A |
-| 30 | [Blando](http://twitter.com/search?q=Blando) | N/A |
-| 31 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
-| 32 | [Lanús](http://twitter.com/search?q=Lan%c3%bas) | Lanús is a city in Argentina, located in the province of Buenos Aires. The name Lanús comes from the Mapuche language and means "place of the sun". |
-| 33 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 34 | [Spain](http://twitter.com/search?q=Spain) | N/A |
-| 35 | [shawn](http://twitter.com/search?q=shawn) | Shawn is a given name, typically a masculine name. It is an Anglicized form of the Irish name Seán, which is derived from the Hebrew name Yehohanan, meaning "God is gracious". |
-| 36 | [Pabla](http://twitter.com/search?q=Pabla) | N/A |
-| 37 | [Central Córdoba](http://twitter.com/search?q=Central+C%c3%b3rdoba) | N/A |
-| 38 | [Aracre](http://twitter.com/search?q=Aracre) | N/A |
-| 39 | [Barracas](http://twitter.com/search?q=Barracas) | Barracas is a district in the Argentine capital of Buenos Aires. It is located in the south of the city and is known for its vibrant nightlife, its diverse population, and its traditional markets. The name Barracas comes from the Spanish word barraca, which means “hut” or “shack”. |
-| 40 | [Casillas](http://twitter.com/search?q=Casillas) | N/A |
-| 41 | [THE WAY I LOVED YOU](http://twitter.com/search?q=THE+WAY+I+LOVED+YOU) | N/A |
-| 42 | [OUT OF THE WOODS](http://twitter.com/search?q=OUT+OF+THE+WOODS) | N/A |
-| 43 | [Heredia](http://twitter.com/search?q=Heredia) | N/A |
-| 44 | [gaston](http://twitter.com/search?q=gaston) | N/A |
-| 45 | [RODO AL 9009](http://twitter.com/search?q=RODO+AL+9009) | N/A |
-| 46 | [Villalba](http://twitter.com/search?q=Villalba) | N/A |
-| 47 | [Orozco](http://twitter.com/search?q=Orozco) | N/A |
-| 48 | [Lamolina](http://twitter.com/search?q=Lamolina) | N/A |
-| 49 | [Loaiza](http://twitter.com/search?q=Loaiza) | N/A |
-| 50 | [Scaloneta](http://twitter.com/search?q=Scaloneta) | N/A |
+| 4 | [Iker](http://twitter.com/search?q=Iker) | N/A |
+| 5 | [Ubfal](http://twitter.com/search?q=Ubfal) | Ubfal is an acronym for the German phrase "Unternehmen für Berufliche Fortbildung und Arbeitslosenhilfe", which translates to "Company for Vocational Training and Unemployment Assistance". |
+| 6 | [#GranHernano](http://twitter.com/search?q=%23GranHernano) | N/A |
+| 7 | [Gladys](http://twitter.com/search?q=Gladys) | N/A |
+| 8 | [RODO AL 9009](http://twitter.com/search?q=RODO+AL+9009) | N/A |
+| 9 | [Piovi](http://twitter.com/search?q=Piovi) | Piovi is an Italian word that means "to rain". It is used to describe the sound of rain falling. |
+| 10 | [#AAAJ](http://twitter.com/search?q=%23AAAJ) | N/A |
+| 11 | [QUE VUELVA AGUSTIN](http://twitter.com/search?q=QUE+VUELVA+AGUSTIN) | N/A |
+| 12 | [Verratti](http://twitter.com/search?q=Verratti) | Verratti is an Italian surname. It is derived from the Latin word verratum, which means "true". In English, it can be translated to mean "true and faithful". |
+| 13 | [Nancy Pazos](http://twitter.com/search?q=Nancy+Pazos) | Nancy Pazos is a Spanish singer and songwriter. Her name translates to "peaceful Nancy" in English. |
+| 14 | [De Arrascaeta](http://twitter.com/search?q=De+Arrascaeta) | N/A |
+| 15 | [#VolvioDuro](http://twitter.com/search?q=%23VolvioDuro) | N/A |
+| 16 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
+| 17 | [Germán](http://twitter.com/search?q=Germ%c3%a1n) | Germán is a Spanish and Portuguese name derived from the Latin Germanus, meaning "brother". It is also a Germanic given name, derived from the Germanic element ger, meaning "spear". |
+| 18 | [Lucila](http://twitter.com/search?q=Lucila) | Lucila is a Spanish female name derived from the Latin name Lucius, which means “light”. In English, Lucila can be translated to mean “bringer of light”. |
+| 19 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
+| 20 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
+| 21 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
+| 22 | [Tula](http://twitter.com/search?q=Tula) | N/A |
+| 23 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 24 | [Theo Hernández](http://twitter.com/search?q=Theo+Hern%c3%a1ndez) | N/A |
+| 25 | [Duro de Domar](http://twitter.com/search?q=Duro+de+Domar) | N/A |
+| 26 | [#Los8EscalonesDelMillon](http://twitter.com/search?q=%23Los8EscalonesDelMillon) | N/A |
+| 27 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 28 | [#MacriMufa](http://twitter.com/search?q=%23MacriMufa) | N/A |
+| 29 | [Nacho Fernández](http://twitter.com/search?q=Nacho+Fern%c3%a1ndez) | Nacho Fernández is a Spanish nickname derived from the given name Ignacio. It is often used as a term of endearment, similar to "buddy" or "pal" in English. |
+| 30 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
+| 31 | [Coscu](http://twitter.com/search?q=Coscu) | N/A |
+| 32 | [Rosada](http://twitter.com/search?q=Rosada) | N/A |
+| 33 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
+| 34 | [Central Córdoba](http://twitter.com/search?q=Central+C%c3%b3rdoba) | N/A |
+| 35 | [OUT OF THE WOODS](http://twitter.com/search?q=OUT+OF+THE+WOODS) | N/A |
+| 36 | [Lanús](http://twitter.com/search?q=Lan%c3%bas) | Lanús is a city in Argentina, located in the province of Buenos Aires. The name Lanús comes from the Mapuche language and means "place of the sun". |
+| 37 | [Rojas](http://twitter.com/search?q=Rojas) | N/A |
+| 38 | [Aguilar](http://twitter.com/search?q=Aguilar) | N/A |
+| 39 | [Ciro Rius](http://twitter.com/search?q=Ciro+Rius) | N/A |
+| 40 | [Gabigol](http://twitter.com/search?q=Gabigol) | Gabigol is a nickname given to Brazilian footballer Gabriel Barbosa, who currently plays for Flamengo. The nickname is a combination of his first name, Gabriel, and the Portuguese word for goal, gol. In English, the nickname translates to "Gabriel Goal". |
+| 41 | [shawn](http://twitter.com/search?q=shawn) | Shawn is a given name, typically a masculine name. It is an Anglicized form of the Irish name Seán, which is derived from the Hebrew name Yehohanan, meaning "God is gracious". |
+| 42 | [Casillas](http://twitter.com/search?q=Casillas) | N/A |
+| 43 | [Blando](http://twitter.com/search?q=Blando) | N/A |
+| 44 | [Pabla](http://twitter.com/search?q=Pabla) | N/A |
+| 45 | [THE WAY I LOVED YOU](http://twitter.com/search?q=THE+WAY+I+LOVED+YOU) | N/A |
+| 46 | [Spain](http://twitter.com/search?q=Spain) | N/A |
+| 47 | [Heredia](http://twitter.com/search?q=Heredia) | N/A |
+| 48 | [Barracas](http://twitter.com/search?q=Barracas) | Barracas is a district in the Argentine capital of Buenos Aires. It is located in the south of the city and is known for its vibrant nightlife, its diverse population, and its traditional markets. The name Barracas comes from the Spanish word barraca, which means “hut” or “shack”. |
+| 49 | [Villalba](http://twitter.com/search?q=Villalba) | N/A |
+| 50 | [Aracre](http://twitter.com/search?q=Aracre) | N/A |
 
 
 

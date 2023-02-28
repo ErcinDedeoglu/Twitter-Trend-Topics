@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Liverpool
 
-📆 Last Updated: `2023-02-28 02:41:01 UTC`
+📆 Last Updated: `2023-02-28 03:19:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,46 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Irish Sea](http://twitter.com/search?q=Irish+Sea) | N/A |
-| 2 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 3 | [#NZvENG](http://twitter.com/search?q=%23NZvENG) | N/A |
-| 4 | [Stokes](http://twitter.com/search?q=Stokes) | N/A |
+| 1 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 2 | [#NZvENG](http://twitter.com/search?q=%23NZvENG) | N/A |
+| 3 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 4 | [Foakes](http://twitter.com/search?q=Foakes) | N/A |
 | 5 | [Stokes](http://twitter.com/search?q=Stokes) | N/A |
-| 6 | [Casey](http://twitter.com/search?q=Casey) | Casey is a unisex name of Irish origin, derived from the Gaelic Cathasaigh, meaning “brave” or “vigilant.” It is also a popular surname in the United States. |
-| 7 | [Claudia](http://twitter.com/search?q=Claudia) | Claudia is a female given name of Latin origin, derived from the Roman clan name Claudius. It means "lame" or "disabled". |
-| 8 | [Foakes](http://twitter.com/search?q=Foakes) | N/A |
-| 9 | [#NorthernLights](http://twitter.com/search?q=%23NorthernLights) | N/A |
-| 10 | [Omos](http://twitter.com/search?q=Omos) | N/A |
-| 11 | [#Newsnight](http://twitter.com/search?q=%23Newsnight) | N/A |
-| 12 | [Rosie](http://twitter.com/search?q=Rosie) | N/A |
-| 13 | [kevin hart](http://twitter.com/search?q=kevin+hart) | N/A |
-| 14 | [Steve Baker](http://twitter.com/search?q=Steve+Baker) | N/A |
-| 15 | [Bale](http://twitter.com/search?q=Bale) | Bale is a large bundle of goods, usually compressed and tied up with string or wire, for storage or transport. It is commonly used to refer to bundles of hay, straw, or cotton. |
-| 16 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 17 | [Brook](http://twitter.com/search?q=Brook) | N/A |
-| 18 | [Bazball](http://twitter.com/search?q=Bazball) | N/A |
-| 19 | [Swansea](http://twitter.com/search?q=Swansea) | N/A |
-| 20 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 21 | [Stormont](http://twitter.com/search?q=Stormont) | N/A |
-| 22 | [Beth Mead](http://twitter.com/search?q=Beth+Mead) | Beth Mead is a professional English footballer who plays for Arsenal Women and the England national team. She is known for her speed, agility, and ability to score goals from long range. The name Beth Mead is derived from the Old English word "mead" which means meadow or pasture. |
-| 23 | [Rishi](http://twitter.com/search?q=Rishi) | N/A |
-| 24 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
-| 25 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 6 | [Stokes](http://twitter.com/search?q=Stokes) | N/A |
+| 7 | [Casey](http://twitter.com/search?q=Casey) | Casey is a unisex name of Irish origin, derived from the Gaelic Cathasaigh, meaning “brave” or “vigilant.” It is also a popular surname in the United States. |
+| 8 | [Leach](http://twitter.com/search?q=Leach) | N/A |
+| 9 | [Claudia](http://twitter.com/search?q=Claudia) | Claudia is a female given name of Latin origin, derived from the Roman clan name Claudius. It means "lame" or "disabled". |
+| 10 | [#bbccricket](http://twitter.com/search?q=%23bbccricket) | N/A |
+| 11 | [Omos](http://twitter.com/search?q=Omos) | N/A |
+| 12 | [#NorthernLights](http://twitter.com/search?q=%23NorthernLights) | N/A |
+| 13 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
+| 14 | [Rosie](http://twitter.com/search?q=Rosie) | N/A |
+| 15 | [Steve Baker](http://twitter.com/search?q=Steve+Baker) | N/A |
+| 16 | [Bale](http://twitter.com/search?q=Bale) | Bale is a large bundle of goods, usually compressed and tied up with string or wire, for storage or transport. It is commonly used to refer to bundles of hay, straw, or cotton. |
+| 17 | [Peston](http://twitter.com/search?q=Peston) | N/A |
+| 18 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 19 | [Brook](http://twitter.com/search?q=Brook) | N/A |
+| 20 | [Bazball](http://twitter.com/search?q=Bazball) | N/A |
+| 21 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 22 | [Swansea](http://twitter.com/search?q=Swansea) | N/A |
+| 23 | [Stormont](http://twitter.com/search?q=Stormont) | N/A |
+| 24 | [Rishi](http://twitter.com/search?q=Rishi) | N/A |
+| 25 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
 | 26 | [The DUP](http://twitter.com/search?q=The+DUP) | N/A |
-| 27 | [Alexia](http://twitter.com/search?q=Alexia) | Alexia is a neurological disorder that affects a person's ability to read. It is also known as word blindness or dyslexia. People with Alexia have difficulty understanding written words, even though they may be able to speak and write normally. |
-| 28 | [Jay Rayner](http://twitter.com/search?q=Jay+Rayner) | N/A |
-| 29 | [Rotherham](http://twitter.com/search?q=Rotherham) | N/A |
-| 30 | [Whitney](http://twitter.com/search?q=Whitney) | N/A |
-| 31 | [Lionel Messi](http://twitter.com/search?q=Lionel+Messi) | N/A |
-| 32 | [Lightfall](http://twitter.com/search?q=Lightfall) | N/A |
-| 33 | [Cassie](http://twitter.com/search?q=Cassie) | N/A |
-| 34 | [Left Behind](http://twitter.com/search?q=Left+Behind) | N/A |
-| 35 | [Iceland](http://twitter.com/search?q=Iceland) | N/A |
-| 36 | [Obasanjo](http://twitter.com/search?q=Obasanjo) | Obasanjo is a Yoruba name meaning "the king has returned". It is the surname of Olusegun Obasanjo, a former Nigerian military leader and two-term president. |
-| 37 | [Sinn Fein](http://twitter.com/search?q=Sinn+Fein) | N/A |
-| 38 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 39 | [Edward VIII](http://twitter.com/search?q=Edward+VIII) | N/A |
-| 40 | [Noel](http://twitter.com/search?q=Noel) | Noel is a French word meaning "Christmas". It is often used as a greeting during the Christmas season. |
-| 41 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
-| 42 | [Sunny](http://twitter.com/search?q=Sunny) | N/A |
-| 43 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 44 | [#Unforgotten](http://twitter.com/search?q=%23Unforgotten) | N/A |
-| 45 | [#Peston](http://twitter.com/search?q=%23Peston) | N/A |
-| 46 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 47 | [#Auroraborealis](http://twitter.com/search?q=%23Auroraborealis) | N/A |
+| 27 | [Lightfall](http://twitter.com/search?q=Lightfall) | N/A |
+| 28 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 29 | [Noel](http://twitter.com/search?q=Noel) | Noel is a French word meaning "Christmas". It is often used as a greeting during the Christmas season. |
+| 30 | [#Unforgotten](http://twitter.com/search?q=%23Unforgotten) | N/A |
+| 31 | [#Newsnight](http://twitter.com/search?q=%23Newsnight) | N/A |
+| 32 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 33 | [#Auroraborealis](http://twitter.com/search?q=%23Auroraborealis) | N/A |
+| 34 | [#BigNightOfMusicals](http://twitter.com/search?q=%23BigNightOfMusicals) | N/A |
+| 35 | [#WindsorFramework](http://twitter.com/search?q=%23WindsorFramework) | N/A |
+| 36 | [#UniversityChallenge](http://twitter.com/search?q=%23UniversityChallenge) | #UniversityChallenge is a British quiz show that has been running since 1962. It pits teams of two students from universities across the UK against each other in a series of general knowledge and academic questions. The aim of the game is to answer as many questions correctly as possible in order to win the competition. |
+| 37 | [#onlyconnect](http://twitter.com/search?q=%23onlyconnect) | #onlyconnect is a hashtag used to express the idea of connecting with others, either through social media or in real life. It is often used to encourage people to reach out and build relationships with those around them. |
+| 38 | [#SexActually](http://twitter.com/search?q=%23SexActually) | N/A |
+| 39 | [#corrie](http://twitter.com/search?q=%23corrie) | N/A |
+| 40 | [#GOGimmighoul](http://twitter.com/search?q=%23GOGimmighoul) | N/A |
 
 
 

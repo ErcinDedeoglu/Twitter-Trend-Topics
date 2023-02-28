@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stockholm
 
-📆 Last Updated: `2023-02-28 02:41:19 UTC`
+📆 Last Updated: `2023-02-28 03:20:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,18 +19,18 @@ This is top 50 for [Sweden](</Sweden>)
 | 2 | [#Auroraborealis](http://twitter.com/search?q=%23Auroraborealis) | N/A |
 | 3 | [#norrsken](http://twitter.com/search?q=%23norrsken) | N/A |
 | 4 | [degerfors](http://twitter.com/search?q=degerfors) | N/A |
-| 5 | [stahre](http://twitter.com/search?q=stahre) | N/A |
-| 6 | [Saol](http://twitter.com/search?q=Saol) | N/A |
-| 7 | [#NorthernLights](http://twitter.com/search?q=%23NorthernLights) | N/A |
+| 5 | [#NorthernLights](http://twitter.com/search?q=%23NorthernLights) | N/A |
+| 6 | [stahre](http://twitter.com/search?q=stahre) | N/A |
+| 7 | [Saol](http://twitter.com/search?q=Saol) | N/A |
 | 8 | [Hovrätten](http://twitter.com/search?q=Hovr%c3%a4tten) | N/A |
 | 9 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
-| 10 | [Modo](http://twitter.com/search?q=Modo) | N/A |
+| 10 | [MoDo](http://twitter.com/search?q=MoDo) | N/A |
 | 11 | [Svenska Freds](http://twitter.com/search?q=Svenska+Freds) | N/A |
 | 12 | [Carola](http://twitter.com/search?q=Carola) | Carola is a female given name of Latin origin, derived from the masculine name Carolus, which is the Latin form of Charles. It means "free man" or "strong". |
 | 13 | [rieks](http://twitter.com/search?q=rieks) | N/A |
-| 14 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
-| 15 | [jonna sundling](http://twitter.com/search?q=jonna+sundling) | N/A |
-| 16 | [Norrköping](http://twitter.com/search?q=Norrk%c3%b6ping) | N/A |
+| 14 | [jonna sundling](http://twitter.com/search?q=jonna+sundling) | N/A |
+| 15 | [norrköping](http://twitter.com/search?q=norrk%c3%b6ping) | N/A |
+| 16 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
 | 17 | [GAIS](http://twitter.com/search?q=GAIS) | N/A |
 | 18 | [Atalanta](http://twitter.com/search?q=Atalanta) | Atalanta is a figure from Greek mythology. She was a brave and strong hunter who refused to marry anyone who could not beat her in a footrace. The meaning of Atalanta in English is "equal in weight". |
 | 19 | [Åke Thimfors](http://twitter.com/search?q=%c3%85ke+Thimfors) | N/A |
@@ -46,12 +46,12 @@ This is top 50 for [Sweden](</Sweden>)
 | 29 | [Ljungberg](http://twitter.com/search?q=Ljungberg) | N/A |
 | 30 | [Degen](http://twitter.com/search?q=Degen) | N/A |
 | 31 | [Zlatan](http://twitter.com/search?q=Zlatan) | Zlatan is a nickname for the Swedish soccer player Zlatan Ibrahimović. It is derived from his first name and is used to refer to him in a friendly or affectionate way. In English, it can be translated as "golden one". |
-| 32 | [åklagaren](http://twitter.com/search?q=%c3%a5klagaren) | N/A |
-| 33 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 34 | [jan scherman](http://twitter.com/search?q=jan+scherman) | N/A |
-| 35 | [Jake](http://twitter.com/search?q=Jake) | N/A |
-| 36 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 37 | [Beklagar](http://twitter.com/search?q=Beklagar) | N/A |
+| 32 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 33 | [jan scherman](http://twitter.com/search?q=jan+scherman) | N/A |
+| 34 | [Jake](http://twitter.com/search?q=Jake) | N/A |
+| 35 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 36 | [Beklagar](http://twitter.com/search?q=Beklagar) | N/A |
+| 37 | [Åklagaren](http://twitter.com/search?q=%c3%85klagaren) | N/A |
 | 38 | [demirok](http://twitter.com/search?q=demirok) | N/A |
 | 39 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
 | 40 | [A-traktor](http://twitter.com/search?q=A-traktor) | N/A |

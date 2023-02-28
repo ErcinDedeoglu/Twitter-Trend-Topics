@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barcelona
 
-📆 Last Updated: `2023-02-28 02:41:17 UTC`
+📆 Last Updated: `2023-02-28 03:20:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,53 @@ This is top 50 for [Spain](</Spain>)
 | ------- | ------------ | ------------ |
 | 1 | [#LaIslaDeLasTentaciones6](http://twitter.com/search?q=%23LaIslaDeLasTentaciones6) | N/A |
 | 2 | [Andalucía](http://twitter.com/search?q=Andaluc%c3%ada) | N/A |
-| 3 | [#conquis7ETB](http://twitter.com/search?q=%23conquis7ETB) | N/A |
+| 3 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 4 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
-| 5 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 6 | [Naomi](http://twitter.com/search?q=Naomi) | Naomi is a Hebrew name meaning "pleasantness" or "my delight." It is also a Japanese name meaning "beautiful truth." |
-| 7 | [#LaVelada3](http://twitter.com/search?q=%23LaVelada3) | N/A |
-| 8 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
-| 9 | [Amouranth](http://twitter.com/search?q=Amouranth) | N/A |
-| 10 | [Adrián](http://twitter.com/search?q=Adri%c3%a1n) | Adrián is a Spanish name derived from the Latin Hadrianus, meaning “from Hadria”. It is a masculine given name, usually used in Spanish-speaking countries. In English, it is usually translated as Adrian. |
-| 11 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
+| 5 | [#LaVelada3](http://twitter.com/search?q=%23LaVelada3) | N/A |
+| 6 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
+| 7 | [Amouranth](http://twitter.com/search?q=Amouranth) | N/A |
+| 8 | [Adrián](http://twitter.com/search?q=Adri%c3%a1n) | Adrián is a Spanish name derived from the Latin Hadrianus, meaning “from Hadria”. It is a masculine given name, usually used in Spanish-speaking countries. In English, it is usually translated as Adrian. |
+| 9 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
+| 10 | [Naomi](http://twitter.com/search?q=Naomi) | Naomi is a Hebrew name meaning "pleasantness" or "my delight." It is also a Japanese name meaning "beautiful truth." |
+| 11 | [Alex](http://twitter.com/search?q=Alex) | N/A |
 | 12 | [David](http://twitter.com/search?q=David) | N/A |
 | 13 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
-| 14 | [Alex](http://twitter.com/search?q=Alex) | N/A |
-| 15 | [Jagger](http://twitter.com/search?q=Jagger) | Jagger is a slang term used to describe someone who is stylish and fashionable. It can also be used to describe someone who is confident and cool. |
-| 16 | [Germán](http://twitter.com/search?q=Germ%c3%a1n) | Germán is a Spanish and Portuguese name derived from the Latin Germanus, meaning "brother". It is also a Germanic given name, derived from the Germanic element ger, meaning "spear". |
-| 17 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
-| 18 | [Coscu](http://twitter.com/search?q=Coscu) | N/A |
-| 19 | [Papi Gavi](http://twitter.com/search?q=Papi+Gavi) | N/A |
-| 20 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 21 | [Viruzz](http://twitter.com/search?q=Viruzz) | N/A |
-| 22 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
-| 23 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 24 | [Seleta](http://twitter.com/search?q=Seleta) | N/A |
-| 25 | [Julián Álvarez](http://twitter.com/search?q=Juli%c3%a1n+%c3%81lvarez) | N/A |
-| 26 | [Genaro](http://twitter.com/search?q=Genaro) | N/A |
-| 27 | [Lydia](http://twitter.com/search?q=Lydia) | N/A |
-| 28 | [Luzu](http://twitter.com/search?q=Luzu) | Luzu is a Spanish word that means light. It is often used to refer to a bright, cheerful, and optimistic attitude. |
-| 29 | [Mendi](http://twitter.com/search?q=Mendi) | N/A |
-| 30 | [Nabil](http://twitter.com/search?q=Nabil) | N/A |
-| 31 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 32 | [#firstdates27f](http://twitter.com/search?q=%23firstdates27f) | N/A |
+| 14 | [Germán](http://twitter.com/search?q=Germ%c3%a1n) | Germán is a Spanish and Portuguese name derived from the Latin Germanus, meaning "brother". It is also a Germanic given name, derived from the Germanic element ger, meaning "spear". |
+| 15 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 16 | [Coscu](http://twitter.com/search?q=Coscu) | N/A |
+| 17 | [Jagger](http://twitter.com/search?q=Jagger) | Jagger is a slang term used to describe someone who is stylish and fashionable. It can also be used to describe someone who is confident and cool. |
+| 18 | [Papi Gavi](http://twitter.com/search?q=Papi+Gavi) | N/A |
+| 19 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 20 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
+| 21 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 22 | [Viruzz](http://twitter.com/search?q=Viruzz) | N/A |
+| 23 | [Julián Álvarez](http://twitter.com/search?q=Juli%c3%a1n+%c3%81lvarez) | N/A |
+| 24 | [Genaro](http://twitter.com/search?q=Genaro) | N/A |
+| 25 | [Lydia](http://twitter.com/search?q=Lydia) | N/A |
+| 26 | [Shelao](http://twitter.com/search?q=Shelao) | N/A |
+| 27 | [Luzu](http://twitter.com/search?q=Luzu) | Luzu is a Spanish word that means light. It is often used to refer to a bright, cheerful, and optimistic attitude. |
+| 28 | [Nabil](http://twitter.com/search?q=Nabil) | N/A |
+| 29 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 30 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
+| 31 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 32 | [Rubius](http://twitter.com/search?q=Rubius) | Rubius is a Latin word meaning "red". It is often used to describe the color of hair, eyes, or skin. |
 | 33 | [Masi](http://twitter.com/search?q=Masi) | N/A |
-| 34 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
-| 35 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 36 | [Rubius](http://twitter.com/search?q=Rubius) | Rubius is a Latin word meaning "red". It is often used to describe the color of hair, eyes, or skin. |
-| 37 | [Fekir](http://twitter.com/search?q=Fekir) | Fekir is a French surname. It is derived from the Old French word fekir, which means "blessed". In English, it can be translated to mean "blessed one". |
-| 38 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
-| 39 | [Granada](http://twitter.com/search?q=Granada) | N/A |
-| 40 | [Iniesta](http://twitter.com/search?q=Iniesta) | N/A |
-| 41 | [Keyla](http://twitter.com/search?q=Keyla) | N/A |
-| 42 | [Almas](http://twitter.com/search?q=Almas) | N/A |
-| 43 | [Marina](http://twitter.com/search?q=Marina) | Marina is a feminine given name of Latin origin, meaning "of the sea". It is also a common noun referring to a marina, which is a harbor with moorings and services for pleasure boats. |
-| 44 | [Scaloni](http://twitter.com/search?q=Scaloni) | N/A |
-| 45 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 46 | [Martiño Rivas](http://twitter.com/search?q=Marti%c3%b1o+Rivas) | N/A |
-| 47 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
-| 48 | [Illojuan](http://twitter.com/search?q=Illojuan) | N/A |
-| 49 | [Balón de Oro](http://twitter.com/search?q=Bal%c3%b3n+de+Oro) | N/A |
-| 50 | [Los Cármenes](http://twitter.com/search?q=Los+C%c3%a1rmenes) | N/A |
+| 34 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
+| 35 | [Fekir](http://twitter.com/search?q=Fekir) | Fekir is a French surname. It is derived from the Old French word fekir, which means "blessed". In English, it can be translated to mean "blessed one". |
+| 36 | [Granada](http://twitter.com/search?q=Granada) | N/A |
+| 37 | [Iniesta](http://twitter.com/search?q=Iniesta) | N/A |
+| 38 | [#ViaCrucisSevilla23](http://twitter.com/search?q=%23ViaCrucisSevilla23) | N/A |
+| 39 | [Marina](http://twitter.com/search?q=Marina) | Marina is a feminine given name of Latin origin, meaning "of the sea". It is also a common noun referring to a marina, which is a harbor with moorings and services for pleasure boats. |
+| 40 | [Almas](http://twitter.com/search?q=Almas) | N/A |
+| 41 | [#28Feb](http://twitter.com/search?q=%2328Feb) | N/A |
+| 42 | [Scaloni](http://twitter.com/search?q=Scaloni) | N/A |
+| 43 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 44 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
+| 45 | [Balón de Oro](http://twitter.com/search?q=Bal%c3%b3n+de+Oro) | N/A |
+| 46 | [illojuan](http://twitter.com/search?q=illojuan) | N/A |
+| 47 | [Los Cármenes](http://twitter.com/search?q=Los+C%c3%a1rmenes) | N/A |
+| 48 | [#orianistas](http://twitter.com/search?q=%23orianistas) | N/A |
+| 49 | [#QueTeVoteTitoBerni](http://twitter.com/search?q=%23QueTeVoteTitoBerni) | N/A |
 
 
 

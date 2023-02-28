@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Montreal
 
-📆 Last Updated: `2023-02-28 02:40:59 UTC`
+📆 Last Updated: `2023-02-28 03:19:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,56 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 1 | [McDavid](http://twitter.com/search?q=McDavid) | McDavid is a brand of sports equipment and apparel, named after the Canadian hockey player Connor McDavid. The company produces protective gear, such as hockey helmets and shoulder pads, as well as clothing and accessories. |
 | 2 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
 | 3 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
 | 4 | [#GoSensGo](http://twitter.com/search?q=%23GoSensGo) | N/A |
-| 5 | [Giroux](http://twitter.com/search?q=Giroux) | N/A |
-| 6 | [#DougFordIsAPotato](http://twitter.com/search?q=%23DougFordIsAPotato) | N/A |
-| 7 | [Hellberg](http://twitter.com/search?q=Hellberg) | N/A |
-| 8 | [Chabot](http://twitter.com/search?q=Chabot) | N/A |
+| 5 | [Kostin](http://twitter.com/search?q=Kostin) | N/A |
+| 6 | [Giroux](http://twitter.com/search?q=Giroux) | N/A |
+| 7 | [#DougFordIsAPotato](http://twitter.com/search?q=%23DougFordIsAPotato) | N/A |
+| 8 | [Brady](http://twitter.com/search?q=Brady) | Brady is a name of Irish origin, derived from the Gaelic surname Ó Brádaigh. It is an Anglicized form of the Irish surname, which means "spirited" or "broad". |
 | 9 | [Omos](http://twitter.com/search?q=Omos) | N/A |
-| 10 | [Talbot](http://twitter.com/search?q=Talbot) | N/A |
-| 11 | [Stillman](http://twitter.com/search?q=Stillman) | N/A |
-| 12 | [Kulak](http://twitter.com/search?q=Kulak) | N/A |
-| 13 | [Kostin](http://twitter.com/search?q=Kostin) | N/A |
-| 14 | [Marchand](http://twitter.com/search?q=Marchand) | N/A |
-| 15 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 16 | [Brady Tkachuk](http://twitter.com/search?q=Brady+Tkachuk) | N/A |
-| 17 | [Zach](http://twitter.com/search?q=Zach) | N/A |
-| 18 | [Wings](http://twitter.com/search?q=Wings) | N/A |
-| 19 | [Trudeau Foundation](http://twitter.com/search?q=Trudeau+Foundation) | N/A |
-| 20 | [Brock Lesnar](http://twitter.com/search?q=Brock+Lesnar) | Brock Lesnar is an American professional wrestler, mixed martial artist, and former amateur wrestler. He is currently signed to WWE, where he performs on the Raw brand. The name "Brock Lesnar" is a combination of his real first name (Brock) and his father's surname (Lesnar). |
-| 21 | [kevin hart](http://twitter.com/search?q=kevin+hart) | N/A |
-| 22 | [Rupert Murdoch](http://twitter.com/search?q=Rupert+Murdoch) | N/A |
-| 23 | [Yamo](http://twitter.com/search?q=Yamo) | N/A |
-| 24 | [Bertuzzi](http://twitter.com/search?q=Bertuzzi) | N/A |
-| 25 | [DeBrincat](http://twitter.com/search?q=DeBrincat) | N/A |
-| 26 | [Josh Bloom](http://twitter.com/search?q=Josh+Bloom) | N/A |
-| 27 | [Gambrell](http://twitter.com/search?q=Gambrell) | N/A |
-| 28 | [Demko](http://twitter.com/search?q=Demko) | N/A |
-| 29 | [Gibby](http://twitter.com/search?q=Gibby) | N/A |
-| 30 | [CSIS](http://twitter.com/search?q=CSIS) | N/A |
-| 31 | [#TrudeauIsDestroyingCanada](http://twitter.com/search?q=%23TrudeauIsDestroyingCanada) | N/A |
-| 32 | [Dubas](http://twitter.com/search?q=Dubas) | N/A |
-| 33 | [McCabe](http://twitter.com/search?q=McCabe) | N/A |
-| 34 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
-| 35 | [Kerfoot](http://twitter.com/search?q=Kerfoot) | N/A |
-| 36 | [Ekholm](http://twitter.com/search?q=Ekholm) | N/A |
-| 37 | [Holl](http://twitter.com/search?q=Holl) | N/A |
-| 38 | [Nick Bontis](http://twitter.com/search?q=Nick+Bontis) | N/A |
-| 39 | [AstraZeneca](http://twitter.com/search?q=AstraZeneca) | N/A |
-| 40 | [Boston](http://twitter.com/search?q=Boston) | Boston is the capital and most populous city of the Commonwealth of Massachusetts in the United States. It is one of the oldest cities in the United States, founded in 1630 by Puritan settlers from England. The city is known for its rich history, culture, and educational institutions. It is also home to many world-renowned museums, universities, and hospitals. |
-| 41 | [Lafferty](http://twitter.com/search?q=Lafferty) | Lafferty is a Scottish surname derived from the Gaelic name Mac an Leifheartaigh, meaning "son of the follower of St. Laverty". It is most commonly found in County Donegal, Ireland. In English, it can be translated to mean "son of the follower of St. Laverty". |
-| 42 | [Stars](http://twitter.com/search?q=Stars) | N/A |
-| 43 | [LTIR](http://twitter.com/search?q=LTIR) | N/A |
-| 44 | [Schenn](http://twitter.com/search?q=Schenn) | N/A |
-| 45 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 46 | [Engvall](http://twitter.com/search?q=Engvall) | N/A |
-| 47 | [Canada Soccer](http://twitter.com/search?q=Canada+Soccer) | N/A |
-| 48 | [Sandin](http://twitter.com/search?q=Sandin) | N/A |
+| 10 | [Hellberg](http://twitter.com/search?q=Hellberg) | N/A |
+| 11 | [Chabot](http://twitter.com/search?q=Chabot) | N/A |
+| 12 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
+| 13 | [#NZvENG](http://twitter.com/search?q=%23NZvENG) | N/A |
+| 14 | [Stillman](http://twitter.com/search?q=Stillman) | N/A |
+| 15 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
+| 16 | [Kulak](http://twitter.com/search?q=Kulak) | N/A |
+| 17 | [Demko](http://twitter.com/search?q=Demko) | N/A |
+| 18 | [Talbot](http://twitter.com/search?q=Talbot) | N/A |
+| 19 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
+| 20 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 21 | [Yamo](http://twitter.com/search?q=Yamo) | N/A |
+| 22 | [Yamamoto](http://twitter.com/search?q=Yamamoto) | N/A |
+| 23 | [Wings](http://twitter.com/search?q=Wings) | N/A |
+| 24 | [Jess](http://twitter.com/search?q=Jess) | N/A |
+| 25 | [Marchand](http://twitter.com/search?q=Marchand) | N/A |
+| 26 | [Brooklyn](http://twitter.com/search?q=Brooklyn) | Brooklyn is a borough of New York City, located in the southwestern corner of the city. It is the most populous borough in New York City, with an estimated 2.6 million residents in 2019. The name Brooklyn comes from the Dutch village of Breukelen, meaning “broken land” or “marshland”. |
+| 27 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
+| 28 | [Rupert Murdoch](http://twitter.com/search?q=Rupert+Murdoch) | N/A |
+| 29 | [Zach](http://twitter.com/search?q=Zach) | N/A |
+| 30 | [DeBrincat](http://twitter.com/search?q=DeBrincat) | N/A |
+| 31 | [Trudeau Foundation](http://twitter.com/search?q=Trudeau+Foundation) | N/A |
+| 32 | [Bertuzzi](http://twitter.com/search?q=Bertuzzi) | N/A |
+| 33 | [Gambrell](http://twitter.com/search?q=Gambrell) | N/A |
+| 34 | [Josh Bloom](http://twitter.com/search?q=Josh+Bloom) | N/A |
+| 35 | [Puljujarvi](http://twitter.com/search?q=Puljujarvi) | N/A |
+| 36 | [Dubas](http://twitter.com/search?q=Dubas) | N/A |
+| 37 | [Stars](http://twitter.com/search?q=Stars) | N/A |
+| 38 | [McCabe](http://twitter.com/search?q=McCabe) | N/A |
+| 39 | [Kerfoot](http://twitter.com/search?q=Kerfoot) | N/A |
+| 40 | [Holl](http://twitter.com/search?q=Holl) | N/A |
+| 41 | [AstraZeneca](http://twitter.com/search?q=AstraZeneca) | N/A |
+| 42 | [Lafferty](http://twitter.com/search?q=Lafferty) | Lafferty is a Scottish surname derived from the Gaelic name Mac an Leifheartaigh, meaning "son of the follower of St. Laverty". It is most commonly found in County Donegal, Ireland. In English, it can be translated to mean "son of the follower of St. Laverty". |
+| 43 | [Boston](http://twitter.com/search?q=Boston) | Boston is the capital and most populous city of the Commonwealth of Massachusetts in the United States. It is one of the oldest cities in the United States, founded in 1630 by Puritan settlers from England. The city is known for its rich history, culture, and educational institutions. It is also home to many world-renowned museums, universities, and hospitals. |
+| 44 | [Ekholm](http://twitter.com/search?q=Ekholm) | N/A |
+| 45 | [LTIR](http://twitter.com/search?q=LTIR) | N/A |
+| 46 | [Schenn](http://twitter.com/search?q=Schenn) | N/A |
+| 47 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 48 | [Engvall](http://twitter.com/search?q=Engvall) | N/A |
+| 49 | [Canada Soccer](http://twitter.com/search?q=Canada+Soccer) | N/A |
+| 50 | [Jully](http://twitter.com/search?q=Jully) | N/A |
 
 
 
