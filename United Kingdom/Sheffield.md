@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sheffield
 
-📆 Last Updated: `2023-02-28 21:16:22 UTC`
+📆 Last Updated: `2023-02-28 22:16:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#bwfc](http://twitter.com/search?q=%23bwfc) | N/A |
-| 2 | [#SCFC](http://twitter.com/search?q=%23SCFC) | N/A |
-| 3 | [#GuardianGiveaways](http://twitter.com/search?q=%23GuardianGiveaways) | N/A |
-| 4 | [#OlivierAwards](http://twitter.com/search?q=%23OlivierAwards) | N/A |
-| 5 | [London Bridge](http://twitter.com/search?q=London+Bridge) | N/A |
-| 6 | [Wales and Scotland](http://twitter.com/search?q=Wales+and+Scotland) | N/A |
-| 7 | [Lions](http://twitter.com/search?q=Lions) | Lions are large cats that live in parts of Africa and India. They are the second-largest living cat species after tigers, and they are known for their strength, courage, and majestic appearance. The term "lion" is often used as a metaphor for strength and courage. |
-| 8 | [Bertie](http://twitter.com/search?q=Bertie) | N/A |
-| 9 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 10 | [Rutter](http://twitter.com/search?q=Rutter) | N/A |
-| 11 | [Alex Scott](http://twitter.com/search?q=Alex+Scott) | N/A |
-| 12 | [Solomon](http://twitter.com/search?q=Solomon) | N/A |
-| 13 | [Amartey](http://twitter.com/search?q=Amartey) | N/A |
-| 14 | [Bristol City](http://twitter.com/search?q=Bristol+City) | N/A |
-| 15 | [Meslier](http://twitter.com/search?q=Meslier) | N/A |
-| 16 | [Soumare](http://twitter.com/search?q=Soumare) | N/A |
-| 17 | [Palhinha](http://twitter.com/search?q=Palhinha) | Palhinha is a Portuguese slang term that means “little one” or “darling.” It is often used as an affectionate term of endearment for someone close to you, such as a child, friend, or partner. |
-| 18 | [Thomas](http://twitter.com/search?q=Thomas) | N/A |
-| 19 | [Blackburn](http://twitter.com/search?q=Blackburn) | N/A |
-| 20 | [Adams](http://twitter.com/search?q=Adams) | N/A |
-| 21 | [Roca](http://twitter.com/search?q=Roca) | N/A |
-| 22 | [McKennie](http://twitter.com/search?q=McKennie) | McKennie is a surname of Scottish origin. It is derived from the Gaelic MacCoinneach, meaning "son of Coinneach". |
-| 23 | [Shearer](http://twitter.com/search?q=Shearer) | Shearer is a term used to describe someone who works in a coal mine, cutting and removing coal from the face of the seam. It is also used to refer to someone who cuts and shapes metal, such as a blacksmith or a tinsmith. |
-| 24 | [Rodak](http://twitter.com/search?q=Rodak) | N/A |
-| 25 | [Harry Wilson](http://twitter.com/search?q=Harry+Wilson) | N/A |
-| 26 | [Ashton Gate](http://twitter.com/search?q=Ashton+Gate) | N/A |
-| 27 | [Dolan](http://twitter.com/search?q=Dolan) | N/A |
-| 28 | [Iversen](http://twitter.com/search?q=Iversen) | N/A |
-| 29 | [Kristensen](http://twitter.com/search?q=Kristensen) | N/A |
-| 30 | [Iheanacho](http://twitter.com/search?q=Iheanacho) | N/A |
-| 31 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
-| 32 | [Evan Ferguson](http://twitter.com/search?q=Evan+Ferguson) | Evan Ferguson is a Scottish surname. It is derived from the Gaelic name Fergus, which means "strong man". The name is most commonly found in Scotland and Northern Ireland. |
-| 33 | [Rodgers](http://twitter.com/search?q=Rodgers) | Rodgers is a surname of English and Irish origin. It is derived from the given name Roger, which is derived from the Germanic elements hrod (fame) and ger (spear). |
-| 34 | [Ally McCoist](http://twitter.com/search?q=Ally+McCoist) | Ally McCoist is a Scottish former professional footballer and manager. He is best known for his time as a player at Rangers, where he was the club's record goalscorer, and for managing the club from 2011 to 2014. He is currently an assistant manager at Kilmarnock. |
-| 35 | [Peter Pan](http://twitter.com/search?q=Peter+Pan) | N/A |
-| 36 | [Carole](http://twitter.com/search?q=Carole) | N/A |
-| 37 | [Summerville](http://twitter.com/search?q=Summerville) | N/A |
-| 38 | [Kalvin Phillips](http://twitter.com/search?q=Kalvin+Phillips) | N/A |
-| 39 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 40 | [Phil Foden](http://twitter.com/search?q=Phil+Foden) | N/A |
-| 41 | [Cremonese](http://twitter.com/search?q=Cremonese) | N/A |
-| 42 | [Craven Cottage](http://twitter.com/search?q=Craven+Cottage) | N/A |
-| 43 | [Ortega](http://twitter.com/search?q=Ortega) | Ortega is a Spanish surname derived from the Latin name "Hortensius," meaning "garden." It is most commonly associated with the Nicaraguan president, Daniel Ortega. |
-| 44 | [Tinkerbell](http://twitter.com/search?q=Tinkerbell) | N/A |
-| 45 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
-| 46 | [Ayling](http://twitter.com/search?q=Ayling) | Ayling is a surname of English origin. It is derived from the Old English personal name Aethelwine, which means "noble friend". |
-| 47 | [Banks](http://twitter.com/search?q=Banks) | N/A |
+| 1 | [#LUTMIL](http://twitter.com/search?q=%23LUTMIL) | N/A |
+| 2 | [#BritishKebabAwards](http://twitter.com/search?q=%23BritishKebabAwards) | N/A |
+| 3 | [#SCFC](http://twitter.com/search?q=%23SCFC) | N/A |
+| 4 | [Vardy](http://twitter.com/search?q=Vardy) | Vardy is a slang term used to describe someone who is always on the go and always busy. It can also be used to describe someone who is always hustling and working hard to get ahead. |
+| 5 | [#ctfc](http://twitter.com/search?q=%23ctfc) | N/A |
+| 6 | [Craven Cottage](http://twitter.com/search?q=Craven+Cottage) | N/A |
+| 7 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
+| 8 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
+| 9 | [Cremonese](http://twitter.com/search?q=Cremonese) | N/A |
+| 10 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
+| 11 | [Gillingham](http://twitter.com/search?q=Gillingham) | Gillingham is a town in the county of Kent, England. It is located on the River Medway and is known for its historic buildings, including Gillingham Palace, which was once the home of King Henry VIII. The name Gillingham is derived from the Old English words "gyllan" meaning "to gush" and "ham" meaning "homestead". |
+| 12 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 13 | [Jessie](http://twitter.com/search?q=Jessie) | N/A |
+| 14 | [Casey](http://twitter.com/search?q=Casey) | Casey is a unisex name of Irish origin, derived from the Gaelic Cathasaigh, meaning “brave” or “vigilant.” It is also a popular surname in the United States. |
+| 15 | [Maxwell](http://twitter.com/search?q=Maxwell) | N/A |
+| 16 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 17 | [Sammie](http://twitter.com/search?q=Sammie) | N/A |
+| 18 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
+| 19 | [Bristol City](http://twitter.com/search?q=Bristol+City) | N/A |
+| 20 | [Sanam](http://twitter.com/search?q=Sanam) | N/A |
+| 21 | [Rutter](http://twitter.com/search?q=Rutter) | N/A |
+| 22 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 23 | [Solomon](http://twitter.com/search?q=Solomon) | N/A |
+| 24 | [Pogba](http://twitter.com/search?q=Pogba) | Pogba is a nickname for the French professional footballer Paul Pogba. It is derived from his last name and is often used as a term of endearment by his fans. |
+| 25 | [Amartey](http://twitter.com/search?q=Amartey) | N/A |
+| 26 | [Bamford](http://twitter.com/search?q=Bamford) | Bamford is a surname of English origin. It is derived from the Old English words "bam" and "ford," meaning "a ford over a high bank or cliff." The name is most commonly associated with the town of Bamford in Derbyshire, England. |
+| 27 | [Alex Scott](http://twitter.com/search?q=Alex+Scott) | N/A |
+| 28 | [McKennie](http://twitter.com/search?q=McKennie) | McKennie is a surname of Scottish origin. It is derived from the Gaelic MacCoinneach, meaning "son of Coinneach". |
+| 29 | [Meslier](http://twitter.com/search?q=Meslier) | N/A |
+| 30 | [Adams](http://twitter.com/search?q=Adams) | N/A |
+| 31 | [Soumare](http://twitter.com/search?q=Soumare) | N/A |
+| 32 | [Rodgers](http://twitter.com/search?q=Rodgers) | Rodgers is a surname of English and Irish origin. It is derived from the given name Roger, which is derived from the Germanic elements hrod (fame) and ger (spear). |
+| 33 | [Claudia](http://twitter.com/search?q=Claudia) | Claudia is a female given name of Latin origin, derived from the Roman clan name Claudius. It means "lame" or "disabled". |
+| 34 | [Rodrigo](http://twitter.com/search?q=Rodrigo) | Rodrigo is a Spanish and Portuguese name derived from the Germanic name Roderick, which means "famous power". It is also a common surname in Spanish-speaking countries. |
+| 35 | [Roca](http://twitter.com/search?q=Roca) | N/A |
+| 36 | [Rosie](http://twitter.com/search?q=Rosie) | N/A |
+| 37 | [Thomas](http://twitter.com/search?q=Thomas) | N/A |
+| 38 | [Shearer](http://twitter.com/search?q=Shearer) | Shearer is a term used to describe someone who works in a coal mine, cutting and removing coal from the face of the seam. It is also used to refer to someone who cuts and shapes metal, such as a blacksmith or a tinsmith. |
+| 39 | [Millwall](http://twitter.com/search?q=Millwall) | N/A |
+| 40 | [Keanan](http://twitter.com/search?q=Keanan) | N/A |
+| 41 | [Rodak](http://twitter.com/search?q=Rodak) | N/A |
+| 42 | [Palhinha](http://twitter.com/search?q=Palhinha) | Palhinha is a Portuguese slang term that means “little one” or “darling.” It is often used as an affectionate term of endearment for someone close to you, such as a child, friend, or partner. |
+| 43 | [De Bruyne](http://twitter.com/search?q=De+Bruyne) | De Bruyne is a Dutch surname. It is derived from the Dutch word "bruin", which means "brown". The name is most commonly associated with Belgian footballer Kevin De Bruyne, who currently plays for Manchester City in the English Premier League. |
+| 44 | [Andy Cook](http://twitter.com/search?q=Andy+Cook) | N/A |
+| 45 | [Kristensen](http://twitter.com/search?q=Kristensen) | N/A |
+| 46 | [Kalas](http://twitter.com/search?q=Kalas) | N/A |
+| 47 | [Iheanacho](http://twitter.com/search?q=Iheanacho) | N/A |
 
 
 

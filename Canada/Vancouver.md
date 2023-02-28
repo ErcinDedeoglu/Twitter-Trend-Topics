@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vancouver
 
-📆 Last Updated: `2023-02-28 21:16:19 UTC`
+📆 Last Updated: `2023-02-28 22:16:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Canada](</Canada>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#bcstorm](http://twitter.com/search?q=%23bcstorm) | N/A |
-| 2 | [#snowday](http://twitter.com/search?q=%23snowday) | N/A |
-| 3 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
-| 4 | [Sandin](http://twitter.com/search?q=Sandin) | N/A |
-| 5 | [Barton](http://twitter.com/search?q=Barton) | N/A |
-| 6 | [#Flames1stGoal](http://twitter.com/search?q=%23Flames1stGoal) | N/A |
-| 7 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
-| 8 | [Gustafsson](http://twitter.com/search?q=Gustafsson) | N/A |
-| 9 | [#BeyondFast](http://twitter.com/search?q=%23BeyondFast) | #BeyondFast is a hashtag used to describe something that goes beyond the speed of fast. It is used to emphasize the idea that something is faster than fast, or that it surpasses the speed of fast. |
-| 10 | [Carolina](http://twitter.com/search?q=Carolina) | N/A |
-| 11 | [Patrick Kane](http://twitter.com/search?q=Patrick+Kane) | N/A |
-| 12 | [Ricky Tiedemann](http://twitter.com/search?q=Ricky+Tiedemann) | N/A |
-| 13 | [Holl](http://twitter.com/search?q=Holl) | N/A |
-| 14 | [Panarin](http://twitter.com/search?q=Panarin) | N/A |
-| 15 | [Bison King](http://twitter.com/search?q=Bison+King) | N/A |
-| 16 | [GIVE US WN BLOOPERS](http://twitter.com/search?q=GIVE+US+WN+BLOOPERS) | N/A |
-| 17 | [#TSTheErasTour](http://twitter.com/search?q=%23TSTheErasTour) | N/A |
-| 18 | [Tarasenko](http://twitter.com/search?q=Tarasenko) | N/A |
-| 19 | [Dubas](http://twitter.com/search?q=Dubas) | N/A |
-| 20 | [Rielly](http://twitter.com/search?q=Rielly) | N/A |
-| 21 | [CSIS](http://twitter.com/search?q=CSIS) | N/A |
-| 22 | [Puistola](http://twitter.com/search?q=Puistola) | N/A |
-| 23 | [Peter Pan](http://twitter.com/search?q=Peter+Pan) | N/A |
-| 24 | [Miller](http://twitter.com/search?q=Miller) | N/A |
-| 25 | [Birgit](http://twitter.com/search?q=Birgit) | N/A |
-| 26 | [Chychrun](http://twitter.com/search?q=Chychrun) | N/A |
-| 27 | [Dube](http://twitter.com/search?q=Dube) | N/A |
-| 28 | [Trudeau Foundation](http://twitter.com/search?q=Trudeau+Foundation) | N/A |
-| 29 | [Finnish](http://twitter.com/search?q=Finnish) | N/A |
-| 30 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 31 | [Black History Month](http://twitter.com/search?q=Black+History+Month) | N/A |
-| 32 | [LTIR](http://twitter.com/search?q=LTIR) | N/A |
-| 33 | [Wike](http://twitter.com/search?q=Wike) | Wike is a term used in the Philippines to refer to a person who is knowledgeable or wise. It is derived from the Tagalog word "wikain," which means "to know." In English, it can be translated as "wise" or "knowledgeable." |
-| 34 | [FIPA](http://twitter.com/search?q=FIPA) | N/A |
-| 35 | [Ekholm](http://twitter.com/search?q=Ekholm) | N/A |
-| 36 | [Edmundson](http://twitter.com/search?q=Edmundson) | N/A |
-| 37 | [Yamamoto](http://twitter.com/search?q=Yamamoto) | N/A |
-| 38 | [Kenny](http://twitter.com/search?q=Kenny) | N/A |
-| 39 | [#RareDiseaseDay](http://twitter.com/search?q=%23RareDiseaseDay) | N/A |
-| 40 | [#ItsBudTime](http://twitter.com/search?q=%23ItsBudTime) | N/A |
-| 41 | [#ocsbSTEAM](http://twitter.com/search?q=%23ocsbSTEAM) | N/A |
-| 42 | [#LetsGoCanes](http://twitter.com/search?q=%23LetsGoCanes) | N/A |
-| 43 | [#TrudeauOutOfControl](http://twitter.com/search?q=%23TrudeauOutOfControl) | N/A |
-| 44 | [#NHLTradeDeadline](http://twitter.com/search?q=%23NHLTradeDeadline) | N/A |
-| 45 | [#TrudeauMustResign](http://twitter.com/search?q=%23TrudeauMustResign) | N/A |
-| 46 | [#TrudeauForTreason](http://twitter.com/search?q=%23TrudeauForTreason) | N/A |
-| 47 | [#Lightfall](http://twitter.com/search?q=%23Lightfall) | N/A |
-| 48 | [#Destiny2](http://twitter.com/search?q=%23Destiny2) | N/A |
-| 49 | [#MurdaughTrial](http://twitter.com/search?q=%23MurdaughTrial) | N/A |
-| 50 | [#TrudeauIsDestroyingCanada](http://twitter.com/search?q=%23TrudeauIsDestroyingCanada) | N/A |
+| 2 | [Sandin](http://twitter.com/search?q=Sandin) | N/A |
+| 3 | [Dubas](http://twitter.com/search?q=Dubas) | N/A |
+| 4 | [Luke Schenn](http://twitter.com/search?q=Luke+Schenn) | N/A |
+| 5 | [Gustafsson](http://twitter.com/search?q=Gustafsson) | N/A |
+| 6 | [Holl](http://twitter.com/search?q=Holl) | N/A |
+| 7 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
+| 8 | [Barton](http://twitter.com/search?q=Barton) | N/A |
+| 9 | [Engvall](http://twitter.com/search?q=Engvall) | N/A |
+| 10 | [Patrick Kane](http://twitter.com/search?q=Patrick+Kane) | N/A |
+| 11 | [#BeyondFast](http://twitter.com/search?q=%23BeyondFast) | #BeyondFast is a hashtag used to describe something that goes beyond the speed of fast. It is used to emphasize the idea that something is faster than fast, or that it surpasses the speed of fast. |
+| 12 | [Boeser](http://twitter.com/search?q=Boeser) | N/A |
+| 13 | [Chychrun](http://twitter.com/search?q=Chychrun) | N/A |
+| 14 | [Rielly](http://twitter.com/search?q=Rielly) | N/A |
+| 15 | [#Flames1stGoal](http://twitter.com/search?q=%23Flames1stGoal) | N/A |
+| 16 | [Pogba](http://twitter.com/search?q=Pogba) | Pogba is a nickname for the French professional footballer Paul Pogba. It is derived from his last name and is often used as a term of endearment by his fans. |
+| 17 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
+| 18 | [Carolina](http://twitter.com/search?q=Carolina) | N/A |
+| 19 | [#NHLTradeDeadline](http://twitter.com/search?q=%23NHLTradeDeadline) | N/A |
+| 20 | [Miller](http://twitter.com/search?q=Miller) | N/A |
+| 21 | [Washington](http://twitter.com/search?q=Washington) | N/A |
+| 22 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
+| 23 | [Kerfoot](http://twitter.com/search?q=Kerfoot) | N/A |
+| 24 | [#bcbudget](http://twitter.com/search?q=%23bcbudget) | N/A |
+| 25 | [Murray](http://twitter.com/search?q=Murray) | N/A |
+| 26 | [Ricky Tiedemann](http://twitter.com/search?q=Ricky+Tiedemann) | N/A |
+| 27 | [McCabe](http://twitter.com/search?q=McCabe) | N/A |
+| 28 | [Keefe](http://twitter.com/search?q=Keefe) | N/A |
+| 29 | [Liljegren](http://twitter.com/search?q=Liljegren) | N/A |
+| 30 | [Panarin](http://twitter.com/search?q=Panarin) | N/A |
+| 31 | [Birgit](http://twitter.com/search?q=Birgit) | N/A |
+| 32 | [Peter Pan](http://twitter.com/search?q=Peter+Pan) | N/A |
+| 33 | [Puistola](http://twitter.com/search?q=Puistola) | N/A |
+| 34 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
+| 35 | [Tarasenko](http://twitter.com/search?q=Tarasenko) | N/A |
+| 36 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 37 | [Trudeau Foundation](http://twitter.com/search?q=Trudeau+Foundation) | N/A |
+| 38 | [Finnish](http://twitter.com/search?q=Finnish) | N/A |
+| 39 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
+| 40 | [Canes](http://twitter.com/search?q=Canes) | N/A |
+| 41 | [Black History Month](http://twitter.com/search?q=Black+History+Month) | N/A |
+| 42 | [CSIS](http://twitter.com/search?q=CSIS) | N/A |
+| 43 | [Wike](http://twitter.com/search?q=Wike) | Wike is a term used in the Philippines to refer to a person who is knowledgeable or wise. It is derived from the Tagalog word "wikain," which means "to know." In English, it can be translated as "wise" or "knowledgeable." |
+| 44 | [LTIR](http://twitter.com/search?q=LTIR) | N/A |
+| 45 | [FIPA](http://twitter.com/search?q=FIPA) | N/A |
+| 46 | [Edmundson](http://twitter.com/search?q=Edmundson) | N/A |
+| 47 | [#TSTheErasTour](http://twitter.com/search?q=%23TSTheErasTour) | N/A |
+| 48 | [#BisonKing](http://twitter.com/search?q=%23BisonKing) | N/A |
+| 49 | [#RareDiseaseDay](http://twitter.com/search?q=%23RareDiseaseDay) | N/A |
+| 50 | [#ocsbSTEAM](http://twitter.com/search?q=%23ocsbSTEAM) | N/A |
 
 
 

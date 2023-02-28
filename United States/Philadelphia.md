@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philadelphia
 
-📆 Last Updated: `2023-02-28 21:17:02 UTC`
+📆 Last Updated: `2023-02-28 22:17:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [JT Miller](http://twitter.com/search?q=JT+Miller) | N/A |
+| 1 | [McGinn](http://twitter.com/search?q=McGinn) | McGinn is a surname of Irish origin. It is derived from the Gaelic Mac Fhionnghain, meaning "son of the fair-haired one". |
 | 2 | [Joanna McClinton](http://twitter.com/search?q=Joanna+McClinton) | N/A |
-| 3 | [Chuck Fletcher](http://twitter.com/search?q=Chuck+Fletcher) | N/A |
-| 4 | [#MurdaughTrial](http://twitter.com/search?q=%23MurdaughTrial) | N/A |
-| 5 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
-| 6 | [Patrick Kane](http://twitter.com/search?q=Patrick+Kane) | N/A |
-| 7 | [#BeyondFast](http://twitter.com/search?q=%23BeyondFast) | #BeyondFast is a hashtag used to describe something that goes beyond the speed of fast. It is used to emphasize the idea that something is faster than fast, or that it surpasses the speed of fast. |
-| 8 | [#studentloanforgiveness](http://twitter.com/search?q=%23studentloanforgiveness) | N/A |
-| 9 | [#TSTheErasTour](http://twitter.com/search?q=%23TSTheErasTour) | N/A |
-| 10 | [#RareDiseaseDay](http://twitter.com/search?q=%23RareDiseaseDay) | N/A |
-| 11 | [Dave Grohl](http://twitter.com/search?q=Dave+Grohl) | N/A |
-| 12 | [Julie Su](http://twitter.com/search?q=Julie+Su) | N/A |
-| 13 | [Sandin](http://twitter.com/search?q=Sandin) | N/A |
-| 14 | [Peter Pan](http://twitter.com/search?q=Peter+Pan) | N/A |
-| 15 | [Dragic](http://twitter.com/search?q=Dragic) | N/A |
-| 16 | [Bo Cruz](http://twitter.com/search?q=Bo+Cruz) | N/A |
-| 17 | [Sean Desai](http://twitter.com/search?q=Sean+Desai) | N/A |
-| 18 | [Panarin](http://twitter.com/search?q=Panarin) | N/A |
-| 19 | [SCOTUS](http://twitter.com/search?q=SCOTUS) | SCOTUS is an acronym for the Supreme Court of the United States. It is the highest court in the United States and is responsible for interpreting and applying federal laws. |
-| 20 | [Jamie Raskin](http://twitter.com/search?q=Jamie+Raskin) | N/A |
-| 21 | [Fournette](http://twitter.com/search?q=Fournette) | N/A |
-| 22 | [Gaetz](http://twitter.com/search?q=Gaetz) | Gaetz is a surname of German origin. It is derived from the German word "Gatze" which means "goat". The name is most commonly found in the United States, Canada, and Germany. |
-| 23 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
-| 24 | [GIVE US WN BLOOPERS](http://twitter.com/search?q=GIVE+US+WN+BLOOPERS) | N/A |
-| 25 | [Dr. Kinsey](http://twitter.com/search?q=Dr.+Kinsey) | N/A |
-| 26 | [Black History Month](http://twitter.com/search?q=Black+History+Month) | N/A |
-| 27 | [Tinkerbell](http://twitter.com/search?q=Tinkerbell) | N/A |
-| 28 | [Josh Bell](http://twitter.com/search?q=Josh+Bell) | N/A |
-| 29 | [Dreamville](http://twitter.com/search?q=Dreamville) | N/A |
-| 30 | [Tarasenko](http://twitter.com/search?q=Tarasenko) | N/A |
-| 31 | [Ricou Browning](http://twitter.com/search?q=Ricou+Browning) | N/A |
-| 32 | [Chris Drury](http://twitter.com/search?q=Chris+Drury) | N/A |
-| 33 | [Grogu](http://twitter.com/search?q=Grogu) | N/A |
-| 34 | [Seized](http://twitter.com/search?q=Seized) | N/A |
-| 35 | [Start Dame](http://twitter.com/search?q=Start+Dame) | N/A |
+| 3 | [Black History Month](http://twitter.com/search?q=Black+History+Month) | N/A |
+| 4 | [Chuck Fletcher](http://twitter.com/search?q=Chuck+Fletcher) | N/A |
+| 5 | [Patrick Kane](http://twitter.com/search?q=Patrick+Kane) | N/A |
+| 6 | [#BeyondFast](http://twitter.com/search?q=%23BeyondFast) | #BeyondFast is a hashtag used to describe something that goes beyond the speed of fast. It is used to emphasize the idea that something is faster than fast, or that it surpasses the speed of fast. |
+| 7 | [#studentloanforgiveness](http://twitter.com/search?q=%23studentloanforgiveness) | N/A |
+| 8 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
+| 9 | [Sandin](http://twitter.com/search?q=Sandin) | N/A |
+| 10 | [Dave Grohl](http://twitter.com/search?q=Dave+Grohl) | N/A |
+| 11 | [#TSTheErasTour](http://twitter.com/search?q=%23TSTheErasTour) | N/A |
+| 12 | [Kyle Dubas](http://twitter.com/search?q=Kyle+Dubas) | N/A |
+| 13 | [#RareDiseaseDay](http://twitter.com/search?q=%23RareDiseaseDay) | N/A |
+| 14 | [Matt Gaetz](http://twitter.com/search?q=Matt+Gaetz) | Matt Gaetz is an American politician who currently serves as the U.S. Representative for Florida's 1st congressional district. He is a member of the Republican Party and was first elected to Congress in 2016. |
+| 15 | [Dr. Kinsey](http://twitter.com/search?q=Dr.+Kinsey) | N/A |
+| 16 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
+| 17 | [Tim Ream](http://twitter.com/search?q=Tim+Ream) | Tim Ream is an American soccer player who currently plays for Fulham in the English Premier League. He is a defender who has also played for the United States men's national team. The name "Tim Ream" is derived from his given name, Timothy. |
+| 18 | [Dragic](http://twitter.com/search?q=Dragic) | N/A |
+| 19 | [Peter Pan](http://twitter.com/search?q=Peter+Pan) | N/A |
+| 20 | [Blackhawks](http://twitter.com/search?q=Blackhawks) | N/A |
+| 21 | [Julie Su](http://twitter.com/search?q=Julie+Su) | N/A |
+| 22 | [SCOTUS](http://twitter.com/search?q=SCOTUS) | SCOTUS is an acronym for the Supreme Court of the United States. It is the highest court in the United States and is responsible for interpreting and applying federal laws. |
+| 23 | [Raskin](http://twitter.com/search?q=Raskin) | N/A |
+| 24 | [Panarin](http://twitter.com/search?q=Panarin) | N/A |
+| 25 | [#PMSLive](http://twitter.com/search?q=%23PMSLive) | N/A |
+| 26 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
+| 27 | [Engvall](http://twitter.com/search?q=Engvall) | N/A |
+| 28 | [Bo Cruz](http://twitter.com/search?q=Bo+Cruz) | N/A |
+| 29 | [GIVE US WN BLOOPERS](http://twitter.com/search?q=GIVE+US+WN+BLOOPERS) | N/A |
+| 30 | [Sean Desai](http://twitter.com/search?q=Sean+Desai) | N/A |
+| 31 | [Tinkerbell](http://twitter.com/search?q=Tinkerbell) | N/A |
+| 32 | [Dreamville](http://twitter.com/search?q=Dreamville) | N/A |
+| 33 | [Leonard Fournette](http://twitter.com/search?q=Leonard+Fournette) | N/A |
+| 34 | [Grogu](http://twitter.com/search?q=Grogu) | N/A |
+| 35 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
 | 36 | [Duke Tobin](http://twitter.com/search?q=Duke+Tobin) | N/A |
-| 37 | [Rachaad White](http://twitter.com/search?q=Rachaad+White) | N/A |
-| 38 | [Marcus Johansson](http://twitter.com/search?q=Marcus+Johansson) | N/A |
-| 39 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 40 | [Start Kyrie](http://twitter.com/search?q=Start+Kyrie) | N/A |
-| 41 | [Lenny](http://twitter.com/search?q=Lenny) | N/A |
-| 42 | [Start Russ](http://twitter.com/search?q=Start+Russ) | N/A |
-| 43 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 44 | [Nudy](http://twitter.com/search?q=Nudy) | N/A |
-| 45 | [Bench Russ](http://twitter.com/search?q=Bench+Russ) | N/A |
-| 46 | [Quintana](http://twitter.com/search?q=Quintana) | N/A |
-| 47 | [Kodak](http://twitter.com/search?q=Kodak) | N/A |
-| 48 | [Eric Adams](http://twitter.com/search?q=Eric+Adams) | N/A |
-| 49 | [JRPG](http://twitter.com/search?q=JRPG) | N/A |
+| 37 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 38 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 39 | [Pogba](http://twitter.com/search?q=Pogba) | Pogba is a nickname for the French professional footballer Paul Pogba. It is derived from his last name and is often used as a term of endearment by his fans. |
+| 40 | [MASH](http://twitter.com/search?q=MASH) | N/A |
+| 41 | [SEIZED](http://twitter.com/search?q=SEIZED) | N/A |
+| 42 | [Ricou Browning](http://twitter.com/search?q=Ricou+Browning) | N/A |
+| 43 | [Pearl Nelson](http://twitter.com/search?q=Pearl+Nelson) | N/A |
+| 44 | [Tee Higgins](http://twitter.com/search?q=Tee+Higgins) | Tee Higgins is a nickname for the American football player Tee Higgins, who plays wide receiver for the Cincinnati Bengals. The name is derived from his given name, Terrell. |
+| 45 | [Schenn](http://twitter.com/search?q=Schenn) | N/A |
+| 46 | [Tarasenko](http://twitter.com/search?q=Tarasenko) | N/A |
+| 47 | [Chris Drury](http://twitter.com/search?q=Chris+Drury) | N/A |
+| 48 | [Chychrun](http://twitter.com/search?q=Chychrun) | N/A |
+| 49 | [Jim Johnston](http://twitter.com/search?q=Jim+Johnston) | N/A |
 
 
 

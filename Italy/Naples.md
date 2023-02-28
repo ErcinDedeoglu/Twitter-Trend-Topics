@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Naples
 
-📆 Last Updated: `2023-02-28 21:16:34 UTC`
+📆 Last Updated: `2023-02-28 22:16:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Italy](</Italy>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#JuveToro](http://twitter.com/search?q=%23JuveToro) | N/A |
-| 2 | [#CremoneseRoma](http://twitter.com/search?q=%23CremoneseRoma) | N/A |
-| 3 | [#Belve](http://twitter.com/search?q=%23Belve) | N/A |
-| 4 | [#Mourinho](http://twitter.com/search?q=%23Mourinho) | N/A |
-| 5 | [#JuventusTorino](http://twitter.com/search?q=%23JuventusTorino) | N/A |
-| 6 | [De Benedetti](http://twitter.com/search?q=De+Benedetti) | N/A |
-| 7 | [Bremer](http://twitter.com/search?q=Bremer) | Bremer is a German surname derived from the city of Bremen. In English, it can mean someone from Bremen or a person of German descent. |
-| 8 | [Sanabria](http://twitter.com/search?q=Sanabria) | N/A |
-| 9 | [Giletti](http://twitter.com/search?q=Giletti) | N/A |
-| 10 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | N/A |
-| 11 | [Mancini](http://twitter.com/search?q=Mancini) | Mancini is an Italian surname derived from the Latin name "Mantius". It is a common surname in Italy and other parts of Europe. In English, it means "son of Mantius". |
-| 12 | [Serra](http://twitter.com/search?q=Serra) | N/A |
-| 13 | [La Roma](http://twitter.com/search?q=La+Roma) | N/A |
-| 14 | [Rui Patricio](http://twitter.com/search?q=Rui+Patricio) | N/A |
-| 15 | [Ballardini](http://twitter.com/search?q=Ballardini) | N/A |
-| 16 | [Pellegrini](http://twitter.com/search?q=Pellegrini) | N/A |
-| 17 | [Kostic](http://twitter.com/search?q=Kostic) | N/A |
-| 18 | [Cremona](http://twitter.com/search?q=Cremona) | N/A |
-| 19 | [Forza Roma](http://twitter.com/search?q=Forza+Roma) | N/A |
-| 20 | [Zalewski](http://twitter.com/search?q=Zalewski) | N/A |
-| 21 | [Pogba](http://twitter.com/search?q=Pogba) | Pogba is a nickname for the French professional footballer Paul Pogba. It is derived from his last name and is often used as a term of endearment by his fans. |
-| 22 | [Vulcano](http://twitter.com/search?q=Vulcano) | N/A |
-| 23 | [Pomezia](http://twitter.com/search?q=Pomezia) | N/A |
-| 24 | [Carola Rackete](http://twitter.com/search?q=Carola+Rackete) | N/A |
-| 25 | [Spinazzola](http://twitter.com/search?q=Spinazzola) | N/A |
-| 26 | [Svizzera](http://twitter.com/search?q=Svizzera) | N/A |
-| 27 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
-| 28 | [Grecia](http://twitter.com/search?q=Grecia) | N/A |
-| 29 | [Santori](http://twitter.com/search?q=Santori) | N/A |
-| 30 | [Saviano](http://twitter.com/search?q=Saviano) | N/A |
-| 31 | [Alex Sandro](http://twitter.com/search?q=Alex+Sandro) | Alex Sandro is a Brazilian professional footballer who plays for Italian club Juventus and the Brazil national team. His full name is Alex Sandro Lobo Silva. He primarily plays as a left-back, but can also play as a left winger. In English, his name means "Protector of Man". |
-| 32 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
-| 33 | [Fioroni](http://twitter.com/search?q=Fioroni) | N/A |
-| 34 | [#primoappuntamento](http://twitter.com/search?q=%23primoappuntamento) | N/A |
-| 35 | [#upas](http://twitter.com/search?q=%23upas) | N/A |
-| 36 | [#SeiDonne](http://twitter.com/search?q=%23SeiDonne) | N/A |
-| 37 | [#jvtblive](http://twitter.com/search?q=%23jvtblive) | N/A |
-| 38 | [#BuongiornoMamma2](http://twitter.com/search?q=%23BuongiornoMamma2) | N/A |
-| 39 | [#Fuoridalcoro](http://twitter.com/search?q=%23Fuoridalcoro) | N/A |
-| 40 | [#Danilo](http://twitter.com/search?q=%23Danilo) | N/A |
-| 41 | [#dimartedi](http://twitter.com/search?q=%23dimartedi) | N/A |
-| 42 | [#blob](http://twitter.com/search?q=%23blob) | N/A |
-| 43 | [#leiene](http://twitter.com/search?q=%23leiene) | N/A |
+| 2 | [#Belve](http://twitter.com/search?q=%23Belve) | N/A |
+| 3 | [#JuventusTorino](http://twitter.com/search?q=%23JuventusTorino) | N/A |
+| 4 | [#CremoneseRoma](http://twitter.com/search?q=%23CremoneseRoma) | N/A |
+| 5 | [#BuongiornoMamma2](http://twitter.com/search?q=%23BuongiornoMamma2) | N/A |
+| 6 | [Bremer](http://twitter.com/search?q=Bremer) | Bremer is a German surname derived from the city of Bremen. In English, it can mean someone from Bremen or a person of German descent. |
+| 7 | [TORINO È BIANCONERA](http://twitter.com/search?q=TORINO+%c3%88+BIANCONERA) | N/A |
+| 8 | [Faouzi](http://twitter.com/search?q=Faouzi) | N/A |
+| 9 | [Carolina Crescentini](http://twitter.com/search?q=Carolina+Crescentini) | N/A |
+| 10 | [Juric](http://twitter.com/search?q=Juric) | N/A |
+| 11 | [Radonjic](http://twitter.com/search?q=Radonjic) | N/A |
+| 12 | [Dusan](http://twitter.com/search?q=Dusan) | N/A |
+| 13 | [De Benedetti](http://twitter.com/search?q=De+Benedetti) | N/A |
+| 14 | [Chiesa](http://twitter.com/search?q=Chiesa) | Chiesa is an Italian word meaning "church". It is derived from the Latin word ecclesia, which also means "church". |
+| 15 | [Giletti](http://twitter.com/search?q=Giletti) | N/A |
+| 16 | [Sanabria](http://twitter.com/search?q=Sanabria) | N/A |
+| 17 | [Jacopo](http://twitter.com/search?q=Jacopo) | N/A |
+| 18 | [Eddie](http://twitter.com/search?q=Eddie) | Eddie is a slang term used to refer to someone who is considered to be cool, attractive, or stylish. It can also be used as a term of endearment for someone you like or admire. |
+| 19 | [Il Torino](http://twitter.com/search?q=Il+Torino) | N/A |
+| 20 | [Karamoh](http://twitter.com/search?q=Karamoh) | N/A |
+| 21 | [Pellegrini](http://twitter.com/search?q=Pellegrini) | N/A |
+| 22 | [La Roma](http://twitter.com/search?q=La+Roma) | N/A |
+| 23 | [Ballardini](http://twitter.com/search?q=Ballardini) | N/A |
+| 24 | [Barrenechea](http://twitter.com/search?q=Barrenechea) | N/A |
+| 25 | [Mancini](http://twitter.com/search?q=Mancini) | Mancini is an Italian surname derived from the Latin name "Mantius". It is a common surname in Italy and other parts of Europe. In English, it means "son of Mantius". |
+| 26 | [Serra](http://twitter.com/search?q=Serra) | N/A |
+| 27 | [Simonetta](http://twitter.com/search?q=Simonetta) | N/A |
+| 28 | [Cremona](http://twitter.com/search?q=Cremona) | N/A |
+| 29 | [Forza Roma](http://twitter.com/search?q=Forza+Roma) | N/A |
+| 30 | [La Juventus](http://twitter.com/search?q=La+Juventus) | N/A |
+| 31 | [Vulcano](http://twitter.com/search?q=Vulcano) | N/A |
+| 32 | [Gaetano](http://twitter.com/search?q=Gaetano) | N/A |
+| 33 | [Rui Patricio](http://twitter.com/search?q=Rui+Patricio) | N/A |
+| 34 | [Cairo](http://twitter.com/search?q=Cairo) | N/A |
+| 35 | [Stadium](http://twitter.com/search?q=Stadium) | N/A |
+| 36 | [Spinazzola](http://twitter.com/search?q=Spinazzola) | N/A |
+| 37 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
+| 38 | [Svizzera](http://twitter.com/search?q=Svizzera) | N/A |
+| 39 | [Alex Sandro](http://twitter.com/search?q=Alex+Sandro) | Alex Sandro is a Brazilian professional footballer who plays for Italian club Juventus and the Brazil national team. His full name is Alex Sandro Lobo Silva. He primarily plays as a left-back, but can also play as a left winger. In English, his name means "Protector of Man". |
+| 40 | [Catania](http://twitter.com/search?q=Catania) | N/A |
+| 41 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
+| 42 | [Santori](http://twitter.com/search?q=Santori) | N/A |
+| 43 | [Saviano](http://twitter.com/search?q=Saviano) | N/A |
 | 44 | [#derbydellamole](http://twitter.com/search?q=%23derbydellamole) | N/A |
-| 45 | [#EllyMarciaSuRoma](http://twitter.com/search?q=%23EllyMarciaSuRoma) | N/A |
-| 46 | [#DontForgetTheLyrics](http://twitter.com/search?q=%23DontForgetTheLyrics) | N/A |
-| 47 | [#Barrenechea](http://twitter.com/search?q=%23Barrenechea) | N/A |
-| 48 | [#CinqueMinuti](http://twitter.com/search?q=%23CinqueMinuti) | N/A |
-| 49 | [#jetshow](http://twitter.com/search?q=%23jetshow) | N/A |
-| 50 | [#casabalestra](http://twitter.com/search?q=%23casabalestra) | N/A |
+| 45 | [#FinoAllaFine](http://twitter.com/search?q=%23FinoAllaFine) | N/A |
+| 46 | [#primoappuntamento](http://twitter.com/search?q=%23primoappuntamento) | N/A |
+| 47 | [#Pogba](http://twitter.com/search?q=%23Pogba) | N/A |
+| 48 | [#Mourinho](http://twitter.com/search?q=%23Mourinho) | N/A |
+| 49 | [#dimartedi](http://twitter.com/search?q=%23dimartedi) | N/A |
+| 50 | [#jvtblive](http://twitter.com/search?q=%23jvtblive) | N/A |
 
 
 

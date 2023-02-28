@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gothenburg
 
-📆 Last Updated: `2023-02-28 21:16:38 UTC`
+📆 Last Updated: `2023-02-28 22:16:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Sweden](</Sweden>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Brynäs](http://twitter.com/search?q=Bryn%c3%a4s) | N/A |
-| 2 | [#HV71](http://twitter.com/search?q=%23HV71) | N/A |
-| 3 | [#fbkse](http://twitter.com/search?q=%23fbkse) | N/A |
-| 4 | [Rögle](http://twitter.com/search?q=R%c3%b6gle) | N/A |
+| 1 | [#HV71](http://twitter.com/search?q=%23HV71) | N/A |
+| 2 | [Brynäs](http://twitter.com/search?q=Bryn%c3%a4s) | N/A |
+| 3 | [Matson](http://twitter.com/search?q=Matson) | N/A |
+| 4 | [#jagvetvadensnippaär](http://twitter.com/search?q=%23jagvetvadensnippa%c3%a4r) | N/A |
 | 5 | [#timraik](http://twitter.com/search?q=%23timraik) | N/A |
-| 6 | [#jagvetvadensnippaär](http://twitter.com/search?q=%23jagvetvadensnippa%c3%a4r) | N/A |
-| 7 | [Olausson](http://twitter.com/search?q=Olausson) | N/A |
-| 8 | [Rissne](http://twitter.com/search?q=Rissne) | N/A |
-| 9 | [Olof Palme](http://twitter.com/search?q=Olof+Palme) | N/A |
+| 6 | [Davidson](http://twitter.com/search?q=Davidson) | N/A |
+| 7 | [Olof Palme](http://twitter.com/search?q=Olof+Palme) | N/A |
+| 8 | [Luleå](http://twitter.com/search?q=Lule%c3%a5) | N/A |
+| 9 | [Sätra](http://twitter.com/search?q=S%c3%a4tra) | N/A |
 | 10 | [Balder](http://twitter.com/search?q=Balder) | N/A |
-| 11 | [Luleå](http://twitter.com/search?q=Lule%c3%a5) | N/A |
+| 11 | [Juha Valjakkala](http://twitter.com/search?q=Juha+Valjakkala) | N/A |
 | 12 | [Timashov](http://twitter.com/search?q=Timashov) | N/A |
-| 13 | [Elsa Widding](http://twitter.com/search?q=Elsa+Widding) | N/A |
-| 14 | [Frölunda](http://twitter.com/search?q=Fr%c3%b6lunda) | N/A |
-| 15 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 16 | [Juha Valjakkala](http://twitter.com/search?q=Juha+Valjakkala) | N/A |
-| 17 | [Diggins](http://twitter.com/search?q=Diggins) | N/A |
-| 18 | [Egyptsons](http://twitter.com/search?q=Egyptsons) | N/A |
-| 19 | [svenska freds](http://twitter.com/search?q=svenska+freds) | N/A |
-| 20 | [Gillman](http://twitter.com/search?q=Gillman) | N/A |
+| 13 | [#fbkse](http://twitter.com/search?q=%23fbkse) | N/A |
+| 14 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 15 | [Olausson](http://twitter.com/search?q=Olausson) | N/A |
+| 16 | [Elsa Widding](http://twitter.com/search?q=Elsa+Widding) | N/A |
+| 17 | [Rissne](http://twitter.com/search?q=Rissne) | N/A |
+| 18 | [Rögle](http://twitter.com/search?q=R%c3%b6gle) | N/A |
+| 19 | [Gillman](http://twitter.com/search?q=Gillman) | N/A |
+| 20 | [svenska freds](http://twitter.com/search?q=svenska+freds) | N/A |
 | 21 | [Hartmann](http://twitter.com/search?q=Hartmann) | N/A |
-| 22 | [Magnus](http://twitter.com/search?q=Magnus) | N/A |
-| 23 | [Hovrätten](http://twitter.com/search?q=Hovr%c3%a4tten) | N/A |
-| 24 | [James Bond](http://twitter.com/search?q=James+Bond) | N/A |
-| 25 | [Färjestad](http://twitter.com/search?q=F%c3%a4rjestad) | N/A |
-| 26 | [#NorthernLights](http://twitter.com/search?q=%23NorthernLights) | N/A |
-| 27 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
-| 28 | [åke thimfors](http://twitter.com/search?q=%c3%a5ke+thimfors) | N/A |
-| 29 | [Olle](http://twitter.com/search?q=Olle) | N/A |
-| 30 | [Strömmer](http://twitter.com/search?q=Str%c3%b6mmer) | N/A |
-| 31 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 32 | [Sign the Petition](http://twitter.com/search?q=Sign+the+Petition) | N/A |
-| 33 | [Feven](http://twitter.com/search?q=Feven) | N/A |
-| 34 | [Göteborg](http://twitter.com/search?q=G%c3%b6teborg) | N/A |
+| 22 | [Färjestad](http://twitter.com/search?q=F%c3%a4rjestad) | N/A |
+| 23 | [Olle](http://twitter.com/search?q=Olle) | N/A |
+| 24 | [#norrsken](http://twitter.com/search?q=%23norrsken) | N/A |
+| 25 | [James Bond](http://twitter.com/search?q=James+Bond) | N/A |
+| 26 | [Magnus](http://twitter.com/search?q=Magnus) | N/A |
+| 27 | [Egyptsons](http://twitter.com/search?q=Egyptsons) | N/A |
+| 28 | [Frölunda](http://twitter.com/search?q=Fr%c3%b6lunda) | N/A |
+| 29 | [Cremonese](http://twitter.com/search?q=Cremonese) | N/A |
+| 30 | [Jessie Diggins](http://twitter.com/search?q=Jessie+Diggins) | N/A |
+| 31 | [IPCC](http://twitter.com/search?q=IPCC) | N/A |
+| 32 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
+| 33 | [Strömmer](http://twitter.com/search?q=Str%c3%b6mmer) | N/A |
+| 34 | [Hovrätten](http://twitter.com/search?q=Hovr%c3%a4tten) | N/A |
 | 35 | [Sundbyberg](http://twitter.com/search?q=Sundbyberg) | N/A |
-| 36 | [Saol](http://twitter.com/search?q=Saol) | N/A |
-| 37 | [Shinnimin](http://twitter.com/search?q=Shinnimin) | N/A |
-| 38 | [IPCC](http://twitter.com/search?q=IPCC) | N/A |
-| 39 | [Degen](http://twitter.com/search?q=Degen) | N/A |
-| 40 | [Västerbotten](http://twitter.com/search?q=V%c3%a4sterbotten) | N/A |
+| 36 | [åke thimfors](http://twitter.com/search?q=%c3%a5ke+thimfors) | N/A |
+| 37 | [Saol](http://twitter.com/search?q=Saol) | N/A |
+| 38 | [Åklagaren](http://twitter.com/search?q=%c3%85klagaren) | N/A |
+| 39 | [Sign the Petition](http://twitter.com/search?q=Sign+the+Petition) | N/A |
+| 40 | [Göteborg](http://twitter.com/search?q=G%c3%b6teborg) | N/A |
 | 41 | [Norrköping](http://twitter.com/search?q=Norrk%c3%b6ping) | N/A |
-| 42 | [Åklagaren](http://twitter.com/search?q=%c3%85klagaren) | N/A |
-| 43 | [Klarna](http://twitter.com/search?q=Klarna) | N/A |
-| 44 | [Natomöte](http://twitter.com/search?q=Natom%c3%b6te) | N/A |
-| 45 | [Malmö FF](http://twitter.com/search?q=Malm%c3%b6+FF) | N/A |
-| 46 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 47 | [Arbetsförmedlingen](http://twitter.com/search?q=Arbetsf%c3%b6rmedlingen) | N/A |
-| 48 | [Degerfors](http://twitter.com/search?q=Degerfors) | N/A |
-| 49 | [Föredrar](http://twitter.com/search?q=F%c3%b6redrar) | N/A |
+| 42 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 43 | [Västerbotten](http://twitter.com/search?q=V%c3%a4sterbotten) | N/A |
+| 44 | [Feven](http://twitter.com/search?q=Feven) | N/A |
+| 45 | [Shinnimin](http://twitter.com/search?q=Shinnimin) | N/A |
+| 46 | [Hovet](http://twitter.com/search?q=Hovet) | N/A |
+| 47 | [Malmö FF](http://twitter.com/search?q=Malm%c3%b6+FF) | N/A |
+| 48 | [Lasse](http://twitter.com/search?q=Lasse) | N/A |
+| 49 | [Arbetsförmedlingen](http://twitter.com/search?q=Arbetsf%c3%b6rmedlingen) | N/A |
 
 
 
