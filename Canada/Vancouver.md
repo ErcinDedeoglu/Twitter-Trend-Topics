@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vancouver
 
-📆 Last Updated: `2023-02-28 03:19:55 UTC`
+📆 Last Updated: `2023-02-28 04:15:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Canada](</Canada>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#bcstorm](http://twitter.com/search?q=%23bcstorm) | N/A |
-| 2 | [#LetsGoOilers](http://twitter.com/search?q=%23LetsGoOilers) | N/A |
-| 3 | [Dallas](http://twitter.com/search?q=Dallas) | Dallas is a city in the U.S. state of Texas. It is the ninth most populous city in the United States and the third-largest in Texas after Houston and San Antonio. The city's population ranks ninth in the U.S. and third in Texas after Houston and San Antonio. Dallas is known for its oil, telecommunications, banking, technology, healthcare, defense, transportation, and commerce industries. |
-| 4 | [McDavid](http://twitter.com/search?q=McDavid) | McDavid is a brand of sports equipment and apparel, named after the Canadian hockey player Connor McDavid. The company produces protective gear, such as hockey helmets and shoulder pads, as well as clothing and accessories. |
-| 5 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
-| 6 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 7 | [#GoSensGo](http://twitter.com/search?q=%23GoSensGo) | N/A |
+| 2 | [Dallas](http://twitter.com/search?q=Dallas) | Dallas is a city in the U.S. state of Texas. It is the ninth most populous city in the United States and the third-largest in Texas after Houston and San Antonio. The city's population ranks ninth in the U.S. and third in Texas after Houston and San Antonio. Dallas is known for its oil, telecommunications, banking, technology, healthcare, defense, transportation, and commerce industries. |
+| 3 | [#LetsGoOilers](http://twitter.com/search?q=%23LetsGoOilers) | N/A |
+| 4 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 5 | [McDavid](http://twitter.com/search?q=McDavid) | McDavid is a brand of sports equipment and apparel, named after the Canadian hockey player Connor McDavid. The company produces protective gear, such as hockey helmets and shoulder pads, as well as clothing and accessories. |
+| 6 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
+| 7 | [Lita](http://twitter.com/search?q=Lita) | N/A |
 | 8 | [Kostin](http://twitter.com/search?q=Kostin) | N/A |
-| 9 | [Giroux](http://twitter.com/search?q=Giroux) | N/A |
-| 10 | [Brady](http://twitter.com/search?q=Brady) | Brady is a name of Irish origin, derived from the Gaelic surname Ó Brádaigh. It is an Anglicized form of the Irish surname, which means "spirited" or "broad". |
-| 11 | [Omos](http://twitter.com/search?q=Omos) | N/A |
-| 12 | [Hellberg](http://twitter.com/search?q=Hellberg) | N/A |
-| 13 | [Chabot](http://twitter.com/search?q=Chabot) | N/A |
-| 14 | [Stillman](http://twitter.com/search?q=Stillman) | N/A |
-| 15 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
+| 9 | [#GoSensGo](http://twitter.com/search?q=%23GoSensGo) | N/A |
+| 10 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
+| 11 | [Trish](http://twitter.com/search?q=Trish) | N/A |
+| 12 | [Demko](http://twitter.com/search?q=Demko) | N/A |
+| 13 | [Giroux](http://twitter.com/search?q=Giroux) | N/A |
+| 14 | [Omos](http://twitter.com/search?q=Omos) | N/A |
+| 15 | [Brady](http://twitter.com/search?q=Brady) | Brady is a name of Irish origin, derived from the Gaelic surname Ó Brádaigh. It is an Anglicized form of the Irish surname, which means "spirited" or "broad". |
 | 16 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
-| 17 | [Kulak](http://twitter.com/search?q=Kulak) | N/A |
-| 18 | [Talbot](http://twitter.com/search?q=Talbot) | N/A |
-| 19 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
-| 20 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 21 | [Demko](http://twitter.com/search?q=Demko) | N/A |
-| 22 | [Yamo](http://twitter.com/search?q=Yamo) | N/A |
-| 23 | [Yamamoto](http://twitter.com/search?q=Yamamoto) | N/A |
-| 24 | [Wings](http://twitter.com/search?q=Wings) | N/A |
-| 25 | [Jess](http://twitter.com/search?q=Jess) | N/A |
-| 26 | [Marchand](http://twitter.com/search?q=Marchand) | N/A |
-| 27 | [Brooklyn](http://twitter.com/search?q=Brooklyn) | Brooklyn is a borough of New York City, located in the southwestern corner of the city. It is the most populous borough in New York City, with an estimated 2.6 million residents in 2019. The name Brooklyn comes from the Dutch village of Breukelen, meaning “broken land” or “marshland”. |
-| 28 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
-| 29 | [Rupert Murdoch](http://twitter.com/search?q=Rupert+Murdoch) | N/A |
-| 30 | [Zach](http://twitter.com/search?q=Zach) | N/A |
-| 31 | [DeBrincat](http://twitter.com/search?q=DeBrincat) | N/A |
-| 32 | [Trudeau Foundation](http://twitter.com/search?q=Trudeau+Foundation) | N/A |
-| 33 | [Bertuzzi](http://twitter.com/search?q=Bertuzzi) | N/A |
-| 34 | [Gambrell](http://twitter.com/search?q=Gambrell) | N/A |
-| 35 | [Josh Bloom](http://twitter.com/search?q=Josh+Bloom) | N/A |
-| 36 | [Puljujarvi](http://twitter.com/search?q=Puljujarvi) | N/A |
-| 37 | [Dubas](http://twitter.com/search?q=Dubas) | N/A |
-| 38 | [McCabe](http://twitter.com/search?q=McCabe) | N/A |
-| 39 | [Stars](http://twitter.com/search?q=Stars) | N/A |
-| 40 | [Kerfoot](http://twitter.com/search?q=Kerfoot) | N/A |
-| 41 | [Holl](http://twitter.com/search?q=Holl) | N/A |
-| 42 | [AstraZeneca](http://twitter.com/search?q=AstraZeneca) | N/A |
-| 43 | [Lafferty](http://twitter.com/search?q=Lafferty) | Lafferty is a Scottish surname derived from the Gaelic name Mac an Leifheartaigh, meaning "son of the follower of St. Laverty". It is most commonly found in County Donegal, Ireland. In English, it can be translated to mean "son of the follower of St. Laverty". |
-| 44 | [Boston](http://twitter.com/search?q=Boston) | Boston is the capital and most populous city of the Commonwealth of Massachusetts in the United States. It is one of the oldest cities in the United States, founded in 1630 by Puritan settlers from England. The city is known for its rich history, culture, and educational institutions. It is also home to many world-renowned museums, universities, and hospitals. |
-| 45 | [Ekholm](http://twitter.com/search?q=Ekholm) | N/A |
-| 46 | [LTIR](http://twitter.com/search?q=LTIR) | N/A |
-| 47 | [Schenn](http://twitter.com/search?q=Schenn) | N/A |
-| 48 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 49 | [Engvall](http://twitter.com/search?q=Engvall) | N/A |
-| 50 | [Canada Soccer](http://twitter.com/search?q=Canada+Soccer) | N/A |
+| 17 | [Yamo](http://twitter.com/search?q=Yamo) | N/A |
+| 18 | [Chabot](http://twitter.com/search?q=Chabot) | N/A |
+| 19 | [Yamamoto](http://twitter.com/search?q=Yamamoto) | N/A |
+| 20 | [Hellberg](http://twitter.com/search?q=Hellberg) | N/A |
+| 21 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 22 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
+| 23 | [Stillman](http://twitter.com/search?q=Stillman) | N/A |
+| 24 | [Trudeau Foundation](http://twitter.com/search?q=Trudeau+Foundation) | N/A |
+| 25 | [Kulak](http://twitter.com/search?q=Kulak) | N/A |
+| 26 | [Beauvillier](http://twitter.com/search?q=Beauvillier) | Beauvillier is a French surname. It is derived from the Old French word "beau" meaning "beautiful" and "villier" meaning "farmer". In English, it can be translated to mean "beautiful farmer". |
+| 27 | [Talbot](http://twitter.com/search?q=Talbot) | N/A |
+| 28 | [Jess](http://twitter.com/search?q=Jess) | N/A |
+| 29 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
+| 30 | [Brooklyn](http://twitter.com/search?q=Brooklyn) | Brooklyn is a borough of New York City, located in the southwestern corner of the city. It is the most populous borough in New York City, with an estimated 2.6 million residents in 2019. The name Brooklyn comes from the Dutch village of Breukelen, meaning “broken land” or “marshland”. |
+| 31 | [Rupert Murdoch](http://twitter.com/search?q=Rupert+Murdoch) | N/A |
+| 32 | [Ceci](http://twitter.com/search?q=Ceci) | N/A |
+| 33 | [Red Wings](http://twitter.com/search?q=Red+Wings) | N/A |
+| 34 | [DeBrincat](http://twitter.com/search?q=DeBrincat) | N/A |
+| 35 | [Stars](http://twitter.com/search?q=Stars) | N/A |
+| 36 | [Zach](http://twitter.com/search?q=Zach) | N/A |
+| 37 | [Puljujarvi](http://twitter.com/search?q=Puljujarvi) | N/A |
+| 38 | [Gambrell](http://twitter.com/search?q=Gambrell) | N/A |
+| 39 | [Bertuzzi](http://twitter.com/search?q=Bertuzzi) | N/A |
+| 40 | [Bloom](http://twitter.com/search?q=Bloom) | N/A |
+| 41 | [Marchand](http://twitter.com/search?q=Marchand) | N/A |
+| 42 | [Boeser](http://twitter.com/search?q=Boeser) | N/A |
+| 43 | [Dubas](http://twitter.com/search?q=Dubas) | N/A |
+| 44 | [McCabe](http://twitter.com/search?q=McCabe) | N/A |
+| 45 | [Beijing](http://twitter.com/search?q=Beijing) | N/A |
+| 46 | [Boston](http://twitter.com/search?q=Boston) | Boston is the capital and most populous city of the Commonwealth of Massachusetts in the United States. It is one of the oldest cities in the United States, founded in 1630 by Puritan settlers from England. The city is known for its rich history, culture, and educational institutions. It is also home to many world-renowned museums, universities, and hospitals. |
+| 47 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
+| 48 | [Kerfoot](http://twitter.com/search?q=Kerfoot) | N/A |
+| 49 | [Holl](http://twitter.com/search?q=Holl) | N/A |
+| 50 | [Ekholm](http://twitter.com/search?q=Ekholm) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Valparaiso
 
-📆 Last Updated: `2023-02-28 03:20:03 UTC`
+📆 Last Updated: `2023-02-28 04:15:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,11 +16,11 @@ This is top 50 for [Chile](</Chile>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#LaVelada3](http://twitter.com/search?q=%23LaVelada3) | N/A |
-| 2 | [Tabilo](http://twitter.com/search?q=Tabilo) | N/A |
-| 3 | [Irina Karamanos](http://twitter.com/search?q=Irina+Karamanos) | N/A |
-| 4 | [Maite Orsini](http://twitter.com/search?q=Maite+Orsini) | N/A |
-| 5 | [Allende](http://twitter.com/search?q=Allende) | N/A |
-| 6 | [#AquiSeBaila](http://twitter.com/search?q=%23AquiSeBaila) | N/A |
+| 2 | [Irina Karamanos](http://twitter.com/search?q=Irina+Karamanos) | N/A |
+| 3 | [Maite Orsini](http://twitter.com/search?q=Maite+Orsini) | N/A |
+| 4 | [Tabilo](http://twitter.com/search?q=Tabilo) | N/A |
+| 5 | [#AquiSeBaila](http://twitter.com/search?q=%23AquiSeBaila) | N/A |
+| 6 | [Allende](http://twitter.com/search?q=Allende) | N/A |
 | 7 | [Mago Valdivia](http://twitter.com/search?q=Mago+Valdivia) | N/A |
 | 8 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
 | 9 | [Pinochet](http://twitter.com/search?q=Pinochet) | N/A |
@@ -32,38 +32,38 @@ This is top 50 for [Chile](</Chile>)
 | 15 | [Germán](http://twitter.com/search?q=Germ%c3%a1n) | Germán is a Spanish and Portuguese name derived from the Latin Germanus, meaning "brother". It is also a Germanic given name, derived from the Germanic element ger, meaning "spear". |
 | 16 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
 | 17 | [Dani Gutiérrez](http://twitter.com/search?q=Dani+Guti%c3%a9rrez) | N/A |
-| 18 | [Munar](http://twitter.com/search?q=Munar) | N/A |
-| 19 | [Bouzat](http://twitter.com/search?q=Bouzat) | Bouzat is a French word that means "small village". It is often used to refer to a small, rural community. |
-| 20 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
-| 21 | [Luli](http://twitter.com/search?q=Luli) | N/A |
-| 22 | [Copiapó](http://twitter.com/search?q=Copiap%c3%b3) | Copiapó is a city and commune in the Atacama Region of northern Chile. It is the capital of the Copiapó Province and the Atacama Region. The name Copiapó comes from the language of the indigenous Diaguita people, and it means "place of red earth". |
-| 23 | [Coscu](http://twitter.com/search?q=Coscu) | N/A |
+| 18 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
+| 19 | [Copiapó](http://twitter.com/search?q=Copiap%c3%b3) | Copiapó is a city and commune in the Atacama Region of northern Chile. It is the capital of the Copiapó Province and the Atacama Region. The name Copiapó comes from the language of the indigenous Diaguita people, and it means "place of red earth". |
+| 20 | [Coscu](http://twitter.com/search?q=Coscu) | N/A |
+| 21 | [Durmiendo](http://twitter.com/search?q=Durmiendo) | N/A |
+| 22 | [Cantinflas](http://twitter.com/search?q=Cantinflas) | N/A |
+| 23 | [Bouzat](http://twitter.com/search?q=Bouzat) | Bouzat is a French word that means "small village". It is often used to refer to a small, rural community. |
 | 24 | [Benegas](http://twitter.com/search?q=Benegas) | Benegas is a Spanish surname. It is derived from the Latin word "bene" meaning "good" and the suffix "-gas" which is a patronymic ending. In English, it can be translated to mean "son of good". |
-| 25 | [Parraguez](http://twitter.com/search?q=Parraguez) | N/A |
-| 26 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
-| 27 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 28 | [Durmiendo](http://twitter.com/search?q=Durmiendo) | N/A |
-| 29 | [Cantinflas](http://twitter.com/search?q=Cantinflas) | N/A |
-| 30 | [Coquimbo](http://twitter.com/search?q=Coquimbo) | N/A |
-| 31 | [Bolados](http://twitter.com/search?q=Bolados) | Bolados is a Spanish slang term that means "cool" or "awesome." It is often used to express approval or admiration for something. |
-| 32 | [Juan Cuevas](http://twitter.com/search?q=Juan+Cuevas) | N/A |
-| 33 | [Ramiro](http://twitter.com/search?q=Ramiro) | N/A |
-| 34 | [Luzu](http://twitter.com/search?q=Luzu) | Luzu is a Spanish word that means light. It is often used to refer to a bright, cheerful, and optimistic attitude. |
-| 35 | [INDH](http://twitter.com/search?q=INDH) | N/A |
-| 36 | [Viruzz](http://twitter.com/search?q=Viruzz) | N/A |
-| 37 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 38 | [Palacios](http://twitter.com/search?q=Palacios) | N/A |
-| 39 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
-| 40 | [Anita Alvarado](http://twitter.com/search?q=Anita+Alvarado) | N/A |
-| 41 | [Escuela Militar](http://twitter.com/search?q=Escuela+Militar) | N/A |
-| 42 | [Cobreloa](http://twitter.com/search?q=Cobreloa) | N/A |
-| 43 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 44 | [Ana Gabriel](http://twitter.com/search?q=Ana+Gabriel) | N/A |
-| 45 | [De Muner](http://twitter.com/search?q=De+Muner) | N/A |
-| 46 | [Jorge Hevia](http://twitter.com/search?q=Jorge+Hevia) | N/A |
-| 47 | [Audax](http://twitter.com/search?q=Audax) | Audax is a Latin word meaning "bold" or "daring". It is often used to describe a type of cycling event in which participants ride long distances over a set course, usually within a specified time limit. Audax events are typically non-competitive and are designed to test the endurance and self-sufficiency of the riders. |
-| 48 | [España](http://twitter.com/search?q=Espa%c3%b1a) | N/A |
-| 49 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 25 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 26 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 27 | [Luli](http://twitter.com/search?q=Luli) | N/A |
+| 28 | [Bolados](http://twitter.com/search?q=Bolados) | Bolados is a Spanish slang term that means "cool" or "awesome." It is often used to express approval or admiration for something. |
+| 29 | [Coquimbo](http://twitter.com/search?q=Coquimbo) | N/A |
+| 30 | [Parraguez](http://twitter.com/search?q=Parraguez) | N/A |
+| 31 | [Munar](http://twitter.com/search?q=Munar) | N/A |
+| 32 | [Viruzz](http://twitter.com/search?q=Viruzz) | N/A |
+| 33 | [Palacios](http://twitter.com/search?q=Palacios) | N/A |
+| 34 | [Cuevas](http://twitter.com/search?q=Cuevas) | N/A |
+| 35 | [Ramiro](http://twitter.com/search?q=Ramiro) | N/A |
+| 36 | [Escuela Militar](http://twitter.com/search?q=Escuela+Militar) | N/A |
+| 37 | [Anita Alvarado](http://twitter.com/search?q=Anita+Alvarado) | N/A |
+| 38 | [INDH](http://twitter.com/search?q=INDH) | N/A |
+| 39 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 40 | [Cobreloa](http://twitter.com/search?q=Cobreloa) | N/A |
+| 41 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
+| 42 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 43 | [De Muner](http://twitter.com/search?q=De+Muner) | N/A |
+| 44 | [Jorge Hevia](http://twitter.com/search?q=Jorge+Hevia) | N/A |
+| 45 | [Ana Gabriel](http://twitter.com/search?q=Ana+Gabriel) | N/A |
+| 46 | [España](http://twitter.com/search?q=Espa%c3%b1a) | N/A |
+| 47 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 48 | [Luzu](http://twitter.com/search?q=Luzu) | Luzu is a Spanish word that means light. It is often used to refer to a bright, cheerful, and optimistic attitude. |
+| 49 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
 
 
 

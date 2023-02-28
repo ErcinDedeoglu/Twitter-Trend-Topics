@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Maracaibo
 
-📆 Last Updated: `2023-02-28 03:20:04 UTC`
+📆 Last Updated: `2023-02-28 04:15:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,47 +24,47 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 7 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
 | 8 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
 | 9 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 10 | [Ana Gabriel](http://twitter.com/search?q=Ana+Gabriel) | N/A |
-| 11 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
-| 12 | [Carlos Andrés Pérez](http://twitter.com/search?q=Carlos+Andr%c3%a9s+P%c3%a9rez) | N/A |
-| 13 | [Autoevaluación HONESTA](http://twitter.com/search?q=Autoevaluaci%c3%b3n+HONESTA) | N/A |
+| 10 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
+| 11 | [Ana Gabriel](http://twitter.com/search?q=Ana+Gabriel) | N/A |
+| 12 | [Autoevaluación HONESTA](http://twitter.com/search?q=Autoevaluaci%c3%b3n+HONESTA) | N/A |
+| 13 | [Carlos Andrés Pérez](http://twitter.com/search?q=Carlos+Andr%c3%a9s+P%c3%a9rez) | N/A |
 | 14 | [DDHH](http://twitter.com/search?q=DDHH) | N/A |
 | 15 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
 | 16 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
-| 17 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
-| 18 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 17 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 18 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
 | 19 | [#AlexDiplomaciaEnPeligro](http://twitter.com/search?q=%23AlexDiplomaciaEnPeligro) | N/A |
-| 20 | [Hace 34](http://twitter.com/search?q=Hace+34) | N/A |
-| 21 | [#JuntosPorLaPatria](http://twitter.com/search?q=%23JuntosPorLaPatria) | N/A |
+| 20 | [#JuntosPorLaPatria](http://twitter.com/search?q=%23JuntosPorLaPatria) | N/A |
+| 21 | [Hace 34](http://twitter.com/search?q=Hace+34) | N/A |
 | 22 | [Fondo Monetario Internacional](http://twitter.com/search?q=Fondo+Monetario+Internacional) | N/A |
-| 23 | [El 27](http://twitter.com/search?q=El+27) | N/A |
-| 24 | [Ernesto Paraqueima](http://twitter.com/search?q=Ernesto+Paraqueima) | N/A |
-| 25 | [La Estancia](http://twitter.com/search?q=La+Estancia) | N/A |
+| 23 | [Carlos Tovar Bracho](http://twitter.com/search?q=Carlos+Tovar+Bracho) | N/A |
+| 24 | [El 27](http://twitter.com/search?q=El+27) | N/A |
+| 25 | [Ernesto Paraqueima](http://twitter.com/search?q=Ernesto+Paraqueima) | N/A |
 | 26 | [Maras](http://twitter.com/search?q=Maras) | N/A |
-| 27 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
-| 28 | [Balón de Oro](http://twitter.com/search?q=Bal%c3%b3n+de+Oro) | N/A |
-| 29 | [Dedales](http://twitter.com/search?q=Dedales) | N/A |
-| 30 | [Rebelión Popular](http://twitter.com/search?q=Rebeli%c3%b3n+Popular) | N/A |
-| 31 | [Revolución Bolivariana](http://twitter.com/search?q=Revoluci%c3%b3n+Bolivariana) | N/A |
-| 32 | [Rafael Briceño](http://twitter.com/search?q=Rafael+Brice%c3%b1o) | N/A |
-| 33 | [Alexia](http://twitter.com/search?q=Alexia) | Alexia is a neurological disorder that affects a person's ability to read. It is also known as word blindness or dyslexia. People with Alexia have difficulty understanding written words, even though they may be able to speak and write normally. |
-| 34 | [Pueblo Valiente](http://twitter.com/search?q=Pueblo+Valiente) | N/A |
-| 35 | [Chayanne](http://twitter.com/search?q=Chayanne) | N/A |
+| 27 | [La Estancia](http://twitter.com/search?q=La+Estancia) | N/A |
+| 28 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
+| 29 | [Alexia](http://twitter.com/search?q=Alexia) | Alexia is a neurological disorder that affects a person's ability to read. It is also known as word blindness or dyslexia. People with Alexia have difficulty understanding written words, even though they may be able to speak and write normally. |
+| 30 | [Dedales](http://twitter.com/search?q=Dedales) | N/A |
+| 31 | [Rebelión Popular](http://twitter.com/search?q=Rebeli%c3%b3n+Popular) | N/A |
+| 32 | [Balón de Oro](http://twitter.com/search?q=Bal%c3%b3n+de+Oro) | N/A |
+| 33 | [Revolución Bolivariana](http://twitter.com/search?q=Revoluci%c3%b3n+Bolivariana) | N/A |
+| 34 | [Rafael Briceño](http://twitter.com/search?q=Rafael+Brice%c3%b1o) | N/A |
+| 35 | [Pueblo Valiente](http://twitter.com/search?q=Pueblo+Valiente) | N/A |
 | 36 | [Clark Kent](http://twitter.com/search?q=Clark+Kent) | N/A |
-| 37 | [Murciélago](http://twitter.com/search?q=Murci%c3%a9lago) | N/A |
-| 38 | [Claudio](http://twitter.com/search?q=Claudio) | N/A |
-| 39 | [Punto Fijo](http://twitter.com/search?q=Punto+Fijo) | N/A |
-| 40 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 41 | [Almería](http://twitter.com/search?q=Almer%c3%ada) | Almería is a city in the southeastern region of Spain. It is the capital of the province of Almería and is located on the Mediterranean Sea. In English, Almería means "The Watchtower". |
-| 42 | [El Che](http://twitter.com/search?q=El+Che) | N/A |
+| 37 | [Chayanne](http://twitter.com/search?q=Chayanne) | N/A |
+| 38 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 39 | [Omar Lares](http://twitter.com/search?q=Omar+Lares) | N/A |
+| 40 | [Almería](http://twitter.com/search?q=Almer%c3%ada) | Almería is a city in the southeastern region of Spain. It is the capital of the province of Almería and is located on the Mediterranean Sea. In English, Almería means "The Watchtower". |
+| 41 | [Iniesta](http://twitter.com/search?q=Iniesta) | N/A |
+| 42 | [shawn](http://twitter.com/search?q=shawn) | Shawn is a given name, typically a masculine name. It is an Anglicized form of the Irish name Seán, which is derived from the Hebrew name Yehohanan, meaning "God is gracious". |
 | 43 | [eva moreno](http://twitter.com/search?q=eva+moreno) | N/A |
-| 44 | [Bujía](http://twitter.com/search?q=Buj%c3%ada) | N/A |
-| 45 | [Iniesta](http://twitter.com/search?q=Iniesta) | N/A |
-| 46 | [shawn](http://twitter.com/search?q=shawn) | Shawn is a given name, typically a masculine name. It is an Anglicized form of the Irish name Seán, which is derived from the Hebrew name Yehohanan, meaning "God is gracious". |
+| 44 | [Claudio](http://twitter.com/search?q=Claudio) | N/A |
+| 45 | [Murciélago](http://twitter.com/search?q=Murci%c3%a9lago) | N/A |
+| 46 | [José Ignacio Cabrujas](http://twitter.com/search?q=Jos%c3%a9+Ignacio+Cabrujas) | N/A |
 | 47 | [Antonio Armas](http://twitter.com/search?q=Antonio+Armas) | N/A |
-| 48 | [Carolina Herrera](http://twitter.com/search?q=Carolina+Herrera) | N/A |
-| 49 | [Carlos Tovar Bracho](http://twitter.com/search?q=Carlos+Tovar+Bracho) | N/A |
-| 50 | [Esequibo](http://twitter.com/search?q=Esequibo) | N/A |
+| 48 | [Punto Fijo](http://twitter.com/search?q=Punto+Fijo) | N/A |
+| 49 | [Hoy 27](http://twitter.com/search?q=Hoy+27) | N/A |
+| 50 | [Carlos Olivier](http://twitter.com/search?q=Carlos+Olivier) | N/A |
 
 
 

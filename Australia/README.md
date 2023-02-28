@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Australia
 
-📆 Last Updated: `2023-02-28 03:20:54 UTC`
+📆 Last Updated: `2023-02-28 04:16:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Australia
 | 1 | [#NZvENG](http://twitter.com/search?q=%23NZvENG) | N/A |
 | 2 | [Test Cricket](http://twitter.com/search?q=Test+Cricket) | N/A |
 | 3 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
-| 4 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
-| 5 | [#askkenty](http://twitter.com/search?q=%23askkenty) | N/A |
-| 6 | [England](http://twitter.com/search?q=England) | N/A |
+| 4 | [England](http://twitter.com/search?q=England) | N/A |
+| 5 | [Neil Wagner](http://twitter.com/search?q=Neil+Wagner) | N/A |
+| 6 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
 | 7 | [Renee Leon](http://twitter.com/search?q=Renee+Leon) | N/A |
-| 8 | [Jimmy Anderson](http://twitter.com/search?q=Jimmy+Anderson) | N/A |
-| 9 | [Test Match](http://twitter.com/search?q=Test+Match) | N/A |
-| 10 | [Rupert Murdoch](http://twitter.com/search?q=Rupert+Murdoch) | N/A |
-| 11 | [#RobotDebtRC](http://twitter.com/search?q=%23RobotDebtRC) | N/A |
-| 12 | [Kiwis](http://twitter.com/search?q=Kiwis) | N/A |
-| 13 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
-| 14 | [Foakes](http://twitter.com/search?q=Foakes) | N/A |
-| 15 | [Father Bob](http://twitter.com/search?q=Father+Bob) | N/A |
-| 16 | [Mardi Gras](http://twitter.com/search?q=Mardi+Gras) | N/A |
-| 17 | [Flick](http://twitter.com/search?q=Flick) | N/A |
+| 8 | [#askkenty](http://twitter.com/search?q=%23askkenty) | N/A |
+| 9 | [Kiwis](http://twitter.com/search?q=Kiwis) | N/A |
+| 10 | [#RobotDebtRC](http://twitter.com/search?q=%23RobotDebtRC) | N/A |
+| 11 | [Test Match](http://twitter.com/search?q=Test+Match) | N/A |
+| 12 | [Lita](http://twitter.com/search?q=Lita) | N/A |
+| 13 | [Stuart Robert](http://twitter.com/search?q=Stuart+Robert) | N/A |
+| 14 | [Father Bob](http://twitter.com/search?q=Father+Bob) | N/A |
+| 15 | [Jimmy Anderson](http://twitter.com/search?q=Jimmy+Anderson) | N/A |
+| 16 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
+| 17 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
 | 18 | [Shonee](http://twitter.com/search?q=Shonee) | N/A |
-| 19 | [#PaulFury](http://twitter.com/search?q=%23PaulFury) | N/A |
-| 20 | [Kathryn Campbell](http://twitter.com/search?q=Kathryn+Campbell) | N/A |
-| 21 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
-| 22 | [Bazball](http://twitter.com/search?q=Bazball) | N/A |
-| 23 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
-| 24 | [Jack Leach](http://twitter.com/search?q=Jack+Leach) | N/A |
-| 25 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
+| 19 | [Foakes](http://twitter.com/search?q=Foakes) | N/A |
+| 20 | [Flick](http://twitter.com/search?q=Flick) | N/A |
+| 21 | [Mardi Gras](http://twitter.com/search?q=Mardi+Gras) | N/A |
+| 22 | [Kathryn Campbell](http://twitter.com/search?q=Kathryn+Campbell) | N/A |
+| 23 | [Jack Leach](http://twitter.com/search?q=Jack+Leach) | N/A |
+| 24 | [Poms](http://twitter.com/search?q=Poms) | N/A |
+| 25 | [Rupert Murdoch](http://twitter.com/search?q=Rupert+Murdoch) | N/A |
 | 26 | [Joffa](http://twitter.com/search?q=Joffa) | N/A |
-| 27 | [Stuart Robert](http://twitter.com/search?q=Stuart+Robert) | N/A |
-| 28 | [Woodside](http://twitter.com/search?q=Woodside) | N/A |
-| 29 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
-| 30 | [Lismore](http://twitter.com/search?q=Lismore) | N/A |
-| 31 | [Fauci](http://twitter.com/search?q=Fauci) | N/A |
-| 32 | [Thorpe](http://twitter.com/search?q=Thorpe) | N/A |
-| 33 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
-| 34 | [Tayla](http://twitter.com/search?q=Tayla) | N/A |
-| 35 | [Shiz](http://twitter.com/search?q=Shiz) | N/A |
-| 36 | [Shaun](http://twitter.com/search?q=Shaun) | N/A |
-| 37 | [Albo](http://twitter.com/search?q=Albo) | N/A |
-| 38 | [Poms](http://twitter.com/search?q=Poms) | N/A |
-| 39 | [Rowan Dean](http://twitter.com/search?q=Rowan+Dean) | N/A |
-| 40 | [Sandy](http://twitter.com/search?q=Sandy) | N/A |
+| 27 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
+| 28 | [Angus](http://twitter.com/search?q=Angus) | N/A |
+| 29 | [Woodside](http://twitter.com/search?q=Woodside) | N/A |
+| 30 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
+| 31 | [Ashes](http://twitter.com/search?q=Ashes) | N/A |
+| 32 | [Fauci](http://twitter.com/search?q=Fauci) | N/A |
+| 33 | [Trish](http://twitter.com/search?q=Trish) | N/A |
+| 34 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
+| 35 | [Lismore](http://twitter.com/search?q=Lismore) | N/A |
+| 36 | [Walking Wake](http://twitter.com/search?q=Walking+Wake) | N/A |
+| 37 | [Tayla](http://twitter.com/search?q=Tayla) | N/A |
+| 38 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
+| 39 | [Shiz](http://twitter.com/search?q=Shiz) | N/A |
+| 40 | [Stokes](http://twitter.com/search?q=Stokes) | N/A |
 | 41 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
-| 42 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
-| 43 | [Woody](http://twitter.com/search?q=Woody) | Woody is a slang term used to describe someone who is strong, tough, and determined. It can also be used to describe someone who is stubborn and unyielding. |
-| 44 | [Secretary](http://twitter.com/search?q=Secretary) | N/A |
-| 45 | [INEC](http://twitter.com/search?q=INEC) | N/A |
-| 46 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
-| 47 | [Scarlet](http://twitter.com/search?q=Scarlet) | N/A |
-| 48 | [Angus](http://twitter.com/search?q=Angus) | N/A |
-| 49 | [Walking Wake](http://twitter.com/search?q=Walking+Wake) | N/A |
-| 50 | [Damian Lillard](http://twitter.com/search?q=Damian+Lillard) | Damian Lillard is an American professional basketball player who currently plays for the Portland Trail Blazers of the National Basketball Association (NBA). He is a six-time NBA All-Star and was named the NBA Rookie of the Year in 2013. |
+| 42 | [Shaun](http://twitter.com/search?q=Shaun) | N/A |
+| 43 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
+| 44 | [Albo](http://twitter.com/search?q=Albo) | N/A |
+| 45 | [rowan dean](http://twitter.com/search?q=rowan+dean) | N/A |
+| 46 | [Thorpe](http://twitter.com/search?q=Thorpe) | N/A |
+| 47 | [Sandy](http://twitter.com/search?q=Sandy) | N/A |
+| 48 | [Woody](http://twitter.com/search?q=Woody) | Woody is a slang term used to describe someone who is strong, tough, and determined. It can also be used to describe someone who is stubborn and unyielding. |
+| 49 | [Secretary](http://twitter.com/search?q=Secretary) | N/A |
+| 50 | [INEC](http://twitter.com/search?q=INEC) | N/A |
 
 
 

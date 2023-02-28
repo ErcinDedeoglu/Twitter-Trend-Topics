@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Multan
 
-📆 Last Updated: `2023-02-28 03:20:37 UTC`
+📆 Last Updated: `2023-02-28 04:16:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Pakistan](</Pakistan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#امجد_شعیب_کو_رہا_کرو](http://twitter.com/search?q=%23%d8%a7%d9%85%d8%ac%d8%af_%d8%b4%d8%b9%db%8c%d8%a8_%da%a9%d9%88_%d8%b1%db%81%d8%a7_%da%a9%d8%b1%d9%88) | N/A |
-| 2 | [#ظالموں_پرپہلاوارشٹرڈاؤن_ہڑتال](http://twitter.com/search?q=%23%d8%b8%d8%a7%d9%84%d9%85%d9%88%da%ba_%d9%be%d8%b1%d9%be%db%81%d9%84%d8%a7%d9%88%d8%a7%d8%b1%d8%b4%d9%b9%d8%b1%da%88%d8%a7%d8%a4%d9%86_%db%81%da%91%d8%aa%d8%a7%d9%84) | N/A |
-| 3 | [#ENGvsNZ](http://twitter.com/search?q=%23ENGvsNZ) | N/A |
-| 4 | [#LQvIU](http://twitter.com/search?q=%23LQvIU) | N/A |
+| 1 | [#آرہا_ہے_کپتان_اسلام_آباد](http://twitter.com/search?q=%23%d8%a2%d8%b1%db%81%d8%a7_%db%81%db%92_%da%a9%d9%be%d8%aa%d8%a7%d9%86_%d8%a7%d8%b3%d9%84%d8%a7%d9%85_%d8%a2%d8%a8%d8%a7%d8%af) | N/A |
+| 2 | [#امجد_شعیب_کو_رہا_کرو](http://twitter.com/search?q=%23%d8%a7%d9%85%d8%ac%d8%af_%d8%b4%d8%b9%db%8c%d8%a8_%da%a9%d9%88_%d8%b1%db%81%d8%a7_%da%a9%d8%b1%d9%88) | N/A |
+| 3 | [#ظالموں_پرپہلاوارشٹرڈاؤن_ہڑتال](http://twitter.com/search?q=%23%d8%b8%d8%a7%d9%84%d9%85%d9%88%da%ba_%d9%be%d8%b1%d9%be%db%81%d9%84%d8%a7%d9%88%d8%a7%d8%b1%d8%b4%d9%b9%d8%b1%da%88%d8%a7%d8%a4%d9%86_%db%81%da%91%d8%aa%d8%a7%d9%84) | N/A |
+| 4 | [#NZvENG](http://twitter.com/search?q=%23NZvENG) | N/A |
 | 5 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
-| 6 | [England](http://twitter.com/search?q=England) | N/A |
+| 6 | [Test Cricket](http://twitter.com/search?q=Test+Cricket) | N/A |
 | 7 | [Lahore Qalandars](http://twitter.com/search?q=Lahore+Qalandars) | N/A |
-| 8 | [Abdullah Shafique](http://twitter.com/search?q=Abdullah+Shafique) | N/A |
-| 9 | [Rashid](http://twitter.com/search?q=Rashid) | N/A |
-| 10 | [fakhar zaman](http://twitter.com/search?q=fakhar+zaman) | N/A |
-| 11 | [Lt Gen](http://twitter.com/search?q=Lt+Gen) | N/A |
-| 12 | [WIESE](http://twitter.com/search?q=WIESE) | N/A |
-| 13 | [Tom Curran](http://twitter.com/search?q=Tom+Curran) | N/A |
-| 14 | [tayyab tahir](http://twitter.com/search?q=tayyab+tahir) | N/A |
-| 15 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
-| 16 | [Saim Ayub](http://twitter.com/search?q=Saim+Ayub) | N/A |
-| 17 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 8 | [England](http://twitter.com/search?q=England) | N/A |
+| 9 | [Abdullah Shafique](http://twitter.com/search?q=Abdullah+Shafique) | N/A |
+| 10 | [Rashid](http://twitter.com/search?q=Rashid) | N/A |
+| 11 | [fakhar zaman](http://twitter.com/search?q=fakhar+zaman) | N/A |
+| 12 | [Lt Gen](http://twitter.com/search?q=Lt+Gen) | N/A |
+| 13 | [wiese](http://twitter.com/search?q=wiese) | N/A |
+| 14 | [Tom Curran](http://twitter.com/search?q=Tom+Curran) | N/A |
+| 15 | [G-11](http://twitter.com/search?q=G-11) | N/A |
+| 16 | [tayyab tahir](http://twitter.com/search?q=tayyab+tahir) | N/A |
+| 17 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
 | 18 | [Prince of Karbala](http://twitter.com/search?q=Prince+of+Karbala) | N/A |
 | 19 | [Credit](http://twitter.com/search?q=Credit) | N/A |
-| 20 | [Your DM](http://twitter.com/search?q=Your+DM) | N/A |
-| 21 | [Hassan](http://twitter.com/search?q=Hassan) | N/A |
-| 22 | [Haris Rauf](http://twitter.com/search?q=Haris+Rauf) | N/A |
-| 23 | [G-11](http://twitter.com/search?q=G-11) | N/A |
-| 24 | [Kindly](http://twitter.com/search?q=Kindly) | N/A |
-| 25 | [Adam Rossington](http://twitter.com/search?q=Adam+Rossington) | N/A |
-| 26 | [Heya](http://twitter.com/search?q=Heya) | N/A |
-| 27 | [Doctor](http://twitter.com/search?q=Doctor) | N/A |
-| 28 | [Army](http://twitter.com/search?q=Army) | N/A |
-| 29 | [Salam](http://twitter.com/search?q=Salam) | N/A |
-| 30 | [Pashtun](http://twitter.com/search?q=Pashtun) | N/A |
-| 31 | [Slide](http://twitter.com/search?q=Slide) | N/A |
-| 32 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 33 | [Quran](http://twitter.com/search?q=Quran) | N/A |
-| 34 | [Stay Blessed](http://twitter.com/search?q=Stay+Blessed) | N/A |
-| 35 | [Sharif](http://twitter.com/search?q=Sharif) | N/A |
-| 36 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 37 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 38 | [Shadab](http://twitter.com/search?q=Shadab) | N/A |
-| 39 | [London](http://twitter.com/search?q=London) | N/A |
-| 40 | [Simply](http://twitter.com/search?q=Simply) | N/A |
-| 41 | [Musharraf](http://twitter.com/search?q=Musharraf) | N/A |
-| 42 | [Palestine](http://twitter.com/search?q=Palestine) | N/A |
-| 43 | [Lovely](http://twitter.com/search?q=Lovely) | N/A |
-| 44 | [Queen](http://twitter.com/search?q=Queen) | N/A |
-| 45 | [Elite](http://twitter.com/search?q=Elite) | N/A |
-| 46 | [Bhai](http://twitter.com/search?q=Bhai) | N/A |
-| 47 | [Ameen](http://twitter.com/search?q=Ameen) | N/A |
-| 48 | [Snapchat](http://twitter.com/search?q=Snapchat) | N/A |
-| 49 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 20 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 21 | [Your DM](http://twitter.com/search?q=Your+DM) | N/A |
+| 22 | [Hassan](http://twitter.com/search?q=Hassan) | N/A |
+| 23 | [PM Imran Khan](http://twitter.com/search?q=PM+Imran+Khan) | N/A |
+| 24 | [Haris Rauf](http://twitter.com/search?q=Haris+Rauf) | N/A |
+| 25 | [Saim Ayub](http://twitter.com/search?q=Saim+Ayub) | N/A |
+| 26 | [Adam Rossington](http://twitter.com/search?q=Adam+Rossington) | N/A |
+| 27 | [Heya](http://twitter.com/search?q=Heya) | N/A |
+| 28 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 29 | [Doctor](http://twitter.com/search?q=Doctor) | N/A |
+| 30 | [Army](http://twitter.com/search?q=Army) | N/A |
+| 31 | [Salam](http://twitter.com/search?q=Salam) | N/A |
+| 32 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 33 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 34 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 35 | [Slide](http://twitter.com/search?q=Slide) | N/A |
+| 36 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 37 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 38 | [Afghan](http://twitter.com/search?q=Afghan) | N/A |
+| 39 | [Ameeen](http://twitter.com/search?q=Ameeen) | N/A |
+| 40 | [Pashtuns](http://twitter.com/search?q=Pashtuns) | N/A |
+| 41 | [Oops](http://twitter.com/search?q=Oops) | N/A |
+| 42 | [Lovely](http://twitter.com/search?q=Lovely) | N/A |
+| 43 | [London](http://twitter.com/search?q=London) | N/A |
+| 44 | [Simply](http://twitter.com/search?q=Simply) | N/A |
+| 45 | [NUST](http://twitter.com/search?q=NUST) | N/A |
+| 46 | [Musharraf](http://twitter.com/search?q=Musharraf) | N/A |
+| 47 | [Maryam Nawaz](http://twitter.com/search?q=Maryam+Nawaz) | N/A |
+| 48 | [Palestine](http://twitter.com/search?q=Palestine) | N/A |
+| 49 | [Queen](http://twitter.com/search?q=Queen) | N/A |
 
 
 

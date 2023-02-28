@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Querétaro
 
-📆 Last Updated: `2023-02-28 03:20:01 UTC`
+📆 Last Updated: `2023-02-28 04:15:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,47 +16,51 @@ This is top 50 for [Mexico](</Mexico>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [MATI ERES FORTALEZA](http://twitter.com/search?q=MATI+ERES+FORTALEZA) | N/A |
-| 2 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 2 | [Funes](http://twitter.com/search?q=Funes) | Funes is a Spanish surname derived from the Latin word "fons" meaning "spring". It is also a place name in Spain, derived from the same root. In English, it can be translated to mean "source of water". |
 | 3 | [#PorLosExapoints](http://twitter.com/search?q=%23PorLosExapoints) | N/A |
-| 4 | [Moscato](http://twitter.com/search?q=Moscato) | N/A |
-| 5 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 6 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 7 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 8 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
-| 9 | [Ana Gabriel](http://twitter.com/search?q=Ana+Gabriel) | N/A |
-| 10 | [Chacho](http://twitter.com/search?q=Chacho) | N/A |
-| 11 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
-| 12 | [Alejandro Moreno](http://twitter.com/search?q=Alejandro+Moreno) | N/A |
-| 13 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 14 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
-| 15 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
-| 16 | [Moderatto](http://twitter.com/search?q=Moderatto) | N/A |
-| 17 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
-| 18 | [Amazonas](http://twitter.com/search?q=Amazonas) | N/A |
-| 19 | [shawn](http://twitter.com/search?q=shawn) | Shawn is a given name, typically a masculine name. It is an Anglicized form of the Irish name Seán, which is derived from the Hebrew name Yehohanan, meaning "God is gracious". |
-| 20 | [Ovidio Guzmán](http://twitter.com/search?q=Ovidio+Guzm%c3%a1n) | N/A |
-| 21 | [Germán](http://twitter.com/search?q=Germ%c3%a1n) | Germán is a Spanish and Portuguese name derived from the Latin Germanus, meaning "brother". It is also a Germanic given name, derived from the Germanic element ger, meaning "spear". |
-| 22 | [Nicki Nicole](http://twitter.com/search?q=Nicki+Nicole) | N/A |
-| 23 | [Rayadas](http://twitter.com/search?q=Rayadas) | N/A |
-| 24 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
-| 25 | [Mayichi](http://twitter.com/search?q=Mayichi) | N/A |
-| 26 | [Quedaste](http://twitter.com/search?q=Quedaste) | N/A |
-| 27 | [Darío](http://twitter.com/search?q=Dar%c3%ado) | N/A |
-| 28 | [Coscu](http://twitter.com/search?q=Coscu) | N/A |
-| 29 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 30 | [Amouranth](http://twitter.com/search?q=Amouranth) | N/A |
-| 31 | [Texas](http://twitter.com/search?q=Texas) | N/A |
-| 32 | [Luzu](http://twitter.com/search?q=Luzu) | Luzu is a Spanish word that means light. It is often used to refer to a bright, cheerful, and optimistic attitude. |
-| 33 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
-| 34 | [Fernan](http://twitter.com/search?q=Fernan) | N/A |
-| 35 | [Nuevo Laredo](http://twitter.com/search?q=Nuevo+Laredo) | N/A |
-| 36 | [Alexia](http://twitter.com/search?q=Alexia) | Alexia is a neurological disorder that affects a person's ability to read. It is also known as word blindness or dyslexia. People with Alexia have difficulty understanding written words, even though they may be able to speak and write normally. |
-| 37 | [Rubius](http://twitter.com/search?q=Rubius) | Rubius is a Latin word meaning "red". It is often used to describe the color of hair, eyes, or skin. |
-| 38 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 39 | [#PerdonaNuestrosPecados](http://twitter.com/search?q=%23PerdonaNuestrosPecados) | N/A |
-| 40 | [#LeaguePartner](http://twitter.com/search?q=%23LeaguePartner) | N/A |
-| 41 | [#EnHoraBuenaBailado](http://twitter.com/search?q=%23EnHoraBuenaBailado) | N/A |
-| 42 | [#LaVelada3](http://twitter.com/search?q=%23LaVelada3) | N/A |
+| 4 | [Andrada](http://twitter.com/search?q=Andrada) | Andrada is a Spanish surname derived from the Latin word "andradus," which means "brave." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "brave one." |
+| 5 | [#LuveForPollyPastel](http://twitter.com/search?q=%23LuveForPollyPastel) | N/A |
+| 6 | [POLLY PASTEL BY BUILD](http://twitter.com/search?q=POLLY+PASTEL+BY+BUILD) | N/A |
+| 7 | [Maxi](http://twitter.com/search?q=Maxi) | Maxi is a term used to describe a long, loose-fitting dress or skirt that reaches the ankles. It is typically made of lightweight fabrics such as cotton or linen and is often worn in warm weather. The term can also refer to a style of dress that is shorter than a maxi dress but still reaches the ankles. |
+| 8 | [Rayados](http://twitter.com/search?q=Rayados) | Rayados is the nickname of the Mexican soccer team Club de Fútbol Monterrey, which is based in Monterrey, Mexico. The name Rayados translates to "Striped Ones" in English, referring to the team's striped jerseys. |
+| 9 | [Gallardo](http://twitter.com/search?q=Gallardo) | Gallardo is a Spanish word meaning "brave" or "courageous". It is often used as a surname or given name. |
+| 10 | [Di Yorio](http://twitter.com/search?q=Di+Yorio) | N/A |
+| 11 | [GOLDEN SUN](http://twitter.com/search?q=GOLDEN+SUN) | N/A |
+| 12 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 13 | [Moscato](http://twitter.com/search?q=Moscato) | N/A |
+| 14 | [TERRY](http://twitter.com/search?q=TERRY) | N/A |
+| 15 | [Nancy Antonio](http://twitter.com/search?q=Nancy+Antonio) | N/A |
+| 16 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 17 | [Anika](http://twitter.com/search?q=Anika) | N/A |
+| 18 | [Romo](http://twitter.com/search?q=Romo) | Romo is a robotic toy that can be programmed to interact with its environment. It has sensors and motors that allow it to move, respond to touch, and recognize objects. The word "Romo" is derived from the words "Robot" and "Mobile". |
+| 19 | [Ana Gabriel](http://twitter.com/search?q=Ana+Gabriel) | N/A |
+| 20 | [Vuce](http://twitter.com/search?q=Vuce) | N/A |
+| 21 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 22 | [Amazonas](http://twitter.com/search?q=Amazonas) | N/A |
+| 23 | [Tigres Femenil](http://twitter.com/search?q=Tigres+Femenil) | N/A |
+| 24 | [Chacho](http://twitter.com/search?q=Chacho) | N/A |
+| 25 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
+| 26 | [Rangel](http://twitter.com/search?q=Rangel) | N/A |
+| 27 | [Ovalle](http://twitter.com/search?q=Ovalle) | N/A |
+| 28 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
+| 29 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
+| 30 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 31 | [Moderatto](http://twitter.com/search?q=Moderatto) | N/A |
+| 32 | [Nicki Nicole](http://twitter.com/search?q=Nicki+Nicole) | N/A |
+| 33 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
+| 34 | [Monterrey](http://twitter.com/search?q=Monterrey) | N/A |
+| 35 | [shawn](http://twitter.com/search?q=shawn) | Shawn is a given name, typically a masculine name. It is an Anglicized form of the Irish name Seán, which is derived from the Hebrew name Yehohanan, meaning "God is gracious". |
+| 36 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 37 | [Ovidio Guzmán](http://twitter.com/search?q=Ovidio+Guzm%c3%a1n) | N/A |
+| 38 | [Germán](http://twitter.com/search?q=Germ%c3%a1n) | Germán is a Spanish and Portuguese name derived from the Latin Germanus, meaning "brother". It is also a Germanic given name, derived from the Germanic element ger, meaning "spear". |
+| 39 | [Coscu](http://twitter.com/search?q=Coscu) | N/A |
+| 40 | [Amouranth](http://twitter.com/search?q=Amouranth) | N/A |
+| 41 | [Texas](http://twitter.com/search?q=Texas) | N/A |
+| 42 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 43 | [Selena Gómez](http://twitter.com/search?q=Selena+G%c3%b3mez) | N/A |
+| 44 | [Darío Celis](http://twitter.com/search?q=Dar%c3%ado+Celis) | N/A |
+| 45 | [Fernan](http://twitter.com/search?q=Fernan) | N/A |
+| 46 | [Luzu](http://twitter.com/search?q=Luzu) | Luzu is a Spanish word that means light. It is often used to refer to a bright, cheerful, and optimistic attitude. |
 
 
 

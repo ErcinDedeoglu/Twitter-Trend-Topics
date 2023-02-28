@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nagpur
 
-📆 Last Updated: `2023-02-28 03:20:37 UTC`
+📆 Last Updated: `2023-02-28 04:16:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,51 +18,52 @@ This is top 50 for [India](</India>)
 | 1 | [#NZvENG](http://twitter.com/search?q=%23NZvENG) | N/A |
 | 2 | [#GodKabir_Met_SantGaribdasJi](http://twitter.com/search?q=%23GodKabir_Met_SantGaribdasJi) | N/A |
 | 3 | [4 Days Left For Bodh Diwas](http://twitter.com/search?q=4+Days+Left+For+Bodh+Diwas) | N/A |
-| 4 | [#भारत_की_मीडिया](http://twitter.com/search?q=%23%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4_%e0%a4%95%e0%a5%80_%e0%a4%ae%e0%a5%80%e0%a4%a1%e0%a4%bf%e0%a4%af%e0%a4%be) | N/A |
-| 5 | [Who Will Show Truth](http://twitter.com/search?q=Who+Will+Show+Truth) | N/A |
-| 6 | [Hindu Saints](http://twitter.com/search?q=Hindu+Saints) | N/A |
-| 7 | [प्रथम राष्ट्रपति](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a5%e0%a4%ae+%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a4%aa%e0%a4%a4%e0%a4%bf) | N/A |
-| 8 | [#MSGMahaRehmokaramDiwas](http://twitter.com/search?q=%23MSGMahaRehmokaramDiwas) | N/A |
-| 9 | [राष्ट्रीय विज्ञान](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%b5%e0%a4%bf%e0%a4%9c%e0%a5%8d%e0%a4%9e%e0%a4%be%e0%a4%a8) | N/A |
-| 10 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
-| 11 | [राजेंद्र प्रसाद](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%b8%e0%a4%be%e0%a4%a6) | N/A |
-| 12 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
-| 13 | [Shah Satnam Ji](http://twitter.com/search?q=Shah+Satnam+Ji) | Shah Satnam Ji is a phrase used by followers of the Sikh faith to refer to the 10th Guru of Sikhism, Guru Gobind Singh. The phrase translates to "The King of Truth" in English. |
-| 14 | [Gurugaddi Diwas](http://twitter.com/search?q=Gurugaddi+Diwas) | N/A |
-| 15 | [Test Cricket](http://twitter.com/search?q=Test+Cricket) | N/A |
-| 16 | [Sushant Autopsy BotchedUp](http://twitter.com/search?q=Sushant+Autopsy+BotchedUp) | N/A |
-| 17 | [Foakes](http://twitter.com/search?q=Foakes) | N/A |
-| 18 | [Bazball](http://twitter.com/search?q=Bazball) | N/A |
-| 19 | [Anderson](http://twitter.com/search?q=Anderson) | N/A |
-| 20 | [Raman Effect](http://twitter.com/search?q=Raman+Effect) | N/A |
-| 21 | [Dera Sacha Sauda](http://twitter.com/search?q=Dera+Sacha+Sauda) | N/A |
-| 22 | [गरीब दास](http://twitter.com/search?q=%e0%a4%97%e0%a4%b0%e0%a5%80%e0%a4%ac+%e0%a4%a6%e0%a4%be%e0%a4%b8) | N/A |
-| 23 | [स्वतंत्र भारत](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0+%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4) | N/A |
+| 4 | [#NationalScienceDay](http://twitter.com/search?q=%23NationalScienceDay) | N/A |
+| 5 | [प्रथम राष्ट्रपति](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a5%e0%a4%ae+%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a4%aa%e0%a4%a4%e0%a4%bf) | N/A |
+| 6 | [#भारत_की_मीडिया](http://twitter.com/search?q=%23%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4_%e0%a4%95%e0%a5%80_%e0%a4%ae%e0%a5%80%e0%a4%a1%e0%a4%bf%e0%a4%af%e0%a4%be) | N/A |
+| 7 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
+| 8 | [Who Will Show Truth](http://twitter.com/search?q=Who+Will+Show+Truth) | N/A |
+| 9 | [Hindu Saints](http://twitter.com/search?q=Hindu+Saints) | N/A |
+| 10 | [Test Cricket](http://twitter.com/search?q=Test+Cricket) | N/A |
+| 11 | [राष्ट्रीय विज्ञान](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%b5%e0%a4%bf%e0%a4%9c%e0%a5%8d%e0%a4%9e%e0%a4%be%e0%a4%a8) | N/A |
+| 12 | [राजेंद्र प्रसाद](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%b8%e0%a4%be%e0%a4%a6) | N/A |
+| 13 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
+| 14 | [Shah Satnam Ji](http://twitter.com/search?q=Shah+Satnam+Ji) | Shah Satnam Ji is a phrase used by followers of the Sikh faith to refer to the 10th Guru of Sikhism, Guru Gobind Singh. The phrase translates to "The King of Truth" in English. |
+| 15 | [Gurugaddi Diwas](http://twitter.com/search?q=Gurugaddi+Diwas) | N/A |
+| 16 | [England](http://twitter.com/search?q=England) | N/A |
+| 17 | [Sushant Autopsy BotchedUp](http://twitter.com/search?q=Sushant+Autopsy+BotchedUp) | N/A |
+| 18 | [श्री हनुमान](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b9%e0%a4%a8%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%a8) | N/A |
+| 19 | [What a Match](http://twitter.com/search?q=What+a+Match) | N/A |
+| 20 | [Anderson](http://twitter.com/search?q=Anderson) | N/A |
+| 21 | [Kiwis](http://twitter.com/search?q=Kiwis) | N/A |
+| 22 | [स्वतंत्र भारत](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0+%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4) | N/A |
+| 23 | [Foakes](http://twitter.com/search?q=Foakes) | N/A |
 | 24 | [श्री दिग्विजय सिंह](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%a6%e0%a4%bf%e0%a4%97%e0%a5%8d%e0%a4%b5%e0%a4%bf%e0%a4%9c%e0%a4%af+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9) | N/A |
-| 25 | [Wellington](http://twitter.com/search?q=Wellington) | Wellington is a city in New Zealand, located at the southern tip of the North Island. It is the capital of New Zealand and the country's second most populous urban area. The name Wellington comes from Arthur Wellesley, the first Duke of Wellington and victor of the Battle of Waterloo. |
-| 26 | [पूर्व मुख्यमंत्री](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%ae%e0%a5%81%e0%a4%96%e0%a5%8d%e0%a4%af%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 27 | [कबीर परमेश्वर](http://twitter.com/search?q=%e0%a4%95%e0%a4%ac%e0%a5%80%e0%a4%b0+%e0%a4%aa%e0%a4%b0%e0%a4%ae%e0%a5%87%e0%a4%b6%e0%a5%8d%e0%a4%b5%e0%a4%b0) | कबीर परमेश्वर is a phrase in Hindi which translates to "Kabir, the Supreme Lord". It is a reference to the 15th-century Indian mystic poet and saint, Kabir. The phrase is often used as an invocation or prayer to invoke the blessings of Kabir. |
-| 28 | [डेरा सच्चा सौदा](http://twitter.com/search?q=%e0%a4%a1%e0%a5%87%e0%a4%b0%e0%a4%be+%e0%a4%b8%e0%a4%9a%e0%a5%8d%e0%a4%9a%e0%a4%be+%e0%a4%b8%e0%a5%8c%e0%a4%a6%e0%a4%be) | N/A |
-| 29 | [Satlok](http://twitter.com/search?q=Satlok) | Satlok is a term used to refer to the spiritual abode of the god Satnam, which is believed to be located in the higher realms of existence. The literal meaning of Satlok in English is "the abode of truth". |
-| 30 | [शाह मस्ताना](http://twitter.com/search?q=%e0%a4%b6%e0%a4%be%e0%a4%b9+%e0%a4%ae%e0%a4%b8%e0%a5%8d%e0%a4%a4%e0%a4%be%e0%a4%a8%e0%a4%be) | N/A |
-| 31 | [अहम भूमिका](http://twitter.com/search?q=%e0%a4%85%e0%a4%b9%e0%a4%ae+%e0%a4%ad%e0%a5%82%e0%a4%ae%e0%a4%bf%e0%a4%95%e0%a4%be) | N/A |
-| 32 | [Stokes](http://twitter.com/search?q=Stokes) | N/A |
-| 33 | [Kabir Saheb](http://twitter.com/search?q=Kabir+Saheb) | N/A |
-| 34 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 35 | [महान स्वतंत्रता सेनानी](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%a4%e0%a4%be+%e0%a4%b8%e0%a5%87%e0%a4%a8%e0%a4%be%e0%a4%a8%e0%a5%80) | N/A |
-| 36 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
-| 37 | [#NationalScienceDay](http://twitter.com/search?q=%23NationalScienceDay) | N/A |
-| 38 | [#RajendraPrasad](http://twitter.com/search?q=%23RajendraPrasad) | N/A |
-| 39 | [#CVRaman](http://twitter.com/search?q=%23CVRaman) | N/A |
-| 40 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
-| 41 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 42 | [#राष्ट्रीय_विज्ञान_दिवस](http://twitter.com/search?q=%23%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af_%e0%a4%b5%e0%a4%bf%e0%a4%9c%e0%a5%8d%e0%a4%9e%e0%a4%be%e0%a4%a8_%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a4%b8) | N/A |
-| 43 | [#TuesdayFeeling](http://twitter.com/search?q=%23TuesdayFeeling) | N/A |
-| 44 | [#जयश्रीराम](http://twitter.com/search?q=%23%e0%a4%9c%e0%a4%af%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 45 | [#HBDMKStalin70](http://twitter.com/search?q=%23HBDMKStalin70) | N/A |
-| 46 | [#Airdrop](http://twitter.com/search?q=%23Airdrop) | N/A |
-| 47 | [#Messi𓃵](http://twitter.com/search?q=%23Messi%f0%93%83%b5) | N/A |
-| 48 | [#GalxeID](http://twitter.com/search?q=%23GalxeID) | N/A |
+| 25 | [Test Match](http://twitter.com/search?q=Test+Match) | N/A |
+| 26 | [महान वैज्ञानिक](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%b5%e0%a5%88%e0%a4%9c%e0%a5%8d%e0%a4%9e%e0%a4%be%e0%a4%a8%e0%a4%bf%e0%a4%95) | N/A |
+| 27 | [पूर्व मुख्यमंत्री](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%ae%e0%a5%81%e0%a4%96%e0%a5%8d%e0%a4%af%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
+| 28 | [Wellington](http://twitter.com/search?q=Wellington) | Wellington is a city in New Zealand, located at the southern tip of the North Island. It is the capital of New Zealand and the country's second most populous urban area. The name Wellington comes from Arthur Wellesley, the first Duke of Wellington and victor of the Battle of Waterloo. |
+| 29 | [नोबेल पुरस्कार](http://twitter.com/search?q=%e0%a4%a8%e0%a5%8b%e0%a4%ac%e0%a5%87%e0%a4%b2+%e0%a4%aa%e0%a5%81%e0%a4%b0%e0%a4%b8%e0%a5%8d%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
+| 30 | [महान भारतीय वैज्ञानिक](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%b5%e0%a5%88%e0%a4%9c%e0%a5%8d%e0%a4%9e%e0%a4%be%e0%a4%a8%e0%a4%bf%e0%a4%95) | N/A |
+| 31 | [Dera Sacha Sauda](http://twitter.com/search?q=Dera+Sacha+Sauda) | N/A |
+| 32 | [डेरा सच्चा सौदा](http://twitter.com/search?q=%e0%a4%a1%e0%a5%87%e0%a4%b0%e0%a4%be+%e0%a4%b8%e0%a4%9a%e0%a5%8d%e0%a4%9a%e0%a4%be+%e0%a4%b8%e0%a5%8c%e0%a4%a6%e0%a4%be) | N/A |
+| 33 | [Stokes](http://twitter.com/search?q=Stokes) | N/A |
+| 34 | [अहम भूमिका](http://twitter.com/search?q=%e0%a4%85%e0%a4%b9%e0%a4%ae+%e0%a4%ad%e0%a5%82%e0%a4%ae%e0%a4%bf%e0%a4%95%e0%a4%be) | N/A |
+| 35 | [गरीब दास](http://twitter.com/search?q=%e0%a4%97%e0%a4%b0%e0%a5%80%e0%a4%ac+%e0%a4%a6%e0%a4%be%e0%a4%b8) | N/A |
+| 36 | [Southee](http://twitter.com/search?q=Southee) | N/A |
+| 37 | [Satlok](http://twitter.com/search?q=Satlok) | Satlok is a term used to refer to the spiritual abode of the god Satnam, which is believed to be located in the higher realms of existence. The literal meaning of Satlok in English is "the abode of truth". |
+| 38 | [शाह मस्ताना](http://twitter.com/search?q=%e0%a4%b6%e0%a4%be%e0%a4%b9+%e0%a4%ae%e0%a4%b8%e0%a5%8d%e0%a4%a4%e0%a4%be%e0%a4%a8%e0%a4%be) | N/A |
+| 39 | [कबीर साहेब](http://twitter.com/search?q=%e0%a4%95%e0%a4%ac%e0%a5%80%e0%a4%b0+%e0%a4%b8%e0%a4%be%e0%a4%b9%e0%a5%87%e0%a4%ac) | कबीर साहेब is a phrase used to refer to the poet Kabir, who was a 15th-century Indian mystic poet and saint. The phrase translates to "Kabir, the honorable one" in English. |
+| 40 | [महान स्वतंत्रता सेनानी](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%a4%e0%a4%be+%e0%a4%b8%e0%a5%87%e0%a4%a8%e0%a4%be%e0%a4%a8%e0%a5%80) | N/A |
+| 41 | [Kabir Saheb](http://twitter.com/search?q=Kabir+Saheb) | N/A |
+| 42 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
+| 43 | [#MSGMahaRehmokaramDiwas](http://twitter.com/search?q=%23MSGMahaRehmokaramDiwas) | N/A |
+| 44 | [#RajendraPrasad](http://twitter.com/search?q=%23RajendraPrasad) | N/A |
+| 45 | [#CVRaman](http://twitter.com/search?q=%23CVRaman) | N/A |
+| 46 | [#BazBall](http://twitter.com/search?q=%23BazBall) | N/A |
+| 47 | [#राष्ट्रीय_विज्ञान_दिवस](http://twitter.com/search?q=%23%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af_%e0%a4%b5%e0%a4%bf%e0%a4%9c%e0%a5%8d%e0%a4%9e%e0%a4%be%e0%a4%a8_%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a4%b8) | N/A |
+| 48 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 49 | [#TuesdayMotivaton](http://twitter.com/search?q=%23TuesdayMotivaton) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bremen
 
-📆 Last Updated: `2023-02-28 03:20:12 UTC`
+📆 Last Updated: `2023-02-28 04:15:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,42 +27,42 @@ This is top 50 for [Germany](</Germany>)
 | 10 | [Senioren](http://twitter.com/search?q=Senioren) | N/A |
 | 11 | [Vergewaltigungen](http://twitter.com/search?q=Vergewaltigungen) | N/A |
 | 12 | [Gutachten](http://twitter.com/search?q=Gutachten) | N/A |
-| 13 | [berliner kirchenstift](http://twitter.com/search?q=berliner+kirchenstift) | N/A |
-| 14 | [Helena](http://twitter.com/search?q=Helena) | N/A |
-| 15 | [Werbeverbot](http://twitter.com/search?q=Werbeverbot) | N/A |
-| 16 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
+| 13 | [Helena](http://twitter.com/search?q=Helena) | N/A |
+| 14 | [Werbeverbot](http://twitter.com/search?q=Werbeverbot) | N/A |
+| 15 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
+| 16 | [Berliner Kirchenstift](http://twitter.com/search?q=Berliner+Kirchenstift) | N/A |
 | 17 | [Suicune](http://twitter.com/search?q=Suicune) | N/A |
 | 18 | [montagmorgen](http://twitter.com/search?q=montagmorgen) | N/A |
 | 19 | [Abrams](http://twitter.com/search?q=Abrams) | Abrams is a surname of English and German origin. It is derived from the Germanic personal name Abraham, meaning "father of many". |
 | 20 | [Kinderlose](http://twitter.com/search?q=Kinderlose) | N/A |
-| 21 | [Ethikrat](http://twitter.com/search?q=Ethikrat) | N/A |
-| 22 | [Prantl](http://twitter.com/search?q=Prantl) | N/A |
+| 21 | [prantl](http://twitter.com/search?q=prantl) | N/A |
+| 22 | ["Ethikrat"](http://twitter.com/search?q=%22Ethikrat%22) | N/A |
 | 23 | [Greta Thunberg](http://twitter.com/search?q=Greta+Thunberg) | Greta Thunberg is a Swedish environmental activist who has gained international recognition for her work in raising awareness about the dangers of climate change. She is best known for her school strike for climate, which began in August 2018 when she was 15 years old. She has since become a prominent figure in the global climate movement and has been nominated for the Nobel Peace Prize. |
-| 24 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
-| 25 | [Ukrainer](http://twitter.com/search?q=Ukrainer) | N/A |
-| 26 | [Salvatore](http://twitter.com/search?q=Salvatore) | N/A |
-| 27 | ['feuer'](http://twitter.com/search?q=%27feuer%27) | N/A |
-| 28 | [Kriegsverbrechen](http://twitter.com/search?q=Kriegsverbrechen) | N/A |
-| 29 | [schutzbedürftige](http://twitter.com/search?q=schutzbed%c3%bcrftige) | N/A |
-| 30 | [frau buyx](http://twitter.com/search?q=frau+buyx) | N/A |
-| 31 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 32 | [Mystery Dungeon](http://twitter.com/search?q=Mystery+Dungeon) | N/A |
-| 33 | [Siedler](http://twitter.com/search?q=Siedler) | N/A |
-| 34 | [Nagel](http://twitter.com/search?q=Nagel) | N/A |
-| 35 | [Zimmermann](http://twitter.com/search?q=Zimmermann) | N/A |
-| 36 | [bratapfel](http://twitter.com/search?q=bratapfel) | N/A |
-| 37 | [Hammer](http://twitter.com/search?q=Hammer) | N/A |
-| 38 | [Streamplan](http://twitter.com/search?q=Streamplan) | N/A |
-| 39 | [Joko](http://twitter.com/search?q=Joko) | N/A |
+| 24 | [Ukrainer](http://twitter.com/search?q=Ukrainer) | N/A |
+| 25 | [Salvatore](http://twitter.com/search?q=Salvatore) | N/A |
+| 26 | ['feuer'](http://twitter.com/search?q=%27feuer%27) | N/A |
+| 27 | [Kriegsverbrechen](http://twitter.com/search?q=Kriegsverbrechen) | N/A |
+| 28 | [frau buyx](http://twitter.com/search?q=frau+buyx) | N/A |
+| 29 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 30 | [Mystery Dungeon](http://twitter.com/search?q=Mystery+Dungeon) | N/A |
+| 31 | [Siedler](http://twitter.com/search?q=Siedler) | N/A |
+| 32 | [Zimmermann](http://twitter.com/search?q=Zimmermann) | N/A |
+| 33 | [bratapfel](http://twitter.com/search?q=bratapfel) | N/A |
+| 34 | [streamplan](http://twitter.com/search?q=streamplan) | N/A |
+| 35 | [Joko](http://twitter.com/search?q=Joko) | N/A |
+| 36 | [Schutzbedürftige](http://twitter.com/search?q=Schutzbed%c3%bcrftige) | N/A |
+| 37 | [Nagel](http://twitter.com/search?q=Nagel) | N/A |
+| 38 | [Walking Wake](http://twitter.com/search?q=Walking+Wake) | N/A |
+| 39 | [Moderator](http://twitter.com/search?q=Moderator) | N/A |
 | 40 | [Drosten](http://twitter.com/search?q=Drosten) | N/A |
-| 41 | [Walking Wake](http://twitter.com/search?q=Walking+Wake) | N/A |
-| 42 | [INEC](http://twitter.com/search?q=INEC) | N/A |
-| 43 | [Moderator](http://twitter.com/search?q=Moderator) | N/A |
+| 41 | [Hammer](http://twitter.com/search?q=Hammer) | N/A |
+| 42 | [Teilnehmer](http://twitter.com/search?q=Teilnehmer) | N/A |
+| 43 | [Panzer](http://twitter.com/search?q=Panzer) | N/A |
 | 44 | [nächstenliebe](http://twitter.com/search?q=n%c3%a4chstenliebe) | N/A |
-| 45 | [Teilnehmer](http://twitter.com/search?q=Teilnehmer) | N/A |
-| 46 | [Panzer](http://twitter.com/search?q=Panzer) | N/A |
-| 47 | [Virus](http://twitter.com/search?q=Virus) | N/A |
-| 48 | [Özdemir](http://twitter.com/search?q=%c3%96zdemir) | N/A |
+| 45 | [Virus](http://twitter.com/search?q=Virus) | N/A |
+| 46 | [Altenpflege](http://twitter.com/search?q=Altenpflege) | N/A |
+| 47 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 48 | [INEC](http://twitter.com/search?q=INEC) | N/A |
 
 
 

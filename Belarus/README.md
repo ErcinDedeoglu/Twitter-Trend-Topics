@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belarus
 
-📆 Last Updated: `2023-02-28 03:20:54 UTC`
+📆 Last Updated: `2023-02-28 04:16:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,15 +22,17 @@ This is top 50 for Belarus
 | 5 | [Понимаю](http://twitter.com/search?q=%d0%9f%d0%be%d0%bd%d0%b8%d0%bc%d0%b0%d1%8e) | N/A |
 | 6 | [дааа](http://twitter.com/search?q=%d0%b4%d0%b0%d0%b0%d0%b0) | N/A |
 | 7 | [#клубромантики](http://twitter.com/search?q=%23%d0%ba%d0%bb%d1%83%d0%b1%d1%80%d0%be%d0%bc%d0%b0%d0%bd%d1%82%d0%b8%d0%ba%d0%b8) | N/A |
-| 8 | [#Crypto](http://twitter.com/search?q=%23Crypto) | N/A |
-| 9 | [Похоже](http://twitter.com/search?q=%d0%9f%d0%be%d1%85%d0%be%d0%b6%d0%b5) | N/A |
-| 10 | [Благодарю](http://twitter.com/search?q=%d0%91%d0%bb%d0%b0%d0%b3%d0%be%d0%b4%d0%b0%d1%80%d1%8e) | N/A |
-| 11 | [Точно](http://twitter.com/search?q=%d0%a2%d0%be%d1%87%d0%bd%d0%be) | N/A |
-| 12 | [беларусі](http://twitter.com/search?q=%d0%b1%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d1%96) | N/A |
-| 13 | [Наверное](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b2%d0%b5%d1%80%d0%bd%d0%be%d0%b5) | N/A |
-| 14 | [дзякуй](http://twitter.com/search?q=%d0%b4%d0%b7%d1%8f%d0%ba%d1%83%d0%b9) | N/A |
-| 15 | [Боже](http://twitter.com/search?q=%d0%91%d0%be%d0%b6%d0%b5) | N/A |
+| 8 | [Похоже](http://twitter.com/search?q=%d0%9f%d0%be%d1%85%d0%be%d0%b6%d0%b5) | N/A |
+| 9 | [Благодарю](http://twitter.com/search?q=%d0%91%d0%bb%d0%b0%d0%b3%d0%be%d0%b4%d0%b0%d1%80%d1%8e) | N/A |
+| 10 | [Точно](http://twitter.com/search?q=%d0%a2%d0%be%d1%87%d0%bd%d0%be) | N/A |
+| 11 | [беларусі](http://twitter.com/search?q=%d0%b1%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d1%96) | N/A |
+| 12 | [Наверное](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b2%d0%b5%d1%80%d0%bd%d0%be%d0%b5) | N/A |
+| 13 | [дзякуй](http://twitter.com/search?q=%d0%b4%d0%b7%d1%8f%d0%ba%d1%83%d0%b9) | N/A |
+| 14 | [Боже](http://twitter.com/search?q=%d0%91%d0%be%d0%b6%d0%b5) | N/A |
+| 15 | [#Crypto](http://twitter.com/search?q=%23Crypto) | N/A |
 | 16 | [бай чжу](http://twitter.com/search?q=%d0%b1%d0%b0%d0%b9+%d1%87%d0%b6%d1%83) | N/A |
+| 17 | [Russian](http://twitter.com/search?q=Russian) | N/A |
+| 18 | [жесть](http://twitter.com/search?q=%d0%b6%d0%b5%d1%81%d1%82%d1%8c) | N/A |
 
 
 

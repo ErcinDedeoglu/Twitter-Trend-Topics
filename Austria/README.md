@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-02-28 03:20:54 UTC`
+📆 Last Updated: `2023-02-28 04:16:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,22 +16,22 @@ This is top 50 for Austria
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#imzentrum](http://twitter.com/search?q=%23imzentrum) | N/A |
-| 2 | [#tatort](http://twitter.com/search?q=%23tatort) | N/A |
+| 2 | [#Tatort](http://twitter.com/search?q=%23Tatort) | N/A |
 | 3 | [#hartaberfair](http://twitter.com/search?q=%23hartaberfair) | #hartaberfair is a German phrase that translates to "fair and square" or "just and fair". It is used to express the idea of fairness and justice in a situation. |
-| 4 | [Arbeitszeit](http://twitter.com/search?q=Arbeitszeit) | N/A |
+| 4 | [arbeitszeit](http://twitter.com/search?q=arbeitszeit) | N/A |
 | 5 | [Produktivität](http://twitter.com/search?q=Produktivit%c3%a4t) | N/A |
-| 6 | [Plakolm](http://twitter.com/search?q=Plakolm) | N/A |
+| 6 | [plakolm](http://twitter.com/search?q=plakolm) | N/A |
 | 7 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
 | 8 | [Marokko](http://twitter.com/search?q=Marokko) | N/A |
 | 9 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
 | 10 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
 | 11 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
 | 12 | [Kauf](http://twitter.com/search?q=Kauf) | N/A |
-| 13 | [AMA Gütesiegel](http://twitter.com/search?q=AMA+G%c3%bctesiegel) | N/A |
+| 13 | [ama gütesiegel](http://twitter.com/search?q=ama+g%c3%bctesiegel) | N/A |
 | 14 | [#kocher](http://twitter.com/search?q=%23kocher) | N/A |
-| 15 | [Fahrrad](http://twitter.com/search?q=Fahrrad) | N/A |
-| 16 | [Filter](http://twitter.com/search?q=Filter) | N/A |
-| 17 | [wertschätzung](http://twitter.com/search?q=wertsch%c3%a4tzung) | N/A |
+| 15 | [Filter](http://twitter.com/search?q=Filter) | N/A |
+| 16 | [wertschätzung](http://twitter.com/search?q=wertsch%c3%a4tzung) | N/A |
+| 17 | [Fahrrad](http://twitter.com/search?q=Fahrrad) | N/A |
 | 18 | [märz 2023](http://twitter.com/search?q=m%c3%a4rz+2023) | N/A |
 | 19 | [guten morgen helmut](http://twitter.com/search?q=guten+morgen+helmut) | N/A |
 | 20 | [kinderbetreuung](http://twitter.com/search?q=kinderbetreuung) | N/A |
@@ -44,17 +44,17 @@ This is top 50 for Austria
 | 27 | [Prioritäten](http://twitter.com/search?q=Priorit%c3%a4ten) | N/A |
 | 28 | [start in die woche](http://twitter.com/search?q=start+in+die+woche) | N/A |
 | 29 | [Ausnahmen](http://twitter.com/search?q=Ausnahmen) | N/A |
-| 30 | [Eigenverantwortung](http://twitter.com/search?q=Eigenverantwortung) | N/A |
-| 31 | [warrior nun campers](http://twitter.com/search?q=warrior+nun+campers) | N/A |
-| 32 | [Militär](http://twitter.com/search?q=Milit%c3%a4r) | N/A |
-| 33 | [Studium](http://twitter.com/search?q=Studium) | N/A |
-| 34 | [schellhorn](http://twitter.com/search?q=schellhorn) | N/A |
-| 35 | [Sozialstaat](http://twitter.com/search?q=Sozialstaat) | N/A |
-| 36 | [Frankreich](http://twitter.com/search?q=Frankreich) | N/A |
-| 37 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
-| 38 | [Diplomaten](http://twitter.com/search?q=Diplomaten) | N/A |
+| 30 | [schellhorn](http://twitter.com/search?q=schellhorn) | N/A |
+| 31 | [Eigenverantwortung](http://twitter.com/search?q=Eigenverantwortung) | N/A |
+| 32 | [warrior nun campers](http://twitter.com/search?q=warrior+nun+campers) | N/A |
+| 33 | [Diplomaten](http://twitter.com/search?q=Diplomaten) | N/A |
+| 34 | [Militär](http://twitter.com/search?q=Milit%c3%a4r) | N/A |
+| 35 | [Studium](http://twitter.com/search?q=Studium) | N/A |
+| 36 | [Sozialstaat](http://twitter.com/search?q=Sozialstaat) | N/A |
+| 37 | [Frankreich](http://twitter.com/search?q=Frankreich) | N/A |
+| 38 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
 | 39 | [Handel](http://twitter.com/search?q=Handel) | N/A |
-| 40 | [gruß](http://twitter.com/search?q=gru%c3%9f) | N/A |
+| 40 | [Gruß](http://twitter.com/search?q=Gru%c3%9f) | N/A |
 | 41 | [eigenheim](http://twitter.com/search?q=eigenheim) | N/A |
 | 42 | [Schulden](http://twitter.com/search?q=Schulden) | N/A |
 | 43 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
