@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dresden
 
-📆 Last Updated: `2023-02-28 00:28:40 UTC`
+📆 Last Updated: `2023-02-28 01:44:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Germany](</Germany>)
 | ------- | ------------ | ------------ |
 | 1 | [#hartaberfair](http://twitter.com/search?q=%23hartaberfair) | #hartaberfair is a German phrase that translates to "fair and square" or "just and fair". It is used to express the idea of fairness and justice in a situation. |
 | 2 | [#BETCrypto](http://twitter.com/search?q=%23BETCrypto) | N/A |
-| 3 | [#PokemonPresents](http://twitter.com/search?q=%23PokemonPresents) | N/A |
-| 4 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
+| 3 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
+| 4 | [#PokemonPresents](http://twitter.com/search?q=%23PokemonPresents) | N/A |
 | 5 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
-| 6 | [Vergewaltigungen](http://twitter.com/search?q=Vergewaltigungen) | N/A |
+| 6 | [start in die woche](http://twitter.com/search?q=start+in+die+woche) | N/A |
 | 7 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
-| 8 | [Start in die Woche](http://twitter.com/search?q=Start+in+die+Woche) | Start in die Woche is a German phrase that translates to "start of the week" in English. It is used to refer to the beginning of a new week, usually on Monday. |
-| 9 | [Trinkgeld](http://twitter.com/search?q=Trinkgeld) | N/A |
+| 8 | [Trinkgeld](http://twitter.com/search?q=Trinkgeld) | N/A |
+| 9 | [Vergewaltigungen](http://twitter.com/search?q=Vergewaltigungen) | N/A |
 | 10 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
 | 11 | [Senioren](http://twitter.com/search?q=Senioren) | N/A |
 | 12 | [Polarlichter](http://twitter.com/search?q=Polarlichter) | N/A |
-| 13 | [Zimmermann](http://twitter.com/search?q=Zimmermann) | N/A |
-| 14 | [Gutachten](http://twitter.com/search?q=Gutachten) | N/A |
-| 15 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
-| 16 | [Berliner Kirchenstift](http://twitter.com/search?q=Berliner+Kirchenstift) | N/A |
-| 17 | [Moderator](http://twitter.com/search?q=Moderator) | N/A |
-| 18 | [Helena](http://twitter.com/search?q=Helena) | N/A |
-| 19 | [Werbeverbot](http://twitter.com/search?q=Werbeverbot) | N/A |
-| 20 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
-| 21 | [Prantl](http://twitter.com/search?q=Prantl) | N/A |
-| 22 | [Suicune](http://twitter.com/search?q=Suicune) | N/A |
-| 23 | [montagmorgen](http://twitter.com/search?q=montagmorgen) | N/A |
-| 24 | [Abrams](http://twitter.com/search?q=Abrams) | Abrams is a surname of English and German origin. It is derived from the Germanic personal name Abraham, meaning "father of many". |
-| 25 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 26 | [Kinderlose](http://twitter.com/search?q=Kinderlose) | N/A |
+| 13 | [Gutachten](http://twitter.com/search?q=Gutachten) | N/A |
+| 14 | [Berliner Kirchenstift](http://twitter.com/search?q=Berliner+Kirchenstift) | N/A |
+| 15 | [Helena](http://twitter.com/search?q=Helena) | N/A |
+| 16 | [Werbeverbot](http://twitter.com/search?q=Werbeverbot) | N/A |
+| 17 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
+| 18 | [Zimmermann](http://twitter.com/search?q=Zimmermann) | N/A |
+| 19 | [Prantl](http://twitter.com/search?q=Prantl) | N/A |
+| 20 | [Suicune](http://twitter.com/search?q=Suicune) | N/A |
+| 21 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
+| 22 | [montagmorgen](http://twitter.com/search?q=montagmorgen) | N/A |
+| 23 | [Abrams](http://twitter.com/search?q=Abrams) | Abrams is a surname of English and German origin. It is derived from the Germanic personal name Abraham, meaning "father of many". |
+| 24 | [Moderator](http://twitter.com/search?q=Moderator) | N/A |
+| 25 | [Kinderlose](http://twitter.com/search?q=Kinderlose) | N/A |
+| 26 | [Bale](http://twitter.com/search?q=Bale) | Bale is a large bundle of goods, usually compressed and tied up with string or wire, for storage or transport. It is commonly used to refer to bundles of hay, straw, or cotton. |
 | 27 | [Ethikrat](http://twitter.com/search?q=Ethikrat) | N/A |
-| 28 | [Talkshow](http://twitter.com/search?q=Talkshow) | N/A |
-| 29 | [Siedler](http://twitter.com/search?q=Siedler) | N/A |
-| 30 | [Heizungen](http://twitter.com/search?q=Heizungen) | N/A |
-| 31 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 32 | [Greta Thunberg](http://twitter.com/search?q=Greta+Thunberg) | Greta Thunberg is a Swedish environmental activist who has gained international recognition for her work in raising awareness about the dangers of climate change. She is best known for her school strike for climate, which began in August 2018 when she was 15 years old. She has since become a prominent figure in the global climate movement and has been nominated for the Nobel Peace Prize. |
-| 33 | [Ukrainer](http://twitter.com/search?q=Ukrainer) | N/A |
+| 28 | [siedler](http://twitter.com/search?q=siedler) | N/A |
+| 29 | [Kriegsverbrechen](http://twitter.com/search?q=Kriegsverbrechen) | N/A |
+| 30 | [Greta Thunberg](http://twitter.com/search?q=Greta+Thunberg) | Greta Thunberg is a Swedish environmental activist who has gained international recognition for her work in raising awareness about the dangers of climate change. She is best known for her school strike for climate, which began in August 2018 when she was 15 years old. She has since become a prominent figure in the global climate movement and has been nominated for the Nobel Peace Prize. |
+| 31 | [Süßigkeiten](http://twitter.com/search?q=S%c3%bc%c3%9figkeiten) | N/A |
+| 32 | [Ukrainer](http://twitter.com/search?q=Ukrainer) | N/A |
+| 33 | [Lionel Messi](http://twitter.com/search?q=Lionel+Messi) | N/A |
 | 34 | [Salvatore](http://twitter.com/search?q=Salvatore) | N/A |
-| 35 | ['Feuer'](http://twitter.com/search?q=%27Feuer%27) | N/A |
+| 35 | ['feuer'](http://twitter.com/search?q=%27feuer%27) | N/A |
 | 36 | [Schutzbedürftige](http://twitter.com/search?q=Schutzbed%c3%bcrftige) | N/A |
 | 37 | [Frau Buyx](http://twitter.com/search?q=Frau+Buyx) | N/A |
-| 38 | [Süßigkeiten](http://twitter.com/search?q=S%c3%bc%c3%9figkeiten) | N/A |
-| 39 | [Kriegsverbrechen](http://twitter.com/search?q=Kriegsverbrechen) | N/A |
-| 40 | [Mystery Dungeon](http://twitter.com/search?q=Mystery+Dungeon) | N/A |
-| 41 | [Teilnehmer](http://twitter.com/search?q=Teilnehmer) | N/A |
-| 42 | [Nagel](http://twitter.com/search?q=Nagel) | N/A |
-| 43 | [bratapfel](http://twitter.com/search?q=bratapfel) | N/A |
+| 38 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 39 | [Mystery Dungeon](http://twitter.com/search?q=Mystery+Dungeon) | N/A |
+| 40 | [Nagel](http://twitter.com/search?q=Nagel) | N/A |
+| 41 | [bratapfel](http://twitter.com/search?q=bratapfel) | N/A |
+| 42 | [Streamplan](http://twitter.com/search?q=Streamplan) | N/A |
+| 43 | [Joko](http://twitter.com/search?q=Joko) | N/A |
 | 44 | [Hammer](http://twitter.com/search?q=Hammer) | N/A |
 | 45 | [Virus](http://twitter.com/search?q=Virus) | N/A |
-| 46 | [Streamplan](http://twitter.com/search?q=Streamplan) | N/A |
-| 47 | [Joko](http://twitter.com/search?q=Joko) | N/A |
-| 48 | [Altenpflege](http://twitter.com/search?q=Altenpflege) | N/A |
-| 49 | [Panzer](http://twitter.com/search?q=Panzer) | N/A |
+| 46 | [Teilnehmer](http://twitter.com/search?q=Teilnehmer) | N/A |
+| 47 | [Walking Wake](http://twitter.com/search?q=Walking+Wake) | N/A |
+| 48 | [Drosten](http://twitter.com/search?q=Drosten) | N/A |
+| 49 | [INEC](http://twitter.com/search?q=INEC) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canada
 
-📆 Last Updated: `2023-02-28 00:29:15 UTC`
+📆 Last Updated: `2023-02-28 01:45:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,51 @@ This is top 50 for Canada
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Stillman](http://twitter.com/search?q=Stillman) | N/A |
-| 2 | [Jeannot](http://twitter.com/search?q=Jeannot) | N/A |
-| 3 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
-| 4 | [McCabe](http://twitter.com/search?q=McCabe) | N/A |
-| 5 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 6 | [#ONStorm](http://twitter.com/search?q=%23ONStorm) | N/A |
-| 7 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
-| 8 | [Dubas](http://twitter.com/search?q=Dubas) | N/A |
-| 9 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 10 | [Josh Bloom](http://twitter.com/search?q=Josh+Bloom) | N/A |
-| 11 | [#TrudeauIsTheNewHitler](http://twitter.com/search?q=%23TrudeauIsTheNewHitler) | N/A |
-| 12 | [#DougFordIsAPotato](http://twitter.com/search?q=%23DougFordIsAPotato) | N/A |
-| 13 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
-| 14 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 15 | [Jully](http://twitter.com/search?q=Jully) | N/A |
-| 16 | [Kerfoot](http://twitter.com/search?q=Kerfoot) | N/A |
+| 1 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
+| 2 | [#DougFordIsAPotato](http://twitter.com/search?q=%23DougFordIsAPotato) | N/A |
+| 3 | [Stillman](http://twitter.com/search?q=Stillman) | N/A |
+| 4 | [Hellberg](http://twitter.com/search?q=Hellberg) | N/A |
+| 5 | [Talbot](http://twitter.com/search?q=Talbot) | N/A |
+| 6 | [Giroux](http://twitter.com/search?q=Giroux) | N/A |
+| 7 | [Chabot](http://twitter.com/search?q=Chabot) | N/A |
+| 8 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 9 | [Trudeau Foundation](http://twitter.com/search?q=Trudeau+Foundation) | N/A |
+| 10 | [Bertuzzi](http://twitter.com/search?q=Bertuzzi) | N/A |
+| 11 | [Bloom](http://twitter.com/search?q=Bloom) | N/A |
+| 12 | [Gambrell](http://twitter.com/search?q=Gambrell) | N/A |
+| 13 | [McCabe](http://twitter.com/search?q=McCabe) | N/A |
+| 14 | [Gibby](http://twitter.com/search?q=Gibby) | N/A |
+| 15 | [Dubas](http://twitter.com/search?q=Dubas) | N/A |
+| 16 | [Rupert Murdoch](http://twitter.com/search?q=Rupert+Murdoch) | N/A |
 | 17 | [CSIS](http://twitter.com/search?q=CSIS) | N/A |
-| 18 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 19 | [Scott Adams](http://twitter.com/search?q=Scott+Adams) | N/A |
-| 20 | [Ekholm](http://twitter.com/search?q=Ekholm) | N/A |
-| 21 | [Gordon Pinsent](http://twitter.com/search?q=Gordon+Pinsent) | N/A |
-| 22 | [McDavid](http://twitter.com/search?q=McDavid) | McDavid is a brand of sports equipment and apparel, named after the Canadian hockey player Connor McDavid. The company produces protective gear, such as hockey helmets and shoulder pads, as well as clothing and accessories. |
-| 23 | [Meier](http://twitter.com/search?q=Meier) | N/A |
-| 24 | [INEC](http://twitter.com/search?q=INEC) | N/A |
-| 25 | [Nick Bontis](http://twitter.com/search?q=Nick+Bontis) | N/A |
-| 26 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
-| 27 | [Gurianov](http://twitter.com/search?q=Gurianov) | N/A |
-| 28 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
-| 29 | [Gibby](http://twitter.com/search?q=Gibby) | N/A |
-| 30 | [Butts](http://twitter.com/search?q=Butts) | N/A |
-| 31 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
-| 32 | [Christine Anderson](http://twitter.com/search?q=Christine+Anderson) | N/A |
-| 33 | [Sandin](http://twitter.com/search?q=Sandin) | N/A |
-| 34 | [Suicune](http://twitter.com/search?q=Suicune) | N/A |
-| 35 | [Fauci](http://twitter.com/search?q=Fauci) | N/A |
-| 36 | [Woody](http://twitter.com/search?q=Woody) | Woody is a slang term used to describe someone who is strong, tough, and determined. It can also be used to describe someone who is stubborn and unyielding. |
-| 37 | [Rupert Murdoch](http://twitter.com/search?q=Rupert+Murdoch) | N/A |
-| 38 | [Edmundson](http://twitter.com/search?q=Edmundson) | N/A |
-| 39 | [Walking Wake](http://twitter.com/search?q=Walking+Wake) | N/A |
-| 40 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
-| 41 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
-| 42 | [Dadonov](http://twitter.com/search?q=Dadonov) | N/A |
-| 43 | [Holl](http://twitter.com/search?q=Holl) | N/A |
-| 44 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
-| 45 | [Canada Soccer](http://twitter.com/search?q=Canada+Soccer) | N/A |
-| 46 | [AstraZeneca](http://twitter.com/search?q=AstraZeneca) | N/A |
-| 47 | [Holtz](http://twitter.com/search?q=Holtz) | N/A |
-| 48 | [Miller](http://twitter.com/search?q=Miller) | N/A |
-| 49 | [Doughty](http://twitter.com/search?q=Doughty) | N/A |
-| 50 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 18 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
+| 19 | [Holl](http://twitter.com/search?q=Holl) | N/A |
+| 20 | [Kerfoot](http://twitter.com/search?q=Kerfoot) | N/A |
+| 21 | [Nick Bontis](http://twitter.com/search?q=Nick+Bontis) | N/A |
+| 22 | [AstraZeneca](http://twitter.com/search?q=AstraZeneca) | N/A |
+| 23 | [Lafferty](http://twitter.com/search?q=Lafferty) | Lafferty is a Scottish surname derived from the Gaelic name Mac an Leifheartaigh, meaning "son of the follower of St. Laverty". It is most commonly found in County Donegal, Ireland. In English, it can be translated to mean "son of the follower of St. Laverty". |
+| 24 | [#TrudeauIsTheNewHitler](http://twitter.com/search?q=%23TrudeauIsTheNewHitler) | N/A |
+| 25 | [Demko](http://twitter.com/search?q=Demko) | N/A |
+| 26 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
+| 27 | [Ekholm](http://twitter.com/search?q=Ekholm) | N/A |
+| 28 | [Schenn](http://twitter.com/search?q=Schenn) | N/A |
+| 29 | [Canada Soccer](http://twitter.com/search?q=Canada+Soccer) | N/A |
+| 30 | [LTIR](http://twitter.com/search?q=LTIR) | N/A |
+| 31 | [#CanMNT](http://twitter.com/search?q=%23CanMNT) | N/A |
+| 32 | [Marchand](http://twitter.com/search?q=Marchand) | N/A |
+| 33 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 34 | [Sandin](http://twitter.com/search?q=Sandin) | N/A |
+| 35 | [Boston](http://twitter.com/search?q=Boston) | Boston is the capital and most populous city of the Commonwealth of Massachusetts in the United States. It is one of the oldest cities in the United States, founded in 1630 by Puritan settlers from England. The city is known for its rich history, culture, and educational institutions. It is also home to many world-renowned museums, universities, and hospitals. |
+| 36 | [Engvall](http://twitter.com/search?q=Engvall) | N/A |
+| 37 | [Murray](http://twitter.com/search?q=Murray) | N/A |
+| 38 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 39 | [Edmundson](http://twitter.com/search?q=Edmundson) | N/A |
+| 40 | [Destiny 2](http://twitter.com/search?q=Destiny+2) | N/A |
+| 41 | [Chinese Communist Party](http://twitter.com/search?q=Chinese+Communist+Party) | N/A |
+| 42 | [Lightfall](http://twitter.com/search?q=Lightfall) | N/A |
+| 43 | [Jully](http://twitter.com/search?q=Jully) | N/A |
+| 44 | [#NaziGate](http://twitter.com/search?q=%23NaziGate) | N/A |
+| 45 | [#GOGimmighoul](http://twitter.com/search?q=%23GOGimmighoul) | N/A |
 
 
 

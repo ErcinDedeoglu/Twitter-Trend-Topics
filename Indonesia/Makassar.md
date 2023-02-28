@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Makassar
 
-📆 Last Updated: `2023-02-28 00:28:46 UTC`
+📆 Last Updated: `2023-02-28 01:44:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#FilterLegend](http://twitter.com/search?q=%23FilterLegend) | N/A |
-| 2 | [Garpitnya Ariel Tatum](http://twitter.com/search?q=Garpitnya+Ariel+Tatum) | N/A |
-| 3 | [#SyariahBerkahSemesta](http://twitter.com/search?q=%23SyariahBerkahSemesta) | N/A |
-| 4 | [HUANG RENJUN THANK YOU](http://twitter.com/search?q=HUANG+RENJUN+THANK+YOU) | N/A |
+| 1 | [HUANG RENJUN THANK YOU](http://twitter.com/search?q=HUANG+RENJUN+THANK+YOU) | N/A |
+| 2 | [#FilterLegend](http://twitter.com/search?q=%23FilterLegend) | N/A |
+| 3 | [Garpitnya Ariel Tatum](http://twitter.com/search?q=Garpitnya+Ariel+Tatum) | N/A |
+| 4 | [PH SCAMMER](http://twitter.com/search?q=PH+SCAMMER) | N/A |
 | 5 | [Jadi Penyeru Kebenaran](http://twitter.com/search?q=Jadi+Penyeru+Kebenaran) | N/A |
-| 6 | [PH SCAMMER](http://twitter.com/search?q=PH+SCAMMER) | N/A |
-| 7 | [Mari Dakwahkan Islam](http://twitter.com/search?q=Mari+Dakwahkan+Islam) | N/A |
-| 8 | [kunjungiaja dekade 08](http://twitter.com/search?q=kunjungiaja+dekade+08) | N/A |
-| 9 | [prabowo bikin nyaman](http://twitter.com/search?q=prabowo+bikin+nyaman) | N/A |
+| 6 | [kunjungiaja dekade 08](http://twitter.com/search?q=kunjungiaja+dekade+08) | N/A |
+| 7 | [prabowo bikin nyaman](http://twitter.com/search?q=prabowo+bikin+nyaman) | N/A |
+| 8 | [Mari Dakwahkan Islam](http://twitter.com/search?q=Mari+Dakwahkan+Islam) | N/A |
+| 9 | [#NCT런쥔](http://twitter.com/search?q=%23NCT%eb%9f%b0%ec%a5%94) | N/A |
 | 10 | [pilihannya mending prabowo](http://twitter.com/search?q=pilihannya+mending+prabowo) | N/A |
 | 11 | [bapak prabowo](http://twitter.com/search?q=bapak+prabowo) | N/A |
-| 12 | [#NCT런쥔](http://twitter.com/search?q=%23NCT%eb%9f%b0%ec%a5%94) | N/A |
-| 13 | [Teja](http://twitter.com/search?q=Teja) | N/A |
-| 14 | [mbanking bca](http://twitter.com/search?q=mbanking+bca) | N/A |
-| 15 | [#kamday](http://twitter.com/search?q=%23kamday) | N/A |
-| 16 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 17 | [Tanpa](http://twitter.com/search?q=Tanpa) | N/A |
+| 12 | [#IKNProyekIlusi](http://twitter.com/search?q=%23IKNProyekIlusi) | N/A |
+| 13 | [#SyariahBerkahSemesta](http://twitter.com/search?q=%23SyariahBerkahSemesta) | N/A |
+| 14 | [Putri LS](http://twitter.com/search?q=Putri+LS) | N/A |
+| 15 | [Teja](http://twitter.com/search?q=Teja) | N/A |
+| 16 | [mbanking bca](http://twitter.com/search?q=mbanking+bca) | N/A |
+| 17 | [Selena](http://twitter.com/search?q=Selena) | N/A |
 | 18 | [Indra Bekti](http://twitter.com/search?q=Indra+Bekti) | N/A |
-| 19 | [Putri LS](http://twitter.com/search?q=Putri+LS) | N/A |
-| 20 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 21 | [Vario](http://twitter.com/search?q=Vario) | N/A |
-| 22 | [TENLEE 27th BDAY](http://twitter.com/search?q=TENLEE+27th+BDAY) | N/A |
-| 23 | [Senin](http://twitter.com/search?q=Senin) | N/A |
-| 24 | [Game of Thrones](http://twitter.com/search?q=Game+of+Thrones) | N/A |
-| 25 | [JENO CONGRATS ON MFW](http://twitter.com/search?q=JENO+CONGRATS+ON+MFW) | N/A |
-| 26 | [Modern Family](http://twitter.com/search?q=Modern+Family) | Modern Family is an American television mockumentary sitcom created by Christopher Lloyd and Steven Levitan for the ABC network. It follows the lives of three related families, the Pritchetts, Dunphys, and Tuckers, who all live in Los Angeles. The show focuses on the characters' relationships with each other and their attempts to navigate modern life. The title of the show is a reference to the changing nature of family life in today's society. |
+| 19 | [Okin](http://twitter.com/search?q=Okin) | N/A |
+| 20 | [Vario](http://twitter.com/search?q=Vario) | N/A |
+| 21 | [Tanpa](http://twitter.com/search?q=Tanpa) | N/A |
+| 22 | [Scoopy](http://twitter.com/search?q=Scoopy) | N/A |
+| 23 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 24 | [Pagii](http://twitter.com/search?q=Pagii) | N/A |
+| 25 | [Jere](http://twitter.com/search?q=Jere) | N/A |
+| 26 | [Senin](http://twitter.com/search?q=Senin) | N/A |
 | 27 | [Floral Sense](http://twitter.com/search?q=Floral+Sense) | N/A |
-| 28 | [PARK JISUNG](http://twitter.com/search?q=PARK+JISUNG) | N/A |
-| 29 | [Breaking Bad](http://twitter.com/search?q=Breaking+Bad) | N/A |
-| 30 | [SUGA AT THE VIP PREMIERE](http://twitter.com/search?q=SUGA+AT+THE+VIP+PREMIERE) | N/A |
-| 31 | [PROTECT OUR JUNGKOOK](http://twitter.com/search?q=PROTECT+OUR+JUNGKOOK) | N/A |
-| 32 | [Abby Choi](http://twitter.com/search?q=Abby+Choi) | N/A |
-| 33 | [khilafah ajaran mulia](http://twitter.com/search?q=khilafah+ajaran+mulia) | N/A |
+| 28 | [Modern Family](http://twitter.com/search?q=Modern+Family) | Modern Family is an American television mockumentary sitcom created by Christopher Lloyd and Steven Levitan for the ABC network. It follows the lives of three related families, the Pritchetts, Dunphys, and Tuckers, who all live in Los Angeles. The show focuses on the characters' relationships with each other and their attempts to navigate modern life. The title of the show is a reference to the changing nature of family life in today's society. |
+| 29 | [Game of Thrones](http://twitter.com/search?q=Game+of+Thrones) | N/A |
+| 30 | [JENO CONGRATS ON MFW](http://twitter.com/search?q=JENO+CONGRATS+ON+MFW) | N/A |
+| 31 | [PARK JISUNG](http://twitter.com/search?q=PARK+JISUNG) | N/A |
+| 32 | [PROTECT OUR JUNGKOOK](http://twitter.com/search?q=PROTECT+OUR+JUNGKOOK) | N/A |
+| 33 | [SUGA AT THE VIP PREMIERE](http://twitter.com/search?q=SUGA+AT+THE+VIP+PREMIERE) | N/A |
 | 34 | [Morningg](http://twitter.com/search?q=Morningg) | N/A |
-| 35 | [Selasa](http://twitter.com/search?q=Selasa) | N/A |
-| 36 | [kita mulia dengan syariah](http://twitter.com/search?q=kita+mulia+dengan+syariah) | N/A |
-| 37 | [Aliran](http://twitter.com/search?q=Aliran) | N/A |
-| 38 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 39 | [bd jepang](http://twitter.com/search?q=bd+jepang) | N/A |
-| 40 | [Ojan](http://twitter.com/search?q=Ojan) | N/A |
-| 41 | [hendra kurniawan](http://twitter.com/search?q=hendra+kurniawan) | N/A |
-| 42 | [TERAS KAPAL BAHTERA SEVA](http://twitter.com/search?q=TERAS+KAPAL+BAHTERA+SEVA) | N/A |
-| 43 | [Black Mirror](http://twitter.com/search?q=Black+Mirror) | N/A |
-| 44 | [Bertaruh](http://twitter.com/search?q=Bertaruh) | N/A |
-| 45 | [How I Met Your Mother](http://twitter.com/search?q=How+I+Met+Your+Mother) | N/A |
-| 46 | [opick](http://twitter.com/search?q=opick) | N/A |
-| 47 | [KAI Rover Teaser Images 1](http://twitter.com/search?q=KAI+Rover+Teaser+Images+1) | N/A |
-| 48 | [Brooklyn 99](http://twitter.com/search?q=Brooklyn+99) | N/A |
-| 49 | [TXT SECRET SPECIAL CLIP](http://twitter.com/search?q=TXT+SECRET+SPECIAL+CLIP) | N/A |
+| 35 | [Abby Choi](http://twitter.com/search?q=Abby+Choi) | N/A |
+| 36 | [khilafah ajaran mulia](http://twitter.com/search?q=khilafah+ajaran+mulia) | N/A |
+| 37 | [Breaking Bad](http://twitter.com/search?q=Breaking+Bad) | N/A |
+| 38 | [kita mulia dengan syariah](http://twitter.com/search?q=kita+mulia+dengan+syariah) | N/A |
+| 39 | [TENLEE 27th BDAY](http://twitter.com/search?q=TENLEE+27th+BDAY) | N/A |
+| 40 | [Aliran](http://twitter.com/search?q=Aliran) | N/A |
+| 41 | [TERAS KAPAL BAHTERA SEVA](http://twitter.com/search?q=TERAS+KAPAL+BAHTERA+SEVA) | N/A |
+| 42 | [TNI AD](http://twitter.com/search?q=TNI+AD) | N/A |
+| 43 | [bd jepang](http://twitter.com/search?q=bd+jepang) | N/A |
+| 44 | [Selasa](http://twitter.com/search?q=Selasa) | N/A |
+| 45 | [hendra kurniawan](http://twitter.com/search?q=hendra+kurniawan) | N/A |
+| 46 | [Ojan](http://twitter.com/search?q=Ojan) | N/A |
+| 47 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 48 | [Black Mirror](http://twitter.com/search?q=Black+Mirror) | N/A |
+| 49 | [How I Met Your Mother](http://twitter.com/search?q=How+I+Met+Your+Mother) | N/A |
 
 
 

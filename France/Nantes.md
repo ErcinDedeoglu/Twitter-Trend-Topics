@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nantes
 
-📆 Last Updated: `2023-02-28 00:28:39 UTC`
+📆 Last Updated: `2023-02-28 01:44:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,56 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MultiAI](http://twitter.com/search?q=%23MultiAI) | N/A |
-| 2 | [Payet](http://twitter.com/search?q=Payet) | Payet is a French surname. It is derived from the Old French word "paie," which means "payment." In English, it can be translated to mean "one who pays." |
-| 3 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
-| 4 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 5 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
-| 6 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 7 | [#Avenir](http://twitter.com/search?q=%23Avenir) | N/A |
-| 8 | [#ASCFCGB](http://twitter.com/search?q=%23ASCFCGB) | N/A |
-| 9 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
-| 10 | [Puskas](http://twitter.com/search?q=Puskas) | N/A |
-| 11 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
-| 12 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
-| 13 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 14 | [Fransergio](http://twitter.com/search?q=Fransergio) | N/A |
-| 15 | [Aziliz](http://twitter.com/search?q=Aziliz) | N/A |
-| 16 | [Guion](http://twitter.com/search?q=Guion) | N/A |
-| 17 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
-| 18 | [Mwanga](http://twitter.com/search?q=Mwanga) | N/A |
-| 19 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
-| 20 | [Amiens](http://twitter.com/search?q=Amiens) | N/A |
-| 21 | [Lacoux](http://twitter.com/search?q=Lacoux) | N/A |
-| 22 | [Scaloni](http://twitter.com/search?q=Scaloni) | N/A |
-| 23 | [Pétain](http://twitter.com/search?q=P%c3%a9tain) | N/A |
-| 24 | [Ethnicité](http://twitter.com/search?q=Ethnicit%c3%a9) | N/A |
-| 25 | [Pitu](http://twitter.com/search?q=Pitu) | N/A |
-| 26 | [Maja](http://twitter.com/search?q=Maja) | N/A |
-| 27 | [Sambou](http://twitter.com/search?q=Sambou) | N/A |
-| 28 | [Balkany](http://twitter.com/search?q=Balkany) | N/A |
-| 29 | [Mendy](http://twitter.com/search?q=Mendy) | Mendy is a diminutive form of the name Mendel, which is a Hebrew name meaning "little man". It can also be used as a nickname for someone named Mendel or as an independent given name. |
-| 30 | [Nsimba](http://twitter.com/search?q=Nsimba) | N/A |
-| 31 | [Bakwa](http://twitter.com/search?q=Bakwa) | N/A |
-| 32 | [Badji](http://twitter.com/search?q=Badji) | N/A |
-| 33 | [Michelin](http://twitter.com/search?q=Michelin) | N/A |
-| 34 | [Shay](http://twitter.com/search?q=Shay) | N/A |
-| 35 | [Ignatenko](http://twitter.com/search?q=Ignatenko) | N/A |
-| 36 | [Makoto Shinkai](http://twitter.com/search?q=Makoto+Shinkai) | N/A |
-| 37 | [Nabil](http://twitter.com/search?q=Nabil) | N/A |
-| 38 | [Samy](http://twitter.com/search?q=Samy) | N/A |
-| 39 | [Gregersen](http://twitter.com/search?q=Gregersen) | N/A |
-| 40 | [Fally](http://twitter.com/search?q=Fally) | N/A |
-| 41 | [Ballon](http://twitter.com/search?q=Ballon) | N/A |
-| 42 | [Bono](http://twitter.com/search?q=Bono) | N/A |
-| 43 | [Militao](http://twitter.com/search?q=Militao) | Militão is a Portuguese name derived from the Latin word militare, meaning “to serve in the military”. In English, it can be translated to mean “soldier” or “warrior”. |
-| 44 | [Mitterrand](http://twitter.com/search?q=Mitterrand) | N/A |
-| 45 | [Raymond](http://twitter.com/search?q=Raymond) | N/A |
-| 46 | [Astrid](http://twitter.com/search?q=Astrid) | N/A |
+| 1 | [#OMPSG](http://twitter.com/search?q=%23OMPSG) | N/A |
+| 2 | [#MultiAI](http://twitter.com/search?q=%23MultiAI) | N/A |
+| 3 | [Payet](http://twitter.com/search?q=Payet) | Payet is a French surname. It is derived from the Old French word "paie," which means "payment." In English, it can be translated to mean "one who pays." |
+| 4 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
+| 5 | [Hilona](http://twitter.com/search?q=Hilona) | N/A |
+| 6 | [#PokemonPresents](http://twitter.com/search?q=%23PokemonPresents) | N/A |
+| 7 | [Julien Bert](http://twitter.com/search?q=Julien+Bert) | N/A |
+| 8 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
+| 9 | [#ASCFCGB](http://twitter.com/search?q=%23ASCFCGB) | N/A |
+| 10 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 11 | [Bailly](http://twitter.com/search?q=Bailly) | Bailly is a French surname derived from the Old French word baillis, meaning "bailiff" or "steward". It is also a given name in France, derived from the same source. |
+| 12 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
+| 13 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
+| 14 | [Ethnicité](http://twitter.com/search?q=Ethnicit%c3%a9) | N/A |
+| 15 | [Puskas](http://twitter.com/search?q=Puskas) | N/A |
+| 16 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 17 | [#SIA2023](http://twitter.com/search?q=%23SIA2023) | N/A |
+| 18 | [Suicune](http://twitter.com/search?q=Suicune) | N/A |
+| 19 | [Aziliz](http://twitter.com/search?q=Aziliz) | N/A |
+| 20 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
+| 21 | [Fransergio](http://twitter.com/search?q=Fransergio) | N/A |
+| 22 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 23 | [Balkany](http://twitter.com/search?q=Balkany) | N/A |
+| 24 | [Mwanga](http://twitter.com/search?q=Mwanga) | N/A |
+| 25 | [Bachelot](http://twitter.com/search?q=Bachelot) | N/A |
+| 26 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 27 | [Leris](http://twitter.com/search?q=Leris) | N/A |
+| 28 | [Guion](http://twitter.com/search?q=Guion) | N/A |
+| 29 | [Shay](http://twitter.com/search?q=Shay) | N/A |
+| 30 | [Roselyne](http://twitter.com/search?q=Roselyne) | N/A |
+| 31 | [Astrid](http://twitter.com/search?q=Astrid) | N/A |
+| 32 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
+| 33 | [Marseille](http://twitter.com/search?q=Marseille) | N/A |
+| 34 | [Vitinha](http://twitter.com/search?q=Vitinha) | Vitinha is a Portuguese nickname for someone named Vitor, which is a common name in Portugal. In English, it translates to "little Vitor". |
+| 35 | [François Hadji](http://twitter.com/search?q=Fran%c3%a7ois+Hadji) | N/A |
+| 36 | [Maja](http://twitter.com/search?q=Maja) | N/A |
+| 37 | [Lacoux](http://twitter.com/search?q=Lacoux) | N/A |
+| 38 | [Amiens](http://twitter.com/search?q=Amiens) | N/A |
+| 39 | [Pétain](http://twitter.com/search?q=P%c3%a9tain) | N/A |
+| 40 | [Gigio](http://twitter.com/search?q=Gigio) | N/A |
+| 41 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
+| 42 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
+| 43 | [Pitu](http://twitter.com/search?q=Pitu) | N/A |
+| 44 | [Lillard](http://twitter.com/search?q=Lillard) | N/A |
+| 45 | [Scaloni](http://twitter.com/search?q=Scaloni) | N/A |
+| 46 | [Mendy](http://twitter.com/search?q=Mendy) | Mendy is a diminutive form of the name Mendel, which is a Hebrew name meaning "little man". It can also be used as a nickname for someone named Mendel or as an independent given name. |
+| 47 | [Bakwa](http://twitter.com/search?q=Bakwa) | N/A |
+| 48 | [Fiché S](http://twitter.com/search?q=Fich%c3%a9+S) | N/A |
+| 49 | [Violet](http://twitter.com/search?q=Violet) | N/A |
+| 50 | [Viridium](http://twitter.com/search?q=Viridium) | N/A |
 
 
 

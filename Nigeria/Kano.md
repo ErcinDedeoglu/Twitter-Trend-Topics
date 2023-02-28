@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kano
 
-📆 Last Updated: `2023-02-28 00:28:55 UTC`
+📆 Last Updated: `2023-02-28 01:45:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,49 +15,56 @@ This is top 50 for [Nigeria](</Nigeria>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 2 | [RCCG](http://twitter.com/search?q=RCCG) | N/A |
-| 3 | [Obasanjo](http://twitter.com/search?q=Obasanjo) | Obasanjo is a Yoruba name meaning "the king has returned". It is the surname of Olusegun Obasanjo, a former Nigerian military leader and two-term president. |
-| 4 | [#electionresults2023](http://twitter.com/search?q=%23electionresults2023) | N/A |
-| 5 | [Lionel Messi](http://twitter.com/search?q=Lionel+Messi) | N/A |
-| 6 | [Ebubu](http://twitter.com/search?q=Ebubu) | Ebubu is a Nigerian language spoken by the Ebubu people in Rivers State, Nigeria. It is a dialect of the Igbo language and its meaning in English is "people". |
-| 7 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
-| 8 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
-| 9 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
-| 10 | [Royals](http://twitter.com/search?q=Royals) | N/A |
-| 11 | [Kaniva](http://twitter.com/search?q=Kaniva) | N/A |
-| 12 | [#benue](http://twitter.com/search?q=%23benue) | N/A |
-| 13 | [#TinubusWalkToVictory](http://twitter.com/search?q=%23TinubusWalkToVictory) | N/A |
-| 14 | [Fayose](http://twitter.com/search?q=Fayose) | N/A |
-| 15 | [Thabana](http://twitter.com/search?q=Thabana) | Thabana is a Sesotho word meaning “to be brave” or “to have courage”. It is often used as a rallying cry for people to stand up and take action in the face of adversity. |
-| 16 | [Yelisa](http://twitter.com/search?q=Yelisa) | Yelisa is a Spanish name derived from the Hebrew name Elisheva, which means “God is my oath”. In English, it can be translated to mean “God is my promise”. |
-| 17 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
-| 18 | [#TinubuIsHere](http://twitter.com/search?q=%23TinubuIsHere) | N/A |
-| 19 | [Tsatsi](http://twitter.com/search?q=Tsatsi) | N/A |
-| 20 | [#INECElectionResult](http://twitter.com/search?q=%23INECElectionResult) | N/A |
-| 21 | [Maurice Iwu](http://twitter.com/search?q=Maurice+Iwu) | N/A |
-| 22 | [Airtel](http://twitter.com/search?q=Airtel) | N/A |
-| 23 | [Dayo Israel](http://twitter.com/search?q=Dayo+Israel) | N/A |
-| 24 | [Emeka](http://twitter.com/search?q=Emeka) | N/A |
-| 25 | [Natasha](http://twitter.com/search?q=Natasha) | N/A |
-| 26 | [Khosicle](http://twitter.com/search?q=Khosicle) | Khosicle is a portmanteau of the words “khaki” and “popsicle”. It is used to describe a type of clothing item that combines the look of khaki pants with the comfort of a popsicle. The term is often used to describe shorts, pants, or other clothing items that have a relaxed fit and are made from lightweight fabrics. |
-| 27 | [Nasarawa](http://twitter.com/search?q=Nasarawa) | N/A |
-| 28 | [Mahmood Yakubu](http://twitter.com/search?q=Mahmood+Yakubu) | N/A |
-| 29 | [Electoral Act](http://twitter.com/search?q=Electoral+Act) | N/A |
-| 30 | [Festus](http://twitter.com/search?q=Festus) | N/A |
-| 31 | [Rigged](http://twitter.com/search?q=Rigged) | N/A |
-| 32 | [Imagination](http://twitter.com/search?q=Imagination) | N/A |
-| 33 | [After God](http://twitter.com/search?q=After+God) | N/A |
-| 34 | [Sign the Petition](http://twitter.com/search?q=Sign+the+Petition) | N/A |
-| 35 | [Frank Nweke](http://twitter.com/search?q=Frank+Nweke) | N/A |
-| 36 | [Waziri](http://twitter.com/search?q=Waziri) | N/A |
-| 37 | [APC and INEC](http://twitter.com/search?q=APC+and+INEC) | N/A |
-| 38 | [INEC and APC](http://twitter.com/search?q=INEC+and+APC) | N/A |
-| 39 | [#labourpartynigeria](http://twitter.com/search?q=%23labourpartynigeria) | N/A |
-| 40 | [#INECFailedNigerians](http://twitter.com/search?q=%23INECFailedNigerians) | N/A |
-| 41 | [#protest](http://twitter.com/search?q=%23protest) | N/A |
-| 42 | [#ENDINECNOW](http://twitter.com/search?q=%23ENDINECNOW) | N/A |
-| 43 | [#TinubuCannotWin](http://twitter.com/search?q=%23TinubuCannotWin) | N/A |
+| 1 | [#electionresults2023](http://twitter.com/search?q=%23electionresults2023) | N/A |
+| 2 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 3 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 4 | [#NigerianElections2023](http://twitter.com/search?q=%23NigerianElections2023) | N/A |
+| 5 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
+| 6 | [Ekiti](http://twitter.com/search?q=Ekiti) | N/A |
+| 7 | [Banky](http://twitter.com/search?q=Banky) | N/A |
+| 8 | [Plateau](http://twitter.com/search?q=Plateau) | N/A |
+| 9 | [#protest](http://twitter.com/search?q=%23protest) | N/A |
+| 10 | [BVAS](http://twitter.com/search?q=BVAS) | BVAS stands for Behavioral and Vital Signs. It is a term used in the medical field to refer to the physical and mental signs that can be used to assess a patient's health. These signs include heart rate, blood pressure, temperature, respiration rate, and other indicators of physical and mental health. |
+| 11 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 12 | [RCCG](http://twitter.com/search?q=RCCG) | N/A |
+| 13 | [Obasanjo](http://twitter.com/search?q=Obasanjo) | Obasanjo is a Yoruba name meaning "the king has returned". It is the surname of Olusegun Obasanjo, a former Nigerian military leader and two-term president. |
+| 14 | [Yoruba](http://twitter.com/search?q=Yoruba) | N/A |
+| 15 | [#NigeriaDecides2023](http://twitter.com/search?q=%23NigeriaDecides2023) | N/A |
+| 16 | [#benue](http://twitter.com/search?q=%23benue) | N/A |
+| 17 | [Sanwo Olu](http://twitter.com/search?q=Sanwo+Olu) | N/A |
+| 18 | [Orubebe](http://twitter.com/search?q=Orubebe) | N/A |
+| 19 | [IREV](http://twitter.com/search?q=IREV) | N/A |
+| 20 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
+| 21 | [Royals](http://twitter.com/search?q=Royals) | N/A |
+| 22 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 23 | [Labour Party](http://twitter.com/search?q=Labour+Party) | N/A |
+| 24 | [Enugu](http://twitter.com/search?q=Enugu) | N/A |
+| 25 | [Abuja](http://twitter.com/search?q=Abuja) | N/A |
+| 26 | [Givenchy](http://twitter.com/search?q=Givenchy) | N/A |
+| 27 | [Rigged](http://twitter.com/search?q=Rigged) | N/A |
+| 28 | [Kaniva](http://twitter.com/search?q=Kaniva) | N/A |
+| 29 | [North](http://twitter.com/search?q=North) | N/A |
+| 30 | [Rigging](http://twitter.com/search?q=Rigging) | N/A |
+| 31 | [Thabana](http://twitter.com/search?q=Thabana) | Thabana is a Sesotho word meaning “to be brave” or “to have courage”. It is often used as a rallying cry for people to stand up and take action in the face of adversity. |
+| 32 | [11th of March](http://twitter.com/search?q=11th+of+March) | N/A |
+| 33 | [Wike](http://twitter.com/search?q=Wike) | Wike is a term used in the Philippines to refer to a person who is knowledgeable or wise. It is derived from the Tagalog word "wikain," which means "to know." In English, it can be translated as "wise" or "knowledgeable." |
+| 34 | [Ebubu](http://twitter.com/search?q=Ebubu) | Ebubu is a Nigerian language spoken by the Ebubu people in Rivers State, Nigeria. It is a dialect of the Igbo language and its meaning in English is "people". |
+| 35 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
+| 36 | [IT IS DONE](http://twitter.com/search?q=IT+IS+DONE) | IT IS DONE is an expression used to indicate that a task or project has been completed. It is often used as a declaration of accomplishment or success. |
+| 37 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
+| 38 | [Congratulations Sir](http://twitter.com/search?q=Congratulations+Sir) | N/A |
+| 39 | [LP- 1,125,400](http://twitter.com/search?q=LP-+1%2c125%2c400) | N/A |
+| 40 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 41 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
+| 42 | [Eti-Osa](http://twitter.com/search?q=Eti-Osa) | N/A |
+| 43 | [Maurice Iwu](http://twitter.com/search?q=Maurice+Iwu) | N/A |
+| 44 | [Kenneth Okonkwo](http://twitter.com/search?q=Kenneth+Okonkwo) | Kenneth Okonkwo is a Nigerian name, derived from the Igbo language. It is composed of two elements: Kenneth, which means “handsome” or “good-looking”, and Okonkwo, which means “brave” or “valiant”. Together, the name Kenneth Okonkwo can be translated to mean “handsome and brave”. |
+| 45 | [Akwa Ibom](http://twitter.com/search?q=Akwa+Ibom) | N/A |
+| 46 | [Mahmood Yakubu](http://twitter.com/search?q=Mahmood+Yakubu) | N/A |
+| 47 | [Gbadebo](http://twitter.com/search?q=Gbadebo) | N/A |
+| 48 | [Katsina](http://twitter.com/search?q=Katsina) | N/A |
+| 49 | [World Cup](http://twitter.com/search?q=World+Cup) | N/A |
+| 50 | [Nasarawa](http://twitter.com/search?q=Nasarawa) | N/A |
 
 
 

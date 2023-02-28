@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-02-28 00:29:18 UTC`
+📆 Last Updated: `2023-02-28 01:45:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,7 +18,7 @@ This is top 50 for Latvia
 | 1 | [#BETCrypto](http://twitter.com/search?q=%23BETCrypto) | N/A |
 | 2 | [Lielā Kristapa](http://twitter.com/search?q=Liel%c4%81+Kristapa) | N/A |
 | 3 | [Marija Luīze Meļķe](http://twitter.com/search?q=Marija+Lu%c4%abze+Me%c4%bc%c4%b7e) | N/A |
-| 4 | [Apsveicu](http://twitter.com/search?q=Apsveicu) | N/A |
+| 4 | [apsveicu](http://twitter.com/search?q=apsveicu) | N/A |
 | 5 | [The Office](http://twitter.com/search?q=The+Office) | N/A |
 | 6 | [IKEA](http://twitter.com/search?q=IKEA) | N/A |
 | 7 | [Bolt](http://twitter.com/search?q=Bolt) | N/A |
@@ -29,12 +29,12 @@ This is top 50 for Latvia
 | 12 | [Кстати](http://twitter.com/search?q=%d0%9a%d1%81%d1%82%d0%b0%d1%82%d0%b8) | N/A |
 | 13 | [satversmi](http://twitter.com/search?q=satversmi) | N/A |
 | 14 | [Covid](http://twitter.com/search?q=Covid) | N/A |
-| 15 | [Katram](http://twitter.com/search?q=Katram) | N/A |
+| 15 | [katram](http://twitter.com/search?q=katram) | N/A |
 | 16 | [#herpes](http://twitter.com/search?q=%23herpes) | N/A |
 | 17 | [kurzemes](http://twitter.com/search?q=kurzemes) | N/A |
-| 18 | [Tāpat](http://twitter.com/search?q=T%c4%81pat) | N/A |
+| 18 | [tāpat](http://twitter.com/search?q=t%c4%81pat) | N/A |
 | 19 | [Diezgan](http://twitter.com/search?q=Diezgan) | N/A |
-| 20 | [Zinu](http://twitter.com/search?q=Zinu) | N/A |
+| 20 | [zinu](http://twitter.com/search?q=zinu) | N/A |
 | 21 | [krievijai](http://twitter.com/search?q=krievijai) | N/A |
 | 22 | [zini](http://twitter.com/search?q=zini) | N/A |
 | 23 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
@@ -47,14 +47,14 @@ This is top 50 for Latvia
 | 30 | [avenu](http://twitter.com/search?q=avenu) | N/A |
 | 31 | [iesaku](http://twitter.com/search?q=iesaku) | N/A |
 | 32 | [Ja Tu](http://twitter.com/search?q=Ja+Tu) | N/A |
-| 33 | [Kādu](http://twitter.com/search?q=K%c4%81du) | N/A |
+| 33 | [kādu](http://twitter.com/search?q=k%c4%81du) | N/A |
 | 34 | [vajadzēja](http://twitter.com/search?q=vajadz%c4%93ja) | N/A |
 | 35 | [Labs](http://twitter.com/search?q=Labs) | N/A |
 | 36 | [#vertigo](http://twitter.com/search?q=%23vertigo) | N/A |
 | 37 | [Parasti](http://twitter.com/search?q=Parasti) | N/A |
 | 38 | [Paga](http://twitter.com/search?q=Paga) | N/A |
-| 39 | [Domā](http://twitter.com/search?q=Dom%c4%81) | N/A |
-| 40 | [Skaisti](http://twitter.com/search?q=Skaisti) | N/A |
+| 39 | [domā](http://twitter.com/search?q=dom%c4%81) | N/A |
+| 40 | [skaisti](http://twitter.com/search?q=skaisti) | N/A |
 | 41 | [Visa](http://twitter.com/search?q=Visa) | N/A |
 | 42 | [Блин](http://twitter.com/search?q=%d0%91%d0%bb%d0%b8%d0%bd) | N/A |
 | 43 | [Pats](http://twitter.com/search?q=Pats) | Pats is a slang term used to refer to someone who is being praised or congratulated. It can also be used as a verb, meaning to give someone praise or congratulations. |
