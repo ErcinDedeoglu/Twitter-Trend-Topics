@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For United Kingdom
 
-📆 Last Updated: `2023-02-28 19:17:28 UTC`
+📆 Last Updated: `2023-02-28 20:17:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for United Kingdom
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#FACup](http://twitter.com/search?q=%23FACup) | #FACup is an abbreviation for the Football Association Challenge Cup, which is an annual knockout football competition in England. It is the oldest football competition in the world and is open to all teams from the top four tiers of English football. |
-| 2 | [Peter Pan](http://twitter.com/search?q=Peter+Pan) | N/A |
-| 3 | [Oakeshott](http://twitter.com/search?q=Oakeshott) | N/A |
-| 4 | [#constancemarten](http://twitter.com/search?q=%23constancemarten) | N/A |
-| 5 | [Carole](http://twitter.com/search?q=Carole) | N/A |
-| 6 | [#Destiny2Lightfall](http://twitter.com/search?q=%23Destiny2Lightfall) | N/A |
-| 7 | [Isabel](http://twitter.com/search?q=Isabel) | N/A |
-| 8 | [Ivan Toney](http://twitter.com/search?q=Ivan+Toney) | N/A |
-| 9 | [#AntonymFilmTitles](http://twitter.com/search?q=%23AntonymFilmTitles) | N/A |
-| 10 | [Banks](http://twitter.com/search?q=Banks) | N/A |
-| 11 | [#Creed3](http://twitter.com/search?q=%23Creed3) | N/A |
-| 12 | [Ayling](http://twitter.com/search?q=Ayling) | Ayling is a surname of English origin. It is derived from the Old English personal name Aethelwine, which means "noble friend". |
-| 13 | [Jacqui Smith](http://twitter.com/search?q=Jacqui+Smith) | N/A |
-| 14 | [Single Market](http://twitter.com/search?q=Single+Market) | N/A |
-| 15 | [AC Milan](http://twitter.com/search?q=AC+Milan) | AC Milan is a professional Italian football club based in Milan, Italy. The club is one of the most successful teams in the world, having won 18 FIFA and UEFA titles. The acronym AC stands for Associazione Calcio (Italian for Football Association). |
-| 16 | [Wike](http://twitter.com/search?q=Wike) | Wike is a term used in the Philippines to refer to a person who is knowledgeable or wise. It is derived from the Tagalog word "wikain," which means "to know." In English, it can be translated as "wise" or "knowledgeable." |
-| 17 | [Roca](http://twitter.com/search?q=Roca) | N/A |
-| 18 | [Wellingborough](http://twitter.com/search?q=Wellingborough) | N/A |
-| 19 | [Scotland and Wales](http://twitter.com/search?q=Scotland+and+Wales) | N/A |
-| 20 | [Final Fantasy XVI](http://twitter.com/search?q=Final+Fantasy+XVI) | N/A |
-| 21 | [Broxtowe](http://twitter.com/search?q=Broxtowe) | N/A |
-| 22 | [St David](http://twitter.com/search?q=St+David) | N/A |
-| 23 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
-| 24 | [Tom Sizemore](http://twitter.com/search?q=Tom+Sizemore) | N/A |
-| 25 | [Bristol City](http://twitter.com/search?q=Bristol+City) | N/A |
-| 26 | [UK and EU](http://twitter.com/search?q=UK+and+EU) | N/A |
-| 27 | [Ashton Gate](http://twitter.com/search?q=Ashton+Gate) | N/A |
-| 28 | [Year 6](http://twitter.com/search?q=Year+6) | N/A |
-| 29 | [Wales and Scotland](http://twitter.com/search?q=Wales+and+Scotland) | N/A |
-| 30 | [Novak](http://twitter.com/search?q=Novak) | Novak is a surname of Slavic origin. It is derived from the word "nov", meaning "new". The name is most commonly associated with the tennis player Novak Djokovic, who is one of the most successful players in the history of the sport. |
-| 31 | [Justin Bieber](http://twitter.com/search?q=Justin+Bieber) | N/A |
-| 32 | [Isla Bryson](http://twitter.com/search?q=Isla+Bryson) | N/A |
-| 33 | [Malone](http://twitter.com/search?q=Malone) | N/A |
-| 34 | [Coca Cola](http://twitter.com/search?q=Coca+Cola) | N/A |
-| 35 | [Lions](http://twitter.com/search?q=Lions) | Lions are large cats that live in parts of Africa and India. They are the second-largest living cat species after tigers, and they are known for their strength, courage, and majestic appearance. The term "lion" is often used as a metaphor for strength and courage. |
-| 36 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
-| 37 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 38 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
-| 39 | [Adam Graham](http://twitter.com/search?q=Adam+Graham) | N/A |
-| 40 | [Pete Davidson](http://twitter.com/search?q=Pete+Davidson) | Pete Davidson is an American comedian, actor, and writer. He is best known for being a cast member on Saturday Night Live since 2014. He has also appeared in films such as Big Time Adolescence and The King of Staten Island. |
-| 41 | [European Union](http://twitter.com/search?q=European+Union) | N/A |
-| 42 | [History Month](http://twitter.com/search?q=History+Month) | N/A |
-| 43 | [Elden Ring DLC](http://twitter.com/search?q=Elden+Ring+DLC) | N/A |
-| 44 | [EU and UK](http://twitter.com/search?q=EU+and+UK) | N/A |
-| 45 | [Mark Gordon](http://twitter.com/search?q=Mark+Gordon) | N/A |
-| 46 | [UK and the EU](http://twitter.com/search?q=UK+and+the+EU) | N/A |
-| 47 | [Abuja](http://twitter.com/search?q=Abuja) | N/A |
-| 48 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 49 | [Reception](http://twitter.com/search?q=Reception) | N/A |
-| 50 | [#houseofgames](http://twitter.com/search?q=%23houseofgames) | N/A |
+| 1 | [#FULLEE](http://twitter.com/search?q=%23FULLEE) | N/A |
+| 2 | [#FACup](http://twitter.com/search?q=%23FACup) | #FACup is an abbreviation for the Football Association Challenge Cup, which is an annual knockout football competition in England. It is the oldest football competition in the world and is open to all teams from the top four tiers of English football. |
+| 3 | [Amartey](http://twitter.com/search?q=Amartey) | N/A |
+| 4 | [Meslier](http://twitter.com/search?q=Meslier) | N/A |
+| 5 | [#BRCMCI](http://twitter.com/search?q=%23BRCMCI) | N/A |
+| 6 | [Palhinha](http://twitter.com/search?q=Palhinha) | Palhinha is a Portuguese slang term that means “little one” or “darling.” It is often used as an affectionate term of endearment for someone close to you, such as a child, friend, or partner. |
+| 7 | [Bristol City](http://twitter.com/search?q=Bristol+City) | N/A |
+| 8 | [Ashton Gate](http://twitter.com/search?q=Ashton+Gate) | N/A |
+| 9 | [Luke Thomas](http://twitter.com/search?q=Luke+Thomas) | N/A |
+| 10 | [#QIHour](http://twitter.com/search?q=%23QIHour) | N/A |
+| 11 | [#BHAFC](http://twitter.com/search?q=%23BHAFC) | N/A |
+| 12 | [Dolan](http://twitter.com/search?q=Dolan) | N/A |
+| 13 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 14 | [Evan Ferguson](http://twitter.com/search?q=Evan+Ferguson) | Evan Ferguson is a Scottish surname. It is derived from the Gaelic name Fergus, which means "strong man". The name is most commonly found in Scotland and Northern Ireland. |
+| 15 | [Roca](http://twitter.com/search?q=Roca) | N/A |
+| 16 | [Peter Pan](http://twitter.com/search?q=Peter+Pan) | N/A |
+| 17 | [Adams](http://twitter.com/search?q=Adams) | N/A |
+| 18 | [Cremonese](http://twitter.com/search?q=Cremonese) | N/A |
+| 19 | [McKennie](http://twitter.com/search?q=McKennie) | McKennie is a surname of Scottish origin. It is derived from the Gaelic MacCoinneach, meaning "son of Coinneach". |
+| 20 | [Alex Scott](http://twitter.com/search?q=Alex+Scott) | N/A |
+| 21 | [Craven Cottage](http://twitter.com/search?q=Craven+Cottage) | N/A |
+| 22 | [Carole](http://twitter.com/search?q=Carole) | N/A |
+| 23 | [Banks](http://twitter.com/search?q=Banks) | N/A |
+| 24 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
+| 25 | [Blackburn](http://twitter.com/search?q=Blackburn) | N/A |
+| 26 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
+| 27 | [Oakeshott](http://twitter.com/search?q=Oakeshott) | N/A |
+| 28 | [Dunk](http://twitter.com/search?q=Dunk) | N/A |
+| 29 | [Ayling](http://twitter.com/search?q=Ayling) | Ayling is a surname of English origin. It is derived from the Old English personal name Aethelwine, which means "noble friend". |
+| 30 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
+| 31 | [Isabel](http://twitter.com/search?q=Isabel) | N/A |
+| 32 | [Kalvin Phillips](http://twitter.com/search?q=Kalvin+Phillips) | N/A |
+| 33 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
+| 34 | [Fulham v Leeds](http://twitter.com/search?q=Fulham+v+Leeds) | N/A |
+| 35 | [St David](http://twitter.com/search?q=St+David) | N/A |
+| 36 | [Michael Gove](http://twitter.com/search?q=Michael+Gove) | N/A |
+| 37 | [Wellingborough](http://twitter.com/search?q=Wellingborough) | N/A |
+| 38 | [Deepdale](http://twitter.com/search?q=Deepdale) | N/A |
+| 39 | [Single Market](http://twitter.com/search?q=Single+Market) | N/A |
+| 40 | [Jacqui](http://twitter.com/search?q=Jacqui) | N/A |
+| 41 | [Gabriel Jesus](http://twitter.com/search?q=Gabriel+Jesus) | Gabriel Jesus is a Brazilian professional footballer who plays as a forward for Premier League club Manchester City and the Brazil national team. His name in English translates to "God is my salvation". |
+| 42 | [Wike](http://twitter.com/search?q=Wike) | Wike is a term used in the Philippines to refer to a person who is knowledgeable or wise. It is derived from the Tagalog word "wikain," which means "to know." In English, it can be translated as "wise" or "knowledgeable." |
+| 43 | [AC Milan](http://twitter.com/search?q=AC+Milan) | AC Milan is a professional Italian football club based in Milan, Italy. The club is one of the most successful teams in the world, having won 18 FIFA and UEFA titles. The acronym AC stands for Associazione Calcio (Italian for Football Association). |
+| 44 | [Final Fantasy XVI](http://twitter.com/search?q=Final+Fantasy+XVI) | N/A |
+| 45 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
+| 46 | [London Bridge](http://twitter.com/search?q=London+Bridge) | N/A |
+| 47 | [Broxtowe](http://twitter.com/search?q=Broxtowe) | N/A |
+| 48 | [Tom Sizemore](http://twitter.com/search?q=Tom+Sizemore) | N/A |
+| 49 | [Scotland and Wales](http://twitter.com/search?q=Scotland+and+Wales) | N/A |
+| 50 | [UK and EU](http://twitter.com/search?q=UK+and+EU) | N/A |
 
 
 

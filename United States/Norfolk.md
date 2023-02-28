@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Norfolk
 
-📆 Last Updated: `2023-02-28 19:17:16 UTC`
+📆 Last Updated: `2023-02-28 20:16:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#studentloanforgiveness](http://twitter.com/search?q=%23studentloanforgiveness) | N/A |
-| 2 | [#RareDiseaseDay](http://twitter.com/search?q=%23RareDiseaseDay) | N/A |
-| 3 | [#Lightfall](http://twitter.com/search?q=%23Lightfall) | N/A |
-| 4 | [Dreamville](http://twitter.com/search?q=Dreamville) | N/A |
-| 5 | [Peter Pan](http://twitter.com/search?q=Peter+Pan) | N/A |
-| 6 | [Julie Su](http://twitter.com/search?q=Julie+Su) | N/A |
-| 7 | [Quintana](http://twitter.com/search?q=Quintana) | N/A |
-| 8 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
-| 9 | [Start Russ](http://twitter.com/search?q=Start+Russ) | N/A |
-| 10 | [SCOTUS](http://twitter.com/search?q=SCOTUS) | SCOTUS is an acronym for the Supreme Court of the United States. It is the highest court in the United States and is responsible for interpreting and applying federal laws. |
-| 11 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
-| 12 | [David Lowery](http://twitter.com/search?q=David+Lowery) | N/A |
-| 13 | [GIVE US WN BLOOPERS](http://twitter.com/search?q=GIVE+US+WN+BLOOPERS) | N/A |
-| 14 | [Gavin Lux](http://twitter.com/search?q=Gavin+Lux) | N/A |
-| 15 | [FFXVI](http://twitter.com/search?q=FFXVI) | N/A |
-| 16 | [Start Dame](http://twitter.com/search?q=Start+Dame) | N/A |
-| 17 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 18 | [Patrick Corbin](http://twitter.com/search?q=Patrick+Corbin) | N/A |
-| 19 | [Dave Grohl](http://twitter.com/search?q=Dave+Grohl) | N/A |
-| 20 | [#GuardianGiveaways](http://twitter.com/search?q=%23GuardianGiveaways) | N/A |
-| 21 | [Jamie Raskin](http://twitter.com/search?q=Jamie+Raskin) | N/A |
-| 22 | [Start Kyrie](http://twitter.com/search?q=Start+Kyrie) | N/A |
-| 23 | [SEIZED](http://twitter.com/search?q=SEIZED) | N/A |
-| 24 | [Bench Dame](http://twitter.com/search?q=Bench+Dame) | N/A |
-| 25 | [Mariota](http://twitter.com/search?q=Mariota) | N/A |
-| 26 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
-| 27 | [Nudy](http://twitter.com/search?q=Nudy) | N/A |
-| 28 | [Sean Desai](http://twitter.com/search?q=Sean+Desai) | N/A |
-| 29 | [Kenny Golladay](http://twitter.com/search?q=Kenny+Golladay) | Kenny Golladay is an American football wide receiver for the Detroit Lions of the National Football League (NFL). He was drafted by the Lions in the third round of the 2017 NFL Draft. His name is a combination of his first and last names, Kenny and Golladay. |
-| 30 | [Puljujarvi](http://twitter.com/search?q=Puljujarvi) | N/A |
-| 31 | [Perk](http://twitter.com/search?q=Perk) | N/A |
-| 32 | [Tinkerbell](http://twitter.com/search?q=Tinkerbell) | N/A |
-| 33 | [Ian Anderson](http://twitter.com/search?q=Ian+Anderson) | N/A |
-| 34 | [Bench Kyrie](http://twitter.com/search?q=Bench+Kyrie) | N/A |
-| 35 | [Cut Kyrie](http://twitter.com/search?q=Cut+Kyrie) | N/A |
-| 36 | [Cut Russ](http://twitter.com/search?q=Cut+Russ) | N/A |
-| 37 | [Joanna McClinton](http://twitter.com/search?q=Joanna+McClinton) | N/A |
-| 38 | [Cut Dame](http://twitter.com/search?q=Cut+Dame) | N/A |
-| 39 | [Bench Russ](http://twitter.com/search?q=Bench+Russ) | N/A |
-| 40 | [Eric Adams](http://twitter.com/search?q=Eric+Adams) | N/A |
-| 41 | [Miquella](http://twitter.com/search?q=Miquella) | N/A |
-| 42 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
-| 43 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
-| 44 | [One Moment Please](http://twitter.com/search?q=One+Moment+Please) | N/A |
-| 45 | [Usher](http://twitter.com/search?q=Usher) | N/A |
-| 46 | [Joe Schoen](http://twitter.com/search?q=Joe+Schoen) | N/A |
-| 47 | [Pete's Dragon](http://twitter.com/search?q=Pete%27s+Dragon) | N/A |
-| 48 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 49 | [Final Fantasy](http://twitter.com/search?q=Final+Fantasy) | N/A |
+| 1 | [Dan Snyder](http://twitter.com/search?q=Dan+Snyder) | N/A |
+| 2 | [Patrick Kane](http://twitter.com/search?q=Patrick+Kane) | N/A |
+| 3 | [#studentloanforgiveness](http://twitter.com/search?q=%23studentloanforgiveness) | N/A |
+| 4 | [#TSTheErasTour](http://twitter.com/search?q=%23TSTheErasTour) | N/A |
+| 5 | [#BeyondFast](http://twitter.com/search?q=%23BeyondFast) | #BeyondFast is a hashtag used to describe something that goes beyond the speed of fast. It is used to emphasize the idea that something is faster than fast, or that it surpasses the speed of fast. |
+| 6 | [#RareDiseaseDay](http://twitter.com/search?q=%23RareDiseaseDay) | N/A |
+| 7 | [Kaner](http://twitter.com/search?q=Kaner) | N/A |
+| 8 | [Julie Su](http://twitter.com/search?q=Julie+Su) | N/A |
+| 9 | [Peter Pan](http://twitter.com/search?q=Peter+Pan) | N/A |
+| 10 | [Dave Grohl](http://twitter.com/search?q=Dave+Grohl) | N/A |
+| 11 | [#PMSLive](http://twitter.com/search?q=%23PMSLive) | N/A |
+| 12 | [Leonard Fournette](http://twitter.com/search?q=Leonard+Fournette) | N/A |
+| 13 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
+| 14 | [Dreamville](http://twitter.com/search?q=Dreamville) | N/A |
+| 15 | [SCOTUS](http://twitter.com/search?q=SCOTUS) | SCOTUS is an acronym for the Supreme Court of the United States. It is the highest court in the United States and is responsible for interpreting and applying federal laws. |
+| 16 | [Jamie Raskin](http://twitter.com/search?q=Jamie+Raskin) | N/A |
+| 17 | [GIVE US WN BLOOPERS](http://twitter.com/search?q=GIVE+US+WN+BLOOPERS) | N/A |
+| 18 | [Rachaad White](http://twitter.com/search?q=Rachaad+White) | N/A |
+| 19 | [New York Ranger](http://twitter.com/search?q=New+York+Ranger) | N/A |
+| 20 | [Quintana](http://twitter.com/search?q=Quintana) | N/A |
+| 21 | [Patty Kane](http://twitter.com/search?q=Patty+Kane) | N/A |
+| 22 | [Start Dame](http://twitter.com/search?q=Start+Dame) | N/A |
+| 23 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 24 | [Blackhawks](http://twitter.com/search?q=Blackhawks) | N/A |
+| 25 | [David Lowery](http://twitter.com/search?q=David+Lowery) | N/A |
+| 26 | [Start Kyrie](http://twitter.com/search?q=Start+Kyrie) | N/A |
+| 27 | [Start Russ](http://twitter.com/search?q=Start+Russ) | N/A |
+| 28 | [Tinkerbell](http://twitter.com/search?q=Tinkerbell) | N/A |
+| 29 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 30 | [FFXVI](http://twitter.com/search?q=FFXVI) | N/A |
+| 31 | [Bench Russ](http://twitter.com/search?q=Bench+Russ) | N/A |
+| 32 | [SEIZED](http://twitter.com/search?q=SEIZED) | N/A |
+| 33 | [Sean Desai](http://twitter.com/search?q=Sean+Desai) | N/A |
+| 34 | [Nudy](http://twitter.com/search?q=Nudy) | N/A |
+| 35 | [Ricou Browning](http://twitter.com/search?q=Ricou+Browning) | N/A |
+| 36 | [Mariota](http://twitter.com/search?q=Mariota) | N/A |
+| 37 | [Bench Dame](http://twitter.com/search?q=Bench+Dame) | N/A |
+| 38 | [Chris Drury](http://twitter.com/search?q=Chris+Drury) | N/A |
+| 39 | [Puljujarvi](http://twitter.com/search?q=Puljujarvi) | N/A |
+| 40 | [Gavin Lux](http://twitter.com/search?q=Gavin+Lux) | N/A |
+| 41 | [Cut Dame](http://twitter.com/search?q=Cut+Dame) | N/A |
+| 42 | [Bench Kyrie](http://twitter.com/search?q=Bench+Kyrie) | N/A |
+| 43 | [Cut Kyrie](http://twitter.com/search?q=Cut+Kyrie) | N/A |
+| 44 | [Perk](http://twitter.com/search?q=Perk) | N/A |
+| 45 | [McGinn](http://twitter.com/search?q=McGinn) | McGinn is a surname of Irish origin. It is derived from the Gaelic Mac Fhionnghain, meaning "son of the fair-haired one". |
+| 46 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
+| 47 | [John Lynch](http://twitter.com/search?q=John+Lynch) | John Lynch is a common Irish surname. It is derived from the Gaelic name Mac Giolla Eoin, which means "son of the devotee of St. John". The name is most commonly associated with the Irish counties of Donegal and Mayo. |
+| 48 | [Cremonese](http://twitter.com/search?q=Cremonese) | N/A |
+| 49 | [Kodak](http://twitter.com/search?q=Kodak) | N/A |
 
 
 

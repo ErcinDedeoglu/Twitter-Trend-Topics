@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hai Phong
 
-📆 Last Updated: `2023-02-28 19:17:00 UTC`
+📆 Last Updated: `2023-02-28 20:16:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -55,16 +55,16 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 38 | [Character DAO](http://twitter.com/search?q=Character+DAO) | N/A |
 | 39 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
 | 40 | [Army](http://twitter.com/search?q=Army) | N/A |
-| 41 | [Thằng](http://twitter.com/search?q=Th%e1%ba%b1ng) | N/A |
+| 41 | [thằng](http://twitter.com/search?q=th%e1%ba%b1ng) | N/A |
 | 42 | [RSVP'ed](http://twitter.com/search?q=RSVP%27ed) | N/A |
 | 43 | [chịch](http://twitter.com/search?q=ch%e1%bb%8bch) | N/A |
-| 44 | [ETHW](http://twitter.com/search?q=ETHW) | N/A |
-| 45 | [Chúc](http://twitter.com/search?q=Ch%c3%bac) | N/A |
-| 46 | [Trông](http://twitter.com/search?q=Tr%c3%b4ng) | N/A |
-| 47 | [Singapore](http://twitter.com/search?q=Singapore) | N/A |
-| 48 | [My Address](http://twitter.com/search?q=My+Address) | N/A |
-| 49 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
-| 50 | [Mông](http://twitter.com/search?q=M%c3%b4ng) | N/A |
+| 44 | [Ngon](http://twitter.com/search?q=Ngon) | N/A |
+| 45 | [ETHW](http://twitter.com/search?q=ETHW) | N/A |
+| 46 | [Chúc](http://twitter.com/search?q=Ch%c3%bac) | N/A |
+| 47 | [Trông](http://twitter.com/search?q=Tr%c3%b4ng) | N/A |
+| 48 | [Singapore](http://twitter.com/search?q=Singapore) | N/A |
+| 49 | [My Address](http://twitter.com/search?q=My+Address) | N/A |
+| 50 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Adelaide
 
-📆 Last Updated: `2023-02-28 19:16:52 UTC`
+📆 Last Updated: `2023-02-28 20:16:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [Australia](</Australia>)
 | 1 | [#NZvENG](http://twitter.com/search?q=%23NZvENG) | N/A |
 | 2 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 3 | [#SurvivorAU](http://twitter.com/search?q=%23SurvivorAU) | N/A |
-| 4 | [Flick](http://twitter.com/search?q=Flick) | N/A |
-| 5 | [#mafsau](http://twitter.com/search?q=%23mafsau) | N/A |
-| 6 | [Father Bob](http://twitter.com/search?q=Father+Bob) | N/A |
+| 4 | [Stuart Robert](http://twitter.com/search?q=Stuart+Robert) | N/A |
+| 5 | [Flick](http://twitter.com/search?q=Flick) | N/A |
+| 6 | [#MAFSAU](http://twitter.com/search?q=%23MAFSAU) | N/A |
 | 7 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
 | 8 | [Sandy](http://twitter.com/search?q=Sandy) | N/A |
-| 9 | [Stuart Robert](http://twitter.com/search?q=Stuart+Robert) | N/A |
+| 9 | [Father Bob](http://twitter.com/search?q=Father+Bob) | N/A |
 | 10 | [Shaun](http://twitter.com/search?q=Shaun) | N/A |
-| 11 | [Keenan](http://twitter.com/search?q=Keenan) | N/A |
-| 12 | [renee leon](http://twitter.com/search?q=renee+leon) | N/A |
-| 13 | [Sarah Ferguson](http://twitter.com/search?q=Sarah+Ferguson) | N/A |
-| 14 | [Rupert Murdoch](http://twitter.com/search?q=Rupert+Murdoch) | N/A |
-| 15 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
+| 11 | [Autumn](http://twitter.com/search?q=Autumn) | N/A |
+| 12 | [Sarah Ferguson](http://twitter.com/search?q=Sarah+Ferguson) | N/A |
+| 13 | [Rupert Murdoch](http://twitter.com/search?q=Rupert+Murdoch) | N/A |
+| 14 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
+| 15 | [Renee Leon](http://twitter.com/search?q=Renee+Leon) | N/A |
 | 16 | [Lismore](http://twitter.com/search?q=Lismore) | N/A |
-| 17 | [Test Cricket](http://twitter.com/search?q=Test+Cricket) | N/A |
-| 18 | [Hayley](http://twitter.com/search?q=Hayley) | N/A |
-| 19 | [Joffa](http://twitter.com/search?q=Joffa) | N/A |
-| 20 | [Angus](http://twitter.com/search?q=Angus) | N/A |
+| 17 | [Keenan](http://twitter.com/search?q=Keenan) | N/A |
+| 18 | [Test Cricket](http://twitter.com/search?q=Test+Cricket) | N/A |
+| 19 | [Hayley](http://twitter.com/search?q=Hayley) | N/A |
+| 20 | [Joffa](http://twitter.com/search?q=Joffa) | N/A |
 | 21 | [Shonee](http://twitter.com/search?q=Shonee) | N/A |
 | 22 | [marzhew](http://twitter.com/search?q=marzhew) | N/A |
-| 23 | [Sussan](http://twitter.com/search?q=Sussan) | N/A |
-| 24 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
-| 25 | [Fauci](http://twitter.com/search?q=Fauci) | N/A |
-| 26 | [Mardi Gras](http://twitter.com/search?q=Mardi+Gras) | N/A |
-| 27 | [Kathryn Campbell](http://twitter.com/search?q=Kathryn+Campbell) | N/A |
-| 28 | [Tayla](http://twitter.com/search?q=Tayla) | N/A |
-| 29 | [Neil Wagner](http://twitter.com/search?q=Neil+Wagner) | N/A |
-| 30 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
-| 31 | [rowan dean](http://twitter.com/search?q=rowan+dean) | N/A |
-| 32 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
-| 33 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
+| 23 | [Ronni](http://twitter.com/search?q=Ronni) | Ronni is a female given name, derived from the name Veronica. It is a diminutive form of the name, and can be used as a nickname. The meaning of Ronni in English is "true image". |
+| 24 | [Angus Taylor](http://twitter.com/search?q=Angus+Taylor) | N/A |
+| 25 | [Sussan](http://twitter.com/search?q=Sussan) | N/A |
+| 26 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
+| 27 | [Fauci](http://twitter.com/search?q=Fauci) | N/A |
+| 28 | [Mardi Gras](http://twitter.com/search?q=Mardi+Gras) | N/A |
+| 29 | [Kathryn Campbell](http://twitter.com/search?q=Kathryn+Campbell) | N/A |
+| 30 | [Neil Wagner](http://twitter.com/search?q=Neil+Wagner) | N/A |
+| 31 | [Tayla](http://twitter.com/search?q=Tayla) | N/A |
+| 32 | [rowan dean](http://twitter.com/search?q=rowan+dean) | N/A |
+| 33 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
 | 34 | [Daily Quordle 400](http://twitter.com/search?q=Daily+Quordle+400) | N/A |
-| 35 | [Luke Thompson](http://twitter.com/search?q=Luke+Thompson) | N/A |
-| 36 | [nsw cup](http://twitter.com/search?q=nsw+cup) | N/A |
-| 37 | [saul griffith](http://twitter.com/search?q=saul+griffith) | N/A |
-| 38 | [Lita](http://twitter.com/search?q=Lita) | N/A |
-| 39 | [Creed III](http://twitter.com/search?q=Creed+III) | N/A |
-| 40 | [Pocock](http://twitter.com/search?q=Pocock) | N/A |
-| 41 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
-| 42 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
-| 43 | [Walking Wake](http://twitter.com/search?q=Walking+Wake) | N/A |
-| 44 | [Lyndall](http://twitter.com/search?q=Lyndall) | N/A |
-| 45 | [Jimmy Anderson](http://twitter.com/search?q=Jimmy+Anderson) | N/A |
-| 46 | [Suicune](http://twitter.com/search?q=Suicune) | N/A |
-| 47 | [brother stuie](http://twitter.com/search?q=brother+stuie) | N/A |
-| 48 | [Allegra](http://twitter.com/search?q=Allegra) | N/A |
-| 49 | [Foakes](http://twitter.com/search?q=Foakes) | N/A |
+| 35 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 36 | [Luke Thompson](http://twitter.com/search?q=Luke+Thompson) | N/A |
+| 37 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
+| 38 | [nsw cup](http://twitter.com/search?q=nsw+cup) | N/A |
+| 39 | [saul griffith](http://twitter.com/search?q=saul+griffith) | N/A |
+| 40 | [Lita](http://twitter.com/search?q=Lita) | N/A |
+| 41 | [Creed III](http://twitter.com/search?q=Creed+III) | N/A |
+| 42 | [Pocock](http://twitter.com/search?q=Pocock) | N/A |
+| 43 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
+| 44 | [The Project](http://twitter.com/search?q=The+Project) | N/A |
+| 45 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
+| 46 | [Walking Wake](http://twitter.com/search?q=Walking+Wake) | N/A |
+| 47 | [Lyndall](http://twitter.com/search?q=Lyndall) | N/A |
+| 48 | [Jimmy Anderson](http://twitter.com/search?q=Jimmy+Anderson) | N/A |
+| 49 | [Suicune](http://twitter.com/search?q=Suicune) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico City
 
-📆 Last Updated: `2023-02-28 19:16:36 UTC`
+📆 Last Updated: `2023-02-28 20:16:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,56 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 2 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
-| 3 | [#SquidCraft2](http://twitter.com/search?q=%23SquidCraft2) | N/A |
-| 4 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 5 | [Monterrey](http://twitter.com/search?q=Monterrey) | N/A |
-| 6 | [#PeterPanAndWendy](http://twitter.com/search?q=%23PeterPanAndWendy) | N/A |
+| 1 | [#incendio](http://twitter.com/search?q=%23incendio) | N/A |
+| 2 | [Dinamarca](http://twitter.com/search?q=Dinamarca) | N/A |
+| 3 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 4 | [#SalarioRosaContinua](http://twitter.com/search?q=%23SalarioRosaContinua) | N/A |
+| 5 | [#SquidCraft2](http://twitter.com/search?q=%23SquidCraft2) | N/A |
+| 6 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
 | 7 | [Xalostoc](http://twitter.com/search?q=Xalostoc) | N/A |
-| 8 | [tina](http://twitter.com/search?q=tina) | N/A |
-| 9 | [Samuel](http://twitter.com/search?q=Samuel) | N/A |
-| 10 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
-| 11 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
-| 12 | [#PoderosoConCalor](http://twitter.com/search?q=%23PoderosoConCalor) | N/A |
-| 13 | [Lorena Merino](http://twitter.com/search?q=Lorena+Merino) | N/A |
-| 14 | [#JISOOxDiorAW23](http://twitter.com/search?q=%23JISOOxDiorAW23) | N/A |
-| 15 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
-| 16 | [Santa Catarina](http://twitter.com/search?q=Santa+Catarina) | N/A |
-| 17 | [hannah montana](http://twitter.com/search?q=hannah+montana) | N/A |
-| 18 | [Quackity](http://twitter.com/search?q=Quackity) | N/A |
-| 19 | [ASTRO](http://twitter.com/search?q=ASTRO) | N/A |
-| 20 | [Perú](http://twitter.com/search?q=Per%c3%ba) | Perú is the official name of a country in South America. It is bordered by Ecuador and Colombia to the north, Brazil and Bolivia to the east, Chile to the south, and the Pacific Ocean to the west. The name Perú comes from a word in the native Quechua language meaning "land of abundance." |
-| 21 | [Stephen Colbert](http://twitter.com/search?q=Stephen+Colbert) | N/A |
-| 22 | [Wactor](http://twitter.com/search?q=Wactor) | N/A |
-| 23 | [Palacio de Gobierno](http://twitter.com/search?q=Palacio+de+Gobierno) | N/A |
-| 24 | [N.L.](http://twitter.com/search?q=N.L.) | N/A |
-| 25 | [Día Mundial](http://twitter.com/search?q=D%c3%ada+Mundial) | N/A |
-| 26 | [Texas](http://twitter.com/search?q=Texas) | N/A |
-| 27 | [Washington](http://twitter.com/search?q=Washington) | N/A |
-| 28 | [Elden Ring](http://twitter.com/search?q=Elden+Ring) | N/A |
-| 29 | [Pemex](http://twitter.com/search?q=Pemex) | N/A |
-| 30 | [Martes 28](http://twitter.com/search?q=Martes+28) | N/A |
-| 31 | [Casillas](http://twitter.com/search?q=Casillas) | N/A |
-| 32 | [Rubius](http://twitter.com/search?q=Rubius) | Rubius is a Latin word meaning "red". It is often used to describe the color of hair, eyes, or skin. |
-| 33 | [Aluxe](http://twitter.com/search?q=Aluxe) | N/A |
-| 34 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
-| 35 | [Quedaste](http://twitter.com/search?q=Quedaste) | N/A |
-| 36 | [#FebreroSeVaYYo](http://twitter.com/search?q=%23FebreroSeVaYYo) | N/A |
-| 37 | [#EnfermedadesRaras](http://twitter.com/search?q=%23EnfermedadesRaras) | N/A |
-| 38 | [#HAPPY_WONHO_DAY](http://twitter.com/search?q=%23HAPPY_WONHO_DAY) | N/A |
-| 39 | [#DisneyPlus](http://twitter.com/search?q=%23DisneyPlus) | N/A |
-| 40 | [#BuenMartes](http://twitter.com/search?q=%23BuenMartes) | N/A |
-| 41 | [#MartesCiudadano](http://twitter.com/search?q=%23MartesCiudadano) | N/A |
-| 42 | [#AmloEstaDesesperado](http://twitter.com/search?q=%23AmloEstaDesesperado) | N/A |
-| 43 | [#AMLOBurlaMundial](http://twitter.com/search?q=%23AMLOBurlaMundial) | N/A |
-| 44 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 45 | [#AMLOverguenzamundial](http://twitter.com/search?q=%23AMLOverguenzamundial) | N/A |
-| 46 | [#COVID19](http://twitter.com/search?q=%23COVID19) | N/A |
-| 47 | [#ConferenciaPresidente](http://twitter.com/search?q=%23ConferenciaPresidente) | N/A |
+| 8 | [#Ecatepec](http://twitter.com/search?q=%23Ecatepec) | N/A |
+| 9 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 10 | [#Chalco](http://twitter.com/search?q=%23Chalco) | N/A |
+| 11 | [Monterrey](http://twitter.com/search?q=Monterrey) | N/A |
+| 12 | [tina](http://twitter.com/search?q=tina) | N/A |
+| 13 | [Cremonese](http://twitter.com/search?q=Cremonese) | N/A |
+| 14 | [Reyma](http://twitter.com/search?q=Reyma) | N/A |
+| 15 | [Angie](http://twitter.com/search?q=Angie) | N/A |
+| 16 | [Samuel](http://twitter.com/search?q=Samuel) | N/A |
+| 17 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 18 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
+| 19 | [Lorena Merino](http://twitter.com/search?q=Lorena+Merino) | N/A |
+| 20 | [Quackity](http://twitter.com/search?q=Quackity) | N/A |
+| 21 | [Tinkerbell](http://twitter.com/search?q=Tinkerbell) | N/A |
+| 22 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
+| 23 | [Auron](http://twitter.com/search?q=Auron) | Auron is a character from the popular video game series Final Fantasy. He is a powerful warrior who is known for his strength and wisdom. His name is derived from the Latin word aurum, which means "gold". In English, Auron can be translated to mean "golden one". |
+| 24 | [Santa Catarina](http://twitter.com/search?q=Santa+Catarina) | N/A |
+| 25 | [Astro](http://twitter.com/search?q=Astro) | N/A |
+| 26 | [hannah montana](http://twitter.com/search?q=hannah+montana) | N/A |
+| 27 | [Stephen Colbert](http://twitter.com/search?q=Stephen+Colbert) | N/A |
+| 28 | [Perú](http://twitter.com/search?q=Per%c3%ba) | Perú is the official name of a country in South America. It is bordered by Ecuador and Colombia to the north, Brazil and Bolivia to the east, Chile to the south, and the Pacific Ocean to the west. The name Perú comes from a word in the native Quechua language meaning "land of abundance." |
+| 29 | [Felipe Ángeles](http://twitter.com/search?q=Felipe+%c3%81ngeles) | N/A |
+| 30 | [Wactor](http://twitter.com/search?q=Wactor) | N/A |
+| 31 | [Palacio de Gobierno](http://twitter.com/search?q=Palacio+de+Gobierno) | N/A |
+| 32 | [N.L.](http://twitter.com/search?q=N.L.) | N/A |
+| 33 | [Carioca](http://twitter.com/search?q=Carioca) | N/A |
+| 34 | [Chumel](http://twitter.com/search?q=Chumel) | N/A |
+| 35 | [Autoevaluación HONESTA](http://twitter.com/search?q=Autoevaluaci%c3%b3n+HONESTA) | N/A |
+| 36 | [Día Mundial](http://twitter.com/search?q=D%c3%ada+Mundial) | N/A |
+| 37 | [Elden Ring](http://twitter.com/search?q=Elden+Ring) | N/A |
+| 38 | [Washington](http://twitter.com/search?q=Washington) | N/A |
+| 39 | [Texas](http://twitter.com/search?q=Texas) | N/A |
+| 40 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
+| 41 | [Rubius](http://twitter.com/search?q=Rubius) | Rubius is a Latin word meaning "red". It is often used to describe the color of hair, eyes, or skin. |
+| 42 | [Chayanne](http://twitter.com/search?q=Chayanne) | N/A |
+| 43 | [Pemex](http://twitter.com/search?q=Pemex) | N/A |
+| 44 | [Casillas](http://twitter.com/search?q=Casillas) | N/A |
+| 45 | [Martes 28](http://twitter.com/search?q=Martes+28) | N/A |
+| 46 | [#PeterPanAndWendy](http://twitter.com/search?q=%23PeterPanAndWendy) | N/A |
+| 47 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
+| 48 | [#EnfermedadesRaras](http://twitter.com/search?q=%23EnfermedadesRaras) | N/A |
+| 49 | [#JISOOxDiorAW23](http://twitter.com/search?q=%23JISOOxDiorAW23) | N/A |
+| 50 | [#HAPPY_WONHO_DAY](http://twitter.com/search?q=%23HAPPY_WONHO_DAY) | N/A |
 
 
 

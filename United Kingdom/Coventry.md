@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Coventry
 
-📆 Last Updated: `2023-02-28 19:16:33 UTC`
+📆 Last Updated: `2023-02-28 20:16:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#GuardianGiveaways](http://twitter.com/search?q=%23GuardianGiveaways) | N/A |
-| 2 | [#WorldBookDay2023](http://twitter.com/search?q=%23WorldBookDay2023) | N/A |
-| 3 | [#RishiSunak](http://twitter.com/search?q=%23RishiSunak) | #RishiSunak is the name of the current Chancellor of the Exchequer in the United Kingdom. The Exchequer is responsible for managing the government's finances, and Rishi Sunak has held this position since February 2020. |
-| 4 | [#RejoinEU](http://twitter.com/search?q=%23RejoinEU) | N/A |
-| 5 | [Peter Pan](http://twitter.com/search?q=Peter+Pan) | N/A |
-| 6 | [Oakeshott](http://twitter.com/search?q=Oakeshott) | N/A |
-| 7 | [Carole](http://twitter.com/search?q=Carole) | N/A |
-| 8 | [Isabel](http://twitter.com/search?q=Isabel) | N/A |
-| 9 | [Ivan Toney](http://twitter.com/search?q=Ivan+Toney) | N/A |
-| 10 | [Banks](http://twitter.com/search?q=Banks) | N/A |
-| 11 | [Jacqui Smith](http://twitter.com/search?q=Jacqui+Smith) | N/A |
-| 12 | [Single Market](http://twitter.com/search?q=Single+Market) | N/A |
-| 13 | [AC Milan](http://twitter.com/search?q=AC+Milan) | AC Milan is a professional Italian football club based in Milan, Italy. The club is one of the most successful teams in the world, having won 18 FIFA and UEFA titles. The acronym AC stands for Associazione Calcio (Italian for Football Association). |
-| 14 | [Wike](http://twitter.com/search?q=Wike) | Wike is a term used in the Philippines to refer to a person who is knowledgeable or wise. It is derived from the Tagalog word "wikain," which means "to know." In English, it can be translated as "wise" or "knowledgeable." |
-| 15 | [Wellingborough](http://twitter.com/search?q=Wellingborough) | N/A |
-| 16 | [Scotland and Wales](http://twitter.com/search?q=Scotland+and+Wales) | N/A |
-| 17 | [Roca](http://twitter.com/search?q=Roca) | N/A |
-| 18 | [Final Fantasy XVI](http://twitter.com/search?q=Final+Fantasy+XVI) | N/A |
-| 19 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
-| 20 | [Broxtowe](http://twitter.com/search?q=Broxtowe) | N/A |
-| 21 | [Tom Sizemore](http://twitter.com/search?q=Tom+Sizemore) | N/A |
-| 22 | [UK and EU](http://twitter.com/search?q=UK+and+EU) | N/A |
-| 23 | [St David](http://twitter.com/search?q=St+David) | N/A |
-| 24 | [Ashton Gate](http://twitter.com/search?q=Ashton+Gate) | N/A |
-| 25 | [Bristol City](http://twitter.com/search?q=Bristol+City) | N/A |
-| 26 | [Year 6](http://twitter.com/search?q=Year+6) | N/A |
-| 27 | [Novak](http://twitter.com/search?q=Novak) | Novak is a surname of Slavic origin. It is derived from the word "nov", meaning "new". The name is most commonly associated with the tennis player Novak Djokovic, who is one of the most successful players in the history of the sport. |
-| 28 | [Wales and Scotland](http://twitter.com/search?q=Wales+and+Scotland) | N/A |
-| 29 | [Isla Bryson](http://twitter.com/search?q=Isla+Bryson) | N/A |
-| 30 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 31 | [Malone](http://twitter.com/search?q=Malone) | N/A |
-| 32 | [Coca Cola](http://twitter.com/search?q=Coca+Cola) | N/A |
-| 33 | [Justin Bieber](http://twitter.com/search?q=Justin+Bieber) | N/A |
-| 34 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
-| 35 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
-| 36 | [Adam Graham](http://twitter.com/search?q=Adam+Graham) | N/A |
-| 37 | [Pete Davidson](http://twitter.com/search?q=Pete+Davidson) | Pete Davidson is an American comedian, actor, and writer. He is best known for being a cast member on Saturday Night Live since 2014. He has also appeared in films such as Big Time Adolescence and The King of Staten Island. |
-| 38 | [European Union](http://twitter.com/search?q=European+Union) | N/A |
-| 39 | [History Month](http://twitter.com/search?q=History+Month) | N/A |
-| 40 | [Elden Ring DLC](http://twitter.com/search?q=Elden+Ring+DLC) | N/A |
-| 41 | [EU and UK](http://twitter.com/search?q=EU+and+UK) | N/A |
-| 42 | [Mark Gordon](http://twitter.com/search?q=Mark+Gordon) | N/A |
-| 43 | [UK and the EU](http://twitter.com/search?q=UK+and+the+EU) | N/A |
-| 44 | [Abuja](http://twitter.com/search?q=Abuja) | N/A |
-| 45 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 46 | [Reception](http://twitter.com/search?q=Reception) | N/A |
-| 47 | [#electionresults2023](http://twitter.com/search?q=%23electionresults2023) | N/A |
-| 48 | [#FACup](http://twitter.com/search?q=%23FACup) | #FACup is an abbreviation for the Football Association Challenge Cup, which is an annual knockout football competition in England. It is the oldest football competition in the world and is open to all teams from the top four tiers of English football. |
-| 49 | [#Destiny2Lightfall](http://twitter.com/search?q=%23Destiny2Lightfall) | N/A |
+| 2 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
+| 3 | [#houseofgames](http://twitter.com/search?q=%23houseofgames) | N/A |
+| 4 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
+| 5 | [#OlivierAwards](http://twitter.com/search?q=%23OlivierAwards) | N/A |
+| 6 | [London Bridge](http://twitter.com/search?q=London+Bridge) | N/A |
+| 7 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 8 | [Wales and Scotland](http://twitter.com/search?q=Wales+and+Scotland) | N/A |
+| 9 | [Luke Thomas](http://twitter.com/search?q=Luke+Thomas) | N/A |
+| 10 | [Ashton Gate](http://twitter.com/search?q=Ashton+Gate) | N/A |
+| 11 | [Peter Pan](http://twitter.com/search?q=Peter+Pan) | N/A |
+| 12 | [Bristol City](http://twitter.com/search?q=Bristol+City) | N/A |
+| 13 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 14 | [Cremonese](http://twitter.com/search?q=Cremonese) | N/A |
+| 15 | [Evan Ferguson](http://twitter.com/search?q=Evan+Ferguson) | Evan Ferguson is a Scottish surname. It is derived from the Gaelic name Fergus, which means "strong man". The name is most commonly found in Scotland and Northern Ireland. |
+| 16 | [Craven Cottage](http://twitter.com/search?q=Craven+Cottage) | N/A |
+| 17 | [McKennie](http://twitter.com/search?q=McKennie) | McKennie is a surname of Scottish origin. It is derived from the Gaelic MacCoinneach, meaning "son of Coinneach". |
+| 18 | [Carole](http://twitter.com/search?q=Carole) | N/A |
+| 19 | [Banks](http://twitter.com/search?q=Banks) | N/A |
+| 20 | [Oakeshott](http://twitter.com/search?q=Oakeshott) | N/A |
+| 21 | [Ayling](http://twitter.com/search?q=Ayling) | Ayling is a surname of English origin. It is derived from the Old English personal name Aethelwine, which means "noble friend". |
+| 22 | [Ivan Toney](http://twitter.com/search?q=Ivan+Toney) | N/A |
+| 23 | [Alex Scott](http://twitter.com/search?q=Alex+Scott) | N/A |
+| 24 | [Isabel](http://twitter.com/search?q=Isabel) | N/A |
+| 25 | [Fulham v Leeds](http://twitter.com/search?q=Fulham+v+Leeds) | N/A |
+| 26 | [Michael Gove](http://twitter.com/search?q=Michael+Gove) | N/A |
+| 27 | [Wellingborough](http://twitter.com/search?q=Wellingborough) | N/A |
+| 28 | [St David](http://twitter.com/search?q=St+David) | N/A |
+| 29 | [Deepdale](http://twitter.com/search?q=Deepdale) | N/A |
+| 30 | [Single Market](http://twitter.com/search?q=Single+Market) | N/A |
+| 31 | [Broxtowe](http://twitter.com/search?q=Broxtowe) | N/A |
+| 32 | [Gabriel Jesus](http://twitter.com/search?q=Gabriel+Jesus) | Gabriel Jesus is a Brazilian professional footballer who plays as a forward for Premier League club Manchester City and the Brazil national team. His name in English translates to "God is my salvation". |
+| 33 | [AC Milan](http://twitter.com/search?q=AC+Milan) | AC Milan is a professional Italian football club based in Milan, Italy. The club is one of the most successful teams in the world, having won 18 FIFA and UEFA titles. The acronym AC stands for Associazione Calcio (Italian for Football Association). |
+| 34 | [Wike](http://twitter.com/search?q=Wike) | Wike is a term used in the Philippines to refer to a person who is knowledgeable or wise. It is derived from the Tagalog word "wikain," which means "to know." In English, it can be translated as "wise" or "knowledgeable." |
+| 35 | [Jacqui](http://twitter.com/search?q=Jacqui) | N/A |
+| 36 | [Roca](http://twitter.com/search?q=Roca) | N/A |
+| 37 | [Final Fantasy XVI](http://twitter.com/search?q=Final+Fantasy+XVI) | N/A |
+| 38 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
+| 39 | [Scotland and Wales](http://twitter.com/search?q=Scotland+and+Wales) | N/A |
+| 40 | [Tom Sizemore](http://twitter.com/search?q=Tom+Sizemore) | N/A |
+| 41 | [UK and EU](http://twitter.com/search?q=UK+and+EU) | N/A |
+| 42 | [Justin Bieber](http://twitter.com/search?q=Justin+Bieber) | N/A |
+| 43 | [Bertie](http://twitter.com/search?q=Bertie) | N/A |
+| 44 | [Novak](http://twitter.com/search?q=Novak) | Novak is a surname of Slavic origin. It is derived from the word "nov", meaning "new". The name is most commonly associated with the tennis player Novak Djokovic, who is one of the most successful players in the history of the sport. |
+| 45 | [Year 6](http://twitter.com/search?q=Year+6) | N/A |
+| 46 | [Lions](http://twitter.com/search?q=Lions) | Lions are large cats that live in parts of Africa and India. They are the second-largest living cat species after tigers, and they are known for their strength, courage, and majestic appearance. The term "lion" is often used as a metaphor for strength and courage. |
+| 47 | [Coca Cola](http://twitter.com/search?q=Coca+Cola) | N/A |
+| 48 | [Isla Bryson](http://twitter.com/search?q=Isla+Bryson) | N/A |
+| 49 | [Malone](http://twitter.com/search?q=Malone) | N/A |
 
 
 

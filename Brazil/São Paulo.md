@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For São Paulo
 
-📆 Last Updated: `2023-02-28 19:16:42 UTC`
+📆 Last Updated: `2023-02-28 20:16:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Bebida Favorita](http://twitter.com/search?q=Bebida+Favorita) | N/A |
-| 2 | [Faz o L.](http://twitter.com/search?q=Faz+o+L.) | N/A |
-| 3 | [Ciro](http://twitter.com/search?q=Ciro) | N/A |
-| 4 | [twenty one pilots](http://twitter.com/search?q=twenty+one+pilots) | N/A |
-| 5 | [Lelê](http://twitter.com/search?q=Lel%c3%aa) | N/A |
-| 6 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 7 | [4 ANOS DE LOUD](http://twitter.com/search?q=4+ANOS+DE+LOUD) | N/A |
-| 8 | [Apple](http://twitter.com/search?q=Apple) | N/A |
-| 9 | [Peter Pan](http://twitter.com/search?q=Peter+Pan) | N/A |
-| 10 | [Blink](http://twitter.com/search?q=Blink) | N/A |
-| 11 | [EU QUERO BOTI](http://twitter.com/search?q=EU+QUERO+BOTI) | N/A |
-| 12 | [Tomorrowland](http://twitter.com/search?q=Tomorrowland) | Tomorrowland is a Disney theme park located in Anaheim, California. It is based on futuristic themes and features attractions such as Space Mountain, Buzz Lightyear Astro Blasters, and Star Tours. The name "Tomorrowland" is derived from the phrase "the future is now," which reflects the park's focus on innovation and progress. |
-| 13 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
-| 14 | [Petrobras](http://twitter.com/search?q=Petrobras) | N/A |
-| 15 | [Cremonese](http://twitter.com/search?q=Cremonese) | N/A |
-| 16 | [Bento Gonçalves](http://twitter.com/search?q=Bento+Gon%c3%a7alves) | N/A |
-| 17 | [Bolsa Família](http://twitter.com/search?q=Bolsa+Fam%c3%adlia) | N/A |
-| 18 | [#MelevaATL](http://twitter.com/search?q=%23MelevaATL) | N/A |
-| 19 | [#FORACARADESAPATO](http://twitter.com/search?q=%23FORACARADESAPATO) | N/A |
-| 20 | [#JISOOxDiorAW23](http://twitter.com/search?q=%23JISOOxDiorAW23) | N/A |
-| 21 | [Caxias do Sul](http://twitter.com/search?q=Caxias+do+Sul) | N/A |
-| 22 | [iPhone 15](http://twitter.com/search?q=iPhone+15) | N/A |
-| 23 | [Patrick de Paula](http://twitter.com/search?q=Patrick+de+Paula) | N/A |
-| 24 | [Consea](http://twitter.com/search?q=Consea) | N/A |
-| 25 | [DESSA VEZ NÃO](http://twitter.com/search?q=DESSA+VEZ+N%c3%83O) | N/A |
-| 26 | [Abelão](http://twitter.com/search?q=Abel%c3%a3o) | N/A |
-| 27 | [Abel Braga](http://twitter.com/search?q=Abel+Braga) | N/A |
-| 28 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
-| 29 | [#NeverLetMeGoSeriesFinalEP](http://twitter.com/search?q=%23NeverLetMeGoSeriesFinalEP) | N/A |
-| 30 | [Pedro Lima](http://twitter.com/search?q=Pedro+Lima) | Pedro Lima is a Portuguese name, derived from the Latin name Petrus (Peter). It is a common name in Portugal and Brazil, and it means "rock" or "stone" in English. |
-| 31 | [#HeavenObeysElijah](http://twitter.com/search?q=%23HeavenObeysElijah) | N/A |
-| 32 | [Haddad](http://twitter.com/search?q=Haddad) | N/A |
-| 33 | [Campari](http://twitter.com/search?q=Campari) | N/A |
-| 34 | [GRLS](http://twitter.com/search?q=GRLS) | N/A |
-| 35 | [União Brasil](http://twitter.com/search?q=Uni%c3%a3o+Brasil) | N/A |
-| 36 | [USB-C](http://twitter.com/search?q=USB-C) | N/A |
-| 37 | [Rioru](http://twitter.com/search?q=Rioru) | N/A |
-| 38 | [tyler joseph](http://twitter.com/search?q=tyler+joseph) | N/A |
-| 39 | [Michael B. Jordan](http://twitter.com/search?q=Michael+B.+Jordan) | N/A |
-| 40 | [Basco](http://twitter.com/search?q=Basco) | N/A |
-| 41 | [sisu](http://twitter.com/search?q=sisu) | N/A |
-| 42 | [Bota](http://twitter.com/search?q=Bota) | N/A |
-| 43 | [Leo Dias](http://twitter.com/search?q=Leo+Dias) | N/A |
-| 44 | [Besouro](http://twitter.com/search?q=Besouro) | N/A |
-| 45 | [Chapéu](http://twitter.com/search?q=Chap%c3%a9u) | N/A |
-| 46 | [Obrigadaaa](http://twitter.com/search?q=Obrigadaaa) | N/A |
-| 47 | [Imagine Dragons](http://twitter.com/search?q=Imagine+Dragons) | N/A |
+| 1 | [Imagine Dragons](http://twitter.com/search?q=Imagine+Dragons) | N/A |
+| 2 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
+| 3 | [Bebida Favorita](http://twitter.com/search?q=Bebida+Favorita) | N/A |
+| 4 | [Lava Jato](http://twitter.com/search?q=Lava+Jato) | N/A |
+| 5 | [Campari](http://twitter.com/search?q=Campari) | N/A |
+| 6 | [Boulos](http://twitter.com/search?q=Boulos) | N/A |
+| 7 | [UFSCar](http://twitter.com/search?q=UFSCar) | N/A |
+| 8 | [Racismo](http://twitter.com/search?q=Racismo) | N/A |
+| 9 | [Ciro](http://twitter.com/search?q=Ciro) | N/A |
+| 10 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 11 | [twenty one pilots](http://twitter.com/search?q=twenty+one+pilots) | N/A |
+| 12 | [Lelê](http://twitter.com/search?q=Lel%c3%aa) | N/A |
+| 13 | [Cremonese](http://twitter.com/search?q=Cremonese) | N/A |
+| 14 | [Marcelo Bretas](http://twitter.com/search?q=Marcelo+Bretas) | N/A |
+| 15 | [Caxias do Sul](http://twitter.com/search?q=Caxias+do+Sul) | N/A |
+| 16 | [4 ANOS DE LOUD](http://twitter.com/search?q=4+ANOS+DE+LOUD) | N/A |
+| 17 | [Tomorrowland](http://twitter.com/search?q=Tomorrowland) | Tomorrowland is a Disney theme park located in Anaheim, California. It is based on futuristic themes and features attractions such as Space Mountain, Buzz Lightyear Astro Blasters, and Star Tours. The name "Tomorrowland" is derived from the phrase "the future is now," which reflects the park's focus on innovation and progress. |
+| 18 | [Peter Pan](http://twitter.com/search?q=Peter+Pan) | N/A |
+| 19 | [Apple](http://twitter.com/search?q=Apple) | N/A |
+| 20 | [#ROSÉCharmeEnSaintLaurent](http://twitter.com/search?q=%23ROS%c3%89CharmeEnSaintLaurent) | N/A |
+| 21 | [ROSÉ SAINT LAURENT PFW23](http://twitter.com/search?q=ROS%c3%89+SAINT+LAURENT+PFW23) | N/A |
+| 22 | [Blink](http://twitter.com/search?q=Blink) | N/A |
+| 23 | [#MelevaATL](http://twitter.com/search?q=%23MelevaATL) | N/A |
+| 24 | [#ROSÉxSaintLaurent](http://twitter.com/search?q=%23ROS%c3%89xSaintLaurent) | N/A |
+| 25 | [EU QUERO BOTI](http://twitter.com/search?q=EU+QUERO+BOTI) | N/A |
+| 26 | [Petrobras](http://twitter.com/search?q=Petrobras) | N/A |
+| 27 | [Sandro Fantinel](http://twitter.com/search?q=Sandro+Fantinel) | N/A |
+| 28 | [Bolsa Família](http://twitter.com/search?q=Bolsa+Fam%c3%adlia) | N/A |
+| 29 | [#FORACARADESAPATO](http://twitter.com/search?q=%23FORACARADESAPATO) | N/A |
+| 30 | [rafael greca](http://twitter.com/search?q=rafael+greca) | N/A |
+| 31 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
+| 32 | [Bento Gonçalves](http://twitter.com/search?q=Bento+Gon%c3%a7alves) | N/A |
+| 33 | [Xiaomi](http://twitter.com/search?q=Xiaomi) | N/A |
+| 34 | [iPhone 15](http://twitter.com/search?q=iPhone+15) | N/A |
+| 35 | [Torino](http://twitter.com/search?q=Torino) | N/A |
+| 36 | [Patrick de Paula](http://twitter.com/search?q=Patrick+de+Paula) | N/A |
+| 37 | [GIVE US WN BLOOPERS](http://twitter.com/search?q=GIVE+US+WN+BLOOPERS) | N/A |
+| 38 | [Atuesta](http://twitter.com/search?q=Atuesta) | Atuesta is a Spanish word that means "trust" or "confidence". It is often used to refer to the trust that exists between two people or groups. |
+| 39 | [Abelão](http://twitter.com/search?q=Abel%c3%a3o) | N/A |
+| 40 | [LDRV](http://twitter.com/search?q=LDRV) | N/A |
+| 41 | [Abel Braga](http://twitter.com/search?q=Abel+Braga) | N/A |
+| 42 | [Michael B. Jordan](http://twitter.com/search?q=Michael+B.+Jordan) | N/A |
+| 43 | [#JISOOxDiorAW23](http://twitter.com/search?q=%23JISOOxDiorAW23) | N/A |
+| 44 | [Maracanã](http://twitter.com/search?q=Maracan%c3%a3) | N/A |
+| 45 | [Consea](http://twitter.com/search?q=Consea) | N/A |
+| 46 | [USB-C](http://twitter.com/search?q=USB-C) | N/A |
+| 47 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
 | 48 | [Thais Carla](http://twitter.com/search?q=Thais+Carla) | N/A |
-| 49 | [Doenças Raras](http://twitter.com/search?q=Doen%c3%a7as+Raras) | N/A |
-| 50 | [Final Fantasy](http://twitter.com/search?q=Final+Fantasy) | N/A |
+| 49 | [Pedro Lima](http://twitter.com/search?q=Pedro+Lima) | Pedro Lima is a Portuguese name, derived from the Latin name Petrus (Peter). It is a common name in Portugal and Brazil, and it means "rock" or "stone" in English. |
+| 50 | [União Brasil](http://twitter.com/search?q=Uni%c3%a3o+Brasil) | N/A |
 
 
 

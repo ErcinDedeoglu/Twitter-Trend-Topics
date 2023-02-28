@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Multan
 
-📆 Last Updated: `2023-02-28 19:17:06 UTC`
+📆 Last Updated: `2023-02-28 20:16:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,49 +21,49 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 4 | [#ممتازقادری_کےقاتلوں_پرلعنت](http://twitter.com/search?q=%23%d9%85%d9%85%d8%aa%d8%a7%d8%b2%d9%82%d8%a7%d8%af%d8%b1%db%8c_%da%a9%db%92%d9%82%d8%a7%d8%aa%d9%84%d9%88%da%ba_%d9%be%d8%b1%d9%84%d8%b9%d9%86%d8%aa) | N/A |
 | 5 | [Rs 5](http://twitter.com/search?q=Rs+5) | Rs 5 is the abbreviation for Indian Rupee 5, which is equivalent to approximately 0.068 US Dollars. |
 | 6 | [Maria B](http://twitter.com/search?q=Maria+B) | N/A |
-| 7 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 8 | [g-11](http://twitter.com/search?q=g-11) | N/A |
-| 9 | [EVIL EYES OFF SHEHNAAZGILL](http://twitter.com/search?q=EVIL+EYES+OFF+SHEHNAAZGILL) | N/A |
-| 10 | [Murad Saeed](http://twitter.com/search?q=Murad+Saeed) | N/A |
-| 11 | [US Embassy](http://twitter.com/search?q=US+Embassy) | N/A |
-| 12 | [Wheels](http://twitter.com/search?q=Wheels) | N/A |
-| 13 | [Test Cricket](http://twitter.com/search?q=Test+Cricket) | N/A |
-| 14 | [Amir](http://twitter.com/search?q=Amir) | Amir is an Arabic name meaning "Prince" or "Commander". It is also used as a title of nobility in some Muslim countries. |
+| 7 | [g-11](http://twitter.com/search?q=g-11) | N/A |
+| 8 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 9 | [Lala](http://twitter.com/search?q=Lala) | N/A |
+| 10 | [EVIL EYES OFF SHEHNAAZGILL](http://twitter.com/search?q=EVIL+EYES+OFF+SHEHNAAZGILL) | N/A |
+| 11 | [Murad Saeed](http://twitter.com/search?q=Murad+Saeed) | N/A |
+| 12 | [US Embassy](http://twitter.com/search?q=US+Embassy) | N/A |
+| 13 | [Wheels](http://twitter.com/search?q=Wheels) | N/A |
+| 14 | [Test Cricket](http://twitter.com/search?q=Test+Cricket) | N/A |
 | 15 | [International Conference](http://twitter.com/search?q=International+Conference) | N/A |
-| 16 | [Your DM](http://twitter.com/search?q=Your+DM) | N/A |
-| 17 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
-| 18 | [Pashtun](http://twitter.com/search?q=Pashtun) | N/A |
-| 19 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 20 | [Lt Gen](http://twitter.com/search?q=Lt+Gen) | N/A |
-| 21 | [Qazi](http://twitter.com/search?q=Qazi) | N/A |
+| 16 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
+| 17 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
+| 18 | [Your DM](http://twitter.com/search?q=Your+DM) | N/A |
+| 19 | [Lt Gen](http://twitter.com/search?q=Lt+Gen) | N/A |
+| 20 | [Qazi](http://twitter.com/search?q=Qazi) | N/A |
+| 21 | [Pashtun](http://twitter.com/search?q=Pashtun) | N/A |
 | 22 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
-| 23 | [Talat](http://twitter.com/search?q=Talat) | N/A |
-| 24 | [Lala](http://twitter.com/search?q=Lala) | N/A |
-| 25 | [Friends](http://twitter.com/search?q=Friends) | N/A |
-| 26 | [King](http://twitter.com/search?q=King) | In English, "king" is a title given to a male monarch, usually the ruler of a kingdom or empire. It is also used as a term of endearment for someone who is seen as having great power or influence. |
-| 27 | [Yehi](http://twitter.com/search?q=Yehi) | N/A |
-| 28 | [Money](http://twitter.com/search?q=Money) | N/A |
-| 29 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 30 | [Wade](http://twitter.com/search?q=Wade) | N/A |
-| 31 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 32 | [Mery](http://twitter.com/search?q=Mery) | N/A |
-| 33 | [Courts](http://twitter.com/search?q=Courts) | N/A |
-| 34 | [Feb Dump](http://twitter.com/search?q=Feb+Dump) | N/A |
-| 35 | [Highly](http://twitter.com/search?q=Highly) | N/A |
-| 36 | [Count](http://twitter.com/search?q=Count) | N/A |
-| 37 | [Wishing](http://twitter.com/search?q=Wishing) | N/A |
-| 38 | [Books](http://twitter.com/search?q=Books) | N/A |
-| 39 | [Happiest Birthday](http://twitter.com/search?q=Happiest+Birthday) | N/A |
-| 40 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
-| 41 | [USAID](http://twitter.com/search?q=USAID) | N/A |
-| 42 | [Innocent](http://twitter.com/search?q=Innocent) | N/A |
-| 43 | [Google](http://twitter.com/search?q=Google) | N/A |
-| 44 | [ABSOLUTELY NOT](http://twitter.com/search?q=ABSOLUTELY+NOT) | N/A |
-| 45 | [Ahmad](http://twitter.com/search?q=Ahmad) | N/A |
-| 46 | [Fawad](http://twitter.com/search?q=Fawad) | N/A |
-| 47 | [Lanat](http://twitter.com/search?q=Lanat) | N/A |
-| 48 | [Lucky](http://twitter.com/search?q=Lucky) | N/A |
-| 49 | [Chawal](http://twitter.com/search?q=Chawal) | N/A |
+| 23 | [Feb Dump](http://twitter.com/search?q=Feb+Dump) | N/A |
+| 24 | [Talat](http://twitter.com/search?q=Talat) | N/A |
+| 25 | [Amir](http://twitter.com/search?q=Amir) | Amir is an Arabic name meaning "Prince" or "Commander". It is also used as a title of nobility in some Muslim countries. |
+| 26 | [Yehi](http://twitter.com/search?q=Yehi) | N/A |
+| 27 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 28 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 29 | [Ahmad](http://twitter.com/search?q=Ahmad) | N/A |
+| 30 | [Lanat](http://twitter.com/search?q=Lanat) | N/A |
+| 31 | [Heyyy](http://twitter.com/search?q=Heyyy) | N/A |
+| 32 | [Count](http://twitter.com/search?q=Count) | N/A |
+| 33 | [Wade](http://twitter.com/search?q=Wade) | N/A |
+| 34 | [Lucky](http://twitter.com/search?q=Lucky) | N/A |
+| 35 | [Happiest Birthday](http://twitter.com/search?q=Happiest+Birthday) | N/A |
+| 36 | [USAID](http://twitter.com/search?q=USAID) | N/A |
+| 37 | [Thankyou](http://twitter.com/search?q=Thankyou) | N/A |
+| 38 | [Mery](http://twitter.com/search?q=Mery) | N/A |
+| 39 | [Inbox](http://twitter.com/search?q=Inbox) | N/A |
+| 40 | [Lots](http://twitter.com/search?q=Lots) | N/A |
+| 41 | [Highly](http://twitter.com/search?q=Highly) | N/A |
+| 42 | [Alex](http://twitter.com/search?q=Alex) | N/A |
+| 43 | [Kindly](http://twitter.com/search?q=Kindly) | N/A |
+| 44 | [Bilkul](http://twitter.com/search?q=Bilkul) | N/A |
+| 45 | [Graphic](http://twitter.com/search?q=Graphic) | N/A |
+| 46 | [Meri](http://twitter.com/search?q=Meri) | N/A |
+| 47 | [Fawad](http://twitter.com/search?q=Fawad) | N/A |
+| 48 | [Rana](http://twitter.com/search?q=Rana) | N/A |
+| 49 | [Books](http://twitter.com/search?q=Books) | N/A |
 
 
 
