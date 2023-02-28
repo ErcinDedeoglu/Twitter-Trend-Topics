@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kumamoto
 
-📆 Last Updated: `2023-02-28 06:17:23 UTC`
+📆 Last Updated: `2023-02-28 07:16:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,51 @@ This is top 50 for [Japan](</Japan>)
 | 2 | [#ファミマでスキズ](http://twitter.com/search?q=%23%e3%83%95%e3%82%a1%e3%83%9f%e3%83%9e%e3%81%a7%e3%82%b9%e3%82%ad%e3%82%ba) | N/A |
 | 3 | [サマソニ](http://twitter.com/search?q=%e3%82%b5%e3%83%9e%e3%82%bd%e3%83%8b) | サマソニ is short for "Summer Sonic", which is an annual music festival held in Japan. It features a variety of popular Japanese and international artists, and has been held since 2000. |
 | 4 | [ヘカテー](http://twitter.com/search?q=%e3%83%98%e3%82%ab%e3%83%86%e3%83%bc) | N/A |
-| 5 | [滝沢歌舞伎](http://twitter.com/search?q=%e6%bb%9d%e6%b2%a2%e6%ad%8c%e8%88%9e%e4%bc%8e) | 滝沢歌舞伎 (Takizawa Kabuki) is a traditional form of Japanese theater that combines music, dance, and drama. It originated in the Edo period (1603-1868) and is still performed today. The name comes from the Takizawa district of Tokyo, where it was first performed. In English, it can be translated as "Takizawa Kabuki Theater". |
+| 5 | [#周年プレゼント](http://twitter.com/search?q=%23%e5%91%a8%e5%b9%b4%e3%83%97%e3%83%ac%e3%82%bc%e3%83%b3%e3%83%88) | N/A |
 | 6 | [#IRIAMメンテ中のフォロー祭り](http://twitter.com/search?q=%23IRIAM%e3%83%a1%e3%83%b3%e3%83%86%e4%b8%ad%e3%81%ae%e3%83%95%e3%82%a9%e3%83%ad%e3%83%bc%e7%a5%ad%e3%82%8a) | #IRIAMメンテ中のフォロー祭り is a hashtag used on Twitter to encourage people to follow each other during maintenance of the IRIAM platform. It is a way for users to show their support for the platform and to help spread the word about it. In English, it translates to "Follow Festival During IRIAM Maintenance". |
-| 7 | [ハイカラシティ](http://twitter.com/search?q=%e3%83%8f%e3%82%a4%e3%82%ab%e3%83%a9%e3%82%b7%e3%83%86%e3%82%a3) | N/A |
-| 8 | [安定の落選](http://twitter.com/search?q=%e5%ae%89%e5%ae%9a%e3%81%ae%e8%90%bd%e9%81%b8) | N/A |
-| 9 | [ライビュ](http://twitter.com/search?q=%e3%83%a9%e3%82%a4%e3%83%93%e3%83%a5) | ライビュ is a Japanese word that means "lively". It is often used to describe someone or something that is energetic and full of life. |
+| 7 | [ジェシー](http://twitter.com/search?q=%e3%82%b8%e3%82%a7%e3%82%b7%e3%83%bc) | ジェシー is a Japanese name, and it is usually written in katakana. It is the same as the English name Jessie, and it means "God's gracious gift". |
+| 8 | [初の80万人割れ](http://twitter.com/search?q=%e5%88%9d%e3%81%ae80%e4%b8%87%e4%ba%ba%e5%89%b2%e3%82%8c) | N/A |
+| 9 | [滝沢歌舞伎](http://twitter.com/search?q=%e6%bb%9d%e6%b2%a2%e6%ad%8c%e8%88%9e%e4%bc%8e) | 滝沢歌舞伎 (Takizawa Kabuki) is a traditional form of Japanese theater that combines music, dance, and drama. It originated in the Edo period (1603-1868) and is still performed today. The name comes from the Takizawa district of Tokyo, where it was first performed. In English, it can be translated as "Takizawa Kabuki Theater". |
 | 10 | [急性胃腸炎](http://twitter.com/search?q=%e6%80%a5%e6%80%a7%e8%83%83%e8%85%b8%e7%82%8e) | N/A |
-| 11 | [#勝手に通すなインボイス制度](http://twitter.com/search?q=%23%e5%8b%9d%e6%89%8b%e3%81%ab%e9%80%9a%e3%81%99%e3%81%aa%e3%82%a4%e3%83%b3%e3%83%9c%e3%82%a4%e3%82%b9%e5%88%b6%e5%ba%a6) | N/A |
-| 12 | [ジェシー映画](http://twitter.com/search?q=%e3%82%b8%e3%82%a7%e3%82%b7%e3%83%bc%e6%98%a0%e7%94%bb) | N/A |
-| 13 | [フェディエル](http://twitter.com/search?q=%e3%83%95%e3%82%a7%e3%83%87%e3%82%a3%e3%82%a8%e3%83%ab) | フェディエル (Fediel) is a Japanese fantasy novel series written by author Takashi Yano. It follows the story of a young man named Fediel, who is sent on a quest to save the world from an evil force. The series has been adapted into several manga and anime series. In English, the title translates to "The Hero of Fediel". |
-| 14 | [#プリコネR](http://twitter.com/search?q=%23%e3%83%97%e3%83%aa%e3%82%b3%e3%83%8dR) | N/A |
-| 15 | [ルビィの謎解き成功](http://twitter.com/search?q=%e3%83%ab%e3%83%93%e3%82%a3%e3%81%ae%e8%ac%8e%e8%a7%a3%e3%81%8d%e6%88%90%e5%8a%9f) | N/A |
-| 16 | [クランチ](http://twitter.com/search?q=%e3%82%af%e3%83%a9%e3%83%b3%e3%83%81) | N/A |
-| 17 | [ジョングク](http://twitter.com/search?q=%e3%82%b8%e3%83%a7%e3%83%b3%e3%82%b0%e3%82%af) | ジョングク is a type of Korean traditional clothing. It is a long, loose-fitting robe with wide sleeves and a belt at the waist. In English, it is sometimes referred to as a "hanbok". |
-| 18 | [Misskey](http://twitter.com/search?q=Misskey) | N/A |
-| 19 | [初の80万人割れ](http://twitter.com/search?q=%e5%88%9d%e3%81%ae80%e4%b8%87%e4%ba%ba%e5%89%b2%e3%82%8c) | N/A |
-| 20 | [鈴木誠也](http://twitter.com/search?q=%e9%88%b4%e6%9c%a8%e8%aa%a0%e4%b9%9f) | N/A |
-| 21 | [ベネット](http://twitter.com/search?q=%e3%83%99%e3%83%8d%e3%83%83%e3%83%88) | N/A |
-| 22 | [ルオー武器](http://twitter.com/search?q=%e3%83%ab%e3%82%aa%e3%83%bc%e6%ad%a6%e5%99%a8) | N/A |
-| 23 | [ミソラちゃん](http://twitter.com/search?q=%e3%83%9f%e3%82%bd%e3%83%a9%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 24 | [春の陽気](http://twitter.com/search?q=%e6%98%a5%e3%81%ae%e9%99%bd%e6%b0%97) | N/A |
-| 25 | [キャンディス](http://twitter.com/search?q=%e3%82%ad%e3%83%a3%e3%83%b3%e3%83%87%e3%82%a3%e3%82%b9) | N/A |
-| 26 | [iriちゃん](http://twitter.com/search?q=iri%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 27 | [マイナンバーカード](http://twitter.com/search?q=%e3%83%9e%e3%82%a4%e3%83%8a%e3%83%b3%e3%83%90%e3%83%bc%e3%82%ab%e3%83%bc%e3%83%89) | N/A |
-| 28 | [代替選手](http://twitter.com/search?q=%e4%bb%a3%e6%9b%bf%e9%81%b8%e6%89%8b) | N/A |
+| 11 | [ハイカラシティ](http://twitter.com/search?q=%e3%83%8f%e3%82%a4%e3%82%ab%e3%83%a9%e3%82%b7%e3%83%86%e3%82%a3) | N/A |
+| 12 | [ジョングク](http://twitter.com/search?q=%e3%82%b8%e3%83%a7%e3%83%b3%e3%82%b0%e3%82%af) | ジョングク is a type of Korean traditional clothing. It is a long, loose-fitting robe with wide sleeves and a belt at the waist. In English, it is sometimes referred to as a "hanbok". |
+| 13 | [ルビィの謎解き成功](http://twitter.com/search?q=%e3%83%ab%e3%83%93%e3%82%a3%e3%81%ae%e8%ac%8e%e8%a7%a3%e3%81%8d%e6%88%90%e5%8a%9f) | N/A |
+| 14 | [Cream](http://twitter.com/search?q=Cream) | N/A |
+| 15 | [リゼロス](http://twitter.com/search?q=%e3%83%aa%e3%82%bc%e3%83%ad%e3%82%b9) | N/A |
+| 16 | [ライビュ](http://twitter.com/search?q=%e3%83%a9%e3%82%a4%e3%83%93%e3%83%a5) | ライビュ is a Japanese word that means "lively". It is often used to describe someone or something that is energetic and full of life. |
+| 17 | [クランチ](http://twitter.com/search?q=%e3%82%af%e3%83%a9%e3%83%b3%e3%83%81) | N/A |
+| 18 | [安定の落選](http://twitter.com/search?q=%e5%ae%89%e5%ae%9a%e3%81%ae%e8%90%bd%e9%81%b8) | N/A |
+| 19 | [iriちゃん](http://twitter.com/search?q=iri%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 20 | [Misskey](http://twitter.com/search?q=Misskey) | N/A |
+| 21 | [フェディエル](http://twitter.com/search?q=%e3%83%95%e3%82%a7%e3%83%87%e3%82%a3%e3%82%a8%e3%83%ab) | フェディエル (Fediel) is a Japanese fantasy novel series written by author Takashi Yano. It follows the story of a young man named Fediel, who is sent on a quest to save the world from an evil force. The series has been adapted into several manga and anime series. In English, the title translates to "The Hero of Fediel". |
+| 22 | [iriさん](http://twitter.com/search?q=iri%e3%81%95%e3%82%93) | N/A |
+| 23 | [春の陽気](http://twitter.com/search?q=%e6%98%a5%e3%81%ae%e9%99%bd%e6%b0%97) | N/A |
+| 24 | [電通グループ](http://twitter.com/search?q=%e9%9b%bb%e9%80%9a%e3%82%b0%e3%83%ab%e3%83%bc%e3%83%97) | N/A |
+| 25 | [マイナンバーカード](http://twitter.com/search?q=%e3%83%9e%e3%82%a4%e3%83%8a%e3%83%b3%e3%83%90%e3%83%bc%e3%82%ab%e3%83%bc%e3%83%89) | N/A |
+| 26 | [ベネット](http://twitter.com/search?q=%e3%83%99%e3%83%8d%e3%83%83%e3%83%88) | N/A |
+| 27 | [鈴木誠也](http://twitter.com/search?q=%e9%88%b4%e6%9c%a8%e8%aa%a0%e4%b9%9f) | N/A |
+| 28 | [ミソラちゃん](http://twitter.com/search?q=%e3%83%9f%e3%82%bd%e3%83%a9%e3%81%a1%e3%82%83%e3%82%93) | N/A |
 | 29 | [津田沼パルコ](http://twitter.com/search?q=%e6%b4%a5%e7%94%b0%e6%b2%bc%e3%83%91%e3%83%ab%e3%82%b3) | N/A |
-| 30 | [スティーブ禁止](http://twitter.com/search?q=%e3%82%b9%e3%83%86%e3%82%a3%e3%83%bc%e3%83%96%e7%a6%81%e6%ad%a2) | N/A |
-| 31 | [宇宙飛行士](http://twitter.com/search?q=%e5%ae%87%e5%ae%99%e9%a3%9b%e8%a1%8c%e5%a3%ab) | N/A |
-| 32 | [iriさん](http://twitter.com/search?q=iri%e3%81%95%e3%82%93) | N/A |
-| 33 | [侍ジャパン辞退](http://twitter.com/search?q=%e4%be%8d%e3%82%b8%e3%83%a3%e3%83%91%e3%83%b3%e8%be%9e%e9%80%80) | N/A |
-| 34 | [ハエの幼虫](http://twitter.com/search?q=%e3%83%8f%e3%82%a8%e3%81%ae%e5%b9%bc%e8%99%ab) | N/A |
-| 35 | [Wet Leg](http://twitter.com/search?q=Wet+Leg) | N/A |
-| 36 | [シェロチケ](http://twitter.com/search?q=%e3%82%b7%e3%82%a7%e3%83%ad%e3%83%81%e3%82%b1) | N/A |
-| 37 | [レジオネラ菌](http://twitter.com/search?q=%e3%83%ac%e3%82%b8%e3%82%aa%e3%83%8d%e3%83%a9%e8%8f%8c) | N/A |
-| 38 | [ヴァイタリティー](http://twitter.com/search?q=%e3%83%b4%e3%82%a1%e3%82%a4%e3%82%bf%e3%83%aa%e3%83%86%e3%82%a3%e3%83%bc) | N/A |
-| 39 | [フェディ石](http://twitter.com/search?q=%e3%83%95%e3%82%a7%e3%83%87%e3%82%a3%e7%9f%b3) | N/A |
-| 40 | [対物ウルショ](http://twitter.com/search?q=%e5%af%be%e7%89%a9%e3%82%a6%e3%83%ab%e3%82%b7%e3%83%a7) | N/A |
-| 41 | [モーニングカラオケ](http://twitter.com/search?q=%e3%83%a2%e3%83%bc%e3%83%8b%e3%83%b3%e3%82%b0%e3%82%ab%e3%83%a9%e3%82%aa%e3%82%b1) | N/A |
-| 42 | [シオカラーズ](http://twitter.com/search?q=%e3%82%b7%e3%82%aa%e3%82%ab%e3%83%a9%e3%83%bc%e3%82%ba) | N/A |
-| 43 | [ハイドリ](http://twitter.com/search?q=%e3%83%8f%e3%82%a4%e3%83%89%e3%83%aa) | N/A |
-| 44 | [ル・オー](http://twitter.com/search?q=%e3%83%ab%e3%83%bb%e3%82%aa%e3%83%bc) | N/A |
-| 45 | [ジュークボックス](http://twitter.com/search?q=%e3%82%b8%e3%83%a5%e3%83%bc%e3%82%af%e3%83%9c%e3%83%83%e3%82%af%e3%82%b9) | N/A |
-| 46 | [与謝野晶子](http://twitter.com/search?q=%e4%b8%8e%e8%ac%9d%e9%87%8e%e6%99%b6%e5%ad%90) | N/A |
-| 47 | [モグレター](http://twitter.com/search?q=%e3%83%a2%e3%82%b0%e3%83%ac%e3%82%bf%e3%83%bc) | N/A |
-| 48 | [ダレデスカ](http://twitter.com/search?q=%e3%83%80%e3%83%ac%e3%83%87%e3%82%b9%e3%82%ab) | N/A |
-| 49 | [ステージ改修](http://twitter.com/search?q=%e3%82%b9%e3%83%86%e3%83%bc%e3%82%b8%e6%94%b9%e4%bf%ae) | N/A |
-| 50 | [フィリックス](http://twitter.com/search?q=%e3%83%95%e3%82%a3%e3%83%aa%e3%83%83%e3%82%af%e3%82%b9) | N/A |
+| 30 | [キャンディス](http://twitter.com/search?q=%e3%82%ad%e3%83%a3%e3%83%b3%e3%83%87%e3%82%a3%e3%82%b9) | N/A |
+| 31 | [きらファン](http://twitter.com/search?q=%e3%81%8d%e3%82%89%e3%83%95%e3%82%a1%e3%83%b3) | N/A |
+| 32 | [ルオー武器](http://twitter.com/search?q=%e3%83%ab%e3%82%aa%e3%83%bc%e6%ad%a6%e5%99%a8) | N/A |
+| 33 | [スティーブ禁止](http://twitter.com/search?q=%e3%82%b9%e3%83%86%e3%82%a3%e3%83%bc%e3%83%96%e7%a6%81%e6%ad%a2) | N/A |
+| 34 | [与謝野晶子](http://twitter.com/search?q=%e4%b8%8e%e8%ac%9d%e9%87%8e%e6%99%b6%e5%ad%90) | N/A |
+| 35 | [ジュークボックス](http://twitter.com/search?q=%e3%82%b8%e3%83%a5%e3%83%bc%e3%82%af%e3%83%9c%e3%83%83%e3%82%af%e3%82%b9) | N/A |
+| 36 | [レジオネラ菌](http://twitter.com/search?q=%e3%83%ac%e3%82%b8%e3%82%aa%e3%83%8d%e3%83%a9%e8%8f%8c) | N/A |
+| 37 | [不当差別](http://twitter.com/search?q=%e4%b8%8d%e5%bd%93%e5%b7%ae%e5%88%a5) | N/A |
+| 38 | [宇宙飛行士](http://twitter.com/search?q=%e5%ae%87%e5%ae%99%e9%a3%9b%e8%a1%8c%e5%a3%ab) | N/A |
+| 39 | [ハイドリ](http://twitter.com/search?q=%e3%83%8f%e3%82%a4%e3%83%89%e3%83%aa) | N/A |
+| 40 | [代替選手](http://twitter.com/search?q=%e4%bb%a3%e6%9b%bf%e9%81%b8%e6%89%8b) | N/A |
+| 41 | [アベノマスク訴訟](http://twitter.com/search?q=%e3%82%a2%e3%83%99%e3%83%8e%e3%83%9e%e3%82%b9%e3%82%af%e8%a8%b4%e8%a8%9f) | N/A |
+| 42 | [薬売りさん](http://twitter.com/search?q=%e8%96%ac%e5%a3%b2%e3%82%8a%e3%81%95%e3%82%93) | N/A |
+| 43 | [単価・発注枚数の開示](http://twitter.com/search?q=%e5%8d%98%e4%be%a1%e3%83%bb%e7%99%ba%e6%b3%a8%e6%9e%9a%e6%95%b0%e3%81%ae%e9%96%8b%e7%a4%ba) | N/A |
+| 44 | [ハエの幼虫](http://twitter.com/search?q=%e3%83%8f%e3%82%a8%e3%81%ae%e5%b9%bc%e8%99%ab) | N/A |
+| 45 | [ククパケ](http://twitter.com/search?q=%e3%82%af%e3%82%af%e3%83%91%e3%82%b1) | ククパケ is a Japanese onomatopoeia that is used to describe the sound of something being crushed or broken. In English, it could be translated as "crunch". |
+| 46 | [侍ジャパン辞退](http://twitter.com/search?q=%e4%be%8d%e3%82%b8%e3%83%a3%e3%83%91%e3%83%b3%e8%be%9e%e9%80%80) | N/A |
+| 47 | [シェロチケ](http://twitter.com/search?q=%e3%82%b7%e3%82%a7%e3%83%ad%e3%83%81%e3%82%b1) | N/A |
+| 48 | [無料10連](http://twitter.com/search?q=%e7%84%a1%e6%96%9910%e9%80%a3) | 無料10連 is a type of promotion offered by some Japanese mobile gaming companies. It refers to a free 10-draw of in-game items, such as coins, gems, or other virtual rewards. In English, it can be translated as "Free 10 Draw". |
+| 49 | [東京地検特捜部](http://twitter.com/search?q=%e6%9d%b1%e4%ba%ac%e5%9c%b0%e6%a4%9c%e7%89%b9%e6%8d%9c%e9%83%a8) | N/A |
 
 
 

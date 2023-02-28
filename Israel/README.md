@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Israel
 
-📆 Last Updated: `2023-02-28 06:17:50 UTC`
+📆 Last Updated: `2023-02-28 07:17:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Israel
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [בוקר טוב](http://twitter.com/search?q=%d7%91%d7%95%d7%a7%d7%a8+%d7%98%d7%95%d7%91) | N/A |
-| 2 | [אבי מעוז](http://twitter.com/search?q=%d7%90%d7%91%d7%99+%d7%9e%d7%a2%d7%95%d7%96) | N/A |
-| 3 | [Elan Ganeles](http://twitter.com/search?q=Elan+Ganeles) | N/A |
-| 4 | [בוקר אור](http://twitter.com/search?q=%d7%91%d7%95%d7%a7%d7%a8+%d7%90%d7%95%d7%a8) | N/A |
-| 5 | [כי טוב](http://twitter.com/search?q=%d7%9b%d7%99+%d7%98%d7%95%d7%91) | N/A |
-| 6 | [בן גביר](http://twitter.com/search?q=%d7%91%d7%9f+%d7%92%d7%91%d7%99%d7%a8) | N/A |
+| 1 | [אבי מעוז](http://twitter.com/search?q=%d7%90%d7%91%d7%99+%d7%9e%d7%a2%d7%95%d7%96) | N/A |
+| 2 | [בוקר טוב](http://twitter.com/search?q=%d7%91%d7%95%d7%a7%d7%a8+%d7%98%d7%95%d7%91) | N/A |
+| 3 | [בוקר אור](http://twitter.com/search?q=%d7%91%d7%95%d7%a7%d7%a8+%d7%90%d7%95%d7%a8) | N/A |
+| 4 | [בן גביר](http://twitter.com/search?q=%d7%91%d7%9f+%d7%92%d7%91%d7%99%d7%a8) | N/A |
+| 5 | [Elan Ganeles](http://twitter.com/search?q=Elan+Ganeles) | N/A |
+| 6 | [Huwara](http://twitter.com/search?q=Huwara) | N/A |
 | 7 | [עונש מוות](http://twitter.com/search?q=%d7%a2%d7%95%d7%a0%d7%a9+%d7%9e%d7%95%d7%95%d7%aa) | N/A |
-| 8 | [Huwara](http://twitter.com/search?q=Huwara) | N/A |
-| 9 | [רונן צור](http://twitter.com/search?q=%d7%a8%d7%95%d7%a0%d7%9f+%d7%a6%d7%95%d7%a8) | N/A |
-| 10 | [דני זקן](http://twitter.com/search?q=%d7%93%d7%a0%d7%99+%d7%96%d7%a7%d7%9f) | N/A |
-| 11 | [רצח יהודים](http://twitter.com/search?q=%d7%a8%d7%a6%d7%97+%d7%99%d7%94%d7%95%d7%93%d7%99%d7%9d) | N/A |
-| 12 | [בית הערבה](http://twitter.com/search?q=%d7%91%d7%99%d7%aa+%d7%94%d7%a2%d7%a8%d7%91%d7%94) | N/A |
-| 13 | [שני אחים](http://twitter.com/search?q=%d7%a9%d7%a0%d7%99+%d7%90%d7%97%d7%99%d7%9d) | N/A |
-| 14 | [טרור יהודי](http://twitter.com/search?q=%d7%98%d7%a8%d7%95%d7%a8+%d7%99%d7%94%d7%95%d7%93%d7%99) | N/A |
-| 15 | [תומך טרור](http://twitter.com/search?q=%d7%aa%d7%95%d7%9e%d7%9a+%d7%98%d7%a8%d7%95%d7%a8) | N/A |
-| 16 | [דם יהודי](http://twitter.com/search?q=%d7%93%d7%9d+%d7%99%d7%94%d7%95%d7%93%d7%99) | N/A |
-| 17 | [ט בנימין](http://twitter.com/search?q=%d7%98+%d7%91%d7%a0%d7%99%d7%9e%d7%99%d7%9f) | N/A |
-| 18 | [Jericho](http://twitter.com/search?q=Jericho) | Jericho is a city in the West Bank, located near the Jordan River. It is believed to be one of the oldest continuously inhabited cities in the world. The name Jericho comes from the Hebrew word Yeriho, which means "moon" or "month." In English, it can mean either a place of moonlight or a place of months. |
+| 8 | [רונן צור](http://twitter.com/search?q=%d7%a8%d7%95%d7%a0%d7%9f+%d7%a6%d7%95%d7%a8) | N/A |
+| 9 | [כי טוב](http://twitter.com/search?q=%d7%9b%d7%99+%d7%98%d7%95%d7%91) | N/A |
+| 10 | [רצח יהודים](http://twitter.com/search?q=%d7%a8%d7%a6%d7%97+%d7%99%d7%94%d7%95%d7%93%d7%99%d7%9d) | N/A |
+| 11 | [שני אחים](http://twitter.com/search?q=%d7%a9%d7%a0%d7%99+%d7%90%d7%97%d7%99%d7%9d) | N/A |
+| 12 | [תומך טרור](http://twitter.com/search?q=%d7%aa%d7%95%d7%9e%d7%9a+%d7%98%d7%a8%d7%95%d7%a8) | N/A |
+| 13 | [בית הערבה](http://twitter.com/search?q=%d7%91%d7%99%d7%aa+%d7%94%d7%a2%d7%a8%d7%91%d7%94) | N/A |
+| 14 | [דם יהודי](http://twitter.com/search?q=%d7%93%d7%9d+%d7%99%d7%94%d7%95%d7%93%d7%99) | N/A |
+| 15 | [טרור יהודי](http://twitter.com/search?q=%d7%98%d7%a8%d7%95%d7%a8+%d7%99%d7%94%d7%95%d7%93%d7%99) | N/A |
+| 16 | [בן ה](http://twitter.com/search?q=%d7%91%d7%9f+%d7%94) | N/A |
+| 17 | [Jericho](http://twitter.com/search?q=Jericho) | Jericho is a city in the West Bank, located near the Jordan River. It is believed to be one of the oldest continuously inhabited cities in the world. The name Jericho comes from the Hebrew word Yeriho, which means "moon" or "month." In English, it can mean either a place of moonlight or a place of months. |
+| 18 | [של אהוד ברק](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%90%d7%94%d7%95%d7%93+%d7%91%d7%a8%d7%a7) | N/A |
 | 19 | [של הלל](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%94%d7%9c%d7%9c) | N/A |
-| 20 | [שני יהודים](http://twitter.com/search?q=%d7%a9%d7%a0%d7%99+%d7%99%d7%94%d7%95%d7%93%d7%99%d7%9d) | N/A |
-| 21 | [בן כספית](http://twitter.com/search?q=%d7%91%d7%9f+%d7%9b%d7%a1%d7%a4%d7%99%d7%aa) | N/A |
-| 22 | [בן ה](http://twitter.com/search?q=%d7%91%d7%9f+%d7%94) | N/A |
-| 23 | [Palestinian](http://twitter.com/search?q=Palestinian) | N/A |
-| 24 | [תג מחיר](http://twitter.com/search?q=%d7%aa%d7%92+%d7%9e%d7%97%d7%99%d7%a8) | N/A |
-| 25 | [עוצמה יהודית](http://twitter.com/search?q=%d7%a2%d7%95%d7%a6%d7%9e%d7%94+%d7%99%d7%94%d7%95%d7%93%d7%99%d7%aa) | N/A |
-| 26 | [עוד פיגוע](http://twitter.com/search?q=%d7%a2%d7%95%d7%93+%d7%a4%d7%99%d7%92%d7%95%d7%a2) | N/A |
-| 27 | [קובי פרץ](http://twitter.com/search?q=%d7%a7%d7%95%d7%91%d7%99+%d7%a4%d7%a8%d7%a5) | N/A |
-| 28 | [חנן יובל](http://twitter.com/search?q=%d7%97%d7%a0%d7%9f+%d7%99%d7%95%d7%91%d7%9c) | N/A |
-| 29 | [כפר שלם](http://twitter.com/search?q=%d7%9b%d7%a4%d7%a8+%d7%a9%d7%9c%d7%9d) | N/A |
-| 30 | [חיי אדם](http://twitter.com/search?q=%d7%97%d7%99%d7%99+%d7%90%d7%93%d7%9d) | N/A |
-| 31 | [הר ברכה](http://twitter.com/search?q=%d7%94%d7%a8+%d7%91%d7%a8%d7%9b%d7%94) | N/A |
-| 32 | [סגן שר](http://twitter.com/search?q=%d7%a1%d7%92%d7%9f+%d7%a9%d7%a8) | N/A |
-| 33 | [אריה עמית](http://twitter.com/search?q=%d7%90%d7%a8%d7%99%d7%94+%d7%a2%d7%9e%d7%99%d7%aa) | N/A |
-| 34 | [השם יקום](http://twitter.com/search?q=%d7%94%d7%a9%d7%9d+%d7%99%d7%a7%d7%95%d7%9d) | N/A |
-| 35 | [יא פינק](http://twitter.com/search?q=%d7%99%d7%90+%d7%a4%d7%99%d7%a0%d7%a7) | N/A |
-| 36 | [כלי רכב](http://twitter.com/search?q=%d7%9b%d7%9c%d7%99+%d7%a8%d7%9b%d7%91) | N/A |
-| 37 | [בהר הרצל](http://twitter.com/search?q=%d7%91%d7%94%d7%a8+%d7%94%d7%a8%d7%a6%d7%9c) | N/A |
-| 38 | [West Bank](http://twitter.com/search?q=West+Bank) | N/A |
+| 20 | [בן כספית](http://twitter.com/search?q=%d7%91%d7%9f+%d7%9b%d7%a1%d7%a4%d7%99%d7%aa) | N/A |
+| 21 | [ט בנימין](http://twitter.com/search?q=%d7%98+%d7%91%d7%a0%d7%99%d7%9e%d7%99%d7%9f) | N/A |
+| 22 | [שני יהודים](http://twitter.com/search?q=%d7%a9%d7%a0%d7%99+%d7%99%d7%94%d7%95%d7%93%d7%99%d7%9d) | N/A |
+| 23 | [תג מחיר](http://twitter.com/search?q=%d7%aa%d7%92+%d7%9e%d7%97%d7%99%d7%a8) | N/A |
+| 24 | [מיכל שיר](http://twitter.com/search?q=%d7%9e%d7%99%d7%9b%d7%9c+%d7%a9%d7%99%d7%a8) | N/A |
+| 25 | [בצה״ל](http://twitter.com/search?q=%d7%91%d7%a6%d7%94%d7%b4%d7%9c) | N/A |
+| 26 | [דני זקן](http://twitter.com/search?q=%d7%93%d7%a0%d7%99+%d7%96%d7%a7%d7%9f) | N/A |
+| 27 | [עוצמה יהודית](http://twitter.com/search?q=%d7%a2%d7%95%d7%a6%d7%9e%d7%94+%d7%99%d7%94%d7%95%d7%93%d7%99%d7%aa) | N/A |
+| 28 | [Palestinian](http://twitter.com/search?q=Palestinian) | N/A |
+| 29 | [יא פינק](http://twitter.com/search?q=%d7%99%d7%90+%d7%a4%d7%99%d7%a0%d7%a7) | N/A |
+| 30 | [קובי פרץ](http://twitter.com/search?q=%d7%a7%d7%95%d7%91%d7%99+%d7%a4%d7%a8%d7%a5) | N/A |
+| 31 | [חנן יובל](http://twitter.com/search?q=%d7%97%d7%a0%d7%9f+%d7%99%d7%95%d7%91%d7%9c) | N/A |
+| 32 | [חיי אדם](http://twitter.com/search?q=%d7%97%d7%99%d7%99+%d7%90%d7%93%d7%9d) | N/A |
+| 33 | [כפר שלם](http://twitter.com/search?q=%d7%9b%d7%a4%d7%a8+%d7%a9%d7%9c%d7%9d) | N/A |
+| 34 | [הר ברכה](http://twitter.com/search?q=%d7%94%d7%a8+%d7%91%d7%a8%d7%9b%d7%94) | N/A |
+| 35 | [עוד פיגוע](http://twitter.com/search?q=%d7%a2%d7%95%d7%93+%d7%a4%d7%99%d7%92%d7%95%d7%a2) | N/A |
+| 36 | [היום יום](http://twitter.com/search?q=%d7%94%d7%99%d7%95%d7%9d+%d7%99%d7%95%d7%9d) | N/A |
+| 37 | [West Bank](http://twitter.com/search?q=West+Bank) | N/A |
+| 38 | [של מעוז](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%9e%d7%a2%d7%95%d7%96) | N/A |
 | 39 | [של חווארה](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%97%d7%95%d7%95%d7%90%d7%a8%d7%94) | N/A |
 | 40 | [אובדן שליטה](http://twitter.com/search?q=%d7%90%d7%95%d7%91%d7%93%d7%9f+%d7%a9%d7%9c%d7%99%d7%98%d7%94) | N/A |
-| 41 | [עיתון הארץ](http://twitter.com/search?q=%d7%a2%d7%99%d7%aa%d7%95%d7%9f+%d7%94%d7%90%d7%a8%d7%a5) | N/A |
-| 42 | [ערב רב](http://twitter.com/search?q=%d7%a2%d7%a8%d7%91+%d7%a8%d7%91) | N/A |
-| 43 | [של פלסטינים](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a4%d7%9c%d7%a1%d7%98%d7%99%d7%a0%d7%99%d7%9d) | N/A |
-| 44 | [נועם יעקב](http://twitter.com/search?q=%d7%a0%d7%95%d7%a2%d7%9d+%d7%99%d7%a2%d7%a7%d7%91) | N/A |
-| 45 | [אחרי פיגוע](http://twitter.com/search?q=%d7%90%d7%97%d7%a8%d7%99+%d7%a4%d7%99%d7%92%d7%95%d7%a2) | N/A |
-| 46 | [של ערבים](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a2%d7%a8%d7%91%d7%99%d7%9d) | N/A |
-| 47 | [רק כוח](http://twitter.com/search?q=%d7%a8%d7%a7+%d7%9b%d7%95%d7%97) | N/A |
-| 48 | [מיכל שיר](http://twitter.com/search?q=%d7%9e%d7%99%d7%9b%d7%9c+%d7%a9%d7%99%d7%a8) | N/A |
-| 49 | [פשע שנאה](http://twitter.com/search?q=%d7%a4%d7%a9%d7%a2+%d7%a9%d7%a0%d7%90%d7%94) | N/A |
-| 50 | [של מעוז](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%9e%d7%a2%d7%95%d7%96) | N/A |
+| 41 | [אריה עמית](http://twitter.com/search?q=%d7%90%d7%a8%d7%99%d7%94+%d7%a2%d7%9e%d7%99%d7%aa) | N/A |
+| 42 | [סגן שר](http://twitter.com/search?q=%d7%a1%d7%92%d7%9f+%d7%a9%d7%a8) | N/A |
+| 43 | [ערב רב](http://twitter.com/search?q=%d7%a2%d7%a8%d7%91+%d7%a8%d7%91) | N/A |
+| 44 | [אחרי פיגוע](http://twitter.com/search?q=%d7%90%d7%97%d7%a8%d7%99+%d7%a4%d7%99%d7%92%d7%95%d7%a2) | N/A |
+| 45 | [של ערבים](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a2%d7%a8%d7%91%d7%99%d7%9d) | N/A |
+| 46 | [רק כוח](http://twitter.com/search?q=%d7%a8%d7%a7+%d7%9b%d7%95%d7%97) | N/A |
+| 47 | [פשע שנאה](http://twitter.com/search?q=%d7%a4%d7%a9%d7%a2+%d7%a9%d7%a0%d7%90%d7%94) | N/A |
+| 48 | [מול הטרור](http://twitter.com/search?q=%d7%9e%d7%95%d7%9c+%d7%94%d7%98%d7%a8%d7%95%d7%a8) | N/A |
+| 49 | [כפר ערבי](http://twitter.com/search?q=%d7%9b%d7%a4%d7%a8+%d7%a2%d7%a8%d7%91%d7%99) | N/A |
+| 50 | [שני ישראלים](http://twitter.com/search?q=%d7%a9%d7%a0%d7%99+%d7%99%d7%a9%d7%a8%d7%90%d7%9c%d7%99%d7%9d) | N/A |
 
 
 

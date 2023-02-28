@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ecuador
 
-📆 Last Updated: `2023-02-28 06:17:49 UTC`
+📆 Last Updated: `2023-02-28 07:16:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,48 +23,48 @@ This is top 50 for Ecuador
 | 6 | [#LouisComeToEcuador](http://twitter.com/search?q=%23LouisComeToEcuador) | N/A |
 | 7 | [QUEREMOS A LOUIS EN ECUADOR](http://twitter.com/search?q=QUEREMOS+A+LOUIS+EN+ECUADOR) | N/A |
 | 8 | [#BatallaDeTarqui](http://twitter.com/search?q=%23BatallaDeTarqui) | N/A |
-| 9 | [LATE LATE SHOW WITH TXT](http://twitter.com/search?q=LATE+LATE+SHOW+WITH+TXT) | N/A |
-| 10 | [#TXTonTheLateLateShow](http://twitter.com/search?q=%23TXTonTheLateLateShow) | N/A |
+| 9 | [#TXTonTheLateLateShow](http://twitter.com/search?q=%23TXTonTheLateLateShow) | N/A |
+| 10 | [LATE LATE SHOW WITH TXT](http://twitter.com/search?q=LATE+LATE+SHOW+WITH+TXT) | N/A |
 | 11 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 12 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
 | 13 | [Miguel Bravo](http://twitter.com/search?q=Miguel+Bravo) | N/A |
-| 14 | [Costa Rica](http://twitter.com/search?q=Costa+Rica) | N/A |
+| 14 | [Día del Ejército Ecuatoriano](http://twitter.com/search?q=D%c3%ada+del+Ej%c3%a9rcito+Ecuatoriano) | N/A |
 | 15 | [Miller](http://twitter.com/search?q=Miller) | N/A |
-| 16 | [Día del Ejército Ecuatoriano](http://twitter.com/search?q=D%c3%ada+del+Ej%c3%a9rcito+Ecuatoriano) | N/A |
-| 17 | [#TOMORROW_X_TOGETHER](http://twitter.com/search?q=%23TOMORROW_X_TOGETHER) | #TOMORROW_X_TOGETHER is the name of a South Korean boy band formed by Big Hit Entertainment in 2019. The group consists of five members: Yeonjun, Soobin, Beomgyu, Taehyun and Huening Kai. The name of the group is meant to signify the power of togetherness and unity among people, regardless of their differences. In English, it translates to "Tomorrow Together". |
-| 18 | [Unidad Nacional](http://twitter.com/search?q=Unidad+Nacional) | N/A |
-| 19 | [Angie Asang](http://twitter.com/search?q=Angie+Asang) | N/A |
-| 20 | [Jamil](http://twitter.com/search?q=Jamil) | N/A |
-| 21 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 22 | [4Pelagatos](http://twitter.com/search?q=4Pelagatos) | N/A |
-| 23 | [jimmy bran](http://twitter.com/search?q=jimmy+bran) | N/A |
-| 24 | [Dixon](http://twitter.com/search?q=Dixon) | N/A |
-| 25 | [día del civismo](http://twitter.com/search?q=d%c3%ada+del+civismo) | N/A |
+| 16 | [Unidad Nacional](http://twitter.com/search?q=Unidad+Nacional) | N/A |
+| 17 | [Angie Asang](http://twitter.com/search?q=Angie+Asang) | N/A |
+| 18 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 19 | [#TOMORROW_X_TOGETHER](http://twitter.com/search?q=%23TOMORROW_X_TOGETHER) | #TOMORROW_X_TOGETHER is the name of a South Korean boy band formed by Big Hit Entertainment in 2019. The group consists of five members: Yeonjun, Soobin, Beomgyu, Taehyun and Huening Kai. The name of the group is meant to signify the power of togetherness and unity among people, regardless of their differences. In English, it translates to "Tomorrow Together". |
+| 20 | [4Pelagatos](http://twitter.com/search?q=4Pelagatos) | N/A |
+| 21 | [Costa Rica](http://twitter.com/search?q=Costa+Rica) | N/A |
+| 22 | [jimmy bran](http://twitter.com/search?q=jimmy+bran) | N/A |
+| 23 | [Lionel Scaloni](http://twitter.com/search?q=Lionel+Scaloni) | N/A |
+| 24 | [día del civismo](http://twitter.com/search?q=d%c3%ada+del+civismo) | N/A |
+| 25 | [Dixon](http://twitter.com/search?q=Dixon) | N/A |
 | 26 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 27 | [Lionel Scaloni](http://twitter.com/search?q=Lionel+Scaloni) | N/A |
-| 28 | [Arauz](http://twitter.com/search?q=Arauz) | N/A |
-| 29 | [Zámbiza](http://twitter.com/search?q=Z%c3%a1mbiza) | N/A |
+| 27 | [Arauz](http://twitter.com/search?q=Arauz) | N/A |
+| 28 | [Zámbiza](http://twitter.com/search?q=Z%c3%a1mbiza) | N/A |
+| 29 | [CONAIE](http://twitter.com/search?q=CONAIE) | N/A |
 | 30 | [Sonia](http://twitter.com/search?q=Sonia) | Sonia is a female given name of Latin origin, derived from the Greek word for "wisdom". It is a popular name in many countries, including India, Italy, France, Spain, and the United States. In English, it is usually pronounced "so-NEE-ah". |
-| 31 | [Orense](http://twitter.com/search?q=Orense) | N/A |
-| 32 | [Lelo](http://twitter.com/search?q=Lelo) | N/A |
-| 33 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
-| 34 | [CONAIE](http://twitter.com/search?q=CONAIE) | N/A |
-| 35 | [Aucas](http://twitter.com/search?q=Aucas) | N/A |
-| 36 | [POLLY PASTEL BY BUILD](http://twitter.com/search?q=POLLY+PASTEL+BY+BUILD) | N/A |
-| 37 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
-| 38 | [Sauces](http://twitter.com/search?q=Sauces) | N/A |
-| 39 | [Alexandra](http://twitter.com/search?q=Alexandra) | N/A |
+| 31 | [Aucas](http://twitter.com/search?q=Aucas) | N/A |
+| 32 | [POLLY PASTEL BY BUILD](http://twitter.com/search?q=POLLY+PASTEL+BY+BUILD) | N/A |
+| 33 | [Sauces](http://twitter.com/search?q=Sauces) | N/A |
+| 34 | [Lelo](http://twitter.com/search?q=Lelo) | N/A |
+| 35 | [rondelli](http://twitter.com/search?q=rondelli) | N/A |
+| 36 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
+| 37 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 38 | [Bustos](http://twitter.com/search?q=Bustos) | N/A |
+| 39 | [Mauricio Crizón](http://twitter.com/search?q=Mauricio+Criz%c3%b3n) | N/A |
 | 40 | [Johanna](http://twitter.com/search?q=Johanna) | N/A |
-| 41 | [Bustos](http://twitter.com/search?q=Bustos) | N/A |
-| 42 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 43 | [rondelli](http://twitter.com/search?q=rondelli) | N/A |
-| 44 | [Mauricio Crizón](http://twitter.com/search?q=Mauricio+Criz%c3%b3n) | N/A |
-| 45 | [Relaciones Internacionales](http://twitter.com/search?q=Relaciones+Internacionales) | N/A |
-| 46 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
-| 47 | [Alberti](http://twitter.com/search?q=Alberti) | N/A |
-| 48 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
-| 49 | [Samuel Sosa](http://twitter.com/search?q=Samuel+Sosa) | N/A |
-| 50 | [Germán](http://twitter.com/search?q=Germ%c3%a1n) | Germán is a Spanish and Portuguese name derived from the Latin Germanus, meaning "brother". It is also a Germanic given name, derived from the Germanic element ger, meaning "spear". |
+| 41 | [Relaciones Internacionales](http://twitter.com/search?q=Relaciones+Internacionales) | N/A |
+| 42 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
+| 43 | [Alberti](http://twitter.com/search?q=Alberti) | N/A |
+| 44 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
+| 45 | [Samuel Sosa](http://twitter.com/search?q=Samuel+Sosa) | N/A |
+| 46 | [Germán](http://twitter.com/search?q=Germ%c3%a1n) | Germán is a Spanish and Portuguese name derived from the Latin Germanus, meaning "brother". It is also a Germanic given name, derived from the Germanic element ger, meaning "spear". |
+| 47 | [Cortázar](http://twitter.com/search?q=Cort%c3%a1zar) | N/A |
+| 48 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 49 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
+| 50 | [george capwell](http://twitter.com/search?q=george+capwell) | N/A |
 
 
 

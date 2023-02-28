@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quezon City
 
-📆 Last Updated: `2023-02-28 06:17:28 UTC`
+📆 Last Updated: `2023-02-28 07:16:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Philippines](</Philippines>)
 | 1 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 2 | [#TXTonTheLateLateShow](http://twitter.com/search?q=%23TXTonTheLateLateShow) | N/A |
 | 3 | [LATE LATE SHOW WITH TXT](http://twitter.com/search?q=LATE+LATE+SHOW+WITH+TXT) | N/A |
-| 4 | [#StarMagicCeleb3x3](http://twitter.com/search?q=%23StarMagicCeleb3x3) | N/A |
-| 5 | [GAME ON BGYO OUR MVP](http://twitter.com/search?q=GAME+ON+BGYO+OUR+MVP) | N/A |
-| 6 | [JK LIVE](http://twitter.com/search?q=JK+LIVE) | JK LIVE is a Japanese streaming service that allows users to watch live broadcasts of events, concerts, and other entertainment. The acronym stands for "Japan Kansai Live", referring to the Kansai region of Japan where the service is based. |
-| 7 | [8 ML Heroes](http://twitter.com/search?q=8+ML+Heroes) | N/A |
-| 8 | [PH SCAMMER](http://twitter.com/search?q=PH+SCAMMER) | N/A |
-| 9 | [Liza](http://twitter.com/search?q=Liza) | N/A |
-| 10 | [I VOLUNTEER](http://twitter.com/search?q=I+VOLUNTEER) | N/A |
-| 11 | [Terry](http://twitter.com/search?q=Terry) | N/A |
-| 12 | [#MgaLihimNiUrduja](http://twitter.com/search?q=%23MgaLihimNiUrduja) | N/A |
-| 13 | [#ShineBrightKitTENDay](http://twitter.com/search?q=%23ShineBrightKitTENDay) | N/A |
-| 14 | [#테니생일_축하축하_하네요](http://twitter.com/search?q=%23%ed%85%8c%eb%8b%88%ec%83%9d%ec%9d%bc_%ec%b6%95%ed%95%98%ec%b6%95%ed%95%98_%ed%95%98%eb%84%a4%ec%9a%94) | N/A |
-| 15 | [formidabelle megawoman](http://twitter.com/search?q=formidabelle+megawoman) | N/A |
-| 16 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
-| 17 | [Bennett](http://twitter.com/search?q=Bennett) | N/A |
-| 18 | [Benny](http://twitter.com/search?q=Benny) | N/A |
-| 19 | [the church built by god](http://twitter.com/search?q=the+church+built+by+god) | N/A |
+| 4 | [8 ML Heroes](http://twitter.com/search?q=8+ML+Heroes) | N/A |
+| 5 | [PH SCAMMER](http://twitter.com/search?q=PH+SCAMMER) | N/A |
+| 6 | [#StarMagicCeleb3x3](http://twitter.com/search?q=%23StarMagicCeleb3x3) | N/A |
+| 7 | [GAME ON BGYO OUR MVP](http://twitter.com/search?q=GAME+ON+BGYO+OUR+MVP) | N/A |
+| 8 | [Liza](http://twitter.com/search?q=Liza) | N/A |
+| 9 | [#MgaLihimNiUrduja](http://twitter.com/search?q=%23MgaLihimNiUrduja) | N/A |
+| 10 | [#ShineBrightKitTENDay](http://twitter.com/search?q=%23ShineBrightKitTENDay) | N/A |
+| 11 | [#TOMORROW_X_TOGETHER](http://twitter.com/search?q=%23TOMORROW_X_TOGETHER) | #TOMORROW_X_TOGETHER is the name of a South Korean boy band formed by Big Hit Entertainment in 2019. The group consists of five members: Yeonjun, Soobin, Beomgyu, Taehyun and Huening Kai. The name of the group is meant to signify the power of togetherness and unity among people, regardless of their differences. In English, it translates to "Tomorrow Together". |
+| 12 | [I VOLUNTEER](http://twitter.com/search?q=I+VOLUNTEER) | N/A |
+| 13 | [formidabelle megawoman](http://twitter.com/search?q=formidabelle+megawoman) | N/A |
+| 14 | [Terry](http://twitter.com/search?q=Terry) | N/A |
+| 15 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
+| 16 | [TREASURE in Shopee](http://twitter.com/search?q=TREASURE+in+Shopee) | N/A |
+| 17 | [JK LIVE](http://twitter.com/search?q=JK+LIVE) | JK LIVE is a Japanese streaming service that allows users to watch live broadcasts of events, concerts, and other entertainment. The acronym stands for "Japan Kansai Live", referring to the Kansai region of Japan where the service is based. |
+| 18 | [Bennett](http://twitter.com/search?q=Bennett) | N/A |
+| 19 | [BPPH](http://twitter.com/search?q=BPPH) | N/A |
 | 20 | [Fino](http://twitter.com/search?q=Fino) | N/A |
-| 21 | [TREASURE in Shopee](http://twitter.com/search?q=TREASURE+in+Shopee) | N/A |
-| 22 | [BPPH](http://twitter.com/search?q=BPPH) | N/A |
+| 21 | [NAIA](http://twitter.com/search?q=NAIA) | N/A |
+| 22 | [TENLEE 27th BDAY](http://twitter.com/search?q=TENLEE+27th+BDAY) | N/A |
 | 23 | [Candace](http://twitter.com/search?q=Candace) | N/A |
-| 24 | [TENLEE 27th BDAY](http://twitter.com/search?q=TENLEE+27th+BDAY) | N/A |
-| 25 | [happy birthday ten](http://twitter.com/search?q=happy+birthday+ten) | N/A |
-| 26 | [Brownlee](http://twitter.com/search?q=Brownlee) | N/A |
-| 27 | [NAIA](http://twitter.com/search?q=NAIA) | N/A |
-| 28 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 29 | [BLAME IT ON ME](http://twitter.com/search?q=BLAME+IT+ON+ME) | N/A |
-| 30 | [gma7 widescreen format](http://twitter.com/search?q=gma7+widescreen+format) | N/A |
-| 31 | [dirty linen outrage](http://twitter.com/search?q=dirty+linen+outrage) | N/A |
-| 32 | [james corden](http://twitter.com/search?q=james+corden) | N/A |
-| 33 | [Dara](http://twitter.com/search?q=Dara) | N/A |
-| 34 | [NAKAKAHIYA KAYO](http://twitter.com/search?q=NAKAKAHIYA+KAYO) | N/A |
-| 35 | [Sour & Sweet](http://twitter.com/search?q=Sour+%26+Sweet) | N/A |
-| 36 | [Luo Yi](http://twitter.com/search?q=Luo+Yi) | N/A |
-| 37 | [Gilas](http://twitter.com/search?q=Gilas) | N/A |
-| 38 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 39 | [vibrent pieluvarn](http://twitter.com/search?q=vibrent+pieluvarn) | N/A |
-| 40 | [8 League of Legends](http://twitter.com/search?q=8+League+of+Legends) | N/A |
-| 41 | [Scottie](http://twitter.com/search?q=Scottie) | Scottie is a nickname for the Scottish Terrier, a small breed of dog. It is also used as a nickname for people from Scotland or with Scottish heritage. |
-| 42 | [GAYUMA TEASER PHOTOS](http://twitter.com/search?q=GAYUMA+TEASER+PHOTOS) | N/A |
-| 43 | [KAI Rover Teaser Images 1](http://twitter.com/search?q=KAI+Rover+Teaser+Images+1) | N/A |
-| 44 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
-| 45 | [Kendrick Lamar](http://twitter.com/search?q=Kendrick+Lamar) | N/A |
-| 46 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
-| 47 | [POLLY PASTEL BY BUILD](http://twitter.com/search?q=POLLY+PASTEL+BY+BUILD) | N/A |
-| 48 | [Oni 2.0](http://twitter.com/search?q=Oni+2.0) | N/A |
-| 49 | [AKO NA](http://twitter.com/search?q=AKO+NA) | AKO NA is a Filipino expression that means "I'm here" or "I'm present". It is often used to indicate that someone is ready and willing to help. |
-| 50 | [GoodTimeTo with YAMA](http://twitter.com/search?q=GoodTimeTo+with+YAMA) | N/A |
+| 24 | [happy birthday ten](http://twitter.com/search?q=happy+birthday+ten) | N/A |
+| 25 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 26 | [BLAME IT ON ME](http://twitter.com/search?q=BLAME+IT+ON+ME) | N/A |
+| 27 | [Benny](http://twitter.com/search?q=Benny) | N/A |
+| 28 | [gma7 widescreen format](http://twitter.com/search?q=gma7+widescreen+format) | N/A |
+| 29 | [dirty linen outrage](http://twitter.com/search?q=dirty+linen+outrage) | N/A |
+| 30 | [Dara](http://twitter.com/search?q=Dara) | N/A |
+| 31 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 32 | [Brownlee](http://twitter.com/search?q=Brownlee) | N/A |
+| 33 | [vibrent pieluvarn](http://twitter.com/search?q=vibrent+pieluvarn) | N/A |
+| 34 | [8 League of Legends](http://twitter.com/search?q=8+League+of+Legends) | N/A |
+| 35 | [KAI Rover Teaser Images 1](http://twitter.com/search?q=KAI+Rover+Teaser+Images+1) | N/A |
+| 36 | [Here Lies Love](http://twitter.com/search?q=Here+Lies+Love) | N/A |
+| 37 | [james corden](http://twitter.com/search?q=james+corden) | N/A |
+| 38 | [Luo Yi](http://twitter.com/search?q=Luo+Yi) | N/A |
+| 39 | [Scottie](http://twitter.com/search?q=Scottie) | Scottie is a nickname for the Scottish Terrier, a small breed of dog. It is also used as a nickname for people from Scotland or with Scottish heritage. |
+| 40 | [Gilas](http://twitter.com/search?q=Gilas) | N/A |
+| 41 | [Oni 2.0](http://twitter.com/search?q=Oni+2.0) | N/A |
+| 42 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
+| 43 | [Kendrick Lamar](http://twitter.com/search?q=Kendrick+Lamar) | N/A |
+| 44 | [NAKAKAHIYA KAYO](http://twitter.com/search?q=NAKAKAHIYA+KAYO) | N/A |
+| 45 | [GoodTimeTo with YAMA](http://twitter.com/search?q=GoodTimeTo+with+YAMA) | N/A |
+| 46 | [Yunhyeong](http://twitter.com/search?q=Yunhyeong) | Yunhyeong is a Korean given name, and it means "righteousness" in English. |
+| 47 | [Coach Tai](http://twitter.com/search?q=Coach+Tai) | N/A |
+| 48 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 49 | [Judy](http://twitter.com/search?q=Judy) | N/A |
+| 50 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
 
 
 
