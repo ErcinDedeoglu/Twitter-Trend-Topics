@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bremen
 
-📆 Last Updated: `2023-02-28 07:16:23 UTC`
+📆 Last Updated: `2023-02-28 08:16:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,51 +18,51 @@ This is top 50 for [Germany](</Germany>)
 | 1 | [#hartaberfair](http://twitter.com/search?q=%23hartaberfair) | #hartaberfair is a German phrase that translates to "fair and square" or "just and fair". It is used to express the idea of fairness and justice in a situation. |
 | 2 | [#BETCrypto](http://twitter.com/search?q=%23BETCrypto) | N/A |
 | 3 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 4 | [#firstdateshotel](http://twitter.com/search?q=%23firstdateshotel) | N/A |
-| 5 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
-| 6 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
-| 7 | [start in die woche](http://twitter.com/search?q=start+in+die+woche) | N/A |
-| 8 | [Vergewaltigungen](http://twitter.com/search?q=Vergewaltigungen) | N/A |
-| 9 | [Schönen Dienstag](http://twitter.com/search?q=Sch%c3%b6nen+Dienstag) | N/A |
-| 10 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
-| 11 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
-| 12 | [Senioren](http://twitter.com/search?q=Senioren) | N/A |
-| 13 | [Trinkgeld](http://twitter.com/search?q=Trinkgeld) | N/A |
-| 14 | [Polarlichter](http://twitter.com/search?q=Polarlichter) | N/A |
-| 15 | [Wölfin](http://twitter.com/search?q=W%c3%b6lfin) | N/A |
-| 16 | [GuMo](http://twitter.com/search?q=GuMo) | N/A |
-| 17 | [Schönen Tag](http://twitter.com/search?q=Sch%c3%b6nen+Tag) | N/A |
-| 18 | [Gutachten](http://twitter.com/search?q=Gutachten) | N/A |
-| 19 | [Wärmepumpen](http://twitter.com/search?q=W%c3%a4rmepumpen) | N/A |
-| 20 | [Helena](http://twitter.com/search?q=Helena) | N/A |
-| 21 | [Start in den Tag](http://twitter.com/search?q=Start+in+den+Tag) | N/A |
-| 22 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
-| 23 | [Guten Morgen Swen](http://twitter.com/search?q=Guten+Morgen+Swen) | N/A |
-| 24 | [Moderator](http://twitter.com/search?q=Moderator) | N/A |
-| 25 | [Berliner Kirchenstift](http://twitter.com/search?q=Berliner+Kirchenstift) | N/A |
-| 26 | [Guten Morgen Martina](http://twitter.com/search?q=Guten+Morgen+Martina) | N/A |
-| 27 | [Guten Morgen Martina](http://twitter.com/search?q=Guten+Morgen+Martina) | N/A |
-| 28 | [Lumpenpazifisten](http://twitter.com/search?q=Lumpenpazifisten) | N/A |
-| 29 | [montagmorgen](http://twitter.com/search?q=montagmorgen) | N/A |
-| 30 | [Suicune](http://twitter.com/search?q=Suicune) | N/A |
-| 31 | [Kriegsverbrechen](http://twitter.com/search?q=Kriegsverbrechen) | N/A |
-| 32 | [Ethikrat](http://twitter.com/search?q=Ethikrat) | N/A |
-| 33 | [Lebensmittel](http://twitter.com/search?q=Lebensmittel) | N/A |
-| 34 | [Guten Morgen Claudia](http://twitter.com/search?q=Guten+Morgen+Claudia) | N/A |
-| 35 | [Salvatore](http://twitter.com/search?q=Salvatore) | N/A |
-| 36 | [frau buyx](http://twitter.com/search?q=frau+buyx) | N/A |
-| 37 | [Guten Morgen Conny](http://twitter.com/search?q=Guten+Morgen+Conny) | N/A |
-| 38 | [Liebe zum Geburtstag](http://twitter.com/search?q=Liebe+zum+Geburtstag) | N/A |
-| 39 | [Zimmermann](http://twitter.com/search?q=Zimmermann) | N/A |
-| 40 | [Nagel](http://twitter.com/search?q=Nagel) | N/A |
-| 41 | [Arbeitstag](http://twitter.com/search?q=Arbeitstag) | N/A |
-| 42 | [Öl- und Gasheizungen](http://twitter.com/search?q=%c3%96l-+und+Gasheizungen) | N/A |
-| 43 | [Abrams](http://twitter.com/search?q=Abrams) | Abrams is a surname of English and German origin. It is derived from the Germanic personal name Abraham, meaning "father of many". |
-| 44 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 45 | [Guten Morgen Michael](http://twitter.com/search?q=Guten+Morgen+Michael) | N/A |
-| 46 | [Eltern ihre Kinder](http://twitter.com/search?q=Eltern+ihre+Kinder) | N/A |
-| 47 | [bratapfel](http://twitter.com/search?q=bratapfel) | N/A |
-| 48 | [Schutzbedürftige](http://twitter.com/search?q=Schutzbed%c3%bcrftige) | N/A |
+| 4 | [Meute](http://twitter.com/search?q=Meute) | N/A |
+| 5 | [#Wissing](http://twitter.com/search?q=%23Wissing) | N/A |
+| 6 | [Vergewaltigungen](http://twitter.com/search?q=Vergewaltigungen) | N/A |
+| 7 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
+| 8 | [start in die woche](http://twitter.com/search?q=start+in+die+woche) | N/A |
+| 9 | [Bestandsflotte](http://twitter.com/search?q=Bestandsflotte) | N/A |
+| 10 | [Schönen Dienstag](http://twitter.com/search?q=Sch%c3%b6nen+Dienstag) | N/A |
+| 11 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
+| 12 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
+| 13 | [Senioren](http://twitter.com/search?q=Senioren) | N/A |
+| 14 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
+| 15 | [Trinkgeld](http://twitter.com/search?q=Trinkgeld) | N/A |
+| 16 | [Moderator](http://twitter.com/search?q=Moderator) | N/A |
+| 17 | [Heizungen](http://twitter.com/search?q=Heizungen) | N/A |
+| 18 | [Start in den Tag](http://twitter.com/search?q=Start+in+den+Tag) | N/A |
+| 19 | [Polarlichter](http://twitter.com/search?q=Polarlichter) | N/A |
+| 20 | [Wärmepumpen](http://twitter.com/search?q=W%c3%a4rmepumpen) | N/A |
+| 21 | [Gutachten](http://twitter.com/search?q=Gutachten) | N/A |
+| 22 | [Moin Wölfin](http://twitter.com/search?q=Moin+W%c3%b6lfin) | N/A |
+| 23 | [Helena](http://twitter.com/search?q=Helena) | N/A |
+| 24 | [Kriegsverbrechen](http://twitter.com/search?q=Kriegsverbrechen) | N/A |
+| 25 | [Lumpenpazifisten](http://twitter.com/search?q=Lumpenpazifisten) | N/A |
+| 26 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
+| 27 | [Berliner Kirchenstift](http://twitter.com/search?q=Berliner+Kirchenstift) | N/A |
+| 28 | [Guten Morgen Martina](http://twitter.com/search?q=Guten+Morgen+Martina) | N/A |
+| 29 | [Schönen Tag](http://twitter.com/search?q=Sch%c3%b6nen+Tag) | N/A |
+| 30 | [Strom](http://twitter.com/search?q=Strom) | N/A |
+| 31 | [Guten Morgen Michael](http://twitter.com/search?q=Guten+Morgen+Michael) | N/A |
+| 32 | [Happy 28th](http://twitter.com/search?q=Happy+28th) | N/A |
+| 33 | [GuMo](http://twitter.com/search?q=GuMo) | N/A |
+| 34 | [Schubsi](http://twitter.com/search?q=Schubsi) | N/A |
+| 35 | [Veto](http://twitter.com/search?q=Veto) | N/A |
+| 36 | [montagmorgen](http://twitter.com/search?q=montagmorgen) | N/A |
+| 37 | [Suicune](http://twitter.com/search?q=Suicune) | N/A |
+| 38 | [Teil des Krieges](http://twitter.com/search?q=Teil+des+Krieges) | N/A |
+| 39 | [Ethikrat](http://twitter.com/search?q=Ethikrat) | N/A |
+| 40 | [Zimmermann](http://twitter.com/search?q=Zimmermann) | N/A |
+| 41 | [Salvatore](http://twitter.com/search?q=Salvatore) | N/A |
+| 42 | [Nagel](http://twitter.com/search?q=Nagel) | N/A |
+| 43 | [Ernährung](http://twitter.com/search?q=Ern%c3%a4hrung) | N/A |
+| 44 | [Guten Morgen Welt](http://twitter.com/search?q=Guten+Morgen+Welt) | N/A |
+| 45 | [Abrams](http://twitter.com/search?q=Abrams) | Abrams is a surname of English and German origin. It is derived from the Germanic personal name Abraham, meaning "father of many". |
+| 46 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
+| 47 | [Habt den Tag](http://twitter.com/search?q=Habt+den+Tag) | N/A |
+| 48 | [Eltern ihre Kinder](http://twitter.com/search?q=Eltern+ihre+Kinder) | N/A |
 
 
 

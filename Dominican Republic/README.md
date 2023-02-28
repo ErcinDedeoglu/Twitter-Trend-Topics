@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dominican Republic
 
-📆 Last Updated: `2023-02-28 07:16:58 UTC`
+📆 Last Updated: `2023-02-28 08:17:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,9 +15,9 @@ This is top 50 for Dominican Republic
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#RDavanza](http://twitter.com/search?q=%23RDavanza) | N/A |
-| 2 | [#Rendiciondecuentas2023](http://twitter.com/search?q=%23Rendiciondecuentas2023) | N/A |
-| 3 | [Independencia Nacional](http://twitter.com/search?q=Independencia+Nacional) | N/A |
+| 1 | [#rdavanza](http://twitter.com/search?q=%23rdavanza) | N/A |
+| 2 | [#rendiciondecuentas2023](http://twitter.com/search?q=%23rendiciondecuentas2023) | N/A |
+| 3 | [independencia nacional](http://twitter.com/search?q=independencia+nacional) | N/A |
 | 4 | [#OrgullososDeEstarMejor](http://twitter.com/search?q=%23OrgullososDeEstarMejor) | N/A |
 | 5 | [#27deFebrero](http://twitter.com/search?q=%2327deFebrero) | N/A |
 | 6 | [#27fconfdefalso](http://twitter.com/search?q=%2327fconfdefalso) | N/A |
@@ -25,13 +25,13 @@ This is top 50 for Dominican Republic
 | 8 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 9 | [Botello](http://twitter.com/search?q=Botello) | N/A |
 | 10 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
-| 11 | [Eduardo Estrella](http://twitter.com/search?q=Eduardo+Estrella) | N/A |
-| 12 | [Asamblea Nacional](http://twitter.com/search?q=Asamblea+Nacional) | N/A |
-| 13 | [Congreso Nacional](http://twitter.com/search?q=Congreso+Nacional) | N/A |
-| 14 | [Patria y Libertad](http://twitter.com/search?q=Patria+y+Libertad) | N/A |
-| 15 | [Falcon 9](http://twitter.com/search?q=Falcon+9) | N/A |
-| 16 | [Juan Pablo Duarte](http://twitter.com/search?q=Juan+Pablo+Duarte) | Juan Pablo Duarte is a national hero of the Dominican Republic. He was a key figure in the struggle for independence from Haiti in 1844. His name is often used as a symbol of freedom and patriotism in the Dominican Republic. In English, his name translates to "John Paul Duarte". |
-| 17 | [Punta Catalina](http://twitter.com/search?q=Punta+Catalina) | N/A |
+| 11 | [Congreso Nacional](http://twitter.com/search?q=Congreso+Nacional) | N/A |
+| 12 | [Patria y Libertad](http://twitter.com/search?q=Patria+y+Libertad) | N/A |
+| 13 | [Falcon 9](http://twitter.com/search?q=Falcon+9) | N/A |
+| 14 | [Juan Pablo Duarte](http://twitter.com/search?q=Juan+Pablo+Duarte) | Juan Pablo Duarte is a national hero of the Dominican Republic. He was a key figure in the struggle for independence from Haiti in 1844. His name is often used as a symbol of freedom and patriotism in the Dominican Republic. In English, his name translates to "John Paul Duarte". |
+| 15 | [Asamblea Nacional](http://twitter.com/search?q=Asamblea+Nacional) | N/A |
+| 16 | [Punta Catalina](http://twitter.com/search?q=Punta+Catalina) | N/A |
+| 17 | [Eduardo Estrella](http://twitter.com/search?q=Eduardo+Estrella) | N/A |
 | 18 | [Mella](http://twitter.com/search?q=Mella) | N/A |
 | 19 | [Guido](http://twitter.com/search?q=Guido) | Guido is a slang term used to refer to a certain type of Italian-American man. It is often used in a derogatory way to describe someone who is seen as overly macho, chauvinistic, and/or aggressive. |
 | 20 | [inapa](http://twitter.com/search?q=inapa) | N/A |
@@ -55,15 +55,15 @@ This is top 50 for Dominican Republic
 | 38 | [Suiza](http://twitter.com/search?q=Suiza) | N/A |
 | 39 | [luisin](http://twitter.com/search?q=luisin) | N/A |
 | 40 | [Che Garcia](http://twitter.com/search?q=Che+Garcia) | N/A |
-| 41 | [Haití](http://twitter.com/search?q=Hait%c3%ad) | Haití is the Spanish spelling of Haiti, a Caribbean country located on the western part of the island of Hispaniola. In English, Haiti means "mountainous country." |
-| 42 | [Jaime David](http://twitter.com/search?q=Jaime+David) | N/A |
+| 41 | [jaime david](http://twitter.com/search?q=jaime+david) | N/A |
+| 42 | [Haití](http://twitter.com/search?q=Hait%c3%ad) | Haití is the Spanish spelling of Haiti, a Caribbean country located on the western part of the island of Hispaniola. In English, Haiti means "mountainous country." |
 | 43 | [durante 2022](http://twitter.com/search?q=durante+2022) | N/A |
 | 44 | [puerta del conde](http://twitter.com/search?q=puerta+del+conde) | N/A |
 | 45 | [jiménez moya](http://twitter.com/search?q=jim%c3%a9nez+moya) | N/A |
 | 46 | [Miguel Vargas](http://twitter.com/search?q=Miguel+Vargas) | N/A |
 | 47 | [pacto de nación](http://twitter.com/search?q=pacto+de+naci%c3%b3n) | N/A |
 | 48 | [Pedernales](http://twitter.com/search?q=Pedernales) | N/A |
-| 49 | [Guardianes del Cambio](http://twitter.com/search?q=Guardianes+del+Cambio) | N/A |
+| 49 | [guardianes del cambio](http://twitter.com/search?q=guardianes+del+cambio) | N/A |
 | 50 | [rd$90,390](http://twitter.com/search?q=rd%2490%2c390) | N/A |
 
 

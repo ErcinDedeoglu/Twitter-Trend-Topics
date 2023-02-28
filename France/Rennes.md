@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rennes
 
-📆 Last Updated: `2023-02-28 07:16:23 UTC`
+📆 Last Updated: `2023-02-28 08:16:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [France](</France>)
 | 1 | [#omPSG](http://twitter.com/search?q=%23omPSG) | N/A |
 | 2 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 3 | [Payet](http://twitter.com/search?q=Payet) | Payet is a French surname. It is derived from the Old French word "paie," which means "payment." In English, it can be translated to mean "one who pays." |
-| 4 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
-| 5 | [#MorningDeDifool](http://twitter.com/search?q=%23MorningDeDifool) | N/A |
-| 6 | [#PokemonPresents](http://twitter.com/search?q=%23PokemonPresents) | N/A |
-| 7 | [Hilona](http://twitter.com/search?q=Hilona) | N/A |
-| 8 | [Julien Bert](http://twitter.com/search?q=Julien+Bert) | N/A |
-| 9 | [Ruben Östlund](http://twitter.com/search?q=Ruben+%c3%96stlund) | N/A |
-| 10 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 4 | [#MorningDeDifool](http://twitter.com/search?q=%23MorningDeDifool) | N/A |
+| 5 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
+| 6 | [Hilona](http://twitter.com/search?q=Hilona) | N/A |
+| 7 | [#PokemonPresents](http://twitter.com/search?q=%23PokemonPresents) | N/A |
+| 8 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 9 | [Julien Bert](http://twitter.com/search?q=Julien+Bert) | N/A |
+| 10 | [Ruben Östlund](http://twitter.com/search?q=Ruben+%c3%96stlund) | N/A |
 | 11 | [#ASCFCGB](http://twitter.com/search?q=%23ASCFCGB) | N/A |
 | 12 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
 | 13 | [Ethnicité](http://twitter.com/search?q=Ethnicit%c3%a9) | N/A |
 | 14 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
 | 15 | [Puskas](http://twitter.com/search?q=Puskas) | N/A |
-| 16 | [#FRAECO](http://twitter.com/search?q=%23FRAECO) | N/A |
-| 17 | [Bailly](http://twitter.com/search?q=Bailly) | Bailly is a French surname derived from the Old French word baillis, meaning "bailiff" or "steward". It is also a given name in France, derived from the same source. |
-| 18 | [Suicune](http://twitter.com/search?q=Suicune) | N/A |
-| 19 | [Balkany](http://twitter.com/search?q=Balkany) | N/A |
-| 20 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
-| 21 | [Bachelot](http://twitter.com/search?q=Bachelot) | N/A |
-| 22 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 23 | [Fransergio](http://twitter.com/search?q=Fransergio) | N/A |
-| 24 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
-| 25 | [Leris](http://twitter.com/search?q=Leris) | N/A |
-| 26 | [Astrid](http://twitter.com/search?q=Astrid) | N/A |
-| 27 | [Bonjour Lyla](http://twitter.com/search?q=Bonjour+Lyla) | N/A |
-| 28 | [Shay](http://twitter.com/search?q=Shay) | N/A |
-| 29 | [Mwanga](http://twitter.com/search?q=Mwanga) | N/A |
-| 30 | [Gigio](http://twitter.com/search?q=Gigio) | N/A |
-| 31 | [Roselyne](http://twitter.com/search?q=Roselyne) | N/A |
-| 32 | [Guion](http://twitter.com/search?q=Guion) | N/A |
-| 33 | [Aziliz](http://twitter.com/search?q=Aziliz) | N/A |
+| 16 | [#MardiConseil](http://twitter.com/search?q=%23MardiConseil) | N/A |
+| 17 | [Suicune](http://twitter.com/search?q=Suicune) | N/A |
+| 18 | [Bailly](http://twitter.com/search?q=Bailly) | Bailly is a French surname derived from the Old French word baillis, meaning "bailiff" or "steward". It is also a given name in France, derived from the same source. |
+| 19 | [Palme](http://twitter.com/search?q=Palme) | N/A |
+| 20 | [Balkany](http://twitter.com/search?q=Balkany) | N/A |
+| 21 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
+| 22 | [Bachelot](http://twitter.com/search?q=Bachelot) | N/A |
+| 23 | [Zavatta](http://twitter.com/search?q=Zavatta) | N/A |
+| 24 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 25 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
+| 26 | [Fransergio](http://twitter.com/search?q=Fransergio) | N/A |
+| 27 | [Achraf](http://twitter.com/search?q=Achraf) | N/A |
+| 28 | [Astrid](http://twitter.com/search?q=Astrid) | N/A |
+| 29 | [Leris](http://twitter.com/search?q=Leris) | N/A |
+| 30 | [Shay](http://twitter.com/search?q=Shay) | N/A |
+| 31 | [Gigio](http://twitter.com/search?q=Gigio) | N/A |
+| 32 | [Mwanga](http://twitter.com/search?q=Mwanga) | N/A |
+| 33 | [Guion](http://twitter.com/search?q=Guion) | N/A |
 | 34 | [Marseille](http://twitter.com/search?q=Marseille) | N/A |
 | 35 | [Amiens](http://twitter.com/search?q=Amiens) | N/A |
-| 36 | [Maja](http://twitter.com/search?q=Maja) | N/A |
-| 37 | [Pétain](http://twitter.com/search?q=P%c3%a9tain) | N/A |
-| 38 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
-| 39 | [Bonjour Twitter](http://twitter.com/search?q=Bonjour+Twitter) | N/A |
-| 40 | [François Hadji](http://twitter.com/search?q=Fran%c3%a7ois+Hadji) | N/A |
-| 41 | [Lacoux](http://twitter.com/search?q=Lacoux) | N/A |
-| 42 | [Noël Le Graët](http://twitter.com/search?q=No%c3%abl+Le+Gra%c3%abt) | N/A |
-| 43 | [Lillard](http://twitter.com/search?q=Lillard) | N/A |
-| 44 | [Vitinha](http://twitter.com/search?q=Vitinha) | Vitinha is a Portuguese nickname for someone named Vitor, which is a common name in Portugal. In English, it translates to "little Vitor". |
-| 45 | [Emiliano Martinez](http://twitter.com/search?q=Emiliano+Martinez) | N/A |
-| 46 | [Scaloni](http://twitter.com/search?q=Scaloni) | N/A |
+| 36 | [Pétain](http://twitter.com/search?q=P%c3%a9tain) | N/A |
+| 37 | [Aziliz](http://twitter.com/search?q=Aziliz) | N/A |
+| 38 | [Maja](http://twitter.com/search?q=Maja) | N/A |
+| 39 | [Weverse](http://twitter.com/search?q=Weverse) | Weverse is a social media platform created by the South Korean entertainment company Big Hit Entertainment. It is designed to connect fans with artists and allow them to interact with each other. The name Weverse is derived from the words “we” and “universe”, representing the idea of creating a universe where fans and artists can come together. |
+| 40 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
+| 41 | [François Hadji](http://twitter.com/search?q=Fran%c3%a7ois+Hadji) | N/A |
+| 42 | [Lacoux](http://twitter.com/search?q=Lacoux) | N/A |
+| 43 | [Noël Le Graët](http://twitter.com/search?q=No%c3%abl+Le+Gra%c3%abt) | N/A |
+| 44 | [Scaloni](http://twitter.com/search?q=Scaloni) | N/A |
+| 45 | [Estrosi](http://twitter.com/search?q=Estrosi) | N/A |
+| 46 | [Guy Savoy](http://twitter.com/search?q=Guy+Savoy) | N/A |
 | 47 | [Badji](http://twitter.com/search?q=Badji) | N/A |
-| 48 | [haouas](http://twitter.com/search?q=haouas) | N/A |
-| 49 | [Bakwa](http://twitter.com/search?q=Bakwa) | N/A |
-| 50 | [Nabil](http://twitter.com/search?q=Nabil) | N/A |
+| 48 | [Lillard](http://twitter.com/search?q=Lillard) | N/A |
+| 49 | [Sénat](http://twitter.com/search?q=S%c3%a9nat) | N/A |
+| 50 | [haouas](http://twitter.com/search?q=haouas) | N/A |
 
 
 

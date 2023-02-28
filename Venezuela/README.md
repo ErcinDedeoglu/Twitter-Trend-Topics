@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Venezuela
 
-📆 Last Updated: `2023-02-28 07:17:04 UTC`
+📆 Last Updated: `2023-02-28 08:17:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,7 +19,7 @@ This is top 50 for Venezuela
 | 2 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 3 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
 | 4 | [#27FRebeliónAntiimperialista](http://twitter.com/search?q=%2327FRebeli%c3%b3nAntiimperialista) | N/A |
-| 5 | [El Caracazo](http://twitter.com/search?q=El+Caracazo) | N/A |
+| 5 | [Caracazo](http://twitter.com/search?q=Caracazo) | N/A |
 | 6 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 7 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
 | 8 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
@@ -29,8 +29,8 @@ This is top 50 for Venezuela
 | 12 | [Ana Gabriel](http://twitter.com/search?q=Ana+Gabriel) | N/A |
 | 13 | [Carlos Andrés Pérez](http://twitter.com/search?q=Carlos+Andr%c3%a9s+P%c3%a9rez) | N/A |
 | 14 | [Autoevaluación HONESTA](http://twitter.com/search?q=Autoevaluaci%c3%b3n+HONESTA) | N/A |
-| 15 | [DDHH](http://twitter.com/search?q=DDHH) | N/A |
-| 16 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
+| 15 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
+| 16 | [DDHH](http://twitter.com/search?q=DDHH) | N/A |
 | 17 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
 | 18 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
 | 19 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
@@ -40,12 +40,12 @@ This is top 50 for Venezuela
 | 23 | [Fondo Monetario Internacional](http://twitter.com/search?q=Fondo+Monetario+Internacional) | N/A |
 | 24 | [El 27](http://twitter.com/search?q=El+27) | N/A |
 | 25 | [Maras](http://twitter.com/search?q=Maras) | N/A |
-| 26 | [La Estancia](http://twitter.com/search?q=La+Estancia) | N/A |
+| 26 | [la estancia](http://twitter.com/search?q=la+estancia) | N/A |
 | 27 | [Ernesto Paraqueima](http://twitter.com/search?q=Ernesto+Paraqueima) | N/A |
 | 28 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
 | 29 | [Dedales](http://twitter.com/search?q=Dedales) | N/A |
 | 30 | [rebelión popular](http://twitter.com/search?q=rebeli%c3%b3n+popular) | N/A |
-| 31 | [Rafael Briceño](http://twitter.com/search?q=Rafael+Brice%c3%b1o) | N/A |
+| 31 | [rafael briceño](http://twitter.com/search?q=rafael+brice%c3%b1o) | N/A |
 | 32 | [pueblo valiente](http://twitter.com/search?q=pueblo+valiente) | N/A |
 | 33 | [Chayanne](http://twitter.com/search?q=Chayanne) | N/A |
 | 34 | [Clark Kent](http://twitter.com/search?q=Clark+Kent) | N/A |
@@ -54,17 +54,17 @@ This is top 50 for Venezuela
 | 37 | [hailey](http://twitter.com/search?q=hailey) | N/A |
 | 38 | [Almería](http://twitter.com/search?q=Almer%c3%ada) | Almería is a city in the southeastern region of Spain. It is the capital of the province of Almería and is located on the Mediterranean Sea. In English, Almería means "The Watchtower". |
 | 39 | [Revolución Bolivariana](http://twitter.com/search?q=Revoluci%c3%b3n+Bolivariana) | N/A |
-| 40 | [shawn](http://twitter.com/search?q=shawn) | Shawn is a given name, typically a masculine name. It is an Anglicized form of the Irish name Seán, which is derived from the Hebrew name Yehohanan, meaning "God is gracious". |
-| 41 | [eva moreno](http://twitter.com/search?q=eva+moreno) | N/A |
-| 42 | [Carlos Tovar Bracho](http://twitter.com/search?q=Carlos+Tovar+Bracho) | N/A |
-| 43 | [José Ignacio Cabrujas](http://twitter.com/search?q=Jos%c3%a9+Ignacio+Cabrujas) | N/A |
-| 44 | [Murciélago](http://twitter.com/search?q=Murci%c3%a9lago) | N/A |
-| 45 | [Antonio Armas](http://twitter.com/search?q=Antonio+Armas) | N/A |
-| 46 | [Punto Fijo](http://twitter.com/search?q=Punto+Fijo) | N/A |
-| 47 | [Claudio](http://twitter.com/search?q=Claudio) | N/A |
-| 48 | [Hoy 27](http://twitter.com/search?q=Hoy+27) | N/A |
-| 49 | [Carlos Olivier](http://twitter.com/search?q=Carlos+Olivier) | N/A |
-| 50 | [Día Mundial](http://twitter.com/search?q=D%c3%ada+Mundial) | N/A |
+| 40 | [eva moreno](http://twitter.com/search?q=eva+moreno) | N/A |
+| 41 | [carlos tovar bracho](http://twitter.com/search?q=carlos+tovar+bracho) | N/A |
+| 42 | [José Ignacio Cabrujas](http://twitter.com/search?q=Jos%c3%a9+Ignacio+Cabrujas) | N/A |
+| 43 | [murciélago](http://twitter.com/search?q=murci%c3%a9lago) | N/A |
+| 44 | [Antonio Armas](http://twitter.com/search?q=Antonio+Armas) | N/A |
+| 45 | [punto fijo](http://twitter.com/search?q=punto+fijo) | N/A |
+| 46 | [Hoy 27](http://twitter.com/search?q=Hoy+27) | N/A |
+| 47 | [Carlos Olivier](http://twitter.com/search?q=Carlos+Olivier) | N/A |
+| 48 | [shawn](http://twitter.com/search?q=shawn) | Shawn is a given name, typically a masculine name. It is an Anglicized form of the Irish name Seán, which is derived from the Hebrew name Yehohanan, meaning "God is gracious". |
+| 49 | [Día Mundial](http://twitter.com/search?q=D%c3%ada+Mundial) | N/A |
+| 50 | [Claudio](http://twitter.com/search?q=Claudio) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Córdoba
 
-📆 Last Updated: `2023-02-28 07:16:20 UTC`
+📆 Last Updated: `2023-02-28 08:16:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,47 +16,55 @@ This is top 50 for [Argentina](</Argentina>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 2 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
+| 2 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
 | 3 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 4 | [#TXTonTheLateLateShow](http://twitter.com/search?q=%23TXTonTheLateLateShow) | N/A |
-| 5 | [LATE LATE SHOW WITH TXT](http://twitter.com/search?q=LATE+LATE+SHOW+WITH+TXT) | N/A |
-| 6 | [#TOMORROW_X_TOGETHER](http://twitter.com/search?q=%23TOMORROW_X_TOGETHER) | #TOMORROW_X_TOGETHER is the name of a South Korean boy band formed by Big Hit Entertainment in 2019. The group consists of five members: Yeonjun, Soobin, Beomgyu, Taehyun and Huening Kai. The name of the group is meant to signify the power of togetherness and unity among people, regardless of their differences. In English, it translates to "Tomorrow Together". |
-| 7 | [Tora](http://twitter.com/search?q=Tora) | Tora is a Japanese word meaning "tiger". It is often used as a nickname for someone who is strong and brave. |
-| 8 | [Iker](http://twitter.com/search?q=Iker) | N/A |
-| 9 | [RODO AL 9009](http://twitter.com/search?q=RODO+AL+9009) | N/A |
-| 10 | [Verratti](http://twitter.com/search?q=Verratti) | Verratti is an Italian surname. It is derived from the Latin word verratum, which means "true". In English, it can be translated to mean "true and faithful". |
-| 11 | [Theo Hernández](http://twitter.com/search?q=Theo+Hern%c3%a1ndez) | N/A |
-| 12 | [Germán](http://twitter.com/search?q=Germ%c3%a1n) | Germán is a Spanish and Portuguese name derived from the Latin Germanus, meaning "brother". It is also a Germanic given name, derived from the Germanic element ger, meaning "spear". |
-| 13 | [De Arrascaeta](http://twitter.com/search?q=De+Arrascaeta) | N/A |
-| 14 | [Nacho Fernández](http://twitter.com/search?q=Nacho+Fern%c3%a1ndez) | Nacho Fernández is a Spanish nickname derived from the given name Ignacio. It is often used as a term of endearment, similar to "buddy" or "pal" in English. |
-| 15 | [milky dolly](http://twitter.com/search?q=milky+dolly) | N/A |
-| 16 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 17 | [QUE VUELVA AGUSTIN](http://twitter.com/search?q=QUE+VUELVA+AGUSTIN) | N/A |
-| 18 | [Gladys](http://twitter.com/search?q=Gladys) | N/A |
-| 19 | [Lucila](http://twitter.com/search?q=Lucila) | Lucila is a Spanish female name derived from the Latin name Lucius, which means “light”. In English, Lucila can be translated to mean “bringer of light”. |
-| 20 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
-| 21 | [Laura Ubfal](http://twitter.com/search?q=Laura+Ubfal) | N/A |
-| 22 | [#AAAJ](http://twitter.com/search?q=%23AAAJ) | N/A |
-| 23 | [Piovi](http://twitter.com/search?q=Piovi) | Piovi is an Italian word that means "to rain". It is used to describe the sound of rain falling. |
-| 24 | [Retegui](http://twitter.com/search?q=Retegui) | Retegui is a Basque word meaning “to go back” or “to return.” It is often used to refer to the act of returning home after a long journey. |
-| 25 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
-| 26 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 27 | [Gabigol](http://twitter.com/search?q=Gabigol) | Gabigol is a nickname given to Brazilian footballer Gabriel Barbosa, who currently plays for Flamengo. The nickname is a combination of his first name, Gabriel, and the Portuguese word for goal, gol. In English, the nickname translates to "Gabriel Goal". |
-| 28 | [Coscu](http://twitter.com/search?q=Coscu) | N/A |
-| 29 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
-| 30 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
-| 31 | [Nancy Pazos](http://twitter.com/search?q=Nancy+Pazos) | Nancy Pazos is a Spanish singer and songwriter. Her name translates to "peaceful Nancy" in English. |
-| 32 | [OUT OF THE WOODS](http://twitter.com/search?q=OUT+OF+THE+WOODS) | N/A |
-| 33 | [Casillas](http://twitter.com/search?q=Casillas) | N/A |
-| 34 | [Duro de Domar](http://twitter.com/search?q=Duro+de+Domar) | N/A |
-| 35 | [#macrimufa](http://twitter.com/search?q=%23macrimufa) | N/A |
-| 36 | [Rosada](http://twitter.com/search?q=Rosada) | N/A |
-| 37 | [#PUMAxDisciplinaTour](http://twitter.com/search?q=%23PUMAxDisciplinaTour) | N/A |
-| 38 | [Central Córdoba](http://twitter.com/search?q=Central+C%c3%b3rdoba) | N/A |
-| 39 | [shawn](http://twitter.com/search?q=shawn) | Shawn is a given name, typically a masculine name. It is an Anglicized form of the Irish name Seán, which is derived from the Hebrew name Yehohanan, meaning "God is gracious". |
-| 40 | [Pabla](http://twitter.com/search?q=Pabla) | N/A |
-| 41 | [Spain](http://twitter.com/search?q=Spain) | N/A |
-| 42 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
+| 4 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
+| 5 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
+| 6 | [Tula](http://twitter.com/search?q=Tula) | N/A |
+| 7 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 8 | [#ACOMODACHO](http://twitter.com/search?q=%23ACOMODACHO) | N/A |
+| 9 | [Gladys](http://twitter.com/search?q=Gladys) | N/A |
+| 10 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
+| 11 | [Piovi](http://twitter.com/search?q=Piovi) | Piovi is an Italian word that means "to rain". It is used to describe the sound of rain falling. |
+| 12 | [Tora](http://twitter.com/search?q=Tora) | Tora is a Japanese word meaning "tiger". It is often used as a nickname for someone who is strong and brave. |
+| 13 | [#TXTonTheLateLateShow](http://twitter.com/search?q=%23TXTonTheLateLateShow) | N/A |
+| 14 | [LATE LATE SHOW WITH TXT](http://twitter.com/search?q=LATE+LATE+SHOW+WITH+TXT) | N/A |
+| 15 | [Germán](http://twitter.com/search?q=Germ%c3%a1n) | Germán is a Spanish and Portuguese name derived from the Latin Germanus, meaning "brother". It is also a Germanic given name, derived from the Germanic element ger, meaning "spear". |
+| 16 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
+| 17 | [#TOMORROW_X_TOGETHER](http://twitter.com/search?q=%23TOMORROW_X_TOGETHER) | #TOMORROW_X_TOGETHER is the name of a South Korean boy band formed by Big Hit Entertainment in 2019. The group consists of five members: Yeonjun, Soobin, Beomgyu, Taehyun and Huening Kai. The name of the group is meant to signify the power of togetherness and unity among people, regardless of their differences. In English, it translates to "Tomorrow Together". |
+| 18 | [Iker](http://twitter.com/search?q=Iker) | N/A |
+| 19 | [Coscu](http://twitter.com/search?q=Coscu) | N/A |
+| 20 | [RODO AL 9009](http://twitter.com/search?q=RODO+AL+9009) | N/A |
+| 21 | [EL MEJOR DEL MUNDO](http://twitter.com/search?q=EL+MEJOR+DEL+MUNDO) | N/A |
+| 22 | [Barracas](http://twitter.com/search?q=Barracas) | Barracas is a district in the Argentine capital of Buenos Aires. It is located in the south of the city and is known for its vibrant nightlife, its diverse population, and its traditional markets. The name Barracas comes from the Spanish word barraca, which means “hut” or “shack”. |
+| 23 | [Mejor DT](http://twitter.com/search?q=Mejor+DT) | N/A |
+| 24 | [Alex Morgan](http://twitter.com/search?q=Alex+Morgan) | N/A |
+| 25 | [gaston](http://twitter.com/search?q=gaston) | N/A |
+| 26 | [Scaloneta](http://twitter.com/search?q=Scaloneta) | N/A |
+| 27 | [Chiqui Tapia](http://twitter.com/search?q=Chiqui+Tapia) | N/A |
+| 28 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
+| 29 | [Emiliano](http://twitter.com/search?q=Emiliano) | N/A |
+| 30 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
+| 31 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
+| 32 | [Spain](http://twitter.com/search?q=Spain) | N/A |
+| 33 | [#nadiedicenada](http://twitter.com/search?q=%23nadiedicenada) | N/A |
+| 34 | [Lamolina](http://twitter.com/search?q=Lamolina) | N/A |
+| 35 | [#VolvioDuro](http://twitter.com/search?q=%23VolvioDuro) | N/A |
+| 36 | [Bangladesh](http://twitter.com/search?q=Bangladesh) | N/A |
+| 37 | [MEJOR ARQUERO](http://twitter.com/search?q=MEJOR+ARQUERO) | N/A |
+| 38 | [MEJOR HINCHADA](http://twitter.com/search?q=MEJOR+HINCHADA) | N/A |
+| 39 | [Aguilar](http://twitter.com/search?q=Aguilar) | N/A |
+| 40 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 41 | [ganamos todo](http://twitter.com/search?q=ganamos+todo) | N/A |
+| 42 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
+| 43 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
+| 44 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 45 | [Curazao](http://twitter.com/search?q=Curazao) | Curazao is an island in the Caribbean Sea, located off the coast of Venezuela. It is a constituent country of the Kingdom of the Netherlands. The name Curazao is derived from the Portuguese word for "heart," and it is often referred to as "the heart of the Caribbean." In English, it means "heart of the Caribbean." |
+| 46 | [Puskas](http://twitter.com/search?q=Puskas) | N/A |
+| 47 | [Demichelis](http://twitter.com/search?q=Demichelis) | Demichelis is a surname of Italian origin. It is derived from the given name Michelangelo, which means "angel of God". In English, the name Demichelis can be translated to mean "God's angel". |
+| 48 | [Verratti](http://twitter.com/search?q=Verratti) | Verratti is an Italian surname. It is derived from the Latin word verratum, which means "true". In English, it can be translated to mean "true and faithful". |
+| 49 | [contin](http://twitter.com/search?q=contin) | N/A |
+| 50 | [Juliana](http://twitter.com/search?q=Juliana) | Juliana is a female given name of Latin origin, derived from the name Julius. It means "youthful" or "downy-bearded". |
 
 
 

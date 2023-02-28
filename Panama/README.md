@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-02-28 07:17:02 UTC`
+📆 Last Updated: `2023-02-28 08:17:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,9 +25,9 @@ This is top 50 for Panama
 | 8 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
 | 9 | [realizando metas](http://twitter.com/search?q=realizando+metas) | N/A |
 | 10 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
-| 11 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
-| 12 | [Ricardo Martinelli](http://twitter.com/search?q=Ricardo+Martinelli) | N/A |
-| 13 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 11 | [Ricardo Martinelli](http://twitter.com/search?q=Ricardo+Martinelli) | N/A |
+| 12 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 13 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
 | 14 | [Dj Black](http://twitter.com/search?q=Dj+Black) | N/A |
 | 15 | [Alexia](http://twitter.com/search?q=Alexia) | Alexia is a neurological disorder that affects a person's ability to read. It is also known as word blindness or dyslexia. People with Alexia have difficulty understanding written words, even though they may be able to speak and write normally. |
 | 16 | [Kipling](http://twitter.com/search?q=Kipling) | N/A |
@@ -45,16 +45,16 @@ This is top 50 for Panama
 | 28 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
 | 29 | [coclé](http://twitter.com/search?q=cocl%c3%a9) | N/A |
 | 30 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 31 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
-| 32 | [Pedro Miguel González](http://twitter.com/search?q=Pedro+Miguel+Gonz%c3%a1lez) | N/A |
-| 33 | [Mari Carmen Aponte](http://twitter.com/search?q=Mari+Carmen+Aponte) | N/A |
-| 34 | [AMLO](http://twitter.com/search?q=AMLO) | AMLO is an acronym for Andrés Manuel López Obrador, the current President of Mexico. He was elected in 2018 and is a member of the National Regeneration Movement (MORENA) party. In English, AMLO stands for Andrés Manuel López Obrador. |
-| 35 | [#radiopanama](http://twitter.com/search?q=%23radiopanama) | N/A |
-| 36 | [Omeprazol](http://twitter.com/search?q=Omeprazol) | N/A |
-| 37 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 38 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
-| 39 | [Corrupto](http://twitter.com/search?q=Corrupto) | N/A |
-| 40 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
+| 31 | [Pedro Miguel González](http://twitter.com/search?q=Pedro+Miguel+Gonz%c3%a1lez) | N/A |
+| 32 | [Mari Carmen Aponte](http://twitter.com/search?q=Mari+Carmen+Aponte) | N/A |
+| 33 | [AMLO](http://twitter.com/search?q=AMLO) | AMLO is an acronym for Andrés Manuel López Obrador, the current President of Mexico. He was elected in 2018 and is a member of the National Regeneration Movement (MORENA) party. In English, AMLO stands for Andrés Manuel López Obrador. |
+| 34 | [#radiopanama](http://twitter.com/search?q=%23radiopanama) | N/A |
+| 35 | [Omeprazol](http://twitter.com/search?q=Omeprazol) | N/A |
+| 36 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 37 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
+| 38 | [Corrupto](http://twitter.com/search?q=Corrupto) | N/A |
+| 39 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
+| 40 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
 | 41 | [thomas christiansen](http://twitter.com/search?q=thomas+christiansen) | N/A |
 | 42 | [coka](http://twitter.com/search?q=coka) | N/A |
 | 43 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |

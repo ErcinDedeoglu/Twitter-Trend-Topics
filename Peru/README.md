@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Peru
 
-📆 Last Updated: `2023-02-28 07:17:02 UTC`
+📆 Last Updated: `2023-02-28 08:17:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -34,10 +34,10 @@ This is top 50 for Peru
 | 17 | [Germán](http://twitter.com/search?q=Germ%c3%a1n) | Germán is a Spanish and Portuguese name derived from the Latin Germanus, meaning "brother". It is also a Germanic given name, derived from the Germanic element ger, meaning "spear". |
 | 18 | [Avanza País](http://twitter.com/search?q=Avanza+Pa%c3%ads) | N/A |
 | 19 | [Fernan](http://twitter.com/search?q=Fernan) | N/A |
-| 20 | [Adriana Tudela](http://twitter.com/search?q=Adriana+Tudela) | N/A |
-| 21 | [Barreto](http://twitter.com/search?q=Barreto) | N/A |
-| 22 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
-| 23 | [Cevasco](http://twitter.com/search?q=Cevasco) | N/A |
+| 20 | [Barreto](http://twitter.com/search?q=Barreto) | N/A |
+| 21 | [Adriana Tudela](http://twitter.com/search?q=Adriana+Tudela) | N/A |
+| 22 | [Cevasco](http://twitter.com/search?q=Cevasco) | N/A |
+| 23 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
 | 24 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
 | 25 | [Herrera](http://twitter.com/search?q=Herrera) | Herrera is a Spanish surname derived from the Latin word ferreus, meaning "iron". It is also a common given name in Spanish-speaking countries. In English, Herrera can be translated to mean "ironworker" or "blacksmith". |
 | 26 | [Di Benedetto](http://twitter.com/search?q=Di+Benedetto) | N/A |
@@ -49,8 +49,8 @@ This is top 50 for Peru
 | 32 | [La Resistencia](http://twitter.com/search?q=La+Resistencia) | N/A |
 | 33 | [Cusco FC](http://twitter.com/search?q=Cusco+FC) | N/A |
 | 34 | [Gorriti](http://twitter.com/search?q=Gorriti) | N/A |
-| 35 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
-| 36 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 35 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 36 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
 | 37 | [bruno pérez](http://twitter.com/search?q=bruno+p%c3%a9rez) | N/A |
 | 38 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
 | 39 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
@@ -64,7 +64,7 @@ This is top 50 for Peru
 | 47 | [succar](http://twitter.com/search?q=succar) | N/A |
 | 48 | [Viva Air](http://twitter.com/search?q=Viva+Air) | N/A |
 | 49 | [SUPUESTOS](http://twitter.com/search?q=SUPUESTOS) | N/A |
-| 50 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 50 | [Heredia](http://twitter.com/search?q=Heredia) | N/A |
 
 
 

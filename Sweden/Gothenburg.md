@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gothenburg
 
-📆 Last Updated: `2023-02-28 07:16:28 UTC`
+📆 Last Updated: `2023-02-28 08:16:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Sweden](</Sweden>)
 | ------- | ------------ | ------------ |
 | 1 | [#jagvetvadensnippaär](http://twitter.com/search?q=%23jagvetvadensnippa%c3%a4r) | N/A |
 | 2 | [Egyptsons](http://twitter.com/search?q=Egyptsons) | N/A |
-| 3 | [#Auroraborealis](http://twitter.com/search?q=%23Auroraborealis) | N/A |
+| 3 | [#AuroraBorealis](http://twitter.com/search?q=%23AuroraBorealis) | N/A |
 | 4 | [degerfors](http://twitter.com/search?q=degerfors) | N/A |
-| 5 | [stahre](http://twitter.com/search?q=stahre) | N/A |
+| 5 | [Hovrätten](http://twitter.com/search?q=Hovr%c3%a4tten) | N/A |
 | 6 | [Saol](http://twitter.com/search?q=Saol) | N/A |
 | 7 | [#norrsken](http://twitter.com/search?q=%23norrsken) | N/A |
-| 8 | [Hovrätten](http://twitter.com/search?q=Hovr%c3%a4tten) | N/A |
-| 9 | [Åklagaren](http://twitter.com/search?q=%c3%85klagaren) | N/A |
-| 10 | [#NorthernLights](http://twitter.com/search?q=%23NorthernLights) | N/A |
-| 11 | [Carola](http://twitter.com/search?q=Carola) | Carola is a female given name of Latin origin, derived from the masculine name Carolus, which is the Latin form of Charles. It means "free man" or "strong". |
-| 12 | [Svenska Freds](http://twitter.com/search?q=Svenska+Freds) | N/A |
-| 13 | [rieks](http://twitter.com/search?q=rieks) | N/A |
-| 14 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
-| 15 | [jonna sundling](http://twitter.com/search?q=jonna+sundling) | N/A |
-| 16 | [Atalanta](http://twitter.com/search?q=Atalanta) | Atalanta is a figure from Greek mythology. She was a brave and strong hunter who refused to marry anyone who could not beat her in a footrace. The meaning of Atalanta in English is "equal in weight". |
-| 17 | [ifk luleå](http://twitter.com/search?q=ifk+lule%c3%a5) | N/A |
-| 18 | [Shame](http://twitter.com/search?q=Shame) | N/A |
-| 19 | [badou jack](http://twitter.com/search?q=badou+jack) | N/A |
-| 20 | [nanasi](http://twitter.com/search?q=nanasi) | N/A |
-| 21 | [Godmorgon](http://twitter.com/search?q=Godmorgon) | N/A |
-| 22 | [Åke Thimfors](http://twitter.com/search?q=%c3%85ke+Thimfors) | N/A |
-| 23 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
+| 8 | [#NorthernLights](http://twitter.com/search?q=%23NorthernLights) | N/A |
+| 9 | [Carola](http://twitter.com/search?q=Carola) | Carola is a female given name of Latin origin, derived from the masculine name Carolus, which is the Latin form of Charles. It means "free man" or "strong". |
+| 10 | [Svenska Freds](http://twitter.com/search?q=Svenska+Freds) | N/A |
+| 11 | [rieks](http://twitter.com/search?q=rieks) | N/A |
+| 12 | [Åklagaren](http://twitter.com/search?q=%c3%85klagaren) | N/A |
+| 13 | [Atalanta](http://twitter.com/search?q=Atalanta) | Atalanta is a figure from Greek mythology. She was a brave and strong hunter who refused to marry anyone who could not beat her in a footrace. The meaning of Atalanta in English is "equal in weight". |
+| 14 | [James Bond](http://twitter.com/search?q=James+Bond) | N/A |
+| 15 | [ifk luleå](http://twitter.com/search?q=ifk+lule%c3%a5) | N/A |
+| 16 | [Shame](http://twitter.com/search?q=Shame) | N/A |
+| 17 | [Bibeln](http://twitter.com/search?q=Bibeln) | N/A |
+| 18 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
+| 19 | [#MWC23](http://twitter.com/search?q=%23MWC23) | N/A |
+| 20 | [badou jack](http://twitter.com/search?q=badou+jack) | N/A |
+| 21 | [nanasi](http://twitter.com/search?q=nanasi) | N/A |
+| 22 | [Stahre](http://twitter.com/search?q=Stahre) | N/A |
+| 23 | [Åke Thimfors](http://twitter.com/search?q=%c3%85ke+Thimfors) | N/A |
 | 24 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
-| 25 | [Ultima Thule](http://twitter.com/search?q=Ultima+Thule) | N/A |
-| 26 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
+| 25 | [Bryssel](http://twitter.com/search?q=Bryssel) | N/A |
+| 26 | [Ultima Thule](http://twitter.com/search?q=Ultima+Thule) | N/A |
 | 27 | [Beklagar](http://twitter.com/search?q=Beklagar) | N/A |
-| 28 | [James Bond](http://twitter.com/search?q=James+Bond) | N/A |
-| 29 | [Norrköping](http://twitter.com/search?q=Norrk%c3%b6ping) | N/A |
-| 30 | [Sign the Petition](http://twitter.com/search?q=Sign+the+Petition) | N/A |
-| 31 | [Gais](http://twitter.com/search?q=Gais) | N/A |
-| 32 | [Ljungberg](http://twitter.com/search?q=Ljungberg) | N/A |
-| 33 | [Degen](http://twitter.com/search?q=Degen) | N/A |
-| 34 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 35 | [Modo](http://twitter.com/search?q=Modo) | N/A |
-| 36 | [Scott Adams](http://twitter.com/search?q=Scott+Adams) | N/A |
-| 37 | [Livet](http://twitter.com/search?q=Livet) | N/A |
-| 38 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 39 | [demirok](http://twitter.com/search?q=demirok) | N/A |
-| 40 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 41 | [Malmö FF](http://twitter.com/search?q=Malm%c3%b6+FF) | N/A |
-| 42 | [Jake](http://twitter.com/search?q=Jake) | N/A |
-| 43 | [a-traktor](http://twitter.com/search?q=a-traktor) | N/A |
-| 44 | [Almeria](http://twitter.com/search?q=Almeria) | N/A |
-| 45 | [Bibeln](http://twitter.com/search?q=Bibeln) | N/A |
-| 46 | [Zlatan](http://twitter.com/search?q=Zlatan) | Zlatan is a nickname for the Swedish soccer player Zlatan Ibrahimović. It is derived from his first name and is used to refer to him in a friendly or affectionate way. In English, it can be translated as "golden one". |
-| 47 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
-| 48 | [Man United](http://twitter.com/search?q=Man+United) | Man United is a nickname for Manchester United Football Club, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
-| 49 | [Guidetti](http://twitter.com/search?q=Guidetti) | N/A |
-| 50 | [Strömmer](http://twitter.com/search?q=Str%c3%b6mmer) | N/A |
+| 28 | [Sign the Petition](http://twitter.com/search?q=Sign+the+Petition) | N/A |
+| 29 | [ljungberg](http://twitter.com/search?q=ljungberg) | N/A |
+| 30 | [Strömmer](http://twitter.com/search?q=Str%c3%b6mmer) | N/A |
+| 31 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 32 | [Europas](http://twitter.com/search?q=Europas) | N/A |
+| 33 | [Gais](http://twitter.com/search?q=Gais) | N/A |
+| 34 | [Scott Adams](http://twitter.com/search?q=Scott+Adams) | N/A |
+| 35 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 36 | [MoDo](http://twitter.com/search?q=MoDo) | N/A |
+| 37 | [Ungern](http://twitter.com/search?q=Ungern) | N/A |
+| 38 | [Godmorgon](http://twitter.com/search?q=Godmorgon) | N/A |
+| 39 | [Norrköping](http://twitter.com/search?q=Norrk%c3%b6ping) | N/A |
+| 40 | [demirok](http://twitter.com/search?q=demirok) | N/A |
+| 41 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 42 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 43 | [Malmö FF](http://twitter.com/search?q=Malm%c3%b6+FF) | N/A |
+| 44 | [Jake](http://twitter.com/search?q=Jake) | N/A |
+| 45 | [a-traktor](http://twitter.com/search?q=a-traktor) | N/A |
+| 46 | [Almeria](http://twitter.com/search?q=Almeria) | N/A |
+| 47 | [Zlatan](http://twitter.com/search?q=Zlatan) | Zlatan is a nickname for the Swedish soccer player Zlatan Ibrahimović. It is derived from his first name and is used to refer to him in a friendly or affectionate way. In English, it can be translated as "golden one". |
+| 48 | [Skolverket](http://twitter.com/search?q=Skolverket) | N/A |
+| 49 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
+| 50 | [Man United](http://twitter.com/search?q=Man+United) | Man United is a nickname for Manchester United Football Club, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
 
 
 

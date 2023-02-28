@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-02-28 07:16:59 UTC`
+📆 Last Updated: `2023-02-28 08:17:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,21 +26,21 @@ This is top 50 for Guatemala
 | 9 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
 | 10 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
 | 11 | [Almería](http://twitter.com/search?q=Almer%c3%ada) | Almería is a city in the southeastern region of Spain. It is the capital of the province of Almería and is located on the Mediterranean Sea. In English, Almería means "The Watchtower". |
-| 12 | [Lana Del Rey](http://twitter.com/search?q=Lana+Del+Rey) | N/A |
-| 13 | [Germán](http://twitter.com/search?q=Germ%c3%a1n) | Germán is a Spanish and Portuguese name derived from the Latin Germanus, meaning "brother". It is also a Germanic given name, derived from the Germanic element ger, meaning "spear". |
-| 14 | [Kendrick Lamar](http://twitter.com/search?q=Kendrick+Lamar) | N/A |
-| 15 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
-| 16 | [Lionel Scaloni](http://twitter.com/search?q=Lionel+Scaloni) | N/A |
-| 17 | [#LaVelada3](http://twitter.com/search?q=%23LaVelada3) | N/A |
-| 18 | [taylor swift](http://twitter.com/search?q=taylor+swift) | N/A |
-| 19 | [Ariana Grande](http://twitter.com/search?q=Ariana+Grande) | N/A |
+| 12 | [Lana del Rey](http://twitter.com/search?q=Lana+del+Rey) | N/A |
+| 13 | [Kendrick Lamar](http://twitter.com/search?q=Kendrick+Lamar) | N/A |
+| 14 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
+| 15 | [Germán](http://twitter.com/search?q=Germ%c3%a1n) | Germán is a Spanish and Portuguese name derived from the Latin Germanus, meaning "brother". It is also a Germanic given name, derived from the Germanic element ger, meaning "spear". |
+| 16 | [#LaVelada3](http://twitter.com/search?q=%23LaVelada3) | N/A |
+| 17 | [taylor swift](http://twitter.com/search?q=taylor+swift) | N/A |
+| 18 | [Ariana Grande](http://twitter.com/search?q=Ariana+Grande) | N/A |
+| 19 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
 | 20 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
-| 21 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
-| 22 | [Fernan](http://twitter.com/search?q=Fernan) | N/A |
-| 23 | [Alexia](http://twitter.com/search?q=Alexia) | Alexia is a neurological disorder that affects a person's ability to read. It is also known as word blindness or dyslexia. People with Alexia have difficulty understanding written words, even though they may be able to speak and write normally. |
-| 24 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
-| 25 | [Danny Ocean](http://twitter.com/search?q=Danny+Ocean) | N/A |
-| 26 | [Arctic Monkeys](http://twitter.com/search?q=Arctic+Monkeys) | N/A |
+| 21 | [Fernan](http://twitter.com/search?q=Fernan) | N/A |
+| 22 | [Alexia](http://twitter.com/search?q=Alexia) | Alexia is a neurological disorder that affects a person's ability to read. It is also known as word blindness or dyslexia. People with Alexia have difficulty understanding written words, even though they may be able to speak and write normally. |
+| 23 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
+| 24 | [Danny Ocean](http://twitter.com/search?q=Danny+Ocean) | N/A |
+| 25 | [Arctic Monkeys](http://twitter.com/search?q=Arctic+Monkeys) | N/A |
+| 26 | [Scaloni](http://twitter.com/search?q=Scaloni) | N/A |
 | 27 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
 | 28 | [Michael Jackson](http://twitter.com/search?q=Michael+Jackson) | N/A |
 | 29 | [Rels B](http://twitter.com/search?q=Rels+B) | N/A |

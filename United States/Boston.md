@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Boston
 
-📆 Last Updated: `2023-02-28 07:16:49 UTC`
+📆 Last Updated: `2023-02-28 08:17:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
+| 1 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
 | 2 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 3 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
+| 3 | [kevin hart](http://twitter.com/search?q=kevin+hart) | N/A |
 | 4 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
 | 5 | [Lita](http://twitter.com/search?q=Lita) | N/A |
-| 6 | [Nudy](http://twitter.com/search?q=Nudy) | N/A |
-| 7 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
-| 8 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
-| 9 | [#TXTonTheLateLateShow](http://twitter.com/search?q=%23TXTonTheLateLateShow) | N/A |
-| 10 | [Pete Davidson](http://twitter.com/search?q=Pete+Davidson) | Pete Davidson is an American comedian, actor, and writer. He is best known for being a cast member on Saturday Night Live since 2014. He has also appeared in films such as Big Time Adolescence and The King of Staten Island. |
-| 11 | [#iwasanenglishmajor](http://twitter.com/search?q=%23iwasanenglishmajor) | N/A |
-| 12 | [Tom Sizemore](http://twitter.com/search?q=Tom+Sizemore) | N/A |
-| 13 | [#RCTID](http://twitter.com/search?q=%23RCTID) | N/A |
-| 14 | [Iowa State](http://twitter.com/search?q=Iowa+State) | Iowa State is a public research university located in Ames, Iowa. It is the largest university in the state of Iowa and the third largest university in the Big 12 Conference. The university was founded in 1858 and is classified as a Doctoral/Research University by the Carnegie Classification of Institutions of Higher Education. Iowa State offers more than 100 undergraduate majors, over 200 graduate programs, and professional degrees in veterinary medicine, agriculture, design, engineering, and business. |
-| 15 | [Murdoch](http://twitter.com/search?q=Murdoch) | N/A |
-| 16 | [G Herbo](http://twitter.com/search?q=G+Herbo) | N/A |
-| 17 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
-| 18 | [LATE LATE SHOW WITH TXT](http://twitter.com/search?q=LATE+LATE+SHOW+WITH+TXT) | N/A |
-| 19 | [Omos](http://twitter.com/search?q=Omos) | N/A |
-| 20 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 6 | [Lita](http://twitter.com/search?q=Lita) | N/A |
+| 7 | [Nudy](http://twitter.com/search?q=Nudy) | N/A |
+| 8 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
+| 9 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
+| 10 | [Tom Sizemore](http://twitter.com/search?q=Tom+Sizemore) | N/A |
+| 11 | [#TXTonTheLateLateShow](http://twitter.com/search?q=%23TXTonTheLateLateShow) | N/A |
+| 12 | [Weverse](http://twitter.com/search?q=Weverse) | Weverse is a social media platform created by the South Korean entertainment company Big Hit Entertainment. It is designed to connect fans with artists and allow them to interact with each other. The name Weverse is derived from the words “we” and “universe”, representing the idea of creating a universe where fans and artists can come together. |
+| 13 | [Pete Davidson](http://twitter.com/search?q=Pete+Davidson) | Pete Davidson is an American comedian, actor, and writer. He is best known for being a cast member on Saturday Night Live since 2014. He has also appeared in films such as Big Time Adolescence and The King of Staten Island. |
+| 14 | [#iwasanenglishmajor](http://twitter.com/search?q=%23iwasanenglishmajor) | N/A |
+| 15 | [#Wordle619](http://twitter.com/search?q=%23Wordle619) | N/A |
+| 16 | [Murdoch](http://twitter.com/search?q=Murdoch) | N/A |
+| 17 | [Iowa State](http://twitter.com/search?q=Iowa+State) | Iowa State is a public research university located in Ames, Iowa. It is the largest university in the state of Iowa and the third largest university in the Big 12 Conference. The university was founded in 1858 and is classified as a Doctoral/Research University by the Carnegie Classification of Institutions of Higher Education. Iowa State offers more than 100 undergraduate majors, over 200 graduate programs, and professional degrees in veterinary medicine, agriculture, design, engineering, and business. |
+| 18 | [G Herbo](http://twitter.com/search?q=G+Herbo) | N/A |
+| 19 | [LATE LATE SHOW WITH TXT](http://twitter.com/search?q=LATE+LATE+SHOW+WITH+TXT) | N/A |
+| 20 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
 | 21 | [David Hogg](http://twitter.com/search?q=David+Hogg) | N/A |
-| 22 | [Platinum Chanel](http://twitter.com/search?q=Platinum+Chanel) | N/A |
-| 23 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
-| 24 | [james corden](http://twitter.com/search?q=james+corden) | N/A |
-| 25 | [Damage CTRL](http://twitter.com/search?q=Damage+CTRL) | N/A |
-| 26 | [Player of the Matchday](http://twitter.com/search?q=Player+of+the+Matchday) | N/A |
-| 27 | [Wrestlemania](http://twitter.com/search?q=Wrestlemania) | WrestleMania is a professional wrestling pay-per-view event produced annually by World Wrestling Entertainment (WWE). It is the biggest event of the year for WWE and is considered to be the Super Bowl of professional wrestling. WrestleMania typically features some of the biggest matches of the year, as well as celebrity appearances and musical performances. The phrase "WrestleMania" has become synonymous with professional wrestling in general, and is often used to refer to any major wrestling event. |
-| 28 | [Bray](http://twitter.com/search?q=Bray) | Bray is a verb meaning to make a loud, harsh sound, usually like the sound of an animal or machine. It is often used to describe the sound made by a donkey or mule. |
-| 29 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
-| 30 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 22 | [Player of the Matchday](http://twitter.com/search?q=Player+of+the+Matchday) | N/A |
+| 23 | [Platinum Chanel](http://twitter.com/search?q=Platinum+Chanel) | N/A |
+| 24 | [Damage CTRL](http://twitter.com/search?q=Damage+CTRL) | N/A |
+| 25 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
+| 26 | [james corden](http://twitter.com/search?q=james+corden) | N/A |
+| 27 | [Omos](http://twitter.com/search?q=Omos) | N/A |
+| 28 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 29 | [Bray](http://twitter.com/search?q=Bray) | Bray is a verb meaning to make a loud, harsh sound, usually like the sound of an animal or machine. It is often used to describe the sound made by a donkey or mule. |
+| 30 | [Wrestlemania](http://twitter.com/search?q=Wrestlemania) | WrestleMania is a professional wrestling pay-per-view event produced annually by World Wrestling Entertainment (WWE). It is the biggest event of the year for WWE and is considered to be the Super Bowl of professional wrestling. WrestleMania typically features some of the biggest matches of the year, as well as celebrity appearances and musical performances. The phrase "WrestleMania" has become synonymous with professional wrestling in general, and is often used to refer to any major wrestling event. |
 | 31 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
-| 32 | [Lesnar](http://twitter.com/search?q=Lesnar) | Lesnar is a surname of German origin. It is derived from the Middle High German word "lesen" which means "to read". In English, it can be translated to mean "reader". |
-| 33 | [McDavid](http://twitter.com/search?q=McDavid) | McDavid is a brand of sports equipment and apparel, named after the Canadian hockey player Connor McDavid. The company produces protective gear, such as hockey helmets and shoulder pads, as well as clothing and accessories. |
-| 34 | [Paolo](http://twitter.com/search?q=Paolo) | N/A |
-| 35 | [Gold Alpinas](http://twitter.com/search?q=Gold+Alpinas) | N/A |
-| 36 | [Shayna](http://twitter.com/search?q=Shayna) | N/A |
-| 37 | [JK LIVE](http://twitter.com/search?q=JK+LIVE) | JK LIVE is a Japanese streaming service that allows users to watch live broadcasts of events, concerts, and other entertainment. The acronym stands for "Japan Kansai Live", referring to the Kansai region of Japan where the service is based. |
-| 38 | [Orph](http://twitter.com/search?q=Orph) | N/A |
-| 39 | [When I Come Around](http://twitter.com/search?q=When+I+Come+Around) | N/A |
-| 40 | [Lashley](http://twitter.com/search?q=Lashley) | Lashley is a surname of English origin. It is derived from the Old English words læsc (meaning "salmon") and leah (meaning "woodland clearing"). The name was originally given to someone who lived near a salmon-filled stream or river. |
-| 41 | [Lamelo](http://twitter.com/search?q=Lamelo) | N/A |
-| 42 | [Keke](http://twitter.com/search?q=Keke) | N/A |
-| 43 | [Leodis](http://twitter.com/search?q=Leodis) | N/A |
-| 44 | [Timbers](http://twitter.com/search?q=Timbers) | N/A |
-| 45 | [Proud Boys](http://twitter.com/search?q=Proud+Boys) | N/A |
-| 46 | [Ronda](http://twitter.com/search?q=Ronda) | N/A |
-| 47 | [Bennett](http://twitter.com/search?q=Bennett) | N/A |
-| 48 | [Joe Toussaint](http://twitter.com/search?q=Joe+Toussaint) | N/A |
+| 32 | [Gold Alpinas](http://twitter.com/search?q=Gold+Alpinas) | N/A |
+| 33 | [Shayna](http://twitter.com/search?q=Shayna) | N/A |
+| 34 | [When I Come Around](http://twitter.com/search?q=When+I+Come+Around) | N/A |
+| 35 | [Lashley](http://twitter.com/search?q=Lashley) | Lashley is a surname of English origin. It is derived from the Old English words læsc (meaning "salmon") and leah (meaning "woodland clearing"). The name was originally given to someone who lived near a salmon-filled stream or river. |
+| 36 | [Orph](http://twitter.com/search?q=Orph) | N/A |
+| 37 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
+| 38 | [Proud Boys](http://twitter.com/search?q=Proud+Boys) | N/A |
+| 39 | [McDavid](http://twitter.com/search?q=McDavid) | McDavid is a brand of sports equipment and apparel, named after the Canadian hockey player Connor McDavid. The company produces protective gear, such as hockey helmets and shoulder pads, as well as clothing and accessories. |
+| 40 | [Lesnar](http://twitter.com/search?q=Lesnar) | Lesnar is a surname of German origin. It is derived from the Middle High German word "lesen" which means "to read". In English, it can be translated to mean "reader". |
+| 41 | [Timbers](http://twitter.com/search?q=Timbers) | N/A |
+| 42 | [Ronda](http://twitter.com/search?q=Ronda) | N/A |
+| 43 | [My Type of Party](http://twitter.com/search?q=My+Type+of+Party) | N/A |
+| 44 | [Bennett](http://twitter.com/search?q=Bennett) | N/A |
+| 45 | [Paolo](http://twitter.com/search?q=Paolo) | N/A |
+| 46 | [JK LIVE](http://twitter.com/search?q=JK+LIVE) | JK LIVE is a Japanese streaming service that allows users to watch live broadcasts of events, concerts, and other entertainment. The acronym stands for "Japan Kansai Live", referring to the Kansai region of Japan where the service is based. |
+| 47 | [Edward VIII](http://twitter.com/search?q=Edward+VIII) | N/A |
+| 48 | [Keke](http://twitter.com/search?q=Keke) | N/A |
 
 
 

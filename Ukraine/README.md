@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ukraine
 
-📆 Last Updated: `2023-02-28 07:17:04 UTC`
+📆 Last Updated: `2023-02-28 08:17:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Ukraine
 | ------- | ------------ | ------------ |
 | 1 | [Раночку](http://twitter.com/search?q=%d0%a0%d0%b0%d0%bd%d0%be%d1%87%d0%ba%d1%83) | N/A |
 | 2 | [Khmelnytskyi](http://twitter.com/search?q=Khmelnytskyi) | N/A |
-| 3 | [Ранку](http://twitter.com/search?q=%d0%a0%d0%b0%d0%bd%d0%ba%d1%83) | N/A |
-| 4 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 3 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 4 | [Ранку](http://twitter.com/search?q=%d0%a0%d0%b0%d0%bd%d0%ba%d1%83) | N/A |
 | 5 | [#хтивийпонеділок](http://twitter.com/search?q=%23%d1%85%d1%82%d0%b8%d0%b2%d0%b8%d0%b9%d0%bf%d0%be%d0%bd%d0%b5%d0%b4%d1%96%d0%bb%d0%be%d0%ba) | N/A |
-| 6 | [Горбушка](http://twitter.com/search?q=%d0%93%d0%be%d1%80%d0%b1%d1%83%d1%88%d0%ba%d0%b0) | N/A |
-| 7 | [#LunarNewYearTSB](http://twitter.com/search?q=%23LunarNewYearTSB) | N/A |
+| 6 | [Добрий](http://twitter.com/search?q=%d0%94%d0%be%d0%b1%d1%80%d0%b8%d0%b9) | N/A |
+| 7 | [Горбушка](http://twitter.com/search?q=%d0%93%d0%be%d1%80%d0%b1%d1%83%d1%88%d0%ba%d0%b0) | N/A |
 | 8 | [Mystery](http://twitter.com/search?q=Mystery) | N/A |
 | 9 | [Holodomor](http://twitter.com/search?q=Holodomor) | N/A |
 | 10 | [#sexymonday](http://twitter.com/search?q=%23sexymonday) | N/A |
 | 11 | [#crimea2023](http://twitter.com/search?q=%23crimea2023) | N/A |
-| 12 | [#GalxeID](http://twitter.com/search?q=%23GalxeID) | N/A |
-| 13 | [Маск](http://twitter.com/search?q=%d0%9c%d0%b0%d1%81%d0%ba) | N/A |
-| 14 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 15 | [уйон](http://twitter.com/search?q=%d1%83%d0%b9%d0%be%d0%bd) | N/A |
-| 16 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
-| 17 | [ДРЛО А-50](http://twitter.com/search?q=%d0%94%d0%a0%d0%9b%d0%9e+%d0%90-50) | N/A |
-| 18 | [сонхва](http://twitter.com/search?q=%d1%81%d0%be%d0%bd%d1%85%d0%b2%d0%b0) | N/A |
-| 19 | [BYPOL](http://twitter.com/search?q=BYPOL) | N/A |
-| 20 | [Belarusian](http://twitter.com/search?q=Belarusian) | N/A |
-| 21 | [Shahed](http://twitter.com/search?q=Shahed) | N/A |
-| 22 | [Delivery Robot in Next Station](http://twitter.com/search?q=Delivery+Robot+in+Next+Station) | N/A |
-| 23 | [Мачулищах](http://twitter.com/search?q=%d0%9c%d0%b0%d1%87%d1%83%d0%bb%d0%b8%d1%89%d0%b0%d1%85) | N/A |
-| 24 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 25 | [star team in pccw hkt futurera](http://twitter.com/search?q=star+team+in+pccw+hkt+futurera) | N/A |
+| 12 | [#LunarNewYearTSB](http://twitter.com/search?q=%23LunarNewYearTSB) | N/A |
+| 13 | [#GalxeID](http://twitter.com/search?q=%23GalxeID) | N/A |
+| 14 | [Маск](http://twitter.com/search?q=%d0%9c%d0%b0%d1%81%d0%ba) | N/A |
+| 15 | [СССР](http://twitter.com/search?q=%d0%a1%d0%a1%d0%a1%d0%a0) | N/A |
+| 16 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 17 | [уйон](http://twitter.com/search?q=%d1%83%d0%b9%d0%be%d0%bd) | N/A |
+| 18 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
+| 19 | [ДРЛО А-50](http://twitter.com/search?q=%d0%94%d0%a0%d0%9b%d0%9e+%d0%90-50) | N/A |
+| 20 | [сонхва](http://twitter.com/search?q=%d1%81%d0%be%d0%bd%d1%85%d0%b2%d0%b0) | N/A |
+| 21 | [BYPOL](http://twitter.com/search?q=BYPOL) | N/A |
+| 22 | [Shahed](http://twitter.com/search?q=Shahed) | N/A |
+| 23 | [мачулищах](http://twitter.com/search?q=%d0%bc%d0%b0%d1%87%d1%83%d0%bb%d0%b8%d1%89%d0%b0%d1%85) | N/A |
+| 24 | [Молодец](http://twitter.com/search?q=%d0%9c%d0%be%d0%bb%d0%be%d0%b4%d0%b5%d1%86) | N/A |
+| 25 | [NATO](http://twitter.com/search?q=NATO) | N/A |
 | 26 | [украинский](http://twitter.com/search?q=%d1%83%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d1%81%d0%ba%d0%b8%d0%b9) | N/A |
-| 27 | [The Legend of Sword and Fairy](http://twitter.com/search?q=The+Legend+of+Sword+and+Fairy) | N/A |
-| 28 | [Угледаром](http://twitter.com/search?q=%d0%a3%d0%b3%d0%bb%d0%b5%d0%b4%d0%b0%d1%80%d0%be%d0%bc) | N/A |
-| 29 | [СЛЕЙ](http://twitter.com/search?q=%d0%a1%d0%9b%d0%95%d0%99) | N/A |
-| 30 | [Зеленского](http://twitter.com/search?q=%d0%97%d0%b5%d0%bb%d0%b5%d0%bd%d1%81%d0%ba%d0%be%d0%b3%d0%be) | N/A |
-| 31 | [Вчера](http://twitter.com/search?q=%d0%92%d1%87%d0%b5%d1%80%d0%b0) | N/A |
-| 32 | [НАТО](http://twitter.com/search?q=%d0%9d%d0%90%d0%a2%d0%9e) | N/A |
-| 33 | [mcdull in mcdull land](http://twitter.com/search?q=mcdull+in+mcdull+land) | N/A |
-| 34 | [Maidan](http://twitter.com/search?q=Maidan) | N/A |
-| 35 | [Minsk](http://twitter.com/search?q=Minsk) | N/A |
-| 36 | [гарнюня](http://twitter.com/search?q=%d0%b3%d0%b0%d1%80%d0%bd%d1%8e%d0%bd%d1%8f) | N/A |
-| 37 | [новости украины](http://twitter.com/search?q=%d0%bd%d0%be%d0%b2%d0%be%d1%81%d1%82%d0%b8+%d1%83%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d1%8b) | N/A |
-| 38 | [Судя](http://twitter.com/search?q=%d0%a1%d1%83%d0%b4%d1%8f) | N/A |
-| 39 | [Запада](http://twitter.com/search?q=%d0%97%d0%b0%d0%bf%d0%b0%d0%b4%d0%b0) | N/A |
+| 27 | [Угледаром](http://twitter.com/search?q=%d0%a3%d0%b3%d0%bb%d0%b5%d0%b4%d0%b0%d1%80%d0%be%d0%bc) | N/A |
+| 28 | [Delivery Robot in Next Station](http://twitter.com/search?q=Delivery+Robot+in+Next+Station) | N/A |
+| 29 | [Вчера](http://twitter.com/search?q=%d0%92%d1%87%d0%b5%d1%80%d0%b0) | N/A |
+| 30 | [Star Team in PCCW HKT Futurera](http://twitter.com/search?q=Star+Team+in+PCCW+HKT+Futurera) | N/A |
+| 31 | [Украине](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%b5) | N/A |
+| 32 | [Зеленского](http://twitter.com/search?q=%d0%97%d0%b5%d0%bb%d0%b5%d0%bd%d1%81%d0%ba%d0%be%d0%b3%d0%be) | N/A |
+| 33 | [Belarusian](http://twitter.com/search?q=Belarusian) | N/A |
+| 34 | [The Legend of Sword and Fairy](http://twitter.com/search?q=The+Legend+of+Sword+and+Fairy) | N/A |
+| 35 | [НАТО](http://twitter.com/search?q=%d0%9d%d0%90%d0%a2%d0%9e) | N/A |
+| 36 | [Maidan](http://twitter.com/search?q=Maidan) | N/A |
+| 37 | [гарнюня](http://twitter.com/search?q=%d0%b3%d0%b0%d1%80%d0%bd%d1%8e%d0%bd%d1%8f) | N/A |
+| 38 | [Запада](http://twitter.com/search?q=%d0%97%d0%b0%d0%bf%d0%b0%d0%b4%d0%b0) | N/A |
+| 39 | [McDull in McDull LAND](http://twitter.com/search?q=McDull+in+McDull+LAND) | N/A |
 | 40 | [Бахмута](http://twitter.com/search?q=%d0%91%d0%b0%d1%85%d0%bc%d1%83%d1%82%d0%b0) | N/A |
 | 41 | [The Russians](http://twitter.com/search?q=The+Russians) | N/A |
-| 42 | [В Киеве](http://twitter.com/search?q=%d0%92+%d0%9a%d0%b8%d0%b5%d0%b2%d0%b5) | N/A |
-| 43 | [Похоже](http://twitter.com/search?q=%d0%9f%d0%be%d1%85%d0%be%d0%b6%d0%b5) | N/A |
-| 44 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
-| 45 | [Yanukovich](http://twitter.com/search?q=Yanukovich) | N/A |
-| 46 | [РЕВУ](http://twitter.com/search?q=%d0%a0%d0%95%d0%92%d0%a3) | N/A |
-| 47 | [Китая](http://twitter.com/search?q=%d0%9a%d0%b8%d1%82%d0%b0%d1%8f) | N/A |
-| 48 | [файно](http://twitter.com/search?q=%d1%84%d0%b0%d0%b9%d0%bd%d0%be) | N/A |
-| 49 | [Web3 Social](http://twitter.com/search?q=Web3+Social) | N/A |
-| 50 | [вижу](http://twitter.com/search?q=%d0%b2%d0%b8%d0%b6%d1%83) | N/A |
+| 42 | [в киеве](http://twitter.com/search?q=%d0%b2+%d0%ba%d0%b8%d0%b5%d0%b2%d0%b5) | N/A |
+| 43 | [Yanukovich](http://twitter.com/search?q=Yanukovich) | N/A |
+| 44 | [СЛЕЙ](http://twitter.com/search?q=%d0%a1%d0%9b%d0%95%d0%99) | N/A |
+| 45 | [Странно](http://twitter.com/search?q=%d0%a1%d1%82%d1%80%d0%b0%d0%bd%d0%bd%d0%be) | N/A |
+| 46 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
+| 47 | [РЕВУ](http://twitter.com/search?q=%d0%a0%d0%95%d0%92%d0%a3) | N/A |
+| 48 | [Китая](http://twitter.com/search?q=%d0%9a%d0%b8%d1%82%d0%b0%d1%8f) | N/A |
+| 49 | [файно](http://twitter.com/search?q=%d1%84%d0%b0%d0%b9%d0%bd%d0%be) | N/A |
+| 50 | [Web3 Social](http://twitter.com/search?q=Web3+Social) | N/A |
 
 
 
