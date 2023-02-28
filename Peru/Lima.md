@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lima
 
-📆 Last Updated: `2023-02-28 10:16:17 UTC`
+📆 Last Updated: `2023-02-28 11:15:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,8 +16,8 @@ This is top 50 for [Peru](</Peru>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 2 | [Fiorella Cayo](http://twitter.com/search?q=Fiorella+Cayo) | N/A |
-| 3 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
+| 2 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
+| 3 | [Fiorella Cayo](http://twitter.com/search?q=Fiorella+Cayo) | N/A |
 | 4 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
 | 5 | [#afhs](http://twitter.com/search?q=%23afhs) | N/A |
 | 6 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
@@ -29,11 +29,11 @@ This is top 50 for [Peru](</Peru>)
 | 12 | [#LaVelada3](http://twitter.com/search?q=%23LaVelada3) | N/A |
 | 13 | [Luzu](http://twitter.com/search?q=Luzu) | Luzu is a Spanish word that means light. It is often used to refer to a bright, cheerful, and optimistic attitude. |
 | 14 | [compagnucci](http://twitter.com/search?q=compagnucci) | N/A |
-| 15 | [Avanza País](http://twitter.com/search?q=Avanza+Pa%c3%ads) | N/A |
-| 16 | [Germán](http://twitter.com/search?q=Germ%c3%a1n) | Germán is a Spanish and Portuguese name derived from the Latin Germanus, meaning "brother". It is also a Germanic given name, derived from the Germanic element ger, meaning "spear". |
-| 17 | [#TOMORROW_X_TOGETHER](http://twitter.com/search?q=%23TOMORROW_X_TOGETHER) | #TOMORROW_X_TOGETHER is the name of a South Korean boy band formed by Big Hit Entertainment in 2019. The group consists of five members: Yeonjun, Soobin, Beomgyu, Taehyun and Huening Kai. The name of the group is meant to signify the power of togetherness and unity among people, regardless of their differences. In English, it translates to "Tomorrow Together". |
-| 18 | [Fernan](http://twitter.com/search?q=Fernan) | N/A |
-| 19 | [Barreto](http://twitter.com/search?q=Barreto) | N/A |
+| 15 | [Germán](http://twitter.com/search?q=Germ%c3%a1n) | Germán is a Spanish and Portuguese name derived from the Latin Germanus, meaning "brother". It is also a Germanic given name, derived from the Germanic element ger, meaning "spear". |
+| 16 | [#TOMORROW_X_TOGETHER](http://twitter.com/search?q=%23TOMORROW_X_TOGETHER) | #TOMORROW_X_TOGETHER is the name of a South Korean boy band formed by Big Hit Entertainment in 2019. The group consists of five members: Yeonjun, Soobin, Beomgyu, Taehyun and Huening Kai. The name of the group is meant to signify the power of togetherness and unity among people, regardless of their differences. In English, it translates to "Tomorrow Together". |
+| 17 | [Fernan](http://twitter.com/search?q=Fernan) | N/A |
+| 18 | [Barreto](http://twitter.com/search?q=Barreto) | N/A |
+| 19 | [Avanza País](http://twitter.com/search?q=Avanza+Pa%c3%ads) | N/A |
 | 20 | [#SAGAwards](http://twitter.com/search?q=%23SAGAwards) | N/A |
 | 21 | [Adriana Tudela](http://twitter.com/search?q=Adriana+Tudela) | N/A |
 | 22 | [Herrera](http://twitter.com/search?q=Herrera) | Herrera is a Spanish surname derived from the Latin word ferreus, meaning "iron". It is also a common given name in Spanish-speaking countries. In English, Herrera can be translated to mean "ironworker" or "blacksmith". |
@@ -50,21 +50,21 @@ This is top 50 for [Peru](</Peru>)
 | 33 | [hailey](http://twitter.com/search?q=hailey) | N/A |
 | 34 | [bruno pérez](http://twitter.com/search?q=bruno+p%c3%a9rez) | N/A |
 | 35 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
-| 36 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 37 | [Gorriti](http://twitter.com/search?q=Gorriti) | N/A |
+| 36 | [Gorriti](http://twitter.com/search?q=Gorriti) | N/A |
+| 37 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
 | 38 | [Papi Gavi](http://twitter.com/search?q=Papi+Gavi) | N/A |
-| 39 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
-| 40 | [Coscu](http://twitter.com/search?q=Coscu) | N/A |
-| 41 | [roque benavides](http://twitter.com/search?q=roque+benavides) | N/A |
-| 42 | [Shelao](http://twitter.com/search?q=Shelao) | N/A |
-| 43 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
-| 44 | [Pachamama](http://twitter.com/search?q=Pachamama) | N/A |
-| 45 | [Succar](http://twitter.com/search?q=Succar) | N/A |
-| 46 | [SUPUESTOS](http://twitter.com/search?q=SUPUESTOS) | N/A |
-| 47 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
-| 48 | [Heredia](http://twitter.com/search?q=Heredia) | N/A |
-| 49 | [Iniesta](http://twitter.com/search?q=Iniesta) | N/A |
-| 50 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 39 | [Coscu](http://twitter.com/search?q=Coscu) | N/A |
+| 40 | [roque benavides](http://twitter.com/search?q=roque+benavides) | N/A |
+| 41 | [Shelao](http://twitter.com/search?q=Shelao) | N/A |
+| 42 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
+| 43 | [Succar](http://twitter.com/search?q=Succar) | N/A |
+| 44 | [Supuestos](http://twitter.com/search?q=Supuestos) | N/A |
+| 45 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
+| 46 | [Heredia](http://twitter.com/search?q=Heredia) | N/A |
+| 47 | [Iniesta](http://twitter.com/search?q=Iniesta) | N/A |
+| 48 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
+| 49 | [Pachamama](http://twitter.com/search?q=Pachamama) | N/A |
+| 50 | [Ataca](http://twitter.com/search?q=Ataca) | N/A |
 
 
 

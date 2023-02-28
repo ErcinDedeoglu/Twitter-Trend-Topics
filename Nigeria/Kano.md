@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kano
 
-📆 Last Updated: `2023-02-28 10:16:37 UTC`
+📆 Last Updated: `2023-02-28 11:16:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,53 @@ This is top 50 for [Nigeria](</Nigeria>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#electionresults2023](http://twitter.com/search?q=%23electionresults2023) | N/A |
-| 2 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 3 | [Honorable Kelechi](http://twitter.com/search?q=Honorable+Kelechi) | N/A |
-| 4 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
-| 5 | [#DataphyteElectionPlatform](http://twitter.com/search?q=%23DataphyteElectionPlatform) | N/A |
-| 6 | [#protest](http://twitter.com/search?q=%23protest) | N/A |
-| 7 | [Ekiti](http://twitter.com/search?q=Ekiti) | N/A |
-| 8 | [#Cityboiz](http://twitter.com/search?q=%23Cityboiz) | N/A |
-| 9 | [Obasanjo](http://twitter.com/search?q=Obasanjo) | Obasanjo is a Yoruba name meaning "the king has returned". It is the surname of Olusegun Obasanjo, a former Nigerian military leader and two-term president. |
-| 10 | [BVAS](http://twitter.com/search?q=BVAS) | BVAS stands for Behavioral and Vital Signs. It is a term used in the medical field to refer to the physical and mental signs that can be used to assess a patient's health. These signs include heart rate, blood pressure, temperature, respiration rate, and other indicators of physical and mental health. |
-| 11 | [Plateau](http://twitter.com/search?q=Plateau) | N/A |
-| 12 | [Banky](http://twitter.com/search?q=Banky) | N/A |
-| 13 | [25% in FCT](http://twitter.com/search?q=25%25+in+FCT) | N/A |
-| 14 | [IREV](http://twitter.com/search?q=IREV) | N/A |
-| 15 | [#benue](http://twitter.com/search?q=%23benue) | N/A |
-| 16 | [Yoruba](http://twitter.com/search?q=Yoruba) | N/A |
-| 17 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 18 | [Dele Farotimi](http://twitter.com/search?q=Dele+Farotimi) | N/A |
-| 19 | [Enugu](http://twitter.com/search?q=Enugu) | N/A |
-| 20 | [Sanwo Olu](http://twitter.com/search?q=Sanwo+Olu) | N/A |
-| 21 | [African Union](http://twitter.com/search?q=African+Union) | N/A |
-| 22 | [RCCG](http://twitter.com/search?q=RCCG) | N/A |
-| 23 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
-| 24 | [Orubebe](http://twitter.com/search?q=Orubebe) | N/A |
-| 25 | [Barack Obama](http://twitter.com/search?q=Barack+Obama) | N/A |
-| 26 | [Royals](http://twitter.com/search?q=Royals) | N/A |
-| 27 | [God is Good](http://twitter.com/search?q=God+is+Good) | N/A |
-| 28 | [North](http://twitter.com/search?q=North) | N/A |
-| 29 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
-| 30 | [Rigging](http://twitter.com/search?q=Rigging) | N/A |
-| 31 | [11th of March](http://twitter.com/search?q=11th+of+March) | N/A |
-| 32 | [Rigged](http://twitter.com/search?q=Rigged) | N/A |
-| 33 | [Abuja](http://twitter.com/search?q=Abuja) | N/A |
-| 34 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 35 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 36 | [Edeoga](http://twitter.com/search?q=Edeoga) | N/A |
-| 37 | [Solomon](http://twitter.com/search?q=Solomon) | N/A |
-| 38 | [Mahmood Yakubu](http://twitter.com/search?q=Mahmood+Yakubu) | N/A |
-| 39 | [Excel](http://twitter.com/search?q=Excel) | N/A |
-| 40 | [Wike](http://twitter.com/search?q=Wike) | Wike is a term used in the Philippines to refer to a person who is knowledgeable or wise. It is derived from the Tagalog word "wikain," which means "to know." In English, it can be translated as "wise" or "knowledgeable." |
-| 41 | [National Collation Centre](http://twitter.com/search?q=National+Collation+Centre) | N/A |
-| 42 | [Givenchy](http://twitter.com/search?q=Givenchy) | N/A |
-| 43 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 44 | [Emeka](http://twitter.com/search?q=Emeka) | N/A |
-| 45 | [Maurice Iwu](http://twitter.com/search?q=Maurice+Iwu) | N/A |
-| 46 | [Governorship](http://twitter.com/search?q=Governorship) | N/A |
-| 47 | [Frank Nweke](http://twitter.com/search?q=Frank+Nweke) | N/A |
-| 48 | [Thabana](http://twitter.com/search?q=Thabana) | Thabana is a Sesotho word meaning “to be brave” or “to have courage”. It is often used as a rallying cry for people to stand up and take action in the face of adversity. |
-| 49 | [Akwa Ibom](http://twitter.com/search?q=Akwa+Ibom) | N/A |
-| 50 | [Congratulations Sir](http://twitter.com/search?q=Congratulations+Sir) | N/A |
+| 1 | [25% in FCT](http://twitter.com/search?q=25%25+in+FCT) | N/A |
+| 2 | [#DataphyteElectionPlatform](http://twitter.com/search?q=%23DataphyteElectionPlatform) | N/A |
+| 3 | [#protest](http://twitter.com/search?q=%23protest) | N/A |
+| 4 | [25% in the FCT](http://twitter.com/search?q=25%25+in+the+FCT) | N/A |
+| 5 | [25% in Abuja](http://twitter.com/search?q=25%25+in+Abuja) | N/A |
+| 6 | [Honorable Kelechi](http://twitter.com/search?q=Honorable+Kelechi) | N/A |
+| 7 | [#INECElectionResult](http://twitter.com/search?q=%23INECElectionResult) | N/A |
+| 8 | [#electionresults2023](http://twitter.com/search?q=%23electionresults2023) | N/A |
+| 9 | [#Cityboiz](http://twitter.com/search?q=%23Cityboiz) | N/A |
+| 10 | [AND FCT](http://twitter.com/search?q=AND+FCT) | N/A |
+| 11 | [Chinedu](http://twitter.com/search?q=Chinedu) | N/A |
+| 12 | [Dele Farotimi](http://twitter.com/search?q=Dele+Farotimi) | N/A |
+| 13 | [Federal Capital Territory](http://twitter.com/search?q=Federal+Capital+Territory) | N/A |
+| 14 | [African Union](http://twitter.com/search?q=African+Union) | N/A |
+| 15 | [Solomon](http://twitter.com/search?q=Solomon) | N/A |
+| 16 | [Barack Obama](http://twitter.com/search?q=Barack+Obama) | N/A |
+| 17 | [RCCG](http://twitter.com/search?q=RCCG) | N/A |
+| 18 | [Excel](http://twitter.com/search?q=Excel) | N/A |
+| 19 | [God is Good](http://twitter.com/search?q=God+is+Good) | N/A |
+| 20 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
+| 21 | [INEC and APC](http://twitter.com/search?q=INEC+and+APC) | N/A |
+| 22 | [Edeoga](http://twitter.com/search?q=Edeoga) | N/A |
+| 23 | [Constitution](http://twitter.com/search?q=Constitution) | N/A |
+| 24 | [Bwari](http://twitter.com/search?q=Bwari) | N/A |
+| 25 | [Burna](http://twitter.com/search?q=Burna) | Burna is a slang term used to refer to someone who is cool, confident, and stylish. It can also be used to describe someone who is a trendsetter or trend-setter. The term is derived from the word "burner," which is a slang term for a stylish person. |
+| 26 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 27 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
+| 28 | [Adeboye](http://twitter.com/search?q=Adeboye) | N/A |
+| 29 | [VOTE KANIVA](http://twitter.com/search?q=VOTE+KANIVA) | N/A |
+| 30 | [European Union](http://twitter.com/search?q=European+Union) | N/A |
+| 31 | [Emeka](http://twitter.com/search?q=Emeka) | N/A |
+| 32 | [Frank Nweke](http://twitter.com/search?q=Frank+Nweke) | N/A |
+| 33 | [Mahmoud](http://twitter.com/search?q=Mahmoud) | N/A |
+| 34 | [Judiciary](http://twitter.com/search?q=Judiciary) | N/A |
+| 35 | [Electoral Act](http://twitter.com/search?q=Electoral+Act) | N/A |
+| 36 | [Cross River](http://twitter.com/search?q=Cross+River) | N/A |
+| 37 | [National Collation Centre](http://twitter.com/search?q=National+Collation+Centre) | N/A |
+| 38 | [Yakubu](http://twitter.com/search?q=Yakubu) | N/A |
+| 39 | [#AlabaOut](http://twitter.com/search?q=%23AlabaOut) | N/A |
+| 40 | [#ENDINECNOW](http://twitter.com/search?q=%23ENDINECNOW) | N/A |
+| 41 | [#bachelor](http://twitter.com/search?q=%23bachelor) | N/A |
+| 42 | [#SheggzOlu](http://twitter.com/search?q=%23SheggzOlu) | N/A |
+| 43 | [#NSPPD](http://twitter.com/search?q=%23NSPPD) | N/A |
+| 44 | [#LIFEBYBN](http://twitter.com/search?q=%23LIFEBYBN) | N/A |
+| 45 | [#INECFailedNigerians](http://twitter.com/search?q=%23INECFailedNigerians) | N/A |
+| 46 | [#CongratulationsObidatti](http://twitter.com/search?q=%23CongratulationsObidatti) | N/A |
+| 47 | [#TinubuCannotWin](http://twitter.com/search?q=%23TinubuCannotWin) | N/A |
 
 
 

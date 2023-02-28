@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indonesia
 
-📆 Last Updated: `2023-02-28 10:16:58 UTC`
+📆 Last Updated: `2023-02-28 11:16:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,50 @@ This is top 50 for Indonesia
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#KelasMakeupLazada](http://twitter.com/search?q=%23KelasMakeupLazada) | N/A |
-| 2 | [LazBeauty MUA Masterclass](http://twitter.com/search?q=LazBeauty+MUA+Masterclass) | N/A |
-| 3 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 4 | [#PNBPpascaproduksi](http://twitter.com/search?q=%23PNBPpascaproduksi) | N/A |
+| 1 | [#BLK2023](http://twitter.com/search?q=%23BLK2023) | N/A |
+| 2 | [#KelasMakeupLazada](http://twitter.com/search?q=%23KelasMakeupLazada) | N/A |
+| 3 | [LazBeauty MUA Masterclass](http://twitter.com/search?q=LazBeauty+MUA+Masterclass) | N/A |
+| 4 | [#TiffanyxWin](http://twitter.com/search?q=%23TiffanyxWin) | N/A |
 | 5 | [Make Up Artis](http://twitter.com/search?q=Make+Up+Artis) | N/A |
-| 6 | [Bubah Alfian](http://twitter.com/search?q=Bubah+Alfian) | N/A |
+| 6 | [PBSI](http://twitter.com/search?q=PBSI) | N/A |
 | 7 | [Marline Hariman](http://twitter.com/search?q=Marline+Hariman) | N/A |
-| 8 | [#SaktiWahyuTrenggono](http://twitter.com/search?q=%23SaktiWahyuTrenggono) | N/A |
-| 9 | [PBSI](http://twitter.com/search?q=PBSI) | N/A |
-| 10 | [Ryan Ogilvy](http://twitter.com/search?q=Ryan+Ogilvy) | N/A |
-| 11 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
-| 12 | [Gen 2](http://twitter.com/search?q=Gen+2) | N/A |
-| 13 | [Kerja Wamenhan M Herindra](http://twitter.com/search?q=Kerja+Wamenhan+M+Herindra) | N/A |
-| 14 | [Loyal - Beri Terbaik](http://twitter.com/search?q=Loyal+-+Beri+Terbaik) | N/A |
-| 15 | [#testimiroh](http://twitter.com/search?q=%23testimiroh) | N/A |
-| 16 | [Mengangkat](http://twitter.com/search?q=Mengangkat) | N/A |
-| 17 | [Jam 5](http://twitter.com/search?q=Jam+5) | N/A |
-| 18 | [Rakyat](http://twitter.com/search?q=Rakyat) | N/A |
-| 19 | [#BrightSaturdayNight](http://twitter.com/search?q=%23BrightSaturdayNight) | N/A |
-| 20 | [Shea](http://twitter.com/search?q=Shea) | N/A |
-| 21 | [Mbanking BCA](http://twitter.com/search?q=Mbanking+BCA) | N/A |
-| 22 | [Gubernurnya](http://twitter.com/search?q=Gubernurnya) | N/A |
-| 23 | [SECRET NUMBER JAPAN DEBUT](http://twitter.com/search?q=SECRET+NUMBER+JAPAN+DEBUT) | N/A |
+| 8 | [Ryan Ogilvy](http://twitter.com/search?q=Ryan+Ogilvy) | N/A |
+| 9 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 10 | [Bubah Alfian](http://twitter.com/search?q=Bubah+Alfian) | N/A |
+| 11 | [#testimiroh](http://twitter.com/search?q=%23testimiroh) | N/A |
+| 12 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
+| 13 | [Gen 2](http://twitter.com/search?q=Gen+2) | N/A |
+| 14 | [Flandy](http://twitter.com/search?q=Flandy) | N/A |
+| 15 | [Jam 5](http://twitter.com/search?q=Jam+5) | N/A |
+| 16 | [Kerja Wamenhan M Herindra](http://twitter.com/search?q=Kerja+Wamenhan+M+Herindra) | N/A |
+| 17 | [Loyal - Beri Terbaik](http://twitter.com/search?q=Loyal+-+Beri+Terbaik) | N/A |
+| 18 | [#RedmiNote11dariShopee](http://twitter.com/search?q=%23RedmiNote11dariShopee) | N/A |
+| 19 | [Rakyat](http://twitter.com/search?q=Rakyat) | N/A |
+| 20 | [Mengangkat](http://twitter.com/search?q=Mengangkat) | N/A |
+| 21 | [Vario](http://twitter.com/search?q=Vario) | N/A |
+| 22 | [Laut Bercerita](http://twitter.com/search?q=Laut+Bercerita) | N/A |
+| 23 | [Gubernurnya](http://twitter.com/search?q=Gubernurnya) | N/A |
 | 24 | [Okin](http://twitter.com/search?q=Okin) | N/A |
-| 25 | [Vario](http://twitter.com/search?q=Vario) | N/A |
-| 26 | [Laut Bercerita](http://twitter.com/search?q=Laut+Bercerita) | N/A |
-| 27 | [LATE LATE SHOW WITH TXT](http://twitter.com/search?q=LATE+LATE+SHOW+WITH+TXT) | N/A |
-| 28 | [Selasa](http://twitter.com/search?q=Selasa) | N/A |
-| 29 | [Iris](http://twitter.com/search?q=Iris) | N/A |
-| 30 | [Bertaruh](http://twitter.com/search?q=Bertaruh) | N/A |
-| 31 | [Zara](http://twitter.com/search?q=Zara) | Zara is a Spanish clothing and accessories retailer. It is one of the largest international fashion companies, and specializes in fast fashion. The name Zara is derived from the name of the founder's daughter, Zara Amalia. |
-| 32 | [Scoopy](http://twitter.com/search?q=Scoopy) | N/A |
-| 33 | [Putri LS](http://twitter.com/search?q=Putri+LS) | N/A |
-| 34 | [Februari 2023](http://twitter.com/search?q=Februari+2023) | N/A |
+| 25 | [Scoopy](http://twitter.com/search?q=Scoopy) | N/A |
+| 26 | [Mbanking BCA](http://twitter.com/search?q=Mbanking+BCA) | N/A |
+| 27 | [Jam 7](http://twitter.com/search?q=Jam+7) | N/A |
+| 28 | [SECRET NUMBER JAPAN DEBUT](http://twitter.com/search?q=SECRET+NUMBER+JAPAN+DEBUT) | N/A |
+| 29 | [Selasa](http://twitter.com/search?q=Selasa) | N/A |
+| 30 | [LATE LATE SHOW WITH TXT](http://twitter.com/search?q=LATE+LATE+SHOW+WITH+TXT) | N/A |
+| 31 | [Februari 2023](http://twitter.com/search?q=Februari+2023) | N/A |
+| 32 | [Bertaruh](http://twitter.com/search?q=Bertaruh) | N/A |
+| 33 | [Zara](http://twitter.com/search?q=Zara) | Zara is a Spanish clothing and accessories retailer. It is one of the largest international fashion companies, and specializes in fast fashion. The name Zara is derived from the name of the founder's daughter, Zara Amalia. |
+| 34 | [Stranger Things](http://twitter.com/search?q=Stranger+Things) | N/A |
 | 35 | [Heru](http://twitter.com/search?q=Heru) | N/A |
-| 36 | [HUANG RENJUN THANK YOU](http://twitter.com/search?q=HUANG+RENJUN+THANK+YOU) | N/A |
-| 37 | [#RedmiNote11dariShopee](http://twitter.com/search?q=%23RedmiNote11dariShopee) | N/A |
-| 38 | [#KristSoloAsiaTour2023](http://twitter.com/search?q=%23KristSoloAsiaTour2023) | N/A |
+| 36 | [Putri LS](http://twitter.com/search?q=Putri+LS) | N/A |
+| 37 | [#NeverLetMeGoSeriesFinalEP](http://twitter.com/search?q=%23NeverLetMeGoSeriesFinalEP) | N/A |
+| 38 | [#BrightSaturdayNight](http://twitter.com/search?q=%23BrightSaturdayNight) | N/A |
 | 39 | [#PersebayaDay](http://twitter.com/search?q=%23PersebayaDay) | N/A |
-| 40 | [#KristPerawat](http://twitter.com/search?q=%23KristPerawat) | N/A |
-| 41 | [#LIKEITLIKEIT_MVTeaser1](http://twitter.com/search?q=%23LIKEITLIKEIT_MVTeaser1) | N/A |
-| 42 | [#LIKE_IT_LIKE_IT](http://twitter.com/search?q=%23LIKE_IT_LIKE_IT) | N/A |
-| 43 | [#TXTonTheLateLateShow](http://twitter.com/search?q=%23TXTonTheLateLateShow) | N/A |
-| 44 | [#racuninskincare](http://twitter.com/search?q=%23racuninskincare) | N/A |
-| 45 | [#シークレットナンバー](http://twitter.com/search?q=%23%e3%82%b7%e3%83%bc%e3%82%af%e3%83%ac%e3%83%83%e3%83%88%e3%83%8a%e3%83%b3%e3%83%90%e3%83%bc) | N/A |
-| 46 | [#TOMORROW_X_TOGETHER](http://twitter.com/search?q=%23TOMORROW_X_TOGETHER) | #TOMORROW_X_TOGETHER is the name of a South Korean boy band formed by Big Hit Entertainment in 2019. The group consists of five members: Yeonjun, Soobin, Beomgyu, Taehyun and Huening Kai. The name of the group is meant to signify the power of togetherness and unity among people, regardless of their differences. In English, it translates to "Tomorrow Together". |
+| 40 | [#LIKE_IT_LIKE_IT](http://twitter.com/search?q=%23LIKE_IT_LIKE_IT) | N/A |
+| 41 | [#TXTonTheLateLateShow](http://twitter.com/search?q=%23TXTonTheLateLateShow) | N/A |
+| 42 | [#racuninskincare](http://twitter.com/search?q=%23racuninskincare) | N/A |
+| 43 | [#シークレットナンバー](http://twitter.com/search?q=%23%e3%82%b7%e3%83%bc%e3%82%af%e3%83%ac%e3%83%83%e3%83%88%e3%83%8a%e3%83%b3%e3%83%90%e3%83%bc) | N/A |
+| 44 | [#LIKEITLIKEIT_MVTeaser1](http://twitter.com/search?q=%23LIKEITLIKEIT_MVTeaser1) | N/A |
 
 
 

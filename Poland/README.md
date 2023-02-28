@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Poland
 
-📆 Last Updated: `2023-02-28 10:17:00 UTC`
+📆 Last Updated: `2023-02-28 11:16:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for Poland
 | 2 | [#krwawaropa](http://twitter.com/search?q=%23krwawaropa) | N/A |
 | 3 | [#tubijeserceeuropy](http://twitter.com/search?q=%23tubijeserceeuropy) | N/A |
 | 4 | [Tusk](http://twitter.com/search?q=Tusk) | N/A |
-| 5 | [#Minęła8](http://twitter.com/search?q=%23Min%c4%99%c5%82a8) | N/A |
-| 6 | [Pabianicach](http://twitter.com/search?q=Pabianicach) | N/A |
-| 7 | [Orlen](http://twitter.com/search?q=Orlen) | N/A |
-| 8 | [Marcin Oleksy](http://twitter.com/search?q=Marcin+Oleksy) | N/A |
-| 9 | [#tujestprzyszłość](http://twitter.com/search?q=%23tujestprzysz%c5%82o%c5%9b%c4%87) | N/A |
-| 10 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
-| 11 | [Rosji](http://twitter.com/search?q=Rosji) | N/A |
+| 5 | [Pabianicach](http://twitter.com/search?q=Pabianicach) | N/A |
+| 6 | [Orlen](http://twitter.com/search?q=Orlen) | N/A |
+| 7 | [Marcin Oleksy](http://twitter.com/search?q=Marcin+Oleksy) | N/A |
+| 8 | [#TuJestPrzyszłość](http://twitter.com/search?q=%23TuJestPrzysz%c5%82o%c5%9b%c4%87) | N/A |
+| 9 | [Rosji](http://twitter.com/search?q=Rosji) | N/A |
+| 10 | [#minela8](http://twitter.com/search?q=%23minela8) | N/A |
+| 11 | [Razem](http://twitter.com/search?q=Razem) | N/A |
 | 12 | [Eurowizji](http://twitter.com/search?q=Eurowizji) | N/A |
-| 13 | [Razem](http://twitter.com/search?q=Razem) | N/A |
+| 13 | [Lewicy](http://twitter.com/search?q=Lewicy) | N/A |
 | 14 | [Blanka](http://twitter.com/search?q=Blanka) | N/A |
-| 15 | [Mt 6](http://twitter.com/search?q=Mt+6) | N/A |
-| 16 | [Lewicy](http://twitter.com/search?q=Lewicy) | N/A |
-| 17 | [Jann](http://twitter.com/search?q=Jann) | N/A |
-| 18 | [Mieszkanie](http://twitter.com/search?q=Mieszkanie) | N/A |
-| 19 | [Obajtka](http://twitter.com/search?q=Obajtka) | N/A |
-| 20 | [Weverse](http://twitter.com/search?q=Weverse) | Weverse is a social media platform created by the South Korean entertainment company Big Hit Entertainment. It is designed to connect fans with artists and allow them to interact with each other. The name Weverse is derived from the words “we” and “universe”, representing the idea of creating a universe where fans and artists can come together. |
-| 21 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 15 | [Mieszkanie](http://twitter.com/search?q=Mieszkanie) | N/A |
+| 16 | [Jann](http://twitter.com/search?q=Jann) | N/A |
+| 17 | [Obajtka](http://twitter.com/search?q=Obajtka) | N/A |
+| 18 | [Auchan](http://twitter.com/search?q=Auchan) | N/A |
+| 19 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
+| 20 | [Kredyt 0%](http://twitter.com/search?q=Kredyt+0%25) | N/A |
+| 21 | [Pinto](http://twitter.com/search?q=Pinto) | N/A |
 | 22 | [PKB Polski](http://twitter.com/search?q=PKB+Polski) | N/A |
-| 23 | [auchan](http://twitter.com/search?q=auchan) | N/A |
-| 24 | [Kredyt 0%](http://twitter.com/search?q=Kredyt+0%25) | N/A |
-| 25 | [Pinto](http://twitter.com/search?q=Pinto) | N/A |
-| 26 | [Karpiński](http://twitter.com/search?q=Karpi%c5%84ski) | N/A |
-| 27 | [Sławek](http://twitter.com/search?q=S%c5%82awek) | N/A |
-| 28 | [Bayer Full](http://twitter.com/search?q=Bayer+Full) | N/A |
-| 29 | [Pcimia](http://twitter.com/search?q=Pcimia) | N/A |
-| 30 | [Kaziu](http://twitter.com/search?q=Kaziu) | N/A |
-| 31 | [Hucie Pieniackiej](http://twitter.com/search?q=Hucie+Pieniackiej) | N/A |
-| 32 | [Składać](http://twitter.com/search?q=Sk%c5%82ada%c4%87) | N/A |
-| 33 | [Seicento](http://twitter.com/search?q=Seicento) | N/A |
-| 34 | [Tłumy](http://twitter.com/search?q=T%c5%82umy) | N/A |
-| 35 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 36 | [Weszło](http://twitter.com/search?q=Wesz%c5%82o) | N/A |
-| 37 | [WIBOR](http://twitter.com/search?q=WIBOR) | N/A |
-| 38 | [Morderstwo](http://twitter.com/search?q=Morderstwo) | N/A |
-| 39 | [Józef Unrug](http://twitter.com/search?q=J%c3%b3zef+Unrug) | N/A |
-| 40 | [zabójstwo](http://twitter.com/search?q=zab%c3%b3jstwo) | N/A |
-| 41 | [Bochenek](http://twitter.com/search?q=Bochenek) | N/A |
-| 42 | [Sławka](http://twitter.com/search?q=S%c5%82awka) | N/A |
-| 43 | [Panie Sławku](http://twitter.com/search?q=Panie+S%c5%82awku) | N/A |
-| 44 | [Kropiwnicki](http://twitter.com/search?q=Kropiwnicki) | N/A |
-| 45 | [Elden Ring](http://twitter.com/search?q=Elden+Ring) | N/A |
-| 46 | [Dobrego](http://twitter.com/search?q=Dobrego) | N/A |
-| 47 | [Ferenca Puskasa](http://twitter.com/search?q=Ferenca+Puskasa) | N/A |
-| 48 | [Kosowski](http://twitter.com/search?q=Kosowski) | N/A |
-| 49 | [Lechia Zielona Góra](http://twitter.com/search?q=Lechia+Zielona+G%c3%b3ra) | N/A |
-| 50 | [Witam Cię](http://twitter.com/search?q=Witam+Ci%c4%99) | N/A |
+| 23 | [Karpiński](http://twitter.com/search?q=Karpi%c5%84ski) | N/A |
+| 24 | [Bayer Full](http://twitter.com/search?q=Bayer+Full) | N/A |
+| 25 | [Kaziu](http://twitter.com/search?q=Kaziu) | N/A |
+| 26 | [Sławek](http://twitter.com/search?q=S%c5%82awek) | N/A |
+| 27 | [Składać](http://twitter.com/search?q=Sk%c5%82ada%c4%87) | N/A |
+| 28 | [seicento](http://twitter.com/search?q=seicento) | N/A |
+| 29 | [Tłumy](http://twitter.com/search?q=T%c5%82umy) | N/A |
+| 30 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 31 | [Weszło](http://twitter.com/search?q=Wesz%c5%82o) | N/A |
+| 32 | [Pcimia](http://twitter.com/search?q=Pcimia) | N/A |
+| 33 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 34 | [zabójstwo](http://twitter.com/search?q=zab%c3%b3jstwo) | N/A |
+| 35 | [Bochenek](http://twitter.com/search?q=Bochenek) | N/A |
+| 36 | [Morderstwo](http://twitter.com/search?q=Morderstwo) | N/A |
+| 37 | [Sławka](http://twitter.com/search?q=S%c5%82awka) | N/A |
+| 38 | [Mt 6](http://twitter.com/search?q=Mt+6) | N/A |
+| 39 | [Panie Sławku](http://twitter.com/search?q=Panie+S%c5%82awku) | N/A |
+| 40 | [kropiwnicki](http://twitter.com/search?q=kropiwnicki) | N/A |
+| 41 | [Lechia Zielona Góra](http://twitter.com/search?q=Lechia+Zielona+G%c3%b3ra) | N/A |
+| 42 | [Ferenca Puskasa](http://twitter.com/search?q=Ferenca+Puskasa) | N/A |
+| 43 | [Bartosiak](http://twitter.com/search?q=Bartosiak) | N/A |
+| 44 | [Tomczyk](http://twitter.com/search?q=Tomczyk) | N/A |
+| 45 | [Kosowski](http://twitter.com/search?q=Kosowski) | N/A |
+| 46 | [sebastiana kościelnika](http://twitter.com/search?q=sebastiana+ko%c5%9bcielnika) | N/A |
+| 47 | [brawo marcin](http://twitter.com/search?q=brawo+marcin) | N/A |
+| 48 | [WIBOR](http://twitter.com/search?q=WIBOR) | N/A |
+| 49 | [Angoli](http://twitter.com/search?q=Angoli) | N/A |
+| 50 | [Zielonej Górze](http://twitter.com/search?q=Zielonej+G%c3%b3rze) | N/A |
 
 
 

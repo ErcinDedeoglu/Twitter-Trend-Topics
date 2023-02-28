@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-02-28 10:16:58 UTC`
+📆 Last Updated: `2023-02-28 11:16:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,15 +23,15 @@ This is top 50 for Guatemala
 | 6 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
 | 7 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
 | 8 | [Mac Miller](http://twitter.com/search?q=Mac+Miller) | N/A |
-| 9 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 10 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
+| 9 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
+| 10 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
 | 11 | [Almería](http://twitter.com/search?q=Almer%c3%ada) | Almería is a city in the southeastern region of Spain. It is the capital of the province of Almería and is located on the Mediterranean Sea. In English, Almería means "The Watchtower". |
 | 12 | [Lana Del Rey](http://twitter.com/search?q=Lana+Del+Rey) | N/A |
 | 13 | [Kendrick Lamar](http://twitter.com/search?q=Kendrick+Lamar) | N/A |
 | 14 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
 | 15 | [Germán](http://twitter.com/search?q=Germ%c3%a1n) | Germán is a Spanish and Portuguese name derived from the Latin Germanus, meaning "brother". It is also a Germanic given name, derived from the Germanic element ger, meaning "spear". |
 | 16 | [#LaVelada3](http://twitter.com/search?q=%23LaVelada3) | N/A |
-| 17 | [taylor swift](http://twitter.com/search?q=taylor+swift) | N/A |
+| 17 | [Taylor Swift](http://twitter.com/search?q=Taylor+Swift) | N/A |
 | 18 | [Ariana Grande](http://twitter.com/search?q=Ariana+Grande) | N/A |
 | 19 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
 | 20 | [Fernan](http://twitter.com/search?q=Fernan) | N/A |
@@ -55,7 +55,7 @@ This is top 50 for Guatemala
 | 38 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
 | 39 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
 | 40 | [mazariegos](http://twitter.com/search?q=mazariegos) | N/A |
-| 41 | [Kanye West](http://twitter.com/search?q=Kanye+West) | N/A |
+| 41 | [kanye west](http://twitter.com/search?q=kanye+west) | N/A |
 | 42 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
 | 43 | [Justin Bieber](http://twitter.com/search?q=Justin+Bieber) | N/A |
 | 44 | [hailey](http://twitter.com/search?q=hailey) | N/A |
@@ -64,7 +64,7 @@ This is top 50 for Guatemala
 | 47 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
 | 48 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
 | 49 | [Mayichi](http://twitter.com/search?q=Mayichi) | N/A |
-| 50 | [usac](http://twitter.com/search?q=usac) | N/A |
+| 50 | [USAC](http://twitter.com/search?q=USAC) | N/A |
 
 
 

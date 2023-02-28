@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Utrecht
 
-📆 Last Updated: `2023-02-28 10:16:25 UTC`
+📆 Last Updated: `2023-02-28 11:15:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Netherlands](</Netherlands>)
 | ------- | ------------ | ------------ |
 | 1 | [#stapbudget](http://twitter.com/search?q=%23stapbudget) | N/A |
 | 2 | [#noorderlicht](http://twitter.com/search?q=%23noorderlicht) | N/A |
-| 3 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 4 | [#sneeuw](http://twitter.com/search?q=%23sneeuw) | N/A |
-| 5 | [#regenboog](http://twitter.com/search?q=%23regenboog) | N/A |
-| 6 | [Dinsdag](http://twitter.com/search?q=Dinsdag) | N/A |
-| 7 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 8 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
-| 9 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
-| 10 | [Floriade](http://twitter.com/search?q=Floriade) | N/A |
-| 11 | [Wachtgeldteller Amsterdam](http://twitter.com/search?q=Wachtgeldteller+Amsterdam) | N/A |
-| 12 | [Rosenmöller](http://twitter.com/search?q=Rosenm%c3%b6ller) | N/A |
-| 13 | [Israël](http://twitter.com/search?q=Isra%c3%abl) | N/A |
+| 3 | [#sneeuw](http://twitter.com/search?q=%23sneeuw) | N/A |
+| 4 | [#regenboog](http://twitter.com/search?q=%23regenboog) | N/A |
+| 5 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
+| 6 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
+| 7 | [DigiD](http://twitter.com/search?q=DigiD) | N/A |
+| 8 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 9 | [Reden](http://twitter.com/search?q=Reden) | N/A |
+| 10 | [Wachtgeldteller Amsterdam](http://twitter.com/search?q=Wachtgeldteller+Amsterdam) | N/A |
+| 11 | [Wouter Bos](http://twitter.com/search?q=Wouter+Bos) | N/A |
+| 12 | [Israël](http://twitter.com/search?q=Isra%c3%abl) | N/A |
+| 13 | [Rosenmöller](http://twitter.com/search?q=Rosenm%c3%b6ller) | N/A |
 | 14 | [Fury](http://twitter.com/search?q=Fury) | N/A |
-| 15 | [Huizen](http://twitter.com/search?q=Huizen) | N/A |
-| 16 | [Wouter Bos](http://twitter.com/search?q=Wouter+Bos) | N/A |
-| 17 | [Steven Seagal](http://twitter.com/search?q=Steven+Seagal) | N/A |
-| 18 | [DigiD](http://twitter.com/search?q=DigiD) | N/A |
-| 19 | [Ombudsman](http://twitter.com/search?q=Ombudsman) | N/A |
-| 20 | [Mike](http://twitter.com/search?q=Mike) | N/A |
-| 21 | [Natasja Gibbs](http://twitter.com/search?q=Natasja+Gibbs) | N/A |
-| 22 | [miljardenmeevaller](http://twitter.com/search?q=miljardenmeevaller) | N/A |
-| 23 | [Fortuna](http://twitter.com/search?q=Fortuna) | N/A |
-| 24 | [dag 27](http://twitter.com/search?q=dag+27) | N/A |
-| 25 | [Stelling](http://twitter.com/search?q=Stelling) | N/A |
-| 26 | [Jady](http://twitter.com/search?q=Jady) | N/A |
-| 27 | [Faber](http://twitter.com/search?q=Faber) | N/A |
-| 28 | [Egmond](http://twitter.com/search?q=Egmond) | N/A |
-| 29 | [Leon de Winter](http://twitter.com/search?q=Leon+de+Winter) | N/A |
-| 30 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
-| 31 | [Jeroen Pauw](http://twitter.com/search?q=Jeroen+Pauw) | N/A |
-| 32 | [Huub](http://twitter.com/search?q=Huub) | N/A |
-| 33 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
-| 34 | [RACE WEEK](http://twitter.com/search?q=RACE+WEEK) | N/A |
-| 35 | [Hoeksche Waard](http://twitter.com/search?q=Hoeksche+Waard) | N/A |
+| 15 | [Ombudsman](http://twitter.com/search?q=Ombudsman) | N/A |
+| 16 | [Huizen](http://twitter.com/search?q=Huizen) | N/A |
+| 17 | [Eddy](http://twitter.com/search?q=Eddy) | N/A |
+| 18 | [Mike](http://twitter.com/search?q=Mike) | N/A |
+| 19 | [Steven Seagal](http://twitter.com/search?q=Steven+Seagal) | N/A |
+| 20 | [miljardenmeevaller](http://twitter.com/search?q=miljardenmeevaller) | N/A |
+| 21 | [dag 27](http://twitter.com/search?q=dag+27) | N/A |
+| 22 | [Pokemon Sleep](http://twitter.com/search?q=Pokemon+Sleep) | N/A |
+| 23 | [Stelling](http://twitter.com/search?q=Stelling) | N/A |
+| 24 | [Jady](http://twitter.com/search?q=Jady) | N/A |
+| 25 | [Faber](http://twitter.com/search?q=Faber) | N/A |
+| 26 | [Natasja Gibbs](http://twitter.com/search?q=Natasja+Gibbs) | N/A |
+| 27 | [Huub](http://twitter.com/search?q=Huub) | N/A |
+| 28 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
+| 29 | [Dinsdag](http://twitter.com/search?q=Dinsdag) | N/A |
+| 30 | [Maart](http://twitter.com/search?q=Maart) | N/A |
+| 31 | [Leon de Winter](http://twitter.com/search?q=Leon+de+Winter) | N/A |
+| 32 | [RACE WEEK](http://twitter.com/search?q=RACE+WEEK) | N/A |
+| 33 | [Jeroen Pauw](http://twitter.com/search?q=Jeroen+Pauw) | N/A |
+| 34 | [hoeksche waard](http://twitter.com/search?q=hoeksche+waard) | N/A |
+| 35 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
 | 36 | [fatsoen](http://twitter.com/search?q=fatsoen) | N/A |
 | 37 | [Willeke](http://twitter.com/search?q=Willeke) | N/A |
 | 38 | [Perry](http://twitter.com/search?q=Perry) | N/A |
-| 39 | [Morguh](http://twitter.com/search?q=Morguh) | N/A |
-| 40 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
-| 41 | [Rijxman](http://twitter.com/search?q=Rijxman) | N/A |
-| 42 | [Schippers](http://twitter.com/search?q=Schippers) | N/A |
-| 43 | [Maart](http://twitter.com/search?q=Maart) | N/A |
-| 44 | [Palestijnen](http://twitter.com/search?q=Palestijnen) | N/A |
-| 45 | [Schendelaar](http://twitter.com/search?q=Schendelaar) | N/A |
-| 46 | [Eddy](http://twitter.com/search?q=Eddy) | N/A |
-| 47 | [Jeff](http://twitter.com/search?q=Jeff) | N/A |
-| 48 | [Wieffer](http://twitter.com/search?q=Wieffer) | N/A |
-| 49 | [Eerdmans](http://twitter.com/search?q=Eerdmans) | N/A |
+| 39 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
+| 40 | [Rijxman](http://twitter.com/search?q=Rijxman) | N/A |
+| 41 | [Vega](http://twitter.com/search?q=Vega) | N/A |
+| 42 | [Stemchecker](http://twitter.com/search?q=Stemchecker) | N/A |
+| 43 | [schendelaar](http://twitter.com/search?q=schendelaar) | N/A |
+| 44 | [Schippers](http://twitter.com/search?q=Schippers) | N/A |
+| 45 | [Marc](http://twitter.com/search?q=Marc) | N/A |
+| 46 | [Jeff](http://twitter.com/search?q=Jeff) | N/A |
+| 47 | [Wieffer](http://twitter.com/search?q=Wieffer) | N/A |
+| 48 | [Eerdmans](http://twitter.com/search?q=Eerdmans) | N/A |
+| 49 | [Stem D66](http://twitter.com/search?q=Stem+D66) | N/A |
 
 
 

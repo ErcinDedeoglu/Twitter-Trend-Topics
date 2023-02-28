@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cardiff
 
-📆 Last Updated: `2023-02-28 10:16:10 UTC`
+📆 Last Updated: `2023-02-28 11:15:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,51 +18,51 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | 1 | [#Swans](http://twitter.com/search?q=%23Swans) | N/A |
 | 2 | [#RareDiseaseDay](http://twitter.com/search?q=%23RareDiseaseDay) | N/A |
 | 3 | [#PayAttention](http://twitter.com/search?q=%23PayAttention) | N/A |
-| 4 | [Cleverly](http://twitter.com/search?q=Cleverly) | Cleverly is an adverb that means in a skillful or clever manner. It is used to describe someone who is able to think quickly and come up with creative solutions. |
-| 5 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 6 | [#thicktrunktuesday](http://twitter.com/search?q=%23thicktrunktuesday) | N/A |
-| 7 | [Elden Ring DLC](http://twitter.com/search?q=Elden+Ring+DLC) | N/A |
-| 8 | [Daily Quordle 400](http://twitter.com/search?q=Daily+Quordle+400) | N/A |
-| 9 | [George Weah](http://twitter.com/search?q=George+Weah) | N/A |
-| 10 | [Northern Ireland](http://twitter.com/search?q=Northern+Ireland) | N/A |
-| 11 | [Steve Baker](http://twitter.com/search?q=Steve+Baker) | N/A |
-| 12 | [Gas Panic](http://twitter.com/search?q=Gas+Panic) | N/A |
-| 13 | [Constance Marten](http://twitter.com/search?q=Constance+Marten) | N/A |
-| 14 | [Mark Gordon](http://twitter.com/search?q=Mark+Gordon) | N/A |
-| 15 | [Single Market](http://twitter.com/search?q=Single+Market) | N/A |
+| 4 | [#popmaster](http://twitter.com/search?q=%23popmaster) | N/A |
+| 5 | [Northern Ireland](http://twitter.com/search?q=Northern+Ireland) | N/A |
+| 6 | [Cleverly](http://twitter.com/search?q=Cleverly) | Cleverly is an adverb that means in a skillful or clever manner. It is used to describe someone who is able to think quickly and come up with creative solutions. |
+| 7 | [Isla Bryson](http://twitter.com/search?q=Isla+Bryson) | N/A |
+| 8 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 9 | [Single Market](http://twitter.com/search?q=Single+Market) | N/A |
+| 10 | [Elden Ring DLC](http://twitter.com/search?q=Elden+Ring+DLC) | N/A |
+| 11 | [Thiago Silva](http://twitter.com/search?q=Thiago+Silva) | Thiago Silva is a Brazilian professional footballer who plays as a central defender for Paris Saint-Germain and the Brazil national team. In English, Thiago Silva means "Saint Thomas". |
+| 12 | [George Weah](http://twitter.com/search?q=George+Weah) | N/A |
+| 13 | [Miquella](http://twitter.com/search?q=Miquella) | N/A |
+| 14 | [Adam Graham](http://twitter.com/search?q=Adam+Graham) | N/A |
+| 15 | [Steve Baker](http://twitter.com/search?q=Steve+Baker) | N/A |
 | 16 | [Sunak](http://twitter.com/search?q=Sunak) | N/A |
-| 17 | [Scotland and Wales](http://twitter.com/search?q=Scotland+and+Wales) | N/A |
-| 18 | [Rupert Murdoch](http://twitter.com/search?q=Rupert+Murdoch) | N/A |
-| 19 | [Bale](http://twitter.com/search?q=Bale) | Bale is a large bundle of goods, usually compressed and tied up with string or wire, for storage or transport. It is commonly used to refer to bundles of hay, straw, or cotton. |
-| 20 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
-| 21 | [The EU](http://twitter.com/search?q=The+EU) | N/A |
-| 22 | [Test Cricket](http://twitter.com/search?q=Test+Cricket) | N/A |
-| 23 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
-| 24 | [Noel](http://twitter.com/search?q=Noel) | Noel is a French word meaning "Christmas". It is often used as a greeting during the Christmas season. |
-| 25 | [Lita](http://twitter.com/search?q=Lita) | N/A |
-| 26 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
-| 27 | [UK and EU](http://twitter.com/search?q=UK+and+EU) | N/A |
-| 28 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 29 | [Mary Earps](http://twitter.com/search?q=Mary+Earps) | N/A |
-| 30 | [Thiago Silva](http://twitter.com/search?q=Thiago+Silva) | Thiago Silva is a Brazilian professional footballer who plays as a central defender for Paris Saint-Germain and the Brazil national team. In English, Thiago Silva means "Saint Thomas". |
-| 31 | [Stormont Brake](http://twitter.com/search?q=Stormont+Brake) | N/A |
-| 32 | [Lorna Slater](http://twitter.com/search?q=Lorna+Slater) | N/A |
-| 33 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
-| 34 | [Stokes](http://twitter.com/search?q=Stokes) | N/A |
-| 35 | [Frost](http://twitter.com/search?q=Frost) | N/A |
-| 36 | [Brexiteer](http://twitter.com/search?q=Brexiteer) | N/A |
-| 37 | [Irish Sea](http://twitter.com/search?q=Irish+Sea) | N/A |
-| 38 | [#ASongOrMovieForKeys](http://twitter.com/search?q=%23ASongOrMovieForKeys) | N/A |
-| 39 | [#r4today](http://twitter.com/search?q=%23r4today) | N/A |
-| 40 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 41 | [#SaveOurSchools](http://twitter.com/search?q=%23SaveOurSchools) | N/A |
-| 42 | [#TeacherStrike](http://twitter.com/search?q=%23TeacherStrike) | N/A |
-| 43 | [#TongueOutTuesday](http://twitter.com/search?q=%23TongueOutTuesday) | N/A |
-| 44 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
-| 45 | [#BOIL](http://twitter.com/search?q=%23BOIL) | N/A |
-| 46 | [#cherish](http://twitter.com/search?q=%23cherish) | N/A |
-| 47 | [#gmsf](http://twitter.com/search?q=%23gmsf) | N/A |
-| 48 | [#SchoolGovDay](http://twitter.com/search?q=%23SchoolGovDay) | N/A |
+| 17 | [Daily Quordle 400](http://twitter.com/search?q=Daily+Quordle+400) | N/A |
+| 18 | [Gas Panic](http://twitter.com/search?q=Gas+Panic) | N/A |
+| 19 | [Constance Marten](http://twitter.com/search?q=Constance+Marten) | N/A |
+| 20 | [Scotland and Wales](http://twitter.com/search?q=Scotland+and+Wales) | N/A |
+| 21 | [UK and EU](http://twitter.com/search?q=UK+and+EU) | N/A |
+| 22 | [Mark Gordon](http://twitter.com/search?q=Mark+Gordon) | N/A |
+| 23 | [Rupert Murdoch](http://twitter.com/search?q=Rupert+Murdoch) | N/A |
+| 24 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
+| 25 | [The EU](http://twitter.com/search?q=The+EU) | N/A |
+| 26 | [EU and UK](http://twitter.com/search?q=EU+and+UK) | N/A |
+| 27 | [Test Cricket](http://twitter.com/search?q=Test+Cricket) | N/A |
+| 28 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
+| 29 | [Noel](http://twitter.com/search?q=Noel) | Noel is a French word meaning "Christmas". It is often used as a greeting during the Christmas season. |
+| 30 | [Stormont Brake](http://twitter.com/search?q=Stormont+Brake) | N/A |
+| 31 | [Lorna Slater](http://twitter.com/search?q=Lorna+Slater) | N/A |
+| 32 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 33 | [Mary Earps](http://twitter.com/search?q=Mary+Earps) | N/A |
+| 34 | [Brexiteer](http://twitter.com/search?q=Brexiteer) | N/A |
+| 35 | [Lita](http://twitter.com/search?q=Lita) | N/A |
+| 36 | [Frost](http://twitter.com/search?q=Frost) | N/A |
+| 37 | [Isle of Man](http://twitter.com/search?q=Isle+of+Man) | N/A |
+| 38 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
+| 39 | [Koran](http://twitter.com/search?q=Koran) | N/A |
+| 40 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
+| 41 | [Bale](http://twitter.com/search?q=Bale) | Bale is a large bundle of goods, usually compressed and tied up with string or wire, for storage or transport. It is commonly used to refer to bundles of hay, straw, or cotton. |
+| 42 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
+| 43 | [Stokes](http://twitter.com/search?q=Stokes) | N/A |
+| 44 | [#ASongOrMovieForKeys](http://twitter.com/search?q=%23ASongOrMovieForKeys) | N/A |
+| 45 | [#thicktrunktuesday](http://twitter.com/search?q=%23thicktrunktuesday) | N/A |
+| 46 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 47 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
+| 48 | [#SaveOurSchools](http://twitter.com/search?q=%23SaveOurSchools) | N/A |
 
 
 

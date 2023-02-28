@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tokyo
 
-📆 Last Updated: `2023-02-28 10:16:32 UTC`
+📆 Last Updated: `2023-02-28 11:16:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#武藤十夢卒業コンサート](http://twitter.com/search?q=%23%e6%ad%a6%e8%97%a4%e5%8d%81%e5%a4%a2%e5%8d%92%e6%a5%ad%e3%82%b3%e3%83%b3%e3%82%b5%e3%83%bc%e3%83%88) | N/A |
-| 2 | [ナマケロ](http://twitter.com/search?q=%e3%83%8a%e3%83%9e%e3%82%b1%e3%83%ad) | N/A |
-| 3 | [キャラアニ](http://twitter.com/search?q=%e3%82%ad%e3%83%a3%e3%83%a9%e3%82%a2%e3%83%8b) | N/A |
-| 4 | [薬売りの声](http://twitter.com/search?q=%e8%96%ac%e5%a3%b2%e3%82%8a%e3%81%ae%e5%a3%b0) | N/A |
-| 5 | [インスタ削除](http://twitter.com/search?q=%e3%82%a4%e3%83%b3%e3%82%b9%e3%82%bf%e5%89%8a%e9%99%a4) | N/A |
-| 6 | [急性胃腸炎](http://twitter.com/search?q=%e6%80%a5%e6%80%a7%e8%83%83%e8%85%b8%e7%82%8e) | N/A |
-| 7 | [スタァライト](http://twitter.com/search?q=%e3%82%b9%e3%82%bf%e3%82%a1%e3%83%a9%e3%82%a4%e3%83%88) | N/A |
-| 8 | [#なおもちトーク](http://twitter.com/search?q=%23%e3%81%aa%e3%81%8a%e3%82%82%e3%81%a1%e3%83%88%e3%83%bc%e3%82%af) | N/A |
-| 9 | [危機的状況](http://twitter.com/search?q=%e5%8d%b1%e6%a9%9f%e7%9a%84%e7%8a%b6%e6%b3%81) | N/A |
-| 10 | [#njcmll](http://twitter.com/search?q=%23njcmll) | N/A |
-| 11 | [飯塚昭三さん](http://twitter.com/search?q=%e9%a3%af%e5%a1%9a%e6%98%ad%e4%b8%89%e3%81%95%e3%82%93) | N/A |
-| 12 | [エルデンリングDLC](http://twitter.com/search?q=%e3%82%a8%e3%83%ab%e3%83%87%e3%83%b3%e3%83%aa%e3%83%b3%e3%82%b0DLC) | N/A |
-| 13 | [飯塚さん](http://twitter.com/search?q=%e9%a3%af%e5%a1%9a%e3%81%95%e3%82%93) | 飯塚さん is a Japanese nickname for the character Iizuka-san from the manga series Gintama. It is a combination of the words "rice" and "mound," which refer to his large, round head. In English, it can be translated as "Mr. Rice Mound." |
-| 14 | [モノノ怪](http://twitter.com/search?q=%e3%83%a2%e3%83%8e%e3%83%8e%e6%80%aa) | N/A |
-| 15 | [薬売りさん](http://twitter.com/search?q=%e8%96%ac%e5%a3%b2%e3%82%8a%e3%81%95%e3%82%93) | N/A |
-| 16 | [#今月描いた絵を晒そう](http://twitter.com/search?q=%23%e4%bb%8a%e6%9c%88%e6%8f%8f%e3%81%84%e3%81%9f%e7%b5%b5%e3%82%92%e6%99%92%e3%81%9d%e3%81%86) | "#今月描いた絵を晒そう" is a hashtag in Japanese which translates to "Let's show off the pictures we drew this month". It is used to encourage people to share their artwork from the current month. |
-| 17 | [ハカイダー](http://twitter.com/search?q=%e3%83%8f%e3%82%ab%e3%82%a4%e3%83%80%e3%83%bc) | N/A |
-| 18 | [キャスト変更](http://twitter.com/search?q=%e3%82%ad%e3%83%a3%e3%82%b9%e3%83%88%e5%a4%89%e6%9b%b4) | N/A |
-| 19 | [#ファミマでスキズ](http://twitter.com/search?q=%23%e3%83%95%e3%82%a1%e3%83%9f%e3%83%9e%e3%81%a7%e3%82%b9%e3%82%ad%e3%82%ba) | N/A |
-| 20 | [トレント](http://twitter.com/search?q=%e3%83%88%e3%83%ac%e3%83%b3%e3%83%88) | N/A |
-| 21 | [櫻井さん](http://twitter.com/search?q=%e6%ab%bb%e4%ba%95%e3%81%95%e3%82%93) | 櫻井さん is a Japanese honorific used to refer to someone with the surname Sakurai. It is similar to the English honorific "Mr. Sakurai". |
-| 22 | [初の80万人割れ](http://twitter.com/search?q=%e5%88%9d%e3%81%ae80%e4%b8%87%e4%ba%ba%e5%89%b2%e3%82%8c) | N/A |
-| 23 | [地球征服](http://twitter.com/search?q=%e5%9c%b0%e7%90%83%e5%be%81%e6%9c%8d) | N/A |
-| 24 | [櫻井孝宏](http://twitter.com/search?q=%e6%ab%bb%e4%ba%95%e5%ad%9d%e5%ae%8f) | 櫻井孝宏 is the name of a Japanese singer, actor, and television personality. In English, his name translates to Takahiro Sakurai. |
-| 25 | [声優変更](http://twitter.com/search?q=%e5%a3%b0%e5%84%aa%e5%a4%89%e6%9b%b4) | N/A |
-| 26 | [ジョングク](http://twitter.com/search?q=%e3%82%b8%e3%83%a7%e3%83%b3%e3%82%b0%e3%82%af) | ジョングク is a type of Korean traditional clothing. It is a long, loose-fitting robe with wide sleeves and a belt at the waist. In English, it is sometimes referred to as a "hanbok". |
-| 27 | [バンドライブ](http://twitter.com/search?q=%e3%83%90%e3%83%b3%e3%83%89%e3%83%a9%e3%82%a4%e3%83%96) | N/A |
-| 28 | [サマソニ](http://twitter.com/search?q=%e3%82%b5%e3%83%9e%e3%82%bd%e3%83%8b) | サマソニ is short for "Summer Sonic", which is an annual music festival held in Japan. It features a variety of popular Japanese and international artists, and has been held since 2000. |
-| 29 | [金星と木星](http://twitter.com/search?q=%e9%87%91%e6%98%9f%e3%81%a8%e6%9c%a8%e6%98%9f) | N/A |
-| 30 | [リゼロス](http://twitter.com/search?q=%e3%83%aa%e3%82%bc%e3%83%ad%e3%82%b9) | N/A |
-| 31 | [ボンボンイ](http://twitter.com/search?q=%e3%83%9c%e3%83%b3%e3%83%9c%e3%83%b3%e3%82%a4) | N/A |
-| 32 | [キャス変](http://twitter.com/search?q=%e3%82%ad%e3%83%a3%e3%82%b9%e5%a4%89) | N/A |
-| 33 | [ジェシー](http://twitter.com/search?q=%e3%82%b8%e3%82%a7%e3%82%b7%e3%83%bc) | ジェシー is a Japanese name, and it is usually written in katakana. It is the same as the English name Jessie, and it means "God's gracious gift". |
-| 34 | [リュウさん](http://twitter.com/search?q=%e3%83%aa%e3%83%a5%e3%82%a6%e3%81%95%e3%82%93) | N/A |
-| 35 | [ゼクツヴァイ](http://twitter.com/search?q=%e3%82%bc%e3%82%af%e3%83%84%e3%83%b4%e3%82%a1%e3%82%a4) | N/A |
-| 36 | [稗田八方斎](http://twitter.com/search?q=%e7%a8%97%e7%94%b0%e5%85%ab%e6%96%b9%e6%96%8e) | N/A |
-| 37 | [木星と金星](http://twitter.com/search?q=%e6%9c%a8%e6%98%9f%e3%81%a8%e9%87%91%e6%98%9f) | N/A |
-| 38 | [ハイカラシティ](http://twitter.com/search?q=%e3%83%8f%e3%82%a4%e3%82%ab%e3%83%a9%e3%82%b7%e3%83%86%e3%82%a3) | N/A |
-| 39 | [きらファン](http://twitter.com/search?q=%e3%81%8d%e3%82%89%e3%83%95%e3%82%a1%e3%83%b3) | N/A |
-| 40 | [クランチ](http://twitter.com/search?q=%e3%82%af%e3%83%a9%e3%83%b3%e3%83%81) | N/A |
-| 41 | [グクインスタ](http://twitter.com/search?q=%e3%82%b0%e3%82%af%e3%82%a4%e3%83%b3%e3%82%b9%e3%82%bf) | N/A |
-| 42 | [リュウ・ホセイ](http://twitter.com/search?q=%e3%83%aa%e3%83%a5%e3%82%a6%e3%83%bb%e3%83%9b%e3%82%bb%e3%82%a4) | N/A |
-| 43 | [ダイノガイスト様](http://twitter.com/search?q=%e3%83%80%e3%82%a4%e3%83%8e%e3%82%ac%e3%82%a4%e3%82%b9%e3%83%88%e6%a7%98) | N/A |
-| 44 | [トイストーリー名言bot](http://twitter.com/search?q=%e3%83%88%e3%82%a4%e3%82%b9%e3%83%88%e3%83%bc%e3%83%aa%e3%83%bc%e5%90%8d%e8%a8%80bot) | N/A |
-| 45 | [毛穴レスセット](http://twitter.com/search?q=%e6%af%9b%e7%a9%b4%e3%83%ac%e3%82%b9%e3%82%bb%e3%83%83%e3%83%88) | N/A |
-| 46 | [津田沼パルコ](http://twitter.com/search?q=%e6%b4%a5%e7%94%b0%e6%b2%bc%e3%83%91%e3%83%ab%e3%82%b3) | N/A |
-| 47 | [マレニア](http://twitter.com/search?q=%e3%83%9e%e3%83%ac%e3%83%8b%e3%82%a2) | N/A |
-| 48 | [電通社長](http://twitter.com/search?q=%e9%9b%bb%e9%80%9a%e7%a4%be%e9%95%b7) | N/A |
-| 49 | [北陸本線](http://twitter.com/search?q=%e5%8c%97%e9%99%b8%e6%9c%ac%e7%b7%9a) | N/A |
-| 50 | [公開延期](http://twitter.com/search?q=%e5%85%ac%e9%96%8b%e5%bb%b6%e6%9c%9f) | N/A |
+| 1 | [新プロジェクト](http://twitter.com/search?q=%e6%96%b0%e3%83%97%e3%83%ad%e3%82%b8%e3%82%a7%e3%82%af%e3%83%88) | 新プロジェクト is a Japanese phrase that translates to "new project" in English. It is used to refer to a new project or initiative that is being undertaken. |
+| 2 | [アベノマスク](http://twitter.com/search?q=%e3%82%a2%e3%83%99%e3%83%8e%e3%83%9e%e3%82%b9%e3%82%af) | N/A |
+| 3 | [ナマケロ](http://twitter.com/search?q=%e3%83%8a%e3%83%9e%e3%82%b1%e3%83%ad) | N/A |
+| 4 | [#クローズアップ現代](http://twitter.com/search?q=%23%e3%82%af%e3%83%ad%e3%83%bc%e3%82%ba%e3%82%a2%e3%83%83%e3%83%97%e7%8f%be%e4%bb%a3) | N/A |
+| 5 | [ルビィの謎解き成功](http://twitter.com/search?q=%e3%83%ab%e3%83%93%e3%82%a3%e3%81%ae%e8%ac%8e%e8%a7%a3%e3%81%8d%e6%88%90%e5%8a%9f) | N/A |
+| 6 | [#マジンガーZ](http://twitter.com/search?q=%23%e3%83%9e%e3%82%b8%e3%83%b3%e3%82%ac%e3%83%bcZ) | N/A |
+| 7 | [#正直不動産スペシャル](http://twitter.com/search?q=%23%e6%ad%a3%e7%9b%b4%e4%b8%8d%e5%8b%95%e7%94%a3%e3%82%b9%e3%83%9a%e3%82%b7%e3%83%a3%e3%83%ab) | N/A |
+| 8 | [ケンタッキー](http://twitter.com/search?q=%e3%82%b1%e3%83%b3%e3%82%bf%e3%83%83%e3%82%ad%e3%83%bc) | ケンタッキー (Kentucky) is a fast food chain in Japan that specializes in fried chicken. The name is derived from the American state of Kentucky, which is known for its fried chicken. In English, the name translates to "Kentucky Fried Chicken". |
+| 9 | [丸井のおっちゃん](http://twitter.com/search?q=%e4%b8%b8%e4%ba%95%e3%81%ae%e3%81%8a%e3%81%a3%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 10 | [千田さん](http://twitter.com/search?q=%e5%8d%83%e7%94%b0%e3%81%95%e3%82%93) | N/A |
+| 11 | [Cream](http://twitter.com/search?q=Cream) | N/A |
+| 12 | [八方斎役](http://twitter.com/search?q=%e5%85%ab%e6%96%b9%e6%96%8e%e5%bd%b9) | N/A |
+| 13 | [コルテックス](http://twitter.com/search?q=%e3%82%b3%e3%83%ab%e3%83%86%e3%83%83%e3%82%af%e3%82%b9) | N/A |
+| 14 | [山のフドウ](http://twitter.com/search?q=%e5%b1%b1%e3%81%ae%e3%83%95%e3%83%89%e3%82%a6) | N/A |
+| 15 | [飯塚昭三さん](http://twitter.com/search?q=%e9%a3%af%e5%a1%9a%e6%98%ad%e4%b8%89%e3%81%95%e3%82%93) | N/A |
+| 16 | [飯塚さん](http://twitter.com/search?q=%e9%a3%af%e5%a1%9a%e3%81%95%e3%82%93) | 飯塚さん is a Japanese nickname for the character Iizuka-san from the manga series Gintama. It is a combination of the words "rice" and "mound," which refer to his large, round head. In English, it can be translated as "Mr. Rice Mound." |
+| 17 | [#今月描いた絵を晒そう](http://twitter.com/search?q=%23%e4%bb%8a%e6%9c%88%e6%8f%8f%e3%81%84%e3%81%9f%e7%b5%b5%e3%82%92%e6%99%92%e3%81%9d%e3%81%86) | "#今月描いた絵を晒そう" is a hashtag in Japanese which translates to "Let's show off the pictures we drew this month". It is used to encourage people to share their artwork from the current month. |
+| 18 | [エルデンリングDLC](http://twitter.com/search?q=%e3%82%a8%e3%83%ab%e3%83%87%e3%83%b3%e3%83%aa%e3%83%b3%e3%82%b0DLC) | N/A |
+| 19 | [#アメトーーク](http://twitter.com/search?q=%23%e3%82%a2%e3%83%a1%e3%83%88%e3%83%bc%e3%83%bc%e3%82%af) | #アメトーーク is a hashtag used on Twitter in Japan to discuss the popular Japanese variety show, AmeTalk. The English translation of the hashtag is "#AmeTalk". |
+| 20 | [モノノ怪](http://twitter.com/search?q=%e3%83%a2%e3%83%8e%e3%83%8e%e6%80%aa) | N/A |
+| 21 | [薬売りさん](http://twitter.com/search?q=%e8%96%ac%e5%a3%b2%e3%82%8a%e3%81%95%e3%82%93) | N/A |
+| 22 | [ハカイダー](http://twitter.com/search?q=%e3%83%8f%e3%82%ab%e3%82%a4%e3%83%80%e3%83%bc) | N/A |
+| 23 | [キャスト変更](http://twitter.com/search?q=%e3%82%ad%e3%83%a3%e3%82%b9%e3%83%88%e5%a4%89%e6%9b%b4) | N/A |
+| 24 | [初の80万人割れ](http://twitter.com/search?q=%e5%88%9d%e3%81%ae80%e4%b8%87%e4%ba%ba%e5%89%b2%e3%82%8c) | N/A |
+| 25 | [櫻井さん](http://twitter.com/search?q=%e6%ab%bb%e4%ba%95%e3%81%95%e3%82%93) | 櫻井さん is a Japanese honorific used to refer to someone with the surname Sakurai. It is similar to the English honorific "Mr. Sakurai". |
+| 26 | [金星と木星](http://twitter.com/search?q=%e9%87%91%e6%98%9f%e3%81%a8%e6%9c%a8%e6%98%9f) | N/A |
+| 27 | [トレント](http://twitter.com/search?q=%e3%83%88%e3%83%ac%e3%83%b3%e3%83%88) | N/A |
+| 28 | [トイストーリー名言bot](http://twitter.com/search?q=%e3%83%88%e3%82%a4%e3%82%b9%e3%83%88%e3%83%bc%e3%83%aa%e3%83%bc%e5%90%8d%e8%a8%80bot) | N/A |
+| 29 | [地球征服](http://twitter.com/search?q=%e5%9c%b0%e7%90%83%e5%be%81%e6%9c%8d) | N/A |
+| 30 | [木星と金星](http://twitter.com/search?q=%e6%9c%a8%e6%98%9f%e3%81%a8%e9%87%91%e6%98%9f) | N/A |
+| 31 | [磯崎副長官](http://twitter.com/search?q=%e7%a3%af%e5%b4%8e%e5%89%af%e9%95%b7%e5%ae%98) | N/A |
+| 32 | [過去最少](http://twitter.com/search?q=%e9%81%8e%e5%8e%bb%e6%9c%80%e5%b0%91) | N/A |
+| 33 | [櫻井孝宏](http://twitter.com/search?q=%e6%ab%bb%e4%ba%95%e5%ad%9d%e5%ae%8f) | 櫻井孝宏 is the name of a Japanese singer, actor, and television personality. In English, his name translates to Takahiro Sakurai. |
+| 34 | [声優変更](http://twitter.com/search?q=%e5%a3%b0%e5%84%aa%e5%a4%89%e6%9b%b4) | N/A |
+| 35 | [危機的状況](http://twitter.com/search?q=%e5%8d%b1%e6%a9%9f%e7%9a%84%e7%8a%b6%e6%b3%81) | N/A |
+| 36 | [バンドライブ](http://twitter.com/search?q=%e3%83%90%e3%83%b3%e3%83%89%e3%83%a9%e3%82%a4%e3%83%96) | N/A |
+| 37 | [リュウさん](http://twitter.com/search?q=%e3%83%aa%e3%83%a5%e3%82%a6%e3%81%95%e3%82%93) | N/A |
+| 38 | [稗田八方斎](http://twitter.com/search?q=%e7%a8%97%e7%94%b0%e5%85%ab%e6%96%b9%e6%96%8e) | N/A |
+| 39 | [あかりちゃん](http://twitter.com/search?q=%e3%81%82%e3%81%8b%e3%82%8a%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 40 | [リゼロス](http://twitter.com/search?q=%e3%83%aa%e3%82%bc%e3%83%ad%e3%82%b9) | N/A |
+| 41 | [ジェシー](http://twitter.com/search?q=%e3%82%b8%e3%82%a7%e3%82%b7%e3%83%bc) | ジェシー is a Japanese name, and it is usually written in katakana. It is the same as the English name Jessie, and it means "God's gracious gift". |
+| 42 | [ジョングク](http://twitter.com/search?q=%e3%82%b8%e3%83%a7%e3%83%b3%e3%82%b0%e3%82%af) | ジョングク is a type of Korean traditional clothing. It is a long, loose-fitting robe with wide sleeves and a belt at the waist. In English, it is sometimes referred to as a "hanbok". |
+| 43 | [PUFFY](http://twitter.com/search?q=PUFFY) | PUFFY is an adjective used to describe something that is swollen or inflated, usually with air or gas. It can also be used to describe something that is soft and fluffy. |
+| 44 | [マキマさんのケツ](http://twitter.com/search?q=%e3%83%9e%e3%82%ad%e3%83%9e%e3%81%95%e3%82%93%e3%81%ae%e3%82%b1%e3%83%84) | N/A |
+| 45 | [サマソニ](http://twitter.com/search?q=%e3%82%b5%e3%83%9e%e3%82%bd%e3%83%8b) | サマソニ is short for "Summer Sonic", which is an annual music festival held in Japan. It features a variety of popular Japanese and international artists, and has been held since 2000. |
+| 46 | [ハイカラシティ](http://twitter.com/search?q=%e3%83%8f%e3%82%a4%e3%82%ab%e3%83%a9%e3%82%b7%e3%83%86%e3%82%a3) | N/A |
+| 47 | [ゼクツヴァイ](http://twitter.com/search?q=%e3%82%bc%e3%82%af%e3%83%84%e3%83%b4%e3%82%a1%e3%82%a4) | N/A |
+| 48 | [リュウ・ホセイ](http://twitter.com/search?q=%e3%83%aa%e3%83%a5%e3%82%a6%e3%83%bb%e3%83%9b%e3%82%bb%e3%82%a4) | N/A |
+| 49 | [毛穴レスセット](http://twitter.com/search?q=%e6%af%9b%e7%a9%b4%e3%83%ac%e3%82%b9%e3%82%bb%e3%83%83%e3%83%88) | N/A |
+| 50 | [ジャルジメルト](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%83%ab%e3%82%b8%e3%83%a1%e3%83%ab%e3%83%88) | N/A |
 
 
 
