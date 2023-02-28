@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Querétaro
 
-📆 Last Updated: `2023-02-28 01:44:40 UTC`
+📆 Last Updated: `2023-02-28 02:41:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,47 +16,47 @@ This is top 50 for [Mexico](</Mexico>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
-| 2 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 3 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
+| 2 | [MATI ERES FORTALEZA](http://twitter.com/search?q=MATI+ERES+FORTALEZA) | N/A |
+| 3 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 4 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 5 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 6 | [Germán](http://twitter.com/search?q=Germ%c3%a1n) | Germán is a Spanish and Portuguese name derived from the Latin Germanus, meaning "brother". It is also a Germanic given name, derived from the Germanic element ger, meaning "spear". |
-| 7 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
-| 8 | [Ana Gabriel](http://twitter.com/search?q=Ana+Gabriel) | N/A |
-| 9 | [#ControlDeDañosEnConvoy](http://twitter.com/search?q=%23ControlDeDa%c3%b1osEnConvoy) | N/A |
-| 10 | [#LaVelada3](http://twitter.com/search?q=%23LaVelada3) | N/A |
-| 11 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
-| 12 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
-| 13 | [Ovidio Guzmán](http://twitter.com/search?q=Ovidio+Guzm%c3%a1n) | N/A |
-| 14 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
-| 15 | [Coscu](http://twitter.com/search?q=Coscu) | N/A |
-| 16 | [shawn](http://twitter.com/search?q=shawn) | Shawn is a given name, typically a masculine name. It is an Anglicized form of the Irish name Seán, which is derived from the Hebrew name Yehohanan, meaning "God is gracious". |
-| 17 | [Luzu](http://twitter.com/search?q=Luzu) | Luzu is a Spanish word that means light. It is often used to refer to a bright, cheerful, and optimistic attitude. |
-| 18 | [Amouranth](http://twitter.com/search?q=Amouranth) | N/A |
-| 19 | [Mayichi](http://twitter.com/search?q=Mayichi) | N/A |
-| 20 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
+| 5 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 6 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
+| 7 | [Ana Gabriel](http://twitter.com/search?q=Ana+Gabriel) | N/A |
+| 8 | [Chacho](http://twitter.com/search?q=Chacho) | N/A |
+| 9 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
+| 10 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 11 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
+| 12 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 13 | [#ControlDeDañosEnConvoy](http://twitter.com/search?q=%23ControlDeDa%c3%b1osEnConvoy) | N/A |
+| 14 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
+| 15 | [Ovidio Guzmán](http://twitter.com/search?q=Ovidio+Guzm%c3%a1n) | N/A |
+| 16 | [Germán](http://twitter.com/search?q=Germ%c3%a1n) | Germán is a Spanish and Portuguese name derived from the Latin Germanus, meaning "brother". It is also a Germanic given name, derived from the Germanic element ger, meaning "spear". |
+| 17 | [Alejandro Moreno](http://twitter.com/search?q=Alejandro+Moreno) | N/A |
+| 18 | [shawn](http://twitter.com/search?q=shawn) | Shawn is a given name, typically a masculine name. It is an Anglicized form of the Irish name Seán, which is derived from the Hebrew name Yehohanan, meaning "God is gracious". |
+| 19 | [Nicki Nicole](http://twitter.com/search?q=Nicki+Nicole) | N/A |
+| 20 | [Amazonas](http://twitter.com/search?q=Amazonas) | N/A |
 | 21 | [Rayadas](http://twitter.com/search?q=Rayadas) | N/A |
-| 22 | [Darío Celis](http://twitter.com/search?q=Dar%c3%ado+Celis) | N/A |
-| 23 | [Rubius](http://twitter.com/search?q=Rubius) | Rubius is a Latin word meaning "red". It is often used to describe the color of hair, eyes, or skin. |
-| 24 | [Shelao](http://twitter.com/search?q=Shelao) | N/A |
-| 25 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 26 | [Alexia](http://twitter.com/search?q=Alexia) | Alexia is a neurological disorder that affects a person's ability to read. It is also known as word blindness or dyslexia. People with Alexia have difficulty understanding written words, even though they may be able to speak and write normally. |
-| 27 | [Texas](http://twitter.com/search?q=Texas) | N/A |
-| 28 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
-| 29 | [Papi Gavi](http://twitter.com/search?q=Papi+Gavi) | N/A |
-| 30 | [Nicki Nicole](http://twitter.com/search?q=Nicki+Nicole) | N/A |
-| 31 | [Viruzz](http://twitter.com/search?q=Viruzz) | N/A |
-| 32 | [Nuevo Laredo](http://twitter.com/search?q=Nuevo+Laredo) | N/A |
-| 33 | [Quedaste](http://twitter.com/search?q=Quedaste) | N/A |
-| 34 | [Scaloni](http://twitter.com/search?q=Scaloni) | N/A |
-| 35 | [Martínez](http://twitter.com/search?q=Mart%c3%adnez) | N/A |
-| 36 | [Cristiano](http://twitter.com/search?q=Cristiano) | Cristiano is a Portuguese and Spanish given name derived from the Latin name Christianus, meaning "follower of Christ". It is also a surname. The name is popularly associated with Portuguese footballer Cristiano Ronaldo. |
-| 37 | [Copa del Mundo](http://twitter.com/search?q=Copa+del+Mundo) | N/A |
-| 38 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 39 | [Día Mundial](http://twitter.com/search?q=D%c3%ada+Mundial) | N/A |
-| 40 | [José Vasconcelos](http://twitter.com/search?q=Jos%c3%a9+Vasconcelos) | N/A |
-| 41 | [#LeaguePartner](http://twitter.com/search?q=%23LeaguePartner) | N/A |
-| 42 | [#PerdonaNuestrosPecados](http://twitter.com/search?q=%23PerdonaNuestrosPecados) | N/A |
+| 22 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
+| 23 | [Mayichi](http://twitter.com/search?q=Mayichi) | N/A |
+| 24 | [Darío](http://twitter.com/search?q=Dar%c3%ado) | N/A |
+| 25 | [Amouranth](http://twitter.com/search?q=Amouranth) | N/A |
+| 26 | [Texas](http://twitter.com/search?q=Texas) | N/A |
+| 27 | [Coscu](http://twitter.com/search?q=Coscu) | N/A |
+| 28 | [Quedaste](http://twitter.com/search?q=Quedaste) | N/A |
+| 29 | [Shelao](http://twitter.com/search?q=Shelao) | N/A |
+| 30 | [Fernan](http://twitter.com/search?q=Fernan) | N/A |
+| 31 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 32 | [Papi Gavi](http://twitter.com/search?q=Papi+Gavi) | N/A |
+| 33 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
+| 34 | [Luzu](http://twitter.com/search?q=Luzu) | Luzu is a Spanish word that means light. It is often used to refer to a bright, cheerful, and optimistic attitude. |
+| 35 | [Nuevo Laredo](http://twitter.com/search?q=Nuevo+Laredo) | N/A |
+| 36 | [Alexia](http://twitter.com/search?q=Alexia) | Alexia is a neurological disorder that affects a person's ability to read. It is also known as word blindness or dyslexia. People with Alexia have difficulty understanding written words, even though they may be able to speak and write normally. |
+| 37 | [Cristiano](http://twitter.com/search?q=Cristiano) | Cristiano is a Portuguese and Spanish given name derived from the Latin name Christianus, meaning "follower of Christ". It is also a surname. The name is popularly associated with Portuguese footballer Cristiano Ronaldo. |
+| 38 | [Rubius](http://twitter.com/search?q=Rubius) | Rubius is a Latin word meaning "red". It is often used to describe the color of hair, eyes, or skin. |
+| 39 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 40 | [#PerdonaNuestrosPecados](http://twitter.com/search?q=%23PerdonaNuestrosPecados) | N/A |
+| 41 | [#LaVelada3](http://twitter.com/search?q=%23LaVelada3) | N/A |
+| 42 | [#LeaguePartner](http://twitter.com/search?q=%23LeaguePartner) | N/A |
 | 43 | [#EnHoraBuenaBailado](http://twitter.com/search?q=%23EnHoraBuenaBailado) | N/A |
 | 44 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
 

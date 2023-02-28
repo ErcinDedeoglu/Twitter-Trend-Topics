@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belarus
 
-📆 Last Updated: `2023-02-28 01:45:26 UTC`
+📆 Last Updated: `2023-02-28 02:41:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,9 +16,9 @@ This is top 50 for Belarus
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Твиттер](http://twitter.com/search?q=%d0%a2%d0%b2%d0%b8%d1%82%d1%82%d0%b5%d1%80) | N/A |
-| 2 | [масленицу](http://twitter.com/search?q=%d0%bc%d0%b0%d1%81%d0%bb%d0%b5%d0%bd%d0%b8%d1%86%d1%83) | N/A |
+| 2 | [Масленицу](http://twitter.com/search?q=%d0%9c%d0%b0%d1%81%d0%bb%d0%b5%d0%bd%d0%b8%d1%86%d1%83) | N/A |
 | 3 | [Реально](http://twitter.com/search?q=%d0%a0%d0%b5%d0%b0%d0%bb%d1%8c%d0%bd%d0%be) | N/A |
-| 4 | [Минхо](http://twitter.com/search?q=%d0%9c%d0%b8%d0%bd%d1%85%d0%be) | N/A |
+| 4 | [минхо](http://twitter.com/search?q=%d0%bc%d0%b8%d0%bd%d1%85%d0%be) | N/A |
 | 5 | [Понимаю](http://twitter.com/search?q=%d0%9f%d0%be%d0%bd%d0%b8%d0%bc%d0%b0%d1%8e) | N/A |
 | 6 | [Дааа](http://twitter.com/search?q=%d0%94%d0%b0%d0%b0%d0%b0) | N/A |
 | 7 | [#клубромантики](http://twitter.com/search?q=%23%d0%ba%d0%bb%d1%83%d0%b1%d1%80%d0%be%d0%bc%d0%b0%d0%bd%d1%82%d0%b8%d0%ba%d0%b8) | N/A |

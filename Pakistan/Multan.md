@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Multan
 
-📆 Last Updated: `2023-02-28 01:45:11 UTC`
+📆 Last Updated: `2023-02-28 02:41:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,49 +19,51 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 2 | [#ظالموں_پرپہلاوارشٹرڈاؤن_ہڑتال](http://twitter.com/search?q=%23%d8%b8%d8%a7%d9%84%d9%85%d9%88%da%ba_%d9%be%d8%b1%d9%be%db%81%d9%84%d8%a7%d9%88%d8%a7%d8%b1%d8%b4%d9%b9%d8%b1%da%88%d8%a7%d8%a4%d9%86_%db%81%da%91%d8%aa%d8%a7%d9%84) | N/A |
 | 3 | [#LQvIU](http://twitter.com/search?q=%23LQvIU) | N/A |
 | 4 | [#شٹرڈاون_ہڑتال_27_فروری](http://twitter.com/search?q=%23%d8%b4%d9%b9%d8%b1%da%88%d8%a7%d9%88%d9%86_%db%81%da%91%d8%aa%d8%a7%d9%84_27_%d9%81%d8%b1%d9%88%d8%b1%db%8c) | N/A |
-| 5 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 6 | [Lahore Qalandars](http://twitter.com/search?q=Lahore+Qalandars) | N/A |
-| 7 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
-| 8 | [Lionel Messi](http://twitter.com/search?q=Lionel+Messi) | N/A |
-| 9 | [Lt Gen](http://twitter.com/search?q=Lt+Gen) | N/A |
-| 10 | [Abdullah Shafique](http://twitter.com/search?q=Abdullah+Shafique) | N/A |
-| 11 | [Rashid](http://twitter.com/search?q=Rashid) | N/A |
-| 12 | [fakhar zaman](http://twitter.com/search?q=fakhar+zaman) | N/A |
-| 13 | [Wiese](http://twitter.com/search?q=Wiese) | N/A |
-| 14 | [tom curran](http://twitter.com/search?q=tom+curran) | N/A |
-| 15 | [tayyab tahir](http://twitter.com/search?q=tayyab+tahir) | N/A |
-| 16 | [Credit](http://twitter.com/search?q=Credit) | N/A |
-| 17 | [haris rauf](http://twitter.com/search?q=haris+rauf) | N/A |
-| 18 | [saim ayub](http://twitter.com/search?q=saim+ayub) | N/A |
-| 19 | [Heya](http://twitter.com/search?q=Heya) | N/A |
-| 20 | [Prince of Karbala](http://twitter.com/search?q=Prince+of+Karbala) | N/A |
-| 21 | [Your DM](http://twitter.com/search?q=Your+DM) | N/A |
-| 22 | [PM Imran Khan](http://twitter.com/search?q=PM+Imran+Khan) | N/A |
+| 5 | [Lahore Qalandars](http://twitter.com/search?q=Lahore+Qalandars) | N/A |
+| 6 | [Lt Gen](http://twitter.com/search?q=Lt+Gen) | N/A |
+| 7 | [Abdullah Shafique](http://twitter.com/search?q=Abdullah+Shafique) | N/A |
+| 8 | [Rashid](http://twitter.com/search?q=Rashid) | N/A |
+| 9 | [fakhar zaman](http://twitter.com/search?q=fakhar+zaman) | N/A |
+| 10 | [Wiese](http://twitter.com/search?q=Wiese) | N/A |
+| 11 | [Tom Curran](http://twitter.com/search?q=Tom+Curran) | N/A |
+| 12 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 13 | [tayyab tahir](http://twitter.com/search?q=tayyab+tahir) | N/A |
+| 14 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
+| 15 | [Credit](http://twitter.com/search?q=Credit) | N/A |
+| 16 | [Haris Rauf](http://twitter.com/search?q=Haris+Rauf) | N/A |
+| 17 | [saim ayub](http://twitter.com/search?q=saim+ayub) | N/A |
+| 18 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 19 | [Prince of Karbala](http://twitter.com/search?q=Prince+of+Karbala) | N/A |
+| 20 | [Your DM](http://twitter.com/search?q=Your+DM) | N/A |
+| 21 | [Hassan](http://twitter.com/search?q=Hassan) | N/A |
+| 22 | [Abrar](http://twitter.com/search?q=Abrar) | N/A |
 | 23 | [Wealth](http://twitter.com/search?q=Wealth) | Wealth is an abundance of valuable resources or material possessions. It can refer to money, investments, real estate, and other tangible and intangible assets. Wealth is often used to measure a person's financial standing or social status. |
-| 24 | [Hassan](http://twitter.com/search?q=Hassan) | N/A |
-| 25 | [Abrar](http://twitter.com/search?q=Abrar) | N/A |
-| 26 | [Kindly](http://twitter.com/search?q=Kindly) | N/A |
-| 27 | [Heyy](http://twitter.com/search?q=Heyy) | N/A |
-| 28 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
-| 29 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 30 | [Check DM](http://twitter.com/search?q=Check+DM) | N/A |
-| 31 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 32 | [Pashtun](http://twitter.com/search?q=Pashtun) | N/A |
-| 33 | [Slide](http://twitter.com/search?q=Slide) | N/A |
-| 34 | [Sharif](http://twitter.com/search?q=Sharif) | N/A |
-| 35 | [Soooo](http://twitter.com/search?q=Soooo) | N/A |
+| 24 | [Kindly](http://twitter.com/search?q=Kindly) | N/A |
+| 25 | [Adam Rossington](http://twitter.com/search?q=Adam+Rossington) | N/A |
+| 26 | [Heya](http://twitter.com/search?q=Heya) | N/A |
+| 27 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 28 | [Check DM](http://twitter.com/search?q=Check+DM) | N/A |
+| 29 | [Pashtun](http://twitter.com/search?q=Pashtun) | N/A |
+| 30 | [Army](http://twitter.com/search?q=Army) | N/A |
+| 31 | [London](http://twitter.com/search?q=London) | N/A |
+| 32 | [Slide](http://twitter.com/search?q=Slide) | N/A |
+| 33 | [England](http://twitter.com/search?q=England) | N/A |
+| 34 | [Quran](http://twitter.com/search?q=Quran) | N/A |
+| 35 | [Sharif](http://twitter.com/search?q=Sharif) | N/A |
 | 36 | [Road](http://twitter.com/search?q=Road) | N/A |
 | 37 | [Stake](http://twitter.com/search?q=Stake) | N/A |
-| 38 | [Amen](http://twitter.com/search?q=Amen) | N/A |
-| 39 | [London](http://twitter.com/search?q=London) | N/A |
-| 40 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
-| 41 | [Snapchat](http://twitter.com/search?q=Snapchat) | N/A |
-| 42 | [Dear Customer](http://twitter.com/search?q=Dear+Customer) | N/A |
-| 43 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
-| 44 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
-| 45 | [Brilliant](http://twitter.com/search?q=Brilliant) | N/A |
-| 46 | [Earth](http://twitter.com/search?q=Earth) | N/A |
-| 47 | [Yeahh](http://twitter.com/search?q=Yeahh) | N/A |
+| 38 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 39 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 40 | [Bhai](http://twitter.com/search?q=Bhai) | N/A |
+| 41 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 42 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
+| 43 | [Snapchat](http://twitter.com/search?q=Snapchat) | N/A |
+| 44 | [Palestine](http://twitter.com/search?q=Palestine) | N/A |
+| 45 | [Amen](http://twitter.com/search?q=Amen) | N/A |
+| 46 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
+| 47 | [Dear Customer](http://twitter.com/search?q=Dear+Customer) | N/A |
+| 48 | [NUST](http://twitter.com/search?q=NUST) | N/A |
+| 49 | [May God](http://twitter.com/search?q=May+God) | N/A |
 
 
 

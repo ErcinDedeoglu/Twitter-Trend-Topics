@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belgium
 
-📆 Last Updated: `2023-02-28 01:45:26 UTC`
+📆 Last Updated: `2023-02-28 02:41:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,9 +16,9 @@ This is top 50 for Belgium
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#deafspraak](http://twitter.com/search?q=%23deafspraak) | N/A |
-| 2 | [#clugnt](http://twitter.com/search?q=%23clugnt) | N/A |
-| 3 | [#andsta](http://twitter.com/search?q=%23andsta) | N/A |
-| 4 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
+| 2 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
+| 3 | [#clugnt](http://twitter.com/search?q=%23clugnt) | N/A |
+| 4 | [#andsta](http://twitter.com/search?q=%23andsta) | N/A |
 | 5 | [Northern Ireland](http://twitter.com/search?q=Northern+Ireland) | N/A |
 | 6 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
 | 7 | [#kbk23](http://twitter.com/search?q=%23kbk23) | N/A |
@@ -30,41 +30,41 @@ This is top 50 for Belgium
 | 13 | [hof van cleve](http://twitter.com/search?q=hof+van+cleve) | N/A |
 | 14 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
 | 15 | [Elchardus](http://twitter.com/search?q=Elchardus) | N/A |
-| 16 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 17 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
-| 18 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
-| 19 | [Jeremie](http://twitter.com/search?q=Jeremie) | N/A |
-| 20 | [peter goossens](http://twitter.com/search?q=peter+goossens) | N/A |
-| 21 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
-| 22 | [Payet](http://twitter.com/search?q=Payet) | Payet is a French surname. It is derived from the Old French word "paie," which means "payment." In English, it can be translated to mean "one who pays." |
-| 23 | [Windsor Framework](http://twitter.com/search?q=Windsor+Framework) | N/A |
-| 24 | [Almeria](http://twitter.com/search?q=Almeria) | N/A |
-| 25 | [Sunak](http://twitter.com/search?q=Sunak) | N/A |
-| 26 | [Julien Bert](http://twitter.com/search?q=Julien+Bert) | N/A |
+| 16 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
+| 17 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
+| 18 | [Jeremie](http://twitter.com/search?q=Jeremie) | N/A |
+| 19 | [peter goossens](http://twitter.com/search?q=peter+goossens) | N/A |
+| 20 | [Payet](http://twitter.com/search?q=Payet) | Payet is a French surname. It is derived from the Old French word "paie," which means "payment." In English, it can be translated to mean "one who pays." |
+| 21 | [Windsor Framework](http://twitter.com/search?q=Windsor+Framework) | N/A |
+| 22 | [Almeria](http://twitter.com/search?q=Almeria) | N/A |
+| 23 | [Sunak](http://twitter.com/search?q=Sunak) | N/A |
+| 24 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 25 | [Julien Bert](http://twitter.com/search?q=Julien+Bert) | N/A |
+| 26 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
 | 27 | [Patrick](http://twitter.com/search?q=Patrick) | Patrick is a given name derived from the Latin name Patricius, meaning "nobleman". It is a popular name in many English-speaking countries, particularly in Ireland, where it is the third most common male name. |
 | 28 | [Limburg](http://twitter.com/search?q=Limburg) | N/A |
 | 29 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
 | 30 | [Leyen](http://twitter.com/search?q=Leyen) | N/A |
 | 31 | [Hilona](http://twitter.com/search?q=Hilona) | N/A |
 | 32 | [Serbia](http://twitter.com/search?q=Serbia) | N/A |
-| 33 | [Tom Waes](http://twitter.com/search?q=Tom+Waes) | N/A |
+| 33 | [tom waes](http://twitter.com/search?q=tom+waes) | N/A |
 | 34 | [EU-UK](http://twitter.com/search?q=EU-UK) | N/A |
-| 35 | [de var](http://twitter.com/search?q=de+var) | N/A |
-| 36 | [Kosovo](http://twitter.com/search?q=Kosovo) | N/A |
-| 37 | [Astrid](http://twitter.com/search?q=Astrid) | N/A |
-| 38 | [Suicune](http://twitter.com/search?q=Suicune) | N/A |
-| 39 | [Ethnicité](http://twitter.com/search?q=Ethnicit%c3%a9) | N/A |
-| 40 | [Slimani](http://twitter.com/search?q=Slimani) | N/A |
-| 41 | [Chiara](http://twitter.com/search?q=Chiara) | N/A |
-| 42 | [Voka](http://twitter.com/search?q=Voka) | N/A |
-| 43 | [fossey](http://twitter.com/search?q=fossey) | N/A |
-| 44 | [Clasico](http://twitter.com/search?q=Clasico) | N/A |
-| 45 | [referee department](http://twitter.com/search?q=referee+department) | N/A |
-| 46 | [diawara](http://twitter.com/search?q=diawara) | N/A |
-| 47 | [The Guardian](http://twitter.com/search?q=The+Guardian) | N/A |
-| 48 | [IT'S RACE WEEK](http://twitter.com/search?q=IT%27S+RACE+WEEK) | N/A |
-| 49 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
-| 50 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 35 | [Kosovo](http://twitter.com/search?q=Kosovo) | N/A |
+| 36 | [Astrid](http://twitter.com/search?q=Astrid) | N/A |
+| 37 | [Suicune](http://twitter.com/search?q=Suicune) | N/A |
+| 38 | [Ethnicité](http://twitter.com/search?q=Ethnicit%c3%a9) | N/A |
+| 39 | [Slimani](http://twitter.com/search?q=Slimani) | N/A |
+| 40 | [Voka](http://twitter.com/search?q=Voka) | N/A |
+| 41 | [fossey](http://twitter.com/search?q=fossey) | N/A |
+| 42 | [Clasico](http://twitter.com/search?q=Clasico) | N/A |
+| 43 | [referee department](http://twitter.com/search?q=referee+department) | N/A |
+| 44 | [diawara](http://twitter.com/search?q=diawara) | N/A |
+| 45 | [The Guardian](http://twitter.com/search?q=The+Guardian) | N/A |
+| 46 | [IT'S RACE WEEK](http://twitter.com/search?q=IT%27S+RACE+WEEK) | N/A |
+| 47 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
+| 48 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 49 | [🇪🇺](http://twitter.com/search?q=%f0%9f%87%aa%f0%9f%87%ba) | N/A |
+| 50 | [de var](http://twitter.com/search?q=de+var) | N/A |
 
 
 

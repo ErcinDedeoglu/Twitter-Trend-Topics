@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lebanon
 
-📆 Last Updated: `2023-02-28 01:45:30 UTC`
+📆 Last Updated: `2023-02-28 02:41:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,18 +17,18 @@ This is top 50 for Lebanon
 | ------- | ------------ | ------------ |
 | 1 | [#شهداء_سراقب](http://twitter.com/search?q=%23%d8%b4%d9%87%d8%af%d8%a7%d8%a1_%d8%b3%d8%b1%d8%a7%d9%82%d8%a8) | N/A |
 | 2 | [#حواره](http://twitter.com/search?q=%23%d8%ad%d9%88%d8%a7%d8%b1%d9%87) | N/A |
-| 3 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
-| 4 | [#اريحا](http://twitter.com/search?q=%23%d8%a7%d8%b1%d9%8a%d8%ad%d8%a7) | N/A |
-| 5 | [#قوات_المجازر](http://twitter.com/search?q=%23%d9%82%d9%88%d8%a7%d8%aa_%d8%a7%d9%84%d9%85%d8%ac%d8%a7%d8%b2%d8%b1) | N/A |
-| 6 | [#HappyBirthdayNajwaKaram](http://twitter.com/search?q=%23HappyBirthdayNajwaKaram) | N/A |
-| 7 | [زياد حواط](http://twitter.com/search?q=%d8%b2%d9%8a%d8%a7%d8%af+%d8%ad%d9%88%d8%a7%d8%b7) | N/A |
-| 8 | [عباس ابراهيم](http://twitter.com/search?q=%d8%b9%d8%a8%d8%a7%d8%b3+%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85) | N/A |
-| 9 | [وزير الخارجيه المصري](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87+%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a) | N/A |
-| 10 | [الوكاله الوطنيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%83%d8%a7%d9%84%d9%87+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a%d9%87) | N/A |
-| 11 | [وزير الاعلام](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d8%a7%d9%85) | N/A |
-| 12 | [وزير الاقتصاد](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%a7%d9%82%d8%aa%d8%b5%d8%a7%d8%af) | N/A |
-| 13 | [الراس المدبر](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d8%a7%d8%b3+%d8%a7%d9%84%d9%85%d8%af%d8%a8%d8%b1) | N/A |
-| 14 | [احمد الرفاعي](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%b1%d9%81%d8%a7%d8%b9%d9%8a) | N/A |
+| 3 | [#اريحا](http://twitter.com/search?q=%23%d8%a7%d8%b1%d9%8a%d8%ad%d8%a7) | N/A |
+| 4 | [#قوات_المجازر](http://twitter.com/search?q=%23%d9%82%d9%88%d8%a7%d8%aa_%d8%a7%d9%84%d9%85%d8%ac%d8%a7%d8%b2%d8%b1) | N/A |
+| 5 | [#HappyBirthdayNajwaKaram](http://twitter.com/search?q=%23HappyBirthdayNajwaKaram) | N/A |
+| 6 | [زياد حواط](http://twitter.com/search?q=%d8%b2%d9%8a%d8%a7%d8%af+%d8%ad%d9%88%d8%a7%d8%b7) | N/A |
+| 7 | [عباس ابراهيم](http://twitter.com/search?q=%d8%b9%d8%a8%d8%a7%d8%b3+%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85) | N/A |
+| 8 | [وزير الخارجيه المصري](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87+%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a) | N/A |
+| 9 | [الوكاله الوطنيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%83%d8%a7%d9%84%d9%87+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a%d9%87) | N/A |
+| 10 | [وزير الاعلام](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d8%a7%d9%85) | N/A |
+| 11 | [وزير الاقتصاد](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%a7%d9%82%d8%aa%d8%b5%d8%a7%d8%af) | N/A |
+| 12 | [الراس المدبر](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d8%a7%d8%b3+%d8%a7%d9%84%d9%85%d8%af%d8%a8%d8%b1) | N/A |
+| 13 | [احمد الرفاعي](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%b1%d9%81%d8%a7%d8%b9%d9%8a) | N/A |
+| 14 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
 | 15 | [الضفه الغربيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b6%d9%81%d9%87+%d8%a7%d9%84%d8%ba%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
 | 16 | [ميشال مخول](http://twitter.com/search?q=%d9%85%d9%8a%d8%b4%d8%a7%d9%84+%d9%85%d8%ae%d9%88%d9%84) | N/A |
 | 17 | [محمد رعد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%b1%d8%b9%d8%af) | N/A |
@@ -42,24 +42,24 @@ This is top 50 for Lebanon
 | 25 | [الأمم المتحدة](http://twitter.com/search?q=%d8%a7%d9%84%d8%a3%d9%85%d9%85+%d8%a7%d9%84%d9%85%d8%aa%d8%ad%d8%af%d8%a9) | N/A |
 | 26 | [اليوم الاثنين](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86) | اليوم الاثنين is Arabic for "Monday" and it means "Monday" in English. |
 | 27 | [نداء الوطن](http://twitter.com/search?q=%d9%86%d8%af%d8%a7%d8%a1+%d8%a7%d9%84%d9%88%d8%b7%d9%86) | N/A |
-| 28 | [اشرف ريفي](http://twitter.com/search?q=%d8%a7%d8%b4%d8%b1%d9%81+%d8%b1%d9%8a%d9%81%d9%8a) | N/A |
-| 29 | [جنوب نابلس](http://twitter.com/search?q=%d8%ac%d9%86%d9%88%d8%a8+%d9%86%d8%a7%d8%a8%d9%84%d8%b3) | N/A |
-| 30 | [الشايعات الكاذبه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%a7%d9%8a%d8%b9%d8%a7%d8%aa+%d8%a7%d9%84%d9%83%d8%a7%d8%b0%d8%a8%d9%87) | N/A |
-| 31 | [علي الفتنه](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%81%d8%aa%d9%86%d9%87) | N/A |
-| 32 | [Palestinian](http://twitter.com/search?q=Palestinian) | N/A |
-| 33 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
-| 34 | [سيد الساجدين](http://twitter.com/search?q=%d8%b3%d9%8a%d8%af+%d8%a7%d9%84%d8%b3%d8%a7%d8%ac%d8%af%d9%8a%d9%86) | N/A |
-| 35 | [النظام المصرفي](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%b8%d8%a7%d9%85+%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%81%d9%8a) | N/A |
+| 28 | [جنوب نابلس](http://twitter.com/search?q=%d8%ac%d9%86%d9%88%d8%a8+%d9%86%d8%a7%d8%a8%d9%84%d8%b3) | N/A |
+| 29 | [الشايعات الكاذبه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%a7%d9%8a%d8%b9%d8%a7%d8%aa+%d8%a7%d9%84%d9%83%d8%a7%d8%b0%d8%a8%d9%87) | N/A |
+| 30 | [علي الفتنه](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%81%d8%aa%d9%86%d9%87) | N/A |
+| 31 | [Palestinian](http://twitter.com/search?q=Palestinian) | N/A |
+| 32 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
+| 33 | [سيد الساجدين](http://twitter.com/search?q=%d8%b3%d9%8a%d8%af+%d8%a7%d9%84%d8%b3%d8%a7%d8%ac%d8%af%d9%8a%d9%86) | N/A |
+| 34 | [النظام المصرفي](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%b8%d8%a7%d9%85+%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%81%d9%8a) | N/A |
+| 35 | [كاس العالم](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | كاس العالم (Kass al-Alam) is an Arabic phrase meaning "World Cup". It is used to refer to the FIFA World Cup, an international football tournament held every four years. |
 | 36 | [وزير التربيه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%aa%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
-| 37 | [كاس العالم](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | كاس العالم (Kass al-Alam) is an Arabic phrase meaning "World Cup". It is used to refer to the FIFA World Cup, an international football tournament held every four years. |
-| 38 | [المحرضين الذين](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ad%d8%b1%d8%b6%d9%8a%d9%86+%d8%a7%d9%84%d8%b0%d9%8a%d9%86) | N/A |
-| 39 | [فرع المعلومات](http://twitter.com/search?q=%d9%81%d8%b1%d8%b9+%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa) | N/A |
-| 40 | [الحضن العربي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%b6%d9%86+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a) | N/A |
-| 41 | [السفير السعودي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%81%d9%8a%d8%b1+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
-| 42 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 37 | [المحرضين الذين](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ad%d8%b1%d8%b6%d9%8a%d9%86+%d8%a7%d9%84%d8%b0%d9%8a%d9%86) | N/A |
+| 38 | [فرع المعلومات](http://twitter.com/search?q=%d9%81%d8%b1%d8%b9+%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa) | N/A |
+| 39 | [الحضن العربي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%b6%d9%86+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a) | N/A |
+| 40 | [السفير السعودي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%81%d9%8a%d8%b1+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
+| 41 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 42 | [بنزيما](http://twitter.com/search?q=%d8%a8%d9%86%d8%b2%d9%8a%d9%85%d8%a7) | بنزيما (benzema) is a surname of Arabic origin. It is derived from the Arabic word "bin zamān" which means "son of time". In English, it can be translated to mean "son of time". |
 | 43 | [خالد الضاهر](http://twitter.com/search?q=%d8%ae%d8%a7%d9%84%d8%af+%d8%a7%d9%84%d8%b6%d8%a7%d9%87%d8%b1) | N/A |
 | 44 | [سامح شكري](http://twitter.com/search?q=%d8%b3%d8%a7%d9%85%d8%ad+%d8%b4%d9%83%d8%b1%d9%8a) | N/A |
-| 45 | [بنزيما](http://twitter.com/search?q=%d8%a8%d9%86%d8%b2%d9%8a%d9%85%d8%a7) | بنزيما (benzema) is a surname of Arabic origin. It is derived from the Arabic word "bin zamān" which means "son of time". In English, it can be translated to mean "son of time". |
+| 45 | [اشرف ريفي](http://twitter.com/search?q=%d8%a7%d8%b4%d8%b1%d9%81+%d8%b1%d9%8a%d9%81%d9%8a) | N/A |
 | 46 | [Israeli](http://twitter.com/search?q=Israeli) | N/A |
 | 47 | [نهار الاحد](http://twitter.com/search?q=%d9%86%d9%87%d8%a7%d8%b1+%d8%a7%d9%84%d8%a7%d8%ad%d8%af) | N/A |
 | 48 | [ياسر](http://twitter.com/search?q=%d9%8a%d8%a7%d8%b3%d8%b1) | N/A |

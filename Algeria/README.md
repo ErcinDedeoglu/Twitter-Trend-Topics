@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Algeria
 
-📆 Last Updated: `2023-02-28 01:45:26 UTC`
+📆 Last Updated: `2023-02-28 02:41:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -33,13 +33,13 @@ This is top 50 for Algeria
 | 16 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
 | 17 | [سورية](http://twitter.com/search?q=%d8%b3%d9%88%d8%b1%d9%8a%d8%a9) | N/A |
 | 18 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
-| 19 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 20 | [#ماكرون](http://twitter.com/search?q=%23%d9%85%d8%a7%d9%83%d8%b1%d9%88%d9%86) | N/A |
-| 21 | [سالم موريدا](http://twitter.com/search?q=%d8%b3%d8%a7%d9%84%d9%85+%d9%85%d9%88%d8%b1%d9%8a%d8%af%d8%a7) | N/A |
-| 22 | [البا](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%a7) | البا is an Arabic word that means "the letter B". |
-| 23 | [الحركات السياسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%b1%d9%83%d8%a7%d8%aa+%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b3%d9%8a%d9%87) | N/A |
-| 24 | [فالنسيا](http://twitter.com/search?q=%d9%81%d8%a7%d9%84%d9%86%d8%b3%d9%8a%d8%a7) | فالنسيا is an Arabic phrase that translates to "farewell" in English. It is used as a way of saying goodbye or expressing good wishes when someone is leaving. |
-| 25 | [الجامعه العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%a7%d9%85%d8%b9%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
+| 19 | [#ماكرون](http://twitter.com/search?q=%23%d9%85%d8%a7%d9%83%d8%b1%d9%88%d9%86) | N/A |
+| 20 | [سالم موريدا](http://twitter.com/search?q=%d8%b3%d8%a7%d9%84%d9%85+%d9%85%d9%88%d8%b1%d9%8a%d8%af%d8%a7) | N/A |
+| 21 | [البا](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%a7) | البا is an Arabic word that means "the letter B". |
+| 22 | [الحركات السياسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%b1%d9%83%d8%a7%d8%aa+%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b3%d9%8a%d9%87) | N/A |
+| 23 | [فالنسيا](http://twitter.com/search?q=%d9%81%d8%a7%d9%84%d9%86%d8%b3%d9%8a%d8%a7) | فالنسيا is an Arabic phrase that translates to "farewell" in English. It is used as a way of saying goodbye or expressing good wishes when someone is leaving. |
+| 24 | [الجامعه العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%a7%d9%85%d8%b9%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
+| 25 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
 | 26 | [هيلاريون هيجي](http://twitter.com/search?q=%d9%87%d9%8a%d9%84%d8%a7%d8%b1%d9%8a%d9%88%d9%86+%d9%87%d9%8a%d8%ac%d9%8a) | N/A |
 | 27 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 28 | [السعيد شنقريحة](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%b9%d9%8a%d8%af+%d8%b4%d9%86%d9%82%d8%b1%d9%8a%d8%ad%d8%a9) | N/A |
@@ -48,15 +48,15 @@ This is top 50 for Algeria
 | 31 | [المانيا](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%a7%d9%86%d9%8a%d8%a7) | N/A |
 | 32 | [محمد بن هادي](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d9%87%d8%a7%d8%af%d9%8a) | N/A |
 | 33 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 34 | [رونالدو](http://twitter.com/search?q=%d8%b1%d9%88%d9%86%d8%a7%d9%84%d8%af%d9%88) | رونالدو is the Portuguese spelling of the name Ronaldo, which is a popular given name in many countries. In English, it means "counselor of the ruler". |
-| 35 | [علي راس](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%b1%d8%a7%d8%b3) | N/A |
-| 36 | [سعيد عبد اللطيف](http://twitter.com/search?q=%d8%b3%d8%b9%d9%8a%d8%af+%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d9%84%d8%b7%d9%8a%d9%81) | N/A |
-| 37 | [سعد بن](http://twitter.com/search?q=%d8%b3%d8%b9%d8%af+%d8%a8%d9%86) | N/A |
-| 38 | [البريد المركزي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b1%d9%8a%d8%af+%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2%d9%8a) | N/A |
-| 39 | [القوات المسلحه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%88%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d8%ad%d9%87) | N/A |
-| 40 | [تشيلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%8a%d9%84%d8%b3%d9%8a) | تشيلسي (pronounced "Tshee-lee-see") is a term used to refer to the English football club, Chelsea FC. It is derived from the club's name, which is an abbreviation of "Chelsea Football Club". In English, it can be translated as "Chelsea". |
-| 41 | [فنادق مراكش](http://twitter.com/search?q=%d9%81%d9%86%d8%a7%d8%af%d9%82+%d9%85%d8%b1%d8%a7%d9%83%d8%b4) | N/A |
-| 42 | [الاجتماع الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
+| 34 | [علي راس](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%b1%d8%a7%d8%b3) | N/A |
+| 35 | [سعيد عبد اللطيف](http://twitter.com/search?q=%d8%b3%d8%b9%d9%8a%d8%af+%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d9%84%d8%b7%d9%8a%d9%81) | N/A |
+| 36 | [سعد بن](http://twitter.com/search?q=%d8%b3%d8%b9%d8%af+%d8%a8%d9%86) | N/A |
+| 37 | [البريد المركزي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b1%d9%8a%d8%af+%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2%d9%8a) | N/A |
+| 38 | [القوات المسلحه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%88%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d8%ad%d9%87) | N/A |
+| 39 | [تشيلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%8a%d9%84%d8%b3%d9%8a) | تشيلسي (pronounced "Tshee-lee-see") is a term used to refer to the English football club, Chelsea FC. It is derived from the club's name, which is an abbreviation of "Chelsea Football Club". In English, it can be translated as "Chelsea". |
+| 40 | [فنادق مراكش](http://twitter.com/search?q=%d9%81%d9%86%d8%a7%d8%af%d9%82+%d9%85%d8%b1%d8%a7%d9%83%d8%b4) | N/A |
+| 41 | [الاجتماع الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
+| 42 | [مشاري](http://twitter.com/search?q=%d9%85%d8%b4%d8%a7%d8%b1%d9%8a) | N/A |
 | 43 | [الأردن](http://twitter.com/search?q=%d8%a7%d9%84%d8%a3%d8%b1%d8%af%d9%86) | N/A |
 | 44 | [غارسيا](http://twitter.com/search?q=%d8%ba%d8%a7%d8%b1%d8%b3%d9%8a%d8%a7) | غارسيا is an Arabic name meaning "Garcia". It is a unisex name, and can be used for both boys and girls. |
 | 45 | [شهر مارس](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |

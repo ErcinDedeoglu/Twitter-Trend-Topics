@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Turin
 
-📆 Last Updated: `2023-02-28 01:44:52 UTC`
+📆 Last Updated: `2023-02-28 02:41:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,42 +16,55 @@ This is top 50 for [Italy](</Italy>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#gfvip](http://twitter.com/search?q=%23gfvip) | #GFVIP stands for "Good Friends Very Important Person" and is used to refer to someone who is a close friend or an important person in one's life. |
-| 2 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
-| 3 | [Orietta](http://twitter.com/search?q=Orietta) | Orietta is an Italian female name derived from the Latin word "aurum" meaning "gold". It is also a variant of the name Oriana, which means "dawn". |
-| 4 | [Murgia](http://twitter.com/search?q=Murgia) | Murgia is a geographical region in southern Italy, located in the provinces of Bari and Taranto. It is characterized by its limestone hills, deep ravines, and caves. The name Murgia comes from the Latin word murex, meaning "rocky hill". In English, Murgia can be translated as "rocky land". |
-| 5 | [Edoardo](http://twitter.com/search?q=Edoardo) | Edoardo is an Italian name derived from the Germanic name Edward, which means "wealthy guardian". It is a popular name in Italy and other parts of Europe. |
-| 6 | [#fiorisopralinferno](http://twitter.com/search?q=%23fiorisopralinferno) | N/A |
-| 7 | [Daniele](http://twitter.com/search?q=Daniele) | N/A |
-| 8 | [Alfonso](http://twitter.com/search?q=Alfonso) | Alfonso is a Spanish name derived from the Germanic name Adalfuns, which means "noble and ready". It is also the name of several Spanish kings. |
-| 9 | [EdoD](http://twitter.com/search?q=EdoD) | EdoD is an acronym for "Edo Digital", which is a Japanese digital media company. It specializes in creating content for mobile devices, such as apps, games, and videos. The company was founded in 2012 and is based in Tokyo. |
-| 10 | [Giulia](http://twitter.com/search?q=Giulia) | N/A |
-| 11 | [#QuartaRepubblica](http://twitter.com/search?q=%23QuartaRepubblica) | N/A |
-| 12 | [#staseratuttoèpossibile](http://twitter.com/search?q=%23staseratutto%c3%a8possibile) | N/A |
-| 13 | [#lineanotte](http://twitter.com/search?q=%23lineanotte) | N/A |
-| 14 | [Donnalisi](http://twitter.com/search?q=Donnalisi) | N/A |
-| 15 | [CUOCO](http://twitter.com/search?q=CUOCO) | N/A |
-| 16 | [Osvaldo](http://twitter.com/search?q=Osvaldo) | N/A |
-| 17 | [Gianluca](http://twitter.com/search?q=Gianluca) | N/A |
-| 18 | [Luis Alberto](http://twitter.com/search?q=Luis+Alberto) | N/A |
-| 19 | [Forum](http://twitter.com/search?q=Forum) | N/A |
-| 20 | [Ilenia](http://twitter.com/search?q=Ilenia) | N/A |
-| 21 | [Vittimella](http://twitter.com/search?q=Vittimella) | N/A |
-| 22 | [Edobau](http://twitter.com/search?q=Edobau) | N/A |
-| 23 | [Pierpaolo](http://twitter.com/search?q=Pierpaolo) | N/A |
-| 24 | [Antonino e Ginevra](http://twitter.com/search?q=Antonino+e+Ginevra) | N/A |
-| 25 | [Biraghi](http://twitter.com/search?q=Biraghi) | N/A |
-| 26 | [Oriele](http://twitter.com/search?q=Oriele) | N/A |
-| 27 | [Alex Sandro](http://twitter.com/search?q=Alex+Sandro) | Alex Sandro is a Brazilian professional footballer who plays for Italian club Juventus and the Brazil national team. His full name is Alex Sandro Lobo Silva. He primarily plays as a left-back, but can also play as a left winger. In English, his name means "Protector of Man". |
-| 28 | [#LazioSamp](http://twitter.com/search?q=%23LazioSamp) | N/A |
-| 29 | [#GrandeFratelloVip](http://twitter.com/search?q=%23GrandeFratelloVip) | N/A |
-| 30 | [#PiantedosiDimettiti](http://twitter.com/search?q=%23PiantedosiDimettiti) | N/A |
-| 31 | [#IoStoConAmodeo](http://twitter.com/search?q=%23IoStoConAmodeo) | N/A |
-| 32 | [#Denzzzers](http://twitter.com/search?q=%23Denzzzers) | N/A |
-| 33 | [#Caressa](http://twitter.com/search?q=%23Caressa) | N/A |
-| 34 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 35 | [#Tavassi](http://twitter.com/search?q=%23Tavassi) | N/A |
-| 36 | [#VeronaFiorentina](http://twitter.com/search?q=%23VeronaFiorentina) | N/A |
-| 37 | [#vergogna](http://twitter.com/search?q=%23vergogna) | N/A |
+| 2 | [#Schlein](http://twitter.com/search?q=%23Schlein) | N/A |
+| 3 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
+| 4 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
+| 5 | [#oriele](http://twitter.com/search?q=%23oriele) | N/A |
+| 6 | [#Piantedosi](http://twitter.com/search?q=%23Piantedosi) | N/A |
+| 7 | [#donnalisi](http://twitter.com/search?q=%23donnalisi) | N/A |
+| 8 | [Orietta](http://twitter.com/search?q=Orietta) | Orietta is an Italian female name derived from the Latin word "aurum" meaning "gold". It is also a variant of the name Oriana, which means "dawn". |
+| 9 | [Alfonso](http://twitter.com/search?q=Alfonso) | Alfonso is a Spanish name derived from the Germanic name Adalfuns, which means "noble and ready". It is also the name of several Spanish kings. |
+| 10 | [Bonaccini](http://twitter.com/search?q=Bonaccini) | N/A |
+| 11 | [Daniele](http://twitter.com/search?q=Daniele) | N/A |
+| 12 | [Renzi](http://twitter.com/search?q=Renzi) | N/A |
+| 13 | [Il PD](http://twitter.com/search?q=Il+PD) | N/A |
+| 14 | [EdoD](http://twitter.com/search?q=EdoD) | EdoD is an acronym for "Edo Digital", which is a Japanese digital media company. It specializes in creating content for mobile devices, such as apps, games, and videos. The company was founded in 2012 and is based in Tokyo. |
+| 15 | [Fioroni](http://twitter.com/search?q=Fioroni) | N/A |
+| 16 | [Giulia](http://twitter.com/search?q=Giulia) | N/A |
+| 17 | [Franceschini](http://twitter.com/search?q=Franceschini) | N/A |
+| 18 | [CUOCO](http://twitter.com/search?q=CUOCO) | N/A |
+| 19 | [Bucciantini](http://twitter.com/search?q=Bucciantini) | N/A |
+| 20 | [Grecia](http://twitter.com/search?q=Grecia) | N/A |
+| 21 | [Pippo Franco](http://twitter.com/search?q=Pippo+Franco) | N/A |
+| 22 | [Biraghi](http://twitter.com/search?q=Biraghi) | N/A |
+| 23 | [Thiaw](http://twitter.com/search?q=Thiaw) | N/A |
+| 24 | [Gianluca](http://twitter.com/search?q=Gianluca) | N/A |
+| 25 | [Osvaldo](http://twitter.com/search?q=Osvaldo) | N/A |
+| 26 | [Sonia](http://twitter.com/search?q=Sonia) | Sonia is a female given name of Latin origin, derived from the Greek word for "wisdom". It is a popular name in many countries, including India, Italy, France, Spain, and the United States. In English, it is usually pronounced "so-NEE-ah". |
+| 27 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
+| 28 | [Davide](http://twitter.com/search?q=Davide) | N/A |
+| 29 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
+| 30 | [Vittimella](http://twitter.com/search?q=Vittimella) | N/A |
+| 31 | [Tavassone](http://twitter.com/search?q=Tavassone) | N/A |
+| 32 | [Morani](http://twitter.com/search?q=Morani) | N/A |
+| 33 | [Forum](http://twitter.com/search?q=Forum) | N/A |
+| 34 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
+| 35 | [bettini](http://twitter.com/search?q=bettini) | N/A |
+| 36 | [Turchia](http://twitter.com/search?q=Turchia) | N/A |
+| 37 | [Bocchino](http://twitter.com/search?q=Bocchino) | N/A |
+| 38 | [Letta](http://twitter.com/search?q=Letta) | N/A |
+| 39 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
+| 40 | [Enrico](http://twitter.com/search?q=Enrico) | N/A |
+| 41 | [Andrea](http://twitter.com/search?q=Andrea) | Andrea is a feminine given name of Italian origin. It is derived from the Greek word andreios, meaning "manly" or "masculine". In English, Andrea is often translated as "daring" or "brave". |
+| 42 | [Milena](http://twitter.com/search?q=Milena) | N/A |
+| 43 | [Pierpaolo](http://twitter.com/search?q=Pierpaolo) | N/A |
+| 44 | [Calenda](http://twitter.com/search?q=Calenda) | N/A |
+| 45 | [Mediterraneo](http://twitter.com/search?q=Mediterraneo) | N/A |
+| 46 | [Edobau](http://twitter.com/search?q=Edobau) | N/A |
+| 47 | [Bombetta](http://twitter.com/search?q=Bombetta) | N/A |
+| 48 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
+| 49 | [Signorini](http://twitter.com/search?q=Signorini) | N/A |
+| 50 | [Giaele](http://twitter.com/search?q=Giaele) | Giaele is a Hebrew name meaning "God will increase". |
 
 
 

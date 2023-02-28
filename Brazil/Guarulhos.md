@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guarulhos
 
-📆 Last Updated: `2023-02-28 01:44:46 UTC`
+📆 Last Updated: `2023-02-28 02:41:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#AposentadosPrejudicados](http://twitter.com/search?q=%23AposentadosPrejudicados) | N/A |
-| 2 | [fabio santos](http://twitter.com/search?q=fabio+santos) | N/A |
-| 3 | [PMSP](http://twitter.com/search?q=PMSP) | N/A |
-| 4 | [Calleri](http://twitter.com/search?q=Calleri) | Calleri is a Spanish surname. It is derived from the Latin word "calerius," which means "strong" or "brave." In English, the meaning of the name Calleri is "strong and brave." |
-| 5 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
-| 6 | [#FORACARADESAPATO](http://twitter.com/search?q=%23FORACARADESAPATO) | N/A |
-| 7 | [#brunaexpulsa](http://twitter.com/search?q=%23brunaexpulsa) | N/A |
-| 8 | [Scaloni](http://twitter.com/search?q=Scaloni) | N/A |
-| 9 | [Imagine Dragons](http://twitter.com/search?q=Imagine+Dragons) | N/A |
-| 10 | [#FazoL](http://twitter.com/search?q=%23FazoL) | N/A |
-| 11 | [tinashe](http://twitter.com/search?q=tinashe) | N/A |
-| 12 | [Zé Ricardo](http://twitter.com/search?q=Z%c3%a9+Ricardo) | N/A |
-| 13 | [Agressão](http://twitter.com/search?q=Agress%c3%a3o) | N/A |
-| 14 | [Duzz](http://twitter.com/search?q=Duzz) | N/A |
-| 15 | [ICMS](http://twitter.com/search?q=ICMS) | N/A |
-| 16 | [Estevão Ferreira](http://twitter.com/search?q=Estev%c3%a3o+Ferreira) | N/A |
-| 17 | [Suicune](http://twitter.com/search?q=Suicune) | N/A |
-| 18 | [Pedro Raul](http://twitter.com/search?q=Pedro+Raul) | Pedro Raul is a Spanish name. It is composed of two given names, Pedro and Raul. In English, it would be Peter Paul. |
-| 19 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 20 | [shawn](http://twitter.com/search?q=shawn) | Shawn is a given name, typically a masculine name. It is an Anglicized form of the Irish name Seán, which is derived from the Hebrew name Yehohanan, meaning "God is gracious". |
-| 21 | [Roger Guedes](http://twitter.com/search?q=Roger+Guedes) | Roger Guedes is a Brazilian footballer who currently plays for Atlético Mineiro. His name in English translates to "Roger Woods". |
-| 22 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
-| 23 | [#MultiAI](http://twitter.com/search?q=%23MultiAI) | N/A |
-| 24 | [Eguinaldo](http://twitter.com/search?q=Eguinaldo) | N/A |
-| 25 | [mc bin laden](http://twitter.com/search?q=mc+bin+laden) | N/A |
-| 26 | [Avenida Brasil](http://twitter.com/search?q=Avenida+Brasil) | N/A |
-| 27 | [Moretti](http://twitter.com/search?q=Moretti) | N/A |
-| 28 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 29 | [Rioru](http://twitter.com/search?q=Rioru) | N/A |
-| 30 | [Vasco da Gama](http://twitter.com/search?q=Vasco+da+Gama) | Vasco da Gama was a Portuguese explorer who led the first European expedition to reach India by sea in 1498. He is considered to be one of the most important figures in the Age of Discovery. The phrase "Vasco da Gama" is used to refer to his achievements and legacy. In English, it means "the navigator from Gama". |
-| 31 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
-| 32 | [Léo Jardim](http://twitter.com/search?q=L%c3%a9o+Jardim) | N/A |
-| 33 | [Boavista](http://twitter.com/search?q=Boavista) | N/A |
-| 34 | [Ivan](http://twitter.com/search?q=Ivan) | N/A |
-| 35 | [Green Day](http://twitter.com/search?q=Green+Day) | N/A |
-| 36 | [Tombense](http://twitter.com/search?q=Tombense) | N/A |
-| 37 | [Juventude](http://twitter.com/search?q=Juventude) | Juventude is a Portuguese word that translates to "youth" in English. It is often used to refer to the young people of a particular country or region. |
-| 38 | [Miranda](http://twitter.com/search?q=Miranda) | Miranda is a female given name of Latin origin, derived from the word "mirandus" meaning "admirable" or "wonderful". It is also associated with the phrase "miranda rights", which are rights read to criminal suspects in the United States during an arrest. |
-| 39 | [OUT OF THE WOODS](http://twitter.com/search?q=OUT+OF+THE+WOODS) | N/A |
-| 40 | [Itaú](http://twitter.com/search?q=Ita%c3%ba) | N/A |
-| 41 | [Rayan](http://twitter.com/search?q=Rayan) | N/A |
-| 42 | [Sarah e Aline](http://twitter.com/search?q=Sarah+e+Aline) | N/A |
-| 43 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 44 | [felca](http://twitter.com/search?q=felca) | N/A |
-| 45 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
-| 46 | [Podpah](http://twitter.com/search?q=Podpah) | N/A |
-| 47 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
-| 48 | [Roque Santeiro](http://twitter.com/search?q=Roque+Santeiro) | N/A |
-| 49 | [Werg](http://twitter.com/search?q=Werg) | N/A |
-| 50 | [JADE COM ESPACOLASER](http://twitter.com/search?q=JADE+COM+ESPACOLASER) | N/A |
+| 2 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
+| 3 | [Blink](http://twitter.com/search?q=Blink) | N/A |
+| 4 | [Itaú](http://twitter.com/search?q=Ita%c3%ba) | N/A |
+| 5 | [#Louies](http://twitter.com/search?q=%23Louies) | #Louies is a hashtag used on social media to refer to the popular American clothing brand, Louis Vuitton. It is often used to share photos of Louis Vuitton products or to discuss the brand. |
+| 6 | [PMSP](http://twitter.com/search?q=PMSP) | N/A |
+| 7 | [Alexia](http://twitter.com/search?q=Alexia) | Alexia is a neurological disorder that affects a person's ability to read. It is also known as word blindness or dyslexia. People with Alexia have difficulty understanding written words, even though they may be able to speak and write normally. |
+| 8 | [Lumiar](http://twitter.com/search?q=Lumiar) | N/A |
+| 9 | [União Brasil](http://twitter.com/search?q=Uni%c3%a3o+Brasil) | N/A |
+| 10 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
+| 11 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
+| 12 | [Pantanal](http://twitter.com/search?q=Pantanal) | N/A |
+| 13 | [Pipokey](http://twitter.com/search?q=Pipokey) | N/A |
+| 14 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 15 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
+| 16 | [Zé Gotinha](http://twitter.com/search?q=Z%c3%a9+Gotinha) | N/A |
+| 17 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
+| 18 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
+| 19 | [Calleri](http://twitter.com/search?q=Calleri) | Calleri is a Spanish surname. It is derived from the Latin word "calerius," which means "strong" or "brave." In English, the meaning of the name Calleri is "strong and brave." |
+| 20 | [Carelli](http://twitter.com/search?q=Carelli) | N/A |
+| 21 | [Alckmin](http://twitter.com/search?q=Alckmin) | Alckmin is a surname of Portuguese origin. It is derived from the Latin word alciminium, which means "little rock". In English, the name Alckmin can be translated to mean "little rock". |
+| 22 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 23 | [Scaloni](http://twitter.com/search?q=Scaloni) | N/A |
+| 24 | [Petrobrás](http://twitter.com/search?q=Petrobr%c3%a1s) | N/A |
+| 25 | [Agressão](http://twitter.com/search?q=Agress%c3%a3o) | N/A |
+| 26 | [Imagine Dragons](http://twitter.com/search?q=Imagine+Dragons) | N/A |
+| 27 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 28 | [Páscoa](http://twitter.com/search?q=P%c3%a1scoa) | N/A |
+| 29 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 30 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 31 | [#FazoL](http://twitter.com/search?q=%23FazoL) | N/A |
+| 32 | [Tinashe](http://twitter.com/search?q=Tinashe) | N/A |
+| 33 | [Puskas](http://twitter.com/search?q=Puskas) | N/A |
+| 34 | [Estevão Ferreira](http://twitter.com/search?q=Estev%c3%a3o+Ferreira) | N/A |
+| 35 | [ICMS](http://twitter.com/search?q=ICMS) | N/A |
+| 36 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 37 | [Duzz](http://twitter.com/search?q=Duzz) | N/A |
+| 38 | [Aline](http://twitter.com/search?q=Aline) | Aline is a French name meaning "noble" or "nobility". It is also a variant of the name Adeline, which is derived from the Germanic name Adalheidis, meaning "noble kind". |
+| 39 | [#jogodadiscordia](http://twitter.com/search?q=%23jogodadiscordia) | #JogodaDiscordia is a Brazilian game of chance and strategy. It is similar to the card game War, but with a few twists. Players take turns drawing cards from a deck and trying to make the best combination of cards. The goal is to be the first player to reach a certain number of points, which are determined by the value of the cards in each player's hand. The name "JogodaDiscordia" translates to "Game of Discord" in English, referring to the unpredictable nature of the game. |
+| 40 | [#bbb2023](http://twitter.com/search?q=%23bbb2023) | #bbb2023 is a hashtag used on social media platforms such as Twitter and Instagram. It is typically used to tag posts related to a specific event, topic, or person. In this case, it could be used to tag posts related to a particular event taking place in 2023. |
+| 41 | [Guimê](http://twitter.com/search?q=Guim%c3%aa) | Guimê is a Brazilian term used to describe a person who is strong, brave, and determined. It can also be used to describe someone who is resilient and able to overcome difficult situations. In English, it could be translated as "fearless" or "unstoppable". |
+| 42 | [Bruna](http://twitter.com/search?q=Bruna) | Bruna is a Portuguese word meaning "brown". It is often used to describe someone or something that has a brown color. |
+| 43 | [Cezar](http://twitter.com/search?q=Cezar) | Cezar is a Romanian male given name derived from the Latin name Caesar, which means "emperor". |
+| 44 | [Lexa](http://twitter.com/search?q=Lexa) | Lexa is a female given name of Greek origin, derived from the Greek word "lexis" meaning "word". It is also a variant of the name Alexandra. |
+| 45 | [Doritos](http://twitter.com/search?q=Doritos) | N/A |
+| 46 | [gosma](http://twitter.com/search?q=gosma) | N/A |
+| 47 | [Caipora](http://twitter.com/search?q=Caipora) | N/A |
+| 48 | [Pedro Raul](http://twitter.com/search?q=Pedro+Raul) | Pedro Raul is a Spanish name. It is composed of two given names, Pedro and Raul. In English, it would be Peter Paul. |
+| 49 | [Teletubbies](http://twitter.com/search?q=Teletubbies) | N/A |
+| 50 | [shawn](http://twitter.com/search?q=shawn) | Shawn is a given name, typically a masculine name. It is an Anglicized form of the Irish name Seán, which is derived from the Hebrew name Yehohanan, meaning "God is gracious". |
 
 
 

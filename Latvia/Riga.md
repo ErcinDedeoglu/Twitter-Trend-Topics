@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-02-28 01:44:54 UTC`
+📆 Last Updated: `2023-02-28 02:41:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,7 +17,7 @@ This is top 50 for [Latvia](</Latvia>)
 | ------- | ------------ | ------------ |
 | 1 | [#BETCrypto](http://twitter.com/search?q=%23BETCrypto) | N/A |
 | 2 | [Lielā Kristapa](http://twitter.com/search?q=Liel%c4%81+Kristapa) | N/A |
-| 3 | [Marija Luīze Meļķe](http://twitter.com/search?q=Marija+Lu%c4%abze+Me%c4%bc%c4%b7e) | N/A |
+| 3 | [marija luīze meļķe](http://twitter.com/search?q=marija+lu%c4%abze+me%c4%bc%c4%b7e) | N/A |
 | 4 | [apsveicu](http://twitter.com/search?q=apsveicu) | N/A |
 | 5 | [The Office](http://twitter.com/search?q=The+Office) | N/A |
 | 6 | [IKEA](http://twitter.com/search?q=IKEA) | N/A |
@@ -33,25 +33,25 @@ This is top 50 for [Latvia](</Latvia>)
 | 16 | [#herpes](http://twitter.com/search?q=%23herpes) | N/A |
 | 17 | [kurzemes](http://twitter.com/search?q=kurzemes) | N/A |
 | 18 | [tāpat](http://twitter.com/search?q=t%c4%81pat) | N/A |
-| 19 | [Diezgan](http://twitter.com/search?q=Diezgan) | N/A |
+| 19 | [diezgan](http://twitter.com/search?q=diezgan) | N/A |
 | 20 | [zinu](http://twitter.com/search?q=zinu) | N/A |
 | 21 | [krievijai](http://twitter.com/search?q=krievijai) | N/A |
 | 22 | [zini](http://twitter.com/search?q=zini) | N/A |
 | 23 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
 | 24 | [Russians](http://twitter.com/search?q=Russians) | N/A |
-| 25 | [Agrāk](http://twitter.com/search?q=Agr%c4%81k) | N/A |
+| 25 | [agrāk](http://twitter.com/search?q=agr%c4%81k) | N/A |
 | 26 | [#ETHDenver](http://twitter.com/search?q=%23ETHDenver) | N/A |
 | 27 | [kultūras](http://twitter.com/search?q=kult%c5%abras) | N/A |
 | 28 | [berlīnē](http://twitter.com/search?q=berl%c4%abn%c4%93) | N/A |
-| 29 | [Langas](http://twitter.com/search?q=Langas) | N/A |
+| 29 | [langas](http://twitter.com/search?q=langas) | N/A |
 | 30 | [avenu](http://twitter.com/search?q=avenu) | N/A |
 | 31 | [iesaku](http://twitter.com/search?q=iesaku) | N/A |
-| 32 | [Ja Tu](http://twitter.com/search?q=Ja+Tu) | N/A |
+| 32 | [ja tu](http://twitter.com/search?q=ja+tu) | N/A |
 | 33 | [kādu](http://twitter.com/search?q=k%c4%81du) | N/A |
 | 34 | [vajadzēja](http://twitter.com/search?q=vajadz%c4%93ja) | N/A |
 | 35 | [Labs](http://twitter.com/search?q=Labs) | N/A |
 | 36 | [#vertigo](http://twitter.com/search?q=%23vertigo) | N/A |
-| 37 | [Parasti](http://twitter.com/search?q=Parasti) | N/A |
+| 37 | [parasti](http://twitter.com/search?q=parasti) | N/A |
 | 38 | [Paga](http://twitter.com/search?q=Paga) | N/A |
 | 39 | [domā](http://twitter.com/search?q=dom%c4%81) | N/A |
 | 40 | [skaisti](http://twitter.com/search?q=skaisti) | N/A |

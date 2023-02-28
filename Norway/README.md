@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Norway
 
-📆 Last Updated: `2023-02-28 01:45:31 UTC`
+📆 Last Updated: `2023-02-28 02:41:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,15 +24,15 @@ This is top 50 for Norway
 | 7 | [Aasland](http://twitter.com/search?q=Aasland) | N/A |
 | 8 | [#Auroraborealis](http://twitter.com/search?q=%23Auroraborealis) | N/A |
 | 9 | [#NorthernLights](http://twitter.com/search?q=%23NorthernLights) | N/A |
-| 10 | [#PaulFury](http://twitter.com/search?q=%23PaulFury) | N/A |
-| 11 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 12 | [James Bond](http://twitter.com/search?q=James+Bond) | N/A |
-| 13 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
-| 14 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
-| 15 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
-| 16 | [Shame](http://twitter.com/search?q=Shame) | N/A |
-| 17 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 18 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
+| 10 | [James Bond](http://twitter.com/search?q=James+Bond) | N/A |
+| 11 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
+| 12 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 13 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
+| 14 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
+| 15 | [Shame](http://twitter.com/search?q=Shame) | N/A |
+| 16 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 17 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 18 | [#CarabaoCupFinal](http://twitter.com/search?q=%23CarabaoCupFinal) | N/A |
 | 19 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
 | 20 | [Sian](http://twitter.com/search?q=Sian) | N/A |
 | 21 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
@@ -44,15 +44,15 @@ This is top 50 for Norway
 | 27 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
 | 28 | [Italy](http://twitter.com/search?q=Italy) | N/A |
 | 29 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 30 | [Emerson](http://twitter.com/search?q=Emerson) | Emerson is a surname of English origin. It is derived from the Old English personal name Emery, which means “brave” or “powerful.” The name was popularized by Ralph Waldo Emerson, an American essayist, lecturer, and poet who lived in the 19th century. |
-| 31 | [Peterson](http://twitter.com/search?q=Peterson) | N/A |
-| 32 | [Skipp](http://twitter.com/search?q=Skipp) | Skipp is a slang term used to refer to someone who is in charge or in control of a situation. It can also be used to refer to someone who is a leader or has authority. In English, it can be used as an informal way of saying "boss" or "leader". |
-| 33 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 34 | [Kragerø](http://twitter.com/search?q=Krager%c3%b8) | N/A |
-| 35 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
-| 36 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 37 | [Tate](http://twitter.com/search?q=Tate) | N/A |
-| 38 | [Bergen](http://twitter.com/search?q=Bergen) | N/A |
+| 30 | [Fury](http://twitter.com/search?q=Fury) | N/A |
+| 31 | [Emerson](http://twitter.com/search?q=Emerson) | Emerson is a surname of English origin. It is derived from the Old English personal name Emery, which means “brave” or “powerful.” The name was popularized by Ralph Waldo Emerson, an American essayist, lecturer, and poet who lived in the 19th century. |
+| 32 | [Peterson](http://twitter.com/search?q=Peterson) | N/A |
+| 33 | [Skipp](http://twitter.com/search?q=Skipp) | Skipp is a slang term used to refer to someone who is in charge or in control of a situation. It can also be used to refer to someone who is a leader or has authority. In English, it can be used as an informal way of saying "boss" or "leader". |
+| 34 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 35 | [kragerø](http://twitter.com/search?q=krager%c3%b8) | N/A |
+| 36 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
+| 37 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 38 | [Tate](http://twitter.com/search?q=Tate) | N/A |
 | 39 | [Man United](http://twitter.com/search?q=Man+United) | Man United is a nickname for Manchester United Football Club, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
 | 40 | [feil](http://twitter.com/search?q=feil) | N/A |
 | 41 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |

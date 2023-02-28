@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Diyarbakır
 
-📆 Last Updated: `2023-02-28 01:45:15 UTC`
+📆 Last Updated: `2023-02-28 02:41:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,55 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MultiAI](http://twitter.com/search?q=%23MultiAI) | N/A |
-| 2 | [#izmirdeprem](http://twitter.com/search?q=%23izmirdeprem) | N/A |
-| 3 | [#28Şubat](http://twitter.com/search?q=%2328%c5%9eubat) | N/A |
-| 4 | [#helaletmiyorum](http://twitter.com/search?q=%23helaletmiyorum) | N/A |
-| 5 | [Çocuklara](http://twitter.com/search?q=%c3%87ocuklara) | N/A |
-| 6 | [Mansur Yavaş](http://twitter.com/search?q=Mansur+Yava%c5%9f) | N/A |
-| 7 | [HAKKIM HELAL OLSUN REİS](http://twitter.com/search?q=HAKKIM+HELAL+OLSUN+RE%c4%b0S) | N/A |
-| 8 | [HARAM OLSUN](http://twitter.com/search?q=HARAM+OLSUN) | N/A |
-| 9 | [Ezan](http://twitter.com/search?q=Ezan) | N/A |
-| 10 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 11 | [Gülşah](http://twitter.com/search?q=G%c3%bcl%c5%9fah) | N/A |
-| 12 | [Dayına](http://twitter.com/search?q=Day%c4%b1na) | N/A |
-| 13 | [Dayıyı](http://twitter.com/search?q=Day%c4%b1y%c4%b1) | N/A |
-| 14 | [Donsuz](http://twitter.com/search?q=Donsuz) | N/A |
-| 15 | [TGRT](http://twitter.com/search?q=TGRT) | N/A |
-| 16 | [Helallik](http://twitter.com/search?q=Helallik) | N/A |
-| 17 | [Faruk Aksoy](http://twitter.com/search?q=Faruk+Aksoy) | N/A |
-| 18 | [Çevir](http://twitter.com/search?q=%c3%87evir) | N/A |
-| 19 | [Simge](http://twitter.com/search?q=Simge) | N/A |
-| 20 | [Melih Gökçek](http://twitter.com/search?q=Melih+G%c3%b6k%c3%a7ek) | N/A |
-| 21 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
-| 22 | [Erbakan](http://twitter.com/search?q=Erbakan) | N/A |
-| 23 | [Hayrettin Güngör](http://twitter.com/search?q=Hayrettin+G%c3%bcng%c3%b6r) | N/A |
-| 24 | [PrimNerde SedatOrda](http://twitter.com/search?q=PrimNerde+SedatOrda) | N/A |
-| 25 | [Portakal](http://twitter.com/search?q=Portakal) | N/A |
-| 26 | [Parayı](http://twitter.com/search?q=Paray%c4%b1) | N/A |
-| 27 | [Adıyamanlı](http://twitter.com/search?q=Ad%c4%b1yamanl%c4%b1) | N/A |
-| 28 | [#EmeklilikteYaşaTakılanlar](http://twitter.com/search?q=%23EmeklilikteYa%c5%9faTak%c4%b1lanlar) | #EmeklilikteYaşaTakılanlar is a hashtag used in Turkey to refer to people who have retired and are living on their pension. In English, it translates to "Retirees Living on Pension". |
-| 29 | [#mandalradyo](http://twitter.com/search?q=%23mandalradyo) | N/A |
-| 30 | [#mehmetakifersoy](http://twitter.com/search?q=%23mehmetakifersoy) | N/A |
-| 31 | [#denizgezmis](http://twitter.com/search?q=%23denizgezmis) | N/A |
-| 32 | [#StajyerMeclisiBekliyor](http://twitter.com/search?q=%23StajyerMeclisiBekliyor) | N/A |
-| 33 | [#Ömer](http://twitter.com/search?q=%23%c3%96mer) | #Ömer is a hashtag used to refer to Ömer, a Turkish given name. It is derived from the Arabic name Omar and means "long-lived" or "flourishing". |
-| 34 | [#YARGILANACAKSINIZ](http://twitter.com/search?q=%23YARGILANACAKSINIZ) | N/A |
-| 35 | [#13marttayüzyüze](http://twitter.com/search?q=%2313marttay%c3%bczy%c3%bcze) | N/A |
-| 36 | [#YaşarKemal](http://twitter.com/search?q=%23Ya%c5%9farKemal) | N/A |
-| 37 | [#Elbistan82PlakaOlsun](http://twitter.com/search?q=%23Elbistan82PlakaOlsun) | N/A |
-| 38 | [#GalatasaraySK](http://twitter.com/search?q=%23GalatasaraySK) | N/A |
-| 39 | [#istifaetulan](http://twitter.com/search?q=%23istifaetulan) | N/A |
-| 40 | [#CbSeçime100Bin](http://twitter.com/search?q=%23CbSe%c3%a7ime100Bin) | N/A |
-| 41 | [#survivor2023](http://twitter.com/search?q=%23survivor2023) | N/A |
-| 42 | [#TarafsızBölge](http://twitter.com/search?q=%23Tarafs%c4%b1zB%c3%b6lge) | N/A |
-| 43 | [#canlıvarkenyıkımyapılamaz](http://twitter.com/search?q=%23canl%c4%b1varkeny%c4%b1k%c4%b1myap%c4%b1lamaz) | N/A |
-| 44 | [#VedaMektubu](http://twitter.com/search?q=%23VedaMektubu) | N/A |
-| 45 | [#BUSD](http://twitter.com/search?q=%23BUSD) | N/A |
-| 46 | [#Coinbase](http://twitter.com/search?q=%23Coinbase) | N/A |
+| 1 | [#helaletmiyorum](http://twitter.com/search?q=%23helaletmiyorum) | N/A |
+| 2 | [Kızılay](http://twitter.com/search?q=K%c4%b1z%c4%b1lay) | Kızılay is the Turkish Red Crescent, a humanitarian organization that provides aid and assistance to those in need. The name Kızılay comes from the Ottoman Empire era, when it was known as the Imperial Ottoman Society of the Red Crescent. In English, Kızılay translates to "Red Crescent". |
+| 3 | [Kızılay](http://twitter.com/search?q=K%c4%b1z%c4%b1lay) | Kızılay is the Turkish Red Crescent, a humanitarian organization that provides aid and assistance to those in need. The name Kızılay comes from the Ottoman Empire era, when it was known as the Imperial Ottoman Society of the Red Crescent. In English, Kızılay translates to "Red Crescent". |
+| 4 | [Beşiktaş](http://twitter.com/search?q=Be%c5%9fikta%c5%9f) | Beşiktaş is a Turkish sports club based in Istanbul, Turkey. The name Beşiktaş translates to "cradle stone" in English. The club is best known for its football team, which competes in the Turkish Super League and is one of the most successful clubs in Turkey. |
+| 5 | [#izmirdeprem](http://twitter.com/search?q=%23izmirdeprem) | N/A |
+| 6 | [#NecmettinErbakan](http://twitter.com/search?q=%23NecmettinErbakan) | N/A |
+| 7 | [#MultiAI](http://twitter.com/search?q=%23MultiAI) | N/A |
+| 8 | [Fenerbahçe](http://twitter.com/search?q=Fenerbah%c3%a7e) | Fenerbahçe is a Turkish sports club based in Istanbul. The name Fenerbahçe translates to "Lighthouse Garden" in English. The club is best known for its football team, which competes in the Turkish Super Lig and is one of the most successful teams in Turkey. |
+| 9 | [HAKKIM HELAL OLSUN REİS](http://twitter.com/search?q=HAKKIM+HELAL+OLSUN+RE%c4%b0S) | N/A |
+| 10 | [Helallik](http://twitter.com/search?q=Helallik) | N/A |
+| 11 | [Yalnız Değilsiniz Yanınızdayız](http://twitter.com/search?q=Yaln%c4%b1z+De%c4%9filsiniz+Yan%c4%b1n%c4%b1zday%c4%b1z) | N/A |
+| 12 | [bilen herkes kazanır](http://twitter.com/search?q=bilen+herkes+kazan%c4%b1r) | N/A |
+| 13 | [binakimlik sertifikası](http://twitter.com/search?q=binakimlik+sertifikas%c4%b1) | N/A |
+| 14 | [HARAM OLSUN](http://twitter.com/search?q=HARAM+OLSUN) | N/A |
+| 15 | [çşbsadecekpss](http://twitter.com/search?q=%c3%a7%c5%9fbsadecekpss) | N/A |
+| 16 | [Aziz Yıldırım](http://twitter.com/search?q=Aziz+Y%c4%b1ld%c4%b1r%c4%b1m) | Aziz Yıldırım is a Turkish name, with Aziz meaning "honored" and Yıldırım meaning "thunder". In English, the name would translate to "Honored Thunder". |
+| 17 | [Ahbap](http://twitter.com/search?q=Ahbap) | N/A |
+| 18 | [Haluk Levent](http://twitter.com/search?q=Haluk+Levent) | N/A |
+| 19 | [Çocuklara](http://twitter.com/search?q=%c3%87ocuklara) | N/A |
+| 20 | [Vefatının 12](http://twitter.com/search?q=Vefat%c4%b1n%c4%b1n+12) | N/A |
+| 21 | [issen](http://twitter.com/search?q=issen) | N/A |
+| 22 | [Kulüpler Birliği](http://twitter.com/search?q=Kul%c3%bcpler+Birli%c4%9fi) | N/A |
+| 23 | [Devlet](http://twitter.com/search?q=Devlet) | N/A |
+| 24 | [Pervin Buldan](http://twitter.com/search?q=Pervin+Buldan) | N/A |
+| 25 | [Türkiye İşçi Partisi](http://twitter.com/search?q=T%c3%bcrkiye+%c4%b0%c5%9f%c3%a7i+Partisi) | N/A |
+| 26 | [Milli Görüş](http://twitter.com/search?q=Milli+G%c3%b6r%c3%bc%c5%9f) | N/A |
+| 27 | [Kayserispor](http://twitter.com/search?q=Kayserispor) | N/A |
+| 28 | [Paralı](http://twitter.com/search?q=Paral%c4%b1) | N/A |
+| 29 | [Çarşı](http://twitter.com/search?q=%c3%87ar%c5%9f%c4%b1) | N/A |
+| 30 | [Taraftar](http://twitter.com/search?q=Taraftar) | N/A |
+| 31 | [Barış](http://twitter.com/search?q=Bar%c4%b1%c5%9f) | N/A |
+| 32 | [Gülşah](http://twitter.com/search?q=G%c3%bcl%c5%9fah) | N/A |
+| 33 | [Ezan](http://twitter.com/search?q=Ezan) | N/A |
+| 34 | [Kayapınar](http://twitter.com/search?q=Kayap%c4%b1nar) | N/A |
+| 35 | [Mansur Yavaş](http://twitter.com/search?q=Mansur+Yava%c5%9f) | N/A |
+| 36 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 37 | [Bakarız](http://twitter.com/search?q=Bakar%c4%b1z) | N/A |
+| 38 | [TGRT](http://twitter.com/search?q=TGRT) | N/A |
+| 39 | [Vira](http://twitter.com/search?q=Vira) | N/A |
+| 40 | [Çevir](http://twitter.com/search?q=%c3%87evir) | N/A |
+| 41 | [Melih Gökçek](http://twitter.com/search?q=Melih+G%c3%b6k%c3%a7ek) | N/A |
+| 42 | [Faruk Aksoy](http://twitter.com/search?q=Faruk+Aksoy) | N/A |
+| 43 | [Donunu](http://twitter.com/search?q=Donunu) | N/A |
+| 44 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 45 | [Kalbimin](http://twitter.com/search?q=Kalbimin) | N/A |
+| 46 | [Ahmet Hakan](http://twitter.com/search?q=Ahmet+Hakan) | N/A |
+| 47 | [Zübük](http://twitter.com/search?q=Z%c3%bcb%c3%bck) | N/A |
+| 48 | [Simge](http://twitter.com/search?q=Simge) | N/A |
+| 49 | [Sadettin Saran](http://twitter.com/search?q=Sadettin+Saran) | N/A |
 
 
 

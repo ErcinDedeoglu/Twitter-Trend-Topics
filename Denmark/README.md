@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-02-28 01:45:27 UTC`
+📆 Last Updated: `2023-02-28 02:41:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,24 +25,24 @@ This is top 50 for Denmark
 | 8 | [Midtjylland](http://twitter.com/search?q=Midtjylland) | N/A |
 | 9 | [ashour](http://twitter.com/search?q=ashour) | N/A |
 | 10 | [Greve](http://twitter.com/search?q=Greve) | N/A |
-| 11 | [Hedlund](http://twitter.com/search?q=Hedlund) | N/A |
+| 11 | [hedlund](http://twitter.com/search?q=hedlund) | N/A |
 | 12 | [Bell](http://twitter.com/search?q=Bell) | N/A |
 | 13 | [#agfsif](http://twitter.com/search?q=%23agfsif) | N/A |
 | 14 | [Herning](http://twitter.com/search?q=Herning) | N/A |
 | 15 | [redder](http://twitter.com/search?q=redder) | N/A |
 | 16 | [Evjen](http://twitter.com/search?q=Evjen) | N/A |
-| 17 | [St. Bededag](http://twitter.com/search?q=St.+Bededag) | N/A |
-| 18 | [Blas](http://twitter.com/search?q=Blas) | N/A |
-| 19 | [harald nyborg](http://twitter.com/search?q=harald+nyborg) | N/A |
-| 20 | [duelund](http://twitter.com/search?q=duelund) | N/A |
-| 21 | [Randers](http://twitter.com/search?q=Randers) | N/A |
+| 17 | [Blas](http://twitter.com/search?q=Blas) | N/A |
+| 18 | [harald nyborg](http://twitter.com/search?q=harald+nyborg) | N/A |
+| 19 | [duelund](http://twitter.com/search?q=duelund) | N/A |
+| 20 | [Randers](http://twitter.com/search?q=Randers) | N/A |
+| 21 | [St. Bededag](http://twitter.com/search?q=St.+Bededag) | N/A |
 | 22 | [Vallys](http://twitter.com/search?q=Vallys) | N/A |
-| 23 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 24 | [jelert](http://twitter.com/search?q=jelert) | N/A |
-| 25 | [Winther](http://twitter.com/search?q=Winther) | N/A |
-| 26 | [Jake](http://twitter.com/search?q=Jake) | N/A |
+| 23 | [jelert](http://twitter.com/search?q=jelert) | N/A |
+| 24 | [winther](http://twitter.com/search?q=winther) | N/A |
+| 25 | [Jake](http://twitter.com/search?q=Jake) | N/A |
+| 26 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 27 | [helsingør](http://twitter.com/search?q=helsing%c3%b8r) | N/A |
-| 28 | [Grundloven](http://twitter.com/search?q=Grundloven) | N/A |
+| 28 | [grundloven](http://twitter.com/search?q=grundloven) | N/A |
 | 29 | [Parken](http://twitter.com/search?q=Parken) | N/A |
 | 30 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
 | 31 | [Indien](http://twitter.com/search?q=Indien) | N/A |
@@ -57,14 +57,14 @@ This is top 50 for Denmark
 | 40 | [Silvan](http://twitter.com/search?q=Silvan) | N/A |
 | 41 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
 | 42 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 43 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
-| 44 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
-| 45 | [Vejle](http://twitter.com/search?q=Vejle) | N/A |
-| 46 | [Sousa](http://twitter.com/search?q=Sousa) | N/A |
-| 47 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 48 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
-| 49 | [Esbjerg](http://twitter.com/search?q=Esbjerg) | N/A |
-| 50 | [Fantastic](http://twitter.com/search?q=Fantastic) | N/A |
+| 43 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 44 | [Jack](http://twitter.com/search?q=Jack) | N/A |
+| 45 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 46 | [vejle](http://twitter.com/search?q=vejle) | N/A |
+| 47 | [Sousa](http://twitter.com/search?q=Sousa) | N/A |
+| 48 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 49 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
+| 50 | [Esbjerg](http://twitter.com/search?q=Esbjerg) | N/A |
 
 
 
