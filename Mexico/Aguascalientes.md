@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Aguascalientes
 
-📆 Last Updated: `2023-02-28 15:16:36 UTC`
+📆 Last Updated: `2023-02-28 16:16:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,42 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Nuevo León](http://twitter.com/search?q=Nuevo+Le%c3%b3n) | N/A |
-| 2 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
-| 3 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 4 | [#Kornelfo](http://twitter.com/search?q=%23Kornelfo) | N/A |
-| 5 | [#JISOOxDiorAW23](http://twitter.com/search?q=%23JISOOxDiorAW23) | N/A |
-| 6 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 7 | [Monterrey](http://twitter.com/search?q=Monterrey) | N/A |
-| 8 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
-| 9 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
-| 10 | [#ElINENoSeToca](http://twitter.com/search?q=%23ElINENoSeToca) | N/A |
-| 11 | [ASTRO](http://twitter.com/search?q=ASTRO) | N/A |
-| 12 | [Ana Gabriel](http://twitter.com/search?q=Ana+Gabriel) | N/A |
-| 13 | [Zócalo](http://twitter.com/search?q=Z%c3%b3calo) | N/A |
-| 14 | [#caminitoalaescuela](http://twitter.com/search?q=%23caminitoalaescuela) | N/A |
-| 15 | [mati eres fortaleza](http://twitter.com/search?q=mati+eres+fortaleza) | N/A |
-| 16 | [dinamarca](http://twitter.com/search?q=dinamarca) | N/A |
-| 17 | [Duvan](http://twitter.com/search?q=Duvan) | N/A |
-| 18 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 19 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
-| 20 | [Samuel](http://twitter.com/search?q=Samuel) | N/A |
-| 21 | [Colbert](http://twitter.com/search?q=Colbert) | N/A |
-| 22 | [Excelente Martes](http://twitter.com/search?q=Excelente+Martes) | N/A |
-| 23 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
-| 24 | [Nuevo Laredo](http://twitter.com/search?q=Nuevo+Laredo) | N/A |
-| 25 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 26 | [Luzu](http://twitter.com/search?q=Luzu) | Luzu is a Spanish word that means light. It is often used to refer to a bright, cheerful, and optimistic attitude. |
-| 27 | [Germán](http://twitter.com/search?q=Germ%c3%a1n) | Germán is a Spanish and Portuguese name derived from the Latin Germanus, meaning "brother". It is also a Germanic given name, derived from the Germanic element ger, meaning "spear". |
-| 28 | [LATE LATE SHOW WITH TXT](http://twitter.com/search?q=LATE+LATE+SHOW+WITH+TXT) | N/A |
-| 29 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 30 | [Tres Marías](http://twitter.com/search?q=Tres+Mar%c3%adas) | N/A |
-| 31 | [Hugo López](http://twitter.com/search?q=Hugo+L%c3%b3pez) | N/A |
-| 32 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
-| 33 | [Rayados](http://twitter.com/search?q=Rayados) | Rayados is the nickname of the Mexican soccer team Club de Fútbol Monterrey, which is based in Monterrey, Mexico. The name Rayados translates to "Striped Ones" in English, referring to the team's striped jerseys. |
-| 34 | [Enfermedades Raras](http://twitter.com/search?q=Enfermedades+Raras) | N/A |
-| 35 | [POLLY PASTEL BY BUILD](http://twitter.com/search?q=POLLY+PASTEL+BY+BUILD) | N/A |
-| 36 | [Aroha](http://twitter.com/search?q=Aroha) | N/A |
-| 37 | [Fernan](http://twitter.com/search?q=Fernan) | N/A |
-| 38 | [Di Yorio](http://twitter.com/search?q=Di+Yorio) | N/A |
-| 39 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
-| 40 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 41 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
-| 42 | [Minhyuk](http://twitter.com/search?q=Minhyuk) | N/A |
-| 43 | [Wactor](http://twitter.com/search?q=Wactor) | N/A |
-| 44 | [Maxi](http://twitter.com/search?q=Maxi) | Maxi is a term used to describe a long, loose-fitting dress or skirt that reaches the ankles. It is typically made of lightweight fabrics such as cotton or linen and is often worn in warm weather. The term can also refer to a style of dress that is shorter than a maxi dress but still reaches the ankles. |
-| 45 | [andrada](http://twitter.com/search?q=andrada) | N/A |
-| 46 | [Amouranth](http://twitter.com/search?q=Amouranth) | N/A |
-| 47 | [Martes 28](http://twitter.com/search?q=Martes+28) | N/A |
-| 48 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
-| 49 | [Coscu](http://twitter.com/search?q=Coscu) | N/A |
+| 1 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 2 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 3 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
+| 4 | [Monterrey](http://twitter.com/search?q=Monterrey) | N/A |
+| 5 | [#PoderosoConCalor](http://twitter.com/search?q=%23PoderosoConCalor) | N/A |
+| 6 | [#Kornelfo](http://twitter.com/search?q=%23Kornelfo) | N/A |
+| 7 | [#JISOOxDiorAW23](http://twitter.com/search?q=%23JISOOxDiorAW23) | N/A |
+| 8 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
+| 9 | [ASTRO](http://twitter.com/search?q=ASTRO) | N/A |
+| 10 | [Samuel](http://twitter.com/search?q=Samuel) | N/A |
+| 11 | [#HAPPY_WONHO_DAY](http://twitter.com/search?q=%23HAPPY_WONHO_DAY) | N/A |
+| 12 | [Colbert](http://twitter.com/search?q=Colbert) | N/A |
+| 13 | [Enfermedades Raras](http://twitter.com/search?q=Enfermedades+Raras) | N/A |
+| 14 | [Santa Catarina](http://twitter.com/search?q=Santa+Catarina) | N/A |
+| 15 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 16 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
+| 17 | [N.L.](http://twitter.com/search?q=N.L.) | N/A |
+| 18 | [Martes 28](http://twitter.com/search?q=Martes+28) | N/A |
+| 19 | [Washington](http://twitter.com/search?q=Washington) | N/A |
+| 20 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
+| 21 | [Día Mundial](http://twitter.com/search?q=D%c3%ada+Mundial) | N/A |
+| 22 | [Squid](http://twitter.com/search?q=Squid) | N/A |
+| 23 | [Peru](http://twitter.com/search?q=Peru) | Peru is a country located in western South America. It is bordered by Ecuador, Colombia, Brazil, Bolivia, and Chile. The official language of Peru is Spanish and its capital city is Lima. The name Peru comes from the Quechua word “piruw” which means “land of abundance”. |
+| 24 | [Texas](http://twitter.com/search?q=Texas) | N/A |
+| 25 | [Aluxe](http://twitter.com/search?q=Aluxe) | N/A |
+| 26 | [Quedaste](http://twitter.com/search?q=Quedaste) | N/A |
+| 27 | [Alito](http://twitter.com/search?q=Alito) | Alito is a Spanish name meaning "little wing". It is also a surname. |
+| 28 | [#LenguaMañanera](http://twitter.com/search?q=%23LenguaMa%c3%b1anera) | N/A |
+| 29 | [#caminitoalaescuela](http://twitter.com/search?q=%23caminitoalaescuela) | N/A |
+| 30 | [#AMLOBurlaMundial](http://twitter.com/search?q=%23AMLOBurlaMundial) | N/A |
+| 31 | [#BuenMartes](http://twitter.com/search?q=%23BuenMartes) | N/A |
+| 32 | [#AmloEstaDesesperado](http://twitter.com/search?q=%23AmloEstaDesesperado) | N/A |
+| 33 | [#ConferenciaPresidente](http://twitter.com/search?q=%23ConferenciaPresidente) | N/A |
+| 34 | [#COVID19](http://twitter.com/search?q=%23COVID19) | N/A |
+| 35 | [#AMLOverguenzamundial](http://twitter.com/search?q=%23AMLOverguenzamundial) | N/A |
+| 36 | [#NuevoLaredo](http://twitter.com/search?q=%23NuevoLaredo) | N/A |
 
 
 

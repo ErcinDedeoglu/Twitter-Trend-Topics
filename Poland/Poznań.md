@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Poznań
 
-📆 Last Updated: `2023-02-28 15:16:46 UTC`
+📆 Last Updated: `2023-02-28 16:16:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,51 +19,50 @@ This is top 50 for [Poland](</Poland>)
 | 2 | [#LZGLEG](http://twitter.com/search?q=%23LZGLEG) | N/A |
 | 3 | [#krwawaropa](http://twitter.com/search?q=%23krwawaropa) | N/A |
 | 4 | [Tusk](http://twitter.com/search?q=Tusk) | N/A |
-| 5 | [#TuJestPrzyszłość](http://twitter.com/search?q=%23TuJestPrzysz%c5%82o%c5%9b%c4%87) | N/A |
-| 6 | [Orlen](http://twitter.com/search?q=Orlen) | N/A |
+| 5 | [Orlen](http://twitter.com/search?q=Orlen) | N/A |
+| 6 | [#TuJestPrzyszłość](http://twitter.com/search?q=%23TuJestPrzysz%c5%82o%c5%9b%c4%87) | N/A |
 | 7 | [Marcin Oleksy](http://twitter.com/search?q=Marcin+Oleksy) | N/A |
 | 8 | [Pabianicach](http://twitter.com/search?q=Pabianicach) | N/A |
-| 9 | [zssw-30](http://twitter.com/search?q=zssw-30) | N/A |
-| 10 | [Razem](http://twitter.com/search?q=Razem) | N/A |
-| 11 | [Auchan](http://twitter.com/search?q=Auchan) | N/A |
-| 12 | [Mieszkanie](http://twitter.com/search?q=Mieszkanie) | N/A |
+| 9 | [Razem](http://twitter.com/search?q=Razem) | N/A |
+| 10 | [Auchan](http://twitter.com/search?q=Auchan) | N/A |
+| 11 | [Mieszkanie](http://twitter.com/search?q=Mieszkanie) | N/A |
+| 12 | [ASTRO](http://twitter.com/search?q=ASTRO) | N/A |
 | 13 | [Lewicy](http://twitter.com/search?q=Lewicy) | N/A |
-| 14 | [Eurowizji](http://twitter.com/search?q=Eurowizji) | N/A |
-| 15 | [Borsuka](http://twitter.com/search?q=Borsuka) | N/A |
+| 14 | [Obajtka](http://twitter.com/search?q=Obajtka) | N/A |
+| 15 | [Eurowizji](http://twitter.com/search?q=Eurowizji) | N/A |
 | 16 | [Blanka](http://twitter.com/search?q=Blanka) | N/A |
-| 17 | [Obajtka](http://twitter.com/search?q=Obajtka) | N/A |
+| 17 | [mObywatel](http://twitter.com/search?q=mObywatel) | N/A |
 | 18 | [Kredyt 0%](http://twitter.com/search?q=Kredyt+0%25) | N/A |
-| 19 | [mObywatel](http://twitter.com/search?q=mObywatel) | N/A |
-| 20 | [Tłumy](http://twitter.com/search?q=T%c5%82umy) | N/A |
-| 21 | [ASTRO](http://twitter.com/search?q=ASTRO) | N/A |
-| 22 | [Zielonej Górze](http://twitter.com/search?q=Zielonej+G%c3%b3rze) | N/A |
-| 23 | [Kaziu](http://twitter.com/search?q=Kaziu) | N/A |
-| 24 | [Pinto](http://twitter.com/search?q=Pinto) | N/A |
-| 25 | [Jann](http://twitter.com/search?q=Jann) | N/A |
-| 26 | [karpińskiego](http://twitter.com/search?q=karpi%c5%84skiego) | N/A |
-| 27 | [seicento](http://twitter.com/search?q=seicento) | N/A |
-| 28 | [Bochenek](http://twitter.com/search?q=Bochenek) | N/A |
-| 29 | [zabójstwo](http://twitter.com/search?q=zab%c3%b3jstwo) | N/A |
+| 19 | [Tłumy](http://twitter.com/search?q=T%c5%82umy) | N/A |
+| 20 | [Zielonej Górze](http://twitter.com/search?q=Zielonej+G%c3%b3rze) | N/A |
+| 21 | [Kaziu](http://twitter.com/search?q=Kaziu) | N/A |
+| 22 | [Pinto](http://twitter.com/search?q=Pinto) | N/A |
+| 23 | [Jann](http://twitter.com/search?q=Jann) | N/A |
+| 24 | [ZSSW-30](http://twitter.com/search?q=ZSSW-30) | N/A |
+| 25 | [Zandberg](http://twitter.com/search?q=Zandberg) | N/A |
+| 26 | [seicento](http://twitter.com/search?q=seicento) | N/A |
+| 27 | [MAM PRZYPAŁ](http://twitter.com/search?q=MAM+PRZYPA%c5%81) | N/A |
+| 28 | [zabójstwo](http://twitter.com/search?q=zab%c3%b3jstwo) | N/A |
+| 29 | [Karpiński](http://twitter.com/search?q=Karpi%c5%84ski) | N/A |
 | 30 | [Pcimia](http://twitter.com/search?q=Pcimia) | N/A |
-| 31 | [Zandberg](http://twitter.com/search?q=Zandberg) | N/A |
-| 32 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 33 | [bayer full](http://twitter.com/search?q=bayer+full) | N/A |
-| 34 | [MAM PRZYPAŁ](http://twitter.com/search?q=MAM+PRZYPA%c5%81) | N/A |
-| 35 | [Weszło](http://twitter.com/search?q=Wesz%c5%82o) | N/A |
-| 36 | [Kraba](http://twitter.com/search?q=Kraba) | N/A |
+| 31 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 32 | [Bochenek](http://twitter.com/search?q=Bochenek) | N/A |
+| 33 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 34 | [Polskie Szwalnie](http://twitter.com/search?q=Polskie+Szwalnie) | N/A |
+| 35 | [Sławka](http://twitter.com/search?q=S%c5%82awka) | N/A |
+| 36 | [Lechia Zielona Góra](http://twitter.com/search?q=Lechia+Zielona+G%c3%b3ra) | N/A |
 | 37 | [Sławek](http://twitter.com/search?q=S%c5%82awek) | N/A |
-| 38 | [Lechia Zielona Góra](http://twitter.com/search?q=Lechia+Zielona+G%c3%b3ra) | N/A |
-| 39 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 40 | [Sławka](http://twitter.com/search?q=S%c5%82awka) | N/A |
-| 41 | [kropiwnicki](http://twitter.com/search?q=kropiwnicki) | N/A |
-| 42 | [Składać](http://twitter.com/search?q=Sk%c5%82ada%c4%87) | N/A |
-| 43 | [Maliszewski](http://twitter.com/search?q=Maliszewski) | N/A |
-| 44 | [Mt 6](http://twitter.com/search?q=Mt+6) | N/A |
-| 45 | [WIBOR](http://twitter.com/search?q=WIBOR) | N/A |
-| 46 | [Angoli](http://twitter.com/search?q=Angoli) | N/A |
-| 47 | [Światowy Dzień Chorób Rzadkich](http://twitter.com/search?q=%c5%9awiatowy+Dzie%c5%84+Chor%c3%b3b+Rzadkich) | N/A |
-| 48 | [PKB Polski](http://twitter.com/search?q=PKB+Polski) | N/A |
-| 49 | [Hucie Pieniackiej](http://twitter.com/search?q=Hucie+Pieniackiej) | N/A |
+| 38 | [Angoli](http://twitter.com/search?q=Angoli) | N/A |
+| 39 | [WIBOR](http://twitter.com/search?q=WIBOR) | N/A |
+| 40 | [Hucie Pieniackiej](http://twitter.com/search?q=Hucie+Pieniackiej) | N/A |
+| 41 | [Maliszewski](http://twitter.com/search?q=Maliszewski) | N/A |
+| 42 | [Weszło](http://twitter.com/search?q=Wesz%c5%82o) | N/A |
+| 43 | [Kropiwnicki](http://twitter.com/search?q=Kropiwnicki) | N/A |
+| 44 | [Bayer Full](http://twitter.com/search?q=Bayer+Full) | N/A |
+| 45 | [Amber Gold](http://twitter.com/search?q=Amber+Gold) | N/A |
+| 46 | [Państwo](http://twitter.com/search?q=Pa%c5%84stwo) | N/A |
+| 47 | [Składać](http://twitter.com/search?q=Sk%c5%82ada%c4%87) | N/A |
+| 48 | [Niesiołowski](http://twitter.com/search?q=Niesio%c5%82owski) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Johor Bahru
 
-📆 Last Updated: `2023-02-28 15:17:03 UTC`
+📆 Last Updated: `2023-02-28 16:16:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Malaysia](</Malaysia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 2 | [#JISOOxDiorAW23](http://twitter.com/search?q=%23JISOOxDiorAW23) | N/A |
-| 3 | [#ROVER_MoodSampler1](http://twitter.com/search?q=%23ROVER_MoodSampler1) | N/A |
+| 2 | [#ROVER_MoodSampler1](http://twitter.com/search?q=%23ROVER_MoodSampler1) | N/A |
+| 3 | [#JISOOxDiorAW23](http://twitter.com/search?q=%23JISOOxDiorAW23) | N/A |
 | 4 | [ROVER IS COMING](http://twitter.com/search?q=ROVER+IS+COMING) | N/A |
 | 5 | [Toby](http://twitter.com/search?q=Toby) | N/A |
 | 6 | [#toasteed](http://twitter.com/search?q=%23toasteed) | N/A |
-| 7 | [#NeverLetMeGoSeriesFinalEP](http://twitter.com/search?q=%23NeverLetMeGoSeriesFinalEP) | N/A |
-| 8 | [O HIGHLIGHT MEDLEY](http://twitter.com/search?q=O+HIGHLIGHT+MEDLEY) | N/A |
-| 9 | [sunscreen - 3w](http://twitter.com/search?q=sunscreen+-+3w) | N/A |
-| 10 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 11 | [bright in malaysia](http://twitter.com/search?q=bright+in+malaysia) | N/A |
-| 12 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
+| 7 | [#KAI_Rover](http://twitter.com/search?q=%23KAI_Rover) | N/A |
+| 8 | [Wonho](http://twitter.com/search?q=Wonho) | N/A |
+| 9 | [O HIGHLIGHT MEDLEY](http://twitter.com/search?q=O+HIGHLIGHT+MEDLEY) | N/A |
+| 10 | [Sunscreen - 3W](http://twitter.com/search?q=Sunscreen+-+3W) | N/A |
+| 11 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 12 | [bright in malaysia](http://twitter.com/search?q=bright+in+malaysia) | N/A |
 | 13 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
-| 14 | [Wonho](http://twitter.com/search?q=Wonho) | N/A |
+| 14 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
 | 15 | [Cleanser](http://twitter.com/search?q=Cleanser) | N/A |
 | 16 | [The 10](http://twitter.com/search?q=The+10) | N/A |
 | 17 | [Terry](http://twitter.com/search?q=Terry) | N/A |
 | 18 | [EXO SC](http://twitter.com/search?q=EXO+SC) | N/A |
 | 19 | [Bennett](http://twitter.com/search?q=Bennett) | N/A |
 | 20 | [Mascara - Maybelline](http://twitter.com/search?q=Mascara+-+Maybelline) | N/A |
-| 21 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
-| 22 | [Sehun](http://twitter.com/search?q=Sehun) | N/A |
-| 23 | [Chanyeol](http://twitter.com/search?q=Chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
-| 24 | [cost utilization](http://twitter.com/search?q=cost+utilization) | N/A |
-| 25 | [POLLY PASTEL BY BUILD](http://twitter.com/search?q=POLLY+PASTEL+BY+BUILD) | N/A |
-| 26 | [The 3](http://twitter.com/search?q=The+3) | N/A |
-| 27 | [have to know](http://twitter.com/search?q=have+to+know) | N/A |
-| 28 | [Sunblock - 3w](http://twitter.com/search?q=Sunblock+-+3w) | N/A |
-| 29 | [Fantagio](http://twitter.com/search?q=Fantagio) | N/A |
-| 30 | [Eyeliner - Maybelline](http://twitter.com/search?q=Eyeliner+-+Maybelline) | N/A |
-| 31 | [Benny](http://twitter.com/search?q=Benny) | N/A |
-| 32 | [Concealer - Maybelline](http://twitter.com/search?q=Concealer+-+Maybelline) | N/A |
-| 33 | [PH SCAMMER](http://twitter.com/search?q=PH+SCAMMER) | N/A |
-| 34 | [LATE LATE SHOW WITH TXT](http://twitter.com/search?q=LATE+LATE+SHOW+WITH+TXT) | N/A |
-| 35 | [Blusher - In2it](http://twitter.com/search?q=Blusher+-+In2it) | N/A |
-| 36 | [KAI Rover Teaser Images 1](http://twitter.com/search?q=KAI+Rover+Teaser+Images+1) | N/A |
-| 37 | [Circle 2](http://twitter.com/search?q=Circle+2) | N/A |
-| 38 | [traderdao](http://twitter.com/search?q=traderdao) | N/A |
-| 39 | [eric chou](http://twitter.com/search?q=eric+chou) | N/A |
+| 21 | [Sehun](http://twitter.com/search?q=Sehun) | N/A |
+| 22 | [cost utilization](http://twitter.com/search?q=cost+utilization) | N/A |
+| 23 | [Yuju](http://twitter.com/search?q=Yuju) | N/A |
+| 24 | [POLLY PASTEL BY BUILD](http://twitter.com/search?q=POLLY+PASTEL+BY+BUILD) | N/A |
+| 25 | [JUNGHWAN](http://twitter.com/search?q=JUNGHWAN) | N/A |
+| 26 | [Concealer - Maybelline](http://twitter.com/search?q=Concealer+-+Maybelline) | N/A |
+| 27 | [The 3](http://twitter.com/search?q=The+3) | N/A |
+| 28 | [HAVE TO KNOW](http://twitter.com/search?q=HAVE+TO+KNOW) | N/A |
+| 29 | [PH SCAMMER](http://twitter.com/search?q=PH+SCAMMER) | N/A |
+| 30 | [LATE LATE SHOW WITH TXT](http://twitter.com/search?q=LATE+LATE+SHOW+WITH+TXT) | N/A |
+| 31 | [Fantagio](http://twitter.com/search?q=Fantagio) | N/A |
+| 32 | [Blusher - in2it](http://twitter.com/search?q=Blusher+-+in2it) | N/A |
+| 33 | [Sunblock - 3W](http://twitter.com/search?q=Sunblock+-+3W) | N/A |
+| 34 | [Circle 2](http://twitter.com/search?q=Circle+2) | N/A |
+| 35 | [traderdao](http://twitter.com/search?q=traderdao) | N/A |
+| 36 | [Benny](http://twitter.com/search?q=Benny) | N/A |
+| 37 | [Eyeliner - Maybelline](http://twitter.com/search?q=Eyeliner+-+Maybelline) | N/A |
+| 38 | [eric chou](http://twitter.com/search?q=eric+chou) | N/A |
+| 39 | [Candace](http://twitter.com/search?q=Candace) | N/A |
 | 40 | [Abby Choi](http://twitter.com/search?q=Abby+Choi) | N/A |
 | 41 | [jana wibawa](http://twitter.com/search?q=jana+wibawa) | N/A |
 | 42 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
-| 43 | [Pharmaniaga](http://twitter.com/search?q=Pharmaniaga) | N/A |
-| 44 | [Carabao Cup](http://twitter.com/search?q=Carabao+Cup) | N/A |
+| 43 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
+| 44 | [Pharmaniaga](http://twitter.com/search?q=Pharmaniaga) | N/A |
 | 45 | [Footballing Ability](http://twitter.com/search?q=Footballing+Ability) | N/A |
-| 46 | [1MDB](http://twitter.com/search?q=1MDB) | N/A |
-| 47 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 48 | [ASTRO](http://twitter.com/search?q=ASTRO) | N/A |
-| 49 | [Lipmatte - Maybelline](http://twitter.com/search?q=Lipmatte+-+Maybelline) | N/A |
+| 46 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 47 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
+| 48 | [Lipmatte - Maybelline](http://twitter.com/search?q=Lipmatte+-+Maybelline) | N/A |
+| 49 | [hailey](http://twitter.com/search?q=hailey) | N/A |
 
 
 

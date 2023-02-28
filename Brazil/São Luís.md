@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For São Luís
 
-📆 Last Updated: `2023-02-28 15:16:45 UTC`
+📆 Last Updated: `2023-02-28 16:16:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,51 +18,50 @@ This is top 50 for [Brazil](</Brazil>)
 | 1 | [Aline](http://twitter.com/search?q=Aline) | Aline is a French name meaning "noble" or "nobility". It is also a variant of the name Adeline, which is derived from the Germanic name Adalheidis, meaning "noble kind". |
 | 2 | [Domitila](http://twitter.com/search?q=Domitila) | Domitila is a Spanish female name derived from the Latin Domitius, meaning “tamed” or “subdued”. It is also a variant of the Roman name Domitia, which means “lordly” or “powerful”. |
 | 3 | [#bbb2023](http://twitter.com/search?q=%23bbb2023) | #bbb2023 is a hashtag used on social media platforms such as Twitter and Instagram. It is typically used to tag posts related to a specific event, topic, or person. In this case, it could be used to tag posts related to a particular event taking place in 2023. |
-| 4 | [Bruna](http://twitter.com/search?q=Bruna) | Bruna is a Portuguese word meaning "brown". It is often used to describe someone or something that has a brown color. |
-| 5 | [JISOO THE FACE OF DIOR](http://twitter.com/search?q=JISOO+THE+FACE+OF+DIOR) | N/A |
-| 6 | [DESSA VEZ NÃO](http://twitter.com/search?q=DESSA+VEZ+N%c3%83O) | N/A |
-| 7 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
-| 8 | [Wanessa Camargo](http://twitter.com/search?q=Wanessa+Camargo) | N/A |
+| 4 | [JISOO THE FACE OF DIOR](http://twitter.com/search?q=JISOO+THE+FACE+OF+DIOR) | N/A |
+| 5 | [dessa vez não](http://twitter.com/search?q=dessa+vez+n%c3%a3o) | N/A |
+| 6 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
+| 7 | [Bento Gonçalves](http://twitter.com/search?q=Bento+Gon%c3%a7alves) | N/A |
+| 8 | [Sisu](http://twitter.com/search?q=Sisu) | N/A |
 | 9 | [Bolsa Família](http://twitter.com/search?q=Bolsa+Fam%c3%adlia) | N/A |
-| 10 | [#NeverLetMeGoSeriesFinalEP](http://twitter.com/search?q=%23NeverLetMeGoSeriesFinalEP) | N/A |
-| 11 | [Bento Gonçalves](http://twitter.com/search?q=Bento+Gon%c3%a7alves) | N/A |
-| 12 | [sisu](http://twitter.com/search?q=sisu) | N/A |
-| 13 | [UFMG](http://twitter.com/search?q=UFMG) | N/A |
-| 14 | [Parabénssss](http://twitter.com/search?q=Parab%c3%a9nssss) | N/A |
-| 15 | [União Brasil](http://twitter.com/search?q=Uni%c3%a3o+Brasil) | N/A |
-| 16 | [#NeverLetMeGoFinalEP](http://twitter.com/search?q=%23NeverLetMeGoFinalEP) | N/A |
-| 17 | [Consea](http://twitter.com/search?q=Consea) | N/A |
-| 18 | [UFRJ](http://twitter.com/search?q=UFRJ) | N/A |
-| 19 | [ASTRO](http://twitter.com/search?q=ASTRO) | N/A |
-| 20 | [UFOP](http://twitter.com/search?q=UFOP) | N/A |
-| 21 | [DLC de Elden Ring](http://twitter.com/search?q=DLC+de+Elden+Ring) | N/A |
-| 22 | [#F360BR](http://twitter.com/search?q=%23F360BR) | N/A |
-| 23 | [Campari](http://twitter.com/search?q=Campari) | N/A |
-| 24 | [Obrigadaaaa](http://twitter.com/search?q=Obrigadaaaa) | N/A |
-| 25 | [Miquella](http://twitter.com/search?q=Miquella) | N/A |
-| 26 | [Final Fantasy XVI](http://twitter.com/search?q=Final+Fantasy+XVI) | N/A |
-| 27 | [ufes](http://twitter.com/search?q=ufes) | N/A |
-| 28 | [ProUni](http://twitter.com/search?q=ProUni) | N/A |
-| 29 | [Juscelino Filho](http://twitter.com/search?q=Juscelino+Filho) | N/A |
-| 30 | [jeon jungkook](http://twitter.com/search?q=jeon+jungkook) | N/A |
-| 31 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
-| 32 | [Werg](http://twitter.com/search?q=Werg) | N/A |
-| 33 | [Rioru](http://twitter.com/search?q=Rioru) | N/A |
-| 34 | [Obrigadooo](http://twitter.com/search?q=Obrigadooo) | N/A |
-| 35 | [Comunicações](http://twitter.com/search?q=Comunica%c3%a7%c3%b5es) | N/A |
-| 36 | [Avelar](http://twitter.com/search?q=Avelar) | N/A |
-| 37 | [Patrícia Poeta](http://twitter.com/search?q=Patr%c3%adcia+Poeta) | N/A |
-| 38 | [Avenida Brasil](http://twitter.com/search?q=Avenida+Brasil) | N/A |
-| 39 | [Moraes](http://twitter.com/search?q=Moraes) | N/A |
-| 40 | [UFSCar](http://twitter.com/search?q=UFSCar) | N/A |
-| 41 | [imagine dragons](http://twitter.com/search?q=imagine+dragons) | N/A |
-| 42 | [Federal](http://twitter.com/search?q=Federal) | N/A |
-| 43 | [Justus](http://twitter.com/search?q=Justus) | N/A |
-| 44 | [Igão](http://twitter.com/search?q=Ig%c3%a3o) | N/A |
-| 45 | [Marika](http://twitter.com/search?q=Marika) | N/A |
-| 46 | [Shadow of the Erdtree](http://twitter.com/search?q=Shadow+of+the+Erdtree) | N/A |
-| 47 | [Petrobras](http://twitter.com/search?q=Petrobras) | N/A |
-| 48 | [Benedetto](http://twitter.com/search?q=Benedetto) | Benedetto is an Italian name meaning "blessed". It is derived from the Latin word "benedictus", which means "blessed". |
+| 10 | [#NeverLetMeGoFinalEP](http://twitter.com/search?q=%23NeverLetMeGoFinalEP) | N/A |
+| 11 | [Consea](http://twitter.com/search?q=Consea) | N/A |
+| 12 | [UFMG](http://twitter.com/search?q=UFMG) | N/A |
+| 13 | [#HAPPY_WONHO_DAY](http://twitter.com/search?q=%23HAPPY_WONHO_DAY) | N/A |
+| 14 | [#NeverLetMeGoSeriesFinalEP](http://twitter.com/search?q=%23NeverLetMeGoSeriesFinalEP) | N/A |
+| 15 | [Parabénsssss](http://twitter.com/search?q=Parab%c3%a9nsssss) | N/A |
+| 16 | [Euclides](http://twitter.com/search?q=Euclides) | N/A |
+| 17 | [União Brasil](http://twitter.com/search?q=Uni%c3%a3o+Brasil) | N/A |
+| 18 | [Rioru](http://twitter.com/search?q=Rioru) | N/A |
+| 19 | [chelo](http://twitter.com/search?q=chelo) | N/A |
+| 20 | [UFRJ](http://twitter.com/search?q=UFRJ) | N/A |
+| 21 | [ASTRO](http://twitter.com/search?q=ASTRO) | N/A |
+| 22 | [Campari](http://twitter.com/search?q=Campari) | N/A |
+| 23 | [Final Fantasy XVI](http://twitter.com/search?q=Final+Fantasy+XVI) | N/A |
+| 24 | [Wanessa Camargo](http://twitter.com/search?q=Wanessa+Camargo) | N/A |
+| 25 | [Elden Ring](http://twitter.com/search?q=Elden+Ring) | N/A |
+| 26 | [Obrigadaaa](http://twitter.com/search?q=Obrigadaaa) | N/A |
+| 27 | [Bota](http://twitter.com/search?q=Bota) | N/A |
+| 28 | [Werg](http://twitter.com/search?q=Werg) | N/A |
+| 29 | [ProUni](http://twitter.com/search?q=ProUni) | N/A |
+| 30 | [show me love](http://twitter.com/search?q=show+me+love) | N/A |
+| 31 | [GRLS](http://twitter.com/search?q=GRLS) | N/A |
+| 32 | [ufes](http://twitter.com/search?q=ufes) | N/A |
+| 33 | [4 ANOS DE LOUD](http://twitter.com/search?q=4+ANOS+DE+LOUD) | N/A |
+| 34 | [Miquella](http://twitter.com/search?q=Miquella) | N/A |
+| 35 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
+| 36 | [Haddad](http://twitter.com/search?q=Haddad) | N/A |
+| 37 | [Juscelino Filho](http://twitter.com/search?q=Juscelino+Filho) | N/A |
+| 38 | [UFOP](http://twitter.com/search?q=UFOP) | N/A |
+| 39 | [Imagine Dragons](http://twitter.com/search?q=Imagine+Dragons) | N/A |
+| 40 | [Comunicações](http://twitter.com/search?q=Comunica%c3%a7%c3%b5es) | N/A |
+| 41 | [Obrigadooo](http://twitter.com/search?q=Obrigadooo) | N/A |
+| 42 | [Petrobras](http://twitter.com/search?q=Petrobras) | N/A |
+| 43 | [UFABC](http://twitter.com/search?q=UFABC) | N/A |
+| 44 | [tinashe](http://twitter.com/search?q=tinashe) | N/A |
+| 45 | [Justus](http://twitter.com/search?q=Justus) | N/A |
+| 46 | [Patrícia Poeta](http://twitter.com/search?q=Patr%c3%adcia+Poeta) | N/A |
+| 47 | [Cite 3](http://twitter.com/search?q=Cite+3) | N/A |
 
 
 

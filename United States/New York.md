@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-02-28 15:17:25 UTC`
+📆 Last Updated: `2023-02-28 16:17:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
-| 2 | [#RareDiseaseDay](http://twitter.com/search?q=%23RareDiseaseDay) | N/A |
-| 3 | [Leslie Frazier](http://twitter.com/search?q=Leslie+Frazier) | Leslie Frazier is an American football coach and former player. He is currently the defensive coordinator for the Buffalo Bills of the National Football League (NFL). He previously served as head coach of the Minnesota Vikings from 2011 to 2013. |
-| 4 | [Elden Ring DLC](http://twitter.com/search?q=Elden+Ring+DLC) | N/A |
-| 5 | [Marcus Mariota](http://twitter.com/search?q=Marcus+Mariota) | N/A |
-| 6 | [#ApoxDiorAW2023](http://twitter.com/search?q=%23ApoxDiorAW2023) | N/A |
-| 7 | [Miquella](http://twitter.com/search?q=Miquella) | N/A |
-| 8 | [#JISOOxDiorAW23](http://twitter.com/search?q=%23JISOOxDiorAW23) | N/A |
-| 9 | [Brian Johnson](http://twitter.com/search?q=Brian+Johnson) | N/A |
-| 10 | [#ROVER_MoodSampler1](http://twitter.com/search?q=%23ROVER_MoodSampler1) | N/A |
-| 11 | [JISOO THE FACE OF DIOR](http://twitter.com/search?q=JISOO+THE+FACE+OF+DIOR) | N/A |
-| 12 | [Nudy](http://twitter.com/search?q=Nudy) | N/A |
-| 13 | [McDermott](http://twitter.com/search?q=McDermott) | McDermott is a surname of Irish origin. It is derived from the Gaelic Mac Diarmada, meaning "son of Diarmaid". The name is associated with County Roscommon in Ireland. |
-| 14 | [Dreamville](http://twitter.com/search?q=Dreamville) | N/A |
-| 15 | [Dan Snyder](http://twitter.com/search?q=Dan+Snyder) | N/A |
-| 16 | [David Hogg](http://twitter.com/search?q=David+Hogg) | N/A |
-| 17 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
-| 18 | [ROVER IS COMING](http://twitter.com/search?q=ROVER+IS+COMING) | N/A |
-| 19 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
-| 20 | [Goodell](http://twitter.com/search?q=Goodell) | Goodell is a surname of English origin. It is derived from the Old English words "god" and "wella," meaning "good spring." The name was originally given to someone who lived near a good spring or well. |
-| 21 | [DIOR WITH NATTAWIN](http://twitter.com/search?q=DIOR+WITH+NATTAWIN) | N/A |
+| 1 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
+| 2 | [LIRR](http://twitter.com/search?q=LIRR) | N/A |
+| 3 | [Dreamville](http://twitter.com/search?q=Dreamville) | N/A |
+| 4 | [#RareDiseaseDay](http://twitter.com/search?q=%23RareDiseaseDay) | N/A |
+| 5 | [Kenny Golladay](http://twitter.com/search?q=Kenny+Golladay) | Kenny Golladay is an American football wide receiver for the Detroit Lions of the National Football League (NFL). He was drafted by the Lions in the third round of the 2017 NFL Draft. His name is a combination of his first and last names, Kenny and Golladay. |
+| 6 | [#studentloanforgiveness](http://twitter.com/search?q=%23studentloanforgiveness) | N/A |
+| 7 | [Mariota](http://twitter.com/search?q=Mariota) | N/A |
+| 8 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
+| 9 | [Frazier](http://twitter.com/search?q=Frazier) | Frazier is a surname of Scottish origin. It is derived from the French word "fraise" meaning strawberry. The name was originally given to someone who lived near a strawberry patch or grew strawberries. |
+| 10 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
+| 11 | [Poot](http://twitter.com/search?q=Poot) | N/A |
+| 12 | [Elden Ring DLC](http://twitter.com/search?q=Elden+Ring+DLC) | N/A |
+| 13 | [Miquella](http://twitter.com/search?q=Miquella) | N/A |
+| 14 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
+| 15 | [Ronnie Crosby](http://twitter.com/search?q=Ronnie+Crosby) | N/A |
+| 16 | [McDermott](http://twitter.com/search?q=McDermott) | McDermott is a surname of Irish origin. It is derived from the Gaelic Mac Diarmada, meaning "son of Diarmaid". The name is associated with County Roscommon in Ireland. |
+| 17 | [Nudy](http://twitter.com/search?q=Nudy) | N/A |
+| 18 | [SCOTUS](http://twitter.com/search?q=SCOTUS) | SCOTUS is an acronym for the Supreme Court of the United States. It is the highest court in the United States and is responsible for interpreting and applying federal laws. |
+| 19 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 20 | [#ROVER_MoodSampler1](http://twitter.com/search?q=%23ROVER_MoodSampler1) | N/A |
+| 21 | [Brian Johnson](http://twitter.com/search?q=Brian+Johnson) | N/A |
 | 22 | [Colbert](http://twitter.com/search?q=Colbert) | N/A |
-| 23 | [FFXVI](http://twitter.com/search?q=FFXVI) | N/A |
-| 24 | [Murdoch](http://twitter.com/search?q=Murdoch) | N/A |
+| 23 | [Dan Snyder](http://twitter.com/search?q=Dan+Snyder) | N/A |
+| 24 | [FFXVI](http://twitter.com/search?q=FFXVI) | N/A |
 | 25 | [Final Fantasy XVI](http://twitter.com/search?q=Final+Fantasy+XVI) | N/A |
-| 26 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 27 | [Poot](http://twitter.com/search?q=Poot) | N/A |
-| 28 | [Daily Quordle 400](http://twitter.com/search?q=Daily+Quordle+400) | N/A |
-| 29 | [Shadow of the Erdtree](http://twitter.com/search?q=Shadow+of+the+Erdtree) | N/A |
-| 30 | [Election Day](http://twitter.com/search?q=Election+Day) | N/A |
-| 31 | [Player of the Matchday](http://twitter.com/search?q=Player+of+the+Matchday) | N/A |
-| 32 | [John Johnson](http://twitter.com/search?q=John+Johnson) | N/A |
-| 33 | [Herb](http://twitter.com/search?q=Herb) | Herb is a noun that refers to a plant that does not have a woody stem and usually dies back at the end of each growing season. It is used in cooking, medicine, and other areas. In English, the word herb can also refer to any aromatic plant material used for flavoring or scenting food, medicines, or other products. |
-| 34 | [Wonho](http://twitter.com/search?q=Wonho) | N/A |
-| 35 | [Torrent](http://twitter.com/search?q=Torrent) | N/A |
-| 36 | [Ryan Poles](http://twitter.com/search?q=Ryan+Poles) | N/A |
-| 37 | [Jessie Bates](http://twitter.com/search?q=Jessie+Bates) | N/A |
-| 38 | [Fantagio](http://twitter.com/search?q=Fantagio) | N/A |
-| 39 | [Marika](http://twitter.com/search?q=Marika) | N/A |
-| 40 | [Lori Lightfoot](http://twitter.com/search?q=Lori+Lightfoot) | N/A |
-| 41 | [St. Augustine](http://twitter.com/search?q=St.+Augustine) | N/A |
-| 42 | [Daron Payne](http://twitter.com/search?q=Daron+Payne) | N/A |
-| 43 | [Terrific Tuesday](http://twitter.com/search?q=Terrific+Tuesday) | N/A |
-| 44 | [$TGT](http://twitter.com/search?q=%24TGT) | N/A |
-| 45 | [Joy Reid](http://twitter.com/search?q=Joy+Reid) | N/A |
-| 46 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
-| 47 | [Parkland](http://twitter.com/search?q=Parkland) | N/A |
-| 48 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
-| 49 | [Pete Davidson](http://twitter.com/search?q=Pete+Davidson) | Pete Davidson is an American comedian, actor, and writer. He is best known for being a cast member on Saturday Night Live since 2014. He has also appeared in films such as Big Time Adolescence and The King of Staten Island. |
-| 50 | [Monterrey](http://twitter.com/search?q=Monterrey) | N/A |
+| 26 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
+| 27 | [#CancelStudentDebt](http://twitter.com/search?q=%23CancelStudentDebt) | N/A |
+| 28 | [David Hogg](http://twitter.com/search?q=David+Hogg) | N/A |
+| 29 | [Ridder](http://twitter.com/search?q=Ridder) | Ridder is a Dutch word meaning "knight" or "rider". It is used to refer to a person who has been knighted or who has been given a title of nobility. |
+| 30 | [Brandon Beane](http://twitter.com/search?q=Brandon+Beane) | N/A |
+| 31 | [JISOO THE FACE OF DIOR](http://twitter.com/search?q=JISOO+THE+FACE+OF+DIOR) | N/A |
+| 32 | [Goodell](http://twitter.com/search?q=Goodell) | Goodell is a surname of English origin. It is derived from the Old English words "god" and "wella," meaning "good spring." The name was originally given to someone who lived near a good spring or well. |
+| 33 | [Brian Gutekunst](http://twitter.com/search?q=Brian+Gutekunst) | N/A |
+| 34 | [Murdoch](http://twitter.com/search?q=Murdoch) | N/A |
+| 35 | [Wonho](http://twitter.com/search?q=Wonho) | N/A |
+| 36 | [ROVER IS COMING](http://twitter.com/search?q=ROVER+IS+COMING) | N/A |
+| 37 | [Ryan Poles](http://twitter.com/search?q=Ryan+Poles) | N/A |
+| 38 | [Herb](http://twitter.com/search?q=Herb) | Herb is a noun that refers to a plant that does not have a woody stem and usually dies back at the end of each growing season. It is used in cooking, medicine, and other areas. In English, the word herb can also refer to any aromatic plant material used for flavoring or scenting food, medicines, or other products. |
+| 39 | [Joe Musgrove](http://twitter.com/search?q=Joe+Musgrove) | N/A |
+| 40 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
+| 41 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 42 | [Marika](http://twitter.com/search?q=Marika) | N/A |
+| 43 | [Election Day](http://twitter.com/search?q=Election+Day) | N/A |
+| 44 | [Al Holcomb](http://twitter.com/search?q=Al+Holcomb) | N/A |
+| 45 | [DIOR WITH NATTAWIN](http://twitter.com/search?q=DIOR+WITH+NATTAWIN) | N/A |
+| 46 | [Lori Lightfoot](http://twitter.com/search?q=Lori+Lightfoot) | N/A |
+| 47 | [Erdtree](http://twitter.com/search?q=Erdtree) | N/A |
+| 48 | [ROCKY LEFT ASTRO](http://twitter.com/search?q=ROCKY+LEFT+ASTRO) | N/A |
+| 49 | [Chipping](http://twitter.com/search?q=Chipping) | N/A |
+| 50 | [Alito](http://twitter.com/search?q=Alito) | Alito is a Spanish name meaning "little wing". It is also a surname. |
 
 
 

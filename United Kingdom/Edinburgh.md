@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Edinburgh
 
-📆 Last Updated: `2023-02-28 15:16:33 UTC`
+📆 Last Updated: `2023-02-28 16:16:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#PoliticsLive](http://twitter.com/search?q=%23PoliticsLive) | N/A |
-| 2 | [#AskMooy](http://twitter.com/search?q=%23AskMooy) | N/A |
+| 1 | [#AntonymFilmTitles](http://twitter.com/search?q=%23AntonymFilmTitles) | N/A |
+| 2 | [#RareDiseaseDay](http://twitter.com/search?q=%23RareDiseaseDay) | N/A |
 | 3 | [Northern Ireland](http://twitter.com/search?q=Northern+Ireland) | N/A |
-| 4 | [#RareDiseaseDay](http://twitter.com/search?q=%23RareDiseaseDay) | N/A |
-| 5 | [Jacqui Smith](http://twitter.com/search?q=Jacqui+Smith) | N/A |
-| 6 | [Single Market](http://twitter.com/search?q=Single+Market) | N/A |
-| 7 | [Oakeshott](http://twitter.com/search?q=Oakeshott) | N/A |
-| 8 | [#BrexitDisaster](http://twitter.com/search?q=%23BrexitDisaster) | N/A |
-| 9 | [Olivier](http://twitter.com/search?q=Olivier) | N/A |
-| 10 | [UK and EU](http://twitter.com/search?q=UK+and+EU) | N/A |
-| 11 | [Scotland and Wales](http://twitter.com/search?q=Scotland+and+Wales) | N/A |
-| 12 | [Rishi](http://twitter.com/search?q=Rishi) | N/A |
-| 13 | [Isla Bryson](http://twitter.com/search?q=Isla+Bryson) | N/A |
-| 14 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
-| 15 | [Adam Graham](http://twitter.com/search?q=Adam+Graham) | N/A |
-| 16 | [Pete Davidson](http://twitter.com/search?q=Pete+Davidson) | Pete Davidson is an American comedian, actor, and writer. He is best known for being a cast member on Saturday Night Live since 2014. He has also appeared in films such as Big Time Adolescence and The King of Staten Island. |
-| 17 | [25% in FCT](http://twitter.com/search?q=25%25+in+FCT) | N/A |
-| 18 | [Elden Ring DLC](http://twitter.com/search?q=Elden+Ring+DLC) | N/A |
-| 19 | [EU and UK](http://twitter.com/search?q=EU+and+UK) | N/A |
-| 20 | [History Month](http://twitter.com/search?q=History+Month) | N/A |
-| 21 | [Ford](http://twitter.com/search?q=Ford) | Ford is an American multinational automaker that designs, manufactures, markets, and services a range of cars, trucks, SUVs, and electrified vehicles. The company's name is derived from the surname of its founder, Henry Ford. |
-| 22 | [Marcus Smith](http://twitter.com/search?q=Marcus+Smith) | N/A |
-| 23 | [Year 4](http://twitter.com/search?q=Year+4) | N/A |
-| 24 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
-| 25 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
-| 26 | [Coca Cola](http://twitter.com/search?q=Coca+Cola) | N/A |
-| 27 | [Constance Marten](http://twitter.com/search?q=Constance+Marten) | N/A |
-| 28 | [Remainers](http://twitter.com/search?q=Remainers) | N/A |
-| 29 | [Miquella](http://twitter.com/search?q=Miquella) | N/A |
-| 30 | [Bristol City](http://twitter.com/search?q=Bristol+City) | N/A |
+| 4 | [#AskMooy](http://twitter.com/search?q=%23AskMooy) | N/A |
+| 5 | [#OlivierAwards](http://twitter.com/search?q=%23OlivierAwards) | N/A |
+| 6 | [Jacqui Smith](http://twitter.com/search?q=Jacqui+Smith) | N/A |
+| 7 | [Single Market](http://twitter.com/search?q=Single+Market) | N/A |
+| 8 | [Oakeshott](http://twitter.com/search?q=Oakeshott) | N/A |
+| 9 | [Scotland and Wales](http://twitter.com/search?q=Scotland+and+Wales) | N/A |
+| 10 | [Rishi](http://twitter.com/search?q=Rishi) | N/A |
+| 11 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
+| 12 | [UK and EU](http://twitter.com/search?q=UK+and+EU) | N/A |
+| 13 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
+| 14 | [Isla Bryson](http://twitter.com/search?q=Isla+Bryson) | N/A |
+| 15 | [History Month](http://twitter.com/search?q=History+Month) | N/A |
+| 16 | [Tom Sizemore](http://twitter.com/search?q=Tom+Sizemore) | N/A |
+| 17 | [Year 4](http://twitter.com/search?q=Year+4) | N/A |
+| 18 | [Pete Davidson](http://twitter.com/search?q=Pete+Davidson) | Pete Davidson is an American comedian, actor, and writer. He is best known for being a cast member on Saturday Night Live since 2014. He has also appeared in films such as Big Time Adolescence and The King of Staten Island. |
+| 19 | [Malone](http://twitter.com/search?q=Malone) | N/A |
+| 20 | [Adam Graham](http://twitter.com/search?q=Adam+Graham) | N/A |
+| 21 | [25% in FCT](http://twitter.com/search?q=25%25+in+FCT) | N/A |
+| 22 | [Justin Bieber](http://twitter.com/search?q=Justin+Bieber) | N/A |
+| 23 | [Elden Ring DLC](http://twitter.com/search?q=Elden+Ring+DLC) | N/A |
+| 24 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
+| 25 | [Marcus Smith](http://twitter.com/search?q=Marcus+Smith) | N/A |
+| 26 | [Ford](http://twitter.com/search?q=Ford) | Ford is an American multinational automaker that designs, manufactures, markets, and services a range of cars, trucks, SUVs, and electrified vehicles. The company's name is derived from the surname of its founder, Henry Ford. |
+| 27 | [Miquella](http://twitter.com/search?q=Miquella) | N/A |
+| 28 | [EU and UK](http://twitter.com/search?q=EU+and+UK) | N/A |
+| 29 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 30 | [Brexiteers](http://twitter.com/search?q=Brexiteers) | N/A |
 | 31 | [Noel](http://twitter.com/search?q=Noel) | Noel is a French word meaning "Christmas". It is often used as a greeting during the Christmas season. |
-| 32 | [Cleverly](http://twitter.com/search?q=Cleverly) | Cleverly is an adverb that means in a skillful or clever manner. It is used to describe someone who is able to think quickly and come up with creative solutions. |
-| 33 | [UK and the EU](http://twitter.com/search?q=UK+and+the+EU) | N/A |
-| 34 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 35 | [Tottenham Hotspur](http://twitter.com/search?q=Tottenham+Hotspur) | N/A |
-| 36 | [Abuja](http://twitter.com/search?q=Abuja) | N/A |
-| 37 | [ASTRO](http://twitter.com/search?q=ASTRO) | N/A |
-| 38 | [Mark Gordon](http://twitter.com/search?q=Mark+Gordon) | N/A |
-| 39 | [Omos](http://twitter.com/search?q=Omos) | N/A |
-| 40 | [Rupert Murdoch](http://twitter.com/search?q=Rupert+Murdoch) | N/A |
-| 41 | [Great Britain](http://twitter.com/search?q=Great+Britain) | N/A |
-| 42 | [International Women's Day](http://twitter.com/search?q=International+Women%27s+Day) | N/A |
-| 43 | [Baker](http://twitter.com/search?q=Baker) | Baker is a person who bakes and sells bread, cakes, and other baked goods. It is also a term used to refer to someone who works in a bakery. |
-| 44 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 45 | [Lita](http://twitter.com/search?q=Lita) | N/A |
-| 46 | [Thiago Silva](http://twitter.com/search?q=Thiago+Silva) | Thiago Silva is a Brazilian professional footballer who plays as a central defender for Paris Saint-Germain and the Brazil national team. In English, Thiago Silva means "Saint Thomas". |
-| 47 | [Koran](http://twitter.com/search?q=Koran) | N/A |
+| 32 | [Constance Marten](http://twitter.com/search?q=Constance+Marten) | N/A |
+| 33 | [Bristol City](http://twitter.com/search?q=Bristol+City) | N/A |
+| 34 | [Coca Cola](http://twitter.com/search?q=Coca+Cola) | N/A |
+| 35 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
+| 36 | [Remain](http://twitter.com/search?q=Remain) | N/A |
+| 37 | [International Women's Day](http://twitter.com/search?q=International+Women%27s+Day) | N/A |
+| 38 | [ASTRO](http://twitter.com/search?q=ASTRO) | N/A |
+| 39 | [Cleverly](http://twitter.com/search?q=Cleverly) | Cleverly is an adverb that means in a skillful or clever manner. It is used to describe someone who is able to think quickly and come up with creative solutions. |
+| 40 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 41 | [Tottenham Hotspur](http://twitter.com/search?q=Tottenham+Hotspur) | N/A |
+| 42 | [Abuja](http://twitter.com/search?q=Abuja) | N/A |
+| 43 | [Koran](http://twitter.com/search?q=Koran) | N/A |
+| 44 | [Omos](http://twitter.com/search?q=Omos) | N/A |
+| 45 | [Great Britain](http://twitter.com/search?q=Great+Britain) | N/A |
+| 46 | [UK and the EU](http://twitter.com/search?q=UK+and+the+EU) | N/A |
+| 47 | [Baker](http://twitter.com/search?q=Baker) | Baker is a person who bakes and sells bread, cakes, and other baked goods. It is also a term used to refer to someone who works in a bakery. |
 
 
 

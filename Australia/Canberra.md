@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canberra
 
-📆 Last Updated: `2023-02-28 15:16:58 UTC`
+📆 Last Updated: `2023-02-28 16:16:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,30 +16,30 @@ This is top 50 for [Australia](</Australia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#NZvENG](http://twitter.com/search?q=%23NZvENG) | N/A |
-| 2 | [#SurvivorAU](http://twitter.com/search?q=%23SurvivorAU) | N/A |
-| 3 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 2 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 3 | [#SurvivorAU](http://twitter.com/search?q=%23SurvivorAU) | N/A |
 | 4 | [#MAFSAU](http://twitter.com/search?q=%23MAFSAU) | N/A |
 | 5 | [Flick](http://twitter.com/search?q=Flick) | N/A |
-| 6 | [Father Bob](http://twitter.com/search?q=Father+Bob) | N/A |
-| 7 | [Stuart Robert](http://twitter.com/search?q=Stuart+Robert) | N/A |
-| 8 | [Shaun](http://twitter.com/search?q=Shaun) | N/A |
-| 9 | [Sandy](http://twitter.com/search?q=Sandy) | N/A |
+| 6 | [Shaun](http://twitter.com/search?q=Shaun) | N/A |
+| 7 | [Sandy](http://twitter.com/search?q=Sandy) | N/A |
+| 8 | [Father Bob](http://twitter.com/search?q=Father+Bob) | N/A |
+| 9 | [Stuart Robert](http://twitter.com/search?q=Stuart+Robert) | N/A |
 | 10 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
 | 11 | [Test Cricket](http://twitter.com/search?q=Test+Cricket) | N/A |
 | 12 | [Keenan](http://twitter.com/search?q=Keenan) | N/A |
 | 13 | [Renee Leon](http://twitter.com/search?q=Renee+Leon) | N/A |
 | 14 | [Rupert Murdoch](http://twitter.com/search?q=Rupert+Murdoch) | N/A |
-| 15 | [Lismore](http://twitter.com/search?q=Lismore) | N/A |
+| 15 | [lismore](http://twitter.com/search?q=lismore) | N/A |
 | 16 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
 | 17 | [Sarah Ferguson](http://twitter.com/search?q=Sarah+Ferguson) | N/A |
 | 18 | [Shonee](http://twitter.com/search?q=Shonee) | N/A |
 | 19 | [Hayley](http://twitter.com/search?q=Hayley) | N/A |
 | 20 | [Joffa](http://twitter.com/search?q=Joffa) | N/A |
 | 21 | [Angus](http://twitter.com/search?q=Angus) | N/A |
-| 22 | [Tayla](http://twitter.com/search?q=Tayla) | N/A |
-| 23 | [Sussan](http://twitter.com/search?q=Sussan) | N/A |
-| 24 | [marzhew](http://twitter.com/search?q=marzhew) | N/A |
-| 25 | [Charli](http://twitter.com/search?q=Charli) | N/A |
+| 22 | [tayla](http://twitter.com/search?q=tayla) | N/A |
+| 23 | [Charli](http://twitter.com/search?q=Charli) | N/A |
+| 24 | [Sussan](http://twitter.com/search?q=Sussan) | N/A |
+| 25 | [marzhew](http://twitter.com/search?q=marzhew) | N/A |
 | 26 | [Fauci](http://twitter.com/search?q=Fauci) | N/A |
 | 27 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
 | 28 | [Mardi Gras](http://twitter.com/search?q=Mardi+Gras) | N/A |
@@ -49,20 +49,20 @@ This is top 50 for [Australia](</Australia>)
 | 32 | [Kathryn Campbell](http://twitter.com/search?q=Kathryn+Campbell) | N/A |
 | 33 | [Rowan Dean](http://twitter.com/search?q=Rowan+Dean) | N/A |
 | 34 | [Neil Wagner](http://twitter.com/search?q=Neil+Wagner) | N/A |
-| 35 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
-| 36 | [ASTRO](http://twitter.com/search?q=ASTRO) | N/A |
-| 37 | [Walking Wake](http://twitter.com/search?q=Walking+Wake) | N/A |
+| 35 | [ASTRO](http://twitter.com/search?q=ASTRO) | N/A |
+| 36 | [Walking Wake](http://twitter.com/search?q=Walking+Wake) | N/A |
+| 37 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
 | 38 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
 | 39 | [Bazball](http://twitter.com/search?q=Bazball) | N/A |
 | 40 | [Daily Quordle 400](http://twitter.com/search?q=Daily+Quordle+400) | N/A |
 | 41 | [Luke Thompson](http://twitter.com/search?q=Luke+Thompson) | N/A |
-| 42 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
-| 43 | [nsw cup](http://twitter.com/search?q=nsw+cup) | N/A |
-| 44 | [saul griffith](http://twitter.com/search?q=saul+griffith) | N/A |
+| 42 | [nsw cup](http://twitter.com/search?q=nsw+cup) | N/A |
+| 43 | [saul griffith](http://twitter.com/search?q=saul+griffith) | N/A |
+| 44 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
 | 45 | [Lita](http://twitter.com/search?q=Lita) | N/A |
 | 46 | [Creed III](http://twitter.com/search?q=Creed+III) | N/A |
 | 47 | [pocock](http://twitter.com/search?q=pocock) | N/A |
-| 48 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
+| 48 | [bronte](http://twitter.com/search?q=bronte) | N/A |
 | 49 | [The Project](http://twitter.com/search?q=The+Project) | N/A |
 
 

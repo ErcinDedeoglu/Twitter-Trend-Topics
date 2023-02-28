@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belém
 
-📆 Last Updated: `2023-02-28 15:16:43 UTC`
+📆 Last Updated: `2023-02-28 16:16:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [Brazil](</Brazil>)
 | 3 | [Bruna](http://twitter.com/search?q=Bruna) | Bruna is a Portuguese word meaning "brown". It is often used to describe someone or something that has a brown color. |
 | 4 | [Domi](http://twitter.com/search?q=Domi) | Domi is a Japanese term that means "dominance" or "dominant." It is often used to describe someone who is strong, powerful, and in control. |
 | 5 | [JISOO THE FACE OF DIOR](http://twitter.com/search?q=JISOO+THE+FACE+OF+DIOR) | N/A |
-| 6 | [DESSA VEZ NÃO](http://twitter.com/search?q=DESSA+VEZ+N%c3%83O) | N/A |
+| 6 | [dessa vez não](http://twitter.com/search?q=dessa+vez+n%c3%a3o) | N/A |
 | 7 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
-| 8 | [Wanessa Camargo](http://twitter.com/search?q=Wanessa+Camargo) | N/A |
-| 9 | [Bolsa Família](http://twitter.com/search?q=Bolsa+Fam%c3%adlia) | N/A |
-| 10 | [#NeverLetMeGoSeriesFinalEP](http://twitter.com/search?q=%23NeverLetMeGoSeriesFinalEP) | N/A |
-| 11 | [Bento Gonçalves](http://twitter.com/search?q=Bento+Gon%c3%a7alves) | N/A |
-| 12 | [sisu](http://twitter.com/search?q=sisu) | N/A |
-| 13 | [UFMG](http://twitter.com/search?q=UFMG) | N/A |
-| 14 | [Parabénssss](http://twitter.com/search?q=Parab%c3%a9nssss) | N/A |
-| 15 | [#NeverLetMeGoFinalEP](http://twitter.com/search?q=%23NeverLetMeGoFinalEP) | N/A |
-| 16 | [União Brasil](http://twitter.com/search?q=Uni%c3%a3o+Brasil) | N/A |
-| 17 | [Consea](http://twitter.com/search?q=Consea) | N/A |
-| 18 | [UFRJ](http://twitter.com/search?q=UFRJ) | N/A |
-| 19 | [ASTRO](http://twitter.com/search?q=ASTRO) | N/A |
-| 20 | [UFOP](http://twitter.com/search?q=UFOP) | N/A |
-| 21 | [DLC de Elden Ring](http://twitter.com/search?q=DLC+de+Elden+Ring) | N/A |
-| 22 | [#F360BR](http://twitter.com/search?q=%23F360BR) | N/A |
+| 8 | [Bento Gonçalves](http://twitter.com/search?q=Bento+Gon%c3%a7alves) | N/A |
+| 9 | [Sisu](http://twitter.com/search?q=Sisu) | N/A |
+| 10 | [Bolsa Família](http://twitter.com/search?q=Bolsa+Fam%c3%adlia) | N/A |
+| 11 | [#NeverLetMeGoFinalEP](http://twitter.com/search?q=%23NeverLetMeGoFinalEP) | N/A |
+| 12 | [UFMG](http://twitter.com/search?q=UFMG) | N/A |
+| 13 | [Consea](http://twitter.com/search?q=Consea) | N/A |
+| 14 | [#HAPPY_WONHO_DAY](http://twitter.com/search?q=%23HAPPY_WONHO_DAY) | N/A |
+| 15 | [#NeverLetMeGoSeriesFinalEP](http://twitter.com/search?q=%23NeverLetMeGoSeriesFinalEP) | N/A |
+| 16 | [Parabénsssss](http://twitter.com/search?q=Parab%c3%a9nsssss) | N/A |
+| 17 | [Euclides](http://twitter.com/search?q=Euclides) | N/A |
+| 18 | [União Brasil](http://twitter.com/search?q=Uni%c3%a3o+Brasil) | N/A |
+| 19 | [Rioru](http://twitter.com/search?q=Rioru) | N/A |
+| 20 | [chelo](http://twitter.com/search?q=chelo) | N/A |
+| 21 | [UFRJ](http://twitter.com/search?q=UFRJ) | N/A |
+| 22 | [ASTRO](http://twitter.com/search?q=ASTRO) | N/A |
 | 23 | [Campari](http://twitter.com/search?q=Campari) | N/A |
-| 24 | [Obrigadaaaa](http://twitter.com/search?q=Obrigadaaaa) | N/A |
-| 25 | [Miquella](http://twitter.com/search?q=Miquella) | N/A |
-| 26 | [Final Fantasy XVI](http://twitter.com/search?q=Final+Fantasy+XVI) | N/A |
-| 27 | [#encontro](http://twitter.com/search?q=%23encontro) | N/A |
-| 28 | [ufes](http://twitter.com/search?q=ufes) | N/A |
-| 29 | [ProUni](http://twitter.com/search?q=ProUni) | N/A |
-| 30 | [Juscelino Filho](http://twitter.com/search?q=Juscelino+Filho) | N/A |
-| 31 | [jeon jungkook](http://twitter.com/search?q=jeon+jungkook) | N/A |
-| 32 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
-| 33 | [Werg](http://twitter.com/search?q=Werg) | N/A |
-| 34 | [Rioru](http://twitter.com/search?q=Rioru) | N/A |
-| 35 | [Obrigadooo](http://twitter.com/search?q=Obrigadooo) | N/A |
-| 36 | [Comunicações](http://twitter.com/search?q=Comunica%c3%a7%c3%b5es) | N/A |
-| 37 | [Avelar](http://twitter.com/search?q=Avelar) | N/A |
-| 38 | [Patrícia Poeta](http://twitter.com/search?q=Patr%c3%adcia+Poeta) | N/A |
-| 39 | [Avenida Brasil](http://twitter.com/search?q=Avenida+Brasil) | N/A |
-| 40 | [Moraes](http://twitter.com/search?q=Moraes) | N/A |
-| 41 | [UFSCar](http://twitter.com/search?q=UFSCar) | N/A |
-| 42 | [imagine dragons](http://twitter.com/search?q=imagine+dragons) | N/A |
-| 43 | [Federal](http://twitter.com/search?q=Federal) | N/A |
-| 44 | [Justus](http://twitter.com/search?q=Justus) | N/A |
-| 45 | [Igão](http://twitter.com/search?q=Ig%c3%a3o) | N/A |
-| 46 | [Marika](http://twitter.com/search?q=Marika) | N/A |
-| 47 | [Shadow of the Erdtree](http://twitter.com/search?q=Shadow+of+the+Erdtree) | N/A |
-| 48 | [Petrobras](http://twitter.com/search?q=Petrobras) | N/A |
-| 49 | [Benedetto](http://twitter.com/search?q=Benedetto) | Benedetto is an Italian name meaning "blessed". It is derived from the Latin word "benedictus", which means "blessed". |
-| 50 | [Justiça Militar](http://twitter.com/search?q=Justi%c3%a7a+Militar) | N/A |
+| 24 | [Final Fantasy XVI](http://twitter.com/search?q=Final+Fantasy+XVI) | N/A |
+| 25 | [Obrigadaaa](http://twitter.com/search?q=Obrigadaaa) | N/A |
+| 26 | [Wanessa Camargo](http://twitter.com/search?q=Wanessa+Camargo) | N/A |
+| 27 | [Elden Ring](http://twitter.com/search?q=Elden+Ring) | N/A |
+| 28 | [Bota](http://twitter.com/search?q=Bota) | N/A |
+| 29 | [Werg](http://twitter.com/search?q=Werg) | N/A |
+| 30 | [ProUni](http://twitter.com/search?q=ProUni) | N/A |
+| 31 | [Miquella](http://twitter.com/search?q=Miquella) | N/A |
+| 32 | [#BalançoGeralRJ](http://twitter.com/search?q=%23Balan%c3%a7oGeralRJ) | N/A |
+| 33 | [show me love](http://twitter.com/search?q=show+me+love) | N/A |
+| 34 | [GRLS](http://twitter.com/search?q=GRLS) | N/A |
+| 35 | [ufes](http://twitter.com/search?q=ufes) | N/A |
+| 36 | [Haddad](http://twitter.com/search?q=Haddad) | N/A |
+| 37 | [4 ANOS DE LOUD](http://twitter.com/search?q=4+ANOS+DE+LOUD) | N/A |
+| 38 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
+| 39 | [Juscelino Filho](http://twitter.com/search?q=Juscelino+Filho) | N/A |
+| 40 | [UFOP](http://twitter.com/search?q=UFOP) | N/A |
+| 41 | [Obrigadooo](http://twitter.com/search?q=Obrigadooo) | N/A |
+| 42 | [Imagine Dragons](http://twitter.com/search?q=Imagine+Dragons) | N/A |
+| 43 | [Comunicações](http://twitter.com/search?q=Comunica%c3%a7%c3%b5es) | N/A |
+| 44 | [Petrobras](http://twitter.com/search?q=Petrobras) | N/A |
+| 45 | [UFABC](http://twitter.com/search?q=UFABC) | N/A |
+| 46 | [tinashe](http://twitter.com/search?q=tinashe) | N/A |
+| 47 | [Justus](http://twitter.com/search?q=Justus) | N/A |
+| 48 | [Patrícia Poeta](http://twitter.com/search?q=Patr%c3%adcia+Poeta) | N/A |
+| 49 | [Cite 3](http://twitter.com/search?q=Cite+3) | N/A |
+| 50 | [Federal](http://twitter.com/search?q=Federal) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Auckland
 
-📆 Last Updated: `2023-02-28 15:17:19 UTC`
+📆 Last Updated: `2023-02-28 16:17:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,7 +23,7 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 6 | [Test Cricket](http://twitter.com/search?q=Test+Cricket) | N/A |
 | 7 | [Neil Wagner](http://twitter.com/search?q=Neil+Wagner) | N/A |
 | 8 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
-| 9 | [HDPA](http://twitter.com/search?q=HDPA) | N/A |
+| 9 | [hdpa](http://twitter.com/search?q=hdpa) | N/A |
 | 10 | [Bracewell](http://twitter.com/search?q=Bracewell) | Bracewell is a surname of English origin. It is derived from the Old English words "braec" meaning "hill" and "wella" meaning "spring". The name is thought to refer to someone who lived near a hill with a spring. |
 | 11 | [England](http://twitter.com/search?q=England) | N/A |
 | 12 | [Root](http://twitter.com/search?q=Root) | N/A |
@@ -38,11 +38,11 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 21 | [te whatu ora](http://twitter.com/search?q=te+whatu+ora) | N/A |
 | 22 | [Hilary](http://twitter.com/search?q=Hilary) | N/A |
 | 23 | [Stokes](http://twitter.com/search?q=Stokes) | N/A |
-| 24 | [Floof](http://twitter.com/search?q=Floof) | N/A |
-| 25 | [health nz](http://twitter.com/search?q=health+nz) | N/A |
-| 26 | [Basin Reserve](http://twitter.com/search?q=Basin+Reserve) | N/A |
-| 27 | [prime minister chris hipkins](http://twitter.com/search?q=prime+minister+chris+hipkins) | N/A |
-| 28 | [Heather](http://twitter.com/search?q=Heather) | N/A |
+| 24 | [health nz](http://twitter.com/search?q=health+nz) | N/A |
+| 25 | [Basin Reserve](http://twitter.com/search?q=Basin+Reserve) | N/A |
+| 26 | [prime minister chris hipkins](http://twitter.com/search?q=prime+minister+chris+hipkins) | N/A |
+| 27 | [Heather](http://twitter.com/search?q=Heather) | N/A |
+| 28 | [Floof](http://twitter.com/search?q=Floof) | N/A |
 | 29 | [Murdoch](http://twitter.com/search?q=Murdoch) | N/A |
 | 30 | [ayesha verrall](http://twitter.com/search?q=ayesha+verrall) | N/A |
 | 31 | [Aurora Australis](http://twitter.com/search?q=Aurora+Australis) | N/A |
