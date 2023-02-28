@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-02-28 22:17:06 UTC`
+📆 Last Updated: `2023-02-28 23:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Tom Brady](http://twitter.com/search?q=Tom+Brady) | Tom Brady is an American football quarterback who plays for the Tampa Bay Buccaneers of the National Football League (NFL). He is widely considered to be one of the greatest quarterbacks of all time, having won six Super Bowls and four Super Bowl MVP awards. |
-| 2 | [Black History Month](http://twitter.com/search?q=Black+History+Month) | N/A |
-| 3 | [Frazier](http://twitter.com/search?q=Frazier) | Frazier is a surname of Scottish origin. It is derived from the French word "fraise" meaning strawberry. The name was originally given to someone who lived near a strawberry patch or grew strawberries. |
-| 4 | [Patrick Kane](http://twitter.com/search?q=Patrick+Kane) | N/A |
-| 5 | [#BeyondFast](http://twitter.com/search?q=%23BeyondFast) | #BeyondFast is a hashtag used to describe something that goes beyond the speed of fast. It is used to emphasize the idea that something is faster than fast, or that it surpasses the speed of fast. |
-| 6 | [#studentloanforgiveness](http://twitter.com/search?q=%23studentloanforgiveness) | N/A |
-| 7 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 8 | [Sandin](http://twitter.com/search?q=Sandin) | N/A |
-| 9 | [Dave Grohl](http://twitter.com/search?q=Dave+Grohl) | N/A |
-| 10 | [#TSTheErasTour](http://twitter.com/search?q=%23TSTheErasTour) | N/A |
+| 2 | [Frazier](http://twitter.com/search?q=Frazier) | Frazier is a surname of Scottish origin. It is derived from the French word "fraise" meaning strawberry. The name was originally given to someone who lived near a strawberry patch or grew strawberries. |
+| 3 | [McDermott](http://twitter.com/search?q=McDermott) | McDermott is a surname of Irish origin. It is derived from the Gaelic Mac Diarmada, meaning "son of Diarmaid". The name is associated with County Roscommon in Ireland. |
+| 4 | [#BeyondFast](http://twitter.com/search?q=%23BeyondFast) | #BeyondFast is a hashtag used to describe something that goes beyond the speed of fast. It is used to emphasize the idea that something is faster than fast, or that it surpasses the speed of fast. |
+| 5 | [Patrick Kane](http://twitter.com/search?q=Patrick+Kane) | N/A |
+| 6 | [Dave Grohl](http://twitter.com/search?q=Dave+Grohl) | N/A |
+| 7 | [#studentloanforgiveness](http://twitter.com/search?q=%23studentloanforgiveness) | N/A |
+| 8 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
+| 9 | [Sandin](http://twitter.com/search?q=Sandin) | N/A |
+| 10 | [Barrie](http://twitter.com/search?q=Barrie) | N/A |
 | 11 | [Kyle Dubas](http://twitter.com/search?q=Kyle+Dubas) | N/A |
-| 12 | [#RareDiseaseDay](http://twitter.com/search?q=%23RareDiseaseDay) | N/A |
-| 13 | [Matt Gaetz](http://twitter.com/search?q=Matt+Gaetz) | Matt Gaetz is an American politician who currently serves as the U.S. Representative for Florida's 1st congressional district. He is a member of the Republican Party and was first elected to Congress in 2016. |
-| 14 | [Dr. Kinsey](http://twitter.com/search?q=Dr.+Kinsey) | N/A |
-| 15 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
-| 16 | [Tim Ream](http://twitter.com/search?q=Tim+Ream) | Tim Ream is an American soccer player who currently plays for Fulham in the English Premier League. He is a defender who has also played for the United States men's national team. The name "Tim Ream" is derived from his given name, Timothy. |
-| 17 | [Dragic](http://twitter.com/search?q=Dragic) | N/A |
-| 18 | [Peter Pan](http://twitter.com/search?q=Peter+Pan) | N/A |
-| 19 | [Blackhawks](http://twitter.com/search?q=Blackhawks) | N/A |
-| 20 | [Julie Su](http://twitter.com/search?q=Julie+Su) | N/A |
-| 21 | [SCOTUS](http://twitter.com/search?q=SCOTUS) | SCOTUS is an acronym for the Supreme Court of the United States. It is the highest court in the United States and is responsible for interpreting and applying federal laws. |
-| 22 | [Raskin](http://twitter.com/search?q=Raskin) | N/A |
-| 23 | [Panarin](http://twitter.com/search?q=Panarin) | N/A |
-| 24 | [#PMSLive](http://twitter.com/search?q=%23PMSLive) | N/A |
-| 25 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
-| 26 | [Engvall](http://twitter.com/search?q=Engvall) | N/A |
-| 27 | [Bo Cruz](http://twitter.com/search?q=Bo+Cruz) | N/A |
-| 28 | [GIVE US WN BLOOPERS](http://twitter.com/search?q=GIVE+US+WN+BLOOPERS) | N/A |
-| 29 | [Sean Desai](http://twitter.com/search?q=Sean+Desai) | N/A |
+| 12 | [#AgustD_SUGA_Tour](http://twitter.com/search?q=%23AgustD_SUGA_Tour) | N/A |
+| 13 | [Peter Pan](http://twitter.com/search?q=Peter+Pan) | N/A |
+| 14 | [Gaetz](http://twitter.com/search?q=Gaetz) | Gaetz is a surname of German origin. It is derived from the German word "Gatze" which means "goat". The name is most commonly found in the United States, Canada, and Germany. |
+| 15 | [#TSTheErasTour](http://twitter.com/search?q=%23TSTheErasTour) | N/A |
+| 16 | [Ekholm](http://twitter.com/search?q=Ekholm) | N/A |
+| 17 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
+| 18 | [Stone Cold](http://twitter.com/search?q=Stone+Cold) | N/A |
+| 19 | [Engvall](http://twitter.com/search?q=Engvall) | N/A |
+| 20 | [Dr. Kinsey](http://twitter.com/search?q=Dr.+Kinsey) | N/A |
+| 21 | [Tim Ream](http://twitter.com/search?q=Tim+Ream) | Tim Ream is an American soccer player who currently plays for Fulham in the English Premier League. He is a defender who has also played for the United States men's national team. The name "Tim Ream" is derived from his given name, Timothy. |
+| 22 | [Julie Su](http://twitter.com/search?q=Julie+Su) | N/A |
+| 23 | [#Blackhawks](http://twitter.com/search?q=%23Blackhawks) | N/A |
+| 24 | [Black History Month](http://twitter.com/search?q=Black+History+Month) | N/A |
+| 25 | [Dragic](http://twitter.com/search?q=Dragic) | N/A |
+| 26 | [GIVE US WN BLOOPERS](http://twitter.com/search?q=GIVE+US+WN+BLOOPERS) | N/A |
+| 27 | [SCOTUS](http://twitter.com/search?q=SCOTUS) | SCOTUS is an acronym for the Supreme Court of the United States. It is the highest court in the United States and is responsible for interpreting and applying federal laws. |
+| 28 | [Raskin](http://twitter.com/search?q=Raskin) | N/A |
+| 29 | [Chychrun](http://twitter.com/search?q=Chychrun) | N/A |
 | 30 | [Tinkerbell](http://twitter.com/search?q=Tinkerbell) | N/A |
-| 31 | [Dreamville](http://twitter.com/search?q=Dreamville) | N/A |
-| 32 | [Leonard Fournette](http://twitter.com/search?q=Leonard+Fournette) | N/A |
-| 33 | [Grogu](http://twitter.com/search?q=Grogu) | N/A |
-| 34 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
-| 35 | [Duke Tobin](http://twitter.com/search?q=Duke+Tobin) | N/A |
-| 36 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 37 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 38 | [Pogba](http://twitter.com/search?q=Pogba) | Pogba is a nickname for the French professional footballer Paul Pogba. It is derived from his last name and is often used as a term of endearment by his fans. |
-| 39 | [MASH](http://twitter.com/search?q=MASH) | N/A |
-| 40 | [SEIZED](http://twitter.com/search?q=SEIZED) | N/A |
-| 41 | [Ricou Browning](http://twitter.com/search?q=Ricou+Browning) | N/A |
-| 42 | [Pearl Nelson](http://twitter.com/search?q=Pearl+Nelson) | N/A |
-| 43 | [Tee Higgins](http://twitter.com/search?q=Tee+Higgins) | Tee Higgins is a nickname for the American football player Tee Higgins, who plays wide receiver for the Cincinnati Bengals. The name is derived from his given name, Terrell. |
-| 44 | [Schenn](http://twitter.com/search?q=Schenn) | N/A |
-| 45 | [Tarasenko](http://twitter.com/search?q=Tarasenko) | N/A |
-| 46 | [Chris Drury](http://twitter.com/search?q=Chris+Drury) | N/A |
-| 47 | [Chychrun](http://twitter.com/search?q=Chychrun) | N/A |
-| 48 | [Jim Johnston](http://twitter.com/search?q=Jim+Johnston) | N/A |
-| 49 | [Gustafsson](http://twitter.com/search?q=Gustafsson) | N/A |
-| 50 | [Lenny](http://twitter.com/search?q=Lenny) | N/A |
+| 31 | [Grogu](http://twitter.com/search?q=Grogu) | N/A |
+| 32 | [MASH](http://twitter.com/search?q=MASH) | N/A |
+| 33 | [SEIZED](http://twitter.com/search?q=SEIZED) | N/A |
+| 34 | [Ricou Browning](http://twitter.com/search?q=Ricou+Browning) | N/A |
+| 35 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
+| 36 | [Boeser](http://twitter.com/search?q=Boeser) | N/A |
+| 37 | [Schenn](http://twitter.com/search?q=Schenn) | N/A |
+| 38 | [Leonard Fournette](http://twitter.com/search?q=Leonard+Fournette) | N/A |
+| 39 | [Pogba](http://twitter.com/search?q=Pogba) | Pogba is a nickname for the French professional footballer Paul Pogba. It is derived from his last name and is often used as a term of endearment by his fans. |
+| 40 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 41 | [Sean Desai](http://twitter.com/search?q=Sean+Desai) | N/A |
+| 42 | [Duke Tobin](http://twitter.com/search?q=Duke+Tobin) | N/A |
+| 43 | [Panarin](http://twitter.com/search?q=Panarin) | N/A |
+| 44 | [Jon Favreau](http://twitter.com/search?q=Jon+Favreau) | N/A |
+| 45 | [Pearl Nelson](http://twitter.com/search?q=Pearl+Nelson) | N/A |
+| 46 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
+| 47 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 48 | [Korpi](http://twitter.com/search?q=Korpi) | N/A |
+| 49 | [Bo Cruz](http://twitter.com/search?q=Bo+Cruz) | N/A |
+| 50 | [Tee Higgins](http://twitter.com/search?q=Tee+Higgins) | Tee Higgins is a nickname for the American football player Tee Higgins, who plays wide receiver for the Cincinnati Bengals. The name is derived from his given name, Terrell. |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-02-28 22:17:17 UTC`
+📆 Last Updated: `2023-02-28 23:16:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Panama
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
-| 2 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 3 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
-| 4 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 5 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
-| 6 | [La Salle](http://twitter.com/search?q=La+Salle) | N/A |
-| 7 | [Luis Denis Arce](http://twitter.com/search?q=Luis+Denis+Arce) | N/A |
-| 8 | [IFARHU](http://twitter.com/search?q=IFARHU) | N/A |
-| 9 | [Gaby](http://twitter.com/search?q=Gaby) | N/A |
-| 10 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 11 | [Ileana Molo Alvarado](http://twitter.com/search?q=Ileana+Molo+Alvarado) | N/A |
-| 12 | [Embajadora](http://twitter.com/search?q=Embajadora) | N/A |
-| 13 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 1 | [Vale Digital](http://twitter.com/search?q=Vale+Digital) | N/A |
+| 2 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
+| 3 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 4 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
+| 5 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 6 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
+| 7 | [La Salle](http://twitter.com/search?q=La+Salle) | N/A |
+| 8 | [Gaby](http://twitter.com/search?q=Gaby) | N/A |
+| 9 | [Luis Denis Arce](http://twitter.com/search?q=Luis+Denis+Arce) | N/A |
+| 10 | [IFARHU](http://twitter.com/search?q=IFARHU) | N/A |
+| 11 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 12 | [Waked](http://twitter.com/search?q=Waked) | N/A |
+| 13 | [Embajadora](http://twitter.com/search?q=Embajadora) | N/A |
 | 14 | [Pandeportes](http://twitter.com/search?q=Pandeportes) | N/A |
-| 15 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
-| 16 | [Waked](http://twitter.com/search?q=Waked) | N/A |
-| 17 | [Mari Carmen Aponte](http://twitter.com/search?q=Mari+Carmen+Aponte) | N/A |
-| 18 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 19 | [Homicidio](http://twitter.com/search?q=Homicidio) | N/A |
-| 20 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
-| 21 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
-| 22 | [realizando metas](http://twitter.com/search?q=realizando+metas) | N/A |
-| 23 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
-| 24 | [Iniesta](http://twitter.com/search?q=Iniesta) | N/A |
-| 25 | [Alexia](http://twitter.com/search?q=Alexia) | Alexia is a neurological disorder that affects a person's ability to read. It is also known as word blindness or dyslexia. People with Alexia have difficulty understanding written words, even though they may be able to speak and write normally. |
-| 26 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
-| 27 | [Nito](http://twitter.com/search?q=Nito) | N/A |
-| 28 | [Kipling](http://twitter.com/search?q=Kipling) | N/A |
-| 29 | [#SlavaUkraini](http://twitter.com/search?q=%23SlavaUkraini) | N/A |
-| 30 | [Millo](http://twitter.com/search?q=Millo) | N/A |
-| 31 | [Estados Unidos](http://twitter.com/search?q=Estados+Unidos) | Estados Unidos is the Spanish name for the United States of America. It literally translates to "United States" in English. |
-| 32 | [Labello](http://twitter.com/search?q=Labello) | N/A |
-| 33 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
-| 34 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |
-| 35 | [DJ Black](http://twitter.com/search?q=DJ+Black) | N/A |
+| 15 | [Ileana Molo Alvarado](http://twitter.com/search?q=Ileana+Molo+Alvarado) | N/A |
+| 16 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 17 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 18 | [Homicidio](http://twitter.com/search?q=Homicidio) | N/A |
+| 19 | [Mari Carmen Aponte](http://twitter.com/search?q=Mari+Carmen+Aponte) | N/A |
+| 20 | [#SlavaUkraini](http://twitter.com/search?q=%23SlavaUkraini) | N/A |
+| 21 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
+| 22 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
+| 23 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 24 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 25 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
+| 26 | [Alvaro](http://twitter.com/search?q=Alvaro) | N/A |
+| 27 | [América Latina](http://twitter.com/search?q=Am%c3%a9rica+Latina) | N/A |
+| 28 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |
+| 29 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
+| 30 | [Cortizo](http://twitter.com/search?q=Cortizo) | N/A |
+| 31 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
+| 32 | [realizando metas](http://twitter.com/search?q=realizando+metas) | N/A |
+| 33 | [Alexia](http://twitter.com/search?q=Alexia) | Alexia is a neurological disorder that affects a person's ability to read. It is also known as word blindness or dyslexia. People with Alexia have difficulty understanding written words, even though they may be able to speak and write normally. |
+| 34 | [Singapur](http://twitter.com/search?q=Singapur) | N/A |
+| 35 | [Millo](http://twitter.com/search?q=Millo) | N/A |
 | 36 | [Corrupto](http://twitter.com/search?q=Corrupto) | N/A |
-| 37 | [Thomas Christiansen](http://twitter.com/search?q=Thomas+Christiansen) | N/A |
-| 38 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
-| 39 | [República](http://twitter.com/search?q=Rep%c3%bablica) | N/A |
-| 40 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 41 | [Omeprazol](http://twitter.com/search?q=Omeprazol) | N/A |
-| 42 | [Singapur](http://twitter.com/search?q=Singapur) | N/A |
-| 43 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 44 | [Balón de Oro](http://twitter.com/search?q=Bal%c3%b3n+de+Oro) | N/A |
-| 45 | [puerto armuelles](http://twitter.com/search?q=puerto+armuelles) | N/A |
-| 46 | [Noriega](http://twitter.com/search?q=Noriega) | N/A |
-| 47 | [América Latina](http://twitter.com/search?q=Am%c3%a9rica+Latina) | N/A |
-| 48 | [Robo](http://twitter.com/search?q=Robo) | N/A |
-| 49 | [Washington](http://twitter.com/search?q=Washington) | N/A |
-| 50 | [Bogotá](http://twitter.com/search?q=Bogot%c3%a1) | N/A |
+| 37 | [Iniesta](http://twitter.com/search?q=Iniesta) | N/A |
+| 38 | [#PanamáSigueCreciendo](http://twitter.com/search?q=%23Panam%c3%a1SigueCreciendo) | N/A |
+| 39 | [Labello](http://twitter.com/search?q=Labello) | N/A |
+| 40 | [Toro](http://twitter.com/search?q=Toro) | N/A |
+| 41 | [Estados Unidos](http://twitter.com/search?q=Estados+Unidos) | Estados Unidos is the Spanish name for the United States of America. It literally translates to "United States" in English. |
+| 42 | [dj black](http://twitter.com/search?q=dj+black) | N/A |
+| 43 | [YO NUNCA](http://twitter.com/search?q=YO+NUNCA) | N/A |
+| 44 | [Kipling](http://twitter.com/search?q=Kipling) | N/A |
+| 45 | [Nokia](http://twitter.com/search?q=Nokia) | N/A |
+| 46 | [Omeprazol](http://twitter.com/search?q=Omeprazol) | N/A |
+| 47 | [Guatemala](http://twitter.com/search?q=Guatemala) | Guatemala is a country in Central America bordered by Mexico, Belize, Honduras, and El Salvador. Its capital is Guatemala City. The name Guatemala comes from the Nahuatl word Cuauhtēmallān, meaning "place of many trees." |
+| 48 | [Chorrera](http://twitter.com/search?q=Chorrera) | N/A |
+| 49 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 50 | [Thomas Christiansen](http://twitter.com/search?q=Thomas+Christiansen) | N/A |
 
 
 

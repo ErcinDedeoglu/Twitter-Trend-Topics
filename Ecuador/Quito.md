@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quito
 
-📆 Last Updated: `2023-02-28 22:16:21 UTC`
+📆 Last Updated: `2023-02-28 23:16:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Ecuador](</Ecuador>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Luisa Espinoza](http://twitter.com/search?q=Luisa+Espinoza) | N/A |
-| 2 | [#SquidCraft2](http://twitter.com/search?q=%23SquidCraft2) | N/A |
-| 3 | [Costa Rica](http://twitter.com/search?q=Costa+Rica) | N/A |
-| 4 | [Angie Asang](http://twitter.com/search?q=Angie+Asang) | N/A |
-| 5 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
-| 6 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
-| 7 | [Gareca](http://twitter.com/search?q=Gareca) | N/A |
-| 8 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 9 | [Unidad Nacional](http://twitter.com/search?q=Unidad+Nacional) | N/A |
-| 10 | [#LouisComeToEcuador](http://twitter.com/search?q=%23LouisComeToEcuador) | N/A |
-| 11 | [#LaGobernaciónEnTuCantón](http://twitter.com/search?q=%23LaGobernaci%c3%b3nEnTuCant%c3%b3n) | N/A |
-| 12 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 13 | [Moisés Caicedo](http://twitter.com/search?q=Mois%c3%a9s+Caicedo) | N/A |
-| 14 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 15 | [#FACup](http://twitter.com/search?q=%23FACup) | #FACup is an abbreviation for the Football Association Challenge Cup, which is an annual knockout football competition in England. It is the oldest football competition in the world and is open to all teams from the top four tiers of English football. |
-| 16 | [#RecopaSudamericana](http://twitter.com/search?q=%23RecopaSudamericana) | N/A |
-| 17 | [Influencer](http://twitter.com/search?q=Influencer) | N/A |
-| 18 | [Miller](http://twitter.com/search?q=Miller) | N/A |
-| 19 | [Traición a la Patria](http://twitter.com/search?q=Traici%c3%b3n+a+la+Patria) | N/A |
-| 20 | [Twitch](http://twitter.com/search?q=Twitch) | N/A |
-| 21 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
-| 22 | [4Pelagatos](http://twitter.com/search?q=4Pelagatos) | N/A |
-| 23 | [Eduardo Mendúa](http://twitter.com/search?q=Eduardo+Mend%c3%baa) | N/A |
-| 24 | [tina](http://twitter.com/search?q=tina) | N/A |
+| 2 | [Almada](http://twitter.com/search?q=Almada) | N/A |
+| 3 | [Gareca](http://twitter.com/search?q=Gareca) | N/A |
+| 4 | [Costa Rica](http://twitter.com/search?q=Costa+Rica) | N/A |
+| 5 | [#SquidCraft2](http://twitter.com/search?q=%23SquidCraft2) | N/A |
+| 6 | [Angie Asang](http://twitter.com/search?q=Angie+Asang) | N/A |
+| 7 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
+| 8 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
+| 9 | [unidad nacional](http://twitter.com/search?q=unidad+nacional) | N/A |
+| 10 | [#LaGobernaciónEnTuCantón](http://twitter.com/search?q=%23LaGobernaci%c3%b3nEnTuCant%c3%b3n) | N/A |
+| 11 | [#RecopaSudamericana](http://twitter.com/search?q=%23RecopaSudamericana) | N/A |
+| 12 | [Moisés Caicedo](http://twitter.com/search?q=Mois%c3%a9s+Caicedo) | N/A |
+| 13 | [#LouisComeToEcuador](http://twitter.com/search?q=%23LouisComeToEcuador) | N/A |
+| 14 | [Traición a la Patria](http://twitter.com/search?q=Traici%c3%b3n+a+la+Patria) | N/A |
+| 15 | [Influencer](http://twitter.com/search?q=Influencer) | N/A |
+| 16 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 17 | [4Pelagatos](http://twitter.com/search?q=4Pelagatos) | N/A |
+| 18 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 19 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 20 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
+| 21 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
+| 22 | [Lionel Scaloni](http://twitter.com/search?q=Lionel+Scaloni) | N/A |
+| 23 | [#FACup](http://twitter.com/search?q=%23FACup) | #FACup is an abbreviation for the Football Association Challenge Cup, which is an annual knockout football competition in England. It is the oldest football competition in the world and is open to all teams from the top four tiers of English football. |
+| 24 | [Tere](http://twitter.com/search?q=Tere) | N/A |
 | 25 | [Sauces 5](http://twitter.com/search?q=Sauces+5) | N/A |
 | 26 | [Jeremy Sarmiento](http://twitter.com/search?q=Jeremy+Sarmiento) | N/A |
-| 27 | [Lionel Scaloni](http://twitter.com/search?q=Lionel+Scaloni) | N/A |
-| 28 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 29 | [Tere](http://twitter.com/search?q=Tere) | N/A |
-| 30 | [Orense](http://twitter.com/search?q=Orense) | N/A |
-| 31 | [Miguel Bravo](http://twitter.com/search?q=Miguel+Bravo) | N/A |
-| 32 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
-| 33 | [Modelo](http://twitter.com/search?q=Modelo) | N/A |
-| 34 | [Germán](http://twitter.com/search?q=Germ%c3%a1n) | Germán is a Spanish and Portuguese name derived from the Latin Germanus, meaning "brother". It is also a Germanic given name, derived from the Germanic element ger, meaning "spear". |
-| 35 | [ejército ecuatoriano](http://twitter.com/search?q=ej%c3%a9rcito+ecuatoriano) | N/A |
-| 36 | [JISOO THE FACE OF DIOR](http://twitter.com/search?q=JISOO+THE+FACE+OF+DIOR) | N/A |
-| 37 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 38 | [Velez](http://twitter.com/search?q=Velez) | N/A |
-| 39 | [Felipe Crespo](http://twitter.com/search?q=Felipe+Crespo) | N/A |
-| 40 | [Relaciones Internacionales](http://twitter.com/search?q=Relaciones+Internacionales) | N/A |
-| 41 | [Zámbiza](http://twitter.com/search?q=Z%c3%a1mbiza) | N/A |
-| 42 | [Futura](http://twitter.com/search?q=Futura) | N/A |
-| 43 | [sonnia](http://twitter.com/search?q=sonnia) | N/A |
+| 27 | [Modelo](http://twitter.com/search?q=Modelo) | N/A |
+| 28 | [Eduardo Mendúa](http://twitter.com/search?q=Eduardo+Mend%c3%baa) | N/A |
+| 29 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
+| 30 | [Felipe Crespo](http://twitter.com/search?q=Felipe+Crespo) | N/A |
+| 31 | [JISOO THE FACE OF DIOR](http://twitter.com/search?q=JISOO+THE+FACE+OF+DIOR) | N/A |
+| 32 | [miguel bravo](http://twitter.com/search?q=miguel+bravo) | N/A |
+| 33 | [Futura](http://twitter.com/search?q=Futura) | N/A |
+| 34 | [Orense](http://twitter.com/search?q=Orense) | N/A |
+| 35 | [Miller](http://twitter.com/search?q=Miller) | N/A |
+| 36 | [Turi](http://twitter.com/search?q=Turi) | N/A |
+| 37 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 38 | [ejército ecuatoriano](http://twitter.com/search?q=ej%c3%a9rcito+ecuatoriano) | N/A |
+| 39 | [Velez](http://twitter.com/search?q=Velez) | N/A |
+| 40 | [Zámbiza](http://twitter.com/search?q=Z%c3%a1mbiza) | N/A |
+| 41 | [Germán](http://twitter.com/search?q=Germ%c3%a1n) | Germán is a Spanish and Portuguese name derived from the Latin Germanus, meaning "brother". It is also a Germanic given name, derived from the Germanic element ger, meaning "spear". |
+| 42 | [Daule](http://twitter.com/search?q=Daule) | N/A |
+| 43 | [Maracaná](http://twitter.com/search?q=Maracan%c3%a1) | N/A |
 | 44 | [LATE LATE SHOW WITH TXT](http://twitter.com/search?q=LATE+LATE+SHOW+WITH+TXT) | N/A |
-| 45 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
-| 46 | [jocay de manta](http://twitter.com/search?q=jocay+de+manta) | N/A |
-| 47 | [Delfín](http://twitter.com/search?q=Delf%c3%adn) | N/A |
-| 48 | [Gramalote](http://twitter.com/search?q=Gramalote) | N/A |
-| 49 | [Sosa](http://twitter.com/search?q=Sosa) | N/A |
-| 50 | [Alberti](http://twitter.com/search?q=Alberti) | N/A |
+| 45 | [La Comisión](http://twitter.com/search?q=La+Comisi%c3%b3n) | N/A |
+| 46 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
+| 47 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 48 | [Alberti](http://twitter.com/search?q=Alberti) | N/A |
+| 49 | [Bonil](http://twitter.com/search?q=Bonil) | N/A |
+| 50 | [Sosa](http://twitter.com/search?q=Sosa) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barranquilla
 
-📆 Last Updated: `2023-02-28 22:16:21 UTC`
+📆 Last Updated: `2023-02-28 23:16:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [Colombia](</Colombia>)
 | 3 | [Petro](http://twitter.com/search?q=Petro) | N/A |
 | 4 | [#CambiarMinistrosEs](http://twitter.com/search?q=%23CambiarMinistrosEs) | N/A |
 | 5 | [Patricia Ariza](http://twitter.com/search?q=Patricia+Ariza) | N/A |
-| 6 | [#SquidCraft2](http://twitter.com/search?q=%23SquidCraft2) | N/A |
-| 7 | [#DiaMundialDelRatonPerez](http://twitter.com/search?q=%23DiaMundialDelRatonPerez) | N/A |
-| 8 | [Ocampo](http://twitter.com/search?q=Ocampo) | Ocampo is a Spanish surname derived from the Latin word campus, meaning "field". It is most commonly found in Spain and Latin America. In English, it can be translated to mean "of the field". |
-| 9 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
-| 10 | [Satena](http://twitter.com/search?q=Satena) | N/A |
-| 11 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
-| 12 | [Vargas Lleras](http://twitter.com/search?q=Vargas+Lleras) | N/A |
-| 13 | [Aerocivil](http://twitter.com/search?q=Aerocivil) | N/A |
-| 14 | [#ConfiamosEnElCambio](http://twitter.com/search?q=%23ConfiamosEnElCambio) | N/A |
-| 15 | [Zorro](http://twitter.com/search?q=Zorro) | N/A |
-| 16 | [#AlEstadioConTigoPoderoso](http://twitter.com/search?q=%23AlEstadioConTigoPoderoso) | N/A |
+| 6 | [Ocampo](http://twitter.com/search?q=Ocampo) | Ocampo is a Spanish surname derived from the Latin word campus, meaning "field". It is most commonly found in Spain and Latin America. In English, it can be translated to mean "of the field". |
+| 7 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
+| 8 | [#SquidCraft2](http://twitter.com/search?q=%23SquidCraft2) | N/A |
+| 9 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
+| 10 | [Vargas Lleras](http://twitter.com/search?q=Vargas+Lleras) | N/A |
+| 11 | [Satena](http://twitter.com/search?q=Satena) | N/A |
+| 12 | [Aerocivil](http://twitter.com/search?q=Aerocivil) | N/A |
+| 13 | [#ConfiamosEnElCambio](http://twitter.com/search?q=%23ConfiamosEnElCambio) | N/A |
+| 14 | [Zorro](http://twitter.com/search?q=Zorro) | N/A |
+| 15 | [#DiaMundialDelRatonPerez](http://twitter.com/search?q=%23DiaMundialDelRatonPerez) | N/A |
+| 16 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
 | 17 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 18 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
+| 18 | [Mermelada](http://twitter.com/search?q=Mermelada) | N/A |
 | 19 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 20 | [Mermelada](http://twitter.com/search?q=Mermelada) | N/A |
+| 20 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
 | 21 | [Dilian](http://twitter.com/search?q=Dilian) | N/A |
-| 22 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 23 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
-| 24 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
-| 25 | [Corcho](http://twitter.com/search?q=Corcho) | N/A |
-| 26 | [Nerú](http://twitter.com/search?q=Ner%c3%ba) | N/A |
-| 27 | [Irene Vélez](http://twitter.com/search?q=Irene+V%c3%a9lez) | N/A |
+| 22 | [Irene Vélez](http://twitter.com/search?q=Irene+V%c3%a9lez) | N/A |
+| 23 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 24 | [Nerú](http://twitter.com/search?q=Ner%c3%ba) | N/A |
+| 25 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
+| 26 | [Corcho](http://twitter.com/search?q=Corcho) | N/A |
+| 27 | [Jamming](http://twitter.com/search?q=Jamming) | N/A |
 | 28 | [Vendidos](http://twitter.com/search?q=Vendidos) | N/A |
-| 29 | [tina](http://twitter.com/search?q=tina) | N/A |
-| 30 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
-| 31 | [DDHH](http://twitter.com/search?q=DDHH) | N/A |
-| 32 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | N/A |
-| 33 | [Astrid Rodríguez](http://twitter.com/search?q=Astrid+Rodr%c3%adguez) | N/A |
-| 34 | [Deossa](http://twitter.com/search?q=Deossa) | N/A |
-| 35 | [Jamming](http://twitter.com/search?q=Jamming) | N/A |
-| 36 | [California](http://twitter.com/search?q=California) | N/A |
-| 37 | [Aeronáutica Civil](http://twitter.com/search?q=Aeron%c3%a1utica+Civil) | N/A |
-| 38 | [La Gata](http://twitter.com/search?q=La+Gata) | N/A |
-| 39 | [JISOO THE FACE OF DIOR](http://twitter.com/search?q=JISOO+THE+FACE+OF+DIOR) | N/A |
-| 40 | [MinEducación](http://twitter.com/search?q=MinEducaci%c3%b3n) | N/A |
-| 41 | [brahian palacios](http://twitter.com/search?q=brahian+palacios) | N/A |
-| 42 | [Chantaje](http://twitter.com/search?q=Chantaje) | N/A |
-| 43 | [Angie](http://twitter.com/search?q=Angie) | N/A |
-| 44 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
-| 45 | [Twitch](http://twitter.com/search?q=Twitch) | N/A |
-| 46 | [Blink](http://twitter.com/search?q=Blink) | N/A |
-| 47 | [Neoliberal](http://twitter.com/search?q=Neoliberal) | N/A |
-| 48 | [Valeria Giraldo](http://twitter.com/search?q=Valeria+Giraldo) | N/A |
-| 49 | [enilce lópez](http://twitter.com/search?q=enilce+l%c3%b3pez) | N/A |
-| 50 | [Conmebol](http://twitter.com/search?q=Conmebol) | Conmebol is the acronym for the South American Football Confederation, which is the governing body for football (soccer) in South America. The English translation of Conmebol is "Confederación Sudamericana de Fútbol". |
+| 29 | [Aeronáutica Civil](http://twitter.com/search?q=Aeron%c3%a1utica+Civil) | N/A |
+| 30 | [MinEducación](http://twitter.com/search?q=MinEducaci%c3%b3n) | N/A |
+| 31 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
+| 32 | [Blink](http://twitter.com/search?q=Blink) | N/A |
+| 33 | [DDHH](http://twitter.com/search?q=DDHH) | N/A |
+| 34 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | N/A |
+| 35 | [JISOO THE FACE OF DIOR](http://twitter.com/search?q=JISOO+THE+FACE+OF+DIOR) | N/A |
+| 36 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 37 | [La Gata](http://twitter.com/search?q=La+Gata) | N/A |
+| 38 | [California](http://twitter.com/search?q=California) | N/A |
+| 39 | [Fecha 9](http://twitter.com/search?q=Fecha+9) | N/A |
+| 40 | [Chantaje](http://twitter.com/search?q=Chantaje) | N/A |
+| 41 | [Valeria Giraldo](http://twitter.com/search?q=Valeria+Giraldo) | N/A |
+| 42 | [Deossa](http://twitter.com/search?q=Deossa) | N/A |
+| 43 | [Waffles](http://twitter.com/search?q=Waffles) | N/A |
+| 44 | [Astrid Rodríguez](http://twitter.com/search?q=Astrid+Rodr%c3%adguez) | N/A |
+| 45 | [Torino](http://twitter.com/search?q=Torino) | N/A |
+| 46 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
+| 47 | [Big Time Rush](http://twitter.com/search?q=Big+Time+Rush) | N/A |
+| 48 | [Héroe](http://twitter.com/search?q=H%c3%a9roe) | N/A |
+| 49 | [Astro](http://twitter.com/search?q=Astro) | N/A |
+| 50 | [Juve](http://twitter.com/search?q=Juve) | Juve is short for Juventus, an Italian professional football club based in Turin, Italy. The club is one of the most successful and popular teams in Italy and Europe, having won numerous domestic and international titles. In English, Juve is an abbreviation for Juventus. |
 
 
 

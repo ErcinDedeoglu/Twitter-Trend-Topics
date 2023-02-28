@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guadalajara
 
-📆 Last Updated: `2023-02-28 22:16:18 UTC`
+📆 Last Updated: `2023-02-28 23:16:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Mexico](</Mexico>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#SalarioRosaContinua](http://twitter.com/search?q=%23SalarioRosaContinua) | N/A |
-| 2 | [#SquidCraft2](http://twitter.com/search?q=%23SquidCraft2) | N/A |
-| 3 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
-| 4 | [tina](http://twitter.com/search?q=tina) | N/A |
-| 5 | [Andy Benavides](http://twitter.com/search?q=Andy+Benavides) | N/A |
-| 6 | [#LaNuevaLínea1](http://twitter.com/search?q=%23LaNuevaL%c3%adnea1) | N/A |
-| 7 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 8 | [#Chalco](http://twitter.com/search?q=%23Chalco) | N/A |
-| 9 | [#Ecatepec](http://twitter.com/search?q=%23Ecatepec) | N/A |
-| 10 | [Xalostoc](http://twitter.com/search?q=Xalostoc) | N/A |
-| 11 | [Luzu](http://twitter.com/search?q=Luzu) | Luzu is a Spanish word that means light. It is often used to refer to a bright, cheerful, and optimistic attitude. |
-| 12 | [Monterrey](http://twitter.com/search?q=Monterrey) | N/A |
-| 13 | [Peter Pan](http://twitter.com/search?q=Peter+Pan) | N/A |
-| 14 | [Samuel](http://twitter.com/search?q=Samuel) | N/A |
-| 15 | [Quackity](http://twitter.com/search?q=Quackity) | N/A |
-| 16 | [Reyma](http://twitter.com/search?q=Reyma) | N/A |
-| 17 | [Cremonese](http://twitter.com/search?q=Cremonese) | N/A |
-| 18 | [Campanita](http://twitter.com/search?q=Campanita) | N/A |
-| 19 | [Johan Vásquez](http://twitter.com/search?q=Johan+V%c3%a1squez) | N/A |
+| 2 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 3 | [#SquidCraft2](http://twitter.com/search?q=%23SquidCraft2) | N/A |
+| 4 | [Andy Benavides](http://twitter.com/search?q=Andy+Benavides) | N/A |
+| 5 | [Maxico](http://twitter.com/search?q=Maxico) | N/A |
+| 6 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
+| 7 | [Juan Collado](http://twitter.com/search?q=Juan+Collado) | N/A |
+| 8 | [Chalco](http://twitter.com/search?q=Chalco) | N/A |
+| 9 | [#LaNuevaLínea1](http://twitter.com/search?q=%23LaNuevaL%c3%adnea1) | N/A |
+| 10 | [Moonbin](http://twitter.com/search?q=Moonbin) | N/A |
+| 11 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 12 | [Luzu](http://twitter.com/search?q=Luzu) | Luzu is a Spanish word that means light. It is often used to refer to a bright, cheerful, and optimistic attitude. |
+| 13 | [#Ecatepec](http://twitter.com/search?q=%23Ecatepec) | N/A |
+| 14 | [Sanha](http://twitter.com/search?q=Sanha) | N/A |
+| 15 | [Monterrey](http://twitter.com/search?q=Monterrey) | N/A |
+| 16 | [Cabeza de Vaca](http://twitter.com/search?q=Cabeza+de+Vaca) | N/A |
+| 17 | [Samuel](http://twitter.com/search?q=Samuel) | N/A |
+| 18 | [Xalostoc](http://twitter.com/search?q=Xalostoc) | N/A |
+| 19 | [#OvidioNoSeToca](http://twitter.com/search?q=%23OvidioNoSeToca) | N/A |
 | 20 | [Carlos Alcaraz](http://twitter.com/search?q=Carlos+Alcaraz) | Carlos Alcaraz is a Spanish professional tennis player. He is the youngest player to ever win a match on the ATP Tour, having done so at the age of 15 in 2021. The name Carlos Alcaraz means "strong warrior" in English. |
-| 21 | [Juve](http://twitter.com/search?q=Juve) | Juve is short for Juventus, an Italian professional football club based in Turin, Italy. The club is one of the most successful and popular teams in Italy and Europe, having won numerous domestic and international titles. In English, Juve is an abbreviation for Juventus. |
-| 22 | [GIVE US WN BLOOPERS](http://twitter.com/search?q=GIVE+US+WN+BLOOPERS) | N/A |
-| 23 | [Angie](http://twitter.com/search?q=Angie) | N/A |
-| 24 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 25 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
-| 26 | [Santa Catarina](http://twitter.com/search?q=Santa+Catarina) | N/A |
-| 27 | [Alana](http://twitter.com/search?q=Alana) | N/A |
+| 21 | [Peter Pan](http://twitter.com/search?q=Peter+Pan) | N/A |
+| 22 | [Reyma](http://twitter.com/search?q=Reyma) | N/A |
+| 23 | [Campanita](http://twitter.com/search?q=Campanita) | N/A |
+| 24 | [Cremonese](http://twitter.com/search?q=Cremonese) | N/A |
+| 25 | [Santa Catarina](http://twitter.com/search?q=Santa+Catarina) | N/A |
+| 26 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
+| 27 | [Juve](http://twitter.com/search?q=Juve) | Juve is short for Juventus, an Italian professional football club based in Turin, Italy. The club is one of the most successful and popular teams in Italy and Europe, having won numerous domestic and international titles. In English, Juve is an abbreviation for Juventus. |
 | 28 | [Tinkerbell](http://twitter.com/search?q=Tinkerbell) | N/A |
-| 29 | [Wactor](http://twitter.com/search?q=Wactor) | N/A |
-| 30 | [Lorena Merino](http://twitter.com/search?q=Lorena+Merino) | N/A |
-| 31 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
-| 32 | [Stephen Colbert](http://twitter.com/search?q=Stephen+Colbert) | N/A |
-| 33 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
-| 34 | [N.L.](http://twitter.com/search?q=N.L.) | N/A |
-| 35 | [Carioca](http://twitter.com/search?q=Carioca) | N/A |
-| 36 | [Chicharito](http://twitter.com/search?q=Chicharito) | N/A |
-| 37 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
-| 38 | [valdo](http://twitter.com/search?q=valdo) | N/A |
-| 39 | [Palacio de Gobierno](http://twitter.com/search?q=Palacio+de+Gobierno) | N/A |
-| 40 | [Rubius](http://twitter.com/search?q=Rubius) | Rubius is a Latin word meaning "red". It is often used to describe the color of hair, eyes, or skin. |
-| 41 | [Astro](http://twitter.com/search?q=Astro) | N/A |
-| 42 | [Día Mundial](http://twitter.com/search?q=D%c3%ada+Mundial) | N/A |
-| 43 | [Chayanne](http://twitter.com/search?q=Chayanne) | N/A |
-| 44 | [Chumel](http://twitter.com/search?q=Chumel) | N/A |
-| 45 | [The World Is A Vampire](http://twitter.com/search?q=The+World+Is+A+Vampire) | N/A |
+| 29 | [Angie](http://twitter.com/search?q=Angie) | N/A |
+| 30 | [Quackity](http://twitter.com/search?q=Quackity) | N/A |
+| 31 | [Dinamarca](http://twitter.com/search?q=Dinamarca) | N/A |
+| 32 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 33 | [Wactor](http://twitter.com/search?q=Wactor) | N/A |
+| 34 | [Lorena Merino](http://twitter.com/search?q=Lorena+Merino) | N/A |
+| 35 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
+| 36 | [Missa](http://twitter.com/search?q=Missa) | N/A |
+| 37 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 38 | [Carioca](http://twitter.com/search?q=Carioca) | N/A |
+| 39 | [Astro](http://twitter.com/search?q=Astro) | N/A |
+| 40 | [Auron](http://twitter.com/search?q=Auron) | Auron is a character from the popular video game series Final Fantasy. He is a powerful warrior who is known for his strength and wisdom. His name is derived from the Latin word aurum, which means "gold". In English, Auron can be translated to mean "golden one". |
+| 41 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
+| 42 | [valdo](http://twitter.com/search?q=valdo) | N/A |
+| 43 | [Stephen Colbert](http://twitter.com/search?q=Stephen+Colbert) | N/A |
+| 44 | [JISOO THE FACE OF DIOR](http://twitter.com/search?q=JISOO+THE+FACE+OF+DIOR) | N/A |
+| 45 | [N.L.](http://twitter.com/search?q=N.L.) | N/A |
 | 46 | [Peru](http://twitter.com/search?q=Peru) | Peru is a country located in western South America. It is bordered by Ecuador, Colombia, Brazil, Bolivia, and Chile. The official language of Peru is Spanish and its capital city is Lima. The name Peru comes from the Quechua word “piruw” which means “land of abundance”. |
-| 47 | [Elden Ring](http://twitter.com/search?q=Elden+Ring) | N/A |
-| 48 | [Washington](http://twitter.com/search?q=Washington) | N/A |
-| 49 | [#EnfermedadesRaras](http://twitter.com/search?q=%23EnfermedadesRaras) | N/A |
-| 50 | [#incendio](http://twitter.com/search?q=%23incendio) | N/A |
+| 47 | [Rubius](http://twitter.com/search?q=Rubius) | Rubius is a Latin word meaning "red". It is often used to describe the color of hair, eyes, or skin. |
+| 48 | [Chayanne](http://twitter.com/search?q=Chayanne) | N/A |
+| 49 | [Palacio de Gobierno](http://twitter.com/search?q=Palacio+de+Gobierno) | N/A |
+| 50 | [The World Is A Vampire](http://twitter.com/search?q=The+World+Is+A+Vampire) | N/A |
 
 
 
