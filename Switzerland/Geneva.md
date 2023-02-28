@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-02-28 11:15:58 UTC`
+📆 Last Updated: `2023-02-28 12:18:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,48 +22,48 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 5 | [Asylanten](http://twitter.com/search?q=Asylanten) | N/A |
 | 6 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 7 | [Mieter](http://twitter.com/search?q=Mieter) | N/A |
-| 8 | [Kündigungen](http://twitter.com/search?q=K%c3%bcndigungen) | N/A |
-| 9 | [fabio celestini](http://twitter.com/search?q=fabio+celestini) | N/A |
+| 8 | [Kündigung](http://twitter.com/search?q=K%c3%bcndigung) | N/A |
+| 9 | [Fabio Celestini](http://twitter.com/search?q=Fabio+Celestini) | N/A |
 | 10 | [Human Rights Council](http://twitter.com/search?q=Human+Rights+Council) | N/A |
-| 11 | [Asylunterkunft](http://twitter.com/search?q=Asylunterkunft) | N/A |
-| 12 | [Northern Ireland](http://twitter.com/search?q=Northern+Ireland) | N/A |
-| 13 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
-| 14 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
-| 15 | [Flüchtlinge](http://twitter.com/search?q=Fl%c3%bcchtlinge) | N/A |
-| 16 | [Shame](http://twitter.com/search?q=Shame) | N/A |
-| 17 | [Murgia](http://twitter.com/search?q=Murgia) | Murgia is a geographical region in southern Italy, located in the provinces of Bari and Taranto. It is characterized by its limestone hills, deep ravines, and caves. The name Murgia comes from the Latin word murex, meaning "rocky hill". In English, Murgia can be translated as "rocky land". |
-| 18 | [Schlein](http://twitter.com/search?q=Schlein) | N/A |
-| 19 | [Disarmament](http://twitter.com/search?q=Disarmament) | N/A |
-| 20 | [fc sion](http://twitter.com/search?q=fc+sion) | N/A |
-| 21 | [Geneva](http://twitter.com/search?q=Geneva) | N/A |
-| 22 | [Pokemon](http://twitter.com/search?q=Pokemon) | N/A |
-| 23 | [Kanton](http://twitter.com/search?q=Kanton) | N/A |
-| 24 | [Liste](http://twitter.com/search?q=Liste) | N/A |
-| 25 | [Alex](http://twitter.com/search?q=Alex) | N/A |
-| 26 | [Filter](http://twitter.com/search?q=Filter) | N/A |
-| 27 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
-| 28 | [Menschenrechte](http://twitter.com/search?q=Menschenrechte) | N/A |
-| 29 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
-| 30 | [Daniele](http://twitter.com/search?q=Daniele) | N/A |
-| 31 | [Conference](http://twitter.com/search?q=Conference) | N/A |
-| 32 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
-| 33 | [Fauci](http://twitter.com/search?q=Fauci) | N/A |
-| 34 | [Julien](http://twitter.com/search?q=Julien) | N/A |
-| 35 | [Geschichten](http://twitter.com/search?q=Geschichten) | N/A |
-| 36 | [Beweise](http://twitter.com/search?q=Beweise) | N/A |
-| 37 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 38 | [Moderator](http://twitter.com/search?q=Moderator) | N/A |
-| 39 | [Entwicklung](http://twitter.com/search?q=Entwicklung) | N/A |
-| 40 | [Wachstum](http://twitter.com/search?q=Wachstum) | N/A |
-| 41 | [Details](http://twitter.com/search?q=Details) | N/A |
-| 42 | [Timo Meier](http://twitter.com/search?q=Timo+Meier) | N/A |
-| 43 | [D'ailleurs](http://twitter.com/search?q=D%27ailleurs) | N/A |
-| 44 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 45 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
-| 46 | [Guete Morge](http://twitter.com/search?q=Guete+Morge) | N/A |
-| 47 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
-| 48 | [Dido](http://twitter.com/search?q=Dido) | N/A |
-| 49 | [Stimmen](http://twitter.com/search?q=Stimmen) | N/A |
+| 11 | [Eigentümer](http://twitter.com/search?q=Eigent%c3%bcmer) | N/A |
+| 12 | [Asylunterkunft](http://twitter.com/search?q=Asylunterkunft) | N/A |
+| 13 | [Northern Ireland](http://twitter.com/search?q=Northern+Ireland) | N/A |
+| 14 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
+| 15 | [Nationalrat](http://twitter.com/search?q=Nationalrat) | N/A |
+| 16 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
+| 17 | [Shame](http://twitter.com/search?q=Shame) | N/A |
+| 18 | [Elly Schlein](http://twitter.com/search?q=Elly+Schlein) | N/A |
+| 19 | [Hetze](http://twitter.com/search?q=Hetze) | N/A |
+| 20 | [kanton](http://twitter.com/search?q=kanton) | N/A |
+| 21 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 22 | [Disarmament](http://twitter.com/search?q=Disarmament) | N/A |
+| 23 | [fc sion](http://twitter.com/search?q=fc+sion) | N/A |
+| 24 | [Flüchtlinge](http://twitter.com/search?q=Fl%c3%bcchtlinge) | N/A |
+| 25 | [Moderator](http://twitter.com/search?q=Moderator) | N/A |
+| 26 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
+| 27 | [Liste](http://twitter.com/search?q=Liste) | N/A |
+| 28 | [Alex](http://twitter.com/search?q=Alex) | N/A |
+| 29 | [Geneva](http://twitter.com/search?q=Geneva) | N/A |
+| 30 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 31 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
+| 32 | [Filter](http://twitter.com/search?q=Filter) | N/A |
+| 33 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |
+| 34 | [Zucker](http://twitter.com/search?q=Zucker) | N/A |
+| 35 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
+| 36 | [Menschenrechte](http://twitter.com/search?q=Menschenrechte) | N/A |
+| 37 | [Elden Ring](http://twitter.com/search?q=Elden+Ring) | N/A |
+| 38 | [SVPler](http://twitter.com/search?q=SVPler) | N/A |
+| 39 | [Julien](http://twitter.com/search?q=Julien) | N/A |
+| 40 | [Daniele](http://twitter.com/search?q=Daniele) | N/A |
+| 41 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 42 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
+| 43 | [Conference](http://twitter.com/search?q=Conference) | N/A |
+| 44 | [Fauci](http://twitter.com/search?q=Fauci) | N/A |
+| 45 | [Details](http://twitter.com/search?q=Details) | N/A |
+| 46 | [Timo Meier](http://twitter.com/search?q=Timo+Meier) | N/A |
+| 47 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 48 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
+| 49 | [D'ailleurs](http://twitter.com/search?q=D%27ailleurs) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Colombia
 
-📆 Last Updated: `2023-02-28 11:16:28 UTC`
+📆 Last Updated: `2023-02-28 12:18:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Colombia
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#CambiarMinistrosEs](http://twitter.com/search?q=%23CambiarMinistrosEs) | N/A |
-| 2 | [Gaviria](http://twitter.com/search?q=Gaviria) | N/A |
-| 3 | [Viva Air](http://twitter.com/search?q=Viva+Air) | N/A |
-| 4 | [Patricia Ariza](http://twitter.com/search?q=Patricia+Ariza) | N/A |
-| 5 | [Ocampo](http://twitter.com/search?q=Ocampo) | Ocampo is a Spanish surname derived from the Latin word campus, meaning "field". It is most commonly found in Spain and Latin America. In English, it can be translated to mean "of the field". |
-| 6 | [Petro](http://twitter.com/search?q=Petro) | N/A |
-| 7 | [Petro](http://twitter.com/search?q=Petro) | N/A |
-| 8 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
-| 9 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
-| 10 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
-| 11 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 12 | [Avianca](http://twitter.com/search?q=Avianca) | N/A |
+| 2 | [#CambiarMinistrosEs](http://twitter.com/search?q=%23CambiarMinistrosEs) | N/A |
+| 3 | [Gaviria](http://twitter.com/search?q=Gaviria) | N/A |
+| 4 | [Viva Air](http://twitter.com/search?q=Viva+Air) | N/A |
+| 5 | [Petro](http://twitter.com/search?q=Petro) | N/A |
+| 6 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
+| 7 | [Patricia Ariza](http://twitter.com/search?q=Patricia+Ariza) | N/A |
+| 8 | [Ocampo](http://twitter.com/search?q=Ocampo) | Ocampo is a Spanish surname derived from the Latin word campus, meaning "field". It is most commonly found in Spain and Latin America. In English, it can be translated to mean "of the field". |
+| 9 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
+| 10 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
+| 11 | [#lerecomiendoalpresidente](http://twitter.com/search?q=%23lerecomiendoalpresidente) | N/A |
+| 12 | [#ConfiamosEnElCambio](http://twitter.com/search?q=%23ConfiamosEnElCambio) | N/A |
 | 13 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 14 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
-| 15 | [#EsUnInsulto](http://twitter.com/search?q=%23EsUnInsulto) | N/A |
+| 14 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 15 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
 | 16 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
-| 17 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
-| 18 | [Ministros](http://twitter.com/search?q=Ministros) | N/A |
-| 19 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
-| 20 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 21 | [Cultura](http://twitter.com/search?q=Cultura) | N/A |
-| 22 | [Irene Vélez](http://twitter.com/search?q=Irene+V%c3%a9lez) | N/A |
-| 23 | [Corcho](http://twitter.com/search?q=Corcho) | N/A |
-| 24 | [Mermelada](http://twitter.com/search?q=Mermelada) | N/A |
-| 25 | [#survivorlaisla](http://twitter.com/search?q=%23survivorlaisla) | N/A |
-| 26 | [brahian palacios](http://twitter.com/search?q=brahian+palacios) | N/A |
-| 27 | [DDHH](http://twitter.com/search?q=DDHH) | N/A |
-| 28 | [Aerocivil](http://twitter.com/search?q=Aerocivil) | N/A |
-| 29 | [Deossa](http://twitter.com/search?q=Deossa) | N/A |
-| 30 | [Dilian](http://twitter.com/search?q=Dilian) | N/A |
-| 31 | [goez](http://twitter.com/search?q=goez) | N/A |
-| 32 | [Astrid Rodríguez](http://twitter.com/search?q=Astrid+Rodr%c3%adguez) | N/A |
-| 33 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
-| 34 | [Scaloni](http://twitter.com/search?q=Scaloni) | N/A |
-| 35 | [vanegas](http://twitter.com/search?q=vanegas) | N/A |
-| 36 | [Cecilia López](http://twitter.com/search?q=Cecilia+L%c3%b3pez) | N/A |
-| 37 | [Natalia París](http://twitter.com/search?q=Natalia+Par%c3%ads) | N/A |
-| 38 | [La Gata](http://twitter.com/search?q=La+Gata) | N/A |
-| 39 | [Candelo](http://twitter.com/search?q=Candelo) | N/A |
-| 40 | [autuori](http://twitter.com/search?q=autuori) | N/A |
-| 41 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
-| 42 | [Repartiendo](http://twitter.com/search?q=Repartiendo) | N/A |
-| 43 | [BAOBAB](http://twitter.com/search?q=BAOBAB) | N/A |
-| 44 | [Morelo](http://twitter.com/search?q=Morelo) | N/A |
-| 45 | [Enilce López](http://twitter.com/search?q=Enilce+L%c3%b3pez) | N/A |
-| 46 | [MinEducación](http://twitter.com/search?q=MinEducaci%c3%b3n) | N/A |
-| 47 | [Huila](http://twitter.com/search?q=Huila) | N/A |
+| 17 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 18 | [Mermelada](http://twitter.com/search?q=Mermelada) | N/A |
+| 19 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 20 | [Corcho](http://twitter.com/search?q=Corcho) | N/A |
+| 21 | [Irene Vélez](http://twitter.com/search?q=Irene+V%c3%a9lez) | N/A |
+| 22 | [Aerocivil](http://twitter.com/search?q=Aerocivil) | N/A |
+| 23 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
+| 24 | [Vendidos](http://twitter.com/search?q=Vendidos) | N/A |
+| 25 | [Dilian](http://twitter.com/search?q=Dilian) | N/A |
+| 26 | [DDHH](http://twitter.com/search?q=DDHH) | N/A |
+| 27 | [deossa](http://twitter.com/search?q=deossa) | N/A |
+| 28 | [Gracias Alejandro](http://twitter.com/search?q=Gracias+Alejandro) | N/A |
+| 29 | [Chantaje](http://twitter.com/search?q=Chantaje) | N/A |
+| 30 | [goez](http://twitter.com/search?q=goez) | N/A |
+| 31 | [La Gata](http://twitter.com/search?q=La+Gata) | N/A |
+| 32 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
+| 33 | [Astrid Rodríguez](http://twitter.com/search?q=Astrid+Rodr%c3%adguez) | N/A |
+| 34 | [Cecilia López](http://twitter.com/search?q=Cecilia+L%c3%b3pez) | N/A |
+| 35 | [Scaloni](http://twitter.com/search?q=Scaloni) | N/A |
+| 36 | [vanegas](http://twitter.com/search?q=vanegas) | N/A |
+| 37 | [Aeronáutica Civil](http://twitter.com/search?q=Aeron%c3%a1utica+Civil) | N/A |
+| 38 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
+| 39 | [Brahian Palacios](http://twitter.com/search?q=Brahian+Palacios) | N/A |
+| 40 | [candelo](http://twitter.com/search?q=candelo) | N/A |
+| 41 | [autuori](http://twitter.com/search?q=autuori) | N/A |
+| 42 | [Natalia París](http://twitter.com/search?q=Natalia+Par%c3%ads) | N/A |
+| 43 | [Repartiendo](http://twitter.com/search?q=Repartiendo) | N/A |
+| 44 | [Mineducación](http://twitter.com/search?q=Mineducaci%c3%b3n) | N/A |
+| 45 | [Morelo](http://twitter.com/search?q=Morelo) | N/A |
+| 46 | [Enilce López](http://twitter.com/search?q=Enilce+L%c3%b3pez) | N/A |
+| 47 | [Gabinete](http://twitter.com/search?q=Gabinete) | N/A |
 | 48 | [dorlan](http://twitter.com/search?q=dorlan) | N/A |
 | 49 | [Luzu](http://twitter.com/search?q=Luzu) | Luzu is a Spanish word that means light. It is often used to refer to a bright, cheerful, and optimistic attitude. |
-| 50 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
+| 50 | [Satena](http://twitter.com/search?q=Satena) | N/A |
 
 
 

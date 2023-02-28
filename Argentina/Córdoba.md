@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Córdoba
 
-📆 Last Updated: `2023-02-28 11:15:51 UTC`
+📆 Last Updated: `2023-02-28 12:18:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,17 +16,17 @@ This is top 50 for [Argentina](</Argentina>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 2 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
-| 3 | [#BuenMartes](http://twitter.com/search?q=%23BuenMartes) | N/A |
-| 4 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
+| 2 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 3 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
+| 4 | [#BuenMartes](http://twitter.com/search?q=%23BuenMartes) | N/A |
 | 5 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
 | 6 | [Tula](http://twitter.com/search?q=Tula) | N/A |
-| 7 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 8 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 9 | [#ElClubDelMoro](http://twitter.com/search?q=%23ElClubDelMoro) | N/A |
+| 7 | [#ElClubDelMoro](http://twitter.com/search?q=%23ElClubDelMoro) | N/A |
+| 8 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 9 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
 | 10 | [#CaballeroDeDia](http://twitter.com/search?q=%23CaballeroDeDia) | N/A |
-| 11 | [#ACOMODACHO](http://twitter.com/search?q=%23ACOMODACHO) | N/A |
-| 12 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
+| 11 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
+| 12 | [#ACOMODACHO](http://twitter.com/search?q=%23ACOMODACHO) | N/A |
 | 13 | [Gladys](http://twitter.com/search?q=Gladys) | N/A |
 | 14 | [Piovi](http://twitter.com/search?q=Piovi) | Piovi is an Italian word that means "to rain". It is used to describe the sound of rain falling. |
 | 15 | [Tora](http://twitter.com/search?q=Tora) | Tora is a Japanese word meaning "tiger". It is often used as a nickname for someone who is strong and brave. |
@@ -35,36 +35,36 @@ This is top 50 for [Argentina](</Argentina>)
 | 18 | [Iker](http://twitter.com/search?q=Iker) | N/A |
 | 19 | [RODO AL 9009](http://twitter.com/search?q=RODO+AL+9009) | N/A |
 | 20 | [Coscu](http://twitter.com/search?q=Coscu) | N/A |
-| 21 | [Feliz Martes](http://twitter.com/search?q=Feliz+Martes) | N/A |
-| 22 | [EL MEJOR DEL MUNDO](http://twitter.com/search?q=EL+MEJOR+DEL+MUNDO) | N/A |
-| 23 | [mejor dt](http://twitter.com/search?q=mejor+dt) | N/A |
-| 24 | [Alex morgan](http://twitter.com/search?q=Alex+morgan) | N/A |
-| 25 | [Barracas](http://twitter.com/search?q=Barracas) | Barracas is a district in the Argentine capital of Buenos Aires. It is located in the south of the city and is known for its vibrant nightlife, its diverse population, and its traditional markets. The name Barracas comes from the Spanish word barraca, which means “hut” or “shack”. |
-| 26 | [Scaloneta](http://twitter.com/search?q=Scaloneta) | N/A |
-| 27 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
-| 28 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
-| 29 | [chiqui tapia](http://twitter.com/search?q=chiqui+tapia) | N/A |
-| 30 | [Spain](http://twitter.com/search?q=Spain) | N/A |
-| 31 | [#nadiedicenada](http://twitter.com/search?q=%23nadiedicenada) | N/A |
-| 32 | [Gaston](http://twitter.com/search?q=Gaston) | N/A |
-| 33 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
-| 34 | [Alexia](http://twitter.com/search?q=Alexia) | Alexia is a neurological disorder that affects a person's ability to read. It is also known as word blindness or dyslexia. People with Alexia have difficulty understanding written words, even though they may be able to speak and write normally. |
+| 21 | [el mejor del mundo](http://twitter.com/search?q=el+mejor+del+mundo) | N/A |
+| 22 | [Barracas](http://twitter.com/search?q=Barracas) | Barracas is a district in the Argentine capital of Buenos Aires. It is located in the south of the city and is known for its vibrant nightlife, its diverse population, and its traditional markets. The name Barracas comes from the Spanish word barraca, which means “hut” or “shack”. |
+| 23 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
+| 24 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
+| 25 | [Scaloneta](http://twitter.com/search?q=Scaloneta) | N/A |
+| 26 | [#nadiedicenada](http://twitter.com/search?q=%23nadiedicenada) | N/A |
+| 27 | [Feliz Martes](http://twitter.com/search?q=Feliz+Martes) | N/A |
+| 28 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
+| 29 | [Chiqui Tapia](http://twitter.com/search?q=Chiqui+Tapia) | N/A |
+| 30 | [Gaston](http://twitter.com/search?q=Gaston) | N/A |
+| 31 | [Mejor DT](http://twitter.com/search?q=Mejor+DT) | N/A |
+| 32 | [Alex morgan](http://twitter.com/search?q=Alex+morgan) | N/A |
+| 33 | [Spain](http://twitter.com/search?q=Spain) | N/A |
+| 34 | [ganamos todo](http://twitter.com/search?q=ganamos+todo) | N/A |
 | 35 | [Emiliano](http://twitter.com/search?q=Emiliano) | N/A |
-| 36 | [ganamos todo](http://twitter.com/search?q=ganamos+todo) | N/A |
-| 37 | [Lamolina](http://twitter.com/search?q=Lamolina) | N/A |
-| 38 | [Macri](http://twitter.com/search?q=Macri) | N/A |
-| 39 | [Bangladesh](http://twitter.com/search?q=Bangladesh) | N/A |
-| 40 | [MEJOR ARQUERO](http://twitter.com/search?q=MEJOR+ARQUERO) | N/A |
-| 41 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 36 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 37 | [Bangladesh](http://twitter.com/search?q=Bangladesh) | N/A |
+| 38 | [MEJOR ARQUERO](http://twitter.com/search?q=MEJOR+ARQUERO) | N/A |
+| 39 | [Lamolina](http://twitter.com/search?q=Lamolina) | N/A |
+| 40 | [Juliana](http://twitter.com/search?q=Juliana) | Juliana is a female given name of Latin origin, derived from the name Julius. It means "youthful" or "downy-bearded". |
+| 41 | [la mejor hinchada del mundo](http://twitter.com/search?q=la+mejor+hinchada+del+mundo) | N/A |
 | 42 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
-| 43 | [Mejor Hinchada](http://twitter.com/search?q=Mejor+Hinchada) | N/A |
-| 44 | [Juliana](http://twitter.com/search?q=Juliana) | Juliana is a female given name of Latin origin, derived from the name Julius. It means "youthful" or "downy-bearded". |
-| 45 | [mi técnico](http://twitter.com/search?q=mi+t%c3%a9cnico) | N/A |
+| 43 | [Alexia](http://twitter.com/search?q=Alexia) | Alexia is a neurological disorder that affects a person's ability to read. It is also known as word blindness or dyslexia. People with Alexia have difficulty understanding written words, even though they may be able to speak and write normally. |
+| 44 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
+| 45 | [Verratti](http://twitter.com/search?q=Verratti) | Verratti is an Italian surname. It is derived from the Latin word verratum, which means "true". In English, it can be translated to mean "true and faithful". |
 | 46 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 47 | [Aguilar](http://twitter.com/search?q=Aguilar) | N/A |
-| 48 | [demichelis](http://twitter.com/search?q=demichelis) | N/A |
-| 49 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
-| 50 | [Curazao](http://twitter.com/search?q=Curazao) | Curazao is an island in the Caribbean Sea, located off the coast of Venezuela. It is a constituent country of the Kingdom of the Netherlands. The name Curazao is derived from the Portuguese word for "heart," and it is often referred to as "the heart of the Caribbean." In English, it means "heart of the Caribbean." |
+| 47 | [Curazao](http://twitter.com/search?q=Curazao) | Curazao is an island in the Caribbean Sea, located off the coast of Venezuela. It is a constituent country of the Kingdom of the Netherlands. The name Curazao is derived from the Portuguese word for "heart," and it is often referred to as "the heart of the Caribbean." In English, it means "heart of the Caribbean." |
+| 48 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
+| 49 | [Marisa](http://twitter.com/search?q=Marisa) | N/A |
+| 50 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
 
 
 

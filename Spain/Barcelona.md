@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barcelona
 
-📆 Last Updated: `2023-02-28 11:15:57 UTC`
+📆 Last Updated: `2023-02-28 12:18:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,49 +22,49 @@ This is top 50 for [Spain](</Spain>)
 | 5 | [#28Feb](http://twitter.com/search?q=%2328Feb) | N/A |
 | 6 | [Andaluces](http://twitter.com/search?q=Andaluces) | N/A |
 | 7 | [Miquella](http://twitter.com/search?q=Miquella) | N/A |
-| 8 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
+| 8 | [Blas Infante](http://twitter.com/search?q=Blas+Infante) | N/A |
 | 9 | [#BayonettaOriginsMM](http://twitter.com/search?q=%23BayonettaOriginsMM) | N/A |
-| 10 | [Blas Infante](http://twitter.com/search?q=Blas+Infante) | N/A |
-| 11 | [DLC de Elden Ring](http://twitter.com/search?q=DLC+de+Elden+Ring) | N/A |
-| 12 | [#APOYOROCIO28F](http://twitter.com/search?q=%23APOYOROCIO28F) | N/A |
-| 13 | [Andaluz](http://twitter.com/search?q=Andaluz) | N/A |
-| 14 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 10 | [#28FNadaQueCelebrar](http://twitter.com/search?q=%2328FNadaQueCelebrar) | N/A |
+| 11 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
+| 12 | [Andaluz](http://twitter.com/search?q=Andaluz) | N/A |
+| 13 | [DLC de Elden Ring](http://twitter.com/search?q=DLC+de+Elden+Ring) | N/A |
+| 14 | [Hoy 28](http://twitter.com/search?q=Hoy+28) | N/A |
 | 15 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 16 | [España y la Humanidad](http://twitter.com/search?q=Espa%c3%b1a+y+la+Humanidad) | N/A |
-| 17 | [Juan y Medio](http://twitter.com/search?q=Juan+y+Medio) | N/A |
-| 18 | [Hoy 28](http://twitter.com/search?q=Hoy+28) | N/A |
-| 19 | [El IPC](http://twitter.com/search?q=El+IPC) | N/A |
-| 20 | [Tito Berni](http://twitter.com/search?q=Tito+Berni) | N/A |
-| 21 | [Shadow of the Erdtree](http://twitter.com/search?q=Shadow+of+the+Erdtree) | N/A |
-| 22 | [Feliz 28F](http://twitter.com/search?q=Feliz+28F) | N/A |
-| 23 | [Bandolero](http://twitter.com/search?q=Bandolero) | N/A |
-| 24 | [Güenos](http://twitter.com/search?q=G%c3%bcenos) | N/A |
-| 25 | [28-F](http://twitter.com/search?q=28-F) | N/A |
-| 26 | [Kitchen](http://twitter.com/search?q=Kitchen) | N/A |
-| 27 | [Interior](http://twitter.com/search?q=Interior) | N/A |
+| 16 | [Juan y Medio](http://twitter.com/search?q=Juan+y+Medio) | N/A |
+| 17 | [España y la Humanidad](http://twitter.com/search?q=Espa%c3%b1a+y+la+Humanidad) | N/A |
+| 18 | [Shadow of the Erdtree](http://twitter.com/search?q=Shadow+of+the+Erdtree) | N/A |
+| 19 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 20 | [Marika](http://twitter.com/search?q=Marika) | N/A |
+| 21 | [El IPC](http://twitter.com/search?q=El+IPC) | N/A |
+| 22 | [Tito Berni](http://twitter.com/search?q=Tito+Berni) | N/A |
+| 23 | [Jaén](http://twitter.com/search?q=Ja%c3%a9n) | N/A |
+| 24 | [Dalsy](http://twitter.com/search?q=Dalsy) | N/A |
+| 25 | [Feliz 28F](http://twitter.com/search?q=Feliz+28F) | N/A |
+| 26 | [28-F](http://twitter.com/search?q=28-F) | N/A |
+| 27 | [Güenos](http://twitter.com/search?q=G%c3%bcenos) | N/A |
 | 28 | [Austria](http://twitter.com/search?q=Austria) | N/A |
-| 29 | [Mediador](http://twitter.com/search?q=Mediador) | N/A |
-| 30 | [Zendal](http://twitter.com/search?q=Zendal) | N/A |
-| 31 | [Pablo González](http://twitter.com/search?q=Pablo+Gonz%c3%a1lez) | N/A |
-| 32 | [Repsol](http://twitter.com/search?q=Repsol) | N/A |
-| 33 | [Rocío Jurado](http://twitter.com/search?q=Roc%c3%ado+Jurado) | N/A |
-| 34 | [Inda](http://twitter.com/search?q=Inda) | N/A |
-| 35 | [Martes 28](http://twitter.com/search?q=Martes+28) | N/A |
-| 36 | [Alexia](http://twitter.com/search?q=Alexia) | Alexia is a neurological disorder that affects a person's ability to read. It is also known as word blindness or dyslexia. People with Alexia have difficulty understanding written words, even though they may be able to speak and write normally. |
-| 37 | [Karim](http://twitter.com/search?q=Karim) | Karim is an Arabic name meaning "generous" or "noble". It is also used as a surname in some cultures. |
-| 38 | [La España](http://twitter.com/search?q=La+Espa%c3%b1a) | N/A |
-| 39 | [Federico](http://twitter.com/search?q=Federico) | N/A |
-| 40 | [#Solos28F](http://twitter.com/search?q=%23Solos28F) | N/A |
-| 41 | [#Skyshowtime](http://twitter.com/search?q=%23Skyshowtime) | N/A |
-| 42 | [#RareDiseaseDay](http://twitter.com/search?q=%23RareDiseaseDay) | N/A |
-| 43 | [#28FNadaQueCelebrar](http://twitter.com/search?q=%2328FNadaQueCelebrar) | N/A |
-| 44 | [#TiempoAFavor](http://twitter.com/search?q=%23TiempoAFavor) | N/A |
-| 45 | [#innovaex23](http://twitter.com/search?q=%23innovaex23) | N/A |
-| 46 | [#LaHora28F](http://twitter.com/search?q=%23LaHora28F) | N/A |
-| 47 | [#AR28F](http://twitter.com/search?q=%23AR28F) | N/A |
-| 48 | [#YoMeRebelo28F](http://twitter.com/search?q=%23YoMeRebelo28F) | N/A |
-| 49 | [#MWC2023](http://twitter.com/search?q=%23MWC2023) | N/A |
-| 50 | [#investigación](http://twitter.com/search?q=%23investigaci%c3%b3n) | N/A |
+| 29 | [Miyazaki](http://twitter.com/search?q=Miyazaki) | N/A |
+| 30 | [Bandolero](http://twitter.com/search?q=Bandolero) | N/A |
+| 31 | [kitchen](http://twitter.com/search?q=kitchen) | N/A |
+| 32 | [Malenia](http://twitter.com/search?q=Malenia) | N/A |
+| 33 | [Zendal](http://twitter.com/search?q=Zendal) | N/A |
+| 34 | [Mediador](http://twitter.com/search?q=Mediador) | N/A |
+| 35 | [Interior](http://twitter.com/search?q=Interior) | N/A |
+| 36 | [Comunidad Autónoma](http://twitter.com/search?q=Comunidad+Aut%c3%b3noma) | N/A |
+| 37 | [Inda](http://twitter.com/search?q=Inda) | N/A |
+| 38 | [Rocío Jurado](http://twitter.com/search?q=Roc%c3%ado+Jurado) | N/A |
+| 39 | [Repsol](http://twitter.com/search?q=Repsol) | N/A |
+| 40 | [Día Internacional de la Mujer](http://twitter.com/search?q=D%c3%ada+Internacional+de+la+Mujer) | N/A |
+| 41 | [Pablo González](http://twitter.com/search?q=Pablo+Gonz%c3%a1lez) | N/A |
+| 42 | [Sábado 4](http://twitter.com/search?q=S%c3%a1bado+4) | N/A |
+| 43 | [Alexia](http://twitter.com/search?q=Alexia) | Alexia is a neurological disorder that affects a person's ability to read. It is also known as word blindness or dyslexia. People with Alexia have difficulty understanding written words, even though they may be able to speak and write normally. |
+| 44 | [Karim](http://twitter.com/search?q=Karim) | Karim is an Arabic name meaning "generous" or "noble". It is also used as a surname in some cultures. |
+| 45 | [La España](http://twitter.com/search?q=La+Espa%c3%b1a) | N/A |
+| 46 | [Martes 28](http://twitter.com/search?q=Martes+28) | N/A |
+| 47 | [Federico](http://twitter.com/search?q=Federico) | N/A |
+| 48 | [#APOYOROCIO28F](http://twitter.com/search?q=%23APOYOROCIO28F) | N/A |
+| 49 | [#28FCanalSur](http://twitter.com/search?q=%2328FCanalSur) | N/A |
+| 50 | [#DENCanarias23](http://twitter.com/search?q=%23DENCanarias23) | N/A |
 
 
 

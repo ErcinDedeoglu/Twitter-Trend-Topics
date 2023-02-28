@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Surabaya
 
-📆 Last Updated: `2023-02-28 11:16:00 UTC`
+📆 Last Updated: `2023-02-28 12:18:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,50 +16,50 @@ This is top 50 for [Indonesia](</Indonesia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#BLK2023](http://twitter.com/search?q=%23BLK2023) | N/A |
-| 2 | [#KelasMakeupLazada](http://twitter.com/search?q=%23KelasMakeupLazada) | N/A |
-| 3 | [LazBeauty MUA Masterclass](http://twitter.com/search?q=LazBeauty+MUA+Masterclass) | N/A |
-| 4 | [#TiffanyxWin](http://twitter.com/search?q=%23TiffanyxWin) | N/A |
-| 5 | [Make Up Artis](http://twitter.com/search?q=Make+Up+Artis) | N/A |
+| 2 | [#cikupawww](http://twitter.com/search?q=%23cikupawww) | N/A |
+| 3 | [#Dehya](http://twitter.com/search?q=%23Dehya) | N/A |
+| 4 | [#GenshinImpactID](http://twitter.com/search?q=%23GenshinImpactID) | N/A |
+| 5 | [#TiffanyxWin](http://twitter.com/search?q=%23TiffanyxWin) | N/A |
 | 6 | [PBSI](http://twitter.com/search?q=PBSI) | N/A |
-| 7 | [Marline Hariman](http://twitter.com/search?q=Marline+Hariman) | N/A |
-| 8 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 9 | [Ryan Ogilvy](http://twitter.com/search?q=Ryan+Ogilvy) | N/A |
-| 10 | [Bubah Alfian](http://twitter.com/search?q=Bubah+Alfian) | N/A |
-| 11 | [#SaktiWahyuTrenggono](http://twitter.com/search?q=%23SaktiWahyuTrenggono) | N/A |
-| 12 | [#testimiroh](http://twitter.com/search?q=%23testimiroh) | N/A |
-| 13 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
-| 14 | [Gen 2](http://twitter.com/search?q=Gen+2) | N/A |
-| 15 | [flandy](http://twitter.com/search?q=flandy) | N/A |
+| 7 | [make up artis](http://twitter.com/search?q=make+up+artis) | N/A |
+| 8 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
+| 9 | [LazBeauty MUA Masterclass](http://twitter.com/search?q=LazBeauty+MUA+Masterclass) | N/A |
+| 10 | [bubah alfian](http://twitter.com/search?q=bubah+alfian) | N/A |
+| 11 | [ASTRO](http://twitter.com/search?q=ASTRO) | N/A |
+| 12 | [Ilyy](http://twitter.com/search?q=Ilyy) | N/A |
+| 13 | [Flandy](http://twitter.com/search?q=Flandy) | N/A |
+| 14 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 15 | [Gen 2](http://twitter.com/search?q=Gen+2) | N/A |
 | 16 | [Jam 5](http://twitter.com/search?q=Jam+5) | N/A |
-| 17 | [Kerja Wamenhan M Herindra](http://twitter.com/search?q=Kerja+Wamenhan+M+Herindra) | N/A |
-| 18 | [Loyal - Beri Terbaik](http://twitter.com/search?q=Loyal+-+Beri+Terbaik) | N/A |
-| 19 | [Rakyat](http://twitter.com/search?q=Rakyat) | N/A |
+| 17 | [Marline Hariman](http://twitter.com/search?q=Marline+Hariman) | N/A |
+| 18 | [Ryan Ogilvy](http://twitter.com/search?q=Ryan+Ogilvy) | N/A |
+| 19 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
 | 20 | [Mengangkat](http://twitter.com/search?q=Mengangkat) | N/A |
-| 21 | [Vario](http://twitter.com/search?q=Vario) | N/A |
-| 22 | [Gubernurnya](http://twitter.com/search?q=Gubernurnya) | N/A |
-| 23 | [Laut Bercerita](http://twitter.com/search?q=Laut+Bercerita) | N/A |
-| 24 | [Okin](http://twitter.com/search?q=Okin) | N/A |
+| 21 | [Rakyat](http://twitter.com/search?q=Rakyat) | N/A |
+| 22 | [Vario](http://twitter.com/search?q=Vario) | N/A |
+| 23 | [Gubernurnya](http://twitter.com/search?q=Gubernurnya) | N/A |
+| 24 | [Laut Bercerita](http://twitter.com/search?q=Laut+Bercerita) | N/A |
 | 25 | [Scoopy](http://twitter.com/search?q=Scoopy) | N/A |
-| 26 | [Mbanking BCA](http://twitter.com/search?q=Mbanking+BCA) | N/A |
-| 27 | [SECRET NUMBER JAPAN DEBUT](http://twitter.com/search?q=SECRET+NUMBER+JAPAN+DEBUT) | N/A |
-| 28 | [Iris](http://twitter.com/search?q=Iris) | N/A |
-| 29 | [Selasa](http://twitter.com/search?q=Selasa) | N/A |
-| 30 | [LATE LATE SHOW WITH TXT](http://twitter.com/search?q=LATE+LATE+SHOW+WITH+TXT) | N/A |
-| 31 | [Februari 2023](http://twitter.com/search?q=Februari+2023) | N/A |
-| 32 | [Bertaruh](http://twitter.com/search?q=Bertaruh) | N/A |
-| 33 | [Zara](http://twitter.com/search?q=Zara) | Zara is a Spanish clothing and accessories retailer. It is one of the largest international fashion companies, and specializes in fast fashion. The name Zara is derived from the name of the founder's daughter, Zara Amalia. |
-| 34 | [Stranger Things](http://twitter.com/search?q=Stranger+Things) | N/A |
-| 35 | [Heru](http://twitter.com/search?q=Heru) | N/A |
+| 26 | [Stranger Things](http://twitter.com/search?q=Stranger+Things) | N/A |
+| 27 | [Okin](http://twitter.com/search?q=Okin) | N/A |
+| 28 | [Selasa](http://twitter.com/search?q=Selasa) | N/A |
+| 29 | [Mbanking BCA](http://twitter.com/search?q=Mbanking+BCA) | N/A |
+| 30 | [Jam 7](http://twitter.com/search?q=Jam+7) | N/A |
+| 31 | [LATE LATE SHOW WITH TXT](http://twitter.com/search?q=LATE+LATE+SHOW+WITH+TXT) | N/A |
+| 32 | [Februari 2023](http://twitter.com/search?q=Februari+2023) | N/A |
+| 33 | [Bertaruh](http://twitter.com/search?q=Bertaruh) | N/A |
+| 34 | [PNBP](http://twitter.com/search?q=PNBP) | N/A |
+| 35 | [SECRET NUMBER JAPAN DEBUT](http://twitter.com/search?q=SECRET+NUMBER+JAPAN+DEBUT) | N/A |
 | 36 | [Putri LS](http://twitter.com/search?q=Putri+LS) | N/A |
-| 37 | [#RedmiNote11dariShopee](http://twitter.com/search?q=%23RedmiNote11dariShopee) | N/A |
-| 38 | [#NeverLetMeGoSeriesFinalEP](http://twitter.com/search?q=%23NeverLetMeGoSeriesFinalEP) | N/A |
-| 39 | [#BrightSaturdayNight](http://twitter.com/search?q=%23BrightSaturdayNight) | N/A |
-| 40 | [#PersebayaDay](http://twitter.com/search?q=%23PersebayaDay) | N/A |
-| 41 | [#LIKE_IT_LIKE_IT](http://twitter.com/search?q=%23LIKE_IT_LIKE_IT) | N/A |
-| 42 | [#TXTonTheLateLateShow](http://twitter.com/search?q=%23TXTonTheLateLateShow) | N/A |
-| 43 | [#racuninskincare](http://twitter.com/search?q=%23racuninskincare) | N/A |
-| 44 | [#シークレットナンバー](http://twitter.com/search?q=%23%e3%82%b7%e3%83%bc%e3%82%af%e3%83%ac%e3%83%83%e3%83%88%e3%83%8a%e3%83%b3%e3%83%90%e3%83%bc) | N/A |
-| 45 | [#LIKEITLIKEIT_MVTeaser1](http://twitter.com/search?q=%23LIKEITLIKEIT_MVTeaser1) | N/A |
+| 37 | [#kelasmakeuplazada](http://twitter.com/search?q=%23kelasmakeuplazada) | N/A |
+| 38 | [#TiffanyAndCo](http://twitter.com/search?q=%23TiffanyAndCo) | N/A |
+| 39 | [#testimiroh](http://twitter.com/search?q=%23testimiroh) | N/A |
+| 40 | [#NeverLetMeGoSeriesFinalEP](http://twitter.com/search?q=%23NeverLetMeGoSeriesFinalEP) | N/A |
+| 41 | [#RedmiNote11dariShopee](http://twitter.com/search?q=%23RedmiNote11dariShopee) | N/A |
+| 42 | [#BrightSaturdayNight](http://twitter.com/search?q=%23BrightSaturdayNight) | N/A |
+| 43 | [#LIKE_IT_LIKE_IT](http://twitter.com/search?q=%23LIKE_IT_LIKE_IT) | N/A |
+| 44 | [#LIKEITLIKEIT_MVTeaser1](http://twitter.com/search?q=%23LIKEITLIKEIT_MVTeaser1) | N/A |
+| 45 | [#racuninskincare](http://twitter.com/search?q=%23racuninskincare) | N/A |
 
 
 

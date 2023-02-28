@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Venezuela
 
-📆 Last Updated: `2023-02-28 11:16:34 UTC`
+📆 Last Updated: `2023-02-28 12:18:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Venezuela
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#28Feb](http://twitter.com/search?q=%2328Feb) | N/A |
-| 2 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
-| 3 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
-| 4 | [Simón Rodríguez](http://twitter.com/search?q=Sim%c3%b3n+Rodr%c3%adguez) | N/A |
-| 5 | [#500diasdelsegundosecuestro](http://twitter.com/search?q=%23500diasdelsegundosecuestro) | N/A |
-| 6 | [Caracazo](http://twitter.com/search?q=Caracazo) | N/A |
-| 7 | [#27frebeliónantiimperialista](http://twitter.com/search?q=%2327frebeli%c3%b3nantiimperialista) | N/A |
-| 8 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
+| 2 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
+| 3 | [Simón Rodríguez](http://twitter.com/search?q=Sim%c3%b3n+Rodr%c3%adguez) | N/A |
+| 4 | [#500DiasDelSegundoSecuestro](http://twitter.com/search?q=%23500DiasDelSegundoSecuestro) | N/A |
+| 5 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
+| 6 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
+| 7 | [Caracazo](http://twitter.com/search?q=Caracazo) | N/A |
+| 8 | [#27FRebeliónAntiimperialista](http://twitter.com/search?q=%2327FRebeli%c3%b3nAntiimperialista) | N/A |
 | 9 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 10 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
 | 11 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
-| 12 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
-| 13 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 14 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
-| 15 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 16 | [Ana Gabriel](http://twitter.com/search?q=Ana+Gabriel) | N/A |
-| 17 | [DDHH](http://twitter.com/search?q=DDHH) | N/A |
-| 18 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
-| 19 | [Autoevaluación HONESTA](http://twitter.com/search?q=Autoevaluaci%c3%b3n+HONESTA) | N/A |
-| 20 | [Libertador Simón Bolívar](http://twitter.com/search?q=Libertador+Sim%c3%b3n+Bol%c3%advar) | N/A |
-| 21 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
-| 22 | [Carlos Andrés Pérez](http://twitter.com/search?q=Carlos+Andr%c3%a9s+P%c3%a9rez) | N/A |
-| 23 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 24 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
-| 25 | [Scaloni](http://twitter.com/search?q=Scaloni) | N/A |
+| 12 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 13 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
+| 14 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 15 | [DDHH](http://twitter.com/search?q=DDHH) | N/A |
+| 16 | [Libertador Simón Bolívar](http://twitter.com/search?q=Libertador+Sim%c3%b3n+Bol%c3%advar) | N/A |
+| 17 | [#saludoplanetario](http://twitter.com/search?q=%23saludoplanetario) | N/A |
+| 18 | [Ana Gabriel](http://twitter.com/search?q=Ana+Gabriel) | N/A |
+| 19 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 20 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
+| 21 | [Autoevaluación HONESTA](http://twitter.com/search?q=Autoevaluaci%c3%b3n+HONESTA) | N/A |
+| 22 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
+| 23 | [Carlos Andrés Pérez](http://twitter.com/search?q=Carlos+Andr%c3%a9s+P%c3%a9rez) | N/A |
+| 24 | [Arabia Saudita](http://twitter.com/search?q=Arabia+Saudita) | N/A |
+| 25 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
 | 26 | [Hace 34](http://twitter.com/search?q=Hace+34) | N/A |
 | 27 | [Fondo Monetario Internacional](http://twitter.com/search?q=Fondo+Monetario+Internacional) | N/A |
 | 28 | [Maras](http://twitter.com/search?q=Maras) | N/A |
-| 29 | [Ernesto Paraqueima](http://twitter.com/search?q=Ernesto+Paraqueima) | N/A |
-| 30 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
-| 31 | [dedales](http://twitter.com/search?q=dedales) | N/A |
-| 32 | [rebelión popular](http://twitter.com/search?q=rebeli%c3%b3n+popular) | N/A |
-| 33 | [Bendiciones](http://twitter.com/search?q=Bendiciones) | N/A |
-| 34 | [pueblo valiente](http://twitter.com/search?q=pueblo+valiente) | N/A |
-| 35 | [Alexia](http://twitter.com/search?q=Alexia) | Alexia is a neurological disorder that affects a person's ability to read. It is also known as word blindness or dyslexia. People with Alexia have difficulty understanding written words, even though they may be able to speak and write normally. |
-| 36 | [El 27](http://twitter.com/search?q=El+27) | N/A |
-| 37 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 38 | [Rafael Briceño](http://twitter.com/search?q=Rafael+Brice%c3%b1o) | N/A |
-| 39 | [Balón de Oro](http://twitter.com/search?q=Bal%c3%b3n+de+Oro) | N/A |
-| 40 | [Chayanne](http://twitter.com/search?q=Chayanne) | N/A |
-| 41 | [carlos tovar bracho](http://twitter.com/search?q=carlos+tovar+bracho) | N/A |
-| 42 | [José Ignacio Cabrujas](http://twitter.com/search?q=Jos%c3%a9+Ignacio+Cabrujas) | N/A |
-| 43 | [Murciélago](http://twitter.com/search?q=Murci%c3%a9lago) | N/A |
-| 44 | [Alex Saab](http://twitter.com/search?q=Alex+Saab) | N/A |
-| 45 | [hoy 27](http://twitter.com/search?q=hoy+27) | N/A |
-| 46 | [Arabia Saudita](http://twitter.com/search?q=Arabia+Saudita) | N/A |
-| 47 | [carlos olivier](http://twitter.com/search?q=carlos+olivier) | N/A |
-| 48 | [shawn](http://twitter.com/search?q=shawn) | Shawn is a given name, typically a masculine name. It is an Anglicized form of the Irish name Seán, which is derived from the Hebrew name Yehohanan, meaning "God is gracious". |
+| 29 | [Muy Buenos](http://twitter.com/search?q=Muy+Buenos) | N/A |
+| 30 | [Alex Saab](http://twitter.com/search?q=Alex+Saab) | N/A |
+| 31 | [Ernesto Paraqueima](http://twitter.com/search?q=Ernesto+Paraqueima) | N/A |
+| 32 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
+| 33 | [Dedales](http://twitter.com/search?q=Dedales) | N/A |
+| 34 | [rebelión popular](http://twitter.com/search?q=rebeli%c3%b3n+popular) | N/A |
+| 35 | [pueblo valiente](http://twitter.com/search?q=pueblo+valiente) | N/A |
+| 36 | [Alexia](http://twitter.com/search?q=Alexia) | Alexia is a neurological disorder that affects a person's ability to read. It is also known as word blindness or dyslexia. People with Alexia have difficulty understanding written words, even though they may be able to speak and write normally. |
+| 37 | [El 27](http://twitter.com/search?q=El+27) | N/A |
+| 38 | [Bendiciones](http://twitter.com/search?q=Bendiciones) | N/A |
+| 39 | [revolución bolivariana](http://twitter.com/search?q=revoluci%c3%b3n+bolivariana) | N/A |
+| 40 | [Rafael Briceño](http://twitter.com/search?q=Rafael+Brice%c3%b1o) | N/A |
+| 41 | [Balón de Oro](http://twitter.com/search?q=Bal%c3%b3n+de+Oro) | N/A |
+| 42 | [Murciélago](http://twitter.com/search?q=Murci%c3%a9lago) | N/A |
+| 43 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 44 | [Chayanne](http://twitter.com/search?q=Chayanne) | N/A |
+| 45 | [José Ignacio Cabrujas](http://twitter.com/search?q=Jos%c3%a9+Ignacio+Cabrujas) | N/A |
+| 46 | [Iniesta](http://twitter.com/search?q=Iniesta) | N/A |
+| 47 | [Italia](http://twitter.com/search?q=Italia) | N/A |
+| 48 | [hoy 27](http://twitter.com/search?q=hoy+27) | N/A |
 | 49 | [Clark Kent](http://twitter.com/search?q=Clark+Kent) | N/A |
-| 50 | [Chip](http://twitter.com/search?q=Chip) | N/A |
+| 50 | [Shawn](http://twitter.com/search?q=Shawn) | N/A |
 
 
 

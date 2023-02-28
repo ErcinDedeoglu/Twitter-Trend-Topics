@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-02-28 11:16:30 UTC`
+📆 Last Updated: `2023-02-28 12:18:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for Latvia
 | 4 | [Baltijas](http://twitter.com/search?q=Baltijas) | N/A |
 | 5 | [apsveicu](http://twitter.com/search?q=apsveicu) | N/A |
 | 6 | [Eiropu](http://twitter.com/search?q=Eiropu) | N/A |
-| 7 | [IKEA](http://twitter.com/search?q=IKEA) | N/A |
-| 8 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
+| 7 | [Maskavas](http://twitter.com/search?q=Maskavas) | N/A |
+| 8 | [IKEA](http://twitter.com/search?q=IKEA) | N/A |
 | 9 | [Rietumu](http://twitter.com/search?q=Rietumu) | N/A |
 | 10 | [Bolt](http://twitter.com/search?q=Bolt) | N/A |
-| 11 | [Atceros](http://twitter.com/search?q=Atceros) | N/A |
-| 12 | [Maskavas](http://twitter.com/search?q=Maskavas) | N/A |
-| 13 | [Šobrīd](http://twitter.com/search?q=%c5%a0obr%c4%abd) | N/A |
-| 14 | [PSRS](http://twitter.com/search?q=PSRS) | N/A |
+| 11 | [atceros](http://twitter.com/search?q=atceros) | N/A |
+| 12 | [Šobrīd](http://twitter.com/search?q=%c5%a0obr%c4%abd) | N/A |
+| 13 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
+| 14 | [Francijas](http://twitter.com/search?q=Francijas) | N/A |
 | 15 | [baigi](http://twitter.com/search?q=baigi) | N/A |
-| 16 | [Rīgas](http://twitter.com/search?q=R%c4%abgas) | N/A |
-| 17 | [Satversmes](http://twitter.com/search?q=Satversmes) | N/A |
-| 18 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
-| 19 | [#herpes](http://twitter.com/search?q=%23herpes) | N/A |
-| 20 | [#SIF_MAF2022](http://twitter.com/search?q=%23SIF_MAF2022) | N/A |
-| 21 | [Russian](http://twitter.com/search?q=Russian) | N/A |
-| 22 | [diezgan](http://twitter.com/search?q=diezgan) | N/A |
-| 23 | [Covid](http://twitter.com/search?q=Covid) | N/A |
-| 24 | [progresīvie](http://twitter.com/search?q=progres%c4%abvie) | N/A |
-| 25 | [Baltkrievijas](http://twitter.com/search?q=Baltkrievijas) | N/A |
-| 26 | [Кстати](http://twitter.com/search?q=%d0%9a%d1%81%d1%82%d0%b0%d1%82%d0%b8) | N/A |
-| 27 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
-| 28 | [agrāk](http://twitter.com/search?q=agr%c4%81k) | N/A |
-| 29 | [Tāpat](http://twitter.com/search?q=T%c4%81pat) | N/A |
-| 30 | [Tātad](http://twitter.com/search?q=T%c4%81tad) | N/A |
-| 31 | [Skaisti](http://twitter.com/search?q=Skaisti) | N/A |
-| 32 | [#ETHDenver](http://twitter.com/search?q=%23ETHDenver) | N/A |
-| 33 | [Latvijas](http://twitter.com/search?q=Latvijas) | N/A |
-| 34 | [Polijas](http://twitter.com/search?q=Polijas) | N/A |
-| 35 | [Liepājas](http://twitter.com/search?q=Liep%c4%81jas) | N/A |
-| 36 | [domā](http://twitter.com/search?q=dom%c4%81) | N/A |
-| 37 | [vācijā](http://twitter.com/search?q=v%c4%81cij%c4%81) | N/A |
-| 38 | [zinu](http://twitter.com/search?q=zinu) | N/A |
-| 39 | [Valsts](http://twitter.com/search?q=Valsts) | N/A |
-| 40 | [Galvenais](http://twitter.com/search?q=Galvenais) | N/A |
-| 41 | [berlīnē](http://twitter.com/search?q=berl%c4%abn%c4%93) | N/A |
-| 42 | [langas](http://twitter.com/search?q=langas) | N/A |
-| 43 | [Viss](http://twitter.com/search?q=Viss) | N/A |
-| 44 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 45 | [Mans](http://twitter.com/search?q=Mans) | N/A |
-| 46 | [Ceru](http://twitter.com/search?q=Ceru) | N/A |
+| 16 | [Satversmi](http://twitter.com/search?q=Satversmi) | N/A |
+| 17 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
+| 18 | [#herpes](http://twitter.com/search?q=%23herpes) | N/A |
+| 19 | [#Russia](http://twitter.com/search?q=%23Russia) | N/A |
+| 20 | [Rimi](http://twitter.com/search?q=Rimi) | N/A |
+| 21 | [#SIF_MAF2022](http://twitter.com/search?q=%23SIF_MAF2022) | N/A |
+| 22 | [Valsts](http://twitter.com/search?q=Valsts) | N/A |
+| 23 | [Labi](http://twitter.com/search?q=Labi) | N/A |
+| 24 | [diezgan](http://twitter.com/search?q=diezgan) | N/A |
+| 25 | [Rīgas](http://twitter.com/search?q=R%c4%abgas) | N/A |
+| 26 | [Covid](http://twitter.com/search?q=Covid) | N/A |
+| 27 | [progresīvie](http://twitter.com/search?q=progres%c4%abvie) | N/A |
+| 28 | [Baltkrievijas](http://twitter.com/search?q=Baltkrievijas) | N/A |
+| 29 | [Кстати](http://twitter.com/search?q=%d0%9a%d1%81%d1%82%d0%b0%d1%82%d0%b8) | N/A |
+| 30 | [agrāk](http://twitter.com/search?q=agr%c4%81k) | N/A |
+| 31 | [tāpat](http://twitter.com/search?q=t%c4%81pat) | N/A |
+| 32 | [Kurzemē](http://twitter.com/search?q=Kurzem%c4%93) | N/A |
+| 33 | [Viss](http://twitter.com/search?q=Viss) | N/A |
+| 34 | [Vācijā](http://twitter.com/search?q=V%c4%81cij%c4%81) | N/A |
+| 35 | [skaisti](http://twitter.com/search?q=skaisti) | N/A |
+| 36 | [Liepājas](http://twitter.com/search?q=Liep%c4%81jas) | N/A |
+| 37 | [#ETHDenver](http://twitter.com/search?q=%23ETHDenver) | N/A |
+| 38 | [Mans](http://twitter.com/search?q=Mans) | N/A |
+| 39 | [Polijas](http://twitter.com/search?q=Polijas) | N/A |
+| 40 | [domā](http://twitter.com/search?q=dom%c4%81) | N/A |
+| 41 | [Mani](http://twitter.com/search?q=Mani) | N/A |
+| 42 | [zinu](http://twitter.com/search?q=zinu) | N/A |
+| 43 | [Tātad](http://twitter.com/search?q=T%c4%81tad) | N/A |
+| 44 | [berlīnē](http://twitter.com/search?q=berl%c4%abn%c4%93) | N/A |
+| 45 | [Langas](http://twitter.com/search?q=Langas) | N/A |
+| 46 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
 | 47 | [Nevajag](http://twitter.com/search?q=Nevajag) | N/A |
-| 48 | [Putins](http://twitter.com/search?q=Putins) | N/A |
+| 48 | [Laikam](http://twitter.com/search?q=Laikam) | N/A |
 | 49 | [Dievs](http://twitter.com/search?q=Dievs) | N/A |
-| 50 | [Kurzemē](http://twitter.com/search?q=Kurzem%c4%93) | N/A |
+| 50 | [Putins](http://twitter.com/search?q=Putins) | N/A |
 
 
 

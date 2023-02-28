@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Harcourt
 
-📆 Last Updated: `2023-02-28 11:16:09 UTC`
+📆 Last Updated: `2023-02-28 12:18:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,52 +16,53 @@ This is top 50 for [Nigeria](</Nigeria>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [25% in FCT](http://twitter.com/search?q=25%25+in+FCT) | N/A |
-| 2 | [#DataphyteElectionPlatform](http://twitter.com/search?q=%23DataphyteElectionPlatform) | N/A |
-| 3 | [#protest](http://twitter.com/search?q=%23protest) | N/A |
-| 4 | [25% in the FCT](http://twitter.com/search?q=25%25+in+the+FCT) | N/A |
-| 5 | [25% in Abuja](http://twitter.com/search?q=25%25+in+Abuja) | N/A |
-| 6 | [Honorable Kelechi](http://twitter.com/search?q=Honorable+Kelechi) | N/A |
-| 7 | [#INECElectionResult](http://twitter.com/search?q=%23INECElectionResult) | N/A |
+| 2 | [25% in the FCT](http://twitter.com/search?q=25%25+in+the+FCT) | N/A |
+| 3 | [#PrimalIEO](http://twitter.com/search?q=%23PrimalIEO) | N/A |
+| 4 | [25% in Abuja](http://twitter.com/search?q=25%25+in+Abuja) | N/A |
+| 5 | [#DataphyteElectionPlatform](http://twitter.com/search?q=%23DataphyteElectionPlatform) | N/A |
+| 6 | [#protest](http://twitter.com/search?q=%23protest) | N/A |
+| 7 | [honorable kelechi](http://twitter.com/search?q=honorable+kelechi) | N/A |
 | 8 | [AND FCT](http://twitter.com/search?q=AND+FCT) | N/A |
-| 9 | [Chinedu](http://twitter.com/search?q=Chinedu) | N/A |
-| 10 | [Dele Farotimi](http://twitter.com/search?q=Dele+Farotimi) | N/A |
-| 11 | [Federal Capital Territory](http://twitter.com/search?q=Federal+Capital+Territory) | N/A |
-| 12 | [African Union](http://twitter.com/search?q=African+Union) | N/A |
-| 13 | [Solomon](http://twitter.com/search?q=Solomon) | N/A |
-| 14 | [Barack Obama](http://twitter.com/search?q=Barack+Obama) | N/A |
-| 15 | [RCCG](http://twitter.com/search?q=RCCG) | N/A |
-| 16 | [Excel](http://twitter.com/search?q=Excel) | N/A |
-| 17 | [God is Good](http://twitter.com/search?q=God+is+Good) | N/A |
-| 18 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
-| 19 | [INEC and APC](http://twitter.com/search?q=INEC+and+APC) | N/A |
-| 20 | [Edeoga](http://twitter.com/search?q=Edeoga) | N/A |
-| 21 | [Constitution](http://twitter.com/search?q=Constitution) | N/A |
-| 22 | [Bwari](http://twitter.com/search?q=Bwari) | N/A |
-| 23 | [Burna](http://twitter.com/search?q=Burna) | Burna is a slang term used to refer to someone who is cool, confident, and stylish. It can also be used to describe someone who is a trendsetter or trend-setter. The term is derived from the word "burner," which is a slang term for a stylish person. |
-| 24 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 25 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
-| 26 | [Adeboye](http://twitter.com/search?q=Adeboye) | N/A |
-| 27 | [VOTE KANIVA](http://twitter.com/search?q=VOTE+KANIVA) | N/A |
-| 28 | [European Union](http://twitter.com/search?q=European+Union) | N/A |
-| 29 | [Emeka](http://twitter.com/search?q=Emeka) | N/A |
-| 30 | [Frank Nweke](http://twitter.com/search?q=Frank+Nweke) | N/A |
-| 31 | [Mahmoud](http://twitter.com/search?q=Mahmoud) | N/A |
-| 32 | [Judiciary](http://twitter.com/search?q=Judiciary) | N/A |
-| 33 | [Electoral Act](http://twitter.com/search?q=Electoral+Act) | N/A |
-| 34 | [Cross River](http://twitter.com/search?q=Cross+River) | N/A |
-| 35 | [National Collation Centre](http://twitter.com/search?q=National+Collation+Centre) | N/A |
-| 36 | [Yakubu](http://twitter.com/search?q=Yakubu) | N/A |
-| 37 | [#electionresults2023](http://twitter.com/search?q=%23electionresults2023) | N/A |
-| 38 | [#Cityboiz](http://twitter.com/search?q=%23Cityboiz) | N/A |
-| 39 | [#AlabaOut](http://twitter.com/search?q=%23AlabaOut) | N/A |
-| 40 | [#ENDINECNOW](http://twitter.com/search?q=%23ENDINECNOW) | N/A |
-| 41 | [#bachelor](http://twitter.com/search?q=%23bachelor) | N/A |
-| 42 | [#SheggzOlu](http://twitter.com/search?q=%23SheggzOlu) | N/A |
-| 43 | [#NSPPD](http://twitter.com/search?q=%23NSPPD) | N/A |
-| 44 | [#LIFEBYBN](http://twitter.com/search?q=%23LIFEBYBN) | N/A |
-| 45 | [#INECFailedNigerians](http://twitter.com/search?q=%23INECFailedNigerians) | N/A |
-| 46 | [#CongratulationsObidatti](http://twitter.com/search?q=%23CongratulationsObidatti) | N/A |
-| 47 | [#TinubuCannotWin](http://twitter.com/search?q=%23TinubuCannotWin) | N/A |
+| 9 | [Federal Capital Territory](http://twitter.com/search?q=Federal+Capital+Territory) | N/A |
+| 10 | [Constitution](http://twitter.com/search?q=Constitution) | N/A |
+| 11 | [Mike Igini](http://twitter.com/search?q=Mike+Igini) | N/A |
+| 12 | [Section 134](http://twitter.com/search?q=Section+134) | N/A |
+| 13 | [Bauchi and Gombe](http://twitter.com/search?q=Bauchi+and+Gombe) | N/A |
+| 14 | [RCCG](http://twitter.com/search?q=RCCG) | N/A |
+| 15 | [Barack Obama](http://twitter.com/search?q=Barack+Obama) | N/A |
+| 16 | [Chinedu](http://twitter.com/search?q=Chinedu) | N/A |
+| 17 | [36 States](http://twitter.com/search?q=36+States) | N/A |
+| 18 | [Excel](http://twitter.com/search?q=Excel) | N/A |
+| 19 | [Dele Farotimi](http://twitter.com/search?q=Dele+Farotimi) | N/A |
+| 20 | [African Union](http://twitter.com/search?q=African+Union) | N/A |
+| 21 | [kevin hart](http://twitter.com/search?q=kevin+hart) | N/A |
+| 22 | [Solomon](http://twitter.com/search?q=Solomon) | N/A |
+| 23 | [God is Good](http://twitter.com/search?q=God+is+Good) | N/A |
+| 24 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
+| 25 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 26 | [Edeoga](http://twitter.com/search?q=Edeoga) | N/A |
+| 27 | [LP and PDP](http://twitter.com/search?q=LP+and+PDP) | N/A |
+| 28 | [Burna](http://twitter.com/search?q=Burna) | Burna is a slang term used to refer to someone who is cool, confident, and stylish. It can also be used to describe someone who is a trendsetter or trend-setter. The term is derived from the word "burner," which is a slang term for a stylish person. |
+| 29 | [INEC and APC](http://twitter.com/search?q=INEC+and+APC) | N/A |
+| 30 | [PDP and LP](http://twitter.com/search?q=PDP+and+LP) | N/A |
+| 31 | [European Union](http://twitter.com/search?q=European+Union) | N/A |
+| 32 | [VOTE KANIVA](http://twitter.com/search?q=VOTE+KANIVA) | N/A |
+| 33 | [Frank Nweke](http://twitter.com/search?q=Frank+Nweke) | N/A |
+| 34 | [Electoral Act](http://twitter.com/search?q=Electoral+Act) | N/A |
+| 35 | [Emeka](http://twitter.com/search?q=Emeka) | N/A |
+| 36 | [Judiciary](http://twitter.com/search?q=Judiciary) | N/A |
+| 37 | [Mahmoud](http://twitter.com/search?q=Mahmoud) | N/A |
+| 38 | [Imagination](http://twitter.com/search?q=Imagination) | N/A |
+| 39 | [National Collation Centre](http://twitter.com/search?q=National+Collation+Centre) | N/A |
+| 40 | [Cross River](http://twitter.com/search?q=Cross+River) | N/A |
+| 41 | [#TinubuIsNotComing](http://twitter.com/search?q=%23TinubuIsNotComing) | N/A |
+| 42 | [#INECElectionResult](http://twitter.com/search?q=%23INECElectionResult) | N/A |
+| 43 | [#electionresults2023](http://twitter.com/search?q=%23electionresults2023) | N/A |
+| 44 | [#CongratulationObidatti](http://twitter.com/search?q=%23CongratulationObidatti) | N/A |
+| 45 | [#AlabaOut](http://twitter.com/search?q=%23AlabaOut) | N/A |
+| 46 | [#SheggzOlu](http://twitter.com/search?q=%23SheggzOlu) | N/A |
+| 47 | [#ENDINECNOW](http://twitter.com/search?q=%23ENDINECNOW) | N/A |
+| 48 | [#bachelor](http://twitter.com/search?q=%23bachelor) | N/A |
 
 
 

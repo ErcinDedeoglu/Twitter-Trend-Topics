@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Orleans
 
-📆 Last Updated: `2023-02-28 11:16:23 UTC`
+📆 Last Updated: `2023-02-28 12:18:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
 | 2 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 3 | [Elden Ring DLC](http://twitter.com/search?q=Elden+Ring+DLC) | N/A |
-| 4 | [Miquella](http://twitter.com/search?q=Miquella) | N/A |
-| 5 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
-| 6 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
-| 7 | [Nudy](http://twitter.com/search?q=Nudy) | N/A |
-| 8 | [#Wordle619](http://twitter.com/search?q=%23Wordle619) | N/A |
-| 9 | [Daily Quordle 400](http://twitter.com/search?q=Daily+Quordle+400) | N/A |
-| 10 | [TrustWallet](http://twitter.com/search?q=TrustWallet) | N/A |
-| 11 | [Shadow of the Erdtree](http://twitter.com/search?q=Shadow+of+the+Erdtree) | N/A |
-| 12 | [Torrent](http://twitter.com/search?q=Torrent) | N/A |
-| 13 | [Lita](http://twitter.com/search?q=Lita) | N/A |
-| 14 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 15 | [David Hogg](http://twitter.com/search?q=David+Hogg) | N/A |
-| 16 | [Tom Sizemore](http://twitter.com/search?q=Tom+Sizemore) | N/A |
-| 17 | [Trish](http://twitter.com/search?q=Trish) | N/A |
+| 3 | [Miquella](http://twitter.com/search?q=Miquella) | N/A |
+| 4 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
+| 5 | [Elden Ring DLC](http://twitter.com/search?q=Elden+Ring+DLC) | N/A |
+| 6 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
+| 7 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 8 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
+| 9 | [#Wordle619](http://twitter.com/search?q=%23Wordle619) | N/A |
+| 10 | [Daily Quordle 400](http://twitter.com/search?q=Daily+Quordle+400) | N/A |
+| 11 | [Nudy](http://twitter.com/search?q=Nudy) | N/A |
+| 12 | [Marika](http://twitter.com/search?q=Marika) | N/A |
+| 13 | [Torrent](http://twitter.com/search?q=Torrent) | N/A |
+| 14 | [David Hogg](http://twitter.com/search?q=David+Hogg) | N/A |
+| 15 | [Shadow of the Erdtree](http://twitter.com/search?q=Shadow+of+the+Erdtree) | N/A |
+| 16 | [TrustWallet](http://twitter.com/search?q=TrustWallet) | N/A |
+| 17 | [#cherish](http://twitter.com/search?q=%23cherish) | N/A |
 | 18 | [Murdoch](http://twitter.com/search?q=Murdoch) | N/A |
-| 19 | [Pete Davidson](http://twitter.com/search?q=Pete+Davidson) | Pete Davidson is an American comedian, actor, and writer. He is best known for being a cast member on Saturday Night Live since 2014. He has also appeared in films such as Big Time Adolescence and The King of Staten Island. |
-| 20 | [#TXTonTheLateLateShow](http://twitter.com/search?q=%23TXTonTheLateLateShow) | N/A |
-| 21 | [Weverse](http://twitter.com/search?q=Weverse) | Weverse is a social media platform created by the South Korean entertainment company Big Hit Entertainment. It is designed to connect fans with artists and allow them to interact with each other. The name Weverse is derived from the words “we” and “universe”, representing the idea of creating a universe where fans and artists can come together. |
-| 22 | [#StillNotBaeBday](http://twitter.com/search?q=%23StillNotBaeBday) | N/A |
-| 23 | [Becky](http://twitter.com/search?q=Becky) | N/A |
-| 24 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
+| 19 | [Lita](http://twitter.com/search?q=Lita) | N/A |
+| 20 | [Player of the Matchday](http://twitter.com/search?q=Player+of+the+Matchday) | N/A |
+| 21 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 22 | [Tom Sizemore](http://twitter.com/search?q=Tom+Sizemore) | N/A |
+| 23 | [Pete Davidson](http://twitter.com/search?q=Pete+Davidson) | Pete Davidson is an American comedian, actor, and writer. He is best known for being a cast member on Saturday Night Live since 2014. He has also appeared in films such as Big Time Adolescence and The King of Staten Island. |
+| 24 | [Becky](http://twitter.com/search?q=Becky) | N/A |
 | 25 | [G Herbo](http://twitter.com/search?q=G+Herbo) | N/A |
-| 26 | [Platinum Chanel](http://twitter.com/search?q=Platinum+Chanel) | N/A |
-| 27 | [Omos](http://twitter.com/search?q=Omos) | N/A |
-| 28 | [Gold Alpinas](http://twitter.com/search?q=Gold+Alpinas) | N/A |
-| 29 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
-| 30 | [Kookie](http://twitter.com/search?q=Kookie) | N/A |
+| 26 | [Parkland](http://twitter.com/search?q=Parkland) | N/A |
+| 27 | [Weverse](http://twitter.com/search?q=Weverse) | Weverse is a social media platform created by the South Korean entertainment company Big Hit Entertainment. It is designed to connect fans with artists and allow them to interact with each other. The name Weverse is derived from the words “we” and “universe”, representing the idea of creating a universe where fans and artists can come together. |
+| 28 | [Trish](http://twitter.com/search?q=Trish) | N/A |
+| 29 | [Platinum Chanel](http://twitter.com/search?q=Platinum+Chanel) | N/A |
+| 30 | [Bill Gates](http://twitter.com/search?q=Bill+Gates) | N/A |
 | 31 | [Proud Boys](http://twitter.com/search?q=Proud+Boys) | N/A |
-| 32 | [Bray](http://twitter.com/search?q=Bray) | Bray is a verb meaning to make a loud, harsh sound, usually like the sound of an animal or machine. It is often used to describe the sound made by a donkey or mule. |
-| 33 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 34 | [When I Come Around](http://twitter.com/search?q=When+I+Come+Around) | N/A |
-| 35 | [james corden](http://twitter.com/search?q=james+corden) | N/A |
-| 36 | [Damage CTRL](http://twitter.com/search?q=Damage+CTRL) | N/A |
-| 37 | [Bennett](http://twitter.com/search?q=Bennett) | N/A |
-| 38 | [Lashley](http://twitter.com/search?q=Lashley) | Lashley is a surname of English origin. It is derived from the Old English words læsc (meaning "salmon") and leah (meaning "woodland clearing"). The name was originally given to someone who lived near a salmon-filled stream or river. |
-| 39 | [Edward VIII](http://twitter.com/search?q=Edward+VIII) | N/A |
-| 40 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
-| 41 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
-| 42 | [Josh Hart](http://twitter.com/search?q=Josh+Hart) | N/A |
+| 32 | [Gold Alpinas](http://twitter.com/search?q=Gold+Alpinas) | N/A |
+| 33 | [Omos](http://twitter.com/search?q=Omos) | N/A |
+| 34 | [Bray](http://twitter.com/search?q=Bray) | Bray is a verb meaning to make a loud, harsh sound, usually like the sound of an animal or machine. It is often used to describe the sound made by a donkey or mule. |
+| 35 | [James Corden](http://twitter.com/search?q=James+Corden) | James Corden is an English actor, comedian, writer, and television host. He is best known for hosting The Late Late Show with James Corden on CBS. He has also starred in films such as Into the Woods and Peter Rabbit. |
+| 36 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
+| 37 | [Jared Kushner](http://twitter.com/search?q=Jared+Kushner) | N/A |
+| 38 | [Edward VIII](http://twitter.com/search?q=Edward+VIII) | N/A |
+| 39 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 40 | [Bennett](http://twitter.com/search?q=Bennett) | N/A |
+| 41 | [Jim Acosta](http://twitter.com/search?q=Jim+Acosta) | N/A |
+| 42 | [Damage CTRL](http://twitter.com/search?q=Damage+CTRL) | N/A |
 | 43 | [Candace](http://twitter.com/search?q=Candace) | N/A |
-| 44 | [Lesnar](http://twitter.com/search?q=Lesnar) | Lesnar is a surname of German origin. It is derived from the Middle High German word "lesen" which means "to read". In English, it can be translated to mean "reader". |
-| 45 | [Shayna](http://twitter.com/search?q=Shayna) | N/A |
-| 46 | [Blaire](http://twitter.com/search?q=Blaire) | N/A |
-| 47 | [Jared Kushner](http://twitter.com/search?q=Jared+Kushner) | N/A |
-| 48 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
-| 49 | [Paolo](http://twitter.com/search?q=Paolo) | N/A |
-| 50 | [Lamelo](http://twitter.com/search?q=Lamelo) | N/A |
+| 44 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
+| 45 | [Lesnar](http://twitter.com/search?q=Lesnar) | Lesnar is a surname of German origin. It is derived from the Middle High German word "lesen" which means "to read". In English, it can be translated to mean "reader". |
+| 46 | [Queen Elizabeth II](http://twitter.com/search?q=Queen+Elizabeth+II) | N/A |
+| 47 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
+| 48 | [#iwasanenglishmajor](http://twitter.com/search?q=%23iwasanenglishmajor) | N/A |
+| 49 | [#RareDiseaseDay](http://twitter.com/search?q=%23RareDiseaseDay) | N/A |
+| 50 | [#StillNotBaeBday](http://twitter.com/search?q=%23StillNotBaeBday) | N/A |
 
 
 

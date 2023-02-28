@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Blackpool
 
-📆 Last Updated: `2023-02-28 11:15:41 UTC`
+📆 Last Updated: `2023-02-28 12:18:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
-| 2 | [#JeremyVine](http://twitter.com/search?q=%23JeremyVine) | N/A |
-| 3 | [Test Cricket](http://twitter.com/search?q=Test+Cricket) | N/A |
-| 4 | [Iceland](http://twitter.com/search?q=Iceland) | N/A |
-| 5 | [Irish Sea](http://twitter.com/search?q=Irish+Sea) | N/A |
+| 1 | [#JeremyVine](http://twitter.com/search?q=%23JeremyVine) | N/A |
+| 2 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
+| 3 | [#FairtradeFortnight](http://twitter.com/search?q=%23FairtradeFortnight) | N/A |
+| 4 | [#COVID19](http://twitter.com/search?q=%23COVID19) | N/A |
+| 5 | [#ENGvsNZ](http://twitter.com/search?q=%23ENGvsNZ) | N/A |
 | 6 | [#RareDiseaseDay](http://twitter.com/search?q=%23RareDiseaseDay) | N/A |
-| 7 | [#PayAttention](http://twitter.com/search?q=%23PayAttention) | N/A |
-| 8 | [#popmaster](http://twitter.com/search?q=%23popmaster) | N/A |
-| 9 | [Northern Ireland](http://twitter.com/search?q=Northern+Ireland) | N/A |
-| 10 | [Cleverly](http://twitter.com/search?q=Cleverly) | Cleverly is an adverb that means in a skillful or clever manner. It is used to describe someone who is able to think quickly and come up with creative solutions. |
-| 11 | [Isla Bryson](http://twitter.com/search?q=Isla+Bryson) | N/A |
-| 12 | [#ASongOrMovieForKeys](http://twitter.com/search?q=%23ASongOrMovieForKeys) | N/A |
-| 13 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 14 | [Single Market](http://twitter.com/search?q=Single+Market) | N/A |
+| 7 | [Northern Ireland](http://twitter.com/search?q=Northern+Ireland) | N/A |
+| 8 | [Single Market](http://twitter.com/search?q=Single+Market) | N/A |
+| 9 | [Isla Bryson](http://twitter.com/search?q=Isla+Bryson) | N/A |
+| 10 | [Sunak](http://twitter.com/search?q=Sunak) | N/A |
+| 11 | [UK and EU](http://twitter.com/search?q=UK+and+EU) | N/A |
+| 12 | [Adam Graham](http://twitter.com/search?q=Adam+Graham) | N/A |
+| 13 | [Scotland and Wales](http://twitter.com/search?q=Scotland+and+Wales) | N/A |
+| 14 | [Cleverly](http://twitter.com/search?q=Cleverly) | Cleverly is an adverb that means in a skillful or clever manner. It is used to describe someone who is able to think quickly and come up with creative solutions. |
 | 15 | [Elden Ring DLC](http://twitter.com/search?q=Elden+Ring+DLC) | N/A |
-| 16 | [Thiago Silva](http://twitter.com/search?q=Thiago+Silva) | Thiago Silva is a Brazilian professional footballer who plays as a central defender for Paris Saint-Germain and the Brazil national team. In English, Thiago Silva means "Saint Thomas". |
-| 17 | [George Weah](http://twitter.com/search?q=George+Weah) | N/A |
-| 18 | [Miquella](http://twitter.com/search?q=Miquella) | N/A |
-| 19 | [Adam Graham](http://twitter.com/search?q=Adam+Graham) | N/A |
-| 20 | [Steve Baker](http://twitter.com/search?q=Steve+Baker) | N/A |
-| 21 | [Sunak](http://twitter.com/search?q=Sunak) | N/A |
-| 22 | [Daily Quordle 400](http://twitter.com/search?q=Daily+Quordle+400) | N/A |
-| 23 | [UK and EU](http://twitter.com/search?q=UK+and+EU) | N/A |
-| 24 | [Gas Panic](http://twitter.com/search?q=Gas+Panic) | N/A |
-| 25 | [Constance Marten](http://twitter.com/search?q=Constance+Marten) | N/A |
-| 26 | [Scotland and Wales](http://twitter.com/search?q=Scotland+and+Wales) | N/A |
-| 27 | [Mark Gordon](http://twitter.com/search?q=Mark+Gordon) | N/A |
-| 28 | [Rupert Murdoch](http://twitter.com/search?q=Rupert+Murdoch) | N/A |
-| 29 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
-| 30 | [The EU](http://twitter.com/search?q=The+EU) | N/A |
-| 31 | [EU and UK](http://twitter.com/search?q=EU+and+UK) | N/A |
-| 32 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
+| 16 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 17 | [UK and the EU](http://twitter.com/search?q=UK+and+the+EU) | N/A |
+| 18 | [Thiago Silva](http://twitter.com/search?q=Thiago+Silva) | Thiago Silva is a Brazilian professional footballer who plays as a central defender for Paris Saint-Germain and the Brazil national team. In English, Thiago Silva means "Saint Thomas". |
+| 19 | [Miquella](http://twitter.com/search?q=Miquella) | N/A |
+| 20 | [Pete Davidson](http://twitter.com/search?q=Pete+Davidson) | Pete Davidson is an American comedian, actor, and writer. He is best known for being a cast member on Saturday Night Live since 2014. He has also appeared in films such as Big Time Adolescence and The King of Staten Island. |
+| 21 | [Gas Panic](http://twitter.com/search?q=Gas+Panic) | N/A |
+| 22 | [Steve Baker](http://twitter.com/search?q=Steve+Baker) | N/A |
+| 23 | [EU and UK](http://twitter.com/search?q=EU+and+UK) | N/A |
+| 24 | [Constance Marten](http://twitter.com/search?q=Constance+Marten) | N/A |
+| 25 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
+| 26 | [Daily Quordle 400](http://twitter.com/search?q=Daily+Quordle+400) | N/A |
+| 27 | [So NI](http://twitter.com/search?q=So+NI) | N/A |
+| 28 | [kevin hart](http://twitter.com/search?q=kevin+hart) | N/A |
+| 29 | [Mark Gordon](http://twitter.com/search?q=Mark+Gordon) | N/A |
+| 30 | [Remain](http://twitter.com/search?q=Remain) | N/A |
+| 31 | [Rina](http://twitter.com/search?q=Rina) | N/A |
+| 32 | [Rupert Murdoch](http://twitter.com/search?q=Rupert+Murdoch) | N/A |
 | 33 | [Noel](http://twitter.com/search?q=Noel) | Noel is a French word meaning "Christmas". It is often used as a greeting during the Christmas season. |
-| 34 | [Stormont Brake](http://twitter.com/search?q=Stormont+Brake) | N/A |
-| 35 | [Lorna Slater](http://twitter.com/search?q=Lorna+Slater) | N/A |
-| 36 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 37 | [Mary Earps](http://twitter.com/search?q=Mary+Earps) | N/A |
-| 38 | [Brexiteer](http://twitter.com/search?q=Brexiteer) | N/A |
-| 39 | [Lita](http://twitter.com/search?q=Lita) | N/A |
-| 40 | [Frost](http://twitter.com/search?q=Frost) | N/A |
-| 41 | [Isle of Man](http://twitter.com/search?q=Isle+of+Man) | N/A |
-| 42 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
-| 43 | [Koran](http://twitter.com/search?q=Koran) | N/A |
-| 44 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
-| 45 | [Bale](http://twitter.com/search?q=Bale) | Bale is a large bundle of goods, usually compressed and tied up with string or wire, for storage or transport. It is commonly used to refer to bundles of hay, straw, or cotton. |
-| 46 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
-| 47 | [Stokes](http://twitter.com/search?q=Stokes) | N/A |
-| 48 | [#thicktrunktuesday](http://twitter.com/search?q=%23thicktrunktuesday) | N/A |
-| 49 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 50 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
+| 34 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
+| 35 | [Test Cricket](http://twitter.com/search?q=Test+Cricket) | N/A |
+| 36 | [Iceland](http://twitter.com/search?q=Iceland) | N/A |
+| 37 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
+| 38 | [Koran](http://twitter.com/search?q=Koran) | N/A |
+| 39 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 40 | [Isle of Man](http://twitter.com/search?q=Isle+of+Man) | N/A |
+| 41 | [Stormont Brake](http://twitter.com/search?q=Stormont+Brake) | N/A |
+| 42 | [Mary Earps](http://twitter.com/search?q=Mary+Earps) | N/A |
+| 43 | [Frost](http://twitter.com/search?q=Frost) | N/A |
+| 44 | [Abuja](http://twitter.com/search?q=Abuja) | N/A |
+| 45 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
+| 46 | [Lorna Slater](http://twitter.com/search?q=Lorna+Slater) | N/A |
+| 47 | [Lita](http://twitter.com/search?q=Lita) | N/A |
+| 48 | [Bale](http://twitter.com/search?q=Bale) | Bale is a large bundle of goods, usually compressed and tied up with string or wire, for storage or transport. It is commonly used to refer to bundles of hay, straw, or cotton. |
+| 49 | [#UseLemonadeFinance](http://twitter.com/search?q=%23UseLemonadeFinance) | N/A |
+| 50 | [#PayAttention](http://twitter.com/search?q=%23PayAttention) | N/A |
 
 
 

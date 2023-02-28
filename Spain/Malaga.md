@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Malaga
 
-📆 Last Updated: `2023-02-28 11:15:57 UTC`
+📆 Last Updated: `2023-02-28 12:18:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Andalucía](http://twitter.com/search?q=Andaluc%c3%ada) | N/A |
-| 2 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
-| 3 | [#EnfermedadesRaras](http://twitter.com/search?q=%23EnfermedadesRaras) | N/A |
-| 4 | [#28Feb](http://twitter.com/search?q=%2328Feb) | N/A |
-| 5 | [Andaluces](http://twitter.com/search?q=Andaluces) | N/A |
-| 6 | [Miquella](http://twitter.com/search?q=Miquella) | N/A |
-| 7 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
-| 8 | [#BayonettaOriginsMM](http://twitter.com/search?q=%23BayonettaOriginsMM) | N/A |
+| 1 | [PSOE](http://twitter.com/search?q=PSOE) | N/A |
+| 2 | [Almería](http://twitter.com/search?q=Almer%c3%ada) | Almería is a city in the southeastern region of Spain. It is the capital of the province of Almería and is located on the Mediterranean Sea. In English, Almería means "The Watchtower". |
+| 3 | [Andalucía](http://twitter.com/search?q=Andaluc%c3%ada) | N/A |
+| 4 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
+| 5 | [#EnfermedadesRaras](http://twitter.com/search?q=%23EnfermedadesRaras) | N/A |
+| 6 | [#28Feb](http://twitter.com/search?q=%2328Feb) | N/A |
+| 7 | [Andaluces](http://twitter.com/search?q=Andaluces) | N/A |
+| 8 | [Miquella](http://twitter.com/search?q=Miquella) | N/A |
 | 9 | [Blas Infante](http://twitter.com/search?q=Blas+Infante) | N/A |
-| 10 | [DLC de Elden Ring](http://twitter.com/search?q=DLC+de+Elden+Ring) | N/A |
-| 11 | [#APOYOROCIO28F](http://twitter.com/search?q=%23APOYOROCIO28F) | N/A |
-| 12 | [Andaluz](http://twitter.com/search?q=Andaluz) | N/A |
-| 13 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 14 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 15 | [España y la Humanidad](http://twitter.com/search?q=Espa%c3%b1a+y+la+Humanidad) | N/A |
-| 16 | [Juan y Medio](http://twitter.com/search?q=Juan+y+Medio) | N/A |
-| 17 | [Hoy 28](http://twitter.com/search?q=Hoy+28) | N/A |
-| 18 | [El IPC](http://twitter.com/search?q=El+IPC) | N/A |
-| 19 | [Tito Berni](http://twitter.com/search?q=Tito+Berni) | N/A |
-| 20 | [Shadow of the Erdtree](http://twitter.com/search?q=Shadow+of+the+Erdtree) | N/A |
-| 21 | [Feliz 28F](http://twitter.com/search?q=Feliz+28F) | N/A |
-| 22 | [Bandolero](http://twitter.com/search?q=Bandolero) | N/A |
-| 23 | [Güenos](http://twitter.com/search?q=G%c3%bcenos) | N/A |
-| 24 | [28-F](http://twitter.com/search?q=28-F) | N/A |
-| 25 | [Kitchen](http://twitter.com/search?q=Kitchen) | N/A |
-| 26 | [Interior](http://twitter.com/search?q=Interior) | N/A |
-| 27 | [Austria](http://twitter.com/search?q=Austria) | N/A |
-| 28 | [Mediador](http://twitter.com/search?q=Mediador) | N/A |
-| 29 | [Zendal](http://twitter.com/search?q=Zendal) | N/A |
-| 30 | [Pablo González](http://twitter.com/search?q=Pablo+Gonz%c3%a1lez) | N/A |
-| 31 | [Repsol](http://twitter.com/search?q=Repsol) | N/A |
-| 32 | [Rocío Jurado](http://twitter.com/search?q=Roc%c3%ado+Jurado) | N/A |
-| 33 | [Inda](http://twitter.com/search?q=Inda) | N/A |
-| 34 | [Martes 28](http://twitter.com/search?q=Martes+28) | N/A |
-| 35 | [Alexia](http://twitter.com/search?q=Alexia) | Alexia is a neurological disorder that affects a person's ability to read. It is also known as word blindness or dyslexia. People with Alexia have difficulty understanding written words, even though they may be able to speak and write normally. |
-| 36 | [Karim](http://twitter.com/search?q=Karim) | Karim is an Arabic name meaning "generous" or "noble". It is also used as a surname in some cultures. |
-| 37 | [La España](http://twitter.com/search?q=La+Espa%c3%b1a) | N/A |
-| 38 | [Federico](http://twitter.com/search?q=Federico) | N/A |
-| 39 | [#Solos28F](http://twitter.com/search?q=%23Solos28F) | N/A |
-| 40 | [#Skyshowtime](http://twitter.com/search?q=%23Skyshowtime) | N/A |
-| 41 | [#RareDiseaseDay](http://twitter.com/search?q=%23RareDiseaseDay) | N/A |
-| 42 | [#28FNadaQueCelebrar](http://twitter.com/search?q=%2328FNadaQueCelebrar) | N/A |
-| 43 | [#TiempoAFavor](http://twitter.com/search?q=%23TiempoAFavor) | N/A |
-| 44 | [#innovaex23](http://twitter.com/search?q=%23innovaex23) | N/A |
-| 45 | [#LaHora28F](http://twitter.com/search?q=%23LaHora28F) | N/A |
-| 46 | [#AR28F](http://twitter.com/search?q=%23AR28F) | N/A |
-| 47 | [#YoMeRebelo28F](http://twitter.com/search?q=%23YoMeRebelo28F) | N/A |
-| 48 | [#MWC2023](http://twitter.com/search?q=%23MWC2023) | N/A |
-| 49 | [#investigación](http://twitter.com/search?q=%23investigaci%c3%b3n) | N/A |
-| 50 | [#ATEEZinMadrid](http://twitter.com/search?q=%23ATEEZinMadrid) | N/A |
+| 10 | [#BayonettaOriginsMM](http://twitter.com/search?q=%23BayonettaOriginsMM) | N/A |
+| 11 | [#28FNadaQueCelebrar](http://twitter.com/search?q=%2328FNadaQueCelebrar) | N/A |
+| 12 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
+| 13 | [Andaluz](http://twitter.com/search?q=Andaluz) | N/A |
+| 14 | [DLC de Elden Ring](http://twitter.com/search?q=DLC+de+Elden+Ring) | N/A |
+| 15 | [Hoy 28](http://twitter.com/search?q=Hoy+28) | N/A |
+| 16 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 17 | [Juan y Medio](http://twitter.com/search?q=Juan+y+Medio) | N/A |
+| 18 | [España y la Humanidad](http://twitter.com/search?q=Espa%c3%b1a+y+la+Humanidad) | N/A |
+| 19 | [Shadow of the Erdtree](http://twitter.com/search?q=Shadow+of+the+Erdtree) | N/A |
+| 20 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 21 | [Marika](http://twitter.com/search?q=Marika) | N/A |
+| 22 | [El IPC](http://twitter.com/search?q=El+IPC) | N/A |
+| 23 | [Tito Berni](http://twitter.com/search?q=Tito+Berni) | N/A |
+| 24 | [Jaén](http://twitter.com/search?q=Ja%c3%a9n) | N/A |
+| 25 | [Dalsy](http://twitter.com/search?q=Dalsy) | N/A |
+| 26 | [Feliz 28F](http://twitter.com/search?q=Feliz+28F) | N/A |
+| 27 | [28-F](http://twitter.com/search?q=28-F) | N/A |
+| 28 | [Güenos](http://twitter.com/search?q=G%c3%bcenos) | N/A |
+| 29 | [Austria](http://twitter.com/search?q=Austria) | N/A |
+| 30 | [Miyazaki](http://twitter.com/search?q=Miyazaki) | N/A |
+| 31 | [Bandolero](http://twitter.com/search?q=Bandolero) | N/A |
+| 32 | [kitchen](http://twitter.com/search?q=kitchen) | N/A |
+| 33 | [Malenia](http://twitter.com/search?q=Malenia) | N/A |
+| 34 | [Zendal](http://twitter.com/search?q=Zendal) | N/A |
+| 35 | [Mediador](http://twitter.com/search?q=Mediador) | N/A |
+| 36 | [Interior](http://twitter.com/search?q=Interior) | N/A |
+| 37 | [Comunidad Autónoma](http://twitter.com/search?q=Comunidad+Aut%c3%b3noma) | N/A |
+| 38 | [Inda](http://twitter.com/search?q=Inda) | N/A |
+| 39 | [Rocío Jurado](http://twitter.com/search?q=Roc%c3%ado+Jurado) | N/A |
+| 40 | [Repsol](http://twitter.com/search?q=Repsol) | N/A |
+| 41 | [Día Internacional de la Mujer](http://twitter.com/search?q=D%c3%ada+Internacional+de+la+Mujer) | N/A |
+| 42 | [Pablo González](http://twitter.com/search?q=Pablo+Gonz%c3%a1lez) | N/A |
+| 43 | [Sábado 4](http://twitter.com/search?q=S%c3%a1bado+4) | N/A |
+| 44 | [Alexia](http://twitter.com/search?q=Alexia) | Alexia is a neurological disorder that affects a person's ability to read. It is also known as word blindness or dyslexia. People with Alexia have difficulty understanding written words, even though they may be able to speak and write normally. |
+| 45 | [Karim](http://twitter.com/search?q=Karim) | Karim is an Arabic name meaning "generous" or "noble". It is also used as a surname in some cultures. |
+| 46 | [La España](http://twitter.com/search?q=La+Espa%c3%b1a) | N/A |
+| 47 | [Martes 28](http://twitter.com/search?q=Martes+28) | N/A |
+| 48 | [Federico](http://twitter.com/search?q=Federico) | N/A |
+| 49 | [#APOYOROCIO28F](http://twitter.com/search?q=%23APOYOROCIO28F) | N/A |
+| 50 | [#28FCanalSur](http://twitter.com/search?q=%2328FCanalSur) | N/A |
 
 
 
