@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bogotá
 
-📆 Last Updated: `2023-02-28 05:16:05 UTC`
+📆 Last Updated: `2023-02-28 06:17:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,46 +15,34 @@ This is top 50 for [Colombia](</Colombia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Petro](http://twitter.com/search?q=Petro) | N/A |
-| 2 | [Fajardo](http://twitter.com/search?q=Fajardo) | N/A |
-| 3 | [Gaviria](http://twitter.com/search?q=Gaviria) | N/A |
-| 4 | [Viva Air](http://twitter.com/search?q=Viva+Air) | N/A |
-| 5 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 6 | [Avianca](http://twitter.com/search?q=Avianca) | N/A |
-| 7 | [Ocampo](http://twitter.com/search?q=Ocampo) | Ocampo is a Spanish surname derived from the Latin word campus, meaning "field". It is most commonly found in Spain and Latin America. In English, it can be translated to mean "of the field". |
-| 8 | [Patricia Ariza](http://twitter.com/search?q=Patricia+Ariza) | N/A |
+| 1 | [Fajardo](http://twitter.com/search?q=Fajardo) | N/A |
+| 2 | [Gaviria](http://twitter.com/search?q=Gaviria) | N/A |
+| 3 | [Viva Air](http://twitter.com/search?q=Viva+Air) | N/A |
+| 4 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 5 | [Avianca](http://twitter.com/search?q=Avianca) | N/A |
+| 6 | [Ocampo](http://twitter.com/search?q=Ocampo) | Ocampo is a Spanish surname derived from the Latin word campus, meaning "field". It is most commonly found in Spain and Latin America. In English, it can be translated to mean "of the field". |
+| 7 | [Patricia Ariza](http://twitter.com/search?q=Patricia+Ariza) | N/A |
+| 8 | [#FirmesConLasPetroReformas](http://twitter.com/search?q=%23FirmesConLasPetroReformas) | N/A |
 | 9 | [Irene Vélez](http://twitter.com/search?q=Irene+V%c3%a9lez) | N/A |
-| 10 | [Ministerio](http://twitter.com/search?q=Ministerio) | N/A |
+| 10 | [Aerocivil](http://twitter.com/search?q=Aerocivil) | N/A |
 | 11 | [Ministerio](http://twitter.com/search?q=Ministerio) | N/A |
-| 12 | [Dilian](http://twitter.com/search?q=Dilian) | N/A |
-| 13 | [Aerocivil](http://twitter.com/search?q=Aerocivil) | N/A |
+| 12 | [Cultura](http://twitter.com/search?q=Cultura) | N/A |
+| 13 | [Dilian](http://twitter.com/search?q=Dilian) | N/A |
 | 14 | [Corcho](http://twitter.com/search?q=Corcho) | N/A |
-| 15 | [#survivorlaisla](http://twitter.com/search?q=%23survivorlaisla) | N/A |
-| 16 | [California](http://twitter.com/search?q=California) | N/A |
-| 17 | [Deporte](http://twitter.com/search?q=Deporte) | N/A |
-| 18 | [Mermelada](http://twitter.com/search?q=Mermelada) | N/A |
-| 19 | [Astrid Rodríguez](http://twitter.com/search?q=Astrid+Rodr%c3%adguez) | N/A |
-| 20 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
-| 21 | [La Gata](http://twitter.com/search?q=La+Gata) | N/A |
-| 22 | [Cecilia López](http://twitter.com/search?q=Cecilia+L%c3%b3pez) | N/A |
-| 23 | [Alcaldía de Bogotá](http://twitter.com/search?q=Alcald%c3%ada+de+Bogot%c3%a1) | N/A |
-| 24 | [Aurora](http://twitter.com/search?q=Aurora) | N/A |
-| 25 | [Pierde](http://twitter.com/search?q=Pierde) | N/A |
-| 26 | [Galán](http://twitter.com/search?q=Gal%c3%a1n) | N/A |
-| 27 | [Troya](http://twitter.com/search?q=Troya) | N/A |
-| 28 | [Dictadura](http://twitter.com/search?q=Dictadura) | N/A |
-| 29 | [hacienda](http://twitter.com/search?q=hacienda) | N/A |
-| 30 | [Rodolfo](http://twitter.com/search?q=Rodolfo) | N/A |
-| 31 | [Deossa](http://twitter.com/search?q=Deossa) | N/A |
-| 32 | [Goez](http://twitter.com/search?q=Goez) | N/A |
-| 33 | [Huila](http://twitter.com/search?q=Huila) | N/A |
-| 34 | [Empezó](http://twitter.com/search?q=Empez%c3%b3) | N/A |
-| 35 | [Blink](http://twitter.com/search?q=Blink) | N/A |
-| 36 | [Autuori](http://twitter.com/search?q=Autuori) | N/A |
-| 37 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 38 | [Seguro Social](http://twitter.com/search?q=Seguro+Social) | N/A |
-| 39 | [Fecode](http://twitter.com/search?q=Fecode) | N/A |
-| 40 | [Germán](http://twitter.com/search?q=Germ%c3%a1n) | Germán is a Spanish and Portuguese name derived from the Latin Germanus, meaning "brother". It is also a Germanic given name, derived from the Germanic element ger, meaning "spear". |
+| 15 | [California](http://twitter.com/search?q=California) | N/A |
+| 16 | [Deporte](http://twitter.com/search?q=Deporte) | N/A |
+| 17 | [Mermelada](http://twitter.com/search?q=Mermelada) | N/A |
+| 18 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
+| 19 | [Cecilia López](http://twitter.com/search?q=Cecilia+L%c3%b3pez) | N/A |
+| 20 | [Astrid Rodríguez](http://twitter.com/search?q=Astrid+Rodr%c3%adguez) | N/A |
+| 21 | [Alcaldía de Bogotá](http://twitter.com/search?q=Alcald%c3%ada+de+Bogot%c3%a1) | N/A |
+| 22 | [Aurora](http://twitter.com/search?q=Aurora) | N/A |
+| 23 | [Dictador](http://twitter.com/search?q=Dictador) | N/A |
+| 24 | [Galán](http://twitter.com/search?q=Gal%c3%a1n) | N/A |
+| 25 | [Troya](http://twitter.com/search?q=Troya) | N/A |
+| 26 | [Dictadura](http://twitter.com/search?q=Dictadura) | N/A |
+| 27 | [Rodolfo](http://twitter.com/search?q=Rodolfo) | N/A |
+| 28 | [Huila](http://twitter.com/search?q=Huila) | N/A |
 
 
 

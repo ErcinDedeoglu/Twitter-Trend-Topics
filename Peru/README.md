@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Peru
 
-📆 Last Updated: `2023-02-28 05:16:52 UTC`
+📆 Last Updated: `2023-02-28 06:17:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Peru
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 2 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
-| 3 | [Fiorella Cayo](http://twitter.com/search?q=Fiorella+Cayo) | N/A |
-| 4 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
-| 5 | [#TXTonTheLateLateShow](http://twitter.com/search?q=%23TXTonTheLateLateShow) | N/A |
-| 6 | [LATE LATE SHOW WITH TXT](http://twitter.com/search?q=LATE+LATE+SHOW+WITH+TXT) | N/A |
-| 7 | [#afhs](http://twitter.com/search?q=%23afhs) | N/A |
-| 8 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
-| 9 | [#TOMORROW_X_TOGETHER](http://twitter.com/search?q=%23TOMORROW_X_TOGETHER) | #TOMORROW_X_TOGETHER is the name of a South Korean boy band formed by Big Hit Entertainment in 2019. The group consists of five members: Yeonjun, Soobin, Beomgyu, Taehyun and Huening Kai. The name of the group is meant to signify the power of togetherness and unity among people, regardless of their differences. In English, it translates to "Tomorrow Together". |
+| 2 | [LATE LATE SHOW WITH TXT](http://twitter.com/search?q=LATE+LATE+SHOW+WITH+TXT) | N/A |
+| 3 | [#TXTonTheLateLateShow](http://twitter.com/search?q=%23TXTonTheLateLateShow) | N/A |
+| 4 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
+| 5 | [Fiorella Cayo](http://twitter.com/search?q=Fiorella+Cayo) | N/A |
+| 6 | [#TOMORROW_X_TOGETHER](http://twitter.com/search?q=%23TOMORROW_X_TOGETHER) | #TOMORROW_X_TOGETHER is the name of a South Korean boy band formed by Big Hit Entertainment in 2019. The group consists of five members: Yeonjun, Soobin, Beomgyu, Taehyun and Huening Kai. The name of the group is meant to signify the power of togetherness and unity among people, regardless of their differences. In English, it translates to "Tomorrow Together". |
+| 7 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
+| 8 | [#afhs](http://twitter.com/search?q=%23afhs) | N/A |
+| 9 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
 | 10 | [Butters](http://twitter.com/search?q=Butters) | N/A |
 | 11 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 12 | [AMLO](http://twitter.com/search?q=AMLO) | AMLO is an acronym for Andrés Manuel López Obrador, the current President of Mexico. He was elected in 2018 and is a member of the National Regeneration Movement (MORENA) party. In English, AMLO stands for Andrés Manuel López Obrador. |
-| 13 | [#LaVelada3](http://twitter.com/search?q=%23LaVelada3) | N/A |
-| 14 | [Germán](http://twitter.com/search?q=Germ%c3%a1n) | Germán is a Spanish and Portuguese name derived from the Latin Germanus, meaning "brother". It is also a Germanic given name, derived from the Germanic element ger, meaning "spear". |
-| 15 | [#MagalyTVLaFirme](http://twitter.com/search?q=%23MagalyTVLaFirme) | N/A |
-| 16 | [POLLY PASTEL BY BUILD](http://twitter.com/search?q=POLLY+PASTEL+BY+BUILD) | N/A |
+| 13 | [Germán](http://twitter.com/search?q=Germ%c3%a1n) | Germán is a Spanish and Portuguese name derived from the Latin Germanus, meaning "brother". It is also a Germanic given name, derived from the Germanic element ger, meaning "spear". |
+| 14 | [#MagalyTVLaFirme](http://twitter.com/search?q=%23MagalyTVLaFirme) | N/A |
+| 15 | [#laVelada3](http://twitter.com/search?q=%23laVelada3) | N/A |
+| 16 | [Compagnucci](http://twitter.com/search?q=Compagnucci) | N/A |
 | 17 | [Luzu](http://twitter.com/search?q=Luzu) | Luzu is a Spanish word that means light. It is often used to refer to a bright, cheerful, and optimistic attitude. |
-| 18 | [Compagnucci](http://twitter.com/search?q=Compagnucci) | N/A |
-| 19 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 20 | [Avanza País](http://twitter.com/search?q=Avanza+Pa%c3%ads) | N/A |
-| 21 | [Terry](http://twitter.com/search?q=Terry) | N/A |
-| 22 | [Fernan](http://twitter.com/search?q=Fernan) | N/A |
-| 23 | [Adriana Tudela](http://twitter.com/search?q=Adriana+Tudela) | N/A |
-| 24 | [Barreto](http://twitter.com/search?q=Barreto) | N/A |
-| 25 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
-| 26 | [Cevasco](http://twitter.com/search?q=Cevasco) | N/A |
-| 27 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
-| 28 | [Herrera](http://twitter.com/search?q=Herrera) | Herrera is a Spanish surname derived from the Latin word ferreus, meaning "iron". It is also a common given name in Spanish-speaking countries. In English, Herrera can be translated to mean "ironworker" or "blacksmith". |
-| 29 | [Pachamama](http://twitter.com/search?q=Pachamama) | N/A |
-| 30 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
-| 31 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
-| 32 | [Di Benedetto](http://twitter.com/search?q=Di+Benedetto) | N/A |
-| 33 | [Coscu](http://twitter.com/search?q=Coscu) | N/A |
-| 34 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
-| 35 | [Rubius](http://twitter.com/search?q=Rubius) | Rubius is a Latin word meaning "red". It is often used to describe the color of hair, eyes, or skin. |
-| 36 | [Lionel Scaloni](http://twitter.com/search?q=Lionel+Scaloni) | N/A |
+| 18 | [Avanza País](http://twitter.com/search?q=Avanza+Pa%c3%ads) | N/A |
+| 19 | [Terry](http://twitter.com/search?q=Terry) | N/A |
+| 20 | [Fernan](http://twitter.com/search?q=Fernan) | N/A |
+| 21 | [Adriana Tudela](http://twitter.com/search?q=Adriana+Tudela) | N/A |
+| 22 | [Barreto](http://twitter.com/search?q=Barreto) | N/A |
+| 23 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
+| 24 | [Cevasco](http://twitter.com/search?q=Cevasco) | N/A |
+| 25 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
+| 26 | [Herrera](http://twitter.com/search?q=Herrera) | Herrera is a Spanish surname derived from the Latin word ferreus, meaning "iron". It is also a common given name in Spanish-speaking countries. In English, Herrera can be translated to mean "ironworker" or "blacksmith". |
+| 27 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
+| 28 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
+| 29 | [Di Benedetto](http://twitter.com/search?q=Di+Benedetto) | N/A |
+| 30 | [Coscu](http://twitter.com/search?q=Coscu) | N/A |
+| 31 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
+| 32 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 33 | [Rubius](http://twitter.com/search?q=Rubius) | Rubius is a Latin word meaning "red". It is often used to describe the color of hair, eyes, or skin. |
+| 34 | [Scaloni](http://twitter.com/search?q=Scaloni) | N/A |
+| 35 | [La Resistencia](http://twitter.com/search?q=La+Resistencia) | N/A |
+| 36 | [Cusco FC](http://twitter.com/search?q=Cusco+FC) | N/A |
 | 37 | [Gorriti](http://twitter.com/search?q=Gorriti) | N/A |
-| 38 | [La Resistencia](http://twitter.com/search?q=La+Resistencia) | N/A |
-| 39 | [Cusco FC](http://twitter.com/search?q=Cusco+FC) | N/A |
+| 38 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 39 | [cuarto poder](http://twitter.com/search?q=cuarto+poder) | N/A |
 | 40 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 41 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 42 | [Cuarto Poder](http://twitter.com/search?q=Cuarto+Poder) | N/A |
-| 43 | [bruno pérez](http://twitter.com/search?q=bruno+p%c3%a9rez) | N/A |
-| 44 | [Roque Benavides](http://twitter.com/search?q=Roque+Benavides) | N/A |
+| 41 | [Reyna](http://twitter.com/search?q=Reyna) | Reyna is a Spanish female name meaning "queen". |
+| 42 | [bruno pérez](http://twitter.com/search?q=bruno+p%c3%a9rez) | N/A |
+| 43 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
+| 44 | [Papi Gavi](http://twitter.com/search?q=Papi+Gavi) | N/A |
 | 45 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
-| 46 | [Reyna](http://twitter.com/search?q=Reyna) | Reyna is a Spanish female name meaning "queen". |
-| 47 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
-| 48 | [Papi Gavi](http://twitter.com/search?q=Papi+Gavi) | N/A |
-| 49 | [Shelao](http://twitter.com/search?q=Shelao) | N/A |
-| 50 | [Alessia](http://twitter.com/search?q=Alessia) | Alessia is an Italian female name, derived from the Greek name Alexia, which means "defender of mankind". |
+| 46 | [Roque Benavides](http://twitter.com/search?q=Roque+Benavides) | N/A |
+| 47 | [Shelao](http://twitter.com/search?q=Shelao) | N/A |
+| 48 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
+| 49 | [succar](http://twitter.com/search?q=succar) | N/A |
+| 50 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
 
 
 

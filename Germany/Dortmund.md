@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dortmund
 
-📆 Last Updated: `2023-02-28 05:16:12 UTC`
+📆 Last Updated: `2023-02-28 06:17:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#hartaberfair](http://twitter.com/search?q=%23hartaberfair) | #hartaberfair is a German phrase that translates to "fair and square" or "just and fair". It is used to express the idea of fairness and justice in a situation. |
-| 2 | [#BETCrypto](http://twitter.com/search?q=%23BETCrypto) | N/A |
-| 3 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
-| 4 | [#PokemonPresents](http://twitter.com/search?q=%23PokemonPresents) | N/A |
-| 5 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 6 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
-| 7 | [start in die woche](http://twitter.com/search?q=start+in+die+woche) | N/A |
-| 8 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
-| 9 | [trinkgeld](http://twitter.com/search?q=trinkgeld) | N/A |
-| 10 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
-| 11 | [Senioren](http://twitter.com/search?q=Senioren) | N/A |
-| 12 | [Polarlichter](http://twitter.com/search?q=Polarlichter) | N/A |
-| 13 | [Vergewaltigungen](http://twitter.com/search?q=Vergewaltigungen) | N/A |
-| 14 | [Gutachten](http://twitter.com/search?q=Gutachten) | N/A |
-| 15 | [Helena](http://twitter.com/search?q=Helena) | N/A |
-| 16 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
-| 17 | [Berliner Kirchenstift](http://twitter.com/search?q=Berliner+Kirchenstift) | N/A |
-| 18 | [Werbeverbot](http://twitter.com/search?q=Werbeverbot) | N/A |
-| 19 | [Suicune](http://twitter.com/search?q=Suicune) | N/A |
-| 20 | [montagmorgen](http://twitter.com/search?q=montagmorgen) | N/A |
-| 21 | [Abrams](http://twitter.com/search?q=Abrams) | Abrams is a surname of English and German origin. It is derived from the Germanic personal name Abraham, meaning "father of many". |
-| 22 | [Kinderlose](http://twitter.com/search?q=Kinderlose) | N/A |
-| 23 | [prantl](http://twitter.com/search?q=prantl) | N/A |
-| 24 | ["Ethikrat"](http://twitter.com/search?q=%22Ethikrat%22) | N/A |
-| 25 | [Greta Thunberg](http://twitter.com/search?q=Greta+Thunberg) | Greta Thunberg is a Swedish environmental activist who has gained international recognition for her work in raising awareness about the dangers of climate change. She is best known for her school strike for climate, which began in August 2018 when she was 15 years old. She has since become a prominent figure in the global climate movement and has been nominated for the Nobel Peace Prize. |
-| 26 | [Ukrainer](http://twitter.com/search?q=Ukrainer) | N/A |
-| 27 | [Frau Schwarzer](http://twitter.com/search?q=Frau+Schwarzer) | N/A |
-| 28 | [Salvatore](http://twitter.com/search?q=Salvatore) | N/A |
-| 29 | [frau buyx](http://twitter.com/search?q=frau+buyx) | N/A |
-| 30 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 31 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
-| 32 | [Habt den Tag](http://twitter.com/search?q=Habt+den+Tag) | N/A |
-| 33 | [Mystery Dungeon](http://twitter.com/search?q=Mystery+Dungeon) | N/A |
-| 34 | [Siedler](http://twitter.com/search?q=Siedler) | N/A |
-| 35 | [bratapfel](http://twitter.com/search?q=bratapfel) | N/A |
-| 36 | [streamplan](http://twitter.com/search?q=streamplan) | N/A |
-| 37 | [Joko](http://twitter.com/search?q=Joko) | N/A |
-| 38 | [Schutzbedürftige](http://twitter.com/search?q=Schutzbed%c3%bcrftige) | N/A |
-| 39 | [Nagel](http://twitter.com/search?q=Nagel) | N/A |
-| 40 | [Walking Wake](http://twitter.com/search?q=Walking+Wake) | N/A |
+| 2 | [#betcrypto](http://twitter.com/search?q=%23betcrypto) | N/A |
+| 3 | [Schönen Dienstag](http://twitter.com/search?q=Sch%c3%b6nen+Dienstag) | N/A |
+| 4 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 5 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
+| 6 | [#firstdateshotel](http://twitter.com/search?q=%23firstdateshotel) | N/A |
+| 7 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
+| 8 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
+| 9 | [start in die woche](http://twitter.com/search?q=start+in+die+woche) | N/A |
+| 10 | [Wölfin](http://twitter.com/search?q=W%c3%b6lfin) | N/A |
+| 11 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
+| 12 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
+| 13 | [Trinkgeld](http://twitter.com/search?q=Trinkgeld) | N/A |
+| 14 | [Senioren](http://twitter.com/search?q=Senioren) | N/A |
+| 15 | [Polarlichter](http://twitter.com/search?q=Polarlichter) | N/A |
+| 16 | [Guten Morgen Welt](http://twitter.com/search?q=Guten+Morgen+Welt) | N/A |
+| 17 | [Vergewaltigungen](http://twitter.com/search?q=Vergewaltigungen) | N/A |
+| 18 | [Gutachten](http://twitter.com/search?q=Gutachten) | N/A |
+| 19 | [Helena](http://twitter.com/search?q=Helena) | N/A |
+| 20 | [Werbeverbot](http://twitter.com/search?q=Werbeverbot) | N/A |
+| 21 | [Habt den Tag](http://twitter.com/search?q=Habt+den+Tag) | N/A |
+| 22 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
+| 23 | [Berliner Kirchenstift](http://twitter.com/search?q=Berliner+Kirchenstift) | N/A |
+| 24 | [montagmorgen](http://twitter.com/search?q=montagmorgen) | N/A |
+| 25 | [kinderlose](http://twitter.com/search?q=kinderlose) | N/A |
+| 26 | [Moin Tom](http://twitter.com/search?q=Moin+Tom) | N/A |
+| 27 | [Suicune](http://twitter.com/search?q=Suicune) | N/A |
+| 28 | [Wissing](http://twitter.com/search?q=Wissing) | N/A |
+| 29 | [Start in den Tag](http://twitter.com/search?q=Start+in+den+Tag) | N/A |
+| 30 | ["Ethikrat"](http://twitter.com/search?q=%22Ethikrat%22) | N/A |
+| 31 | [Greta Thunberg](http://twitter.com/search?q=Greta+Thunberg) | Greta Thunberg is a Swedish environmental activist who has gained international recognition for her work in raising awareness about the dangers of climate change. She is best known for her school strike for climate, which began in August 2018 when she was 15 years old. She has since become a prominent figure in the global climate movement and has been nominated for the Nobel Peace Prize. |
+| 32 | [Moin Klaus](http://twitter.com/search?q=Moin+Klaus) | N/A |
+| 33 | [Salvatore](http://twitter.com/search?q=Salvatore) | N/A |
+| 34 | [Süßigkeiten](http://twitter.com/search?q=S%c3%bc%c3%9figkeiten) | N/A |
+| 35 | [frau buyx](http://twitter.com/search?q=frau+buyx) | N/A |
+| 36 | [Abrams](http://twitter.com/search?q=Abrams) | Abrams is a surname of English and German origin. It is derived from the Germanic personal name Abraham, meaning "father of many". |
+| 37 | [Moin ihr Lieben](http://twitter.com/search?q=Moin+ihr+Lieben) | N/A |
+| 38 | [Guten Morgen Thomas](http://twitter.com/search?q=Guten+Morgen+Thomas) | N/A |
+| 39 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 40 | [Mystery Dungeon](http://twitter.com/search?q=Mystery+Dungeon) | N/A |
 | 41 | [Moderator](http://twitter.com/search?q=Moderator) | N/A |
-| 42 | [drosten](http://twitter.com/search?q=drosten) | N/A |
-| 43 | ['Feuer'](http://twitter.com/search?q=%27Feuer%27) | N/A |
-| 44 | [Zimmermann](http://twitter.com/search?q=Zimmermann) | N/A |
-| 45 | [Hammer](http://twitter.com/search?q=Hammer) | N/A |
-| 46 | [nächstenliebe](http://twitter.com/search?q=n%c3%a4chstenliebe) | N/A |
-| 47 | [INEC](http://twitter.com/search?q=INEC) | N/A |
-| 48 | [Panzer](http://twitter.com/search?q=Panzer) | N/A |
-| 49 | [altenpflege](http://twitter.com/search?q=altenpflege) | N/A |
+| 42 | [Guten Morgen Rainer](http://twitter.com/search?q=Guten+Morgen+Rainer) | N/A |
+| 43 | [bratapfel](http://twitter.com/search?q=bratapfel) | N/A |
+| 44 | [streamplan](http://twitter.com/search?q=streamplan) | N/A |
+| 45 | [Nagel](http://twitter.com/search?q=Nagel) | N/A |
+| 46 | [Kriegsverbrechen](http://twitter.com/search?q=Kriegsverbrechen) | N/A |
+| 47 | [Joko](http://twitter.com/search?q=Joko) | N/A |
+| 48 | [drosten](http://twitter.com/search?q=drosten) | N/A |
+| 49 | [Schutzbedürftige](http://twitter.com/search?q=Schutzbed%c3%bcrftige) | N/A |
 
 
 

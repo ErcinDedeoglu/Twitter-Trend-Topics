@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ankara
 
-📆 Last Updated: `2023-02-28 05:16:37 UTC`
+📆 Last Updated: `2023-02-28 06:17:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,51 +19,51 @@ This is top 50 for [Turkey](</Turkey>)
 | 2 | [Kızılay](http://twitter.com/search?q=K%c4%b1z%c4%b1lay) | Kızılay is the Turkish Red Crescent, a humanitarian organization that provides aid and assistance to those in need. The name Kızılay comes from the Ottoman Empire era, when it was known as the Imperial Ottoman Society of the Red Crescent. In English, Kızılay translates to "Red Crescent". |
 | 3 | [Kızılay](http://twitter.com/search?q=K%c4%b1z%c4%b1lay) | Kızılay is the Turkish Red Crescent, a humanitarian organization that provides aid and assistance to those in need. The name Kızılay comes from the Ottoman Empire era, when it was known as the Imperial Ottoman Society of the Red Crescent. In English, Kızılay translates to "Red Crescent". |
 | 4 | [#salı](http://twitter.com/search?q=%23sal%c4%b1) | #Salı is a Turkish hashtag that translates to "Tuesday" in English. It is used to tag posts related to Tuesday on social media platforms such as Twitter and Instagram. |
-| 5 | [Beşiktaş](http://twitter.com/search?q=Be%c5%9fikta%c5%9f) | Beşiktaş is a Turkish sports club based in Istanbul, Turkey. The name Beşiktaş translates to "cradle stone" in English. The club is best known for its football team, which competes in the Turkish Super League and is one of the most successful clubs in Turkey. |
-| 6 | [#izmirdeprem](http://twitter.com/search?q=%23izmirdeprem) | N/A |
-| 7 | [#NecmettinErbakan](http://twitter.com/search?q=%23NecmettinErbakan) | N/A |
-| 8 | [Fenerbahçe](http://twitter.com/search?q=Fenerbah%c3%a7e) | Fenerbahçe is a Turkish sports club based in Istanbul. The name Fenerbahçe translates to "Lighthouse Garden" in English. The club is best known for its football team, which competes in the Turkish Super Lig and is one of the most successful teams in Turkey. |
-| 9 | [HAKKIM HELAL OLSUN REİS](http://twitter.com/search?q=HAKKIM+HELAL+OLSUN+RE%c4%b0S) | N/A |
+| 5 | [#28Şubat](http://twitter.com/search?q=%2328%c5%9eubat) | N/A |
+| 6 | [Beşiktaş](http://twitter.com/search?q=Be%c5%9fikta%c5%9f) | Beşiktaş is a Turkish sports club based in Istanbul, Turkey. The name Beşiktaş translates to "cradle stone" in English. The club is best known for its football team, which competes in the Turkish Super League and is one of the most successful clubs in Turkey. |
+| 7 | [#izmirdeprem](http://twitter.com/search?q=%23izmirdeprem) | N/A |
+| 8 | [HAKKIM HELAL OLSUN REİS](http://twitter.com/search?q=HAKKIM+HELAL+OLSUN+RE%c4%b0S) | N/A |
+| 9 | [Fenerbahçe](http://twitter.com/search?q=Fenerbah%c3%a7e) | Fenerbahçe is a Turkish sports club based in Istanbul. The name Fenerbahçe translates to "Lighthouse Garden" in English. The club is best known for its football team, which competes in the Turkish Super Lig and is one of the most successful teams in Turkey. |
 | 10 | [Helallik](http://twitter.com/search?q=Helallik) | N/A |
-| 11 | [Yalnız Değilsiniz Yanınızdayız](http://twitter.com/search?q=Yaln%c4%b1z+De%c4%9filsiniz+Yan%c4%b1n%c4%b1zday%c4%b1z) | N/A |
+| 11 | [Çocuklara](http://twitter.com/search?q=%c3%87ocuklara) | N/A |
 | 12 | [bilen herkes kazanır](http://twitter.com/search?q=bilen+herkes+kazan%c4%b1r) | N/A |
-| 13 | [binakimlik sertifikası](http://twitter.com/search?q=binakimlik+sertifikas%c4%b1) | N/A |
+| 13 | [Yalnız Değilsiniz Yanınızdayız](http://twitter.com/search?q=Yaln%c4%b1z+De%c4%9filsiniz+Yan%c4%b1n%c4%b1zday%c4%b1z) | N/A |
 | 14 | [HARAM OLSUN](http://twitter.com/search?q=HARAM+OLSUN) | N/A |
-| 15 | [Çocuklara](http://twitter.com/search?q=%c3%87ocuklara) | N/A |
-| 16 | [çşbsadecekpss](http://twitter.com/search?q=%c3%a7%c5%9fbsadecekpss) | N/A |
-| 17 | [Aziz Yıldırım](http://twitter.com/search?q=Aziz+Y%c4%b1ld%c4%b1r%c4%b1m) | Aziz Yıldırım is a Turkish name, with Aziz meaning "honored" and Yıldırım meaning "thunder". In English, the name would translate to "Honored Thunder". |
-| 18 | [Ahbap](http://twitter.com/search?q=Ahbap) | N/A |
-| 19 | [Haluk Levent](http://twitter.com/search?q=Haluk+Levent) | N/A |
-| 20 | [Vefatının 12](http://twitter.com/search?q=Vefat%c4%b1n%c4%b1n+12) | N/A |
-| 21 | [issen](http://twitter.com/search?q=issen) | N/A |
-| 22 | [Devlet](http://twitter.com/search?q=Devlet) | N/A |
-| 23 | [Foça](http://twitter.com/search?q=Fo%c3%a7a) | N/A |
-| 24 | [Kulüpler Birliği](http://twitter.com/search?q=Kul%c3%bcpler+Birli%c4%9fi) | N/A |
-| 25 | [Pervin Buldan](http://twitter.com/search?q=Pervin+Buldan) | N/A |
-| 26 | [Milli Görüş](http://twitter.com/search?q=Milli+G%c3%b6r%c3%bc%c5%9f) | N/A |
-| 27 | [Paralı](http://twitter.com/search?q=Paral%c4%b1) | N/A |
-| 28 | [çArşı](http://twitter.com/search?q=%c3%a7Ar%c5%9f%c4%b1) | N/A |
-| 29 | [Türkiye İşçi Partisi](http://twitter.com/search?q=T%c3%bcrkiye+%c4%b0%c5%9f%c3%a7i+Partisi) | N/A |
-| 30 | [Barış](http://twitter.com/search?q=Bar%c4%b1%c5%9f) | N/A |
-| 31 | [GÜNAYDIN](http://twitter.com/search?q=G%c3%9cNAYDIN) | N/A |
-| 32 | [Donsuz](http://twitter.com/search?q=Donsuz) | N/A |
-| 33 | [Aleyküm](http://twitter.com/search?q=Aleyk%c3%bcm) | N/A |
-| 34 | [Zübük](http://twitter.com/search?q=Z%c3%bcb%c3%bck) | N/A |
-| 35 | [Kayapınar](http://twitter.com/search?q=Kayap%c4%b1nar) | N/A |
-| 36 | [Günaydın Gamze](http://twitter.com/search?q=G%c3%bcnayd%c4%b1n+Gamze) | N/A |
-| 37 | [Amin](http://twitter.com/search?q=Amin) | N/A |
-| 38 | [Mansur Yavaş](http://twitter.com/search?q=Mansur+Yava%c5%9f) | N/A |
-| 39 | [Sayın  Cumhurbaşkanımızın](http://twitter.com/search?q=Say%c4%b1n++Cumhurba%c5%9fkan%c4%b1m%c4%b1z%c4%b1n) | N/A |
-| 40 | [Portakal](http://twitter.com/search?q=Portakal) | N/A |
-| 41 | [Gülşah](http://twitter.com/search?q=G%c3%bcl%c5%9fah) | N/A |
-| 42 | [İrem Derici](http://twitter.com/search?q=%c4%b0rem+Derici) | N/A |
-| 43 | [Günaydınn](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nn) | N/A |
-| 44 | [Günaydın Yusuf](http://twitter.com/search?q=G%c3%bcnayd%c4%b1n+Yusuf) | N/A |
-| 45 | [Şartlı](http://twitter.com/search?q=%c5%9eartl%c4%b1) | N/A |
-| 46 | [Ayet](http://twitter.com/search?q=Ayet) | N/A |
-| 47 | [İnce Memed](http://twitter.com/search?q=%c4%b0nce+Memed) | N/A |
-| 48 | [Günaydınlar](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nlar) | N/A |
-| 49 | [Acıma](http://twitter.com/search?q=Ac%c4%b1ma) | N/A |
+| 15 | [binakimlik sertifikası](http://twitter.com/search?q=binakimlik+sertifikas%c4%b1) | N/A |
+| 16 | [Günaydınlar](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nlar) | N/A |
+| 17 | [çşbsadecekpss](http://twitter.com/search?q=%c3%a7%c5%9fbsadecekpss) | N/A |
+| 18 | [Aziz Yıldırım](http://twitter.com/search?q=Aziz+Y%c4%b1ld%c4%b1r%c4%b1m) | Aziz Yıldırım is a Turkish name, with Aziz meaning "honored" and Yıldırım meaning "thunder". In English, the name would translate to "Honored Thunder". |
+| 19 | [issen](http://twitter.com/search?q=issen) | N/A |
+| 20 | [Haluk Levent](http://twitter.com/search?q=Haluk+Levent) | N/A |
+| 21 | [Ahbap](http://twitter.com/search?q=Ahbap) | N/A |
+| 22 | [Vefatının 12](http://twitter.com/search?q=Vefat%c4%b1n%c4%b1n+12) | N/A |
+| 23 | [Devlet](http://twitter.com/search?q=Devlet) | N/A |
+| 24 | [Foça](http://twitter.com/search?q=Fo%c3%a7a) | N/A |
+| 25 | [Aleyküm](http://twitter.com/search?q=Aleyk%c3%bcm) | N/A |
+| 26 | [Kulüpler Birliği](http://twitter.com/search?q=Kul%c3%bcpler+Birli%c4%9fi) | N/A |
+| 27 | [Bahçeli](http://twitter.com/search?q=Bah%c3%a7eli) | N/A |
+| 28 | [Pervin Buldan](http://twitter.com/search?q=Pervin+Buldan) | N/A |
+| 29 | [Paralı](http://twitter.com/search?q=Paral%c4%b1) | N/A |
+| 30 | [Milli Görüş](http://twitter.com/search?q=Milli+G%c3%b6r%c3%bc%c5%9f) | N/A |
+| 31 | [Donsuz](http://twitter.com/search?q=Donsuz) | N/A |
+| 32 | [Çarşı](http://twitter.com/search?q=%c3%87ar%c5%9f%c4%b1) | N/A |
+| 33 | [Barış](http://twitter.com/search?q=Bar%c4%b1%c5%9f) | N/A |
+| 34 | [İnce Memed](http://twitter.com/search?q=%c4%b0nce+Memed) | N/A |
+| 35 | [Türkiye İşçi Partisi](http://twitter.com/search?q=T%c3%bcrkiye+%c4%b0%c5%9f%c3%a7i+Partisi) | N/A |
+| 36 | [Hacı](http://twitter.com/search?q=Hac%c4%b1) | N/A |
+| 37 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 38 | [İrem Derici](http://twitter.com/search?q=%c4%b0rem+Derici) | N/A |
+| 39 | [Amin](http://twitter.com/search?q=Amin) | N/A |
+| 40 | [Rojbaş](http://twitter.com/search?q=Rojba%c5%9f) | N/A |
+| 41 | [Nedim](http://twitter.com/search?q=Nedim) | N/A |
+| 42 | [Başınız](http://twitter.com/search?q=Ba%c5%9f%c4%b1n%c4%b1z) | Başınız is a Turkish phrase that translates to "your head" in English. It is used as a way of expressing good wishes and blessings for someone's health and wellbeing. |
+| 43 | [Letonya](http://twitter.com/search?q=Letonya) | N/A |
+| 44 | [Sayın Cumhurbaşkanımızın](http://twitter.com/search?q=Say%c4%b1n+Cumhurba%c5%9fkan%c4%b1m%c4%b1z%c4%b1n) | N/A |
+| 45 | [Alpay](http://twitter.com/search?q=Alpay) | N/A |
+| 46 | [Portakal](http://twitter.com/search?q=Portakal) | N/A |
+| 47 | [Ofis](http://twitter.com/search?q=Ofis) | N/A |
+| 48 | [Mansur Yavaş](http://twitter.com/search?q=Mansur+Yava%c5%9f) | N/A |
+| 49 | [Ayet](http://twitter.com/search?q=Ayet) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bandung
 
-📆 Last Updated: `2023-02-28 05:16:18 UTC`
+📆 Last Updated: `2023-02-28 06:17:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Indonesia](</Indonesia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 2 | [#LIKE_IT_LIKE_IT](http://twitter.com/search?q=%23LIKE_IT_LIKE_IT) | N/A |
-| 3 | [Garpitnya Ariel Tatum](http://twitter.com/search?q=Garpitnya+Ariel+Tatum) | N/A |
-| 4 | [#FilterLegend](http://twitter.com/search?q=%23FilterLegend) | N/A |
-| 5 | [LATE LATE SHOW WITH TXT](http://twitter.com/search?q=LATE+LATE+SHOW+WITH+TXT) | N/A |
-| 6 | [#TXTonTheLateLateShow](http://twitter.com/search?q=%23TXTonTheLateLateShow) | N/A |
-| 7 | [SECRET NUMBER JAPAN DEBUT](http://twitter.com/search?q=SECRET+NUMBER+JAPAN+DEBUT) | N/A |
-| 8 | [kunjungiaja dekade 08](http://twitter.com/search?q=kunjungiaja+dekade+08) | N/A |
-| 9 | [prabowo bikin nyaman](http://twitter.com/search?q=prabowo+bikin+nyaman) | N/A |
-| 10 | [pilihannya mending prabowo](http://twitter.com/search?q=pilihannya+mending+prabowo) | N/A |
-| 11 | [Terry](http://twitter.com/search?q=Terry) | N/A |
+| 2 | [Garpitnya Ariel Tatum](http://twitter.com/search?q=Garpitnya+Ariel+Tatum) | N/A |
+| 3 | [#FilterLegend](http://twitter.com/search?q=%23FilterLegend) | N/A |
+| 4 | [#LIKE_IT_LIKE_IT](http://twitter.com/search?q=%23LIKE_IT_LIKE_IT) | N/A |
+| 5 | [prabowo bikin nyaman](http://twitter.com/search?q=prabowo+bikin+nyaman) | N/A |
+| 6 | [kunjungiaja dekade 08](http://twitter.com/search?q=kunjungiaja+dekade+08) | N/A |
+| 7 | [LATE LATE SHOW WITH TXT](http://twitter.com/search?q=LATE+LATE+SHOW+WITH+TXT) | N/A |
+| 8 | [#TXTonTheLateLateShow](http://twitter.com/search?q=%23TXTonTheLateLateShow) | N/A |
+| 9 | [pilihannya mending prabowo](http://twitter.com/search?q=pilihannya+mending+prabowo) | N/A |
+| 10 | [#PNBPpascaproduksi](http://twitter.com/search?q=%23PNBPpascaproduksi) | N/A |
+| 11 | [SECRET NUMBER JAPAN DEBUT](http://twitter.com/search?q=SECRET+NUMBER+JAPAN+DEBUT) | N/A |
 | 12 | [PH SCAMMER](http://twitter.com/search?q=PH+SCAMMER) | N/A |
-| 13 | [#シークレットナンバー](http://twitter.com/search?q=%23%e3%82%b7%e3%83%bc%e3%82%af%e3%83%ac%e3%83%83%e3%83%88%e3%83%8a%e3%83%b3%e3%83%90%e3%83%bc) | N/A |
+| 13 | [JK LIVE](http://twitter.com/search?q=JK+LIVE) | JK LIVE is a Japanese streaming service that allows users to watch live broadcasts of events, concerts, and other entertainment. The acronym stands for "Japan Kansai Live", referring to the Kansai region of Japan where the service is based. |
 | 14 | [Indra Bekti](http://twitter.com/search?q=Indra+Bekti) | N/A |
-| 15 | [Teja](http://twitter.com/search?q=Teja) | N/A |
-| 16 | [JK LIVE](http://twitter.com/search?q=JK+LIVE) | JK LIVE is a Japanese streaming service that allows users to watch live broadcasts of events, concerts, and other entertainment. The acronym stands for "Japan Kansai Live", referring to the Kansai region of Japan where the service is based. |
+| 15 | [#SaktiWahyuTrenggono](http://twitter.com/search?q=%23SaktiWahyuTrenggono) | N/A |
+| 16 | [Teja](http://twitter.com/search?q=Teja) | N/A |
 | 17 | [Selena](http://twitter.com/search?q=Selena) | N/A |
 | 18 | [HUANG RENJUN THANK YOU](http://twitter.com/search?q=HUANG+RENJUN+THANK+YOU) | N/A |
-| 19 | [#kamday](http://twitter.com/search?q=%23kamday) | N/A |
-| 20 | [Tulus Utamakan Rakyat](http://twitter.com/search?q=Tulus+Utamakan+Rakyat) | Tulus Utamakan Rakyat is a Malay phrase which translates to "Dedicated to Serving the People". It is a slogan used by the Malaysian government to emphasize their commitment to providing quality services and support for the people of Malaysia. |
-| 21 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
-| 22 | [Bapak Prabowo](http://twitter.com/search?q=Bapak+Prabowo) | N/A |
-| 23 | [Tanpa](http://twitter.com/search?q=Tanpa) | N/A |
-| 24 | [POLLY PASTEL BY BUILD](http://twitter.com/search?q=POLLY+PASTEL+BY+BUILD) | N/A |
-| 25 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 26 | [Candace](http://twitter.com/search?q=Candace) | N/A |
-| 27 | [Jam 5](http://twitter.com/search?q=Jam+5) | N/A |
-| 28 | [Vario](http://twitter.com/search?q=Vario) | N/A |
-| 29 | [Jenderal Dudung AR](http://twitter.com/search?q=Jenderal+Dudung+AR) | N/A |
-| 30 | [Energetic](http://twitter.com/search?q=Energetic) | N/A |
-| 31 | [Putri LS](http://twitter.com/search?q=Putri+LS) | N/A |
-| 32 | [Mbanking BCA](http://twitter.com/search?q=Mbanking+BCA) | N/A |
-| 33 | [Zara](http://twitter.com/search?q=Zara) | Zara is a Spanish clothing and accessories retailer. It is one of the largest international fashion companies, and specializes in fast fashion. The name Zara is derived from the name of the founder's daughter, Zara Amalia. |
-| 34 | [Benny](http://twitter.com/search?q=Benny) | N/A |
-| 35 | [Modern Family](http://twitter.com/search?q=Modern+Family) | Modern Family is an American television mockumentary sitcom created by Christopher Lloyd and Steven Levitan for the ABC network. It follows the lives of three related families, the Pritchetts, Dunphys, and Tuckers, who all live in Los Angeles. The show focuses on the characters' relationships with each other and their attempts to navigate modern life. The title of the show is a reference to the changing nature of family life in today's society. |
-| 36 | [Okin](http://twitter.com/search?q=Okin) | N/A |
-| 37 | [Damkar](http://twitter.com/search?q=Damkar) | N/A |
-| 38 | [Game of Thrones](http://twitter.com/search?q=Game+of+Thrones) | N/A |
-| 39 | [Bennett](http://twitter.com/search?q=Bennett) | N/A |
-| 40 | [Scoopy](http://twitter.com/search?q=Scoopy) | N/A |
-| 41 | [Breaking Bad](http://twitter.com/search?q=Breaking+Bad) | N/A |
-| 42 | [JENO CONGRATS ON MFW](http://twitter.com/search?q=JENO+CONGRATS+ON+MFW) | N/A |
-| 43 | [TENLEE 27th BDAY](http://twitter.com/search?q=TENLEE+27th+BDAY) | N/A |
-| 44 | [Black Mirror](http://twitter.com/search?q=Black+Mirror) | N/A |
-| 45 | [Bertaruh](http://twitter.com/search?q=Bertaruh) | N/A |
-| 46 | [Abby Choi](http://twitter.com/search?q=Abby+Choi) | N/A |
-| 47 | [Senin](http://twitter.com/search?q=Senin) | N/A |
-| 48 | [PARK JISUNG MODEL IS BACK](http://twitter.com/search?q=PARK+JISUNG+MODEL+IS+BACK) | N/A |
-| 49 | [Jadi Penyeru Kebenaran](http://twitter.com/search?q=Jadi+Penyeru+Kebenaran) | N/A |
-| 50 | [Heru](http://twitter.com/search?q=Heru) | N/A |
+| 19 | [Terry](http://twitter.com/search?q=Terry) | N/A |
+| 20 | [Bapak Prabowo](http://twitter.com/search?q=Bapak+Prabowo) | N/A |
+| 21 | [Jam 5](http://twitter.com/search?q=Jam+5) | N/A |
+| 22 | [Tanpa](http://twitter.com/search?q=Tanpa) | N/A |
+| 23 | [Mbanking BCA](http://twitter.com/search?q=Mbanking+BCA) | N/A |
+| 24 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 25 | [Benny](http://twitter.com/search?q=Benny) | N/A |
+| 26 | [Jenderal Dudung AR](http://twitter.com/search?q=Jenderal+Dudung+AR) | N/A |
+| 27 | [Putri LS](http://twitter.com/search?q=Putri+LS) | N/A |
+| 28 | [Shea](http://twitter.com/search?q=Shea) | N/A |
+| 29 | [Mengangkat](http://twitter.com/search?q=Mengangkat) | N/A |
+| 30 | [Modern Family](http://twitter.com/search?q=Modern+Family) | Modern Family is an American television mockumentary sitcom created by Christopher Lloyd and Steven Levitan for the ABC network. It follows the lives of three related families, the Pritchetts, Dunphys, and Tuckers, who all live in Los Angeles. The show focuses on the characters' relationships with each other and their attempts to navigate modern life. The title of the show is a reference to the changing nature of family life in today's society. |
+| 31 | [Candace](http://twitter.com/search?q=Candace) | N/A |
+| 32 | [Okin](http://twitter.com/search?q=Okin) | N/A |
+| 33 | [Vario](http://twitter.com/search?q=Vario) | N/A |
+| 34 | [POLLY PASTEL BY BUILD](http://twitter.com/search?q=POLLY+PASTEL+BY+BUILD) | N/A |
+| 35 | [Game of Thrones](http://twitter.com/search?q=Game+of+Thrones) | N/A |
+| 36 | [Breaking Bad](http://twitter.com/search?q=Breaking+Bad) | N/A |
+| 37 | [Siang](http://twitter.com/search?q=Siang) | N/A |
+| 38 | [Bertaruh](http://twitter.com/search?q=Bertaruh) | N/A |
+| 39 | [Heru](http://twitter.com/search?q=Heru) | N/A |
+| 40 | [TENLEE 27th BDAY](http://twitter.com/search?q=TENLEE+27th+BDAY) | N/A |
+| 41 | [Black Mirror](http://twitter.com/search?q=Black+Mirror) | N/A |
+| 42 | [PARK JISUNG MODEL IS BACK](http://twitter.com/search?q=PARK+JISUNG+MODEL+IS+BACK) | N/A |
+| 43 | [Zara](http://twitter.com/search?q=Zara) | Zara is a Spanish clothing and accessories retailer. It is one of the largest international fashion companies, and specializes in fast fashion. The name Zara is derived from the name of the founder's daughter, Zara Amalia. |
+| 44 | [Jadi Penyeru Kebenaran](http://twitter.com/search?q=Jadi+Penyeru+Kebenaran) | N/A |
+| 45 | [Energetic](http://twitter.com/search?q=Energetic) | N/A |
+| 46 | [Brooklyn 99](http://twitter.com/search?q=Brooklyn+99) | N/A |
+| 47 | [Abby Choi](http://twitter.com/search?q=Abby+Choi) | N/A |
+| 48 | [Helmut](http://twitter.com/search?q=Helmut) | N/A |
+| 49 | [Aliran](http://twitter.com/search?q=Aliran) | N/A |
+| 50 | [JENO CONGRATS ON MFW](http://twitter.com/search?q=JENO+CONGRATS+ON+MFW) | N/A |
 
 
 
