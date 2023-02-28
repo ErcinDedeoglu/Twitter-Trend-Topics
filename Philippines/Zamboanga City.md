@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zamboanga City
 
-📆 Last Updated: `2023-02-28 18:17:02 UTC`
+📆 Last Updated: `2023-02-28 19:16:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#RaffleNiBoyet](http://twitter.com/search?q=%23RaffleNiBoyet) | N/A |
-| 2 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 1 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 2 | [#RaffleNiBoyet](http://twitter.com/search?q=%23RaffleNiBoyet) | N/A |
 | 3 | [#JISOOxDiorAW23](http://twitter.com/search?q=%23JISOOxDiorAW23) | N/A |
-| 4 | [#STREAM_WILD_TONIGHT](http://twitter.com/search?q=%23STREAM_WILD_TONIGHT) | N/A |
-| 5 | [SARAH G 20thANNIVERSARY](http://twitter.com/search?q=SARAH+G+20thANNIVERSARY) | N/A |
+| 4 | [#ROSÉCharmeEnSaintLaurent](http://twitter.com/search?q=%23ROS%c3%89CharmeEnSaintLaurent) | N/A |
+| 5 | [#STREAM_WILD_TONIGHT](http://twitter.com/search?q=%23STREAM_WILD_TONIGHT) | N/A |
 | 6 | [WT PERFORMANCE VIDEO](http://twitter.com/search?q=WT+PERFORMANCE+VIDEO) | N/A |
-| 7 | [#EXOSCinMNL](http://twitter.com/search?q=%23EXOSCinMNL) | N/A |
-| 8 | [HABANG BUHAY RELEASE](http://twitter.com/search?q=HABANG+BUHAY+RELEASE) | N/A |
-| 9 | [Rob Luna](http://twitter.com/search?q=Rob+Luna) | N/A |
-| 10 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
-| 11 | [Maya](http://twitter.com/search?q=Maya) | N/A |
-| 12 | [ROVER IS COMING](http://twitter.com/search?q=ROVER+IS+COMING) | N/A |
-| 13 | [PH SCAMMER](http://twitter.com/search?q=PH+SCAMMER) | N/A |
-| 14 | [8 ML Heroes](http://twitter.com/search?q=8+ML+Heroes) | N/A |
+| 7 | [Rob Luna](http://twitter.com/search?q=Rob+Luna) | N/A |
+| 8 | [Maya](http://twitter.com/search?q=Maya) | N/A |
+| 9 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
+| 10 | [SARAH G 20thANNIVERSARY](http://twitter.com/search?q=SARAH+G+20thANNIVERSARY) | N/A |
+| 11 | [HABANG BUHAY RELEASE](http://twitter.com/search?q=HABANG+BUHAY+RELEASE) | N/A |
+| 12 | [PH SCAMMER](http://twitter.com/search?q=PH+SCAMMER) | N/A |
+| 13 | [8 ML Heroes](http://twitter.com/search?q=8+ML+Heroes) | N/A |
+| 14 | [SeChan](http://twitter.com/search?q=SeChan) | N/A |
 | 15 | [Liza](http://twitter.com/search?q=Liza) | N/A |
-| 16 | [SeChan](http://twitter.com/search?q=SeChan) | N/A |
-| 17 | [LATE LATE SHOW WITH TXT](http://twitter.com/search?q=LATE+LATE+SHOW+WITH+TXT) | N/A |
+| 16 | [LATE LATE SHOW WITH TXT](http://twitter.com/search?q=LATE+LATE+SHOW+WITH+TXT) | N/A |
+| 17 | [Fino](http://twitter.com/search?q=Fino) | N/A |
 | 18 | [Birth Month](http://twitter.com/search?q=Birth+Month) | N/A |
-| 19 | [game on bgyo our mvp](http://twitter.com/search?q=game+on+bgyo+our+mvp) | N/A |
-| 20 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
-| 21 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
-| 22 | [Fino](http://twitter.com/search?q=Fino) | N/A |
-| 23 | [TENLEE 27th BDAY](http://twitter.com/search?q=TENLEE+27th+BDAY) | N/A |
-| 24 | [ChiCo COMPLICATIONS](http://twitter.com/search?q=ChiCo+COMPLICATIONS) | N/A |
-| 25 | [TREASURE in Shopee](http://twitter.com/search?q=TREASURE+in+Shopee) | N/A |
-| 26 | [Bennett](http://twitter.com/search?q=Bennett) | N/A |
-| 27 | [BPPH](http://twitter.com/search?q=BPPH) | N/A |
-| 28 | [Blame It On Me](http://twitter.com/search?q=Blame+It+On+Me) | N/A |
-| 29 | [NAIA](http://twitter.com/search?q=NAIA) | N/A |
-| 30 | [Jema](http://twitter.com/search?q=Jema) | N/A |
-| 31 | [Onie](http://twitter.com/search?q=Onie) | N/A |
-| 32 | [1st of March](http://twitter.com/search?q=1st+of+March) | N/A |
-| 33 | [Accepting Christ and His Words](http://twitter.com/search?q=Accepting+Christ+and+His+Words) | N/A |
-| 34 | [fantagio](http://twitter.com/search?q=fantagio) | N/A |
-| 35 | [I VOLUNTEER](http://twitter.com/search?q=I+VOLUNTEER) | N/A |
-| 36 | [Lorie](http://twitter.com/search?q=Lorie) | N/A |
-| 37 | [Gcash](http://twitter.com/search?q=Gcash) | N/A |
-| 38 | [Here Lies Love](http://twitter.com/search?q=Here+Lies+Love) | N/A |
-| 39 | [Bicol Express](http://twitter.com/search?q=Bicol+Express) | N/A |
-| 40 | [Akari](http://twitter.com/search?q=Akari) | N/A |
-| 41 | [VXON GOES TO USA](http://twitter.com/search?q=VXON+GOES+TO+USA) | N/A |
-| 42 | [JOKENxJOKERS Compl3xWild2night](http://twitter.com/search?q=JOKENxJOKERS+Compl3xWild2night) | N/A |
-| 43 | [JK LIVE](http://twitter.com/search?q=JK+LIVE) | JK LIVE is a Japanese streaming service that allows users to watch live broadcasts of events, concerts, and other entertainment. The acronym stands for "Japan Kansai Live", referring to the Kansai region of Japan where the service is based. |
-| 44 | [Circle 3](http://twitter.com/search?q=Circle+3) | N/A |
-| 45 | [Terry](http://twitter.com/search?q=Terry) | N/A |
-| 46 | [anji onemega womentowatch](http://twitter.com/search?q=anji+onemega+womentowatch) | N/A |
-| 47 | [Benny](http://twitter.com/search?q=Benny) | N/A |
-| 48 | [Candace](http://twitter.com/search?q=Candace) | N/A |
-| 49 | [LTFRB](http://twitter.com/search?q=LTFRB) | N/A |
+| 19 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
+| 20 | [TENLEE 27th BDAY](http://twitter.com/search?q=TENLEE+27th+BDAY) | N/A |
+| 21 | [GAME ON BGYO OUR MVP](http://twitter.com/search?q=GAME+ON+BGYO+OUR+MVP) | N/A |
+| 22 | [ChiCo COMPLICATIONS](http://twitter.com/search?q=ChiCo+COMPLICATIONS) | N/A |
+| 23 | [BLAME IT ON ME](http://twitter.com/search?q=BLAME+IT+ON+ME) | N/A |
+| 24 | [BPPH](http://twitter.com/search?q=BPPH) | N/A |
+| 25 | [Bennett](http://twitter.com/search?q=Bennett) | N/A |
+| 26 | [TREASURE in Shopee](http://twitter.com/search?q=TREASURE+in+Shopee) | N/A |
+| 27 | [Gcash](http://twitter.com/search?q=Gcash) | N/A |
+| 28 | [Jema](http://twitter.com/search?q=Jema) | N/A |
+| 29 | [fantagio](http://twitter.com/search?q=fantagio) | N/A |
+| 30 | [accepting christ and his words](http://twitter.com/search?q=accepting+christ+and+his+words) | N/A |
+| 31 | [NAIA](http://twitter.com/search?q=NAIA) | N/A |
+| 32 | [JUNGHWAN](http://twitter.com/search?q=JUNGHWAN) | N/A |
+| 33 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
+| 34 | [Here Lies Love](http://twitter.com/search?q=Here+Lies+Love) | N/A |
+| 35 | [Bicol Express](http://twitter.com/search?q=Bicol+Express) | N/A |
+| 36 | [Wonho](http://twitter.com/search?q=Wonho) | N/A |
+| 37 | [I VOLUNTEER](http://twitter.com/search?q=I+VOLUNTEER) | N/A |
+| 38 | [Circle 3](http://twitter.com/search?q=Circle+3) | N/A |
+| 39 | [Lorie](http://twitter.com/search?q=Lorie) | N/A |
+| 40 | [1st of March](http://twitter.com/search?q=1st+of+March) | N/A |
+| 41 | [Arohas](http://twitter.com/search?q=Arohas) | N/A |
+| 42 | [jk live](http://twitter.com/search?q=jk+live) | N/A |
+| 43 | [Akari](http://twitter.com/search?q=Akari) | N/A |
+| 44 | [JOKENxJOKERS Compl3xWild2night](http://twitter.com/search?q=JOKENxJOKERS+Compl3xWild2night) | N/A |
+| 45 | [PRIVATE FIRST CLASS JIN](http://twitter.com/search?q=PRIVATE+FIRST+CLASS+JIN) | N/A |
+| 46 | [8 League of Legends](http://twitter.com/search?q=8+League+of+Legends) | N/A |
+| 47 | [Inang](http://twitter.com/search?q=Inang) | Inang is a Tagalog word that means "mother." |
+| 48 | [Terry](http://twitter.com/search?q=Terry) | N/A |
+| 49 | [TIGER TRAINER JIN](http://twitter.com/search?q=TIGER+TRAINER+JIN) | N/A |
 
 
 

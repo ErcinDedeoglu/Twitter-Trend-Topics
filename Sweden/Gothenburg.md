@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gothenburg
 
-📆 Last Updated: `2023-02-28 18:16:54 UTC`
+📆 Last Updated: `2023-02-28 19:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [Sweden](</Sweden>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#jagvetvadensnippaär](http://twitter.com/search?q=%23jagvetvadensnippa%c3%a4r) | N/A |
-| 2 | [Olof Palme](http://twitter.com/search?q=Olof+Palme) | N/A |
-| 3 | [egyptsons](http://twitter.com/search?q=egyptsons) | N/A |
-| 4 | [Saol](http://twitter.com/search?q=Saol) | N/A |
-| 5 | [#norrsken](http://twitter.com/search?q=%23norrsken) | N/A |
+| 1 | [Juha Valjakkala](http://twitter.com/search?q=Juha+Valjakkala) | N/A |
+| 2 | [#jagvetvadensnippaär](http://twitter.com/search?q=%23jagvetvadensnippa%c3%a4r) | N/A |
+| 3 | [Olof Palme](http://twitter.com/search?q=Olof+Palme) | N/A |
+| 4 | [#HV71](http://twitter.com/search?q=%23HV71) | N/A |
+| 5 | [Luleå](http://twitter.com/search?q=Lule%c3%a5) | N/A |
 | 6 | [Jessie Diggins](http://twitter.com/search?q=Jessie+Diggins) | N/A |
-| 7 | [svenska freds](http://twitter.com/search?q=svenska+freds) | N/A |
-| 8 | [Hovrätten](http://twitter.com/search?q=Hovr%c3%a4tten) | N/A |
-| 9 | [Magnus](http://twitter.com/search?q=Magnus) | N/A |
-| 10 | [Luleå](http://twitter.com/search?q=Lule%c3%a5) | N/A |
-| 11 | [Malmö FF](http://twitter.com/search?q=Malm%c3%b6+FF) | N/A |
-| 12 | [James Bond](http://twitter.com/search?q=James+Bond) | N/A |
-| 13 | [Sign the Petition](http://twitter.com/search?q=Sign+the+Petition) | N/A |
-| 14 | [#Auroraborealis](http://twitter.com/search?q=%23Auroraborealis) | N/A |
-| 15 | [degerfors](http://twitter.com/search?q=degerfors) | N/A |
-| 16 | [#NorthernLights](http://twitter.com/search?q=%23NorthernLights) | N/A |
-| 17 | [åke thimfors](http://twitter.com/search?q=%c3%a5ke+thimfors) | N/A |
-| 18 | [Badou Jack](http://twitter.com/search?q=Badou+Jack) | N/A |
-| 19 | [Elsa Widding](http://twitter.com/search?q=Elsa+Widding) | N/A |
-| 20 | [Feven](http://twitter.com/search?q=Feven) | N/A |
-| 21 | [Strömmer](http://twitter.com/search?q=Str%c3%b6mmer) | N/A |
-| 22 | [Norrköping](http://twitter.com/search?q=Norrk%c3%b6ping) | N/A |
-| 23 | [Gillman](http://twitter.com/search?q=Gillman) | N/A |
-| 24 | [Arbetsförmedlingen](http://twitter.com/search?q=Arbetsf%c3%b6rmedlingen) | N/A |
-| 25 | [Degen](http://twitter.com/search?q=Degen) | N/A |
-| 26 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
-| 27 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 28 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
-| 29 | [Åklagaren](http://twitter.com/search?q=%c3%85klagaren) | N/A |
-| 30 | [Alex](http://twitter.com/search?q=Alex) | N/A |
-| 31 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
-| 32 | [Västerbotten](http://twitter.com/search?q=V%c3%a4sterbotten) | N/A |
-| 33 | [Northern Ireland](http://twitter.com/search?q=Northern+Ireland) | N/A |
-| 34 | [Göteborg](http://twitter.com/search?q=G%c3%b6teborg) | N/A |
-| 35 | [delar](http://twitter.com/search?q=delar) | N/A |
-| 36 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
-| 37 | [IPCC](http://twitter.com/search?q=IPCC) | N/A |
-| 38 | [Ultima Thule](http://twitter.com/search?q=Ultima+Thule) | N/A |
-| 39 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
-| 40 | [Elfsborg](http://twitter.com/search?q=Elfsborg) | N/A |
-| 41 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
-| 42 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 43 | [St Petersburg](http://twitter.com/search?q=St+Petersburg) | N/A |
-| 44 | [Vänta](http://twitter.com/search?q=V%c3%a4nta) | N/A |
-| 45 | [Svff](http://twitter.com/search?q=Svff) | N/A |
-| 46 | [Scott Adams](http://twitter.com/search?q=Scott+Adams) | N/A |
-| 47 | [christer pettersson](http://twitter.com/search?q=christer+pettersson) | N/A |
-| 48 | [jan scherman](http://twitter.com/search?q=jan+scherman) | N/A |
-| 49 | [Stahre](http://twitter.com/search?q=Stahre) | N/A |
-| 50 | [Frölunda](http://twitter.com/search?q=Fr%c3%b6lunda) | N/A |
+| 7 | [Rögle](http://twitter.com/search?q=R%c3%b6gle) | N/A |
+| 8 | [Elsa Widding](http://twitter.com/search?q=Elsa+Widding) | N/A |
+| 9 | [#fbkse](http://twitter.com/search?q=%23fbkse) | N/A |
+| 10 | [Egyptsons](http://twitter.com/search?q=Egyptsons) | N/A |
+| 11 | [Sign the Petition](http://twitter.com/search?q=Sign+the+Petition) | N/A |
+| 12 | [#timraik](http://twitter.com/search?q=%23timraik) | N/A |
+| 13 | [svenska freds](http://twitter.com/search?q=svenska+freds) | N/A |
+| 14 | [Magnus](http://twitter.com/search?q=Magnus) | N/A |
+| 15 | [#norrsken](http://twitter.com/search?q=%23norrsken) | N/A |
+| 16 | [James Bond](http://twitter.com/search?q=James+Bond) | N/A |
+| 17 | [Hovrätten](http://twitter.com/search?q=Hovr%c3%a4tten) | N/A |
+| 18 | [malmö ff](http://twitter.com/search?q=malm%c3%b6+ff) | N/A |
+| 19 | [åke thimfors](http://twitter.com/search?q=%c3%a5ke+thimfors) | N/A |
+| 20 | [Gillman](http://twitter.com/search?q=Gillman) | N/A |
+| 21 | [Göteborg](http://twitter.com/search?q=G%c3%b6teborg) | N/A |
+| 22 | [Frölunda](http://twitter.com/search?q=Fr%c3%b6lunda) | N/A |
+| 23 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 24 | [Feven](http://twitter.com/search?q=Feven) | N/A |
+| 25 | [Badou Jack](http://twitter.com/search?q=Badou+Jack) | N/A |
+| 26 | [Strömmer](http://twitter.com/search?q=Str%c3%b6mmer) | N/A |
+| 27 | [Norrköping](http://twitter.com/search?q=Norrk%c3%b6ping) | N/A |
+| 28 | [Shinnimin](http://twitter.com/search?q=Shinnimin) | N/A |
+| 29 | [Saol](http://twitter.com/search?q=Saol) | N/A |
+| 30 | [Åklagaren](http://twitter.com/search?q=%c3%85klagaren) | N/A |
+| 31 | [Västerbotten](http://twitter.com/search?q=V%c3%a4sterbotten) | N/A |
+| 32 | [Degen](http://twitter.com/search?q=Degen) | N/A |
+| 33 | [Arbetsförmedlingen](http://twitter.com/search?q=Arbetsf%c3%b6rmedlingen) | N/A |
+| 34 | [Klarna](http://twitter.com/search?q=Klarna) | N/A |
+| 35 | [IPCC](http://twitter.com/search?q=IPCC) | N/A |
+| 36 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
+| 37 | [Natomöte](http://twitter.com/search?q=Natom%c3%b6te) | N/A |
+| 38 | [Färjestad](http://twitter.com/search?q=F%c3%a4rjestad) | N/A |
+| 39 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 40 | [Degerfors](http://twitter.com/search?q=Degerfors) | N/A |
+| 41 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
+| 42 | [Maja](http://twitter.com/search?q=Maja) | N/A |
+| 43 | [Northern Ireland](http://twitter.com/search?q=Northern+Ireland) | N/A |
+| 44 | [Scott Adams](http://twitter.com/search?q=Scott+Adams) | N/A |
+| 45 | [elfsborg](http://twitter.com/search?q=elfsborg) | N/A |
+| 46 | [Videll](http://twitter.com/search?q=Videll) | N/A |
+| 47 | [Venus](http://twitter.com/search?q=Venus) | N/A |
+| 48 | [Svff](http://twitter.com/search?q=Svff) | N/A |
+| 49 | [Ultima Thule](http://twitter.com/search?q=Ultima+Thule) | N/A |
 
 
 

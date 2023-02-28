@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-02-28 18:17:28 UTC`
+📆 Last Updated: `2023-02-28 19:17:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Switzerland
 | ------- | ------------ | ------------ |
 | 1 | [#HRC52](http://twitter.com/search?q=%23HRC52) | N/A |
 | 2 | [#Yemen](http://twitter.com/search?q=%23Yemen) | N/A |
-| 3 | [#Windisch](http://twitter.com/search?q=%23Windisch) | N/A |
-| 4 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 5 | [#Iran](http://twitter.com/search?q=%23Iran) | N/A |
-| 6 | [#DeathPenalty](http://twitter.com/search?q=%23DeathPenalty) | N/A |
-| 7 | [Asylanten](http://twitter.com/search?q=Asylanten) | N/A |
-| 8 | [Kündigung](http://twitter.com/search?q=K%c3%bcndigung) | N/A |
-| 9 | [Mieter](http://twitter.com/search?q=Mieter) | N/A |
-| 10 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 11 | [Grenzen](http://twitter.com/search?q=Grenzen) | N/A |
-| 12 | [Human Rights Council](http://twitter.com/search?q=Human+Rights+Council) | N/A |
-| 13 | [Eigentümer](http://twitter.com/search?q=Eigent%c3%bcmer) | N/A |
-| 14 | [Filter](http://twitter.com/search?q=Filter) | N/A |
-| 15 | [Fachkräftemangel](http://twitter.com/search?q=Fachkr%c3%a4ftemangel) | N/A |
+| 3 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 4 | [#Windisch](http://twitter.com/search?q=%23Windisch) | N/A |
+| 5 | [#DeathPenalty](http://twitter.com/search?q=%23DeathPenalty) | N/A |
+| 6 | [Asylanten](http://twitter.com/search?q=Asylanten) | N/A |
+| 7 | [Mieter](http://twitter.com/search?q=Mieter) | N/A |
+| 8 | [Filter](http://twitter.com/search?q=Filter) | N/A |
+| 9 | [Human Rights Council](http://twitter.com/search?q=Human+Rights+Council) | N/A |
+| 10 | [#Iran](http://twitter.com/search?q=%23Iran) | N/A |
+| 11 | [Kündigung](http://twitter.com/search?q=K%c3%bcndigung) | N/A |
+| 12 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 13 | [Fachkräftemangel](http://twitter.com/search?q=Fachkr%c3%a4ftemangel) | N/A |
+| 14 | [Alex](http://twitter.com/search?q=Alex) | N/A |
+| 15 | [Asylpolitik](http://twitter.com/search?q=Asylpolitik) | N/A |
 | 16 | [Isabel Garcia](http://twitter.com/search?q=Isabel+Garcia) | N/A |
-| 17 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
-| 18 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
-| 19 | [Alex](http://twitter.com/search?q=Alex) | N/A |
-| 20 | [Milano](http://twitter.com/search?q=Milano) | Milano is the Italian name for the city of Milan, which is the second-largest city in Italy and the capital of Lombardy. In English, it is simply referred to as Milan. |
-| 21 | [Shame](http://twitter.com/search?q=Shame) | N/A |
-| 22 | [Bank](http://twitter.com/search?q=Bank) | N/A |
-| 23 | [Kanton](http://twitter.com/search?q=Kanton) | N/A |
-| 24 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 25 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 26 | [disarmament](http://twitter.com/search?q=disarmament) | N/A |
-| 27 | [Asylunterkunft](http://twitter.com/search?q=Asylunterkunft) | N/A |
-| 28 | [Elden Ring](http://twitter.com/search?q=Elden+Ring) | N/A |
-| 29 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 30 | [Agenda](http://twitter.com/search?q=Agenda) | N/A |
-| 31 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 32 | [Flüchtlinge](http://twitter.com/search?q=Fl%c3%bcchtlinge) | N/A |
-| 33 | [Elly Schlein](http://twitter.com/search?q=Elly+Schlein) | N/A |
-| 34 | [Northern Ireland](http://twitter.com/search?q=Northern+Ireland) | N/A |
-| 35 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 36 | [Ausnahme](http://twitter.com/search?q=Ausnahme) | N/A |
-| 37 | [Zucker](http://twitter.com/search?q=Zucker) | N/A |
-| 38 | [Möglichkeiten](http://twitter.com/search?q=M%c3%b6glichkeiten) | N/A |
-| 39 | [Julien](http://twitter.com/search?q=Julien) | N/A |
-| 40 | [Conference](http://twitter.com/search?q=Conference) | N/A |
-| 41 | [Moderator](http://twitter.com/search?q=Moderator) | N/A |
-| 42 | [Kriegsverbrechen](http://twitter.com/search?q=Kriegsverbrechen) | N/A |
-| 43 | [Basler Fasnacht](http://twitter.com/search?q=Basler+Fasnacht) | N/A |
-| 44 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
-| 45 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
-| 46 | [Geschichten](http://twitter.com/search?q=Geschichten) | N/A |
-| 47 | [Nationalrat](http://twitter.com/search?q=Nationalrat) | N/A |
-| 48 | [Timo Meier](http://twitter.com/search?q=Timo+Meier) | N/A |
-| 49 | [Aargau](http://twitter.com/search?q=Aargau) | N/A |
-| 50 | [Bescheid](http://twitter.com/search?q=Bescheid) | N/A |
+| 17 | [Eigentümer](http://twitter.com/search?q=Eigent%c3%bcmer) | N/A |
+| 18 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 19 | [Grenzen](http://twitter.com/search?q=Grenzen) | N/A |
+| 20 | [Agenda](http://twitter.com/search?q=Agenda) | N/A |
+| 21 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 22 | [Disarmament](http://twitter.com/search?q=Disarmament) | N/A |
+| 23 | [Elden Ring](http://twitter.com/search?q=Elden+Ring) | N/A |
+| 24 | [Milano](http://twitter.com/search?q=Milano) | Milano is the Italian name for the city of Milan, which is the second-largest city in Italy and the capital of Lombardy. In English, it is simply referred to as Milan. |
+| 25 | [Shame](http://twitter.com/search?q=Shame) | N/A |
+| 26 | [Bank](http://twitter.com/search?q=Bank) | N/A |
+| 27 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
+| 28 | [Asylunterkunft](http://twitter.com/search?q=Asylunterkunft) | N/A |
+| 29 | [Flüchtlinge](http://twitter.com/search?q=Fl%c3%bcchtlinge) | N/A |
+| 30 | [Möglichkeiten](http://twitter.com/search?q=M%c3%b6glichkeiten) | N/A |
+| 31 | [Kanton](http://twitter.com/search?q=Kanton) | N/A |
+| 32 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
+| 33 | [Zucker](http://twitter.com/search?q=Zucker) | N/A |
+| 34 | [Moderator](http://twitter.com/search?q=Moderator) | N/A |
+| 35 | [Nationalrat](http://twitter.com/search?q=Nationalrat) | N/A |
+| 36 | [Julien](http://twitter.com/search?q=Julien) | N/A |
+| 37 | [Northern Ireland](http://twitter.com/search?q=Northern+Ireland) | N/A |
+| 38 | [Conference](http://twitter.com/search?q=Conference) | N/A |
+| 39 | [Beweise](http://twitter.com/search?q=Beweise) | N/A |
+| 40 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
+| 41 | [Beileid](http://twitter.com/search?q=Beileid) | N/A |
+| 42 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 43 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
+| 44 | [Elly Schlein](http://twitter.com/search?q=Elly+Schlein) | N/A |
+| 45 | [Migration](http://twitter.com/search?q=Migration) | N/A |
+| 46 | [Ausnahme](http://twitter.com/search?q=Ausnahme) | N/A |
+| 47 | [Timo Meier](http://twitter.com/search?q=Timo+Meier) | N/A |
+| 48 | [Geneva](http://twitter.com/search?q=Geneva) | N/A |
+| 49 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
+| 50 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
 
 
 

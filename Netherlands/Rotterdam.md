@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rotterdam
 
-📆 Last Updated: `2023-02-28 18:16:52 UTC`
+📆 Last Updated: `2023-02-28 19:16:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,54 @@ This is top 50 for [Netherlands](</Netherlands>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#stapbudget](http://twitter.com/search?q=%23stapbudget) | N/A |
-| 2 | [#LangLeveDeLiefde](http://twitter.com/search?q=%23LangLeveDeLiefde) | N/A |
-| 3 | [#noorderlicht](http://twitter.com/search?q=%23noorderlicht) | N/A |
-| 4 | [#eenvandaag](http://twitter.com/search?q=%23eenvandaag) | N/A |
-| 5 | [#lldl](http://twitter.com/search?q=%23lldl) | N/A |
-| 6 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 7 | [Expert](http://twitter.com/search?q=Expert) | N/A |
-| 8 | [Israël](http://twitter.com/search?q=Isra%c3%abl) | N/A |
-| 9 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
-| 10 | [VN-rapporteur](http://twitter.com/search?q=VN-rapporteur) | N/A |
-| 11 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 12 | [Waters](http://twitter.com/search?q=Waters) | N/A |
-| 13 | [Wachtgeldteller Amsterdam](http://twitter.com/search?q=Wachtgeldteller+Amsterdam) | N/A |
+| 2 | [#lldl](http://twitter.com/search?q=%23lldl) | N/A |
+| 3 | [#LangLeveDeLiefde](http://twitter.com/search?q=%23LangLeveDeLiefde) | N/A |
+| 4 | [#noorderlicht](http://twitter.com/search?q=%23noorderlicht) | N/A |
+| 5 | [Venus](http://twitter.com/search?q=Venus) | N/A |
+| 6 | [Patty](http://twitter.com/search?q=Patty) | Patty is a slang term for a hamburger patty, which is a flat, round piece of ground meat that is cooked and served between two slices of bread. |
+| 7 | [Wieke](http://twitter.com/search?q=Wieke) | N/A |
+| 8 | [WOZ-bezwaar](http://twitter.com/search?q=WOZ-bezwaar) | N/A |
+| 9 | [goedemorgen](http://twitter.com/search?q=goedemorgen) | N/A |
+| 10 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
+| 11 | [GelreDome](http://twitter.com/search?q=GelreDome) | N/A |
+| 12 | [VN-rapporteur](http://twitter.com/search?q=VN-rapporteur) | N/A |
+| 13 | [Israël](http://twitter.com/search?q=Isra%c3%abl) | N/A |
 | 14 | [Floriade](http://twitter.com/search?q=Floriade) | N/A |
-| 15 | [Venus](http://twitter.com/search?q=Venus) | N/A |
-| 16 | [Welkom](http://twitter.com/search?q=Welkom) | N/A |
-| 17 | [Kinderombudsman](http://twitter.com/search?q=Kinderombudsman) | N/A |
-| 18 | [Steven Seagal](http://twitter.com/search?q=Steven+Seagal) | N/A |
-| 19 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
-| 20 | [GelreDome](http://twitter.com/search?q=GelreDome) | N/A |
-| 21 | [dag 27](http://twitter.com/search?q=dag+27) | N/A |
-| 22 | [Wouter Bos](http://twitter.com/search?q=Wouter+Bos) | N/A |
-| 23 | [Paul Cliteur](http://twitter.com/search?q=Paul+Cliteur) | N/A |
-| 24 | [POKEMON SLEEP](http://twitter.com/search?q=POKEMON+SLEEP) | N/A |
-| 25 | [Burning Daylight](http://twitter.com/search?q=Burning+Daylight) | N/A |
-| 26 | [Rosenmöller](http://twitter.com/search?q=Rosenm%c3%b6ller) | N/A |
-| 27 | [Natasja Gibbs](http://twitter.com/search?q=Natasja+Gibbs) | N/A |
-| 28 | [Huizen](http://twitter.com/search?q=Huizen) | N/A |
-| 29 | [Jady](http://twitter.com/search?q=Jady) | N/A |
-| 30 | [Reden](http://twitter.com/search?q=Reden) | N/A |
-| 31 | [Stemchecker](http://twitter.com/search?q=Stemchecker) | N/A |
-| 32 | [Ziggo Dome](http://twitter.com/search?q=Ziggo+Dome) | N/A |
-| 33 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
-| 34 | [Tilburg](http://twitter.com/search?q=Tilburg) | N/A |
-| 35 | [Bachmoet](http://twitter.com/search?q=Bachmoet) | N/A |
-| 36 | [Eddy](http://twitter.com/search?q=Eddy) | N/A |
-| 37 | [Damiano](http://twitter.com/search?q=Damiano) | N/A |
-| 38 | [Vitesse](http://twitter.com/search?q=Vitesse) | N/A |
-| 39 | [Merel](http://twitter.com/search?q=Merel) | N/A |
-| 40 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
-| 41 | [Huub](http://twitter.com/search?q=Huub) | N/A |
-| 42 | [WOZ-waarde](http://twitter.com/search?q=WOZ-waarde) | N/A |
-| 43 | [Nicole Junkermann](http://twitter.com/search?q=Nicole+Junkermann) | N/A |
-| 44 | [schendelaar](http://twitter.com/search?q=schendelaar) | N/A |
-| 45 | [Niemoller](http://twitter.com/search?q=Niemoller) | N/A |
-| 46 | [Leon de Winter](http://twitter.com/search?q=Leon+de+Winter) | N/A |
-| 47 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
-| 48 | [Jan Paternotte](http://twitter.com/search?q=Jan+Paternotte) | N/A |
-| 49 | [Palestijnen](http://twitter.com/search?q=Palestijnen) | N/A |
-| 50 | [Stelling](http://twitter.com/search?q=Stelling) | N/A |
+| 15 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 16 | [Stemchecker](http://twitter.com/search?q=Stemchecker) | N/A |
+| 17 | [Experts](http://twitter.com/search?q=Experts) | N/A |
+| 18 | [Kinderombudsman](http://twitter.com/search?q=Kinderombudsman) | N/A |
+| 19 | [Welkom](http://twitter.com/search?q=Welkom) | N/A |
+| 20 | [Wachtgeldteller Amsterdam](http://twitter.com/search?q=Wachtgeldteller+Amsterdam) | N/A |
+| 21 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
+| 22 | [Johnny](http://twitter.com/search?q=Johnny) | Johnny is a slang term for a condom. It is used to refer to a condom as a form of protection against sexually transmitted infections and unwanted pregnancies. |
+| 23 | [Wouter Bos](http://twitter.com/search?q=Wouter+Bos) | N/A |
+| 24 | [Natasja Gibbs](http://twitter.com/search?q=Natasja+Gibbs) | N/A |
+| 25 | [Steven Seagal](http://twitter.com/search?q=Steven+Seagal) | N/A |
+| 26 | [Bewoners Nieuw-Weerdinge](http://twitter.com/search?q=Bewoners+Nieuw-Weerdinge) | N/A |
+| 27 | [Huizen](http://twitter.com/search?q=Huizen) | N/A |
+| 28 | [dag 27](http://twitter.com/search?q=dag+27) | N/A |
+| 29 | [WOZ-waarde](http://twitter.com/search?q=WOZ-waarde) | N/A |
+| 30 | [Rosenmöller](http://twitter.com/search?q=Rosenm%c3%b6ller) | N/A |
+| 31 | [Jady](http://twitter.com/search?q=Jady) | N/A |
+| 32 | [reden](http://twitter.com/search?q=reden) | N/A |
+| 33 | [Niemoller](http://twitter.com/search?q=Niemoller) | N/A |
+| 34 | [Vitesse](http://twitter.com/search?q=Vitesse) | N/A |
+| 35 | [Wouke](http://twitter.com/search?q=Wouke) | N/A |
+| 36 | [Miquella](http://twitter.com/search?q=Miquella) | N/A |
+| 37 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
+| 38 | [Eddy](http://twitter.com/search?q=Eddy) | N/A |
+| 39 | [Burning Daylight](http://twitter.com/search?q=Burning+Daylight) | N/A |
+| 40 | [AC Milan](http://twitter.com/search?q=AC+Milan) | AC Milan is a professional Italian football club based in Milan, Italy. The club is one of the most successful teams in the world, having won 18 FIFA and UEFA titles. The acronym AC stands for Associazione Calcio (Italian for Football Association). |
+| 41 | [Ziggo Dome](http://twitter.com/search?q=Ziggo+Dome) | N/A |
+| 42 | [Bedankt](http://twitter.com/search?q=Bedankt) | N/A |
+| 43 | [schendelaar](http://twitter.com/search?q=schendelaar) | N/A |
+| 44 | [Spakenburg](http://twitter.com/search?q=Spakenburg) | N/A |
+| 45 | [Nicole Junkermann](http://twitter.com/search?q=Nicole+Junkermann) | N/A |
+| 46 | [Veenendaal](http://twitter.com/search?q=Veenendaal) | N/A |
+| 47 | [Palestijnen](http://twitter.com/search?q=Palestijnen) | N/A |
+| 48 | [Leon de Winter](http://twitter.com/search?q=Leon+de+Winter) | N/A |
+| 49 | [Van Ranst](http://twitter.com/search?q=Van+Ranst) | N/A |
 
 
 

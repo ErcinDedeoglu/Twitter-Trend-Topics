@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palermo
 
-📆 Last Updated: `2023-02-28 18:16:51 UTC`
+📆 Last Updated: `2023-02-28 19:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for [Italy](</Italy>)
 | 4 | [#28febbraio](http://twitter.com/search?q=%2328febbraio) | N/A |
 | 5 | [#gfvip](http://twitter.com/search?q=%23gfvip) | #GFVIP stands for "Good Friends Very Important Person" and is used to refer to someone who is a close friend or an important person in one's life. |
 | 6 | [Grecia](http://twitter.com/search?q=Grecia) | N/A |
-| 7 | [Renzi](http://twitter.com/search?q=Renzi) | N/A |
-| 8 | [Bonaccini](http://twitter.com/search?q=Bonaccini) | N/A |
-| 9 | [Murgia](http://twitter.com/search?q=Murgia) | Murgia is a geographical region in southern Italy, located in the provinces of Bari and Taranto. It is characterized by its limestone hills, deep ravines, and caves. The name Murgia comes from the Latin word murex, meaning "rocky hill". In English, Murgia can be translated as "rocky land". |
-| 10 | [Fioroni](http://twitter.com/search?q=Fioroni) | N/A |
+| 7 | [Pellegrini](http://twitter.com/search?q=Pellegrini) | N/A |
+| 8 | [Fioroni](http://twitter.com/search?q=Fioroni) | N/A |
+| 9 | [Renzi](http://twitter.com/search?q=Renzi) | N/A |
+| 10 | [Zalewski](http://twitter.com/search?q=Zalewski) | N/A |
 | 11 | [La Maura](http://twitter.com/search?q=La+Maura) | N/A |
-| 12 | [Rui Patricio](http://twitter.com/search?q=Rui+Patricio) | N/A |
-| 13 | [Il PD](http://twitter.com/search?q=Il+PD) | N/A |
-| 14 | [ORIETTA](http://twitter.com/search?q=ORIETTA) | N/A |
-| 15 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
-| 16 | [Sala](http://twitter.com/search?q=Sala) | N/A |
-| 17 | [Pomezia](http://twitter.com/search?q=Pomezia) | N/A |
-| 18 | [San Siro](http://twitter.com/search?q=San+Siro) | N/A |
-| 19 | [Turchia](http://twitter.com/search?q=Turchia) | N/A |
-| 20 | [Bocchino](http://twitter.com/search?q=Bocchino) | N/A |
-| 21 | [Pippo Franco](http://twitter.com/search?q=Pippo+Franco) | N/A |
-| 22 | [Bucciantini](http://twitter.com/search?q=Bucciantini) | N/A |
-| 23 | [Franceschini](http://twitter.com/search?q=Franceschini) | N/A |
-| 24 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 25 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 26 | [Daniele](http://twitter.com/search?q=Daniele) | N/A |
+| 12 | [Bonaccini](http://twitter.com/search?q=Bonaccini) | N/A |
+| 13 | [GIVE US WN BLOOPERS](http://twitter.com/search?q=GIVE+US+WN+BLOOPERS) | N/A |
+| 14 | [Pomezia](http://twitter.com/search?q=Pomezia) | N/A |
+| 15 | [Murgia](http://twitter.com/search?q=Murgia) | Murgia is a geographical region in southern Italy, located in the provinces of Bari and Taranto. It is characterized by its limestone hills, deep ravines, and caves. The name Murgia comes from the Latin word murex, meaning "rocky hill". In English, Murgia can be translated as "rocky land". |
+| 16 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
+| 17 | [Sala](http://twitter.com/search?q=Sala) | N/A |
+| 18 | [Spinazzola](http://twitter.com/search?q=Spinazzola) | N/A |
+| 19 | [San Siro](http://twitter.com/search?q=San+Siro) | N/A |
+| 20 | [Orietta](http://twitter.com/search?q=Orietta) | Orietta is an Italian female name derived from the Latin word "aurum" meaning "gold". It is also a variant of the name Oriana, which means "dawn". |
+| 21 | [Turchia](http://twitter.com/search?q=Turchia) | N/A |
+| 22 | [Il PD](http://twitter.com/search?q=Il+PD) | N/A |
+| 23 | [Tsadjout](http://twitter.com/search?q=Tsadjout) | N/A |
+| 24 | [Bocchino](http://twitter.com/search?q=Bocchino) | N/A |
+| 25 | [Bucciantini](http://twitter.com/search?q=Bucciantini) | N/A |
+| 26 | [Milan](http://twitter.com/search?q=Milan) | N/A |
 | 27 | [Santori](http://twitter.com/search?q=Santori) | N/A |
-| 28 | [Biraghi](http://twitter.com/search?q=Biraghi) | N/A |
-| 29 | [Donnamaria](http://twitter.com/search?q=Donnamaria) | N/A |
-| 30 | [Solovyev](http://twitter.com/search?q=Solovyev) | N/A |
-| 31 | [Carola Rackete](http://twitter.com/search?q=Carola+Rackete) | N/A |
-| 32 | [De Filippi](http://twitter.com/search?q=De+Filippi) | N/A |
-| 33 | [Catania](http://twitter.com/search?q=Catania) | N/A |
-| 34 | [Osvaldo](http://twitter.com/search?q=Osvaldo) | N/A |
-| 35 | [Calabria](http://twitter.com/search?q=Calabria) | Calabria is a region in southern Italy. It is located at the "toe" of the Italian peninsula and is bordered by the Tyrrhenian Sea to the west, the Ionian Sea to the south, and the Apennine Mountains to the north. In English, Calabria means "the heel of Italy". |
-| 36 | [Frontex](http://twitter.com/search?q=Frontex) | N/A |
-| 37 | [Miquella](http://twitter.com/search?q=Miquella) | N/A |
-| 38 | [EdoD](http://twitter.com/search?q=EdoD) | EdoD is an acronym for "Edo Digital", which is a Japanese digital media company. It specializes in creating content for mobile devices, such as apps, games, and videos. The company was founded in 2012 and is based in Tokyo. |
-| 39 | [Edoardo](http://twitter.com/search?q=Edoardo) | Edoardo is an Italian name derived from the Germanic name Edward, which means "wealthy guardian". It is a popular name in Italy and other parts of Europe. |
-| 40 | [Rocco Siffredi](http://twitter.com/search?q=Rocco+Siffredi) | N/A |
-| 41 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
-| 42 | [Gini](http://twitter.com/search?q=Gini) | N/A |
-| 43 | [Boccia](http://twitter.com/search?q=Boccia) | N/A |
-| 44 | [Salvini](http://twitter.com/search?q=Salvini) | N/A |
-| 45 | [Il Ministro](http://twitter.com/search?q=Il+Ministro) | N/A |
-| 46 | [Mediterraneo](http://twitter.com/search?q=Mediterraneo) | N/A |
-| 47 | [Letta](http://twitter.com/search?q=Letta) | N/A |
-| 48 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
-| 49 | [Sesto](http://twitter.com/search?q=Sesto) | N/A |
-| 50 | [Fontana](http://twitter.com/search?q=Fontana) | N/A |
+| 28 | [Daniele](http://twitter.com/search?q=Daniele) | N/A |
+| 29 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 30 | [Pippo Franco](http://twitter.com/search?q=Pippo+Franco) | N/A |
+| 31 | [Franceschini](http://twitter.com/search?q=Franceschini) | N/A |
+| 32 | [Rui Patricio](http://twitter.com/search?q=Rui+Patricio) | N/A |
+| 33 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
+| 34 | [Carola Rackete](http://twitter.com/search?q=Carola+Rackete) | N/A |
+| 35 | [Mancini](http://twitter.com/search?q=Mancini) | Mancini is an Italian surname derived from the Latin name "Mantius". It is a common surname in Italy and other parts of Europe. In English, it means "son of Mantius". |
+| 36 | [Catania](http://twitter.com/search?q=Catania) | N/A |
+| 37 | [Rakete](http://twitter.com/search?q=Rakete) | N/A |
+| 38 | [Cristante](http://twitter.com/search?q=Cristante) | N/A |
+| 39 | [Donnamaria](http://twitter.com/search?q=Donnamaria) | N/A |
+| 40 | [Biraghi](http://twitter.com/search?q=Biraghi) | N/A |
+| 41 | [Calabria](http://twitter.com/search?q=Calabria) | Calabria is a region in southern Italy. It is located at the "toe" of the Italian peninsula and is bordered by the Tyrrhenian Sea to the west, the Ionian Sea to the south, and the Apennine Mountains to the north. In English, Calabria means "the heel of Italy". |
+| 42 | [Guardia Costiera](http://twitter.com/search?q=Guardia+Costiera) | N/A |
+| 43 | [Miquella](http://twitter.com/search?q=Miquella) | N/A |
+| 44 | [Frontex](http://twitter.com/search?q=Frontex) | N/A |
+| 45 | [Rocco Siffredi](http://twitter.com/search?q=Rocco+Siffredi) | N/A |
+| 46 | [Dybala](http://twitter.com/search?q=Dybala) | N/A |
+| 47 | [Salvini](http://twitter.com/search?q=Salvini) | N/A |
+| 48 | [Lollobrigida](http://twitter.com/search?q=Lollobrigida) | N/A |
+| 49 | [Edoardo](http://twitter.com/search?q=Edoardo) | Edoardo is an Italian name derived from the Germanic name Edward, which means "wealthy guardian". It is a popular name in Italy and other parts of Europe. |
+| 50 | [Concita](http://twitter.com/search?q=Concita) | N/A |
 
 
 

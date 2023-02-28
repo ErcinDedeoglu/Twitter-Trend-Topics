@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Minneapolis
 
-📆 Last Updated: `2023-02-28 18:17:17 UTC`
+📆 Last Updated: `2023-02-28 19:17:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 2 | [#studentloanforgiveness](http://twitter.com/search?q=%23studentloanforgiveness) | N/A |
-| 3 | [#Lightfall](http://twitter.com/search?q=%23Lightfall) | N/A |
-| 4 | [#RareDiseaseDay](http://twitter.com/search?q=%23RareDiseaseDay) | N/A |
+| 3 | [#RareDiseaseDay](http://twitter.com/search?q=%23RareDiseaseDay) | N/A |
+| 4 | [#Lightfall](http://twitter.com/search?q=%23Lightfall) | N/A |
 | 5 | [Dreamville](http://twitter.com/search?q=Dreamville) | N/A |
-| 6 | [#GuardianGiveaways](http://twitter.com/search?q=%23GuardianGiveaways) | N/A |
-| 7 | [Gavin Lux](http://twitter.com/search?q=Gavin+Lux) | N/A |
-| 8 | [Peter Pan](http://twitter.com/search?q=Peter+Pan) | N/A |
-| 9 | [#LevelUp2023](http://twitter.com/search?q=%23LevelUp2023) | N/A |
-| 10 | [David Lowery](http://twitter.com/search?q=David+Lowery) | N/A |
-| 11 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
-| 12 | [Puljujarvi](http://twitter.com/search?q=Puljujarvi) | N/A |
-| 13 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
-| 14 | [Joanna McClinton](http://twitter.com/search?q=Joanna+McClinton) | N/A |
-| 15 | [Patrick Corbin](http://twitter.com/search?q=Patrick+Corbin) | N/A |
-| 16 | [Mariota](http://twitter.com/search?q=Mariota) | N/A |
-| 17 | [SCOTUS](http://twitter.com/search?q=SCOTUS) | SCOTUS is an acronym for the Supreme Court of the United States. It is the highest court in the United States and is responsible for interpreting and applying federal laws. |
-| 18 | [One Moment Please](http://twitter.com/search?q=One+Moment+Please) | N/A |
-| 19 | [Miquella](http://twitter.com/search?q=Miquella) | N/A |
-| 20 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 21 | [FFXVI](http://twitter.com/search?q=FFXVI) | N/A |
-| 22 | [Kenny Golladay](http://twitter.com/search?q=Kenny+Golladay) | Kenny Golladay is an American football wide receiver for the Detroit Lions of the National Football League (NFL). He was drafted by the Lions in the third round of the 2017 NFL Draft. His name is a combination of his first and last names, Kenny and Golladay. |
-| 23 | [Nudy](http://twitter.com/search?q=Nudy) | N/A |
-| 24 | [Perk](http://twitter.com/search?q=Perk) | N/A |
-| 25 | [Tinkerbell](http://twitter.com/search?q=Tinkerbell) | N/A |
-| 26 | [Eric Adams](http://twitter.com/search?q=Eric+Adams) | N/A |
-| 27 | [ROCKY LEFT ASTRO](http://twitter.com/search?q=ROCKY+LEFT+ASTRO) | N/A |
-| 28 | [SEIZED](http://twitter.com/search?q=SEIZED) | N/A |
-| 29 | [Sotomayor](http://twitter.com/search?q=Sotomayor) | N/A |
-| 30 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
-| 31 | [Miguel Rojas](http://twitter.com/search?q=Miguel+Rojas) | Miguel Rojas is a Spanish name. It is composed of the given name Miguel, which is derived from the Hebrew name Michael, meaning "who is like God," and the surname Rojas, which means "red." |
-| 32 | [MOHELA](http://twitter.com/search?q=MOHELA) | N/A |
-| 33 | [Colbert](http://twitter.com/search?q=Colbert) | N/A |
-| 34 | [Elden Ring DLC](http://twitter.com/search?q=Elden+Ring+DLC) | N/A |
-| 35 | [Joe Douglas](http://twitter.com/search?q=Joe+Douglas) | N/A |
-| 36 | [McDermott](http://twitter.com/search?q=McDermott) | McDermott is a surname of Irish origin. It is derived from the Gaelic Mac Diarmada, meaning "son of Diarmaid". The name is associated with County Roscommon in Ireland. |
-| 37 | [Joe Musgrove](http://twitter.com/search?q=Joe+Musgrove) | N/A |
-| 38 | [Pete's Dragon](http://twitter.com/search?q=Pete%27s+Dragon) | N/A |
-| 39 | [Jason Licht](http://twitter.com/search?q=Jason+Licht) | N/A |
-| 40 | [Heroes Act](http://twitter.com/search?q=Heroes+Act) | N/A |
-| 41 | [Yoshi-P](http://twitter.com/search?q=Yoshi-P) | N/A |
-| 42 | [OC Boundaries](http://twitter.com/search?q=OC+Boundaries) | N/A |
-| 43 | [Dan Snyder](http://twitter.com/search?q=Dan+Snyder) | N/A |
-| 44 | [Matt Eberflus](http://twitter.com/search?q=Matt+Eberflus) | N/A |
-| 45 | [Dave Roberts](http://twitter.com/search?q=Dave+Roberts) | N/A |
-| 46 | [Kagan](http://twitter.com/search?q=Kagan) | N/A |
-| 47 | [Goldy](http://twitter.com/search?q=Goldy) | N/A |
-| 48 | [David Hogg](http://twitter.com/search?q=David+Hogg) | N/A |
-| 49 | [Leslie Frazier](http://twitter.com/search?q=Leslie+Frazier) | Leslie Frazier is an American football coach and former player. He is currently the defensive coordinator for the Buffalo Bills of the National Football League (NFL). He previously served as head coach of the Minnesota Vikings from 2011 to 2013. |
+| 6 | [Peter Pan](http://twitter.com/search?q=Peter+Pan) | N/A |
+| 7 | [Julie Su](http://twitter.com/search?q=Julie+Su) | N/A |
+| 8 | [Quintana](http://twitter.com/search?q=Quintana) | N/A |
+| 9 | [SCOTUS](http://twitter.com/search?q=SCOTUS) | SCOTUS is an acronym for the Supreme Court of the United States. It is the highest court in the United States and is responsible for interpreting and applying federal laws. |
+| 10 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
+| 11 | [Start Russ](http://twitter.com/search?q=Start+Russ) | N/A |
+| 12 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
+| 13 | [David Lowery](http://twitter.com/search?q=David+Lowery) | N/A |
+| 14 | [GIVE US WN BLOOPERS](http://twitter.com/search?q=GIVE+US+WN+BLOOPERS) | N/A |
+| 15 | [FFXVI](http://twitter.com/search?q=FFXVI) | N/A |
+| 16 | [Gavin Lux](http://twitter.com/search?q=Gavin+Lux) | N/A |
+| 17 | [Start Dame](http://twitter.com/search?q=Start+Dame) | N/A |
+| 18 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 19 | [#GuardianGiveaways](http://twitter.com/search?q=%23GuardianGiveaways) | N/A |
+| 20 | [Patrick Corbin](http://twitter.com/search?q=Patrick+Corbin) | N/A |
+| 21 | [Jamie Raskin](http://twitter.com/search?q=Jamie+Raskin) | N/A |
+| 22 | [Dave Grohl](http://twitter.com/search?q=Dave+Grohl) | N/A |
+| 23 | [SEIZED](http://twitter.com/search?q=SEIZED) | N/A |
+| 24 | [Bench Dame](http://twitter.com/search?q=Bench+Dame) | N/A |
+| 25 | [Start Kyrie](http://twitter.com/search?q=Start+Kyrie) | N/A |
+| 26 | [Sean Desai](http://twitter.com/search?q=Sean+Desai) | N/A |
+| 27 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
+| 28 | [Mariota](http://twitter.com/search?q=Mariota) | N/A |
+| 29 | [Nudy](http://twitter.com/search?q=Nudy) | N/A |
+| 30 | [Puljujarvi](http://twitter.com/search?q=Puljujarvi) | N/A |
+| 31 | [Kenny Golladay](http://twitter.com/search?q=Kenny+Golladay) | Kenny Golladay is an American football wide receiver for the Detroit Lions of the National Football League (NFL). He was drafted by the Lions in the third round of the 2017 NFL Draft. His name is a combination of his first and last names, Kenny and Golladay. |
+| 32 | [Perk](http://twitter.com/search?q=Perk) | N/A |
+| 33 | [Ian Anderson](http://twitter.com/search?q=Ian+Anderson) | N/A |
+| 34 | [Tinkerbell](http://twitter.com/search?q=Tinkerbell) | N/A |
+| 35 | [Bench Kyrie](http://twitter.com/search?q=Bench+Kyrie) | N/A |
+| 36 | [Cut Kyrie](http://twitter.com/search?q=Cut+Kyrie) | N/A |
+| 37 | [Cut Russ](http://twitter.com/search?q=Cut+Russ) | N/A |
+| 38 | [Joanna McClinton](http://twitter.com/search?q=Joanna+McClinton) | N/A |
+| 39 | [Cut Dame](http://twitter.com/search?q=Cut+Dame) | N/A |
+| 40 | [Bench Russ](http://twitter.com/search?q=Bench+Russ) | N/A |
+| 41 | [Miquella](http://twitter.com/search?q=Miquella) | N/A |
+| 42 | [Eric Adams](http://twitter.com/search?q=Eric+Adams) | N/A |
+| 43 | [Usher](http://twitter.com/search?q=Usher) | N/A |
+| 44 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
+| 45 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
+| 46 | [One Moment Please](http://twitter.com/search?q=One+Moment+Please) | N/A |
+| 47 | [Colbert](http://twitter.com/search?q=Colbert) | N/A |
+| 48 | [Final Fantasy](http://twitter.com/search?q=Final+Fantasy) | N/A |
+| 49 | [Pete Carroll](http://twitter.com/search?q=Pete+Carroll) | Pete Carroll is the head coach of the Seattle Seahawks of the National Football League (NFL). He is known for his innovative approach to coaching and his ability to motivate players. The phrase "Pete Carroll" has come to mean a leader who is willing to take risks and push boundaries in order to achieve success. |
 
 
 

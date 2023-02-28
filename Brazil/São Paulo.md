@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For São Paulo
 
-📆 Last Updated: `2023-02-28 18:16:45 UTC`
+📆 Last Updated: `2023-02-28 19:16:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [unicamp](http://twitter.com/search?q=unicamp) | Unicamp is short for Universidade Estadual de Campinas, which is a public university located in the city of Campinas, Brazil. It is one of the largest universities in Latin America and offers a wide range of courses in areas such as engineering, science, humanities, and social sciences. |
-| 2 | [Guedes](http://twitter.com/search?q=Guedes) | N/A |
-| 3 | [Março](http://twitter.com/search?q=Mar%c3%a7o) | N/A |
+| 1 | [Bebida Favorita](http://twitter.com/search?q=Bebida+Favorita) | N/A |
+| 2 | [Faz o L.](http://twitter.com/search?q=Faz+o+L.) | N/A |
+| 3 | [Ciro](http://twitter.com/search?q=Ciro) | N/A |
 | 4 | [twenty one pilots](http://twitter.com/search?q=twenty+one+pilots) | N/A |
 | 5 | [Lelê](http://twitter.com/search?q=Lel%c3%aa) | N/A |
-| 6 | [4 ANOS DE LOUD](http://twitter.com/search?q=4+ANOS+DE+LOUD) | N/A |
-| 7 | [Blink](http://twitter.com/search?q=Blink) | N/A |
-| 8 | [Peter Pan](http://twitter.com/search?q=Peter+Pan) | N/A |
-| 9 | [EU QUERO BOTI](http://twitter.com/search?q=EU+QUERO+BOTI) | N/A |
-| 10 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
-| 11 | [Petrobras](http://twitter.com/search?q=Petrobras) | N/A |
-| 12 | [Apple](http://twitter.com/search?q=Apple) | N/A |
-| 13 | [Bento Gonçalves](http://twitter.com/search?q=Bento+Gon%c3%a7alves) | N/A |
-| 14 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 15 | [iPhone 15](http://twitter.com/search?q=iPhone+15) | N/A |
-| 16 | [#JISOOxDiorAW23](http://twitter.com/search?q=%23JISOOxDiorAW23) | N/A |
-| 17 | [Patrick de Paula](http://twitter.com/search?q=Patrick+de+Paula) | N/A |
-| 18 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
-| 19 | [#NeverLetMeGoSeriesFinalEP](http://twitter.com/search?q=%23NeverLetMeGoSeriesFinalEP) | N/A |
-| 20 | [#F90BR](http://twitter.com/search?q=%23F90BR) | N/A |
-| 21 | [Bolsa Família](http://twitter.com/search?q=Bolsa+Fam%c3%adlia) | N/A |
-| 22 | [DESSA VEZ NÃO](http://twitter.com/search?q=DESSA+VEZ+N%c3%83O) | N/A |
-| 23 | [tyler joseph](http://twitter.com/search?q=tyler+joseph) | N/A |
-| 24 | [Leo Dias](http://twitter.com/search?q=Leo+Dias) | N/A |
-| 25 | [Tomorrowland](http://twitter.com/search?q=Tomorrowland) | Tomorrowland is a Disney theme park located in Anaheim, California. It is based on futuristic themes and features attractions such as Space Mountain, Buzz Lightyear Astro Blasters, and Star Tours. The name "Tomorrowland" is derived from the phrase "the future is now," which reflects the park's focus on innovation and progress. |
-| 26 | [Consea](http://twitter.com/search?q=Consea) | N/A |
-| 27 | [#FORACARADESAPATO](http://twitter.com/search?q=%23FORACARADESAPATO) | N/A |
-| 28 | [#NeverLetMeGoFinalEP](http://twitter.com/search?q=%23NeverLetMeGoFinalEP) | N/A |
-| 29 | [União Brasil](http://twitter.com/search?q=Uni%c3%a3o+Brasil) | N/A |
-| 30 | [ASTRO](http://twitter.com/search?q=ASTRO) | N/A |
-| 31 | [Campari](http://twitter.com/search?q=Campari) | N/A |
-| 32 | [Basco](http://twitter.com/search?q=Basco) | N/A |
-| 33 | [Bota](http://twitter.com/search?q=Bota) | N/A |
-| 34 | [Haddad](http://twitter.com/search?q=Haddad) | N/A |
-| 35 | [Final Fantasy](http://twitter.com/search?q=Final+Fantasy) | N/A |
-| 36 | [Rioru](http://twitter.com/search?q=Rioru) | N/A |
-| 37 | [Imagine Dragons](http://twitter.com/search?q=Imagine+Dragons) | N/A |
-| 38 | [UFMG](http://twitter.com/search?q=UFMG) | N/A |
-| 39 | [sisu](http://twitter.com/search?q=sisu) | N/A |
-| 40 | [Obrigadaaaa](http://twitter.com/search?q=Obrigadaaaa) | N/A |
-| 41 | [Parabénsssss](http://twitter.com/search?q=Parab%c3%a9nsssss) | N/A |
-| 42 | [Michael B. Jordan](http://twitter.com/search?q=Michael+B.+Jordan) | N/A |
-| 43 | [UFRJ](http://twitter.com/search?q=UFRJ) | N/A |
-| 44 | [Pitica](http://twitter.com/search?q=Pitica) | N/A |
-| 45 | [Travis](http://twitter.com/search?q=Travis) | N/A |
-| 46 | [Miquella](http://twitter.com/search?q=Miquella) | N/A |
-| 47 | [ProUni](http://twitter.com/search?q=ProUni) | N/A |
-| 48 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
-| 49 | [Werg](http://twitter.com/search?q=Werg) | N/A |
-| 50 | [DLC de Elden Ring](http://twitter.com/search?q=DLC+de+Elden+Ring) | N/A |
+| 6 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 7 | [4 ANOS DE LOUD](http://twitter.com/search?q=4+ANOS+DE+LOUD) | N/A |
+| 8 | [Apple](http://twitter.com/search?q=Apple) | N/A |
+| 9 | [Peter Pan](http://twitter.com/search?q=Peter+Pan) | N/A |
+| 10 | [Blink](http://twitter.com/search?q=Blink) | N/A |
+| 11 | [EU QUERO BOTI](http://twitter.com/search?q=EU+QUERO+BOTI) | N/A |
+| 12 | [Tomorrowland](http://twitter.com/search?q=Tomorrowland) | Tomorrowland is a Disney theme park located in Anaheim, California. It is based on futuristic themes and features attractions such as Space Mountain, Buzz Lightyear Astro Blasters, and Star Tours. The name "Tomorrowland" is derived from the phrase "the future is now," which reflects the park's focus on innovation and progress. |
+| 13 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
+| 14 | [Petrobras](http://twitter.com/search?q=Petrobras) | N/A |
+| 15 | [Cremonese](http://twitter.com/search?q=Cremonese) | N/A |
+| 16 | [Bento Gonçalves](http://twitter.com/search?q=Bento+Gon%c3%a7alves) | N/A |
+| 17 | [Bolsa Família](http://twitter.com/search?q=Bolsa+Fam%c3%adlia) | N/A |
+| 18 | [#MelevaATL](http://twitter.com/search?q=%23MelevaATL) | N/A |
+| 19 | [#FORACARADESAPATO](http://twitter.com/search?q=%23FORACARADESAPATO) | N/A |
+| 20 | [#JISOOxDiorAW23](http://twitter.com/search?q=%23JISOOxDiorAW23) | N/A |
+| 21 | [Caxias do Sul](http://twitter.com/search?q=Caxias+do+Sul) | N/A |
+| 22 | [iPhone 15](http://twitter.com/search?q=iPhone+15) | N/A |
+| 23 | [Patrick de Paula](http://twitter.com/search?q=Patrick+de+Paula) | N/A |
+| 24 | [Consea](http://twitter.com/search?q=Consea) | N/A |
+| 25 | [DESSA VEZ NÃO](http://twitter.com/search?q=DESSA+VEZ+N%c3%83O) | N/A |
+| 26 | [Abelão](http://twitter.com/search?q=Abel%c3%a3o) | N/A |
+| 27 | [Abel Braga](http://twitter.com/search?q=Abel+Braga) | N/A |
+| 28 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
+| 29 | [#NeverLetMeGoSeriesFinalEP](http://twitter.com/search?q=%23NeverLetMeGoSeriesFinalEP) | N/A |
+| 30 | [Pedro Lima](http://twitter.com/search?q=Pedro+Lima) | Pedro Lima is a Portuguese name, derived from the Latin name Petrus (Peter). It is a common name in Portugal and Brazil, and it means "rock" or "stone" in English. |
+| 31 | [#HeavenObeysElijah](http://twitter.com/search?q=%23HeavenObeysElijah) | N/A |
+| 32 | [Haddad](http://twitter.com/search?q=Haddad) | N/A |
+| 33 | [Campari](http://twitter.com/search?q=Campari) | N/A |
+| 34 | [GRLS](http://twitter.com/search?q=GRLS) | N/A |
+| 35 | [União Brasil](http://twitter.com/search?q=Uni%c3%a3o+Brasil) | N/A |
+| 36 | [USB-C](http://twitter.com/search?q=USB-C) | N/A |
+| 37 | [Rioru](http://twitter.com/search?q=Rioru) | N/A |
+| 38 | [tyler joseph](http://twitter.com/search?q=tyler+joseph) | N/A |
+| 39 | [Michael B. Jordan](http://twitter.com/search?q=Michael+B.+Jordan) | N/A |
+| 40 | [Basco](http://twitter.com/search?q=Basco) | N/A |
+| 41 | [sisu](http://twitter.com/search?q=sisu) | N/A |
+| 42 | [Bota](http://twitter.com/search?q=Bota) | N/A |
+| 43 | [Leo Dias](http://twitter.com/search?q=Leo+Dias) | N/A |
+| 44 | [Besouro](http://twitter.com/search?q=Besouro) | N/A |
+| 45 | [Chapéu](http://twitter.com/search?q=Chap%c3%a9u) | N/A |
+| 46 | [Obrigadaaa](http://twitter.com/search?q=Obrigadaaa) | N/A |
+| 47 | [Imagine Dragons](http://twitter.com/search?q=Imagine+Dragons) | N/A |
+| 48 | [Thais Carla](http://twitter.com/search?q=Thais+Carla) | N/A |
+| 49 | [Doenças Raras](http://twitter.com/search?q=Doen%c3%a7as+Raras) | N/A |
+| 50 | [Final Fantasy](http://twitter.com/search?q=Final+Fantasy) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Jose
 
-📆 Last Updated: `2023-02-28 18:17:20 UTC`
+📆 Last Updated: `2023-02-28 19:17:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#studentloanforgiveness](http://twitter.com/search?q=%23studentloanforgiveness) | N/A |
-| 2 | [#Lightfall](http://twitter.com/search?q=%23Lightfall) | N/A |
-| 3 | [#RareDiseaseDay](http://twitter.com/search?q=%23RareDiseaseDay) | N/A |
-| 4 | [Dreamville](http://twitter.com/search?q=Dreamville) | N/A |
-| 5 | [#GuardianGiveaways](http://twitter.com/search?q=%23GuardianGiveaways) | N/A |
-| 6 | [Gavin Lux](http://twitter.com/search?q=Gavin+Lux) | N/A |
-| 7 | [Peter Pan](http://twitter.com/search?q=Peter+Pan) | N/A |
-| 8 | [David Lowery](http://twitter.com/search?q=David+Lowery) | N/A |
-| 9 | [Puljujarvi](http://twitter.com/search?q=Puljujarvi) | N/A |
-| 10 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
-| 11 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
-| 12 | [Joanna McClinton](http://twitter.com/search?q=Joanna+McClinton) | N/A |
-| 13 | [Patrick Corbin](http://twitter.com/search?q=Patrick+Corbin) | N/A |
-| 14 | [Mariota](http://twitter.com/search?q=Mariota) | N/A |
+| 1 | [#ApoxDiorAW2023](http://twitter.com/search?q=%23ApoxDiorAW2023) | N/A |
+| 2 | [Padre](http://twitter.com/search?q=Padre) | N/A |
+| 3 | [Manny Machado](http://twitter.com/search?q=Manny+Machado) | N/A |
+| 4 | [Murdoch](http://twitter.com/search?q=Murdoch) | N/A |
+| 5 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
+| 6 | [#studentloanforgiveness](http://twitter.com/search?q=%23studentloanforgiveness) | N/A |
+| 7 | [#RareDiseaseDay](http://twitter.com/search?q=%23RareDiseaseDay) | N/A |
+| 8 | [#Lightfall](http://twitter.com/search?q=%23Lightfall) | N/A |
+| 9 | [Dreamville](http://twitter.com/search?q=Dreamville) | N/A |
+| 10 | [Peter Pan](http://twitter.com/search?q=Peter+Pan) | N/A |
+| 11 | [Julie Su](http://twitter.com/search?q=Julie+Su) | N/A |
+| 12 | [Quintana](http://twitter.com/search?q=Quintana) | N/A |
+| 13 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
+| 14 | [Start Russ](http://twitter.com/search?q=Start+Russ) | N/A |
 | 15 | [SCOTUS](http://twitter.com/search?q=SCOTUS) | SCOTUS is an acronym for the Supreme Court of the United States. It is the highest court in the United States and is responsible for interpreting and applying federal laws. |
-| 16 | [One Moment Please](http://twitter.com/search?q=One+Moment+Please) | N/A |
-| 17 | [Miquella](http://twitter.com/search?q=Miquella) | N/A |
-| 18 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 16 | [David Lowery](http://twitter.com/search?q=David+Lowery) | N/A |
+| 17 | [GIVE US WN BLOOPERS](http://twitter.com/search?q=GIVE+US+WN+BLOOPERS) | N/A |
+| 18 | [Gavin Lux](http://twitter.com/search?q=Gavin+Lux) | N/A |
 | 19 | [FFXVI](http://twitter.com/search?q=FFXVI) | N/A |
-| 20 | [Kenny Golladay](http://twitter.com/search?q=Kenny+Golladay) | Kenny Golladay is an American football wide receiver for the Detroit Lions of the National Football League (NFL). He was drafted by the Lions in the third round of the 2017 NFL Draft. His name is a combination of his first and last names, Kenny and Golladay. |
-| 21 | [Nudy](http://twitter.com/search?q=Nudy) | N/A |
-| 22 | [Perk](http://twitter.com/search?q=Perk) | N/A |
-| 23 | [Tinkerbell](http://twitter.com/search?q=Tinkerbell) | N/A |
-| 24 | [Eric Adams](http://twitter.com/search?q=Eric+Adams) | N/A |
-| 25 | [ROCKY LEFT ASTRO](http://twitter.com/search?q=ROCKY+LEFT+ASTRO) | N/A |
+| 20 | [Start Dame](http://twitter.com/search?q=Start+Dame) | N/A |
+| 21 | [Patrick Corbin](http://twitter.com/search?q=Patrick+Corbin) | N/A |
+| 22 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 23 | [Dave Grohl](http://twitter.com/search?q=Dave+Grohl) | N/A |
+| 24 | [Jamie Raskin](http://twitter.com/search?q=Jamie+Raskin) | N/A |
+| 25 | [Start Kyrie](http://twitter.com/search?q=Start+Kyrie) | N/A |
 | 26 | [SEIZED](http://twitter.com/search?q=SEIZED) | N/A |
-| 27 | [Sotomayor](http://twitter.com/search?q=Sotomayor) | N/A |
-| 28 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
-| 29 | [Miguel Rojas](http://twitter.com/search?q=Miguel+Rojas) | Miguel Rojas is a Spanish name. It is composed of the given name Miguel, which is derived from the Hebrew name Michael, meaning "who is like God," and the surname Rojas, which means "red." |
-| 30 | [MOHELA](http://twitter.com/search?q=MOHELA) | N/A |
-| 31 | [Colbert](http://twitter.com/search?q=Colbert) | N/A |
-| 32 | [Joe Douglas](http://twitter.com/search?q=Joe+Douglas) | N/A |
-| 33 | [Elden Ring DLC](http://twitter.com/search?q=Elden+Ring+DLC) | N/A |
-| 34 | [McDermott](http://twitter.com/search?q=McDermott) | McDermott is a surname of Irish origin. It is derived from the Gaelic Mac Diarmada, meaning "son of Diarmaid". The name is associated with County Roscommon in Ireland. |
-| 35 | [Joe Musgrove](http://twitter.com/search?q=Joe+Musgrove) | N/A |
-| 36 | [Pete's Dragon](http://twitter.com/search?q=Pete%27s+Dragon) | N/A |
-| 37 | [Jason Licht](http://twitter.com/search?q=Jason+Licht) | N/A |
-| 38 | [Heroes Act](http://twitter.com/search?q=Heroes+Act) | N/A |
-| 39 | [Yoshi-P](http://twitter.com/search?q=Yoshi-P) | N/A |
-| 40 | [OC Boundaries](http://twitter.com/search?q=OC+Boundaries) | N/A |
-| 41 | [Dan Snyder](http://twitter.com/search?q=Dan+Snyder) | N/A |
-| 42 | [Matt Eberflus](http://twitter.com/search?q=Matt+Eberflus) | N/A |
-| 43 | [Dave Roberts](http://twitter.com/search?q=Dave+Roberts) | N/A |
-| 44 | [Kagan](http://twitter.com/search?q=Kagan) | N/A |
-| 45 | [David Hogg](http://twitter.com/search?q=David+Hogg) | N/A |
-| 46 | [Goldy](http://twitter.com/search?q=Goldy) | N/A |
-| 47 | [Leslie Frazier](http://twitter.com/search?q=Leslie+Frazier) | Leslie Frazier is an American football coach and former player. He is currently the defensive coordinator for the Buffalo Bills of the National Football League (NFL). He previously served as head coach of the Minnesota Vikings from 2011 to 2013. |
-| 48 | [Poot](http://twitter.com/search?q=Poot) | N/A |
-| 49 | [Nick Caserio](http://twitter.com/search?q=Nick+Caserio) | N/A |
+| 27 | [Bench Dame](http://twitter.com/search?q=Bench+Dame) | N/A |
+| 28 | [Mariota](http://twitter.com/search?q=Mariota) | N/A |
+| 29 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
+| 30 | [Nudy](http://twitter.com/search?q=Nudy) | N/A |
+| 31 | [Sean Desai](http://twitter.com/search?q=Sean+Desai) | N/A |
+| 32 | [Kenny Golladay](http://twitter.com/search?q=Kenny+Golladay) | Kenny Golladay is an American football wide receiver for the Detroit Lions of the National Football League (NFL). He was drafted by the Lions in the third round of the 2017 NFL Draft. His name is a combination of his first and last names, Kenny and Golladay. |
+| 33 | [Puljujarvi](http://twitter.com/search?q=Puljujarvi) | N/A |
+| 34 | [Perk](http://twitter.com/search?q=Perk) | N/A |
+| 35 | [Tinkerbell](http://twitter.com/search?q=Tinkerbell) | N/A |
+| 36 | [Ian Anderson](http://twitter.com/search?q=Ian+Anderson) | N/A |
+| 37 | [Bench Kyrie](http://twitter.com/search?q=Bench+Kyrie) | N/A |
+| 38 | [Cut Kyrie](http://twitter.com/search?q=Cut+Kyrie) | N/A |
+| 39 | [Cut Russ](http://twitter.com/search?q=Cut+Russ) | N/A |
+| 40 | [Joanna McClinton](http://twitter.com/search?q=Joanna+McClinton) | N/A |
+| 41 | [Cut Dame](http://twitter.com/search?q=Cut+Dame) | N/A |
+| 42 | [Bench Russ](http://twitter.com/search?q=Bench+Russ) | N/A |
+| 43 | [Eric Adams](http://twitter.com/search?q=Eric+Adams) | N/A |
+| 44 | [Miquella](http://twitter.com/search?q=Miquella) | N/A |
+| 45 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
+| 46 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
+| 47 | [Usher](http://twitter.com/search?q=Usher) | N/A |
+| 48 | [One Moment Please](http://twitter.com/search?q=One+Moment+Please) | N/A |
+| 49 | [Pete's Dragon](http://twitter.com/search?q=Pete%27s+Dragon) | N/A |
 
 
 

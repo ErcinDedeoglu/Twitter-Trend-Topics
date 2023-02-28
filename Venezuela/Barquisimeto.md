@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barquisimeto
 
-📆 Last Updated: `2023-02-28 18:16:46 UTC`
+📆 Last Updated: `2023-02-28 19:16:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,49 +22,49 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 5 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
 | 6 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 7 | [#27frebeliónantimperialista](http://twitter.com/search?q=%2327frebeli%c3%b3nantimperialista) | N/A |
-| 8 | [Caracazo](http://twitter.com/search?q=Caracazo) | N/A |
+| 8 | [Simón Rodríguez](http://twitter.com/search?q=Sim%c3%b3n+Rodr%c3%adguez) | N/A |
 | 9 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 10 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
-| 11 | [DDHH](http://twitter.com/search?q=DDHH) | N/A |
-| 12 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
-| 13 | [Simón Rodríguez](http://twitter.com/search?q=Sim%c3%b3n+Rodr%c3%adguez) | N/A |
-| 14 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
+| 10 | [DDHH](http://twitter.com/search?q=DDHH) | N/A |
+| 11 | [Caracazo](http://twitter.com/search?q=Caracazo) | N/A |
+| 12 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
+| 13 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
+| 14 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
 | 15 | [Feliz Martes](http://twitter.com/search?q=Feliz+Martes) | N/A |
-| 16 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
-| 17 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
+| 16 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
+| 17 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
 | 18 | [Ana Gabriel](http://twitter.com/search?q=Ana+Gabriel) | N/A |
-| 19 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 20 | [Carlos Andrés Pérez](http://twitter.com/search?q=Carlos+Andr%c3%a9s+P%c3%a9rez) | N/A |
-| 21 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
-| 22 | [Maras](http://twitter.com/search?q=Maras) | N/A |
-| 23 | [Hamburguesas](http://twitter.com/search?q=Hamburguesas) | N/A |
-| 24 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 19 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 20 | [Libertador Simón Bolívar](http://twitter.com/search?q=Libertador+Sim%c3%b3n+Bol%c3%advar) | N/A |
+| 21 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 22 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
+| 23 | [José María España](http://twitter.com/search?q=Jos%c3%a9+Mar%c3%ada+Espa%c3%b1a) | N/A |
+| 24 | [Maras](http://twitter.com/search?q=Maras) | N/A |
 | 25 | [Autoevaluación HONESTA](http://twitter.com/search?q=Autoevaluaci%c3%b3n+HONESTA) | N/A |
 | 26 | [hace 34](http://twitter.com/search?q=hace+34) | N/A |
-| 27 | [Fondo Monetario Internacional](http://twitter.com/search?q=Fondo+Monetario+Internacional) | N/A |
-| 28 | [Libertador Simón Bolívar](http://twitter.com/search?q=Libertador+Sim%c3%b3n+Bol%c3%advar) | N/A |
-| 29 | [José María España](http://twitter.com/search?q=Jos%c3%a9+Mar%c3%ada+Espa%c3%b1a) | N/A |
-| 30 | [José María España](http://twitter.com/search?q=Jos%c3%a9+Mar%c3%ada+Espa%c3%b1a) | N/A |
-| 31 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
-| 32 | [Scaloni](http://twitter.com/search?q=Scaloni) | N/A |
-| 33 | [Uzbekistán](http://twitter.com/search?q=Uzbekist%c3%a1n) | N/A |
-| 34 | [dedales](http://twitter.com/search?q=dedales) | N/A |
-| 35 | [Enfermedades Raras](http://twitter.com/search?q=Enfermedades+Raras) | N/A |
-| 36 | [pueblo valiente](http://twitter.com/search?q=pueblo+valiente) | N/A |
-| 37 | [Arabia Saudí](http://twitter.com/search?q=Arabia+Saud%c3%ad) | N/A |
-| 38 | [Auron](http://twitter.com/search?q=Auron) | Auron is a character from the popular video game series Final Fantasy. He is a powerful warrior who is known for his strength and wisdom. His name is derived from the Latin word aurum, which means "gold". In English, Auron can be translated to mean "golden one". |
-| 39 | [Ernesto Paraqueima](http://twitter.com/search?q=Ernesto+Paraqueima) | N/A |
-| 40 | [Iniesta](http://twitter.com/search?q=Iniesta) | N/A |
-| 41 | [Cory](http://twitter.com/search?q=Cory) | N/A |
-| 42 | [Antonio Guzmán Blanco](http://twitter.com/search?q=Antonio+Guzm%c3%a1n+Blanco) | N/A |
-| 43 | [Murciélago](http://twitter.com/search?q=Murci%c3%a9lago) | N/A |
-| 44 | [Chayanne](http://twitter.com/search?q=Chayanne) | N/A |
+| 27 | [Manuel Gual](http://twitter.com/search?q=Manuel+Gual) | N/A |
+| 28 | [Enfermedades Raras](http://twitter.com/search?q=Enfermedades+Raras) | N/A |
+| 29 | [Uzbekistán](http://twitter.com/search?q=Uzbekist%c3%a1n) | N/A |
+| 30 | [Gavin Lux](http://twitter.com/search?q=Gavin+Lux) | N/A |
+| 31 | [Arabia Saudí](http://twitter.com/search?q=Arabia+Saud%c3%ad) | N/A |
+| 32 | [Rubius](http://twitter.com/search?q=Rubius) | Rubius is a Latin word meaning "red". It is often used to describe the color of hair, eyes, or skin. |
+| 33 | [Carlos Andrés Pérez](http://twitter.com/search?q=Carlos+Andr%c3%a9s+P%c3%a9rez) | N/A |
+| 34 | [Iniesta](http://twitter.com/search?q=Iniesta) | N/A |
+| 35 | [Hamburguesas](http://twitter.com/search?q=Hamburguesas) | N/A |
+| 36 | [Pete Rose](http://twitter.com/search?q=Pete+Rose) | N/A |
+| 37 | [Cory](http://twitter.com/search?q=Cory) | N/A |
+| 38 | [Antonio Guzmán Blanco](http://twitter.com/search?q=Antonio+Guzm%c3%a1n+Blanco) | N/A |
+| 39 | [pueblo valiente](http://twitter.com/search?q=pueblo+valiente) | N/A |
+| 40 | [Scaloni](http://twitter.com/search?q=Scaloni) | N/A |
+| 41 | [Derechos Humanos](http://twitter.com/search?q=Derechos+Humanos) | N/A |
+| 42 | [San Fernando de Apure](http://twitter.com/search?q=San+Fernando+de+Apure) | N/A |
+| 43 | [Viva Air](http://twitter.com/search?q=Viva+Air) | N/A |
+| 44 | [Murciélago](http://twitter.com/search?q=Murci%c3%a9lago) | N/A |
 | 45 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 46 | [hoy 27](http://twitter.com/search?q=hoy+27) | N/A |
-| 47 | [Guerra Federal](http://twitter.com/search?q=Guerra+Federal) | N/A |
-| 48 | [Italia](http://twitter.com/search?q=Italia) | N/A |
-| 49 | [Mujer Bonita](http://twitter.com/search?q=Mujer+Bonita) | N/A |
-| 50 | [Derechos Humanos](http://twitter.com/search?q=Derechos+Humanos) | N/A |
+| 46 | [Medio Oriente](http://twitter.com/search?q=Medio+Oriente) | N/A |
+| 47 | [Ernesto Paraqueima](http://twitter.com/search?q=Ernesto+Paraqueima) | N/A |
+| 48 | [Rafael Briceño](http://twitter.com/search?q=Rafael+Brice%c3%b1o) | N/A |
+| 49 | [Guerra Federal](http://twitter.com/search?q=Guerra+Federal) | N/A |
+| 50 | [Italia](http://twitter.com/search?q=Italia) | N/A |
 
 
 

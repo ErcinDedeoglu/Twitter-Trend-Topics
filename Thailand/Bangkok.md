@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bangkok
 
-📆 Last Updated: `2023-02-28 18:17:02 UTC`
+📆 Last Updated: `2023-02-28 19:17:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,50 @@ This is top 50 for [Thailand](</Thailand>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ShowmeloveTheseriesEP1](http://twitter.com/search?q=%23ShowmeloveTheseriesEP1) | N/A |
-| 2 | [#BORNPINKinBANGKOK](http://twitter.com/search?q=%23BORNPINKinBANGKOK) | #BORNPINKinBANGKOK is a hashtag used to promote a fashion event in Bangkok, Thailand. It is meant to encourage people to wear pink clothing and accessories to the event. The phrase "born pink" is a play on words, referring to the idea of being born fashionable. |
-| 3 | [#ApoxDiorAW2023](http://twitter.com/search?q=%23ApoxDiorAW2023) | N/A |
-| 4 | [#PPKritxFirstChoice](http://twitter.com/search?q=%23PPKritxFirstChoice) | N/A |
-| 5 | [#NeverLetMeGoSeriesFinalEP](http://twitter.com/search?q=%23NeverLetMeGoSeriesFinalEP) | N/A |
-| 6 | [PATRICK TO PARIS](http://twitter.com/search?q=PATRICK+TO+PARIS) | N/A |
-| 7 | [Saturday Night](http://twitter.com/search?q=Saturday+Night) | N/A |
-| 8 | [BamBam Title Poster](http://twitter.com/search?q=BamBam+Title+Poster) | N/A |
-| 9 | [First M of Fourth](http://twitter.com/search?q=First+M+of+Fourth) | N/A |
-| 10 | [TENLEE 27th BDAY](http://twitter.com/search?q=TENLEE+27th+BDAY) | N/A |
-| 11 | [SWEETS DAY WITH KANAWUT](http://twitter.com/search?q=SWEETS+DAY+WITH+KANAWUT) | N/A |
-| 12 | [MISS U JAM](http://twitter.com/search?q=MISS+U+JAM) | N/A |
-| 13 | [PH SCAMMER](http://twitter.com/search?q=PH+SCAMMER) | N/A |
-| 14 | [March Wish](http://twitter.com/search?q=March+Wish) | N/A |
-| 15 | [bright in malaysia](http://twitter.com/search?q=bright+in+malaysia) | N/A |
-| 16 | [nene nostalgia teaser](http://twitter.com/search?q=nene+nostalgia+teaser) | N/A |
-| 17 | [vip 14,800](http://twitter.com/search?q=vip+14%2c800) | N/A |
-| 18 | [Grand TV](http://twitter.com/search?q=Grand+TV) | N/A |
-| 19 | [POLLY PASTEL BY BUILD](http://twitter.com/search?q=POLLY+PASTEL+BY+BUILD) | N/A |
-| 20 | [ENGFA WARAHA](http://twitter.com/search?q=ENGFA+WARAHA) | ENGFA WARAHA is a phrase in the Somali language that translates to "may peace be upon you." It is a common greeting used to wish someone peace and goodwill. |
-| 21 | [Sour & Sweet](http://twitter.com/search?q=Sour+%26+Sweet) | N/A |
-| 22 | [miss you everytime](http://twitter.com/search?q=miss+you+everytime) | N/A |
-| 23 | [LEGEND OF MG ANGTHONG](http://twitter.com/search?q=LEGEND+OF+MG+ANGTHONG) | N/A |
-| 24 | [Happy Birthday Jeff Satur](http://twitter.com/search?q=Happy+Birthday+Jeff+Satur) | N/A |
-| 25 | [Weibo Night](http://twitter.com/search?q=Weibo+Night) | N/A |
-| 26 | [2.5 M](http://twitter.com/search?q=2.5+M) | N/A |
-| 27 | [Always You](http://twitter.com/search?q=Always+You) | N/A |
-| 28 | [#ShowMeLoveOnairTODAY](http://twitter.com/search?q=%23ShowMeLoveOnairTODAY) | N/A |
-| 29 | [#SourandSweet](http://twitter.com/search?q=%23SourandSweet) | N/A |
-| 30 | [#แบนlivenationth](http://twitter.com/search?q=%23%e0%b9%81%e0%b8%9a%e0%b8%99livenationth) | N/A |
-| 31 | [#TiffanyxWin](http://twitter.com/search?q=%23TiffanyxWin) | N/A |
-| 32 | [#เบบี้วอร์2ล้าน5แล้วคราฟ](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%9a%e0%b8%9a%e0%b8%b5%e0%b9%89%e0%b8%a7%e0%b8%ad%e0%b8%a3%e0%b9%8c2%e0%b8%a5%e0%b9%89%e0%b8%b2%e0%b8%995%e0%b9%81%e0%b8%a5%e0%b9%89%e0%b8%a7%e0%b8%84%e0%b8%a3%e0%b8%b2%e0%b8%9f) | N/A |
-| 33 | [#PatrickXBalmain](http://twitter.com/search?q=%23PatrickXBalmain) | N/A |
-| 34 | [#TiffanyAndCo](http://twitter.com/search?q=%23TiffanyAndCo) | N/A |
-| 35 | [#26thBirthDayLuxsulax](http://twitter.com/search?q=%2326thBirthDayLuxsulax) | N/A |
-| 36 | [#KristSoloAsiaTour2023](http://twitter.com/search?q=%23KristSoloAsiaTour2023) | N/A |
-| 37 | [#TogetherWithFourth1M](http://twitter.com/search?q=%23TogetherWithFourth1M) | N/A |
-| 38 | [#บอสไลฟ์ติ๊กกะต๊อก](http://twitter.com/search?q=%23%e0%b8%9a%e0%b8%ad%e0%b8%aa%e0%b9%84%e0%b8%a5%e0%b8%9f%e0%b9%8c%e0%b8%95%e0%b8%b4%e0%b9%8a%e0%b8%81%e0%b8%81%e0%b8%b0%e0%b8%95%e0%b9%8a%e0%b8%ad%e0%b8%81) | N/A |
-| 39 | [#PatrickFinkler](http://twitter.com/search?q=%23PatrickFinkler) | N/A |
-| 40 | [#EMSSS2EP4](http://twitter.com/search?q=%23EMSSS2EP4) | N/A |
-| 41 | [#BLACKPINK_BORNPINKENCORE](http://twitter.com/search?q=%23BLACKPINK_BORNPINKENCORE) | N/A |
-| 42 | [#JUNGKOOK](http://twitter.com/search?q=%23JUNGKOOK) | N/A |
-| 43 | [#WestlifeTheWildDreamsTourTH](http://twitter.com/search?q=%23WestlifeTheWildDreamsTourTH) | N/A |
-| 44 | [#Dehya](http://twitter.com/search?q=%23Dehya) | N/A |
-| 45 | [#MvMultiverse](http://twitter.com/search?q=%23MvMultiverse) | N/A |
-| 46 | [#ZeeNuNew안녕D5](http://twitter.com/search?q=%23ZeeNuNew%ec%95%88%eb%85%95D5) | N/A |
-| 47 | [#zeenunewkoreainterview](http://twitter.com/search?q=%23zeenunewkoreainterview) | N/A |
-| 48 | [#Bazaarmenthailand](http://twitter.com/search?q=%23Bazaarmenthailand) | N/A |
-| 49 | [#spobam](http://twitter.com/search?q=%23spobam) | N/A |
-| 50 | [#FirstLoveWithBommu](http://twitter.com/search?q=%23FirstLoveWithBommu) | N/A |
+| 1 | [#TiffanyxWin](http://twitter.com/search?q=%23TiffanyxWin) | N/A |
+| 2 | [#TayTawanXKiehls](http://twitter.com/search?q=%23TayTawanXKiehls) | N/A |
+| 3 | [#phuwintang](http://twitter.com/search?q=%23phuwintang) | N/A |
+| 4 | [#KDPPE](http://twitter.com/search?q=%23KDPPE) | N/A |
+| 5 | [#PerthTanapon](http://twitter.com/search?q=%23PerthTanapon) | N/A |
+| 6 | [ROSÉ SAINT LAURENT PFW23](http://twitter.com/search?q=ROS%c3%89+SAINT+LAURENT+PFW23) | N/A |
+| 7 | [DIOR WITH NATTAWIN](http://twitter.com/search?q=DIOR+WITH+NATTAWIN) | N/A |
+| 8 | [Jeff Satur](http://twitter.com/search?q=Jeff+Satur) | N/A |
+| 9 | [#SaintLaurentModeAvecMarkTuan](http://twitter.com/search?q=%23SaintLaurentModeAvecMarkTuan) | N/A |
+| 10 | [#PPKritxFirstChoice](http://twitter.com/search?q=%23PPKritxFirstChoice) | N/A |
+| 11 | [#ROSÉCharmeEnSaintLaurent](http://twitter.com/search?q=%23ROS%c3%89CharmeEnSaintLaurent) | N/A |
+| 12 | [#ROSÉxSaintLaurent](http://twitter.com/search?q=%23ROS%c3%89xSaintLaurent) | N/A |
+| 13 | [#ShowmeloveTheseriesEP1](http://twitter.com/search?q=%23ShowmeloveTheseriesEP1) | N/A |
+| 14 | [#ApoxDiorAW2023](http://twitter.com/search?q=%23ApoxDiorAW2023) | N/A |
+| 15 | [#NeverLetMeGoSeriesFinalEP](http://twitter.com/search?q=%23NeverLetMeGoSeriesFinalEP) | N/A |
+| 16 | [#JISOOxDiorAW23](http://twitter.com/search?q=%23JISOOxDiorAW23) | N/A |
+| 17 | [#FirstLoveWithBommu](http://twitter.com/search?q=%23FirstLoveWithBommu) | N/A |
+| 18 | [#WestlifeTheWildDreamsTourTH](http://twitter.com/search?q=%23WestlifeTheWildDreamsTourTH) | N/A |
+| 19 | [#Dehya](http://twitter.com/search?q=%23Dehya) | N/A |
+| 20 | [#26thBirthDayLuxsulax](http://twitter.com/search?q=%2326thBirthDayLuxsulax) | N/A |
+| 21 | [#คว้าถ้วยให้LAZ1](http://twitter.com/search?q=%23%e0%b8%84%e0%b8%a7%e0%b9%89%e0%b8%b2%e0%b8%96%e0%b9%89%e0%b8%a7%e0%b8%a2%e0%b9%83%e0%b8%ab%e0%b9%89LAZ1) | N/A |
+| 22 | [#600KalwayswithNet](http://twitter.com/search?q=%23600KalwayswithNet) | N/A |
+| 23 | [#NeverLetMeGoFinalEP](http://twitter.com/search?q=%23NeverLetMeGoFinalEP) | N/A |
+| 24 | [#ROCKY](http://twitter.com/search?q=%23ROCKY) | N/A |
+| 25 | [#โฮมุ้monthly](http://twitter.com/search?q=%23%e0%b9%82%e0%b8%ae%e0%b8%a1%e0%b8%b8%e0%b9%89monthly) | N/A |
+| 26 | [#FinalMissGrandPathumthani2023](http://twitter.com/search?q=%23FinalMissGrandPathumthani2023) | N/A |
+| 27 | [#เขินให้หน่อย](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%82%e0%b8%b4%e0%b8%99%e0%b9%83%e0%b8%ab%e0%b9%89%e0%b8%ab%e0%b8%99%e0%b9%88%e0%b8%ad%e0%b8%a2) | N/A |
+| 28 | [#LazLiveXสตางค์](http://twitter.com/search?q=%23LazLiveX%e0%b8%aa%e0%b8%95%e0%b8%b2%e0%b8%87%e0%b8%84%e0%b9%8c) | N/A |
+| 29 | [#ASTRO](http://twitter.com/search?q=%23ASTRO) | N/A |
+| 30 | [#YOUNGJAE_Bubble](http://twitter.com/search?q=%23YOUNGJAE_Bubble) | N/A |
+| 31 | [#คิดถึงนนนคนเท่](http://twitter.com/search?q=%23%e0%b8%84%e0%b8%b4%e0%b8%94%e0%b8%96%e0%b8%b6%e0%b8%87%e0%b8%99%e0%b8%99%e0%b8%99%e0%b8%84%e0%b8%99%e0%b9%80%e0%b8%97%e0%b9%88) | N/A |
+| 32 | [#KAI_Rover](http://twitter.com/search?q=%23KAI_Rover) | N/A |
+| 33 | [#ZeeNuNew안녕D5](http://twitter.com/search?q=%23ZeeNuNew%ec%95%88%eb%85%95D5) | N/A |
+| 34 | [#CasarteSweetDayxGulf](http://twitter.com/search?q=%23CasarteSweetDayxGulf) | N/A |
+| 35 | [#ต้าห์อู๋ออฟโรด](http://twitter.com/search?q=%23%e0%b8%95%e0%b9%89%e0%b8%b2%e0%b8%ab%e0%b9%8c%e0%b8%ad%e0%b8%b9%e0%b9%8b%e0%b8%ad%e0%b8%ad%e0%b8%9f%e0%b9%82%e0%b8%a3%e0%b8%94) | N/A |
+| 36 | [#BuasrieathappyXNoeul](http://twitter.com/search?q=%23BuasrieathappyXNoeul) | N/A |
+| 37 | [#TiffanyAndCo](http://twitter.com/search?q=%23TiffanyAndCo) | N/A |
+| 38 | [#MvMultiverse](http://twitter.com/search?q=%23MvMultiverse) | N/A |
+| 39 | [#SiamDiscoveryxPRETZELLE](http://twitter.com/search?q=%23SiamDiscoveryxPRETZELLE) | N/A |
+| 40 | [#คิมเบอร์ลี่](http://twitter.com/search?q=%23%e0%b8%84%e0%b8%b4%e0%b8%a1%e0%b9%80%e0%b8%9a%e0%b8%ad%e0%b8%a3%e0%b9%8c%e0%b8%a5%e0%b8%b5%e0%b9%88) | N/A |
+| 41 | [#แจมรชตะ](http://twitter.com/search?q=%23%e0%b9%81%e0%b8%88%e0%b8%a1%e0%b8%a3%e0%b8%8a%e0%b8%95%e0%b8%b0) | N/A |
+| 42 | [#Tawan_V](http://twitter.com/search?q=%23Tawan_V) | N/A |
+| 43 | [#ppnaravit](http://twitter.com/search?q=%23ppnaravit) | N/A |
+| 44 | [#บุปผาแห่งรัก](http://twitter.com/search?q=%23%e0%b8%9a%e0%b8%b8%e0%b8%9b%e0%b8%9c%e0%b8%b2%e0%b9%81%e0%b8%ab%e0%b9%88%e0%b8%87%e0%b8%a3%e0%b8%b1%e0%b8%81) | N/A |
 
 
 

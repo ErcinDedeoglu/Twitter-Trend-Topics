@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Patna
 
-📆 Last Updated: `2023-02-28 18:17:09 UTC`
+📆 Last Updated: `2023-02-28 19:17:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,51 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#NationalScienceDay](http://twitter.com/search?q=%23NationalScienceDay) | N/A |
-| 2 | [मनीष सिसोदिया](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a8%e0%a5%80%e0%a4%b7+%e0%a4%b8%e0%a4%bf%e0%a4%b8%e0%a5%8b%e0%a4%a6%e0%a4%bf%e0%a4%af%e0%a4%be) | N/A |
-| 3 | [#GodKabir_Met_SantGaribdasJi](http://twitter.com/search?q=%23GodKabir_Met_SantGaribdasJi) | N/A |
-| 4 | [4 Days Left For Bodh Diwas](http://twitter.com/search?q=4+Days+Left+For+Bodh+Diwas) | N/A |
-| 5 | [#ManishSisodia](http://twitter.com/search?q=%23ManishSisodia) | N/A |
-| 6 | [प्रथम राष्ट्रपति](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a5%e0%a4%ae+%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a4%aa%e0%a4%a4%e0%a4%bf) | N/A |
-| 7 | [#NZvENG](http://twitter.com/search?q=%23NZvENG) | N/A |
-| 8 | [#POCOC55onFlipkart](http://twitter.com/search?q=%23POCOC55onFlipkart) | N/A |
-| 9 | [राष्ट्रीय विज्ञान](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%b5%e0%a4%bf%e0%a4%9c%e0%a5%8d%e0%a4%9e%e0%a4%be%e0%a4%a8) | N/A |
-| 10 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 11 | [शिक्षा मंत्री](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 12 | [राजेंद्र प्रसाद](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%b8%e0%a4%be%e0%a4%a6) | N/A |
-| 13 | [उमेश पाल](http://twitter.com/search?q=%e0%a4%89%e0%a4%ae%e0%a5%87%e0%a4%b6+%e0%a4%aa%e0%a4%be%e0%a4%b2) | N/A |
-| 14 | [पूर्व मुख्यमंत्री](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%ae%e0%a5%81%e0%a4%96%e0%a5%8d%e0%a4%af%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 15 | [श्री दिग्विजय सिंह](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%a6%e0%a4%bf%e0%a4%97%e0%a5%8d%e0%a4%b5%e0%a4%bf%e0%a4%9c%e0%a4%af+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9) | N/A |
-| 16 | [Who Will Show Truth](http://twitter.com/search?q=Who+Will+Show+Truth) | N/A |
-| 17 | [Hindu Saints](http://twitter.com/search?q=Hindu+Saints) | N/A |
-| 18 | [MAJOR MISSING ARYLIE](http://twitter.com/search?q=MAJOR+MISSING+ARYLIE) | N/A |
-| 19 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
-| 20 | [Test Cricket](http://twitter.com/search?q=Test+Cricket) | N/A |
-| 21 | [Sushant Autopsy BotchedUp](http://twitter.com/search?q=Sushant+Autopsy+BotchedUp) | N/A |
-| 22 | [सदा याद](http://twitter.com/search?q=%e0%a4%b8%e0%a4%a6%e0%a4%be+%e0%a4%af%e0%a4%be%e0%a4%a6) | N/A |
-| 23 | [EVIL EYES OFF SHEHNAAZGILL](http://twitter.com/search?q=EVIL+EYES+OFF+SHEHNAAZGILL) | N/A |
-| 24 | [almost 3yrs ssrjustice pending](http://twitter.com/search?q=almost+3yrs+ssrjustice+pending) | N/A |
-| 25 | [Fav Overseas Player](http://twitter.com/search?q=Fav+Overseas+Player) | N/A |
-| 26 | [Fav IPL Season](http://twitter.com/search?q=Fav+IPL+Season) | N/A |
-| 27 | [Fav CSK Player](http://twitter.com/search?q=Fav+CSK+Player) | N/A |
-| 28 | [Fav Movie](http://twitter.com/search?q=Fav+Movie) | N/A |
-| 29 | [Shah Satnam Ji](http://twitter.com/search?q=Shah+Satnam+Ji) | Shah Satnam Ji is a phrase used by followers of the Sikh faith to refer to the 10th Guru of Sikhism, Guru Gobind Singh. The phrase translates to "The King of Truth" in English. |
-| 30 | [I Love Indian Army](http://twitter.com/search?q=I+Love+Indian+Army) | N/A |
-| 31 | [राजकुमार आनंद](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%95%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%b0+%e0%a4%86%e0%a4%a8%e0%a4%82%e0%a4%a6) | N/A |
-| 32 | [Gurugaddi Diwas](http://twitter.com/search?q=Gurugaddi+Diwas) | N/A |
-| 33 | [कैलाश गहलोत](http://twitter.com/search?q=%e0%a4%95%e0%a5%88%e0%a4%b2%e0%a4%be%e0%a4%b6+%e0%a4%97%e0%a4%b9%e0%a4%b2%e0%a5%8b%e0%a4%a4) | N/A |
-| 34 | [महान स्वतंत्रता सेनानी](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%a4%e0%a4%be+%e0%a4%b8%e0%a5%87%e0%a4%a8%e0%a4%be%e0%a4%a8%e0%a5%80) | N/A |
-| 35 | [गरीब दास](http://twitter.com/search?q=%e0%a4%97%e0%a4%b0%e0%a5%80%e0%a4%ac+%e0%a4%a6%e0%a4%be%e0%a4%b8) | N/A |
-| 36 | [Snapdragon 8](http://twitter.com/search?q=Snapdragon+8) | N/A |
-| 37 | [sushant a perfectionist](http://twitter.com/search?q=sushant+a+perfectionist) | N/A |
-| 38 | [महान क्रांतिकारी](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%95%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%82%e0%a4%a4%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80) | N/A |
-| 39 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 40 | [सुप्रीम कोर्ट](http://twitter.com/search?q=%e0%a4%b8%e0%a5%81%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%ae+%e0%a4%95%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%9f) | सुप्रीम कोर्ट (Supreme Court) is the highest court of India. It is the final court of appeal under the Constitution of India, and has the power to decide constitutional issues. The Supreme Court has original, appellate and advisory jurisdiction. Its decisions are binding on all other courts in India. The Supreme Court's decisions are also considered to be a source of law in many countries around the world. |
-| 41 | [रंगा बिल्ला](http://twitter.com/search?q=%e0%a4%b0%e0%a4%82%e0%a4%97%e0%a4%be+%e0%a4%ac%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a4%be) | N/A |
-| 42 | [नानाजी देशमुख](http://twitter.com/search?q=%e0%a4%a8%e0%a4%be%e0%a4%a8%e0%a4%be%e0%a4%9c%e0%a5%80+%e0%a4%a6%e0%a5%87%e0%a4%b6%e0%a4%ae%e0%a5%81%e0%a4%96) | N/A |
-| 43 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
-| 44 | [ROVER IS COMING](http://twitter.com/search?q=ROVER+IS+COMING) | N/A |
-| 45 | [अरविंद केजरीवाल](http://twitter.com/search?q=%e0%a4%85%e0%a4%b0%e0%a4%b5%e0%a4%bf%e0%a4%82%e0%a4%a6+%e0%a4%95%e0%a5%87%e0%a4%9c%e0%a4%b0%e0%a5%80%e0%a4%b5%e0%a4%be%e0%a4%b2) | N/A |
-| 46 | [नोबेल पुरस्कार विजेता](http://twitter.com/search?q=%e0%a4%a8%e0%a5%8b%e0%a4%ac%e0%a5%87%e0%a4%b2+%e0%a4%aa%e0%a5%81%e0%a4%b0%e0%a4%b8%e0%a5%8d%e0%a4%95%e0%a4%be%e0%a4%b0+%e0%a4%b5%e0%a4%bf%e0%a4%9c%e0%a5%87%e0%a4%a4%e0%a4%be) | N/A |
-| 47 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
-| 48 | [Ease of Living](http://twitter.com/search?q=Ease+of+Living) | N/A |
-| 49 | [आम आदमी पार्टी](http://twitter.com/search?q=%e0%a4%86%e0%a4%ae+%e0%a4%86%e0%a4%a6%e0%a4%ae%e0%a5%80+%e0%a4%aa%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9f%e0%a5%80) | N/A |
-| 50 | [Sushant Bollywood Disruptor](http://twitter.com/search?q=Sushant+Bollywood+Disruptor) | N/A |
+| 1 | [प्रथम राष्ट्रपति](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a5%e0%a4%ae+%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a4%aa%e0%a4%a4%e0%a4%bf) | N/A |
+| 2 | [#HBDMKStalin70](http://twitter.com/search?q=%23HBDMKStalin70) | N/A |
+| 3 | [#GamlaChor](http://twitter.com/search?q=%23GamlaChor) | N/A |
+| 4 | [#ElvishYadav](http://twitter.com/search?q=%23ElvishYadav) | N/A |
+| 5 | [#ManOfMassesBdayMonth](http://twitter.com/search?q=%23ManOfMassesBdayMonth) | N/A |
+| 6 | [EVIL EYES OFF SHEHNAAZGILL](http://twitter.com/search?q=EVIL+EYES+OFF+SHEHNAAZGILL) | N/A |
+| 7 | [#63rdMahaRehmokaramDay](http://twitter.com/search?q=%2363rdMahaRehmokaramDay) | N/A |
+| 8 | [I Love Indian Army](http://twitter.com/search?q=I+Love+Indian+Army) | N/A |
+| 9 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
+| 10 | [Fav Overseas Player](http://twitter.com/search?q=Fav+Overseas+Player) | N/A |
+| 11 | [Fav CSK Player](http://twitter.com/search?q=Fav+CSK+Player) | N/A |
+| 12 | [कैलाश गहलोत](http://twitter.com/search?q=%e0%a4%95%e0%a5%88%e0%a4%b2%e0%a4%be%e0%a4%b6+%e0%a4%97%e0%a4%b9%e0%a4%b2%e0%a5%8b%e0%a4%a4) | N/A |
+| 13 | [Fav Movie](http://twitter.com/search?q=Fav+Movie) | N/A |
+| 14 | [Sushant Bollywood Disruptor](http://twitter.com/search?q=Sushant+Bollywood+Disruptor) | N/A |
+| 15 | [Fav IPL Season](http://twitter.com/search?q=Fav+IPL+Season) | N/A |
+| 16 | [ROVER IS COMING](http://twitter.com/search?q=ROVER+IS+COMING) | N/A |
+| 17 | [Bumrah](http://twitter.com/search?q=Bumrah) | N/A |
+| 18 | [7 YEARS OF KRPKAB](http://twitter.com/search?q=7+YEARS+OF+KRPKAB) | N/A |
+| 19 | [MAJOR MISSING ARYLIE](http://twitter.com/search?q=MAJOR+MISSING+ARYLIE) | N/A |
+| 20 | [सत्येन्द्र जैन](http://twitter.com/search?q=%e0%a4%b8%e0%a4%a4%e0%a5%8d%e0%a4%af%e0%a5%87%e0%a4%a8%e0%a5%8d%e0%a4%a6%e0%a5%8d%e0%a4%b0+%e0%a4%9c%e0%a5%88%e0%a4%a8) | N/A |
+| 21 | [Dilli](http://twitter.com/search?q=Dilli) | N/A |
+| 22 | [स्वास्थ्य मंत्री](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a5%8d%e0%a4%af+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | स्वास्थ्य मंत्री is a Hindi phrase meaning "Health Minister". It is used to refer to the minister responsible for health and medical services in India. |
+| 23 | [#SisodiaJailed](http://twitter.com/search?q=%23SisodiaJailed) | N/A |
+| 24 | [#CelebrationWithWelfare](http://twitter.com/search?q=%23CelebrationWithWelfare) | N/A |
+| 25 | [#SatyendarJain](http://twitter.com/search?q=%23SatyendarJain) | N/A |
+| 26 | [#CricketContestByArjun](http://twitter.com/search?q=%23CricketContestByArjun) | #CricketContestByArjun is a hashtag used to promote a cricket contest hosted by Arjun. It is used to encourage people to participate in the contest and to spread awareness about it. |
+| 27 | [#ROVER_MoodSampler1](http://twitter.com/search?q=%23ROVER_MoodSampler1) | N/A |
+| 28 | [#MukeshAmbani](http://twitter.com/search?q=%23MukeshAmbani) | N/A |
+| 29 | [#AAPMinistersQuit](http://twitter.com/search?q=%23AAPMinistersQuit) | N/A |
+| 30 | [#JISOOxDiorAW23](http://twitter.com/search?q=%23JISOOxDiorAW23) | N/A |
+| 31 | [#KAI_Rover](http://twitter.com/search?q=%23KAI_Rover) | N/A |
+| 32 | [#manishsisodiya](http://twitter.com/search?q=%23manishsisodiya) | N/A |
+| 33 | [#OnePlus11R5GOnAmazon](http://twitter.com/search?q=%23OnePlus11R5GOnAmazon) | N/A |
+| 34 | [#ShapeOfPower](http://twitter.com/search?q=%23ShapeOfPower) | N/A |
+| 35 | [#HeatWave](http://twitter.com/search?q=%23HeatWave) | N/A |
+| 36 | [#ThunivuPongalWinner](http://twitter.com/search?q=%23ThunivuPongalWinner) | N/A |
+| 37 | [#PrajaGosaBJPBharosa](http://twitter.com/search?q=%23PrajaGosaBJPBharosa) | N/A |
+| 38 | [#Gurugram](http://twitter.com/search?q=%23Gurugram) | N/A |
+| 39 | [#Vedanta](http://twitter.com/search?q=%23Vedanta) | N/A |
+| 40 | [#RishabhPant](http://twitter.com/search?q=%23RishabhPant) | N/A |
+| 41 | [#biharbudget](http://twitter.com/search?q=%23biharbudget) | N/A |
+| 42 | [#Kejriwal](http://twitter.com/search?q=%23Kejriwal) | N/A |
+| 43 | [#ShaheerSheikh](http://twitter.com/search?q=%23ShaheerSheikh) | N/A |
+| 44 | [#SAvWI](http://twitter.com/search?q=%23SAvWI) | N/A |
+| 45 | [#UdhayanidhiStalin](http://twitter.com/search?q=%23UdhayanidhiStalin) | N/A |
 
 
 
