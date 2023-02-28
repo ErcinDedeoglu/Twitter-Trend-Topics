@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tokyo
 
-📆 Last Updated: `2023-02-27 23:16:20 UTC`
+📆 Last Updated: `2023-02-28 00:28:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ワンモ](http://twitter.com/search?q=%23%e3%83%af%e3%83%b3%e3%83%a2) | N/A |
-| 2 | [#愛車に言われた事集](http://twitter.com/search?q=%23%e6%84%9b%e8%bb%8a%e3%81%ab%e8%a8%80%e3%82%8f%e3%82%8c%e3%81%9f%e4%ba%8b%e9%9b%86) | N/A |
-| 3 | [#まちゃお765](http://twitter.com/search?q=%23%e3%81%be%e3%81%a1%e3%82%83%e3%81%8a765) | N/A |
-| 4 | [#きららファンタジア](http://twitter.com/search?q=%23%e3%81%8d%e3%82%89%e3%82%89%e3%83%95%e3%82%a1%e3%83%b3%e3%82%bf%e3%82%b8%e3%82%a2) | N/A |
-| 5 | [キュウコン](http://twitter.com/search?q=%e3%82%ad%e3%83%a5%e3%82%a6%e3%82%b3%e3%83%b3) | N/A |
-| 6 | [#萩原利久誕生祭2023](http://twitter.com/search?q=%23%e8%90%a9%e5%8e%9f%e5%88%a9%e4%b9%85%e8%aa%95%e7%94%9f%e7%a5%ad2023) | N/A |
-| 7 | [キタカミの里](http://twitter.com/search?q=%e3%82%ad%e3%82%bf%e3%82%ab%e3%83%9f%e3%81%ae%e9%87%8c) | N/A |
-| 8 | [ハイドロスチーム](http://twitter.com/search?q=%e3%83%8f%e3%82%a4%e3%83%89%e3%83%ad%e3%82%b9%e3%83%81%e3%83%bc%e3%83%a0) | N/A |
-| 9 | [バイオレット](http://twitter.com/search?q=%e3%83%90%e3%82%a4%e3%82%aa%e3%83%ac%e3%83%83%e3%83%88) | バイオレット is a shade of purple in Japanese. In English, it is translated as "violet". |
-| 10 | [不二先輩](http://twitter.com/search?q=%e4%b8%8d%e4%ba%8c%e5%85%88%e8%bc%a9) | N/A |
-| 11 | [マレウス](http://twitter.com/search?q=%e3%83%9e%e3%83%ac%e3%82%a6%e3%82%b9) | N/A |
-| 12 | [春の陽気](http://twitter.com/search?q=%e6%98%a5%e3%81%ae%e9%99%bd%e6%b0%97) | N/A |
-| 13 | [ロアルドロス](http://twitter.com/search?q=%e3%83%ad%e3%82%a2%e3%83%ab%e3%83%89%e3%83%ad%e3%82%b9) | N/A |
-| 14 | [ポケカクラシック](http://twitter.com/search?q=%e3%83%9d%e3%82%b1%e3%82%ab%e3%82%af%e3%83%a9%e3%82%b7%e3%83%83%e3%82%af) | N/A |
-| 15 | [ヴァンダル](http://twitter.com/search?q=%e3%83%b4%e3%82%a1%e3%83%b3%e3%83%80%e3%83%ab) | N/A |
-| 16 | [碧の仮面](http://twitter.com/search?q=%e7%a2%a7%e3%81%ae%e4%bb%ae%e9%9d%a2) | N/A |
-| 17 | [日本の誇り](http://twitter.com/search?q=%e6%97%a5%e6%9c%ac%e3%81%ae%e8%aa%87%e3%82%8a) | N/A |
-| 18 | [追加DLC](http://twitter.com/search?q=%e8%bf%bd%e5%8a%a0DLC) | N/A |
-| 19 | [イイネイヌ](http://twitter.com/search?q=%e3%82%a4%e3%82%a4%e3%83%8d%e3%82%a4%e3%83%8c) | N/A |
-| 20 | [ウネルミナモ](http://twitter.com/search?q=%e3%82%a6%e3%83%8d%e3%83%ab%e3%83%9f%e3%83%8a%e3%83%a2) | N/A |
-| 21 | [ビスケットの日](http://twitter.com/search?q=%e3%83%93%e3%82%b9%e3%82%b1%e3%83%83%e3%83%88%e3%81%ae%e6%97%a5) | N/A |
-| 22 | [スイクン](http://twitter.com/search?q=%e3%82%b9%e3%82%a4%e3%82%af%e3%83%b3) | N/A |
-| 23 | [ハエの幼虫](http://twitter.com/search?q=%e3%83%8f%e3%82%a8%e3%81%ae%e5%b9%bc%e8%99%ab) | N/A |
-| 24 | [テラピース節約](http://twitter.com/search?q=%e3%83%86%e3%83%a9%e3%83%94%e3%83%bc%e3%82%b9%e7%af%80%e7%b4%84) | N/A |
-| 25 | [ポケモン](http://twitter.com/search?q=%e3%83%9d%e3%82%b1%e3%83%a2%e3%83%b3) | N/A |
-| 26 | [恭平くん](http://twitter.com/search?q=%e6%81%ad%e5%b9%b3%e3%81%8f%e3%82%93) | N/A |
-| 27 | [ゲートガーディアン](http://twitter.com/search?q=%e3%82%b2%e3%83%bc%e3%83%88%e3%82%ac%e3%83%bc%e3%83%87%e3%82%a3%e3%82%a2%e3%83%b3) | N/A |
-| 28 | [第403回](http://twitter.com/search?q=%e7%ac%ac403%e5%9b%9e) | N/A |
-| 29 | [テツノイサハ](http://twitter.com/search?q=%e3%83%86%e3%83%84%e3%83%8e%e3%82%a4%e3%82%b5%e3%83%8f) | N/A |
-| 30 | [金網のハンモック](http://twitter.com/search?q=%e9%87%91%e7%b6%b2%e3%81%ae%e3%83%8f%e3%83%b3%e3%83%a2%e3%83%83%e3%82%af) | N/A |
-| 31 | [ANAのセール](http://twitter.com/search?q=ANA%e3%81%ae%e3%82%bb%e3%83%bc%e3%83%ab) | N/A |
-| 32 | [はまっする](http://twitter.com/search?q=%e3%81%af%e3%81%be%e3%81%a3%e3%81%99%e3%82%8b) | N/A |
-| 33 | [ZIPさん](http://twitter.com/search?q=ZIP%e3%81%95%e3%82%93) | N/A |
-| 34 | [ツイステ](http://twitter.com/search?q=%e3%83%84%e3%82%a4%e3%82%b9%e3%83%86) | N/A |
-| 35 | [最高気温19度](http://twitter.com/search?q=%e6%9c%80%e9%ab%98%e6%b0%97%e6%b8%a919%e5%ba%a6) | N/A |
-| 36 | [鬼丸国綱](http://twitter.com/search?q=%e9%ac%bc%e4%b8%b8%e5%9b%bd%e7%b6%b1) | N/A |
-| 37 | [題の答え](http://twitter.com/search?q=%e9%a1%8c%e3%81%ae%e7%ad%94%e3%81%88) | N/A |
-| 38 | [追加コンテンツ](http://twitter.com/search?q=%e8%bf%bd%e5%8a%a0%e3%82%b3%e3%83%b3%e3%83%86%e3%83%b3%e3%83%84) | N/A |
-| 39 | [テスト最終日](http://twitter.com/search?q=%e3%83%86%e3%82%b9%e3%83%88%e6%9c%80%e7%b5%82%e6%97%a5) | N/A |
-| 40 | [未公開シーン](http://twitter.com/search?q=%e6%9c%aa%e5%85%ac%e9%96%8b%e3%82%b7%e3%83%bc%e3%83%b3) | N/A |
-| 41 | [小堺さん](http://twitter.com/search?q=%e5%b0%8f%e5%a0%ba%e3%81%95%e3%82%93) | N/A |
-| 42 | [XP4000](http://twitter.com/search?q=XP4000) | N/A |
-| 43 | [滝沢歌舞伎](http://twitter.com/search?q=%e6%bb%9d%e6%b2%a2%e6%ad%8c%e8%88%9e%e4%bc%8e) | 滝沢歌舞伎 (Takizawa Kabuki) is a traditional form of Japanese theater that combines music, dance, and drama. It originated in the Edo period (1603-1868) and is still performed today. The name comes from the Takizawa district of Tokyo, where it was first performed. In English, it can be translated as "Takizawa Kabuki Theater". |
-| 44 | [ユンケル](http://twitter.com/search?q=%e3%83%a6%e3%83%b3%e3%82%b1%e3%83%ab) | N/A |
-| 45 | [宮田くんCM](http://twitter.com/search?q=%e5%ae%ae%e7%94%b0%e3%81%8f%e3%82%93CM) | N/A |
-| 46 | [山添さん](http://twitter.com/search?q=%e5%b1%b1%e6%b7%bb%e3%81%95%e3%82%93) | 山添さん is a Japanese honorific title used to refer to someone who is respected or admired. It can be translated as "Mr. Yamazoe" or "Mr. Respectable". |
-| 47 | [NAVI](http://twitter.com/search?q=NAVI) | N/A |
-| 48 | [光石さん](http://twitter.com/search?q=%e5%85%89%e7%9f%b3%e3%81%95%e3%82%93) | N/A |
-| 49 | [G20欠席](http://twitter.com/search?q=G20%e6%ac%a0%e5%b8%ad) | N/A |
-| 50 | [ほっしゃん](http://twitter.com/search?q=%e3%81%bb%e3%81%a3%e3%81%97%e3%82%83%e3%82%93) | N/A |
+| 1 | [#モーニングショー](http://twitter.com/search?q=%23%e3%83%a2%e3%83%bc%e3%83%8b%e3%83%b3%e3%82%b0%e3%82%b7%e3%83%a7%e3%83%bc) | #モーニングショー is a Japanese hashtag that translates to "morning show" in English. It is used to tag posts related to morning shows, such as TV programs, radio shows, and other content related to the morning. |
+| 2 | [#めざまし8](http://twitter.com/search?q=%23%e3%82%81%e3%81%96%e3%81%be%e3%81%978) | N/A |
+| 3 | [#ふらっと954](http://twitter.com/search?q=%23%e3%81%b5%e3%82%89%e3%81%a3%e3%81%a8954) | N/A |
+| 4 | [追加コンテンツ](http://twitter.com/search?q=%e8%bf%bd%e5%8a%a0%e3%82%b3%e3%83%b3%e3%83%86%e3%83%b3%e3%83%84) | N/A |
+| 5 | [#デレステ10連ガシャ無料](http://twitter.com/search?q=%23%e3%83%87%e3%83%ac%e3%82%b9%e3%83%8610%e9%80%a3%e3%82%ac%e3%82%b7%e3%83%a3%e7%84%a1%e6%96%99) | N/A |
+| 6 | [クランキー](http://twitter.com/search?q=%e3%82%af%e3%83%a9%e3%83%b3%e3%82%ad%e3%83%bc) | クランキー (Kurankii) is a type of Japanese candy made from rice flour and sugar. It is usually shaped like a small cylinder and has a crunchy texture. The name comes from the sound it makes when it is eaten. In English, it can be translated as "crunchy candy". |
+| 7 | [刑事告発](http://twitter.com/search?q=%e5%88%91%e4%ba%8b%e5%91%8a%e7%99%ba) | N/A |
+| 8 | [うるう年](http://twitter.com/search?q=%e3%81%86%e3%82%8b%e3%81%86%e5%b9%b4) | N/A |
+| 9 | [津田沼パルコ](http://twitter.com/search?q=%e6%b4%a5%e7%94%b0%e6%b2%bc%e3%83%91%e3%83%ab%e3%82%b3) | N/A |
+| 10 | [月末最終日](http://twitter.com/search?q=%e6%9c%88%e6%9c%ab%e6%9c%80%e7%b5%82%e6%97%a5) | N/A |
+| 11 | [コオロギの次](http://twitter.com/search?q=%e3%82%b3%e3%82%aa%e3%83%ad%e3%82%ae%e3%81%ae%e6%ac%a1) | N/A |
+| 12 | [桃太郎モチーフ](http://twitter.com/search?q=%e6%a1%83%e5%a4%aa%e9%83%8e%e3%83%a2%e3%83%81%e3%83%bc%e3%83%95) | N/A |
+| 13 | [イブニング](http://twitter.com/search?q=%e3%82%a4%e3%83%96%e3%83%8b%e3%83%b3%e3%82%b0) | N/A |
+| 14 | [ゲーフリ](http://twitter.com/search?q=%e3%82%b2%e3%83%bc%e3%83%95%e3%83%aa) | N/A |
+| 15 | [ヒスイゾロア](http://twitter.com/search?q=%e3%83%92%e3%82%b9%e3%82%a4%e3%82%be%e3%83%ad%e3%82%a2) | N/A |
+| 16 | [NAVI](http://twitter.com/search?q=NAVI) | N/A |
+| 17 | [#あうぇいく](http://twitter.com/search?q=%23%e3%81%82%e3%81%86%e3%81%87%e3%81%84%e3%81%8f) | N/A |
+| 18 | [ちゃん卒業](http://twitter.com/search?q=%e3%81%a1%e3%82%83%e3%82%93%e5%8d%92%e6%a5%ad) | N/A |
+| 19 | [ホウオウ](http://twitter.com/search?q=%e3%83%9b%e3%82%a6%e3%82%aa%e3%82%a6) | N/A |
+| 20 | [マシマシラ](http://twitter.com/search?q=%e3%83%9e%e3%82%b7%e3%83%9e%e3%82%b7%e3%83%a9) | N/A |
+| 21 | [メタグロス](http://twitter.com/search?q=%e3%83%a1%e3%82%bf%e3%82%b0%e3%83%ad%e3%82%b9) | N/A |
+| 22 | [卒業式予行](http://twitter.com/search?q=%e5%8d%92%e6%a5%ad%e5%bc%8f%e4%ba%88%e8%a1%8c) | N/A |
+| 23 | [悪役令嬢](http://twitter.com/search?q=%e6%82%aa%e5%bd%b9%e4%bb%a4%e5%ac%a2) | N/A |
+| 24 | [生駒の誕生日](http://twitter.com/search?q=%e7%94%9f%e9%a7%92%e3%81%ae%e8%aa%95%e7%94%9f%e6%97%a5) | N/A |
+| 25 | [恭平誕生日](http://twitter.com/search?q=%e6%81%ad%e5%b9%b3%e8%aa%95%e7%94%9f%e6%97%a5) | N/A |
+| 26 | [ミロカロス](http://twitter.com/search?q=%e3%83%9f%e3%83%ad%e3%82%ab%e3%83%ad%e3%82%b9) | N/A |
+| 27 | [ビリジオン](http://twitter.com/search?q=%e3%83%93%e3%83%aa%e3%82%b8%e3%82%aa%e3%83%b3) | N/A |
+| 28 | [いちごあんにん](http://twitter.com/search?q=%e3%81%84%e3%81%a1%e3%81%94%e3%81%82%e3%82%93%e3%81%ab%e3%82%93) | N/A |
+| 29 | [イイネイヌ](http://twitter.com/search?q=%e3%82%a4%e3%82%a4%e3%83%8d%e3%82%a4%e3%83%8c) | N/A |
+| 30 | [ビスケットの日](http://twitter.com/search?q=%e3%83%93%e3%82%b9%e3%82%b1%e3%83%83%e3%83%88%e3%81%ae%e6%97%a5) | N/A |
+| 31 | [ハエの幼虫](http://twitter.com/search?q=%e3%83%8f%e3%82%a8%e3%81%ae%e5%b9%bc%e8%99%ab) | N/A |
+| 32 | [長尾くん](http://twitter.com/search?q=%e9%95%b7%e5%b0%be%e3%81%8f%e3%82%93) | 長尾くん (Nagao-kun) is a Japanese manga series written and illustrated by Takashi Fukutani. It follows the story of Nagao, a high school student who is struggling to find his place in the world. The title of the series is a play on words, as "nagao" can mean both "long tail" and "long life". In English, it could be translated as "Long Tail Boy". |
+| 33 | [ゲートガーディアン](http://twitter.com/search?q=%e3%82%b2%e3%83%bc%e3%83%88%e3%82%ac%e3%83%bc%e3%83%87%e3%82%a3%e3%82%a2%e3%83%b3) | N/A |
+| 34 | [ハンモック](http://twitter.com/search?q=%e3%83%8f%e3%83%b3%e3%83%a2%e3%83%83%e3%82%af) | N/A |
+| 35 | [ウネルミナモ](http://twitter.com/search?q=%e3%82%a6%e3%83%8d%e3%83%ab%e3%83%9f%e3%83%8a%e3%83%a2) | N/A |
+| 36 | [テラピース節約](http://twitter.com/search?q=%e3%83%86%e3%83%a9%e3%83%94%e3%83%bc%e3%82%b9%e7%af%80%e7%b4%84) | N/A |
+| 37 | [スイクン](http://twitter.com/search?q=%e3%82%b9%e3%82%a4%e3%82%af%e3%83%b3) | N/A |
+| 38 | [いちご杏仁](http://twitter.com/search?q=%e3%81%84%e3%81%a1%e3%81%94%e6%9d%8f%e4%bb%81) | N/A |
+| 39 | [介護保険証](http://twitter.com/search?q=%e4%bb%8b%e8%ad%b7%e4%bf%9d%e9%99%ba%e8%a8%bc) | N/A |
+| 40 | [ANAのセール](http://twitter.com/search?q=ANA%e3%81%ae%e3%82%bb%e3%83%bc%e3%83%ab) | N/A |
+| 41 | [恭平くん](http://twitter.com/search?q=%e6%81%ad%e5%b9%b3%e3%81%8f%e3%82%93) | N/A |
+| 42 | [謙杜くん](http://twitter.com/search?q=%e8%ac%99%e6%9d%9c%e3%81%8f%e3%82%93) | N/A |
+| 43 | [マイナ一体化](http://twitter.com/search?q=%e3%83%9e%e3%82%a4%e3%83%8a%e4%b8%80%e4%bd%93%e5%8c%96) | N/A |
+| 44 | [テツノイサハ](http://twitter.com/search?q=%e3%83%86%e3%83%84%e3%83%8e%e3%82%a4%e3%82%b5%e3%83%8f) | N/A |
+| 45 | [小堺さん](http://twitter.com/search?q=%e5%b0%8f%e5%a0%ba%e3%81%95%e3%82%93) | N/A |
+| 46 | [河内大学](http://twitter.com/search?q=%e6%b2%b3%e5%86%85%e5%a4%a7%e5%ad%a6) | N/A |
+| 47 | [第403回](http://twitter.com/search?q=%e7%ac%ac403%e5%9b%9e) | N/A |
+| 48 | [滝沢歌舞伎](http://twitter.com/search?q=%e6%bb%9d%e6%b2%a2%e6%ad%8c%e8%88%9e%e4%bc%8e) | 滝沢歌舞伎 (Takizawa Kabuki) is a traditional form of Japanese theater that combines music, dance, and drama. It originated in the Edo period (1603-1868) and is still performed today. The name comes from the Takizawa district of Tokyo, where it was first performed. In English, it can be translated as "Takizawa Kabuki Theater". |
+| 49 | [題の答え](http://twitter.com/search?q=%e9%a1%8c%e3%81%ae%e7%ad%94%e3%81%88) | N/A |
+| 50 | [ユンケル](http://twitter.com/search?q=%e3%83%a6%e3%83%b3%e3%82%b1%e3%83%ab) | N/A |
 
 
 

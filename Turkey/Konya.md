@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Konya
 
-📆 Last Updated: `2023-02-27 23:16:35 UTC`
+📆 Last Updated: `2023-02-28 00:29:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#BETSrypto](http://twitter.com/search?q=%23BETSrypto) | N/A |
+| 1 | [#MultiAI](http://twitter.com/search?q=%23MultiAI) | N/A |
 | 2 | [#izmirdeprem](http://twitter.com/search?q=%23izmirdeprem) | N/A |
-| 3 | [Bilen Herkes Kazanır](http://twitter.com/search?q=Bilen+Herkes+Kazan%c4%b1r) | Bilen Herkes Kazanır is a Turkish proverb that translates to "Those who know, win". It is used to express the idea that knowledge and understanding are the keys to success. |
+| 3 | [#28Şubat](http://twitter.com/search?q=%2328%c5%9eubat) | N/A |
 | 4 | [#helaletmiyorum](http://twitter.com/search?q=%23helaletmiyorum) | N/A |
-| 5 | [#28Şubat](http://twitter.com/search?q=%2328%c5%9eubat) | N/A |
-| 6 | [HAKKIM HELAL OLSUN REİS](http://twitter.com/search?q=HAKKIM+HELAL+OLSUN+RE%c4%b0S) | N/A |
-| 7 | [Çocuklara](http://twitter.com/search?q=%c3%87ocuklara) | N/A |
+| 5 | [HAKKIM HELAL OLSUN REİS](http://twitter.com/search?q=HAKKIM+HELAL+OLSUN+RE%c4%b0S) | N/A |
+| 6 | [Çocuklara](http://twitter.com/search?q=%c3%87ocuklara) | N/A |
+| 7 | [HARAM OLSUN](http://twitter.com/search?q=HARAM+OLSUN) | N/A |
 | 8 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 9 | [Gülşah](http://twitter.com/search?q=G%c3%bcl%c5%9fah) | N/A |
-| 10 | [HARAM OLSUN](http://twitter.com/search?q=HARAM+OLSUN) | N/A |
-| 11 | [Mansur Yavaş](http://twitter.com/search?q=Mansur+Yava%c5%9f) | N/A |
-| 12 | [Profilime KimBakiyor](http://twitter.com/search?q=Profilime+KimBakiyor) | N/A |
-| 13 | [Ezan](http://twitter.com/search?q=Ezan) | N/A |
-| 14 | [Dayına](http://twitter.com/search?q=Day%c4%b1na) | N/A |
-| 15 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
-| 16 | [Dayıyı](http://twitter.com/search?q=Day%c4%b1y%c4%b1) | N/A |
-| 17 | [TGRT](http://twitter.com/search?q=TGRT) | N/A |
-| 18 | [Donsuz](http://twitter.com/search?q=Donsuz) | N/A |
-| 19 | [Piercing](http://twitter.com/search?q=Piercing) | N/A |
-| 20 | [Hayrettin Güngör](http://twitter.com/search?q=Hayrettin+G%c3%bcng%c3%b6r) | N/A |
-| 21 | [Faruk Aksoy](http://twitter.com/search?q=Faruk+Aksoy) | N/A |
-| 22 | [Çevir](http://twitter.com/search?q=%c3%87evir) | N/A |
-| 23 | [Helallik](http://twitter.com/search?q=Helallik) | N/A |
-| 24 | [Burç](http://twitter.com/search?q=Bur%c3%a7) | N/A |
-| 25 | [Vira](http://twitter.com/search?q=Vira) | N/A |
-| 26 | [Lionel Scaloni](http://twitter.com/search?q=Lionel+Scaloni) | N/A |
-| 27 | [BaşrolSensin SedatPolat](http://twitter.com/search?q=Ba%c5%9frolSensin+SedatPolat) | N/A |
-| 28 | [Kerem Kınık](http://twitter.com/search?q=Kerem+K%c4%b1n%c4%b1k) | N/A |
-| 29 | [Simge](http://twitter.com/search?q=Simge) | N/A |
-| 30 | [Bakarız](http://twitter.com/search?q=Bakar%c4%b1z) | N/A |
-| 31 | [Sadettin Saran](http://twitter.com/search?q=Sadettin+Saran) | N/A |
-| 32 | [Kalbimin](http://twitter.com/search?q=Kalbimin) | N/A |
-| 33 | [Senlik](http://twitter.com/search?q=Senlik) | N/A |
-| 34 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
-| 35 | [Arjantin](http://twitter.com/search?q=Arjantin) | N/A |
-| 36 | [Acıma](http://twitter.com/search?q=Ac%c4%b1ma) | N/A |
-| 37 | [Dava](http://twitter.com/search?q=Dava) | N/A |
-| 38 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 39 | [AfetYıktıAdaletYaktı ÇözümAf](http://twitter.com/search?q=AfetY%c4%b1kt%c4%b1AdaletYakt%c4%b1+%c3%87%c3%b6z%c3%bcmAf) | N/A |
-| 40 | [Gamze](http://twitter.com/search?q=Gamze) | N/A |
-| 41 | [PrimNerde SedatOrda](http://twitter.com/search?q=PrimNerde+SedatOrda) | N/A |
-| 42 | [Melih Gökçek](http://twitter.com/search?q=Melih+G%c3%b6k%c3%a7ek) | N/A |
-| 43 | [Portakal](http://twitter.com/search?q=Portakal) | N/A |
-| 44 | [Biz Prof. Dr.](http://twitter.com/search?q=Biz+Prof.+Dr.) | N/A |
-| 45 | [Wanda](http://twitter.com/search?q=Wanda) | N/A |
-| 46 | [Parayı](http://twitter.com/search?q=Paray%c4%b1) | N/A |
-| 47 | [Dünya Bankası](http://twitter.com/search?q=D%c3%bcnya+Bankas%c4%b1) | N/A |
-| 48 | [Nevşin](http://twitter.com/search?q=Nev%c5%9fin) | N/A |
+| 10 | [Mansur Yavaş](http://twitter.com/search?q=Mansur+Yava%c5%9f) | N/A |
+| 11 | [Ezan](http://twitter.com/search?q=Ezan) | N/A |
+| 12 | [Dayına](http://twitter.com/search?q=Day%c4%b1na) | N/A |
+| 13 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
+| 14 | [Dayıyı](http://twitter.com/search?q=Day%c4%b1y%c4%b1) | N/A |
+| 15 | [Donsuz](http://twitter.com/search?q=Donsuz) | N/A |
+| 16 | [TGRT](http://twitter.com/search?q=TGRT) | N/A |
+| 17 | [Helallik](http://twitter.com/search?q=Helallik) | N/A |
+| 18 | [Piercing](http://twitter.com/search?q=Piercing) | N/A |
+| 19 | [Faruk Aksoy](http://twitter.com/search?q=Faruk+Aksoy) | N/A |
+| 20 | [Çevir](http://twitter.com/search?q=%c3%87evir) | N/A |
+| 21 | [Vira](http://twitter.com/search?q=Vira) | N/A |
+| 22 | [Simge](http://twitter.com/search?q=Simge) | N/A |
+| 23 | [Bakarız](http://twitter.com/search?q=Bakar%c4%b1z) | N/A |
+| 24 | [BaşrolSensin SedatPolat](http://twitter.com/search?q=Ba%c5%9frolSensin+SedatPolat) | N/A |
+| 25 | [Hayrettin Güngör](http://twitter.com/search?q=Hayrettin+G%c3%bcng%c3%b6r) | N/A |
+| 26 | [Kerem Kınık](http://twitter.com/search?q=Kerem+K%c4%b1n%c4%b1k) | N/A |
+| 27 | [Melih Gökçek](http://twitter.com/search?q=Melih+G%c3%b6k%c3%a7ek) | N/A |
+| 28 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
+| 29 | [Sadettin Saran](http://twitter.com/search?q=Sadettin+Saran) | N/A |
+| 30 | [Erbakan](http://twitter.com/search?q=Erbakan) | N/A |
+| 31 | [Acıma](http://twitter.com/search?q=Ac%c4%b1ma) | N/A |
+| 32 | [Dava](http://twitter.com/search?q=Dava) | N/A |
+| 33 | [PrimNerde SedatOrda](http://twitter.com/search?q=PrimNerde+SedatOrda) | N/A |
+| 34 | [Senlik](http://twitter.com/search?q=Senlik) | N/A |
+| 35 | [AfetYıktıAdaletYaktı ÇözümAf](http://twitter.com/search?q=AfetY%c4%b1kt%c4%b1AdaletYakt%c4%b1+%c3%87%c3%b6z%c3%bcmAf) | N/A |
+| 36 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 37 | [Portakal](http://twitter.com/search?q=Portakal) | N/A |
+| 38 | [Parayı](http://twitter.com/search?q=Paray%c4%b1) | N/A |
+| 39 | [Nevşin](http://twitter.com/search?q=Nev%c5%9fin) | N/A |
+| 40 | [Bayram](http://twitter.com/search?q=Bayram) | N/A |
+| 41 | [Konuştukça](http://twitter.com/search?q=Konu%c5%9ftuk%c3%a7a) | N/A |
+| 42 | [Adıyamanlı](http://twitter.com/search?q=Ad%c4%b1yamanl%c4%b1) | N/A |
+| 43 | [#EmeklilikteYaşaTakılanlar](http://twitter.com/search?q=%23EmeklilikteYa%c5%9faTak%c4%b1lanlar) | #EmeklilikteYaşaTakılanlar is a hashtag used in Turkey to refer to people who have retired and are living on their pension. In English, it translates to "Retirees Living on Pension". |
+| 44 | [#mehmetakifersoy](http://twitter.com/search?q=%23mehmetakifersoy) | N/A |
+| 45 | [#TekeTekBilim](http://twitter.com/search?q=%23TekeTekBilim) | N/A |
+| 46 | [#denizgezmis](http://twitter.com/search?q=%23denizgezmis) | N/A |
+| 47 | [#Ömer](http://twitter.com/search?q=%23%c3%96mer) | #Ömer is a hashtag used to refer to Ömer, a Turkish given name. It is derived from the Arabic name Omar and means "long-lived" or "flourishing". |
+| 48 | [#StajyerMeclisiBekliyor](http://twitter.com/search?q=%23StajyerMeclisiBekliyor) | N/A |
 
 
 

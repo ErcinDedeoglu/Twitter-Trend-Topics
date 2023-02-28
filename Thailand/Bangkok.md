@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bangkok
 
-📆 Last Updated: `2023-02-27 23:16:24 UTC`
+📆 Last Updated: `2023-02-28 00:28:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for [Thailand](</Thailand>)
 | 4 | [#LINESTICKERxCUTIEPIE](http://twitter.com/search?q=%23LINESTICKERxCUTIEPIE) | N/A |
 | 5 | [#ข้ามฟ้าเคียงเธอ](http://twitter.com/search?q=%23%e0%b8%82%e0%b9%89%e0%b8%b2%e0%b8%a1%e0%b8%9f%e0%b9%89%e0%b8%b2%e0%b9%80%e0%b8%84%e0%b8%b5%e0%b8%a2%e0%b8%87%e0%b9%80%e0%b8%98%e0%b8%ad) | N/A |
 | 6 | [#FriendofGUCCIXGulf](http://twitter.com/search?q=%23FriendofGUCCIXGulf) | N/A |
-| 7 | [patrick to paris](http://twitter.com/search?q=patrick+to+paris) | N/A |
-| 8 | [BamBam Title Poster](http://twitter.com/search?q=BamBam+Title+Poster) | N/A |
-| 9 | [love pk 200k](http://twitter.com/search?q=love+pk+200k) | N/A |
+| 7 | [BAMBAM GM 28FEBRUARY](http://twitter.com/search?q=BAMBAM+GM+28FEBRUARY) | N/A |
+| 8 | [Miss You Everytime](http://twitter.com/search?q=Miss+You+Everytime) | N/A |
+| 9 | [PATRICK TO PARIS](http://twitter.com/search?q=PATRICK+TO+PARIS) | N/A |
 | 10 | [PH SCAMMER](http://twitter.com/search?q=PH+SCAMMER) | N/A |
-| 11 | [Bright In Malaysia](http://twitter.com/search?q=Bright+In+Malaysia) | N/A |
-| 12 | [ENGFA WARAHA](http://twitter.com/search?q=ENGFA+WARAHA) | ENGFA WARAHA is a phrase in the Somali language that translates to "may peace be upon you." It is a common greeting used to wish someone peace and goodwill. |
-| 13 | [congrats gemini 1m](http://twitter.com/search?q=congrats+gemini+1m) | N/A |
-| 14 | [Floral Sense](http://twitter.com/search?q=Floral+Sense) | N/A |
-| 15 | [sour & sweet](http://twitter.com/search?q=sour+%26+sweet) | N/A |
+| 11 | [love pk 200k](http://twitter.com/search?q=love+pk+200k) | N/A |
+| 12 | [Bright In Malaysia](http://twitter.com/search?q=Bright+In+Malaysia) | N/A |
+| 13 | [ENGFA WARAHA](http://twitter.com/search?q=ENGFA+WARAHA) | ENGFA WARAHA is a phrase in the Somali language that translates to "may peace be upon you." It is a common greeting used to wish someone peace and goodwill. |
+| 14 | [congrats gemini 1m](http://twitter.com/search?q=congrats+gemini+1m) | N/A |
+| 15 | [Floral Sense](http://twitter.com/search?q=Floral+Sense) | N/A |
 | 16 | [Friend of House](http://twitter.com/search?q=Friend+of+House) | N/A |
-| 17 | [CHARLOTTE AUSTIN](http://twitter.com/search?q=CHARLOTTE+AUSTIN) | Charlotte Austin is a female given name. It is derived from the French name "Charlotte" which means "free man" and the English name "Austin" which means "great". |
-| 18 | [SPECIAL DAY27 OF ENGFA](http://twitter.com/search?q=SPECIAL+DAY27+OF+ENGFA) | N/A |
-| 19 | [macolor runway](http://twitter.com/search?q=macolor+runway) | N/A |
-| 20 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
-| 21 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
-| 22 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 23 | [Bright Morning](http://twitter.com/search?q=Bright+Morning) | N/A |
-| 24 | [Good NaNoNite](http://twitter.com/search?q=Good+NaNoNite) | N/A |
-| 25 | [#FriendofGUCCIXGulf](http://twitter.com/search?q=%23FriendofGUCCIXGulf) | N/A |
-| 26 | [#patrickxbalmain](http://twitter.com/search?q=%23patrickxbalmain) | N/A |
-| 27 | [#KiehlsBrightestSkinExperience](http://twitter.com/search?q=%23KiehlsBrightestSkinExperience) | N/A |
-| 28 | [#SpoBam](http://twitter.com/search?q=%23SpoBam) | N/A |
-| 29 | [#KiehlsXBright](http://twitter.com/search?q=%23KiehlsXBright) | N/A |
-| 30 | [#PatrickFinkler](http://twitter.com/search?q=%23PatrickFinkler) | N/A |
-| 31 | [#Showmelove1DAYleft](http://twitter.com/search?q=%23Showmelove1DAYleft) | N/A |
-| 32 | [#ไลน์สติ๊กเกอร์ywpb](http://twitter.com/search?q=%23%e0%b9%84%e0%b8%a5%e0%b8%99%e0%b9%8c%e0%b8%aa%e0%b8%95%e0%b8%b4%e0%b9%8a%e0%b8%81%e0%b9%80%e0%b8%81%e0%b8%ad%e0%b8%a3%e0%b9%8cywpb) | N/A |
-| 33 | [#yinpromxceraveblemish](http://twitter.com/search?q=%23yinpromxceraveblemish) | N/A |
-| 34 | [#MACJacksonWang](http://twitter.com/search?q=%23MACJacksonWang) | N/A |
-| 35 | [#BB3isComing](http://twitter.com/search?q=%23BB3isComing) | N/A |
-| 36 | [#TheEndofKinnPorsche](http://twitter.com/search?q=%23TheEndofKinnPorsche) | N/A |
-| 37 | [#AlphaบุกMBKCenter](http://twitter.com/search?q=%23Alpha%e0%b8%9a%e0%b8%b8%e0%b8%81MBKCenter) | N/A |
-| 38 | [#ZeeNuNew안녕D4](http://twitter.com/search?q=%23ZeeNuNew%ec%95%88%eb%85%95D4) | N/A |
-| 39 | [#BB_Guess_the_Title](http://twitter.com/search?q=%23BB_Guess_the_Title) | N/A |
-| 40 | [#ใหม่ดาวิกา](http://twitter.com/search?q=%23%e0%b9%83%e0%b8%ab%e0%b8%a1%e0%b9%88%e0%b8%94%e0%b8%b2%e0%b8%a7%e0%b8%b4%e0%b8%81%e0%b8%b2) | N/A |
-| 41 | [#นิ่ม](http://twitter.com/search?q=%23%e0%b8%99%e0%b8%b4%e0%b9%88%e0%b8%a1) | N/A |
-| 42 | [#น้องต่อ](http://twitter.com/search?q=%23%e0%b8%99%e0%b9%89%e0%b8%ad%e0%b8%87%e0%b8%95%e0%b9%88%e0%b8%ad) | N/A |
-| 43 | [#APOFLYTOPARIS](http://twitter.com/search?q=%23APOFLYTOPARIS) | N/A |
-| 44 | [#KPWTBKKWTF](http://twitter.com/search?q=%23KPWTBKKWTF) | N/A |
-| 45 | [#IMAXLaserXWinnySatangMarkFord](http://twitter.com/search?q=%23IMAXLaserXWinnySatangMarkFord) | N/A |
-| 46 | [#แน็กชาลี](http://twitter.com/search?q=%23%e0%b9%81%e0%b8%99%e0%b9%87%e0%b8%81%e0%b8%8a%e0%b8%b2%e0%b8%a5%e0%b8%b5) | N/A |
-| 47 | [#TheWarpEffectFinalEP](http://twitter.com/search?q=%23TheWarpEffectFinalEP) | N/A |
-| 48 | [#OurBelovedGemini1M](http://twitter.com/search?q=%23OurBelovedGemini1M) | N/A |
-| 49 | [#tiktokล่ม](http://twitter.com/search?q=%23tiktok%e0%b8%a5%e0%b9%88%e0%b8%a1) | N/A |
-| 50 | [#linestickersawards2022](http://twitter.com/search?q=%23linestickersawards2022) | N/A |
+| 17 | [Sour & Sweet](http://twitter.com/search?q=Sour+%26+Sweet) | N/A |
+| 18 | [CHARLOTTE AUSTIN](http://twitter.com/search?q=CHARLOTTE+AUSTIN) | Charlotte Austin is a female given name. It is derived from the French name "Charlotte" which means "free man" and the English name "Austin" which means "great". |
+| 19 | [SPECIAL DAY27 OF ENGFA](http://twitter.com/search?q=SPECIAL+DAY27+OF+ENGFA) | N/A |
+| 20 | [MACOLOR RUNWAY](http://twitter.com/search?q=MACOLOR+RUNWAY) | N/A |
+| 21 | [Kem Morning](http://twitter.com/search?q=Kem+Morning) | N/A |
+| 22 | [Gulf Morning](http://twitter.com/search?q=Gulf+Morning) | N/A |
+| 23 | [Good Mewning](http://twitter.com/search?q=Good+Mewning) | N/A |
+| 24 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
+| 25 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
+| 26 | [Hussawee So Cute](http://twitter.com/search?q=Hussawee+So+Cute) | N/A |
+| 27 | [Morning Cherprang](http://twitter.com/search?q=Morning+Cherprang) | N/A |
+| 28 | [1st Full Album](http://twitter.com/search?q=1st+Full+Album) | N/A |
+| 29 | [Morning PATRICK](http://twitter.com/search?q=Morning+PATRICK) | N/A |
+| 30 | [Kem Hussawee](http://twitter.com/search?q=Kem+Hussawee) | N/A |
+| 31 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 32 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 33 | [Win Metawin](http://twitter.com/search?q=Win+Metawin) | N/A |
+| 34 | [#คิดถึงเฮีย24ชั่วโมง](http://twitter.com/search?q=%23%e0%b8%84%e0%b8%b4%e0%b8%94%e0%b8%96%e0%b8%b6%e0%b8%87%e0%b9%80%e0%b8%ae%e0%b8%b5%e0%b8%a224%e0%b8%8a%e0%b8%b1%e0%b9%88%e0%b8%a7%e0%b9%82%e0%b8%a1%e0%b8%87) | N/A |
+| 35 | [#PatrickXBalmain](http://twitter.com/search?q=%23PatrickXBalmain) | N/A |
+| 36 | [#showmelove1dayleft](http://twitter.com/search?q=%23showmelove1dayleft) | N/A |
+| 37 | [#KiehlsBrightestSkinExperience](http://twitter.com/search?q=%23KiehlsBrightestSkinExperience) | N/A |
+| 38 | [#yinpromxceraveblemish](http://twitter.com/search?q=%23yinpromxceraveblemish) | N/A |
+| 39 | [#KiehlsXBright](http://twitter.com/search?q=%23KiehlsXBright) | N/A |
+| 40 | [#BB3isComing](http://twitter.com/search?q=%23BB3isComing) | N/A |
+| 41 | [#MACJacksonWang](http://twitter.com/search?q=%23MACJacksonWang) | N/A |
+| 42 | [#PatrickFinkler](http://twitter.com/search?q=%23PatrickFinkler) | N/A |
+| 43 | [#TheEndofKinnPorsche](http://twitter.com/search?q=%23TheEndofKinnPorsche) | N/A |
+| 44 | [#ไลน์สติ๊กเกอร์YWPB](http://twitter.com/search?q=%23%e0%b9%84%e0%b8%a5%e0%b8%99%e0%b9%8c%e0%b8%aa%e0%b8%95%e0%b8%b4%e0%b9%8a%e0%b8%81%e0%b9%80%e0%b8%81%e0%b8%ad%e0%b8%a3%e0%b9%8cYWPB) | N/A |
+| 45 | [#SpoBam](http://twitter.com/search?q=%23SpoBam) | N/A |
+| 46 | [#ใหม่ดาวิกา](http://twitter.com/search?q=%23%e0%b9%83%e0%b8%ab%e0%b8%a1%e0%b9%88%e0%b8%94%e0%b8%b2%e0%b8%a7%e0%b8%b4%e0%b8%81%e0%b8%b2) | N/A |
+| 47 | [#AlphaบุกMBKCenter](http://twitter.com/search?q=%23Alpha%e0%b8%9a%e0%b8%b8%e0%b8%81MBKCenter) | N/A |
+| 48 | [#นิ่ม](http://twitter.com/search?q=%23%e0%b8%99%e0%b8%b4%e0%b9%88%e0%b8%a1) | N/A |
+| 49 | [#APOFLYTOPARIS](http://twitter.com/search?q=%23APOFLYTOPARIS) | N/A |
+| 50 | [#น้องต่อ](http://twitter.com/search?q=%23%e0%b8%99%e0%b9%89%e0%b8%ad%e0%b8%87%e0%b8%95%e0%b9%88%e0%b8%ad) | N/A |
 
 
 

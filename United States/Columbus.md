@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Columbus
 
-📆 Last Updated: `2023-02-27 23:16:37 UTC`
+📆 Last Updated: `2023-02-28 00:29:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,52 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Tornado](http://twitter.com/search?q=Tornado) | N/A |
 | 2 | [Scott Adams](http://twitter.com/search?q=Scott+Adams) | N/A |
-| 3 | [kevin hart](http://twitter.com/search?q=kevin+hart) | N/A |
-| 4 | [#BETCrypto](http://twitter.com/search?q=%23BETCrypto) | N/A |
-| 5 | [Carson Wentz](http://twitter.com/search?q=Carson+Wentz) | Carson Wentz is an American football quarterback for the Philadelphia Eagles of the National Football League (NFL). He was drafted by the Eagles with the second overall pick in the 2016 NFL Draft. He played college football at North Dakota State University, where he won five NCAA FCS National Championships. |
-| 6 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
-| 7 | [#KarmaIsReal](http://twitter.com/search?q=%23KarmaIsReal) | N/A |
-| 8 | [Rupert Murdoch](http://twitter.com/search?q=Rupert+Murdoch) | N/A |
-| 9 | [Gavin Lux](http://twitter.com/search?q=Gavin+Lux) | N/A |
-| 10 | [John Marvin](http://twitter.com/search?q=John+Marvin) | N/A |
-| 11 | [Adam Silver](http://twitter.com/search?q=Adam+Silver) | N/A |
-| 12 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 13 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
-| 14 | [Jim Acosta](http://twitter.com/search?q=Jim+Acosta) | N/A |
-| 15 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 16 | [#GOGimmighoul](http://twitter.com/search?q=%23GOGimmighoul) | N/A |
-| 17 | [Wesson](http://twitter.com/search?q=Wesson) | N/A |
-| 18 | [#PMSLive](http://twitter.com/search?q=%23PMSLive) | N/A |
-| 19 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
-| 20 | [Roman Quinn](http://twitter.com/search?q=Roman+Quinn) | N/A |
+| 3 | [#MultiAI](http://twitter.com/search?q=%23MultiAI) | N/A |
+| 4 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
+| 5 | [Keke](http://twitter.com/search?q=Keke) | N/A |
+| 6 | [Rupert Murdoch](http://twitter.com/search?q=Rupert+Murdoch) | N/A |
+| 7 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 8 | [#BETCrypto](http://twitter.com/search?q=%23BETCrypto) | N/A |
+| 9 | [#KarmaIsReal](http://twitter.com/search?q=%23KarmaIsReal) | N/A |
+| 10 | [Wentz](http://twitter.com/search?q=Wentz) | Wentz is a surname of German origin. It is derived from the Middle High German word "wenz" meaning "to go". The name Wentz is most commonly found in the United States, where it is the 5,917th most common surname. |
+| 11 | [Leodis](http://twitter.com/search?q=Leodis) | N/A |
+| 12 | [Adam Silver](http://twitter.com/search?q=Adam+Silver) | N/A |
+| 13 | [Gavin Lux](http://twitter.com/search?q=Gavin+Lux) | N/A |
+| 14 | [#WaysToMakeThingsWeird](http://twitter.com/search?q=%23WaysToMakeThingsWeird) | N/A |
+| 15 | [Jim Acosta](http://twitter.com/search?q=Jim+Acosta) | N/A |
+| 16 | [Nerlens Noel](http://twitter.com/search?q=Nerlens+Noel) | N/A |
+| 17 | [John Marvin](http://twitter.com/search?q=John+Marvin) | N/A |
+| 18 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
+| 19 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 20 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
 | 21 | [Proud Boys](http://twitter.com/search?q=Proud+Boys) | N/A |
-| 22 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
-| 23 | [DA SLEEZE](http://twitter.com/search?q=DA+SLEEZE) | N/A |
-| 24 | [Nerlens Noel](http://twitter.com/search?q=Nerlens+Noel) | N/A |
-| 25 | [David Stern](http://twitter.com/search?q=David+Stern) | N/A |
-| 26 | [OUT OF THE WOODS](http://twitter.com/search?q=OUT+OF+THE+WOODS) | N/A |
-| 27 | [Walking Wake](http://twitter.com/search?q=Walking+Wake) | N/A |
-| 28 | [1000 ETH](http://twitter.com/search?q=1000+ETH) | N/A |
+| 22 | [Wesson](http://twitter.com/search?q=Wesson) | N/A |
+| 23 | [OUT OF THE WOODS](http://twitter.com/search?q=OUT+OF+THE+WOODS) | N/A |
+| 24 | [Stillman](http://twitter.com/search?q=Stillman) | N/A |
+| 25 | [Major Democrat](http://twitter.com/search?q=Major+Democrat) | N/A |
+| 26 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
+| 27 | [Sevy](http://twitter.com/search?q=Sevy) | N/A |
+| 28 | [Josh Bloom](http://twitter.com/search?q=Josh+Bloom) | N/A |
 | 29 | [Steven Seagal](http://twitter.com/search?q=Steven+Seagal) | N/A |
-| 30 | [Iron Leaves](http://twitter.com/search?q=Iron+Leaves) | N/A |
-| 31 | [PAPER RINGS](http://twitter.com/search?q=PAPER+RINGS) | N/A |
-| 32 | [Sedition Panda](http://twitter.com/search?q=Sedition+Panda) | N/A |
-| 33 | [HOIL](http://twitter.com/search?q=HOIL) | N/A |
-| 34 | [Buckhead](http://twitter.com/search?q=Buckhead) | N/A |
-| 35 | [Reedy Creek](http://twitter.com/search?q=Reedy+Creek) | N/A |
-| 36 | [Emilia Clarke](http://twitter.com/search?q=Emilia+Clarke) | N/A |
-| 37 | [Beyond the Summit](http://twitter.com/search?q=Beyond+the+Summit) | N/A |
-| 38 | [Suicune](http://twitter.com/search?q=Suicune) | N/A |
-| 39 | [Landlords](http://twitter.com/search?q=Landlords) | N/A |
-| 40 | [Yellen](http://twitter.com/search?q=Yellen) | N/A |
-| 41 | [Elam](http://twitter.com/search?q=Elam) | N/A |
-| 42 | [Jake Burger](http://twitter.com/search?q=Jake+Burger) | N/A |
-| 43 | [Don't Say Gay](http://twitter.com/search?q=Don%27t+Say+Gay) | N/A |
-| 44 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
-| 45 | [Maino](http://twitter.com/search?q=Maino) | N/A |
-| 46 | [Scaloni](http://twitter.com/search?q=Scaloni) | N/A |
-| 47 | [Ozempic](http://twitter.com/search?q=Ozempic) | N/A |
-| 48 | [Better Off Dead](http://twitter.com/search?q=Better+Off+Dead) | N/A |
+| 30 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 31 | [Luis Severino](http://twitter.com/search?q=Luis+Severino) | N/A |
+| 32 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
+| 33 | [Tyler Glasnow](http://twitter.com/search?q=Tyler+Glasnow) | N/A |
+| 34 | [Roman Quinn](http://twitter.com/search?q=Roman+Quinn) | N/A |
+| 35 | [DA SLEEZE](http://twitter.com/search?q=DA+SLEEZE) | N/A |
+| 36 | [Dear John](http://twitter.com/search?q=Dear+John) | N/A |
+| 37 | [Emilia Clarke](http://twitter.com/search?q=Emilia+Clarke) | N/A |
+| 38 | [David Stern](http://twitter.com/search?q=David+Stern) | N/A |
+| 39 | [Gabe Vincent](http://twitter.com/search?q=Gabe+Vincent) | Gabe Vincent is a name, and it does not have a specific meaning in English. |
+| 40 | [PAPER RINGS](http://twitter.com/search?q=PAPER+RINGS) | N/A |
+| 41 | [Gillie](http://twitter.com/search?q=Gillie) | Gillie is a Scottish term for a guide or an attendant, usually employed to accompany someone on a hunting or fishing trip. It can also refer to someone who helps with the maintenance of a golf course. |
+| 42 | [Walking Wake](http://twitter.com/search?q=Walking+Wake) | N/A |
+| 43 | [Elam](http://twitter.com/search?q=Elam) | N/A |
+| 44 | [Blaire](http://twitter.com/search?q=Blaire) | N/A |
+| 45 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 46 | [Iron Leaves](http://twitter.com/search?q=Iron+Leaves) | N/A |
+| 47 | [Bryce](http://twitter.com/search?q=Bryce) | N/A |
+| 48 | [Yellen](http://twitter.com/search?q=Yellen) | N/A |
 
 
 

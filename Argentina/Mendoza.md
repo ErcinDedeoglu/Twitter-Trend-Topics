@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mendoza
 
-📆 Last Updated: `2023-02-27 23:16:03 UTC`
+📆 Last Updated: `2023-02-28 00:28:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Argentina](</Argentina>)
 | ------- | ------------ | ------------ |
 | 1 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 2 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
-| 3 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
-| 4 | [Tula](http://twitter.com/search?q=Tula) | N/A |
-| 5 | [Barracas](http://twitter.com/search?q=Barracas) | Barracas is a district in the Argentine capital of Buenos Aires. It is located in the south of the city and is known for its vibrant nightlife, its diverse population, and its traditional markets. The name Barracas comes from the Spanish word barraca, which means “hut” or “shack”. |
+| 3 | [Piovi](http://twitter.com/search?q=Piovi) | Piovi is an Italian word that means "to rain". It is used to describe the sound of rain falling. |
+| 4 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
+| 5 | [Tula](http://twitter.com/search?q=Tula) | N/A |
 | 6 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
 | 7 | [Germán](http://twitter.com/search?q=Germ%c3%a1n) | Germán is a Spanish and Portuguese name derived from the Latin Germanus, meaning "brother". It is also a Germanic given name, derived from the Germanic element ger, meaning "spear". |
-| 8 | [EL MEJOR DEL MUNDO](http://twitter.com/search?q=EL+MEJOR+DEL+MUNDO) | N/A |
-| 9 | [Chiqui Tapia](http://twitter.com/search?q=Chiqui+Tapia) | N/A |
+| 8 | [Barracas](http://twitter.com/search?q=Barracas) | Barracas is a district in the Argentine capital of Buenos Aires. It is located in the south of the city and is known for its vibrant nightlife, its diverse population, and its traditional markets. The name Barracas comes from the Spanish word barraca, which means “hut” or “shack”. |
+| 9 | [Aguilar](http://twitter.com/search?q=Aguilar) | N/A |
 | 10 | [Spain](http://twitter.com/search?q=Spain) | N/A |
-| 11 | [Lamolina](http://twitter.com/search?q=Lamolina) | N/A |
-| 12 | [Mejor DT](http://twitter.com/search?q=Mejor+DT) | N/A |
-| 13 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
-| 14 | [#GELP](http://twitter.com/search?q=%23GELP) | N/A |
-| 15 | [Coscu](http://twitter.com/search?q=Coscu) | N/A |
-| 16 | [Scaloneta](http://twitter.com/search?q=Scaloneta) | N/A |
-| 17 | [Alex Morgan](http://twitter.com/search?q=Alex+Morgan) | N/A |
-| 18 | [Mejor Hinchada](http://twitter.com/search?q=Mejor+Hinchada) | N/A |
-| 19 | [GANAMOS TODO](http://twitter.com/search?q=GANAMOS+TODO) | N/A |
-| 20 | [Alexia](http://twitter.com/search?q=Alexia) | Alexia is a neurological disorder that affects a person's ability to read. It is also known as word blindness or dyslexia. People with Alexia have difficulty understanding written words, even though they may be able to speak and write normally. |
-| 21 | [Emiliano](http://twitter.com/search?q=Emiliano) | N/A |
-| 22 | [MI TÉCNICO](http://twitter.com/search?q=MI+T%c3%89CNICO) | N/A |
-| 23 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
-| 24 | [Aguilar](http://twitter.com/search?q=Aguilar) | N/A |
-| 25 | [MI PAÍS](http://twitter.com/search?q=MI+PA%c3%8dS) | N/A |
-| 26 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
-| 27 | [Bruyne](http://twitter.com/search?q=Bruyne) | N/A |
-| 28 | [gaston](http://twitter.com/search?q=gaston) | N/A |
-| 29 | [#LaVelada3](http://twitter.com/search?q=%23LaVelada3) | N/A |
-| 30 | [Contin](http://twitter.com/search?q=Contin) | N/A |
-| 31 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 32 | [Loaiza](http://twitter.com/search?q=Loaiza) | N/A |
-| 33 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 34 | [#PUMAxDisciplinaTour](http://twitter.com/search?q=%23PUMAxDisciplinaTour) | N/A |
-| 35 | [Puskas](http://twitter.com/search?q=Puskas) | N/A |
-| 36 | [Matías Rojas](http://twitter.com/search?q=Mat%c3%adas+Rojas) | N/A |
-| 37 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
-| 38 | [VAYAN A DORMIR YA](http://twitter.com/search?q=VAYAN+A+DORMIR+YA) | N/A |
-| 39 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 40 | [Shelao](http://twitter.com/search?q=Shelao) | N/A |
-| 41 | [gaga](http://twitter.com/search?q=gaga) | N/A |
-| 42 | [Tarragona](http://twitter.com/search?q=Tarragona) | N/A |
-| 43 | [Mi DT](http://twitter.com/search?q=Mi+DT) | N/A |
-| 44 | [LOS MEJORES DEL MUNDO](http://twitter.com/search?q=LOS+MEJORES+DEL+MUNDO) | N/A |
-| 45 | [Infantino](http://twitter.com/search?q=Infantino) | Infantino is a Spanish word meaning "little baby". It is often used as an affectionate term for a young child. |
-| 46 | [Desactiva](http://twitter.com/search?q=Desactiva) | N/A |
-| 47 | [Mateo y Ciro](http://twitter.com/search?q=Mateo+y+Ciro) | N/A |
-| 48 | [adriana lima](http://twitter.com/search?q=adriana+lima) | N/A |
-| 49 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
-| 50 | [Julian Alvarez](http://twitter.com/search?q=Julian+Alvarez) | N/A |
+| 11 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
+| 12 | [Blando](http://twitter.com/search?q=Blando) | N/A |
+| 13 | [Coscu](http://twitter.com/search?q=Coscu) | N/A |
+| 14 | [Aracre](http://twitter.com/search?q=Aracre) | N/A |
+| 15 | [Chiqui Tapia](http://twitter.com/search?q=Chiqui+Tapia) | N/A |
+| 16 | [Lamolina](http://twitter.com/search?q=Lamolina) | N/A |
+| 17 | [Rojas](http://twitter.com/search?q=Rojas) | N/A |
+| 18 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
+| 19 | [EL MEJOR DEL MUNDO](http://twitter.com/search?q=EL+MEJOR+DEL+MUNDO) | N/A |
+| 20 | [#GELP](http://twitter.com/search?q=%23GELP) | N/A |
+| 21 | [GANAMOS TODO](http://twitter.com/search?q=GANAMOS+TODO) | N/A |
+| 22 | [Mejor DT](http://twitter.com/search?q=Mejor+DT) | N/A |
+| 23 | [shawn](http://twitter.com/search?q=shawn) | Shawn is a given name, typically a masculine name. It is an Anglicized form of the Irish name Seán, which is derived from the Hebrew name Yehohanan, meaning "God is gracious". |
+| 24 | [Scaloneta](http://twitter.com/search?q=Scaloneta) | N/A |
+| 25 | [Alex Morgan](http://twitter.com/search?q=Alex+Morgan) | N/A |
+| 26 | [#SoloUnaVueltaMas](http://twitter.com/search?q=%23SoloUnaVueltaMas) | N/A |
+| 27 | [Gimnasia](http://twitter.com/search?q=Gimnasia) | N/A |
+| 28 | [Mejor Arquero](http://twitter.com/search?q=Mejor+Arquero) | N/A |
+| 29 | [MEJOR HINCHADA](http://twitter.com/search?q=MEJOR+HINCHADA) | N/A |
+| 30 | [Loaiza](http://twitter.com/search?q=Loaiza) | N/A |
+| 31 | [Lanús](http://twitter.com/search?q=Lan%c3%bas) | Lanús is a city in Argentina, located in the province of Buenos Aires. The name Lanús comes from the Mapuche language and means "place of the sun". |
+| 32 | [Julián Álvarez](http://twitter.com/search?q=Juli%c3%a1n+%c3%81lvarez) | N/A |
+| 33 | [#ChatsNoTanEscondidos](http://twitter.com/search?q=%23ChatsNoTanEscondidos) | N/A |
+| 34 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
+| 35 | [Alexia](http://twitter.com/search?q=Alexia) | Alexia is a neurological disorder that affects a person's ability to read. It is also known as word blindness or dyslexia. People with Alexia have difficulty understanding written words, even though they may be able to speak and write normally. |
+| 36 | [Iker](http://twitter.com/search?q=Iker) | N/A |
+| 37 | [Tello](http://twitter.com/search?q=Tello) | Tello is a Spanish word meaning "to tell" or "to speak". It is often used as an imperative verb, as in "Tello me lo que pasó" (Tell me what happened). |
+| 38 | [#PUMAxDisciplinaTour](http://twitter.com/search?q=%23PUMAxDisciplinaTour) | N/A |
+| 39 | [Dijk](http://twitter.com/search?q=Dijk) | N/A |
+| 40 | [MI PAÍS](http://twitter.com/search?q=MI+PA%c3%8dS) | N/A |
+| 41 | [gaston](http://twitter.com/search?q=gaston) | N/A |
+| 42 | [Emiliano](http://twitter.com/search?q=Emiliano) | N/A |
+| 43 | [MI TÉCNICO](http://twitter.com/search?q=MI+T%c3%89CNICO) | N/A |
+| 44 | [#MacriMufa](http://twitter.com/search?q=%23MacriMufa) | N/A |
+| 45 | [MEJOR JUGADOR DEL MUNDO](http://twitter.com/search?q=MEJOR+JUGADOR+DEL+MUNDO) | N/A |
+| 46 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 47 | [Tarragona](http://twitter.com/search?q=Tarragona) | N/A |
+| 48 | [EL MEJOR DE LA HISTORIA](http://twitter.com/search?q=EL+MEJOR+DE+LA+HISTORIA) | N/A |
+| 49 | [Shelao](http://twitter.com/search?q=Shelao) | N/A |
+| 50 | [Pabla](http://twitter.com/search?q=Pabla) | N/A |
 
 
 

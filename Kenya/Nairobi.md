@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nairobi
 
-📆 Last Updated: `2023-02-27 23:16:26 UTC`
+📆 Last Updated: `2023-02-28 00:28:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,48 +23,48 @@ This is top 50 for [Kenya](</Kenya>)
 | 6 | [#repeatofbible](http://twitter.com/search?q=%23repeatofbible) | N/A |
 | 7 | [Moody Awori](http://twitter.com/search?q=Moody+Awori) | N/A |
 | 8 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 9 | [Ebubu](http://twitter.com/search?q=Ebubu) | Ebubu is a Nigerian language spoken by the Ebubu people in Rivers State, Nigeria. It is a dialect of the Igbo language and its meaning in English is "people". |
-| 10 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 11 | [Irene Masit](http://twitter.com/search?q=Irene+Masit) | N/A |
-| 12 | [Royals](http://twitter.com/search?q=Royals) | N/A |
-| 13 | [Cleophas Malala](http://twitter.com/search?q=Cleophas+Malala) | N/A |
-| 14 | [Peter Obi](http://twitter.com/search?q=Peter+Obi) | N/A |
-| 15 | [Kanaiva](http://twitter.com/search?q=Kanaiva) | N/A |
-| 16 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
-| 17 | [tumapesa napaysii](http://twitter.com/search?q=tumapesa+napaysii) | N/A |
-| 18 | [Moses Kuria](http://twitter.com/search?q=Moses+Kuria) | N/A |
-| 19 | [Tsatsi](http://twitter.com/search?q=Tsatsi) | N/A |
-| 20 | [Thabana](http://twitter.com/search?q=Thabana) | Thabana is a Sesotho word meaning “to be brave” or “to have courage”. It is often used as a rallying cry for people to stand up and take action in the face of adversity. |
-| 21 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 22 | [Happy New Week](http://twitter.com/search?q=Happy+New+Week) | Happy New Week is an expression used to express enthusiasm and excitement for the start of a new week. It is often used as a way to encourage someone to have a positive outlook on the upcoming week. |
-| 23 | [Nyamakima](http://twitter.com/search?q=Nyamakima) | N/A |
-| 24 | [CITAM](http://twitter.com/search?q=CITAM) | N/A |
-| 25 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
-| 26 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
-| 27 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 28 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
-| 29 | [Biggie](http://twitter.com/search?q=Biggie) | Biggie is a nickname for the late American rapper and songwriter, Notorious B.I.G., whose real name was Christopher Wallace. The term is often used to refer to his music or legacy. |
-| 30 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 31 | [IEBC](http://twitter.com/search?q=IEBC) | N/A |
-| 32 | [Somalis](http://twitter.com/search?q=Somalis) | N/A |
-| 33 | [Secretary General](http://twitter.com/search?q=Secretary+General) | N/A |
-| 34 | [Lei Cheng](http://twitter.com/search?q=Lei+Cheng) | N/A |
-| 35 | [SCOK](http://twitter.com/search?q=SCOK) | N/A |
-| 36 | [Ipeleng](http://twitter.com/search?q=Ipeleng) | Ipeleng is a Setswana word meaning “to be beautiful”. It is often used as a name for girls in Botswana. |
-| 37 | [kiburi fc](http://twitter.com/search?q=kiburi+fc) | N/A |
-| 38 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 39 | [bantu jews](http://twitter.com/search?q=bantu+jews) | N/A |
-| 40 | [Nasra](http://twitter.com/search?q=Nasra) | N/A |
-| 41 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 42 | [Glory Glory Man United](http://twitter.com/search?q=Glory+Glory+Man+United) | N/A |
-| 43 | [Amish](http://twitter.com/search?q=Amish) | N/A |
-| 44 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
-| 45 | [Gikomba](http://twitter.com/search?q=Gikomba) | N/A |
-| 46 | [natembeya](http://twitter.com/search?q=natembeya) | N/A |
-| 47 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
-| 48 | [Todd](http://twitter.com/search?q=Todd) | N/A |
-| 49 | [Anthony](http://twitter.com/search?q=Anthony) | N/A |
-| 50 | [Veronica Maina](http://twitter.com/search?q=Veronica+Maina) | N/A |
+| 9 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 10 | [Irene Masit](http://twitter.com/search?q=Irene+Masit) | N/A |
+| 11 | [Peter Obi](http://twitter.com/search?q=Peter+Obi) | N/A |
+| 12 | [Cleophas Malala](http://twitter.com/search?q=Cleophas+Malala) | N/A |
+| 13 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
+| 14 | [tumapesa napaysii](http://twitter.com/search?q=tumapesa+napaysii) | N/A |
+| 15 | [Ebubu](http://twitter.com/search?q=Ebubu) | Ebubu is a Nigerian language spoken by the Ebubu people in Rivers State, Nigeria. It is a dialect of the Igbo language and its meaning in English is "people". |
+| 16 | [Moses Kuria](http://twitter.com/search?q=Moses+Kuria) | N/A |
+| 17 | [Royals](http://twitter.com/search?q=Royals) | N/A |
+| 18 | [Happy New Week](http://twitter.com/search?q=Happy+New+Week) | Happy New Week is an expression used to express enthusiasm and excitement for the start of a new week. It is often used as a way to encourage someone to have a positive outlook on the upcoming week. |
+| 19 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 20 | [Nyamakima](http://twitter.com/search?q=Nyamakima) | N/A |
+| 21 | [CITAM](http://twitter.com/search?q=CITAM) | N/A |
+| 22 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
+| 23 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 24 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
+| 25 | [IEBC](http://twitter.com/search?q=IEBC) | N/A |
+| 26 | [Thabana](http://twitter.com/search?q=Thabana) | Thabana is a Sesotho word meaning “to be brave” or “to have courage”. It is often used as a rallying cry for people to stand up and take action in the face of adversity. |
+| 27 | [Somalis](http://twitter.com/search?q=Somalis) | N/A |
+| 28 | [Secretary General](http://twitter.com/search?q=Secretary+General) | N/A |
+| 29 | [Lei Cheng](http://twitter.com/search?q=Lei+Cheng) | N/A |
+| 30 | [Tsatsi](http://twitter.com/search?q=Tsatsi) | N/A |
+| 31 | [kiburi fc](http://twitter.com/search?q=kiburi+fc) | N/A |
+| 32 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 33 | [Kindly DM](http://twitter.com/search?q=Kindly+DM) | N/A |
+| 34 | [bantu jews](http://twitter.com/search?q=bantu+jews) | N/A |
+| 35 | [nasra](http://twitter.com/search?q=nasra) | N/A |
+| 36 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 37 | [Glory Glory Man United](http://twitter.com/search?q=Glory+Glory+Man+United) | N/A |
+| 38 | [Amish](http://twitter.com/search?q=Amish) | N/A |
+| 39 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
+| 40 | [Gikomba](http://twitter.com/search?q=Gikomba) | N/A |
+| 41 | [natembeya](http://twitter.com/search?q=natembeya) | N/A |
+| 42 | [Kanaiva](http://twitter.com/search?q=Kanaiva) | N/A |
+| 43 | [SCoK](http://twitter.com/search?q=SCoK) | N/A |
+| 44 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
+| 45 | [Todd](http://twitter.com/search?q=Todd) | N/A |
+| 46 | [Biggie](http://twitter.com/search?q=Biggie) | Biggie is a nickname for the late American rapper and songwriter, Notorious B.I.G., whose real name was Christopher Wallace. The term is often used to refer to his music or legacy. |
+| 47 | [Anthony](http://twitter.com/search?q=Anthony) | N/A |
+| 48 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
+| 49 | [Veronica Maina](http://twitter.com/search?q=Veronica+Maina) | N/A |
+| 50 | [cecily mbarire](http://twitter.com/search?q=cecily+mbarire) | N/A |
 
 
 
