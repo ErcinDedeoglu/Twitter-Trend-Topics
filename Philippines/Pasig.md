@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pasig
 
-📆 Last Updated: `2023-02-28 17:16:20 UTC`
+📆 Last Updated: `2023-02-28 18:17:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,55 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Marcos](http://twitter.com/search?q=Marcos) | Marcos is a Spanish name derived from the Latin name Marcus, which means "dedicated to Mars". It is also a common surname in Portugal and Brazil. In English, Marcos can be translated to mean "dedicated to Mars". |
-| 2 | [#JISOOxDiorAW23](http://twitter.com/search?q=%23JISOOxDiorAW23) | N/A |
-| 3 | [#ROVER_MoodSampler1](http://twitter.com/search?q=%23ROVER_MoodSampler1) | N/A |
+| 1 | [#RaffleNiBoyet](http://twitter.com/search?q=%23RaffleNiBoyet) | N/A |
+| 2 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 3 | [#JISOOxDiorAW23](http://twitter.com/search?q=%23JISOOxDiorAW23) | N/A |
 | 4 | [SARAH G 20thANNIVERSARY](http://twitter.com/search?q=SARAH+G+20thANNIVERSARY) | N/A |
-| 5 | [HABANG BUHAY RELEASE](http://twitter.com/search?q=HABANG+BUHAY+RELEASE) | N/A |
-| 6 | [Rob Luna](http://twitter.com/search?q=Rob+Luna) | N/A |
-| 7 | [#TWICE_ConceptPhotoD7](http://twitter.com/search?q=%23TWICE_ConceptPhotoD7) | N/A |
-| 8 | [#JonaxxGYWKab9](http://twitter.com/search?q=%23JonaxxGYWKab9) | N/A |
-| 9 | [#StayForeverWithHENDRIN](http://twitter.com/search?q=%23StayForeverWithHENDRIN) | N/A |
+| 5 | [#STREAM_WILD_TONIGHT](http://twitter.com/search?q=%23STREAM_WILD_TONIGHT) | N/A |
+| 6 | [HABANG BUHAY RELEASE](http://twitter.com/search?q=HABANG+BUHAY+RELEASE) | N/A |
+| 7 | [WT PERFORMANCE VIDEO](http://twitter.com/search?q=WT+PERFORMANCE+VIDEO) | N/A |
+| 8 | [#EXOSCinMNL](http://twitter.com/search?q=%23EXOSCinMNL) | N/A |
+| 9 | [Rob Luna](http://twitter.com/search?q=Rob+Luna) | N/A |
 | 10 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
-| 11 | [Birth Month](http://twitter.com/search?q=Birth+Month) | N/A |
-| 12 | [ASTRO](http://twitter.com/search?q=ASTRO) | N/A |
-| 13 | [WT PERFORMANCE VIDEO](http://twitter.com/search?q=WT+PERFORMANCE+VIDEO) | N/A |
-| 14 | [Wonho](http://twitter.com/search?q=Wonho) | N/A |
-| 15 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 16 | [Bicol Express](http://twitter.com/search?q=Bicol+Express) | N/A |
-| 17 | [Inang](http://twitter.com/search?q=Inang) | Inang is a Tagalog word that means "mother." |
-| 18 | [Maya](http://twitter.com/search?q=Maya) | N/A |
-| 19 | [ChiCo COMPLICATIONS](http://twitter.com/search?q=ChiCo+COMPLICATIONS) | N/A |
-| 20 | [SeChan](http://twitter.com/search?q=SeChan) | N/A |
-| 21 | [Arohas](http://twitter.com/search?q=Arohas) | N/A |
-| 22 | [Fantagio](http://twitter.com/search?q=Fantagio) | N/A |
-| 23 | [Gcash](http://twitter.com/search?q=Gcash) | N/A |
-| 24 | [Circle 3](http://twitter.com/search?q=Circle+3) | N/A |
-| 25 | [minhyuk](http://twitter.com/search?q=minhyuk) | N/A |
-| 26 | [Chanyeol](http://twitter.com/search?q=Chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
-| 27 | [Sehun](http://twitter.com/search?q=Sehun) | N/A |
-| 28 | [Araneta](http://twitter.com/search?q=Araneta) | N/A |
-| 29 | [#1000DaysWithNI_KI](http://twitter.com/search?q=%231000DaysWithNI_KI) | N/A |
-| 30 | [#NeverLetMeGoFinalEP](http://twitter.com/search?q=%23NeverLetMeGoFinalEP) | N/A |
-| 31 | [#ShowmeloveTheseriesEP1](http://twitter.com/search?q=%23ShowmeloveTheseriesEP1) | N/A |
-| 32 | [#NeverLetMeGoSeriesFinalEP](http://twitter.com/search?q=%23NeverLetMeGoSeriesFinalEP) | N/A |
-| 33 | [#ニキくん永遠に一緒にいようね](http://twitter.com/search?q=%23%e3%83%8b%e3%82%ad%e3%81%8f%e3%82%93%e6%b0%b8%e9%81%a0%e3%81%ab%e4%b8%80%e7%b7%92%e3%81%ab%e3%81%84%e3%82%88%e3%81%86%e3%81%ad) | N/A |
-| 34 | [#STREAM_WILD_TONIGHT](http://twitter.com/search?q=%23STREAM_WILD_TONIGHT) | N/A |
-| 35 | [#SarahGeronimo](http://twitter.com/search?q=%23SarahGeronimo) | N/A |
-| 36 | [#DLFindingMila](http://twitter.com/search?q=%23DLFindingMila) | N/A |
-| 37 | [#EXOSCinMNL](http://twitter.com/search?q=%23EXOSCinMNL) | N/A |
-| 38 | [#AbolishFrats](http://twitter.com/search?q=%23AbolishFrats) | N/A |
-| 39 | [#UrdujaItinakda](http://twitter.com/search?q=%23UrdujaItinakda) | N/A |
-| 40 | [#JaneNella](http://twitter.com/search?q=%23JaneNella) | N/A |
-| 41 | [#ONEW_Circle](http://twitter.com/search?q=%23ONEW_Circle) | N/A |
-| 42 | [#NoToJeepneyPhaseout](http://twitter.com/search?q=%23NoToJeepneyPhaseout) | N/A |
-| 43 | [#HORI7ON](http://twitter.com/search?q=%23HORI7ON) | N/A |
-| 44 | [#ShowMeLoveOnairTODAY](http://twitter.com/search?q=%23ShowMeLoveOnairTODAY) | N/A |
-| 45 | [#호라이즌](http://twitter.com/search?q=%23%ed%98%b8%eb%9d%bc%ec%9d%b4%ec%a6%8c) | N/A |
-| 46 | [#DavidLicauco](http://twitter.com/search?q=%23DavidLicauco) | N/A |
+| 11 | [Maya](http://twitter.com/search?q=Maya) | N/A |
+| 12 | [PH SCAMMER](http://twitter.com/search?q=PH+SCAMMER) | N/A |
+| 13 | [8 ML Heroes](http://twitter.com/search?q=8+ML+Heroes) | N/A |
+| 14 | [Liza](http://twitter.com/search?q=Liza) | N/A |
+| 15 | [SeChan](http://twitter.com/search?q=SeChan) | N/A |
+| 16 | [LATE LATE SHOW WITH TXT](http://twitter.com/search?q=LATE+LATE+SHOW+WITH+TXT) | N/A |
+| 17 | [Birth Month](http://twitter.com/search?q=Birth+Month) | N/A |
+| 18 | [game on bgyo our mvp](http://twitter.com/search?q=game+on+bgyo+our+mvp) | N/A |
+| 19 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
+| 20 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
+| 21 | [Fino](http://twitter.com/search?q=Fino) | N/A |
+| 22 | [TENLEE 27th BDAY](http://twitter.com/search?q=TENLEE+27th+BDAY) | N/A |
+| 23 | [ChiCo COMPLICATIONS](http://twitter.com/search?q=ChiCo+COMPLICATIONS) | N/A |
+| 24 | [TREASURE in Shopee](http://twitter.com/search?q=TREASURE+in+Shopee) | N/A |
+| 25 | [Bennett](http://twitter.com/search?q=Bennett) | N/A |
+| 26 | [BPPH](http://twitter.com/search?q=BPPH) | N/A |
+| 27 | [Blame It On Me](http://twitter.com/search?q=Blame+It+On+Me) | N/A |
+| 28 | [NAIA](http://twitter.com/search?q=NAIA) | N/A |
+| 29 | [Jema](http://twitter.com/search?q=Jema) | N/A |
+| 30 | [1st of March](http://twitter.com/search?q=1st+of+March) | N/A |
+| 31 | [Accepting Christ and His Words](http://twitter.com/search?q=Accepting+Christ+and+His+Words) | N/A |
+| 32 | [fantagio](http://twitter.com/search?q=fantagio) | N/A |
+| 33 | [Onie](http://twitter.com/search?q=Onie) | N/A |
+| 34 | [I VOLUNTEER](http://twitter.com/search?q=I+VOLUNTEER) | N/A |
+| 35 | [Gcash](http://twitter.com/search?q=Gcash) | N/A |
+| 36 | [Lorie](http://twitter.com/search?q=Lorie) | N/A |
+| 37 | [Here Lies Love](http://twitter.com/search?q=Here+Lies+Love) | N/A |
+| 38 | [Bicol Express](http://twitter.com/search?q=Bicol+Express) | N/A |
+| 39 | [Akari](http://twitter.com/search?q=Akari) | N/A |
+| 40 | [VXON GOES TO USA](http://twitter.com/search?q=VXON+GOES+TO+USA) | N/A |
+| 41 | [JOKENxJOKERS Compl3xWild2night](http://twitter.com/search?q=JOKENxJOKERS+Compl3xWild2night) | N/A |
+| 42 | [JK LIVE](http://twitter.com/search?q=JK+LIVE) | JK LIVE is a Japanese streaming service that allows users to watch live broadcasts of events, concerts, and other entertainment. The acronym stands for "Japan Kansai Live", referring to the Kansai region of Japan where the service is based. |
+| 43 | [Circle 3](http://twitter.com/search?q=Circle+3) | N/A |
+| 44 | [Terry](http://twitter.com/search?q=Terry) | N/A |
+| 45 | [anji onemega womentowatch](http://twitter.com/search?q=anji+onemega+womentowatch) | N/A |
+| 46 | [Benny](http://twitter.com/search?q=Benny) | N/A |
+| 47 | [Candace](http://twitter.com/search?q=Candace) | N/A |
+| 48 | [LTFRB](http://twitter.com/search?q=LTFRB) | N/A |
+| 49 | [LEE HEESEUNG](http://twitter.com/search?q=LEE+HEESEUNG) | Lee Heeseung is a South Korean singer, songwriter, and actor. He debuted as a member of the boy group N.Flying in 2013 and has since released several solo albums. The name Lee Heeseung translates to "shining star" in English. |
 
 
 

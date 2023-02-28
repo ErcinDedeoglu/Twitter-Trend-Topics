@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Giza
 
-📆 Last Updated: `2023-02-28 17:16:23 UTC`
+📆 Last Updated: `2023-02-28 18:17:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Egypt](</Egypt>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
-| 2 | [#مجلس_مرتضي_باطل](http://twitter.com/search?q=%23%d9%85%d8%ac%d9%84%d8%b3_%d9%85%d8%b1%d8%aa%d8%b6%d9%8a_%d8%a8%d8%a7%d8%b7%d9%84) | N/A |
-| 3 | [#خلاها](http://twitter.com/search?q=%23%d8%ae%d9%84%d8%a7%d9%87%d8%a7) | N/A |
-| 4 | [#مصر_السيسي_تنتصر_دايما](http://twitter.com/search?q=%23%d9%85%d8%b5%d8%b1_%d8%a7%d9%84%d8%b3%d9%8a%d8%b3%d9%8a_%d8%aa%d9%86%d8%aa%d8%b5%d8%b1_%d8%af%d8%a7%d9%8a%d9%85%d8%a7) | N/A |
-| 5 | [جامعه المنصوره](http://twitter.com/search?q=%d8%ac%d8%a7%d9%85%d8%b9%d9%87+%d8%a7%d9%84%d9%85%d9%86%d8%b5%d9%88%d8%b1%d9%87) | N/A |
-| 6 | [تشكيل الاهلي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%83%d9%8a%d9%84+%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a) | N/A |
-| 7 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
-| 8 | [الفيفا](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%8a%d9%81%d8%a7) | N/A |
-| 9 | [#_بيحصل](http://twitter.com/search?q=%23_%d8%a8%d9%8a%d8%ad%d8%b5%d9%84) | N/A |
-| 10 | [#ساره_محمد](http://twitter.com/search?q=%23%d8%b3%d8%a7%d8%b1%d9%87_%d9%85%d8%ad%d9%85%d8%af) | N/A |
-| 11 | [مارتينيز](http://twitter.com/search?q=%d9%85%d8%a7%d8%b1%d8%aa%d9%8a%d9%86%d9%8a%d8%b2) | مارتينيز is a type of traditional Middle Eastern pastry. It is made with thin layers of dough filled with nuts, honey, and spices. In English, it is sometimes referred to as "baklava". |
-| 12 | [بنزيما](http://twitter.com/search?q=%d8%a8%d9%86%d8%b2%d9%8a%d9%85%d8%a7) | بنزيما (benzema) is a surname of Arabic origin. It is derived from the Arabic word "bin zamān" which means "son of time". In English, it can be translated to mean "son of time". |
-| 13 | [جدول الامتحانات](http://twitter.com/search?q=%d8%ac%d8%af%d9%88%d9%84+%d8%a7%d9%84%d8%a7%d9%85%d8%aa%d8%ad%d8%a7%d9%86%d8%a7%d8%aa) | N/A |
-| 14 | [الابا](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%a8%d8%a7) | الابا is an Arabic word meaning "father". |
-| 15 | [سليمان وهدان](http://twitter.com/search?q=%d8%b3%d9%84%d9%8a%d9%85%d8%a7%d9%86+%d9%88%d9%87%d8%af%d8%a7%d9%86) | N/A |
-| 16 | [كاس العالم](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | كاس العالم (Kass al-Alam) is an Arabic phrase meaning "World Cup". It is used to refer to the FIFA World Cup, an international football tournament held every four years. |
-| 17 | [رييس وزراء المجر](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d9%88%d8%b2%d8%b1%d8%a7%d8%a1+%d8%a7%d9%84%d9%85%d8%ac%d8%b1) | N/A |
-| 18 | [مروان حمدي](http://twitter.com/search?q=%d9%85%d8%b1%d9%88%d8%a7%d9%86+%d8%ad%d9%85%d8%af%d9%8a) | N/A |
-| 19 | [ميسى](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%89) | N/A |
-| 20 | [اليوم الثلاثاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d9%84%d8%a7%d8%ab%d8%a7%d8%a1) | اليوم الثلاثاء is Arabic for "Tuesday" and it means "Tuesday" in English. |
-| 21 | [الرباط الداخلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d8%a8%d8%a7%d8%b7+%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a) | N/A |
-| 22 | [سامح شكري](http://twitter.com/search?q=%d8%b3%d8%a7%d9%85%d8%ad+%d8%b4%d9%83%d8%b1%d9%8a) | N/A |
-| 23 | [محمد معروف](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d9%85%d8%b9%d8%b1%d9%88%d9%81) | N/A |
-| 24 | [الثانويه العامه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%88%d9%8a%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87) | N/A |
-| 25 | [28 فبراير 2023](http://twitter.com/search?q=28+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1+2023) | N/A |
-| 26 | [محمد اشرف](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a7%d8%b4%d8%b1%d9%81) | N/A |
-| 27 | [جمب الشباك](http://twitter.com/search?q=%d8%ac%d9%85%d8%a8+%d8%a7%d9%84%d8%b4%d8%a8%d8%a7%d9%83) | N/A |
-| 28 | [ROVER IS COMING](http://twitter.com/search?q=ROVER+IS+COMING) | N/A |
-| 29 | [شهر مارس](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
-| 30 | [خالد عبد الفتاح](http://twitter.com/search?q=%d8%ae%d8%a7%d9%84%d8%af+%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d9%81%d8%aa%d8%a7%d8%ad) | N/A |
-| 31 | [الكره الذهبيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d8%b1%d9%87+%d8%a7%d9%84%d8%b0%d9%87%d8%a8%d9%8a%d9%87) | N/A |
-| 32 | [طويل العمر](http://twitter.com/search?q=%d8%b7%d9%88%d9%8a%d9%84+%d8%a7%d9%84%d8%b9%d9%85%d8%b1) | N/A |
-| 33 | [الجوايز الفرديه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%88%d8%a7%d9%8a%d8%b2+%d8%a7%d9%84%d9%81%d8%b1%d8%af%d9%8a%d9%87) | N/A |
-| 34 | [اليوم الاثنين](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86) | اليوم الاثنين is Arabic for "Monday" and it means "Monday" in English. |
-| 35 | [الاعمال القطريين](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d8%a7%d9%84+%d8%a7%d9%84%d9%82%d8%b7%d8%b1%d9%8a%d9%8a%d9%86) | N/A |
-| 36 | [كاس عالم](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%b9%d8%a7%d9%84%d9%85) | كاس عالم (Kass Al-Alam) is an Arabic phrase meaning "World Cup". It is used to refer to the FIFA World Cup, an international football tournament held every four years. |
-| 37 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 38 | [فان دايك](http://twitter.com/search?q=%d9%81%d8%a7%d9%86+%d8%af%d8%a7%d9%8a%d9%83) | N/A |
-| 39 | [البيت الابراهيمي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%8a%d8%aa+%d8%a7%d9%84%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85%d9%8a) | N/A |
-| 40 | [ديل موندو](http://twitter.com/search?q=%d8%af%d9%8a%d9%84+%d9%85%d9%88%d9%86%d8%af%d9%88) | N/A |
-| 41 | [فالنسيا](http://twitter.com/search?q=%d9%81%d8%a7%d9%84%d9%86%d8%b3%d9%8a%d8%a7) | فالنسيا is an Arabic phrase that translates to "farewell" in English. It is used as a way of saying goodbye or expressing good wishes when someone is leaving. |
-| 42 | [غير الخيبان](http://twitter.com/search?q=%d8%ba%d9%8a%d8%b1+%d8%a7%d9%84%d8%ae%d9%8a%d8%a8%d8%a7%d9%86) | N/A |
-| 43 | [امير قطر](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a%d8%b1+%d9%82%d8%b7%d8%b1) | N/A |
-| 44 | [جيش مصر](http://twitter.com/search?q=%d8%ac%d9%8a%d8%b4+%d9%85%d8%b5%d8%b1) | N/A |
-| 45 | [مرتضى منصور](http://twitter.com/search?q=%d9%85%d8%b1%d8%aa%d8%b6%d9%89+%d9%85%d9%86%d8%b5%d9%88%d8%b1) | N/A |
-| 46 | [أشرف حكيمي](http://twitter.com/search?q=%d8%a3%d8%b4%d8%b1%d9%81+%d8%ad%d9%83%d9%8a%d9%85%d9%8a) | N/A |
-| 47 | [جيش السيسي](http://twitter.com/search?q=%d8%ac%d9%8a%d8%b4+%d8%a7%d9%84%d8%b3%d9%8a%d8%b3%d9%8a) | N/A |
-| 48 | [منى زكي](http://twitter.com/search?q=%d9%85%d9%86%d9%89+%d8%b2%d9%83%d9%8a) | N/A |
+| 1 | [محمد اشرف](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a7%d8%b4%d8%b1%d9%81) | N/A |
+| 2 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
+| 3 | [محمد طاهر](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%b7%d8%a7%d9%87%d8%b1) | N/A |
+| 4 | [#الاهلي_الداخليه](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a_%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a%d9%87) | N/A |
+| 5 | [الشوط التاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%aa%d8%a7%d9%86%d9%8a) | N/A |
+| 6 | [#خلاها](http://twitter.com/search?q=%23%d8%ae%d9%84%d8%a7%d9%87%d8%a7) | N/A |
+| 7 | [#مجلس_مرتضي_باطل](http://twitter.com/search?q=%23%d9%85%d8%ac%d9%84%d8%b3_%d9%85%d8%b1%d8%aa%d8%b6%d9%8a_%d8%a8%d8%a7%d8%b7%d9%84) | N/A |
+| 8 | [الشوط الاول](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | الشوط الاول is an Arabic phrase that translates to "the first round" or "the first stage". It is often used to refer to the beginning of a process or competition. |
+| 9 | [علاء عبد العال](http://twitter.com/search?q=%d8%b9%d9%84%d8%a7%d8%a1+%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d8%b9%d8%a7%d9%84) | N/A |
+| 10 | [#مصر_السيسي_تنتصر_دايما](http://twitter.com/search?q=%23%d9%85%d8%b5%d8%b1_%d8%a7%d9%84%d8%b3%d9%8a%d8%b3%d9%8a_%d8%aa%d9%86%d8%aa%d8%b5%d8%b1_%d8%af%d8%a7%d9%8a%d9%85%d8%a7) | N/A |
+| 11 | [استاد السلام](http://twitter.com/search?q=%d8%a7%d8%b3%d8%aa%d8%a7%d8%af+%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85) | N/A |
+| 12 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
+| 13 | [#_بيحصل](http://twitter.com/search?q=%23_%d8%a8%d9%8a%d8%ad%d8%b5%d9%84) | N/A |
+| 14 | [الفيفا](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%8a%d9%81%d8%a7) | N/A |
+| 15 | [بيرسي تاو](http://twitter.com/search?q=%d8%a8%d9%8a%d8%b1%d8%b3%d9%8a+%d8%aa%d8%a7%d9%88) | بيرسي تاو is a phrase in Arabic that translates to "Be careful". It is used as a warning or cautionary statement. |
+| 16 | [مارتينيز](http://twitter.com/search?q=%d9%85%d8%a7%d8%b1%d8%aa%d9%8a%d9%86%d9%8a%d8%b2) | مارتينيز is a type of traditional Middle Eastern pastry. It is made with thin layers of dough filled with nuts, honey, and spices. In English, it is sometimes referred to as "baklava". |
+| 17 | [بنزيما](http://twitter.com/search?q=%d8%a8%d9%86%d8%b2%d9%8a%d9%85%d8%a7) | بنزيما (benzema) is a surname of Arabic origin. It is derived from the Arabic word "bin zamān" which means "son of time". In English, it can be translated to mean "son of time". |
+| 18 | [جدول الامتحانات](http://twitter.com/search?q=%d8%ac%d8%af%d9%88%d9%84+%d8%a7%d9%84%d8%a7%d9%85%d8%aa%d8%ad%d8%a7%d9%86%d8%a7%d8%aa) | N/A |
+| 19 | [كاس العالم](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | كاس العالم (Kass al-Alam) is an Arabic phrase meaning "World Cup". It is used to refer to the FIFA World Cup, an international football tournament held every four years. |
+| 20 | [الابا](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%a8%d8%a7) | الابا is an Arabic word meaning "father". |
+| 21 | [محمد معروف](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d9%85%d8%b9%d8%b1%d9%88%d9%81) | N/A |
+| 22 | [سليمان وهدان](http://twitter.com/search?q=%d8%b3%d9%84%d9%8a%d9%85%d8%a7%d9%86+%d9%88%d9%87%d8%af%d8%a7%d9%86) | N/A |
+| 23 | [اليوم الثلاثاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d9%84%d8%a7%d8%ab%d8%a7%d8%a1) | اليوم الثلاثاء is Arabic for "Tuesday" and it means "Tuesday" in English. |
+| 24 | [سامح شكري](http://twitter.com/search?q=%d8%b3%d8%a7%d9%85%d8%ad+%d8%b4%d9%83%d8%b1%d9%8a) | N/A |
+| 25 | [ميسى](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%89) | N/A |
+| 26 | [رييس وزراء المجر](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d9%88%d8%b2%d8%b1%d8%a7%d8%a1+%d8%a7%d9%84%d9%85%d8%ac%d8%b1) | N/A |
+| 27 | [مروان](http://twitter.com/search?q=%d9%85%d8%b1%d9%88%d8%a7%d9%86) | N/A |
+| 28 | [الرباط الداخلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d8%a8%d8%a7%d8%b7+%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a) | N/A |
+| 29 | [جامعه المنصوره](http://twitter.com/search?q=%d8%ac%d8%a7%d9%85%d8%b9%d9%87+%d8%a7%d9%84%d9%85%d9%86%d8%b5%d9%88%d8%b1%d9%87) | N/A |
+| 30 | [28 فبراير 2023](http://twitter.com/search?q=28+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1+2023) | N/A |
+| 31 | [المجلس الاعلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d9%8a) | N/A |
+| 32 | [كهربا](http://twitter.com/search?q=%d9%83%d9%87%d8%b1%d8%a8%d8%a7) | كهربا (kahrba) is the Arabic word for electricity. In English, it means "electricity". |
+| 33 | [شهر مارس](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
+| 34 | [طويل العمر](http://twitter.com/search?q=%d8%b7%d9%88%d9%8a%d9%84+%d8%a7%d9%84%d8%b9%d9%85%d8%b1) | N/A |
+| 35 | [شادي حسين](http://twitter.com/search?q=%d8%b4%d8%a7%d8%af%d9%8a+%d8%ad%d8%b3%d9%8a%d9%86) | شادي حسين is an Arabic phrase that translates to "Happy Hussein" in English. It is a common expression of joy and celebration, often used to express congratulations or good wishes. |
+| 36 | [الثانويه العامه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%88%d9%8a%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87) | N/A |
+| 37 | [كاريوس](http://twitter.com/search?q=%d9%83%d8%a7%d8%b1%d9%8a%d9%88%d8%b3) | N/A |
+| 38 | [الكره الذهبيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d8%b1%d9%87+%d8%a7%d9%84%d8%b0%d9%87%d8%a8%d9%8a%d9%87) | N/A |
+| 39 | [خالد عبد الفتاح](http://twitter.com/search?q=%d8%ae%d8%a7%d9%84%d8%af+%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d9%81%d8%aa%d8%a7%d8%ad) | N/A |
+| 40 | [جمب الشباك](http://twitter.com/search?q=%d8%ac%d9%85%d8%a8+%d8%a7%d9%84%d8%b4%d8%a8%d8%a7%d9%83) | N/A |
+| 41 | [اليوم الاثنين](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86) | اليوم الاثنين is Arabic for "Monday" and it means "Monday" in English. |
+| 42 | [التواصل الاجتماعي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%88%d8%a7%d8%b5%d9%84+%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a) | N/A |
+| 43 | [النيابه العامه](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d9%8a%d8%a7%d8%a8%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87) | N/A |
+| 44 | [الاعمال القطريين](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d8%a7%d9%84+%d8%a7%d9%84%d9%82%d8%b7%d8%b1%d9%8a%d9%8a%d9%86) | N/A |
+| 45 | [حمدي](http://twitter.com/search?q=%d8%ad%d9%85%d8%af%d9%8a) | N/A |
+| 46 | [كاس عالم](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%b9%d8%a7%d9%84%d9%85) | كاس عالم (Kass Al-Alam) is an Arabic phrase meaning "World Cup". It is used to refer to the FIFA World Cup, an international football tournament held every four years. |
+| 47 | [ديل موندو](http://twitter.com/search?q=%d8%af%d9%8a%d9%84+%d9%85%d9%88%d9%86%d8%af%d9%88) | N/A |
+| 48 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
 | 49 | [اللايحه الاسترشاديه](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d8%a7%d9%8a%d8%ad%d9%87+%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%b1%d8%b4%d8%a7%d8%af%d9%8a%d9%87) | N/A |
-| 50 | [لحم الكلاب](http://twitter.com/search?q=%d9%84%d8%ad%d9%85+%d8%a7%d9%84%d9%83%d9%84%d8%a7%d8%a8) | N/A |
+| 50 | [الجوايز الفرديه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%88%d8%a7%d9%8a%d8%b2+%d8%a7%d9%84%d9%81%d8%b1%d8%af%d9%8a%d9%87) | N/A |
 
 
 

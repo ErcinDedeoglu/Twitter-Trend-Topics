@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bordeaux
 
-📆 Last Updated: `2023-02-28 17:16:06 UTC`
+📆 Last Updated: `2023-02-28 18:16:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,41 +16,55 @@ This is top 50 for [France](</France>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 2 | [Upset](http://twitter.com/search?q=Upset) | N/A |
-| 3 | [#Papillomavirus](http://twitter.com/search?q=%23Papillomavirus) | N/A |
-| 4 | [#HONORMagic5Pro](http://twitter.com/search?q=%23HONORMagic5Pro) | N/A |
-| 5 | [Gharbi](http://twitter.com/search?q=Gharbi) | Gharbi is an Arabic word meaning "western". It is used to refer to things or people from the West, particularly Europe and North America. |
-| 6 | [#FreebetWinamax](http://twitter.com/search?q=%23FreebetWinamax) | N/A |
-| 7 | [Voiture 1](http://twitter.com/search?q=Voiture+1) | N/A |
-| 8 | [Vitality](http://twitter.com/search?q=Vitality) | N/A |
-| 9 | [Infantino](http://twitter.com/search?q=Infantino) | Infantino is a Spanish word meaning "little baby". It is often used as an affectionate term for a young child. |
-| 10 | [FFXVI](http://twitter.com/search?q=FFXVI) | N/A |
-| 11 | [Freeze Corleone](http://twitter.com/search?q=Freeze+Corleone) | N/A |
-| 12 | [ASTRO](http://twitter.com/search?q=ASTRO) | N/A |
-| 13 | [Comex](http://twitter.com/search?q=Comex) | N/A |
-| 14 | [Platini](http://twitter.com/search?q=Platini) | N/A |
-| 15 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
-| 16 | [Gardasil](http://twitter.com/search?q=Gardasil) | N/A |
-| 17 | [Milan AC](http://twitter.com/search?q=Milan+AC) | N/A |
-| 18 | [Miquella](http://twitter.com/search?q=Miquella) | N/A |
-| 19 | [Elden Ring](http://twitter.com/search?q=Elden+Ring) | N/A |
-| 20 | [Julien Pain](http://twitter.com/search?q=Julien+Pain) | N/A |
-| 21 | [Michelin](http://twitter.com/search?q=Michelin) | N/A |
-| 22 | [Fally](http://twitter.com/search?q=Fally) | N/A |
-| 23 | [#LeGraet](http://twitter.com/search?q=%23LeGraet) | N/A |
-| 24 | [#YouthLeague](http://twitter.com/search?q=%23YouthLeague) | N/A |
-| 25 | [#affaireconclue](http://twitter.com/search?q=%23affaireconclue) | N/A |
-| 26 | [#TicketsTwitter](http://twitter.com/search?q=%23TicketsTwitter) | N/A |
-| 27 | [#LesRP](http://twitter.com/search?q=%23LesRP) | N/A |
-| 28 | [#JISOOxDiorAW23](http://twitter.com/search?q=%23JISOOxDiorAW23) | N/A |
-| 29 | [#RareDiseaseDay](http://twitter.com/search?q=%23RareDiseaseDay) | N/A |
-| 30 | [#KAI_Rover](http://twitter.com/search?q=%23KAI_Rover) | N/A |
-| 31 | [#SIA2023](http://twitter.com/search?q=%23SIA2023) | N/A |
-| 32 | [#maladiesrares](http://twitter.com/search?q=%23maladiesrares) | N/A |
-| 33 | [#xPortal](http://twitter.com/search?q=%23xPortal) | N/A |
-| 34 | [#OLGF38](http://twitter.com/search?q=%23OLGF38) | N/A |
-| 35 | [#OMAnnecy](http://twitter.com/search?q=%23OMAnnecy) | N/A |
-| 36 | [#MardiConseil](http://twitter.com/search?q=%23MardiConseil) | N/A |
+| 2 | [Housni](http://twitter.com/search?q=Housni) | Housni is an Arabic name that means "good luck". It is often used as a term of endearment or to express good wishes. |
+| 3 | [#HONORMagic5Pro](http://twitter.com/search?q=%23HONORMagic5Pro) | N/A |
+| 4 | [#SIA2023](http://twitter.com/search?q=%23SIA2023) | N/A |
+| 5 | [#LeGraet](http://twitter.com/search?q=%23LeGraet) | N/A |
+| 6 | [Payet](http://twitter.com/search?q=Payet) | Payet is a French surname. It is derived from the Old French word "paie," which means "payment." In English, it can be translated to mean "one who pays." |
+| 7 | [Gharbi](http://twitter.com/search?q=Gharbi) | Gharbi is an Arabic word meaning "western". It is used to refer to things or people from the West, particularly Europe and North America. |
+| 8 | [Ethnicité](http://twitter.com/search?q=Ethnicit%c3%a9) | N/A |
+| 9 | [#Papillomavirus](http://twitter.com/search?q=%23Papillomavirus) | N/A |
+| 10 | [Youth League](http://twitter.com/search?q=Youth+League) | N/A |
+| 11 | [Hilona](http://twitter.com/search?q=Hilona) | N/A |
+| 12 | [#ASCFCGB](http://twitter.com/search?q=%23ASCFCGB) | N/A |
+| 13 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
+| 14 | [Balkany](http://twitter.com/search?q=Balkany) | N/A |
+| 15 | [Julien Bert](http://twitter.com/search?q=Julien+Bert) | N/A |
+| 16 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 17 | [Miquella](http://twitter.com/search?q=Miquella) | N/A |
+| 18 | [Infantino](http://twitter.com/search?q=Infantino) | Infantino is a Spanish word meaning "little baby". It is often used as an affectionate term for a young child. |
+| 19 | [Puskas](http://twitter.com/search?q=Puskas) | N/A |
+| 20 | [Upset](http://twitter.com/search?q=Upset) | N/A |
+| 21 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
+| 22 | [Tweek](http://twitter.com/search?q=Tweek) | Tweek is a slang term used to describe someone who is overly anxious or nervous. It can also be used to describe someone who is easily agitated or excitable. |
+| 23 | [Suicune](http://twitter.com/search?q=Suicune) | N/A |
+| 24 | [Voiture 1](http://twitter.com/search?q=Voiture+1) | N/A |
+| 25 | [Comex](http://twitter.com/search?q=Comex) | N/A |
+| 26 | [Bamba](http://twitter.com/search?q=Bamba) | N/A |
+| 27 | [Machac](http://twitter.com/search?q=Machac) | N/A |
+| 28 | [Platini](http://twitter.com/search?q=Platini) | N/A |
+| 29 | [Peter Pan](http://twitter.com/search?q=Peter+Pan) | N/A |
+| 30 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 31 | [Bachelot](http://twitter.com/search?q=Bachelot) | N/A |
+| 32 | [Marseille](http://twitter.com/search?q=Marseille) | N/A |
+| 33 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
+| 34 | [Michelin](http://twitter.com/search?q=Michelin) | N/A |
+| 35 | [Pétain](http://twitter.com/search?q=P%c3%a9tain) | N/A |
+| 36 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 37 | [Ruben Östlund](http://twitter.com/search?q=Ruben+%c3%96stlund) | N/A |
+| 38 | [Fransergio](http://twitter.com/search?q=Fransergio) | N/A |
+| 39 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
+| 40 | [Aziliz](http://twitter.com/search?q=Aziliz) | N/A |
+| 41 | [Neon](http://twitter.com/search?q=Neon) | N/A |
+| 42 | [Christine Angot](http://twitter.com/search?q=Christine+Angot) | N/A |
+| 43 | [Mkleo](http://twitter.com/search?q=Mkleo) | Mkleo is the name of a professional Super Smash Bros. Ultimate player from the United States. His real name is Leonardo Lopez Perez. The name Mkleo is derived from his initials, MLP, which stands for "Leonardo Lopez Perez". |
+| 44 | [Badji](http://twitter.com/search?q=Badji) | N/A |
+| 45 | [Guy Savoy](http://twitter.com/search?q=Guy+Savoy) | N/A |
+| 46 | [Hamza](http://twitter.com/search?q=Hamza) | Hamza is an Arabic name meaning "strong". It is also a common surname in the Middle East and North Africa. |
+| 47 | [Estrosi](http://twitter.com/search?q=Estrosi) | N/A |
+| 48 | [Indian Wells](http://twitter.com/search?q=Indian+Wells) | N/A |
+| 49 | [Salon](http://twitter.com/search?q=Salon) | N/A |
+| 50 | [Shadow of the Erdtree](http://twitter.com/search?q=Shadow+of+the+Erdtree) | N/A |
 
 
 

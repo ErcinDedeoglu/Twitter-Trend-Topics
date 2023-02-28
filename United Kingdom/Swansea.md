@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Swansea
 
-📆 Last Updated: `2023-02-28 17:15:57 UTC`
+📆 Last Updated: `2023-02-28 18:16:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Destiny2Lightfall](http://twitter.com/search?q=%23Destiny2Lightfall) | N/A |
-| 2 | [Northern Ireland](http://twitter.com/search?q=Northern+Ireland) | N/A |
-| 3 | [#AntonymFilmTitles](http://twitter.com/search?q=%23AntonymFilmTitles) | N/A |
-| 4 | [#RareDiseaseDay](http://twitter.com/search?q=%23RareDiseaseDay) | N/A |
-| 5 | [Oakeshott](http://twitter.com/search?q=Oakeshott) | N/A |
-| 6 | [Jacqui Smith](http://twitter.com/search?q=Jacqui+Smith) | N/A |
-| 7 | [Single Market](http://twitter.com/search?q=Single+Market) | N/A |
-| 8 | [Scotland and Wales](http://twitter.com/search?q=Scotland+and+Wales) | N/A |
-| 9 | [Rishi](http://twitter.com/search?q=Rishi) | N/A |
-| 10 | [Tom Sizemore](http://twitter.com/search?q=Tom+Sizemore) | N/A |
-| 11 | [Malone](http://twitter.com/search?q=Malone) | N/A |
-| 12 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
-| 13 | [UK and EU](http://twitter.com/search?q=UK+and+EU) | N/A |
-| 14 | [History Month](http://twitter.com/search?q=History+Month) | N/A |
-| 15 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
-| 16 | [Wike](http://twitter.com/search?q=Wike) | Wike is a term used in the Philippines to refer to a person who is knowledgeable or wise. It is derived from the Tagalog word "wikain," which means "to know." In English, it can be translated as "wise" or "knowledgeable." |
-| 17 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
-| 18 | [Justin Bieber](http://twitter.com/search?q=Justin+Bieber) | N/A |
-| 19 | [Isla Bryson](http://twitter.com/search?q=Isla+Bryson) | N/A |
-| 20 | [Year 4](http://twitter.com/search?q=Year+4) | N/A |
-| 21 | [Pete Davidson](http://twitter.com/search?q=Pete+Davidson) | Pete Davidson is an American comedian, actor, and writer. He is best known for being a cast member on Saturday Night Live since 2014. He has also appeared in films such as Big Time Adolescence and The King of Staten Island. |
-| 22 | [Elden Ring DLC](http://twitter.com/search?q=Elden+Ring+DLC) | N/A |
-| 23 | [Coca Cola](http://twitter.com/search?q=Coca+Cola) | N/A |
-| 24 | [Adam Graham](http://twitter.com/search?q=Adam+Graham) | N/A |
-| 25 | [Bristol City](http://twitter.com/search?q=Bristol+City) | N/A |
-| 26 | [Ford](http://twitter.com/search?q=Ford) | Ford is an American multinational automaker that designs, manufactures, markets, and services a range of cars, trucks, SUVs, and electrified vehicles. The company's name is derived from the surname of its founder, Henry Ford. |
-| 27 | [Miquella](http://twitter.com/search?q=Miquella) | N/A |
-| 28 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 29 | [Mark Gordon](http://twitter.com/search?q=Mark+Gordon) | N/A |
-| 30 | [EU and UK](http://twitter.com/search?q=EU+and+UK) | N/A |
-| 31 | [Abuja](http://twitter.com/search?q=Abuja) | N/A |
-| 32 | [St David](http://twitter.com/search?q=St+David) | N/A |
-| 33 | [Wales and Scotland](http://twitter.com/search?q=Wales+and+Scotland) | N/A |
-| 34 | [Brexiteers](http://twitter.com/search?q=Brexiteers) | N/A |
-| 35 | [Noel](http://twitter.com/search?q=Noel) | Noel is a French word meaning "Christmas". It is often used as a greeting during the Christmas season. |
-| 36 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
-| 37 | [International Women's Day](http://twitter.com/search?q=International+Women%27s+Day) | N/A |
-| 38 | [Remain](http://twitter.com/search?q=Remain) | N/A |
-| 39 | [ASTRO](http://twitter.com/search?q=ASTRO) | N/A |
-| 40 | [Tottenham Hotspur](http://twitter.com/search?q=Tottenham+Hotspur) | N/A |
-| 41 | [Mr Sunak](http://twitter.com/search?q=Mr+Sunak) | N/A |
-| 42 | [UK and the EU](http://twitter.com/search?q=UK+and+the+EU) | N/A |
-| 43 | [Koran](http://twitter.com/search?q=Koran) | N/A |
-| 44 | [Cleverly](http://twitter.com/search?q=Cleverly) | Cleverly is an adverb that means in a skillful or clever manner. It is used to describe someone who is able to think quickly and come up with creative solutions. |
-| 45 | [Omos](http://twitter.com/search?q=Omos) | N/A |
-| 46 | [Reception](http://twitter.com/search?q=Reception) | N/A |
-| 47 | [Rupert Murdoch](http://twitter.com/search?q=Rupert+Murdoch) | N/A |
-| 48 | [Daily Quordle 400](http://twitter.com/search?q=Daily+Quordle+400) | N/A |
+| 2 | [#TheChase](http://twitter.com/search?q=%23TheChase) | N/A |
+| 3 | [Oakeshott](http://twitter.com/search?q=Oakeshott) | N/A |
+| 4 | [Peter Pan](http://twitter.com/search?q=Peter+Pan) | N/A |
+| 5 | [#constancemarten](http://twitter.com/search?q=%23constancemarten) | N/A |
+| 6 | [Northern Ireland](http://twitter.com/search?q=Northern+Ireland) | N/A |
+| 7 | [AC Milan](http://twitter.com/search?q=AC+Milan) | AC Milan is a professional Italian football club based in Milan, Italy. The club is one of the most successful teams in the world, having won 18 FIFA and UEFA titles. The acronym AC stands for Associazione Calcio (Italian for Football Association). |
+| 8 | [Jacqui Smith](http://twitter.com/search?q=Jacqui+Smith) | N/A |
+| 9 | [Wike](http://twitter.com/search?q=Wike) | Wike is a term used in the Philippines to refer to a person who is knowledgeable or wise. It is derived from the Tagalog word "wikain," which means "to know." In English, it can be translated as "wise" or "knowledgeable." |
+| 10 | [Isabel](http://twitter.com/search?q=Isabel) | N/A |
+| 11 | [Single Market](http://twitter.com/search?q=Single+Market) | N/A |
+| 12 | [Olivier](http://twitter.com/search?q=Olivier) | N/A |
+| 13 | [Scotland and Wales](http://twitter.com/search?q=Scotland+and+Wales) | N/A |
+| 14 | [Rishi](http://twitter.com/search?q=Rishi) | N/A |
+| 15 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
+| 16 | [Adam Graham](http://twitter.com/search?q=Adam+Graham) | N/A |
+| 17 | [UK and EU](http://twitter.com/search?q=UK+and+EU) | N/A |
+| 18 | [History Month](http://twitter.com/search?q=History+Month) | N/A |
+| 19 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 20 | [St David](http://twitter.com/search?q=St+David) | N/A |
+| 21 | [Isla Bryson](http://twitter.com/search?q=Isla+Bryson) | N/A |
+| 22 | [Year 4](http://twitter.com/search?q=Year+4) | N/A |
+| 23 | [Brexiteer](http://twitter.com/search?q=Brexiteer) | N/A |
+| 24 | [European Union](http://twitter.com/search?q=European+Union) | N/A |
+| 25 | [EU and UK](http://twitter.com/search?q=EU+and+UK) | N/A |
+| 26 | [Noel](http://twitter.com/search?q=Noel) | Noel is a French word meaning "Christmas". It is often used as a greeting during the Christmas season. |
+| 27 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 28 | [Windsor Framework](http://twitter.com/search?q=Windsor+Framework) | N/A |
+| 29 | [Remainers](http://twitter.com/search?q=Remainers) | N/A |
+| 30 | [Thiago Silva](http://twitter.com/search?q=Thiago+Silva) | Thiago Silva is a Brazilian professional footballer who plays as a central defender for Paris Saint-Germain and the Brazil national team. In English, Thiago Silva means "Saint Thomas". |
+| 31 | [#RareDiseaseDay](http://twitter.com/search?q=%23RareDiseaseDay) | N/A |
+| 32 | [#GuardianGiveaways](http://twitter.com/search?q=%23GuardianGiveaways) | N/A |
+| 33 | [#BrexitDisaster](http://twitter.com/search?q=%23BrexitDisaster) | N/A |
+| 34 | [#TippingPoint](http://twitter.com/search?q=%23TippingPoint) | N/A |
+| 35 | [#AskMooy](http://twitter.com/search?q=%23AskMooy) | N/A |
+| 36 | [#BridgeOfLies](http://twitter.com/search?q=%23BridgeOfLies) | N/A |
+| 37 | [#FACup](http://twitter.com/search?q=%23FACup) | #FACup is an abbreviation for the Football Association Challenge Cup, which is an annual knockout football competition in England. It is the oldest football competition in the world and is open to all teams from the top four tiers of English football. |
+| 38 | [#TeacherStrike](http://twitter.com/search?q=%23TeacherStrike) | N/A |
+| 39 | [#PoliticsLive](http://twitter.com/search?q=%23PoliticsLive) | N/A |
+| 40 | [#BrexitDeal](http://twitter.com/search?q=%23BrexitDeal) | N/A |
+| 41 | [#WindsorAgreement](http://twitter.com/search?q=%23WindsorAgreement) | N/A |
+| 42 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
+| 43 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 44 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 45 | [#SaveOurSchools](http://twitter.com/search?q=%23SaveOurSchools) | N/A |
+| 46 | [#PayAttention](http://twitter.com/search?q=%23PayAttention) | N/A |
+| 47 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
+| 48 | [#readingforpleasure](http://twitter.com/search?q=%23readingforpleasure) | N/A |
 
 
 

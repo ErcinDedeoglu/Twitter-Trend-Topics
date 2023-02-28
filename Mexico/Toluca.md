@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Toluca
 
-📆 Last Updated: `2023-02-28 17:15:59 UTC`
+📆 Last Updated: `2023-02-28 18:16:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,42 +16,52 @@ This is top 50 for [Mexico](</Mexico>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
-| 2 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 3 | [Monterrey](http://twitter.com/search?q=Monterrey) | N/A |
-| 4 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
-| 5 | [#PoderosoConCalor](http://twitter.com/search?q=%23PoderosoConCalor) | N/A |
-| 6 | [Samuel](http://twitter.com/search?q=Samuel) | N/A |
-| 7 | [#JISOOxDiorAW23](http://twitter.com/search?q=%23JISOOxDiorAW23) | N/A |
-| 8 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
-| 9 | [ASTRO](http://twitter.com/search?q=ASTRO) | N/A |
-| 10 | [Stephen Colbert](http://twitter.com/search?q=Stephen+Colbert) | N/A |
-| 11 | [Perú](http://twitter.com/search?q=Per%c3%ba) | Perú is the official name of a country in South America. It is bordered by Ecuador and Colombia to the north, Brazil and Bolivia to the east, Chile to the south, and the Pacific Ocean to the west. The name Perú comes from a word in the native Quechua language meaning "land of abundance." |
-| 12 | [Santa Catarina](http://twitter.com/search?q=Santa+Catarina) | N/A |
-| 13 | [Wactor](http://twitter.com/search?q=Wactor) | N/A |
-| 14 | [Día Mundial](http://twitter.com/search?q=D%c3%ada+Mundial) | N/A |
-| 15 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
-| 16 | [Martes 28](http://twitter.com/search?q=Martes+28) | N/A |
-| 17 | [N.L.](http://twitter.com/search?q=N.L.) | N/A |
-| 18 | [Washington](http://twitter.com/search?q=Washington) | N/A |
-| 19 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 20 | [Quedaste](http://twitter.com/search?q=Quedaste) | N/A |
-| 21 | [Aluxe](http://twitter.com/search?q=Aluxe) | N/A |
-| 22 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
-| 23 | [Texas](http://twitter.com/search?q=Texas) | N/A |
-| 24 | [Alito](http://twitter.com/search?q=Alito) | Alito is a Spanish name meaning "little wing". It is also a surname. |
-| 25 | [#HAPPY_WONHO_DAY](http://twitter.com/search?q=%23HAPPY_WONHO_DAY) | N/A |
-| 26 | [#SquidcraftGames2](http://twitter.com/search?q=%23SquidcraftGames2) | N/A |
-| 27 | [#EnfermedadesRaras](http://twitter.com/search?q=%23EnfermedadesRaras) | N/A |
-| 28 | [#AmloEstaDesesperado](http://twitter.com/search?q=%23AmloEstaDesesperado) | N/A |
-| 29 | [#AMLOBurlaMundial](http://twitter.com/search?q=%23AMLOBurlaMundial) | N/A |
-| 30 | [#ELDENRING](http://twitter.com/search?q=%23ELDENRING) | N/A |
-| 31 | [#BuenMartes](http://twitter.com/search?q=%23BuenMartes) | N/A |
-| 32 | [#AMLOverguenzamundial](http://twitter.com/search?q=%23AMLOverguenzamundial) | N/A |
-| 33 | [#ConferenciaPresidente](http://twitter.com/search?q=%23ConferenciaPresidente) | N/A |
-| 34 | [#caminitoalaescuela](http://twitter.com/search?q=%23caminitoalaescuela) | N/A |
-| 35 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 36 | [#COVID19](http://twitter.com/search?q=%23COVID19) | N/A |
-| 37 | [#NuevoLaredo](http://twitter.com/search?q=%23NuevoLaredo) | N/A |
+| 2 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 3 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 4 | [#SquidCraft2](http://twitter.com/search?q=%23SquidCraft2) | N/A |
+| 5 | [Monterrey](http://twitter.com/search?q=Monterrey) | N/A |
+| 6 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
+| 7 | [Ana Gabriel](http://twitter.com/search?q=Ana+Gabriel) | N/A |
+| 8 | [#PeterPanAndWendy](http://twitter.com/search?q=%23PeterPanAndWendy) | N/A |
+| 9 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
+| 10 | [Zócalo](http://twitter.com/search?q=Z%c3%b3calo) | N/A |
+| 11 | [Samuel](http://twitter.com/search?q=Samuel) | N/A |
+| 12 | [Duvan](http://twitter.com/search?q=Duvan) | N/A |
+| 13 | [Lorena Merino](http://twitter.com/search?q=Lorena+Merino) | N/A |
+| 14 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 15 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
+| 16 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
+| 17 | [MATI ERES FORTALEZA](http://twitter.com/search?q=MATI+ERES+FORTALEZA) | N/A |
+| 18 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
+| 19 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
+| 20 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
+| 21 | [Nuevo Laredo](http://twitter.com/search?q=Nuevo+Laredo) | N/A |
+| 22 | [hannah montana](http://twitter.com/search?q=hannah+montana) | N/A |
+| 23 | [Quackity](http://twitter.com/search?q=Quackity) | N/A |
+| 24 | [LATE LATE SHOW WITH TXT](http://twitter.com/search?q=LATE+LATE+SHOW+WITH+TXT) | N/A |
+| 25 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 26 | [Germán](http://twitter.com/search?q=Germ%c3%a1n) | Germán is a Spanish and Portuguese name derived from the Latin Germanus, meaning "brother". It is also a Germanic given name, derived from the Germanic element ger, meaning "spear". |
+| 27 | [Auron](http://twitter.com/search?q=Auron) | Auron is a character from the popular video game series Final Fantasy. He is a powerful warrior who is known for his strength and wisdom. His name is derived from the Latin word aurum, which means "gold". In English, Auron can be translated to mean "golden one". |
+| 28 | [López](http://twitter.com/search?q=L%c3%b3pez) | N/A |
+| 29 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
+| 30 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 31 | [Dinamarca](http://twitter.com/search?q=Dinamarca) | N/A |
+| 32 | [ASTRO](http://twitter.com/search?q=ASTRO) | N/A |
+| 33 | [Sencillez](http://twitter.com/search?q=Sencillez) | N/A |
+| 34 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 35 | [Rayados](http://twitter.com/search?q=Rayados) | Rayados is the nickname of the Mexican soccer team Club de Fútbol Monterrey, which is based in Monterrey, Mexico. The name Rayados translates to "Striped Ones" in English, referring to the team's striped jerseys. |
+| 36 | [Luzu](http://twitter.com/search?q=Luzu) | Luzu is a Spanish word that means light. It is often used to refer to a bright, cheerful, and optimistic attitude. |
+| 37 | [Fernan](http://twitter.com/search?q=Fernan) | N/A |
+| 38 | [Di Yorio](http://twitter.com/search?q=Di+Yorio) | N/A |
+| 39 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 40 | [Coscu](http://twitter.com/search?q=Coscu) | N/A |
+| 41 | [Caligaris](http://twitter.com/search?q=Caligaris) | Caligaris is a Latin phrase meaning "in the boots of a soldier". It is often used to refer to someone who is tough, brave, and ready for battle. |
+| 42 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 43 | [Enfermedades Raras](http://twitter.com/search?q=Enfermedades+Raras) | N/A |
+| 44 | [Stephen Colbert](http://twitter.com/search?q=Stephen+Colbert) | N/A |
+| 45 | [Wactor](http://twitter.com/search?q=Wactor) | N/A |
+| 46 | [Palacio de Gobierno](http://twitter.com/search?q=Palacio+de+Gobierno) | N/A |
+| 47 | [Andrada](http://twitter.com/search?q=Andrada) | Andrada is a Spanish surname derived from the Latin word "andradus," which means "brave." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "brave one." |
 
 
 

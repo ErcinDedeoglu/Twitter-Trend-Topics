@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Haven
 
-📆 Last Updated: `2023-02-28 17:16:38 UTC`
+📆 Last Updated: `2023-02-28 18:17:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,51 +16,50 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 2 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
-| 3 | [#studentloanforgiveness](http://twitter.com/search?q=%23studentloanforgiveness) | N/A |
-| 4 | [Dreamville](http://twitter.com/search?q=Dreamville) | N/A |
-| 5 | [#RareDiseaseDay](http://twitter.com/search?q=%23RareDiseaseDay) | N/A |
-| 6 | [#Lightfall](http://twitter.com/search?q=%23Lightfall) | N/A |
-| 7 | [Kenny Golladay](http://twitter.com/search?q=Kenny+Golladay) | Kenny Golladay is an American football wide receiver for the Detroit Lions of the National Football League (NFL). He was drafted by the Lions in the third round of the 2017 NFL Draft. His name is a combination of his first and last names, Kenny and Golladay. |
-| 8 | [Mariota](http://twitter.com/search?q=Mariota) | N/A |
-| 9 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
-| 10 | [Poot](http://twitter.com/search?q=Poot) | N/A |
-| 11 | [SCOTUS](http://twitter.com/search?q=SCOTUS) | SCOTUS is an acronym for the Supreme Court of the United States. It is the highest court in the United States and is responsible for interpreting and applying federal laws. |
-| 12 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
-| 13 | [Elden Ring DLC](http://twitter.com/search?q=Elden+Ring+DLC) | N/A |
-| 14 | [Frazier](http://twitter.com/search?q=Frazier) | Frazier is a surname of Scottish origin. It is derived from the French word "fraise" meaning strawberry. The name was originally given to someone who lived near a strawberry patch or grew strawberries. |
-| 15 | [Miquella](http://twitter.com/search?q=Miquella) | N/A |
-| 16 | [Nudy](http://twitter.com/search?q=Nudy) | N/A |
-| 17 | [Colbert](http://twitter.com/search?q=Colbert) | N/A |
+| 2 | [#studentloanforgiveness](http://twitter.com/search?q=%23studentloanforgiveness) | N/A |
+| 3 | [#Lightfall](http://twitter.com/search?q=%23Lightfall) | N/A |
+| 4 | [#RareDiseaseDay](http://twitter.com/search?q=%23RareDiseaseDay) | N/A |
+| 5 | [Dreamville](http://twitter.com/search?q=Dreamville) | N/A |
+| 6 | [Gavin Lux](http://twitter.com/search?q=Gavin+Lux) | N/A |
+| 7 | [Peter Pan](http://twitter.com/search?q=Peter+Pan) | N/A |
+| 8 | [David Lowery](http://twitter.com/search?q=David+Lowery) | N/A |
+| 9 | [Puljujarvi](http://twitter.com/search?q=Puljujarvi) | N/A |
+| 10 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
+| 11 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
+| 12 | [Joanna McClinton](http://twitter.com/search?q=Joanna+McClinton) | N/A |
+| 13 | [Mariota](http://twitter.com/search?q=Mariota) | N/A |
+| 14 | [Patrick Corbin](http://twitter.com/search?q=Patrick+Corbin) | N/A |
+| 15 | [SCOTUS](http://twitter.com/search?q=SCOTUS) | SCOTUS is an acronym for the Supreme Court of the United States. It is the highest court in the United States and is responsible for interpreting and applying federal laws. |
+| 16 | [One Moment Please](http://twitter.com/search?q=One+Moment+Please) | N/A |
+| 17 | [Miquella](http://twitter.com/search?q=Miquella) | N/A |
 | 18 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 19 | [McDermott](http://twitter.com/search?q=McDermott) | McDermott is a surname of Irish origin. It is derived from the Gaelic Mac Diarmada, meaning "son of Diarmaid". The name is associated with County Roscommon in Ireland. |
+| 19 | [Kenny Golladay](http://twitter.com/search?q=Kenny+Golladay) | Kenny Golladay is an American football wide receiver for the Detroit Lions of the National Football League (NFL). He was drafted by the Lions in the third round of the 2017 NFL Draft. His name is a combination of his first and last names, Kenny and Golladay. |
 | 20 | [FFXVI](http://twitter.com/search?q=FFXVI) | N/A |
-| 21 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
-| 22 | [Ronnie Crosby](http://twitter.com/search?q=Ronnie+Crosby) | N/A |
-| 23 | [Dan Snyder](http://twitter.com/search?q=Dan+Snyder) | N/A |
-| 24 | [MOHELA](http://twitter.com/search?q=MOHELA) | N/A |
-| 25 | [David Hogg](http://twitter.com/search?q=David+Hogg) | N/A |
-| 26 | [Ridder](http://twitter.com/search?q=Ridder) | Ridder is a Dutch word meaning "knight" or "rider". It is used to refer to a person who has been knighted or who has been given a title of nobility. |
-| 27 | [Dr. Reimer](http://twitter.com/search?q=Dr.+Reimer) | N/A |
-| 28 | [Joe Musgrove](http://twitter.com/search?q=Joe+Musgrove) | N/A |
-| 29 | [Sotomayor](http://twitter.com/search?q=Sotomayor) | N/A |
-| 30 | [Final Fantasy XVI](http://twitter.com/search?q=Final+Fantasy+XVI) | N/A |
-| 31 | [Joe Douglas](http://twitter.com/search?q=Joe+Douglas) | N/A |
-| 32 | [ROCKY LEFT ASTRO](http://twitter.com/search?q=ROCKY+LEFT+ASTRO) | N/A |
-| 33 | [Herb](http://twitter.com/search?q=Herb) | Herb is a noun that refers to a plant that does not have a woody stem and usually dies back at the end of each growing season. It is used in cooking, medicine, and other areas. In English, the word herb can also refer to any aromatic plant material used for flavoring or scenting food, medicines, or other products. |
-| 34 | [Gavin Lux](http://twitter.com/search?q=Gavin+Lux) | N/A |
-| 35 | [Brandon Beane](http://twitter.com/search?q=Brandon+Beane) | N/A |
-| 36 | [Wonho](http://twitter.com/search?q=Wonho) | N/A |
-| 37 | [Goodell](http://twitter.com/search?q=Goodell) | Goodell is a surname of English origin. It is derived from the Old English words "god" and "wella," meaning "good spring." The name was originally given to someone who lived near a good spring or well. |
-| 38 | [JISOO THE FACE OF DIOR](http://twitter.com/search?q=JISOO+THE+FACE+OF+DIOR) | N/A |
-| 39 | [ROVER IS COMING](http://twitter.com/search?q=ROVER+IS+COMING) | N/A |
-| 40 | [Brian Johnson](http://twitter.com/search?q=Brian+Johnson) | N/A |
-| 41 | [HEROES Act](http://twitter.com/search?q=HEROES+Act) | N/A |
-| 42 | [Cole and Drake](http://twitter.com/search?q=Cole+and+Drake) | N/A |
+| 21 | [Nudy](http://twitter.com/search?q=Nudy) | N/A |
+| 22 | [Tinkerbell](http://twitter.com/search?q=Tinkerbell) | N/A |
+| 23 | [Perk](http://twitter.com/search?q=Perk) | N/A |
+| 24 | [Eric Adams](http://twitter.com/search?q=Eric+Adams) | N/A |
+| 25 | [ROCKY LEFT ASTRO](http://twitter.com/search?q=ROCKY+LEFT+ASTRO) | N/A |
+| 26 | [SEIZED](http://twitter.com/search?q=SEIZED) | N/A |
+| 27 | [Sotomayor](http://twitter.com/search?q=Sotomayor) | N/A |
+| 28 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
+| 29 | [Miguel Rojas](http://twitter.com/search?q=Miguel+Rojas) | Miguel Rojas is a Spanish name. It is composed of the given name Miguel, which is derived from the Hebrew name Michael, meaning "who is like God," and the surname Rojas, which means "red." |
+| 30 | [MOHELA](http://twitter.com/search?q=MOHELA) | N/A |
+| 31 | [Colbert](http://twitter.com/search?q=Colbert) | N/A |
+| 32 | [Joe Douglas](http://twitter.com/search?q=Joe+Douglas) | N/A |
+| 33 | [Elden Ring DLC](http://twitter.com/search?q=Elden+Ring+DLC) | N/A |
+| 34 | [McDermott](http://twitter.com/search?q=McDermott) | McDermott is a surname of Irish origin. It is derived from the Gaelic Mac Diarmada, meaning "son of Diarmaid". The name is associated with County Roscommon in Ireland. |
+| 35 | [Joe Musgrove](http://twitter.com/search?q=Joe+Musgrove) | N/A |
+| 36 | [Pete's Dragon](http://twitter.com/search?q=Pete%27s+Dragon) | N/A |
+| 37 | [Jason Licht](http://twitter.com/search?q=Jason+Licht) | N/A |
+| 38 | [Yoshi-P](http://twitter.com/search?q=Yoshi-P) | N/A |
+| 39 | [OC Boundaries](http://twitter.com/search?q=OC+Boundaries) | N/A |
+| 40 | [Dan Snyder](http://twitter.com/search?q=Dan+Snyder) | N/A |
+| 41 | [Heroes Act](http://twitter.com/search?q=Heroes+Act) | N/A |
+| 42 | [Matt Eberflus](http://twitter.com/search?q=Matt+Eberflus) | N/A |
 | 43 | [Kagan](http://twitter.com/search?q=Kagan) | N/A |
-| 44 | [Murdoch](http://twitter.com/search?q=Murdoch) | N/A |
-| 45 | [Lori Lightfoot](http://twitter.com/search?q=Lori+Lightfoot) | N/A |
-| 46 | [Yoshi-P](http://twitter.com/search?q=Yoshi-P) | N/A |
+| 44 | [David Hogg](http://twitter.com/search?q=David+Hogg) | N/A |
+| 45 | [Goldy](http://twitter.com/search?q=Goldy) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lagos
 
-📆 Last Updated: `2023-02-28 17:16:22 UTC`
+📆 Last Updated: `2023-02-28 18:17:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,54 @@ This is top 50 for [Nigeria](</Nigeria>)
 | ------- | ------------ | ------------ |
 | 1 | [Wike](http://twitter.com/search?q=Wike) | Wike is a term used in the Philippines to refer to a person who is knowledgeable or wise. It is derived from the Tagalog word "wikain," which means "to know." In English, it can be translated as "wise" or "knowledgeable." |
 | 2 | [#electionresults2023](http://twitter.com/search?q=%23electionresults2023) | N/A |
-| 3 | [LPDP](http://twitter.com/search?q=LPDP) | N/A |
-| 4 | [25% in FCT](http://twitter.com/search?q=25%25+in+FCT) | N/A |
-| 5 | [Obio-Akpor](http://twitter.com/search?q=Obio-Akpor) | N/A |
-| 6 | [PDP and LP](http://twitter.com/search?q=PDP+and+LP) | N/A |
-| 7 | [#TinubuIsNotComing](http://twitter.com/search?q=%23TinubuIsNotComing) | N/A |
-| 8 | [Section 299](http://twitter.com/search?q=Section+299) | N/A |
-| 9 | [LP and PDP](http://twitter.com/search?q=LP+and+PDP) | N/A |
-| 10 | [FCT 25%](http://twitter.com/search?q=FCT+25%25) | N/A |
-| 11 | [Abuja](http://twitter.com/search?q=Abuja) | N/A |
-| 12 | [#INECElectionResult](http://twitter.com/search?q=%23INECElectionResult) | N/A |
-| 13 | [#protest](http://twitter.com/search?q=%23protest) | N/A |
-| 14 | [25% in the FCT](http://twitter.com/search?q=25%25+in+the+FCT) | N/A |
-| 15 | [Femi Falana](http://twitter.com/search?q=Femi+Falana) | N/A |
-| 16 | [Constitution](http://twitter.com/search?q=Constitution) | N/A |
-| 17 | [Even APC](http://twitter.com/search?q=Even+APC) | N/A |
-| 18 | [#CongratulationsObidatti](http://twitter.com/search?q=%23CongratulationsObidatti) | N/A |
-| 19 | [federal capital territory](http://twitter.com/search?q=federal+capital+territory) | N/A |
-| 20 | [Okowa](http://twitter.com/search?q=Okowa) | N/A |
-| 21 | [Excel](http://twitter.com/search?q=Excel) | N/A |
-| 22 | [Dele Alake](http://twitter.com/search?q=Dele+Alake) | N/A |
-| 23 | [Section 134](http://twitter.com/search?q=Section+134) | N/A |
-| 24 | [25% of FCT](http://twitter.com/search?q=25%25+of+FCT) | N/A |
-| 25 | [APC PCC](http://twitter.com/search?q=APC+PCC) | N/A |
-| 26 | [24 States](http://twitter.com/search?q=24+States) | N/A |
-| 27 | [AND FCT](http://twitter.com/search?q=AND+FCT) | N/A |
-| 28 | [Simple English](http://twitter.com/search?q=Simple+English) | N/A |
-| 29 | [Gombe and Bauchi](http://twitter.com/search?q=Gombe+and+Bauchi) | N/A |
-| 30 | [African Union](http://twitter.com/search?q=African+Union) | N/A |
-| 31 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
-| 32 | [Mahmood Yakubu](http://twitter.com/search?q=Mahmood+Yakubu) | N/A |
-| 33 | [IELTS](http://twitter.com/search?q=IELTS) | N/A |
-| 34 | [Delta](http://twitter.com/search?q=Delta) | N/A |
-| 35 | [Chinedu](http://twitter.com/search?q=Chinedu) | N/A |
-| 36 | [After God](http://twitter.com/search?q=After+God) | N/A |
-| 37 | [Mike Igini](http://twitter.com/search?q=Mike+Igini) | N/A |
-| 38 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
-| 39 | [Accept](http://twitter.com/search?q=Accept) | N/A |
-| 40 | [Mahmoud](http://twitter.com/search?q=Mahmoud) | N/A |
-| 41 | [APC and INEC](http://twitter.com/search?q=APC+and+INEC) | N/A |
-| 42 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 43 | [Solomon](http://twitter.com/search?q=Solomon) | N/A |
-| 44 | [Akwa Ibom](http://twitter.com/search?q=Akwa+Ibom) | N/A |
-| 45 | [The PDP](http://twitter.com/search?q=The+PDP) | N/A |
-| 46 | [#PrimallEO](http://twitter.com/search?q=%23PrimallEO) | N/A |
-| 47 | [#SupremeCourt](http://twitter.com/search?q=%23SupremeCourt) | N/A |
-| 48 | [#LPandAPC](http://twitter.com/search?q=%23LPandAPC) | N/A |
-| 49 | [#rigging](http://twitter.com/search?q=%23rigging) | N/A |
+| 3 | [#protest](http://twitter.com/search?q=%23protest) | N/A |
+| 4 | [#NigerianElections2023](http://twitter.com/search?q=%23NigerianElections2023) | N/A |
+| 5 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 6 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
+| 7 | [25% in FCT](http://twitter.com/search?q=25%25+in+FCT) | N/A |
+| 8 | [#CongratulationsObidatti](http://twitter.com/search?q=%23CongratulationsObidatti) | N/A |
+| 9 | [Obio-Akpor](http://twitter.com/search?q=Obio-Akpor) | N/A |
+| 10 | [Obasanjo](http://twitter.com/search?q=Obasanjo) | Obasanjo is a Yoruba name meaning "the king has returned". It is the surname of Olusegun Obasanjo, a former Nigerian military leader and two-term president. |
+| 11 | [Ekiti](http://twitter.com/search?q=Ekiti) | N/A |
+| 12 | [#TinubuIsHere](http://twitter.com/search?q=%23TinubuIsHere) | N/A |
+| 13 | [BVAS](http://twitter.com/search?q=BVAS) | BVAS stands for Behavioral and Vital Signs. It is a term used in the medical field to refer to the physical and mental signs that can be used to assess a patient's health. These signs include heart rate, blood pressure, temperature, respiration rate, and other indicators of physical and mental health. |
+| 14 | [Plateau](http://twitter.com/search?q=Plateau) | N/A |
+| 15 | [Abuja](http://twitter.com/search?q=Abuja) | N/A |
+| 16 | [25% in the FCT](http://twitter.com/search?q=25%25+in+the+FCT) | N/A |
+| 17 | [IREV](http://twitter.com/search?q=IREV) | N/A |
+| 18 | [Banky](http://twitter.com/search?q=Banky) | N/A |
+| 19 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
+| 20 | [Even APC](http://twitter.com/search?q=Even+APC) | N/A |
+| 21 | [RCCG](http://twitter.com/search?q=RCCG) | N/A |
+| 22 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 23 | [Yoruba](http://twitter.com/search?q=Yoruba) | N/A |
+| 24 | [honorable kelechi](http://twitter.com/search?q=honorable+kelechi) | N/A |
+| 25 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
+| 26 | [Labour Party](http://twitter.com/search?q=Labour+Party) | N/A |
+| 27 | [LP and PDP](http://twitter.com/search?q=LP+and+PDP) | N/A |
+| 28 | [North](http://twitter.com/search?q=North) | N/A |
+| 29 | [Brown](http://twitter.com/search?q=Brown) | N/A |
+| 30 | [Enugu](http://twitter.com/search?q=Enugu) | N/A |
+| 31 | [LPDP](http://twitter.com/search?q=LPDP) | N/A |
+| 32 | [Rigging](http://twitter.com/search?q=Rigging) | N/A |
+| 33 | [PDP and LP](http://twitter.com/search?q=PDP+and+LP) | N/A |
+| 34 | [Sanwo Olu](http://twitter.com/search?q=Sanwo+Olu) | N/A |
+| 35 | [Rigged](http://twitter.com/search?q=Rigged) | N/A |
+| 36 | [Mahmood Yakubu](http://twitter.com/search?q=Mahmood+Yakubu) | N/A |
+| 37 | [11th of March](http://twitter.com/search?q=11th+of+March) | N/A |
+| 38 | [Royals](http://twitter.com/search?q=Royals) | N/A |
+| 39 | [Edeoga](http://twitter.com/search?q=Edeoga) | N/A |
+| 40 | [Constitution](http://twitter.com/search?q=Constitution) | N/A |
+| 41 | [Section 134](http://twitter.com/search?q=Section+134) | N/A |
+| 42 | [Section 299](http://twitter.com/search?q=Section+299) | N/A |
+| 43 | [AND FCT](http://twitter.com/search?q=AND+FCT) | N/A |
+| 44 | [Bauchi and Gombe](http://twitter.com/search?q=Bauchi+and+Gombe) | N/A |
+| 45 | [Emeka](http://twitter.com/search?q=Emeka) | N/A |
+| 46 | [lp- 1,125,400](http://twitter.com/search?q=lp-+1%2c125%2c400) | N/A |
+| 47 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
+| 48 | [Frank Nweke](http://twitter.com/search?q=Frank+Nweke) | N/A |
+| 49 | [Orubebe](http://twitter.com/search?q=Orubebe) | N/A |
+| 50 | [Maurice Iwu](http://twitter.com/search?q=Maurice+Iwu) | N/A |
 
 
 

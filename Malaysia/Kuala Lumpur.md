@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kuala Lumpur
 
-📆 Last Updated: `2023-02-28 17:16:19 UTC`
+📆 Last Updated: `2023-02-28 18:17:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Malaysia](</Malaysia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 2 | [#ROVER_MoodSampler1](http://twitter.com/search?q=%23ROVER_MoodSampler1) | N/A |
-| 3 | [#JISOOxDiorAW23](http://twitter.com/search?q=%23JISOOxDiorAW23) | N/A |
-| 4 | [ROVER IS COMING](http://twitter.com/search?q=ROVER+IS+COMING) | N/A |
-| 5 | [Toby](http://twitter.com/search?q=Toby) | N/A |
-| 6 | [#toasteed](http://twitter.com/search?q=%23toasteed) | N/A |
-| 7 | [#NeverLetMeGoFinalEP](http://twitter.com/search?q=%23NeverLetMeGoFinalEP) | N/A |
-| 8 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
-| 9 | [O HIGHLIGHT MEDLEY](http://twitter.com/search?q=O+HIGHLIGHT+MEDLEY) | N/A |
-| 10 | [#O_D6](http://twitter.com/search?q=%23O_D6) | N/A |
-| 11 | [Sunscreen - 3W](http://twitter.com/search?q=Sunscreen+-+3W) | N/A |
-| 12 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
-| 13 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
-| 14 | [Cleanser](http://twitter.com/search?q=Cleanser) | N/A |
-| 15 | [Wonho](http://twitter.com/search?q=Wonho) | N/A |
-| 16 | [The 10](http://twitter.com/search?q=The+10) | N/A |
-| 17 | [Terry](http://twitter.com/search?q=Terry) | N/A |
-| 18 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 19 | [EXO SC](http://twitter.com/search?q=EXO+SC) | N/A |
-| 20 | [Bennett](http://twitter.com/search?q=Bennett) | N/A |
-| 21 | [Mascara - Maybelline](http://twitter.com/search?q=Mascara+-+Maybelline) | N/A |
-| 22 | [Sehun](http://twitter.com/search?q=Sehun) | N/A |
-| 23 | [cost utilization](http://twitter.com/search?q=cost+utilization) | N/A |
-| 24 | [POLLY PASTEL BY BUILD](http://twitter.com/search?q=POLLY+PASTEL+BY+BUILD) | N/A |
-| 25 | [concealer - maybelline](http://twitter.com/search?q=concealer+-+maybelline) | N/A |
-| 26 | [Yuju](http://twitter.com/search?q=Yuju) | N/A |
-| 27 | [The 3](http://twitter.com/search?q=The+3) | N/A |
-| 28 | [HAVE TO KNOW](http://twitter.com/search?q=HAVE+TO+KNOW) | N/A |
-| 29 | [PH SCAMMER](http://twitter.com/search?q=PH+SCAMMER) | N/A |
-| 30 | [LATE LATE SHOW WITH TXT](http://twitter.com/search?q=LATE+LATE+SHOW+WITH+TXT) | N/A |
-| 31 | [Fantagio](http://twitter.com/search?q=Fantagio) | N/A |
-| 32 | [Sunblock - 3W](http://twitter.com/search?q=Sunblock+-+3W) | N/A |
-| 33 | [Junghwan](http://twitter.com/search?q=Junghwan) | N/A |
-| 34 | [Circle 2](http://twitter.com/search?q=Circle+2) | N/A |
-| 35 | [traderdao](http://twitter.com/search?q=traderdao) | N/A |
-| 36 | [Eyeliner - Maybelline](http://twitter.com/search?q=Eyeliner+-+Maybelline) | N/A |
-| 37 | [Benny](http://twitter.com/search?q=Benny) | N/A |
-| 38 | [eric chou](http://twitter.com/search?q=eric+chou) | N/A |
-| 39 | [Candace](http://twitter.com/search?q=Candace) | N/A |
-| 40 | [Abby Choi](http://twitter.com/search?q=Abby+Choi) | N/A |
-| 41 | [jana wibawa](http://twitter.com/search?q=jana+wibawa) | N/A |
-| 42 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
-| 43 | [Pharmaniaga](http://twitter.com/search?q=Pharmaniaga) | N/A |
-| 44 | [Footballing Ability](http://twitter.com/search?q=Footballing+Ability) | N/A |
-| 45 | [Blusher - in2it](http://twitter.com/search?q=Blusher+-+in2it) | N/A |
-| 46 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
-| 47 | [Lipmatte - Maybelline](http://twitter.com/search?q=Lipmatte+-+Maybelline) | N/A |
-| 48 | [Yasmin](http://twitter.com/search?q=Yasmin) | N/A |
-| 49 | [Chiffon](http://twitter.com/search?q=Chiffon) | N/A |
-| 50 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
+| 2 | [#JISOOxDiorAW23](http://twitter.com/search?q=%23JISOOxDiorAW23) | N/A |
+| 3 | [Toby](http://twitter.com/search?q=Toby) | N/A |
+| 4 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
+| 5 | [#toasteed](http://twitter.com/search?q=%23toasteed) | N/A |
+| 6 | [Sunscreen - 3w](http://twitter.com/search?q=Sunscreen+-+3w) | N/A |
+| 7 | [#NeverLetMeGoSeriesFinalEP](http://twitter.com/search?q=%23NeverLetMeGoSeriesFinalEP) | N/A |
+| 8 | [#KiehlsxBright](http://twitter.com/search?q=%23KiehlsxBright) | N/A |
+| 9 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
+| 10 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
+| 11 | [#SPM2022](http://twitter.com/search?q=%23SPM2022) | N/A |
+| 12 | [EXO SC](http://twitter.com/search?q=EXO+SC) | N/A |
+| 13 | [Bennett](http://twitter.com/search?q=Bennett) | N/A |
+| 14 | [Mascara - Maybelline](http://twitter.com/search?q=Mascara+-+Maybelline) | N/A |
+| 15 | [The 10](http://twitter.com/search?q=The+10) | N/A |
+| 16 | [Cleanser](http://twitter.com/search?q=Cleanser) | N/A |
+| 17 | [cost utilization](http://twitter.com/search?q=cost+utilization) | N/A |
+| 18 | [POLLY PASTEL BY BUILD](http://twitter.com/search?q=POLLY+PASTEL+BY+BUILD) | N/A |
+| 19 | [Eyeliner - Maybelline](http://twitter.com/search?q=Eyeliner+-+Maybelline) | N/A |
+| 20 | [Concealer - Maybelline](http://twitter.com/search?q=Concealer+-+Maybelline) | N/A |
+| 21 | [Sehun](http://twitter.com/search?q=Sehun) | N/A |
+| 22 | [Benny](http://twitter.com/search?q=Benny) | N/A |
+| 23 | [PH SCAMMER](http://twitter.com/search?q=PH+SCAMMER) | N/A |
+| 24 | [The 3](http://twitter.com/search?q=The+3) | N/A |
+| 25 | [HAVE TO KNOW](http://twitter.com/search?q=HAVE+TO+KNOW) | N/A |
+| 26 | [LATE LATE SHOW WITH TXT](http://twitter.com/search?q=LATE+LATE+SHOW+WITH+TXT) | N/A |
+| 27 | [O HIGHLIGHT MEDLEY](http://twitter.com/search?q=O+HIGHLIGHT+MEDLEY) | N/A |
+| 28 | [Circle 2](http://twitter.com/search?q=Circle+2) | N/A |
+| 29 | [Sunblock - 3W](http://twitter.com/search?q=Sunblock+-+3W) | N/A |
+| 30 | [traderdao](http://twitter.com/search?q=traderdao) | N/A |
+| 31 | [Wonho](http://twitter.com/search?q=Wonho) | N/A |
+| 32 | [Footballing Ability](http://twitter.com/search?q=Footballing+Ability) | N/A |
+| 33 | [Abby Choi](http://twitter.com/search?q=Abby+Choi) | N/A |
+| 34 | [Sunscreen - Biore](http://twitter.com/search?q=Sunscreen+-+Biore) | N/A |
+| 35 | [jana wibawa](http://twitter.com/search?q=jana+wibawa) | N/A |
+| 36 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
+| 37 | [Pharmaniaga](http://twitter.com/search?q=Pharmaniaga) | N/A |
+| 38 | [toya](http://twitter.com/search?q=toya) | N/A |
+| 39 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 40 | [Terry](http://twitter.com/search?q=Terry) | N/A |
+| 41 | [Akari](http://twitter.com/search?q=Akari) | N/A |
+| 42 | [fantagio](http://twitter.com/search?q=fantagio) | N/A |
+| 43 | [Allen](http://twitter.com/search?q=Allen) | N/A |
+| 44 | [Eric Chou](http://twitter.com/search?q=Eric+Chou) | N/A |
+| 45 | [powder - laura mercier](http://twitter.com/search?q=powder+-+laura+mercier) | N/A |
+| 46 | [WILL OF THE PEOPLE](http://twitter.com/search?q=WILL+OF+THE+PEOPLE) | N/A |
+| 47 | [Candace](http://twitter.com/search?q=Candace) | N/A |
+| 48 | [Blusher - in2it](http://twitter.com/search?q=Blusher+-+in2it) | N/A |
+| 49 | [Wooseok](http://twitter.com/search?q=Wooseok) | N/A |
+| 50 | [Lipmatte - Maybelline](http://twitter.com/search?q=Lipmatte+-+Maybelline) | N/A |
 
 
 

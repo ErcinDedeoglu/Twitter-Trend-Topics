@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dominican Republic
 
-📆 Last Updated: `2023-02-28 17:16:43 UTC`
+📆 Last Updated: `2023-02-28 18:17:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Dominican Republic
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#RDavanza](http://twitter.com/search?q=%23RDavanza) | N/A |
-| 2 | [#Rendiciondecuentas2023](http://twitter.com/search?q=%23Rendiciondecuentas2023) | N/A |
-| 3 | [#OrgullososDeEstarMejor](http://twitter.com/search?q=%23OrgullososDeEstarMejor) | N/A |
-| 4 | [#PolloIndex](http://twitter.com/search?q=%23PolloIndex) | N/A |
-| 5 | [Independencia Nacional](http://twitter.com/search?q=Independencia+Nacional) | N/A |
-| 6 | [#27defebrero](http://twitter.com/search?q=%2327defebrero) | N/A |
-| 7 | [Abinader](http://twitter.com/search?q=Abinader) | N/A |
+| 2 | [#OrgullososDeEstarMejor](http://twitter.com/search?q=%23OrgullososDeEstarMejor) | N/A |
+| 3 | [#27defebrero](http://twitter.com/search?q=%2327defebrero) | N/A |
+| 4 | [#Rendiciondecuentas2023](http://twitter.com/search?q=%23Rendiciondecuentas2023) | N/A |
+| 5 | [Abinader](http://twitter.com/search?q=Abinader) | N/A |
+| 6 | [Independencia Nacional](http://twitter.com/search?q=Independencia+Nacional) | N/A |
+| 7 | [#27FConFDeFalso](http://twitter.com/search?q=%2327FConFDeFalso) | N/A |
 | 8 | [Alexandra](http://twitter.com/search?q=Alexandra) | N/A |
-| 9 | [Inacif](http://twitter.com/search?q=Inacif) | N/A |
-| 10 | [Tamayo](http://twitter.com/search?q=Tamayo) | Tamayo is a Spanish surname. It is derived from the Latin name Thomas, which means "twin". In English, it can be translated to mean "twin". |
-| 11 | [Mozart](http://twitter.com/search?q=Mozart) | N/A |
-| 12 | [Bienvenido](http://twitter.com/search?q=Bienvenido) | N/A |
-| 13 | [Dalisa](http://twitter.com/search?q=Dalisa) | N/A |
-| 14 | [Botello](http://twitter.com/search?q=Botello) | N/A |
-| 15 | [Falcon 9](http://twitter.com/search?q=Falcon+9) | N/A |
-| 16 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 17 | [hoy 27](http://twitter.com/search?q=hoy+27) | N/A |
+| 9 | [Mozart](http://twitter.com/search?q=Mozart) | N/A |
+| 10 | [Dalissa](http://twitter.com/search?q=Dalissa) | N/A |
+| 11 | [Tamayo](http://twitter.com/search?q=Tamayo) | Tamayo is a Spanish surname. It is derived from the Latin name Thomas, which means "twin". In English, it can be translated to mean "twin". |
+| 12 | [Botello](http://twitter.com/search?q=Botello) | N/A |
+| 13 | [Falcon 9](http://twitter.com/search?q=Falcon+9) | N/A |
+| 14 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 15 | [Juan Pablo Duarte](http://twitter.com/search?q=Juan+Pablo+Duarte) | Juan Pablo Duarte is a national hero of the Dominican Republic. He was a key figure in the struggle for independence from Haiti in 1844. His name is often used as a symbol of freedom and patriotism in the Dominican Republic. In English, his name translates to "John Paul Duarte". |
+| 16 | [hoy 27](http://twitter.com/search?q=hoy+27) | N/A |
+| 17 | [Punta Catalina](http://twitter.com/search?q=Punta+Catalina) | N/A |
 | 18 | [Asamblea Nacional](http://twitter.com/search?q=Asamblea+Nacional) | N/A |
-| 19 | [Punta Catalina](http://twitter.com/search?q=Punta+Catalina) | N/A |
-| 20 | [Juan Pablo Duarte](http://twitter.com/search?q=Juan+Pablo+Duarte) | Juan Pablo Duarte is a national hero of the Dominican Republic. He was a key figure in the struggle for independence from Haiti in 1844. His name is often used as a symbol of freedom and patriotism in the Dominican Republic. In English, his name translates to "John Paul Duarte". |
-| 21 | [Roberto Fulcar](http://twitter.com/search?q=Roberto+Fulcar) | N/A |
-| 22 | [feliz 179](http://twitter.com/search?q=feliz+179) | N/A |
-| 23 | [Congreso Nacional](http://twitter.com/search?q=Congreso+Nacional) | N/A |
-| 24 | [Esmeralda](http://twitter.com/search?q=Esmeralda) | N/A |
-| 25 | [Poder Ejecutivo](http://twitter.com/search?q=Poder+Ejecutivo) | N/A |
-| 26 | [Cepeda](http://twitter.com/search?q=Cepeda) | N/A |
-| 27 | [Eduardo Estrella](http://twitter.com/search?q=Eduardo+Estrella) | N/A |
-| 28 | [Guido](http://twitter.com/search?q=Guido) | Guido is a slang term used to refer to a certain type of Italian-American man. It is often used in a derogatory way to describe someone who is seen as overly macho, chauvinistic, and/or aggressive. |
-| 29 | [aliméntate](http://twitter.com/search?q=alim%c3%a9ntate) | N/A |
-| 30 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
-| 31 | [huracán Fiona](http://twitter.com/search?q=hurac%c3%a1n+Fiona) | N/A |
-| 32 | [sánchez y mella](http://twitter.com/search?q=s%c3%a1nchez+y+mella) | N/A |
-| 33 | [Puerta del Conde](http://twitter.com/search?q=Puerta+del+Conde) | N/A |
-| 34 | [jiménez moya](http://twitter.com/search?q=jim%c3%a9nez+moya) | N/A |
-| 35 | [Inapa](http://twitter.com/search?q=Inapa) | N/A |
-| 36 | [rd$90,390](http://twitter.com/search?q=rd%2490%2c390) | N/A |
-| 37 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
-| 38 | [jaime david](http://twitter.com/search?q=jaime+david) | N/A |
-| 39 | [El Gobierno](http://twitter.com/search?q=El+Gobierno) | N/A |
-| 40 | [Miguel Vargas](http://twitter.com/search?q=Miguel+Vargas) | N/A |
-| 41 | [En 2022](http://twitter.com/search?q=En+2022) | N/A |
-| 42 | [Horford](http://twitter.com/search?q=Horford) | Horford is a surname of Spanish origin. It is derived from the Latin word "horreum" which means granary or storehouse. The name is most commonly associated with Al Horford, an American professional basketball player who currently plays for the Philadelphia 76ers. |
-| 43 | [Starlink](http://twitter.com/search?q=Starlink) | N/A |
-| 44 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 45 | [Monte Grande](http://twitter.com/search?q=Monte+Grande) | N/A |
-| 46 | [Haití](http://twitter.com/search?q=Hait%c3%ad) | Haití is the Spanish spelling of Haiti, a Caribbean country located on the western part of the island of Hispaniola. In English, Haiti means "mountainous country." |
-| 47 | [SpaceX](http://twitter.com/search?q=SpaceX) | N/A |
-| 48 | [Jean Montero](http://twitter.com/search?q=Jean+Montero) | N/A |
-| 49 | [Danilo Medina](http://twitter.com/search?q=Danilo+Medina) | N/A |
-| 50 | [Moscú](http://twitter.com/search?q=Mosc%c3%ba) | N/A |
+| 19 | [Guido](http://twitter.com/search?q=Guido) | Guido is a slang term used to refer to a certain type of Italian-American man. It is often used in a derogatory way to describe someone who is seen as overly macho, chauvinistic, and/or aggressive. |
+| 20 | [Bienvenido](http://twitter.com/search?q=Bienvenido) | N/A |
+| 21 | [Congreso Nacional](http://twitter.com/search?q=Congreso+Nacional) | N/A |
+| 22 | [Poder Ejecutivo](http://twitter.com/search?q=Poder+Ejecutivo) | N/A |
+| 23 | [feliz 179](http://twitter.com/search?q=feliz+179) | N/A |
+| 24 | [Roberto Fulcar](http://twitter.com/search?q=Roberto+Fulcar) | N/A |
+| 25 | [Cepeda](http://twitter.com/search?q=Cepeda) | N/A |
+| 26 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
+| 27 | [huracán Fiona](http://twitter.com/search?q=hurac%c3%a1n+Fiona) | N/A |
+| 28 | [sanchez y mella](http://twitter.com/search?q=sanchez+y+mella) | N/A |
+| 29 | [Puerta del Conde](http://twitter.com/search?q=Puerta+del+Conde) | N/A |
+| 30 | [SpaceX](http://twitter.com/search?q=SpaceX) | N/A |
+| 31 | [Miguel Vargas](http://twitter.com/search?q=Miguel+Vargas) | N/A |
+| 32 | [Starlink](http://twitter.com/search?q=Starlink) | N/A |
+| 33 | [Inapa](http://twitter.com/search?q=Inapa) | N/A |
+| 34 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
+| 35 | [Jean Montero](http://twitter.com/search?q=Jean+Montero) | N/A |
+| 36 | [Monte Grande](http://twitter.com/search?q=Monte+Grande) | N/A |
+| 37 | [En 2022](http://twitter.com/search?q=En+2022) | N/A |
+| 38 | [Dubai](http://twitter.com/search?q=Dubai) | Dubai is a city and emirate in the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the capital of the Emirate of Dubai, one of the seven emirates that make up the country. The word "Dubai" translates to "money" in English. |
+| 39 | [Haití](http://twitter.com/search?q=Hait%c3%ad) | Haití is the Spanish spelling of Haiti, a Caribbean country located on the western part of the island of Hispaniola. In English, Haiti means "mountainous country." |
+| 40 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 41 | [El Gobierno](http://twitter.com/search?q=El+Gobierno) | N/A |
+| 42 | [Jaime David](http://twitter.com/search?q=Jaime+David) | N/A |
+| 43 | [Ámbar](http://twitter.com/search?q=%c3%81mbar) | N/A |
+| 44 | [Suiza](http://twitter.com/search?q=Suiza) | N/A |
+| 45 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
+| 46 | [Mentiras](http://twitter.com/search?q=Mentiras) | N/A |
+| 47 | [Pacto de Nación](http://twitter.com/search?q=Pacto+de+Naci%c3%b3n) | N/A |
+| 48 | [Banco Central](http://twitter.com/search?q=Banco+Central) | N/A |
+| 49 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 50 | [Danilo Medina](http://twitter.com/search?q=Danilo+Medina) | N/A |
 
 
 

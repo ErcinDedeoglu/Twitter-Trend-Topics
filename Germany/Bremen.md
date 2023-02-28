@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bremen
 
-📆 Last Updated: `2023-02-28 17:16:07 UTC`
+📆 Last Updated: `2023-02-28 18:16:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,49 +20,49 @@ This is top 50 for [Germany](</Germany>)
 | 3 | [Vergewaltigungen](http://twitter.com/search?q=Vergewaltigungen) | N/A |
 | 4 | [#eFuels](http://twitter.com/search?q=%23eFuels) | N/A |
 | 5 | [Meute](http://twitter.com/search?q=Meute) | N/A |
-| 6 | [Moderator](http://twitter.com/search?q=Moderator) | N/A |
-| 7 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
+| 6 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
+| 7 | [Moderator](http://twitter.com/search?q=Moderator) | N/A |
 | 8 | [Heizungen](http://twitter.com/search?q=Heizungen) | N/A |
-| 9 | [Yfood](http://twitter.com/search?q=Yfood) | N/A |
-| 10 | [Nestle](http://twitter.com/search?q=Nestle) | N/A |
-| 11 | [Kriegsverbrechen](http://twitter.com/search?q=Kriegsverbrechen) | N/A |
-| 12 | [Verbote](http://twitter.com/search?q=Verbote) | N/A |
-| 13 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
-| 14 | [Senioren](http://twitter.com/search?q=Senioren) | N/A |
-| 15 | [Wärmepumpen](http://twitter.com/search?q=W%c3%a4rmepumpen) | N/A |
-| 16 | [Ankerkraut](http://twitter.com/search?q=Ankerkraut) | N/A |
-| 17 | [Seenotrettung](http://twitter.com/search?q=Seenotrettung) | N/A |
-| 18 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 19 | [Frank Thelen](http://twitter.com/search?q=Frank+Thelen) | N/A |
-| 20 | [Lumpenpazifisten](http://twitter.com/search?q=Lumpenpazifisten) | N/A |
-| 21 | [ROVER IS COMING](http://twitter.com/search?q=ROVER+IS+COMING) | N/A |
-| 22 | [Trinkgeld](http://twitter.com/search?q=Trinkgeld) | N/A |
-| 23 | [Boris Johnson](http://twitter.com/search?q=Boris+Johnson) | N/A |
-| 24 | [Strom](http://twitter.com/search?q=Strom) | N/A |
-| 25 | [Kraftstoffe](http://twitter.com/search?q=Kraftstoffe) | N/A |
-| 26 | [Halsweh](http://twitter.com/search?q=Halsweh) | N/A |
-| 27 | [Einbau](http://twitter.com/search?q=Einbau) | N/A |
-| 28 | [Lebensmittel](http://twitter.com/search?q=Lebensmittel) | N/A |
-| 29 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
-| 30 | [Nagel](http://twitter.com/search?q=Nagel) | N/A |
-| 31 | [Elden Ring DLC](http://twitter.com/search?q=Elden+Ring+DLC) | N/A |
-| 32 | [Ernährung](http://twitter.com/search?q=Ern%c3%a4hrung) | N/A |
-| 33 | [Reschke](http://twitter.com/search?q=Reschke) | N/A |
-| 34 | [Kirche](http://twitter.com/search?q=Kirche) | N/A |
-| 35 | [Teil des Krieges](http://twitter.com/search?q=Teil+des+Krieges) | N/A |
-| 36 | [JISOO THE FACE OF DIOR](http://twitter.com/search?q=JISOO+THE+FACE+OF+DIOR) | N/A |
-| 37 | [Gutachten](http://twitter.com/search?q=Gutachten) | N/A |
-| 38 | [Bestandsflotte](http://twitter.com/search?q=Bestandsflotte) | N/A |
-| 39 | [Schönen Dienstag](http://twitter.com/search?q=Sch%c3%b6nen+Dienstag) | N/A |
-| 40 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
-| 41 | [Süßigkeiten](http://twitter.com/search?q=S%c3%bc%c3%9figkeiten) | N/A |
-| 42 | [Happy 28th](http://twitter.com/search?q=Happy+28th) | N/A |
-| 43 | [Zimmermann](http://twitter.com/search?q=Zimmermann) | N/A |
-| 44 | [Demo](http://twitter.com/search?q=Demo) | N/A |
-| 45 | [Start in die Woche](http://twitter.com/search?q=Start+in+die+Woche) | Start in die Woche is a German phrase that translates to "start of the week" in English. It is used to refer to the beginning of a new week, usually on Monday. |
-| 46 | [Markt](http://twitter.com/search?q=Markt) | N/A |
-| 47 | [Prantl](http://twitter.com/search?q=Prantl) | N/A |
-| 48 | [Schönen Feierabend](http://twitter.com/search?q=Sch%c3%b6nen+Feierabend) | N/A |
+| 9 | [Verbote](http://twitter.com/search?q=Verbote) | N/A |
+| 10 | [Kriegsverbrechen](http://twitter.com/search?q=Kriegsverbrechen) | N/A |
+| 11 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
+| 12 | [Wärmepumpen](http://twitter.com/search?q=W%c3%a4rmepumpen) | N/A |
+| 13 | [Senioren](http://twitter.com/search?q=Senioren) | N/A |
+| 14 | [Nestle](http://twitter.com/search?q=Nestle) | N/A |
+| 15 | [Seenotrettung](http://twitter.com/search?q=Seenotrettung) | N/A |
+| 16 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 17 | [Lumpenpazifisten](http://twitter.com/search?q=Lumpenpazifisten) | N/A |
+| 18 | [Strom](http://twitter.com/search?q=Strom) | N/A |
+| 19 | [Trinkgeld](http://twitter.com/search?q=Trinkgeld) | N/A |
+| 20 | [Halsweh](http://twitter.com/search?q=Halsweh) | N/A |
+| 21 | [Ankerkraut](http://twitter.com/search?q=Ankerkraut) | N/A |
+| 22 | [Krokusse](http://twitter.com/search?q=Krokusse) | N/A |
+| 23 | [Kraftstoffe](http://twitter.com/search?q=Kraftstoffe) | N/A |
+| 24 | [Boris Johnson](http://twitter.com/search?q=Boris+Johnson) | N/A |
+| 25 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
+| 26 | [Elden Ring DLC](http://twitter.com/search?q=Elden+Ring+DLC) | N/A |
+| 27 | [Siggi](http://twitter.com/search?q=Siggi) | N/A |
+| 28 | [Einbau](http://twitter.com/search?q=Einbau) | N/A |
+| 29 | [Schönen Dienstag](http://twitter.com/search?q=Sch%c3%b6nen+Dienstag) | N/A |
+| 30 | [Ernährung](http://twitter.com/search?q=Ern%c3%a4hrung) | N/A |
+| 31 | [Gutachten](http://twitter.com/search?q=Gutachten) | N/A |
+| 32 | [Kirche](http://twitter.com/search?q=Kirche) | N/A |
+| 33 | [Schönen Abend](http://twitter.com/search?q=Sch%c3%b6nen+Abend) | N/A |
+| 34 | [Lebensmittel](http://twitter.com/search?q=Lebensmittel) | N/A |
+| 35 | [Reschke](http://twitter.com/search?q=Reschke) | N/A |
+| 36 | [Bestandsflotte](http://twitter.com/search?q=Bestandsflotte) | N/A |
+| 37 | [Nagel](http://twitter.com/search?q=Nagel) | N/A |
+| 38 | [Teil des Krieges](http://twitter.com/search?q=Teil+des+Krieges) | N/A |
+| 39 | [Start in die Woche](http://twitter.com/search?q=Start+in+die+Woche) | Start in die Woche is a German phrase that translates to "start of the week" in English. It is used to refer to the beginning of a new week, usually on Monday. |
+| 40 | [Prantl](http://twitter.com/search?q=Prantl) | N/A |
+| 41 | [Demo](http://twitter.com/search?q=Demo) | N/A |
+| 42 | [Frank Thelen](http://twitter.com/search?q=Frank+Thelen) | N/A |
+| 43 | [Happy 28th](http://twitter.com/search?q=Happy+28th) | N/A |
+| 44 | [Süßigkeiten](http://twitter.com/search?q=S%c3%bc%c3%9figkeiten) | N/A |
+| 45 | [Zimmermann](http://twitter.com/search?q=Zimmermann) | N/A |
+| 46 | [Heizen](http://twitter.com/search?q=Heizen) | N/A |
+| 47 | [Özdemir](http://twitter.com/search?q=%c3%96zdemir) | N/A |
+| 48 | [Kinderschutz](http://twitter.com/search?q=Kinderschutz) | N/A |
 
 
 
