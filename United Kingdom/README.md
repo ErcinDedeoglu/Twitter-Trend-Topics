@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For United Kingdom
 
-📆 Last Updated: `2023-02-28 20:17:00 UTC`
+📆 Last Updated: `2023-02-28 21:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for United Kingdom
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#FULLEE](http://twitter.com/search?q=%23FULLEE) | N/A |
-| 2 | [#FACup](http://twitter.com/search?q=%23FACup) | #FACup is an abbreviation for the Football Association Challenge Cup, which is an annual knockout football competition in England. It is the oldest football competition in the world and is open to all teams from the top four tiers of English football. |
-| 3 | [Amartey](http://twitter.com/search?q=Amartey) | N/A |
-| 4 | [Meslier](http://twitter.com/search?q=Meslier) | N/A |
-| 5 | [#BRCMCI](http://twitter.com/search?q=%23BRCMCI) | N/A |
-| 6 | [Palhinha](http://twitter.com/search?q=Palhinha) | Palhinha is a Portuguese slang term that means “little one” or “darling.” It is often used as an affectionate term of endearment for someone close to you, such as a child, friend, or partner. |
-| 7 | [Bristol City](http://twitter.com/search?q=Bristol+City) | N/A |
-| 8 | [Ashton Gate](http://twitter.com/search?q=Ashton+Gate) | N/A |
-| 9 | [Luke Thomas](http://twitter.com/search?q=Luke+Thomas) | N/A |
-| 10 | [#QIHour](http://twitter.com/search?q=%23QIHour) | N/A |
-| 11 | [#BHAFC](http://twitter.com/search?q=%23BHAFC) | N/A |
-| 12 | [Dolan](http://twitter.com/search?q=Dolan) | N/A |
-| 13 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 14 | [Evan Ferguson](http://twitter.com/search?q=Evan+Ferguson) | Evan Ferguson is a Scottish surname. It is derived from the Gaelic name Fergus, which means "strong man". The name is most commonly found in Scotland and Northern Ireland. |
+| 1 | [Casey](http://twitter.com/search?q=Casey) | Casey is a unisex name of Irish origin, derived from the Gaelic Cathasaigh, meaning “brave” or “vigilant.” It is also a popular surname in the United States. |
+| 2 | [#FULLEE](http://twitter.com/search?q=%23FULLEE) | N/A |
+| 3 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 4 | [Solomon](http://twitter.com/search?q=Solomon) | N/A |
+| 5 | [Rutter](http://twitter.com/search?q=Rutter) | N/A |
+| 6 | [#FACup](http://twitter.com/search?q=%23FACup) | #FACup is an abbreviation for the Football Association Challenge Cup, which is an annual knockout football competition in England. It is the oldest football competition in the world and is open to all teams from the top four tiers of English football. |
+| 7 | [Alex Scott](http://twitter.com/search?q=Alex+Scott) | N/A |
+| 8 | [Amartey](http://twitter.com/search?q=Amartey) | N/A |
+| 9 | [Meslier](http://twitter.com/search?q=Meslier) | N/A |
+| 10 | [Bristol City](http://twitter.com/search?q=Bristol+City) | N/A |
+| 11 | [#BRCMCI](http://twitter.com/search?q=%23BRCMCI) | N/A |
+| 12 | [#bcafc](http://twitter.com/search?q=%23bcafc) | N/A |
+| 13 | [#lcfc](http://twitter.com/search?q=%23lcfc) | N/A |
+| 14 | [Soumare](http://twitter.com/search?q=Soumare) | N/A |
 | 15 | [Roca](http://twitter.com/search?q=Roca) | N/A |
-| 16 | [Peter Pan](http://twitter.com/search?q=Peter+Pan) | N/A |
-| 17 | [Adams](http://twitter.com/search?q=Adams) | N/A |
-| 18 | [Cremonese](http://twitter.com/search?q=Cremonese) | N/A |
-| 19 | [McKennie](http://twitter.com/search?q=McKennie) | McKennie is a surname of Scottish origin. It is derived from the Gaelic MacCoinneach, meaning "son of Coinneach". |
-| 20 | [Alex Scott](http://twitter.com/search?q=Alex+Scott) | N/A |
-| 21 | [Craven Cottage](http://twitter.com/search?q=Craven+Cottage) | N/A |
-| 22 | [Carole](http://twitter.com/search?q=Carole) | N/A |
-| 23 | [Banks](http://twitter.com/search?q=Banks) | N/A |
-| 24 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
-| 25 | [Blackburn](http://twitter.com/search?q=Blackburn) | N/A |
-| 26 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
-| 27 | [Oakeshott](http://twitter.com/search?q=Oakeshott) | N/A |
-| 28 | [Dunk](http://twitter.com/search?q=Dunk) | N/A |
-| 29 | [Ayling](http://twitter.com/search?q=Ayling) | Ayling is a surname of English origin. It is derived from the Old English personal name Aethelwine, which means "noble friend". |
-| 30 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
-| 31 | [Isabel](http://twitter.com/search?q=Isabel) | N/A |
-| 32 | [Kalvin Phillips](http://twitter.com/search?q=Kalvin+Phillips) | N/A |
-| 33 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
-| 34 | [Fulham v Leeds](http://twitter.com/search?q=Fulham+v+Leeds) | N/A |
-| 35 | [St David](http://twitter.com/search?q=St+David) | N/A |
-| 36 | [Michael Gove](http://twitter.com/search?q=Michael+Gove) | N/A |
-| 37 | [Wellingborough](http://twitter.com/search?q=Wellingborough) | N/A |
-| 38 | [Deepdale](http://twitter.com/search?q=Deepdale) | N/A |
-| 39 | [Single Market](http://twitter.com/search?q=Single+Market) | N/A |
-| 40 | [Jacqui](http://twitter.com/search?q=Jacqui) | N/A |
-| 41 | [Gabriel Jesus](http://twitter.com/search?q=Gabriel+Jesus) | Gabriel Jesus is a Brazilian professional footballer who plays as a forward for Premier League club Manchester City and the Brazil national team. His name in English translates to "God is my salvation". |
-| 42 | [Wike](http://twitter.com/search?q=Wike) | Wike is a term used in the Philippines to refer to a person who is knowledgeable or wise. It is derived from the Tagalog word "wikain," which means "to know." In English, it can be translated as "wise" or "knowledgeable." |
-| 43 | [AC Milan](http://twitter.com/search?q=AC+Milan) | AC Milan is a professional Italian football club based in Milan, Italy. The club is one of the most successful teams in the world, having won 18 FIFA and UEFA titles. The acronym AC stands for Associazione Calcio (Italian for Football Association). |
-| 44 | [Final Fantasy XVI](http://twitter.com/search?q=Final+Fantasy+XVI) | N/A |
-| 45 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
-| 46 | [London Bridge](http://twitter.com/search?q=London+Bridge) | N/A |
-| 47 | [Broxtowe](http://twitter.com/search?q=Broxtowe) | N/A |
-| 48 | [Tom Sizemore](http://twitter.com/search?q=Tom+Sizemore) | N/A |
-| 49 | [Scotland and Wales](http://twitter.com/search?q=Scotland+and+Wales) | N/A |
-| 50 | [UK and EU](http://twitter.com/search?q=UK+and+EU) | N/A |
+| 16 | [Blackburn](http://twitter.com/search?q=Blackburn) | N/A |
+| 17 | [McKennie](http://twitter.com/search?q=McKennie) | McKennie is a surname of Scottish origin. It is derived from the Gaelic MacCoinneach, meaning "son of Coinneach". |
+| 18 | [Thomas](http://twitter.com/search?q=Thomas) | N/A |
+| 19 | [Adams](http://twitter.com/search?q=Adams) | N/A |
+| 20 | [Palhinha](http://twitter.com/search?q=Palhinha) | Palhinha is a Portuguese slang term that means “little one” or “darling.” It is often used as an affectionate term of endearment for someone close to you, such as a child, friend, or partner. |
+| 21 | [Harry Wilson](http://twitter.com/search?q=Harry+Wilson) | N/A |
+| 22 | [Shearer](http://twitter.com/search?q=Shearer) | Shearer is a term used to describe someone who works in a coal mine, cutting and removing coal from the face of the seam. It is also used to refer to someone who cuts and shapes metal, such as a blacksmith or a tinsmith. |
+| 23 | [Rodak](http://twitter.com/search?q=Rodak) | N/A |
+| 24 | [Kristensen](http://twitter.com/search?q=Kristensen) | N/A |
+| 25 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
+| 26 | [Ashton Gate](http://twitter.com/search?q=Ashton+Gate) | N/A |
+| 27 | [Andy Cook](http://twitter.com/search?q=Andy+Cook) | N/A |
+| 28 | [Iversen](http://twitter.com/search?q=Iversen) | N/A |
+| 29 | [Iheanacho](http://twitter.com/search?q=Iheanacho) | N/A |
+| 30 | [Summerville](http://twitter.com/search?q=Summerville) | N/A |
+| 31 | [Dolan](http://twitter.com/search?q=Dolan) | N/A |
+| 32 | [Rodgers](http://twitter.com/search?q=Rodgers) | Rodgers is a surname of English and Irish origin. It is derived from the given name Roger, which is derived from the Germanic elements hrod (fame) and ger (spear). |
+| 33 | [Evan Ferguson](http://twitter.com/search?q=Evan+Ferguson) | Evan Ferguson is a Scottish surname. It is derived from the Gaelic name Fergus, which means "strong man". The name is most commonly found in Scotland and Northern Ireland. |
+| 34 | [Ally McCoist](http://twitter.com/search?q=Ally+McCoist) | Ally McCoist is a Scottish former professional footballer and manager. He is best known for his time as a player at Rangers, where he was the club's record goalscorer, and for managing the club from 2011 to 2014. He is currently an assistant manager at Kilmarnock. |
+| 35 | [Peter Pan](http://twitter.com/search?q=Peter+Pan) | N/A |
+| 36 | [Kalvin Phillips](http://twitter.com/search?q=Kalvin+Phillips) | N/A |
+| 37 | [Tinkerbell](http://twitter.com/search?q=Tinkerbell) | N/A |
+| 38 | [Carole](http://twitter.com/search?q=Carole) | N/A |
+| 39 | [Ortega](http://twitter.com/search?q=Ortega) | Ortega is a Spanish surname derived from the Latin name "Hortensius," meaning "garden." It is most commonly associated with the Nicaraguan president, Daniel Ortega. |
+| 40 | [Phil Foden](http://twitter.com/search?q=Phil+Foden) | N/A |
+| 41 | [Ayling](http://twitter.com/search?q=Ayling) | Ayling is a surname of English origin. It is derived from the Old English personal name Aethelwine, which means "noble friend". |
+| 42 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 43 | [Craven Cottage](http://twitter.com/search?q=Craven+Cottage) | N/A |
+| 44 | [Cremonese](http://twitter.com/search?q=Cremonese) | N/A |
+| 45 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
+| 46 | [Pogba](http://twitter.com/search?q=Pogba) | Pogba is a nickname for the French professional footballer Paul Pogba. It is derived from his last name and is often used as a term of endearment by his fans. |
+| 47 | [Banks](http://twitter.com/search?q=Banks) | N/A |
+| 48 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
+| 49 | [Dunk](http://twitter.com/search?q=Dunk) | N/A |
+| 50 | [Torino](http://twitter.com/search?q=Torino) | N/A |
 
 
 

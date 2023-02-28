@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belgium
 
-📆 Last Updated: `2023-02-28 20:16:53 UTC`
+📆 Last Updated: `2023-02-28 21:17:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Belgium
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#terzaketv](http://twitter.com/search?q=%23terzaketv) | N/A |
-| 2 | [#RareDiseaseDay](http://twitter.com/search?q=%23RareDiseaseDay) | N/A |
-| 3 | [Patrick](http://twitter.com/search?q=Patrick) | Patrick is a given name derived from the Latin name Patricius, meaning "nobleman". It is a popular name in many English-speaking countries, particularly in Ireland, where it is the third most common male name. |
-| 4 | [#deafspraak](http://twitter.com/search?q=%23deafspraak) | N/A |
-| 5 | [Grondwettelijk Hof](http://twitter.com/search?q=Grondwettelijk+Hof) | N/A |
-| 6 | [#cepslab23](http://twitter.com/search?q=%23cepslab23) | N/A |
-| 7 | [Bouchez](http://twitter.com/search?q=Bouchez) | N/A |
-| 8 | [Jeremie](http://twitter.com/search?q=Jeremie) | N/A |
-| 9 | [Northern Ireland](http://twitter.com/search?q=Northern+Ireland) | N/A |
-| 10 | [Elchardus](http://twitter.com/search?q=Elchardus) | N/A |
-| 11 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
-| 12 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 13 | [#kvmzwa](http://twitter.com/search?q=%23kvmzwa) | N/A |
-| 14 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
-| 15 | [N-VA](http://twitter.com/search?q=N-VA) | N/A |
-| 16 | [Rechters](http://twitter.com/search?q=Rechters) | N/A |
-| 17 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
-| 18 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
+| 1 | [#kvmzwa](http://twitter.com/search?q=%23kvmzwa) | N/A |
+| 2 | [#crokycup](http://twitter.com/search?q=%23crokycup) | N/A |
+| 3 | [#KohLanta](http://twitter.com/search?q=%23KohLanta) | N/A |
+| 4 | [Schoofs](http://twitter.com/search?q=Schoofs) | N/A |
+| 5 | [#terzaketv](http://twitter.com/search?q=%23terzaketv) | N/A |
+| 6 | [#deafspraak](http://twitter.com/search?q=%23deafspraak) | N/A |
+| 7 | [Patrick](http://twitter.com/search?q=Patrick) | Patrick is a given name derived from the Latin name Patricius, meaning "nobleman". It is a popular name in many English-speaking countries, particularly in Ireland, where it is the third most common male name. |
+| 8 | [Grondwettelijk Hof](http://twitter.com/search?q=Grondwettelijk+Hof) | N/A |
+| 9 | [Elchardus](http://twitter.com/search?q=Elchardus) | N/A |
+| 10 | [Bouchez](http://twitter.com/search?q=Bouchez) | N/A |
+| 11 | [Jeremie](http://twitter.com/search?q=Jeremie) | N/A |
+| 12 | [Northern Ireland](http://twitter.com/search?q=Northern+Ireland) | N/A |
+| 13 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
+| 14 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 15 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 16 | [N-VA](http://twitter.com/search?q=N-VA) | N/A |
+| 17 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
+| 18 | [Rechters](http://twitter.com/search?q=Rechters) | N/A |
 | 19 | [evrm](http://twitter.com/search?q=evrm) | N/A |
-| 20 | [Buchanan](http://twitter.com/search?q=Buchanan) | N/A |
+| 20 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
 | 21 | [hof van cleve](http://twitter.com/search?q=hof+van+cleve) | N/A |
-| 22 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
-| 23 | [Serbia](http://twitter.com/search?q=Serbia) | N/A |
-| 24 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 25 | [Ethnicité](http://twitter.com/search?q=Ethnicit%c3%a9) | N/A |
-| 26 | [Scheiding](http://twitter.com/search?q=Scheiding) | N/A |
-| 27 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
-| 28 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 29 | [Kosovo](http://twitter.com/search?q=Kosovo) | N/A |
-| 30 | [VDAB](http://twitter.com/search?q=VDAB) | N/A |
-| 31 | [Francken](http://twitter.com/search?q=Francken) | N/A |
-| 32 | [vlareg](http://twitter.com/search?q=vlareg) | N/A |
-| 33 | [Fally](http://twitter.com/search?q=Fally) | N/A |
-| 34 | [🇪🇺](http://twitter.com/search?q=%f0%9f%87%aa%f0%9f%87%ba) | N/A |
-| 35 | [peter goossens](http://twitter.com/search?q=peter+goossens) | N/A |
-| 36 | [Hongarije](http://twitter.com/search?q=Hongarije) | N/A |
-| 37 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
-| 38 | [Payet](http://twitter.com/search?q=Payet) | Payet is a French surname. It is derived from the Old French word "paie," which means "payment." In English, it can be translated to mean "one who pays." |
-| 39 | [dan howell](http://twitter.com/search?q=dan+howell) | N/A |
-| 40 | [EHRM](http://twitter.com/search?q=EHRM) | N/A |
-| 41 | [Bpost](http://twitter.com/search?q=Bpost) | N/A |
-| 42 | [Protocol](http://twitter.com/search?q=Protocol) | N/A |
-| 43 | [EU-UK](http://twitter.com/search?q=EU-UK) | N/A |
-| 44 | [VOKA](http://twitter.com/search?q=VOKA) | N/A |
-| 45 | [Fauci](http://twitter.com/search?q=Fauci) | N/A |
-| 46 | [paintsil](http://twitter.com/search?q=paintsil) | N/A |
-| 47 | [Voorlopig](http://twitter.com/search?q=Voorlopig) | N/A |
-| 48 | [BMTH](http://twitter.com/search?q=BMTH) | N/A |
-| 49 | [European Parliament](http://twitter.com/search?q=European+Parliament) | N/A |
-| 50 | [European Parliament](http://twitter.com/search?q=European+Parliament) | N/A |
+| 22 | [Serbia](http://twitter.com/search?q=Serbia) | N/A |
+| 23 | [Buchanan](http://twitter.com/search?q=Buchanan) | N/A |
+| 24 | [Ethnicité](http://twitter.com/search?q=Ethnicit%c3%a9) | N/A |
+| 25 | [Scheiding](http://twitter.com/search?q=Scheiding) | N/A |
+| 26 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
+| 27 | [Kosovo](http://twitter.com/search?q=Kosovo) | N/A |
+| 28 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 29 | [VDAB](http://twitter.com/search?q=VDAB) | N/A |
+| 30 | [Francken](http://twitter.com/search?q=Francken) | N/A |
+| 31 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 32 | [Fally](http://twitter.com/search?q=Fally) | N/A |
+| 33 | [Vlareg](http://twitter.com/search?q=Vlareg) | N/A |
+| 34 | [Noordzee](http://twitter.com/search?q=Noordzee) | N/A |
+| 35 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 36 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
+| 37 | [DeSantis](http://twitter.com/search?q=DeSantis) | DeSantis is a surname of Italian origin. It is derived from the Latin word "desanctis", which means "of the saints". In English, it can be translated to mean "belonging to the saints". |
+| 38 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
+| 39 | [Payet](http://twitter.com/search?q=Payet) | Payet is a French surname. It is derived from the Old French word "paie," which means "payment." In English, it can be translated to mean "one who pays." |
+| 40 | [Amin](http://twitter.com/search?q=Amin) | N/A |
+| 41 | [Hongarije](http://twitter.com/search?q=Hongarije) | N/A |
+| 42 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 43 | [dan howell](http://twitter.com/search?q=dan+howell) | N/A |
+| 44 | [Bpost](http://twitter.com/search?q=Bpost) | N/A |
+| 45 | [Protocol](http://twitter.com/search?q=Protocol) | N/A |
+| 46 | [EU-UK](http://twitter.com/search?q=EU-UK) | N/A |
+| 47 | [🇪🇺](http://twitter.com/search?q=%f0%9f%87%aa%f0%9f%87%ba) | N/A |
+| 48 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 49 | [VOKA](http://twitter.com/search?q=VOKA) | N/A |
+| 50 | [Sunak](http://twitter.com/search?q=Sunak) | N/A |
 
 
 

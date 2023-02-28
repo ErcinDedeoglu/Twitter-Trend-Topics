@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philadelphia
 
-📆 Last Updated: `2023-02-28 20:16:49 UTC`
+📆 Last Updated: `2023-02-28 21:17:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
-| 2 | [Speaker](http://twitter.com/search?q=Speaker) | Speaker is a person who speaks in public, usually to an audience. It can also refer to the device used to amplify sound, such as a loudspeaker. |
-| 3 | [Black History Month](http://twitter.com/search?q=Black+History+Month) | N/A |
-| 4 | [Chuck](http://twitter.com/search?q=Chuck) | N/A |
+| 1 | [JT Miller](http://twitter.com/search?q=JT+Miller) | N/A |
+| 2 | [Joanna McClinton](http://twitter.com/search?q=Joanna+McClinton) | N/A |
+| 3 | [Chuck Fletcher](http://twitter.com/search?q=Chuck+Fletcher) | N/A |
+| 4 | [#MurdaughTrial](http://twitter.com/search?q=%23MurdaughTrial) | N/A |
 | 5 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
-| 6 | [#MurdaughTrial](http://twitter.com/search?q=%23MurdaughTrial) | N/A |
-| 7 | [MSNBC](http://twitter.com/search?q=MSNBC) | N/A |
-| 8 | [Patrick Kane](http://twitter.com/search?q=Patrick+Kane) | N/A |
-| 9 | [#studentloanforgiveness](http://twitter.com/search?q=%23studentloanforgiveness) | N/A |
-| 10 | [#TSTheErasTour](http://twitter.com/search?q=%23TSTheErasTour) | N/A |
-| 11 | [#BeyondFast](http://twitter.com/search?q=%23BeyondFast) | #BeyondFast is a hashtag used to describe something that goes beyond the speed of fast. It is used to emphasize the idea that something is faster than fast, or that it surpasses the speed of fast. |
-| 12 | [#RareDiseaseDay](http://twitter.com/search?q=%23RareDiseaseDay) | N/A |
-| 13 | [Julie Su](http://twitter.com/search?q=Julie+Su) | N/A |
+| 6 | [Patrick Kane](http://twitter.com/search?q=Patrick+Kane) | N/A |
+| 7 | [#BeyondFast](http://twitter.com/search?q=%23BeyondFast) | #BeyondFast is a hashtag used to describe something that goes beyond the speed of fast. It is used to emphasize the idea that something is faster than fast, or that it surpasses the speed of fast. |
+| 8 | [#studentloanforgiveness](http://twitter.com/search?q=%23studentloanforgiveness) | N/A |
+| 9 | [#TSTheErasTour](http://twitter.com/search?q=%23TSTheErasTour) | N/A |
+| 10 | [#RareDiseaseDay](http://twitter.com/search?q=%23RareDiseaseDay) | N/A |
+| 11 | [Dave Grohl](http://twitter.com/search?q=Dave+Grohl) | N/A |
+| 12 | [Julie Su](http://twitter.com/search?q=Julie+Su) | N/A |
+| 13 | [Sandin](http://twitter.com/search?q=Sandin) | N/A |
 | 14 | [Peter Pan](http://twitter.com/search?q=Peter+Pan) | N/A |
-| 15 | [Dave Grohl](http://twitter.com/search?q=Dave+Grohl) | N/A |
-| 16 | [Kaner](http://twitter.com/search?q=Kaner) | N/A |
-| 17 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
-| 18 | [Dreamville](http://twitter.com/search?q=Dreamville) | N/A |
-| 19 | [Fournette](http://twitter.com/search?q=Fournette) | N/A |
-| 20 | [GIVE US WN BLOOPERS](http://twitter.com/search?q=GIVE+US+WN+BLOOPERS) | N/A |
-| 21 | [SCOTUS](http://twitter.com/search?q=SCOTUS) | SCOTUS is an acronym for the Supreme Court of the United States. It is the highest court in the United States and is responsible for interpreting and applying federal laws. |
-| 22 | [Jamie Raskin](http://twitter.com/search?q=Jamie+Raskin) | N/A |
-| 23 | [Quintana](http://twitter.com/search?q=Quintana) | N/A |
-| 24 | [New York Ranger](http://twitter.com/search?q=New+York+Ranger) | N/A |
-| 25 | [Rachaad White](http://twitter.com/search?q=Rachaad+White) | N/A |
-| 26 | [Start Dame](http://twitter.com/search?q=Start+Dame) | N/A |
-| 27 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 28 | [Patty Kane](http://twitter.com/search?q=Patty+Kane) | N/A |
-| 29 | [David Lowery](http://twitter.com/search?q=David+Lowery) | N/A |
-| 30 | [Tinkerbell](http://twitter.com/search?q=Tinkerbell) | N/A |
-| 31 | [Start Kyrie](http://twitter.com/search?q=Start+Kyrie) | N/A |
-| 32 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 33 | [Start Russ](http://twitter.com/search?q=Start+Russ) | N/A |
-| 34 | [FFXVI](http://twitter.com/search?q=FFXVI) | N/A |
-| 35 | [Bench Russ](http://twitter.com/search?q=Bench+Russ) | N/A |
-| 36 | [SEIZED](http://twitter.com/search?q=SEIZED) | N/A |
-| 37 | [Nudy](http://twitter.com/search?q=Nudy) | N/A |
-| 38 | [Sean Desai](http://twitter.com/search?q=Sean+Desai) | N/A |
-| 39 | [Ricou Browning](http://twitter.com/search?q=Ricou+Browning) | N/A |
-| 40 | [Mariota](http://twitter.com/search?q=Mariota) | N/A |
-| 41 | [Bench Dame](http://twitter.com/search?q=Bench+Dame) | N/A |
-| 42 | [Gavin Lux](http://twitter.com/search?q=Gavin+Lux) | N/A |
-| 43 | [Puljujarvi](http://twitter.com/search?q=Puljujarvi) | N/A |
-| 44 | [Cut Dame](http://twitter.com/search?q=Cut+Dame) | N/A |
-| 45 | [Bench Kyrie](http://twitter.com/search?q=Bench+Kyrie) | N/A |
-| 46 | [Cut Kyrie](http://twitter.com/search?q=Cut+Kyrie) | N/A |
-| 47 | [Perk](http://twitter.com/search?q=Perk) | N/A |
-| 48 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
-| 49 | [Blackhawk](http://twitter.com/search?q=Blackhawk) | N/A |
-| 50 | [McGinn](http://twitter.com/search?q=McGinn) | McGinn is a surname of Irish origin. It is derived from the Gaelic Mac Fhionnghain, meaning "son of the fair-haired one". |
+| 15 | [Dragic](http://twitter.com/search?q=Dragic) | N/A |
+| 16 | [Bo Cruz](http://twitter.com/search?q=Bo+Cruz) | N/A |
+| 17 | [Sean Desai](http://twitter.com/search?q=Sean+Desai) | N/A |
+| 18 | [Panarin](http://twitter.com/search?q=Panarin) | N/A |
+| 19 | [SCOTUS](http://twitter.com/search?q=SCOTUS) | SCOTUS is an acronym for the Supreme Court of the United States. It is the highest court in the United States and is responsible for interpreting and applying federal laws. |
+| 20 | [Jamie Raskin](http://twitter.com/search?q=Jamie+Raskin) | N/A |
+| 21 | [Fournette](http://twitter.com/search?q=Fournette) | N/A |
+| 22 | [Gaetz](http://twitter.com/search?q=Gaetz) | Gaetz is a surname of German origin. It is derived from the German word "Gatze" which means "goat". The name is most commonly found in the United States, Canada, and Germany. |
+| 23 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
+| 24 | [GIVE US WN BLOOPERS](http://twitter.com/search?q=GIVE+US+WN+BLOOPERS) | N/A |
+| 25 | [Dr. Kinsey](http://twitter.com/search?q=Dr.+Kinsey) | N/A |
+| 26 | [Black History Month](http://twitter.com/search?q=Black+History+Month) | N/A |
+| 27 | [Tinkerbell](http://twitter.com/search?q=Tinkerbell) | N/A |
+| 28 | [Josh Bell](http://twitter.com/search?q=Josh+Bell) | N/A |
+| 29 | [Dreamville](http://twitter.com/search?q=Dreamville) | N/A |
+| 30 | [Tarasenko](http://twitter.com/search?q=Tarasenko) | N/A |
+| 31 | [Ricou Browning](http://twitter.com/search?q=Ricou+Browning) | N/A |
+| 32 | [Chris Drury](http://twitter.com/search?q=Chris+Drury) | N/A |
+| 33 | [Grogu](http://twitter.com/search?q=Grogu) | N/A |
+| 34 | [Seized](http://twitter.com/search?q=Seized) | N/A |
+| 35 | [Start Dame](http://twitter.com/search?q=Start+Dame) | N/A |
+| 36 | [Duke Tobin](http://twitter.com/search?q=Duke+Tobin) | N/A |
+| 37 | [Rachaad White](http://twitter.com/search?q=Rachaad+White) | N/A |
+| 38 | [Marcus Johansson](http://twitter.com/search?q=Marcus+Johansson) | N/A |
+| 39 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 40 | [Start Kyrie](http://twitter.com/search?q=Start+Kyrie) | N/A |
+| 41 | [Lenny](http://twitter.com/search?q=Lenny) | N/A |
+| 42 | [Start Russ](http://twitter.com/search?q=Start+Russ) | N/A |
+| 43 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 44 | [Nudy](http://twitter.com/search?q=Nudy) | N/A |
+| 45 | [Bench Russ](http://twitter.com/search?q=Bench+Russ) | N/A |
+| 46 | [Quintana](http://twitter.com/search?q=Quintana) | N/A |
+| 47 | [Kodak](http://twitter.com/search?q=Kodak) | N/A |
+| 48 | [Eric Adams](http://twitter.com/search?q=Eric+Adams) | N/A |
+| 49 | [JRPG](http://twitter.com/search?q=JRPG) | N/A |
 
 
 

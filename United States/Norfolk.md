@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Norfolk
 
-📆 Last Updated: `2023-02-28 20:16:49 UTC`
+📆 Last Updated: `2023-02-28 21:17:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Dan Snyder](http://twitter.com/search?q=Dan+Snyder) | N/A |
 | 2 | [Patrick Kane](http://twitter.com/search?q=Patrick+Kane) | N/A |
-| 3 | [#studentloanforgiveness](http://twitter.com/search?q=%23studentloanforgiveness) | N/A |
-| 4 | [#TSTheErasTour](http://twitter.com/search?q=%23TSTheErasTour) | N/A |
-| 5 | [#BeyondFast](http://twitter.com/search?q=%23BeyondFast) | #BeyondFast is a hashtag used to describe something that goes beyond the speed of fast. It is used to emphasize the idea that something is faster than fast, or that it surpasses the speed of fast. |
-| 6 | [#RareDiseaseDay](http://twitter.com/search?q=%23RareDiseaseDay) | N/A |
-| 7 | [Kaner](http://twitter.com/search?q=Kaner) | N/A |
-| 8 | [Julie Su](http://twitter.com/search?q=Julie+Su) | N/A |
-| 9 | [Peter Pan](http://twitter.com/search?q=Peter+Pan) | N/A |
-| 10 | [Dave Grohl](http://twitter.com/search?q=Dave+Grohl) | N/A |
-| 11 | [#PMSLive](http://twitter.com/search?q=%23PMSLive) | N/A |
-| 12 | [Leonard Fournette](http://twitter.com/search?q=Leonard+Fournette) | N/A |
-| 13 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
-| 14 | [Dreamville](http://twitter.com/search?q=Dreamville) | N/A |
-| 15 | [SCOTUS](http://twitter.com/search?q=SCOTUS) | SCOTUS is an acronym for the Supreme Court of the United States. It is the highest court in the United States and is responsible for interpreting and applying federal laws. |
-| 16 | [Jamie Raskin](http://twitter.com/search?q=Jamie+Raskin) | N/A |
-| 17 | [GIVE US WN BLOOPERS](http://twitter.com/search?q=GIVE+US+WN+BLOOPERS) | N/A |
-| 18 | [Rachaad White](http://twitter.com/search?q=Rachaad+White) | N/A |
-| 19 | [New York Ranger](http://twitter.com/search?q=New+York+Ranger) | N/A |
-| 20 | [Quintana](http://twitter.com/search?q=Quintana) | N/A |
-| 21 | [Patty Kane](http://twitter.com/search?q=Patty+Kane) | N/A |
-| 22 | [Start Dame](http://twitter.com/search?q=Start+Dame) | N/A |
-| 23 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 24 | [Blackhawks](http://twitter.com/search?q=Blackhawks) | N/A |
-| 25 | [David Lowery](http://twitter.com/search?q=David+Lowery) | N/A |
-| 26 | [Start Kyrie](http://twitter.com/search?q=Start+Kyrie) | N/A |
-| 27 | [Start Russ](http://twitter.com/search?q=Start+Russ) | N/A |
-| 28 | [Tinkerbell](http://twitter.com/search?q=Tinkerbell) | N/A |
-| 29 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 30 | [FFXVI](http://twitter.com/search?q=FFXVI) | N/A |
-| 31 | [Bench Russ](http://twitter.com/search?q=Bench+Russ) | N/A |
-| 32 | [SEIZED](http://twitter.com/search?q=SEIZED) | N/A |
-| 33 | [Sean Desai](http://twitter.com/search?q=Sean+Desai) | N/A |
-| 34 | [Nudy](http://twitter.com/search?q=Nudy) | N/A |
-| 35 | [Ricou Browning](http://twitter.com/search?q=Ricou+Browning) | N/A |
-| 36 | [Mariota](http://twitter.com/search?q=Mariota) | N/A |
-| 37 | [Bench Dame](http://twitter.com/search?q=Bench+Dame) | N/A |
-| 38 | [Chris Drury](http://twitter.com/search?q=Chris+Drury) | N/A |
-| 39 | [Puljujarvi](http://twitter.com/search?q=Puljujarvi) | N/A |
-| 40 | [Gavin Lux](http://twitter.com/search?q=Gavin+Lux) | N/A |
-| 41 | [Cut Dame](http://twitter.com/search?q=Cut+Dame) | N/A |
-| 42 | [Bench Kyrie](http://twitter.com/search?q=Bench+Kyrie) | N/A |
-| 43 | [Cut Kyrie](http://twitter.com/search?q=Cut+Kyrie) | N/A |
-| 44 | [Perk](http://twitter.com/search?q=Perk) | N/A |
-| 45 | [McGinn](http://twitter.com/search?q=McGinn) | McGinn is a surname of Irish origin. It is derived from the Gaelic Mac Fhionnghain, meaning "son of the fair-haired one". |
-| 46 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
-| 47 | [John Lynch](http://twitter.com/search?q=John+Lynch) | John Lynch is a common Irish surname. It is derived from the Gaelic name Mac Giolla Eoin, which means "son of the devotee of St. John". The name is most commonly associated with the Irish counties of Donegal and Mayo. |
-| 48 | [Cremonese](http://twitter.com/search?q=Cremonese) | N/A |
-| 49 | [Kodak](http://twitter.com/search?q=Kodak) | N/A |
+| 3 | [#BeyondFast](http://twitter.com/search?q=%23BeyondFast) | #BeyondFast is a hashtag used to describe something that goes beyond the speed of fast. It is used to emphasize the idea that something is faster than fast, or that it surpasses the speed of fast. |
+| 4 | [#studentloanforgiveness](http://twitter.com/search?q=%23studentloanforgiveness) | N/A |
+| 5 | [#TSTheErasTour](http://twitter.com/search?q=%23TSTheErasTour) | N/A |
+| 6 | [Dave Grohl](http://twitter.com/search?q=Dave+Grohl) | N/A |
+| 7 | [#Blackhawks](http://twitter.com/search?q=%23Blackhawks) | N/A |
+| 8 | [#RareDiseaseDay](http://twitter.com/search?q=%23RareDiseaseDay) | N/A |
+| 9 | [Julie Su](http://twitter.com/search?q=Julie+Su) | N/A |
+| 10 | [Peter Pan](http://twitter.com/search?q=Peter+Pan) | N/A |
+| 11 | [Sandin](http://twitter.com/search?q=Sandin) | N/A |
+| 12 | [Bo Cruz](http://twitter.com/search?q=Bo+Cruz) | N/A |
+| 13 | [Dragic](http://twitter.com/search?q=Dragic) | N/A |
+| 14 | [SCOTUS](http://twitter.com/search?q=SCOTUS) | SCOTUS is an acronym for the Supreme Court of the United States. It is the highest court in the United States and is responsible for interpreting and applying federal laws. |
+| 15 | [Sean Desai](http://twitter.com/search?q=Sean+Desai) | N/A |
+| 16 | [Panarin](http://twitter.com/search?q=Panarin) | N/A |
+| 17 | [Jamie Raskin](http://twitter.com/search?q=Jamie+Raskin) | N/A |
+| 18 | [Fournette](http://twitter.com/search?q=Fournette) | N/A |
+| 19 | [Gaetz](http://twitter.com/search?q=Gaetz) | Gaetz is a surname of German origin. It is derived from the German word "Gatze" which means "goat". The name is most commonly found in the United States, Canada, and Germany. |
+| 20 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
+| 21 | [Dr. Kinsey](http://twitter.com/search?q=Dr.+Kinsey) | N/A |
+| 22 | [GIVE US WN BLOOPERS](http://twitter.com/search?q=GIVE+US+WN+BLOOPERS) | N/A |
+| 23 | [Josh Bell](http://twitter.com/search?q=Josh+Bell) | N/A |
+| 24 | [Black History Month](http://twitter.com/search?q=Black+History+Month) | N/A |
+| 25 | [Tinkerbell](http://twitter.com/search?q=Tinkerbell) | N/A |
+| 26 | [Tarasenko](http://twitter.com/search?q=Tarasenko) | N/A |
+| 27 | [Dreamville](http://twitter.com/search?q=Dreamville) | N/A |
+| 28 | [Ricou Browning](http://twitter.com/search?q=Ricou+Browning) | N/A |
+| 29 | [Chris Drury](http://twitter.com/search?q=Chris+Drury) | N/A |
+| 30 | [Seized](http://twitter.com/search?q=Seized) | N/A |
+| 31 | [Grogu](http://twitter.com/search?q=Grogu) | N/A |
+| 32 | [Duke Tobin](http://twitter.com/search?q=Duke+Tobin) | N/A |
+| 33 | [Rachaad White](http://twitter.com/search?q=Rachaad+White) | N/A |
+| 34 | [Start Dame](http://twitter.com/search?q=Start+Dame) | N/A |
+| 35 | [Marcus Johansson](http://twitter.com/search?q=Marcus+Johansson) | N/A |
+| 36 | [Lenny](http://twitter.com/search?q=Lenny) | N/A |
+| 37 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 38 | [Start Kyrie](http://twitter.com/search?q=Start+Kyrie) | N/A |
+| 39 | [Start Russ](http://twitter.com/search?q=Start+Russ) | N/A |
+| 40 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 41 | [Bench Russ](http://twitter.com/search?q=Bench+Russ) | N/A |
+| 42 | [Nudy](http://twitter.com/search?q=Nudy) | N/A |
+| 43 | [Quintana](http://twitter.com/search?q=Quintana) | N/A |
+| 44 | [Kodak](http://twitter.com/search?q=Kodak) | N/A |
+| 45 | [Eric Adams](http://twitter.com/search?q=Eric+Adams) | N/A |
+| 46 | [Alex Tanney](http://twitter.com/search?q=Alex+Tanney) | N/A |
+| 47 | [JRPG](http://twitter.com/search?q=JRPG) | N/A |
+| 48 | [David Lowery](http://twitter.com/search?q=David+Lowery) | N/A |
+| 49 | [Bench Dame](http://twitter.com/search?q=Bench+Dame) | N/A |
 
 
 

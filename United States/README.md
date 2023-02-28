@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For United States
 
-📆 Last Updated: `2023-02-28 20:17:00 UTC`
+📆 Last Updated: `2023-02-28 21:17:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for United States
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Patrick Kane](http://twitter.com/search?q=Patrick+Kane) | N/A |
-| 2 | [#studentloanforgiveness](http://twitter.com/search?q=%23studentloanforgiveness) | N/A |
-| 3 | [#TSTheErasTour](http://twitter.com/search?q=%23TSTheErasTour) | N/A |
-| 4 | [#BeyondFast](http://twitter.com/search?q=%23BeyondFast) | #BeyondFast is a hashtag used to describe something that goes beyond the speed of fast. It is used to emphasize the idea that something is faster than fast, or that it surpasses the speed of fast. |
+| 2 | [#BeyondFast](http://twitter.com/search?q=%23BeyondFast) | #BeyondFast is a hashtag used to describe something that goes beyond the speed of fast. It is used to emphasize the idea that something is faster than fast, or that it surpasses the speed of fast. |
+| 3 | [#studentloanforgiveness](http://twitter.com/search?q=%23studentloanforgiveness) | N/A |
+| 4 | [#TSTheErasTour](http://twitter.com/search?q=%23TSTheErasTour) | N/A |
 | 5 | [#RareDiseaseDay](http://twitter.com/search?q=%23RareDiseaseDay) | N/A |
-| 6 | [Kaner](http://twitter.com/search?q=Kaner) | N/A |
-| 7 | [Julie Su](http://twitter.com/search?q=Julie+Su) | N/A |
-| 8 | [Peter Pan](http://twitter.com/search?q=Peter+Pan) | N/A |
-| 9 | [Dave Grohl](http://twitter.com/search?q=Dave+Grohl) | N/A |
-| 10 | [#PMSLive](http://twitter.com/search?q=%23PMSLive) | N/A |
-| 11 | [Leonard Fournette](http://twitter.com/search?q=Leonard+Fournette) | N/A |
-| 12 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
-| 13 | [Dreamville](http://twitter.com/search?q=Dreamville) | N/A |
-| 14 | [SCOTUS](http://twitter.com/search?q=SCOTUS) | SCOTUS is an acronym for the Supreme Court of the United States. It is the highest court in the United States and is responsible for interpreting and applying federal laws. |
-| 15 | [GIVE US WN BLOOPERS](http://twitter.com/search?q=GIVE+US+WN+BLOOPERS) | N/A |
+| 6 | [#Blackhawks](http://twitter.com/search?q=%23Blackhawks) | N/A |
+| 7 | [Dave Grohl](http://twitter.com/search?q=Dave+Grohl) | N/A |
+| 8 | [Julie Su](http://twitter.com/search?q=Julie+Su) | N/A |
+| 9 | [Sandin](http://twitter.com/search?q=Sandin) | N/A |
+| 10 | [Peter Pan](http://twitter.com/search?q=Peter+Pan) | N/A |
+| 11 | [Dragic](http://twitter.com/search?q=Dragic) | N/A |
+| 12 | [Bo Cruz](http://twitter.com/search?q=Bo+Cruz) | N/A |
+| 13 | [Sean Desai](http://twitter.com/search?q=Sean+Desai) | N/A |
+| 14 | [Panarin](http://twitter.com/search?q=Panarin) | N/A |
+| 15 | [SCOTUS](http://twitter.com/search?q=SCOTUS) | SCOTUS is an acronym for the Supreme Court of the United States. It is the highest court in the United States and is responsible for interpreting and applying federal laws. |
 | 16 | [Jamie Raskin](http://twitter.com/search?q=Jamie+Raskin) | N/A |
-| 17 | [Rachaad White](http://twitter.com/search?q=Rachaad+White) | N/A |
-| 18 | [New York Ranger](http://twitter.com/search?q=New+York+Ranger) | N/A |
-| 19 | [Quintana](http://twitter.com/search?q=Quintana) | N/A |
-| 20 | [Patty Kane](http://twitter.com/search?q=Patty+Kane) | N/A |
-| 21 | [Start Dame](http://twitter.com/search?q=Start+Dame) | N/A |
-| 22 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 23 | [Blackhawks](http://twitter.com/search?q=Blackhawks) | N/A |
-| 24 | [David Lowery](http://twitter.com/search?q=David+Lowery) | N/A |
-| 25 | [Tinkerbell](http://twitter.com/search?q=Tinkerbell) | N/A |
-| 26 | [Start Kyrie](http://twitter.com/search?q=Start+Kyrie) | N/A |
-| 27 | [Start Russ](http://twitter.com/search?q=Start+Russ) | N/A |
-| 28 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 29 | [FFXVI](http://twitter.com/search?q=FFXVI) | N/A |
-| 30 | [Bench Russ](http://twitter.com/search?q=Bench+Russ) | N/A |
-| 31 | [SEIZED](http://twitter.com/search?q=SEIZED) | N/A |
-| 32 | [Nudy](http://twitter.com/search?q=Nudy) | N/A |
-| 33 | [Sean Desai](http://twitter.com/search?q=Sean+Desai) | N/A |
-| 34 | [Ricou Browning](http://twitter.com/search?q=Ricou+Browning) | N/A |
-| 35 | [Mariota](http://twitter.com/search?q=Mariota) | N/A |
-| 36 | [Chris Drury](http://twitter.com/search?q=Chris+Drury) | N/A |
-| 37 | [Bench Dame](http://twitter.com/search?q=Bench+Dame) | N/A |
-| 38 | [Puljujarvi](http://twitter.com/search?q=Puljujarvi) | N/A |
-| 39 | [Gavin Lux](http://twitter.com/search?q=Gavin+Lux) | N/A |
-| 40 | [Cut Dame](http://twitter.com/search?q=Cut+Dame) | N/A |
-| 41 | [Bench Kyrie](http://twitter.com/search?q=Bench+Kyrie) | N/A |
-| 42 | [Cut Kyrie](http://twitter.com/search?q=Cut+Kyrie) | N/A |
-| 43 | [Perk](http://twitter.com/search?q=Perk) | N/A |
-| 44 | [McGinn](http://twitter.com/search?q=McGinn) | McGinn is a surname of Irish origin. It is derived from the Gaelic Mac Fhionnghain, meaning "son of the fair-haired one". |
-| 45 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
-| 46 | [John Lynch](http://twitter.com/search?q=John+Lynch) | John Lynch is a common Irish surname. It is derived from the Gaelic name Mac Giolla Eoin, which means "son of the devotee of St. John". The name is most commonly associated with the Irish counties of Donegal and Mayo. |
-| 47 | [Cremonese](http://twitter.com/search?q=Cremonese) | N/A |
-| 48 | [Kodak](http://twitter.com/search?q=Kodak) | N/A |
-| 49 | [Kenny Golladay](http://twitter.com/search?q=Kenny+Golladay) | Kenny Golladay is an American football wide receiver for the Detroit Lions of the National Football League (NFL). He was drafted by the Lions in the third round of the 2017 NFL Draft. His name is a combination of his first and last names, Kenny and Golladay. |
-| 50 | [Patrick Corbin](http://twitter.com/search?q=Patrick+Corbin) | N/A |
+| 17 | [Fournette](http://twitter.com/search?q=Fournette) | N/A |
+| 18 | [Gaetz](http://twitter.com/search?q=Gaetz) | Gaetz is a surname of German origin. It is derived from the German word "Gatze" which means "goat". The name is most commonly found in the United States, Canada, and Germany. |
+| 19 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
+| 20 | [GIVE US WN BLOOPERS](http://twitter.com/search?q=GIVE+US+WN+BLOOPERS) | N/A |
+| 21 | [Dr. Kinsey](http://twitter.com/search?q=Dr.+Kinsey) | N/A |
+| 22 | [Black History Month](http://twitter.com/search?q=Black+History+Month) | N/A |
+| 23 | [Tinkerbell](http://twitter.com/search?q=Tinkerbell) | N/A |
+| 24 | [Josh Bell](http://twitter.com/search?q=Josh+Bell) | N/A |
+| 25 | [Dreamville](http://twitter.com/search?q=Dreamville) | N/A |
+| 26 | [Tarasenko](http://twitter.com/search?q=Tarasenko) | N/A |
+| 27 | [Ricou Browning](http://twitter.com/search?q=Ricou+Browning) | N/A |
+| 28 | [Chris Drury](http://twitter.com/search?q=Chris+Drury) | N/A |
+| 29 | [Grogu](http://twitter.com/search?q=Grogu) | N/A |
+| 30 | [New York Ranger](http://twitter.com/search?q=New+York+Ranger) | N/A |
+| 31 | [Seized](http://twitter.com/search?q=Seized) | N/A |
+| 32 | [Start Dame](http://twitter.com/search?q=Start+Dame) | N/A |
+| 33 | [Duke Tobin](http://twitter.com/search?q=Duke+Tobin) | N/A |
+| 34 | [Rachaad White](http://twitter.com/search?q=Rachaad+White) | N/A |
+| 35 | [Marcus Johansson](http://twitter.com/search?q=Marcus+Johansson) | N/A |
+| 36 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 37 | [Start Kyrie](http://twitter.com/search?q=Start+Kyrie) | N/A |
+| 38 | [Lenny](http://twitter.com/search?q=Lenny) | N/A |
+| 39 | [Start Russ](http://twitter.com/search?q=Start+Russ) | N/A |
+| 40 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 41 | [Nudy](http://twitter.com/search?q=Nudy) | N/A |
+| 42 | [Bench Russ](http://twitter.com/search?q=Bench+Russ) | N/A |
+| 43 | [Quintana](http://twitter.com/search?q=Quintana) | N/A |
+| 44 | [Kodak](http://twitter.com/search?q=Kodak) | N/A |
+| 45 | [Eric Adams](http://twitter.com/search?q=Eric+Adams) | N/A |
+| 46 | [JRPG](http://twitter.com/search?q=JRPG) | N/A |
+| 47 | [David Lowery](http://twitter.com/search?q=David+Lowery) | N/A |
+| 48 | [Bench Dame](http://twitter.com/search?q=Bench+Dame) | N/A |
+| 49 | [Bench Kyrie](http://twitter.com/search?q=Bench+Kyrie) | N/A |
+| 50 | [FFXVI](http://twitter.com/search?q=FFXVI) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico City
 
-📆 Last Updated: `2023-02-28 20:16:09 UTC`
+📆 Last Updated: `2023-02-28 21:16:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Mexico](</Mexico>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#incendio](http://twitter.com/search?q=%23incendio) | N/A |
-| 2 | [Dinamarca](http://twitter.com/search?q=Dinamarca) | N/A |
+| 2 | [Perú](http://twitter.com/search?q=Per%c3%ba) | Perú is the official name of a country in South America. It is bordered by Ecuador and Colombia to the north, Brazil and Bolivia to the east, Chile to the south, and the Pacific Ocean to the west. The name Perú comes from a word in the native Quechua language meaning "land of abundance." |
 | 3 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 | 4 | [#SalarioRosaContinua](http://twitter.com/search?q=%23SalarioRosaContinua) | N/A |
 | 5 | [#SquidCraft2](http://twitter.com/search?q=%23SquidCraft2) | N/A |
 | 6 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
-| 7 | [Xalostoc](http://twitter.com/search?q=Xalostoc) | N/A |
+| 7 | [tina](http://twitter.com/search?q=tina) | N/A |
 | 8 | [#Ecatepec](http://twitter.com/search?q=%23Ecatepec) | N/A |
-| 9 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 9 | [Xalostoc](http://twitter.com/search?q=Xalostoc) | N/A |
 | 10 | [#Chalco](http://twitter.com/search?q=%23Chalco) | N/A |
-| 11 | [Monterrey](http://twitter.com/search?q=Monterrey) | N/A |
-| 12 | [tina](http://twitter.com/search?q=tina) | N/A |
+| 11 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 12 | [Monterrey](http://twitter.com/search?q=Monterrey) | N/A |
 | 13 | [Cremonese](http://twitter.com/search?q=Cremonese) | N/A |
 | 14 | [Reyma](http://twitter.com/search?q=Reyma) | N/A |
-| 15 | [Angie](http://twitter.com/search?q=Angie) | N/A |
-| 16 | [Samuel](http://twitter.com/search?q=Samuel) | N/A |
-| 17 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 18 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
-| 19 | [Lorena Merino](http://twitter.com/search?q=Lorena+Merino) | N/A |
-| 20 | [Quackity](http://twitter.com/search?q=Quackity) | N/A |
-| 21 | [Tinkerbell](http://twitter.com/search?q=Tinkerbell) | N/A |
-| 22 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
-| 23 | [Auron](http://twitter.com/search?q=Auron) | Auron is a character from the popular video game series Final Fantasy. He is a powerful warrior who is known for his strength and wisdom. His name is derived from the Latin word aurum, which means "gold". In English, Auron can be translated to mean "golden one". |
-| 24 | [Santa Catarina](http://twitter.com/search?q=Santa+Catarina) | N/A |
-| 25 | [Astro](http://twitter.com/search?q=Astro) | N/A |
-| 26 | [hannah montana](http://twitter.com/search?q=hannah+montana) | N/A |
-| 27 | [Stephen Colbert](http://twitter.com/search?q=Stephen+Colbert) | N/A |
-| 28 | [Perú](http://twitter.com/search?q=Per%c3%ba) | Perú is the official name of a country in South America. It is bordered by Ecuador and Colombia to the north, Brazil and Bolivia to the east, Chile to the south, and the Pacific Ocean to the west. The name Perú comes from a word in the native Quechua language meaning "land of abundance." |
-| 29 | [Felipe Ángeles](http://twitter.com/search?q=Felipe+%c3%81ngeles) | N/A |
-| 30 | [Wactor](http://twitter.com/search?q=Wactor) | N/A |
-| 31 | [Palacio de Gobierno](http://twitter.com/search?q=Palacio+de+Gobierno) | N/A |
-| 32 | [N.L.](http://twitter.com/search?q=N.L.) | N/A |
-| 33 | [Carioca](http://twitter.com/search?q=Carioca) | N/A |
-| 34 | [Chumel](http://twitter.com/search?q=Chumel) | N/A |
-| 35 | [Autoevaluación HONESTA](http://twitter.com/search?q=Autoevaluaci%c3%b3n+HONESTA) | N/A |
-| 36 | [Día Mundial](http://twitter.com/search?q=D%c3%ada+Mundial) | N/A |
-| 37 | [Elden Ring](http://twitter.com/search?q=Elden+Ring) | N/A |
-| 38 | [Washington](http://twitter.com/search?q=Washington) | N/A |
-| 39 | [Texas](http://twitter.com/search?q=Texas) | N/A |
-| 40 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
-| 41 | [Rubius](http://twitter.com/search?q=Rubius) | Rubius is a Latin word meaning "red". It is often used to describe the color of hair, eyes, or skin. |
-| 42 | [Chayanne](http://twitter.com/search?q=Chayanne) | N/A |
-| 43 | [Pemex](http://twitter.com/search?q=Pemex) | N/A |
-| 44 | [Casillas](http://twitter.com/search?q=Casillas) | N/A |
-| 45 | [Martes 28](http://twitter.com/search?q=Martes+28) | N/A |
-| 46 | [#PeterPanAndWendy](http://twitter.com/search?q=%23PeterPanAndWendy) | N/A |
-| 47 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
-| 48 | [#EnfermedadesRaras](http://twitter.com/search?q=%23EnfermedadesRaras) | N/A |
-| 49 | [#JISOOxDiorAW23](http://twitter.com/search?q=%23JISOOxDiorAW23) | N/A |
-| 50 | [#HAPPY_WONHO_DAY](http://twitter.com/search?q=%23HAPPY_WONHO_DAY) | N/A |
+| 15 | [Samuel](http://twitter.com/search?q=Samuel) | N/A |
+| 16 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 17 | [Quackity](http://twitter.com/search?q=Quackity) | N/A |
+| 18 | [Angie](http://twitter.com/search?q=Angie) | N/A |
+| 19 | [Campanita](http://twitter.com/search?q=Campanita) | N/A |
+| 20 | [GIVE US WN BLOOPERS](http://twitter.com/search?q=GIVE+US+WN+BLOOPERS) | N/A |
+| 21 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
+| 22 | [Alana](http://twitter.com/search?q=Alana) | N/A |
+| 23 | [Santa Catarina](http://twitter.com/search?q=Santa+Catarina) | N/A |
+| 24 | [Dinamarca](http://twitter.com/search?q=Dinamarca) | N/A |
+| 25 | [Lorena Merino](http://twitter.com/search?q=Lorena+Merino) | N/A |
+| 26 | [Tinkerbell](http://twitter.com/search?q=Tinkerbell) | N/A |
+| 27 | [Luzu](http://twitter.com/search?q=Luzu) | Luzu is a Spanish word that means light. It is often used to refer to a bright, cheerful, and optimistic attitude. |
+| 28 | [Carioca](http://twitter.com/search?q=Carioca) | N/A |
+| 29 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
+| 30 | [Astro](http://twitter.com/search?q=Astro) | N/A |
+| 31 | [Stephen Colbert](http://twitter.com/search?q=Stephen+Colbert) | N/A |
+| 32 | [Auron](http://twitter.com/search?q=Auron) | Auron is a character from the popular video game series Final Fantasy. He is a powerful warrior who is known for his strength and wisdom. His name is derived from the Latin word aurum, which means "gold". In English, Auron can be translated to mean "golden one". |
+| 33 | [hannah montana](http://twitter.com/search?q=hannah+montana) | N/A |
+| 34 | [Wactor](http://twitter.com/search?q=Wactor) | N/A |
+| 35 | [Felipe Ángeles](http://twitter.com/search?q=Felipe+%c3%81ngeles) | N/A |
+| 36 | [Palacio de Gobierno](http://twitter.com/search?q=Palacio+de+Gobierno) | N/A |
+| 37 | [Rubius](http://twitter.com/search?q=Rubius) | Rubius is a Latin word meaning "red". It is often used to describe the color of hair, eyes, or skin. |
+| 38 | [valdo](http://twitter.com/search?q=valdo) | N/A |
+| 39 | [Chicharito](http://twitter.com/search?q=Chicharito) | N/A |
+| 40 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
+| 41 | [N.L.](http://twitter.com/search?q=N.L.) | N/A |
+| 42 | [Chumel](http://twitter.com/search?q=Chumel) | N/A |
+| 43 | [Elden Ring](http://twitter.com/search?q=Elden+Ring) | N/A |
+| 44 | [Autoevaluación HONESTA](http://twitter.com/search?q=Autoevaluaci%c3%b3n+HONESTA) | N/A |
+| 45 | [Washington](http://twitter.com/search?q=Washington) | N/A |
+| 46 | [Día Mundial](http://twitter.com/search?q=D%c3%ada+Mundial) | N/A |
+| 47 | [Chayanne](http://twitter.com/search?q=Chayanne) | N/A |
+| 48 | [Pemex](http://twitter.com/search?q=Pemex) | N/A |
+| 49 | [Martes 28](http://twitter.com/search?q=Martes+28) | N/A |
+| 50 | [#PeterPanAndWendy](http://twitter.com/search?q=%23PeterPanAndWendy) | N/A |
 
 
 

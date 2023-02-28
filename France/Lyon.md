@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lyon
 
-📆 Last Updated: `2023-02-28 20:16:18 UTC`
+📆 Last Updated: `2023-02-28 21:16:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,48 +15,56 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Delormeau](http://twitter.com/search?q=Delormeau) | N/A |
+| 1 | [#KohLanta](http://twitter.com/search?q=%23KohLanta) | N/A |
 | 2 | [#OLGF38](http://twitter.com/search?q=%23OLGF38) | N/A |
-| 3 | [#Papillomavirus](http://twitter.com/search?q=%23Papillomavirus) | N/A |
-| 4 | [Cremonese](http://twitter.com/search?q=Cremonese) | N/A |
-| 5 | [#HONORMagic5Pro](http://twitter.com/search?q=%23HONORMagic5Pro) | N/A |
-| 6 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 7 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 8 | [Rothen](http://twitter.com/search?q=Rothen) | N/A |
-| 9 | [Raymond](http://twitter.com/search?q=Raymond) | N/A |
-| 10 | [Kumbedi](http://twitter.com/search?q=Kumbedi) | N/A |
-| 11 | [#LeGraet](http://twitter.com/search?q=%23LeGraet) | N/A |
-| 12 | [Gardasil](http://twitter.com/search?q=Gardasil) | N/A |
-| 13 | [Housni](http://twitter.com/search?q=Housni) | Housni is an Arabic name that means "good luck". It is often used as a term of endearment or to express good wishes. |
-| 14 | [Upset](http://twitter.com/search?q=Upset) | N/A |
-| 15 | [Youth League](http://twitter.com/search?q=Youth+League) | N/A |
-| 16 | [Peter Pan](http://twitter.com/search?q=Peter+Pan) | N/A |
-| 17 | [AC Milan](http://twitter.com/search?q=AC+Milan) | AC Milan is a professional Italian football club based in Milan, Italy. The club is one of the most successful teams in the world, having won 18 FIFA and UEFA titles. The acronym AC stands for Associazione Calcio (Italian for Football Association). |
-| 18 | [Gharbi](http://twitter.com/search?q=Gharbi) | Gharbi is an Arabic word meaning "western". It is used to refer to things or people from the West, particularly Europe and North America. |
-| 19 | [Voiture 1](http://twitter.com/search?q=Voiture+1) | N/A |
-| 20 | [Freeze](http://twitter.com/search?q=Freeze) | N/A |
-| 21 | [Sports](http://twitter.com/search?q=Sports) | N/A |
-| 22 | [FFXVI](http://twitter.com/search?q=FFXVI) | N/A |
-| 23 | [Creed 3](http://twitter.com/search?q=Creed+3) | N/A |
-| 24 | [Milan AC](http://twitter.com/search?q=Milan+AC) | N/A |
-| 25 | [Vitality](http://twitter.com/search?q=Vitality) | N/A |
-| 26 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
-| 27 | [Comex](http://twitter.com/search?q=Comex) | N/A |
-| 28 | [Astro](http://twitter.com/search?q=Astro) | N/A |
-| 29 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
-| 30 | [Infantino](http://twitter.com/search?q=Infantino) | Infantino is a Spanish word meaning "little baby". It is often used as an affectionate term for a young child. |
-| 31 | [Dior](http://twitter.com/search?q=Dior) | Dior is a French luxury fashion house founded in 1946 by Christian Dior. The name Dior is derived from the founder's surname and is an abbreviation of his full name, Christian Dior. In English, it means "of or relating to Christian Dior". |
-| 32 | [Platini](http://twitter.com/search?q=Platini) | N/A |
-| 33 | [#DemainNousAppartient](http://twitter.com/search?q=%23DemainNousAppartient) | N/A |
-| 34 | [#Quotidien](http://twitter.com/search?q=%23Quotidien) | N/A |
-| 35 | [#xPortal](http://twitter.com/search?q=%23xPortal) | N/A |
-| 36 | [#CoupeDeFrance](http://twitter.com/search?q=%23CoupeDeFrance) | N/A |
-| 37 | [#FreebetWinamax](http://twitter.com/search?q=%23FreebetWinamax) | N/A |
-| 38 | [#OMAnnecy](http://twitter.com/search?q=%23OMAnnecy) | N/A |
-| 39 | [#Destiny2](http://twitter.com/search?q=%23Destiny2) | N/A |
-| 40 | [#7MarsOnArrêteTout](http://twitter.com/search?q=%237MarsOnArr%c3%aateTout) | N/A |
-| 41 | [#maladiesrares](http://twitter.com/search?q=%23maladiesrares) | N/A |
-| 42 | [#RareDiseaseDay](http://twitter.com/search?q=%23RareDiseaseDay) | N/A |
+| 3 | [Jeffinho](http://twitter.com/search?q=Jeffinho) | Jeffinho is a Portuguese nickname derived from the name "Jefferson". It is often used as a term of endearment, similar to "honey" or "sweetheart" in English. |
+| 4 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
+| 5 | [Barcola](http://twitter.com/search?q=Barcola) | N/A |
+| 6 | [Alexandre](http://twitter.com/search?q=Alexandre) | N/A |
+| 7 | [#BeyondFast](http://twitter.com/search?q=%23BeyondFast) | #BeyondFast is a hashtag used to describe something that goes beyond the speed of fast. It is used to emphasize the idea that something is faster than fast, or that it surpasses the speed of fast. |
+| 8 | [Djibril Cissé](http://twitter.com/search?q=Djibril+Ciss%c3%a9) | N/A |
+| 9 | [Tania](http://twitter.com/search?q=Tania) | N/A |
+| 10 | [Grenoble](http://twitter.com/search?q=Grenoble) | N/A |
+| 11 | [Delormeau](http://twitter.com/search?q=Delormeau) | N/A |
+| 12 | [Rothen](http://twitter.com/search?q=Rothen) | N/A |
+| 13 | [Cherki](http://twitter.com/search?q=Cherki) | Cherki is a term used in Moroccan Arabic to refer to someone who is of mixed race or of mixed heritage. It literally translates to "half-breed" or "mixed-breed". |
+| 14 | [#HONORMagic5Pro](http://twitter.com/search?q=%23HONORMagic5Pro) | N/A |
+| 15 | [Torino](http://twitter.com/search?q=Torino) | N/A |
+| 16 | [Bradley](http://twitter.com/search?q=Bradley) | N/A |
+| 17 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
+| 18 | [#popcorn](http://twitter.com/search?q=%23popcorn) | N/A |
+| 19 | [Benjamin](http://twitter.com/search?q=Benjamin) | N/A |
+| 20 | [Frappart](http://twitter.com/search?q=Frappart) | Frappart is a French term meaning "to make something better or more perfect." It is often used in the context of improving a product or service. |
+| 21 | [Sarr](http://twitter.com/search?q=Sarr) | Sarr is a French surname. It is derived from the Latin word "sarra", which means "prince". In English, it can be translated to mean "princely". |
+| 22 | [Tagliafico](http://twitter.com/search?q=Tagliafico) | N/A |
+| 23 | [Cremonese](http://twitter.com/search?q=Cremonese) | N/A |
+| 24 | [Frédéric](http://twitter.com/search?q=Fr%c3%a9d%c3%a9ric) | N/A |
+| 25 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 26 | [Olympique Lyonnais](http://twitter.com/search?q=Olympique+Lyonnais) | N/A |
+| 27 | [GIVE US WN BLOOPERS](http://twitter.com/search?q=GIVE+US+WN+BLOOPERS) | N/A |
+| 28 | [Raymond](http://twitter.com/search?q=Raymond) | N/A |
+| 29 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 30 | [Gardasil](http://twitter.com/search?q=Gardasil) | N/A |
+| 31 | [Caqueret](http://twitter.com/search?q=Caqueret) | N/A |
+| 32 | [Kumbedi](http://twitter.com/search?q=Kumbedi) | N/A |
+| 33 | [AC Milan](http://twitter.com/search?q=AC+Milan) | AC Milan is a professional Italian football club based in Milan, Italy. The club is one of the most successful teams in the world, having won 18 FIFA and UEFA titles. The acronym AC stands for Associazione Calcio (Italian for Football Association). |
+| 34 | [Housni](http://twitter.com/search?q=Housni) | Housni is an Arabic name that means "good luck". It is often used as a term of endearment or to express good wishes. |
+| 35 | [Creed 3](http://twitter.com/search?q=Creed+3) | N/A |
+| 36 | [Peter Pan](http://twitter.com/search?q=Peter+Pan) | N/A |
+| 37 | [Milan AC](http://twitter.com/search?q=Milan+AC) | N/A |
+| 38 | [Voiture 1](http://twitter.com/search?q=Voiture+1) | N/A |
+| 39 | [Freeze](http://twitter.com/search?q=Freeze) | N/A |
+| 40 | [Sports](http://twitter.com/search?q=Sports) | N/A |
+| 41 | [Upset](http://twitter.com/search?q=Upset) | N/A |
+| 42 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 43 | [Justin Bieber](http://twitter.com/search?q=Justin+Bieber) | N/A |
+| 44 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
+| 45 | [Youth League](http://twitter.com/search?q=Youth+League) | N/A |
+| 46 | [Comex](http://twitter.com/search?q=Comex) | N/A |
+| 47 | [Platini](http://twitter.com/search?q=Platini) | N/A |
+| 48 | [Cyril](http://twitter.com/search?q=Cyril) | N/A |
+| 49 | [Astro](http://twitter.com/search?q=Astro) | N/A |
+| 50 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
 
 
 

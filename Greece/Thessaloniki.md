@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Thessaloniki
 
-📆 Last Updated: `2023-02-28 20:16:24 UTC`
+📆 Last Updated: `2023-02-28 21:16:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Greece](</Greece>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Πολακη](http://twitter.com/search?q=%ce%a0%ce%bf%ce%bb%ce%b1%ce%ba%ce%b7) | N/A |
-| 2 | [#MasterChefGR](http://twitter.com/search?q=%23MasterChefGR) | #MasterChefGR is a hashtag used on social media to refer to the Greek version of the popular cooking show MasterChef. It is used to discuss the show, share recipes, and connect with other fans of the show. In English, it stands for "MasterChef Greece". |
-| 3 | [#με_τον_Παυλαρα](http://twitter.com/search?q=%23%ce%bc%ce%b5_%cf%84%ce%bf%ce%bd_%ce%a0%ce%b1%cf%85%ce%bb%ce%b1%cf%81%ce%b1) | N/A |
-| 4 | [#ωραιες_λεξεις](http://twitter.com/search?q=%23%cf%89%cf%81%ce%b1%ce%b9%ce%b5%cf%82_%ce%bb%ce%b5%ce%be%ce%b5%ce%b9%cf%82) | N/A |
-| 5 | [ΣΥΡΙΖΑ](http://twitter.com/search?q=%ce%a3%ce%a5%ce%a1%ce%99%ce%96%ce%91) | N/A |
-| 6 | [Καλη Σαρακοστη](http://twitter.com/search?q=%ce%9a%ce%b1%ce%bb%ce%b7+%ce%a3%ce%b1%cf%81%ce%b1%ce%ba%ce%bf%cf%83%cf%84%ce%b7) | N/A |
-| 7 | [#shoppingstar](http://twitter.com/search?q=%23shoppingstar) | N/A |
-| 8 | [#Νεζος](http://twitter.com/search?q=%23%ce%9d%ce%b5%ce%b6%ce%bf%cf%82) | N/A |
-| 9 | [Τσιπρας](http://twitter.com/search?q=%ce%a4%cf%83%ce%b9%cf%80%cf%81%ce%b1%cf%82) | N/A |
-| 10 | [Εκτελεστικου Γραφειου](http://twitter.com/search?q=%ce%95%ce%ba%cf%84%ce%b5%ce%bb%ce%b5%cf%83%cf%84%ce%b9%ce%ba%ce%bf%cf%85+%ce%93%cf%81%ce%b1%cf%86%ce%b5%ce%b9%ce%bf%cf%85) | N/A |
-| 11 | [Ντορσει](http://twitter.com/search?q=%ce%9d%cf%84%ce%bf%cf%81%cf%83%ce%b5%ce%b9) | N/A |
-| 12 | [PEGA](http://twitter.com/search?q=PEGA) | N/A |
-| 13 | [Ο Παναγιωτης](http://twitter.com/search?q=%ce%9f+%ce%a0%ce%b1%ce%bd%ce%b1%ce%b3%ce%b9%cf%89%cf%84%ce%b7%cf%82) | N/A |
-| 14 | [Μπεη](http://twitter.com/search?q=%ce%9c%cf%80%ce%b5%ce%b7) | N/A |
-| 15 | [Νικολαου](http://twitter.com/search?q=%ce%9d%ce%b9%ce%ba%ce%bf%ce%bb%ce%b1%ce%bf%cf%85) | N/A |
-| 16 | [Ασημακοπουλο](http://twitter.com/search?q=%ce%91%cf%83%ce%b7%ce%bc%ce%b1%ce%ba%ce%bf%cf%80%ce%bf%cf%85%ce%bb%ce%bf) | N/A |
-| 17 | [Καιρο](http://twitter.com/search?q=%ce%9a%ce%b1%ce%b9%cf%81%ce%bf) | N/A |
-| 18 | [Φενερ](http://twitter.com/search?q=%ce%a6%ce%b5%ce%bd%ce%b5%cf%81) | N/A |
-| 19 | [Σροιτερ](http://twitter.com/search?q=%ce%a3%cf%81%ce%bf%ce%b9%cf%84%ce%b5%cf%81) | N/A |
-| 20 | [Predator](http://twitter.com/search?q=Predator) | N/A |
-| 21 | [Ψυχικο](http://twitter.com/search?q=%ce%a8%cf%85%cf%87%ce%b9%ce%ba%ce%bf) | N/A |
-| 22 | [Ο Μαρτικας](http://twitter.com/search?q=%ce%9f+%ce%9c%ce%b1%cf%81%cf%84%ce%b9%ce%ba%ce%b1%cf%82) | N/A |
-| 23 | [Ραγκουσης](http://twitter.com/search?q=%ce%a1%ce%b1%ce%b3%ce%ba%ce%bf%cf%85%cf%83%ce%b7%cf%82) | N/A |
-| 24 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 25 | [Καλο](http://twitter.com/search?q=%ce%9a%ce%b1%ce%bb%ce%bf) | N/A |
-| 26 | [Χαντα](http://twitter.com/search?q=%ce%a7%ce%b1%ce%bd%cf%84%ce%b1) | N/A |
-| 27 | [Πηνελοπη](http://twitter.com/search?q=%ce%a0%ce%b7%ce%bd%ce%b5%ce%bb%ce%bf%cf%80%ce%b7) | N/A |
-| 28 | [Μιλου](http://twitter.com/search?q=%ce%9c%ce%b9%ce%bb%ce%bf%cf%85) | N/A |
-| 29 | [Σταυρο](http://twitter.com/search?q=%ce%a3%cf%84%ce%b1%cf%85%cf%81%ce%bf) | N/A |
-| 30 | [Ταιλερ](http://twitter.com/search?q=%ce%a4%ce%b1%ce%b9%ce%bb%ce%b5%cf%81) | N/A |
-| 31 | [Ντινο](http://twitter.com/search?q=%ce%9d%cf%84%ce%b9%ce%bd%ce%bf) | N/A |
-| 32 | [ΣΚΑΙ](http://twitter.com/search?q=%ce%a3%ce%9a%ce%91%ce%99) | N/A |
-| 33 | [ο πηλιδης](http://twitter.com/search?q=%ce%bf+%cf%80%ce%b7%ce%bb%ce%b9%ce%b4%ce%b7%cf%82) | N/A |
-| 34 | [Αλεξης](http://twitter.com/search?q=%ce%91%ce%bb%ce%b5%ce%be%ce%b7%cf%82) | N/A |
-| 35 | [ΑΝΤΑΡΣΥΑ](http://twitter.com/search?q=%ce%91%ce%9d%ce%a4%ce%91%ce%a1%ce%a3%ce%a5%ce%91) | N/A |
-| 36 | [λευτερης](http://twitter.com/search?q=%ce%bb%ce%b5%cf%85%cf%84%ce%b5%cf%81%ce%b7%cf%82) | N/A |
-| 37 | [Μπαναωτης](http://twitter.com/search?q=%ce%9c%cf%80%ce%b1%ce%bd%ce%b1%cf%89%cf%84%ce%b7%cf%82) | N/A |
-| 38 | [Αρετη](http://twitter.com/search?q=%ce%91%cf%81%ce%b5%cf%84%ce%b7) | N/A |
-| 39 | [Κανααν](http://twitter.com/search?q=%ce%9a%ce%b1%ce%bd%ce%b1%ce%b1%ce%bd) | N/A |
-| 40 | [Τζενη](http://twitter.com/search?q=%ce%a4%ce%b6%ce%b5%ce%bd%ce%b7) | N/A |
-| 41 | [Μιραντα](http://twitter.com/search?q=%ce%9c%ce%b9%cf%81%ce%b1%ce%bd%cf%84%ce%b1) | N/A |
-| 42 | [Γιωρικα](http://twitter.com/search?q=%ce%93%ce%b9%cf%89%cf%81%ce%b9%ce%ba%ce%b1) | N/A |
-| 43 | [Τριτης](http://twitter.com/search?q=%ce%a4%cf%81%ce%b9%cf%84%ce%b7%cf%82) | N/A |
-| 44 | [28 Φεβρουαριου](http://twitter.com/search?q=28+%ce%a6%ce%b5%ce%b2%cf%81%ce%bf%cf%85%ce%b1%cf%81%ce%b9%ce%bf%cf%85) | N/A |
-| 45 | [Στις 3 Μαρτιου](http://twitter.com/search?q=%ce%a3%cf%84%ce%b9%cf%82+3+%ce%9c%ce%b1%cf%81%cf%84%ce%b9%ce%bf%cf%85) | N/A |
-| 46 | [Μπαρτζη](http://twitter.com/search?q=%ce%9c%cf%80%ce%b1%cf%81%cf%84%ce%b6%ce%b7) | N/A |
-| 47 | [καλημερα μασια](http://twitter.com/search?q=%ce%ba%ce%b1%ce%bb%ce%b7%ce%bc%ce%b5%cf%81%ce%b1+%ce%bc%ce%b1%cf%83%ce%b9%ce%b1) | N/A |
-| 48 | [Λιανος](http://twitter.com/search?q=%ce%9b%ce%b9%ce%b1%ce%bd%ce%bf%cf%82) | N/A |
-| 49 | [Πωλινα](http://twitter.com/search?q=%ce%a0%cf%89%ce%bb%ce%b9%ce%bd%ce%b1) | N/A |
-| 50 | [ΕΣΗΕΑ](http://twitter.com/search?q=%ce%95%ce%a3%ce%97%ce%95%ce%91) | N/A |
+| 1 | [#MasterChefGR](http://twitter.com/search?q=%23MasterChefGR) | #MasterChefGR is a hashtag used on social media to refer to the Greek version of the popular cooking show MasterChef. It is used to discuss the show, share recipes, and connect with other fans of the show. In English, it stands for "MasterChef Greece". |
+| 2 | [Πολακη](http://twitter.com/search?q=%ce%a0%ce%bf%ce%bb%ce%b1%ce%ba%ce%b7) | N/A |
+| 3 | [Μαρια](http://twitter.com/search?q=%ce%9c%ce%b1%cf%81%ce%b9%ce%b1) | N/A |
+| 4 | [#με_τον_Παυλαρα](http://twitter.com/search?q=%23%ce%bc%ce%b5_%cf%84%ce%bf%ce%bd_%ce%a0%ce%b1%cf%85%ce%bb%ce%b1%cf%81%ce%b1) | N/A |
+| 5 | [#Νεζος](http://twitter.com/search?q=%23%ce%9d%ce%b5%ce%b6%ce%bf%cf%82) | N/A |
+| 6 | [Μπεη](http://twitter.com/search?q=%ce%9c%cf%80%ce%b5%ce%b7) | N/A |
+| 7 | [Μοτο](http://twitter.com/search?q=%ce%9c%ce%bf%cf%84%ce%bf) | N/A |
+| 8 | [#ωραιες_λεξεις](http://twitter.com/search?q=%23%cf%89%cf%81%ce%b1%ce%b9%ce%b5%cf%82_%ce%bb%ce%b5%ce%be%ce%b5%ce%b9%cf%82) | N/A |
+| 9 | [#sasmos](http://twitter.com/search?q=%23sasmos) | N/A |
+| 10 | [ΣΥΡΙΖΑ](http://twitter.com/search?q=%ce%a3%ce%a5%ce%a1%ce%99%ce%96%ce%91) | N/A |
+| 11 | [Καλη Σαρακοστη](http://twitter.com/search?q=%ce%9a%ce%b1%ce%bb%ce%b7+%ce%a3%ce%b1%cf%81%ce%b1%ce%ba%ce%bf%cf%83%cf%84%ce%b7) | N/A |
+| 12 | [Παναγιωτης](http://twitter.com/search?q=%ce%a0%ce%b1%ce%bd%ce%b1%ce%b3%ce%b9%cf%89%cf%84%ce%b7%cf%82) | N/A |
+| 13 | [Τσιπρας](http://twitter.com/search?q=%ce%a4%cf%83%ce%b9%cf%80%cf%81%ce%b1%cf%82) | N/A |
+| 14 | [Ηλια](http://twitter.com/search?q=%ce%97%ce%bb%ce%b9%ce%b1) | N/A |
+| 15 | [Πελαγια](http://twitter.com/search?q=%ce%a0%ce%b5%ce%bb%ce%b1%ce%b3%ce%b9%ce%b1) | N/A |
+| 16 | [PEGA](http://twitter.com/search?q=PEGA) | N/A |
+| 17 | [Ντορσει](http://twitter.com/search?q=%ce%9d%cf%84%ce%bf%cf%81%cf%83%ce%b5%ce%b9) | N/A |
+| 18 | [Νικολαου](http://twitter.com/search?q=%ce%9d%ce%b9%ce%ba%ce%bf%ce%bb%ce%b1%ce%bf%cf%85) | N/A |
+| 19 | [Μαρακι](http://twitter.com/search?q=%ce%9c%ce%b1%cf%81%ce%b1%ce%ba%ce%b9) | N/A |
+| 20 | [Σταυρος](http://twitter.com/search?q=%ce%a3%cf%84%ce%b1%cf%85%cf%81%ce%bf%cf%82) | N/A |
+| 21 | [Πηνελοπη](http://twitter.com/search?q=%ce%a0%ce%b7%ce%bd%ce%b5%ce%bb%ce%bf%cf%80%ce%b7) | N/A |
+| 22 | [Στελλα](http://twitter.com/search?q=%ce%a3%cf%84%ce%b5%ce%bb%ce%bb%ce%b1) | N/A |
+| 23 | [Νικηφορος](http://twitter.com/search?q=%ce%9d%ce%b9%ce%ba%ce%b7%cf%86%ce%bf%cf%81%ce%bf%cf%82) | N/A |
+| 24 | [Εκτελεστικου Γραφειου](http://twitter.com/search?q=%ce%95%ce%ba%cf%84%ce%b5%ce%bb%ce%b5%cf%83%cf%84%ce%b9%ce%ba%ce%bf%cf%85+%ce%93%cf%81%ce%b1%cf%86%ce%b5%ce%b9%ce%bf%cf%85) | N/A |
+| 25 | [Ασημακοπουλο](http://twitter.com/search?q=%ce%91%cf%83%ce%b7%ce%bc%ce%b1%ce%ba%ce%bf%cf%80%ce%bf%cf%85%ce%bb%ce%bf) | N/A |
+| 26 | [Καιρο](http://twitter.com/search?q=%ce%9a%ce%b1%ce%b9%cf%81%ce%bf) | N/A |
+| 27 | [Φενερ](http://twitter.com/search?q=%ce%a6%ce%b5%ce%bd%ce%b5%cf%81) | N/A |
+| 28 | [Predator](http://twitter.com/search?q=Predator) | N/A |
+| 29 | [Σροιτερ](http://twitter.com/search?q=%ce%a3%cf%81%ce%bf%ce%b9%cf%84%ce%b5%cf%81) | N/A |
+| 30 | [Ψυχικο](http://twitter.com/search?q=%ce%a8%cf%85%cf%87%ce%b9%ce%ba%ce%bf) | N/A |
+| 31 | [Κλειω](http://twitter.com/search?q=%ce%9a%ce%bb%ce%b5%ce%b9%cf%89) | N/A |
+| 32 | [Αργυρω](http://twitter.com/search?q=%ce%91%cf%81%ce%b3%cf%85%cf%81%cf%89) | N/A |
+| 33 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 34 | [Χαντα](http://twitter.com/search?q=%ce%a7%ce%b1%ce%bd%cf%84%ce%b1) | N/A |
+| 35 | [Τζενη](http://twitter.com/search?q=%ce%a4%ce%b6%ce%b5%ce%bd%ce%b7) | N/A |
+| 36 | [Κοντιζας](http://twitter.com/search?q=%ce%9a%ce%bf%ce%bd%cf%84%ce%b9%ce%b6%ce%b1%cf%82) | N/A |
+| 37 | [Η Ευρυδικη](http://twitter.com/search?q=%ce%97+%ce%95%cf%85%cf%81%cf%85%ce%b4%ce%b9%ce%ba%ce%b7) | N/A |
+| 38 | [Πωλινα](http://twitter.com/search?q=%ce%a0%cf%89%ce%bb%ce%b9%ce%bd%ce%b1) | N/A |
+| 39 | [Ταιλερ](http://twitter.com/search?q=%ce%a4%ce%b1%ce%b9%ce%bb%ce%b5%cf%81) | N/A |
+| 40 | [Ραγκουσης](http://twitter.com/search?q=%ce%a1%ce%b1%ce%b3%ce%ba%ce%bf%cf%85%cf%83%ce%b7%cf%82) | N/A |
+| 41 | [GIVE US WN BLOOPERS](http://twitter.com/search?q=GIVE+US+WN+BLOOPERS) | N/A |
+| 42 | [ο πηλιδης](http://twitter.com/search?q=%ce%bf+%cf%80%ce%b7%ce%bb%ce%b9%ce%b4%ce%b7%cf%82) | N/A |
+| 43 | [Αλεξης](http://twitter.com/search?q=%ce%91%ce%bb%ce%b5%ce%be%ce%b7%cf%82) | N/A |
+| 44 | [Καλο](http://twitter.com/search?q=%ce%9a%ce%b1%ce%bb%ce%bf) | N/A |
+| 45 | [Λιανος](http://twitter.com/search?q=%ce%9b%ce%b9%ce%b1%ce%bd%ce%bf%cf%82) | N/A |
+| 46 | [Μαθιο](http://twitter.com/search?q=%ce%9c%ce%b1%ce%b8%ce%b9%ce%bf) | N/A |
+| 47 | [Πολακισμο](http://twitter.com/search?q=%ce%a0%ce%bf%ce%bb%ce%b1%ce%ba%ce%b9%cf%83%ce%bc%ce%bf) | N/A |
+| 48 | [Ναντια](http://twitter.com/search?q=%ce%9d%ce%b1%ce%bd%cf%84%ce%b9%ce%b1) | N/A |
+| 49 | [Κανααν](http://twitter.com/search?q=%ce%9a%ce%b1%ce%bd%ce%b1%ce%b1%ce%bd) | N/A |
+| 50 | [Μαριλου](http://twitter.com/search?q=%ce%9c%ce%b1%cf%81%ce%b9%ce%bb%ce%bf%cf%85) | N/A |
 
 
 

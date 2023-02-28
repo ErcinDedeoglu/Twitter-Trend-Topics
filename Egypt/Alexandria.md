@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Alexandria
 
-📆 Last Updated: `2023-02-28 20:16:34 UTC`
+📆 Last Updated: `2023-02-28 21:16:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Egypt](</Egypt>)
 | ------- | ------------ | ------------ |
 | 1 | [الاهلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a) | الاهلي is a professional football club based in Cairo, Egypt. It is one of the most successful clubs in the country, having won the Egyptian Premier League title a record 39 times. In English, it translates to "The Family". |
 | 2 | [كهربا](http://twitter.com/search?q=%d9%83%d9%87%d8%b1%d8%a8%d8%a7) | كهربا (kahrba) is the Arabic word for electricity. In English, it means "electricity". |
-| 3 | [رامي ربيعه](http://twitter.com/search?q=%d8%b1%d8%a7%d9%85%d9%8a+%d8%b1%d8%a8%d9%8a%d8%b9%d9%87) | N/A |
-| 4 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
-| 5 | [الفولت العالي](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%88%d9%84%d8%aa+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%8a) | الفولت العالي is a term used in electrical engineering to refer to a high voltage. In English, it translates to "high voltage". |
-| 6 | [محمد شريف](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%b4%d8%b1%d9%8a%d9%81) | محمد شريف is an Arabic name meaning "Mohammed the Noble". |
-| 7 | [شادي حسين](http://twitter.com/search?q=%d8%b4%d8%a7%d8%af%d9%8a+%d8%ad%d8%b3%d9%8a%d9%86) | شادي حسين is an Arabic phrase that translates to "Happy Hussein" in English. It is a common expression of joy and celebration, often used to express congratulations or good wishes. |
-| 8 | [محمد طاهر](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%b7%d8%a7%d9%87%d8%b1) | N/A |
-| 9 | [علي معلول](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%85%d8%b9%d9%84%d9%88%d9%84) | "علي معلول" is an Arabic phrase that translates to "on the disabled" in English. It is used to refer to someone who is physically or mentally disabled. |
-| 10 | [#مجلس_مرتضي_باطل](http://twitter.com/search?q=%23%d9%85%d8%ac%d9%84%d8%b3_%d9%85%d8%b1%d8%aa%d8%b6%d9%8a_%d8%a8%d8%a7%d8%b7%d9%84) | N/A |
-| 11 | [#خلاها](http://twitter.com/search?q=%23%d8%ae%d9%84%d8%a7%d9%87%d8%a7) | N/A |
-| 12 | [الدورى](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%89) | N/A |
-| 13 | [ميس باص](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3+%d8%a8%d8%a7%d8%b5) | N/A |
-| 14 | [عماد السيد](http://twitter.com/search?q=%d8%b9%d9%85%d8%a7%d8%af+%d8%a7%d9%84%d8%b3%d9%8a%d8%af) | N/A |
-| 15 | [#يلا_يا_اهلي](http://twitter.com/search?q=%23%d9%8a%d9%84%d8%a7_%d9%8a%d8%a7_%d8%a7%d9%87%d9%84%d9%8a) | N/A |
-| 16 | [محمد اشرف](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a7%d8%b4%d8%b1%d9%81) | N/A |
-| 17 | [#مصر_السيسي_تنتصر_دايما](http://twitter.com/search?q=%23%d9%85%d8%b5%d8%b1_%d8%a7%d9%84%d8%b3%d9%8a%d8%b3%d9%8a_%d8%aa%d9%86%d8%aa%d8%b5%d8%b1_%d8%af%d8%a7%d9%8a%d9%85%d8%a7) | N/A |
-| 18 | [سيد عبد الحفيظ](http://twitter.com/search?q=%d8%b3%d9%8a%d8%af+%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d8%ad%d9%81%d9%8a%d8%b8) | N/A |
-| 19 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
+| 3 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
+| 4 | [رامي ربيعة](http://twitter.com/search?q=%d8%b1%d8%a7%d9%85%d9%8a+%d8%b1%d8%a8%d9%8a%d8%b9%d8%a9) | N/A |
+| 5 | [محمد شريف](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%b4%d8%b1%d9%8a%d9%81) | محمد شريف is an Arabic name meaning "Mohammed the Noble". |
+| 6 | [شادي حسين](http://twitter.com/search?q=%d8%b4%d8%a7%d8%af%d9%8a+%d8%ad%d8%b3%d9%8a%d9%86) | شادي حسين is an Arabic phrase that translates to "Happy Hussein" in English. It is a common expression of joy and celebration, often used to express congratulations or good wishes. |
+| 7 | [الدورى](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%89) | N/A |
+| 8 | [#مجلس_مرتضي_باطل](http://twitter.com/search?q=%23%d9%85%d8%ac%d9%84%d8%b3_%d9%85%d8%b1%d8%aa%d8%b6%d9%8a_%d8%a8%d8%a7%d8%b7%d9%84) | N/A |
+| 9 | [محمد طاهر](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%b7%d8%a7%d9%87%d8%b1) | N/A |
+| 10 | [ميس باص](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3+%d8%a8%d8%a7%d8%b5) | N/A |
+| 11 | [عماد السيد](http://twitter.com/search?q=%d8%b9%d9%85%d8%a7%d8%af+%d8%a7%d9%84%d8%b3%d9%8a%d8%af) | N/A |
+| 12 | [سيد عبد الحفيظ](http://twitter.com/search?q=%d8%b3%d9%8a%d8%af+%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d8%ad%d9%81%d9%8a%d8%b8) | N/A |
+| 13 | [#مصر_السيسي_تنتصر_دايما](http://twitter.com/search?q=%23%d9%85%d8%b5%d8%b1_%d8%a7%d9%84%d8%b3%d9%8a%d8%b3%d9%8a_%d8%aa%d9%86%d8%aa%d8%b5%d8%b1_%d8%af%d8%a7%d9%8a%d9%85%d8%a7) | N/A |
+| 14 | [محمد اشرف](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a7%d8%b4%d8%b1%d9%81) | N/A |
+| 15 | [الفولت العالي](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%88%d9%84%d8%aa+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%8a) | الفولت العالي is a term used in electrical engineering to refer to a high voltage. In English, it translates to "high voltage". |
+| 16 | [فريق ناقص](http://twitter.com/search?q=%d9%81%d8%b1%d9%8a%d9%82+%d9%86%d8%a7%d9%82%d8%b5) | N/A |
+| 17 | [#السيسي_خلاها_مجاعه](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b3%d9%8a%d8%b3%d9%8a_%d8%ae%d9%84%d8%a7%d9%87%d8%a7_%d9%85%d8%ac%d8%a7%d8%b9%d9%87) | N/A |
+| 18 | [#مجلس_مرتضي_شرعي](http://twitter.com/search?q=%23%d9%85%d8%ac%d9%84%d8%b3_%d9%85%d8%b1%d8%aa%d8%b6%d9%8a_%d8%b4%d8%b1%d8%b9%d9%8a) | N/A |
+| 19 | [احمد رشيد](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%b1%d8%b4%d9%8a%d8%af) | N/A |
 | 20 | [علاء ميهوب](http://twitter.com/search?q=%d8%b9%d9%84%d8%a7%d8%a1+%d9%85%d9%8a%d9%87%d9%88%d8%a8) | N/A |
-| 21 | [فريق ناقص](http://twitter.com/search?q=%d9%81%d8%b1%d9%8a%d9%82+%d9%86%d8%a7%d9%82%d8%b5) | N/A |
-| 22 | [احمد رشيد](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%b1%d8%b4%d9%8a%d8%af) | N/A |
-| 23 | [محمد معروف](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d9%85%d8%b9%d8%b1%d9%88%d9%81) | N/A |
-| 24 | [الفيفا](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%8a%d9%81%d8%a7) | N/A |
-| 25 | [كاس العالم](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | كاس العالم (Kass al-Alam) is an Arabic phrase meaning "World Cup". It is used to refer to the FIFA World Cup, an international football tournament held every four years. |
-| 26 | [الشوط التاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%aa%d8%a7%d9%86%d9%8a) | N/A |
-| 27 | [استاد السلام](http://twitter.com/search?q=%d8%a7%d8%b3%d8%aa%d8%a7%d8%af+%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85) | N/A |
-| 28 | [#مجلس_مرتضي_شرعي](http://twitter.com/search?q=%23%d9%85%d8%ac%d9%84%d8%b3_%d9%85%d8%b1%d8%aa%d8%b6%d9%8a_%d8%b4%d8%b1%d8%b9%d9%8a) | N/A |
-| 29 | [جدول الامتحانات](http://twitter.com/search?q=%d8%ac%d8%af%d9%88%d9%84+%d8%a7%d9%84%d8%a7%d9%85%d8%aa%d8%ad%d8%a7%d9%86%d8%a7%d8%aa) | N/A |
-| 30 | [سليمان وهدان](http://twitter.com/search?q=%d8%b3%d9%84%d9%8a%d9%85%d8%a7%d9%86+%d9%88%d9%87%d8%af%d8%a7%d9%86) | N/A |
-| 31 | [الدوري المصري](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a) | N/A |
-| 32 | [علي الفوز](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%81%d9%88%d8%b2) | N/A |
-| 33 | [الجول](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%88%d9%84) | N/A |
-| 34 | [رييس وزراء المجر](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d9%88%d8%b2%d8%b1%d8%a7%d8%a1+%d8%a7%d9%84%d9%85%d8%ac%d8%b1) | N/A |
-| 35 | [الشوط الاول](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | الشوط الاول is an Arabic phrase that translates to "the first round" or "the first stage". It is often used to refer to the beginning of a process or competition. |
-| 36 | [علي الماتش](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d8%a7%d8%aa%d8%b4) | N/A |
-| 37 | [الشناوي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%86%d8%a7%d9%88%d9%8a) | N/A |
-| 38 | [مارتينيز](http://twitter.com/search?q=%d9%85%d8%a7%d8%b1%d8%aa%d9%8a%d9%86%d9%8a%d8%b2) | مارتينيز is a type of traditional Middle Eastern pastry. It is made with thin layers of dough filled with nuts, honey, and spices. In English, it is sometimes referred to as "baklava". |
-| 39 | [الابا](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%a8%d8%a7) | الابا is an Arabic word meaning "father". |
+| 21 | [علاء عبد العال](http://twitter.com/search?q=%d8%b9%d9%84%d8%a7%d8%a1+%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d8%b9%d8%a7%d9%84) | N/A |
+| 22 | [علي معلول](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%85%d8%b9%d9%84%d9%88%d9%84) | "علي معلول" is an Arabic phrase that translates to "on the disabled" in English. It is used to refer to someone who is physically or mentally disabled. |
+| 23 | [#اللي_بيحصل_فالبلد](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%84%d9%8a_%d8%a8%d9%8a%d8%ad%d8%b5%d9%84_%d9%81%d8%a7%d9%84%d8%a8%d9%84%d8%af) | N/A |
+| 24 | [جدول الامتحانات](http://twitter.com/search?q=%d8%ac%d8%af%d9%88%d9%84+%d8%a7%d9%84%d8%a7%d9%85%d8%aa%d8%ad%d8%a7%d9%86%d8%a7%d8%aa) | N/A |
+| 25 | [محمد معروف](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d9%85%d8%b9%d8%b1%d9%88%d9%81) | N/A |
+| 26 | [كاس العالم](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | كاس العالم (Kass al-Alam) is an Arabic phrase meaning "World Cup". It is used to refer to the FIFA World Cup, an international football tournament held every four years. |
+| 27 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
+| 28 | [الفيفا](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%8a%d9%81%d8%a7) | N/A |
+| 29 | [استاد السلام](http://twitter.com/search?q=%d8%a7%d8%b3%d8%aa%d8%a7%d8%af+%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85) | N/A |
+| 30 | [علي الفوز](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%81%d9%88%d8%b2) | N/A |
+| 31 | [رييس وزراء المجر](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d9%88%d8%b2%d8%b1%d8%a7%d8%a1+%d8%a7%d9%84%d9%85%d8%ac%d8%b1) | N/A |
+| 32 | [ليستر](http://twitter.com/search?q=%d9%84%d9%8a%d8%b3%d8%aa%d8%b1) | N/A |
+| 33 | [جامعه المنصوره](http://twitter.com/search?q=%d8%ac%d8%a7%d9%85%d8%b9%d9%87+%d8%a7%d9%84%d9%85%d9%86%d8%b5%d9%88%d8%b1%d9%87) | N/A |
+| 34 | [الشوط التاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%aa%d8%a7%d9%86%d9%8a) | N/A |
+| 35 | [الابا](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%a8%d8%a7) | الابا is an Arabic word meaning "father". |
+| 36 | [مارتينيز](http://twitter.com/search?q=%d9%85%d8%a7%d8%b1%d8%aa%d9%8a%d9%86%d9%8a%d8%b2) | مارتينيز is a type of traditional Middle Eastern pastry. It is made with thin layers of dough filled with nuts, honey, and spices. In English, it is sometimes referred to as "baklava". |
+| 37 | [اليوم الثلاثاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d9%84%d8%a7%d8%ab%d8%a7%d8%a1) | اليوم الثلاثاء is Arabic for "Tuesday" and it means "Tuesday" in English. |
+| 38 | [الرباط الداخلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d8%a8%d8%a7%d8%b7+%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a) | N/A |
+| 39 | [سليمان وهدان](http://twitter.com/search?q=%d8%b3%d9%84%d9%8a%d9%85%d8%a7%d9%86+%d9%88%d9%87%d8%af%d8%a7%d9%86) | N/A |
 | 40 | [بنزيما](http://twitter.com/search?q=%d8%a8%d9%86%d8%b2%d9%8a%d9%85%d8%a7) | بنزيما (benzema) is a surname of Arabic origin. It is derived from the Arabic word "bin zamān" which means "son of time". In English, it can be translated to mean "son of time". |
-| 41 | [علي التوالي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%aa%d9%88%d8%a7%d9%84%d9%8a) | N/A |
-| 42 | [اليوم الثلاثاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d9%84%d8%a7%d8%ab%d8%a7%d8%a1) | اليوم الثلاثاء is Arabic for "Tuesday" and it means "Tuesday" in English. |
-| 43 | [افريقيا السنه](http://twitter.com/search?q=%d8%a7%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7+%d8%a7%d9%84%d8%b3%d9%86%d9%87) | N/A |
-| 44 | [جامعه المنصوره](http://twitter.com/search?q=%d8%ac%d8%a7%d9%85%d8%b9%d9%87+%d8%a7%d9%84%d9%85%d9%86%d8%b5%d9%88%d8%b1%d9%87) | N/A |
-| 45 | [حمدي فتحي](http://twitter.com/search?q=%d8%ad%d9%85%d8%af%d9%8a+%d9%81%d8%aa%d8%ad%d9%8a) | حمدي فتحي is an Arabic phrase that translates to "Praise be to God". It is a common expression of gratitude and appreciation for God's blessings. |
-| 46 | [الرباط الداخلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d8%a8%d8%a7%d8%b7+%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a) | N/A |
+| 41 | [الوقت الضايع](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%82%d8%aa+%d8%a7%d9%84%d8%b6%d8%a7%d9%8a%d8%b9) | N/A |
+| 42 | [مارسيل كولر](http://twitter.com/search?q=%d9%85%d8%a7%d8%b1%d8%b3%d9%8a%d9%84+%d9%83%d9%88%d9%84%d8%b1) | N/A |
+| 43 | [علي الماتش](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d8%a7%d8%aa%d8%b4) | N/A |
+| 44 | [ميسى](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%89) | N/A |
+| 45 | [الثانويه العامه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%88%d9%8a%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87) | N/A |
+| 46 | [الموتمر الصحفي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%aa%d9%85%d8%b1+%d8%a7%d9%84%d8%b5%d8%ad%d9%81%d9%8a) | الموتمر الصحفي is a term used in the Middle East to refer to a press conference. It literally translates to "press conference" in English. |
 | 47 | [الهدف الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%af%d9%81+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
-| 48 | [الجهاز الفني](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%87%d8%a7%d8%b2+%d8%a7%d9%84%d9%81%d9%86%d9%8a) | N/A |
+| 48 | [الشناوي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%86%d8%a7%d9%88%d9%8a) | N/A |
 | 49 | [ملعب السلام](http://twitter.com/search?q=%d9%85%d9%84%d8%b9%d8%a8+%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85) | N/A |
-| 50 | [ميسى](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%89) | N/A |
+| 50 | [وليد سليمان](http://twitter.com/search?q=%d9%88%d9%84%d9%8a%d8%af+%d8%b3%d9%84%d9%8a%d9%85%d8%a7%d9%86) | N/A |
 
 
 

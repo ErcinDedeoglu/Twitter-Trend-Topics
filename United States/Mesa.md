@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mesa
 
-📆 Last Updated: `2023-02-28 20:16:48 UTC`
+📆 Last Updated: `2023-02-28 21:17:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [United States](</United States>)
 | 1 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 2 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
 | 3 | [Patrick Kane](http://twitter.com/search?q=Patrick+Kane) | N/A |
-| 4 | [#studentloanforgiveness](http://twitter.com/search?q=%23studentloanforgiveness) | N/A |
-| 5 | [#TSTheErasTour](http://twitter.com/search?q=%23TSTheErasTour) | N/A |
-| 6 | [#BeyondFast](http://twitter.com/search?q=%23BeyondFast) | #BeyondFast is a hashtag used to describe something that goes beyond the speed of fast. It is used to emphasize the idea that something is faster than fast, or that it surpasses the speed of fast. |
+| 4 | [#BeyondFast](http://twitter.com/search?q=%23BeyondFast) | #BeyondFast is a hashtag used to describe something that goes beyond the speed of fast. It is used to emphasize the idea that something is faster than fast, or that it surpasses the speed of fast. |
+| 5 | [#studentloanforgiveness](http://twitter.com/search?q=%23studentloanforgiveness) | N/A |
+| 6 | [#TSTheErasTour](http://twitter.com/search?q=%23TSTheErasTour) | N/A |
 | 7 | [#RareDiseaseDay](http://twitter.com/search?q=%23RareDiseaseDay) | N/A |
-| 8 | [Julie Su](http://twitter.com/search?q=Julie+Su) | N/A |
-| 9 | [Peter Pan](http://twitter.com/search?q=Peter+Pan) | N/A |
-| 10 | [Dave Grohl](http://twitter.com/search?q=Dave+Grohl) | N/A |
-| 11 | [Kaner](http://twitter.com/search?q=Kaner) | N/A |
-| 12 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
-| 13 | [#Lightfall](http://twitter.com/search?q=%23Lightfall) | N/A |
-| 14 | [Dreamville](http://twitter.com/search?q=Dreamville) | N/A |
-| 15 | [Fournette](http://twitter.com/search?q=Fournette) | N/A |
-| 16 | [GIVE US WN BLOOPERS](http://twitter.com/search?q=GIVE+US+WN+BLOOPERS) | N/A |
+| 8 | [#Blackhawks](http://twitter.com/search?q=%23Blackhawks) | N/A |
+| 9 | [Dave Grohl](http://twitter.com/search?q=Dave+Grohl) | N/A |
+| 10 | [Julie Su](http://twitter.com/search?q=Julie+Su) | N/A |
+| 11 | [Sandin](http://twitter.com/search?q=Sandin) | N/A |
+| 12 | [Peter Pan](http://twitter.com/search?q=Peter+Pan) | N/A |
+| 13 | [Dragic](http://twitter.com/search?q=Dragic) | N/A |
+| 14 | [Bo Cruz](http://twitter.com/search?q=Bo+Cruz) | N/A |
+| 15 | [Sean Desai](http://twitter.com/search?q=Sean+Desai) | N/A |
+| 16 | [Panarin](http://twitter.com/search?q=Panarin) | N/A |
 | 17 | [SCOTUS](http://twitter.com/search?q=SCOTUS) | SCOTUS is an acronym for the Supreme Court of the United States. It is the highest court in the United States and is responsible for interpreting and applying federal laws. |
 | 18 | [Jamie Raskin](http://twitter.com/search?q=Jamie+Raskin) | N/A |
-| 19 | [Quintana](http://twitter.com/search?q=Quintana) | N/A |
-| 20 | [New York Ranger](http://twitter.com/search?q=New+York+Ranger) | N/A |
-| 21 | [Rachaad White](http://twitter.com/search?q=Rachaad+White) | N/A |
-| 22 | [Start Dame](http://twitter.com/search?q=Start+Dame) | N/A |
-| 23 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 24 | [Patty Kane](http://twitter.com/search?q=Patty+Kane) | N/A |
-| 25 | [David Lowery](http://twitter.com/search?q=David+Lowery) | N/A |
-| 26 | [Tinkerbell](http://twitter.com/search?q=Tinkerbell) | N/A |
-| 27 | [Start Kyrie](http://twitter.com/search?q=Start+Kyrie) | N/A |
-| 28 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 29 | [Start Russ](http://twitter.com/search?q=Start+Russ) | N/A |
-| 30 | [FFXVI](http://twitter.com/search?q=FFXVI) | N/A |
-| 31 | [Bench Russ](http://twitter.com/search?q=Bench+Russ) | N/A |
-| 32 | [SEIZED](http://twitter.com/search?q=SEIZED) | N/A |
-| 33 | [Nudy](http://twitter.com/search?q=Nudy) | N/A |
-| 34 | [Sean Desai](http://twitter.com/search?q=Sean+Desai) | N/A |
-| 35 | [Ricou Browning](http://twitter.com/search?q=Ricou+Browning) | N/A |
-| 36 | [Mariota](http://twitter.com/search?q=Mariota) | N/A |
-| 37 | [Bench Dame](http://twitter.com/search?q=Bench+Dame) | N/A |
-| 38 | [Gavin Lux](http://twitter.com/search?q=Gavin+Lux) | N/A |
-| 39 | [Puljujarvi](http://twitter.com/search?q=Puljujarvi) | N/A |
-| 40 | [Cut Dame](http://twitter.com/search?q=Cut+Dame) | N/A |
-| 41 | [Bench Kyrie](http://twitter.com/search?q=Bench+Kyrie) | N/A |
-| 42 | [Cut Kyrie](http://twitter.com/search?q=Cut+Kyrie) | N/A |
-| 43 | [Perk](http://twitter.com/search?q=Perk) | N/A |
-| 44 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
-| 45 | [Blackhawk](http://twitter.com/search?q=Blackhawk) | N/A |
-| 46 | [McGinn](http://twitter.com/search?q=McGinn) | McGinn is a surname of Irish origin. It is derived from the Gaelic Mac Fhionnghain, meaning "son of the fair-haired one". |
-| 47 | [Chris Drury](http://twitter.com/search?q=Chris+Drury) | N/A |
-| 48 | [Cremonese](http://twitter.com/search?q=Cremonese) | N/A |
-| 49 | [Kenny Golladay](http://twitter.com/search?q=Kenny+Golladay) | Kenny Golladay is an American football wide receiver for the Detroit Lions of the National Football League (NFL). He was drafted by the Lions in the third round of the 2017 NFL Draft. His name is a combination of his first and last names, Kenny and Golladay. |
+| 19 | [Fournette](http://twitter.com/search?q=Fournette) | N/A |
+| 20 | [Gaetz](http://twitter.com/search?q=Gaetz) | Gaetz is a surname of German origin. It is derived from the German word "Gatze" which means "goat". The name is most commonly found in the United States, Canada, and Germany. |
+| 21 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
+| 22 | [GIVE US WN BLOOPERS](http://twitter.com/search?q=GIVE+US+WN+BLOOPERS) | N/A |
+| 23 | [Dr. Kinsey](http://twitter.com/search?q=Dr.+Kinsey) | N/A |
+| 24 | [Black History Month](http://twitter.com/search?q=Black+History+Month) | N/A |
+| 25 | [Tinkerbell](http://twitter.com/search?q=Tinkerbell) | N/A |
+| 26 | [Josh Bell](http://twitter.com/search?q=Josh+Bell) | N/A |
+| 27 | [Dreamville](http://twitter.com/search?q=Dreamville) | N/A |
+| 28 | [Tarasenko](http://twitter.com/search?q=Tarasenko) | N/A |
+| 29 | [Ricou Browning](http://twitter.com/search?q=Ricou+Browning) | N/A |
+| 30 | [Chris Drury](http://twitter.com/search?q=Chris+Drury) | N/A |
+| 31 | [Grogu](http://twitter.com/search?q=Grogu) | N/A |
+| 32 | [New York Ranger](http://twitter.com/search?q=New+York+Ranger) | N/A |
+| 33 | [Seized](http://twitter.com/search?q=Seized) | N/A |
+| 34 | [Start Dame](http://twitter.com/search?q=Start+Dame) | N/A |
+| 35 | [Duke Tobin](http://twitter.com/search?q=Duke+Tobin) | N/A |
+| 36 | [Rachaad White](http://twitter.com/search?q=Rachaad+White) | N/A |
+| 37 | [Marcus Johansson](http://twitter.com/search?q=Marcus+Johansson) | N/A |
+| 38 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 39 | [Start Kyrie](http://twitter.com/search?q=Start+Kyrie) | N/A |
+| 40 | [Lenny](http://twitter.com/search?q=Lenny) | N/A |
+| 41 | [Start Russ](http://twitter.com/search?q=Start+Russ) | N/A |
+| 42 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 43 | [Nudy](http://twitter.com/search?q=Nudy) | N/A |
+| 44 | [Bench Russ](http://twitter.com/search?q=Bench+Russ) | N/A |
+| 45 | [Quintana](http://twitter.com/search?q=Quintana) | N/A |
+| 46 | [Kodak](http://twitter.com/search?q=Kodak) | N/A |
+| 47 | [Eric Adams](http://twitter.com/search?q=Eric+Adams) | N/A |
+| 48 | [JRPG](http://twitter.com/search?q=JRPG) | N/A |
+| 49 | [David Lowery](http://twitter.com/search?q=David+Lowery) | N/A |
 
 
 

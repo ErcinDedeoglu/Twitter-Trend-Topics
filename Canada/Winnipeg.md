@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Winnipeg
 
-📆 Last Updated: `2023-02-28 20:16:04 UTC`
+📆 Last Updated: `2023-02-28 21:16:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,45 +15,55 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
-| 2 | [#Flames1stGoal](http://twitter.com/search?q=%23Flames1stGoal) | N/A |
-| 3 | [Carolina](http://twitter.com/search?q=Carolina) | N/A |
-| 4 | [Ricky Tiedemann](http://twitter.com/search?q=Ricky+Tiedemann) | N/A |
-| 5 | [Bison King](http://twitter.com/search?q=Bison+King) | N/A |
-| 6 | [#TSTheErasTour](http://twitter.com/search?q=%23TSTheErasTour) | N/A |
-| 7 | [Patrik Puistola](http://twitter.com/search?q=Patrik+Puistola) | N/A |
-| 8 | [CSIS](http://twitter.com/search?q=CSIS) | N/A |
-| 9 | [#RareDiseaseDay](http://twitter.com/search?q=%23RareDiseaseDay) | N/A |
-| 10 | [Birgit](http://twitter.com/search?q=Birgit) | N/A |
-| 11 | [Dube](http://twitter.com/search?q=Dube) | N/A |
-| 12 | [Finnish](http://twitter.com/search?q=Finnish) | N/A |
-| 13 | [Peter Pan](http://twitter.com/search?q=Peter+Pan) | N/A |
-| 14 | [Miller](http://twitter.com/search?q=Miller) | N/A |
-| 15 | [Chychrun](http://twitter.com/search?q=Chychrun) | N/A |
-| 16 | [Canes](http://twitter.com/search?q=Canes) | N/A |
-| 17 | [#ItsBudTime](http://twitter.com/search?q=%23ItsBudTime) | N/A |
-| 18 | [Trudeau Foundation](http://twitter.com/search?q=Trudeau+Foundation) | N/A |
-| 19 | [Black History Month](http://twitter.com/search?q=Black+History+Month) | N/A |
-| 20 | [Kucherov](http://twitter.com/search?q=Kucherov) | Kucherov is a Russian surname. It is derived from the word "kuchka," which means "little group" or "cluster." In English, the name Kucherov can be translated to mean "little group of people." |
-| 21 | [LTIR](http://twitter.com/search?q=LTIR) | N/A |
-| 22 | [FIPA](http://twitter.com/search?q=FIPA) | N/A |
-| 23 | [Holland](http://twitter.com/search?q=Holland) | N/A |
-| 24 | [Wike](http://twitter.com/search?q=Wike) | Wike is a term used in the Philippines to refer to a person who is knowledgeable or wise. It is derived from the Tagalog word "wikain," which means "to know." In English, it can be translated as "wise" or "knowledgeable." |
-| 25 | [Ekholm](http://twitter.com/search?q=Ekholm) | N/A |
-| 26 | [Edmundson](http://twitter.com/search?q=Edmundson) | N/A |
-| 27 | [Yamamoto](http://twitter.com/search?q=Yamamoto) | N/A |
-| 28 | [Oiler](http://twitter.com/search?q=Oiler) | N/A |
-| 29 | [Kenny](http://twitter.com/search?q=Kenny) | N/A |
-| 30 | [Beijing](http://twitter.com/search?q=Beijing) | N/A |
-| 31 | [Murdoch](http://twitter.com/search?q=Murdoch) | N/A |
-| 32 | [#TrudeauMustResign](http://twitter.com/search?q=%23TrudeauMustResign) | N/A |
-| 33 | [#TrudeauOutOfControl](http://twitter.com/search?q=%23TrudeauOutOfControl) | N/A |
-| 34 | [#TrudeauForTreason](http://twitter.com/search?q=%23TrudeauForTreason) | N/A |
-| 35 | [#Lightfall](http://twitter.com/search?q=%23Lightfall) | N/A |
-| 36 | [#ocsbSTEAM](http://twitter.com/search?q=%23ocsbSTEAM) | N/A |
-| 37 | [#bcstorm](http://twitter.com/search?q=%23bcstorm) | N/A |
-| 38 | [#TrudeauIsDestroyingCanada](http://twitter.com/search?q=%23TrudeauIsDestroyingCanada) | N/A |
-| 39 | [#snowday](http://twitter.com/search?q=%23snowday) | N/A |
+| 1 | [Sandin](http://twitter.com/search?q=Sandin) | N/A |
+| 2 | [Barton](http://twitter.com/search?q=Barton) | N/A |
+| 3 | [#Flames1stGoal](http://twitter.com/search?q=%23Flames1stGoal) | N/A |
+| 4 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
+| 5 | [Gustafsson](http://twitter.com/search?q=Gustafsson) | N/A |
+| 6 | [#BeyondFast](http://twitter.com/search?q=%23BeyondFast) | #BeyondFast is a hashtag used to describe something that goes beyond the speed of fast. It is used to emphasize the idea that something is faster than fast, or that it surpasses the speed of fast. |
+| 7 | [Carolina](http://twitter.com/search?q=Carolina) | N/A |
+| 8 | [Patrick Kane](http://twitter.com/search?q=Patrick+Kane) | N/A |
+| 9 | [Ricky Tiedemann](http://twitter.com/search?q=Ricky+Tiedemann) | N/A |
+| 10 | [Holl](http://twitter.com/search?q=Holl) | N/A |
+| 11 | [Panarin](http://twitter.com/search?q=Panarin) | N/A |
+| 12 | [Bison King](http://twitter.com/search?q=Bison+King) | N/A |
+| 13 | [GIVE US WN BLOOPERS](http://twitter.com/search?q=GIVE+US+WN+BLOOPERS) | N/A |
+| 14 | [#TSTheErasTour](http://twitter.com/search?q=%23TSTheErasTour) | N/A |
+| 15 | [Tarasenko](http://twitter.com/search?q=Tarasenko) | N/A |
+| 16 | [Dubas](http://twitter.com/search?q=Dubas) | N/A |
+| 17 | [Rielly](http://twitter.com/search?q=Rielly) | N/A |
+| 18 | [CSIS](http://twitter.com/search?q=CSIS) | N/A |
+| 19 | [Puistola](http://twitter.com/search?q=Puistola) | N/A |
+| 20 | [Peter Pan](http://twitter.com/search?q=Peter+Pan) | N/A |
+| 21 | [Miller](http://twitter.com/search?q=Miller) | N/A |
+| 22 | [Birgit](http://twitter.com/search?q=Birgit) | N/A |
+| 23 | [#RareDiseaseDay](http://twitter.com/search?q=%23RareDiseaseDay) | N/A |
+| 24 | [Chychrun](http://twitter.com/search?q=Chychrun) | N/A |
+| 25 | [Dube](http://twitter.com/search?q=Dube) | N/A |
+| 26 | [Trudeau Foundation](http://twitter.com/search?q=Trudeau+Foundation) | N/A |
+| 27 | [Finnish](http://twitter.com/search?q=Finnish) | N/A |
+| 28 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 29 | [Black History Month](http://twitter.com/search?q=Black+History+Month) | N/A |
+| 30 | [LTIR](http://twitter.com/search?q=LTIR) | N/A |
+| 31 | [Wike](http://twitter.com/search?q=Wike) | Wike is a term used in the Philippines to refer to a person who is knowledgeable or wise. It is derived from the Tagalog word "wikain," which means "to know." In English, it can be translated as "wise" or "knowledgeable." |
+| 32 | [FIPA](http://twitter.com/search?q=FIPA) | N/A |
+| 33 | [Oiler](http://twitter.com/search?q=Oiler) | N/A |
+| 34 | [Ekholm](http://twitter.com/search?q=Ekholm) | N/A |
+| 35 | [Edmundson](http://twitter.com/search?q=Edmundson) | N/A |
+| 36 | [Yamamoto](http://twitter.com/search?q=Yamamoto) | N/A |
+| 37 | [Kenny](http://twitter.com/search?q=Kenny) | N/A |
+| 38 | [#ItsBudTime](http://twitter.com/search?q=%23ItsBudTime) | N/A |
+| 39 | [#ocsbSTEAM](http://twitter.com/search?q=%23ocsbSTEAM) | N/A |
+| 40 | [#LetsGoCanes](http://twitter.com/search?q=%23LetsGoCanes) | N/A |
+| 41 | [#TrudeauOutOfControl](http://twitter.com/search?q=%23TrudeauOutOfControl) | N/A |
+| 42 | [#NHLTradeDeadline](http://twitter.com/search?q=%23NHLTradeDeadline) | N/A |
+| 43 | [#TrudeauMustResign](http://twitter.com/search?q=%23TrudeauMustResign) | N/A |
+| 44 | [#TrudeauForTreason](http://twitter.com/search?q=%23TrudeauForTreason) | N/A |
+| 45 | [#Lightfall](http://twitter.com/search?q=%23Lightfall) | N/A |
+| 46 | [#Destiny2](http://twitter.com/search?q=%23Destiny2) | N/A |
+| 47 | [#snowday](http://twitter.com/search?q=%23snowday) | N/A |
+| 48 | [#MurdaughTrial](http://twitter.com/search?q=%23MurdaughTrial) | N/A |
+| 49 | [#TrudeauIsDestroyingCanada](http://twitter.com/search?q=%23TrudeauIsDestroyingCanada) | N/A |
 
 
 

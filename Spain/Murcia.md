@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Murcia
 
-📆 Last Updated: `2023-02-28 20:16:22 UTC`
+📆 Last Updated: `2023-02-28 21:16:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Pasapalabra714](http://twitter.com/search?q=%23Pasapalabra714) | N/A |
-| 2 | [#SquidCraft2](http://twitter.com/search?q=%23SquidCraft2) | N/A |
-| 3 | [Orestes](http://twitter.com/search?q=Orestes) | N/A |
-| 4 | [#Solos28F](http://twitter.com/search?q=%23Solos28F) | N/A |
-| 5 | [Ferrovial](http://twitter.com/search?q=Ferrovial) | N/A |
-| 6 | [Cremonese](http://twitter.com/search?q=Cremonese) | N/A |
+| 1 | [#SquidCraft2](http://twitter.com/search?q=%23SquidCraft2) | N/A |
+| 2 | [#FirstDates28F](http://twitter.com/search?q=%23FirstDates28F) | N/A |
+| 3 | [#Pasapalabra714](http://twitter.com/search?q=%23Pasapalabra714) | N/A |
+| 4 | [Inmoral](http://twitter.com/search?q=Inmoral) | N/A |
+| 5 | [#Solos28F](http://twitter.com/search?q=%23Solos28F) | N/A |
+| 6 | [#BeyondFast](http://twitter.com/search?q=%23BeyondFast) | #BeyondFast is a hashtag used to describe something that goes beyond the speed of fast. It is used to emphasize the idea that something is faster than fast, or that it surpasses the speed of fast. |
 | 7 | [Peter Pan](http://twitter.com/search?q=Peter+Pan) | N/A |
-| 8 | [Países Bajos](http://twitter.com/search?q=Pa%c3%adses+Bajos) | N/A |
-| 9 | [#ElCazador670](http://twitter.com/search?q=%23ElCazador670) | N/A |
-| 10 | [#HONORMagic5](http://twitter.com/search?q=%23HONORMagic5) | N/A |
-| 11 | [Alvise](http://twitter.com/search?q=Alvise) | N/A |
-| 12 | [Campanilla](http://twitter.com/search?q=Campanilla) | N/A |
-| 13 | [Real Murcia](http://twitter.com/search?q=Real+Murcia) | N/A |
-| 14 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
-| 15 | [tina](http://twitter.com/search?q=tina) | N/A |
-| 16 | [Patxi](http://twitter.com/search?q=Patxi) | N/A |
-| 17 | [Angie](http://twitter.com/search?q=Angie) | N/A |
-| 18 | [Karchez](http://twitter.com/search?q=Karchez) | Karchez is a term used in the Indian subcontinent to refer to a person who is considered to be of low social status. It is derived from the Hindi word "karz" which means "debt". In English, it can be translated as "lowly" or "humble". |
-| 19 | [Final Fantasy XVI](http://twitter.com/search?q=Final+Fantasy+XVI) | N/A |
-| 20 | [FFXVI](http://twitter.com/search?q=FFXVI) | N/A |
-| 21 | [COMO QUE 33](http://twitter.com/search?q=COMO+QUE+33) | N/A |
-| 22 | [Autoevaluación HONESTA](http://twitter.com/search?q=Autoevaluaci%c3%b3n+HONESTA) | N/A |
-| 23 | [Día de Andalucía](http://twitter.com/search?q=D%c3%ada+de+Andaluc%c3%ada) | N/A |
-| 24 | [Llamazares](http://twitter.com/search?q=Llamazares) | N/A |
-| 25 | [Dalsy](http://twitter.com/search?q=Dalsy) | N/A |
-| 26 | [Apple TV](http://twitter.com/search?q=Apple+TV) | N/A |
-| 27 | [SkyShowtime](http://twitter.com/search?q=SkyShowtime) | N/A |
-| 28 | [Miquella](http://twitter.com/search?q=Miquella) | N/A |
-| 29 | [Marika](http://twitter.com/search?q=Marika) | N/A |
-| 30 | [Lola Flores](http://twitter.com/search?q=Lola+Flores) | N/A |
-| 31 | [Illojuan](http://twitter.com/search?q=Illojuan) | N/A |
-| 32 | [Halo](http://twitter.com/search?q=Halo) | N/A |
-| 33 | [Kitchen](http://twitter.com/search?q=Kitchen) | N/A |
-| 34 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
-| 35 | [Frigenti](http://twitter.com/search?q=Frigenti) | N/A |
-| 36 | [Hoy 28](http://twitter.com/search?q=Hoy+28) | N/A |
-| 37 | [Cruzcampo](http://twitter.com/search?q=Cruzcampo) | N/A |
-| 38 | [David Bisbal](http://twitter.com/search?q=David+Bisbal) | N/A |
-| 39 | [#PenaltiFinetwork](http://twitter.com/search?q=%23PenaltiFinetwork) | N/A |
-| 40 | [#ATEEZinMadrid](http://twitter.com/search?q=%23ATEEZinMadrid) | N/A |
-| 41 | [#PecadoOriginal28Feb](http://twitter.com/search?q=%23PecadoOriginal28Feb) | N/A |
-| 42 | [#QueTeVoteTitoBerni](http://twitter.com/search?q=%23QueTeVoteTitoBerni) | N/A |
-| 43 | [#yoveosálvame](http://twitter.com/search?q=%23yoveos%c3%a1lvame) | N/A |
-| 44 | [#DENCanarias23](http://twitter.com/search?q=%23DENCanarias23) | N/A |
-| 45 | [#EnfermedadesRaras](http://twitter.com/search?q=%23EnfermedadesRaras) | N/A |
-| 46 | [#BayonettaOriginsMM](http://twitter.com/search?q=%23BayonettaOriginsMM) | N/A |
-| 47 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 48 | [#APOYOROCIO28F](http://twitter.com/search?q=%23APOYOROCIO28F) | N/A |
-| 49 | [#SuperligaLoL](http://twitter.com/search?q=%23SuperligaLoL) | N/A |
+| 8 | [Ferrovial](http://twitter.com/search?q=Ferrovial) | N/A |
+| 9 | [Orestes](http://twitter.com/search?q=Orestes) | N/A |
+| 10 | [Países Bajos](http://twitter.com/search?q=Pa%c3%adses+Bajos) | N/A |
+| 11 | [Cremonese](http://twitter.com/search?q=Cremonese) | N/A |
+| 12 | [Alvise](http://twitter.com/search?q=Alvise) | N/A |
+| 13 | [tina](http://twitter.com/search?q=tina) | N/A |
+| 14 | [Torino](http://twitter.com/search?q=Torino) | N/A |
+| 15 | [Patxi López](http://twitter.com/search?q=Patxi+L%c3%b3pez) | N/A |
+| 16 | [Campanilla](http://twitter.com/search?q=Campanilla) | N/A |
+| 17 | [Illojuan](http://twitter.com/search?q=Illojuan) | N/A |
+| 18 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
+| 19 | [PutiSOE](http://twitter.com/search?q=PutiSOE) | N/A |
+| 20 | [Angie](http://twitter.com/search?q=Angie) | N/A |
+| 21 | [Real Murcia](http://twitter.com/search?q=Real+Murcia) | N/A |
+| 22 | [Venus y Júpiter](http://twitter.com/search?q=Venus+y+J%c3%bapiter) | N/A |
+| 23 | [Karchez](http://twitter.com/search?q=Karchez) | Karchez is a term used in the Indian subcontinent to refer to a person who is considered to be of low social status. It is derived from the Hindi word "karz" which means "debt". In English, it can be translated as "lowly" or "humble". |
+| 24 | [Grogu](http://twitter.com/search?q=Grogu) | N/A |
+| 25 | [Autoevaluación HONESTA](http://twitter.com/search?q=Autoevaluaci%c3%b3n+HONESTA) | N/A |
+| 26 | [Pachi](http://twitter.com/search?q=Pachi) | N/A |
+| 27 | [Final Fantasy XVI](http://twitter.com/search?q=Final+Fantasy+XVI) | N/A |
+| 28 | [COMO QUE 33](http://twitter.com/search?q=COMO+QUE+33) | N/A |
+| 29 | [Dalsy](http://twitter.com/search?q=Dalsy) | N/A |
+| 30 | [Bela](http://twitter.com/search?q=Bela) | N/A |
+| 31 | [FFXVI](http://twitter.com/search?q=FFXVI) | N/A |
+| 32 | [SkyShowtime](http://twitter.com/search?q=SkyShowtime) | N/A |
+| 33 | [Caso Mediador](http://twitter.com/search?q=Caso+Mediador) | N/A |
+| 34 | [Apple TV](http://twitter.com/search?q=Apple+TV) | N/A |
+| 35 | [Llamazares](http://twitter.com/search?q=Llamazares) | N/A |
+| 36 | [Kitchen](http://twitter.com/search?q=Kitchen) | N/A |
+| 37 | [Ferraz](http://twitter.com/search?q=Ferraz) | N/A |
+| 38 | [Masi](http://twitter.com/search?q=Masi) | N/A |
+| 39 | [Clásico](http://twitter.com/search?q=Cl%c3%a1sico) | N/A |
+| 40 | [Lola Flores](http://twitter.com/search?q=Lola+Flores) | N/A |
+| 41 | [Alana](http://twitter.com/search?q=Alana) | N/A |
+| 42 | [Lo País](http://twitter.com/search?q=Lo+Pa%c3%ads) | N/A |
+| 43 | [Roldán](http://twitter.com/search?q=Rold%c3%a1n) | N/A |
+| 44 | [#ElCazador670](http://twitter.com/search?q=%23ElCazador670) | N/A |
+| 45 | [#GentesDeBienDeFeijoo](http://twitter.com/search?q=%23GentesDeBienDeFeijoo) | N/A |
+| 46 | [#HONORMagic5](http://twitter.com/search?q=%23HONORMagic5) | N/A |
+| 47 | [#CrisPorta28F](http://twitter.com/search?q=%23CrisPorta28F) | N/A |
+| 48 | [#QueTeVoteTitoBerni](http://twitter.com/search?q=%23QueTeVoteTitoBerni) | N/A |
+| 49 | [#PenaltiFinetwork](http://twitter.com/search?q=%23PenaltiFinetwork) | N/A |
+| 50 | [#ATEEZinMadrid](http://twitter.com/search?q=%23ATEEZinMadrid) | N/A |
 
 
 
