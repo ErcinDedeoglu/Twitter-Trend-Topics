@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kraków
 
-📆 Last Updated: `2023-03-01 05:15:38 UTC`
+📆 Last Updated: `2023-03-01 06:17:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Poland](</Poland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ObajtekDoCeli](http://twitter.com/search?q=%23ObajtekDoCeli) | N/A |
-| 2 | [#krwawaropa](http://twitter.com/search?q=%23krwawaropa) | N/A |
-| 3 | [Tusk](http://twitter.com/search?q=Tusk) | N/A |
-| 4 | [#lzgleg](http://twitter.com/search?q=%23lzgleg) | N/A |
-| 5 | [Chwała Bohaterom](http://twitter.com/search?q=Chwa%c5%82a+Bohaterom) | N/A |
-| 6 | [#mjakmiłość](http://twitter.com/search?q=%23mjakmi%c5%82o%c5%9b%c4%87) | N/A |
-| 7 | [Cremonese](http://twitter.com/search?q=Cremonese) | N/A |
-| 8 | [Orlen](http://twitter.com/search?q=Orlen) | N/A |
-| 9 | [Marcin Oleksy](http://twitter.com/search?q=Marcin+Oleksy) | N/A |
-| 10 | [mieszkanie](http://twitter.com/search?q=mieszkanie) | N/A |
-| 11 | [Razem](http://twitter.com/search?q=Razem) | N/A |
-| 12 | [Auchan](http://twitter.com/search?q=Auchan) | N/A |
+| 1 | [Chwała Bohaterom](http://twitter.com/search?q=Chwa%c5%82a+Bohaterom) | N/A |
+| 2 | [#OligarchaPutina](http://twitter.com/search?q=%23OligarchaPutina) | N/A |
+| 3 | [#ObajtekDoCeli](http://twitter.com/search?q=%23ObajtekDoCeli) | N/A |
+| 4 | [#1marca](http://twitter.com/search?q=%231marca) | N/A |
+| 5 | [Żołnierzy Wyklętych](http://twitter.com/search?q=%c5%bbo%c5%82nierzy+Wykl%c4%99tych) | N/A |
+| 6 | [#krwawaropa](http://twitter.com/search?q=%23krwawaropa) | N/A |
+| 7 | [Tusk](http://twitter.com/search?q=Tusk) | N/A |
+| 8 | [Grecji](http://twitter.com/search?q=Grecji) | N/A |
+| 9 | [#lzgleg](http://twitter.com/search?q=%23lzgleg) | N/A |
+| 10 | [Cremonese](http://twitter.com/search?q=Cremonese) | N/A |
+| 11 | [Marcin Oleksy](http://twitter.com/search?q=Marcin+Oleksy) | N/A |
+| 12 | [Orlen](http://twitter.com/search?q=Orlen) | N/A |
 | 13 | [Obajtka](http://twitter.com/search?q=Obajtka) | N/A |
-| 14 | [#TuJestPrzyszłość](http://twitter.com/search?q=%23TuJestPrzysz%c5%82o%c5%9b%c4%87) | N/A |
-| 15 | [mobywatel](http://twitter.com/search?q=mobywatel) | N/A |
-| 16 | [GIVE US WN BLOOPERS](http://twitter.com/search?q=GIVE+US+WN+BLOOPERS) | N/A |
-| 17 | [Pabianicach](http://twitter.com/search?q=Pabianicach) | N/A |
-| 18 | [Kredyt 0%](http://twitter.com/search?q=Kredyt+0%25) | N/A |
-| 19 | [MAM PRZYPAŁ](http://twitter.com/search?q=MAM+PRZYPA%c5%81) | N/A |
-| 20 | [niesiołowski](http://twitter.com/search?q=niesio%c5%82owski) | N/A |
-| 21 | [Jowisz](http://twitter.com/search?q=Jowisz) | N/A |
-| 22 | [zielonej górze](http://twitter.com/search?q=zielonej+g%c3%b3rze) | N/A |
-| 23 | [lewicy](http://twitter.com/search?q=lewicy) | N/A |
-| 24 | [tłumy](http://twitter.com/search?q=t%c5%82umy) | N/A |
-| 25 | [Astro](http://twitter.com/search?q=Astro) | N/A |
-| 26 | [zssw-30](http://twitter.com/search?q=zssw-30) | N/A |
-| 27 | [eurowizji](http://twitter.com/search?q=eurowizji) | N/A |
-| 28 | [hucie pieniackiej](http://twitter.com/search?q=hucie+pieniackiej) | N/A |
-| 29 | [Blanki](http://twitter.com/search?q=Blanki) | N/A |
-| 30 | [Karpiński](http://twitter.com/search?q=Karpi%c5%84ski) | N/A |
-| 31 | [wenus](http://twitter.com/search?q=wenus) | N/A |
-| 32 | [turynu](http://twitter.com/search?q=turynu) | N/A |
-| 33 | [Zandberg](http://twitter.com/search?q=Zandberg) | N/A |
-| 34 | [lechia zielona góra](http://twitter.com/search?q=lechia+zielona+g%c3%b3ra) | N/A |
+| 14 | [Auchan](http://twitter.com/search?q=Auchan) | N/A |
+| 15 | [Razem](http://twitter.com/search?q=Razem) | N/A |
+| 16 | [Cześć](http://twitter.com/search?q=Cze%c5%9b%c4%87) | N/A |
+| 17 | [GIVE US WN BLOOPERS](http://twitter.com/search?q=GIVE+US+WN+BLOOPERS) | N/A |
+| 18 | [Pabianicach](http://twitter.com/search?q=Pabianicach) | N/A |
+| 19 | [Jowisz](http://twitter.com/search?q=Jowisz) | N/A |
+| 20 | [MAM PRZYPAŁ](http://twitter.com/search?q=MAM+PRZYPA%c5%81) | N/A |
+| 21 | [Borsuk](http://twitter.com/search?q=Borsuk) | N/A |
+| 22 | [Mieszkanie](http://twitter.com/search?q=Mieszkanie) | N/A |
+| 23 | [mObywatel](http://twitter.com/search?q=mObywatel) | N/A |
+| 24 | [Niesiołowski](http://twitter.com/search?q=Niesio%c5%82owski) | N/A |
+| 25 | [eurowizji](http://twitter.com/search?q=eurowizji) | N/A |
+| 26 | [zielonej górze](http://twitter.com/search?q=zielonej+g%c3%b3rze) | N/A |
+| 27 | [pakt senacki](http://twitter.com/search?q=pakt+senacki) | N/A |
+| 28 | [Torino](http://twitter.com/search?q=Torino) | N/A |
+| 29 | [zssw-30](http://twitter.com/search?q=zssw-30) | N/A |
+| 30 | [Kredyt 0%](http://twitter.com/search?q=Kredyt+0%25) | N/A |
+| 31 | [weszło](http://twitter.com/search?q=wesz%c5%82o) | N/A |
+| 32 | [Karpiński](http://twitter.com/search?q=Karpi%c5%84ski) | N/A |
+| 33 | [hucie pieniackiej](http://twitter.com/search?q=hucie+pieniackiej) | N/A |
+| 34 | [Blanki](http://twitter.com/search?q=Blanki) | N/A |
 | 35 | [Romy](http://twitter.com/search?q=Romy) | N/A |
-| 36 | [Jasiński](http://twitter.com/search?q=Jasi%c5%84ski) | N/A |
-| 37 | [Pcimia](http://twitter.com/search?q=Pcimia) | N/A |
-| 38 | [weszło](http://twitter.com/search?q=wesz%c5%82o) | N/A |
-| 39 | [Amber Gold](http://twitter.com/search?q=Amber+Gold) | N/A |
-| 40 | [Fifa the best](http://twitter.com/search?q=Fifa+the+best) | N/A |
-| 41 | [Torino](http://twitter.com/search?q=Torino) | N/A |
+| 36 | [turynu](http://twitter.com/search?q=turynu) | N/A |
+| 37 | [Lovely](http://twitter.com/search?q=Lovely) | N/A |
+| 38 | [Pcimia](http://twitter.com/search?q=Pcimia) | N/A |
+| 39 | [Mt 6](http://twitter.com/search?q=Mt+6) | N/A |
+| 40 | [Lewicy](http://twitter.com/search?q=Lewicy) | N/A |
+| 41 | [Wenus](http://twitter.com/search?q=Wenus) | N/A |
 | 42 | [wibor](http://twitter.com/search?q=wibor) | N/A |
-| 43 | [hubert hurkacz](http://twitter.com/search?q=hubert+hurkacz) | N/A |
-| 44 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
-| 45 | [Żołnierzy Wyklętych](http://twitter.com/search?q=%c5%bbo%c5%82nierzy+Wykl%c4%99tych) | N/A |
-| 46 | [górnik łęczna](http://twitter.com/search?q=g%c3%b3rnik+%c5%82%c4%99czna) | N/A |
-| 47 | [sakiewicz](http://twitter.com/search?q=sakiewicz) | N/A |
-| 48 | [hubi](http://twitter.com/search?q=hubi) | N/A |
-| 49 | [banaś](http://twitter.com/search?q=bana%c5%9b) | N/A |
-| 50 | [angoli](http://twitter.com/search?q=angoli) | N/A |
+| 43 | [Amber Gold](http://twitter.com/search?q=Amber+Gold) | N/A |
+| 44 | [Fifa the best](http://twitter.com/search?q=Fifa+the+best) | N/A |
+| 45 | [Zandberg](http://twitter.com/search?q=Zandberg) | N/A |
+| 46 | [lechia zielona góra](http://twitter.com/search?q=lechia+zielona+g%c3%b3ra) | N/A |
+| 47 | [pkb polski](http://twitter.com/search?q=pkb+polski) | N/A |
+| 48 | [Pinto](http://twitter.com/search?q=Pinto) | N/A |
+| 49 | [Tłumy](http://twitter.com/search?q=T%c5%82umy) | N/A |
+| 50 | [czartoryski](http://twitter.com/search?q=czartoryski) | N/A |
 
 
 

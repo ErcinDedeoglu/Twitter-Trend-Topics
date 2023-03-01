@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Francisco
 
-📆 Last Updated: `2023-03-01 05:16:12 UTC`
+📆 Last Updated: `2023-03-01 06:17:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 2 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
-| 3 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
-| 4 | [#DubNation](http://twitter.com/search?q=%23DubNation) | #DubNation is a term used to refer to the fan base of the Golden State Warriors, a professional basketball team based in Oakland, California. The term is derived from the team's nickname, the "Warriors," and is used to show support for the team and its players. |
-| 5 | [#LAKings](http://twitter.com/search?q=%23LAKings) | N/A |
-| 6 | [Davion](http://twitter.com/search?q=Davion) | N/A |
-| 7 | [Harrison Barnes](http://twitter.com/search?q=Harrison+Barnes) | Harrison Barnes is a professional basketball player who currently plays for the Sacramento Kings of the National Basketball Association (NBA). His name is derived from his father's middle name, Harrison. The name has no particular meaning in English. |
-| 8 | [Delly](http://twitter.com/search?q=Delly) | N/A |
-| 9 | [Aztecs](http://twitter.com/search?q=Aztecs) | N/A |
-| 10 | [Memphis](http://twitter.com/search?q=Memphis) | Memphis is a city in the southwestern corner of the U.S. state of Tennessee, and the county seat of Shelby County. It is located on the fourth Chickasaw Bluff, south of the confluence of the Wolf and Mississippi rivers. Memphis is one of the most populous cities in Tennessee, with an estimated population of 651,073 in 2019. The city is known for its cultural contributions to the identity of the American South, as well as its impact on music, art, literature, and film. |
-| 11 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
-| 12 | [RoCo](http://twitter.com/search?q=RoCo) | N/A |
-| 13 | [Copley](http://twitter.com/search?q=Copley) | N/A |
-| 14 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
-| 15 | [Lillard](http://twitter.com/search?q=Lillard) | N/A |
-| 16 | [#Lakers](http://twitter.com/search?q=%23Lakers) | N/A |
-| 17 | [Mook](http://twitter.com/search?q=Mook) | N/A |
-| 18 | [Keegan](http://twitter.com/search?q=Keegan) | N/A |
-| 19 | [Dave Grohl](http://twitter.com/search?q=Dave+Grohl) | N/A |
-| 20 | [Reaves](http://twitter.com/search?q=Reaves) | Reaves is a surname of English origin. It is derived from the Old French word "reves," meaning "dreams." The name is thought to have been given to someone who was known for having prophetic dreams. |
+| 1 | [The Clippers](http://twitter.com/search?q=The+Clippers) | N/A |
+| 2 | [Dubs](http://twitter.com/search?q=Dubs) | N/A |
+| 3 | [Kopi](http://twitter.com/search?q=Kopi) | N/A |
+| 4 | [Mook](http://twitter.com/search?q=Mook) | N/A |
+| 5 | [Harrison Barnes](http://twitter.com/search?q=Harrison+Barnes) | Harrison Barnes is a professional basketball player who currently plays for the Sacramento Kings of the National Basketball Association (NBA). His name is derived from his father's middle name, Harrison. The name has no particular meaning in English. |
+| 6 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
+| 7 | [Plumlee](http://twitter.com/search?q=Plumlee) | N/A |
+| 8 | [Lamb](http://twitter.com/search?q=Lamb) | Lamb is a young sheep, usually less than one year old. It is also used as a term of endearment for a young child. The word comes from the Old English “lamb”, which means “young sheep”. |
+| 9 | [Schroeder](http://twitter.com/search?q=Schroeder) | N/A |
+| 10 | [Copley](http://twitter.com/search?q=Copley) | N/A |
+| 11 | [Bamba](http://twitter.com/search?q=Bamba) | N/A |
+| 12 | [Lillard](http://twitter.com/search?q=Lillard) | N/A |
+| 13 | [Aztecs](http://twitter.com/search?q=Aztecs) | N/A |
+| 14 | [Memphis](http://twitter.com/search?q=Memphis) | Memphis is a city in the southwestern corner of the U.S. state of Tennessee, and the county seat of Shelby County. It is located on the fourth Chickasaw Bluff, south of the confluence of the Wolf and Mississippi rivers. Memphis is one of the most populous cities in Tennessee, with an estimated population of 651,073 in 2019. The city is known for its cultural contributions to the identity of the American South, as well as its impact on music, art, literature, and film. |
+| 15 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
+| 16 | [Chychrun](http://twitter.com/search?q=Chychrun) | N/A |
+| 17 | [Troy Brown](http://twitter.com/search?q=Troy+Brown) | Troy Brown is a former American football wide receiver who played for the New England Patriots from 1993 to 2007. He was known for his versatility, playing multiple positions on offense and defense. In English, Troy Brown is a name associated with a former professional football player who was known for his versatility. |
+| 18 | [#Lakers](http://twitter.com/search?q=%23Lakers) | N/A |
+| 19 | [#AgustD_SUGA_Tour](http://twitter.com/search?q=%23AgustD_SUGA_Tour) | N/A |
+| 20 | [Keegan](http://twitter.com/search?q=Keegan) | N/A |
 | 21 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
-| 22 | [MASH](http://twitter.com/search?q=MASH) | N/A |
-| 23 | [Greece](http://twitter.com/search?q=Greece) | N/A |
-| 24 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
-| 25 | [#SUGA_AgustD_TOUR](http://twitter.com/search?q=%23SUGA_AgustD_TOUR) | N/A |
-| 26 | [Peter Pan](http://twitter.com/search?q=Peter+Pan) | N/A |
-| 27 | [Vando](http://twitter.com/search?q=Vando) | N/A |
-| 28 | [Chychrun](http://twitter.com/search?q=Chychrun) | N/A |
-| 29 | [Boebert](http://twitter.com/search?q=Boebert) | Boebert is a nickname for Lauren Boebert, an American politician and gun rights activist from Colorado. She is a member of the Republican Party and was elected to the United States House of Representatives in 2020. The name is derived from her last name, Boebert. |
-| 30 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 31 | [Fentanyl](http://twitter.com/search?q=Fentanyl) | N/A |
-| 32 | [#BeyondFast](http://twitter.com/search?q=%23BeyondFast) | #BeyondFast is a hashtag used to describe something that goes beyond the speed of fast. It is used to emphasize the idea that something is faster than fast, or that it surpasses the speed of fast. |
-| 33 | [Marge](http://twitter.com/search?q=Marge) | N/A |
-| 34 | [SCOTUS](http://twitter.com/search?q=SCOTUS) | SCOTUS is an acronym for the Supreme Court of the United States. It is the highest court in the United States and is responsible for interpreting and applying federal laws. |
-| 35 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
-| 36 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
-| 37 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 38 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 39 | [Beetlejuice](http://twitter.com/search?q=Beetlejuice) | N/A |
-| 40 | [Vallas](http://twitter.com/search?q=Vallas) | N/A |
-| 41 | [Orlov](http://twitter.com/search?q=Orlov) | N/A |
-| 42 | [Ullmark](http://twitter.com/search?q=Ullmark) | N/A |
-| 43 | [Blazers](http://twitter.com/search?q=Blazers) | Blazers are a type of jacket, typically with a single row of buttons and a notched lapel. They are usually made from wool or cotton and can be worn as part of a suit or as a separate item. Blazers are often associated with formal occasions, but they can also be worn casually. |
-| 44 | [Pacers](http://twitter.com/search?q=Pacers) | Pacers are a type of horse used for riding, racing, and other activities. The term is derived from the Latin word pacare, which means "to lead or guide." Pacers are known for their smooth gait and ability to maintain a steady pace over long distances. |
-| 45 | [Wray](http://twitter.com/search?q=Wray) | N/A |
-| 46 | [Grizzlies](http://twitter.com/search?q=Grizzlies) | Grizzlies are a species of large brown bears native to North America. They are typically found in mountainous regions and can weigh up to 800 pounds. The name "grizzly" comes from the silver-tipped hairs on their fur, which give them a grizzled appearance. |
-| 47 | [Jimmy Dykes](http://twitter.com/search?q=Jimmy+Dykes) | N/A |
-| 48 | [Shaedon Sharpe](http://twitter.com/search?q=Shaedon+Sharpe) | N/A |
-| 49 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
-| 50 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
+| 22 | [Greece](http://twitter.com/search?q=Greece) | N/A |
+| 23 | [Jamie Raskin](http://twitter.com/search?q=Jamie+Raskin) | N/A |
+| 24 | [Reaves](http://twitter.com/search?q=Reaves) | Reaves is a surname of English origin. It is derived from the Old French word "reves," meaning "dreams." The name is thought to have been given to someone who was known for having prophetic dreams. |
+| 25 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
+| 26 | [MASH](http://twitter.com/search?q=MASH) | N/A |
+| 27 | [Peter Pan](http://twitter.com/search?q=Peter+Pan) | N/A |
+| 28 | [Soto](http://twitter.com/search?q=Soto) | Soto is a type of Indonesian soup made with a variety of ingredients such as beef, chicken, vegetables, and spices. The word "soto" is derived from the Javanese word "sroto", which means "soup". In English, it can be translated as "soup". |
+| 29 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
+| 30 | [Dave Grohl](http://twitter.com/search?q=Dave+Grohl) | N/A |
+| 31 | [Mando](http://twitter.com/search?q=Mando) | N/A |
+| 32 | [#SUGA_AgustD_TOUR](http://twitter.com/search?q=%23SUGA_AgustD_TOUR) | N/A |
+| 33 | [Boebert](http://twitter.com/search?q=Boebert) | Boebert is a nickname for Lauren Boebert, an American politician and gun rights activist from Colorado. She is a member of the Republican Party and was elected to the United States House of Representatives in 2020. The name is derived from her last name, Boebert. |
+| 34 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 35 | [#BeyondFast](http://twitter.com/search?q=%23BeyondFast) | #BeyondFast is a hashtag used to describe something that goes beyond the speed of fast. It is used to emphasize the idea that something is faster than fast, or that it surpasses the speed of fast. |
+| 36 | [Marge](http://twitter.com/search?q=Marge) | N/A |
+| 37 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
+| 38 | [Lori Lightfoot](http://twitter.com/search?q=Lori+Lightfoot) | N/A |
+| 39 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 40 | [Blazers](http://twitter.com/search?q=Blazers) | Blazers are a type of jacket, typically with a single row of buttons and a notched lapel. They are usually made from wool or cotton and can be worn as part of a suit or as a separate item. Blazers are often associated with formal occasions, but they can also be worn casually. |
+| 41 | [Jonathan Quick](http://twitter.com/search?q=Jonathan+Quick) | N/A |
+| 42 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 43 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
+| 44 | [Beetlejuice](http://twitter.com/search?q=Beetlejuice) | N/A |
+| 45 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
+| 46 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 47 | [Ty Lue](http://twitter.com/search?q=Ty+Lue) | Ty Lue is the name of an American basketball coach and former player. He is currently the head coach of the Los Angeles Clippers of the National Basketball Association (NBA). The name "Ty Lue" is derived from his given name, Tyronn. |
+| 48 | [Vallas](http://twitter.com/search?q=Vallas) | N/A |
+| 49 | [Orlov](http://twitter.com/search?q=Orlov) | N/A |
+| 50 | [Ullmark](http://twitter.com/search?q=Ullmark) | N/A |
 
 
 

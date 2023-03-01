@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Berlin
 
-📆 Last Updated: `2023-03-01 05:15:40 UTC`
+📆 Last Updated: `2023-03-01 06:17:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [Germany](</Germany>)
 | 3 | [Bergfest](http://twitter.com/search?q=Bergfest) | N/A |
 | 4 | [#eFuels](http://twitter.com/search?q=%23eFuels) | N/A |
 | 5 | [Vergewaltigungen](http://twitter.com/search?q=Vergewaltigungen) | N/A |
-| 6 | [Moderator](http://twitter.com/search?q=Moderator) | N/A |
-| 7 | [Heizungen](http://twitter.com/search?q=Heizungen) | N/A |
+| 6 | [Schönen Mittwoch](http://twitter.com/search?q=Sch%c3%b6nen+Mittwoch) | N/A |
+| 7 | [Frühlingsanfang](http://twitter.com/search?q=Fr%c3%bchlingsanfang) | N/A |
 | 8 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
-| 9 | [Meute](http://twitter.com/search?q=Meute) | N/A |
-| 10 | [#Klamroth](http://twitter.com/search?q=%23Klamroth) | N/A |
-| 11 | [Kriegsverbrechen](http://twitter.com/search?q=Kriegsverbrechen) | N/A |
-| 12 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
+| 9 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
+| 10 | [Moderator](http://twitter.com/search?q=Moderator) | N/A |
+| 11 | [Heizungen](http://twitter.com/search?q=Heizungen) | N/A |
+| 12 | [Moin Tom](http://twitter.com/search?q=Moin+Tom) | N/A |
 | 13 | [#latenightberlin](http://twitter.com/search?q=%23latenightberlin) | N/A |
-| 14 | [Verbot](http://twitter.com/search?q=Verbot) | N/A |
-| 15 | [Yfood](http://twitter.com/search?q=Yfood) | N/A |
-| 16 | [Wärmepumpen](http://twitter.com/search?q=W%c3%a4rmepumpen) | N/A |
-| 17 | [Nestle](http://twitter.com/search?q=Nestle) | N/A |
-| 18 | [Seenotrettung](http://twitter.com/search?q=Seenotrettung) | N/A |
-| 19 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
-| 20 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
-| 21 | [Senioren](http://twitter.com/search?q=Senioren) | N/A |
-| 22 | [Strom](http://twitter.com/search?q=Strom) | N/A |
-| 23 | [Boris Johnson](http://twitter.com/search?q=Boris+Johnson) | N/A |
-| 24 | [Guten Morgen Rainer](http://twitter.com/search?q=Guten+Morgen+Rainer) | N/A |
-| 25 | [GIVE US WN BLOOPERS](http://twitter.com/search?q=GIVE+US+WN+BLOOPERS) | N/A |
-| 26 | [ankerkraut](http://twitter.com/search?q=ankerkraut) | N/A |
-| 27 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 28 | [Einbau](http://twitter.com/search?q=Einbau) | N/A |
-| 29 | [Bundesrat](http://twitter.com/search?q=Bundesrat) | N/A |
-| 30 | [groko](http://twitter.com/search?q=groko) | N/A |
-| 31 | [polarlichter](http://twitter.com/search?q=polarlichter) | N/A |
-| 32 | [Kraftstoffe](http://twitter.com/search?q=Kraftstoffe) | N/A |
-| 33 | [schönen dienstag](http://twitter.com/search?q=sch%c3%b6nen+dienstag) | N/A |
-| 34 | [reschke](http://twitter.com/search?q=reschke) | N/A |
-| 35 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
-| 36 | [frank thelen](http://twitter.com/search?q=frank+thelen) | N/A |
-| 37 | [bestandsflotte](http://twitter.com/search?q=bestandsflotte) | N/A |
-| 38 | [Zimmermann](http://twitter.com/search?q=Zimmermann) | N/A |
-| 39 | [Ernährung](http://twitter.com/search?q=Ern%c3%a4hrung) | N/A |
-| 40 | [prantl](http://twitter.com/search?q=prantl) | N/A |
-| 41 | [start in die woche](http://twitter.com/search?q=start+in+die+woche) | N/A |
-| 42 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 43 | [Neubauten](http://twitter.com/search?q=Neubauten) | N/A |
-| 44 | [Happy 28th](http://twitter.com/search?q=Happy+28th) | N/A |
-| 45 | [Süßigkeiten](http://twitter.com/search?q=S%c3%bc%c3%9figkeiten) | N/A |
-| 46 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
-| 47 | [heizkörper](http://twitter.com/search?q=heizk%c3%b6rper) | N/A |
-| 48 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
-| 49 | [berliner spd](http://twitter.com/search?q=berliner+spd) | N/A |
-| 50 | [trinkgeld](http://twitter.com/search?q=trinkgeld) | N/A |
+| 14 | [Meute](http://twitter.com/search?q=Meute) | N/A |
+| 15 | [#hartzundherzlich](http://twitter.com/search?q=%23hartzundherzlich) | N/A |
+| 16 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
+| 17 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
+| 18 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
+| 19 | [Kriegsverbrechen](http://twitter.com/search?q=Kriegsverbrechen) | N/A |
+| 20 | [Verbot](http://twitter.com/search?q=Verbot) | N/A |
+| 21 | [A.J.](http://twitter.com/search?q=A.J.) | N/A |
+| 22 | [Wärmepumpen](http://twitter.com/search?q=W%c3%a4rmepumpen) | N/A |
+| 23 | [Habt den Tag](http://twitter.com/search?q=Habt+den+Tag) | N/A |
+| 24 | [Guten Morgen Welt](http://twitter.com/search?q=Guten+Morgen+Welt) | N/A |
+| 25 | [yFood](http://twitter.com/search?q=yFood) | N/A |
+| 26 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
+| 27 | [Kate](http://twitter.com/search?q=Kate) | N/A |
+| 28 | [Nestle](http://twitter.com/search?q=Nestle) | N/A |
+| 29 | [Senioren](http://twitter.com/search?q=Senioren) | N/A |
+| 30 | [Guten Morgen Thomas](http://twitter.com/search?q=Guten+Morgen+Thomas) | N/A |
+| 31 | [Seenotrettung](http://twitter.com/search?q=Seenotrettung) | N/A |
+| 32 | [GIVE US WN BLOOPERS](http://twitter.com/search?q=GIVE+US+WN+BLOOPERS) | N/A |
+| 33 | [Strom](http://twitter.com/search?q=Strom) | N/A |
+| 34 | [Guten Morgen Rainer](http://twitter.com/search?q=Guten+Morgen+Rainer) | N/A |
+| 35 | [Guten Morgen Renate](http://twitter.com/search?q=Guten+Morgen+Renate) | N/A |
+| 36 | [Boris Johnson](http://twitter.com/search?q=Boris+Johnson) | N/A |
+| 37 | [schönen dienstag](http://twitter.com/search?q=sch%c3%b6nen+dienstag) | N/A |
+| 38 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
+| 39 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 40 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
+| 41 | [bestandsflotte](http://twitter.com/search?q=bestandsflotte) | N/A |
+| 42 | [Kraftstoffe](http://twitter.com/search?q=Kraftstoffe) | N/A |
+| 43 | [Ankerkraut](http://twitter.com/search?q=Ankerkraut) | N/A |
+| 44 | [Einbau](http://twitter.com/search?q=Einbau) | N/A |
+| 45 | [Bundesrat](http://twitter.com/search?q=Bundesrat) | N/A |
+| 46 | [start in die woche](http://twitter.com/search?q=start+in+die+woche) | N/A |
+| 47 | [prantl](http://twitter.com/search?q=prantl) | N/A |
+| 48 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
+| 49 | [Wünsche Dir](http://twitter.com/search?q=W%c3%bcnsche+Dir) | N/A |
+| 50 | [Ernährung](http://twitter.com/search?q=Ern%c3%a4hrung) | N/A |
 
 
 

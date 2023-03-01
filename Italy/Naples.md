@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Naples
 
-📆 Last Updated: `2023-03-01 05:15:42 UTC`
+📆 Last Updated: `2023-03-01 06:17:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Italy](</Italy>)
 | ------- | ------------ | ------------ |
 | 1 | [#JuveToro](http://twitter.com/search?q=%23JuveToro) | N/A |
 | 2 | [#CremoneseRoma](http://twitter.com/search?q=%23CremoneseRoma) | N/A |
-| 3 | [#Belve](http://twitter.com/search?q=%23Belve) | N/A |
-| 4 | [#Piantedosi](http://twitter.com/search?q=%23Piantedosi) | N/A |
-| 5 | [#28febbraio](http://twitter.com/search?q=%2328febbraio) | N/A |
-| 6 | [Grecia](http://twitter.com/search?q=Grecia) | N/A |
-| 7 | [la maura](http://twitter.com/search?q=la+maura) | N/A |
-| 8 | [Davide](http://twitter.com/search?q=Davide) | N/A |
-| 9 | [Fioroni](http://twitter.com/search?q=Fioroni) | N/A |
-| 10 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
-| 11 | [Renzi](http://twitter.com/search?q=Renzi) | N/A |
-| 12 | [faouzi](http://twitter.com/search?q=faouzi) | N/A |
-| 13 | [carolina crescentini](http://twitter.com/search?q=carolina+crescentini) | N/A |
-| 14 | [Rabiot](http://twitter.com/search?q=Rabiot) | N/A |
-| 15 | [Juric](http://twitter.com/search?q=Juric) | N/A |
-| 16 | [ballardini](http://twitter.com/search?q=ballardini) | N/A |
-| 17 | [de benedetti](http://twitter.com/search?q=de+benedetti) | N/A |
+| 3 | [#CremoneseRoma](http://twitter.com/search?q=%23CremoneseRoma) | N/A |
+| 4 | [#belve](http://twitter.com/search?q=%23belve) | N/A |
+| 5 | [#1marzo](http://twitter.com/search?q=%231marzo) | N/A |
+| 6 | [Eric](http://twitter.com/search?q=Eric) | Eric is a masculine given name of Old Norse origin, derived from the Old Norse name Eiríkr. It is related to the Latin name Ericus, which is derived from the Latin word for "ever-ruler". In English, Eric means "eternal ruler" or "ever-powerful". |
+| 7 | [Buongiorno Eric](http://twitter.com/search?q=Buongiorno+Eric) | N/A |
+| 8 | [Grecia](http://twitter.com/search?q=Grecia) | N/A |
+| 9 | [la maura](http://twitter.com/search?q=la+maura) | N/A |
+| 10 | [Fioroni](http://twitter.com/search?q=Fioroni) | N/A |
+| 11 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
+| 12 | [Buongiorno Giusi](http://twitter.com/search?q=Buongiorno+Giusi) | N/A |
+| 13 | [Renzi](http://twitter.com/search?q=Renzi) | N/A |
+| 14 | [carolina crescentini](http://twitter.com/search?q=carolina+crescentini) | N/A |
+| 15 | [Rabiot](http://twitter.com/search?q=Rabiot) | N/A |
+| 16 | [Juric](http://twitter.com/search?q=Juric) | N/A |
+| 17 | [Faouzi](http://twitter.com/search?q=Faouzi) | N/A |
 | 18 | [torino è bianconera](http://twitter.com/search?q=torino+%c3%a8+bianconera) | N/A |
-| 19 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
+| 19 | [Casalino](http://twitter.com/search?q=Casalino) | N/A |
 | 20 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 21 | [Casalino](http://twitter.com/search?q=Casalino) | N/A |
-| 22 | [Turchia](http://twitter.com/search?q=Turchia) | N/A |
-| 23 | [Bonaccini](http://twitter.com/search?q=Bonaccini) | N/A |
-| 24 | [Dusan](http://twitter.com/search?q=Dusan) | N/A |
-| 25 | [Sala](http://twitter.com/search?q=Sala) | N/A |
-| 26 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 27 | [Murgia](http://twitter.com/search?q=Murgia) | Murgia is a geographical region in southern Italy, located in the provinces of Bari and Taranto. It is characterized by its limestone hills, deep ravines, and caves. The name Murgia comes from the Latin word murex, meaning "rocky hill". In English, Murgia can be translated as "rocky land". |
-| 28 | [Bocchino](http://twitter.com/search?q=Bocchino) | N/A |
+| 21 | [Dusan](http://twitter.com/search?q=Dusan) | N/A |
+| 22 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
+| 23 | [Benedetti](http://twitter.com/search?q=Benedetti) | N/A |
+| 24 | [Bonaccini](http://twitter.com/search?q=Bonaccini) | N/A |
+| 25 | [Turchia](http://twitter.com/search?q=Turchia) | N/A |
+| 26 | [Bocchino](http://twitter.com/search?q=Bocchino) | N/A |
+| 27 | [Sala](http://twitter.com/search?q=Sala) | N/A |
+| 28 | [Sanabria](http://twitter.com/search?q=Sanabria) | N/A |
 | 29 | [Bucciantini](http://twitter.com/search?q=Bucciantini) | N/A |
-| 30 | [Tavassi](http://twitter.com/search?q=Tavassi) | N/A |
-| 31 | [Agata](http://twitter.com/search?q=Agata) | N/A |
-| 32 | [San Siro](http://twitter.com/search?q=San+Siro) | N/A |
-| 33 | [Sanabria](http://twitter.com/search?q=Sanabria) | N/A |
-| 34 | [rui patricio](http://twitter.com/search?q=rui+patricio) | N/A |
-| 35 | [Buongiorno Giusi](http://twitter.com/search?q=Buongiorno+Giusi) | N/A |
-| 36 | [Serra](http://twitter.com/search?q=Serra) | N/A |
-| 37 | [Radonjic](http://twitter.com/search?q=Radonjic) | N/A |
-| 38 | [Frontex](http://twitter.com/search?q=Frontex) | N/A |
-| 39 | [Orietta](http://twitter.com/search?q=Orietta) | Orietta is an Italian female name derived from the Latin word "aurum" meaning "gold". It is also a variant of the name Oriana, which means "dawn". |
-| 40 | [pippo franco](http://twitter.com/search?q=pippo+franco) | N/A |
-| 41 | [GIVE US WN BLOOPERS](http://twitter.com/search?q=GIVE+US+WN+BLOOPERS) | N/A |
-| 42 | [Alex Sandro](http://twitter.com/search?q=Alex+Sandro) | Alex Sandro is a Brazilian professional footballer who plays for Italian club Juventus and the Brazil national team. His full name is Alex Sandro Lobo Silva. He primarily plays as a left-back, but can also play as a left winger. In English, his name means "Protector of Man". |
-| 43 | [Salvini](http://twitter.com/search?q=Salvini) | N/A |
-| 44 | [Mancini](http://twitter.com/search?q=Mancini) | Mancini is an Italian surname derived from the Latin name "Mantius". It is a common surname in Italy and other parts of Europe. In English, it means "son of Mantius". |
-| 45 | [Il PD](http://twitter.com/search?q=Il+PD) | N/A |
-| 46 | [Tinubu](http://twitter.com/search?q=Tinubu) | N/A |
-| 47 | [Andrea](http://twitter.com/search?q=Andrea) | Andrea is a feminine given name of Italian origin. It is derived from the Greek word andreios, meaning "manly" or "masculine". In English, Andrea is often translated as "daring" or "brave". |
-| 48 | [Orsini](http://twitter.com/search?q=Orsini) | Orsini is an Italian surname derived from the Latin name Ursinus, meaning "bear-like". It is most commonly associated with the powerful Orsini family of Rome, who were influential in Italian politics during the Middle Ages and Renaissance. |
-| 49 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
-| 50 | [EdoT](http://twitter.com/search?q=EdoT) | N/A |
+| 30 | [Murgia](http://twitter.com/search?q=Murgia) | Murgia is a geographical region in southern Italy, located in the provinces of Bari and Taranto. It is characterized by its limestone hills, deep ravines, and caves. The name Murgia comes from the Latin word murex, meaning "rocky hill". In English, Murgia can be translated as "rocky land". |
+| 31 | [orietta](http://twitter.com/search?q=orietta) | N/A |
+| 32 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 33 | [Serra](http://twitter.com/search?q=Serra) | N/A |
+| 34 | [Buongiorno Silvia](http://twitter.com/search?q=Buongiorno+Silvia) | N/A |
+| 35 | [Alex Sandro](http://twitter.com/search?q=Alex+Sandro) | Alex Sandro is a Brazilian professional footballer who plays for Italian club Juventus and the Brazil national team. His full name is Alex Sandro Lobo Silva. He primarily plays as a left-back, but can also play as a left winger. In English, his name means "Protector of Man". |
+| 36 | [MADAME BOVARY](http://twitter.com/search?q=MADAME+BOVARY) | N/A |
+| 37 | [Mancini](http://twitter.com/search?q=Mancini) | Mancini is an Italian surname derived from the Latin name "Mantius". It is a common surname in Italy and other parts of Europe. In English, it means "son of Mantius". |
+| 38 | [pippo franco](http://twitter.com/search?q=pippo+franco) | N/A |
+| 39 | [Baudelaire](http://twitter.com/search?q=Baudelaire) | N/A |
+| 40 | [Agata](http://twitter.com/search?q=Agata) | N/A |
+| 41 | [Salvini](http://twitter.com/search?q=Salvini) | N/A |
+| 42 | [Il PD](http://twitter.com/search?q=Il+PD) | N/A |
+| 43 | [Il 1](http://twitter.com/search?q=Il+1) | N/A |
+| 44 | [Radonjic](http://twitter.com/search?q=Radonjic) | N/A |
+| 45 | [San Siro](http://twitter.com/search?q=San+Siro) | N/A |
+| 46 | [Karamoh](http://twitter.com/search?q=Karamoh) | N/A |
+| 47 | [Frontex](http://twitter.com/search?q=Frontex) | N/A |
+| 48 | [The Dark Side of the Moon](http://twitter.com/search?q=The+Dark+Side+of+the+Moon) | N/A |
+| 49 | [Buongiorno Clelia](http://twitter.com/search?q=Buongiorno+Clelia) | N/A |
+| 50 | [Buongiorno Roberta](http://twitter.com/search?q=Buongiorno+Roberta) | N/A |
 
 
 

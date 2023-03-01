@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-03-01 05:16:21 UTC`
+📆 Last Updated: `2023-03-01 06:17:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Switzerland
 | ------- | ------------ | ------------ |
 | 1 | [#HRC52](http://twitter.com/search?q=%23HRC52) | N/A |
 | 2 | [#JuveToro](http://twitter.com/search?q=%23JuveToro) | N/A |
-| 3 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 4 | [#srfclub](http://twitter.com/search?q=%23srfclub) | N/A |
-| 5 | [#KohLanta](http://twitter.com/search?q=%23KohLanta) | N/A |
-| 6 | [#bscyb](http://twitter.com/search?q=%23bscyb) | N/A |
-| 7 | [Grenze](http://twitter.com/search?q=Grenze) | N/A |
-| 8 | [Filter](http://twitter.com/search?q=Filter) | N/A |
-| 9 | [Human Rights Council](http://twitter.com/search?q=Human+Rights+Council) | N/A |
-| 10 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 3 | [#srfclub](http://twitter.com/search?q=%23srfclub) | N/A |
+| 4 | [#KohLanta](http://twitter.com/search?q=%23KohLanta) | N/A |
+| 5 | [#TPMP](http://twitter.com/search?q=%23TPMP) | #TPMP stands for Touche Pas à Mon Poste, which is a French television show. In English, it translates to "Don't Touch My Post". The show is a talk show that focuses on current events and pop culture. |
+| 6 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 7 | [Frühling](http://twitter.com/search?q=Fr%c3%bchling) | N/A |
+| 8 | [Grenze](http://twitter.com/search?q=Grenze) | N/A |
+| 9 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 10 | [Kündigung](http://twitter.com/search?q=K%c3%bcndigung) | N/A |
 | 11 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 12 | [Alex](http://twitter.com/search?q=Alex) | N/A |
-| 13 | [Reform](http://twitter.com/search?q=Reform) | N/A |
-| 14 | [asylpolitik](http://twitter.com/search?q=asylpolitik) | N/A |
-| 15 | [Kündigung](http://twitter.com/search?q=K%c3%bcndigung) | N/A |
-| 16 | [Eigentümer](http://twitter.com/search?q=Eigent%c3%bcmer) | N/A |
+| 12 | [Windisch](http://twitter.com/search?q=Windisch) | N/A |
+| 13 | [Eigentümer](http://twitter.com/search?q=Eigent%c3%bcmer) | N/A |
+| 14 | [Filter](http://twitter.com/search?q=Filter) | N/A |
+| 15 | [Alex](http://twitter.com/search?q=Alex) | N/A |
+| 16 | [Mieter](http://twitter.com/search?q=Mieter) | N/A |
 | 17 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
-| 18 | [Vermieter](http://twitter.com/search?q=Vermieter) | N/A |
-| 19 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
-| 20 | [Moderator](http://twitter.com/search?q=Moderator) | N/A |
-| 21 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
-| 22 | [Zeichen](http://twitter.com/search?q=Zeichen) | N/A |
-| 23 | [Asylanten](http://twitter.com/search?q=Asylanten) | N/A |
+| 18 | [Asylanten](http://twitter.com/search?q=Asylanten) | N/A |
+| 19 | [Seiten](http://twitter.com/search?q=Seiten) | N/A |
+| 20 | [Shame](http://twitter.com/search?q=Shame) | N/A |
+| 21 | [Zeichen](http://twitter.com/search?q=Zeichen) | N/A |
+| 22 | [Disarmament](http://twitter.com/search?q=Disarmament) | N/A |
+| 23 | [Fachkräftemangel](http://twitter.com/search?q=Fachkr%c3%a4ftemangel) | N/A |
 | 24 | [DeFi](http://twitter.com/search?q=DeFi) | N/A |
-| 25 | [Fachkräftemangel](http://twitter.com/search?q=Fachkr%c3%a4ftemangel) | N/A |
-| 26 | [disarmament](http://twitter.com/search?q=disarmament) | N/A |
-| 27 | [Elden Ring](http://twitter.com/search?q=Elden+Ring) | N/A |
-| 28 | [Shame](http://twitter.com/search?q=Shame) | N/A |
-| 29 | [Träume](http://twitter.com/search?q=Tr%c3%a4ume) | N/A |
-| 30 | [Bank](http://twitter.com/search?q=Bank) | N/A |
-| 31 | [asylunterkunft](http://twitter.com/search?q=asylunterkunft) | N/A |
-| 32 | [Beweise](http://twitter.com/search?q=Beweise) | N/A |
-| 33 | [Agenda](http://twitter.com/search?q=Agenda) | N/A |
-| 34 | [Nationalrat](http://twitter.com/search?q=Nationalrat) | N/A |
-| 35 | [Conference](http://twitter.com/search?q=Conference) | N/A |
-| 36 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
-| 37 | [Eier](http://twitter.com/search?q=Eier) | N/A |
-| 38 | [Maul](http://twitter.com/search?q=Maul) | N/A |
-| 39 | [Milano](http://twitter.com/search?q=Milano) | Milano is the Italian name for the city of Milan, which is the second-largest city in Italy and the capital of Lombardy. In English, it is simply referred to as Milan. |
-| 40 | [Ausnahme](http://twitter.com/search?q=Ausnahme) | N/A |
-| 41 | [Hilona](http://twitter.com/search?q=Hilona) | N/A |
-| 42 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 43 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
-| 44 | [Beileid](http://twitter.com/search?q=Beileid) | N/A |
-| 45 | [kanton](http://twitter.com/search?q=kanton) | N/A |
-| 46 | [Espagne](http://twitter.com/search?q=Espagne) | N/A |
-| 47 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
-| 48 | [aargau](http://twitter.com/search?q=aargau) | N/A |
-| 49 | [Mamma](http://twitter.com/search?q=Mamma) | N/A |
-| 50 | [Virus](http://twitter.com/search?q=Virus) | N/A |
+| 25 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
+| 26 | [Bank](http://twitter.com/search?q=Bank) | N/A |
+| 27 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
+| 28 | [Elden Ring](http://twitter.com/search?q=Elden+Ring) | N/A |
+| 29 | [Moderator](http://twitter.com/search?q=Moderator) | N/A |
+| 30 | [Himmel](http://twitter.com/search?q=Himmel) | N/A |
+| 31 | [Träume](http://twitter.com/search?q=Tr%c3%a4ume) | N/A |
+| 32 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
+| 33 | [Milano](http://twitter.com/search?q=Milano) | Milano is the Italian name for the city of Milan, which is the second-largest city in Italy and the capital of Lombardy. In English, it is simply referred to as Milan. |
+| 34 | [Ausnahme](http://twitter.com/search?q=Ausnahme) | N/A |
+| 35 | [Hilona](http://twitter.com/search?q=Hilona) | N/A |
+| 36 | [Conference](http://twitter.com/search?q=Conference) | N/A |
+| 37 | [Agenda](http://twitter.com/search?q=Agenda) | N/A |
+| 38 | [Human Rights Council](http://twitter.com/search?q=Human+Rights+Council) | N/A |
+| 39 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
+| 40 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 41 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
+| 42 | [Espagne](http://twitter.com/search?q=Espagne) | N/A |
+| 43 | [aargau](http://twitter.com/search?q=aargau) | N/A |
+| 44 | [Nationalrat](http://twitter.com/search?q=Nationalrat) | N/A |
+| 45 | [Asylpolitik](http://twitter.com/search?q=Asylpolitik) | N/A |
+| 46 | [Mamma](http://twitter.com/search?q=Mamma) | N/A |
+| 47 | [Schlein](http://twitter.com/search?q=Schlein) | N/A |
+| 48 | [Julien](http://twitter.com/search?q=Julien) | N/A |
+| 49 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 50 | [svpler](http://twitter.com/search?q=svpler) | N/A |
 
 
 

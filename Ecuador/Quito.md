@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quito
 
-📆 Last Updated: `2023-03-01 05:15:34 UTC`
+📆 Last Updated: `2023-03-01 06:17:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,7 +15,7 @@ This is top 50 for [Ecuador](</Ecuador>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Felicitaciones](http://twitter.com/search?q=Felicitaciones) | N/A |
+| 1 | [Emelec](http://twitter.com/search?q=Emelec) | N/A |
 | 2 | [Pichincha](http://twitter.com/search?q=Pichincha) | N/A |
 | 3 | [Independiente del Valle](http://twitter.com/search?q=Independiente+del+Valle) | N/A |
 | 4 | [#RecopaSudamericana](http://twitter.com/search?q=%23RecopaSudamericana) | N/A |
@@ -30,21 +30,22 @@ This is top 50 for [Ecuador](</Ecuador>)
 | 13 | [Pellerano](http://twitter.com/search?q=Pellerano) | N/A |
 | 14 | [Landazuri](http://twitter.com/search?q=Landazuri) | N/A |
 | 15 | [Anselmi](http://twitter.com/search?q=Anselmi) | N/A |
-| 16 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 17 | [Faravelli](http://twitter.com/search?q=Faravelli) | N/A |
-| 18 | [Liga de Quito](http://twitter.com/search?q=Liga+de+Quito) | N/A |
-| 19 | [Arrascaeta](http://twitter.com/search?q=Arrascaeta) | Arrascaeta is a Spanish word that means "to tear away" or "to rip off." It is often used to describe a situation in which something is taken away quickly and forcefully. |
-| 20 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
-| 21 | [Rayados](http://twitter.com/search?q=Rayados) | Rayados is the nickname of the Mexican soccer team Club de Fútbol Monterrey, which is based in Monterrey, Mexico. The name Rayados translates to "Striped Ones" in English, referring to the team's striped jerseys. |
+| 16 | [Felicitaciones](http://twitter.com/search?q=Felicitaciones) | N/A |
+| 17 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 18 | [Rayados](http://twitter.com/search?q=Rayados) | Rayados is the nickname of the Mexican soccer team Club de Fútbol Monterrey, which is based in Monterrey, Mexico. The name Rayados translates to "Striped Ones" in English, referring to the team's striped jerseys. |
+| 19 | [Liga de Quito](http://twitter.com/search?q=Liga+de+Quito) | N/A |
+| 20 | [Faravelli](http://twitter.com/search?q=Faravelli) | N/A |
+| 21 | [Arrascaeta](http://twitter.com/search?q=Arrascaeta) | Arrascaeta is a Spanish word that means "to tear away" or "to rip off." It is often used to describe a situation in which something is taken away quickly and forcefully. |
 | 22 | [Conmebol](http://twitter.com/search?q=Conmebol) | Conmebol is the acronym for the South American Football Confederation, which is the governing body for football (soccer) in South America. The English translation of Conmebol is "Confederación Sudamericana de Fútbol". |
-| 23 | [Carabajal](http://twitter.com/search?q=Carabajal) | N/A |
+| 23 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
 | 24 | [Sornoza](http://twitter.com/search?q=Sornoza) | N/A |
-| 25 | [Beder Caicedo](http://twitter.com/search?q=Beder+Caicedo) | N/A |
-| 26 | [Schunke](http://twitter.com/search?q=Schunke) | N/A |
-| 27 | [David Luiz](http://twitter.com/search?q=David+Luiz) | David Luiz is a Brazilian professional footballer who plays for the English Premier League club Arsenal. He primarily plays as a centre-back, but can also be deployed as a defensive midfielder. The name "David Luiz" is derived from his given name, David, and his middle name, Luiz. |
-| 28 | [Alfaro](http://twitter.com/search?q=Alfaro) | N/A |
-| 29 | [Almada](http://twitter.com/search?q=Almada) | N/A |
-| 30 | [Tere](http://twitter.com/search?q=Tere) | N/A |
+| 25 | [Schunke](http://twitter.com/search?q=Schunke) | N/A |
+| 26 | [Carabajal](http://twitter.com/search?q=Carabajal) | N/A |
+| 27 | [Beder Caicedo](http://twitter.com/search?q=Beder+Caicedo) | N/A |
+| 28 | [David Luiz](http://twitter.com/search?q=David+Luiz) | David Luiz is a Brazilian professional footballer who plays for the English Premier League club Arsenal. He primarily plays as a centre-back, but can also be deployed as a defensive midfielder. The name "David Luiz" is derived from his given name, David, and his middle name, Luiz. |
+| 29 | [Alfaro](http://twitter.com/search?q=Alfaro) | N/A |
+| 30 | [Almada](http://twitter.com/search?q=Almada) | N/A |
+| 31 | [Tere](http://twitter.com/search?q=Tere) | N/A |
 
 
 

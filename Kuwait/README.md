@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kuwait
 
-📆 Last Updated: `2023-03-01 05:16:18 UTC`
+📆 Last Updated: `2023-03-01 06:17:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for Kuwait
 | 3 | [#صباح_الخير](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | #صباح_الخير is an Arabic phrase meaning "Good Morning". It is commonly used as a greeting on social media. |
 | 4 | [شهر جديد](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%ac%d8%af%d9%8a%d8%af) | N/A |
 | 5 | [#مبارك_الحجرف_حرامي_خواطر](http://twitter.com/search?q=%23%d9%85%d8%a8%d8%a7%d8%b1%d9%83_%d8%a7%d9%84%d8%ad%d8%ac%d8%b1%d9%81_%d8%ad%d8%b1%d8%a7%d9%85%d9%8a_%d8%ae%d9%88%d8%a7%d8%b7%d8%b1) | N/A |
-| 6 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
-| 7 | [صوت المطر](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d9%85%d8%b7%d8%b1) | N/A |
-| 8 | [#ثامر_السويط_لايمثل_الكويتيين](http://twitter.com/search?q=%23%d8%ab%d8%a7%d9%85%d8%b1_%d8%a7%d9%84%d8%b3%d9%88%d9%8a%d8%b7_%d9%84%d8%a7%d9%8a%d9%85%d8%ab%d9%84_%d8%a7%d9%84%d9%83%d9%88%d9%8a%d8%aa%d9%8a%d9%8a%d9%86) | N/A |
+| 6 | [صوت المطر](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d9%85%d8%b7%d8%b1) | N/A |
+| 7 | [#ثامر_السويط_لايمثل_الكويتيين](http://twitter.com/search?q=%23%d8%ab%d8%a7%d9%85%d8%b1_%d8%a7%d9%84%d8%b3%d9%88%d9%8a%d8%b7_%d9%84%d8%a7%d9%8a%d9%85%d8%ab%d9%84_%d8%a7%d9%84%d9%83%d9%88%d9%8a%d8%aa%d9%8a%d9%8a%d9%86) | N/A |
+| 8 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
 | 9 | [غانم السليطي](http://twitter.com/search?q=%d8%ba%d8%a7%d9%86%d9%85+%d8%a7%d9%84%d8%b3%d9%84%d9%8a%d8%b7%d9%8a) | N/A |
 | 10 | [منزل مبارك](http://twitter.com/search?q=%d9%85%d9%86%d8%b2%d9%84+%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
-| 11 | [تورينو](http://twitter.com/search?q=%d8%aa%d9%88%d8%b1%d9%8a%d9%86%d9%88) | N/A |
-| 12 | [اجمل الاقدار](http://twitter.com/search?q=%d8%a7%d8%ac%d9%85%d9%84+%d8%a7%d9%84%d8%a7%d9%82%d8%af%d8%a7%d8%b1) | N/A |
-| 13 | [يابو حسين](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d8%ad%d8%b3%d9%8a%d9%86) | N/A |
-| 14 | [الديوان الاميري](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%8a%d9%88%d8%a7%d9%86+%d8%a7%d9%84%d8%a7%d9%85%d9%8a%d8%b1%d9%8a) | N/A |
+| 11 | [الديوان الاميري](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%8a%d9%88%d8%a7%d9%86+%d8%a7%d9%84%d8%a7%d9%85%d9%8a%d8%b1%d9%8a) | N/A |
+| 12 | [يابو حسين](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d8%ad%d8%b3%d9%8a%d9%86) | N/A |
+| 13 | [تورينو](http://twitter.com/search?q=%d8%aa%d9%88%d8%b1%d9%8a%d9%86%d9%88) | N/A |
+| 14 | [اجمل الاقدار](http://twitter.com/search?q=%d8%a7%d8%ac%d9%85%d9%84+%d8%a7%d9%84%d8%a7%d9%82%d8%af%d8%a7%d8%b1) | N/A |
 | 15 | [كاس العالم](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | كاس العالم (Kass al-Alam) is an Arabic phrase meaning "World Cup". It is used to refer to the FIFA World Cup, an international football tournament held every four years. |
-| 16 | [شهر شعبان](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%b4%d8%b9%d8%a8%d8%a7%d9%86) | N/A |
-| 17 | [ليونيل](http://twitter.com/search?q=%d9%84%d9%8a%d9%88%d9%86%d9%8a%d9%84) | N/A |
-| 18 | [فرع الاندلس](http://twitter.com/search?q=%d9%81%d8%b1%d8%b9+%d8%a7%d9%84%d8%a7%d9%86%d8%af%d9%84%d8%b3) | N/A |
-| 19 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
-| 20 | [بنزيما](http://twitter.com/search?q=%d8%a8%d9%86%d8%b2%d9%8a%d9%85%d8%a7) | بنزيما (benzema) is a surname of Arabic origin. It is derived from the Arabic word "bin zamān" which means "son of time". In English, it can be translated to mean "son of time". |
-| 21 | [اسماء المقبولين](http://twitter.com/search?q=%d8%a7%d8%b3%d9%85%d8%a7%d8%a1+%d8%a7%d9%84%d9%85%d9%82%d8%a8%d9%88%d9%84%d9%8a%d9%86) | N/A |
+| 16 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
+| 17 | [فرع الاندلس](http://twitter.com/search?q=%d9%81%d8%b1%d8%b9+%d8%a7%d9%84%d8%a7%d9%86%d8%af%d9%84%d8%b3) | N/A |
+| 18 | [شهر شعبان](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%b4%d8%b9%d8%a8%d8%a7%d9%86) | N/A |
+| 19 | [بنزيما](http://twitter.com/search?q=%d8%a8%d9%86%d8%b2%d9%8a%d9%85%d8%a7) | بنزيما (benzema) is a surname of Arabic origin. It is derived from the Arabic word "bin zamān" which means "son of time". In English, it can be translated to mean "son of time". |
+| 20 | [اسماء المقبولين](http://twitter.com/search?q=%d8%a7%d8%b3%d9%85%d8%a7%d8%a1+%d8%a7%d9%84%d9%85%d9%82%d8%a8%d9%88%d9%84%d9%8a%d9%86) | N/A |
+| 21 | [يابو ثامر](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d8%ab%d8%a7%d9%85%d8%b1) | N/A |
 | 22 | [واجد وايد](http://twitter.com/search?q=%d9%88%d8%a7%d8%ac%d8%af+%d9%88%d8%a7%d9%8a%d8%af) | N/A |
-| 23 | [الابا](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%a8%d8%a7) | الابا is an Arabic word meaning "father". |
-| 24 | [الفيفا](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%8a%d9%81%d8%a7) | N/A |
+| 23 | [الحياه الدنيا](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%8a%d8%a7%d9%87+%d8%a7%d9%84%d8%af%d9%86%d9%8a%d8%a7) | N/A |
+| 24 | [الابا](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%a8%d8%a7) | الابا is an Arabic word meaning "father". |
 | 25 | [بوغبا](http://twitter.com/search?q=%d8%a8%d9%88%d8%ba%d8%a8%d8%a7) | N/A |
-| 26 | [يابو ثامر](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d8%ab%d8%a7%d9%85%d8%b1) | N/A |
-| 27 | [Google Pay](http://twitter.com/search?q=Google+Pay) | N/A |
-| 28 | [وزير النفط](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d9%86%d9%81%d8%b7) | N/A |
-| 29 | [أحمد النواف](http://twitter.com/search?q=%d8%a3%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d9%86%d9%88%d8%a7%d9%81) | N/A |
-| 30 | [الابراج اليوم](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%a8%d8%b1%d8%a7%d8%ac+%d8%a7%d9%84%d9%8a%d9%88%d9%85) | N/A |
-| 31 | [عروس الخليج](http://twitter.com/search?q=%d8%b9%d8%b1%d9%88%d8%b3+%d8%a7%d9%84%d8%ae%d9%84%d9%8a%d8%ac) | N/A |
-| 32 | [ابو مطلق](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d9%85%d8%b7%d9%84%d9%82) | N/A |
-| 33 | [شهر المزايين](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d9%85%d8%b2%d8%a7%d9%8a%d9%8a%d9%86) | N/A |
-| 34 | [كورتوا](http://twitter.com/search?q=%d9%83%d9%88%d8%b1%d8%aa%d9%88%d8%a7) | كورتوا is a type of traditional Iraqi dish made with bulgur wheat, onions, and spices. It is usually served with yogurt or tahini sauce. In English, it is known as Korto or Korto Pilaf. |
-| 35 | [محمد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af) | محمد is an Arabic name that means "praiseworthy" in English. It is also the name of the Islamic prophet Muhammad. |
-| 36 | [فهد الاحمد](http://twitter.com/search?q=%d9%81%d9%87%d8%af+%d8%a7%d9%84%d8%a7%d8%ad%d9%85%d8%af) | N/A |
-| 37 | [غالي الغافل](http://twitter.com/search?q=%d8%ba%d8%a7%d9%84%d9%8a+%d8%a7%d9%84%d8%ba%d8%a7%d9%81%d9%84) | N/A |
-| 38 | [تاج العرب](http://twitter.com/search?q=%d8%aa%d8%a7%d8%ac+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8) | N/A |
-| 39 | [عرض جميل](http://twitter.com/search?q=%d8%b9%d8%b1%d8%b6+%d8%ac%d9%85%d9%8a%d9%84) | N/A |
-| 40 | [الفنان القطري](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%86%d8%a7%d9%86+%d8%a7%d9%84%d9%82%d8%b7%d8%b1%d9%8a) | N/A |
-| 41 | [الطبيب النفسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d8%a8%d9%8a%d8%a8+%d8%a7%d9%84%d9%86%d9%81%d8%b3%d9%8a) | N/A |
-| 42 | [اكبر محلي](http://twitter.com/search?q=%d8%a7%d9%83%d8%a8%d8%b1+%d9%85%d8%ad%d9%84%d9%8a) | N/A |
-| 43 | [اليوم الثلاثاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d9%84%d8%a7%d8%ab%d8%a7%d8%a1) | اليوم الثلاثاء is Arabic for "Tuesday" and it means "Tuesday" in English. |
-| 44 | [فايز التوش](http://twitter.com/search?q=%d9%81%d8%a7%d9%8a%d8%b2+%d8%a7%d9%84%d8%aa%d9%88%d8%b4) | N/A |
-| 45 | [كوادرادو](http://twitter.com/search?q=%d9%83%d9%88%d8%a7%d8%af%d8%b1%d8%a7%d8%af%d9%88) | N/A |
-| 46 | [شهر الحلوين](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d8%ad%d9%84%d9%88%d9%8a%d9%86) | N/A |
-| 47 | [الحياه الدنيا](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%8a%d8%a7%d9%87+%d8%a7%d9%84%d8%af%d9%86%d9%8a%d8%a7) | N/A |
-| 48 | [الدين الابراهيمي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%8a%d9%86+%d8%a7%d9%84%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85%d9%8a) | N/A |
-| 49 | [دره الخليج](http://twitter.com/search?q=%d8%af%d8%b1%d9%87+%d8%a7%d9%84%d8%ae%d9%84%d9%8a%d8%ac) | N/A |
-| 50 | [النيابه العامه](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d9%8a%d8%a7%d8%a8%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87) | N/A |
+| 26 | [عروس الخليج](http://twitter.com/search?q=%d8%b9%d8%b1%d9%88%d8%b3+%d8%a7%d9%84%d8%ae%d9%84%d9%8a%d8%ac) | N/A |
+| 27 | [البيت الابراهيمي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%8a%d8%aa+%d8%a7%d9%84%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85%d9%8a) | N/A |
+| 28 | [الطبيب النفسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d8%a8%d9%8a%d8%a8+%d8%a7%d9%84%d9%86%d9%81%d8%b3%d9%8a) | N/A |
+| 29 | [شهر الحلوين](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d8%ad%d9%84%d9%88%d9%8a%d9%86) | N/A |
+| 30 | [أحمد النواف](http://twitter.com/search?q=%d8%a3%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d9%86%d9%88%d8%a7%d9%81) | N/A |
+| 31 | [غالي الغافل](http://twitter.com/search?q=%d8%ba%d8%a7%d9%84%d9%8a+%d8%a7%d9%84%d8%ba%d8%a7%d9%81%d9%84) | N/A |
+| 32 | [Google Pay](http://twitter.com/search?q=Google+Pay) | N/A |
+| 33 | [الفيفا](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%8a%d9%81%d8%a7) | N/A |
+| 34 | [مورينهو](http://twitter.com/search?q=%d9%85%d9%88%d8%b1%d9%8a%d9%86%d9%87%d9%88) | N/A |
+| 35 | [شهر المزايين](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d9%85%d8%b2%d8%a7%d9%8a%d9%8a%d9%86) | N/A |
+| 36 | [الابراج اليوم](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%a8%d8%b1%d8%a7%d8%ac+%d8%a7%d9%84%d9%8a%d9%88%d9%85) | N/A |
+| 37 | [وزير النفط](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d9%86%d9%81%d8%b7) | N/A |
+| 38 | [كورتوا](http://twitter.com/search?q=%d9%83%d9%88%d8%b1%d8%aa%d9%88%d8%a7) | كورتوا is a type of traditional Iraqi dish made with bulgur wheat, onions, and spices. It is usually served with yogurt or tahini sauce. In English, it is known as Korto or Korto Pilaf. |
+| 39 | [تاج العرب](http://twitter.com/search?q=%d8%aa%d8%a7%d8%ac+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8) | N/A |
+| 40 | [فهد الاحمد](http://twitter.com/search?q=%d9%81%d9%87%d8%af+%d8%a7%d9%84%d8%a7%d8%ad%d9%85%d8%af) | N/A |
+| 41 | [عرض جميل](http://twitter.com/search?q=%d8%b9%d8%b1%d8%b6+%d8%ac%d9%85%d9%8a%d9%84) | N/A |
+| 42 | [محمد دحام](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%af%d8%ad%d8%a7%d9%85) | N/A |
+| 43 | [كوادرادو](http://twitter.com/search?q=%d9%83%d9%88%d8%a7%d8%af%d8%b1%d8%a7%d8%af%d9%88) | N/A |
+| 44 | [الفنان القطري](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%86%d8%a7%d9%86+%d8%a7%d9%84%d9%82%d8%b7%d8%b1%d9%8a) | N/A |
+| 45 | [ابو مطلق](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d9%85%d8%b7%d9%84%d9%82) | N/A |
+| 46 | [اليوم الثلاثاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d9%84%d8%a7%d8%ab%d8%a7%d8%a1) | اليوم الثلاثاء is Arabic for "Tuesday" and it means "Tuesday" in English. |
+| 47 | [MY KUWAIT](http://twitter.com/search?q=MY+KUWAIT) | N/A |
+| 48 | [دره الخليج](http://twitter.com/search?q=%d8%af%d8%b1%d9%87+%d8%a7%d9%84%d8%ae%d9%84%d9%8a%d8%ac) | N/A |
+| 49 | [اليوفي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%81%d9%8a) | اليوفي is a type of Arabic script used in the Middle East and North Africa. It is also known as Kufic script, and its name comes from the city of Kufa in Iraq. In English, اليوفي translates to "Kufic". |
+| 50 | [فريد شوقي](http://twitter.com/search?q=%d9%81%d8%b1%d9%8a%d8%af+%d8%b4%d9%88%d9%82%d9%8a) | N/A |
 
 
 

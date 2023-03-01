@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hermosillo
 
-📆 Last Updated: `2023-03-01 05:15:31 UTC`
+📆 Last Updated: `2023-03-01 06:17:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,45 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SalarioRosaContinua](http://twitter.com/search?q=%23SalarioRosaContinua) | N/A |
-| 2 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
-| 3 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 4 | [#MujeresAllStar](http://twitter.com/search?q=%23MujeresAllStar) | N/A |
-| 5 | [#SquidCraft2](http://twitter.com/search?q=%23SquidCraft2) | N/A |
-| 6 | [Monterrey](http://twitter.com/search?q=Monterrey) | N/A |
-| 7 | [Tania Rincón](http://twitter.com/search?q=Tania+Rinc%c3%b3n) | N/A |
-| 8 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 9 | [MEDALLA GOLDEN CHAMP](http://twitter.com/search?q=MEDALLA+GOLDEN+CHAMP) | N/A |
-| 10 | [Samuel](http://twitter.com/search?q=Samuel) | N/A |
-| 11 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
-| 12 | [#ElOráculoDelRawk](http://twitter.com/search?q=%23ElOr%c3%a1culoDelRawk) | N/A |
-| 13 | [Ana Gabriel](http://twitter.com/search?q=Ana+Gabriel) | N/A |
-| 14 | [Nuevo Laredo](http://twitter.com/search?q=Nuevo+Laredo) | N/A |
-| 15 | [Andy Benavides](http://twitter.com/search?q=Andy+Benavides) | N/A |
-| 16 | [MAVELYN MEDALLISTAR](http://twitter.com/search?q=MAVELYN+MEDALLISTAR) | N/A |
-| 17 | [Independiente del Valle](http://twitter.com/search?q=Independiente+del+Valle) | N/A |
-| 18 | [Perú](http://twitter.com/search?q=Per%c3%ba) | Perú is the official name of a country in South America. It is bordered by Ecuador and Colombia to the north, Brazil and Bolivia to the east, Chile to the south, and the Pacific Ocean to the west. The name Perú comes from a word in the native Quechua language meaning "land of abundance." |
-| 19 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
-| 20 | [Juan Collado](http://twitter.com/search?q=Juan+Collado) | N/A |
-| 21 | [JISOO THE FACE OF DIOR](http://twitter.com/search?q=JISOO+THE+FACE+OF+DIOR) | N/A |
-| 22 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 23 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
-| 24 | [TOGETHER FOR BUILD](http://twitter.com/search?q=TOGETHER+FOR+BUILD) | N/A |
-| 25 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 26 | [Santa Catarina](http://twitter.com/search?q=Santa+Catarina) | N/A |
-| 27 | [Piloto](http://twitter.com/search?q=Piloto) | N/A |
-| 28 | [Luzu](http://twitter.com/search?q=Luzu) | Luzu is a Spanish word that means light. It is often used to refer to a bright, cheerful, and optimistic attitude. |
-| 29 | [Xalostoc](http://twitter.com/search?q=Xalostoc) | N/A |
-| 30 | [Enfermedades Raras](http://twitter.com/search?q=Enfermedades+Raras) | N/A |
-| 31 | [Futbolista](http://twitter.com/search?q=Futbolista) | N/A |
-| 32 | [Monreal](http://twitter.com/search?q=Monreal) | N/A |
-| 33 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
-| 34 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
-| 35 | [SOMOS SOBRENATURAL](http://twitter.com/search?q=SOMOS+SOBRENATURAL) | N/A |
-| 36 | [LATE LATE SHOW WITH TXT](http://twitter.com/search?q=LATE+LATE+SHOW+WITH+TXT) | N/A |
-| 37 | [Zócalo](http://twitter.com/search?q=Z%c3%b3calo) | N/A |
-| 38 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 39 | [Fernan](http://twitter.com/search?q=Fernan) | N/A |
-| 40 | [Stephen Colbert](http://twitter.com/search?q=Stephen+Colbert) | N/A |
-| 41 | [MATI ERES FORTALEZA](http://twitter.com/search?q=MATI+ERES+FORTALEZA) | N/A |
-| 42 | [Wactor](http://twitter.com/search?q=Wactor) | N/A |
-| 43 | [Astro](http://twitter.com/search?q=Astro) | N/A |
-| 44 | [Duvan](http://twitter.com/search?q=Duvan) | N/A |
-| 45 | [Texas](http://twitter.com/search?q=Texas) | N/A |
-| 46 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
-| 47 | [Día Mundial](http://twitter.com/search?q=D%c3%ada+Mundial) | N/A |
-| 48 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
-| 49 | [Chacho](http://twitter.com/search?q=Chacho) | N/A |
+| 1 | [#SalarioRosaCotinua](http://twitter.com/search?q=%23SalarioRosaCotinua) | N/A |
+| 2 | [Tania Rincón](http://twitter.com/search?q=Tania+Rinc%c3%b3n) | N/A |
+| 3 | [#MujeresAllStar](http://twitter.com/search?q=%23MujeresAllStar) | N/A |
+| 4 | [#ElOráculoDelRawk](http://twitter.com/search?q=%23ElOr%c3%a1culoDelRawk) | N/A |
+| 5 | [MEDALLA GOLDEN CHAMP](http://twitter.com/search?q=MEDALLA+GOLDEN+CHAMP) | N/A |
+| 6 | [#JB29](http://twitter.com/search?q=%23JB29) | N/A |
+| 7 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 8 | [MAVELYN MEDALLISTAR](http://twitter.com/search?q=MAVELYN+MEDALLISTAR) | N/A |
+| 9 | [Ruzzarin](http://twitter.com/search?q=Ruzzarin) | N/A |
+| 10 | [Rodrigo Pacheco](http://twitter.com/search?q=Rodrigo+Pacheco) | Rodrigo Pacheco is a Spanish name, derived from the Germanic name Roderick. It means "famous ruler" or "famous power". |
+| 11 | [TOGETHER FOR BUILD](http://twitter.com/search?q=TOGETHER+FOR+BUILD) | N/A |
+| 12 | [Piloto](http://twitter.com/search?q=Piloto) | N/A |
+| 13 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
+| 14 | [Independiente del Valle](http://twitter.com/search?q=Independiente+del+Valle) | N/A |
+| 15 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 16 | [Samuel](http://twitter.com/search?q=Samuel) | N/A |
+| 17 | [Justin Bieber](http://twitter.com/search?q=Justin+Bieber) | N/A |
+| 18 | [Andy Benavides](http://twitter.com/search?q=Andy+Benavides) | N/A |
+| 19 | [Futbolista](http://twitter.com/search?q=Futbolista) | N/A |
+| 20 | [Astronauta](http://twitter.com/search?q=Astronauta) | N/A |
+| 21 | [Leona](http://twitter.com/search?q=Leona) | N/A |
+| 22 | [Cabeza de Vaca](http://twitter.com/search?q=Cabeza+de+Vaca) | N/A |
+| 23 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
+| 24 | [Ingeniero](http://twitter.com/search?q=Ingeniero) | N/A |
+| 25 | [Juan Collado](http://twitter.com/search?q=Juan+Collado) | N/A |
+| 26 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
+| 27 | [Mati](http://twitter.com/search?q=Mati) | N/A |
+| 28 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 29 | [Tino](http://twitter.com/search?q=Tino) | N/A |
+| 30 | [Peter Pan](http://twitter.com/search?q=Peter+Pan) | N/A |
+| 31 | [Huesera](http://twitter.com/search?q=Huesera) | N/A |
+| 32 | [Santa Catarina](http://twitter.com/search?q=Santa+Catarina) | N/A |
+| 33 | [Mexiquenses](http://twitter.com/search?q=Mexiquenses) | N/A |
+| 34 | [Genshin](http://twitter.com/search?q=Genshin) | N/A |
+| 35 | [Bolivia](http://twitter.com/search?q=Bolivia) | Bolivia is a country located in South America. It is bordered by Brazil, Paraguay, Argentina, Chile, and Peru. The name Bolivia comes from Simón Bolívar, a Venezuelan leader who helped lead several South American countries to independence from Spain in the early 19th century. The official language of Bolivia is Spanish. |
+| 36 | [#BeyourluveUnited](http://twitter.com/search?q=%23BeyourluveUnited) | N/A |
+| 37 | [#Grogu](http://twitter.com/search?q=%23Grogu) | N/A |
+| 38 | [#AmloEstaDesesperado](http://twitter.com/search?q=%23AmloEstaDesesperado) | N/A |
+| 39 | [#OvidioNoSeToca](http://twitter.com/search?q=%23OvidioNoSeToca) | N/A |
 
 
 

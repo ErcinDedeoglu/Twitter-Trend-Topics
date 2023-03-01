@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Galway
 
-📆 Last Updated: `2023-03-01 05:15:39 UTC`
+📆 Last Updated: `2023-03-01 06:17:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [Ireland](</Ireland>)
 | 1 | [Sheila](http://twitter.com/search?q=Sheila) | N/A |
 | 2 | [Jessie](http://twitter.com/search?q=Jessie) | N/A |
 | 3 | [#RareDiseaseDay](http://twitter.com/search?q=%23RareDiseaseDay) | N/A |
-| 4 | [niall collins](http://twitter.com/search?q=niall+collins) | N/A |
-| 5 | [Windsor Framework](http://twitter.com/search?q=Windsor+Framework) | N/A |
+| 4 | [#tonightvmtv](http://twitter.com/search?q=%23tonightvmtv) | N/A |
+| 5 | [niall collins](http://twitter.com/search?q=niall+collins) | N/A |
 | 6 | [Evan Ferguson](http://twitter.com/search?q=Evan+Ferguson) | Evan Ferguson is a Scottish surname. It is derived from the Gaelic name Fergus, which means "strong man". The name is most commonly found in Scotland and Northern Ireland. |
 | 7 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 8 | [#tonightvmtv](http://twitter.com/search?q=%23tonightvmtv) | N/A |
-| 9 | [#etbethos](http://twitter.com/search?q=%23etbethos) | N/A |
+| 8 | [#etbethos](http://twitter.com/search?q=%23etbethos) | N/A |
+| 9 | [Maxwell](http://twitter.com/search?q=Maxwell) | N/A |
 | 10 | [#homeoftheyear](http://twitter.com/search?q=%23homeoftheyear) | N/A |
-| 11 | [Maxwell](http://twitter.com/search?q=Maxwell) | N/A |
-| 12 | [Rishi](http://twitter.com/search?q=Rishi) | N/A |
-| 13 | [Rhona Rose](http://twitter.com/search?q=Rhona+Rose) | N/A |
-| 14 | [Casey](http://twitter.com/search?q=Casey) | Casey is a unisex name of Irish origin, derived from the Gaelic Cathasaigh, meaning “brave” or “vigilant.” It is also a popular surname in the United States. |
-| 15 | [Helen](http://twitter.com/search?q=Helen) | N/A |
-| 16 | [the ditch](http://twitter.com/search?q=the+ditch) | N/A |
-| 17 | [Northern Ireland](http://twitter.com/search?q=Northern+Ireland) | N/A |
-| 18 | [Stoke](http://twitter.com/search?q=Stoke) | N/A |
-| 19 | [paul reid](http://twitter.com/search?q=paul+reid) | N/A |
-| 20 | [Brexit](http://twitter.com/search?q=Brexit) | Brexit is a shorthand way of referring to the UK's decision to leave the European Union (EU). It is a portmanteau of the words "British" and "exit". The term was first used in 2012 when Prime Minister David Cameron promised to hold a referendum on Britain's membership of the EU. On June 23, 2016, the UK voted to leave the EU, and Brexit officially began on March 29, 2019. |
-| 21 | [electric ireland](http://twitter.com/search?q=electric+ireland) | N/A |
-| 22 | [niall o'connor](http://twitter.com/search?q=niall+o%27connor) | N/A |
-| 23 | [Claudia](http://twitter.com/search?q=Claudia) | Claudia is a female given name of Latin origin, derived from the Roman clan name Claudius. It means "lame" or "disabled". |
-| 24 | [Stormont](http://twitter.com/search?q=Stormont) | N/A |
-| 25 | [Sanam](http://twitter.com/search?q=Sanam) | N/A |
-| 26 | [dermot morgan](http://twitter.com/search?q=dermot+morgan) | N/A |
-| 27 | [shels](http://twitter.com/search?q=shels) | N/A |
-| 28 | [Samie](http://twitter.com/search?q=Samie) | Samie is a given name of Arabic origin, meaning "elevated" or "lofty". |
-| 29 | [Minnie](http://twitter.com/search?q=Minnie) | N/A |
-| 30 | [Roca](http://twitter.com/search?q=Roca) | N/A |
-| 31 | [Adams](http://twitter.com/search?q=Adams) | N/A |
-| 32 | [Lita](http://twitter.com/search?q=Lita) | N/A |
-| 33 | [leaving cert](http://twitter.com/search?q=leaving+cert) | N/A |
+| 11 | [Casey](http://twitter.com/search?q=Casey) | Casey is a unisex name of Irish origin, derived from the Gaelic Cathasaigh, meaning “brave” or “vigilant.” It is also a popular surname in the United States. |
+| 12 | [The Ditch](http://twitter.com/search?q=The+Ditch) | N/A |
+| 13 | [Peter Obi](http://twitter.com/search?q=Peter+Obi) | N/A |
+| 14 | [Rhona Rose](http://twitter.com/search?q=Rhona+Rose) | N/A |
+| 15 | [Rishi](http://twitter.com/search?q=Rishi) | N/A |
+| 16 | [Stoke](http://twitter.com/search?q=Stoke) | N/A |
+| 17 | [Claudia](http://twitter.com/search?q=Claudia) | Claudia is a female given name of Latin origin, derived from the Roman clan name Claudius. It means "lame" or "disabled". |
+| 18 | [Northern Ireland](http://twitter.com/search?q=Northern+Ireland) | N/A |
+| 19 | [Brexit](http://twitter.com/search?q=Brexit) | Brexit is a shorthand way of referring to the UK's decision to leave the European Union (EU). It is a portmanteau of the words "British" and "exit". The term was first used in 2012 when Prime Minister David Cameron promised to hold a referendum on Britain's membership of the EU. On June 23, 2016, the UK voted to leave the EU, and Brexit officially began on March 29, 2019. |
+| 20 | [Roca](http://twitter.com/search?q=Roca) | N/A |
+| 21 | [Sanam](http://twitter.com/search?q=Sanam) | N/A |
+| 22 | [paul reid](http://twitter.com/search?q=paul+reid) | N/A |
+| 23 | [Samie](http://twitter.com/search?q=Samie) | Samie is a given name of Arabic origin, meaning "elevated" or "lofty". |
+| 24 | [shels](http://twitter.com/search?q=shels) | N/A |
+| 25 | [niall o'connor](http://twitter.com/search?q=niall+o%27connor) | N/A |
+| 26 | [leaving cert](http://twitter.com/search?q=leaving+cert) | N/A |
+| 27 | [Minnie](http://twitter.com/search?q=Minnie) | N/A |
+| 28 | [electric ireland](http://twitter.com/search?q=electric+ireland) | N/A |
+| 29 | [Stormont](http://twitter.com/search?q=Stormont) | N/A |
+| 30 | [Adams](http://twitter.com/search?q=Adams) | N/A |
+| 31 | [dermot morgan](http://twitter.com/search?q=dermot+morgan) | N/A |
+| 32 | [Rosie](http://twitter.com/search?q=Rosie) | N/A |
+| 33 | [Citizens](http://twitter.com/search?q=Citizens) | N/A |
 | 34 | [Rutter](http://twitter.com/search?q=Rutter) | N/A |
-| 35 | [Pogba](http://twitter.com/search?q=Pogba) | Pogba is a nickname for the French professional footballer Paul Pogba. It is derived from his last name and is often used as a term of endearment by his fans. |
-| 36 | [Citizens](http://twitter.com/search?q=Citizens) | N/A |
-| 37 | [International Women's Day](http://twitter.com/search?q=International+Women%27s+Day) | N/A |
-| 38 | [Revolut](http://twitter.com/search?q=Revolut) | N/A |
-| 39 | [Rosie](http://twitter.com/search?q=Rosie) | N/A |
+| 35 | [Helen](http://twitter.com/search?q=Helen) | N/A |
+| 36 | [Rodrigo](http://twitter.com/search?q=Rodrigo) | Rodrigo is a Spanish and Portuguese name derived from the Germanic name Roderick, which means "famous power". It is also a common surname in Spanish-speaking countries. |
+| 37 | [Pogba](http://twitter.com/search?q=Pogba) | Pogba is a nickname for the French professional footballer Paul Pogba. It is derived from his last name and is often used as a term of endearment by his fans. |
+| 38 | [Lita](http://twitter.com/search?q=Lita) | N/A |
+| 39 | [GIVE US WN BLOOPERS](http://twitter.com/search?q=GIVE+US+WN+BLOOPERS) | N/A |
 | 40 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
-| 41 | [GIVE US WN BLOOPERS](http://twitter.com/search?q=GIVE+US+WN+BLOOPERS) | N/A |
-| 42 | [national concert hall](http://twitter.com/search?q=national+concert+hall) | N/A |
-| 43 | [The DUP](http://twitter.com/search?q=The+DUP) | N/A |
-| 44 | [Rodrigo](http://twitter.com/search?q=Rodrigo) | Rodrigo is a Spanish and Portuguese name derived from the Germanic name Roderick, which means "famous power". It is also a common surname in Spanish-speaking countries. |
-| 45 | [David Beckham](http://twitter.com/search?q=David+Beckham) | David Beckham is an English former professional soccer player. He is widely regarded as one of the greatest and most recognizable players in the history of the sport. He played for Manchester United, Real Madrid, LA Galaxy, Paris Saint-Germain, and the England national team. He is also a successful businessman and philanthropist. |
-| 46 | [Covid](http://twitter.com/search?q=Covid) | N/A |
-| 47 | [Serrano](http://twitter.com/search?q=Serrano) | N/A |
-| 48 | [Deepest](http://twitter.com/search?q=Deepest) | N/A |
-| 49 | [Katie Taylor](http://twitter.com/search?q=Katie+Taylor) | N/A |
+| 41 | [Deepest](http://twitter.com/search?q=Deepest) | N/A |
+| 42 | [David Beckham](http://twitter.com/search?q=David+Beckham) | David Beckham is an English former professional soccer player. He is widely regarded as one of the greatest and most recognizable players in the history of the sport. He played for Manchester United, Real Madrid, LA Galaxy, Paris Saint-Germain, and the England national team. He is also a successful businessman and philanthropist. |
+| 43 | [International Women's Day](http://twitter.com/search?q=International+Women%27s+Day) | N/A |
+| 44 | [Paper 1](http://twitter.com/search?q=Paper+1) | N/A |
+| 45 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 46 | [The DUP](http://twitter.com/search?q=The+DUP) | N/A |
+| 47 | [Fintan O'Toole](http://twitter.com/search?q=Fintan+O%27Toole) | N/A |
+| 48 | [national concert hall](http://twitter.com/search?q=national+concert+hall) | N/A |
+| 49 | [Scotland and Wales](http://twitter.com/search?q=Scotland+and+Wales) | N/A |
 
 
 
