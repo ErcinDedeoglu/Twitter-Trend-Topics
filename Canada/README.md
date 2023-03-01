@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canada
 
-📆 Last Updated: `2023-03-01 04:16:57 UTC`
+📆 Last Updated: `2023-03-01 05:16:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Canada
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Scottie](http://twitter.com/search?q=Scottie) | Scottie is a nickname for the Scottish Terrier, a small breed of dog. It is also used as a nickname for people from Scotland or with Scottish heritage. |
-| 2 | [Kopitar](http://twitter.com/search?q=Kopitar) | N/A |
-| 3 | [Barrie](http://twitter.com/search?q=Barrie) | N/A |
-| 4 | [#NHLJets](http://twitter.com/search?q=%23NHLJets) | N/A |
-| 5 | [#GoJetsGo](http://twitter.com/search?q=%23GoJetsGo) | N/A |
-| 6 | [#WeTheNorth](http://twitter.com/search?q=%23WeTheNorth) | N/A |
-| 7 | [#GoSensGo](http://twitter.com/search?q=%23GoSensGo) | N/A |
-| 8 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
-| 9 | [Demar](http://twitter.com/search?q=Demar) | Demar is a shortened form of the name Demarcus, which is a male given name of Latin origin. It is derived from the Latin words "de" (meaning "of") and "Marcus" (meaning "warlike"). In English, Demar can be translated to mean "of warlike". |
-| 10 | [Vladar](http://twitter.com/search?q=Vladar) | N/A |
-| 11 | [Tinubu](http://twitter.com/search?q=Tinubu) | N/A |
-| 12 | [Larkin](http://twitter.com/search?q=Larkin) | N/A |
-| 13 | [Thad](http://twitter.com/search?q=Thad) | N/A |
-| 14 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 15 | [Ekholm](http://twitter.com/search?q=Ekholm) | N/A |
-| 16 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 17 | [Watson](http://twitter.com/search?q=Watson) | Watson is an artificial intelligence (AI) computer system developed by IBM. It is capable of answering questions posed in natural language, making it a useful tool for businesses and researchers. Watson can also be used to analyze large amounts of data and generate insights from it. |
-| 18 | [Poeltl](http://twitter.com/search?q=Poeltl) | N/A |
-| 19 | [Red Wings](http://twitter.com/search?q=Red+Wings) | N/A |
-| 20 | [Ullmark](http://twitter.com/search?q=Ullmark) | N/A |
-| 21 | [Barton](http://twitter.com/search?q=Barton) | N/A |
+| 1 | [#Flames](http://twitter.com/search?q=%23Flames) | N/A |
+| 2 | [Scottie](http://twitter.com/search?q=Scottie) | Scottie is a nickname for the Scottish Terrier, a small breed of dog. It is also used as a nickname for people from Scotland or with Scottish heritage. |
+| 3 | [Ullmark](http://twitter.com/search?q=Ullmark) | N/A |
+| 4 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
+| 5 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
+| 6 | [Tinubu](http://twitter.com/search?q=Tinubu) | N/A |
+| 7 | [Pelletier](http://twitter.com/search?q=Pelletier) | N/A |
+| 8 | [#NHLJets](http://twitter.com/search?q=%23NHLJets) | N/A |
+| 9 | [Kopitar](http://twitter.com/search?q=Kopitar) | N/A |
+| 10 | [Barrie](http://twitter.com/search?q=Barrie) | N/A |
+| 11 | [Vladar](http://twitter.com/search?q=Vladar) | N/A |
+| 12 | [Calgary](http://twitter.com/search?q=Calgary) | N/A |
+| 13 | [#GoJetsGo](http://twitter.com/search?q=%23GoJetsGo) | N/A |
+| 14 | [#WeTheNorth](http://twitter.com/search?q=%23WeTheNorth) | N/A |
+| 15 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 16 | [Gurianov](http://twitter.com/search?q=Gurianov) | N/A |
+| 17 | [Thad](http://twitter.com/search?q=Thad) | N/A |
+| 18 | [Ekholm](http://twitter.com/search?q=Ekholm) | N/A |
+| 19 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 20 | [Demar](http://twitter.com/search?q=Demar) | Demar is a shortened form of the name Demarcus, which is a male given name of Latin origin. It is derived from the Latin words "de" (meaning "of") and "Marcus" (meaning "warlike"). In English, Demar can be translated to mean "of warlike". |
+| 21 | [Poeltl](http://twitter.com/search?q=Poeltl) | N/A |
 | 22 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 23 | [Dubas](http://twitter.com/search?q=Dubas) | N/A |
-| 24 | [Sandin](http://twitter.com/search?q=Sandin) | N/A |
-| 25 | [Schenn](http://twitter.com/search?q=Schenn) | N/A |
-| 26 | [Chychrun](http://twitter.com/search?q=Chychrun) | N/A |
-| 27 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
-| 28 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
-| 29 | [Bouchard](http://twitter.com/search?q=Bouchard) | N/A |
-| 30 | [Detroit](http://twitter.com/search?q=Detroit) | Detroit is the largest city in the U.S. state of Michigan and is located on the Detroit River, which connects Lake Erie to Lake St. Clair. It is known as the Motor City due to its long history as a major center for automobile manufacturing and its status as a major port city. Detroit has a rich cultural heritage, including music, art, and architecture, and is home to several professional sports teams. |
-| 31 | [Stanley](http://twitter.com/search?q=Stanley) | N/A |
-| 32 | [Holl](http://twitter.com/search?q=Holl) | N/A |
-| 33 | [Budget 2023](http://twitter.com/search?q=Budget+2023) | N/A |
-| 34 | [Dave Grohl](http://twitter.com/search?q=Dave+Grohl) | N/A |
-| 35 | [Nino](http://twitter.com/search?q=Nino) | N/A |
-| 36 | [Tkachuk](http://twitter.com/search?q=Tkachuk) | N/A |
-| 37 | [Engvall](http://twitter.com/search?q=Engvall) | N/A |
-| 38 | [Shayne](http://twitter.com/search?q=Shayne) | N/A |
-| 39 | [Schaefer](http://twitter.com/search?q=Schaefer) | N/A |
-| 40 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 41 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 42 | [Bertuzzi](http://twitter.com/search?q=Bertuzzi) | N/A |
-| 43 | [Raps](http://twitter.com/search?q=Raps) | N/A |
-| 44 | [Jensen](http://twitter.com/search?q=Jensen) | N/A |
-| 45 | [Ceci](http://twitter.com/search?q=Ceci) | N/A |
-| 46 | [Washington](http://twitter.com/search?q=Washington) | N/A |
-| 47 | [Tamara Lich](http://twitter.com/search?q=Tamara+Lich) | N/A |
-| 48 | [Rasmus](http://twitter.com/search?q=Rasmus) | N/A |
-| 49 | [Korpisalo](http://twitter.com/search?q=Korpisalo) | N/A |
-| 50 | [Nurse](http://twitter.com/search?q=Nurse) | N/A |
+| 23 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
+| 24 | [Larkin](http://twitter.com/search?q=Larkin) | N/A |
+| 25 | [Will Barton](http://twitter.com/search?q=Will+Barton) | N/A |
+| 26 | [Sandin](http://twitter.com/search?q=Sandin) | N/A |
+| 27 | [Schenn](http://twitter.com/search?q=Schenn) | N/A |
+| 28 | [Chychrun](http://twitter.com/search?q=Chychrun) | N/A |
+| 29 | [Shayne](http://twitter.com/search?q=Shayne) | N/A |
+| 30 | [Austin Watson](http://twitter.com/search?q=Austin+Watson) | N/A |
+| 31 | [Red Wings](http://twitter.com/search?q=Red+Wings) | N/A |
+| 32 | [Detroit](http://twitter.com/search?q=Detroit) | Detroit is the largest city in the U.S. state of Michigan and is located on the Detroit River, which connects Lake Erie to Lake St. Clair. It is known as the Motor City due to its long history as a major center for automobile manufacturing and its status as a major port city. Detroit has a rich cultural heritage, including music, art, and architecture, and is home to several professional sports teams. |
+| 33 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
+| 34 | [Dube](http://twitter.com/search?q=Dube) | N/A |
+| 35 | [Bouchard](http://twitter.com/search?q=Bouchard) | N/A |
+| 36 | [Stanley](http://twitter.com/search?q=Stanley) | N/A |
+| 37 | [Boston](http://twitter.com/search?q=Boston) | Boston is the capital and most populous city of the Commonwealth of Massachusetts in the United States. It is one of the oldest cities in the United States, founded in 1630 by Puritan settlers from England. The city is known for its rich history, culture, and educational institutions. It is also home to many world-renowned museums, universities, and hospitals. |
+| 38 | [Budget 2023](http://twitter.com/search?q=Budget+2023) | N/A |
+| 39 | [Tkachuk](http://twitter.com/search?q=Tkachuk) | N/A |
+| 40 | [Engvall](http://twitter.com/search?q=Engvall) | N/A |
+| 41 | [Raps](http://twitter.com/search?q=Raps) | N/A |
+| 42 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
+| 43 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
+| 44 | [Bertuzzi](http://twitter.com/search?q=Bertuzzi) | N/A |
+| 45 | [Tamara Lich](http://twitter.com/search?q=Tamara+Lich) | N/A |
+| 46 | [Jensen](http://twitter.com/search?q=Jensen) | N/A |
+| 47 | [Washington](http://twitter.com/search?q=Washington) | N/A |
+| 48 | [Korpisalo](http://twitter.com/search?q=Korpisalo) | N/A |
+| 49 | [Gustafsson](http://twitter.com/search?q=Gustafsson) | N/A |
+| 50 | [The UCP](http://twitter.com/search?q=The+UCP) | N/A |
 
 
 

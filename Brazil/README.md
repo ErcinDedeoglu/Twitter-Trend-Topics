@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brazil
 
-📆 Last Updated: `2023-03-01 04:16:57 UTC`
+📆 Last Updated: `2023-03-01 05:16:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for Brazil
 | 2 | [Vitor Pereira](http://twitter.com/search?q=Vitor+Pereira) | Vitor Pereira is a Portuguese football manager and former player. He is currently the manager of Chinese Super League club Shanghai SIPG. The name Vitor Pereira translates to Victor Pereira in English. |
 | 3 | [Arrascaeta](http://twitter.com/search?q=Arrascaeta) | Arrascaeta is a Spanish word that means "to tear away" or "to rip off." It is often used to describe a situation in which something is taken away quickly and forcefully. |
 | 4 | [Gabigol](http://twitter.com/search?q=Gabigol) | Gabigol is a nickname given to Brazilian footballer Gabriel Barbosa, who currently plays for Flamengo. The nickname is a combination of his first name, Gabriel, and the Portuguese word for goal, gol. In English, the nickname translates to "Gabriel Goal". |
-| 5 | [Del Valle](http://twitter.com/search?q=Del+Valle) | N/A |
-| 6 | [Dorival](http://twitter.com/search?q=Dorival) | Dorival is a French surname. It is derived from the Latin name Dorivallus, which means "gift of the sea". |
-| 7 | [Matheus Gonçalves](http://twitter.com/search?q=Matheus+Gon%c3%a7alves) | N/A |
-| 8 | [Maracanã](http://twitter.com/search?q=Maracan%c3%a3) | N/A |
-| 9 | [Tadeu](http://twitter.com/search?q=Tadeu) | Tadeu is a Portuguese name derived from the Latin name Thaddeus. It is a masculine given name meaning "gift of God". |
+| 5 | [Dorival](http://twitter.com/search?q=Dorival) | Dorival is a French surname. It is derived from the Latin name Dorivallus, which means "gift of the sea". |
+| 6 | [Del Valle](http://twitter.com/search?q=Del+Valle) | N/A |
+| 7 | [#BatePapoBBB](http://twitter.com/search?q=%23BatePapoBBB) | N/A |
+| 8 | [Matheus Gonçalves](http://twitter.com/search?q=Matheus+Gon%c3%a7alves) | N/A |
+| 9 | [Maracanã](http://twitter.com/search?q=Maracan%c3%a3) | N/A |
 | 10 | [dr fred](http://twitter.com/search?q=dr+fred) | "Dr Fred" is a nickname for Dr. Frederick Banting, a Canadian medical scientist who was the co-discoverer of insulin. He is credited with saving the lives of millions of people with diabetes. The nickname "Dr Fred" is used to refer to him in a friendly and informal way. |
 | 11 | [Marcos Braz](http://twitter.com/search?q=Marcos+Braz) | N/A |
-| 12 | [#FicaVP](http://twitter.com/search?q=%23FicaVP) | N/A |
-| 13 | [Diego Alves](http://twitter.com/search?q=Diego+Alves) | N/A |
-| 14 | [#BatePapoBBB](http://twitter.com/search?q=%23BatePapoBBB) | N/A |
+| 12 | [Tadeu](http://twitter.com/search?q=Tadeu) | Tadeu is a Portuguese name derived from the Latin name Thaddeus. It is a masculine given name meaning "gift of God". |
+| 13 | [#FicaVP](http://twitter.com/search?q=%23FicaVP) | N/A |
+| 14 | [Diego Alves](http://twitter.com/search?q=Diego+Alves) | N/A |
 | 15 | [Marinho](http://twitter.com/search?q=Marinho) | Marinho is a Portuguese name derived from the Latin word marinus, meaning "of the sea". It is a masculine given name and can also be used as a surname. In English, Marinho can be translated to mean "marine" or "seafarer". |
-| 16 | [Vidal](http://twitter.com/search?q=Vidal) | Vidal is a Spanish surname derived from the Latin name Vitalis, which means “life”. It is also a French surname derived from the Latin name Vidallus, which means “woodland”. |
+| 16 | [#JB29](http://twitter.com/search?q=%23JB29) | N/A |
 | 17 | [Cebolinha](http://twitter.com/search?q=Cebolinha) | Cebolinha is a character from the Brazilian comic strip Turma da Mônica. He is known for his mischievous behavior and his unique way of speaking, which involves replacing the letter "r" with "l". In English, Cebolinha means "Little Onion". |
-| 18 | [#FLAxIDV](http://twitter.com/search?q=%23FLAxIDV) | N/A |
-| 19 | [O Santos](http://twitter.com/search?q=O+Santos) | O Santos is a Brazilian football club based in the city of Santos, São Paulo. The club was founded in 1912 and is one of the most successful clubs in Brazil, having won eight national titles and four international titles. In English, O Santos translates to "The Saints". |
-| 20 | [#JB29](http://twitter.com/search?q=%23JB29) | N/A |
-| 21 | [#RecopaNaESPN](http://twitter.com/search?q=%23RecopaNaESPN) | N/A |
-| 22 | [David Luiz](http://twitter.com/search?q=David+Luiz) | David Luiz is a Brazilian professional footballer who plays for the English Premier League club Arsenal. He primarily plays as a centre-back, but can also be deployed as a defensive midfielder. The name "David Luiz" is derived from his given name, David, and his middle name, Luiz. |
-| 23 | [Gerson](http://twitter.com/search?q=Gerson) | Gerson is a German name derived from the Hebrew name Gershom, meaning “exile” or “stranger.” It is also a variant of the English name Garth, which means “garden.” |
-| 24 | [Everton Ribeiro](http://twitter.com/search?q=Everton+Ribeiro) | Everton Ribeiro is a Brazilian professional footballer who plays as an attacking midfielder for Saudi Arabian club Al-Nassr. His name translates to "Everton of the River" in English. |
-| 25 | [doutor fred](http://twitter.com/search?q=doutor+fred) | Doutor Fred is a Brazilian children's television show that aired from 1997 to 2001. It follows the adventures of a doctor, Dr. Fred, and his assistant, Juca, as they travel around the world helping people in need. The show's title translates to "Dr. Fred" in English. |
-| 26 | [Landim](http://twitter.com/search?q=Landim) | N/A |
-| 27 | [Vivian](http://twitter.com/search?q=Vivian) | N/A |
-| 28 | [Varela](http://twitter.com/search?q=Varela) | Varela is a Spanish surname derived from the Latin word "varellus," which means "young calf." It is also the name of a small town in Galicia, Spain. In English, it can be translated to mean "young calf." |
-| 29 | [BIEBER DAY](http://twitter.com/search?q=BIEBER+DAY) | N/A |
+| 18 | [Vidal](http://twitter.com/search?q=Vidal) | Vidal is a Spanish surname derived from the Latin name Vitalis, which means “life”. It is also a French surname derived from the Latin name Vidallus, which means “woodland”. |
+| 19 | [Vivian](http://twitter.com/search?q=Vivian) | N/A |
+| 20 | [O Santos](http://twitter.com/search?q=O+Santos) | O Santos is a Brazilian football club based in the city of Santos, São Paulo. The club was founded in 1912 and is one of the most successful clubs in Brazil, having won eight national titles and four international titles. In English, O Santos translates to "The Saints". |
+| 21 | [#FLAxIDV](http://twitter.com/search?q=%23FLAxIDV) | N/A |
+| 22 | [#RecopaNaESPN](http://twitter.com/search?q=%23RecopaNaESPN) | N/A |
+| 23 | [David Luiz](http://twitter.com/search?q=David+Luiz) | David Luiz is a Brazilian professional footballer who plays for the English Premier League club Arsenal. He primarily plays as a centre-back, but can also be deployed as a defensive midfielder. The name "David Luiz" is derived from his given name, David, and his middle name, Luiz. |
+| 24 | [Landim](http://twitter.com/search?q=Landim) | N/A |
+| 25 | [Everton Ribeiro](http://twitter.com/search?q=Everton+Ribeiro) | Everton Ribeiro is a Brazilian professional footballer who plays as an attacking midfielder for Saudi Arabian club Al-Nassr. His name translates to "Everton of the River" in English. |
+| 26 | [Gerson](http://twitter.com/search?q=Gerson) | Gerson is a German name derived from the Hebrew name Gershom, meaning “exile” or “stranger.” It is also a variant of the English name Garth, which means “garden.” |
+| 27 | [doutor fred](http://twitter.com/search?q=doutor+fred) | Doutor Fred is a Brazilian children's television show that aired from 1997 to 2001. It follows the adventures of a doctor, Dr. Fred, and his assistant, Juca, as they travel around the world helping people in need. The show's title translates to "Dr. Fred" in English. |
+| 28 | [BIEBER DAY](http://twitter.com/search?q=BIEBER+DAY) | N/A |
+| 29 | [Varela](http://twitter.com/search?q=Varela) | Varela is a Spanish surname derived from the Latin word "varellus," which means "young calf." It is also the name of a small town in Galicia, Spain. In English, it can be translated to mean "young calf." |
 | 30 | [Muralha](http://twitter.com/search?q=Muralha) | N/A |
-| 31 | [FIQUEI PIRANHA](http://twitter.com/search?q=FIQUEI+PIRANHA) | N/A |
-| 32 | [Esse Santos](http://twitter.com/search?q=Esse+Santos) | N/A |
-| 33 | [Cezar](http://twitter.com/search?q=Cezar) | Cezar is a Romanian male given name derived from the Latin name Caesar, which means "emperor". |
-| 34 | [Gabriel Barbosa](http://twitter.com/search?q=Gabriel+Barbosa) | Gabriel Barbosa is a Brazilian professional footballer who plays as a forward for Flamengo. His nickname is Gabigol, which is a combination of his first name and the Portuguese word for goal. In English, Gabriel Barbosa means "God's messenger of goals". |
-| 35 | [Black](http://twitter.com/search?q=Black) | N/A |
+| 31 | [Esse Santos](http://twitter.com/search?q=Esse+Santos) | N/A |
+| 32 | [FIQUEI PIRANHA](http://twitter.com/search?q=FIQUEI+PIRANHA) | N/A |
+| 33 | [Gabriel Barbosa](http://twitter.com/search?q=Gabriel+Barbosa) | Gabriel Barbosa is a Brazilian professional footballer who plays as a forward for Flamengo. His nickname is Gabigol, which is a combination of his first name and the Portuguese word for goal. In English, Gabriel Barbosa means "God's messenger of goals". |
+| 34 | [Cezar](http://twitter.com/search?q=Cezar) | Cezar is a Romanian male given name derived from the Latin name Caesar, which means "emperor". |
+| 35 | [Paulo Sousa](http://twitter.com/search?q=Paulo+Sousa) | Paulo Sousa is a Portuguese football manager and former player. He is currently the manager of Chinese Super League club Tianjin Teda. In English, Paulo Sousa means Paul Sousa. |
 | 36 | [TIME SEM VERGONHA](http://twitter.com/search?q=TIME+SEM+VERGONHA) | N/A |
-| 37 | [Mengão](http://twitter.com/search?q=Meng%c3%a3o) | N/A |
-| 38 | [Paulo Sousa](http://twitter.com/search?q=Paulo+Sousa) | Paulo Sousa is a Portuguese football manager and former player. He is currently the manager of Chinese Super League club Tianjin Teda. In English, Paulo Sousa means Paul Sousa. |
-| 39 | [O VP](http://twitter.com/search?q=O+VP) | N/A |
-| 40 | [Matheusao](http://twitter.com/search?q=Matheusao) | N/A |
-| 41 | [Faravelli](http://twitter.com/search?q=Faravelli) | N/A |
-| 42 | [Praga de Corinthiano](http://twitter.com/search?q=Praga+de+Corinthiano) | N/A |
-| 43 | [Deyverson](http://twitter.com/search?q=Deyverson) | N/A |
-| 44 | [Jorge Jesus](http://twitter.com/search?q=Jorge+Jesus) | N/A |
+| 37 | [Black](http://twitter.com/search?q=Black) | N/A |
+| 38 | [Ana Clara](http://twitter.com/search?q=Ana+Clara) | Ana Clara is a Portuguese name meaning "Graceful and Bright". It is derived from the Latin name Anna, which means "grace", and Clara, which means "bright". |
+| 39 | [Patrícia](http://twitter.com/search?q=Patr%c3%adcia) | N/A |
+| 40 | [Mengão](http://twitter.com/search?q=Meng%c3%a3o) | N/A |
+| 41 | [O VP](http://twitter.com/search?q=O+VP) | N/A |
+| 42 | [Jorge Jesus](http://twitter.com/search?q=Jorge+Jesus) | N/A |
+| 43 | [VAI TOMAR NO CU](http://twitter.com/search?q=VAI+TOMAR+NO+CU) | "VAI TOMAR NO CU" is a Portuguese phrase that translates to "go take it in the ass" in English. It is an offensive phrase used as an insult. |
+| 44 | [Deyverson](http://twitter.com/search?q=Deyverson) | N/A |
 | 45 | [Diretoria](http://twitter.com/search?q=Diretoria) | N/A |
-| 46 | [Landazuri](http://twitter.com/search?q=Landazuri) | N/A |
-| 47 | [UM MES LARIED](http://twitter.com/search?q=UM+MES+LARIED) | N/A |
-| 48 | [Equador](http://twitter.com/search?q=Equador) | N/A |
-| 49 | [Tchau Fred](http://twitter.com/search?q=Tchau+Fred) | N/A |
-| 50 | [Ramirez](http://twitter.com/search?q=Ramirez) | Ramirez is a Spanish surname. It is derived from the Germanic personal name Raimer, which means "wise counselor". In English, it can be translated to mean "wise ruler". |
+| 46 | [Faravelli](http://twitter.com/search?q=Faravelli) | N/A |
+| 47 | [Praga de Corinthiano](http://twitter.com/search?q=Praga+de+Corinthiano) | N/A |
+| 48 | [Andres](http://twitter.com/search?q=Andres) | N/A |
+| 49 | [Matheusao](http://twitter.com/search?q=Matheusao) | N/A |
+| 50 | [Landazuri](http://twitter.com/search?q=Landazuri) | N/A |
 
 
 

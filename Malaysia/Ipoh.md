@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ipoh
 
-📆 Last Updated: `2023-03-01 04:16:35 UTC`
+📆 Last Updated: `2023-03-01 05:15:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Malaysia](</Malaysia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [PENANG](http://twitter.com/search?q=PENANG) | N/A |
+| 1 | [penang](http://twitter.com/search?q=penang) | N/A |
 | 2 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 3 | [#JISOOxDiorAW23](http://twitter.com/search?q=%23JISOOxDiorAW23) | N/A |
-| 4 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
-| 5 | [#toasteed](http://twitter.com/search?q=%23toasteed) | N/A |
-| 6 | [Toby](http://twitter.com/search?q=Toby) | N/A |
-| 7 | [#NeverLetMeGoSeriesFinalEP](http://twitter.com/search?q=%23NeverLetMeGoSeriesFinalEP) | N/A |
-| 8 | [#ApoxDiorAW2023](http://twitter.com/search?q=%23ApoxDiorAW2023) | N/A |
-| 9 | [Cleanser](http://twitter.com/search?q=Cleanser) | N/A |
-| 10 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
-| 11 | [EXO SC](http://twitter.com/search?q=EXO+SC) | N/A |
-| 12 | [Sunscreen - 3w](http://twitter.com/search?q=Sunscreen+-+3w) | N/A |
-| 13 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
-| 14 | [Freemint](http://twitter.com/search?q=Freemint) | N/A |
-| 15 | [ETH to ETH](http://twitter.com/search?q=ETH+to+ETH) | N/A |
-| 16 | [POLLY PASTEL BY BUILD](http://twitter.com/search?q=POLLY+PASTEL+BY+BUILD) | N/A |
-| 17 | [Benny](http://twitter.com/search?q=Benny) | N/A |
-| 18 | [Ultraman FireLevel](http://twitter.com/search?q=Ultraman+FireLevel) | N/A |
-| 19 | [LATE LATE SHOW WITH TXT](http://twitter.com/search?q=LATE+LATE+SHOW+WITH+TXT) | N/A |
-| 20 | [Circle 2](http://twitter.com/search?q=Circle+2) | N/A |
-| 21 | [The 10](http://twitter.com/search?q=The+10) | N/A |
-| 22 | [traderdao](http://twitter.com/search?q=traderdao) | N/A |
-| 23 | [O HIGHLIGHT MEDLEY](http://twitter.com/search?q=O+HIGHLIGHT+MEDLEY) | N/A |
-| 24 | [PENPENZ](http://twitter.com/search?q=PENPENZ) | N/A |
-| 25 | [Sunscreen - Biore](http://twitter.com/search?q=Sunscreen+-+Biore) | N/A |
-| 26 | [Fantagio](http://twitter.com/search?q=Fantagio) | N/A |
-| 27 | [Eyeliner - Maybelline](http://twitter.com/search?q=Eyeliner+-+Maybelline) | N/A |
-| 28 | [jana wibawa](http://twitter.com/search?q=jana+wibawa) | N/A |
-| 29 | [Akari](http://twitter.com/search?q=Akari) | N/A |
+| 3 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 4 | [#JISOOxDiorAW23](http://twitter.com/search?q=%23JISOOxDiorAW23) | N/A |
+| 5 | [#BeyourluveUnited](http://twitter.com/search?q=%23BeyourluveUnited) | N/A |
+| 6 | [TOGETHER FOR BUILD](http://twitter.com/search?q=TOGETHER+FOR+BUILD) | N/A |
+| 7 | [#ROVER_MoodSampler1](http://twitter.com/search?q=%23ROVER_MoodSampler1) | N/A |
+| 8 | [#toasteed](http://twitter.com/search?q=%23toasteed) | N/A |
+| 9 | [Toby](http://twitter.com/search?q=Toby) | N/A |
+| 10 | [Cleanser](http://twitter.com/search?q=Cleanser) | N/A |
+| 11 | [ROVER IS COMING](http://twitter.com/search?q=ROVER+IS+COMING) | N/A |
+| 12 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
+| 13 | [Sunscreen - 3w](http://twitter.com/search?q=Sunscreen+-+3w) | N/A |
+| 14 | [EXO SC](http://twitter.com/search?q=EXO+SC) | N/A |
+| 15 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
+| 16 | [Freemint](http://twitter.com/search?q=Freemint) | N/A |
+| 17 | [POLLY PASTEL BY BUILD](http://twitter.com/search?q=POLLY+PASTEL+BY+BUILD) | N/A |
+| 18 | [ETH to ETH](http://twitter.com/search?q=ETH+to+ETH) | N/A |
+| 19 | [Sunscreen - Biore](http://twitter.com/search?q=Sunscreen+-+Biore) | N/A |
+| 20 | [Malaysia](http://twitter.com/search?q=Malaysia) | N/A |
+| 21 | [Wonho](http://twitter.com/search?q=Wonho) | N/A |
+| 22 | [O HIGHLIGHT MEDLEY](http://twitter.com/search?q=O+HIGHLIGHT+MEDLEY) | N/A |
+| 23 | [PENPENZ](http://twitter.com/search?q=PENPENZ) | N/A |
+| 24 | [LATE LATE SHOW WITH TXT](http://twitter.com/search?q=LATE+LATE+SHOW+WITH+TXT) | N/A |
+| 25 | [The 10](http://twitter.com/search?q=The+10) | N/A |
+| 26 | [Ultraman FireLevel](http://twitter.com/search?q=Ultraman+FireLevel) | N/A |
+| 27 | [Fantagio](http://twitter.com/search?q=Fantagio) | N/A |
+| 28 | [Circle 2](http://twitter.com/search?q=Circle+2) | N/A |
+| 29 | [traderdao](http://twitter.com/search?q=traderdao) | N/A |
 | 30 | [Yasmin](http://twitter.com/search?q=Yasmin) | N/A |
-| 31 | [Mascara - Maybelline](http://twitter.com/search?q=Mascara+-+Maybelline) | N/A |
-| 32 | [Moisturiser - Skintific](http://twitter.com/search?q=Moisturiser+-+Skintific) | N/A |
-| 33 | [DIOR WITH NATTAWIN](http://twitter.com/search?q=DIOR+WITH+NATTAWIN) | N/A |
-| 34 | [The 3](http://twitter.com/search?q=The+3) | N/A |
-| 35 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 36 | [Candace](http://twitter.com/search?q=Candace) | N/A |
-| 37 | [eric chou](http://twitter.com/search?q=eric+chou) | N/A |
-| 38 | [powder - laura mercier](http://twitter.com/search?q=powder+-+laura+mercier) | N/A |
-| 39 | [Will of the People](http://twitter.com/search?q=Will+of+the+People) | N/A |
-| 40 | [HAVE TO KNOW](http://twitter.com/search?q=HAVE+TO+KNOW) | N/A |
-| 41 | [blusher - in2it](http://twitter.com/search?q=blusher+-+in2it) | N/A |
-| 42 | [Bennett](http://twitter.com/search?q=Bennett) | N/A |
-| 43 | [Footballing Ability](http://twitter.com/search?q=Footballing+Ability) | N/A |
-| 44 | [Terry](http://twitter.com/search?q=Terry) | N/A |
-| 45 | [I VOLUNTEER](http://twitter.com/search?q=I+VOLUNTEER) | N/A |
-| 46 | [Wonho](http://twitter.com/search?q=Wonho) | N/A |
-| 47 | [Ticketing](http://twitter.com/search?q=Ticketing) | N/A |
-| 48 | [Sunblock - 3W](http://twitter.com/search?q=Sunblock+-+3W) | N/A |
-| 49 | [Whistle](http://twitter.com/search?q=Whistle) | N/A |
+| 31 | [jana wibawa](http://twitter.com/search?q=jana+wibawa) | N/A |
+| 32 | [eric chou](http://twitter.com/search?q=eric+chou) | N/A |
+| 33 | [Candace](http://twitter.com/search?q=Candace) | N/A |
+| 34 | [Bennett](http://twitter.com/search?q=Bennett) | N/A |
+| 35 | [blusher - in2it](http://twitter.com/search?q=blusher+-+in2it) | N/A |
+| 36 | [The 3](http://twitter.com/search?q=The+3) | N/A |
+| 37 | [Toner - Simple](http://twitter.com/search?q=Toner+-+Simple) | N/A |
+| 38 | [DIOR WITH NATTAWIN](http://twitter.com/search?q=DIOR+WITH+NATTAWIN) | N/A |
+| 39 | [Eyeliner - Maybelline](http://twitter.com/search?q=Eyeliner+-+Maybelline) | N/A |
+| 40 | [Will of the People](http://twitter.com/search?q=Will+of+the+People) | N/A |
+| 41 | [Akari](http://twitter.com/search?q=Akari) | N/A |
+| 42 | [Kena](http://twitter.com/search?q=Kena) | N/A |
+| 43 | [HAVE TO KNOW](http://twitter.com/search?q=HAVE+TO+KNOW) | N/A |
+| 44 | [powder - laura mercier](http://twitter.com/search?q=powder+-+laura+mercier) | N/A |
+| 45 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 46 | [Hwasa](http://twitter.com/search?q=Hwasa) | N/A |
+| 47 | [Footballing Ability](http://twitter.com/search?q=Footballing+Ability) | N/A |
+| 48 | [Sunscreen - Sunplay](http://twitter.com/search?q=Sunscreen+-+Sunplay) | N/A |
+| 49 | [I VOLUNTEER](http://twitter.com/search?q=I+VOLUNTEER) | N/A |
 
 
 

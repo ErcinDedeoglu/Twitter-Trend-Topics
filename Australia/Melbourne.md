@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Melbourne
 
-📆 Last Updated: `2023-03-01 04:16:31 UTC`
+📆 Last Updated: `2023-03-01 05:15:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Australia](</Australia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
-| 2 | [#superannuation](http://twitter.com/search?q=%23superannuation) | N/A |
-| 3 | [Angus Taylor](http://twitter.com/search?q=Angus+Taylor) | N/A |
-| 4 | [Kochie](http://twitter.com/search?q=Kochie) | N/A |
-| 5 | [#RobodebtRC](http://twitter.com/search?q=%23RobodebtRC) | N/A |
-| 6 | [Autumn](http://twitter.com/search?q=Autumn) | N/A |
-| 7 | [#NZvENG](http://twitter.com/search?q=%23NZvENG) | N/A |
-| 8 | [Stuart Robert](http://twitter.com/search?q=Stuart+Robert) | N/A |
-| 9 | [Starc](http://twitter.com/search?q=Starc) | N/A |
-| 10 | [Bridget Archer](http://twitter.com/search?q=Bridget+Archer) | N/A |
-| 11 | [Dutton](http://twitter.com/search?q=Dutton) | N/A |
-| 12 | [Musolino](http://twitter.com/search?q=Musolino) | N/A |
-| 13 | [#queerstralia](http://twitter.com/search?q=%23queerstralia) | N/A |
-| 14 | [Margot](http://twitter.com/search?q=Margot) | N/A |
-| 15 | [Father Bob](http://twitter.com/search?q=Father+Bob) | N/A |
-| 16 | [Ronni](http://twitter.com/search?q=Ronni) | Ronni is a female given name, derived from the name Veronica. It is a diminutive form of the name, and can be used as a nickname. The meaning of Ronni in English is "true image". |
-| 17 | [Rupert Murdoch](http://twitter.com/search?q=Rupert+Murdoch) | N/A |
-| 18 | [Chalmers](http://twitter.com/search?q=Chalmers) | N/A |
-| 19 | [Shonee](http://twitter.com/search?q=Shonee) | N/A |
-| 20 | [Flick](http://twitter.com/search?q=Flick) | N/A |
-| 21 | [Lismore](http://twitter.com/search?q=Lismore) | N/A |
-| 22 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 23 | [Green](http://twitter.com/search?q=Green) | N/A |
-| 24 | [Shaun](http://twitter.com/search?q=Shaun) | N/A |
-| 25 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
-| 26 | [Prue](http://twitter.com/search?q=Prue) | N/A |
-| 27 | [Sarah Ferguson](http://twitter.com/search?q=Sarah+Ferguson) | N/A |
-| 28 | [Double Bay](http://twitter.com/search?q=Double+Bay) | N/A |
-| 29 | [0.5% of Australians](http://twitter.com/search?q=0.5%25+of+Australians) | N/A |
-| 30 | [Sandy](http://twitter.com/search?q=Sandy) | N/A |
-| 31 | [Matthew Thompson](http://twitter.com/search?q=Matthew+Thompson) | N/A |
-| 32 | [Indore](http://twitter.com/search?q=Indore) | N/A |
-| 33 | [Wordle 620 X](http://twitter.com/search?q=Wordle+620+X) | N/A |
-| 34 | [TEST CRICKET](http://twitter.com/search?q=TEST+CRICKET) | N/A |
-| 35 | [Keenan](http://twitter.com/search?q=Keenan) | N/A |
-| 36 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
-| 37 | [Renee Leon](http://twitter.com/search?q=Renee+Leon) | N/A |
-| 38 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 39 | [Rachel](http://twitter.com/search?q=Rachel) | N/A |
-| 40 | [Mardi Gras](http://twitter.com/search?q=Mardi+Gras) | N/A |
-| 41 | [Allegra](http://twitter.com/search?q=Allegra) | N/A |
-| 42 | [International Women's Day](http://twitter.com/search?q=International+Women%27s+Day) | N/A |
-| 43 | [Warwick Farm](http://twitter.com/search?q=Warwick+Farm) | N/A |
-| 44 | [The Project](http://twitter.com/search?q=The+Project) | N/A |
-| 45 | [Robyn](http://twitter.com/search?q=Robyn) | Robyn is a female given name of English origin, derived from the Old Germanic name Hrodebert, meaning "bright fame". It is also a variant spelling of the name Robin. |
-| 46 | [Albo](http://twitter.com/search?q=Albo) | N/A |
-| 47 | [Neil Wagner](http://twitter.com/search?q=Neil+Wagner) | N/A |
-| 48 | [Daily Quordle 401](http://twitter.com/search?q=Daily+Quordle+401) | N/A |
-| 49 | [GIVE US WN BLOOPERS](http://twitter.com/search?q=GIVE+US+WN+BLOOPERS) | N/A |
-| 50 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
+| 2 | [Rohit](http://twitter.com/search?q=Rohit) | Rohit is a Hindu name derived from Sanskrit, meaning "red" or "sun". It is commonly used as a male name in India. |
+| 3 | [Starc](http://twitter.com/search?q=Starc) | N/A |
+| 4 | [#superannuation](http://twitter.com/search?q=%23superannuation) | N/A |
+| 5 | [Angus Taylor](http://twitter.com/search?q=Angus+Taylor) | N/A |
+| 6 | [#RobodebtRC](http://twitter.com/search?q=%23RobodebtRC) | N/A |
+| 7 | [Kochie](http://twitter.com/search?q=Kochie) | N/A |
+| 8 | [Indore](http://twitter.com/search?q=Indore) | N/A |
+| 9 | [Kuhnemann](http://twitter.com/search?q=Kuhnemann) | N/A |
+| 10 | [#PaidCampaign](http://twitter.com/search?q=%23PaidCampaign) | N/A |
+| 11 | [Autumn](http://twitter.com/search?q=Autumn) | N/A |
+| 12 | [Stuart Robert](http://twitter.com/search?q=Stuart+Robert) | N/A |
+| 13 | [#FastCampaign](http://twitter.com/search?q=%23FastCampaign) | N/A |
+| 14 | [Carey](http://twitter.com/search?q=Carey) | N/A |
+| 15 | [Bridget Archer](http://twitter.com/search?q=Bridget+Archer) | N/A |
+| 16 | [Musolino](http://twitter.com/search?q=Musolino) | N/A |
+| 17 | [Margot](http://twitter.com/search?q=Margot) | N/A |
+| 18 | [Dutton](http://twitter.com/search?q=Dutton) | N/A |
+| 19 | [Father Bob](http://twitter.com/search?q=Father+Bob) | N/A |
+| 20 | [Frogmore](http://twitter.com/search?q=Frogmore) | N/A |
+| 21 | [Ronni](http://twitter.com/search?q=Ronni) | Ronni is a female given name, derived from the name Veronica. It is a diminutive form of the name, and can be used as a nickname. The meaning of Ronni in English is "true image". |
+| 22 | [Chalmers](http://twitter.com/search?q=Chalmers) | N/A |
+| 23 | [Steve Smith](http://twitter.com/search?q=Steve+Smith) | Steve Smith is a common English name. It does not have any particular meaning in English. |
+| 24 | [Rupert Murdoch](http://twitter.com/search?q=Rupert+Murdoch) | N/A |
+| 25 | [Flick](http://twitter.com/search?q=Flick) | N/A |
+| 26 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 27 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 28 | [Lismore](http://twitter.com/search?q=Lismore) | N/A |
+| 29 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
+| 30 | [Sarah Ferguson](http://twitter.com/search?q=Sarah+Ferguson) | N/A |
+| 31 | [Double Bay](http://twitter.com/search?q=Double+Bay) | N/A |
+| 32 | [0.5% of Australians](http://twitter.com/search?q=0.5%25+of+Australians) | N/A |
+| 33 | [Shaun](http://twitter.com/search?q=Shaun) | N/A |
+| 34 | [Shonee](http://twitter.com/search?q=Shonee) | N/A |
+| 35 | [Prue](http://twitter.com/search?q=Prue) | N/A |
+| 36 | [Green](http://twitter.com/search?q=Green) | N/A |
+| 37 | [Warwick Farm](http://twitter.com/search?q=Warwick+Farm) | N/A |
+| 38 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
+| 39 | [Matthew Thompson](http://twitter.com/search?q=Matthew+Thompson) | N/A |
+| 40 | [Wordle 620 X](http://twitter.com/search?q=Wordle+620+X) | N/A |
+| 41 | [Sandy](http://twitter.com/search?q=Sandy) | N/A |
+| 42 | [Saint Gurmeet Ram Rahim Ji](http://twitter.com/search?q=Saint+Gurmeet+Ram+Rahim+Ji) | Saint Gurmeet Ram Rahim Ji is a spiritual leader and humanitarian from India. He is the founder of the spiritual organization Dera Sacha Sauda, which promotes social welfare and religious harmony. The name "Gurmeet Ram Rahim Ji" translates to "The Enlightened One, the Compassionate Lord". |
+| 43 | [Rachel](http://twitter.com/search?q=Rachel) | N/A |
+| 44 | [Keenan](http://twitter.com/search?q=Keenan) | N/A |
+| 45 | [Kayo](http://twitter.com/search?q=Kayo) | N/A |
+| 46 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
+| 47 | [Mardi Gras](http://twitter.com/search?q=Mardi+Gras) | N/A |
+| 48 | [Allegra](http://twitter.com/search?q=Allegra) | N/A |
+| 49 | [Sussan](http://twitter.com/search?q=Sussan) | N/A |
+| 50 | [Robyn](http://twitter.com/search?q=Robyn) | Robyn is a female given name of English origin, derived from the Old Germanic name Hrodebert, meaning "bright fame". It is also a variant spelling of the name Robin. |
 
 
 
