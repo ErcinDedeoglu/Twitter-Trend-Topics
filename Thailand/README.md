@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Thailand
 
-📆 Last Updated: `2023-02-28 23:16:58 UTC`
+📆 Last Updated: `2023-03-01 00:33:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Thailand
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#ShowmeloveTheseriesEP1](http://twitter.com/search?q=%23ShowmeloveTheseriesEP1) | N/A |
-| 2 | [#SaintLaurentModeAvecMarkTuan](http://twitter.com/search?q=%23SaintLaurentModeAvecMarkTuan) | N/A |
-| 3 | [#BORNPINKinBANGKOK](http://twitter.com/search?q=%23BORNPINKinBANGKOK) | #BORNPINKinBANGKOK is a hashtag used to promote a fashion event in Bangkok, Thailand. It is meant to encourage people to wear pink clothing and accessories to the event. The phrase "born pink" is a play on words, referring to the idea of being born fashionable. |
-| 4 | [#ApoxDiorAW2023](http://twitter.com/search?q=%23ApoxDiorAW2023) | N/A |
-| 5 | [#NeverLetMeGoSeriesFinalEP](http://twitter.com/search?q=%23NeverLetMeGoSeriesFinalEP) | N/A |
-| 6 | [PATRICK TO PARIS](http://twitter.com/search?q=PATRICK+TO+PARIS) | N/A |
-| 7 | [Saturday Night](http://twitter.com/search?q=Saturday+Night) | N/A |
-| 8 | [first m of fourth](http://twitter.com/search?q=first+m+of+fourth) | N/A |
-| 9 | [bambam title poster](http://twitter.com/search?q=bambam+title+poster) | N/A |
-| 10 | [SWEETS DAY WITH KANAWUT](http://twitter.com/search?q=SWEETS+DAY+WITH+KANAWUT) | N/A |
-| 11 | [MISS U JAM](http://twitter.com/search?q=MISS+U+JAM) | N/A |
-| 12 | [nene nostalgia teaser](http://twitter.com/search?q=nene+nostalgia+teaser) | N/A |
-| 13 | [vip 14,800](http://twitter.com/search?q=vip+14%2c800) | N/A |
-| 14 | [grand tv](http://twitter.com/search?q=grand+tv) | N/A |
-| 15 | [POLLY PASTEL BY BUILD](http://twitter.com/search?q=POLLY+PASTEL+BY+BUILD) | N/A |
-| 16 | [friend of gucci gulf kanawut](http://twitter.com/search?q=friend+of+gucci+gulf+kanawut) | N/A |
-| 17 | [PH SCAMMER](http://twitter.com/search?q=PH+SCAMMER) | N/A |
-| 18 | [TENLEE 27th BDAY](http://twitter.com/search?q=TENLEE+27th+BDAY) | N/A |
-| 19 | [ENGFA WARAHA](http://twitter.com/search?q=ENGFA+WARAHA) | ENGFA WARAHA is a phrase in the Somali language that translates to "may peace be upon you." It is a common greeting used to wish someone peace and goodwill. |
-| 20 | [Sour & Sweet](http://twitter.com/search?q=Sour+%26+Sweet) | N/A |
-| 21 | [Jeff Satur](http://twitter.com/search?q=Jeff+Satur) | N/A |
-| 22 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
-| 23 | [Korean](http://twitter.com/search?q=Korean) | N/A |
-| 24 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 25 | [IG Story Update](http://twitter.com/search?q=IG+Story+Update) | N/A |
-| 26 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 27 | [#ShowMeLoveOnairTODAY](http://twitter.com/search?q=%23ShowMeLoveOnairTODAY) | N/A |
-| 28 | [#SourandSweet](http://twitter.com/search?q=%23SourandSweet) | N/A |
-| 29 | [#แบนlivenationth](http://twitter.com/search?q=%23%e0%b9%81%e0%b8%9a%e0%b8%99livenationth) | N/A |
-| 30 | [#TiffanyxWin](http://twitter.com/search?q=%23TiffanyxWin) | N/A |
-| 31 | [#เบบี้วอร์2ล้าน5แล้วคราฟ](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%9a%e0%b8%9a%e0%b8%b5%e0%b9%89%e0%b8%a7%e0%b8%ad%e0%b8%a3%e0%b9%8c2%e0%b8%a5%e0%b9%89%e0%b8%b2%e0%b8%995%e0%b9%81%e0%b8%a5%e0%b9%89%e0%b8%a7%e0%b8%84%e0%b8%a3%e0%b8%b2%e0%b8%9f) | N/A |
-| 32 | [#บอสไลฟ์ติ๊กกะต๊อก](http://twitter.com/search?q=%23%e0%b8%9a%e0%b8%ad%e0%b8%aa%e0%b9%84%e0%b8%a5%e0%b8%9f%e0%b9%8c%e0%b8%95%e0%b8%b4%e0%b9%8a%e0%b8%81%e0%b8%81%e0%b8%b0%e0%b8%95%e0%b9%8a%e0%b8%ad%e0%b8%81) | N/A |
-| 33 | [#PPKritxFirstChoice](http://twitter.com/search?q=%23PPKritxFirstChoice) | N/A |
-| 34 | [#TiffanyAndCo](http://twitter.com/search?q=%23TiffanyAndCo) | N/A |
-| 35 | [#togetherwithfourth1m](http://twitter.com/search?q=%23togetherwithfourth1m) | N/A |
-| 36 | [#PatrickXBalmain](http://twitter.com/search?q=%23PatrickXBalmain) | N/A |
-| 37 | [#WestlifeTheWildDreamsTourTH](http://twitter.com/search?q=%23WestlifeTheWildDreamsTourTH) | N/A |
-| 38 | [#KristSoloAsiaTour2023](http://twitter.com/search?q=%23KristSoloAsiaTour2023) | N/A |
-| 39 | [#BLACKPINK_BORNPINKENCORE](http://twitter.com/search?q=%23BLACKPINK_BORNPINKENCORE) | N/A |
-| 40 | [#EMSSS2EP4](http://twitter.com/search?q=%23EMSSS2EP4) | N/A |
-| 41 | [#zeenunewkoreainterview](http://twitter.com/search?q=%23zeenunewkoreainterview) | N/A |
-| 42 | [#ZeeNuNew안녕D5](http://twitter.com/search?q=%23ZeeNuNew%ec%95%88%eb%85%95D5) | N/A |
-| 43 | [#spobam](http://twitter.com/search?q=%23spobam) | N/A |
-| 44 | [#JUNGKOOK](http://twitter.com/search?q=%23JUNGKOOK) | N/A |
-| 45 | [#mvmultiverse](http://twitter.com/search?q=%23mvmultiverse) | N/A |
-| 46 | [#FirstLoveWithBommu](http://twitter.com/search?q=%23FirstLoveWithBommu) | N/A |
-| 47 | [#PatrickFinkler](http://twitter.com/search?q=%23PatrickFinkler) | N/A |
-| 48 | [#CasarteSweetDayxGulf](http://twitter.com/search?q=%23CasarteSweetDayxGulf) | N/A |
-| 49 | [#lazlivexสตางค์](http://twitter.com/search?q=%23lazlivex%e0%b8%aa%e0%b8%95%e0%b8%b2%e0%b8%87%e0%b8%84%e0%b9%8c) | N/A |
-| 50 | [#นิ่ม](http://twitter.com/search?q=%23%e0%b8%99%e0%b8%b4%e0%b9%88%e0%b8%a1) | N/A |
+| 2 | [#TANSANSUxMARKTUAN](http://twitter.com/search?q=%23TANSANSUxMARKTUAN) | N/A |
+| 3 | [#CherprangBNK48](http://twitter.com/search?q=%23CherprangBNK48) | N/A |
+| 4 | [#ตันซันซูมีพี่จ๋าแล้วนะ](http://twitter.com/search?q=%23%e0%b8%95%e0%b8%b1%e0%b8%99%e0%b8%8b%e0%b8%b1%e0%b8%99%e0%b8%8b%e0%b8%b9%e0%b8%a1%e0%b8%b5%e0%b8%9e%e0%b8%b5%e0%b9%88%e0%b8%88%e0%b9%8b%e0%b8%b2%e0%b9%81%e0%b8%a5%e0%b9%89%e0%b8%a7%e0%b8%99%e0%b8%b0) | N/A |
+| 5 | [#BORNPINKinBANGKOK](http://twitter.com/search?q=%23BORNPINKinBANGKOK) | #BORNPINKinBANGKOK is a hashtag used to promote a fashion event in Bangkok, Thailand. It is meant to encourage people to wear pink clothing and accessories to the event. The phrase "born pink" is a play on words, referring to the idea of being born fashionable. |
+| 6 | [DIOR WITH NATTAWIN](http://twitter.com/search?q=DIOR+WITH+NATTAWIN) | N/A |
+| 7 | [BAMBAM GM 01MARCH](http://twitter.com/search?q=BAMBAM+GM+01MARCH) | N/A |
+| 8 | [1 Morning Dunk](http://twitter.com/search?q=1+Morning+Dunk) | N/A |
+| 9 | [702 LUCKY DAY](http://twitter.com/search?q=702+LUCKY+DAY) | N/A |
+| 10 | [Good MEWning](http://twitter.com/search?q=Good+MEWning) | N/A |
+| 11 | [1MAR JOONG MORNING](http://twitter.com/search?q=1MAR+JOONG+MORNING) | N/A |
+| 12 | [PATRICK TO PARIS](http://twitter.com/search?q=PATRICK+TO+PARIS) | N/A |
+| 13 | [Saturday Night](http://twitter.com/search?q=Saturday+Night) | N/A |
+| 14 | [SWEETS DAY WITH KANAWUT](http://twitter.com/search?q=SWEETS+DAY+WITH+KANAWUT) | N/A |
+| 15 | [First M of Fourth](http://twitter.com/search?q=First+M+of+Fourth) | N/A |
+| 16 | [MISS U JAM](http://twitter.com/search?q=MISS+U+JAM) | N/A |
+| 17 | [Morning JoongDunk](http://twitter.com/search?q=Morning+JoongDunk) | N/A |
+| 18 | [nene nostalgia teaser](http://twitter.com/search?q=nene+nostalgia+teaser) | N/A |
+| 19 | [Gulf Morning](http://twitter.com/search?q=Gulf+Morning) | N/A |
+| 20 | [vip 14,800](http://twitter.com/search?q=vip+14%2c800) | N/A |
+| 21 | [grand tv](http://twitter.com/search?q=grand+tv) | N/A |
+| 22 | [POLLY PASTEL BY BUILD](http://twitter.com/search?q=POLLY+PASTEL+BY+BUILD) | N/A |
+| 23 | [PH SCAMMER](http://twitter.com/search?q=PH+SCAMMER) | N/A |
+| 24 | [friend of gucci gulf kanawut](http://twitter.com/search?q=friend+of+gucci+gulf+kanawut) | N/A |
+| 25 | [TENLEE 27th BDAY](http://twitter.com/search?q=TENLEE+27th+BDAY) | N/A |
+| 26 | [Kem Morning](http://twitter.com/search?q=Kem+Morning) | N/A |
+| 27 | [Kem Hussawee](http://twitter.com/search?q=Kem+Hussawee) | N/A |
+| 28 | [Sour & Sweet](http://twitter.com/search?q=Sour+%26+Sweet) | N/A |
+| 29 | [ENGFA WARAHA](http://twitter.com/search?q=ENGFA+WARAHA) | ENGFA WARAHA is a phrase in the Somali language that translates to "may peace be upon you." It is a common greeting used to wish someone peace and goodwill. |
+| 30 | [Bright Morning](http://twitter.com/search?q=Bright+Morning) | N/A |
+| 31 | [Hussawee So Cute](http://twitter.com/search?q=Hussawee+So+Cute) | N/A |
+| 32 | [Morning PATRICK](http://twitter.com/search?q=Morning+PATRICK) | N/A |
+| 33 | [Korean](http://twitter.com/search?q=Korean) | N/A |
+| 34 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 35 | [Trudeau](http://twitter.com/search?q=Trudeau) | N/A |
+| 36 | [Bright Vachirawit](http://twitter.com/search?q=Bright+Vachirawit) | Bright Vachirawit is a Thai actor and model. His name is a combination of the words "bright" and "Vachirawit," which mean "light" and "victory" respectively. In English, Bright Vachirawit means "light of victory." |
+| 37 | [Treasure](http://twitter.com/search?q=Treasure) | N/A |
+| 38 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 39 | [#ส่งรักให้มิวยามเช้า](http://twitter.com/search?q=%23%e0%b8%aa%e0%b9%88%e0%b8%87%e0%b8%a3%e0%b8%b1%e0%b8%81%e0%b9%83%e0%b8%ab%e0%b9%89%e0%b8%a1%e0%b8%b4%e0%b8%a7%e0%b8%a2%e0%b8%b2%e0%b8%a1%e0%b9%80%e0%b8%8a%e0%b9%89%e0%b8%b2) | N/A |
+| 40 | [#ApoxDiorAW2023](http://twitter.com/search?q=%23ApoxDiorAW2023) | N/A |
+| 41 | [#NeverLetMeGoSeriesFinalEP](http://twitter.com/search?q=%23NeverLetMeGoSeriesFinalEP) | N/A |
+| 42 | [#ShowMeLoveOnairTODAY](http://twitter.com/search?q=%23ShowMeLoveOnairTODAY) | N/A |
+| 43 | [#SourandSweet](http://twitter.com/search?q=%23SourandSweet) | N/A |
+| 44 | [#PPKritxFirstChoice](http://twitter.com/search?q=%23PPKritxFirstChoice) | N/A |
+| 45 | [#702เฮงๆรวยๆ](http://twitter.com/search?q=%23702%e0%b9%80%e0%b8%ae%e0%b8%87%e0%b9%86%e0%b8%a3%e0%b8%a7%e0%b8%a2%e0%b9%86) | N/A |
+| 46 | [#แบนlivenationth](http://twitter.com/search?q=%23%e0%b9%81%e0%b8%9a%e0%b8%99livenationth) | N/A |
+| 47 | [#DiorAW23](http://twitter.com/search?q=%23DiorAW23) | N/A |
+| 48 | [#Tiffanyxwin](http://twitter.com/search?q=%23Tiffanyxwin) | N/A |
+| 49 | [#KristSoloAsiaTour2023](http://twitter.com/search?q=%23KristSoloAsiaTour2023) | N/A |
+| 50 | [#PatrickXBalmain](http://twitter.com/search?q=%23PatrickXBalmain) | N/A |
 
 
 

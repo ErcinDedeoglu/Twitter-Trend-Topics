@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Italy
 
-📆 Last Updated: `2023-02-28 23:16:54 UTC`
+📆 Last Updated: `2023-03-01 00:33:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for Italy
 | 2 | [#Belve](http://twitter.com/search?q=%23Belve) | N/A |
 | 3 | [#JuventusTorino](http://twitter.com/search?q=%23JuventusTorino) | N/A |
 | 4 | [#BuongiornoMamma2](http://twitter.com/search?q=%23BuongiornoMamma2) | N/A |
-| 5 | [#CremoneseRoma](http://twitter.com/search?q=%23CremoneseRoma) | N/A |
+| 5 | [#StaseraCeCattelan](http://twitter.com/search?q=%23StaseraCeCattelan) | N/A |
 | 6 | [Bremer](http://twitter.com/search?q=Bremer) | Bremer is a German surname derived from the city of Bremen. In English, it can mean someone from Bremen or a person of German descent. |
-| 7 | [TORINO È BIANCONERA](http://twitter.com/search?q=TORINO+%c3%88+BIANCONERA) | N/A |
+| 7 | [Juric](http://twitter.com/search?q=Juric) | N/A |
 | 8 | [Faouzi](http://twitter.com/search?q=Faouzi) | N/A |
 | 9 | [Casalino](http://twitter.com/search?q=Casalino) | N/A |
-| 10 | [Juric](http://twitter.com/search?q=Juric) | N/A |
+| 10 | [TORINO È BIANCONERA](http://twitter.com/search?q=TORINO+%c3%88+BIANCONERA) | N/A |
 | 11 | [Carolina Crescentini](http://twitter.com/search?q=Carolina+Crescentini) | N/A |
-| 12 | [Agata](http://twitter.com/search?q=Agata) | N/A |
-| 13 | [Jacopo](http://twitter.com/search?q=Jacopo) | N/A |
-| 14 | [Madame Bovary](http://twitter.com/search?q=Madame+Bovary) | N/A |
-| 15 | [Dusan](http://twitter.com/search?q=Dusan) | N/A |
-| 16 | [Radonjic](http://twitter.com/search?q=Radonjic) | N/A |
-| 17 | [Chiesa](http://twitter.com/search?q=Chiesa) | Chiesa is an Italian word meaning "church". It is derived from the Latin word ecclesia, which also means "church". |
-| 18 | [Baudelaire](http://twitter.com/search?q=Baudelaire) | N/A |
-| 19 | [Sole](http://twitter.com/search?q=Sole) | N/A |
-| 20 | [Giletti](http://twitter.com/search?q=Giletti) | N/A |
-| 21 | [Sanabria](http://twitter.com/search?q=Sanabria) | N/A |
-| 22 | [Serra](http://twitter.com/search?q=Serra) | N/A |
-| 23 | [Il Torino](http://twitter.com/search?q=Il+Torino) | N/A |
-| 24 | [Eddie](http://twitter.com/search?q=Eddie) | Eddie is a slang term used to refer to someone who is considered to be cool, attractive, or stylish. It can also be used as a term of endearment for someone you like or admire. |
-| 25 | [Benedetti](http://twitter.com/search?q=Benedetti) | N/A |
-| 26 | [Karamoh](http://twitter.com/search?q=Karamoh) | N/A |
-| 27 | [Mancini](http://twitter.com/search?q=Mancini) | Mancini is an Italian surname derived from the Latin name "Mantius". It is a common surname in Italy and other parts of Europe. In English, it means "son of Mantius". |
-| 28 | [Pellegrini](http://twitter.com/search?q=Pellegrini) | N/A |
+| 12 | [Sole](http://twitter.com/search?q=Sole) | N/A |
+| 13 | [Baudelaire](http://twitter.com/search?q=Baudelaire) | N/A |
+| 14 | [Agata](http://twitter.com/search?q=Agata) | N/A |
+| 15 | [Madame Bovary](http://twitter.com/search?q=Madame+Bovary) | N/A |
+| 16 | [Jacopo](http://twitter.com/search?q=Jacopo) | N/A |
+| 17 | [Mancini](http://twitter.com/search?q=Mancini) | Mancini is an Italian surname derived from the Latin name "Mantius". It is a common surname in Italy and other parts of Europe. In English, it means "son of Mantius". |
+| 18 | [Radonjic](http://twitter.com/search?q=Radonjic) | N/A |
+| 19 | [Chiesa](http://twitter.com/search?q=Chiesa) | Chiesa is an Italian word meaning "church". It is derived from the Latin word ecclesia, which also means "church". |
+| 20 | [Cairo](http://twitter.com/search?q=Cairo) | N/A |
+| 21 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | N/A |
+| 22 | [Filippo](http://twitter.com/search?q=Filippo) | N/A |
+| 23 | [De Benedetti](http://twitter.com/search?q=De+Benedetti) | N/A |
+| 24 | [Giletti](http://twitter.com/search?q=Giletti) | N/A |
+| 25 | [La Roma](http://twitter.com/search?q=La+Roma) | N/A |
+| 26 | [Pellegrini](http://twitter.com/search?q=Pellegrini) | N/A |
+| 27 | [La Juventus](http://twitter.com/search?q=La+Juventus) | N/A |
+| 28 | [Cremona](http://twitter.com/search?q=Cremona) | N/A |
 | 29 | [Ballardini](http://twitter.com/search?q=Ballardini) | N/A |
-| 30 | [Cairo](http://twitter.com/search?q=Cairo) | N/A |
-| 31 | [La Roma](http://twitter.com/search?q=La+Roma) | N/A |
-| 32 | [Simonetta](http://twitter.com/search?q=Simonetta) | N/A |
-| 33 | [La Juventus](http://twitter.com/search?q=La+Juventus) | N/A |
-| 34 | [Cremona](http://twitter.com/search?q=Cremona) | N/A |
-| 35 | [Gaetano](http://twitter.com/search?q=Gaetano) | N/A |
-| 36 | [Rui Patricio](http://twitter.com/search?q=Rui+Patricio) | N/A |
-| 37 | [Stadium](http://twitter.com/search?q=Stadium) | N/A |
-| 38 | [Forza Roma](http://twitter.com/search?q=Forza+Roma) | N/A |
-| 39 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
-| 40 | [Svizzera](http://twitter.com/search?q=Svizzera) | N/A |
-| 41 | [Alex Sandro](http://twitter.com/search?q=Alex+Sandro) | Alex Sandro is a Brazilian professional footballer who plays for Italian club Juventus and the Brazil national team. His full name is Alex Sandro Lobo Silva. He primarily plays as a left-back, but can also play as a left winger. In English, his name means "Protector of Man". |
-| 42 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
-| 43 | [Saviano](http://twitter.com/search?q=Saviano) | N/A |
-| 44 | [Santori](http://twitter.com/search?q=Santori) | N/A |
-| 45 | [#dimartedi](http://twitter.com/search?q=%23dimartedi) | N/A |
-| 46 | [#derbydellamole](http://twitter.com/search?q=%23derbydellamole) | N/A |
-| 47 | [#FinoAllaFine](http://twitter.com/search?q=%23FinoAllaFine) | N/A |
-| 48 | [#Mourinho](http://twitter.com/search?q=%23Mourinho) | N/A |
-| 49 | [#Pogba](http://twitter.com/search?q=%23Pogba) | N/A |
-| 50 | [#Fuoridalcoro](http://twitter.com/search?q=%23Fuoridalcoro) | N/A |
+| 30 | [Forza Roma](http://twitter.com/search?q=Forza+Roma) | N/A |
+| 31 | [Stadium](http://twitter.com/search?q=Stadium) | N/A |
+| 32 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
+| 33 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
+| 34 | [#dimartedi](http://twitter.com/search?q=%23dimartedi) | N/A |
+| 35 | [#Pogba](http://twitter.com/search?q=%23Pogba) | N/A |
+| 36 | [#derbydellamole](http://twitter.com/search?q=%23derbydellamole) | N/A |
+| 37 | [#Mourinho](http://twitter.com/search?q=%23Mourinho) | N/A |
+| 38 | [#CremoneseRoma](http://twitter.com/search?q=%23CremoneseRoma) | N/A |
+| 39 | [#cartabianca](http://twitter.com/search?q=%23cartabianca) | N/A |
+| 40 | [#FinoAllaFine](http://twitter.com/search?q=%23FinoAllaFine) | N/A |
+| 41 | [#SeiDonne](http://twitter.com/search?q=%23SeiDonne) | N/A |
+| 42 | [#Fuoridalcoro](http://twitter.com/search?q=%23Fuoridalcoro) | N/A |
+| 43 | [#primoappuntamento](http://twitter.com/search?q=%23primoappuntamento) | N/A |
+| 44 | [#leiene](http://twitter.com/search?q=%23leiene) | N/A |
+| 45 | [#lineanotte](http://twitter.com/search?q=%23lineanotte) | N/A |
+| 46 | [#Rabiot](http://twitter.com/search?q=%23Rabiot) | N/A |
+| 47 | [#Kostic](http://twitter.com/search?q=%23Kostic) | N/A |
+| 48 | [#Danilo](http://twitter.com/search?q=%23Danilo) | N/A |
+| 49 | [#Vlahovic](http://twitter.com/search?q=%23Vlahovic) | N/A |
+| 50 | [#Serra](http://twitter.com/search?q=%23Serra) | N/A |
 
 
 

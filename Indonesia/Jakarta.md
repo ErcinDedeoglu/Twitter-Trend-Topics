@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jakarta
 
-📆 Last Updated: `2023-02-28 23:16:22 UTC`
+📆 Last Updated: `2023-03-01 00:32:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#BLK2023](http://twitter.com/search?q=%23BLK2023) | N/A |
-| 2 | [bapak prabowo subianto](http://twitter.com/search?q=bapak+prabowo+subianto) | N/A |
-| 3 | [temukan di dekade 08](http://twitter.com/search?q=temukan+di+dekade+08) | N/A |
-| 4 | [prabowo utamakan persatuan](http://twitter.com/search?q=prabowo+utamakan+persatuan) | N/A |
-| 5 | [Semangat Bangkitkan Umat](http://twitter.com/search?q=Semangat+Bangkitkan+Umat) | N/A |
-| 6 | [#IstiqomahDakwahkanIslam](http://twitter.com/search?q=%23IstiqomahDakwahkanIslam) | N/A |
-| 7 | [iyabetul mending prabowo](http://twitter.com/search?q=iyabetul+mending+prabowo) | N/A |
-| 8 | [#JISOOxDiorAW23](http://twitter.com/search?q=%23JISOOxDiorAW23) | N/A |
-| 9 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 10 | [Paket Indomie](http://twitter.com/search?q=Paket+Indomie) | N/A |
-| 11 | [Maret Penuh Berkah](http://twitter.com/search?q=Maret+Penuh+Berkah) | N/A |
-| 12 | [lazbeauty mua masterclass](http://twitter.com/search?q=lazbeauty+mua+masterclass) | N/A |
-| 13 | [Mengangkat](http://twitter.com/search?q=Mengangkat) | N/A |
-| 14 | [Garpitnya Ariel Tatum](http://twitter.com/search?q=Garpitnya+Ariel+Tatum) | N/A |
-| 15 | [Jam 5](http://twitter.com/search?q=Jam+5) | N/A |
-| 16 | [LATE LATE SHOW WITH TXT](http://twitter.com/search?q=LATE+LATE+SHOW+WITH+TXT) | N/A |
-| 17 | [PH SCAMMER](http://twitter.com/search?q=PH+SCAMMER) | N/A |
-| 18 | [make up artis](http://twitter.com/search?q=make+up+artis) | N/A |
-| 19 | [PBSI](http://twitter.com/search?q=PBSI) | N/A |
-| 20 | [Februari](http://twitter.com/search?q=Februari) | Februari is the second month of the year in the Gregorian calendar. In English, it is spelled February. |
-| 21 | [Indra Bekti](http://twitter.com/search?q=Indra+Bekti) | N/A |
+| 1 | [Maret](http://twitter.com/search?q=Maret) | N/A |
+| 2 | [#BLK2023](http://twitter.com/search?q=%23BLK2023) | N/A |
+| 3 | [bapak prabowo subianto](http://twitter.com/search?q=bapak+prabowo+subianto) | N/A |
+| 4 | [temukan di dekade 08](http://twitter.com/search?q=temukan+di+dekade+08) | N/A |
+| 5 | [iyabetul mending prabowo](http://twitter.com/search?q=iyabetul+mending+prabowo) | N/A |
+| 6 | [prabowo utamakan persatuan](http://twitter.com/search?q=prabowo+utamakan+persatuan) | N/A |
+| 7 | [#IstiqomahDakwahkanIslam](http://twitter.com/search?q=%23IstiqomahDakwahkanIslam) | N/A |
+| 8 | [#bsicharityconcert2023](http://twitter.com/search?q=%23bsicharityconcert2023) | N/A |
+| 9 | [Semangat Bangkitkan Umat](http://twitter.com/search?q=Semangat+Bangkitkan+Umat) | N/A |
+| 10 | [LEE JENO THANK YOU](http://twitter.com/search?q=LEE+JENO+THANK+YOU) | N/A |
+| 11 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 12 | [Paket Indomie](http://twitter.com/search?q=Paket+Indomie) | N/A |
+| 13 | [lazbeauty mua masterclass](http://twitter.com/search?q=lazbeauty+mua+masterclass) | N/A |
+| 14 | [Tinkerbell](http://twitter.com/search?q=Tinkerbell) | N/A |
+| 15 | [Garpitnya Ariel Tatum](http://twitter.com/search?q=Garpitnya+Ariel+Tatum) | N/A |
+| 16 | [PH SCAMMER](http://twitter.com/search?q=PH+SCAMMER) | N/A |
+| 17 | [Jam 5](http://twitter.com/search?q=Jam+5) | N/A |
+| 18 | [Mengangkat](http://twitter.com/search?q=Mengangkat) | N/A |
+| 19 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 20 | [make up artis](http://twitter.com/search?q=make+up+artis) | N/A |
+| 21 | [PBSI](http://twitter.com/search?q=PBSI) | N/A |
 | 22 | [huang renjun thank you](http://twitter.com/search?q=huang+renjun+thank+you) | N/A |
-| 23 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
-| 24 | [Stranger Things](http://twitter.com/search?q=Stranger+Things) | N/A |
-| 25 | [Vario](http://twitter.com/search?q=Vario) | N/A |
-| 26 | [secret number japan debut](http://twitter.com/search?q=secret+number+japan+debut) | N/A |
-| 27 | [Modern Family](http://twitter.com/search?q=Modern+Family) | Modern Family is an American television mockumentary sitcom created by Christopher Lloyd and Steven Levitan for the ABC network. It follows the lives of three related families, the Pritchetts, Dunphys, and Tuckers, who all live in Los Angeles. The show focuses on the characters' relationships with each other and their attempts to navigate modern life. The title of the show is a reference to the changing nature of family life in today's society. |
-| 28 | [marline hariman](http://twitter.com/search?q=marline+hariman) | N/A |
-| 29 | [ryan ogilvy](http://twitter.com/search?q=ryan+ogilvy) | N/A |
-| 30 | [MBanking BCA](http://twitter.com/search?q=MBanking+BCA) | N/A |
+| 23 | [ROVER IS COMING](http://twitter.com/search?q=ROVER+IS+COMING) | N/A |
+| 24 | [secret number japan debut](http://twitter.com/search?q=secret+number+japan+debut) | N/A |
+| 25 | [HORE](http://twitter.com/search?q=HORE) | N/A |
+| 26 | [Februari](http://twitter.com/search?q=Februari) | Februari is the second month of the year in the Gregorian calendar. In English, it is spelled February. |
+| 27 | [marline hariman](http://twitter.com/search?q=marline+hariman) | N/A |
+| 28 | [Vario](http://twitter.com/search?q=Vario) | N/A |
+| 29 | [Indra Bekti](http://twitter.com/search?q=Indra+Bekti) | N/A |
+| 30 | [Mbanking BCA](http://twitter.com/search?q=Mbanking+BCA) | N/A |
 | 31 | [bubah alfian](http://twitter.com/search?q=bubah+alfian) | N/A |
-| 32 | [ILYY](http://twitter.com/search?q=ILYY) | N/A |
-| 33 | [series 5g](http://twitter.com/search?q=series+5g) | N/A |
-| 34 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
-| 35 | [Kumpulkan 5](http://twitter.com/search?q=Kumpulkan+5) | N/A |
-| 36 | [KLIK LINKNYA Sekarang](http://twitter.com/search?q=KLIK+LINKNYA+Sekarang) | N/A |
-| 37 | [25 Rb](http://twitter.com/search?q=25+Rb) | N/A |
-| 38 | [3,5 Jt](http://twitter.com/search?q=3%2c5+Jt) | N/A |
-| 39 | [Astro](http://twitter.com/search?q=Astro) | N/A |
-| 40 | [scoopy](http://twitter.com/search?q=scoopy) | N/A |
-| 41 | [Okin](http://twitter.com/search?q=Okin) | N/A |
-| 42 | [perjalanan sebuah mahakarya](http://twitter.com/search?q=perjalanan+sebuah+mahakarya) | N/A |
-| 43 | [Heru](http://twitter.com/search?q=Heru) | N/A |
-| 44 | [Game of Thrones](http://twitter.com/search?q=Game+of+Thrones) | N/A |
-| 45 | [Torino](http://twitter.com/search?q=Torino) | N/A |
+| 32 | [ryan ogilvy](http://twitter.com/search?q=ryan+ogilvy) | N/A |
+| 33 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
+| 34 | [Modern Family](http://twitter.com/search?q=Modern+Family) | Modern Family is an American television mockumentary sitcom created by Christopher Lloyd and Steven Levitan for the ABC network. It follows the lives of three related families, the Pritchetts, Dunphys, and Tuckers, who all live in Los Angeles. The show focuses on the characters' relationships with each other and their attempts to navigate modern life. The title of the show is a reference to the changing nature of family life in today's society. |
+| 35 | [ROSÉ SAINT LAURENT PFW23](http://twitter.com/search?q=ROS%c3%89+SAINT+LAURENT+PFW23) | N/A |
+| 36 | [Stranger Things](http://twitter.com/search?q=Stranger+Things) | N/A |
+| 37 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
+| 38 | [ILYY](http://twitter.com/search?q=ILYY) | N/A |
+| 39 | [Pagiii](http://twitter.com/search?q=Pagiii) | N/A |
+| 40 | [Teja](http://twitter.com/search?q=Teja) | N/A |
+| 41 | [putri ls](http://twitter.com/search?q=putri+ls) | N/A |
+| 42 | [Okin](http://twitter.com/search?q=Okin) | N/A |
+| 43 | [perjalanan sebuah mahakarya](http://twitter.com/search?q=perjalanan+sebuah+mahakarya) | N/A |
+| 44 | [Heru](http://twitter.com/search?q=Heru) | N/A |
+| 45 | [Rabu](http://twitter.com/search?q=Rabu) | N/A |
 | 46 | [kerja wamenhan m herindra](http://twitter.com/search?q=kerja+wamenhan+m+herindra) | N/A |
 | 47 | [loyal - beri terbaik](http://twitter.com/search?q=loyal+-+beri+terbaik) | N/A |
-| 48 | [Vidi](http://twitter.com/search?q=Vidi) | N/A |
+| 48 | [jadi penyeru kebenaran](http://twitter.com/search?q=jadi+penyeru+kebenaran) | N/A |
 
 
 

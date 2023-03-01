@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bremen
 
-📆 Last Updated: `2023-02-28 23:16:16 UTC`
+📆 Last Updated: `2023-03-01 00:32:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,45 +24,45 @@ This is top 50 for [Germany](</Germany>)
 | 7 | [Meute](http://twitter.com/search?q=Meute) | N/A |
 | 8 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
 | 9 | [Kriegsverbrechen](http://twitter.com/search?q=Kriegsverbrechen) | N/A |
-| 10 | [Verbot](http://twitter.com/search?q=Verbot) | N/A |
-| 11 | [Yfood](http://twitter.com/search?q=Yfood) | N/A |
+| 10 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
+| 11 | [Verbot](http://twitter.com/search?q=Verbot) | N/A |
 | 12 | [Wärmepumpen](http://twitter.com/search?q=W%c3%a4rmepumpen) | N/A |
-| 13 | [Nestle](http://twitter.com/search?q=Nestle) | N/A |
-| 14 | [Senioren](http://twitter.com/search?q=Senioren) | N/A |
-| 15 | [Seenotrettung](http://twitter.com/search?q=Seenotrettung) | N/A |
-| 16 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
-| 17 | [GroKo](http://twitter.com/search?q=GroKo) | N/A |
+| 13 | [YFood](http://twitter.com/search?q=YFood) | N/A |
+| 14 | [Nestle](http://twitter.com/search?q=Nestle) | N/A |
+| 15 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
+| 16 | [Senioren](http://twitter.com/search?q=Senioren) | N/A |
+| 17 | [Seenotrettung](http://twitter.com/search?q=Seenotrettung) | N/A |
 | 18 | [Strom](http://twitter.com/search?q=Strom) | N/A |
-| 19 | [Koalition](http://twitter.com/search?q=Koalition) | N/A |
-| 20 | [Bundesrat](http://twitter.com/search?q=Bundesrat) | N/A |
-| 21 | [Boris Johnson](http://twitter.com/search?q=Boris+Johnson) | N/A |
-| 22 | [Ankerkraut](http://twitter.com/search?q=Ankerkraut) | N/A |
+| 19 | [GroKo](http://twitter.com/search?q=GroKo) | N/A |
+| 20 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 21 | [Bundesrat](http://twitter.com/search?q=Bundesrat) | N/A |
+| 22 | [Waldemar Hartmann](http://twitter.com/search?q=Waldemar+Hartmann) | N/A |
 | 23 | [GIVE US WN BLOOPERS](http://twitter.com/search?q=GIVE+US+WN+BLOOPERS) | N/A |
-| 24 | [Waldemar Hartmann](http://twitter.com/search?q=Waldemar+Hartmann) | N/A |
-| 25 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 26 | [Wegner](http://twitter.com/search?q=Wegner) | N/A |
+| 24 | [Kiesewetter](http://twitter.com/search?q=Kiesewetter) | N/A |
+| 25 | [Boris Johnson](http://twitter.com/search?q=Boris+Johnson) | N/A |
+| 26 | [Ankerkraut](http://twitter.com/search?q=Ankerkraut) | N/A |
 | 27 | [Einbau](http://twitter.com/search?q=Einbau) | N/A |
-| 28 | [Kraftstoffe](http://twitter.com/search?q=Kraftstoffe) | N/A |
-| 29 | [Nagel](http://twitter.com/search?q=Nagel) | N/A |
-| 30 | [Iggy](http://twitter.com/search?q=Iggy) | N/A |
+| 28 | [schönen dienstag](http://twitter.com/search?q=sch%c3%b6nen+dienstag) | N/A |
+| 29 | [Koalition](http://twitter.com/search?q=Koalition) | N/A |
+| 30 | [Kraftstoffe](http://twitter.com/search?q=Kraftstoffe) | N/A |
 | 31 | [Polarlichter](http://twitter.com/search?q=Polarlichter) | N/A |
-| 32 | [Reschke](http://twitter.com/search?q=Reschke) | N/A |
-| 33 | [Zimmermann](http://twitter.com/search?q=Zimmermann) | N/A |
-| 34 | [Ernährung](http://twitter.com/search?q=Ern%c3%a4hrung) | N/A |
-| 35 | [Neubauten](http://twitter.com/search?q=Neubauten) | N/A |
-| 36 | [Frank Thelen](http://twitter.com/search?q=Frank+Thelen) | N/A |
-| 37 | [Elden Ring DLC](http://twitter.com/search?q=Elden+Ring+DLC) | N/A |
-| 38 | [schönen dienstag](http://twitter.com/search?q=sch%c3%b6nen+dienstag) | N/A |
-| 39 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
+| 32 | [Ernährung](http://twitter.com/search?q=Ern%c3%a4hrung) | N/A |
+| 33 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
+| 34 | [Elden Ring DLC](http://twitter.com/search?q=Elden+Ring+DLC) | N/A |
+| 35 | [Reschke](http://twitter.com/search?q=Reschke) | N/A |
+| 36 | [Bestandsflotte](http://twitter.com/search?q=Bestandsflotte) | N/A |
+| 37 | [start in die woche](http://twitter.com/search?q=start+in+die+woche) | N/A |
+| 38 | [Zimmermann](http://twitter.com/search?q=Zimmermann) | N/A |
+| 39 | [Prantl](http://twitter.com/search?q=Prantl) | N/A |
 | 40 | [Süßigkeiten](http://twitter.com/search?q=S%c3%bc%c3%9figkeiten) | N/A |
-| 41 | [Bestandsflotte](http://twitter.com/search?q=Bestandsflotte) | N/A |
-| 42 | [Lebensmittel](http://twitter.com/search?q=Lebensmittel) | N/A |
-| 43 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
-| 44 | [Prantl](http://twitter.com/search?q=Prantl) | N/A |
-| 45 | [start in die woche](http://twitter.com/search?q=start+in+die+woche) | N/A |
-| 46 | [Heizkörper](http://twitter.com/search?q=Heizk%c3%b6rper) | N/A |
-| 47 | [Happy 28th](http://twitter.com/search?q=Happy+28th) | N/A |
-| 48 | [Markt](http://twitter.com/search?q=Markt) | N/A |
+| 41 | [Wegner](http://twitter.com/search?q=Wegner) | N/A |
+| 42 | [Berliner SPD](http://twitter.com/search?q=Berliner+SPD) | N/A |
+| 43 | [Neubauten](http://twitter.com/search?q=Neubauten) | N/A |
+| 44 | [Fernwärme](http://twitter.com/search?q=Fernw%c3%a4rme) | N/A |
+| 45 | [Trinkgeld](http://twitter.com/search?q=Trinkgeld) | N/A |
+| 46 | [Teil des Krieges](http://twitter.com/search?q=Teil+des+Krieges) | N/A |
+| 47 | [Heizkörper](http://twitter.com/search?q=Heizk%c3%b6rper) | N/A |
+| 48 | [Träume](http://twitter.com/search?q=Tr%c3%a4ume) | N/A |
 
 
 

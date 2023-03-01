@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riyadh
 
-📆 Last Updated: `2023-02-28 23:16:34 UTC`
+📆 Last Updated: `2023-03-01 00:33:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Saudi Arabia](</Saudi Arabia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [الفاريز](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%a7%d8%b1%d9%8a%d8%b2) | الفاريز (al-fariiz) is an Arabic word meaning "the chosen one". It is often used to refer to someone who has been chosen for a special task or purpose. |
-| 2 | [#يحدث_الان](http://twitter.com/search?q=%23%d9%8a%d8%ad%d8%af%d8%ab_%d8%a7%d9%84%d8%a7%d9%86) | N/A |
-| 3 | [العام الدراسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%a7%d9%85+%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%8a) | N/A |
-| 4 | [#ايش_يعني_لك_الحب](http://twitter.com/search?q=%23%d8%a7%d9%8a%d8%b4_%d9%8a%d8%b9%d9%86%d9%8a_%d9%84%d9%83_%d8%a7%d9%84%d8%ad%d8%a8) | N/A |
-| 5 | [#تزوج_الثانيه_بسرعه](http://twitter.com/search?q=%23%d8%aa%d8%b2%d9%88%d8%ac_%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%d9%87_%d8%a8%d8%b3%d8%b1%d8%b9%d9%87) | N/A |
-| 6 | [الحضور الجماهيري](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%b6%d9%88%d8%b1+%d8%a7%d9%84%d8%ac%d9%85%d8%a7%d9%87%d9%8a%d8%b1%d9%8a) | N/A |
-| 7 | [#البزنس84](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b2%d9%86%d8%b384) | N/A |
-| 8 | [#هديه_تخفيضات_العبداللطيف](http://twitter.com/search?q=%23%d9%87%d8%af%d9%8a%d9%87_%d8%aa%d8%ae%d9%81%d9%8a%d8%b6%d8%a7%d8%aa_%d8%a7%d9%84%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d8%b7%d9%8a%d9%81) | N/A |
-| 9 | [تورينو](http://twitter.com/search?q=%d8%aa%d9%88%d8%b1%d9%8a%d9%86%d9%88) | N/A |
+| 1 | [#ضمان](http://twitter.com/search?q=%23%d8%b6%d9%85%d8%a7%d9%86) | N/A |
+| 2 | [#الغزل_الاجتماعي](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%ba%d8%b2%d9%84_%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a) | N/A |
+| 3 | [#الجابريه_الرحله٤٢٢](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%ac%d8%a7%d8%a8%d8%b1%d9%8a%d9%87_%d8%a7%d9%84%d8%b1%d8%ad%d9%84%d9%87%d9%a4%d9%a2%d9%a2) | N/A |
+| 4 | [سامي الجابر](http://twitter.com/search?q=%d8%b3%d8%a7%d9%85%d9%8a+%d8%a7%d9%84%d8%ac%d8%a7%d8%a8%d8%b1) | N/A |
+| 5 | [#يحدث_الان](http://twitter.com/search?q=%23%d9%8a%d8%ad%d8%af%d8%ab_%d8%a7%d9%84%d8%a7%d9%86) | N/A |
+| 6 | [#ايش_يعني_لك_الحب](http://twitter.com/search?q=%23%d8%a7%d9%8a%d8%b4_%d9%8a%d8%b9%d9%86%d9%8a_%d9%84%d9%83_%d8%a7%d9%84%d8%ad%d8%a8) | N/A |
+| 7 | [الحضور الجماهيري](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%b6%d9%88%d8%b1+%d8%a7%d9%84%d8%ac%d9%85%d8%a7%d9%87%d9%8a%d8%b1%d9%8a) | N/A |
+| 8 | [تورينو](http://twitter.com/search?q=%d8%aa%d9%88%d8%b1%d9%8a%d9%86%d9%88) | N/A |
+| 9 | [اليوفي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%81%d9%8a) | اليوفي is a type of Arabic script used in the Middle East and North Africa. It is also known as Kufic script, and its name comes from the city of Kufa in Iraq. In English, اليوفي translates to "Kufic". |
 | 10 | [بوغبا](http://twitter.com/search?q=%d8%a8%d9%88%d8%ba%d8%a8%d8%a7) | N/A |
-| 11 | [اليوفي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%81%d9%8a) | اليوفي is a type of Arabic script used in the Middle East and North Africa. It is also known as Kufic script, and its name comes from the city of Kufa in Iraq. In English, اليوفي translates to "Kufic". |
-| 12 | [بروين](http://twitter.com/search?q=%d8%a8%d8%b1%d9%88%d9%8a%d9%86) | بروين (pronounced "bru-een") is an Arabic word meaning "brother". |
-| 13 | [ماجد عبدالله](http://twitter.com/search?q=%d9%85%d8%a7%d8%ac%d8%af+%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87) | N/A |
-| 14 | [ياسر القحطاني](http://twitter.com/search?q=%d9%8a%d8%a7%d8%b3%d8%b1+%d8%a7%d9%84%d9%82%d8%ad%d8%b7%d8%a7%d9%86%d9%8a) | N/A |
-| 15 | [ناصر الشمراني](http://twitter.com/search?q=%d9%86%d8%a7%d8%b5%d8%b1+%d8%a7%d9%84%d8%b4%d9%85%d8%b1%d8%a7%d9%86%d9%8a) | N/A |
-| 16 | [احمد عسيري](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%b9%d8%b3%d9%8a%d8%b1%d9%8a) | N/A |
-| 17 | [قطاع الطرق](http://twitter.com/search?q=%d9%82%d8%b7%d8%a7%d8%b9+%d8%a7%d9%84%d8%b7%d8%b1%d9%82) | N/A |
-| 18 | [شهر جديد](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%ac%d8%af%d9%8a%d8%af) | N/A |
-| 19 | [عبيد الدوسري](http://twitter.com/search?q=%d8%b9%d8%a8%d9%8a%d8%af+%d8%a7%d9%84%d8%af%d9%88%d8%b3%d8%b1%d9%8a) | N/A |
-| 20 | [شهر مارس](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
+| 11 | [احمد عسيري](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%b9%d8%b3%d9%8a%d8%b1%d9%8a) | N/A |
+| 12 | [ماجد عبدالله](http://twitter.com/search?q=%d9%85%d8%a7%d8%ac%d8%af+%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87) | N/A |
+| 13 | [دي بروين](http://twitter.com/search?q=%d8%af%d9%8a+%d8%a8%d8%b1%d9%88%d9%8a%d9%86) | N/A |
+| 14 | [شهر جديد](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%ac%d8%af%d9%8a%d8%af) | N/A |
+| 15 | [شهر مارس](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
+| 16 | [1 مارس](http://twitter.com/search?q=1+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
+| 17 | [ياسر القحطاني](http://twitter.com/search?q=%d9%8a%d8%a7%d8%b3%d8%b1+%d8%a7%d9%84%d9%82%d8%ad%d8%b7%d8%a7%d9%86%d9%8a) | N/A |
+| 18 | [ناصر الشمراني](http://twitter.com/search?q=%d9%86%d8%a7%d8%b5%d8%b1+%d8%a7%d9%84%d8%b4%d9%85%d8%b1%d8%a7%d9%86%d9%8a) | N/A |
+| 19 | [قطاع الطرق](http://twitter.com/search?q=%d9%82%d8%b7%d8%a7%d8%b9+%d8%a7%d9%84%d8%b7%d8%b1%d9%82) | N/A |
+| 20 | [اوزيل](http://twitter.com/search?q=%d8%a7%d9%88%d8%b2%d9%8a%d9%84) | N/A |
 | 21 | [كوادرادو](http://twitter.com/search?q=%d9%83%d9%88%d8%a7%d8%af%d8%b1%d8%a7%d8%af%d9%88) | N/A |
-| 22 | [فهد المهلل](http://twitter.com/search?q=%d9%81%d9%87%d8%af+%d8%a7%d9%84%d9%85%d9%87%d9%84%d9%84) | N/A |
-| 23 | [1 مارس](http://twitter.com/search?q=1+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
+| 22 | [لميسي](http://twitter.com/search?q=%d9%84%d9%85%d9%8a%d8%b3%d9%8a) | N/A |
+| 23 | [عبيد الدوسري](http://twitter.com/search?q=%d8%b9%d8%a8%d9%8a%d8%af+%d8%a7%d9%84%d8%af%d9%88%d8%b3%d8%b1%d9%8a) | N/A |
 | 24 | [مالك معاذ](http://twitter.com/search?q=%d9%85%d8%a7%d9%84%d9%83+%d9%85%d8%b9%d8%a7%d8%b0) | N/A |
 | 25 | [الاجازات المطوله](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ac%d8%a7%d8%b2%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d8%b7%d9%88%d9%84%d9%87) | N/A |
-| 26 | [مورينهو](http://twitter.com/search?q=%d9%85%d9%88%d8%b1%d9%8a%d9%86%d9%87%d9%88) | N/A |
-| 27 | [سامي الجابر](http://twitter.com/search?q=%d8%b3%d8%a7%d9%85%d9%8a+%d8%a7%d9%84%d8%ac%d8%a7%d8%a8%d8%b1) | N/A |
-| 28 | [السنه الدراسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%86%d9%87+%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%8a%d9%87) | N/A |
-| 29 | [فولهام](http://twitter.com/search?q=%d9%81%d9%88%d9%84%d9%87%d8%a7%d9%85) | N/A |
-| 30 | [صاحب القرار](http://twitter.com/search?q=%d8%b5%d8%a7%d8%ad%d8%a8+%d8%a7%d9%84%d9%82%d8%b1%d8%a7%d8%b1) | N/A |
-| 31 | [السهلاوي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%87%d9%84%d8%a7%d9%88%d9%8a) | N/A |
-| 32 | [كريم اند هوني](http://twitter.com/search?q=%d9%83%d8%b1%d9%8a%d9%85+%d8%a7%d9%86%d8%af+%d9%87%d9%88%d9%86%d9%8a) | N/A |
-| 33 | [الفصول الثلاثه](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b5%d9%88%d9%84+%d8%a7%d9%84%d8%ab%d9%84%d8%a7%d8%ab%d9%87) | N/A |
-| 34 | [بنانا بريد بودينغ](http://twitter.com/search?q=%d8%a8%d9%86%d8%a7%d9%86%d8%a7+%d8%a8%d8%b1%d9%8a%d8%af+%d8%a8%d9%88%d8%af%d9%8a%d9%86%d8%ba) | N/A |
-| 35 | [جزر المارينقو](http://twitter.com/search?q=%d8%ac%d8%b2%d8%b1+%d8%a7%d9%84%d9%85%d8%a7%d8%b1%d9%8a%d9%86%d9%82%d9%88) | N/A |
-| 36 | [القضيه الجنوبيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b6%d9%8a%d9%87+%d8%a7%d9%84%d8%ac%d9%86%d9%88%d8%a8%d9%8a%d9%87) | N/A |
-| 37 | [فهد بن نافل](http://twitter.com/search?q=%d9%81%d9%87%d8%af+%d8%a8%d9%86+%d9%86%d8%a7%d9%81%d9%84) | N/A |
-| 38 | [المنتخب السعودي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%aa%d8%ae%d8%a8+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
-| 39 | [سوبر جونيور](http://twitter.com/search?q=%d8%b3%d9%88%d8%a8%d8%b1+%d8%ac%d9%88%d9%86%d9%8a%d9%88%d8%b1) | N/A |
-| 40 | [#عبده_بسيسي](http://twitter.com/search?q=%23%d8%b9%d8%a8%d8%af%d9%87_%d8%a8%d8%b3%d9%8a%d8%b3%d9%8a) | N/A |
-| 41 | [#زد_رصيدك36](http://twitter.com/search?q=%23%d8%b2%d8%af_%d8%b1%d8%b5%d9%8a%d8%af%d9%8336) | N/A |
-| 42 | [#الضمان_الاجتماعي](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b6%d9%85%d8%a7%d9%86_%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a) | N/A |
-| 43 | [#الاهلي_راجع_يجدد_المواجع](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a_%d8%b1%d8%a7%d8%ac%d8%b9_%d9%8a%d8%ac%d8%af%d8%af_%d8%a7%d9%84%d9%85%d9%88%d8%a7%d8%ac%d8%b9) | N/A |
-| 44 | [#هات_التيك_توك_حقك](http://twitter.com/search?q=%23%d9%87%d8%a7%d8%aa_%d8%a7%d9%84%d8%aa%d9%8a%d9%83_%d8%aa%d9%88%d9%83_%d8%ad%d9%82%d9%83) | N/A |
-| 45 | [#مجلس_الوزراء](http://twitter.com/search?q=%23%d9%85%d8%ac%d9%84%d8%b3_%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1) | N/A |
-| 46 | [#برنامج_طله_رياض](http://twitter.com/search?q=%23%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d8%ac_%d8%b7%d9%84%d9%87_%d8%b1%d9%8a%d8%a7%d8%b6) | N/A |
-| 47 | [#الوحده_الهلال](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%88%d8%ad%d8%af%d9%87_%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | N/A |
-| 48 | [#الناس_والليل43](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%86%d8%a7%d8%b3_%d9%88%d8%a7%d9%84%d9%84%d9%8a%d9%8443) | N/A |
-| 49 | [#الالعاب_الناريه](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d9%84%d8%b9%d8%a7%d8%a8_%d8%a7%d9%84%d9%86%d8%a7%d8%b1%d9%8a%d9%87) | N/A |
-| 50 | [#فيتوريا](http://twitter.com/search?q=%23%d9%81%d9%8a%d8%aa%d9%88%d8%b1%d9%8a%d8%a7) | N/A |
+| 26 | [كريم اند هوني](http://twitter.com/search?q=%d9%83%d8%b1%d9%8a%d9%85+%d8%a7%d9%86%d8%af+%d9%87%d9%88%d9%86%d9%8a) | N/A |
+| 27 | [شركات التامين](http://twitter.com/search?q=%d8%b4%d8%b1%d9%83%d8%a7%d8%aa+%d8%a7%d9%84%d8%aa%d8%a7%d9%85%d9%8a%d9%86) | N/A |
+| 28 | [السهلاوي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%87%d9%84%d8%a7%d9%88%d9%8a) | N/A |
+| 29 | [مورينهو](http://twitter.com/search?q=%d9%85%d9%88%d8%b1%d9%8a%d9%86%d9%87%d9%88) | N/A |
+| 30 | [القضيه الجنوبيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b6%d9%8a%d9%87+%d8%a7%d9%84%d8%ac%d9%86%d9%88%d8%a8%d9%8a%d9%87) | N/A |
+| 31 | [سوبر جونيور](http://twitter.com/search?q=%d8%b3%d9%88%d8%a8%d8%b1+%d8%ac%d9%88%d9%86%d9%8a%d9%88%d8%b1) | N/A |
+| 32 | [#تزوج_الثانيه_بسرعه](http://twitter.com/search?q=%23%d8%aa%d8%b2%d9%88%d8%ac_%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%d9%87_%d8%a8%d8%b3%d8%b1%d8%b9%d9%87) | N/A |
+| 33 | [#لولا_انه_كان_من_المسبحين](http://twitter.com/search?q=%23%d9%84%d9%88%d9%84%d8%a7_%d8%a7%d9%86%d9%87_%d9%83%d8%a7%d9%86_%d9%85%d9%86_%d8%a7%d9%84%d9%85%d8%b3%d8%a8%d8%ad%d9%8a%d9%86) | N/A |
+| 34 | [#البزنس84](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b2%d9%86%d8%b384) | N/A |
+| 35 | [#هديه_تخفيضات_العبداللطيف](http://twitter.com/search?q=%23%d9%87%d8%af%d9%8a%d9%87_%d8%aa%d8%ae%d9%81%d9%8a%d8%b6%d8%a7%d8%aa_%d8%a7%d9%84%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d8%b7%d9%8a%d9%81) | N/A |
+| 36 | [#عبده_بسيسي](http://twitter.com/search?q=%23%d8%b9%d8%a8%d8%af%d9%87_%d8%a8%d8%b3%d9%8a%d8%b3%d9%8a) | N/A |
+| 37 | [#زد_رصيدك36](http://twitter.com/search?q=%23%d8%b2%d8%af_%d8%b1%d8%b5%d9%8a%d8%af%d9%8336) | N/A |
+| 38 | [#هات_التيك_توك_حقك](http://twitter.com/search?q=%23%d9%87%d8%a7%d8%aa_%d8%a7%d9%84%d8%aa%d9%8a%d9%83_%d8%aa%d9%88%d9%83_%d8%ad%d9%82%d9%83) | N/A |
+| 39 | [#الوحده_الهلال](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%88%d8%ad%d8%af%d9%87_%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | N/A |
+| 40 | [#الاهلي_راجع_يجدد_المواجع](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a_%d8%b1%d8%a7%d8%ac%d8%b9_%d9%8a%d8%ac%d8%af%d8%af_%d8%a7%d9%84%d9%85%d9%88%d8%a7%d8%ac%d8%b9) | N/A |
+| 41 | [#مجلس_الوزراء](http://twitter.com/search?q=%23%d9%85%d8%ac%d9%84%d8%b3_%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1) | N/A |
+| 42 | [#ريال_مدريد_برشلونه](http://twitter.com/search?q=%23%d8%b1%d9%8a%d8%a7%d9%84_%d9%85%d8%af%d8%b1%d9%8a%d8%af_%d8%a8%d8%b1%d8%b4%d9%84%d9%88%d9%86%d9%87) | N/A |
+| 43 | [#الالعاب_الناريه](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d9%84%d8%b9%d8%a7%d8%a8_%d8%a7%d9%84%d9%86%d8%a7%d8%b1%d9%8a%d9%87) | N/A |
+| 44 | [#فيتوريا](http://twitter.com/search?q=%23%d9%81%d9%8a%d8%aa%d9%88%d8%b1%d9%8a%d8%a7) | N/A |
+| 45 | [#الفتح_الطايي](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%81%d8%aa%d8%ad_%d8%a7%d9%84%d8%b7%d8%a7%d9%8a%d9%8a) | N/A |
+| 46 | [#الفيحاء_ابها](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%81%d9%8a%d8%ad%d8%a7%d8%a1_%d8%a7%d8%a8%d9%87%d8%a7) | N/A |
+| 47 | [#برنامج_طله_رياض](http://twitter.com/search?q=%23%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d8%ac_%d8%b7%d9%84%d9%87_%d8%b1%d9%8a%d8%a7%d8%b6) | N/A |
+| 48 | [#اجمل_لقي](http://twitter.com/search?q=%23%d8%a7%d8%ac%d9%85%d9%84_%d9%84%d9%82%d9%8a) | N/A |
+| 49 | [#بنتكم_روان](http://twitter.com/search?q=%23%d8%a8%d9%86%d8%aa%d9%83%d9%85_%d8%b1%d9%88%d8%a7%d9%86) | N/A |
+| 50 | [#سلمان_بن_ملهي](http://twitter.com/search?q=%23%d8%b3%d9%84%d9%85%d8%a7%d9%86_%d8%a8%d9%86_%d9%85%d9%84%d9%87%d9%8a) | N/A |
 
 
 

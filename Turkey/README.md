@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Turkey
 
-📆 Last Updated: `2023-02-28 23:16:58 UTC`
+📆 Last Updated: `2023-03-01 00:33:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Turkey
 | ------- | ------------ | ------------ |
 | 1 | [#EYTHayırlıOlsun](http://twitter.com/search?q=%23EYTHay%c4%b1rl%c4%b1Olsun) | N/A |
 | 2 | [#EYTBuguenBitiyor](http://twitter.com/search?q=%23EYTBuguenBitiyor) | N/A |
-| 3 | [#DevletBahçeli](http://twitter.com/search?q=%23DevletBah%c3%a7eli) | N/A |
-| 4 | [#Mart](http://twitter.com/search?q=%23Mart) | N/A |
-| 5 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
-| 6 | [Elbistan](http://twitter.com/search?q=Elbistan) | N/A |
-| 7 | [Ahmet Ercan](http://twitter.com/search?q=Ahmet+Ercan) | N/A |
-| 8 | [#TBMM](http://twitter.com/search?q=%23TBMM) | N/A |
-| 9 | [Icardi](http://twitter.com/search?q=Icardi) | Icardi is a surname of Italian origin. It is derived from the Latin word "cardus" meaning thistle. In English, it can be translated to mean "of the thistle". |
-| 10 | [Ufuket Candır](http://twitter.com/search?q=Ufuket+Cand%c4%b1r) | N/A |
-| 11 | [MESELE DEPREM DEĞİL](http://twitter.com/search?q=MESELE+DEPREM+DE%c4%9e%c4%b0L) | N/A |
-| 12 | [Şubat](http://twitter.com/search?q=%c5%9eubat) | N/A |
-| 13 | [Wanda](http://twitter.com/search?q=Wanda) | N/A |
-| 14 | [Mansur](http://twitter.com/search?q=Mansur) | N/A |
-| 15 | [Osman Gökçek](http://twitter.com/search?q=Osman+G%c3%b6k%c3%a7ek) | N/A |
+| 3 | [Sevgili Mart](http://twitter.com/search?q=Sevgili+Mart) | N/A |
+| 4 | [#DevletBahçeli](http://twitter.com/search?q=%23DevletBah%c3%a7eli) | N/A |
+| 5 | [Wanda](http://twitter.com/search?q=Wanda) | N/A |
+| 6 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
+| 7 | [Icardi](http://twitter.com/search?q=Icardi) | Icardi is a surname of Italian origin. It is derived from the Latin word "cardus" meaning thistle. In English, it can be translated to mean "of the thistle". |
+| 8 | [Elbistan](http://twitter.com/search?q=Elbistan) | N/A |
+| 9 | [#StajaÇözümZamanı](http://twitter.com/search?q=%23Staja%c3%87%c3%b6z%c3%bcmZaman%c4%b1) | N/A |
+| 10 | [#TBMM](http://twitter.com/search?q=%23TBMM) | N/A |
+| 11 | [Ahmet Ercan](http://twitter.com/search?q=Ahmet+Ercan) | N/A |
+| 12 | [MESELE DEPREM DEĞİL](http://twitter.com/search?q=MESELE+DEPREM+DE%c4%9e%c4%b0L) | N/A |
+| 13 | [Mansur](http://twitter.com/search?q=Mansur) | N/A |
+| 14 | [Şubat](http://twitter.com/search?q=%c5%9eubat) | N/A |
+| 15 | [Kemal Kılıçdaroğlu](http://twitter.com/search?q=Kemal+K%c4%b1l%c4%b1%c3%a7daro%c4%9flu) | Kemal Kılıçdaroğlu is a Turkish politician who has been the leader of the Republican People's Party (CHP) since 2010. His name translates to "Kemal Sword of Justice" in English. |
 | 16 | [İndirin](http://twitter.com/search?q=%c4%b0ndirin) | N/A |
-| 17 | [YusufuAnnesinden Ayırmayın](http://twitter.com/search?q=YusufuAnnesinden+Ay%c4%b1rmay%c4%b1n) | N/A |
+| 17 | [Osman Gökçek](http://twitter.com/search?q=Osman+G%c3%b6k%c3%a7ek) | N/A |
 | 18 | [Emeklilikte Yaşa Takılanlar](http://twitter.com/search?q=Emeklilikte+Ya%c5%9fa+Tak%c4%b1lanlar) | N/A |
-| 19 | [Kemal Kılıçdaroğlu](http://twitter.com/search?q=Kemal+K%c4%b1l%c4%b1%c3%a7daro%c4%9flu) | Kemal Kılıçdaroğlu is a Turkish politician who has been the leader of the Republican People's Party (CHP) since 2010. His name translates to "Kemal Sword of Justice" in English. |
+| 19 | [Simge](http://twitter.com/search?q=Simge) | N/A |
 | 20 | [Ateşi](http://twitter.com/search?q=Ate%c5%9fi) | N/A |
-| 21 | [Mahir Ünal](http://twitter.com/search?q=Mahir+%c3%9cnal) | N/A |
-| 22 | [Simge](http://twitter.com/search?q=Simge) | N/A |
+| 21 | [YusufuAnnesinden Ayırmayın](http://twitter.com/search?q=YusufuAnnesinden+Ay%c4%b1rmay%c4%b1n) | N/A |
+| 22 | [Mahir Ünal](http://twitter.com/search?q=Mahir+%c3%9cnal) | N/A |
 | 23 | [Sosyal Sigortalar](http://twitter.com/search?q=Sosyal+Sigortalar) | N/A |
-| 24 | [Emekleriniz](http://twitter.com/search?q=Emekleriniz) | N/A |
-| 25 | [Genel Sağlık Sigortası Kanunu](http://twitter.com/search?q=Genel+Sa%c4%9fl%c4%b1k+Sigortas%c4%b1+Kanunu) | N/A |
-| 26 | [Emeğiniz](http://twitter.com/search?q=Eme%c4%9finiz) | N/A |
-| 27 | [BATSIN ARSIZ SİYASETİNİZ](http://twitter.com/search?q=BATSIN+ARSIZ+S%c4%b0YASET%c4%b0N%c4%b0Z) | N/A |
-| 28 | [Sessizlik](http://twitter.com/search?q=Sessizlik) | N/A |
-| 29 | [Piercing](http://twitter.com/search?q=Piercing) | N/A |
-| 30 | [Turhan Çömez](http://twitter.com/search?q=Turhan+%c3%87%c3%b6mez) | N/A |
-| 31 | [İlber Ortaylı](http://twitter.com/search?q=%c4%b0lber+Ortayl%c4%b1) | N/A |
-| 32 | [Bağkur](http://twitter.com/search?q=Ba%c4%9fkur) | N/A |
-| 33 | [Burç](http://twitter.com/search?q=Bur%c3%a7) | N/A |
+| 24 | [Bağkur](http://twitter.com/search?q=Ba%c4%9fkur) | N/A |
+| 25 | [Emekleriniz](http://twitter.com/search?q=Emekleriniz) | N/A |
+| 26 | [Genel Sağlık Sigortası Kanunu](http://twitter.com/search?q=Genel+Sa%c4%9fl%c4%b1k+Sigortas%c4%b1+Kanunu) | N/A |
+| 27 | [Piercing](http://twitter.com/search?q=Piercing) | N/A |
+| 28 | [İlber](http://twitter.com/search?q=%c4%b0lber) | N/A |
+| 29 | [Burç](http://twitter.com/search?q=Bur%c3%a7) | N/A |
+| 30 | [Gözaltına](http://twitter.com/search?q=G%c3%b6zalt%c4%b1na) | N/A |
+| 31 | [Turhan Çömez](http://twitter.com/search?q=Turhan+%c3%87%c3%b6mez) | N/A |
+| 32 | [Sessizlik](http://twitter.com/search?q=Sessizlik) | N/A |
+| 33 | [Kürtler](http://twitter.com/search?q=K%c3%bcrtler) | N/A |
 | 34 | [Geberdi](http://twitter.com/search?q=Geberdi) | N/A |
-| 35 | [Talisca](http://twitter.com/search?q=Talisca) | Talisca is a Portuguese name derived from the Latin word talis, meaning “such” or “so much.” It is also a surname in some parts of Portugal. In English, it can be translated to mean “so much” or “so great.” |
+| 35 | [Yeşim](http://twitter.com/search?q=Ye%c5%9fim) | N/A |
 | 36 | [Vedat](http://twitter.com/search?q=Vedat) | N/A |
 | 37 | [Sabih Kanadoğlu](http://twitter.com/search?q=Sabih+Kanado%c4%9flu) | N/A |
-| 38 | [Gözaltına](http://twitter.com/search?q=G%c3%b6zalt%c4%b1na) | N/A |
-| 39 | [Ayakta](http://twitter.com/search?q=Ayakta) | N/A |
-| 40 | [Yeşim](http://twitter.com/search?q=Ye%c5%9fim) | N/A |
-| 41 | [Kürtler](http://twitter.com/search?q=K%c3%bcrtler) | N/A |
-| 42 | [Gömün](http://twitter.com/search?q=G%c3%b6m%c3%bcn) | N/A |
-| 43 | [Işıklar](http://twitter.com/search?q=I%c5%9f%c4%b1klar) | N/A |
-| 44 | [AdımFarah YarınFOXta](http://twitter.com/search?q=Ad%c4%b1mFarah+Yar%c4%b1nFOXta) | N/A |
-| 45 | [Attığı](http://twitter.com/search?q=Att%c4%b1%c4%9f%c4%b1) | N/A |
-| 46 | [ÖncelikAf SonraSeçim](http://twitter.com/search?q=%c3%96ncelikAf+SonraSe%c3%a7im) | N/A |
-| 47 | [Zeyd](http://twitter.com/search?q=Zeyd) | N/A |
-| 48 | [Zübük](http://twitter.com/search?q=Z%c3%bcb%c3%bck) | N/A |
-| 49 | [Saadet](http://twitter.com/search?q=Saadet) | N/A |
-| 50 | [Cumhur İttifakı](http://twitter.com/search?q=Cumhur+%c4%b0ttifak%c4%b1) | N/A |
+| 38 | [Talisca](http://twitter.com/search?q=Talisca) | Talisca is a Portuguese name derived from the Latin word talis, meaning “such” or “so much.” It is also a surname in some parts of Portugal. In English, it can be translated to mean “so much” or “so great.” |
+| 39 | [Zeyd](http://twitter.com/search?q=Zeyd) | N/A |
+| 40 | [Ayakta](http://twitter.com/search?q=Ayakta) | N/A |
+| 41 | [Gömün](http://twitter.com/search?q=G%c3%b6m%c3%bcn) | N/A |
+| 42 | [Işıklar](http://twitter.com/search?q=I%c5%9f%c4%b1klar) | N/A |
+| 43 | [ÖncelikAf SonraSeçim](http://twitter.com/search?q=%c3%96ncelikAf+SonraSe%c3%a7im) | N/A |
+| 44 | [Hristiyan](http://twitter.com/search?q=Hristiyan) | N/A |
+| 45 | [Zübük](http://twitter.com/search?q=Z%c3%bcb%c3%bck) | N/A |
+| 46 | [Siyasal İslam](http://twitter.com/search?q=Siyasal+%c4%b0slam) | N/A |
+| 47 | [#DefolGeberesice](http://twitter.com/search?q=%23DefolGeberesice) | N/A |
+| 48 | [#MGROS](http://twitter.com/search?q=%23MGROS) | N/A |
+| 49 | [#incesu](http://twitter.com/search?q=%23incesu) | N/A |
+| 50 | [#kayseri](http://twitter.com/search?q=%23kayseri) | N/A |
 
 
 

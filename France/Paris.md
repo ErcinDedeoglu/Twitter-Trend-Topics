@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Paris
 
-📆 Last Updated: `2023-02-28 23:16:16 UTC`
+📆 Last Updated: `2023-03-01 00:32:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,47 +24,47 @@ This is top 50 for [France](</France>)
 | 7 | [Emin](http://twitter.com/search?q=Emin) | N/A |
 | 8 | [Jeffinho](http://twitter.com/search?q=Jeffinho) | Jeffinho is a Portuguese nickname derived from the name "Jefferson". It is often used as a term of endearment, similar to "honey" or "sweetheart" in English. |
 | 9 | [El Arouch](http://twitter.com/search?q=El+Arouch) | El Arouch is a type of traditional Lebanese dish made with bulgur wheat, vegetables, and spices. It is typically served as a side dish or as part of a mezze platter. The name El Arouch comes from the Arabic phrase “al-arish” which means “the top layer”, referring to the top layer of bulgur wheat that is cooked in the dish. In English, El Arouch translates to "the top layer". |
-| 10 | [Helena](http://twitter.com/search?q=Helena) | N/A |
-| 11 | [Diomande](http://twitter.com/search?q=Diomande) | N/A |
-| 12 | [Grenoble](http://twitter.com/search?q=Grenoble) | N/A |
-| 13 | [Cherki](http://twitter.com/search?q=Cherki) | Cherki is a term used in Moroccan Arabic to refer to someone who is of mixed race or of mixed heritage. It literally translates to "half-breed" or "mixed-breed". |
-| 14 | [Pogba](http://twitter.com/search?q=Pogba) | Pogba is a nickname for the French professional footballer Paul Pogba. It is derived from his last name and is often used as a term of endearment by his fans. |
-| 15 | [Frappart](http://twitter.com/search?q=Frappart) | Frappart is a French term meaning "to make something better or more perfect." It is often used in the context of improving a product or service. |
-| 16 | [Tania](http://twitter.com/search?q=Tania) | N/A |
-| 17 | [Creed 3](http://twitter.com/search?q=Creed+3) | N/A |
-| 18 | [Alexandre](http://twitter.com/search?q=Alexandre) | N/A |
-| 19 | [Barcola](http://twitter.com/search?q=Barcola) | N/A |
-| 20 | [Lopes](http://twitter.com/search?q=Lopes) | N/A |
-| 21 | [Caqueret](http://twitter.com/search?q=Caqueret) | N/A |
+| 10 | [Creed 3](http://twitter.com/search?q=Creed+3) | N/A |
+| 11 | [Helena](http://twitter.com/search?q=Helena) | N/A |
+| 12 | [Cherki](http://twitter.com/search?q=Cherki) | Cherki is a term used in Moroccan Arabic to refer to someone who is of mixed race or of mixed heritage. It literally translates to "half-breed" or "mixed-breed". |
+| 13 | [Diomande](http://twitter.com/search?q=Diomande) | N/A |
+| 14 | [Icardi](http://twitter.com/search?q=Icardi) | Icardi is a surname of Italian origin. It is derived from the Latin word "cardus" meaning thistle. In English, it can be translated to mean "of the thistle". |
+| 15 | [Grenoble](http://twitter.com/search?q=Grenoble) | N/A |
+| 16 | [Julien Bert](http://twitter.com/search?q=Julien+Bert) | N/A |
+| 17 | [Frappart](http://twitter.com/search?q=Frappart) | Frappart is a French term meaning "to make something better or more perfect." It is often used in the context of improving a product or service. |
+| 18 | [Pogba](http://twitter.com/search?q=Pogba) | Pogba is a nickname for the French professional footballer Paul Pogba. It is derived from his last name and is often used as a term of endearment by his fans. |
+| 19 | [Lopes](http://twitter.com/search?q=Lopes) | N/A |
+| 20 | [Tania](http://twitter.com/search?q=Tania) | N/A |
+| 21 | [Barcola](http://twitter.com/search?q=Barcola) | N/A |
 | 22 | [Djibril Cissé](http://twitter.com/search?q=Djibril+Ciss%c3%a9) | N/A |
-| 23 | [Julien Bert](http://twitter.com/search?q=Julien+Bert) | N/A |
-| 24 | [#BeyondFast](http://twitter.com/search?q=%23BeyondFast) | #BeyondFast is a hashtag used to describe something that goes beyond the speed of fast. It is used to emphasize the idea that something is faster than fast, or that it surpasses the speed of fast. |
-| 25 | [Amin Sarr](http://twitter.com/search?q=Amin+Sarr) | N/A |
-| 26 | [Lepenant](http://twitter.com/search?q=Lepenant) | N/A |
-| 27 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
-| 28 | [Élodie](http://twitter.com/search?q=%c3%89lodie) | N/A |
-| 29 | [Torino](http://twitter.com/search?q=Torino) | N/A |
-| 30 | [#CoupeDeFrance](http://twitter.com/search?q=%23CoupeDeFrance) | N/A |
-| 31 | [Nicolas](http://twitter.com/search?q=Nicolas) | N/A |
-| 32 | [Lyonnais](http://twitter.com/search?q=Lyonnais) | N/A |
-| 33 | [Rothen](http://twitter.com/search?q=Rothen) | N/A |
-| 34 | [#popcorn](http://twitter.com/search?q=%23popcorn) | N/A |
-| 35 | [Tagliafico](http://twitter.com/search?q=Tagliafico) | N/A |
-| 36 | [Kumbedi](http://twitter.com/search?q=Kumbedi) | N/A |
-| 37 | [GIVE US WN BLOOPERS](http://twitter.com/search?q=GIVE+US+WN+BLOOPERS) | N/A |
-| 38 | [Benjamin](http://twitter.com/search?q=Benjamin) | N/A |
-| 39 | [Quentin](http://twitter.com/search?q=Quentin) | N/A |
-| 40 | [Frédéric](http://twitter.com/search?q=Fr%c3%a9d%c3%a9ric) | N/A |
-| 41 | [Grenoblois](http://twitter.com/search?q=Grenoblois) | N/A |
+| 23 | [#BeyondFast](http://twitter.com/search?q=%23BeyondFast) | #BeyondFast is a hashtag used to describe something that goes beyond the speed of fast. It is used to emphasize the idea that something is faster than fast, or that it surpasses the speed of fast. |
+| 24 | [Alexandre](http://twitter.com/search?q=Alexandre) | N/A |
+| 25 | [Caqueret](http://twitter.com/search?q=Caqueret) | N/A |
+| 26 | [Amin Sarr](http://twitter.com/search?q=Amin+Sarr) | N/A |
+| 27 | [GIVE US WN BLOOPERS](http://twitter.com/search?q=GIVE+US+WN+BLOOPERS) | N/A |
+| 28 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
+| 29 | [Lepenant](http://twitter.com/search?q=Lepenant) | N/A |
+| 30 | [Torino](http://twitter.com/search?q=Torino) | N/A |
+| 31 | [#Papillomavirus](http://twitter.com/search?q=%23Papillomavirus) | N/A |
+| 32 | [Élodie](http://twitter.com/search?q=%c3%89lodie) | N/A |
+| 33 | [#CoupeDeFrance](http://twitter.com/search?q=%23CoupeDeFrance) | N/A |
+| 34 | [Tagliafico](http://twitter.com/search?q=Tagliafico) | N/A |
+| 35 | [Grenoblois](http://twitter.com/search?q=Grenoblois) | N/A |
+| 36 | [Olympique Lyonnais](http://twitter.com/search?q=Olympique+Lyonnais) | N/A |
+| 37 | [Rothen](http://twitter.com/search?q=Rothen) | N/A |
+| 38 | [Quentin](http://twitter.com/search?q=Quentin) | N/A |
+| 39 | [Nicolas](http://twitter.com/search?q=Nicolas) | N/A |
+| 40 | [Kumbedi](http://twitter.com/search?q=Kumbedi) | N/A |
+| 41 | [xPortal](http://twitter.com/search?q=xPortal) | N/A |
 | 42 | [Laurent Blanc](http://twitter.com/search?q=Laurent+Blanc) | N/A |
 | 43 | [AC Milan](http://twitter.com/search?q=AC+Milan) | AC Milan is a professional Italian football club based in Milan, Italy. The club is one of the most successful teams in the world, having won 18 FIFA and UEFA titles. The acronym AC stands for Associazione Calcio (Italian for Football Association). |
-| 44 | [Delormeau](http://twitter.com/search?q=Delormeau) | N/A |
-| 45 | [Gardasil](http://twitter.com/search?q=Gardasil) | N/A |
-| 46 | [Peter Pan](http://twitter.com/search?q=Peter+Pan) | N/A |
-| 47 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 48 | [Raymond](http://twitter.com/search?q=Raymond) | N/A |
-| 49 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
-| 50 | [Milan AC](http://twitter.com/search?q=Milan+AC) | N/A |
+| 44 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
+| 45 | [Delormeau](http://twitter.com/search?q=Delormeau) | N/A |
+| 46 | [Milan AC](http://twitter.com/search?q=Milan+AC) | N/A |
+| 47 | [Momo](http://twitter.com/search?q=Momo) | Momo is a Japanese word that means "peach". It is also used as a nickname for someone who is cute or has a peachy complexion. |
+| 48 | [Peter Pan](http://twitter.com/search?q=Peter+Pan) | N/A |
+| 49 | [Ippo](http://twitter.com/search?q=Ippo) | N/A |
+| 50 | [Roma](http://twitter.com/search?q=Roma) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Recife
 
-📆 Last Updated: `2023-02-28 23:16:11 UTC`
+📆 Last Updated: `2023-03-01 00:32:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 2 | [Globo](http://twitter.com/search?q=Globo) | Globo is a Brazilian media conglomerate and the largest communications group in Latin America. It is one of the largest commercial TV networks in the world, and it produces content for television, radio, internet, and print media. In English, Globo means "global" or "worldwide". |
+| 1 | [Democrata](http://twitter.com/search?q=Democrata) | N/A |
+| 2 | [Porto](http://twitter.com/search?q=Porto) | N/A |
 | 3 | [UFPE](http://twitter.com/search?q=UFPE) | N/A |
-| 4 | [Anahi](http://twitter.com/search?q=Anahi) | Anahi is a female given name of Latin American origin. It is derived from the Latin word "anahita" which means "graceful" or "gracious". In English, Anahi can be translated to mean "graceful one". |
-| 5 | [#VoleiNoSporTV](http://twitter.com/search?q=%23VoleiNoSporTV) | #VoleiNoSporTV is a hashtag used by fans of volleyball in Brazil to call for more coverage of the sport on the Brazilian sports channel SporTV. In English, it translates to "Volleyball on SporTV". |
-| 6 | [Moonbin](http://twitter.com/search?q=Moonbin) | N/A |
-| 7 | [Caxias do Sul](http://twitter.com/search?q=Caxias+do+Sul) | N/A |
-| 8 | [Sanha](http://twitter.com/search?q=Sanha) | N/A |
-| 9 | [twenty one pilots](http://twitter.com/search?q=twenty+one+pilots) | N/A |
-| 10 | [REDRAGON NO FLAMENGO](http://twitter.com/search?q=REDRAGON+NO+FLAMENGO) | N/A |
-| 11 | [#horadovt](http://twitter.com/search?q=%23horadovt) | N/A |
-| 12 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 13 | [Marcelo Bretas](http://twitter.com/search?q=Marcelo+Bretas) | N/A |
-| 14 | [#WillMovimenta](http://twitter.com/search?q=%23WillMovimenta) | N/A |
-| 15 | [#TeamChevrolet](http://twitter.com/search?q=%23TeamChevrolet) | N/A |
-| 16 | [Sandro Fantinel](http://twitter.com/search?q=Sandro+Fantinel) | N/A |
-| 17 | [João Vicente](http://twitter.com/search?q=Jo%c3%a3o+Vicente) | N/A |
-| 18 | [Lelê](http://twitter.com/search?q=Lel%c3%aa) | N/A |
-| 19 | [#FACupNaESPN](http://twitter.com/search?q=%23FACupNaESPN) | N/A |
-| 20 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
-| 21 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
-| 22 | [Tocantinópolis](http://twitter.com/search?q=Tocantin%c3%b3polis) | N/A |
-| 23 | [Peter Pan](http://twitter.com/search?q=Peter+Pan) | N/A |
-| 24 | [Maracanã](http://twitter.com/search?q=Maracan%c3%a3) | N/A |
-| 25 | [Torino](http://twitter.com/search?q=Torino) | N/A |
-| 26 | [Lava Jato](http://twitter.com/search?q=Lava+Jato) | N/A |
-| 27 | [Tomorrowland](http://twitter.com/search?q=Tomorrowland) | Tomorrowland is a Disney theme park located in Anaheim, California. It is based on futuristic themes and features attractions such as Space Mountain, Buzz Lightyear Astro Blasters, and Star Tours. The name "Tomorrowland" is derived from the phrase "the future is now," which reflects the park's focus on innovation and progress. |
-| 28 | [Rubi](http://twitter.com/search?q=Rubi) | N/A |
-| 29 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 30 | [Cubango](http://twitter.com/search?q=Cubango) | N/A |
-| 31 | [Gabriel Piranha](http://twitter.com/search?q=Gabriel+Piranha) | N/A |
-| 32 | [Imagine Dragons](http://twitter.com/search?q=Imagine+Dragons) | N/A |
-| 33 | [Flávio Dino](http://twitter.com/search?q=Fl%c3%a1vio+Dino) | Flávio Dino is the name of a Brazilian politician who is currently serving as the Governor of Maranhão. In English, his name translates to "Flavius Dino". |
-| 34 | [Apple](http://twitter.com/search?q=Apple) | N/A |
-| 35 | [Xiaomi](http://twitter.com/search?q=Xiaomi) | N/A |
-| 36 | [Meu Pecado](http://twitter.com/search?q=Meu+Pecado) | N/A |
-| 37 | [Haddad](http://twitter.com/search?q=Haddad) | N/A |
-| 38 | [ROSÉ SAINT LAURENT PFW23](http://twitter.com/search?q=ROS%c3%89+SAINT+LAURENT+PFW23) | N/A |
-| 39 | [Arthur Picoli](http://twitter.com/search?q=Arthur+Picoli) | N/A |
-| 40 | [Cremonese](http://twitter.com/search?q=Cremonese) | N/A |
-| 41 | [GIVE US WN BLOOPERS](http://twitter.com/search?q=GIVE+US+WN+BLOOPERS) | N/A |
-| 42 | [Petrobras](http://twitter.com/search?q=Petrobras) | N/A |
-| 43 | [Pirani](http://twitter.com/search?q=Pirani) | N/A |
-| 44 | [joao vitor](http://twitter.com/search?q=joao+vitor) | N/A |
-| 45 | [Bento Gonçalves](http://twitter.com/search?q=Bento+Gon%c3%a7alves) | N/A |
-| 46 | [Coração Indomável](http://twitter.com/search?q=Cora%c3%a7%c3%a3o+Indom%c3%a1vel) | N/A |
-| 47 | [Michael B. Jordan](http://twitter.com/search?q=Michael+B.+Jordan) | N/A |
-| 48 | [iPhone 15](http://twitter.com/search?q=iPhone+15) | N/A |
-| 49 | [Bebida Favorita](http://twitter.com/search?q=Bebida+Favorita) | N/A |
-| 50 | [Série Bronze](http://twitter.com/search?q=S%c3%a9rie+Bronze) | N/A |
+| 4 | [#VoleiNoSporTV](http://twitter.com/search?q=%23VoleiNoSporTV) | #VoleiNoSporTV is a hashtag used by fans of volleyball in Brazil to call for more coverage of the sport on the Brazilian sports channel SporTV. In English, it translates to "Volleyball on SporTV". |
+| 5 | [moonbin](http://twitter.com/search?q=moonbin) | N/A |
+| 6 | [Jenifer](http://twitter.com/search?q=Jenifer) | N/A |
+| 7 | [sanha](http://twitter.com/search?q=sanha) | N/A |
+| 8 | [VAMOS FLAMENGO](http://twitter.com/search?q=VAMOS+FLAMENGO) | N/A |
+| 9 | [#ForaFredNicassio](http://twitter.com/search?q=%23ForaFredNicassio) | N/A |
+| 10 | [#WillMovimenta](http://twitter.com/search?q=%23WillMovimenta) | N/A |
+| 11 | [Cubango](http://twitter.com/search?q=Cubango) | N/A |
+| 12 | [#horadovt](http://twitter.com/search?q=%23horadovt) | N/A |
+| 13 | [Caxias do Sul](http://twitter.com/search?q=Caxias+do+Sul) | N/A |
+| 14 | [Anahi](http://twitter.com/search?q=Anahi) | Anahi is a female given name of Latin American origin. It is derived from the Latin word "anahita" which means "graceful" or "gracious". In English, Anahi can be translated to mean "graceful one". |
+| 15 | [PRE SAVE SEU BRILHO SUMIU](http://twitter.com/search?q=PRE+SAVE+SEU+BRILHO+SUMIU) | N/A |
+| 16 | [Maracanã](http://twitter.com/search?q=Maracan%c3%a3) | N/A |
+| 17 | [União de Maricá](http://twitter.com/search?q=Uni%c3%a3o+de+Maric%c3%a1) | N/A |
+| 18 | [Lumiar](http://twitter.com/search?q=Lumiar) | N/A |
+| 19 | [Tocantinópolis](http://twitter.com/search?q=Tocantin%c3%b3polis) | N/A |
+| 20 | [PROTECT BRISOTO](http://twitter.com/search?q=PROTECT+BRISOTO) | N/A |
+| 21 | [thaisa](http://twitter.com/search?q=thaisa) | N/A |
+| 22 | [João Erick](http://twitter.com/search?q=Jo%c3%a3o+Erick) | N/A |
+| 23 | [#TeamChevrolet](http://twitter.com/search?q=%23TeamChevrolet) | N/A |
+| 24 | [Marcelo Bretas](http://twitter.com/search?q=Marcelo+Bretas) | N/A |
+| 25 | [Parque Acari](http://twitter.com/search?q=Parque+Acari) | N/A |
+| 26 | [Pri Heldes](http://twitter.com/search?q=Pri+Heldes) | N/A |
+| 27 | [Pri Souza](http://twitter.com/search?q=Pri+Souza) | N/A |
+| 28 | [Sereno de Campo Grande](http://twitter.com/search?q=Sereno+de+Campo+Grande) | N/A |
+| 29 | [Sandro Fantinel](http://twitter.com/search?q=Sandro+Fantinel) | N/A |
+| 30 | [Gattaz](http://twitter.com/search?q=Gattaz) | N/A |
+| 31 | [João Vicente](http://twitter.com/search?q=Jo%c3%a3o+Vicente) | N/A |
+| 32 | [O Minas](http://twitter.com/search?q=O+Minas) | N/A |
+| 33 | [Peña](http://twitter.com/search?q=Pe%c3%b1a) | N/A |
+| 34 | [Kisy](http://twitter.com/search?q=Kisy) | N/A |
+| 35 | [Juma](http://twitter.com/search?q=Juma) | N/A |
+| 36 | [twenty one pilots](http://twitter.com/search?q=twenty+one+pilots) | N/A |
+| 37 | [imagine dragons](http://twitter.com/search?q=imagine+dragons) | N/A |
+| 38 | [Anderson Ceará](http://twitter.com/search?q=Anderson+Cear%c3%a1) | N/A |
+| 39 | [Elina](http://twitter.com/search?q=Elina) | N/A |
+| 40 | [GANHE R$400 EM DINHEIRO](http://twitter.com/search?q=GANHE+R%24400+EM+DINHEIRO) | N/A |
+| 41 | [Nyeme](http://twitter.com/search?q=Nyeme) | N/A |
+| 42 | [Allan](http://twitter.com/search?q=Allan) | N/A |
+| 43 | [Peter Pan](http://twitter.com/search?q=Peter+Pan) | N/A |
+| 44 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
+| 45 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 46 | [Série Prata](http://twitter.com/search?q=S%c3%a9rie+Prata) | N/A |
+| 47 | [Flávio Dino](http://twitter.com/search?q=Fl%c3%a1vio+Dino) | Flávio Dino is the name of a Brazilian politician who is currently serving as the Governor of Maranhão. In English, his name translates to "Flavius Dino". |
+| 48 | [Apple](http://twitter.com/search?q=Apple) | N/A |
+| 49 | [Bilau](http://twitter.com/search?q=Bilau) | N/A |
+| 50 | [Haddad](http://twitter.com/search?q=Haddad) | N/A |
 
 
 
