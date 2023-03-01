@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dallas-Ft. Worth
 
-📆 Last Updated: `2023-03-01 13:21:42 UTC`
+📆 Last Updated: `2023-03-01 14:16:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 2 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 3 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
-| 4 | [Kidd](http://twitter.com/search?q=Kidd) | N/A |
-| 5 | [#MFFL](http://twitter.com/search?q=%23MFFL) | #MFFL stands for "Mavs Fan For Life" and is used by fans of the Dallas Mavericks NBA basketball team to show their loyalty and support. |
-| 6 | [#TwitterDown](http://twitter.com/search?q=%23TwitterDown) | N/A |
-| 7 | [#WomensHistoryMonth](http://twitter.com/search?q=%23WomensHistoryMonth) | N/A |
-| 8 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 9 | [New Month](http://twitter.com/search?q=New+Month) | N/A |
-| 10 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
-| 11 | [Welcome to Twitter](http://twitter.com/search?q=Welcome+to+Twitter) | N/A |
+| 1 | [#WomensHistoryMonth](http://twitter.com/search?q=%23WomensHistoryMonth) | N/A |
+| 2 | [#TwitterDown](http://twitter.com/search?q=%23TwitterDown) | N/A |
+| 3 | [Pikamee](http://twitter.com/search?q=Pikamee) | N/A |
+| 4 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 5 | [Eli Lilly](http://twitter.com/search?q=Eli+Lilly) | N/A |
+| 6 | [New Month](http://twitter.com/search?q=New+Month) | N/A |
+| 7 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
+| 8 | [#WednesdayWisdom](http://twitter.com/search?q=%23WednesdayWisdom) | N/A |
+| 9 | [March Madness](http://twitter.com/search?q=March+Madness) | N/A |
+| 10 | [New Blessings](http://twitter.com/search?q=New+Blessings) | N/A |
+| 11 | [Happy 1st](http://twitter.com/search?q=Happy+1st) | N/A |
 | 12 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
-| 13 | [Happy 1st](http://twitter.com/search?q=Happy+1st) | N/A |
-| 14 | [Beetlejuice](http://twitter.com/search?q=Beetlejuice) | N/A |
-| 15 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
-| 16 | [Rabbit Rabbit](http://twitter.com/search?q=Rabbit+Rabbit) | N/A |
-| 17 | [Daily Quordle 401](http://twitter.com/search?q=Daily+Quordle+401) | N/A |
-| 18 | [March Madness](http://twitter.com/search?q=March+Madness) | N/A |
-| 19 | [New Blessings](http://twitter.com/search?q=New+Blessings) | N/A |
-| 20 | [Eli Lilly](http://twitter.com/search?q=Eli+Lilly) | N/A |
-| 21 | [Happy Hump](http://twitter.com/search?q=Happy+Hump) | N/A |
-| 22 | [Wray](http://twitter.com/search?q=Wray) | N/A |
-| 23 | [Almighty](http://twitter.com/search?q=Almighty) | N/A |
-| 24 | [St David](http://twitter.com/search?q=St+David) | N/A |
-| 25 | [New Goals](http://twitter.com/search?q=New+Goals) | N/A |
-| 26 | [Dark Side of the Moon](http://twitter.com/search?q=Dark+Side+of+the+Moon) | N/A |
-| 27 | [Jonathan Quick](http://twitter.com/search?q=Jonathan+Quick) | N/A |
-| 28 | [Did Twitter](http://twitter.com/search?q=Did+Twitter) | N/A |
-| 29 | [Happy New Year](http://twitter.com/search?q=Happy+New+Year) | Happy New Year is a phrase used to express good wishes for the upcoming year. It is typically said at the end of the year, on New Year's Eve or New Year's Day, to wish someone a prosperous and successful year ahead. |
-| 30 | [Fuddruckers](http://twitter.com/search?q=Fuddruckers) | N/A |
-| 31 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
+| 13 | [Wray](http://twitter.com/search?q=Wray) | N/A |
+| 14 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
+| 15 | [Welcome to Twitter](http://twitter.com/search?q=Welcome+to+Twitter) | N/A |
+| 16 | [Beetlejuice](http://twitter.com/search?q=Beetlejuice) | N/A |
+| 17 | [Dark Side of the Moon](http://twitter.com/search?q=Dark+Side+of+the+Moon) | N/A |
+| 18 | [Stollen](http://twitter.com/search?q=Stollen) | Stollen is a traditional German Christmas cake or bread made with dried fruit, nuts, and spices. It is usually shaped like a log and covered with powdered sugar or icing sugar. The name comes from the German word "stollen," which means "to carry." In English, it is sometimes referred to as a Christmas loaf or fruitcake. |
+| 19 | [Fuddruckers](http://twitter.com/search?q=Fuddruckers) | N/A |
+| 20 | [Daily Quordle 401](http://twitter.com/search?q=Daily+Quordle+401) | N/A |
+| 21 | [Rabbit Rabbit](http://twitter.com/search?q=Rabbit+Rabbit) | N/A |
+| 22 | [Happy Social Work Month](http://twitter.com/search?q=Happy+Social+Work+Month) | N/A |
+| 23 | [New Goals](http://twitter.com/search?q=New+Goals) | N/A |
+| 24 | [Andrew Painter](http://twitter.com/search?q=Andrew+Painter) | N/A |
+| 25 | [St. David](http://twitter.com/search?q=St.+David) | N/A |
+| 26 | [Frogmore](http://twitter.com/search?q=Frogmore) | N/A |
+| 27 | [Almighty](http://twitter.com/search?q=Almighty) | N/A |
+| 28 | [Jonathan Quick](http://twitter.com/search?q=Jonathan+Quick) | N/A |
+| 29 | [Happy Hump](http://twitter.com/search?q=Happy+Hump) | N/A |
+| 30 | [Birthday Month](http://twitter.com/search?q=Birthday+Month) | N/A |
+| 31 | [Nolan Smith](http://twitter.com/search?q=Nolan+Smith) | N/A |
 | 32 | [Sean Penn](http://twitter.com/search?q=Sean+Penn) | N/A |
-| 33 | [Frogmore](http://twitter.com/search?q=Frogmore) | N/A |
-| 34 | [Vanessa Bryant](http://twitter.com/search?q=Vanessa+Bryant) | N/A |
-| 35 | [HAPPY BIRTHDAY SAPNAP](http://twitter.com/search?q=HAPPY+BIRTHDAY+SAPNAP) | N/A |
-| 36 | [Greece](http://twitter.com/search?q=Greece) | N/A |
-| 37 | [Brandon Johnson](http://twitter.com/search?q=Brandon+Johnson) | N/A |
-| 38 | [Tinubu](http://twitter.com/search?q=Tinubu) | N/A |
-| 39 | [Avon](http://twitter.com/search?q=Avon) | N/A |
-| 40 | [Strand](http://twitter.com/search?q=Strand) | N/A |
-| 41 | [San Andreas](http://twitter.com/search?q=San+Andreas) | N/A |
-| 42 | [Raskin](http://twitter.com/search?q=Raskin) | N/A |
-| 43 | [Paul Vallas](http://twitter.com/search?q=Paul+Vallas) | N/A |
-| 44 | [Nimbus](http://twitter.com/search?q=Nimbus) | N/A |
-| 45 | [Hoover](http://twitter.com/search?q=Hoover) | N/A |
-| 46 | [Witch Queen](http://twitter.com/search?q=Witch+Queen) | N/A |
-| 47 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
-| 48 | [Ed Sheeran](http://twitter.com/search?q=Ed+Sheeran) | N/A |
-| 49 | [Ty Lue](http://twitter.com/search?q=Ty+Lue) | Ty Lue is the name of an American basketball coach and former player. He is currently the head coach of the Los Angeles Clippers of the National Basketball Association (NBA). The name "Ty Lue" is derived from his given name, Tyronn. |
-| 50 | [Suki](http://twitter.com/search?q=Suki) | N/A |
+| 33 | [Will Anderson](http://twitter.com/search?q=Will+Anderson) | N/A |
+| 34 | [New Opportunities](http://twitter.com/search?q=New+Opportunities) | N/A |
+| 35 | [ITS MARCH](http://twitter.com/search?q=ITS+MARCH) | N/A |
+| 36 | [ITS THE FIRST OF THE MONTH](http://twitter.com/search?q=ITS+THE+FIRST+OF+THE+MONTH) | N/A |
+| 37 | [Happy 50th](http://twitter.com/search?q=Happy+50th) | N/A |
+| 38 | [Happy New Year](http://twitter.com/search?q=Happy+New+Year) | Happy New Year is a phrase used to express good wishes for the upcoming year. It is typically said at the end of the year, on New Year's Eve or New Year's Day, to wish someone a prosperous and successful year ahead. |
+| 39 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
+| 40 | [Most High](http://twitter.com/search?q=Most+High) | N/A |
+| 41 | [HAPPY BIRTHDAY SAPNAP](http://twitter.com/search?q=HAPPY+BIRTHDAY+SAPNAP) | N/A |
+| 42 | [Tyree Wilson](http://twitter.com/search?q=Tyree+Wilson) | N/A |
+| 43 | [Did Twitter](http://twitter.com/search?q=Did+Twitter) | N/A |
+| 44 | [Greece](http://twitter.com/search?q=Greece) | N/A |
+| 45 | [Meteorological Spring](http://twitter.com/search?q=Meteorological+Spring) | N/A |
+| 46 | [Korpi](http://twitter.com/search?q=Korpi) | N/A |
+| 47 | [Christopher Reeve](http://twitter.com/search?q=Christopher+Reeve) | N/A |
+| 48 | [Brandon Johnson](http://twitter.com/search?q=Brandon+Johnson) | N/A |
+| 49 | [PT Cruiser](http://twitter.com/search?q=PT+Cruiser) | N/A |
+| 50 | [San Andreas](http://twitter.com/search?q=San+Andreas) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Liverpool
 
-📆 Last Updated: `2023-03-01 13:20:56 UTC`
+📆 Last Updated: `2023-03-01 14:15:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,52 +16,52 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#SelfInjuryAwarenessDay](http://twitter.com/search?q=%23SelfInjuryAwarenessDay) | N/A |
-| 2 | [Harry and Meghan](http://twitter.com/search?q=Harry+and+Meghan) | N/A |
-| 3 | [Ethel Cain](http://twitter.com/search?q=Ethel+Cain) | N/A |
-| 4 | [maisie](http://twitter.com/search?q=maisie) | N/A |
-| 5 | [#March2023](http://twitter.com/search?q=%23March2023) | N/A |
-| 6 | [Daily Quordle 401](http://twitter.com/search?q=Daily+Quordle+401) | N/A |
-| 7 | [Greece](http://twitter.com/search?q=Greece) | N/A |
-| 8 | [#ToriesDevoidOfShame](http://twitter.com/search?q=%23ToriesDevoidOfShame) | N/A |
-| 9 | [#r4today](http://twitter.com/search?q=%23r4today) | N/A |
-| 10 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
-| 11 | [St David](http://twitter.com/search?q=St+David) | N/A |
-| 12 | [Hancock](http://twitter.com/search?q=Hancock) | N/A |
-| 13 | [Welsh](http://twitter.com/search?q=Welsh) | Welsh is a Celtic language spoken in Wales, a country in the United Kingdom. It is closely related to Cornish and Breton, two other Celtic languages. The Welsh language has its own unique alphabet and grammar, and is an official language of Wales. Its meaning in English is "of or relating to Wales or its people, language, or culture". |
-| 14 | [Welcome to Twitter](http://twitter.com/search?q=Welcome+to+Twitter) | N/A |
-| 15 | [Dydd Gŵyl Dewi Hapus](http://twitter.com/search?q=Dydd+G%c5%b5yl+Dewi+Hapus) | N/A |
-| 16 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
-| 17 | [Saint David](http://twitter.com/search?q=Saint+David) | N/A |
-| 18 | [Stephen Flynn](http://twitter.com/search?q=Stephen+Flynn) | N/A |
-| 19 | [Oakeshott](http://twitter.com/search?q=Oakeshott) | N/A |
-| 20 | [Frogmore Cottage](http://twitter.com/search?q=Frogmore+Cottage) | N/A |
-| 21 | [Malone](http://twitter.com/search?q=Malone) | N/A |
-| 22 | [Sarah Vine](http://twitter.com/search?q=Sarah+Vine) | N/A |
-| 23 | [My Twitter](http://twitter.com/search?q=My+Twitter) | N/A |
-| 24 | [Ed Sheeran](http://twitter.com/search?q=Ed+Sheeran) | N/A |
+| 2 | [#PayUp](http://twitter.com/search?q=%23PayUp) | N/A |
+| 3 | [#ToriesDevoidOfShame](http://twitter.com/search?q=%23ToriesDevoidOfShame) | N/A |
+| 4 | [#saveourschools](http://twitter.com/search?q=%23saveourschools) | N/A |
+| 5 | [Banks](http://twitter.com/search?q=Banks) | N/A |
+| 6 | [St David](http://twitter.com/search?q=St+David) | N/A |
+| 7 | [Hancock](http://twitter.com/search?q=Hancock) | N/A |
+| 8 | [Welsh](http://twitter.com/search?q=Welsh) | Welsh is a Celtic language spoken in Wales, a country in the United Kingdom. It is closely related to Cornish and Breton, two other Celtic languages. The Welsh language has its own unique alphabet and grammar, and is an official language of Wales. Its meaning in English is "of or relating to Wales or its people, language, or culture". |
+| 9 | [Malan](http://twitter.com/search?q=Malan) | N/A |
+| 10 | [Welcome to Twitter](http://twitter.com/search?q=Welcome+to+Twitter) | N/A |
+| 11 | [Dydd Gŵyl Dewi Hapus](http://twitter.com/search?q=Dydd+G%c5%b5yl+Dewi+Hapus) | N/A |
+| 12 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
+| 13 | [Frogmore Cottage](http://twitter.com/search?q=Frogmore+Cottage) | N/A |
+| 14 | [Saint David](http://twitter.com/search?q=Saint+David) | N/A |
+| 15 | [Oakeshott](http://twitter.com/search?q=Oakeshott) | N/A |
+| 16 | [Harry and Meghan](http://twitter.com/search?q=Harry+and+Meghan) | N/A |
+| 17 | [Sarah Vine](http://twitter.com/search?q=Sarah+Vine) | N/A |
+| 18 | [stephen flynn](http://twitter.com/search?q=stephen+flynn) | N/A |
+| 19 | [Post Malone](http://twitter.com/search?q=Post+Malone) | N/A |
+| 20 | [Just Fontaine](http://twitter.com/search?q=Just+Fontaine) | N/A |
+| 21 | [Telegraph](http://twitter.com/search?q=Telegraph) | N/A |
+| 22 | [Year 6](http://twitter.com/search?q=Year+6) | N/A |
+| 23 | [Balogun](http://twitter.com/search?q=Balogun) | Balogun is a Nigerian title of nobility, usually given to a warrior or leader. It is derived from the Yoruba language and means "commander of the army". |
+| 24 | [Pogba](http://twitter.com/search?q=Pogba) | Pogba is a nickname for the French professional footballer Paul Pogba. It is derived from his last name and is often used as a term of endearment by his fans. |
 | 25 | [Midazolam](http://twitter.com/search?q=Midazolam) | N/A |
-| 26 | [Pogba](http://twitter.com/search?q=Pogba) | Pogba is a nickname for the French professional footballer Paul Pogba. It is derived from his last name and is often used as a term of endearment by his fans. |
-| 27 | [Telegraph](http://twitter.com/search?q=Telegraph) | N/A |
-| 28 | [For You](http://twitter.com/search?q=For+You) | N/A |
-| 29 | [Year 6](http://twitter.com/search?q=Year+6) | N/A |
-| 30 | [Allan](http://twitter.com/search?q=Allan) | N/A |
-| 31 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
-| 32 | [Tinubu](http://twitter.com/search?q=Tinubu) | N/A |
-| 33 | [Susie](http://twitter.com/search?q=Susie) | N/A |
-| 34 | [Eisteddfod](http://twitter.com/search?q=Eisteddfod) | N/A |
-| 35 | [Whitty](http://twitter.com/search?q=Whitty) | N/A |
-| 36 | [Balogun](http://twitter.com/search?q=Balogun) | Balogun is a Nigerian title of nobility, usually given to a warrior or leader. It is derived from the Yoruba language and means "commander of the army". |
-| 37 | [Michael Gove](http://twitter.com/search?q=Michael+Gove) | N/A |
-| 38 | [Diolch](http://twitter.com/search?q=Diolch) | N/A |
-| 39 | [Wordle 620 X](http://twitter.com/search?q=Wordle+620+X) | N/A |
-| 40 | [Banks](http://twitter.com/search?q=Banks) | N/A |
-| 41 | [Richard Tice](http://twitter.com/search?q=Richard+Tice) | N/A |
-| 42 | [#readingforpleasure](http://twitter.com/search?q=%23readingforpleasure) | N/A |
-| 43 | [#EDAW2023](http://twitter.com/search?q=%23EDAW2023) | N/A |
-| 44 | [#MWC23](http://twitter.com/search?q=%23MWC23) | N/A |
-| 45 | [#INECElectionResult](http://twitter.com/search?q=%23INECElectionResult) | N/A |
-| 46 | [#SaveOurSchools](http://twitter.com/search?q=%23SaveOurSchools) | N/A |
-| 47 | [#BeyondFast](http://twitter.com/search?q=%23BeyondFast) | #BeyondFast is a hashtag used to describe something that goes beyond the speed of fast. It is used to emphasize the idea that something is faster than fast, or that it surpasses the speed of fast. |
+| 26 | [Ed Sheeran](http://twitter.com/search?q=Ed+Sheeran) | N/A |
+| 27 | [My Twitter](http://twitter.com/search?q=My+Twitter) | N/A |
+| 28 | [Our March](http://twitter.com/search?q=Our+March) | N/A |
+| 29 | [For You](http://twitter.com/search?q=For+You) | N/A |
+| 30 | [Diolch](http://twitter.com/search?q=Diolch) | N/A |
+| 31 | [Eisteddfod](http://twitter.com/search?q=Eisteddfod) | N/A |
+| 32 | [Allan](http://twitter.com/search?q=Allan) | N/A |
+| 33 | [Happy New Month](http://twitter.com/search?q=Happy+New+Month) | Happy New Month is a phrase used to express good wishes for the start of a new month. It is typically used as a greeting or salutation to friends, family, and colleagues. The phrase is usually accompanied by wishes for health, happiness, and success in the upcoming month. |
+| 34 | [Susie](http://twitter.com/search?q=Susie) | N/A |
+| 35 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
+| 36 | [Gove](http://twitter.com/search?q=Gove) | Gove is a surname of English origin. It is derived from the Old English word "gof," meaning "a smith or metalworker." The name is most commonly found in the United Kingdom, particularly in the counties of Devon and Cornwall. |
+| 37 | [Whitty](http://twitter.com/search?q=Whitty) | N/A |
+| 38 | [Richard Tice](http://twitter.com/search?q=Richard+Tice) | N/A |
+| 39 | [Stranger Things](http://twitter.com/search?q=Stranger+Things) | N/A |
+| 40 | [International Women's Day](http://twitter.com/search?q=International+Women%27s+Day) | N/A |
+| 41 | [Daily Quordle 401](http://twitter.com/search?q=Daily+Quordle+401) | N/A |
+| 42 | [ethel cain](http://twitter.com/search?q=ethel+cain) | Ethel Cain is a phrase used to describe someone who is kind and generous. It is derived from the name of the biblical character Ethel, who was known for her generosity and hospitality. The phrase is often used as a compliment to someone who has been particularly helpful or generous. |
+| 43 | [maisie](http://twitter.com/search?q=maisie) | N/A |
+| 44 | [#EDAW2023](http://twitter.com/search?q=%23EDAW2023) | N/A |
+| 45 | [#TeacherStrike](http://twitter.com/search?q=%23TeacherStrike) | N/A |
+| 46 | [#INECElectionResult](http://twitter.com/search?q=%23INECElectionResult) | N/A |
+| 47 | [#readingforpleasure](http://twitter.com/search?q=%23readingforpleasure) | N/A |
 
 
 

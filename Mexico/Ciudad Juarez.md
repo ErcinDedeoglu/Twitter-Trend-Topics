@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ciudad Juarez
 
-📆 Last Updated: `2023-03-01 13:20:59 UTC`
+📆 Last Updated: `2023-03-01 14:15:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,51 +18,51 @@ This is top 50 for [Mexico](</Mexico>)
 | 1 | [#SalarioRosaContinua](http://twitter.com/search?q=%23SalarioRosaContinua) | N/A |
 | 2 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
 | 3 | [#FelizMiércoles](http://twitter.com/search?q=%23FelizMi%c3%a9rcoles) | N/A |
-| 4 | [#SinYolanda](http://twitter.com/search?q=%23SinYolanda) | N/A |
+| 4 | [#ElTíoKorno](http://twitter.com/search?q=%23ElT%c3%adoKorno) | N/A |
 | 5 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 6 | [#SquidCraft2](http://twitter.com/search?q=%23SquidCraft2) | N/A |
-| 7 | [Samuel](http://twitter.com/search?q=Samuel) | N/A |
+| 6 | [Bienvenido Marzo](http://twitter.com/search?q=Bienvenido+Marzo) | N/A |
+| 7 | [#SinYolanda](http://twitter.com/search?q=%23SinYolanda) | N/A |
 | 8 | [Monterrey](http://twitter.com/search?q=Monterrey) | N/A |
-| 9 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 10 | [andy benavides](http://twitter.com/search?q=andy+benavides) | N/A |
-| 11 | [Nuevo Laredo](http://twitter.com/search?q=Nuevo+Laredo) | N/A |
-| 12 | [Ana Gabriel](http://twitter.com/search?q=Ana+Gabriel) | N/A |
-| 13 | [Perú](http://twitter.com/search?q=Per%c3%ba) | Perú is the official name of a country in South America. It is bordered by Ecuador and Colombia to the north, Brazil and Bolivia to the east, Chile to the south, and the Pacific Ocean to the west. The name Perú comes from a word in the native Quechua language meaning "land of abundance." |
-| 14 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
-| 15 | [MEDALLA GOLDEN CHAMP](http://twitter.com/search?q=MEDALLA+GOLDEN+CHAMP) | N/A |
-| 16 | [Juan Collado](http://twitter.com/search?q=Juan+Collado) | N/A |
-| 17 | [Tania Rincón](http://twitter.com/search?q=Tania+Rinc%c3%b3n) | N/A |
-| 18 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
+| 9 | [Samuel](http://twitter.com/search?q=Samuel) | N/A |
+| 10 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 11 | [Línea 5](http://twitter.com/search?q=L%c3%adnea+5) | N/A |
+| 12 | [AMLO](http://twitter.com/search?q=AMLO) | AMLO is an acronym for Andrés Manuel López Obrador, the current President of Mexico. He was elected in 2018 and is a member of the National Regeneration Movement (MORENA) party. In English, AMLO stands for Andrés Manuel López Obrador. |
+| 13 | [Nuevo Laredo](http://twitter.com/search?q=Nuevo+Laredo) | N/A |
+| 14 | [Perú](http://twitter.com/search?q=Per%c3%ba) | Perú is the official name of a country in South America. It is bordered by Ecuador and Colombia to the north, Brazil and Bolivia to the east, Chile to the south, and the Pacific Ocean to the west. The name Perú comes from a word in the native Quechua language meaning "land of abundance." |
+| 15 | [Ana Gabriel](http://twitter.com/search?q=Ana+Gabriel) | N/A |
+| 16 | [Andy Benavides](http://twitter.com/search?q=Andy+Benavides) | N/A |
+| 17 | [Marzo con M](http://twitter.com/search?q=Marzo+con+M) | N/A |
+| 18 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
 | 19 | [JISOO THE FACE OF DIOR](http://twitter.com/search?q=JISOO+THE+FACE+OF+DIOR) | N/A |
-| 20 | [Piloto](http://twitter.com/search?q=Piloto) | N/A |
-| 21 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
-| 22 | [Santa Catarina](http://twitter.com/search?q=Santa+Catarina) | N/A |
-| 23 | [Luzu](http://twitter.com/search?q=Luzu) | Luzu is a Spanish word that means light. It is often used to refer to a bright, cheerful, and optimistic attitude. |
-| 24 | [Futbolista](http://twitter.com/search?q=Futbolista) | N/A |
-| 25 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 26 | [late late show with txt](http://twitter.com/search?q=late+late+show+with+txt) | N/A |
-| 27 | [Día de la Cero Discriminación](http://twitter.com/search?q=D%c3%ada+de+la+Cero+Discriminaci%c3%b3n) | N/A |
-| 28 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
-| 29 | [Zócalo](http://twitter.com/search?q=Z%c3%b3calo) | N/A |
-| 30 | [Xalostoc](http://twitter.com/search?q=Xalostoc) | N/A |
-| 31 | [mati eres fortaleza](http://twitter.com/search?q=mati+eres+fortaleza) | N/A |
-| 32 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 33 | [duvan](http://twitter.com/search?q=duvan) | N/A |
-| 34 | [mavelyn medallistar](http://twitter.com/search?q=mavelyn+medallistar) | N/A |
-| 35 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
-| 36 | [Enfermedades Raras](http://twitter.com/search?q=Enfermedades+Raras) | N/A |
-| 37 | [Ruzzarin](http://twitter.com/search?q=Ruzzarin) | N/A |
-| 38 | [Cabeza de Vaca](http://twitter.com/search?q=Cabeza+de+Vaca) | N/A |
-| 39 | [Wactor](http://twitter.com/search?q=Wactor) | N/A |
-| 40 | [Tinkerbell](http://twitter.com/search?q=Tinkerbell) | N/A |
-| 41 | [mAxico](http://twitter.com/search?q=mAxico) | N/A |
-| 42 | [Independiente del Valle](http://twitter.com/search?q=Independiente+del+Valle) | N/A |
-| 43 | [cremonese](http://twitter.com/search?q=cremonese) | N/A |
-| 44 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
-| 45 | [Germán](http://twitter.com/search?q=Germ%c3%a1n) | Germán is a Spanish and Portuguese name derived from the Latin Germanus, meaning "brother". It is also a Germanic given name, derived from the Germanic element ger, meaning "spear". |
-| 46 | [moonbin](http://twitter.com/search?q=moonbin) | N/A |
-| 47 | [lorena merino](http://twitter.com/search?q=lorena+merino) | N/A |
-| 48 | [Tornello](http://twitter.com/search?q=Tornello) | N/A |
+| 20 | [Juan Collado](http://twitter.com/search?q=Juan+Collado) | N/A |
+| 21 | [Tania Rincón](http://twitter.com/search?q=Tania+Rinc%c3%b3n) | N/A |
+| 22 | [medalla golden champ](http://twitter.com/search?q=medalla+golden+champ) | N/A |
+| 23 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
+| 24 | [Piloto](http://twitter.com/search?q=Piloto) | N/A |
+| 25 | [Santa Catarina](http://twitter.com/search?q=Santa+Catarina) | N/A |
+| 26 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
+| 27 | [Hola Marzo](http://twitter.com/search?q=Hola+Marzo) | N/A |
+| 28 | [Futbolista](http://twitter.com/search?q=Futbolista) | N/A |
+| 29 | [Zoro](http://twitter.com/search?q=Zoro) | N/A |
+| 30 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
+| 31 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 32 | [Bendecido](http://twitter.com/search?q=Bendecido) | N/A |
+| 33 | [late late show with txt](http://twitter.com/search?q=late+late+show+with+txt) | N/A |
+| 34 | [Zócalo](http://twitter.com/search?q=Z%c3%b3calo) | N/A |
+| 35 | [Enfermedades Raras](http://twitter.com/search?q=Enfermedades+Raras) | N/A |
+| 36 | [Vilchis](http://twitter.com/search?q=Vilchis) | N/A |
+| 37 | [Luzu](http://twitter.com/search?q=Luzu) | Luzu is a Spanish word that means light. It is often used to refer to a bright, cheerful, and optimistic attitude. |
+| 38 | [mati eres fortaleza](http://twitter.com/search?q=mati+eres+fortaleza) | N/A |
+| 39 | [Xalostoc](http://twitter.com/search?q=Xalostoc) | N/A |
+| 40 | [mavelyn medallistar](http://twitter.com/search?q=mavelyn+medallistar) | N/A |
+| 41 | [Duvan](http://twitter.com/search?q=Duvan) | N/A |
+| 42 | [SIMINVEST AMBASSADOR V](http://twitter.com/search?q=SIMINVEST+AMBASSADOR+V) | N/A |
+| 43 | [KIM TAEHYUNG FOR SIMINVEST](http://twitter.com/search?q=KIM+TAEHYUNG+FOR+SIMINVEST) | N/A |
+| 44 | [Cabeza de Vaca](http://twitter.com/search?q=Cabeza+de+Vaca) | N/A |
+| 45 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
+| 46 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 47 | [Wactor](http://twitter.com/search?q=Wactor) | N/A |
+| 48 | [Ruzzarin](http://twitter.com/search?q=Ruzzarin) | N/A |
 
 
 

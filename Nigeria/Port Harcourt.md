@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Harcourt
 
-📆 Last Updated: `2023-03-01 13:21:28 UTC`
+📆 Last Updated: `2023-03-01 14:16:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Nigeria](</Nigeria>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#JANDORforLagos](http://twitter.com/search?q=%23JANDORforLagos) | N/A |
-| 2 | [Happy New Month](http://twitter.com/search?q=Happy+New+Month) | Happy New Month is a phrase used to express good wishes for the start of a new month. It is typically used as a greeting or salutation to friends, family, and colleagues. The phrase is usually accompanied by wishes for health, happiness, and success in the upcoming month. |
-| 3 | [#NotMyPresident](http://twitter.com/search?q=%23NotMyPresident) | N/A |
-| 4 | [#ARISENews](http://twitter.com/search?q=%23ARISENews) | N/A |
-| 5 | [#RevolutionNow](http://twitter.com/search?q=%23RevolutionNow) | N/A |
-| 6 | [Black Wednesday](http://twitter.com/search?q=Black+Wednesday) | N/A |
-| 7 | [My Twitter](http://twitter.com/search?q=My+Twitter) | N/A |
-| 8 | [Teslim Folarin](http://twitter.com/search?q=Teslim+Folarin) | N/A |
-| 9 | [Arise TV](http://twitter.com/search?q=Arise+TV) | N/A |
-| 10 | [Which Nigerians](http://twitter.com/search?q=Which+Nigerians) | N/A |
-| 11 | [Japa](http://twitter.com/search?q=Japa) | N/A |
-| 12 | [Danny](http://twitter.com/search?q=Danny) | N/A |
-| 13 | [Congratulations to Nigeria](http://twitter.com/search?q=Congratulations+to+Nigeria) | N/A |
-| 14 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
-| 15 | [Jubilee in March](http://twitter.com/search?q=Jubilee+in+March) | N/A |
-| 16 | [Welcome to the Month of March](http://twitter.com/search?q=Welcome+to+the+Month+of+March) | N/A |
-| 17 | [Apostle](http://twitter.com/search?q=Apostle) | N/A |
-| 18 | [Grace Grace Grace](http://twitter.com/search?q=Grace+Grace+Grace) | N/A |
-| 19 | [Kashim Shettima](http://twitter.com/search?q=Kashim+Shettima) | N/A |
-| 20 | [Sega](http://twitter.com/search?q=Sega) | N/A |
-| 21 | [Femi Falana](http://twitter.com/search?q=Femi+Falana) | N/A |
-| 22 | [Chief of Staff](http://twitter.com/search?q=Chief+of+Staff) | N/A |
-| 23 | [11th of March](http://twitter.com/search?q=11th+of+March) | N/A |
-| 24 | [May Nigeria](http://twitter.com/search?q=May+Nigeria) | N/A |
-| 25 | [Atiku and Obi](http://twitter.com/search?q=Atiku+and+Obi) | N/A |
-| 26 | [Federal Republic of Nigeria](http://twitter.com/search?q=Federal+Republic+of+Nigeria) | N/A |
-| 27 | [Another 8](http://twitter.com/search?q=Another+8) | N/A |
-| 28 | [Congratulations Jagaban](http://twitter.com/search?q=Congratulations+Jagaban) | N/A |
-| 29 | [Okwute](http://twitter.com/search?q=Okwute) | N/A |
-| 30 | [Adeboye](http://twitter.com/search?q=Adeboye) | N/A |
-| 31 | [HELL NO](http://twitter.com/search?q=HELL+NO) | N/A |
-| 32 | [Renewed Hope](http://twitter.com/search?q=Renewed+Hope) | N/A |
-| 33 | [The FBI](http://twitter.com/search?q=The+FBI) | N/A |
-| 34 | [God Bless Nigeria](http://twitter.com/search?q=God+Bless+Nigeria) | N/A |
-| 35 | [Rufai](http://twitter.com/search?q=Rufai) | N/A |
-| 36 | [Congratulations BAT](http://twitter.com/search?q=Congratulations+BAT) | N/A |
-| 37 | [Togo](http://twitter.com/search?q=Togo) | N/A |
-| 38 | [BATs](http://twitter.com/search?q=BATs) | N/A |
-| 39 | [Mandate](http://twitter.com/search?q=Mandate) | N/A |
-| 40 | [Judiciary](http://twitter.com/search?q=Judiciary) | N/A |
-| 41 | [Cotonou](http://twitter.com/search?q=Cotonou) | N/A |
-| 42 | [Congratulations Mr President](http://twitter.com/search?q=Congratulations+Mr+President) | N/A |
-| 43 | [Thieves](http://twitter.com/search?q=Thieves) | N/A |
-| 44 | [#2023GeneralElections](http://twitter.com/search?q=%232023GeneralElections) | N/A |
-| 45 | [#SupremeCourt](http://twitter.com/search?q=%23SupremeCourt) | N/A |
-| 46 | [#MoveAbroadByForce](http://twitter.com/search?q=%23MoveAbroadByForce) | N/A |
-| 47 | [#protest](http://twitter.com/search?q=%23protest) | N/A |
-| 48 | [#TinubusWalkToVictory](http://twitter.com/search?q=%23TinubusWalkToVictory) | N/A |
-| 49 | [#March2023](http://twitter.com/search?q=%23March2023) | N/A |
+| 1 | [My President](http://twitter.com/search?q=My+President) | N/A |
+| 2 | [Black Wednesday](http://twitter.com/search?q=Black+Wednesday) | N/A |
+| 3 | [#JANDORforLagos](http://twitter.com/search?q=%23JANDORforLagos) | N/A |
+| 4 | [Happy New Month](http://twitter.com/search?q=Happy+New+Month) | Happy New Month is a phrase used to express good wishes for the start of a new month. It is typically used as a greeting or salutation to friends, family, and colleagues. The phrase is usually accompanied by wishes for health, happiness, and success in the upcoming month. |
+| 5 | [#ARISENews](http://twitter.com/search?q=%23ARISENews) | N/A |
+| 6 | [#RevolutionNow](http://twitter.com/search?q=%23RevolutionNow) | N/A |
+| 7 | [Teslim Folarin](http://twitter.com/search?q=Teslim+Folarin) | N/A |
+| 8 | [My Twitter](http://twitter.com/search?q=My+Twitter) | N/A |
+| 9 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 10 | [Okwute](http://twitter.com/search?q=Okwute) | N/A |
+| 11 | [#SupremeCourt](http://twitter.com/search?q=%23SupremeCourt) | N/A |
+| 12 | [Arise TV](http://twitter.com/search?q=Arise+TV) | N/A |
+| 13 | [Japa](http://twitter.com/search?q=Japa) | N/A |
+| 14 | [Which Nigerians](http://twitter.com/search?q=Which+Nigerians) | N/A |
+| 15 | [Danny](http://twitter.com/search?q=Danny) | N/A |
+| 16 | [Chinedu](http://twitter.com/search?q=Chinedu) | N/A |
+| 17 | [Kashim Shettima](http://twitter.com/search?q=Kashim+Shettima) | N/A |
+| 18 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
+| 19 | [Mandate](http://twitter.com/search?q=Mandate) | N/A |
+| 20 | [Jubilee in March](http://twitter.com/search?q=Jubilee+in+March) | N/A |
+| 21 | [His Excellency](http://twitter.com/search?q=His+Excellency) | N/A |
+| 22 | [Congratulations to Nigeria](http://twitter.com/search?q=Congratulations+to+Nigeria) | N/A |
+| 23 | [Apostle](http://twitter.com/search?q=Apostle) | N/A |
+| 24 | [Sega](http://twitter.com/search?q=Sega) | N/A |
+| 25 | [Federal Republic of Nigeria](http://twitter.com/search?q=Federal+Republic+of+Nigeria) | N/A |
+| 26 | [May Nigeria](http://twitter.com/search?q=May+Nigeria) | N/A |
+| 27 | [Grace Grace Grace](http://twitter.com/search?q=Grace+Grace+Grace) | N/A |
+| 28 | [Atiku and Obi](http://twitter.com/search?q=Atiku+and+Obi) | N/A |
+| 29 | [Femi Falana](http://twitter.com/search?q=Femi+Falana) | N/A |
+| 30 | [Another 8](http://twitter.com/search?q=Another+8) | N/A |
+| 31 | [Adeboye](http://twitter.com/search?q=Adeboye) | N/A |
+| 32 | [HELL NO](http://twitter.com/search?q=HELL+NO) | N/A |
+| 33 | [Renewed Hope](http://twitter.com/search?q=Renewed+Hope) | N/A |
+| 34 | [Chief of Staff](http://twitter.com/search?q=Chief+of+Staff) | N/A |
+| 35 | [Congratulations Jagaban](http://twitter.com/search?q=Congratulations+Jagaban) | N/A |
+| 36 | [Togo](http://twitter.com/search?q=Togo) | N/A |
+| 37 | [God Bless Nigeria](http://twitter.com/search?q=God+Bless+Nigeria) | N/A |
+| 38 | [Judiciary](http://twitter.com/search?q=Judiciary) | N/A |
+| 39 | [Vice President](http://twitter.com/search?q=Vice+President) | N/A |
+| 40 | [#2023GeneralElections](http://twitter.com/search?q=%232023GeneralElections) | N/A |
+| 41 | [#MoveAbroadByForce](http://twitter.com/search?q=%23MoveAbroadByForce) | N/A |
+| 42 | [#TinubusWalkToVictory](http://twitter.com/search?q=%23TinubusWalkToVictory) | N/A |
+| 43 | [#TwitterDown](http://twitter.com/search?q=%23TwitterDown) | N/A |
+| 44 | [#March1st](http://twitter.com/search?q=%23March1st) | N/A |
+| 45 | [#March2023](http://twitter.com/search?q=%23March2023) | N/A |
+| 46 | [#Visa](http://twitter.com/search?q=%23Visa) | N/A |
+| 47 | [#SanwoLekansi](http://twitter.com/search?q=%23SanwoLekansi) | N/A |
+| 48 | [#MarchWish](http://twitter.com/search?q=%23MarchWish) | N/A |
+| 49 | [#Resignation](http://twitter.com/search?q=%23Resignation) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guarulhos
 
-📆 Last Updated: `2023-03-01 13:21:07 UTC`
+📆 Last Updated: `2023-03-01 14:15:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
-| 2 | [Imagine Dragons](http://twitter.com/search?q=Imagine+Dragons) | N/A |
-| 3 | [Maracanã](http://twitter.com/search?q=Maracan%c3%a3) | N/A |
-| 4 | [Rio Grande do Sul](http://twitter.com/search?q=Rio+Grande+do+Sul) | N/A |
+| 1 | [Copa do Brasil](http://twitter.com/search?q=Copa+do+Brasil) | N/A |
+| 2 | [Coreia do Norte](http://twitter.com/search?q=Coreia+do+Norte) | N/A |
+| 3 | [Rio Grande do Sul](http://twitter.com/search?q=Rio+Grande+do+Sul) | N/A |
+| 4 | [Imagine Dragons](http://twitter.com/search?q=Imagine+Dragons) | N/A |
 | 5 | [Bento Gonçalves](http://twitter.com/search?q=Bento+Gon%c3%a7alves) | N/A |
 | 6 | [Março](http://twitter.com/search?q=Mar%c3%a7o) | N/A |
 | 7 | [Maira Cardi](http://twitter.com/search?q=Maira+Cardi) | N/A |
 | 8 | [Thiago Nigro](http://twitter.com/search?q=Thiago+Nigro) | N/A |
 | 9 | [#GalxeID](http://twitter.com/search?q=%23GalxeID) | N/A |
-| 10 | [Meu Twitter](http://twitter.com/search?q=Meu+Twitter) | N/A |
-| 11 | [#HappyBirthdayJustinBieber](http://twitter.com/search?q=%23HappyBirthdayJustinBieber) | N/A |
-| 12 | [Primo Rico](http://twitter.com/search?q=Primo+Rico) | N/A |
-| 13 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 14 | [#MoonlightChickenEP7](http://twitter.com/search?q=%23MoonlightChickenEP7) | N/A |
-| 15 | [Vitor Pereira](http://twitter.com/search?q=Vitor+Pereira) | Vitor Pereira is a Portuguese football manager and former player. He is currently the manager of Chinese Super League club Shanghai SIPG. The name Vitor Pereira translates to Victor Pereira in English. |
+| 10 | [#maisvocê](http://twitter.com/search?q=%23maisvoc%c3%aa) | N/A |
+| 11 | [Meu Twitter](http://twitter.com/search?q=Meu+Twitter) | N/A |
+| 12 | [#Encontro](http://twitter.com/search?q=%23Encontro) | N/A |
+| 13 | [Primo Rico](http://twitter.com/search?q=Primo+Rico) | N/A |
+| 14 | [C6 Fest](http://twitter.com/search?q=C6+Fest) | N/A |
+| 15 | [#HappyBirthdayJustinBieber](http://twitter.com/search?q=%23HappyBirthdayJustinBieber) | N/A |
 | 16 | [Parabéns Rio de Janeiro](http://twitter.com/search?q=Parab%c3%a9ns+Rio+de+Janeiro) | N/A |
-| 17 | [Just Fontaine](http://twitter.com/search?q=Just+Fontaine) | N/A |
-| 18 | [#Encontro](http://twitter.com/search?q=%23Encontro) | N/A |
-| 19 | [O Ateliê](http://twitter.com/search?q=O+Ateli%c3%aa) | N/A |
-| 20 | [MEU MÊS](http://twitter.com/search?q=MEU+M%c3%8aS) | N/A |
-| 21 | [Cidade Maravilhosa](http://twitter.com/search?q=Cidade+Maravilhosa) | N/A |
-| 22 | [Dorival](http://twitter.com/search?q=Dorival) | Dorival is a French surname. It is derived from the Latin name Dorivallus, which means "gift of the sea". |
-| 23 | [Del Valle](http://twitter.com/search?q=Del+Valle) | N/A |
-| 24 | [Ed Sheeran](http://twitter.com/search?q=Ed+Sheeran) | N/A |
+| 17 | [Cidade Maravilhosa](http://twitter.com/search?q=Cidade+Maravilhosa) | N/A |
+| 18 | [#MoonlightChickenEP7](http://twitter.com/search?q=%23MoonlightChickenEP7) | N/A |
+| 19 | [Cidade Invisível](http://twitter.com/search?q=Cidade+Invis%c3%advel) | N/A |
+| 20 | [Vitor Pereira](http://twitter.com/search?q=Vitor+Pereira) | Vitor Pereira is a Portuguese football manager and former player. He is currently the manager of Chinese Super League club Shanghai SIPG. The name Vitor Pereira translates to Victor Pereira in English. |
+| 21 | [Zoro](http://twitter.com/search?q=Zoro) | N/A |
+| 22 | [Ateliê](http://twitter.com/search?q=Ateli%c3%aa) | N/A |
+| 23 | [Just Fontaine](http://twitter.com/search?q=Just+Fontaine) | N/A |
+| 24 | [Ruy Barbosa](http://twitter.com/search?q=Ruy+Barbosa) | N/A |
 | 25 | [Caxias do Sul](http://twitter.com/search?q=Caxias+do+Sul) | N/A |
-| 26 | [Nelly Furtado](http://twitter.com/search?q=Nelly+Furtado) | N/A |
-| 27 | [Dia de Grêmio](http://twitter.com/search?q=Dia+de+Gr%c3%aamio) | N/A |
-| 28 | [Wano](http://twitter.com/search?q=Wano) | N/A |
-| 29 | [Bluesky](http://twitter.com/search?q=Bluesky) | N/A |
-| 30 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
-| 31 | [Sandro Fantinel](http://twitter.com/search?q=Sandro+Fantinel) | N/A |
-| 32 | [Arthur Aguiar](http://twitter.com/search?q=Arthur+Aguiar) | N/A |
-| 33 | [Haddad](http://twitter.com/search?q=Haddad) | N/A |
-| 34 | [Petrobras](http://twitter.com/search?q=Petrobras) | N/A |
-| 35 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
-| 36 | [Vivian](http://twitter.com/search?q=Vivian) | N/A |
-| 37 | [Vexame](http://twitter.com/search?q=Vexame) | N/A |
-| 38 | [Landim](http://twitter.com/search?q=Landim) | N/A |
-| 39 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
-| 40 | [BIEBER DAY](http://twitter.com/search?q=BIEBER+DAY) | N/A |
-| 41 | [Brasileira](http://twitter.com/search?q=Brasileira) | N/A |
-| 42 | [Dia 1](http://twitter.com/search?q=Dia+1) | N/A |
-| 43 | [Recopa](http://twitter.com/search?q=Recopa) | N/A |
-| 44 | [Vereador](http://twitter.com/search?q=Vereador) | N/A |
-| 45 | [Ana Clara](http://twitter.com/search?q=Ana+Clara) | Ana Clara is a Portuguese name meaning "Graceful and Bright". It is derived from the Latin name Anna, which means "grace", and Clara, which means "bright". |
-| 46 | [Renan Calheiros](http://twitter.com/search?q=Renan+Calheiros) | Renan Calheiros is a Brazilian politician who served as President of the Senate from 2007 to 2019. He is a member of the Brazilian Democratic Movement Party (PMDB). The name Renan Calheiros translates to "renewed warrior" in English. |
+| 26 | [MEU MÊS](http://twitter.com/search?q=MEU+M%c3%8aS) | N/A |
+| 27 | [Armin](http://twitter.com/search?q=Armin) | N/A |
+| 28 | [Christine](http://twitter.com/search?q=Christine) | N/A |
+| 29 | [Dorival](http://twitter.com/search?q=Dorival) | Dorival is a French surname. It is derived from the Latin name Dorivallus, which means "gift of the sea". |
+| 30 | [Ed Sheeran](http://twitter.com/search?q=Ed+Sheeran) | N/A |
+| 31 | [Wano](http://twitter.com/search?q=Wano) | N/A |
+| 32 | [nelly furtado](http://twitter.com/search?q=nelly+furtado) | N/A |
+| 33 | [Dia de Grêmio](http://twitter.com/search?q=Dia+de+Gr%c3%aamio) | N/A |
+| 34 | [Del Valle](http://twitter.com/search?q=Del+Valle) | N/A |
+| 35 | [Bluesky](http://twitter.com/search?q=Bluesky) | N/A |
+| 36 | [Sandro Fantinel](http://twitter.com/search?q=Sandro+Fantinel) | N/A |
+| 37 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
+| 38 | [Renan Calheiros](http://twitter.com/search?q=Renan+Calheiros) | Renan Calheiros is a Brazilian politician who served as President of the Senate from 2007 to 2019. He is a member of the Brazilian Democratic Movement Party (PMDB). The name Renan Calheiros translates to "renewed warrior" in English. |
+| 39 | [coldplay](http://twitter.com/search?q=coldplay) | N/A |
+| 40 | [Luciano Hang](http://twitter.com/search?q=Luciano+Hang) | N/A |
+| 41 | [Arthur Aguiar](http://twitter.com/search?q=Arthur+Aguiar) | N/A |
+| 42 | [Grogu](http://twitter.com/search?q=Grogu) | N/A |
+| 43 | [Dia 1](http://twitter.com/search?q=Dia+1) | N/A |
+| 44 | [Brasileira](http://twitter.com/search?q=Brasileira) | N/A |
+| 45 | [Mauro Cezar](http://twitter.com/search?q=Mauro+Cezar) | N/A |
+| 46 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
 | 47 | [Bretas](http://twitter.com/search?q=Bretas) | N/A |
-| 48 | [Flamenguista](http://twitter.com/search?q=Flamenguista) | N/A |
-| 49 | [Diego Alves](http://twitter.com/search?q=Diego+Alves) | N/A |
-| 50 | [Andres](http://twitter.com/search?q=Andres) | N/A |
+| 48 | [Landim](http://twitter.com/search?q=Landim) | N/A |
+| 49 | [Petrobras](http://twitter.com/search?q=Petrobras) | N/A |
+| 50 | [Dangerously In Love](http://twitter.com/search?q=Dangerously+In+Love) | N/A |
 
 
 
