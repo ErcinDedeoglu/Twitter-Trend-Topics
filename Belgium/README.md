@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belgium
 
-📆 Last Updated: `2023-03-01 12:18:25 UTC`
+📆 Last Updated: `2023-03-01 13:21:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,49 +22,49 @@ This is top 50 for Belgium
 | 5 | [Schoofs](http://twitter.com/search?q=Schoofs) | N/A |
 | 6 | [Patrick](http://twitter.com/search?q=Patrick) | Patrick is a given name derived from the Latin name Patricius, meaning "nobleman". It is a popular name in many English-speaking countries, particularly in Ireland, where it is the third most common male name. |
 | 7 | [VDAB](http://twitter.com/search?q=VDAB) | N/A |
-| 8 | [#terzaketv](http://twitter.com/search?q=%23terzaketv) | N/A |
-| 9 | [#cepslab23](http://twitter.com/search?q=%23cepslab23) | N/A |
-| 10 | [Greece](http://twitter.com/search?q=Greece) | N/A |
-| 11 | [ARCO](http://twitter.com/search?q=ARCO) | N/A |
-| 12 | [Zoro](http://twitter.com/search?q=Zoro) | N/A |
-| 13 | [Grondwettelijk Hof](http://twitter.com/search?q=Grondwettelijk+Hof) | N/A |
+| 8 | [#cepslab23](http://twitter.com/search?q=%23cepslab23) | N/A |
+| 9 | [Greece](http://twitter.com/search?q=Greece) | N/A |
+| 10 | [#deafspraak](http://twitter.com/search?q=%23deafspraak) | N/A |
+| 11 | [Grondwettelijk Hof](http://twitter.com/search?q=Grondwettelijk+Hof) | N/A |
+| 12 | [Arco](http://twitter.com/search?q=Arco) | N/A |
+| 13 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
 | 14 | [Jeremie](http://twitter.com/search?q=Jeremie) | N/A |
 | 15 | [Brugpensioen](http://twitter.com/search?q=Brugpensioen) | N/A |
 | 16 | [Fally](http://twitter.com/search?q=Fally) | N/A |
-| 17 | [Ciranni](http://twitter.com/search?q=Ciranni) | N/A |
-| 18 | [Zulte Waregem](http://twitter.com/search?q=Zulte+Waregem) | N/A |
-| 19 | [Bouchez](http://twitter.com/search?q=Bouchez) | N/A |
-| 20 | [Kosovo](http://twitter.com/search?q=Kosovo) | N/A |
-| 21 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 17 | [Zulte Waregem](http://twitter.com/search?q=Zulte+Waregem) | N/A |
+| 18 | [Bouchez](http://twitter.com/search?q=Bouchez) | N/A |
+| 19 | [Kosovo](http://twitter.com/search?q=Kosovo) | N/A |
+| 20 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 21 | [Elchardus](http://twitter.com/search?q=Elchardus) | N/A |
 | 22 | [AC Milan](http://twitter.com/search?q=AC+Milan) | AC Milan is a professional Italian football club based in Milan, Italy. The club is one of the most successful teams in the world, having won 18 FIFA and UEFA titles. The acronym AC stands for Associazione Calcio (Italian for Football Association). |
-| 23 | [BNP Paribas](http://twitter.com/search?q=BNP+Paribas) | N/A |
+| 23 | [Elon](http://twitter.com/search?q=Elon) | N/A |
 | 24 | [Creed III](http://twitter.com/search?q=Creed+III) | N/A |
-| 25 | [mark elchardus](http://twitter.com/search?q=mark+elchardus) | N/A |
-| 26 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
-| 27 | [Rechters](http://twitter.com/search?q=Rechters) | N/A |
-| 28 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
-| 29 | [Serbia](http://twitter.com/search?q=Serbia) | N/A |
+| 25 | [BNP Paribas](http://twitter.com/search?q=BNP+Paribas) | N/A |
+| 26 | [Zoro](http://twitter.com/search?q=Zoro) | N/A |
+| 27 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 28 | [Rechters](http://twitter.com/search?q=Rechters) | N/A |
+| 29 | [Ciranni](http://twitter.com/search?q=Ciranni) | N/A |
 | 30 | [N-VA](http://twitter.com/search?q=N-VA) | N/A |
-| 31 | [Creed 3](http://twitter.com/search?q=Creed+3) | N/A |
-| 32 | [Windsor Framework](http://twitter.com/search?q=Windsor+Framework) | N/A |
-| 33 | [Vakbonden](http://twitter.com/search?q=Vakbonden) | N/A |
-| 34 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
-| 35 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 36 | [Julien Bert](http://twitter.com/search?q=Julien+Bert) | N/A |
+| 31 | [Serbia](http://twitter.com/search?q=Serbia) | N/A |
+| 32 | [Creed 3](http://twitter.com/search?q=Creed+3) | N/A |
+| 33 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
+| 34 | [Windsor Framework](http://twitter.com/search?q=Windsor+Framework) | N/A |
+| 35 | [Vakbonden](http://twitter.com/search?q=Vakbonden) | N/A |
+| 36 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
 | 37 | [Northern Ireland](http://twitter.com/search?q=Northern+Ireland) | N/A |
 | 38 | [DeSantis](http://twitter.com/search?q=DeSantis) | DeSantis is a surname of Italian origin. It is derived from the Latin word "desanctis", which means "of the saints". In English, it can be translated to mean "belonging to the saints". |
-| 39 | [Noordzee](http://twitter.com/search?q=Noordzee) | N/A |
-| 40 | [EVRM](http://twitter.com/search?q=EVRM) | N/A |
-| 41 | [Parlement](http://twitter.com/search?q=Parlement) | N/A |
-| 42 | [DAN HOWELL](http://twitter.com/search?q=DAN+HOWELL) | N/A |
-| 43 | [Werken](http://twitter.com/search?q=Werken) | N/A |
-| 44 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
-| 45 | [ehrm](http://twitter.com/search?q=ehrm) | N/A |
-| 46 | [De VAR](http://twitter.com/search?q=De+VAR) | N/A |
-| 47 | [BMTH](http://twitter.com/search?q=BMTH) | N/A |
-| 48 | [Payet](http://twitter.com/search?q=Payet) | Payet is a French surname. It is derived from the Old French word "paie," which means "payment." In English, it can be translated to mean "one who pays." |
-| 49 | [Noël Le Graët](http://twitter.com/search?q=No%c3%abl+Le+Gra%c3%abt) | N/A |
-| 50 | [Bpost](http://twitter.com/search?q=Bpost) | N/A |
+| 39 | [Koen Geens](http://twitter.com/search?q=Koen+Geens) | N/A |
+| 40 | [Ethnicité](http://twitter.com/search?q=Ethnicit%c3%a9) | N/A |
+| 41 | [Noordzee](http://twitter.com/search?q=Noordzee) | N/A |
+| 42 | [EVRM](http://twitter.com/search?q=EVRM) | N/A |
+| 43 | [Dan Howell](http://twitter.com/search?q=Dan+Howell) | N/A |
+| 44 | [Turks](http://twitter.com/search?q=Turks) | N/A |
+| 45 | [Werken](http://twitter.com/search?q=Werken) | N/A |
+| 46 | [Jambon](http://twitter.com/search?q=Jambon) | N/A |
+| 47 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
+| 48 | [ehrm](http://twitter.com/search?q=ehrm) | N/A |
+| 49 | [Julien Bert](http://twitter.com/search?q=Julien+Bert) | N/A |
+| 50 | [De VAR](http://twitter.com/search?q=De+VAR) | N/A |
 
 
 

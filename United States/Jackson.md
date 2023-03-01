@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jackson
 
-📆 Last Updated: `2023-03-01 12:18:18 UTC`
+📆 Last Updated: `2023-03-01 13:21:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [DAWGS](http://twitter.com/search?q=DAWGS) | N/A |
+| 1 | [Dawgs](http://twitter.com/search?q=Dawgs) | N/A |
 | 2 | [mississippi state](http://twitter.com/search?q=mississippi+state) | N/A |
 | 3 | [#TwitterDown](http://twitter.com/search?q=%23TwitterDown) | N/A |
-| 4 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 5 | [Welcome to Twitter](http://twitter.com/search?q=Welcome+to+Twitter) | N/A |
+| 4 | [#WomensHistoryMonth](http://twitter.com/search?q=%23WomensHistoryMonth) | N/A |
+| 5 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
 | 6 | [New Month](http://twitter.com/search?q=New+Month) | N/A |
-| 7 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
-| 8 | [#WomensHistoryMonth](http://twitter.com/search?q=%23WomensHistoryMonth) | N/A |
-| 9 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
-| 10 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
-| 11 | [Daily Quordle 401](http://twitter.com/search?q=Daily+Quordle+401) | N/A |
-| 12 | [Beetlejuice](http://twitter.com/search?q=Beetlejuice) | N/A |
+| 7 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
+| 8 | [Welcome to Twitter](http://twitter.com/search?q=Welcome+to+Twitter) | N/A |
+| 9 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
+| 10 | [Happy 1st](http://twitter.com/search?q=Happy+1st) | N/A |
+| 11 | [Beetlejuice](http://twitter.com/search?q=Beetlejuice) | N/A |
+| 12 | [Rabbit Rabbit](http://twitter.com/search?q=Rabbit+Rabbit) | N/A |
 | 13 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
-| 14 | [Rabbit Rabbit](http://twitter.com/search?q=Rabbit+Rabbit) | N/A |
-| 15 | [Did Twitter](http://twitter.com/search?q=Did+Twitter) | N/A |
-| 16 | [Jonathan Quick](http://twitter.com/search?q=Jonathan+Quick) | N/A |
-| 17 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
-| 18 | [Wray](http://twitter.com/search?q=Wray) | N/A |
-| 19 | [March Madness](http://twitter.com/search?q=March+Madness) | N/A |
-| 20 | [Avon](http://twitter.com/search?q=Avon) | N/A |
-| 21 | [Tinubu](http://twitter.com/search?q=Tinubu) | N/A |
-| 22 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 23 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
-| 24 | [Nimbus](http://twitter.com/search?q=Nimbus) | N/A |
-| 25 | [Strand](http://twitter.com/search?q=Strand) | N/A |
-| 26 | [Sean Penn](http://twitter.com/search?q=Sean+Penn) | N/A |
-| 27 | [Blazers](http://twitter.com/search?q=Blazers) | Blazers are a type of jacket, typically with a single row of buttons and a notched lapel. They are usually made from wool or cotton and can be worn as part of a suit or as a separate item. Blazers are often associated with formal occasions, but they can also be worn casually. |
-| 28 | [Maki](http://twitter.com/search?q=Maki) | N/A |
-| 29 | [Quickie](http://twitter.com/search?q=Quickie) | N/A |
-| 30 | [Paul Vallas](http://twitter.com/search?q=Paul+Vallas) | N/A |
-| 31 | [Greece](http://twitter.com/search?q=Greece) | N/A |
-| 32 | [Hoover](http://twitter.com/search?q=Hoover) | N/A |
-| 33 | [Brandon Johnson](http://twitter.com/search?q=Brandon+Johnson) | N/A |
-| 34 | [Kaeya](http://twitter.com/search?q=Kaeya) | N/A |
-| 35 | [Ty Lue](http://twitter.com/search?q=Ty+Lue) | Ty Lue is the name of an American basketball coach and former player. He is currently the head coach of the Los Angeles Clippers of the National Basketball Association (NBA). The name "Ty Lue" is derived from his given name, Tyronn. |
-| 36 | [Raskin](http://twitter.com/search?q=Raskin) | N/A |
-| 37 | [Witch Queen](http://twitter.com/search?q=Witch+Queen) | N/A |
-| 38 | [Morris](http://twitter.com/search?q=Morris) | N/A |
-| 39 | [Megumi](http://twitter.com/search?q=Megumi) | Megumi is a Japanese female given name. It is usually written with the characters 恵, meaning “blessing”, and 美, meaning “beauty”. In English, it can be translated to mean “blessed beauty”. |
-| 40 | [Lightfall](http://twitter.com/search?q=Lightfall) | N/A |
-| 41 | [Ullmark](http://twitter.com/search?q=Ullmark) | N/A |
-| 42 | [Suki](http://twitter.com/search?q=Suki) | N/A |
-| 43 | [Donte](http://twitter.com/search?q=Donte) | Donte is a given name of Italian origin, derived from the Latin name "Donatus". It is a variant of the name "Donato" and can be translated to mean "given" or "gift". |
-| 44 | [Dray](http://twitter.com/search?q=Dray) | N/A |
-| 45 | [Starfield](http://twitter.com/search?q=Starfield) | Starfield is a term used to describe a night sky filled with stars. It is often used to refer to the beauty of the night sky, and its ability to evoke feelings of awe and wonder. |
-| 46 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
-| 47 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
-| 48 | [#March1st](http://twitter.com/search?q=%23March1st) | N/A |
+| 14 | [Daily Quordle 401](http://twitter.com/search?q=Daily+Quordle+401) | N/A |
+| 15 | [March Madness](http://twitter.com/search?q=March+Madness) | N/A |
+| 16 | [New Blessings](http://twitter.com/search?q=New+Blessings) | N/A |
+| 17 | [Eli Lilly](http://twitter.com/search?q=Eli+Lilly) | N/A |
+| 18 | [Happy Hump](http://twitter.com/search?q=Happy+Hump) | N/A |
+| 19 | [Wray](http://twitter.com/search?q=Wray) | N/A |
+| 20 | [Almighty](http://twitter.com/search?q=Almighty) | N/A |
+| 21 | [St David](http://twitter.com/search?q=St+David) | N/A |
+| 22 | [New Goals](http://twitter.com/search?q=New+Goals) | N/A |
+| 23 | [Dark Side of the Moon](http://twitter.com/search?q=Dark+Side+of+the+Moon) | N/A |
+| 24 | [Jonathan Quick](http://twitter.com/search?q=Jonathan+Quick) | N/A |
+| 25 | [Did Twitter](http://twitter.com/search?q=Did+Twitter) | N/A |
+| 26 | [Fuddruckers](http://twitter.com/search?q=Fuddruckers) | N/A |
+| 27 | [Happy New Year](http://twitter.com/search?q=Happy+New+Year) | Happy New Year is a phrase used to express good wishes for the upcoming year. It is typically said at the end of the year, on New Year's Eve or New Year's Day, to wish someone a prosperous and successful year ahead. |
+| 28 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
+| 29 | [Sean Penn](http://twitter.com/search?q=Sean+Penn) | N/A |
+| 30 | [Frogmore](http://twitter.com/search?q=Frogmore) | N/A |
+| 31 | [Vanessa Bryant](http://twitter.com/search?q=Vanessa+Bryant) | N/A |
+| 32 | [HAPPY BIRTHDAY SAPNAP](http://twitter.com/search?q=HAPPY+BIRTHDAY+SAPNAP) | N/A |
+| 33 | [Greece](http://twitter.com/search?q=Greece) | N/A |
+| 34 | [Brandon Johnson](http://twitter.com/search?q=Brandon+Johnson) | N/A |
+| 35 | [Tinubu](http://twitter.com/search?q=Tinubu) | N/A |
+| 36 | [Avon](http://twitter.com/search?q=Avon) | N/A |
+| 37 | [Strand](http://twitter.com/search?q=Strand) | N/A |
+| 38 | [San Andreas](http://twitter.com/search?q=San+Andreas) | N/A |
+| 39 | [Raskin](http://twitter.com/search?q=Raskin) | N/A |
+| 40 | [Paul Vallas](http://twitter.com/search?q=Paul+Vallas) | N/A |
+| 41 | [Nimbus](http://twitter.com/search?q=Nimbus) | N/A |
+| 42 | [Hoover](http://twitter.com/search?q=Hoover) | N/A |
+| 43 | [Witch Queen](http://twitter.com/search?q=Witch+Queen) | N/A |
+| 44 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
+| 45 | [Ed Sheeran](http://twitter.com/search?q=Ed+Sheeran) | N/A |
+| 46 | [Ty Lue](http://twitter.com/search?q=Ty+Lue) | Ty Lue is the name of an American basketball coach and former player. He is currently the head coach of the Los Angeles Clippers of the National Basketball Association (NBA). The name "Ty Lue" is derived from his given name, Tyronn. |
+| 47 | [Suki](http://twitter.com/search?q=Suki) | N/A |
+| 48 | [Lightfall](http://twitter.com/search?q=Lightfall) | N/A |
 
 
 
