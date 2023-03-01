@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Harcourt
 
-📆 Last Updated: `2023-03-01 01:45:37 UTC`
+📆 Last Updated: `2023-03-01 02:44:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,46 +24,46 @@ This is top 50 for [Nigeria](</Nigeria>)
 | 7 | [#CongratulationsObidatti](http://twitter.com/search?q=%23CongratulationsObidatti) | N/A |
 | 8 | [25% in FCT](http://twitter.com/search?q=25%25+in+FCT) | N/A |
 | 9 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
-| 10 | [BVAS](http://twitter.com/search?q=BVAS) | BVAS stands for Behavioral and Vital Signs. It is a term used in the medical field to refer to the physical and mental signs that can be used to assess a patient's health. These signs include heart rate, blood pressure, temperature, respiration rate, and other indicators of physical and mental health. |
-| 11 | [Obasanjo](http://twitter.com/search?q=Obasanjo) | Obasanjo is a Yoruba name meaning "the king has returned". It is the surname of Olusegun Obasanjo, a former Nigerian military leader and two-term president. |
-| 12 | [Abuja](http://twitter.com/search?q=Abuja) | N/A |
+| 10 | [Abuja](http://twitter.com/search?q=Abuja) | N/A |
+| 11 | [BVAS](http://twitter.com/search?q=BVAS) | BVAS stands for Behavioral and Vital Signs. It is a term used in the medical field to refer to the physical and mental signs that can be used to assess a patient's health. These signs include heart rate, blood pressure, temperature, respiration rate, and other indicators of physical and mental health. |
+| 12 | [Obasanjo](http://twitter.com/search?q=Obasanjo) | Obasanjo is a Yoruba name meaning "the king has returned". It is the surname of Olusegun Obasanjo, a former Nigerian military leader and two-term president. |
 | 13 | [IREV](http://twitter.com/search?q=IREV) | N/A |
-| 14 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
-| 15 | [25% in the FCT](http://twitter.com/search?q=25%25+in+the+FCT) | N/A |
-| 16 | [ECOWAS](http://twitter.com/search?q=ECOWAS) | N/A |
-| 17 | [Ekiti](http://twitter.com/search?q=Ekiti) | N/A |
-| 18 | [Plateau](http://twitter.com/search?q=Plateau) | N/A |
-| 19 | [Fayose](http://twitter.com/search?q=Fayose) | N/A |
-| 20 | [President Elect](http://twitter.com/search?q=President+Elect) | N/A |
-| 21 | [Yoruba](http://twitter.com/search?q=Yoruba) | N/A |
-| 22 | [honorable kelechi](http://twitter.com/search?q=honorable+kelechi) | N/A |
-| 23 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
-| 24 | [LP and PDP](http://twitter.com/search?q=LP+and+PDP) | N/A |
-| 25 | [Rigging](http://twitter.com/search?q=Rigging) | N/A |
-| 26 | [RCCG](http://twitter.com/search?q=RCCG) | N/A |
-| 27 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 28 | [PDP and LP](http://twitter.com/search?q=PDP+and+LP) | N/A |
-| 29 | [Game Over](http://twitter.com/search?q=Game+Over) | N/A |
-| 30 | [Jonathan](http://twitter.com/search?q=Jonathan) | N/A |
-| 31 | [Section 299](http://twitter.com/search?q=Section+299) | N/A |
-| 32 | [Enugu](http://twitter.com/search?q=Enugu) | N/A |
-| 33 | [11th of March](http://twitter.com/search?q=11th+of+March) | N/A |
+| 14 | [25% in the FCT](http://twitter.com/search?q=25%25+in+the+FCT) | N/A |
+| 15 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
+| 16 | [LP and PDP](http://twitter.com/search?q=LP+and+PDP) | N/A |
+| 17 | [ECOWAS](http://twitter.com/search?q=ECOWAS) | N/A |
+| 18 | [Ekiti](http://twitter.com/search?q=Ekiti) | N/A |
+| 19 | [Yoruba](http://twitter.com/search?q=Yoruba) | N/A |
+| 20 | [Plateau](http://twitter.com/search?q=Plateau) | N/A |
+| 21 | [PDP and LP](http://twitter.com/search?q=PDP+and+LP) | N/A |
+| 22 | [Fayose](http://twitter.com/search?q=Fayose) | N/A |
+| 23 | [President Elect](http://twitter.com/search?q=President+Elect) | N/A |
+| 24 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
+| 25 | [honorable kelechi](http://twitter.com/search?q=honorable+kelechi) | N/A |
+| 26 | [Section 299](http://twitter.com/search?q=Section+299) | N/A |
+| 27 | [Rigging](http://twitter.com/search?q=Rigging) | N/A |
+| 28 | [RCCG](http://twitter.com/search?q=RCCG) | N/A |
+| 29 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 30 | [Mahmood Yakubu](http://twitter.com/search?q=Mahmood+Yakubu) | N/A |
+| 31 | [Constitution](http://twitter.com/search?q=Constitution) | N/A |
+| 32 | [LPDP](http://twitter.com/search?q=LPDP) | N/A |
+| 33 | [Jonathan](http://twitter.com/search?q=Jonathan) | N/A |
 | 34 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
-| 35 | [Constitution](http://twitter.com/search?q=Constitution) | N/A |
-| 36 | [Banky](http://twitter.com/search?q=Banky) | N/A |
-| 37 | [Mahmood](http://twitter.com/search?q=Mahmood) | N/A |
-| 38 | [Rigged](http://twitter.com/search?q=Rigged) | N/A |
-| 39 | [Femi Falana](http://twitter.com/search?q=Femi+Falana) | N/A |
-| 40 | [Imagination](http://twitter.com/search?q=Imagination) | N/A |
-| 41 | [Bauchi and Gombe](http://twitter.com/search?q=Bauchi+and+Gombe) | N/A |
-| 42 | [Edeoga](http://twitter.com/search?q=Edeoga) | N/A |
-| 43 | [Obio-Akpor](http://twitter.com/search?q=Obio-Akpor) | N/A |
-| 44 | [Sanwo Olu](http://twitter.com/search?q=Sanwo+Olu) | N/A |
-| 45 | [Federal Capital Territory](http://twitter.com/search?q=Federal+Capital+Territory) | N/A |
+| 35 | [Femi Falana](http://twitter.com/search?q=Femi+Falana) | N/A |
+| 36 | [11th of March](http://twitter.com/search?q=11th+of+March) | N/A |
+| 37 | [Rigged](http://twitter.com/search?q=Rigged) | N/A |
+| 38 | [Enugu](http://twitter.com/search?q=Enugu) | N/A |
+| 39 | [Game Over](http://twitter.com/search?q=Game+Over) | N/A |
+| 40 | [Benue](http://twitter.com/search?q=Benue) | N/A |
+| 41 | [Excel](http://twitter.com/search?q=Excel) | N/A |
+| 42 | [Bauchi and Gombe](http://twitter.com/search?q=Bauchi+and+Gombe) | N/A |
+| 43 | [25% of FCT](http://twitter.com/search?q=25%25+of+FCT) | N/A |
+| 44 | [FCT 25%](http://twitter.com/search?q=FCT+25%25) | N/A |
+| 45 | [Section 134](http://twitter.com/search?q=Section+134) | N/A |
 | 46 | [Royals](http://twitter.com/search?q=Royals) | N/A |
-| 47 | [Section 134](http://twitter.com/search?q=Section+134) | N/A |
-| 48 | [Excel](http://twitter.com/search?q=Excel) | N/A |
-| 49 | [LPDP](http://twitter.com/search?q=LPDP) | N/A |
+| 47 | [Banky](http://twitter.com/search?q=Banky) | N/A |
+| 48 | [Sanwo Olu](http://twitter.com/search?q=Sanwo+Olu) | N/A |
+| 49 | [Imagination](http://twitter.com/search?q=Imagination) | N/A |
 
 
 

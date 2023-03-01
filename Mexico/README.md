@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico
 
-📆 Last Updated: `2023-03-01 01:46:10 UTC`
+📆 Last Updated: `2023-03-01 02:45:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,45 @@ This is top 50 for Mexico
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#SalarioRosaContinua](http://twitter.com/search?q=%23SalarioRosaContinua) | N/A |
-| 2 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
-| 3 | [#CanastaBásicaAlAlza](http://twitter.com/search?q=%23CanastaB%c3%a1sicaAlAlza) | N/A |
-| 4 | [Futbolista](http://twitter.com/search?q=Futbolista) | N/A |
-| 5 | [Piloto](http://twitter.com/search?q=Piloto) | N/A |
-| 6 | [Juan Collado](http://twitter.com/search?q=Juan+Collado) | N/A |
-| 7 | [#QuéPasóOlallo](http://twitter.com/search?q=%23Qu%c3%a9Pas%c3%b3Olallo) | N/A |
-| 8 | [Andy Benavides](http://twitter.com/search?q=Andy+Benavides) | N/A |
-| 9 | [Samuel](http://twitter.com/search?q=Samuel) | N/A |
+| 2 | [Piloto](http://twitter.com/search?q=Piloto) | N/A |
+| 3 | [Futbolista](http://twitter.com/search?q=Futbolista) | N/A |
+| 4 | [Juan Collado](http://twitter.com/search?q=Juan+Collado) | N/A |
+| 5 | [#CanastaBásicaAlAlza](http://twitter.com/search?q=%23CanastaB%c3%a1sicaAlAlza) | N/A |
+| 6 | [Cabeza de Vaca](http://twitter.com/search?q=Cabeza+de+Vaca) | N/A |
+| 7 | [Andy Benavides](http://twitter.com/search?q=Andy+Benavides) | N/A |
+| 8 | [Samuel](http://twitter.com/search?q=Samuel) | N/A |
+| 9 | [#AgustD_SUGA_Tour](http://twitter.com/search?q=%23AgustD_SUGA_Tour) | N/A |
 | 10 | [#OvidioNoSeToca](http://twitter.com/search?q=%23OvidioNoSeToca) | N/A |
-| 11 | [Cabeza de Vaca](http://twitter.com/search?q=Cabeza+de+Vaca) | N/A |
-| 12 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 13 | [#AgustD_SUGA_Tour](http://twitter.com/search?q=%23AgustD_SUGA_Tour) | N/A |
+| 11 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 12 | [#SUGA_AgustD_TOUR](http://twitter.com/search?q=%23SUGA_AgustD_TOUR) | N/A |
+| 13 | [Santa Catarina](http://twitter.com/search?q=Santa+Catarina) | N/A |
 | 14 | [Maxico](http://twitter.com/search?q=Maxico) | N/A |
-| 15 | [moonbin](http://twitter.com/search?q=moonbin) | N/A |
-| 16 | [Santa Catarina](http://twitter.com/search?q=Santa+Catarina) | N/A |
+| 15 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 16 | [moonbin](http://twitter.com/search?q=moonbin) | N/A |
 | 17 | [Nuevo Laredo](http://twitter.com/search?q=Nuevo+Laredo) | N/A |
-| 18 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 19 | [sanha](http://twitter.com/search?q=sanha) | N/A |
-| 20 | [Peter Pan](http://twitter.com/search?q=Peter+Pan) | N/A |
-| 21 | [Tinkerbell](http://twitter.com/search?q=Tinkerbell) | N/A |
-| 22 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
-| 23 | [Xalostoc](http://twitter.com/search?q=Xalostoc) | N/A |
-| 24 | [Cremonese](http://twitter.com/search?q=Cremonese) | N/A |
-| 25 | [Campanita](http://twitter.com/search?q=Campanita) | N/A |
-| 26 | [Carlos Alcaraz](http://twitter.com/search?q=Carlos+Alcaraz) | Carlos Alcaraz is a Spanish professional tennis player. He is the youngest player to ever win a match on the ATP Tour, having done so at the age of 15 in 2021. The name Carlos Alcaraz means "strong warrior" in English. |
-| 27 | [Dinamarca](http://twitter.com/search?q=Dinamarca) | N/A |
-| 28 | [Sedena](http://twitter.com/search?q=Sedena) | N/A |
-| 29 | [Luzu](http://twitter.com/search?q=Luzu) | Luzu is a Spanish word that means light. It is often used to refer to a bright, cheerful, and optimistic attitude. |
-| 30 | [Carioca](http://twitter.com/search?q=Carioca) | N/A |
-| 31 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
-| 32 | [Enfermedades Raras](http://twitter.com/search?q=Enfermedades+Raras) | N/A |
-| 33 | [Quackity](http://twitter.com/search?q=Quackity) | N/A |
-| 34 | [The World Is A Vampire](http://twitter.com/search?q=The+World+Is+A+Vampire) | N/A |
-| 35 | [N.L.](http://twitter.com/search?q=N.L.) | N/A |
-| 36 | [Wactor](http://twitter.com/search?q=Wactor) | N/A |
-| 37 | [Chumel](http://twitter.com/search?q=Chumel) | N/A |
-| 38 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
-| 39 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 40 | [Astro](http://twitter.com/search?q=Astro) | N/A |
-| 41 | [Derechos](http://twitter.com/search?q=Derechos) | N/A |
-| 42 | [Peru](http://twitter.com/search?q=Peru) | Peru is a country located in western South America. It is bordered by Ecuador, Colombia, Brazil, Bolivia, and Chile. The official language of Peru is Spanish and its capital city is Lima. The name Peru comes from the Quechua word “piruw” which means “land of abundance”. |
-| 43 | [#SUGA_AgustD_TOUR](http://twitter.com/search?q=%23SUGA_AgustD_TOUR) | N/A |
-| 44 | [#Chalco](http://twitter.com/search?q=%23Chalco) | N/A |
-| 45 | [#SquidCraft2](http://twitter.com/search?q=%23SquidCraft2) | N/A |
-| 46 | [#AmloEstaDesesperado](http://twitter.com/search?q=%23AmloEstaDesesperado) | N/A |
-| 47 | [#LaNuevaLínea1](http://twitter.com/search?q=%23LaNuevaL%c3%adnea1) | N/A |
-| 48 | [#AIFA](http://twitter.com/search?q=%23AIFA) | N/A |
-| 49 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 50 | [#Ecatepec](http://twitter.com/search?q=%23Ecatepec) | N/A |
+| 18 | [sanha](http://twitter.com/search?q=sanha) | N/A |
+| 19 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
+| 20 | [HBO Max](http://twitter.com/search?q=HBO+Max) | HBO Max is a streaming service from WarnerMedia, the parent company of HBO. It offers a wide selection of movies, TV shows, and original content from HBO, Warner Bros., DC Entertainment, Cartoon Network, Adult Swim, and more. The service also includes access to HBO Now and Cinemax. The name "Max" is derived from the Latin word for "greatest," emphasizing the breadth of content available on the platform. |
+| 21 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 22 | [Tinkerbell](http://twitter.com/search?q=Tinkerbell) | N/A |
+| 23 | [Carlos Alcaraz](http://twitter.com/search?q=Carlos+Alcaraz) | Carlos Alcaraz is a Spanish professional tennis player. He is the youngest player to ever win a match on the ATP Tour, having done so at the age of 15 in 2021. The name Carlos Alcaraz means "strong warrior" in English. |
+| 24 | [Luzu](http://twitter.com/search?q=Luzu) | Luzu is a Spanish word that means light. It is often used to refer to a bright, cheerful, and optimistic attitude. |
+| 25 | [Sedena](http://twitter.com/search?q=Sedena) | N/A |
+| 26 | [Enfermedades Raras](http://twitter.com/search?q=Enfermedades+Raras) | N/A |
+| 27 | [Carioca](http://twitter.com/search?q=Carioca) | N/A |
+| 28 | [The World Is A Vampire](http://twitter.com/search?q=The+World+Is+A+Vampire) | N/A |
+| 29 | [Derechos](http://twitter.com/search?q=Derechos) | N/A |
+| 30 | [N.L.](http://twitter.com/search?q=N.L.) | N/A |
+| 31 | [#SquidCraft2](http://twitter.com/search?q=%23SquidCraft2) | N/A |
+| 32 | [#Chalco](http://twitter.com/search?q=%23Chalco) | N/A |
+| 33 | [#AmloEstaDesesperado](http://twitter.com/search?q=%23AmloEstaDesesperado) | N/A |
+| 34 | [#PeterPanAndWendy](http://twitter.com/search?q=%23PeterPanAndWendy) | N/A |
+| 35 | [#TeslaEnMexico](http://twitter.com/search?q=%23TeslaEnMexico) | N/A |
+| 36 | [#AIFA](http://twitter.com/search?q=%23AIFA) | N/A |
+| 37 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 38 | [#LaNuevaLínea1](http://twitter.com/search?q=%23LaNuevaL%c3%adnea1) | N/A |
+| 39 | [#Ecatepec](http://twitter.com/search?q=%23Ecatepec) | N/A |
+| 40 | [#incendio](http://twitter.com/search?q=%23incendio) | N/A |
 
 
 

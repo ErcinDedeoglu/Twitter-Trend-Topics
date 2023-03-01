@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Benin City
 
-📆 Last Updated: `2023-03-01 01:45:37 UTC`
+📆 Last Updated: `2023-03-01 02:44:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,47 +24,47 @@ This is top 50 for [Nigeria](</Nigeria>)
 | 7 | [#CongratulationsObidatti](http://twitter.com/search?q=%23CongratulationsObidatti) | N/A |
 | 8 | [25% in FCT](http://twitter.com/search?q=25%25+in+FCT) | N/A |
 | 9 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
-| 10 | [#TinubuIsNotComing](http://twitter.com/search?q=%23TinubuIsNotComing) | N/A |
-| 11 | [BVAS](http://twitter.com/search?q=BVAS) | BVAS stands for Behavioral and Vital Signs. It is a term used in the medical field to refer to the physical and mental signs that can be used to assess a patient's health. These signs include heart rate, blood pressure, temperature, respiration rate, and other indicators of physical and mental health. |
-| 12 | [Obasanjo](http://twitter.com/search?q=Obasanjo) | Obasanjo is a Yoruba name meaning "the king has returned". It is the surname of Olusegun Obasanjo, a former Nigerian military leader and two-term president. |
-| 13 | [Abuja](http://twitter.com/search?q=Abuja) | N/A |
+| 10 | [#Resignation](http://twitter.com/search?q=%23Resignation) | N/A |
+| 11 | [Abuja](http://twitter.com/search?q=Abuja) | N/A |
+| 12 | [BVAS](http://twitter.com/search?q=BVAS) | BVAS stands for Behavioral and Vital Signs. It is a term used in the medical field to refer to the physical and mental signs that can be used to assess a patient's health. These signs include heart rate, blood pressure, temperature, respiration rate, and other indicators of physical and mental health. |
+| 13 | [Obasanjo](http://twitter.com/search?q=Obasanjo) | Obasanjo is a Yoruba name meaning "the king has returned". It is the surname of Olusegun Obasanjo, a former Nigerian military leader and two-term president. |
 | 14 | [IREV](http://twitter.com/search?q=IREV) | N/A |
-| 15 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
-| 16 | [25% in the FCT](http://twitter.com/search?q=25%25+in+the+FCT) | N/A |
-| 17 | [ECOWAS](http://twitter.com/search?q=ECOWAS) | N/A |
-| 18 | [Ekiti](http://twitter.com/search?q=Ekiti) | N/A |
-| 19 | [Plateau](http://twitter.com/search?q=Plateau) | N/A |
-| 20 | [Fayose](http://twitter.com/search?q=Fayose) | N/A |
-| 21 | [President Elect](http://twitter.com/search?q=President+Elect) | N/A |
-| 22 | [Yoruba](http://twitter.com/search?q=Yoruba) | N/A |
-| 23 | [honorable kelechi](http://twitter.com/search?q=honorable+kelechi) | N/A |
-| 24 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
-| 25 | [LP and PDP](http://twitter.com/search?q=LP+and+PDP) | N/A |
-| 26 | [Rigging](http://twitter.com/search?q=Rigging) | N/A |
-| 27 | [RCCG](http://twitter.com/search?q=RCCG) | N/A |
-| 28 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 29 | [PDP and LP](http://twitter.com/search?q=PDP+and+LP) | N/A |
-| 30 | [Pogba](http://twitter.com/search?q=Pogba) | Pogba is a nickname for the French professional footballer Paul Pogba. It is derived from his last name and is often used as a term of endearment by his fans. |
-| 31 | [Game Over](http://twitter.com/search?q=Game+Over) | N/A |
-| 32 | [Jonathan](http://twitter.com/search?q=Jonathan) | N/A |
-| 33 | [Section 299](http://twitter.com/search?q=Section+299) | N/A |
-| 34 | [Enugu](http://twitter.com/search?q=Enugu) | N/A |
-| 35 | [11th of March](http://twitter.com/search?q=11th+of+March) | N/A |
-| 36 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
-| 37 | [Constitution](http://twitter.com/search?q=Constitution) | N/A |
-| 38 | [Banky](http://twitter.com/search?q=Banky) | N/A |
-| 39 | [Mahmood](http://twitter.com/search?q=Mahmood) | N/A |
-| 40 | [Rigged](http://twitter.com/search?q=Rigged) | N/A |
-| 41 | [Femi Falana](http://twitter.com/search?q=Femi+Falana) | N/A |
-| 42 | [Imagination](http://twitter.com/search?q=Imagination) | N/A |
+| 15 | [25% in the FCT](http://twitter.com/search?q=25%25+in+the+FCT) | N/A |
+| 16 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
+| 17 | [LP and PDP](http://twitter.com/search?q=LP+and+PDP) | N/A |
+| 18 | [ECOWAS](http://twitter.com/search?q=ECOWAS) | N/A |
+| 19 | [Ekiti](http://twitter.com/search?q=Ekiti) | N/A |
+| 20 | [Yoruba](http://twitter.com/search?q=Yoruba) | N/A |
+| 21 | [Plateau](http://twitter.com/search?q=Plateau) | N/A |
+| 22 | [PDP and LP](http://twitter.com/search?q=PDP+and+LP) | N/A |
+| 23 | [Fayose](http://twitter.com/search?q=Fayose) | N/A |
+| 24 | [President Elect](http://twitter.com/search?q=President+Elect) | N/A |
+| 25 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
+| 26 | [honorable kelechi](http://twitter.com/search?q=honorable+kelechi) | N/A |
+| 27 | [Section 299](http://twitter.com/search?q=Section+299) | N/A |
+| 28 | [Rigging](http://twitter.com/search?q=Rigging) | N/A |
+| 29 | [RCCG](http://twitter.com/search?q=RCCG) | N/A |
+| 30 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 31 | [Mahmood Yakubu](http://twitter.com/search?q=Mahmood+Yakubu) | N/A |
+| 32 | [Constitution](http://twitter.com/search?q=Constitution) | N/A |
+| 33 | [LPDP](http://twitter.com/search?q=LPDP) | N/A |
+| 34 | [Jonathan](http://twitter.com/search?q=Jonathan) | N/A |
+| 35 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
+| 36 | [Femi Falana](http://twitter.com/search?q=Femi+Falana) | N/A |
+| 37 | [11th of March](http://twitter.com/search?q=11th+of+March) | N/A |
+| 38 | [Rigged](http://twitter.com/search?q=Rigged) | N/A |
+| 39 | [Enugu](http://twitter.com/search?q=Enugu) | N/A |
+| 40 | [Game Over](http://twitter.com/search?q=Game+Over) | N/A |
+| 41 | [Benue](http://twitter.com/search?q=Benue) | N/A |
+| 42 | [Excel](http://twitter.com/search?q=Excel) | N/A |
 | 43 | [Bauchi and Gombe](http://twitter.com/search?q=Bauchi+and+Gombe) | N/A |
-| 44 | [Edeoga](http://twitter.com/search?q=Edeoga) | N/A |
-| 45 | [Obio-Akpor](http://twitter.com/search?q=Obio-Akpor) | N/A |
-| 46 | [Sanwo Olu](http://twitter.com/search?q=Sanwo+Olu) | N/A |
-| 47 | [Federal Capital Territory](http://twitter.com/search?q=Federal+Capital+Territory) | N/A |
-| 48 | [Royals](http://twitter.com/search?q=Royals) | N/A |
-| 49 | [Section 134](http://twitter.com/search?q=Section+134) | N/A |
-| 50 | [Excel](http://twitter.com/search?q=Excel) | N/A |
+| 44 | [25% of FCT](http://twitter.com/search?q=25%25+of+FCT) | N/A |
+| 45 | [FCT 25%](http://twitter.com/search?q=FCT+25%25) | N/A |
+| 46 | [Section 134](http://twitter.com/search?q=Section+134) | N/A |
+| 47 | [Royals](http://twitter.com/search?q=Royals) | N/A |
+| 48 | [Banky](http://twitter.com/search?q=Banky) | N/A |
+| 49 | [Sanwo Olu](http://twitter.com/search?q=Sanwo+Olu) | N/A |
+| 50 | [Imagination](http://twitter.com/search?q=Imagination) | N/A |
 
 
 

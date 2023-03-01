@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Baltimore
 
-📆 Last Updated: `2023-03-01 01:45:52 UTC`
+📆 Last Updated: `2023-03-01 02:45:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
-| 2 | [#AgustD_SUGA_Tour](http://twitter.com/search?q=%23AgustD_SUGA_Tour) | N/A |
-| 3 | [Troy Brown](http://twitter.com/search?q=Troy+Brown) | Troy Brown is a former American football wide receiver who played for the New England Patriots from 1993 to 2007. He was known for his versatility, playing multiple positions on offense and defense. In English, Troy Brown is a name associated with a former professional football player who was known for his versatility. |
-| 4 | [Wray](http://twitter.com/search?q=Wray) | N/A |
-| 5 | [#TheWinchesters](http://twitter.com/search?q=%23TheWinchesters) | #TheWinchesters is a hashtag used to refer to the Winchester brothers, Sam and Dean, from the TV show Supernatural. It is used to show appreciation for the characters and their adventures. |
-| 6 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
-| 7 | [Reaves](http://twitter.com/search?q=Reaves) | Reaves is a surname of English origin. It is derived from the Old French word "reves," meaning "dreams." The name is thought to have been given to someone who was known for having prophetic dreams. |
-| 8 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
-| 9 | [Lonnie](http://twitter.com/search?q=Lonnie) | N/A |
-| 10 | [#mubb](http://twitter.com/search?q=%23mubb) | N/A |
-| 11 | [#911LoneStar](http://twitter.com/search?q=%23911LoneStar) | #911LoneStar is a hashtag used to honor the first responders and other essential workers in Texas who are working to keep the public safe during the COVID-19 pandemic. It is a way of showing appreciation for their hard work and dedication. |
-| 12 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
-| 13 | [Patrick Kane](http://twitter.com/search?q=Patrick+Kane) | N/A |
-| 14 | [Dave Grohl](http://twitter.com/search?q=Dave+Grohl) | N/A |
-| 15 | [Kai Cenat](http://twitter.com/search?q=Kai+Cenat) | Kai Cenat is a phrase in the language of the Garifuna people, an Afro-Caribbean ethnic group living in Central America. It translates to "Let's go" or "Let's get going" in English. |
-| 16 | [Joiner](http://twitter.com/search?q=Joiner) | N/A |
-| 17 | [I GOT A CODE](http://twitter.com/search?q=I+GOT+A+CODE) | N/A |
-| 18 | [Proctor](http://twitter.com/search?q=Proctor) | N/A |
-| 19 | [Kris Murray](http://twitter.com/search?q=Kris+Murray) | N/A |
-| 20 | [Raskin](http://twitter.com/search?q=Raskin) | N/A |
-| 21 | [Newark](http://twitter.com/search?q=Newark) | N/A |
-| 22 | [Jupiter and Venus](http://twitter.com/search?q=Jupiter+and+Venus) | N/A |
-| 23 | [Waitlisted](http://twitter.com/search?q=Waitlisted) | N/A |
-| 24 | [DJ Burns](http://twitter.com/search?q=DJ+Burns) | DJ Burns is a stage name used by a professional DJ and music producer from the United Kingdom. The name is derived from the phrase "burns the decks," which is a term used to describe an intense, energetic style of mixing and scratching records. |
-| 25 | [Josh Bailey](http://twitter.com/search?q=Josh+Bailey) | N/A |
-| 26 | [Wes Lee](http://twitter.com/search?q=Wes+Lee) | Wes Lee is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is well-liked and respected. |
-| 27 | [Big East Champs](http://twitter.com/search?q=Big+East+Champs) | N/A |
-| 28 | [Venus and Jupiter](http://twitter.com/search?q=Venus+and+Jupiter) | N/A |
-| 29 | [Avon](http://twitter.com/search?q=Avon) | N/A |
-| 30 | [I GOT THE CODE](http://twitter.com/search?q=I+GOT+THE+CODE) | N/A |
-| 31 | [Lively](http://twitter.com/search?q=Lively) | Lively is an adjective that means full of energy, enthusiasm, and activity. It can also refer to a place or situation that is exciting and entertaining. |
-| 32 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 33 | [Luke Kennard](http://twitter.com/search?q=Luke+Kennard) | N/A |
-| 34 | [Black History Month](http://twitter.com/search?q=Black+History+Month) | N/A |
-| 35 | [Triston Casas](http://twitter.com/search?q=Triston+Casas) | N/A |
-| 36 | [Barrie](http://twitter.com/search?q=Barrie) | N/A |
-| 37 | [Peter Pan](http://twitter.com/search?q=Peter+Pan) | N/A |
-| 38 | [Terquavion Smith](http://twitter.com/search?q=Terquavion+Smith) | N/A |
-| 39 | [Stone Cold](http://twitter.com/search?q=Stone+Cold) | N/A |
-| 40 | [Darren Till](http://twitter.com/search?q=Darren+Till) | N/A |
-| 41 | [Tony Perkins](http://twitter.com/search?q=Tony+Perkins) | N/A |
+| 1 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
+| 2 | [Black History Month](http://twitter.com/search?q=Black+History+Month) | N/A |
+| 3 | [Lonnie](http://twitter.com/search?q=Lonnie) | N/A |
+| 4 | [Orlov](http://twitter.com/search?q=Orlov) | N/A |
+| 5 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
+| 6 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
+| 7 | [Wray](http://twitter.com/search?q=Wray) | N/A |
+| 8 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
+| 9 | [#AgustD_SUGA_Tour](http://twitter.com/search?q=%23AgustD_SUGA_Tour) | N/A |
+| 10 | [Lori Lightfoot](http://twitter.com/search?q=Lori+Lightfoot) | N/A |
+| 11 | [#iubb](http://twitter.com/search?q=%23iubb) | #iubb is an abbreviation for Indiana University Bloomington, which is a public research university located in Bloomington, Indiana. |
+| 12 | [Troy Brown](http://twitter.com/search?q=Troy+Brown) | Troy Brown is a former American football wide receiver who played for the New England Patriots from 1993 to 2007. He was known for his versatility, playing multiple positions on offense and defense. In English, Troy Brown is a name associated with a former professional football player who was known for his versatility. |
+| 13 | [Vallas](http://twitter.com/search?q=Vallas) | N/A |
+| 14 | [Jaren Jackson](http://twitter.com/search?q=Jaren+Jackson) | Jaren Jackson is a surname of English origin. It is derived from the Old English words "geard" (enclosure) and "sceaga" (wood). The name means "wooden enclosure". |
+| 15 | [Reaves](http://twitter.com/search?q=Reaves) | Reaves is a surname of English origin. It is derived from the Old French word "reves," meaning "dreams." The name is thought to have been given to someone who was known for having prophetic dreams. |
+| 16 | [#TheWinchesters](http://twitter.com/search?q=%23TheWinchesters) | #TheWinchesters is a hashtag used to refer to the Winchester brothers, Sam and Dean, from the TV show Supernatural. It is used to show appreciation for the characters and their adventures. |
+| 17 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
+| 18 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
+| 19 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
+| 20 | [Kaner](http://twitter.com/search?q=Kaner) | N/A |
+| 21 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
+| 22 | [NC State](http://twitter.com/search?q=NC+State) | NC State is an abbreviation for North Carolina State University, a public research university located in Raleigh, North Carolina. It is one of the oldest public universities in the United States and is a member of the prestigious Association of American Universities. NC State offers over 300 undergraduate and graduate degree programs across 12 colleges and schools. |
+| 23 | [Joiner](http://twitter.com/search?q=Joiner) | N/A |
+| 24 | [Mo Bamba](http://twitter.com/search?q=Mo+Bamba) | "Mo Bamba" is a song by American rapper Sheck Wes. The song is about Sheck Wes' hometown of Harlem, New York and his experiences growing up there. The title of the song is derived from the nickname of NBA player Mohamed Bamba, who was born in Harlem. In English, the phrase "Mo Bamba" can be interpreted to mean "My Harlem". |
+| 25 | [Brandon Johnson](http://twitter.com/search?q=Brandon+Johnson) | N/A |
+| 26 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
+| 27 | [Beetlejuice](http://twitter.com/search?q=Beetlejuice) | N/A |
+| 28 | [Mike Woodson](http://twitter.com/search?q=Mike+Woodson) | N/A |
+| 29 | [Boeheim](http://twitter.com/search?q=Boeheim) | N/A |
+| 30 | [Dave Grohl](http://twitter.com/search?q=Dave+Grohl) | N/A |
+| 31 | [Zakai](http://twitter.com/search?q=Zakai) | N/A |
+| 32 | [Jeremy Roach](http://twitter.com/search?q=Jeremy+Roach) | N/A |
+| 33 | [Joe Harris](http://twitter.com/search?q=Joe+Harris) | N/A |
+| 34 | [Raskin](http://twitter.com/search?q=Raskin) | N/A |
+| 35 | [Avon](http://twitter.com/search?q=Avon) | N/A |
+| 36 | [Maxi](http://twitter.com/search?q=Maxi) | Maxi is a term used to describe a long, loose-fitting dress or skirt that reaches the ankles. It is typically made of lightweight fabrics such as cotton or linen and is often worn in warm weather. The term can also refer to a style of dress that is shorter than a maxi dress but still reaches the ankles. |
+| 37 | [Jupiter and Venus](http://twitter.com/search?q=Jupiter+and+Venus) | N/A |
+| 38 | [Proctor](http://twitter.com/search?q=Proctor) | N/A |
+| 39 | [Kris Murray](http://twitter.com/search?q=Kris+Murray) | N/A |
+| 40 | [Assembly Hall](http://twitter.com/search?q=Assembly+Hall) | N/A |
+| 41 | [Cameron](http://twitter.com/search?q=Cameron) | N/A |
 | 42 | [Georgia Tech](http://twitter.com/search?q=Georgia+Tech) | N/A |
-| 43 | [Blackhawks](http://twitter.com/search?q=Blackhawks) | N/A |
-| 44 | [Assembly Hall](http://twitter.com/search?q=Assembly+Hall) | N/A |
-| 45 | [Rowena](http://twitter.com/search?q=Rowena) | N/A |
-| 46 | [Davion Mitchell](http://twitter.com/search?q=Davion+Mitchell) | N/A |
-| 47 | [Ekholm](http://twitter.com/search?q=Ekholm) | N/A |
-| 48 | [Nyquist](http://twitter.com/search?q=Nyquist) | N/A |
-| 49 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 43 | [Newark](http://twitter.com/search?q=Newark) | N/A |
+| 44 | [Eddie Murray](http://twitter.com/search?q=Eddie+Murray) | N/A |
+| 45 | [Kai Cenat](http://twitter.com/search?q=Kai+Cenat) | Kai Cenat is a phrase in the language of the Garifuna people, an Afro-Caribbean ethnic group living in Central America. It translates to "Let's go" or "Let's get going" in English. |
+| 46 | [Blackhawks](http://twitter.com/search?q=Blackhawks) | N/A |
+| 47 | [Venus and Jupiter](http://twitter.com/search?q=Venus+and+Jupiter) | N/A |
+| 48 | [I GOT A CODE](http://twitter.com/search?q=I+GOT+A+CODE) | N/A |
+| 49 | [Luke Kennard](http://twitter.com/search?q=Luke+Kennard) | N/A |
 
 
 

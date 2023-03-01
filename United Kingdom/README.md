@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For United Kingdom
 
-📆 Last Updated: `2023-03-01 01:46:14 UTC`
+📆 Last Updated: `2023-03-01 02:45:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for United Kingdom
 | 2 | [Maxwell](http://twitter.com/search?q=Maxwell) | N/A |
 | 3 | [Casey](http://twitter.com/search?q=Casey) | Casey is a unisex name of Irish origin, derived from the Gaelic Cathasaigh, meaning “brave” or “vigilant.” It is also a popular surname in the United States. |
 | 4 | [#lufc](http://twitter.com/search?q=%23lufc) | #lufc is an abbreviation for Leeds United Football Club, a professional football club based in Leeds, England. The club was founded in 1919 and currently plays in the English Championship. |
-| 5 | [Sanam](http://twitter.com/search?q=Sanam) | N/A |
-| 6 | [Matt Hancock](http://twitter.com/search?q=Matt+Hancock) | Matt Hancock is the current Secretary of State for Health and Social Care in the United Kingdom. He is responsible for leading the government's response to the coronavirus pandemic. The phrase "Matt Hancock" is used to refer to him and his role in government. |
+| 5 | [Hancock](http://twitter.com/search?q=Hancock) | N/A |
+| 6 | [sanam](http://twitter.com/search?q=sanam) | N/A |
 | 7 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 8 | [Sammie](http://twitter.com/search?q=Sammie) | N/A |
-| 9 | [Pogba](http://twitter.com/search?q=Pogba) | Pogba is a nickname for the French professional footballer Paul Pogba. It is derived from his last name and is often used as a term of endearment by his fans. |
-| 10 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
-| 11 | [#oafc](http://twitter.com/search?q=%23oafc) | N/A |
+| 8 | [Pogba](http://twitter.com/search?q=Pogba) | Pogba is a nickname for the French professional footballer Paul Pogba. It is derived from his last name and is often used as a term of endearment by his fans. |
+| 9 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
+| 10 | [Sammie](http://twitter.com/search?q=Sammie) | N/A |
+| 11 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
 | 12 | [#Rovers](http://twitter.com/search?q=%23Rovers) | N/A |
-| 13 | [#lcfc](http://twitter.com/search?q=%23lcfc) | N/A |
+| 13 | [#BeyondFast](http://twitter.com/search?q=%23BeyondFast) | #BeyondFast is a hashtag used to describe something that goes beyond the speed of fast. It is used to emphasize the idea that something is faster than fast, or that it surpasses the speed of fast. |
 | 14 | [#Pompey](http://twitter.com/search?q=%23Pompey) | N/A |
-| 15 | [Rutter](http://twitter.com/search?q=Rutter) | N/A |
-| 16 | [Bristol City](http://twitter.com/search?q=Bristol+City) | N/A |
-| 17 | [Bamford](http://twitter.com/search?q=Bamford) | Bamford is a surname of English origin. It is derived from the Old English words "bam" and "ford," meaning "a ford over a high bank or cliff." The name is most commonly associated with the town of Bamford in Derbyshire, England. |
-| 18 | [Blackburn](http://twitter.com/search?q=Blackburn) | N/A |
-| 19 | [Alex Scott](http://twitter.com/search?q=Alex+Scott) | N/A |
-| 20 | [Solomon](http://twitter.com/search?q=Solomon) | N/A |
-| 21 | [Amartey](http://twitter.com/search?q=Amartey) | N/A |
-| 22 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 23 | [Claudia](http://twitter.com/search?q=Claudia) | Claudia is a female given name of Latin origin, derived from the Roman clan name Claudius. It means "lame" or "disabled". |
-| 24 | [Rodgers](http://twitter.com/search?q=Rodgers) | Rodgers is a surname of English and Irish origin. It is derived from the given name Roger, which is derived from the Germanic elements hrod (fame) and ger (spear). |
-| 25 | [Rosie](http://twitter.com/search?q=Rosie) | N/A |
-| 26 | [Kalas](http://twitter.com/search?q=Kalas) | N/A |
-| 27 | [Meslier](http://twitter.com/search?q=Meslier) | N/A |
-| 28 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
-| 29 | [Isabel Oakeshott](http://twitter.com/search?q=Isabel+Oakeshott) | N/A |
-| 30 | [Rodrigo](http://twitter.com/search?q=Rodrigo) | Rodrigo is a Spanish and Portuguese name derived from the Germanic name Roderick, which means "famous power". It is also a common surname in Spanish-speaking countries. |
-| 31 | [McKennie](http://twitter.com/search?q=McKennie) | McKennie is a surname of Scottish origin. It is derived from the Gaelic MacCoinneach, meaning "son of Coinneach". |
-| 32 | [Soumare](http://twitter.com/search?q=Soumare) | N/A |
-| 33 | [Adams](http://twitter.com/search?q=Adams) | N/A |
-| 34 | [Peter Pan](http://twitter.com/search?q=Peter+Pan) | N/A |
-| 35 | [Roca](http://twitter.com/search?q=Roca) | N/A |
-| 36 | [Keenan](http://twitter.com/search?q=Keenan) | N/A |
-| 37 | [Millwall](http://twitter.com/search?q=Millwall) | N/A |
-| 38 | [Shearer](http://twitter.com/search?q=Shearer) | Shearer is a term used to describe someone who works in a coal mine, cutting and removing coal from the face of the seam. It is also used to refer to someone who cuts and shapes metal, such as a blacksmith or a tinsmith. |
-| 39 | [Andy Cook](http://twitter.com/search?q=Andy+Cook) | N/A |
-| 40 | [St David](http://twitter.com/search?q=St+David) | N/A |
-| 41 | [Thomas](http://twitter.com/search?q=Thomas) | N/A |
-| 42 | [Banks](http://twitter.com/search?q=Banks) | N/A |
-| 43 | [Gracia](http://twitter.com/search?q=Gracia) | N/A |
-| 44 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
-| 45 | [Alvaro](http://twitter.com/search?q=Alvaro) | N/A |
-| 46 | [De Bruyne](http://twitter.com/search?q=De+Bruyne) | De Bruyne is a Dutch surname. It is derived from the Dutch word "bruin", which means "brown". The name is most commonly associated with Belgian footballer Kevin De Bruyne, who currently plays for Manchester City in the English Premier League. |
-| 47 | [Tinkerbell](http://twitter.com/search?q=Tinkerbell) | N/A |
-| 48 | [Michael Gove](http://twitter.com/search?q=Michael+Gove) | N/A |
-| 49 | [Ashton Gate](http://twitter.com/search?q=Ashton+Gate) | N/A |
-| 50 | [Rodak](http://twitter.com/search?q=Rodak) | N/A |
+| 15 | [Bristol City](http://twitter.com/search?q=Bristol+City) | N/A |
+| 16 | [Rutter](http://twitter.com/search?q=Rutter) | N/A |
+| 17 | [Alex Scott](http://twitter.com/search?q=Alex+Scott) | N/A |
+| 18 | [Bamford](http://twitter.com/search?q=Bamford) | Bamford is a surname of English origin. It is derived from the Old English words "bam" and "ford," meaning "a ford over a high bank or cliff." The name is most commonly associated with the town of Bamford in Derbyshire, England. |
+| 19 | [Amartey](http://twitter.com/search?q=Amartey) | N/A |
+| 20 | [Rodgers](http://twitter.com/search?q=Rodgers) | Rodgers is a surname of English and Irish origin. It is derived from the given name Roger, which is derived from the Germanic elements hrod (fame) and ger (spear). |
+| 21 | [Blackburn](http://twitter.com/search?q=Blackburn) | N/A |
+| 22 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
+| 23 | [Peter Pan](http://twitter.com/search?q=Peter+Pan) | N/A |
+| 24 | [Rosie](http://twitter.com/search?q=Rosie) | N/A |
+| 25 | [Rodrigo](http://twitter.com/search?q=Rodrigo) | Rodrigo is a Spanish and Portuguese name derived from the Germanic name Roderick, which means "famous power". It is also a common surname in Spanish-speaking countries. |
+| 26 | [Isabel Oakeshott](http://twitter.com/search?q=Isabel+Oakeshott) | N/A |
+| 27 | [Soumare](http://twitter.com/search?q=Soumare) | N/A |
+| 28 | [Adams](http://twitter.com/search?q=Adams) | N/A |
+| 29 | [Keenan](http://twitter.com/search?q=Keenan) | N/A |
+| 30 | [McKennie](http://twitter.com/search?q=McKennie) | McKennie is a surname of Scottish origin. It is derived from the Gaelic MacCoinneach, meaning "son of Coinneach". |
+| 31 | [St David](http://twitter.com/search?q=St+David) | N/A |
+| 32 | [Thomas](http://twitter.com/search?q=Thomas) | N/A |
+| 33 | [Roca](http://twitter.com/search?q=Roca) | N/A |
+| 34 | [Millwall](http://twitter.com/search?q=Millwall) | N/A |
+| 35 | [Tinkerbell](http://twitter.com/search?q=Tinkerbell) | N/A |
+| 36 | [Ashton Gate](http://twitter.com/search?q=Ashton+Gate) | N/A |
+| 37 | [Michael Gove](http://twitter.com/search?q=Michael+Gove) | N/A |
+| 38 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
+| 39 | [Rodak](http://twitter.com/search?q=Rodak) | N/A |
+| 40 | [Carole](http://twitter.com/search?q=Carole) | N/A |
+| 41 | [Banks](http://twitter.com/search?q=Banks) | N/A |
+| 42 | [Mando](http://twitter.com/search?q=Mando) | N/A |
+| 43 | [Deepdale](http://twitter.com/search?q=Deepdale) | N/A |
+| 44 | [Juve](http://twitter.com/search?q=Juve) | Juve is short for Juventus, an Italian professional football club based in Turin, Italy. The club is one of the most successful and popular teams in Italy and Europe, having won numerous domestic and international titles. In English, Juve is an abbreviation for Juventus. |
+| 45 | [Phillips](http://twitter.com/search?q=Phillips) | Phillips is a surname of English origin. It is derived from the given name Philip, which is derived from the Greek name Philippos, meaning "friend of horses". |
+| 46 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
+| 47 | [#oafc](http://twitter.com/search?q=%23oafc) | N/A |
+| 48 | [#FACup](http://twitter.com/search?q=%23FACup) | #FACup is an abbreviation for the Football Association Challenge Cup, which is an annual knockout football competition in England. It is the oldest football competition in the world and is open to all teams from the top four tiers of English football. |
+| 49 | [#bcafc](http://twitter.com/search?q=%23bcafc) | N/A |
+| 50 | [#themormonsarecoming](http://twitter.com/search?q=%23themormonsarecoming) | N/A |
 
 
 

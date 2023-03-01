@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Galway
 
-📆 Last Updated: `2023-03-01 01:45:14 UTC`
+📆 Last Updated: `2023-03-01 02:44:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Ireland](</Ireland>)
 | ------- | ------------ | ------------ |
 | 1 | [Sheila](http://twitter.com/search?q=Sheila) | N/A |
 | 2 | [Jessie](http://twitter.com/search?q=Jessie) | N/A |
-| 3 | [#loveisland](http://twitter.com/search?q=%23loveisland) | #LoveIsland is a British reality television show that follows a group of single people living in a villa on the Spanish island of Majorca. The show focuses on the contestants' relationships with each other and their attempts to find love. The show has become popular in the UK and has spawned several spin-off series. |
-| 4 | [#RareDiseaseDay](http://twitter.com/search?q=%23RareDiseaseDay) | N/A |
-| 5 | [#TonightVMTV](http://twitter.com/search?q=%23TonightVMTV) | N/A |
-| 6 | [Casey](http://twitter.com/search?q=Casey) | Casey is a unisex name of Irish origin, derived from the Gaelic Cathasaigh, meaning “brave” or “vigilant.” It is also a popular surname in the United States. |
-| 7 | [Niall Collins](http://twitter.com/search?q=Niall+Collins) | N/A |
-| 8 | [Evan Ferguson](http://twitter.com/search?q=Evan+Ferguson) | Evan Ferguson is a Scottish surname. It is derived from the Gaelic name Fergus, which means "strong man". The name is most commonly found in Scotland and Northern Ireland. |
-| 9 | [Windsor Framework](http://twitter.com/search?q=Windsor+Framework) | N/A |
-| 10 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 11 | [#ETBEthos](http://twitter.com/search?q=%23ETBEthos) | N/A |
-| 12 | [Maxwell](http://twitter.com/search?q=Maxwell) | N/A |
-| 13 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
-| 14 | [Rhona Rose](http://twitter.com/search?q=Rhona+Rose) | N/A |
-| 15 | [The Ditch](http://twitter.com/search?q=The+Ditch) | N/A |
-| 16 | [Rishi](http://twitter.com/search?q=Rishi) | N/A |
-| 17 | [Stoke](http://twitter.com/search?q=Stoke) | N/A |
+| 3 | [#RareDiseaseDay](http://twitter.com/search?q=%23RareDiseaseDay) | N/A |
+| 4 | [#loveisland](http://twitter.com/search?q=%23loveisland) | #LoveIsland is a British reality television show that follows a group of single people living in a villa on the Spanish island of Majorca. The show focuses on the contestants' relationships with each other and their attempts to find love. The show has become popular in the UK and has spawned several spin-off series. |
+| 5 | [Niall Collins](http://twitter.com/search?q=Niall+Collins) | N/A |
+| 6 | [Windsor Framework](http://twitter.com/search?q=Windsor+Framework) | N/A |
+| 7 | [Evan Ferguson](http://twitter.com/search?q=Evan+Ferguson) | Evan Ferguson is a Scottish surname. It is derived from the Gaelic name Fergus, which means "strong man". The name is most commonly found in Scotland and Northern Ireland. |
+| 8 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 9 | [#TonightVMTV](http://twitter.com/search?q=%23TonightVMTV) | N/A |
+| 10 | [#etbethos](http://twitter.com/search?q=%23etbethos) | N/A |
+| 11 | [Casey](http://twitter.com/search?q=Casey) | Casey is a unisex name of Irish origin, derived from the Gaelic Cathasaigh, meaning “brave” or “vigilant.” It is also a popular surname in the United States. |
+| 12 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
+| 13 | [Maxwell](http://twitter.com/search?q=Maxwell) | N/A |
+| 14 | [Rishi](http://twitter.com/search?q=Rishi) | N/A |
+| 15 | [Rhona Rose](http://twitter.com/search?q=Rhona+Rose) | N/A |
+| 16 | [Helen](http://twitter.com/search?q=Helen) | N/A |
+| 17 | [the ditch](http://twitter.com/search?q=the+ditch) | N/A |
 | 18 | [Brexit](http://twitter.com/search?q=Brexit) | Brexit is a shorthand way of referring to the UK's decision to leave the European Union (EU). It is a portmanteau of the words "British" and "exit". The term was first used in 2012 when Prime Minister David Cameron promised to hold a referendum on Britain's membership of the EU. On June 23, 2016, the UK voted to leave the EU, and Brexit officially began on March 29, 2019. |
 | 19 | [Northern Ireland](http://twitter.com/search?q=Northern+Ireland) | N/A |
-| 20 | [Claudia](http://twitter.com/search?q=Claudia) | Claudia is a female given name of Latin origin, derived from the Roman clan name Claudius. It means "lame" or "disabled". |
-| 21 | [Pogba](http://twitter.com/search?q=Pogba) | Pogba is a nickname for the French professional footballer Paul Pogba. It is derived from his last name and is often used as a term of endearment by his fans. |
-| 22 | [Roca](http://twitter.com/search?q=Roca) | N/A |
-| 23 | [Sanam](http://twitter.com/search?q=Sanam) | N/A |
-| 24 | [Paul Reid](http://twitter.com/search?q=Paul+Reid) | N/A |
-| 25 | [Samie](http://twitter.com/search?q=Samie) | Samie is a given name of Arabic origin, meaning "elevated" or "lofty". |
-| 26 | [Shels](http://twitter.com/search?q=Shels) | N/A |
-| 27 | [Niall O'Connor](http://twitter.com/search?q=Niall+O%27Connor) | N/A |
-| 28 | [Leaving Cert](http://twitter.com/search?q=Leaving+Cert) | N/A |
-| 29 | [Minnie](http://twitter.com/search?q=Minnie) | N/A |
-| 30 | [electric ireland](http://twitter.com/search?q=electric+ireland) | N/A |
-| 31 | [Adams](http://twitter.com/search?q=Adams) | N/A |
-| 32 | [Dermot Morgan](http://twitter.com/search?q=Dermot+Morgan) | N/A |
-| 33 | [Stormont](http://twitter.com/search?q=Stormont) | N/A |
-| 34 | [Helen](http://twitter.com/search?q=Helen) | N/A |
-| 35 | [Rosie](http://twitter.com/search?q=Rosie) | N/A |
-| 36 | [Citizens](http://twitter.com/search?q=Citizens) | N/A |
-| 37 | [Rutter](http://twitter.com/search?q=Rutter) | N/A |
-| 38 | [Rodrigo](http://twitter.com/search?q=Rodrigo) | Rodrigo is a Spanish and Portuguese name derived from the Germanic name Roderick, which means "famous power". It is also a common surname in Spanish-speaking countries. |
-| 39 | [Lita](http://twitter.com/search?q=Lita) | N/A |
-| 40 | [GIVE US WN BLOOPERS](http://twitter.com/search?q=GIVE+US+WN+BLOOPERS) | N/A |
-| 41 | [The DUP](http://twitter.com/search?q=The+DUP) | N/A |
-| 42 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
-| 43 | [Covid](http://twitter.com/search?q=Covid) | N/A |
-| 44 | [Deepest](http://twitter.com/search?q=Deepest) | N/A |
-| 45 | [David Beckham](http://twitter.com/search?q=David+Beckham) | David Beckham is an English former professional soccer player. He is widely regarded as one of the greatest and most recognizable players in the history of the sport. He played for Manchester United, Real Madrid, LA Galaxy, Paris Saint-Germain, and the England national team. He is also a successful businessman and philanthropist. |
-| 46 | [Zoom](http://twitter.com/search?q=Zoom) | N/A |
-| 47 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
-| 48 | [International Women's Day](http://twitter.com/search?q=International+Women%27s+Day) | N/A |
-| 49 | [Paper 1](http://twitter.com/search?q=Paper+1) | N/A |
+| 20 | [Stoke](http://twitter.com/search?q=Stoke) | N/A |
+| 21 | [Paul Reid](http://twitter.com/search?q=Paul+Reid) | N/A |
+| 22 | [electric ireland](http://twitter.com/search?q=electric+ireland) | N/A |
+| 23 | [Niall O'Connor](http://twitter.com/search?q=Niall+O%27Connor) | N/A |
+| 24 | [Claudia](http://twitter.com/search?q=Claudia) | Claudia is a female given name of Latin origin, derived from the Roman clan name Claudius. It means "lame" or "disabled". |
+| 25 | [Stormont](http://twitter.com/search?q=Stormont) | N/A |
+| 26 | [sanam](http://twitter.com/search?q=sanam) | N/A |
+| 27 | [Dermot Morgan](http://twitter.com/search?q=Dermot+Morgan) | N/A |
+| 28 | [Shels](http://twitter.com/search?q=Shels) | N/A |
+| 29 | [Samie](http://twitter.com/search?q=Samie) | Samie is a given name of Arabic origin, meaning "elevated" or "lofty". |
+| 30 | [Minnie](http://twitter.com/search?q=Minnie) | N/A |
+| 31 | [Roca](http://twitter.com/search?q=Roca) | N/A |
+| 32 | [Adams](http://twitter.com/search?q=Adams) | N/A |
+| 33 | [Lita](http://twitter.com/search?q=Lita) | N/A |
+| 34 | [Leaving Cert](http://twitter.com/search?q=Leaving+Cert) | N/A |
+| 35 | [Rutter](http://twitter.com/search?q=Rutter) | N/A |
+| 36 | [Pogba](http://twitter.com/search?q=Pogba) | Pogba is a nickname for the French professional footballer Paul Pogba. It is derived from his last name and is often used as a term of endearment by his fans. |
+| 37 | [Citizens](http://twitter.com/search?q=Citizens) | N/A |
+| 38 | [International Women's Day](http://twitter.com/search?q=International+Women%27s+Day) | N/A |
+| 39 | [Revolut](http://twitter.com/search?q=Revolut) | N/A |
+| 40 | [Rosie](http://twitter.com/search?q=Rosie) | N/A |
+| 41 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
+| 42 | [GIVE US WN BLOOPERS](http://twitter.com/search?q=GIVE+US+WN+BLOOPERS) | N/A |
+| 43 | [National Concert Hall](http://twitter.com/search?q=National+Concert+Hall) | N/A |
+| 44 | [The DUP](http://twitter.com/search?q=The+DUP) | N/A |
+| 45 | [Rodrigo](http://twitter.com/search?q=Rodrigo) | Rodrigo is a Spanish and Portuguese name derived from the Germanic name Roderick, which means "famous power". It is also a common surname in Spanish-speaking countries. |
+| 46 | [David Beckham](http://twitter.com/search?q=David+Beckham) | David Beckham is an English former professional soccer player. He is widely regarded as one of the greatest and most recognizable players in the history of the sport. He played for Manchester United, Real Madrid, LA Galaxy, Paris Saint-Germain, and the England national team. He is also a successful businessman and philanthropist. |
+| 47 | [Covid](http://twitter.com/search?q=Covid) | N/A |
+| 48 | [Serrano](http://twitter.com/search?q=Serrano) | N/A |
+| 49 | [Deepest](http://twitter.com/search?q=Deepest) | N/A |
 
 
 

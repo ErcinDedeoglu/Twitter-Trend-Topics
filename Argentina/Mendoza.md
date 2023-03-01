@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mendoza
 
-📆 Last Updated: `2023-03-01 01:45:05 UTC`
+📆 Last Updated: `2023-03-01 02:44:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Argentina](</Argentina>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Lali](http://twitter.com/search?q=Lali) | Lali is a term of endearment used in some parts of India. It is derived from the Sanskrit word "lalita," which means "beautiful." In English, it can be translated to mean "darling" or "sweetheart." |
-| 2 | [MUCHAS GRACIAS VALEN](http://twitter.com/search?q=MUCHAS+GRACIAS+VALEN) | N/A |
-| 3 | [Betular](http://twitter.com/search?q=Betular) | N/A |
-| 4 | [#DuroDeDomar](http://twitter.com/search?q=%23DuroDeDomar) | N/A |
+| 1 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
+| 2 | [Rodo](http://twitter.com/search?q=Rodo) | N/A |
+| 3 | [sol perez](http://twitter.com/search?q=sol+perez) | N/A |
+| 4 | [Lali](http://twitter.com/search?q=Lali) | Lali is a term of endearment used in some parts of India. It is derived from the Sanskrit word "lalita," which means "beautiful." In English, it can be translated to mean "darling" or "sweetheart." |
 | 5 | [Independiente del Valle](http://twitter.com/search?q=Independiente+del+Valle) | N/A |
-| 6 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
-| 7 | [#FrodoResponde](http://twitter.com/search?q=%23FrodoResponde) | N/A |
-| 8 | [Anses](http://twitter.com/search?q=Anses) | N/A |
-| 9 | [#ProtestaDelCamPro](http://twitter.com/search?q=%23ProtestaDelCamPro) | N/A |
-| 10 | [#Los8EscalonesDelMillon](http://twitter.com/search?q=%23Los8EscalonesDelMillon) | N/A |
-| 11 | [AFIP](http://twitter.com/search?q=AFIP) | N/A |
-| 12 | [RODO AL 9009](http://twitter.com/search?q=RODO+AL+9009) | N/A |
-| 13 | [AFJP](http://twitter.com/search?q=AFJP) | N/A |
-| 14 | [Everton Ribeiro](http://twitter.com/search?q=Everton+Ribeiro) | Everton Ribeiro is a Brazilian professional footballer who plays as an attacking midfielder for Saudi Arabian club Al-Nassr. His name translates to "Everton of the River" in English. |
-| 15 | [#MoratoriaPrevisional](http://twitter.com/search?q=%23MoratoriaPrevisional) | N/A |
-| 16 | [Karim](http://twitter.com/search?q=Karim) | Karim is an Arabic name meaning "generous" or "noble". It is also used as a surname in some cultures. |
-| 17 | [Camaño](http://twitter.com/search?q=Cama%c3%b1o) | N/A |
-| 18 | [Con 134](http://twitter.com/search?q=Con+134) | N/A |
-| 19 | [twenty one pilots](http://twitter.com/search?q=twenty+one+pilots) | N/A |
-| 20 | [De Paul](http://twitter.com/search?q=De+Paul) | N/A |
-| 21 | [Congreso](http://twitter.com/search?q=Congreso) | Congreso is the Spanish word for Congress. It is used to refer to a legislative body, such as the United States Congress or the Mexican Congress. In English, it is used to refer to any type of legislative assembly or gathering. |
-| 22 | [Icardi](http://twitter.com/search?q=Icardi) | Icardi is a surname of Italian origin. It is derived from the Latin word "cardus" meaning thistle. In English, it can be translated to mean "of the thistle". |
-| 23 | [Maracaná](http://twitter.com/search?q=Maracan%c3%a1) | N/A |
-| 24 | [The Fabelmans](http://twitter.com/search?q=The+Fabelmans) | The Fabelmans is a Dutch-based band that plays a mix of traditional folk music and modern pop. The name is derived from the Dutch word for "fable," which is used to describe stories with moral lessons. In English, The Fabelmans could be translated as "The Storytellers." |
-| 25 | [Tinkerbell](http://twitter.com/search?q=Tinkerbell) | N/A |
-| 26 | [Wanda](http://twitter.com/search?q=Wanda) | N/A |
-| 27 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
-| 28 | [Maradona](http://twitter.com/search?q=Maradona) | N/A |
-| 29 | [PUAM](http://twitter.com/search?q=PUAM) | N/A |
-| 30 | [Lousteau](http://twitter.com/search?q=Lousteau) | N/A |
-| 31 | [Justicia Social](http://twitter.com/search?q=Justicia+Social) | N/A |
-| 32 | [Autoevaluación HONESTA](http://twitter.com/search?q=Autoevaluaci%c3%b3n+HONESTA) | N/A |
-| 33 | [Cerruti](http://twitter.com/search?q=Cerruti) | N/A |
-| 34 | [Angie](http://twitter.com/search?q=Angie) | N/A |
-| 35 | [Jubilados](http://twitter.com/search?q=Jubilados) | N/A |
-| 36 | [Chiqui](http://twitter.com/search?q=Chiqui) | N/A |
-| 37 | [Valen al 9009](http://twitter.com/search?q=Valen+al+9009) | N/A |
-| 38 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
-| 39 | [Blink](http://twitter.com/search?q=Blink) | N/A |
-| 40 | [Morón](http://twitter.com/search?q=Mor%c3%b3n) | N/A |
-| 41 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 42 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
-| 43 | [Spreen](http://twitter.com/search?q=Spreen) | Spreen is a German word that means to scurry or hurry. It is often used to describe the quick movements of small animals, such as mice or squirrels. |
-| 44 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
-| 45 | [Travis](http://twitter.com/search?q=Travis) | N/A |
-| 46 | [Bruyne](http://twitter.com/search?q=Bruyne) | N/A |
-| 47 | [#integracionswiftie](http://twitter.com/search?q=%23integracionswiftie) | N/A |
-| 48 | [#EsLey](http://twitter.com/search?q=%23EsLey) | N/A |
-| 49 | [#SquidCraft2](http://twitter.com/search?q=%23SquidCraft2) | N/A |
+| 6 | [MUCHAS GRACIAS VALEN](http://twitter.com/search?q=MUCHAS+GRACIAS+VALEN) | N/A |
+| 7 | [Marisa Brel](http://twitter.com/search?q=Marisa+Brel) | Marisa Brel is a Spanish name that is derived from the Latin name Marisabel, which means “star of the sea”. In English, it can be translated to mean “star of the ocean”. |
+| 8 | [Betular](http://twitter.com/search?q=Betular) | N/A |
+| 9 | [#DuroDeDomar](http://twitter.com/search?q=%23DuroDeDomar) | N/A |
+| 10 | [Trezeguet](http://twitter.com/search?q=Trezeguet) | Trezeguet is a French surname. It is derived from the Breton words tre (town) and zeguen (old). The literal translation of Trezeguet into English is "old town". |
+| 11 | [Recopa](http://twitter.com/search?q=Recopa) | N/A |
+| 12 | [#ACOMODACHO](http://twitter.com/search?q=%23ACOMODACHO) | N/A |
+| 13 | [Arrascaeta](http://twitter.com/search?q=Arrascaeta) | Arrascaeta is a Spanish word that means "to tear away" or "to rip off." It is often used to describe a situation in which something is taken away quickly and forcefully. |
+| 14 | [Ceferino](http://twitter.com/search?q=Ceferino) | Ceferino is a Spanish name derived from the Latin name Caiaphas, which means "rock". It is also a variant of the name Joseph, meaning "God will increase". In English, Ceferino can be translated to mean "rock of God" or "God will increase". |
+| 15 | [Sporting Cristal](http://twitter.com/search?q=Sporting+Cristal) | N/A |
+| 16 | [Gabigol](http://twitter.com/search?q=Gabigol) | Gabigol is a nickname given to Brazilian footballer Gabriel Barbosa, who currently plays for Flamengo. The nickname is a combination of his first name, Gabriel, and the Portuguese word for goal, gol. In English, the nickname translates to "Gabriel Goal". |
+| 17 | [#ProtestaDelCamPro](http://twitter.com/search?q=%23ProtestaDelCamPro) | N/A |
+| 18 | [Everton Ribeiro](http://twitter.com/search?q=Everton+Ribeiro) | Everton Ribeiro is a Brazilian professional footballer who plays as an attacking midfielder for Saudi Arabian club Al-Nassr. His name translates to "Everton of the River" in English. |
+| 19 | [Anses](http://twitter.com/search?q=Anses) | N/A |
+| 20 | [#Los8EscalonesDelMillon](http://twitter.com/search?q=%23Los8EscalonesDelMillon) | N/A |
+| 21 | [Maracaná](http://twitter.com/search?q=Maracan%c3%a1) | N/A |
+| 22 | [Karim](http://twitter.com/search?q=Karim) | Karim is an Arabic name meaning "generous" or "noble". It is also used as a surname in some cultures. |
+| 23 | [Autoevaluación HONESTA](http://twitter.com/search?q=Autoevaluaci%c3%b3n+HONESTA) | N/A |
+| 24 | [AFIP](http://twitter.com/search?q=AFIP) | N/A |
+| 25 | [Arturo Vidal](http://twitter.com/search?q=Arturo+Vidal) | N/A |
+| 26 | [Ubfal](http://twitter.com/search?q=Ubfal) | Ubfal is an acronym for the German phrase "Unternehmen für Berufliche Fortbildung und Arbeitslosenhilfe", which translates to "Company for Vocational Training and Unemployment Assistance". |
+| 27 | [AFJP](http://twitter.com/search?q=AFJP) | N/A |
+| 28 | [#MoratoriaPrevisional](http://twitter.com/search?q=%23MoratoriaPrevisional) | N/A |
+| 29 | [The Fabelmans](http://twitter.com/search?q=The+Fabelmans) | The Fabelmans is a Dutch-based band that plays a mix of traditional folk music and modern pop. The name is derived from the Dutch word for "fable," which is used to describe stories with moral lessons. In English, The Fabelmans could be translated as "The Storytellers." |
+| 30 | [Icardi](http://twitter.com/search?q=Icardi) | Icardi is a surname of Italian origin. It is derived from the Latin word "cardus" meaning thistle. In English, it can be translated to mean "of the thistle". |
+| 31 | [Camaño](http://twitter.com/search?q=Cama%c3%b1o) | N/A |
+| 32 | [Tinkerbell](http://twitter.com/search?q=Tinkerbell) | N/A |
+| 33 | [Jubilación](http://twitter.com/search?q=Jubilaci%c3%b3n) | N/A |
+| 34 | [Es Ley](http://twitter.com/search?q=Es+Ley) | N/A |
+| 35 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 36 | [Congreso](http://twitter.com/search?q=Congreso) | Congreso is the Spanish word for Congress. It is used to refer to a legislative body, such as the United States Congress or the Mexican Congress. In English, it is used to refer to any type of legislative assembly or gathering. |
+| 37 | [De Paul](http://twitter.com/search?q=De+Paul) | N/A |
+| 38 | [Davo](http://twitter.com/search?q=Davo) | N/A |
+| 39 | [Lousteau](http://twitter.com/search?q=Lousteau) | N/A |
+| 40 | [Angie](http://twitter.com/search?q=Angie) | N/A |
+| 41 | [twenty one pilots](http://twitter.com/search?q=twenty+one+pilots) | N/A |
+| 42 | [Jubilados](http://twitter.com/search?q=Jubilados) | N/A |
+| 43 | [Wanda](http://twitter.com/search?q=Wanda) | N/A |
+| 44 | [PUAM](http://twitter.com/search?q=PUAM) | N/A |
+| 45 | [Anya](http://twitter.com/search?q=Anya) | N/A |
+| 46 | [Cerruti](http://twitter.com/search?q=Cerruti) | N/A |
+| 47 | [Chiqui](http://twitter.com/search?q=Chiqui) | N/A |
+| 48 | [Adermicina](http://twitter.com/search?q=Adermicina) | N/A |
+| 49 | [Blink](http://twitter.com/search?q=Blink) | N/A |
 
 
 

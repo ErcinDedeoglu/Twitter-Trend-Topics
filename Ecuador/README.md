@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ecuador
 
-📆 Last Updated: `2023-03-01 01:46:06 UTC`
+📆 Last Updated: `2023-03-01 02:45:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Ecuador
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Vidal](http://twitter.com/search?q=Vidal) | Vidal is a Spanish surname derived from the Latin name Vitalis, which means “life”. It is also a French surname derived from the Latin name Vidallus, which means “woodland”. |
-| 2 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
+| 1 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
+| 2 | [Hoyos](http://twitter.com/search?q=Hoyos) | Hoyos is a Spanish word meaning "holes". It can refer to physical holes in the ground or figuratively to a situation that is difficult to get out of. |
 | 3 | [#RecopaSudamericana](http://twitter.com/search?q=%23RecopaSudamericana) | N/A |
-| 4 | [Maracaná](http://twitter.com/search?q=Maracan%c3%a1) | N/A |
-| 5 | [Luisa Espinoza](http://twitter.com/search?q=Luisa+Espinoza) | N/A |
-| 6 | [Independiente del Valle](http://twitter.com/search?q=Independiente+del+Valle) | N/A |
-| 7 | [Almada](http://twitter.com/search?q=Almada) | N/A |
-| 8 | [Lautaro Díaz](http://twitter.com/search?q=Lautaro+D%c3%adaz) | N/A |
+| 4 | [Independiente](http://twitter.com/search?q=Independiente) | Independiente is a term used to refer to someone or something that is independent, autonomous, and self-governing. In English, it can be translated as "independent" or "self-reliant". |
+| 5 | [Vidal](http://twitter.com/search?q=Vidal) | Vidal is a Spanish surname derived from the Latin name Vitalis, which means “life”. It is also a French surname derived from the Latin name Vidallus, which means “woodland”. |
+| 6 | [Kevin Rodríguez](http://twitter.com/search?q=Kevin+Rodr%c3%adguez) | N/A |
+| 7 | [Maracaná](http://twitter.com/search?q=Maracan%c3%a1) | N/A |
+| 8 | [Luisa Espinoza](http://twitter.com/search?q=Luisa+Espinoza) | N/A |
 | 9 | [Beder Caicedo](http://twitter.com/search?q=Beder+Caicedo) | N/A |
-| 10 | [Costa Rica](http://twitter.com/search?q=Costa+Rica) | N/A |
-| 11 | [Tere](http://twitter.com/search?q=Tere) | N/A |
-| 12 | [Gareca](http://twitter.com/search?q=Gareca) | N/A |
-| 13 | [Angie Asang](http://twitter.com/search?q=Angie+Asang) | N/A |
-| 14 | [#SquidCraft2](http://twitter.com/search?q=%23SquidCraft2) | N/A |
-| 15 | [Ramírez](http://twitter.com/search?q=Ram%c3%adrez) | N/A |
-| 16 | [Traición a la Patria](http://twitter.com/search?q=Traici%c3%b3n+a+la+Patria) | N/A |
-| 17 | [#lagobernaciónentucantón](http://twitter.com/search?q=%23lagobernaci%c3%b3nentucant%c3%b3n) | N/A |
-| 18 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
-| 19 | [Miller](http://twitter.com/search?q=Miller) | N/A |
-| 20 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 21 | [Influencer](http://twitter.com/search?q=Influencer) | N/A |
-| 22 | [Pellerano](http://twitter.com/search?q=Pellerano) | N/A |
+| 10 | [De Arrascaeta](http://twitter.com/search?q=De+Arrascaeta) | N/A |
+| 11 | [David Luiz](http://twitter.com/search?q=David+Luiz) | David Luiz is a Brazilian professional footballer who plays for the English Premier League club Arsenal. He primarily plays as a centre-back, but can also be deployed as a defensive midfielder. The name "David Luiz" is derived from his given name, David, and his middle name, Luiz. |
+| 12 | [Anselmi](http://twitter.com/search?q=Anselmi) | N/A |
+| 13 | [Lautaro Díaz](http://twitter.com/search?q=Lautaro+D%c3%adaz) | N/A |
+| 14 | [Faravelli](http://twitter.com/search?q=Faravelli) | N/A |
+| 15 | [Sornoza](http://twitter.com/search?q=Sornoza) | N/A |
+| 16 | [Pellerano](http://twitter.com/search?q=Pellerano) | N/A |
+| 17 | [Almada](http://twitter.com/search?q=Almada) | N/A |
+| 18 | [Costa Rica](http://twitter.com/search?q=Costa+Rica) | N/A |
+| 19 | [Tere](http://twitter.com/search?q=Tere) | N/A |
+| 20 | [#SquidCraft2](http://twitter.com/search?q=%23SquidCraft2) | N/A |
+| 21 | [Angie Asang](http://twitter.com/search?q=Angie+Asang) | N/A |
+| 22 | [Gabigol](http://twitter.com/search?q=Gabigol) | Gabigol is a nickname given to Brazilian footballer Gabriel Barbosa, who currently plays for Flamengo. The nickname is a combination of his first name, Gabriel, and the Portuguese word for goal, gol. In English, the nickname translates to "Gabriel Goal". |
 | 23 | [Carabajal](http://twitter.com/search?q=Carabajal) | N/A |
-| 24 | [#LouisComeToEcuador](http://twitter.com/search?q=%23LouisComeToEcuador) | N/A |
-| 25 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 26 | [4Pelagatos](http://twitter.com/search?q=4Pelagatos) | N/A |
-| 27 | [Oyarte](http://twitter.com/search?q=Oyarte) | N/A |
-| 28 | [Anselmi](http://twitter.com/search?q=Anselmi) | N/A |
-| 29 | [Sauces 5](http://twitter.com/search?q=Sauces+5) | N/A |
-| 30 | [Lionel Scaloni](http://twitter.com/search?q=Lionel+Scaloni) | N/A |
-| 31 | [#batalladetarqui](http://twitter.com/search?q=%23batalladetarqui) | N/A |
-| 32 | [Eduardo Mendúa](http://twitter.com/search?q=Eduardo+Mend%c3%baa) | N/A |
-| 33 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
-| 34 | [Faravelli](http://twitter.com/search?q=Faravelli) | N/A |
-| 35 | [Orense](http://twitter.com/search?q=Orense) | N/A |
-| 36 | [miguel bravo](http://twitter.com/search?q=miguel+bravo) | N/A |
-| 37 | [Velez](http://twitter.com/search?q=Velez) | N/A |
-| 38 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 39 | [Modelo](http://twitter.com/search?q=Modelo) | N/A |
-| 40 | [Sornoza](http://twitter.com/search?q=Sornoza) | N/A |
-| 41 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 42 | [Germán](http://twitter.com/search?q=Germ%c3%a1n) | Germán is a Spanish and Portuguese name derived from the Latin Germanus, meaning "brother". It is also a Germanic given name, derived from the Germanic element ger, meaning "spear". |
+| 24 | [Traición a la Patria](http://twitter.com/search?q=Traici%c3%b3n+a+la+Patria) | N/A |
+| 25 | [Gareca](http://twitter.com/search?q=Gareca) | N/A |
+| 26 | [#lagobernaciónentucantón](http://twitter.com/search?q=%23lagobernaci%c3%b3nentucant%c3%b3n) | N/A |
+| 27 | [Moisés Ramírez](http://twitter.com/search?q=Mois%c3%a9s+Ram%c3%adrez) | N/A |
+| 28 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
+| 29 | [Influencer](http://twitter.com/search?q=Influencer) | N/A |
+| 30 | [4Pelagatos](http://twitter.com/search?q=4Pelagatos) | N/A |
+| 31 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 32 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 33 | [Schunke](http://twitter.com/search?q=Schunke) | N/A |
+| 34 | [Sauces 5](http://twitter.com/search?q=Sauces+5) | N/A |
+| 35 | [Oyarte](http://twitter.com/search?q=Oyarte) | N/A |
+| 36 | [Modelo](http://twitter.com/search?q=Modelo) | N/A |
+| 37 | [#LouisComeToEcuador](http://twitter.com/search?q=%23LouisComeToEcuador) | N/A |
+| 38 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
+| 39 | [#batalladetarqui](http://twitter.com/search?q=%23batalladetarqui) | N/A |
+| 40 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
+| 41 | [Velez](http://twitter.com/search?q=Velez) | N/A |
+| 42 | [miguel bravo](http://twitter.com/search?q=miguel+bravo) | N/A |
 | 43 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
-| 44 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 45 | [ejército ecuatoriano](http://twitter.com/search?q=ej%c3%a9rcito+ecuatoriano) | N/A |
-| 46 | [Futura](http://twitter.com/search?q=Futura) | N/A |
-| 47 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
-| 48 | [Influjo](http://twitter.com/search?q=Influjo) | N/A |
-| 49 | [LATE LATE SHOW WITH TXT](http://twitter.com/search?q=LATE+LATE+SHOW+WITH+TXT) | N/A |
-| 50 | [Felipe Crespo](http://twitter.com/search?q=Felipe+Crespo) | N/A |
+| 44 | [Orense](http://twitter.com/search?q=Orense) | N/A |
+| 45 | [Futura](http://twitter.com/search?q=Futura) | N/A |
+| 46 | [Miller](http://twitter.com/search?q=Miller) | N/A |
+| 47 | [Felipe Crespo](http://twitter.com/search?q=Felipe+Crespo) | N/A |
+| 48 | [ejército ecuatoriano](http://twitter.com/search?q=ej%c3%a9rcito+ecuatoriano) | N/A |
+| 49 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 50 | [Eduardo Mendúa](http://twitter.com/search?q=Eduardo+Mend%c3%baa) | N/A |
 
 
 

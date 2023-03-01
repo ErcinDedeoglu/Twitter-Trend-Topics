@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Montreal
 
-📆 Last Updated: `2023-03-01 01:44:56 UTC`
+📆 Last Updated: `2023-03-01 02:44:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Canada](</Canada>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Barrie](http://twitter.com/search?q=Barrie) | N/A |
-| 2 | [Ekholm](http://twitter.com/search?q=Ekholm) | N/A |
-| 3 | [Sandin](http://twitter.com/search?q=Sandin) | N/A |
-| 4 | [Barton](http://twitter.com/search?q=Barton) | N/A |
-| 5 | [Watson](http://twitter.com/search?q=Watson) | Watson is an artificial intelligence (AI) computer system developed by IBM. It is capable of answering questions posed in natural language, making it a useful tool for businesses and researchers. Watson can also be used to analyze large amounts of data and generate insights from it. |
-| 6 | [Schenn](http://twitter.com/search?q=Schenn) | N/A |
-| 7 | [Dubas](http://twitter.com/search?q=Dubas) | N/A |
-| 8 | [Bouchard](http://twitter.com/search?q=Bouchard) | N/A |
-| 9 | [#LeafsForever](http://twitter.com/search?q=%23LeafsForever) | #LeafsForever is a hashtag used by Toronto Maple Leafs fans to show their support for the team. It is a rallying cry for the team and its fans, expressing their loyalty and dedication to the team. |
-| 10 | [#GoSensGo](http://twitter.com/search?q=%23GoSensGo) | N/A |
-| 11 | [#MyFordWinterRide](http://twitter.com/search?q=%23MyFordWinterRide) | N/A |
-| 12 | [Engvall](http://twitter.com/search?q=Engvall) | N/A |
-| 13 | [#bcbudget](http://twitter.com/search?q=%23bcbudget) | N/A |
-| 14 | [Holl](http://twitter.com/search?q=Holl) | N/A |
-| 15 | [Larkin](http://twitter.com/search?q=Larkin) | N/A |
-| 16 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 17 | [Budget 2023](http://twitter.com/search?q=Budget+2023) | N/A |
-| 18 | [Schaefer](http://twitter.com/search?q=Schaefer) | N/A |
-| 19 | [#SUGA_AgustD_TOUR](http://twitter.com/search?q=%23SUGA_AgustD_TOUR) | N/A |
+| 2 | [Scottie](http://twitter.com/search?q=Scottie) | Scottie is a nickname for the Scottish Terrier, a small breed of dog. It is also used as a nickname for people from Scotland or with Scottish heritage. |
+| 3 | [Ekholm](http://twitter.com/search?q=Ekholm) | N/A |
+| 4 | [Thad](http://twitter.com/search?q=Thad) | N/A |
+| 5 | [#GoSensGo](http://twitter.com/search?q=%23GoSensGo) | N/A |
+| 6 | [Larkin](http://twitter.com/search?q=Larkin) | N/A |
+| 7 | [Sandin](http://twitter.com/search?q=Sandin) | N/A |
+| 8 | [Watson](http://twitter.com/search?q=Watson) | Watson is an artificial intelligence (AI) computer system developed by IBM. It is capable of answering questions posed in natural language, making it a useful tool for businesses and researchers. Watson can also be used to analyze large amounts of data and generate insights from it. |
+| 9 | [Barton](http://twitter.com/search?q=Barton) | N/A |
+| 10 | [Schenn](http://twitter.com/search?q=Schenn) | N/A |
+| 11 | [Bouchard](http://twitter.com/search?q=Bouchard) | N/A |
+| 12 | [Poeltl](http://twitter.com/search?q=Poeltl) | N/A |
+| 13 | [Chychrun](http://twitter.com/search?q=Chychrun) | N/A |
+| 14 | [Dubas](http://twitter.com/search?q=Dubas) | N/A |
+| 15 | [DeMar](http://twitter.com/search?q=DeMar) | N/A |
+| 16 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
+| 17 | [#MyFordWinterRide](http://twitter.com/search?q=%23MyFordWinterRide) | N/A |
+| 18 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 19 | [#Flames1stGoal](http://twitter.com/search?q=%23Flames1stGoal) | N/A |
 | 20 | [Newark](http://twitter.com/search?q=Newark) | N/A |
-| 21 | [Bertuzzi](http://twitter.com/search?q=Bertuzzi) | N/A |
-| 22 | [Broberg](http://twitter.com/search?q=Broberg) | N/A |
-| 23 | [Ceci](http://twitter.com/search?q=Ceci) | N/A |
-| 24 | [Chychrun](http://twitter.com/search?q=Chychrun) | N/A |
-| 25 | [Gustafsson](http://twitter.com/search?q=Gustafsson) | N/A |
-| 26 | [Korpisalo](http://twitter.com/search?q=Korpisalo) | N/A |
-| 27 | [Perron](http://twitter.com/search?q=Perron) | N/A |
-| 28 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 29 | [Dave Grohl](http://twitter.com/search?q=Dave+Grohl) | N/A |
-| 30 | [Boeser](http://twitter.com/search?q=Boeser) | N/A |
-| 31 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
-| 32 | [Washington](http://twitter.com/search?q=Washington) | N/A |
-| 33 | [Patrick Kane](http://twitter.com/search?q=Patrick+Kane) | N/A |
-| 34 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 35 | [Nurse](http://twitter.com/search?q=Nurse) | N/A |
-| 36 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
-| 37 | [Jensen](http://twitter.com/search?q=Jensen) | N/A |
-| 38 | [Red Wings](http://twitter.com/search?q=Red+Wings) | N/A |
-| 39 | [Tamara Lich](http://twitter.com/search?q=Tamara+Lich) | N/A |
-| 40 | [Morris Rosenberg](http://twitter.com/search?q=Morris+Rosenberg) | N/A |
-| 41 | [Pogba](http://twitter.com/search?q=Pogba) | Pogba is a nickname for the French professional footballer Paul Pogba. It is derived from his last name and is often used as a term of endearment by his fans. |
-| 42 | [McCabe](http://twitter.com/search?q=McCabe) | N/A |
-| 43 | [Peter Pan](http://twitter.com/search?q=Peter+Pan) | N/A |
-| 44 | [Trudeau Foundation](http://twitter.com/search?q=Trudeau+Foundation) | N/A |
-| 45 | [Tom Wilson](http://twitter.com/search?q=Tom+Wilson) | N/A |
-| 46 | [Pettersson](http://twitter.com/search?q=Pettersson) | N/A |
-| 47 | [Rielly](http://twitter.com/search?q=Rielly) | N/A |
-| 48 | [Murray](http://twitter.com/search?q=Murray) | N/A |
-| 49 | [Miller](http://twitter.com/search?q=Miller) | N/A |
-| 50 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
+| 21 | [Engvall](http://twitter.com/search?q=Engvall) | N/A |
+| 22 | [#TheRookie](http://twitter.com/search?q=%23TheRookie) | N/A |
+| 23 | [Holl](http://twitter.com/search?q=Holl) | N/A |
+| 24 | [Budget 2023](http://twitter.com/search?q=Budget+2023) | N/A |
+| 25 | [Schaefer](http://twitter.com/search?q=Schaefer) | N/A |
+| 26 | [#SUGA_AgustD_TOUR](http://twitter.com/search?q=%23SUGA_AgustD_TOUR) | N/A |
+| 27 | [Dave Grohl](http://twitter.com/search?q=Dave+Grohl) | N/A |
+| 28 | [Gustafsson](http://twitter.com/search?q=Gustafsson) | N/A |
+| 29 | [Korpisalo](http://twitter.com/search?q=Korpisalo) | N/A |
+| 30 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
+| 31 | [Tkachuk](http://twitter.com/search?q=Tkachuk) | N/A |
+| 32 | [Bertuzzi](http://twitter.com/search?q=Bertuzzi) | N/A |
+| 33 | [Perron](http://twitter.com/search?q=Perron) | N/A |
+| 34 | [Red Wings](http://twitter.com/search?q=Red+Wings) | N/A |
+| 35 | [Patrick Kane](http://twitter.com/search?q=Patrick+Kane) | N/A |
+| 36 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
+| 37 | [Ceci](http://twitter.com/search?q=Ceci) | N/A |
+| 38 | [Tamara Lich](http://twitter.com/search?q=Tamara+Lich) | N/A |
+| 39 | [Stanley](http://twitter.com/search?q=Stanley) | N/A |
+| 40 | [Washington](http://twitter.com/search?q=Washington) | N/A |
+| 41 | [Nurse](http://twitter.com/search?q=Nurse) | N/A |
+| 42 | [The UCP](http://twitter.com/search?q=The+UCP) | N/A |
+| 43 | [Morris Rosenberg](http://twitter.com/search?q=Morris+Rosenberg) | N/A |
+| 44 | [Boeser](http://twitter.com/search?q=Boeser) | N/A |
+| 45 | [Giroux](http://twitter.com/search?q=Giroux) | N/A |
+| 46 | [McCabe](http://twitter.com/search?q=McCabe) | N/A |
+| 47 | [Broberg](http://twitter.com/search?q=Broberg) | N/A |
+| 48 | [Tom Wilson](http://twitter.com/search?q=Tom+Wilson) | N/A |
+| 49 | [Peter Pan](http://twitter.com/search?q=Peter+Pan) | N/A |
+| 50 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
 
 
 

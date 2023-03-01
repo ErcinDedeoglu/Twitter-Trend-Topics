@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barcelona
 
-📆 Last Updated: `2023-03-01 01:45:20 UTC`
+📆 Last Updated: `2023-03-01 02:44:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TentacionesDBT6](http://twitter.com/search?q=%23TentacionesDBT6) | N/A |
-| 2 | [Pelayo Novo](http://twitter.com/search?q=Pelayo+Novo) | N/A |
-| 3 | [#ATEEZinMadrid](http://twitter.com/search?q=%23ATEEZinMadrid) | N/A |
-| 4 | [#Hermanos28Feb](http://twitter.com/search?q=%23Hermanos28Feb) | N/A |
-| 5 | [#KarolGEH](http://twitter.com/search?q=%23KarolGEH) | N/A |
-| 6 | [Mingi](http://twitter.com/search?q=Mingi) | N/A |
-| 7 | [Inmoral](http://twitter.com/search?q=Inmoral) | N/A |
-| 8 | [#ElCirc](http://twitter.com/search?q=%23ElCirc) | N/A |
-| 9 | [Guti](http://twitter.com/search?q=Guti) | N/A |
-| 10 | [Di María](http://twitter.com/search?q=Di+Mar%c3%ada) | N/A |
-| 11 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 12 | [wooyoung](http://twitter.com/search?q=wooyoung) | Wooyoung is a Korean given name, derived from the Chinese characters for “protection” and “eternal”. It is usually given to boys and can also be written as Wu-Young or Woo-Young. The English meaning of Wooyoung is “eternal protection”. |
-| 13 | [Peter Pan](http://twitter.com/search?q=Peter+Pan) | N/A |
-| 14 | [Autoevaluación HONESTA](http://twitter.com/search?q=Autoevaluaci%c3%b3n+HONESTA) | N/A |
-| 15 | [Ryan](http://twitter.com/search?q=Ryan) | N/A |
-| 16 | [Ferrovial](http://twitter.com/search?q=Ferrovial) | N/A |
-| 17 | [Alvise](http://twitter.com/search?q=Alvise) | N/A |
-| 18 | [Tolga](http://twitter.com/search?q=Tolga) | N/A |
-| 19 | [Isco](http://twitter.com/search?q=Isco) | Isco is a Spanish nickname for Francisco, a popular name in Spain. In English, it is pronounced "EE-sko". |
-| 20 | [Países Bajos](http://twitter.com/search?q=Pa%c3%adses+Bajos) | N/A |
-| 21 | [Descanse](http://twitter.com/search?q=Descanse) | Descanse is a Spanish word that means "rest" or "relax". It is often used as a way to wish someone a good rest or to tell them to take a break. |
-| 22 | [PutiSOE](http://twitter.com/search?q=PutiSOE) | N/A |
-| 23 | [FFXVI](http://twitter.com/search?q=FFXVI) | N/A |
-| 24 | [Patxi](http://twitter.com/search?q=Patxi) | N/A |
-| 25 | [Campanilla](http://twitter.com/search?q=Campanilla) | N/A |
-| 26 | [Final Fantasy](http://twitter.com/search?q=Final+Fantasy) | N/A |
-| 27 | [Orestes](http://twitter.com/search?q=Orestes) | N/A |
-| 28 | [Holanda](http://twitter.com/search?q=Holanda) | N/A |
-| 29 | [Grogu](http://twitter.com/search?q=Grogu) | N/A |
-| 30 | [Real Murcia](http://twitter.com/search?q=Real+Murcia) | N/A |
-| 31 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 32 | [Bela](http://twitter.com/search?q=Bela) | N/A |
-| 33 | [Kitchen](http://twitter.com/search?q=Kitchen) | N/A |
-| 34 | [Illojuan](http://twitter.com/search?q=Illojuan) | N/A |
-| 35 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
-| 36 | [#firstdates28f](http://twitter.com/search?q=%23firstdates28f) | N/A |
-| 37 | [#SquidCraft2](http://twitter.com/search?q=%23SquidCraft2) | N/A |
-| 38 | [#CrisPorta28F](http://twitter.com/search?q=%23CrisPorta28F) | N/A |
-| 39 | [#LaNoche24h](http://twitter.com/search?q=%23LaNoche24h) | N/A |
-| 40 | [#BeyondFast](http://twitter.com/search?q=%23BeyondFast) | #BeyondFast is a hashtag used to describe something that goes beyond the speed of fast. It is used to emphasize the idea that something is faster than fast, or that it surpasses the speed of fast. |
-| 41 | [#Solos28F](http://twitter.com/search?q=%23Solos28F) | N/A |
-| 42 | [#Tierrade28F](http://twitter.com/search?q=%23Tierrade28F) | N/A |
-| 43 | [#ATEEZWORLDTOUR2023](http://twitter.com/search?q=%23ATEEZWORLDTOUR2023) | N/A |
-| 44 | [#ATEEZenMadrid2023](http://twitter.com/search?q=%23ATEEZenMadrid2023) | N/A |
-| 45 | [#QueTeVoteTitoBerni](http://twitter.com/search?q=%23QueTeVoteTitoBerni) | N/A |
-| 46 | [#Pasapalabra714](http://twitter.com/search?q=%23Pasapalabra714) | N/A |
-| 47 | [#HONORMagic5](http://twitter.com/search?q=%23HONORMagic5) | N/A |
-| 48 | [#PenaltiFinetwork](http://twitter.com/search?q=%23PenaltiFinetwork) | N/A |
-| 49 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 50 | [#PsoeBandaCriminal](http://twitter.com/search?q=%23PsoeBandaCriminal) | N/A |
+| 1 | [Andalucía](http://twitter.com/search?q=Andaluc%c3%ada) | N/A |
+| 2 | [Tito Berni](http://twitter.com/search?q=Tito+Berni) | N/A |
+| 3 | [#TentacionesDBT6](http://twitter.com/search?q=%23TentacionesDBT6) | N/A |
+| 4 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
+| 5 | [PSOE](http://twitter.com/search?q=PSOE) | N/A |
+| 6 | [#ATEEZinMadrid](http://twitter.com/search?q=%23ATEEZinMadrid) | N/A |
+| 7 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
+| 8 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 9 | [#SquidCraft2](http://twitter.com/search?q=%23SquidCraft2) | N/A |
+| 10 | [#LaIslaDeLasTentaciones6](http://twitter.com/search?q=%23LaIslaDeLasTentaciones6) | N/A |
+| 11 | [Pelayo](http://twitter.com/search?q=Pelayo) | N/A |
+| 12 | [#LaVelada3](http://twitter.com/search?q=%23LaVelada3) | N/A |
+| 13 | [Amouranth](http://twitter.com/search?q=Amouranth) | N/A |
+| 14 | [Mediador](http://twitter.com/search?q=Mediador) | N/A |
+| 15 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
+| 16 | [Andaluces](http://twitter.com/search?q=Andaluces) | N/A |
+| 17 | [Blas Infante](http://twitter.com/search?q=Blas+Infante) | N/A |
+| 18 | [Miquella](http://twitter.com/search?q=Miquella) | N/A |
+| 19 | [Inmoral](http://twitter.com/search?q=Inmoral) | N/A |
+| 20 | [Mingi](http://twitter.com/search?q=Mingi) | N/A |
+| 21 | [Ferrovial](http://twitter.com/search?q=Ferrovial) | N/A |
+| 22 | [Alexia](http://twitter.com/search?q=Alexia) | Alexia is a neurological disorder that affects a person's ability to read. It is also known as word blindness or dyslexia. People with Alexia have difficulty understanding written words, even though they may be able to speak and write normally. |
+| 23 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
+| 24 | [Autoevaluación HONESTA](http://twitter.com/search?q=Autoevaluaci%c3%b3n+HONESTA) | N/A |
+| 25 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
+| 26 | [Papi Gavi](http://twitter.com/search?q=Papi+Gavi) | N/A |
+| 27 | [Macarena](http://twitter.com/search?q=Macarena) | N/A |
+| 28 | [Mayichi](http://twitter.com/search?q=Mayichi) | N/A |
+| 29 | [Peter Pan](http://twitter.com/search?q=Peter+Pan) | N/A |
+| 30 | [Dalsy](http://twitter.com/search?q=Dalsy) | N/A |
+| 31 | [wooyoung](http://twitter.com/search?q=wooyoung) | Wooyoung is a Korean given name, derived from the Chinese characters for “protection” and “eternal”. It is usually given to boys and can also be written as Wu-Young or Woo-Young. The English meaning of Wooyoung is “eternal protection”. |
+| 32 | [Fray Perico](http://twitter.com/search?q=Fray+Perico) | N/A |
+| 33 | [Suicune](http://twitter.com/search?q=Suicune) | N/A |
+| 34 | [Coscu](http://twitter.com/search?q=Coscu) | N/A |
+| 35 | [Alvise](http://twitter.com/search?q=Alvise) | N/A |
+| 36 | [Luzu](http://twitter.com/search?q=Luzu) | Luzu is a Spanish word that means light. It is often used to refer to a bright, cheerful, and optimistic attitude. |
+| 37 | [España y la Humanidad](http://twitter.com/search?q=Espa%c3%b1a+y+la+Humanidad) | N/A |
+| 38 | [Andaluz](http://twitter.com/search?q=Andaluz) | N/A |
+| 39 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
+| 40 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 41 | [Germán](http://twitter.com/search?q=Germ%c3%a1n) | Germán is a Spanish and Portuguese name derived from the Latin Germanus, meaning "brother". It is also a Germanic given name, derived from the Germanic element ger, meaning "spear". |
+| 42 | [Países Bajos](http://twitter.com/search?q=Pa%c3%adses+Bajos) | N/A |
+| 43 | [Di María](http://twitter.com/search?q=Di+Mar%c3%ada) | N/A |
+| 44 | [Pokémon](http://twitter.com/search?q=Pok%c3%a9mon) | N/A |
+| 45 | [Viruzz](http://twitter.com/search?q=Viruzz) | N/A |
+| 46 | [DLC de Elden Ring](http://twitter.com/search?q=DLC+de+Elden+Ring) | N/A |
+| 47 | [PutiSOE](http://twitter.com/search?q=PutiSOE) | N/A |
+| 48 | [Fekir](http://twitter.com/search?q=Fekir) | Fekir is a French surname. It is derived from the Old French word fekir, which means "blessed". In English, it can be translated to mean "blessed one". |
+| 49 | [Orestes](http://twitter.com/search?q=Orestes) | N/A |
+| 50 | [Kitchen](http://twitter.com/search?q=Kitchen) | N/A |
 
 
 
