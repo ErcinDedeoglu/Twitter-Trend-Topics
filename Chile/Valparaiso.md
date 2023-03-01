@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Valparaiso
 
-📆 Last Updated: `2023-03-01 20:16:06 UTC`
+📆 Last Updated: `2023-03-01 21:16:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,48 +21,48 @@ This is top 50 for [Chile](</Chile>)
 | 4 | [Orsini](http://twitter.com/search?q=Orsini) | Orsini is an Italian surname derived from the Latin name Ursinus, meaning "bear-like". It is most commonly associated with the powerful Orsini family of Rome, who were influential in Italian politics during the Middle Ages and Renaissance. |
 | 5 | [#bancoestado](http://twitter.com/search?q=%23bancoestado) | N/A |
 | 6 | [Neme](http://twitter.com/search?q=Neme) | N/A |
-| 7 | [#adn15años](http://twitter.com/search?q=%23adn15a%c3%b1os) | N/A |
-| 8 | [twenty one pilots](http://twitter.com/search?q=twenty+one+pilots) | N/A |
-| 9 | [Daniela Aranguiz](http://twitter.com/search?q=Daniela+Aranguiz) | N/A |
+| 7 | [#SquidCraft2](http://twitter.com/search?q=%23SquidCraft2) | N/A |
+| 8 | [Daniela Aranguiz](http://twitter.com/search?q=Daniela+Aranguiz) | N/A |
+| 9 | [twenty one pilots](http://twitter.com/search?q=twenty+one+pilots) | N/A |
 | 10 | [Simon](http://twitter.com/search?q=Simon) | N/A |
 | 11 | [Blink 182](http://twitter.com/search?q=Blink+182) | N/A |
 | 12 | [Independiente del Valle](http://twitter.com/search?q=Independiente+del+Valle) | N/A |
-| 13 | [Gabriel Suazo](http://twitter.com/search?q=Gabriel+Suazo) | N/A |
-| 14 | [Missa](http://twitter.com/search?q=Missa) | N/A |
-| 15 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
-| 16 | [Valdivia](http://twitter.com/search?q=Valdivia) | N/A |
+| 13 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
+| 14 | [Valdivia](http://twitter.com/search?q=Valdivia) | N/A |
+| 15 | [Imacec](http://twitter.com/search?q=Imacec) | N/A |
+| 16 | [Gabriel Suazo](http://twitter.com/search?q=Gabriel+Suazo) | N/A |
 | 17 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
-| 18 | [Imacec](http://twitter.com/search?q=Imacec) | N/A |
-| 19 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
-| 20 | [Toulouse](http://twitter.com/search?q=Toulouse) | Toulouse is a city in southern France. It is the capital of the Occitanie region and the Haute-Garonne department. The city is located on the banks of the River Garonne, 150 km from the Mediterranean Sea and 230 km from the Atlantic Ocean. The meaning of Toulouse in English is "The City of Light". |
-| 21 | [Chili](http://twitter.com/search?q=Chili) | N/A |
-| 22 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
-| 23 | [Krassnoff](http://twitter.com/search?q=Krassnoff) | N/A |
-| 24 | [Thiem](http://twitter.com/search?q=Thiem) | Thiem is a surname of German origin. It is derived from the Old German word "diem" meaning "people". The name is most commonly found in Germany, Austria, and Switzerland. |
-| 25 | [Zoro](http://twitter.com/search?q=Zoro) | N/A |
-| 26 | [BIGHIT PROTECT RM](http://twitter.com/search?q=BIGHIT+PROTECT+RM) | N/A |
-| 27 | [The Dark Side of the Moon](http://twitter.com/search?q=The+Dark+Side+of+the+Moon) | N/A |
-| 28 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
-| 29 | [Vlado](http://twitter.com/search?q=Vlado) | N/A |
-| 30 | [Registro Civil](http://twitter.com/search?q=Registro+Civil) | N/A |
-| 31 | [Pikamee](http://twitter.com/search?q=Pikamee) | N/A |
-| 32 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
-| 33 | [Irina](http://twitter.com/search?q=Irina) | N/A |
-| 34 | [Garin](http://twitter.com/search?q=Garin) | N/A |
-| 35 | [Marcel](http://twitter.com/search?q=Marcel) | N/A |
-| 36 | [Bienvenido Marzo](http://twitter.com/search?q=Bienvenido+Marzo) | N/A |
-| 37 | [Gabigol](http://twitter.com/search?q=Gabigol) | Gabigol is a nickname given to Brazilian footballer Gabriel Barbosa, who currently plays for Flamengo. The nickname is a combination of his first name, Gabriel, and the Portuguese word for goal, gol. In English, the nickname translates to "Gabriel Goal". |
-| 38 | [Matías Fernández](http://twitter.com/search?q=Mat%c3%adas+Fern%c3%a1ndez) | N/A |
-| 39 | [Henry Boys](http://twitter.com/search?q=Henry+Boys) | N/A |
-| 40 | [Cerro Porteño](http://twitter.com/search?q=Cerro+Porte%c3%b1o) | N/A |
-| 41 | [Travis](http://twitter.com/search?q=Travis) | N/A |
-| 42 | [Eme Bus](http://twitter.com/search?q=Eme+Bus) | N/A |
-| 43 | [Phillip](http://twitter.com/search?q=Phillip) | N/A |
-| 44 | [Rubén](http://twitter.com/search?q=Rub%c3%a9n) | N/A |
+| 18 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
+| 19 | [Chili](http://twitter.com/search?q=Chili) | N/A |
+| 20 | [Missa](http://twitter.com/search?q=Missa) | N/A |
+| 21 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
+| 22 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
+| 23 | [Toulouse](http://twitter.com/search?q=Toulouse) | Toulouse is a city in southern France. It is the capital of the Occitanie region and the Haute-Garonne department. The city is located on the banks of the River Garonne, 150 km from the Mediterranean Sea and 230 km from the Atlantic Ocean. The meaning of Toulouse in English is "The City of Light". |
+| 24 | [Zoro](http://twitter.com/search?q=Zoro) | N/A |
+| 25 | [Krassnoff](http://twitter.com/search?q=Krassnoff) | N/A |
+| 26 | [Pikamee](http://twitter.com/search?q=Pikamee) | N/A |
+| 27 | [Thiem](http://twitter.com/search?q=Thiem) | Thiem is a surname of German origin. It is derived from the Old German word "diem" meaning "people". The name is most commonly found in Germany, Austria, and Switzerland. |
+| 28 | [Marcel](http://twitter.com/search?q=Marcel) | N/A |
+| 29 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
+| 30 | [Garin](http://twitter.com/search?q=Garin) | N/A |
+| 31 | [Integridad](http://twitter.com/search?q=Integridad) | N/A |
+| 32 | [BIGHIT PROTECT RM](http://twitter.com/search?q=BIGHIT+PROTECT+RM) | N/A |
+| 33 | [Vlado](http://twitter.com/search?q=Vlado) | N/A |
+| 34 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
+| 35 | [Registro Civil](http://twitter.com/search?q=Registro+Civil) | N/A |
+| 36 | [Gabigol](http://twitter.com/search?q=Gabigol) | Gabigol is a nickname given to Brazilian footballer Gabriel Barbosa, who currently plays for Flamengo. The nickname is a combination of his first name, Gabriel, and the Portuguese word for goal, gol. In English, the nickname translates to "Gabriel Goal". |
+| 37 | [The Dark Side of the Moon](http://twitter.com/search?q=The+Dark+Side+of+the+Moon) | N/A |
+| 38 | [Bienvenido Marzo](http://twitter.com/search?q=Bienvenido+Marzo) | N/A |
+| 39 | [Matías Fernández](http://twitter.com/search?q=Mat%c3%adas+Fern%c3%a1ndez) | N/A |
+| 40 | [Jon Favreau](http://twitter.com/search?q=Jon+Favreau) | N/A |
+| 41 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 42 | [Cerro Porteño](http://twitter.com/search?q=Cerro+Porte%c3%b1o) | N/A |
+| 43 | [Eme Bus](http://twitter.com/search?q=Eme+Bus) | N/A |
+| 44 | [Travis](http://twitter.com/search?q=Travis) | N/A |
 | 45 | [Llegó Marzo](http://twitter.com/search?q=Lleg%c3%b3+Marzo) | N/A |
-| 46 | [Integridad](http://twitter.com/search?q=Integridad) | N/A |
-| 47 | [Maracaná](http://twitter.com/search?q=Maracan%c3%a1) | N/A |
-| 48 | [Bolivia](http://twitter.com/search?q=Bolivia) | Bolivia is a country located in South America. It is bordered by Brazil, Paraguay, Argentina, Chile, and Peru. The name Bolivia comes from Simón Bolívar, a Venezuelan leader who helped lead several South American countries to independence from Spain in the early 19th century. The official language of Bolivia is Spanish. |
+| 46 | [Maracaná](http://twitter.com/search?q=Maracan%c3%a1) | N/A |
+| 47 | [Henry Boys](http://twitter.com/search?q=Henry+Boys) | N/A |
+| 48 | [Karamanos](http://twitter.com/search?q=Karamanos) | N/A |
 
 
 

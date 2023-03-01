@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For São Paulo
 
-📆 Last Updated: `2023-03-01 20:16:09 UTC`
+📆 Last Updated: `2023-03-01 21:16:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Faz o L](http://twitter.com/search?q=Faz+o+L) | N/A |
-| 2 | [Artur](http://twitter.com/search?q=Artur) | N/A |
+| 2 | [#PremierLeagueNaESPN](http://twitter.com/search?q=%23PremierLeagueNaESPN) | N/A |
 | 3 | [billie](http://twitter.com/search?q=billie) | N/A |
 | 4 | [Rubens](http://twitter.com/search?q=Rubens) | N/A |
-| 5 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
-| 6 | [Allan](http://twitter.com/search?q=Allan) | N/A |
-| 7 | [Ed Sheeran](http://twitter.com/search?q=Ed+Sheeran) | N/A |
-| 8 | [Petrobrás](http://twitter.com/search?q=Petrobr%c3%a1s) | N/A |
-| 9 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
-| 10 | [Atuesta](http://twitter.com/search?q=Atuesta) | Atuesta is a Spanish word that means "trust" or "confidence". It is often used to refer to the trust that exists between two people or groups. |
-| 11 | [#IMPETUOSO](http://twitter.com/search?q=%23IMPETUOSO) | N/A |
-| 12 | [Neto](http://twitter.com/search?q=Neto) | Neto is a Portuguese word meaning "net" or "net profit". It is commonly used to refer to the amount of money that remains after all taxes, deductions, and other expenses have been taken out of a total amount. |
-| 13 | [twenty one pilots](http://twitter.com/search?q=twenty+one+pilots) | N/A |
-| 14 | [sam levinson](http://twitter.com/search?q=sam+levinson) | N/A |
-| 15 | [all of the girls](http://twitter.com/search?q=all+of+the+girls) | N/A |
-| 16 | [jennie](http://twitter.com/search?q=jennie) | N/A |
-| 17 | [Thaissa](http://twitter.com/search?q=Thaissa) | N/A |
-| 18 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
-| 19 | [Blink](http://twitter.com/search?q=Blink) | N/A |
-| 20 | [#HYBEPROTECTRM](http://twitter.com/search?q=%23HYBEPROTECTRM) | N/A |
-| 21 | [BIGHIT PROTECT RM](http://twitter.com/search?q=BIGHIT+PROTECT+RM) | N/A |
-| 22 | [Lucy Liu](http://twitter.com/search?q=Lucy+Liu) | N/A |
-| 23 | [PADARIA TA ON](http://twitter.com/search?q=PADARIA+TA+ON) | N/A |
-| 24 | [Jaeci](http://twitter.com/search?q=Jaeci) | N/A |
-| 25 | [Emma Watson](http://twitter.com/search?q=Emma+Watson) | N/A |
-| 26 | [Chelo](http://twitter.com/search?q=Chelo) | N/A |
-| 27 | [Lupita Nyong](http://twitter.com/search?q=Lupita+Nyong) | N/A |
-| 28 | [Tom Hardy](http://twitter.com/search?q=Tom+Hardy) | N/A |
-| 29 | [#GoIMP](http://twitter.com/search?q=%23GoIMP) | N/A |
-| 30 | [Chris Evans](http://twitter.com/search?q=Chris+Evans) | Chris Evans is the name of an American actor, best known for his roles in Marvel superhero films such as Captain America and The Avengers. He has also starred in films such as Snowpiercer, Gifted, and Knives Out. |
-| 31 | [Mads Mikkelsen](http://twitter.com/search?q=Mads+Mikkelsen) | N/A |
-| 32 | [The Idol](http://twitter.com/search?q=The+Idol) | N/A |
-| 33 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 34 | [Haddad](http://twitter.com/search?q=Haddad) | N/A |
-| 35 | [Helena Bonham](http://twitter.com/search?q=Helena+Bonham) | N/A |
-| 36 | [Emma Stone](http://twitter.com/search?q=Emma+Stone) | N/A |
-| 37 | [Robert Pattinson](http://twitter.com/search?q=Robert+Pattinson) | N/A |
-| 38 | [Terrence Malick](http://twitter.com/search?q=Terrence+Malick) | N/A |
-| 39 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
-| 40 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 41 | [#MoonlightChickenEP7](http://twitter.com/search?q=%23MoonlightChickenEP7) | N/A |
-| 42 | [Imperial](http://twitter.com/search?q=Imperial) | N/A |
-| 43 | [IFAB](http://twitter.com/search?q=IFAB) | N/A |
-| 44 | [Tom Delonge](http://twitter.com/search?q=Tom+Delonge) | N/A |
-| 45 | [Saoirse Ronan](http://twitter.com/search?q=Saoirse+Ronan) | N/A |
-| 46 | [Dida](http://twitter.com/search?q=Dida) | N/A |
-| 47 | [Benedict Cumberbatch](http://twitter.com/search?q=Benedict+Cumberbatch) | N/A |
-| 48 | [Barbie Ferreira](http://twitter.com/search?q=Barbie+Ferreira) | N/A |
-| 49 | [KARL](http://twitter.com/search?q=KARL) | N/A |
-| 50 | [Banco](http://twitter.com/search?q=Banco) | N/A |
+| 5 | [Travis](http://twitter.com/search?q=Travis) | N/A |
+| 6 | [Metallica](http://twitter.com/search?q=Metallica) | N/A |
+| 7 | [Caxias do Sul](http://twitter.com/search?q=Caxias+do+Sul) | N/A |
+| 8 | [C6 Fest](http://twitter.com/search?q=C6+Fest) | N/A |
+| 9 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
+| 10 | [Câmara](http://twitter.com/search?q=C%c3%a2mara) | N/A |
+| 11 | [#HappyBirthdayJustinBieber](http://twitter.com/search?q=%23HappyBirthdayJustinBieber) | N/A |
+| 12 | [Allan](http://twitter.com/search?q=Allan) | N/A |
+| 13 | [Tinashe](http://twitter.com/search?q=Tinashe) | N/A |
+| 14 | [Senado](http://twitter.com/search?q=Senado) | Senado is the Spanish word for Senate. It is used to refer to a legislative body, usually in a government or other political organization, that is composed of members who are elected or appointed by the population. In English, it can be translated as "Senate". |
+| 15 | [Ed Sheeran](http://twitter.com/search?q=Ed+Sheeran) | N/A |
+| 16 | [Petrobrás](http://twitter.com/search?q=Petrobr%c3%a1s) | N/A |
+| 17 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
+| 18 | [#IMPETUOSO](http://twitter.com/search?q=%23IMPETUOSO) | N/A |
+| 19 | [all of the girls](http://twitter.com/search?q=all+of+the+girls) | N/A |
+| 20 | [Thaissa](http://twitter.com/search?q=Thaissa) | N/A |
+| 21 | [ORDEM TRÊS ANOS](http://twitter.com/search?q=ORDEM+TR%c3%8aS+ANOS) | N/A |
+| 22 | [Nova Iguaçu](http://twitter.com/search?q=Nova+Igua%c3%a7u) | Nova Iguaçu is a city in the state of Rio de Janeiro, Brazil. The name Nova Iguaçu translates to "New Iguaçu" in English, referring to the nearby Iguaçu River. |
+| 23 | [Neto](http://twitter.com/search?q=Neto) | Neto is a Portuguese word meaning "net" or "net profit". It is commonly used to refer to the amount of money that remains after all taxes, deductions, and other expenses have been taken out of a total amount. |
+| 24 | [twenty one pilots](http://twitter.com/search?q=twenty+one+pilots) | N/A |
+| 25 | [sam levinson](http://twitter.com/search?q=sam+levinson) | N/A |
+| 26 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 27 | [jennie](http://twitter.com/search?q=jennie) | N/A |
+| 28 | [Zinchenko](http://twitter.com/search?q=Zinchenko) | Zinchenko is a Russian surname derived from the word "zinchen", which means "little one". It is a patronymic name, meaning it is derived from the given name of a father or ancestor. In English, it can be translated to mean "son of Zincha". |
+| 29 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
+| 30 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
+| 31 | [Chelo](http://twitter.com/search?q=Chelo) | N/A |
+| 32 | [O Vitória](http://twitter.com/search?q=O+Vit%c3%b3ria) | N/A |
+| 33 | [Pedro Lourenço](http://twitter.com/search?q=Pedro+Louren%c3%a7o) | N/A |
+| 34 | [#HYBEPROTECTRM](http://twitter.com/search?q=%23HYBEPROTECTRM) | N/A |
+| 35 | [Emma Watson](http://twitter.com/search?q=Emma+Watson) | N/A |
+| 36 | [Lucy Liu](http://twitter.com/search?q=Lucy+Liu) | N/A |
+| 37 | [Emma Stone](http://twitter.com/search?q=Emma+Stone) | N/A |
+| 38 | [PADARIA TA ON](http://twitter.com/search?q=PADARIA+TA+ON) | N/A |
+| 39 | [Blink](http://twitter.com/search?q=Blink) | N/A |
+| 40 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 41 | [Tom Hardy](http://twitter.com/search?q=Tom+Hardy) | N/A |
+| 42 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 43 | [BIGHIT PROTECT RM](http://twitter.com/search?q=BIGHIT+PROTECT+RM) | N/A |
+| 44 | [Lover](http://twitter.com/search?q=Lover) | N/A |
+| 45 | [Pedrinho BH](http://twitter.com/search?q=Pedrinho+BH) | N/A |
+| 46 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
+| 47 | [Chris Evans](http://twitter.com/search?q=Chris+Evans) | Chris Evans is the name of an American actor, best known for his roles in Marvel superhero films such as Captain America and The Avengers. He has also starred in films such as Snowpiercer, Gifted, and Knives Out. |
+| 48 | [Fábio Mota](http://twitter.com/search?q=F%c3%a1bio+Mota) | N/A |
+| 49 | [20% da SAF](http://twitter.com/search?q=20%25+da+SAF) | N/A |
+| 50 | [Jaeci Carvalho](http://twitter.com/search?q=Jaeci+Carvalho) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Los Angeles
 
-📆 Last Updated: `2023-03-01 20:16:43 UTC`
+📆 Last Updated: `2023-03-01 21:17:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
-| 2 | [Mookie](http://twitter.com/search?q=Mookie) | N/A |
-| 3 | [Olympics](http://twitter.com/search?q=Olympics) | N/A |
-| 4 | [joon](http://twitter.com/search?q=joon) | Joon is a Persian word that means "soul" or "spirit". It is often used to refer to the inner essence of a person, and is sometimes used as a term of endearment. |
-| 5 | [Quickie](http://twitter.com/search?q=Quickie) | N/A |
-| 6 | [Blake](http://twitter.com/search?q=Blake) | Blake is a unisex name of English origin, derived from Old English words meaning "black" and "bright". It is often used as a surname as well. |
-| 7 | [Mayor](http://twitter.com/search?q=Mayor) | N/A |
-| 8 | [Lightfoot](http://twitter.com/search?q=Lightfoot) | N/A |
-| 9 | [Columbus](http://twitter.com/search?q=Columbus) | N/A |
+| 2 | [Glendale](http://twitter.com/search?q=Glendale) | N/A |
+| 3 | [Mookie](http://twitter.com/search?q=Mookie) | N/A |
+| 4 | [Olympics](http://twitter.com/search?q=Olympics) | N/A |
+| 5 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
+| 6 | [Wray](http://twitter.com/search?q=Wray) | N/A |
+| 7 | [joon](http://twitter.com/search?q=joon) | Joon is a Persian word that means "soul" or "spirit". It is often used to refer to the inner essence of a person, and is sometimes used as a term of endearment. |
+| 8 | [Quickie](http://twitter.com/search?q=Quickie) | N/A |
+| 9 | [Blake](http://twitter.com/search?q=Blake) | Blake is a unisex name of English origin, derived from Old English words meaning "black" and "bright". It is often used as a surname as well. |
 | 10 | [Jonathan Quick](http://twitter.com/search?q=Jonathan+Quick) | N/A |
-| 11 | [Mando](http://twitter.com/search?q=Mando) | N/A |
-| 12 | [Grogu](http://twitter.com/search?q=Grogu) | N/A |
-| 13 | [#WomensHistoryMonth](http://twitter.com/search?q=%23WomensHistoryMonth) | N/A |
-| 14 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
-| 15 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
-| 16 | [sam levinson](http://twitter.com/search?q=sam+levinson) | N/A |
-| 17 | [#TheMandalorianXboxSweepstakes](http://twitter.com/search?q=%23TheMandalorianXboxSweepstakes) | N/A |
-| 18 | [KARL](http://twitter.com/search?q=KARL) | N/A |
-| 19 | [Jalen Carter](http://twitter.com/search?q=Jalen+Carter) | N/A |
-| 20 | [Pikamee](http://twitter.com/search?q=Pikamee) | N/A |
-| 21 | [#CashAppTaxes](http://twitter.com/search?q=%23CashAppTaxes) | N/A |
-| 22 | [TINA](http://twitter.com/search?q=TINA) | N/A |
-| 23 | [#RHOA](http://twitter.com/search?q=%23RHOA) | N/A |
-| 24 | [Havana Syndrome](http://twitter.com/search?q=Havana+Syndrome) | N/A |
-| 25 | [Ted Cruz](http://twitter.com/search?q=Ted+Cruz) | N/A |
-| 26 | [Eli Lilly](http://twitter.com/search?q=Eli+Lilly) | N/A |
-| 27 | [NFLPA](http://twitter.com/search?q=NFLPA) | N/A |
-| 28 | [Visibly](http://twitter.com/search?q=Visibly) | N/A |
-| 29 | [#BBCAN11](http://twitter.com/search?q=%23BBCAN11) | N/A |
-| 30 | [Lars Eller](http://twitter.com/search?q=Lars+Eller) | N/A |
-| 31 | [Ralph](http://twitter.com/search?q=Ralph) | N/A |
-| 32 | [ChatGPT API](http://twitter.com/search?q=ChatGPT+API) | N/A |
-| 33 | [Finish Line](http://twitter.com/search?q=Finish+Line) | N/A |
-| 34 | [Drew](http://twitter.com/search?q=Drew) | N/A |
-| 35 | [Mike Lee](http://twitter.com/search?q=Mike+Lee) | N/A |
-| 36 | [Bader](http://twitter.com/search?q=Bader) | Bader is a German name derived from the Old High German word "bado" meaning "battle". It is also a surname, and can be used as a given name. In English, it is usually pronounced "BAY-der". |
-| 37 | [Ultra MAGA](http://twitter.com/search?q=Ultra+MAGA) | N/A |
-| 38 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 39 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 40 | [Euphoria](http://twitter.com/search?q=Euphoria) | N/A |
-| 41 | [Danjuma](http://twitter.com/search?q=Danjuma) | Danjuma is a Nigerian name of Yoruba origin. It means "God has done it" in English. |
-| 42 | [Lindelof](http://twitter.com/search?q=Lindelof) | Lindelof is a surname of Swedish origin. It is derived from the Old Norse name Lindalófr, which means "linden leaf" or "linden tree". In English, the name can be translated to mean "beloved of the linden tree". |
-| 43 | [Larkin](http://twitter.com/search?q=Larkin) | N/A |
-| 44 | [Damp](http://twitter.com/search?q=Damp) | N/A |
-| 45 | [The Idol](http://twitter.com/search?q=The+Idol) | N/A |
-| 46 | [Hawley](http://twitter.com/search?q=Hawley) | N/A |
-| 47 | [jennie](http://twitter.com/search?q=jennie) | N/A |
-| 48 | [Joe Budden](http://twitter.com/search?q=Joe+Budden) | N/A |
-| 49 | [Watkins](http://twitter.com/search?q=Watkins) | Watkins is a surname of English origin. It is derived from the Old English personal name Watkin, which is a diminutive form of Walter. The name means "son of Walter". |
-| 50 | [Chandler Parsons](http://twitter.com/search?q=Chandler+Parsons) | Chandler Parsons is an American professional basketball player who currently plays for the Atlanta Hawks of the National Basketball Association (NBA). He is known for his ability to shoot from long range and his versatility as a forward. |
+| 11 | [Mayor](http://twitter.com/search?q=Mayor) | N/A |
+| 12 | [The FBI](http://twitter.com/search?q=The+FBI) | N/A |
+| 13 | [Columbus](http://twitter.com/search?q=Columbus) | N/A |
+| 14 | [Lightfoot](http://twitter.com/search?q=Lightfoot) | N/A |
+| 15 | [Grogu](http://twitter.com/search?q=Grogu) | N/A |
+| 16 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
+| 17 | [#WomensHistoryMonth](http://twitter.com/search?q=%23WomensHistoryMonth) | N/A |
+| 18 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 19 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
+| 20 | [#SUGA_AgustD_TOUR](http://twitter.com/search?q=%23SUGA_AgustD_TOUR) | N/A |
+| 21 | [sam levinson](http://twitter.com/search?q=sam+levinson) | N/A |
+| 22 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 23 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 24 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 25 | [#ARSEVE](http://twitter.com/search?q=%23ARSEVE) | N/A |
+| 26 | [#TheMandalorianXboxSweepstakes](http://twitter.com/search?q=%23TheMandalorianXboxSweepstakes) | N/A |
+| 27 | [#CashAppTaxes](http://twitter.com/search?q=%23CashAppTaxes) | N/A |
+| 28 | [Pikamee](http://twitter.com/search?q=Pikamee) | N/A |
+| 29 | [KARL](http://twitter.com/search?q=KARL) | N/A |
+| 30 | [Burbank](http://twitter.com/search?q=Burbank) | N/A |
+| 31 | [TINA](http://twitter.com/search?q=TINA) | N/A |
+| 32 | [Jalen Carter](http://twitter.com/search?q=Jalen+Carter) | N/A |
+| 33 | [NFLPA](http://twitter.com/search?q=NFLPA) | N/A |
+| 34 | [Ted Cruz](http://twitter.com/search?q=Ted+Cruz) | N/A |
+| 35 | [Havana Syndrome](http://twitter.com/search?q=Havana+Syndrome) | N/A |
+| 36 | [Ultra MAGA](http://twitter.com/search?q=Ultra+MAGA) | N/A |
+| 37 | [Lindelof](http://twitter.com/search?q=Lindelof) | Lindelof is a surname of Swedish origin. It is derived from the Old Norse name Lindalófr, which means "linden leaf" or "linden tree". In English, the name can be translated to mean "beloved of the linden tree". |
+| 38 | [Finish Line](http://twitter.com/search?q=Finish+Line) | N/A |
+| 39 | [FNAFTOOZ](http://twitter.com/search?q=FNAFTOOZ) | N/A |
+| 40 | [IM SEEING YOONGI](http://twitter.com/search?q=IM+SEEING+YOONGI) | N/A |
+| 41 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
+| 42 | [ChatGPT API](http://twitter.com/search?q=ChatGPT+API) | N/A |
+| 43 | [Eli Lilly](http://twitter.com/search?q=Eli+Lilly) | N/A |
+| 44 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
+| 45 | [Ronny Mauricio](http://twitter.com/search?q=Ronny+Mauricio) | N/A |
+| 46 | [Newark](http://twitter.com/search?q=Newark) | N/A |
+| 47 | [Visibly](http://twitter.com/search?q=Visibly) | N/A |
+| 48 | [Buffalo Fire Department](http://twitter.com/search?q=Buffalo+Fire+Department) | N/A |
+| 49 | [Lars Eller](http://twitter.com/search?q=Lars+Eller) | N/A |
+| 50 | [Mike Lee](http://twitter.com/search?q=Mike+Lee) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Harcourt
 
-📆 Last Updated: `2023-03-01 20:16:29 UTC`
+📆 Last Updated: `2023-03-01 21:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,51 +15,54 @@ This is top 50 for [Nigeria](</Nigeria>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Chinedu](http://twitter.com/search?q=Chinedu) | N/A |
-| 2 | [#ARSEVE](http://twitter.com/search?q=%23ARSEVE) | N/A |
-| 3 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 4 | [Jesus Name Above All Names](http://twitter.com/search?q=Jesus+Name+Above+All+Names) | N/A |
-| 5 | [#MUNWHU](http://twitter.com/search?q=%23MUNWHU) | N/A |
-| 6 | [Lindelof](http://twitter.com/search?q=Lindelof) | Lindelof is a surname of Swedish origin. It is derived from the Old Norse name Lindalófr, which means "linden leaf" or "linden tree". In English, the name can be translated to mean "beloved of the linden tree". |
-| 7 | [Lagosian](http://twitter.com/search?q=Lagosian) | N/A |
-| 8 | [Afonja](http://twitter.com/search?q=Afonja) | N/A |
-| 9 | [Gbadebo](http://twitter.com/search?q=Gbadebo) | N/A |
-| 10 | [#NotMyPresident](http://twitter.com/search?q=%23NotMyPresident) | N/A |
-| 11 | [Shola](http://twitter.com/search?q=Shola) | N/A |
+| 1 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 2 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 3 | [#ARSEVE](http://twitter.com/search?q=%23ARSEVE) | N/A |
+| 4 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 5 | [Afonja](http://twitter.com/search?q=Afonja) | N/A |
+| 6 | [IPOB](http://twitter.com/search?q=IPOB) | N/A |
+| 7 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 8 | [Chinedu](http://twitter.com/search?q=Chinedu) | N/A |
+| 9 | [Jesus Name Above All Names](http://twitter.com/search?q=Jesus+Name+Above+All+Names) | N/A |
+| 10 | [#MUNWHU](http://twitter.com/search?q=%23MUNWHU) | N/A |
+| 11 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
 | 12 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
-| 13 | [The Originals](http://twitter.com/search?q=The+Originals) | N/A |
-| 14 | [Debit](http://twitter.com/search?q=Debit) | N/A |
-| 15 | [Black Wednesday](http://twitter.com/search?q=Black+Wednesday) | N/A |
-| 16 | [Pastor Adeboye](http://twitter.com/search?q=Pastor+Adeboye) | N/A |
-| 17 | [Dear Obidients](http://twitter.com/search?q=Dear+Obidients) | N/A |
-| 18 | [Certificate of Return](http://twitter.com/search?q=Certificate+of+Return) | N/A |
-| 19 | [Alex Otti](http://twitter.com/search?q=Alex+Otti) | N/A |
-| 20 | [UBA Bank](http://twitter.com/search?q=UBA+Bank) | N/A |
-| 21 | [Stolen](http://twitter.com/search?q=Stolen) | N/A |
-| 22 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
-| 23 | [TG Omori](http://twitter.com/search?q=TG+Omori) | N/A |
-| 24 | [Corn](http://twitter.com/search?q=Corn) | N/A |
-| 25 | [Biafra](http://twitter.com/search?q=Biafra) | N/A |
-| 26 | [President-elect](http://twitter.com/search?q=President-elect) | N/A |
+| 13 | [Zinchenko](http://twitter.com/search?q=Zinchenko) | Zinchenko is a Russian surname derived from the word "zinchen", which means "little one". It is a patronymic name, meaning it is derived from the given name of a father or ancestor. In English, it can be translated to mean "son of Zincha". |
+| 14 | [Sean Dyche](http://twitter.com/search?q=Sean+Dyche) | Sean Dyche is the name of the current manager of English Premier League football club Burnley. The name is a combination of his first and last names. The meaning in English is simply the name of the manager. |
+| 15 | [Lagosian](http://twitter.com/search?q=Lagosian) | N/A |
+| 16 | [Nairaland](http://twitter.com/search?q=Nairaland) | N/A |
+| 17 | [Gbadebo](http://twitter.com/search?q=Gbadebo) | N/A |
+| 18 | [Rishi](http://twitter.com/search?q=Rishi) | N/A |
+| 19 | [Shola](http://twitter.com/search?q=Shola) | N/A |
+| 20 | [The Originals](http://twitter.com/search?q=The+Originals) | N/A |
+| 21 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
+| 22 | [Sanwo](http://twitter.com/search?q=Sanwo) | N/A |
+| 23 | [Debit](http://twitter.com/search?q=Debit) | N/A |
+| 24 | [Governor of Lagos](http://twitter.com/search?q=Governor+of+Lagos) | N/A |
+| 25 | [Breaking Bad](http://twitter.com/search?q=Breaking+Bad) | N/A |
+| 26 | [INEC President](http://twitter.com/search?q=INEC+President) | N/A |
 | 27 | [Jandor](http://twitter.com/search?q=Jandor) | N/A |
-| 28 | [Boko](http://twitter.com/search?q=Boko) | N/A |
-| 29 | [Okwute](http://twitter.com/search?q=Okwute) | N/A |
-| 30 | [Governor of Lagos](http://twitter.com/search?q=Governor+of+Lagos) | N/A |
-| 31 | [IELTS](http://twitter.com/search?q=IELTS) | N/A |
-| 32 | [Sanwolu](http://twitter.com/search?q=Sanwolu) | N/A |
-| 33 | [Mandate](http://twitter.com/search?q=Mandate) | N/A |
-| 34 | [Shettima](http://twitter.com/search?q=Shettima) | N/A |
-| 35 | [APGA](http://twitter.com/search?q=APGA) | N/A |
-| 36 | [Danny](http://twitter.com/search?q=Danny) | N/A |
-| 37 | [His Excellency](http://twitter.com/search?q=His+Excellency) | N/A |
-| 38 | [Which Nigerians](http://twitter.com/search?q=Which+Nigerians) | N/A |
-| 39 | [#TheNigeriaWeWant](http://twitter.com/search?q=%23TheNigeriaWeWant) | N/A |
-| 40 | [#Samie](http://twitter.com/search?q=%23Samie) | N/A |
-| 41 | [#labourpartynigeria](http://twitter.com/search?q=%23labourpartynigeria) | N/A |
-| 42 | [#Resignation](http://twitter.com/search?q=%23Resignation) | N/A |
-| 43 | [#TemiAt33](http://twitter.com/search?q=%23TemiAt33) | N/A |
-| 44 | [#INECElectionResult2023](http://twitter.com/search?q=%23INECElectionResult2023) | N/A |
-| 45 | [#SanwoLekansi](http://twitter.com/search?q=%23SanwoLekansi) | N/A |
+| 28 | [UBA Bank](http://twitter.com/search?q=UBA+Bank) | N/A |
+| 29 | [Pastor Adeboye](http://twitter.com/search?q=Pastor+Adeboye) | N/A |
+| 30 | [Alex Otti](http://twitter.com/search?q=Alex+Otti) | N/A |
+| 31 | [Certificate of Return](http://twitter.com/search?q=Certificate+of+Return) | N/A |
+| 32 | [Black Wednesday](http://twitter.com/search?q=Black+Wednesday) | N/A |
+| 33 | [Stolen](http://twitter.com/search?q=Stolen) | N/A |
+| 34 | [Precious](http://twitter.com/search?q=Precious) | N/A |
+| 35 | [Dear Obidients](http://twitter.com/search?q=Dear+Obidients) | N/A |
+| 36 | [Corn](http://twitter.com/search?q=Corn) | N/A |
+| 37 | [Biafra](http://twitter.com/search?q=Biafra) | N/A |
+| 38 | [Boko](http://twitter.com/search?q=Boko) | N/A |
+| 39 | [Our President](http://twitter.com/search?q=Our+President) | N/A |
+| 40 | [IELTS](http://twitter.com/search?q=IELTS) | N/A |
+| 41 | [APGA](http://twitter.com/search?q=APGA) | N/A |
+| 42 | [#ARSVSEVE](http://twitter.com/search?q=%23ARSVSEVE) | N/A |
+| 43 | [#labourpartynigeria](http://twitter.com/search?q=%23labourpartynigeria) | N/A |
+| 44 | [#TheNigeriaWeWant](http://twitter.com/search?q=%23TheNigeriaWeWant) | N/A |
+| 45 | [#ARISENews](http://twitter.com/search?q=%23ARISENews) | N/A |
+| 46 | [#NotMyPresident](http://twitter.com/search?q=%23NotMyPresident) | N/A |
+| 47 | [#TemiAt33](http://twitter.com/search?q=%23TemiAt33) | N/A |
+| 48 | [#FACup](http://twitter.com/search?q=%23FACup) | #FACup is an abbreviation for the Football Association Challenge Cup, which is an annual knockout football competition in England. It is the oldest football competition in the world and is open to all teams from the top four tiers of English football. |
 
 
 

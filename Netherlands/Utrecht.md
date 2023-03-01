@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Utrecht
 
-📆 Last Updated: `2023-03-01 20:16:16 UTC`
+📆 Last Updated: `2023-03-01 21:16:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Netherlands](</Netherlands>)
 | ------- | ------------ | ------------ |
 | 1 | [#heefey](http://twitter.com/search?q=%23heefey) | N/A |
 | 2 | [#complimentendag](http://twitter.com/search?q=%23complimentendag) | N/A |
-| 3 | [#UtrSpa](http://twitter.com/search?q=%23UtrSpa) | N/A |
-| 4 | [#songfestival](http://twitter.com/search?q=%23songfestival) | N/A |
-| 5 | [Spakenburg](http://twitter.com/search?q=Spakenburg) | N/A |
-| 6 | [#Eurovision2023](http://twitter.com/search?q=%23Eurovision2023) | N/A |
-| 7 | [Idrissi](http://twitter.com/search?q=Idrissi) | N/A |
-| 8 | [Olav](http://twitter.com/search?q=Olav) | N/A |
-| 9 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
-| 10 | [Heerenveen](http://twitter.com/search?q=Heerenveen) | N/A |
-| 11 | [Drommel](http://twitter.com/search?q=Drommel) | N/A |
-| 12 | [DigiD](http://twitter.com/search?q=DigiD) | N/A |
-| 13 | [Wichian](http://twitter.com/search?q=Wichian) | N/A |
-| 14 | [Jessica](http://twitter.com/search?q=Jessica) | N/A |
-| 15 | [Dilrosun](http://twitter.com/search?q=Dilrosun) | N/A |
-| 16 | [Red Ongehoord Nederland](http://twitter.com/search?q=Red+Ongehoord+Nederland) | N/A |
-| 17 | [Mia Nicolai](http://twitter.com/search?q=Mia+Nicolai) | N/A |
-| 18 | [goedemorgen](http://twitter.com/search?q=goedemorgen) | N/A |
-| 19 | [Raymond](http://twitter.com/search?q=Raymond) | N/A |
-| 20 | [Stop NPO-censuur](http://twitter.com/search?q=Stop+NPO-censuur) | N/A |
-| 21 | [Chinees](http://twitter.com/search?q=Chinees) | N/A |
-| 22 | [Duncan](http://twitter.com/search?q=Duncan) | N/A |
-| 23 | [FC Utrecht](http://twitter.com/search?q=FC+Utrecht) | N/A |
-| 24 | [Davey](http://twitter.com/search?q=Davey) | N/A |
-| 25 | [De FBI](http://twitter.com/search?q=De+FBI) | N/A |
-| 26 | [KARL](http://twitter.com/search?q=KARL) | N/A |
-| 27 | [Peter R. de Vries](http://twitter.com/search?q=Peter+R.+de+Vries) | N/A |
-| 28 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
-| 29 | [Loes](http://twitter.com/search?q=Loes) | N/A |
-| 30 | [Wieke](http://twitter.com/search?q=Wieke) | N/A |
-| 31 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 32 | [Mexx Meerdink](http://twitter.com/search?q=Mexx+Meerdink) | N/A |
-| 33 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 34 | [Dion Cooper](http://twitter.com/search?q=Dion+Cooper) | N/A |
-| 35 | [Marion Koopmans](http://twitter.com/search?q=Marion+Koopmans) | N/A |
-| 36 | [Kees Smit](http://twitter.com/search?q=Kees+Smit) | N/A |
-| 37 | [Bachmoet](http://twitter.com/search?q=Bachmoet) | N/A |
-| 38 | [Benitez](http://twitter.com/search?q=Benitez) | N/A |
-| 39 | [Stemchecker](http://twitter.com/search?q=Stemchecker) | N/A |
-| 40 | [BNNVARA](http://twitter.com/search?q=BNNVARA) | N/A |
-| 41 | [OVV-rapport](http://twitter.com/search?q=OVV-rapport) | N/A |
-| 42 | [TINA](http://twitter.com/search?q=TINA) | N/A |
-| 43 | [Maarten](http://twitter.com/search?q=Maarten) | N/A |
-| 44 | [Directeur FBI](http://twitter.com/search?q=Directeur+FBI) | N/A |
-| 45 | [Omar](http://twitter.com/search?q=Omar) | Omar is a male given name of Arabic origin, meaning "speaker". It is also used as a surname. |
-| 46 | [Galgenwaard](http://twitter.com/search?q=Galgenwaard) | N/A |
-| 47 | [Had Trump](http://twitter.com/search?q=Had+Trump) | N/A |
-| 48 | [Tjeerd](http://twitter.com/search?q=Tjeerd) | N/A |
-| 49 | [Wiersum](http://twitter.com/search?q=Wiersum) | N/A |
-| 50 | [woz-bezwaar](http://twitter.com/search?q=woz-bezwaar) | N/A |
+| 3 | [#mafs](http://twitter.com/search?q=%23mafs) | N/A |
+| 4 | [Heerenveen](http://twitter.com/search?q=Heerenveen) | N/A |
+| 5 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
+| 6 | [Spakenburg](http://twitter.com/search?q=Spakenburg) | N/A |
+| 7 | [#UtrSpa](http://twitter.com/search?q=%23UtrSpa) | N/A |
+| 8 | [Martijn](http://twitter.com/search?q=Martijn) | N/A |
+| 9 | [#Venus](http://twitter.com/search?q=%23Venus) | N/A |
+| 10 | [Idrissi](http://twitter.com/search?q=Idrissi) | N/A |
+| 11 | [Kasanwirjo](http://twitter.com/search?q=Kasanwirjo) | N/A |
+| 12 | [Olav](http://twitter.com/search?q=Olav) | N/A |
+| 13 | [Stephan](http://twitter.com/search?q=Stephan) | N/A |
+| 14 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
+| 15 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
+| 16 | [Wichian](http://twitter.com/search?q=Wichian) | N/A |
+| 17 | [Slot](http://twitter.com/search?q=Slot) | N/A |
+| 18 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 19 | [DigiD](http://twitter.com/search?q=DigiD) | N/A |
+| 20 | [Van Boekel](http://twitter.com/search?q=Van+Boekel) | N/A |
+| 21 | [Drommel](http://twitter.com/search?q=Drommel) | N/A |
+| 22 | [Dilrosun](http://twitter.com/search?q=Dilrosun) | N/A |
+| 23 | [Trauner](http://twitter.com/search?q=Trauner) | N/A |
+| 24 | [Paula](http://twitter.com/search?q=Paula) | Paula is a female given name of Latin origin, meaning "small". It is derived from the word "paulus", which means "little". |
+| 25 | [Loes](http://twitter.com/search?q=Loes) | N/A |
+| 26 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 27 | [Gimenez](http://twitter.com/search?q=Gimenez) | N/A |
+| 28 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 29 | [Red Ongehoord Nederland](http://twitter.com/search?q=Red+Ongehoord+Nederland) | N/A |
+| 30 | [Remco](http://twitter.com/search?q=Remco) | N/A |
+| 31 | [Stop NPO-censuur](http://twitter.com/search?q=Stop+NPO-censuur) | N/A |
+| 32 | [Mia Nicolai](http://twitter.com/search?q=Mia+Nicolai) | N/A |
+| 33 | [Chinees](http://twitter.com/search?q=Chinees) | N/A |
+| 34 | [goedemorgen](http://twitter.com/search?q=goedemorgen) | N/A |
+| 35 | [De FBI](http://twitter.com/search?q=De+FBI) | N/A |
+| 36 | [Peter R. de Vries](http://twitter.com/search?q=Peter+R.+de+Vries) | N/A |
+| 37 | [FC Utrecht](http://twitter.com/search?q=FC+Utrecht) | N/A |
+| 38 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 39 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
+| 40 | [Wieke](http://twitter.com/search?q=Wieke) | N/A |
+| 41 | [Kees Smit](http://twitter.com/search?q=Kees+Smit) | N/A |
+| 42 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 43 | [Dion Cooper](http://twitter.com/search?q=Dion+Cooper) | N/A |
+| 44 | [Benitez](http://twitter.com/search?q=Benitez) | N/A |
+| 45 | [Marion Koopmans](http://twitter.com/search?q=Marion+Koopmans) | N/A |
+| 46 | [Aantal](http://twitter.com/search?q=Aantal) | N/A |
+| 47 | [Stemchecker](http://twitter.com/search?q=Stemchecker) | N/A |
+| 48 | [Jason](http://twitter.com/search?q=Jason) | Jason is a masculine given name of Greek origin. It is derived from the Greek Ἰάσων (Iásōn), meaning "healer" or "the one who cures". |
+| 49 | [Bachmoet](http://twitter.com/search?q=Bachmoet) | N/A |
+| 50 | [TINA](http://twitter.com/search?q=TINA) | N/A |
 
 
 

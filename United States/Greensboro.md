@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Greensboro
 
-📆 Last Updated: `2023-03-01 20:16:42 UTC`
+📆 Last Updated: `2023-03-01 21:17:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Carr](http://twitter.com/search?q=Carr) | Carr is a Scottish surname derived from the Gaelic word "carraig" meaning "rock". It is also an English surname derived from the Old Norse word "kjaerr" meaning "marsh". |
-| 2 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
-| 3 | [#WomensHistoryMonth](http://twitter.com/search?q=%23WomensHistoryMonth) | N/A |
-| 4 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
-| 5 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
-| 6 | [sam levinson](http://twitter.com/search?q=sam+levinson) | N/A |
-| 7 | [#TheMandalorianXboxSweepstakes](http://twitter.com/search?q=%23TheMandalorianXboxSweepstakes) | N/A |
-| 8 | [KARL](http://twitter.com/search?q=KARL) | N/A |
-| 9 | [Jalen Carter](http://twitter.com/search?q=Jalen+Carter) | N/A |
-| 10 | [Pikamee](http://twitter.com/search?q=Pikamee) | N/A |
-| 11 | [#CashAppTaxes](http://twitter.com/search?q=%23CashAppTaxes) | N/A |
-| 12 | [TINA](http://twitter.com/search?q=TINA) | N/A |
-| 13 | [#RHOA](http://twitter.com/search?q=%23RHOA) | N/A |
-| 14 | [Havana Syndrome](http://twitter.com/search?q=Havana+Syndrome) | N/A |
-| 15 | [Ted Cruz](http://twitter.com/search?q=Ted+Cruz) | N/A |
-| 16 | [Eli Lilly](http://twitter.com/search?q=Eli+Lilly) | N/A |
-| 17 | [NFLPA](http://twitter.com/search?q=NFLPA) | N/A |
-| 18 | [Visibly](http://twitter.com/search?q=Visibly) | N/A |
-| 19 | [Lars Eller](http://twitter.com/search?q=Lars+Eller) | N/A |
-| 20 | [Ralph](http://twitter.com/search?q=Ralph) | N/A |
-| 21 | [ChatGPT API](http://twitter.com/search?q=ChatGPT+API) | N/A |
-| 22 | [Finish Line](http://twitter.com/search?q=Finish+Line) | N/A |
-| 23 | [Drew](http://twitter.com/search?q=Drew) | N/A |
-| 24 | [Mike Lee](http://twitter.com/search?q=Mike+Lee) | N/A |
-| 25 | [Bader](http://twitter.com/search?q=Bader) | Bader is a German name derived from the Old High German word "bado" meaning "battle". It is also a surname, and can be used as a given name. In English, it is usually pronounced "BAY-der". |
-| 26 | [Ultra MAGA](http://twitter.com/search?q=Ultra+MAGA) | N/A |
-| 27 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 28 | [Euphoria](http://twitter.com/search?q=Euphoria) | N/A |
-| 29 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 30 | [Danjuma](http://twitter.com/search?q=Danjuma) | Danjuma is a Nigerian name of Yoruba origin. It means "God has done it" in English. |
-| 31 | [Lindelof](http://twitter.com/search?q=Lindelof) | Lindelof is a surname of Swedish origin. It is derived from the Old Norse name Lindalófr, which means "linden leaf" or "linden tree". In English, the name can be translated to mean "beloved of the linden tree". |
-| 32 | [Larkin](http://twitter.com/search?q=Larkin) | N/A |
-| 33 | [Damp](http://twitter.com/search?q=Damp) | N/A |
-| 34 | [The Idol](http://twitter.com/search?q=The+Idol) | N/A |
-| 35 | [jennie](http://twitter.com/search?q=jennie) | N/A |
-| 36 | [Hawley](http://twitter.com/search?q=Hawley) | N/A |
-| 37 | [Joe Budden](http://twitter.com/search?q=Joe+Budden) | N/A |
-| 38 | [Watkins](http://twitter.com/search?q=Watkins) | Watkins is a surname of English origin. It is derived from the Old English personal name Watkin, which is a diminutive form of Walter. The name means "son of Walter". |
-| 39 | [Chandler Parsons](http://twitter.com/search?q=Chandler+Parsons) | Chandler Parsons is an American professional basketball player who currently plays for the Atlanta Hawks of the National Basketball Association (NBA). He is known for his ability to shoot from long range and his versatility as a forward. |
-| 40 | [Hi-C](http://twitter.com/search?q=Hi-C) | N/A |
-| 41 | [Luke Rockhold](http://twitter.com/search?q=Luke+Rockhold) | N/A |
-| 42 | [Beau Biden](http://twitter.com/search?q=Beau+Biden) | N/A |
-| 43 | [March Madness](http://twitter.com/search?q=March+Madness) | N/A |
-| 44 | [Gilbert Arenas](http://twitter.com/search?q=Gilbert+Arenas) | N/A |
-| 45 | [Jake Cave](http://twitter.com/search?q=Jake+Cave) | N/A |
-| 46 | [David Benner](http://twitter.com/search?q=David+Benner) | N/A |
-| 47 | [Todd McShay](http://twitter.com/search?q=Todd+McShay) | N/A |
-| 48 | [Maupay](http://twitter.com/search?q=Maupay) | Maupay is a French surname. It is derived from the Old French word mauvais, meaning "bad" or "evil". In English, the name Maupay can be translated to mean "evil one". |
-| 49 | [Will Anderson](http://twitter.com/search?q=Will+Anderson) | N/A |
+| 2 | [#ncga](http://twitter.com/search?q=%23ncga) | N/A |
+| 3 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
+| 4 | [#WomensHistoryMonth](http://twitter.com/search?q=%23WomensHistoryMonth) | N/A |
+| 5 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 6 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
+| 7 | [#SUGA_AgustD_TOUR](http://twitter.com/search?q=%23SUGA_AgustD_TOUR) | N/A |
+| 8 | [sam levinson](http://twitter.com/search?q=sam+levinson) | N/A |
+| 9 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 10 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 11 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 12 | [#ARSEVE](http://twitter.com/search?q=%23ARSEVE) | N/A |
+| 13 | [Pikamee](http://twitter.com/search?q=Pikamee) | N/A |
+| 14 | [KARL](http://twitter.com/search?q=KARL) | N/A |
+| 15 | [Burbank](http://twitter.com/search?q=Burbank) | N/A |
+| 16 | [TINA](http://twitter.com/search?q=TINA) | N/A |
+| 17 | [Jalen Carter](http://twitter.com/search?q=Jalen+Carter) | N/A |
+| 18 | [NFLPA](http://twitter.com/search?q=NFLPA) | N/A |
+| 19 | [Ted Cruz](http://twitter.com/search?q=Ted+Cruz) | N/A |
+| 20 | [Havana Syndrome](http://twitter.com/search?q=Havana+Syndrome) | N/A |
+| 21 | [Ultra MAGA](http://twitter.com/search?q=Ultra+MAGA) | N/A |
+| 22 | [Lindelof](http://twitter.com/search?q=Lindelof) | Lindelof is a surname of Swedish origin. It is derived from the Old Norse name Lindalófr, which means "linden leaf" or "linden tree". In English, the name can be translated to mean "beloved of the linden tree". |
+| 23 | [Finish Line](http://twitter.com/search?q=Finish+Line) | N/A |
+| 24 | [FNAFTOOZ](http://twitter.com/search?q=FNAFTOOZ) | N/A |
+| 25 | [IM SEEING YOONGI](http://twitter.com/search?q=IM+SEEING+YOONGI) | N/A |
+| 26 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
+| 27 | [ChatGPT API](http://twitter.com/search?q=ChatGPT+API) | N/A |
+| 28 | [Eli Lilly](http://twitter.com/search?q=Eli+Lilly) | N/A |
+| 29 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
+| 30 | [Ronny Mauricio](http://twitter.com/search?q=Ronny+Mauricio) | N/A |
+| 31 | [Newark](http://twitter.com/search?q=Newark) | N/A |
+| 32 | [Visibly](http://twitter.com/search?q=Visibly) | N/A |
+| 33 | [Buffalo Fire Department](http://twitter.com/search?q=Buffalo+Fire+Department) | N/A |
+| 34 | [Lars Eller](http://twitter.com/search?q=Lars+Eller) | N/A |
+| 35 | [Mike Lee](http://twitter.com/search?q=Mike+Lee) | N/A |
+| 36 | [Dyche](http://twitter.com/search?q=Dyche) | Dyche is a surname of English origin. It is derived from the Old English word "dic," meaning "ditch." The name was originally given to someone who lived near a ditch or moat. |
+| 37 | [Drew](http://twitter.com/search?q=Drew) | N/A |
+| 38 | [Hawley](http://twitter.com/search?q=Hawley) | N/A |
+| 39 | [Ralph](http://twitter.com/search?q=Ralph) | N/A |
+| 40 | [Joe Budden](http://twitter.com/search?q=Joe+Budden) | N/A |
+| 41 | [Euphoria](http://twitter.com/search?q=Euphoria) | N/A |
+| 42 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
+| 43 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
+| 44 | [Larkin](http://twitter.com/search?q=Larkin) | N/A |
+| 45 | [I GOT TICKETS](http://twitter.com/search?q=I+GOT+TICKETS) | N/A |
+| 46 | [Blair Davenport](http://twitter.com/search?q=Blair+Davenport) | N/A |
+| 47 | [Perk](http://twitter.com/search?q=Perk) | N/A |
+| 48 | [Wendy Choo](http://twitter.com/search?q=Wendy+Choo) | N/A |
+| 49 | [Jason Heyward](http://twitter.com/search?q=Jason+Heyward) | N/A |
 
 
 

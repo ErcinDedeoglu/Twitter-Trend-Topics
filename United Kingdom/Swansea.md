@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Swansea
 
-📆 Last Updated: `2023-03-01 20:16:02 UTC`
+📆 Last Updated: `2023-03-01 21:16:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MUNWHU](http://twitter.com/search?q=%23MUNWHU) | N/A |
-| 2 | [Danjuma](http://twitter.com/search?q=Danjuma) | Danjuma is a Nigerian name of Yoruba origin. It means "God has done it" in English. |
-| 3 | [#ARSEVE](http://twitter.com/search?q=%23ARSEVE) | N/A |
-| 4 | [Keane](http://twitter.com/search?q=Keane) | N/A |
-| 5 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
-| 6 | [#LIVWOL](http://twitter.com/search?q=%23LIVWOL) | #LIVWOL is an acronym for "Live Well". It is a phrase used to encourage people to take care of their physical and mental health, and to live life to the fullest. |
+| 1 | [#DyddGwylDewiHapus](http://twitter.com/search?q=%23DyddGwylDewiHapus) | N/A |
+| 2 | [St David's Day](http://twitter.com/search?q=St+David%27s+Day) | N/A |
+| 3 | [Eisteddfod](http://twitter.com/search?q=Eisteddfod) | N/A |
+| 4 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 5 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 6 | [#MUNWHU](http://twitter.com/search?q=%23MUNWHU) | N/A |
 | 7 | [Grimsby](http://twitter.com/search?q=Grimsby) | N/A |
-| 8 | [#FACup](http://twitter.com/search?q=%23FACup) | #FACup is an abbreviation for the Football Association Challenge Cup, which is an annual knockout football competition in England. It is the oldest football competition in the world and is open to all teams from the top four tiers of English football. |
-| 9 | [KARL](http://twitter.com/search?q=KARL) | N/A |
-| 10 | [Lindelof](http://twitter.com/search?q=Lindelof) | Lindelof is a surname of Swedish origin. It is derived from the Old Norse name Lindalófr, which means "linden leaf" or "linden tree". In English, the name can be translated to mean "beloved of the linden tree". |
-| 11 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
-| 12 | [Constance Marten](http://twitter.com/search?q=Constance+Marten) | N/A |
-| 13 | [Maupay](http://twitter.com/search?q=Maupay) | Maupay is a French surname. It is derived from the Old French word mauvais, meaning "bad" or "evil". In English, the name Maupay can be translated to mean "evil one". |
-| 14 | [Lyanco](http://twitter.com/search?q=Lyanco) | Lyanco is a Portuguese name derived from the Latin name "Livianus", which means "belonging to the Roman family of Livius". In English, it can be translated to mean "belonging to the Livius family". |
-| 15 | [Moura](http://twitter.com/search?q=Moura) | N/A |
-| 16 | [Mark Gordon](http://twitter.com/search?q=Mark+Gordon) | N/A |
-| 17 | [TINA](http://twitter.com/search?q=TINA) | N/A |
-| 18 | [sam levinson](http://twitter.com/search?q=sam+levinson) | N/A |
-| 19 | [Martin Keown](http://twitter.com/search?q=Martin+Keown) | N/A |
-| 20 | [Coady](http://twitter.com/search?q=Coady) | Coady is a surname of Irish origin. It is derived from the Gaelic name Mac an Chódaigh, which means "son of the coda". The coda was a leader or chieftain in ancient Ireland. In English, Coady can be translated to mean "leader" or "chieftain". |
-| 21 | [Lee Dixon](http://twitter.com/search?q=Lee+Dixon) | Lee Dixon is a former English professional footballer who played as a right back for Arsenal, Burnley, Chester City and Stoke City. He is now a football pundit and commentator for ITV Sport and BBC Sport. |
-| 22 | [Moutinho](http://twitter.com/search?q=Moutinho) | N/A |
-| 23 | [Lou Macari](http://twitter.com/search?q=Lou+Macari) | N/A |
-| 24 | [Sheffield United](http://twitter.com/search?q=Sheffield+United) | Sheffield United is an English professional football club based in Sheffield, South Yorkshire. The club competes in the Premier League, the top division of English football. Sheffield United was founded in 1889 and has won four FA Cups, one League Cup and one Full Members Cup. The club's nickname is "The Blades" due to Sheffield's history of steel production. |
-| 25 | [Areola](http://twitter.com/search?q=Areola) | N/A |
-| 26 | [St David](http://twitter.com/search?q=St+David) | N/A |
-| 27 | [Godfrey](http://twitter.com/search?q=Godfrey) | Godfrey is a masculine given name of Germanic origin, derived from the elements "god" and "frid" meaning "God's peace". It is also an English surname. |
-| 28 | [Peter Drury](http://twitter.com/search?q=Peter+Drury) | N/A |
-| 29 | [Adam Armstrong](http://twitter.com/search?q=Adam+Armstrong) | N/A |
-| 30 | [Goodwin](http://twitter.com/search?q=Goodwin) | Goodwin is a surname of English origin. It is derived from the Old English words "god" and "wine," meaning "friend of God." The name was originally used to denote someone who was pious or devoted to God. |
-| 31 | [Hancock](http://twitter.com/search?q=Hancock) | N/A |
-| 32 | [Paqueta](http://twitter.com/search?q=Paqueta) | N/A |
-| 33 | [Ibou](http://twitter.com/search?q=Ibou) | N/A |
-| 34 | [Gunners](http://twitter.com/search?q=Gunners) | Gunners is a slang term used to refer to members of the British Armed Forces, particularly those in the Royal Artillery. It is derived from the nickname of the Royal Artillery, which is "The Gunners". |
-| 35 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
-| 36 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
-| 37 | [Frogmore](http://twitter.com/search?q=Frogmore) | N/A |
-| 38 | [Sands](http://twitter.com/search?q=Sands) | Sands is a term used to refer to a beach or shoreline composed of sand. It can also be used to refer to a desert made up of sand. In English, the word "sands" is used to describe an area covered in sand. |
-| 39 | [Meghan](http://twitter.com/search?q=Meghan) | N/A |
-| 40 | [NUTTY](http://twitter.com/search?q=NUTTY) | N/A |
-| 41 | [Bramall Lane](http://twitter.com/search?q=Bramall+Lane) | N/A |
-| 42 | [Cumbernauld](http://twitter.com/search?q=Cumbernauld) | N/A |
-| 43 | [Arsenal v Everton](http://twitter.com/search?q=Arsenal+v+Everton) | N/A |
-| 44 | [Helen Whately](http://twitter.com/search?q=Helen+Whately) | Helen Whately is a British politician who has been the Member of Parliament (MP) for Faversham and Mid Kent since 2015. She is a member of the Conservative Party and currently serves as Minister of State for Care in the Department of Health and Social Care. |
-| 45 | [Emirates](http://twitter.com/search?q=Emirates) | Emirates is the name of a major airline based in Dubai, United Arab Emirates. The word "emirates" is derived from the Arabic word "imarat," which means "state" or "country." |
-| 46 | [IPTV](http://twitter.com/search?q=IPTV) | N/A |
-| 47 | [Kaylea Titford](http://twitter.com/search?q=Kaylea+Titford) | N/A |
-| 48 | [COYS](http://twitter.com/search?q=COYS) | N/A |
-| 49 | [Turf Moor](http://twitter.com/search?q=Turf+Moor) | N/A |
+| 8 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 9 | [#ARSEVE](http://twitter.com/search?q=%23ARSEVE) | N/A |
+| 10 | [#SaintsFC](http://twitter.com/search?q=%23SaintsFC) | N/A |
+| 11 | [Gueye](http://twitter.com/search?q=Gueye) | N/A |
+| 12 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
+| 13 | [Lee Dixon](http://twitter.com/search?q=Lee+Dixon) | Lee Dixon is a former English professional footballer who played as a right back for Arsenal, Burnley, Chester City and Stoke City. He is now a football pundit and commentator for ITV Sport and BBC Sport. |
+| 14 | [Baldock](http://twitter.com/search?q=Baldock) | N/A |
+| 15 | [Maupay](http://twitter.com/search?q=Maupay) | Maupay is a French surname. It is derived from the Old French word mauvais, meaning "bad" or "evil". In English, the name Maupay can be translated to mean "evil one". |
+| 16 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
+| 17 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
+| 18 | [Danjuma](http://twitter.com/search?q=Danjuma) | Danjuma is a Nigerian name of Yoruba origin. It means "God has done it" in English. |
+| 19 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
+| 20 | [Gana](http://twitter.com/search?q=Gana) | N/A |
+| 21 | [Dyche](http://twitter.com/search?q=Dyche) | Dyche is a surname of English origin. It is derived from the Old English word "dic," meaning "ditch." The name was originally given to someone who lived near a ditch or moat. |
+| 22 | [Benrahma](http://twitter.com/search?q=Benrahma) | N/A |
+| 23 | [Keane](http://twitter.com/search?q=Keane) | N/A |
+| 24 | [Zinchenko](http://twitter.com/search?q=Zinchenko) | Zinchenko is a Russian surname derived from the word "zinchen", which means "little one". It is a patronymic name, meaning it is derived from the given name of a father or ancestor. In English, it can be translated to mean "son of Zincha". |
+| 25 | [Mykolenko](http://twitter.com/search?q=Mykolenko) | N/A |
+| 26 | [Elliott](http://twitter.com/search?q=Elliott) | Elliott is a masculine given name of English origin. It is derived from the Old English name "Aelfweard", which means "wise guardian". |
+| 27 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
+| 28 | [Perisic](http://twitter.com/search?q=Perisic) | Perisic is a surname of Slavic origin. It is derived from the personal name Pero, which is a diminutive of Peter. The English meaning of the name is "son of Peter". |
+| 29 | [Starboy](http://twitter.com/search?q=Starboy) | "Starboy" is a song by Canadian singer The Weeknd, released as the lead single from his third studio album of the same name. The song's title is a reference to The Weeknd's persona and is meant to signify his rise to fame. In English, "Starboy" can be interpreted as someone who has achieved great success and is now living the life of a celebrity. |
+| 30 | [Holgate](http://twitter.com/search?q=Holgate) | N/A |
+| 31 | [Fornals](http://twitter.com/search?q=Fornals) | Fornals is a Spanish word meaning "ovens". It is used to refer to the large ovens used for baking bread, cakes, and other baked goods. |
+| 32 | [Lyanco](http://twitter.com/search?q=Lyanco) | Lyanco is a Portuguese name derived from the Latin name "Livianus", which means "belonging to the Roman family of Livius". In English, it can be translated to mean "belonging to the Livius family". |
+| 33 | [Sheffield United](http://twitter.com/search?q=Sheffield+United) | Sheffield United is an English professional football club based in Sheffield, South Yorkshire. The club competes in the Premier League, the top division of English football. Sheffield United was founded in 1889 and has won four FA Cups, one League Cup and one Full Members Cup. The club's nickname is "The Blades" due to Sheffield's history of steel production. |
+| 34 | [Scamacca](http://twitter.com/search?q=Scamacca) | N/A |
+| 35 | [Bowen](http://twitter.com/search?q=Bowen) | Bowen is a surname of Welsh origin. It is derived from the Welsh personal name Owain, which is composed of the elements "og" (young) and "cu" (warrior). The name can also be spelled as Bowen, Bowne, or Bown. |
+| 36 | [Jota](http://twitter.com/search?q=Jota) | N/A |
+| 37 | [Walcott](http://twitter.com/search?q=Walcott) | N/A |
+| 38 | [Stephen Warnock](http://twitter.com/search?q=Stephen+Warnock) | N/A |
+| 39 | [Benny](http://twitter.com/search?q=Benny) | N/A |
+| 40 | [Gray](http://twitter.com/search?q=Gray) | Gray is a color that is a shade between black and white. It is often used to describe a dull or uninteresting color. In the English language, it can also be used to describe a person or thing that is lacking in emotion or enthusiasm. |
+| 41 | [Martin Keown](http://twitter.com/search?q=Martin+Keown) | N/A |
+| 42 | [Moutinho](http://twitter.com/search?q=Moutinho) | N/A |
+| 43 | [Sam Matterface](http://twitter.com/search?q=Sam+Matterface) | Sam Matterface is a British sports commentator and presenter. The phrase is a play on words, as the name "Matterface" is a combination of the words "matter" and "face". It implies that Sam has an authoritative presence when it comes to sports commentary. |
+| 44 | [Paul Tierney](http://twitter.com/search?q=Paul+Tierney) | N/A |
+| 45 | [Kyle Walker](http://twitter.com/search?q=Kyle+Walker) | N/A |
+| 46 | [Iwobi](http://twitter.com/search?q=Iwobi) | Iwobi is a Nigerian name derived from the Igbo language. It means "gift of God" or "blessing from God". |
+| 47 | [KARL](http://twitter.com/search?q=KARL) | N/A |
+| 48 | [Godfrey](http://twitter.com/search?q=Godfrey) | Godfrey is a masculine given name of Germanic origin, derived from the elements "god" and "frid" meaning "God's peace". It is also an English surname. |
+| 49 | [Constance Marten](http://twitter.com/search?q=Constance+Marten) | N/A |
 
 
 

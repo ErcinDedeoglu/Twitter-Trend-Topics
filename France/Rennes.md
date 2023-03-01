@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rennes
 
-📆 Last Updated: `2023-03-01 20:16:13 UTC`
+📆 Last Updated: `2023-03-01 21:16:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,52 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#FCNRCL](http://twitter.com/search?q=%23FCNRCL) | N/A |
-| 2 | [Vitinha](http://twitter.com/search?q=Vitinha) | Vitinha is a Portuguese nickname for someone named Vitor, which is a common name in Portugal. In English, it translates to "little Vitor". |
-| 3 | [#OMAnnecy](http://twitter.com/search?q=%23OMAnnecy) | N/A |
-| 4 | [Turpin](http://twitter.com/search?q=Turpin) | Turpin is a French surname derived from the Old French word torp, meaning "stubborn". It is also a given name, usually for males. In English, it can be used as a nickname for someone who is stubborn or determined. |
-| 5 | [Lens](http://twitter.com/search?q=Lens) | Lens is a curved piece of glass or plastic used to focus light, such as in a camera or microscope. It can also refer to the ability to look at something from a particular perspective. In this sense, it is often used figuratively to refer to the way someone views a situation or problem. |
+| 1 | [#TopChef](http://twitter.com/search?q=%23TopChef) | N/A |
+| 2 | [#OMAnnecy](http://twitter.com/search?q=%23OMAnnecy) | N/A |
+| 3 | [Vitinha](http://twitter.com/search?q=Vitinha) | Vitinha is a Portuguese nickname for someone named Vitor, which is a common name in Portugal. In English, it translates to "little Vitor". |
+| 4 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 5 | [Veretout](http://twitter.com/search?q=Veretout) | Veretout is a French surname. It is derived from the Old French word "verte," meaning "green." In English, it can be translated to mean "green-haired" or "green-eyed." |
 | 6 | [Hilona](http://twitter.com/search?q=Hilona) | N/A |
-| 7 | [Danso](http://twitter.com/search?q=Danso) | N/A |
+| 7 | [Alix](http://twitter.com/search?q=Alix) | N/A |
 | 8 | [Saken](http://twitter.com/search?q=Saken) | N/A |
-| 9 | [Rodez](http://twitter.com/search?q=Rodez) | Rodez is a city in the south of France. It is the capital of the Aveyron department in the Occitanie region. The name Rodez comes from the Latin word "rodetum", which means "a place surrounded by oaks". In English, Rodez can be translated to mean "oak-surrounded place". |
-| 10 | [Alix](http://twitter.com/search?q=Alix) | N/A |
-| 11 | [Julien](http://twitter.com/search?q=Julien) | N/A |
-| 12 | [Ounahi](http://twitter.com/search?q=Ounahi) | Ounahi is a term used in the Indian language of Hindi. It translates to "happiness" or "joy" in English. |
-| 13 | [Muriel Robin](http://twitter.com/search?q=Muriel+Robin) | N/A |
-| 14 | [Le Cardinal](http://twitter.com/search?q=Le+Cardinal) | N/A |
-| 15 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
-| 16 | [Ganago](http://twitter.com/search?q=Ganago) | N/A |
-| 17 | [Venus](http://twitter.com/search?q=Venus) | N/A |
-| 18 | [Illan](http://twitter.com/search?q=Illan) | N/A |
-| 19 | [Delort](http://twitter.com/search?q=Delort) | N/A |
-| 20 | [Mettre la France](http://twitter.com/search?q=Mettre+la+France) | N/A |
-| 21 | [Openda](http://twitter.com/search?q=Openda) | Openda is a Japanese term that means “open door” or “open gate.” It is used to refer to an opportunity or chance that can be taken advantage of. It can also be used to describe a situation in which someone is able to take advantage of an opportunity or gain access to something that was previously unavailable. |
-| 22 | [Sotoca](http://twitter.com/search?q=Sotoca) | N/A |
-| 23 | [sam levinson](http://twitter.com/search?q=sam+levinson) | N/A |
-| 24 | [Guillaume](http://twitter.com/search?q=Guillaume) | N/A |
-| 25 | [Bosetti](http://twitter.com/search?q=Bosetti) | N/A |
-| 26 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 27 | [Stadium](http://twitter.com/search?q=Stadium) | N/A |
-| 28 | [Charlotte](http://twitter.com/search?q=Charlotte) | N/A |
-| 29 | [Mathieu](http://twitter.com/search?q=Mathieu) | N/A |
-| 30 | [Marc](http://twitter.com/search?q=Marc) | N/A |
-| 31 | [Creed 3](http://twitter.com/search?q=Creed+3) | N/A |
-| 32 | [Just Fontaine](http://twitter.com/search?q=Just+Fontaine) | N/A |
-| 33 | [Bein](http://twitter.com/search?q=Bein) | N/A |
-| 34 | [Zoro](http://twitter.com/search?q=Zoro) | N/A |
-| 35 | [Ed Sheeran](http://twitter.com/search?q=Ed+Sheeran) | N/A |
-| 36 | [Mélanie](http://twitter.com/search?q=M%c3%a9lanie) | N/A |
-| 37 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
-| 38 | [Christine](http://twitter.com/search?q=Christine) | N/A |
-| 39 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
-| 40 | [Grogu](http://twitter.com/search?q=Grogu) | N/A |
-| 41 | [NCT Dream](http://twitter.com/search?q=NCT+Dream) | N/A |
-| 42 | [Sanji](http://twitter.com/search?q=Sanji) | N/A |
-| 43 | [Bale](http://twitter.com/search?q=Bale) | Bale is a large bundle of goods, usually compressed and tied up with string or wire, for storage or transport. It is commonly used to refer to bundles of hay, straw, or cotton. |
-| 44 | [Le 8](http://twitter.com/search?q=Le+8) | N/A |
-| 45 | [#KCORP](http://twitter.com/search?q=%23KCORP) | #KCORP is an acronym for the Korean Corporate Governance Improvement Program, a government-led initiative to improve corporate governance in South Korea. The program was launched in 2017 and aims to promote transparency, accountability, and fairness in the management of Korean companies. |
-| 46 | [#TFCRAF](http://twitter.com/search?q=%23TFCRAF) | N/A |
+| 9 | [Turpin](http://twitter.com/search?q=Turpin) | Turpin is a French surname derived from the Old French word torp, meaning "stubborn". It is also a given name, usually for males. In English, it can be used as a nickname for someone who is stubborn or determined. |
+| 10 | [Guendouzi](http://twitter.com/search?q=Guendouzi) | Guendouzi is a French surname. It is derived from the Basque word "gendouz", which means "good luck". In English, it can be translated to mean "lucky one". |
+| 11 | [Kaboré](http://twitter.com/search?q=Kabor%c3%a9) | Kaboré is a surname of West African origin. It is derived from the Mande language and means "born on Tuesday". |
+| 12 | [Clauss](http://twitter.com/search?q=Clauss) | Clauss is a German surname. It is derived from the Latin word "clausus," which means "closed" or "shut." In English, the name Clauss can be translated to mean "closed off" or "shut away." |
+| 13 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
+| 14 | [Lens](http://twitter.com/search?q=Lens) | Lens is a curved piece of glass or plastic used to focus light, such as in a camera or microscope. It can also refer to the ability to look at something from a particular perspective. In this sense, it is often used figuratively to refer to the way someone views a situation or problem. |
+| 15 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 16 | [Bukayo Saka](http://twitter.com/search?q=Bukayo+Saka) | N/A |
+| 17 | [Malinovskyi](http://twitter.com/search?q=Malinovskyi) | N/A |
+| 18 | [Danso](http://twitter.com/search?q=Danso) | N/A |
+| 19 | [Julien](http://twitter.com/search?q=Julien) | N/A |
+| 20 | [Danny](http://twitter.com/search?q=Danny) | N/A |
+| 21 | [Ounahi](http://twitter.com/search?q=Ounahi) | Ounahi is a term used in the Indian language of Hindi. It translates to "happiness" or "joy" in English. |
+| 22 | [Miguel](http://twitter.com/search?q=Miguel) | Miguel is a Spanish name derived from the Hebrew name Michael, meaning "who is like God". It is a popular name in Spanish-speaking countries and among Hispanic people in the United States. |
+| 23 | [Rodez](http://twitter.com/search?q=Rodez) | Rodez is a city in the south of France. It is the capital of the Aveyron department in the Occitanie region. The name Rodez comes from the Latin word "rodetum", which means "a place surrounded by oaks". In English, Rodez can be translated to mean "oak-surrounded place". |
+| 24 | [Kaori](http://twitter.com/search?q=Kaori) | N/A |
+| 25 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 26 | [Illan](http://twitter.com/search?q=Illan) | N/A |
+| 27 | [Muriel Robin](http://twitter.com/search?q=Muriel+Robin) | N/A |
+| 28 | [Vatira](http://twitter.com/search?q=Vatira) | N/A |
+| 29 | [Ruslan](http://twitter.com/search?q=Ruslan) | N/A |
+| 30 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
+| 31 | [Payet](http://twitter.com/search?q=Payet) | Payet is a French surname. It is derived from the Old French word "paie," which means "payment." In English, it can be translated to mean "one who pays." |
+| 32 | [Zinchenko](http://twitter.com/search?q=Zinchenko) | Zinchenko is a Russian surname derived from the word "zinchen", which means "little one". It is a patronymic name, meaning it is derived from the given name of a father or ancestor. In English, it can be translated to mean "son of Zincha". |
+| 33 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
+| 34 | [ALLEZ L'OM](http://twitter.com/search?q=ALLEZ+L%27OM) | N/A |
+| 35 | [Creed 3](http://twitter.com/search?q=Creed+3) | N/A |
+| 36 | [Bigard](http://twitter.com/search?q=Bigard) | N/A |
+| 37 | [Le Cardinal](http://twitter.com/search?q=Le+Cardinal) | N/A |
+| 38 | [Ganago](http://twitter.com/search?q=Ganago) | N/A |
+| 39 | [Mettre la France](http://twitter.com/search?q=Mettre+la+France) | N/A |
+| 40 | [Openda](http://twitter.com/search?q=Openda) | Openda is a Japanese term that means “open door” or “open gate.” It is used to refer to an opportunity or chance that can be taken advantage of. It can also be used to describe a situation in which someone is able to take advantage of an opportunity or gain access to something that was previously unavailable. |
+| 41 | [Bein](http://twitter.com/search?q=Bein) | N/A |
+| 42 | [Vénus](http://twitter.com/search?q=V%c3%a9nus) | N/A |
+| 43 | [Bosetti](http://twitter.com/search?q=Bosetti) | N/A |
+| 44 | [Sotoca](http://twitter.com/search?q=Sotoca) | N/A |
+| 45 | [Delort](http://twitter.com/search?q=Delort) | N/A |
+| 46 | [sam levinson](http://twitter.com/search?q=sam+levinson) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quebec
 
-📆 Last Updated: `2023-03-01 20:15:59 UTC`
+📆 Last Updated: `2023-03-01 21:16:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Sandin](http://twitter.com/search?q=Sandin) | N/A |
-| 2 | [Barrie](http://twitter.com/search?q=Barrie) | N/A |
-| 3 | [Ekholm](http://twitter.com/search?q=Ekholm) | N/A |
-| 4 | [#BBCAN11](http://twitter.com/search?q=%23BBCAN11) | N/A |
-| 5 | [Dubas](http://twitter.com/search?q=Dubas) | N/A |
-| 6 | [Trudeau Foundation](http://twitter.com/search?q=Trudeau+Foundation) | N/A |
-| 7 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 8 | [KARL](http://twitter.com/search?q=KARL) | N/A |
-| 9 | [CSIS](http://twitter.com/search?q=CSIS) | N/A |
-| 10 | [Chychrun](http://twitter.com/search?q=Chychrun) | N/A |
-| 11 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 12 | [sam levinson](http://twitter.com/search?q=sam+levinson) | N/A |
-| 13 | [Engvall](http://twitter.com/search?q=Engvall) | N/A |
-| 14 | [Pikamee](http://twitter.com/search?q=Pikamee) | N/A |
-| 15 | [Schenn](http://twitter.com/search?q=Schenn) | N/A |
-| 16 | [Jonathan Quick](http://twitter.com/search?q=Jonathan+Quick) | N/A |
-| 17 | [TINA](http://twitter.com/search?q=TINA) | N/A |
-| 18 | [Lars Eller](http://twitter.com/search?q=Lars+Eller) | N/A |
-| 19 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 20 | [Holl](http://twitter.com/search?q=Holl) | N/A |
-| 21 | [#BeyondFast](http://twitter.com/search?q=%23BeyondFast) | #BeyondFast is a hashtag used to describe something that goes beyond the speed of fast. It is used to emphasize the idea that something is faster than fast, or that it surpasses the speed of fast. |
-| 22 | [Barton](http://twitter.com/search?q=Barton) | N/A |
-| 23 | [#TrudeauOutOfControl](http://twitter.com/search?q=%23TrudeauOutOfControl) | N/A |
-| 24 | [Gustafsson](http://twitter.com/search?q=Gustafsson) | N/A |
-| 25 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
-| 26 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
-| 27 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
-| 28 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
-| 29 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
-| 30 | [Korpisalo](http://twitter.com/search?q=Korpisalo) | N/A |
-| 31 | [Morris Rosenberg](http://twitter.com/search?q=Morris+Rosenberg) | N/A |
-| 32 | [Bouchard](http://twitter.com/search?q=Bouchard) | N/A |
-| 33 | [Beetlejuice](http://twitter.com/search?q=Beetlejuice) | N/A |
-| 34 | [Dave Grohl](http://twitter.com/search?q=Dave+Grohl) | N/A |
-| 35 | [Carolina](http://twitter.com/search?q=Carolina) | N/A |
-| 36 | [Larkin](http://twitter.com/search?q=Larkin) | N/A |
-| 37 | [McCabe](http://twitter.com/search?q=McCabe) | N/A |
-| 38 | [Havana Syndrome](http://twitter.com/search?q=Havana+Syndrome) | N/A |
-| 39 | [Overthrow](http://twitter.com/search?q=Overthrow) | N/A |
-| 40 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
-| 41 | [Lori Lightfoot](http://twitter.com/search?q=Lori+Lightfoot) | N/A |
-| 42 | [75% of Canadians](http://twitter.com/search?q=75%25+of+Canadians) | N/A |
-| 43 | [Bison King](http://twitter.com/search?q=Bison+King) | N/A |
-| 44 | [Birgit](http://twitter.com/search?q=Birgit) | N/A |
-| 45 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
-| 46 | [Proven](http://twitter.com/search?q=Proven) | N/A |
-| 47 | [Wray](http://twitter.com/search?q=Wray) | N/A |
-| 48 | [Frogmore](http://twitter.com/search?q=Frogmore) | N/A |
+| 1 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 2 | [Sandin](http://twitter.com/search?q=Sandin) | N/A |
+| 3 | [Emergency Alert](http://twitter.com/search?q=Emergency+Alert) | N/A |
+| 4 | [Barrie](http://twitter.com/search?q=Barrie) | N/A |
+| 5 | [Ekholm](http://twitter.com/search?q=Ekholm) | N/A |
+| 6 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 7 | [Dubas](http://twitter.com/search?q=Dubas) | N/A |
+| 8 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 9 | [Trudeau Foundation](http://twitter.com/search?q=Trudeau+Foundation) | N/A |
+| 10 | [#BBCAN11](http://twitter.com/search?q=%23BBCAN11) | N/A |
+| 11 | [#ARSEVE](http://twitter.com/search?q=%23ARSEVE) | N/A |
+| 12 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 13 | [Chychrun](http://twitter.com/search?q=Chychrun) | N/A |
+| 14 | [CSIS](http://twitter.com/search?q=CSIS) | N/A |
+| 15 | [sam levinson](http://twitter.com/search?q=sam+levinson) | N/A |
+| 16 | [Pikamee](http://twitter.com/search?q=Pikamee) | N/A |
+| 17 | [Engvall](http://twitter.com/search?q=Engvall) | N/A |
+| 18 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 19 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
+| 20 | [Schenn](http://twitter.com/search?q=Schenn) | N/A |
+| 21 | [Jonathan Quick](http://twitter.com/search?q=Jonathan+Quick) | N/A |
+| 22 | [Lindelof](http://twitter.com/search?q=Lindelof) | Lindelof is a surname of Swedish origin. It is derived from the Old Norse name Lindalófr, which means "linden leaf" or "linden tree". In English, the name can be translated to mean "beloved of the linden tree". |
+| 23 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
+| 24 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 25 | [Holl](http://twitter.com/search?q=Holl) | N/A |
+| 26 | [#BeyondFast](http://twitter.com/search?q=%23BeyondFast) | #BeyondFast is a hashtag used to describe something that goes beyond the speed of fast. It is used to emphasize the idea that something is faster than fast, or that it surpasses the speed of fast. |
+| 27 | [Sean Dyche](http://twitter.com/search?q=Sean+Dyche) | Sean Dyche is the name of the current manager of English Premier League football club Burnley. The name is a combination of his first and last names. The meaning in English is simply the name of the manager. |
+| 28 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 29 | [Barton](http://twitter.com/search?q=Barton) | N/A |
+| 30 | [KARL](http://twitter.com/search?q=KARL) | N/A |
+| 31 | [TINA](http://twitter.com/search?q=TINA) | N/A |
+| 32 | [Gustafsson](http://twitter.com/search?q=Gustafsson) | N/A |
+| 33 | [Dylan Larkin](http://twitter.com/search?q=Dylan+Larkin) | N/A |
+| 34 | [Bouchard](http://twitter.com/search?q=Bouchard) | N/A |
+| 35 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
+| 36 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
+| 37 | [Lars Eller](http://twitter.com/search?q=Lars+Eller) | N/A |
+| 38 | [Korpisalo](http://twitter.com/search?q=Korpisalo) | N/A |
+| 39 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
+| 40 | [Beetlejuice](http://twitter.com/search?q=Beetlejuice) | N/A |
+| 41 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
+| 42 | [Morris Rosenberg](http://twitter.com/search?q=Morris+Rosenberg) | N/A |
+| 43 | [Jody Thomas](http://twitter.com/search?q=Jody+Thomas) | N/A |
+| 44 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
+| 45 | [Dave Grohl](http://twitter.com/search?q=Dave+Grohl) | N/A |
+| 46 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
+| 47 | [Carolina](http://twitter.com/search?q=Carolina) | N/A |
+| 48 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
 
 
 

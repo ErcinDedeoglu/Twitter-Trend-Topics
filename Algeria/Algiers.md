@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Algiers
 
-📆 Last Updated: `2023-03-01 20:16:28 UTC`
+📆 Last Updated: `2023-03-01 21:16:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Algeria](</Algeria>)
 | 1 | [الحمايه المدنيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%85%d8%a7%d9%8a%d9%87+%d8%a7%d9%84%d9%85%d8%af%d9%86%d9%8a%d9%87) | N/A |
 | 2 | [#100_مسلسل_واكثر](http://twitter.com/search?q=%23100_%d9%85%d8%b3%d9%84%d8%b3%d9%84_%d9%88%d8%a7%d9%83%d8%ab%d8%b1) | N/A |
 | 3 | [الجلسات الوطنيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%84%d8%b3%d8%a7%d8%aa+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a%d9%87) | N/A |
-| 4 | [اليوم العالمي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
-| 5 | [#ROVER_MoodSampler1](http://twitter.com/search?q=%23ROVER_MoodSampler1) | N/A |
-| 6 | [النقل الحضري](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d9%82%d9%84+%d8%a7%d9%84%d8%ad%d8%b6%d8%b1%d9%8a) | N/A |
-| 7 | [#TAEHYUNGxSiminvest](http://twitter.com/search?q=%23TAEHYUNGxSiminvest) | N/A |
-| 8 | [ROVER IS COMING](http://twitter.com/search?q=ROVER+IS+COMING) | N/A |
-| 9 | [#نادين_نسيب_نجيم](http://twitter.com/search?q=%23%d9%86%d8%a7%d8%af%d9%8a%d9%86_%d9%86%d8%b3%d9%8a%d8%a8_%d9%86%d8%ac%d9%8a%d9%85) | N/A |
-| 10 | [الاكتفاء الذاتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%83%d8%aa%d9%81%d8%a7%d8%a1+%d8%a7%d9%84%d8%b0%d8%a7%d8%aa%d9%8a) | N/A |
-| 11 | [#واخيرا](http://twitter.com/search?q=%23%d9%88%d8%a7%d8%ae%d9%8a%d8%b1%d8%a7) | N/A |
-| 12 | [كندا](http://twitter.com/search?q=%d9%83%d9%86%d8%af%d8%a7) | N/A |
-| 13 | [الابا](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%a8%d8%a7) | الابا is an Arabic word meaning "father". |
-| 14 | [قطاع الفلاحه](http://twitter.com/search?q=%d9%82%d8%b7%d8%a7%d8%b9+%d8%a7%d9%84%d9%81%d9%84%d8%a7%d8%ad%d9%87) | N/A |
-| 15 | [الوزير الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
-| 16 | [01 مارس 2023](http://twitter.com/search?q=01+%d9%85%d8%a7%d8%b1%d8%b3+2023) | N/A |
-| 17 | [تورينو](http://twitter.com/search?q=%d8%aa%d9%88%d8%b1%d9%8a%d9%86%d9%88) | N/A |
+| 4 | [#واخيرا](http://twitter.com/search?q=%23%d9%88%d8%a7%d8%ae%d9%8a%d8%b1%d8%a7) | N/A |
+| 5 | [النقل الحضري](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d9%82%d9%84+%d8%a7%d9%84%d8%ad%d8%b6%d8%b1%d9%8a) | N/A |
+| 6 | [#TAEHYUNGxSiminvest](http://twitter.com/search?q=%23TAEHYUNGxSiminvest) | N/A |
+| 7 | [#نادين_نسيب_نجيم](http://twitter.com/search?q=%23%d9%86%d8%a7%d8%af%d9%8a%d9%86_%d9%86%d8%b3%d9%8a%d8%a8_%d9%86%d8%ac%d9%8a%d9%85) | N/A |
+| 8 | [اليوم العالمي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
+| 9 | [الاكتفاء الذاتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%83%d8%aa%d9%81%d8%a7%d8%a1+%d8%a7%d9%84%d8%b0%d8%a7%d8%aa%d9%8a) | N/A |
+| 10 | [الابا](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%a8%d8%a7) | الابا is an Arabic word meaning "father". |
+| 11 | [كندا](http://twitter.com/search?q=%d9%83%d9%86%d8%af%d8%a7) | N/A |
+| 12 | [الوزير الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
+| 13 | [01 مارس 2023](http://twitter.com/search?q=01+%d9%85%d8%a7%d8%b1%d8%b3+2023) | N/A |
+| 14 | [تورينو](http://twitter.com/search?q=%d8%aa%d9%88%d8%b1%d9%8a%d9%86%d9%88) | N/A |
+| 15 | [قطاع الفلاحه](http://twitter.com/search?q=%d9%82%d8%b7%d8%a7%d8%b9+%d8%a7%d9%84%d9%81%d9%84%d8%a7%d8%ad%d9%87) | N/A |
+| 16 | [#رمضان](http://twitter.com/search?q=%23%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 17 | [عمرو](http://twitter.com/search?q=%d8%b9%d9%85%d8%b1%d9%88) | N/A |
 | 18 | [المديريه العامه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%af%d9%8a%d8%b1%d9%8a%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87) | N/A |
-| 19 | [رياض محرز](http://twitter.com/search?q=%d8%b1%d9%8a%d8%a7%d8%b6+%d9%85%d8%ad%d8%b1%d8%b2) | N/A |
-| 20 | [القطاع الفلاحي](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b7%d8%a7%d8%b9+%d8%a7%d9%84%d9%81%d9%84%d8%a7%d8%ad%d9%8a) | N/A |
-| 21 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
-| 22 | [الامن الغذايي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%86+%d8%a7%d9%84%d8%ba%d8%b0%d8%a7%d9%8a%d9%8a) | N/A |
+| 19 | [الامن الغذايي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%86+%d8%a7%d9%84%d8%ba%d8%b0%d8%a7%d9%8a%d9%8a) | N/A |
+| 20 | [رياض محرز](http://twitter.com/search?q=%d8%b1%d9%8a%d8%a7%d8%b6+%d9%85%d8%ad%d8%b1%d8%b2) | N/A |
+| 21 | [القطاع الفلاحي](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b7%d8%a7%d8%b9+%d8%a7%d9%84%d9%81%d9%84%d8%a7%d8%ad%d9%8a) | N/A |
+| 22 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
 | 23 | [28 فيفري 2023](http://twitter.com/search?q=28+%d9%81%d9%8a%d9%81%d8%b1%d9%8a+2023) | N/A |
 | 24 | [مودريتش](http://twitter.com/search?q=%d9%85%d9%88%d8%af%d8%b1%d9%8a%d8%aa%d8%b4) | مودريتش (Moderich) is a type of traditional Middle Eastern dance. It is a combination of traditional folk dances from various countries in the region, including Egypt, Lebanon, Syria, and Palestine. The dance is characterized by its fast-paced and energetic movements, as well as its use of props such as swords and canes. In English, the term "Moderich" translates to "dance of joy." |
-| 25 | [عمرو](http://twitter.com/search?q=%d8%b9%d9%85%d8%b1%d9%88) | N/A |
-| 26 | [يوفنتوس](http://twitter.com/search?q=%d9%8a%d9%88%d9%81%d9%86%d8%aa%d9%88%d8%b3) | N/A |
-| 27 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
-| 28 | [مارتينيز](http://twitter.com/search?q=%d9%85%d8%a7%d8%b1%d8%aa%d9%8a%d9%86%d9%8a%d8%b2) | مارتينيز is a type of traditional Middle Eastern pastry. It is made with thin layers of dough filled with nuts, honey, and spices. In English, it is sometimes referred to as "baklava". |
-| 29 | [التعاون الدولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b9%d8%a7%d9%88%d9%86+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a) | N/A |
-| 30 | [الفيفا](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%8a%d9%81%d8%a7) | N/A |
-| 31 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
-| 32 | [الدوله العثمانيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%87+%d8%a7%d9%84%d8%b9%d8%ab%d9%85%d8%a7%d9%86%d9%8a%d9%87) | N/A |
-| 33 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 34 | [الشيخ الالباني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%8a%d8%ae+%d8%a7%d9%84%d8%a7%d9%84%d8%a8%d8%a7%d9%86%d9%8a) | N/A |
-| 35 | [المنتخب الجزايري](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%aa%d8%ae%d8%a8+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1%d9%8a) | N/A |
-| 36 | [كاس العالم](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | كاس العالم (Kass al-Alam) is an Arabic phrase meaning "World Cup". It is used to refer to the FIFA World Cup, an international football tournament held every four years. |
-| 37 | [التعاون العسكري](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b9%d8%a7%d9%88%d9%86+%d8%a7%d9%84%d8%b9%d8%b3%d9%83%d8%b1%d9%8a) | N/A |
-| 38 | [سيتي](http://twitter.com/search?q=%d8%b3%d9%8a%d8%aa%d9%8a) | N/A |
-| 39 | [الاردن](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b1%d8%af%d9%86) | N/A |
-| 40 | [الكره الذهبيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d8%b1%d9%87+%d8%a7%d9%84%d8%b0%d9%87%d8%a8%d9%8a%d9%87) | N/A |
-| 41 | [J'adore](http://twitter.com/search?q=J%27adore) | N/A |
-| 42 | [Amin](http://twitter.com/search?q=Amin) | N/A |
-| 43 | [كورتوا](http://twitter.com/search?q=%d9%83%d9%88%d8%b1%d8%aa%d9%88%d8%a7) | كورتوا is a type of traditional Iraqi dish made with bulgur wheat, onions, and spices. It is usually served with yogurt or tahini sauce. In English, it is known as Korto or Korto Pilaf. |
-| 44 | [المانيا](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%a7%d9%86%d9%8a%d8%a7) | N/A |
-| 45 | [رضوان](http://twitter.com/search?q=%d8%b1%d8%b6%d9%88%d8%a7%d9%86) | N/A |
-| 46 | [بن زيمة](http://twitter.com/search?q=%d8%a8%d9%86+%d8%b2%d9%8a%d9%85%d8%a9) | N/A |
-| 47 | [الشعب السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
-| 48 | [عصام](http://twitter.com/search?q=%d8%b9%d8%b5%d8%a7%d9%85) | N/A |
-| 49 | [علي السنه](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b3%d9%86%d9%87) | N/A |
-| 50 | [فاطمة](http://twitter.com/search?q=%d9%81%d8%a7%d8%b7%d9%85%d8%a9) | N/A |
+| 25 | [الفيفا](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%8a%d9%81%d8%a7) | N/A |
+| 26 | [التعاون الدولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b9%d8%a7%d9%88%d9%86+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a) | N/A |
+| 27 | [كاس العالم](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | كاس العالم (Kass al-Alam) is an Arabic phrase meaning "World Cup". It is used to refer to the FIFA World Cup, an international football tournament held every four years. |
+| 28 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
+| 29 | [الكره الذهبيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d8%b1%d9%87+%d8%a7%d9%84%d8%b0%d9%87%d8%a8%d9%8a%d9%87) | N/A |
+| 30 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
+| 31 | [سيتي](http://twitter.com/search?q=%d8%b3%d9%8a%d8%aa%d9%8a) | N/A |
+| 32 | [مارتينيز](http://twitter.com/search?q=%d9%85%d8%a7%d8%b1%d8%aa%d9%8a%d9%86%d9%8a%d8%b2) | مارتينيز is a type of traditional Middle Eastern pastry. It is made with thin layers of dough filled with nuts, honey, and spices. In English, it is sometimes referred to as "baklava". |
+| 33 | [المنتخب الجزايري](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%aa%d8%ae%d8%a8+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1%d9%8a) | N/A |
+| 34 | [يوتيوب](http://twitter.com/search?q=%d9%8a%d9%88%d8%aa%d9%8a%d9%88%d8%a8) | N/A |
+| 35 | [علي الرغم](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b1%d8%ba%d9%85) | N/A |
+| 36 | [الشيخ الالباني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%8a%d8%ae+%d8%a7%d9%84%d8%a7%d9%84%d8%a8%d8%a7%d9%86%d9%8a) | N/A |
+| 37 | [يوفنتوس](http://twitter.com/search?q=%d9%8a%d9%88%d9%81%d9%86%d8%aa%d9%88%d8%b3) | N/A |
+| 38 | [المانيا](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%a7%d9%86%d9%8a%d8%a7) | N/A |
+| 39 | [كورتوا](http://twitter.com/search?q=%d9%83%d9%88%d8%b1%d8%aa%d9%88%d8%a7) | كورتوا is a type of traditional Iraqi dish made with bulgur wheat, onions, and spices. It is usually served with yogurt or tahini sauce. In English, it is known as Korto or Korto Pilaf. |
+| 40 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 41 | [شهر مارس](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
+| 42 | [علي السنه](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b3%d9%86%d9%87) | N/A |
+| 43 | [رضوان](http://twitter.com/search?q=%d8%b1%d8%b6%d9%88%d8%a7%d9%86) | N/A |
+| 44 | [بن زيمة](http://twitter.com/search?q=%d8%a8%d9%86+%d8%b2%d9%8a%d9%85%d8%a9) | N/A |
+| 45 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 46 | [J'adore](http://twitter.com/search?q=J%27adore) | N/A |
+| 47 | [الدوله العثمانيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%87+%d8%a7%d9%84%d8%b9%d8%ab%d9%85%d8%a7%d9%86%d9%8a%d9%87) | N/A |
+| 48 | [الاردن](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b1%d8%af%d9%86) | N/A |
+| 49 | [Arab](http://twitter.com/search?q=Arab) | N/A |
+| 50 | [رييس الجمهوريه](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%ac%d9%85%d9%87%d9%88%d8%b1%d9%8a%d9%87) | N/A |
 
 
 

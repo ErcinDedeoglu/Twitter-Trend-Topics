@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2023-03-01 20:15:58 UTC`
+📆 Last Updated: `2023-03-01 21:16:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,56 +20,56 @@ This is top 50
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [KARL](http://twitter.com/search?q=KARL) | N/A |
-| 2 | [TINA](http://twitter.com/search?q=TINA) | N/A |
+| 1 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 2 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
 | 3 | [#SinLuz](http://twitter.com/search?q=%23SinLuz) | N/A |
-| 4 | [#OmuzOmuza](http://twitter.com/search?q=%23OmuzOmuza) | N/A |
-| 5 | [#الاهلي_جده](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a_%d8%ac%d8%af%d9%87) | N/A |
-| 6 | [sam levinson](http://twitter.com/search?q=sam+levinson) | N/A |
-| 7 | [#WomensHistoryMonth](http://twitter.com/search?q=%23WomensHistoryMonth) | N/A |
-| 8 | [#100_مسلسل_واكثر](http://twitter.com/search?q=%23100_%d9%85%d8%b3%d9%84%d8%b3%d9%84_%d9%88%d8%a7%d9%83%d8%ab%d8%b1) | N/A |
-| 9 | [PATRICK BALMAIN PFW](http://twitter.com/search?q=PATRICK+BALMAIN+PFW) | N/A |
-| 10 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 11 | [Atucha](http://twitter.com/search?q=Atucha) | N/A |
-| 12 | [YakışıklıAdam MansurAmca](http://twitter.com/search?q=Yak%c4%b1%c5%9f%c4%b1kl%c4%b1Adam+MansurAmca) | N/A |
+| 4 | [Atucha](http://twitter.com/search?q=Atucha) | N/A |
+| 5 | [#ARSEVE](http://twitter.com/search?q=%23ARSEVE) | N/A |
+| 6 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 7 | [#MUNWHU](http://twitter.com/search?q=%23MUNWHU) | N/A |
+| 8 | [KARL](http://twitter.com/search?q=KARL) | N/A |
+| 9 | [TINA](http://twitter.com/search?q=TINA) | N/A |
+| 10 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
+| 11 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
+| 12 | [#OmuzOmuza](http://twitter.com/search?q=%23OmuzOmuza) | N/A |
 | 13 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
-| 14 | [twenty one pilots](http://twitter.com/search?q=twenty+one+pilots) | N/A |
-| 15 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
-| 16 | [Pikamee](http://twitter.com/search?q=Pikamee) | N/A |
-| 17 | [Blink](http://twitter.com/search?q=Blink) | N/A |
-| 18 | [Danjuma](http://twitter.com/search?q=Danjuma) | Danjuma is a Nigerian name of Yoruba origin. It means "God has done it" in English. |
-| 19 | [Jalen Carter](http://twitter.com/search?q=Jalen+Carter) | N/A |
-| 20 | [Neto](http://twitter.com/search?q=Neto) | Neto is a Portuguese word meaning "net" or "net profit". It is commonly used to refer to the amount of money that remains after all taxes, deductions, and other expenses have been taken out of a total amount. |
-| 21 | [Ferrovial](http://twitter.com/search?q=Ferrovial) | N/A |
-| 22 | [Missa](http://twitter.com/search?q=Missa) | N/A |
-| 23 | [Alberto](http://twitter.com/search?q=Alberto) | Alberto is a Spanish and Italian masculine given name, derived from the Germanic name Adalbert. In English, it is translated to mean "noble and bright". |
-| 24 | [jennie](http://twitter.com/search?q=jennie) | N/A |
-| 25 | [Irma Serrano](http://twitter.com/search?q=Irma+Serrano) | N/A |
-| 26 | [BIGHIT PROTECT RM](http://twitter.com/search?q=BIGHIT+PROTECT+RM) | N/A |
-| 27 | [Vitinha](http://twitter.com/search?q=Vitinha) | Vitinha is a Portuguese nickname for someone named Vitor, which is a common name in Portugal. In English, it translates to "little Vitor". |
-| 28 | [HYBE PROTECT RM](http://twitter.com/search?q=HYBE+PROTECT+RM) | N/A |
-| 29 | [all of the girls](http://twitter.com/search?q=all+of+the+girls) | N/A |
-| 30 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
-| 31 | [Lindelof](http://twitter.com/search?q=Lindelof) | Lindelof is a surname of Swedish origin. It is derived from the Old Norse name Lindalófr, which means "linden leaf" or "linden tree". In English, the name can be translated to mean "beloved of the linden tree". |
-| 32 | [La Tigresa](http://twitter.com/search?q=La+Tigresa) | N/A |
-| 33 | [Edenor](http://twitter.com/search?q=Edenor) | N/A |
-| 34 | [Acun](http://twitter.com/search?q=Acun) | N/A |
-| 35 | [ChatGPT API](http://twitter.com/search?q=ChatGPT+API) | N/A |
-| 36 | [Havana Syndrome](http://twitter.com/search?q=Havana+Syndrome) | N/A |
-| 37 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
-| 38 | [Ted Cruz](http://twitter.com/search?q=Ted+Cruz) | N/A |
-| 39 | [Keane](http://twitter.com/search?q=Keane) | N/A |
-| 40 | [Fernando Iglesias](http://twitter.com/search?q=Fernando+Iglesias) | N/A |
-| 41 | [Maupay](http://twitter.com/search?q=Maupay) | Maupay is a French surname. It is derived from the Old French word mauvais, meaning "bad" or "evil". In English, the name Maupay can be translated to mean "evil one". |
-| 42 | [ايفرتون](http://twitter.com/search?q=%d8%a7%d9%8a%d9%81%d8%b1%d8%aa%d9%88%d9%86) | ايفرتون (Ifton) is an Arabic name meaning "gift of God". |
-| 43 | [Turpin](http://twitter.com/search?q=Turpin) | Turpin is a French surname derived from the Old French word torp, meaning "stubborn". It is also a given name, usually for males. In English, it can be used as a nickname for someone who is stubborn or determined. |
-| 44 | [YusufKerimi AnnesizBırakmayın](http://twitter.com/search?q=YusufKerimi+AnnesizB%c4%b1rakmay%c4%b1n) | N/A |
-| 45 | [Hilona](http://twitter.com/search?q=Hilona) | N/A |
-| 46 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
-| 47 | [Eli Lilly](http://twitter.com/search?q=Eli+Lilly) | N/A |
-| 48 | [שרה נתניהו](http://twitter.com/search?q=%d7%a9%d7%a8%d7%94+%d7%a0%d7%aa%d7%a0%d7%99%d7%94%d7%95) | N/A |
-| 49 | [The Idol](http://twitter.com/search?q=The+Idol) | N/A |
-| 50 | [Grimsby](http://twitter.com/search?q=Grimsby) | N/A |
+| 14 | [sam levinson](http://twitter.com/search?q=sam+levinson) | N/A |
+| 15 | [Grimsby](http://twitter.com/search?q=Grimsby) | N/A |
+| 16 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
+| 17 | [Zinchenko](http://twitter.com/search?q=Zinchenko) | Zinchenko is a Russian surname derived from the word "zinchen", which means "little one". It is a patronymic name, meaning it is derived from the given name of a father or ancestor. In English, it can be translated to mean "son of Zincha". |
+| 18 | [Gueye](http://twitter.com/search?q=Gueye) | N/A |
+| 19 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
+| 20 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
+| 21 | [Alberto](http://twitter.com/search?q=Alberto) | Alberto is a Spanish and Italian masculine given name, derived from the Germanic name Adalbert. In English, it is translated to mean "noble and bright". |
+| 22 | [PATRICK BALMAIN PFW](http://twitter.com/search?q=PATRICK+BALMAIN+PFW) | N/A |
+| 23 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
+| 24 | [ايفرتون](http://twitter.com/search?q=%d8%a7%d9%8a%d9%81%d8%b1%d8%aa%d9%88%d9%86) | ايفرتون (Ifton) is an Arabic name meaning "gift of God". |
+| 25 | [Starboy](http://twitter.com/search?q=Starboy) | "Starboy" is a song by Canadian singer The Weeknd, released as the lead single from his third studio album of the same name. The song's title is a reference to The Weeknd's persona and is meant to signify his rise to fame. In English, "Starboy" can be interpreted as someone who has achieved great success and is now living the life of a celebrity. |
+| 26 | [Pikamee](http://twitter.com/search?q=Pikamee) | N/A |
+| 27 | [YakışıklıAdam MansurAmca](http://twitter.com/search?q=Yak%c4%b1%c5%9f%c4%b1kl%c4%b1Adam+MansurAmca) | N/A |
+| 28 | [Sean Dyche](http://twitter.com/search?q=Sean+Dyche) | Sean Dyche is the name of the current manager of English Premier League football club Burnley. The name is a combination of his first and last names. The meaning in English is simply the name of the manager. |
+| 29 | [Maupay](http://twitter.com/search?q=Maupay) | Maupay is a French surname. It is derived from the Old French word mauvais, meaning "bad" or "evil". In English, the name Maupay can be translated to mean "evil one". |
+| 30 | [マルティネッリ](http://twitter.com/search?q=%e3%83%9e%e3%83%ab%e3%83%86%e3%82%a3%e3%83%8d%e3%83%83%e3%83%aa) | マルティネッリ is a type of Italian pasta dish. It is made with a combination of cooked macaroni, cheese, and cream. The name comes from the Italian words for "cooked" (malti) and "nest" (nestri). In English, it can be translated as "macaroni and cheese". |
+| 31 | [Ferrovial](http://twitter.com/search?q=Ferrovial) | N/A |
+| 32 | [twenty one pilots](http://twitter.com/search?q=twenty+one+pilots) | N/A |
+| 33 | [שרה נתניהו](http://twitter.com/search?q=%d7%a9%d7%a8%d7%94+%d7%a0%d7%aa%d7%a0%d7%99%d7%94%d7%95) | N/A |
+| 34 | [Danjuma](http://twitter.com/search?q=Danjuma) | Danjuma is a Nigerian name of Yoruba origin. It means "God has done it" in English. |
+| 35 | [Blink](http://twitter.com/search?q=Blink) | N/A |
+| 36 | [all of the girls](http://twitter.com/search?q=all+of+the+girls) | N/A |
+| 37 | [jennie](http://twitter.com/search?q=jennie) | N/A |
+| 38 | [Baldock](http://twitter.com/search?q=Baldock) | N/A |
+| 39 | [Lee Dixon](http://twitter.com/search?q=Lee+Dixon) | Lee Dixon is a former English professional footballer who played as a right back for Arsenal, Burnley, Chester City and Stoke City. He is now a football pundit and commentator for ITV Sport and BBC Sport. |
+| 40 | [Jalen Carter](http://twitter.com/search?q=Jalen+Carter) | N/A |
+| 41 | [Perisic](http://twitter.com/search?q=Perisic) | Perisic is a surname of Slavic origin. It is derived from the personal name Pero, which is a diminutive of Peter. The English meaning of the name is "son of Peter". |
+| 42 | [Edesur](http://twitter.com/search?q=Edesur) | N/A |
+| 43 | [Edenor](http://twitter.com/search?q=Edenor) | N/A |
+| 44 | [Afonja](http://twitter.com/search?q=Afonja) | N/A |
+| 45 | [Missa](http://twitter.com/search?q=Missa) | N/A |
+| 46 | [Thaissa](http://twitter.com/search?q=Thaissa) | N/A |
+| 47 | [Benrahma](http://twitter.com/search?q=Benrahma) | N/A |
+| 48 | [Elliott](http://twitter.com/search?q=Elliott) | Elliott is a masculine given name of English origin. It is derived from the Old English name "Aelfweard", which means "wise guardian". |
+| 49 | [IPOB](http://twitter.com/search?q=IPOB) | N/A |
+| 50 | [ORDEM TRÊS ANOS](http://twitter.com/search?q=ORDEM+TR%c3%8aS+ANOS) | N/A |
 
 
 

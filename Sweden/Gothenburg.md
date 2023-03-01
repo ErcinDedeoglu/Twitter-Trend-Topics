@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gothenburg
 
-📆 Last Updated: `2023-03-01 20:16:18 UTC`
+📆 Last Updated: `2023-03-01 21:16:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Sweden](</Sweden>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [KARL](http://twitter.com/search?q=KARL) | N/A |
-| 2 | [Lagrådet](http://twitter.com/search?q=Lagr%c3%a5det) | N/A |
-| 3 | [IPCC](http://twitter.com/search?q=IPCC) | N/A |
-| 4 | [TINA](http://twitter.com/search?q=TINA) | N/A |
-| 5 | [Venus](http://twitter.com/search?q=Venus) | N/A |
-| 6 | [Demirok](http://twitter.com/search?q=Demirok) | N/A |
-| 7 | [#twittssk](http://twitter.com/search?q=%23twittssk) | N/A |
-| 8 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
-| 9 | [Danjuma](http://twitter.com/search?q=Danjuma) | Danjuma is a Nigerian name of Yoruba origin. It means "God has done it" in English. |
-| 10 | [#vardagpåminplanet](http://twitter.com/search?q=%23vardagp%c3%a5minplanet) | N/A |
-| 11 | [olausson](http://twitter.com/search?q=olausson) | N/A |
-| 12 | [Balder](http://twitter.com/search?q=Balder) | N/A |
-| 13 | [Expo](http://twitter.com/search?q=Expo) | N/A |
-| 14 | [Elsa Widding](http://twitter.com/search?q=Elsa+Widding) | N/A |
-| 15 | [Pikamee](http://twitter.com/search?q=Pikamee) | N/A |
-| 16 | [Maja](http://twitter.com/search?q=Maja) | N/A |
-| 17 | [sätra](http://twitter.com/search?q=s%c3%a4tra) | N/A |
-| 18 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 19 | [Olof Palme](http://twitter.com/search?q=Olof+Palme) | N/A |
-| 20 | [Murre](http://twitter.com/search?q=Murre) | N/A |
-| 21 | [Ungern](http://twitter.com/search?q=Ungern) | N/A |
-| 22 | [rissne](http://twitter.com/search?q=rissne) | N/A |
-| 23 | [timashov](http://twitter.com/search?q=timashov) | N/A |
-| 24 | [Björn Söder](http://twitter.com/search?q=Bj%c3%b6rn+S%c3%b6der) | N/A |
-| 25 | [Mattias Gardell](http://twitter.com/search?q=Mattias+Gardell) | N/A |
-| 26 | [Signal](http://twitter.com/search?q=Signal) | N/A |
-| 27 | [Alexandra](http://twitter.com/search?q=Alexandra) | N/A |
-| 28 | [#modose](http://twitter.com/search?q=%23modose) | N/A |
-| 29 | [Jägersro](http://twitter.com/search?q=J%c3%a4gersro) | N/A |
-| 30 | [Greta Thunberg](http://twitter.com/search?q=Greta+Thunberg) | Greta Thunberg is a Swedish environmental activist who has gained international recognition for her work in raising awareness about the dangers of climate change. She is best known for her school strike for climate, which began in August 2018 when she was 15 years old. She has since become a prominent figure in the global climate movement and has been nominated for the Nobel Peace Prize. |
-| 31 | [Cremonese](http://twitter.com/search?q=Cremonese) | N/A |
-| 32 | [Foodora](http://twitter.com/search?q=Foodora) | N/A |
-| 33 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
-| 34 | [#SDHL](http://twitter.com/search?q=%23SDHL) | N/A |
-| 35 | [Nättinen](http://twitter.com/search?q=N%c3%a4ttinen) | N/A |
-| 36 | [Yasin](http://twitter.com/search?q=Yasin) | N/A |
-| 37 | [Hartmann](http://twitter.com/search?q=Hartmann) | N/A |
-| 38 | [Magnus](http://twitter.com/search?q=Magnus) | N/A |
-| 39 | [Sundbyberg](http://twitter.com/search?q=Sundbyberg) | N/A |
-| 40 | [Sign the Petition](http://twitter.com/search?q=Sign+the+Petition) | N/A |
-| 41 | [Juha Valjakkala](http://twitter.com/search?q=Juha+Valjakkala) | N/A |
-| 42 | [Svenska Kyrkan](http://twitter.com/search?q=Svenska+Kyrkan) | N/A |
-| 43 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 44 | [Nato-medlemskap](http://twitter.com/search?q=Nato-medlemskap) | N/A |
-| 45 | [Reinfeldts](http://twitter.com/search?q=Reinfeldts) | N/A |
-| 46 | [Elisabeth Svantesson](http://twitter.com/search?q=Elisabeth+Svantesson) | N/A |
-| 47 | [Larsson](http://twitter.com/search?q=Larsson) | N/A |
-| 48 | [Lennström](http://twitter.com/search?q=Lennstr%c3%b6m) | N/A |
+| 1 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 2 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 3 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 4 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 5 | [#ARSEVE](http://twitter.com/search?q=%23ARSEVE) | N/A |
+| 6 | [KARL](http://twitter.com/search?q=KARL) | N/A |
+| 7 | [#Arsenal](http://twitter.com/search?q=%23Arsenal) | N/A |
+| 8 | [IPCC](http://twitter.com/search?q=IPCC) | N/A |
+| 9 | [Demirok](http://twitter.com/search?q=Demirok) | N/A |
+| 10 | [TINA](http://twitter.com/search?q=TINA) | N/A |
+| 11 | [Lagrådet](http://twitter.com/search?q=Lagr%c3%a5det) | N/A |
+| 12 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
+| 13 | [Danjuma](http://twitter.com/search?q=Danjuma) | Danjuma is a Nigerian name of Yoruba origin. It means "God has done it" in English. |
+| 14 | [olausson](http://twitter.com/search?q=olausson) | N/A |
+| 15 | [Balder](http://twitter.com/search?q=Balder) | N/A |
+| 16 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 17 | [#vardagpåminplanet](http://twitter.com/search?q=%23vardagp%c3%a5minplanet) | N/A |
+| 18 | [Venus](http://twitter.com/search?q=Venus) | N/A |
+| 19 | [Expo](http://twitter.com/search?q=Expo) | N/A |
+| 20 | [Widding](http://twitter.com/search?q=Widding) | N/A |
+| 21 | [#twittssk](http://twitter.com/search?q=%23twittssk) | N/A |
+| 22 | [sätra](http://twitter.com/search?q=s%c3%a4tra) | N/A |
+| 23 | [Ungern](http://twitter.com/search?q=Ungern) | N/A |
+| 24 | [Maja](http://twitter.com/search?q=Maja) | N/A |
+| 25 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 26 | [rissne](http://twitter.com/search?q=rissne) | N/A |
+| 27 | [Murre](http://twitter.com/search?q=Murre) | N/A |
+| 28 | [Olof Palme](http://twitter.com/search?q=Olof+Palme) | N/A |
+| 29 | [Björn Söder](http://twitter.com/search?q=Bj%c3%b6rn+S%c3%b6der) | N/A |
+| 30 | [timashov](http://twitter.com/search?q=timashov) | N/A |
+| 31 | [Pikamee](http://twitter.com/search?q=Pikamee) | N/A |
+| 32 | [Mattias Gardell](http://twitter.com/search?q=Mattias+Gardell) | N/A |
+| 33 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 34 | [Alexandra](http://twitter.com/search?q=Alexandra) | N/A |
+| 35 | [Signal](http://twitter.com/search?q=Signal) | N/A |
+| 36 | [Cremonese](http://twitter.com/search?q=Cremonese) | N/A |
+| 37 | [Jägersro](http://twitter.com/search?q=J%c3%a4gersro) | N/A |
+| 38 | [Greta Thunberg](http://twitter.com/search?q=Greta+Thunberg) | Greta Thunberg is a Swedish environmental activist who has gained international recognition for her work in raising awareness about the dangers of climate change. She is best known for her school strike for climate, which began in August 2018 when she was 15 years old. She has since become a prominent figure in the global climate movement and has been nominated for the Nobel Peace Prize. |
+| 39 | [Foodora](http://twitter.com/search?q=Foodora) | N/A |
+| 40 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
+| 41 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
+| 42 | [Tingsryd](http://twitter.com/search?q=Tingsryd) | N/A |
+| 43 | [Bolund](http://twitter.com/search?q=Bolund) | N/A |
+| 44 | [Nättinen](http://twitter.com/search?q=N%c3%a4ttinen) | N/A |
+| 45 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 46 | [Yasin](http://twitter.com/search?q=Yasin) | N/A |
+| 47 | [Hartmann](http://twitter.com/search?q=Hartmann) | N/A |
+| 48 | [Sundbyberg](http://twitter.com/search?q=Sundbyberg) | N/A |
 
 
 
