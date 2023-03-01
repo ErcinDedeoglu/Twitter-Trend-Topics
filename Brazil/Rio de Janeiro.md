@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rio de Janeiro
 
-📆 Last Updated: `2023-03-01 17:16:00 UTC`
+📆 Last Updated: `2023-03-01 18:17:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Braz](http://twitter.com/search?q=Braz) | N/A |
-| 2 | [Vítor Pereira](http://twitter.com/search?q=V%c3%adtor+Pereira) | N/A |
-| 3 | [Landim](http://twitter.com/search?q=Landim) | N/A |
-| 4 | [#BalançoGeralRJ](http://twitter.com/search?q=%23Balan%c3%a7oGeralRJ) | N/A |
-| 5 | [Thor](http://twitter.com/search?q=Thor) | N/A |
-| 6 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 7 | [Jorge Jesus](http://twitter.com/search?q=Jorge+Jesus) | N/A |
-| 8 | [Neto](http://twitter.com/search?q=Neto) | Neto is a Portuguese word meaning "net" or "net profit". It is commonly used to refer to the amount of money that remains after all taxes, deductions, and other expenses have been taken out of a total amount. |
-| 9 | [sam levinson](http://twitter.com/search?q=sam+levinson) | N/A |
+| 1 | [#BalançoGeralRJ](http://twitter.com/search?q=%23Balan%c3%a7oGeralRJ) | N/A |
+| 2 | [Thor](http://twitter.com/search?q=Thor) | N/A |
+| 3 | [MEU MÊS](http://twitter.com/search?q=MEU+M%c3%8aS) | N/A |
+| 4 | [Petrobras](http://twitter.com/search?q=Petrobras) | N/A |
+| 5 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 6 | [Neto](http://twitter.com/search?q=Neto) | Neto is a Portuguese word meaning "net" or "net profit". It is commonly used to refer to the amount of money that remains after all taxes, deductions, and other expenses have been taken out of a total amount. |
+| 7 | [twenty one pilots](http://twitter.com/search?q=twenty+one+pilots) | N/A |
+| 8 | [sam levinson](http://twitter.com/search?q=sam+levinson) | N/A |
+| 9 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
 | 10 | [#HYBEPROTECTRM](http://twitter.com/search?q=%23HYBEPROTECTRM) | N/A |
 | 11 | [BIGHIT PROTECT RM](http://twitter.com/search?q=BIGHIT+PROTECT+RM) | N/A |
-| 12 | [Dida](http://twitter.com/search?q=Dida) | N/A |
-| 13 | [Maira Cardi](http://twitter.com/search?q=Maira+Cardi) | N/A |
-| 14 | [Março](http://twitter.com/search?q=Mar%c3%a7o) | N/A |
-| 15 | [FRED NICÁCIO NO MAIS VOCÊ](http://twitter.com/search?q=FRED+NIC%c3%81CIO+NO+MAIS+VOC%c3%8a) | N/A |
-| 16 | [#OsDonosDaBola](http://twitter.com/search?q=%23OsDonosDaBola) | N/A |
-| 17 | [Thiago Nigro](http://twitter.com/search?q=Thiago+Nigro) | N/A |
-| 18 | [#Sbtsportsrio](http://twitter.com/search?q=%23Sbtsportsrio) | N/A |
-| 19 | [Banco](http://twitter.com/search?q=Banco) | N/A |
-| 20 | [#MoonlightChickenEP7](http://twitter.com/search?q=%23MoonlightChickenEP7) | N/A |
-| 21 | [Lupita Nyong](http://twitter.com/search?q=Lupita+Nyong) | N/A |
-| 22 | [Primo Rico](http://twitter.com/search?q=Primo+Rico) | N/A |
-| 23 | [Cidade Invisível](http://twitter.com/search?q=Cidade+Invis%c3%advel) | N/A |
-| 24 | [C6 Fest](http://twitter.com/search?q=C6+Fest) | N/A |
-| 25 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 26 | [Zoro](http://twitter.com/search?q=Zoro) | N/A |
-| 27 | [Arlo Parks](http://twitter.com/search?q=Arlo+Parks) | N/A |
-| 28 | [Parabéns Rio de Janeiro](http://twitter.com/search?q=Parab%c3%a9ns+Rio+de+Janeiro) | N/A |
-| 29 | [Cidade Maravilhosa](http://twitter.com/search?q=Cidade+Maravilhosa) | N/A |
-| 30 | [Coreia do Norte](http://twitter.com/search?q=Coreia+do+Norte) | N/A |
-| 31 | [Tom Delonge](http://twitter.com/search?q=Tom+Delonge) | N/A |
-| 32 | [pika](http://twitter.com/search?q=pika) | N/A |
-| 33 | [Haddad](http://twitter.com/search?q=Haddad) | N/A |
-| 34 | [Metallica](http://twitter.com/search?q=Metallica) | N/A |
-| 35 | [Tom Hardy](http://twitter.com/search?q=Tom+Hardy) | N/A |
-| 36 | [Ateliê](http://twitter.com/search?q=Ateli%c3%aa) | N/A |
-| 37 | [Anvisa](http://twitter.com/search?q=Anvisa) | N/A |
-| 38 | [Kraftwerk](http://twitter.com/search?q=Kraftwerk) | N/A |
-| 39 | [Lucy Liu](http://twitter.com/search?q=Lucy+Liu) | N/A |
-| 40 | [Drugs](http://twitter.com/search?q=Drugs) | N/A |
-| 41 | [Blink-182](http://twitter.com/search?q=Blink-182) | N/A |
-| 42 | [Ceni](http://twitter.com/search?q=Ceni) | N/A |
-| 43 | [Atemporal](http://twitter.com/search?q=Atemporal) | N/A |
-| 44 | [Christine](http://twitter.com/search?q=Christine) | N/A |
-| 45 | [Ruy Barbosa](http://twitter.com/search?q=Ruy+Barbosa) | N/A |
-| 46 | [Wano](http://twitter.com/search?q=Wano) | N/A |
-| 47 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 48 | [Ed Sheeran](http://twitter.com/search?q=Ed+Sheeran) | N/A |
-| 49 | [Weyes Blood](http://twitter.com/search?q=Weyes+Blood) | N/A |
-| 50 | [Lucas Moura](http://twitter.com/search?q=Lucas+Moura) | N/A |
+| 12 | [jennie](http://twitter.com/search?q=jennie) | N/A |
+| 13 | [Blink](http://twitter.com/search?q=Blink) | N/A |
+| 14 | [Dida](http://twitter.com/search?q=Dida) | N/A |
+| 15 | [Tom Delonge](http://twitter.com/search?q=Tom+Delonge) | N/A |
+| 16 | [Banco](http://twitter.com/search?q=Banco) | N/A |
+| 17 | [Maira Cardi](http://twitter.com/search?q=Maira+Cardi) | N/A |
+| 18 | [Lupita Nyong](http://twitter.com/search?q=Lupita+Nyong) | N/A |
+| 19 | [Lucy Liu](http://twitter.com/search?q=Lucy+Liu) | N/A |
+| 20 | [Thiago Nigro](http://twitter.com/search?q=Thiago+Nigro) | N/A |
+| 21 | [#TheMandalorianXboxSweepstakes](http://twitter.com/search?q=%23TheMandalorianXboxSweepstakes) | N/A |
+| 22 | [#MoonlightChickenEP7](http://twitter.com/search?q=%23MoonlightChickenEP7) | N/A |
+| 23 | [izzo](http://twitter.com/search?q=izzo) | N/A |
+| 24 | [Travis](http://twitter.com/search?q=Travis) | N/A |
+| 25 | [Haddad](http://twitter.com/search?q=Haddad) | N/A |
+| 26 | [#osdonosdabola](http://twitter.com/search?q=%23osdonosdabola) | N/A |
+| 27 | [Zoro](http://twitter.com/search?q=Zoro) | N/A |
+| 28 | [Março](http://twitter.com/search?q=Mar%c3%a7o) | N/A |
+| 29 | [Parabéns Rio de Janeiro](http://twitter.com/search?q=Parab%c3%a9ns+Rio+de+Janeiro) | N/A |
+| 30 | [Tom Hardy](http://twitter.com/search?q=Tom+Hardy) | N/A |
+| 31 | [Primo Rico](http://twitter.com/search?q=Primo+Rico) | N/A |
+| 32 | [The Idol](http://twitter.com/search?q=The+Idol) | N/A |
+| 33 | [Coreia do Norte](http://twitter.com/search?q=Coreia+do+Norte) | N/A |
+| 34 | [Cidade Invisível](http://twitter.com/search?q=Cidade+Invis%c3%advel) | N/A |
+| 35 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 36 | [21 Pilots](http://twitter.com/search?q=21+Pilots) | N/A |
+| 37 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
+| 38 | [C6 Fest](http://twitter.com/search?q=C6+Fest) | N/A |
+| 39 | [Cidade Maravilhosa](http://twitter.com/search?q=Cidade+Maravilhosa) | N/A |
+| 40 | [Pikamee](http://twitter.com/search?q=Pikamee) | N/A |
+| 41 | [Mylon](http://twitter.com/search?q=Mylon) | N/A |
+| 42 | [Quentin Tarantino](http://twitter.com/search?q=Quentin+Tarantino) | N/A |
+| 43 | [Anvisa](http://twitter.com/search?q=Anvisa) | N/A |
+| 44 | [Emma Stone](http://twitter.com/search?q=Emma+Stone) | N/A |
+| 45 | [Arlo Parks](http://twitter.com/search?q=Arlo+Parks) | N/A |
+| 46 | [Benedict Cumberbatch](http://twitter.com/search?q=Benedict+Cumberbatch) | N/A |
+| 47 | [Mads Mikkelsen](http://twitter.com/search?q=Mads+Mikkelsen) | N/A |
+| 48 | [tyler joseph](http://twitter.com/search?q=tyler+joseph) | N/A |
+| 49 | [Zack Snyder](http://twitter.com/search?q=Zack+Snyder) | N/A |
+| 50 | [Anya Taylor Joy](http://twitter.com/search?q=Anya+Taylor+Joy) | N/A |
 
 
 

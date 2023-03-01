@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Warsaw
 
-📆 Last Updated: `2023-03-01 17:16:02 UTC`
+📆 Last Updated: `2023-03-01 18:17:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Poland](</Poland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Żołnierzy Wyklętych](http://twitter.com/search?q=%c5%bbo%c5%82nierzy+Wykl%c4%99tych) | N/A |
-| 2 | [Chwała Bohaterom](http://twitter.com/search?q=Chwa%c5%82a+Bohaterom) | N/A |
+| 1 | [KKS Kalisz](http://twitter.com/search?q=KKS+Kalisz) | N/A |
+| 2 | [Żołnierzy Wyklętych](http://twitter.com/search?q=%c5%bbo%c5%82nierzy+Wykl%c4%99tych) | N/A |
 | 3 | [#KKSŚLĄ](http://twitter.com/search?q=%23KKS%c5%9aL%c4%84) | N/A |
-| 4 | [#OligarchaPutina](http://twitter.com/search?q=%23OligarchaPutina) | N/A |
-| 5 | [#1marca](http://twitter.com/search?q=%231marca) | N/A |
-| 6 | [KKS Kalisz](http://twitter.com/search?q=KKS+Kalisz) | N/A |
-| 7 | [#ObajtekDoCeli](http://twitter.com/search?q=%23ObajtekDoCeli) | N/A |
+| 4 | [Chwała Bohaterom](http://twitter.com/search?q=Chwa%c5%82a+Bohaterom) | N/A |
+| 5 | [#OligarchaPutina](http://twitter.com/search?q=%23OligarchaPutina) | N/A |
+| 6 | [Wenus](http://twitter.com/search?q=Wenus) | N/A |
+| 7 | [#1marca](http://twitter.com/search?q=%231marca) | N/A |
 | 8 | [#BielanOddajKase](http://twitter.com/search?q=%23BielanOddajKase) | N/A |
-| 9 | [Dworczyka](http://twitter.com/search?q=Dworczyka) | N/A |
-| 10 | [Narodowy Dzień Pamięci](http://twitter.com/search?q=Narodowy+Dzie%c5%84+Pami%c4%99ci) | N/A |
-| 11 | [Referendum](http://twitter.com/search?q=Referendum) | N/A |
-| 12 | [Tuska](http://twitter.com/search?q=Tuska) | N/A |
-| 13 | [Karpińskiego](http://twitter.com/search?q=Karpi%c5%84skiego) | N/A |
-| 14 | [libicki](http://twitter.com/search?q=libicki) | N/A |
-| 15 | [Hołownia](http://twitter.com/search?q=Ho%c5%82ownia) | N/A |
-| 16 | [niesiołowski](http://twitter.com/search?q=niesio%c5%82owski) | N/A |
-| 17 | [Wąsika](http://twitter.com/search?q=W%c4%85sika) | N/A |
-| 18 | [Peter Prevc](http://twitter.com/search?q=Peter+Prevc) | N/A |
+| 9 | [#ObajtekDoCeli](http://twitter.com/search?q=%23ObajtekDoCeli) | N/A |
+| 10 | [Jowisz](http://twitter.com/search?q=Jowisz) | N/A |
+| 11 | [Dworczyka](http://twitter.com/search?q=Dworczyka) | N/A |
+| 12 | [Narodowy Dzień Pamięci](http://twitter.com/search?q=Narodowy+Dzie%c5%84+Pami%c4%99ci) | N/A |
+| 13 | [Referendum](http://twitter.com/search?q=Referendum) | N/A |
+| 14 | [tuska](http://twitter.com/search?q=tuska) | N/A |
+| 15 | [Śląsk](http://twitter.com/search?q=%c5%9al%c4%85sk) | N/A |
+| 16 | [Kingi](http://twitter.com/search?q=Kingi) | N/A |
+| 17 | [Karpińskiego](http://twitter.com/search?q=Karpi%c5%84skiego) | N/A |
+| 18 | [Libicki](http://twitter.com/search?q=Libicki) | N/A |
 | 19 | [Jolanty Brzeskiej](http://twitter.com/search?q=Jolanty+Brzeskiej) | N/A |
-| 20 | [GIVE US WN BLOOPERS](http://twitter.com/search?q=GIVE+US+WN+BLOOPERS) | N/A |
-| 21 | [kredyt 0%](http://twitter.com/search?q=kredyt+0%25) | N/A |
-| 22 | [jerzego stuhra](http://twitter.com/search?q=jerzego+stuhra) | N/A |
-| 23 | [Mieszkanie](http://twitter.com/search?q=Mieszkanie) | N/A |
-| 24 | [Obajtka](http://twitter.com/search?q=Obajtka) | N/A |
-| 25 | [amber gold](http://twitter.com/search?q=amber+gold) | N/A |
-| 26 | [Niezawisłość](http://twitter.com/search?q=Niezawis%c5%82o%c5%9b%c4%87) | N/A |
-| 27 | [Kornel Morawiecki](http://twitter.com/search?q=Kornel+Morawiecki) | N/A |
-| 28 | [kinga](http://twitter.com/search?q=kinga) | N/A |
-| 29 | [turynu](http://twitter.com/search?q=turynu) | N/A |
-| 30 | [Jowisz](http://twitter.com/search?q=Jowisz) | N/A |
-| 31 | [Państwo](http://twitter.com/search?q=Pa%c5%84stwo) | N/A |
-| 32 | [MAM PRZYPAŁ](http://twitter.com/search?q=MAM+PRZYPA%c5%81) | N/A |
-| 33 | [Senacie](http://twitter.com/search?q=Senacie) | N/A |
+| 20 | [Wąsika](http://twitter.com/search?q=W%c4%85sika) | N/A |
+| 21 | [GIVE US WN BLOOPERS](http://twitter.com/search?q=GIVE+US+WN+BLOOPERS) | N/A |
+| 22 | [Peter Prevc](http://twitter.com/search?q=Peter+Prevc) | N/A |
+| 23 | [jerzego stuhra](http://twitter.com/search?q=jerzego+stuhra) | N/A |
+| 24 | [Niesiołowski](http://twitter.com/search?q=Niesio%c5%82owski) | N/A |
+| 25 | [Hołownia](http://twitter.com/search?q=Ho%c5%82ownia) | N/A |
+| 26 | [kredyt 0%](http://twitter.com/search?q=kredyt+0%25) | N/A |
+| 27 | [Niezawisłość](http://twitter.com/search?q=Niezawis%c5%82o%c5%9b%c4%87) | N/A |
+| 28 | [Obajtka](http://twitter.com/search?q=Obajtka) | N/A |
+| 29 | [kornel morawiecki](http://twitter.com/search?q=kornel+morawiecki) | N/A |
+| 30 | [Amber Gold](http://twitter.com/search?q=Amber+Gold) | N/A |
+| 31 | [turynu](http://twitter.com/search?q=turynu) | N/A |
+| 32 | [Mieszkanie](http://twitter.com/search?q=Mieszkanie) | N/A |
+| 33 | [MAM PRZYPAŁ](http://twitter.com/search?q=MAM+PRZYPA%c5%81) | N/A |
 | 34 | [Kaziu](http://twitter.com/search?q=Kaziu) | N/A |
 | 35 | [Chmielowski](http://twitter.com/search?q=Chmielowski) | N/A |
-| 36 | [Senatu](http://twitter.com/search?q=Senatu) | N/A |
-| 37 | [Razem](http://twitter.com/search?q=Razem) | N/A |
-| 38 | [Jerzy S.](http://twitter.com/search?q=Jerzy+S.) | N/A |
-| 39 | [mObywatel](http://twitter.com/search?q=mObywatel) | N/A |
-| 40 | [Orlen](http://twitter.com/search?q=Orlen) | N/A |
-| 41 | [Kosiniak](http://twitter.com/search?q=Kosiniak) | N/A |
-| 42 | [Zandberg](http://twitter.com/search?q=Zandberg) | N/A |
-| 43 | [Fryderyk Chopin](http://twitter.com/search?q=Fryderyk+Chopin) | N/A |
-| 44 | [The Dark Side of the Moon](http://twitter.com/search?q=The+Dark+Side+of+the+Moon) | N/A |
-| 45 | [Grecji](http://twitter.com/search?q=Grecji) | N/A |
-| 46 | [cytowanie](http://twitter.com/search?q=cytowanie) | N/A |
+| 36 | [Senacie](http://twitter.com/search?q=Senacie) | N/A |
+| 37 | [HAPPY BIRTHDAY SAPNAP](http://twitter.com/search?q=HAPPY+BIRTHDAY+SAPNAP) | N/A |
+| 38 | [Lechem](http://twitter.com/search?q=Lechem) | N/A |
+| 39 | [Niemcy](http://twitter.com/search?q=Niemcy) | N/A |
+| 40 | [Państwo](http://twitter.com/search?q=Pa%c5%84stwo) | N/A |
+| 41 | [Orlen](http://twitter.com/search?q=Orlen) | N/A |
+| 42 | [Senatu](http://twitter.com/search?q=Senatu) | N/A |
+| 43 | [Zandberg](http://twitter.com/search?q=Zandberg) | N/A |
+| 44 | [cytowanie](http://twitter.com/search?q=cytowanie) | N/A |
+| 45 | [Żołnierzom Wyklętym](http://twitter.com/search?q=%c5%bbo%c5%82nierzom+Wykl%c4%99tym) | N/A |
+| 46 | [Jasiński](http://twitter.com/search?q=Jasi%c5%84ski) | N/A |
 | 47 | [Neumanna](http://twitter.com/search?q=Neumanna) | N/A |
-| 48 | [Auchan](http://twitter.com/search?q=Auchan) | N/A |
-| 49 | [Jasiński](http://twitter.com/search?q=Jasi%c5%84ski) | N/A |
-| 50 | [Łupaszka](http://twitter.com/search?q=%c5%81upaszka) | N/A |
+| 48 | [Fryderyk Chopin](http://twitter.com/search?q=Fryderyk+Chopin) | N/A |
+| 49 | [Łupaszka](http://twitter.com/search?q=%c5%81upaszka) | N/A |
+| 50 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
 
 
 

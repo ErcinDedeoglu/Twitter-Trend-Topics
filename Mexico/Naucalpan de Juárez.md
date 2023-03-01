@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Naucalpan de Juárez
 
-📆 Last Updated: `2023-03-01 17:15:56 UTC`
+📆 Last Updated: `2023-03-01 18:16:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,53 @@ This is top 50 for [Mexico](</Mexico>)
 | ------- | ------------ | ------------ |
 | 1 | [Irma Serrano](http://twitter.com/search?q=Irma+Serrano) | N/A |
 | 2 | [La Tigresa](http://twitter.com/search?q=La+Tigresa) | N/A |
-| 3 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
-| 4 | [HYBE PROTECT RM](http://twitter.com/search?q=HYBE+PROTECT+RM) | N/A |
-| 5 | [BIGHIT PROTECT RM](http://twitter.com/search?q=BIGHIT+PROTECT+RM) | N/A |
-| 6 | [#PoderosoPegajoso](http://twitter.com/search?q=%23PoderosoPegajoso) | N/A |
-| 7 | [#CeroDiscriminación](http://twitter.com/search?q=%23CeroDiscriminaci%c3%b3n) | N/A |
-| 8 | [Blink 182](http://twitter.com/search?q=Blink+182) | N/A |
-| 9 | [Marzo con M](http://twitter.com/search?q=Marzo+con+M) | N/A |
-| 10 | [#QEPD](http://twitter.com/search?q=%23QEPD) | N/A |
-| 11 | [Bienvenido Marzo](http://twitter.com/search?q=Bienvenido+Marzo) | N/A |
-| 12 | [Pato Zambrano](http://twitter.com/search?q=Pato+Zambrano) | N/A |
-| 13 | [Poncho De Nigris](http://twitter.com/search?q=Poncho+De+Nigris) | N/A |
-| 14 | [#Marzo2023](http://twitter.com/search?q=%23Marzo2023) | N/A |
-| 15 | [pika](http://twitter.com/search?q=pika) | N/A |
-| 16 | [Just Fontaine](http://twitter.com/search?q=Just+Fontaine) | N/A |
-| 17 | [Pal Norte](http://twitter.com/search?q=Pal+Norte) | N/A |
-| 18 | [Travis Barker](http://twitter.com/search?q=Travis+Barker) | N/A |
-| 19 | [Norma Piña](http://twitter.com/search?q=Norma+Pi%c3%b1a) | Norma Piña is a Mexican dish made with shredded beef, potatoes, and carrots cooked in a tomato-based sauce. The name of the dish comes from the Spanish words for "shredded beef" (carne deshebrada) and "pineapple" (piña). In English, Norma Piña translates to "Shredded Beef with Pineapple". |
-| 20 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
-| 21 | [The Dark Side of the Moon](http://twitter.com/search?q=The+Dark+Side+of+the+Moon) | N/A |
-| 22 | [El 1](http://twitter.com/search?q=El+1) | N/A |
-| 23 | [Díaz Ordaz](http://twitter.com/search?q=D%c3%adaz+Ordaz) | N/A |
-| 24 | [Zoro](http://twitter.com/search?q=Zoro) | N/A |
-| 25 | [Nuevo Laredo](http://twitter.com/search?q=Nuevo+Laredo) | N/A |
-| 26 | [Tania Rincón](http://twitter.com/search?q=Tania+Rinc%c3%b3n) | N/A |
-| 27 | [Mario Delgado](http://twitter.com/search?q=Mario+Delgado) | N/A |
-| 28 | [Cabeza de Vaca](http://twitter.com/search?q=Cabeza+de+Vaca) | N/A |
-| 29 | [Ejército](http://twitter.com/search?q=Ej%c3%a9rcito) | N/A |
-| 30 | [SEDENA](http://twitter.com/search?q=SEDENA) | N/A |
-| 31 | [Día 1](http://twitter.com/search?q=D%c3%ada+1) | N/A |
-| 32 | [Ridícula](http://twitter.com/search?q=Rid%c3%adcula) | N/A |
-| 33 | [Juan Collado](http://twitter.com/search?q=Juan+Collado) | N/A |
-| 34 | [#unit](http://twitter.com/search?q=%23unit) | N/A |
-| 35 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 36 | [#VilchisMosa](http://twitter.com/search?q=%23VilchisMosa) | N/A |
-| 37 | [#1DeMarzo](http://twitter.com/search?q=%231DeMarzo) | N/A |
-| 38 | [#SalarioRosaContiua](http://twitter.com/search?q=%23SalarioRosaContiua) | N/A |
-| 39 | [#PinkFloyd](http://twitter.com/search?q=%23PinkFloyd) | N/A |
-| 40 | [#BuenosDías](http://twitter.com/search?q=%23BuenosD%c3%adas) | N/A |
-| 41 | [#Grecia](http://twitter.com/search?q=%23Grecia) | N/A |
-| 42 | [#sinyolanda](http://twitter.com/search?q=%23sinyolanda) | N/A |
-| 43 | [#on_the_street](http://twitter.com/search?q=%23on_the_street) | N/A |
-| 44 | [#ProtecciónCivil](http://twitter.com/search?q=%23Protecci%c3%b3nCivil) | N/A |
-| 45 | [#JB29](http://twitter.com/search?q=%23JB29) | N/A |
-| 46 | [#HappyBirthdayJustinBieber](http://twitter.com/search?q=%23HappyBirthdayJustinBieber) | N/A |
-| 47 | [#Grogu](http://twitter.com/search?q=%23Grogu) | N/A |
-| 48 | [#StarWars](http://twitter.com/search?q=%23StarWars) | N/A |
-| 49 | [#AmloSeVaElINESeQueda](http://twitter.com/search?q=%23AmloSeVaElINESeQueda) | N/A |
-| 50 | [#ConferenciaPresidente](http://twitter.com/search?q=%23ConferenciaPresidente) | N/A |
+| 3 | [Blink](http://twitter.com/search?q=Blink) | N/A |
+| 4 | [twenty one pilots](http://twitter.com/search?q=twenty+one+pilots) | N/A |
+| 5 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
+| 6 | [#CeroDiscriminación](http://twitter.com/search?q=%23CeroDiscriminaci%c3%b3n) | N/A |
+| 7 | [Pal Norte](http://twitter.com/search?q=Pal+Norte) | N/A |
+| 8 | [HYBE PROTECT RM](http://twitter.com/search?q=HYBE+PROTECT+RM) | N/A |
+| 9 | [BIGHIT PROTECT RM](http://twitter.com/search?q=BIGHIT+PROTECT+RM) | N/A |
+| 10 | [Travis](http://twitter.com/search?q=Travis) | N/A |
+| 11 | [#PoderosoPegajoso](http://twitter.com/search?q=%23PoderosoPegajoso) | N/A |
+| 12 | [Marzo con M](http://twitter.com/search?q=Marzo+con+M) | N/A |
+| 13 | [#QEPD](http://twitter.com/search?q=%23QEPD) | N/A |
+| 14 | [Bienvenido Marzo](http://twitter.com/search?q=Bienvenido+Marzo) | N/A |
+| 15 | [Pato Zambrano](http://twitter.com/search?q=Pato+Zambrano) | N/A |
+| 16 | [Sudamérica](http://twitter.com/search?q=Sudam%c3%a9rica) | N/A |
+| 17 | [pika](http://twitter.com/search?q=pika) | N/A |
+| 18 | [Norma Piña](http://twitter.com/search?q=Norma+Pi%c3%b1a) | Norma Piña is a Mexican dish made with shredded beef, potatoes, and carrots cooked in a tomato-based sauce. The name of the dish comes from the Spanish words for "shredded beef" (carne deshebrada) and "pineapple" (piña). In English, Norma Piña translates to "Shredded Beef with Pineapple". |
+| 19 | [sam levinson](http://twitter.com/search?q=sam+levinson) | N/A |
+| 20 | [Poncho de Nigris](http://twitter.com/search?q=Poncho+de+Nigris) | N/A |
+| 21 | [Díaz Ordaz](http://twitter.com/search?q=D%c3%adaz+Ordaz) | N/A |
+| 22 | [La Martina](http://twitter.com/search?q=La+Martina) | N/A |
+| 23 | [Just Fontaine](http://twitter.com/search?q=Just+Fontaine) | N/A |
+| 24 | [The Dark Side of the Moon](http://twitter.com/search?q=The+Dark+Side+of+the+Moon) | N/A |
+| 25 | [Martha Debayle](http://twitter.com/search?q=Martha+Debayle) | Martha Debayle is a Mexican radio show hosted by Martha Debayle. It is a morning show that covers topics such as music, entertainment, lifestyle, and current events. The show is broadcast on the radio station W Radio in Mexico City and other cities in Mexico. The name of the show translates to "Martha of the Waves" in English. |
+| 26 | [El 1](http://twitter.com/search?q=El+1) | N/A |
+| 27 | [Justin Bieber](http://twitter.com/search?q=Justin+Bieber) | N/A |
+| 28 | [Zoro](http://twitter.com/search?q=Zoro) | N/A |
+| 29 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
+| 30 | [Nuevo Laredo](http://twitter.com/search?q=Nuevo+Laredo) | N/A |
+| 31 | [Mario Delgado](http://twitter.com/search?q=Mario+Delgado) | N/A |
+| 32 | [Naciones Unidas](http://twitter.com/search?q=Naciones+Unidas) | N/A |
+| 33 | [Raymundo Ramos](http://twitter.com/search?q=Raymundo+Ramos) | N/A |
+| 34 | [Tania Rincón](http://twitter.com/search?q=Tania+Rinc%c3%b3n) | N/A |
+| 35 | [Día Internacional de la Mujer](http://twitter.com/search?q=D%c3%ada+Internacional+de+la+Mujer) | N/A |
+| 36 | [Cabeza de Vaca](http://twitter.com/search?q=Cabeza+de+Vaca) | N/A |
+| 37 | [SEDENA](http://twitter.com/search?q=SEDENA) | N/A |
+| 38 | [Aluxe](http://twitter.com/search?q=Aluxe) | N/A |
+| 39 | [Día 1](http://twitter.com/search?q=D%c3%ada+1) | N/A |
+| 40 | [Ridícula](http://twitter.com/search?q=Rid%c3%adcula) | N/A |
+| 41 | [Samuel García](http://twitter.com/search?q=Samuel+Garc%c3%ada) | N/A |
+| 42 | [#Marzo2023](http://twitter.com/search?q=%23Marzo2023) | N/A |
+| 43 | [#TheMandalorianXboxSweepstakes](http://twitter.com/search?q=%23TheMandalorianXboxSweepstakes) | N/A |
+| 44 | [#unit](http://twitter.com/search?q=%23unit) | N/A |
+| 45 | [#1DeMarzo](http://twitter.com/search?q=%231DeMarzo) | N/A |
+| 46 | [#VilchisMosa](http://twitter.com/search?q=%23VilchisMosa) | N/A |
+| 47 | [#PinkFloyd](http://twitter.com/search?q=%23PinkFloyd) | N/A |
+| 48 | [#ProtecciónCivil](http://twitter.com/search?q=%23Protecci%c3%b3nCivil) | N/A |
+| 49 | [#BuenosDías](http://twitter.com/search?q=%23BuenosD%c3%adas) | N/A |
 
 
 
