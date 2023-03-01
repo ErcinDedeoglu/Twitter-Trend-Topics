@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Konya
 
-📆 Last Updated: `2023-03-01 06:17:41 UTC`
+📆 Last Updated: `2023-03-01 07:16:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,46 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#EYTHayırlıOlsun](http://twitter.com/search?q=%23EYTHay%c4%b1rl%c4%b1Olsun) | N/A |
-| 2 | [#çarşamba](http://twitter.com/search?q=%23%c3%a7ar%c5%9famba) | N/A |
-| 3 | [#DeplasmanımaDokunma](http://twitter.com/search?q=%23Deplasman%c4%b1maDokunma) | N/A |
-| 4 | [#Mart](http://twitter.com/search?q=%23Mart) | N/A |
-| 5 | [Mansur Yavaş](http://twitter.com/search?q=Mansur+Yava%c5%9f) | N/A |
-| 6 | [Karagümrük](http://twitter.com/search?q=Karag%c3%bcmr%c3%bck) | Karagümrük is a neighborhood in Istanbul, Turkey. The name Karagümrük is derived from the Turkish words "kara" (black) and "gümüş" (silver), referring to the blacksmiths who used to work in the area. In English, Karagümrük translates to "Blacksmith's Corner". |
-| 7 | [Kızılay](http://twitter.com/search?q=K%c4%b1z%c4%b1lay) | Kızılay is the Turkish Red Crescent, a humanitarian organization that provides aid and assistance to those in need. The name Kızılay comes from the Ottoman Empire era, when it was known as the Imperial Ottoman Society of the Red Crescent. In English, Kızılay translates to "Red Crescent". |
-| 8 | [Teşekkürler Erdoğan](http://twitter.com/search?q=Te%c5%9fekk%c3%bcrler+Erdo%c4%9fan) | "Teşekkürler Erdoğan" is a Turkish phrase that translates to "Thank you, Erdoğan" in English. It is a polite way of expressing gratitude to the Turkish President, Recep Tayyip Erdoğan. |
-| 9 | [Ahmet Ercan](http://twitter.com/search?q=Ahmet+Ercan) | N/A |
-| 10 | [Beraberiz Güçlüyüz](http://twitter.com/search?q=Beraberiz+G%c3%bc%c3%a7l%c3%bcy%c3%bcz) | N/A |
-| 11 | [uygunatt hizmetial](http://twitter.com/search?q=uygunatt+hizmetial) | N/A |
-| 12 | [Ateşi](http://twitter.com/search?q=Ate%c5%9fi) | N/A |
-| 13 | [Elbistan](http://twitter.com/search?q=Elbistan) | N/A |
-| 14 | [Piercing](http://twitter.com/search?q=Piercing) | N/A |
-| 15 | [Kayseri](http://twitter.com/search?q=Kayseri) | N/A |
-| 16 | [Beşiktaş](http://twitter.com/search?q=Be%c5%9fikta%c5%9f) | Beşiktaş is a Turkish sports club based in Istanbul, Turkey. The name Beşiktaş translates to "cradle stone" in English. The club is best known for its football team, which competes in the Turkish Super League and is one of the most successful clubs in Turkey. |
-| 17 | [MESELE DEPREM DEĞİL](http://twitter.com/search?q=MESELE+DEPREM+DE%c4%9e%c4%b0L) | N/A |
-| 18 | [Çocuklara](http://twitter.com/search?q=%c3%87ocuklara) | N/A |
-| 19 | [Burç](http://twitter.com/search?q=Bur%c3%a7) | N/A |
-| 20 | [öncelikaf sonraseçim](http://twitter.com/search?q=%c3%b6ncelikaf+sonrase%c3%a7im) | N/A |
-| 21 | [İndirin](http://twitter.com/search?q=%c4%b0ndirin) | N/A |
-| 22 | [Kerem Kınık](http://twitter.com/search?q=Kerem+K%c4%b1n%c4%b1k) | N/A |
-| 23 | [Hasip](http://twitter.com/search?q=Hasip) | N/A |
-| 24 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
-| 25 | [Helallik](http://twitter.com/search?q=Helallik) | N/A |
-| 26 | [HAKKIM HELAL OLSUN REİS](http://twitter.com/search?q=HAKKIM+HELAL+OLSUN+RE%c4%b0S) | N/A |
-| 27 | [Hudut](http://twitter.com/search?q=Hudut) | N/A |
-| 28 | [Talisca](http://twitter.com/search?q=Talisca) | Talisca is a Portuguese name derived from the Latin word talis, meaning “such” or “so much.” It is also a surname in some parts of Portugal. In English, it can be translated to mean “so much” or “so great.” |
-| 29 | [Geberdi](http://twitter.com/search?q=Geberdi) | N/A |
-| 30 | [Ali Koç](http://twitter.com/search?q=Ali+Ko%c3%a7) | Ali Koç is a Turkish surname. It is derived from the Turkish word "koç" which means "ram". In English, Ali Koç would translate to "Ali the Ram". |
-| 31 | [sevgi hakimolsun](http://twitter.com/search?q=sevgi+hakimolsun) | N/A |
-| 32 | [Amin](http://twitter.com/search?q=Amin) | N/A |
-| 33 | [Kürtler](http://twitter.com/search?q=K%c3%bcrtler) | N/A |
-| 34 | [YusufuAnnesinden Ayırmayın](http://twitter.com/search?q=YusufuAnnesinden+Ay%c4%b1rmay%c4%b1n) | N/A |
-| 35 | [HARAM OLSUN](http://twitter.com/search?q=HARAM+OLSUN) | N/A |
-| 36 | [Ve Aleykümselam](http://twitter.com/search?q=Ve+Aleyk%c3%bcmselam) | N/A |
-| 37 | [Wanda](http://twitter.com/search?q=Wanda) | N/A |
-| 38 | [Yeşim](http://twitter.com/search?q=Ye%c5%9fim) | N/A |
-| 39 | [BATSIN ARSIZ SIYASETINIZ](http://twitter.com/search?q=BATSIN+ARSIZ+SIYASETINIZ) | N/A |
-| 40 | [Ezan](http://twitter.com/search?q=Ezan) | N/A |
-| 41 | [Hududu](http://twitter.com/search?q=Hududu) | N/A |
-| 42 | [Mahir Ünal](http://twitter.com/search?q=Mahir+%c3%9cnal) | N/A |
-| 43 | [Hacı](http://twitter.com/search?q=Hac%c4%b1) | N/A |
-| 44 | [Aday](http://twitter.com/search?q=Aday) | N/A |
-| 45 | [Geçmiş](http://twitter.com/search?q=Ge%c3%a7mi%c5%9f) | Geçmiş is a Turkish word that means "past" or "history". It is used to refer to the events, people, and experiences of the past. |
-| 46 | [Rojbaş](http://twitter.com/search?q=Rojba%c5%9f) | N/A |
-| 47 | [Bilim](http://twitter.com/search?q=Bilim) | N/A |
-| 48 | [Bismillah](http://twitter.com/search?q=Bismillah) | N/A |
-| 49 | [Hani 5000](http://twitter.com/search?q=Hani+5000) | N/A |
+| 1 | [UygunFiyatlarrda TTHizmeti](http://twitter.com/search?q=UygunFiyatlarrda+TTHizmeti) | N/A |
+| 2 | [#Mart](http://twitter.com/search?q=%23Mart) | N/A |
+| 3 | [#EYTHayırlıOlsun](http://twitter.com/search?q=%23EYTHay%c4%b1rl%c4%b1Olsun) | N/A |
+| 4 | [#çarşamba](http://twitter.com/search?q=%23%c3%a7ar%c5%9famba) | N/A |
+| 5 | [#Greece](http://twitter.com/search?q=%23Greece) | N/A |
+| 6 | [Teşekkürler Erdoğan](http://twitter.com/search?q=Te%c5%9fekk%c3%bcrler+Erdo%c4%9fan) | "Teşekkürler Erdoğan" is a Turkish phrase that translates to "Thank you, Erdoğan" in English. It is a polite way of expressing gratitude to the Turkish President, Recep Tayyip Erdoğan. |
+| 7 | [Günaydınlar](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nlar) | N/A |
+| 8 | [Hasip](http://twitter.com/search?q=Hasip) | N/A |
+| 9 | [Günaydınn](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nn) | N/A |
+| 10 | [Kürtler](http://twitter.com/search?q=K%c3%bcrtler) | N/A |
+| 11 | [TBMM'de](http://twitter.com/search?q=TBMM%27de) | N/A |
+| 12 | [Yeşim](http://twitter.com/search?q=Ye%c5%9fim) | N/A |
+| 13 | [Genel Sağlık Sigortası Kanunu](http://twitter.com/search?q=Genel+Sa%c4%9fl%c4%b1k+Sigortas%c4%b1+Kanunu) | N/A |
+| 14 | [Emeklilikte Yaşa Takılanlar](http://twitter.com/search?q=Emeklilikte+Ya%c5%9fa+Tak%c4%b1lanlar) | N/A |
+| 15 | [Şubat](http://twitter.com/search?q=%c5%9eubat) | N/A |
+| 16 | [Elbistan](http://twitter.com/search?q=Elbistan) | N/A |
+| 17 | [Bağkur](http://twitter.com/search?q=Ba%c4%9fkur) | N/A |
+| 18 | [Ateşi](http://twitter.com/search?q=Ate%c5%9fi) | N/A |
+| 19 | [İndirin](http://twitter.com/search?q=%c4%b0ndirin) | N/A |
+| 20 | [Icardi](http://twitter.com/search?q=Icardi) | Icardi is a surname of Italian origin. It is derived from the Latin word "cardus" meaning thistle. In English, it can be translated to mean "of the thistle". |
+| 21 | [Geberdi](http://twitter.com/search?q=Geberdi) | N/A |
+| 22 | [Wanda](http://twitter.com/search?q=Wanda) | N/A |
+| 23 | [Prof](http://twitter.com/search?q=Prof) | N/A |
+| 24 | [Simge](http://twitter.com/search?q=Simge) | N/A |
+| 25 | [MESELE DEPREM DEĞİL](http://twitter.com/search?q=MESELE+DEPREM+DE%c4%9e%c4%b0L) | N/A |
+| 26 | [#2000lerinOyuAdalete](http://twitter.com/search?q=%232000lerinOyuAdalete) | N/A |
+| 27 | [#DepremHaftası](http://twitter.com/search?q=%23DepremHaftas%c4%b1) | N/A |
+| 28 | [#KabulEdilemez](http://twitter.com/search?q=%23KabulEdilemez) | N/A |
+| 29 | [#StajaÇözümZamanı](http://twitter.com/search?q=%23Staja%c3%87%c3%b6z%c3%bcmZaman%c4%b1) | N/A |
+| 30 | [#EYTAcilResmiGazeteye](http://twitter.com/search?q=%23EYTAcilResmiGazeteye) | N/A |
+| 31 | [#SessizlikOlacak](http://twitter.com/search?q=%23SessizlikOlacak) | N/A |
+| 32 | [#Yunanistan](http://twitter.com/search?q=%23Yunanistan) | N/A |
+| 33 | [#mansuryavas](http://twitter.com/search?q=%23mansuryavas) | N/A |
+| 34 | [#YeşilayHaftası](http://twitter.com/search?q=%23Ye%c5%9filayHaftas%c4%b1) | N/A |
+| 35 | [#HayırlıSabahlar](http://twitter.com/search?q=%23Hay%c4%b1rl%c4%b1Sabahlar) | N/A |
+| 36 | [#gunaydin](http://twitter.com/search?q=%23gunaydin) | N/A |
+| 37 | [#Deplasmanimadokunma](http://twitter.com/search?q=%23Deplasmanimadokunma) | N/A |
+| 38 | [#EmadAdaletİstiyor](http://twitter.com/search?q=%23EmadAdalet%c4%b0stiyor) | N/A |
+| 39 | [#EhliyetAffı](http://twitter.com/search?q=%23EhliyetAff%c4%b1) | N/A |
+| 40 | [#Kayserispor](http://twitter.com/search?q=%23Kayserispor) | N/A |
 
 
 

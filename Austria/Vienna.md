@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-03-01 06:17:16 UTC`
+📆 Last Updated: `2023-03-01 07:16:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Austria](</Austria>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Franz](http://twitter.com/search?q=Franz) | N/A |
-| 2 | [#wahl23](http://twitter.com/search?q=%23wahl23) | N/A |
-| 3 | [Peter](http://twitter.com/search?q=Peter) | N/A |
-| 4 | [Andreas](http://twitter.com/search?q=Andreas) | N/A |
-| 5 | [Lehrerin](http://twitter.com/search?q=Lehrerin) | N/A |
-| 6 | [Moderator](http://twitter.com/search?q=Moderator) | N/A |
-| 7 | [#ltw23](http://twitter.com/search?q=%23ltw23) | N/A |
-| 8 | [#ltwkaernten](http://twitter.com/search?q=%23ltwkaernten) | N/A |
-| 9 | [#RareDiseaseDay](http://twitter.com/search?q=%23RareDiseaseDay) | N/A |
-| 10 | [Auswahl](http://twitter.com/search?q=Auswahl) | N/A |
-| 11 | [#hartaberfair](http://twitter.com/search?q=%23hartaberfair) | #hartaberfair is a German phrase that translates to "fair and square" or "just and fair". It is used to express the idea of fairness and justice in a situation. |
-| 12 | [Jugendliche](http://twitter.com/search?q=Jugendliche) | N/A |
-| 13 | [Windräder](http://twitter.com/search?q=Windr%c3%a4der) | N/A |
-| 14 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 15 | [doskozil](http://twitter.com/search?q=doskozil) | N/A |
-| 16 | [Verfügung](http://twitter.com/search?q=Verf%c3%bcgung) | N/A |
-| 17 | [Auswirkungen](http://twitter.com/search?q=Auswirkungen) | N/A |
-| 18 | [Können Sie](http://twitter.com/search?q=K%c3%b6nnen+Sie) | N/A |
-| 19 | [kärnten](http://twitter.com/search?q=k%c3%a4rnten) | N/A |
-| 20 | [Guten Morgen Manfred](http://twitter.com/search?q=Guten+Morgen+Manfred) | N/A |
-| 21 | [Kern](http://twitter.com/search?q=Kern) | N/A |
-| 22 | [Produktion](http://twitter.com/search?q=Produktion) | N/A |
-| 23 | [Putsch](http://twitter.com/search?q=Putsch) | N/A |
-| 24 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
-| 25 | [Vergewaltigungen](http://twitter.com/search?q=Vergewaltigungen) | N/A |
-| 26 | [Öffentlichkeit](http://twitter.com/search?q=%c3%96ffentlichkeit) | N/A |
-| 27 | [Paket](http://twitter.com/search?q=Paket) | N/A |
-| 28 | [ama gütesiegel](http://twitter.com/search?q=ama+g%c3%bctesiegel) | N/A |
-| 29 | [Meute](http://twitter.com/search?q=Meute) | N/A |
-| 30 | [arbeitszeitverkürzung](http://twitter.com/search?q=arbeitszeitverk%c3%bcrzung) | N/A |
-| 31 | [Bures](http://twitter.com/search?q=Bures) | N/A |
-| 32 | [Neutralität](http://twitter.com/search?q=Neutralit%c3%a4t) | N/A |
-| 33 | [Rendi-Wagner](http://twitter.com/search?q=Rendi-Wagner) | N/A |
-| 34 | [Einkauf](http://twitter.com/search?q=Einkauf) | N/A |
-| 35 | [Filter](http://twitter.com/search?q=Filter) | N/A |
-| 36 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
-| 37 | [Helmut](http://twitter.com/search?q=Helmut) | N/A |
-| 38 | [produktivität](http://twitter.com/search?q=produktivit%c3%a4t) | N/A |
-| 39 | [Maske](http://twitter.com/search?q=Maske) | N/A |
-| 40 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
-| 41 | [Effizienz](http://twitter.com/search?q=Effizienz) | N/A |
+| 1 | [#wahl23](http://twitter.com/search?q=%23wahl23) | N/A |
+| 2 | [Maske](http://twitter.com/search?q=Maske) | N/A |
+| 3 | [Andreas](http://twitter.com/search?q=Andreas) | N/A |
+| 4 | [Manfred](http://twitter.com/search?q=Manfred) | N/A |
+| 5 | [Franz](http://twitter.com/search?q=Franz) | N/A |
+| 6 | [Helmut](http://twitter.com/search?q=Helmut) | N/A |
+| 7 | [Moderator](http://twitter.com/search?q=Moderator) | N/A |
+| 8 | [#ltw23](http://twitter.com/search?q=%23ltw23) | N/A |
+| 9 | [#ltwkaernten](http://twitter.com/search?q=%23ltwkaernten) | N/A |
+| 10 | [Lehrerin](http://twitter.com/search?q=Lehrerin) | N/A |
+| 11 | [#RareDiseaseDay](http://twitter.com/search?q=%23RareDiseaseDay) | N/A |
+| 12 | [Öffentlichkeit](http://twitter.com/search?q=%c3%96ffentlichkeit) | N/A |
+| 13 | [Auswahl](http://twitter.com/search?q=Auswahl) | N/A |
+| 14 | [Christine](http://twitter.com/search?q=Christine) | N/A |
+| 15 | [#hartaberfair](http://twitter.com/search?q=%23hartaberfair) | #hartaberfair is a German phrase that translates to "fair and square" or "just and fair". It is used to express the idea of fairness and justice in a situation. |
+| 16 | [Jugendliche](http://twitter.com/search?q=Jugendliche) | N/A |
+| 17 | [Windräder](http://twitter.com/search?q=Windr%c3%a4der) | N/A |
+| 18 | [Peter](http://twitter.com/search?q=Peter) | N/A |
+| 19 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 20 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 21 | [Verfügung](http://twitter.com/search?q=Verf%c3%bcgung) | N/A |
+| 22 | [Auswirkungen](http://twitter.com/search?q=Auswirkungen) | N/A |
+| 23 | [Reise](http://twitter.com/search?q=Reise) | N/A |
+| 24 | [Können Sie](http://twitter.com/search?q=K%c3%b6nnen+Sie) | N/A |
+| 25 | [kärnten](http://twitter.com/search?q=k%c3%a4rnten) | N/A |
+| 26 | [Siegel](http://twitter.com/search?q=Siegel) | N/A |
+| 27 | [Produktion](http://twitter.com/search?q=Produktion) | N/A |
+| 28 | [Putsch](http://twitter.com/search?q=Putsch) | N/A |
+| 29 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
+| 30 | [Doskozil](http://twitter.com/search?q=Doskozil) | N/A |
+| 31 | [Vergewaltigungen](http://twitter.com/search?q=Vergewaltigungen) | N/A |
+| 32 | [Rendi-Wagner](http://twitter.com/search?q=Rendi-Wagner) | N/A |
+| 33 | [Kern](http://twitter.com/search?q=Kern) | N/A |
+| 34 | [Paket](http://twitter.com/search?q=Paket) | N/A |
+| 35 | [Meute](http://twitter.com/search?q=Meute) | N/A |
+| 36 | [arbeitszeitverkürzung](http://twitter.com/search?q=arbeitszeitverk%c3%bcrzung) | N/A |
+| 37 | [Filter](http://twitter.com/search?q=Filter) | N/A |
+| 38 | [Bures](http://twitter.com/search?q=Bures) | N/A |
+| 39 | [Neutralität](http://twitter.com/search?q=Neutralit%c3%a4t) | N/A |
+| 40 | [Einkauf](http://twitter.com/search?q=Einkauf) | N/A |
+| 41 | [Verwaltung](http://twitter.com/search?q=Verwaltung) | N/A |
 | 42 | [Talkshows](http://twitter.com/search?q=Talkshows) | N/A |
-| 43 | [HOFer](http://twitter.com/search?q=HOFer) | N/A |
+| 43 | [Arbeitstag](http://twitter.com/search?q=Arbeitstag) | N/A |
 | 44 | [Verträge](http://twitter.com/search?q=Vertr%c3%a4ge) | N/A |
-| 45 | [Kohlekraftwerke](http://twitter.com/search?q=Kohlekraftwerke) | N/A |
-| 46 | [Sätze](http://twitter.com/search?q=S%c3%a4tze) | N/A |
-| 47 | [Marokko](http://twitter.com/search?q=Marokko) | N/A |
-| 48 | [Verwaltung](http://twitter.com/search?q=Verwaltung) | N/A |
-| 49 | [Prioritäten](http://twitter.com/search?q=Priorit%c3%a4ten) | N/A |
-| 50 | [Fahrrad](http://twitter.com/search?q=Fahrrad) | N/A |
+| 45 | [Öffis](http://twitter.com/search?q=%c3%96ffis) | N/A |
+| 46 | [Produktivität](http://twitter.com/search?q=Produktivit%c3%a4t) | N/A |
+| 47 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
+| 48 | [Effizienz](http://twitter.com/search?q=Effizienz) | N/A |
+| 49 | [Tage Woche](http://twitter.com/search?q=Tage+Woche) | N/A |
+| 50 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
 
 
 

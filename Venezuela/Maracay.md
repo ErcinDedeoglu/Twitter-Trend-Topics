@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Maracay
 
-📆 Last Updated: `2023-03-01 06:17:12 UTC`
+📆 Last Updated: `2023-03-01 07:16:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,45 +23,45 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 6 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
 | 7 | [Independiente del Valle](http://twitter.com/search?q=Independiente+del+Valle) | N/A |
 | 8 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 9 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
-| 10 | [Simón Rodríguez](http://twitter.com/search?q=Sim%c3%b3n+Rodr%c3%adguez) | N/A |
+| 9 | [simón rodríguez](http://twitter.com/search?q=sim%c3%b3n+rodr%c3%adguez) | N/A |
+| 10 | [DDHH](http://twitter.com/search?q=DDHH) | N/A |
 | 11 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
-| 12 | [DDHH](http://twitter.com/search?q=DDHH) | N/A |
-| 13 | [Maracaná](http://twitter.com/search?q=Maracan%c3%a1) | N/A |
-| 14 | [Caracazo](http://twitter.com/search?q=Caracazo) | N/A |
-| 15 | [#27frebeliónantimperialista](http://twitter.com/search?q=%2327frebeli%c3%b3nantimperialista) | N/A |
-| 16 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
-| 17 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
-| 18 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
-| 19 | [Peter Pan](http://twitter.com/search?q=Peter+Pan) | N/A |
+| 12 | [Caracazo](http://twitter.com/search?q=Caracazo) | N/A |
+| 13 | [#27frebeliónantimperialista](http://twitter.com/search?q=%2327frebeli%c3%b3nantimperialista) | N/A |
+| 14 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
+| 15 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 16 | [Peter Pan](http://twitter.com/search?q=Peter+Pan) | N/A |
+| 17 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
+| 18 | [Foco](http://twitter.com/search?q=Foco) | N/A |
+| 19 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
 | 20 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
 | 21 | [Enfermedades Raras](http://twitter.com/search?q=Enfermedades+Raras) | N/A |
-| 22 | [Foco](http://twitter.com/search?q=Foco) | N/A |
-| 23 | [Maras](http://twitter.com/search?q=Maras) | N/A |
-| 24 | [Viva Air](http://twitter.com/search?q=Viva+Air) | N/A |
-| 25 | [Hamburguesas](http://twitter.com/search?q=Hamburguesas) | N/A |
-| 26 | [Nikolái Pátrushev](http://twitter.com/search?q=Nikol%c3%a1i+P%c3%a1trushev) | N/A |
-| 27 | [Tom Hanks](http://twitter.com/search?q=Tom+Hanks) | Tom Hanks is an American actor, producer, and director. He is best known for his roles in films such as Forrest Gump, Big, Saving Private Ryan, Cast Away, The Da Vinci Code, and Captain Phillips. He has won two Academy Awards and has been nominated for several more. |
-| 28 | [Tinkerbell](http://twitter.com/search?q=Tinkerbell) | N/A |
-| 29 | [José María España](http://twitter.com/search?q=Jos%c3%a9+Mar%c3%ada+Espa%c3%b1a) | N/A |
-| 30 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
-| 31 | [Libertador Simón Bolívar](http://twitter.com/search?q=Libertador+Sim%c3%b3n+Bol%c3%advar) | N/A |
-| 32 | [Clint Eastwood](http://twitter.com/search?q=Clint+Eastwood) | N/A |
-| 33 | [Ana Gabriel](http://twitter.com/search?q=Ana+Gabriel) | N/A |
-| 34 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 35 | [Rafael Briceño](http://twitter.com/search?q=Rafael+Brice%c3%b1o) | N/A |
-| 36 | [san fernando de apure](http://twitter.com/search?q=san+fernando+de+apure) | N/A |
-| 37 | [Cory](http://twitter.com/search?q=Cory) | N/A |
-| 38 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 39 | [Di María](http://twitter.com/search?q=Di+Mar%c3%ada) | N/A |
+| 22 | [Maras](http://twitter.com/search?q=Maras) | N/A |
+| 23 | [Viva Air](http://twitter.com/search?q=Viva+Air) | N/A |
+| 24 | [Hamburguesas](http://twitter.com/search?q=Hamburguesas) | N/A |
+| 25 | [Nikolái Pátrushev](http://twitter.com/search?q=Nikol%c3%a1i+P%c3%a1trushev) | N/A |
+| 26 | [Tinkerbell](http://twitter.com/search?q=Tinkerbell) | N/A |
+| 27 | [José María España](http://twitter.com/search?q=Jos%c3%a9+Mar%c3%ada+Espa%c3%b1a) | N/A |
+| 28 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 29 | [Maracaná](http://twitter.com/search?q=Maracan%c3%a1) | N/A |
+| 30 | [libertador simón bolívar](http://twitter.com/search?q=libertador+sim%c3%b3n+bol%c3%advar) | N/A |
+| 31 | [Tom Hanks](http://twitter.com/search?q=Tom+Hanks) | Tom Hanks is an American actor, producer, and director. He is best known for his roles in films such as Forrest Gump, Big, Saving Private Ryan, Cast Away, The Da Vinci Code, and Captain Phillips. He has won two Academy Awards and has been nominated for several more. |
+| 32 | [Ana Gabriel](http://twitter.com/search?q=Ana+Gabriel) | N/A |
+| 33 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 34 | [san fernando de apure](http://twitter.com/search?q=san+fernando+de+apure) | N/A |
+| 35 | [Di María](http://twitter.com/search?q=Di+Mar%c3%ada) | N/A |
+| 36 | [Cory](http://twitter.com/search?q=Cory) | N/A |
+| 37 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 38 | [Clint Eastwood](http://twitter.com/search?q=Clint+Eastwood) | N/A |
+| 39 | [Justin Bieber](http://twitter.com/search?q=Justin+Bieber) | N/A |
 | 40 | [Starlink](http://twitter.com/search?q=Starlink) | N/A |
-| 41 | [Antonio Guzmán Blanco](http://twitter.com/search?q=Antonio+Guzm%c3%a1n+Blanco) | N/A |
-| 42 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 43 | [Peñarol](http://twitter.com/search?q=Pe%c3%b1arol) | Peñarol is a Uruguayan sports club based in Montevideo. It is best known for its football team, which plays in the Uruguayan Primera División and is one of the most successful clubs in South America. The name Peñarol comes from the Peñarol neighborhood of Montevideo, where the club was founded in 1891. In English, it translates to "Rock Hill". |
-| 44 | [Carlos Andrés Pérez](http://twitter.com/search?q=Carlos+Andr%c3%a9s+P%c3%a9rez) | N/A |
-| 45 | [Sean Connery](http://twitter.com/search?q=Sean+Connery) | N/A |
-| 46 | [mujer bonita](http://twitter.com/search?q=mujer+bonita) | N/A |
-| 47 | [Olimpia](http://twitter.com/search?q=Olimpia) | N/A |
+| 41 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
+| 42 | [antonio guzmán blanco](http://twitter.com/search?q=antonio+guzm%c3%a1n+blanco) | N/A |
+| 43 | [Rafael Briceño](http://twitter.com/search?q=Rafael+Brice%c3%b1o) | N/A |
+| 44 | [carlos andrés pérez](http://twitter.com/search?q=carlos+andr%c3%a9s+p%c3%a9rez) | N/A |
+| 45 | [mujer bonita](http://twitter.com/search?q=mujer+bonita) | N/A |
+| 46 | [Olimpia](http://twitter.com/search?q=Olimpia) | N/A |
+| 47 | [Uzbekistán](http://twitter.com/search?q=Uzbekist%c3%a1n) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santo Domingo
 
-📆 Last Updated: `2023-03-01 06:17:08 UTC`
+📆 Last Updated: `2023-03-01 07:16:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,9 +19,9 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 2 | [Mozart](http://twitter.com/search?q=Mozart) | N/A |
 | 3 | [#RDavanza](http://twitter.com/search?q=%23RDavanza) | N/A |
 | 4 | [#orgullososdeestarmejor](http://twitter.com/search?q=%23orgullososdeestarmejor) | N/A |
-| 5 | [Abinader](http://twitter.com/search?q=Abinader) | N/A |
-| 6 | [La Guáyiga](http://twitter.com/search?q=La+Gu%c3%a1yiga) | N/A |
-| 7 | [#rendiciondecuentas2023](http://twitter.com/search?q=%23rendiciondecuentas2023) | N/A |
+| 5 | [la guáyiga](http://twitter.com/search?q=la+gu%c3%a1yiga) | N/A |
+| 6 | [#rendiciondecuentas2023](http://twitter.com/search?q=%23rendiciondecuentas2023) | N/A |
+| 7 | [Abinader](http://twitter.com/search?q=Abinader) | N/A |
 | 8 | [Tamayo](http://twitter.com/search?q=Tamayo) | Tamayo is a Spanish surname. It is derived from the Latin name Thomas, which means "twin". In English, it can be translated to mean "twin". |
 | 9 | [#PolloIndex](http://twitter.com/search?q=%23PolloIndex) | N/A |
 | 10 | [#independenciadominicana](http://twitter.com/search?q=%23independenciadominicana) | N/A |
@@ -35,7 +35,7 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 18 | [Poder Ejecutivo](http://twitter.com/search?q=Poder+Ejecutivo) | N/A |
 | 19 | [Falcon 9](http://twitter.com/search?q=Falcon+9) | N/A |
 | 20 | [Botello](http://twitter.com/search?q=Botello) | N/A |
-| 21 | [Punta Catalina](http://twitter.com/search?q=Punta+Catalina) | N/A |
+| 21 | [punta catalina](http://twitter.com/search?q=punta+catalina) | N/A |
 | 22 | [SpaceX](http://twitter.com/search?q=SpaceX) | N/A |
 | 23 | [HOT ENTRA](http://twitter.com/search?q=HOT+ENTRA) | N/A |
 | 24 | [NEW CONTENIDO](http://twitter.com/search?q=NEW+CONTENIDO) | N/A |
@@ -51,10 +51,10 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 34 | [Pacheco](http://twitter.com/search?q=Pacheco) | Pacheco is a Spanish surname. It is derived from the Latin word pascalis, meaning "of the paschal season". In English, it can be translated to mean "of Easter". |
 | 35 | [Asamblea Nacional](http://twitter.com/search?q=Asamblea+Nacional) | N/A |
 | 36 | [Eduardo Estrella](http://twitter.com/search?q=Eduardo+Estrella) | N/A |
-| 37 | [Foke](http://twitter.com/search?q=Foke) | N/A |
+| 37 | [foke](http://twitter.com/search?q=foke) | N/A |
 | 38 | [jaime david](http://twitter.com/search?q=jaime+david) | N/A |
 | 39 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
-| 40 | [La Altagracia](http://twitter.com/search?q=La+Altagracia) | N/A |
+| 40 | [LA ALTAGRACIA](http://twitter.com/search?q=LA+ALTAGRACIA) | N/A |
 | 41 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
 | 42 | [Enhorabuena](http://twitter.com/search?q=Enhorabuena) | N/A |
 | 43 | [Banco Central](http://twitter.com/search?q=Banco+Central) | N/A |
@@ -63,7 +63,7 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 46 | [Lozano](http://twitter.com/search?q=Lozano) | N/A |
 | 47 | [Horford](http://twitter.com/search?q=Horford) | Horford is a surname of Spanish origin. It is derived from the Latin word "horreum" which means granary or storehouse. The name is most commonly associated with Al Horford, an American professional basketball player who currently plays for the Philadelphia 76ers. |
 | 48 | [En 2022](http://twitter.com/search?q=En+2022) | N/A |
-| 49 | [Pacto de Nación](http://twitter.com/search?q=Pacto+de+Naci%c3%b3n) | N/A |
+| 49 | [pacto de nación](http://twitter.com/search?q=pacto+de+naci%c3%b3n) | N/A |
 | 50 | [Ámbar](http://twitter.com/search?q=%c3%81mbar) | N/A |
 
 

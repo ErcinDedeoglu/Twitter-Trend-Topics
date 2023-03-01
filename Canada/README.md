@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canada
 
-📆 Last Updated: `2023-03-01 06:17:50 UTC`
+📆 Last Updated: `2023-03-01 07:17:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Canada
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Flames](http://twitter.com/search?q=%23Flames) | N/A |
-| 2 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
-| 3 | [Scottie](http://twitter.com/search?q=Scottie) | Scottie is a nickname for the Scottish Terrier, a small breed of dog. It is also used as a nickname for people from Scotland or with Scottish heritage. |
-| 4 | [Ullmark](http://twitter.com/search?q=Ullmark) | N/A |
-| 5 | [#IndvsAus](http://twitter.com/search?q=%23IndvsAus) | N/A |
-| 6 | [Tinubu](http://twitter.com/search?q=Tinubu) | N/A |
-| 7 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
-| 8 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
-| 9 | [Vladar](http://twitter.com/search?q=Vladar) | N/A |
-| 10 | [Pelletier](http://twitter.com/search?q=Pelletier) | N/A |
-| 11 | [Kopitar](http://twitter.com/search?q=Kopitar) | N/A |
-| 12 | [Calgary](http://twitter.com/search?q=Calgary) | N/A |
-| 13 | [Gurianov](http://twitter.com/search?q=Gurianov) | N/A |
-| 14 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
-| 15 | [Barrie](http://twitter.com/search?q=Barrie) | N/A |
-| 16 | [Huberdeau](http://twitter.com/search?q=Huberdeau) | N/A |
-| 17 | [#NHLJets](http://twitter.com/search?q=%23NHLJets) | N/A |
-| 18 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 19 | [Vezina](http://twitter.com/search?q=Vezina) | N/A |
-| 20 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 21 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
-| 22 | [Chychrun](http://twitter.com/search?q=Chychrun) | N/A |
-| 23 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 24 | [Ekholm](http://twitter.com/search?q=Ekholm) | N/A |
-| 25 | [Demar](http://twitter.com/search?q=Demar) | Demar is a shortened form of the name Demarcus, which is a male given name of Latin origin. It is derived from the Latin words "de" (meaning "of") and "Marcus" (meaning "warlike"). In English, Demar can be translated to mean "of warlike". |
-| 26 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 27 | [Barnes](http://twitter.com/search?q=Barnes) | N/A |
-| 28 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
-| 29 | [Shayne](http://twitter.com/search?q=Shayne) | N/A |
-| 30 | [Korpisalo](http://twitter.com/search?q=Korpisalo) | N/A |
-| 31 | [Larkin](http://twitter.com/search?q=Larkin) | N/A |
-| 32 | [Austin Watson](http://twitter.com/search?q=Austin+Watson) | N/A |
-| 33 | [Dube](http://twitter.com/search?q=Dube) | N/A |
-| 34 | [Detroit](http://twitter.com/search?q=Detroit) | Detroit is the largest city in the U.S. state of Michigan and is located on the Detroit River, which connects Lake Erie to Lake St. Clair. It is known as the Motor City due to its long history as a major center for automobile manufacturing and its status as a major port city. Detroit has a rich cultural heritage, including music, art, and architecture, and is home to several professional sports teams. |
-| 35 | [Bouchard](http://twitter.com/search?q=Bouchard) | N/A |
-| 36 | [Boston](http://twitter.com/search?q=Boston) | Boston is the capital and most populous city of the Commonwealth of Massachusetts in the United States. It is one of the oldest cities in the United States, founded in 1630 by Puritan settlers from England. The city is known for its rich history, culture, and educational institutions. It is also home to many world-renowned museums, universities, and hospitals. |
-| 37 | [Luke Schenn](http://twitter.com/search?q=Luke+Schenn) | N/A |
-| 38 | [Barton](http://twitter.com/search?q=Barton) | N/A |
-| 39 | [Tamara Lich](http://twitter.com/search?q=Tamara+Lich) | N/A |
-| 40 | [Bertuzzi](http://twitter.com/search?q=Bertuzzi) | N/A |
-| 41 | [Jensen](http://twitter.com/search?q=Jensen) | N/A |
-| 42 | [The UCP](http://twitter.com/search?q=The+UCP) | N/A |
-| 43 | [Stanley](http://twitter.com/search?q=Stanley) | N/A |
-| 44 | [Destiny 2](http://twitter.com/search?q=Destiny+2) | N/A |
-| 45 | [Patrick Kane](http://twitter.com/search?q=Patrick+Kane) | N/A |
-| 46 | [#GoJetsGo](http://twitter.com/search?q=%23GoJetsGo) | N/A |
-| 47 | [#INECElectionResult](http://twitter.com/search?q=%23INECElectionResult) | N/A |
-| 48 | [#GoSensGo](http://twitter.com/search?q=%23GoSensGo) | N/A |
-| 49 | [#WeTheNorth](http://twitter.com/search?q=%23WeTheNorth) | N/A |
-| 50 | [#PerfectMatch](http://twitter.com/search?q=%23PerfectMatch) | N/A |
+| 1 | [Sandin](http://twitter.com/search?q=Sandin) | N/A |
+| 2 | [Barrie](http://twitter.com/search?q=Barrie) | N/A |
+| 3 | [Dubas](http://twitter.com/search?q=Dubas) | N/A |
+| 4 | [Ekholm](http://twitter.com/search?q=Ekholm) | N/A |
+| 5 | [#Flames](http://twitter.com/search?q=%23Flames) | N/A |
+| 6 | [Schenn](http://twitter.com/search?q=Schenn) | N/A |
+| 7 | [CSIS](http://twitter.com/search?q=CSIS) | N/A |
+| 8 | [Barton](http://twitter.com/search?q=Barton) | N/A |
+| 9 | [Jonathan Quick](http://twitter.com/search?q=Jonathan+Quick) | N/A |
+| 10 | [Chychrun](http://twitter.com/search?q=Chychrun) | N/A |
+| 11 | [Holl](http://twitter.com/search?q=Holl) | N/A |
+| 12 | [Engvall](http://twitter.com/search?q=Engvall) | N/A |
+| 13 | [McCabe](http://twitter.com/search?q=McCabe) | N/A |
+| 14 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
+| 15 | [Ullmark](http://twitter.com/search?q=Ullmark) | N/A |
+| 16 | [Gustafsson](http://twitter.com/search?q=Gustafsson) | N/A |
+| 17 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
+| 18 | [Trudeau Foundation](http://twitter.com/search?q=Trudeau+Foundation) | N/A |
+| 19 | [Carolina](http://twitter.com/search?q=Carolina) | N/A |
+| 20 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
+| 21 | [#GoHabsGo](http://twitter.com/search?q=%23GoHabsGo) | N/A |
+| 22 | [#TrudeauOutOfControl](http://twitter.com/search?q=%23TrudeauOutOfControl) | N/A |
+| 23 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 24 | [Bouchard](http://twitter.com/search?q=Bouchard) | N/A |
+| 25 | [#GoSensGo](http://twitter.com/search?q=%23GoSensGo) | N/A |
+| 26 | [#BeyondFast](http://twitter.com/search?q=%23BeyondFast) | #BeyondFast is a hashtag used to describe something that goes beyond the speed of fast. It is used to emphasize the idea that something is faster than fast, or that it surpasses the speed of fast. |
+| 27 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 28 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 29 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
+| 30 | [Tinubu](http://twitter.com/search?q=Tinubu) | N/A |
+| 31 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
+| 32 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
+| 33 | [Pelletier](http://twitter.com/search?q=Pelletier) | N/A |
+| 34 | [Vladar](http://twitter.com/search?q=Vladar) | N/A |
+| 35 | [Bison King](http://twitter.com/search?q=Bison+King) | N/A |
+| 36 | [Jake Allen](http://twitter.com/search?q=Jake+Allen) | N/A |
+| 37 | [Scottie](http://twitter.com/search?q=Scottie) | Scottie is a nickname for the Scottish Terrier, a small breed of dog. It is also used as a nickname for people from Scotland or with Scottish heritage. |
+| 38 | [Donte](http://twitter.com/search?q=Donte) | Donte is a given name of Italian origin, derived from the Latin name "Donatus". It is a variant of the name "Donato" and can be translated to mean "given" or "gift". |
+| 39 | [Kopitar](http://twitter.com/search?q=Kopitar) | N/A |
+| 40 | [Zadorov](http://twitter.com/search?q=Zadorov) | N/A |
+| 41 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
+| 42 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
+| 43 | [Birgit](http://twitter.com/search?q=Birgit) | N/A |
+| 44 | [Korpisalo](http://twitter.com/search?q=Korpisalo) | N/A |
+| 45 | [Shayne](http://twitter.com/search?q=Shayne) | N/A |
+| 46 | [Kerfoot](http://twitter.com/search?q=Kerfoot) | N/A |
+| 47 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
+| 48 | [Dave Grohl](http://twitter.com/search?q=Dave+Grohl) | N/A |
+| 49 | [Huberdeau](http://twitter.com/search?q=Huberdeau) | N/A |
+| 50 | [Murray](http://twitter.com/search?q=Murray) | N/A |
 
 
 

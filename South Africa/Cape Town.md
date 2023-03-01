@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cape Town
 
-📆 Last Updated: `2023-03-01 06:17:33 UTC`
+📆 Last Updated: `2023-03-01 07:16:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [South Africa](</South Africa>)
 | 1 | [#ICanWithAbsa](http://twitter.com/search?q=%23ICanWithAbsa) | N/A |
 | 2 | [#RHODurban](http://twitter.com/search?q=%23RHODurban) | N/A |
 | 3 | [#WeDoMoreWednesdays](http://twitter.com/search?q=%23WeDoMoreWednesdays) | N/A |
-| 4 | [#NedbankCup](http://twitter.com/search?q=%23NedbankCup) | N/A |
-| 5 | [#GiantCreations](http://twitter.com/search?q=%23GiantCreations) | N/A |
-| 6 | [Dondol Stars FC](http://twitter.com/search?q=Dondol+Stars+FC) | N/A |
-| 7 | [Happy New Month](http://twitter.com/search?q=Happy+New+Month) | Happy New Month is a phrase used to express good wishes for the start of a new month. It is typically used as a greeting or salutation to friends, family, and colleagues. The phrase is usually accompanied by wishes for health, happiness, and success in the upcoming month. |
-| 8 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
-| 9 | [Nonku](http://twitter.com/search?q=Nonku) | N/A |
-| 10 | [Slee](http://twitter.com/search?q=Slee) | N/A |
-| 11 | [Sorisha](http://twitter.com/search?q=Sorisha) | N/A |
+| 4 | [#LoveCapitec22](http://twitter.com/search?q=%23LoveCapitec22) | N/A |
+| 5 | [#NedbankCup](http://twitter.com/search?q=%23NedbankCup) | N/A |
+| 6 | [Stage 16](http://twitter.com/search?q=Stage+16) | N/A |
+| 7 | [Nonku](http://twitter.com/search?q=Nonku) | N/A |
+| 8 | [Slee](http://twitter.com/search?q=Slee) | N/A |
+| 9 | [Dondol Stars FC](http://twitter.com/search?q=Dondol+Stars+FC) | N/A |
+| 10 | [Sorisha](http://twitter.com/search?q=Sorisha) | N/A |
+| 11 | [Annie](http://twitter.com/search?q=Annie) | N/A |
 | 12 | [Zinhle](http://twitter.com/search?q=Zinhle) | N/A |
-| 13 | [Annie](http://twitter.com/search?q=Annie) | N/A |
-| 14 | [Bongz](http://twitter.com/search?q=Bongz) | N/A |
-| 15 | [Sane](http://twitter.com/search?q=Sane) | N/A |
-| 16 | [Royals](http://twitter.com/search?q=Royals) | N/A |
+| 13 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
+| 14 | [Sane](http://twitter.com/search?q=Sane) | N/A |
+| 15 | [Bongz](http://twitter.com/search?q=Bongz) | N/A |
+| 16 | [Happy New Month](http://twitter.com/search?q=Happy+New+Month) | Happy New Month is a phrase used to express good wishes for the start of a new month. It is typically used as a greeting or salutation to friends, family, and colleagues. The phrase is usually accompanied by wishes for health, happiness, and success in the upcoming month. |
 | 17 | [Ebubu](http://twitter.com/search?q=Ebubu) | Ebubu is a Nigerian language spoken by the Ebubu people in Rivers State, Nigeria. It is a dialect of the Igbo language and its meaning in English is "people". |
-| 18 | [Thabana](http://twitter.com/search?q=Thabana) | Thabana is a Sesotho word meaning “to be brave” or “to have courage”. It is often used as a rallying cry for people to stand up and take action in the face of adversity. |
-| 19 | [Tsatsi](http://twitter.com/search?q=Tsatsi) | N/A |
-| 20 | [Tshwane](http://twitter.com/search?q=Tshwane) | N/A |
+| 18 | [Tshwane](http://twitter.com/search?q=Tshwane) | N/A |
+| 19 | [Royals](http://twitter.com/search?q=Royals) | N/A |
+| 20 | [Tsatsi](http://twitter.com/search?q=Tsatsi) | N/A |
 | 21 | [blaqleng](http://twitter.com/search?q=blaqleng) | N/A |
-| 22 | [Bola Tinubu](http://twitter.com/search?q=Bola+Tinubu) | N/A |
-| 23 | [Mbali](http://twitter.com/search?q=Mbali) | N/A |
-| 24 | [Malume](http://twitter.com/search?q=Malume) | N/A |
-| 25 | [Chapman](http://twitter.com/search?q=Chapman) | N/A |
-| 26 | [Vusi](http://twitter.com/search?q=Vusi) | N/A |
-| 27 | [VOTE KHOSICLE](http://twitter.com/search?q=VOTE+KHOSICLE) | N/A |
-| 28 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
-| 29 | [Cope](http://twitter.com/search?q=Cope) | N/A |
-| 30 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 31 | [Happy New Year](http://twitter.com/search?q=Happy+New+Year) | Happy New Year is a phrase used to express good wishes for the upcoming year. It is typically said at the end of the year, on New Year's Eve or New Year's Day, to wish someone a prosperous and successful year ahead. |
-| 32 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 33 | [Block 7](http://twitter.com/search?q=Block+7) | N/A |
-| 34 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 35 | [Cassper](http://twitter.com/search?q=Cassper) | N/A |
-| 36 | [Cele](http://twitter.com/search?q=Cele) | N/A |
-| 37 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 38 | [Phillips](http://twitter.com/search?q=Phillips) | Phillips is a surname of English origin. It is derived from the given name Philip, which is derived from the Greek name Philippos, meaning "friend of horses". |
-| 39 | [4th of March](http://twitter.com/search?q=4th+of+March) | N/A |
-| 40 | [slik talk](http://twitter.com/search?q=slik+talk) | N/A |
-| 41 | [Aiden Markram](http://twitter.com/search?q=Aiden+Markram) | N/A |
-| 42 | [THABANG THE HOT TOPIC](http://twitter.com/search?q=THABANG+THE+HOT+TOPIC) | N/A |
-| 43 | [Kanaiva](http://twitter.com/search?q=Kanaiva) | N/A |
-| 44 | [Museveni](http://twitter.com/search?q=Museveni) | N/A |
-| 45 | [Capable](http://twitter.com/search?q=Capable) | N/A |
-| 46 | [KHOSI THE MAIN CHARACTER](http://twitter.com/search?q=KHOSI+THE+MAIN+CHARACTER) | N/A |
-| 47 | [Mbule](http://twitter.com/search?q=Mbule) | N/A |
-| 48 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
-| 49 | [Noxolo Grootboom](http://twitter.com/search?q=Noxolo+Grootboom) | N/A |
-| 50 | [we love thabang](http://twitter.com/search?q=we+love+thabang) | N/A |
+| 22 | [Mbali](http://twitter.com/search?q=Mbali) | N/A |
+| 23 | [Vusi](http://twitter.com/search?q=Vusi) | N/A |
+| 24 | [Cope](http://twitter.com/search?q=Cope) | N/A |
+| 25 | [VOTE KHOSICLE](http://twitter.com/search?q=VOTE+KHOSICLE) | N/A |
+| 26 | [Malume](http://twitter.com/search?q=Malume) | N/A |
+| 27 | [Chapman](http://twitter.com/search?q=Chapman) | N/A |
+| 28 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 29 | [Madluphuthu](http://twitter.com/search?q=Madluphuthu) | N/A |
+| 30 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 31 | [Cassper](http://twitter.com/search?q=Cassper) | N/A |
+| 32 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 33 | [Block 11](http://twitter.com/search?q=Block+11) | N/A |
+| 34 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
+| 35 | [Phillips](http://twitter.com/search?q=Phillips) | Phillips is a surname of English origin. It is derived from the given name Philip, which is derived from the Greek name Philippos, meaning "friend of horses". |
+| 36 | [Museveni](http://twitter.com/search?q=Museveni) | N/A |
+| 37 | [4th of March](http://twitter.com/search?q=4th+of+March) | N/A |
+| 38 | [Block 7](http://twitter.com/search?q=Block+7) | N/A |
+| 39 | [THABANG THE HOT TOPIC](http://twitter.com/search?q=THABANG+THE+HOT+TOPIC) | N/A |
+| 40 | [Kanaiva](http://twitter.com/search?q=Kanaiva) | N/A |
+| 41 | [Capable](http://twitter.com/search?q=Capable) | N/A |
+| 42 | [Aiden Markram](http://twitter.com/search?q=Aiden+Markram) | N/A |
+| 43 | [Thabana](http://twitter.com/search?q=Thabana) | Thabana is a Sesotho word meaning “to be brave” or “to have courage”. It is often used as a rallying cry for people to stand up and take action in the face of adversity. |
+| 44 | [Cele](http://twitter.com/search?q=Cele) | N/A |
+| 45 | [Noxolo Grootboom](http://twitter.com/search?q=Noxolo+Grootboom) | N/A |
+| 46 | [we love thabang](http://twitter.com/search?q=we+love+thabang) | N/A |
+| 47 | [dean elgar](http://twitter.com/search?q=dean+elgar) | N/A |
+| 48 | [Afghans](http://twitter.com/search?q=Afghans) | N/A |
+| 49 | [Bola Tinubu](http://twitter.com/search?q=Bola+Tinubu) | N/A |
+| 50 | [KHOSI THE MAIN CHARACTER](http://twitter.com/search?q=KHOSI+THE+MAIN+CHARACTER) | N/A |
 
 
 
