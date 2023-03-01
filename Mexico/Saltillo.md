@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Saltillo
 
-📆 Last Updated: `2023-03-01 09:16:04 UTC`
+📆 Last Updated: `2023-03-01 10:16:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,50 +19,50 @@ This is top 50 for [Mexico](</Mexico>)
 | 2 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
 | 3 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
 | 4 | [#SquidCraft2](http://twitter.com/search?q=%23SquidCraft2) | N/A |
-| 5 | [Monterrey](http://twitter.com/search?q=Monterrey) | N/A |
-| 6 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 5 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 6 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 7 | [Samuel](http://twitter.com/search?q=Samuel) | N/A |
-| 8 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 9 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
-| 10 | [Ana Gabriel](http://twitter.com/search?q=Ana+Gabriel) | N/A |
-| 11 | [Andy Benavides](http://twitter.com/search?q=Andy+Benavides) | N/A |
-| 12 | [AMLO](http://twitter.com/search?q=AMLO) | AMLO is an acronym for Andrés Manuel López Obrador, the current President of Mexico. He was elected in 2018 and is a member of the National Regeneration Movement (MORENA) party. In English, AMLO stands for Andrés Manuel López Obrador. |
-| 13 | [Nuevo Laredo](http://twitter.com/search?q=Nuevo+Laredo) | N/A |
+| 8 | [Monterrey](http://twitter.com/search?q=Monterrey) | N/A |
+| 9 | [#MujeresAllStar](http://twitter.com/search?q=%23MujeresAllStar) | N/A |
+| 10 | [Andy Benavides](http://twitter.com/search?q=Andy+Benavides) | N/A |
+| 11 | [Ana Gabriel](http://twitter.com/search?q=Ana+Gabriel) | N/A |
+| 12 | [Nuevo Laredo](http://twitter.com/search?q=Nuevo+Laredo) | N/A |
+| 13 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
 | 14 | [Perú](http://twitter.com/search?q=Per%c3%ba) | Perú is the official name of a country in South America. It is bordered by Ecuador and Colombia to the north, Brazil and Bolivia to the east, Chile to the south, and the Pacific Ocean to the west. The name Perú comes from a word in the native Quechua language meaning "land of abundance." |
-| 15 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 16 | [JISOO THE FACE OF DIOR](http://twitter.com/search?q=JISOO+THE+FACE+OF+DIOR) | N/A |
-| 17 | [Tania Rincón](http://twitter.com/search?q=Tania+Rinc%c3%b3n) | N/A |
-| 18 | [Juan Collado](http://twitter.com/search?q=Juan+Collado) | N/A |
-| 19 | [MEDALLA GOLDEN CHAMP](http://twitter.com/search?q=MEDALLA+GOLDEN+CHAMP) | N/A |
-| 20 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
-| 21 | [Piloto](http://twitter.com/search?q=Piloto) | N/A |
-| 22 | [Santa Catarina](http://twitter.com/search?q=Santa+Catarina) | N/A |
-| 23 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
+| 15 | [Tania Rincón](http://twitter.com/search?q=Tania+Rinc%c3%b3n) | N/A |
+| 16 | [MEDALLA GOLDEN CHAMP](http://twitter.com/search?q=MEDALLA+GOLDEN+CHAMP) | N/A |
+| 17 | [Juan Collado](http://twitter.com/search?q=Juan+Collado) | N/A |
+| 18 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
+| 19 | [JISOO THE FACE OF DIOR](http://twitter.com/search?q=JISOO+THE+FACE+OF+DIOR) | N/A |
+| 20 | [Piloto](http://twitter.com/search?q=Piloto) | N/A |
+| 21 | [Xalostoc](http://twitter.com/search?q=Xalostoc) | N/A |
+| 22 | [Futbolista](http://twitter.com/search?q=Futbolista) | N/A |
+| 23 | [Santa Catarina](http://twitter.com/search?q=Santa+Catarina) | N/A |
 | 24 | [Enfermedades Raras](http://twitter.com/search?q=Enfermedades+Raras) | N/A |
 | 25 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 26 | [Xalostoc](http://twitter.com/search?q=Xalostoc) | N/A |
-| 27 | [Futbolista](http://twitter.com/search?q=Futbolista) | N/A |
-| 28 | [Luzu](http://twitter.com/search?q=Luzu) | Luzu is a Spanish word that means light. It is often used to refer to a bright, cheerful, and optimistic attitude. |
-| 29 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
-| 30 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
-| 31 | [late late show with txt](http://twitter.com/search?q=late+late+show+with+txt) | N/A |
-| 32 | [Zócalo](http://twitter.com/search?q=Z%c3%b3calo) | N/A |
-| 33 | [Stephen Colbert](http://twitter.com/search?q=Stephen+Colbert) | N/A |
-| 34 | [mati eres fortaleza](http://twitter.com/search?q=mati+eres+fortaleza) | N/A |
-| 35 | [Wactor](http://twitter.com/search?q=Wactor) | N/A |
-| 36 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
-| 37 | [MAVELYN MEDALLISTAR](http://twitter.com/search?q=MAVELYN+MEDALLISTAR) | N/A |
-| 38 | [Duvan](http://twitter.com/search?q=Duvan) | N/A |
-| 39 | [Ruzzarin](http://twitter.com/search?q=Ruzzarin) | N/A |
-| 40 | [ASTRO](http://twitter.com/search?q=ASTRO) | N/A |
-| 41 | [flamengo](http://twitter.com/search?q=flamengo) | N/A |
-| 42 | [Tinkerbell](http://twitter.com/search?q=Tinkerbell) | N/A |
-| 43 | [Campanita](http://twitter.com/search?q=Campanita) | N/A |
-| 44 | [TOGETHER FOR BUILD](http://twitter.com/search?q=TOGETHER+FOR+BUILD) | N/A |
-| 45 | [Cabeza de Vaca](http://twitter.com/search?q=Cabeza+de+Vaca) | N/A |
-| 46 | [Chacho](http://twitter.com/search?q=Chacho) | N/A |
-| 47 | [Texas](http://twitter.com/search?q=Texas) | N/A |
-| 48 | [Rodrigo Pacheco](http://twitter.com/search?q=Rodrigo+Pacheco) | Rodrigo Pacheco is a Spanish name, derived from the Germanic name Roderick. It means "famous ruler" or "famous power". |
+| 26 | [Luzu](http://twitter.com/search?q=Luzu) | Luzu is a Spanish word that means light. It is often used to refer to a bright, cheerful, and optimistic attitude. |
+| 27 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
+| 28 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
+| 29 | [late late show with txt](http://twitter.com/search?q=late+late+show+with+txt) | N/A |
+| 30 | [Zócalo](http://twitter.com/search?q=Z%c3%b3calo) | N/A |
+| 31 | [mati eres fortaleza](http://twitter.com/search?q=mati+eres+fortaleza) | N/A |
+| 32 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 33 | [Duvan](http://twitter.com/search?q=Duvan) | N/A |
+| 34 | [mavelyn medallistar](http://twitter.com/search?q=mavelyn+medallistar) | N/A |
+| 35 | [Stephen Colbert](http://twitter.com/search?q=Stephen+Colbert) | N/A |
+| 36 | [Cabeza de Vaca](http://twitter.com/search?q=Cabeza+de+Vaca) | N/A |
+| 37 | [Ruzzarin](http://twitter.com/search?q=Ruzzarin) | N/A |
+| 38 | [Tinkerbell](http://twitter.com/search?q=Tinkerbell) | N/A |
+| 39 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
+| 40 | [Campanita](http://twitter.com/search?q=Campanita) | N/A |
+| 41 | [Wactor](http://twitter.com/search?q=Wactor) | N/A |
+| 42 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
+| 43 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 44 | [maxico](http://twitter.com/search?q=maxico) | N/A |
+| 45 | [Independiente del Valle](http://twitter.com/search?q=Independiente+del+Valle) | N/A |
+| 46 | [Texas](http://twitter.com/search?q=Texas) | N/A |
+| 47 | [Cremonese](http://twitter.com/search?q=Cremonese) | N/A |
+| 48 | [Germán](http://twitter.com/search?q=Germ%c3%a1n) | Germán is a Spanish and Portuguese name derived from the Latin Germanus, meaning "brother". It is also a Germanic given name, derived from the Germanic element ger, meaning "spear". |
 
 
 

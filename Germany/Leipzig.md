@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Leipzig
 
-📆 Last Updated: `2023-03-01 09:16:13 UTC`
+📆 Last Updated: `2023-03-01 10:16:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,51 +19,51 @@ This is top 50 for [Germany](</Germany>)
 | 2 | [#hartaberfair](http://twitter.com/search?q=%23hartaberfair) | #hartaberfair is a German phrase that translates to "fair and square" or "just and fair". It is used to express the idea of fairness and justice in a situation. |
 | 3 | [Vergewaltigungen](http://twitter.com/search?q=Vergewaltigungen) | N/A |
 | 4 | [Heizungen](http://twitter.com/search?q=Heizungen) | N/A |
-| 5 | [Wochenteiler](http://twitter.com/search?q=Wochenteiler) | N/A |
-| 6 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
-| 7 | [Moderator](http://twitter.com/search?q=Moderator) | N/A |
-| 8 | [#Wissing](http://twitter.com/search?q=%23Wissing) | N/A |
-| 9 | [Meute](http://twitter.com/search?q=Meute) | N/A |
-| 10 | [Kriegsverbrechen](http://twitter.com/search?q=Kriegsverbrechen) | N/A |
-| 11 | [Schönen Mittwoch](http://twitter.com/search?q=Sch%c3%b6nen+Mittwoch) | N/A |
-| 12 | [Verbote](http://twitter.com/search?q=Verbote) | N/A |
+| 5 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
+| 6 | [Wochenteiler](http://twitter.com/search?q=Wochenteiler) | N/A |
+| 7 | [#Giffey](http://twitter.com/search?q=%23Giffey) | N/A |
+| 8 | [Moderator](http://twitter.com/search?q=Moderator) | N/A |
+| 9 | [Verbote](http://twitter.com/search?q=Verbote) | N/A |
+| 10 | [Meute](http://twitter.com/search?q=Meute) | N/A |
+| 11 | [Wärmepumpe](http://twitter.com/search?q=W%c3%a4rmepumpe) | N/A |
+| 12 | [Kriegsverbrechen](http://twitter.com/search?q=Kriegsverbrechen) | N/A |
 | 13 | [Yfood](http://twitter.com/search?q=Yfood) | N/A |
-| 14 | [Wärmepumpen](http://twitter.com/search?q=W%c3%a4rmepumpen) | N/A |
-| 15 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
-| 16 | ['Freude'](http://twitter.com/search?q=%27Freude%27) | N/A |
+| 14 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
+| 15 | [Strom](http://twitter.com/search?q=Strom) | N/A |
+| 16 | [Bergfest](http://twitter.com/search?q=Bergfest) | N/A |
 | 17 | [Nestle](http://twitter.com/search?q=Nestle) | N/A |
-| 18 | [Strom](http://twitter.com/search?q=Strom) | N/A |
-| 19 | [Start in den März](http://twitter.com/search?q=Start+in+den+M%c3%a4rz) | N/A |
-| 20 | [Bergfest](http://twitter.com/search?q=Bergfest) | N/A |
-| 21 | [Seenotrettung](http://twitter.com/search?q=Seenotrettung) | N/A |
-| 22 | [Frühlingsanfang](http://twitter.com/search?q=Fr%c3%bchlingsanfang) | N/A |
-| 23 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
-| 24 | [Senioren](http://twitter.com/search?q=Senioren) | N/A |
-| 25 | [Guten Morgen Dietmar](http://twitter.com/search?q=Guten+Morgen+Dietmar) | N/A |
-| 26 | [Boris Johnson](http://twitter.com/search?q=Boris+Johnson) | N/A |
-| 27 | [GIVE US WN BLOOPERS](http://twitter.com/search?q=GIVE+US+WN+BLOOPERS) | N/A |
-| 28 | [Kunstfreiheit](http://twitter.com/search?q=Kunstfreiheit) | N/A |
-| 29 | [Kraftstoffe](http://twitter.com/search?q=Kraftstoffe) | N/A |
-| 30 | [Hallo März](http://twitter.com/search?q=Hallo+M%c3%a4rz) | N/A |
-| 31 | [Neuer Monat](http://twitter.com/search?q=Neuer+Monat) | N/A |
-| 32 | [Bundesrat](http://twitter.com/search?q=Bundesrat) | N/A |
-| 33 | [Moin Tom](http://twitter.com/search?q=Moin+Tom) | N/A |
-| 34 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
-| 35 | [Neubauten](http://twitter.com/search?q=Neubauten) | N/A |
-| 36 | [Ankerkraut](http://twitter.com/search?q=Ankerkraut) | N/A |
-| 37 | [Koalitionsvertrag](http://twitter.com/search?q=Koalitionsvertrag) | N/A |
-| 38 | [schönen dienstag](http://twitter.com/search?q=sch%c3%b6nen+dienstag) | N/A |
-| 39 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
-| 40 | [Einbau](http://twitter.com/search?q=Einbau) | N/A |
-| 41 | [Heizkörper](http://twitter.com/search?q=Heizk%c3%b6rper) | N/A |
-| 42 | [Guten Morgen Kerstin](http://twitter.com/search?q=Guten+Morgen+Kerstin) | N/A |
-| 43 | [Ernährung](http://twitter.com/search?q=Ern%c3%a4hrung) | N/A |
-| 44 | [Silke](http://twitter.com/search?q=Silke) | N/A |
+| 18 | [GIVE US WN BLOOPERS](http://twitter.com/search?q=GIVE+US+WN+BLOOPERS) | N/A |
+| 19 | [Seenotrettung](http://twitter.com/search?q=Seenotrettung) | N/A |
+| 20 | [Senioren](http://twitter.com/search?q=Senioren) | N/A |
+| 21 | [Frühlingsanfang](http://twitter.com/search?q=Fr%c3%bchlingsanfang) | N/A |
+| 22 | [Schönen Mittwoch](http://twitter.com/search?q=Sch%c3%b6nen+Mittwoch) | N/A |
+| 23 | [Koalition](http://twitter.com/search?q=Koalition) | N/A |
+| 24 | ['Freude'](http://twitter.com/search?q=%27Freude%27) | N/A |
+| 25 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
+| 26 | [Dietmar](http://twitter.com/search?q=Dietmar) | N/A |
+| 27 | [Bundesrat](http://twitter.com/search?q=Bundesrat) | N/A |
+| 28 | [Kraftstoffe](http://twitter.com/search?q=Kraftstoffe) | N/A |
+| 29 | [schönen dienstag](http://twitter.com/search?q=sch%c3%b6nen+dienstag) | N/A |
+| 30 | [Boris Johnson](http://twitter.com/search?q=Boris+Johnson) | N/A |
+| 31 | [Neubauten](http://twitter.com/search?q=Neubauten) | N/A |
+| 32 | [Einbau](http://twitter.com/search?q=Einbau) | N/A |
+| 33 | [Hallo März](http://twitter.com/search?q=Hallo+M%c3%a4rz) | N/A |
+| 34 | [Start in den März](http://twitter.com/search?q=Start+in+den+M%c3%a4rz) | N/A |
+| 35 | [Heizkörper](http://twitter.com/search?q=Heizk%c3%b6rper) | N/A |
+| 36 | [Wählerwille](http://twitter.com/search?q=W%c3%a4hlerwille) | N/A |
+| 37 | [Ankerkraut](http://twitter.com/search?q=Ankerkraut) | N/A |
+| 38 | [Süßigkeiten](http://twitter.com/search?q=S%c3%bc%c3%9figkeiten) | N/A |
+| 39 | [Ernährung](http://twitter.com/search?q=Ern%c3%a4hrung) | N/A |
+| 40 | [Berliner SPD](http://twitter.com/search?q=Berliner+SPD) | N/A |
+| 41 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
+| 42 | [Fernwärme](http://twitter.com/search?q=Fernw%c3%a4rme) | N/A |
+| 43 | [Bestandsflotte](http://twitter.com/search?q=Bestandsflotte) | N/A |
+| 44 | [Schwarz-Rot](http://twitter.com/search?q=Schwarz-Rot) | N/A |
 | 45 | [Reschke](http://twitter.com/search?q=Reschke) | N/A |
-| 46 | [Süßigkeiten](http://twitter.com/search?q=S%c3%bc%c3%9figkeiten) | N/A |
-| 47 | [Uhren](http://twitter.com/search?q=Uhren) | N/A |
-| 48 | [Happy 28th](http://twitter.com/search?q=Happy+28th) | N/A |
-| 49 | [Kai Wegner](http://twitter.com/search?q=Kai+Wegner) | N/A |
+| 46 | [Uhren](http://twitter.com/search?q=Uhren) | N/A |
+| 47 | [Elden Ring DLC](http://twitter.com/search?q=Elden+Ring+DLC) | N/A |
+| 48 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 49 | [Außenpolitik](http://twitter.com/search?q=Au%c3%9fenpolitik) | N/A |
 
 
 

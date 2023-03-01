@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ipoh
 
-📆 Last Updated: `2023-03-01 09:16:22 UTC`
+📆 Last Updated: `2023-03-01 10:16:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Malaysia](</Malaysia>)
 | ------- | ------------ | ------------ |
 | 1 | [#SPM2022](http://twitter.com/search?q=%23SPM2022) | N/A |
 | 2 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 3 | [#TAEHYUNGxSiminvest](http://twitter.com/search?q=%23TAEHYUNGxSiminvest) | N/A |
-| 4 | [Penang](http://twitter.com/search?q=Penang) | N/A |
+| 3 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 4 | [Teh Ais](http://twitter.com/search?q=Teh+Ais) | N/A |
 | 5 | [#JISOOxDiorAW23](http://twitter.com/search?q=%23JISOOxDiorAW23) | N/A |
-| 6 | [Teh Ais](http://twitter.com/search?q=Teh+Ais) | N/A |
-| 7 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
-| 8 | [Cleanser](http://twitter.com/search?q=Cleanser) | N/A |
-| 9 | [SIMINVEST AMBASSADOR V](http://twitter.com/search?q=SIMINVEST+AMBASSADOR+V) | N/A |
-| 10 | [KIM TAEHYUNG FOR SIMINVEST](http://twitter.com/search?q=KIM+TAEHYUNG+FOR+SIMINVEST) | N/A |
-| 11 | [Sunscreen - 3w](http://twitter.com/search?q=Sunscreen+-+3w) | N/A |
-| 12 | [ROVER IS COMING](http://twitter.com/search?q=ROVER+IS+COMING) | N/A |
-| 13 | [#toasteed](http://twitter.com/search?q=%23toasteed) | N/A |
-| 14 | [EXO SC](http://twitter.com/search?q=EXO+SC) | N/A |
-| 15 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
+| 6 | [Cleanser](http://twitter.com/search?q=Cleanser) | N/A |
+| 7 | [Penang](http://twitter.com/search?q=Penang) | N/A |
+| 8 | [SIMINVEST AMBASSADOR V](http://twitter.com/search?q=SIMINVEST+AMBASSADOR+V) | N/A |
+| 9 | [KIM TAEHYUNG FOR SIMINVEST](http://twitter.com/search?q=KIM+TAEHYUNG+FOR+SIMINVEST) | N/A |
+| 10 | [#TAEHYUNGxSiminvest](http://twitter.com/search?q=%23TAEHYUNGxSiminvest) | N/A |
+| 11 | [#KiehlsBrightestSkinExperience](http://twitter.com/search?q=%23KiehlsBrightestSkinExperience) | N/A |
+| 12 | [Sunscreen - 3w](http://twitter.com/search?q=Sunscreen+-+3w) | N/A |
+| 13 | [EXO SC](http://twitter.com/search?q=EXO+SC) | N/A |
+| 14 | [Hadi](http://twitter.com/search?q=Hadi) | N/A |
+| 15 | [Sunscreen - Biore](http://twitter.com/search?q=Sunscreen+-+Biore) | N/A |
 | 16 | [Toby](http://twitter.com/search?q=Toby) | N/A |
-| 17 | [Sunscreen - Biore](http://twitter.com/search?q=Sunscreen+-+Biore) | N/A |
+| 17 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
 | 18 | [Freemint](http://twitter.com/search?q=Freemint) | N/A |
-| 19 | [POLLY PASTEL BY BUILD](http://twitter.com/search?q=POLLY+PASTEL+BY+BUILD) | N/A |
-| 20 | [Hadi](http://twitter.com/search?q=Hadi) | N/A |
-| 21 | [TOGETHER FOR BUILD](http://twitter.com/search?q=TOGETHER+FOR+BUILD) | N/A |
-| 22 | [ETH to ETH](http://twitter.com/search?q=ETH+to+ETH) | N/A |
-| 23 | [Wonho](http://twitter.com/search?q=Wonho) | N/A |
-| 24 | [o highlight medley](http://twitter.com/search?q=o+highlight+medley) | N/A |
-| 25 | [late late show with txt](http://twitter.com/search?q=late+late+show+with+txt) | N/A |
+| 19 | [eth to eth](http://twitter.com/search?q=eth+to+eth) | N/A |
+| 20 | [TOGETHER FOR BUILD](http://twitter.com/search?q=TOGETHER+FOR+BUILD) | N/A |
+| 21 | [POLLY PASTEL BY BUILD](http://twitter.com/search?q=POLLY+PASTEL+BY+BUILD) | N/A |
+| 22 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
+| 23 | [late late show with txt](http://twitter.com/search?q=late+late+show+with+txt) | N/A |
+| 24 | [Johor](http://twitter.com/search?q=Johor) | N/A |
+| 25 | [Circle 2](http://twitter.com/search?q=Circle+2) | N/A |
 | 26 | [Physics](http://twitter.com/search?q=Physics) | N/A |
-| 27 | [Circle 2](http://twitter.com/search?q=Circle+2) | N/A |
-| 28 | [Johor](http://twitter.com/search?q=Johor) | N/A |
-| 29 | [traderdao](http://twitter.com/search?q=traderdao) | N/A |
-| 30 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
-| 31 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
-| 32 | [Fantagio](http://twitter.com/search?q=Fantagio) | N/A |
-| 33 | [eric chou](http://twitter.com/search?q=eric+chou) | N/A |
-| 34 | [Ultraman FireLevel](http://twitter.com/search?q=Ultraman+FireLevel) | N/A |
-| 35 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
+| 27 | [traderdao](http://twitter.com/search?q=traderdao) | N/A |
+| 28 | [o highlight medley](http://twitter.com/search?q=o+highlight+medley) | N/A |
+| 29 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
+| 30 | [Ultraman FireLevel](http://twitter.com/search?q=Ultraman+FireLevel) | N/A |
+| 31 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
+| 32 | [Akari](http://twitter.com/search?q=Akari) | N/A |
+| 33 | [fantagio](http://twitter.com/search?q=fantagio) | N/A |
+| 34 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
+| 35 | [Eyeliner - Maybelline](http://twitter.com/search?q=Eyeliner+-+Maybelline) | N/A |
 | 36 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
 | 37 | [Yasmin](http://twitter.com/search?q=Yasmin) | N/A |
-| 38 | [The 10](http://twitter.com/search?q=The+10) | N/A |
-| 39 | [blusher - in2it](http://twitter.com/search?q=blusher+-+in2it) | N/A |
-| 40 | [The 3](http://twitter.com/search?q=The+3) | N/A |
-| 41 | [Toner - Simple](http://twitter.com/search?q=Toner+-+Simple) | N/A |
-| 42 | [Will of the People](http://twitter.com/search?q=Will+of+the+People) | N/A |
-| 43 | [Akari](http://twitter.com/search?q=Akari) | N/A |
-| 44 | [HAVE TO KNOW](http://twitter.com/search?q=HAVE+TO+KNOW) | N/A |
-| 45 | [powder - laura mercier](http://twitter.com/search?q=powder+-+laura+mercier) | N/A |
-| 46 | [ROSÉ SAINT LAURENT PFW23](http://twitter.com/search?q=ROS%c3%89+SAINT+LAURENT+PFW23) | N/A |
-| 47 | [Hwasa](http://twitter.com/search?q=Hwasa) | N/A |
-| 48 | [Toner - Hada Labo](http://twitter.com/search?q=Toner+-+Hada+Labo) | N/A |
-| 49 | [sunscreen - sunplay](http://twitter.com/search?q=sunscreen+-+sunplay) | N/A |
+| 38 | [eric chou](http://twitter.com/search?q=eric+chou) | N/A |
+| 39 | [ROSÉ SAINT LAURENT PFW23](http://twitter.com/search?q=ROS%c3%89+SAINT+LAURENT+PFW23) | N/A |
+| 40 | [Toner - Simple](http://twitter.com/search?q=Toner+-+Simple) | N/A |
+| 41 | [Will of the People](http://twitter.com/search?q=Will+of+the+People) | N/A |
+| 42 | [The 10](http://twitter.com/search?q=The+10) | N/A |
+| 43 | [Terry](http://twitter.com/search?q=Terry) | N/A |
+| 44 | [I VOLUNTEER](http://twitter.com/search?q=I+VOLUNTEER) | N/A |
+| 45 | [1st of March](http://twitter.com/search?q=1st+of+March) | N/A |
+| 46 | [Bennett](http://twitter.com/search?q=Bennett) | N/A |
+| 47 | [Ticketing](http://twitter.com/search?q=Ticketing) | N/A |
+| 48 | [Mara](http://twitter.com/search?q=Mara) | N/A |
+| 49 | [Toner - Hada Labo](http://twitter.com/search?q=Toner+-+Hada+Labo) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Multan
 
-📆 Last Updated: `2023-03-01 09:16:30 UTC`
+📆 Last Updated: `2023-03-01 10:17:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Pakistan](</Pakistan>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#SupremeCourt](http://twitter.com/search?q=%23SupremeCourt) | N/A |
-| 2 | [#راج_کرے_گی_خلق_خدا](http://twitter.com/search?q=%23%d8%b1%d8%a7%d8%ac_%da%a9%d8%b1%db%92_%da%af%db%8c_%d8%ae%d9%84%d9%82_%d8%ae%d8%af%d8%a7) | N/A |
-| 3 | [#آرہا_ہے_کپتان_اسلام_آباد](http://twitter.com/search?q=%23%d8%a2%d8%b1%db%81%d8%a7_%db%81%db%92_%da%a9%d9%be%d8%aa%d8%a7%d9%86_%d8%a7%d8%b3%d9%84%d8%a7%d9%85_%d8%a2%d8%a8%d8%a7%d8%af) | N/A |
-| 4 | [#خان_بمقابلہ_کرپٹ_نظام](http://twitter.com/search?q=%23%d8%ae%d8%a7%d9%86_%d8%a8%d9%85%d9%82%d8%a7%d8%a8%d9%84%db%81_%da%a9%d8%b1%d9%be%d9%b9_%d9%86%d8%b8%d8%a7%d9%85) | N/A |
-| 5 | [Punjab](http://twitter.com/search?q=Punjab) | N/A |
-| 6 | [Bol News](http://twitter.com/search?q=Bol+News) | N/A |
-| 7 | [g-11](http://twitter.com/search?q=g-11) | N/A |
-| 8 | [Rs 5](http://twitter.com/search?q=Rs+5) | Rs 5 is the abbreviation for Indian Rupee 5, which is equivalent to approximately 0.068 US Dollars. |
-| 9 | [Article 6](http://twitter.com/search?q=Article+6) | N/A |
-| 10 | [Happy Birthday Lala](http://twitter.com/search?q=Happy+Birthday+Lala) | N/A |
-| 11 | [Maria B](http://twitter.com/search?q=Maria+B) | N/A |
-| 12 | [Governor](http://twitter.com/search?q=Governor) | N/A |
+| 2 | [#SchoolsNow2023](http://twitter.com/search?q=%23SchoolsNow2023) | N/A |
+| 3 | [#خان_بمقابلہ_کرپٹ_نظام](http://twitter.com/search?q=%23%d8%ae%d8%a7%d9%86_%d8%a8%d9%85%d9%82%d8%a7%d8%a8%d9%84%db%81_%da%a9%d8%b1%d9%be%d9%b9_%d9%86%d8%b8%d8%a7%d9%85) | N/A |
+| 4 | [#آرہا_ہے_کپتان_اسلام_آباد](http://twitter.com/search?q=%23%d8%a2%d8%b1%db%81%d8%a7_%db%81%db%92_%da%a9%d9%be%d8%aa%d8%a7%d9%86_%d8%a7%d8%b3%d9%84%d8%a7%d9%85_%d8%a2%d8%a8%d8%a7%d8%af) | N/A |
+| 5 | [Dubai](http://twitter.com/search?q=Dubai) | Dubai is a city and emirate in the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the capital of the Emirate of Dubai, one of the seven emirates that make up the country. The word "Dubai" translates to "money" in English. |
+| 6 | [British Council](http://twitter.com/search?q=British+Council) | N/A |
+| 7 | [Punjab](http://twitter.com/search?q=Punjab) | N/A |
+| 8 | [Transforming Schools](http://twitter.com/search?q=Transforming+Schools) | N/A |
+| 9 | [Bol News](http://twitter.com/search?q=Bol+News) | N/A |
+| 10 | [Lala](http://twitter.com/search?q=Lala) | N/A |
+| 11 | [g-11](http://twitter.com/search?q=g-11) | N/A |
+| 12 | [Rs 5](http://twitter.com/search?q=Rs+5) | Rs 5 is the abbreviation for Indian Rupee 5, which is equivalent to approximately 0.068 US Dollars. |
 | 13 | [Mansoor Ali Shah](http://twitter.com/search?q=Mansoor+Ali+Shah) | N/A |
-| 14 | [Bismah Maroof](http://twitter.com/search?q=Bismah+Maroof) | N/A |
-| 15 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 16 | [Your DM](http://twitter.com/search?q=Your+DM) | N/A |
-| 17 | [Greece](http://twitter.com/search?q=Greece) | N/A |
-| 18 | [EVIL EYES OFF SHEHNAAZGILL](http://twitter.com/search?q=EVIL+EYES+OFF+SHEHNAAZGILL) | N/A |
-| 19 | [Ramazan](http://twitter.com/search?q=Ramazan) | N/A |
-| 20 | [Murad Saeed](http://twitter.com/search?q=Murad+Saeed) | N/A |
+| 14 | [Maria B](http://twitter.com/search?q=Maria+B) | N/A |
+| 15 | [Bismah Maroof](http://twitter.com/search?q=Bismah+Maroof) | N/A |
+| 16 | [Governor](http://twitter.com/search?q=Governor) | N/A |
+| 17 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 18 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 19 | [Your DM](http://twitter.com/search?q=Your+DM) | N/A |
+| 20 | [Alex Hales](http://twitter.com/search?q=Alex+Hales) | N/A |
 | 21 | [Athar Minallah](http://twitter.com/search?q=Athar+Minallah) | N/A |
-| 22 | [Shahida Raza](http://twitter.com/search?q=Shahida+Raza) | N/A |
-| 23 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 24 | [Boom Boom](http://twitter.com/search?q=Boom+Boom) | N/A |
-| 25 | [Bandial](http://twitter.com/search?q=Bandial) | N/A |
+| 22 | [Jail Bharo](http://twitter.com/search?q=Jail+Bharo) | N/A |
+| 23 | [Boom Boom](http://twitter.com/search?q=Boom+Boom) | N/A |
+| 24 | [Murad Saeed](http://twitter.com/search?q=Murad+Saeed) | N/A |
+| 25 | [Shahida Raza](http://twitter.com/search?q=Shahida+Raza) | N/A |
 | 26 | [Munshi](http://twitter.com/search?q=Munshi) | N/A |
-| 27 | [Geo News](http://twitter.com/search?q=Geo+News) | N/A |
-| 28 | [PML-N](http://twitter.com/search?q=PML-N) | N/A |
-| 29 | [Australia](http://twitter.com/search?q=Australia) | N/A |
-| 30 | [Technically](http://twitter.com/search?q=Technically) | N/A |
-| 31 | [Awam](http://twitter.com/search?q=Awam) | N/A |
-| 32 | [Judges](http://twitter.com/search?q=Judges) | N/A |
-| 33 | [High Court](http://twitter.com/search?q=High+Court) | N/A |
-| 34 | [Ishaq Dar](http://twitter.com/search?q=Ishaq+Dar) | N/A |
-| 35 | [Lots](http://twitter.com/search?q=Lots) | N/A |
-| 36 | [Virat Kohli](http://twitter.com/search?q=Virat+Kohli) | N/A |
-| 37 | [Handsome](http://twitter.com/search?q=Handsome) | N/A |
-| 38 | [Panama](http://twitter.com/search?q=Panama) | N/A |
-| 39 | [Qazi](http://twitter.com/search?q=Qazi) | N/A |
-| 40 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 41 | [Mubarak](http://twitter.com/search?q=Mubarak) | N/A |
-| 42 | [Bibi](http://twitter.com/search?q=Bibi) | N/A |
-| 43 | [vonc](http://twitter.com/search?q=vonc) | N/A |
-| 44 | [Welldone](http://twitter.com/search?q=Welldone) | N/A |
-| 45 | [Appreciated](http://twitter.com/search?q=Appreciated) | N/A |
-| 46 | [Wese](http://twitter.com/search?q=Wese) | N/A |
-| 47 | [Matlab](http://twitter.com/search?q=Matlab) | N/A |
-| 48 | [Shukria](http://twitter.com/search?q=Shukria) | N/A |
+| 27 | [Greece](http://twitter.com/search?q=Greece) | N/A |
+| 28 | [EVIL EYES OFF SHEHNAAZGILL](http://twitter.com/search?q=EVIL+EYES+OFF+SHEHNAAZGILL) | N/A |
+| 29 | [PeeDM](http://twitter.com/search?q=PeeDM) | N/A |
+| 30 | [Naqvi](http://twitter.com/search?q=Naqvi) | N/A |
+| 31 | [Judges](http://twitter.com/search?q=Judges) | N/A |
+| 32 | [Geo News](http://twitter.com/search?q=Geo+News) | N/A |
+| 33 | [PMLN](http://twitter.com/search?q=PMLN) | N/A |
+| 34 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 35 | [VONC](http://twitter.com/search?q=VONC) | N/A |
+| 36 | [Inshallah](http://twitter.com/search?q=Inshallah) | N/A |
+| 37 | [Quetta](http://twitter.com/search?q=Quetta) | Quetta is a city in Pakistan located in the province of Balochistan. The name Quetta is derived from the Pashto word "Kwatak", meaning fort. In English, Quetta translates to "fortress". |
+| 38 | [Madam](http://twitter.com/search?q=Madam) | N/A |
+| 39 | [National Assembly](http://twitter.com/search?q=National+Assembly) | N/A |
+| 40 | [Handsome](http://twitter.com/search?q=Handsome) | N/A |
+| 41 | [Bibi](http://twitter.com/search?q=Bibi) | N/A |
+| 42 | [Amir](http://twitter.com/search?q=Amir) | Amir is an Arabic name meaning "Prince" or "Commander". It is also used as a title of nobility in some Muslim countries. |
+| 43 | [Ma Sha Allah](http://twitter.com/search?q=Ma+Sha+Allah) | N/A |
+| 44 | [Iranian](http://twitter.com/search?q=Iranian) | N/A |
+| 45 | [#راج_کرے_گی_خلق_خدا](http://twitter.com/search?q=%23%d8%b1%d8%a7%d8%ac_%da%a9%d8%b1%db%92_%da%af%db%8c_%d8%ae%d9%84%d9%82_%d8%ae%d8%af%d8%a7) | N/A |
+| 46 | [#چار_تین_سے_مسترد](http://twitter.com/search?q=%23%da%86%d8%a7%d8%b1_%d8%aa%db%8c%d9%86_%d8%b3%db%92_%d9%85%d8%b3%d8%aa%d8%b1%d8%af) | N/A |
+| 47 | [#HareemShah](http://twitter.com/search?q=%23HareemShah) | N/A |
+| 48 | [#QAU_Islamabad](http://twitter.com/search?q=%23QAU_Islamabad) | N/A |
 | 49 | [#BOLKaAdliyaKoSalam](http://twitter.com/search?q=%23BOLKaAdliyaKoSalam) | N/A |
 
 

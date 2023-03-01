@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Netherlands
 
-📆 Last Updated: `2023-03-01 09:16:48 UTC`
+📆 Last Updated: `2023-03-01 10:17:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Netherlands
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#UtrSpa](http://twitter.com/search?q=%23UtrSpa) | N/A |
-| 2 | [#complimentendag](http://twitter.com/search?q=%23complimentendag) | N/A |
-| 3 | [Spakenburg](http://twitter.com/search?q=Spakenburg) | N/A |
-| 4 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 5 | [#knvbbeker](http://twitter.com/search?q=%23knvbbeker) | N/A |
-| 6 | [#stapbudget](http://twitter.com/search?q=%23stapbudget) | N/A |
-| 7 | [#vunzigewoensdag](http://twitter.com/search?q=%23vunzigewoensdag) | N/A |
-| 8 | [Drommel](http://twitter.com/search?q=Drommel) | N/A |
-| 9 | [FC Utrecht](http://twitter.com/search?q=FC+Utrecht) | N/A |
-| 10 | [galgenwaard](http://twitter.com/search?q=galgenwaard) | N/A |
-| 11 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
-| 12 | [Wieke](http://twitter.com/search?q=Wieke) | N/A |
-| 13 | [Loes Reijmer](http://twitter.com/search?q=Loes+Reijmer) | N/A |
+| 2 | [Spakenburg](http://twitter.com/search?q=Spakenburg) | N/A |
+| 3 | [#complimentendag](http://twitter.com/search?q=%23complimentendag) | N/A |
+| 4 | [#knvbbeker](http://twitter.com/search?q=%23knvbbeker) | N/A |
+| 5 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
+| 6 | [Drommel](http://twitter.com/search?q=Drommel) | N/A |
+| 7 | [#stapbudget](http://twitter.com/search?q=%23stapbudget) | N/A |
+| 8 | [#firstdates](http://twitter.com/search?q=%23firstdates) | N/A |
+| 9 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
+| 10 | [De Vries](http://twitter.com/search?q=De+Vries) | N/A |
+| 11 | [Wieke](http://twitter.com/search?q=Wieke) | N/A |
+| 12 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
+| 13 | [Galgenwaard](http://twitter.com/search?q=Galgenwaard) | N/A |
 | 14 | [Stoepje](http://twitter.com/search?q=Stoepje) | N/A |
 | 15 | [Patricia](http://twitter.com/search?q=Patricia) | N/A |
-| 16 | [Succes](http://twitter.com/search?q=Succes) | N/A |
-| 17 | [Vattenfall](http://twitter.com/search?q=Vattenfall) | N/A |
-| 18 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
-| 19 | [Griekenland](http://twitter.com/search?q=Griekenland) | N/A |
-| 20 | [Utreg](http://twitter.com/search?q=Utreg) | N/A |
-| 21 | [Stemchecker](http://twitter.com/search?q=Stemchecker) | N/A |
-| 22 | [Gefeliciteerd](http://twitter.com/search?q=Gefeliciteerd) | N/A |
-| 23 | [Burgos](http://twitter.com/search?q=Burgos) | N/A |
-| 24 | [Nicolette](http://twitter.com/search?q=Nicolette) | N/A |
-| 25 | [Wichian](http://twitter.com/search?q=Wichian) | N/A |
-| 26 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
-| 27 | [Gommers](http://twitter.com/search?q=Gommers) | N/A |
-| 28 | [WOZ-bezwaar](http://twitter.com/search?q=WOZ-bezwaar) | N/A |
-| 29 | [Bachmoet](http://twitter.com/search?q=Bachmoet) | N/A |
-| 30 | [Morguh](http://twitter.com/search?q=Morguh) | N/A |
-| 31 | [Patty](http://twitter.com/search?q=Patty) | Patty is a slang term for a hamburger patty, which is a flat, round piece of ground meat that is cooked and served between two slices of bread. |
-| 32 | [Gelredome](http://twitter.com/search?q=Gelredome) | N/A |
+| 16 | [Vattenfall](http://twitter.com/search?q=Vattenfall) | N/A |
+| 17 | [Loes Reijmer](http://twitter.com/search?q=Loes+Reijmer) | N/A |
+| 18 | [Utreg](http://twitter.com/search?q=Utreg) | N/A |
+| 19 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
+| 20 | [Wichian](http://twitter.com/search?q=Wichian) | N/A |
+| 21 | [Bachmoet](http://twitter.com/search?q=Bachmoet) | N/A |
+| 22 | [Benitez](http://twitter.com/search?q=Benitez) | N/A |
+| 23 | [Stemchecker](http://twitter.com/search?q=Stemchecker) | N/A |
+| 24 | [Patty](http://twitter.com/search?q=Patty) | Patty is a slang term for a hamburger patty, which is a flat, round piece of ground meat that is cooked and served between two slices of bread. |
+| 25 | [Gommers](http://twitter.com/search?q=Gommers) | N/A |
+| 26 | [Greece](http://twitter.com/search?q=Greece) | N/A |
+| 27 | [Succes](http://twitter.com/search?q=Succes) | N/A |
+| 28 | [Burgos](http://twitter.com/search?q=Burgos) | N/A |
+| 29 | [GelreDome](http://twitter.com/search?q=GelreDome) | N/A |
+| 30 | [WOZ-waarde](http://twitter.com/search?q=WOZ-waarde) | N/A |
+| 31 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 32 | [WOZ-bezwaar](http://twitter.com/search?q=WOZ-bezwaar) | N/A |
 | 33 | [Expert](http://twitter.com/search?q=Expert) | N/A |
-| 34 | [WOZ-waarde](http://twitter.com/search?q=WOZ-waarde) | N/A |
-| 35 | [Greece](http://twitter.com/search?q=Greece) | N/A |
-| 36 | [kinderombudsman](http://twitter.com/search?q=kinderombudsman) | N/A |
-| 37 | [Maart](http://twitter.com/search?q=Maart) | N/A |
-| 38 | [niemoller](http://twitter.com/search?q=niemoller) | N/A |
-| 39 | [Stephan](http://twitter.com/search?q=Stephan) | N/A |
-| 40 | [Wouke](http://twitter.com/search?q=Wouke) | N/A |
-| 41 | [Floriadeflop](http://twitter.com/search?q=Floriadeflop) | N/A |
-| 42 | [Israël](http://twitter.com/search?q=Isra%c3%abl) | N/A |
-| 43 | [Vince Gino Dekker](http://twitter.com/search?q=Vince+Gino+Dekker) | N/A |
-| 44 | [toornstra](http://twitter.com/search?q=toornstra) | N/A |
-| 45 | [VN-rapporteur](http://twitter.com/search?q=VN-rapporteur) | N/A |
-| 46 | [Richelle](http://twitter.com/search?q=Richelle) | N/A |
-| 47 | [Brouwers](http://twitter.com/search?q=Brouwers) | N/A |
-| 48 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 49 | [Heerenveen](http://twitter.com/search?q=Heerenveen) | N/A |
-| 50 | [blauwen](http://twitter.com/search?q=blauwen) | N/A |
+| 34 | [toornstra](http://twitter.com/search?q=toornstra) | N/A |
+| 35 | [Marianne](http://twitter.com/search?q=Marianne) | N/A |
+| 36 | [Floriadeflop](http://twitter.com/search?q=Floriadeflop) | N/A |
+| 37 | [Vince Gino Dekker](http://twitter.com/search?q=Vince+Gino+Dekker) | N/A |
+| 38 | [Brad](http://twitter.com/search?q=Brad) | N/A |
+| 39 | [richelle](http://twitter.com/search?q=richelle) | N/A |
+| 40 | [Dahl](http://twitter.com/search?q=Dahl) | N/A |
+| 41 | [Brouwers](http://twitter.com/search?q=Brouwers) | N/A |
+| 42 | [Stop NPO-censuur](http://twitter.com/search?q=Stop+NPO-censuur) | N/A |
+| 43 | [Israël](http://twitter.com/search?q=Isra%c3%abl) | N/A |
+| 44 | [blauwen](http://twitter.com/search?q=blauwen) | N/A |
+| 45 | [Ginny](http://twitter.com/search?q=Ginny) | Ginny is a nickname for the given name Virginia. It is derived from the Latin word virgo, meaning "maiden" or "virgin". |
+| 46 | [Wilfred](http://twitter.com/search?q=Wilfred) | N/A |
+| 47 | [Wouke](http://twitter.com/search?q=Wouke) | N/A |
+| 48 | [Stephan](http://twitter.com/search?q=Stephan) | N/A |
+| 49 | [Netbeheerders](http://twitter.com/search?q=Netbeheerders) | N/A |
+| 50 | [Heerenveen](http://twitter.com/search?q=Heerenveen) | N/A |
 
 
 

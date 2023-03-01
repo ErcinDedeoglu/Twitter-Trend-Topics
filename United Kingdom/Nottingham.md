@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nottingham
 
-📆 Last Updated: `2023-03-01 09:16:00 UTC`
+📆 Last Updated: `2023-03-01 10:16:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#loveisland](http://twitter.com/search?q=%23loveisland) | #LoveIsland is a British reality television show that follows a group of single people living in a villa on the Spanish island of Majorca. The show focuses on the contestants' relationships with each other and their attempts to find love. The show has become popular in the UK and has spawned several spin-off series. |
-| 2 | [#gtfc](http://twitter.com/search?q=%23gtfc) | N/A |
-| 3 | [Mando](http://twitter.com/search?q=Mando) | N/A |
-| 4 | [Gove](http://twitter.com/search?q=Gove) | Gove is a surname of English origin. It is derived from the Old English word "gof," meaning "a smith or metalworker." The name is most commonly found in the United Kingdom, particularly in the counties of Devon and Cornwall. |
-| 5 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
-| 6 | [St David](http://twitter.com/search?q=St+David) | N/A |
-| 7 | [Hancock](http://twitter.com/search?q=Hancock) | N/A |
-| 8 | [#DyddGŵylDewiHapus](http://twitter.com/search?q=%23DyddG%c5%b5ylDewiHapus) | N/A |
-| 9 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
-| 10 | [Oakeshott](http://twitter.com/search?q=Oakeshott) | N/A |
-| 11 | [Saint David](http://twitter.com/search?q=Saint+David) | N/A |
-| 12 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 13 | [Lord Bethell](http://twitter.com/search?q=Lord+Bethell) | N/A |
-| 14 | [Telegraph](http://twitter.com/search?q=Telegraph) | N/A |
-| 15 | [Happy New Month](http://twitter.com/search?q=Happy+New+Month) | Happy New Month is a phrase used to express good wishes for the start of a new month. It is typically used as a greeting or salutation to friends, family, and colleagues. The phrase is usually accompanied by wishes for health, happiness, and success in the upcoming month. |
-| 16 | [Happy 1st of March](http://twitter.com/search?q=Happy+1st+of+March) | N/A |
-| 17 | [Daily Quordle 401](http://twitter.com/search?q=Daily+Quordle+401) | N/A |
-| 18 | [Tinubu](http://twitter.com/search?q=Tinubu) | N/A |
-| 19 | [White Rabbits](http://twitter.com/search?q=White+Rabbits) | N/A |
-| 20 | [Whitty](http://twitter.com/search?q=Whitty) | N/A |
-| 21 | [Wordle 620 X](http://twitter.com/search?q=Wordle+620+X) | N/A |
-| 22 | [Midazolam](http://twitter.com/search?q=Midazolam) | N/A |
-| 23 | [Frogmore](http://twitter.com/search?q=Frogmore) | N/A |
-| 24 | [Japa](http://twitter.com/search?q=Japa) | N/A |
-| 25 | [Torygraph](http://twitter.com/search?q=Torygraph) | N/A |
-| 26 | [Osborne](http://twitter.com/search?q=Osborne) | N/A |
-| 27 | [Tice](http://twitter.com/search?q=Tice) | N/A |
-| 28 | [Banks](http://twitter.com/search?q=Banks) | N/A |
-| 29 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
-| 30 | [#r4today](http://twitter.com/search?q=%23r4today) | N/A |
-| 31 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
-| 32 | [#March2023](http://twitter.com/search?q=%23March2023) | N/A |
-| 33 | [#Wales](http://twitter.com/search?q=%23Wales) | N/A |
-| 34 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
-| 35 | [#Welsh](http://twitter.com/search?q=%23Welsh) | N/A |
-| 36 | [#FFBWednesday](http://twitter.com/search?q=%23FFBWednesday) | N/A |
-| 37 | [#RoseWednesday](http://twitter.com/search?q=%23RoseWednesday) | N/A |
-| 38 | [#lockdownfiles](http://twitter.com/search?q=%23lockdownfiles) | N/A |
-| 39 | [#EarlyBiz](http://twitter.com/search?q=%23EarlyBiz) | N/A |
-| 40 | [#Wednesdayvibe](http://twitter.com/search?q=%23Wednesdayvibe) | N/A |
-| 41 | [#vulnerable](http://twitter.com/search?q=%23vulnerable) | N/A |
-| 42 | [#INECElectionResult](http://twitter.com/search?q=%23INECElectionResult) | N/A |
-| 43 | [#Daffodils](http://twitter.com/search?q=%23Daffodils) | N/A |
-| 44 | [#WomensHistoryMonth](http://twitter.com/search?q=%23WomensHistoryMonth) | N/A |
-| 45 | [#BANvENG](http://twitter.com/search?q=%23BANvENG) | N/A |
-| 46 | [#ToriesOut237](http://twitter.com/search?q=%23ToriesOut237) | N/A |
-| 47 | [#33Thirds](http://twitter.com/search?q=%2333Thirds) | N/A |
-| 48 | [#Cymru](http://twitter.com/search?q=%23Cymru) | N/A |
-| 49 | [#WorldBookDay2023](http://twitter.com/search?q=%23WorldBookDay2023) | N/A |
-| 50 | [#COVID19](http://twitter.com/search?q=%23COVID19) | N/A |
+| 2 | [#JeremyVine](http://twitter.com/search?q=%23JeremyVine) | N/A |
+| 3 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
+| 4 | [Greece](http://twitter.com/search?q=Greece) | N/A |
+| 5 | [Mando](http://twitter.com/search?q=Mando) | N/A |
+| 6 | [#BrexitCarnage](http://twitter.com/search?q=%23BrexitCarnage) | N/A |
+| 7 | [#SaveOurSchools](http://twitter.com/search?q=%23SaveOurSchools) | N/A |
+| 8 | [St David](http://twitter.com/search?q=St+David) | N/A |
+| 9 | [Hancock](http://twitter.com/search?q=Hancock) | N/A |
+| 10 | [Welsh](http://twitter.com/search?q=Welsh) | Welsh is a Celtic language spoken in Wales, a country in the United Kingdom. It is closely related to Cornish and Breton, two other Celtic languages. The Welsh language has its own unique alphabet and grammar, and is an official language of Wales. Its meaning in English is "of or relating to Wales or its people, language, or culture". |
+| 11 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
+| 12 | [Isabel Oakeshott](http://twitter.com/search?q=Isabel+Oakeshott) | N/A |
+| 13 | [Saint David](http://twitter.com/search?q=Saint+David) | N/A |
+| 14 | [Happy New Month](http://twitter.com/search?q=Happy+New+Month) | Happy New Month is a phrase used to express good wishes for the start of a new month. It is typically used as a greeting or salutation to friends, family, and colleagues. The phrase is usually accompanied by wishes for health, happiness, and success in the upcoming month. |
+| 15 | [Telegraph](http://twitter.com/search?q=Telegraph) | N/A |
+| 16 | [Lord Bethell](http://twitter.com/search?q=Lord+Bethell) | N/A |
+| 17 | [Tinubu](http://twitter.com/search?q=Tinubu) | N/A |
+| 18 | [Whitty](http://twitter.com/search?q=Whitty) | N/A |
+| 19 | [Frogmore Cottage](http://twitter.com/search?q=Frogmore+Cottage) | N/A |
+| 20 | [Sarah Vine](http://twitter.com/search?q=Sarah+Vine) | N/A |
+| 21 | [Midazolam](http://twitter.com/search?q=Midazolam) | N/A |
+| 22 | [Daily Quordle 401](http://twitter.com/search?q=Daily+Quordle+401) | N/A |
+| 23 | [White Rabbits](http://twitter.com/search?q=White+Rabbits) | N/A |
+| 24 | [Wordle 620 X](http://twitter.com/search?q=Wordle+620+X) | N/A |
+| 25 | [Ed Sheeran](http://twitter.com/search?q=Ed+Sheeran) | N/A |
+| 26 | [Torygraph](http://twitter.com/search?q=Torygraph) | N/A |
+| 27 | [Osborne](http://twitter.com/search?q=Osborne) | N/A |
+| 28 | [Tice](http://twitter.com/search?q=Tice) | N/A |
+| 29 | [Gove](http://twitter.com/search?q=Gove) | Gove is a surname of English origin. It is derived from the Old English word "gof," meaning "a smith or metalworker." The name is most commonly found in the United Kingdom, particularly in the counties of Devon and Cornwall. |
+| 30 | [Morning Paul](http://twitter.com/search?q=Morning+Paul) | N/A |
+| 31 | [Japa](http://twitter.com/search?q=Japa) | N/A |
+| 32 | [Diolch](http://twitter.com/search?q=Diolch) | N/A |
+| 33 | [Nigel Farage](http://twitter.com/search?q=Nigel+Farage) | N/A |
+| 34 | [Morton](http://twitter.com/search?q=Morton) | Morton is a surname of English origin. It is derived from the Old French word "mort," meaning "dead," and the suffix "-on," which was used to denote a place or location. The name was originally given to someone who lived near a burial ground or cemetery. |
+| 35 | [Morning Andy](http://twitter.com/search?q=Morning+Andy) | N/A |
+| 36 | [Eisteddfod](http://twitter.com/search?q=Eisteddfod) | N/A |
+| 37 | [Pogba](http://twitter.com/search?q=Pogba) | Pogba is a nickname for the French professional footballer Paul Pogba. It is derived from his last name and is often used as a term of endearment by his fans. |
+| 38 | [Banks](http://twitter.com/search?q=Banks) | N/A |
+| 39 | [Year 7](http://twitter.com/search?q=Year+7) | N/A |
+| 40 | [#MWC23](http://twitter.com/search?q=%23MWC23) | N/A |
+| 41 | [#DyddGŵylDewiHapus](http://twitter.com/search?q=%23DyddG%c5%b5ylDewiHapus) | N/A |
+| 42 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 43 | [#Wales](http://twitter.com/search?q=%23Wales) | N/A |
+| 44 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
+| 45 | [#WomensHistoryMonth](http://twitter.com/search?q=%23WomensHistoryMonth) | N/A |
+| 46 | [#March1st](http://twitter.com/search?q=%23March1st) | N/A |
+| 47 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
+| 48 | [#ASongOrMovieForTaste](http://twitter.com/search?q=%23ASongOrMovieForTaste) | N/A |
+| 49 | [#spring](http://twitter.com/search?q=%23spring) | N/A |
+| 50 | [#Daffodils](http://twitter.com/search?q=%23Daffodils) | N/A |
 
 
 

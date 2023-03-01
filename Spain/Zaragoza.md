@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zaragoza
 
-📆 Last Updated: `2023-03-01 09:16:15 UTC`
+📆 Last Updated: `2023-03-01 10:16:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,50 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Andalucía](http://twitter.com/search?q=Andaluc%c3%ada) | N/A |
-| 2 | [Tito Berni](http://twitter.com/search?q=Tito+Berni) | N/A |
-| 3 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
-| 4 | [PSOE](http://twitter.com/search?q=PSOE) | N/A |
-| 5 | [Ferrovial](http://twitter.com/search?q=Ferrovial) | N/A |
-| 6 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
-| 7 | [#BienvenidoMarzo](http://twitter.com/search?q=%23BienvenidoMarzo) | N/A |
-| 8 | [#ATEEZinMadrid](http://twitter.com/search?q=%23ATEEZinMadrid) | N/A |
-| 9 | [#APOYOROCIO1M](http://twitter.com/search?q=%23APOYOROCIO1M) | N/A |
-| 10 | [#TentacionesDBT6](http://twitter.com/search?q=%23TentacionesDBT6) | N/A |
-| 11 | [Mediador](http://twitter.com/search?q=Mediador) | N/A |
-| 12 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
-| 13 | [Pelayo Novo](http://twitter.com/search?q=Pelayo+Novo) | N/A |
-| 14 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 15 | [Amouranth](http://twitter.com/search?q=Amouranth) | N/A |
-| 16 | [Jonás](http://twitter.com/search?q=Jon%c3%a1s) | N/A |
-| 17 | [Inmoral](http://twitter.com/search?q=Inmoral) | N/A |
-| 18 | [Países Bajos](http://twitter.com/search?q=Pa%c3%adses+Bajos) | N/A |
-| 19 | [Blas Infante](http://twitter.com/search?q=Blas+Infante) | N/A |
-| 20 | [Andaluces](http://twitter.com/search?q=Andaluces) | N/A |
-| 21 | [Patxi](http://twitter.com/search?q=Patxi) | N/A |
-| 22 | [Autoevaluación HONESTA](http://twitter.com/search?q=Autoevaluaci%c3%b3n+HONESTA) | N/A |
-| 23 | [Islas Baleares](http://twitter.com/search?q=Islas+Baleares) | N/A |
-| 24 | [Miquella](http://twitter.com/search?q=Miquella) | N/A |
-| 25 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
-| 26 | [Hoy 1](http://twitter.com/search?q=Hoy+1) | N/A |
-| 27 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
-| 28 | [Peter Pan](http://twitter.com/search?q=Peter+Pan) | N/A |
-| 29 | [Alvise](http://twitter.com/search?q=Alvise) | N/A |
-| 30 | [Alexia](http://twitter.com/search?q=Alexia) | Alexia is a neurological disorder that affects a person's ability to read. It is also known as word blindness or dyslexia. People with Alexia have difficulty understanding written words, even though they may be able to speak and write normally. |
-| 31 | [Grecia](http://twitter.com/search?q=Grecia) | N/A |
-| 32 | [Día de la Cero Discriminación](http://twitter.com/search?q=D%c3%ada+de+la+Cero+Discriminaci%c3%b3n) | N/A |
-| 33 | [Iribar](http://twitter.com/search?q=Iribar) | N/A |
-| 34 | [Kitchen](http://twitter.com/search?q=Kitchen) | N/A |
-| 35 | [Illes Balears](http://twitter.com/search?q=Illes+Balears) | N/A |
-| 36 | [Dalsy](http://twitter.com/search?q=Dalsy) | N/A |
-| 37 | [hoy 28](http://twitter.com/search?q=hoy+28) | N/A |
-| 38 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 39 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
-| 40 | [Lc 11](http://twitter.com/search?q=Lc+11) | N/A |
-| 41 | [The Dark Side of the Moon](http://twitter.com/search?q=The+Dark+Side+of+the+Moon) | N/A |
-| 42 | [MAYICHI](http://twitter.com/search?q=MAYICHI) | N/A |
-| 43 | [Luzu](http://twitter.com/search?q=Luzu) | Luzu is a Spanish word that means light. It is often used to refer to a bright, cheerful, and optimistic attitude. |
-| 44 | [Papi Gavi](http://twitter.com/search?q=Papi+Gavi) | N/A |
-| 45 | [Rafael del Pino](http://twitter.com/search?q=Rafael+del+Pino) | N/A |
-| 46 | [Fray Perico](http://twitter.com/search?q=Fray+Perico) | N/A |
-| 47 | [ANDALUZ](http://twitter.com/search?q=ANDALUZ) | N/A |
-| 48 | [Coscu](http://twitter.com/search?q=Coscu) | N/A |
-| 49 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 1 | [Ferrovial](http://twitter.com/search?q=Ferrovial) | N/A |
+| 2 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
+| 3 | [#BienvenidoMarzo](http://twitter.com/search?q=%23BienvenidoMarzo) | N/A |
+| 4 | [#TamagotchiCarrefour](http://twitter.com/search?q=%23TamagotchiCarrefour) | N/A |
+| 5 | [#Solos1M](http://twitter.com/search?q=%23Solos1M) | N/A |
+| 6 | [Países Bajos](http://twitter.com/search?q=Pa%c3%adses+Bajos) | N/A |
+| 7 | [Holanda](http://twitter.com/search?q=Holanda) | N/A |
+| 8 | [Iribar](http://twitter.com/search?q=Iribar) | N/A |
+| 9 | [Illes Balears](http://twitter.com/search?q=Illes+Balears) | N/A |
+| 10 | [Pelayo Novo](http://twitter.com/search?q=Pelayo+Novo) | N/A |
+| 11 | [Jonás](http://twitter.com/search?q=Jon%c3%a1s) | N/A |
+| 12 | [Islas Baleares](http://twitter.com/search?q=Islas+Baleares) | N/A |
+| 13 | [Patxi](http://twitter.com/search?q=Patxi) | N/A |
+| 14 | [Mediador](http://twitter.com/search?q=Mediador) | N/A |
+| 15 | [Grecia](http://twitter.com/search?q=Grecia) | N/A |
+| 16 | [Rafael del Pino](http://twitter.com/search?q=Rafael+del+Pino) | N/A |
+| 17 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
+| 18 | [Juancho](http://twitter.com/search?q=Juancho) | N/A |
+| 19 | [Alvise](http://twitter.com/search?q=Alvise) | N/A |
+| 20 | [El Sadar](http://twitter.com/search?q=El+Sadar) | N/A |
+| 21 | [Mingi](http://twitter.com/search?q=Mingi) | N/A |
+| 22 | [Kitchen](http://twitter.com/search?q=Kitchen) | N/A |
+| 23 | [Día Internacional de la Mujer](http://twitter.com/search?q=D%c3%ada+Internacional+de+la+Mujer) | N/A |
+| 24 | [Interior](http://twitter.com/search?q=Interior) | N/A |
+| 25 | [Campanilla](http://twitter.com/search?q=Campanilla) | N/A |
+| 26 | [Griñan](http://twitter.com/search?q=Gri%c3%b1an) | N/A |
+| 27 | [Macarena](http://twitter.com/search?q=Macarena) | N/A |
+| 28 | [Autoevaluación HONESTA](http://twitter.com/search?q=Autoevaluaci%c3%b3n+HONESTA) | N/A |
+| 29 | [Peter Pan](http://twitter.com/search?q=Peter+Pan) | N/A |
+| 30 | [D.E.P](http://twitter.com/search?q=D.E.P) | N/A |
+| 31 | [Inmoral](http://twitter.com/search?q=Inmoral) | N/A |
+| 32 | [#APOYOROCIO1M](http://twitter.com/search?q=%23APOYOROCIO1M) | N/A |
+| 33 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 34 | [#YoMeRebelo1M](http://twitter.com/search?q=%23YoMeRebelo1M) | N/A |
+| 35 | [#Marzo2023](http://twitter.com/search?q=%23Marzo2023) | N/A |
+| 36 | [#Grogu](http://twitter.com/search?q=%23Grogu) | N/A |
+| 37 | [#PutiSOE](http://twitter.com/search?q=%23PutiSOE) | N/A |
+| 38 | [#BeyondFast](http://twitter.com/search?q=%23BeyondFast) | #BeyondFast is a hashtag used to describe something that goes beyond the speed of fast. It is used to emphasize the idea that something is faster than fast, or that it surpasses the speed of fast. |
+| 39 | [#PsoeEsCorrupción](http://twitter.com/search?q=%23PsoeEsCorrupci%c3%b3n) | N/A |
+| 40 | [#OsasunaAthletic](http://twitter.com/search?q=%23OsasunaAthletic) | N/A |
+| 41 | [#QueTeVoteTitoBerni](http://twitter.com/search?q=%23QueTeVoteTitoBerni) | N/A |
+| 42 | [#CopaDelRey](http://twitter.com/search?q=%23CopaDelRey) | #CopaDelRey is the Spanish Cup, an annual football tournament in Spain. In English, it translates to "King's Cup". |
+| 43 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
+| 44 | [#StarWars](http://twitter.com/search?q=%23StarWars) | N/A |
 
 
 

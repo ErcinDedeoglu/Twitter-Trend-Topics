@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Poznań
 
-📆 Last Updated: `2023-03-01 09:16:09 UTC`
+📆 Last Updated: `2023-03-01 10:16:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Poland](</Poland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#OligarchaPutina](http://twitter.com/search?q=%23OligarchaPutina) | N/A |
+| 1 | [#ObajtekDoCeli](http://twitter.com/search?q=%23ObajtekDoCeli) | N/A |
 | 2 | [Chwała Bohaterom](http://twitter.com/search?q=Chwa%c5%82a+Bohaterom) | N/A |
-| 3 | [#ObajtekDoCeli](http://twitter.com/search?q=%23ObajtekDoCeli) | N/A |
-| 4 | [Dworczyka](http://twitter.com/search?q=Dworczyka) | N/A |
-| 5 | [Żołnierzy Wyklętych](http://twitter.com/search?q=%c5%bbo%c5%82nierzy+Wykl%c4%99tych) | N/A |
-| 6 | [#ŻołnierzeWyklęci](http://twitter.com/search?q=%23%c5%bbo%c5%82nierzeWykl%c4%99ci) | N/A |
+| 3 | [Dworczyka](http://twitter.com/search?q=Dworczyka) | N/A |
+| 4 | [#OligarchaPutina](http://twitter.com/search?q=%23OligarchaPutina) | N/A |
+| 5 | [#ŻołnierzeWyklęci](http://twitter.com/search?q=%23%c5%bbo%c5%82nierzeWykl%c4%99ci) | N/A |
+| 6 | [Żołnierzy Wyklętych](http://twitter.com/search?q=%c5%bbo%c5%82nierzy+Wykl%c4%99tych) | N/A |
 | 7 | [#1marca](http://twitter.com/search?q=%231marca) | N/A |
-| 8 | [Narodowy Dzień Pamięci](http://twitter.com/search?q=Narodowy+Dzie%c5%84+Pami%c4%99ci) | N/A |
-| 9 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
-| 10 | [Tusk](http://twitter.com/search?q=Tusk) | N/A |
-| 11 | [HAPPY BIRTHDAY SAPNAP](http://twitter.com/search?q=HAPPY+BIRTHDAY+SAPNAP) | N/A |
-| 12 | [Karpińskiego](http://twitter.com/search?q=Karpi%c5%84skiego) | N/A |
-| 13 | [Niezawisłość](http://twitter.com/search?q=Niezawis%c5%82o%c5%9b%c4%87) | N/A |
+| 8 | [Tuska](http://twitter.com/search?q=Tuska) | N/A |
+| 9 | [Narodowy Dzień Pamięci](http://twitter.com/search?q=Narodowy+Dzie%c5%84+Pami%c4%99ci) | N/A |
+| 10 | [Libicki](http://twitter.com/search?q=Libicki) | N/A |
+| 11 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
+| 12 | [HAPPY BIRTHDAY SAPNAP](http://twitter.com/search?q=HAPPY+BIRTHDAY+SAPNAP) | N/A |
+| 13 | [Karpiński](http://twitter.com/search?q=Karpi%c5%84ski) | N/A |
 | 14 | [Obajtka](http://twitter.com/search?q=Obajtka) | N/A |
-| 15 | [Niezłomnych](http://twitter.com/search?q=Niez%c5%82omnych) | N/A |
-| 16 | [Dobrego](http://twitter.com/search?q=Dobrego) | N/A |
-| 17 | [Orlen](http://twitter.com/search?q=Orlen) | N/A |
-| 18 | [Cremonese](http://twitter.com/search?q=Cremonese) | N/A |
-| 19 | [Auchan](http://twitter.com/search?q=Auchan) | N/A |
-| 20 | [Razem](http://twitter.com/search?q=Razem) | N/A |
-| 21 | [Grecji](http://twitter.com/search?q=Grecji) | N/A |
-| 22 | [Neumanna](http://twitter.com/search?q=Neumanna) | N/A |
-| 23 | [Niesiołowski](http://twitter.com/search?q=Niesio%c5%82owski) | N/A |
-| 24 | [Mieszkanie](http://twitter.com/search?q=Mieszkanie) | N/A |
-| 25 | [Borsuk](http://twitter.com/search?q=Borsuk) | N/A |
-| 26 | [Marcin Oleksy](http://twitter.com/search?q=Marcin+Oleksy) | N/A |
-| 27 | [Kredyt 0%](http://twitter.com/search?q=Kredyt+0%25) | N/A |
-| 28 | [Ziobro](http://twitter.com/search?q=Ziobro) | N/A |
-| 29 | [GIVE US WN BLOOPERS](http://twitter.com/search?q=GIVE+US+WN+BLOOPERS) | N/A |
-| 30 | [MAM PRZYPAŁ](http://twitter.com/search?q=MAM+PRZYPA%c5%81) | N/A |
-| 31 | [mObywatel](http://twitter.com/search?q=mObywatel) | N/A |
-| 32 | [Haniu](http://twitter.com/search?q=Haniu) | N/A |
-| 33 | [Państwo](http://twitter.com/search?q=Pa%c5%84stwo) | N/A |
-| 34 | [Pabianicach](http://twitter.com/search?q=Pabianicach) | N/A |
-| 35 | [Jowisz](http://twitter.com/search?q=Jowisz) | N/A |
-| 36 | [turynu](http://twitter.com/search?q=turynu) | N/A |
-| 37 | [Senacie](http://twitter.com/search?q=Senacie) | N/A |
-| 38 | [Jasiński](http://twitter.com/search?q=Jasi%c5%84ski) | N/A |
-| 39 | [lechia zielona góra](http://twitter.com/search?q=lechia+zielona+g%c3%b3ra) | N/A |
-| 40 | [Wąsika](http://twitter.com/search?q=W%c4%85sika) | N/A |
-| 41 | [Amber Gold](http://twitter.com/search?q=Amber+Gold) | N/A |
-| 42 | [ASTRO](http://twitter.com/search?q=ASTRO) | N/A |
-| 43 | [Zandberg](http://twitter.com/search?q=Zandberg) | N/A |
-| 44 | [Kasiu](http://twitter.com/search?q=Kasiu) | N/A |
-| 45 | [weszło](http://twitter.com/search?q=wesz%c5%82o) | N/A |
-| 46 | [Lewicy](http://twitter.com/search?q=Lewicy) | N/A |
-| 47 | [Kornela Morawieckiego](http://twitter.com/search?q=Kornela+Morawieckiego) | N/A |
-| 48 | [Fifa the best](http://twitter.com/search?q=Fifa+the+best) | N/A |
+| 15 | [Orlen](http://twitter.com/search?q=Orlen) | N/A |
+| 16 | [Auchan](http://twitter.com/search?q=Auchan) | N/A |
+| 17 | [Neumanna](http://twitter.com/search?q=Neumanna) | N/A |
+| 18 | [Niesiołowski](http://twitter.com/search?q=Niesio%c5%82owski) | N/A |
+| 19 | [Wąsika](http://twitter.com/search?q=W%c4%85sika) | N/A |
+| 20 | [GIVE US WN BLOOPERS](http://twitter.com/search?q=GIVE+US+WN+BLOOPERS) | N/A |
+| 21 | [Borsuk](http://twitter.com/search?q=Borsuk) | N/A |
+| 22 | [Mieszkanie](http://twitter.com/search?q=Mieszkanie) | N/A |
+| 23 | [Razem](http://twitter.com/search?q=Razem) | N/A |
+| 24 | [Marcin Oleksy](http://twitter.com/search?q=Marcin+Oleksy) | N/A |
+| 25 | [MAM PRZYPAŁ](http://twitter.com/search?q=MAM+PRZYPA%c5%81) | N/A |
+| 26 | [Kredyt 0%](http://twitter.com/search?q=Kredyt+0%25) | N/A |
+| 27 | [Państwo](http://twitter.com/search?q=Pa%c5%84stwo) | N/A |
+| 28 | [Prokuratura](http://twitter.com/search?q=Prokuratura) | N/A |
+| 29 | [Ziobro](http://twitter.com/search?q=Ziobro) | N/A |
+| 30 | [Niezawisłość](http://twitter.com/search?q=Niezawis%c5%82o%c5%9b%c4%87) | N/A |
+| 31 | [Szczerba](http://twitter.com/search?q=Szczerba) | N/A |
+| 32 | [mObywatel](http://twitter.com/search?q=mObywatel) | N/A |
+| 33 | [Haniu](http://twitter.com/search?q=Haniu) | N/A |
+| 34 | [Jowisz](http://twitter.com/search?q=Jowisz) | N/A |
+| 35 | [PZPN](http://twitter.com/search?q=PZPN) | N/A |
+| 36 | [Jasiński](http://twitter.com/search?q=Jasi%c5%84ski) | N/A |
+| 37 | [turynu](http://twitter.com/search?q=turynu) | N/A |
+| 38 | [Cremonese](http://twitter.com/search?q=Cremonese) | N/A |
+| 39 | [Kornel Morawiecki](http://twitter.com/search?q=Kornel+Morawiecki) | N/A |
+| 40 | [Niezłomnych](http://twitter.com/search?q=Niez%c5%82omnych) | N/A |
+| 41 | [Pabianicach](http://twitter.com/search?q=Pabianicach) | N/A |
+| 42 | [Grecji](http://twitter.com/search?q=Grecji) | N/A |
+| 43 | [Amber Gold](http://twitter.com/search?q=Amber+Gold) | N/A |
+| 44 | [Senacie](http://twitter.com/search?q=Senacie) | N/A |
+| 45 | [Przyłębskiej](http://twitter.com/search?q=Przy%c5%82%c4%99bskiej) | N/A |
+| 46 | [Pcimia](http://twitter.com/search?q=Pcimia) | N/A |
+| 47 | [FIFA The Best](http://twitter.com/search?q=FIFA+The+Best) | N/A |
+| 48 | [Sakiewicz](http://twitter.com/search?q=Sakiewicz) | N/A |
 
 
 
