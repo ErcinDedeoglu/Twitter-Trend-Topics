@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico
 
-📆 Last Updated: `2023-03-01 03:27:37 UTC`
+📆 Last Updated: `2023-03-01 04:17:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,43 +15,50 @@ This is top 50 for Mexico
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SalarioRosaContinua](http://twitter.com/search?q=%23SalarioRosaContinua) | N/A |
+| 1 | [#SalarioRosaCotinua](http://twitter.com/search?q=%23SalarioRosaCotinua) | N/A |
 | 2 | [#MujeresAllStar](http://twitter.com/search?q=%23MujeresAllStar) | N/A |
 | 3 | [MEDALLA GOLDEN CHAMP](http://twitter.com/search?q=MEDALLA+GOLDEN+CHAMP) | N/A |
-| 4 | [Futbolista](http://twitter.com/search?q=Futbolista) | N/A |
-| 5 | [Piloto](http://twitter.com/search?q=Piloto) | N/A |
-| 6 | [SOMOS SOBRENATURAL](http://twitter.com/search?q=SOMOS+SOBRENATURAL) | N/A |
-| 7 | [Juan Collado](http://twitter.com/search?q=Juan+Collado) | N/A |
-| 8 | [#CanastaBásicaAlAlza](http://twitter.com/search?q=%23CanastaB%c3%a1sicaAlAlza) | N/A |
-| 9 | [Cabeza de Vaca](http://twitter.com/search?q=Cabeza+de+Vaca) | N/A |
+| 4 | [MAVELYN MEDALLISTAR](http://twitter.com/search?q=MAVELYN+MEDALLISTAR) | N/A |
+| 5 | [Independiente del Valle](http://twitter.com/search?q=Independiente+del+Valle) | N/A |
+| 6 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
+| 7 | [Piloto](http://twitter.com/search?q=Piloto) | N/A |
+| 8 | [Futbolista](http://twitter.com/search?q=Futbolista) | N/A |
+| 9 | [Mati](http://twitter.com/search?q=Mati) | N/A |
 | 10 | [Samuel](http://twitter.com/search?q=Samuel) | N/A |
-| 11 | [Mati](http://twitter.com/search?q=Mati) | N/A |
-| 12 | [Andy Benavides](http://twitter.com/search?q=Andy+Benavides) | N/A |
-| 13 | [#OvidioNoSeToca](http://twitter.com/search?q=%23OvidioNoSeToca) | N/A |
-| 14 | [#AgustD_SUGA_Tour](http://twitter.com/search?q=%23AgustD_SUGA_Tour) | N/A |
-| 15 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 16 | [Santa Catarina](http://twitter.com/search?q=Santa+Catarina) | N/A |
-| 17 | [Ingeniero](http://twitter.com/search?q=Ingeniero) | N/A |
-| 18 | [Nuevo Laredo](http://twitter.com/search?q=Nuevo+Laredo) | N/A |
-| 19 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 20 | [CHAIFA](http://twitter.com/search?q=CHAIFA) | N/A |
-| 21 | [Tinkerbell](http://twitter.com/search?q=Tinkerbell) | N/A |
-| 22 | [Musk](http://twitter.com/search?q=Musk) | N/A |
-| 23 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
-| 24 | [Peter Pan](http://twitter.com/search?q=Peter+Pan) | N/A |
-| 25 | [Chalco](http://twitter.com/search?q=Chalco) | N/A |
-| 26 | [HBO Max](http://twitter.com/search?q=HBO+Max) | HBO Max is a streaming service from WarnerMedia, the parent company of HBO. It offers a wide selection of movies, TV shows, and original content from HBO, Warner Bros., DC Entertainment, Cartoon Network, Adult Swim, and more. The service also includes access to HBO Now and Cinemax. The name "Max" is derived from the Latin word for "greatest," emphasizing the breadth of content available on the platform. |
-| 27 | [Sedena](http://twitter.com/search?q=Sedena) | N/A |
-| 28 | [Enfermedades Raras](http://twitter.com/search?q=Enfermedades+Raras) | N/A |
-| 29 | [Carioca](http://twitter.com/search?q=Carioca) | N/A |
-| 30 | [The World Is A Vampire](http://twitter.com/search?q=The+World+Is+A+Vampire) | N/A |
-| 31 | [N.L.](http://twitter.com/search?q=N.L.) | N/A |
-| 32 | [#SUGA_AgustD_TOUR](http://twitter.com/search?q=%23SUGA_AgustD_TOUR) | N/A |
-| 33 | [#AmloEstaDesesperado](http://twitter.com/search?q=%23AmloEstaDesesperado) | N/A |
-| 34 | [#SquidCraft2](http://twitter.com/search?q=%23SquidCraft2) | N/A |
-| 35 | [#TeslaEnMexico](http://twitter.com/search?q=%23TeslaEnMexico) | N/A |
-| 36 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 37 | [#LaNuevaLínea1](http://twitter.com/search?q=%23LaNuevaL%c3%adnea1) | N/A |
+| 11 | [SOMOS SOBRENATURAL](http://twitter.com/search?q=SOMOS+SOBRENATURAL) | N/A |
+| 12 | [Cabeza de Vaca](http://twitter.com/search?q=Cabeza+de+Vaca) | N/A |
+| 13 | [Juan Collado](http://twitter.com/search?q=Juan+Collado) | N/A |
+| 14 | [Leona](http://twitter.com/search?q=Leona) | N/A |
+| 15 | [Andy Benavides](http://twitter.com/search?q=Andy+Benavides) | N/A |
+| 16 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 17 | [Tino](http://twitter.com/search?q=Tino) | N/A |
+| 18 | [#AmloEstaDesesperado](http://twitter.com/search?q=%23AmloEstaDesesperado) | N/A |
+| 19 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 20 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 21 | [Santa Catarina](http://twitter.com/search?q=Santa+Catarina) | N/A |
+| 22 | [Mexiquenses](http://twitter.com/search?q=Mexiquenses) | N/A |
+| 23 | [#OvidioNoSeToca](http://twitter.com/search?q=%23OvidioNoSeToca) | N/A |
+| 24 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
+| 25 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
+| 26 | [Ingeniero](http://twitter.com/search?q=Ingeniero) | N/A |
+| 27 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 28 | [Nuevo Laredo](http://twitter.com/search?q=Nuevo+Laredo) | N/A |
+| 29 | [Justin Bieber](http://twitter.com/search?q=Justin+Bieber) | N/A |
+| 30 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
+| 31 | [CHAIFA](http://twitter.com/search?q=CHAIFA) | N/A |
+| 32 | [Dos Bocas](http://twitter.com/search?q=Dos+Bocas) | N/A |
+| 33 | [Tinkerbell](http://twitter.com/search?q=Tinkerbell) | N/A |
+| 34 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 35 | [Peter Pan](http://twitter.com/search?q=Peter+Pan) | N/A |
+| 36 | [Apodaca](http://twitter.com/search?q=Apodaca) | N/A |
+| 37 | [HBO Max](http://twitter.com/search?q=HBO+Max) | HBO Max is a streaming service from WarnerMedia, the parent company of HBO. It offers a wide selection of movies, TV shows, and original content from HBO, Warner Bros., DC Entertainment, Cartoon Network, Adult Swim, and more. The service also includes access to HBO Now and Cinemax. The name "Max" is derived from the Latin word for "greatest," emphasizing the breadth of content available on the platform. |
+| 38 | [Bolivia](http://twitter.com/search?q=Bolivia) | Bolivia is a country located in South America. It is bordered by Brazil, Paraguay, Argentina, Chile, and Peru. The name Bolivia comes from Simón Bolívar, a Venezuelan leader who helped lead several South American countries to independence from Spain in the early 19th century. The official language of Bolivia is Spanish. |
+| 39 | [Enfermedades Raras](http://twitter.com/search?q=Enfermedades+Raras) | N/A |
+| 40 | [Carioca](http://twitter.com/search?q=Carioca) | N/A |
+| 41 | [The World Is A Vampire](http://twitter.com/search?q=The+World+Is+A+Vampire) | N/A |
+| 42 | [#AgustD_SUGA_Tour](http://twitter.com/search?q=%23AgustD_SUGA_Tour) | N/A |
+| 43 | [#Chalco](http://twitter.com/search?q=%23Chalco) | N/A |
+| 44 | [#SquidcraftGames2](http://twitter.com/search?q=%23SquidcraftGames2) | N/A |
 
 
 

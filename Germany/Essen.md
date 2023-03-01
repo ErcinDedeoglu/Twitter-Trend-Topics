@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Essen
 
-📆 Last Updated: `2023-03-01 03:26:59 UTC`
+📆 Last Updated: `2023-03-01 04:16:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#hartaberfair](http://twitter.com/search?q=%23hartaberfair) | #hartaberfair is a German phrase that translates to "fair and square" or "just and fair". It is used to express the idea of fairness and justice in a situation. |
-| 2 | [#BETCrypto](http://twitter.com/search?q=%23BETCrypto) | N/A |
-| 3 | [#Lanz](http://twitter.com/search?q=%23Lanz) | N/A |
-| 4 | [#eFuels](http://twitter.com/search?q=%23eFuels) | N/A |
-| 5 | [Vergewaltigungen](http://twitter.com/search?q=Vergewaltigungen) | N/A |
+| 2 | [#BetCrypto](http://twitter.com/search?q=%23BetCrypto) | N/A |
+| 3 | [#eFuels](http://twitter.com/search?q=%23eFuels) | N/A |
+| 4 | [Vergewaltigungen](http://twitter.com/search?q=Vergewaltigungen) | N/A |
+| 5 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
 | 6 | [Moderator](http://twitter.com/search?q=Moderator) | N/A |
 | 7 | [Heizungen](http://twitter.com/search?q=Heizungen) | N/A |
 | 8 | [Meute](http://twitter.com/search?q=Meute) | N/A |
 | 9 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
-| 10 | [Kriegsverbrechen](http://twitter.com/search?q=Kriegsverbrechen) | N/A |
-| 11 | [Verbot](http://twitter.com/search?q=Verbot) | N/A |
-| 12 | [Nestle](http://twitter.com/search?q=Nestle) | N/A |
-| 13 | [Yfood](http://twitter.com/search?q=Yfood) | N/A |
-| 14 | [Wärmepumpen](http://twitter.com/search?q=W%c3%a4rmepumpen) | N/A |
+| 10 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
+| 11 | [Kriegsverbrechen](http://twitter.com/search?q=Kriegsverbrechen) | N/A |
+| 12 | [wärmepumpe](http://twitter.com/search?q=w%c3%a4rmepumpe) | N/A |
+| 13 | [Verbot](http://twitter.com/search?q=Verbot) | N/A |
+| 14 | [Yfood](http://twitter.com/search?q=Yfood) | N/A |
 | 15 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
-| 16 | [Seenotrettung](http://twitter.com/search?q=Seenotrettung) | N/A |
+| 16 | [Nestle](http://twitter.com/search?q=Nestle) | N/A |
 | 17 | [Senioren](http://twitter.com/search?q=Senioren) | N/A |
-| 18 | [Strom](http://twitter.com/search?q=Strom) | N/A |
-| 19 | [Boris Johnson](http://twitter.com/search?q=Boris+Johnson) | N/A |
-| 20 | [Ankerkraut](http://twitter.com/search?q=Ankerkraut) | N/A |
-| 21 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 22 | [GIVE US WN BLOOPERS](http://twitter.com/search?q=GIVE+US+WN+BLOOPERS) | N/A |
+| 18 | [Seenotrettung](http://twitter.com/search?q=Seenotrettung) | N/A |
+| 19 | [Strom](http://twitter.com/search?q=Strom) | N/A |
+| 20 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 21 | [GIVE US WN BLOOPERS](http://twitter.com/search?q=GIVE+US+WN+BLOOPERS) | N/A |
+| 22 | [Boris Johnson](http://twitter.com/search?q=Boris+Johnson) | N/A |
 | 23 | [GroKo](http://twitter.com/search?q=GroKo) | N/A |
-| 24 | [Kraftstoffe](http://twitter.com/search?q=Kraftstoffe) | N/A |
-| 25 | [Einbau](http://twitter.com/search?q=Einbau) | N/A |
+| 24 | [schönen dienstag](http://twitter.com/search?q=sch%c3%b6nen+dienstag) | N/A |
+| 25 | [Ankerkraut](http://twitter.com/search?q=Ankerkraut) | N/A |
 | 26 | [Bundesrat](http://twitter.com/search?q=Bundesrat) | N/A |
-| 27 | [polarlichter](http://twitter.com/search?q=polarlichter) | N/A |
-| 28 | [Elden Ring DLC](http://twitter.com/search?q=Elden+Ring+DLC) | N/A |
-| 29 | [schönen dienstag](http://twitter.com/search?q=sch%c3%b6nen+dienstag) | N/A |
-| 30 | [Reschke](http://twitter.com/search?q=Reschke) | N/A |
-| 31 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
-| 32 | [Frank Thelen](http://twitter.com/search?q=Frank+Thelen) | N/A |
-| 33 | [Ernährung](http://twitter.com/search?q=Ern%c3%a4hrung) | N/A |
-| 34 | [bestandsflotte](http://twitter.com/search?q=bestandsflotte) | N/A |
-| 35 | [Zimmermann](http://twitter.com/search?q=Zimmermann) | N/A |
-| 36 | [Prantl](http://twitter.com/search?q=Prantl) | N/A |
-| 37 | [start in die woche](http://twitter.com/search?q=start+in+die+woche) | N/A |
-| 38 | [Süßigkeiten](http://twitter.com/search?q=S%c3%bc%c3%9figkeiten) | N/A |
-| 39 | [Koalitionsvertrag](http://twitter.com/search?q=Koalitionsvertrag) | N/A |
-| 40 | [Neubauten](http://twitter.com/search?q=Neubauten) | N/A |
-| 41 | [Happy 28th](http://twitter.com/search?q=Happy+28th) | N/A |
-| 42 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
-| 43 | [Teil des Krieges](http://twitter.com/search?q=Teil+des+Krieges) | N/A |
-| 44 | [heizkörper](http://twitter.com/search?q=heizk%c3%b6rper) | N/A |
-| 45 | [Nagel](http://twitter.com/search?q=Nagel) | N/A |
-| 46 | [Berliner SPD](http://twitter.com/search?q=Berliner+SPD) | N/A |
-| 47 | [Lebensmittel](http://twitter.com/search?q=Lebensmittel) | N/A |
-| 48 | [trinkgeld](http://twitter.com/search?q=trinkgeld) | N/A |
-| 49 | [Fernwärme](http://twitter.com/search?q=Fernw%c3%a4rme) | N/A |
+| 27 | [kraftstoffe](http://twitter.com/search?q=kraftstoffe) | N/A |
+| 28 | [Einbau](http://twitter.com/search?q=Einbau) | N/A |
+| 29 | [polarlichter](http://twitter.com/search?q=polarlichter) | N/A |
+| 30 | [bestandsflotte](http://twitter.com/search?q=bestandsflotte) | N/A |
+| 31 | [Ernährung](http://twitter.com/search?q=Ern%c3%a4hrung) | N/A |
+| 32 | [start in die woche](http://twitter.com/search?q=start+in+die+woche) | N/A |
+| 33 | [Reschke](http://twitter.com/search?q=Reschke) | N/A |
+| 34 | [Prantl](http://twitter.com/search?q=Prantl) | N/A |
+| 35 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
+| 36 | [Zimmermann](http://twitter.com/search?q=Zimmermann) | N/A |
+| 37 | [Berliner SPD](http://twitter.com/search?q=Berliner+SPD) | N/A |
+| 38 | [koalition mit der cdu](http://twitter.com/search?q=koalition+mit+der+cdu) | N/A |
+| 39 | [trinkgeld](http://twitter.com/search?q=trinkgeld) | N/A |
+| 40 | [Süßigkeiten](http://twitter.com/search?q=S%c3%bc%c3%9figkeiten) | N/A |
+| 41 | [teil des krieges](http://twitter.com/search?q=teil+des+krieges) | N/A |
+| 42 | [heizkörper](http://twitter.com/search?q=heizk%c3%b6rper) | N/A |
+| 43 | [Elden Ring DLC](http://twitter.com/search?q=Elden+Ring+DLC) | N/A |
+| 44 | [Fernwärme](http://twitter.com/search?q=Fernw%c3%a4rme) | N/A |
+| 45 | [Frank Thelen](http://twitter.com/search?q=Frank+Thelen) | N/A |
+| 46 | [Neubauten](http://twitter.com/search?q=Neubauten) | N/A |
+| 47 | [Nagel](http://twitter.com/search?q=Nagel) | N/A |
+| 48 | [Kirche](http://twitter.com/search?q=Kirche) | N/A |
+| 49 | [autohersteller](http://twitter.com/search?q=autohersteller) | N/A |
 
 
 

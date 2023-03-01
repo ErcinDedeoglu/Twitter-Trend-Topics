@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Jose
 
-📆 Last Updated: `2023-03-01 03:27:31 UTC`
+📆 Last Updated: `2023-03-01 04:16:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#GoKingsGo](http://twitter.com/search?q=%23GoKingsGo) | N/A |
+| 1 | [Davion](http://twitter.com/search?q=Davion) | N/A |
 | 2 | [Delly](http://twitter.com/search?q=Delly) | N/A |
-| 3 | [#LAKings](http://twitter.com/search?q=%23LAKings) | N/A |
-| 4 | [Keegan](http://twitter.com/search?q=Keegan) | N/A |
-| 5 | [I GOT THE CODE](http://twitter.com/search?q=I+GOT+THE+CODE) | N/A |
-| 6 | [I GOT A CODE](http://twitter.com/search?q=I+GOT+A+CODE) | N/A |
-| 7 | [Vando](http://twitter.com/search?q=Vando) | N/A |
-| 8 | [Kai Cenat](http://twitter.com/search?q=Kai+Cenat) | Kai Cenat is a phrase in the language of the Garifuna people, an Afro-Caribbean ethnic group living in Central America. It translates to "Let's go" or "Let's get going" in English. |
-| 9 | [Chychrun](http://twitter.com/search?q=Chychrun) | N/A |
-| 10 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 11 | [Fentanyl](http://twitter.com/search?q=Fentanyl) | N/A |
-| 12 | [Peter Pan](http://twitter.com/search?q=Peter+Pan) | N/A |
-| 13 | [Black History Month](http://twitter.com/search?q=Black+History+Month) | N/A |
-| 14 | [MASH](http://twitter.com/search?q=MASH) | N/A |
-| 15 | [SCOTUS](http://twitter.com/search?q=SCOTUS) | SCOTUS is an acronym for the Supreme Court of the United States. It is the highest court in the United States and is responsible for interpreting and applying federal laws. |
-| 16 | [Marge](http://twitter.com/search?q=Marge) | N/A |
-| 17 | [#studentloanforgiveness](http://twitter.com/search?q=%23studentloanforgiveness) | N/A |
-| 18 | [Gaetz](http://twitter.com/search?q=Gaetz) | Gaetz is a surname of German origin. It is derived from the German word "Gatze" which means "goat". The name is most commonly found in the United States, Canada, and Germany. |
-| 19 | [Lori Lightfoot](http://twitter.com/search?q=Lori+Lightfoot) | N/A |
-| 20 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
-| 21 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
-| 22 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
-| 23 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
-| 24 | [Vallas](http://twitter.com/search?q=Vallas) | N/A |
-| 25 | [Lonnie](http://twitter.com/search?q=Lonnie) | N/A |
-| 26 | [Grizzlies](http://twitter.com/search?q=Grizzlies) | Grizzlies are a species of large brown bears native to North America. They are typically found in mountainous regions and can weigh up to 800 pounds. The name "grizzly" comes from the silver-tipped hairs on their fur, which give them a grizzled appearance. |
-| 27 | [Beetlejuice](http://twitter.com/search?q=Beetlejuice) | N/A |
-| 28 | [Orlov](http://twitter.com/search?q=Orlov) | N/A |
-| 29 | [Wray](http://twitter.com/search?q=Wray) | N/A |
-| 30 | [Brandon Johnson](http://twitter.com/search?q=Brandon+Johnson) | N/A |
-| 31 | [Troy Brown](http://twitter.com/search?q=Troy+Brown) | Troy Brown is a former American football wide receiver who played for the New England Patriots from 1993 to 2007. He was known for his versatility, playing multiple positions on offense and defense. In English, Troy Brown is a name associated with a former professional football player who was known for his versatility. |
-| 32 | [Reaves](http://twitter.com/search?q=Reaves) | Reaves is a surname of English origin. It is derived from the Old French word "reves," meaning "dreams." The name is thought to have been given to someone who was known for having prophetic dreams. |
-| 33 | [Jaren Jackson](http://twitter.com/search?q=Jaren+Jackson) | Jaren Jackson is a surname of English origin. It is derived from the Old English words "geard" (enclosure) and "sceaga" (wood). The name means "wooden enclosure". |
-| 34 | [Beal](http://twitter.com/search?q=Beal) | N/A |
-| 35 | [Mo Bamba](http://twitter.com/search?q=Mo+Bamba) | "Mo Bamba" is a song by American rapper Sheck Wes. The song is about Sheck Wes' hometown of Harlem, New York and his experiences growing up there. The title of the song is derived from the nickname of NBA player Mohamed Bamba, who was born in Harlem. In English, the phrase "Mo Bamba" can be interpreted to mean "My Harlem". |
-| 36 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
-| 37 | [Letang](http://twitter.com/search?q=Letang) | Letang is a surname of French origin. It is derived from the Old French word "letang" which means "marshy meadow". In English, it can be translated to mean "marshy meadow". |
-| 38 | [Jeremy Lin](http://twitter.com/search?q=Jeremy+Lin) | N/A |
-| 39 | [Kaner](http://twitter.com/search?q=Kaner) | N/A |
-| 40 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
-| 41 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
-| 42 | [Kopitar](http://twitter.com/search?q=Kopitar) | N/A |
-| 43 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
-| 44 | [Joiner](http://twitter.com/search?q=Joiner) | N/A |
-| 45 | [NC State](http://twitter.com/search?q=NC+State) | NC State is an abbreviation for North Carolina State University, a public research university located in Raleigh, North Carolina. It is one of the oldest public universities in the United States and is a member of the prestigious Association of American Universities. NC State offers over 300 undergraduate and graduate degree programs across 12 colleges and schools. |
-| 46 | [Eric Robinson](http://twitter.com/search?q=Eric+Robinson) | N/A |
-| 47 | [Zakai](http://twitter.com/search?q=Zakai) | N/A |
-| 48 | [Avon](http://twitter.com/search?q=Avon) | N/A |
-| 49 | [Mike Woodson](http://twitter.com/search?q=Mike+Woodson) | N/A |
+| 3 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
+| 4 | [#Lakers](http://twitter.com/search?q=%23Lakers) | N/A |
+| 5 | [Keegan](http://twitter.com/search?q=Keegan) | N/A |
+| 6 | [I GOT THE CODE](http://twitter.com/search?q=I+GOT+THE+CODE) | N/A |
+| 7 | [Greece](http://twitter.com/search?q=Greece) | N/A |
+| 8 | [Marcus Morris](http://twitter.com/search?q=Marcus+Morris) | N/A |
+| 9 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
+| 10 | [Vando](http://twitter.com/search?q=Vando) | N/A |
+| 11 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 12 | [Chychrun](http://twitter.com/search?q=Chychrun) | N/A |
+| 13 | [MASH](http://twitter.com/search?q=MASH) | N/A |
+| 14 | [Fentanyl](http://twitter.com/search?q=Fentanyl) | N/A |
+| 15 | [Peter Pan](http://twitter.com/search?q=Peter+Pan) | N/A |
+| 16 | [Boebert](http://twitter.com/search?q=Boebert) | Boebert is a nickname for Lauren Boebert, an American politician and gun rights activist from Colorado. She is a member of the Republican Party and was elected to the United States House of Representatives in 2020. The name is derived from her last name, Boebert. |
+| 17 | [#BeyondFast](http://twitter.com/search?q=%23BeyondFast) | #BeyondFast is a hashtag used to describe something that goes beyond the speed of fast. It is used to emphasize the idea that something is faster than fast, or that it surpasses the speed of fast. |
+| 18 | [SCOTUS](http://twitter.com/search?q=SCOTUS) | SCOTUS is an acronym for the Supreme Court of the United States. It is the highest court in the United States and is responsible for interpreting and applying federal laws. |
+| 19 | [Marge](http://twitter.com/search?q=Marge) | N/A |
+| 20 | [#studentloanforgiveness](http://twitter.com/search?q=%23studentloanforgiveness) | N/A |
+| 21 | [Gaetz](http://twitter.com/search?q=Gaetz) | Gaetz is a surname of German origin. It is derived from the German word "Gatze" which means "goat". The name is most commonly found in the United States, Canada, and Germany. |
+| 22 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
+| 23 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
+| 24 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 25 | [Vallas](http://twitter.com/search?q=Vallas) | N/A |
+| 26 | [Beetlejuice](http://twitter.com/search?q=Beetlejuice) | N/A |
+| 27 | [Pacers](http://twitter.com/search?q=Pacers) | Pacers are a type of horse used for riding, racing, and other activities. The term is derived from the Latin word pacare, which means "to lead or guide." Pacers are known for their smooth gait and ability to maintain a steady pace over long distances. |
+| 28 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
+| 29 | [Jimmy Dykes](http://twitter.com/search?q=Jimmy+Dykes) | N/A |
+| 30 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
+| 31 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
+| 32 | [Grizzlies](http://twitter.com/search?q=Grizzlies) | Grizzlies are a species of large brown bears native to North America. They are typically found in mountainous regions and can weigh up to 800 pounds. The name "grizzly" comes from the silver-tipped hairs on their fur, which give them a grizzled appearance. |
+| 33 | [Wray](http://twitter.com/search?q=Wray) | N/A |
+| 34 | [Lonnie](http://twitter.com/search?q=Lonnie) | N/A |
+| 35 | [Orlov](http://twitter.com/search?q=Orlov) | N/A |
+| 36 | [Jason Kidd](http://twitter.com/search?q=Jason+Kidd) | Jason Kidd is an American former professional basketball player and current head coach of the Milwaukee Bucks. He is considered one of the greatest point guards of all time, winning an NBA Championship in 2011 with the Dallas Mavericks and being a 10-time NBA All-Star. He was also a two-time Olympic gold medalist and was inducted into the Basketball Hall of Fame in 2018. |
+| 37 | [Jeremy Lin](http://twitter.com/search?q=Jeremy+Lin) | N/A |
+| 38 | [Max Rice](http://twitter.com/search?q=Max+Rice) | N/A |
+| 39 | [Jaren Jackson](http://twitter.com/search?q=Jaren+Jackson) | Jaren Jackson is a surname of English origin. It is derived from the Old English words "geard" (enclosure) and "sceaga" (wood). The name means "wooden enclosure". |
+| 40 | [Kevin McCullar](http://twitter.com/search?q=Kevin+McCullar) | N/A |
+| 41 | [Troy Brown](http://twitter.com/search?q=Troy+Brown) | Troy Brown is a former American football wide receiver who played for the New England Patriots from 1993 to 2007. He was known for his versatility, playing multiple positions on offense and defense. In English, Troy Brown is a name associated with a former professional football player who was known for his versatility. |
+| 42 | [Muss](http://twitter.com/search?q=Muss) | N/A |
+| 43 | [Beal](http://twitter.com/search?q=Beal) | N/A |
+| 44 | [Mo Bamba](http://twitter.com/search?q=Mo+Bamba) | "Mo Bamba" is a song by American rapper Sheck Wes. The song is about Sheck Wes' hometown of Harlem, New York and his experiences growing up there. The title of the song is derived from the nickname of NBA player Mohamed Bamba, who was born in Harlem. In English, the phrase "Mo Bamba" can be interpreted to mean "My Harlem". |
+| 45 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
+| 46 | [Letang](http://twitter.com/search?q=Letang) | Letang is a surname of French origin. It is derived from the Old French word "letang" which means "marshy meadow". In English, it can be translated to mean "marshy meadow". |
+| 47 | [Reaves](http://twitter.com/search?q=Reaves) | Reaves is a surname of English origin. It is derived from the Old French word "reves," meaning "dreams." The name is thought to have been given to someone who was known for having prophetic dreams. |
+| 48 | [Kopitar](http://twitter.com/search?q=Kopitar) | N/A |
+| 49 | [Mavericks](http://twitter.com/search?q=Mavericks) | Mavericks is a term used to describe an independent-minded person who does not conform to the norms of society. It is often used to describe someone who is willing to take risks and challenge the status quo. |
 
 
 

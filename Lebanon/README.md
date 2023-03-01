@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lebanon
 
-📆 Last Updated: `2023-03-01 03:27:36 UTC`
+📆 Last Updated: `2023-03-01 04:17:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Lebanon
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [الدولار الجمركي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d9%84%d8%a7%d8%b1+%d8%a7%d9%84%d8%ac%d9%85%d8%b1%d9%83%d9%8a) | N/A |
-| 2 | [عباس ابراهيم](http://twitter.com/search?q=%d8%b9%d8%a8%d8%a7%d8%b3+%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85) | N/A |
-| 3 | [#شهداء_سراقب](http://twitter.com/search?q=%23%d8%b4%d9%87%d8%af%d8%a7%d8%a1_%d8%b3%d8%b1%d8%a7%d9%82%d8%a8) | N/A |
-| 4 | [وزير الاقتصاد](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%a7%d9%82%d8%aa%d8%b5%d8%a7%d8%af) | N/A |
-| 5 | [#سيده_النجاه](http://twitter.com/search?q=%23%d8%b3%d9%8a%d8%af%d9%87_%d8%a7%d9%84%d9%86%d8%ac%d8%a7%d9%87) | N/A |
-| 6 | [جبل محسن](http://twitter.com/search?q=%d8%ac%d8%a8%d9%84+%d9%85%d8%ad%d8%b3%d9%86) | N/A |
-| 7 | [#المحروقات](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%85%d8%ad%d8%b1%d9%88%d9%82%d8%a7%d8%aa) | N/A |
+| 2 | [#صباح_الخيرᅠ](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1%e1%85%a0) | #صباح_الخيرᅠ is an Arabic phrase meaning "Good Morning". |
+| 3 | [عباس ابراهيم](http://twitter.com/search?q=%d8%b9%d8%a8%d8%a7%d8%b3+%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85) | N/A |
+| 4 | [#شهداء_سراقب](http://twitter.com/search?q=%23%d8%b4%d9%87%d8%af%d8%a7%d8%a1_%d8%b3%d8%b1%d8%a7%d9%82%d8%a8) | N/A |
+| 5 | [وزير الاقتصاد](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%a7%d9%82%d8%aa%d8%b5%d8%a7%d8%af) | N/A |
+| 6 | [#سيده_النجاه](http://twitter.com/search?q=%23%d8%b3%d9%8a%d8%af%d9%87_%d8%a7%d9%84%d9%86%d8%ac%d8%a7%d9%87) | N/A |
+| 7 | [العام الدراسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%a7%d9%85+%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%8a) | N/A |
 | 8 | [#عرسال](http://twitter.com/search?q=%23%d8%b9%d8%b1%d8%b3%d8%a7%d9%84) | N/A |
-| 9 | [العام الدراسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%a7%d9%85+%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%8a) | N/A |
+| 9 | [جبل محسن](http://twitter.com/search?q=%d8%ac%d8%a8%d9%84+%d9%85%d8%ad%d8%b3%d9%86) | N/A |
 | 10 | [#بدنا_الحقيقه](http://twitter.com/search?q=%23%d8%a8%d8%af%d9%86%d8%a7_%d8%a7%d9%84%d8%ad%d9%82%d9%8a%d9%82%d9%87) | N/A |
-| 11 | [النيابه العامه التمييزيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d9%8a%d8%a7%d8%a8%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87+%d8%a7%d9%84%d8%aa%d9%85%d9%8a%d9%8a%d8%b2%d9%8a%d9%87) | N/A |
-| 12 | [السجل العدلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%ac%d9%84+%d8%a7%d9%84%d8%b9%d8%af%d9%84%d9%8a) | N/A |
-| 13 | [المولدات الخاصه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d9%84%d8%af%d8%a7%d8%aa+%d8%a7%d9%84%d8%ae%d8%a7%d8%b5%d9%87) | N/A |
-| 14 | [اللجان المشتركه](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d8%ac%d8%a7%d9%86+%d8%a7%d9%84%d9%85%d8%b4%d8%aa%d8%b1%d9%83%d9%87) | N/A |
-| 15 | [الضمان الالزامي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b6%d9%85%d8%a7%d9%86+%d8%a7%d9%84%d8%a7%d9%84%d8%b2%d8%a7%d9%85%d9%8a) | N/A |
-| 16 | [وزير التربيه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%aa%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
-| 17 | [مروان حمادة](http://twitter.com/search?q=%d9%85%d8%b1%d9%88%d8%a7%d9%86+%d8%ad%d9%85%d8%a7%d8%af%d8%a9) | N/A |
-| 18 | [زياد حواط](http://twitter.com/search?q=%d8%b2%d9%8a%d8%a7%d8%af+%d8%ad%d9%88%d8%a7%d8%b7) | N/A |
-| 19 | [المواد الغذاييه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%a7%d8%af+%d8%a7%d9%84%d8%ba%d8%b0%d8%a7%d9%8a%d9%8a%d9%87) | N/A |
-| 20 | [البنك الدولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%86%d9%83+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a) | N/A |
-| 21 | [الوكاله الوطنيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%83%d8%a7%d9%84%d9%87+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a%d9%87) | N/A |
-| 22 | [ميشال مخول](http://twitter.com/search?q=%d9%85%d9%8a%d8%b4%d8%a7%d9%84+%d9%85%d8%ae%d9%88%d9%84) | N/A |
-| 23 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 24 | [المدير العام](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%af%d9%8a%d8%b1+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
-| 25 | [وزير الماليه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a%d9%87) | N/A |
-| 26 | [القطاع العام](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b7%d8%a7%d8%b9+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
-| 27 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
-| 28 | [وزارة المالية](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a%d8%a9) | N/A |
-| 29 | [نداء الوطن](http://twitter.com/search?q=%d9%86%d8%af%d8%a7%d8%a1+%d8%a7%d9%84%d9%88%d8%b7%d9%86) | N/A |
-| 30 | [الأمم المتحدة](http://twitter.com/search?q=%d8%a7%d9%84%d8%a3%d9%85%d9%85+%d8%a7%d9%84%d9%85%d8%aa%d8%ad%d8%af%d8%a9) | N/A |
-| 31 | [ذكري تفجير](http://twitter.com/search?q=%d8%b0%d9%83%d8%b1%d9%8a+%d8%aa%d9%81%d8%ac%d9%8a%d8%b1) | N/A |
-| 32 | [علي الاطلاق](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a7%d8%b7%d9%84%d8%a7%d9%82) | N/A |
-| 33 | [صندوق النقد الدولي](http://twitter.com/search?q=%d8%b5%d9%86%d8%af%d9%88%d9%82+%d8%a7%d9%84%d9%86%d9%82%d8%af+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a) | N/A |
-| 34 | [تلفزيون لبنان](http://twitter.com/search?q=%d8%aa%d9%84%d9%81%d8%b2%d9%8a%d9%88%d9%86+%d9%84%d8%a8%d9%86%d8%a7%d9%86) | N/A |
-| 35 | [شهر شباط](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%b4%d8%a8%d8%a7%d8%b7) | N/A |
-| 36 | [فلسطين](http://twitter.com/search?q=%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86) | فلسطين (Palestine) is a region in the Middle East that is considered to be the ancestral homeland of the Palestinian people. It is bordered by Israel, Jordan, and Egypt. In English, Palestine means "Land of the Philistines". |
-| 37 | [Israeli](http://twitter.com/search?q=Israeli) | N/A |
-| 38 | [بنزيما](http://twitter.com/search?q=%d8%a8%d9%86%d8%b2%d9%8a%d9%85%d8%a7) | بنزيما (benzema) is a surname of Arabic origin. It is derived from the Arabic word "bin zamān" which means "son of time". In English, it can be translated to mean "son of time". |
-| 39 | [لبنان علي](http://twitter.com/search?q=%d9%84%d8%a8%d9%86%d8%a7%d9%86+%d8%b9%d9%84%d9%8a) | N/A |
-| 40 | [علي الخاص](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ae%d8%a7%d8%b5) | N/A |
-| 41 | [الحضن العربي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%b6%d9%86+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a) | N/A |
-| 42 | [الرييس الاسد](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%a7%d8%b3%d8%af) | N/A |
-| 43 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
-| 44 | [رييس مجلس نواب](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d9%85%d8%ac%d9%84%d8%b3+%d9%86%d9%88%d8%a7%d8%a8) | N/A |
-| 45 | [القاضيه الشريفه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%a7%d8%b6%d9%8a%d9%87+%d8%a7%d9%84%d8%b4%d8%b1%d9%8a%d9%81%d9%87) | N/A |
-| 46 | [مجلس النواب](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d9%86%d9%88%d8%a7%d8%a8) | N/A |
-| 47 | [الضفه الغربيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b6%d9%81%d9%87+%d8%a7%d9%84%d8%ba%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
-| 48 | [وزير الاعلام](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d8%a7%d9%85) | N/A |
-| 49 | [الاتحاد](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af) | الاتحاد is an Arabic word meaning "union" or "alliance" in English. It is often used to refer to a political union or alliance between two or more countries, organizations, or groups. |
-| 50 | [جبل لبنان](http://twitter.com/search?q=%d8%ac%d8%a8%d9%84+%d9%84%d8%a8%d9%86%d8%a7%d9%86) | N/A |
+| 11 | [السجل العدلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%ac%d9%84+%d8%a7%d9%84%d8%b9%d8%af%d9%84%d9%8a) | N/A |
+| 12 | [اللجان المشتركه](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d8%ac%d8%a7%d9%86+%d8%a7%d9%84%d9%85%d8%b4%d8%aa%d8%b1%d9%83%d9%87) | N/A |
+| 13 | [البنك الدولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%86%d9%83+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a) | N/A |
+| 14 | [وزير التربيه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%aa%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
+| 15 | [زياد حواط](http://twitter.com/search?q=%d8%b2%d9%8a%d8%a7%d8%af+%d8%ad%d9%88%d8%a7%d8%b7) | N/A |
+| 16 | [الوكاله الوطنيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%83%d8%a7%d9%84%d9%87+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a%d9%87) | N/A |
+| 17 | [وزير المال](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d8%a7%d9%84) | N/A |
+| 18 | [مروان حماده](http://twitter.com/search?q=%d9%85%d8%b1%d9%88%d8%a7%d9%86+%d8%ad%d9%85%d8%a7%d8%af%d9%87) | N/A |
+| 19 | [ميشال مخول](http://twitter.com/search?q=%d9%85%d9%8a%d8%b4%d8%a7%d9%84+%d9%85%d8%ae%d9%88%d9%84) | N/A |
+| 20 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 21 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
+| 22 | [وزارة المالية](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a%d8%a9) | N/A |
+| 23 | [المدير العام](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%af%d9%8a%d8%b1+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
+| 24 | [القطاع العام](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b7%d8%a7%d8%b9+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
+| 25 | [الأمم المتحدة](http://twitter.com/search?q=%d8%a7%d9%84%d8%a3%d9%85%d9%85+%d8%a7%d9%84%d9%85%d8%aa%d8%ad%d8%af%d8%a9) | N/A |
+| 26 | [النيابه العامه التمييزيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d9%8a%d8%a7%d8%a8%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87+%d8%a7%d9%84%d8%aa%d9%85%d9%8a%d9%8a%d8%b2%d9%8a%d9%87) | N/A |
+| 27 | [تلفزيون لبنان](http://twitter.com/search?q=%d8%aa%d9%84%d9%81%d8%b2%d9%8a%d9%88%d9%86+%d9%84%d8%a8%d9%86%d8%a7%d9%86) | N/A |
+| 28 | [نداء الوطن](http://twitter.com/search?q=%d9%86%d8%af%d8%a7%d8%a1+%d8%a7%d9%84%d9%88%d8%b7%d9%86) | N/A |
+| 29 | [صندوق النقد الدولي](http://twitter.com/search?q=%d8%b5%d9%86%d8%af%d9%88%d9%82+%d8%a7%d9%84%d9%86%d9%82%d8%af+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a) | N/A |
+| 30 | [ذكري تفجير](http://twitter.com/search?q=%d8%b0%d9%83%d8%b1%d9%8a+%d8%aa%d9%81%d8%ac%d9%8a%d8%b1) | N/A |
+| 31 | [علي الاطلاق](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a7%d8%b7%d9%84%d8%a7%d9%82) | N/A |
+| 32 | [Israeli](http://twitter.com/search?q=Israeli) | N/A |
+| 33 | [علي الخاص](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ae%d8%a7%d8%b5) | N/A |
+| 34 | [لبنان علي](http://twitter.com/search?q=%d9%84%d8%a8%d9%86%d8%a7%d9%86+%d8%b9%d9%84%d9%8a) | N/A |
+| 35 | [بنزيما](http://twitter.com/search?q=%d8%a8%d9%86%d8%b2%d9%8a%d9%85%d8%a7) | بنزيما (benzema) is a surname of Arabic origin. It is derived from the Arabic word "bin zamān" which means "son of time". In English, it can be translated to mean "son of time". |
+| 36 | [الضفه الغربيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b6%d9%81%d9%87+%d8%a7%d9%84%d8%ba%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
+| 37 | [فلسطين](http://twitter.com/search?q=%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86) | فلسطين (Palestine) is a region in the Middle East that is considered to be the ancestral homeland of the Palestinian people. It is bordered by Israel, Jordan, and Egypt. In English, Palestine means "Land of the Philistines". |
+| 38 | [حسان دياب](http://twitter.com/search?q=%d8%ad%d8%b3%d8%a7%d9%86+%d8%af%d9%8a%d8%a7%d8%a8) | N/A |
+| 39 | [وزير الاعلام](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d8%a7%d9%85) | N/A |
+| 40 | [الرييس الاسد](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%a7%d8%b3%d8%af) | N/A |
+| 41 | [مجلس النواب](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d9%86%d9%88%d8%a7%d8%a8) | N/A |
+| 42 | [عدنان](http://twitter.com/search?q=%d8%b9%d8%af%d9%86%d8%a7%d9%86) | N/A |
+| 43 | [مجلس الوزراء](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1) | N/A |
+| 44 | [وزير الخارجيه السعودي](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
+| 45 | [رييس مجلس نواب](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d9%85%d8%ac%d9%84%d8%b3+%d9%86%d9%88%d8%a7%d8%a8) | N/A |
+| 46 | [الجيش اللبناني](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%8a%d8%b4+%d8%a7%d9%84%d9%84%d8%a8%d9%86%d8%a7%d9%86%d9%8a) | N/A |
+| 47 | [طوني](http://twitter.com/search?q=%d8%b7%d9%88%d9%86%d9%8a) | N/A |
+| 48 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
+| 49 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 50 | [٨ اذار](http://twitter.com/search?q=%d9%a8+%d8%a7%d8%b0%d8%a7%d8%b1) | N/A |
 
 
 

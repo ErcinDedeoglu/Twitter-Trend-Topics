@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jakarta
 
-📆 Last Updated: `2023-03-01 03:27:05 UTC`
+📆 Last Updated: `2023-03-01 04:16:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Indonesia](</Indonesia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [bapak prabowo subianto](http://twitter.com/search?q=bapak+prabowo+subianto) | N/A |
-| 2 | [Maret](http://twitter.com/search?q=Maret) | N/A |
-| 3 | [temukan di dekade 08](http://twitter.com/search?q=temukan+di+dekade+08) | N/A |
-| 4 | [#BLK2023](http://twitter.com/search?q=%23BLK2023) | N/A |
-| 5 | [prabowo utamakan persatuan](http://twitter.com/search?q=prabowo+utamakan+persatuan) | N/A |
-| 6 | [#Zeemoversary4](http://twitter.com/search?q=%23Zeemoversary4) | N/A |
-| 7 | [iyabetul mending prabowo](http://twitter.com/search?q=iyabetul+mending+prabowo) | N/A |
+| 2 | [temukan di dekade 08](http://twitter.com/search?q=temukan+di+dekade+08) | N/A |
+| 3 | [iyabetul mending prabowo](http://twitter.com/search?q=iyabetul+mending+prabowo) | N/A |
+| 4 | [prabowo utamakan persatuan](http://twitter.com/search?q=prabowo+utamakan+persatuan) | N/A |
+| 5 | [Maret](http://twitter.com/search?q=Maret) | N/A |
+| 6 | [#BLK2023](http://twitter.com/search?q=%23BLK2023) | N/A |
+| 7 | [#Zeemoversary4](http://twitter.com/search?q=%23Zeemoversary4) | N/A |
 | 8 | [#JISOOxDiorAW23](http://twitter.com/search?q=%23JISOOxDiorAW23) | N/A |
-| 9 | [Chimmie](http://twitter.com/search?q=Chimmie) | N/A |
-| 10 | [LEE JENO THANK YOU](http://twitter.com/search?q=LEE+JENO+THANK+YOU) | N/A |
-| 11 | [Prabowo Sang Patriot](http://twitter.com/search?q=Prabowo+Sang+Patriot) | N/A |
-| 12 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 13 | [lazbeauty mua masterclass](http://twitter.com/search?q=lazbeauty+mua+masterclass) | N/A |
-| 14 | [Tinkerbell](http://twitter.com/search?q=Tinkerbell) | N/A |
-| 15 | [Mengangkat](http://twitter.com/search?q=Mengangkat) | N/A |
-| 16 | [NINGNING FOR VOGUEPLUS](http://twitter.com/search?q=NINGNING+FOR+VOGUEPLUS) | N/A |
-| 17 | [ROVER IS COMING](http://twitter.com/search?q=ROVER+IS+COMING) | N/A |
-| 18 | [Semangat Bangkitkan Umat](http://twitter.com/search?q=Semangat+Bangkitkan+Umat) | N/A |
-| 19 | [Februari](http://twitter.com/search?q=Februari) | Februari is the second month of the year in the Gregorian calendar. In English, it is spelled February. |
-| 20 | [Jam 5](http://twitter.com/search?q=Jam+5) | N/A |
-| 21 | [Alkohol 96%](http://twitter.com/search?q=Alkohol+96%25) | N/A |
-| 22 | [make up artis](http://twitter.com/search?q=make+up+artis) | N/A |
-| 23 | [Formula E](http://twitter.com/search?q=Formula+E) | N/A |
-| 24 | [Paket Indomie](http://twitter.com/search?q=Paket+Indomie) | N/A |
-| 25 | [PBSI](http://twitter.com/search?q=PBSI) | N/A |
-| 26 | [huang renjun thank you](http://twitter.com/search?q=huang+renjun+thank+you) | N/A |
+| 9 | [TOGETHER FOR BUILD](http://twitter.com/search?q=TOGETHER+FOR+BUILD) | N/A |
+| 10 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 11 | [lazbeauty mua masterclass](http://twitter.com/search?q=lazbeauty+mua+masterclass) | N/A |
+| 12 | [Formula E](http://twitter.com/search?q=Formula+E) | N/A |
+| 13 | [Mengangkat](http://twitter.com/search?q=Mengangkat) | N/A |
+| 14 | [LEE JENO THANK YOU](http://twitter.com/search?q=LEE+JENO+THANK+YOU) | N/A |
+| 15 | [Chimmie](http://twitter.com/search?q=Chimmie) | N/A |
+| 16 | [Jam 5](http://twitter.com/search?q=Jam+5) | N/A |
+| 17 | [Alkohol 96%](http://twitter.com/search?q=Alkohol+96%25) | N/A |
+| 18 | [make up artis](http://twitter.com/search?q=make+up+artis) | N/A |
+| 19 | [Paket Indomie](http://twitter.com/search?q=Paket+Indomie) | N/A |
+| 20 | [Februari](http://twitter.com/search?q=Februari) | Februari is the second month of the year in the Gregorian calendar. In English, it is spelled February. |
+| 21 | [Kontra](http://twitter.com/search?q=Kontra) | Kontra is a German word meaning "against" or "contrary to". It is often used in the context of politics, where it implies opposition to a particular policy or action. |
+| 22 | [huang renjun thank you](http://twitter.com/search?q=huang+renjun+thank+you) | N/A |
+| 23 | [Garpitnya Ariel Tatum](http://twitter.com/search?q=Garpitnya+Ariel+Tatum) | N/A |
+| 24 | [PBSI](http://twitter.com/search?q=PBSI) | N/A |
+| 25 | [Indra Bekti](http://twitter.com/search?q=Indra+Bekti) | N/A |
+| 26 | [marline hariman](http://twitter.com/search?q=marline+hariman) | N/A |
 | 27 | [Rabu](http://twitter.com/search?q=Rabu) | N/A |
-| 28 | [Garpitnya Ariel Tatum](http://twitter.com/search?q=Garpitnya+Ariel+Tatum) | N/A |
-| 29 | [Indra Bekti](http://twitter.com/search?q=Indra+Bekti) | N/A |
-| 30 | [marline hariman](http://twitter.com/search?q=marline+hariman) | N/A |
-| 31 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
-| 32 | [PH SCAMMER](http://twitter.com/search?q=PH+SCAMMER) | N/A |
-| 33 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
-| 34 | [ryan ogilvy](http://twitter.com/search?q=ryan+ogilvy) | N/A |
-| 35 | [bubah alfian](http://twitter.com/search?q=bubah+alfian) | N/A |
-| 36 | [Stranger Things](http://twitter.com/search?q=Stranger+Things) | N/A |
-| 37 | [Modern Family](http://twitter.com/search?q=Modern+Family) | Modern Family is an American television mockumentary sitcom created by Christopher Lloyd and Steven Levitan for the ABC network. It follows the lives of three related families, the Pritchetts, Dunphys, and Tuckers, who all live in Los Angeles. The show focuses on the characters' relationships with each other and their attempts to navigate modern life. The title of the show is a reference to the changing nature of family life in today's society. |
-| 38 | [Vario](http://twitter.com/search?q=Vario) | N/A |
-| 39 | [Okin](http://twitter.com/search?q=Okin) | N/A |
-| 40 | [SECRET NUMBER JAPAN DEBUT](http://twitter.com/search?q=SECRET+NUMBER+JAPAN+DEBUT) | N/A |
-| 41 | [3,5 Jt](http://twitter.com/search?q=3%2c5+Jt) | N/A |
-| 42 | [perjalanan sebuah mahakarya](http://twitter.com/search?q=perjalanan+sebuah+mahakarya) | N/A |
-| 43 | [kerja wamenhan m herindra](http://twitter.com/search?q=kerja+wamenhan+m+herindra) | N/A |
-| 44 | [loyal - beri terbaik](http://twitter.com/search?q=loyal+-+beri+terbaik) | N/A |
-| 45 | [jadi penyeru kebenaran](http://twitter.com/search?q=jadi+penyeru+kebenaran) | N/A |
-| 46 | [Vidi](http://twitter.com/search?q=Vidi) | N/A |
-| 47 | [Mbanking BCA](http://twitter.com/search?q=Mbanking+BCA) | N/A |
-| 48 | [ILYY](http://twitter.com/search?q=ILYY) | N/A |
+| 28 | [Ruhut Armando](http://twitter.com/search?q=Ruhut+Armando) | N/A |
+| 29 | [ROVER IS COMING](http://twitter.com/search?q=ROVER+IS+COMING) | N/A |
+| 30 | [bubah alfian](http://twitter.com/search?q=bubah+alfian) | N/A |
+| 31 | [ryan ogilvy](http://twitter.com/search?q=ryan+ogilvy) | N/A |
+| 32 | [Tinkerbell](http://twitter.com/search?q=Tinkerbell) | N/A |
+| 33 | [PH SCAMMER](http://twitter.com/search?q=PH+SCAMMER) | N/A |
+| 34 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
+| 35 | [SECRET NUMBER JAPAN DEBUT](http://twitter.com/search?q=SECRET+NUMBER+JAPAN+DEBUT) | N/A |
+| 36 | [Vario](http://twitter.com/search?q=Vario) | N/A |
+| 37 | [perjalanan sebuah mahakarya](http://twitter.com/search?q=perjalanan+sebuah+mahakarya) | N/A |
+| 38 | [Okin](http://twitter.com/search?q=Okin) | N/A |
+| 39 | [Semangat Bangkitkan Umat](http://twitter.com/search?q=Semangat+Bangkitkan+Umat) | N/A |
+| 40 | [kerja wamenhan m herindra](http://twitter.com/search?q=kerja+wamenhan+m+herindra) | N/A |
+| 41 | [loyal - beri terbaik](http://twitter.com/search?q=loyal+-+beri+terbaik) | N/A |
+| 42 | [jadi penyeru kebenaran](http://twitter.com/search?q=jadi+penyeru+kebenaran) | N/A |
+| 43 | [Stranger Things](http://twitter.com/search?q=Stranger+Things) | N/A |
+| 44 | [3,5 Jt](http://twitter.com/search?q=3%2c5+Jt) | N/A |
+| 45 | [Mbanking BCA](http://twitter.com/search?q=Mbanking+BCA) | N/A |
+| 46 | [Scoopy](http://twitter.com/search?q=Scoopy) | N/A |
+| 47 | [Heru](http://twitter.com/search?q=Heru) | N/A |
+| 48 | [Terry](http://twitter.com/search?q=Terry) | N/A |
 
 
 
