@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ho Chi Minh City
 
-📆 Last Updated: `2023-03-01 22:16:08 UTC`
+📆 Last Updated: `2023-03-01 23:16:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,46 +25,46 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 8 | [NEO BABY PASS](http://twitter.com/search?q=NEO+BABY+PASS) | N/A |
 | 9 | [#ROSÉCharmeEnSaintLaurent](http://twitter.com/search?q=%23ROS%c3%89CharmeEnSaintLaurent) | N/A |
 | 10 | [KORAIL RESPECT RM](http://twitter.com/search?q=KORAIL+RESPECT+RM) | N/A |
-| 11 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 12 | [tháng 3](http://twitter.com/search?q=th%c3%a1ng+3) | N/A |
+| 11 | [tháng 3](http://twitter.com/search?q=th%c3%a1ng+3) | N/A |
+| 12 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
 | 13 | [pika](http://twitter.com/search?q=pika) | N/A |
 | 14 | [character dao](http://twitter.com/search?q=character+dao) | N/A |
 | 15 | [TRẢ HỘP KIM CHI CHO TAETAE](http://twitter.com/search?q=TR%e1%ba%a2+H%e1%bb%98P+KIM+CHI+CHO+TAETAE) | N/A |
 | 16 | [SIMINVEST AMBASSADOR V](http://twitter.com/search?q=SIMINVEST+AMBASSADOR+V) | N/A |
 | 17 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
 | 18 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 19 | [englot](http://twitter.com/search?q=englot) | N/A |
+| 19 | [Englot](http://twitter.com/search?q=Englot) | N/A |
 | 20 | [Chúc](http://twitter.com/search?q=Ch%c3%bac) | N/A |
-| 21 | [đỉnh](http://twitter.com/search?q=%c4%91%e1%bb%89nh) | N/A |
-| 22 | [căng](http://twitter.com/search?q=c%c4%83ng) | N/A |
-| 23 | [Goerli](http://twitter.com/search?q=Goerli) | N/A |
-| 24 | [Pump](http://twitter.com/search?q=Pump) | N/A |
-| 25 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
-| 26 | [RSVP'ed](http://twitter.com/search?q=RSVP%27ed) | N/A |
-| 27 | [Vtuber](http://twitter.com/search?q=Vtuber) | N/A |
-| 28 | [West](http://twitter.com/search?q=West) | N/A |
-| 29 | [park jisung model is back](http://twitter.com/search?q=park+jisung+model+is+back) | N/A |
-| 30 | [Babiu](http://twitter.com/search?q=Babiu) | N/A |
-| 31 | [NFT Aggregators](http://twitter.com/search?q=NFT+Aggregators) | N/A |
-| 32 | [BLUS](http://twitter.com/search?q=BLUS) | N/A |
-| 33 | [Jeff](http://twitter.com/search?q=Jeff) | N/A |
-| 34 | [jennie](http://twitter.com/search?q=jennie) | N/A |
-| 35 | [Aptos](http://twitter.com/search?q=Aptos) | N/A |
-| 36 | [Blockchain](http://twitter.com/search?q=Blockchain) | N/A |
-| 37 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
-| 38 | [sướng](http://twitter.com/search?q=s%c6%b0%e1%bb%9bng) | N/A |
-| 39 | [Core](http://twitter.com/search?q=Core) | N/A |
-| 40 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 41 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 42 | [Mark](http://twitter.com/search?q=Mark) | N/A |
-| 43 | [Queen](http://twitter.com/search?q=Queen) | N/A |
-| 44 | [Shanghai](http://twitter.com/search?q=Shanghai) | N/A |
-| 45 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
-| 46 | [Metaverse](http://twitter.com/search?q=Metaverse) | N/A |
-| 47 | [USDT](http://twitter.com/search?q=USDT) | N/A |
-| 48 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 49 | [Nghe](http://twitter.com/search?q=Nghe) | N/A |
-| 50 | [Paris Fashion Week](http://twitter.com/search?q=Paris+Fashion+Week) | N/A |
+| 21 | [West](http://twitter.com/search?q=West) | N/A |
+| 22 | [đỉnh](http://twitter.com/search?q=%c4%91%e1%bb%89nh) | N/A |
+| 23 | [căng](http://twitter.com/search?q=c%c4%83ng) | N/A |
+| 24 | [Goerli](http://twitter.com/search?q=Goerli) | N/A |
+| 25 | [Pump](http://twitter.com/search?q=Pump) | N/A |
+| 26 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
+| 27 | [RSVP'ed](http://twitter.com/search?q=RSVP%27ed) | N/A |
+| 28 | [Vtuber](http://twitter.com/search?q=Vtuber) | N/A |
+| 29 | [Ngon](http://twitter.com/search?q=Ngon) | N/A |
+| 30 | [park jisung model is back](http://twitter.com/search?q=park+jisung+model+is+back) | N/A |
+| 31 | [babiu](http://twitter.com/search?q=babiu) | N/A |
+| 32 | [NFT Aggregators](http://twitter.com/search?q=NFT+Aggregators) | N/A |
+| 33 | [BLUS](http://twitter.com/search?q=BLUS) | N/A |
+| 34 | [Jeff](http://twitter.com/search?q=Jeff) | N/A |
+| 35 | [jennie](http://twitter.com/search?q=jennie) | N/A |
+| 36 | [Aptos](http://twitter.com/search?q=Aptos) | N/A |
+| 37 | [Blockchain](http://twitter.com/search?q=Blockchain) | N/A |
+| 38 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
+| 39 | [Sướng](http://twitter.com/search?q=S%c6%b0%e1%bb%9bng) | N/A |
+| 40 | [Core](http://twitter.com/search?q=Core) | N/A |
+| 41 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 42 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 43 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
+| 44 | [Mark](http://twitter.com/search?q=Mark) | N/A |
+| 45 | [Queen](http://twitter.com/search?q=Queen) | N/A |
+| 46 | [Shanghai](http://twitter.com/search?q=Shanghai) | N/A |
+| 47 | [Metaverse](http://twitter.com/search?q=Metaverse) | N/A |
+| 48 | [USDT](http://twitter.com/search?q=USDT) | N/A |
+| 49 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 50 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
 
 
 

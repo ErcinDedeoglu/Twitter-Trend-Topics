@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tokyo
 
-📆 Last Updated: `2023-03-01 22:16:04 UTC`
+📆 Last Updated: `2023-03-01 23:16:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [ツイッター](http://twitter.com/search?q=%e3%83%84%e3%82%a4%e3%83%83%e3%82%bf%e3%83%bc) | ツイッター (Tsuitteru) is the Japanese word for Twitter, a popular social media platform. It is used to share short messages, photos, and videos with other users. The English translation of ツイッター is "Twitter". |
-| 2 | [フレッジ](http://twitter.com/search?q=%e3%83%95%e3%83%ac%e3%83%83%e3%82%b8) | N/A |
-| 3 | [#cozy1242](http://twitter.com/search?q=%23cozy1242) | N/A |
-| 4 | [FAカップ](http://twitter.com/search?q=FA%e3%82%ab%e3%83%83%e3%83%97) | N/A |
-| 5 | [ピカミィ](http://twitter.com/search?q=%e3%83%94%e3%82%ab%e3%83%9f%e3%82%a3) | N/A |
-| 6 | [#Paradise](http://twitter.com/search?q=%23Paradise) | N/A |
-| 7 | [#白スノ黒スノ](http://twitter.com/search?q=%23%e7%99%bd%e3%82%b9%e3%83%8e%e9%bb%92%e3%82%b9%e3%83%8e) | N/A |
-| 8 | [#NiziU_5thSingle](http://twitter.com/search?q=%23NiziU_5thSingle) | N/A |
+| 1 | [フレッジ](http://twitter.com/search?q=%e3%83%95%e3%83%ac%e3%83%83%e3%82%b8) | N/A |
+| 2 | [#Paradise](http://twitter.com/search?q=%23Paradise) | N/A |
+| 3 | [#TBSスタンバイ](http://twitter.com/search?q=%23TBS%e3%82%b9%e3%82%bf%e3%83%b3%e3%83%90%e3%82%a4) | N/A |
+| 4 | [#乃木坂46ANN](http://twitter.com/search?q=%23%e4%b9%83%e6%9c%a8%e5%9d%8246ANN) | #乃木坂46ANN is the official hashtag for the Japanese idol group Nogizaka46. It stands for Nogizaka46 Announcement, and is used to share news and updates about the group. |
+| 5 | [心不全パンデミック](http://twitter.com/search?q=%e5%bf%83%e4%b8%8d%e5%85%a8%e3%83%91%e3%83%b3%e3%83%87%e3%83%9f%e3%83%83%e3%82%af) | N/A |
+| 6 | [#SnowMan](http://twitter.com/search?q=%23SnowMan) | #SnowMan is a hashtag used on social media to refer to posts related to snowmen, such as pictures of snowmen, stories about snowmen, or anything else related to the wintery figure. |
+| 7 | [#NiziU_5thSingle](http://twitter.com/search?q=%23NiziU_5thSingle) | N/A |
+| 8 | [FAカップ](http://twitter.com/search?q=FA%e3%82%ab%e3%83%83%e3%83%97) | N/A |
 | 9 | [楽天証券](http://twitter.com/search?q=%e6%a5%bd%e5%a4%a9%e8%a8%bc%e5%88%b8) | 楽天証券 is an online stock trading service provided by Rakuten Securities, Inc., a subsidiary of the Japanese e-commerce giant Rakuten. The name literally translates to "Rakuten Securities" in English. The service allows users to buy and sell stocks, bonds, and other financial instruments online. |
-| 10 | [久保さん](http://twitter.com/search?q=%e4%b9%85%e4%bf%9d%e3%81%95%e3%82%93) | 久保さん (Kubo-san) is a Japanese honorific used to refer to someone with the surname Kubo. It is similar to the English honorific "Mr." or "Mrs." |
-| 11 | [Snow Man](http://twitter.com/search?q=Snow+Man) | N/A |
-| 12 | [大谷翔平](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e7%bf%94%e5%b9%b3) | 大谷翔平 is the name of a Japanese professional baseball player. In English, it translates to Shohei Otani. |
-| 13 | [#リバーサルオーケストラ](http://twitter.com/search?q=%23%e3%83%aa%e3%83%90%e3%83%bc%e3%82%b5%e3%83%ab%e3%82%aa%e3%83%bc%e3%82%b1%e3%82%b9%e3%83%88%e3%83%a9) | #リバーサルオーケストラ is a Japanese hashtag that translates to "Reverse Orchestra". It is used to refer to a type of music that combines traditional orchestral instruments with modern electronic elements. |
+| 10 | [ピカミィ](http://twitter.com/search?q=%e3%83%94%e3%82%ab%e3%83%9f%e3%82%a3) | N/A |
+| 11 | [キスマイ](http://twitter.com/search?q=%e3%82%ad%e3%82%b9%e3%83%9e%e3%82%a4) | キスマイ (Kisumai) is a Japanese idol group formed in 2011. The group consists of six members and is managed by Johnny & Associates. The name of the group is a combination of the words "Kiss" and "My". In English, it can be translated to mean "My Kiss". |
+| 12 | [久保さん](http://twitter.com/search?q=%e4%b9%85%e4%bf%9d%e3%81%95%e3%82%93) | 久保さん (Kubo-san) is a Japanese honorific used to refer to someone with the surname Kubo. It is similar to the English honorific "Mr." or "Mrs." |
+| 13 | [大谷翔平](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e7%bf%94%e5%b9%b3) | 大谷翔平 is the name of a Japanese professional baseball player. In English, it translates to Shohei Otani. |
 | 14 | [コオロギパン](http://twitter.com/search?q=%e3%82%b3%e3%82%aa%e3%83%ad%e3%82%ae%e3%83%91%e3%83%b3) | N/A |
-| 15 | [西陣廃業](http://twitter.com/search?q=%e8%a5%bf%e9%99%a3%e5%bb%83%e6%a5%ad) | N/A |
-| 16 | [WのMV](http://twitter.com/search?q=W%e3%81%aeMV) | N/A |
-| 17 | [コオロギパウダー](http://twitter.com/search?q=%e3%82%b3%e3%82%aa%e3%83%ad%e3%82%ae%e3%83%91%e3%82%a6%e3%83%80%e3%83%bc) | N/A |
+| 15 | [コオロギパウダー](http://twitter.com/search?q=%e3%82%b3%e3%82%aa%e3%83%ad%e3%82%ae%e3%83%91%e3%82%a6%e3%83%80%e3%83%bc) | N/A |
+| 16 | [西陣廃業](http://twitter.com/search?q=%e8%a5%bf%e9%99%a3%e5%bb%83%e6%a5%ad) | N/A |
+| 17 | [WのMV](http://twitter.com/search?q=W%e3%81%aeMV) | N/A |
 | 18 | [はなまるおばけ](http://twitter.com/search?q=%e3%81%af%e3%81%aa%e3%81%be%e3%82%8b%e3%81%8a%e3%81%b0%e3%81%91) | N/A |
-| 19 | [刀鍛冶の里編](http://twitter.com/search?q=%e5%88%80%e9%8d%9b%e5%86%b6%e3%81%ae%e9%87%8c%e7%b7%a8) | N/A |
-| 20 | [モモキュン](http://twitter.com/search?q=%e3%83%a2%e3%83%a2%e3%82%ad%e3%83%a5%e3%83%b3) | N/A |
-| 21 | [スミスロウ](http://twitter.com/search?q=%e3%82%b9%e3%83%9f%e3%82%b9%e3%83%ad%e3%82%a6) | スミスロウ (Sumisu Rou) is a Japanese fashion brand founded in 2002. The brand's name is derived from the English words "Smith" and "Row", which symbolize the idea of combining traditional craftsmanship with modern design. In English, the brand name translates to "Smith & Row". |
+| 19 | [こーち舞台](http://twitter.com/search?q=%e3%81%93%e3%83%bc%e3%81%a1%e8%88%9e%e5%8f%b0) | N/A |
+| 20 | [ティアニー](http://twitter.com/search?q=%e3%83%86%e3%82%a3%e3%82%a2%e3%83%8b%e3%83%bc) | N/A |
+| 21 | [しりスマッシュ](http://twitter.com/search?q=%e3%81%97%e3%82%8a%e3%82%b9%e3%83%9e%e3%83%83%e3%82%b7%e3%83%a5) | N/A |
 | 22 | [ガルナチョ](http://twitter.com/search?q=%e3%82%ac%e3%83%ab%e3%83%8a%e3%83%81%e3%83%a7) | N/A |
-| 23 | [トロサール](http://twitter.com/search?q=%e3%83%88%e3%83%ad%e3%82%b5%e3%83%bc%e3%83%ab) | トロサール (torosāru) is a type of Japanese pastry made from a sweet dough filled with custard cream. The name comes from the French word "trousser", which means "to wrap". In English, it can be translated as "custard-filled pastry". |
-| 24 | [マルティネッリ](http://twitter.com/search?q=%e3%83%9e%e3%83%ab%e3%83%86%e3%82%a3%e3%83%8d%e3%83%83%e3%83%aa) | マルティネッリ is a type of Italian pasta dish. It is made with a combination of cooked macaroni, cheese, and cream. The name comes from the Italian words for "cooked" (malti) and "nest" (nestri). In English, it can be translated as "macaroni and cheese". |
-| 25 | [こーち舞台](http://twitter.com/search?q=%e3%81%93%e3%83%bc%e3%81%a1%e8%88%9e%e5%8f%b0) | N/A |
-| 26 | [ヌニェス](http://twitter.com/search?q=%e3%83%8c%e3%83%8b%e3%82%a7%e3%82%b9) | ヌニェス is a Japanese word that means "nonsense". It is used to describe something that is nonsensical or absurd. |
-| 27 | [ウーデゴール](http://twitter.com/search?q=%e3%82%a6%e3%83%bc%e3%83%87%e3%82%b4%e3%83%bc%e3%83%ab) | ウーデゴール (Udego-ru) is a Japanese word that means "to go out and have fun". It is often used to describe a night out with friends or a night of partying. |
-| 28 | [ジンチェンコ](http://twitter.com/search?q=%e3%82%b8%e3%83%b3%e3%83%81%e3%82%a7%e3%83%b3%e3%82%b3) | ジンチェンコ is a Japanese card game that is similar to the Western game of Go Fish. The name translates to "pulling out a pair" and the goal of the game is to collect as many pairs of cards as possible. |
-| 29 | [ツィミカス](http://twitter.com/search?q=%e3%83%84%e3%82%a3%e3%83%9f%e3%82%ab%e3%82%b9) | N/A |
-| 30 | [クリーンシート](http://twitter.com/search?q=%e3%82%af%e3%83%aa%e3%83%bc%e3%83%b3%e3%82%b7%e3%83%bc%e3%83%88) | N/A |
-| 31 | [ミンティア](http://twitter.com/search?q=%e3%83%9f%e3%83%b3%e3%83%86%e3%82%a3%e3%82%a2) | N/A |
-| 32 | [ファビーニョ](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%83%93%e3%83%bc%e3%83%8b%e3%83%a7) | ファビーニョ is a Japanese onomatopoeia that expresses the sound of something being thrown away. In English, it could be translated as "thwack" or "toss". |
-| 33 | [エヴァートン](http://twitter.com/search?q=%e3%82%a8%e3%83%b4%e3%82%a1%e3%83%bc%e3%83%88%e3%83%b3) | エヴァートン is the name of a professional football (soccer) club in England. The team is based in the city of Liverpool and plays in the Premier League. The name "Everton" comes from the district of Everton, which was part of the original parish of Walton-on-the-Hill in Liverpool. |
-| 34 | [エンケティア](http://twitter.com/search?q=%e3%82%a8%e3%83%b3%e3%82%b1%e3%83%86%e3%82%a3%e3%82%a2) | エンケティア is a Japanese word that means "encounter" or "meeting". It is often used to refer to a chance meeting between two people. |
-| 35 | [ヴィエイラ](http://twitter.com/search?q=%e3%83%b4%e3%82%a3%e3%82%a8%e3%82%a4%e3%83%a9) | N/A |
-| 36 | [宇宙人ヒラテ](http://twitter.com/search?q=%e5%ae%87%e5%ae%99%e4%ba%ba%e3%83%92%e3%83%a9%e3%83%86) | N/A |
-| 37 | [バイチェティッチ](http://twitter.com/search?q=%e3%83%90%e3%82%a4%e3%83%81%e3%82%a7%e3%83%86%e3%82%a3%e3%83%83%e3%83%81) | N/A |
-| 38 | [エリオット](http://twitter.com/search?q=%e3%82%a8%e3%83%aa%e3%82%aa%e3%83%83%e3%83%88) | エリオット (Eliott) is a Japanese given name for boys. It is derived from the English name Elliott, which is of Hebrew origin and means "Jehovah is God". |
-| 39 | [髙地くん舞台](http://twitter.com/search?q=%e9%ab%99%e5%9c%b0%e3%81%8f%e3%82%93%e8%88%9e%e5%8f%b0) | N/A |
-| 40 | [ラムズデール](http://twitter.com/search?q=%e3%83%a9%e3%83%a0%e3%82%ba%e3%83%87%e3%83%bc%e3%83%ab) | N/A |
-| 41 | [エバートン](http://twitter.com/search?q=%e3%82%a8%e3%83%90%e3%83%bc%e3%83%88%e3%83%b3) | エバートン is the name of a professional football club in England. The team is based in the city of Liverpool and plays in the Premier League. The name "Everton" comes from the district of Everton, which was part of the original parish of Walton-on-the-Hill in Liverpool. |
-| 42 | [POWEEEEER](http://twitter.com/search?q=POWEEEEER) | N/A |
-| 43 | [ダンジュマ](http://twitter.com/search?q=%e3%83%80%e3%83%b3%e3%82%b8%e3%83%a5%e3%83%9e) | N/A |
-| 44 | [ハーフナーマイク](http://twitter.com/search?q=%e3%83%8f%e3%83%bc%e3%83%95%e3%83%8a%e3%83%bc%e3%83%9e%e3%82%a4%e3%82%af) | N/A |
-| 45 | [サンチェス](http://twitter.com/search?q=%e3%82%b5%e3%83%b3%e3%83%81%e3%82%a7%e3%82%b9) | N/A |
-| 46 | [京都と大阪](http://twitter.com/search?q=%e4%ba%ac%e9%83%bd%e3%81%a8%e5%a4%a7%e9%98%aa) | N/A |
-| 47 | [イウォビ](http://twitter.com/search?q=%e3%82%a4%e3%82%a6%e3%82%a9%e3%83%93) | N/A |
-| 48 | [ジェズス](http://twitter.com/search?q=%e3%82%b8%e3%82%a7%e3%82%ba%e3%82%b9) | N/A |
-| 49 | [こーちくん舞台](http://twitter.com/search?q=%e3%81%93%e3%83%bc%e3%81%a1%e3%81%8f%e3%82%93%e8%88%9e%e5%8f%b0) | N/A |
-| 50 | [法的措置](http://twitter.com/search?q=%e6%b3%95%e7%9a%84%e6%8e%aa%e7%bd%ae) | N/A |
+| 23 | [ミンティア](http://twitter.com/search?q=%e3%83%9f%e3%83%b3%e3%83%86%e3%82%a3%e3%82%a2) | N/A |
+| 24 | [トロサール](http://twitter.com/search?q=%e3%83%88%e3%83%ad%e3%82%b5%e3%83%bc%e3%83%ab) | トロサール (torosāru) is a type of Japanese pastry made from a sweet dough filled with custard cream. The name comes from the French word "trousser", which means "to wrap". In English, it can be translated as "custard-filled pastry". |
+| 25 | [素顔採用](http://twitter.com/search?q=%e7%b4%a0%e9%a1%94%e6%8e%a1%e7%94%a8) | N/A |
+| 26 | [マルティネッリ](http://twitter.com/search?q=%e3%83%9e%e3%83%ab%e3%83%86%e3%82%a3%e3%83%8d%e3%83%83%e3%83%aa) | マルティネッリ is a type of Italian pasta dish. It is made with a combination of cooked macaroni, cheese, and cream. The name comes from the Italian words for "cooked" (malti) and "nest" (nestri). In English, it can be translated as "macaroni and cheese". |
+| 27 | [ヌニェス](http://twitter.com/search?q=%e3%83%8c%e3%83%8b%e3%82%a7%e3%82%b9) | ヌニェス is a Japanese word that means "nonsense". It is used to describe something that is nonsensical or absurd. |
+| 28 | [ミニーの日](http://twitter.com/search?q=%e3%83%9f%e3%83%8b%e3%83%bc%e3%81%ae%e6%97%a5) | N/A |
+| 29 | [ウーデゴール](http://twitter.com/search?q=%e3%82%a6%e3%83%bc%e3%83%87%e3%82%b4%e3%83%bc%e3%83%ab) | ウーデゴール (Udego-ru) is a Japanese word that means "to go out and have fun". It is often used to describe a night out with friends or a night of partying. |
+| 30 | [ツィミカス](http://twitter.com/search?q=%e3%83%84%e3%82%a3%e3%83%9f%e3%82%ab%e3%82%b9) | N/A |
+| 31 | [宇宙人ヒラテ](http://twitter.com/search?q=%e5%ae%87%e5%ae%99%e4%ba%ba%e3%83%92%e3%83%a9%e3%83%86) | N/A |
+| 32 | [ジンチェンコ](http://twitter.com/search?q=%e3%82%b8%e3%83%b3%e3%83%81%e3%82%a7%e3%83%b3%e3%82%b3) | ジンチェンコ is a Japanese card game that is similar to the Western game of Go Fish. The name translates to "pulling out a pair" and the goal of the game is to collect as many pairs of cards as possible. |
+| 33 | [阪急京都線](http://twitter.com/search?q=%e9%98%aa%e6%80%a5%e4%ba%ac%e9%83%bd%e7%b7%9a) | 阪急京都線 is a railway line operated by Hankyu Railway in Japan. It runs between Osaka and Kyoto, connecting the two cities. In English, it is known as the Hankyu Kyoto Line. |
+| 34 | [髙地くん舞台](http://twitter.com/search?q=%e9%ab%99%e5%9c%b0%e3%81%8f%e3%82%93%e8%88%9e%e5%8f%b0) | N/A |
+| 35 | [ファビーニョ](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%83%93%e3%83%bc%e3%83%8b%e3%83%a7) | ファビーニョ is a Japanese onomatopoeia that expresses the sound of something being thrown away. In English, it could be translated as "thwack" or "toss". |
+| 36 | [POWEEEEER](http://twitter.com/search?q=POWEEEEER) | N/A |
+| 37 | [クリーンシート](http://twitter.com/search?q=%e3%82%af%e3%83%aa%e3%83%bc%e3%83%b3%e3%82%b7%e3%83%bc%e3%83%88) | N/A |
+| 38 | [こーちくん舞台](http://twitter.com/search?q=%e3%81%93%e3%83%bc%e3%81%a1%e3%81%8f%e3%82%93%e8%88%9e%e5%8f%b0) | N/A |
+| 39 | [おじさんビジネス用語](http://twitter.com/search?q=%e3%81%8a%e3%81%98%e3%81%95%e3%82%93%e3%83%93%e3%82%b8%e3%83%8d%e3%82%b9%e7%94%a8%e8%aa%9e) | N/A |
+| 40 | [京都と大阪](http://twitter.com/search?q=%e4%ba%ac%e9%83%bd%e3%81%a8%e5%a4%a7%e9%98%aa) | N/A |
+| 41 | [ビエネッタ](http://twitter.com/search?q=%e3%83%93%e3%82%a8%e3%83%8d%e3%83%83%e3%82%bf) | N/A |
+| 42 | [まことちゃま](http://twitter.com/search?q=%e3%81%be%e3%81%93%e3%81%a8%e3%81%a1%e3%82%83%e3%81%be) | N/A |
+| 43 | [エヴァートン](http://twitter.com/search?q=%e3%82%a8%e3%83%b4%e3%82%a1%e3%83%bc%e3%83%88%e3%83%b3) | エヴァートン is the name of a professional football (soccer) club in England. The team is based in the city of Liverpool and plays in the Premier League. The name "Everton" comes from the district of Everton, which was part of the original parish of Walton-on-the-Hill in Liverpool. |
+| 44 | [スパーズ](http://twitter.com/search?q=%e3%82%b9%e3%83%91%e3%83%bc%e3%82%ba) | スパーズ (Supāzu) is a Japanese term for sparkles or glitter. It is often used to describe something that is shiny or sparkly. In English, it can be translated as "sparkles" or "glitter". |
+| 45 | [もくようび](http://twitter.com/search?q=%e3%82%82%e3%81%8f%e3%82%88%e3%81%86%e3%81%b3) | N/A |
+| 46 | [ミニーマウスの日](http://twitter.com/search?q=%e3%83%9f%e3%83%8b%e3%83%bc%e3%83%9e%e3%82%a6%e3%82%b9%e3%81%ae%e6%97%a5) | N/A |
+| 47 | [ヴィエイラ](http://twitter.com/search?q=%e3%83%b4%e3%82%a3%e3%82%a8%e3%82%a4%e3%83%a9) | N/A |
+| 48 | [振替輸送](http://twitter.com/search?q=%e6%8c%af%e6%9b%bf%e8%bc%b8%e9%80%81) | 振替輸送 (Furikae Tsuusou) is a Japanese term meaning "transfer transportation". It refers to the transfer of passengers from one mode of transportation to another, such as from a train to a bus or vice versa. |
+| 49 | [優馬くん](http://twitter.com/search?q=%e5%84%aa%e9%a6%ac%e3%81%8f%e3%82%93) | N/A |
 
 
 

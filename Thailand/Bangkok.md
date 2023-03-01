@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bangkok
 
-📆 Last Updated: `2023-03-01 22:16:07 UTC`
+📆 Last Updated: `2023-03-01 23:16:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Thailand](</Thailand>)
 | ------- | ------------ | ------------ |
 | 1 | [#PatrickxBalmainFW23](http://twitter.com/search?q=%23PatrickxBalmainFW23) | N/A |
 | 2 | [#นู้ดนี้ใครก็carryได้](http://twitter.com/search?q=%23%e0%b8%99%e0%b8%b9%e0%b9%89%e0%b8%94%e0%b8%99%e0%b8%b5%e0%b9%89%e0%b9%83%e0%b8%84%e0%b8%a3%e0%b8%81%e0%b9%87carry%e0%b9%84%e0%b8%94%e0%b9%89) | N/A |
-| 3 | [#ทวิตล่ม](http://twitter.com/search?q=%23%e0%b8%97%e0%b8%a7%e0%b8%b4%e0%b8%95%e0%b8%a5%e0%b9%88%e0%b8%a1) | N/A |
+| 3 | [#PatrickFinkler](http://twitter.com/search?q=%23PatrickFinkler) | N/A |
 | 4 | [#MoonlightChickenEP7](http://twitter.com/search?q=%23MoonlightChickenEP7) | N/A |
-| 5 | [#TANSANSUxMARKTUAN](http://twitter.com/search?q=%23TANSANSUxMARKTUAN) | N/A |
-| 6 | [Nene Nostalgia MV](http://twitter.com/search?q=Nene+Nostalgia+MV) | N/A |
-| 7 | [DIOR WITH NATTAWIN](http://twitter.com/search?q=DIOR+WITH+NATTAWIN) | N/A |
-| 8 | [I LOVE YOU NANON](http://twitter.com/search?q=I+LOVE+YOU+NANON) | N/A |
-| 9 | [JISOO THE FACE OF DIOR](http://twitter.com/search?q=JISOO+THE+FACE+OF+DIOR) | N/A |
-| 10 | [chang x bright](http://twitter.com/search?q=chang+x+bright) | N/A |
-| 11 | [Nene x Flex Talk](http://twitter.com/search?q=Nene+x+Flex+Talk) | N/A |
-| 12 | [MQDC](http://twitter.com/search?q=MQDC) | N/A |
+| 5 | [#ทวิตล่ม](http://twitter.com/search?q=%23%e0%b8%97%e0%b8%a7%e0%b8%b4%e0%b8%95%e0%b8%a5%e0%b9%88%e0%b8%a1) | N/A |
+| 6 | [dior with nattawin](http://twitter.com/search?q=dior+with+nattawin) | N/A |
+| 7 | [nene nostalgia mv](http://twitter.com/search?q=nene+nostalgia+mv) | N/A |
+| 8 | [JISOO THE FACE OF DIOR](http://twitter.com/search?q=JISOO+THE+FACE+OF+DIOR) | N/A |
+| 9 | [chang x bright](http://twitter.com/search?q=chang+x+bright) | N/A |
+| 10 | [Nene x Flex Talk](http://twitter.com/search?q=Nene+x+Flex+Talk) | N/A |
+| 11 | [mqdc](http://twitter.com/search?q=mqdc) | N/A |
+| 12 | [I LOVE YOU NANON](http://twitter.com/search?q=I+LOVE+YOU+NANON) | N/A |
 | 13 | [702 lucky day](http://twitter.com/search?q=702+lucky+day) | N/A |
 | 14 | [first m of fourth](http://twitter.com/search?q=first+m+of+fourth) | N/A |
 | 15 | [Saturday Night](http://twitter.com/search?q=Saturday+Night) | N/A |
-| 16 | [presenter kanawut](http://twitter.com/search?q=presenter+kanawut) | N/A |
-| 17 | [FA Cup](http://twitter.com/search?q=FA+Cup) | The FA Cup is an annual knockout football competition in England. It is the oldest football competition in the world and is run by The Football Association (FA). The FA Cup is open to any club in the top four tiers of English football, from the Premier League down to the semi-professional leagues. The tournament culminates with a final at Wembley Stadium, usually held in May. |
+| 16 | [FA Cup](http://twitter.com/search?q=FA+Cup) | The FA Cup is an annual knockout football competition in England. It is the oldest football competition in the world and is run by The Football Association (FA). The FA Cup is open to any club in the top four tiers of English football, from the Premier League down to the semi-professional leagues. The tournament culminates with a final at Wembley Stadium, usually held in May. |
+| 17 | [presenter kanawut](http://twitter.com/search?q=presenter+kanawut) | N/A |
 | 18 | [mind tears](http://twitter.com/search?q=mind+tears) | N/A |
 | 19 | [ROSÉ SAINT LAURENT PFW23](http://twitter.com/search?q=ROS%c3%89+SAINT+LAURENT+PFW23) | N/A |
 | 20 | [TOGETHER FOR BUILD](http://twitter.com/search?q=TOGETHER+FOR+BUILD) | N/A |
 | 21 | [pika](http://twitter.com/search?q=pika) | N/A |
 | 22 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
 | 23 | [BORN TO SHINE DAYEON](http://twitter.com/search?q=BORN+TO+SHINE+DAYEON) | N/A |
-| 24 | [ID LINE minny223](http://twitter.com/search?q=ID+LINE+minny223) | N/A |
-| 25 | [#BAZAARSGxLISA](http://twitter.com/search?q=%23BAZAARSGxLISA) | N/A |
-| 26 | [#yslbeautyth](http://twitter.com/search?q=%23yslbeautyth) | N/A |
-| 27 | [#แพนทีนมีหวัง](http://twitter.com/search?q=%23%e0%b9%81%e0%b8%9e%e0%b8%99%e0%b8%97%e0%b8%b5%e0%b8%99%e0%b8%a1%e0%b8%b5%e0%b8%ab%e0%b8%a7%e0%b8%b1%e0%b8%87) | N/A |
-| 28 | [#SSPHELLOSUMMER2023](http://twitter.com/search?q=%23SSPHELLOSUMMER2023) | N/A |
-| 29 | [#TENinMY](http://twitter.com/search?q=%23TENinMY) | N/A |
-| 30 | [#ShowmeloveTheseriesEP1](http://twitter.com/search?q=%23ShowmeloveTheseriesEP1) | N/A |
-| 31 | [#CELINEBYHEDISLIMANE](http://twitter.com/search?q=%23CELINEBYHEDISLIMANE) | N/A |
-| 32 | [#cherprangbnk48](http://twitter.com/search?q=%23cherprangbnk48) | N/A |
-| 33 | [#OLDDIRTYxTARAYLS](http://twitter.com/search?q=%23OLDDIRTYxTARAYLS) | N/A |
-| 34 | [#PilotTwoworldsDay1](http://twitter.com/search?q=%23PilotTwoworldsDay1) | N/A |
-| 35 | [#ApoxDiorAW2023](http://twitter.com/search?q=%23ApoxDiorAW2023) | N/A |
-| 36 | [#unit](http://twitter.com/search?q=%23unit) | N/A |
-| 37 | [#BORNPINKinBANGKOK](http://twitter.com/search?q=%23BORNPINKinBANGKOK) | #BORNPINKinBANGKOK is a hashtag used to promote a fashion event in Bangkok, Thailand. It is meant to encourage people to wear pink clothing and accessories to the event. The phrase "born pink" is a play on words, referring to the idea of being born fashionable. |
-| 38 | [#ตันซันซูมีพี่จ๋าแล้วนะ](http://twitter.com/search?q=%23%e0%b8%95%e0%b8%b1%e0%b8%99%e0%b8%8b%e0%b8%b1%e0%b8%99%e0%b8%8b%e0%b8%b9%e0%b8%a1%e0%b8%b5%e0%b8%9e%e0%b8%b5%e0%b9%88%e0%b8%88%e0%b9%8b%e0%b8%b2%e0%b9%81%e0%b8%a5%e0%b9%89%e0%b8%a7%e0%b8%99%e0%b8%b0) | N/A |
-| 39 | [#Nene_ละเมอMV](http://twitter.com/search?q=%23Nene_%e0%b8%a5%e0%b8%b0%e0%b9%80%e0%b8%a1%e0%b8%adMV) | N/A |
-| 40 | [#มีนามีใจไปกับซีนุนิว](http://twitter.com/search?q=%23%e0%b8%a1%e0%b8%b5%e0%b8%99%e0%b8%b2%e0%b8%a1%e0%b8%b5%e0%b9%83%e0%b8%88%e0%b9%84%e0%b8%9b%e0%b8%81%e0%b8%b1%e0%b8%9a%e0%b8%8b%e0%b8%b5%e0%b8%99%e0%b8%b8%e0%b8%99%e0%b8%b4%e0%b8%a7) | N/A |
-| 41 | [#ตันซันซูซ่าส์มาร์คคับ](http://twitter.com/search?q=%23%e0%b8%95%e0%b8%b1%e0%b8%99%e0%b8%8b%e0%b8%b1%e0%b8%99%e0%b8%8b%e0%b8%b9%e0%b8%8b%e0%b9%88%e0%b8%b2%e0%b8%aa%e0%b9%8c%e0%b8%a1%e0%b8%b2%e0%b8%a3%e0%b9%8c%e0%b8%84%e0%b8%84%e0%b8%b1%e0%b8%9a) | N/A |
-| 42 | [#BrightxChangColdBrewCC](http://twitter.com/search?q=%23BrightxChangColdBrewCC) | N/A |
-| 43 | [#SourandSweet](http://twitter.com/search?q=%23SourandSweet) | N/A |
-| 44 | [#ฌานอารีย์กุล](http://twitter.com/search?q=%23%e0%b8%8c%e0%b8%b2%e0%b8%99%e0%b8%ad%e0%b8%b2%e0%b8%a3%e0%b8%b5%e0%b8%a2%e0%b9%8c%e0%b8%81%e0%b8%b8%e0%b8%a5) | N/A |
-| 45 | [#หยดน้ําตาmind4eve](http://twitter.com/search?q=%23%e0%b8%ab%e0%b8%a2%e0%b8%94%e0%b8%99%e0%b9%89%e0%b9%8d%e0%b8%b2%e0%b8%95%e0%b8%b2mind4eve) | N/A |
-| 46 | [#NeverLetMeGoSeriesFinalEP](http://twitter.com/search?q=%23NeverLetMeGoSeriesFinalEP) | N/A |
-| 47 | [#สี่แสบEP2](http://twitter.com/search?q=%23%e0%b8%aa%e0%b8%b5%e0%b9%88%e0%b9%81%e0%b8%aa%e0%b8%9aEP2) | N/A |
-| 48 | [#PPKritxFirstChoice](http://twitter.com/search?q=%23PPKritxFirstChoice) | N/A |
-| 49 | [#หวยงวดนี้](http://twitter.com/search?q=%23%e0%b8%ab%e0%b8%a7%e0%b8%a2%e0%b8%87%e0%b8%a7%e0%b8%94%e0%b8%99%e0%b8%b5%e0%b9%89) | N/A |
-| 50 | [#funoxgulf](http://twitter.com/search?q=%23funoxgulf) | N/A |
+| 24 | [Asia Pacific](http://twitter.com/search?q=Asia+Pacific) | N/A |
+| 25 | [Morning Win](http://twitter.com/search?q=Morning+Win) | N/A |
+| 26 | [Bright Morning](http://twitter.com/search?q=Bright+Morning) | N/A |
+| 27 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 28 | [#TANSANSUxMARKTUAN](http://twitter.com/search?q=%23TANSANSUxMARKTUAN) | N/A |
+| 29 | [#BAZAARSGxLISA](http://twitter.com/search?q=%23BAZAARSGxLISA) | N/A |
+| 30 | [#yslbeautyth](http://twitter.com/search?q=%23yslbeautyth) | N/A |
+| 31 | [#YSLBEAUTYxTEN](http://twitter.com/search?q=%23YSLBEAUTYxTEN) | N/A |
+| 32 | [#SSPHELLOSUMMER2023](http://twitter.com/search?q=%23SSPHELLOSUMMER2023) | N/A |
+| 33 | [#TENinMY](http://twitter.com/search?q=%23TENinMY) | N/A |
+| 34 | [#ShowmeloveTheseriesEP1](http://twitter.com/search?q=%23ShowmeloveTheseriesEP1) | N/A |
+| 35 | [#แพนทีนมีหวัง](http://twitter.com/search?q=%23%e0%b9%81%e0%b8%9e%e0%b8%99%e0%b8%97%e0%b8%b5%e0%b8%99%e0%b8%a1%e0%b8%b5%e0%b8%ab%e0%b8%a7%e0%b8%b1%e0%b8%87) | N/A |
+| 36 | [#CELINEBYHEDISLIMANE](http://twitter.com/search?q=%23CELINEBYHEDISLIMANE) | N/A |
+| 37 | [#OLDDIRTYxTARAYLS](http://twitter.com/search?q=%23OLDDIRTYxTARAYLS) | N/A |
+| 38 | [#PilotTwoworldsDay1](http://twitter.com/search?q=%23PilotTwoworldsDay1) | N/A |
+| 39 | [#ApoxDiorAW2023](http://twitter.com/search?q=%23ApoxDiorAW2023) | N/A |
+| 40 | [#unit](http://twitter.com/search?q=%23unit) | N/A |
+| 41 | [#BORNPINKinBANGKOK](http://twitter.com/search?q=%23BORNPINKinBANGKOK) | #BORNPINKinBANGKOK is a hashtag used to promote a fashion event in Bangkok, Thailand. It is meant to encourage people to wear pink clothing and accessories to the event. The phrase "born pink" is a play on words, referring to the idea of being born fashionable. |
+| 42 | [#ตันซันซูมีพี่จ๋าแล้วนะ](http://twitter.com/search?q=%23%e0%b8%95%e0%b8%b1%e0%b8%99%e0%b8%8b%e0%b8%b1%e0%b8%99%e0%b8%8b%e0%b8%b9%e0%b8%a1%e0%b8%b5%e0%b8%9e%e0%b8%b5%e0%b9%88%e0%b8%88%e0%b9%8b%e0%b8%b2%e0%b9%81%e0%b8%a5%e0%b9%89%e0%b8%a7%e0%b8%99%e0%b8%b0) | N/A |
+| 43 | [#CherprangBNK48](http://twitter.com/search?q=%23CherprangBNK48) | N/A |
+| 44 | [#มีนามีใจไปกับซีนุนิว](http://twitter.com/search?q=%23%e0%b8%a1%e0%b8%b5%e0%b8%99%e0%b8%b2%e0%b8%a1%e0%b8%b5%e0%b9%83%e0%b8%88%e0%b9%84%e0%b8%9b%e0%b8%81%e0%b8%b1%e0%b8%9a%e0%b8%8b%e0%b8%b5%e0%b8%99%e0%b8%b8%e0%b8%99%e0%b8%b4%e0%b8%a7) | N/A |
+| 45 | [#ตันซันซูซ่าส์มาร์คคับ](http://twitter.com/search?q=%23%e0%b8%95%e0%b8%b1%e0%b8%99%e0%b8%8b%e0%b8%b1%e0%b8%99%e0%b8%8b%e0%b8%b9%e0%b8%8b%e0%b9%88%e0%b8%b2%e0%b8%aa%e0%b9%8c%e0%b8%a1%e0%b8%b2%e0%b8%a3%e0%b9%8c%e0%b8%84%e0%b8%84%e0%b8%b1%e0%b8%9a) | N/A |
+| 46 | [#BrightxChangColdBrewCC](http://twitter.com/search?q=%23BrightxChangColdBrewCC) | N/A |
+| 47 | [#ฌานอารีย์กุล](http://twitter.com/search?q=%23%e0%b8%8c%e0%b8%b2%e0%b8%99%e0%b8%ad%e0%b8%b2%e0%b8%a3%e0%b8%b5%e0%b8%a2%e0%b9%8c%e0%b8%81%e0%b8%b8%e0%b8%a5) | N/A |
+| 48 | [#nene_ละเมอmv](http://twitter.com/search?q=%23nene_%e0%b8%a5%e0%b8%b0%e0%b9%80%e0%b8%a1%e0%b8%admv) | N/A |
+| 49 | [#หยดน้ําตาmind4eve](http://twitter.com/search?q=%23%e0%b8%ab%e0%b8%a2%e0%b8%94%e0%b8%99%e0%b9%89%e0%b9%8d%e0%b8%b2%e0%b8%95%e0%b8%b2mind4eve) | N/A |
+| 50 | [#SourandSweet](http://twitter.com/search?q=%23SourandSweet) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lahore
 
-📆 Last Updated: `2023-03-01 22:16:14 UTC`
+📆 Last Updated: `2023-03-01 23:16:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -43,28 +43,28 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 26 | [Bismah Maroof](http://twitter.com/search?q=Bismah+Maroof) | N/A |
 | 27 | [Qasim Akram](http://twitter.com/search?q=Qasim+Akram) | N/A |
 | 28 | [Munshi](http://twitter.com/search?q=Munshi) | N/A |
-| 29 | [Shoaib Malik](http://twitter.com/search?q=Shoaib+Malik) | N/A |
-| 30 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 31 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 32 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 33 | [Your DM](http://twitter.com/search?q=Your+DM) | N/A |
-| 34 | [Dropped](http://twitter.com/search?q=Dropped) | N/A |
-| 35 | [Masha Allah](http://twitter.com/search?q=Masha+Allah) | N/A |
-| 36 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 37 | [Oops](http://twitter.com/search?q=Oops) | N/A |
-| 38 | [2nd March](http://twitter.com/search?q=2nd+March) | N/A |
+| 29 | [Your DM](http://twitter.com/search?q=Your+DM) | N/A |
+| 30 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 31 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 32 | [Dropped](http://twitter.com/search?q=Dropped) | N/A |
+| 33 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 34 | [Oops](http://twitter.com/search?q=Oops) | N/A |
+| 35 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 36 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 37 | [Malik](http://twitter.com/search?q=Malik) | N/A |
+| 38 | [Match](http://twitter.com/search?q=Match) | N/A |
 | 39 | [Absolutely Yes](http://twitter.com/search?q=Absolutely+Yes) | N/A |
 | 40 | [Target](http://twitter.com/search?q=Target) | N/A |
-| 41 | [Haya](http://twitter.com/search?q=Haya) | N/A |
-| 42 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 43 | [Ya Allah](http://twitter.com/search?q=Ya+Allah) | N/A |
-| 44 | [Coming Soon](http://twitter.com/search?q=Coming+Soon) | N/A |
-| 45 | [Meri](http://twitter.com/search?q=Meri) | N/A |
-| 46 | [Kindly DM](http://twitter.com/search?q=Kindly+DM) | N/A |
-| 47 | [Congratulations Sir](http://twitter.com/search?q=Congratulations+Sir) | N/A |
+| 41 | [Yeahh](http://twitter.com/search?q=Yeahh) | N/A |
+| 42 | [Haya](http://twitter.com/search?q=Haya) | N/A |
+| 43 | [Yupp](http://twitter.com/search?q=Yupp) | N/A |
+| 44 | [Meri](http://twitter.com/search?q=Meri) | N/A |
+| 45 | [Lemme](http://twitter.com/search?q=Lemme) | N/A |
+| 46 | [Check DM](http://twitter.com/search?q=Check+DM) | N/A |
+| 47 | [Kindly](http://twitter.com/search?q=Kindly) | N/A |
 | 48 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 49 | [Match](http://twitter.com/search?q=Match) | N/A |
-| 50 | [Saim](http://twitter.com/search?q=Saim) | N/A |
+| 49 | [Israeli](http://twitter.com/search?q=Israeli) | N/A |
+| 50 | [The US](http://twitter.com/search?q=The+US) | N/A |
 
 
 
