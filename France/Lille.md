@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lille
 
-📆 Last Updated: `2023-03-01 02:44:35 UTC`
+📆 Last Updated: `2023-03-01 03:26:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,26 +18,26 @@ This is top 50 for [France](</France>)
 | 1 | [#KohLanta](http://twitter.com/search?q=%23KohLanta) | N/A |
 | 2 | [#OLGF38](http://twitter.com/search?q=%23OLGF38) | N/A |
 | 3 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 4 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
-| 5 | [Jeffinho](http://twitter.com/search?q=Jeffinho) | Jeffinho is a Portuguese nickname derived from the name "Jefferson". It is often used as a term of endearment, similar to "honey" or "sweetheart" in English. |
-| 6 | [#LeGraet](http://twitter.com/search?q=%23LeGraet) | N/A |
-| 7 | [Emin](http://twitter.com/search?q=Emin) | N/A |
-| 8 | [Dembele](http://twitter.com/search?q=Dembele) | Dembele is a surname of West African origin. It is derived from the Mande language and means "peaceful warrior". In English, it can be translated to mean "one who brings peace through strength". |
-| 9 | [#Papillomavirus](http://twitter.com/search?q=%23Papillomavirus) | N/A |
-| 10 | [#SIA2023](http://twitter.com/search?q=%23SIA2023) | N/A |
-| 11 | [Julien Bert](http://twitter.com/search?q=Julien+Bert) | N/A |
-| 12 | [Ethnicité](http://twitter.com/search?q=Ethnicit%c3%a9) | N/A |
+| 4 | [Jeffinho](http://twitter.com/search?q=Jeffinho) | Jeffinho is a Portuguese nickname derived from the name "Jefferson". It is often used as a term of endearment, similar to "honey" or "sweetheart" in English. |
+| 5 | [#LeGraet](http://twitter.com/search?q=%23LeGraet) | N/A |
+| 6 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
+| 7 | [Dembele](http://twitter.com/search?q=Dembele) | Dembele is a surname of West African origin. It is derived from the Mande language and means "peaceful warrior". In English, it can be translated to mean "one who brings peace through strength". |
+| 8 | [#Papillomavirus](http://twitter.com/search?q=%23Papillomavirus) | N/A |
+| 9 | [#SIA2023](http://twitter.com/search?q=%23SIA2023) | N/A |
+| 10 | [Julien Bert](http://twitter.com/search?q=Julien+Bert) | N/A |
+| 11 | [Ethnicité](http://twitter.com/search?q=Ethnicit%c3%a9) | N/A |
+| 12 | [Emin](http://twitter.com/search?q=Emin) | N/A |
 | 13 | [Payet](http://twitter.com/search?q=Payet) | Payet is a French surname. It is derived from the Old French word "paie," which means "payment." In English, it can be translated to mean "one who pays." |
 | 14 | [Hilona](http://twitter.com/search?q=Hilona) | N/A |
-| 15 | [Creed 3](http://twitter.com/search?q=Creed+3) | N/A |
-| 16 | [Infantino](http://twitter.com/search?q=Infantino) | Infantino is a Spanish word meaning "little baby". It is often used as an affectionate term for a young child. |
-| 17 | [Diomande](http://twitter.com/search?q=Diomande) | N/A |
-| 18 | [Icardi](http://twitter.com/search?q=Icardi) | Icardi is a surname of Italian origin. It is derived from the Latin word "cardus" meaning thistle. In English, it can be translated to mean "of the thistle". |
+| 15 | [Infantino](http://twitter.com/search?q=Infantino) | Infantino is a Spanish word meaning "little baby". It is often used as an affectionate term for a young child. |
+| 16 | [Diomande](http://twitter.com/search?q=Diomande) | N/A |
+| 17 | [Icardi](http://twitter.com/search?q=Icardi) | Icardi is a surname of Italian origin. It is derived from the Latin word "cardus" meaning thistle. In English, it can be translated to mean "of the thistle". |
+| 18 | [Creed 3](http://twitter.com/search?q=Creed+3) | N/A |
 | 19 | [El Arouch](http://twitter.com/search?q=El+Arouch) | El Arouch is a type of traditional Lebanese dish made with bulgur wheat, vegetables, and spices. It is typically served as a side dish or as part of a mezze platter. The name El Arouch comes from the Arabic phrase “al-arish” which means “the top layer”, referring to the top layer of bulgur wheat that is cooked in the dish. In English, El Arouch translates to "the top layer". |
 | 20 | [Grenoble](http://twitter.com/search?q=Grenoble) | N/A |
-| 21 | [Balkany](http://twitter.com/search?q=Balkany) | N/A |
-| 22 | [Gardasil](http://twitter.com/search?q=Gardasil) | N/A |
-| 23 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
+| 21 | [Gardasil](http://twitter.com/search?q=Gardasil) | N/A |
+| 22 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
+| 23 | [Balkany](http://twitter.com/search?q=Balkany) | N/A |
 | 24 | [Barcola](http://twitter.com/search?q=Barcola) | N/A |
 | 25 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 26 | [Miquella](http://twitter.com/search?q=Miquella) | N/A |
@@ -53,7 +53,7 @@ This is top 50 for [France](</France>)
 | 36 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
 | 37 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
 | 38 | [Marseille](http://twitter.com/search?q=Marseille) | N/A |
-| 39 | [Djibril Cissé](http://twitter.com/search?q=Djibril+Ciss%c3%a9) | N/A |
+| 39 | [djibril cissé](http://twitter.com/search?q=djibril+ciss%c3%a9) | N/A |
 | 40 | [GIVE US WN BLOOPERS](http://twitter.com/search?q=GIVE+US+WN+BLOOPERS) | N/A |
 | 41 | [Makoto Shinkai](http://twitter.com/search?q=Makoto+Shinkai) | N/A |
 | 42 | [Housni](http://twitter.com/search?q=Housni) | Housni is an Arabic name that means "good luck". It is often used as a term of endearment or to express good wishes. |

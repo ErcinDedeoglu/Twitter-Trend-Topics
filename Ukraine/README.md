@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ukraine
 
-📆 Last Updated: `2023-03-01 02:45:15 UTC`
+📆 Last Updated: `2023-03-01 03:27:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,7 +26,7 @@ This is top 50 for Ukraine
 | 9 | [Горбушка](http://twitter.com/search?q=%d0%93%d0%be%d1%80%d0%b1%d1%83%d1%88%d0%ba%d0%b0) | N/A |
 | 10 | [#LunarNewYearTSB](http://twitter.com/search?q=%23LunarNewYearTSB) | N/A |
 | 11 | [Navalny](http://twitter.com/search?q=Navalny) | N/A |
-| 12 | [БПЛА](http://twitter.com/search?q=%d0%91%d0%9f%d0%9b%d0%90) | N/A |
+| 12 | [бпла](http://twitter.com/search?q=%d0%b1%d0%bf%d0%bb%d0%b0) | N/A |
 | 13 | [Chisinau](http://twitter.com/search?q=Chisinau) | N/A |
 | 14 | [Stalin](http://twitter.com/search?q=Stalin) | N/A |
 | 15 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |

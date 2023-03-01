@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ireland
 
-📆 Last Updated: `2023-03-01 02:45:10 UTC`
+📆 Last Updated: `2023-03-01 03:27:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -41,9 +41,9 @@ This is top 50 for Ireland
 | 24 | [Niall O'Connor](http://twitter.com/search?q=Niall+O%27Connor) | N/A |
 | 25 | [Claudia](http://twitter.com/search?q=Claudia) | Claudia is a female given name of Latin origin, derived from the Roman clan name Claudius. It means "lame" or "disabled". |
 | 26 | [Stormont](http://twitter.com/search?q=Stormont) | N/A |
-| 27 | [sanam](http://twitter.com/search?q=sanam) | N/A |
+| 27 | [Sanam](http://twitter.com/search?q=Sanam) | N/A |
 | 28 | [Dermot Morgan](http://twitter.com/search?q=Dermot+Morgan) | N/A |
-| 29 | [Shels](http://twitter.com/search?q=Shels) | N/A |
+| 29 | [shels](http://twitter.com/search?q=shels) | N/A |
 | 30 | [Samie](http://twitter.com/search?q=Samie) | Samie is a given name of Arabic origin, meaning "elevated" or "lofty". |
 | 31 | [Minnie](http://twitter.com/search?q=Minnie) | N/A |
 | 32 | [Roca](http://twitter.com/search?q=Roca) | N/A |

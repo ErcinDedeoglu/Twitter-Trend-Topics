@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-03-01 02:45:15 UTC`
+📆 Last Updated: `2023-03-01 03:27:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -34,12 +34,12 @@ This is top 50 for Switzerland
 | 17 | [eigentümer](http://twitter.com/search?q=eigent%c3%bcmer) | N/A |
 | 18 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
 | 19 | [Vermieter](http://twitter.com/search?q=Vermieter) | N/A |
-| 20 | [Moderator](http://twitter.com/search?q=Moderator) | N/A |
-| 21 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
-| 22 | [DeFi](http://twitter.com/search?q=DeFi) | N/A |
-| 23 | [Fachkräftemangel](http://twitter.com/search?q=Fachkr%c3%a4ftemangel) | N/A |
-| 24 | [Disarmament](http://twitter.com/search?q=Disarmament) | N/A |
-| 25 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
+| 20 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
+| 21 | [Moderator](http://twitter.com/search?q=Moderator) | N/A |
+| 22 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
+| 23 | [DeFi](http://twitter.com/search?q=DeFi) | N/A |
+| 24 | [Fachkräftemangel](http://twitter.com/search?q=Fachkr%c3%a4ftemangel) | N/A |
+| 25 | [Disarmament](http://twitter.com/search?q=Disarmament) | N/A |
 | 26 | [Elden Ring](http://twitter.com/search?q=Elden+Ring) | N/A |
 | 27 | [Shame](http://twitter.com/search?q=Shame) | N/A |
 | 28 | [Träume](http://twitter.com/search?q=Tr%c3%a4ume) | N/A |
@@ -61,7 +61,7 @@ This is top 50 for Switzerland
 | 44 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
 | 45 | [Guete Morge](http://twitter.com/search?q=Guete+Morge) | N/A |
 | 46 | [Beileid](http://twitter.com/search?q=Beileid) | N/A |
-| 47 | [Kanton](http://twitter.com/search?q=Kanton) | N/A |
+| 47 | [kanton](http://twitter.com/search?q=kanton) | N/A |
 | 48 | [Espagne](http://twitter.com/search?q=Espagne) | N/A |
 | 49 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
 | 50 | [aargau](http://twitter.com/search?q=aargau) | N/A |

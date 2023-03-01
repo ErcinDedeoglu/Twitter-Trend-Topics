@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-03-01 02:44:40 UTC`
+📆 Last Updated: `2023-03-01 03:27:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -33,12 +33,12 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 16 | [eigentümer](http://twitter.com/search?q=eigent%c3%bcmer) | N/A |
 | 17 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
 | 18 | [Vermieter](http://twitter.com/search?q=Vermieter) | N/A |
-| 19 | [Moderator](http://twitter.com/search?q=Moderator) | N/A |
-| 20 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
-| 21 | [DeFi](http://twitter.com/search?q=DeFi) | N/A |
-| 22 | [Fachkräftemangel](http://twitter.com/search?q=Fachkr%c3%a4ftemangel) | N/A |
-| 23 | [Disarmament](http://twitter.com/search?q=Disarmament) | N/A |
-| 24 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
+| 19 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
+| 20 | [Moderator](http://twitter.com/search?q=Moderator) | N/A |
+| 21 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
+| 22 | [DeFi](http://twitter.com/search?q=DeFi) | N/A |
+| 23 | [Fachkräftemangel](http://twitter.com/search?q=Fachkr%c3%a4ftemangel) | N/A |
+| 24 | [Disarmament](http://twitter.com/search?q=Disarmament) | N/A |
 | 25 | [Elden Ring](http://twitter.com/search?q=Elden+Ring) | N/A |
 | 26 | [Shame](http://twitter.com/search?q=Shame) | N/A |
 | 27 | [Träume](http://twitter.com/search?q=Tr%c3%a4ume) | N/A |
@@ -60,7 +60,7 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 43 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
 | 44 | [Guete Morge](http://twitter.com/search?q=Guete+Morge) | N/A |
 | 45 | [Beileid](http://twitter.com/search?q=Beileid) | N/A |
-| 46 | [Kanton](http://twitter.com/search?q=Kanton) | N/A |
+| 46 | [kanton](http://twitter.com/search?q=kanton) | N/A |
 | 47 | [Espagne](http://twitter.com/search?q=Espagne) | N/A |
 | 48 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
 | 49 | [aargau](http://twitter.com/search?q=aargau) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Irkutsk
 
-📆 Last Updated: `2023-03-01 02:44:54 UTC`
+📆 Last Updated: `2023-03-01 03:27:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,23 +21,23 @@ This is top 50 for [Russia](</Russia>)
 | 4 | [#клубромантики](http://twitter.com/search?q=%23%d0%ba%d0%bb%d1%83%d0%b1%d1%80%d0%be%d0%bc%d0%b0%d0%bd%d1%82%d0%b8%d0%ba%d0%b8) | N/A |
 | 5 | [чвк редан](http://twitter.com/search?q=%d1%87%d0%b2%d0%ba+%d1%80%d0%b5%d0%b4%d0%b0%d0%bd) | N/A |
 | 6 | [в питере](http://twitter.com/search?q=%d0%b2+%d0%bf%d0%b8%d1%82%d0%b5%d1%80%d0%b5) | N/A |
-| 7 | [Самое](http://twitter.com/search?q=%d0%a1%d0%b0%d0%bc%d0%be%d0%b5) | N/A |
-| 8 | [#Russia](http://twitter.com/search?q=%23Russia) | N/A |
+| 7 | [#Russia](http://twitter.com/search?q=%23Russia) | N/A |
+| 8 | [Самое](http://twitter.com/search?q=%d0%a1%d0%b0%d0%bc%d0%be%d0%b5) | N/A |
 | 9 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
 | 10 | [сочи](http://twitter.com/search?q=%d1%81%d0%be%d1%87%d0%b8) | N/A |
 | 11 | [#applepronews](http://twitter.com/search?q=%23applepronews) | N/A |
 | 12 | [ЛГБТ](http://twitter.com/search?q=%d0%9b%d0%93%d0%91%d0%a2) | N/A |
-| 13 | [Илон Маск](http://twitter.com/search?q=%d0%98%d0%bb%d0%be%d0%bd+%d0%9c%d0%b0%d1%81%d0%ba) | N/A |
-| 14 | [ждём](http://twitter.com/search?q=%d0%b6%d0%b4%d1%91%d0%bc) | N/A |
-| 15 | [Тбилиси](http://twitter.com/search?q=%d0%a2%d0%b1%d0%b8%d0%bb%d0%b8%d1%81%d0%b8) | N/A |
-| 16 | [Выздоравливай](http://twitter.com/search?q=%d0%92%d1%8b%d0%b7%d0%b4%d0%be%d1%80%d0%b0%d0%b2%d0%bb%d0%b8%d0%b2%d0%b0%d0%b9) | N/A |
-| 17 | [короче](http://twitter.com/search?q=%d0%ba%d0%be%d1%80%d0%be%d1%87%d0%b5) | N/A |
-| 18 | [ужасно](http://twitter.com/search?q=%d1%83%d0%b6%d0%b0%d1%81%d0%bd%d0%be) | N/A |
-| 19 | [насколько](http://twitter.com/search?q=%d0%bd%d0%b0%d1%81%d0%ba%d0%be%d0%bb%d1%8c%d0%ba%d0%be) | N/A |
-| 20 | [Слушай](http://twitter.com/search?q=%d0%a1%d0%bb%d1%83%d1%88%d0%b0%d0%b9) | N/A |
-| 21 | [получается](http://twitter.com/search?q=%d0%bf%d0%be%d0%bb%d1%83%d1%87%d0%b0%d0%b5%d1%82%d1%81%d1%8f) | N/A |
-| 22 | [Казахстан](http://twitter.com/search?q=%d0%9a%d0%b0%d0%b7%d0%b0%d1%85%d1%81%d1%82%d0%b0%d0%bd) | N/A |
-| 23 | [#МояГодовщинаВТвиттере](http://twitter.com/search?q=%23%d0%9c%d0%be%d1%8f%d0%93%d0%be%d0%b4%d0%be%d0%b2%d1%89%d0%b8%d0%bd%d0%b0%d0%92%d0%a2%d0%b2%d0%b8%d1%82%d1%82%d0%b5%d1%80%d0%b5) | N/A |
+| 13 | [#decordesign](http://twitter.com/search?q=%23decordesign) | N/A |
+| 14 | [Илон Маск](http://twitter.com/search?q=%d0%98%d0%bb%d0%be%d0%bd+%d0%9c%d0%b0%d1%81%d0%ba) | N/A |
+| 15 | [ждём](http://twitter.com/search?q=%d0%b6%d0%b4%d1%91%d0%bc) | N/A |
+| 16 | [Тбилиси](http://twitter.com/search?q=%d0%a2%d0%b1%d0%b8%d0%bb%d0%b8%d1%81%d0%b8) | N/A |
+| 17 | [Выздоравливай](http://twitter.com/search?q=%d0%92%d1%8b%d0%b7%d0%b4%d0%be%d1%80%d0%b0%d0%b2%d0%bb%d0%b8%d0%b2%d0%b0%d0%b9) | N/A |
+| 18 | [короче](http://twitter.com/search?q=%d0%ba%d0%be%d1%80%d0%be%d1%87%d0%b5) | N/A |
+| 19 | [ужасно](http://twitter.com/search?q=%d1%83%d0%b6%d0%b0%d1%81%d0%bd%d0%be) | N/A |
+| 20 | [насколько](http://twitter.com/search?q=%d0%bd%d0%b0%d1%81%d0%ba%d0%be%d0%bb%d1%8c%d0%ba%d0%be) | N/A |
+| 21 | [слушай](http://twitter.com/search?q=%d1%81%d0%bb%d1%83%d1%88%d0%b0%d0%b9) | N/A |
+| 22 | [получается](http://twitter.com/search?q=%d0%bf%d0%be%d0%bb%d1%83%d1%87%d0%b0%d0%b5%d1%82%d1%81%d1%8f) | N/A |
+| 23 | [Казахстан](http://twitter.com/search?q=%d0%9a%d0%b0%d0%b7%d0%b0%d1%85%d1%81%d1%82%d0%b0%d0%bd) | N/A |
 | 24 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
 | 25 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
 | 26 | [Жаль](http://twitter.com/search?q=%d0%96%d0%b0%d0%bb%d1%8c) | N/A |
@@ -47,10 +47,9 @@ This is top 50 for [Russia](</Russia>)
 | 30 | [примерно](http://twitter.com/search?q=%d0%bf%d1%80%d0%b8%d0%bc%d0%b5%d1%80%d0%bd%d0%be) | N/A |
 | 31 | [Говорят](http://twitter.com/search?q=%d0%93%d0%be%d0%b2%d0%be%d1%80%d1%8f%d1%82) | N/A |
 | 32 | [аналогично](http://twitter.com/search?q=%d0%b0%d0%bd%d0%b0%d0%bb%d0%be%d0%b3%d0%b8%d1%87%d0%bd%d0%be) | N/A |
-| 33 | [Отлично](http://twitter.com/search?q=%d0%9e%d1%82%d0%bb%d0%b8%d1%87%d0%bd%d0%be) | N/A |
+| 33 | [отлично](http://twitter.com/search?q=%d0%be%d1%82%d0%bb%d0%b8%d1%87%d0%bd%d0%be) | N/A |
 | 34 | [в москве](http://twitter.com/search?q=%d0%b2+%d0%bc%d0%be%d1%81%d0%ba%d0%b2%d0%b5) | N/A |
-| 35 | [#decordesign](http://twitter.com/search?q=%23decordesign) | N/A |
-| 36 | [#Aptos](http://twitter.com/search?q=%23Aptos) | N/A |
+| 35 | [#МояГодовщинаВТвиттере](http://twitter.com/search?q=%23%d0%9c%d0%be%d1%8f%d0%93%d0%be%d0%b4%d0%be%d0%b2%d1%89%d0%b8%d0%bd%d0%b0%d0%92%d0%a2%d0%b2%d0%b8%d1%82%d1%82%d0%b5%d1%80%d0%b5) | N/A |
 
 
 

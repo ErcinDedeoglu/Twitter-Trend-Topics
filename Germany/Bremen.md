@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bremen
 
-📆 Last Updated: `2023-03-01 02:44:36 UTC`
+📆 Last Updated: `2023-03-01 03:26:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,15 +22,15 @@ This is top 50 for [Germany](</Germany>)
 | 5 | [Moderator](http://twitter.com/search?q=Moderator) | N/A |
 | 6 | [Heizungen](http://twitter.com/search?q=Heizungen) | N/A |
 | 7 | [Meute](http://twitter.com/search?q=Meute) | N/A |
-| 8 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
-| 9 | [Kriegsverbrechen](http://twitter.com/search?q=Kriegsverbrechen) | N/A |
-| 10 | [YFood](http://twitter.com/search?q=YFood) | N/A |
-| 11 | [Verbot](http://twitter.com/search?q=Verbot) | N/A |
-| 12 | [Nestle](http://twitter.com/search?q=Nestle) | N/A |
+| 8 | [Kriegsverbrechen](http://twitter.com/search?q=Kriegsverbrechen) | N/A |
+| 9 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
+| 10 | [Verbot](http://twitter.com/search?q=Verbot) | N/A |
+| 11 | [Nestle](http://twitter.com/search?q=Nestle) | N/A |
+| 12 | [Yfood](http://twitter.com/search?q=Yfood) | N/A |
 | 13 | [Wärmepumpen](http://twitter.com/search?q=W%c3%a4rmepumpen) | N/A |
-| 14 | [Senioren](http://twitter.com/search?q=Senioren) | N/A |
-| 15 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
-| 16 | [Seenotrettung](http://twitter.com/search?q=Seenotrettung) | N/A |
+| 14 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
+| 15 | [Seenotrettung](http://twitter.com/search?q=Seenotrettung) | N/A |
+| 16 | [Senioren](http://twitter.com/search?q=Senioren) | N/A |
 | 17 | [Strom](http://twitter.com/search?q=Strom) | N/A |
 | 18 | [Boris Johnson](http://twitter.com/search?q=Boris+Johnson) | N/A |
 | 19 | [Ankerkraut](http://twitter.com/search?q=Ankerkraut) | N/A |
@@ -48,21 +48,21 @@ This is top 50 for [Germany](</Germany>)
 | 31 | [Frank Thelen](http://twitter.com/search?q=Frank+Thelen) | N/A |
 | 32 | [Ernährung](http://twitter.com/search?q=Ern%c3%a4hrung) | N/A |
 | 33 | [bestandsflotte](http://twitter.com/search?q=bestandsflotte) | N/A |
-| 34 | [Neubauten](http://twitter.com/search?q=Neubauten) | N/A |
-| 35 | [Zimmermann](http://twitter.com/search?q=Zimmermann) | N/A |
-| 36 | [Prantl](http://twitter.com/search?q=Prantl) | N/A |
-| 37 | [start in die woche](http://twitter.com/search?q=start+in+die+woche) | N/A |
-| 38 | [Süßigkeiten](http://twitter.com/search?q=S%c3%bc%c3%9figkeiten) | N/A |
-| 39 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
-| 40 | [Koalitionsvertrag](http://twitter.com/search?q=Koalitionsvertrag) | N/A |
-| 41 | [Happy 28th](http://twitter.com/search?q=Happy+28th) | N/A |
+| 34 | [Zimmermann](http://twitter.com/search?q=Zimmermann) | N/A |
+| 35 | [Prantl](http://twitter.com/search?q=Prantl) | N/A |
+| 36 | [start in die woche](http://twitter.com/search?q=start+in+die+woche) | N/A |
+| 37 | [Süßigkeiten](http://twitter.com/search?q=S%c3%bc%c3%9figkeiten) | N/A |
+| 38 | [Koalitionsvertrag](http://twitter.com/search?q=Koalitionsvertrag) | N/A |
+| 39 | [Neubauten](http://twitter.com/search?q=Neubauten) | N/A |
+| 40 | [Happy 28th](http://twitter.com/search?q=Happy+28th) | N/A |
+| 41 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
 | 42 | [Teil des Krieges](http://twitter.com/search?q=Teil+des+Krieges) | N/A |
 | 43 | [Heizkörper](http://twitter.com/search?q=Heizk%c3%b6rper) | N/A |
 | 44 | [Nagel](http://twitter.com/search?q=Nagel) | N/A |
-| 45 | [Markt](http://twitter.com/search?q=Markt) | N/A |
-| 46 | [Berliner SPD](http://twitter.com/search?q=Berliner+SPD) | N/A |
-| 47 | [Lebensmittel](http://twitter.com/search?q=Lebensmittel) | N/A |
-| 48 | [trinkgeld](http://twitter.com/search?q=trinkgeld) | N/A |
+| 45 | [Berliner SPD](http://twitter.com/search?q=Berliner+SPD) | N/A |
+| 46 | [Lebensmittel](http://twitter.com/search?q=Lebensmittel) | N/A |
+| 47 | [trinkgeld](http://twitter.com/search?q=trinkgeld) | N/A |
+| 48 | [Fernwärme](http://twitter.com/search?q=Fernw%c3%a4rme) | N/A |
 
 
 

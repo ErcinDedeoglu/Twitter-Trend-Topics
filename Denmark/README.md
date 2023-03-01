@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-03-01 02:45:09 UTC`
+📆 Last Updated: `2023-03-01 03:27:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,12 +22,12 @@ This is top 50 for Denmark
 | 5 | [#dkgreen](http://twitter.com/search?q=%23dkgreen) | N/A |
 | 6 | [wass](http://twitter.com/search?q=wass) | N/A |
 | 7 | [jesper sørensen](http://twitter.com/search?q=jesper+s%c3%b8rensen) | N/A |
-| 8 | [minteh](http://twitter.com/search?q=minteh) | N/A |
-| 9 | [aarhus fremad](http://twitter.com/search?q=aarhus+fremad) | N/A |
-| 10 | [klimarådet](http://twitter.com/search?q=klimar%c3%a5det) | N/A |
-| 11 | [Bell](http://twitter.com/search?q=Bell) | N/A |
+| 8 | [aarhus fremad](http://twitter.com/search?q=aarhus+fremad) | N/A |
+| 9 | [klimarådet](http://twitter.com/search?q=klimar%c3%a5det) | N/A |
+| 10 | [Bell](http://twitter.com/search?q=Bell) | N/A |
+| 11 | [Minteh](http://twitter.com/search?q=Minteh) | N/A |
 | 12 | [Blas](http://twitter.com/search?q=Blas) | N/A |
-| 13 | [Brøndby](http://twitter.com/search?q=Br%c3%b8ndby) | N/A |
+| 13 | [brøndby](http://twitter.com/search?q=br%c3%b8ndby) | N/A |
 | 14 | [troels](http://twitter.com/search?q=troels) | N/A |
 | 15 | [Zulu](http://twitter.com/search?q=Zulu) | N/A |
 | 16 | [Capellas](http://twitter.com/search?q=Capellas) | N/A |
@@ -56,15 +56,15 @@ This is top 50 for Denmark
 | 39 | [skønt](http://twitter.com/search?q=sk%c3%b8nt) | N/A |
 | 40 | [mette frederiksen](http://twitter.com/search?q=mette+frederiksen) | N/A |
 | 41 | [jelert](http://twitter.com/search?q=jelert) | N/A |
-| 42 | [fremragende](http://twitter.com/search?q=fremragende) | N/A |
-| 43 | [esbjerg](http://twitter.com/search?q=esbjerg) | N/A |
-| 44 | [grundloven](http://twitter.com/search?q=grundloven) | N/A |
-| 45 | [kvistgaarden](http://twitter.com/search?q=kvistgaarden) | N/A |
-| 46 | [The EU](http://twitter.com/search?q=The+EU) | N/A |
-| 47 | [Rockwool](http://twitter.com/search?q=Rockwool) | N/A |
-| 48 | [Folketinget](http://twitter.com/search?q=Folketinget) | N/A |
-| 49 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
-| 50 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 42 | [Xbox](http://twitter.com/search?q=Xbox) | N/A |
+| 43 | [fremragende](http://twitter.com/search?q=fremragende) | N/A |
+| 44 | [esbjerg](http://twitter.com/search?q=esbjerg) | N/A |
+| 45 | [grundloven](http://twitter.com/search?q=grundloven) | N/A |
+| 46 | [kvistgaarden](http://twitter.com/search?q=kvistgaarden) | N/A |
+| 47 | [The EU](http://twitter.com/search?q=The+EU) | N/A |
+| 48 | [rockwool](http://twitter.com/search?q=rockwool) | N/A |
+| 49 | [Folketinget](http://twitter.com/search?q=Folketinget) | N/A |
+| 50 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
 
 
 

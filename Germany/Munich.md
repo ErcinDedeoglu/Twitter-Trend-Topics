@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Munich
 
-📆 Last Updated: `2023-03-01 02:44:37 UTC`
+📆 Last Updated: `2023-03-01 03:27:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,19 +20,19 @@ This is top 50 for [Germany](</Germany>)
 | 3 | [#Lanz](http://twitter.com/search?q=%23Lanz) | N/A |
 | 4 | [#eFuels](http://twitter.com/search?q=%23eFuels) | N/A |
 | 5 | [Vergewaltigungen](http://twitter.com/search?q=Vergewaltigungen) | N/A |
-| 6 | [#Varwick](http://twitter.com/search?q=%23Varwick) | N/A |
+| 6 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
 | 7 | [Moderator](http://twitter.com/search?q=Moderator) | N/A |
 | 8 | [Heizungen](http://twitter.com/search?q=Heizungen) | N/A |
 | 9 | [Meute](http://twitter.com/search?q=Meute) | N/A |
 | 10 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
 | 11 | [Kriegsverbrechen](http://twitter.com/search?q=Kriegsverbrechen) | N/A |
-| 12 | [YFood](http://twitter.com/search?q=YFood) | N/A |
-| 13 | [Verbot](http://twitter.com/search?q=Verbot) | N/A |
-| 14 | [Nestle](http://twitter.com/search?q=Nestle) | N/A |
+| 12 | [Verbot](http://twitter.com/search?q=Verbot) | N/A |
+| 13 | [Nestle](http://twitter.com/search?q=Nestle) | N/A |
+| 14 | [Yfood](http://twitter.com/search?q=Yfood) | N/A |
 | 15 | [Wärmepumpen](http://twitter.com/search?q=W%c3%a4rmepumpen) | N/A |
-| 16 | [Senioren](http://twitter.com/search?q=Senioren) | N/A |
-| 17 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
-| 18 | [Seenotrettung](http://twitter.com/search?q=Seenotrettung) | N/A |
+| 16 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
+| 17 | [Seenotrettung](http://twitter.com/search?q=Seenotrettung) | N/A |
+| 18 | [Senioren](http://twitter.com/search?q=Senioren) | N/A |
 | 19 | [Strom](http://twitter.com/search?q=Strom) | N/A |
 | 20 | [Boris Johnson](http://twitter.com/search?q=Boris+Johnson) | N/A |
 | 21 | [Ankerkraut](http://twitter.com/search?q=Ankerkraut) | N/A |
@@ -50,21 +50,21 @@ This is top 50 for [Germany](</Germany>)
 | 33 | [Frank Thelen](http://twitter.com/search?q=Frank+Thelen) | N/A |
 | 34 | [Ernährung](http://twitter.com/search?q=Ern%c3%a4hrung) | N/A |
 | 35 | [bestandsflotte](http://twitter.com/search?q=bestandsflotte) | N/A |
-| 36 | [Neubauten](http://twitter.com/search?q=Neubauten) | N/A |
-| 37 | [Zimmermann](http://twitter.com/search?q=Zimmermann) | N/A |
-| 38 | [Prantl](http://twitter.com/search?q=Prantl) | N/A |
-| 39 | [start in die woche](http://twitter.com/search?q=start+in+die+woche) | N/A |
-| 40 | [Süßigkeiten](http://twitter.com/search?q=S%c3%bc%c3%9figkeiten) | N/A |
-| 41 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
-| 42 | [Koalitionsvertrag](http://twitter.com/search?q=Koalitionsvertrag) | N/A |
-| 43 | [Happy 28th](http://twitter.com/search?q=Happy+28th) | N/A |
+| 36 | [Zimmermann](http://twitter.com/search?q=Zimmermann) | N/A |
+| 37 | [Prantl](http://twitter.com/search?q=Prantl) | N/A |
+| 38 | [start in die woche](http://twitter.com/search?q=start+in+die+woche) | N/A |
+| 39 | [Süßigkeiten](http://twitter.com/search?q=S%c3%bc%c3%9figkeiten) | N/A |
+| 40 | [Koalitionsvertrag](http://twitter.com/search?q=Koalitionsvertrag) | N/A |
+| 41 | [Neubauten](http://twitter.com/search?q=Neubauten) | N/A |
+| 42 | [Happy 28th](http://twitter.com/search?q=Happy+28th) | N/A |
+| 43 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
 | 44 | [Teil des Krieges](http://twitter.com/search?q=Teil+des+Krieges) | N/A |
 | 45 | [Heizkörper](http://twitter.com/search?q=Heizk%c3%b6rper) | N/A |
 | 46 | [Nagel](http://twitter.com/search?q=Nagel) | N/A |
-| 47 | [Markt](http://twitter.com/search?q=Markt) | N/A |
-| 48 | [Berliner SPD](http://twitter.com/search?q=Berliner+SPD) | N/A |
-| 49 | [Lebensmittel](http://twitter.com/search?q=Lebensmittel) | N/A |
-| 50 | [trinkgeld](http://twitter.com/search?q=trinkgeld) | N/A |
+| 47 | [Berliner SPD](http://twitter.com/search?q=Berliner+SPD) | N/A |
+| 48 | [Lebensmittel](http://twitter.com/search?q=Lebensmittel) | N/A |
+| 49 | [trinkgeld](http://twitter.com/search?q=trinkgeld) | N/A |
+| 50 | [Fernwärme](http://twitter.com/search?q=Fernw%c3%a4rme) | N/A |
 
 
 

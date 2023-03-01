@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oslo
 
-📆 Last Updated: `2023-03-01 02:44:41 UTC`
+📆 Last Updated: `2023-03-01 03:27:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,7 +17,7 @@ This is top 50 for [Norway](</Norway>)
 | ------- | ------------ | ------------ |
 | 1 | [Fosen](http://twitter.com/search?q=Fosen) | N/A |
 | 2 | [#nrkdebatt](http://twitter.com/search?q=%23nrkdebatt) | N/A |
-| 3 | [Høyesterett](http://twitter.com/search?q=H%c3%b8yesterett) | N/A |
+| 3 | [høyesterett](http://twitter.com/search?q=h%c3%b8yesterett) | N/A |
 | 4 | [#dax18](http://twitter.com/search?q=%23dax18) | N/A |
 | 5 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
 | 6 | [aasland](http://twitter.com/search?q=aasland) | N/A |
@@ -39,14 +39,14 @@ This is top 50 for [Norway](</Norway>)
 | 22 | [finnmark](http://twitter.com/search?q=finnmark) | N/A |
 | 23 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
 | 24 | [Sparta](http://twitter.com/search?q=Sparta) | N/A |
-| 25 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 26 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 27 | [Solberg](http://twitter.com/search?q=Solberg) | N/A |
-| 28 | [Ella Marie Hætta Isaksen](http://twitter.com/search?q=Ella+Marie+H%c3%a6tta+Isaksen) | N/A |
+| 25 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 26 | [Solberg](http://twitter.com/search?q=Solberg) | N/A |
+| 27 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 28 | [ella marie hætta isaksen](http://twitter.com/search?q=ella+marie+h%c3%a6tta+isaksen) | N/A |
 | 29 | [melkøya](http://twitter.com/search?q=melk%c3%b8ya) | N/A |
 | 30 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
 | 31 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 32 | [Vålerenga](http://twitter.com/search?q=V%c3%a5lerenga) | N/A |
+| 32 | [vålerenga](http://twitter.com/search?q=v%c3%a5lerenga) | N/A |
 | 33 | [Aner](http://twitter.com/search?q=Aner) | N/A |
 | 34 | [stjernen](http://twitter.com/search?q=stjernen) | N/A |
 | 35 | [Husk](http://twitter.com/search?q=Husk) | N/A |
@@ -63,8 +63,8 @@ This is top 50 for [Norway](</Norway>)
 | 46 | [Roan](http://twitter.com/search?q=Roan) | N/A |
 | 47 | [grunnloven](http://twitter.com/search?q=grunnloven) | N/A |
 | 48 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
-| 49 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
-| 50 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 49 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 50 | [olje](http://twitter.com/search?q=olje) | N/A |
 
 
 

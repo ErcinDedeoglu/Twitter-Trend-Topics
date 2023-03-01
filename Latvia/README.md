@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-03-01 02:45:12 UTC`
+📆 Last Updated: `2023-03-01 03:27:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -34,17 +34,17 @@ This is top 50 for Latvia
 | 17 | [apsveicu](http://twitter.com/search?q=apsveicu) | N/A |
 | 18 | [IKEA](http://twitter.com/search?q=IKEA) | N/A |
 | 19 | [vienmēr](http://twitter.com/search?q=vienm%c4%93r) | N/A |
-| 20 | [#sif_maf2022](http://twitter.com/search?q=%23sif_maf2022) | N/A |
-| 21 | [valsts](http://twitter.com/search?q=valsts) | N/A |
-| 22 | [atceros](http://twitter.com/search?q=atceros) | N/A |
-| 23 | [kurzemē](http://twitter.com/search?q=kurzem%c4%93) | N/A |
-| 24 | [kultūras](http://twitter.com/search?q=kult%c5%abras) | N/A |
-| 25 | [baigi](http://twitter.com/search?q=baigi) | N/A |
-| 26 | [tāpat](http://twitter.com/search?q=t%c4%81pat) | N/A |
-| 27 | [#birdle](http://twitter.com/search?q=%23birdle) | N/A |
-| 28 | [Nezinu](http://twitter.com/search?q=Nezinu) | N/A |
-| 29 | [domā](http://twitter.com/search?q=dom%c4%81) | N/A |
-| 30 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
+| 20 | [#birdle](http://twitter.com/search?q=%23birdle) | N/A |
+| 21 | [#sif_maf2022](http://twitter.com/search?q=%23sif_maf2022) | N/A |
+| 22 | [valsts](http://twitter.com/search?q=valsts) | N/A |
+| 23 | [atceros](http://twitter.com/search?q=atceros) | N/A |
+| 24 | [kurzemē](http://twitter.com/search?q=kurzem%c4%93) | N/A |
+| 25 | [kultūras](http://twitter.com/search?q=kult%c5%abras) | N/A |
+| 26 | [baigi](http://twitter.com/search?q=baigi) | N/A |
+| 27 | [Nezinu](http://twitter.com/search?q=Nezinu) | N/A |
+| 28 | [domā](http://twitter.com/search?q=dom%c4%81) | N/A |
+| 29 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
+| 30 | [Kāpēc](http://twitter.com/search?q=K%c4%81p%c4%93c) | N/A |
 | 31 | [Covid](http://twitter.com/search?q=Covid) | N/A |
 | 32 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
 | 33 | [ķīnu](http://twitter.com/search?q=%c4%b7%c4%abnu) | N/A |
@@ -53,15 +53,16 @@ This is top 50 for Latvia
 | 36 | [#ETHDenver](http://twitter.com/search?q=%23ETHDenver) | N/A |
 | 37 | [Mans](http://twitter.com/search?q=Mans) | N/A |
 | 38 | [ņemot](http://twitter.com/search?q=%c5%86emot) | N/A |
-| 39 | [vakar](http://twitter.com/search?q=vakar) | N/A |
-| 40 | [tātad](http://twitter.com/search?q=t%c4%81tad) | N/A |
-| 41 | [dievs](http://twitter.com/search?q=dievs) | N/A |
-| 42 | [Pilnīgi](http://twitter.com/search?q=Piln%c4%abgi) | N/A |
-| 43 | [ceru](http://twitter.com/search?q=ceru) | N/A |
-| 44 | [šajā](http://twitter.com/search?q=%c5%a1aj%c4%81) | N/A |
-| 45 | [baltkrievijas](http://twitter.com/search?q=baltkrievijas) | N/A |
-| 46 | [liepājas](http://twitter.com/search?q=liep%c4%81jas) | N/A |
-| 47 | [Кстати](http://twitter.com/search?q=%d0%9a%d1%81%d1%82%d0%b0%d1%82%d0%b8) | N/A |
+| 39 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
+| 40 | [vakar](http://twitter.com/search?q=vakar) | N/A |
+| 41 | [Tātad](http://twitter.com/search?q=T%c4%81tad) | N/A |
+| 42 | [dievs](http://twitter.com/search?q=dievs) | N/A |
+| 43 | [pilnīgi](http://twitter.com/search?q=piln%c4%abgi) | N/A |
+| 44 | [ceru](http://twitter.com/search?q=ceru) | N/A |
+| 45 | [šajā](http://twitter.com/search?q=%c5%a1aj%c4%81) | N/A |
+| 46 | [baltkrievijas](http://twitter.com/search?q=baltkrievijas) | N/A |
+| 47 | [liepājas](http://twitter.com/search?q=liep%c4%81jas) | N/A |
+| 48 | [Кстати](http://twitter.com/search?q=%d0%9a%d1%81%d1%82%d0%b0%d1%82%d0%b8) | N/A |
 
 
 

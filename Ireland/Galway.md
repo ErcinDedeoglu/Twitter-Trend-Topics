@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Galway
 
-📆 Last Updated: `2023-03-01 02:44:35 UTC`
+📆 Last Updated: `2023-03-01 03:26:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -40,9 +40,9 @@ This is top 50 for [Ireland](</Ireland>)
 | 23 | [Niall O'Connor](http://twitter.com/search?q=Niall+O%27Connor) | N/A |
 | 24 | [Claudia](http://twitter.com/search?q=Claudia) | Claudia is a female given name of Latin origin, derived from the Roman clan name Claudius. It means "lame" or "disabled". |
 | 25 | [Stormont](http://twitter.com/search?q=Stormont) | N/A |
-| 26 | [sanam](http://twitter.com/search?q=sanam) | N/A |
+| 26 | [Sanam](http://twitter.com/search?q=Sanam) | N/A |
 | 27 | [Dermot Morgan](http://twitter.com/search?q=Dermot+Morgan) | N/A |
-| 28 | [Shels](http://twitter.com/search?q=Shels) | N/A |
+| 28 | [shels](http://twitter.com/search?q=shels) | N/A |
 | 29 | [Samie](http://twitter.com/search?q=Samie) | Samie is a given name of Arabic origin, meaning "elevated" or "lofty". |
 | 30 | [Minnie](http://twitter.com/search?q=Minnie) | N/A |
 | 31 | [Roca](http://twitter.com/search?q=Roca) | N/A |

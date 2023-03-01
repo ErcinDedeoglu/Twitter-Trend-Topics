@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-03-01 02:44:41 UTC`
+📆 Last Updated: `2023-03-01 03:27:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -34,27 +34,27 @@ This is top 50 for [Latvia](</Latvia>)
 | 17 | [apsveicu](http://twitter.com/search?q=apsveicu) | N/A |
 | 18 | [IKEA](http://twitter.com/search?q=IKEA) | N/A |
 | 19 | [vienmēr](http://twitter.com/search?q=vienm%c4%93r) | N/A |
-| 20 | [#sif_maf2022](http://twitter.com/search?q=%23sif_maf2022) | N/A |
-| 21 | [valsts](http://twitter.com/search?q=valsts) | N/A |
-| 22 | [atceros](http://twitter.com/search?q=atceros) | N/A |
-| 23 | [kurzemē](http://twitter.com/search?q=kurzem%c4%93) | N/A |
-| 24 | [kultūras](http://twitter.com/search?q=kult%c5%abras) | N/A |
-| 25 | [baigi](http://twitter.com/search?q=baigi) | N/A |
-| 26 | [tāpat](http://twitter.com/search?q=t%c4%81pat) | N/A |
-| 27 | [#birdle](http://twitter.com/search?q=%23birdle) | N/A |
-| 28 | [Nezinu](http://twitter.com/search?q=Nezinu) | N/A |
-| 29 | [domā](http://twitter.com/search?q=dom%c4%81) | N/A |
-| 30 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
-| 31 | [Covid](http://twitter.com/search?q=Covid) | N/A |
-| 32 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 33 | [ķīnu](http://twitter.com/search?q=%c4%b7%c4%abnu) | N/A |
-| 34 | [nevajag](http://twitter.com/search?q=nevajag) | N/A |
-| 35 | [skaisti](http://twitter.com/search?q=skaisti) | N/A |
-| 36 | [#ETHDenver](http://twitter.com/search?q=%23ETHDenver) | N/A |
-| 37 | [Mans](http://twitter.com/search?q=Mans) | N/A |
-| 38 | [ņemot](http://twitter.com/search?q=%c5%86emot) | N/A |
+| 20 | [#birdle](http://twitter.com/search?q=%23birdle) | N/A |
+| 21 | [#sif_maf2022](http://twitter.com/search?q=%23sif_maf2022) | N/A |
+| 22 | [valsts](http://twitter.com/search?q=valsts) | N/A |
+| 23 | [atceros](http://twitter.com/search?q=atceros) | N/A |
+| 24 | [kurzemē](http://twitter.com/search?q=kurzem%c4%93) | N/A |
+| 25 | [kultūras](http://twitter.com/search?q=kult%c5%abras) | N/A |
+| 26 | [baigi](http://twitter.com/search?q=baigi) | N/A |
+| 27 | [Nezinu](http://twitter.com/search?q=Nezinu) | N/A |
+| 28 | [domā](http://twitter.com/search?q=dom%c4%81) | N/A |
+| 29 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
+| 30 | [Covid](http://twitter.com/search?q=Covid) | N/A |
+| 31 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 32 | [ķīnu](http://twitter.com/search?q=%c4%b7%c4%abnu) | N/A |
+| 33 | [nevajag](http://twitter.com/search?q=nevajag) | N/A |
+| 34 | [skaisti](http://twitter.com/search?q=skaisti) | N/A |
+| 35 | [#ETHDenver](http://twitter.com/search?q=%23ETHDenver) | N/A |
+| 36 | [Mans](http://twitter.com/search?q=Mans) | N/A |
+| 37 | [ņemot](http://twitter.com/search?q=%c5%86emot) | N/A |
+| 38 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
 | 39 | [vakar](http://twitter.com/search?q=vakar) | N/A |
-| 40 | [tātad](http://twitter.com/search?q=t%c4%81tad) | N/A |
+| 40 | [Tātad](http://twitter.com/search?q=T%c4%81tad) | N/A |
 | 41 | [dievs](http://twitter.com/search?q=dievs) | N/A |
 | 42 | [Pilnīgi](http://twitter.com/search?q=Piln%c4%abgi) | N/A |
 | 43 | [ceru](http://twitter.com/search?q=ceru) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gothenburg
 
-📆 Last Updated: `2023-03-01 02:44:41 UTC`
+📆 Last Updated: `2023-03-01 03:27:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,9 +18,9 @@ This is top 50 for [Sweden](</Sweden>)
 | 1 | [Olof Palme](http://twitter.com/search?q=Olof+Palme) | N/A |
 | 2 | [#jagvetvadensnippaär](http://twitter.com/search?q=%23jagvetvadensnippa%c3%a4r) | N/A |
 | 3 | [Luleå](http://twitter.com/search?q=Lule%c3%a5) | N/A |
-| 4 | [elsa widding](http://twitter.com/search?q=elsa+widding) | N/A |
+| 4 | [Olausson](http://twitter.com/search?q=Olausson) | N/A |
 | 5 | [Juha Valjakkala](http://twitter.com/search?q=Juha+Valjakkala) | N/A |
-| 6 | [Olausson](http://twitter.com/search?q=Olausson) | N/A |
+| 6 | [Elsa Widding](http://twitter.com/search?q=Elsa+Widding) | N/A |
 | 7 | [Gillman](http://twitter.com/search?q=Gillman) | N/A |
 | 8 | [svenska freds](http://twitter.com/search?q=svenska+freds) | N/A |
 | 9 | [Olle](http://twitter.com/search?q=Olle) | N/A |
@@ -43,23 +43,23 @@ This is top 50 for [Sweden](</Sweden>)
 | 26 | [#leksandsif](http://twitter.com/search?q=%23leksandsif) | N/A |
 | 27 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
 | 28 | [#norrsken](http://twitter.com/search?q=%23norrsken) | N/A |
-| 29 | [Egyptsons](http://twitter.com/search?q=Egyptsons) | N/A |
+| 29 | [egyptsons](http://twitter.com/search?q=egyptsons) | N/A |
 | 30 | [Rögle](http://twitter.com/search?q=R%c3%b6gle) | N/A |
 | 31 | [#PokemonDay](http://twitter.com/search?q=%23PokemonDay) | N/A |
 | 32 | [Sign the Petition](http://twitter.com/search?q=Sign+the+Petition) | N/A |
 | 33 | [Saol](http://twitter.com/search?q=Saol) | N/A |
-| 34 | [Göteborg](http://twitter.com/search?q=G%c3%b6teborg) | N/A |
-| 35 | [åklagaren](http://twitter.com/search?q=%c3%a5klagaren) | N/A |
-| 36 | [#Auroraborealis](http://twitter.com/search?q=%23Auroraborealis) | N/A |
-| 37 | [shinnimin](http://twitter.com/search?q=shinnimin) | N/A |
-| 38 | [norrköping](http://twitter.com/search?q=norrk%c3%b6ping) | N/A |
-| 39 | [Hovrätten](http://twitter.com/search?q=Hovr%c3%a4tten) | N/A |
+| 34 | [åklagaren](http://twitter.com/search?q=%c3%a5klagaren) | N/A |
+| 35 | [#auroraborealis](http://twitter.com/search?q=%23auroraborealis) | N/A |
+| 36 | [shinnimin](http://twitter.com/search?q=shinnimin) | N/A |
+| 37 | [norrköping](http://twitter.com/search?q=norrk%c3%b6ping) | N/A |
+| 38 | [Hovrätten](http://twitter.com/search?q=Hovr%c3%a4tten) | N/A |
+| 39 | [Göteborg](http://twitter.com/search?q=G%c3%b6teborg) | N/A |
 | 40 | [Feven](http://twitter.com/search?q=Feven) | N/A |
 | 41 | [västerbotten](http://twitter.com/search?q=v%c3%a4sterbotten) | N/A |
 | 42 | [Klarna](http://twitter.com/search?q=Klarna) | N/A |
 | 43 | [arbetsförmedlingen](http://twitter.com/search?q=arbetsf%c3%b6rmedlingen) | N/A |
 | 44 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 45 | [malmö ff](http://twitter.com/search?q=malm%c3%b6+ff) | N/A |
+| 45 | [Malmö FF](http://twitter.com/search?q=Malm%c3%b6+FF) | N/A |
 | 46 | [GDPR](http://twitter.com/search?q=GDPR) | N/A |
 | 47 | [SvFF](http://twitter.com/search?q=SvFF) | N/A |
 | 48 | [Maja](http://twitter.com/search?q=Maja) | N/A |
