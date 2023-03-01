@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Leipzig
 
-📆 Last Updated: `2023-03-01 21:16:36 UTC`
+📆 Last Updated: `2023-03-01 22:15:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#bachelor](http://twitter.com/search?q=%23bachelor) | N/A |
-| 2 | [#AktenzeichenXY](http://twitter.com/search?q=%23AktenzeichenXY) | N/A |
-| 3 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
-| 4 | [#eFuels](http://twitter.com/search?q=%23eFuels) | N/A |
+| 2 | [#KlamrothLügt](http://twitter.com/search?q=%23KlamrothL%c3%bcgt) | N/A |
+| 3 | [#AktenzeichenXY](http://twitter.com/search?q=%23AktenzeichenXY) | N/A |
+| 4 | [#Giffey](http://twitter.com/search?q=%23Giffey) | N/A |
 | 5 | [Heizungen](http://twitter.com/search?q=Heizungen) | N/A |
 | 6 | [Koalition](http://twitter.com/search?q=Koalition) | N/A |
 | 7 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
-| 8 | [Vergewaltigungen](http://twitter.com/search?q=Vergewaltigungen) | N/A |
-| 9 | [Außenpolitik](http://twitter.com/search?q=Au%c3%9fenpolitik) | N/A |
-| 10 | [Wärmepumpe](http://twitter.com/search?q=W%c3%a4rmepumpe) | N/A |
+| 8 | [Außenpolitik](http://twitter.com/search?q=Au%c3%9fenpolitik) | N/A |
+| 9 | [Vergewaltigungen](http://twitter.com/search?q=Vergewaltigungen) | N/A |
+| 10 | [KARL](http://twitter.com/search?q=KARL) | N/A |
 | 11 | [Verbote](http://twitter.com/search?q=Verbote) | N/A |
-| 12 | [Jahre Berufserfahrung](http://twitter.com/search?q=Jahre+Berufserfahrung) | N/A |
-| 13 | [KARL](http://twitter.com/search?q=KARL) | N/A |
-| 14 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
-| 15 | [Kriegsverbrechen](http://twitter.com/search?q=Kriegsverbrechen) | N/A |
-| 16 | [Wochenteiler](http://twitter.com/search?q=Wochenteiler) | N/A |
-| 17 | [Strom](http://twitter.com/search?q=Strom) | N/A |
-| 18 | [YFood](http://twitter.com/search?q=YFood) | N/A |
-| 19 | [Moderator](http://twitter.com/search?q=Moderator) | N/A |
-| 20 | [Leyla](http://twitter.com/search?q=Leyla) | N/A |
-| 21 | [Nuhr](http://twitter.com/search?q=Nuhr) | N/A |
-| 22 | [Maske](http://twitter.com/search?q=Maske) | N/A |
-| 23 | [bergfest](http://twitter.com/search?q=bergfest) | N/A |
-| 24 | [Content Creator](http://twitter.com/search?q=Content+Creator) | N/A |
-| 25 | [TINA](http://twitter.com/search?q=TINA) | N/A |
-| 26 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 27 | [Fiona](http://twitter.com/search?q=Fiona) | N/A |
-| 28 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
-| 29 | [Uhren](http://twitter.com/search?q=Uhren) | N/A |
-| 30 | [Berliner SPD](http://twitter.com/search?q=Berliner+SPD) | N/A |
-| 31 | [Nestle](http://twitter.com/search?q=Nestle) | N/A |
-| 32 | [Seenotrettung](http://twitter.com/search?q=Seenotrettung) | N/A |
-| 33 | [pika](http://twitter.com/search?q=pika) | N/A |
-| 34 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 35 | [Frühlingsanfang](http://twitter.com/search?q=Fr%c3%bchlingsanfang) | N/A |
-| 36 | [Bundesrat](http://twitter.com/search?q=Bundesrat) | N/A |
-| 37 | [GIVE US WN BLOOPERS](http://twitter.com/search?q=GIVE+US+WN+BLOOPERS) | N/A |
-| 38 | [willkommen bei twitter](http://twitter.com/search?q=willkommen+bei+twitter) | N/A |
-| 39 | [Zellhaufen](http://twitter.com/search?q=Zellhaufen) | N/A |
+| 12 | [Wärmepumpe](http://twitter.com/search?q=W%c3%a4rmepumpe) | N/A |
+| 13 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
+| 14 | [Kriegsverbrechen](http://twitter.com/search?q=Kriegsverbrechen) | N/A |
+| 15 | [Wochenteiler](http://twitter.com/search?q=Wochenteiler) | N/A |
+| 16 | [Maske](http://twitter.com/search?q=Maske) | N/A |
+| 17 | [Leyla](http://twitter.com/search?q=Leyla) | N/A |
+| 18 | [Moderator](http://twitter.com/search?q=Moderator) | N/A |
+| 19 | [Strom](http://twitter.com/search?q=Strom) | N/A |
+| 20 | [YFood](http://twitter.com/search?q=YFood) | N/A |
+| 21 | [Jahre Berufserfahrung](http://twitter.com/search?q=Jahre+Berufserfahrung) | N/A |
+| 22 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 23 | [Fiona](http://twitter.com/search?q=Fiona) | N/A |
+| 24 | [Nuhr](http://twitter.com/search?q=Nuhr) | N/A |
+| 25 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 26 | [Content Creator](http://twitter.com/search?q=Content+Creator) | N/A |
+| 27 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
+| 28 | [bergfest](http://twitter.com/search?q=bergfest) | N/A |
+| 29 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 30 | [Bundesrat](http://twitter.com/search?q=Bundesrat) | N/A |
+| 31 | [Berliner SPD](http://twitter.com/search?q=Berliner+SPD) | N/A |
+| 32 | [Nestle](http://twitter.com/search?q=Nestle) | N/A |
+| 33 | [Uhren](http://twitter.com/search?q=Uhren) | N/A |
+| 34 | [Seenotrettung](http://twitter.com/search?q=Seenotrettung) | N/A |
+| 35 | [pika](http://twitter.com/search?q=pika) | N/A |
+| 36 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 37 | [Frühlingsanfang](http://twitter.com/search?q=Fr%c3%bchlingsanfang) | N/A |
+| 38 | [Zellhaufen](http://twitter.com/search?q=Zellhaufen) | N/A |
+| 39 | [GIVE US WN BLOOPERS](http://twitter.com/search?q=GIVE+US+WN+BLOOPERS) | N/A |
 | 40 | [Iggy Pop](http://twitter.com/search?q=Iggy+Pop) | N/A |
-| 41 | [Schwarz-Rot](http://twitter.com/search?q=Schwarz-Rot) | N/A |
-| 42 | [Frau Deutschlands](http://twitter.com/search?q=Frau+Deutschlands) | N/A |
-| 43 | [Jusos](http://twitter.com/search?q=Jusos) | N/A |
-| 44 | [Technologieoffenheit](http://twitter.com/search?q=Technologieoffenheit) | N/A |
-| 45 | [schönen mittwoch](http://twitter.com/search?q=sch%c3%b6nen+mittwoch) | N/A |
-| 46 | [Meute](http://twitter.com/search?q=Meute) | N/A |
-| 47 | [ChatGPT API](http://twitter.com/search?q=ChatGPT+API) | N/A |
-| 48 | [SpongeBob](http://twitter.com/search?q=SpongeBob) | N/A |
-| 49 | [Kraftstoffe](http://twitter.com/search?q=Kraftstoffe) | N/A |
+| 41 | [Feiertage](http://twitter.com/search?q=Feiertage) | Feiertage is a German word meaning "holidays" or "celebrations". It is used to refer to public holidays, religious holidays, and other special occasions. |
+| 42 | ["Meute"](http://twitter.com/search?q=%22Meute%22) | N/A |
+| 43 | [Schwarz-Rot](http://twitter.com/search?q=Schwarz-Rot) | N/A |
+| 44 | [Frau Deutschlands](http://twitter.com/search?q=Frau+Deutschlands) | N/A |
+| 45 | [Kai Wegner](http://twitter.com/search?q=Kai+Wegner) | N/A |
+| 46 | [schönen mittwoch](http://twitter.com/search?q=sch%c3%b6nen+mittwoch) | N/A |
+| 47 | [tina](http://twitter.com/search?q=tina) | N/A |
+| 48 | [Jusos](http://twitter.com/search?q=Jusos) | N/A |
+| 49 | [Tierney](http://twitter.com/search?q=Tierney) | Tierney is a surname of Irish origin. It is derived from the Gaelic name Ó Tíghearnaigh, which means "descendant of the lord". |
 
 
 

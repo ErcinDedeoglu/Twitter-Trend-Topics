@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Murcia
 
-📆 Last Updated: `2023-03-01 21:16:38 UTC`
+📆 Last Updated: `2023-03-01 22:15:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Spain](</Spain>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Abde](http://twitter.com/search?q=Abde) | Abde is a name of Arabic origin that means "servant of God". |
-| 2 | [Ferrovial](http://twitter.com/search?q=Ferrovial) | N/A |
-| 3 | [#FirstDates1M](http://twitter.com/search?q=%23FirstDates1M) | N/A |
-| 4 | [Osasuna](http://twitter.com/search?q=Osasuna) | Osasuna is a Spanish football club based in Pamplona, Navarre. The name Osasuna means "health" or "vigor" in the Basque language. |
-| 5 | [De Marcos](http://twitter.com/search?q=De+Marcos) | N/A |
-| 6 | [#Solos1M](http://twitter.com/search?q=%23Solos1M) | N/A |
-| 7 | [TINA](http://twitter.com/search?q=TINA) | N/A |
-| 8 | [#Pasapalabra715](http://twitter.com/search?q=%23Pasapalabra715) | N/A |
-| 9 | [Vivian](http://twitter.com/search?q=Vivian) | N/A |
-| 10 | [KARL](http://twitter.com/search?q=KARL) | N/A |
-| 11 | [Berenguer](http://twitter.com/search?q=Berenguer) | N/A |
-| 12 | [Vesga](http://twitter.com/search?q=Vesga) | N/A |
-| 13 | [Holanda](http://twitter.com/search?q=Holanda) | N/A |
-| 14 | [Países Bajos](http://twitter.com/search?q=Pa%c3%adses+Bajos) | N/A |
-| 15 | [#CopaDelRey](http://twitter.com/search?q=%23CopaDelRey) | #CopaDelRey is the Spanish Cup, an annual football tournament in Spain. In English, it translates to "King's Cup". |
-| 16 | [Bukayo Saka](http://twitter.com/search?q=Bukayo+Saka) | N/A |
-| 17 | [El Sadar](http://twitter.com/search?q=El+Sadar) | N/A |
-| 18 | [Dani García](http://twitter.com/search?q=Dani+Garc%c3%ada) | N/A |
-| 19 | [#NoElegíAlBorbón](http://twitter.com/search?q=%23NoEleg%c3%adAlBorb%c3%b3n) | N/A |
-| 20 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 21 | [Venus y Júpiter](http://twitter.com/search?q=Venus+y+J%c3%bapiter) | N/A |
-| 22 | [El Cádiz](http://twitter.com/search?q=El+C%c3%a1diz) | N/A |
-| 23 | [Sancet](http://twitter.com/search?q=Sancet) | Sancet is a Spanish word meaning "sanctuary". It is used to refer to a place of refuge or safety. |
-| 24 | [Muniain](http://twitter.com/search?q=Muniain) | N/A |
-| 25 | [Iñaki Williams](http://twitter.com/search?q=I%c3%b1aki+Williams) | N/A |
-| 26 | [Aouar](http://twitter.com/search?q=Aouar) | N/A |
-| 27 | [Chimy](http://twitter.com/search?q=Chimy) | N/A |
-| 28 | [Audiencia Nacional](http://twitter.com/search?q=Audiencia+Nacional) | N/A |
-| 29 | [Youth League](http://twitter.com/search?q=Youth+League) | N/A |
-| 30 | [PP de Canarias](http://twitter.com/search?q=PP+de+Canarias) | N/A |
-| 31 | [Zarraga](http://twitter.com/search?q=Zarraga) | N/A |
-| 32 | [sam levinson](http://twitter.com/search?q=sam+levinson) | N/A |
-| 33 | [Simon](http://twitter.com/search?q=Simon) | N/A |
-| 34 | [Genk](http://twitter.com/search?q=Genk) | N/A |
-| 35 | [Adrián Niño](http://twitter.com/search?q=Adri%c3%a1n+Ni%c3%b1o) | N/A |
-| 36 | [Patxi](http://twitter.com/search?q=Patxi) | N/A |
-| 37 | [Colchero](http://twitter.com/search?q=Colchero) | N/A |
-| 38 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 39 | [Grogu](http://twitter.com/search?q=Grogu) | N/A |
-| 40 | [Fernando Torres](http://twitter.com/search?q=Fernando+Torres) | N/A |
-| 41 | [Henry](http://twitter.com/search?q=Henry) | N/A |
-| 42 | [Orestes](http://twitter.com/search?q=Orestes) | N/A |
-| 43 | [Ibex](http://twitter.com/search?q=Ibex) | N/A |
-| 44 | [Zoro](http://twitter.com/search?q=Zoro) | N/A |
-| 45 | [Metallica](http://twitter.com/search?q=Metallica) | N/A |
-| 46 | [Pachi](http://twitter.com/search?q=Pachi) | N/A |
-| 47 | [Serbia](http://twitter.com/search?q=Serbia) | N/A |
-| 48 | [Yoli](http://twitter.com/search?q=Yoli) | N/A |
-| 49 | [Eladio Carrión](http://twitter.com/search?q=Eladio+Carri%c3%b3n) | N/A |
-| 50 | [PutiSOE](http://twitter.com/search?q=PutiSOE) | N/A |
+| 2 | [Osasuna](http://twitter.com/search?q=Osasuna) | Osasuna is a Spanish football club based in Pamplona, Navarre. The name Osasuna means "health" or "vigor" in the Basque language. |
+| 3 | [Ferrovial](http://twitter.com/search?q=Ferrovial) | N/A |
+| 4 | [#BoséPastorEH](http://twitter.com/search?q=%23Bos%c3%a9PastorEH) | N/A |
+| 5 | [#FirstDates1M](http://twitter.com/search?q=%23FirstDates1M) | N/A |
+| 6 | [#Escandalo8](http://twitter.com/search?q=%23Escandalo8) | N/A |
+| 7 | [San Mamés](http://twitter.com/search?q=San+Mam%c3%a9s) | San Mamés is the name of a football stadium in Bilbao, Spain. It is the home stadium of Athletic Bilbao, a Spanish football club. The name San Mamés comes from a local saint, Saint Mammes of Caesarea, who was martyred in the 3rd century AD. In English, San Mamés translates to "Saint Mammes". |
+| 8 | [Vesga](http://twitter.com/search?q=Vesga) | N/A |
+| 9 | [#elconquis7ETB](http://twitter.com/search?q=%23elconquis7ETB) | N/A |
+| 10 | [De Marcos](http://twitter.com/search?q=De+Marcos) | N/A |
+| 11 | [#Solos1M](http://twitter.com/search?q=%23Solos1M) | N/A |
+| 12 | [Dani García](http://twitter.com/search?q=Dani+Garc%c3%ada) | N/A |
+| 13 | [El Sadar](http://twitter.com/search?q=El+Sadar) | N/A |
+| 14 | [Vivian](http://twitter.com/search?q=Vivian) | N/A |
+| 15 | [tina](http://twitter.com/search?q=tina) | N/A |
+| 16 | [Iñaki Williams](http://twitter.com/search?q=I%c3%b1aki+Williams) | N/A |
+| 17 | [Zarraga](http://twitter.com/search?q=Zarraga) | N/A |
+| 18 | [Berenguer](http://twitter.com/search?q=Berenguer) | N/A |
+| 19 | [Holanda](http://twitter.com/search?q=Holanda) | N/A |
+| 20 | [Sancet](http://twitter.com/search?q=Sancet) | Sancet is a Spanish word meaning "sanctuary". It is used to refer to a place of refuge or safety. |
+| 21 | [Países Bajos](http://twitter.com/search?q=Pa%c3%adses+Bajos) | N/A |
+| 22 | [KARL](http://twitter.com/search?q=KARL) | N/A |
+| 23 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 24 | [Bukayo Saka](http://twitter.com/search?q=Bukayo+Saka) | N/A |
+| 25 | [Muniain](http://twitter.com/search?q=Muniain) | N/A |
+| 26 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 27 | [FA Cup](http://twitter.com/search?q=FA+Cup) | The FA Cup is an annual knockout football competition in England. It is the oldest football competition in the world and is run by The Football Association (FA). The FA Cup is open to any club in the top four tiers of English football, from the Premier League down to the semi-professional leagues. The tournament culminates with a final at Wembley Stadium, usually held in May. |
+| 28 | [Lekue](http://twitter.com/search?q=Lekue) | N/A |
+| 29 | [Venus y Júpiter](http://twitter.com/search?q=Venus+y+J%c3%bapiter) | N/A |
+| 30 | [Sergio Herrera](http://twitter.com/search?q=Sergio+Herrera) | N/A |
+| 31 | [El ÚNICO](http://twitter.com/search?q=El+%c3%9aNICO) | N/A |
+| 32 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 33 | [Moi Gómez](http://twitter.com/search?q=Moi+G%c3%b3mez) | N/A |
+| 34 | [Audiencia Nacional](http://twitter.com/search?q=Audiencia+Nacional) | N/A |
+| 35 | [Aouar](http://twitter.com/search?q=Aouar) | N/A |
+| 36 | [El Arsenal](http://twitter.com/search?q=El+Arsenal) | N/A |
+| 37 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 38 | [El Cádiz](http://twitter.com/search?q=El+C%c3%a1diz) | N/A |
+| 39 | [Chimy](http://twitter.com/search?q=Chimy) | N/A |
+| 40 | [Raúl García](http://twitter.com/search?q=Ra%c3%bal+Garc%c3%ada) | N/A |
+| 41 | [Miren](http://twitter.com/search?q=Miren) | N/A |
+| 42 | [Ainara](http://twitter.com/search?q=Ainara) | N/A |
+| 43 | [Grogu](http://twitter.com/search?q=Grogu) | N/A |
+| 44 | [Colchero](http://twitter.com/search?q=Colchero) | N/A |
+| 45 | [Genk](http://twitter.com/search?q=Genk) | N/A |
+| 46 | [PP de Canarias](http://twitter.com/search?q=PP+de+Canarias) | N/A |
+| 47 | [Patxi](http://twitter.com/search?q=Patxi) | N/A |
+| 48 | [Aimar](http://twitter.com/search?q=Aimar) | N/A |
+| 49 | [Nico Williams](http://twitter.com/search?q=Nico+Williams) | N/A |
+| 50 | [Youth League](http://twitter.com/search?q=Youth+League) | N/A |
 
 
 

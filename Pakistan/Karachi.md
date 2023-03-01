@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Karachi
 
-📆 Last Updated: `2023-03-01 21:16:54 UTC`
+📆 Last Updated: `2023-03-01 22:16:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,46 +25,46 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 8 | [From 2-3 to 197-5](http://twitter.com/search?q=From+2-3+to+197-5) | N/A |
 | 9 | [Punjab](http://twitter.com/search?q=Punjab) | N/A |
 | 10 | [Imad](http://twitter.com/search?q=Imad) | N/A |
-| 11 | [Peshawar Zalmi](http://twitter.com/search?q=Peshawar+Zalmi) | N/A |
-| 12 | [Lala](http://twitter.com/search?q=Lala) | N/A |
-| 13 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 14 | [British Council](http://twitter.com/search?q=British+Council) | N/A |
-| 15 | [transforming schools](http://twitter.com/search?q=transforming+schools) | N/A |
-| 16 | [Shoaib Malik](http://twitter.com/search?q=Shoaib+Malik) | N/A |
-| 17 | [Wahab](http://twitter.com/search?q=Wahab) | N/A |
-| 18 | [Wade](http://twitter.com/search?q=Wade) | N/A |
-| 19 | [Constitution](http://twitter.com/search?q=Constitution) | N/A |
-| 20 | [joon](http://twitter.com/search?q=joon) | Joon is a Persian word that means "soul" or "spirit". It is often used to refer to the inner essence of a person, and is sometimes used as a term of endearment. |
-| 21 | [Mujeeb](http://twitter.com/search?q=Mujeeb) | N/A |
-| 22 | [Rs 5](http://twitter.com/search?q=Rs+5) | Rs 5 is the abbreviation for Indian Rupee 5, which is equivalent to approximately 0.068 US Dollars. |
-| 23 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 24 | [Bismah Maroof](http://twitter.com/search?q=Bismah+Maroof) | N/A |
-| 25 | [Qasim Akram](http://twitter.com/search?q=Qasim+Akram) | N/A |
-| 26 | [Munshi](http://twitter.com/search?q=Munshi) | N/A |
-| 27 | [Tom Kohler](http://twitter.com/search?q=Tom+Kohler) | N/A |
-| 28 | [Dubai](http://twitter.com/search?q=Dubai) | Dubai is a city and emirate in the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the capital of the Emirate of Dubai, one of the seven emirates that make up the country. The word "Dubai" translates to "money" in English. |
-| 29 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 30 | [jennie](http://twitter.com/search?q=jennie) | N/A |
-| 31 | [Pishin](http://twitter.com/search?q=Pishin) | N/A |
+| 11 | [Lala](http://twitter.com/search?q=Lala) | N/A |
+| 12 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 13 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 14 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 15 | [Fixer](http://twitter.com/search?q=Fixer) | N/A |
+| 16 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 17 | [British Council](http://twitter.com/search?q=British+Council) | N/A |
+| 18 | [Peshawar Zalmi](http://twitter.com/search?q=Peshawar+Zalmi) | N/A |
+| 19 | [Wahab](http://twitter.com/search?q=Wahab) | N/A |
+| 20 | [transforming schools](http://twitter.com/search?q=transforming+schools) | N/A |
+| 21 | [Wade](http://twitter.com/search?q=Wade) | N/A |
+| 22 | [Constitution](http://twitter.com/search?q=Constitution) | N/A |
+| 23 | [joon](http://twitter.com/search?q=joon) | Joon is a Persian word that means "soul" or "spirit". It is often used to refer to the inner essence of a person, and is sometimes used as a term of endearment. |
+| 24 | [Rs 5](http://twitter.com/search?q=Rs+5) | Rs 5 is the abbreviation for Indian Rupee 5, which is equivalent to approximately 0.068 US Dollars. |
+| 25 | [Mujeeb](http://twitter.com/search?q=Mujeeb) | N/A |
+| 26 | [Bismah Maroof](http://twitter.com/search?q=Bismah+Maroof) | N/A |
+| 27 | [Qasim Akram](http://twitter.com/search?q=Qasim+Akram) | N/A |
+| 28 | [Munshi](http://twitter.com/search?q=Munshi) | N/A |
+| 29 | [Shoaib Malik](http://twitter.com/search?q=Shoaib+Malik) | N/A |
+| 30 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 31 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
 | 32 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
 | 33 | [Match](http://twitter.com/search?q=Match) | N/A |
-| 34 | [Masha Allah](http://twitter.com/search?q=Masha+Allah) | N/A |
-| 35 | [Best of Luck](http://twitter.com/search?q=Best+of+Luck) | N/A |
-| 36 | [Dropped](http://twitter.com/search?q=Dropped) | N/A |
-| 37 | [Rawalpindi](http://twitter.com/search?q=Rawalpindi) | N/A |
-| 38 | [Meri](http://twitter.com/search?q=Meri) | N/A |
-| 39 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 40 | [Atleast](http://twitter.com/search?q=Atleast) | N/A |
-| 41 | [2nd March](http://twitter.com/search?q=2nd+March) | N/A |
-| 42 | [Kindly DM](http://twitter.com/search?q=Kindly+DM) | N/A |
-| 43 | [Coming Soon](http://twitter.com/search?q=Coming+Soon) | N/A |
+| 34 | [Dropped](http://twitter.com/search?q=Dropped) | N/A |
+| 35 | [Your DM](http://twitter.com/search?q=Your+DM) | N/A |
+| 36 | [Masha Allah](http://twitter.com/search?q=Masha+Allah) | N/A |
+| 37 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 38 | [Oops](http://twitter.com/search?q=Oops) | N/A |
+| 39 | [2nd March](http://twitter.com/search?q=2nd+March) | N/A |
+| 40 | [Absolutely Yes](http://twitter.com/search?q=Absolutely+Yes) | N/A |
+| 41 | [Target](http://twitter.com/search?q=Target) | N/A |
+| 42 | [Haya](http://twitter.com/search?q=Haya) | N/A |
+| 43 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 44 | [Ya Allah](http://twitter.com/search?q=Ya+Allah) | N/A |
-| 45 | [Your DM](http://twitter.com/search?q=Your+DM) | N/A |
-| 46 | [Aray](http://twitter.com/search?q=Aray) | N/A |
-| 47 | [Congratulations Sir](http://twitter.com/search?q=Congratulations+Sir) | N/A |
-| 48 | [Absolutely Yes](http://twitter.com/search?q=Absolutely+Yes) | N/A |
-| 49 | [Saim](http://twitter.com/search?q=Saim) | N/A |
-| 50 | [Haya](http://twitter.com/search?q=Haya) | N/A |
+| 45 | [Coming Soon](http://twitter.com/search?q=Coming+Soon) | N/A |
+| 46 | [Meri](http://twitter.com/search?q=Meri) | N/A |
+| 47 | [Kindly DM](http://twitter.com/search?q=Kindly+DM) | N/A |
+| 48 | [Congratulations Sir](http://twitter.com/search?q=Congratulations+Sir) | N/A |
+| 49 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 50 | [Saim](http://twitter.com/search?q=Saim) | N/A |
 
 
 

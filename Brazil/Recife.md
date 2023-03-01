@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Recife
 
-📆 Last Updated: `2023-03-01 21:16:31 UTC`
+📆 Last Updated: `2023-03-01 22:15:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#IMPETUOSO](http://twitter.com/search?q=%23IMPETUOSO) | N/A |
-| 2 | [all of the girls](http://twitter.com/search?q=all+of+the+girls) | N/A |
-| 3 | [Thaissa](http://twitter.com/search?q=Thaissa) | N/A |
-| 4 | [ORDEM TRÊS ANOS](http://twitter.com/search?q=ORDEM+TR%c3%8aS+ANOS) | N/A |
-| 5 | [Nova Iguaçu](http://twitter.com/search?q=Nova+Igua%c3%a7u) | Nova Iguaçu is a city in the state of Rio de Janeiro, Brazil. The name Nova Iguaçu translates to "New Iguaçu" in English, referring to the nearby Iguaçu River. |
-| 6 | [Neto](http://twitter.com/search?q=Neto) | Neto is a Portuguese word meaning "net" or "net profit". It is commonly used to refer to the amount of money that remains after all taxes, deductions, and other expenses have been taken out of a total amount. |
-| 7 | [twenty one pilots](http://twitter.com/search?q=twenty+one+pilots) | N/A |
-| 8 | [sam levinson](http://twitter.com/search?q=sam+levinson) | N/A |
-| 9 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 1 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 2 | [#bigfone](http://twitter.com/search?q=%23bigfone) | N/A |
+| 3 | [Key e Black](http://twitter.com/search?q=Key+e+Black) | N/A |
+| 4 | [#IMPETUOSO](http://twitter.com/search?q=%23IMPETUOSO) | N/A |
+| 5 | [ORDEM TRÊS ANOS](http://twitter.com/search?q=ORDEM+TR%c3%8aS+ANOS) | N/A |
+| 6 | [all of the girls](http://twitter.com/search?q=all+of+the+girls) | N/A |
+| 7 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 8 | [Thaissa](http://twitter.com/search?q=Thaissa) | N/A |
+| 9 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
 | 10 | [jennie](http://twitter.com/search?q=jennie) | N/A |
-| 11 | [Zinchenko](http://twitter.com/search?q=Zinchenko) | Zinchenko is a Russian surname derived from the word "zinchen", which means "little one". It is a patronymic name, meaning it is derived from the given name of a father or ancestor. In English, it can be translated to mean "son of Zincha". |
-| 12 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
-| 13 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
-| 14 | [Chelo](http://twitter.com/search?q=Chelo) | N/A |
-| 15 | [O Vitória](http://twitter.com/search?q=O+Vit%c3%b3ria) | N/A |
-| 16 | [Pedro Lourenço](http://twitter.com/search?q=Pedro+Louren%c3%a7o) | N/A |
-| 17 | [#HYBEPROTECTRM](http://twitter.com/search?q=%23HYBEPROTECTRM) | N/A |
-| 18 | [Emma Watson](http://twitter.com/search?q=Emma+Watson) | N/A |
-| 19 | [Lucy Liu](http://twitter.com/search?q=Lucy+Liu) | N/A |
-| 20 | [Emma Stone](http://twitter.com/search?q=Emma+Stone) | N/A |
-| 21 | [PADARIA TA ON](http://twitter.com/search?q=PADARIA+TA+ON) | N/A |
-| 22 | [Blink](http://twitter.com/search?q=Blink) | N/A |
-| 23 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 24 | [Tom Hardy](http://twitter.com/search?q=Tom+Hardy) | N/A |
-| 25 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 26 | [BIGHIT PROTECT RM](http://twitter.com/search?q=BIGHIT+PROTECT+RM) | N/A |
-| 27 | [Lover](http://twitter.com/search?q=Lover) | N/A |
-| 28 | [Pedrinho BH](http://twitter.com/search?q=Pedrinho+BH) | N/A |
-| 29 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
-| 30 | [Chris Evans](http://twitter.com/search?q=Chris+Evans) | Chris Evans is the name of an American actor, best known for his roles in Marvel superhero films such as Captain America and The Avengers. He has also starred in films such as Snowpiercer, Gifted, and Knives Out. |
-| 31 | [Fábio Mota](http://twitter.com/search?q=F%c3%a1bio+Mota) | N/A |
-| 32 | [20% da SAF](http://twitter.com/search?q=20%25+da+SAF) | N/A |
-| 33 | [Jaeci Carvalho](http://twitter.com/search?q=Jaeci+Carvalho) | N/A |
-| 34 | [Lupita Nyong](http://twitter.com/search?q=Lupita+Nyong) | N/A |
-| 35 | [Calvin Harris](http://twitter.com/search?q=Calvin+Harris) | N/A |
-| 36 | [Mads Mikkelsen](http://twitter.com/search?q=Mads+Mikkelsen) | N/A |
-| 37 | [#ADona059](http://twitter.com/search?q=%23ADona059) | N/A |
-| 38 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 39 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 40 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
-| 41 | [#GoIMP](http://twitter.com/search?q=%23GoIMP) | N/A |
-| 42 | [Terrence Malick](http://twitter.com/search?q=Terrence+Malick) | N/A |
-| 43 | [Artur](http://twitter.com/search?q=Artur) | N/A |
-| 44 | [Benedict Cumberbatch](http://twitter.com/search?q=Benedict+Cumberbatch) | N/A |
-| 45 | [Imperial](http://twitter.com/search?q=Imperial) | N/A |
-| 46 | [Perisic](http://twitter.com/search?q=Perisic) | Perisic is a surname of Slavic origin. It is derived from the personal name Pero, which is a diminutive of Peter. The English meaning of the name is "son of Peter". |
-| 47 | [Haddad](http://twitter.com/search?q=Haddad) | N/A |
-| 48 | [Elliott](http://twitter.com/search?q=Elliott) | Elliott is a masculine given name of English origin. It is derived from the Old English name "Aelfweard", which means "wise guardian". |
-| 49 | [The Idol](http://twitter.com/search?q=The+Idol) | N/A |
+| 11 | [sam levinson](http://twitter.com/search?q=sam+levinson) | N/A |
+| 12 | [Nova Iguaçu](http://twitter.com/search?q=Nova+Igua%c3%a7u) | Nova Iguaçu is a city in the state of Rio de Janeiro, Brazil. The name Nova Iguaçu translates to "New Iguaçu" in English, referring to the nearby Iguaçu River. |
+| 13 | [Kscerato](http://twitter.com/search?q=Kscerato) | N/A |
+| 14 | [FUMA Y JOGA](http://twitter.com/search?q=FUMA+Y+JOGA) | N/A |
+| 15 | [twenty one pilots](http://twitter.com/search?q=twenty+one+pilots) | N/A |
+| 16 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
+| 17 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 18 | [Neto](http://twitter.com/search?q=Neto) | Neto is a Portuguese word meaning "net" or "net profit". It is commonly used to refer to the amount of money that remains after all taxes, deductions, and other expenses have been taken out of a total amount. |
+| 19 | [Paul Tierney](http://twitter.com/search?q=Paul+Tierney) | N/A |
+| 20 | [Zinchenko](http://twitter.com/search?q=Zinchenko) | Zinchenko is a Russian surname derived from the word "zinchen", which means "little one". It is a patronymic name, meaning it is derived from the given name of a father or ancestor. In English, it can be translated to mean "son of Zincha". |
+| 21 | [#TresVezesAna023](http://twitter.com/search?q=%23TresVezesAna023) | N/A |
+| 22 | [Emma Stone](http://twitter.com/search?q=Emma+Stone) | N/A |
+| 23 | [Pedro Lourenço](http://twitter.com/search?q=Pedro+Louren%c3%a7o) | N/A |
+| 24 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 25 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
+| 26 | [O Vitória](http://twitter.com/search?q=O+Vit%c3%b3ria) | N/A |
+| 27 | [Odegaard](http://twitter.com/search?q=Odegaard) | Odegaard is a Norwegian surname. It is derived from the Old Norse words "óðr", meaning "inspiration" or "poetry", and "garðr", meaning "enclosure" or "farm". In English, the name can be translated to mean "inspiring farm". |
+| 28 | [Emma Watson](http://twitter.com/search?q=Emma+Watson) | N/A |
+| 29 | [#ADona059](http://twitter.com/search?q=%23ADona059) | N/A |
+| 30 | [Lover](http://twitter.com/search?q=Lover) | N/A |
+| 31 | [Artur](http://twitter.com/search?q=Artur) | N/A |
+| 32 | [Tom Hardy](http://twitter.com/search?q=Tom+Hardy) | N/A |
+| 33 | [Saffee](http://twitter.com/search?q=Saffee) | N/A |
+| 34 | [Imperial](http://twitter.com/search?q=Imperial) | N/A |
+| 35 | [Top Album](http://twitter.com/search?q=Top+Album) | N/A |
+| 36 | [Top Artist](http://twitter.com/search?q=Top+Artist) | N/A |
+| 37 | [Chris Evans](http://twitter.com/search?q=Chris+Evans) | Chris Evans is the name of an American actor, best known for his roles in Marvel superhero films such as Captain America and The Avengers. He has also starred in films such as Snowpiercer, Gifted, and Knives Out. |
+| 38 | [Candoca](http://twitter.com/search?q=Candoca) | N/A |
+| 39 | [No. Scrobbles](http://twitter.com/search?q=No.+Scrobbles) | N/A |
+| 40 | [Top Track](http://twitter.com/search?q=Top+Track) | N/A |
+| 41 | [Helena Bonham](http://twitter.com/search?q=Helena+Bonham) | N/A |
+| 42 | [20% da SAF](http://twitter.com/search?q=20%25+da+SAF) | N/A |
+| 43 | [calvin harris](http://twitter.com/search?q=calvin+harris) | N/A |
+| 44 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
+| 45 | [Perisic](http://twitter.com/search?q=Perisic) | Perisic is a surname of Slavic origin. It is derived from the personal name Pero, which is a diminutive of Peter. The English meaning of the name is "son of Peter". |
+| 46 | [Pedrinho BH](http://twitter.com/search?q=Pedrinho+BH) | N/A |
+| 47 | [Tom Hiddleston](http://twitter.com/search?q=Tom+Hiddleston) | N/A |
+| 48 | [Lucy Liu](http://twitter.com/search?q=Lucy+Liu) | N/A |
+| 49 | [Mads Mikkelsen](http://twitter.com/search?q=Mads+Mikkelsen) | N/A |
 
 
 

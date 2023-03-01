@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palermo
 
-📆 Last Updated: `2023-03-01 21:16:37 UTC`
+📆 Last Updated: `2023-03-01 22:15:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,52 +16,53 @@ This is top 50 for [Italy](</Italy>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#chilhavisto](http://twitter.com/search?q=%23chilhavisto) | #Chilhavisto is a Spanish hashtag that translates to "Have you seen it?" It is used to ask if someone has seen something, such as a movie, TV show, or video. |
-| 2 | [#NameThatTune](http://twitter.com/search?q=%23NameThatTune) | N/A |
-| 3 | [Fontana](http://twitter.com/search?q=Fontana) | N/A |
-| 4 | [Speranza](http://twitter.com/search?q=Speranza) | N/A |
-| 5 | [Bergamo](http://twitter.com/search?q=Bergamo) | N/A |
-| 6 | [Jessica](http://twitter.com/search?q=Jessica) | N/A |
-| 7 | [Domenico Cuomo](http://twitter.com/search?q=Domenico+Cuomo) | N/A |
-| 8 | [Robert](http://twitter.com/search?q=Robert) | N/A |
-| 9 | [Giove](http://twitter.com/search?q=Giove) | N/A |
-| 10 | [Raffaele](http://twitter.com/search?q=Raffaele) | N/A |
-| 11 | [Locatelli](http://twitter.com/search?q=Locatelli) | Locatelli is an Italian cheese made from sheep's milk. It is a hard, salty cheese with a strong flavor and a granular texture. The name Locatelli comes from the Italian word "locatello," which means "little place." |
-| 12 | [Arcilesbica](http://twitter.com/search?q=Arcilesbica) | N/A |
-| 13 | [Feltri](http://twitter.com/search?q=Feltri) | N/A |
-| 14 | [Rozzano](http://twitter.com/search?q=Rozzano) | N/A |
-| 15 | [Gianluca](http://twitter.com/search?q=Gianluca) | N/A |
-| 16 | [Foggia](http://twitter.com/search?q=Foggia) | N/A |
-| 17 | [Guardia Costiera](http://twitter.com/search?q=Guardia+Costiera) | N/A |
-| 18 | [Diana](http://twitter.com/search?q=Diana) | N/A |
-| 19 | [Lamorgese](http://twitter.com/search?q=Lamorgese) | N/A |
-| 20 | [Assago](http://twitter.com/search?q=Assago) | N/A |
-| 21 | [Gerry](http://twitter.com/search?q=Gerry) | N/A |
-| 22 | [Serra](http://twitter.com/search?q=Serra) | N/A |
-| 23 | [Cutro](http://twitter.com/search?q=Cutro) | N/A |
-| 24 | [Bombetta](http://twitter.com/search?q=Bombetta) | N/A |
-| 25 | [#chilhavisters](http://twitter.com/search?q=%23chilhavisters) | N/A |
-| 26 | [#BohemianRhapsody](http://twitter.com/search?q=%23BohemianRhapsody) | N/A |
-| 27 | [#upas](http://twitter.com/search?q=%23upas) | N/A |
-| 28 | [#controcorrente](http://twitter.com/search?q=%23controcorrente) | N/A |
-| 29 | [#staseraitalia](http://twitter.com/search?q=%23staseraitalia) | N/A |
-| 30 | [#ottoemezzo](http://twitter.com/search?q=%23ottoemezzo) | N/A |
-| 31 | [#MichelleImpossible](http://twitter.com/search?q=%23MichelleImpossible) | N/A |
-| 32 | [#CagliariGenoa](http://twitter.com/search?q=%23CagliariGenoa) | N/A |
-| 33 | [#leredità](http://twitter.com/search?q=%23leredit%c3%a0) | N/A |
-| 34 | [#Musetti](http://twitter.com/search?q=%23Musetti) | N/A |
-| 35 | [#COVID19](http://twitter.com/search?q=%23COVID19) | N/A |
-| 36 | [#blob](http://twitter.com/search?q=%23blob) | N/A |
-| 37 | [#indirettaconjess](http://twitter.com/search?q=%23indirettaconjess) | N/A |
-| 38 | [#DontForgetTheLyrics](http://twitter.com/search?q=%23DontForgetTheLyrics) | N/A |
-| 39 | [#damellis](http://twitter.com/search?q=%23damellis) | N/A |
-| 40 | [#Bersani](http://twitter.com/search?q=%23Bersani) | N/A |
-| 41 | [#YalıÇapkını](http://twitter.com/search?q=%23Yal%c4%b1%c3%87apk%c4%b1n%c4%b1) | Yalıçapkını is a Turkish phrase that literally translates to "house-boat captain". It is used to refer to someone who is a leader or a person in charge. |
-| 42 | [#Cardinale](http://twitter.com/search?q=%23Cardinale) | N/A |
-| 43 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 44 | [#MoonlightChickenEP7](http://twitter.com/search?q=%23MoonlightChickenEP7) | N/A |
-| 45 | [#AdimFarah](http://twitter.com/search?q=%23AdimFarah) | N/A |
-| 46 | [#PiantedosiFaiSchifo](http://twitter.com/search?q=%23PiantedosiFaiSchifo) | N/A |
-| 47 | [#1Marzo2023](http://twitter.com/search?q=%231Marzo2023) | N/A |
+| 2 | [#MareFuori3](http://twitter.com/search?q=%23MareFuori3) | N/A |
+| 3 | [#BohemianRhapsody](http://twitter.com/search?q=%23BohemianRhapsody) | N/A |
+| 4 | [Liliana](http://twitter.com/search?q=Liliana) | N/A |
+| 5 | [Sebastiano](http://twitter.com/search?q=Sebastiano) | N/A |
+| 6 | [Fontana](http://twitter.com/search?q=Fontana) | N/A |
+| 7 | [Speranza](http://twitter.com/search?q=Speranza) | N/A |
+| 8 | [Gaetano](http://twitter.com/search?q=Gaetano) | N/A |
+| 9 | [Bergamo](http://twitter.com/search?q=Bergamo) | N/A |
+| 10 | [Domenico Cuomo](http://twitter.com/search?q=Domenico+Cuomo) | N/A |
+| 11 | [Roger](http://twitter.com/search?q=Roger) | N/A |
+| 12 | [Cardio](http://twitter.com/search?q=Cardio) | N/A |
+| 13 | [Jessica](http://twitter.com/search?q=Jessica) | N/A |
+| 14 | [Trieste](http://twitter.com/search?q=Trieste) | N/A |
+| 15 | [Filippo](http://twitter.com/search?q=Filippo) | N/A |
+| 16 | [Robert](http://twitter.com/search?q=Robert) | N/A |
+| 17 | [Giove](http://twitter.com/search?q=Giove) | N/A |
+| 18 | [Raffaele](http://twitter.com/search?q=Raffaele) | N/A |
+| 19 | [Feltri](http://twitter.com/search?q=Feltri) | N/A |
+| 20 | [Locatelli](http://twitter.com/search?q=Locatelli) | Locatelli is an Italian cheese made from sheep's milk. It is a hard, salty cheese with a strong flavor and a granular texture. The name Locatelli comes from the Italian word "locatello," which means "little place." |
+| 21 | [Arcilesbica](http://twitter.com/search?q=Arcilesbica) | N/A |
+| 22 | [Rozzano](http://twitter.com/search?q=Rozzano) | N/A |
+| 23 | [Gianluca](http://twitter.com/search?q=Gianluca) | N/A |
+| 24 | [Procura](http://twitter.com/search?q=Procura) | N/A |
+| 25 | [Foggia](http://twitter.com/search?q=Foggia) | N/A |
+| 26 | [Guardia Costiera](http://twitter.com/search?q=Guardia+Costiera) | N/A |
+| 27 | [Diana](http://twitter.com/search?q=Diana) | N/A |
+| 28 | [Gerry](http://twitter.com/search?q=Gerry) | N/A |
+| 29 | [Lamorgese](http://twitter.com/search?q=Lamorgese) | N/A |
+| 30 | [Assago](http://twitter.com/search?q=Assago) | N/A |
+| 31 | [Cutro](http://twitter.com/search?q=Cutro) | N/A |
+| 32 | [Serra](http://twitter.com/search?q=Serra) | N/A |
+| 33 | [Frontex](http://twitter.com/search?q=Frontex) | N/A |
+| 34 | [Bombetta](http://twitter.com/search?q=Bombetta) | N/A |
+| 35 | [Pink Floyd](http://twitter.com/search?q=Pink+Floyd) | Pink Floyd is an English rock band formed in London in 1965. The band achieved international success with their progressive and psychedelic music. The band's classic lineup consisted of Syd Barrett, Nick Mason, Roger Waters, Richard Wright and David Gilmour. The name "Pink Floyd" is derived from the names of two blues musicians, Pink Anderson and Floyd Council. |
+| 36 | [#NameThatTune](http://twitter.com/search?q=%23NameThatTune) | N/A |
+| 37 | [#MichelleImpossible](http://twitter.com/search?q=%23MichelleImpossible) | N/A |
+| 38 | [#chilhavisters](http://twitter.com/search?q=%23chilhavisters) | N/A |
+| 39 | [#controcorrente](http://twitter.com/search?q=%23controcorrente) | N/A |
+| 40 | [#Atlantide](http://twitter.com/search?q=%23Atlantide) | N/A |
+| 41 | [#CagliariGenoa](http://twitter.com/search?q=%23CagliariGenoa) | N/A |
+| 42 | [#upas](http://twitter.com/search?q=%23upas) | N/A |
+| 43 | [#staseraitalia](http://twitter.com/search?q=%23staseraitalia) | N/A |
+| 44 | [#ottoemezzo](http://twitter.com/search?q=%23ottoemezzo) | N/A |
+| 45 | [#ilvolo](http://twitter.com/search?q=%23ilvolo) | N/A |
+| 46 | [#Musetti](http://twitter.com/search?q=%23Musetti) | N/A |
+| 47 | [#COVID19](http://twitter.com/search?q=%23COVID19) | N/A |
+| 48 | [#indirettaconjess](http://twitter.com/search?q=%23indirettaconjess) | N/A |
 
 
 

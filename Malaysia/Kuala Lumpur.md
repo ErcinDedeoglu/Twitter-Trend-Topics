@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kuala Lumpur
 
-📆 Last Updated: `2023-03-01 21:16:47 UTC`
+📆 Last Updated: `2023-03-01 22:16:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Malaysia](</Malaysia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 2 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 3 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 4 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 5 | [pika](http://twitter.com/search?q=pika) | N/A |
-| 6 | [#MoonlightChickenEP7](http://twitter.com/search?q=%23MoonlightChickenEP7) | N/A |
-| 7 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 8 | [GOSE](http://twitter.com/search?q=GOSE) | N/A |
-| 9 | [Cleanser](http://twitter.com/search?q=Cleanser) | N/A |
-| 10 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
-| 11 | [#ROVER_3rdTeaser](http://twitter.com/search?q=%23ROVER_3rdTeaser) | N/A |
-| 12 | [Sunscreen - Biore](http://twitter.com/search?q=Sunscreen+-+Biore) | N/A |
-| 13 | [Green Tea](http://twitter.com/search?q=Green+Tea) | N/A |
-| 14 | [Sunscreen - 3W](http://twitter.com/search?q=Sunscreen+-+3W) | N/A |
-| 15 | [#ROAR1stWin](http://twitter.com/search?q=%23ROAR1stWin) | N/A |
-| 16 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 17 | [JISOO THE FACE OF DIOR](http://twitter.com/search?q=JISOO+THE+FACE+OF+DIOR) | N/A |
-| 18 | [Top 5](http://twitter.com/search?q=Top+5) | Top 5 is a phrase used to refer to the five best or most popular items in a particular category. It is commonly used to refer to the five best movies, songs, books, or other items in a given field. |
-| 19 | [Penang](http://twitter.com/search?q=Penang) | N/A |
-| 20 | [Teh Ais](http://twitter.com/search?q=Teh+Ais) | N/A |
-| 21 | [Hadi](http://twitter.com/search?q=Hadi) | N/A |
-| 22 | [#SPM2022](http://twitter.com/search?q=%23SPM2022) | N/A |
-| 23 | [#TAEHYUNGxSiminvest](http://twitter.com/search?q=%23TAEHYUNGxSiminvest) | N/A |
-| 24 | [KAI ROVER TEASER IMAGES 2](http://twitter.com/search?q=KAI+ROVER+TEASER+IMAGES+2) | N/A |
-| 25 | [DONE MAI](http://twitter.com/search?q=DONE+MAI) | N/A |
-| 26 | [Plain Water](http://twitter.com/search?q=Plain+Water) | N/A |
-| 27 | [eth to eth](http://twitter.com/search?q=eth+to+eth) | N/A |
-| 28 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 29 | [TOGETHER FOR BUILD](http://twitter.com/search?q=TOGETHER+FOR+BUILD) | N/A |
-| 30 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
-| 31 | [Limau Ais](http://twitter.com/search?q=Limau+Ais) | N/A |
-| 32 | [Milo Ais](http://twitter.com/search?q=Milo+Ais) | N/A |
-| 33 | [Toby](http://twitter.com/search?q=Toby) | N/A |
-| 34 | [Iced Latte](http://twitter.com/search?q=Iced+Latte) | N/A |
-| 35 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 36 | [Caramel Macchiato](http://twitter.com/search?q=Caramel+Macchiato) | N/A |
-| 37 | [BORN TO SHINE DAYEON](http://twitter.com/search?q=BORN+TO+SHINE+DAYEON) | N/A |
-| 38 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
-| 39 | [kedah](http://twitter.com/search?q=kedah) | N/A |
-| 40 | [ice lemon tea](http://twitter.com/search?q=ice+lemon+tea) | N/A |
-| 41 | [Honey Lemon](http://twitter.com/search?q=Honey+Lemon) | N/A |
-| 42 | [sunscreen - wardah](http://twitter.com/search?q=sunscreen+-+wardah) | N/A |
-| 43 | [Jimin x L'Officiel Malaysia](http://twitter.com/search?q=Jimin+x+L%27Officiel+Malaysia) | N/A |
-| 44 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 45 | [Johor](http://twitter.com/search?q=Johor) | N/A |
-| 46 | [jennie](http://twitter.com/search?q=jennie) | N/A |
-| 47 | [park hanbin](http://twitter.com/search?q=park+hanbin) | N/A |
-| 48 | [jongup](http://twitter.com/search?q=jongup) | N/A |
-| 49 | [SIMINVEST AMBASSADOR V](http://twitter.com/search?q=SIMINVEST+AMBASSADOR+V) | N/A |
-| 50 | [KIM TAEHYUNG FOR SIMINVEST](http://twitter.com/search?q=KIM+TAEHYUNG+FOR+SIMINVEST) | N/A |
+| 1 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
+| 2 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 3 | [#FACup](http://twitter.com/search?q=%23FACup) | #FACup is an abbreviation for the Football Association Challenge Cup, which is an annual knockout football competition in England. It is the oldest football competition in the world and is open to all teams from the top four tiers of English football. |
+| 4 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 5 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 6 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
+| 7 | [#GGMU](http://twitter.com/search?q=%23GGMU) | #GGMU is an acronym for the phrase “Glory, Glory, Manchester United”. It is a chant used by Manchester United fans to show their support for the team. |
+| 8 | [Jota](http://twitter.com/search?q=Jota) | N/A |
+| 9 | [Starboy](http://twitter.com/search?q=Starboy) | "Starboy" is a song by Canadian singer The Weeknd, released as the lead single from his third studio album of the same name. The song's title is a reference to The Weeknd's persona and is meant to signify his rise to fame. In English, "Starboy" can be interpreted as someone who has achieved great success and is now living the life of a celebrity. |
+| 10 | [#MUNWHU](http://twitter.com/search?q=%23MUNWHU) | N/A |
+| 11 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 12 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 13 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 14 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
+| 15 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
+| 16 | [pika](http://twitter.com/search?q=pika) | N/A |
+| 17 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
+| 18 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 19 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 20 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 21 | [GOSE](http://twitter.com/search?q=GOSE) | N/A |
+| 22 | [Cleanser](http://twitter.com/search?q=Cleanser) | N/A |
+| 23 | [ROVER IS COMING](http://twitter.com/search?q=ROVER+IS+COMING) | N/A |
+| 24 | [Green Tea](http://twitter.com/search?q=Green+Tea) | N/A |
+| 25 | [Sunscreen - Biore](http://twitter.com/search?q=Sunscreen+-+Biore) | N/A |
+| 26 | [sunscreen - 3w](http://twitter.com/search?q=sunscreen+-+3w) | N/A |
+| 27 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 28 | [JISOO THE FACE OF DIOR](http://twitter.com/search?q=JISOO+THE+FACE+OF+DIOR) | N/A |
+| 29 | [teh ais](http://twitter.com/search?q=teh+ais) | N/A |
+| 30 | [Hadi](http://twitter.com/search?q=Hadi) | N/A |
+| 31 | [penang](http://twitter.com/search?q=penang) | N/A |
+| 32 | [joonie](http://twitter.com/search?q=joonie) | N/A |
+| 33 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 34 | [done mai](http://twitter.com/search?q=done+mai) | N/A |
+| 35 | [KAI ROVER TEASER IMAGES 2](http://twitter.com/search?q=KAI+ROVER+TEASER+IMAGES+2) | N/A |
+| 36 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 37 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
+| 38 | [Plain Water](http://twitter.com/search?q=Plain+Water) | N/A |
+| 39 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
+| 40 | [TOGETHER FOR BUILD](http://twitter.com/search?q=TOGETHER+FOR+BUILD) | N/A |
+| 41 | [eth to eth](http://twitter.com/search?q=eth+to+eth) | N/A |
+| 42 | [Limau Ais](http://twitter.com/search?q=Limau+Ais) | N/A |
+| 43 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 44 | [Milo Ais](http://twitter.com/search?q=Milo+Ais) | N/A |
+| 45 | [iced latte](http://twitter.com/search?q=iced+latte) | N/A |
+| 46 | [Toby](http://twitter.com/search?q=Toby) | N/A |
+| 47 | [Caramel Macchiato](http://twitter.com/search?q=Caramel+Macchiato) | N/A |
+| 48 | [BORN TO SHINE DAYEON](http://twitter.com/search?q=BORN+TO+SHINE+DAYEON) | N/A |
+| 49 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 50 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kraków
 
-📆 Last Updated: `2023-03-01 21:16:33 UTC`
+📆 Last Updated: `2023-03-01 22:15:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,50 @@ This is top 50 for [Poland](</Poland>)
 | ------- | ------------ | ------------ |
 | 1 | [Żołnierzy Wyklętych](http://twitter.com/search?q=%c5%bbo%c5%82nierzy+Wykl%c4%99tych) | N/A |
 | 2 | [Chwała Bohaterom](http://twitter.com/search?q=Chwa%c5%82a+Bohaterom) | N/A |
-| 3 | [#1marca](http://twitter.com/search?q=%231marca) | N/A |
-| 4 | [#BielanOddajKase](http://twitter.com/search?q=%23BielanOddajKase) | N/A |
-| 5 | [#OligarchaPutina](http://twitter.com/search?q=%23OligarchaPutina) | N/A |
+| 3 | [#wtylewizji](http://twitter.com/search?q=%23wtylewizji) | N/A |
+| 4 | [#1marca](http://twitter.com/search?q=%231marca) | N/A |
+| 5 | [#BielanOddajKase](http://twitter.com/search?q=%23BielanOddajKase) | N/A |
 | 6 | [Wenus](http://twitter.com/search?q=Wenus) | N/A |
-| 7 | [#KKSŚLĄ](http://twitter.com/search?q=%23KKS%c5%9aL%c4%84) | N/A |
-| 8 | [KKS Kalisz](http://twitter.com/search?q=KKS+Kalisz) | N/A |
-| 9 | [Jowisz](http://twitter.com/search?q=Jowisz) | N/A |
-| 10 | [#MOTRCZ](http://twitter.com/search?q=%23MOTRCZ) | N/A |
-| 11 | [KARL](http://twitter.com/search?q=KARL) | N/A |
-| 12 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 13 | [Dworczyka](http://twitter.com/search?q=Dworczyka) | N/A |
-| 14 | [Referendum](http://twitter.com/search?q=Referendum) | N/A |
+| 7 | [KKS Kalisz](http://twitter.com/search?q=KKS+Kalisz) | N/A |
+| 8 | [Jowisz](http://twitter.com/search?q=Jowisz) | N/A |
+| 9 | [KARL](http://twitter.com/search?q=KARL) | N/A |
+| 10 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
+| 11 | [Dworczyka](http://twitter.com/search?q=Dworczyka) | N/A |
+| 12 | [Referendum](http://twitter.com/search?q=Referendum) | N/A |
+| 13 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 14 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
 | 15 | [Narodowy Dzień Pamięci](http://twitter.com/search?q=Narodowy+Dzie%c5%84+Pami%c4%99ci) | N/A |
-| 16 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 17 | [Karpińskiego](http://twitter.com/search?q=Karpi%c5%84skiego) | N/A |
-| 18 | [Tuska](http://twitter.com/search?q=Tuska) | N/A |
-| 19 | [Pogonią](http://twitter.com/search?q=Pogoni%c4%85) | N/A |
-| 20 | [Śląsk Wrocław](http://twitter.com/search?q=%c5%9al%c4%85sk+Wroc%c5%82aw) | N/A |
-| 21 | [Motor](http://twitter.com/search?q=Motor) | N/A |
-| 22 | [Libicki](http://twitter.com/search?q=Libicki) | N/A |
-| 23 | [Kinga Rajda](http://twitter.com/search?q=Kinga+Rajda) | N/A |
-| 24 | [Stuhra](http://twitter.com/search?q=Stuhra) | N/A |
+| 16 | [Karpińskiego](http://twitter.com/search?q=Karpi%c5%84skiego) | N/A |
+| 17 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 18 | [Arsenalu](http://twitter.com/search?q=Arsenalu) | N/A |
+| 19 | [Tuska](http://twitter.com/search?q=Tuska) | N/A |
+| 20 | [Dobrej](http://twitter.com/search?q=Dobrej) | N/A |
+| 21 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 22 | [Śląsk Wrocław](http://twitter.com/search?q=%c5%9al%c4%85sk+Wroc%c5%82aw) | N/A |
+| 23 | [Manchesteru United](http://twitter.com/search?q=Manchesteru+United) | N/A |
+| 24 | [Libicki](http://twitter.com/search?q=Libicki) | N/A |
 | 25 | [Heinekena](http://twitter.com/search?q=Heinekena) | N/A |
-| 26 | [Jolanty Brzeskiej](http://twitter.com/search?q=Jolanty+Brzeskiej) | N/A |
-| 27 | [Leżajsku](http://twitter.com/search?q=Le%c5%bcajsku) | N/A |
-| 28 | [GIVE US WN BLOOPERS](http://twitter.com/search?q=GIVE+US+WN+BLOOPERS) | N/A |
-| 29 | [Niesiołowski](http://twitter.com/search?q=Niesio%c5%82owski) | N/A |
-| 30 | [Małysz](http://twitter.com/search?q=Ma%c5%82ysz) | N/A |
-| 31 | [Wąsika](http://twitter.com/search?q=W%c4%85sika) | N/A |
-| 32 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 33 | [Senacie](http://twitter.com/search?q=Senacie) | N/A |
-| 34 | [Hubert Hurkacz](http://twitter.com/search?q=Hubert+Hurkacz) | N/A |
-| 35 | [kornel morawiecki](http://twitter.com/search?q=kornel+morawiecki) | N/A |
-| 36 | [Alexandria Loutitt](http://twitter.com/search?q=Alexandria+Loutitt) | N/A |
-| 37 | [Hołownia](http://twitter.com/search?q=Ho%c5%82ownia) | N/A |
-| 38 | [Kosiniak](http://twitter.com/search?q=Kosiniak) | N/A |
-| 39 | [mam przypał](http://twitter.com/search?q=mam+przypa%c5%82) | N/A |
-| 40 | [Niezawisłość](http://twitter.com/search?q=Niezawis%c5%82o%c5%9b%c4%87) | N/A |
-| 41 | [Żołnierzom Wyklętym](http://twitter.com/search?q=%c5%bbo%c5%82nierzom+Wykl%c4%99tym) | N/A |
-| 42 | [Neumanna](http://twitter.com/search?q=Neumanna) | N/A |
-| 43 | [Senatu](http://twitter.com/search?q=Senatu) | N/A |
-| 44 | [Orlen](http://twitter.com/search?q=Orlen) | N/A |
-| 45 | [Amber Gold](http://twitter.com/search?q=Amber+Gold) | N/A |
-| 46 | [Mieszkanie](http://twitter.com/search?q=Mieszkanie) | N/A |
-| 47 | [cytowanie](http://twitter.com/search?q=cytowanie) | N/A |
-| 48 | [Narodowego Dnia Pamięci](http://twitter.com/search?q=Narodowego+Dnia+Pami%c4%99ci) | N/A |
-| 49 | [jasiński](http://twitter.com/search?q=jasi%c5%84ski) | N/A |
+| 26 | [Kinga Rajda](http://twitter.com/search?q=Kinga+Rajda) | N/A |
+| 27 | [Stuhra](http://twitter.com/search?q=Stuhra) | N/A |
+| 28 | [Jolanty Brzeskiej](http://twitter.com/search?q=Jolanty+Brzeskiej) | N/A |
+| 29 | [Sheffield](http://twitter.com/search?q=Sheffield) | N/A |
+| 30 | [GIVE US WN BLOOPERS](http://twitter.com/search?q=GIVE+US+WN+BLOOPERS) | N/A |
+| 31 | [Niesiołowski](http://twitter.com/search?q=Niesio%c5%82owski) | N/A |
+| 32 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
+| 33 | [Hołownia](http://twitter.com/search?q=Ho%c5%82ownia) | N/A |
+| 34 | [Wąsika](http://twitter.com/search?q=W%c4%85sika) | N/A |
+| 35 | [Motor](http://twitter.com/search?q=Motor) | N/A |
+| 36 | [Yoongiego](http://twitter.com/search?q=Yoongiego) | N/A |
+| 37 | [Raków Częstochowa](http://twitter.com/search?q=Rak%c3%b3w+Cz%c4%99stochowa) | N/A |
+| 38 | [Alexandria Loutitt](http://twitter.com/search?q=Alexandria+Loutitt) | N/A |
+| 39 | [Senacie](http://twitter.com/search?q=Senacie) | N/A |
+| 40 | [kornel morawiecki](http://twitter.com/search?q=kornel+morawiecki) | N/A |
+| 41 | [mam przypał](http://twitter.com/search?q=mam+przypa%c5%82) | N/A |
+| 42 | [Żołnierzom Wyklętym](http://twitter.com/search?q=%c5%bbo%c5%82nierzom+Wykl%c4%99tym) | N/A |
+| 43 | [Kosiniak](http://twitter.com/search?q=Kosiniak) | N/A |
+| 44 | [Spokojnej](http://twitter.com/search?q=Spokojnej) | N/A |
+| 45 | [Niezawisłość](http://twitter.com/search?q=Niezawis%c5%82o%c5%9b%c4%87) | N/A |
+| 46 | [Małysz](http://twitter.com/search?q=Ma%c5%82ysz) | N/A |
 
 
 

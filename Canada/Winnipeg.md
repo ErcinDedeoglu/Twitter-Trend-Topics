@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Winnipeg
 
-📆 Last Updated: `2023-03-01 21:16:21 UTC`
+📆 Last Updated: `2023-03-01 22:15:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 2 | [Sandin](http://twitter.com/search?q=Sandin) | N/A |
-| 3 | [#emergencyalert](http://twitter.com/search?q=%23emergencyalert) | N/A |
-| 4 | [Barrie](http://twitter.com/search?q=Barrie) | N/A |
-| 5 | [#Alberta](http://twitter.com/search?q=%23Alberta) | N/A |
-| 6 | [Ekholm](http://twitter.com/search?q=Ekholm) | N/A |
-| 7 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 8 | [Dubas](http://twitter.com/search?q=Dubas) | N/A |
-| 9 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 10 | [Trudeau Foundation](http://twitter.com/search?q=Trudeau+Foundation) | N/A |
-| 11 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 12 | [Chychrun](http://twitter.com/search?q=Chychrun) | N/A |
-| 13 | [CSIS](http://twitter.com/search?q=CSIS) | N/A |
-| 14 | [Pikamee](http://twitter.com/search?q=Pikamee) | N/A |
-| 15 | [Engvall](http://twitter.com/search?q=Engvall) | N/A |
-| 16 | [sam levinson](http://twitter.com/search?q=sam+levinson) | N/A |
-| 17 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 18 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
-| 19 | [Schenn](http://twitter.com/search?q=Schenn) | N/A |
-| 20 | [Jonathan Quick](http://twitter.com/search?q=Jonathan+Quick) | N/A |
-| 21 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 22 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
-| 23 | [Holl](http://twitter.com/search?q=Holl) | N/A |
-| 24 | [Sean Dyche](http://twitter.com/search?q=Sean+Dyche) | Sean Dyche is the name of the current manager of English Premier League football club Burnley. The name is a combination of his first and last names. The meaning in English is simply the name of the manager. |
-| 25 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 26 | [Barton](http://twitter.com/search?q=Barton) | N/A |
-| 27 | [KARL](http://twitter.com/search?q=KARL) | N/A |
-| 28 | [TINA](http://twitter.com/search?q=TINA) | N/A |
-| 29 | [Gustafsson](http://twitter.com/search?q=Gustafsson) | N/A |
-| 30 | [Dylan Larkin](http://twitter.com/search?q=Dylan+Larkin) | N/A |
-| 31 | [Lindelof](http://twitter.com/search?q=Lindelof) | Lindelof is a surname of Swedish origin. It is derived from the Old Norse name Lindalófr, which means "linden leaf" or "linden tree". In English, the name can be translated to mean "beloved of the linden tree". |
-| 32 | [Bouchard](http://twitter.com/search?q=Bouchard) | N/A |
-| 33 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
-| 34 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
-| 35 | [Lars Eller](http://twitter.com/search?q=Lars+Eller) | N/A |
-| 36 | [Korpisalo](http://twitter.com/search?q=Korpisalo) | N/A |
-| 37 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
-| 38 | [Beetlejuice](http://twitter.com/search?q=Beetlejuice) | N/A |
-| 39 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
-| 40 | [Morris Rosenberg](http://twitter.com/search?q=Morris+Rosenberg) | N/A |
-| 41 | [Jody Thomas](http://twitter.com/search?q=Jody+Thomas) | N/A |
-| 42 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
-| 43 | [Dave Grohl](http://twitter.com/search?q=Dave+Grohl) | N/A |
-| 44 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
-| 45 | [Carolina](http://twitter.com/search?q=Carolina) | N/A |
-| 46 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
-| 47 | [McCabe](http://twitter.com/search?q=McCabe) | N/A |
-| 48 | [75% of Canadians](http://twitter.com/search?q=75%25+of+Canadians) | N/A |
+| 1 | [#emergencyalert](http://twitter.com/search?q=%23emergencyalert) | N/A |
+| 2 | [Hronek](http://twitter.com/search?q=Hronek) | N/A |
+| 3 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 4 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 5 | [#ARSEVE](http://twitter.com/search?q=%23ARSEVE) | N/A |
+| 6 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 7 | [Sandin](http://twitter.com/search?q=Sandin) | N/A |
+| 8 | [Barrie](http://twitter.com/search?q=Barrie) | N/A |
+| 9 | [#MUNWHU](http://twitter.com/search?q=%23MUNWHU) | N/A |
+| 10 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 11 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
+| 12 | [Ekholm](http://twitter.com/search?q=Ekholm) | N/A |
+| 13 | [Chychrun](http://twitter.com/search?q=Chychrun) | N/A |
+| 14 | [Trudeau Foundation](http://twitter.com/search?q=Trudeau+Foundation) | N/A |
+| 15 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 16 | [Dubas](http://twitter.com/search?q=Dubas) | N/A |
+| 17 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 18 | [CSIS](http://twitter.com/search?q=CSIS) | N/A |
+| 19 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 20 | [sam levinson](http://twitter.com/search?q=sam+levinson) | N/A |
+| 21 | [Pikamee](http://twitter.com/search?q=Pikamee) | N/A |
+| 22 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
+| 23 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 24 | [Engvall](http://twitter.com/search?q=Engvall) | N/A |
+| 25 | [Jonathan Quick](http://twitter.com/search?q=Jonathan+Quick) | N/A |
+| 26 | [Jota](http://twitter.com/search?q=Jota) | N/A |
+| 27 | [IT WORKS](http://twitter.com/search?q=IT+WORKS) | N/A |
+| 28 | [Sheffield](http://twitter.com/search?q=Sheffield) | N/A |
+| 29 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
+| 30 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 31 | [Schenn](http://twitter.com/search?q=Schenn) | N/A |
+| 32 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 33 | [Lindelof](http://twitter.com/search?q=Lindelof) | Lindelof is a surname of Swedish origin. It is derived from the Old Norse name Lindalófr, which means "linden leaf" or "linden tree". In English, the name can be translated to mean "beloved of the linden tree". |
+| 34 | [Zinchenko](http://twitter.com/search?q=Zinchenko) | Zinchenko is a Russian surname derived from the word "zinchen", which means "little one". It is a patronymic name, meaning it is derived from the given name of a father or ancestor. In English, it can be translated to mean "son of Zincha". |
+| 35 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
+| 36 | [Holl](http://twitter.com/search?q=Holl) | N/A |
+| 37 | [Barton](http://twitter.com/search?q=Barton) | N/A |
+| 38 | [Dylan Larkin](http://twitter.com/search?q=Dylan+Larkin) | N/A |
+| 39 | [Gustafsson](http://twitter.com/search?q=Gustafsson) | N/A |
+| 40 | [Starboy](http://twitter.com/search?q=Starboy) | "Starboy" is a song by Canadian singer The Weeknd, released as the lead single from his third studio album of the same name. The song's title is a reference to The Weeknd's persona and is meant to signify his rise to fame. In English, "Starboy" can be interpreted as someone who has achieved great success and is now living the life of a celebrity. |
+| 41 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
+| 42 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 43 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
+| 44 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
+| 45 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
+| 46 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 47 | [Sean Dyche](http://twitter.com/search?q=Sean+Dyche) | Sean Dyche is the name of the current manager of English Premier League football club Burnley. The name is a combination of his first and last names. The meaning in English is simply the name of the manager. |
+| 48 | [KARL](http://twitter.com/search?q=KARL) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Benin City
 
-📆 Last Updated: `2023-03-01 21:16:49 UTC`
+📆 Last Updated: `2023-03-01 22:16:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [Nigeria](</Nigeria>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 2 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 1 | [#MUNWHU](http://twitter.com/search?q=%23MUNWHU) | N/A |
+| 2 | [Afonja](http://twitter.com/search?q=Afonja) | N/A |
 | 3 | [#ARSEVE](http://twitter.com/search?q=%23ARSEVE) | N/A |
-| 4 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 5 | [Afonja](http://twitter.com/search?q=Afonja) | N/A |
-| 6 | [IPOB](http://twitter.com/search?q=IPOB) | N/A |
+| 4 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
+| 5 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
+| 6 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
 | 7 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 8 | [Chinedu](http://twitter.com/search?q=Chinedu) | N/A |
-| 9 | [Jesus Name Above All Names](http://twitter.com/search?q=Jesus+Name+Above+All+Names) | N/A |
-| 10 | [#MUNWHU](http://twitter.com/search?q=%23MUNWHU) | N/A |
-| 11 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
-| 12 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
-| 13 | [#ARSVSEVE](http://twitter.com/search?q=%23ARSVSEVE) | N/A |
-| 14 | [Zinchenko](http://twitter.com/search?q=Zinchenko) | Zinchenko is a Russian surname derived from the word "zinchen", which means "little one". It is a patronymic name, meaning it is derived from the given name of a father or ancestor. In English, it can be translated to mean "son of Zincha". |
-| 15 | [Sean Dyche](http://twitter.com/search?q=Sean+Dyche) | Sean Dyche is the name of the current manager of English Premier League football club Burnley. The name is a combination of his first and last names. The meaning in English is simply the name of the manager. |
-| 16 | [#labourpartynigeria](http://twitter.com/search?q=%23labourpartynigeria) | N/A |
-| 17 | [Lagosian](http://twitter.com/search?q=Lagosian) | N/A |
-| 18 | [Nairaland](http://twitter.com/search?q=Nairaland) | N/A |
-| 19 | [Gbadebo](http://twitter.com/search?q=Gbadebo) | N/A |
-| 20 | [Rishi](http://twitter.com/search?q=Rishi) | N/A |
-| 21 | [Shola](http://twitter.com/search?q=Shola) | N/A |
-| 22 | [The Originals](http://twitter.com/search?q=The+Originals) | N/A |
+| 8 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 9 | [Pastor Fred](http://twitter.com/search?q=Pastor+Fred) | Pastor Fred is a term used to refer to a Christian minister or pastor. It is often used as a generic name for any pastor, regardless of their actual name. |
+| 10 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 11 | [IPOB](http://twitter.com/search?q=IPOB) | N/A |
+| 12 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 13 | [Chinedu](http://twitter.com/search?q=Chinedu) | N/A |
+| 14 | [#ARSVSEVE](http://twitter.com/search?q=%23ARSVSEVE) | N/A |
+| 15 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 16 | [Grimsby](http://twitter.com/search?q=Grimsby) | N/A |
+| 17 | [#FACup](http://twitter.com/search?q=%23FACup) | #FACup is an abbreviation for the Football Association Challenge Cup, which is an annual knockout football competition in England. It is the oldest football competition in the world and is open to all teams from the top four tiers of English football. |
+| 18 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
+| 19 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
+| 20 | [Nairaland](http://twitter.com/search?q=Nairaland) | N/A |
+| 21 | [Zinchenko](http://twitter.com/search?q=Zinchenko) | Zinchenko is a Russian surname derived from the word "zinchen", which means "little one". It is a patronymic name, meaning it is derived from the given name of a father or ancestor. In English, it can be translated to mean "son of Zincha". |
+| 22 | [Shola](http://twitter.com/search?q=Shola) | N/A |
 | 23 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
-| 24 | [Sanwo](http://twitter.com/search?q=Sanwo) | N/A |
-| 25 | [Debit](http://twitter.com/search?q=Debit) | N/A |
-| 26 | [Breaking Bad](http://twitter.com/search?q=Breaking+Bad) | N/A |
-| 27 | [INEC President](http://twitter.com/search?q=INEC+President) | N/A |
-| 28 | [Jandor](http://twitter.com/search?q=Jandor) | N/A |
-| 29 | [Governor of Lagos](http://twitter.com/search?q=Governor+of+Lagos) | N/A |
-| 30 | [UBA Bank](http://twitter.com/search?q=UBA+Bank) | N/A |
-| 31 | [Pastor Adeboye](http://twitter.com/search?q=Pastor+Adeboye) | N/A |
-| 32 | [Alex Otti](http://twitter.com/search?q=Alex+Otti) | N/A |
-| 33 | [Certificate of Return](http://twitter.com/search?q=Certificate+of+Return) | N/A |
-| 34 | [Stolen](http://twitter.com/search?q=Stolen) | N/A |
-| 35 | [Black Wednesday](http://twitter.com/search?q=Black+Wednesday) | N/A |
-| 36 | [Precious](http://twitter.com/search?q=Precious) | N/A |
-| 37 | [Dear Obidients](http://twitter.com/search?q=Dear+Obidients) | N/A |
-| 38 | [Corn](http://twitter.com/search?q=Corn) | N/A |
-| 39 | [Biafra](http://twitter.com/search?q=Biafra) | N/A |
-| 40 | [Boko](http://twitter.com/search?q=Boko) | N/A |
-| 41 | [Our President](http://twitter.com/search?q=Our+President) | N/A |
-| 42 | [IELTS](http://twitter.com/search?q=IELTS) | N/A |
-| 43 | [APGA](http://twitter.com/search?q=APGA) | N/A |
-| 44 | [#TheNigeriaWeWant](http://twitter.com/search?q=%23TheNigeriaWeWant) | N/A |
-| 45 | [#ARISENews](http://twitter.com/search?q=%23ARISENews) | N/A |
-| 46 | [#NotMyPresident](http://twitter.com/search?q=%23NotMyPresident) | N/A |
-| 47 | [#TemiAt33](http://twitter.com/search?q=%23TemiAt33) | N/A |
-| 48 | [#FACup](http://twitter.com/search?q=%23FACup) | #FACup is an abbreviation for the Football Association Challenge Cup, which is an annual knockout football competition in England. It is the oldest football competition in the world and is open to all teams from the top four tiers of English football. |
-| 49 | [#INECElectionResult2023](http://twitter.com/search?q=%23INECElectionResult2023) | N/A |
+| 24 | [Wout Weghorst](http://twitter.com/search?q=Wout+Weghorst) | Wout Weghorst is a Dutch professional footballer who plays as a striker for German club VfL Wolfsburg. The name Wout Weghorst translates to "strong will" in English. |
+| 25 | [Odegaard](http://twitter.com/search?q=Odegaard) | Odegaard is a Norwegian surname. It is derived from the Old Norse words "óðr", meaning "inspiration" or "poetry", and "garðr", meaning "enclosure" or "farm". In English, the name can be translated to mean "inspiring farm". |
+| 26 | [Gunners](http://twitter.com/search?q=Gunners) | Gunners is a slang term used to refer to members of the British Armed Forces, particularly those in the Royal Artillery. It is derived from the nickname of the Royal Artillery, which is "The Gunners". |
+| 27 | [Starboy](http://twitter.com/search?q=Starboy) | "Starboy" is a song by Canadian singer The Weeknd, released as the lead single from his third studio album of the same name. The song's title is a reference to The Weeknd's persona and is meant to signify his rise to fame. In English, "Starboy" can be interpreted as someone who has achieved great success and is now living the life of a celebrity. |
+| 28 | [Ajuri](http://twitter.com/search?q=Ajuri) | N/A |
+| 29 | [Jesus Name Above All Names](http://twitter.com/search?q=Jesus+Name+Above+All+Names) | N/A |
+| 30 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
+| 31 | [Sean Dyche](http://twitter.com/search?q=Sean+Dyche) | Sean Dyche is the name of the current manager of English Premier League football club Burnley. The name is a combination of his first and last names. The meaning in English is simply the name of the manager. |
+| 32 | [Malacia](http://twitter.com/search?q=Malacia) | Malacia is a medical term used to describe a condition in which the muscles of the body become abnormally soft and flaccid. It is usually caused by a lack of muscle tone or nerve damage. In English, it can be translated as "muscle weakness". |
+| 33 | [Sheffield](http://twitter.com/search?q=Sheffield) | N/A |
+| 34 | [Gbadebo](http://twitter.com/search?q=Gbadebo) | N/A |
+| 35 | [Lagosian](http://twitter.com/search?q=Lagosian) | N/A |
+| 36 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
+| 37 | [Tierney](http://twitter.com/search?q=Tierney) | Tierney is a surname of Irish origin. It is derived from the Gaelic name Ó Tíghearnaigh, which means "descendant of the lord". |
+| 38 | [Emeka](http://twitter.com/search?q=Emeka) | N/A |
+| 39 | [Zain](http://twitter.com/search?q=Zain) | N/A |
+| 40 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
+| 41 | [Emirates](http://twitter.com/search?q=Emirates) | Emirates is the name of a major airline based in Dubai, United Arab Emirates. The word "emirates" is derived from the Arabic word "imarat," which means "state" or "country." |
+| 42 | [Smith Rowe](http://twitter.com/search?q=Smith+Rowe) | Smith Rowe is a term used to describe a partnership between two players in football (soccer). It is typically used to refer to a combination of two players who work together effectively and often score goals or create chances for each other. The term was coined by Arsenal fans to describe the partnership between Arsenal's Bukayo Saka and Emile Smith Rowe. |
+| 43 | [Moyes](http://twitter.com/search?q=Moyes) | Moyes is a Scottish surname derived from the Old French word "moué," meaning "dark-haired." It is also a common given name in Scotland. |
+| 44 | [Rishi](http://twitter.com/search?q=Rishi) | N/A |
+| 45 | [Governor of Lagos](http://twitter.com/search?q=Governor+of+Lagos) | N/A |
+| 46 | [Sanwo](http://twitter.com/search?q=Sanwo) | N/A |
+| 47 | [The Originals](http://twitter.com/search?q=The+Originals) | N/A |
+| 48 | [Zinny](http://twitter.com/search?q=Zinny) | Zinny is a slang term used to describe someone who is eccentric or quirky. It can also be used to describe someone who is a bit of an oddball. |
+| 49 | [Elliot](http://twitter.com/search?q=Elliot) | Elliot is a masculine given name of English origin. It is derived from the Hebrew name Eliyahu, meaning "My God is Yahweh". |
+| 50 | [Breaking Bad](http://twitter.com/search?q=Breaking+Bad) | N/A |
 
 
 

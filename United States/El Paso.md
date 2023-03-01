@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For El Paso
 
-📆 Last Updated: `2023-03-01 21:17:01 UTC`
+📆 Last Updated: `2023-03-01 22:16:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Dirk](http://twitter.com/search?q=Dirk) | Dirk is a Scottish word for a long, pointed dagger. It is also used as a given name, usually for boys. |
-| 2 | [HISD](http://twitter.com/search?q=HISD) | N/A |
-| 3 | [Anderson](http://twitter.com/search?q=Anderson) | N/A |
-| 4 | [The FBI](http://twitter.com/search?q=The+FBI) | N/A |
-| 5 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
-| 6 | [#WomensHistoryMonth](http://twitter.com/search?q=%23WomensHistoryMonth) | N/A |
-| 7 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 8 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
+| 1 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
+| 2 | [#NATM2023](http://twitter.com/search?q=%23NATM2023) | N/A |
+| 3 | [March Madness](http://twitter.com/search?q=March+Madness) | N/A |
+| 4 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
+| 5 | [Anderson](http://twitter.com/search?q=Anderson) | N/A |
+| 6 | [The FBI](http://twitter.com/search?q=The+FBI) | N/A |
+| 7 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
+| 8 | [#WomensHistoryMonth](http://twitter.com/search?q=%23WomensHistoryMonth) | N/A |
 | 9 | [#SUGA_AgustD_TOUR](http://twitter.com/search?q=%23SUGA_AgustD_TOUR) | N/A |
-| 10 | [sam levinson](http://twitter.com/search?q=sam+levinson) | N/A |
-| 11 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 12 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 13 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 14 | [#ARSEVE](http://twitter.com/search?q=%23ARSEVE) | N/A |
-| 15 | [#CashAppTaxes](http://twitter.com/search?q=%23CashAppTaxes) | N/A |
-| 16 | [#TheMandalorianXboxSweepstakes](http://twitter.com/search?q=%23TheMandalorianXboxSweepstakes) | N/A |
-| 17 | [Pikamee](http://twitter.com/search?q=Pikamee) | N/A |
-| 18 | [KARL](http://twitter.com/search?q=KARL) | N/A |
-| 19 | [Burbank](http://twitter.com/search?q=Burbank) | N/A |
-| 20 | [TINA](http://twitter.com/search?q=TINA) | N/A |
-| 21 | [Jalen Carter](http://twitter.com/search?q=Jalen+Carter) | N/A |
-| 22 | [NFLPA](http://twitter.com/search?q=NFLPA) | N/A |
-| 23 | [Ted Cruz](http://twitter.com/search?q=Ted+Cruz) | N/A |
-| 24 | [Havana Syndrome](http://twitter.com/search?q=Havana+Syndrome) | N/A |
-| 25 | [Ultra MAGA](http://twitter.com/search?q=Ultra+MAGA) | N/A |
-| 26 | [Lindelof](http://twitter.com/search?q=Lindelof) | Lindelof is a surname of Swedish origin. It is derived from the Old Norse name Lindalófr, which means "linden leaf" or "linden tree". In English, the name can be translated to mean "beloved of the linden tree". |
-| 27 | [Finish Line](http://twitter.com/search?q=Finish+Line) | N/A |
-| 28 | [FNAFTOOZ](http://twitter.com/search?q=FNAFTOOZ) | N/A |
-| 29 | [IM SEEING YOONGI](http://twitter.com/search?q=IM+SEEING+YOONGI) | N/A |
-| 30 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
-| 31 | [ChatGPT API](http://twitter.com/search?q=ChatGPT+API) | N/A |
-| 32 | [Eli Lilly](http://twitter.com/search?q=Eli+Lilly) | N/A |
-| 33 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
-| 34 | [Ronny Mauricio](http://twitter.com/search?q=Ronny+Mauricio) | N/A |
-| 35 | [Newark](http://twitter.com/search?q=Newark) | N/A |
-| 36 | [Visibly](http://twitter.com/search?q=Visibly) | N/A |
-| 37 | [Buffalo Fire Department](http://twitter.com/search?q=Buffalo+Fire+Department) | N/A |
-| 38 | [Lars Eller](http://twitter.com/search?q=Lars+Eller) | N/A |
-| 39 | [Mike Lee](http://twitter.com/search?q=Mike+Lee) | N/A |
-| 40 | [Dyche](http://twitter.com/search?q=Dyche) | Dyche is a surname of English origin. It is derived from the Old English word "dic," meaning "ditch." The name was originally given to someone who lived near a ditch or moat. |
-| 41 | [Drew](http://twitter.com/search?q=Drew) | N/A |
-| 42 | [Hawley](http://twitter.com/search?q=Hawley) | N/A |
-| 43 | [Ralph](http://twitter.com/search?q=Ralph) | N/A |
-| 44 | [Joe Budden](http://twitter.com/search?q=Joe+Budden) | N/A |
-| 45 | [Euphoria](http://twitter.com/search?q=Euphoria) | N/A |
-| 46 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
-| 47 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
+| 10 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
+| 11 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 12 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 13 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
+| 14 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
+| 15 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 16 | [sam levinson](http://twitter.com/search?q=sam+levinson) | N/A |
+| 17 | [#ARSEVE](http://twitter.com/search?q=%23ARSEVE) | N/A |
+| 18 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 19 | [Pikamee](http://twitter.com/search?q=Pikamee) | N/A |
+| 20 | [Ultra MAGA](http://twitter.com/search?q=Ultra+MAGA) | N/A |
+| 21 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
+| 22 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 23 | [NFLPA](http://twitter.com/search?q=NFLPA) | N/A |
+| 24 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 25 | [Burbank](http://twitter.com/search?q=Burbank) | N/A |
+| 26 | [Cruz](http://twitter.com/search?q=Cruz) | N/A |
+| 27 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
+| 28 | [IM SEEING YOONGI](http://twitter.com/search?q=IM+SEEING+YOONGI) | N/A |
+| 29 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 30 | [Grimsby Town](http://twitter.com/search?q=Grimsby+Town) | N/A |
+| 31 | [Jota](http://twitter.com/search?q=Jota) | N/A |
+| 32 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
+| 33 | [Hronek](http://twitter.com/search?q=Hronek) | N/A |
+| 34 | [FNAFTOOZ](http://twitter.com/search?q=FNAFTOOZ) | N/A |
+| 35 | [Tierney](http://twitter.com/search?q=Tierney) | Tierney is a surname of Irish origin. It is derived from the Gaelic name Ó Tíghearnaigh, which means "descendant of the lord". |
+| 36 | [Sheffield United](http://twitter.com/search?q=Sheffield+United) | Sheffield United is an English professional football club based in Sheffield, South Yorkshire. The club competes in the Premier League, the top division of English football. Sheffield United was founded in 1889 and has won four FA Cups, one League Cup and one Full Members Cup. The club's nickname is "The Blades" due to Sheffield's history of steel production. |
+| 37 | [KARL](http://twitter.com/search?q=KARL) | N/A |
+| 38 | [Odegaard](http://twitter.com/search?q=Odegaard) | Odegaard is a Norwegian surname. It is derived from the Old Norse words "óðr", meaning "inspiration" or "poetry", and "garðr", meaning "enclosure" or "farm". In English, the name can be translated to mean "inspiring farm". |
+| 39 | [tina](http://twitter.com/search?q=tina) | N/A |
+| 40 | [Havana Syndrome](http://twitter.com/search?q=Havana+Syndrome) | N/A |
+| 41 | [Mamu](http://twitter.com/search?q=Mamu) | N/A |
+| 42 | [Finish Line](http://twitter.com/search?q=Finish+Line) | N/A |
+| 43 | [Jalen Carter](http://twitter.com/search?q=Jalen+Carter) | N/A |
+| 44 | [Buffalo Fire Department](http://twitter.com/search?q=Buffalo+Fire+Department) | N/A |
+| 45 | [Perisic](http://twitter.com/search?q=Perisic) | Perisic is a surname of Slavic origin. It is derived from the personal name Pero, which is a diminutive of Peter. The English meaning of the name is "son of Peter". |
+| 46 | [I GOT TICKETS](http://twitter.com/search?q=I+GOT+TICKETS) | N/A |
+| 47 | [Dier](http://twitter.com/search?q=Dier) | N/A |
 
 
 
