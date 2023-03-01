@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Netherlands
 
-📆 Last Updated: `2023-03-01 07:17:10 UTC`
+📆 Last Updated: `2023-03-01 08:17:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Netherlands
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#UtrSpa](http://twitter.com/search?q=%23UtrSpa) | N/A |
-| 2 | [Spakenburg](http://twitter.com/search?q=Spakenburg) | N/A |
+| 2 | [#complimentendag](http://twitter.com/search?q=%23complimentendag) | N/A |
 | 3 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 4 | [#complimentendag](http://twitter.com/search?q=%23complimentendag) | N/A |
+| 4 | [Spakenburg](http://twitter.com/search?q=Spakenburg) | N/A |
 | 5 | [#vunzigewoensdag](http://twitter.com/search?q=%23vunzigewoensdag) | N/A |
-| 6 | [#knvbbeker](http://twitter.com/search?q=%23knvbbeker) | N/A |
-| 7 | [#stapbudget](http://twitter.com/search?q=%23stapbudget) | N/A |
-| 8 | [galgenwaard](http://twitter.com/search?q=galgenwaard) | N/A |
-| 9 | [Mogge](http://twitter.com/search?q=Mogge) | N/A |
-| 10 | [Wieke](http://twitter.com/search?q=Wieke) | N/A |
-| 11 | [Patricia](http://twitter.com/search?q=Patricia) | N/A |
-| 12 | [Gefeliciteerd](http://twitter.com/search?q=Gefeliciteerd) | N/A |
-| 13 | [wichian](http://twitter.com/search?q=wichian) | N/A |
-| 14 | [Stoepje](http://twitter.com/search?q=Stoepje) | N/A |
+| 6 | [#stapbudget](http://twitter.com/search?q=%23stapbudget) | N/A |
+| 7 | [#knvbbeker](http://twitter.com/search?q=%23knvbbeker) | N/A |
+| 8 | [FC Utrecht](http://twitter.com/search?q=FC+Utrecht) | N/A |
+| 9 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
+| 10 | [galgenwaard](http://twitter.com/search?q=galgenwaard) | N/A |
+| 11 | [Gefeliciteerd](http://twitter.com/search?q=Gefeliciteerd) | N/A |
+| 12 | [Wieke](http://twitter.com/search?q=Wieke) | N/A |
+| 13 | [Patricia](http://twitter.com/search?q=Patricia) | N/A |
+| 14 | [Vattenfall](http://twitter.com/search?q=Vattenfall) | N/A |
 | 15 | [Griekenland](http://twitter.com/search?q=Griekenland) | N/A |
-| 16 | [Maart](http://twitter.com/search?q=Maart) | N/A |
-| 17 | [Utreg](http://twitter.com/search?q=Utreg) | N/A |
-| 18 | [Loes](http://twitter.com/search?q=Loes) | N/A |
-| 19 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
-| 20 | [Stemchecker](http://twitter.com/search?q=Stemchecker) | N/A |
-| 21 | [Patty](http://twitter.com/search?q=Patty) | Patty is a slang term for a hamburger patty, which is a flat, round piece of ground meat that is cooked and served between two slices of bread. |
-| 22 | [Bachmoet](http://twitter.com/search?q=Bachmoet) | N/A |
-| 23 | [WOZ-bezwaar](http://twitter.com/search?q=WOZ-bezwaar) | N/A |
-| 24 | [Vattenfall](http://twitter.com/search?q=Vattenfall) | N/A |
-| 25 | [Evelyn](http://twitter.com/search?q=Evelyn) | N/A |
-| 26 | [Expert](http://twitter.com/search?q=Expert) | N/A |
-| 27 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
-| 28 | [bewoners nieuw-weerdinge](http://twitter.com/search?q=bewoners+nieuw-weerdinge) | N/A |
-| 29 | [Stephan](http://twitter.com/search?q=Stephan) | N/A |
-| 30 | [natasja gibbs](http://twitter.com/search?q=natasja+gibbs) | N/A |
-| 31 | [WOZ-waarde](http://twitter.com/search?q=WOZ-waarde) | N/A |
-| 32 | [toornstra](http://twitter.com/search?q=toornstra) | N/A |
-| 33 | [kinderombudsman](http://twitter.com/search?q=kinderombudsman) | N/A |
-| 34 | [Gelredome](http://twitter.com/search?q=Gelredome) | N/A |
-| 35 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
-| 36 | [Martijn](http://twitter.com/search?q=Martijn) | N/A |
-| 37 | [Vince Gino Dekker](http://twitter.com/search?q=Vince+Gino+Dekker) | N/A |
-| 38 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 39 | [Israël](http://twitter.com/search?q=Isra%c3%abl) | N/A |
-| 40 | [Wilfred](http://twitter.com/search?q=Wilfred) | N/A |
-| 41 | [Richelle](http://twitter.com/search?q=Richelle) | N/A |
-| 42 | [Brouwers](http://twitter.com/search?q=Brouwers) | N/A |
-| 43 | [Brad](http://twitter.com/search?q=Brad) | N/A |
-| 44 | [wouter bos](http://twitter.com/search?q=wouter+bos) | N/A |
+| 16 | [Stoepje](http://twitter.com/search?q=Stoepje) | N/A |
+| 17 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
+| 18 | [Utreg](http://twitter.com/search?q=Utreg) | N/A |
+| 19 | [Stemchecker](http://twitter.com/search?q=Stemchecker) | N/A |
+| 20 | [Fijne](http://twitter.com/search?q=Fijne) | N/A |
+| 21 | [Mogge](http://twitter.com/search?q=Mogge) | N/A |
+| 22 | [Nicolette](http://twitter.com/search?q=Nicolette) | N/A |
+| 23 | [Wichian](http://twitter.com/search?q=Wichian) | N/A |
+| 24 | [WOZ-bezwaar](http://twitter.com/search?q=WOZ-bezwaar) | N/A |
+| 25 | [Gelredome](http://twitter.com/search?q=Gelredome) | N/A |
+| 26 | [Patty](http://twitter.com/search?q=Patty) | Patty is a slang term for a hamburger patty, which is a flat, round piece of ground meat that is cooked and served between two slices of bread. |
+| 27 | [Morguh](http://twitter.com/search?q=Morguh) | N/A |
+| 28 | [Succes](http://twitter.com/search?q=Succes) | N/A |
+| 29 | [Bachmoet](http://twitter.com/search?q=Bachmoet) | N/A |
+| 30 | [Expert](http://twitter.com/search?q=Expert) | N/A |
+| 31 | [Loes](http://twitter.com/search?q=Loes) | N/A |
+| 32 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
+| 33 | [Gommers](http://twitter.com/search?q=Gommers) | N/A |
+| 34 | [kinderombudsman](http://twitter.com/search?q=kinderombudsman) | N/A |
+| 35 | [Niemoller](http://twitter.com/search?q=Niemoller) | N/A |
+| 36 | [Stephan](http://twitter.com/search?q=Stephan) | N/A |
+| 37 | [Wouke](http://twitter.com/search?q=Wouke) | N/A |
+| 38 | [Israël](http://twitter.com/search?q=Isra%c3%abl) | N/A |
+| 39 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
+| 40 | [Floriadeflop](http://twitter.com/search?q=Floriadeflop) | N/A |
+| 41 | [WOZ-waarde](http://twitter.com/search?q=WOZ-waarde) | N/A |
+| 42 | [Vince Gino Dekker](http://twitter.com/search?q=Vince+Gino+Dekker) | N/A |
+| 43 | [toornstra](http://twitter.com/search?q=toornstra) | N/A |
+| 44 | [Wilfred](http://twitter.com/search?q=Wilfred) | N/A |
 | 45 | [VN-rapporteur](http://twitter.com/search?q=VN-rapporteur) | N/A |
-| 46 | [paulusma](http://twitter.com/search?q=paulusma) | N/A |
-| 47 | [blauwen](http://twitter.com/search?q=blauwen) | N/A |
-| 48 | [wachtgeldteller amsterdam](http://twitter.com/search?q=wachtgeldteller+amsterdam) | N/A |
-| 49 | [Eddy](http://twitter.com/search?q=Eddy) | N/A |
-| 50 | [Ginny](http://twitter.com/search?q=Ginny) | Ginny is a nickname for the given name Virginia. It is derived from the Latin word virgo, meaning "maiden" or "virgin". |
+| 46 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
+| 47 | [Richelle](http://twitter.com/search?q=Richelle) | N/A |
+| 48 | [Brouwers](http://twitter.com/search?q=Brouwers) | N/A |
+| 49 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 50 | [blauwen](http://twitter.com/search?q=blauwen) | N/A |
 
 
 

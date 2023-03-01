@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canada
 
-📆 Last Updated: `2023-03-01 07:17:05 UTC`
+📆 Last Updated: `2023-03-01 08:17:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,49 +22,49 @@ This is top 50 for Canada
 | 5 | [#Flames](http://twitter.com/search?q=%23Flames) | N/A |
 | 6 | [Schenn](http://twitter.com/search?q=Schenn) | N/A |
 | 7 | [CSIS](http://twitter.com/search?q=CSIS) | N/A |
-| 8 | [Barton](http://twitter.com/search?q=Barton) | N/A |
-| 9 | [Jonathan Quick](http://twitter.com/search?q=Jonathan+Quick) | N/A |
-| 10 | [Chychrun](http://twitter.com/search?q=Chychrun) | N/A |
-| 11 | [Holl](http://twitter.com/search?q=Holl) | N/A |
-| 12 | [Engvall](http://twitter.com/search?q=Engvall) | N/A |
-| 13 | [McCabe](http://twitter.com/search?q=McCabe) | N/A |
-| 14 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
-| 15 | [Ullmark](http://twitter.com/search?q=Ullmark) | N/A |
-| 16 | [Gustafsson](http://twitter.com/search?q=Gustafsson) | N/A |
-| 17 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
-| 18 | [Trudeau Foundation](http://twitter.com/search?q=Trudeau+Foundation) | N/A |
-| 19 | [Carolina](http://twitter.com/search?q=Carolina) | N/A |
-| 20 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
-| 21 | [#GoHabsGo](http://twitter.com/search?q=%23GoHabsGo) | N/A |
-| 22 | [#TrudeauOutOfControl](http://twitter.com/search?q=%23TrudeauOutOfControl) | N/A |
-| 23 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 24 | [Bouchard](http://twitter.com/search?q=Bouchard) | N/A |
-| 25 | [#GoSensGo](http://twitter.com/search?q=%23GoSensGo) | N/A |
-| 26 | [#BeyondFast](http://twitter.com/search?q=%23BeyondFast) | #BeyondFast is a hashtag used to describe something that goes beyond the speed of fast. It is used to emphasize the idea that something is faster than fast, or that it surpasses the speed of fast. |
-| 27 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 28 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 8 | [Jonathan Quick](http://twitter.com/search?q=Jonathan+Quick) | N/A |
+| 9 | [Barton](http://twitter.com/search?q=Barton) | N/A |
+| 10 | [Holl](http://twitter.com/search?q=Holl) | N/A |
+| 11 | [Trudeau Foundation](http://twitter.com/search?q=Trudeau+Foundation) | N/A |
+| 12 | [Chychrun](http://twitter.com/search?q=Chychrun) | N/A |
+| 13 | [Gustafsson](http://twitter.com/search?q=Gustafsson) | N/A |
+| 14 | [Engvall](http://twitter.com/search?q=Engvall) | N/A |
+| 15 | [Carolina](http://twitter.com/search?q=Carolina) | N/A |
+| 16 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 17 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
+| 18 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
+| 19 | [#TrudeauOutOfControl](http://twitter.com/search?q=%23TrudeauOutOfControl) | N/A |
+| 20 | [McCabe](http://twitter.com/search?q=McCabe) | N/A |
+| 21 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 22 | [#BeyondFast](http://twitter.com/search?q=%23BeyondFast) | #BeyondFast is a hashtag used to describe something that goes beyond the speed of fast. It is used to emphasize the idea that something is faster than fast, or that it surpasses the speed of fast. |
+| 23 | [#GoSensGo](http://twitter.com/search?q=%23GoSensGo) | N/A |
+| 24 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
+| 25 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
+| 26 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
+| 27 | [Bouchard](http://twitter.com/search?q=Bouchard) | N/A |
+| 28 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
 | 29 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
-| 30 | [Tinubu](http://twitter.com/search?q=Tinubu) | N/A |
-| 31 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
-| 32 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
-| 33 | [Pelletier](http://twitter.com/search?q=Pelletier) | N/A |
-| 34 | [Vladar](http://twitter.com/search?q=Vladar) | N/A |
-| 35 | [Bison King](http://twitter.com/search?q=Bison+King) | N/A |
-| 36 | [Jake Allen](http://twitter.com/search?q=Jake+Allen) | N/A |
-| 37 | [Scottie](http://twitter.com/search?q=Scottie) | Scottie is a nickname for the Scottish Terrier, a small breed of dog. It is also used as a nickname for people from Scotland or with Scottish heritage. |
-| 38 | [Donte](http://twitter.com/search?q=Donte) | Donte is a given name of Italian origin, derived from the Latin name "Donatus". It is a variant of the name "Donato" and can be translated to mean "given" or "gift". |
-| 39 | [Kopitar](http://twitter.com/search?q=Kopitar) | N/A |
-| 40 | [Zadorov](http://twitter.com/search?q=Zadorov) | N/A |
-| 41 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
-| 42 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
-| 43 | [Birgit](http://twitter.com/search?q=Birgit) | N/A |
-| 44 | [Korpisalo](http://twitter.com/search?q=Korpisalo) | N/A |
-| 45 | [Shayne](http://twitter.com/search?q=Shayne) | N/A |
-| 46 | [Kerfoot](http://twitter.com/search?q=Kerfoot) | N/A |
-| 47 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
-| 48 | [Dave Grohl](http://twitter.com/search?q=Dave+Grohl) | N/A |
-| 49 | [Huberdeau](http://twitter.com/search?q=Huberdeau) | N/A |
-| 50 | [Murray](http://twitter.com/search?q=Murray) | N/A |
+| 30 | [Jake Allen](http://twitter.com/search?q=Jake+Allen) | N/A |
+| 31 | [Ullmark](http://twitter.com/search?q=Ullmark) | N/A |
+| 32 | [Birgit](http://twitter.com/search?q=Birgit) | N/A |
+| 33 | [Tinubu](http://twitter.com/search?q=Tinubu) | N/A |
+| 34 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
+| 35 | [Scottie](http://twitter.com/search?q=Scottie) | Scottie is a nickname for the Scottish Terrier, a small breed of dog. It is also used as a nickname for people from Scotland or with Scottish heritage. |
+| 36 | [Korpisalo](http://twitter.com/search?q=Korpisalo) | N/A |
+| 37 | [Kopitar](http://twitter.com/search?q=Kopitar) | N/A |
+| 38 | [Shayne](http://twitter.com/search?q=Shayne) | N/A |
+| 39 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
+| 40 | [Vladar](http://twitter.com/search?q=Vladar) | N/A |
+| 41 | [Dave Grohl](http://twitter.com/search?q=Dave+Grohl) | N/A |
+| 42 | [Morris Rosenberg](http://twitter.com/search?q=Morris+Rosenberg) | N/A |
+| 43 | [Murray](http://twitter.com/search?q=Murray) | N/A |
+| 44 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 45 | [Gurianov](http://twitter.com/search?q=Gurianov) | N/A |
+| 46 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 47 | [Austin Watson](http://twitter.com/search?q=Austin+Watson) | N/A |
+| 48 | [Thad](http://twitter.com/search?q=Thad) | N/A |
+| 49 | [Kerfoot](http://twitter.com/search?q=Kerfoot) | N/A |
+| 50 | [GIVE US WN BLOOPERS](http://twitter.com/search?q=GIVE+US+WN+BLOOPERS) | N/A |
 
 
 

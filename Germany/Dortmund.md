@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dortmund
 
-📆 Last Updated: `2023-03-01 07:16:21 UTC`
+📆 Last Updated: `2023-03-01 08:16:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Wochenteiler](http://twitter.com/search?q=Wochenteiler) | N/A |
+| 1 | [#eFuels](http://twitter.com/search?q=%23eFuels) | N/A |
 | 2 | [#hartaberfair](http://twitter.com/search?q=%23hartaberfair) | #hartaberfair is a German phrase that translates to "fair and square" or "just and fair". It is used to express the idea of fairness and justice in a situation. |
-| 3 | [#eFuels](http://twitter.com/search?q=%23eFuels) | N/A |
-| 4 | [Bergfest](http://twitter.com/search?q=Bergfest) | N/A |
-| 5 | [Vergewaltigungen](http://twitter.com/search?q=Vergewaltigungen) | N/A |
-| 6 | [Schönen Mittwoch](http://twitter.com/search?q=Sch%c3%b6nen+Mittwoch) | N/A |
-| 7 | [Heizungen](http://twitter.com/search?q=Heizungen) | N/A |
-| 8 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
-| 9 | [Moderator](http://twitter.com/search?q=Moderator) | N/A |
-| 10 | [Frühlingsanfang](http://twitter.com/search?q=Fr%c3%bchlingsanfang) | N/A |
-| 11 | [#hartzundherzlich](http://twitter.com/search?q=%23hartzundherzlich) | N/A |
-| 12 | [Meute](http://twitter.com/search?q=Meute) | N/A |
-| 13 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
-| 14 | [Kriegsverbrechen](http://twitter.com/search?q=Kriegsverbrechen) | N/A |
+| 3 | [Wochenteiler](http://twitter.com/search?q=Wochenteiler) | N/A |
+| 4 | [Vergewaltigungen](http://twitter.com/search?q=Vergewaltigungen) | N/A |
+| 5 | [#FDPrausAusDenParlamenten](http://twitter.com/search?q=%23FDPrausAusDenParlamenten) | N/A |
+| 6 | [Heizungen](http://twitter.com/search?q=Heizungen) | N/A |
+| 7 | [Schönen Mittwoch](http://twitter.com/search?q=Sch%c3%b6nen+Mittwoch) | N/A |
+| 8 | [Frühlingsanfang](http://twitter.com/search?q=Fr%c3%bchlingsanfang) | N/A |
+| 9 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
+| 10 | [Moderator](http://twitter.com/search?q=Moderator) | N/A |
+| 11 | [Bergfest](http://twitter.com/search?q=Bergfest) | N/A |
+| 12 | [Kriegsverbrechen](http://twitter.com/search?q=Kriegsverbrechen) | N/A |
+| 13 | [Meute](http://twitter.com/search?q=Meute) | N/A |
+| 14 | [Verbot](http://twitter.com/search?q=Verbot) | N/A |
 | 15 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
-| 16 | [Moin Tom](http://twitter.com/search?q=Moin+Tom) | N/A |
-| 17 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
-| 18 | [Wärmepumpen](http://twitter.com/search?q=W%c3%a4rmepumpen) | N/A |
-| 19 | [Kate](http://twitter.com/search?q=Kate) | N/A |
-| 20 | [Verbot](http://twitter.com/search?q=Verbot) | N/A |
-| 21 | [Hallo März](http://twitter.com/search?q=Hallo+M%c3%a4rz) | N/A |
-| 22 | [yFood](http://twitter.com/search?q=yFood) | N/A |
-| 23 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
-| 24 | [Nestle](http://twitter.com/search?q=Nestle) | N/A |
-| 25 | [Seenotrettung](http://twitter.com/search?q=Seenotrettung) | N/A |
+| 16 | [Kate](http://twitter.com/search?q=Kate) | N/A |
+| 17 | [Wärmepumpen](http://twitter.com/search?q=W%c3%a4rmepumpen) | N/A |
+| 18 | [Start in den März](http://twitter.com/search?q=Start+in+den+M%c3%a4rz) | N/A |
+| 19 | [Yfood](http://twitter.com/search?q=Yfood) | N/A |
+| 20 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
+| 21 | [Moin Tom](http://twitter.com/search?q=Moin+Tom) | N/A |
+| 22 | [Nestle](http://twitter.com/search?q=Nestle) | N/A |
+| 23 | [Strom](http://twitter.com/search?q=Strom) | N/A |
+| 24 | [Seenotrettung](http://twitter.com/search?q=Seenotrettung) | N/A |
+| 25 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
 | 26 | [Senioren](http://twitter.com/search?q=Senioren) | N/A |
-| 27 | [GIVE US WN BLOOPERS](http://twitter.com/search?q=GIVE+US+WN+BLOOPERS) | N/A |
-| 28 | [Strom](http://twitter.com/search?q=Strom) | N/A |
-| 29 | [Start in den Tag](http://twitter.com/search?q=Start+in+den+Tag) | N/A |
-| 30 | [Guten Morgen Swen](http://twitter.com/search?q=Guten+Morgen+Swen) | N/A |
-| 31 | [Guten Morgen Swen](http://twitter.com/search?q=Guten+Morgen+Swen) | N/A |
-| 32 | [Guten Morgen Daniel](http://twitter.com/search?q=Guten+Morgen+Daniel) | N/A |
-| 33 | [Guten Morgen Detlev](http://twitter.com/search?q=Guten+Morgen+Detlev) | N/A |
-| 34 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
-| 35 | [GuMo](http://twitter.com/search?q=GuMo) | N/A |
-| 36 | [Boris Johnson](http://twitter.com/search?q=Boris+Johnson) | N/A |
+| 27 | [Kunstfreiheit](http://twitter.com/search?q=Kunstfreiheit) | N/A |
+| 28 | [Hallo März](http://twitter.com/search?q=Hallo+M%c3%a4rz) | N/A |
+| 29 | [Guten Morgen Swen](http://twitter.com/search?q=Guten+Morgen+Swen) | N/A |
+| 30 | [GIVE US WN BLOOPERS](http://twitter.com/search?q=GIVE+US+WN+BLOOPERS) | N/A |
+| 31 | [Boris Johnson](http://twitter.com/search?q=Boris+Johnson) | N/A |
+| 32 | [Guten Morgen Detlev](http://twitter.com/search?q=Guten+Morgen+Detlev) | N/A |
+| 33 | [Ankerkraut](http://twitter.com/search?q=Ankerkraut) | N/A |
+| 34 | [Kraftstoffe](http://twitter.com/search?q=Kraftstoffe) | N/A |
+| 35 | [Habt den Tag](http://twitter.com/search?q=Habt+den+Tag) | N/A |
+| 36 | [Koalitionsvertrag](http://twitter.com/search?q=Koalitionsvertrag) | N/A |
 | 37 | [schönen dienstag](http://twitter.com/search?q=sch%c3%b6nen+dienstag) | N/A |
-| 38 | [Joachim Behrendt](http://twitter.com/search?q=Joachim+Behrendt) | N/A |
-| 39 | [Kunstfreiheit](http://twitter.com/search?q=Kunstfreiheit) | N/A |
-| 40 | [Habt den Tag](http://twitter.com/search?q=Habt+den+Tag) | N/A |
-| 41 | [Kraftstoffe](http://twitter.com/search?q=Kraftstoffe) | N/A |
-| 42 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 43 | [Ankerkraut](http://twitter.com/search?q=Ankerkraut) | N/A |
-| 44 | [Ernährung](http://twitter.com/search?q=Ern%c3%a4hrung) | N/A |
-| 45 | [Bundesrat](http://twitter.com/search?q=Bundesrat) | N/A |
-| 46 | [Einbau](http://twitter.com/search?q=Einbau) | N/A |
-| 47 | [start in die woche](http://twitter.com/search?q=start+in+die+woche) | N/A |
-| 48 | [Guten Morgen Martina](http://twitter.com/search?q=Guten+Morgen+Martina) | N/A |
-| 49 | [Guten Morgen Martina](http://twitter.com/search?q=Guten+Morgen+Martina) | N/A |
+| 38 | [Kai Wegner](http://twitter.com/search?q=Kai+Wegner) | N/A |
+| 39 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
+| 40 | [Einbau](http://twitter.com/search?q=Einbau) | N/A |
+| 41 | [Neubauten](http://twitter.com/search?q=Neubauten) | N/A |
+| 42 | [Ernährung](http://twitter.com/search?q=Ern%c3%a4hrung) | N/A |
+| 43 | [Bundesrat](http://twitter.com/search?q=Bundesrat) | N/A |
+| 44 | [Start in den Tag](http://twitter.com/search?q=Start+in+den+Tag) | N/A |
+| 45 | [Guten Morgen Kerstin](http://twitter.com/search?q=Guten+Morgen+Kerstin) | N/A |
+| 46 | [Markt](http://twitter.com/search?q=Markt) | N/A |
+| 47 | [Reschke](http://twitter.com/search?q=Reschke) | N/A |
+| 48 | [Silke](http://twitter.com/search?q=Silke) | N/A |
+| 49 | [Guten Morgen Corinna](http://twitter.com/search?q=Guten+Morgen+Corinna) | N/A |
 
 
 

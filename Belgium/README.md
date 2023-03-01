@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belgium
 
-📆 Last Updated: `2023-03-01 07:17:04 UTC`
+📆 Last Updated: `2023-03-01 08:17:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Belgium
 | ------- | ------------ | ------------ |
 | 1 | [#complimentendag](http://twitter.com/search?q=%23complimentendag) | N/A |
 | 2 | [Marc Leemans](http://twitter.com/search?q=Marc+Leemans) | N/A |
-| 3 | [#kvmzwa](http://twitter.com/search?q=%23kvmzwa) | N/A |
-| 4 | [#deafspraak](http://twitter.com/search?q=%23deafspraak) | N/A |
-| 5 | [#KohLanta](http://twitter.com/search?q=%23KohLanta) | N/A |
-| 6 | [VDAB](http://twitter.com/search?q=VDAB) | N/A |
-| 7 | [Patrick](http://twitter.com/search?q=Patrick) | Patrick is a given name derived from the Latin name Patricius, meaning "nobleman". It is a popular name in many English-speaking countries, particularly in Ireland, where it is the third most common male name. |
+| 3 | [#KVMZWA](http://twitter.com/search?q=%23KVMZWA) | N/A |
+| 4 | [#kohlanta](http://twitter.com/search?q=%23kohlanta) | N/A |
+| 5 | [#RareDiseaseDay](http://twitter.com/search?q=%23RareDiseaseDay) | N/A |
+| 6 | [Patrick](http://twitter.com/search?q=Patrick) | Patrick is a given name derived from the Latin name Patricius, meaning "nobleman". It is a popular name in many English-speaking countries, particularly in Ireland, where it is the third most common male name. |
+| 7 | [Goeiemorgen](http://twitter.com/search?q=Goeiemorgen) | N/A |
 | 8 | [#CrokyCup](http://twitter.com/search?q=%23CrokyCup) | N/A |
 | 9 | [Schoofs](http://twitter.com/search?q=Schoofs) | N/A |
-| 10 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 10 | [Grèce](http://twitter.com/search?q=Gr%c3%a8ce) | N/A |
 | 11 | [Grondwettelijk Hof](http://twitter.com/search?q=Grondwettelijk+Hof) | N/A |
 | 12 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
-| 13 | [Jeremie](http://twitter.com/search?q=Jeremie) | N/A |
-| 14 | [Goeiemorgen](http://twitter.com/search?q=Goeiemorgen) | N/A |
-| 15 | [Fally](http://twitter.com/search?q=Fally) | N/A |
+| 13 | [VDAB](http://twitter.com/search?q=VDAB) | N/A |
+| 14 | [Jeremie](http://twitter.com/search?q=Jeremie) | N/A |
+| 15 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
 | 16 | [Elchardus](http://twitter.com/search?q=Elchardus) | N/A |
-| 17 | [Gelukkige](http://twitter.com/search?q=Gelukkige) | N/A |
-| 18 | [Julien Bert](http://twitter.com/search?q=Julien+Bert) | N/A |
-| 19 | [Kosovo](http://twitter.com/search?q=Kosovo) | N/A |
-| 20 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 21 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
-| 22 | [AC Milan](http://twitter.com/search?q=AC+Milan) | AC Milan is a professional Italian football club based in Milan, Italy. The club is one of the most successful teams in the world, having won 18 FIFA and UEFA titles. The acronym AC stands for Associazione Calcio (Italian for Football Association). |
-| 23 | [Ciranni](http://twitter.com/search?q=Ciranni) | N/A |
-| 24 | [Bouchez](http://twitter.com/search?q=Bouchez) | N/A |
-| 25 | [Northern Ireland](http://twitter.com/search?q=Northern+Ireland) | N/A |
-| 26 | [Creed III](http://twitter.com/search?q=Creed+III) | N/A |
-| 27 | [Rechters](http://twitter.com/search?q=Rechters) | N/A |
+| 17 | [Fally](http://twitter.com/search?q=Fally) | N/A |
+| 18 | [Rechters](http://twitter.com/search?q=Rechters) | N/A |
+| 19 | [Northern Ireland](http://twitter.com/search?q=Northern+Ireland) | N/A |
+| 20 | [Ciranni](http://twitter.com/search?q=Ciranni) | N/A |
+| 21 | [N-VA](http://twitter.com/search?q=N-VA) | N/A |
+| 22 | [Serbia](http://twitter.com/search?q=Serbia) | N/A |
+| 23 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 24 | [Julien Bert](http://twitter.com/search?q=Julien+Bert) | N/A |
+| 25 | [scheiding](http://twitter.com/search?q=scheiding) | N/A |
+| 26 | [AC Milan](http://twitter.com/search?q=AC+Milan) | AC Milan is a professional Italian football club based in Milan, Italy. The club is one of the most successful teams in the world, having won 18 FIFA and UEFA titles. The acronym AC stands for Associazione Calcio (Italian for Football Association). |
+| 27 | [Kosovo](http://twitter.com/search?q=Kosovo) | N/A |
 | 28 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
-| 29 | [scheiding](http://twitter.com/search?q=scheiding) | N/A |
-| 30 | [Creed 3](http://twitter.com/search?q=Creed+3) | N/A |
-| 31 | [Noordzee](http://twitter.com/search?q=Noordzee) | N/A |
-| 32 | [N-VA](http://twitter.com/search?q=N-VA) | N/A |
+| 29 | [Ethnicité](http://twitter.com/search?q=Ethnicit%c3%a9) | N/A |
+| 30 | [Bouchez](http://twitter.com/search?q=Bouchez) | N/A |
+| 31 | [Creed 3](http://twitter.com/search?q=Creed+3) | N/A |
+| 32 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
 | 33 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 34 | [Serbia](http://twitter.com/search?q=Serbia) | N/A |
-| 35 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
-| 36 | [Loones](http://twitter.com/search?q=Loones) | N/A |
-| 37 | [DeSantis](http://twitter.com/search?q=DeSantis) | DeSantis is a surname of Italian origin. It is derived from the Latin word "desanctis", which means "of the saints". In English, it can be translated to mean "belonging to the saints". |
-| 38 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
-| 39 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
-| 40 | [Open Vld](http://twitter.com/search?q=Open+Vld) | N/A |
-| 41 | [Belgie](http://twitter.com/search?q=Belgie) | N/A |
-| 42 | [Protocol](http://twitter.com/search?q=Protocol) | N/A |
+| 34 | [Gelukkige](http://twitter.com/search?q=Gelukkige) | N/A |
+| 35 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
+| 36 | [Zulte Waregem](http://twitter.com/search?q=Zulte+Waregem) | N/A |
+| 37 | [Noordzee](http://twitter.com/search?q=Noordzee) | N/A |
+| 38 | [Open Vld](http://twitter.com/search?q=Open+Vld) | N/A |
+| 39 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
+| 40 | [Payet](http://twitter.com/search?q=Payet) | Payet is a French surname. It is derived from the Old French word "paie," which means "payment." In English, it can be translated to mean "one who pays." |
+| 41 | [DeSantis](http://twitter.com/search?q=DeSantis) | DeSantis is a surname of Italian origin. It is derived from the Latin word "desanctis", which means "of the saints". In English, it can be translated to mean "belonging to the saints". |
+| 42 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
 | 43 | [EVRM](http://twitter.com/search?q=EVRM) | N/A |
-| 44 | [dan howell](http://twitter.com/search?q=dan+howell) | N/A |
-| 45 | [Zulte Waregem](http://twitter.com/search?q=Zulte+Waregem) | N/A |
-| 46 | [Vergeet](http://twitter.com/search?q=Vergeet) | N/A |
-| 47 | [Ethnicité](http://twitter.com/search?q=Ethnicit%c3%a9) | N/A |
-| 48 | [Fauci](http://twitter.com/search?q=Fauci) | N/A |
-| 49 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 50 | [bpost](http://twitter.com/search?q=bpost) | N/A |
+| 44 | [francken](http://twitter.com/search?q=francken) | N/A |
+| 45 | [dan howell](http://twitter.com/search?q=dan+howell) | N/A |
+| 46 | [Protocol](http://twitter.com/search?q=Protocol) | N/A |
+| 47 | [🇪🇺](http://twitter.com/search?q=%f0%9f%87%aa%f0%9f%87%ba) | N/A |
+| 48 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
+| 49 | [Sunak](http://twitter.com/search?q=Sunak) | N/A |
+| 50 | [Fauci](http://twitter.com/search?q=Fauci) | N/A |
 
 
 

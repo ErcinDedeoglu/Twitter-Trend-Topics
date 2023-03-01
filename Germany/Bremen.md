@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bremen
 
-📆 Last Updated: `2023-03-01 07:16:20 UTC`
+📆 Last Updated: `2023-03-01 08:16:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Wochenteiler](http://twitter.com/search?q=Wochenteiler) | N/A |
+| 1 | [#eFuels](http://twitter.com/search?q=%23eFuels) | N/A |
 | 2 | [#hartaberfair](http://twitter.com/search?q=%23hartaberfair) | #hartaberfair is a German phrase that translates to "fair and square" or "just and fair". It is used to express the idea of fairness and justice in a situation. |
-| 3 | [#eFuels](http://twitter.com/search?q=%23eFuels) | N/A |
-| 4 | [Bergfest](http://twitter.com/search?q=Bergfest) | N/A |
-| 5 | [Vergewaltigungen](http://twitter.com/search?q=Vergewaltigungen) | N/A |
-| 6 | [Schönen Mittwoch](http://twitter.com/search?q=Sch%c3%b6nen+Mittwoch) | N/A |
-| 7 | [Heizungen](http://twitter.com/search?q=Heizungen) | N/A |
-| 8 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
+| 3 | [Wochenteiler](http://twitter.com/search?q=Wochenteiler) | N/A |
+| 4 | [Vergewaltigungen](http://twitter.com/search?q=Vergewaltigungen) | N/A |
+| 5 | [#FDPrausAusDenParlamenten](http://twitter.com/search?q=%23FDPrausAusDenParlamenten) | N/A |
+| 6 | [Heizungen](http://twitter.com/search?q=Heizungen) | N/A |
+| 7 | [Schönen Mittwoch](http://twitter.com/search?q=Sch%c3%b6nen+Mittwoch) | N/A |
+| 8 | [Frühlingsanfang](http://twitter.com/search?q=Fr%c3%bchlingsanfang) | N/A |
 | 9 | [Moderator](http://twitter.com/search?q=Moderator) | N/A |
-| 10 | [Frühlingsanfang](http://twitter.com/search?q=Fr%c3%bchlingsanfang) | N/A |
-| 11 | [Meute](http://twitter.com/search?q=Meute) | N/A |
-| 12 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
-| 13 | [Kriegsverbrechen](http://twitter.com/search?q=Kriegsverbrechen) | N/A |
+| 10 | [Bergfest](http://twitter.com/search?q=Bergfest) | N/A |
+| 11 | [Kriegsverbrechen](http://twitter.com/search?q=Kriegsverbrechen) | N/A |
+| 12 | [Meute](http://twitter.com/search?q=Meute) | N/A |
+| 13 | [Verbot](http://twitter.com/search?q=Verbot) | N/A |
 | 14 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
-| 15 | [Moin Tom](http://twitter.com/search?q=Moin+Tom) | N/A |
-| 16 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
-| 17 | [Wärmepumpen](http://twitter.com/search?q=W%c3%a4rmepumpen) | N/A |
-| 18 | [Kate](http://twitter.com/search?q=Kate) | N/A |
-| 19 | [Verbot](http://twitter.com/search?q=Verbot) | N/A |
-| 20 | [Hallo März](http://twitter.com/search?q=Hallo+M%c3%a4rz) | N/A |
-| 21 | [yFood](http://twitter.com/search?q=yFood) | N/A |
-| 22 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
-| 23 | [Nestle](http://twitter.com/search?q=Nestle) | N/A |
-| 24 | [Seenotrettung](http://twitter.com/search?q=Seenotrettung) | N/A |
+| 15 | [Kate](http://twitter.com/search?q=Kate) | N/A |
+| 16 | [Wärmepumpen](http://twitter.com/search?q=W%c3%a4rmepumpen) | N/A |
+| 17 | [Start in den März](http://twitter.com/search?q=Start+in+den+M%c3%a4rz) | N/A |
+| 18 | [Yfood](http://twitter.com/search?q=Yfood) | N/A |
+| 19 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
+| 20 | [Moin Tom](http://twitter.com/search?q=Moin+Tom) | N/A |
+| 21 | [Nestle](http://twitter.com/search?q=Nestle) | N/A |
+| 22 | [Strom](http://twitter.com/search?q=Strom) | N/A |
+| 23 | [Seenotrettung](http://twitter.com/search?q=Seenotrettung) | N/A |
+| 24 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
 | 25 | [Senioren](http://twitter.com/search?q=Senioren) | N/A |
-| 26 | [GIVE US WN BLOOPERS](http://twitter.com/search?q=GIVE+US+WN+BLOOPERS) | N/A |
-| 27 | [Strom](http://twitter.com/search?q=Strom) | N/A |
-| 28 | [Start in den Tag](http://twitter.com/search?q=Start+in+den+Tag) | N/A |
-| 29 | [Guten Morgen Swen](http://twitter.com/search?q=Guten+Morgen+Swen) | N/A |
-| 30 | [Guten Morgen Swen](http://twitter.com/search?q=Guten+Morgen+Swen) | N/A |
-| 31 | [Guten Morgen Daniel](http://twitter.com/search?q=Guten+Morgen+Daniel) | N/A |
-| 32 | [Guten Morgen Detlev](http://twitter.com/search?q=Guten+Morgen+Detlev) | N/A |
-| 33 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
-| 34 | [GuMo](http://twitter.com/search?q=GuMo) | N/A |
-| 35 | [Boris Johnson](http://twitter.com/search?q=Boris+Johnson) | N/A |
+| 26 | [Kunstfreiheit](http://twitter.com/search?q=Kunstfreiheit) | N/A |
+| 27 | [Hallo März](http://twitter.com/search?q=Hallo+M%c3%a4rz) | N/A |
+| 28 | [Guten Morgen Swen](http://twitter.com/search?q=Guten+Morgen+Swen) | N/A |
+| 29 | [GIVE US WN BLOOPERS](http://twitter.com/search?q=GIVE+US+WN+BLOOPERS) | N/A |
+| 30 | [Boris Johnson](http://twitter.com/search?q=Boris+Johnson) | N/A |
+| 31 | [Guten Morgen Detlev](http://twitter.com/search?q=Guten+Morgen+Detlev) | N/A |
+| 32 | [Ankerkraut](http://twitter.com/search?q=Ankerkraut) | N/A |
+| 33 | [Kraftstoffe](http://twitter.com/search?q=Kraftstoffe) | N/A |
+| 34 | [Habt den Tag](http://twitter.com/search?q=Habt+den+Tag) | N/A |
+| 35 | [Koalitionsvertrag](http://twitter.com/search?q=Koalitionsvertrag) | N/A |
 | 36 | [schönen dienstag](http://twitter.com/search?q=sch%c3%b6nen+dienstag) | N/A |
-| 37 | [Joachim Behrendt](http://twitter.com/search?q=Joachim+Behrendt) | N/A |
-| 38 | [Kunstfreiheit](http://twitter.com/search?q=Kunstfreiheit) | N/A |
-| 39 | [Habt den Tag](http://twitter.com/search?q=Habt+den+Tag) | N/A |
-| 40 | [Kraftstoffe](http://twitter.com/search?q=Kraftstoffe) | N/A |
-| 41 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 42 | [Ankerkraut](http://twitter.com/search?q=Ankerkraut) | N/A |
-| 43 | [Ernährung](http://twitter.com/search?q=Ern%c3%a4hrung) | N/A |
-| 44 | [Bundesrat](http://twitter.com/search?q=Bundesrat) | N/A |
-| 45 | [Einbau](http://twitter.com/search?q=Einbau) | N/A |
-| 46 | [start in die woche](http://twitter.com/search?q=start+in+die+woche) | N/A |
-| 47 | [Guten Morgen Martina](http://twitter.com/search?q=Guten+Morgen+Martina) | N/A |
-| 48 | [Guten Morgen Martina](http://twitter.com/search?q=Guten+Morgen+Martina) | N/A |
+| 37 | [Kai Wegner](http://twitter.com/search?q=Kai+Wegner) | N/A |
+| 38 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
+| 39 | [Einbau](http://twitter.com/search?q=Einbau) | N/A |
+| 40 | [Bundesrat](http://twitter.com/search?q=Bundesrat) | N/A |
+| 41 | [Neubauten](http://twitter.com/search?q=Neubauten) | N/A |
+| 42 | [Ernährung](http://twitter.com/search?q=Ern%c3%a4hrung) | N/A |
+| 43 | [Markt](http://twitter.com/search?q=Markt) | N/A |
+| 44 | [Start in den Tag](http://twitter.com/search?q=Start+in+den+Tag) | N/A |
+| 45 | [Guten Morgen Kerstin](http://twitter.com/search?q=Guten+Morgen+Kerstin) | N/A |
+| 46 | [Reschke](http://twitter.com/search?q=Reschke) | N/A |
+| 47 | [Silke](http://twitter.com/search?q=Silke) | N/A |
+| 48 | [Guten Morgen Corinna](http://twitter.com/search?q=Guten+Morgen+Corinna) | N/A |
 
 
 

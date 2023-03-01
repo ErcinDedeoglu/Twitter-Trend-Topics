@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bekasi
 
-📆 Last Updated: `2023-03-01 07:16:27 UTC`
+📆 Last Updated: `2023-03-01 08:16:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,48 +15,49 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Cuma Prabowo PalingPas](http://twitter.com/search?q=Cuma+Prabowo+PalingPas) | N/A |
-| 2 | [Nyaman Bersama Prabowo](http://twitter.com/search?q=Nyaman+Bersama+Prabowo) | N/A |
-| 3 | [Lengkapnya Di Dekade 08](http://twitter.com/search?q=Lengkapnya+Di+Dekade+08) | N/A |
+| 1 | [Lengkapnya Di Dekade 08](http://twitter.com/search?q=Lengkapnya+Di+Dekade+08) | N/A |
+| 2 | [Cuma Prabowo PalingPas](http://twitter.com/search?q=Cuma+Prabowo+PalingPas) | N/A |
+| 3 | [Nyaman Bersama Prabowo](http://twitter.com/search?q=Nyaman+Bersama+Prabowo) | N/A |
 | 4 | [Bapak Prabowo Subianto](http://twitter.com/search?q=Bapak+Prabowo+Subianto) | N/A |
 | 5 | [Prabowo Fokus Serius](http://twitter.com/search?q=Prabowo+Fokus+Serius) | N/A |
-| 6 | [#23EpicNightShot](http://twitter.com/search?q=%2323EpicNightShot) | N/A |
-| 7 | [Ultra 5G](http://twitter.com/search?q=Ultra+5G) | N/A |
-| 8 | [#ShareTheEpic](http://twitter.com/search?q=%23ShareTheEpic) | N/A |
-| 9 | [#withGalaxy](http://twitter.com/search?q=%23withGalaxy) | N/A |
-| 10 | [200MP Nightography](http://twitter.com/search?q=200MP+Nightography) | N/A |
-| 11 | [#Zeemoversary4](http://twitter.com/search?q=%23Zeemoversary4) | N/A |
-| 12 | [Maret](http://twitter.com/search?q=Maret) | N/A |
-| 13 | [Formula E](http://twitter.com/search?q=Formula+E) | N/A |
-| 14 | [#BeyourluveUnited](http://twitter.com/search?q=%23BeyourluveUnited) | N/A |
-| 15 | [TOGETHER FOR BUILD](http://twitter.com/search?q=TOGETHER+FOR+BUILD) | N/A |
-| 16 | [Kontra](http://twitter.com/search?q=Kontra) | Kontra is a German word meaning "against" or "contrary to". It is often used in the context of politics, where it implies opposition to a particular policy or action. |
-| 17 | [Ruhut Armando](http://twitter.com/search?q=Ruhut+Armando) | N/A |
-| 18 | [Laura Basuki](http://twitter.com/search?q=Laura+Basuki) | N/A |
-| 19 | [Alkohol 96%](http://twitter.com/search?q=Alkohol+96%25) | N/A |
-| 20 | [Sheila Dara](http://twitter.com/search?q=Sheila+Dara) | N/A |
-| 21 | [INKA](http://twitter.com/search?q=INKA) | N/A |
-| 22 | [PBSI](http://twitter.com/search?q=PBSI) | N/A |
-| 23 | [Vidi](http://twitter.com/search?q=Vidi) | N/A |
-| 24 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
-| 25 | [3,5 Jt](http://twitter.com/search?q=3%2c5+Jt) | N/A |
-| 26 | [Sumber](http://twitter.com/search?q=Sumber) | N/A |
-| 27 | [Chimmie](http://twitter.com/search?q=Chimmie) | N/A |
-| 28 | [LEE JENO THANK YOU](http://twitter.com/search?q=LEE+JENO+THANK+YOU) | N/A |
-| 29 | [PeduliLindungi](http://twitter.com/search?q=PeduliLindungi) | N/A |
-| 30 | [Series 5G](http://twitter.com/search?q=Series+5G) | N/A |
-| 31 | [Gubernur](http://twitter.com/search?q=Gubernur) | N/A |
-| 32 | [Tinkerbell](http://twitter.com/search?q=Tinkerbell) | N/A |
-| 33 | [APBD](http://twitter.com/search?q=APBD) | N/A |
-| 34 | [One Piece](http://twitter.com/search?q=One+Piece) | N/A |
-| 35 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
-| 36 | [Ahok](http://twitter.com/search?q=Ahok) | N/A |
-| 37 | [#KawalDavid](http://twitter.com/search?q=%23KawalDavid) | N/A |
-| 38 | [#HappyBirthdayJustinBieber](http://twitter.com/search?q=%23HappyBirthdayJustinBieber) | N/A |
-| 39 | [#NINGNINGxVOGUEPLUS](http://twitter.com/search?q=%23NINGNINGxVOGUEPLUS) | N/A |
-| 40 | [#LosertoLoveYou](http://twitter.com/search?q=%23LosertoLoveYou) | N/A |
-| 41 | [#BeYourselfWithNINGNING](http://twitter.com/search?q=%23BeYourselfWithNINGNING) | N/A |
-| 42 | [#BlibliCariTeman](http://twitter.com/search?q=%23BlibliCariTeman) | N/A |
+| 6 | [#TAEHYUNGxSiminvest](http://twitter.com/search?q=%23TAEHYUNGxSiminvest) | N/A |
+| 7 | [SIMINVEST AMBASSADOR V](http://twitter.com/search?q=SIMINVEST+AMBASSADOR+V) | N/A |
+| 8 | [KIM TAEHYUNG FOR SIMINVEST](http://twitter.com/search?q=KIM+TAEHYUNG+FOR+SIMINVEST) | N/A |
+| 9 | [#ShareTheEpic](http://twitter.com/search?q=%23ShareTheEpic) | N/A |
+| 10 | [#23EpicNightShot](http://twitter.com/search?q=%2323EpicNightShot) | N/A |
+| 11 | [Ultra 5G](http://twitter.com/search?q=Ultra+5G) | N/A |
+| 12 | [KPAI](http://twitter.com/search?q=KPAI) | N/A |
+| 13 | [200MP Nightography](http://twitter.com/search?q=200MP+Nightography) | N/A |
+| 14 | [#withGalaxy](http://twitter.com/search?q=%23withGalaxy) | N/A |
+| 15 | [Sehun](http://twitter.com/search?q=Sehun) | N/A |
+| 16 | [#Zeemoversary4](http://twitter.com/search?q=%23Zeemoversary4) | N/A |
+| 17 | [Formula E](http://twitter.com/search?q=Formula+E) | N/A |
+| 18 | [Maret](http://twitter.com/search?q=Maret) | N/A |
+| 19 | [INKA](http://twitter.com/search?q=INKA) | N/A |
+| 20 | [Alkohol 96%](http://twitter.com/search?q=Alkohol+96%25) | N/A |
+| 21 | [TOGETHER FOR BUILD](http://twitter.com/search?q=TOGETHER+FOR+BUILD) | N/A |
+| 22 | [Vidi](http://twitter.com/search?q=Vidi) | N/A |
+| 23 | [Sheila Dara](http://twitter.com/search?q=Sheila+Dara) | N/A |
+| 24 | [Laura Basuki](http://twitter.com/search?q=Laura+Basuki) | N/A |
+| 25 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
+| 26 | [PeduliLindungi](http://twitter.com/search?q=PeduliLindungi) | N/A |
+| 27 | [PBSI](http://twitter.com/search?q=PBSI) | N/A |
+| 28 | [Rabu](http://twitter.com/search?q=Rabu) | N/A |
+| 29 | [3,5 Jt](http://twitter.com/search?q=3%2c5+Jt) | N/A |
+| 30 | [Chimmie](http://twitter.com/search?q=Chimmie) | N/A |
+| 31 | [LEE JENO THANK YOU](http://twitter.com/search?q=LEE+JENO+THANK+YOU) | N/A |
+| 32 | [Sumber](http://twitter.com/search?q=Sumber) | N/A |
+| 33 | [Tinkerbell](http://twitter.com/search?q=Tinkerbell) | N/A |
+| 34 | [Gubernur](http://twitter.com/search?q=Gubernur) | N/A |
+| 35 | [One Piece](http://twitter.com/search?q=One+Piece) | N/A |
+| 36 | [APBD](http://twitter.com/search?q=APBD) | N/A |
+| 37 | [#BeyourluveUnited](http://twitter.com/search?q=%23BeyourluveUnited) | N/A |
+| 38 | [#KawalDavid](http://twitter.com/search?q=%23KawalDavid) | N/A |
+| 39 | [#HappyBirthdayJustinBieber](http://twitter.com/search?q=%23HappyBirthdayJustinBieber) | N/A |
+| 40 | [#NINGNINGxVOGUEPLUS](http://twitter.com/search?q=%23NINGNINGxVOGUEPLUS) | N/A |
+| 41 | [#LosertoLoveYou](http://twitter.com/search?q=%23LosertoLoveYou) | N/A |
+| 42 | [#BeYourselfWithNINGNING](http://twitter.com/search?q=%23BeYourselfWithNINGNING) | N/A |
+| 43 | [#BlibliCariTeman](http://twitter.com/search?q=%23BlibliCariTeman) | N/A |
 
 
 

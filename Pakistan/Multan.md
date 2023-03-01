@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Multan
 
-📆 Last Updated: `2023-03-01 07:16:46 UTC`
+📆 Last Updated: `2023-03-01 08:17:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Pakistan](</Pakistan>)
 | ------- | ------------ | ------------ |
 | 1 | [#SupremeCourt](http://twitter.com/search?q=%23SupremeCourt) | N/A |
 | 2 | [#راج_کرے_گی_خلق_خدا](http://twitter.com/search?q=%23%d8%b1%d8%a7%d8%ac_%da%a9%d8%b1%db%92_%da%af%db%8c_%d8%ae%d9%84%d9%82_%d8%ae%d8%af%d8%a7) | N/A |
-| 3 | [#آرہا_ہے_کپتان_اسلام_آباد](http://twitter.com/search?q=%23%d8%a2%d8%b1%db%81%d8%a7_%db%81%db%92_%da%a9%d9%be%d8%aa%d8%a7%d9%86_%d8%a7%d8%b3%d9%84%d8%a7%d9%85_%d8%a2%d8%a8%d8%a7%d8%af) | N/A |
-| 4 | [#خان_بمقابلہ_کرپٹ_نظام](http://twitter.com/search?q=%23%d8%ae%d8%a7%d9%86_%d8%a8%d9%85%d9%82%d8%a7%d8%a8%d9%84%db%81_%da%a9%d8%b1%d9%be%d9%b9_%d9%86%d8%b8%d8%a7%d9%85) | N/A |
+| 3 | [#BOLKaAdliyaKoSalam](http://twitter.com/search?q=%23BOLKaAdliyaKoSalam) | N/A |
+| 4 | [#آرہا_ہے_کپتان_اسلام_آباد](http://twitter.com/search?q=%23%d8%a2%d8%b1%db%81%d8%a7_%db%81%db%92_%da%a9%d9%be%d8%aa%d8%a7%d9%86_%d8%a7%d8%b3%d9%84%d8%a7%d9%85_%d8%a2%d8%a8%d8%a7%d8%af) | N/A |
 | 5 | [Punjab](http://twitter.com/search?q=Punjab) | N/A |
 | 6 | [Elections in 90](http://twitter.com/search?q=Elections+in+90) | N/A |
-| 7 | [Article 6](http://twitter.com/search?q=Article+6) | N/A |
-| 8 | [Mansoor Ali Shah](http://twitter.com/search?q=Mansoor+Ali+Shah) | N/A |
+| 7 | [Bol News](http://twitter.com/search?q=Bol+News) | N/A |
+| 8 | [Article 6](http://twitter.com/search?q=Article+6) | N/A |
 | 9 | [Rs 5](http://twitter.com/search?q=Rs+5) | Rs 5 is the abbreviation for Indian Rupee 5, which is equivalent to approximately 0.068 US Dollars. |
 | 10 | [g-11](http://twitter.com/search?q=g-11) | N/A |
-| 11 | [Maria B](http://twitter.com/search?q=Maria+B) | N/A |
-| 12 | [Governor](http://twitter.com/search?q=Governor) | N/A |
-| 13 | [Happy Birthday Lala](http://twitter.com/search?q=Happy+Birthday+Lala) | N/A |
-| 14 | [President](http://twitter.com/search?q=President) | N/A |
-| 15 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 16 | [Your DM](http://twitter.com/search?q=Your+DM) | N/A |
-| 17 | [International Conference](http://twitter.com/search?q=International+Conference) | N/A |
-| 18 | [Awam](http://twitter.com/search?q=Awam) | N/A |
-| 19 | [Murad Saeed](http://twitter.com/search?q=Murad+Saeed) | N/A |
+| 11 | [Mansoor Ali Shah](http://twitter.com/search?q=Mansoor+Ali+Shah) | N/A |
+| 12 | [Happy Birthday Lala](http://twitter.com/search?q=Happy+Birthday+Lala) | N/A |
+| 13 | [Governor](http://twitter.com/search?q=Governor) | N/A |
+| 14 | [Maria B](http://twitter.com/search?q=Maria+B) | N/A |
+| 15 | [President](http://twitter.com/search?q=President) | N/A |
+| 16 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 17 | [Toshakhana](http://twitter.com/search?q=Toshakhana) | N/A |
+| 18 | [Munshi](http://twitter.com/search?q=Munshi) | N/A |
+| 19 | [Your DM](http://twitter.com/search?q=Your+DM) | N/A |
 | 20 | [EVIL EYES OFF SHEHNAAZGILL](http://twitter.com/search?q=EVIL+EYES+OFF+SHEHNAAZGILL) | N/A |
-| 21 | [Bismah Maroof](http://twitter.com/search?q=Bismah+Maroof) | N/A |
-| 22 | [Boom Boom](http://twitter.com/search?q=Boom+Boom) | N/A |
-| 23 | [Virat Kohli](http://twitter.com/search?q=Virat+Kohli) | N/A |
+| 21 | [International Conference](http://twitter.com/search?q=International+Conference) | N/A |
+| 22 | [Murad Saeed](http://twitter.com/search?q=Murad+Saeed) | N/A |
+| 23 | [Boom Boom](http://twitter.com/search?q=Boom+Boom) | N/A |
 | 24 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 25 | [Test Cricket](http://twitter.com/search?q=Test+Cricket) | N/A |
-| 26 | [Lots](http://twitter.com/search?q=Lots) | N/A |
-| 27 | [Shahida Raza](http://twitter.com/search?q=Shahida+Raza) | N/A |
-| 28 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
-| 29 | [Wheels](http://twitter.com/search?q=Wheels) | N/A |
-| 30 | [US Embassy](http://twitter.com/search?q=US+Embassy) | N/A |
-| 31 | [Ishaq Dar](http://twitter.com/search?q=Ishaq+Dar) | N/A |
-| 32 | [Salman](http://twitter.com/search?q=Salman) | N/A |
-| 33 | [Niazi](http://twitter.com/search?q=Niazi) | N/A |
-| 34 | [Bandial](http://twitter.com/search?q=Bandial) | N/A |
-| 35 | [PMLN](http://twitter.com/search?q=PMLN) | N/A |
-| 36 | [Excellent](http://twitter.com/search?q=Excellent) | N/A |
-| 37 | [Zardari](http://twitter.com/search?q=Zardari) | N/A |
-| 38 | [VONC](http://twitter.com/search?q=VONC) | N/A |
-| 39 | [Bangladesh](http://twitter.com/search?q=Bangladesh) | N/A |
-| 40 | [Mubarak](http://twitter.com/search?q=Mubarak) | N/A |
-| 41 | [Correction](http://twitter.com/search?q=Correction) | N/A |
-| 42 | [Matlab](http://twitter.com/search?q=Matlab) | N/A |
-| 43 | [Shameless](http://twitter.com/search?q=Shameless) | N/A |
-| 44 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 45 | [Last Date](http://twitter.com/search?q=Last+Date) | N/A |
-| 46 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 47 | [Mery](http://twitter.com/search?q=Mery) | N/A |
-| 48 | [Wese](http://twitter.com/search?q=Wese) | N/A |
-| 49 | [Depends](http://twitter.com/search?q=Depends) | N/A |
+| 25 | [Lots](http://twitter.com/search?q=Lots) | N/A |
+| 26 | [Bandial](http://twitter.com/search?q=Bandial) | N/A |
+| 27 | [Salman](http://twitter.com/search?q=Salman) | N/A |
+| 28 | [Kohli](http://twitter.com/search?q=Kohli) | Kohli is a surname of Indian origin. It is derived from the Sanskrit word “Kul”, meaning clan or family. The name is most commonly associated with the Kohli clan of North India, which is one of the oldest clans in India. |
+| 29 | [Niazi](http://twitter.com/search?q=Niazi) | N/A |
+| 30 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 31 | [Judges](http://twitter.com/search?q=Judges) | N/A |
+| 32 | [VONC](http://twitter.com/search?q=VONC) | N/A |
+| 33 | [Awam](http://twitter.com/search?q=Awam) | N/A |
+| 34 | [Bangladesh](http://twitter.com/search?q=Bangladesh) | N/A |
+| 35 | [Shameless](http://twitter.com/search?q=Shameless) | N/A |
+| 36 | [Geo News](http://twitter.com/search?q=Geo+News) | N/A |
+| 37 | [PMLN](http://twitter.com/search?q=PMLN) | N/A |
+| 38 | [Mubarak](http://twitter.com/search?q=Mubarak) | N/A |
+| 39 | [Correction](http://twitter.com/search?q=Correction) | N/A |
+| 40 | [Panama](http://twitter.com/search?q=Panama) | N/A |
+| 41 | [Last Date](http://twitter.com/search?q=Last+Date) | N/A |
+| 42 | [Handsome](http://twitter.com/search?q=Handsome) | N/A |
+| 43 | [Qazi](http://twitter.com/search?q=Qazi) | N/A |
+| 44 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 45 | [Wese](http://twitter.com/search?q=Wese) | N/A |
+| 46 | [Bibi](http://twitter.com/search?q=Bibi) | N/A |
+| 47 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 48 | [Judiciary](http://twitter.com/search?q=Judiciary) | N/A |
+| 49 | [Praying](http://twitter.com/search?q=Praying) | Praying is the act of communicating with a higher power, such as God, in order to express gratitude, ask for guidance, or seek forgiveness. It is an important part of many religions and spiritual practices. |
 
 
 

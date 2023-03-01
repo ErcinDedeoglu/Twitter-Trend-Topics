@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Leicester
 
-📆 Last Updated: `2023-03-01 07:16:04 UTC`
+📆 Last Updated: `2023-03-01 08:16:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 1 | [Thomas](http://twitter.com/search?q=Thomas) | N/A |
 | 2 | [St David](http://twitter.com/search?q=St+David) | N/A |
-| 3 | [Northern Ireland](http://twitter.com/search?q=Northern+Ireland) | N/A |
-| 4 | [Casey](http://twitter.com/search?q=Casey) | Casey is a unisex name of Irish origin, derived from the Gaelic Cathasaigh, meaning “brave” or “vigilant.” It is also a popular surname in the United States. |
-| 5 | [Jessie](http://twitter.com/search?q=Jessie) | N/A |
-| 6 | [#FULLEE](http://twitter.com/search?q=%23FULLEE) | N/A |
-| 7 | [Hancock](http://twitter.com/search?q=Hancock) | N/A |
-| 8 | [#FACup](http://twitter.com/search?q=%23FACup) | #FACup is an abbreviation for the Football Association Challenge Cup, which is an annual knockout football competition in England. It is the oldest football competition in the world and is open to all teams from the top four tiers of English football. |
+| 3 | [Hancock](http://twitter.com/search?q=Hancock) | N/A |
+| 4 | [Northern Ireland](http://twitter.com/search?q=Northern+Ireland) | N/A |
+| 5 | [#DyddGŵylDewiHapus](http://twitter.com/search?q=%23DyddG%c5%b5ylDewiHapus) | N/A |
+| 6 | [Welsh](http://twitter.com/search?q=Welsh) | Welsh is a Celtic language spoken in Wales, a country in the United Kingdom. It is closely related to Cornish and Breton, two other Celtic languages. The Welsh language has its own unique alphabet and grammar, and is an official language of Wales. Its meaning in English is "of or relating to Wales or its people, language, or culture". |
+| 7 | [Casey](http://twitter.com/search?q=Casey) | Casey is a unisex name of Irish origin, derived from the Gaelic Cathasaigh, meaning “brave” or “vigilant.” It is also a popular surname in the United States. |
+| 8 | [Jessie](http://twitter.com/search?q=Jessie) | N/A |
 | 9 | [Brexit](http://twitter.com/search?q=Brexit) | Brexit is a shorthand way of referring to the UK's decision to leave the European Union (EU). It is a portmanteau of the words "British" and "exit". The term was first used in 2012 when Prime Minister David Cameron promised to hold a referendum on Britain's membership of the EU. On June 23, 2016, the UK voted to leave the EU, and Brexit officially began on March 29, 2019. |
-| 10 | [#FFBWednesday](http://twitter.com/search?q=%23FFBWednesday) | N/A |
-| 11 | [#DyddGŵylDewiHapus](http://twitter.com/search?q=%23DyddG%c5%b5ylDewiHapus) | N/A |
-| 12 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
-| 13 | [Sunak](http://twitter.com/search?q=Sunak) | N/A |
-| 14 | [#RareDiseaseDay](http://twitter.com/search?q=%23RareDiseaseDay) | N/A |
-| 15 | [Windsor Framework](http://twitter.com/search?q=Windsor+Framework) | N/A |
-| 16 | [Daily Quordle 401](http://twitter.com/search?q=Daily+Quordle+401) | N/A |
-| 17 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
-| 18 | [Saint David](http://twitter.com/search?q=Saint+David) | N/A |
-| 19 | [Claudia](http://twitter.com/search?q=Claudia) | Claudia is a female given name of Latin origin, derived from the Roman clan name Claudius. It means "lame" or "disabled". |
-| 20 | [Bristol City](http://twitter.com/search?q=Bristol+City) | N/A |
-| 21 | [Steve Baker](http://twitter.com/search?q=Steve+Baker) | N/A |
-| 22 | [Single Market](http://twitter.com/search?q=Single+Market) | N/A |
-| 23 | [Tinubu](http://twitter.com/search?q=Tinubu) | N/A |
-| 24 | [Maxwell](http://twitter.com/search?q=Maxwell) | N/A |
-| 25 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 26 | [Amartey](http://twitter.com/search?q=Amartey) | N/A |
-| 27 | [Rosie](http://twitter.com/search?q=Rosie) | N/A |
-| 28 | [Alex Scott](http://twitter.com/search?q=Alex+Scott) | N/A |
-| 29 | [Oakeshott](http://twitter.com/search?q=Oakeshott) | N/A |
-| 30 | [1st of March](http://twitter.com/search?q=1st+of+March) | N/A |
-| 31 | [Rutter](http://twitter.com/search?q=Rutter) | N/A |
-| 32 | [UK and EU](http://twitter.com/search?q=UK+and+EU) | N/A |
-| 33 | [Pogba](http://twitter.com/search?q=Pogba) | Pogba is a nickname for the French professional footballer Paul Pogba. It is derived from his last name and is often used as a term of endearment by his fans. |
-| 34 | [Meslier](http://twitter.com/search?q=Meslier) | N/A |
-| 35 | [Scotland and Wales](http://twitter.com/search?q=Scotland+and+Wales) | N/A |
-| 36 | [Sanam](http://twitter.com/search?q=Sanam) | N/A |
-| 37 | [Roca](http://twitter.com/search?q=Roca) | N/A |
-| 38 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 39 | [McKennie](http://twitter.com/search?q=McKennie) | McKennie is a surname of Scottish origin. It is derived from the Gaelic MacCoinneach, meaning "son of Coinneach". |
-| 40 | [Betty Boothroyd](http://twitter.com/search?q=Betty+Boothroyd) | N/A |
-| 41 | [Blackburn](http://twitter.com/search?q=Blackburn) | N/A |
-| 42 | [Soumare](http://twitter.com/search?q=Soumare) | N/A |
-| 43 | [Stormont](http://twitter.com/search?q=Stormont) | N/A |
-| 44 | [Manor Solomon](http://twitter.com/search?q=Manor+Solomon) | N/A |
-| 45 | [Pinch](http://twitter.com/search?q=Pinch) | N/A |
-| 46 | [Jacqui Smith](http://twitter.com/search?q=Jacqui+Smith) | N/A |
-| 47 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
-| 48 | [Samie](http://twitter.com/search?q=Samie) | Samie is a given name of Arabic origin, meaning "elevated" or "lofty". |
-| 49 | [White Rabbits](http://twitter.com/search?q=White+Rabbits) | N/A |
-| 50 | [Ashton Gate](http://twitter.com/search?q=Ashton+Gate) | N/A |
+| 10 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
+| 11 | [#EarlyBiz](http://twitter.com/search?q=%23EarlyBiz) | N/A |
+| 12 | [#FACup](http://twitter.com/search?q=%23FACup) | #FACup is an abbreviation for the Football Association Challenge Cup, which is an annual knockout football competition in England. It is the oldest football competition in the world and is open to all teams from the top four tiers of English football. |
+| 13 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
+| 14 | [Daily Quordle 401](http://twitter.com/search?q=Daily+Quordle+401) | N/A |
+| 15 | [Oakeshott](http://twitter.com/search?q=Oakeshott) | N/A |
+| 16 | [#FFBWednesday](http://twitter.com/search?q=%23FFBWednesday) | N/A |
+| 17 | [Sunak](http://twitter.com/search?q=Sunak) | N/A |
+| 18 | [Windsor Framework](http://twitter.com/search?q=Windsor+Framework) | N/A |
+| 19 | [Telegraph](http://twitter.com/search?q=Telegraph) | N/A |
+| 20 | [Happy New Month](http://twitter.com/search?q=Happy+New+Month) | Happy New Month is a phrase used to express good wishes for the start of a new month. It is typically used as a greeting or salutation to friends, family, and colleagues. The phrase is usually accompanied by wishes for health, happiness, and success in the upcoming month. |
+| 21 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
+| 22 | [Wordle 620 X](http://twitter.com/search?q=Wordle+620+X) | N/A |
+| 23 | [Single Market](http://twitter.com/search?q=Single+Market) | N/A |
+| 24 | [Steve Baker](http://twitter.com/search?q=Steve+Baker) | N/A |
+| 25 | [Bristol City](http://twitter.com/search?q=Bristol+City) | N/A |
+| 26 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
+| 27 | [Tinubu](http://twitter.com/search?q=Tinubu) | N/A |
+| 28 | [Claudia](http://twitter.com/search?q=Claudia) | Claudia is a female given name of Latin origin, derived from the Roman clan name Claudius. It means "lame" or "disabled". |
+| 29 | [Rosie](http://twitter.com/search?q=Rosie) | N/A |
+| 30 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 31 | [White Rabbits](http://twitter.com/search?q=White+Rabbits) | N/A |
+| 32 | [Amartey](http://twitter.com/search?q=Amartey) | N/A |
+| 33 | [Midazolam](http://twitter.com/search?q=Midazolam) | N/A |
+| 34 | [Northern Lights](http://twitter.com/search?q=Northern+Lights) | N/A |
+| 35 | [Alex Scott](http://twitter.com/search?q=Alex+Scott) | N/A |
+| 36 | [UK and EU](http://twitter.com/search?q=UK+and+EU) | N/A |
+| 37 | [Maxwell](http://twitter.com/search?q=Maxwell) | N/A |
+| 38 | [Scotland and Wales](http://twitter.com/search?q=Scotland+and+Wales) | N/A |
+| 39 | [Meslier](http://twitter.com/search?q=Meslier) | N/A |
+| 40 | [Rutter](http://twitter.com/search?q=Rutter) | N/A |
+| 41 | [Pogba](http://twitter.com/search?q=Pogba) | Pogba is a nickname for the French professional footballer Paul Pogba. It is derived from his last name and is often used as a term of endearment by his fans. |
+| 42 | [Frogmore](http://twitter.com/search?q=Frogmore) | N/A |
+| 43 | [Chris Whitty](http://twitter.com/search?q=Chris+Whitty) | N/A |
+| 44 | [Covid](http://twitter.com/search?q=Covid) | N/A |
+| 45 | [Japa](http://twitter.com/search?q=Japa) | N/A |
+| 46 | [Sanam](http://twitter.com/search?q=Sanam) | N/A |
+| 47 | [Soumare](http://twitter.com/search?q=Soumare) | N/A |
+| 48 | [Jacqui Smith](http://twitter.com/search?q=Jacqui+Smith) | N/A |
+| 49 | [HAPPY BIRTHDAY SAPNAP](http://twitter.com/search?q=HAPPY+BIRTHDAY+SAPNAP) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canberra
 
-📆 Last Updated: `2023-03-01 07:16:30 UTC`
+📆 Last Updated: `2023-03-01 08:16:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Australia](</Australia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
-| 2 | [#superannuation](http://twitter.com/search?q=%23superannuation) | N/A |
-| 3 | [Angus Taylor](http://twitter.com/search?q=Angus+Taylor) | N/A |
-| 4 | [#RobodebtRC](http://twitter.com/search?q=%23RobodebtRC) | N/A |
-| 5 | [Kochie](http://twitter.com/search?q=Kochie) | N/A |
-| 6 | [Autumn](http://twitter.com/search?q=Autumn) | N/A |
-| 7 | [Nitin Menon](http://twitter.com/search?q=Nitin+Menon) | N/A |
-| 8 | [Todd Murphy](http://twitter.com/search?q=Todd+Murphy) | N/A |
-| 9 | [Ashwin](http://twitter.com/search?q=Ashwin) | Ashwin is a Hindu name derived from Sanskrit, meaning "lord of the horse". It is often used as a given name for boys in India. |
-| 10 | [Stuart Robert](http://twitter.com/search?q=Stuart+Robert) | N/A |
-| 11 | [Bridget Archer](http://twitter.com/search?q=Bridget+Archer) | N/A |
-| 12 | [#NZvENG](http://twitter.com/search?q=%23NZvENG) | N/A |
-| 13 | [Musolino](http://twitter.com/search?q=Musolino) | N/A |
-| 14 | [Jadeja](http://twitter.com/search?q=Jadeja) | N/A |
+| 2 | [#TheDrum](http://twitter.com/search?q=%23TheDrum) | N/A |
+| 3 | [Warren Mundine](http://twitter.com/search?q=Warren+Mundine) | N/A |
+| 4 | [#superannuation](http://twitter.com/search?q=%23superannuation) | N/A |
+| 5 | [Jadeja](http://twitter.com/search?q=Jadeja) | N/A |
+| 6 | [#RobodebtRC](http://twitter.com/search?q=%23RobodebtRC) | N/A |
+| 7 | [Kochie](http://twitter.com/search?q=Kochie) | N/A |
+| 8 | [Angus Taylor](http://twitter.com/search?q=Angus+Taylor) | N/A |
+| 9 | [Nitin Menon](http://twitter.com/search?q=Nitin+Menon) | N/A |
+| 10 | [Autumn](http://twitter.com/search?q=Autumn) | N/A |
+| 11 | [Kuhnemann](http://twitter.com/search?q=Kuhnemann) | N/A |
+| 12 | [Stuart Robert](http://twitter.com/search?q=Stuart+Robert) | N/A |
+| 13 | [Marnus](http://twitter.com/search?q=Marnus) | N/A |
+| 14 | [Bridget Archer](http://twitter.com/search?q=Bridget+Archer) | N/A |
 | 15 | [Indore](http://twitter.com/search?q=Indore) | N/A |
 | 16 | [BCCI](http://twitter.com/search?q=BCCI) | N/A |
-| 17 | [Kuhnemann](http://twitter.com/search?q=Kuhnemann) | N/A |
-| 18 | [Ronni](http://twitter.com/search?q=Ronni) | Ronni is a female given name, derived from the name Veronica. It is a diminutive form of the name, and can be used as a nickname. The meaning of Ronni in English is "true image". |
-| 19 | [Chalmers](http://twitter.com/search?q=Chalmers) | N/A |
-| 20 | [Dutton](http://twitter.com/search?q=Dutton) | N/A |
-| 21 | [Father Bob](http://twitter.com/search?q=Father+Bob) | N/A |
-| 22 | [Rohit](http://twitter.com/search?q=Rohit) | Rohit is a Hindu name derived from Sanskrit, meaning "red" or "sun". It is commonly used as a male name in India. |
-| 23 | [Starc](http://twitter.com/search?q=Starc) | N/A |
-| 24 | [Kohli](http://twitter.com/search?q=Kohli) | Kohli is a surname of Indian origin. It is derived from the Sanskrit word “Kul”, meaning clan or family. The name is most commonly associated with the Kohli clan of North India, which is one of the oldest clans in India. |
-| 25 | [Prue](http://twitter.com/search?q=Prue) | N/A |
+| 17 | [Musolino](http://twitter.com/search?q=Musolino) | N/A |
+| 18 | [Dutton](http://twitter.com/search?q=Dutton) | N/A |
+| 19 | [The Project](http://twitter.com/search?q=The+Project) | N/A |
+| 20 | [Gabba](http://twitter.com/search?q=Gabba) | N/A |
+| 21 | [Ronni](http://twitter.com/search?q=Ronni) | Ronni is a female given name, derived from the name Veronica. It is a diminutive form of the name, and can be used as a nickname. The meaning of Ronni in English is "true image". |
+| 22 | [Ashwin](http://twitter.com/search?q=Ashwin) | Ashwin is a Hindu name derived from Sanskrit, meaning "lord of the horse". It is often used as a given name for boys in India. |
+| 23 | [Chalmers](http://twitter.com/search?q=Chalmers) | N/A |
+| 24 | [Father Bob](http://twitter.com/search?q=Father+Bob) | N/A |
+| 25 | [Starc](http://twitter.com/search?q=Starc) | N/A |
 | 26 | [0.5% of Australians](http://twitter.com/search?q=0.5%25+of+Australians) | N/A |
-| 27 | [Rupert Murdoch](http://twitter.com/search?q=Rupert+Murdoch) | N/A |
-| 28 | [Double Bay](http://twitter.com/search?q=Double+Bay) | N/A |
-| 29 | [The Project](http://twitter.com/search?q=The+Project) | N/A |
-| 30 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
-| 31 | [Rachel](http://twitter.com/search?q=Rachel) | N/A |
-| 32 | [Carey](http://twitter.com/search?q=Carey) | N/A |
-| 33 | [Lismore](http://twitter.com/search?q=Lismore) | N/A |
-| 34 | [Sarah Ferguson](http://twitter.com/search?q=Sarah+Ferguson) | N/A |
-| 35 | [Warwick Farm](http://twitter.com/search?q=Warwick+Farm) | N/A |
-| 36 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 37 | [Frogmore](http://twitter.com/search?q=Frogmore) | N/A |
-| 38 | [Wordle 620 X](http://twitter.com/search?q=Wordle+620+X) | N/A |
-| 39 | [Nathan Lyon](http://twitter.com/search?q=Nathan+Lyon) | N/A |
-| 40 | [Keenan](http://twitter.com/search?q=Keenan) | N/A |
-| 41 | [Matthew Thompson](http://twitter.com/search?q=Matthew+Thompson) | N/A |
-| 42 | [Steve Smith](http://twitter.com/search?q=Steve+Smith) | Steve Smith is a common English name. It does not have any particular meaning in English. |
+| 27 | [Todd Murphy](http://twitter.com/search?q=Todd+Murphy) | N/A |
+| 28 | [Axar](http://twitter.com/search?q=Axar) | Axar is a Sanskrit word meaning “axis” or “pole.” It is used in Hinduism to refer to the central point of the universe, around which all other things revolve. In modern usage, it can also refer to a person or thing that serves as a focal point for others. |
+| 29 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
+| 30 | [Prue](http://twitter.com/search?q=Prue) | N/A |
+| 31 | [Double Bay](http://twitter.com/search?q=Double+Bay) | N/A |
+| 32 | [Rohit](http://twitter.com/search?q=Rohit) | Rohit is a Hindu name derived from Sanskrit, meaning "red" or "sun". It is commonly used as a male name in India. |
+| 33 | [Carey](http://twitter.com/search?q=Carey) | N/A |
+| 34 | [AFLW](http://twitter.com/search?q=AFLW) | N/A |
+| 35 | [Rupert Murdoch](http://twitter.com/search?q=Rupert+Murdoch) | N/A |
+| 36 | [Frogmore](http://twitter.com/search?q=Frogmore) | N/A |
+| 37 | [Rachel](http://twitter.com/search?q=Rachel) | N/A |
+| 38 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 39 | [Kohli](http://twitter.com/search?q=Kohli) | Kohli is a surname of Indian origin. It is derived from the Sanskrit word “Kul”, meaning clan or family. The name is most commonly associated with the Kohli clan of North India, which is one of the oldest clans in India. |
+| 40 | [Steve Smith](http://twitter.com/search?q=Steve+Smith) | Steve Smith is a common English name. It does not have any particular meaning in English. |
+| 41 | [Warwick Farm](http://twitter.com/search?q=Warwick+Farm) | N/A |
+| 42 | [Sarah Ferguson](http://twitter.com/search?q=Sarah+Ferguson) | N/A |
 | 43 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
-| 44 | [International Women's Day](http://twitter.com/search?q=International+Women%27s+Day) | N/A |
-| 45 | [Allegra](http://twitter.com/search?q=Allegra) | N/A |
-| 46 | [Shaun](http://twitter.com/search?q=Shaun) | N/A |
-| 47 | [Flick](http://twitter.com/search?q=Flick) | N/A |
-| 48 | [Gabba](http://twitter.com/search?q=Gabba) | N/A |
-| 49 | [Sussan](http://twitter.com/search?q=Sussan) | N/A |
+| 44 | [Matthew Thompson](http://twitter.com/search?q=Matthew+Thompson) | N/A |
+| 45 | [Lismore](http://twitter.com/search?q=Lismore) | N/A |
+| 46 | [Nathan Lyon](http://twitter.com/search?q=Nathan+Lyon) | N/A |
+| 47 | [International Women's Day](http://twitter.com/search?q=International+Women%27s+Day) | N/A |
+| 48 | [Sussan](http://twitter.com/search?q=Sussan) | N/A |
+| 49 | [Renee Leon](http://twitter.com/search?q=Renee+Leon) | N/A |
 
 
 
