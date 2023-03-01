@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Poland
 
-📆 Last Updated: `2023-03-01 18:17:55 UTC`
+📆 Last Updated: `2023-03-01 19:17:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Poland
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [KKS Kalisz](http://twitter.com/search?q=KKS+Kalisz) | N/A |
-| 2 | [Żołnierzy Wyklętych](http://twitter.com/search?q=%c5%bbo%c5%82nierzy+Wykl%c4%99tych) | N/A |
-| 3 | [#KKSŚLĄ](http://twitter.com/search?q=%23KKS%c5%9aL%c4%84) | N/A |
-| 4 | [Wenus](http://twitter.com/search?q=Wenus) | N/A |
-| 5 | [Chwała Bohaterom](http://twitter.com/search?q=Chwa%c5%82a+Bohaterom) | N/A |
-| 6 | [#OligarchaPutina](http://twitter.com/search?q=%23OligarchaPutina) | N/A |
-| 7 | [#1marca](http://twitter.com/search?q=%231marca) | N/A |
-| 8 | [#BielanOddajKase](http://twitter.com/search?q=%23BielanOddajKase) | N/A |
-| 9 | [#ObajtekDoCeli](http://twitter.com/search?q=%23ObajtekDoCeli) | N/A |
-| 10 | [Jowisz](http://twitter.com/search?q=Jowisz) | N/A |
-| 11 | [Dworczyka](http://twitter.com/search?q=Dworczyka) | N/A |
-| 12 | [Narodowy Dzień Pamięci](http://twitter.com/search?q=Narodowy+Dzie%c5%84+Pami%c4%99ci) | N/A |
-| 13 | [Referendum](http://twitter.com/search?q=Referendum) | N/A |
-| 14 | [Tuska](http://twitter.com/search?q=Tuska) | N/A |
-| 15 | [Śląsk](http://twitter.com/search?q=%c5%9al%c4%85sk) | N/A |
-| 16 | [Kinga Rajda](http://twitter.com/search?q=Kinga+Rajda) | N/A |
-| 17 | [Karpińskiego](http://twitter.com/search?q=Karpi%c5%84skiego) | N/A |
-| 18 | [Libicki](http://twitter.com/search?q=Libicki) | N/A |
-| 19 | [Jolanty Brzeskiej](http://twitter.com/search?q=Jolanty+Brzeskiej) | N/A |
-| 20 | [Wąsika](http://twitter.com/search?q=W%c4%85sika) | N/A |
-| 21 | [Hołownia](http://twitter.com/search?q=Ho%c5%82ownia) | N/A |
-| 22 | [GIVE US WN BLOOPERS](http://twitter.com/search?q=GIVE+US+WN+BLOOPERS) | N/A |
-| 23 | [Peter Prevc](http://twitter.com/search?q=Peter+Prevc) | N/A |
-| 24 | [jerzego stuhra](http://twitter.com/search?q=jerzego+stuhra) | N/A |
+| 1 | [Żołnierzy Wyklętych](http://twitter.com/search?q=%c5%bbo%c5%82nierzy+Wykl%c4%99tych) | N/A |
+| 2 | [KKS Kalisz](http://twitter.com/search?q=KKS+Kalisz) | N/A |
+| 3 | [Wenus](http://twitter.com/search?q=Wenus) | N/A |
+| 4 | [Chwała Bohaterom](http://twitter.com/search?q=Chwa%c5%82a+Bohaterom) | N/A |
+| 5 | [#KKSŚLĄ](http://twitter.com/search?q=%23KKS%c5%9aL%c4%84) | N/A |
+| 6 | [#1marca](http://twitter.com/search?q=%231marca) | N/A |
+| 7 | [#OligarchaPutina](http://twitter.com/search?q=%23OligarchaPutina) | N/A |
+| 8 | [Jowisz](http://twitter.com/search?q=Jowisz) | N/A |
+| 9 | [#BielanOddajKase](http://twitter.com/search?q=%23BielanOddajKase) | N/A |
+| 10 | [#ObajtekDoCeli](http://twitter.com/search?q=%23ObajtekDoCeli) | N/A |
+| 11 | [Alexandria Loutitt](http://twitter.com/search?q=Alexandria+Loutitt) | N/A |
+| 12 | [Śląsk](http://twitter.com/search?q=%c5%9al%c4%85sk) | N/A |
+| 13 | [Dworczyka](http://twitter.com/search?q=Dworczyka) | N/A |
+| 14 | [Kinga Rajda](http://twitter.com/search?q=Kinga+Rajda) | N/A |
+| 15 | [Narodowy Dzień Pamięci](http://twitter.com/search?q=Narodowy+Dzie%c5%84+Pami%c4%99ci) | N/A |
+| 16 | [Referendum](http://twitter.com/search?q=Referendum) | N/A |
+| 17 | [Tuska](http://twitter.com/search?q=Tuska) | N/A |
+| 18 | [Karpińskiego](http://twitter.com/search?q=Karpi%c5%84skiego) | N/A |
+| 19 | [Libicki](http://twitter.com/search?q=Libicki) | N/A |
+| 20 | [Jolanty Brzeskiej](http://twitter.com/search?q=Jolanty+Brzeskiej) | N/A |
+| 21 | [Wąsika](http://twitter.com/search?q=W%c4%85sika) | N/A |
+| 22 | [jerzego stuhra](http://twitter.com/search?q=jerzego+stuhra) | N/A |
+| 23 | [GIVE US WN BLOOPERS](http://twitter.com/search?q=GIVE+US+WN+BLOOPERS) | N/A |
+| 24 | [Maren Lundby](http://twitter.com/search?q=Maren+Lundby) | N/A |
 | 25 | [Niesiołowski](http://twitter.com/search?q=Niesio%c5%82owski) | N/A |
 | 26 | [kredyt 0%](http://twitter.com/search?q=kredyt+0%25) | N/A |
-| 27 | [Niezawisłość](http://twitter.com/search?q=Niezawis%c5%82o%c5%9b%c4%87) | N/A |
-| 28 | [kornel morawiecki](http://twitter.com/search?q=kornel+morawiecki) | N/A |
-| 29 | [Amber Gold](http://twitter.com/search?q=Amber+Gold) | N/A |
-| 30 | [Obajtka](http://twitter.com/search?q=Obajtka) | N/A |
-| 31 | [Niemcy](http://twitter.com/search?q=Niemcy) | N/A |
-| 32 | [Lechem](http://twitter.com/search?q=Lechem) | N/A |
-| 33 | [Mieszkanie](http://twitter.com/search?q=Mieszkanie) | N/A |
-| 34 | [Borsuk](http://twitter.com/search?q=Borsuk) | N/A |
-| 35 | [MAM PRZYPAŁ](http://twitter.com/search?q=MAM+PRZYPA%c5%81) | N/A |
-| 36 | [Kaziu](http://twitter.com/search?q=Kaziu) | N/A |
-| 37 | [Chmielowski](http://twitter.com/search?q=Chmielowski) | N/A |
-| 38 | [Senacie](http://twitter.com/search?q=Senacie) | N/A |
-| 39 | [HAPPY BIRTHDAY SAPNAP](http://twitter.com/search?q=HAPPY+BIRTHDAY+SAPNAP) | N/A |
-| 40 | [Cześć Ich Pamięci](http://twitter.com/search?q=Cze%c5%9b%c4%87+Ich+Pami%c4%99ci) | N/A |
-| 41 | [Orlen](http://twitter.com/search?q=Orlen) | N/A |
-| 42 | [Senatu](http://twitter.com/search?q=Senatu) | N/A |
-| 43 | [Żołnierzom Wyklętym](http://twitter.com/search?q=%c5%bbo%c5%82nierzom+Wykl%c4%99tym) | N/A |
-| 44 | [Zandberg](http://twitter.com/search?q=Zandberg) | N/A |
-| 45 | [Państwo](http://twitter.com/search?q=Pa%c5%84stwo) | N/A |
-| 46 | [cytowanie](http://twitter.com/search?q=cytowanie) | N/A |
-| 47 | [Jasiński](http://twitter.com/search?q=Jasi%c5%84ski) | N/A |
-| 48 | [Fryderyk Chopin](http://twitter.com/search?q=Fryderyk+Chopin) | N/A |
-| 49 | [Łupaszka](http://twitter.com/search?q=%c5%81upaszka) | N/A |
-| 50 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
+| 27 | [kornel morawiecki](http://twitter.com/search?q=kornel+morawiecki) | N/A |
+| 28 | [Garcia](http://twitter.com/search?q=Garcia) | Garcia is a Spanish surname. It is derived from the Basque word "gar" meaning "bear". The name is often associated with strength and courage. In English, Garcia means "brave and strong". |
+| 29 | [Hołownia](http://twitter.com/search?q=Ho%c5%82ownia) | N/A |
+| 30 | [Motor](http://twitter.com/search?q=Motor) | N/A |
+| 31 | [Borsuk](http://twitter.com/search?q=Borsuk) | N/A |
+| 32 | [Mieszkanie](http://twitter.com/search?q=Mieszkanie) | N/A |
+| 33 | [MAM PRZYPAŁ](http://twitter.com/search?q=MAM+PRZYPA%c5%81) | N/A |
+| 34 | [Amber Gold](http://twitter.com/search?q=Amber+Gold) | N/A |
+| 35 | [Kaziu](http://twitter.com/search?q=Kaziu) | N/A |
+| 36 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 37 | [Niezawisłość](http://twitter.com/search?q=Niezawis%c5%82o%c5%9b%c4%87) | N/A |
+| 38 | [Obajtka](http://twitter.com/search?q=Obajtka) | N/A |
+| 39 | [Senacie](http://twitter.com/search?q=Senacie) | N/A |
+| 40 | [Luke](http://twitter.com/search?q=Luke) | N/A |
+| 41 | [HAPPY BIRTHDAY SAPNAP](http://twitter.com/search?q=HAPPY+BIRTHDAY+SAPNAP) | N/A |
+| 42 | [Cześć Ich Pamięci](http://twitter.com/search?q=Cze%c5%9b%c4%87+Ich+Pami%c4%99ci) | N/A |
+| 43 | [Senatu](http://twitter.com/search?q=Senatu) | N/A |
+| 44 | [Żołnierzom Wyklętym](http://twitter.com/search?q=%c5%bbo%c5%82nierzom+Wykl%c4%99tym) | N/A |
+| 45 | [Kosiniak](http://twitter.com/search?q=Kosiniak) | N/A |
+| 46 | [Orlen](http://twitter.com/search?q=Orlen) | N/A |
+| 47 | [Górnik Zabrze](http://twitter.com/search?q=G%c3%b3rnik+Zabrze) | N/A |
+| 48 | [cytowanie](http://twitter.com/search?q=cytowanie) | N/A |
+| 49 | [Mando](http://twitter.com/search?q=Mando) | N/A |
+| 50 | [Jolanta Brzeska](http://twitter.com/search?q=Jolanta+Brzeska) | N/A |
 
 
 

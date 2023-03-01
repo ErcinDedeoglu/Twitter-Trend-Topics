@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hanoi
 
-📆 Last Updated: `2023-03-01 18:17:24 UTC`
+📆 Last Updated: `2023-03-01 19:16:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,17 +17,17 @@ This is top 50 for [Vietnam](</Vietnam>)
 | ------- | ------------ | ------------ |
 | 1 | [#OneYearInThe_iE_of_TEMPEST](http://twitter.com/search?q=%23OneYearInThe_iE_of_TEMPEST) | N/A |
 | 2 | [#잇츠위_템페스트_일주년](http://twitter.com/search?q=%23%ec%9e%87%ec%b8%a0%ec%9c%84_%ed%85%9c%ed%8e%98%ec%8a%a4%ed%8a%b8_%ec%9d%bc%ec%a3%bc%eb%85%84) | N/A |
-| 3 | [BIGHIT PROTECT RM](http://twitter.com/search?q=BIGHIT+PROTECT+RM) | N/A |
-| 4 | [HYBE PROTECT RM](http://twitter.com/search?q=HYBE+PROTECT+RM) | N/A |
+| 3 | [HYBE PROTECT RM](http://twitter.com/search?q=HYBE+PROTECT+RM) | N/A |
+| 4 | [BIGHIT PROTECT RM](http://twitter.com/search?q=BIGHIT+PROTECT+RM) | N/A |
 | 5 | [#BeyourluveUnited](http://twitter.com/search?q=%23BeyourluveUnited) | N/A |
 | 6 | [#JISOOxDiorAW23](http://twitter.com/search?q=%23JISOOxDiorAW23) | N/A |
 | 7 | [TOGETHER FOR BUILD](http://twitter.com/search?q=TOGETHER+FOR+BUILD) | N/A |
 | 8 | [KORAIL RESPECT RM](http://twitter.com/search?q=KORAIL+RESPECT+RM) | N/A |
-| 9 | [#ROSÉCharmeEnSaintLaurent](http://twitter.com/search?q=%23ROS%c3%89CharmeEnSaintLaurent) | N/A |
-| 10 | [neo baby pass](http://twitter.com/search?q=neo+baby+pass) | N/A |
+| 9 | [neo baby pass](http://twitter.com/search?q=neo+baby+pass) | N/A |
+| 10 | [#ROSÉCharmeEnSaintLaurent](http://twitter.com/search?q=%23ROS%c3%89CharmeEnSaintLaurent) | N/A |
 | 11 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 12 | [pika](http://twitter.com/search?q=pika) | N/A |
-| 13 | [tháng 3](http://twitter.com/search?q=th%c3%a1ng+3) | N/A |
+| 12 | [tháng 3](http://twitter.com/search?q=th%c3%a1ng+3) | N/A |
+| 13 | [pika](http://twitter.com/search?q=pika) | N/A |
 | 14 | [Character DAO](http://twitter.com/search?q=Character+DAO) | N/A |
 | 15 | [TRẢ HỘP KIM CHI CHO TAETAE](http://twitter.com/search?q=TR%e1%ba%a2+H%e1%bb%98P+KIM+CHI+CHO+TAETAE) | N/A |
 | 16 | [Meena](http://twitter.com/search?q=Meena) | N/A |
@@ -42,20 +42,20 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 25 | [Căng](http://twitter.com/search?q=C%c4%83ng) | N/A |
 | 26 | [Pump](http://twitter.com/search?q=Pump) | N/A |
 | 27 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
-| 28 | [park jisung model is back](http://twitter.com/search?q=park+jisung+model+is+back) | N/A |
-| 29 | [Aptos](http://twitter.com/search?q=Aptos) | N/A |
-| 30 | [West](http://twitter.com/search?q=West) | N/A |
-| 31 | [Cũng](http://twitter.com/search?q=C%c5%a9ng) | N/A |
+| 28 | [Vtuber](http://twitter.com/search?q=Vtuber) | N/A |
+| 29 | [park jisung model is back](http://twitter.com/search?q=park+jisung+model+is+back) | N/A |
+| 30 | [Aptos](http://twitter.com/search?q=Aptos) | N/A |
+| 31 | [West](http://twitter.com/search?q=West) | N/A |
 | 32 | [RSVP'ed](http://twitter.com/search?q=RSVP%27ed) | N/A |
-| 33 | [Vtuber](http://twitter.com/search?q=Vtuber) | N/A |
-| 34 | [Babiu](http://twitter.com/search?q=Babiu) | N/A |
+| 33 | [Babiu](http://twitter.com/search?q=Babiu) | N/A |
+| 34 | [Nghe](http://twitter.com/search?q=Nghe) | N/A |
 | 35 | [Core](http://twitter.com/search?q=Core) | N/A |
 | 36 | [sướng](http://twitter.com/search?q=s%c6%b0%e1%bb%9bng) | N/A |
 | 37 | [Jeff](http://twitter.com/search?q=Jeff) | N/A |
-| 38 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 39 | [jennie](http://twitter.com/search?q=jennie) | N/A |
-| 40 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 41 | [Tag 3](http://twitter.com/search?q=Tag+3) | N/A |
+| 38 | [jennie](http://twitter.com/search?q=jennie) | N/A |
+| 39 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 40 | [Tag 3](http://twitter.com/search?q=Tag+3) | N/A |
+| 41 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 42 | [Blockchain](http://twitter.com/search?q=Blockchain) | N/A |
 | 43 | [Mark](http://twitter.com/search?q=Mark) | N/A |
 | 44 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
@@ -64,7 +64,7 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 47 | [Shanghai](http://twitter.com/search?q=Shanghai) | N/A |
 | 48 | [Metaverse](http://twitter.com/search?q=Metaverse) | N/A |
 | 49 | [Queen](http://twitter.com/search?q=Queen) | N/A |
-| 50 | [Covid](http://twitter.com/search?q=Covid) | N/A |
+| 50 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
 
 
 

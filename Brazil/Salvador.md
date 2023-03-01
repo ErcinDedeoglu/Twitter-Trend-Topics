@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Salvador
 
-📆 Last Updated: `2023-03-01 18:17:02 UTC`
+📆 Last Updated: `2023-03-01 19:16:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for [Brazil](</Brazil>)
 | 4 | [twenty one pilots](http://twitter.com/search?q=twenty+one+pilots) | N/A |
 | 5 | [sam levinson](http://twitter.com/search?q=sam+levinson) | N/A |
 | 6 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
-| 7 | [#HYBEPROTECTRM](http://twitter.com/search?q=%23HYBEPROTECTRM) | N/A |
-| 8 | [BIGHIT PROTECT RM](http://twitter.com/search?q=BIGHIT+PROTECT+RM) | N/A |
-| 9 | [jennie](http://twitter.com/search?q=jennie) | N/A |
-| 10 | [Blink](http://twitter.com/search?q=Blink) | N/A |
-| 11 | [Dida](http://twitter.com/search?q=Dida) | N/A |
-| 12 | [Tom Delonge](http://twitter.com/search?q=Tom+Delonge) | N/A |
-| 13 | [Banco](http://twitter.com/search?q=Banco) | N/A |
-| 14 | [#BalançoGeralRJ](http://twitter.com/search?q=%23Balan%c3%a7oGeralRJ) | N/A |
-| 15 | [Maira Cardi](http://twitter.com/search?q=Maira+Cardi) | N/A |
-| 16 | [Lupita Nyong](http://twitter.com/search?q=Lupita+Nyong) | N/A |
-| 17 | [Lucy Liu](http://twitter.com/search?q=Lucy+Liu) | N/A |
-| 18 | [Thiago Nigro](http://twitter.com/search?q=Thiago+Nigro) | N/A |
-| 19 | [#TheMandalorianXboxSweepstakes](http://twitter.com/search?q=%23TheMandalorianXboxSweepstakes) | N/A |
-| 20 | [#MoonlightChickenEP7](http://twitter.com/search?q=%23MoonlightChickenEP7) | N/A |
-| 21 | [izzo](http://twitter.com/search?q=izzo) | N/A |
-| 22 | [Travis](http://twitter.com/search?q=Travis) | N/A |
-| 23 | [Haddad](http://twitter.com/search?q=Haddad) | N/A |
-| 24 | [Zoro](http://twitter.com/search?q=Zoro) | N/A |
-| 25 | [Março](http://twitter.com/search?q=Mar%c3%a7o) | N/A |
-| 26 | [Parabéns Rio de Janeiro](http://twitter.com/search?q=Parab%c3%a9ns+Rio+de+Janeiro) | N/A |
-| 27 | [Tom Hardy](http://twitter.com/search?q=Tom+Hardy) | N/A |
-| 28 | [Primo Rico](http://twitter.com/search?q=Primo+Rico) | N/A |
-| 29 | [The Idol](http://twitter.com/search?q=The+Idol) | N/A |
-| 30 | [Coreia do Norte](http://twitter.com/search?q=Coreia+do+Norte) | N/A |
-| 31 | [Cidade Invisível](http://twitter.com/search?q=Cidade+Invis%c3%advel) | N/A |
-| 32 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 33 | [21 Pilots](http://twitter.com/search?q=21+Pilots) | N/A |
-| 34 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 35 | [C6 Fest](http://twitter.com/search?q=C6+Fest) | N/A |
-| 36 | [Cidade Maravilhosa](http://twitter.com/search?q=Cidade+Maravilhosa) | N/A |
-| 37 | [Pikamee](http://twitter.com/search?q=Pikamee) | N/A |
-| 38 | [Mylon](http://twitter.com/search?q=Mylon) | N/A |
-| 39 | [Quentin Tarantino](http://twitter.com/search?q=Quentin+Tarantino) | N/A |
-| 40 | [Anvisa](http://twitter.com/search?q=Anvisa) | N/A |
-| 41 | [Emma Stone](http://twitter.com/search?q=Emma+Stone) | N/A |
-| 42 | [Arlo Parks](http://twitter.com/search?q=Arlo+Parks) | N/A |
-| 43 | [Zack Snyder](http://twitter.com/search?q=Zack+Snyder) | N/A |
-| 44 | [Benedict Cumberbatch](http://twitter.com/search?q=Benedict+Cumberbatch) | N/A |
-| 45 | [Mads Mikkelsen](http://twitter.com/search?q=Mads+Mikkelsen) | N/A |
-| 46 | [tyler joseph](http://twitter.com/search?q=tyler+joseph) | N/A |
-| 47 | [Anya Taylor Joy](http://twitter.com/search?q=Anya+Taylor+Joy) | N/A |
-| 48 | [Metallica](http://twitter.com/search?q=Metallica) | N/A |
-| 49 | [Monark](http://twitter.com/search?q=Monark) | Monark is a Swedish brand of bicycles and mopeds. The name Monark is derived from the Latin word for "king" or "monarch". In English, it can be translated to mean "king of the road". |
-| 50 | [Ed Sheeran](http://twitter.com/search?q=Ed+Sheeran) | N/A |
+| 7 | [jennie](http://twitter.com/search?q=jennie) | N/A |
+| 8 | [all of the girls](http://twitter.com/search?q=all+of+the+girls) | N/A |
+| 9 | [Blink](http://twitter.com/search?q=Blink) | N/A |
+| 10 | [#HYBEPROTECTRM](http://twitter.com/search?q=%23HYBEPROTECTRM) | N/A |
+| 11 | [BIGHIT PROTECT RM](http://twitter.com/search?q=BIGHIT+PROTECT+RM) | N/A |
+| 12 | [Lucy Liu](http://twitter.com/search?q=Lucy+Liu) | N/A |
+| 13 | [Jaeci](http://twitter.com/search?q=Jaeci) | N/A |
+| 14 | [PADARIA TA ON](http://twitter.com/search?q=PADARIA+TA+ON) | N/A |
+| 15 | [Lupita Nyong](http://twitter.com/search?q=Lupita+Nyong) | N/A |
+| 16 | [Tom Delonge](http://twitter.com/search?q=Tom+Delonge) | N/A |
+| 17 | [#BalançoGeralRJ](http://twitter.com/search?q=%23Balan%c3%a7oGeralRJ) | N/A |
+| 18 | [Banco](http://twitter.com/search?q=Banco) | N/A |
+| 19 | [Tom Hardy](http://twitter.com/search?q=Tom+Hardy) | N/A |
+| 20 | [Dida](http://twitter.com/search?q=Dida) | N/A |
+| 21 | [Maira Cardi](http://twitter.com/search?q=Maira+Cardi) | N/A |
+| 22 | [IFAB](http://twitter.com/search?q=IFAB) | N/A |
+| 23 | [The Idol](http://twitter.com/search?q=The+Idol) | N/A |
+| 24 | [#MoonlightChickenEP7](http://twitter.com/search?q=%23MoonlightChickenEP7) | N/A |
+| 25 | [Emma Watson](http://twitter.com/search?q=Emma+Watson) | N/A |
+| 26 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
+| 27 | [#Rio458Anos](http://twitter.com/search?q=%23Rio458Anos) | N/A |
+| 28 | [Terrence Malick](http://twitter.com/search?q=Terrence+Malick) | N/A |
+| 29 | [Haddad](http://twitter.com/search?q=Haddad) | N/A |
+| 30 | [21 Pilots](http://twitter.com/search?q=21+Pilots) | N/A |
+| 31 | [izzo](http://twitter.com/search?q=izzo) | N/A |
+| 32 | [Thiago Nigro](http://twitter.com/search?q=Thiago+Nigro) | N/A |
+| 33 | [Benedict Cumberbatch](http://twitter.com/search?q=Benedict+Cumberbatch) | N/A |
+| 34 | [Zack Snyder](http://twitter.com/search?q=Zack+Snyder) | N/A |
+| 35 | [Chris Evans](http://twitter.com/search?q=Chris+Evans) | Chris Evans is the name of an American actor, best known for his roles in Marvel superhero films such as Captain America and The Avengers. He has also starred in films such as Snowpiercer, Gifted, and Knives Out. |
+| 36 | [Zoro](http://twitter.com/search?q=Zoro) | N/A |
+| 37 | [Travis](http://twitter.com/search?q=Travis) | N/A |
+| 38 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
+| 39 | [Março](http://twitter.com/search?q=Mar%c3%a7o) | N/A |
+| 40 | [Denzel Washington](http://twitter.com/search?q=Denzel+Washington) | N/A |
+| 41 | [Helena Bonham](http://twitter.com/search?q=Helena+Bonham) | N/A |
+| 42 | [Anvisa](http://twitter.com/search?q=Anvisa) | N/A |
+| 43 | [Chloe Zhao](http://twitter.com/search?q=Chloe+Zhao) | N/A |
+| 44 | [Saoirse Ronan](http://twitter.com/search?q=Saoirse+Ronan) | N/A |
+| 45 | [Steven Spielberg](http://twitter.com/search?q=Steven+Spielberg) | Steven Spielberg is an American film director, producer, and screenwriter. He is one of the most successful filmmakers in history, with his films having grossed more than $9 billion worldwide. He is best known for directing classic films such as Jaws, E.T. the Extra-Terrestrial, Jurassic Park, Schindler's List, Saving Private Ryan, and the Indiana Jones series. |
+| 46 | [Robert Pattinson](http://twitter.com/search?q=Robert+Pattinson) | N/A |
+| 47 | [Nicholas Cage](http://twitter.com/search?q=Nicholas+Cage) | N/A |
+| 48 | [Cidade Invisível](http://twitter.com/search?q=Cidade+Invis%c3%advel) | N/A |
+| 49 | [Mads Mikkelsen](http://twitter.com/search?q=Mads+Mikkelsen) | N/A |
+| 50 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
 
 
 

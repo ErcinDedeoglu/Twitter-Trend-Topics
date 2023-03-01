@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Malaysia
 
-📆 Last Updated: `2023-03-01 18:17:54 UTC`
+📆 Last Updated: `2023-03-01 19:17:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,52 @@ This is top 50 for Malaysia
 | ------- | ------------ | ------------ |
 | 1 | [pika](http://twitter.com/search?q=pika) | N/A |
 | 2 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 3 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
-| 4 | [#unit](http://twitter.com/search?q=%23unit) | N/A |
-| 5 | [#MoonlightChickenEP7](http://twitter.com/search?q=%23MoonlightChickenEP7) | N/A |
-| 6 | [#ROVER_3rdTeaser](http://twitter.com/search?q=%23ROVER_3rdTeaser) | N/A |
-| 7 | [GOSE](http://twitter.com/search?q=GOSE) | N/A |
-| 8 | [Cleanser](http://twitter.com/search?q=Cleanser) | N/A |
-| 9 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
-| 10 | [penang](http://twitter.com/search?q=penang) | N/A |
-| 11 | [Green Tea](http://twitter.com/search?q=Green+Tea) | N/A |
-| 12 | [#on_the_street](http://twitter.com/search?q=%23on_the_street) | N/A |
-| 13 | [Sunscreen - Biore](http://twitter.com/search?q=Sunscreen+-+Biore) | N/A |
-| 14 | [Sunscreen - 3W](http://twitter.com/search?q=Sunscreen+-+3W) | N/A |
-| 15 | [#ROAR1stWin](http://twitter.com/search?q=%23ROAR1stWin) | N/A |
-| 16 | [JISOO THE FACE OF DIOR](http://twitter.com/search?q=JISOO+THE+FACE+OF+DIOR) | N/A |
-| 17 | [Teh Ais](http://twitter.com/search?q=Teh+Ais) | N/A |
-| 18 | [Hadi](http://twitter.com/search?q=Hadi) | N/A |
+| 3 | [#MoonlightChickenEP7](http://twitter.com/search?q=%23MoonlightChickenEP7) | N/A |
+| 4 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 5 | [GOSE](http://twitter.com/search?q=GOSE) | N/A |
+| 6 | [Cleanser](http://twitter.com/search?q=Cleanser) | N/A |
+| 7 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 8 | [#ROVER_3rdTeaser](http://twitter.com/search?q=%23ROVER_3rdTeaser) | N/A |
+| 9 | [Sunscreen - Biore](http://twitter.com/search?q=Sunscreen+-+Biore) | N/A |
+| 10 | [Green Tea](http://twitter.com/search?q=Green+Tea) | N/A |
+| 11 | [Sunscreen - 3W](http://twitter.com/search?q=Sunscreen+-+3W) | N/A |
+| 12 | [Penang](http://twitter.com/search?q=Penang) | N/A |
+| 13 | [#ROAR1stWin](http://twitter.com/search?q=%23ROAR1stWin) | N/A |
+| 14 | [#EternalSpringDayeon](http://twitter.com/search?q=%23EternalSpringDayeon) | N/A |
+| 15 | [JISOO THE FACE OF DIOR](http://twitter.com/search?q=JISOO+THE+FACE+OF+DIOR) | N/A |
+| 16 | [Teh Ais](http://twitter.com/search?q=Teh+Ais) | N/A |
+| 17 | [Hadi](http://twitter.com/search?q=Hadi) | N/A |
+| 18 | [#봄의_요정처럼_감탄했던_다연이의_스물하나](http://twitter.com/search?q=%23%eb%b4%84%ec%9d%98_%ec%9a%94%ec%a0%95%ec%b2%98%eb%9f%bc_%ea%b0%90%ed%83%84%ed%96%88%eb%8d%98_%eb%8b%a4%ec%97%b0%ec%9d%b4%ec%9d%98_%ec%8a%a4%eb%ac%bc%ed%95%98%eb%82%98) | N/A |
 | 19 | [BORN TO SHINE DAYEON](http://twitter.com/search?q=BORN+TO+SHINE+DAYEON) | N/A |
 | 20 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 21 | [KAI ROVER TEASER IMAGES 2](http://twitter.com/search?q=KAI+ROVER+TEASER+IMAGES+2) | N/A |
 | 22 | [DONE MAI](http://twitter.com/search?q=DONE+MAI) | N/A |
 | 23 | [Caramel Macchiato](http://twitter.com/search?q=Caramel+Macchiato) | N/A |
-| 24 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
-| 25 | [plain water](http://twitter.com/search?q=plain+water) | N/A |
-| 26 | [eth to eth](http://twitter.com/search?q=eth+to+eth) | N/A |
-| 27 | [TOGETHER FOR BUILD](http://twitter.com/search?q=TOGETHER+FOR+BUILD) | N/A |
+| 24 | [Plain Water](http://twitter.com/search?q=Plain+Water) | N/A |
+| 25 | [eth to eth](http://twitter.com/search?q=eth+to+eth) | N/A |
+| 26 | [TOGETHER FOR BUILD](http://twitter.com/search?q=TOGETHER+FOR+BUILD) | N/A |
+| 27 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
 | 28 | [Limau Ais](http://twitter.com/search?q=Limau+Ais) | N/A |
-| 29 | [Toby](http://twitter.com/search?q=Toby) | N/A |
-| 30 | [Iced Latte](http://twitter.com/search?q=Iced+Latte) | N/A |
-| 31 | [Milo Ais](http://twitter.com/search?q=Milo+Ais) | N/A |
-| 32 | [Honey Lemon](http://twitter.com/search?q=Honey+Lemon) | N/A |
-| 33 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
-| 34 | [Kedah](http://twitter.com/search?q=Kedah) | N/A |
-| 35 | [Ice Lemon Tea](http://twitter.com/search?q=Ice+Lemon+Tea) | N/A |
+| 29 | [Milo Ais](http://twitter.com/search?q=Milo+Ais) | N/A |
+| 30 | [Toby](http://twitter.com/search?q=Toby) | N/A |
+| 31 | [Iced Latte](http://twitter.com/search?q=Iced+Latte) | N/A |
+| 32 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
+| 33 | [Kedah](http://twitter.com/search?q=Kedah) | N/A |
+| 34 | [Ice Lemon Tea](http://twitter.com/search?q=Ice+Lemon+Tea) | N/A |
+| 35 | [Honey Lemon](http://twitter.com/search?q=Honey+Lemon) | N/A |
 | 36 | [Sunscreen - Wardah](http://twitter.com/search?q=Sunscreen+-+Wardah) | N/A |
 | 37 | [Jimin x L'Officiel Malaysia](http://twitter.com/search?q=Jimin+x+L%27Officiel+Malaysia) | N/A |
-| 38 | [o highlight medley](http://twitter.com/search?q=o+highlight+medley) | N/A |
-| 39 | [ultraman firelevel](http://twitter.com/search?q=ultraman+firelevel) | N/A |
-| 40 | [Johor](http://twitter.com/search?q=Johor) | N/A |
-| 41 | [park hanbin](http://twitter.com/search?q=park+hanbin) | N/A |
-| 42 | [Jongup](http://twitter.com/search?q=Jongup) | N/A |
-| 43 | [SIMINVEST AMBASSADOR V](http://twitter.com/search?q=SIMINVEST+AMBASSADOR+V) | N/A |
-| 44 | [KIM TAEHYUNG FOR SIMINVEST](http://twitter.com/search?q=KIM+TAEHYUNG+FOR+SIMINVEST) | N/A |
-| 45 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
+| 38 | [ultraman firelevel](http://twitter.com/search?q=ultraman+firelevel) | N/A |
+| 39 | [Johor](http://twitter.com/search?q=Johor) | N/A |
+| 40 | [park hanbin](http://twitter.com/search?q=park+hanbin) | N/A |
+| 41 | [Jongup](http://twitter.com/search?q=Jongup) | N/A |
+| 42 | [SIMINVEST AMBASSADOR V](http://twitter.com/search?q=SIMINVEST+AMBASSADOR+V) | N/A |
+| 43 | [KIM TAEHYUNG FOR SIMINVEST](http://twitter.com/search?q=KIM+TAEHYUNG+FOR+SIMINVEST) | N/A |
+| 44 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
+| 45 | [Toner - Simple](http://twitter.com/search?q=Toner+-+Simple) | N/A |
 | 46 | [Iced Americano](http://twitter.com/search?q=Iced+Americano) | N/A |
-| 47 | [Toner - Simple](http://twitter.com/search?q=Toner+-+Simple) | N/A |
-| 48 | [Teh Tarik](http://twitter.com/search?q=Teh+Tarik) | N/A |
+| 47 | [Teh Tarik](http://twitter.com/search?q=Teh+Tarik) | N/A |
+| 48 | [Toner - Wardah](http://twitter.com/search?q=Toner+-+Wardah) | N/A |
 | 49 | [ROSÉ SAINT LAURENT PFW23](http://twitter.com/search?q=ROS%c3%89+SAINT+LAURENT+PFW23) | N/A |
 | 50 | [Moonbyul](http://twitter.com/search?q=Moonbyul) | N/A |
 

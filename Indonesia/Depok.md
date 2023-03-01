@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Depok
 
-📆 Last Updated: `2023-03-01 18:17:14 UTC`
+📆 Last Updated: `2023-03-01 19:16:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [BIGHIT PROTECT RM](http://twitter.com/search?q=BIGHIT+PROTECT+RM) | N/A |
-| 2 | [HYBE PROTECT RM](http://twitter.com/search?q=HYBE+PROTECT+RM) | N/A |
-| 3 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 4 | [pika](http://twitter.com/search?q=pika) | N/A |
-| 5 | [#unit](http://twitter.com/search?q=%23unit) | N/A |
-| 6 | [#パクジョンウ](http://twitter.com/search?q=%23%e3%83%91%e3%82%af%e3%82%b8%e3%83%a7%e3%83%b3%e3%82%a6) | N/A |
-| 7 | [OUR SUNSHINE PARK JEONGWOO](http://twitter.com/search?q=OUR+SUNSHINE+PARK+JEONGWOO) | N/A |
-| 8 | [#ROVER_3rdTeaser](http://twitter.com/search?q=%23ROVER_3rdTeaser) | N/A |
-| 9 | [KAI ROVER TEASER IMAGES 2](http://twitter.com/search?q=KAI+ROVER+TEASER+IMAGES+2) | N/A |
-| 10 | [Jalur](http://twitter.com/search?q=Jalur) | N/A |
-| 11 | [Gelora Buat Konser](http://twitter.com/search?q=Gelora+Buat+Konser) | N/A |
-| 12 | [#TREASURE](http://twitter.com/search?q=%23TREASURE) | N/A |
-| 13 | [#RekomendAsikGoFood](http://twitter.com/search?q=%23RekomendAsikGoFood) | N/A |
-| 14 | [CRAZY STUPID LOVE](http://twitter.com/search?q=CRAZY+STUPID+LOVE) | N/A |
-| 15 | [Andai](http://twitter.com/search?q=Andai) | N/A |
-| 16 | [BORN TO SHINE DAYEON](http://twitter.com/search?q=BORN+TO+SHINE+DAYEON) | N/A |
-| 17 | [KPAI](http://twitter.com/search?q=KPAI) | N/A |
-| 18 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 19 | [Asuransi AIA](http://twitter.com/search?q=Asuransi+AIA) | N/A |
-| 20 | [Jambi](http://twitter.com/search?q=Jambi) | N/A |
-| 21 | [Irak](http://twitter.com/search?q=Irak) | N/A |
-| 22 | [Ini Twitter](http://twitter.com/search?q=Ini+Twitter) | N/A |
-| 23 | [Persija](http://twitter.com/search?q=Persija) | Persija is a football club based in Jakarta, Indonesia. The name is derived from the Sanskrit word for 'victory', and it is also the nickname of the team's supporters. In English, Persija translates to 'Victorious'. |
-| 24 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 25 | [STNK](http://twitter.com/search?q=STNK) | N/A |
-| 26 | [Zoro](http://twitter.com/search?q=Zoro) | N/A |
-| 27 | [BI Fast](http://twitter.com/search?q=BI+Fast) | N/A |
-| 28 | [GOING SEVENTEEN 2023](http://twitter.com/search?q=GOING+SEVENTEEN+2023) | N/A |
-| 29 | [jeonghan](http://twitter.com/search?q=jeonghan) | Jeonghan is a Korean given name, usually for males. It is composed of two characters: "Jeong" meaning "righteous" and "Han" meaning "greatness". In English, Jeonghan can be translated to mean "righteous greatness". |
-| 30 | [minghao](http://twitter.com/search?q=minghao) | N/A |
-| 31 | [#INTRODUCTION_OF_HARAM](http://twitter.com/search?q=%23INTRODUCTION_OF_HARAM) | N/A |
-| 32 | [#MoonlightChickenEP7](http://twitter.com/search?q=%23MoonlightChickenEP7) | N/A |
-| 33 | [#EternalSpringDayeon](http://twitter.com/search?q=%23EternalSpringDayeon) | N/A |
-| 34 | [#봄의_요정처럼_감탄했던_다연이의_스물하나](http://twitter.com/search?q=%23%eb%b4%84%ec%9d%98_%ec%9a%94%ec%a0%95%ec%b2%98%eb%9f%bc_%ea%b0%90%ed%83%84%ed%96%88%eb%8d%98_%eb%8b%a4%ec%97%b0%ec%9d%b4%ec%9d%98_%ec%8a%a4%eb%ac%bc%ed%95%98%eb%82%98) | N/A |
-| 35 | [#PEAKTIME](http://twitter.com/search?q=%23PEAKTIME) | N/A |
-| 36 | [#21歳も大好きダヨン](http://twitter.com/search?q=%2321%e6%ad%b3%e3%82%82%e5%a4%a7%e5%a5%bd%e3%81%8d%e3%83%80%e3%83%a8%e3%83%b3) | N/A |
-| 37 | [#KAI_Rover](http://twitter.com/search?q=%23KAI_Rover) | N/A |
-| 38 | [#Dirgahaluna24](http://twitter.com/search?q=%23Dirgahaluna24) | N/A |
-| 39 | [#TimnasDay](http://twitter.com/search?q=%23TimnasDay) | #TimnasDay is a hashtag used by Indonesian football fans to celebrate the national team, Timnas Indonesia. The hashtag is used to share photos, videos, and messages of support for the team. In English, #TimnasDay translates to "Indonesian National Team Day". |
-| 40 | [#on_the_street](http://twitter.com/search?q=%23on_the_street) | N/A |
-| 41 | [#OPPOReno8T5GdiAkulaku](http://twitter.com/search?q=%23OPPOReno8T5GdiAkulaku) | N/A |
-| 42 | [#pumagiroud](http://twitter.com/search?q=%23pumagiroud) | N/A |
-| 43 | [#BAZAARSGxLISA](http://twitter.com/search?q=%23BAZAARSGxLISA) | N/A |
-| 44 | [#LISAXCELINE](http://twitter.com/search?q=%23LISAXCELINE) | N/A |
-| 45 | [#GOSE_isGoingBack](http://twitter.com/search?q=%23GOSE_isGoingBack) | N/A |
-| 46 | [#AFCU20](http://twitter.com/search?q=%23AFCU20) | N/A |
-| 47 | [#CELINEBYHEDISLIMANE](http://twitter.com/search?q=%23CELINEBYHEDISLIMANE) | N/A |
-| 48 | [#ROAR1stWin](http://twitter.com/search?q=%23ROAR1stWin) | N/A |
-| 49 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 1 | [Asuransi AIA](http://twitter.com/search?q=Asuransi+AIA) | N/A |
+| 2 | [cuma prabowo palingpas](http://twitter.com/search?q=cuma+prabowo+palingpas) | N/A |
+| 3 | [lengkapnya di dekade 08](http://twitter.com/search?q=lengkapnya+di+dekade+08) | N/A |
+| 4 | [nyaman bersama prabowo](http://twitter.com/search?q=nyaman+bersama+prabowo) | N/A |
+| 5 | [bapak prabowo subianto](http://twitter.com/search?q=bapak+prabowo+subianto) | N/A |
+| 6 | [Maret](http://twitter.com/search?q=Maret) | N/A |
+| 7 | [#withGalaxy](http://twitter.com/search?q=%23withGalaxy) | N/A |
+| 8 | [#blk2023](http://twitter.com/search?q=%23blk2023) | N/A |
+| 9 | [BIGHIT PROTECT RM](http://twitter.com/search?q=BIGHIT+PROTECT+RM) | N/A |
+| 10 | [#23EpicNightShot](http://twitter.com/search?q=%2323EpicNightShot) | N/A |
+| 11 | [HYBE PROTECT RM](http://twitter.com/search?q=HYBE+PROTECT+RM) | N/A |
+| 12 | [KPAI](http://twitter.com/search?q=KPAI) | N/A |
+| 13 | [#bsicharityconcert2023](http://twitter.com/search?q=%23bsicharityconcert2023) | N/A |
+| 14 | [#MoonlightChickenEP7](http://twitter.com/search?q=%23MoonlightChickenEP7) | N/A |
+| 15 | [prabowo fokus serius](http://twitter.com/search?q=prabowo+fokus+serius) | N/A |
+| 16 | [pika](http://twitter.com/search?q=pika) | N/A |
+| 17 | [OUR SUNSHINE PARK JEONGWOO](http://twitter.com/search?q=OUR+SUNSHINE+PARK+JEONGWOO) | N/A |
+| 18 | [temukan di dekade 08](http://twitter.com/search?q=temukan+di+dekade+08) | N/A |
+| 19 | [iyabetul mending prabowo](http://twitter.com/search?q=iyabetul+mending+prabowo) | N/A |
+| 20 | [prabowo utamakan persatuan](http://twitter.com/search?q=prabowo+utamakan+persatuan) | N/A |
+| 21 | [PBSI](http://twitter.com/search?q=PBSI) | N/A |
+| 22 | [Formula E](http://twitter.com/search?q=Formula+E) | N/A |
+| 23 | [Ini Twitter](http://twitter.com/search?q=Ini+Twitter) | N/A |
+| 24 | [200MP Nightography](http://twitter.com/search?q=200MP+Nightography) | N/A |
+| 25 | [chimmie](http://twitter.com/search?q=chimmie) | N/A |
+| 26 | [GOSE](http://twitter.com/search?q=GOSE) | N/A |
+| 27 | [Alkohol 96%](http://twitter.com/search?q=Alkohol+96%25) | N/A |
+| 28 | [Paket Indomie](http://twitter.com/search?q=Paket+Indomie) | N/A |
+| 29 | [Gelora Buat Konser](http://twitter.com/search?q=Gelora+Buat+Konser) | N/A |
+| 30 | [Mengangkat](http://twitter.com/search?q=Mengangkat) | N/A |
+| 31 | [TXT TOO MUCH INFO](http://twitter.com/search?q=TXT+TOO+MUCH+INFO) | N/A |
+| 32 | [JISOO THE FACE OF DIOR](http://twitter.com/search?q=JISOO+THE+FACE+OF+DIOR) | N/A |
+| 33 | [Vidi](http://twitter.com/search?q=Vidi) | N/A |
+| 34 | [Jam 5](http://twitter.com/search?q=Jam+5) | N/A |
+| 35 | [Jalur](http://twitter.com/search?q=Jalur) | N/A |
+| 36 | [BI Fast](http://twitter.com/search?q=BI+Fast) | N/A |
+| 37 | [KAI ROVER TEASER IMAGES 2](http://twitter.com/search?q=KAI+ROVER+TEASER+IMAGES+2) | N/A |
+| 38 | [CRAZY STUPID LOVE](http://twitter.com/search?q=CRAZY+STUPID+LOVE) | N/A |
+| 39 | [Angela Tanoesoedibjo](http://twitter.com/search?q=Angela+Tanoesoedibjo) | N/A |
+| 40 | [GOING SEVENTEEN 2023](http://twitter.com/search?q=GOING+SEVENTEEN+2023) | N/A |
+| 41 | [KIM TAEHYUNG FOR SIMINVEST](http://twitter.com/search?q=KIM+TAEHYUNG+FOR+SIMINVEST) | N/A |
+| 42 | [lawan 10](http://twitter.com/search?q=lawan+10) | N/A |
+| 43 | [lee jeno thank you](http://twitter.com/search?q=lee+jeno+thank+you) | N/A |
+| 44 | [semangat bangkitkan umat](http://twitter.com/search?q=semangat+bangkitkan+umat) | N/A |
+| 45 | [Sheila Dara](http://twitter.com/search?q=Sheila+Dara) | N/A |
+| 46 | [Irak](http://twitter.com/search?q=Irak) | N/A |
+| 47 | [Inka](http://twitter.com/search?q=Inka) | N/A |
+| 48 | [3,5 Jt](http://twitter.com/search?q=3%2c5+Jt) | N/A |
+| 49 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
 
 
 

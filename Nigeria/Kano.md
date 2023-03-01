@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kano
 
-📆 Last Updated: `2023-03-01 18:17:26 UTC`
+📆 Last Updated: `2023-03-01 19:16:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,45 @@ This is top 50 for [Nigeria](</Nigeria>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#INECElectionResult](http://twitter.com/search?q=%23INECElectionResult) | N/A |
-| 2 | [Happy New Month](http://twitter.com/search?q=Happy+New+Month) | Happy New Month is a phrase used to express good wishes for the start of a new month. It is typically used as a greeting or salutation to friends, family, and colleagues. The phrase is usually accompanied by wishes for health, happiness, and success in the upcoming month. |
-| 3 | [#protest](http://twitter.com/search?q=%23protest) | N/A |
-| 4 | [#Revolution](http://twitter.com/search?q=%23Revolution) | N/A |
-| 5 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 6 | [#SupremeCourt](http://twitter.com/search?q=%23SupremeCourt) | N/A |
-| 7 | [#Resignation](http://twitter.com/search?q=%23Resignation) | N/A |
-| 8 | [Japa](http://twitter.com/search?q=Japa) | N/A |
-| 9 | [Chinedu](http://twitter.com/search?q=Chinedu) | N/A |
-| 10 | [Certificate of Return](http://twitter.com/search?q=Certificate+of+Return) | N/A |
-| 11 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 12 | [Pastor Adeboye](http://twitter.com/search?q=Pastor+Adeboye) | N/A |
-| 13 | [Wike](http://twitter.com/search?q=Wike) | Wike is a term used in the Philippines to refer to a person who is knowledgeable or wise. It is derived from the Tagalog word "wikain," which means "to know." In English, it can be translated as "wise" or "knowledgeable." |
-| 14 | [25% in FCT](http://twitter.com/search?q=25%25+in+FCT) | N/A |
-| 15 | [IPOB](http://twitter.com/search?q=IPOB) | N/A |
-| 16 | [HELL NO](http://twitter.com/search?q=HELL+NO) | N/A |
-| 17 | [Atiku and Obi](http://twitter.com/search?q=Atiku+and+Obi) | N/A |
-| 18 | [Femi Falana](http://twitter.com/search?q=Femi+Falana) | N/A |
-| 19 | [Okwute](http://twitter.com/search?q=Okwute) | N/A |
-| 20 | [Arise TV](http://twitter.com/search?q=Arise+TV) | N/A |
-| 21 | [11th of March](http://twitter.com/search?q=11th+of+March) | N/A |
-| 22 | [Chief of Staff](http://twitter.com/search?q=Chief+of+Staff) | N/A |
-| 23 | [Teslim Folarin](http://twitter.com/search?q=Teslim+Folarin) | N/A |
-| 24 | [My Twitter](http://twitter.com/search?q=My+Twitter) | N/A |
-| 25 | [BVAS](http://twitter.com/search?q=BVAS) | BVAS stands for Behavioral and Vital Signs. It is a term used in the medical field to refer to the physical and mental signs that can be used to assess a patient's health. These signs include heart rate, blood pressure, temperature, respiration rate, and other indicators of physical and mental health. |
-| 26 | [Zenith](http://twitter.com/search?q=Zenith) | N/A |
-| 27 | [Shettima](http://twitter.com/search?q=Shettima) | N/A |
-| 28 | [IREV](http://twitter.com/search?q=IREV) | N/A |
-| 29 | [Congratulations Jagaban](http://twitter.com/search?q=Congratulations+Jagaban) | N/A |
-| 30 | [Abuja](http://twitter.com/search?q=Abuja) | N/A |
-| 31 | [Jubilee in March](http://twitter.com/search?q=Jubilee+in+March) | N/A |
-| 32 | [Jonathan](http://twitter.com/search?q=Jonathan) | N/A |
-| 33 | [Mahmood Yakubu](http://twitter.com/search?q=Mahmood+Yakubu) | N/A |
-| 34 | [Grace Grace Grace](http://twitter.com/search?q=Grace+Grace+Grace) | N/A |
-| 35 | [Mandate](http://twitter.com/search?q=Mandate) | N/A |
-| 36 | [ECOWAS](http://twitter.com/search?q=ECOWAS) | N/A |
-| 37 | [UBA Bank](http://twitter.com/search?q=UBA+Bank) | N/A |
-| 38 | [LP and PDP](http://twitter.com/search?q=LP+and+PDP) | N/A |
-| 39 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
-| 40 | [Judiciary](http://twitter.com/search?q=Judiciary) | N/A |
-| 41 | [Dear Obidients](http://twitter.com/search?q=Dear+Obidients) | N/A |
-| 42 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
-| 43 | [Obasanjo](http://twitter.com/search?q=Obasanjo) | Obasanjo is a Yoruba name meaning "the king has returned". It is the surname of Olusegun Obasanjo, a former Nigerian military leader and two-term president. |
-| 44 | [Fayose](http://twitter.com/search?q=Fayose) | N/A |
-| 45 | [Ekiti](http://twitter.com/search?q=Ekiti) | N/A |
-| 46 | [The FBI](http://twitter.com/search?q=The+FBI) | N/A |
-| 47 | [Dubai](http://twitter.com/search?q=Dubai) | Dubai is a city and emirate in the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the capital of the Emirate of Dubai, one of the seven emirates that make up the country. The word "Dubai" translates to "money" in English. |
-| 48 | [Rigged](http://twitter.com/search?q=Rigged) | N/A |
-| 49 | [TG Omori](http://twitter.com/search?q=TG+Omori) | N/A |
-| 50 | [Congratulations BAT](http://twitter.com/search?q=Congratulations+BAT) | N/A |
+| 1 | [Chinedu](http://twitter.com/search?q=Chinedu) | N/A |
+| 2 | [#TheNigeriaWeWant](http://twitter.com/search?q=%23TheNigeriaWeWant) | N/A |
+| 3 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 4 | [#NotMyPresident](http://twitter.com/search?q=%23NotMyPresident) | N/A |
+| 5 | [#ARSEVE](http://twitter.com/search?q=%23ARSEVE) | N/A |
+| 6 | [#Samie](http://twitter.com/search?q=%23Samie) | N/A |
+| 7 | [Shola](http://twitter.com/search?q=Shola) | N/A |
+| 8 | [#MUNWHU](http://twitter.com/search?q=%23MUNWHU) | N/A |
+| 9 | [Certificate of Return](http://twitter.com/search?q=Certificate+of+Return) | N/A |
+| 10 | [Pastor Adeboye](http://twitter.com/search?q=Pastor+Adeboye) | N/A |
+| 11 | [Lindelof](http://twitter.com/search?q=Lindelof) | Lindelof is a surname of Swedish origin. It is derived from the Old Norse name Lindalófr, which means "linden leaf" or "linden tree". In English, the name can be translated to mean "beloved of the linden tree". |
+| 12 | [Debit](http://twitter.com/search?q=Debit) | N/A |
+| 13 | [Lagosian](http://twitter.com/search?q=Lagosian) | N/A |
+| 14 | [Gbadebo](http://twitter.com/search?q=Gbadebo) | N/A |
+| 15 | [Dear Obidients](http://twitter.com/search?q=Dear+Obidients) | N/A |
+| 16 | [UBA Bank](http://twitter.com/search?q=UBA+Bank) | N/A |
+| 17 | [Black Wednesday](http://twitter.com/search?q=Black+Wednesday) | N/A |
+| 18 | [Corn](http://twitter.com/search?q=Corn) | N/A |
+| 19 | [TG Omori](http://twitter.com/search?q=TG+Omori) | N/A |
+| 20 | [Alex Otti](http://twitter.com/search?q=Alex+Otti) | N/A |
+| 21 | [Boko](http://twitter.com/search?q=Boko) | N/A |
+| 22 | [Okwute](http://twitter.com/search?q=Okwute) | N/A |
+| 23 | [President-elect](http://twitter.com/search?q=President-elect) | N/A |
+| 24 | [Mandate](http://twitter.com/search?q=Mandate) | N/A |
+| 25 | [Shettima](http://twitter.com/search?q=Shettima) | N/A |
+| 26 | [APGA](http://twitter.com/search?q=APGA) | N/A |
+| 27 | [Sanwoolu](http://twitter.com/search?q=Sanwoolu) | N/A |
+| 28 | [Governor of Lagos](http://twitter.com/search?q=Governor+of+Lagos) | N/A |
+| 29 | [Danny](http://twitter.com/search?q=Danny) | N/A |
+| 30 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
+| 31 | [Which Nigerians](http://twitter.com/search?q=Which+Nigerians) | N/A |
+| 32 | [Chief of Staff](http://twitter.com/search?q=Chief+of+Staff) | N/A |
+| 33 | [Elected](http://twitter.com/search?q=Elected) | N/A |
+| 34 | [His Excellency](http://twitter.com/search?q=His+Excellency) | N/A |
+| 35 | [#Resignation](http://twitter.com/search?q=%23Resignation) | N/A |
+| 36 | [#INECElectionResult2023](http://twitter.com/search?q=%23INECElectionResult2023) | N/A |
+| 37 | [#labourpartynigeria](http://twitter.com/search?q=%23labourpartynigeria) | N/A |
+| 38 | [#SanwoLekansi](http://twitter.com/search?q=%23SanwoLekansi) | N/A |
+| 39 | [#ARISENews](http://twitter.com/search?q=%23ARISENews) | N/A |
 
 
 

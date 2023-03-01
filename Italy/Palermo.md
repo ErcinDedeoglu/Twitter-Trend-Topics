@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palermo
 
-📆 Last Updated: `2023-03-01 18:17:10 UTC`
+📆 Last Updated: `2023-03-01 19:16:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,49 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#1marzo](http://twitter.com/search?q=%231marzo) | N/A |
-| 2 | [#Piantedosi](http://twitter.com/search?q=%23Piantedosi) | N/A |
-| 3 | [#JuveToro](http://twitter.com/search?q=%23JuveToro) | N/A |
-| 4 | [#CremoneseRoma](http://twitter.com/search?q=%23CremoneseRoma) | N/A |
-| 5 | [Gianluca](http://twitter.com/search?q=Gianluca) | N/A |
-| 6 | [Grecia](http://twitter.com/search?q=Grecia) | N/A |
-| 7 | [Assago](http://twitter.com/search?q=Assago) | N/A |
-| 8 | [Schlein](http://twitter.com/search?q=Schlein) | N/A |
-| 9 | [Serra](http://twitter.com/search?q=Serra) | N/A |
-| 10 | [Guardia Costiera](http://twitter.com/search?q=Guardia+Costiera) | N/A |
-| 11 | [Angelica](http://twitter.com/search?q=Angelica) | N/A |
-| 12 | [Arcilesbica](http://twitter.com/search?q=Arcilesbica) | N/A |
-| 13 | [Frontex](http://twitter.com/search?q=Frontex) | N/A |
-| 14 | [Jeanluke](http://twitter.com/search?q=Jeanluke) | N/A |
-| 15 | [Giove](http://twitter.com/search?q=Giove) | N/A |
-| 16 | [Rozzano](http://twitter.com/search?q=Rozzano) | N/A |
-| 17 | [Salvini](http://twitter.com/search?q=Salvini) | N/A |
-| 18 | [La Maura](http://twitter.com/search?q=La+Maura) | N/A |
-| 19 | [Sala](http://twitter.com/search?q=Sala) | N/A |
-| 20 | [Eric](http://twitter.com/search?q=Eric) | Eric is a masculine given name of Old Norse origin, derived from the Old Norse name Eiríkr. It is related to the Latin name Ericus, which is derived from the Latin word for "ever-ruler". In English, Eric means "eternal ruler" or "ever-powerful". |
-| 21 | [Baudelaire](http://twitter.com/search?q=Baudelaire) | N/A |
-| 22 | [Palazzo Marino](http://twitter.com/search?q=Palazzo+Marino) | N/A |
-| 23 | [Fioroni](http://twitter.com/search?q=Fioroni) | N/A |
-| 24 | [Mancini](http://twitter.com/search?q=Mancini) | Mancini is an Italian surname derived from the Latin name "Mantius". It is a common surname in Italy and other parts of Europe. In English, it means "son of Mantius". |
-| 25 | [Ed Sheeran](http://twitter.com/search?q=Ed+Sheeran) | N/A |
-| 26 | [Davide](http://twitter.com/search?q=Davide) | N/A |
-| 27 | [Casalino](http://twitter.com/search?q=Casalino) | N/A |
-| 28 | [Ma Twitter](http://twitter.com/search?q=Ma+Twitter) | N/A |
-| 29 | [Murgia](http://twitter.com/search?q=Murgia) | Murgia is a geographical region in southern Italy, located in the provinces of Bari and Taranto. It is characterized by its limestone hills, deep ravines, and caves. The name Murgia comes from the Latin word murex, meaning "rocky hill". In English, Murgia can be translated as "rocky land". |
-| 30 | [San Siro](http://twitter.com/search?q=San+Siro) | N/A |
-| 31 | [faouzi](http://twitter.com/search?q=faouzi) | N/A |
-| 32 | [Daniele Scardina](http://twitter.com/search?q=Daniele+Scardina) | N/A |
-| 33 | [Margherita Cassano](http://twitter.com/search?q=Margherita+Cassano) | N/A |
-| 34 | [Madame Bovary](http://twitter.com/search?q=Madame+Bovary) | N/A |
-| 35 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
-| 36 | [RABIOT](http://twitter.com/search?q=RABIOT) | N/A |
-| 37 | [Turchia](http://twitter.com/search?q=Turchia) | N/A |
-| 38 | [Il 1](http://twitter.com/search?q=Il+1) | N/A |
-| 39 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | N/A |
-| 40 | [TELL US ABOUT YOURSELF](http://twitter.com/search?q=TELL+US+ABOUT+YOURSELF) | N/A |
-| 41 | [Santori](http://twitter.com/search?q=Santori) | N/A |
-| 42 | [De Benedetti](http://twitter.com/search?q=De+Benedetti) | N/A |
-| 43 | [Juric](http://twitter.com/search?q=Juric) | N/A |
-| 44 | [Buon 1](http://twitter.com/search?q=Buon+1) | N/A |
-| 45 | [Antonello](http://twitter.com/search?q=Antonello) | N/A |
-| 46 | [Lamorgese](http://twitter.com/search?q=Lamorgese) | N/A |
-| 47 | [Regione Lombardia](http://twitter.com/search?q=Regione+Lombardia) | N/A |
-| 48 | [Tavassi](http://twitter.com/search?q=Tavassi) | N/A |
-| 49 | [DROP AN EMOJI](http://twitter.com/search?q=DROP+AN+EMOJI) | N/A |
+| 1 | [#leredità](http://twitter.com/search?q=%23leredit%c3%a0) | N/A |
+| 2 | [#ghigliottina](http://twitter.com/search?q=%23ghigliottina) | N/A |
+| 3 | [Gianluca](http://twitter.com/search?q=Gianluca) | N/A |
+| 4 | [Giove](http://twitter.com/search?q=Giove) | N/A |
+| 5 | [Arcilesbica](http://twitter.com/search?q=Arcilesbica) | N/A |
+| 6 | [Rozzano](http://twitter.com/search?q=Rozzano) | N/A |
+| 7 | [Angelica](http://twitter.com/search?q=Angelica) | N/A |
+| 8 | [Salute](http://twitter.com/search?q=Salute) | N/A |
+| 9 | [Lamorgese](http://twitter.com/search?q=Lamorgese) | N/A |
+| 10 | [Assago](http://twitter.com/search?q=Assago) | N/A |
+| 11 | [Serra](http://twitter.com/search?q=Serra) | N/A |
+| 12 | [Cutro](http://twitter.com/search?q=Cutro) | N/A |
+| 13 | [Bombetta](http://twitter.com/search?q=Bombetta) | N/A |
+| 14 | [Pink Floyd](http://twitter.com/search?q=Pink+Floyd) | Pink Floyd is an English rock band formed in London in 1965. The band achieved international success with their progressive and psychedelic music. The band's classic lineup consisted of Syd Barrett, Nick Mason, Roger Waters, Richard Wright and David Gilmour. The name "Pink Floyd" is derived from the names of two blues musicians, Pink Anderson and Floyd Council. |
+| 15 | [Frontex](http://twitter.com/search?q=Frontex) | N/A |
+| 16 | [The Dark Side of the Moon](http://twitter.com/search?q=The+Dark+Side+of+the+Moon) | N/A |
+| 17 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
+| 18 | [Orsini](http://twitter.com/search?q=Orsini) | Orsini is an Italian surname derived from the Latin name Ursinus, meaning "bear-like". It is most commonly associated with the powerful Orsini family of Rome, who were influential in Italian politics during the Middle Ages and Renaissance. |
+| 19 | [Forum](http://twitter.com/search?q=Forum) | N/A |
+| 20 | [Commissione](http://twitter.com/search?q=Commissione) | N/A |
+| 21 | [#rednightspace](http://twitter.com/search?q=%23rednightspace) | N/A |
+| 22 | [#indirettaconjess](http://twitter.com/search?q=%23indirettaconjess) | N/A |
+| 23 | [#Fontana](http://twitter.com/search?q=%23Fontana) | N/A |
+| 24 | [#Cardinale](http://twitter.com/search?q=%23Cardinale) | N/A |
+| 25 | [#damellis](http://twitter.com/search?q=%23damellis) | N/A |
+| 26 | [#Speranza](http://twitter.com/search?q=%23Speranza) | N/A |
+| 27 | [#blob](http://twitter.com/search?q=%23blob) | N/A |
+| 28 | [#1Marzo2023](http://twitter.com/search?q=%231Marzo2023) | N/A |
+| 29 | [#Pomeriggio5](http://twitter.com/search?q=%23Pomeriggio5) | N/A |
+| 30 | [#MoonlightChickenEP7](http://twitter.com/search?q=%23MoonlightChickenEP7) | N/A |
+| 31 | [#GuardiaCostiera](http://twitter.com/search?q=%23GuardiaCostiera) | N/A |
+| 32 | [#PiantedosiFaiSchifo](http://twitter.com/search?q=%23PiantedosiFaiSchifo) | N/A |
+| 33 | [#TrofeoLaigueglia](http://twitter.com/search?q=%23TrofeoLaigueglia) | N/A |
+| 34 | [#AdimFarah](http://twitter.com/search?q=%23AdimFarah) | N/A |
+| 35 | [#LucioDalla](http://twitter.com/search?q=%23LucioDalla) | N/A |
+| 36 | [#pumagiroud](http://twitter.com/search?q=%23pumagiroud) | N/A |
+| 37 | [#r101](http://twitter.com/search?q=%23r101) | N/A |
+| 38 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 39 | [#Bakhmut](http://twitter.com/search?q=%23Bakhmut) | N/A |
+| 40 | [#michelemerlo](http://twitter.com/search?q=%23michelemerlo) | N/A |
+| 41 | [#SfumatureDellAnima](http://twitter.com/search?q=%23SfumatureDellAnima) | N/A |
+| 42 | [#Grecia](http://twitter.com/search?q=%23Grecia) | N/A |
+| 43 | [#Sala](http://twitter.com/search?q=%23Sala) | N/A |
 
 
 

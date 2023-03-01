@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Manila
 
-📆 Last Updated: `2023-03-01 18:17:24 UTC`
+📆 Last Updated: `2023-03-01 19:16:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,47 +15,56 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#UAAPSeason85](http://twitter.com/search?q=%23UAAPSeason85) | N/A |
-| 2 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 3 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 4 | [pika](http://twitter.com/search?q=pika) | N/A |
-| 5 | [ZACH TURNS XXIV](http://twitter.com/search?q=ZACH+TURNS+XXIV) | N/A |
-| 6 | [sam levinson](http://twitter.com/search?q=sam+levinson) | N/A |
-| 7 | [#13YearsWithJeongyeon](http://twitter.com/search?q=%2313YearsWithJeongyeon) | N/A |
-| 8 | [#ROVER_3rdTeaser](http://twitter.com/search?q=%23ROVER_3rdTeaser) | N/A |
-| 9 | [#JonaxxGYWKab10](http://twitter.com/search?q=%23JonaxxGYWKab10) | N/A |
-| 10 | [BIGHIT PROTECT RM](http://twitter.com/search?q=BIGHIT+PROTECT+RM) | N/A |
-| 11 | [CRAZY STUPID LOVE](http://twitter.com/search?q=CRAZY+STUPID+LOVE) | N/A |
-| 12 | [#TWICE_ConceptPhotoD8](http://twitter.com/search?q=%23TWICE_ConceptPhotoD8) | N/A |
-| 13 | [HYBE PROTECT RM](http://twitter.com/search?q=HYBE+PROTECT+RM) | N/A |
-| 14 | [ACE HARAM IS HERE](http://twitter.com/search?q=ACE+HARAM+IS+HERE) | N/A |
-| 15 | [BORN TO SHINE DAYEON](http://twitter.com/search?q=BORN+TO+SHINE+DAYEON) | N/A |
-| 16 | [TXT TOO MUCH INFO](http://twitter.com/search?q=TXT+TOO+MUCH+INFO) | N/A |
-| 17 | [GOSE](http://twitter.com/search?q=GOSE) | N/A |
-| 18 | [PIEyond THE HORI7ON](http://twitter.com/search?q=PIEyond+THE+HORI7ON) | N/A |
-| 19 | [KIM JONGIN](http://twitter.com/search?q=KIM+JONGIN) | N/A |
-| 20 | [Ed Sheeran](http://twitter.com/search?q=Ed+Sheeran) | N/A |
-| 21 | [minghao](http://twitter.com/search?q=minghao) | N/A |
-| 22 | [GOING SEVENTEEN 2023](http://twitter.com/search?q=GOING+SEVENTEEN+2023) | N/A |
-| 23 | [bambam](http://twitter.com/search?q=bambam) | N/A |
-| 24 | [#unit](http://twitter.com/search?q=%23unit) | N/A |
-| 25 | [#OustOA](http://twitter.com/search?q=%23OustOA) | N/A |
-| 26 | [#DLSavior](http://twitter.com/search?q=%23DLSavior) | N/A |
-| 27 | [#EternalSpringDayeon](http://twitter.com/search?q=%23EternalSpringDayeon) | N/A |
-| 28 | [#봄의_요정처럼_감탄했던_다연이의_스물하나](http://twitter.com/search?q=%23%eb%b4%84%ec%9d%98_%ec%9a%94%ec%a0%95%ec%b2%98%eb%9f%bc_%ea%b0%90%ed%83%84%ed%96%88%eb%8d%98_%eb%8b%a4%ec%97%b0%ec%9d%b4%ec%9d%98_%ec%8a%a4%eb%ac%bc%ed%95%98%eb%82%98) | N/A |
-| 29 | [#BABYMONSTER](http://twitter.com/search?q=%23BABYMONSTER) | N/A |
-| 30 | [#OneYearInThe_iE_of_TEMPEST](http://twitter.com/search?q=%23OneYearInThe_iE_of_TEMPEST) | N/A |
-| 31 | [#MoonlightChickenEP7](http://twitter.com/search?q=%23MoonlightChickenEP7) | N/A |
-| 32 | [#Hori7onPIEdate](http://twitter.com/search?q=%23Hori7onPIEdate) | N/A |
-| 33 | [#잇츠위_템페스트_일주년](http://twitter.com/search?q=%23%ec%9e%87%ec%b8%a0%ec%9c%84_%ed%85%9c%ed%8e%98%ec%8a%a4%ed%8a%b8_%ec%9d%bc%ec%a3%bc%eb%85%84) | N/A |
-| 34 | [#TXT_2023DREAMWEEK](http://twitter.com/search?q=%23TXT_2023DREAMWEEK) | N/A |
-| 35 | [#on_the_street](http://twitter.com/search?q=%23on_the_street) | N/A |
-| 36 | [#WanderlandMusicFest](http://twitter.com/search?q=%23WanderlandMusicFest) | N/A |
-| 37 | [#LISAXCELINE](http://twitter.com/search?q=%23LISAXCELINE) | N/A |
-| 38 | [#BAZAARSGxLISA](http://twitter.com/search?q=%23BAZAARSGxLISA) | N/A |
-| 39 | [#UrdujaGumisingKa](http://twitter.com/search?q=%23UrdujaGumisingKa) | N/A |
-| 40 | [#FELIP_COMPLEX](http://twitter.com/search?q=%23FELIP_COMPLEX) | #FELIP_COMPLEX is a term used to describe a person's tendency to overthink and overanalyze situations, leading to feelings of anxiety and stress. It is named after Felipe, a character in the novel The Alchemist by Paulo Coelho. |
-| 41 | [#MoMNowShowing](http://twitter.com/search?q=%23MoMNowShowing) | N/A |
+| 1 | [GOSE](http://twitter.com/search?q=GOSE) | N/A |
+| 2 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 3 | [pika](http://twitter.com/search?q=pika) | N/A |
+| 4 | [#Hori7onPIEdate](http://twitter.com/search?q=%23Hori7onPIEdate) | N/A |
+| 5 | [#TAEHYUNGxSiminvest](http://twitter.com/search?q=%23TAEHYUNGxSiminvest) | N/A |
+| 6 | [Adamson](http://twitter.com/search?q=Adamson) | N/A |
+| 7 | [KIM TAEHYUNG FOR SIMINVEST](http://twitter.com/search?q=KIM+TAEHYUNG+FOR+SIMINVEST) | N/A |
+| 8 | [#NoToJeepneyPhaseout](http://twitter.com/search?q=%23NoToJeepneyPhaseout) | N/A |
+| 9 | [sam levinson](http://twitter.com/search?q=sam+levinson) | N/A |
+| 10 | [SIMINVEST AMBASSADOR V](http://twitter.com/search?q=SIMINVEST+AMBASSADOR+V) | N/A |
+| 11 | [#DLSavior](http://twitter.com/search?q=%23DLSavior) | N/A |
+| 12 | [#JISOOxDiorAW23](http://twitter.com/search?q=%23JISOOxDiorAW23) | N/A |
+| 13 | [JISOO THE FACE OF DIOR](http://twitter.com/search?q=JISOO+THE+FACE+OF+DIOR) | N/A |
+| 14 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 15 | [janenella isthemoment](http://twitter.com/search?q=janenella+isthemoment) | N/A |
+| 16 | [AIL TOPS NETFLIX GLOBAL](http://twitter.com/search?q=AIL+TOPS+NETFLIX+GLOBAL) | N/A |
+| 17 | [Happy Women's Month](http://twitter.com/search?q=Happy+Women%27s+Month) | N/A |
+| 18 | [CRAZY STUPID LOVE](http://twitter.com/search?q=CRAZY+STUPID+LOVE) | N/A |
+| 19 | [tubu](http://twitter.com/search?q=tubu) | N/A |
+| 20 | [ZACH TURNS XXIV](http://twitter.com/search?q=ZACH+TURNS+XXIV) | N/A |
+| 21 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
+| 22 | [ACE HARAM IS HERE](http://twitter.com/search?q=ACE+HARAM+IS+HERE) | N/A |
+| 23 | [congrats nu](http://twitter.com/search?q=congrats+nu) | N/A |
+| 24 | [GOING SEVENTEEN 2023](http://twitter.com/search?q=GOING+SEVENTEEN+2023) | N/A |
+| 25 | [HYBE PROTECT RM](http://twitter.com/search?q=HYBE+PROTECT+RM) | N/A |
+| 26 | [SARAH G 20thANNIVERSARY](http://twitter.com/search?q=SARAH+G+20thANNIVERSARY) | N/A |
+| 27 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 28 | [John Matthew Salilig](http://twitter.com/search?q=John+Matthew+Salilig) | N/A |
+| 29 | [Maya](http://twitter.com/search?q=Maya) | N/A |
+| 30 | [HABANG BUHAY RELEASE](http://twitter.com/search?q=HABANG+BUHAY+RELEASE) | N/A |
+| 31 | [BORN TO SHINE DAYEON](http://twitter.com/search?q=BORN+TO+SHINE+DAYEON) | N/A |
+| 32 | [DavidLicauco MEGAMAN](http://twitter.com/search?q=DavidLicauco+MEGAMAN) | N/A |
+| 33 | [bgyo for lazada birthday](http://twitter.com/search?q=bgyo+for+lazada+birthday) | N/A |
+| 34 | [reverence to god](http://twitter.com/search?q=reverence+to+god) | N/A |
+| 35 | [Happy 20th](http://twitter.com/search?q=Happy+20th) | N/A |
+| 36 | [wt performance video](http://twitter.com/search?q=wt+performance+video) | N/A |
+| 37 | [happy 25th months bgyo](http://twitter.com/search?q=happy+25th+months+bgyo) | N/A |
+| 38 | [Birth Month](http://twitter.com/search?q=Birth+Month) | N/A |
+| 39 | [Rob Luna](http://twitter.com/search?q=Rob+Luna) | N/A |
+| 40 | [NAIA](http://twitter.com/search?q=NAIA) | N/A |
+| 41 | [SARAH G DAY](http://twitter.com/search?q=SARAH+G+DAY) | N/A |
+| 42 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
+| 43 | [TXT TOO MUCH INFO](http://twitter.com/search?q=TXT+TOO+MUCH+INFO) | N/A |
+| 44 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
+| 45 | [NINGNING FOR VOGUEPLUS](http://twitter.com/search?q=NINGNING+FOR+VOGUEPLUS) | N/A |
+| 46 | [ROSÉ SAINT LAURENT PFW23](http://twitter.com/search?q=ROS%c3%89+SAINT+LAURENT+PFW23) | N/A |
+| 47 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
+| 48 | [Marso](http://twitter.com/search?q=Marso) | N/A |
+| 49 | [ChiCo MISUNDERSTANDING](http://twitter.com/search?q=ChiCo+MISUNDERSTANDING) | N/A |
+| 50 | [COACH O](http://twitter.com/search?q=COACH+O) | N/A |
 
 
 

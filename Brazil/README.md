@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brazil
 
-📆 Last Updated: `2023-03-01 18:17:50 UTC`
+📆 Last Updated: `2023-03-01 19:16:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for Brazil
 | 2 | [twenty one pilots](http://twitter.com/search?q=twenty+one+pilots) | N/A |
 | 3 | [sam levinson](http://twitter.com/search?q=sam+levinson) | N/A |
 | 4 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
-| 5 | [#HYBEPROTECTRM](http://twitter.com/search?q=%23HYBEPROTECTRM) | N/A |
-| 6 | [BIGHIT PROTECT RM](http://twitter.com/search?q=BIGHIT+PROTECT+RM) | N/A |
-| 7 | [jennie](http://twitter.com/search?q=jennie) | N/A |
+| 5 | [all of the girls](http://twitter.com/search?q=all+of+the+girls) | N/A |
+| 6 | [jennie](http://twitter.com/search?q=jennie) | N/A |
+| 7 | [#HYBEPROTECTRM](http://twitter.com/search?q=%23HYBEPROTECTRM) | N/A |
 | 8 | [Blink](http://twitter.com/search?q=Blink) | N/A |
-| 9 | [Dida](http://twitter.com/search?q=Dida) | N/A |
-| 10 | [Tom Delonge](http://twitter.com/search?q=Tom+Delonge) | N/A |
-| 11 | [Banco](http://twitter.com/search?q=Banco) | N/A |
-| 12 | [#BalançoGeralRJ](http://twitter.com/search?q=%23Balan%c3%a7oGeralRJ) | N/A |
-| 13 | [Maira Cardi](http://twitter.com/search?q=Maira+Cardi) | N/A |
-| 14 | [Lucy Liu](http://twitter.com/search?q=Lucy+Liu) | N/A |
-| 15 | [Lupita Nyong](http://twitter.com/search?q=Lupita+Nyong) | N/A |
-| 16 | [#MoonlightChickenEP7](http://twitter.com/search?q=%23MoonlightChickenEP7) | N/A |
-| 17 | [Thiago Nigro](http://twitter.com/search?q=Thiago+Nigro) | N/A |
-| 18 | [Travis](http://twitter.com/search?q=Travis) | N/A |
-| 19 | [izzo](http://twitter.com/search?q=izzo) | N/A |
-| 20 | [#TheMandalorianXboxSweepstakes](http://twitter.com/search?q=%23TheMandalorianXboxSweepstakes) | N/A |
-| 21 | [Haddad](http://twitter.com/search?q=Haddad) | N/A |
-| 22 | [#osdonosdabola](http://twitter.com/search?q=%23osdonosdabola) | N/A |
-| 23 | [Zoro](http://twitter.com/search?q=Zoro) | N/A |
-| 24 | [Março](http://twitter.com/search?q=Mar%c3%a7o) | N/A |
-| 25 | [Parabéns Rio de Janeiro](http://twitter.com/search?q=Parab%c3%a9ns+Rio+de+Janeiro) | N/A |
-| 26 | [The Idol](http://twitter.com/search?q=The+Idol) | N/A |
-| 27 | [Primo Rico](http://twitter.com/search?q=Primo+Rico) | N/A |
-| 28 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 29 | [Tom Hardy](http://twitter.com/search?q=Tom+Hardy) | N/A |
-| 30 | [Cidade Invisível](http://twitter.com/search?q=Cidade+Invis%c3%advel) | N/A |
-| 31 | [Coreia do Norte](http://twitter.com/search?q=Coreia+do+Norte) | N/A |
-| 32 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 33 | [21 Pilots](http://twitter.com/search?q=21+Pilots) | N/A |
-| 34 | [C6 Fest](http://twitter.com/search?q=C6+Fest) | N/A |
-| 35 | [Cidade Maravilhosa](http://twitter.com/search?q=Cidade+Maravilhosa) | N/A |
-| 36 | [Mylon](http://twitter.com/search?q=Mylon) | N/A |
-| 37 | [Quentin Tarantino](http://twitter.com/search?q=Quentin+Tarantino) | N/A |
-| 38 | [Anvisa](http://twitter.com/search?q=Anvisa) | N/A |
-| 39 | [Pikamee](http://twitter.com/search?q=Pikamee) | N/A |
-| 40 | [Zack Snyder](http://twitter.com/search?q=Zack+Snyder) | N/A |
-| 41 | [Emma Stone](http://twitter.com/search?q=Emma+Stone) | N/A |
-| 42 | [Arlo Parks](http://twitter.com/search?q=Arlo+Parks) | N/A |
-| 43 | [tyler joseph](http://twitter.com/search?q=tyler+joseph) | N/A |
-| 44 | [Benedict Cumberbatch](http://twitter.com/search?q=Benedict+Cumberbatch) | N/A |
-| 45 | [Monark](http://twitter.com/search?q=Monark) | Monark is a Swedish brand of bicycles and mopeds. The name Monark is derived from the Latin word for "king" or "monarch". In English, it can be translated to mean "king of the road". |
-| 46 | [Mads Mikkelsen](http://twitter.com/search?q=Mads+Mikkelsen) | N/A |
-| 47 | [Anya Taylor Joy](http://twitter.com/search?q=Anya+Taylor+Joy) | N/A |
-| 48 | [Metallica](http://twitter.com/search?q=Metallica) | N/A |
-| 49 | [Ed Sheeran](http://twitter.com/search?q=Ed+Sheeran) | N/A |
-| 50 | [Kraftwerk](http://twitter.com/search?q=Kraftwerk) | N/A |
+| 9 | [BIGHIT PROTECT RM](http://twitter.com/search?q=BIGHIT+PROTECT+RM) | N/A |
+| 10 | [Jaeci](http://twitter.com/search?q=Jaeci) | N/A |
+| 11 | [Lucy Liu](http://twitter.com/search?q=Lucy+Liu) | N/A |
+| 12 | [PADARIA TA ON](http://twitter.com/search?q=PADARIA+TA+ON) | N/A |
+| 13 | [Lupita Nyong](http://twitter.com/search?q=Lupita+Nyong) | N/A |
+| 14 | [Tom Delonge](http://twitter.com/search?q=Tom+Delonge) | N/A |
+| 15 | [#BalançoGeralRJ](http://twitter.com/search?q=%23Balan%c3%a7oGeralRJ) | N/A |
+| 16 | [Tom Hardy](http://twitter.com/search?q=Tom+Hardy) | N/A |
+| 17 | [Banco](http://twitter.com/search?q=Banco) | N/A |
+| 18 | [IFAB](http://twitter.com/search?q=IFAB) | N/A |
+| 19 | [Dida](http://twitter.com/search?q=Dida) | N/A |
+| 20 | [Maira Cardi](http://twitter.com/search?q=Maira+Cardi) | N/A |
+| 21 | [The Idol](http://twitter.com/search?q=The+Idol) | N/A |
+| 22 | [Emma Watson](http://twitter.com/search?q=Emma+Watson) | N/A |
+| 23 | [#MoonlightChickenEP7](http://twitter.com/search?q=%23MoonlightChickenEP7) | N/A |
+| 24 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
+| 25 | [Terrence Malick](http://twitter.com/search?q=Terrence+Malick) | N/A |
+| 26 | [Thiago Nigro](http://twitter.com/search?q=Thiago+Nigro) | N/A |
+| 27 | [Chris Evans](http://twitter.com/search?q=Chris+Evans) | Chris Evans is the name of an American actor, best known for his roles in Marvel superhero films such as Captain America and The Avengers. He has also starred in films such as Snowpiercer, Gifted, and Knives Out. |
+| 28 | [Mads Mikkelsen](http://twitter.com/search?q=Mads+Mikkelsen) | N/A |
+| 29 | [21 Pilots](http://twitter.com/search?q=21+Pilots) | N/A |
+| 30 | [Denzel Washington](http://twitter.com/search?q=Denzel+Washington) | N/A |
+| 31 | [izzo](http://twitter.com/search?q=izzo) | N/A |
+| 32 | [Saoirse Ronan](http://twitter.com/search?q=Saoirse+Ronan) | N/A |
+| 33 | [Helena Bonham](http://twitter.com/search?q=Helena+Bonham) | N/A |
+| 34 | [Haddad](http://twitter.com/search?q=Haddad) | N/A |
+| 35 | [Zack Snyder](http://twitter.com/search?q=Zack+Snyder) | N/A |
+| 36 | [#TheMandalorianXboxSweepstakes](http://twitter.com/search?q=%23TheMandalorianXboxSweepstakes) | N/A |
+| 37 | [#Rio458Anos](http://twitter.com/search?q=%23Rio458Anos) | N/A |
+| 38 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
+| 39 | [Benedict Cumberbatch](http://twitter.com/search?q=Benedict+Cumberbatch) | N/A |
+| 40 | [Robert Pattinson](http://twitter.com/search?q=Robert+Pattinson) | N/A |
+| 41 | [Travis](http://twitter.com/search?q=Travis) | N/A |
+| 42 | [Nicholas Cage](http://twitter.com/search?q=Nicholas+Cage) | N/A |
+| 43 | [Steven Spielberg](http://twitter.com/search?q=Steven+Spielberg) | Steven Spielberg is an American film director, producer, and screenwriter. He is one of the most successful filmmakers in history, with his films having grossed more than $9 billion worldwide. He is best known for directing classic films such as Jaws, E.T. the Extra-Terrestrial, Jurassic Park, Schindler's List, Saving Private Ryan, and the Indiana Jones series. |
+| 44 | [Março](http://twitter.com/search?q=Mar%c3%a7o) | N/A |
+| 45 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 46 | [Anvisa](http://twitter.com/search?q=Anvisa) | N/A |
+| 47 | [Chloe Zhao](http://twitter.com/search?q=Chloe+Zhao) | N/A |
+| 48 | [Cidade Invisível](http://twitter.com/search?q=Cidade+Invis%c3%advel) | N/A |
+| 49 | [Samuel L Jackson](http://twitter.com/search?q=Samuel+L+Jackson) | Samuel L Jackson is an American actor, producer, and film director. He is best known for his roles in films such as Pulp Fiction, Jurassic Park, and The Avengers. He has also appeared in numerous other films and television shows. His distinctive voice and intense delivery have made him one of the most recognizable actors in Hollywood. |
+| 50 | [Quentin Tarantino](http://twitter.com/search?q=Quentin+Tarantino) | N/A |
 
 
 

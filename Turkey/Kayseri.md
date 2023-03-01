@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kayseri
 
-📆 Last Updated: `2023-03-01 18:17:38 UTC`
+📆 Last Updated: `2023-03-01 19:16:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Turkey](</Turkey>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#OmuzOmuza](http://twitter.com/search?q=%23OmuzOmuza) | N/A |
-| 2 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 3 | [#YüzBinNeredeOzeristifa](http://twitter.com/search?q=%23Y%c3%bczBinNeredeOzeristifa) | N/A |
-| 4 | [#AdımFarah](http://twitter.com/search?q=%23Ad%c4%b1mFarah) | N/A |
-| 5 | [BahaneYok SıraTaşeronda](http://twitter.com/search?q=BahaneYok+S%c4%b1raTa%c5%9feronda) | N/A |
-| 6 | [ZeydBitmedi SizEksildiniz](http://twitter.com/search?q=ZeydBitmedi+SizEksildiniz) | N/A |
-| 7 | [Ulaştırma Bakanı](http://twitter.com/search?q=Ula%c5%9ft%c4%b1rma+Bakan%c4%b1) | N/A |
-| 8 | [Yaralarımız Sarılıyor](http://twitter.com/search?q=Yaralar%c4%b1m%c4%b1z+Sar%c4%b1l%c4%b1yor) | N/A |
-| 9 | [Volkan Demirel](http://twitter.com/search?q=Volkan+Demirel) | Volkan Demirel is a Turkish former professional footballer who played as a goalkeeper. His name translates to "people's hero" in English. |
-| 10 | [King](http://twitter.com/search?q=King) | In English, "king" is a title given to a male monarch, usually the ruler of a kingdom or empire. It is also used as a term of endearment for someone who is seen as having great power or influence. |
-| 11 | [Elif](http://twitter.com/search?q=Elif) | N/A |
-| 12 | [Adalet Kazanacak](http://twitter.com/search?q=Adalet+Kazanacak) | N/A |
-| 13 | [Senciyiz](http://twitter.com/search?q=Senciyiz) | N/A |
-| 14 | [Mevlüt Çavuşoğlu](http://twitter.com/search?q=Mevl%c3%bct+%c3%87avu%c5%9fo%c4%9flu) | N/A |
-| 15 | [Süper Lig'de](http://twitter.com/search?q=S%c3%bcper+Lig%27de) | N/A |
-| 16 | [Zekeriya](http://twitter.com/search?q=Zekeriya) | N/A |
-| 17 | [Mustafa Varank](http://twitter.com/search?q=Mustafa+Varank) | N/A |
-| 18 | [Tofaş](http://twitter.com/search?q=Tofa%c5%9f) | N/A |
-| 19 | [Futbol Ailesi](http://twitter.com/search?q=Futbol+Ailesi) | N/A |
-| 20 | [Onurlu](http://twitter.com/search?q=Onurlu) | N/A |
-| 21 | [Hulusi Akar](http://twitter.com/search?q=Hulusi+Akar) | N/A |
-| 22 | [Murat Kurum](http://twitter.com/search?q=Murat+Kurum) | N/A |
-| 23 | [Beypazarı](http://twitter.com/search?q=Beypazar%c4%b1) | N/A |
-| 24 | [Çorlu](http://twitter.com/search?q=%c3%87orlu) | N/A |
-| 25 | [HYBE PROTECT RM](http://twitter.com/search?q=HYBE+PROTECT+RM) | N/A |
-| 26 | [BIGHIT PROTECT RM](http://twitter.com/search?q=BIGHIT+PROTECT+RM) | N/A |
-| 27 | [Ömer Kemal Kaya](http://twitter.com/search?q=%c3%96mer+Kemal+Kaya) | N/A |
-| 28 | [Hasip](http://twitter.com/search?q=Hasip) | N/A |
-| 29 | [Ticaret](http://twitter.com/search?q=Ticaret) | N/A |
-| 30 | [Fahrettin Koca](http://twitter.com/search?q=Fahrettin+Koca) | Fahrettin Koca is a Turkish name, derived from the Arabic name Fahraddin. It means "the one who is brave and generous". |
-| 31 | [Ahmet Şık](http://twitter.com/search?q=Ahmet+%c5%9e%c4%b1k) | N/A |
-| 32 | [Öldüklerine](http://twitter.com/search?q=%c3%96ld%c3%bcklerine) | N/A |
-| 33 | [Kürtler](http://twitter.com/search?q=K%c3%bcrtler) | N/A |
-| 34 | [Gavur](http://twitter.com/search?q=Gavur) | N/A |
-| 35 | [Ataol Behramoğlu](http://twitter.com/search?q=Ataol+Behramo%c4%9flu) | N/A |
-| 36 | [Yapacağız](http://twitter.com/search?q=Yapaca%c4%9f%c4%b1z) | N/A |
-| 37 | [Şenol Güneş](http://twitter.com/search?q=%c5%9eenol+G%c3%bcne%c5%9f) | Şenol Güneş is a Turkish football manager and former player. He is currently the manager of the Turkish national team. In English, his name translates to "Joyful Sun". |
-| 38 | [SON DAKİKA](http://twitter.com/search?q=SON+DAK%c4%b0KA) | SON Dakika is a Turkish phrase that translates to "last minute" in English. It is used to refer to news or events that have just happened or are happening at the last minute. |
-| 39 | [Yoshi](http://twitter.com/search?q=Yoshi) | N/A |
-| 40 | [Komşu](http://twitter.com/search?q=Kom%c5%9fu) | N/A |
-| 41 | [Sözcü TV](http://twitter.com/search?q=S%c3%b6zc%c3%bc+TV) | N/A |
-| 42 | [Mansura](http://twitter.com/search?q=Mansura) | N/A |
-| 43 | [Sevgilim](http://twitter.com/search?q=Sevgilim) | N/A |
-| 44 | [Adayı](http://twitter.com/search?q=Aday%c4%b1) | N/A |
-| 45 | [Doğu Perinçek](http://twitter.com/search?q=Do%c4%9fu+Perin%c3%a7ek) | N/A |
-| 46 | [Kilicdaroglu](http://twitter.com/search?q=Kilicdaroglu) | N/A |
-| 47 | [Gençler](http://twitter.com/search?q=Gen%c3%a7ler) | N/A |
-| 48 | [Seve](http://twitter.com/search?q=Seve) | N/A |
+| 2 | [Kylian Mbappe](http://twitter.com/search?q=Kylian+Mbappe) | N/A |
+| 3 | [#AdımFarah](http://twitter.com/search?q=%23Ad%c4%b1mFarah) | N/A |
+| 4 | [Acun](http://twitter.com/search?q=Acun) | N/A |
+| 5 | [#OlaylarveGörüşler](http://twitter.com/search?q=%23OlaylarveG%c3%b6r%c3%bc%c5%9fler) | N/A |
+| 6 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 7 | [YusufKerimi AnnesizBırakmayın](http://twitter.com/search?q=YusufKerimi+AnnesizB%c4%b1rakmay%c4%b1n) | N/A |
+| 8 | [DaimaSeninle ElifNurYel](http://twitter.com/search?q=DaimaSeninle+ElifNurYel) | N/A |
+| 9 | [BahaneYok SıraTaşeronda](http://twitter.com/search?q=BahaneYok+S%c4%b1raTa%c5%9feronda) | N/A |
+| 10 | [ZeydBitmedi SizEksildiniz](http://twitter.com/search?q=ZeydBitmedi+SizEksildiniz) | N/A |
+| 11 | [King](http://twitter.com/search?q=King) | In English, "king" is a title given to a male monarch, usually the ruler of a kingdom or empire. It is also used as a term of endearment for someone who is seen as having great power or influence. |
+| 12 | [Murat Sancak](http://twitter.com/search?q=Murat+Sancak) | N/A |
+| 13 | [Fatih Terim](http://twitter.com/search?q=Fatih+Terim) | N/A |
+| 14 | [Volkan Demirel](http://twitter.com/search?q=Volkan+Demirel) | Volkan Demirel is a Turkish former professional footballer who played as a goalkeeper. His name translates to "people's hero" in English. |
+| 15 | [Ulaştırma Bakanı](http://twitter.com/search?q=Ula%c5%9ft%c4%b1rma+Bakan%c4%b1) | N/A |
+| 16 | [AyTol YoutubeDa](http://twitter.com/search?q=AyTol+YoutubeDa) | N/A |
+| 17 | [MASANIN ADAY ÇIKMAZI](http://twitter.com/search?q=MASANIN+ADAY+%c3%87IKMAZI) | N/A |
+| 18 | [Yaralarımız Sarılıyor](http://twitter.com/search?q=Yaralar%c4%b1m%c4%b1z+Sar%c4%b1l%c4%b1yor) | N/A |
+| 19 | [Adalet Kazanacak](http://twitter.com/search?q=Adalet+Kazanacak) | N/A |
+| 20 | [Süper Lig'de](http://twitter.com/search?q=S%c3%bcper+Lig%27de) | N/A |
+| 21 | [Senciyiz](http://twitter.com/search?q=Senciyiz) | N/A |
+| 22 | [Mevlüt Çavuşoğlu](http://twitter.com/search?q=Mevl%c3%bct+%c3%87avu%c5%9fo%c4%9flu) | N/A |
+| 23 | [Dursun Özbek](http://twitter.com/search?q=Dursun+%c3%96zbek) | Dursun Özbek is a Turkish given name. It is composed of two elements: Dursun, which means "brave" or "courageous", and Özbek, which means "Turk". In English, the name would translate to "Brave Turk". |
+| 24 | [Tofaş](http://twitter.com/search?q=Tofa%c5%9f) | N/A |
+| 25 | [Engin Akyürek](http://twitter.com/search?q=Engin+Aky%c3%bcrek) | N/A |
+| 26 | [Kerem Aktürkoğlu](http://twitter.com/search?q=Kerem+Akt%c3%bcrko%c4%9flu) | Kerem Aktürkoğlu is a Turkish name. It is composed of two words: Kerem, which means "generous" or "noble," and Aktürkoğlu, which means "son of the white falcon." In English, the name could be translated as "Generous Son of the White Falcon." |
+| 27 | [Zekeriya](http://twitter.com/search?q=Zekeriya) | N/A |
+| 28 | [Mustafa Varank](http://twitter.com/search?q=Mustafa+Varank) | N/A |
+| 29 | [Futbol Ailesi](http://twitter.com/search?q=Futbol+Ailesi) | N/A |
+| 30 | [Demet Özdemir](http://twitter.com/search?q=Demet+%c3%96zdemir) | N/A |
+| 31 | [Ataol Behramoğlu](http://twitter.com/search?q=Ataol+Behramo%c4%9flu) | N/A |
+| 32 | [Ahmet Şık](http://twitter.com/search?q=Ahmet+%c5%9e%c4%b1k) | N/A |
+| 33 | [Beypazarı](http://twitter.com/search?q=Beypazar%c4%b1) | N/A |
+| 34 | [Hulusi Akar](http://twitter.com/search?q=Hulusi+Akar) | N/A |
+| 35 | [Murat Kurum](http://twitter.com/search?q=Murat+Kurum) | N/A |
+| 36 | [Nagehan](http://twitter.com/search?q=Nagehan) | Nagehan is a Turkish female name, derived from the Arabic word najah, which means “success” or “victory”. In English, it can be translated to mean “successful” or “victorious”. |
+| 37 | [Sedat](http://twitter.com/search?q=Sedat) | Sedat is a Turkish name meaning "calm" or "peaceful". |
+| 38 | [Onurlu](http://twitter.com/search?q=Onurlu) | N/A |
+| 39 | [Tren](http://twitter.com/search?q=Tren) | N/A |
+| 40 | [HYBE PROTECT RM](http://twitter.com/search?q=HYBE+PROTECT+RM) | N/A |
+| 41 | [Özledim](http://twitter.com/search?q=%c3%96zledim) | N/A |
+| 42 | [BIGHIT PROTECT RM](http://twitter.com/search?q=BIGHIT+PROTECT+RM) | N/A |
+| 43 | [Fahrettin Koca](http://twitter.com/search?q=Fahrettin+Koca) | Fahrettin Koca is a Turkish name, derived from the Arabic name Fahraddin. It means "the one who is brave and generous". |
+| 44 | [Öldüklerine](http://twitter.com/search?q=%c3%96ld%c3%bcklerine) | N/A |
+| 45 | [İyi Akşamlar](http://twitter.com/search?q=%c4%b0yi+Ak%c5%9famlar) | N/A |
+| 46 | [SON DAKİKA](http://twitter.com/search?q=SON+DAK%c4%b0KA) | SON Dakika is a Turkish phrase that translates to "last minute" in English. It is used to refer to news or events that have just happened or are happening at the last minute. |
+| 47 | [Kürtler](http://twitter.com/search?q=K%c3%bcrtler) | N/A |
+| 48 | [Ömer Kemal Kaya](http://twitter.com/search?q=%c3%96mer+Kemal+Kaya) | N/A |
 
 
 

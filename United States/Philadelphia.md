@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philadelphia
 
-📆 Last Updated: `2023-03-01 18:17:45 UTC`
+📆 Last Updated: `2023-03-01 19:16:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#WomensHistoryMonth](http://twitter.com/search?q=%23WomensHistoryMonth) | N/A |
-| 2 | [Jalen Carter](http://twitter.com/search?q=Jalen+Carter) | N/A |
-| 3 | [sam levinson](http://twitter.com/search?q=sam+levinson) | N/A |
-| 4 | [#TheMandalorianXboxSweepstakes](http://twitter.com/search?q=%23TheMandalorianXboxSweepstakes) | N/A |
-| 5 | [Pikamee](http://twitter.com/search?q=Pikamee) | N/A |
-| 6 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
-| 7 | [Eli Lilly](http://twitter.com/search?q=Eli+Lilly) | N/A |
-| 8 | [#RHOA](http://twitter.com/search?q=%23RHOA) | N/A |
-| 9 | [Havana Syndrome](http://twitter.com/search?q=Havana+Syndrome) | N/A |
-| 10 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
-| 11 | [Ralph](http://twitter.com/search?q=Ralph) | N/A |
-| 12 | [Todd McShay](http://twitter.com/search?q=Todd+McShay) | N/A |
-| 13 | [March Madness](http://twitter.com/search?q=March+Madness) | N/A |
-| 14 | [#NATM2023](http://twitter.com/search?q=%23NATM2023) | N/A |
-| 15 | [Will Anderson](http://twitter.com/search?q=Will+Anderson) | N/A |
-| 16 | [Fuddruckers](http://twitter.com/search?q=Fuddruckers) | N/A |
-| 17 | [The Idol](http://twitter.com/search?q=The+Idol) | N/A |
-| 18 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
-| 19 | [Chandler Parsons](http://twitter.com/search?q=Chandler+Parsons) | Chandler Parsons is an American professional basketball player who currently plays for the Atlanta Hawks of the National Basketball Association (NBA). He is known for his ability to shoot from long range and his versatility as a forward. |
-| 20 | [jennie](http://twitter.com/search?q=jennie) | N/A |
-| 21 | [Euphoria](http://twitter.com/search?q=Euphoria) | N/A |
-| 22 | [Watkins](http://twitter.com/search?q=Watkins) | Watkins is a surname of English origin. It is derived from the Old English personal name Watkin, which is a diminutive form of Walter. The name means "son of Walter". |
-| 23 | [HAPPY BIRTHDAY SAPNAP](http://twitter.com/search?q=HAPPY+BIRTHDAY+SAPNAP) | N/A |
-| 24 | [Wray](http://twitter.com/search?q=Wray) | N/A |
-| 25 | [Henry Ruggs](http://twitter.com/search?q=Henry+Ruggs) | N/A |
-| 26 | [New Month](http://twitter.com/search?q=New+Month) | N/A |
-| 27 | [Stollen](http://twitter.com/search?q=Stollen) | Stollen is a traditional German Christmas cake or bread made with dried fruit, nuts, and spices. It is usually shaped like a log and covered with powdered sugar or icing sugar. The name comes from the German word "stollen," which means "to carry." In English, it is sometimes referred to as a Christmas loaf or fruitcake. |
-| 28 | [Beau Biden](http://twitter.com/search?q=Beau+Biden) | N/A |
-| 29 | [LUKE HEMMINGS](http://twitter.com/search?q=LUKE+HEMMINGS) | N/A |
-| 30 | [Frogmore](http://twitter.com/search?q=Frogmore) | N/A |
-| 31 | [Eric DeCosta](http://twitter.com/search?q=Eric+DeCosta) | N/A |
-| 32 | [OWGR](http://twitter.com/search?q=OWGR) | N/A |
-| 33 | [VOMS](http://twitter.com/search?q=VOMS) | N/A |
-| 34 | [Shotgun](http://twitter.com/search?q=Shotgun) | N/A |
-| 35 | [Zoro](http://twitter.com/search?q=Zoro) | N/A |
-| 36 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
-| 37 | [Drew Sidora](http://twitter.com/search?q=Drew+Sidora) | N/A |
-| 38 | [Lori Lightfoot](http://twitter.com/search?q=Lori+Lightfoot) | N/A |
-| 39 | [Happy 1st](http://twitter.com/search?q=Happy+1st) | N/A |
-| 40 | [Happy Social Work Month](http://twitter.com/search?q=Happy+Social+Work+Month) | N/A |
-| 41 | [Tyree Wilson](http://twitter.com/search?q=Tyree+Wilson) | N/A |
-| 42 | [Dark Side of the Moon](http://twitter.com/search?q=Dark+Side+of+the+Moon) | N/A |
-| 43 | [Gannon](http://twitter.com/search?q=Gannon) | Gannon is a surname of Irish origin. It is derived from the Gaelic name "O'Ganain," which means "son of the fair one." In English, it can be translated to mean "fair-haired son." |
-| 44 | [James Sands](http://twitter.com/search?q=James+Sands) | N/A |
-| 45 | [Bowe](http://twitter.com/search?q=Bowe) | N/A |
-| 46 | [Bono](http://twitter.com/search?q=Bono) | N/A |
-| 47 | [Beetlejuice](http://twitter.com/search?q=Beetlejuice) | N/A |
-| 48 | [Dog the Bounty Hunter](http://twitter.com/search?q=Dog+the+Bounty+Hunter) | N/A |
-| 49 | [Grassley](http://twitter.com/search?q=Grassley) | N/A |
-| 50 | [Chandler LeCroy](http://twitter.com/search?q=Chandler+LeCroy) | N/A |
+| 1 | [Gannon](http://twitter.com/search?q=Gannon) | Gannon is a surname of Irish origin. It is derived from the Gaelic name "O'Ganain," which means "son of the fair one." In English, it can be translated to mean "fair-haired son." |
+| 2 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
+| 3 | [#WomensHistoryMonth](http://twitter.com/search?q=%23WomensHistoryMonth) | N/A |
+| 4 | [sam levinson](http://twitter.com/search?q=sam+levinson) | N/A |
+| 5 | [Jalen Carter](http://twitter.com/search?q=Jalen+Carter) | N/A |
+| 6 | [#TheMandalorianXboxSweepstakes](http://twitter.com/search?q=%23TheMandalorianXboxSweepstakes) | N/A |
+| 7 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
+| 8 | [Pikamee](http://twitter.com/search?q=Pikamee) | N/A |
+| 9 | [#RHOA](http://twitter.com/search?q=%23RHOA) | N/A |
+| 10 | [Havana Syndrome](http://twitter.com/search?q=Havana+Syndrome) | N/A |
+| 11 | [Eli Lilly](http://twitter.com/search?q=Eli+Lilly) | N/A |
+| 12 | [Ralph](http://twitter.com/search?q=Ralph) | N/A |
+| 13 | [Lars Eller](http://twitter.com/search?q=Lars+Eller) | N/A |
+| 14 | [Drew](http://twitter.com/search?q=Drew) | N/A |
+| 15 | [#BBCAN11](http://twitter.com/search?q=%23BBCAN11) | N/A |
+| 16 | [ChatGPT API](http://twitter.com/search?q=ChatGPT+API) | N/A |
+| 17 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
+| 18 | [Jake Cave](http://twitter.com/search?q=Jake+Cave) | N/A |
+| 19 | [Danjuma](http://twitter.com/search?q=Danjuma) | Danjuma is a Nigerian name of Yoruba origin. It means "God has done it" in English. |
+| 20 | [Euphoria](http://twitter.com/search?q=Euphoria) | N/A |
+| 21 | [Todd McShay](http://twitter.com/search?q=Todd+McShay) | N/A |
+| 22 | [March Madness](http://twitter.com/search?q=March+Madness) | N/A |
+| 23 | [Watkins](http://twitter.com/search?q=Watkins) | Watkins is a surname of English origin. It is derived from the Old English personal name Watkin, which is a diminutive form of Walter. The name means "son of Walter". |
+| 24 | [Chandler Parsons](http://twitter.com/search?q=Chandler+Parsons) | Chandler Parsons is an American professional basketball player who currently plays for the Atlanta Hawks of the National Basketball Association (NBA). He is known for his ability to shoot from long range and his versatility as a forward. |
+| 25 | [jennie](http://twitter.com/search?q=jennie) | N/A |
+| 26 | [The Idol](http://twitter.com/search?q=The+Idol) | N/A |
+| 27 | [Ultra MAGA](http://twitter.com/search?q=Ultra+MAGA) | N/A |
+| 28 | [Will Anderson](http://twitter.com/search?q=Will+Anderson) | N/A |
+| 29 | [Hawley](http://twitter.com/search?q=Hawley) | N/A |
+| 30 | [Beau Biden](http://twitter.com/search?q=Beau+Biden) | N/A |
+| 31 | [Mike Lee](http://twitter.com/search?q=Mike+Lee) | N/A |
+| 32 | [Fuddruckers](http://twitter.com/search?q=Fuddruckers) | N/A |
+| 33 | [HAPPY BIRTHDAY SAPNAP](http://twitter.com/search?q=HAPPY+BIRTHDAY+SAPNAP) | N/A |
+| 34 | [Wray](http://twitter.com/search?q=Wray) | N/A |
+| 35 | [Henry Ruggs](http://twitter.com/search?q=Henry+Ruggs) | N/A |
+| 36 | [Bowe](http://twitter.com/search?q=Bowe) | N/A |
+| 37 | [6lack](http://twitter.com/search?q=6lack) | N/A |
+| 38 | [VOMS](http://twitter.com/search?q=VOMS) | N/A |
+| 39 | [Broccoli City](http://twitter.com/search?q=Broccoli+City) | N/A |
+| 40 | [Zoro](http://twitter.com/search?q=Zoro) | N/A |
+| 41 | [Eric DeCosta](http://twitter.com/search?q=Eric+DeCosta) | N/A |
+| 42 | [Frogmore](http://twitter.com/search?q=Frogmore) | N/A |
+| 43 | [Jared Leto](http://twitter.com/search?q=Jared+Leto) | Jared Leto is an American actor, singer, songwriter, and director. He is best known for his roles in films such as Requiem for a Dream (2000), Dallas Buyers Club (2013), and Suicide Squad (2016). He has also released several albums as the lead singer of the rock band Thirty Seconds to Mars. |
+| 44 | [Dark Side of the Moon](http://twitter.com/search?q=Dark+Side+of+the+Moon) | N/A |
+| 45 | [New Month](http://twitter.com/search?q=New+Month) | N/A |
+| 46 | [Harrison Bader](http://twitter.com/search?q=Harrison+Bader) | N/A |
+| 47 | [Stollen](http://twitter.com/search?q=Stollen) | Stollen is a traditional German Christmas cake or bread made with dried fruit, nuts, and spices. It is usually shaped like a log and covered with powdered sugar or icing sugar. The name comes from the German word "stollen," which means "to carry." In English, it is sometimes referred to as a Christmas loaf or fruitcake. |
+| 48 | [Chris Pine](http://twitter.com/search?q=Chris+Pine) | N/A |
+| 49 | [Happy Birthday Ron](http://twitter.com/search?q=Happy+Birthday+Ron) | N/A |
+| 50 | [LUKE HEMMINGS](http://twitter.com/search?q=LUKE+HEMMINGS) | N/A |
 
 
 
