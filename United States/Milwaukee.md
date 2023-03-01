@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Milwaukee
 
-📆 Last Updated: `2023-03-01 10:17:11 UTC`
+📆 Last Updated: `2023-03-01 11:16:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [United States](</United States>)
 | 1 | [#FearTheDeer](http://twitter.com/search?q=%23FearTheDeer) | N/A |
 | 2 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
 | 3 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
-| 4 | [#wisbb](http://twitter.com/search?q=%23wisbb) | N/A |
-| 5 | [#mubb](http://twitter.com/search?q=%23mubb) | N/A |
-| 6 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 7 | [#TheBadBatch](http://twitter.com/search?q=%23TheBadBatch) | N/A |
-| 8 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
-| 9 | [Jonathan Quick](http://twitter.com/search?q=Jonathan+Quick) | N/A |
-| 10 | [Beetlejuice](http://twitter.com/search?q=Beetlejuice) | N/A |
-| 11 | [Mando](http://twitter.com/search?q=Mando) | N/A |
-| 12 | [Strand](http://twitter.com/search?q=Strand) | N/A |
-| 13 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
+| 4 | [#mubb](http://twitter.com/search?q=%23mubb) | N/A |
+| 5 | [#wisbb](http://twitter.com/search?q=%23wisbb) | N/A |
+| 6 | [#TwitterDown](http://twitter.com/search?q=%23TwitterDown) | N/A |
+| 7 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 8 | [Welcome to Twitter](http://twitter.com/search?q=Welcome+to+Twitter) | N/A |
+| 9 | [Daily Quordle 401](http://twitter.com/search?q=Daily+Quordle+401) | N/A |
+| 10 | [Jonathan Quick](http://twitter.com/search?q=Jonathan+Quick) | N/A |
+| 11 | [New Month](http://twitter.com/search?q=New+Month) | N/A |
+| 12 | [Beetlejuice](http://twitter.com/search?q=Beetlejuice) | N/A |
+| 13 | [Mando](http://twitter.com/search?q=Mando) | N/A |
 | 14 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
-| 15 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 16 | [Tinubu](http://twitter.com/search?q=Tinubu) | N/A |
-| 17 | [Nimbus](http://twitter.com/search?q=Nimbus) | N/A |
-| 18 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 19 | [Maki](http://twitter.com/search?q=Maki) | N/A |
+| 15 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
+| 16 | [Strand](http://twitter.com/search?q=Strand) | N/A |
+| 17 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 18 | [Tinubu](http://twitter.com/search?q=Tinubu) | N/A |
+| 19 | [Nimbus](http://twitter.com/search?q=Nimbus) | N/A |
 | 20 | [Wray](http://twitter.com/search?q=Wray) | N/A |
-| 21 | [Blazers](http://twitter.com/search?q=Blazers) | Blazers are a type of jacket, typically with a single row of buttons and a notched lapel. They are usually made from wool or cotton and can be worn as part of a suit or as a separate item. Blazers are often associated with formal occasions, but they can also be worn casually. |
-| 22 | [Ty Lue](http://twitter.com/search?q=Ty+Lue) | Ty Lue is the name of an American basketball coach and former player. He is currently the head coach of the Los Angeles Clippers of the National Basketball Association (NBA). The name "Ty Lue" is derived from his given name, Tyronn. |
-| 23 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 24 | [Vallas](http://twitter.com/search?q=Vallas) | N/A |
-| 25 | [Quickie](http://twitter.com/search?q=Quickie) | N/A |
-| 26 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
-| 27 | [Morris](http://twitter.com/search?q=Morris) | N/A |
-| 28 | [Brandon Johnson](http://twitter.com/search?q=Brandon+Johnson) | N/A |
-| 29 | [HAPPY BIRTHDAY SAPNAP](http://twitter.com/search?q=HAPPY+BIRTHDAY+SAPNAP) | N/A |
-| 30 | [Daily Quordle 401](http://twitter.com/search?q=Daily+Quordle+401) | N/A |
-| 31 | [Christopher Reeve](http://twitter.com/search?q=Christopher+Reeve) | N/A |
-| 32 | [Chauncey](http://twitter.com/search?q=Chauncey) | N/A |
-| 33 | [Witch Queen](http://twitter.com/search?q=Witch+Queen) | N/A |
-| 34 | [Kaeya](http://twitter.com/search?q=Kaeya) | N/A |
-| 35 | [Avon](http://twitter.com/search?q=Avon) | N/A |
-| 36 | [Jeremy Lin](http://twitter.com/search?q=Jeremy+Lin) | N/A |
-| 37 | [Donte](http://twitter.com/search?q=Donte) | Donte is a given name of Italian origin, derived from the Latin name "Donatus". It is a variant of the name "Donato" and can be translated to mean "given" or "gift". |
-| 38 | [Rob Blake](http://twitter.com/search?q=Rob+Blake) | N/A |
-| 39 | [Orlov](http://twitter.com/search?q=Orlov) | N/A |
-| 40 | [Megumi](http://twitter.com/search?q=Megumi) | Megumi is a Japanese female given name. It is usually written with the characters 恵, meaning “blessing”, and 美, meaning “beauty”. In English, it can be translated to mean “blessed beauty”. |
-| 41 | [Jaden McDaniels](http://twitter.com/search?q=Jaden+McDaniels) | N/A |
-| 42 | [RoCo](http://twitter.com/search?q=RoCo) | N/A |
-| 43 | [San Andreas](http://twitter.com/search?q=San+Andreas) | N/A |
-| 44 | [Lightfall](http://twitter.com/search?q=Lightfall) | N/A |
-| 45 | [Cyno](http://twitter.com/search?q=Cyno) | N/A |
-| 46 | [Billups](http://twitter.com/search?q=Billups) | N/A |
-| 47 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
-| 48 | [Korpisalo](http://twitter.com/search?q=Korpisalo) | N/A |
-| 49 | [Raskin](http://twitter.com/search?q=Raskin) | N/A |
-| 50 | [max rice](http://twitter.com/search?q=max+rice) | N/A |
+| 21 | [Maki](http://twitter.com/search?q=Maki) | N/A |
+| 22 | [Blazers](http://twitter.com/search?q=Blazers) | Blazers are a type of jacket, typically with a single row of buttons and a notched lapel. They are usually made from wool or cotton and can be worn as part of a suit or as a separate item. Blazers are often associated with formal occasions, but they can also be worn casually. |
+| 23 | [Quickie](http://twitter.com/search?q=Quickie) | N/A |
+| 24 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
+| 25 | [Vallas](http://twitter.com/search?q=Vallas) | N/A |
+| 26 | [Ty Lue](http://twitter.com/search?q=Ty+Lue) | Ty Lue is the name of an American basketball coach and former player. He is currently the head coach of the Los Angeles Clippers of the National Basketball Association (NBA). The name "Ty Lue" is derived from his given name, Tyronn. |
+| 27 | [HAPPY BIRTHDAY SAPNAP](http://twitter.com/search?q=HAPPY+BIRTHDAY+SAPNAP) | N/A |
+| 28 | [Witch Queen](http://twitter.com/search?q=Witch+Queen) | N/A |
+| 29 | [Avon](http://twitter.com/search?q=Avon) | N/A |
+| 30 | [Kaeya](http://twitter.com/search?q=Kaeya) | N/A |
+| 31 | [Brandon Johnson](http://twitter.com/search?q=Brandon+Johnson) | N/A |
+| 32 | [Morris](http://twitter.com/search?q=Morris) | N/A |
+| 33 | [Jeremy Lin](http://twitter.com/search?q=Jeremy+Lin) | N/A |
+| 34 | [Donte](http://twitter.com/search?q=Donte) | Donte is a given name of Italian origin, derived from the Latin name "Donatus". It is a variant of the name "Donato" and can be translated to mean "given" or "gift". |
+| 35 | [Greece](http://twitter.com/search?q=Greece) | N/A |
+| 36 | [Ullmark](http://twitter.com/search?q=Ullmark) | N/A |
+| 37 | [Megumi](http://twitter.com/search?q=Megumi) | Megumi is a Japanese female given name. It is usually written with the characters 恵, meaning “blessing”, and 美, meaning “beauty”. In English, it can be translated to mean “blessed beauty”. |
+| 38 | [Lightfall](http://twitter.com/search?q=Lightfall) | N/A |
+| 39 | [RoCo](http://twitter.com/search?q=RoCo) | N/A |
+| 40 | [Cyno](http://twitter.com/search?q=Cyno) | N/A |
+| 41 | [San Andreas](http://twitter.com/search?q=San+Andreas) | N/A |
+| 42 | [Korpisalo](http://twitter.com/search?q=Korpisalo) | N/A |
+| 43 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
+| 44 | [Chauncey](http://twitter.com/search?q=Chauncey) | N/A |
+| 45 | [Shayne](http://twitter.com/search?q=Shayne) | N/A |
+| 46 | [Suki](http://twitter.com/search?q=Suki) | N/A |
+| 47 | [Raskin](http://twitter.com/search?q=Raskin) | N/A |
+| 48 | [Dray](http://twitter.com/search?q=Dray) | N/A |
+| 49 | [Justin Bieber](http://twitter.com/search?q=Justin+Bieber) | N/A |
+| 50 | [Bartise](http://twitter.com/search?q=Bartise) | N/A |
 
 
 

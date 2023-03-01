@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Taguig
 
-📆 Last Updated: `2023-03-01 10:16:50 UTC`
+📆 Last Updated: `2023-03-01 11:15:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TAEHYUNGxSiminvest](http://twitter.com/search?q=%23TAEHYUNGxSiminvest) | N/A |
-| 2 | [#JISOOxDiorAW23](http://twitter.com/search?q=%23JISOOxDiorAW23) | N/A |
+| 1 | [#ROAR1stWin](http://twitter.com/search?q=%23ROAR1stWin) | N/A |
+| 2 | [#BAZAARSGxLISA](http://twitter.com/search?q=%23BAZAARSGxLISA) | N/A |
 | 3 | [#UAAPSeason85](http://twitter.com/search?q=%23UAAPSeason85) | N/A |
-| 4 | [Adamson](http://twitter.com/search?q=Adamson) | N/A |
-| 5 | [SIMINVEST AMBASSADOR V](http://twitter.com/search?q=SIMINVEST+AMBASSADOR+V) | N/A |
-| 6 | [KIM TAEHYUNG FOR SIMINVEST](http://twitter.com/search?q=KIM+TAEHYUNG+FOR+SIMINVEST) | N/A |
-| 7 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 8 | [Ateneo](http://twitter.com/search?q=Ateneo) | N/A |
-| 9 | [AIL TOPS NETFLIX GLOBAL](http://twitter.com/search?q=AIL+TOPS+NETFLIX+GLOBAL) | N/A |
-| 10 | [#JANENELLAForMEGAEnt](http://twitter.com/search?q=%23JANENELLAForMEGAEnt) | N/A |
-| 11 | [SARAH G DAY](http://twitter.com/search?q=SARAH+G+DAY) | N/A |
-| 12 | [JANENELLA IsTheMoment](http://twitter.com/search?q=JANENELLA+IsTheMoment) | N/A |
-| 13 | [BGYO FOR LAZADA BIRTHDAY](http://twitter.com/search?q=BGYO+FOR+LAZADA+BIRTHDAY) | N/A |
-| 14 | [GRAB PISO DELIVERY](http://twitter.com/search?q=GRAB+PISO+DELIVERY) | N/A |
-| 15 | [Tubu](http://twitter.com/search?q=Tubu) | N/A |
-| 16 | [SARAH G 20thANNIVERSARY](http://twitter.com/search?q=SARAH+G+20thANNIVERSARY) | N/A |
-| 17 | [Happy Women's Month](http://twitter.com/search?q=Happy+Women%27s+Month) | N/A |
-| 18 | [ROVER IS COMING](http://twitter.com/search?q=ROVER+IS+COMING) | N/A |
-| 19 | [HABANG BUHAY RELEASE](http://twitter.com/search?q=HABANG+BUHAY+RELEASE) | N/A |
-| 20 | [Maya](http://twitter.com/search?q=Maya) | N/A |
-| 21 | [congrats nu](http://twitter.com/search?q=congrats+nu) | N/A |
-| 22 | [nieva](http://twitter.com/search?q=nieva) | N/A |
-| 23 | [WT PERFORMANCE VIDEO](http://twitter.com/search?q=WT+PERFORMANCE+VIDEO) | N/A |
+| 4 | [#JISOOxDiorAW23](http://twitter.com/search?q=%23JISOOxDiorAW23) | N/A |
+| 5 | [Adamson](http://twitter.com/search?q=Adamson) | N/A |
+| 6 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 7 | [Reverence to God](http://twitter.com/search?q=Reverence+to+God) | N/A |
+| 8 | [AIL TOPS NETFLIX GLOBAL](http://twitter.com/search?q=AIL+TOPS+NETFLIX+GLOBAL) | N/A |
+| 9 | [JANENELLA IsTheMoment](http://twitter.com/search?q=JANENELLA+IsTheMoment) | N/A |
+| 10 | [GRAB PISO DELIVERY](http://twitter.com/search?q=GRAB+PISO+DELIVERY) | N/A |
+| 11 | [ROVER IS COMING](http://twitter.com/search?q=ROVER+IS+COMING) | N/A |
+| 12 | [BGYO FOR LAZADA BIRTHDAY](http://twitter.com/search?q=BGYO+FOR+LAZADA+BIRTHDAY) | N/A |
+| 13 | [SARAH G 20thANNIVERSARY](http://twitter.com/search?q=SARAH+G+20thANNIVERSARY) | N/A |
+| 14 | [SARAH G DAY](http://twitter.com/search?q=SARAH+G+DAY) | N/A |
+| 15 | [Happy Women's Month](http://twitter.com/search?q=Happy+Women%27s+Month) | N/A |
+| 16 | [HABANG BUHAY RELEASE](http://twitter.com/search?q=HABANG+BUHAY+RELEASE) | N/A |
+| 17 | [Ateneo](http://twitter.com/search?q=Ateneo) | N/A |
+| 18 | [TUBU](http://twitter.com/search?q=TUBU) | N/A |
+| 19 | [Maya](http://twitter.com/search?q=Maya) | N/A |
+| 20 | [Rob Luna](http://twitter.com/search?q=Rob+Luna) | N/A |
+| 21 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
+| 22 | [WT PERFORMANCE VIDEO](http://twitter.com/search?q=WT+PERFORMANCE+VIDEO) | N/A |
+| 23 | [Congrats NU](http://twitter.com/search?q=Congrats+NU) | N/A |
 | 24 | [GOSE](http://twitter.com/search?q=GOSE) | N/A |
 | 25 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
-| 26 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
-| 27 | [Faith](http://twitter.com/search?q=Faith) | N/A |
-| 28 | [Birth Month](http://twitter.com/search?q=Birth+Month) | N/A |
-| 29 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
-| 30 | [Vanie](http://twitter.com/search?q=Vanie) | N/A |
-| 31 | [Cepada](http://twitter.com/search?q=Cepada) | N/A |
-| 32 | [Coach O](http://twitter.com/search?q=Coach+O) | N/A |
-| 33 | [NAIA](http://twitter.com/search?q=NAIA) | N/A |
-| 34 | [John Matthew Salilig](http://twitter.com/search?q=John+Matthew+Salilig) | N/A |
-| 35 | [Rob Luna](http://twitter.com/search?q=Rob+Luna) | N/A |
-| 36 | [ASTRO](http://twitter.com/search?q=ASTRO) | N/A |
+| 26 | [Coach O](http://twitter.com/search?q=Coach+O) | N/A |
+| 27 | [John Matthew Salilig](http://twitter.com/search?q=John+Matthew+Salilig) | N/A |
+| 28 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
+| 29 | [Birth Month](http://twitter.com/search?q=Birth+Month) | N/A |
+| 30 | [NAIA](http://twitter.com/search?q=NAIA) | N/A |
+| 31 | [ASTRO](http://twitter.com/search?q=ASTRO) | N/A |
+| 32 | [Ed Sheeran](http://twitter.com/search?q=Ed+Sheeran) | N/A |
+| 33 | [Jolina](http://twitter.com/search?q=Jolina) | N/A |
+| 34 | [Double B](http://twitter.com/search?q=Double+B) | N/A |
+| 35 | [Laz11thXALDEN EpicBdayEve](http://twitter.com/search?q=Laz11thXALDEN+EpicBdayEve) | N/A |
+| 36 | [Faith](http://twitter.com/search?q=Faith) | N/A |
 | 37 | [ROSÉ SAINT LAURENT PFW23](http://twitter.com/search?q=ROS%c3%89+SAINT+LAURENT+PFW23) | N/A |
-| 38 | [Double B](http://twitter.com/search?q=Double+B) | N/A |
-| 39 | [Laz11thXALDEN EpicBdayEve](http://twitter.com/search?q=Laz11thXALDEN+EpicBdayEve) | N/A |
-| 40 | [Liza](http://twitter.com/search?q=Liza) | N/A |
-| 41 | [DavidLicauco MEGAMAN](http://twitter.com/search?q=DavidLicauco+MEGAMAN) | N/A |
-| 42 | [Happy 20th](http://twitter.com/search?q=Happy+20th) | N/A |
-| 43 | [PH SCAMMER](http://twitter.com/search?q=PH+SCAMMER) | N/A |
-| 44 | [Palace](http://twitter.com/search?q=Palace) | Palace is a large and grand residence, especially one owned by a monarch or other powerful figure. It is usually the residence of a head of state or some other high-ranking dignitary. The word comes from the Latin palatium, meaning "residence of a ruler". |
-| 45 | [SeChan](http://twitter.com/search?q=SeChan) | N/A |
-| 46 | [Jolina](http://twitter.com/search?q=Jolina) | N/A |
+| 38 | [Anwar](http://twitter.com/search?q=Anwar) | N/A |
+| 39 | [Happy 20th](http://twitter.com/search?q=Happy+20th) | N/A |
+| 40 | [Tsunashima](http://twitter.com/search?q=Tsunashima) | N/A |
+| 41 | [PH SCAMMER](http://twitter.com/search?q=PH+SCAMMER) | N/A |
+| 42 | [chico complications](http://twitter.com/search?q=chico+complications) | N/A |
+| 43 | [DavidLicauco MEGAMAN](http://twitter.com/search?q=DavidLicauco+MEGAMAN) | N/A |
+| 44 | [Liza](http://twitter.com/search?q=Liza) | N/A |
+| 45 | [ADMU](http://twitter.com/search?q=ADMU) | N/A |
+| 46 | [SeChan](http://twitter.com/search?q=SeChan) | N/A |
 | 47 | [Solomon](http://twitter.com/search?q=Solomon) | N/A |
-| 48 | [Tsunashima](http://twitter.com/search?q=Tsunashima) | N/A |
-| 49 | [accepting christ and his words](http://twitter.com/search?q=accepting+christ+and+his+words) | N/A |
+| 48 | [GOING SEVENTEEN 2023](http://twitter.com/search?q=GOING+SEVENTEEN+2023) | N/A |
+| 49 | [Bicol Express](http://twitter.com/search?q=Bicol+Express) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cardiff
 
-📆 Last Updated: `2023-03-01 10:16:17 UTC`
+📆 Last Updated: `2023-03-01 11:15:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [St David](http://twitter.com/search?q=St+David) | N/A |
-| 2 | [Hancock](http://twitter.com/search?q=Hancock) | N/A |
-| 3 | [Welsh](http://twitter.com/search?q=Welsh) | Welsh is a Celtic language spoken in Wales, a country in the United Kingdom. It is closely related to Cornish and Breton, two other Celtic languages. The Welsh language has its own unique alphabet and grammar, and is an official language of Wales. Its meaning in English is "of or relating to Wales or its people, language, or culture". |
-| 4 | [#DyddGŵylDewiHapus](http://twitter.com/search?q=%23DyddG%c5%b5ylDewiHapus) | N/A |
-| 5 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
-| 6 | [Isabel Oakeshott](http://twitter.com/search?q=Isabel+Oakeshott) | N/A |
-| 7 | [Saint David](http://twitter.com/search?q=Saint+David) | N/A |
-| 8 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 9 | [#Wales](http://twitter.com/search?q=%23Wales) | N/A |
-| 10 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
-| 11 | [#WomensHistoryMonth](http://twitter.com/search?q=%23WomensHistoryMonth) | N/A |
-| 12 | [Happy New Month](http://twitter.com/search?q=Happy+New+Month) | Happy New Month is a phrase used to express good wishes for the start of a new month. It is typically used as a greeting or salutation to friends, family, and colleagues. The phrase is usually accompanied by wishes for health, happiness, and success in the upcoming month. |
-| 13 | [Telegraph](http://twitter.com/search?q=Telegraph) | N/A |
-| 14 | [Lord Bethell](http://twitter.com/search?q=Lord+Bethell) | N/A |
-| 15 | [Tinubu](http://twitter.com/search?q=Tinubu) | N/A |
-| 16 | [Whitty](http://twitter.com/search?q=Whitty) | N/A |
-| 17 | [Frogmore](http://twitter.com/search?q=Frogmore) | N/A |
-| 18 | [Sarah Vine](http://twitter.com/search?q=Sarah+Vine) | N/A |
+| 2 | [#TwitterDown](http://twitter.com/search?q=%23TwitterDown) | N/A |
+| 3 | [Welcome to Twitter](http://twitter.com/search?q=Welcome+to+Twitter) | N/A |
+| 4 | [hancock](http://twitter.com/search?q=hancock) | N/A |
+| 5 | [Welsh](http://twitter.com/search?q=Welsh) | Welsh is a Celtic language spoken in Wales, a country in the United Kingdom. It is closely related to Cornish and Breton, two other Celtic languages. The Welsh language has its own unique alphabet and grammar, and is an official language of Wales. Its meaning in English is "of or relating to Wales or its people, language, or culture". |
+| 6 | [#CurrysS23Ultra](http://twitter.com/search?q=%23CurrysS23Ultra) | N/A |
+| 7 | [#DyddGŵylDewiHapus](http://twitter.com/search?q=%23DyddG%c5%b5ylDewiHapus) | N/A |
+| 8 | [#Wales](http://twitter.com/search?q=%23Wales) | N/A |
+| 9 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
+| 10 | [Saint David](http://twitter.com/search?q=Saint+David) | N/A |
+| 11 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 12 | [Isabel Oakeshott](http://twitter.com/search?q=Isabel+Oakeshott) | N/A |
+| 13 | [Jason Roy](http://twitter.com/search?q=Jason+Roy) | Jason Roy is a professional English cricketer who plays for the England national cricket team. He is an aggressive right-handed batsman and occasional right-arm off-break bowler. |
+| 14 | [Sarah Vine](http://twitter.com/search?q=Sarah+Vine) | N/A |
+| 15 | [Frogmore](http://twitter.com/search?q=Frogmore) | N/A |
+| 16 | [Telegraph](http://twitter.com/search?q=Telegraph) | N/A |
+| 17 | [Happy New Month](http://twitter.com/search?q=Happy+New+Month) | Happy New Month is a phrase used to express good wishes for the start of a new month. It is typically used as a greeting or salutation to friends, family, and colleagues. The phrase is usually accompanied by wishes for health, happiness, and success in the upcoming month. |
+| 18 | [Lord Bethell](http://twitter.com/search?q=Lord+Bethell) | N/A |
 | 19 | [Midazolam](http://twitter.com/search?q=Midazolam) | N/A |
-| 20 | [Daily Quordle 401](http://twitter.com/search?q=Daily+Quordle+401) | N/A |
-| 21 | [White Rabbits](http://twitter.com/search?q=White+Rabbits) | N/A |
-| 22 | [Wordle 620 X](http://twitter.com/search?q=Wordle+620+X) | N/A |
-| 23 | [Ed Sheeran](http://twitter.com/search?q=Ed+Sheeran) | N/A |
-| 24 | [Torygraph](http://twitter.com/search?q=Torygraph) | N/A |
-| 25 | [Osborne](http://twitter.com/search?q=Osborne) | N/A |
-| 26 | [Tice](http://twitter.com/search?q=Tice) | N/A |
-| 27 | [Gove](http://twitter.com/search?q=Gove) | Gove is a surname of English origin. It is derived from the Old English word "gof," meaning "a smith or metalworker." The name is most commonly found in the United Kingdom, particularly in the counties of Devon and Cornwall. |
-| 28 | [Morning Paul](http://twitter.com/search?q=Morning+Paul) | N/A |
-| 29 | [Japa](http://twitter.com/search?q=Japa) | N/A |
-| 30 | [Diolch](http://twitter.com/search?q=Diolch) | N/A |
-| 31 | [Nigel Farage](http://twitter.com/search?q=Nigel+Farage) | N/A |
-| 32 | [Morton](http://twitter.com/search?q=Morton) | Morton is a surname of English origin. It is derived from the Old French word "mort," meaning "dead," and the suffix "-on," which was used to denote a place or location. The name was originally given to someone who lived near a burial ground or cemetery. |
-| 33 | [Morning Andy](http://twitter.com/search?q=Morning+Andy) | N/A |
-| 34 | [Eisteddfod](http://twitter.com/search?q=Eisteddfod) | N/A |
-| 35 | [Pogba](http://twitter.com/search?q=Pogba) | Pogba is a nickname for the French professional footballer Paul Pogba. It is derived from his last name and is often used as a term of endearment by his fans. |
-| 36 | [Mando](http://twitter.com/search?q=Mando) | N/A |
-| 37 | [Banks](http://twitter.com/search?q=Banks) | N/A |
-| 38 | [Year 7](http://twitter.com/search?q=Year+7) | N/A |
-| 39 | [#March1st](http://twitter.com/search?q=%23March1st) | N/A |
-| 40 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
-| 41 | [#ASongOrMovieForTaste](http://twitter.com/search?q=%23ASongOrMovieForTaste) | N/A |
-| 42 | [#spring](http://twitter.com/search?q=%23spring) | N/A |
-| 43 | [#Daffodils](http://twitter.com/search?q=%23Daffodils) | N/A |
-| 44 | [#March2023](http://twitter.com/search?q=%23March2023) | N/A |
-| 45 | [#WorldSeagrassDay](http://twitter.com/search?q=%23WorldSeagrassDay) | N/A |
-| 46 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
-| 47 | [#wednesdayvibe](http://twitter.com/search?q=%23wednesdayvibe) | N/A |
-| 48 | [#lockdownfiles](http://twitter.com/search?q=%23lockdownfiles) | N/A |
-| 49 | [#RoseWednesday](http://twitter.com/search?q=%23RoseWednesday) | N/A |
-| 50 | [#ToriesOut237](http://twitter.com/search?q=%23ToriesOut237) | N/A |
+| 20 | [Tinubu](http://twitter.com/search?q=Tinubu) | N/A |
+| 21 | [Whitty](http://twitter.com/search?q=Whitty) | N/A |
+| 22 | [ethel cain](http://twitter.com/search?q=ethel+cain) | Ethel Cain is a phrase used to describe someone who is kind and generous. It is derived from the name of the biblical character Ethel, who was known for her generosity and hospitality. The phrase is often used as a compliment to someone who has been particularly helpful or generous. |
+| 23 | [My Twitter](http://twitter.com/search?q=My+Twitter) | N/A |
+| 24 | [maisie](http://twitter.com/search?q=maisie) | N/A |
+| 25 | [Greece](http://twitter.com/search?q=Greece) | N/A |
+| 26 | [Daily Quordle 401](http://twitter.com/search?q=Daily+Quordle+401) | N/A |
+| 27 | [Ed Sheeran](http://twitter.com/search?q=Ed+Sheeran) | N/A |
+| 28 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
+| 29 | [White Rabbits](http://twitter.com/search?q=White+Rabbits) | N/A |
+| 30 | [Balogun](http://twitter.com/search?q=Balogun) | Balogun is a Nigerian title of nobility, usually given to a warrior or leader. It is derived from the Yoruba language and means "commander of the army". |
+| 31 | [Wordle 620 X](http://twitter.com/search?q=Wordle+620+X) | N/A |
+| 32 | [Richard Tice](http://twitter.com/search?q=Richard+Tice) | N/A |
+| 33 | [Gove](http://twitter.com/search?q=Gove) | Gove is a surname of English origin. It is derived from the Old English word "gof," meaning "a smith or metalworker." The name is most commonly found in the United Kingdom, particularly in the counties of Devon and Cornwall. |
+| 34 | [Diolch](http://twitter.com/search?q=Diolch) | N/A |
+| 35 | [Morton](http://twitter.com/search?q=Morton) | Morton is a surname of English origin. It is derived from the Old French word "mort," meaning "dead," and the suffix "-on," which was used to denote a place or location. The name was originally given to someone who lived near a burial ground or cemetery. |
+| 36 | [Eisteddfod](http://twitter.com/search?q=Eisteddfod) | N/A |
+| 37 | [Year 6](http://twitter.com/search?q=Year+6) | N/A |
+| 38 | [Japa](http://twitter.com/search?q=Japa) | N/A |
+| 39 | [Pogba](http://twitter.com/search?q=Pogba) | Pogba is a nickname for the French professional footballer Paul Pogba. It is derived from his last name and is often used as a term of endearment by his fans. |
+| 40 | [Nigel Farage](http://twitter.com/search?q=Nigel+Farage) | N/A |
+| 41 | [Banks](http://twitter.com/search?q=Banks) | N/A |
+| 42 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
+| 43 | [#WomensHistoryMonth](http://twitter.com/search?q=%23WomensHistoryMonth) | N/A |
+| 44 | [#popmaster](http://twitter.com/search?q=%23popmaster) | N/A |
+| 45 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
+| 46 | [#SwanGiveaway](http://twitter.com/search?q=%23SwanGiveaway) | N/A |
+| 47 | [#March1st](http://twitter.com/search?q=%23March1st) | N/A |
+| 48 | [#InternationalWheelchairDay](http://twitter.com/search?q=%23InternationalWheelchairDay) | N/A |
+| 49 | [#spring](http://twitter.com/search?q=%23spring) | N/A |
+| 50 | [#WorldSeagrassDay](http://twitter.com/search?q=%23WorldSeagrassDay) | N/A |
 
 
 
