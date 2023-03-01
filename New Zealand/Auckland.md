@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Auckland
 
-📆 Last Updated: `2023-03-01 16:17:05 UTC`
+📆 Last Updated: `2023-03-01 17:16:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,13 +29,13 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 12 | [Test Cricket](http://twitter.com/search?q=Test+Cricket) | N/A |
 | 13 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
 | 14 | [neil wagner](http://twitter.com/search?q=neil+wagner) | N/A |
-| 15 | [Autumn](http://twitter.com/search?q=Autumn) | N/A |
-| 16 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
-| 17 | [All Blacks](http://twitter.com/search?q=All+Blacks) | N/A |
-| 18 | [#teuonstrike](http://twitter.com/search?q=%23teuonstrike) | N/A |
-| 19 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
-| 20 | [Avondale](http://twitter.com/search?q=Avondale) | N/A |
-| 21 | [willie jackson](http://twitter.com/search?q=willie+jackson) | N/A |
+| 15 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
+| 16 | [All Blacks](http://twitter.com/search?q=All+Blacks) | N/A |
+| 17 | [#teuonstrike](http://twitter.com/search?q=%23teuonstrike) | N/A |
+| 18 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
+| 19 | [Avondale](http://twitter.com/search?q=Avondale) | N/A |
+| 20 | [willie jackson](http://twitter.com/search?q=willie+jackson) | N/A |
+| 21 | [Autumn](http://twitter.com/search?q=Autumn) | N/A |
 | 22 | [David Seymour](http://twitter.com/search?q=David+Seymour) | N/A |
 | 23 | [Bishop](http://twitter.com/search?q=Bishop) | N/A |
 | 24 | [Jason](http://twitter.com/search?q=Jason) | Jason is a masculine given name of Greek origin. It is derived from the Greek Ἰάσων (Iásōn), meaning "healer" or "the one who cures". |
@@ -48,9 +48,9 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 31 | [Murdoch](http://twitter.com/search?q=Murdoch) | N/A |
 | 32 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
 | 33 | [Chantelle](http://twitter.com/search?q=Chantelle) | N/A |
-| 34 | [Bloomfield](http://twitter.com/search?q=Bloomfield) | N/A |
-| 35 | [ayesha verrall](http://twitter.com/search?q=ayesha+verrall) | N/A |
-| 36 | [Maori](http://twitter.com/search?q=Maori) | N/A |
+| 34 | [ayesha verrall](http://twitter.com/search?q=ayesha+verrall) | N/A |
+| 35 | [Maori](http://twitter.com/search?q=Maori) | N/A |
+| 36 | [Bloomfield](http://twitter.com/search?q=Bloomfield) | N/A |
 | 37 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
 | 38 | [Breakfast](http://twitter.com/search?q=Breakfast) | N/A |
 | 39 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |

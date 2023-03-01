@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Qatar
 
-📆 Last Updated: `2023-03-01 16:17:19 UTC`
+📆 Last Updated: `2023-03-01 17:16:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,24 +17,24 @@ This is top 50 for Qatar
 | ------- | ------------ | ------------ |
 | 1 | [التميز العلمي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%85%d9%8a%d8%b2+%d8%a7%d9%84%d8%b9%d9%84%d9%85%d9%8a) | N/A |
 | 2 | [وزراء الداخليه العرب](http://twitter.com/search?q=%d9%88%d8%b2%d8%b1%d8%a7%d8%a1+%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8) | N/A |
-| 3 | [#بالتميز_نبني_الاجيال](http://twitter.com/search?q=%23%d8%a8%d8%a7%d9%84%d8%aa%d9%85%d9%8a%d8%b2_%d9%86%d8%a8%d9%86%d9%8a_%d8%a7%d9%84%d8%a7%d8%ac%d9%8a%d8%a7%d9%84) | N/A |
-| 4 | [العرش العظيم](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b1%d8%b4+%d8%a7%d9%84%d8%b9%d8%b8%d9%8a%d9%85) | N/A |
-| 5 | [#حمد_عبدالحكيم_العبدالله](http://twitter.com/search?q=%23%d8%ad%d9%85%d8%af_%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%ad%d9%83%d9%8a%d9%85_%d8%a7%d9%84%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87) | N/A |
-| 6 | [#جايزه_التميز_العلمي](http://twitter.com/search?q=%23%d8%ac%d8%a7%d9%8a%d8%b2%d9%87_%d8%a7%d9%84%d8%aa%d9%85%d9%8a%d8%b2_%d8%a7%d9%84%d8%b9%d9%84%d9%85%d9%8a) | N/A |
+| 3 | [ايوب الكعبي](http://twitter.com/search?q=%d8%a7%d9%8a%d9%88%d8%a8+%d8%a7%d9%84%d9%83%d8%b9%d8%a8%d9%8a) | N/A |
+| 4 | [#بالتميز_نبني_الاجيال](http://twitter.com/search?q=%23%d8%a8%d8%a7%d9%84%d8%aa%d9%85%d9%8a%d8%b2_%d9%86%d8%a8%d9%86%d9%8a_%d8%a7%d9%84%d8%a7%d8%ac%d9%8a%d8%a7%d9%84) | N/A |
+| 5 | [العرش العظيم](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b1%d8%b4+%d8%a7%d9%84%d8%b9%d8%b8%d9%8a%d9%85) | N/A |
+| 6 | [#حمد_عبدالحكيم_العبدالله](http://twitter.com/search?q=%23%d8%ad%d9%85%d8%af_%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%ad%d9%83%d9%8a%d9%85_%d8%a7%d9%84%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87) | N/A |
 | 7 | [#يوم_التميز_العلمي](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%aa%d9%85%d9%8a%d8%b2_%d8%a7%d9%84%d8%b9%d9%84%d9%85%d9%8a) | N/A |
-| 8 | [ايوب الكعبي](http://twitter.com/search?q=%d8%a7%d9%8a%d9%88%d8%a8+%d8%a7%d9%84%d9%83%d8%b9%d8%a8%d9%8a) | N/A |
+| 8 | [#جايزه_التميز_العلمي](http://twitter.com/search?q=%23%d8%ac%d8%a7%d9%8a%d8%b2%d9%87_%d8%a7%d9%84%d8%aa%d9%85%d9%8a%d8%b2_%d8%a7%d9%84%d8%b9%d9%84%d9%85%d9%8a) | N/A |
 | 9 | [الميداليه البلاتينيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%8a%d8%af%d8%a7%d9%84%d9%8a%d9%87+%d8%a7%d9%84%d8%a8%d9%84%d8%a7%d8%aa%d9%8a%d9%86%d9%8a%d9%87) | N/A |
 | 10 | [الطلبه المتميزين](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d9%84%d8%a8%d9%87+%d8%a7%d9%84%d9%85%d8%aa%d9%85%d9%8a%d8%b2%d9%8a%d9%86) | N/A |
 | 11 | [التعليم العالي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%8a) | N/A |
 | 12 | [وزير التربيه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%aa%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
 | 13 | [رييس مجلس الوزراء](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1) | N/A |
 | 14 | [صاحب السمو الشيخ](http://twitter.com/search?q=%d8%b5%d8%a7%d8%ad%d8%a8+%d8%a7%d9%84%d8%b3%d9%85%d9%88+%d8%a7%d9%84%d8%b4%d9%8a%d8%ae) | N/A |
-| 15 | [امير البلاد المفدي](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a%d8%b1+%d8%a7%d9%84%d8%a8%d9%84%d8%a7%d8%af+%d8%a7%d9%84%d9%85%d9%81%d8%af%d9%8a) | N/A |
-| 16 | [شهر جديد](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%ac%d8%af%d9%8a%d8%af) | N/A |
+| 15 | [شهر جديد](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%ac%d8%af%d9%8a%d8%af) | N/A |
+| 16 | [امير البلاد المفدي](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a%d8%b1+%d8%a7%d9%84%d8%a8%d9%84%d8%a7%d8%af+%d8%a7%d9%84%d9%85%d9%81%d8%af%d9%8a) | N/A |
 | 17 | [#AFCU20](http://twitter.com/search?q=%23AFCU20) | N/A |
-| 18 | [غانم السليطي](http://twitter.com/search?q=%d8%ba%d8%a7%d9%86%d9%85+%d8%a7%d9%84%d8%b3%d9%84%d9%8a%d8%b7%d9%8a) | N/A |
-| 19 | [معرض جامعه قطر](http://twitter.com/search?q=%d9%85%d8%b9%d8%b1%d8%b6+%d8%ac%d8%a7%d9%85%d8%b9%d9%87+%d9%82%d8%b7%d8%b1) | N/A |
-| 20 | [كاس اسيا](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d8%b3%d9%8a%d8%a7) | كاس اسيا (Kas Asia) is an annual football tournament held in Southeast Asia. It is organized by the ASEAN Football Federation (AFF) and features teams from the ten ASEAN countries. The tournament was first held in 1996 and has been held every two years since then. The tournament serves as a qualifying event for the AFC Asian Cup, with the top four teams qualifying for the continental championship. |
+| 18 | [كاس اسيا](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d8%b3%d9%8a%d8%a7) | كاس اسيا (Kas Asia) is an annual football tournament held in Southeast Asia. It is organized by the ASEAN Football Federation (AFF) and features teams from the ten ASEAN countries. The tournament was first held in 1996 and has been held every two years since then. The tournament serves as a qualifying event for the AFC Asian Cup, with the top four teams qualifying for the continental championship. |
+| 19 | [غانم السليطي](http://twitter.com/search?q=%d8%ba%d8%a7%d9%86%d9%85+%d8%a7%d9%84%d8%b3%d9%84%d9%8a%d8%b7%d9%8a) | N/A |
+| 20 | [معرض جامعه قطر](http://twitter.com/search?q=%d9%85%d8%b9%d8%b1%d8%b6+%d8%ac%d8%a7%d9%85%d8%b9%d9%87+%d9%82%d8%b7%d8%b1) | N/A |
 | 21 | [تميم بن حمد آل ثاني](http://twitter.com/search?q=%d8%aa%d9%85%d9%8a%d9%85+%d8%a8%d9%86+%d8%ad%d9%85%d8%af+%d8%a2%d9%84+%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
 | 22 | [التغير المناخي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%ba%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%ae%d9%8a) | N/A |
 | 23 | [موسم الندوات](http://twitter.com/search?q=%d9%85%d9%88%d8%b3%d9%85+%d8%a7%d9%84%d9%86%d8%af%d9%88%d8%a7%d8%aa) | N/A |
@@ -50,21 +50,21 @@ This is top 50 for Qatar
 | 33 | [عبدالرحمن بن حمد](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%b1%d8%ad%d9%85%d9%86+%d8%a8%d9%86+%d8%ad%d9%85%d8%af) | N/A |
 | 34 | [الفيفا](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%8a%d9%81%d8%a7) | N/A |
 | 35 | [رييس الوزراء المصري](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1+%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a) | N/A |
-| 36 | [الوفد المرافق](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%81%d8%af+%d8%a7%d9%84%d9%85%d8%b1%d8%a7%d9%81%d9%82) | N/A |
-| 37 | [بكاس العالم](http://twitter.com/search?q=%d8%a8%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | N/A |
-| 38 | [التنميه المستدامه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%86%d9%85%d9%8a%d9%87+%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d8%af%d8%a7%d9%85%d9%87) | N/A |
-| 39 | [خالد بن خليفه بن عبدالعزيز](http://twitter.com/search?q=%d8%ae%d8%a7%d9%84%d8%af+%d8%a8%d9%86+%d8%ae%d9%84%d9%8a%d9%81%d9%87+%d8%a8%d9%86+%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%b9%d8%b2%d9%8a%d8%b2) | N/A |
-| 40 | [شهر مارس](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
-| 41 | [روما](http://twitter.com/search?q=%d8%b1%d9%88%d9%85%d8%a7) | روما is a city in Italy, located in the Lazio region. In English, it is known as Rome. It is the capital of Italy and one of the most visited cities in the world. It is known for its ancient ruins, art, culture, and cuisine. |
-| 42 | [قطر الكبري](http://twitter.com/search?q=%d9%82%d8%b7%d8%b1+%d8%a7%d9%84%d9%83%d8%a8%d8%b1%d9%8a) | N/A |
-| 43 | [نواف](http://twitter.com/search?q=%d9%86%d9%88%d8%a7%d9%81) | N/A |
-| 44 | [الامير المفدي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d9%81%d8%af%d9%8a) | N/A |
-| 45 | [إبراهيم](http://twitter.com/search?q=%d8%a5%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85) | N/A |
-| 46 | [العراق](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b1%d8%a7%d9%82) | العراق is the Arabic word for Iraq. In English, it means "Iraq". |
-| 47 | [تويتر](http://twitter.com/search?q=%d8%aa%d9%88%d9%8a%d8%aa%d8%b1) | تويتر (Twitter) is a social media platform that allows users to post short messages (tweets) of up to 280 characters. It is used by millions of people around the world to share news, opinions, and other content. |
-| 48 | [Iran](http://twitter.com/search?q=Iran) | N/A |
-| 49 | [سلمان](http://twitter.com/search?q=%d8%b3%d9%84%d9%85%d8%a7%d9%86) | سلمان is an Arabic name that means "peaceful". In English, it can be translated to "Solomon". |
-| 50 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 36 | [خالد بن خليفه بن عبدالعزيز](http://twitter.com/search?q=%d8%ae%d8%a7%d9%84%d8%af+%d8%a8%d9%86+%d8%ae%d9%84%d9%8a%d9%81%d9%87+%d8%a8%d9%86+%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%b9%d8%b2%d9%8a%d8%b2) | N/A |
+| 37 | [الوفد المرافق](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%81%d8%af+%d8%a7%d9%84%d9%85%d8%b1%d8%a7%d9%81%d9%82) | N/A |
+| 38 | [قطر الكبري](http://twitter.com/search?q=%d9%82%d8%b7%d8%b1+%d8%a7%d9%84%d9%83%d8%a8%d8%b1%d9%8a) | N/A |
+| 39 | [بكاس العالم](http://twitter.com/search?q=%d8%a8%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | N/A |
+| 40 | [التنميه المستدامه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%86%d9%85%d9%8a%d9%87+%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d8%af%d8%a7%d9%85%d9%87) | N/A |
+| 41 | [الامير المفدي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d9%81%d8%af%d9%8a) | N/A |
+| 42 | [روما](http://twitter.com/search?q=%d8%b1%d9%88%d9%85%d8%a7) | روما is a city in Italy, located in the Lazio region. In English, it is known as Rome. It is the capital of Italy and one of the most visited cities in the world. It is known for its ancient ruins, art, culture, and cuisine. |
+| 43 | [Iran](http://twitter.com/search?q=Iran) | N/A |
+| 44 | [تويتر](http://twitter.com/search?q=%d8%aa%d9%88%d9%8a%d8%aa%d8%b1) | تويتر (Twitter) is a social media platform that allows users to post short messages (tweets) of up to 280 characters. It is used by millions of people around the world to share news, opinions, and other content. |
+| 45 | [شهر مارس](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
+| 46 | [إبراهيم](http://twitter.com/search?q=%d8%a5%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85) | N/A |
+| 47 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
+| 48 | [سلمان](http://twitter.com/search?q=%d8%b3%d9%84%d9%85%d8%a7%d9%86) | سلمان is an Arabic name that means "peaceful". In English, it can be translated to "Solomon". |
+| 49 | [hamad al-thani](http://twitter.com/search?q=hamad+al-thani) | N/A |
+| 50 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 
 
 

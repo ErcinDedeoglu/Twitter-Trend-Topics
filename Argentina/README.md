@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Argentina
 
-📆 Last Updated: `2023-03-01 16:17:14 UTC`
+📆 Last Updated: `2023-03-01 17:16:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Argentina
 | ------- | ------------ | ------------ |
 | 1 | [#AperturaSesiones2023](http://twitter.com/search?q=%23AperturaSesiones2023) | N/A |
 | 2 | [Alberto](http://twitter.com/search?q=Alberto) | Alberto is a Spanish and Italian masculine given name, derived from the Germanic name Adalbert. In English, it is translated to mean "noble and bright". |
-| 3 | [Congreso](http://twitter.com/search?q=Congreso) | Congreso is the Spanish word for Congress. It is used to refer to a legislative body, such as the United States Congress or the Mexican Congress. In English, it is used to refer to any type of legislative assembly or gathering. |
-| 4 | [#CadenaNacional](http://twitter.com/search?q=%23CadenaNacional) | N/A |
-| 5 | [#SesionesOrdinarias](http://twitter.com/search?q=%23SesionesOrdinarias) | N/A |
-| 6 | [Asamblea Legislativa](http://twitter.com/search?q=Asamblea+Legislativa) | N/A |
-| 7 | [De Paul](http://twitter.com/search?q=De+Paul) | N/A |
-| 8 | [BIGHIT PROTECT RM](http://twitter.com/search?q=BIGHIT+PROTECT+RM) | N/A |
-| 9 | [Gatti](http://twitter.com/search?q=Gatti) | Gatti is an Italian word meaning "cat". |
-| 10 | [Pasculli](http://twitter.com/search?q=Pasculli) | N/A |
-| 11 | [HYBE PROTECT RM](http://twitter.com/search?q=HYBE+PROTECT+RM) | N/A |
-| 12 | [Iglesias](http://twitter.com/search?q=Iglesias) | N/A |
-| 13 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 14 | [#ElPeorGobiernoDeLaHistoria](http://twitter.com/search?q=%23ElPeorGobiernoDeLaHistoria) | N/A |
-| 15 | [El Presidente](http://twitter.com/search?q=El+Presidente) | N/A |
-| 16 | [Suiza](http://twitter.com/search?q=Suiza) | N/A |
-| 17 | [#ALaBarbarossa](http://twitter.com/search?q=%23ALaBarbarossa) | N/A |
-| 18 | [Legislatura](http://twitter.com/search?q=Legislatura) | N/A |
-| 19 | [Narnia](http://twitter.com/search?q=Narnia) | N/A |
-| 20 | [gaga](http://twitter.com/search?q=gaga) | N/A |
-| 21 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
-| 22 | [Alexis Mac Allister](http://twitter.com/search?q=Alexis+Mac+Allister) | N/A |
-| 23 | [Mammana](http://twitter.com/search?q=Mammana) | Mammana is a traditional Italian dessert made with ricotta cheese, sugar, and candied fruit. It is usually served during the Christmas season. In English, the word Mammana translates to "ricotta cake". |
-| 24 | [Cristina Fernández de Kirchner](http://twitter.com/search?q=Cristina+Fern%c3%a1ndez+de+Kirchner) | N/A |
-| 25 | [Moreau](http://twitter.com/search?q=Moreau) | N/A |
-| 26 | [Matías Suárez](http://twitter.com/search?q=Mat%c3%adas+Su%c3%a1rez) | N/A |
-| 27 | [Rosatti](http://twitter.com/search?q=Rosatti) | N/A |
-| 28 | [The Dark Side of the Moon](http://twitter.com/search?q=The+Dark+Side+of+the+Moon) | N/A |
-| 29 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 30 | [Corte Suprema](http://twitter.com/search?q=Corte+Suprema) | N/A |
-| 31 | [Brancatelli](http://twitter.com/search?q=Brancatelli) | N/A |
-| 32 | [Pink Floyd](http://twitter.com/search?q=Pink+Floyd) | Pink Floyd is an English rock band formed in London in 1965. The band achieved international success with their progressive and psychedelic music. The band's classic lineup consisted of Syd Barrett, Nick Mason, Roger Waters, Richard Wright and David Gilmour. The name "Pink Floyd" is derived from the names of two blues musicians, Pink Anderson and Floyd Council. |
-| 33 | [Georgina](http://twitter.com/search?q=Georgina) | Georgina is a female given name of Greek origin, derived from the Greek name Γεωργινα (Geōrgina), which is a feminine form of the name George. It means "farmer" or "earth worker". |
-| 34 | [Tinkerbell](http://twitter.com/search?q=Tinkerbell) | N/A |
-| 35 | [Bienvenido Marzo](http://twitter.com/search?q=Bienvenido+Marzo) | N/A |
-| 36 | [En 2022](http://twitter.com/search?q=En+2022) | N/A |
-| 37 | [Tetaz](http://twitter.com/search?q=Tetaz) | N/A |
-| 38 | [La del 86](http://twitter.com/search?q=La+del+86) | N/A |
-| 39 | [Vaca Muerta](http://twitter.com/search?q=Vaca+Muerta) | N/A |
-| 40 | [Supercopa Argentina](http://twitter.com/search?q=Supercopa+Argentina) | N/A |
-| 41 | [Karim](http://twitter.com/search?q=Karim) | Karim is an Arabic name meaning "generous" or "noble". It is also used as a surname in some cultures. |
-| 42 | [Ruggeri](http://twitter.com/search?q=Ruggeri) | N/A |
-| 43 | [AFJP](http://twitter.com/search?q=AFJP) | N/A |
-| 44 | [Concejo Deliberante](http://twitter.com/search?q=Concejo+Deliberante) | N/A |
-| 45 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
-| 46 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
-| 47 | [Anses](http://twitter.com/search?q=Anses) | N/A |
-| 48 | [Patronato](http://twitter.com/search?q=Patronato) | Patronato is a Spanish term that refers to a system of patronage or protection. It is often used to describe the relationship between a patron and a client, in which the patron provides financial or other support to the client in exchange for loyalty and service. In English, it can be translated as "patronage" or "protection". |
-| 49 | [Grecia](http://twitter.com/search?q=Grecia) | N/A |
-| 50 | [PUAM](http://twitter.com/search?q=PUAM) | N/A |
+| 3 | [#CadenaNacional](http://twitter.com/search?q=%23CadenaNacional) | N/A |
+| 4 | [Congreso](http://twitter.com/search?q=Congreso) | Congreso is the Spanish word for Congress. It is used to refer to a legislative body, such as the United States Congress or the Mexican Congress. In English, it is used to refer to any type of legislative assembly or gathering. |
+| 5 | [Iglesias](http://twitter.com/search?q=Iglesias) | N/A |
+| 6 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |
+| 7 | [#SesionesOrdinarias](http://twitter.com/search?q=%23SesionesOrdinarias) | N/A |
+| 8 | [#AsambleaLegislativa](http://twitter.com/search?q=%23AsambleaLegislativa) | N/A |
+| 9 | [Corte](http://twitter.com/search?q=Corte) | Corte is a Spanish word meaning "cut" or "trim". It is often used in reference to cutting hair, but can also refer to cutting fabric or other materials. |
+| 10 | [Rosatti](http://twitter.com/search?q=Rosatti) | N/A |
+| 11 | [#ElPeorGobiernoDeLaHistoria](http://twitter.com/search?q=%23ElPeorGobiernoDeLaHistoria) | N/A |
+| 12 | [De Paul](http://twitter.com/search?q=De+Paul) | N/A |
+| 13 | [Pasculli](http://twitter.com/search?q=Pasculli) | N/A |
+| 14 | [twenty one pilots](http://twitter.com/search?q=twenty+one+pilots) | N/A |
+| 15 | [BIGHIT PROTECT RM](http://twitter.com/search?q=BIGHIT+PROTECT+RM) | N/A |
+| 16 | [HYBE PROTECT RM](http://twitter.com/search?q=HYBE+PROTECT+RM) | N/A |
+| 17 | [Narnia](http://twitter.com/search?q=Narnia) | N/A |
+| 18 | [Gatti](http://twitter.com/search?q=Gatti) | Gatti is an Italian word meaning "cat". |
+| 19 | [Poder Judicial](http://twitter.com/search?q=Poder+Judicial) | N/A |
+| 20 | [Moreau](http://twitter.com/search?q=Moreau) | N/A |
+| 21 | [Mascherano](http://twitter.com/search?q=Mascherano) | Mascherano is an Italian surname. It is derived from the word maschera, which means "mask" or "disguise". The name can refer to a person who wears a mask or disguise, or someone who is skilled at hiding their true identity. |
+| 22 | [Suiza](http://twitter.com/search?q=Suiza) | N/A |
+| 23 | [Alexis Mac Allister](http://twitter.com/search?q=Alexis+Mac+Allister) | N/A |
+| 24 | [Belén](http://twitter.com/search?q=Bel%c3%a9n) | N/A |
+| 25 | [Blink](http://twitter.com/search?q=Blink) | N/A |
+| 26 | [Legislatura](http://twitter.com/search?q=Legislatura) | N/A |
+| 27 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 28 | [CSJN](http://twitter.com/search?q=CSJN) | N/A |
+| 29 | [Ricardo Gareca](http://twitter.com/search?q=Ricardo+Gareca) | N/A |
+| 30 | [Cristina Fernández de Kirchner](http://twitter.com/search?q=Cristina+Fern%c3%a1ndez+de+Kirchner) | N/A |
+| 31 | [gaga](http://twitter.com/search?q=gaga) | N/A |
+| 32 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
+| 33 | [Negri](http://twitter.com/search?q=Negri) | N/A |
+| 34 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
+| 35 | [Tetaz](http://twitter.com/search?q=Tetaz) | N/A |
+| 36 | [Olivos](http://twitter.com/search?q=Olivos) | N/A |
+| 37 | [Marzo con M](http://twitter.com/search?q=Marzo+con+M) | N/A |
+| 38 | [Matías Suárez](http://twitter.com/search?q=Mat%c3%adas+Su%c3%a1rez) | N/A |
+| 39 | [Consejo de la Magistratura](http://twitter.com/search?q=Consejo+de+la+Magistratura) | N/A |
+| 40 | [Tinkerbell](http://twitter.com/search?q=Tinkerbell) | N/A |
+| 41 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 42 | [Democracia](http://twitter.com/search?q=Democracia) | Democracia is a Spanish word meaning democracy. It is used to refer to a system of government in which the people have the power to choose their leaders through free and fair elections. Democracia is based on the principle of majority rule, with the majority of citizens having a say in how their country is run. |
+| 43 | [Mammana](http://twitter.com/search?q=Mammana) | Mammana is a traditional Italian dessert made with ricotta cheese, sugar, and candied fruit. It is usually served during the Christmas season. In English, the word Mammana translates to "ricotta cake". |
+| 44 | [Georgina](http://twitter.com/search?q=Georgina) | Georgina is a female given name of Greek origin, derived from the Greek name Γεωργινα (Geōrgina), which is a feminine form of the name George. It means "farmer" or "earth worker". |
+| 45 | [Al Kun](http://twitter.com/search?q=Al+Kun) | N/A |
+| 46 | [Buen Miércoles](http://twitter.com/search?q=Buen+Mi%c3%a9rcoles) | N/A |
+| 47 | [The Dark Side of the Moon](http://twitter.com/search?q=The+Dark+Side+of+the+Moon) | N/A |
+| 48 | [Brancatelli](http://twitter.com/search?q=Brancatelli) | N/A |
+| 49 | [Jueces](http://twitter.com/search?q=Jueces) | N/A |
+| 50 | [En 2022](http://twitter.com/search?q=En+2022) | N/A |
 
 
 

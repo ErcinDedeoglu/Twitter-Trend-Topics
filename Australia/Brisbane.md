@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brisbane
 
-📆 Last Updated: `2023-03-01 16:16:48 UTC`
+📆 Last Updated: `2023-03-01 17:16:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,29 +19,29 @@ This is top 50 for [Australia](</Australia>)
 | 2 | [#TwitterDown](http://twitter.com/search?q=%23TwitterDown) | N/A |
 | 3 | [#MAFSAU](http://twitter.com/search?q=%23MAFSAU) | N/A |
 | 4 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 5 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
-| 6 | [Evelyn](http://twitter.com/search?q=Evelyn) | N/A |
+| 5 | [Evelyn](http://twitter.com/search?q=Evelyn) | N/A |
+| 6 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
 | 7 | [Pikamee](http://twitter.com/search?q=Pikamee) | N/A |
-| 8 | [Sandy](http://twitter.com/search?q=Sandy) | N/A |
-| 9 | [Kochie](http://twitter.com/search?q=Kochie) | N/A |
-| 10 | [#superannuation](http://twitter.com/search?q=%23superannuation) | N/A |
-| 11 | [Tayla](http://twitter.com/search?q=Tayla) | N/A |
-| 12 | [The Project](http://twitter.com/search?q=The+Project) | N/A |
-| 13 | [Autumn](http://twitter.com/search?q=Autumn) | N/A |
-| 14 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 15 | [Jadeja](http://twitter.com/search?q=Jadeja) | N/A |
-| 16 | [angus taylor](http://twitter.com/search?q=angus+taylor) | N/A |
-| 17 | [Warren Mundine](http://twitter.com/search?q=Warren+Mundine) | N/A |
+| 8 | [Kochie](http://twitter.com/search?q=Kochie) | N/A |
+| 9 | [#superannuation](http://twitter.com/search?q=%23superannuation) | N/A |
+| 10 | [Tayla](http://twitter.com/search?q=Tayla) | N/A |
+| 11 | [Sandy](http://twitter.com/search?q=Sandy) | N/A |
+| 12 | [Autumn](http://twitter.com/search?q=Autumn) | N/A |
+| 13 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 14 | [Jadeja](http://twitter.com/search?q=Jadeja) | N/A |
+| 15 | [angus taylor](http://twitter.com/search?q=angus+taylor) | N/A |
+| 16 | [The Project](http://twitter.com/search?q=The+Project) | N/A |
+| 17 | [warren mundine](http://twitter.com/search?q=warren+mundine) | N/A |
 | 18 | [Welcome to Twitter](http://twitter.com/search?q=Welcome+to+Twitter) | N/A |
 | 19 | [Indore](http://twitter.com/search?q=Indore) | N/A |
 | 20 | [bridget archer](http://twitter.com/search?q=bridget+archer) | N/A |
 | 21 | [stuart robert](http://twitter.com/search?q=stuart+robert) | N/A |
 | 22 | [Frogmore](http://twitter.com/search?q=Frogmore) | N/A |
-| 23 | [Chalmers](http://twitter.com/search?q=Chalmers) | N/A |
+| 23 | [chalmers](http://twitter.com/search?q=chalmers) | N/A |
 | 24 | [Starc](http://twitter.com/search?q=Starc) | N/A |
-| 25 | [Kuhnemann](http://twitter.com/search?q=Kuhnemann) | N/A |
-| 26 | [Musolino](http://twitter.com/search?q=Musolino) | N/A |
-| 27 | [0.5% of Australians](http://twitter.com/search?q=0.5%25+of+Australians) | N/A |
+| 25 | [kuhnemann](http://twitter.com/search?q=kuhnemann) | N/A |
+| 26 | [musolino](http://twitter.com/search?q=musolino) | N/A |
+| 27 | [0.5% of australians](http://twitter.com/search?q=0.5%25+of+australians) | N/A |
 | 28 | [Ashwin](http://twitter.com/search?q=Ashwin) | Ashwin is a Hindu name derived from Sanskrit, meaning "lord of the horse". It is often used as a given name for boys in India. |
 | 29 | [Mohammed](http://twitter.com/search?q=Mohammed) | N/A |
 | 30 | [Ronni](http://twitter.com/search?q=Ronni) | Ronni is a female given name, derived from the name Veronica. It is a diminutive form of the name, and can be used as a nickname. The meaning of Ronni in English is "true image". |
@@ -54,16 +54,16 @@ This is top 50 for [Australia](</Australia>)
 | 37 | [Allegra](http://twitter.com/search?q=Allegra) | N/A |
 | 38 | [Rohit](http://twitter.com/search?q=Rohit) | Rohit is a Hindu name derived from Sanskrit, meaning "red" or "sun". It is commonly used as a male name in India. |
 | 39 | [Prue](http://twitter.com/search?q=Prue) | N/A |
-| 40 | [Father Bob](http://twitter.com/search?q=Father+Bob) | N/A |
-| 41 | [Peter Pan](http://twitter.com/search?q=Peter+Pan) | N/A |
-| 42 | [Sarah Ferguson](http://twitter.com/search?q=Sarah+Ferguson) | N/A |
-| 43 | [Meghan](http://twitter.com/search?q=Meghan) | N/A |
-| 44 | [Khawaja](http://twitter.com/search?q=Khawaja) | N/A |
-| 45 | [Rupert Murdoch](http://twitter.com/search?q=Rupert+Murdoch) | N/A |
-| 46 | [Dutton](http://twitter.com/search?q=Dutton) | N/A |
-| 47 | [Rachel](http://twitter.com/search?q=Rachel) | N/A |
-| 48 | [Todd Murphy](http://twitter.com/search?q=Todd+Murphy) | N/A |
-| 49 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
+| 40 | [Peter Pan](http://twitter.com/search?q=Peter+Pan) | N/A |
+| 41 | [Sarah Ferguson](http://twitter.com/search?q=Sarah+Ferguson) | N/A |
+| 42 | [Khawaja](http://twitter.com/search?q=Khawaja) | N/A |
+| 43 | [Rupert Murdoch](http://twitter.com/search?q=Rupert+Murdoch) | N/A |
+| 44 | [Rachel](http://twitter.com/search?q=Rachel) | N/A |
+| 45 | [Todd Murphy](http://twitter.com/search?q=Todd+Murphy) | N/A |
+| 46 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
+| 47 | [matthew thompson](http://twitter.com/search?q=matthew+thompson) | N/A |
+| 48 | [GIVE US WN BLOOPERS](http://twitter.com/search?q=GIVE+US+WN+BLOOPERS) | N/A |
+| 49 | [warwick farm](http://twitter.com/search?q=warwick+farm) | N/A |
 | 50 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
 
 
