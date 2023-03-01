@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-03-01 08:17:25 UTC`
+📆 Last Updated: `2023-03-01 09:16:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -32,10 +32,10 @@ This is top 50 for Guatemala
 | 15 | [Nicki Nicole](http://twitter.com/search?q=Nicki+Nicole) | N/A |
 | 16 | [Barreto](http://twitter.com/search?q=Barreto) | N/A |
 | 17 | [Biza](http://twitter.com/search?q=Biza) | Biza is a slang term used in Spanish to refer to money. In English, it can be translated as "cash" or "dough". |
-| 18 | [Germán](http://twitter.com/search?q=Germ%c3%a1n) | Germán is a Spanish and Portuguese name derived from the Latin Germanus, meaning "brother". It is also a Germanic given name, derived from the Germanic element ger, meaning "spear". |
-| 19 | [Ministerio Público](http://twitter.com/search?q=Ministerio+P%c3%bablico) | N/A |
-| 20 | [Cinthia Monterroso](http://twitter.com/search?q=Cinthia+Monterroso) | N/A |
-| 21 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 18 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 19 | [Germán](http://twitter.com/search?q=Germ%c3%a1n) | Germán is a Spanish and Portuguese name derived from the Latin Germanus, meaning "brother". It is also a Germanic given name, derived from the Germanic element ger, meaning "spear". |
+| 20 | [Ministerio Público](http://twitter.com/search?q=Ministerio+P%c3%bablico) | N/A |
+| 21 | [cinthia monterroso](http://twitter.com/search?q=cinthia+monterroso) | N/A |
 | 22 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
 | 23 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 24 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
@@ -43,11 +43,11 @@ This is top 50 for Guatemala
 | 26 | [edgar gutiérrez](http://twitter.com/search?q=edgar+guti%c3%a9rrez) | N/A |
 | 27 | [Kendrick Lamar](http://twitter.com/search?q=Kendrick+Lamar) | N/A |
 | 28 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
-| 29 | [Duko](http://twitter.com/search?q=Duko) | N/A |
-| 30 | [taylor swift](http://twitter.com/search?q=taylor+swift) | N/A |
+| 29 | [duko](http://twitter.com/search?q=duko) | N/A |
+| 30 | [Taylor Swift](http://twitter.com/search?q=Taylor+Swift) | N/A |
 | 31 | [Coca Cola](http://twitter.com/search?q=Coca+Cola) | N/A |
 | 32 | [puerto San José](http://twitter.com/search?q=puerto+San+Jos%c3%a9) | N/A |
-| 33 | [Línea](http://twitter.com/search?q=L%c3%adnea) | N/A |
+| 33 | [línea](http://twitter.com/search?q=l%c3%adnea) | N/A |
 | 34 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
 | 35 | [ASTRO](http://twitter.com/search?q=ASTRO) | N/A |
 | 36 | [Cállese](http://twitter.com/search?q=C%c3%a1llese) | N/A |
@@ -55,7 +55,7 @@ This is top 50 for Guatemala
 | 38 | [Bruno Mars](http://twitter.com/search?q=Bruno+Mars) | Bruno Mars is the stage name of American singer-songwriter Peter Gene Hernandez. He is known for his soulful, pop-influenced music and his wide range of musical styles, including R&B, funk, reggae, hip hop, and pop. |
 | 39 | [Mario Aníbal González](http://twitter.com/search?q=Mario+An%c3%adbal+Gonz%c3%a1lez) | N/A |
 | 40 | [Calzada Roosevelt](http://twitter.com/search?q=Calzada+Roosevelt) | N/A |
-| 41 | [CONFIAR](http://twitter.com/search?q=CONFIAR) | N/A |
+| 41 | [Confiar](http://twitter.com/search?q=Confiar) | N/A |
 | 42 | [Mac Miller](http://twitter.com/search?q=Mac+Miller) | N/A |
 | 43 | [Ferxxo](http://twitter.com/search?q=Ferxxo) | Ferxxo is a slang term used in Spanish-speaking countries to describe someone who is cool, stylish, and fashionable. It can also be used to describe someone who is confident and outgoing. In English, it could be translated as "cool cat" or "trendsetter". |
 | 44 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |

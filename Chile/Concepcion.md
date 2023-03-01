@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Concepcion
 
-📆 Last Updated: `2023-03-01 08:16:44 UTC`
+📆 Last Updated: `2023-03-01 09:16:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,9 +16,9 @@ This is top 50 for [Chile](</Chile>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Orsini](http://twitter.com/search?q=Orsini) | Orsini is an Italian surname derived from the Latin name Ursinus, meaning "bear-like". It is most commonly associated with the powerful Orsini family of Rome, who were influential in Italian politics during the Middle Ages and Renaissance. |
-| 2 | [Independiente del Valle](http://twitter.com/search?q=Independiente+del+Valle) | N/A |
-| 3 | [Neme](http://twitter.com/search?q=Neme) | N/A |
-| 4 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
+| 2 | [Neme](http://twitter.com/search?q=Neme) | N/A |
+| 3 | [Independiente del Valle](http://twitter.com/search?q=Independiente+del+Valle) | N/A |
+| 4 | [flamengo](http://twitter.com/search?q=flamengo) | N/A |
 | 5 | [Daniela Aranguiz](http://twitter.com/search?q=Daniela+Aranguiz) | N/A |
 | 6 | [#SquidCraft2](http://twitter.com/search?q=%23SquidCraft2) | N/A |
 | 7 | [#RecopaSudamericana](http://twitter.com/search?q=%23RecopaSudamericana) | N/A |
@@ -28,17 +28,17 @@ This is top 50 for [Chile](</Chile>)
 | 11 | [#yosoychv](http://twitter.com/search?q=%23yosoychv) | N/A |
 | 12 | [Thiem](http://twitter.com/search?q=Thiem) | Thiem is a surname of German origin. It is derived from the Old German word "diem" meaning "people". The name is most commonly found in Germany, Austria, and Switzerland. |
 | 13 | [Chili](http://twitter.com/search?q=Chili) | N/A |
-| 14 | [#meaculpaentvn](http://twitter.com/search?q=%23meaculpaentvn) | N/A |
+| 14 | [#chileopenxtntsports](http://twitter.com/search?q=%23chileopenxtntsports) | N/A |
 | 15 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 16 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 17 | [Vidal](http://twitter.com/search?q=Vidal) | Vidal is a Spanish surname derived from the Latin name Vitalis, which means “life”. It is also a French surname derived from the Latin name Vidallus, which means “woodland”. |
-| 18 | [Krassnoff](http://twitter.com/search?q=Krassnoff) | N/A |
-| 19 | [Garin](http://twitter.com/search?q=Garin) | N/A |
-| 20 | [Gabigol](http://twitter.com/search?q=Gabigol) | Gabigol is a nickname given to Brazilian footballer Gabriel Barbosa, who currently plays for Flamengo. The nickname is a combination of his first name, Gabriel, and the Portuguese word for goal, gol. In English, the nickname translates to "Gabriel Goal". |
-| 21 | [Angie](http://twitter.com/search?q=Angie) | N/A |
-| 22 | [Allende](http://twitter.com/search?q=Allende) | N/A |
-| 23 | [Matías Fernández](http://twitter.com/search?q=Mat%c3%adas+Fern%c3%a1ndez) | N/A |
-| 24 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
+| 17 | [krassnoff](http://twitter.com/search?q=krassnoff) | N/A |
+| 18 | [Garin](http://twitter.com/search?q=Garin) | N/A |
+| 19 | [Gabigol](http://twitter.com/search?q=Gabigol) | Gabigol is a nickname given to Brazilian footballer Gabriel Barbosa, who currently plays for Flamengo. The nickname is a combination of his first name, Gabriel, and the Portuguese word for goal, gol. In English, the nickname translates to "Gabriel Goal". |
+| 20 | [Angie](http://twitter.com/search?q=Angie) | N/A |
+| 21 | [Allende](http://twitter.com/search?q=Allende) | N/A |
+| 22 | [matías fernández](http://twitter.com/search?q=mat%c3%adas+fern%c3%a1ndez) | N/A |
+| 23 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
+| 24 | [Vidal](http://twitter.com/search?q=Vidal) | Vidal is a Spanish surname derived from the Latin name Vitalis, which means “life”. It is also a French surname derived from the Latin name Vidallus, which means “woodland”. |
 | 25 | [Cerro Porteño](http://twitter.com/search?q=Cerro+Porte%c3%b1o) | N/A |
 | 26 | [Pinochet](http://twitter.com/search?q=Pinochet) | N/A |
 | 27 | [Maracaná](http://twitter.com/search?q=Maracan%c3%a1) | N/A |
@@ -50,16 +50,16 @@ This is top 50 for [Chile](</Chile>)
 | 33 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
 | 34 | [Vlado](http://twitter.com/search?q=Vlado) | N/A |
 | 35 | [Wactor](http://twitter.com/search?q=Wactor) | N/A |
-| 36 | [Eme Bus](http://twitter.com/search?q=Eme+Bus) | N/A |
-| 37 | [LATE LATE SHOW WITH TXT](http://twitter.com/search?q=LATE+LATE+SHOW+WITH+TXT) | N/A |
-| 38 | [twenty one pilots](http://twitter.com/search?q=twenty+one+pilots) | N/A |
-| 39 | [Henry Boys](http://twitter.com/search?q=Henry+Boys) | N/A |
-| 40 | [Olimpia](http://twitter.com/search?q=Olimpia) | N/A |
-| 41 | [Bolivia](http://twitter.com/search?q=Bolivia) | Bolivia is a country located in South America. It is bordered by Brazil, Paraguay, Argentina, Chile, and Peru. The name Bolivia comes from Simón Bolívar, a Venezuelan leader who helped lead several South American countries to independence from Spain in the early 19th century. The official language of Bolivia is Spanish. |
+| 36 | [Henry Boys](http://twitter.com/search?q=Henry+Boys) | N/A |
+| 37 | [Eme Bus](http://twitter.com/search?q=Eme+Bus) | N/A |
+| 38 | [late late show with txt](http://twitter.com/search?q=late+late+show+with+txt) | N/A |
+| 39 | [twenty one pilots](http://twitter.com/search?q=twenty+one+pilots) | N/A |
+| 40 | [Bolivia](http://twitter.com/search?q=Bolivia) | Bolivia is a country located in South America. It is bordered by Brazil, Paraguay, Argentina, Chile, and Peru. The name Bolivia comes from Simón Bolívar, a Venezuelan leader who helped lead several South American countries to independence from Spain in the early 19th century. The official language of Bolivia is Spanish. |
+| 41 | [Olimpia](http://twitter.com/search?q=Olimpia) | N/A |
 | 42 | [Peñarol](http://twitter.com/search?q=Pe%c3%b1arol) | Peñarol is a Uruguayan sports club based in Montevideo. It is best known for its football team, which plays in the Uruguayan Primera División and is one of the most successful clubs in South America. The name Peñarol comes from the Peñarol neighborhood of Montevideo, where the club was founded in 1891. In English, it translates to "Rock Hill". |
-| 43 | [varillas](http://twitter.com/search?q=varillas) | N/A |
+| 43 | [Varillas](http://twitter.com/search?q=Varillas) | Varillas is a Spanish word that means "rods" or "bars". It is used to refer to metal rods or bars, usually made of steel, that are used in construction and other applications. |
 | 44 | [Avanzamos](http://twitter.com/search?q=Avanzamos) | N/A |
-| 45 | [MOONBIN](http://twitter.com/search?q=MOONBIN) | N/A |
+| 45 | [moonbin](http://twitter.com/search?q=moonbin) | N/A |
 | 46 | [tabilo](http://twitter.com/search?q=tabilo) | N/A |
 | 47 | [Arrascaeta](http://twitter.com/search?q=Arrascaeta) | Arrascaeta is a Spanish word that means "to tear away" or "to rip off." It is often used to describe a situation in which something is taken away quickly and forcefully. |
 | 48 | [Chacarero](http://twitter.com/search?q=Chacarero) | N/A |

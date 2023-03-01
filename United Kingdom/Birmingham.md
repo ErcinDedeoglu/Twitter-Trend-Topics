@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Birmingham
 
-📆 Last Updated: `2023-03-01 08:16:38 UTC`
+📆 Last Updated: `2023-03-01 09:15:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [St David](http://twitter.com/search?q=St+David) | N/A |
-| 2 | [Hancock](http://twitter.com/search?q=Hancock) | N/A |
-| 3 | [Northern Ireland](http://twitter.com/search?q=Northern+Ireland) | N/A |
-| 4 | [#DyddGŵylDewiHapus](http://twitter.com/search?q=%23DyddG%c5%b5ylDewiHapus) | N/A |
-| 5 | [Welsh](http://twitter.com/search?q=Welsh) | Welsh is a Celtic language spoken in Wales, a country in the United Kingdom. It is closely related to Cornish and Breton, two other Celtic languages. The Welsh language has its own unique alphabet and grammar, and is an official language of Wales. Its meaning in English is "of or relating to Wales or its people, language, or culture". |
-| 6 | [Casey](http://twitter.com/search?q=Casey) | Casey is a unisex name of Irish origin, derived from the Gaelic Cathasaigh, meaning “brave” or “vigilant.” It is also a popular surname in the United States. |
-| 7 | [Jessie](http://twitter.com/search?q=Jessie) | N/A |
-| 8 | [Brexit](http://twitter.com/search?q=Brexit) | Brexit is a shorthand way of referring to the UK's decision to leave the European Union (EU). It is a portmanteau of the words "British" and "exit". The term was first used in 2012 when Prime Minister David Cameron promised to hold a referendum on Britain's membership of the EU. On June 23, 2016, the UK voted to leave the EU, and Brexit officially began on March 29, 2019. |
-| 9 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
-| 10 | [#EarlyBiz](http://twitter.com/search?q=%23EarlyBiz) | N/A |
-| 11 | [#FACup](http://twitter.com/search?q=%23FACup) | #FACup is an abbreviation for the Football Association Challenge Cup, which is an annual knockout football competition in England. It is the oldest football competition in the world and is open to all teams from the top four tiers of English football. |
-| 12 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
-| 13 | [Daily Quordle 401](http://twitter.com/search?q=Daily+Quordle+401) | N/A |
-| 14 | [Oakeshott](http://twitter.com/search?q=Oakeshott) | N/A |
-| 15 | [#FFBWednesday](http://twitter.com/search?q=%23FFBWednesday) | N/A |
-| 16 | [Sunak](http://twitter.com/search?q=Sunak) | N/A |
+| 1 | [Jessie](http://twitter.com/search?q=Jessie) | N/A |
+| 2 | [Casey](http://twitter.com/search?q=Casey) | Casey is a unisex name of Irish origin, derived from the Gaelic Cathasaigh, meaning “brave” or “vigilant.” It is also a popular surname in the United States. |
+| 3 | [#gtfc](http://twitter.com/search?q=%23gtfc) | N/A |
+| 4 | [Mando](http://twitter.com/search?q=Mando) | N/A |
+| 5 | [Gove](http://twitter.com/search?q=Gove) | Gove is a surname of English origin. It is derived from the Old English word "gof," meaning "a smith or metalworker." The name is most commonly found in the United Kingdom, particularly in the counties of Devon and Cornwall. |
+| 6 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
+| 7 | [St David](http://twitter.com/search?q=St+David) | N/A |
+| 8 | [Hancock](http://twitter.com/search?q=Hancock) | N/A |
+| 9 | [#DyddGŵylDewiHapus](http://twitter.com/search?q=%23DyddG%c5%b5ylDewiHapus) | N/A |
+| 10 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
+| 11 | [Oakeshott](http://twitter.com/search?q=Oakeshott) | N/A |
+| 12 | [Saint David](http://twitter.com/search?q=Saint+David) | N/A |
+| 13 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 14 | [Lord Bethell](http://twitter.com/search?q=Lord+Bethell) | N/A |
+| 15 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
+| 16 | [Telegraph](http://twitter.com/search?q=Telegraph) | N/A |
 | 17 | [Happy New Month](http://twitter.com/search?q=Happy+New+Month) | Happy New Month is a phrase used to express good wishes for the start of a new month. It is typically used as a greeting or salutation to friends, family, and colleagues. The phrase is usually accompanied by wishes for health, happiness, and success in the upcoming month. |
-| 18 | [Windsor Framework](http://twitter.com/search?q=Windsor+Framework) | N/A |
-| 19 | [Telegraph](http://twitter.com/search?q=Telegraph) | N/A |
-| 20 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
-| 21 | [Wordle 620 X](http://twitter.com/search?q=Wordle+620+X) | N/A |
-| 22 | [Single Market](http://twitter.com/search?q=Single+Market) | N/A |
-| 23 | [Steve Baker](http://twitter.com/search?q=Steve+Baker) | N/A |
-| 24 | [Bristol City](http://twitter.com/search?q=Bristol+City) | N/A |
-| 25 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
-| 26 | [Tinubu](http://twitter.com/search?q=Tinubu) | N/A |
-| 27 | [White Rabbits](http://twitter.com/search?q=White+Rabbits) | N/A |
-| 28 | [Claudia](http://twitter.com/search?q=Claudia) | Claudia is a female given name of Latin origin, derived from the Roman clan name Claudius. It means "lame" or "disabled". |
-| 29 | [Rosie](http://twitter.com/search?q=Rosie) | N/A |
-| 30 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 31 | [Amartey](http://twitter.com/search?q=Amartey) | N/A |
-| 32 | [Midazolam](http://twitter.com/search?q=Midazolam) | N/A |
-| 33 | [Northern Lights](http://twitter.com/search?q=Northern+Lights) | N/A |
-| 34 | [Alex Scott](http://twitter.com/search?q=Alex+Scott) | N/A |
-| 35 | [UK and EU](http://twitter.com/search?q=UK+and+EU) | N/A |
-| 36 | [Maxwell](http://twitter.com/search?q=Maxwell) | N/A |
-| 37 | [Scotland and Wales](http://twitter.com/search?q=Scotland+and+Wales) | N/A |
-| 38 | [Meslier](http://twitter.com/search?q=Meslier) | N/A |
-| 39 | [Rutter](http://twitter.com/search?q=Rutter) | N/A |
-| 40 | [Pogba](http://twitter.com/search?q=Pogba) | Pogba is a nickname for the French professional footballer Paul Pogba. It is derived from his last name and is often used as a term of endearment by his fans. |
-| 41 | [Frogmore](http://twitter.com/search?q=Frogmore) | N/A |
-| 42 | [Covid](http://twitter.com/search?q=Covid) | N/A |
-| 43 | [Chris Whitty](http://twitter.com/search?q=Chris+Whitty) | N/A |
-| 44 | [Sanam](http://twitter.com/search?q=Sanam) | N/A |
-| 45 | [Soumare](http://twitter.com/search?q=Soumare) | N/A |
-| 46 | [Japa](http://twitter.com/search?q=Japa) | N/A |
-| 47 | [Jacqui Smith](http://twitter.com/search?q=Jacqui+Smith) | N/A |
-| 48 | [HAPPY BIRTHDAY SAPNAP](http://twitter.com/search?q=HAPPY+BIRTHDAY+SAPNAP) | N/A |
-| 49 | [Betty Boothroyd](http://twitter.com/search?q=Betty+Boothroyd) | N/A |
-| 50 | [Blackburn](http://twitter.com/search?q=Blackburn) | N/A |
+| 18 | [Happy 1st of March](http://twitter.com/search?q=Happy+1st+of+March) | N/A |
+| 19 | [Daily Quordle 401](http://twitter.com/search?q=Daily+Quordle+401) | N/A |
+| 20 | [Tinubu](http://twitter.com/search?q=Tinubu) | N/A |
+| 21 | [White Rabbits](http://twitter.com/search?q=White+Rabbits) | N/A |
+| 22 | [Whitty](http://twitter.com/search?q=Whitty) | N/A |
+| 23 | [Midazolam](http://twitter.com/search?q=Midazolam) | N/A |
+| 24 | [Wordle 620 X](http://twitter.com/search?q=Wordle+620+X) | N/A |
+| 25 | [Frogmore](http://twitter.com/search?q=Frogmore) | N/A |
+| 26 | [Japa](http://twitter.com/search?q=Japa) | N/A |
+| 27 | [Torygraph](http://twitter.com/search?q=Torygraph) | N/A |
+| 28 | [Osborne](http://twitter.com/search?q=Osborne) | N/A |
+| 29 | [Tice](http://twitter.com/search?q=Tice) | N/A |
+| 30 | [Banks](http://twitter.com/search?q=Banks) | N/A |
+| 31 | [#r4today](http://twitter.com/search?q=%23r4today) | N/A |
+| 32 | [#March2023](http://twitter.com/search?q=%23March2023) | N/A |
+| 33 | [#Wales](http://twitter.com/search?q=%23Wales) | N/A |
+| 34 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
+| 35 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
+| 36 | [#Welsh](http://twitter.com/search?q=%23Welsh) | N/A |
+| 37 | [#FFBWednesday](http://twitter.com/search?q=%23FFBWednesday) | N/A |
+| 38 | [#lockdownfiles](http://twitter.com/search?q=%23lockdownfiles) | N/A |
+| 39 | [#EarlyBiz](http://twitter.com/search?q=%23EarlyBiz) | N/A |
+| 40 | [#RoseWednesday](http://twitter.com/search?q=%23RoseWednesday) | N/A |
+| 41 | [#Wednesdayvibe](http://twitter.com/search?q=%23Wednesdayvibe) | N/A |
+| 42 | [#vulnerable](http://twitter.com/search?q=%23vulnerable) | N/A |
+| 43 | [#INECElectionResult](http://twitter.com/search?q=%23INECElectionResult) | N/A |
+| 44 | [#Daffodils](http://twitter.com/search?q=%23Daffodils) | N/A |
+| 45 | [#WomensHistoryMonth](http://twitter.com/search?q=%23WomensHistoryMonth) | N/A |
+| 46 | [#BANvENG](http://twitter.com/search?q=%23BANvENG) | N/A |
+| 47 | [#ToriesOut237](http://twitter.com/search?q=%23ToriesOut237) | N/A |
+| 48 | [#33Thirds](http://twitter.com/search?q=%2333Thirds) | N/A |
+| 49 | [#Cymru](http://twitter.com/search?q=%23Cymru) | N/A |
+| 50 | [#WorldBookDay2023](http://twitter.com/search?q=%23WorldBookDay2023) | N/A |
 
 
 

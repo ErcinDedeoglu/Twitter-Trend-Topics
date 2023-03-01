@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guayaquil
 
-📆 Last Updated: `2023-03-01 08:16:45 UTC`
+📆 Last Updated: `2023-03-01 09:16:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,12 +17,12 @@ This is top 50 for [Ecuador](</Ecuador>)
 | ------- | ------------ | ------------ |
 | 1 | [#RecopaSudamericana](http://twitter.com/search?q=%23RecopaSudamericana) | N/A |
 | 2 | [Independiente del Valle](http://twitter.com/search?q=Independiente+del+Valle) | N/A |
-| 3 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
+| 3 | [flamengo](http://twitter.com/search?q=flamengo) | N/A |
 | 4 | [Maracaná](http://twitter.com/search?q=Maracan%c3%a1) | N/A |
 | 5 | [Hoyos](http://twitter.com/search?q=Hoyos) | Hoyos is a Spanish word meaning "holes". It can refer to physical holes in the ground or figuratively to a situation that is difficult to get out of. |
 | 6 | [Gabigol](http://twitter.com/search?q=Gabigol) | Gabigol is a nickname given to Brazilian footballer Gabriel Barbosa, who currently plays for Flamengo. The nickname is a combination of his first name, Gabriel, and the Portuguese word for goal, gol. In English, the nickname translates to "Gabriel Goal". |
-| 7 | [Luisa Espinoza](http://twitter.com/search?q=Luisa+Espinoza) | N/A |
-| 8 | [Vidal](http://twitter.com/search?q=Vidal) | Vidal is a Spanish surname derived from the Latin name Vitalis, which means “life”. It is also a French surname derived from the Latin name Vidallus, which means “woodland”. |
+| 7 | [Vidal](http://twitter.com/search?q=Vidal) | Vidal is a Spanish surname derived from the Latin name Vitalis, which means “life”. It is also a French surname derived from the Latin name Vidallus, which means “woodland”. |
+| 8 | [Luisa Espinoza](http://twitter.com/search?q=Luisa+Espinoza) | N/A |
 | 9 | [Ramírez](http://twitter.com/search?q=Ram%c3%adrez) | N/A |
 | 10 | [Kevin Rodríguez](http://twitter.com/search?q=Kevin+Rodr%c3%adguez) | N/A |
 | 11 | [Pellerano](http://twitter.com/search?q=Pellerano) | N/A |
@@ -35,7 +35,7 @@ This is top 50 for [Ecuador](</Ecuador>)
 | 18 | [Traición a la Patria](http://twitter.com/search?q=Traici%c3%b3n+a+la+Patria) | N/A |
 | 19 | [Landazuri](http://twitter.com/search?q=Landazuri) | N/A |
 | 20 | [Costa Rica](http://twitter.com/search?q=Costa+Rica) | N/A |
-| 21 | [Beder Caicedo](http://twitter.com/search?q=Beder+Caicedo) | N/A |
+| 21 | [beder caicedo](http://twitter.com/search?q=beder+caicedo) | N/A |
 | 22 | [Carabajal](http://twitter.com/search?q=Carabajal) | N/A |
 | 23 | [Sornoza](http://twitter.com/search?q=Sornoza) | N/A |
 | 24 | [De Arrascaeta](http://twitter.com/search?q=De+Arrascaeta) | N/A |
@@ -47,7 +47,7 @@ This is top 50 for [Ecuador](</Ecuador>)
 | 30 | [4pelagatos](http://twitter.com/search?q=4pelagatos) | N/A |
 | 31 | [Influencer](http://twitter.com/search?q=Influencer) | N/A |
 | 32 | [Orgullo Ecuatoriano](http://twitter.com/search?q=Orgullo+Ecuatoriano) | N/A |
-| 33 | [Lautaro Díaz](http://twitter.com/search?q=Lautaro+D%c3%adaz) | N/A |
+| 33 | [lautaro díaz](http://twitter.com/search?q=lautaro+d%c3%adaz) | N/A |
 | 34 | [sauces 5](http://twitter.com/search?q=sauces+5) | N/A |
 | 35 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
 | 36 | [Schunke](http://twitter.com/search?q=Schunke) | N/A |
@@ -56,15 +56,15 @@ This is top 50 for [Ecuador](</Ecuador>)
 | 39 | [felicidades idv](http://twitter.com/search?q=felicidades+idv) | N/A |
 | 40 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
 | 41 | [Alexandra](http://twitter.com/search?q=Alexandra) | N/A |
-| 42 | [#juiciopolítico](http://twitter.com/search?q=%23juiciopol%c3%adtico) | N/A |
-| 43 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
-| 44 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
-| 45 | [Eduardo Mendúa](http://twitter.com/search?q=Eduardo+Mend%c3%baa) | N/A |
-| 46 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 47 | [Alfaro](http://twitter.com/search?q=Alfaro) | N/A |
-| 48 | [Modelo](http://twitter.com/search?q=Modelo) | N/A |
-| 49 | [Velez](http://twitter.com/search?q=Velez) | N/A |
-| 50 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 42 | [Rey de Copas](http://twitter.com/search?q=Rey+de+Copas) | N/A |
+| 43 | [#juiciopolítico](http://twitter.com/search?q=%23juiciopol%c3%adtico) | N/A |
+| 44 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
+| 45 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 46 | [eduardo mendúa](http://twitter.com/search?q=eduardo+mend%c3%baa) | N/A |
+| 47 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
+| 48 | [Alfaro](http://twitter.com/search?q=Alfaro) | N/A |
+| 49 | [Modelo](http://twitter.com/search?q=Modelo) | N/A |
+| 50 | [Velez](http://twitter.com/search?q=Velez) | N/A |
 
 
 

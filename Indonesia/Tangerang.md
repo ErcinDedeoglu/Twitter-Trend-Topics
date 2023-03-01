@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tangerang
 
-📆 Last Updated: `2023-03-01 08:16:57 UTC`
+📆 Last Updated: `2023-03-01 09:16:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,49 +15,54 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Lengkapnya Di Dekade 08](http://twitter.com/search?q=Lengkapnya+Di+Dekade+08) | N/A |
-| 2 | [Cuma Prabowo PalingPas](http://twitter.com/search?q=Cuma+Prabowo+PalingPas) | N/A |
+| 1 | [Cuma Prabowo PalingPas](http://twitter.com/search?q=Cuma+Prabowo+PalingPas) | N/A |
+| 2 | [Lengkapnya Di Dekade 08](http://twitter.com/search?q=Lengkapnya+Di+Dekade+08) | N/A |
 | 3 | [Nyaman Bersama Prabowo](http://twitter.com/search?q=Nyaman+Bersama+Prabowo) | N/A |
-| 4 | [Bapak Prabowo Subianto](http://twitter.com/search?q=Bapak+Prabowo+Subianto) | N/A |
-| 5 | [Prabowo Fokus Serius](http://twitter.com/search?q=Prabowo+Fokus+Serius) | N/A |
+| 4 | [Maret](http://twitter.com/search?q=Maret) | N/A |
+| 5 | [Bapak Prabowo Subianto](http://twitter.com/search?q=Bapak+Prabowo+Subianto) | N/A |
 | 6 | [#TAEHYUNGxSiminvest](http://twitter.com/search?q=%23TAEHYUNGxSiminvest) | N/A |
-| 7 | [SIMINVEST AMBASSADOR V](http://twitter.com/search?q=SIMINVEST+AMBASSADOR+V) | N/A |
-| 8 | [KIM TAEHYUNG FOR SIMINVEST](http://twitter.com/search?q=KIM+TAEHYUNG+FOR+SIMINVEST) | N/A |
-| 9 | [#ShareTheEpic](http://twitter.com/search?q=%23ShareTheEpic) | N/A |
-| 10 | [#23EpicNightShot](http://twitter.com/search?q=%2323EpicNightShot) | N/A |
-| 11 | [Ultra 5G](http://twitter.com/search?q=Ultra+5G) | N/A |
-| 12 | [KPAI](http://twitter.com/search?q=KPAI) | N/A |
-| 13 | [200MP Nightography](http://twitter.com/search?q=200MP+Nightography) | N/A |
-| 14 | [Sehun](http://twitter.com/search?q=Sehun) | N/A |
-| 15 | [Formula E](http://twitter.com/search?q=Formula+E) | N/A |
-| 16 | [Maret](http://twitter.com/search?q=Maret) | N/A |
-| 17 | [INKA](http://twitter.com/search?q=INKA) | N/A |
-| 18 | [Alkohol 96%](http://twitter.com/search?q=Alkohol+96%25) | N/A |
-| 19 | [TOGETHER FOR BUILD](http://twitter.com/search?q=TOGETHER+FOR+BUILD) | N/A |
-| 20 | [Vidi](http://twitter.com/search?q=Vidi) | N/A |
-| 21 | [Sheila Dara](http://twitter.com/search?q=Sheila+Dara) | N/A |
-| 22 | [Laura Basuki](http://twitter.com/search?q=Laura+Basuki) | N/A |
-| 23 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
-| 24 | [Rabu](http://twitter.com/search?q=Rabu) | N/A |
-| 25 | [PeduliLindungi](http://twitter.com/search?q=PeduliLindungi) | N/A |
-| 26 | [PBSI](http://twitter.com/search?q=PBSI) | N/A |
-| 27 | [3,5 Jt](http://twitter.com/search?q=3%2c5+Jt) | N/A |
-| 28 | [Chimmie](http://twitter.com/search?q=Chimmie) | N/A |
-| 29 | [LEE JENO THANK YOU](http://twitter.com/search?q=LEE+JENO+THANK+YOU) | N/A |
-| 30 | [Sumber](http://twitter.com/search?q=Sumber) | N/A |
-| 31 | [One Piece](http://twitter.com/search?q=One+Piece) | N/A |
-| 32 | [Tinkerbell](http://twitter.com/search?q=Tinkerbell) | N/A |
-| 33 | [Gubernur](http://twitter.com/search?q=Gubernur) | N/A |
-| 34 | [APBD](http://twitter.com/search?q=APBD) | N/A |
-| 35 | [#withGalaxy](http://twitter.com/search?q=%23withGalaxy) | N/A |
-| 36 | [#Zeemoversary4](http://twitter.com/search?q=%23Zeemoversary4) | N/A |
-| 37 | [#BeyourluveUnited](http://twitter.com/search?q=%23BeyourluveUnited) | N/A |
-| 38 | [#KawalDavid](http://twitter.com/search?q=%23KawalDavid) | N/A |
-| 39 | [#HappyBirthdayJustinBieber](http://twitter.com/search?q=%23HappyBirthdayJustinBieber) | N/A |
-| 40 | [#NINGNINGxVOGUEPLUS](http://twitter.com/search?q=%23NINGNINGxVOGUEPLUS) | N/A |
-| 41 | [#LosertoLoveYou](http://twitter.com/search?q=%23LosertoLoveYou) | N/A |
-| 42 | [#BeYourselfWithNINGNING](http://twitter.com/search?q=%23BeYourselfWithNINGNING) | N/A |
-| 43 | [#BlibliCariTeman](http://twitter.com/search?q=%23BlibliCariTeman) | N/A |
+| 7 | [#BLK2023](http://twitter.com/search?q=%23BLK2023) | N/A |
+| 8 | [#withGalaxy](http://twitter.com/search?q=%23withGalaxy) | N/A |
+| 9 | [KPAI](http://twitter.com/search?q=KPAI) | N/A |
+| 10 | [Prabowo Fokus Serius](http://twitter.com/search?q=Prabowo+Fokus+Serius) | N/A |
+| 11 | [lazbeauty mua masterclass](http://twitter.com/search?q=lazbeauty+mua+masterclass) | N/A |
+| 12 | [Mengangkat](http://twitter.com/search?q=Mengangkat) | N/A |
+| 13 | [IyaBetul Mending Prabowo](http://twitter.com/search?q=IyaBetul+Mending+Prabowo) | N/A |
+| 14 | [Temukan Di Dekade 08](http://twitter.com/search?q=Temukan+Di+Dekade+08) | N/A |
+| 15 | [Prabowo Utamakan Persatuan](http://twitter.com/search?q=Prabowo+Utamakan+Persatuan) | N/A |
+| 16 | [Ultra 5G](http://twitter.com/search?q=Ultra+5G) | N/A |
+| 17 | [PBSI](http://twitter.com/search?q=PBSI) | N/A |
+| 18 | [make up artis](http://twitter.com/search?q=make+up+artis) | N/A |
+| 19 | [Sulawesi Sambut AHY](http://twitter.com/search?q=Sulawesi+Sambut+AHY) | N/A |
+| 20 | [Februari](http://twitter.com/search?q=Februari) | Februari is the second month of the year in the Gregorian calendar. In English, it is spelled February. |
+| 21 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 22 | [Vidi](http://twitter.com/search?q=Vidi) | N/A |
+| 23 | [Jam 5](http://twitter.com/search?q=Jam+5) | N/A |
+| 24 | [Sehun](http://twitter.com/search?q=Sehun) | N/A |
+| 25 | [Formula E](http://twitter.com/search?q=Formula+E) | N/A |
+| 26 | [Chimmie](http://twitter.com/search?q=Chimmie) | N/A |
+| 27 | [LEE JENO THANK YOU](http://twitter.com/search?q=LEE+JENO+THANK+YOU) | N/A |
+| 28 | [Alkohol 96%](http://twitter.com/search?q=Alkohol+96%25) | N/A |
+| 29 | [ROVER IS COMING](http://twitter.com/search?q=ROVER+IS+COMING) | N/A |
+| 30 | [INKA](http://twitter.com/search?q=INKA) | N/A |
+| 31 | [200MP Nightography](http://twitter.com/search?q=200MP+Nightography) | N/A |
+| 32 | [marline hariman](http://twitter.com/search?q=marline+hariman) | N/A |
+| 33 | [ryan ogilvy](http://twitter.com/search?q=ryan+ogilvy) | N/A |
+| 34 | [bubah alfian](http://twitter.com/search?q=bubah+alfian) | N/A |
+| 35 | [3,5 Jt](http://twitter.com/search?q=3%2c5+Jt) | N/A |
+| 36 | [Tinkerbell](http://twitter.com/search?q=Tinkerbell) | N/A |
+| 37 | [Indra Bekti](http://twitter.com/search?q=Indra+Bekti) | N/A |
+| 38 | [TOGETHER FOR BUILD](http://twitter.com/search?q=TOGETHER+FOR+BUILD) | N/A |
+| 39 | [Series 5G](http://twitter.com/search?q=Series+5G) | N/A |
+| 40 | [PGEO](http://twitter.com/search?q=PGEO) | N/A |
+| 41 | [PeduliLindungi](http://twitter.com/search?q=PeduliLindungi) | N/A |
+| 42 | [perjalanan sebuah mahakarya](http://twitter.com/search?q=perjalanan+sebuah+mahakarya) | N/A |
+| 43 | [kerja wamenhan m herindra](http://twitter.com/search?q=kerja+wamenhan+m+herindra) | N/A |
+| 44 | [loyal - beri terbaik](http://twitter.com/search?q=loyal+-+beri+terbaik) | N/A |
+| 45 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
+| 46 | [Sheila Dara](http://twitter.com/search?q=Sheila+Dara) | N/A |
+| 47 | [Kontra](http://twitter.com/search?q=Kontra) | Kontra is a German word meaning "against" or "contrary to". It is often used in the context of politics, where it implies opposition to a particular policy or action. |
+| 48 | [semangat bangkitkan umat](http://twitter.com/search?q=semangat+bangkitkan+umat) | N/A |
 
 
 

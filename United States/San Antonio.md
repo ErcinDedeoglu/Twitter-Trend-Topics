@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Antonio
 
-📆 Last Updated: `2023-03-01 08:17:21 UTC`
+📆 Last Updated: `2023-03-01 09:16:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 2 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
-| 3 | [Maxi](http://twitter.com/search?q=Maxi) | Maxi is a term used to describe a long, loose-fitting dress or skirt that reaches the ankles. It is typically made of lightweight fabrics such as cotton or linen and is often worn in warm weather. The term can also refer to a style of dress that is shorter than a maxi dress but still reaches the ankles. |
-| 4 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 5 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
+| 2 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
+| 3 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 4 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
+| 5 | [#TheBadBatch](http://twitter.com/search?q=%23TheBadBatch) | N/A |
 | 6 | [Jonathan Quick](http://twitter.com/search?q=Jonathan+Quick) | N/A |
 | 7 | [#JJK215](http://twitter.com/search?q=%23JJK215) | N/A |
 | 8 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
 | 9 | [Beetlejuice](http://twitter.com/search?q=Beetlejuice) | N/A |
-| 10 | [Blazers](http://twitter.com/search?q=Blazers) | Blazers are a type of jacket, typically with a single row of buttons and a notched lapel. They are usually made from wool or cotton and can be worn as part of a suit or as a separate item. Blazers are often associated with formal occasions, but they can also be worn casually. |
+| 10 | [#Grogu](http://twitter.com/search?q=%23Grogu) | N/A |
 | 11 | [#JJKSpoilers](http://twitter.com/search?q=%23JJKSpoilers) | N/A |
-| 12 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
-| 13 | [#MHA382](http://twitter.com/search?q=%23MHA382) | N/A |
+| 12 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
+| 13 | [Blazers](http://twitter.com/search?q=Blazers) | Blazers are a type of jacket, typically with a single row of buttons and a notched lapel. They are usually made from wool or cotton and can be worn as part of a suit or as a separate item. Blazers are often associated with formal occasions, but they can also be worn casually. |
 | 14 | [Ty Lue](http://twitter.com/search?q=Ty+Lue) | Ty Lue is the name of an American basketball coach and former player. He is currently the head coach of the Los Angeles Clippers of the National Basketball Association (NBA). The name "Ty Lue" is derived from his given name, Tyronn. |
-| 15 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 16 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 17 | [Vallas](http://twitter.com/search?q=Vallas) | N/A |
-| 18 | [Quickie](http://twitter.com/search?q=Quickie) | N/A |
-| 19 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
-| 20 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
+| 15 | [Mando](http://twitter.com/search?q=Mando) | N/A |
+| 16 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
+| 17 | [Strand](http://twitter.com/search?q=Strand) | N/A |
+| 18 | [Nimbus](http://twitter.com/search?q=Nimbus) | N/A |
+| 19 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 20 | [Quickie](http://twitter.com/search?q=Quickie) | N/A |
 | 21 | [Rob Blake](http://twitter.com/search?q=Rob+Blake) | N/A |
-| 22 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
-| 23 | [Morris](http://twitter.com/search?q=Morris) | N/A |
-| 24 | [Maki](http://twitter.com/search?q=Maki) | N/A |
-| 25 | [Wray](http://twitter.com/search?q=Wray) | N/A |
-| 26 | [Brandon Johnson](http://twitter.com/search?q=Brandon+Johnson) | N/A |
-| 27 | [HAPPY BIRTHDAY SAPNAP](http://twitter.com/search?q=HAPPY+BIRTHDAY+SAPNAP) | N/A |
-| 28 | [Ullmark](http://twitter.com/search?q=Ullmark) | N/A |
-| 29 | [Tinubu](http://twitter.com/search?q=Tinubu) | N/A |
-| 30 | [Strand](http://twitter.com/search?q=Strand) | N/A |
-| 31 | [Nimbus](http://twitter.com/search?q=Nimbus) | N/A |
-| 32 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
-| 33 | [Chauncey](http://twitter.com/search?q=Chauncey) | N/A |
-| 34 | [Orlov](http://twitter.com/search?q=Orlov) | N/A |
-| 35 | [Donte](http://twitter.com/search?q=Donte) | Donte is a given name of Italian origin, derived from the Latin name "Donatus". It is a variant of the name "Donato" and can be translated to mean "given" or "gift". |
-| 36 | [Daily Quordle 401](http://twitter.com/search?q=Daily+Quordle+401) | N/A |
-| 37 | [Pacers](http://twitter.com/search?q=Pacers) | Pacers are a type of horse used for riding, racing, and other activities. The term is derived from the Latin word pacare, which means "to lead or guide." Pacers are known for their smooth gait and ability to maintain a steady pace over long distances. |
-| 38 | [Kirishima](http://twitter.com/search?q=Kirishima) | N/A |
-| 39 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
+| 22 | [Maki](http://twitter.com/search?q=Maki) | N/A |
+| 23 | [Tinubu](http://twitter.com/search?q=Tinubu) | N/A |
+| 24 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 25 | [Vallas](http://twitter.com/search?q=Vallas) | N/A |
+| 26 | [Wray](http://twitter.com/search?q=Wray) | N/A |
+| 27 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
+| 28 | [HAPPY BIRTHDAY SAPNAP](http://twitter.com/search?q=HAPPY+BIRTHDAY+SAPNAP) | N/A |
+| 29 | [Morris](http://twitter.com/search?q=Morris) | N/A |
+| 30 | [Brandon Johnson](http://twitter.com/search?q=Brandon+Johnson) | N/A |
+| 31 | [Ullmark](http://twitter.com/search?q=Ullmark) | N/A |
+| 32 | [Daily Quordle 401](http://twitter.com/search?q=Daily+Quordle+401) | N/A |
+| 33 | [Christopher Reeve](http://twitter.com/search?q=Christopher+Reeve) | N/A |
+| 34 | [Chauncey](http://twitter.com/search?q=Chauncey) | N/A |
+| 35 | [Kaeya](http://twitter.com/search?q=Kaeya) | N/A |
+| 36 | [Donte](http://twitter.com/search?q=Donte) | Donte is a given name of Italian origin, derived from the Latin name "Donatus". It is a variant of the name "Donato" and can be translated to mean "given" or "gift". |
+| 37 | [Witch Queen](http://twitter.com/search?q=Witch+Queen) | N/A |
+| 38 | [Pacers](http://twitter.com/search?q=Pacers) | Pacers are a type of horse used for riding, racing, and other activities. The term is derived from the Latin word pacare, which means "to lead or guide." Pacers are known for their smooth gait and ability to maintain a steady pace over long distances. |
+| 39 | [Kirishima](http://twitter.com/search?q=Kirishima) | N/A |
 | 40 | [Norman Powell](http://twitter.com/search?q=Norman+Powell) | Norman Powell is a Canadian professional basketball player who currently plays for the Toronto Raptors of the National Basketball Association (NBA). His name is derived from his middle name, Norman, and his last name, Powell. |
-| 41 | [Jeremy Lin](http://twitter.com/search?q=Jeremy+Lin) | N/A |
-| 42 | [Mando](http://twitter.com/search?q=Mando) | N/A |
-| 43 | [Kaeya](http://twitter.com/search?q=Kaeya) | N/A |
-| 44 | [Grizzlies](http://twitter.com/search?q=Grizzlies) | Grizzlies are a species of large brown bears native to North America. They are typically found in mountainous regions and can weigh up to 800 pounds. The name "grizzly" comes from the silver-tipped hairs on their fur, which give them a grizzled appearance. |
-| 45 | [RoCo](http://twitter.com/search?q=RoCo) | N/A |
-| 46 | [Shaedon Sharpe](http://twitter.com/search?q=Shaedon+Sharpe) | N/A |
-| 47 | [Witch Queen](http://twitter.com/search?q=Witch+Queen) | N/A |
-| 48 | [Jaden McDaniels](http://twitter.com/search?q=Jaden+McDaniels) | N/A |
-| 49 | [MCAVOY](http://twitter.com/search?q=MCAVOY) | N/A |
-| 50 | [Bill Self](http://twitter.com/search?q=Bill+Self) | Bill Self is the head coach of the University of Kansas men's basketball team. He has been the head coach since 2003 and has led the Jayhawks to 14 consecutive Big 12 regular season championships, three Final Four appearances, and one National Championship. The phrase "Bill Self" is often used to refer to his coaching style, which emphasizes hard work, discipline, and a commitment to excellence. |
+| 41 | [Orlov](http://twitter.com/search?q=Orlov) | N/A |
+| 42 | [Avon](http://twitter.com/search?q=Avon) | N/A |
+| 43 | [Timberwolves](http://twitter.com/search?q=Timberwolves) | Timberwolves is a nickname for the Minnesota Timberwolves, a professional basketball team based in Minneapolis, Minnesota. The name was chosen to reflect the state's rich history of logging and timber production. |
+| 44 | [Shaedon Sharpe](http://twitter.com/search?q=Shaedon+Sharpe) | N/A |
+| 45 | [Jaden McDaniels](http://twitter.com/search?q=Jaden+McDaniels) | N/A |
+| 46 | [Bill Self](http://twitter.com/search?q=Bill+Self) | Bill Self is the head coach of the University of Kansas men's basketball team. He has been the head coach since 2003 and has led the Jayhawks to 14 consecutive Big 12 regular season championships, three Final Four appearances, and one National Championship. The phrase "Bill Self" is often used to refer to his coaching style, which emphasizes hard work, discipline, and a commitment to excellence. |
+| 47 | [ITS MARCH](http://twitter.com/search?q=ITS+MARCH) | N/A |
+| 48 | [Korpisalo](http://twitter.com/search?q=Korpisalo) | N/A |
+| 49 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
+| 50 | [RoCo](http://twitter.com/search?q=RoCo) | N/A |
 
 
 
