@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Milan
 
-📆 Last Updated: `2023-03-01 11:15:47 UTC`
+📆 Last Updated: `2023-03-01 12:17:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Italy](</Italy>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#JuveToro](http://twitter.com/search?q=%23JuveToro) | N/A |
-| 2 | [#TwitterDown](http://twitter.com/search?q=%23TwitterDown) | N/A |
-| 3 | [#CremoneseRoma](http://twitter.com/search?q=%23CremoneseRoma) | N/A |
+| 2 | [#JuveToro](http://twitter.com/search?q=%23JuveToro) | N/A |
+| 3 | [#JuveToro](http://twitter.com/search?q=%23JuveToro) | N/A |
 | 4 | [#1marzo](http://twitter.com/search?q=%231marzo) | N/A |
-| 5 | [#Belve](http://twitter.com/search?q=%23Belve) | N/A |
+| 5 | [#TwitterDown](http://twitter.com/search?q=%23TwitterDown) | N/A |
 | 6 | [Grecia](http://twitter.com/search?q=Grecia) | N/A |
-| 7 | [Schlein](http://twitter.com/search?q=Schlein) | N/A |
-| 8 | [Assago](http://twitter.com/search?q=Assago) | N/A |
-| 9 | [Serra](http://twitter.com/search?q=Serra) | N/A |
-| 10 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
+| 7 | [Assago](http://twitter.com/search?q=Assago) | N/A |
+| 8 | [Margherita Cassano](http://twitter.com/search?q=Margherita+Cassano) | N/A |
+| 9 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
+| 10 | [La Maura](http://twitter.com/search?q=La+Maura) | N/A |
 | 11 | [Fioroni](http://twitter.com/search?q=Fioroni) | N/A |
-| 12 | [Ed Sheeran](http://twitter.com/search?q=Ed+Sheeran) | N/A |
-| 13 | [Sala](http://twitter.com/search?q=Sala) | N/A |
-| 14 | [La Maura](http://twitter.com/search?q=La+Maura) | N/A |
-| 15 | [Eric](http://twitter.com/search?q=Eric) | Eric is a masculine given name of Old Norse origin, derived from the Old Norse name Eiríkr. It is related to the Latin name Ericus, which is derived from the Latin word for "ever-ruler". In English, Eric means "eternal ruler" or "ever-powerful". |
-| 16 | [Faouzi](http://twitter.com/search?q=Faouzi) | N/A |
-| 17 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 18 | [Renzi](http://twitter.com/search?q=Renzi) | N/A |
-| 19 | [Guardia Costiera](http://twitter.com/search?q=Guardia+Costiera) | N/A |
-| 20 | [Frontex](http://twitter.com/search?q=Frontex) | N/A |
+| 12 | [Sala](http://twitter.com/search?q=Sala) | N/A |
+| 13 | [Ma Twitter](http://twitter.com/search?q=Ma+Twitter) | N/A |
+| 14 | [Eric](http://twitter.com/search?q=Eric) | Eric is a masculine given name of Old Norse origin, derived from the Old Norse name Eiríkr. It is related to the Latin name Ericus, which is derived from the Latin word for "ever-ruler". In English, Eric means "eternal ruler" or "ever-powerful". |
+| 15 | [Guardia Costiera](http://twitter.com/search?q=Guardia+Costiera) | N/A |
+| 16 | [Frontex](http://twitter.com/search?q=Frontex) | N/A |
+| 17 | [Faouzi](http://twitter.com/search?q=Faouzi) | N/A |
+| 18 | [Mancini](http://twitter.com/search?q=Mancini) | Mancini is an Italian surname derived from the Latin name "Mantius". It is a common surname in Italy and other parts of Europe. In English, it means "son of Mantius". |
+| 19 | [Ed Sheeran](http://twitter.com/search?q=Ed+Sheeran) | N/A |
+| 20 | [Elon](http://twitter.com/search?q=Elon) | N/A |
 | 21 | [Juric](http://twitter.com/search?q=Juric) | N/A |
-| 22 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 23 | [Mancini](http://twitter.com/search?q=Mancini) | Mancini is an Italian surname derived from the Latin name "Mantius". It is a common surname in Italy and other parts of Europe. In English, it means "son of Mantius". |
-| 24 | [San Siro](http://twitter.com/search?q=San+Siro) | N/A |
-| 25 | [torino è bianconera](http://twitter.com/search?q=torino+%c3%a8+bianconera) | N/A |
-| 26 | [Murgia](http://twitter.com/search?q=Murgia) | Murgia is a geographical region in southern Italy, located in the provinces of Bari and Taranto. It is characterized by its limestone hills, deep ravines, and caves. The name Murgia comes from the Latin word murex, meaning "rocky hill". In English, Murgia can be translated as "rocky land". |
-| 27 | [Turchia](http://twitter.com/search?q=Turchia) | N/A |
-| 28 | [De Benedetti](http://twitter.com/search?q=De+Benedetti) | N/A |
-| 29 | [Buon 1](http://twitter.com/search?q=Buon+1) | N/A |
-| 30 | [Salvini](http://twitter.com/search?q=Salvini) | N/A |
-| 31 | [Rabiot](http://twitter.com/search?q=Rabiot) | N/A |
-| 32 | [Casalino](http://twitter.com/search?q=Casalino) | N/A |
-| 33 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
-| 34 | [Larissa](http://twitter.com/search?q=Larissa) | Larissa is a female given name of Greek origin, derived from the ancient city of Larissa in Thessaly, Greece. It is thought to mean "citadel" or "fortress". |
-| 35 | [Carolina Crescentini](http://twitter.com/search?q=Carolina+Crescentini) | N/A |
-| 36 | [Benvenuto Marzo](http://twitter.com/search?q=Benvenuto+Marzo) | N/A |
-| 37 | [Daniele Scardina](http://twitter.com/search?q=Daniele+Scardina) | N/A |
-| 38 | [Radonjic](http://twitter.com/search?q=Radonjic) | N/A |
-| 39 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | N/A |
-| 40 | [Baudelaire](http://twitter.com/search?q=Baudelaire) | N/A |
-| 41 | [Lollobrigida](http://twitter.com/search?q=Lollobrigida) | N/A |
-| 42 | [Dusan](http://twitter.com/search?q=Dusan) | N/A |
-| 43 | [GIVE US WN BLOOPERS](http://twitter.com/search?q=GIVE+US+WN+BLOOPERS) | N/A |
-| 44 | [Bocchino](http://twitter.com/search?q=Bocchino) | N/A |
-| 45 | [Solovyev](http://twitter.com/search?q=Solovyev) | N/A |
+| 22 | [Salvini](http://twitter.com/search?q=Salvini) | N/A |
+| 23 | [Buon 1](http://twitter.com/search?q=Buon+1) | N/A |
+| 24 | [Renzi](http://twitter.com/search?q=Renzi) | N/A |
+| 25 | [Turchia](http://twitter.com/search?q=Turchia) | N/A |
+| 26 | [San Siro](http://twitter.com/search?q=San+Siro) | N/A |
+| 27 | [Just Fontaine](http://twitter.com/search?q=Just+Fontaine) | N/A |
+| 28 | [Casalino](http://twitter.com/search?q=Casalino) | N/A |
+| 29 | ["Seguiti"](http://twitter.com/search?q=%22Seguiti%22) | N/A |
+| 30 | [Murgia](http://twitter.com/search?q=Murgia) | Murgia is a geographical region in southern Italy, located in the provinces of Bari and Taranto. It is characterized by its limestone hills, deep ravines, and caves. The name Murgia comes from the Latin word murex, meaning "rocky hill". In English, Murgia can be translated as "rocky land". |
+| 31 | [Orietta](http://twitter.com/search?q=Orietta) | Orietta is an Italian female name derived from the Latin word "aurum" meaning "gold". It is also a variant of the name Oriana, which means "dawn". |
+| 32 | [De Benedetti](http://twitter.com/search?q=De+Benedetti) | N/A |
+| 33 | [RABIOT](http://twitter.com/search?q=RABIOT) | N/A |
+| 34 | [Baudelaire](http://twitter.com/search?q=Baudelaire) | N/A |
+| 35 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
+| 36 | [Daniele Scardina](http://twitter.com/search?q=Daniele+Scardina) | N/A |
+| 37 | [Carolina Crescentini](http://twitter.com/search?q=Carolina+Crescentini) | N/A |
+| 38 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | N/A |
+| 39 | [Radonjic](http://twitter.com/search?q=Radonjic) | N/A |
+| 40 | [Benvenuto Marzo](http://twitter.com/search?q=Benvenuto+Marzo) | N/A |
+| 41 | [Il 1](http://twitter.com/search?q=Il+1) | N/A |
+| 42 | [Lollobrigida](http://twitter.com/search?q=Lollobrigida) | N/A |
+| 43 | [Pellegrini](http://twitter.com/search?q=Pellegrini) | N/A |
+| 44 | [Dusan](http://twitter.com/search?q=Dusan) | N/A |
+| 45 | [Davide](http://twitter.com/search?q=Davide) | N/A |
 | 46 | [Pupi Avati](http://twitter.com/search?q=Pupi+Avati) | N/A |
-| 47 | [Pellegrini](http://twitter.com/search?q=Pellegrini) | N/A |
-| 48 | [Corte di Cassazione](http://twitter.com/search?q=Corte+di+Cassazione) | N/A |
-| 49 | [Il 1](http://twitter.com/search?q=Il+1) | N/A |
-| 50 | [Buongiornissimo](http://twitter.com/search?q=Buongiornissimo) | N/A |
+| 47 | [TORINO È BIANCONERA](http://twitter.com/search?q=TORINO+%c3%88+BIANCONERA) | N/A |
+| 48 | [Bocchino](http://twitter.com/search?q=Bocchino) | N/A |
+| 49 | [Sanabria](http://twitter.com/search?q=Sanabria) | N/A |
+| 50 | [Solovyev](http://twitter.com/search?q=Solovyev) | N/A |
 
 
 

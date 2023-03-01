@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Istanbul
 
-📆 Last Updated: `2023-03-01 11:16:09 UTC`
+📆 Last Updated: `2023-03-01 12:18:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 2 | [İlber](http://twitter.com/search?q=%c4%b0lber) | N/A |
-| 3 | [Acele](http://twitter.com/search?q=Acele) | N/A |
-| 4 | [Seçimden](http://twitter.com/search?q=Se%c3%a7imden) | N/A |
-| 5 | [#Greece](http://twitter.com/search?q=%23Greece) | N/A |
-| 6 | [#Yunanistan](http://twitter.com/search?q=%23Yunanistan) | N/A |
-| 7 | [#2000lerinOyuAdalete](http://twitter.com/search?q=%232000lerinOyuAdalete) | N/A |
-| 8 | [#HelallikAlamazsın](http://twitter.com/search?q=%23HelallikAlamazs%c4%b1n) | N/A |
-| 9 | [#14Mayıs](http://twitter.com/search?q=%2314May%c4%b1s) | #14Mayıs is a hashtag used in Turkey to commemorate the anniversary of the Sivas Massacre, which occurred on May 14, 1993. The Sivas Massacre was a hate crime against Alevi intellectuals and artists who had gathered in the city of Sivas for a cultural festival. In English, #14Mayıs translates to “May 14th”. |
-| 10 | [Yaralarımız Sarılıyor](http://twitter.com/search?q=Yaralar%c4%b1m%c4%b1z+Sar%c4%b1l%c4%b1yor) | N/A |
+| 1 | [Elbistan](http://twitter.com/search?q=Elbistan) | N/A |
+| 2 | [#Greece](http://twitter.com/search?q=%23Greece) | N/A |
+| 3 | [#14Mayıs](http://twitter.com/search?q=%2314May%c4%b1s) | #14Mayıs is a hashtag used in Turkey to commemorate the anniversary of the Sivas Massacre, which occurred on May 14, 1993. The Sivas Massacre was a hate crime against Alevi intellectuals and artists who had gathered in the city of Sivas for a cultural festival. In English, #14Mayıs translates to “May 14th”. |
+| 4 | [#Yunanistan](http://twitter.com/search?q=%23Yunanistan) | N/A |
+| 5 | [#2000lerinOyuAdalete](http://twitter.com/search?q=%232000lerinOyuAdalete) | N/A |
+| 6 | [Behramoğlu Tutuklansın](http://twitter.com/search?q=Behramo%c4%9flu+Tutuklans%c4%b1n) | N/A |
+| 7 | [#HelallikAlamazsın](http://twitter.com/search?q=%23HelallikAlamazs%c4%b1n) | N/A |
+| 8 | [Yaralarımız Sarılıyor](http://twitter.com/search?q=Yaralar%c4%b1m%c4%b1z+Sar%c4%b1l%c4%b1yor) | N/A |
+| 9 | [SGK'dan EYT](http://twitter.com/search?q=SGK%27dan+EYT) | N/A |
+| 10 | [Teşekkürler Erdoğan](http://twitter.com/search?q=Te%c5%9fekk%c3%bcrler+Erdo%c4%9fan) | "Teşekkürler Erdoğan" is a Turkish phrase that translates to "Thank you, Erdoğan" in English. It is a polite way of expressing gratitude to the Turkish President, Recep Tayyip Erdoğan. |
 | 11 | [Yapacağız](http://twitter.com/search?q=Yapaca%c4%9f%c4%b1z) | N/A |
-| 12 | [Teşekkürler Erdoğan](http://twitter.com/search?q=Te%c5%9fekk%c3%bcrler+Erdo%c4%9fan) | "Teşekkürler Erdoğan" is a Turkish phrase that translates to "Thank you, Erdoğan" in English. It is a polite way of expressing gratitude to the Turkish President, Recep Tayyip Erdoğan. |
-| 13 | [Genel Başkanımız](http://twitter.com/search?q=Genel+Ba%c5%9fkan%c4%b1m%c4%b1z) | N/A |
-| 14 | [Hatay'da 4.8](http://twitter.com/search?q=Hatay%27da+4.8) | N/A |
-| 15 | [Gülşen](http://twitter.com/search?q=G%c3%bcl%c5%9fen) | N/A |
+| 12 | [Kürtler](http://twitter.com/search?q=K%c3%bcrtler) | N/A |
+| 13 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 14 | [Hasip](http://twitter.com/search?q=Hasip) | N/A |
+| 15 | [Genel Başkanımız](http://twitter.com/search?q=Genel+Ba%c5%9fkan%c4%b1m%c4%b1z) | N/A |
 | 16 | [Zekeriya](http://twitter.com/search?q=Zekeriya) | N/A |
 | 17 | [Tünaydın](http://twitter.com/search?q=T%c3%bcnayd%c4%b1n) | N/A |
-| 18 | [Kürtler](http://twitter.com/search?q=K%c3%bcrtler) | N/A |
-| 19 | [Orta Türkiye](http://twitter.com/search?q=Orta+T%c3%bcrkiye) | N/A |
-| 20 | [İlhan Kesici](http://twitter.com/search?q=%c4%b0lhan+Kesici) | N/A |
-| 21 | [Hasip](http://twitter.com/search?q=Hasip) | N/A |
-| 22 | [Cumhurbaşkanı Erdoğan'dan](http://twitter.com/search?q=Cumhurba%c5%9fkan%c4%b1+Erdo%c4%9fan%27dan) | N/A |
-| 23 | [Gereğini](http://twitter.com/search?q=Gere%c4%9fini) | N/A |
-| 24 | [Komşu](http://twitter.com/search?q=Kom%c5%9fu) | N/A |
-| 25 | [Tyler Dorsey](http://twitter.com/search?q=Tyler+Dorsey) | N/A |
-| 26 | [Sözcü TV](http://twitter.com/search?q=S%c3%b6zc%c3%bc+TV) | N/A |
-| 27 | [Bilgin](http://twitter.com/search?q=Bilgin) | N/A |
-| 28 | [Aday](http://twitter.com/search?q=Aday) | N/A |
-| 29 | [Gençler](http://twitter.com/search?q=Gen%c3%a7ler) | N/A |
-| 30 | [Veririm](http://twitter.com/search?q=Veririm) | N/A |
-| 31 | [Cumhurbaşkanımız Sayın](http://twitter.com/search?q=Cumhurba%c5%9fkan%c4%b1m%c4%b1z+Say%c4%b1n) | N/A |
-| 32 | [Elbistan](http://twitter.com/search?q=Elbistan) | N/A |
-| 33 | [Günaydınn](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nn) | N/A |
-| 34 | [Yeşim Salkım](http://twitter.com/search?q=Ye%c5%9fim+Salk%c4%b1m) | N/A |
-| 35 | [Ekmeleddin](http://twitter.com/search?q=Ekmeleddin) | N/A |
-| 36 | [günaydınlar](http://twitter.com/search?q=g%c3%bcnayd%c4%b1nlar) | N/A |
-| 37 | [Millet İttifakı](http://twitter.com/search?q=Millet+%c4%b0ttifak%c4%b1) | N/A |
+| 18 | [Orta Türkiye](http://twitter.com/search?q=Orta+T%c3%bcrkiye) | N/A |
+| 19 | [Hatay'da 4.8](http://twitter.com/search?q=Hatay%27da+4.8) | N/A |
+| 20 | [Gülşen](http://twitter.com/search?q=G%c3%bcl%c5%9fen) | N/A |
+| 21 | [Cumhurbaşkanı Erdoğan'dan](http://twitter.com/search?q=Cumhurba%c5%9fkan%c4%b1+Erdo%c4%9fan%27dan) | N/A |
+| 22 | [Veririm](http://twitter.com/search?q=Veririm) | N/A |
+| 23 | [Sözcü TV](http://twitter.com/search?q=S%c3%b6zc%c3%bc+TV) | N/A |
+| 24 | [Bilgin](http://twitter.com/search?q=Bilgin) | N/A |
+| 25 | [Gereğini](http://twitter.com/search?q=Gere%c4%9fini) | N/A |
+| 26 | [İlhan Kesici](http://twitter.com/search?q=%c4%b0lhan+Kesici) | N/A |
+| 27 | [Komşu](http://twitter.com/search?q=Kom%c5%9fu) | N/A |
+| 28 | [Tyler Dorsey](http://twitter.com/search?q=Tyler+Dorsey) | N/A |
+| 29 | [Kılıçdaroğlu](http://twitter.com/search?q=K%c4%b1l%c4%b1%c3%a7daro%c4%9flu) | N/A |
+| 30 | [Resmi Gazete'de](http://twitter.com/search?q=Resmi+Gazete%27de) | N/A |
+| 31 | [Gençler](http://twitter.com/search?q=Gen%c3%a7ler) | N/A |
+| 32 | [Aday](http://twitter.com/search?q=Aday) | N/A |
+| 33 | [Cumhurbaşkanımız Sayın](http://twitter.com/search?q=Cumhurba%c5%9fkan%c4%b1m%c4%b1z+Say%c4%b1n) | N/A |
+| 34 | [Acele](http://twitter.com/search?q=Acele) | N/A |
+| 35 | [Yeşim](http://twitter.com/search?q=Ye%c5%9fim) | N/A |
+| 36 | [İlber](http://twitter.com/search?q=%c4%b0lber) | N/A |
+| 37 | [Ekmeleddin](http://twitter.com/search?q=Ekmeleddin) | N/A |
 | 38 | [İndirin](http://twitter.com/search?q=%c4%b0ndirin) | N/A |
 | 39 | [Cumhur İttifakı](http://twitter.com/search?q=Cumhur+%c4%b0ttifak%c4%b1) | N/A |
-| 40 | [Wanda](http://twitter.com/search?q=Wanda) | N/A |
-| 41 | [Günaydin](http://twitter.com/search?q=G%c3%bcnaydin) | N/A |
-| 42 | [Rojbaş](http://twitter.com/search?q=Rojba%c5%9f) | N/A |
-| 43 | [Bağkur](http://twitter.com/search?q=Ba%c4%9fkur) | N/A |
-| 44 | [Altılı](http://twitter.com/search?q=Alt%c4%b1l%c4%b1) | N/A |
+| 40 | [Millet İttifakı](http://twitter.com/search?q=Millet+%c4%b0ttifak%c4%b1) | N/A |
+| 41 | [Günaydınnn](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nnn) | N/A |
+| 42 | [Bağkur](http://twitter.com/search?q=Ba%c4%9fkur) | N/A |
+| 43 | [#BizMiİstifaEdelim](http://twitter.com/search?q=%23BizMi%c4%b0stifaEdelim) | N/A |
+| 44 | [#Kykcozumdegil](http://twitter.com/search?q=%23Kykcozumdegil) | N/A |
 | 45 | [#mansuryavas](http://twitter.com/search?q=%23mansuryavas) | N/A |
-| 46 | [#BizMiİstifaEdelim](http://twitter.com/search?q=%23BizMi%c4%b0stifaEdelim) | N/A |
+| 46 | [#DepremHaftası](http://twitter.com/search?q=%23DepremHaftas%c4%b1) | N/A |
 | 47 | [#Mart](http://twitter.com/search?q=%23Mart) | N/A |
-| 48 | [#kykcozumdegil](http://twitter.com/search?q=%23kykcozumdegil) | N/A |
-| 49 | [#EYTAcilResmiGazeteye](http://twitter.com/search?q=%23EYTAcilResmiGazeteye) | N/A |
-| 50 | [#DepremHaftası](http://twitter.com/search?q=%23DepremHaftas%c4%b1) | N/A |
+| 48 | [#EYTAcilResmiGazeteye](http://twitter.com/search?q=%23EYTAcilResmiGazeteye) | N/A |
+| 49 | [#YeşilayHaftası](http://twitter.com/search?q=%23Ye%c5%9filayHaftas%c4%b1) | N/A |
+| 50 | [#GönüllerBirOlsun](http://twitter.com/search?q=%23G%c3%b6n%c3%bcllerBirOlsun) | N/A |
 
 
 

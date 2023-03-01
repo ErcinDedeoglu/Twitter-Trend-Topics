@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Elizabeth
 
-📆 Last Updated: `2023-03-01 11:16:01 UTC`
+📆 Last Updated: `2023-03-01 12:18:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [South Africa](</South Africa>)
 | ------- | ------------ | ------------ |
 | 1 | [#1LifeChangingLives](http://twitter.com/search?q=%231LifeChangingLives) | N/A |
 | 2 | [#RIPChefLentswe](http://twitter.com/search?q=%23RIPChefLentswe) | N/A |
-| 3 | [#RHODurban](http://twitter.com/search?q=%23RHODurban) | N/A |
-| 4 | [#ICanWithAbsa](http://twitter.com/search?q=%23ICanWithAbsa) | N/A |
-| 5 | [#NedbankCup](http://twitter.com/search?q=%23NedbankCup) | N/A |
-| 6 | [Stage 16](http://twitter.com/search?q=Stage+16) | N/A |
-| 7 | [David Mabuza](http://twitter.com/search?q=David+Mabuza) | N/A |
-| 8 | [Sorisha](http://twitter.com/search?q=Sorisha) | N/A |
+| 3 | [#ICanWithAbsa](http://twitter.com/search?q=%23ICanWithAbsa) | N/A |
+| 4 | [#NedbankCup](http://twitter.com/search?q=%23NedbankCup) | N/A |
+| 5 | [Stage 16](http://twitter.com/search?q=Stage+16) | N/A |
+| 6 | [#WinningWednesday](http://twitter.com/search?q=%23WinningWednesday) | N/A |
+| 7 | [Sorisha](http://twitter.com/search?q=Sorisha) | N/A |
+| 8 | [David Mabuza](http://twitter.com/search?q=David+Mabuza) | N/A |
 | 9 | [Dondol Stars FC](http://twitter.com/search?q=Dondol+Stars+FC) | N/A |
 | 10 | [Zinhle](http://twitter.com/search?q=Zinhle) | N/A |
-| 11 | [Nonku](http://twitter.com/search?q=Nonku) | N/A |
+| 11 | [ConCourt](http://twitter.com/search?q=ConCourt) | N/A |
 | 12 | [Bongz](http://twitter.com/search?q=Bongz) | N/A |
-| 13 | [Slee](http://twitter.com/search?q=Slee) | N/A |
-| 14 | [Zamani](http://twitter.com/search?q=Zamani) | N/A |
-| 15 | [Tshwane](http://twitter.com/search?q=Tshwane) | N/A |
+| 13 | [Block 4](http://twitter.com/search?q=Block+4) | N/A |
+| 14 | [High Court](http://twitter.com/search?q=High+Court) | N/A |
+| 15 | [BANK ON THABANG](http://twitter.com/search?q=BANK+ON+THABANG) | N/A |
 | 16 | [Vusi](http://twitter.com/search?q=Vusi) | N/A |
-| 17 | [BANK ON THABANG](http://twitter.com/search?q=BANK+ON+THABANG) | N/A |
-| 18 | [High Court](http://twitter.com/search?q=High+Court) | N/A |
-| 19 | [Concourt](http://twitter.com/search?q=Concourt) | N/A |
-| 20 | [blaqleng](http://twitter.com/search?q=blaqleng) | N/A |
+| 17 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
+| 18 | [Tshwane](http://twitter.com/search?q=Tshwane) | N/A |
+| 19 | [blaqleng](http://twitter.com/search?q=blaqleng) | N/A |
+| 20 | [Zamani](http://twitter.com/search?q=Zamani) | N/A |
 | 21 | [Happy New Month](http://twitter.com/search?q=Happy+New+Month) | Happy New Month is a phrase used to express good wishes for the start of a new month. It is typically used as a greeting or salutation to friends, family, and colleagues. The phrase is usually accompanied by wishes for health, happiness, and success in the upcoming month. |
-| 22 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
-| 23 | [Tower](http://twitter.com/search?q=Tower) | N/A |
+| 22 | [Nonku](http://twitter.com/search?q=Nonku) | N/A |
+| 23 | [Nightography](http://twitter.com/search?q=Nightography) | N/A |
 | 24 | [Cope](http://twitter.com/search?q=Cope) | N/A |
-| 25 | [Chapman](http://twitter.com/search?q=Chapman) | N/A |
-| 26 | [VOTE KHOSICLE](http://twitter.com/search?q=VOTE+KHOSICLE) | N/A |
-| 27 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 28 | [Annie](http://twitter.com/search?q=Annie) | N/A |
-| 29 | [Royals](http://twitter.com/search?q=Royals) | N/A |
-| 30 | [Apartheid](http://twitter.com/search?q=Apartheid) | N/A |
-| 31 | [Constitutional Court](http://twitter.com/search?q=Constitutional+Court) | N/A |
-| 32 | [Cassper](http://twitter.com/search?q=Cassper) | N/A |
-| 33 | [Capable](http://twitter.com/search?q=Capable) | N/A |
-| 34 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 25 | [VOTE KHOSICLE](http://twitter.com/search?q=VOTE+KHOSICLE) | N/A |
+| 26 | [Slee](http://twitter.com/search?q=Slee) | N/A |
+| 27 | [Chapman](http://twitter.com/search?q=Chapman) | N/A |
+| 28 | [Tower](http://twitter.com/search?q=Tower) | N/A |
+| 29 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 30 | [VOTE ROYALS](http://twitter.com/search?q=VOTE+ROYALS) | N/A |
+| 31 | [The Constitutional Court](http://twitter.com/search?q=The+Constitutional+Court) | N/A |
+| 32 | [Mbule](http://twitter.com/search?q=Mbule) | N/A |
+| 33 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 34 | [cassper](http://twitter.com/search?q=cassper) | N/A |
 | 35 | [4th of March](http://twitter.com/search?q=4th+of+March) | N/A |
-| 36 | [Mbule](http://twitter.com/search?q=Mbule) | N/A |
+| 36 | [Annie](http://twitter.com/search?q=Annie) | N/A |
 | 37 | [thabang the hot topic](http://twitter.com/search?q=thabang+the+hot+topic) | N/A |
-| 38 | [Kanaiva](http://twitter.com/search?q=Kanaiva) | N/A |
+| 38 | [Apartheid](http://twitter.com/search?q=Apartheid) | N/A |
 | 39 | [Ebubu](http://twitter.com/search?q=Ebubu) | Ebubu is a Nigerian language spoken by the Ebubu people in Rivers State, Nigeria. It is a dialect of the Igbo language and its meaning in English is "people". |
-| 40 | [Mbali](http://twitter.com/search?q=Mbali) | N/A |
-| 41 | [Museveni](http://twitter.com/search?q=Museveni) | N/A |
-| 42 | [Member of Parliament](http://twitter.com/search?q=Member+of+Parliament) | N/A |
-| 43 | [Sane](http://twitter.com/search?q=Sane) | N/A |
-| 44 | [West Indies](http://twitter.com/search?q=West+Indies) | N/A |
-| 45 | [Tsatsi](http://twitter.com/search?q=Tsatsi) | N/A |
-| 46 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 47 | [Calvin](http://twitter.com/search?q=Calvin) | N/A |
-| 48 | [Gerald Coetzee](http://twitter.com/search?q=Gerald+Coetzee) | N/A |
-| 49 | [State Security](http://twitter.com/search?q=State+Security) | N/A |
+| 40 | [Capable](http://twitter.com/search?q=Capable) | N/A |
+| 41 | [Calvin](http://twitter.com/search?q=Calvin) | N/A |
+| 42 | [Phala Phala](http://twitter.com/search?q=Phala+Phala) | N/A |
+| 43 | [Noxolo Grootboom](http://twitter.com/search?q=Noxolo+Grootboom) | N/A |
+| 44 | [Afghans](http://twitter.com/search?q=Afghans) | N/A |
+| 45 | [Aiden Markram](http://twitter.com/search?q=Aiden+Markram) | N/A |
+| 46 | [Bola Tinubu](http://twitter.com/search?q=Bola+Tinubu) | N/A |
+| 47 | [Member of Parliament](http://twitter.com/search?q=Member+of+Parliament) | N/A |
+| 48 | [Museveni](http://twitter.com/search?q=Museveni) | N/A |
+| 49 | [Tsatsi](http://twitter.com/search?q=Tsatsi) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zurich
 
-📆 Last Updated: `2023-03-01 11:15:50 UTC`
+📆 Last Updated: `2023-03-01 12:17:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 1 | [#HRC52](http://twitter.com/search?q=%23HRC52) | N/A |
 | 2 | [Gesetze](http://twitter.com/search?q=Gesetze) | N/A |
 | 3 | [#JuveToro](http://twitter.com/search?q=%23JuveToro) | N/A |
-| 4 | [#kohlanta](http://twitter.com/search?q=%23kohlanta) | N/A |
+| 4 | [#KohLanta](http://twitter.com/search?q=%23KohLanta) | N/A |
 | 5 | [#Windisch](http://twitter.com/search?q=%23Windisch) | N/A |
 | 6 | [#TPMP](http://twitter.com/search?q=%23TPMP) | #TPMP stands for Touche Pas à Mon Poste, which is a French television show. In English, it translates to "Don't Touch My Post". The show is a talk show that focuses on current events and pop culture. |
-| 7 | [Kündigung](http://twitter.com/search?q=K%c3%bcndigung) | N/A |
+| 7 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 8 | [Mieter](http://twitter.com/search?q=Mieter) | N/A |
-| 9 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 10 | [Frühling](http://twitter.com/search?q=Fr%c3%bchling) | N/A |
-| 11 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
-| 12 | [Reform](http://twitter.com/search?q=Reform) | N/A |
-| 13 | [Filter](http://twitter.com/search?q=Filter) | N/A |
+| 9 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
+| 10 | [Kündigung](http://twitter.com/search?q=K%c3%bcndigung) | N/A |
+| 11 | [Mund](http://twitter.com/search?q=Mund) | N/A |
+| 12 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
+| 13 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
 | 14 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
-| 15 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 16 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
-| 17 | [Sozialhilfe](http://twitter.com/search?q=Sozialhilfe) | N/A |
+| 15 | [Sozialhilfe](http://twitter.com/search?q=Sozialhilfe) | N/A |
+| 16 | [Asylanten](http://twitter.com/search?q=Asylanten) | N/A |
+| 17 | [Kriegsverbrechen](http://twitter.com/search?q=Kriegsverbrechen) | N/A |
 | 18 | [Fachkräftemangel](http://twitter.com/search?q=Fachkr%c3%a4ftemangel) | N/A |
-| 19 | [Asylanten](http://twitter.com/search?q=Asylanten) | N/A |
-| 20 | [Verbote](http://twitter.com/search?q=Verbote) | N/A |
-| 21 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 22 | [Moderator](http://twitter.com/search?q=Moderator) | N/A |
-| 23 | [Geschäft](http://twitter.com/search?q=Gesch%c3%a4ft) | N/A |
-| 24 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
-| 25 | [Mund](http://twitter.com/search?q=Mund) | N/A |
-| 26 | [Alex](http://twitter.com/search?q=Alex) | N/A |
-| 27 | [Träume](http://twitter.com/search?q=Tr%c3%a4ume) | N/A |
-| 28 | [Vergewaltigungen](http://twitter.com/search?q=Vergewaltigungen) | N/A |
-| 29 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 30 | [République](http://twitter.com/search?q=R%c3%a9publique) | N/A |
-| 31 | [Agenda](http://twitter.com/search?q=Agenda) | N/A |
-| 32 | [Schritt](http://twitter.com/search?q=Schritt) | N/A |
-| 33 | [DeFi](http://twitter.com/search?q=DeFi) | N/A |
-| 34 | [Montagnier](http://twitter.com/search?q=Montagnier) | N/A |
-| 35 | [Maul](http://twitter.com/search?q=Maul) | N/A |
-| 36 | [Eier](http://twitter.com/search?q=Eier) | N/A |
-| 37 | [Human Rights Council](http://twitter.com/search?q=Human+Rights+Council) | N/A |
-| 38 | [Milano](http://twitter.com/search?q=Milano) | Milano is the Italian name for the city of Milan, which is the second-largest city in Italy and the capital of Lombardy. In English, it is simply referred to as Milan. |
-| 39 | [Kriegsverbrechen](http://twitter.com/search?q=Kriegsverbrechen) | N/A |
-| 40 | [Schwester](http://twitter.com/search?q=Schwester) | N/A |
-| 41 | [Ausnahme](http://twitter.com/search?q=Ausnahme) | N/A |
-| 42 | [Hilona](http://twitter.com/search?q=Hilona) | N/A |
-| 43 | [Asylpolitik](http://twitter.com/search?q=Asylpolitik) | N/A |
-| 44 | [März 2023](http://twitter.com/search?q=M%c3%a4rz+2023) | N/A |
-| 45 | [Aargau](http://twitter.com/search?q=Aargau) | N/A |
-| 46 | [Elden Ring](http://twitter.com/search?q=Elden+Ring) | N/A |
-| 47 | [David](http://twitter.com/search?q=David) | N/A |
-| 48 | [Espagne](http://twitter.com/search?q=Espagne) | N/A |
-| 49 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
-| 50 | [Ständerat](http://twitter.com/search?q=St%c3%a4nderat) | N/A |
+| 19 | [Alex](http://twitter.com/search?q=Alex) | N/A |
+| 20 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 21 | [Moderator](http://twitter.com/search?q=Moderator) | N/A |
+| 22 | [Fasnacht](http://twitter.com/search?q=Fasnacht) | N/A |
+| 23 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
+| 24 | [Filter](http://twitter.com/search?q=Filter) | N/A |
+| 25 | [Verbote](http://twitter.com/search?q=Verbote) | N/A |
+| 26 | [Montagnier](http://twitter.com/search?q=Montagnier) | N/A |
+| 27 | [République](http://twitter.com/search?q=R%c3%a9publique) | N/A |
+| 28 | [Hilona](http://twitter.com/search?q=Hilona) | N/A |
+| 29 | [DeFi](http://twitter.com/search?q=DeFi) | N/A |
+| 30 | [Gewissen](http://twitter.com/search?q=Gewissen) | N/A |
+| 31 | [aargau](http://twitter.com/search?q=aargau) | N/A |
+| 32 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 33 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
+| 34 | [Träume](http://twitter.com/search?q=Tr%c3%a4ume) | N/A |
+| 35 | [Espagne](http://twitter.com/search?q=Espagne) | N/A |
+| 36 | [Schwester](http://twitter.com/search?q=Schwester) | N/A |
+| 37 | [Mamma](http://twitter.com/search?q=Mamma) | N/A |
+| 38 | [Vorlage](http://twitter.com/search?q=Vorlage) | N/A |
+| 39 | [David](http://twitter.com/search?q=David) | N/A |
+| 40 | [Julien](http://twitter.com/search?q=Julien) | N/A |
+| 41 | [Asylpolitik](http://twitter.com/search?q=Asylpolitik) | N/A |
+| 42 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 43 | [Recherche](http://twitter.com/search?q=Recherche) | N/A |
+| 44 | [Human Rights Council](http://twitter.com/search?q=Human+Rights+Council) | N/A |
+| 45 | [isabel garcia](http://twitter.com/search?q=isabel+garcia) | N/A |
+| 46 | [März 2023](http://twitter.com/search?q=M%c3%a4rz+2023) | N/A |
+| 47 | [Northern Ireland](http://twitter.com/search?q=Northern+Ireland) | N/A |
+| 48 | [Elly Schlein](http://twitter.com/search?q=Elly+Schlein) | N/A |
+| 49 | [Africa](http://twitter.com/search?q=Africa) | N/A |
+| 50 | [Herausforderungen](http://twitter.com/search?q=Herausforderungen) | N/A |
 
 
 

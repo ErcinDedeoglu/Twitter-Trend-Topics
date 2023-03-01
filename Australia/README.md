@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Australia
 
-📆 Last Updated: `2023-03-01 11:16:18 UTC`
+📆 Last Updated: `2023-03-01 12:18:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Australia
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MAFSAU](http://twitter.com/search?q=%23MAFSAU) | N/A |
-| 2 | [#TwitterDown](http://twitter.com/search?q=%23TwitterDown) | N/A |
-| 3 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
+| 1 | [#TwitterDown](http://twitter.com/search?q=%23TwitterDown) | N/A |
+| 2 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
+| 3 | [#MAFSAU](http://twitter.com/search?q=%23MAFSAU) | N/A |
 | 4 | [Evelyn](http://twitter.com/search?q=Evelyn) | N/A |
-| 5 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
-| 6 | [Tayla](http://twitter.com/search?q=Tayla) | N/A |
-| 7 | [Welcome to Twitter](http://twitter.com/search?q=Welcome+to+Twitter) | N/A |
-| 8 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 9 | [Sandy](http://twitter.com/search?q=Sandy) | N/A |
-| 10 | [#superannuation](http://twitter.com/search?q=%23superannuation) | N/A |
-| 11 | [Jadeja](http://twitter.com/search?q=Jadeja) | N/A |
-| 12 | [Kochie](http://twitter.com/search?q=Kochie) | N/A |
-| 13 | [Claire](http://twitter.com/search?q=Claire) | N/A |
+| 5 | [Welcome to Twitter](http://twitter.com/search?q=Welcome+to+Twitter) | N/A |
+| 6 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
+| 7 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 8 | [Tayla](http://twitter.com/search?q=Tayla) | N/A |
+| 9 | [#superannuation](http://twitter.com/search?q=%23superannuation) | N/A |
+| 10 | [Kochie](http://twitter.com/search?q=Kochie) | N/A |
+| 11 | [Sandy](http://twitter.com/search?q=Sandy) | N/A |
+| 12 | [Jadeja](http://twitter.com/search?q=Jadeja) | N/A |
+| 13 | [Autumn](http://twitter.com/search?q=Autumn) | N/A |
 | 14 | [Angus Taylor](http://twitter.com/search?q=Angus+Taylor) | N/A |
-| 15 | [Autumn](http://twitter.com/search?q=Autumn) | N/A |
+| 15 | [The Project](http://twitter.com/search?q=The+Project) | N/A |
 | 16 | [Melinda](http://twitter.com/search?q=Melinda) | N/A |
-| 17 | [Marnus](http://twitter.com/search?q=Marnus) | N/A |
-| 18 | [The Project](http://twitter.com/search?q=The+Project) | N/A |
-| 19 | [Khawaja](http://twitter.com/search?q=Khawaja) | N/A |
-| 20 | [Warren Mundine](http://twitter.com/search?q=Warren+Mundine) | N/A |
-| 21 | [Indore](http://twitter.com/search?q=Indore) | N/A |
-| 22 | [Bridget Archer](http://twitter.com/search?q=Bridget+Archer) | N/A |
-| 23 | [Stuart Robert](http://twitter.com/search?q=Stuart+Robert) | N/A |
-| 24 | [Chalmers](http://twitter.com/search?q=Chalmers) | N/A |
-| 25 | [musolino](http://twitter.com/search?q=musolino) | N/A |
-| 26 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
-| 27 | [Ronni](http://twitter.com/search?q=Ronni) | Ronni is a female given name, derived from the name Veronica. It is a diminutive form of the name, and can be used as a nickname. The meaning of Ronni in English is "true image". |
-| 28 | [Starc](http://twitter.com/search?q=Starc) | N/A |
-| 29 | [Kuhnemann](http://twitter.com/search?q=Kuhnemann) | N/A |
-| 30 | [0.5% of Australians](http://twitter.com/search?q=0.5%25+of+Australians) | N/A |
-| 31 | [Ashwin](http://twitter.com/search?q=Ashwin) | Ashwin is a Hindu name derived from Sanskrit, meaning "lord of the horse". It is often used as a given name for boys in India. |
-| 32 | [Frogmore](http://twitter.com/search?q=Frogmore) | N/A |
-| 33 | [Double Bay](http://twitter.com/search?q=Double+Bay) | N/A |
-| 34 | [Sarah Ferguson](http://twitter.com/search?q=Sarah+Ferguson) | N/A |
-| 35 | [Mohammed](http://twitter.com/search?q=Mohammed) | N/A |
-| 36 | [Rohit](http://twitter.com/search?q=Rohit) | Rohit is a Hindu name derived from Sanskrit, meaning "red" or "sun". It is commonly used as a male name in India. |
-| 37 | [Prue](http://twitter.com/search?q=Prue) | N/A |
-| 38 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 39 | [BCCI](http://twitter.com/search?q=BCCI) | N/A |
-| 40 | [Father Bob](http://twitter.com/search?q=Father+Bob) | N/A |
-| 41 | [Nitin Menon](http://twitter.com/search?q=Nitin+Menon) | N/A |
-| 42 | [Allegra](http://twitter.com/search?q=Allegra) | N/A |
-| 43 | [Steve Smith](http://twitter.com/search?q=Steve+Smith) | Steve Smith is a common English name. It does not have any particular meaning in English. |
-| 44 | [Warwick Farm](http://twitter.com/search?q=Warwick+Farm) | N/A |
-| 45 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
-| 46 | [Rachel](http://twitter.com/search?q=Rachel) | N/A |
-| 47 | [Kohli](http://twitter.com/search?q=Kohli) | Kohli is a surname of Indian origin. It is derived from the Sanskrit word “Kul”, meaning clan or family. The name is most commonly associated with the Kohli clan of North India, which is one of the oldest clans in India. |
-| 48 | [Rupert Murdoch](http://twitter.com/search?q=Rupert+Murdoch) | N/A |
+| 17 | [Bridget Archer](http://twitter.com/search?q=Bridget+Archer) | N/A |
+| 18 | [Warren Mundine](http://twitter.com/search?q=Warren+Mundine) | N/A |
+| 19 | [Indore](http://twitter.com/search?q=Indore) | N/A |
+| 20 | [Khawaja](http://twitter.com/search?q=Khawaja) | N/A |
+| 21 | [Stuart Robert](http://twitter.com/search?q=Stuart+Robert) | N/A |
+| 22 | [Chalmers](http://twitter.com/search?q=Chalmers) | N/A |
+| 23 | [Musolino](http://twitter.com/search?q=Musolino) | N/A |
+| 24 | [Ronni](http://twitter.com/search?q=Ronni) | Ronni is a female given name, derived from the name Veronica. It is a diminutive form of the name, and can be used as a nickname. The meaning of Ronni in English is "true image". |
+| 25 | [Kuhnemann](http://twitter.com/search?q=Kuhnemann) | N/A |
+| 26 | [Starc](http://twitter.com/search?q=Starc) | N/A |
+| 27 | [Frogmore](http://twitter.com/search?q=Frogmore) | N/A |
+| 28 | [0.5% of Australians](http://twitter.com/search?q=0.5%25+of+Australians) | N/A |
+| 29 | [Mohammed](http://twitter.com/search?q=Mohammed) | N/A |
+| 30 | [Ashwin](http://twitter.com/search?q=Ashwin) | Ashwin is a Hindu name derived from Sanskrit, meaning "lord of the horse". It is often used as a given name for boys in India. |
+| 31 | [Prue](http://twitter.com/search?q=Prue) | N/A |
+| 32 | [BCCI](http://twitter.com/search?q=BCCI) | N/A |
+| 33 | [Marnus](http://twitter.com/search?q=Marnus) | N/A |
+| 34 | [Rohit](http://twitter.com/search?q=Rohit) | Rohit is a Hindu name derived from Sanskrit, meaning "red" or "sun". It is commonly used as a male name in India. |
+| 35 | [Claire](http://twitter.com/search?q=Claire) | N/A |
+| 36 | [Double Bay](http://twitter.com/search?q=Double+Bay) | N/A |
+| 37 | [For You](http://twitter.com/search?q=For+You) | N/A |
+| 38 | [Lisa Wilkinson](http://twitter.com/search?q=Lisa+Wilkinson) | N/A |
+| 39 | [Father Bob](http://twitter.com/search?q=Father+Bob) | N/A |
+| 40 | [Nitin Menon](http://twitter.com/search?q=Nitin+Menon) | N/A |
+| 41 | [Allegra](http://twitter.com/search?q=Allegra) | N/A |
+| 42 | [Steve Smith](http://twitter.com/search?q=Steve+Smith) | Steve Smith is a common English name. It does not have any particular meaning in English. |
+| 43 | [Rachel](http://twitter.com/search?q=Rachel) | N/A |
+| 44 | [Sarah Ferguson](http://twitter.com/search?q=Sarah+Ferguson) | N/A |
+| 45 | [warwick farm](http://twitter.com/search?q=warwick+farm) | N/A |
+| 46 | [Bankstown](http://twitter.com/search?q=Bankstown) | N/A |
+| 47 | [Rupert Murdoch](http://twitter.com/search?q=Rupert+Murdoch) | N/A |
+| 48 | [Kohli](http://twitter.com/search?q=Kohli) | Kohli is a surname of Indian origin. It is derived from the Sanskrit word “Kul”, meaning clan or family. The name is most commonly associated with the Kohli clan of North India, which is one of the oldest clans in India. |
 | 49 | [Dutton](http://twitter.com/search?q=Dutton) | N/A |
-| 50 | [AFLW](http://twitter.com/search?q=AFLW) | N/A |
+| 50 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
 
 
 

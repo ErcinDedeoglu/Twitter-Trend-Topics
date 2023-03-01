@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indonesia
 
-📆 Last Updated: `2023-03-01 11:16:20 UTC`
+📆 Last Updated: `2023-03-01 12:18:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,48 @@ This is top 50 for Indonesia
 | ------- | ------------ | ------------ |
 | 1 | [Asuransi AIA](http://twitter.com/search?q=Asuransi+AIA) | N/A |
 | 2 | [#ROAR1stWin](http://twitter.com/search?q=%23ROAR1stWin) | N/A |
-| 3 | [Cuma Prabowo PalingPas](http://twitter.com/search?q=Cuma+Prabowo+PalingPas) | N/A |
-| 4 | [Nyaman Bersama Prabowo](http://twitter.com/search?q=Nyaman+Bersama+Prabowo) | N/A |
-| 5 | [Lengkapnya Di Dekade 08](http://twitter.com/search?q=Lengkapnya+Di+Dekade+08) | N/A |
-| 6 | [Maret](http://twitter.com/search?q=Maret) | N/A |
-| 7 | [Bapak Prabowo Subianto](http://twitter.com/search?q=Bapak+Prabowo+Subianto) | N/A |
-| 8 | [#THEBOYZ18thWin](http://twitter.com/search?q=%23THEBOYZ18thWin) | N/A |
-| 9 | [#PerindoHadirBantuRakyat](http://twitter.com/search?q=%23PerindoHadirBantuRakyat) | N/A |
-| 10 | [#BLK2023](http://twitter.com/search?q=%23BLK2023) | N/A |
-| 11 | [Angela Tanoesoedibjo](http://twitter.com/search?q=Angela+Tanoesoedibjo) | N/A |
-| 12 | [#withGalaxy](http://twitter.com/search?q=%23withGalaxy) | N/A |
-| 13 | [Hary Tanoesoedibjo](http://twitter.com/search?q=Hary+Tanoesoedibjo) | Hary Tanoesoedibjo is the name of an Indonesian businessman and politician. In English, it means "Hary the Great Leader". |
-| 14 | [KPAI](http://twitter.com/search?q=KPAI) | N/A |
-| 15 | [lazbeauty mua masterclass](http://twitter.com/search?q=lazbeauty+mua+masterclass) | N/A |
-| 16 | [Ini Twitter](http://twitter.com/search?q=Ini+Twitter) | N/A |
-| 17 | [Prabowo Fokus Serius](http://twitter.com/search?q=Prabowo+Fokus+Serius) | N/A |
-| 18 | [PBSI](http://twitter.com/search?q=PBSI) | N/A |
-| 19 | [iyabetul mending prabowo](http://twitter.com/search?q=iyabetul+mending+prabowo) | N/A |
-| 20 | [temukan di dekade 08](http://twitter.com/search?q=temukan+di+dekade+08) | N/A |
-| 21 | [Mengangkat](http://twitter.com/search?q=Mengangkat) | N/A |
-| 22 | [prabowo utamakan persatuan](http://twitter.com/search?q=prabowo+utamakan+persatuan) | N/A |
-| 23 | [Formula E](http://twitter.com/search?q=Formula+E) | N/A |
-| 24 | [Vidi](http://twitter.com/search?q=Vidi) | N/A |
-| 25 | [Februari](http://twitter.com/search?q=Februari) | Februari is the second month of the year in the Gregorian calendar. In English, it is spelled February. |
-| 26 | [Jam 5](http://twitter.com/search?q=Jam+5) | N/A |
-| 27 | [Chimmie](http://twitter.com/search?q=Chimmie) | N/A |
-| 28 | [Alkohol 96%](http://twitter.com/search?q=Alkohol+96%25) | N/A |
-| 29 | [200MP Nightography](http://twitter.com/search?q=200MP+Nightography) | N/A |
-| 30 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 31 | [INKA](http://twitter.com/search?q=INKA) | N/A |
-| 32 | [marline hariman](http://twitter.com/search?q=marline+hariman) | N/A |
-| 33 | [LEE JENO THANK YOU](http://twitter.com/search?q=LEE+JENO+THANK+YOU) | N/A |
-| 34 | [ROVER IS COMING](http://twitter.com/search?q=ROVER+IS+COMING) | N/A |
-| 35 | [ryan ogilvy](http://twitter.com/search?q=ryan+ogilvy) | N/A |
-| 36 | [bubah alfian](http://twitter.com/search?q=bubah+alfian) | N/A |
-| 37 | [3,5 Jt](http://twitter.com/search?q=3%2c5+Jt) | N/A |
-| 38 | [Sheila Dara](http://twitter.com/search?q=Sheila+Dara) | N/A |
-| 39 | [PeduliLindungi](http://twitter.com/search?q=PeduliLindungi) | N/A |
-| 40 | [Tinkerbell](http://twitter.com/search?q=Tinkerbell) | N/A |
-| 41 | [Sulawesi Sambut AHY](http://twitter.com/search?q=Sulawesi+Sambut+AHY) | N/A |
-| 42 | [perjalanan sebuah mahakarya](http://twitter.com/search?q=perjalanan+sebuah+mahakarya) | N/A |
-| 43 | [TOGETHER FOR BUILD](http://twitter.com/search?q=TOGETHER+FOR+BUILD) | N/A |
-| 44 | [SatuSehat](http://twitter.com/search?q=SatuSehat) | N/A |
-| 45 | [kontra](http://twitter.com/search?q=kontra) | N/A |
-| 46 | [Indra Bekti](http://twitter.com/search?q=Indra+Bekti) | N/A |
-| 47 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
-| 48 | [semangat bangkitkan umat](http://twitter.com/search?q=semangat+bangkitkan+umat) | N/A |
-| 49 | [prabowo sang patriot](http://twitter.com/search?q=prabowo+sang+patriot) | N/A |
-| 50 | [Gubernurnya](http://twitter.com/search?q=Gubernurnya) | N/A |
+| 3 | [#THEBOYZ18thWin](http://twitter.com/search?q=%23THEBOYZ18thWin) | N/A |
+| 4 | [Ini Twitter](http://twitter.com/search?q=Ini+Twitter) | N/A |
+| 5 | [KPAI](http://twitter.com/search?q=KPAI) | N/A |
+| 6 | [#MoonlightChickenEP7](http://twitter.com/search?q=%23MoonlightChickenEP7) | N/A |
+| 7 | [#LISAXCELINE](http://twitter.com/search?q=%23LISAXCELINE) | N/A |
+| 8 | [#BAZAARSGxLISA](http://twitter.com/search?q=%23BAZAARSGxLISA) | N/A |
+| 9 | [Angela Tanoesoedibjo](http://twitter.com/search?q=Angela+Tanoesoedibjo) | N/A |
+| 10 | [Hary Tanoesoedibjo](http://twitter.com/search?q=Hary+Tanoesoedibjo) | Hary Tanoesoedibjo is the name of an Indonesian businessman and politician. In English, it means "Hary the Great Leader". |
+| 11 | [Sulawesi Sambut AHY](http://twitter.com/search?q=Sulawesi+Sambut+AHY) | N/A |
+| 12 | [KIM TAEHYUNG FOR SIMINVEST](http://twitter.com/search?q=KIM+TAEHYUNG+FOR+SIMINVEST) | N/A |
+| 13 | [Ultra 5G](http://twitter.com/search?q=Ultra+5G) | N/A |
+| 14 | [Sehun](http://twitter.com/search?q=Sehun) | N/A |
+| 15 | [BI Fast](http://twitter.com/search?q=BI+Fast) | N/A |
+| 16 | [Vidi](http://twitter.com/search?q=Vidi) | N/A |
+| 17 | [200MP Nightography](http://twitter.com/search?q=200MP+Nightography) | N/A |
+| 18 | [Formula E](http://twitter.com/search?q=Formula+E) | N/A |
+| 19 | [Alkohol 96%](http://twitter.com/search?q=Alkohol+96%25) | N/A |
+| 20 | [Sheila Dara](http://twitter.com/search?q=Sheila+Dara) | N/A |
+| 21 | [Zoro](http://twitter.com/search?q=Zoro) | N/A |
+| 22 | [Rabu](http://twitter.com/search?q=Rabu) | N/A |
+| 23 | [Kaeya](http://twitter.com/search?q=Kaeya) | N/A |
+| 24 | [PBSI](http://twitter.com/search?q=PBSI) | N/A |
+| 25 | [3,5 Jt](http://twitter.com/search?q=3%2c5+Jt) | N/A |
+| 26 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
+| 27 | [PeduliLindungi](http://twitter.com/search?q=PeduliLindungi) | N/A |
+| 28 | [Maret 2023](http://twitter.com/search?q=Maret+2023) | N/A |
+| 29 | [UU ITE](http://twitter.com/search?q=UU+ITE) | N/A |
+| 30 | [INKA](http://twitter.com/search?q=INKA) | N/A |
+| 31 | [One Piece](http://twitter.com/search?q=One+Piece) | N/A |
+| 32 | [#PerindoHadirBantuRakyat](http://twitter.com/search?q=%23PerindoHadirBantuRakyat) | N/A |
+| 33 | [#CELINEBYHEDISLIMANE](http://twitter.com/search?q=%23CELINEBYHEDISLIMANE) | N/A |
+| 34 | [#GOSE_isGoingBack](http://twitter.com/search?q=%23GOSE_isGoingBack) | N/A |
+| 35 | [#TAEHYUNGxSiminvest](http://twitter.com/search?q=%23TAEHYUNGxSiminvest) | N/A |
+| 36 | [#TDS2inJAKARTA](http://twitter.com/search?q=%23TDS2inJAKARTA) | #TDS2inJAKARTA is a hashtag used to promote the second edition of The Digital Summit (TDS) in Jakarta, Indonesia. It is an event that brings together digital professionals from around the world to discuss the latest trends and technologies in the digital space. |
+| 37 | [#DemokratBersamaRakyat](http://twitter.com/search?q=%23DemokratBersamaRakyat) | N/A |
+| 38 | [#TimnasDay](http://twitter.com/search?q=%23TimnasDay) | #TimnasDay is a hashtag used by Indonesian football fans to celebrate the national team, Timnas Indonesia. The hashtag is used to share photos, videos, and messages of support for the team. In English, #TimnasDay translates to "Indonesian National Team Day". |
+| 39 | [#ShareTheEpic](http://twitter.com/search?q=%23ShareTheEpic) | N/A |
+| 40 | [#23EpicNightShot](http://twitter.com/search?q=%2323EpicNightShot) | N/A |
+| 41 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 42 | [#withGalaxy](http://twitter.com/search?q=%23withGalaxy) | N/A |
+| 43 | [#KawalDavid](http://twitter.com/search?q=%23KawalDavid) | N/A |
+| 44 | [#BlibliCariTeman](http://twitter.com/search?q=%23BlibliCariTeman) | N/A |
 
 
 

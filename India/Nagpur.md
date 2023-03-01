@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nagpur
 
-📆 Last Updated: `2023-03-01 11:16:05 UTC`
+📆 Last Updated: `2023-03-01 12:18:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [India](</India>)
 | ------- | ------------ | ------------ |
 | 1 | [#TwitterDown](http://twitter.com/search?q=%23TwitterDown) | N/A |
 | 2 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
-| 3 | [#AajShopsyKiyaKya](http://twitter.com/search?q=%23AajShopsyKiyaKya) | N/A |
+| 3 | [#realmecare](http://twitter.com/search?q=%23realmecare) | N/A |
 | 4 | [#ZwigatoTrailer](http://twitter.com/search?q=%23ZwigatoTrailer) | N/A |
-| 5 | [#realmeCare](http://twitter.com/search?q=%23realmeCare) | N/A |
-| 6 | [Jadeja](http://twitter.com/search?q=Jadeja) | N/A |
-| 7 | [B. Night Portrait](http://twitter.com/search?q=B.+Night+Portrait) | N/A |
-| 8 | [Kapil Sharma](http://twitter.com/search?q=Kapil+Sharma) | N/A |
-| 9 | [Khawaja](http://twitter.com/search?q=Khawaja) | N/A |
-| 10 | [B. Aura Light](http://twitter.com/search?q=B.+Aura+Light) | N/A |
-| 11 | [FCRA](http://twitter.com/search?q=FCRA) | N/A |
-| 12 | [Ashwin](http://twitter.com/search?q=Ashwin) | Ashwin is a Hindu name derived from Sanskrit, meaning "lord of the horse". It is often used as a given name for boys in India. |
+| 5 | [#MissShettyMrPolishetty](http://twitter.com/search?q=%23MissShettyMrPolishetty) | N/A |
+| 6 | [B. Night Portrait](http://twitter.com/search?q=B.+Night+Portrait) | N/A |
+| 7 | [Centre for Policy Research](http://twitter.com/search?q=Centre+for+Policy+Research) | N/A |
+| 8 | [FCRA](http://twitter.com/search?q=FCRA) | N/A |
+| 9 | [B. Aura Light](http://twitter.com/search?q=B.+Aura+Light) | N/A |
+| 10 | [Khawaja](http://twitter.com/search?q=Khawaja) | N/A |
+| 11 | [स्मृति ईरानी](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%ae%e0%a5%83%e0%a4%a4%e0%a4%bf+%e0%a4%88%e0%a4%b0%e0%a4%be%e0%a4%a8%e0%a5%80) | N/A |
+| 12 | [Cambridge](http://twitter.com/search?q=Cambridge) | N/A |
 | 13 | [A. 3D Curved Display](http://twitter.com/search?q=A.+3D+Curved+Display) | N/A |
-| 14 | [Zurvan](http://twitter.com/search?q=Zurvan) | N/A |
-| 15 | [SIMINVEST AMBASSADOR V](http://twitter.com/search?q=SIMINVEST+AMBASSADOR+V) | N/A |
+| 14 | [D. Fluorite AG Glass](http://twitter.com/search?q=D.+Fluorite+AG+Glass) | N/A |
+| 15 | [A. MediaTek Dimensity 8200](http://twitter.com/search?q=A.+MediaTek+Dimensity+8200) | N/A |
 | 16 | [KIM TAEHYUNG FOR SIMINVEST](http://twitter.com/search?q=KIM+TAEHYUNG+FOR+SIMINVEST) | N/A |
-| 17 | [D. Fluorite AG Glass](http://twitter.com/search?q=D.+Fluorite+AG+Glass) | N/A |
+| 17 | [SIMINVEST AMBASSADOR V](http://twitter.com/search?q=SIMINVEST+AMBASSADOR+V) | N/A |
 | 18 | [Labuschagne](http://twitter.com/search?q=Labuschagne) | N/A |
-| 19 | [स्मृति ईरानी](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%ae%e0%a5%83%e0%a4%a4%e0%a4%bf+%e0%a4%88%e0%a4%b0%e0%a4%be%e0%a4%a8%e0%a5%80) | N/A |
-| 20 | [मनमोहन यादव](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a8%e0%a4%ae%e0%a5%8b%e0%a4%b9%e0%a4%a8+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
-| 21 | [Axar](http://twitter.com/search?q=Axar) | Axar is a Sanskrit word meaning “axis” or “pole.” It is used in Hinduism to refer to the central point of the universe, around which all other things revolve. In modern usage, it can also refer to a person or thing that serves as a focal point for others. |
-| 22 | [सौरभ भारद्वाज](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8c%e0%a4%b0%e0%a4%ad+%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a6%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%9c) | N/A |
+| 19 | [मनमोहन यादव](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a8%e0%a4%ae%e0%a5%8b%e0%a4%b9%e0%a4%a8+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
+| 20 | [Zurvan](http://twitter.com/search?q=Zurvan) | N/A |
+| 21 | [Jaddu](http://twitter.com/search?q=Jaddu) | N/A |
+| 22 | [Siraj](http://twitter.com/search?q=Siraj) | Siraj is an Arabic name meaning "lamp" or "light". It is also used as a surname. |
 | 23 | [कैंब्रिज यूनिवर्सिटी](http://twitter.com/search?q=%e0%a4%95%e0%a5%88%e0%a4%82%e0%a4%ac%e0%a5%8d%e0%a4%b0%e0%a4%bf%e0%a4%9c+%e0%a4%af%e0%a5%82%e0%a4%a8%e0%a4%bf%e0%a4%b5%e0%a4%b0%e0%a5%8d%e0%a4%b8%e0%a4%bf%e0%a4%9f%e0%a5%80) | N/A |
-| 24 | [मुख्यमंत्री श्री नीतीश कुमार](http://twitter.com/search?q=%e0%a4%ae%e0%a5%81%e0%a4%96%e0%a5%8d%e0%a4%af%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%a8%e0%a5%80%e0%a4%a4%e0%a5%80%e0%a4%b6+%e0%a4%95%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%b0) | N/A |
-| 25 | [वित्त मंत्री श्री](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%a4%e0%a5%8d%e0%a4%a4+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 26 | [Jaddu](http://twitter.com/search?q=Jaddu) | N/A |
-| 27 | [Siraj](http://twitter.com/search?q=Siraj) | Siraj is an Arabic name meaning "lamp" or "light". It is also used as a surname. |
-| 28 | [उत्तम स्वास्थ्य](http://twitter.com/search?q=%e0%a4%89%e0%a4%a4%e0%a5%8d%e0%a4%a4%e0%a4%ae+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a5%8d%e0%a4%af) | N/A |
-| 29 | [Rohit](http://twitter.com/search?q=Rohit) | Rohit is a Hindu name derived from Sanskrit, meaning "red" or "sun". It is commonly used as a male name in India. |
-| 30 | [Holi](http://twitter.com/search?q=Holi) | N/A |
-| 31 | [3 Days Left For Bodh Diwas](http://twitter.com/search?q=3+Days+Left+For+Bodh+Diwas) | N/A |
-| 32 | [Rs 50](http://twitter.com/search?q=Rs+50) | N/A |
-| 33 | [MountBlanc Turned 2PicnicSpot](http://twitter.com/search?q=MountBlanc+Turned+2PicnicSpot) | N/A |
-| 34 | [Tamil Nadu](http://twitter.com/search?q=Tamil+Nadu) | N/A |
-| 35 | [नागरिक सुरक्षा](http://twitter.com/search?q=%e0%a4%a8%e0%a4%be%e0%a4%97%e0%a4%b0%e0%a4%bf%e0%a4%95+%e0%a4%b8%e0%a5%81%e0%a4%b0%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be) | N/A |
-| 36 | [साध्वी निरंजन ज्योति](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%a7%e0%a5%8d%e0%a4%b5%e0%a5%80+%e0%a4%a8%e0%a4%bf%e0%a4%b0%e0%a4%82%e0%a4%9c%e0%a4%a8+%e0%a4%9c%e0%a5%8d%e0%a4%af%e0%a5%8b%e0%a4%a4%e0%a4%bf) | N/A |
-| 37 | [शिवराज सरकार](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%b5%e0%a4%b0%e0%a4%be%e0%a4%9c+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
-| 38 | [कबीर वाणी](http://twitter.com/search?q=%e0%a4%95%e0%a4%ac%e0%a5%80%e0%a4%b0+%e0%a4%b5%e0%a4%be%e0%a4%a3%e0%a5%80) | N/A |
-| 39 | [Pujara](http://twitter.com/search?q=Pujara) | N/A |
-| 40 | [Bill Gates](http://twitter.com/search?q=Bill+Gates) | N/A |
-| 41 | [Nitin Menon](http://twitter.com/search?q=Nitin+Menon) | N/A |
-| 42 | [Steve Smith](http://twitter.com/search?q=Steve+Smith) | Steve Smith is a common English name. It does not have any particular meaning in English. |
-| 43 | [#OdishaMandiaSong](http://twitter.com/search?q=%23OdishaMandiaSong) | N/A |
-| 44 | [#AmritKaalUPYogiBudget](http://twitter.com/search?q=%23AmritKaalUPYogiBudget) | N/A |
-| 45 | [#MPBudget2023](http://twitter.com/search?q=%23MPBudget2023) | N/A |
-| 46 | [#vivoV27Series](http://twitter.com/search?q=%23vivoV27Series) | N/A |
-| 47 | [#TheSpotlightPhone](http://twitter.com/search?q=%23TheSpotlightPhone) | N/A |
-| 48 | [#V27Progiveaway](http://twitter.com/search?q=%23V27Progiveaway) | N/A |
+| 24 | [Axar](http://twitter.com/search?q=Axar) | Axar is a Sanskrit word meaning “axis” or “pole.” It is used in Hinduism to refer to the central point of the universe, around which all other things revolve. In modern usage, it can also refer to a person or thing that serves as a focal point for others. |
+| 25 | [Holi](http://twitter.com/search?q=Holi) | N/A |
+| 26 | [उत्तम स्वास्थ्य](http://twitter.com/search?q=%e0%a4%89%e0%a4%a4%e0%a5%8d%e0%a4%a4%e0%a4%ae+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a5%8d%e0%a4%af) | N/A |
+| 27 | [सौरभ भारद्वाज](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8c%e0%a4%b0%e0%a4%ad+%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a6%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%9c) | N/A |
+| 28 | [मुख्यमंत्री श्री नीतीश कुमार](http://twitter.com/search?q=%e0%a4%ae%e0%a5%81%e0%a4%96%e0%a5%8d%e0%a4%af%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%a8%e0%a5%80%e0%a4%a4%e0%a5%80%e0%a4%b6+%e0%a4%95%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%b0) | N/A |
+| 29 | [Bill Gates](http://twitter.com/search?q=Bill+Gates) | N/A |
+| 30 | [शिवराज सरकार](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%b5%e0%a4%b0%e0%a4%be%e0%a4%9c+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
+| 31 | [Tamil Nadu](http://twitter.com/search?q=Tamil+Nadu) | N/A |
+| 32 | [MountBlanc Turned 2PicnicSpot](http://twitter.com/search?q=MountBlanc+Turned+2PicnicSpot) | N/A |
+| 33 | [Rs 50](http://twitter.com/search?q=Rs+50) | N/A |
+| 34 | [नागरिक सुरक्षा](http://twitter.com/search?q=%e0%a4%a8%e0%a4%be%e0%a4%97%e0%a4%b0%e0%a4%bf%e0%a4%95+%e0%a4%b8%e0%a5%81%e0%a4%b0%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be) | N/A |
+| 35 | [कबीर वाणी](http://twitter.com/search?q=%e0%a4%95%e0%a4%ac%e0%a5%80%e0%a4%b0+%e0%a4%b5%e0%a4%be%e0%a4%a3%e0%a5%80) | N/A |
+| 36 | [G-20](http://twitter.com/search?q=G-20) | N/A |
+| 37 | [#AajShopsyKiyaKya](http://twitter.com/search?q=%23AajShopsyKiyaKya) | N/A |
+| 38 | [#OdishaMandiaSong](http://twitter.com/search?q=%23OdishaMandiaSong) | N/A |
+| 39 | [#MPBudget2023](http://twitter.com/search?q=%23MPBudget2023) | N/A |
+| 40 | [#AmritKaalUPYogiBudget](http://twitter.com/search?q=%23AmritKaalUPYogiBudget) | N/A |
+| 41 | [#vivoV27Series](http://twitter.com/search?q=%23vivoV27Series) | N/A |
+| 42 | [#TheSpotlightPhone](http://twitter.com/search?q=%23TheSpotlightPhone) | N/A |
+| 43 | [#V27Progiveaway](http://twitter.com/search?q=%23V27Progiveaway) | N/A |
+| 44 | [#vivoV27Pro](http://twitter.com/search?q=%23vivoV27Pro) | N/A |
+| 45 | [#stufflistingsarmy](http://twitter.com/search?q=%23stufflistingsarmy) | N/A |
+| 46 | [#Jadeja](http://twitter.com/search?q=%23Jadeja) | N/A |
+| 47 | [#AnushkaShetty](http://twitter.com/search?q=%23AnushkaShetty) | N/A |
+| 48 | [#AskStar](http://twitter.com/search?q=%23AskStar) | N/A |
 | 49 | [#BGT2023](http://twitter.com/search?q=%23BGT2023) | N/A |
-| 50 | [#AskStar](http://twitter.com/search?q=%23AskStar) | N/A |
+| 50 | [#Section84](http://twitter.com/search?q=%23Section84) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stoke-on-Trent
 
-📆 Last Updated: `2023-03-01 11:15:35 UTC`
+📆 Last Updated: `2023-03-01 12:17:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#JeremyVine](http://twitter.com/search?q=%23JeremyVine) | N/A |
+| 1 | [#Daffodils](http://twitter.com/search?q=%23Daffodils) | N/A |
 | 2 | [maisie](http://twitter.com/search?q=maisie) | N/A |
-| 3 | [White Rabbits](http://twitter.com/search?q=White+Rabbits) | N/A |
-| 4 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
-| 5 | [Mando](http://twitter.com/search?q=Mando) | N/A |
-| 6 | [#EarlyBiz](http://twitter.com/search?q=%23EarlyBiz) | N/A |
-| 7 | [#brexitcarnage](http://twitter.com/search?q=%23brexitcarnage) | N/A |
+| 3 | [#r4today](http://twitter.com/search?q=%23r4today) | N/A |
+| 4 | [Mando](http://twitter.com/search?q=Mando) | N/A |
+| 5 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
+| 6 | [#SaveOurSchools](http://twitter.com/search?q=%23SaveOurSchools) | N/A |
+| 7 | [#EarlyBiz](http://twitter.com/search?q=%23EarlyBiz) | N/A |
 | 8 | [#BeyondFast](http://twitter.com/search?q=%23BeyondFast) | #BeyondFast is a hashtag used to describe something that goes beyond the speed of fast. It is used to emphasize the idea that something is faster than fast, or that it surpasses the speed of fast. |
 | 9 | [Steve Baker](http://twitter.com/search?q=Steve+Baker) | N/A |
 | 10 | [St David](http://twitter.com/search?q=St+David) | N/A |
-| 11 | [#TwitterDown](http://twitter.com/search?q=%23TwitterDown) | N/A |
-| 12 | [Welcome to Twitter](http://twitter.com/search?q=Welcome+to+Twitter) | N/A |
-| 13 | [hancock](http://twitter.com/search?q=hancock) | N/A |
-| 14 | [Welsh](http://twitter.com/search?q=Welsh) | Welsh is a Celtic language spoken in Wales, a country in the United Kingdom. It is closely related to Cornish and Breton, two other Celtic languages. The Welsh language has its own unique alphabet and grammar, and is an official language of Wales. Its meaning in English is "of or relating to Wales or its people, language, or culture". |
+| 11 | [Welsh](http://twitter.com/search?q=Welsh) | Welsh is a Celtic language spoken in Wales, a country in the United Kingdom. It is closely related to Cornish and Breton, two other Celtic languages. The Welsh language has its own unique alphabet and grammar, and is an official language of Wales. Its meaning in English is "of or relating to Wales or its people, language, or culture". |
+| 12 | [Hancock](http://twitter.com/search?q=Hancock) | N/A |
+| 13 | [Welcome to Twitter](http://twitter.com/search?q=Welcome+to+Twitter) | N/A |
+| 14 | [Dydd Gŵyl Dewi Hapus](http://twitter.com/search?q=Dydd+G%c5%b5yl+Dewi+Hapus) | N/A |
 | 15 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
 | 16 | [Saint David](http://twitter.com/search?q=Saint+David) | N/A |
-| 17 | [Isabel Oakeshott](http://twitter.com/search?q=Isabel+Oakeshott) | N/A |
+| 17 | [Oakeshott](http://twitter.com/search?q=Oakeshott) | N/A |
 | 18 | [Jason Roy](http://twitter.com/search?q=Jason+Roy) | Jason Roy is a professional English cricketer who plays for the England national cricket team. He is an aggressive right-handed batsman and occasional right-arm off-break bowler. |
 | 19 | [Sarah Vine](http://twitter.com/search?q=Sarah+Vine) | N/A |
-| 20 | [Frogmore](http://twitter.com/search?q=Frogmore) | N/A |
-| 21 | [Telegraph](http://twitter.com/search?q=Telegraph) | N/A |
-| 22 | [Happy New Month](http://twitter.com/search?q=Happy+New+Month) | Happy New Month is a phrase used to express good wishes for the start of a new month. It is typically used as a greeting or salutation to friends, family, and colleagues. The phrase is usually accompanied by wishes for health, happiness, and success in the upcoming month. |
-| 23 | [Lord Bethell](http://twitter.com/search?q=Lord+Bethell) | N/A |
-| 24 | [Midazolam](http://twitter.com/search?q=Midazolam) | N/A |
-| 25 | [Tinubu](http://twitter.com/search?q=Tinubu) | N/A |
-| 26 | [Whitty](http://twitter.com/search?q=Whitty) | N/A |
-| 27 | [ethel cain](http://twitter.com/search?q=ethel+cain) | Ethel Cain is a phrase used to describe someone who is kind and generous. It is derived from the name of the biblical character Ethel, who was known for her generosity and hospitality. The phrase is often used as a compliment to someone who has been particularly helpful or generous. |
-| 28 | [My Twitter](http://twitter.com/search?q=My+Twitter) | N/A |
-| 29 | [Greece](http://twitter.com/search?q=Greece) | N/A |
-| 30 | [Daily Quordle 401](http://twitter.com/search?q=Daily+Quordle+401) | N/A |
+| 20 | [Frogmore Cottage](http://twitter.com/search?q=Frogmore+Cottage) | N/A |
+| 21 | [My Twitter](http://twitter.com/search?q=My+Twitter) | N/A |
+| 22 | [Lord Bethell](http://twitter.com/search?q=Lord+Bethell) | N/A |
+| 23 | [Happy New Month](http://twitter.com/search?q=Happy+New+Month) | Happy New Month is a phrase used to express good wishes for the start of a new month. It is typically used as a greeting or salutation to friends, family, and colleagues. The phrase is usually accompanied by wishes for health, happiness, and success in the upcoming month. |
+| 24 | [ethel cain](http://twitter.com/search?q=ethel+cain) | Ethel Cain is a phrase used to describe someone who is kind and generous. It is derived from the name of the biblical character Ethel, who was known for her generosity and hospitality. The phrase is often used as a compliment to someone who has been particularly helpful or generous. |
+| 25 | [Midazolam](http://twitter.com/search?q=Midazolam) | N/A |
+| 26 | [Telegraph](http://twitter.com/search?q=Telegraph) | N/A |
+| 27 | [Greece](http://twitter.com/search?q=Greece) | N/A |
+| 28 | [Year 6](http://twitter.com/search?q=Year+6) | N/A |
+| 29 | [Tinubu](http://twitter.com/search?q=Tinubu) | N/A |
+| 30 | [Whitty](http://twitter.com/search?q=Whitty) | N/A |
 | 31 | [Ed Sheeran](http://twitter.com/search?q=Ed+Sheeran) | N/A |
-| 32 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
-| 33 | [Balogun](http://twitter.com/search?q=Balogun) | Balogun is a Nigerian title of nobility, usually given to a warrior or leader. It is derived from the Yoruba language and means "commander of the army". |
-| 34 | [Wordle 620 X](http://twitter.com/search?q=Wordle+620+X) | N/A |
-| 35 | [Richard Tice](http://twitter.com/search?q=Richard+Tice) | N/A |
-| 36 | [Gove](http://twitter.com/search?q=Gove) | Gove is a surname of English origin. It is derived from the Old English word "gof," meaning "a smith or metalworker." The name is most commonly found in the United Kingdom, particularly in the counties of Devon and Cornwall. |
-| 37 | [Diolch](http://twitter.com/search?q=Diolch) | N/A |
-| 38 | [Morton](http://twitter.com/search?q=Morton) | Morton is a surname of English origin. It is derived from the Old French word "mort," meaning "dead," and the suffix "-on," which was used to denote a place or location. The name was originally given to someone who lived near a burial ground or cemetery. |
-| 39 | [Eisteddfod](http://twitter.com/search?q=Eisteddfod) | N/A |
-| 40 | [Year 6](http://twitter.com/search?q=Year+6) | N/A |
-| 41 | [Japa](http://twitter.com/search?q=Japa) | N/A |
-| 42 | [Pogba](http://twitter.com/search?q=Pogba) | Pogba is a nickname for the French professional footballer Paul Pogba. It is derived from his last name and is often used as a term of endearment by his fans. |
-| 43 | [Nigel Farage](http://twitter.com/search?q=Nigel+Farage) | N/A |
-| 44 | [Banks](http://twitter.com/search?q=Banks) | N/A |
-| 45 | [#CurrysS23Ultra](http://twitter.com/search?q=%23CurrysS23Ultra) | N/A |
-| 46 | [#DyddGŵylDewiHapus](http://twitter.com/search?q=%23DyddG%c5%b5ylDewiHapus) | N/A |
-| 47 | [#Wales](http://twitter.com/search?q=%23Wales) | N/A |
-| 48 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 49 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
+| 32 | [Eisteddfod](http://twitter.com/search?q=Eisteddfod) | N/A |
+| 33 | [Daily Quordle 401](http://twitter.com/search?q=Daily+Quordle+401) | N/A |
+| 34 | [Allan](http://twitter.com/search?q=Allan) | N/A |
+| 35 | [Balogun](http://twitter.com/search?q=Balogun) | Balogun is a Nigerian title of nobility, usually given to a warrior or leader. It is derived from the Yoruba language and means "commander of the army". |
+| 36 | [White Rabbits](http://twitter.com/search?q=White+Rabbits) | N/A |
+| 37 | [Richard Tice](http://twitter.com/search?q=Richard+Tice) | N/A |
+| 38 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
+| 39 | [Pogba](http://twitter.com/search?q=Pogba) | Pogba is a nickname for the French professional footballer Paul Pogba. It is derived from his last name and is often used as a term of endearment by his fans. |
+| 40 | [Wordle 620 X](http://twitter.com/search?q=Wordle+620+X) | N/A |
+| 41 | [Gove](http://twitter.com/search?q=Gove) | Gove is a surname of English origin. It is derived from the Old English word "gof," meaning "a smith or metalworker." The name is most commonly found in the United Kingdom, particularly in the counties of Devon and Cornwall. |
+| 42 | [Diolch](http://twitter.com/search?q=Diolch) | N/A |
+| 43 | [Japa](http://twitter.com/search?q=Japa) | N/A |
+| 44 | [Morton](http://twitter.com/search?q=Morton) | Morton is a surname of English origin. It is derived from the Old French word "mort," meaning "dead," and the suffix "-on," which was used to denote a place or location. The name was originally given to someone who lived near a burial ground or cemetery. |
+| 45 | [Morning Paul](http://twitter.com/search?q=Morning+Paul) | N/A |
+| 46 | [Banks](http://twitter.com/search?q=Banks) | N/A |
+| 47 | [#MWC23](http://twitter.com/search?q=%23MWC23) | N/A |
+| 48 | [#TwitterDown](http://twitter.com/search?q=%23TwitterDown) | N/A |
+| 49 | [#PMQs](http://twitter.com/search?q=%23PMQs) | #PMQs stands for Prime Minister's Questions, which is a weekly session in the British Parliament where the Prime Minister answers questions from Members of Parliament. |
 
 
 
