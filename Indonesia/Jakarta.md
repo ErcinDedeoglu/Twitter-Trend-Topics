@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jakarta
 
-📆 Last Updated: `2023-03-01 14:15:53 UTC`
+📆 Last Updated: `2023-03-01 15:16:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Indonesia](</Indonesia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Rabu](http://twitter.com/search?q=Rabu) | N/A |
-| 2 | [Asuransi AIA](http://twitter.com/search?q=Asuransi+AIA) | N/A |
-| 3 | [#MoonlightChickenEP7](http://twitter.com/search?q=%23MoonlightChickenEP7) | N/A |
-| 4 | [BIGHIT PROTECT RM](http://twitter.com/search?q=BIGHIT+PROTECT+RM) | N/A |
-| 5 | [#TimnasDay](http://twitter.com/search?q=%23TimnasDay) | #TimnasDay is a hashtag used by Indonesian football fans to celebrate the national team, Timnas Indonesia. The hashtag is used to share photos, videos, and messages of support for the team. In English, #TimnasDay translates to "Indonesian National Team Day". |
-| 6 | [HYBE PROTECT RM](http://twitter.com/search?q=HYBE+PROTECT+RM) | N/A |
-| 7 | [Lawan 10](http://twitter.com/search?q=Lawan+10) | N/A |
-| 8 | [Irak](http://twitter.com/search?q=Irak) | N/A |
-| 9 | [kpai](http://twitter.com/search?q=kpai) | N/A |
-| 10 | [#pumagiroud](http://twitter.com/search?q=%23pumagiroud) | N/A |
-| 11 | [Pikamee](http://twitter.com/search?q=Pikamee) | N/A |
-| 12 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 13 | [ini twitter](http://twitter.com/search?q=ini+twitter) | N/A |
-| 14 | [GOING SEVENTEEN 2023](http://twitter.com/search?q=GOING+SEVENTEEN+2023) | N/A |
-| 15 | [PARK JEONGWOO](http://twitter.com/search?q=PARK+JEONGWOO) | N/A |
-| 16 | [Ultra 5G](http://twitter.com/search?q=Ultra+5G) | N/A |
-| 17 | [angela tanoesoedibjo](http://twitter.com/search?q=angela+tanoesoedibjo) | N/A |
-| 18 | [yoon jeonghan](http://twitter.com/search?q=yoon+jeonghan) | N/A |
-| 19 | [minghao](http://twitter.com/search?q=minghao) | N/A |
-| 20 | [Jabodetabek](http://twitter.com/search?q=Jabodetabek) | N/A |
-| 21 | [Sulawesi Sambut AHY](http://twitter.com/search?q=Sulawesi+Sambut+AHY) | N/A |
-| 22 | [Error](http://twitter.com/search?q=Error) | N/A |
-| 23 | [5 SD](http://twitter.com/search?q=5+SD) | N/A |
-| 24 | [INFJ](http://twitter.com/search?q=INFJ) | N/A |
-| 25 | [Sehun](http://twitter.com/search?q=Sehun) | N/A |
-| 26 | [BI Fast](http://twitter.com/search?q=BI+Fast) | N/A |
-| 27 | [Alkohol 96%](http://twitter.com/search?q=Alkohol+96%25) | N/A |
-| 28 | [Formula E](http://twitter.com/search?q=Formula+E) | N/A |
-| 29 | [Sheila Dara](http://twitter.com/search?q=Sheila+Dara) | N/A |
-| 30 | [200MP Nightography](http://twitter.com/search?q=200MP+Nightography) | N/A |
-| 31 | [Vidi](http://twitter.com/search?q=Vidi) | N/A |
-| 32 | [D.O.](http://twitter.com/search?q=D.O.) | N/A |
+| 2 | [BIGHIT PROTECT RM](http://twitter.com/search?q=BIGHIT+PROTECT+RM) | N/A |
+| 3 | [HYBE PROTECT RM](http://twitter.com/search?q=HYBE+PROTECT+RM) | N/A |
+| 4 | [pika](http://twitter.com/search?q=pika) | N/A |
+| 5 | [asuransi aia](http://twitter.com/search?q=asuransi+aia) | N/A |
+| 6 | [#PARKJEONGWOO](http://twitter.com/search?q=%23PARKJEONGWOO) | N/A |
+| 7 | [#パクジョンウ](http://twitter.com/search?q=%23%e3%83%91%e3%82%af%e3%82%b8%e3%83%a7%e3%83%b3%e3%82%a6) | N/A |
+| 8 | [#TXT_2023DREAMWEEK](http://twitter.com/search?q=%23TXT_2023DREAMWEEK) | N/A |
+| 9 | [TXT TOO MUCH INFO](http://twitter.com/search?q=TXT+TOO+MUCH+INFO) | N/A |
+| 10 | [Lawan 10](http://twitter.com/search?q=Lawan+10) | N/A |
+| 11 | [Irak](http://twitter.com/search?q=Irak) | N/A |
+| 12 | [KPAI](http://twitter.com/search?q=KPAI) | N/A |
+| 13 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 14 | [Ultra 5G](http://twitter.com/search?q=Ultra+5G) | N/A |
+| 15 | [GOING SEVENTEEN 2023](http://twitter.com/search?q=GOING+SEVENTEEN+2023) | N/A |
+| 16 | [200MP Nightography Camera](http://twitter.com/search?q=200MP+Nightography+Camera) | N/A |
+| 17 | [U-20](http://twitter.com/search?q=U-20) | N/A |
+| 18 | [Ini Twitter](http://twitter.com/search?q=Ini+Twitter) | N/A |
+| 19 | [Ditunda](http://twitter.com/search?q=Ditunda) | N/A |
+| 20 | [yoon jeonghan](http://twitter.com/search?q=yoon+jeonghan) | N/A |
+| 21 | [Jambi](http://twitter.com/search?q=Jambi) | N/A |
+| 22 | [minghao](http://twitter.com/search?q=minghao) | N/A |
+| 23 | [Error](http://twitter.com/search?q=Error) | N/A |
+| 24 | [BI Fast](http://twitter.com/search?q=BI+Fast) | N/A |
+| 25 | [Jabodetabek](http://twitter.com/search?q=Jabodetabek) | N/A |
+| 26 | [INFJ](http://twitter.com/search?q=INFJ) | N/A |
+| 27 | [Angela Tanoesoedibjo](http://twitter.com/search?q=Angela+Tanoesoedibjo) | N/A |
+| 28 | [5 sd](http://twitter.com/search?q=5+sd) | N/A |
+| 29 | [Sehun](http://twitter.com/search?q=Sehun) | N/A |
+| 30 | [Formula E](http://twitter.com/search?q=Formula+E) | N/A |
+| 31 | [D.O.](http://twitter.com/search?q=D.O.) | N/A |
+| 32 | [Alkohol 96%](http://twitter.com/search?q=Alkohol+96%25) | N/A |
 | 33 | [KIM TAEHYUNG FOR SIMINVEST](http://twitter.com/search?q=KIM+TAEHYUNG+FOR+SIMINVEST) | N/A |
-| 34 | [PeduliLindungi](http://twitter.com/search?q=PeduliLindungi) | N/A |
-| 35 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
-| 36 | [PBSI](http://twitter.com/search?q=PBSI) | N/A |
-| 37 | [Maret 2023](http://twitter.com/search?q=Maret+2023) | N/A |
-| 38 | [#ROAR1stWin](http://twitter.com/search?q=%23ROAR1stWin) | N/A |
-| 39 | [#GOSE_isGoingBack](http://twitter.com/search?q=%23GOSE_isGoingBack) | N/A |
-| 40 | [#TunasDiBalikSeragamJKT48](http://twitter.com/search?q=%23TunasDiBalikSeragamJKT48) | N/A |
-| 41 | [#OPPOReno8T5GdiAkulaku](http://twitter.com/search?q=%23OPPOReno8T5GdiAkulaku) | N/A |
-| 42 | [#LISAXCELINE](http://twitter.com/search?q=%23LISAXCELINE) | N/A |
-| 43 | [#BAZAARSGxLISA](http://twitter.com/search?q=%23BAZAARSGxLISA) | N/A |
-| 44 | [#CELINEBYHEDISLIMANE](http://twitter.com/search?q=%23CELINEBYHEDISLIMANE) | N/A |
-| 45 | [#AFCU20](http://twitter.com/search?q=%23AFCU20) | N/A |
-| 46 | [#23EpicNightShot](http://twitter.com/search?q=%2323EpicNightShot) | N/A |
-| 47 | [#ShareTheEpic](http://twitter.com/search?q=%23ShareTheEpic) | N/A |
-| 48 | [#THEBOYZ18thWin](http://twitter.com/search?q=%23THEBOYZ18thWin) | N/A |
+| 34 | [#MoonlightChickenEP7](http://twitter.com/search?q=%23MoonlightChickenEP7) | N/A |
+| 35 | [#ROVER_3rdTeaser](http://twitter.com/search?q=%23ROVER_3rdTeaser) | N/A |
+| 36 | [#TREASURE](http://twitter.com/search?q=%23TREASURE) | N/A |
+| 37 | [#JawabDel](http://twitter.com/search?q=%23JawabDel) | N/A |
+| 38 | [#TimnasDay](http://twitter.com/search?q=%23TimnasDay) | #TimnasDay is a hashtag used by Indonesian football fans to celebrate the national team, Timnas Indonesia. The hashtag is used to share photos, videos, and messages of support for the team. In English, #TimnasDay translates to "Indonesian National Team Day". |
+| 39 | [#23EpicNightShot](http://twitter.com/search?q=%2323EpicNightShot) | N/A |
+| 40 | [#ShareTheEpic](http://twitter.com/search?q=%23ShareTheEpic) | N/A |
+| 41 | [#pumagiroud](http://twitter.com/search?q=%23pumagiroud) | N/A |
+| 42 | [#TunasDiBalikSeragamJKT48](http://twitter.com/search?q=%23TunasDiBalikSeragamJKT48) | N/A |
+| 43 | [#ROAR1stWin](http://twitter.com/search?q=%23ROAR1stWin) | N/A |
+| 44 | [#OPPOReno8T5GdiAkulaku](http://twitter.com/search?q=%23OPPOReno8T5GdiAkulaku) | N/A |
+| 45 | [#GOSE_isGoingBack](http://twitter.com/search?q=%23GOSE_isGoingBack) | N/A |
+| 46 | [#LISAXCELINE](http://twitter.com/search?q=%23LISAXCELINE) | N/A |
+| 47 | [#BAZAARSGxLISA](http://twitter.com/search?q=%23BAZAARSGxLISA) | N/A |
+| 48 | [#CELINEBYHEDISLIMANE](http://twitter.com/search?q=%23CELINEBYHEDISLIMANE) | N/A |
 
 
 

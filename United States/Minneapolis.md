@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Minneapolis
 
-📆 Last Updated: `2023-03-01 14:16:17 UTC`
+📆 Last Updated: `2023-03-01 15:16:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#mnwild](http://twitter.com/search?q=%23mnwild) | N/A |
-| 2 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 3 | [Timberwolves](http://twitter.com/search?q=Timberwolves) | Timberwolves is a nickname for the Minnesota Timberwolves, a professional basketball team based in Minneapolis, Minnesota. The name was chosen to reflect the state's rich history of logging and timber production. |
-| 4 | [#WomensHistoryMonth](http://twitter.com/search?q=%23WomensHistoryMonth) | N/A |
-| 5 | [#TwitterDown](http://twitter.com/search?q=%23TwitterDown) | N/A |
-| 6 | [Pikamee](http://twitter.com/search?q=Pikamee) | N/A |
-| 7 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 8 | [Eli Lilly](http://twitter.com/search?q=Eli+Lilly) | N/A |
-| 9 | [New Month](http://twitter.com/search?q=New+Month) | N/A |
-| 10 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
-| 11 | [New Blessings](http://twitter.com/search?q=New+Blessings) | N/A |
-| 12 | [March Madness](http://twitter.com/search?q=March+Madness) | N/A |
-| 13 | [Happy 1st](http://twitter.com/search?q=Happy+1st) | N/A |
-| 14 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
-| 15 | [Wray](http://twitter.com/search?q=Wray) | N/A |
+| 1 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 2 | [Timberwolves](http://twitter.com/search?q=Timberwolves) | Timberwolves is a nickname for the Minnesota Timberwolves, a professional basketball team based in Minneapolis, Minnesota. The name was chosen to reflect the state's rich history of logging and timber production. |
+| 3 | [#WomensHistoryMonth](http://twitter.com/search?q=%23WomensHistoryMonth) | N/A |
+| 4 | [Pikamee](http://twitter.com/search?q=Pikamee) | N/A |
+| 5 | [Eli Lilly](http://twitter.com/search?q=Eli+Lilly) | N/A |
+| 6 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 7 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
+| 8 | [New Month](http://twitter.com/search?q=New+Month) | N/A |
+| 9 | [#TwitterDown](http://twitter.com/search?q=%23TwitterDown) | N/A |
+| 10 | [March Madness](http://twitter.com/search?q=March+Madness) | N/A |
+| 11 | [#NATM2023](http://twitter.com/search?q=%23NATM2023) | N/A |
+| 12 | [Stollen](http://twitter.com/search?q=Stollen) | Stollen is a traditional German Christmas cake or bread made with dried fruit, nuts, and spices. It is usually shaped like a log and covered with powdered sugar or icing sugar. The name comes from the German word "stollen," which means "to carry." In English, it is sometimes referred to as a Christmas loaf or fruitcake. |
+| 13 | [Jalen Carter](http://twitter.com/search?q=Jalen+Carter) | N/A |
+| 14 | [Wray](http://twitter.com/search?q=Wray) | N/A |
+| 15 | [Fuddruckers](http://twitter.com/search?q=Fuddruckers) | N/A |
 | 16 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
-| 17 | [Beetlejuice](http://twitter.com/search?q=Beetlejuice) | N/A |
-| 18 | [Welcome to Twitter](http://twitter.com/search?q=Welcome+to+Twitter) | N/A |
-| 19 | [Dark Side of the Moon](http://twitter.com/search?q=Dark+Side+of+the+Moon) | N/A |
-| 20 | [Stollen](http://twitter.com/search?q=Stollen) | Stollen is a traditional German Christmas cake or bread made with dried fruit, nuts, and spices. It is usually shaped like a log and covered with powdered sugar or icing sugar. The name comes from the German word "stollen," which means "to carry." In English, it is sometimes referred to as a Christmas loaf or fruitcake. |
-| 21 | [Fuddruckers](http://twitter.com/search?q=Fuddruckers) | N/A |
-| 22 | [Daily Quordle 401](http://twitter.com/search?q=Daily+Quordle+401) | N/A |
-| 23 | [Rabbit Rabbit](http://twitter.com/search?q=Rabbit+Rabbit) | N/A |
-| 24 | [New Goals](http://twitter.com/search?q=New+Goals) | N/A |
-| 25 | [Happy Social Work Month](http://twitter.com/search?q=Happy+Social+Work+Month) | N/A |
-| 26 | [Andrew Painter](http://twitter.com/search?q=Andrew+Painter) | N/A |
-| 27 | [St. David](http://twitter.com/search?q=St.+David) | N/A |
-| 28 | [Frogmore](http://twitter.com/search?q=Frogmore) | N/A |
-| 29 | [Almighty](http://twitter.com/search?q=Almighty) | N/A |
-| 30 | [Birthday Month](http://twitter.com/search?q=Birthday+Month) | N/A |
-| 31 | [Happy Hump](http://twitter.com/search?q=Happy+Hump) | N/A |
-| 32 | [Jonathan Quick](http://twitter.com/search?q=Jonathan+Quick) | N/A |
-| 33 | [Nolan Smith](http://twitter.com/search?q=Nolan+Smith) | N/A |
-| 34 | [Sean Penn](http://twitter.com/search?q=Sean+Penn) | N/A |
-| 35 | [New Opportunities](http://twitter.com/search?q=New+Opportunities) | N/A |
-| 36 | [ITS MARCH](http://twitter.com/search?q=ITS+MARCH) | N/A |
+| 17 | [Happy Social Work Month](http://twitter.com/search?q=Happy+Social+Work+Month) | N/A |
+| 18 | [New Blessings](http://twitter.com/search?q=New+Blessings) | N/A |
+| 19 | [Beetlejuice](http://twitter.com/search?q=Beetlejuice) | N/A |
+| 20 | [Happy 1st](http://twitter.com/search?q=Happy+1st) | N/A |
+| 21 | [Frogmore](http://twitter.com/search?q=Frogmore) | N/A |
+| 22 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
+| 23 | [Dark Side of the Moon](http://twitter.com/search?q=Dark+Side+of+the+Moon) | N/A |
+| 24 | [St. David](http://twitter.com/search?q=St.+David) | N/A |
+| 25 | [New Goals](http://twitter.com/search?q=New+Goals) | N/A |
+| 26 | [Rabbit Rabbit](http://twitter.com/search?q=Rabbit+Rabbit) | N/A |
+| 27 | [Will Anderson](http://twitter.com/search?q=Will+Anderson) | N/A |
+| 28 | [Andrew Painter](http://twitter.com/search?q=Andrew+Painter) | N/A |
+| 29 | [Happy Hump](http://twitter.com/search?q=Happy+Hump) | N/A |
+| 30 | [Money Making March](http://twitter.com/search?q=Money+Making+March) | N/A |
+| 31 | [Todd McShay](http://twitter.com/search?q=Todd+McShay) | N/A |
+| 32 | [Welcome to Twitter](http://twitter.com/search?q=Welcome+to+Twitter) | N/A |
+| 33 | [Birthday Month](http://twitter.com/search?q=Birthday+Month) | N/A |
+| 34 | [Happy New Year](http://twitter.com/search?q=Happy+New+Year) | Happy New Year is a phrase used to express good wishes for the upcoming year. It is typically said at the end of the year, on New Year's Eve or New Year's Day, to wish someone a prosperous and successful year ahead. |
+| 35 | [Almighty](http://twitter.com/search?q=Almighty) | N/A |
+| 36 | [It is Wednesday](http://twitter.com/search?q=It+is+Wednesday) | N/A |
 | 37 | [ITS THE FIRST OF THE MONTH](http://twitter.com/search?q=ITS+THE+FIRST+OF+THE+MONTH) | N/A |
-| 38 | [Happy 50th](http://twitter.com/search?q=Happy+50th) | N/A |
-| 39 | [Happy New Year](http://twitter.com/search?q=Happy+New+Year) | Happy New Year is a phrase used to express good wishes for the upcoming year. It is typically said at the end of the year, on New Year's Eve or New Year's Day, to wish someone a prosperous and successful year ahead. |
-| 40 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
-| 41 | [Most High](http://twitter.com/search?q=Most+High) | N/A |
-| 42 | [HAPPY BIRTHDAY SAPNAP](http://twitter.com/search?q=HAPPY+BIRTHDAY+SAPNAP) | N/A |
-| 43 | [Tyree Wilson](http://twitter.com/search?q=Tyree+Wilson) | N/A |
-| 44 | [Did Twitter](http://twitter.com/search?q=Did+Twitter) | N/A |
-| 45 | [Greece](http://twitter.com/search?q=Greece) | N/A |
-| 46 | [Meteorological Spring](http://twitter.com/search?q=Meteorological+Spring) | N/A |
-| 47 | [Christopher Reeve](http://twitter.com/search?q=Christopher+Reeve) | N/A |
-| 48 | [Korpi](http://twitter.com/search?q=Korpi) | N/A |
-| 49 | [Brandon Johnson](http://twitter.com/search?q=Brandon+Johnson) | N/A |
-| 50 | [PT Cruiser](http://twitter.com/search?q=PT+Cruiser) | N/A |
+| 38 | [Daily Quordle 401](http://twitter.com/search?q=Daily+Quordle+401) | N/A |
+| 39 | [Nolan Smith](http://twitter.com/search?q=Nolan+Smith) | N/A |
+| 40 | [Jonathan Quick](http://twitter.com/search?q=Jonathan+Quick) | N/A |
+| 41 | [Zoro](http://twitter.com/search?q=Zoro) | N/A |
+| 42 | [Happy 3-1](http://twitter.com/search?q=Happy+3-1) | N/A |
+| 43 | [Sean Penn](http://twitter.com/search?q=Sean+Penn) | N/A |
+| 44 | [Happy 50th](http://twitter.com/search?q=Happy+50th) | N/A |
+| 45 | [Wacky Wednesday](http://twitter.com/search?q=Wacky+Wednesday) | N/A |
+| 46 | [Beau Biden](http://twitter.com/search?q=Beau+Biden) | N/A |
+| 47 | [Harry and Meghan](http://twitter.com/search?q=Harry+and+Meghan) | N/A |
+| 48 | [Tyree Wilson](http://twitter.com/search?q=Tyree+Wilson) | N/A |
+| 49 | [Dansby](http://twitter.com/search?q=Dansby) | N/A |
 
 
 

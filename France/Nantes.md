@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nantes
 
-📆 Last Updated: `2023-03-01 14:15:46 UTC`
+📆 Last Updated: `2023-03-01 15:16:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,50 +20,50 @@ This is top 50 for [France](</France>)
 | 3 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
 | 4 | [#KohLanta](http://twitter.com/search?q=%23KohLanta) | N/A |
 | 5 | [#SIA2023](http://twitter.com/search?q=%23SIA2023) | N/A |
-| 6 | [#Papillomavirus](http://twitter.com/search?q=%23Papillomavirus) | N/A |
+| 6 | [#TEAMG1](http://twitter.com/search?q=%23TEAMG1) | N/A |
 | 7 | [Zoro](http://twitter.com/search?q=Zoro) | N/A |
-| 8 | [gardasil](http://twitter.com/search?q=gardasil) | N/A |
-| 9 | [Julien Bert](http://twitter.com/search?q=Julien+Bert) | N/A |
-| 10 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
+| 8 | [Gardasil](http://twitter.com/search?q=Gardasil) | N/A |
+| 9 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
+| 10 | [julien bert](http://twitter.com/search?q=julien+bert) | N/A |
 | 11 | [Jeffinho](http://twitter.com/search?q=Jeffinho) | Jeffinho is a Portuguese nickname derived from the name "Jefferson". It is often used as a term of endearment, similar to "honey" or "sweetheart" in English. |
 | 12 | [Emin](http://twitter.com/search?q=Emin) | N/A |
-| 13 | [NCT Dream](http://twitter.com/search?q=NCT+Dream) | N/A |
-| 14 | [Creed 3](http://twitter.com/search?q=Creed+3) | N/A |
-| 15 | [Ethnicité](http://twitter.com/search?q=Ethnicit%c3%a9) | N/A |
-| 16 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 17 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
-| 18 | [Ed Sheeran](http://twitter.com/search?q=Ed+Sheeran) | N/A |
-| 19 | [Dembele](http://twitter.com/search?q=Dembele) | Dembele is a surname of West African origin. It is derived from the Mande language and means "peaceful warrior". In English, it can be translated to mean "one who brings peace through strength". |
-| 20 | ["Abonnements"](http://twitter.com/search?q=%22Abonnements%22) | N/A |
-| 21 | [Wano](http://twitter.com/search?q=Wano) | N/A |
-| 22 | [Diomande](http://twitter.com/search?q=Diomande) | N/A |
-| 23 | [Bale](http://twitter.com/search?q=Bale) | Bale is a large bundle of goods, usually compressed and tied up with string or wire, for storage or transport. It is commonly used to refer to bundles of hay, straw, or cotton. |
-| 24 | [Jones](http://twitter.com/search?q=Jones) | N/A |
-| 25 | [Shimotsuki](http://twitter.com/search?q=Shimotsuki) | N/A |
-| 26 | [Urbosa](http://twitter.com/search?q=Urbosa) | N/A |
-| 27 | [Ryuma](http://twitter.com/search?q=Ryuma) | N/A |
-| 28 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
-| 29 | [Hilona](http://twitter.com/search?q=Hilona) | N/A |
-| 30 | [Infantino](http://twitter.com/search?q=Infantino) | Infantino is a Spanish word meaning "little baby". It is often used as an affectionate term for a young child. |
-| 31 | [Platini](http://twitter.com/search?q=Platini) | N/A |
-| 32 | [Rublev](http://twitter.com/search?q=Rublev) | Rublev is a Russian surname derived from the given name Ruben. It is most famously associated with the 15th century icon painter and monk Andrei Rublev, who is considered to be one of the greatest medieval Russian painters. The name Rublev can also refer to a type of traditional Russian bread roll. |
-| 33 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
-| 34 | [Le SNU](http://twitter.com/search?q=Le+SNU) | N/A |
-| 35 | [Véran](http://twitter.com/search?q=V%c3%a9ran) | N/A |
-| 36 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
-| 37 | [Grenoble](http://twitter.com/search?q=Grenoble) | N/A |
-| 38 | [Payet](http://twitter.com/search?q=Payet) | Payet is a French surname. It is derived from the Old French word "paie," which means "payment." In English, it can be translated to mean "one who pays." |
-| 39 | [GIVE US WN BLOOPERS](http://twitter.com/search?q=GIVE+US+WN+BLOOPERS) | N/A |
+| 13 | [Creed 3](http://twitter.com/search?q=Creed+3) | N/A |
+| 14 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
+| 15 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 16 | [Wano](http://twitter.com/search?q=Wano) | N/A |
+| 17 | [Ethnicité](http://twitter.com/search?q=Ethnicit%c3%a9) | N/A |
+| 18 | [Bale](http://twitter.com/search?q=Bale) | Bale is a large bundle of goods, usually compressed and tied up with string or wire, for storage or transport. It is commonly used to refer to bundles of hay, straw, or cotton. |
+| 19 | [Diomande](http://twitter.com/search?q=Diomande) | N/A |
+| 20 | [Shimotsuki](http://twitter.com/search?q=Shimotsuki) | N/A |
+| 21 | [Dembele](http://twitter.com/search?q=Dembele) | Dembele is a surname of West African origin. It is derived from the Mande language and means "peaceful warrior". In English, it can be translated to mean "one who brings peace through strength". |
+| 22 | [Jones](http://twitter.com/search?q=Jones) | N/A |
+| 23 | [Mettre la France](http://twitter.com/search?q=Mettre+la+France) | N/A |
+| 24 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
+| 25 | [Ed Sheeran](http://twitter.com/search?q=Ed+Sheeran) | N/A |
+| 26 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
+| 27 | [Platini](http://twitter.com/search?q=Platini) | N/A |
+| 28 | [CStar](http://twitter.com/search?q=CStar) | N/A |
+| 29 | [Le SNU](http://twitter.com/search?q=Le+SNU) | N/A |
+| 30 | [Urbosa](http://twitter.com/search?q=Urbosa) | N/A |
+| 31 | [Hilona](http://twitter.com/search?q=Hilona) | N/A |
+| 32 | [Pikamee](http://twitter.com/search?q=Pikamee) | N/A |
+| 33 | [GIVE US WN BLOOPERS](http://twitter.com/search?q=GIVE+US+WN+BLOOPERS) | N/A |
+| 34 | [Ryuma](http://twitter.com/search?q=Ryuma) | N/A |
+| 35 | [1er Mars](http://twitter.com/search?q=1er+Mars) | N/A |
+| 36 | [Grenoble](http://twitter.com/search?q=Grenoble) | N/A |
+| 37 | [RIP Légende](http://twitter.com/search?q=RIP+L%c3%a9gende) | N/A |
+| 38 | [payet](http://twitter.com/search?q=payet) | N/A |
+| 39 | [gane](http://twitter.com/search?q=gane) | N/A |
 | 40 | [Rothen](http://twitter.com/search?q=Rothen) | N/A |
-| 41 | [Barcola](http://twitter.com/search?q=Barcola) | N/A |
-| 42 | [1er Mars](http://twitter.com/search?q=1er+Mars) | N/A |
-| 43 | [RIP Légende](http://twitter.com/search?q=RIP+L%c3%a9gende) | N/A |
-| 44 | [Gane](http://twitter.com/search?q=Gane) | N/A |
-| 45 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
-| 46 | [Balkany](http://twitter.com/search?q=Balkany) | N/A |
-| 47 | [Hulot](http://twitter.com/search?q=Hulot) | N/A |
-| 48 | [Miquella](http://twitter.com/search?q=Miquella) | N/A |
-| 49 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 41 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
+| 42 | [Hulot](http://twitter.com/search?q=Hulot) | N/A |
+| 43 | [Balkany](http://twitter.com/search?q=Balkany) | N/A |
+| 44 | [Miquella](http://twitter.com/search?q=Miquella) | N/A |
+| 45 | [Youth League](http://twitter.com/search?q=Youth+League) | N/A |
+| 46 | [Covid](http://twitter.com/search?q=Covid) | N/A |
+| 47 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
+| 48 | [Infantino](http://twitter.com/search?q=Infantino) | Infantino is a Spanish word meaning "little baby". It is often used as an affectionate term for a young child. |
+| 49 | [Cherki](http://twitter.com/search?q=Cherki) | Cherki is a term used in Moroccan Arabic to refer to someone who is of mixed race or of mixed heritage. It literally translates to "half-breed" or "mixed-breed". |
 
 
 

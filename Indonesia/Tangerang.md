@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tangerang
 
-📆 Last Updated: `2023-03-01 14:15:54 UTC`
+📆 Last Updated: `2023-03-01 15:16:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Asuransi AIA](http://twitter.com/search?q=Asuransi+AIA) | N/A |
-| 2 | [#MoonlightChickenEP7](http://twitter.com/search?q=%23MoonlightChickenEP7) | N/A |
-| 3 | [BIGHIT PROTECT RM](http://twitter.com/search?q=BIGHIT+PROTECT+RM) | N/A |
-| 4 | [HYBE PROTECT RM](http://twitter.com/search?q=HYBE+PROTECT+RM) | N/A |
-| 5 | [#TimnasDay](http://twitter.com/search?q=%23TimnasDay) | #TimnasDay is a hashtag used by Indonesian football fans to celebrate the national team, Timnas Indonesia. The hashtag is used to share photos, videos, and messages of support for the team. In English, #TimnasDay translates to "Indonesian National Team Day". |
-| 6 | [Lawan 10](http://twitter.com/search?q=Lawan+10) | N/A |
-| 7 | [Irak](http://twitter.com/search?q=Irak) | N/A |
-| 8 | [kpai](http://twitter.com/search?q=kpai) | N/A |
-| 9 | [#pumagiroud](http://twitter.com/search?q=%23pumagiroud) | N/A |
-| 10 | [Pikamee](http://twitter.com/search?q=Pikamee) | N/A |
-| 11 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 12 | [ini twitter](http://twitter.com/search?q=ini+twitter) | N/A |
-| 13 | [GOING SEVENTEEN 2023](http://twitter.com/search?q=GOING+SEVENTEEN+2023) | N/A |
-| 14 | [PARK JEONGWOO](http://twitter.com/search?q=PARK+JEONGWOO) | N/A |
-| 15 | [Ultra 5G](http://twitter.com/search?q=Ultra+5G) | N/A |
-| 16 | [angela tanoesoedibjo](http://twitter.com/search?q=angela+tanoesoedibjo) | N/A |
-| 17 | [yoon jeonghan](http://twitter.com/search?q=yoon+jeonghan) | N/A |
-| 18 | [minghao](http://twitter.com/search?q=minghao) | N/A |
-| 19 | [Jabodetabek](http://twitter.com/search?q=Jabodetabek) | N/A |
-| 20 | [Sulawesi Sambut AHY](http://twitter.com/search?q=Sulawesi+Sambut+AHY) | N/A |
-| 21 | [Error](http://twitter.com/search?q=Error) | N/A |
-| 22 | [5 SD](http://twitter.com/search?q=5+SD) | N/A |
-| 23 | [INFJ](http://twitter.com/search?q=INFJ) | N/A |
-| 24 | [BI Fast](http://twitter.com/search?q=BI+Fast) | N/A |
-| 25 | [Alkohol 96%](http://twitter.com/search?q=Alkohol+96%25) | N/A |
-| 26 | [Sehun](http://twitter.com/search?q=Sehun) | N/A |
-| 27 | [Formula E](http://twitter.com/search?q=Formula+E) | N/A |
-| 28 | [Sheila Dara](http://twitter.com/search?q=Sheila+Dara) | N/A |
-| 29 | [200MP Nightography](http://twitter.com/search?q=200MP+Nightography) | N/A |
-| 30 | [Vidi](http://twitter.com/search?q=Vidi) | N/A |
-| 31 | [D.O.](http://twitter.com/search?q=D.O.) | N/A |
-| 32 | [Rabu](http://twitter.com/search?q=Rabu) | N/A |
-| 33 | [KIM TAEHYUNG FOR SIMINVEST](http://twitter.com/search?q=KIM+TAEHYUNG+FOR+SIMINVEST) | N/A |
-| 34 | [PeduliLindungi](http://twitter.com/search?q=PeduliLindungi) | N/A |
-| 35 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
-| 36 | [Maret 2023](http://twitter.com/search?q=Maret+2023) | N/A |
-| 37 | [#ROAR1stWin](http://twitter.com/search?q=%23ROAR1stWin) | N/A |
-| 38 | [#GOSE_isGoingBack](http://twitter.com/search?q=%23GOSE_isGoingBack) | N/A |
-| 39 | [#TunasDiBalikSeragamJKT48](http://twitter.com/search?q=%23TunasDiBalikSeragamJKT48) | N/A |
-| 40 | [#OPPOReno8T5GdiAkulaku](http://twitter.com/search?q=%23OPPOReno8T5GdiAkulaku) | N/A |
-| 41 | [#LISAXCELINE](http://twitter.com/search?q=%23LISAXCELINE) | N/A |
-| 42 | [#BAZAARSGxLISA](http://twitter.com/search?q=%23BAZAARSGxLISA) | N/A |
-| 43 | [#CELINEBYHEDISLIMANE](http://twitter.com/search?q=%23CELINEBYHEDISLIMANE) | N/A |
-| 44 | [#AFCU20](http://twitter.com/search?q=%23AFCU20) | N/A |
-| 45 | [#23EpicNightShot](http://twitter.com/search?q=%2323EpicNightShot) | N/A |
-| 46 | [#ShareTheEpic](http://twitter.com/search?q=%23ShareTheEpic) | N/A |
-| 47 | [#THEBOYZ18thWin](http://twitter.com/search?q=%23THEBOYZ18thWin) | N/A |
-| 48 | [#TDS2inJAKARTA](http://twitter.com/search?q=%23TDS2inJAKARTA) | #TDS2inJAKARTA is a hashtag used to promote the second edition of The Digital Summit (TDS) in Jakarta, Indonesia. It is an event that brings together digital professionals from around the world to discuss the latest trends and technologies in the digital space. |
+| 1 | [BIGHIT PROTECT RM](http://twitter.com/search?q=BIGHIT+PROTECT+RM) | N/A |
+| 2 | [HYBE PROTECT RM](http://twitter.com/search?q=HYBE+PROTECT+RM) | N/A |
+| 3 | [pika](http://twitter.com/search?q=pika) | N/A |
+| 4 | [asuransi aia](http://twitter.com/search?q=asuransi+aia) | N/A |
+| 5 | [#PARKJEONGWOO](http://twitter.com/search?q=%23PARKJEONGWOO) | N/A |
+| 6 | [#パクジョンウ](http://twitter.com/search?q=%23%e3%83%91%e3%82%af%e3%82%b8%e3%83%a7%e3%83%b3%e3%82%a6) | N/A |
+| 7 | [#TXT_2023DREAMWEEK](http://twitter.com/search?q=%23TXT_2023DREAMWEEK) | N/A |
+| 8 | [TXT TOO MUCH INFO](http://twitter.com/search?q=TXT+TOO+MUCH+INFO) | N/A |
+| 9 | [Lawan 10](http://twitter.com/search?q=Lawan+10) | N/A |
+| 10 | [Irak](http://twitter.com/search?q=Irak) | N/A |
+| 11 | [KPAI](http://twitter.com/search?q=KPAI) | N/A |
+| 12 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 13 | [Ultra 5G](http://twitter.com/search?q=Ultra+5G) | N/A |
+| 14 | [GOING SEVENTEEN 2023](http://twitter.com/search?q=GOING+SEVENTEEN+2023) | N/A |
+| 15 | [200MP Nightography Camera](http://twitter.com/search?q=200MP+Nightography+Camera) | N/A |
+| 16 | [U-20](http://twitter.com/search?q=U-20) | N/A |
+| 17 | [Ini Twitter](http://twitter.com/search?q=Ini+Twitter) | N/A |
+| 18 | [Ditunda](http://twitter.com/search?q=Ditunda) | N/A |
+| 19 | [yoon jeonghan](http://twitter.com/search?q=yoon+jeonghan) | N/A |
+| 20 | [Jambi](http://twitter.com/search?q=Jambi) | N/A |
+| 21 | [minghao](http://twitter.com/search?q=minghao) | N/A |
+| 22 | [Error](http://twitter.com/search?q=Error) | N/A |
+| 23 | [BI Fast](http://twitter.com/search?q=BI+Fast) | N/A |
+| 24 | [Jabodetabek](http://twitter.com/search?q=Jabodetabek) | N/A |
+| 25 | [INFJ](http://twitter.com/search?q=INFJ) | N/A |
+| 26 | [Angela Tanoesoedibjo](http://twitter.com/search?q=Angela+Tanoesoedibjo) | N/A |
+| 27 | [5 sd](http://twitter.com/search?q=5+sd) | N/A |
+| 28 | [Sehun](http://twitter.com/search?q=Sehun) | N/A |
+| 29 | [Formula E](http://twitter.com/search?q=Formula+E) | N/A |
+| 30 | [D.O.](http://twitter.com/search?q=D.O.) | N/A |
+| 31 | [Alkohol 96%](http://twitter.com/search?q=Alkohol+96%25) | N/A |
+| 32 | [KIM TAEHYUNG FOR SIMINVEST](http://twitter.com/search?q=KIM+TAEHYUNG+FOR+SIMINVEST) | N/A |
+| 33 | [#MoonlightChickenEP7](http://twitter.com/search?q=%23MoonlightChickenEP7) | N/A |
+| 34 | [#ROVER_3rdTeaser](http://twitter.com/search?q=%23ROVER_3rdTeaser) | N/A |
+| 35 | [#TREASURE](http://twitter.com/search?q=%23TREASURE) | N/A |
+| 36 | [#JawabDel](http://twitter.com/search?q=%23JawabDel) | N/A |
+| 37 | [#TimnasDay](http://twitter.com/search?q=%23TimnasDay) | #TimnasDay is a hashtag used by Indonesian football fans to celebrate the national team, Timnas Indonesia. The hashtag is used to share photos, videos, and messages of support for the team. In English, #TimnasDay translates to "Indonesian National Team Day". |
+| 38 | [#23EpicNightShot](http://twitter.com/search?q=%2323EpicNightShot) | N/A |
+| 39 | [#ShareTheEpic](http://twitter.com/search?q=%23ShareTheEpic) | N/A |
+| 40 | [#pumagiroud](http://twitter.com/search?q=%23pumagiroud) | N/A |
+| 41 | [#TunasDiBalikSeragamJKT48](http://twitter.com/search?q=%23TunasDiBalikSeragamJKT48) | N/A |
+| 42 | [#ROAR1stWin](http://twitter.com/search?q=%23ROAR1stWin) | N/A |
+| 43 | [#OPPOReno8T5GdiAkulaku](http://twitter.com/search?q=%23OPPOReno8T5GdiAkulaku) | N/A |
+| 44 | [#GOSE_isGoingBack](http://twitter.com/search?q=%23GOSE_isGoingBack) | N/A |
+| 45 | [#LISAXCELINE](http://twitter.com/search?q=%23LISAXCELINE) | N/A |
+| 46 | [#BAZAARSGxLISA](http://twitter.com/search?q=%23BAZAARSGxLISA) | N/A |
+| 47 | [#CELINEBYHEDISLIMANE](http://twitter.com/search?q=%23CELINEBYHEDISLIMANE) | N/A |
+| 48 | [#AFCU20](http://twitter.com/search?q=%23AFCU20) | N/A |
 
 
 

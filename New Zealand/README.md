@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Zealand
 
-📆 Last Updated: `2023-03-01 14:16:26 UTC`
+📆 Last Updated: `2023-03-01 15:16:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,7 +21,7 @@ This is top 50 for New Zealand
 | 4 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
 | 5 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
 | 6 | [Ian Foster](http://twitter.com/search?q=Ian+Foster) | N/A |
-| 7 | [Marae](http://twitter.com/search?q=Marae) | N/A |
+| 7 | [marae](http://twitter.com/search?q=marae) | N/A |
 | 8 | [te whatu ora](http://twitter.com/search?q=te+whatu+ora) | N/A |
 | 9 | [HDPA](http://twitter.com/search?q=HDPA) | N/A |
 | 10 | [#mafsaunz](http://twitter.com/search?q=%23mafsaunz) | N/A |
@@ -37,11 +37,11 @@ This is top 50 for New Zealand
 | 20 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
 | 21 | [Avondale](http://twitter.com/search?q=Avondale) | N/A |
 | 22 | [willie jackson](http://twitter.com/search?q=willie+jackson) | N/A |
-| 23 | [david seymour](http://twitter.com/search?q=david+seymour) | N/A |
+| 23 | [David Seymour](http://twitter.com/search?q=David+Seymour) | N/A |
 | 24 | [Jason](http://twitter.com/search?q=Jason) | Jason is a masculine given name of Greek origin. It is derived from the Greek Ἰάσων (Iásōn), meaning "healer" or "the one who cures". |
 | 25 | [kim hill](http://twitter.com/search?q=kim+hill) | N/A |
 | 26 | [uffindell](http://twitter.com/search?q=uffindell) | N/A |
-| 27 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
+| 27 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
 | 28 | [Wayne](http://twitter.com/search?q=Wayne) | Wayne is a masculine given name in English, derived from an Old English surname meaning "wagon maker" or "wagon driver". It is also used as a surname. |
 | 29 | [Proud Boys](http://twitter.com/search?q=Proud+Boys) | N/A |
 | 30 | [Heather](http://twitter.com/search?q=Heather) | N/A |
@@ -51,7 +51,7 @@ This is top 50 for New Zealand
 | 34 | [Chantelle](http://twitter.com/search?q=Chantelle) | N/A |
 | 35 | [Bloomfield](http://twitter.com/search?q=Bloomfield) | N/A |
 | 36 | [ayesha verrall](http://twitter.com/search?q=ayesha+verrall) | N/A |
-| 37 | [Maori](http://twitter.com/search?q=Maori) | N/A |
+| 37 | [maori](http://twitter.com/search?q=maori) | N/A |
 | 38 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
 | 39 | [Breakfast](http://twitter.com/search?q=Breakfast) | N/A |
 | 40 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |

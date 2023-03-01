@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Algiers
 
-📆 Last Updated: `2023-03-01 14:16:01 UTC`
+📆 Last Updated: `2023-03-01 15:16:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,47 +23,47 @@ This is top 50 for [Algeria](</Algeria>)
 | 6 | [#africawithoutfrance_is_better](http://twitter.com/search?q=%23africawithoutfrance_is_better) | N/A |
 | 7 | [#rover_moodsampler1](http://twitter.com/search?q=%23rover_moodsampler1) | N/A |
 | 8 | [النقل الحضري](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d9%82%d9%84+%d8%a7%d9%84%d8%ad%d8%b6%d8%b1%d9%8a) | N/A |
-| 9 | [#TAEHYUNGxSiminvest](http://twitter.com/search?q=%23TAEHYUNGxSiminvest) | N/A |
-| 10 | [الدفاع السعوديه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%81%d8%a7%d8%b9+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87) | N/A |
+| 9 | [الدفاع السعوديه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%81%d8%a7%d8%b9+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87) | N/A |
+| 10 | [#TAEHYUNGxSiminvest](http://twitter.com/search?q=%23TAEHYUNGxSiminvest) | N/A |
 | 11 | [ROVER IS COMING](http://twitter.com/search?q=ROVER+IS+COMING) | N/A |
 | 12 | [#JISOOxDiorAW23](http://twitter.com/search?q=%23JISOOxDiorAW23) | N/A |
 | 13 | [JISOO THE FACE OF DIOR](http://twitter.com/search?q=JISOO+THE+FACE+OF+DIOR) | N/A |
-| 14 | [كندا](http://twitter.com/search?q=%d9%83%d9%86%d8%af%d8%a7) | N/A |
-| 15 | [الابا](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%a8%d8%a7) | الابا is an Arabic word meaning "father". |
-| 16 | [قطاع الفلاحه](http://twitter.com/search?q=%d9%82%d8%b7%d8%a7%d8%b9+%d8%a7%d9%84%d9%81%d9%84%d8%a7%d8%ad%d9%87) | N/A |
-| 17 | [الاكتفاء الذاتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%83%d8%aa%d9%81%d8%a7%d8%a1+%d8%a7%d9%84%d8%b0%d8%a7%d8%aa%d9%8a) | N/A |
-| 18 | [مودريتش](http://twitter.com/search?q=%d9%85%d9%88%d8%af%d8%b1%d9%8a%d8%aa%d8%b4) | مودريتش (Moderich) is a type of traditional Middle Eastern dance. It is a combination of traditional folk dances from various countries in the region, including Egypt, Lebanon, Syria, and Palestine. The dance is characterized by its fast-paced and energetic movements, as well as its use of props such as swords and canes. In English, the term "Moderich" translates to "dance of joy." |
-| 19 | [القطاع الفلاحي](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b7%d8%a7%d8%b9+%d8%a7%d9%84%d9%81%d9%84%d8%a7%d8%ad%d9%8a) | N/A |
+| 14 | [الاكتفاء الذاتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%83%d8%aa%d9%81%d8%a7%d8%a1+%d8%a7%d9%84%d8%b0%d8%a7%d8%aa%d9%8a) | N/A |
+| 15 | [كندا](http://twitter.com/search?q=%d9%83%d9%86%d8%af%d8%a7) | N/A |
+| 16 | [الابا](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%a8%d8%a7) | الابا is an Arabic word meaning "father". |
+| 17 | [قطاع الفلاحه](http://twitter.com/search?q=%d9%82%d8%b7%d8%a7%d8%b9+%d8%a7%d9%84%d9%81%d9%84%d8%a7%d8%ad%d9%87) | N/A |
+| 18 | [القطاع الفلاحي](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b7%d8%a7%d8%b9+%d8%a7%d9%84%d9%81%d9%84%d8%a7%d8%ad%d9%8a) | N/A |
+| 19 | [كاس العالم](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | كاس العالم (Kass al-Alam) is an Arabic phrase meaning "World Cup". It is used to refer to the FIFA World Cup, an international football tournament held every four years. |
 | 20 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
-| 21 | [كاس العالم](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | كاس العالم (Kass al-Alam) is an Arabic phrase meaning "World Cup". It is used to refer to the FIFA World Cup, an international football tournament held every four years. |
-| 22 | [تورينو](http://twitter.com/search?q=%d8%aa%d9%88%d8%b1%d9%8a%d9%86%d9%88) | N/A |
-| 23 | [يوفنتوس](http://twitter.com/search?q=%d9%8a%d9%88%d9%81%d9%86%d8%aa%d9%88%d8%b3) | N/A |
-| 24 | [الامن الغذايي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%86+%d8%a7%d9%84%d8%ba%d8%b0%d8%a7%d9%8a%d9%8a) | N/A |
-| 25 | [الفيفا](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%8a%d9%81%d8%a7) | N/A |
-| 26 | [الشرق الاوسط](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b1%d9%82+%d8%a7%d9%84%d8%a7%d9%88%d8%b3%d8%b7) | N/A |
+| 21 | [تورينو](http://twitter.com/search?q=%d8%aa%d9%88%d8%b1%d9%8a%d9%86%d9%88) | N/A |
+| 22 | [يوفنتوس](http://twitter.com/search?q=%d9%8a%d9%88%d9%81%d9%86%d8%aa%d9%88%d8%b3) | N/A |
+| 23 | [مودريتش](http://twitter.com/search?q=%d9%85%d9%88%d8%af%d8%b1%d9%8a%d8%aa%d8%b4) | مودريتش (Moderich) is a type of traditional Middle Eastern dance. It is a combination of traditional folk dances from various countries in the region, including Egypt, Lebanon, Syria, and Palestine. The dance is characterized by its fast-paced and energetic movements, as well as its use of props such as swords and canes. In English, the term "Moderich" translates to "dance of joy." |
+| 24 | [علي الناس](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%86%d8%a7%d8%b3) | N/A |
+| 25 | [الامن الغذايي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%86+%d8%a7%d9%84%d8%ba%d8%b0%d8%a7%d9%8a%d9%8a) | N/A |
+| 26 | [الفيفا](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%8a%d9%81%d8%a7) | N/A |
 | 27 | [رياض محرز](http://twitter.com/search?q=%d8%b1%d9%8a%d8%a7%d8%b6+%d9%85%d8%ad%d8%b1%d8%b2) | N/A |
-| 28 | [كورتوا](http://twitter.com/search?q=%d9%83%d9%88%d8%b1%d8%aa%d9%88%d8%a7) | كورتوا is a type of traditional Iraqi dish made with bulgur wheat, onions, and spices. It is usually served with yogurt or tahini sauce. In English, it is known as Korto or Korto Pilaf. |
-| 29 | [الوزير الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
-| 30 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
-| 31 | [28 فيفري 2023](http://twitter.com/search?q=28+%d9%81%d9%8a%d9%81%d8%b1%d9%8a+2023) | N/A |
-| 32 | [الكره الذهبيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d8%b1%d9%87+%d8%a7%d9%84%d8%b0%d9%87%d8%a8%d9%8a%d9%87) | N/A |
-| 33 | [علي الناس](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%86%d8%a7%d8%b3) | N/A |
+| 28 | [الوزير الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
+| 29 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
+| 30 | [28 فيفري 2023](http://twitter.com/search?q=28+%d9%81%d9%8a%d9%81%d8%b1%d9%8a+2023) | N/A |
+| 31 | [الكره الذهبيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d8%b1%d9%87+%d8%a7%d9%84%d8%b0%d9%87%d8%a8%d9%8a%d9%87) | N/A |
+| 32 | [المنتخب الجزايري](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%aa%d8%ae%d8%a8+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1%d9%8a) | N/A |
+| 33 | [حقوق الانسان](http://twitter.com/search?q=%d8%ad%d9%82%d9%88%d9%82+%d8%a7%d9%84%d8%a7%d9%86%d8%b3%d8%a7%d9%86) | N/A |
 | 34 | [رضوان](http://twitter.com/search?q=%d8%b1%d8%b6%d9%88%d8%a7%d9%86) | N/A |
-| 35 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
-| 36 | [حقوق الانسان](http://twitter.com/search?q=%d8%ad%d9%82%d9%88%d9%82+%d8%a7%d9%84%d8%a7%d9%86%d8%b3%d8%a7%d9%86) | N/A |
-| 37 | [مارتينيز](http://twitter.com/search?q=%d9%85%d8%a7%d8%b1%d8%aa%d9%8a%d9%86%d9%8a%d8%b2) | مارتينيز is a type of traditional Middle Eastern pastry. It is made with thin layers of dough filled with nuts, honey, and spices. In English, it is sometimes referred to as "baklava". |
-| 38 | [علي الرغم](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b1%d8%ba%d9%85) | N/A |
-| 39 | [الإمارات](http://twitter.com/search?q=%d8%a7%d9%84%d8%a5%d9%85%d8%a7%d8%b1%d8%a7%d8%aa) | N/A |
-| 40 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 41 | [الشيخ الالباني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%8a%d8%ae+%d8%a7%d9%84%d8%a7%d9%84%d8%a8%d8%a7%d9%86%d9%8a) | N/A |
-| 42 | [الشعب السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
-| 43 | [الجامعه العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%a7%d9%85%d8%b9%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
-| 44 | [الدوله العثمانيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%87+%d8%a7%d9%84%d8%b9%d8%ab%d9%85%d8%a7%d9%86%d9%8a%d9%87) | N/A |
-| 45 | [التعاون العسكري](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b9%d8%a7%d9%88%d9%86+%d8%a7%d9%84%d8%b9%d8%b3%d9%83%d8%b1%d9%8a) | N/A |
-| 46 | [الاردن](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b1%d8%af%d9%86) | N/A |
-| 47 | [المانيا](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%a7%d9%86%d9%8a%d8%a7) | N/A |
+| 35 | [الثوره الجزايريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ab%d9%88%d8%b1%d9%87+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1%d9%8a%d9%87) | N/A |
+| 36 | [مارتينيز](http://twitter.com/search?q=%d9%85%d8%a7%d8%b1%d8%aa%d9%8a%d9%86%d9%8a%d8%b2) | مارتينيز is a type of traditional Middle Eastern pastry. It is made with thin layers of dough filled with nuts, honey, and spices. In English, it is sometimes referred to as "baklava". |
+| 37 | [مدريد](http://twitter.com/search?q=%d9%85%d8%af%d8%b1%d9%8a%d8%af) | مدريد is the Spanish name for Madrid, the capital of Spain. In English, it means "Madrid". |
+| 38 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 39 | [الشيخ الالباني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%8a%d8%ae+%d8%a7%d9%84%d8%a7%d9%84%d8%a8%d8%a7%d9%86%d9%8a) | N/A |
+| 40 | [الجامعه العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%a7%d9%85%d8%b9%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
+| 41 | [الانكار العلني](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d9%83%d8%a7%d8%b1+%d8%a7%d9%84%d8%b9%d9%84%d9%86%d9%8a) | N/A |
+| 42 | [التعاون العسكري](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b9%d8%a7%d9%88%d9%86+%d8%a7%d9%84%d8%b9%d8%b3%d9%83%d8%b1%d9%8a) | N/A |
+| 43 | [الشعب السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
+| 44 | [الاردن](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b1%d8%af%d9%86) | N/A |
+| 45 | [المانيا](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%a7%d9%86%d9%8a%d8%a7) | N/A |
+| 46 | [بن زيمة](http://twitter.com/search?q=%d8%a8%d9%86+%d8%b2%d9%8a%d9%85%d8%a9) | N/A |
+| 47 | [سيتي](http://twitter.com/search?q=%d8%b3%d9%8a%d8%aa%d9%8a) | N/A |
 | 48 | [Amin](http://twitter.com/search?q=Amin) | N/A |
-| 49 | [القوات الروسيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%88%d8%a7%d8%aa+%d8%a7%d9%84%d8%b1%d9%88%d8%b3%d9%8a%d9%87) | N/A |
+| 49 | [كورتوا](http://twitter.com/search?q=%d9%83%d9%88%d8%b1%d8%aa%d9%88%d8%a7) | كورتوا is a type of traditional Iraqi dish made with bulgur wheat, onions, and spices. It is usually served with yogurt or tahini sauce. In English, it is known as Korto or Korto Pilaf. |
 | 50 | [الجمهوريه الصحراويه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%85%d9%87%d9%88%d8%b1%d9%8a%d9%87+%d8%a7%d9%84%d8%b5%d8%ad%d8%b1%d8%a7%d9%88%d9%8a%d9%87) | N/A |
 
 
