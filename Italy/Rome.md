@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rome
 
-📆 Last Updated: `2023-03-01 00:32:53 UTC`
+📆 Last Updated: `2023-03-01 01:45:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,49 +22,39 @@ This is top 50 for [Italy](</Italy>)
 | 5 | [#JuventusTorino](http://twitter.com/search?q=%23JuventusTorino) | N/A |
 | 6 | [#BuongiornoMamma2](http://twitter.com/search?q=%23BuongiornoMamma2) | N/A |
 | 7 | [Bremer](http://twitter.com/search?q=Bremer) | Bremer is a German surname derived from the city of Bremen. In English, it can mean someone from Bremen or a person of German descent. |
-| 8 | [Juric](http://twitter.com/search?q=Juric) | N/A |
-| 9 | [Faouzi](http://twitter.com/search?q=Faouzi) | N/A |
-| 10 | [Casalino](http://twitter.com/search?q=Casalino) | N/A |
+| 8 | [Faouzi](http://twitter.com/search?q=Faouzi) | N/A |
+| 9 | [Juric](http://twitter.com/search?q=Juric) | N/A |
+| 10 | [CUOCO](http://twitter.com/search?q=CUOCO) | N/A |
 | 11 | [TORINO È BIANCONERA](http://twitter.com/search?q=TORINO+%c3%88+BIANCONERA) | N/A |
-| 12 | [Carolina Crescentini](http://twitter.com/search?q=Carolina+Crescentini) | N/A |
-| 13 | [Sole](http://twitter.com/search?q=Sole) | N/A |
-| 14 | [Baudelaire](http://twitter.com/search?q=Baudelaire) | N/A |
-| 15 | [Agata](http://twitter.com/search?q=Agata) | N/A |
-| 16 | [Madame Bovary](http://twitter.com/search?q=Madame+Bovary) | N/A |
-| 17 | [Jacopo](http://twitter.com/search?q=Jacopo) | N/A |
-| 18 | [Mancini](http://twitter.com/search?q=Mancini) | Mancini is an Italian surname derived from the Latin name "Mantius". It is a common surname in Italy and other parts of Europe. In English, it means "son of Mantius". |
-| 19 | [Radonjic](http://twitter.com/search?q=Radonjic) | N/A |
-| 20 | [Chiesa](http://twitter.com/search?q=Chiesa) | Chiesa is an Italian word meaning "church". It is derived from the Latin word ecclesia, which also means "church". |
-| 21 | [Cairo](http://twitter.com/search?q=Cairo) | N/A |
-| 22 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | N/A |
-| 23 | [Filippo](http://twitter.com/search?q=Filippo) | N/A |
-| 24 | [Karamoh](http://twitter.com/search?q=Karamoh) | N/A |
-| 25 | [De Benedetti](http://twitter.com/search?q=De+Benedetti) | N/A |
-| 26 | [Giletti](http://twitter.com/search?q=Giletti) | N/A |
-| 27 | [Pellegrini](http://twitter.com/search?q=Pellegrini) | N/A |
-| 28 | [La Roma](http://twitter.com/search?q=La+Roma) | N/A |
-| 29 | [Cremona](http://twitter.com/search?q=Cremona) | N/A |
-| 30 | [Ballardini](http://twitter.com/search?q=Ballardini) | N/A |
-| 31 | [Forza Roma](http://twitter.com/search?q=Forza+Roma) | N/A |
-| 32 | [Stadium](http://twitter.com/search?q=Stadium) | N/A |
-| 33 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
-| 34 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
-| 35 | [#StaseraCeCattelan](http://twitter.com/search?q=%23StaseraCeCattelan) | N/A |
-| 36 | [#dimartedi](http://twitter.com/search?q=%23dimartedi) | N/A |
-| 37 | [#Pogba](http://twitter.com/search?q=%23Pogba) | N/A |
-| 38 | [#derbydellamole](http://twitter.com/search?q=%23derbydellamole) | N/A |
-| 39 | [#Mourinho](http://twitter.com/search?q=%23Mourinho) | N/A |
-| 40 | [#CremoneseRoma](http://twitter.com/search?q=%23CremoneseRoma) | N/A |
-| 41 | [#cartabianca](http://twitter.com/search?q=%23cartabianca) | N/A |
-| 42 | [#jvtblive](http://twitter.com/search?q=%23jvtblive) | N/A |
-| 43 | [#SeiDonne](http://twitter.com/search?q=%23SeiDonne) | N/A |
-| 44 | [#Fuoridalcoro](http://twitter.com/search?q=%23Fuoridalcoro) | N/A |
-| 45 | [#primoappuntamento](http://twitter.com/search?q=%23primoappuntamento) | N/A |
-| 46 | [#leiene](http://twitter.com/search?q=%23leiene) | N/A |
-| 47 | [#lineanotte](http://twitter.com/search?q=%23lineanotte) | N/A |
-| 48 | [#Rabiot](http://twitter.com/search?q=%23Rabiot) | N/A |
-| 49 | [#Kostic](http://twitter.com/search?q=%23Kostic) | N/A |
-| 50 | [#Danilo](http://twitter.com/search?q=%23Danilo) | N/A |
+| 12 | [Kostic](http://twitter.com/search?q=Kostic) | N/A |
+| 13 | [Baudelaire](http://twitter.com/search?q=Baudelaire) | N/A |
+| 14 | [Mancini](http://twitter.com/search?q=Mancini) | Mancini is an Italian surname derived from the Latin name "Mantius". It is a common surname in Italy and other parts of Europe. In English, it means "son of Mantius". |
+| 15 | [Chiesa](http://twitter.com/search?q=Chiesa) | Chiesa is an Italian word meaning "church". It is derived from the Latin word ecclesia, which also means "church". |
+| 16 | [Cairo](http://twitter.com/search?q=Cairo) | N/A |
+| 17 | [Filippo](http://twitter.com/search?q=Filippo) | N/A |
+| 18 | [Serra](http://twitter.com/search?q=Serra) | N/A |
+| 19 | [De Benedetti](http://twitter.com/search?q=De+Benedetti) | N/A |
+| 20 | [Pellegrini](http://twitter.com/search?q=Pellegrini) | N/A |
+| 21 | [La Roma](http://twitter.com/search?q=La+Roma) | N/A |
+| 22 | [Barrenechea](http://twitter.com/search?q=Barrenechea) | N/A |
+| 23 | [Forza Roma](http://twitter.com/search?q=Forza+Roma) | N/A |
+| 24 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
+| 25 | [#ilunatici](http://twitter.com/search?q=%23ilunatici) | N/A |
+| 26 | [#StaseraCeCattelan](http://twitter.com/search?q=%23StaseraCeCattelan) | N/A |
+| 27 | [#dimartedi](http://twitter.com/search?q=%23dimartedi) | N/A |
+| 28 | [#derbydellamole](http://twitter.com/search?q=%23derbydellamole) | N/A |
+| 29 | [#Mourinho](http://twitter.com/search?q=%23Mourinho) | N/A |
+| 30 | [#cartabianca](http://twitter.com/search?q=%23cartabianca) | N/A |
+| 31 | [#CremoneseRoma](http://twitter.com/search?q=%23CremoneseRoma) | N/A |
+| 32 | [#Pogba](http://twitter.com/search?q=%23Pogba) | N/A |
+| 33 | [#Fuoridalcoro](http://twitter.com/search?q=%23Fuoridalcoro) | N/A |
+| 34 | [#leiene](http://twitter.com/search?q=%23leiene) | N/A |
+| 35 | [#lineanotte](http://twitter.com/search?q=%23lineanotte) | N/A |
+| 36 | [#Rabiot](http://twitter.com/search?q=%23Rabiot) | N/A |
+| 37 | [#Danilo](http://twitter.com/search?q=%23Danilo) | N/A |
+| 38 | [#Casalino](http://twitter.com/search?q=%23Casalino) | N/A |
+| 39 | [#Cuadrado](http://twitter.com/search?q=%23Cuadrado) | N/A |
+| 40 | [#casabalestra](http://twitter.com/search?q=%23casabalestra) | N/A |
 
 
 

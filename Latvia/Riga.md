@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-03-01 00:32:55 UTC`
+📆 Last Updated: `2023-03-01 01:45:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,7 +28,7 @@ This is top 50 for [Latvia](</Latvia>)
 | 11 | [Francijas](http://twitter.com/search?q=Francijas) | N/A |
 | 12 | [Viņi](http://twitter.com/search?q=Vi%c5%86i) | N/A |
 | 13 | [#Russia](http://twitter.com/search?q=%23Russia) | N/A |
-| 14 | [Apsveicu](http://twitter.com/search?q=Apsveicu) | N/A |
+| 14 | [apsveicu](http://twitter.com/search?q=apsveicu) | N/A |
 | 15 | [skaidrs](http://twitter.com/search?q=skaidrs) | N/A |
 | 16 | [Vienotība](http://twitter.com/search?q=Vienot%c4%abba) | N/A |
 | 17 | [Visi](http://twitter.com/search?q=Visi) | N/A |
@@ -37,12 +37,12 @@ This is top 50 for [Latvia](</Latvia>)
 | 20 | [vācijā](http://twitter.com/search?q=v%c4%81cij%c4%81) | N/A |
 | 21 | [atceros](http://twitter.com/search?q=atceros) | N/A |
 | 22 | [kurzemē](http://twitter.com/search?q=kurzem%c4%93) | N/A |
-| 23 | [Vienmēr](http://twitter.com/search?q=Vienm%c4%93r) | N/A |
-| 24 | [#SIF_MAF2022](http://twitter.com/search?q=%23SIF_MAF2022) | N/A |
+| 23 | [vienmēr](http://twitter.com/search?q=vienm%c4%93r) | N/A |
+| 24 | [#sif_maf2022](http://twitter.com/search?q=%23sif_maf2022) | N/A |
 | 25 | [Латвии](http://twitter.com/search?q=%d0%9b%d0%b0%d1%82%d0%b2%d0%b8%d0%b8) | N/A |
 | 26 | [baigi](http://twitter.com/search?q=baigi) | N/A |
 | 27 | [Кстати](http://twitter.com/search?q=%d0%9a%d1%81%d1%82%d0%b0%d1%82%d0%b8) | N/A |
-| 28 | [Valsts](http://twitter.com/search?q=Valsts) | N/A |
+| 28 | [valsts](http://twitter.com/search?q=valsts) | N/A |
 | 29 | [tāpat](http://twitter.com/search?q=t%c4%81pat) | N/A |
 | 30 | [Pilnīgi](http://twitter.com/search?q=Piln%c4%abgi) | N/A |
 | 31 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
@@ -58,7 +58,7 @@ This is top 50 for [Latvia](</Latvia>)
 | 41 | [Latvija](http://twitter.com/search?q=Latvija) | N/A |
 | 42 | [nevajag](http://twitter.com/search?q=nevajag) | N/A |
 | 43 | [dievs](http://twitter.com/search?q=dievs) | N/A |
-| 44 | [Šeit](http://twitter.com/search?q=%c5%a0eit) | N/A |
+| 44 | [šeit](http://twitter.com/search?q=%c5%a1eit) | N/A |
 | 45 | [Kultūras](http://twitter.com/search?q=Kult%c5%abras) | N/A |
 | 46 | [Ceru](http://twitter.com/search?q=Ceru) | N/A |
 | 47 | [Šajā](http://twitter.com/search?q=%c5%a0aj%c4%81) | N/A |

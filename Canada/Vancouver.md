@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vancouver
 
-📆 Last Updated: `2023-03-01 00:32:37 UTC`
+📆 Last Updated: `2023-03-01 01:44:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Barrie](http://twitter.com/search?q=Barrie) | N/A |
-| 2 | [Sandin](http://twitter.com/search?q=Sandin) | N/A |
+| 1 | [#bcpoli](http://twitter.com/search?q=%23bcpoli) | N/A |
+| 2 | [Barrie](http://twitter.com/search?q=Barrie) | N/A |
 | 3 | [Ekholm](http://twitter.com/search?q=Ekholm) | N/A |
-| 4 | [Dubas](http://twitter.com/search?q=Dubas) | N/A |
-| 5 | [Schenn](http://twitter.com/search?q=Schenn) | N/A |
-| 6 | [#LeafsForever](http://twitter.com/search?q=%23LeafsForever) | #LeafsForever is a hashtag used by Toronto Maple Leafs fans to show their support for the team. It is a rallying cry for the team and its fans, expressing their loyalty and dedication to the team. |
-| 7 | [Bouchard](http://twitter.com/search?q=Bouchard) | N/A |
-| 8 | [Engvall](http://twitter.com/search?q=Engvall) | N/A |
-| 9 | [Holl](http://twitter.com/search?q=Holl) | N/A |
-| 10 | [#MyFordWinterRide](http://twitter.com/search?q=%23MyFordWinterRide) | N/A |
-| 11 | [Chychrun](http://twitter.com/search?q=Chychrun) | N/A |
-| 12 | [Gustafsson](http://twitter.com/search?q=Gustafsson) | N/A |
-| 13 | [Barton](http://twitter.com/search?q=Barton) | N/A |
-| 14 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 15 | [#NHLTradeDeadline](http://twitter.com/search?q=%23NHLTradeDeadline) | N/A |
-| 16 | [Ceci](http://twitter.com/search?q=Ceci) | N/A |
-| 17 | [Broberg](http://twitter.com/search?q=Broberg) | N/A |
-| 18 | [Boeser](http://twitter.com/search?q=Boeser) | N/A |
-| 19 | [Budget 2023](http://twitter.com/search?q=Budget+2023) | N/A |
-| 20 | [#bcbudget](http://twitter.com/search?q=%23bcbudget) | N/A |
-| 21 | [Schaefer](http://twitter.com/search?q=Schaefer) | N/A |
-| 22 | [Washington](http://twitter.com/search?q=Washington) | N/A |
-| 23 | [Korpisalo](http://twitter.com/search?q=Korpisalo) | N/A |
-| 24 | [#BeyondFast](http://twitter.com/search?q=%23BeyondFast) | #BeyondFast is a hashtag used to describe something that goes beyond the speed of fast. It is used to emphasize the idea that something is faster than fast, or that it surpasses the speed of fast. |
-| 25 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
-| 26 | [Dave Grohl](http://twitter.com/search?q=Dave+Grohl) | N/A |
-| 27 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 28 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
-| 29 | [Rielly](http://twitter.com/search?q=Rielly) | N/A |
-| 30 | [Murray](http://twitter.com/search?q=Murray) | N/A |
-| 31 | [Sandman](http://twitter.com/search?q=Sandman) | N/A |
-| 32 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 33 | [Kenny](http://twitter.com/search?q=Kenny) | N/A |
-| 34 | [McCabe](http://twitter.com/search?q=McCabe) | N/A |
-| 35 | [Miller](http://twitter.com/search?q=Miller) | N/A |
-| 36 | [Keefe](http://twitter.com/search?q=Keefe) | N/A |
-| 37 | [Pogba](http://twitter.com/search?q=Pogba) | Pogba is a nickname for the French professional footballer Paul Pogba. It is derived from his last name and is often used as a term of endearment by his fans. |
-| 38 | [Pettersson](http://twitter.com/search?q=Pettersson) | N/A |
-| 39 | [Trudeau Foundation](http://twitter.com/search?q=Trudeau+Foundation) | N/A |
-| 40 | [Kulak](http://twitter.com/search?q=Kulak) | N/A |
-| 41 | [Ricky Tiedemann](http://twitter.com/search?q=Ricky+Tiedemann) | N/A |
-| 42 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
-| 43 | [Jensen](http://twitter.com/search?q=Jensen) | N/A |
-| 44 | [Birgit](http://twitter.com/search?q=Birgit) | N/A |
-| 45 | [Tamara Lich](http://twitter.com/search?q=Tamara+Lich) | N/A |
-| 46 | [Carolina](http://twitter.com/search?q=Carolina) | N/A |
-| 47 | [Preds](http://twitter.com/search?q=Preds) | N/A |
-| 48 | [Kent Hughes](http://twitter.com/search?q=Kent+Hughes) | N/A |
-| 49 | [Knies](http://twitter.com/search?q=Knies) | N/A |
-| 50 | [Boston](http://twitter.com/search?q=Boston) | Boston is the capital and most populous city of the Commonwealth of Massachusetts in the United States. It is one of the oldest cities in the United States, founded in 1630 by Puritan settlers from England. The city is known for its rich history, culture, and educational institutions. It is also home to many world-renowned museums, universities, and hospitals. |
+| 4 | [Barton](http://twitter.com/search?q=Barton) | N/A |
+| 5 | [Sandin](http://twitter.com/search?q=Sandin) | N/A |
+| 6 | [Watson](http://twitter.com/search?q=Watson) | Watson is an artificial intelligence (AI) computer system developed by IBM. It is capable of answering questions posed in natural language, making it a useful tool for businesses and researchers. Watson can also be used to analyze large amounts of data and generate insights from it. |
+| 7 | [Schenn](http://twitter.com/search?q=Schenn) | N/A |
+| 8 | [Dubas](http://twitter.com/search?q=Dubas) | N/A |
+| 9 | [Bouchard](http://twitter.com/search?q=Bouchard) | N/A |
+| 10 | [#LeafsForever](http://twitter.com/search?q=%23LeafsForever) | #LeafsForever is a hashtag used by Toronto Maple Leafs fans to show their support for the team. It is a rallying cry for the team and its fans, expressing their loyalty and dedication to the team. |
+| 11 | [#GoSensGo](http://twitter.com/search?q=%23GoSensGo) | N/A |
+| 12 | [#MyFordWinterRide](http://twitter.com/search?q=%23MyFordWinterRide) | N/A |
+| 13 | [Engvall](http://twitter.com/search?q=Engvall) | N/A |
+| 14 | [Larkin](http://twitter.com/search?q=Larkin) | N/A |
+| 15 | [#bcbudget](http://twitter.com/search?q=%23bcbudget) | N/A |
+| 16 | [Holl](http://twitter.com/search?q=Holl) | N/A |
+| 17 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
+| 18 | [Budget 2023](http://twitter.com/search?q=Budget+2023) | N/A |
+| 19 | [Schaefer](http://twitter.com/search?q=Schaefer) | N/A |
+| 20 | [Chychrun](http://twitter.com/search?q=Chychrun) | N/A |
+| 21 | [Newark](http://twitter.com/search?q=Newark) | N/A |
+| 22 | [Bertuzzi](http://twitter.com/search?q=Bertuzzi) | N/A |
+| 23 | [Broberg](http://twitter.com/search?q=Broberg) | N/A |
+| 24 | [Ceci](http://twitter.com/search?q=Ceci) | N/A |
+| 25 | [Gustafsson](http://twitter.com/search?q=Gustafsson) | N/A |
+| 26 | [Korpisalo](http://twitter.com/search?q=Korpisalo) | N/A |
+| 27 | [Perron](http://twitter.com/search?q=Perron) | N/A |
+| 28 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 29 | [Dave Grohl](http://twitter.com/search?q=Dave+Grohl) | N/A |
+| 30 | [Boeser](http://twitter.com/search?q=Boeser) | N/A |
+| 31 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
+| 32 | [Washington](http://twitter.com/search?q=Washington) | N/A |
+| 33 | [Patrick Kane](http://twitter.com/search?q=Patrick+Kane) | N/A |
+| 34 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
+| 35 | [Red Wings](http://twitter.com/search?q=Red+Wings) | N/A |
+| 36 | [Nurse](http://twitter.com/search?q=Nurse) | N/A |
+| 37 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
+| 38 | [Tamara Lich](http://twitter.com/search?q=Tamara+Lich) | N/A |
+| 39 | [Morris Rosenberg](http://twitter.com/search?q=Morris+Rosenberg) | N/A |
+| 40 | [Pogba](http://twitter.com/search?q=Pogba) | Pogba is a nickname for the French professional footballer Paul Pogba. It is derived from his last name and is often used as a term of endearment by his fans. |
+| 41 | [McCabe](http://twitter.com/search?q=McCabe) | N/A |
+| 42 | [Jensen](http://twitter.com/search?q=Jensen) | N/A |
+| 43 | [Peter Pan](http://twitter.com/search?q=Peter+Pan) | N/A |
+| 44 | [Trudeau Foundation](http://twitter.com/search?q=Trudeau+Foundation) | N/A |
+| 45 | [Tom Wilson](http://twitter.com/search?q=Tom+Wilson) | N/A |
+| 46 | [Pettersson](http://twitter.com/search?q=Pettersson) | N/A |
+| 47 | [Rielly](http://twitter.com/search?q=Rielly) | N/A |
+| 48 | [Murray](http://twitter.com/search?q=Murray) | N/A |
+| 49 | [Miller](http://twitter.com/search?q=Miller) | N/A |
+| 50 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
 
 
 

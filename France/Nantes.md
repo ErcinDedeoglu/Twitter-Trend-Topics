@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nantes
 
-📆 Last Updated: `2023-03-01 00:32:50 UTC`
+📆 Last Updated: `2023-03-01 01:45:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,55 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#KohLanta](http://twitter.com/search?q=%23KohLanta) | N/A |
-| 2 | [#OLGF38](http://twitter.com/search?q=%23OLGF38) | N/A |
-| 3 | [Dembele](http://twitter.com/search?q=Dembele) | Dembele is a surname of West African origin. It is derived from the Mande language and means "peaceful warrior". In English, it can be translated to mean "one who brings peace through strength". |
-| 4 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
-| 5 | [Emin](http://twitter.com/search?q=Emin) | N/A |
+| 1 | [#OLGF38](http://twitter.com/search?q=%23OLGF38) | N/A |
+| 2 | [#KohLanta](http://twitter.com/search?q=%23KohLanta) | N/A |
+| 3 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 4 | [Dembele](http://twitter.com/search?q=Dembele) | Dembele is a surname of West African origin. It is derived from the Mande language and means "peaceful warrior". In English, it can be translated to mean "one who brings peace through strength". |
+| 5 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
 | 6 | [Jeffinho](http://twitter.com/search?q=Jeffinho) | Jeffinho is a Portuguese nickname derived from the name "Jefferson". It is often used as a term of endearment, similar to "honey" or "sweetheart" in English. |
-| 7 | [El Arouch](http://twitter.com/search?q=El+Arouch) | El Arouch is a type of traditional Lebanese dish made with bulgur wheat, vegetables, and spices. It is typically served as a side dish or as part of a mezze platter. The name El Arouch comes from the Arabic phrase “al-arish” which means “the top layer”, referring to the top layer of bulgur wheat that is cooked in the dish. In English, El Arouch translates to "the top layer". |
-| 8 | [Creed 3](http://twitter.com/search?q=Creed+3) | N/A |
-| 9 | [Helena](http://twitter.com/search?q=Helena) | N/A |
-| 10 | [Cherki](http://twitter.com/search?q=Cherki) | Cherki is a term used in Moroccan Arabic to refer to someone who is of mixed race or of mixed heritage. It literally translates to "half-breed" or "mixed-breed". |
-| 11 | [Diomande](http://twitter.com/search?q=Diomande) | N/A |
-| 12 | [Icardi](http://twitter.com/search?q=Icardi) | Icardi is a surname of Italian origin. It is derived from the Latin word "cardus" meaning thistle. In English, it can be translated to mean "of the thistle". |
-| 13 | [Grenoble](http://twitter.com/search?q=Grenoble) | N/A |
-| 14 | [Julien Bert](http://twitter.com/search?q=Julien+Bert) | N/A |
-| 15 | [Frappart](http://twitter.com/search?q=Frappart) | Frappart is a French term meaning "to make something better or more perfect." It is often used in the context of improving a product or service. |
-| 16 | [Pogba](http://twitter.com/search?q=Pogba) | Pogba is a nickname for the French professional footballer Paul Pogba. It is derived from his last name and is often used as a term of endearment by his fans. |
-| 17 | [Lopes](http://twitter.com/search?q=Lopes) | N/A |
-| 18 | [Tania](http://twitter.com/search?q=Tania) | N/A |
-| 19 | [Barcola](http://twitter.com/search?q=Barcola) | N/A |
-| 20 | [Djibril Cissé](http://twitter.com/search?q=Djibril+Ciss%c3%a9) | N/A |
-| 21 | [#BeyondFast](http://twitter.com/search?q=%23BeyondFast) | #BeyondFast is a hashtag used to describe something that goes beyond the speed of fast. It is used to emphasize the idea that something is faster than fast, or that it surpasses the speed of fast. |
-| 22 | [Alexandre](http://twitter.com/search?q=Alexandre) | N/A |
-| 23 | [Caqueret](http://twitter.com/search?q=Caqueret) | N/A |
-| 24 | [Amin Sarr](http://twitter.com/search?q=Amin+Sarr) | N/A |
-| 25 | [GIVE US WN BLOOPERS](http://twitter.com/search?q=GIVE+US+WN+BLOOPERS) | N/A |
-| 26 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
-| 27 | [Makoto Shinkai](http://twitter.com/search?q=Makoto+Shinkai) | N/A |
-| 28 | [Lepenant](http://twitter.com/search?q=Lepenant) | N/A |
-| 29 | [Torino](http://twitter.com/search?q=Torino) | N/A |
-| 30 | [Élodie](http://twitter.com/search?q=%c3%89lodie) | N/A |
-| 31 | [Tagliafico](http://twitter.com/search?q=Tagliafico) | N/A |
-| 32 | [Grenoblois](http://twitter.com/search?q=Grenoblois) | N/A |
-| 33 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
-| 34 | [Olympique Lyonnais](http://twitter.com/search?q=Olympique+Lyonnais) | N/A |
-| 35 | [Rothen](http://twitter.com/search?q=Rothen) | N/A |
-| 36 | [Quentin](http://twitter.com/search?q=Quentin) | N/A |
-| 37 | [Nicolas](http://twitter.com/search?q=Nicolas) | N/A |
-| 38 | [Kumbedi](http://twitter.com/search?q=Kumbedi) | N/A |
-| 39 | [xPortal](http://twitter.com/search?q=xPortal) | N/A |
-| 40 | [Laurent Blanc](http://twitter.com/search?q=Laurent+Blanc) | N/A |
-| 41 | [AC Milan](http://twitter.com/search?q=AC+Milan) | AC Milan is a professional Italian football club based in Milan, Italy. The club is one of the most successful teams in the world, having won 18 FIFA and UEFA titles. The acronym AC stands for Associazione Calcio (Italian for Football Association). |
-| 42 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
-| 43 | [Delormeau](http://twitter.com/search?q=Delormeau) | N/A |
-| 44 | [Milan AC](http://twitter.com/search?q=Milan+AC) | N/A |
-| 45 | [Momo](http://twitter.com/search?q=Momo) | Momo is a Japanese word that means "peach". It is also used as a nickname for someone who is cute or has a peachy complexion. |
-| 46 | [Peter Pan](http://twitter.com/search?q=Peter+Pan) | N/A |
-| 47 | [Ippo](http://twitter.com/search?q=Ippo) | N/A |
-| 48 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 7 | [#LeGraet](http://twitter.com/search?q=%23LeGraet) | N/A |
+| 8 | [Emin](http://twitter.com/search?q=Emin) | N/A |
+| 9 | [Julien Bert](http://twitter.com/search?q=Julien+Bert) | N/A |
+| 10 | [El Arouch](http://twitter.com/search?q=El+Arouch) | El Arouch is a type of traditional Lebanese dish made with bulgur wheat, vegetables, and spices. It is typically served as a side dish or as part of a mezze platter. The name El Arouch comes from the Arabic phrase “al-arish” which means “the top layer”, referring to the top layer of bulgur wheat that is cooked in the dish. In English, El Arouch translates to "the top layer". |
+| 11 | [#Papillomavirus](http://twitter.com/search?q=%23Papillomavirus) | N/A |
+| 12 | [Ethnicité](http://twitter.com/search?q=Ethnicit%c3%a9) | N/A |
+| 13 | [Creed 3](http://twitter.com/search?q=Creed+3) | N/A |
+| 14 | [Payet](http://twitter.com/search?q=Payet) | Payet is a French surname. It is derived from the Old French word "paie," which means "payment." In English, it can be translated to mean "one who pays." |
+| 15 | [Hilona](http://twitter.com/search?q=Hilona) | N/A |
+| 16 | [Frappart](http://twitter.com/search?q=Frappart) | Frappart is a French term meaning "to make something better or more perfect." It is often used in the context of improving a product or service. |
+| 17 | [Diomande](http://twitter.com/search?q=Diomande) | N/A |
+| 18 | [Grenoble](http://twitter.com/search?q=Grenoble) | N/A |
+| 19 | [Icardi](http://twitter.com/search?q=Icardi) | Icardi is a surname of Italian origin. It is derived from the Latin word "cardus" meaning thistle. In English, it can be translated to mean "of the thistle". |
+| 20 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
+| 21 | [Balkany](http://twitter.com/search?q=Balkany) | N/A |
+| 22 | [Barcola](http://twitter.com/search?q=Barcola) | N/A |
+| 23 | [Tania](http://twitter.com/search?q=Tania) | N/A |
+| 24 | [Infantino](http://twitter.com/search?q=Infantino) | Infantino is a Spanish word meaning "little baby". It is often used as an affectionate term for a young child. |
+| 25 | [Gardasil](http://twitter.com/search?q=Gardasil) | N/A |
+| 26 | [Cherki](http://twitter.com/search?q=Cherki) | Cherki is a term used in Moroccan Arabic to refer to someone who is of mixed race or of mixed heritage. It literally translates to "half-breed" or "mixed-breed". |
+| 27 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 28 | [Pogba](http://twitter.com/search?q=Pogba) | Pogba is a nickname for the French professional footballer Paul Pogba. It is derived from his last name and is often used as a term of endearment by his fans. |
+| 29 | [Miquella](http://twitter.com/search?q=Miquella) | N/A |
+| 30 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
+| 31 | [Caqueret](http://twitter.com/search?q=Caqueret) | N/A |
+| 32 | [Platini](http://twitter.com/search?q=Platini) | N/A |
+| 33 | [Rothen](http://twitter.com/search?q=Rothen) | N/A |
+| 34 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
+| 35 | [Djibril Cissé](http://twitter.com/search?q=Djibril+Ciss%c3%a9) | N/A |
+| 36 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
+| 37 | [Comex](http://twitter.com/search?q=Comex) | N/A |
+| 38 | [Makoto Shinkai](http://twitter.com/search?q=Makoto+Shinkai) | N/A |
+| 39 | [GIVE US WN BLOOPERS](http://twitter.com/search?q=GIVE+US+WN+BLOOPERS) | N/A |
+| 40 | [Marseille](http://twitter.com/search?q=Marseille) | N/A |
+| 41 | [Sarr](http://twitter.com/search?q=Sarr) | Sarr is a French surname. It is derived from the Latin word "sarra", which means "prince". In English, it can be translated to mean "princely". |
+| 42 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
+| 43 | [Helena](http://twitter.com/search?q=Helena) | N/A |
+| 44 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
+| 45 | [Torino](http://twitter.com/search?q=Torino) | N/A |
+| 46 | [Puskas](http://twitter.com/search?q=Puskas) | N/A |
+| 47 | [Suicune](http://twitter.com/search?q=Suicune) | N/A |
+| 48 | [Housni](http://twitter.com/search?q=Housni) | Housni is an Arabic name that means "good luck". It is often used as a term of endearment or to express good wishes. |
+| 49 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
 
 
 

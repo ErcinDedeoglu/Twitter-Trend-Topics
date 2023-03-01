@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Muscat
 
-📆 Last Updated: `2023-03-01 00:33:11 UTC`
+📆 Last Updated: `2023-03-01 01:45:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,10 +26,10 @@ This is top 50 for [Oman](</Oman>)
 | 9 | [التصميم المعماري](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b5%d9%85%d9%8a%d9%85+%d8%a7%d9%84%d9%85%d8%b9%d9%85%d8%a7%d8%b1%d9%8a) | N/A |
 | 10 | [الفيفا](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%8a%d9%81%d8%a7) | N/A |
 | 11 | [بنزيما](http://twitter.com/search?q=%d8%a8%d9%86%d8%b2%d9%8a%d9%85%d8%a7) | بنزيما (benzema) is a surname of Arabic origin. It is derived from the Arabic word "bin zamān" which means "son of time". In English, it can be translated to mean "son of time". |
-| 12 | [جزر المارينقو](http://twitter.com/search?q=%d8%ac%d8%b2%d8%b1+%d8%a7%d9%84%d9%85%d8%a7%d8%b1%d9%8a%d9%86%d9%82%d9%88) | N/A |
-| 13 | [التعليم الاساسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85+%d8%a7%d9%84%d8%a7%d8%b3%d8%a7%d8%b3%d9%8a) | N/A |
-| 14 | [مدارس السلطنه](http://twitter.com/search?q=%d9%85%d8%af%d8%a7%d8%b1%d8%b3+%d8%a7%d9%84%d8%b3%d9%84%d8%b7%d9%86%d9%87) | N/A |
-| 15 | [البرنامج الرياضي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d8%ac+%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d9%8a) | N/A |
+| 12 | [التعليم الاساسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85+%d8%a7%d9%84%d8%a7%d8%b3%d8%a7%d8%b3%d9%8a) | N/A |
+| 13 | [مدارس السلطنه](http://twitter.com/search?q=%d9%85%d8%af%d8%a7%d8%b1%d8%b3+%d8%a7%d9%84%d8%b3%d9%84%d8%b7%d9%86%d9%87) | N/A |
+| 14 | [البرنامج الرياضي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d8%ac+%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d9%8a) | N/A |
+| 15 | [جزر المارينقو](http://twitter.com/search?q=%d8%ac%d8%b2%d8%b1+%d8%a7%d9%84%d9%85%d8%a7%d8%b1%d9%8a%d9%86%d9%82%d9%88) | N/A |
 | 16 | [صاحب الحافله](http://twitter.com/search?q=%d8%b5%d8%a7%d8%ad%d8%a8+%d8%a7%d9%84%d8%ad%d8%a7%d9%81%d9%84%d9%87) | N/A |
 | 17 | [كاس العالم](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | كاس العالم (Kass al-Alam) is an Arabic phrase meaning "World Cup". It is used to refer to the FIFA World Cup, an international football tournament held every four years. |
 | 18 | [الشعر الشعبي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%b1+%d8%a7%d9%84%d8%b4%d8%b9%d8%a8%d9%8a) | N/A |
@@ -47,24 +47,24 @@ This is top 50 for [Oman](</Oman>)
 | 30 | [اليوم الاثنين](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86) | اليوم الاثنين is Arabic for "Monday" and it means "Monday" in English. |
 | 31 | [كره الطايره](http://twitter.com/search?q=%d9%83%d8%b1%d9%87+%d8%a7%d9%84%d8%b7%d8%a7%d9%8a%d8%b1%d9%87) | N/A |
 | 32 | [المدارس الخاصه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%af%d8%a7%d8%b1%d8%b3+%d8%a7%d9%84%d8%ae%d8%a7%d8%b5%d9%87) | N/A |
-| 33 | [القطاع الخاص](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b7%d8%a7%d8%b9+%d8%a7%d9%84%d8%ae%d8%a7%d8%b5) | N/A |
-| 34 | [باب الباص](http://twitter.com/search?q=%d8%a8%d8%a7%d8%a8+%d8%a7%d9%84%d8%a8%d8%a7%d8%b5) | N/A |
-| 35 | [الالعاب الشعبيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%84%d8%b9%d8%a7%d8%a8+%d8%a7%d9%84%d8%b4%d8%b9%d8%a8%d9%8a%d9%87) | N/A |
-| 36 | [السوبر الاوروبي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%88%d8%a8%d8%b1+%d8%a7%d9%84%d8%a7%d9%88%d8%b1%d9%88%d8%a8%d9%8a) | N/A |
-| 37 | [الكره الذهبيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d8%b1%d9%87+%d8%a7%d9%84%d8%b0%d9%87%d8%a8%d9%8a%d9%87) | N/A |
-| 38 | [الطيور الغازيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d9%8a%d9%88%d8%b1+%d8%a7%d9%84%d8%ba%d8%a7%d8%b2%d9%8a%d9%87) | N/A |
-| 39 | [الفنون التشكيليه](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%86%d9%88%d9%86+%d8%a7%d9%84%d8%aa%d8%b4%d9%83%d9%8a%d9%84%d9%8a%d9%87) | N/A |
-| 40 | [محمد البلوشي](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%a8%d9%84%d9%88%d8%b4%d9%8a) | N/A |
-| 41 | [النشاط البدني](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%b4%d8%a7%d8%b7+%d8%a7%d9%84%d8%a8%d8%af%d9%86%d9%8a) | N/A |
-| 42 | [الحفل الختامي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%81%d9%84+%d8%a7%d9%84%d8%ae%d8%aa%d8%a7%d9%85%d9%8a) | N/A |
-| 43 | [الاتحاد العماني](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af+%d8%a7%d9%84%d8%b9%d9%85%d8%a7%d9%86%d9%8a) | N/A |
-| 44 | [ذوي الاعاقه](http://twitter.com/search?q=%d8%b0%d9%88%d9%8a+%d8%a7%d9%84%d8%a7%d8%b9%d8%a7%d9%82%d9%87) | N/A |
-| 45 | [الصحه المدرسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d8%ad%d9%87+%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%8a%d9%87) | N/A |
-| 46 | [الابداع الثقافي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%a8%d8%af%d8%a7%d8%b9+%d8%a7%d9%84%d8%ab%d9%82%d8%a7%d9%81%d9%8a) | N/A |
-| 47 | [الروتين اليومي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%88%d8%aa%d9%8a%d9%86+%d8%a7%d9%84%d9%8a%d9%88%d9%85%d9%8a) | N/A |
-| 48 | [علي السايق](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b3%d8%a7%d9%8a%d9%82) | N/A |
-| 49 | [الابا](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%a8%d8%a7) | الابا is an Arabic word meaning "father". |
-| 50 | [الامان الوظيفي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d9%86+%d8%a7%d9%84%d9%88%d8%b8%d9%8a%d9%81%d9%8a) | N/A |
+| 33 | [باب الباص](http://twitter.com/search?q=%d8%a8%d8%a7%d8%a8+%d8%a7%d9%84%d8%a8%d8%a7%d8%b5) | N/A |
+| 34 | [الالعاب الشعبيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%84%d8%b9%d8%a7%d8%a8+%d8%a7%d9%84%d8%b4%d8%b9%d8%a8%d9%8a%d9%87) | N/A |
+| 35 | [السوبر الاوروبي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%88%d8%a8%d8%b1+%d8%a7%d9%84%d8%a7%d9%88%d8%b1%d9%88%d8%a8%d9%8a) | N/A |
+| 36 | [الكره الذهبيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d8%b1%d9%87+%d8%a7%d9%84%d8%b0%d9%87%d8%a8%d9%8a%d9%87) | N/A |
+| 37 | [الطيور الغازيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d9%8a%d9%88%d8%b1+%d8%a7%d9%84%d8%ba%d8%a7%d8%b2%d9%8a%d9%87) | N/A |
+| 38 | [الفنون التشكيليه](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%86%d9%88%d9%86+%d8%a7%d9%84%d8%aa%d8%b4%d9%83%d9%8a%d9%84%d9%8a%d9%87) | N/A |
+| 39 | [محمد البلوشي](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%a8%d9%84%d9%88%d8%b4%d9%8a) | N/A |
+| 40 | [النشاط البدني](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%b4%d8%a7%d8%b7+%d8%a7%d9%84%d8%a8%d8%af%d9%86%d9%8a) | N/A |
+| 41 | [الحفل الختامي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%81%d9%84+%d8%a7%d9%84%d8%ae%d8%aa%d8%a7%d9%85%d9%8a) | N/A |
+| 42 | [الاتحاد العماني](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af+%d8%a7%d9%84%d8%b9%d9%85%d8%a7%d9%86%d9%8a) | N/A |
+| 43 | [ذوي الاعاقه](http://twitter.com/search?q=%d8%b0%d9%88%d9%8a+%d8%a7%d9%84%d8%a7%d8%b9%d8%a7%d9%82%d9%87) | N/A |
+| 44 | [الصحه المدرسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d8%ad%d9%87+%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%8a%d9%87) | N/A |
+| 45 | [الروتين اليومي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%88%d8%aa%d9%8a%d9%86+%d8%a7%d9%84%d9%8a%d9%88%d9%85%d9%8a) | N/A |
+| 46 | [علي السايق](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b3%d8%a7%d9%8a%d9%82) | N/A |
+| 47 | [الابا](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%a8%d8%a7) | الابا is an Arabic word meaning "father". |
+| 48 | [الامان الوظيفي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d9%86+%d8%a7%d9%84%d9%88%d8%b8%d9%8a%d9%81%d9%8a) | N/A |
+| 49 | [كره القدم](http://twitter.com/search?q=%d9%83%d8%b1%d9%87+%d8%a7%d9%84%d9%82%d8%af%d9%85) | N/A |
+| 50 | [القطاع الخاص](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b7%d8%a7%d8%b9+%d8%a7%d9%84%d8%ae%d8%a7%d8%b5) | N/A |
 
 
 

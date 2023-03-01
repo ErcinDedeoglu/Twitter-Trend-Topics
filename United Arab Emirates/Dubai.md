@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dubai
 
-📆 Last Updated: `2023-03-01 00:33:08 UTC`
+📆 Last Updated: `2023-03-01 01:45:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,9 +17,9 @@ This is top 50 for [United Arab Emirates](</United Arab Emirates>)
 | ------- | ------------ | ------------ |
 | 1 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
 | 2 | [#آرہا_ہے_کپتان_اسلام_آباد](http://twitter.com/search?q=%23%d8%a2%d8%b1%db%81%d8%a7_%db%81%db%92_%da%a9%d9%be%d8%aa%d8%a7%d9%86_%d8%a7%d8%b3%d9%84%d8%a7%d9%85_%d8%a2%d8%a8%d8%a7%d8%af) | N/A |
-| 3 | [شهر جديد](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%ac%d8%af%d9%8a%d8%af) | N/A |
-| 4 | [#پیروز](http://twitter.com/search?q=%23%d9%be%db%8c%d8%b1%d9%88%d8%b2) | N/A |
-| 5 | [البيت الابراهيمي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%8a%d8%aa+%d8%a7%d9%84%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85%d9%8a) | N/A |
+| 3 | [#پیروز](http://twitter.com/search?q=%23%d9%be%db%8c%d8%b1%d9%88%d8%b2) | N/A |
+| 4 | [البيت الابراهيمي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%8a%d8%aa+%d8%a7%d9%84%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85%d9%8a) | N/A |
+| 5 | [شهر جديد](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%ac%d8%af%d9%8a%d8%af) | N/A |
 | 6 | [الفيفا](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%8a%d9%81%d8%a7) | N/A |
 | 7 | [كورتوا](http://twitter.com/search?q=%d9%83%d9%88%d8%b1%d8%aa%d9%88%d8%a7) | كورتوا is a type of traditional Iraqi dish made with bulgur wheat, onions, and spices. It is usually served with yogurt or tahini sauce. In English, it is known as Korto or Korto Pilaf. |
 | 8 | [#عمران_خان_ہماری_ریڈ_لائن](http://twitter.com/search?q=%23%d8%b9%d9%85%d8%b1%d8%a7%d9%86_%d8%ae%d8%a7%d9%86_%db%81%d9%85%d8%a7%d8%b1%db%8c_%d8%b1%db%8c%da%88_%d9%84%d8%a7%d8%a6%d9%86) | #عمران_خان_ہماری_ریڈ_لائن is a hashtag used by Imran Khan, the Prime Minister of Pakistan, to promote his vision for a new Pakistan. The phrase translates to "Imran Khan: Our Red Line" and is meant to signify the line that should not be crossed in order to achieve progress and development in the country. |
@@ -35,36 +35,36 @@ This is top 50 for [United Arab Emirates](</United Arab Emirates>)
 | 18 | [مجلس الامارات](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d8%b1%d8%a7%d8%aa) | N/A |
 | 19 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
 | 20 | [نمر الصحراء](http://twitter.com/search?q=%d9%86%d9%85%d8%b1+%d8%a7%d9%84%d8%b5%d8%ad%d8%b1%d8%a7%d8%a1) | N/A |
-| 21 | [تورينو](http://twitter.com/search?q=%d8%aa%d9%88%d8%b1%d9%8a%d9%86%d9%88) | N/A |
-| 22 | [الكره الذهبيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d8%b1%d9%87+%d8%a7%d9%84%d8%b0%d9%87%d8%a8%d9%8a%d9%87) | N/A |
-| 23 | [مكتوم البحريه](http://twitter.com/search?q=%d9%85%d9%83%d8%aa%d9%88%d9%85+%d8%a7%d9%84%d8%a8%d8%ad%d8%b1%d9%8a%d9%87) | N/A |
-| 24 | [راشد بن سعيد](http://twitter.com/search?q=%d8%b1%d8%a7%d8%b4%d8%af+%d8%a8%d9%86+%d8%b3%d8%b9%d9%8a%d8%af) | N/A |
-| 25 | [علي سير العمل](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%b3%d9%8a%d8%b1+%d8%a7%d9%84%d8%b9%d9%85%d9%84) | N/A |
-| 26 | [المصرف المركزي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%81+%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2%d9%8a) | N/A |
+| 21 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 22 | [تورينو](http://twitter.com/search?q=%d8%aa%d9%88%d8%b1%d9%8a%d9%86%d9%88) | N/A |
+| 23 | [الكره الذهبيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d8%b1%d9%87+%d8%a7%d9%84%d8%b0%d9%87%d8%a8%d9%8a%d9%87) | N/A |
+| 24 | [مكتوم البحريه](http://twitter.com/search?q=%d9%85%d9%83%d8%aa%d9%88%d9%85+%d8%a7%d9%84%d8%a8%d8%ad%d8%b1%d9%8a%d9%87) | N/A |
+| 25 | [راشد بن سعيد](http://twitter.com/search?q=%d8%b1%d8%a7%d8%b4%d8%af+%d8%a8%d9%86+%d8%b3%d8%b9%d9%8a%d8%af) | N/A |
+| 26 | [علي سير العمل](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%b3%d9%8a%d8%b1+%d8%a7%d9%84%d8%b9%d9%85%d9%84) | N/A |
 | 27 | [رييس المكتب الوطني](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d9%85%d9%83%d8%aa%d8%a8+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
 | 28 | [العمل السياسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%85%d9%84+%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b3%d9%8a) | N/A |
-| 29 | [الدوري الايطالي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d9%8a%d8%b7%d8%a7%d9%84%d9%8a) | N/A |
-| 30 | [شهر مارس](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
-| 31 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
-| 32 | [مارتينيز](http://twitter.com/search?q=%d9%85%d8%a7%d8%b1%d8%aa%d9%8a%d9%86%d9%8a%d8%b2) | مارتينيز is a type of traditional Middle Eastern pastry. It is made with thin layers of dough filled with nuts, honey, and spices. In English, it is sometimes referred to as "baklava". |
-| 33 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
-| 34 | [28 فبراير 2023](http://twitter.com/search?q=28+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1+2023) | N/A |
-| 35 | [علي بالي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a8%d8%a7%d9%84%d9%8a) | N/A |
-| 36 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
-| 37 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 38 | [الازمه السوريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b2%d9%85%d9%87+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a%d9%87) | N/A |
-| 39 | [العالم الاسلامي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85+%d8%a7%d9%84%d8%a7%d8%b3%d9%84%d8%a7%d9%85%d9%8a) | N/A |
-| 40 | [المسرح الخليجي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d8%b1%d8%ad+%d8%a7%d9%84%d8%ae%d9%84%d9%8a%d8%ac%d9%8a) | N/A |
-| 41 | [الدوره المكثفه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%87+%d8%a7%d9%84%d9%85%d9%83%d8%ab%d9%81%d9%87) | N/A |
-| 42 | [البيت الابيض](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%8a%d8%aa+%d8%a7%d9%84%d8%a7%d8%a8%d9%8a%d8%b6) | N/A |
-| 43 | [Depends](http://twitter.com/search?q=Depends) | N/A |
-| 44 | [الامين العام](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%8a%d9%86+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
-| 45 | [التراث العالمي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b1%d8%a7%d8%ab+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
-| 46 | [دين جديد](http://twitter.com/search?q=%d8%af%d9%8a%d9%86+%d8%ac%d8%af%d9%8a%d8%af) | N/A |
-| 47 | [علي الرابط](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b7) | N/A |
-| 48 | [بني ياس](http://twitter.com/search?q=%d8%a8%d9%86%d9%8a+%d9%8a%d8%a7%d8%b3) | N/A |
-| 49 | [دوله ذات](http://twitter.com/search?q=%d8%af%d9%88%d9%84%d9%87+%d8%b0%d8%a7%d8%aa) | N/A |
-| 50 | [رونالدو](http://twitter.com/search?q=%d8%b1%d9%88%d9%86%d8%a7%d9%84%d8%af%d9%88) | رونالدو is the Portuguese spelling of the name Ronaldo, which is a popular given name in many countries. In English, it means "counselor of the ruler". |
+| 29 | [شهر مارس](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
+| 30 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
+| 31 | [مارتينيز](http://twitter.com/search?q=%d9%85%d8%a7%d8%b1%d8%aa%d9%8a%d9%86%d9%8a%d8%b2) | مارتينيز is a type of traditional Middle Eastern pastry. It is made with thin layers of dough filled with nuts, honey, and spices. In English, it is sometimes referred to as "baklava". |
+| 32 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 33 | [28 فبراير 2023](http://twitter.com/search?q=28+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1+2023) | N/A |
+| 34 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
+| 35 | [الازمه السوريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b2%d9%85%d9%87+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a%d9%87) | N/A |
+| 36 | [العالم الاسلامي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85+%d8%a7%d9%84%d8%a7%d8%b3%d9%84%d8%a7%d9%85%d9%8a) | N/A |
+| 37 | [المسرح الخليجي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d8%b1%d8%ad+%d8%a7%d9%84%d8%ae%d9%84%d9%8a%d8%ac%d9%8a) | N/A |
+| 38 | [الدوره المكثفه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%87+%d8%a7%d9%84%d9%85%d9%83%d8%ab%d9%81%d9%87) | N/A |
+| 39 | [البيت الابيض](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%8a%d8%aa+%d8%a7%d9%84%d8%a7%d8%a8%d9%8a%d8%b6) | N/A |
+| 40 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 41 | [Depends](http://twitter.com/search?q=Depends) | N/A |
+| 42 | [الامين العام](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%8a%d9%86+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
+| 43 | [دين جديد](http://twitter.com/search?q=%d8%af%d9%8a%d9%86+%d8%ac%d8%af%d9%8a%d8%af) | N/A |
+| 44 | [التراث العالمي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b1%d8%a7%d8%ab+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
+| 45 | [علي الرابط](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b7) | N/A |
+| 46 | [بني ياس](http://twitter.com/search?q=%d8%a8%d9%86%d9%8a+%d9%8a%d8%a7%d8%b3) | N/A |
+| 47 | [دوله ذات](http://twitter.com/search?q=%d8%af%d9%88%d9%84%d9%87+%d8%b0%d8%a7%d8%aa) | N/A |
+| 48 | [رونالدو](http://twitter.com/search?q=%d8%b1%d9%88%d9%86%d8%a7%d9%84%d8%af%d9%88) | رونالدو is the Portuguese spelling of the name Ronaldo, which is a popular given name in many countries. In English, it means "counselor of the ruler". |
+| 49 | [Wike](http://twitter.com/search?q=Wike) | Wike is a term used in the Philippines to refer to a person who is knowledgeable or wise. It is derived from the Tagalog word "wikain," which means "to know." In English, it can be translated as "wise" or "knowledgeable." |
+| 50 | [David](http://twitter.com/search?q=David) | N/A |
 
 
 

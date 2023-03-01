@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Norfolk
 
-📆 Last Updated: `2023-03-01 00:33:20 UTC`
+📆 Last Updated: `2023-03-01 01:45:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Virginia Beach](http://twitter.com/search?q=Virginia+Beach) | N/A |
-| 2 | [#AgustD_SUGA_Tour](http://twitter.com/search?q=%23AgustD_SUGA_Tour) | N/A |
-| 3 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
-| 4 | [#BeyondFast](http://twitter.com/search?q=%23BeyondFast) | #BeyondFast is a hashtag used to describe something that goes beyond the speed of fast. It is used to emphasize the idea that something is faster than fast, or that it surpasses the speed of fast. |
-| 5 | [Wray](http://twitter.com/search?q=Wray) | N/A |
-| 6 | [Kai Cenat](http://twitter.com/search?q=Kai+Cenat) | Kai Cenat is a phrase in the language of the Garifuna people, an Afro-Caribbean ethnic group living in Central America. It translates to "Let's go" or "Let's get going" in English. |
-| 7 | [Dave Grohl](http://twitter.com/search?q=Dave+Grohl) | N/A |
-| 8 | [#mnwildfirst](http://twitter.com/search?q=%23mnwildfirst) | N/A |
-| 9 | [I GOT A CODE](http://twitter.com/search?q=I+GOT+A+CODE) | N/A |
-| 10 | [Patrick Kane](http://twitter.com/search?q=Patrick+Kane) | N/A |
-| 11 | [Waitlisted](http://twitter.com/search?q=Waitlisted) | N/A |
-| 12 | [#studentloanforgiveness](http://twitter.com/search?q=%23studentloanforgiveness) | N/A |
-| 13 | [#LightningStrikes](http://twitter.com/search?q=%23LightningStrikes) | N/A |
-| 14 | [Barrie](http://twitter.com/search?q=Barrie) | N/A |
-| 15 | [Ekholm](http://twitter.com/search?q=Ekholm) | N/A |
-| 16 | [Black History Month](http://twitter.com/search?q=Black+History+Month) | N/A |
-| 17 | [Raskin](http://twitter.com/search?q=Raskin) | N/A |
-| 18 | [Peter Pan](http://twitter.com/search?q=Peter+Pan) | N/A |
-| 19 | [Gaetz](http://twitter.com/search?q=Gaetz) | Gaetz is a surname of German origin. It is derived from the German word "Gatze" which means "goat". The name is most commonly found in the United States, Canada, and Germany. |
-| 20 | [I GOT THE CODE](http://twitter.com/search?q=I+GOT+THE+CODE) | N/A |
-| 21 | [Stone Cold](http://twitter.com/search?q=Stone+Cold) | N/A |
-| 22 | [DJ Burns](http://twitter.com/search?q=DJ+Burns) | DJ Burns is a stage name used by a professional DJ and music producer from the United Kingdom. The name is derived from the phrase "burns the decks," which is a term used to describe an intense, energetic style of mixing and scratching records. |
-| 23 | [Nyquist](http://twitter.com/search?q=Nyquist) | N/A |
-| 24 | [GIVE US WN BLOOPERS](http://twitter.com/search?q=GIVE+US+WN+BLOOPERS) | N/A |
-| 25 | [Sandin](http://twitter.com/search?q=Sandin) | N/A |
-| 26 | [SCOTUS](http://twitter.com/search?q=SCOTUS) | SCOTUS is an acronym for the Supreme Court of the United States. It is the highest court in the United States and is responsible for interpreting and applying federal laws. |
-| 27 | [Avon](http://twitter.com/search?q=Avon) | N/A |
-| 28 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 29 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 30 | [Engvall](http://twitter.com/search?q=Engvall) | N/A |
-| 31 | [Starfield](http://twitter.com/search?q=Starfield) | Starfield is a term used to describe a night sky filled with stars. It is often used to refer to the beauty of the night sky, and its ability to evoke feelings of awe and wonder. |
-| 32 | [Ricou Browning](http://twitter.com/search?q=Ricou+Browning) | N/A |
-| 33 | [Kris Murray](http://twitter.com/search?q=Kris+Murray) | N/A |
-| 34 | [MASH](http://twitter.com/search?q=MASH) | N/A |
-| 35 | [Kyle Dubas](http://twitter.com/search?q=Kyle+Dubas) | N/A |
-| 36 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
-| 37 | [Boeser](http://twitter.com/search?q=Boeser) | N/A |
-| 38 | [Michael Cooper](http://twitter.com/search?q=Michael+Cooper) | N/A |
-| 39 | [Joiner](http://twitter.com/search?q=Joiner) | N/A |
-| 40 | [JRPG](http://twitter.com/search?q=JRPG) | N/A |
-| 41 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
-| 42 | [Tinkerbell](http://twitter.com/search?q=Tinkerbell) | N/A |
-| 43 | [Nudy](http://twitter.com/search?q=Nudy) | N/A |
-| 44 | [Dragic](http://twitter.com/search?q=Dragic) | N/A |
-| 45 | [Grogu](http://twitter.com/search?q=Grogu) | N/A |
-| 46 | [Blake Burke](http://twitter.com/search?q=Blake+Burke) | N/A |
-| 47 | [Korpi](http://twitter.com/search?q=Korpi) | N/A |
-| 48 | [Chychrun](http://twitter.com/search?q=Chychrun) | N/A |
-| 49 | [I GOT IT](http://twitter.com/search?q=I+GOT+IT) | N/A |
+| 1 | [#LetsGoVCU](http://twitter.com/search?q=%23LetsGoVCU) | N/A |
+| 2 | [Clemson](http://twitter.com/search?q=Clemson) | Clemson is a university located in Clemson, South Carolina. It is a public, land-grant research university that was founded in 1889. The name Clemson comes from the name of its founder, Thomas Green Clemson. The university's mission is to "to create, communicate and apply knowledge to serve the state of South Carolina and beyond." |
+| 3 | [Virginia Beach](http://twitter.com/search?q=Virginia+Beach) | N/A |
+| 4 | [#AgustD_SUGA_Tour](http://twitter.com/search?q=%23AgustD_SUGA_Tour) | N/A |
+| 5 | [Troy Brown](http://twitter.com/search?q=Troy+Brown) | Troy Brown is a former American football wide receiver who played for the New England Patriots from 1993 to 2007. He was known for his versatility, playing multiple positions on offense and defense. In English, Troy Brown is a name associated with a former professional football player who was known for his versatility. |
+| 6 | [Wray](http://twitter.com/search?q=Wray) | N/A |
+| 7 | [#TheWinchesters](http://twitter.com/search?q=%23TheWinchesters) | #TheWinchesters is a hashtag used to refer to the Winchester brothers, Sam and Dean, from the TV show Supernatural. It is used to show appreciation for the characters and their adventures. |
+| 8 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
+| 9 | [Reaves](http://twitter.com/search?q=Reaves) | Reaves is a surname of English origin. It is derived from the Old French word "reves," meaning "dreams." The name is thought to have been given to someone who was known for having prophetic dreams. |
+| 10 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
+| 11 | [Lonnie](http://twitter.com/search?q=Lonnie) | N/A |
+| 12 | [#mubb](http://twitter.com/search?q=%23mubb) | N/A |
+| 13 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
+| 14 | [Patrick Kane](http://twitter.com/search?q=Patrick+Kane) | N/A |
+| 15 | [Dave Grohl](http://twitter.com/search?q=Dave+Grohl) | N/A |
+| 16 | [Kai Cenat](http://twitter.com/search?q=Kai+Cenat) | Kai Cenat is a phrase in the language of the Garifuna people, an Afro-Caribbean ethnic group living in Central America. It translates to "Let's go" or "Let's get going" in English. |
+| 17 | [Joiner](http://twitter.com/search?q=Joiner) | N/A |
+| 18 | [I GOT A CODE](http://twitter.com/search?q=I+GOT+A+CODE) | N/A |
+| 19 | [Kris Murray](http://twitter.com/search?q=Kris+Murray) | N/A |
+| 20 | [Proctor](http://twitter.com/search?q=Proctor) | N/A |
+| 21 | [Raskin](http://twitter.com/search?q=Raskin) | N/A |
+| 22 | [Newark](http://twitter.com/search?q=Newark) | N/A |
+| 23 | [Jupiter and Venus](http://twitter.com/search?q=Jupiter+and+Venus) | N/A |
+| 24 | [Waitlisted](http://twitter.com/search?q=Waitlisted) | N/A |
+| 25 | [DJ Burns](http://twitter.com/search?q=DJ+Burns) | DJ Burns is a stage name used by a professional DJ and music producer from the United Kingdom. The name is derived from the phrase "burns the decks," which is a term used to describe an intense, energetic style of mixing and scratching records. |
+| 26 | [Josh Bailey](http://twitter.com/search?q=Josh+Bailey) | N/A |
+| 27 | [Wes Lee](http://twitter.com/search?q=Wes+Lee) | Wes Lee is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is well-liked and respected. |
+| 28 | [Big East Champs](http://twitter.com/search?q=Big+East+Champs) | N/A |
+| 29 | [Venus and Jupiter](http://twitter.com/search?q=Venus+and+Jupiter) | N/A |
+| 30 | [I GOT THE CODE](http://twitter.com/search?q=I+GOT+THE+CODE) | N/A |
+| 31 | [Avon](http://twitter.com/search?q=Avon) | N/A |
+| 32 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
+| 33 | [Lively](http://twitter.com/search?q=Lively) | Lively is an adjective that means full of energy, enthusiasm, and activity. It can also refer to a place or situation that is exciting and entertaining. |
+| 34 | [Luke Kennard](http://twitter.com/search?q=Luke+Kennard) | N/A |
+| 35 | [Black History Month](http://twitter.com/search?q=Black+History+Month) | N/A |
+| 36 | [Triston Casas](http://twitter.com/search?q=Triston+Casas) | N/A |
+| 37 | [Barrie](http://twitter.com/search?q=Barrie) | N/A |
+| 38 | [Peter Pan](http://twitter.com/search?q=Peter+Pan) | N/A |
+| 39 | [Terquavion Smith](http://twitter.com/search?q=Terquavion+Smith) | N/A |
+| 40 | [Darren Till](http://twitter.com/search?q=Darren+Till) | N/A |
+| 41 | [Stone Cold](http://twitter.com/search?q=Stone+Cold) | N/A |
+| 42 | [Georgia Tech](http://twitter.com/search?q=Georgia+Tech) | N/A |
+| 43 | [Blackhawks](http://twitter.com/search?q=Blackhawks) | N/A |
+| 44 | [Assembly Hall](http://twitter.com/search?q=Assembly+Hall) | N/A |
+| 45 | [Rowena](http://twitter.com/search?q=Rowena) | N/A |
+| 46 | [Davion Mitchell](http://twitter.com/search?q=Davion+Mitchell) | N/A |
+| 47 | [Nyquist](http://twitter.com/search?q=Nyquist) | N/A |
+| 48 | [Ekholm](http://twitter.com/search?q=Ekholm) | N/A |
+| 49 | [Tony Perkins](http://twitter.com/search?q=Tony+Perkins) | N/A |
 
 
 

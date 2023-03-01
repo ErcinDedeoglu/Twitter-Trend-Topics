@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zapopan
 
-📆 Last Updated: `2023-03-01 00:32:43 UTC`
+📆 Last Updated: `2023-03-01 01:45:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Mexico](</Mexico>)
 | 1 | [Monterrey](http://twitter.com/search?q=Monterrey) | N/A |
 | 2 | [#SalarioRosaContinua](http://twitter.com/search?q=%23SalarioRosaContinua) | N/A |
 | 3 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
-| 4 | [Andy Benavides](http://twitter.com/search?q=Andy+Benavides) | N/A |
-| 5 | [#CanastaBásicaAlAlza](http://twitter.com/search?q=%23CanastaB%c3%a1sicaAlAlza) | N/A |
-| 6 | [#QuéPasóOlallo](http://twitter.com/search?q=%23Qu%c3%a9Pas%c3%b3Olallo) | N/A |
+| 4 | [#CanastaBásicaAlAlza](http://twitter.com/search?q=%23CanastaB%c3%a1sicaAlAlza) | N/A |
+| 5 | [Futbolista](http://twitter.com/search?q=Futbolista) | N/A |
+| 6 | [Piloto](http://twitter.com/search?q=Piloto) | N/A |
 | 7 | [Juan Collado](http://twitter.com/search?q=Juan+Collado) | N/A |
-| 8 | [#OvidioNoSeToca](http://twitter.com/search?q=%23OvidioNoSeToca) | N/A |
-| 9 | [#SquidCraft2](http://twitter.com/search?q=%23SquidCraft2) | N/A |
-| 10 | [Maxico](http://twitter.com/search?q=Maxico) | N/A |
-| 11 | [Musk](http://twitter.com/search?q=Musk) | N/A |
-| 12 | [moonbin](http://twitter.com/search?q=moonbin) | N/A |
-| 13 | [Cabeza de Vaca](http://twitter.com/search?q=Cabeza+de+Vaca) | N/A |
-| 14 | [Samuel](http://twitter.com/search?q=Samuel) | N/A |
-| 15 | [Piloto](http://twitter.com/search?q=Piloto) | N/A |
-| 16 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
+| 8 | [#QuéPasóOlallo](http://twitter.com/search?q=%23Qu%c3%a9Pas%c3%b3Olallo) | N/A |
+| 9 | [Andy Benavides](http://twitter.com/search?q=Andy+Benavides) | N/A |
+| 10 | [#OvidioNoSeToca](http://twitter.com/search?q=%23OvidioNoSeToca) | N/A |
+| 11 | [Samuel](http://twitter.com/search?q=Samuel) | N/A |
+| 12 | [Cabeza de Vaca](http://twitter.com/search?q=Cabeza+de+Vaca) | N/A |
+| 13 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 14 | [#AgustD_SUGA_Tour](http://twitter.com/search?q=%23AgustD_SUGA_Tour) | N/A |
+| 15 | [Maxico](http://twitter.com/search?q=Maxico) | N/A |
+| 16 | [moonbin](http://twitter.com/search?q=moonbin) | N/A |
 | 17 | [Santa Catarina](http://twitter.com/search?q=Santa+Catarina) | N/A |
-| 18 | [sanha](http://twitter.com/search?q=sanha) | N/A |
-| 19 | [Xalostoc](http://twitter.com/search?q=Xalostoc) | N/A |
-| 20 | [Peter Pan](http://twitter.com/search?q=Peter+Pan) | N/A |
-| 21 | [Cremonese](http://twitter.com/search?q=Cremonese) | N/A |
-| 22 | [Carlos Alcaraz](http://twitter.com/search?q=Carlos+Alcaraz) | Carlos Alcaraz is a Spanish professional tennis player. He is the youngest player to ever win a match on the ATP Tour, having done so at the age of 15 in 2021. The name Carlos Alcaraz means "strong warrior" in English. |
-| 23 | [Campanita](http://twitter.com/search?q=Campanita) | N/A |
-| 24 | [Luzu](http://twitter.com/search?q=Luzu) | Luzu is a Spanish word that means light. It is often used to refer to a bright, cheerful, and optimistic attitude. |
-| 25 | [Carioca](http://twitter.com/search?q=Carioca) | N/A |
-| 26 | [Nuevo Laredo](http://twitter.com/search?q=Nuevo+Laredo) | N/A |
-| 27 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
-| 28 | [Juve](http://twitter.com/search?q=Juve) | Juve is short for Juventus, an Italian professional football club based in Turin, Italy. The club is one of the most successful and popular teams in Italy and Europe, having won numerous domestic and international titles. In English, Juve is an abbreviation for Juventus. |
-| 29 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
-| 30 | [Tinkerbell](http://twitter.com/search?q=Tinkerbell) | N/A |
-| 31 | [Quackity](http://twitter.com/search?q=Quackity) | N/A |
-| 32 | [Angie](http://twitter.com/search?q=Angie) | N/A |
-| 33 | [The World Is A Vampire](http://twitter.com/search?q=The+World+Is+A+Vampire) | N/A |
+| 18 | [Nuevo Laredo](http://twitter.com/search?q=Nuevo+Laredo) | N/A |
+| 19 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
+| 20 | [sanha](http://twitter.com/search?q=sanha) | N/A |
+| 21 | [Tinkerbell](http://twitter.com/search?q=Tinkerbell) | N/A |
+| 22 | [Peter Pan](http://twitter.com/search?q=Peter+Pan) | N/A |
+| 23 | [Xalostoc](http://twitter.com/search?q=Xalostoc) | N/A |
+| 24 | [Cremonese](http://twitter.com/search?q=Cremonese) | N/A |
+| 25 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 26 | [Campanita](http://twitter.com/search?q=Campanita) | N/A |
+| 27 | [Carlos Alcaraz](http://twitter.com/search?q=Carlos+Alcaraz) | Carlos Alcaraz is a Spanish professional tennis player. He is the youngest player to ever win a match on the ATP Tour, having done so at the age of 15 in 2021. The name Carlos Alcaraz means "strong warrior" in English. |
+| 28 | [Dinamarca](http://twitter.com/search?q=Dinamarca) | N/A |
+| 29 | [Luzu](http://twitter.com/search?q=Luzu) | Luzu is a Spanish word that means light. It is often used to refer to a bright, cheerful, and optimistic attitude. |
+| 30 | [Carioca](http://twitter.com/search?q=Carioca) | N/A |
+| 31 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
+| 32 | [SEDENA](http://twitter.com/search?q=SEDENA) | N/A |
+| 33 | [Quackity](http://twitter.com/search?q=Quackity) | N/A |
 | 34 | [Enfermedades Raras](http://twitter.com/search?q=Enfermedades+Raras) | N/A |
-| 35 | [Stephen Colbert](http://twitter.com/search?q=Stephen+Colbert) | N/A |
-| 36 | [Wactor](http://twitter.com/search?q=Wactor) | N/A |
-| 37 | [Chumel](http://twitter.com/search?q=Chumel) | N/A |
-| 38 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
-| 39 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 40 | [ASTRO](http://twitter.com/search?q=ASTRO) | N/A |
-| 41 | [Nahuel](http://twitter.com/search?q=Nahuel) | N/A |
-| 42 | [N.L.](http://twitter.com/search?q=N.L.) | N/A |
-| 43 | [Abierto Mexicano de Tenis](http://twitter.com/search?q=Abierto+Mexicano+de+Tenis) | N/A |
-| 44 | [Peru](http://twitter.com/search?q=Peru) | Peru is a country located in western South America. It is bordered by Ecuador, Colombia, Brazil, Bolivia, and Chile. The official language of Peru is Spanish and its capital city is Lima. The name Peru comes from the Quechua word “piruw” which means “land of abundance”. |
-| 45 | [Día Mundial](http://twitter.com/search?q=D%c3%ada+Mundial) | N/A |
+| 35 | [The World Is A Vampire](http://twitter.com/search?q=The+World+Is+A+Vampire) | N/A |
+| 36 | [N.L.](http://twitter.com/search?q=N.L.) | N/A |
+| 37 | [Wactor](http://twitter.com/search?q=Wactor) | N/A |
+| 38 | [Chumel](http://twitter.com/search?q=Chumel) | N/A |
+| 39 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
+| 40 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 41 | [Astro](http://twitter.com/search?q=Astro) | N/A |
+| 42 | [Derechos](http://twitter.com/search?q=Derechos) | N/A |
+| 43 | [Peru](http://twitter.com/search?q=Peru) | Peru is a country located in western South America. It is bordered by Ecuador, Colombia, Brazil, Bolivia, and Chile. The official language of Peru is Spanish and its capital city is Lima. The name Peru comes from the Quechua word “piruw” which means “land of abundance”. |
+| 44 | [#SUGA_AgustD_TOUR](http://twitter.com/search?q=%23SUGA_AgustD_TOUR) | N/A |
+| 45 | [#SquidCraft2](http://twitter.com/search?q=%23SquidCraft2) | N/A |
 | 46 | [#Chalco](http://twitter.com/search?q=%23Chalco) | N/A |
-| 47 | [#AgustD_SUGA_Tour](http://twitter.com/search?q=%23AgustD_SUGA_Tour) | N/A |
+| 47 | [#AmloEstaDesesperado](http://twitter.com/search?q=%23AmloEstaDesesperado) | N/A |
 | 48 | [#LaNuevaLínea1](http://twitter.com/search?q=%23LaNuevaL%c3%adnea1) | N/A |
 | 49 | [#AIFA](http://twitter.com/search?q=%23AIFA) | N/A |
-| 50 | [#Ecatepec](http://twitter.com/search?q=%23Ecatepec) | N/A |
+| 50 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
 
 
 

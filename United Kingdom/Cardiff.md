@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cardiff
 
-📆 Last Updated: `2023-03-01 00:32:38 UTC`
+📆 Last Updated: `2023-03-01 01:44:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,48 +20,48 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | 3 | [Casey](http://twitter.com/search?q=Casey) | Casey is a unisex name of Irish origin, derived from the Gaelic Cathasaigh, meaning “brave” or “vigilant.” It is also a popular surname in the United States. |
 | 4 | [#lufc](http://twitter.com/search?q=%23lufc) | #lufc is an abbreviation for Leeds United Football Club, a professional football club based in Leeds, England. The club was founded in 1919 and currently plays in the English Championship. |
 | 5 | [Sanam](http://twitter.com/search?q=Sanam) | N/A |
-| 6 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 7 | [Sammie](http://twitter.com/search?q=Sammie) | N/A |
-| 8 | [Pogba](http://twitter.com/search?q=Pogba) | Pogba is a nickname for the French professional footballer Paul Pogba. It is derived from his last name and is often used as a term of endearment by his fans. |
-| 9 | [#FULLEE](http://twitter.com/search?q=%23FULLEE) | N/A |
+| 6 | [Matt Hancock](http://twitter.com/search?q=Matt+Hancock) | Matt Hancock is the current Secretary of State for Health and Social Care in the United Kingdom. He is responsible for leading the government's response to the coronavirus pandemic. The phrase "Matt Hancock" is used to refer to him and his role in government. |
+| 7 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 8 | [Sammie](http://twitter.com/search?q=Sammie) | N/A |
+| 9 | [Pogba](http://twitter.com/search?q=Pogba) | Pogba is a nickname for the French professional footballer Paul Pogba. It is derived from his last name and is often used as a term of endearment by his fans. |
 | 10 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
-| 11 | [#Rovers](http://twitter.com/search?q=%23Rovers) | N/A |
-| 12 | [#Pompey](http://twitter.com/search?q=%23Pompey) | N/A |
-| 13 | [Bristol City](http://twitter.com/search?q=Bristol+City) | N/A |
-| 14 | [Matt Hancock](http://twitter.com/search?q=Matt+Hancock) | Matt Hancock is the current Secretary of State for Health and Social Care in the United Kingdom. He is responsible for leading the government's response to the coronavirus pandemic. The phrase "Matt Hancock" is used to refer to him and his role in government. |
+| 11 | [#oafc](http://twitter.com/search?q=%23oafc) | N/A |
+| 12 | [#Rovers](http://twitter.com/search?q=%23Rovers) | N/A |
+| 13 | [#lcfc](http://twitter.com/search?q=%23lcfc) | N/A |
+| 14 | [Bristol City](http://twitter.com/search?q=Bristol+City) | N/A |
 | 15 | [Rutter](http://twitter.com/search?q=Rutter) | N/A |
-| 16 | [Blackburn](http://twitter.com/search?q=Blackburn) | N/A |
-| 17 | [Bamford](http://twitter.com/search?q=Bamford) | Bamford is a surname of English origin. It is derived from the Old English words "bam" and "ford," meaning "a ford over a high bank or cliff." The name is most commonly associated with the town of Bamford in Derbyshire, England. |
+| 16 | [Bamford](http://twitter.com/search?q=Bamford) | Bamford is a surname of English origin. It is derived from the Old English words "bam" and "ford," meaning "a ford over a high bank or cliff." The name is most commonly associated with the town of Bamford in Derbyshire, England. |
+| 17 | [Blackburn](http://twitter.com/search?q=Blackburn) | N/A |
 | 18 | [Alex Scott](http://twitter.com/search?q=Alex+Scott) | N/A |
-| 19 | [Amartey](http://twitter.com/search?q=Amartey) | N/A |
-| 20 | [McKennie](http://twitter.com/search?q=McKennie) | McKennie is a surname of Scottish origin. It is derived from the Gaelic MacCoinneach, meaning "son of Coinneach". |
-| 21 | [Solomon](http://twitter.com/search?q=Solomon) | N/A |
-| 22 | [Rosie](http://twitter.com/search?q=Rosie) | N/A |
-| 23 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 24 | [Rodgers](http://twitter.com/search?q=Rodgers) | Rodgers is a surname of English and Irish origin. It is derived from the given name Roger, which is derived from the Germanic elements hrod (fame) and ger (spear). |
-| 25 | [Claudia](http://twitter.com/search?q=Claudia) | Claudia is a female given name of Latin origin, derived from the Roman clan name Claudius. It means "lame" or "disabled". |
-| 26 | [Rodrigo](http://twitter.com/search?q=Rodrigo) | Rodrigo is a Spanish and Portuguese name derived from the Germanic name Roderick, which means "famous power". It is also a common surname in Spanish-speaking countries. |
-| 27 | [Soumare](http://twitter.com/search?q=Soumare) | N/A |
-| 28 | [Kalas](http://twitter.com/search?q=Kalas) | N/A |
-| 29 | [Adams](http://twitter.com/search?q=Adams) | N/A |
-| 30 | [Meslier](http://twitter.com/search?q=Meslier) | N/A |
-| 31 | [Keanan](http://twitter.com/search?q=Keanan) | N/A |
-| 32 | [Gracia](http://twitter.com/search?q=Gracia) | N/A |
-| 33 | [Ryley Towler](http://twitter.com/search?q=Ryley+Towler) | N/A |
-| 34 | [Thomas](http://twitter.com/search?q=Thomas) | N/A |
-| 35 | [Millwall](http://twitter.com/search?q=Millwall) | N/A |
-| 36 | [Roca](http://twitter.com/search?q=Roca) | N/A |
-| 37 | [Kristensen](http://twitter.com/search?q=Kristensen) | N/A |
-| 38 | [Onto Saturday](http://twitter.com/search?q=Onto+Saturday) | N/A |
-| 39 | [Shearer](http://twitter.com/search?q=Shearer) | Shearer is a term used to describe someone who works in a coal mine, cutting and removing coal from the face of the seam. It is also used to refer to someone who cuts and shapes metal, such as a blacksmith or a tinsmith. |
-| 40 | [Banks](http://twitter.com/search?q=Banks) | N/A |
-| 41 | [Andy Cook](http://twitter.com/search?q=Andy+Cook) | N/A |
-| 42 | [Luton](http://twitter.com/search?q=Luton) | N/A |
-| 43 | [Palhinha](http://twitter.com/search?q=Palhinha) | Palhinha is a Portuguese slang term that means “little one” or “darling.” It is often used as an affectionate term of endearment for someone close to you, such as a child, friend, or partner. |
-| 44 | [Dolan](http://twitter.com/search?q=Dolan) | N/A |
-| 45 | [Rasmus](http://twitter.com/search?q=Rasmus) | N/A |
-| 46 | [Carole](http://twitter.com/search?q=Carole) | N/A |
-| 47 | [De Bruyne](http://twitter.com/search?q=De+Bruyne) | De Bruyne is a Dutch surname. It is derived from the Dutch word "bruin", which means "brown". The name is most commonly associated with Belgian footballer Kevin De Bruyne, who currently plays for Manchester City in the English Premier League. |
+| 19 | [Solomon](http://twitter.com/search?q=Solomon) | N/A |
+| 20 | [Amartey](http://twitter.com/search?q=Amartey) | N/A |
+| 21 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 22 | [Claudia](http://twitter.com/search?q=Claudia) | Claudia is a female given name of Latin origin, derived from the Roman clan name Claudius. It means "lame" or "disabled". |
+| 23 | [Rodgers](http://twitter.com/search?q=Rodgers) | Rodgers is a surname of English and Irish origin. It is derived from the given name Roger, which is derived from the Germanic elements hrod (fame) and ger (spear). |
+| 24 | [Rosie](http://twitter.com/search?q=Rosie) | N/A |
+| 25 | [Kalas](http://twitter.com/search?q=Kalas) | N/A |
+| 26 | [Meslier](http://twitter.com/search?q=Meslier) | N/A |
+| 27 | [Isabel Oakeshott](http://twitter.com/search?q=Isabel+Oakeshott) | N/A |
+| 28 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
+| 29 | [Rodrigo](http://twitter.com/search?q=Rodrigo) | Rodrigo is a Spanish and Portuguese name derived from the Germanic name Roderick, which means "famous power". It is also a common surname in Spanish-speaking countries. |
+| 30 | [McKennie](http://twitter.com/search?q=McKennie) | McKennie is a surname of Scottish origin. It is derived from the Gaelic MacCoinneach, meaning "son of Coinneach". |
+| 31 | [Ryley Towler](http://twitter.com/search?q=Ryley+Towler) | N/A |
+| 32 | [Soumare](http://twitter.com/search?q=Soumare) | N/A |
+| 33 | [Adams](http://twitter.com/search?q=Adams) | N/A |
+| 34 | [Peter Pan](http://twitter.com/search?q=Peter+Pan) | N/A |
+| 35 | [Roca](http://twitter.com/search?q=Roca) | N/A |
+| 36 | [Keenan](http://twitter.com/search?q=Keenan) | N/A |
+| 37 | [Millwall](http://twitter.com/search?q=Millwall) | N/A |
+| 38 | [Shearer](http://twitter.com/search?q=Shearer) | Shearer is a term used to describe someone who works in a coal mine, cutting and removing coal from the face of the seam. It is also used to refer to someone who cuts and shapes metal, such as a blacksmith or a tinsmith. |
+| 39 | [Andy Cook](http://twitter.com/search?q=Andy+Cook) | N/A |
+| 40 | [Thomas](http://twitter.com/search?q=Thomas) | N/A |
+| 41 | [Banks](http://twitter.com/search?q=Banks) | N/A |
+| 42 | [St David](http://twitter.com/search?q=St+David) | N/A |
+| 43 | [Gracia](http://twitter.com/search?q=Gracia) | N/A |
+| 44 | [Carole](http://twitter.com/search?q=Carole) | N/A |
+| 45 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
+| 46 | [Harry Wilson](http://twitter.com/search?q=Harry+Wilson) | N/A |
+| 47 | [Alvaro](http://twitter.com/search?q=Alvaro) | N/A |
 
 
 

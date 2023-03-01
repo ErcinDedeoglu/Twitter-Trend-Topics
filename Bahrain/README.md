@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bahrain
 
-📆 Last Updated: `2023-03-01 00:33:24 UTC`
+📆 Last Updated: `2023-03-01 01:46:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,7 +15,7 @@ This is top 50 for Bahrain
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#السنكيس_رمز_الصمود](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b3%d9%86%d9%83%d9%8a%d8%b3_%d8%b1%d9%85%d8%b2_%d8%a7%d9%84%d8%b5%d9%85%d9%88%d8%af) | N/A |
+| 1 | [#_الصمود](http://twitter.com/search?q=%23_%d8%a7%d9%84%d8%b5%d9%85%d9%88%d8%af) | N/A |
 | 2 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
 | 3 | [وزير العمل](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%b9%d9%85%d9%84) | N/A |
 | 4 | [الفيفا](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%8a%d9%81%d8%a7) | N/A |

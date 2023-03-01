@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-03-01 00:33:20 UTC`
+📆 Last Updated: `2023-03-01 01:45:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Jeopardy](http://twitter.com/search?q=%23Jeopardy) | N/A |
-| 2 | [Jonas Brothers](http://twitter.com/search?q=Jonas+Brothers) | The Jonas Brothers are an American pop rock band from Wyckoff, New Jersey, formed in 2005. The band consists of three brothers: Kevin Jonas, Joe Jonas, and Nick Jonas. They gained popularity from their appearances on the Disney Channel television network. Their music has spanned a range of styles, from pop rock to hip hop. |
-| 3 | [#PerfectMatch](http://twitter.com/search?q=%23PerfectMatch) | N/A |
-| 4 | [Chris Drury](http://twitter.com/search?q=Chris+Drury) | N/A |
-| 5 | [Tom Brady](http://twitter.com/search?q=Tom+Brady) | Tom Brady is an American football quarterback who plays for the Tampa Bay Buccaneers of the National Football League (NFL). He is widely considered to be one of the greatest quarterbacks of all time, having won six Super Bowls and four Super Bowl MVP awards. |
-| 6 | [Tarasenko](http://twitter.com/search?q=Tarasenko) | N/A |
-| 7 | [Frazier](http://twitter.com/search?q=Frazier) | Frazier is a surname of Scottish origin. It is derived from the French word "fraise" meaning strawberry. The name was originally given to someone who lived near a strawberry patch or grew strawberries. |
-| 8 | [Bailey](http://twitter.com/search?q=Bailey) | Bailey is an English surname derived from the Old French word baille, meaning "bailiff" or "enclosure." It can also be used as a given name, usually for males. |
-| 9 | [Elden Ring](http://twitter.com/search?q=Elden+Ring) | N/A |
-| 10 | [#AgustD_SUGA_Tour](http://twitter.com/search?q=%23AgustD_SUGA_Tour) | N/A |
-| 11 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
-| 12 | [#BeyondFast](http://twitter.com/search?q=%23BeyondFast) | #BeyondFast is a hashtag used to describe something that goes beyond the speed of fast. It is used to emphasize the idea that something is faster than fast, or that it surpasses the speed of fast. |
-| 13 | [Wray](http://twitter.com/search?q=Wray) | N/A |
-| 14 | [Kai Cenat](http://twitter.com/search?q=Kai+Cenat) | Kai Cenat is a phrase in the language of the Garifuna people, an Afro-Caribbean ethnic group living in Central America. It translates to "Let's go" or "Let's get going" in English. |
-| 15 | [Dave Grohl](http://twitter.com/search?q=Dave+Grohl) | N/A |
-| 16 | [#mnwildfirst](http://twitter.com/search?q=%23mnwildfirst) | N/A |
-| 17 | [I GOT A CODE](http://twitter.com/search?q=I+GOT+A+CODE) | N/A |
-| 18 | [Patrick Kane](http://twitter.com/search?q=Patrick+Kane) | N/A |
-| 19 | [Waitlisted](http://twitter.com/search?q=Waitlisted) | N/A |
-| 20 | [Barrie](http://twitter.com/search?q=Barrie) | N/A |
-| 21 | [Ekholm](http://twitter.com/search?q=Ekholm) | N/A |
-| 22 | [Black History Month](http://twitter.com/search?q=Black+History+Month) | N/A |
-| 23 | [Raskin](http://twitter.com/search?q=Raskin) | N/A |
-| 24 | [Peter Pan](http://twitter.com/search?q=Peter+Pan) | N/A |
-| 25 | [Gaetz](http://twitter.com/search?q=Gaetz) | Gaetz is a surname of German origin. It is derived from the German word "Gatze" which means "goat". The name is most commonly found in the United States, Canada, and Germany. |
-| 26 | [I GOT THE CODE](http://twitter.com/search?q=I+GOT+THE+CODE) | N/A |
-| 27 | [Stone Cold](http://twitter.com/search?q=Stone+Cold) | N/A |
-| 28 | [DJ Burns](http://twitter.com/search?q=DJ+Burns) | DJ Burns is a stage name used by a professional DJ and music producer from the United Kingdom. The name is derived from the phrase "burns the decks," which is a term used to describe an intense, energetic style of mixing and scratching records. |
-| 29 | [Nyquist](http://twitter.com/search?q=Nyquist) | N/A |
-| 30 | [GIVE US WN BLOOPERS](http://twitter.com/search?q=GIVE+US+WN+BLOOPERS) | N/A |
-| 31 | [Sandin](http://twitter.com/search?q=Sandin) | N/A |
-| 32 | [SCOTUS](http://twitter.com/search?q=SCOTUS) | SCOTUS is an acronym for the Supreme Court of the United States. It is the highest court in the United States and is responsible for interpreting and applying federal laws. |
-| 33 | [Avon](http://twitter.com/search?q=Avon) | N/A |
-| 34 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 35 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 36 | [Engvall](http://twitter.com/search?q=Engvall) | N/A |
-| 37 | [Starfield](http://twitter.com/search?q=Starfield) | Starfield is a term used to describe a night sky filled with stars. It is often used to refer to the beauty of the night sky, and its ability to evoke feelings of awe and wonder. |
-| 38 | [Ricou Browning](http://twitter.com/search?q=Ricou+Browning) | N/A |
-| 39 | [Kris Murray](http://twitter.com/search?q=Kris+Murray) | N/A |
-| 40 | [MASH](http://twitter.com/search?q=MASH) | N/A |
-| 41 | [Kyle Dubas](http://twitter.com/search?q=Kyle+Dubas) | N/A |
-| 42 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
-| 43 | [Boeser](http://twitter.com/search?q=Boeser) | N/A |
-| 44 | [Michael Cooper](http://twitter.com/search?q=Michael+Cooper) | N/A |
-| 45 | [Joiner](http://twitter.com/search?q=Joiner) | N/A |
-| 46 | [JRPG](http://twitter.com/search?q=JRPG) | N/A |
-| 47 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
-| 48 | [Tinkerbell](http://twitter.com/search?q=Tinkerbell) | N/A |
-| 49 | [Nudy](http://twitter.com/search?q=Nudy) | N/A |
-| 50 | [Dragic](http://twitter.com/search?q=Dragic) | N/A |
+| 1 | [Columbus](http://twitter.com/search?q=Columbus) | N/A |
+| 2 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 3 | [Blue Jackets](http://twitter.com/search?q=Blue+Jackets) | N/A |
+| 4 | [Tage Thompson](http://twitter.com/search?q=Tage+Thompson) | Tage Thompson is a Swedish name meaning "Day of the Warrior". It is derived from the Old Norse words tagi, meaning "day", and thom, meaning "warrior". |
+| 5 | [Jonas Brothers](http://twitter.com/search?q=Jonas+Brothers) | The Jonas Brothers are an American pop rock band from Wyckoff, New Jersey, formed in 2005. The band consists of three brothers: Kevin Jonas, Joe Jonas, and Nick Jonas. They gained popularity from their appearances on the Disney Channel television network. Their music has spanned a range of styles, from pop rock to hip hop. |
+| 6 | [Ross](http://twitter.com/search?q=Ross) | N/A |
+| 7 | [Eric Adams](http://twitter.com/search?q=Eric+Adams) | N/A |
+| 8 | [#NHLTradeDeadline](http://twitter.com/search?q=%23NHLTradeDeadline) | N/A |
+| 9 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 10 | [Tom Brady](http://twitter.com/search?q=Tom+Brady) | Tom Brady is an American football quarterback who plays for the Tampa Bay Buccaneers of the National Football League (NFL). He is widely considered to be one of the greatest quarterbacks of all time, having won six Super Bowls and four Super Bowl MVP awards. |
+| 11 | [Drury](http://twitter.com/search?q=Drury) | N/A |
+| 12 | [#RareDiseaseDay](http://twitter.com/search?q=%23RareDiseaseDay) | N/A |
+| 13 | [Tarasenko](http://twitter.com/search?q=Tarasenko) | N/A |
+| 14 | [Panarin](http://twitter.com/search?q=Panarin) | N/A |
+| 15 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
+| 16 | [#AgustD_SUGA_Tour](http://twitter.com/search?q=%23AgustD_SUGA_Tour) | N/A |
+| 17 | [Troy Brown](http://twitter.com/search?q=Troy+Brown) | Troy Brown is a former American football wide receiver who played for the New England Patriots from 1993 to 2007. He was known for his versatility, playing multiple positions on offense and defense. In English, Troy Brown is a name associated with a former professional football player who was known for his versatility. |
+| 18 | [Wray](http://twitter.com/search?q=Wray) | N/A |
+| 19 | [#TheWinchesters](http://twitter.com/search?q=%23TheWinchesters) | #TheWinchesters is a hashtag used to refer to the Winchester brothers, Sam and Dean, from the TV show Supernatural. It is used to show appreciation for the characters and their adventures. |
+| 20 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
+| 21 | [Reaves](http://twitter.com/search?q=Reaves) | Reaves is a surname of English origin. It is derived from the Old French word "reves," meaning "dreams." The name is thought to have been given to someone who was known for having prophetic dreams. |
+| 22 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
+| 23 | [Lonnie](http://twitter.com/search?q=Lonnie) | N/A |
+| 24 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
+| 25 | [Patrick Kane](http://twitter.com/search?q=Patrick+Kane) | N/A |
+| 26 | [Dave Grohl](http://twitter.com/search?q=Dave+Grohl) | N/A |
+| 27 | [Kai Cenat](http://twitter.com/search?q=Kai+Cenat) | Kai Cenat is a phrase in the language of the Garifuna people, an Afro-Caribbean ethnic group living in Central America. It translates to "Let's go" or "Let's get going" in English. |
+| 28 | [Joiner](http://twitter.com/search?q=Joiner) | N/A |
+| 29 | [I GOT A CODE](http://twitter.com/search?q=I+GOT+A+CODE) | N/A |
+| 30 | [Proctor](http://twitter.com/search?q=Proctor) | N/A |
+| 31 | [Raskin](http://twitter.com/search?q=Raskin) | N/A |
+| 32 | [Kris Murray](http://twitter.com/search?q=Kris+Murray) | N/A |
+| 33 | [Newark](http://twitter.com/search?q=Newark) | N/A |
+| 34 | [Jupiter and Venus](http://twitter.com/search?q=Jupiter+and+Venus) | N/A |
+| 35 | [Waitlisted](http://twitter.com/search?q=Waitlisted) | N/A |
+| 36 | [DJ Burns](http://twitter.com/search?q=DJ+Burns) | DJ Burns is a stage name used by a professional DJ and music producer from the United Kingdom. The name is derived from the phrase "burns the decks," which is a term used to describe an intense, energetic style of mixing and scratching records. |
+| 37 | [Josh Bailey](http://twitter.com/search?q=Josh+Bailey) | N/A |
+| 38 | [Wes Lee](http://twitter.com/search?q=Wes+Lee) | Wes Lee is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is well-liked and respected. |
+| 39 | [Big East Champs](http://twitter.com/search?q=Big+East+Champs) | N/A |
+| 40 | [Venus and Jupiter](http://twitter.com/search?q=Venus+and+Jupiter) | N/A |
+| 41 | [Avon](http://twitter.com/search?q=Avon) | N/A |
+| 42 | [I GOT THE CODE](http://twitter.com/search?q=I+GOT+THE+CODE) | N/A |
+| 43 | [Lively](http://twitter.com/search?q=Lively) | Lively is an adjective that means full of energy, enthusiasm, and activity. It can also refer to a place or situation that is exciting and entertaining. |
+| 44 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
+| 45 | [Luke Kennard](http://twitter.com/search?q=Luke+Kennard) | N/A |
+| 46 | [Black History Month](http://twitter.com/search?q=Black+History+Month) | N/A |
+| 47 | [Triston Casas](http://twitter.com/search?q=Triston+Casas) | N/A |
+| 48 | [Barrie](http://twitter.com/search?q=Barrie) | N/A |
+| 49 | [Peter Pan](http://twitter.com/search?q=Peter+Pan) | N/A |
+| 50 | [Terquavion Smith](http://twitter.com/search?q=Terquavion+Smith) | N/A |
 
 
 

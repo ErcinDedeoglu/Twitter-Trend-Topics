@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belarus
 
-📆 Last Updated: `2023-03-01 00:33:24 UTC`
+📆 Last Updated: `2023-03-01 01:46:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,7 +25,7 @@ This is top 50 for Belarus
 | 8 | [гродно](http://twitter.com/search?q=%d0%b3%d1%80%d0%be%d0%b4%d0%bd%d0%be) | N/A |
 | 9 | [#Web3](http://twitter.com/search?q=%23Web3) | N/A |
 | 10 | [Russian](http://twitter.com/search?q=Russian) | N/A |
-| 11 | [Москве](http://twitter.com/search?q=%d0%9c%d0%be%d1%81%d0%ba%d0%b2%d0%b5) | N/A |
+| 11 | [москве](http://twitter.com/search?q=%d0%bc%d0%be%d1%81%d0%ba%d0%b2%d0%b5) | N/A |
 | 12 | [#NFTCommunity](http://twitter.com/search?q=%23NFTCommunity) | N/A |
 | 13 | [#SurvivalinUnity](http://twitter.com/search?q=%23SurvivalinUnity) | N/A |
 | 14 | [Дзякуй](http://twitter.com/search?q=%d0%94%d0%b7%d1%8f%d0%ba%d1%83%d0%b9) | N/A |

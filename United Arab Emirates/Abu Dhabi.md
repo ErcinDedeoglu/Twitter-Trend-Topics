@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Abu Dhabi
 
-📆 Last Updated: `2023-03-01 00:33:08 UTC`
+📆 Last Updated: `2023-03-01 01:45:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -30,41 +30,41 @@ This is top 50 for [United Arab Emirates](</United Arab Emirates>)
 | 13 | [كاس الملك](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d9%85%d9%84%d9%83) | N/A |
 | 14 | [نادي الوحده](http://twitter.com/search?q=%d9%86%d8%a7%d8%af%d9%8a+%d8%a7%d9%84%d9%88%d8%ad%d8%af%d9%87) | N/A |
 | 15 | [بنزيما](http://twitter.com/search?q=%d8%a8%d9%86%d8%b2%d9%8a%d9%85%d8%a7) | بنزيما (benzema) is a surname of Arabic origin. It is derived from the Arabic word "bin zamān" which means "son of time". In English, it can be translated to mean "son of time". |
-| 16 | [اليوفي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%81%d9%8a) | اليوفي is a type of Arabic script used in the Middle East and North Africa. It is also known as Kufic script, and its name comes from the city of Kufa in Iraq. In English, اليوفي translates to "Kufic". |
-| 17 | [اليمين القانونيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%85%d9%8a%d9%86+%d8%a7%d9%84%d9%82%d8%a7%d9%86%d9%88%d9%86%d9%8a%d9%87) | N/A |
-| 18 | [مجلس الامارات](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d8%b1%d8%a7%d8%aa) | N/A |
-| 19 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
-| 20 | [نمر الصحراء](http://twitter.com/search?q=%d9%86%d9%85%d8%b1+%d8%a7%d9%84%d8%b5%d8%ad%d8%b1%d8%a7%d8%a1) | N/A |
+| 16 | [اليمين القانونيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%85%d9%8a%d9%86+%d8%a7%d9%84%d9%82%d8%a7%d9%86%d9%88%d9%86%d9%8a%d9%87) | N/A |
+| 17 | [مجلس الامارات](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d8%b1%d8%a7%d8%aa) | N/A |
+| 18 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
+| 19 | [نمر الصحراء](http://twitter.com/search?q=%d9%86%d9%85%d8%b1+%d8%a7%d9%84%d8%b5%d8%ad%d8%b1%d8%a7%d8%a1) | N/A |
+| 20 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
 | 21 | [تورينو](http://twitter.com/search?q=%d8%aa%d9%88%d8%b1%d9%8a%d9%86%d9%88) | N/A |
 | 22 | [الكره الذهبيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d8%b1%d9%87+%d8%a7%d9%84%d8%b0%d9%87%d8%a8%d9%8a%d9%87) | N/A |
 | 23 | [مكتوم البحريه](http://twitter.com/search?q=%d9%85%d9%83%d8%aa%d9%88%d9%85+%d8%a7%d9%84%d8%a8%d8%ad%d8%b1%d9%8a%d9%87) | N/A |
 | 24 | [راشد بن سعيد](http://twitter.com/search?q=%d8%b1%d8%a7%d8%b4%d8%af+%d8%a8%d9%86+%d8%b3%d8%b9%d9%8a%d8%af) | N/A |
 | 25 | [علي سير العمل](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%b3%d9%8a%d8%b1+%d8%a7%d9%84%d8%b9%d9%85%d9%84) | N/A |
-| 26 | [المصرف المركزي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%81+%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2%d9%8a) | N/A |
-| 27 | [رييس المكتب الوطني](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d9%85%d9%83%d8%aa%d8%a8+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
-| 28 | [العمل السياسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%85%d9%84+%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b3%d9%8a) | N/A |
-| 29 | [الدوري الايطالي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d9%8a%d8%b7%d8%a7%d9%84%d9%8a) | N/A |
-| 30 | [شهر مارس](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
-| 31 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
-| 32 | [مارتينيز](http://twitter.com/search?q=%d9%85%d8%a7%d8%b1%d8%aa%d9%8a%d9%86%d9%8a%d8%b2) | مارتينيز is a type of traditional Middle Eastern pastry. It is made with thin layers of dough filled with nuts, honey, and spices. In English, it is sometimes referred to as "baklava". |
-| 33 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
-| 34 | [28 فبراير 2023](http://twitter.com/search?q=28+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1+2023) | N/A |
-| 35 | [علي بالي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a8%d8%a7%d9%84%d9%8a) | N/A |
-| 36 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
-| 37 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 38 | [الازمه السوريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b2%d9%85%d9%87+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a%d9%87) | N/A |
-| 39 | [العالم الاسلامي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85+%d8%a7%d9%84%d8%a7%d8%b3%d9%84%d8%a7%d9%85%d9%8a) | N/A |
-| 40 | [المسرح الخليجي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d8%b1%d8%ad+%d8%a7%d9%84%d8%ae%d9%84%d9%8a%d8%ac%d9%8a) | N/A |
-| 41 | [الدوره المكثفه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%87+%d8%a7%d9%84%d9%85%d9%83%d8%ab%d9%81%d9%87) | N/A |
-| 42 | [البيت الابيض](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%8a%d8%aa+%d8%a7%d9%84%d8%a7%d8%a8%d9%8a%d8%b6) | N/A |
-| 43 | [Depends](http://twitter.com/search?q=Depends) | N/A |
-| 44 | [الامين العام](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%8a%d9%86+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
-| 45 | [التراث العالمي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b1%d8%a7%d8%ab+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
-| 46 | [دين جديد](http://twitter.com/search?q=%d8%af%d9%8a%d9%86+%d8%ac%d8%af%d9%8a%d8%af) | N/A |
-| 47 | [علي الرابط](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b7) | N/A |
-| 48 | [بني ياس](http://twitter.com/search?q=%d8%a8%d9%86%d9%8a+%d9%8a%d8%a7%d8%b3) | N/A |
-| 49 | [دوله ذات](http://twitter.com/search?q=%d8%af%d9%88%d9%84%d9%87+%d8%b0%d8%a7%d8%aa) | N/A |
-| 50 | [سناب](http://twitter.com/search?q=%d8%b3%d9%86%d8%a7%d8%a8) | N/A |
+| 26 | [رييس المكتب الوطني](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d9%85%d9%83%d8%aa%d8%a8+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
+| 27 | [العمل السياسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%85%d9%84+%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b3%d9%8a) | N/A |
+| 28 | [شهر مارس](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
+| 29 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
+| 30 | [مارتينيز](http://twitter.com/search?q=%d9%85%d8%a7%d8%b1%d8%aa%d9%8a%d9%86%d9%8a%d8%b2) | مارتينيز is a type of traditional Middle Eastern pastry. It is made with thin layers of dough filled with nuts, honey, and spices. In English, it is sometimes referred to as "baklava". |
+| 31 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 32 | [28 فبراير 2023](http://twitter.com/search?q=28+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1+2023) | N/A |
+| 33 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
+| 34 | [الازمه السوريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b2%d9%85%d9%87+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a%d9%87) | N/A |
+| 35 | [العالم الاسلامي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85+%d8%a7%d9%84%d8%a7%d8%b3%d9%84%d8%a7%d9%85%d9%8a) | N/A |
+| 36 | [المسرح الخليجي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d8%b1%d8%ad+%d8%a7%d9%84%d8%ae%d9%84%d9%8a%d8%ac%d9%8a) | N/A |
+| 37 | [الدوره المكثفه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%87+%d8%a7%d9%84%d9%85%d9%83%d8%ab%d9%81%d9%87) | N/A |
+| 38 | [البيت الابيض](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%8a%d8%aa+%d8%a7%d9%84%d8%a7%d8%a8%d9%8a%d8%b6) | N/A |
+| 39 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 40 | [Depends](http://twitter.com/search?q=Depends) | N/A |
+| 41 | [الامين العام](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%8a%d9%86+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
+| 42 | [دين جديد](http://twitter.com/search?q=%d8%af%d9%8a%d9%86+%d8%ac%d8%af%d9%8a%d8%af) | N/A |
+| 43 | [التراث العالمي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b1%d8%a7%d8%ab+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
+| 44 | [علي الرابط](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b7) | N/A |
+| 45 | [بني ياس](http://twitter.com/search?q=%d8%a8%d9%86%d9%8a+%d9%8a%d8%a7%d8%b3) | N/A |
+| 46 | [دوله ذات](http://twitter.com/search?q=%d8%af%d9%88%d9%84%d9%87+%d8%b0%d8%a7%d8%aa) | N/A |
+| 47 | [رونالدو](http://twitter.com/search?q=%d8%b1%d9%88%d9%86%d8%a7%d9%84%d8%af%d9%88) | رونالدو is the Portuguese spelling of the name Ronaldo, which is a popular given name in many countries. In English, it means "counselor of the ruler". |
+| 48 | [Wike](http://twitter.com/search?q=Wike) | Wike is a term used in the Philippines to refer to a person who is knowledgeable or wise. It is derived from the Tagalog word "wikain," which means "to know." In English, it can be translated as "wise" or "knowledgeable." |
+| 49 | [David](http://twitter.com/search?q=David) | N/A |
+| 50 | [INEC](http://twitter.com/search?q=INEC) | N/A |
 
 
 

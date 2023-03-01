@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sydney
 
-📆 Last Updated: `2023-03-01 00:32:58 UTC`
+📆 Last Updated: `2023-03-01 01:45:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Australia](</Australia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Kochie](http://twitter.com/search?q=Kochie) | N/A |
-| 2 | [#NZvENG](http://twitter.com/search?q=%23NZvENG) | N/A |
-| 3 | [#superannuation](http://twitter.com/search?q=%23superannuation) | N/A |
-| 4 | [Angus Taylor](http://twitter.com/search?q=Angus+Taylor) | N/A |
-| 5 | [Autumn](http://twitter.com/search?q=Autumn) | N/A |
-| 6 | [Stuart Robert](http://twitter.com/search?q=Stuart+Robert) | N/A |
-| 7 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 8 | [Father Bob](http://twitter.com/search?q=Father+Bob) | N/A |
-| 9 | [Ronni](http://twitter.com/search?q=Ronni) | Ronni is a female given name, derived from the name Veronica. It is a diminutive form of the name, and can be used as a nickname. The meaning of Ronni in English is "true image". |
-| 10 | [Flick](http://twitter.com/search?q=Flick) | N/A |
-| 11 | [#queerstralia](http://twitter.com/search?q=%23queerstralia) | N/A |
-| 12 | [Bridget Archer](http://twitter.com/search?q=Bridget+Archer) | N/A |
-| 13 | [#BeyondFast](http://twitter.com/search?q=%23BeyondFast) | #BeyondFast is a hashtag used to describe something that goes beyond the speed of fast. It is used to emphasize the idea that something is faster than fast, or that it surpasses the speed of fast. |
-| 14 | [#SurvivorAU](http://twitter.com/search?q=%23SurvivorAU) | N/A |
-| 15 | [Rupert Murdoch](http://twitter.com/search?q=Rupert+Murdoch) | N/A |
-| 16 | [Shaun](http://twitter.com/search?q=Shaun) | N/A |
-| 17 | [Lismore](http://twitter.com/search?q=Lismore) | N/A |
-| 18 | [Sandy](http://twitter.com/search?q=Sandy) | N/A |
-| 19 | [Shonee](http://twitter.com/search?q=Shonee) | N/A |
-| 20 | [Sarah Ferguson](http://twitter.com/search?q=Sarah+Ferguson) | N/A |
-| 21 | [Wordle 620 X](http://twitter.com/search?q=Wordle+620+X) | N/A |
-| 22 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
-| 23 | [Joffa](http://twitter.com/search?q=Joffa) | N/A |
-| 24 | [Grogu](http://twitter.com/search?q=Grogu) | N/A |
-| 25 | [Renee Leon](http://twitter.com/search?q=Renee+Leon) | N/A |
-| 26 | [Prue](http://twitter.com/search?q=Prue) | N/A |
+| 1 | [Matthew Thompson](http://twitter.com/search?q=Matthew+Thompson) | N/A |
+| 2 | [Kochie](http://twitter.com/search?q=Kochie) | N/A |
+| 3 | [#NZvENG](http://twitter.com/search?q=%23NZvENG) | N/A |
+| 4 | [#superannuation](http://twitter.com/search?q=%23superannuation) | N/A |
+| 5 | [Angus Taylor](http://twitter.com/search?q=Angus+Taylor) | N/A |
+| 6 | [Autumn](http://twitter.com/search?q=Autumn) | N/A |
+| 7 | [Stuart Robert](http://twitter.com/search?q=Stuart+Robert) | N/A |
+| 8 | [Bridget Archer](http://twitter.com/search?q=Bridget+Archer) | N/A |
+| 9 | [#SWPHRC](http://twitter.com/search?q=%23SWPHRC) | N/A |
+| 10 | [Father Bob](http://twitter.com/search?q=Father+Bob) | N/A |
+| 11 | [#RobodebtRC](http://twitter.com/search?q=%23RobodebtRC) | N/A |
+| 12 | [Ronni](http://twitter.com/search?q=Ronni) | Ronni is a female given name, derived from the name Veronica. It is a diminutive form of the name, and can be used as a nickname. The meaning of Ronni in English is "true image". |
+| 13 | [Flick](http://twitter.com/search?q=Flick) | N/A |
+| 14 | [#queerstralia](http://twitter.com/search?q=%23queerstralia) | N/A |
+| 15 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 16 | [Rupert Murdoch](http://twitter.com/search?q=Rupert+Murdoch) | N/A |
+| 17 | [Dutton](http://twitter.com/search?q=Dutton) | N/A |
+| 18 | [Shaun](http://twitter.com/search?q=Shaun) | N/A |
+| 19 | [Lismore](http://twitter.com/search?q=Lismore) | N/A |
+| 20 | [Shonee](http://twitter.com/search?q=Shonee) | N/A |
+| 21 | [Sarah Ferguson](http://twitter.com/search?q=Sarah+Ferguson) | N/A |
+| 22 | [Sandy](http://twitter.com/search?q=Sandy) | N/A |
+| 23 | [Wordle 620 X](http://twitter.com/search?q=Wordle+620+X) | N/A |
+| 24 | [Prue](http://twitter.com/search?q=Prue) | N/A |
+| 25 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
+| 26 | [Chalmers](http://twitter.com/search?q=Chalmers) | N/A |
 | 27 | [Sussan](http://twitter.com/search?q=Sussan) | N/A |
-| 28 | [Test Cricket](http://twitter.com/search?q=Test+Cricket) | N/A |
-| 29 | [Chalmers](http://twitter.com/search?q=Chalmers) | N/A |
-| 30 | [marzhew](http://twitter.com/search?q=marzhew) | N/A |
-| 31 | [Keenan](http://twitter.com/search?q=Keenan) | N/A |
-| 32 | [Hayley](http://twitter.com/search?q=Hayley) | N/A |
-| 33 | [Daily Quordle 401](http://twitter.com/search?q=Daily+Quordle+401) | N/A |
-| 34 | [The Project](http://twitter.com/search?q=The+Project) | N/A |
-| 35 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
-| 36 | [Mardi Gras](http://twitter.com/search?q=Mardi+Gras) | N/A |
-| 37 | [Labor](http://twitter.com/search?q=Labor) | N/A |
-| 38 | [Allegra](http://twitter.com/search?q=Allegra) | N/A |
-| 39 | [Warwick Farm](http://twitter.com/search?q=Warwick+Farm) | N/A |
-| 40 | [Neil Wagner](http://twitter.com/search?q=Neil+Wagner) | N/A |
+| 28 | [TEST CRICKET](http://twitter.com/search?q=TEST+CRICKET) | N/A |
+| 29 | [Joffa](http://twitter.com/search?q=Joffa) | N/A |
+| 30 | [Keenan](http://twitter.com/search?q=Keenan) | N/A |
+| 31 | [Double Bay](http://twitter.com/search?q=Double+Bay) | N/A |
+| 32 | [Renee Leon](http://twitter.com/search?q=Renee+Leon) | N/A |
+| 33 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
+| 34 | [Mardi Gras](http://twitter.com/search?q=Mardi+Gras) | N/A |
+| 35 | [The Project](http://twitter.com/search?q=The+Project) | N/A |
+| 36 | [Allegra](http://twitter.com/search?q=Allegra) | N/A |
+| 37 | [Neil Wagner](http://twitter.com/search?q=Neil+Wagner) | N/A |
+| 38 | [Daily Quordle 401](http://twitter.com/search?q=Daily+Quordle+401) | N/A |
+| 39 | [Murphy](http://twitter.com/search?q=Murphy) | Murphy is an Irish surname, derived from the Gaelic name Ó Murchadha. It is also used as a given name, and can mean "sea warrior" or "sea battler". |
+| 40 | [Robyn](http://twitter.com/search?q=Robyn) | Robyn is a female given name of English origin, derived from the Old Germanic name Hrodebert, meaning "bright fame". It is also a variant spelling of the name Robin. |
 | 41 | [Albo](http://twitter.com/search?q=Albo) | N/A |
-| 42 | [Kathryn Campbell](http://twitter.com/search?q=Kathryn+Campbell) | N/A |
-| 43 | [Littleproud](http://twitter.com/search?q=Littleproud) | N/A |
-| 44 | [Dutton](http://twitter.com/search?q=Dutton) | N/A |
-| 45 | [Jimmy Anderson](http://twitter.com/search?q=Jimmy+Anderson) | N/A |
-| 46 | [Suicune](http://twitter.com/search?q=Suicune) | N/A |
-| 47 | [Tayla](http://twitter.com/search?q=Tayla) | N/A |
-| 48 | [Morning Rob](http://twitter.com/search?q=Morning+Rob) | N/A |
-| 49 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
-| 50 | [Kevin Hart](http://twitter.com/search?q=Kevin+Hart) | N/A |
+| 42 | [Warwick Farm](http://twitter.com/search?q=Warwick+Farm) | N/A |
+| 43 | [Rachel](http://twitter.com/search?q=Rachel) | N/A |
+| 44 | [0.5% of Australians](http://twitter.com/search?q=0.5%25+of+Australians) | N/A |
+| 45 | [Kathryn Campbell](http://twitter.com/search?q=Kathryn+Campbell) | N/A |
+| 46 | [Littleproud](http://twitter.com/search?q=Littleproud) | N/A |
+| 47 | [Labor](http://twitter.com/search?q=Labor) | N/A |
+| 48 | [Hayley](http://twitter.com/search?q=Hayley) | N/A |
+| 49 | [GIVE US WN BLOOPERS](http://twitter.com/search?q=GIVE+US+WN+BLOOPERS) | N/A |
+| 50 | [Australian Guineas](http://twitter.com/search?q=Australian+Guineas) | N/A |
 
 
 
