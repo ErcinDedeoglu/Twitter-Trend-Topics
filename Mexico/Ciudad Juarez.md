@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ciudad Juarez
 
-📆 Last Updated: `2023-03-01 19:16:01 UTC`
+📆 Last Updated: `2023-03-01 20:16:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Irma Serrano](http://twitter.com/search?q=Irma+Serrano) | N/A |
-| 2 | [La Tigresa](http://twitter.com/search?q=La+Tigresa) | N/A |
-| 3 | [Blink](http://twitter.com/search?q=Blink) | N/A |
-| 4 | [twenty one pilots](http://twitter.com/search?q=twenty+one+pilots) | N/A |
-| 5 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
-| 6 | [Pal Norte](http://twitter.com/search?q=Pal+Norte) | N/A |
-| 7 | [#CeroDiscriminación](http://twitter.com/search?q=%23CeroDiscriminaci%c3%b3n) | N/A |
-| 8 | [Travis](http://twitter.com/search?q=Travis) | N/A |
-| 9 | [Omar Apollo](http://twitter.com/search?q=Omar+Apollo) | N/A |
-| 10 | [#SuzukiCincoAñosJuntos](http://twitter.com/search?q=%23SuzukiCincoA%c3%b1osJuntos) | N/A |
-| 11 | [HYBE PROTECT RM](http://twitter.com/search?q=HYBE+PROTECT+RM) | N/A |
-| 12 | [BIGHIT PROTECT RM](http://twitter.com/search?q=BIGHIT+PROTECT+RM) | N/A |
-| 13 | [Marzo con M](http://twitter.com/search?q=Marzo+con+M) | N/A |
-| 14 | [Pato Zambrano](http://twitter.com/search?q=Pato+Zambrano) | N/A |
-| 15 | [sam levinson](http://twitter.com/search?q=sam+levinson) | N/A |
-| 16 | [pika](http://twitter.com/search?q=pika) | N/A |
-| 17 | [Norma Piña](http://twitter.com/search?q=Norma+Pi%c3%b1a) | Norma Piña is a Mexican dish made with shredded beef, potatoes, and carrots cooked in a tomato-based sauce. The name of the dish comes from the Spanish words for "shredded beef" (carne deshebrada) and "pineapple" (piña). In English, Norma Piña translates to "Shredded Beef with Pineapple". |
-| 18 | [Bienvenido Marzo](http://twitter.com/search?q=Bienvenido+Marzo) | N/A |
-| 19 | [Sudamérica](http://twitter.com/search?q=Sudam%c3%a9rica) | N/A |
-| 20 | [Sosa](http://twitter.com/search?q=Sosa) | N/A |
-| 21 | [billie](http://twitter.com/search?q=billie) | N/A |
-| 22 | [Poncho de Nigris](http://twitter.com/search?q=Poncho+de+Nigris) | N/A |
-| 23 | [Vilchis](http://twitter.com/search?q=Vilchis) | N/A |
-| 24 | [Díaz Ordaz](http://twitter.com/search?q=D%c3%adaz+Ordaz) | N/A |
-| 25 | [Martha Debayle](http://twitter.com/search?q=Martha+Debayle) | Martha Debayle is a Mexican radio show hosted by Martha Debayle. It is a morning show that covers topics such as music, entertainment, lifestyle, and current events. The show is broadcast on the radio station W Radio in Mexico City and other cities in Mexico. The name of the show translates to "Martha of the Waves" in English. |
-| 26 | [La Martina](http://twitter.com/search?q=La+Martina) | N/A |
-| 27 | [El 1](http://twitter.com/search?q=El+1) | N/A |
-| 28 | [The Dark Side of the Moon](http://twitter.com/search?q=The+Dark+Side+of+the+Moon) | N/A |
-| 29 | [Just Fontaine](http://twitter.com/search?q=Just+Fontaine) | N/A |
-| 30 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
-| 31 | [Justin Bieber](http://twitter.com/search?q=Justin+Bieber) | N/A |
-| 32 | [Zoro](http://twitter.com/search?q=Zoro) | N/A |
-| 33 | [Tania Rincón](http://twitter.com/search?q=Tania+Rinc%c3%b3n) | N/A |
-| 34 | [Metallica](http://twitter.com/search?q=Metallica) | N/A |
-| 35 | [Nuevo Laredo](http://twitter.com/search?q=Nuevo+Laredo) | N/A |
-| 36 | [Interpol](http://twitter.com/search?q=Interpol) | N/A |
-| 37 | [Mario Delgado](http://twitter.com/search?q=Mario+Delgado) | N/A |
-| 38 | [Raymundo Ramos](http://twitter.com/search?q=Raymundo+Ramos) | N/A |
-| 39 | [Naciones Unidas](http://twitter.com/search?q=Naciones+Unidas) | N/A |
-| 40 | [The World is a Vampire](http://twitter.com/search?q=The+World+is+a+Vampire) | N/A |
-| 41 | [Día Internacional de la Mujer](http://twitter.com/search?q=D%c3%ada+Internacional+de+la+Mujer) | N/A |
-| 42 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
-| 43 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
-| 44 | [Cabeza de Vaca](http://twitter.com/search?q=Cabeza+de+Vaca) | N/A |
-| 45 | [Samuel García](http://twitter.com/search?q=Samuel+Garc%c3%ada) | N/A |
-| 46 | [Chacho](http://twitter.com/search?q=Chacho) | N/A |
-| 47 | [Aluxe](http://twitter.com/search?q=Aluxe) | N/A |
+| 1 | [TINA](http://twitter.com/search?q=TINA) | N/A |
+| 2 | [KARL](http://twitter.com/search?q=KARL) | N/A |
+| 3 | [Irma Serrano](http://twitter.com/search?q=Irma+Serrano) | N/A |
+| 4 | [La Tigresa](http://twitter.com/search?q=La+Tigresa) | N/A |
+| 5 | [Blink](http://twitter.com/search?q=Blink) | N/A |
+| 6 | [Missa](http://twitter.com/search?q=Missa) | N/A |
+| 7 | [Roberto](http://twitter.com/search?q=Roberto) | N/A |
+| 8 | [#SquidcraftGames2](http://twitter.com/search?q=%23SquidcraftGames2) | N/A |
+| 9 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
+| 10 | [twenty one pilots](http://twitter.com/search?q=twenty+one+pilots) | N/A |
+| 11 | [Pal Norte](http://twitter.com/search?q=Pal+Norte) | N/A |
+| 12 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
+| 13 | [Omar Apollo](http://twitter.com/search?q=Omar+Apollo) | N/A |
+| 14 | [#CeroDiscriminación](http://twitter.com/search?q=%23CeroDiscriminaci%c3%b3n) | N/A |
+| 15 | [Vicky](http://twitter.com/search?q=Vicky) | Vicky is a nickname for the name Victoria, which is of Latin origin and means "victory". |
+| 16 | [Travis](http://twitter.com/search?q=Travis) | N/A |
+| 17 | [Simon](http://twitter.com/search?q=Simon) | N/A |
+| 18 | [Norma Piña](http://twitter.com/search?q=Norma+Pi%c3%b1a) | Norma Piña is a Mexican dish made with shredded beef, potatoes, and carrots cooked in a tomato-based sauce. The name of the dish comes from the Spanish words for "shredded beef" (carne deshebrada) and "pineapple" (piña). In English, Norma Piña translates to "Shredded Beef with Pineapple". |
+| 19 | [HYBE PROTECT RM](http://twitter.com/search?q=HYBE+PROTECT+RM) | N/A |
+| 20 | [BIGHIT PROTECT RM](http://twitter.com/search?q=BIGHIT+PROTECT+RM) | N/A |
+| 21 | [sam levinson](http://twitter.com/search?q=sam+levinson) | N/A |
+| 22 | [Marzo con M](http://twitter.com/search?q=Marzo+con+M) | N/A |
+| 23 | [Pato Zambrano](http://twitter.com/search?q=Pato+Zambrano) | N/A |
+| 24 | [pika](http://twitter.com/search?q=pika) | N/A |
+| 25 | [Vilchis](http://twitter.com/search?q=Vilchis) | N/A |
+| 26 | [Sosa](http://twitter.com/search?q=Sosa) | N/A |
+| 27 | [billie](http://twitter.com/search?q=billie) | N/A |
+| 28 | [Molina](http://twitter.com/search?q=Molina) | N/A |
+| 29 | [Poncho de Nigris](http://twitter.com/search?q=Poncho+de+Nigris) | N/A |
+| 30 | [Díaz Ordaz](http://twitter.com/search?q=D%c3%adaz+Ordaz) | N/A |
+| 31 | [Bienvenido Marzo](http://twitter.com/search?q=Bienvenido+Marzo) | N/A |
+| 32 | [Mario Delgado](http://twitter.com/search?q=Mario+Delgado) | N/A |
+| 33 | [Martha Debayle](http://twitter.com/search?q=Martha+Debayle) | Martha Debayle is a Mexican radio show hosted by Martha Debayle. It is a morning show that covers topics such as music, entertainment, lifestyle, and current events. The show is broadcast on the radio station W Radio in Mexico City and other cities in Mexico. The name of the show translates to "Martha of the Waves" in English. |
+| 34 | [Sudamérica](http://twitter.com/search?q=Sudam%c3%a9rica) | N/A |
+| 35 | [Día Internacional](http://twitter.com/search?q=D%c3%ada+Internacional) | N/A |
+| 36 | [Justin Bieber](http://twitter.com/search?q=Justin+Bieber) | N/A |
+| 37 | [El 1](http://twitter.com/search?q=El+1) | N/A |
+| 38 | [Just Fontaine](http://twitter.com/search?q=Just+Fontaine) | N/A |
+| 39 | [Zoro](http://twitter.com/search?q=Zoro) | N/A |
+| 40 | [The Dark Side of the Moon](http://twitter.com/search?q=The+Dark+Side+of+the+Moon) | N/A |
+| 41 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
+| 42 | [Tania Rincón](http://twitter.com/search?q=Tania+Rinc%c3%b3n) | N/A |
+| 43 | [Metallica](http://twitter.com/search?q=Metallica) | N/A |
+| 44 | [Nuevo Laredo](http://twitter.com/search?q=Nuevo+Laredo) | N/A |
+| 45 | [Interpol](http://twitter.com/search?q=Interpol) | N/A |
+| 46 | [Naciones Unidas](http://twitter.com/search?q=Naciones+Unidas) | N/A |
+| 47 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
 
 
 

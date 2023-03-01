@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guarulhos
 
-📆 Last Updated: `2023-03-01 19:16:09 UTC`
+📆 Last Updated: `2023-03-01 20:16:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Rubens](http://twitter.com/search?q=Rubens) | N/A |
-| 2 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
-| 3 | [Tinashe](http://twitter.com/search?q=Tinashe) | N/A |
-| 4 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
-| 5 | [Atuesta](http://twitter.com/search?q=Atuesta) | Atuesta is a Spanish word that means "trust" or "confidence". It is often used to refer to the trust that exists between two people or groups. |
-| 6 | [Ciro](http://twitter.com/search?q=Ciro) | N/A |
-| 7 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 8 | [Vice Pereira](http://twitter.com/search?q=Vice+Pereira) | N/A |
-| 9 | [Brasileira](http://twitter.com/search?q=Brasileira) | N/A |
-| 10 | [Neto](http://twitter.com/search?q=Neto) | Neto is a Portuguese word meaning "net" or "net profit". It is commonly used to refer to the amount of money that remains after all taxes, deductions, and other expenses have been taken out of a total amount. |
-| 11 | [twenty one pilots](http://twitter.com/search?q=twenty+one+pilots) | N/A |
-| 12 | [sam levinson](http://twitter.com/search?q=sam+levinson) | N/A |
-| 13 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
-| 14 | [jennie](http://twitter.com/search?q=jennie) | N/A |
-| 15 | [all of the girls](http://twitter.com/search?q=all+of+the+girls) | N/A |
-| 16 | [Blink](http://twitter.com/search?q=Blink) | N/A |
-| 17 | [#HYBEPROTECTRM](http://twitter.com/search?q=%23HYBEPROTECTRM) | N/A |
-| 18 | [BIGHIT PROTECT RM](http://twitter.com/search?q=BIGHIT+PROTECT+RM) | N/A |
-| 19 | [Lucy Liu](http://twitter.com/search?q=Lucy+Liu) | N/A |
-| 20 | [Jaeci](http://twitter.com/search?q=Jaeci) | N/A |
-| 21 | [Tom Delonge](http://twitter.com/search?q=Tom+Delonge) | N/A |
-| 22 | [Lupita Nyong](http://twitter.com/search?q=Lupita+Nyong) | N/A |
-| 23 | [PADARIA TA ON](http://twitter.com/search?q=PADARIA+TA+ON) | N/A |
-| 24 | [#BalançoGeralRJ](http://twitter.com/search?q=%23Balan%c3%a7oGeralRJ) | N/A |
-| 25 | [Banco](http://twitter.com/search?q=Banco) | N/A |
-| 26 | [Tom Hardy](http://twitter.com/search?q=Tom+Hardy) | N/A |
-| 27 | [Dida](http://twitter.com/search?q=Dida) | N/A |
-| 28 | [Maira Cardi](http://twitter.com/search?q=Maira+Cardi) | N/A |
-| 29 | [IFAB](http://twitter.com/search?q=IFAB) | N/A |
-| 30 | [The Idol](http://twitter.com/search?q=The+Idol) | N/A |
-| 31 | [#MoonlightChickenEP7](http://twitter.com/search?q=%23MoonlightChickenEP7) | N/A |
-| 32 | [Emma Watson](http://twitter.com/search?q=Emma+Watson) | N/A |
-| 33 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 34 | [#Rio458Anos](http://twitter.com/search?q=%23Rio458Anos) | N/A |
-| 35 | [Terrence Malick](http://twitter.com/search?q=Terrence+Malick) | N/A |
-| 36 | [Haddad](http://twitter.com/search?q=Haddad) | N/A |
-| 37 | [Thiago Nigro](http://twitter.com/search?q=Thiago+Nigro) | N/A |
-| 38 | [21 Pilots](http://twitter.com/search?q=21+Pilots) | N/A |
-| 39 | [izzo](http://twitter.com/search?q=izzo) | N/A |
-| 40 | [Benedict Cumberbatch](http://twitter.com/search?q=Benedict+Cumberbatch) | N/A |
-| 41 | [#TheMandalorianXboxSweepstakes](http://twitter.com/search?q=%23TheMandalorianXboxSweepstakes) | N/A |
-| 42 | [Zack Snyder](http://twitter.com/search?q=Zack+Snyder) | N/A |
-| 43 | [Chris Evans](http://twitter.com/search?q=Chris+Evans) | Chris Evans is the name of an American actor, best known for his roles in Marvel superhero films such as Captain America and The Avengers. He has also starred in films such as Snowpiercer, Gifted, and Knives Out. |
-| 44 | [Zoro](http://twitter.com/search?q=Zoro) | N/A |
-| 45 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
-| 46 | [Travis](http://twitter.com/search?q=Travis) | N/A |
-| 47 | [Denzel Washington](http://twitter.com/search?q=Denzel+Washington) | N/A |
-| 48 | [Março](http://twitter.com/search?q=Mar%c3%a7o) | N/A |
-| 49 | [Helena Bonham](http://twitter.com/search?q=Helena+Bonham) | N/A |
-| 50 | [Anvisa](http://twitter.com/search?q=Anvisa) | N/A |
+| 1 | [Artur](http://twitter.com/search?q=Artur) | N/A |
+| 2 | [billie](http://twitter.com/search?q=billie) | N/A |
+| 3 | [Rubens](http://twitter.com/search?q=Rubens) | N/A |
+| 4 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
+| 5 | [Allan](http://twitter.com/search?q=Allan) | N/A |
+| 6 | [Ed Sheeran](http://twitter.com/search?q=Ed+Sheeran) | N/A |
+| 7 | [Petrobrás](http://twitter.com/search?q=Petrobr%c3%a1s) | N/A |
+| 8 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
+| 9 | [Atuesta](http://twitter.com/search?q=Atuesta) | Atuesta is a Spanish word that means "trust" or "confidence". It is often used to refer to the trust that exists between two people or groups. |
+| 10 | [#IMPETUOSO](http://twitter.com/search?q=%23IMPETUOSO) | N/A |
+| 11 | [Neto](http://twitter.com/search?q=Neto) | Neto is a Portuguese word meaning "net" or "net profit". It is commonly used to refer to the amount of money that remains after all taxes, deductions, and other expenses have been taken out of a total amount. |
+| 12 | [twenty one pilots](http://twitter.com/search?q=twenty+one+pilots) | N/A |
+| 13 | [sam levinson](http://twitter.com/search?q=sam+levinson) | N/A |
+| 14 | [all of the girls](http://twitter.com/search?q=all+of+the+girls) | N/A |
+| 15 | [jennie](http://twitter.com/search?q=jennie) | N/A |
+| 16 | [Thaissa](http://twitter.com/search?q=Thaissa) | N/A |
+| 17 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
+| 18 | [Blink](http://twitter.com/search?q=Blink) | N/A |
+| 19 | [#HYBEPROTECTRM](http://twitter.com/search?q=%23HYBEPROTECTRM) | N/A |
+| 20 | [BIGHIT PROTECT RM](http://twitter.com/search?q=BIGHIT+PROTECT+RM) | N/A |
+| 21 | [Lucy Liu](http://twitter.com/search?q=Lucy+Liu) | N/A |
+| 22 | [PADARIA TA ON](http://twitter.com/search?q=PADARIA+TA+ON) | N/A |
+| 23 | [Jaeci](http://twitter.com/search?q=Jaeci) | N/A |
+| 24 | [Emma Watson](http://twitter.com/search?q=Emma+Watson) | N/A |
+| 25 | [Lupita Nyong](http://twitter.com/search?q=Lupita+Nyong) | N/A |
+| 26 | [Chelo](http://twitter.com/search?q=Chelo) | N/A |
+| 27 | [Tom Hardy](http://twitter.com/search?q=Tom+Hardy) | N/A |
+| 28 | [#GoIMP](http://twitter.com/search?q=%23GoIMP) | N/A |
+| 29 | [Chris Evans](http://twitter.com/search?q=Chris+Evans) | Chris Evans is the name of an American actor, best known for his roles in Marvel superhero films such as Captain America and The Avengers. He has also starred in films such as Snowpiercer, Gifted, and Knives Out. |
+| 30 | [Mads Mikkelsen](http://twitter.com/search?q=Mads+Mikkelsen) | N/A |
+| 31 | [The Idol](http://twitter.com/search?q=The+Idol) | N/A |
+| 32 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
+| 33 | [Terrence Malick](http://twitter.com/search?q=Terrence+Malick) | N/A |
+| 34 | [Haddad](http://twitter.com/search?q=Haddad) | N/A |
+| 35 | [Helena Bonham](http://twitter.com/search?q=Helena+Bonham) | N/A |
+| 36 | [Emma Stone](http://twitter.com/search?q=Emma+Stone) | N/A |
+| 37 | [Robert Pattinson](http://twitter.com/search?q=Robert+Pattinson) | N/A |
+| 38 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 39 | [#MoonlightChickenEP7](http://twitter.com/search?q=%23MoonlightChickenEP7) | N/A |
+| 40 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
+| 41 | [Imperial](http://twitter.com/search?q=Imperial) | N/A |
+| 42 | [IFAB](http://twitter.com/search?q=IFAB) | N/A |
+| 43 | [Tom Delonge](http://twitter.com/search?q=Tom+Delonge) | N/A |
+| 44 | [Saoirse Ronan](http://twitter.com/search?q=Saoirse+Ronan) | N/A |
+| 45 | [Dida](http://twitter.com/search?q=Dida) | N/A |
+| 46 | [Benedict Cumberbatch](http://twitter.com/search?q=Benedict+Cumberbatch) | N/A |
+| 47 | [Barbie Ferreira](http://twitter.com/search?q=Barbie+Ferreira) | N/A |
+| 48 | [KARL](http://twitter.com/search?q=KARL) | N/A |
+| 49 | [Banco](http://twitter.com/search?q=Banco) | N/A |
+| 50 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
 
 
 

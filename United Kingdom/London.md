@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For London
 
-📆 Last Updated: `2023-03-01 19:16:00 UTC`
+📆 Last Updated: `2023-03-01 20:16:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Coady](http://twitter.com/search?q=Coady) | Coady is a surname of Irish origin. It is derived from the Gaelic name Mac an Chódaigh, which means "son of the coda". The coda was a leader or chieftain in ancient Ireland. In English, Coady can be translated to mean "leader" or "chieftain". |
-| 2 | [#lockdownfiles](http://twitter.com/search?q=%23lockdownfiles) | N/A |
-| 3 | [#readingfc](http://twitter.com/search?q=%23readingfc) | N/A |
-| 4 | [Year 2](http://twitter.com/search?q=Year+2) | N/A |
-| 5 | [#SaintDavidsDay](http://twitter.com/search?q=%23SaintDavidsDay) | N/A |
-| 6 | [Dawid Malan](http://twitter.com/search?q=Dawid+Malan) | N/A |
-| 7 | [#readingforpleasure](http://twitter.com/search?q=%23readingforpleasure) | N/A |
-| 8 | [King Charles](http://twitter.com/search?q=King+Charles) | N/A |
-| 9 | [#StarWars](http://twitter.com/search?q=%23StarWars) | N/A |
+| 1 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 2 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
+| 3 | [#lockdownfiles](http://twitter.com/search?q=%23lockdownfiles) | N/A |
+| 4 | [#readingfc](http://twitter.com/search?q=%23readingfc) | N/A |
+| 5 | [#readingforpleasure](http://twitter.com/search?q=%23readingforpleasure) | N/A |
+| 6 | [#SwanGiveaway](http://twitter.com/search?q=%23SwanGiveaway) | N/A |
+| 7 | [International Women's Day](http://twitter.com/search?q=International+Women%27s+Day) | N/A |
+| 8 | [Saint David](http://twitter.com/search?q=Saint+David) | N/A |
+| 9 | [King Charles](http://twitter.com/search?q=King+Charles) | N/A |
 | 10 | [Oakeshott](http://twitter.com/search?q=Oakeshott) | N/A |
-| 11 | [Season 3](http://twitter.com/search?q=Season+3) | N/A |
-| 12 | [Danjuma](http://twitter.com/search?q=Danjuma) | Danjuma is a Nigerian name of Yoruba origin. It means "God has done it" in English. |
-| 13 | [Keane](http://twitter.com/search?q=Keane) | N/A |
-| 14 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
-| 15 | [sam levinson](http://twitter.com/search?q=sam+levinson) | N/A |
-| 16 | [St David](http://twitter.com/search?q=St+David) | N/A |
-| 17 | [Godfrey](http://twitter.com/search?q=Godfrey) | Godfrey is a masculine given name of Germanic origin, derived from the elements "god" and "frid" meaning "God's peace". It is also an English surname. |
-| 18 | [Goodwin](http://twitter.com/search?q=Goodwin) | Goodwin is a surname of English origin. It is derived from the Old English words "god" and "wine," meaning "friend of God." The name was originally used to denote someone who was pious or devoted to God. |
-| 19 | [Constance Marten](http://twitter.com/search?q=Constance+Marten) | N/A |
-| 20 | [Mark Gordon](http://twitter.com/search?q=Mark+Gordon) | N/A |
-| 21 | [Welsh](http://twitter.com/search?q=Welsh) | Welsh is a Celtic language spoken in Wales, a country in the United Kingdom. It is closely related to Cornish and Breton, two other Celtic languages. The Welsh language has its own unique alphabet and grammar, and is an official language of Wales. Its meaning in English is "of or relating to Wales or its people, language, or culture". |
-| 22 | [Lindelof](http://twitter.com/search?q=Lindelof) | Lindelof is a surname of Swedish origin. It is derived from the Old Norse name Lindalófr, which means "linden leaf" or "linden tree". In English, the name can be translated to mean "beloved of the linden tree". |
-| 23 | [Hancock](http://twitter.com/search?q=Hancock) | N/A |
-| 24 | [Frogmore Cottage](http://twitter.com/search?q=Frogmore+Cottage) | N/A |
-| 25 | [Ibou](http://twitter.com/search?q=Ibou) | N/A |
-| 26 | [Sands](http://twitter.com/search?q=Sands) | Sands is a term used to refer to a beach or shoreline composed of sand. It can also be used to refer to a desert made up of sand. In English, the word "sands" is used to describe an area covered in sand. |
-| 27 | [NUTTY](http://twitter.com/search?q=NUTTY) | N/A |
-| 28 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
-| 29 | [Grimsby](http://twitter.com/search?q=Grimsby) | N/A |
-| 30 | [Helen Whately](http://twitter.com/search?q=Helen+Whately) | Helen Whately is a British politician who has been the Member of Parliament (MP) for Faversham and Mid Kent since 2015. She is a member of the Conservative Party and currently serves as Minister of State for Care in the Department of Health and Social Care. |
-| 31 | [Eisteddfod](http://twitter.com/search?q=Eisteddfod) | N/A |
-| 32 | [Pikamee](http://twitter.com/search?q=Pikamee) | N/A |
-| 33 | [Ross Wilson](http://twitter.com/search?q=Ross+Wilson) | N/A |
-| 34 | [Meghan](http://twitter.com/search?q=Meghan) | N/A |
-| 35 | [Eton](http://twitter.com/search?q=Eton) | N/A |
-| 36 | [Emirates](http://twitter.com/search?q=Emirates) | Emirates is the name of a major airline based in Dubai, United Arab Emirates. The word "emirates" is derived from the Arabic word "imarat," which means "state" or "country." |
-| 37 | [Arsenal v Everton](http://twitter.com/search?q=Arsenal+v+Everton) | N/A |
-| 38 | [jennie](http://twitter.com/search?q=jennie) | N/A |
-| 39 | [joon](http://twitter.com/search?q=joon) | Joon is a Persian word that means "soul" or "spirit". It is often used to refer to the inner essence of a person, and is sometimes used as a term of endearment. |
-| 40 | [Big John](http://twitter.com/search?q=Big+John) | N/A |
-| 41 | [Telegraph](http://twitter.com/search?q=Telegraph) | N/A |
+| 11 | [Danjuma](http://twitter.com/search?q=Danjuma) | Danjuma is a Nigerian name of Yoruba origin. It means "God has done it" in English. |
+| 12 | [Keane](http://twitter.com/search?q=Keane) | N/A |
+| 13 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
+| 14 | [Grimsby](http://twitter.com/search?q=Grimsby) | N/A |
+| 15 | [KARL](http://twitter.com/search?q=KARL) | N/A |
+| 16 | [Lindelof](http://twitter.com/search?q=Lindelof) | Lindelof is a surname of Swedish origin. It is derived from the Old Norse name Lindalófr, which means "linden leaf" or "linden tree". In English, the name can be translated to mean "beloved of the linden tree". |
+| 17 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
+| 18 | [Constance Marten](http://twitter.com/search?q=Constance+Marten) | N/A |
+| 19 | [Maupay](http://twitter.com/search?q=Maupay) | Maupay is a French surname. It is derived from the Old French word mauvais, meaning "bad" or "evil". In English, the name Maupay can be translated to mean "evil one". |
+| 20 | [Lyanco](http://twitter.com/search?q=Lyanco) | Lyanco is a Portuguese name derived from the Latin name "Livianus", which means "belonging to the Roman family of Livius". In English, it can be translated to mean "belonging to the Livius family". |
+| 21 | [Moura](http://twitter.com/search?q=Moura) | N/A |
+| 22 | [Mark Gordon](http://twitter.com/search?q=Mark+Gordon) | N/A |
+| 23 | [TINA](http://twitter.com/search?q=TINA) | N/A |
+| 24 | [sam levinson](http://twitter.com/search?q=sam+levinson) | N/A |
+| 25 | [Martin Keown](http://twitter.com/search?q=Martin+Keown) | N/A |
+| 26 | [Coady](http://twitter.com/search?q=Coady) | Coady is a surname of Irish origin. It is derived from the Gaelic name Mac an Chódaigh, which means "son of the coda". The coda was a leader or chieftain in ancient Ireland. In English, Coady can be translated to mean "leader" or "chieftain". |
+| 27 | [Lee Dixon](http://twitter.com/search?q=Lee+Dixon) | Lee Dixon is a former English professional footballer who played as a right back for Arsenal, Burnley, Chester City and Stoke City. He is now a football pundit and commentator for ITV Sport and BBC Sport. |
+| 28 | [Moutinho](http://twitter.com/search?q=Moutinho) | N/A |
+| 29 | [Lou Macari](http://twitter.com/search?q=Lou+Macari) | N/A |
+| 30 | [Sheffield United](http://twitter.com/search?q=Sheffield+United) | Sheffield United is an English professional football club based in Sheffield, South Yorkshire. The club competes in the Premier League, the top division of English football. Sheffield United was founded in 1889 and has won four FA Cups, one League Cup and one Full Members Cup. The club's nickname is "The Blades" due to Sheffield's history of steel production. |
+| 31 | [Areola](http://twitter.com/search?q=Areola) | N/A |
+| 32 | [St David](http://twitter.com/search?q=St+David) | N/A |
+| 33 | [Peter Drury](http://twitter.com/search?q=Peter+Drury) | N/A |
+| 34 | [Adam Armstrong](http://twitter.com/search?q=Adam+Armstrong) | N/A |
+| 35 | [Godfrey](http://twitter.com/search?q=Godfrey) | Godfrey is a masculine given name of Germanic origin, derived from the elements "god" and "frid" meaning "God's peace". It is also an English surname. |
+| 36 | [Goodwin](http://twitter.com/search?q=Goodwin) | Goodwin is a surname of English origin. It is derived from the Old English words "god" and "wine," meaning "friend of God." The name was originally used to denote someone who was pious or devoted to God. |
+| 37 | [Hancock](http://twitter.com/search?q=Hancock) | N/A |
+| 38 | [Paqueta](http://twitter.com/search?q=Paqueta) | N/A |
+| 39 | [Ibou](http://twitter.com/search?q=Ibou) | N/A |
+| 40 | [Gunners](http://twitter.com/search?q=Gunners) | Gunners is a slang term used to refer to members of the British Armed Forces, particularly those in the Royal Artillery. It is derived from the nickname of the Royal Artillery, which is "The Gunners". |
+| 41 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
 | 42 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
-| 43 | [Sarah Vine](http://twitter.com/search?q=Sarah+Vine) | N/A |
-| 44 | [Prince Andrew](http://twitter.com/search?q=Prince+Andrew) | N/A |
-| 45 | [Olympics](http://twitter.com/search?q=Olympics) | N/A |
-| 46 | [Whitty](http://twitter.com/search?q=Whitty) | N/A |
-| 47 | [Ed Sheeran](http://twitter.com/search?q=Ed+Sheeran) | N/A |
-| 48 | [Sean Penn](http://twitter.com/search?q=Sean+Penn) | N/A |
-| 49 | [Giants](http://twitter.com/search?q=Giants) | Giants is a term used to refer to people or things that are much larger than average. It can be used to describe a person who is unusually tall, or an object that is unusually large. It can also be used figuratively to refer to something that is very powerful or influential. |
+| 43 | [Frogmore](http://twitter.com/search?q=Frogmore) | N/A |
+| 44 | [Sands](http://twitter.com/search?q=Sands) | Sands is a term used to refer to a beach or shoreline composed of sand. It can also be used to refer to a desert made up of sand. In English, the word "sands" is used to describe an area covered in sand. |
+| 45 | [Meghan](http://twitter.com/search?q=Meghan) | N/A |
+| 46 | [NUTTY](http://twitter.com/search?q=NUTTY) | N/A |
+| 47 | [Bramall Lane](http://twitter.com/search?q=Bramall+Lane) | N/A |
+| 48 | [Cumbernauld](http://twitter.com/search?q=Cumbernauld) | N/A |
+| 49 | [Helen Whately](http://twitter.com/search?q=Helen+Whately) | Helen Whately is a British politician who has been the Member of Parliament (MP) for Faversham and Mid Kent since 2015. She is a member of the Conservative Party and currently serves as Minister of State for Care in the Department of Health and Social Care. |
 
 
 

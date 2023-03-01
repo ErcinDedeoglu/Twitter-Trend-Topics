@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cincinnati
 
-📆 Last Updated: `2023-03-01 19:16:45 UTC`
+📆 Last Updated: `2023-03-01 20:16:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
-| 2 | [Korpi](http://twitter.com/search?q=Korpi) | N/A |
-| 3 | [#WomensHistoryMonth](http://twitter.com/search?q=%23WomensHistoryMonth) | N/A |
-| 4 | [sam levinson](http://twitter.com/search?q=sam+levinson) | N/A |
-| 5 | [Jalen Carter](http://twitter.com/search?q=Jalen+Carter) | N/A |
+| 1 | [Korpi](http://twitter.com/search?q=Korpi) | N/A |
+| 2 | [#WomensHistoryMonth](http://twitter.com/search?q=%23WomensHistoryMonth) | N/A |
+| 3 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
+| 4 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
+| 5 | [sam levinson](http://twitter.com/search?q=sam+levinson) | N/A |
 | 6 | [#TheMandalorianXboxSweepstakes](http://twitter.com/search?q=%23TheMandalorianXboxSweepstakes) | N/A |
-| 7 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
-| 8 | [Pikamee](http://twitter.com/search?q=Pikamee) | N/A |
-| 9 | [#RHOA](http://twitter.com/search?q=%23RHOA) | N/A |
-| 10 | [Havana Syndrome](http://twitter.com/search?q=Havana+Syndrome) | N/A |
-| 11 | [Eli Lilly](http://twitter.com/search?q=Eli+Lilly) | N/A |
-| 12 | [Ralph](http://twitter.com/search?q=Ralph) | N/A |
-| 13 | [Lars Eller](http://twitter.com/search?q=Lars+Eller) | N/A |
-| 14 | [#BBCAN11](http://twitter.com/search?q=%23BBCAN11) | N/A |
-| 15 | [Drew](http://twitter.com/search?q=Drew) | N/A |
-| 16 | [ChatGPT API](http://twitter.com/search?q=ChatGPT+API) | N/A |
-| 17 | [Jake Cave](http://twitter.com/search?q=Jake+Cave) | N/A |
-| 18 | [Danjuma](http://twitter.com/search?q=Danjuma) | Danjuma is a Nigerian name of Yoruba origin. It means "God has done it" in English. |
-| 19 | [Todd McShay](http://twitter.com/search?q=Todd+McShay) | N/A |
-| 20 | [Euphoria](http://twitter.com/search?q=Euphoria) | N/A |
-| 21 | [March Madness](http://twitter.com/search?q=March+Madness) | N/A |
-| 22 | [jennie](http://twitter.com/search?q=jennie) | N/A |
-| 23 | [Chandler Parsons](http://twitter.com/search?q=Chandler+Parsons) | Chandler Parsons is an American professional basketball player who currently plays for the Atlanta Hawks of the National Basketball Association (NBA). He is known for his ability to shoot from long range and his versatility as a forward. |
-| 24 | [The Idol](http://twitter.com/search?q=The+Idol) | N/A |
-| 25 | [Watkins](http://twitter.com/search?q=Watkins) | Watkins is a surname of English origin. It is derived from the Old English personal name Watkin, which is a diminutive form of Walter. The name means "son of Walter". |
-| 26 | [Ultra MAGA](http://twitter.com/search?q=Ultra+MAGA) | N/A |
-| 27 | [Will Anderson](http://twitter.com/search?q=Will+Anderson) | N/A |
-| 28 | [Hawley](http://twitter.com/search?q=Hawley) | N/A |
-| 29 | [Beau Biden](http://twitter.com/search?q=Beau+Biden) | N/A |
-| 30 | [Mike Lee](http://twitter.com/search?q=Mike+Lee) | N/A |
-| 31 | [Fuddruckers](http://twitter.com/search?q=Fuddruckers) | N/A |
-| 32 | [HAPPY BIRTHDAY SAPNAP](http://twitter.com/search?q=HAPPY+BIRTHDAY+SAPNAP) | N/A |
-| 33 | [Wray](http://twitter.com/search?q=Wray) | N/A |
-| 34 | [Henry Ruggs](http://twitter.com/search?q=Henry+Ruggs) | N/A |
-| 35 | [Bowe](http://twitter.com/search?q=Bowe) | N/A |
-| 36 | [6lack](http://twitter.com/search?q=6lack) | N/A |
-| 37 | [VOMS](http://twitter.com/search?q=VOMS) | N/A |
-| 38 | [Broccoli City](http://twitter.com/search?q=Broccoli+City) | N/A |
-| 39 | [Dark Side of the Moon](http://twitter.com/search?q=Dark+Side+of+the+Moon) | N/A |
-| 40 | [Zoro](http://twitter.com/search?q=Zoro) | N/A |
-| 41 | [Eric DeCosta](http://twitter.com/search?q=Eric+DeCosta) | N/A |
-| 42 | [Frogmore](http://twitter.com/search?q=Frogmore) | N/A |
-| 43 | [Jared Leto](http://twitter.com/search?q=Jared+Leto) | Jared Leto is an American actor, singer, songwriter, and director. He is best known for his roles in films such as Requiem for a Dream (2000), Dallas Buyers Club (2013), and Suicide Squad (2016). He has also released several albums as the lead singer of the rock band Thirty Seconds to Mars. |
-| 44 | [New Month](http://twitter.com/search?q=New+Month) | N/A |
-| 45 | [Harrison Bader](http://twitter.com/search?q=Harrison+Bader) | N/A |
-| 46 | [Stollen](http://twitter.com/search?q=Stollen) | Stollen is a traditional German Christmas cake or bread made with dried fruit, nuts, and spices. It is usually shaped like a log and covered with powdered sugar or icing sugar. The name comes from the German word "stollen," which means "to carry." In English, it is sometimes referred to as a Christmas loaf or fruitcake. |
-| 47 | [Chris Pine](http://twitter.com/search?q=Chris+Pine) | N/A |
-| 48 | [Happy Birthday Ron](http://twitter.com/search?q=Happy+Birthday+Ron) | N/A |
-| 49 | [LUKE HEMMINGS](http://twitter.com/search?q=LUKE+HEMMINGS) | N/A |
+| 7 | [KARL](http://twitter.com/search?q=KARL) | N/A |
+| 8 | [Jalen Carter](http://twitter.com/search?q=Jalen+Carter) | N/A |
+| 9 | [Pikamee](http://twitter.com/search?q=Pikamee) | N/A |
+| 10 | [#CashAppTaxes](http://twitter.com/search?q=%23CashAppTaxes) | N/A |
+| 11 | [TINA](http://twitter.com/search?q=TINA) | N/A |
+| 12 | [#RHOA](http://twitter.com/search?q=%23RHOA) | N/A |
+| 13 | [Havana Syndrome](http://twitter.com/search?q=Havana+Syndrome) | N/A |
+| 14 | [Ted Cruz](http://twitter.com/search?q=Ted+Cruz) | N/A |
+| 15 | [Eli Lilly](http://twitter.com/search?q=Eli+Lilly) | N/A |
+| 16 | [NFLPA](http://twitter.com/search?q=NFLPA) | N/A |
+| 17 | [Visibly](http://twitter.com/search?q=Visibly) | N/A |
+| 18 | [Lars Eller](http://twitter.com/search?q=Lars+Eller) | N/A |
+| 19 | [Ralph](http://twitter.com/search?q=Ralph) | N/A |
+| 20 | [ChatGPT API](http://twitter.com/search?q=ChatGPT+API) | N/A |
+| 21 | [Finish Line](http://twitter.com/search?q=Finish+Line) | N/A |
+| 22 | [Drew](http://twitter.com/search?q=Drew) | N/A |
+| 23 | [Mike Lee](http://twitter.com/search?q=Mike+Lee) | N/A |
+| 24 | [Bader](http://twitter.com/search?q=Bader) | Bader is a German name derived from the Old High German word "bado" meaning "battle". It is also a surname, and can be used as a given name. In English, it is usually pronounced "BAY-der". |
+| 25 | [Ultra MAGA](http://twitter.com/search?q=Ultra+MAGA) | N/A |
+| 26 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 27 | [Euphoria](http://twitter.com/search?q=Euphoria) | N/A |
+| 28 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 29 | [Danjuma](http://twitter.com/search?q=Danjuma) | Danjuma is a Nigerian name of Yoruba origin. It means "God has done it" in English. |
+| 30 | [Lindelof](http://twitter.com/search?q=Lindelof) | Lindelof is a surname of Swedish origin. It is derived from the Old Norse name Lindalófr, which means "linden leaf" or "linden tree". In English, the name can be translated to mean "beloved of the linden tree". |
+| 31 | [Larkin](http://twitter.com/search?q=Larkin) | N/A |
+| 32 | [Damp](http://twitter.com/search?q=Damp) | N/A |
+| 33 | [The Idol](http://twitter.com/search?q=The+Idol) | N/A |
+| 34 | [jennie](http://twitter.com/search?q=jennie) | N/A |
+| 35 | [Hawley](http://twitter.com/search?q=Hawley) | N/A |
+| 36 | [Joe Budden](http://twitter.com/search?q=Joe+Budden) | N/A |
+| 37 | [Watkins](http://twitter.com/search?q=Watkins) | Watkins is a surname of English origin. It is derived from the Old English personal name Watkin, which is a diminutive form of Walter. The name means "son of Walter". |
+| 38 | [Chandler Parsons](http://twitter.com/search?q=Chandler+Parsons) | Chandler Parsons is an American professional basketball player who currently plays for the Atlanta Hawks of the National Basketball Association (NBA). He is known for his ability to shoot from long range and his versatility as a forward. |
+| 39 | [Hi-C](http://twitter.com/search?q=Hi-C) | N/A |
+| 40 | [Luke Rockhold](http://twitter.com/search?q=Luke+Rockhold) | N/A |
+| 41 | [Beau Biden](http://twitter.com/search?q=Beau+Biden) | N/A |
+| 42 | [March Madness](http://twitter.com/search?q=March+Madness) | N/A |
+| 43 | [Gilbert Arenas](http://twitter.com/search?q=Gilbert+Arenas) | N/A |
+| 44 | [Jake Cave](http://twitter.com/search?q=Jake+Cave) | N/A |
+| 45 | [David Benner](http://twitter.com/search?q=David+Benner) | N/A |
+| 46 | [Todd McShay](http://twitter.com/search?q=Todd+McShay) | N/A |
+| 47 | [Maupay](http://twitter.com/search?q=Maupay) | Maupay is a French surname. It is derived from the Old French word mauvais, meaning "bad" or "evil". In English, the name Maupay can be translated to mean "evil one". |
+| 48 | [Will Anderson](http://twitter.com/search?q=Will+Anderson) | N/A |
+| 49 | [6lack](http://twitter.com/search?q=6lack) | N/A |
 
 
 

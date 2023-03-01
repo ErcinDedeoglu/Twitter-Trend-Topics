@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Diego
 
-📆 Last Updated: `2023-03-01 19:16:52 UTC`
+📆 Last Updated: `2023-03-01 20:16:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [joon](http://twitter.com/search?q=joon) | Joon is a Persian word that means "soul" or "spirit". It is often used to refer to the inner essence of a person, and is sometimes used as a term of endearment. |
+| 1 | [Mookie](http://twitter.com/search?q=Mookie) | N/A |
 | 2 | [Olympics](http://twitter.com/search?q=Olympics) | N/A |
-| 3 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
+| 3 | [joon](http://twitter.com/search?q=joon) | Joon is a Persian word that means "soul" or "spirit". It is often used to refer to the inner essence of a person, and is sometimes used as a term of endearment. |
 | 4 | [Quickie](http://twitter.com/search?q=Quickie) | N/A |
-| 5 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
-| 6 | [Columbus](http://twitter.com/search?q=Columbus) | N/A |
-| 7 | [Jonathan Quick](http://twitter.com/search?q=Jonathan+Quick) | N/A |
-| 8 | [The FBI](http://twitter.com/search?q=The+FBI) | N/A |
-| 9 | [Blake](http://twitter.com/search?q=Blake) | Blake is a unisex name of English origin, derived from Old English words meaning "black" and "bright". It is often used as a surname as well. |
-| 10 | [Grogu](http://twitter.com/search?q=Grogu) | N/A |
-| 11 | [#StarWars](http://twitter.com/search?q=%23StarWars) | N/A |
+| 5 | [Blake](http://twitter.com/search?q=Blake) | Blake is a unisex name of English origin, derived from Old English words meaning "black" and "bright". It is often used as a surname as well. |
+| 6 | [Mayor](http://twitter.com/search?q=Mayor) | N/A |
+| 7 | [Lightfoot](http://twitter.com/search?q=Lightfoot) | N/A |
+| 8 | [Columbus](http://twitter.com/search?q=Columbus) | N/A |
+| 9 | [Jonathan Quick](http://twitter.com/search?q=Jonathan+Quick) | N/A |
+| 10 | [Mando](http://twitter.com/search?q=Mando) | N/A |
+| 11 | [Grogu](http://twitter.com/search?q=Grogu) | N/A |
 | 12 | [#WomensHistoryMonth](http://twitter.com/search?q=%23WomensHistoryMonth) | N/A |
-| 13 | [sam levinson](http://twitter.com/search?q=sam+levinson) | N/A |
-| 14 | [Jalen Carter](http://twitter.com/search?q=Jalen+Carter) | N/A |
-| 15 | [#TheMandalorianXboxSweepstakes](http://twitter.com/search?q=%23TheMandalorianXboxSweepstakes) | N/A |
-| 16 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
-| 17 | [Pikamee](http://twitter.com/search?q=Pikamee) | N/A |
-| 18 | [#RHOA](http://twitter.com/search?q=%23RHOA) | N/A |
-| 19 | [Havana Syndrome](http://twitter.com/search?q=Havana+Syndrome) | N/A |
-| 20 | [Eli Lilly](http://twitter.com/search?q=Eli+Lilly) | N/A |
-| 21 | [Ralph](http://twitter.com/search?q=Ralph) | N/A |
-| 22 | [Lars Eller](http://twitter.com/search?q=Lars+Eller) | N/A |
-| 23 | [#BBCAN11](http://twitter.com/search?q=%23BBCAN11) | N/A |
-| 24 | [Drew](http://twitter.com/search?q=Drew) | N/A |
-| 25 | [ChatGPT API](http://twitter.com/search?q=ChatGPT+API) | N/A |
-| 26 | [Jake Cave](http://twitter.com/search?q=Jake+Cave) | N/A |
-| 27 | [Danjuma](http://twitter.com/search?q=Danjuma) | Danjuma is a Nigerian name of Yoruba origin. It means "God has done it" in English. |
-| 28 | [Euphoria](http://twitter.com/search?q=Euphoria) | N/A |
-| 29 | [Todd McShay](http://twitter.com/search?q=Todd+McShay) | N/A |
-| 30 | [March Madness](http://twitter.com/search?q=March+Madness) | N/A |
-| 31 | [jennie](http://twitter.com/search?q=jennie) | N/A |
-| 32 | [Chandler Parsons](http://twitter.com/search?q=Chandler+Parsons) | Chandler Parsons is an American professional basketball player who currently plays for the Atlanta Hawks of the National Basketball Association (NBA). He is known for his ability to shoot from long range and his versatility as a forward. |
-| 33 | [Watkins](http://twitter.com/search?q=Watkins) | Watkins is a surname of English origin. It is derived from the Old English personal name Watkin, which is a diminutive form of Walter. The name means "son of Walter". |
-| 34 | [The Idol](http://twitter.com/search?q=The+Idol) | N/A |
-| 35 | [Ultra MAGA](http://twitter.com/search?q=Ultra+MAGA) | N/A |
-| 36 | [Will Anderson](http://twitter.com/search?q=Will+Anderson) | N/A |
-| 37 | [Hawley](http://twitter.com/search?q=Hawley) | N/A |
-| 38 | [Beau Biden](http://twitter.com/search?q=Beau+Biden) | N/A |
-| 39 | [Mike Lee](http://twitter.com/search?q=Mike+Lee) | N/A |
-| 40 | [Fuddruckers](http://twitter.com/search?q=Fuddruckers) | N/A |
-| 41 | [HAPPY BIRTHDAY SAPNAP](http://twitter.com/search?q=HAPPY+BIRTHDAY+SAPNAP) | N/A |
-| 42 | [Wray](http://twitter.com/search?q=Wray) | N/A |
-| 43 | [Henry Ruggs](http://twitter.com/search?q=Henry+Ruggs) | N/A |
-| 44 | [Bowe](http://twitter.com/search?q=Bowe) | N/A |
-| 45 | [6lack](http://twitter.com/search?q=6lack) | N/A |
-| 46 | [VOMS](http://twitter.com/search?q=VOMS) | N/A |
-| 47 | [Broccoli City](http://twitter.com/search?q=Broccoli+City) | N/A |
-| 48 | [Dark Side of the Moon](http://twitter.com/search?q=Dark+Side+of+the+Moon) | N/A |
+| 13 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
+| 14 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
+| 15 | [sam levinson](http://twitter.com/search?q=sam+levinson) | N/A |
+| 16 | [#TheMandalorianXboxSweepstakes](http://twitter.com/search?q=%23TheMandalorianXboxSweepstakes) | N/A |
+| 17 | [KARL](http://twitter.com/search?q=KARL) | N/A |
+| 18 | [Pikamee](http://twitter.com/search?q=Pikamee) | N/A |
+| 19 | [Jalen Carter](http://twitter.com/search?q=Jalen+Carter) | N/A |
+| 20 | [#CashAppTaxes](http://twitter.com/search?q=%23CashAppTaxes) | N/A |
+| 21 | [TINA](http://twitter.com/search?q=TINA) | N/A |
+| 22 | [#RHOA](http://twitter.com/search?q=%23RHOA) | N/A |
+| 23 | [Havana Syndrome](http://twitter.com/search?q=Havana+Syndrome) | N/A |
+| 24 | [Ted Cruz](http://twitter.com/search?q=Ted+Cruz) | N/A |
+| 25 | [Eli Lilly](http://twitter.com/search?q=Eli+Lilly) | N/A |
+| 26 | [Visibly](http://twitter.com/search?q=Visibly) | N/A |
+| 27 | [NFLPA](http://twitter.com/search?q=NFLPA) | N/A |
+| 28 | [#BBCAN11](http://twitter.com/search?q=%23BBCAN11) | N/A |
+| 29 | [Lars Eller](http://twitter.com/search?q=Lars+Eller) | N/A |
+| 30 | [Ralph](http://twitter.com/search?q=Ralph) | N/A |
+| 31 | [ChatGPT API](http://twitter.com/search?q=ChatGPT+API) | N/A |
+| 32 | [Finish Line](http://twitter.com/search?q=Finish+Line) | N/A |
+| 33 | [Drew](http://twitter.com/search?q=Drew) | N/A |
+| 34 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 35 | [Mike Lee](http://twitter.com/search?q=Mike+Lee) | N/A |
+| 36 | [Ultra MAGA](http://twitter.com/search?q=Ultra+MAGA) | N/A |
+| 37 | [Bader](http://twitter.com/search?q=Bader) | Bader is a German name derived from the Old High German word "bado" meaning "battle". It is also a surname, and can be used as a given name. In English, it is usually pronounced "BAY-der". |
+| 38 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 39 | [Lindelof](http://twitter.com/search?q=Lindelof) | Lindelof is a surname of Swedish origin. It is derived from the Old Norse name Lindalófr, which means "linden leaf" or "linden tree". In English, the name can be translated to mean "beloved of the linden tree". |
+| 40 | [Euphoria](http://twitter.com/search?q=Euphoria) | N/A |
+| 41 | [Danjuma](http://twitter.com/search?q=Danjuma) | Danjuma is a Nigerian name of Yoruba origin. It means "God has done it" in English. |
+| 42 | [Larkin](http://twitter.com/search?q=Larkin) | N/A |
+| 43 | [Damp](http://twitter.com/search?q=Damp) | N/A |
+| 44 | [Hawley](http://twitter.com/search?q=Hawley) | N/A |
+| 45 | [jennie](http://twitter.com/search?q=jennie) | N/A |
+| 46 | [The Idol](http://twitter.com/search?q=The+Idol) | N/A |
+| 47 | [Joe Budden](http://twitter.com/search?q=Joe+Budden) | N/A |
+| 48 | [Watkins](http://twitter.com/search?q=Watkins) | Watkins is a surname of English origin. It is derived from the Old English personal name Watkin, which is a diminutive form of Walter. The name means "son of Walter". |
 
 
 

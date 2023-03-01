@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chile
 
-📆 Last Updated: `2023-03-01 19:16:56 UTC`
+📆 Last Updated: `2023-03-01 20:16:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Chile
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#adn15años](http://twitter.com/search?q=%23adn15a%c3%b1os) | N/A |
-| 2 | [Orsini](http://twitter.com/search?q=Orsini) | Orsini is an Italian surname derived from the Latin name Ursinus, meaning "bear-like". It is most commonly associated with the powerful Orsini family of Rome, who were influential in Italian politics during the Middle Ages and Renaissance. |
-| 3 | [Neme](http://twitter.com/search?q=Neme) | N/A |
-| 4 | [#Blondie30](http://twitter.com/search?q=%23Blondie30) | N/A |
-| 5 | [Simon](http://twitter.com/search?q=Simon) | N/A |
-| 6 | [Blink 182](http://twitter.com/search?q=Blink+182) | N/A |
-| 7 | [twenty one pilots](http://twitter.com/search?q=twenty+one+pilots) | N/A |
-| 8 | [Daniela Aranguiz](http://twitter.com/search?q=Daniela+Aranguiz) | N/A |
-| 9 | [#JuegoDeIlusiones](http://twitter.com/search?q=%23JuegoDeIlusiones) | N/A |
-| 10 | [Independiente del Valle](http://twitter.com/search?q=Independiente+del+Valle) | N/A |
-| 11 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
-| 12 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
-| 13 | [#LosTenores](http://twitter.com/search?q=%23LosTenores) | N/A |
-| 14 | [Valdivia](http://twitter.com/search?q=Valdivia) | N/A |
-| 15 | [#SquidCraft2](http://twitter.com/search?q=%23SquidCraft2) | N/A |
-| 16 | [Gabriel Suazo](http://twitter.com/search?q=Gabriel+Suazo) | N/A |
-| 17 | [Imacec](http://twitter.com/search?q=Imacec) | N/A |
-| 18 | [Toulouse](http://twitter.com/search?q=Toulouse) | Toulouse is a city in southern France. It is the capital of the Occitanie region and the Haute-Garonne department. The city is located on the banks of the River Garonne, 150 km from the Mediterranean Sea and 230 km from the Atlantic Ocean. The meaning of Toulouse in English is "The City of Light". |
-| 19 | [Chili](http://twitter.com/search?q=Chili) | N/A |
-| 20 | [pika](http://twitter.com/search?q=pika) | N/A |
-| 21 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 22 | [Thiem](http://twitter.com/search?q=Thiem) | Thiem is a surname of German origin. It is derived from the Old German word "diem" meaning "people". The name is most commonly found in Germany, Austria, and Switzerland. |
-| 23 | [Krassnoff](http://twitter.com/search?q=Krassnoff) | N/A |
-| 24 | [BIGHIT PROTECT RM](http://twitter.com/search?q=BIGHIT+PROTECT+RM) | N/A |
-| 25 | [Irina](http://twitter.com/search?q=Irina) | N/A |
-| 26 | [Zoro](http://twitter.com/search?q=Zoro) | N/A |
-| 27 | [Integridad](http://twitter.com/search?q=Integridad) | N/A |
-| 28 | [Garin](http://twitter.com/search?q=Garin) | N/A |
-| 29 | [Travis](http://twitter.com/search?q=Travis) | N/A |
-| 30 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
-| 31 | [Phillip](http://twitter.com/search?q=Phillip) | N/A |
-| 32 | [Vlado](http://twitter.com/search?q=Vlado) | N/A |
-| 33 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
-| 34 | [Registro Civil](http://twitter.com/search?q=Registro+Civil) | N/A |
-| 35 | [Axel Kaiser](http://twitter.com/search?q=Axel+Kaiser) | N/A |
-| 36 | [Matías Fernández](http://twitter.com/search?q=Mat%c3%adas+Fern%c3%a1ndez) | N/A |
-| 37 | [Gabigol](http://twitter.com/search?q=Gabigol) | Gabigol is a nickname given to Brazilian footballer Gabriel Barbosa, who currently plays for Flamengo. The nickname is a combination of his first name, Gabriel, and the Portuguese word for goal, gol. In English, the nickname translates to "Gabriel Goal". |
-| 38 | [The Dark Side of the Moon](http://twitter.com/search?q=The+Dark+Side+of+the+Moon) | N/A |
-| 39 | [Marcel](http://twitter.com/search?q=Marcel) | N/A |
-| 40 | [Llegó Marzo](http://twitter.com/search?q=Lleg%c3%b3+Marzo) | N/A |
-| 41 | [Bienvenido Marzo](http://twitter.com/search?q=Bienvenido+Marzo) | N/A |
-| 42 | [Vamos la U](http://twitter.com/search?q=Vamos+la+U) | N/A |
-| 43 | [Henry Boys](http://twitter.com/search?q=Henry+Boys) | N/A |
-| 44 | [Cerro Porteño](http://twitter.com/search?q=Cerro+Porte%c3%b1o) | N/A |
+| 1 | [TINA](http://twitter.com/search?q=TINA) | N/A |
+| 2 | [KARL](http://twitter.com/search?q=KARL) | N/A |
+| 3 | [#Blondie30](http://twitter.com/search?q=%23Blondie30) | N/A |
+| 4 | [#bancoestado](http://twitter.com/search?q=%23bancoestado) | N/A |
+| 5 | [Orsini](http://twitter.com/search?q=Orsini) | Orsini is an Italian surname derived from the Latin name Ursinus, meaning "bear-like". It is most commonly associated with the powerful Orsini family of Rome, who were influential in Italian politics during the Middle Ages and Renaissance. |
+| 6 | [Neme](http://twitter.com/search?q=Neme) | N/A |
+| 7 | [#adn15años](http://twitter.com/search?q=%23adn15a%c3%b1os) | N/A |
+| 8 | [#SquidCraft2](http://twitter.com/search?q=%23SquidCraft2) | N/A |
+| 9 | [Daniela Aranguiz](http://twitter.com/search?q=Daniela+Aranguiz) | N/A |
+| 10 | [Simon](http://twitter.com/search?q=Simon) | N/A |
+| 11 | [twenty one pilots](http://twitter.com/search?q=twenty+one+pilots) | N/A |
+| 12 | [Blink 182](http://twitter.com/search?q=Blink+182) | N/A |
+| 13 | [Independiente del Valle](http://twitter.com/search?q=Independiente+del+Valle) | N/A |
+| 14 | [#JuegoDeIlusiones](http://twitter.com/search?q=%23JuegoDeIlusiones) | N/A |
+| 15 | [Gabriel Suazo](http://twitter.com/search?q=Gabriel+Suazo) | N/A |
+| 16 | [Missa](http://twitter.com/search?q=Missa) | N/A |
+| 17 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
+| 18 | [Valdivia](http://twitter.com/search?q=Valdivia) | N/A |
+| 19 | [Imacec](http://twitter.com/search?q=Imacec) | N/A |
+| 20 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
+| 21 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
+| 22 | [Toulouse](http://twitter.com/search?q=Toulouse) | Toulouse is a city in southern France. It is the capital of the Occitanie region and the Haute-Garonne department. The city is located on the banks of the River Garonne, 150 km from the Mediterranean Sea and 230 km from the Atlantic Ocean. The meaning of Toulouse in English is "The City of Light". |
+| 23 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
+| 24 | [Chili](http://twitter.com/search?q=Chili) | N/A |
+| 25 | [Krassnoff](http://twitter.com/search?q=Krassnoff) | N/A |
+| 26 | [Thiem](http://twitter.com/search?q=Thiem) | Thiem is a surname of German origin. It is derived from the Old German word "diem" meaning "people". The name is most commonly found in Germany, Austria, and Switzerland. |
+| 27 | [Zoro](http://twitter.com/search?q=Zoro) | N/A |
+| 28 | [BIGHIT PROTECT RM](http://twitter.com/search?q=BIGHIT+PROTECT+RM) | N/A |
+| 29 | [The Dark Side of the Moon](http://twitter.com/search?q=The+Dark+Side+of+the+Moon) | N/A |
+| 30 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
+| 31 | [Vlado](http://twitter.com/search?q=Vlado) | N/A |
+| 32 | [Registro Civil](http://twitter.com/search?q=Registro+Civil) | N/A |
+| 33 | [Pikamee](http://twitter.com/search?q=Pikamee) | N/A |
+| 34 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
+| 35 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 36 | [Integridad](http://twitter.com/search?q=Integridad) | N/A |
+| 37 | [Marcel](http://twitter.com/search?q=Marcel) | N/A |
+| 38 | [Garin](http://twitter.com/search?q=Garin) | N/A |
+| 39 | [Bienvenido Marzo](http://twitter.com/search?q=Bienvenido+Marzo) | N/A |
+| 40 | [Gabigol](http://twitter.com/search?q=Gabigol) | Gabigol is a nickname given to Brazilian footballer Gabriel Barbosa, who currently plays for Flamengo. The nickname is a combination of his first name, Gabriel, and the Portuguese word for goal, gol. In English, the nickname translates to "Gabriel Goal". |
+| 41 | [Matías Fernández](http://twitter.com/search?q=Mat%c3%adas+Fern%c3%a1ndez) | N/A |
+| 42 | [Henry Boys](http://twitter.com/search?q=Henry+Boys) | N/A |
+| 43 | [Cerro Porteño](http://twitter.com/search?q=Cerro+Porte%c3%b1o) | N/A |
+| 44 | [Travis](http://twitter.com/search?q=Travis) | N/A |
 | 45 | [Eme Bus](http://twitter.com/search?q=Eme+Bus) | N/A |
-| 46 | [Copa de Francia](http://twitter.com/search?q=Copa+de+Francia) | N/A |
-| 47 | [Jueguen](http://twitter.com/search?q=Jueguen) | N/A |
-| 48 | [Maracaná](http://twitter.com/search?q=Maracan%c3%a1) | N/A |
-| 49 | [Arrascaeta](http://twitter.com/search?q=Arrascaeta) | Arrascaeta is a Spanish word that means "to tear away" or "to rip off." It is often used to describe a situation in which something is taken away quickly and forcefully. |
-| 50 | [Bolivia](http://twitter.com/search?q=Bolivia) | Bolivia is a country located in South America. It is bordered by Brazil, Paraguay, Argentina, Chile, and Peru. The name Bolivia comes from Simón Bolívar, a Venezuelan leader who helped lead several South American countries to independence from Spain in the early 19th century. The official language of Bolivia is Spanish. |
+| 46 | [Phillip](http://twitter.com/search?q=Phillip) | N/A |
+| 47 | [Rubén](http://twitter.com/search?q=Rub%c3%a9n) | N/A |
+| 48 | [Llegó Marzo](http://twitter.com/search?q=Lleg%c3%b3+Marzo) | N/A |
+| 49 | [Maracaná](http://twitter.com/search?q=Maracan%c3%a1) | N/A |
+| 50 | [Damián Pizarro](http://twitter.com/search?q=Dami%c3%a1n+Pizarro) | N/A |
 
 
 

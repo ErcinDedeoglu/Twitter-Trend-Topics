@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rio de Janeiro
 
-📆 Last Updated: `2023-03-01 19:16:07 UTC`
+📆 Last Updated: `2023-03-01 20:16:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#BalançoGeralRJ](http://twitter.com/search?q=%23Balan%c3%a7oGeralRJ) | N/A |
-| 2 | [Thor](http://twitter.com/search?q=Thor) | N/A |
-| 3 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
+| 1 | [Batman](http://twitter.com/search?q=Batman) | Batman is a fictional superhero created by Bob Kane and Bill Finger. He first appeared in Detective Comics #27 in 1939. Batman is a vigilante who fights crime and injustice in Gotham City using his physical prowess, detective skills, science and technology, wealth, and intimidation. He is often referred to as the "Caped Crusader" or the "Dark Knight". |
+| 2 | [Thaissa](http://twitter.com/search?q=Thaissa) | N/A |
+| 3 | [Duda](http://twitter.com/search?q=Duda) | N/A |
 | 4 | [Petrobras](http://twitter.com/search?q=Petrobras) | N/A |
-| 5 | [Neto](http://twitter.com/search?q=Neto) | Neto is a Portuguese word meaning "net" or "net profit". It is commonly used to refer to the amount of money that remains after all taxes, deductions, and other expenses have been taken out of a total amount. |
-| 6 | [twenty one pilots](http://twitter.com/search?q=twenty+one+pilots) | N/A |
-| 7 | [sam levinson](http://twitter.com/search?q=sam+levinson) | N/A |
-| 8 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
-| 9 | [jennie](http://twitter.com/search?q=jennie) | N/A |
+| 5 | [Thor](http://twitter.com/search?q=Thor) | N/A |
+| 6 | [#IMPETUOSO](http://twitter.com/search?q=%23IMPETUOSO) | N/A |
+| 7 | [Neto](http://twitter.com/search?q=Neto) | Neto is a Portuguese word meaning "net" or "net profit". It is commonly used to refer to the amount of money that remains after all taxes, deductions, and other expenses have been taken out of a total amount. |
+| 8 | [twenty one pilots](http://twitter.com/search?q=twenty+one+pilots) | N/A |
+| 9 | [sam levinson](http://twitter.com/search?q=sam+levinson) | N/A |
 | 10 | [all of the girls](http://twitter.com/search?q=all+of+the+girls) | N/A |
-| 11 | [Blink](http://twitter.com/search?q=Blink) | N/A |
-| 12 | [#HYBEPROTECTRM](http://twitter.com/search?q=%23HYBEPROTECTRM) | N/A |
-| 13 | [BIGHIT PROTECT RM](http://twitter.com/search?q=BIGHIT+PROTECT+RM) | N/A |
-| 14 | [Lucy Liu](http://twitter.com/search?q=Lucy+Liu) | N/A |
-| 15 | [Jaeci](http://twitter.com/search?q=Jaeci) | N/A |
-| 16 | [Lupita Nyong](http://twitter.com/search?q=Lupita+Nyong) | N/A |
-| 17 | [Tom Delonge](http://twitter.com/search?q=Tom+Delonge) | N/A |
-| 18 | [PADARIA TA ON](http://twitter.com/search?q=PADARIA+TA+ON) | N/A |
-| 19 | [Banco](http://twitter.com/search?q=Banco) | N/A |
-| 20 | [Tom Hardy](http://twitter.com/search?q=Tom+Hardy) | N/A |
-| 21 | [Dida](http://twitter.com/search?q=Dida) | N/A |
-| 22 | [Maira Cardi](http://twitter.com/search?q=Maira+Cardi) | N/A |
-| 23 | [IFAB](http://twitter.com/search?q=IFAB) | N/A |
-| 24 | [The Idol](http://twitter.com/search?q=The+Idol) | N/A |
-| 25 | [#MoonlightChickenEP7](http://twitter.com/search?q=%23MoonlightChickenEP7) | N/A |
-| 26 | [Emma Watson](http://twitter.com/search?q=Emma+Watson) | N/A |
+| 11 | [jennie](http://twitter.com/search?q=jennie) | N/A |
+| 12 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
+| 13 | [#HYBEPROTECTRM](http://twitter.com/search?q=%23HYBEPROTECTRM) | N/A |
+| 14 | [Blink](http://twitter.com/search?q=Blink) | N/A |
+| 15 | [BIGHIT PROTECT RM](http://twitter.com/search?q=BIGHIT+PROTECT+RM) | N/A |
+| 16 | [Lucy Liu](http://twitter.com/search?q=Lucy+Liu) | N/A |
+| 17 | [PADARIA TA ON](http://twitter.com/search?q=PADARIA+TA+ON) | N/A |
+| 18 | [Jaeci](http://twitter.com/search?q=Jaeci) | N/A |
+| 19 | [Emma Watson](http://twitter.com/search?q=Emma+Watson) | N/A |
+| 20 | [Lupita Nyong](http://twitter.com/search?q=Lupita+Nyong) | N/A |
+| 21 | [Chelo](http://twitter.com/search?q=Chelo) | N/A |
+| 22 | [Tom Hardy](http://twitter.com/search?q=Tom+Hardy) | N/A |
+| 23 | [#GoIMP](http://twitter.com/search?q=%23GoIMP) | N/A |
+| 24 | [Chris Evans](http://twitter.com/search?q=Chris+Evans) | Chris Evans is the name of an American actor, best known for his roles in Marvel superhero films such as Captain America and The Avengers. He has also starred in films such as Snowpiercer, Gifted, and Knives Out. |
+| 25 | [Mads Mikkelsen](http://twitter.com/search?q=Mads+Mikkelsen) | N/A |
+| 26 | [The Idol](http://twitter.com/search?q=The+Idol) | N/A |
 | 27 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 28 | [#Rio458Anos](http://twitter.com/search?q=%23Rio458Anos) | N/A |
-| 29 | [Terrence Malick](http://twitter.com/search?q=Terrence+Malick) | N/A |
-| 30 | [Haddad](http://twitter.com/search?q=Haddad) | N/A |
-| 31 | [21 Pilots](http://twitter.com/search?q=21+Pilots) | N/A |
-| 32 | [izzo](http://twitter.com/search?q=izzo) | N/A |
-| 33 | [Thiago Nigro](http://twitter.com/search?q=Thiago+Nigro) | N/A |
-| 34 | [Benedict Cumberbatch](http://twitter.com/search?q=Benedict+Cumberbatch) | N/A |
-| 35 | [#TheMandalorianXboxSweepstakes](http://twitter.com/search?q=%23TheMandalorianXboxSweepstakes) | N/A |
-| 36 | [Zack Snyder](http://twitter.com/search?q=Zack+Snyder) | N/A |
-| 37 | [Chris Evans](http://twitter.com/search?q=Chris+Evans) | Chris Evans is the name of an American actor, best known for his roles in Marvel superhero films such as Captain America and The Avengers. He has also starred in films such as Snowpiercer, Gifted, and Knives Out. |
-| 38 | [Zoro](http://twitter.com/search?q=Zoro) | N/A |
-| 39 | [Travis](http://twitter.com/search?q=Travis) | N/A |
-| 40 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
-| 41 | [Março](http://twitter.com/search?q=Mar%c3%a7o) | N/A |
-| 42 | [Denzel Washington](http://twitter.com/search?q=Denzel+Washington) | N/A |
-| 43 | [Helena Bonham](http://twitter.com/search?q=Helena+Bonham) | N/A |
-| 44 | [Anvisa](http://twitter.com/search?q=Anvisa) | N/A |
-| 45 | [Chloe Zhao](http://twitter.com/search?q=Chloe+Zhao) | N/A |
-| 46 | [Saoirse Ronan](http://twitter.com/search?q=Saoirse+Ronan) | N/A |
-| 47 | [Steven Spielberg](http://twitter.com/search?q=Steven+Spielberg) | Steven Spielberg is an American film director, producer, and screenwriter. He is one of the most successful filmmakers in history, with his films having grossed more than $9 billion worldwide. He is best known for directing classic films such as Jaws, E.T. the Extra-Terrestrial, Jurassic Park, Schindler's List, Saving Private Ryan, and the Indiana Jones series. |
-| 48 | [Robert Pattinson](http://twitter.com/search?q=Robert+Pattinson) | N/A |
-| 49 | [Nicholas Cage](http://twitter.com/search?q=Nicholas+Cage) | N/A |
-| 50 | [Cidade Invisível](http://twitter.com/search?q=Cidade+Invis%c3%advel) | N/A |
+| 28 | [Terrence Malick](http://twitter.com/search?q=Terrence+Malick) | N/A |
+| 29 | [Haddad](http://twitter.com/search?q=Haddad) | N/A |
+| 30 | [Emma Stone](http://twitter.com/search?q=Emma+Stone) | N/A |
+| 31 | [Robert Pattinson](http://twitter.com/search?q=Robert+Pattinson) | N/A |
+| 32 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 33 | [#MoonlightChickenEP7](http://twitter.com/search?q=%23MoonlightChickenEP7) | N/A |
+| 34 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
+| 35 | [Imperial](http://twitter.com/search?q=Imperial) | N/A |
+| 36 | [Helena Bonham](http://twitter.com/search?q=Helena+Bonham) | N/A |
+| 37 | [IFAB](http://twitter.com/search?q=IFAB) | N/A |
+| 38 | [Tom Delonge](http://twitter.com/search?q=Tom+Delonge) | N/A |
+| 39 | [Saoirse Ronan](http://twitter.com/search?q=Saoirse+Ronan) | N/A |
+| 40 | [Dida](http://twitter.com/search?q=Dida) | N/A |
+| 41 | [Benedict Cumberbatch](http://twitter.com/search?q=Benedict+Cumberbatch) | N/A |
+| 42 | [Barbie Ferreira](http://twitter.com/search?q=Barbie+Ferreira) | N/A |
+| 43 | [KARL](http://twitter.com/search?q=KARL) | N/A |
+| 44 | [Banco](http://twitter.com/search?q=Banco) | N/A |
+| 45 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
+| 46 | [Dwayne Johnson](http://twitter.com/search?q=Dwayne+Johnson) | N/A |
+| 47 | [Tom Hiddleston](http://twitter.com/search?q=Tom+Hiddleston) | N/A |
+| 48 | [Coreia do Norte](http://twitter.com/search?q=Coreia+do+Norte) | N/A |
+| 49 | [Thiago Nigro](http://twitter.com/search?q=Thiago+Nigro) | N/A |
+| 50 | [Samuel L Jackson](http://twitter.com/search?q=Samuel+L+Jackson) | Samuel L Jackson is an American actor, producer, and film director. He is best known for his roles in films such as Pulp Fiction, Jurassic Park, and The Avengers. He has also appeared in numerous other films and television shows. His distinctive voice and intense delivery have made him one of the most recognizable actors in Hollywood. |
 
 
 

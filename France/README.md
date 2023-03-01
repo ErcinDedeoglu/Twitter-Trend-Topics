@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For France
 
-📆 Last Updated: `2023-03-01 19:16:57 UTC`
+📆 Last Updated: `2023-03-01 20:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for France
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#FCNRCL](http://twitter.com/search?q=%23FCNRCL) | N/A |
-| 2 | [Turpin](http://twitter.com/search?q=Turpin) | Turpin is a French surname derived from the Old French word torp, meaning "stubborn". It is also a given name, usually for males. In English, it can be used as a nickname for someone who is stubborn or determined. |
-| 3 | [#TFCRAF](http://twitter.com/search?q=%23TFCRAF) | N/A |
-| 4 | [Danso](http://twitter.com/search?q=Danso) | N/A |
-| 5 | [Hilona](http://twitter.com/search?q=Hilona) | N/A |
-| 6 | [Rodez](http://twitter.com/search?q=Rodez) | Rodez is a city in the south of France. It is the capital of the Aveyron department in the Occitanie region. The name Rodez comes from the Latin word "rodetum", which means "a place surrounded by oaks". In English, Rodez can be translated to mean "oak-surrounded place". |
-| 7 | [#TEAMG1](http://twitter.com/search?q=%23TEAMG1) | N/A |
-| 8 | [#KCWIN](http://twitter.com/search?q=%23KCWIN) | N/A |
-| 9 | [#Facealinfo](http://twitter.com/search?q=%23Facealinfo) | N/A |
-| 10 | [Julien](http://twitter.com/search?q=Julien) | N/A |
-| 11 | [Leca](http://twitter.com/search?q=Leca) | N/A |
-| 12 | [Ganago](http://twitter.com/search?q=Ganago) | N/A |
-| 13 | [Delort](http://twitter.com/search?q=Delort) | N/A |
-| 14 | [Mettre la France](http://twitter.com/search?q=Mettre+la+France) | N/A |
-| 15 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
-| 16 | [sam levinson](http://twitter.com/search?q=sam+levinson) | N/A |
-| 17 | [Guillaume](http://twitter.com/search?q=Guillaume) | N/A |
-| 18 | [Marc](http://twitter.com/search?q=Marc) | N/A |
-| 19 | [Mathieu](http://twitter.com/search?q=Mathieu) | N/A |
-| 20 | [Allez Lens](http://twitter.com/search?q=Allez+Lens) | N/A |
-| 21 | [Vénus](http://twitter.com/search?q=V%c3%a9nus) | N/A |
-| 22 | [Toulouse](http://twitter.com/search?q=Toulouse) | Toulouse is a city in southern France. It is the capital of the Occitanie region and the Haute-Garonne department. The city is located on the banks of the River Garonne, 150 km from the Mediterranean Sea and 230 km from the Atlantic Ocean. The meaning of Toulouse in English is "The City of Light". |
-| 23 | [Charlotte](http://twitter.com/search?q=Charlotte) | N/A |
-| 24 | [Stadium](http://twitter.com/search?q=Stadium) | N/A |
-| 25 | [Just Fontaine](http://twitter.com/search?q=Just+Fontaine) | N/A |
-| 26 | [Zoro](http://twitter.com/search?q=Zoro) | N/A |
-| 27 | [Mélanie](http://twitter.com/search?q=M%c3%a9lanie) | N/A |
-| 28 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
-| 29 | [Bosetti](http://twitter.com/search?q=Bosetti) | N/A |
-| 30 | [Christine](http://twitter.com/search?q=Christine) | N/A |
-| 31 | [Creed](http://twitter.com/search?q=Creed) | N/A |
-| 32 | [Ed Sheeran](http://twitter.com/search?q=Ed+Sheeran) | N/A |
-| 33 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
-| 34 | [NCT Dream](http://twitter.com/search?q=NCT+Dream) | N/A |
-| 35 | [Wano](http://twitter.com/search?q=Wano) | N/A |
-| 36 | [Sanji](http://twitter.com/search?q=Sanji) | N/A |
-| 37 | [Grogu](http://twitter.com/search?q=Grogu) | N/A |
-| 38 | [Bale](http://twitter.com/search?q=Bale) | Bale is a large bundle of goods, usually compressed and tied up with string or wire, for storage or transport. It is commonly used to refer to bundles of hay, straw, or cotton. |
-| 39 | [#Veran](http://twitter.com/search?q=%23Veran) | N/A |
-| 40 | [#MicromaniaSeagate](http://twitter.com/search?q=%23MicromaniaSeagate) | N/A |
-| 41 | [#RCLens](http://twitter.com/search?q=%23RCLens) | N/A |
-| 42 | [#CoupeDeFrance](http://twitter.com/search?q=%23CoupeDeFrance) | N/A |
-| 43 | [#7marsonarretetout](http://twitter.com/search?q=%237marsonarretetout) | N/A |
-| 44 | [#OMAnnecy](http://twitter.com/search?q=%23OMAnnecy) | N/A |
-| 45 | [#greve7mars](http://twitter.com/search?q=%23greve7mars) | N/A |
-| 46 | [#TheMandalorianXboxSweepstakes](http://twitter.com/search?q=%23TheMandalorianXboxSweepstakes) | N/A |
-| 47 | [#TopChef](http://twitter.com/search?q=%23TopChef) | N/A |
-| 48 | [#Blocage7mars](http://twitter.com/search?q=%23Blocage7mars) | N/A |
-| 49 | [#OMFCA](http://twitter.com/search?q=%23OMFCA) | N/A |
-| 50 | [#Quotidien](http://twitter.com/search?q=%23Quotidien) | N/A |
+| 2 | [Vitinha](http://twitter.com/search?q=Vitinha) | Vitinha is a Portuguese nickname for someone named Vitor, which is a common name in Portugal. In English, it translates to "little Vitor". |
+| 3 | [#OMAnnecy](http://twitter.com/search?q=%23OMAnnecy) | N/A |
+| 4 | [Turpin](http://twitter.com/search?q=Turpin) | Turpin is a French surname derived from the Old French word torp, meaning "stubborn". It is also a given name, usually for males. In English, it can be used as a nickname for someone who is stubborn or determined. |
+| 5 | [#KCORP](http://twitter.com/search?q=%23KCORP) | #KCORP is an acronym for the Korean Corporate Governance Improvement Program, a government-led initiative to improve corporate governance in South Korea. The program was launched in 2017 and aims to promote transparency, accountability, and fairness in the management of Korean companies. |
+| 6 | [Hilona](http://twitter.com/search?q=Hilona) | N/A |
+| 7 | [Lens](http://twitter.com/search?q=Lens) | Lens is a curved piece of glass or plastic used to focus light, such as in a camera or microscope. It can also refer to the ability to look at something from a particular perspective. In this sense, it is often used figuratively to refer to the way someone views a situation or problem. |
+| 8 | [Saken](http://twitter.com/search?q=Saken) | N/A |
+| 9 | [#TFCRAF](http://twitter.com/search?q=%23TFCRAF) | N/A |
+| 10 | [#CatchRAW](http://twitter.com/search?q=%23CatchRAW) | N/A |
+| 11 | [Danso](http://twitter.com/search?q=Danso) | N/A |
+| 12 | [Alix](http://twitter.com/search?q=Alix) | N/A |
+| 13 | [Rodez](http://twitter.com/search?q=Rodez) | Rodez is a city in the south of France. It is the capital of the Aveyron department in the Occitanie region. The name Rodez comes from the Latin word "rodetum", which means "a place surrounded by oaks". In English, Rodez can be translated to mean "oak-surrounded place". |
+| 14 | [Julien](http://twitter.com/search?q=Julien) | N/A |
+| 15 | [Ounahi](http://twitter.com/search?q=Ounahi) | Ounahi is a term used in the Indian language of Hindi. It translates to "happiness" or "joy" in English. |
+| 16 | [ALLEZ L'OM](http://twitter.com/search?q=ALLEZ+L%27OM) | N/A |
+| 17 | [Muriel Robin](http://twitter.com/search?q=Muriel+Robin) | N/A |
+| 18 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 19 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
+| 20 | [Leca](http://twitter.com/search?q=Leca) | N/A |
+| 21 | [Illan](http://twitter.com/search?q=Illan) | N/A |
+| 22 | [Bigard](http://twitter.com/search?q=Bigard) | N/A |
+| 23 | [Ganago](http://twitter.com/search?q=Ganago) | N/A |
+| 24 | [Venus](http://twitter.com/search?q=Venus) | N/A |
+| 25 | [Delort](http://twitter.com/search?q=Delort) | N/A |
+| 26 | [Mettre la France](http://twitter.com/search?q=Mettre+la+France) | N/A |
+| 27 | [Openda](http://twitter.com/search?q=Openda) | Openda is a Japanese term that means “open door” or “open gate.” It is used to refer to an opportunity or chance that can be taken advantage of. It can also be used to describe a situation in which someone is able to take advantage of an opportunity or gain access to something that was previously unavailable. |
+| 28 | [Sotoca](http://twitter.com/search?q=Sotoca) | N/A |
+| 29 | [sam levinson](http://twitter.com/search?q=sam+levinson) | N/A |
+| 30 | [Guillaume](http://twitter.com/search?q=Guillaume) | N/A |
+| 31 | [Bosetti](http://twitter.com/search?q=Bosetti) | N/A |
+| 32 | [Stadium](http://twitter.com/search?q=Stadium) | N/A |
+| 33 | [Creed 3](http://twitter.com/search?q=Creed+3) | N/A |
+| 34 | [Charlotte](http://twitter.com/search?q=Charlotte) | N/A |
+| 35 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 36 | [Marc](http://twitter.com/search?q=Marc) | N/A |
+| 37 | [Bein](http://twitter.com/search?q=Bein) | N/A |
+| 38 | [Mathieu](http://twitter.com/search?q=Mathieu) | N/A |
+| 39 | [Just Fontaine](http://twitter.com/search?q=Just+Fontaine) | N/A |
+| 40 | [Payet](http://twitter.com/search?q=Payet) | Payet is a French surname. It is derived from the Old French word "paie," which means "payment." In English, it can be translated to mean "one who pays." |
+| 41 | [Zoro](http://twitter.com/search?q=Zoro) | N/A |
+| 42 | [Ed Sheeran](http://twitter.com/search?q=Ed+Sheeran) | N/A |
+| 43 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
+| 44 | [Mélanie](http://twitter.com/search?q=M%c3%a9lanie) | N/A |
+| 45 | [Christine](http://twitter.com/search?q=Christine) | N/A |
+| 46 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
+| 47 | [Grogu](http://twitter.com/search?q=Grogu) | N/A |
+| 48 | [NCT Dream](http://twitter.com/search?q=NCT+Dream) | N/A |
+| 49 | [Sanji](http://twitter.com/search?q=Sanji) | N/A |
+| 50 | [Bale](http://twitter.com/search?q=Bale) | Bale is a large bundle of goods, usually compressed and tied up with string or wire, for storage or transport. It is commonly used to refer to bundles of hay, straw, or cotton. |
 
 
 

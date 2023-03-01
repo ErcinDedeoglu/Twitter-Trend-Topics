@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sweden
 
-📆 Last Updated: `2023-03-01 19:17:02 UTC`
+📆 Last Updated: `2023-03-01 20:16:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Sweden
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Demirok](http://twitter.com/search?q=Demirok) | N/A |
-| 2 | [Lagrådet](http://twitter.com/search?q=Lagr%c3%a5det) | N/A |
-| 3 | [IPCC](http://twitter.com/search?q=IPCC) | N/A |
-| 4 | [#vardagpåminplanet](http://twitter.com/search?q=%23vardagp%c3%a5minplanet) | N/A |
-| 5 | [olausson](http://twitter.com/search?q=olausson) | N/A |
-| 6 | [Balder](http://twitter.com/search?q=Balder) | N/A |
-| 7 | [Expo](http://twitter.com/search?q=Expo) | N/A |
+| 1 | [KARL](http://twitter.com/search?q=KARL) | N/A |
+| 2 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 3 | [Lagrådet](http://twitter.com/search?q=Lagr%c3%a5det) | N/A |
+| 4 | [Venus](http://twitter.com/search?q=Venus) | N/A |
+| 5 | [IPCC](http://twitter.com/search?q=IPCC) | N/A |
+| 6 | [TINA](http://twitter.com/search?q=TINA) | N/A |
+| 7 | [Demirok](http://twitter.com/search?q=Demirok) | N/A |
 | 8 | [#twittssk](http://twitter.com/search?q=%23twittssk) | N/A |
-| 9 | [Widding](http://twitter.com/search?q=Widding) | N/A |
-| 10 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
-| 11 | [sätra](http://twitter.com/search?q=s%c3%a4tra) | N/A |
-| 12 | [Pikamee](http://twitter.com/search?q=Pikamee) | N/A |
-| 13 | [Maja](http://twitter.com/search?q=Maja) | N/A |
-| 14 | [rissne](http://twitter.com/search?q=rissne) | N/A |
-| 15 | [Murre](http://twitter.com/search?q=Murre) | N/A |
-| 16 | [Olof Palme](http://twitter.com/search?q=Olof+Palme) | N/A |
-| 17 | [Ungern](http://twitter.com/search?q=Ungern) | N/A |
-| 18 | [Björn Söder](http://twitter.com/search?q=Bj%c3%b6rn+S%c3%b6der) | N/A |
-| 19 | [timashov](http://twitter.com/search?q=timashov) | N/A |
-| 20 | [Jonna](http://twitter.com/search?q=Jonna) | N/A |
-| 21 | [Mattias Gardell](http://twitter.com/search?q=Mattias+Gardell) | N/A |
-| 22 | [Alexandra](http://twitter.com/search?q=Alexandra) | N/A |
-| 23 | [Signal](http://twitter.com/search?q=Signal) | N/A |
-| 24 | [Cremonese](http://twitter.com/search?q=Cremonese) | N/A |
-| 25 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
-| 26 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 27 | [Danjuma](http://twitter.com/search?q=Danjuma) | Danjuma is a Nigerian name of Yoruba origin. It means "God has done it" in English. |
-| 28 | [Foodora](http://twitter.com/search?q=Foodora) | N/A |
-| 29 | [Greta Thunberg](http://twitter.com/search?q=Greta+Thunberg) | Greta Thunberg is a Swedish environmental activist who has gained international recognition for her work in raising awareness about the dangers of climate change. She is best known for her school strike for climate, which began in August 2018 when she was 15 years old. She has since become a prominent figure in the global climate movement and has been nominated for the Nobel Peace Prize. |
-| 30 | [nättinen](http://twitter.com/search?q=n%c3%a4ttinen) | N/A |
-| 31 | [#jagvetvadensnippaär](http://twitter.com/search?q=%23jagvetvadensnippa%c3%a4r) | N/A |
-| 32 | [Venus](http://twitter.com/search?q=Venus) | N/A |
-| 33 | [Hartmann](http://twitter.com/search?q=Hartmann) | N/A |
-| 34 | [Gillman](http://twitter.com/search?q=Gillman) | N/A |
-| 35 | [SvFF](http://twitter.com/search?q=SvFF) | N/A |
-| 36 | [Magnus](http://twitter.com/search?q=Magnus) | N/A |
-| 37 | [Svenska Kyrkan](http://twitter.com/search?q=Svenska+Kyrkan) | N/A |
-| 38 | [Sundbyberg](http://twitter.com/search?q=Sundbyberg) | N/A |
-| 39 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 40 | [Yasin](http://twitter.com/search?q=Yasin) | N/A |
-| 41 | [Juha Valjakkala](http://twitter.com/search?q=Juha+Valjakkala) | N/A |
-| 42 | [Egyptsons](http://twitter.com/search?q=Egyptsons) | N/A |
-| 43 | [Nato-medlemskap](http://twitter.com/search?q=Nato-medlemskap) | N/A |
-| 44 | [Lennström](http://twitter.com/search?q=Lennstr%c3%b6m) | N/A |
-| 45 | [Reinfeldts](http://twitter.com/search?q=Reinfeldts) | N/A |
-| 46 | [Färjestad](http://twitter.com/search?q=F%c3%a4rjestad) | N/A |
-| 47 | [Sign the Petition](http://twitter.com/search?q=Sign+the+Petition) | N/A |
-| 48 | [Roligt](http://twitter.com/search?q=Roligt) | N/A |
-| 49 | [Folkhälsomyndigheten](http://twitter.com/search?q=Folkh%c3%a4lsomyndigheten) | N/A |
-| 50 | [Davidson](http://twitter.com/search?q=Davidson) | N/A |
+| 9 | [Danjuma](http://twitter.com/search?q=Danjuma) | Danjuma is a Nigerian name of Yoruba origin. It means "God has done it" in English. |
+| 10 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
+| 11 | [#vardagpåminplanet](http://twitter.com/search?q=%23vardagp%c3%a5minplanet) | N/A |
+| 12 | [olausson](http://twitter.com/search?q=olausson) | N/A |
+| 13 | [Balder](http://twitter.com/search?q=Balder) | N/A |
+| 14 | [Expo](http://twitter.com/search?q=Expo) | N/A |
+| 15 | [Elsa Widding](http://twitter.com/search?q=Elsa+Widding) | N/A |
+| 16 | [Pikamee](http://twitter.com/search?q=Pikamee) | N/A |
+| 17 | [Maja](http://twitter.com/search?q=Maja) | N/A |
+| 18 | [sätra](http://twitter.com/search?q=s%c3%a4tra) | N/A |
+| 19 | [Olof Palme](http://twitter.com/search?q=Olof+Palme) | N/A |
+| 20 | [Murre](http://twitter.com/search?q=Murre) | N/A |
+| 21 | [rissne](http://twitter.com/search?q=rissne) | N/A |
+| 22 | [Ungern](http://twitter.com/search?q=Ungern) | N/A |
+| 23 | [timashov](http://twitter.com/search?q=timashov) | N/A |
+| 24 | [Björn Söder](http://twitter.com/search?q=Bj%c3%b6rn+S%c3%b6der) | N/A |
+| 25 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
+| 26 | [Mattias Gardell](http://twitter.com/search?q=Mattias+Gardell) | N/A |
+| 27 | [Signal](http://twitter.com/search?q=Signal) | N/A |
+| 28 | [Alexandra](http://twitter.com/search?q=Alexandra) | N/A |
+| 29 | [#modose](http://twitter.com/search?q=%23modose) | N/A |
+| 30 | [Jägersro](http://twitter.com/search?q=J%c3%a4gersro) | N/A |
+| 31 | [Greta Thunberg](http://twitter.com/search?q=Greta+Thunberg) | Greta Thunberg is a Swedish environmental activist who has gained international recognition for her work in raising awareness about the dangers of climate change. She is best known for her school strike for climate, which began in August 2018 when she was 15 years old. She has since become a prominent figure in the global climate movement and has been nominated for the Nobel Peace Prize. |
+| 32 | [Cremonese](http://twitter.com/search?q=Cremonese) | N/A |
+| 33 | [Foodora](http://twitter.com/search?q=Foodora) | N/A |
+| 34 | [#SDHL](http://twitter.com/search?q=%23SDHL) | N/A |
+| 35 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 36 | [Nättinen](http://twitter.com/search?q=N%c3%a4ttinen) | N/A |
+| 37 | [Yasin](http://twitter.com/search?q=Yasin) | N/A |
+| 38 | [Hartmann](http://twitter.com/search?q=Hartmann) | N/A |
+| 39 | [Magnus](http://twitter.com/search?q=Magnus) | N/A |
+| 40 | [Sundbyberg](http://twitter.com/search?q=Sundbyberg) | N/A |
+| 41 | [Bolund](http://twitter.com/search?q=Bolund) | N/A |
+| 42 | [Sign the Petition](http://twitter.com/search?q=Sign+the+Petition) | N/A |
+| 43 | [Juha Valjakkala](http://twitter.com/search?q=Juha+Valjakkala) | N/A |
+| 44 | [Svenska Kyrkan](http://twitter.com/search?q=Svenska+Kyrkan) | N/A |
+| 45 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
+| 46 | [Nato-medlemskap](http://twitter.com/search?q=Nato-medlemskap) | N/A |
+| 47 | [reinfeldts](http://twitter.com/search?q=reinfeldts) | N/A |
+| 48 | [Elisabeth Svantesson](http://twitter.com/search?q=Elisabeth+Svantesson) | N/A |
+| 49 | [Larsson](http://twitter.com/search?q=Larsson) | N/A |
+| 50 | [Lennström](http://twitter.com/search?q=Lennstr%c3%b6m) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cardiff
 
-📆 Last Updated: `2023-03-01 19:15:57 UTC`
+📆 Last Updated: `2023-03-01 20:16:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Danjuma](http://twitter.com/search?q=Danjuma) | Danjuma is a Nigerian name of Yoruba origin. It means "God has done it" in English. |
-| 2 | [Keane](http://twitter.com/search?q=Keane) | N/A |
+| 1 | [#MUNWHU](http://twitter.com/search?q=%23MUNWHU) | N/A |
+| 2 | [Danjuma](http://twitter.com/search?q=Danjuma) | Danjuma is a Nigerian name of Yoruba origin. It means "God has done it" in English. |
 | 3 | [#ARSEVE](http://twitter.com/search?q=%23ARSEVE) | N/A |
-| 4 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
-| 5 | [#TheMandalorianXboxSweepstakes](http://twitter.com/search?q=%23TheMandalorianXboxSweepstakes) | N/A |
-| 6 | [#CurrysS23Ultra](http://twitter.com/search?q=%23CurrysS23Ultra) | N/A |
-| 7 | [#SOSNHSDEMO](http://twitter.com/search?q=%23SOSNHSDEMO) | N/A |
-| 8 | [#MUNWHU](http://twitter.com/search?q=%23MUNWHU) | N/A |
-| 9 | [sam levinson](http://twitter.com/search?q=sam+levinson) | N/A |
-| 10 | [St David](http://twitter.com/search?q=St+David) | N/A |
-| 11 | [Godfrey](http://twitter.com/search?q=Godfrey) | Godfrey is a masculine given name of Germanic origin, derived from the elements "god" and "frid" meaning "God's peace". It is also an English surname. |
-| 12 | [Goodwin](http://twitter.com/search?q=Goodwin) | Goodwin is a surname of English origin. It is derived from the Old English words "god" and "wine," meaning "friend of God." The name was originally used to denote someone who was pious or devoted to God. |
-| 13 | [Constance Marten](http://twitter.com/search?q=Constance+Marten) | N/A |
-| 14 | [Mark Gordon](http://twitter.com/search?q=Mark+Gordon) | N/A |
-| 15 | [Welsh](http://twitter.com/search?q=Welsh) | Welsh is a Celtic language spoken in Wales, a country in the United Kingdom. It is closely related to Cornish and Breton, two other Celtic languages. The Welsh language has its own unique alphabet and grammar, and is an official language of Wales. Its meaning in English is "of or relating to Wales or its people, language, or culture". |
-| 16 | [Lindelof](http://twitter.com/search?q=Lindelof) | Lindelof is a surname of Swedish origin. It is derived from the Old Norse name Lindalófr, which means "linden leaf" or "linden tree". In English, the name can be translated to mean "beloved of the linden tree". |
-| 17 | [Hancock](http://twitter.com/search?q=Hancock) | N/A |
-| 18 | [Frogmore Cottage](http://twitter.com/search?q=Frogmore+Cottage) | N/A |
-| 19 | [Ibou](http://twitter.com/search?q=Ibou) | N/A |
-| 20 | [Sands](http://twitter.com/search?q=Sands) | Sands is a term used to refer to a beach or shoreline composed of sand. It can also be used to refer to a desert made up of sand. In English, the word "sands" is used to describe an area covered in sand. |
-| 21 | [NUTTY](http://twitter.com/search?q=NUTTY) | N/A |
-| 22 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
-| 23 | [Grimsby](http://twitter.com/search?q=Grimsby) | N/A |
-| 24 | [Helen Whately](http://twitter.com/search?q=Helen+Whately) | Helen Whately is a British politician who has been the Member of Parliament (MP) for Faversham and Mid Kent since 2015. She is a member of the Conservative Party and currently serves as Minister of State for Care in the Department of Health and Social Care. |
-| 25 | [Eisteddfod](http://twitter.com/search?q=Eisteddfod) | N/A |
-| 26 | [Pikamee](http://twitter.com/search?q=Pikamee) | N/A |
-| 27 | [Ross Wilson](http://twitter.com/search?q=Ross+Wilson) | N/A |
-| 28 | [Eton](http://twitter.com/search?q=Eton) | N/A |
-| 29 | [Meghan](http://twitter.com/search?q=Meghan) | N/A |
-| 30 | [Emirates](http://twitter.com/search?q=Emirates) | Emirates is the name of a major airline based in Dubai, United Arab Emirates. The word "emirates" is derived from the Arabic word "imarat," which means "state" or "country." |
-| 31 | [Arsenal v Everton](http://twitter.com/search?q=Arsenal+v+Everton) | N/A |
-| 32 | [jennie](http://twitter.com/search?q=jennie) | N/A |
-| 33 | [joon](http://twitter.com/search?q=joon) | Joon is a Persian word that means "soul" or "spirit". It is often used to refer to the inner essence of a person, and is sometimes used as a term of endearment. |
-| 34 | [Big John](http://twitter.com/search?q=Big+John) | N/A |
-| 35 | [Telegraph](http://twitter.com/search?q=Telegraph) | N/A |
-| 36 | [Year 2](http://twitter.com/search?q=Year+2) | N/A |
+| 4 | [Keane](http://twitter.com/search?q=Keane) | N/A |
+| 5 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
+| 6 | [#LIVWOL](http://twitter.com/search?q=%23LIVWOL) | #LIVWOL is an acronym for "Live Well". It is a phrase used to encourage people to take care of their physical and mental health, and to live life to the fullest. |
+| 7 | [#FACup](http://twitter.com/search?q=%23FACup) | #FACup is an abbreviation for the Football Association Challenge Cup, which is an annual knockout football competition in England. It is the oldest football competition in the world and is open to all teams from the top four tiers of English football. |
+| 8 | [Grimsby](http://twitter.com/search?q=Grimsby) | N/A |
+| 9 | [#SHUTOT](http://twitter.com/search?q=%23SHUTOT) | N/A |
+| 10 | [KARL](http://twitter.com/search?q=KARL) | N/A |
+| 11 | [Lindelof](http://twitter.com/search?q=Lindelof) | Lindelof is a surname of Swedish origin. It is derived from the Old Norse name Lindalófr, which means "linden leaf" or "linden tree". In English, the name can be translated to mean "beloved of the linden tree". |
+| 12 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
+| 13 | [Maupay](http://twitter.com/search?q=Maupay) | Maupay is a French surname. It is derived from the Old French word mauvais, meaning "bad" or "evil". In English, the name Maupay can be translated to mean "evil one". |
+| 14 | [Constance Marten](http://twitter.com/search?q=Constance+Marten) | N/A |
+| 15 | [Lyanco](http://twitter.com/search?q=Lyanco) | Lyanco is a Portuguese name derived from the Latin name "Livianus", which means "belonging to the Roman family of Livius". In English, it can be translated to mean "belonging to the Livius family". |
+| 16 | [Mark Gordon](http://twitter.com/search?q=Mark+Gordon) | N/A |
+| 17 | [TINA](http://twitter.com/search?q=TINA) | N/A |
+| 18 | [sam levinson](http://twitter.com/search?q=sam+levinson) | N/A |
+| 19 | [Coady](http://twitter.com/search?q=Coady) | Coady is a surname of Irish origin. It is derived from the Gaelic name Mac an Chódaigh, which means "son of the coda". The coda was a leader or chieftain in ancient Ireland. In English, Coady can be translated to mean "leader" or "chieftain". |
+| 20 | [Moura](http://twitter.com/search?q=Moura) | N/A |
+| 21 | [Martin Keown](http://twitter.com/search?q=Martin+Keown) | N/A |
+| 22 | [Lou Macari](http://twitter.com/search?q=Lou+Macari) | N/A |
+| 23 | [Areola](http://twitter.com/search?q=Areola) | N/A |
+| 24 | [Sheffield United](http://twitter.com/search?q=Sheffield+United) | Sheffield United is an English professional football club based in Sheffield, South Yorkshire. The club competes in the Premier League, the top division of English football. Sheffield United was founded in 1889 and has won four FA Cups, one League Cup and one Full Members Cup. The club's nickname is "The Blades" due to Sheffield's history of steel production. |
+| 25 | [Moutinho](http://twitter.com/search?q=Moutinho) | N/A |
+| 26 | [St David](http://twitter.com/search?q=St+David) | N/A |
+| 27 | [Godfrey](http://twitter.com/search?q=Godfrey) | Godfrey is a masculine given name of Germanic origin, derived from the elements "god" and "frid" meaning "God's peace". It is also an English surname. |
+| 28 | [Peter Drury](http://twitter.com/search?q=Peter+Drury) | N/A |
+| 29 | [Adam Armstrong](http://twitter.com/search?q=Adam+Armstrong) | N/A |
+| 30 | [Lee Dixon](http://twitter.com/search?q=Lee+Dixon) | Lee Dixon is a former English professional footballer who played as a right back for Arsenal, Burnley, Chester City and Stoke City. He is now a football pundit and commentator for ITV Sport and BBC Sport. |
+| 31 | [Goodwin](http://twitter.com/search?q=Goodwin) | Goodwin is a surname of English origin. It is derived from the Old English words "god" and "wine," meaning "friend of God." The name was originally used to denote someone who was pious or devoted to God. |
+| 32 | [Hancock](http://twitter.com/search?q=Hancock) | N/A |
+| 33 | [Ibou](http://twitter.com/search?q=Ibou) | N/A |
+| 34 | [Gunners](http://twitter.com/search?q=Gunners) | Gunners is a slang term used to refer to members of the British Armed Forces, particularly those in the Royal Artillery. It is derived from the nickname of the Royal Artillery, which is "The Gunners". |
+| 35 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
+| 36 | [Paqueta](http://twitter.com/search?q=Paqueta) | N/A |
 | 37 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
-| 38 | [Sarah Vine](http://twitter.com/search?q=Sarah+Vine) | N/A |
-| 39 | [Prince Andrew](http://twitter.com/search?q=Prince+Andrew) | N/A |
-| 40 | [Olympics](http://twitter.com/search?q=Olympics) | N/A |
-| 41 | [Whitty](http://twitter.com/search?q=Whitty) | N/A |
-| 42 | [Ed Sheeran](http://twitter.com/search?q=Ed+Sheeran) | N/A |
-| 43 | [Sean Penn](http://twitter.com/search?q=Sean+Penn) | N/A |
-| 44 | [Giants](http://twitter.com/search?q=Giants) | Giants is a term used to refer to people or things that are much larger than average. It can be used to describe a person who is unusually tall, or an object that is unusually large. It can also be used figuratively to refer to something that is very powerful or influential. |
-| 45 | [Pogba](http://twitter.com/search?q=Pogba) | Pogba is a nickname for the French professional footballer Paul Pogba. It is derived from his last name and is often used as a term of endearment by his fans. |
-| 46 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
-| 47 | [Mando](http://twitter.com/search?q=Mando) | N/A |
-| 48 | [Bramall Lane](http://twitter.com/search?q=Bramall+Lane) | N/A |
-| 49 | [Zoro](http://twitter.com/search?q=Zoro) | N/A |
-| 50 | [Midazolam](http://twitter.com/search?q=Midazolam) | N/A |
+| 38 | [Frogmore](http://twitter.com/search?q=Frogmore) | N/A |
+| 39 | [Sands](http://twitter.com/search?q=Sands) | Sands is a term used to refer to a beach or shoreline composed of sand. It can also be used to refer to a desert made up of sand. In English, the word "sands" is used to describe an area covered in sand. |
+| 40 | [Meghan](http://twitter.com/search?q=Meghan) | N/A |
+| 41 | [NUTTY](http://twitter.com/search?q=NUTTY) | N/A |
+| 42 | [Bramall Lane](http://twitter.com/search?q=Bramall+Lane) | N/A |
+| 43 | [Cumbernauld](http://twitter.com/search?q=Cumbernauld) | N/A |
+| 44 | [Arsenal v Everton](http://twitter.com/search?q=Arsenal+v+Everton) | N/A |
+| 45 | [Helen Whately](http://twitter.com/search?q=Helen+Whately) | Helen Whately is a British politician who has been the Member of Parliament (MP) for Faversham and Mid Kent since 2015. She is a member of the Conservative Party and currently serves as Minister of State for Care in the Department of Health and Social Care. |
+| 46 | [Emirates](http://twitter.com/search?q=Emirates) | Emirates is the name of a major airline based in Dubai, United Arab Emirates. The word "emirates" is derived from the Arabic word "imarat," which means "state" or "country." |
+| 47 | [IPTV](http://twitter.com/search?q=IPTV) | N/A |
+| 48 | [Kaylea Titford](http://twitter.com/search?q=Kaylea+Titford) | N/A |
+| 49 | [COYS](http://twitter.com/search?q=COYS) | N/A |
+| 50 | [Turf Moor](http://twitter.com/search?q=Turf+Moor) | N/A |
 
 
 
