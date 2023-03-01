@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Calocan
 
-📆 Last Updated: `2023-03-01 15:16:25 UTC`
+📆 Last Updated: `2023-03-01 16:16:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,55 @@ This is top 50 for [Philippines](</Philippines>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [pika](http://twitter.com/search?q=pika) | N/A |
-| 2 | [#ROVER_3rdTeaser](http://twitter.com/search?q=%23ROVER_3rdTeaser) | N/A |
-| 3 | [#TWICE_ConceptPhotoD8](http://twitter.com/search?q=%23TWICE_ConceptPhotoD8) | N/A |
-| 4 | [CRAZY STUPID LOVE](http://twitter.com/search?q=CRAZY+STUPID+LOVE) | N/A |
-| 5 | [#DLSavior](http://twitter.com/search?q=%23DLSavior) | N/A |
-| 6 | [#Hori7onPIEdate](http://twitter.com/search?q=%23Hori7onPIEdate) | N/A |
-| 7 | [KAI ROVER TEASER IMAGES 2](http://twitter.com/search?q=KAI+ROVER+TEASER+IMAGES+2) | N/A |
-| 8 | [TXT TOO MUCH INFO](http://twitter.com/search?q=TXT+TOO+MUCH+INFO) | N/A |
-| 9 | [#TXT_2023DREAMWEEK](http://twitter.com/search?q=%23TXT_2023DREAMWEEK) | N/A |
-| 10 | [BIGHIT PROTECT RM](http://twitter.com/search?q=BIGHIT+PROTECT+RM) | N/A |
-| 11 | [HYBE PROTECT RM](http://twitter.com/search?q=HYBE+PROTECT+RM) | N/A |
-| 12 | [GOSE](http://twitter.com/search?q=GOSE) | N/A |
-| 13 | [ChiCo MISUNDERSTANDING](http://twitter.com/search?q=ChiCo+MISUNDERSTANDING) | N/A |
-| 14 | [jeonghan](http://twitter.com/search?q=jeonghan) | Jeonghan is a Korean given name, usually for males. It is composed of two characters: "Jeong" meaning "righteous" and "Han" meaning "greatness". In English, Jeonghan can be translated to mean "righteous greatness". |
-| 15 | [GOING SEVENTEEN 2023](http://twitter.com/search?q=GOING+SEVENTEEN+2023) | N/A |
-| 16 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
-| 17 | [minghao](http://twitter.com/search?q=minghao) | N/A |
-| 18 | [Junkyu](http://twitter.com/search?q=Junkyu) | N/A |
-| 19 | [Haruto](http://twitter.com/search?q=Haruto) | N/A |
-| 20 | [SARAH G DAY](http://twitter.com/search?q=SARAH+G+DAY) | N/A |
-| 21 | [BGYO FOR LAZADA BIRTHDAY](http://twitter.com/search?q=BGYO+FOR+LAZADA+BIRTHDAY) | N/A |
-| 22 | [DavidLicauco MEGAMAN](http://twitter.com/search?q=DavidLicauco+MEGAMAN) | N/A |
+| 2 | [joon](http://twitter.com/search?q=joon) | Joon is a Persian word that means "soul" or "spirit". It is often used to refer to the inner essence of a person, and is sometimes used as a term of endearment. |
+| 3 | [#ROVER_3rdTeaser](http://twitter.com/search?q=%23ROVER_3rdTeaser) | N/A |
+| 4 | [BIGHIT PROTECT RM](http://twitter.com/search?q=BIGHIT+PROTECT+RM) | N/A |
+| 5 | [CRAZY STUPID LOVE](http://twitter.com/search?q=CRAZY+STUPID+LOVE) | N/A |
+| 6 | [#TWICE_ConceptPhotoD8](http://twitter.com/search?q=%23TWICE_ConceptPhotoD8) | N/A |
+| 7 | [#DLSavior](http://twitter.com/search?q=%23DLSavior) | N/A |
+| 8 | [HYBE PROTECT RM](http://twitter.com/search?q=HYBE+PROTECT+RM) | N/A |
+| 9 | [#13YearsWithJeongyeon](http://twitter.com/search?q=%2313YearsWithJeongyeon) | N/A |
+| 10 | [#Hori7onPIEdate](http://twitter.com/search?q=%23Hori7onPIEdate) | N/A |
+| 11 | [ACE HARAM IS HERE](http://twitter.com/search?q=ACE+HARAM+IS+HERE) | N/A |
+| 12 | [TXT TOO MUCH INFO](http://twitter.com/search?q=TXT+TOO+MUCH+INFO) | N/A |
+| 13 | [BORN TO SHINE DAYEON](http://twitter.com/search?q=BORN+TO+SHINE+DAYEON) | N/A |
+| 14 | [GOSE](http://twitter.com/search?q=GOSE) | N/A |
+| 15 | [ChiCo MISUNDERSTANDING](http://twitter.com/search?q=ChiCo+MISUNDERSTANDING) | N/A |
+| 16 | [GOING SEVENTEEN 2023](http://twitter.com/search?q=GOING+SEVENTEEN+2023) | N/A |
+| 17 | [jeonghan](http://twitter.com/search?q=jeonghan) | Jeonghan is a Korean given name, usually for males. It is composed of two characters: "Jeong" meaning "righteous" and "Han" meaning "greatness". In English, Jeonghan can be translated to mean "righteous greatness". |
+| 18 | [park jeongwoo](http://twitter.com/search?q=park+jeongwoo) | N/A |
+| 19 | [KIM JONGIN](http://twitter.com/search?q=KIM+JONGIN) | N/A |
+| 20 | [minghao](http://twitter.com/search?q=minghao) | N/A |
+| 21 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
+| 22 | [Junkyu](http://twitter.com/search?q=Junkyu) | N/A |
 | 23 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
-| 24 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
-| 25 | [KIM TAEHYUNG FOR SIMINVEST](http://twitter.com/search?q=KIM+TAEHYUNG+FOR+SIMINVEST) | N/A |
-| 26 | [FAITH](http://twitter.com/search?q=FAITH) | N/A |
-| 27 | [Adamson University](http://twitter.com/search?q=Adamson+University) | N/A |
-| 28 | [Happy Women's Month](http://twitter.com/search?q=Happy+Women%27s+Month) | N/A |
-| 29 | [John Matthew Salilig](http://twitter.com/search?q=John+Matthew+Salilig) | N/A |
-| 30 | [SIMINVEST AMBASSADOR V](http://twitter.com/search?q=SIMINVEST+AMBASSADOR+V) | N/A |
-| 31 | [#OustOA](http://twitter.com/search?q=%23OustOA) | N/A |
-| 32 | [#urdujagumisingka](http://twitter.com/search?q=%23urdujagumisingka) | N/A |
-| 33 | [#MoonlightChickenEP7](http://twitter.com/search?q=%23MoonlightChickenEP7) | N/A |
-| 34 | [#PARKJEONGWOO](http://twitter.com/search?q=%23PARKJEONGWOO) | N/A |
-| 35 | [#kai_rover](http://twitter.com/search?q=%23kai_rover) | N/A |
-| 36 | [#BAZAARSGxLISA](http://twitter.com/search?q=%23BAZAARSGxLISA) | N/A |
-| 37 | [#on_the_street](http://twitter.com/search?q=%23on_the_street) | N/A |
-| 38 | [#CELINEBYHEDISLIMANE](http://twitter.com/search?q=%23CELINEBYHEDISLIMANE) | N/A |
-| 39 | [#GOING_SVT](http://twitter.com/search?q=%23GOING_SVT) | N/A |
-| 40 | [#ROAR1stWin](http://twitter.com/search?q=%23ROAR1stWin) | N/A |
-| 41 | [#THEBOYZ18thWin](http://twitter.com/search?q=%23THEBOYZ18thWin) | N/A |
-| 42 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 43 | [#WanderlandMusicFest](http://twitter.com/search?q=%23WanderlandMusicFest) | N/A |
-| 44 | [#FELIP_COMPLEX](http://twitter.com/search?q=%23FELIP_COMPLEX) | #FELIP_COMPLEX is a term used to describe a person's tendency to overthink and overanalyze situations, leading to feelings of anxiety and stress. It is named after Felipe, a character in the novel The Alchemist by Paulo Coelho. |
-| 45 | [#BarDa](http://twitter.com/search?q=%23BarDa) | N/A |
-| 46 | [#MoMNowShowing](http://twitter.com/search?q=%23MoMNowShowing) | N/A |
-| 47 | [#TAEHYUNGxSiminvest](http://twitter.com/search?q=%23TAEHYUNGxSiminvest) | N/A |
-| 48 | [#EpicBirthdaySuperShow](http://twitter.com/search?q=%23EpicBirthdaySuperShow) | N/A |
-| 49 | [#KimSeonHo](http://twitter.com/search?q=%23KimSeonHo) | N/A |
+| 24 | [SARAH G DAY](http://twitter.com/search?q=SARAH+G+DAY) | N/A |
+| 25 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 26 | [BGYO FOR LAZADA BIRTHDAY](http://twitter.com/search?q=BGYO+FOR+LAZADA+BIRTHDAY) | N/A |
+| 27 | [davidlicauco megaman](http://twitter.com/search?q=davidlicauco+megaman) | N/A |
+| 28 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
+| 29 | [Cyno](http://twitter.com/search?q=Cyno) | N/A |
+| 30 | [bambam](http://twitter.com/search?q=bambam) | N/A |
+| 31 | [KIM TAEHYUNG FOR SIMINVEST](http://twitter.com/search?q=KIM+TAEHYUNG+FOR+SIMINVEST) | N/A |
+| 32 | [Faith](http://twitter.com/search?q=Faith) | N/A |
+| 33 | [Happy Women's Month](http://twitter.com/search?q=Happy+Women%27s+Month) | N/A |
+| 34 | [John Matthew Salilig](http://twitter.com/search?q=John+Matthew+Salilig) | N/A |
+| 35 | [SIMINVEST AMBASSADOR V](http://twitter.com/search?q=SIMINVEST+AMBASSADOR+V) | N/A |
+| 36 | [#OustOA](http://twitter.com/search?q=%23OustOA) | N/A |
+| 37 | [#EternalSpringDayeon](http://twitter.com/search?q=%23EternalSpringDayeon) | N/A |
+| 38 | [#봄의_요정처럼_감탄했던_다연이의_스물하나](http://twitter.com/search?q=%23%eb%b4%84%ec%9d%98_%ec%9a%94%ec%a0%95%ec%b2%98%eb%9f%bc_%ea%b0%90%ed%83%84%ed%96%88%eb%8d%98_%eb%8b%a4%ec%97%b0%ec%9d%b4%ec%9d%98_%ec%8a%a4%eb%ac%bc%ed%95%98%eb%82%98) | N/A |
+| 39 | [#TXT_2023DREAMWEEK](http://twitter.com/search?q=%23TXT_2023DREAMWEEK) | N/A |
+| 40 | [#BABYMONSTER](http://twitter.com/search?q=%23BABYMONSTER) | N/A |
+| 41 | [#MoonlightChickenEP7](http://twitter.com/search?q=%23MoonlightChickenEP7) | N/A |
+| 42 | [#on_the_street](http://twitter.com/search?q=%23on_the_street) | N/A |
+| 43 | [#LISAXCELINE](http://twitter.com/search?q=%23LISAXCELINE) | N/A |
+| 44 | [#CELINEBYHEDISLIMANE](http://twitter.com/search?q=%23CELINEBYHEDISLIMANE) | N/A |
+| 45 | [#UrdujaGumisingKa](http://twitter.com/search?q=%23UrdujaGumisingKa) | N/A |
+| 46 | [#GOING_SVT](http://twitter.com/search?q=%23GOING_SVT) | N/A |
+| 47 | [#WanderlandMusicFest](http://twitter.com/search?q=%23WanderlandMusicFest) | N/A |
+| 48 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 49 | [#ROAR1stWin](http://twitter.com/search?q=%23ROAR1stWin) | N/A |
+| 50 | [#FELIP_COMPLEX](http://twitter.com/search?q=%23FELIP_COMPLEX) | #FELIP_COMPLEX is a term used to describe a person's tendency to overthink and overanalyze situations, leading to feelings of anxiety and stress. It is named after Felipe, a character in the novel The Alchemist by Paulo Coelho. |
 
 
 

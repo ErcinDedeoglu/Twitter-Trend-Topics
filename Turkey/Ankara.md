@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ankara
 
-📆 Last Updated: `2023-03-01 15:16:37 UTC`
+📆 Last Updated: `2023-03-01 16:17:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Greece](http://twitter.com/search?q=%23Greece) | N/A |
-| 2 | [#Yunanistan](http://twitter.com/search?q=%23Yunanistan) | N/A |
-| 3 | [#YüzBinNeredeOzeristifa](http://twitter.com/search?q=%23Y%c3%bczBinNeredeOzeristifa) | N/A |
-| 4 | [Ulaştırma Bakanı](http://twitter.com/search?q=Ula%c5%9ft%c4%b1rma+Bakan%c4%b1) | N/A |
-| 5 | [Kostas Karamanlis](http://twitter.com/search?q=Kostas+Karamanlis) | N/A |
-| 6 | [#14Mayıs](http://twitter.com/search?q=%2314May%c4%b1s) | #14Mayıs is a hashtag used in Turkey to commemorate the anniversary of the Sivas Massacre, which occurred on May 14, 1993. The Sivas Massacre was a hate crime against Alevi intellectuals and artists who had gathered in the city of Sivas for a cultural festival. In English, #14Mayıs translates to “May 14th”. |
-| 7 | [yaralarımız sarılıyor](http://twitter.com/search?q=yaralar%c4%b1m%c4%b1z+sar%c4%b1l%c4%b1yor) | N/A |
-| 8 | [Zekeriya](http://twitter.com/search?q=Zekeriya) | N/A |
-| 9 | [Behramoğlu Tutuklansın](http://twitter.com/search?q=Behramo%c4%9flu+Tutuklans%c4%b1n) | N/A |
+| 1 | [#GreeceTrainAccident](http://twitter.com/search?q=%23GreeceTrainAccident) | N/A |
+| 2 | [#YüzBinNeredeOzeristifa](http://twitter.com/search?q=%23Y%c3%bczBinNeredeOzeristifa) | N/A |
+| 3 | [Ulaştırma Bakanı](http://twitter.com/search?q=Ula%c5%9ft%c4%b1rma+Bakan%c4%b1) | N/A |
+| 4 | [Mevlüt Çavuşoğlu](http://twitter.com/search?q=Mevl%c3%bct+%c3%87avu%c5%9fo%c4%9flu) | N/A |
+| 5 | [#ziraatbankasi](http://twitter.com/search?q=%23ziraatbankasi) | N/A |
+| 6 | [#Kykcozumdegil](http://twitter.com/search?q=%23Kykcozumdegil) | N/A |
+| 7 | [Zekeriya](http://twitter.com/search?q=Zekeriya) | N/A |
+| 8 | [Ömer Kemal Kaya](http://twitter.com/search?q=%c3%96mer+Kemal+Kaya) | N/A |
+| 9 | [Onurlu](http://twitter.com/search?q=Onurlu) | N/A |
 | 10 | [Ataol Behramoğlu](http://twitter.com/search?q=Ataol+Behramo%c4%9flu) | N/A |
-| 11 | [Ömer Kemal Kaya](http://twitter.com/search?q=%c3%96mer+Kemal+Kaya) | N/A |
-| 12 | [Yapacağız](http://twitter.com/search?q=Yapaca%c4%9f%c4%b1z) | N/A |
-| 13 | [SGK'dan EYT](http://twitter.com/search?q=SGK%27dan+EYT) | N/A |
-| 14 | [Fahrettin Koca](http://twitter.com/search?q=Fahrettin+Koca) | Fahrettin Koca is a Turkish name, derived from the Arabic name Fahraddin. It means "the one who is brave and generous". |
-| 15 | [Hasip](http://twitter.com/search?q=Hasip) | N/A |
-| 16 | [Gençler](http://twitter.com/search?q=Gen%c3%a7ler) | N/A |
-| 17 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 18 | [Şenol Güneş](http://twitter.com/search?q=%c5%9eenol+G%c3%bcne%c5%9f) | Şenol Güneş is a Turkish football manager and former player. He is currently the manager of the Turkish national team. In English, his name translates to "Joyful Sun". |
-| 19 | [Beypazarı](http://twitter.com/search?q=Beypazar%c4%b1) | N/A |
-| 20 | [kürtler](http://twitter.com/search?q=k%c3%bcrtler) | N/A |
-| 21 | [Komşu](http://twitter.com/search?q=Kom%c5%9fu) | N/A |
-| 22 | [adayı](http://twitter.com/search?q=aday%c4%b1) | N/A |
-| 23 | [Fatiha](http://twitter.com/search?q=Fatiha) | N/A |
-| 24 | [Ekrem İmamoğlu](http://twitter.com/search?q=Ekrem+%c4%b0mamo%c4%9flu) | N/A |
-| 25 | [Gereğini](http://twitter.com/search?q=Gere%c4%9fini) | N/A |
-| 26 | [Akşener](http://twitter.com/search?q=Ak%c5%9fener) | N/A |
-| 27 | [Genel Başkanımız](http://twitter.com/search?q=Genel+Ba%c5%9fkan%c4%b1m%c4%b1z) | N/A |
-| 28 | [Ankaragücü](http://twitter.com/search?q=Ankarag%c3%bcc%c3%bc) | Ankaragücü is a Turkish sports club based in Ankara, Turkey. The club's name translates to "Ankara Sports Club" in English. It is best known for its football team, which competes in the Turkish Süper Lig, the top tier of Turkish football. |
-| 29 | [Acele](http://twitter.com/search?q=Acele) | N/A |
-| 30 | [Veririm](http://twitter.com/search?q=Veririm) | N/A |
-| 31 | [Tünaydın](http://twitter.com/search?q=T%c3%bcnayd%c4%b1n) | N/A |
-| 32 | [Cumhurbaşkanı Erdoğan'dan](http://twitter.com/search?q=Cumhurba%c5%9fkan%c4%b1+Erdo%c4%9fan%27dan) | N/A |
-| 33 | [Teşekkürler Erdoğan](http://twitter.com/search?q=Te%c5%9fekk%c3%bcrler+Erdo%c4%9fan) | "Teşekkürler Erdoğan" is a Turkish phrase that translates to "Thank you, Erdoğan" in English. It is a polite way of expressing gratitude to the Turkish President, Recep Tayyip Erdoğan. |
-| 34 | [İlhan Kesici](http://twitter.com/search?q=%c4%b0lhan+Kesici) | N/A |
-| 35 | [Sözcü TV](http://twitter.com/search?q=S%c3%b6zc%c3%bc+TV) | N/A |
-| 36 | [Simge](http://twitter.com/search?q=Simge) | N/A |
-| 37 | [Bilgin](http://twitter.com/search?q=Bilgin) | N/A |
-| 38 | [Gülşen](http://twitter.com/search?q=G%c3%bcl%c5%9fen) | N/A |
-| 39 | [Ekmeleddin](http://twitter.com/search?q=Ekmeleddin) | N/A |
-| 40 | [Resmi Gazete'de](http://twitter.com/search?q=Resmi+Gazete%27de) | N/A |
-| 41 | [Anket](http://twitter.com/search?q=Anket) | N/A |
-| 42 | [Seçimden](http://twitter.com/search?q=Se%c3%a7imden) | N/A |
-| 43 | [Zehir](http://twitter.com/search?q=Zehir) | N/A |
-| 44 | [Wanda](http://twitter.com/search?q=Wanda) | N/A |
-| 45 | [Cumhurbaşkanımız Sn](http://twitter.com/search?q=Cumhurba%c5%9fkan%c4%b1m%c4%b1z+Sn) | N/A |
-| 46 | [Yıldız](http://twitter.com/search?q=Y%c4%b1ld%c4%b1z) | N/A |
-| 47 | [#ziraatbankasi](http://twitter.com/search?q=%23ziraatbankasi) | N/A |
-| 48 | [#Beştepe5000VekısmiyiEkler](http://twitter.com/search?q=%23Be%c5%9ftepe5000Vek%c4%b1smiyiEkler) | N/A |
-| 49 | [#2000lerinOyuAdalete](http://twitter.com/search?q=%232000lerinOyuAdalete) | N/A |
+| 11 | [Fahrettin Koca](http://twitter.com/search?q=Fahrettin+Koca) | Fahrettin Koca is a Turkish name, derived from the Arabic name Fahraddin. It means "the one who is brave and generous". |
+| 12 | [Hasip](http://twitter.com/search?q=Hasip) | N/A |
+| 13 | [Beypazarı](http://twitter.com/search?q=Beypazar%c4%b1) | N/A |
+| 14 | [Yaralarımız Sarılıyor](http://twitter.com/search?q=Yaralar%c4%b1m%c4%b1z+Sar%c4%b1l%c4%b1yor) | N/A |
+| 15 | [Yapacağız](http://twitter.com/search?q=Yapaca%c4%9f%c4%b1z) | N/A |
+| 16 | [Çorlu](http://twitter.com/search?q=%c3%87orlu) | N/A |
+| 17 | [Behramoğlu Tutuklansın](http://twitter.com/search?q=Behramo%c4%9flu+Tutuklans%c4%b1n) | N/A |
+| 18 | [Murat Kurum](http://twitter.com/search?q=Murat+Kurum) | N/A |
+| 19 | [Komşu](http://twitter.com/search?q=Kom%c5%9fu) | N/A |
+| 20 | [Gavur](http://twitter.com/search?q=Gavur) | N/A |
+| 21 | [Hulusi Akar](http://twitter.com/search?q=Hulusi+Akar) | N/A |
+| 22 | [SGK'dan EYT](http://twitter.com/search?q=SGK%27dan+EYT) | N/A |
+| 23 | [Zeyd](http://twitter.com/search?q=Zeyd) | N/A |
+| 24 | [Kürtler](http://twitter.com/search?q=K%c3%bcrtler) | N/A |
+| 25 | [Doğu Perinçek](http://twitter.com/search?q=Do%c4%9fu+Perin%c3%a7ek) | N/A |
+| 26 | [Fatiha](http://twitter.com/search?q=Fatiha) | N/A |
+| 27 | [Gençler](http://twitter.com/search?q=Gen%c3%a7ler) | N/A |
+| 28 | [Tren](http://twitter.com/search?q=Tren) | N/A |
+| 29 | [Sevgilim](http://twitter.com/search?q=Sevgilim) | N/A |
+| 30 | [Sözcü TV](http://twitter.com/search?q=S%c3%b6zc%c3%bc+TV) | N/A |
+| 31 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 32 | [Adayı](http://twitter.com/search?q=Aday%c4%b1) | N/A |
+| 33 | [Genel Başkanımız](http://twitter.com/search?q=Genel+Ba%c5%9fkan%c4%b1m%c4%b1z) | N/A |
+| 34 | [Ekrem İmamoğlu](http://twitter.com/search?q=Ekrem+%c4%b0mamo%c4%9flu) | N/A |
+| 35 | [Akşener](http://twitter.com/search?q=Ak%c5%9fener) | N/A |
+| 36 | [Şenol Güneş](http://twitter.com/search?q=%c5%9eenol+G%c3%bcne%c5%9f) | Şenol Güneş is a Turkish football manager and former player. He is currently the manager of the Turkish national team. In English, his name translates to "Joyful Sun". |
+| 37 | [Veririm](http://twitter.com/search?q=Veririm) | N/A |
+| 38 | [Ankaragücü](http://twitter.com/search?q=Ankarag%c3%bcc%c3%bc) | Ankaragücü is a Turkish sports club based in Ankara, Turkey. The club's name translates to "Ankara Sports Club" in English. It is best known for its football team, which competes in the Turkish Süper Lig, the top tier of Turkish football. |
+| 39 | [Hayırlara](http://twitter.com/search?q=Hay%c4%b1rlara) | N/A |
+| 40 | [Teşekkürler Erdoğan](http://twitter.com/search?q=Te%c5%9fekk%c3%bcrler+Erdo%c4%9fan) | "Teşekkürler Erdoğan" is a Turkish phrase that translates to "Thank you, Erdoğan" in English. It is a polite way of expressing gratitude to the Turkish President, Recep Tayyip Erdoğan. |
+| 41 | [Gereğini](http://twitter.com/search?q=Gere%c4%9fini) | N/A |
+| 42 | [İlhan Kesici](http://twitter.com/search?q=%c4%b0lhan+Kesici) | N/A |
+| 43 | [Simge](http://twitter.com/search?q=Simge) | N/A |
+| 44 | [Acele](http://twitter.com/search?q=Acele) | N/A |
+| 45 | [Resmi Gazete'de](http://twitter.com/search?q=Resmi+Gazete%27de) | N/A |
+| 46 | [Ekmeleddin](http://twitter.com/search?q=Ekmeleddin) | N/A |
+| 47 | [Yıldız](http://twitter.com/search?q=Y%c4%b1ld%c4%b1z) | N/A |
+| 48 | [Anket](http://twitter.com/search?q=Anket) | N/A |
+| 49 | [Seve](http://twitter.com/search?q=Seve) | N/A |
 
 
 

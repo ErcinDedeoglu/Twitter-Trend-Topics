@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bremen
 
-📆 Last Updated: `2023-03-01 15:16:13 UTC`
+📆 Last Updated: `2023-03-01 16:16:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TwitterDown](http://twitter.com/search?q=%23TwitterDown) | N/A |
-| 2 | [#eFuels](http://twitter.com/search?q=%23eFuels) | N/A |
+| 1 | [#eFuels](http://twitter.com/search?q=%23eFuels) | N/A |
+| 2 | [#TwitterDown](http://twitter.com/search?q=%23TwitterDown) | N/A |
 | 3 | [Heizungen](http://twitter.com/search?q=Heizungen) | N/A |
 | 4 | [Vergewaltigungen](http://twitter.com/search?q=Vergewaltigungen) | N/A |
 | 5 | [#Giffey](http://twitter.com/search?q=%23Giffey) | N/A |
-| 6 | [Verbote](http://twitter.com/search?q=Verbote) | N/A |
-| 7 | [Wärmepumpe](http://twitter.com/search?q=W%c3%a4rmepumpe) | N/A |
-| 8 | [wochenteiler](http://twitter.com/search?q=wochenteiler) | N/A |
-| 9 | [moderator](http://twitter.com/search?q=moderator) | N/A |
-| 10 | [pika](http://twitter.com/search?q=pika) | N/A |
+| 6 | [pika](http://twitter.com/search?q=pika) | N/A |
+| 7 | [Verbote](http://twitter.com/search?q=Verbote) | N/A |
+| 8 | [Wärmepumpe](http://twitter.com/search?q=W%c3%a4rmepumpe) | N/A |
+| 9 | [wochenteiler](http://twitter.com/search?q=wochenteiler) | N/A |
+| 10 | [Moderator](http://twitter.com/search?q=Moderator) | N/A |
 | 11 | [Kriegsverbrechen](http://twitter.com/search?q=Kriegsverbrechen) | N/A |
-| 12 | [Yfood](http://twitter.com/search?q=Yfood) | N/A |
+| 12 | [YFood](http://twitter.com/search?q=YFood) | N/A |
 | 13 | [Außenpolitik](http://twitter.com/search?q=Au%c3%9fenpolitik) | N/A |
-| 14 | [Strom](http://twitter.com/search?q=Strom) | N/A |
-| 15 | [Seenotrettung](http://twitter.com/search?q=Seenotrettung) | N/A |
-| 16 | [Koalition](http://twitter.com/search?q=Koalition) | N/A |
-| 17 | [GroKo](http://twitter.com/search?q=GroKo) | N/A |
-| 18 | [Willkommen bei Twitter](http://twitter.com/search?q=Willkommen+bei+Twitter) | N/A |
-| 19 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
-| 20 | [Nestle](http://twitter.com/search?q=Nestle) | N/A |
-| 21 | [bergfest](http://twitter.com/search?q=bergfest) | N/A |
-| 22 | [Meute](http://twitter.com/search?q=Meute) | N/A |
-| 23 | [GIVE US WN BLOOPERS](http://twitter.com/search?q=GIVE+US+WN+BLOOPERS) | N/A |
-| 24 | [Nuhr](http://twitter.com/search?q=Nuhr) | N/A |
-| 25 | [Frühlingsanfang](http://twitter.com/search?q=Fr%c3%bchlingsanfang) | N/A |
-| 26 | [Uhren](http://twitter.com/search?q=Uhren) | N/A |
-| 27 | [Leitlinien](http://twitter.com/search?q=Leitlinien) | N/A |
-| 28 | [Bundesrat](http://twitter.com/search?q=Bundesrat) | N/A |
+| 14 | [Koalition](http://twitter.com/search?q=Koalition) | N/A |
+| 15 | [Strom](http://twitter.com/search?q=Strom) | N/A |
+| 16 | [Seenotrettung](http://twitter.com/search?q=Seenotrettung) | N/A |
+| 17 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
+| 18 | [bergfest](http://twitter.com/search?q=bergfest) | N/A |
+| 19 | [Nestle](http://twitter.com/search?q=Nestle) | N/A |
+| 20 | [Nuhr](http://twitter.com/search?q=Nuhr) | N/A |
+| 21 | [Meute](http://twitter.com/search?q=Meute) | N/A |
+| 22 | [GIVE US WN BLOOPERS](http://twitter.com/search?q=GIVE+US+WN+BLOOPERS) | N/A |
+| 23 | [Uhren](http://twitter.com/search?q=Uhren) | N/A |
+| 24 | [Frühlingsanfang](http://twitter.com/search?q=Fr%c3%bchlingsanfang) | N/A |
+| 25 | [Willkommen bei Twitter](http://twitter.com/search?q=Willkommen+bei+Twitter) | N/A |
+| 26 | [Bundesrat](http://twitter.com/search?q=Bundesrat) | N/A |
+| 27 | [Technologieoffenheit](http://twitter.com/search?q=Technologieoffenheit) | N/A |
+| 28 | [Neubauten](http://twitter.com/search?q=Neubauten) | N/A |
 | 29 | [Kraftstoffe](http://twitter.com/search?q=Kraftstoffe) | N/A |
-| 30 | [Neubauten](http://twitter.com/search?q=Neubauten) | N/A |
-| 31 | [Berliner SPD](http://twitter.com/search?q=Berliner+SPD) | N/A |
-| 32 | [Iggy Pop](http://twitter.com/search?q=Iggy+Pop) | N/A |
-| 33 | [Senioren](http://twitter.com/search?q=Senioren) | N/A |
+| 30 | [Berliner SPD](http://twitter.com/search?q=Berliner+SPD) | N/A |
+| 31 | [Iggy Pop](http://twitter.com/search?q=Iggy+Pop) | N/A |
+| 32 | [Frau Deutschlands](http://twitter.com/search?q=Frau+Deutschlands) | N/A |
+| 33 | [März 2023](http://twitter.com/search?q=M%c3%a4rz+2023) | N/A |
 | 34 | [Markt](http://twitter.com/search?q=Markt) | N/A |
-| 35 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
-| 36 | [Einbau](http://twitter.com/search?q=Einbau) | N/A |
-| 37 | [ankerkraut](http://twitter.com/search?q=ankerkraut) | N/A |
-| 38 | [Amir](http://twitter.com/search?q=Amir) | Amir is an Arabic name meaning "Prince" or "Commander". It is also used as a title of nobility in some Muslim countries. |
-| 39 | [Schönen Mittwoch](http://twitter.com/search?q=Sch%c3%b6nen+Mittwoch) | N/A |
-| 40 | [start in den märz](http://twitter.com/search?q=start+in+den+m%c3%a4rz) | N/A |
-| 41 | [Schwarz-Rot](http://twitter.com/search?q=Schwarz-Rot) | N/A |
-| 42 | [März 2023](http://twitter.com/search?q=M%c3%a4rz+2023) | N/A |
-| 43 | [Heizkörper](http://twitter.com/search?q=Heizk%c3%b6rper) | N/A |
-| 44 | [Boris Johnson](http://twitter.com/search?q=Boris+Johnson) | N/A |
-| 45 | [Progressiv](http://twitter.com/search?q=Progressiv) | N/A |
-| 46 | [Kai Wegner](http://twitter.com/search?q=Kai+Wegner) | N/A |
-| 47 | [Klimaziele](http://twitter.com/search?q=Klimaziele) | N/A |
-| 48 | [Ernährung](http://twitter.com/search?q=Ern%c3%a4hrung) | N/A |
+| 35 | [Einbau](http://twitter.com/search?q=Einbau) | N/A |
+| 36 | [Schwarz-Rot](http://twitter.com/search?q=Schwarz-Rot) | N/A |
+| 37 | [Schönen Mittwoch](http://twitter.com/search?q=Sch%c3%b6nen+Mittwoch) | N/A |
+| 38 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
+| 39 | [start in den märz](http://twitter.com/search?q=start+in+den+m%c3%a4rz) | N/A |
+| 40 | [Kai Wegner](http://twitter.com/search?q=Kai+Wegner) | N/A |
+| 41 | [joon](http://twitter.com/search?q=joon) | Joon is a Persian word that means "soul" or "spirit". It is often used to refer to the inner essence of a person, and is sometimes used as a term of endearment. |
+| 42 | [Senioren](http://twitter.com/search?q=Senioren) | N/A |
+| 43 | [Ankerkraut](http://twitter.com/search?q=Ankerkraut) | N/A |
+| 44 | [Heizkörper](http://twitter.com/search?q=Heizk%c3%b6rper) | N/A |
+| 45 | [Maske](http://twitter.com/search?q=Maske) | N/A |
+| 46 | [Progressiv](http://twitter.com/search?q=Progressiv) | N/A |
+| 47 | [Bestandsflotte](http://twitter.com/search?q=Bestandsflotte) | N/A |
+| 48 | [Boris Johnson](http://twitter.com/search?q=Boris+Johnson) | N/A |
 
 
 

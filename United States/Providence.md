@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Providence
 
-📆 Last Updated: `2023-03-01 15:16:45 UTC`
+📆 Last Updated: `2023-03-01 16:17:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
 | 2 | [#WomensHistoryMonth](http://twitter.com/search?q=%23WomensHistoryMonth) | N/A |
-| 3 | [Pikamee](http://twitter.com/search?q=Pikamee) | N/A |
-| 4 | [Eli Lilly](http://twitter.com/search?q=Eli+Lilly) | N/A |
-| 5 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 6 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
-| 7 | [New Month](http://twitter.com/search?q=New+Month) | N/A |
-| 8 | [#TwitterDown](http://twitter.com/search?q=%23TwitterDown) | N/A |
-| 9 | [March Madness](http://twitter.com/search?q=March+Madness) | N/A |
-| 10 | [#NATM2023](http://twitter.com/search?q=%23NATM2023) | N/A |
-| 11 | [Stollen](http://twitter.com/search?q=Stollen) | Stollen is a traditional German Christmas cake or bread made with dried fruit, nuts, and spices. It is usually shaped like a log and covered with powdered sugar or icing sugar. The name comes from the German word "stollen," which means "to carry." In English, it is sometimes referred to as a Christmas loaf or fruitcake. |
-| 12 | [Wray](http://twitter.com/search?q=Wray) | N/A |
-| 13 | [Fuddruckers](http://twitter.com/search?q=Fuddruckers) | N/A |
-| 14 | [Jalen Carter](http://twitter.com/search?q=Jalen+Carter) | N/A |
-| 15 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
-| 16 | [Happy Social Work Month](http://twitter.com/search?q=Happy+Social+Work+Month) | N/A |
-| 17 | [New Blessings](http://twitter.com/search?q=New+Blessings) | N/A |
-| 18 | [Beetlejuice](http://twitter.com/search?q=Beetlejuice) | N/A |
-| 19 | [Happy 1st](http://twitter.com/search?q=Happy+1st) | N/A |
-| 20 | [Frogmore](http://twitter.com/search?q=Frogmore) | N/A |
-| 21 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
-| 22 | [Dark Side of the Moon](http://twitter.com/search?q=Dark+Side+of+the+Moon) | N/A |
-| 23 | [St. David](http://twitter.com/search?q=St.+David) | N/A |
-| 24 | [New Goals](http://twitter.com/search?q=New+Goals) | N/A |
-| 25 | [Rabbit Rabbit](http://twitter.com/search?q=Rabbit+Rabbit) | N/A |
-| 26 | [Andrew Painter](http://twitter.com/search?q=Andrew+Painter) | N/A |
-| 27 | [Happy Hump](http://twitter.com/search?q=Happy+Hump) | N/A |
-| 28 | [Will Anderson](http://twitter.com/search?q=Will+Anderson) | N/A |
-| 29 | [Money Making March](http://twitter.com/search?q=Money+Making+March) | N/A |
-| 30 | [Welcome to Twitter](http://twitter.com/search?q=Welcome+to+Twitter) | N/A |
-| 31 | [Almighty](http://twitter.com/search?q=Almighty) | N/A |
-| 32 | [Birthday MONTH](http://twitter.com/search?q=Birthday+MONTH) | N/A |
-| 33 | [Happy New Year](http://twitter.com/search?q=Happy+New+Year) | Happy New Year is a phrase used to express good wishes for the upcoming year. It is typically said at the end of the year, on New Year's Eve or New Year's Day, to wish someone a prosperous and successful year ahead. |
-| 34 | [It is Wednesday](http://twitter.com/search?q=It+is+Wednesday) | N/A |
-| 35 | [ITS THE FIRST OF THE MONTH](http://twitter.com/search?q=ITS+THE+FIRST+OF+THE+MONTH) | N/A |
-| 36 | [Daily Quordle 401](http://twitter.com/search?q=Daily+Quordle+401) | N/A |
-| 37 | [Nolan Smith](http://twitter.com/search?q=Nolan+Smith) | N/A |
-| 38 | [Jonathan Quick](http://twitter.com/search?q=Jonathan+Quick) | N/A |
-| 39 | [Zoro](http://twitter.com/search?q=Zoro) | N/A |
-| 40 | [Happy 3-1](http://twitter.com/search?q=Happy+3-1) | N/A |
-| 41 | [Beau Biden](http://twitter.com/search?q=Beau+Biden) | N/A |
-| 42 | [Happy 50th](http://twitter.com/search?q=Happy+50th) | N/A |
-| 43 | [Sean Penn](http://twitter.com/search?q=Sean+Penn) | N/A |
-| 44 | [Wacky Wednesday](http://twitter.com/search?q=Wacky+Wednesday) | N/A |
-| 45 | [Harry and Meghan](http://twitter.com/search?q=Harry+and+Meghan) | N/A |
-| 46 | [Tyree Wilson](http://twitter.com/search?q=Tyree+Wilson) | N/A |
-| 47 | [Dansby](http://twitter.com/search?q=Dansby) | N/A |
-| 48 | [Athletic Trainers](http://twitter.com/search?q=Athletic+Trainers) | N/A |
-| 49 | [Todd McShay](http://twitter.com/search?q=Todd+McShay) | N/A |
+| 3 | [Jalen Carter](http://twitter.com/search?q=Jalen+Carter) | N/A |
+| 4 | [Pikamee](http://twitter.com/search?q=Pikamee) | N/A |
+| 5 | [sam levinson](http://twitter.com/search?q=sam+levinson) | N/A |
+| 6 | [Eli Lilly](http://twitter.com/search?q=Eli+Lilly) | N/A |
+| 7 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 8 | [Todd McShay](http://twitter.com/search?q=Todd+McShay) | N/A |
+| 9 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
+| 10 | [New Month](http://twitter.com/search?q=New+Month) | N/A |
+| 11 | [Fuddruckers](http://twitter.com/search?q=Fuddruckers) | N/A |
+| 12 | [Will Anderson](http://twitter.com/search?q=Will+Anderson) | N/A |
+| 13 | [March Madness](http://twitter.com/search?q=March+Madness) | N/A |
+| 14 | [#NATM2023](http://twitter.com/search?q=%23NATM2023) | N/A |
+| 15 | [Stollen](http://twitter.com/search?q=Stollen) | Stollen is a traditional German Christmas cake or bread made with dried fruit, nuts, and spices. It is usually shaped like a log and covered with powdered sugar or icing sugar. The name comes from the German word "stollen," which means "to carry." In English, it is sometimes referred to as a Christmas loaf or fruitcake. |
+| 16 | [Wray](http://twitter.com/search?q=Wray) | N/A |
+| 17 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
+| 18 | [Happy 1st](http://twitter.com/search?q=Happy+1st) | N/A |
+| 19 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
+| 20 | [Beetlejuice](http://twitter.com/search?q=Beetlejuice) | N/A |
+| 21 | [Happy Social Work Month](http://twitter.com/search?q=Happy+Social+Work+Month) | N/A |
+| 22 | [Henry Ruggs](http://twitter.com/search?q=Henry+Ruggs) | N/A |
+| 23 | [Frogmore](http://twitter.com/search?q=Frogmore) | N/A |
+| 24 | [New Blessings](http://twitter.com/search?q=New+Blessings) | N/A |
+| 25 | [Shotgun](http://twitter.com/search?q=Shotgun) | N/A |
+| 26 | [Dark Side of the Moon](http://twitter.com/search?q=Dark+Side+of+the+Moon) | N/A |
+| 27 | [Beau Biden](http://twitter.com/search?q=Beau+Biden) | N/A |
+| 28 | [VOMS](http://twitter.com/search?q=VOMS) | N/A |
+| 29 | [The Idol](http://twitter.com/search?q=The+Idol) | N/A |
+| 30 | [Watkins](http://twitter.com/search?q=Watkins) | Watkins is a surname of English origin. It is derived from the Old English personal name Watkin, which is a diminutive form of Walter. The name means "son of Walter". |
+| 31 | [St. David](http://twitter.com/search?q=St.+David) | N/A |
+| 32 | [Birthday Month](http://twitter.com/search?q=Birthday+Month) | N/A |
+| 33 | [Armon](http://twitter.com/search?q=Armon) | N/A |
+| 34 | [Tyree Wilson](http://twitter.com/search?q=Tyree+Wilson) | N/A |
+| 35 | [AG Garland](http://twitter.com/search?q=AG+Garland) | N/A |
+| 36 | [Zoro](http://twitter.com/search?q=Zoro) | N/A |
+| 37 | [Andrew Painter](http://twitter.com/search?q=Andrew+Painter) | N/A |
+| 38 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
+| 39 | [Jonathan Quick](http://twitter.com/search?q=Jonathan+Quick) | N/A |
+| 40 | [Dog the Bounty Hunter](http://twitter.com/search?q=Dog+the+Bounty+Hunter) | N/A |
+| 41 | [New Goals](http://twitter.com/search?q=New+Goals) | N/A |
+| 42 | [Dansby](http://twitter.com/search?q=Dansby) | N/A |
+| 43 | [Odor](http://twitter.com/search?q=Odor) | N/A |
+| 44 | [Daily Quordle 401](http://twitter.com/search?q=Daily+Quordle+401) | N/A |
+| 45 | [Wacky Wednesday](http://twitter.com/search?q=Wacky+Wednesday) | N/A |
+| 46 | [Rabbit Rabbit](http://twitter.com/search?q=Rabbit+Rabbit) | N/A |
+| 47 | [Happy New Year](http://twitter.com/search?q=Happy+New+Year) | Happy New Year is a phrase used to express good wishes for the upcoming year. It is typically said at the end of the year, on New Year's Eve or New Year's Day, to wish someone a prosperous and successful year ahead. |
+| 48 | [It is Wednesday](http://twitter.com/search?q=It+is+Wednesday) | N/A |
+| 49 | [Happy 50th](http://twitter.com/search?q=Happy+50th) | N/A |
 
 
 

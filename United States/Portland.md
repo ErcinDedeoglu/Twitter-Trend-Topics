@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Portland
 
-📆 Last Updated: `2023-03-01 15:16:45 UTC`
+📆 Last Updated: `2023-03-01 16:17:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Chauncey](http://twitter.com/search?q=Chauncey) | N/A |
 | 2 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 3 | [#Ripcity](http://twitter.com/search?q=%23Ripcity) | N/A |
+| 3 | [#ripcity](http://twitter.com/search?q=%23ripcity) | N/A |
 | 4 | [Blazers](http://twitter.com/search?q=Blazers) | Blazers are a type of jacket, typically with a single row of buttons and a notched lapel. They are usually made from wool or cotton and can be worn as part of a suit or as a separate item. Blazers are often associated with formal occasions, but they can also be worn casually. |
 | 5 | [#WomensHistoryMonth](http://twitter.com/search?q=%23WomensHistoryMonth) | N/A |
-| 6 | [Pikamee](http://twitter.com/search?q=Pikamee) | N/A |
-| 7 | [Eli Lilly](http://twitter.com/search?q=Eli+Lilly) | N/A |
-| 8 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 9 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
-| 10 | [New Month](http://twitter.com/search?q=New+Month) | N/A |
-| 11 | [#TwitterDown](http://twitter.com/search?q=%23TwitterDown) | N/A |
-| 12 | [March Madness](http://twitter.com/search?q=March+Madness) | N/A |
-| 13 | [#NATM2023](http://twitter.com/search?q=%23NATM2023) | N/A |
-| 14 | [Stollen](http://twitter.com/search?q=Stollen) | Stollen is a traditional German Christmas cake or bread made with dried fruit, nuts, and spices. It is usually shaped like a log and covered with powdered sugar or icing sugar. The name comes from the German word "stollen," which means "to carry." In English, it is sometimes referred to as a Christmas loaf or fruitcake. |
-| 15 | [Jalen Carter](http://twitter.com/search?q=Jalen+Carter) | N/A |
-| 16 | [Wray](http://twitter.com/search?q=Wray) | N/A |
-| 17 | [Fuddruckers](http://twitter.com/search?q=Fuddruckers) | N/A |
-| 18 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
-| 19 | [Happy Social Work Month](http://twitter.com/search?q=Happy+Social+Work+Month) | N/A |
-| 20 | [New Blessings](http://twitter.com/search?q=New+Blessings) | N/A |
-| 21 | [Beetlejuice](http://twitter.com/search?q=Beetlejuice) | N/A |
-| 22 | [Happy 1st](http://twitter.com/search?q=Happy+1st) | N/A |
-| 23 | [Frogmore](http://twitter.com/search?q=Frogmore) | N/A |
-| 24 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
-| 25 | [Dark Side of the Moon](http://twitter.com/search?q=Dark+Side+of+the+Moon) | N/A |
-| 26 | [St. David](http://twitter.com/search?q=St.+David) | N/A |
-| 27 | [New Goals](http://twitter.com/search?q=New+Goals) | N/A |
-| 28 | [Rabbit Rabbit](http://twitter.com/search?q=Rabbit+Rabbit) | N/A |
-| 29 | [Will Anderson](http://twitter.com/search?q=Will+Anderson) | N/A |
-| 30 | [Andrew Painter](http://twitter.com/search?q=Andrew+Painter) | N/A |
-| 31 | [Happy Hump](http://twitter.com/search?q=Happy+Hump) | N/A |
-| 32 | [Money Making March](http://twitter.com/search?q=Money+Making+March) | N/A |
-| 33 | [Todd McShay](http://twitter.com/search?q=Todd+McShay) | N/A |
-| 34 | [Welcome to Twitter](http://twitter.com/search?q=Welcome+to+Twitter) | N/A |
-| 35 | [birthday month](http://twitter.com/search?q=birthday+month) | N/A |
-| 36 | [Happy New Year](http://twitter.com/search?q=Happy+New+Year) | Happy New Year is a phrase used to express good wishes for the upcoming year. It is typically said at the end of the year, on New Year's Eve or New Year's Day, to wish someone a prosperous and successful year ahead. |
-| 37 | [Almighty](http://twitter.com/search?q=Almighty) | N/A |
-| 38 | [It is Wednesday](http://twitter.com/search?q=It+is+Wednesday) | N/A |
-| 39 | [ITS THE FIRST OF THE MONTH](http://twitter.com/search?q=ITS+THE+FIRST+OF+THE+MONTH) | N/A |
-| 40 | [Daily Quordle 401](http://twitter.com/search?q=Daily+Quordle+401) | N/A |
-| 41 | [Nolan Smith](http://twitter.com/search?q=Nolan+Smith) | N/A |
-| 42 | [Jonathan Quick](http://twitter.com/search?q=Jonathan+Quick) | N/A |
-| 43 | [Zoro](http://twitter.com/search?q=Zoro) | N/A |
-| 44 | [Happy 3-1](http://twitter.com/search?q=Happy+3-1) | N/A |
-| 45 | [Sean Penn](http://twitter.com/search?q=Sean+Penn) | N/A |
-| 46 | [Happy 50th](http://twitter.com/search?q=Happy+50th) | N/A |
-| 47 | [Wacky Wednesday](http://twitter.com/search?q=Wacky+Wednesday) | N/A |
-| 48 | [Beau Biden](http://twitter.com/search?q=Beau+Biden) | N/A |
-| 49 | [Harry and Meghan](http://twitter.com/search?q=Harry+and+Meghan) | N/A |
+| 6 | [Jalen Carter](http://twitter.com/search?q=Jalen+Carter) | N/A |
+| 7 | [Pikamee](http://twitter.com/search?q=Pikamee) | N/A |
+| 8 | [sam levinson](http://twitter.com/search?q=sam+levinson) | N/A |
+| 9 | [Eli Lilly](http://twitter.com/search?q=Eli+Lilly) | N/A |
+| 10 | [Todd McShay](http://twitter.com/search?q=Todd+McShay) | N/A |
+| 11 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 12 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
+| 13 | [New Month](http://twitter.com/search?q=New+Month) | N/A |
+| 14 | [Fuddruckers](http://twitter.com/search?q=Fuddruckers) | N/A |
+| 15 | [Will Anderson](http://twitter.com/search?q=Will+Anderson) | N/A |
+| 16 | [March Madness](http://twitter.com/search?q=March+Madness) | N/A |
+| 17 | [#NATM2023](http://twitter.com/search?q=%23NATM2023) | N/A |
+| 18 | [Stollen](http://twitter.com/search?q=Stollen) | Stollen is a traditional German Christmas cake or bread made with dried fruit, nuts, and spices. It is usually shaped like a log and covered with powdered sugar or icing sugar. The name comes from the German word "stollen," which means "to carry." In English, it is sometimes referred to as a Christmas loaf or fruitcake. |
+| 19 | [Wray](http://twitter.com/search?q=Wray) | N/A |
+| 20 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
+| 21 | [Happy 1st](http://twitter.com/search?q=Happy+1st) | N/A |
+| 22 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
+| 23 | [Beetlejuice](http://twitter.com/search?q=Beetlejuice) | N/A |
+| 24 | [Happy Social Work Month](http://twitter.com/search?q=Happy+Social+Work+Month) | N/A |
+| 25 | [Frogmore](http://twitter.com/search?q=Frogmore) | N/A |
+| 26 | [Henry Ruggs](http://twitter.com/search?q=Henry+Ruggs) | N/A |
+| 27 | [New Blessings](http://twitter.com/search?q=New+Blessings) | N/A |
+| 28 | [Shotgun](http://twitter.com/search?q=Shotgun) | N/A |
+| 29 | [Dark Side of the Moon](http://twitter.com/search?q=Dark+Side+of+the+Moon) | N/A |
+| 30 | [VOMS](http://twitter.com/search?q=VOMS) | N/A |
+| 31 | [Beau Biden](http://twitter.com/search?q=Beau+Biden) | N/A |
+| 32 | [The Idol](http://twitter.com/search?q=The+Idol) | N/A |
+| 33 | [Watkins](http://twitter.com/search?q=Watkins) | Watkins is a surname of English origin. It is derived from the Old English personal name Watkin, which is a diminutive form of Walter. The name means "son of Walter". |
+| 34 | [Birthday Month](http://twitter.com/search?q=Birthday+Month) | N/A |
+| 35 | [St. David](http://twitter.com/search?q=St.+David) | N/A |
+| 36 | [Armon](http://twitter.com/search?q=Armon) | N/A |
+| 37 | [Tyree Wilson](http://twitter.com/search?q=Tyree+Wilson) | N/A |
+| 38 | [AG Garland](http://twitter.com/search?q=AG+Garland) | N/A |
+| 39 | [Zoro](http://twitter.com/search?q=Zoro) | N/A |
+| 40 | [Jonathan Quick](http://twitter.com/search?q=Jonathan+Quick) | N/A |
+| 41 | [Andrew Painter](http://twitter.com/search?q=Andrew+Painter) | N/A |
+| 42 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
+| 43 | [Dog the Bounty Hunter](http://twitter.com/search?q=Dog+the+Bounty+Hunter) | N/A |
+| 44 | [New Goals](http://twitter.com/search?q=New+Goals) | N/A |
+| 45 | [Dansby](http://twitter.com/search?q=Dansby) | N/A |
+| 46 | [Odor](http://twitter.com/search?q=Odor) | N/A |
+| 47 | [Happy 50th](http://twitter.com/search?q=Happy+50th) | N/A |
+| 48 | [Daily Quordle 401](http://twitter.com/search?q=Daily+Quordle+401) | N/A |
+| 49 | [Wacky Wednesday](http://twitter.com/search?q=Wacky+Wednesday) | N/A |
 
 
 

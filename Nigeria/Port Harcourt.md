@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Harcourt
 
-📆 Last Updated: `2023-03-01 15:16:28 UTC`
+📆 Last Updated: `2023-03-01 16:16:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,55 @@ This is top 50 for [Nigeria](</Nigeria>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [My President](http://twitter.com/search?q=My+President) | N/A |
-| 2 | [Black Wednesday](http://twitter.com/search?q=Black+Wednesday) | N/A |
-| 3 | [#Resignation](http://twitter.com/search?q=%23Resignation) | N/A |
-| 4 | [#JANDORforLagos](http://twitter.com/search?q=%23JANDORforLagos) | N/A |
-| 5 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 6 | [Happy New Month](http://twitter.com/search?q=Happy+New+Month) | Happy New Month is a phrase used to express good wishes for the start of a new month. It is typically used as a greeting or salutation to friends, family, and colleagues. The phrase is usually accompanied by wishes for health, happiness, and success in the upcoming month. |
-| 7 | [#ARISENews](http://twitter.com/search?q=%23ARISENews) | N/A |
-| 8 | [Pastor Adeboye](http://twitter.com/search?q=Pastor+Adeboye) | N/A |
-| 9 | [Teslim Folarin](http://twitter.com/search?q=Teslim+Folarin) | N/A |
-| 10 | [Okwute](http://twitter.com/search?q=Okwute) | N/A |
-| 11 | [Chinedu](http://twitter.com/search?q=Chinedu) | N/A |
-| 12 | [My Twitter](http://twitter.com/search?q=My+Twitter) | N/A |
-| 13 | [Elected](http://twitter.com/search?q=Elected) | N/A |
-| 14 | [Danny](http://twitter.com/search?q=Danny) | N/A |
-| 15 | [President-elect](http://twitter.com/search?q=President-elect) | N/A |
-| 16 | [Arise TV](http://twitter.com/search?q=Arise+TV) | N/A |
-| 17 | [Japa](http://twitter.com/search?q=Japa) | N/A |
-| 18 | [Kashim Shettima](http://twitter.com/search?q=Kashim+Shettima) | N/A |
-| 19 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
-| 20 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 21 | [Which Nigerians](http://twitter.com/search?q=Which+Nigerians) | N/A |
-| 22 | [Bola Ahmed Tinubu](http://twitter.com/search?q=Bola+Ahmed+Tinubu) | N/A |
-| 23 | [mandate](http://twitter.com/search?q=mandate) | N/A |
-| 24 | [his excellency](http://twitter.com/search?q=his+excellency) | N/A |
-| 25 | [Congratulations to Nigeria](http://twitter.com/search?q=Congratulations+to+Nigeria) | N/A |
+| 1 | [#INECElectionResult](http://twitter.com/search?q=%23INECElectionResult) | N/A |
+| 2 | [#INECElectionResult](http://twitter.com/search?q=%23INECElectionResult) | N/A |
+| 3 | [Happy New Month](http://twitter.com/search?q=Happy+New+Month) | Happy New Month is a phrase used to express good wishes for the start of a new month. It is typically used as a greeting or salutation to friends, family, and colleagues. The phrase is usually accompanied by wishes for health, happiness, and success in the upcoming month. |
+| 4 | [#protest](http://twitter.com/search?q=%23protest) | N/A |
+| 5 | [#Revolution](http://twitter.com/search?q=%23Revolution) | N/A |
+| 6 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 7 | [Black Wednesday](http://twitter.com/search?q=Black+Wednesday) | N/A |
+| 8 | [Japa](http://twitter.com/search?q=Japa) | N/A |
+| 9 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 10 | [Certificate of Return](http://twitter.com/search?q=Certificate+of+Return) | N/A |
+| 11 | [Wike](http://twitter.com/search?q=Wike) | Wike is a term used in the Philippines to refer to a person who is knowledgeable or wise. It is derived from the Tagalog word "wikain," which means "to know." In English, it can be translated as "wise" or "knowledgeable." |
+| 12 | [25% in FCT](http://twitter.com/search?q=25%25+in+FCT) | N/A |
+| 13 | [Pastor Adeboye](http://twitter.com/search?q=Pastor+Adeboye) | N/A |
+| 14 | [Arise TV](http://twitter.com/search?q=Arise+TV) | N/A |
+| 15 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 16 | [My Twitter](http://twitter.com/search?q=My+Twitter) | N/A |
+| 17 | [Femi Falana](http://twitter.com/search?q=Femi+Falana) | N/A |
+| 18 | [Teslim Folarin](http://twitter.com/search?q=Teslim+Folarin) | N/A |
+| 19 | [HELL NO](http://twitter.com/search?q=HELL+NO) | N/A |
+| 20 | [Atiku and Obi](http://twitter.com/search?q=Atiku+and+Obi) | N/A |
+| 21 | [BVAS](http://twitter.com/search?q=BVAS) | BVAS stands for Behavioral and Vital Signs. It is a term used in the medical field to refer to the physical and mental signs that can be used to assess a patient's health. These signs include heart rate, blood pressure, temperature, respiration rate, and other indicators of physical and mental health. |
+| 22 | [Okwute](http://twitter.com/search?q=Okwute) | N/A |
+| 23 | [11th of March](http://twitter.com/search?q=11th+of+March) | N/A |
+| 24 | [LP and PDP](http://twitter.com/search?q=LP+and+PDP) | N/A |
+| 25 | [IReV](http://twitter.com/search?q=IReV) | N/A |
 | 26 | [Chief of Staff](http://twitter.com/search?q=Chief+of+Staff) | N/A |
-| 27 | [Apostle](http://twitter.com/search?q=Apostle) | N/A |
-| 28 | [Grace Grace Grace](http://twitter.com/search?q=Grace+Grace+Grace) | N/A |
-| 29 | [Atiku and Obi](http://twitter.com/search?q=Atiku+and+Obi) | N/A |
-| 30 | [another 8](http://twitter.com/search?q=another+8) | N/A |
-| 31 | [JUBILEE IN MARCH](http://twitter.com/search?q=JUBILEE+IN+MARCH) | N/A |
-| 32 | [Renewed Hope](http://twitter.com/search?q=Renewed+Hope) | N/A |
-| 33 | [VISA](http://twitter.com/search?q=VISA) | N/A |
-| 34 | [congratulations jagaban](http://twitter.com/search?q=congratulations+jagaban) | N/A |
-| 35 | [Togo](http://twitter.com/search?q=Togo) | N/A |
-| 36 | [Vice President](http://twitter.com/search?q=Vice+President) | N/A |
-| 37 | [#Revolution](http://twitter.com/search?q=%23Revolution) | N/A |
-| 38 | [#2023GeneralElections](http://twitter.com/search?q=%232023GeneralElections) | N/A |
-| 39 | [#MoveAbroadByForce](http://twitter.com/search?q=%23MoveAbroadByForce) | N/A |
-| 40 | [#TinubusWalkToVictory](http://twitter.com/search?q=%23TinubusWalkToVictory) | N/A |
-| 41 | [#TwitterDown](http://twitter.com/search?q=%23TwitterDown) | N/A |
-| 42 | [#SupremeCourt](http://twitter.com/search?q=%23SupremeCourt) | N/A |
-| 43 | [#March2023](http://twitter.com/search?q=%23March2023) | N/A |
-| 44 | [#SanwoLekansi](http://twitter.com/search?q=%23SanwoLekansi) | N/A |
-| 45 | [#MarchWish](http://twitter.com/search?q=%23MarchWish) | N/A |
-| 46 | [#March1st](http://twitter.com/search?q=%23March1st) | N/A |
-| 47 | [#ASUU](http://twitter.com/search?q=%23ASUU) | N/A |
-| 48 | [#Davido](http://twitter.com/search?q=%23Davido) | N/A |
+| 27 | [Chinedu](http://twitter.com/search?q=Chinedu) | N/A |
+| 28 | [Jubilee in March](http://twitter.com/search?q=Jubilee+in+March) | N/A |
+| 29 | [Jonathan](http://twitter.com/search?q=Jonathan) | N/A |
+| 30 | [congratulations jagaban](http://twitter.com/search?q=congratulations+jagaban) | N/A |
+| 31 | [Abuja](http://twitter.com/search?q=Abuja) | N/A |
+| 32 | [ECOWAS](http://twitter.com/search?q=ECOWAS) | N/A |
+| 33 | [Mahmood Yakubu](http://twitter.com/search?q=Mahmood+Yakubu) | N/A |
+| 34 | [Grace Grace Grace](http://twitter.com/search?q=Grace+Grace+Grace) | N/A |
+| 35 | [Shettima](http://twitter.com/search?q=Shettima) | N/A |
+| 36 | [25% in the FCT](http://twitter.com/search?q=25%25+in+the+FCT) | N/A |
+| 37 | [Obasanjo](http://twitter.com/search?q=Obasanjo) | Obasanjo is a Yoruba name meaning "the king has returned". It is the surname of Olusegun Obasanjo, a former Nigerian military leader and two-term president. |
+| 38 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
+| 39 | [The FBI](http://twitter.com/search?q=The+FBI) | N/A |
+| 40 | [Judiciary](http://twitter.com/search?q=Judiciary) | N/A |
+| 41 | [TG Omori](http://twitter.com/search?q=TG+Omori) | N/A |
+| 42 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
+| 43 | [Mandate](http://twitter.com/search?q=Mandate) | N/A |
+| 44 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
+| 45 | [Fayose](http://twitter.com/search?q=Fayose) | N/A |
+| 46 | [Ekiti](http://twitter.com/search?q=Ekiti) | N/A |
+| 47 | [Graduated](http://twitter.com/search?q=Graduated) | N/A |
+| 48 | [Dubai](http://twitter.com/search?q=Dubai) | Dubai is a city and emirate in the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the capital of the Emirate of Dubai, one of the seven emirates that make up the country. The word "Dubai" translates to "money" in English. |
+| 49 | [Congratulations Nigeria](http://twitter.com/search?q=Congratulations+Nigeria) | N/A |
 
 
 

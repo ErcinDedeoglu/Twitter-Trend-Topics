@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nagpur
 
-📆 Last Updated: `2023-03-01 15:16:34 UTC`
+📆 Last Updated: `2023-03-01 16:17:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#VishnuVinu](http://twitter.com/search?q=%23VishnuVinu) | N/A |
+| 1 | [#INDvsAUSTest](http://twitter.com/search?q=%23INDvsAUSTest) | N/A |
 | 2 | [#जाट_रत्न_हनुमान_बेनीवाल](http://twitter.com/search?q=%23%e0%a4%9c%e0%a4%be%e0%a4%9f_%e0%a4%b0%e0%a4%a4%e0%a5%8d%e0%a4%a8_%e0%a4%b9%e0%a4%a8%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%a8_%e0%a4%ac%e0%a5%87%e0%a4%a8%e0%a5%80%e0%a4%b5%e0%a4%be%e0%a4%b2) | N/A |
-| 3 | [#PulseOfCompliments](http://twitter.com/search?q=%23PulseOfCompliments) | N/A |
-| 4 | [#BhoolBhulaiyaa3](http://twitter.com/search?q=%23BhoolBhulaiyaa3) | N/A |
-| 5 | [#wolf777lottery](http://twitter.com/search?q=%23wolf777lottery) | N/A |
+| 3 | [#VishnuVinu](http://twitter.com/search?q=%23VishnuVinu) | N/A |
+| 4 | [joon](http://twitter.com/search?q=joon) | Joon is a Persian word that means "soul" or "spirit". It is often used to refer to the inner essence of a person, and is sometimes used as a term of endearment. |
+| 5 | [#BhoolBhulaiyaa3](http://twitter.com/search?q=%23BhoolBhulaiyaa3) | N/A |
 | 6 | [STAND TOGETHER WITH SID](http://twitter.com/search?q=STAND+TOGETHER+WITH+SID) | N/A |
-| 7 | [Amir](http://twitter.com/search?q=Amir) | Amir is an Arabic name meaning "Prince" or "Commander". It is also used as a title of nobility in some Muslim countries. |
-| 8 | [राघवेंद्र सिंह](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%98%e0%a4%b5%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9) | N/A |
-| 9 | [Sushant Our Sonchiriya](http://twitter.com/search?q=Sushant+Our+Sonchiriya) | N/A |
-| 10 | [हनुमान बेनीवाल](http://twitter.com/search?q=%e0%a4%b9%e0%a4%a8%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%a8+%e0%a4%ac%e0%a5%87%e0%a4%a8%e0%a5%80%e0%a4%b5%e0%a4%be%e0%a4%b2) | N/A |
-| 11 | [FCRA](http://twitter.com/search?q=FCRA) | N/A |
-| 12 | [B. Night Portrait](http://twitter.com/search?q=B.+Night+Portrait) | N/A |
-| 13 | [B. Aura Light](http://twitter.com/search?q=B.+Aura+Light) | N/A |
-| 14 | [स्मृति ईरानी](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%ae%e0%a5%83%e0%a4%a4%e0%a4%bf+%e0%a4%88%e0%a4%b0%e0%a4%be%e0%a4%a8%e0%a5%80) | N/A |
-| 15 | [A. 3D Curved Display](http://twitter.com/search?q=A.+3D+Curved+Display) | N/A |
-| 16 | [A. MediaTek Dimensity 8200](http://twitter.com/search?q=A.+MediaTek+Dimensity+8200) | N/A |
-| 17 | [Diwali](http://twitter.com/search?q=Diwali) | N/A |
-| 18 | [Bill Gates](http://twitter.com/search?q=Bill+Gates) | N/A |
-| 19 | [D. Fluorite AG Glass](http://twitter.com/search?q=D.+Fluorite+AG+Glass) | N/A |
-| 20 | [Cambridge](http://twitter.com/search?q=Cambridge) | N/A |
-| 21 | [Zurvan](http://twitter.com/search?q=Zurvan) | N/A |
-| 22 | [पीस कमेटी](http://twitter.com/search?q=%e0%a4%aa%e0%a5%80%e0%a4%b8+%e0%a4%95%e0%a4%ae%e0%a5%87%e0%a4%9f%e0%a5%80) | N/A |
-| 23 | [Stalin](http://twitter.com/search?q=Stalin) | N/A |
-| 24 | [कबीर सागर](http://twitter.com/search?q=%e0%a4%95%e0%a4%ac%e0%a5%80%e0%a4%b0+%e0%a4%b8%e0%a4%be%e0%a4%97%e0%a4%b0) | N/A |
-| 25 | [कबीर वाणी](http://twitter.com/search?q=%e0%a4%95%e0%a4%ac%e0%a5%80%e0%a4%b0+%e0%a4%b5%e0%a4%be%e0%a4%a3%e0%a5%80) | N/A |
-| 26 | [मुख्यमंत्री श्री नीतीश कुमार](http://twitter.com/search?q=%e0%a4%ae%e0%a5%81%e0%a4%96%e0%a5%8d%e0%a4%af%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%a8%e0%a5%80%e0%a4%a4%e0%a5%80%e0%a4%b6+%e0%a4%95%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%b0) | N/A |
-| 27 | [कैंब्रिज यूनिवर्सिटी](http://twitter.com/search?q=%e0%a4%95%e0%a5%88%e0%a4%82%e0%a4%ac%e0%a5%8d%e0%a4%b0%e0%a4%bf%e0%a4%9c+%e0%a4%af%e0%a5%82%e0%a4%a8%e0%a4%bf%e0%a4%b5%e0%a4%b0%e0%a5%8d%e0%a4%b8%e0%a4%bf%e0%a4%9f%e0%a5%80) | N/A |
-| 28 | [teaser](http://twitter.com/search?q=teaser) | N/A |
-| 29 | [सौरभ भारद्वाज](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8c%e0%a4%b0%e0%a4%ad+%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a6%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%9c) | N/A |
+| 7 | [#PulseOfCompliments](http://twitter.com/search?q=%23PulseOfCompliments) | N/A |
+| 8 | [Sushant Our Sonchiriya](http://twitter.com/search?q=Sushant+Our+Sonchiriya) | N/A |
+| 9 | [BIGHIT PROTECT RM](http://twitter.com/search?q=BIGHIT+PROTECT+RM) | N/A |
+| 10 | [Amir](http://twitter.com/search?q=Amir) | Amir is an Arabic name meaning "Prince" or "Commander". It is also used as a title of nobility in some Muslim countries. |
+| 11 | [राघवेंद्र सिंह](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%98%e0%a4%b5%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9) | N/A |
+| 12 | [हनुमान बेनीवाल](http://twitter.com/search?q=%e0%a4%b9%e0%a4%a8%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%a8+%e0%a4%ac%e0%a5%87%e0%a4%a8%e0%a5%80%e0%a4%b5%e0%a4%be%e0%a4%b2) | N/A |
+| 13 | [Diwali 2024](http://twitter.com/search?q=Diwali+2024) | N/A |
+| 14 | [FCRA](http://twitter.com/search?q=FCRA) | N/A |
+| 15 | [जाट समाज](http://twitter.com/search?q=%e0%a4%9c%e0%a4%be%e0%a4%9f+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
+| 16 | [B. Aura Light](http://twitter.com/search?q=B.+Aura+Light) | N/A |
+| 17 | [B. Night Portrait](http://twitter.com/search?q=B.+Night+Portrait) | N/A |
+| 18 | [A. 3D Curved Display](http://twitter.com/search?q=A.+3D+Curved+Display) | N/A |
+| 19 | [A. MediaTek Dimensity 8200](http://twitter.com/search?q=A.+MediaTek+Dimensity+8200) | N/A |
+| 20 | [स्मृति ईरानी](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%ae%e0%a5%83%e0%a4%a4%e0%a4%bf+%e0%a4%88%e0%a4%b0%e0%a4%be%e0%a4%a8%e0%a5%80) | N/A |
+| 21 | [D. Fluorite AG Glass](http://twitter.com/search?q=D.+Fluorite+AG+Glass) | N/A |
+| 22 | [Cambridge](http://twitter.com/search?q=Cambridge) | N/A |
+| 23 | [Bill Gates](http://twitter.com/search?q=Bill+Gates) | N/A |
+| 24 | [Zurvan](http://twitter.com/search?q=Zurvan) | N/A |
+| 25 | [Stalin](http://twitter.com/search?q=Stalin) | N/A |
+| 26 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 27 | [पीस कमेटी](http://twitter.com/search?q=%e0%a4%aa%e0%a5%80%e0%a4%b8+%e0%a4%95%e0%a4%ae%e0%a5%87%e0%a4%9f%e0%a5%80) | N/A |
+| 28 | [कबीर सागर](http://twitter.com/search?q=%e0%a4%95%e0%a4%ac%e0%a5%80%e0%a4%b0+%e0%a4%b8%e0%a4%be%e0%a4%97%e0%a4%b0) | N/A |
+| 29 | [Kapil Sharma](http://twitter.com/search?q=Kapil+Sharma) | N/A |
 | 30 | [3rd March](http://twitter.com/search?q=3rd+March) | N/A |
-| 31 | [#TwitterDown](http://twitter.com/search?q=%23TwitterDown) | N/A |
-| 32 | [#MissShettyMrPolishetty](http://twitter.com/search?q=%23MissShettyMrPolishetty) | N/A |
-| 33 | [#on_the_street](http://twitter.com/search?q=%23on_the_street) | N/A |
-| 34 | [#RoohBaba](http://twitter.com/search?q=%23RoohBaba) | N/A |
-| 35 | [#PSL08](http://twitter.com/search?q=%23PSL08) | N/A |
-| 36 | [#JanaSenaFormationDay](http://twitter.com/search?q=%23JanaSenaFormationDay) | N/A |
-| 37 | [#AneesBazmee](http://twitter.com/search?q=%23AneesBazmee) | N/A |
-| 38 | [#Mysskin](http://twitter.com/search?q=%23Mysskin) | N/A |
-| 39 | [#MPBudget2023](http://twitter.com/search?q=%23MPBudget2023) | N/A |
-| 40 | [#9Months_WithoutJustice](http://twitter.com/search?q=%239Months_WithoutJustice) | N/A |
-| 41 | [#raj_cha_want_job](http://twitter.com/search?q=%23raj_cha_want_job) | N/A |
-| 42 | [#TheSpotlightPhone](http://twitter.com/search?q=%23TheSpotlightPhone) | N/A |
-| 43 | [#vivoV27Series](http://twitter.com/search?q=%23vivoV27Series) | N/A |
-| 44 | [#AnushkaShetty](http://twitter.com/search?q=%23AnushkaShetty) | N/A |
-| 45 | [#V27Progiveaway](http://twitter.com/search?q=%23V27Progiveaway) | N/A |
-| 46 | [#KartikAaryan𓃵](http://twitter.com/search?q=%23KartikAaryan%f0%93%83%b5) | N/A |
-| 47 | [#ZwigatoTrailer](http://twitter.com/search?q=%23ZwigatoTrailer) | N/A |
-| 48 | [#sliceluckyday](http://twitter.com/search?q=%23sliceluckyday) | N/A |
+| 31 | [कबीर वाणी](http://twitter.com/search?q=%e0%a4%95%e0%a4%ac%e0%a5%80%e0%a4%b0+%e0%a4%b5%e0%a4%be%e0%a4%a3%e0%a5%80) | N/A |
+| 32 | [मुख्यमंत्री श्री नीतीश कुमार](http://twitter.com/search?q=%e0%a4%ae%e0%a5%81%e0%a4%96%e0%a5%8d%e0%a4%af%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%a8%e0%a5%80%e0%a4%a4%e0%a5%80%e0%a4%b6+%e0%a4%95%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%b0) | N/A |
+| 33 | [कैंब्रिज यूनिवर्सिटी](http://twitter.com/search?q=%e0%a4%95%e0%a5%88%e0%a4%82%e0%a4%ac%e0%a5%8d%e0%a4%b0%e0%a4%bf%e0%a4%9c+%e0%a4%af%e0%a5%82%e0%a4%a8%e0%a4%bf%e0%a4%b5%e0%a4%b0%e0%a5%8d%e0%a4%b8%e0%a4%bf%e0%a4%9f%e0%a5%80) | N/A |
+| 34 | [teaser](http://twitter.com/search?q=teaser) | N/A |
+| 35 | [#wolf777lottery](http://twitter.com/search?q=%23wolf777lottery) | N/A |
+| 36 | [#on_the_street](http://twitter.com/search?q=%23on_the_street) | N/A |
+| 37 | [#MissShettyMrPolishetty](http://twitter.com/search?q=%23MissShettyMrPolishetty) | N/A |
+| 38 | [#PZvKK](http://twitter.com/search?q=%23PZvKK) | N/A |
+| 39 | [#TwitterDown](http://twitter.com/search?q=%23TwitterDown) | N/A |
+| 40 | [#AneesBazmee](http://twitter.com/search?q=%23AneesBazmee) | N/A |
+| 41 | [#PSL08](http://twitter.com/search?q=%23PSL08) | N/A |
+| 42 | [#raj_cha_want_job](http://twitter.com/search?q=%23raj_cha_want_job) | N/A |
+| 43 | [#RoohBaba](http://twitter.com/search?q=%23RoohBaba) | N/A |
+| 44 | [#JANASENAFormationDay](http://twitter.com/search?q=%23JANASENAFormationDay) | N/A |
+| 45 | [#TheSpotlightPhone](http://twitter.com/search?q=%23TheSpotlightPhone) | N/A |
+| 46 | [#9months_withoutjustice](http://twitter.com/search?q=%239months_withoutjustice) | N/A |
+| 47 | [#V27Progiveaway](http://twitter.com/search?q=%23V27Progiveaway) | N/A |
+| 48 | [#vivoV27Series](http://twitter.com/search?q=%23vivoV27Series) | N/A |
 | 49 | [#MoonlightChickenEP7](http://twitter.com/search?q=%23MoonlightChickenEP7) | N/A |
-| 50 | [#NirangalMoondru](http://twitter.com/search?q=%23NirangalMoondru) | N/A |
+| 50 | [#Gamla_Chor](http://twitter.com/search?q=%23Gamla_Chor) | N/A |
 
 
 

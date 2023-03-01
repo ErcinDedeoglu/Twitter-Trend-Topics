@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bristol
 
-📆 Last Updated: `2023-03-01 15:15:59 UTC`
+📆 Last Updated: `2023-03-01 16:16:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Stephen Flynn](http://twitter.com/search?q=Stephen+Flynn) | N/A |
+| 1 | [Welcome to Twitter](http://twitter.com/search?q=Welcome+to+Twitter) | N/A |
 | 2 | [#Grogu](http://twitter.com/search?q=%23Grogu) | N/A |
-| 3 | [#loosewomen](http://twitter.com/search?q=%23loosewomen) | N/A |
-| 4 | [#Covid](http://twitter.com/search?q=%23Covid) | N/A |
-| 5 | [Grimsby](http://twitter.com/search?q=Grimsby) | N/A |
-| 6 | [#construction](http://twitter.com/search?q=%23construction) | N/A |
-| 7 | [King Charles](http://twitter.com/search?q=King+Charles) | N/A |
-| 8 | [#popmaster](http://twitter.com/search?q=%23popmaster) | N/A |
-| 9 | [Banks](http://twitter.com/search?q=Banks) | N/A |
-| 10 | [St David](http://twitter.com/search?q=St+David) | N/A |
-| 11 | [Welsh](http://twitter.com/search?q=Welsh) | Welsh is a Celtic language spoken in Wales, a country in the United Kingdom. It is closely related to Cornish and Breton, two other Celtic languages. The Welsh language has its own unique alphabet and grammar, and is an official language of Wales. Its meaning in English is "of or relating to Wales or its people, language, or culture". |
-| 12 | [Hancock](http://twitter.com/search?q=Hancock) | N/A |
-| 13 | [Malan](http://twitter.com/search?q=Malan) | N/A |
+| 3 | [#March1st](http://twitter.com/search?q=%23March1st) | N/A |
+| 4 | [#ToriesOut237](http://twitter.com/search?q=%23ToriesOut237) | N/A |
+| 5 | [Wakefield](http://twitter.com/search?q=Wakefield) | N/A |
+| 6 | [King Charles](http://twitter.com/search?q=King+Charles) | N/A |
+| 7 | [#construction](http://twitter.com/search?q=%23construction) | N/A |
+| 8 | [#PayUp](http://twitter.com/search?q=%23PayUp) | N/A |
+| 9 | [St David](http://twitter.com/search?q=St+David) | N/A |
+| 10 | [Welsh](http://twitter.com/search?q=Welsh) | Welsh is a Celtic language spoken in Wales, a country in the United Kingdom. It is closely related to Cornish and Breton, two other Celtic languages. The Welsh language has its own unique alphabet and grammar, and is an official language of Wales. Its meaning in English is "of or relating to Wales or its people, language, or culture". |
+| 11 | [Hancock](http://twitter.com/search?q=Hancock) | N/A |
+| 12 | [Goodwin](http://twitter.com/search?q=Goodwin) | Goodwin is a surname of English origin. It is derived from the Old English words "god" and "wine," meaning "friend of God." The name was originally used to denote someone who was pious or devoted to God. |
+| 13 | [Dawid Malan](http://twitter.com/search?q=Dawid+Malan) | N/A |
 | 14 | [Pikamee](http://twitter.com/search?q=Pikamee) | N/A |
 | 15 | [Frogmore Cottage](http://twitter.com/search?q=Frogmore+Cottage) | N/A |
-| 16 | [Harry and Meghan](http://twitter.com/search?q=Harry+and+Meghan) | N/A |
-| 17 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
-| 18 | [Helen Whately](http://twitter.com/search?q=Helen+Whately) | Helen Whately is a British politician who has been the Member of Parliament (MP) for Faversham and Mid Kent since 2015. She is a member of the Conservative Party and currently serves as Minister of State for Care in the Department of Health and Social Care. |
-| 19 | [Goodwin](http://twitter.com/search?q=Goodwin) | Goodwin is a surname of English origin. It is derived from the Old English words "god" and "wine," meaning "friend of God." The name was originally used to denote someone who was pious or devoted to God. |
-| 20 | [Welcome to Twitter](http://twitter.com/search?q=Welcome+to+Twitter) | N/A |
-| 21 | [Isabel Oakeshott](http://twitter.com/search?q=Isabel+Oakeshott) | N/A |
-| 22 | [Sarah Vine](http://twitter.com/search?q=Sarah+Vine) | N/A |
-| 23 | [Year 6](http://twitter.com/search?q=Year+6) | N/A |
-| 24 | [Just Fontaine](http://twitter.com/search?q=Just+Fontaine) | N/A |
-| 25 | [Telegraph](http://twitter.com/search?q=Telegraph) | N/A |
-| 26 | [Post Malone](http://twitter.com/search?q=Post+Malone) | N/A |
-| 27 | [Eisteddfod](http://twitter.com/search?q=Eisteddfod) | N/A |
-| 28 | [Prince Andrew](http://twitter.com/search?q=Prince+Andrew) | N/A |
+| 16 | [Meghan](http://twitter.com/search?q=Meghan) | N/A |
+| 17 | [Helen Whately](http://twitter.com/search?q=Helen+Whately) | Helen Whately is a British politician who has been the Member of Parliament (MP) for Faversham and Mid Kent since 2015. She is a member of the Conservative Party and currently serves as Minister of State for Care in the Department of Health and Social Care. |
+| 18 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
+| 19 | [Just Fontaine](http://twitter.com/search?q=Just+Fontaine) | N/A |
+| 20 | [Dydd Gŵyl Dewi Hapus](http://twitter.com/search?q=Dydd+G%c5%b5yl+Dewi+Hapus) | N/A |
+| 21 | [Big John](http://twitter.com/search?q=Big+John) | N/A |
+| 22 | [Year 2](http://twitter.com/search?q=Year+2) | N/A |
+| 23 | [Sarah Vine](http://twitter.com/search?q=Sarah+Vine) | N/A |
+| 24 | [Eisteddfod](http://twitter.com/search?q=Eisteddfod) | N/A |
+| 25 | [Isabel Oakeshott](http://twitter.com/search?q=Isabel+Oakeshott) | N/A |
+| 26 | [Prince Andrew](http://twitter.com/search?q=Prince+Andrew) | N/A |
+| 27 | [International Women's Day](http://twitter.com/search?q=International+Women%27s+Day) | N/A |
+| 28 | [Ed Sheeran](http://twitter.com/search?q=Ed+Sheeran) | N/A |
 | 29 | [Entered](http://twitter.com/search?q=Entered) | N/A |
-| 30 | [Ed Sheeran](http://twitter.com/search?q=Ed+Sheeran) | N/A |
-| 31 | [Pogba](http://twitter.com/search?q=Pogba) | Pogba is a nickname for the French professional footballer Paul Pogba. It is derived from his last name and is often used as a term of endearment by his fans. |
-| 32 | [Balogun](http://twitter.com/search?q=Balogun) | Balogun is a Nigerian title of nobility, usually given to a warrior or leader. It is derived from the Yoruba language and means "commander of the army". |
-| 33 | [International Women's Day](http://twitter.com/search?q=International+Women%27s+Day) | N/A |
-| 34 | [Spring](http://twitter.com/search?q=Spring) | N/A |
-| 35 | [Gove](http://twitter.com/search?q=Gove) | Gove is a surname of English origin. It is derived from the Old English word "gof," meaning "a smith or metalworker." The name is most commonly found in the United Kingdom, particularly in the counties of Devon and Cornwall. |
-| 36 | [Our March](http://twitter.com/search?q=Our+March) | N/A |
-| 37 | [For You](http://twitter.com/search?q=For+You) | N/A |
-| 38 | [Whitty](http://twitter.com/search?q=Whitty) | N/A |
-| 39 | [Richard Tice](http://twitter.com/search?q=Richard+Tice) | N/A |
-| 40 | [Susie](http://twitter.com/search?q=Susie) | N/A |
-| 41 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
-| 42 | [Midazolam](http://twitter.com/search?q=Midazolam) | N/A |
-| 43 | [My Twitter](http://twitter.com/search?q=My+Twitter) | N/A |
-| 44 | [Allan](http://twitter.com/search?q=Allan) | N/A |
-| 45 | [Stranger Things](http://twitter.com/search?q=Stranger+Things) | N/A |
-| 46 | [Diolch](http://twitter.com/search?q=Diolch) | N/A |
-| 47 | [Deport](http://twitter.com/search?q=Deport) | N/A |
-| 48 | [Nursery](http://twitter.com/search?q=Nursery) | N/A |
-| 49 | [Daily Quordle 401](http://twitter.com/search?q=Daily+Quordle+401) | N/A |
-| 50 | [#SaveOurSchools](http://twitter.com/search?q=%23SaveOurSchools) | N/A |
+| 30 | [Stephen Flynn](http://twitter.com/search?q=Stephen+Flynn) | N/A |
+| 31 | [Whitty](http://twitter.com/search?q=Whitty) | N/A |
+| 32 | [Telegraph](http://twitter.com/search?q=Telegraph) | N/A |
+| 33 | [Post Malone](http://twitter.com/search?q=Post+Malone) | N/A |
+| 34 | [Sean Penn](http://twitter.com/search?q=Sean+Penn) | N/A |
+| 35 | [Pogba](http://twitter.com/search?q=Pogba) | Pogba is a nickname for the French professional footballer Paul Pogba. It is derived from his last name and is often used as a term of endearment by his fans. |
+| 36 | [Gove](http://twitter.com/search?q=Gove) | Gove is a surname of English origin. It is derived from the Old English word "gof," meaning "a smith or metalworker." The name is most commonly found in the United Kingdom, particularly in the counties of Devon and Cornwall. |
+| 37 | [Midazolam](http://twitter.com/search?q=Midazolam) | N/A |
+| 38 | [Balogun](http://twitter.com/search?q=Balogun) | Balogun is a Nigerian title of nobility, usually given to a warrior or leader. It is derived from the Yoruba language and means "commander of the army". |
+| 39 | [Susie](http://twitter.com/search?q=Susie) | N/A |
+| 40 | [Levein](http://twitter.com/search?q=Levein) | N/A |
+| 41 | [Diolch](http://twitter.com/search?q=Diolch) | N/A |
+| 42 | [Grimsby](http://twitter.com/search?q=Grimsby) | N/A |
+| 43 | [Stranger Things](http://twitter.com/search?q=Stranger+Things) | N/A |
+| 44 | [My Twitter](http://twitter.com/search?q=My+Twitter) | N/A |
+| 45 | [Allan](http://twitter.com/search?q=Allan) | N/A |
+| 46 | [Constance Marten](http://twitter.com/search?q=Constance+Marten) | N/A |
+| 47 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
+| 48 | [Daily Quordle 401](http://twitter.com/search?q=Daily+Quordle+401) | N/A |
+| 49 | [Deport](http://twitter.com/search?q=Deport) | N/A |
+| 50 | [Richard Tice](http://twitter.com/search?q=Richard+Tice) | N/A |
 
 
 

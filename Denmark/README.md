@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-03-01 15:16:49 UTC`
+📆 Last Updated: `2023-03-01 16:17:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for Denmark
 | 2 | [#dkgreen](http://twitter.com/search?q=%23dkgreen) | N/A |
 | 3 | [Store Bededag](http://twitter.com/search?q=Store+Bededag) | N/A |
 | 4 | [#Health4Wellbeing](http://twitter.com/search?q=%23Health4Wellbeing) | N/A |
-| 5 | [jesper sørensen](http://twitter.com/search?q=jesper+s%c3%b8rensen) | N/A |
-| 6 | [#arbejde](http://twitter.com/search?q=%23arbejde) | N/A |
-| 7 | [#OK23](http://twitter.com/search?q=%23OK23) | N/A |
-| 8 | [Minteh](http://twitter.com/search?q=Minteh) | N/A |
-| 9 | [Blas](http://twitter.com/search?q=Blas) | N/A |
-| 10 | [wass](http://twitter.com/search?q=wass) | N/A |
-| 11 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 12 | [Paludan](http://twitter.com/search?q=Paludan) | N/A |
-| 13 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
-| 14 | [Winther](http://twitter.com/search?q=Winther) | N/A |
-| 15 | [Klimarådet](http://twitter.com/search?q=Klimar%c3%a5det) | N/A |
-| 16 | [Troels](http://twitter.com/search?q=Troels) | N/A |
+| 5 | [#arbejde](http://twitter.com/search?q=%23arbejde) | N/A |
+| 6 | [#OK23](http://twitter.com/search?q=%23OK23) | N/A |
+| 7 | [Minteh](http://twitter.com/search?q=Minteh) | N/A |
+| 8 | [Paludan](http://twitter.com/search?q=Paludan) | N/A |
+| 9 | [wass](http://twitter.com/search?q=wass) | N/A |
+| 10 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 11 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
+| 12 | [winther](http://twitter.com/search?q=winther) | N/A |
+| 13 | [Klimarådet](http://twitter.com/search?q=Klimar%c3%a5det) | N/A |
+| 14 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 15 | [Troels](http://twitter.com/search?q=Troels) | N/A |
+| 16 | [Roskilde](http://twitter.com/search?q=Roskilde) | N/A |
 | 17 | [Zulu](http://twitter.com/search?q=Zulu) | N/A |
 | 18 | [Schweiz](http://twitter.com/search?q=Schweiz) | N/A |
-| 19 | [Roskilde](http://twitter.com/search?q=Roskilde) | N/A |
-| 20 | [Iceland](http://twitter.com/search?q=Iceland) | N/A |
-| 21 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
-| 22 | [aarhus fremad](http://twitter.com/search?q=aarhus+fremad) | N/A |
-| 23 | [tshiembe](http://twitter.com/search?q=tshiembe) | N/A |
-| 24 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 25 | [schwartau](http://twitter.com/search?q=schwartau) | N/A |
-| 26 | [isaksen](http://twitter.com/search?q=isaksen) | N/A |
-| 27 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
-| 28 | [Xbox](http://twitter.com/search?q=Xbox) | N/A |
-| 29 | [Nordic](http://twitter.com/search?q=Nordic) | N/A |
-| 30 | [hedlund](http://twitter.com/search?q=hedlund) | N/A |
-| 31 | [kvistgaarden](http://twitter.com/search?q=kvistgaarden) | N/A |
-| 32 | [Transnistrien](http://twitter.com/search?q=Transnistrien) | N/A |
-| 33 | [rockwool](http://twitter.com/search?q=rockwool) | N/A |
-| 34 | [vallys](http://twitter.com/search?q=vallys) | N/A |
-| 35 | [PFAS](http://twitter.com/search?q=PFAS) | N/A |
-| 36 | [Socialdemokratiet](http://twitter.com/search?q=Socialdemokratiet) | N/A |
-| 37 | [Regeringen](http://twitter.com/search?q=Regeringen) | N/A |
-| 38 | [Brøndby](http://twitter.com/search?q=Br%c3%b8ndby) | N/A |
-| 39 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
-| 40 | [Enhedslisten](http://twitter.com/search?q=Enhedslisten) | N/A |
-| 41 | [Sandt](http://twitter.com/search?q=Sandt) | N/A |
-| 42 | [evjen](http://twitter.com/search?q=evjen) | N/A |
-| 43 | [Slimane](http://twitter.com/search?q=Slimane) | N/A |
-| 44 | [the eu](http://twitter.com/search?q=the+eu) | N/A |
-| 45 | [Forsvaret](http://twitter.com/search?q=Forsvaret) | N/A |
-| 46 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
-| 47 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 48 | [The US](http://twitter.com/search?q=The+US) | N/A |
-| 49 | [Danmarks](http://twitter.com/search?q=Danmarks) | N/A |
-| 50 | [Slagelse](http://twitter.com/search?q=Slagelse) | N/A |
+| 19 | [Iceland](http://twitter.com/search?q=Iceland) | N/A |
+| 20 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
+| 21 | [aarhus fremad](http://twitter.com/search?q=aarhus+fremad) | N/A |
+| 22 | [Parken](http://twitter.com/search?q=Parken) | N/A |
+| 23 | [schwartau](http://twitter.com/search?q=schwartau) | N/A |
+| 24 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
+| 25 | [isaksen](http://twitter.com/search?q=isaksen) | N/A |
+| 26 | [Xbox](http://twitter.com/search?q=Xbox) | N/A |
+| 27 | [Nordic](http://twitter.com/search?q=Nordic) | N/A |
+| 28 | [hedlund](http://twitter.com/search?q=hedlund) | N/A |
+| 29 | [kvistgaarden](http://twitter.com/search?q=kvistgaarden) | N/A |
+| 30 | [Transnistrien](http://twitter.com/search?q=Transnistrien) | N/A |
+| 31 | [Vallys](http://twitter.com/search?q=Vallys) | N/A |
+| 32 | [rockwool](http://twitter.com/search?q=rockwool) | N/A |
+| 33 | [Søren](http://twitter.com/search?q=S%c3%b8ren) | N/A |
+| 34 | [PFAS](http://twitter.com/search?q=PFAS) | N/A |
+| 35 | [Socialdemokratiet](http://twitter.com/search?q=Socialdemokratiet) | N/A |
+| 36 | [Brøndby](http://twitter.com/search?q=Br%c3%b8ndby) | N/A |
+| 37 | [Enhedslisten](http://twitter.com/search?q=Enhedslisten) | N/A |
+| 38 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
+| 39 | [Simon](http://twitter.com/search?q=Simon) | N/A |
+| 40 | [Sandt](http://twitter.com/search?q=Sandt) | N/A |
+| 41 | [evjen](http://twitter.com/search?q=evjen) | N/A |
+| 42 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
+| 43 | [Regeringen](http://twitter.com/search?q=Regeringen) | N/A |
+| 44 | [Slimane](http://twitter.com/search?q=Slimane) | N/A |
+| 45 | [The EU](http://twitter.com/search?q=The+EU) | N/A |
+| 46 | [Esbjerg](http://twitter.com/search?q=Esbjerg) | N/A |
+| 47 | [Forsvaret](http://twitter.com/search?q=Forsvaret) | N/A |
+| 48 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
+| 49 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 50 | [Danmarks](http://twitter.com/search?q=Danmarks) | N/A |
 
 
 
