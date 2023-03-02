@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Germany
 
-📆 Last Updated: `2023-03-02 07:16:56 UTC`
+📆 Last Updated: `2023-03-02 08:17:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Germany
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#KlamrothLügt](http://twitter.com/search?q=%23KlamrothL%c3%bcgt) | N/A |
+| 1 | [#KlamrothLuegt](http://twitter.com/search?q=%23KlamrothLuegt) | N/A |
 | 2 | [#bachelor](http://twitter.com/search?q=%23bachelor) | N/A |
-| 3 | [JCOLE](http://twitter.com/search?q=JCOLE) | N/A |
-| 4 | [#Giffey](http://twitter.com/search?q=%23Giffey) | N/A |
-| 5 | [Vizefreitag](http://twitter.com/search?q=Vizefreitag) | N/A |
-| 6 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
-| 7 | [#AktenzeichenXY](http://twitter.com/search?q=%23AktenzeichenXY) | N/A |
-| 8 | [Schönen Donnerstag](http://twitter.com/search?q=Sch%c3%b6nen+Donnerstag) | N/A |
-| 9 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
-| 10 | [Koalition](http://twitter.com/search?q=Koalition) | N/A |
-| 11 | [Außenpolitik](http://twitter.com/search?q=Au%c3%9fenpolitik) | N/A |
-| 12 | [Heizungen](http://twitter.com/search?q=Heizungen) | N/A |
-| 13 | [Nebel](http://twitter.com/search?q=Nebel) | N/A |
+| 3 | [#Giffey](http://twitter.com/search?q=%23Giffey) | N/A |
+| 4 | [Vizefreitag](http://twitter.com/search?q=Vizefreitag) | N/A |
+| 5 | [#eFuels](http://twitter.com/search?q=%23eFuels) | N/A |
+| 6 | [#AktenzeichenXY](http://twitter.com/search?q=%23AktenzeichenXY) | N/A |
+| 7 | [Schönen Donnerstag](http://twitter.com/search?q=Sch%c3%b6nen+Donnerstag) | N/A |
+| 8 | [Außenpolitik](http://twitter.com/search?q=Au%c3%9fenpolitik) | N/A |
+| 9 | [Koalition](http://twitter.com/search?q=Koalition) | N/A |
+| 10 | [JCOLE](http://twitter.com/search?q=JCOLE) | N/A |
+| 11 | [Heizungen](http://twitter.com/search?q=Heizungen) | N/A |
+| 12 | [Nebel](http://twitter.com/search?q=Nebel) | N/A |
+| 13 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
 | 14 | [Vergewaltigungen](http://twitter.com/search?q=Vergewaltigungen) | N/A |
-| 15 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
-| 16 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 17 | [wochenteiler](http://twitter.com/search?q=wochenteiler) | N/A |
-| 18 | [Jahre Berufserfahrung](http://twitter.com/search?q=Jahre+Berufserfahrung) | N/A |
-| 19 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
-| 20 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
-| 21 | [Wärmepumpe](http://twitter.com/search?q=W%c3%a4rmepumpe) | N/A |
-| 22 | [Kriegsverbrechen](http://twitter.com/search?q=Kriegsverbrechen) | N/A |
-| 23 | [Maske](http://twitter.com/search?q=Maske) | N/A |
-| 24 | [Moderator](http://twitter.com/search?q=Moderator) | N/A |
-| 25 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
-| 26 | [Cevi](http://twitter.com/search?q=Cevi) | N/A |
-| 27 | [Start in den Tag](http://twitter.com/search?q=Start+in+den+Tag) | N/A |
-| 28 | [JHOPE](http://twitter.com/search?q=JHOPE) | N/A |
-| 29 | [GuMo](http://twitter.com/search?q=GuMo) | N/A |
-| 30 | [Habt den Tag](http://twitter.com/search?q=Habt+den+Tag) | N/A |
-| 31 | [pika](http://twitter.com/search?q=pika) | N/A |
-| 32 | [Seenotrettung](http://twitter.com/search?q=Seenotrettung) | N/A |
-| 33 | [Nuhr](http://twitter.com/search?q=Nuhr) | N/A |
-| 34 | [Strom](http://twitter.com/search?q=Strom) | N/A |
-| 35 | [Moin Tom](http://twitter.com/search?q=Moin+Tom) | N/A |
-| 36 | [Feiertag](http://twitter.com/search?q=Feiertag) | Feiertag is a German word meaning "holiday" or "celebration day". It is used to refer to any day that is set aside for special observance, such as a national holiday, religious holiday, or other special occasion. |
-| 37 | [Yfood](http://twitter.com/search?q=Yfood) | N/A |
-| 38 | [Guten Morgen Swen](http://twitter.com/search?q=Guten+Morgen+Swen) | N/A |
-| 39 | [Guten Morgen Maria](http://twitter.com/search?q=Guten+Morgen+Maria) | N/A |
-| 40 | [Bundesrat](http://twitter.com/search?q=Bundesrat) | N/A |
-| 41 | [Berliner SPD](http://twitter.com/search?q=Berliner+SPD) | N/A |
-| 42 | [Wunderschönen](http://twitter.com/search?q=Wundersch%c3%b6nen) | N/A |
-| 43 | [frühlingsanfang](http://twitter.com/search?q=fr%c3%bchlingsanfang) | N/A |
-| 44 | [Frau Deutschlands](http://twitter.com/search?q=Frau+Deutschlands) | N/A |
-| 45 | [Zellhaufen](http://twitter.com/search?q=Zellhaufen) | N/A |
-| 46 | [Moin Klaus](http://twitter.com/search?q=Moin+Klaus) | N/A |
-| 47 | [5M BUILD](http://twitter.com/search?q=5M+BUILD) | N/A |
-| 48 | [Guten Morgen Dieter](http://twitter.com/search?q=Guten+Morgen+Dieter) | N/A |
-| 49 | [Uhren](http://twitter.com/search?q=Uhren) | N/A |
-| 50 | [schönen mittwoch](http://twitter.com/search?q=sch%c3%b6nen+mittwoch) | N/A |
+| 15 | [Jahre Berufserfahrung](http://twitter.com/search?q=Jahre+Berufserfahrung) | N/A |
+| 16 | [GuMo](http://twitter.com/search?q=GuMo) | N/A |
+| 17 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
+| 18 | [wochenteiler](http://twitter.com/search?q=wochenteiler) | N/A |
+| 19 | [Kriegsverbrechen](http://twitter.com/search?q=Kriegsverbrechen) | N/A |
+| 20 | [Maske](http://twitter.com/search?q=Maske) | N/A |
+| 21 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
+| 22 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
+| 23 | [Moderator](http://twitter.com/search?q=Moderator) | N/A |
+| 24 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
+| 25 | [Wärmepumpe](http://twitter.com/search?q=W%c3%a4rmepumpe) | N/A |
+| 26 | [Bundesrat](http://twitter.com/search?q=Bundesrat) | N/A |
+| 27 | [Feiertag](http://twitter.com/search?q=Feiertag) | Feiertag is a German word meaning "holiday" or "celebration day". It is used to refer to any day that is set aside for special observance, such as a national holiday, religious holiday, or other special occasion. |
+| 28 | [Strom](http://twitter.com/search?q=Strom) | N/A |
+| 29 | [Berliner SPD](http://twitter.com/search?q=Berliner+SPD) | N/A |
+| 30 | [Yfood](http://twitter.com/search?q=Yfood) | N/A |
+| 31 | [Start in den Tag](http://twitter.com/search?q=Start+in+den+Tag) | N/A |
+| 32 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 33 | [Seenotrettung](http://twitter.com/search?q=Seenotrettung) | N/A |
+| 34 | [Wunderschönen](http://twitter.com/search?q=Wundersch%c3%b6nen) | N/A |
+| 35 | [Frau Deutschlands](http://twitter.com/search?q=Frau+Deutschlands) | N/A |
+| 36 | [Guten Morgen Wolfgang](http://twitter.com/search?q=Guten+Morgen+Wolfgang) | N/A |
+| 37 | [Jusos](http://twitter.com/search?q=Jusos) | N/A |
+| 38 | [Uhren](http://twitter.com/search?q=Uhren) | N/A |
+| 39 | [Moin](http://twitter.com/search?q=Moin) | N/A |
+| 40 | [schönen mittwoch](http://twitter.com/search?q=sch%c3%b6nen+mittwoch) | N/A |
+| 41 | [Iggy Pop](http://twitter.com/search?q=Iggy+Pop) | N/A |
+| 42 | [pika](http://twitter.com/search?q=pika) | N/A |
+| 43 | [Zellhaufen](http://twitter.com/search?q=Zellhaufen) | N/A |
+| 44 | [Guten Morgen Rainer](http://twitter.com/search?q=Guten+Morgen+Rainer) | N/A |
+| 45 | [5M BUILD](http://twitter.com/search?q=5M+BUILD) | N/A |
+| 46 | [Faktencheck](http://twitter.com/search?q=Faktencheck) | N/A |
+| 47 | [JHOPE](http://twitter.com/search?q=JHOPE) | N/A |
+| 48 | [Guten Morgen Chris](http://twitter.com/search?q=Guten+Morgen+Chris) | N/A |
+| 49 | [Schwarz-Rot](http://twitter.com/search?q=Schwarz-Rot) | N/A |
+| 50 | [Guten Morgen Daniel](http://twitter.com/search?q=Guten+Morgen+Daniel) | N/A |
 
 
 

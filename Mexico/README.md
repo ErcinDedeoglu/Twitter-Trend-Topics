@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico
 
-📆 Last Updated: `2023-03-02 07:16:58 UTC`
+📆 Last Updated: `2023-03-02 08:17:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,44 @@ This is top 50 for Mexico
 | 2 | [PARA NO VERTE MÁS](http://twitter.com/search?q=PARA+NO+VERTE+M%c3%81S) | N/A |
 | 3 | [J COLE](http://twitter.com/search?q=J+COLE) | N/A |
 | 4 | [#Temblor](http://twitter.com/search?q=%23Temblor) | N/A |
-| 5 | [Unión Hidalgo](http://twitter.com/search?q=Uni%c3%b3n+Hidalgo) | N/A |
-| 6 | [#BBWomenInMusic](http://twitter.com/search?q=%23BBWomenInMusic) | N/A |
-| 7 | [jihyo](http://twitter.com/search?q=jihyo) | Jihyo is a Korean given name, usually for females. It is composed of two characters, the first meaning "wisdom" and the second meaning "beauty". In English, it can be translated to mean "wise beauty". |
+| 5 | [ON THE STREET IS COMING](http://twitter.com/search?q=ON+THE+STREET+IS+COMING) | N/A |
+| 6 | [jihyo](http://twitter.com/search?q=jihyo) | Jihyo is a Korean given name, usually for females. It is composed of two characters, the first meaning "wisdom" and the second meaning "beauty". In English, it can be translated to mean "wise beauty". |
+| 7 | [#BBWomenInMusic](http://twitter.com/search?q=%23BBWomenInMusic) | N/A |
 | 8 | [#TWICE_BreakthroughAward](http://twitter.com/search?q=%23TWICE_BreakthroughAward) | N/A |
 | 9 | [Oaxaca](http://twitter.com/search?q=Oaxaca) | N/A |
 | 10 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
 | 11 | [#MedallaVaronil](http://twitter.com/search?q=%23MedallaVaronil) | N/A |
-| 12 | [TWICE BILLBOARD AWARD](http://twitter.com/search?q=TWICE+BILLBOARD+AWARD) | N/A |
-| 13 | [Thalia](http://twitter.com/search?q=Thalia) | N/A |
-| 14 | [Alfredo Adame](http://twitter.com/search?q=Alfredo+Adame) | Alfredo Adame is a Mexican actor, comedian, and television host. He is best known for his roles in the television series El Chavo del Ocho and El Chapulín Colorado. In English, the name Alfredo Adame means "Protector of the People". |
-| 15 | [Creel](http://twitter.com/search?q=Creel) | N/A |
-| 16 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
-| 17 | [Gloria Trevi](http://twitter.com/search?q=Gloria+Trevi) | N/A |
+| 12 | [Alfredo Adame](http://twitter.com/search?q=Alfredo+Adame) | Alfredo Adame is a Mexican actor, comedian, and television host. He is best known for his roles in the television series El Chavo del Ocho and El Chapulín Colorado. In English, the name Alfredo Adame means "Protector of the People". |
+| 13 | [Creel](http://twitter.com/search?q=Creel) | N/A |
+| 14 | [GLORIA TREVI](http://twitter.com/search?q=GLORIA+TREVI) | N/A |
+| 15 | [Samuel García](http://twitter.com/search?q=Samuel+Garc%c3%ada) | N/A |
+| 16 | [all of the girls](http://twitter.com/search?q=all+of+the+girls) | N/A |
+| 17 | [TWICE BILLBOARD AWARD](http://twitter.com/search?q=TWICE+BILLBOARD+AWARD) | N/A |
 | 18 | [María Sabina](http://twitter.com/search?q=Mar%c3%ada+Sabina) | N/A |
-| 19 | [Samuel García](http://twitter.com/search?q=Samuel+Garc%c3%ada) | N/A |
-| 20 | [all of the girls](http://twitter.com/search?q=all+of+the+girls) | N/A |
-| 21 | [Villahermosa](http://twitter.com/search?q=Villahermosa) | N/A |
-| 22 | [Salina Cruz](http://twitter.com/search?q=Salina+Cruz) | N/A |
-| 23 | [Herrera](http://twitter.com/search?q=Herrera) | Herrera is a Spanish surname derived from the Latin word ferreus, meaning "iron". It is also a common given name in Spanish-speaking countries. In English, Herrera can be translated to mean "ironworker" or "blacksmith". |
-| 24 | [Logro](http://twitter.com/search?q=Logro) | N/A |
-| 25 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
-| 26 | [Agua de Jamaica](http://twitter.com/search?q=Agua+de+Jamaica) | N/A |
-| 27 | [Edmundo Jacobo](http://twitter.com/search?q=Edmundo+Jacobo) | N/A |
-| 28 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 29 | [Marzo con M](http://twitter.com/search?q=Marzo+con+M) | N/A |
-| 30 | [Komanche](http://twitter.com/search?q=Komanche) | N/A |
-| 31 | [Santiago](http://twitter.com/search?q=Santiago) | N/A |
-| 32 | [SOOBIN](http://twitter.com/search?q=SOOBIN) | SOOBIN is a Korean name, derived from the Chinese characters for "protection" and "beauty". It can be translated to mean "protected beauty" in English. |
-| 33 | [Denunciado](http://twitter.com/search?q=Denunciado) | N/A |
-| 34 | [nayeon](http://twitter.com/search?q=nayeon) | N/A |
-| 35 | [Lover](http://twitter.com/search?q=Lover) | N/A |
-| 36 | [tina](http://twitter.com/search?q=tina) | N/A |
-| 37 | [Ministra Piña](http://twitter.com/search?q=Ministra+Pi%c3%b1a) | N/A |
-| 38 | [Chiapas](http://twitter.com/search?q=Chiapas) | N/A |
-| 39 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
-| 40 | [Petro](http://twitter.com/search?q=Petro) | N/A |
-| 41 | [Mentirosa](http://twitter.com/search?q=Mentirosa) | N/A |
-| 42 | [Coca Cola](http://twitter.com/search?q=Coca+Cola) | N/A |
-| 43 | [Ensenada](http://twitter.com/search?q=Ensenada) | N/A |
-| 44 | [Ministra Norma Piña](http://twitter.com/search?q=Ministra+Norma+Pi%c3%b1a) | N/A |
-| 45 | [Chayanne](http://twitter.com/search?q=Chayanne) | N/A |
-| 46 | [Leona](http://twitter.com/search?q=Leona) | N/A |
-| 47 | [Spreen](http://twitter.com/search?q=Spreen) | Spreen is a German word that means to scurry or hurry. It is often used to describe the quick movements of small animals, such as mice or squirrels. |
-| 48 | [Grogu](http://twitter.com/search?q=Grogu) | N/A |
-| 49 | [Estados Unidos Mexicanos](http://twitter.com/search?q=Estados+Unidos+Mexicanos) | N/A |
-| 50 | [#PNVM](http://twitter.com/search?q=%23PNVM) | N/A |
+| 19 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
+| 20 | [Herrera](http://twitter.com/search?q=Herrera) | Herrera is a Spanish surname derived from the Latin word ferreus, meaning "iron". It is also a common given name in Spanish-speaking countries. In English, Herrera can be translated to mean "ironworker" or "blacksmith". |
+| 21 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
+| 22 | [Logro](http://twitter.com/search?q=Logro) | N/A |
+| 23 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
+| 24 | [Santiago](http://twitter.com/search?q=Santiago) | N/A |
+| 25 | [Komanche](http://twitter.com/search?q=Komanche) | N/A |
+| 26 | [Marzo con M](http://twitter.com/search?q=Marzo+con+M) | N/A |
+| 27 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
+| 28 | [Ministra Piña](http://twitter.com/search?q=Ministra+Pi%c3%b1a) | N/A |
+| 29 | [Venus y Júpiter](http://twitter.com/search?q=Venus+y+J%c3%bapiter) | N/A |
+| 30 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
+| 31 | [Coca Cola](http://twitter.com/search?q=Coca+Cola) | N/A |
+| 32 | [Ensenada](http://twitter.com/search?q=Ensenada) | N/A |
+| 33 | [Petro](http://twitter.com/search?q=Petro) | N/A |
+| 34 | [Chayanne](http://twitter.com/search?q=Chayanne) | N/A |
+| 35 | [Mandalorian](http://twitter.com/search?q=Mandalorian) | N/A |
+| 36 | [Norma Piña](http://twitter.com/search?q=Norma+Pi%c3%b1a) | Norma Piña is a Mexican dish made with shredded beef, potatoes, and carrots cooked in a tomato-based sauce. The name of the dish comes from the Spanish words for "shredded beef" (carne deshebrada) and "pineapple" (piña). In English, Norma Piña translates to "Shredded Beef with Pineapple". |
+| 37 | [Samuelito](http://twitter.com/search?q=Samuelito) | N/A |
+| 38 | [Grogu](http://twitter.com/search?q=Grogu) | N/A |
+| 39 | [#ThaliaYKenia](http://twitter.com/search?q=%23ThaliaYKenia) | N/A |
+| 40 | [#BillboardWomeninMusic](http://twitter.com/search?q=%23BillboardWomeninMusic) | N/A |
+| 41 | [#PNVM](http://twitter.com/search?q=%23PNVM) | N/A |
+| 42 | [#LopezBurlaMundial](http://twitter.com/search?q=%23LopezBurlaMundial) | N/A |
 
 
 

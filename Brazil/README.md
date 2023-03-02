@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brazil
 
-📆 Last Updated: `2023-03-02 07:16:54 UTC`
+📆 Last Updated: `2023-03-02 08:17:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Brazil
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [jihyo](http://twitter.com/search?q=jihyo) | Jihyo is a Korean given name, usually for females. It is composed of two characters, the first meaning "wisdom" and the second meaning "beauty". In English, it can be translated to mean "wise beauty". |
-| 2 | [#AMagiaAconteceNoBBB](http://twitter.com/search?q=%23AMagiaAconteceNoBBB) | N/A |
-| 3 | [Vargas](http://twitter.com/search?q=Vargas) | Vargas is a Spanish surname derived from the Latin word "varga," which means "wolf." It is also a common given name in Spanish-speaking countries. In English, Vargas can be translated to mean "wolf." |
-| 4 | [#BBWomenInMusic](http://twitter.com/search?q=%23BBWomenInMusic) | N/A |
-| 5 | [#FreeAnitta](http://twitter.com/search?q=%23FreeAnitta) | N/A |
-| 6 | [J COLE](http://twitter.com/search?q=J+COLE) | N/A |
-| 7 | [#TWICE_BreakthroughAward](http://twitter.com/search?q=%23TWICE_BreakthroughAward) | N/A |
-| 8 | [Billboard](http://twitter.com/search?q=Billboard) | N/A |
-| 9 | [Warner](http://twitter.com/search?q=Warner) | N/A |
-| 10 | [Hulk](http://twitter.com/search?q=Hulk) | Hulk is a fictional character created by Marvel Comics. He is a large, green humanoid with superhuman strength and invulnerability. The character first appeared in the comic book The Incredible Hulk #1 in May 1962. His catchphrase is "Hulk Smash!" |
-| 11 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 12 | [tzuyu](http://twitter.com/search?q=tzuyu) | Tzuyu is a Taiwanese singer and member of the K-pop girl group Twice. Her name is derived from the Taiwanese phrase "tzyu yu," which means "the most beautiful." |
-| 13 | [Patrick](http://twitter.com/search?q=Patrick) | Patrick is a given name derived from the Latin name Patricius, meaning "nobleman". It is a popular name in many English-speaking countries, particularly in Ireland, where it is the third most common male name. |
-| 14 | [Paulinho](http://twitter.com/search?q=Paulinho) | Paulinho is a Portuguese nickname for Paulo, which is the Portuguese form of the name Paul. In English, it means "little Paul". |
-| 15 | [#festabbb23](http://twitter.com/search?q=%23festabbb23) | #festabbb23 is a hashtag used to promote a festival or event. It stands for "Festival Abbb 23", where "Abbb" is the name of the festival or event. |
-| 16 | [Carabobo](http://twitter.com/search?q=Carabobo) | Carabobo is a state in Venezuela. Its name is derived from the Carabobo tribe, which inhabited the area before the Spanish colonization of the Americas. In English, it means "Valley of the Brave". |
-| 17 | [Allan](http://twitter.com/search?q=Allan) | N/A |
-| 18 | [Dodô](http://twitter.com/search?q=Dod%c3%b4) | N/A |
-| 19 | [Top Album](http://twitter.com/search?q=Top+Album) | N/A |
-| 20 | [Top Track](http://twitter.com/search?q=Top+Track) | N/A |
-| 21 | [Top Artist](http://twitter.com/search?q=Top+Artist) | N/A |
-| 22 | [Pedrinho](http://twitter.com/search?q=Pedrinho) | Pedrinho is a Portuguese nickname for the name Pedro, which is the Spanish and Portuguese form of Peter. In English, it would be translated to Peter or Pete. |
-| 23 | [No. Scrobbles](http://twitter.com/search?q=No.+Scrobbles) | N/A |
-| 24 | [Avaí](http://twitter.com/search?q=Ava%c3%ad) | N/A |
-| 25 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
-| 26 | [atlético mineiro](http://twitter.com/search?q=atl%c3%a9tico+mineiro) | N/A |
-| 27 | [Lemos](http://twitter.com/search?q=Lemos) | N/A |
-| 28 | [Nathan Silva](http://twitter.com/search?q=Nathan+Silva) | Nathan Silva is a Portuguese name. It is derived from the Hebrew name Natan, which means "he gave". It can also be translated as "gift of God". |
-| 29 | [Grécia](http://twitter.com/search?q=Gr%c3%a9cia) | N/A |
-| 30 | [zaracho](http://twitter.com/search?q=zaracho) | N/A |
-| 31 | [Cauly](http://twitter.com/search?q=Cauly) | N/A |
-| 32 | [Moonlight Sunrise](http://twitter.com/search?q=Moonlight+Sunrise) | N/A |
-| 33 | [Cafu](http://twitter.com/search?q=Cafu) | N/A |
-| 34 | [Rubel](http://twitter.com/search?q=Rubel) | N/A |
-| 35 | [Markus](http://twitter.com/search?q=Markus) | N/A |
-| 36 | [Ferreira](http://twitter.com/search?q=Ferreira) | Ferreira is a Portuguese surname derived from the Latin word ferrum, meaning "iron". It is also a common given name in Portuguese-speaking countries. In English, it can be translated to mean "Ironworker" or "Blacksmith". |
-| 37 | [Lauren](http://twitter.com/search?q=Lauren) | N/A |
-| 38 | [Connor](http://twitter.com/search?q=Connor) | N/A |
-| 39 | [Brulari](http://twitter.com/search?q=Brulari) | N/A |
-| 40 | [Coreia do Norte](http://twitter.com/search?q=Coreia+do+Norte) | N/A |
-| 41 | [O Galo](http://twitter.com/search?q=O+Galo) | N/A |
-| 42 | [Everson](http://twitter.com/search?q=Everson) | Everson is a surname of English origin. It is derived from the Old English personal name Eoforwine, which means "boar friend". |
-| 43 | [Mineirão](http://twitter.com/search?q=Mineir%c3%a3o) | Mineirão is a football stadium located in Belo Horizonte, Brazil. It is the home of the Cruzeiro Esporte Clube and Atlético Mineiro football clubs. The name Mineirão is a reference to the state of Minas Gerais, where Belo Horizonte is located. In English, Mineirão translates to "Big Mineiro". |
-| 44 | [Tiquinho](http://twitter.com/search?q=Tiquinho) | N/A |
-| 45 | [Saravia](http://twitter.com/search?q=Saravia) | N/A |
-| 46 | [DEMI THE FINAL ONE](http://twitter.com/search?q=DEMI+THE+FINAL+ONE) | N/A |
-| 47 | [Portland](http://twitter.com/search?q=Portland) | N/A |
-| 48 | [Alfa Romeo](http://twitter.com/search?q=Alfa+Romeo) | N/A |
-| 49 | [Hina](http://twitter.com/search?q=Hina) | N/A |
-| 50 | [sofia santino](http://twitter.com/search?q=sofia+santino) | N/A |
+| 1 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
+| 2 | [Arrascaeta](http://twitter.com/search?q=Arrascaeta) | Arrascaeta is a Spanish word that means "to tear away" or "to rip off." It is often used to describe a situation in which something is taken away quickly and forcefully. |
+| 3 | [Vitor Pereira](http://twitter.com/search?q=Vitor+Pereira) | Vitor Pereira is a Portuguese football manager and former player. He is currently the manager of Chinese Super League club Shanghai SIPG. The name Vitor Pereira translates to Victor Pereira in English. |
+| 4 | [twenty one pilots](http://twitter.com/search?q=twenty+one+pilots) | N/A |
+| 5 | [#AMagiaAconteceNoBBB](http://twitter.com/search?q=%23AMagiaAconteceNoBBB) | N/A |
+| 6 | [#BBWomenInMusic](http://twitter.com/search?q=%23BBWomenInMusic) | N/A |
+| 7 | [Neto](http://twitter.com/search?q=Neto) | Neto is a Portuguese word meaning "net" or "net profit". It is commonly used to refer to the amount of money that remains after all taxes, deductions, and other expenses have been taken out of a total amount. |
+| 8 | [vargas](http://twitter.com/search?q=vargas) | N/A |
+| 9 | [Del Valle](http://twitter.com/search?q=Del+Valle) | N/A |
+| 10 | [#flaxidv](http://twitter.com/search?q=%23flaxidv) | N/A |
+| 11 | [#FreeAnitta](http://twitter.com/search?q=%23FreeAnitta) | N/A |
+| 12 | [#TWICE_BreakthroughAward](http://twitter.com/search?q=%23TWICE_BreakthroughAward) | N/A |
+| 13 | [sam levinson](http://twitter.com/search?q=sam+levinson) | N/A |
+| 14 | [Março](http://twitter.com/search?q=Mar%c3%a7o) | N/A |
+| 15 | [jihyo](http://twitter.com/search?q=jihyo) | Jihyo is a Korean given name, usually for females. It is composed of two characters, the first meaning "wisdom" and the second meaning "beauty". In English, it can be translated to mean "wise beauty". |
+| 16 | [Maracanã](http://twitter.com/search?q=Maracan%c3%a3) | N/A |
+| 17 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 18 | [Dorival](http://twitter.com/search?q=Dorival) | Dorival is a French surname. It is derived from the Latin name Dorivallus, which means "gift of the sea". |
+| 19 | [all of the girls](http://twitter.com/search?q=all+of+the+girls) | N/A |
+| 20 | [maira cardi](http://twitter.com/search?q=maira+cardi) | N/A |
+| 21 | [Top Track](http://twitter.com/search?q=Top+Track) | N/A |
+| 22 | [Top Album](http://twitter.com/search?q=Top+Album) | N/A |
+| 23 | [Top Artist](http://twitter.com/search?q=Top+Artist) | N/A |
+| 24 | [No. Scrobbles](http://twitter.com/search?q=No.+Scrobbles) | N/A |
+| 25 | [J COLE](http://twitter.com/search?q=J+COLE) | N/A |
+| 26 | [chiara vai casar](http://twitter.com/search?q=chiara+vai+casar) | N/A |
+| 27 | [Caxias do Sul](http://twitter.com/search?q=Caxias+do+Sul) | N/A |
+| 28 | [Campari](http://twitter.com/search?q=Campari) | N/A |
+| 29 | [Thiago Nigro](http://twitter.com/search?q=Thiago+Nigro) | N/A |
+| 30 | [Sapato](http://twitter.com/search?q=Sapato) | Sapato is the Portuguese word for shoe. In English, it means the same thing. |
+| 31 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
+| 32 | [Vidal](http://twitter.com/search?q=Vidal) | Vidal is a Spanish surname derived from the Latin name Vitalis, which means “life”. It is also a French surname derived from the Latin name Vidallus, which means “woodland”. |
+| 33 | [Julice](http://twitter.com/search?q=Julice) | N/A |
+| 34 | [jennie](http://twitter.com/search?q=jennie) | N/A |
+| 35 | [ORDEM TRÊS ANOS](http://twitter.com/search?q=ORDEM+TR%c3%8aS+ANOS) | N/A |
+| 36 | [Faz o L](http://twitter.com/search?q=Faz+o+L) | N/A |
+| 37 | [Cristaldo](http://twitter.com/search?q=Cristaldo) | Cristaldo is a Portuguese name derived from the Latin name “Christophorus”, which means “Christ-bearer”. It is a combination of the words “Cristo” (Christ) and “Aldo” (bearer). In English, Cristaldo can be translated to mean "Christ-bearer". |
+| 38 | [Matheus Gonçalves](http://twitter.com/search?q=Matheus+Gon%c3%a7alves) | N/A |
+| 39 | [Copa do Brasil](http://twitter.com/search?q=Copa+do+Brasil) | N/A |
+| 40 | [Gabigol](http://twitter.com/search?q=Gabigol) | Gabigol is a nickname given to Brazilian footballer Gabriel Barbosa, who currently plays for Flamengo. The nickname is a combination of his first name, Gabriel, and the Portuguese word for goal, gol. In English, the nickname translates to "Gabriel Goal". |
+| 41 | [Haddad](http://twitter.com/search?q=Haddad) | N/A |
+| 42 | [BIGHIT PROTECT RM](http://twitter.com/search?q=BIGHIT+PROTECT+RM) | N/A |
+| 43 | [Pedrinho](http://twitter.com/search?q=Pedrinho) | Pedrinho is a Portuguese nickname for the name Pedro, which is the Spanish and Portuguese form of Peter. In English, it would be translated to Peter or Pete. |
+| 44 | [Sandro Fantinel](http://twitter.com/search?q=Sandro+Fantinel) | N/A |
+| 45 | [Cauly](http://twitter.com/search?q=Cauly) | N/A |
+| 46 | [Hulk](http://twitter.com/search?q=Hulk) | Hulk is a fictional character created by Marvel Comics. He is a large, green humanoid with superhuman strength and invulnerability. The character first appeared in the comic book The Incredible Hulk #1 in May 1962. His catchphrase is "Hulk Smash!" |
+| 47 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
+| 48 | [Carabobo](http://twitter.com/search?q=Carabobo) | Carabobo is a state in Venezuela. Its name is derived from the Carabobo tribe, which inhabited the area before the Spanish colonization of the Americas. In English, it means "Valley of the Brave". |
+| 49 | [DEMI THE FINAL ONE](http://twitter.com/search?q=DEMI+THE+FINAL+ONE) | N/A |
+| 50 | [Aline](http://twitter.com/search?q=Aline) | Aline is a French name meaning "noble" or "nobility". It is also a variant of the name Adeline, which is derived from the Germanic name Adalheidis, meaning "noble kind". |
 
 
 

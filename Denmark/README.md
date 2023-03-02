@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-03-02 07:16:55 UTC`
+📆 Last Updated: `2023-03-02 08:17:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Denmark
 | ------- | ------------ | ------------ |
 | 1 | [#fckvb](http://twitter.com/search?q=%23fckvb) | N/A |
 | 2 | [#ARSEVE](http://twitter.com/search?q=%23ARSEVE) | N/A |
-| 3 | [#arsenaldk](http://twitter.com/search?q=%23arsenaldk) | N/A |
-| 4 | [#dkpol](http://twitter.com/search?q=%23dkpol) | N/A |
-| 5 | [vejle](http://twitter.com/search?q=vejle) | N/A |
+| 3 | [#dkpol](http://twitter.com/search?q=%23dkpol) | N/A |
+| 4 | [#arsenaldk](http://twitter.com/search?q=%23arsenaldk) | N/A |
+| 5 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
 | 6 | [#dbupokalen](http://twitter.com/search?q=%23dbupokalen) | N/A |
-| 7 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 8 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 9 | [Minteh](http://twitter.com/search?q=Minteh) | N/A |
-| 10 | [St. Bededag](http://twitter.com/search?q=St.+Bededag) | N/A |
-| 11 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 12 | [Venus](http://twitter.com/search?q=Venus) | N/A |
-| 13 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
-| 14 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
-| 15 | [Krim](http://twitter.com/search?q=Krim) | N/A |
-| 16 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
-| 17 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 18 | [Paludan](http://twitter.com/search?q=Paludan) | N/A |
-| 19 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 20 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
-| 21 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 22 | [Iceland](http://twitter.com/search?q=Iceland) | N/A |
-| 23 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
-| 24 | [tv2 zulu](http://twitter.com/search?q=tv2+zulu) | N/A |
-| 25 | [Luke](http://twitter.com/search?q=Luke) | N/A |
-| 26 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
-| 27 | [Brian](http://twitter.com/search?q=Brian) | N/A |
-| 28 | [daramy](http://twitter.com/search?q=daramy) | N/A |
-| 29 | [Nordic](http://twitter.com/search?q=Nordic) | N/A |
-| 30 | [hedlund](http://twitter.com/search?q=hedlund) | N/A |
-| 31 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 32 | [troels](http://twitter.com/search?q=troels) | N/A |
-| 33 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
-| 34 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 35 | [Vavro](http://twitter.com/search?q=Vavro) | N/A |
-| 36 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
-| 37 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 38 | [World Cup](http://twitter.com/search?q=World+Cup) | N/A |
-| 39 | [brøndby](http://twitter.com/search?q=br%c3%b8ndby) | N/A |
-| 40 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 41 | [Strade Bianche](http://twitter.com/search?q=Strade+Bianche) | N/A |
-| 42 | [sandt](http://twitter.com/search?q=sandt) | N/A |
-| 43 | [Parken](http://twitter.com/search?q=Parken) | N/A |
-| 44 | [Xbox](http://twitter.com/search?q=Xbox) | N/A |
-| 45 | [roskilde](http://twitter.com/search?q=roskilde) | N/A |
-| 46 | [Fauci](http://twitter.com/search?q=Fauci) | N/A |
-| 47 | [Ekstra Bladet](http://twitter.com/search?q=Ekstra+Bladet) | N/A |
-| 48 | [mikkel](http://twitter.com/search?q=mikkel) | N/A |
-| 49 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
-| 50 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
+| 7 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 8 | [Vejle](http://twitter.com/search?q=Vejle) | N/A |
+| 9 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 10 | [Minteh](http://twitter.com/search?q=Minteh) | N/A |
+| 11 | [St. Bededag](http://twitter.com/search?q=St.+Bededag) | N/A |
+| 12 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 13 | [Venus](http://twitter.com/search?q=Venus) | N/A |
+| 14 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
+| 15 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
+| 16 | [Krim](http://twitter.com/search?q=Krim) | N/A |
+| 17 | [Uber](http://twitter.com/search?q=Uber) | N/A |
+| 18 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 19 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
+| 20 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 21 | [Paludan](http://twitter.com/search?q=Paludan) | N/A |
+| 22 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 23 | [Uanset](http://twitter.com/search?q=Uanset) | N/A |
+| 24 | [Iceland](http://twitter.com/search?q=Iceland) | N/A |
+| 25 | [Brian](http://twitter.com/search?q=Brian) | N/A |
+| 26 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
+| 27 | [tv2 zulu](http://twitter.com/search?q=tv2+zulu) | N/A |
+| 28 | [Luke](http://twitter.com/search?q=Luke) | N/A |
+| 29 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
+| 30 | [daramy](http://twitter.com/search?q=daramy) | N/A |
+| 31 | [Nordic](http://twitter.com/search?q=Nordic) | N/A |
+| 32 | [hedlund](http://twitter.com/search?q=hedlund) | N/A |
+| 33 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 34 | [troels](http://twitter.com/search?q=troels) | N/A |
+| 35 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
+| 36 | [Prøv](http://twitter.com/search?q=Pr%c3%b8v) | N/A |
+| 37 | [Vavro](http://twitter.com/search?q=Vavro) | N/A |
+| 38 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
+| 39 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
+| 40 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 41 | [World Cup](http://twitter.com/search?q=World+Cup) | N/A |
+| 42 | [Brøndby](http://twitter.com/search?q=Br%c3%b8ndby) | N/A |
+| 43 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 44 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
+| 45 | [Strade Bianche](http://twitter.com/search?q=Strade+Bianche) | N/A |
+| 46 | [sandt](http://twitter.com/search?q=sandt) | N/A |
+| 47 | [Copenhagen](http://twitter.com/search?q=Copenhagen) | N/A |
+| 48 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 49 | [Xbox](http://twitter.com/search?q=Xbox) | N/A |
+| 50 | [Roskilde](http://twitter.com/search?q=Roskilde) | N/A |
 
 
 

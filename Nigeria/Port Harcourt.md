@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Harcourt
 
-📆 Last Updated: `2023-03-02 07:16:34 UTC`
+📆 Last Updated: `2023-03-02 08:16:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Nigeria](</Nigeria>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Yoruba](http://twitter.com/search?q=Yoruba) | N/A |
-| 2 | [Yoruba](http://twitter.com/search?q=Yoruba) | N/A |
-| 3 | [#INECElectionResult](http://twitter.com/search?q=%23INECElectionResult) | N/A |
+| 1 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
+| 2 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
+| 3 | [#Natasharitualscandal](http://twitter.com/search?q=%23Natasharitualscandal) | N/A |
 | 4 | [Happy New Month](http://twitter.com/search?q=Happy+New+Month) | Happy New Month is a phrase used to express good wishes for the start of a new month. It is typically used as a greeting or salutation to friends, family, and colleagues. The phrase is usually accompanied by wishes for health, happiness, and success in the upcoming month. |
-| 5 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
-| 6 | [Chinedu](http://twitter.com/search?q=Chinedu) | N/A |
+| 5 | [Chinedu](http://twitter.com/search?q=Chinedu) | N/A |
+| 6 | [#INECElectionResult](http://twitter.com/search?q=%23INECElectionResult) | N/A |
 | 7 | [Afonja](http://twitter.com/search?q=Afonja) | N/A |
 | 8 | [#protest](http://twitter.com/search?q=%23protest) | N/A |
-| 9 | [#MUNWHU](http://twitter.com/search?q=%23MUNWHU) | N/A |
-| 10 | [Tinubu](http://twitter.com/search?q=Tinubu) | N/A |
+| 9 | [Tinubu](http://twitter.com/search?q=Tinubu) | N/A |
+| 10 | [JUBILEE IN MARCH](http://twitter.com/search?q=JUBILEE+IN+MARCH) | N/A |
 | 11 | [#Revolution](http://twitter.com/search?q=%23Revolution) | N/A |
 | 12 | [IPOB](http://twitter.com/search?q=IPOB) | N/A |
-| 13 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 14 | [Happy Birthday Daddy](http://twitter.com/search?q=Happy+Birthday+Daddy) | N/A |
+| 13 | [Daddy](http://twitter.com/search?q=Daddy) | N/A |
+| 14 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
 | 15 | [Gbadebo](http://twitter.com/search?q=Gbadebo) | N/A |
 | 16 | [Ajuri](http://twitter.com/search?q=Ajuri) | N/A |
-| 17 | [Black Wednesday](http://twitter.com/search?q=Black+Wednesday) | N/A |
-| 18 | [Shola](http://twitter.com/search?q=Shola) | N/A |
-| 19 | [Sanwo](http://twitter.com/search?q=Sanwo) | N/A |
+| 17 | [Shola](http://twitter.com/search?q=Shola) | N/A |
+| 18 | [Sanwo](http://twitter.com/search?q=Sanwo) | N/A |
+| 19 | [Chrisland](http://twitter.com/search?q=Chrisland) | N/A |
 | 20 | [Pastor Fred](http://twitter.com/search?q=Pastor+Fred) | Pastor Fred is a term used to refer to a Christian minister or pastor. It is often used as a generic name for any pastor, regardless of their actual name. |
-| 21 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 22 | [Emeka](http://twitter.com/search?q=Emeka) | N/A |
-| 23 | [Fajr](http://twitter.com/search?q=Fajr) | N/A |
+| 21 | [Emeka](http://twitter.com/search?q=Emeka) | N/A |
+| 22 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 23 | [Black Wednesday](http://twitter.com/search?q=Black+Wednesday) | N/A |
 | 24 | [Wike](http://twitter.com/search?q=Wike) | Wike is a term used in the Philippines to refer to a person who is knowledgeable or wise. It is derived from the Tagalog word "wikain," which means "to know." In English, it can be translated as "wise" or "knowledgeable." |
-| 25 | [BVAS](http://twitter.com/search?q=BVAS) | BVAS stands for Behavioral and Vital Signs. It is a term used in the medical field to refer to the physical and mental signs that can be used to assess a patient's health. These signs include heart rate, blood pressure, temperature, respiration rate, and other indicators of physical and mental health. |
-| 26 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 27 | [Nairaland](http://twitter.com/search?q=Nairaland) | N/A |
-| 28 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 29 | [Zain](http://twitter.com/search?q=Zain) | N/A |
+| 25 | [Nairaland](http://twitter.com/search?q=Nairaland) | N/A |
+| 26 | [BVAS](http://twitter.com/search?q=BVAS) | BVAS stands for Behavioral and Vital Signs. It is a term used in the medical field to refer to the physical and mental signs that can be used to assess a patient's health. These signs include heart rate, blood pressure, temperature, respiration rate, and other indicators of physical and mental health. |
+| 27 | [Zain](http://twitter.com/search?q=Zain) | N/A |
+| 28 | [Reconciliation](http://twitter.com/search?q=Reconciliation) | N/A |
+| 29 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
 | 30 | [11th of March](http://twitter.com/search?q=11th+of+March) | N/A |
-| 31 | [Japa](http://twitter.com/search?q=Japa) | N/A |
+| 31 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
 | 32 | [Abuja](http://twitter.com/search?q=Abuja) | N/A |
-| 33 | [Jesus Name Above All Names](http://twitter.com/search?q=Jesus+Name+Above+All+Names) | N/A |
-| 34 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 35 | [Rishi](http://twitter.com/search?q=Rishi) | N/A |
-| 36 | [Chief of Staff](http://twitter.com/search?q=Chief+of+Staff) | N/A |
-| 37 | [Elected](http://twitter.com/search?q=Elected) | N/A |
+| 33 | [Rishi](http://twitter.com/search?q=Rishi) | N/A |
+| 34 | [Nsukka](http://twitter.com/search?q=Nsukka) | N/A |
+| 35 | [Japa](http://twitter.com/search?q=Japa) | N/A |
+| 36 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 37 | [Jesus Name Above All Names](http://twitter.com/search?q=Jesus+Name+Above+All+Names) | N/A |
 | 38 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 39 | [IREV](http://twitter.com/search?q=IREV) | N/A |
-| 40 | [Lindelof](http://twitter.com/search?q=Lindelof) | Lindelof is a surname of Swedish origin. It is derived from the Old Norse name Lindalófr, which means "linden leaf" or "linden tree". In English, the name can be translated to mean "beloved of the linden tree". |
-| 41 | [Okwute](http://twitter.com/search?q=Okwute) | N/A |
-| 42 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
-| 43 | [Sean Dyche](http://twitter.com/search?q=Sean+Dyche) | Sean Dyche is the name of the current manager of English Premier League football club Burnley. The name is a combination of his first and last names. The meaning in English is simply the name of the manager. |
-| 44 | [Happy 81st](http://twitter.com/search?q=Happy+81st) | N/A |
-| 45 | [Shettima](http://twitter.com/search?q=Shettima) | N/A |
-| 46 | [Atiku and Obi](http://twitter.com/search?q=Atiku+and+Obi) | N/A |
-| 47 | [Biafra](http://twitter.com/search?q=Biafra) | N/A |
-| 48 | [Mandate](http://twitter.com/search?q=Mandate) | N/A |
-| 49 | [25% in fct](http://twitter.com/search?q=25%25+in+fct) | N/A |
+| 39 | [Elected](http://twitter.com/search?q=Elected) | N/A |
+| 40 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
+| 41 | [Biafra](http://twitter.com/search?q=Biafra) | N/A |
+| 42 | [Happy 81st](http://twitter.com/search?q=Happy+81st) | N/A |
+| 43 | [IREV](http://twitter.com/search?q=IREV) | N/A |
+| 44 | [Lindelof](http://twitter.com/search?q=Lindelof) | Lindelof is a surname of Swedish origin. It is derived from the Old Norse name Lindalófr, which means "linden leaf" or "linden tree". In English, the name can be translated to mean "beloved of the linden tree". |
+| 45 | [Tribalism](http://twitter.com/search?q=Tribalism) | N/A |
+| 46 | [DJ Cuppy](http://twitter.com/search?q=DJ+Cuppy) | N/A |
+| 47 | [Mandate](http://twitter.com/search?q=Mandate) | N/A |
+| 48 | [Shettima](http://twitter.com/search?q=Shettima) | N/A |
+| 49 | [Sean Dyche](http://twitter.com/search?q=Sean+Dyche) | Sean Dyche is the name of the current manager of English Premier League football club Burnley. The name is a combination of his first and last names. The meaning in English is simply the name of the manager. |
 
 
 

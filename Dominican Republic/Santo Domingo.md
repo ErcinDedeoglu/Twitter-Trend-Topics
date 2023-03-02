@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santo Domingo
 
-📆 Last Updated: `2023-03-02 07:16:08 UTC`
+📆 Last Updated: `2023-03-02 08:16:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -33,38 +33,38 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 16 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
 | 17 | [Vanessa Bryant](http://twitter.com/search?q=Vanessa+Bryant) | N/A |
 | 18 | [Napo](http://twitter.com/search?q=Napo) | N/A |
-| 19 | [#PolloIndex](http://twitter.com/search?q=%23PolloIndex) | N/A |
+| 19 | [#polloindex](http://twitter.com/search?q=%23polloindex) | N/A |
 | 20 | [#27defebrero](http://twitter.com/search?q=%2327defebrero) | N/A |
 | 21 | [Grecia](http://twitter.com/search?q=Grecia) | N/A |
 | 22 | [Los Ángeles](http://twitter.com/search?q=Los+%c3%81ngeles) | N/A |
 | 23 | [Justin Bieber](http://twitter.com/search?q=Justin+Bieber) | N/A |
 | 24 | [Omar Fernández](http://twitter.com/search?q=Omar+Fern%c3%a1ndez) | N/A |
-| 25 | [Bienvenida](http://twitter.com/search?q=Bienvenida) | N/A |
-| 26 | [HOT ENTRA](http://twitter.com/search?q=HOT+ENTRA) | N/A |
-| 27 | [NEW CONTENIDO](http://twitter.com/search?q=NEW+CONTENIDO) | N/A |
-| 28 | [Lester Quiñones](http://twitter.com/search?q=Lester+Qui%c3%b1ones) | N/A |
-| 29 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
-| 30 | [Kevin Durant](http://twitter.com/search?q=Kevin+Durant) | Kevin Durant is an American professional basketball player who currently plays for the Brooklyn Nets of the National Basketball Association (NBA). He is a ten-time NBA All-Star and two-time NBA Finals MVP. He has won four NBA scoring titles, the NBA Rookie of the Year Award, and an Olympic gold medal. |
-| 31 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
-| 32 | [Foke](http://twitter.com/search?q=Foke) | N/A |
-| 33 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |
-| 34 | [Muchacho](http://twitter.com/search?q=Muchacho) | N/A |
-| 35 | [Punta Catalina](http://twitter.com/search?q=Punta+Catalina) | N/A |
-| 36 | [Banco Central](http://twitter.com/search?q=Banco+Central) | N/A |
-| 37 | [independencia nacional](http://twitter.com/search?q=independencia+nacional) | N/A |
-| 38 | [Puerto](http://twitter.com/search?q=Puerto) | N/A |
+| 25 | [hot entra](http://twitter.com/search?q=hot+entra) | N/A |
+| 26 | [new contenido](http://twitter.com/search?q=new+contenido) | N/A |
+| 27 | [Lester Quiñones](http://twitter.com/search?q=Lester+Qui%c3%b1ones) | N/A |
+| 28 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
+| 29 | [Kevin Durant](http://twitter.com/search?q=Kevin+Durant) | Kevin Durant is an American professional basketball player who currently plays for the Brooklyn Nets of the National Basketball Association (NBA). He is a ten-time NBA All-Star and two-time NBA Finals MVP. He has won four NBA scoring titles, the NBA Rookie of the Year Award, and an Olympic gold medal. |
+| 30 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
+| 31 | [Foke](http://twitter.com/search?q=Foke) | N/A |
+| 32 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |
+| 33 | [Muchacho](http://twitter.com/search?q=Muchacho) | N/A |
+| 34 | [Punta Catalina](http://twitter.com/search?q=Punta+Catalina) | N/A |
+| 35 | [Banco Central](http://twitter.com/search?q=Banco+Central) | N/A |
+| 36 | [independencia nacional](http://twitter.com/search?q=independencia+nacional) | N/A |
+| 37 | [Puerto](http://twitter.com/search?q=Puerto) | N/A |
+| 38 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
 | 39 | [Dilo](http://twitter.com/search?q=Dilo) | N/A |
 | 40 | [inacif](http://twitter.com/search?q=inacif) | N/A |
 | 41 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
 | 42 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
 | 43 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
-| 44 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
-| 45 | [Falcon 9](http://twitter.com/search?q=Falcon+9) | N/A |
-| 46 | [mapfre](http://twitter.com/search?q=mapfre) | N/A |
-| 47 | [Carlos Peña](http://twitter.com/search?q=Carlos+Pe%c3%b1a) | N/A |
-| 48 | [rafael alburquerque](http://twitter.com/search?q=rafael+alburquerque) | N/A |
-| 49 | [Inglaterra](http://twitter.com/search?q=Inglaterra) | N/A |
-| 50 | [tenares](http://twitter.com/search?q=tenares) | N/A |
+| 44 | [Falcon 9](http://twitter.com/search?q=Falcon+9) | N/A |
+| 45 | [mapfre](http://twitter.com/search?q=mapfre) | N/A |
+| 46 | [carlos peña](http://twitter.com/search?q=carlos+pe%c3%b1a) | N/A |
+| 47 | [rafael alburquerque](http://twitter.com/search?q=rafael+alburquerque) | N/A |
+| 48 | [Inglaterra](http://twitter.com/search?q=Inglaterra) | N/A |
+| 49 | [tenares](http://twitter.com/search?q=tenares) | N/A |
+| 50 | [Naciones Unidas](http://twitter.com/search?q=Naciones+Unidas) | N/A |
 
 
 

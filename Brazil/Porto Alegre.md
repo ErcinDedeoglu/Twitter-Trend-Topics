@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Porto Alegre
 
-📆 Last Updated: `2023-03-02 07:16:14 UTC`
+📆 Last Updated: `2023-03-02 08:16:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Brazil](</Brazil>)
 | ------- | ------------ | ------------ |
 | 1 | [Cristaldo](http://twitter.com/search?q=Cristaldo) | Cristaldo is a Portuguese name derived from the Latin name “Christophorus”, which means “Christ-bearer”. It is a combination of the words “Cristo” (Christ) and “Aldo” (bearer). In English, Cristaldo can be translated to mean "Christ-bearer". |
 | 2 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
-| 3 | [Duda Garbi](http://twitter.com/search?q=Duda+Garbi) | N/A |
+| 3 | [Ferreira](http://twitter.com/search?q=Ferreira) | Ferreira is a Portuguese surname derived from the Latin word ferrum, meaning "iron". It is also a common given name in Portuguese-speaking countries. In English, it can be translated to mean "Ironworker" or "Blacksmith". |
 | 4 | [jihyo](http://twitter.com/search?q=jihyo) | Jihyo is a Korean given name, usually for females. It is composed of two characters, the first meaning "wisdom" and the second meaning "beauty". In English, it can be translated to mean "wise beauty". |
 | 5 | [#AMagiaAconteceNoBBB](http://twitter.com/search?q=%23AMagiaAconteceNoBBB) | N/A |
-| 6 | [Vargas](http://twitter.com/search?q=Vargas) | Vargas is a Spanish surname derived from the Latin word "varga," which means "wolf." It is also a common given name in Spanish-speaking countries. In English, Vargas can be translated to mean "wolf." |
-| 7 | [#BBWomenInMusic](http://twitter.com/search?q=%23BBWomenInMusic) | N/A |
-| 8 | [#FreeAnitta](http://twitter.com/search?q=%23FreeAnitta) | N/A |
-| 9 | [J COLE](http://twitter.com/search?q=J+COLE) | N/A |
-| 10 | [#TWICE_BreakthroughAward](http://twitter.com/search?q=%23TWICE_BreakthroughAward) | N/A |
-| 11 | [Billboard](http://twitter.com/search?q=Billboard) | N/A |
-| 12 | [Warner](http://twitter.com/search?q=Warner) | N/A |
+| 6 | [#BBWomenInMusic](http://twitter.com/search?q=%23BBWomenInMusic) | N/A |
+| 7 | [#FreeAnitta](http://twitter.com/search?q=%23FreeAnitta) | N/A |
+| 8 | [J COLE](http://twitter.com/search?q=J+COLE) | N/A |
+| 9 | [#TWICE_BreakthroughAward](http://twitter.com/search?q=%23TWICE_BreakthroughAward) | N/A |
+| 10 | [vargas](http://twitter.com/search?q=vargas) | N/A |
+| 11 | [Warner](http://twitter.com/search?q=Warner) | N/A |
+| 12 | [#festabbb23](http://twitter.com/search?q=%23festabbb23) | #festabbb23 is a hashtag used to promote a festival or event. It stands for "Festival Abbb 23", where "Abbb" is the name of the festival or event. |
 | 13 | [Hulk](http://twitter.com/search?q=Hulk) | Hulk is a fictional character created by Marvel Comics. He is a large, green humanoid with superhuman strength and invulnerability. The character first appeared in the comic book The Incredible Hulk #1 in May 1962. His catchphrase is "Hulk Smash!" |
 | 14 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
 | 15 | [tzuyu](http://twitter.com/search?q=tzuyu) | Tzuyu is a Taiwanese singer and member of the K-pop girl group Twice. Her name is derived from the Taiwanese phrase "tzyu yu," which means "the most beautiful." |
 | 16 | [Patrick](http://twitter.com/search?q=Patrick) | Patrick is a given name derived from the Latin name Patricius, meaning "nobleman". It is a popular name in many English-speaking countries, particularly in Ireland, where it is the third most common male name. |
-| 17 | [Paulinho](http://twitter.com/search?q=Paulinho) | Paulinho is a Portuguese nickname for Paulo, which is the Portuguese form of the name Paul. In English, it means "little Paul". |
-| 18 | [#festabbb23](http://twitter.com/search?q=%23festabbb23) | #festabbb23 is a hashtag used to promote a festival or event. It stands for "Festival Abbb 23", where "Abbb" is the name of the festival or event. |
-| 19 | [Carabobo](http://twitter.com/search?q=Carabobo) | Carabobo is a state in Venezuela. Its name is derived from the Carabobo tribe, which inhabited the area before the Spanish colonization of the Americas. In English, it means "Valley of the Brave". |
-| 20 | [Top Album](http://twitter.com/search?q=Top+Album) | N/A |
-| 21 | [Top Track](http://twitter.com/search?q=Top+Track) | N/A |
+| 17 | [Billboard](http://twitter.com/search?q=Billboard) | N/A |
+| 18 | [Paulinho](http://twitter.com/search?q=Paulinho) | Paulinho is a Portuguese nickname for Paulo, which is the Portuguese form of the name Paul. In English, it means "little Paul". |
+| 19 | [Top Album](http://twitter.com/search?q=Top+Album) | N/A |
+| 20 | [Top Track](http://twitter.com/search?q=Top+Track) | N/A |
+| 21 | [No. Scrobbles](http://twitter.com/search?q=No.+Scrobbles) | N/A |
 | 22 | [Top Artist](http://twitter.com/search?q=Top+Artist) | N/A |
-| 23 | [No. Scrobbles](http://twitter.com/search?q=No.+Scrobbles) | N/A |
+| 23 | [Pedrinho](http://twitter.com/search?q=Pedrinho) | Pedrinho is a Portuguese nickname for the name Pedro, which is the Spanish and Portuguese form of Peter. In English, it would be translated to Peter or Pete. |
 | 24 | [Allan](http://twitter.com/search?q=Allan) | N/A |
-| 25 | [Dodô](http://twitter.com/search?q=Dod%c3%b4) | N/A |
-| 26 | [Pedrinho](http://twitter.com/search?q=Pedrinho) | Pedrinho is a Portuguese nickname for the name Pedro, which is the Spanish and Portuguese form of Peter. In English, it would be translated to Peter or Pete. |
-| 27 | [Avaí](http://twitter.com/search?q=Ava%c3%ad) | N/A |
-| 28 | [Retrô](http://twitter.com/search?q=Retr%c3%b4) | N/A |
-| 29 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
-| 30 | [atlético mineiro](http://twitter.com/search?q=atl%c3%a9tico+mineiro) | N/A |
-| 31 | [Lemos](http://twitter.com/search?q=Lemos) | N/A |
-| 32 | [Nathan Silva](http://twitter.com/search?q=Nathan+Silva) | Nathan Silva is a Portuguese name. It is derived from the Hebrew name Natan, which means "he gave". It can also be translated as "gift of God". |
-| 33 | [Grécia](http://twitter.com/search?q=Gr%c3%a9cia) | N/A |
-| 34 | [zaracho](http://twitter.com/search?q=zaracho) | N/A |
-| 35 | [Cauly](http://twitter.com/search?q=Cauly) | N/A |
-| 36 | [Moonlight Sunrise](http://twitter.com/search?q=Moonlight+Sunrise) | N/A |
-| 37 | [Cafu](http://twitter.com/search?q=Cafu) | N/A |
-| 38 | [Rubel](http://twitter.com/search?q=Rubel) | N/A |
-| 39 | [Markus](http://twitter.com/search?q=Markus) | N/A |
-| 40 | [Ferreira](http://twitter.com/search?q=Ferreira) | Ferreira is a Portuguese surname derived from the Latin word ferrum, meaning "iron". It is also a common given name in Portuguese-speaking countries. In English, it can be translated to mean "Ironworker" or "Blacksmith". |
-| 41 | [Lauren](http://twitter.com/search?q=Lauren) | N/A |
-| 42 | [Connor](http://twitter.com/search?q=Connor) | N/A |
-| 43 | [Brulari](http://twitter.com/search?q=Brulari) | N/A |
-| 44 | [Coreia do Norte](http://twitter.com/search?q=Coreia+do+Norte) | N/A |
-| 45 | [O Galo](http://twitter.com/search?q=O+Galo) | N/A |
-| 46 | [Everson](http://twitter.com/search?q=Everson) | Everson is a surname of English origin. It is derived from the Old English personal name Eoforwine, which means "boar friend". |
-| 47 | [Mineirão](http://twitter.com/search?q=Mineir%c3%a3o) | Mineirão is a football stadium located in Belo Horizonte, Brazil. It is the home of the Cruzeiro Esporte Clube and Atlético Mineiro football clubs. The name Mineirão is a reference to the state of Minas Gerais, where Belo Horizonte is located. In English, Mineirão translates to "Big Mineiro". |
-| 48 | [Tiquinho](http://twitter.com/search?q=Tiquinho) | N/A |
-| 49 | [Saravia](http://twitter.com/search?q=Saravia) | N/A |
-| 50 | [DEMI THE FINAL ONE](http://twitter.com/search?q=DEMI+THE+FINAL+ONE) | N/A |
+| 25 | [Carabobo](http://twitter.com/search?q=Carabobo) | Carabobo is a state in Venezuela. Its name is derived from the Carabobo tribe, which inhabited the area before the Spanish colonization of the Americas. In English, it means "Valley of the Brave". |
+| 26 | [Lemos](http://twitter.com/search?q=Lemos) | N/A |
+| 27 | [Grécia](http://twitter.com/search?q=Gr%c3%a9cia) | N/A |
+| 28 | [Cauly](http://twitter.com/search?q=Cauly) | N/A |
+| 29 | [Markus](http://twitter.com/search?q=Markus) | N/A |
+| 30 | [Lauren](http://twitter.com/search?q=Lauren) | N/A |
+| 31 | [Connor](http://twitter.com/search?q=Connor) | N/A |
+| 32 | [Coreia do Norte](http://twitter.com/search?q=Coreia+do+Norte) | N/A |
+| 33 | [Everson](http://twitter.com/search?q=Everson) | Everson is a surname of English origin. It is derived from the Old English personal name Eoforwine, which means "boar friend". |
+| 34 | [Mineirão](http://twitter.com/search?q=Mineir%c3%a3o) | Mineirão is a football stadium located in Belo Horizonte, Brazil. It is the home of the Cruzeiro Esporte Clube and Atlético Mineiro football clubs. The name Mineirão is a reference to the state of Minas Gerais, where Belo Horizonte is located. In English, Mineirão translates to "Big Mineiro". |
+| 35 | [Alfa Romeo](http://twitter.com/search?q=Alfa+Romeo) | N/A |
+| 36 | [sofia santino](http://twitter.com/search?q=sofia+santino) | N/A |
+| 37 | [Emma Watson](http://twitter.com/search?q=Emma+Watson) | N/A |
+| 38 | [taeyong](http://twitter.com/search?q=taeyong) | Taeyong is a Korean given name, derived from the Chinese characters 太 (tài) meaning "great" and 永 (yǒng) meaning "eternal". In English, it can be translated to mean "great eternity". |
+| 39 | [Kara](http://twitter.com/search?q=Kara) | N/A |
+| 40 | [Jacuipense](http://twitter.com/search?q=Jacuipense) | N/A |
+| 41 | [ON THE STREET IS COMING](http://twitter.com/search?q=ON+THE+STREET+IS+COMING) | N/A |
+| 42 | [tim bernardes](http://twitter.com/search?q=tim+bernardes) | N/A |
+| 43 | [Thiago Santos](http://twitter.com/search?q=Thiago+Santos) | Thiago Santos is a Brazilian mixed martial artist who competes in the Ultimate Fighting Championship (UFC). In English, the name Thiago Santos means "Saint James". |
+| 44 | [Florence Pugh](http://twitter.com/search?q=Florence+Pugh) | N/A |
+| 45 | [Villasanti](http://twitter.com/search?q=Villasanti) | Villasanti is a Spanish surname. It is derived from the Latin words villa (town) and sancti (holy). In English, it can be translated to mean "holy town". |
+| 46 | [Robert Pattinson](http://twitter.com/search?q=Robert+Pattinson) | N/A |
+| 47 | [Morgana](http://twitter.com/search?q=Morgana) | N/A |
+| 48 | [Chris Evans](http://twitter.com/search?q=Chris+Evans) | Chris Evans is the name of an American actor, best known for his roles in Marvel superhero films such as Captain America and The Avengers. He has also starred in films such as Snowpiercer, Gifted, and Knives Out. |
+| 49 | [Tom Hiddleston](http://twitter.com/search?q=Tom+Hiddleston) | N/A |
+| 50 | [The Idol](http://twitter.com/search?q=The+Idol) | N/A |
 
 
 

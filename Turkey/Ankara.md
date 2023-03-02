@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ankara
 
-📆 Last Updated: `2023-03-02 07:16:43 UTC`
+📆 Last Updated: `2023-03-02 08:17:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,51 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [ÇokUygun TTHizmeti](http://twitter.com/search?q=%c3%87okUygun+TTHizmeti) | N/A |
-| 2 | [#OmuzOmuza](http://twitter.com/search?q=%23OmuzOmuza) | N/A |
-| 3 | [#perşembe](http://twitter.com/search?q=%23per%c5%9fembe) | N/A |
-| 4 | [Mansur Yavaş](http://twitter.com/search?q=Mansur+Yava%c5%9f) | N/A |
-| 5 | [#TekDileğimiz](http://twitter.com/search?q=%23TekDile%c4%9fimiz) | N/A |
-| 6 | [#İstifaEtmeli](http://twitter.com/search?q=%23%c4%b0stifaEtmeli) | N/A |
-| 7 | [Günaydınlar](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nlar) | N/A |
-| 8 | [Günaydınlar](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nlar) | N/A |
-| 9 | [Kılıçdaroğlu](http://twitter.com/search?q=K%c4%b1l%c4%b1%c3%a7daro%c4%9flu) | N/A |
-| 10 | [uygunfiyatlarrda tthizmeti](http://twitter.com/search?q=uygunfiyatlarrda+tthizmeti) | N/A |
-| 11 | [Kızılay](http://twitter.com/search?q=K%c4%b1z%c4%b1lay) | Kızılay is the Turkish Red Crescent, a humanitarian organization that provides aid and assistance to those in need. The name Kızılay comes from the Ottoman Empire era, when it was known as the Imperial Ottoman Society of the Red Crescent. In English, Kızılay translates to "Red Crescent". |
-| 12 | [Aleyküm](http://twitter.com/search?q=Aleyk%c3%bcm) | N/A |
-| 13 | [Kürt](http://twitter.com/search?q=K%c3%bcrt) | N/A |
-| 14 | [Yaralarımız Sarılıyor](http://twitter.com/search?q=Yaralar%c4%b1m%c4%b1z+Sar%c4%b1l%c4%b1yor) | N/A |
-| 15 | [28 Şubat](http://twitter.com/search?q=28+%c5%9eubat) | N/A |
-| 16 | [Kylian Mbappe](http://twitter.com/search?q=Kylian+Mbappe) | N/A |
-| 17 | [Aday](http://twitter.com/search?q=Aday) | N/A |
-| 18 | [Fenerbahçe](http://twitter.com/search?q=Fenerbah%c3%a7e) | Fenerbahçe is a Turkish sports club based in Istanbul. The name Fenerbahçe translates to "Lighthouse Garden" in English. The club is best known for its football team, which competes in the Turkish Super Lig and is one of the most successful teams in Turkey. |
-| 19 | [Yusuf Kaplan](http://twitter.com/search?q=Yusuf+Kaplan) | N/A |
-| 20 | [Murat Gezici](http://twitter.com/search?q=Murat+Gezici) | N/A |
-| 21 | [Zekeriya](http://twitter.com/search?q=Zekeriya) | N/A |
-| 22 | [Teşekkürler Erdoğan](http://twitter.com/search?q=Te%c5%9fekk%c3%bcrler+Erdo%c4%9fan) | "Teşekkürler Erdoğan" is a Turkish phrase that translates to "Thank you, Erdoğan" in English. It is a polite way of expressing gratitude to the Turkish President, Recep Tayyip Erdoğan. |
-| 23 | [Hasip](http://twitter.com/search?q=Hasip) | N/A |
-| 24 | [Tarık](http://twitter.com/search?q=Tar%c4%b1k) | N/A |
-| 25 | [YusufKerimi AnnesizBırakmayın](http://twitter.com/search?q=YusufKerimi+AnnesizB%c4%b1rakmay%c4%b1n) | N/A |
-| 26 | [Kostas Karamanlis](http://twitter.com/search?q=Kostas+Karamanlis) | N/A |
-| 27 | [Ekrem İmamoğlu](http://twitter.com/search?q=Ekrem+%c4%b0mamo%c4%9flu) | N/A |
-| 28 | [Rojbaş](http://twitter.com/search?q=Rojba%c5%9f) | N/A |
-| 29 | [ZeydBitmedi SizEksildiniz](http://twitter.com/search?q=ZeydBitmedi+SizEksildiniz) | N/A |
-| 30 | [Elbistan](http://twitter.com/search?q=Elbistan) | N/A |
-| 31 | [BahaneYok SıraTaşeronda](http://twitter.com/search?q=BahaneYok+S%c4%b1raTa%c5%9feronda) | N/A |
-| 32 | [ÖncelikAf SonraSeçim](http://twitter.com/search?q=%c3%96ncelikAf+SonraSe%c3%a7im) | N/A |
-| 33 | [Acun](http://twitter.com/search?q=Acun) | N/A |
-| 34 | [Piercing](http://twitter.com/search?q=Piercing) | N/A |
-| 35 | [Mevlüt Çavuşoğlu](http://twitter.com/search?q=Mevl%c3%bct+%c3%87avu%c5%9fo%c4%9flu) | N/A |
-| 36 | [Burç](http://twitter.com/search?q=Bur%c3%a7) | N/A |
-| 37 | [Karagümrük](http://twitter.com/search?q=Karag%c3%bcmr%c3%bck) | Karagümrük is a neighborhood in Istanbul, Turkey. The name Karagümrük is derived from the Turkish words "kara" (black) and "gümüş" (silver), referring to the blacksmiths who used to work in the area. In English, Karagümrük translates to "Blacksmith's Corner". |
-| 38 | [behramoğlu tutuklansın](http://twitter.com/search?q=behramo%c4%9flu+tutuklans%c4%b1n) | N/A |
-| 39 | [i̇yikidoğdun semihcandalgıç](http://twitter.com/search?q=i%cc%87yikido%c4%9fdun+semihcandalg%c4%b1%c3%a7) | N/A |
-| 40 | [Ahmet Ercan](http://twitter.com/search?q=Ahmet+Ercan) | N/A |
-| 41 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 42 | [Ekmeleddin](http://twitter.com/search?q=Ekmeleddin) | N/A |
-| 43 | [Sabih Kanadoğlu](http://twitter.com/search?q=Sabih+Kanado%c4%9flu) | N/A |
-| 44 | [İlhan Kesici](http://twitter.com/search?q=%c4%b0lhan+Kesici) | N/A |
-| 45 | [Yapacağız](http://twitter.com/search?q=Yapaca%c4%9f%c4%b1z) | N/A |
-| 46 | [İndirin](http://twitter.com/search?q=%c4%b0ndirin) | N/A |
-| 47 | [Mustafa Varank](http://twitter.com/search?q=Mustafa+Varank) | N/A |
-| 48 | [Serdar Tuncer](http://twitter.com/search?q=Serdar+Tuncer) | N/A |
-| 49 | [Destici](http://twitter.com/search?q=Destici) | N/A |
+| 1 | [#EYTAcilResmiGazeteye](http://twitter.com/search?q=%23EYTAcilResmiGazeteye) | N/A |
+| 2 | [#perşembe](http://twitter.com/search?q=%23per%c5%9fembe) | N/A |
+| 3 | [#TekDileğimiz](http://twitter.com/search?q=%23TekDile%c4%9fimiz) | N/A |
+| 4 | [#İstifaEtmeli](http://twitter.com/search?q=%23%c4%b0stifaEtmeli) | N/A |
+| 5 | [ÇokUygun TTHizmeti](http://twitter.com/search?q=%c3%87okUygun+TTHizmeti) | N/A |
+| 6 | [Günaydınlar](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nlar) | N/A |
+| 7 | [Yusuf Kaplan](http://twitter.com/search?q=Yusuf+Kaplan) | N/A |
+| 8 | [Yemişim](http://twitter.com/search?q=Yemi%c5%9fim) | N/A |
+| 9 | [Rojbaş](http://twitter.com/search?q=Rojba%c5%9f) | N/A |
+| 10 | [Kürt](http://twitter.com/search?q=K%c3%bcrt) | N/A |
+| 11 | [Murat Gezici](http://twitter.com/search?q=Murat+Gezici) | N/A |
+| 12 | [Terlik](http://twitter.com/search?q=Terlik) | N/A |
+| 13 | [Tunceli](http://twitter.com/search?q=Tunceli) | N/A |
+| 14 | [Millet İttifakı](http://twitter.com/search?q=Millet+%c4%b0ttifak%c4%b1) | N/A |
+| 15 | [Tarık](http://twitter.com/search?q=Tar%c4%b1k) | N/A |
+| 16 | [Selahattin Demirtaş](http://twitter.com/search?q=Selahattin+Demirta%c5%9f) | N/A |
+| 17 | [Evli](http://twitter.com/search?q=Evli) | N/A |
+| 18 | [Ekmeleddin](http://twitter.com/search?q=Ekmeleddin) | N/A |
+| 19 | [Omuz Omuza](http://twitter.com/search?q=Omuz+Omuza) | N/A |
+| 20 | [ÖncelikAf SonraSeçim](http://twitter.com/search?q=%c3%96ncelikAf+SonraSe%c3%a7im) | N/A |
+| 21 | [Anket](http://twitter.com/search?q=Anket) | N/A |
+| 22 | [Altılı Masa](http://twitter.com/search?q=Alt%c4%b1l%c4%b1+Masa) | Altılı Masa is a Turkish card game. It is similar to the American game of poker, but with some differences. The name translates literally to "Six Table" and refers to the six players who can play at one time. The goal of the game is to make the best five-card hand out of seven cards dealt to each player. |
+| 23 | [#secim2023](http://twitter.com/search?q=%23secim2023) | N/A |
+| 24 | [#StajaHakkınıVerin](http://twitter.com/search?q=%23StajaHakk%c4%b1n%c4%b1Verin) | N/A |
+| 25 | [#MilletİktidarOlacak](http://twitter.com/search?q=%23Millet%c4%b0ktidarOlacak) | N/A |
+| 26 | [#aday](http://twitter.com/search?q=%23aday) | N/A |
+| 27 | [#BoynumuzunBorcudur](http://twitter.com/search?q=%23BoynumuzunBorcudur) | N/A |
+| 28 | [#Beştepe5000VekısmiyiEkler](http://twitter.com/search?q=%23Be%c5%9ftepe5000Vek%c4%b1smiyiEkler) | N/A |
+| 29 | [#öldü](http://twitter.com/search?q=%23%c3%b6ld%c3%bc) | N/A |
+| 30 | [#kozal](http://twitter.com/search?q=%23kozal) | N/A |
+| 31 | [#Survivor](http://twitter.com/search?q=%23Survivor) | N/A |
+| 32 | [#petkm](http://twitter.com/search?q=%23petkm) | N/A |
+| 33 | [#2Mart](http://twitter.com/search?q=%232Mart) | N/A |
+| 34 | [#2000lerinOyuAdalete](http://twitter.com/search?q=%232000lerinOyuAdalete) | N/A |
+| 35 | [#toaso](http://twitter.com/search?q=%23toaso) | N/A |
+| 36 | [#HayırlıSabahlar](http://twitter.com/search?q=%23Hay%c4%b1rl%c4%b1Sabahlar) | N/A |
+| 37 | [#thyao](http://twitter.com/search?q=%23thyao) | N/A |
+| 38 | [#DepremHaftası](http://twitter.com/search?q=%23DepremHaftas%c4%b1) | N/A |
+| 39 | [#YeşilayHaftası](http://twitter.com/search?q=%23Ye%c5%9filayHaftas%c4%b1) | N/A |
+| 40 | [#kemalkilicdaroglu](http://twitter.com/search?q=%23kemalkilicdaroglu) | N/A |
+| 41 | [#Şoför14MayısıBekliyor](http://twitter.com/search?q=%23%c5%9eof%c3%b6r14May%c4%b1s%c4%b1Bekliyor) | N/A |
+| 42 | [#isdmr](http://twitter.com/search?q=%23isdmr) | N/A |
+| 43 | [#MeralAkşener](http://twitter.com/search?q=%23MeralAk%c5%9fener) | #MeralAkşener is a hashtag used to refer to Meral Akşener, a Turkish politician and leader of the Good Party. She is the first female leader of a major political party in Turkey. The hashtag is used to discuss her policies, news related to her, and other topics related to her. In English, #MeralAkşener means "Meral Akşener". |
+| 44 | [#sahol](http://twitter.com/search?q=%23sahol) | N/A |
+| 45 | [#kchol](http://twitter.com/search?q=%23kchol) | N/A |
 
 
 

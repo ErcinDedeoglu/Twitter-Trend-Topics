@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-03-02 07:16:54 UTC`
+📆 Last Updated: `2023-03-02 08:17:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Austria
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#ECR2023](http://twitter.com/search?q=%23ECR2023) | N/A |
-| 2 | [Peter](http://twitter.com/search?q=Peter) | N/A |
-| 3 | [Maske](http://twitter.com/search?q=Maske) | N/A |
-| 4 | [Ingrid](http://twitter.com/search?q=Ingrid) | N/A |
-| 5 | [#oenr](http://twitter.com/search?q=%23oenr) | N/A |
-| 6 | [Franz](http://twitter.com/search?q=Franz) | N/A |
-| 7 | [Karin](http://twitter.com/search?q=Karin) | N/A |
-| 8 | [Andreas](http://twitter.com/search?q=Andreas) | N/A |
-| 9 | [#BeyondFast](http://twitter.com/search?q=%23BeyondFast) | #BeyondFast is a hashtag used to describe something that goes beyond the speed of fast. It is used to emphasize the idea that something is faster than fast, or that it surpasses the speed of fast. |
-| 10 | [Arbeitstag](http://twitter.com/search?q=Arbeitstag) | N/A |
-| 11 | [#wahl23](http://twitter.com/search?q=%23wahl23) | N/A |
-| 12 | [Mitleid](http://twitter.com/search?q=Mitleid) | N/A |
-| 13 | [herzliche gratulation](http://twitter.com/search?q=herzliche+gratulation) | N/A |
-| 14 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 15 | [Manfred](http://twitter.com/search?q=Manfred) | N/A |
-| 16 | [Siegel](http://twitter.com/search?q=Siegel) | N/A |
-| 17 | [Wunder](http://twitter.com/search?q=Wunder) | N/A |
-| 18 | [Makler](http://twitter.com/search?q=Makler) | N/A |
-| 19 | [IKEA](http://twitter.com/search?q=IKEA) | N/A |
-| 20 | [Kooperation](http://twitter.com/search?q=Kooperation) | N/A |
-| 21 | [Antrag](http://twitter.com/search?q=Antrag) | N/A |
-| 22 | [Kärntner](http://twitter.com/search?q=K%c3%a4rntner) | N/A |
-| 23 | [hausverstand](http://twitter.com/search?q=hausverstand) | N/A |
-| 24 | [wirtschaftsbund](http://twitter.com/search?q=wirtschaftsbund) | N/A |
-| 25 | [Tage Woche](http://twitter.com/search?q=Tage+Woche) | N/A |
-| 26 | [GIVE US WN BLOOPERS](http://twitter.com/search?q=GIVE+US+WN+BLOOPERS) | N/A |
-| 27 | [Autobahnen](http://twitter.com/search?q=Autobahnen) | N/A |
-| 28 | [Büro](http://twitter.com/search?q=B%c3%bcro) | N/A |
-| 29 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 30 | [Erinnerung](http://twitter.com/search?q=Erinnerung) | N/A |
-| 31 | [Räder](http://twitter.com/search?q=R%c3%a4der) | N/A |
-| 32 | [Marokko](http://twitter.com/search?q=Marokko) | N/A |
-| 33 | [E-Fuels](http://twitter.com/search?q=E-Fuels) | N/A |
-| 34 | [Pflanzen](http://twitter.com/search?q=Pflanzen) | N/A |
-| 35 | [Vorschlag](http://twitter.com/search?q=Vorschlag) | N/A |
-| 36 | [Greece](http://twitter.com/search?q=Greece) | N/A |
-| 37 | [dosko](http://twitter.com/search?q=dosko) | N/A |
-| 38 | [Nika](http://twitter.com/search?q=Nika) | N/A |
-| 39 | [schönen nachmittag](http://twitter.com/search?q=sch%c3%b6nen+nachmittag) | N/A |
-| 40 | [Konkurrenz](http://twitter.com/search?q=Konkurrenz) | N/A |
-| 41 | [Ziegler](http://twitter.com/search?q=Ziegler) | N/A |
-| 42 | [Garten](http://twitter.com/search?q=Garten) | N/A |
-| 43 | [Trottel](http://twitter.com/search?q=Trottel) | N/A |
-| 44 | [bures](http://twitter.com/search?q=bures) | N/A |
-| 45 | [Fetzen](http://twitter.com/search?q=Fetzen) | N/A |
-| 46 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
-| 47 | [Vergewaltigung](http://twitter.com/search?q=Vergewaltigung) | N/A |
-| 48 | [rendi-wagner](http://twitter.com/search?q=rendi-wagner) | N/A |
-| 49 | [van der bellen](http://twitter.com/search?q=van+der+bellen) | N/A |
-| 50 | [Verfügung](http://twitter.com/search?q=Verf%c3%bcgung) | N/A |
+| 2 | [Maske](http://twitter.com/search?q=Maske) | N/A |
+| 3 | [Helmut](http://twitter.com/search?q=Helmut) | N/A |
+| 4 | [#oenr](http://twitter.com/search?q=%23oenr) | N/A |
+| 5 | [Franz](http://twitter.com/search?q=Franz) | N/A |
+| 6 | [Karin](http://twitter.com/search?q=Karin) | N/A |
+| 7 | [Ingrid](http://twitter.com/search?q=Ingrid) | N/A |
+| 8 | [Manfred](http://twitter.com/search?q=Manfred) | N/A |
+| 9 | [Peter](http://twitter.com/search?q=Peter) | N/A |
+| 10 | [Außenpolitik](http://twitter.com/search?q=Au%c3%9fenpolitik) | N/A |
+| 11 | [#BeyondFast](http://twitter.com/search?q=%23BeyondFast) | #BeyondFast is a hashtag used to describe something that goes beyond the speed of fast. It is used to emphasize the idea that something is faster than fast, or that it surpasses the speed of fast. |
+| 12 | [Tage Woche](http://twitter.com/search?q=Tage+Woche) | N/A |
+| 13 | [Arbeitstag](http://twitter.com/search?q=Arbeitstag) | N/A |
+| 14 | [#wahl23](http://twitter.com/search?q=%23wahl23) | N/A |
+| 15 | [Herzliche Gratulation](http://twitter.com/search?q=Herzliche+Gratulation) | N/A |
+| 16 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 17 | [Kärntner](http://twitter.com/search?q=K%c3%a4rntner) | N/A |
+| 18 | [Siegel](http://twitter.com/search?q=Siegel) | N/A |
+| 19 | [Holz](http://twitter.com/search?q=Holz) | N/A |
+| 20 | [Wunder](http://twitter.com/search?q=Wunder) | N/A |
+| 21 | [Beweis](http://twitter.com/search?q=Beweis) | N/A |
+| 22 | [Antrag](http://twitter.com/search?q=Antrag) | N/A |
+| 23 | [Makler](http://twitter.com/search?q=Makler) | N/A |
+| 24 | [IKEA](http://twitter.com/search?q=IKEA) | N/A |
+| 25 | [Kooperation](http://twitter.com/search?q=Kooperation) | N/A |
+| 26 | [Andrea](http://twitter.com/search?q=Andrea) | Andrea is a feminine given name of Italian origin. It is derived from the Greek word andreios, meaning "manly" or "masculine". In English, Andrea is often translated as "daring" or "brave". |
+| 27 | [Mitleid](http://twitter.com/search?q=Mitleid) | N/A |
+| 28 | [Schuld](http://twitter.com/search?q=Schuld) | N/A |
+| 29 | [GIVE US WN BLOOPERS](http://twitter.com/search?q=GIVE+US+WN+BLOOPERS) | N/A |
+| 30 | [Autobahnen](http://twitter.com/search?q=Autobahnen) | N/A |
+| 31 | [Arbeitszeit](http://twitter.com/search?q=Arbeitszeit) | N/A |
+| 32 | [Freizeit](http://twitter.com/search?q=Freizeit) | N/A |
+| 33 | [Trottel](http://twitter.com/search?q=Trottel) | N/A |
+| 34 | [Kommunismus](http://twitter.com/search?q=Kommunismus) | N/A |
+| 35 | [E-Auto](http://twitter.com/search?q=E-Auto) | N/A |
+| 36 | [Erinnerung](http://twitter.com/search?q=Erinnerung) | N/A |
+| 37 | [Räder](http://twitter.com/search?q=R%c3%a4der) | N/A |
+| 38 | [Marokko](http://twitter.com/search?q=Marokko) | N/A |
+| 39 | [E-Fuels](http://twitter.com/search?q=E-Fuels) | N/A |
+| 40 | [Pflanzen](http://twitter.com/search?q=Pflanzen) | N/A |
+| 41 | [Greece](http://twitter.com/search?q=Greece) | N/A |
+| 42 | [dosko](http://twitter.com/search?q=dosko) | N/A |
+| 43 | [Solidarität](http://twitter.com/search?q=Solidarit%c3%a4t) | N/A |
+| 44 | [schönen nachmittag](http://twitter.com/search?q=sch%c3%b6nen+nachmittag) | N/A |
+| 45 | [Gerät](http://twitter.com/search?q=Ger%c3%a4t) | N/A |
+| 46 | [Konkurrenz](http://twitter.com/search?q=Konkurrenz) | N/A |
+| 47 | [Ziegler](http://twitter.com/search?q=Ziegler) | N/A |
+| 48 | [Garten](http://twitter.com/search?q=Garten) | N/A |
+| 49 | [Gehsteig](http://twitter.com/search?q=Gehsteig) | N/A |
+| 50 | [Fetzen](http://twitter.com/search?q=Fetzen) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Colombia
 
-📆 Last Updated: `2023-03-02 07:16:55 UTC`
+📆 Last Updated: `2023-03-02 08:17:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,12 +19,12 @@ This is top 50 for Colombia
 | 2 | [Viva Air](http://twitter.com/search?q=Viva+Air) | N/A |
 | 3 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
 | 4 | [Avianca](http://twitter.com/search?q=Avianca) | N/A |
-| 5 | [#AnaDeNadie](http://twitter.com/search?q=%23AnaDeNadie) | N/A |
-| 6 | [Blink 182](http://twitter.com/search?q=Blink+182) | N/A |
-| 7 | [Vargas Lleras](http://twitter.com/search?q=Vargas+Lleras) | N/A |
-| 8 | [#UnaCrisisEs](http://twitter.com/search?q=%23UnaCrisisEs) | N/A |
+| 5 | [Blink 182](http://twitter.com/search?q=Blink+182) | N/A |
+| 6 | [Vargas Lleras](http://twitter.com/search?q=Vargas+Lleras) | N/A |
+| 7 | [#UnaCrisisEs](http://twitter.com/search?q=%23UnaCrisisEs) | N/A |
+| 8 | [#AnaDeNadie](http://twitter.com/search?q=%23AnaDeNadie) | N/A |
 | 9 | [Satena](http://twitter.com/search?q=Satena) | N/A |
-| 10 | [Celag](http://twitter.com/search?q=Celag) | N/A |
+| 10 | [CELAG](http://twitter.com/search?q=CELAG) | N/A |
 | 11 | [#VentinoLaSerie](http://twitter.com/search?q=%23VentinoLaSerie) | N/A |
 | 12 | [twenty one pilots](http://twitter.com/search?q=twenty+one+pilots) | N/A |
 | 13 | [Angelo](http://twitter.com/search?q=Angelo) | N/A |
@@ -37,7 +37,7 @@ This is top 50 for Colombia
 | 20 | [Juan Lozano](http://twitter.com/search?q=Juan+Lozano) | N/A |
 | 21 | [Invamer](http://twitter.com/search?q=Invamer) | N/A |
 | 22 | [Sabina](http://twitter.com/search?q=Sabina) | N/A |
-| 23 | [tina](http://twitter.com/search?q=tina) | N/A |
+| 23 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
 | 24 | [Marzo con M](http://twitter.com/search?q=Marzo+con+M) | N/A |
 | 25 | [Jamming](http://twitter.com/search?q=Jamming) | N/A |
 | 26 | [Pinto](http://twitter.com/search?q=Pinto) | N/A |
@@ -45,7 +45,7 @@ This is top 50 for Colombia
 | 28 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
 | 29 | [Travis](http://twitter.com/search?q=Travis) | N/A |
 | 30 | [Campos](http://twitter.com/search?q=Campos) | N/A |
-| 31 | [Daniel Torres](http://twitter.com/search?q=Daniel+Torres) | N/A |
+| 31 | [daniel torres](http://twitter.com/search?q=daniel+torres) | N/A |
 | 32 | [Westcol](http://twitter.com/search?q=Westcol) | N/A |
 | 33 | [Maras](http://twitter.com/search?q=Maras) | N/A |
 | 34 | [Bienvenido Marzo](http://twitter.com/search?q=Bienvenido+Marzo) | N/A |
@@ -55,8 +55,8 @@ This is top 50 for Colombia
 | 38 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
 | 39 | [Pardo](http://twitter.com/search?q=Pardo) | N/A |
 | 40 | [Gabigol](http://twitter.com/search?q=Gabigol) | Gabigol is a nickname given to Brazilian footballer Gabriel Barbosa, who currently plays for Flamengo. The nickname is a combination of his first name, Gabriel, and the Portuguese word for goal, gol. In English, the nickname translates to "Gabriel Goal". |
-| 41 | [Transcaribe](http://twitter.com/search?q=Transcaribe) | N/A |
-| 42 | [Osuna](http://twitter.com/search?q=Osuna) | N/A |
+| 41 | [Osuna](http://twitter.com/search?q=Osuna) | N/A |
+| 42 | [Maracaná](http://twitter.com/search?q=Maracan%c3%a1) | N/A |
 | 43 | [Cambindo](http://twitter.com/search?q=Cambindo) | N/A |
 | 44 | [Zorro](http://twitter.com/search?q=Zorro) | N/A |
 | 45 | [HYBE PROTECT RM](http://twitter.com/search?q=HYBE+PROTECT+RM) | N/A |

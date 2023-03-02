@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zaragoza
 
-📆 Last Updated: `2023-03-02 07:16:23 UTC`
+📆 Last Updated: `2023-03-02 08:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,43 +26,43 @@ This is top 50 for [Spain](</Spain>)
 | 9 | [feliz día de andalucía](http://twitter.com/search?q=feliz+d%c3%ada+de+andaluc%c3%ada) | N/A |
 | 10 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
 | 11 | [#OsasunaAthletic](http://twitter.com/search?q=%23OsasunaAthletic) | N/A |
-| 12 | [Elías](http://twitter.com/search?q=El%c3%adas) | N/A |
-| 13 | [Mediador](http://twitter.com/search?q=Mediador) | N/A |
+| 12 | [Mediador](http://twitter.com/search?q=Mediador) | N/A |
+| 13 | [Elías](http://twitter.com/search?q=El%c3%adas) | N/A |
 | 14 | [Patxi](http://twitter.com/search?q=Patxi) | N/A |
-| 15 | [tina](http://twitter.com/search?q=tina) | N/A |
-| 16 | [Pelayo Novo](http://twitter.com/search?q=Pelayo+Novo) | N/A |
-| 17 | [PutiSOE](http://twitter.com/search?q=PutiSOE) | N/A |
-| 18 | [España](http://twitter.com/search?q=Espa%c3%b1a) | N/A |
-| 19 | [Youth League](http://twitter.com/search?q=Youth+League) | N/A |
-| 20 | [vesga](http://twitter.com/search?q=vesga) | N/A |
-| 21 | [Campanilla](http://twitter.com/search?q=Campanilla) | N/A |
-| 22 | [Autoevaluación HONESTA](http://twitter.com/search?q=Autoevaluaci%c3%b3n+HONESTA) | N/A |
-| 23 | [El Sadar](http://twitter.com/search?q=El+Sadar) | N/A |
-| 24 | [Alexandra Jiménez](http://twitter.com/search?q=Alexandra+Jim%c3%a9nez) | N/A |
-| 25 | [Peter Pan](http://twitter.com/search?q=Peter+Pan) | N/A |
-| 26 | [Dani García](http://twitter.com/search?q=Dani+Garc%c3%ada) | N/A |
-| 27 | [Iribar](http://twitter.com/search?q=Iribar) | N/A |
-| 28 | [Alvise](http://twitter.com/search?q=Alvise) | N/A |
-| 29 | [De Marcos](http://twitter.com/search?q=De+Marcos) | N/A |
-| 30 | [Grogu](http://twitter.com/search?q=Grogu) | N/A |
-| 31 | [Kitchen](http://twitter.com/search?q=Kitchen) | N/A |
-| 32 | [Del Pino](http://twitter.com/search?q=Del+Pino) | N/A |
-| 33 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
-| 34 | [iker bravo](http://twitter.com/search?q=iker+bravo) | N/A |
-| 35 | [San Mamés](http://twitter.com/search?q=San+Mam%c3%a9s) | San Mamés is the name of a football stadium in Bilbao, Spain. It is the home stadium of Athletic Bilbao, a Spanish football club. The name San Mamés comes from a local saint, Saint Mammes of Caesarea, who was martyred in the 3rd century AD. In English, San Mamés translates to "Saint Mammes". |
-| 36 | [PP de Canarias](http://twitter.com/search?q=PP+de+Canarias) | N/A |
-| 37 | [Rajoy](http://twitter.com/search?q=Rajoy) | N/A |
-| 38 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 39 | [Zoro](http://twitter.com/search?q=Zoro) | N/A |
-| 40 | [Adolescentes](http://twitter.com/search?q=Adolescentes) | N/A |
-| 41 | [Pachi](http://twitter.com/search?q=Pachi) | N/A |
-| 42 | [Inmoral](http://twitter.com/search?q=Inmoral) | N/A |
-| 43 | [Petro](http://twitter.com/search?q=Petro) | N/A |
-| 44 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
-| 45 | [Venus y Júpiter](http://twitter.com/search?q=Venus+y+J%c3%bapiter) | N/A |
-| 46 | [Miguel Bosé](http://twitter.com/search?q=Miguel+Bos%c3%a9) | N/A |
-| 47 | [Ramsés](http://twitter.com/search?q=Rams%c3%a9s) | N/A |
-| 48 | [Patriotas](http://twitter.com/search?q=Patriotas) | N/A |
+| 15 | [España](http://twitter.com/search?q=Espa%c3%b1a) | N/A |
+| 16 | [Mt 7](http://twitter.com/search?q=Mt+7) | N/A |
+| 17 | [tina](http://twitter.com/search?q=tina) | N/A |
+| 18 | [Pelayo Novo](http://twitter.com/search?q=Pelayo+Novo) | N/A |
+| 19 | [PutiSOE](http://twitter.com/search?q=PutiSOE) | N/A |
+| 20 | [Campanilla](http://twitter.com/search?q=Campanilla) | N/A |
+| 21 | [Youth League](http://twitter.com/search?q=Youth+League) | N/A |
+| 22 | [JCOLE](http://twitter.com/search?q=JCOLE) | N/A |
+| 23 | [feliz miércoles](http://twitter.com/search?q=feliz+mi%c3%a9rcoles) | N/A |
+| 24 | [vesga](http://twitter.com/search?q=vesga) | N/A |
+| 25 | [Autoevaluación HONESTA](http://twitter.com/search?q=Autoevaluaci%c3%b3n+HONESTA) | N/A |
+| 26 | [Juernes](http://twitter.com/search?q=Juernes) | N/A |
+| 27 | [Kitchen](http://twitter.com/search?q=Kitchen) | N/A |
+| 28 | [Peter Pan](http://twitter.com/search?q=Peter+Pan) | N/A |
+| 29 | [Cornelio](http://twitter.com/search?q=Cornelio) | N/A |
+| 30 | [Alvise](http://twitter.com/search?q=Alvise) | N/A |
+| 31 | [El Sadar](http://twitter.com/search?q=El+Sadar) | N/A |
+| 32 | [Iribar](http://twitter.com/search?q=Iribar) | N/A |
+| 33 | [Rajoy](http://twitter.com/search?q=Rajoy) | N/A |
+| 34 | [Audiencia Nacional](http://twitter.com/search?q=Audiencia+Nacional) | N/A |
+| 35 | [Del Pino](http://twitter.com/search?q=Del+Pino) | N/A |
+| 36 | [Alexandra Jiménez](http://twitter.com/search?q=Alexandra+Jim%c3%a9nez) | N/A |
+| 37 | [San Mamés](http://twitter.com/search?q=San+Mam%c3%a9s) | San Mamés is the name of a football stadium in Bilbao, Spain. It is the home stadium of Athletic Bilbao, a Spanish football club. The name San Mamés comes from a local saint, Saint Mammes of Caesarea, who was martyred in the 3rd century AD. In English, San Mamés translates to "Saint Mammes". |
+| 38 | [De Marcos](http://twitter.com/search?q=De+Marcos) | N/A |
+| 39 | [Andrea Fernández](http://twitter.com/search?q=Andrea+Fern%c3%a1ndez) | N/A |
+| 40 | [iker bravo](http://twitter.com/search?q=iker+bravo) | N/A |
+| 41 | [Adolescentes](http://twitter.com/search?q=Adolescentes) | N/A |
+| 42 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
+| 43 | [PP de Canarias](http://twitter.com/search?q=PP+de+Canarias) | N/A |
+| 44 | [Ramsés](http://twitter.com/search?q=Rams%c3%a9s) | N/A |
+| 45 | [Dani García](http://twitter.com/search?q=Dani+Garc%c3%ada) | N/A |
+| 46 | [Zoro](http://twitter.com/search?q=Zoro) | N/A |
+| 47 | [Grogu](http://twitter.com/search?q=Grogu) | N/A |
+| 48 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 
 
 

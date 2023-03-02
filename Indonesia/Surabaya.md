@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Surabaya
 
-📆 Last Updated: `2023-03-02 07:16:25 UTC`
+📆 Last Updated: `2023-03-02 08:16:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,52 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#JakartaBINPastiBisa](http://twitter.com/search?q=%23JakartaBINPastiBisa) | N/A |
-| 2 | [J.COLE](http://twitter.com/search?q=J.COLE) | N/A |
-| 3 | [#BliMinBeliin](http://twitter.com/search?q=%23BliMinBeliin) | N/A |
-| 4 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
-| 5 | [#TAEYONGtoPFW23](http://twitter.com/search?q=%23TAEYONGtoPFW23) | N/A |
+| 1 | [#SamsungM23dariShopee](http://twitter.com/search?q=%23SamsungM23dariShopee) | N/A |
+| 2 | [#JakartaBINPastiBisa](http://twitter.com/search?q=%23JakartaBINPastiBisa) | N/A |
+| 3 | [Silent](http://twitter.com/search?q=Silent) | N/A |
+| 4 | [JCOLE](http://twitter.com/search?q=JCOLE) | N/A |
+| 5 | [#BliMinBeliin](http://twitter.com/search?q=%23BliMinBeliin) | N/A |
 | 6 | [#BlibliSelalu](http://twitter.com/search?q=%23BlibliSelalu) | N/A |
-| 7 | [TY WEARS LOEWE](http://twitter.com/search?q=TY+WEARS+LOEWE) | N/A |
-| 8 | [#LIKEITLIKEIT_MVTeaser2](http://twitter.com/search?q=%23LIKEITLIKEIT_MVTeaser2) | N/A |
-| 9 | [Silent](http://twitter.com/search?q=Silent) | N/A |
-| 10 | [iKON IS COMING TO TOWN](http://twitter.com/search?q=iKON+IS+COMING+TO+TOWN) | N/A |
-| 11 | [J-HOPE](http://twitter.com/search?q=J-HOPE) | N/A |
-| 12 | [TWICE BILLBOARD AWARD](http://twitter.com/search?q=TWICE+BILLBOARD+AWARD) | N/A |
-| 13 | [Jalur](http://twitter.com/search?q=Jalur) | N/A |
-| 14 | [jihyo](http://twitter.com/search?q=jihyo) | Jihyo is a Korean given name, usually for females. It is composed of two characters, the first meaning "wisdom" and the second meaning "beauty". In English, it can be translated to mean "wise beauty". |
-| 15 | [Berita Ekonomi Terkini](http://twitter.com/search?q=Berita+Ekonomi+Terkini) | N/A |
-| 16 | [I LIKE IT](http://twitter.com/search?q=I+LIKE+IT) | N/A |
-| 17 | [STOP MISTREATING MILE](http://twitter.com/search?q=STOP+MISTREATING+MILE) | N/A |
-| 18 | [Adeknya](http://twitter.com/search?q=Adeknya) | N/A |
-| 19 | [Mino](http://twitter.com/search?q=Mino) | N/A |
-| 20 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 21 | [BLOOMING WITH LEESEO](http://twitter.com/search?q=BLOOMING+WITH+LEESEO) | N/A |
-| 22 | [Andai](http://twitter.com/search?q=Andai) | N/A |
+| 7 | [#PSSday](http://twitter.com/search?q=%23PSSday) | N/A |
+| 8 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
+| 9 | [TY WEARS LOEWE](http://twitter.com/search?q=TY+WEARS+LOEWE) | N/A |
+| 10 | [Jalur](http://twitter.com/search?q=Jalur) | N/A |
+| 11 | [TWICE BILLBOARD AWARD](http://twitter.com/search?q=TWICE+BILLBOARD+AWARD) | N/A |
+| 12 | [Andai](http://twitter.com/search?q=Andai) | N/A |
+| 13 | [J-HOPE](http://twitter.com/search?q=J-HOPE) | N/A |
+| 14 | [Berita Ekonomi Terkini](http://twitter.com/search?q=Berita+Ekonomi+Terkini) | N/A |
+| 15 | [Sisanya](http://twitter.com/search?q=Sisanya) | N/A |
+| 16 | [Adeknya](http://twitter.com/search?q=Adeknya) | N/A |
+| 17 | [Mino](http://twitter.com/search?q=Mino) | N/A |
+| 18 | [iKON](http://twitter.com/search?q=iKON) | N/A |
+| 19 | [BLOOMING WITH LEESEO](http://twitter.com/search?q=BLOOMING+WITH+LEESEO) | N/A |
+| 20 | [Kucingku](http://twitter.com/search?q=Kucingku) | N/A |
+| 21 | [Blackpink](http://twitter.com/search?q=Blackpink) | Blackpink is a South Korean girl group formed by YG Entertainment in 2016. The group consists of four members: Jisoo, Jennie, Rosé, and Lisa. The name "Blackpink" is a combination of the words "black" and "pink," which symbolizes the group's duality of both powerful and sweet elements. |
+| 22 | [minghao](http://twitter.com/search?q=minghao) | N/A |
 | 23 | [Gelora Buat Konser](http://twitter.com/search?q=Gelora+Buat+Konser) | N/A |
-| 24 | [Sisanya](http://twitter.com/search?q=Sisanya) | N/A |
-| 25 | [5M BUILD](http://twitter.com/search?q=5M+BUILD) | N/A |
-| 26 | [SECRET NUMBER JAPAN DEBUT](http://twitter.com/search?q=SECRET+NUMBER+JAPAN+DEBUT) | N/A |
-| 27 | [THE PORTRAITS OF JISOO](http://twitter.com/search?q=THE+PORTRAITS+OF+JISOO) | N/A |
-| 28 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
-| 29 | [minghao](http://twitter.com/search?q=minghao) | N/A |
-| 30 | [Gaji](http://twitter.com/search?q=Gaji) | N/A |
-| 31 | [Sheila Dara](http://twitter.com/search?q=Sheila+Dara) | N/A |
-| 32 | [Jambi](http://twitter.com/search?q=Jambi) | N/A |
-| 33 | [#anisd](http://twitter.com/search?q=%23anisd) | N/A |
-| 34 | [#BBWomenInMusic](http://twitter.com/search?q=%23BBWomenInMusic) | N/A |
-| 35 | [#TWICE_BreakthroughAward](http://twitter.com/search?q=%23TWICE_BreakthroughAward) | N/A |
-| 36 | [#SavePendampingDesa](http://twitter.com/search?q=%23SavePendampingDesa) | N/A |
-| 37 | [#BOBBY1stSoloSingle](http://twitter.com/search?q=%23BOBBY1stSoloSingle) | N/A |
-| 38 | [#KPKKenaPrank](http://twitter.com/search?q=%23KPKKenaPrank) | N/A |
-| 39 | [#on_the_street](http://twitter.com/search?q=%23on_the_street) | N/A |
-| 40 | [#BOCdoBetterForMile](http://twitter.com/search?q=%23BOCdoBetterForMile) | N/A |
-| 41 | [#ZeeNuNewKoreaInterview](http://twitter.com/search?q=%23ZeeNuNewKoreaInterview) | N/A |
-| 42 | [#WelcomeLeeseoToHanlim](http://twitter.com/search?q=%23WelcomeLeeseoToHanlim) | N/A |
-| 43 | [#PSSday](http://twitter.com/search?q=%23PSSday) | N/A |
-| 44 | [#GerakanUntukGanjar](http://twitter.com/search?q=%23GerakanUntukGanjar) | N/A |
+| 24 | [Jambi](http://twitter.com/search?q=Jambi) | N/A |
+| 25 | [#ANISD](http://twitter.com/search?q=%23ANISD) | N/A |
+| 26 | [#TAEYONGtoPFW23](http://twitter.com/search?q=%23TAEYONGtoPFW23) | N/A |
+| 27 | [#KPKKenaPrank](http://twitter.com/search?q=%23KPKKenaPrank) | N/A |
+| 28 | [#LIKEITLIKEIT_MVTeaser2](http://twitter.com/search?q=%23LIKEITLIKEIT_MVTeaser2) | N/A |
+| 29 | [#BOBBY1stSoloSingle](http://twitter.com/search?q=%23BOBBY1stSoloSingle) | N/A |
+| 30 | [#BOCdoBetterForMile](http://twitter.com/search?q=%23BOCdoBetterForMile) | N/A |
+| 31 | [#BBWomenInMusic](http://twitter.com/search?q=%23BBWomenInMusic) | N/A |
+| 32 | [#on_the_street](http://twitter.com/search?q=%23on_the_street) | N/A |
+| 33 | [#TWICE_BreakthroughAward](http://twitter.com/search?q=%23TWICE_BreakthroughAward) | N/A |
+| 34 | [#SavePendampingDesa](http://twitter.com/search?q=%23SavePendampingDesa) | N/A |
+| 35 | [#WelcomeLeeseoToHanlim](http://twitter.com/search?q=%23WelcomeLeeseoToHanlim) | N/A |
+| 36 | [#LIKE_IT_LIKE_IT](http://twitter.com/search?q=%23LIKE_IT_LIKE_IT) | N/A |
+| 37 | [#ZeeNuNewKoreaInterview](http://twitter.com/search?q=%23ZeeNuNewKoreaInterview) | N/A |
+| 38 | [#HARAM](http://twitter.com/search?q=%23HARAM) | N/A |
+| 39 | [#TOP100KPOPMAKNAES](http://twitter.com/search?q=%23TOP100KPOPMAKNAES) | N/A |
+| 40 | [#GerakanUntukGanjar](http://twitter.com/search?q=%23GerakanUntukGanjar) | N/A |
+| 41 | [#VirgoandTheSparklings](http://twitter.com/search?q=%23VirgoandTheSparklings) | N/A |
+| 42 | [#RPLDesa](http://twitter.com/search?q=%23RPLDesa) | N/A |
+| 43 | [#JISOOxDUNST](http://twitter.com/search?q=%23JISOOxDUNST) | N/A |
+| 44 | [#シークレットナンバー](http://twitter.com/search?q=%23%e3%82%b7%e3%83%bc%e3%82%af%e3%83%ac%e3%83%83%e3%83%88%e3%83%8a%e3%83%b3%e3%83%90%e3%83%bc) | N/A |
 | 45 | [#KembangApi](http://twitter.com/search?q=%23KembangApi) | N/A |
-| 46 | [#HARAM](http://twitter.com/search?q=%23HARAM) | N/A |
-| 47 | [#2AndHalfMWithBuild](http://twitter.com/search?q=%232AndHalfMWithBuild) | N/A |
-| 48 | [#シークレットナンバー](http://twitter.com/search?q=%23%e3%82%b7%e3%83%bc%e3%82%af%e3%83%ac%e3%83%83%e3%83%88%e3%83%8a%e3%83%b3%e3%83%90%e3%83%bc) | N/A |
-| 49 | [#TOP100KPOPMAKNAES](http://twitter.com/search?q=%23TOP100KPOPMAKNAES) | N/A |
-| 50 | [#RPLDesa](http://twitter.com/search?q=%23RPLDesa) | N/A |
+| 46 | [#GiTalk](http://twitter.com/search?q=%23GiTalk) | N/A |
 
 
 
