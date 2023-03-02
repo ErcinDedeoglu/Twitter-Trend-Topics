@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Memphis
 
-📆 Last Updated: `2023-03-02 15:17:02 UTC`
+📆 Last Updated: `2023-03-02 16:17:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Vandy](http://twitter.com/search?q=Vandy) | Vandy is a nickname for Vanderbilt University, a private research university located in Nashville, Tennessee. The name is derived from the university's namesake, Cornelius Vanderbilt. |
-| 2 | [Kentucky](http://twitter.com/search?q=Kentucky) | Kentucky is a state in the United States located in the east south-central region of the country. It is bordered by seven states, including Virginia to the southeast, Tennessee to the south, Missouri to the west, Illinois and Indiana to the northwest, and Ohio to the northeast. Kentucky is known for its bluegrass music, bourbon whiskey, horse racing, and college basketball. The state's nickname is "The Bluegrass State" due to its fertile soil and abundance of bluegrass. |
-| 3 | [#BoycottHersheys](http://twitter.com/search?q=%23BoycottHersheys) | N/A |
-| 4 | [Bertuzzi](http://twitter.com/search?q=Bertuzzi) | N/A |
-| 5 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 6 | [#ReadAcrossAmericaDay](http://twitter.com/search?q=%23ReadAcrossAmericaDay) | N/A |
-| 7 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 8 | [#WorldBookDay](http://twitter.com/search?q=%23WorldBookDay) | N/A |
+| 1 | [#MurdaughTrial](http://twitter.com/search?q=%23MurdaughTrial) | N/A |
+| 2 | [Hershey](http://twitter.com/search?q=Hershey) | N/A |
+| 3 | [#ReadAcrossAmericaDay](http://twitter.com/search?q=%23ReadAcrossAmericaDay) | N/A |
+| 4 | [Don Sweeney](http://twitter.com/search?q=Don+Sweeney) | N/A |
+| 5 | [Bertuzzi](http://twitter.com/search?q=Bertuzzi) | N/A |
+| 6 | [#WorldBookDay](http://twitter.com/search?q=%23WorldBookDay) | N/A |
+| 7 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 8 | [TIFFANY](http://twitter.com/search?q=TIFFANY) | N/A |
 | 9 | [Texas Independence Day](http://twitter.com/search?q=Texas+Independence+Day) | N/A |
-| 10 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
-| 11 | [Dr. Seuss](http://twitter.com/search?q=Dr.+Seuss) | N/A |
-| 12 | [mnet](http://twitter.com/search?q=mnet) | N/A |
-| 13 | [Don Sweeney](http://twitter.com/search?q=Don+Sweeney) | N/A |
-| 14 | [DK Summit](http://twitter.com/search?q=DK+Summit) | N/A |
-| 15 | [Waluigi Stadium](http://twitter.com/search?q=Waluigi+Stadium) | N/A |
-| 16 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
-| 17 | [KEITA](http://twitter.com/search?q=KEITA) | N/A |
-| 18 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
-| 19 | [DS Mario Circuit](http://twitter.com/search?q=DS+Mario+Circuit) | N/A |
-| 20 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
-| 21 | [Chaka Khan](http://twitter.com/search?q=Chaka+Khan) | N/A |
-| 22 | [Juror](http://twitter.com/search?q=Juror) | N/A |
-| 23 | [yujin](http://twitter.com/search?q=yujin) | N/A |
-| 24 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 25 | [Judge Newman](http://twitter.com/search?q=Judge+Newman) | N/A |
-| 26 | [seok matthew](http://twitter.com/search?q=seok+matthew) | N/A |
-| 27 | [jiho](http://twitter.com/search?q=jiho) | N/A |
-| 28 | [Bryansk](http://twitter.com/search?q=Bryansk) | N/A |
-| 29 | [Tucson](http://twitter.com/search?q=Tucson) | N/A |
-| 30 | [Daily Quordle 402](http://twitter.com/search?q=Daily+Quordle+402) | N/A |
-| 31 | [Michael Darby](http://twitter.com/search?q=Michael+Darby) | N/A |
-| 32 | [Thirsty Thursday](http://twitter.com/search?q=Thirsty+Thursday) | N/A |
-| 33 | [Foligno](http://twitter.com/search?q=Foligno) | N/A |
-| 34 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
-| 35 | [takuto](http://twitter.com/search?q=takuto) | N/A |
-| 36 | [$TSLA](http://twitter.com/search?q=%24TSLA) | $TSLA is the stock symbol for Tesla, Inc., an American electric vehicle and clean energy company. It is traded on the Nasdaq stock exchange. |
-| 37 | [Republic of Texas](http://twitter.com/search?q=Republic+of+Texas) | N/A |
-| 38 | [Karen Carpenter](http://twitter.com/search?q=Karen+Carpenter) | N/A |
-| 39 | [ni hao](http://twitter.com/search?q=ni+hao) | N/A |
-| 40 | [Wo Long](http://twitter.com/search?q=Wo+Long) | N/A |
-| 41 | [Jim Griffin](http://twitter.com/search?q=Jim+Griffin) | N/A |
-| 42 | [Doechii](http://twitter.com/search?q=Doechii) | N/A |
-| 43 | [Christopher Reeves](http://twitter.com/search?q=Christopher+Reeves) | N/A |
-| 44 | [Krejci](http://twitter.com/search?q=Krejci) | N/A |
-| 45 | [Dratini](http://twitter.com/search?q=Dratini) | N/A |
-| 46 | [AURORA](http://twitter.com/search?q=AURORA) | N/A |
-| 47 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
-| 48 | [Trapinch](http://twitter.com/search?q=Trapinch) | N/A |
+| 10 | [Dr. Seuss](http://twitter.com/search?q=Dr.+Seuss) | N/A |
+| 11 | [Jim Griffin](http://twitter.com/search?q=Jim+Griffin) | N/A |
+| 12 | [Pasta](http://twitter.com/search?q=Pasta) | N/A |
+| 13 | [David Pastrnak](http://twitter.com/search?q=David+Pastrnak) | N/A |
+| 14 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
+| 15 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 16 | [Chaka](http://twitter.com/search?q=Chaka) | N/A |
+| 17 | [DK Summit](http://twitter.com/search?q=DK+Summit) | N/A |
+| 18 | [Waluigi Stadium](http://twitter.com/search?q=Waluigi+Stadium) | N/A |
+| 19 | [LTIR](http://twitter.com/search?q=LTIR) | N/A |
+| 20 | [Tucson](http://twitter.com/search?q=Tucson) | N/A |
+| 21 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
+| 22 | [DS Mario Circuit](http://twitter.com/search?q=DS+Mario+Circuit) | N/A |
+| 23 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 24 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
+| 25 | [happy friday eve](http://twitter.com/search?q=happy+friday+eve) | N/A |
+| 26 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
+| 27 | [Dior](http://twitter.com/search?q=Dior) | Dior is a French luxury fashion house founded in 1946 by Christian Dior. The name Dior is derived from the founder's surname and is an abbreviation of his full name, Christian Dior. In English, it means "of or relating to Christian Dior". |
+| 28 | [Michael Darby](http://twitter.com/search?q=Michael+Darby) | N/A |
+| 29 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
+| 30 | [Taylor Hall](http://twitter.com/search?q=Taylor+Hall) | N/A |
+| 31 | [Claxton](http://twitter.com/search?q=Claxton) | Claxton is a surname of English origin. It is derived from the Old English words 'claec' meaning clay and 'tun' meaning settlement or farm. The name was originally given to someone who lived near a clay settlement or farm. |
+| 32 | [Judge Newman](http://twitter.com/search?q=Judge+Newman) | N/A |
+| 33 | [Juror](http://twitter.com/search?q=Juror) | N/A |
+| 34 | [Riverside Park](http://twitter.com/search?q=Riverside+Park) | N/A |
+| 35 | [Bergeron](http://twitter.com/search?q=Bergeron) | N/A |
+| 36 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 37 | [yujin](http://twitter.com/search?q=yujin) | N/A |
+| 38 | [Bryansk](http://twitter.com/search?q=Bryansk) | N/A |
+| 39 | [Congratulations Jimin](http://twitter.com/search?q=Congratulations+Jimin) | "Congratulations Jimin" is a phrase used to express congratulations or best wishes to someone named Jimin. It is typically used in situations such as when someone has achieved a goal, received an award, or accomplished something noteworthy. |
+| 40 | [Dratini](http://twitter.com/search?q=Dratini) | N/A |
+| 41 | [Yzerman](http://twitter.com/search?q=Yzerman) | N/A |
+| 42 | [Krejci](http://twitter.com/search?q=Krejci) | N/A |
+| 43 | [Thirsty Thursday](http://twitter.com/search?q=Thirsty+Thursday) | N/A |
+| 44 | [The Bruins](http://twitter.com/search?q=The+Bruins) | N/A |
+| 45 | [Double Dash](http://twitter.com/search?q=Double+Dash) | N/A |
+| 46 | [SEOK MATTHEW](http://twitter.com/search?q=SEOK+MATTHEW) | N/A |
+| 47 | [jiho](http://twitter.com/search?q=jiho) | N/A |
+| 48 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
 
 
 

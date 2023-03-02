@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Malaysia
 
-📆 Last Updated: `2023-03-02 15:17:12 UTC`
+📆 Last Updated: `2023-03-02 16:17:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for Malaysia
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [MATTHEW](http://twitter.com/search?q=MATTHEW) | N/A |
-| 2 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 3 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
-| 4 | [#O_D4](http://twitter.com/search?q=%23O_D4) | N/A |
-| 5 | [WITHOUT U MV TEASER 1](http://twitter.com/search?q=WITHOUT+U+MV+TEASER+1) | N/A |
-| 6 | [JCOLE](http://twitter.com/search?q=JCOLE) | N/A |
-| 7 | [#YUJU](http://twitter.com/search?q=%23YUJU) | N/A |
-| 8 | [#BBWomenInMusic](http://twitter.com/search?q=%23BBWomenInMusic) | N/A |
+| 1 | [TIFFANY](http://twitter.com/search?q=TIFFANY) | N/A |
+| 2 | [MATTHEW](http://twitter.com/search?q=MATTHEW) | N/A |
+| 3 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 4 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 5 | [#o_d4](http://twitter.com/search?q=%23o_d4) | N/A |
+| 6 | [WITHOUT U MV TEASER 1](http://twitter.com/search?q=WITHOUT+U+MV+TEASER+1) | N/A |
+| 7 | [jcole](http://twitter.com/search?q=jcole) | N/A |
+| 8 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
 | 9 | [#MoonlightChickenFinalEP](http://twitter.com/search?q=%23MoonlightChickenFinalEP) | N/A |
-| 10 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
-| 11 | [mnet](http://twitter.com/search?q=mnet) | N/A |
+| 10 | [#BBWomenInMusic](http://twitter.com/search?q=%23BBWomenInMusic) | N/A |
+| 11 | [#YUJU](http://twitter.com/search?q=%23YUJU) | N/A |
 | 12 | [Top 5](http://twitter.com/search?q=Top+5) | Top 5 is a phrase used to refer to the five best or most popular items in a particular category. It is commonly used to refer to the five best movies, songs, books, or other items in a given field. |
-| 13 | [KEITA](http://twitter.com/search?q=KEITA) | N/A |
-| 14 | [Red Velvet](http://twitter.com/search?q=Red+Velvet) | N/A |
+| 13 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 14 | [Top 3](http://twitter.com/search?q=Top+3) | N/A |
 | 15 | [pika](http://twitter.com/search?q=pika) | N/A |
-| 16 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
-| 17 | [OLLIE](http://twitter.com/search?q=OLLIE) | N/A |
-| 18 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
-| 19 | [Top 3](http://twitter.com/search?q=Top+3) | N/A |
-| 20 | [Le Sserafim](http://twitter.com/search?q=Le+Sserafim) | N/A |
-| 21 | [yujin](http://twitter.com/search?q=yujin) | N/A |
-| 22 | [mino](http://twitter.com/search?q=mino) | N/A |
-| 23 | [Doha](http://twitter.com/search?q=Doha) | N/A |
-| 24 | [TY WEARS LOEWE](http://twitter.com/search?q=TY+WEARS+LOEWE) | N/A |
+| 16 | [Dior](http://twitter.com/search?q=Dior) | Dior is a French luxury fashion house founded in 1946 by Christian Dior. The name Dior is derived from the founder's surname and is an abbreviation of his full name, Christian Dior. In English, it means "of or relating to Christian Dior". |
+| 17 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
+| 18 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
+| 19 | [Red Velvet](http://twitter.com/search?q=Red+Velvet) | N/A |
+| 20 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 21 | [LE SSERAFIM](http://twitter.com/search?q=LE+SSERAFIM) | LE SSERAFIM is a French phrase meaning "the seraphim." In Christianity, seraphim are angels of the highest order, often depicted with six wings and a fiery presence. |
+| 22 | [ricky](http://twitter.com/search?q=ricky) | N/A |
+| 23 | [KIM TAERAE](http://twitter.com/search?q=KIM+TAERAE) | N/A |
+| 24 | [100 MILLION SUGAR RUSH RIDE](http://twitter.com/search?q=100+MILLION+SUGAR+RUSH+RIDE) | N/A |
 | 25 | [Teh Ais](http://twitter.com/search?q=Teh+Ais) | N/A |
 | 26 | [Pejuang](http://twitter.com/search?q=Pejuang) | N/A |
-| 27 | [KIM TAERAE](http://twitter.com/search?q=KIM+TAERAE) | N/A |
-| 28 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 29 | [Jota](http://twitter.com/search?q=Jota) | N/A |
-| 30 | [jiho](http://twitter.com/search?q=jiho) | N/A |
-| 31 | [New Jeans](http://twitter.com/search?q=New+Jeans) | N/A |
-| 32 | [woozi](http://twitter.com/search?q=woozi) | N/A |
-| 33 | [Green Tea](http://twitter.com/search?q=Green+Tea) | N/A |
-| 34 | [TWICE BILLBOARD AWARD](http://twitter.com/search?q=TWICE+BILLBOARD+AWARD) | N/A |
-| 35 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 36 | [Sunscreen - Biore](http://twitter.com/search?q=Sunscreen+-+Biore) | N/A |
-| 37 | [5m build](http://twitter.com/search?q=5m+build) | N/A |
-| 38 | [HOORAY FOR 2](http://twitter.com/search?q=HOORAY+FOR+2) | N/A |
-| 39 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 40 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
-| 41 | [Plain Water](http://twitter.com/search?q=Plain+Water) | N/A |
-| 42 | [Cong](http://twitter.com/search?q=Cong) | N/A |
-| 43 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 27 | [Mino](http://twitter.com/search?q=Mino) | N/A |
+| 28 | [jaehyun](http://twitter.com/search?q=jaehyun) | Jaehyun is a Korean given name, derived from the Chinese characters 載賢 (jié xián). It is composed of two characters: 載 (jié), meaning “to carry” or “to convey”, and 賢 (xián), meaning “virtuous” or “wise”. Together, the name can be interpreted to mean “carrying wisdom”. |
+| 29 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 30 | [Jota](http://twitter.com/search?q=Jota) | N/A |
+| 31 | [TY WEARS LOEWE](http://twitter.com/search?q=TY+WEARS+LOEWE) | N/A |
+| 32 | [jiho](http://twitter.com/search?q=jiho) | N/A |
+| 33 | [New Jeans](http://twitter.com/search?q=New+Jeans) | N/A |
+| 34 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
+| 35 | [doha](http://twitter.com/search?q=doha) | N/A |
+| 36 | [Green Tea](http://twitter.com/search?q=Green+Tea) | N/A |
+| 37 | [yujin](http://twitter.com/search?q=yujin) | N/A |
+| 38 | [WayV](http://twitter.com/search?q=WayV) | N/A |
+| 39 | [TWICE BILLBOARD AWARD](http://twitter.com/search?q=TWICE+BILLBOARD+AWARD) | N/A |
+| 40 | [sam levinson](http://twitter.com/search?q=sam+levinson) | N/A |
+| 41 | [5M BUILD](http://twitter.com/search?q=5M+BUILD) | N/A |
+| 42 | [HOORAY FOR 2](http://twitter.com/search?q=HOORAY+FOR+2) | N/A |
+| 43 | [Leona](http://twitter.com/search?q=Leona) | N/A |
 | 44 | [Selangor](http://twitter.com/search?q=Selangor) | N/A |
-| 45 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
-| 46 | [jimin x l'officiel malaysia](http://twitter.com/search?q=jimin+x+l%27officiel+malaysia) | N/A |
-| 47 | [Sunscreen - 3W](http://twitter.com/search?q=Sunscreen+-+3W) | N/A |
-| 48 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 49 | [jisoo the face of dior](http://twitter.com/search?q=jisoo+the+face+of+dior) | N/A |
+| 45 | [Plain Water](http://twitter.com/search?q=Plain+Water) | N/A |
+| 46 | [Cong](http://twitter.com/search?q=Cong) | N/A |
+| 47 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 48 | [Brooklyn 99](http://twitter.com/search?q=Brooklyn+99) | N/A |
+| 49 | [Super Junior](http://twitter.com/search?q=Super+Junior) | N/A |
 | 50 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
 
 

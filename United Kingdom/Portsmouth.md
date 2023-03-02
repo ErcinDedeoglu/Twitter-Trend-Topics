@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Portsmouth
 
-📆 Last Updated: `2023-03-02 15:16:20 UTC`
+📆 Last Updated: `2023-03-02 16:16:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SoftPower](http://twitter.com/search?q=%23SoftPower) | N/A |
-| 2 | [#BorisJohnson](http://twitter.com/search?q=%23BorisJohnson) | N/A |
-| 3 | [#HarryPotter](http://twitter.com/search?q=%23HarryPotter) | N/A |
-| 4 | [#networking](http://twitter.com/search?q=%23networking) | N/A |
-| 5 | [Frogmore](http://twitter.com/search?q=Frogmore) | N/A |
-| 6 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 7 | [Royals](http://twitter.com/search?q=Royals) | N/A |
-| 8 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
-| 9 | [Steve Mackey](http://twitter.com/search?q=Steve+Mackey) | N/A |
-| 10 | [RIP Steve](http://twitter.com/search?q=RIP+Steve) | N/A |
-| 11 | [Manchester Arena](http://twitter.com/search?q=Manchester+Arena) | N/A |
-| 12 | [McDonalds](http://twitter.com/search?q=McDonalds) | N/A |
-| 13 | [Year 3](http://twitter.com/search?q=Year+3) | N/A |
-| 14 | [Lee Anderson](http://twitter.com/search?q=Lee+Anderson) | N/A |
-| 15 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 16 | [mnet](http://twitter.com/search?q=mnet) | N/A |
-| 17 | [Hancock](http://twitter.com/search?q=Hancock) | N/A |
-| 18 | [Pulp](http://twitter.com/search?q=Pulp) | N/A |
-| 19 | [My President](http://twitter.com/search?q=My+President) | N/A |
-| 20 | [George Russell](http://twitter.com/search?q=George+Russell) | N/A |
-| 21 | [The Tiger](http://twitter.com/search?q=The+Tiger) | N/A |
-| 22 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
-| 23 | [Stepped](http://twitter.com/search?q=Stepped) | N/A |
-| 24 | [30p Lee](http://twitter.com/search?q=30p+Lee) | N/A |
-| 25 | [Isabel Oakeshott](http://twitter.com/search?q=Isabel+Oakeshott) | N/A |
-| 26 | [Badenoch](http://twitter.com/search?q=Badenoch) | N/A |
-| 27 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 28 | [New IRA](http://twitter.com/search?q=New+IRA) | N/A |
-| 29 | [Reception](http://twitter.com/search?q=Reception) | N/A |
-| 30 | [WH Smith](http://twitter.com/search?q=WH+Smith) | N/A |
-| 31 | [Richard Tice](http://twitter.com/search?q=Richard+Tice) | N/A |
-| 32 | [Library](http://twitter.com/search?q=Library) | N/A |
-| 33 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
-| 34 | [Julia Donaldson](http://twitter.com/search?q=Julia+Donaldson) | N/A |
-| 35 | [Reform](http://twitter.com/search?q=Reform) | N/A |
+| 1 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
+| 2 | [Thiago](http://twitter.com/search?q=Thiago) | Thiago is a Portuguese and Spanish name derived from the Latin name Thiagus, which means "beloved". It is also a common nickname for the name Santiago. |
+| 3 | [#BorisJohnson](http://twitter.com/search?q=%23BorisJohnson) | N/A |
+| 4 | [#MurdaughTrial](http://twitter.com/search?q=%23MurdaughTrial) | N/A |
+| 5 | [#InternationalWomensDay2023](http://twitter.com/search?q=%23InternationalWomensDay2023) | N/A |
+| 6 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 7 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 8 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 9 | [Royals](http://twitter.com/search?q=Royals) | N/A |
+| 10 | [Steve Mackey](http://twitter.com/search?q=Steve+Mackey) | N/A |
+| 11 | [Sue Gray](http://twitter.com/search?q=Sue+Gray) | N/A |
+| 12 | [Pulp](http://twitter.com/search?q=Pulp) | N/A |
+| 13 | [John Swinney](http://twitter.com/search?q=John+Swinney) | N/A |
+| 14 | [Manchester Arena](http://twitter.com/search?q=Manchester+Arena) | N/A |
+| 15 | [TIFFANY](http://twitter.com/search?q=TIFFANY) | N/A |
+| 16 | [Year 3](http://twitter.com/search?q=Year+3) | N/A |
+| 17 | [McDonalds](http://twitter.com/search?q=McDonalds) | N/A |
+| 18 | [Lee Anderson](http://twitter.com/search?q=Lee+Anderson) | N/A |
+| 19 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 20 | [Partygate](http://twitter.com/search?q=Partygate) | N/A |
+| 21 | [The Tiger Who Came to Tea](http://twitter.com/search?q=The+Tiger+Who+Came+to+Tea) | N/A |
+| 22 | [Hancock](http://twitter.com/search?q=Hancock) | N/A |
+| 23 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
+| 24 | [Stepped](http://twitter.com/search?q=Stepped) | N/A |
+| 25 | [George Russell](http://twitter.com/search?q=George+Russell) | N/A |
+| 26 | [My President](http://twitter.com/search?q=My+President) | N/A |
+| 27 | [Isabel](http://twitter.com/search?q=Isabel) | N/A |
+| 28 | [Rats](http://twitter.com/search?q=Rats) | N/A |
+| 29 | [Badenoch](http://twitter.com/search?q=Badenoch) | N/A |
+| 30 | [30p Lee](http://twitter.com/search?q=30p+Lee) | N/A |
+| 31 | [New IRA](http://twitter.com/search?q=New+IRA) | N/A |
+| 32 | [Class 1](http://twitter.com/search?q=Class+1) | N/A |
+| 33 | [Library](http://twitter.com/search?q=Library) | N/A |
+| 34 | [Reception](http://twitter.com/search?q=Reception) | N/A |
+| 35 | [Hersheys](http://twitter.com/search?q=Hersheys) | N/A |
 | 36 | [Wally](http://twitter.com/search?q=Wally) | N/A |
-| 37 | [Gavin Williamson](http://twitter.com/search?q=Gavin+Williamson) | N/A |
-| 38 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
-| 39 | [JCOLE](http://twitter.com/search?q=JCOLE) | N/A |
-| 40 | [Teachers](http://twitter.com/search?q=Teachers) | N/A |
-| 41 | [Alice in Wonderland](http://twitter.com/search?q=Alice+in+Wonderland) | N/A |
-| 42 | [Unions](http://twitter.com/search?q=Unions) | N/A |
-| 43 | [Wo Long](http://twitter.com/search?q=Wo+Long) | N/A |
-| 44 | [Yoruba](http://twitter.com/search?q=Yoruba) | N/A |
-| 45 | [Bone](http://twitter.com/search?q=Bone) | N/A |
-| 46 | [Green Party](http://twitter.com/search?q=Green+Party) | N/A |
-| 47 | [Matilda](http://twitter.com/search?q=Matilda) | Matilda is a female given name of Germanic origin, derived from the words maht (meaning "might, strength") and hild (meaning "battle"). It is often associated with the English queen Matilda of Flanders. The name can also be used as a nickname for Matilda or Mathilde. |
+| 37 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 38 | [lockdown](http://twitter.com/search?q=lockdown) | N/A |
+| 39 | [WH Smith](http://twitter.com/search?q=WH+Smith) | N/A |
+| 40 | [Bunny](http://twitter.com/search?q=Bunny) | N/A |
+| 41 | [Reform](http://twitter.com/search?q=Reform) | N/A |
+| 42 | [Julia Donaldson](http://twitter.com/search?q=Julia+Donaldson) | N/A |
+| 43 | [Alice in Wonderland](http://twitter.com/search?q=Alice+in+Wonderland) | N/A |
+| 44 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
+| 45 | [JCOLE](http://twitter.com/search?q=JCOLE) | N/A |
+| 46 | [Richard Tice](http://twitter.com/search?q=Richard+Tice) | N/A |
+| 47 | [Williamson](http://twitter.com/search?q=Williamson) | N/A |
 | 48 | [Nursery](http://twitter.com/search?q=Nursery) | N/A |
-| 49 | [GDPR](http://twitter.com/search?q=GDPR) | N/A |
+| 49 | [Teachers](http://twitter.com/search?q=Teachers) | N/A |
 
 
 

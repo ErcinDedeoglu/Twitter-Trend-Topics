@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-03-02 15:17:11 UTC`
+📆 Last Updated: `2023-03-02 16:17:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for Latvia
 | 2 | [biešu](http://twitter.com/search?q=bie%c5%a1u) | N/A |
 | 3 | [Frikadeļu](http://twitter.com/search?q=Frikade%c4%bcu) | N/A |
 | 4 | [soļanka](http://twitter.com/search?q=so%c4%bcanka) | N/A |
-| 5 | [Venēra](http://twitter.com/search?q=Ven%c4%93ra) | N/A |
+| 5 | [venēra](http://twitter.com/search?q=ven%c4%93ra) | N/A |
 | 6 | [mīļš](http://twitter.com/search?q=m%c4%ab%c4%bc%c5%a1) | N/A |
 | 7 | [maskavas](http://twitter.com/search?q=maskavas) | N/A |
 | 8 | [zemgalē](http://twitter.com/search?q=zemgal%c4%93) | N/A |
-| 9 | [kādi](http://twitter.com/search?q=k%c4%81di) | N/A |
-| 10 | [pmlp](http://twitter.com/search?q=pmlp) | N/A |
-| 11 | [Rīga](http://twitter.com/search?q=R%c4%abga) | N/A |
-| 12 | [Kurā](http://twitter.com/search?q=Kur%c4%81) | N/A |
-| 13 | [VID EDS](http://twitter.com/search?q=VID+EDS) | N/A |
+| 9 | [pmlp](http://twitter.com/search?q=pmlp) | N/A |
+| 10 | [Rīga](http://twitter.com/search?q=R%c4%abga) | N/A |
+| 11 | [kurā](http://twitter.com/search?q=kur%c4%81) | N/A |
+| 12 | [Kādi](http://twitter.com/search?q=K%c4%81di) | N/A |
+| 13 | [vid eds](http://twitter.com/search?q=vid+eds) | N/A |
 | 14 | [#birdle](http://twitter.com/search?q=%23birdle) | N/A |
 | 15 | [lietuvā](http://twitter.com/search?q=lietuv%c4%81) | N/A |
 | 16 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 17 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
-| 18 | [igaunijā](http://twitter.com/search?q=igaunij%c4%81) | N/A |
-| 19 | [Dziesmu](http://twitter.com/search?q=Dziesmu) | N/A |
-| 20 | [Gluži](http://twitter.com/search?q=Glu%c5%bei) | N/A |
-| 21 | [pareizi](http://twitter.com/search?q=pareizi) | N/A |
-| 22 | [cēsu](http://twitter.com/search?q=c%c4%93su) | N/A |
-| 23 | [Krieviju](http://twitter.com/search?q=Krieviju) | N/A |
+| 17 | [Azov](http://twitter.com/search?q=Azov) | N/A |
+| 18 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
+| 19 | [igaunijā](http://twitter.com/search?q=igaunij%c4%81) | N/A |
+| 20 | [Dziesmu](http://twitter.com/search?q=Dziesmu) | N/A |
+| 21 | [gluži](http://twitter.com/search?q=glu%c5%bei) | N/A |
+| 22 | [pareizi](http://twitter.com/search?q=pareizi) | N/A |
+| 23 | [cēsu](http://twitter.com/search?q=c%c4%93su) | N/A |
 | 24 | [#comedy](http://twitter.com/search?q=%23comedy) | N/A |
-| 25 | [#teirdarbs](http://twitter.com/search?q=%23teirdarbs) | N/A |
-| 26 | [Eiropas](http://twitter.com/search?q=Eiropas) | N/A |
+| 25 | [krieviju](http://twitter.com/search?q=krieviju) | N/A |
+| 26 | [#teirdarbs](http://twitter.com/search?q=%23teirdarbs) | N/A |
 | 27 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
-| 28 | [Somijā](http://twitter.com/search?q=Somij%c4%81) | N/A |
-| 29 | [Nekas](http://twitter.com/search?q=Nekas) | N/A |
-| 30 | [vienmēr](http://twitter.com/search?q=vienm%c4%93r) | N/A |
-| 31 | [Saeimā](http://twitter.com/search?q=Saeim%c4%81) | N/A |
-| 32 | [latvenergo](http://twitter.com/search?q=latvenergo) | N/A |
-| 33 | [daudz](http://twitter.com/search?q=daudz) | N/A |
-| 34 | [Ventspils](http://twitter.com/search?q=Ventspils) | N/A |
-| 35 | [Domāju](http://twitter.com/search?q=Dom%c4%81ju) | N/A |
-| 36 | [Telegram](http://twitter.com/search?q=Telegram) | N/A |
-| 37 | [Pieļauju](http://twitter.com/search?q=Pie%c4%bcauju) | N/A |
-| 38 | [Skaidrs](http://twitter.com/search?q=Skaidrs) | N/A |
-| 39 | [Ja Tev](http://twitter.com/search?q=Ja+Tev) | N/A |
-| 40 | [visiem](http://twitter.com/search?q=visiem) | N/A |
-| 41 | [Tātad](http://twitter.com/search?q=T%c4%81tad) | N/A |
-| 42 | [Labi](http://twitter.com/search?q=Labi) | N/A |
-| 43 | [tieši](http://twitter.com/search?q=tie%c5%a1i) | N/A |
-| 44 | [atceros](http://twitter.com/search?q=atceros) | N/A |
-| 45 | [Беларуси](http://twitter.com/search?q=%d0%91%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d0%b8) | N/A |
-| 46 | [#NFTCommunity](http://twitter.com/search?q=%23NFTCommunity) | N/A |
-| 47 | [Liepājā](http://twitter.com/search?q=Liep%c4%81j%c4%81) | N/A |
-| 48 | [Latvia](http://twitter.com/search?q=Latvia) | N/A |
-| 49 | [dzīvesbiedru](http://twitter.com/search?q=dz%c4%abvesbiedru) | N/A |
-| 50 | [Jautājums](http://twitter.com/search?q=Jaut%c4%81jums) | N/A |
+| 28 | [Tagad](http://twitter.com/search?q=Tagad) | N/A |
+| 29 | [Somijā](http://twitter.com/search?q=Somij%c4%81) | N/A |
+| 30 | [talsu](http://twitter.com/search?q=talsu) | N/A |
+| 31 | [Domāju](http://twitter.com/search?q=Dom%c4%81ju) | N/A |
+| 32 | [Nekas](http://twitter.com/search?q=Nekas) | N/A |
+| 33 | [Vienmēr](http://twitter.com/search?q=Vienm%c4%93r) | N/A |
+| 34 | [daudz](http://twitter.com/search?q=daudz) | N/A |
+| 35 | [saeimā](http://twitter.com/search?q=saeim%c4%81) | N/A |
+| 36 | [Pieļauju](http://twitter.com/search?q=Pie%c4%bcauju) | N/A |
+| 37 | [Ventspils](http://twitter.com/search?q=Ventspils) | N/A |
+| 38 | [Prieks](http://twitter.com/search?q=Prieks) | N/A |
+| 39 | [varētu](http://twitter.com/search?q=var%c4%93tu) | N/A |
+| 40 | [skaidrs](http://twitter.com/search?q=skaidrs) | N/A |
+| 41 | [Telegram](http://twitter.com/search?q=Telegram) | N/A |
+| 42 | [Ja Tev](http://twitter.com/search?q=Ja+Tev) | N/A |
+| 43 | [principā](http://twitter.com/search?q=princip%c4%81) | N/A |
+| 44 | [#NFTCommunity](http://twitter.com/search?q=%23NFTCommunity) | N/A |
+| 45 | [Eiropu](http://twitter.com/search?q=Eiropu) | N/A |
+| 46 | [Apsveicu](http://twitter.com/search?q=Apsveicu) | N/A |
+| 47 | [visiem](http://twitter.com/search?q=visiem) | N/A |
+| 48 | [Latvenergo](http://twitter.com/search?q=Latvenergo) | N/A |
+| 49 | [atceros](http://twitter.com/search?q=atceros) | N/A |
+| 50 | [Labi](http://twitter.com/search?q=Labi) | N/A |
 
 
 

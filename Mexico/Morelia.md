@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Morelia
 
-📆 Last Updated: `2023-03-02 15:16:23 UTC`
+📆 Last Updated: `2023-03-02 16:16:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
+| 1 | [#KornoDedazo](http://twitter.com/search?q=%23KornoDedazo) | N/A |
 | 2 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
-| 3 | [#KornoDedazo](http://twitter.com/search?q=%23KornoDedazo) | N/A |
-| 4 | [#salariorosacontinua](http://twitter.com/search?q=%23salariorosacontinua) | N/A |
+| 3 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
+| 4 | [#PoderosoPaDelante](http://twitter.com/search?q=%23PoderosoPaDelante) | N/A |
 | 5 | [Irma Serrano](http://twitter.com/search?q=Irma+Serrano) | N/A |
-| 6 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 7 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 8 | [Samuel](http://twitter.com/search?q=Samuel) | N/A |
-| 9 | [La Tigresa](http://twitter.com/search?q=La+Tigresa) | N/A |
-| 10 | [#BBWomenInMusic](http://twitter.com/search?q=%23BBWomenInMusic) | N/A |
-| 11 | [MATTHEW](http://twitter.com/search?q=MATTHEW) | N/A |
-| 12 | [PARA NO VERTE MÁS](http://twitter.com/search?q=PARA+NO+VERTE+M%c3%81S) | N/A |
-| 13 | [Edmundo Jacobo](http://twitter.com/search?q=Edmundo+Jacobo) | N/A |
-| 14 | [Blink](http://twitter.com/search?q=Blink) | N/A |
-| 15 | [Marzo con M](http://twitter.com/search?q=Marzo+con+M) | N/A |
+| 6 | [TIFFANY BRAND AMBASSADOR JIMIN](http://twitter.com/search?q=TIFFANY+BRAND+AMBASSADOR+JIMIN) | N/A |
+| 7 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
+| 8 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 9 | [Samuel](http://twitter.com/search?q=Samuel) | N/A |
+| 10 | [#SalarioRosaContinua](http://twitter.com/search?q=%23SalarioRosaContinua) | N/A |
+| 11 | [La Tigresa](http://twitter.com/search?q=La+Tigresa) | N/A |
+| 12 | [Pulp](http://twitter.com/search?q=Pulp) | N/A |
+| 13 | [Steve Mackey](http://twitter.com/search?q=Steve+Mackey) | N/A |
+| 14 | [Edmundo Jacobo](http://twitter.com/search?q=Edmundo+Jacobo) | N/A |
+| 15 | [PARA NO VERTE MÁS](http://twitter.com/search?q=PARA+NO+VERTE+M%c3%81S) | N/A |
 | 16 | [Norma Piña](http://twitter.com/search?q=Norma+Pi%c3%b1a) | Norma Piña is a Mexican dish made with shredded beef, potatoes, and carrots cooked in a tomato-based sauce. The name of the dish comes from the Spanish words for "shredded beef" (carne deshebrada) and "pineapple" (piña). In English, Norma Piña translates to "Shredded Beef with Pineapple". |
-| 17 | [Josefa Ortiz de Domínguez](http://twitter.com/search?q=Josefa+Ortiz+de+Dom%c3%adnguez) | N/A |
-| 18 | [J COLE](http://twitter.com/search?q=J+COLE) | N/A |
-| 19 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
-| 20 | [Plan B](http://twitter.com/search?q=Plan+B) | N/A |
-| 21 | [Monterrey](http://twitter.com/search?q=Monterrey) | N/A |
-| 22 | [Universidad Complutense](http://twitter.com/search?q=Universidad+Complutense) | N/A |
-| 23 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
-| 24 | [Nuevo Laredo](http://twitter.com/search?q=Nuevo+Laredo) | N/A |
+| 17 | [Plan B](http://twitter.com/search?q=Plan+B) | N/A |
+| 18 | [Blink](http://twitter.com/search?q=Blink) | N/A |
+| 19 | [Marzo con M](http://twitter.com/search?q=Marzo+con+M) | N/A |
+| 20 | [Josefa Ortiz de Domínguez](http://twitter.com/search?q=Josefa+Ortiz+de+Dom%c3%adnguez) | N/A |
+| 21 | [MATTHEW](http://twitter.com/search?q=MATTHEW) | N/A |
+| 22 | [Monterrey](http://twitter.com/search?q=Monterrey) | N/A |
+| 23 | [j cole](http://twitter.com/search?q=j+cole) | N/A |
+| 24 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
 | 25 | [CANCELEMOS A GLORIA TREVI](http://twitter.com/search?q=CANCELEMOS+A+GLORIA+TREVI) | N/A |
-| 26 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 27 | [Materia Electoral](http://twitter.com/search?q=Materia+Electoral) | N/A |
-| 28 | [KEITA](http://twitter.com/search?q=KEITA) | N/A |
-| 29 | [Excelente Jueves](http://twitter.com/search?q=Excelente+Jueves) | N/A |
-| 30 | [twenty one pilots](http://twitter.com/search?q=twenty+one+pilots) | N/A |
-| 31 | [Lola Cueto](http://twitter.com/search?q=Lola+Cueto) | N/A |
-| 32 | [Travis](http://twitter.com/search?q=Travis) | N/A |
-| 33 | [medalla golden champ](http://twitter.com/search?q=medalla+golden+champ) | N/A |
-| 34 | [HYBE PROTECT RM](http://twitter.com/search?q=HYBE+PROTECT+RM) | N/A |
-| 35 | [BIGHIT PROTECT RM](http://twitter.com/search?q=BIGHIT+PROTECT+RM) | N/A |
-| 36 | [Komanche](http://twitter.com/search?q=Komanche) | N/A |
-| 37 | [Justin Bieber](http://twitter.com/search?q=Justin+Bieber) | N/A |
-| 38 | [Unión Hidalgo](http://twitter.com/search?q=Uni%c3%b3n+Hidalgo) | N/A |
-| 39 | [Bienvenido Marzo](http://twitter.com/search?q=Bienvenido+Marzo) | N/A |
-| 40 | [Pal Norte](http://twitter.com/search?q=Pal+Norte) | N/A |
-| 41 | [Tania Rincón](http://twitter.com/search?q=Tania+Rinc%c3%b3n) | N/A |
-| 42 | [ON THE STREET IS COMING](http://twitter.com/search?q=ON+THE+STREET+IS+COMING) | N/A |
-| 43 | [Logro](http://twitter.com/search?q=Logro) | N/A |
-| 44 | [all of the girls](http://twitter.com/search?q=all+of+the+girls) | N/A |
-| 45 | [Santa Catarina](http://twitter.com/search?q=Santa+Catarina) | N/A |
-| 46 | [airto](http://twitter.com/search?q=airto) | N/A |
-| 47 | [Pato Zambrano](http://twitter.com/search?q=Pato+Zambrano) | N/A |
-| 48 | [medaliud star](http://twitter.com/search?q=medaliud+star) | N/A |
-| 49 | [Diario Oficial](http://twitter.com/search?q=Diario+Oficial) | N/A |
+| 26 | [Universidad Complutense](http://twitter.com/search?q=Universidad+Complutense) | N/A |
+| 27 | [Nuevo Laredo](http://twitter.com/search?q=Nuevo+Laredo) | N/A |
+| 28 | [Excelente Jueves](http://twitter.com/search?q=Excelente+Jueves) | N/A |
+| 29 | [Secretario Ejecutivo](http://twitter.com/search?q=Secretario+Ejecutivo) | N/A |
+| 30 | [HYBE PROTECT RM](http://twitter.com/search?q=HYBE+PROTECT+RM) | N/A |
+| 31 | [twenty one pilots](http://twitter.com/search?q=twenty+one+pilots) | N/A |
+| 32 | [Komanche](http://twitter.com/search?q=Komanche) | N/A |
+| 33 | [Creel](http://twitter.com/search?q=Creel) | N/A |
+| 34 | [BIGHIT PROTECT RM](http://twitter.com/search?q=BIGHIT+PROTECT+RM) | N/A |
+| 35 | [Unión Hidalgo](http://twitter.com/search?q=Uni%c3%b3n+Hidalgo) | N/A |
+| 36 | [Travis](http://twitter.com/search?q=Travis) | N/A |
+| 37 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
+| 38 | [Bienvenido Marzo](http://twitter.com/search?q=Bienvenido+Marzo) | N/A |
+| 39 | [16 Oriente](http://twitter.com/search?q=16+Oriente) | N/A |
+| 40 | [Logro](http://twitter.com/search?q=Logro) | N/A |
+| 41 | [Alfredo Adame](http://twitter.com/search?q=Alfredo+Adame) | Alfredo Adame is a Mexican actor, comedian, and television host. He is best known for his roles in the television series El Chavo del Ocho and El Chapulín Colorado. In English, the name Alfredo Adame means "Protector of the People". |
+| 42 | [Justin Bieber](http://twitter.com/search?q=Justin+Bieber) | N/A |
+| 43 | [Lola Cueto](http://twitter.com/search?q=Lola+Cueto) | N/A |
+| 44 | [Airto](http://twitter.com/search?q=Airto) | N/A |
+| 45 | [Tania Rincón](http://twitter.com/search?q=Tania+Rinc%c3%b3n) | N/A |
+| 46 | [ON THE STREET IS COMING](http://twitter.com/search?q=ON+THE+STREET+IS+COMING) | N/A |
+| 47 | [Santa Catarina](http://twitter.com/search?q=Santa+Catarina) | N/A |
+| 48 | [Pal Norte](http://twitter.com/search?q=Pal+Norte) | N/A |
+| 49 | [all of the girls](http://twitter.com/search?q=all+of+the+girls) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bournemouth
 
-📆 Last Updated: `2023-03-02 15:16:18 UTC`
+📆 Last Updated: `2023-03-02 16:16:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SoftPower](http://twitter.com/search?q=%23SoftPower) | N/A |
-| 2 | [#BorisJohnson](http://twitter.com/search?q=%23BorisJohnson) | N/A |
-| 3 | [Gavin Williamson](http://twitter.com/search?q=Gavin+Williamson) | N/A |
-| 4 | [#HarryPotter](http://twitter.com/search?q=%23HarryPotter) | N/A |
-| 5 | [Frogmore](http://twitter.com/search?q=Frogmore) | N/A |
-| 6 | [Royals](http://twitter.com/search?q=Royals) | N/A |
-| 7 | [Steve Mackey](http://twitter.com/search?q=Steve+Mackey) | N/A |
-| 8 | [RIP Steve](http://twitter.com/search?q=RIP+Steve) | N/A |
-| 9 | [Manchester Arena](http://twitter.com/search?q=Manchester+Arena) | N/A |
-| 10 | [McDonalds](http://twitter.com/search?q=McDonalds) | N/A |
-| 11 | [Year 3](http://twitter.com/search?q=Year+3) | N/A |
-| 12 | [Lee Anderson](http://twitter.com/search?q=Lee+Anderson) | N/A |
-| 13 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 14 | [mnet](http://twitter.com/search?q=mnet) | N/A |
-| 15 | [Hancock](http://twitter.com/search?q=Hancock) | N/A |
-| 16 | [Pulp](http://twitter.com/search?q=Pulp) | N/A |
-| 17 | [My President](http://twitter.com/search?q=My+President) | N/A |
-| 18 | [George Russell](http://twitter.com/search?q=George+Russell) | N/A |
-| 19 | [The Tiger](http://twitter.com/search?q=The+Tiger) | N/A |
-| 20 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
+| 1 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 2 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
+| 3 | [Thiago](http://twitter.com/search?q=Thiago) | Thiago is a Portuguese and Spanish name derived from the Latin name Thiagus, which means "beloved". It is also a common nickname for the name Santiago. |
+| 4 | [#BorisJohnson](http://twitter.com/search?q=%23BorisJohnson) | N/A |
+| 5 | [#MurdaughTrial](http://twitter.com/search?q=%23MurdaughTrial) | N/A |
+| 6 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 7 | [Royals](http://twitter.com/search?q=Royals) | N/A |
+| 8 | [Steve Mackey](http://twitter.com/search?q=Steve+Mackey) | N/A |
+| 9 | [Sue Gray](http://twitter.com/search?q=Sue+Gray) | N/A |
+| 10 | [Pulp](http://twitter.com/search?q=Pulp) | N/A |
+| 11 | [John Swinney](http://twitter.com/search?q=John+Swinney) | N/A |
+| 12 | [Manchester Arena](http://twitter.com/search?q=Manchester+Arena) | N/A |
+| 13 | [TIFFANY](http://twitter.com/search?q=TIFFANY) | N/A |
+| 14 | [Year 3](http://twitter.com/search?q=Year+3) | N/A |
+| 15 | [McDonalds](http://twitter.com/search?q=McDonalds) | N/A |
+| 16 | [Lee Anderson](http://twitter.com/search?q=Lee+Anderson) | N/A |
+| 17 | [Partygate](http://twitter.com/search?q=Partygate) | N/A |
+| 18 | [The Tiger Who Came to Tea](http://twitter.com/search?q=The+Tiger+Who+Came+to+Tea) | N/A |
+| 19 | [Hancock](http://twitter.com/search?q=Hancock) | N/A |
+| 20 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
 | 21 | [Stepped](http://twitter.com/search?q=Stepped) | N/A |
-| 22 | [30p Lee](http://twitter.com/search?q=30p+Lee) | N/A |
-| 23 | [Isabel Oakeshott](http://twitter.com/search?q=Isabel+Oakeshott) | N/A |
-| 24 | [Badenoch](http://twitter.com/search?q=Badenoch) | N/A |
-| 25 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 26 | [New IRA](http://twitter.com/search?q=New+IRA) | N/A |
-| 27 | [Reception](http://twitter.com/search?q=Reception) | N/A |
-| 28 | [WH Smith](http://twitter.com/search?q=WH+Smith) | N/A |
-| 29 | [Richard Tice](http://twitter.com/search?q=Richard+Tice) | N/A |
+| 22 | [George Russell](http://twitter.com/search?q=George+Russell) | N/A |
+| 23 | [My President](http://twitter.com/search?q=My+President) | N/A |
+| 24 | [Isabel](http://twitter.com/search?q=Isabel) | N/A |
+| 25 | [Rats](http://twitter.com/search?q=Rats) | N/A |
+| 26 | [Badenoch](http://twitter.com/search?q=Badenoch) | N/A |
+| 27 | [30p Lee](http://twitter.com/search?q=30p+Lee) | N/A |
+| 28 | [New IRA](http://twitter.com/search?q=New+IRA) | N/A |
+| 29 | [Class 1](http://twitter.com/search?q=Class+1) | N/A |
 | 30 | [Library](http://twitter.com/search?q=Library) | N/A |
-| 31 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
-| 32 | [Julia Donaldson](http://twitter.com/search?q=Julia+Donaldson) | N/A |
-| 33 | [Reform](http://twitter.com/search?q=Reform) | N/A |
-| 34 | [Wally](http://twitter.com/search?q=Wally) | N/A |
-| 35 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
-| 36 | [JCOLE](http://twitter.com/search?q=JCOLE) | N/A |
-| 37 | [Teachers](http://twitter.com/search?q=Teachers) | N/A |
-| 38 | [Alice in Wonderland](http://twitter.com/search?q=Alice+in+Wonderland) | N/A |
-| 39 | [Unions](http://twitter.com/search?q=Unions) | N/A |
-| 40 | [Wo Long](http://twitter.com/search?q=Wo+Long) | N/A |
-| 41 | [Yoruba](http://twitter.com/search?q=Yoruba) | N/A |
-| 42 | [Bone](http://twitter.com/search?q=Bone) | N/A |
-| 43 | [Green Party](http://twitter.com/search?q=Green+Party) | N/A |
-| 44 | [Matilda](http://twitter.com/search?q=Matilda) | Matilda is a female given name of Germanic origin, derived from the words maht (meaning "might, strength") and hild (meaning "battle"). It is often associated with the English queen Matilda of Flanders. The name can also be used as a nickname for Matilda or Mathilde. |
+| 31 | [Reception](http://twitter.com/search?q=Reception) | N/A |
+| 32 | [Hersheys](http://twitter.com/search?q=Hersheys) | N/A |
+| 33 | [Wally](http://twitter.com/search?q=Wally) | N/A |
+| 34 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 35 | [lockdown](http://twitter.com/search?q=lockdown) | N/A |
+| 36 | [WH Smith](http://twitter.com/search?q=WH+Smith) | N/A |
+| 37 | [Bunny](http://twitter.com/search?q=Bunny) | N/A |
+| 38 | [Reform](http://twitter.com/search?q=Reform) | N/A |
+| 39 | [Julia Donaldson](http://twitter.com/search?q=Julia+Donaldson) | N/A |
+| 40 | [Alice in Wonderland](http://twitter.com/search?q=Alice+in+Wonderland) | N/A |
+| 41 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
+| 42 | [JCOLE](http://twitter.com/search?q=JCOLE) | N/A |
+| 43 | [Richard Tice](http://twitter.com/search?q=Richard+Tice) | N/A |
+| 44 | [Williamson](http://twitter.com/search?q=Williamson) | N/A |
 | 45 | [Nursery](http://twitter.com/search?q=Nursery) | N/A |
-| 46 | [GDPR](http://twitter.com/search?q=GDPR) | N/A |
-| 47 | [jhope](http://twitter.com/search?q=jhope) | N/A |
-| 48 | [Carolyn](http://twitter.com/search?q=Carolyn) | N/A |
+| 46 | [Teachers](http://twitter.com/search?q=Teachers) | N/A |
+| 47 | [Matilda](http://twitter.com/search?q=Matilda) | Matilda is a female given name of Germanic origin, derived from the words maht (meaning "might, strength") and hild (meaning "battle"). It is often associated with the English queen Matilda of Flanders. The name can also be used as a nickname for Matilda or Mathilde. |
+| 48 | [Unions](http://twitter.com/search?q=Unions) | N/A |
 
 
 

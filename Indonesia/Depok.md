@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Depok
 
-📆 Last Updated: `2023-03-02 15:16:38 UTC`
+📆 Last Updated: `2023-03-02 16:16:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,55 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Indomie Yatai](http://twitter.com/search?q=Indomie+Yatai) | N/A |
-| 2 | [MATTHEW](http://twitter.com/search?q=MATTHEW) | N/A |
-| 3 | [#filmkhanzab](http://twitter.com/search?q=%23filmkhanzab) | N/A |
-| 4 | [ekspresikan gayamu](http://twitter.com/search?q=ekspresikan+gayamu) | N/A |
-| 5 | [#zonauangᅠᅠ](http://twitter.com/search?q=%23zonauang%e1%85%a0%e1%85%a0) | N/A |
-| 6 | [#MoonlightChickenFinalEP](http://twitter.com/search?q=%23MoonlightChickenFinalEP) | N/A |
-| 7 | [#ROVER_4thTeaser](http://twitter.com/search?q=%23ROVER_4thTeaser) | N/A |
-| 8 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
-| 9 | [WITHOUT U MV TEASER 1](http://twitter.com/search?q=WITHOUT+U+MV+TEASER+1) | N/A |
-| 10 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
-| 11 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 12 | [Sumedang](http://twitter.com/search?q=Sumedang) | N/A |
-| 13 | [KEITA](http://twitter.com/search?q=KEITA) | N/A |
-| 14 | [PN Jakpus](http://twitter.com/search?q=PN+Jakpus) | N/A |
-| 15 | [Partai Prima](http://twitter.com/search?q=Partai+Prima) | N/A |
-| 16 | [Silent](http://twitter.com/search?q=Silent) | N/A |
-| 17 | [Pemilu](http://twitter.com/search?q=Pemilu) | N/A |
-| 18 | [mnet](http://twitter.com/search?q=mnet) | N/A |
-| 19 | [Lazada](http://twitter.com/search?q=Lazada) | N/A |
-| 20 | [PARK HANBIN](http://twitter.com/search?q=PARK+HANBIN) | N/A |
-| 21 | [Dota 2](http://twitter.com/search?q=Dota+2) | N/A |
-| 22 | [KAI ROVER TEASER IMAGES 2](http://twitter.com/search?q=KAI+ROVER+TEASER+IMAGES+2) | N/A |
-| 23 | [Han Yujin](http://twitter.com/search?q=Han+Yujin) | N/A |
-| 24 | [Jatinangor](http://twitter.com/search?q=Jatinangor) | N/A |
-| 25 | [Jeep](http://twitter.com/search?q=Jeep) | N/A |
-| 26 | [LIKE IT LIKE IT](http://twitter.com/search?q=LIKE+IT+LIKE+IT) | N/A |
-| 27 | [OLLIE](http://twitter.com/search?q=OLLIE) | N/A |
-| 28 | [Polda Metro Jaya](http://twitter.com/search?q=Polda+Metro+Jaya) | N/A |
-| 29 | [CATET](http://twitter.com/search?q=CATET) | N/A |
-| 30 | [ARTIST AND STAFF](http://twitter.com/search?q=ARTIST+AND+STAFF) | N/A |
-| 31 | [Brian](http://twitter.com/search?q=Brian) | N/A |
-| 32 | [gacoan](http://twitter.com/search?q=gacoan) | N/A |
-| 33 | [Kucingku](http://twitter.com/search?q=Kucingku) | N/A |
-| 34 | [Hendery](http://twitter.com/search?q=Hendery) | N/A |
-| 35 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 36 | [Perbaikan](http://twitter.com/search?q=Perbaikan) | N/A |
-| 37 | [Kembang Api](http://twitter.com/search?q=Kembang+Api) | N/A |
-| 38 | [WELCOME WINWIN TO PARIS](http://twitter.com/search?q=WELCOME+WINWIN+TO+PARIS) | N/A |
-| 39 | [Maghrib](http://twitter.com/search?q=Maghrib) | N/A |
-| 40 | [#O_D4](http://twitter.com/search?q=%23O_D4) | N/A |
-| 41 | [#UN1TYLazLive](http://twitter.com/search?q=%23UN1TYLazLive) | N/A |
-| 42 | [#ZeeLetter](http://twitter.com/search?q=%23ZeeLetter) | N/A |
-| 43 | [#BOYSPLANETep5](http://twitter.com/search?q=%23BOYSPLANETep5) | N/A |
-| 44 | [#FREENBECKxFANDOMLIVE](http://twitter.com/search?q=%23FREENBECKxFANDOMLIVE) | N/A |
-| 45 | [#SM_Listen_To_Your_Fans](http://twitter.com/search?q=%23SM_Listen_To_Your_Fans) | N/A |
-| 46 | [#YUJU](http://twitter.com/search?q=%23YUJU) | N/A |
-| 47 | [#chatamara](http://twitter.com/search?q=%23chatamara) | N/A |
-| 48 | [#KemenanganBersama2024](http://twitter.com/search?q=%23KemenanganBersama2024) | N/A |
+| 1 | [#LIKEITLIKEIT_OUT_NOW](http://twitter.com/search?q=%23LIKEITLIKEIT_OUT_NOW) | N/A |
+| 2 | [Indomie Yatai](http://twitter.com/search?q=Indomie+Yatai) | N/A |
+| 3 | [MATTHEW](http://twitter.com/search?q=MATTHEW) | N/A |
+| 4 | [TIFFANY](http://twitter.com/search?q=TIFFANY) | N/A |
+| 5 | [#ROVER_4thTeaser](http://twitter.com/search?q=%23ROVER_4thTeaser) | N/A |
+| 6 | [#FilmKhanzab](http://twitter.com/search?q=%23FilmKhanzab) | N/A |
+| 7 | [#EXPÉRGO_HighlightAcapella](http://twitter.com/search?q=%23EXP%c3%89RGO_HighlightAcapella) | N/A |
+| 8 | [ekspresikan gayamu](http://twitter.com/search?q=ekspresikan+gayamu) | N/A |
+| 9 | [NMIXX SIRENs CALLING](http://twitter.com/search?q=NMIXX+SIRENs+CALLING) | N/A |
+| 10 | [#MoonlightChickenFinalEP](http://twitter.com/search?q=%23MoonlightChickenFinalEP) | N/A |
+| 11 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 12 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 13 | [WITHOUT U MV TEASER 1](http://twitter.com/search?q=WITHOUT+U+MV+TEASER+1) | N/A |
+| 14 | [ricky](http://twitter.com/search?q=ricky) | N/A |
+| 15 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 16 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 17 | [PN Jakpus](http://twitter.com/search?q=PN+Jakpus) | N/A |
+| 18 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
+| 19 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
+| 20 | [KAI ROVER TEASER IMAGES 2](http://twitter.com/search?q=KAI+ROVER+TEASER+IMAGES+2) | N/A |
+| 21 | [Silent](http://twitter.com/search?q=Silent) | N/A |
+| 22 | [Partai PRIMA](http://twitter.com/search?q=Partai+PRIMA) | N/A |
+| 23 | [Pemilu](http://twitter.com/search?q=Pemilu) | N/A |
+| 24 | [Sumedang](http://twitter.com/search?q=Sumedang) | N/A |
+| 25 | [Jatinangor](http://twitter.com/search?q=Jatinangor) | N/A |
+| 26 | [Foundation](http://twitter.com/search?q=Foundation) | N/A |
+| 27 | [Dota 2](http://twitter.com/search?q=Dota+2) | N/A |
+| 28 | [Han Yujin](http://twitter.com/search?q=Han+Yujin) | N/A |
+| 29 | [ARTIST AND STAFF](http://twitter.com/search?q=ARTIST+AND+STAFF) | N/A |
+| 30 | [Ollie](http://twitter.com/search?q=Ollie) | N/A |
+| 31 | [Polda Metro Jaya](http://twitter.com/search?q=Polda+Metro+Jaya) | N/A |
+| 32 | [Jeep](http://twitter.com/search?q=Jeep) | N/A |
+| 33 | [CATET](http://twitter.com/search?q=CATET) | N/A |
+| 34 | [Lazada](http://twitter.com/search?q=Lazada) | N/A |
+| 35 | [Hendery](http://twitter.com/search?q=Hendery) | N/A |
+| 36 | [Gacoan](http://twitter.com/search?q=Gacoan) | N/A |
+| 37 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 38 | [Kucingku](http://twitter.com/search?q=Kucingku) | N/A |
+| 39 | [Kembang Api](http://twitter.com/search?q=Kembang+Api) | N/A |
+| 40 | [WELCOME WINWIN TO PARIS](http://twitter.com/search?q=WELCOME+WINWIN+TO+PARIS) | N/A |
+| 41 | [Maghrib](http://twitter.com/search?q=Maghrib) | N/A |
+| 42 | [#zonauangᅠᅠ](http://twitter.com/search?q=%23zonauang%e1%85%a0%e1%85%a0) | N/A |
+| 43 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
+| 44 | [#O_D4](http://twitter.com/search?q=%23O_D4) | N/A |
+| 45 | [#YUJU](http://twitter.com/search?q=%23YUJU) | N/A |
+| 46 | [#UN1TYLazLive](http://twitter.com/search?q=%23UN1TYLazLive) | N/A |
+| 47 | [#FREENBECKxFANDOMLIVE](http://twitter.com/search?q=%23FREENBECKxFANDOMLIVE) | N/A |
+| 48 | [#ZeeLetter](http://twitter.com/search?q=%23ZeeLetter) | N/A |
+| 49 | [#보이즈플래닛](http://twitter.com/search?q=%23%eb%b3%b4%ec%9d%b4%ec%a6%88%ed%94%8c%eb%9e%98%eb%8b%9b) | N/A |
 
 
 

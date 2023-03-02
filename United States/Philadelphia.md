@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philadelphia
 
-📆 Last Updated: `2023-03-02 15:17:04 UTC`
+📆 Last Updated: `2023-03-02 16:17:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,52 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [#Survivor44](http://twitter.com/search?q=%23Survivor44) | N/A |
 | 2 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 3 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
+| 3 | [Granlund](http://twitter.com/search?q=Granlund) | N/A |
 | 4 | [Flyers](http://twitter.com/search?q=Flyers) | Flyers are a type of printed advertisement used to promote products, services, or events. They are typically distributed in public places such as streets, parks, and shopping centers. Flyers can also be sent through the mail or handed out at events. The purpose of a flyer is to attract attention and encourage people to take action. |
-| 5 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
-| 6 | [#BoycottHersheys](http://twitter.com/search?q=%23BoycottHersheys) | N/A |
-| 7 | [Bertuzzi](http://twitter.com/search?q=Bertuzzi) | N/A |
-| 8 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 9 | [#ReadAcrossAmericaDay](http://twitter.com/search?q=%23ReadAcrossAmericaDay) | N/A |
-| 10 | [#WorldBookDay](http://twitter.com/search?q=%23WorldBookDay) | N/A |
-| 11 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 5 | [Hershey](http://twitter.com/search?q=Hershey) | N/A |
+| 6 | [#ReadAcrossAmericaDay](http://twitter.com/search?q=%23ReadAcrossAmericaDay) | N/A |
+| 7 | [Don Sweeney](http://twitter.com/search?q=Don+Sweeney) | N/A |
+| 8 | [Bertuzzi](http://twitter.com/search?q=Bertuzzi) | N/A |
+| 9 | [#WorldBookDay](http://twitter.com/search?q=%23WorldBookDay) | N/A |
+| 10 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 11 | [TIFFANY](http://twitter.com/search?q=TIFFANY) | N/A |
 | 12 | [Texas Independence Day](http://twitter.com/search?q=Texas+Independence+Day) | N/A |
 | 13 | [Dr. Seuss](http://twitter.com/search?q=Dr.+Seuss) | N/A |
-| 14 | [mnet](http://twitter.com/search?q=mnet) | N/A |
-| 15 | [Don Sweeney](http://twitter.com/search?q=Don+Sweeney) | N/A |
-| 16 | [DK Summit](http://twitter.com/search?q=DK+Summit) | N/A |
-| 17 | [Waluigi Stadium](http://twitter.com/search?q=Waluigi+Stadium) | N/A |
-| 18 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
-| 19 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
-| 20 | [KEITA](http://twitter.com/search?q=KEITA) | N/A |
-| 21 | [DS Mario Circuit](http://twitter.com/search?q=DS+Mario+Circuit) | N/A |
-| 22 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
-| 23 | [Chaka](http://twitter.com/search?q=Chaka) | N/A |
-| 24 | [Juror](http://twitter.com/search?q=Juror) | N/A |
-| 25 | [yujin](http://twitter.com/search?q=yujin) | N/A |
-| 26 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 27 | [Judge Newman](http://twitter.com/search?q=Judge+Newman) | N/A |
-| 28 | [seok matthew](http://twitter.com/search?q=seok+matthew) | N/A |
-| 29 | [Daily Quordle 402](http://twitter.com/search?q=Daily+Quordle+402) | N/A |
-| 30 | [jiho](http://twitter.com/search?q=jiho) | N/A |
-| 31 | [Bryansk](http://twitter.com/search?q=Bryansk) | N/A |
-| 32 | [Michael Darby](http://twitter.com/search?q=Michael+Darby) | N/A |
-| 33 | [Tucson](http://twitter.com/search?q=Tucson) | N/A |
-| 34 | [Thirsty Thursday](http://twitter.com/search?q=Thirsty+Thursday) | N/A |
-| 35 | [Foligno](http://twitter.com/search?q=Foligno) | N/A |
-| 36 | [$TSLA](http://twitter.com/search?q=%24TSLA) | $TSLA is the stock symbol for Tesla, Inc., an American electric vehicle and clean energy company. It is traded on the Nasdaq stock exchange. |
-| 37 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
-| 38 | [takuto](http://twitter.com/search?q=takuto) | N/A |
-| 39 | [Karen Carpenter](http://twitter.com/search?q=Karen+Carpenter) | N/A |
-| 40 | [Republic of Texas](http://twitter.com/search?q=Republic+of+Texas) | N/A |
-| 41 | [Jim Griffin](http://twitter.com/search?q=Jim+Griffin) | N/A |
-| 42 | [ni hao](http://twitter.com/search?q=ni+hao) | N/A |
-| 43 | [Wo Long](http://twitter.com/search?q=Wo+Long) | N/A |
-| 44 | [Krejci](http://twitter.com/search?q=Krejci) | N/A |
-| 45 | [Doechii](http://twitter.com/search?q=Doechii) | N/A |
-| 46 | [Christopher Reeves](http://twitter.com/search?q=Christopher+Reeves) | N/A |
-| 47 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
-| 48 | [Dratini](http://twitter.com/search?q=Dratini) | N/A |
-| 49 | [Yzerman](http://twitter.com/search?q=Yzerman) | N/A |
+| 14 | [Pasta](http://twitter.com/search?q=Pasta) | N/A |
+| 15 | [Jim Griffin](http://twitter.com/search?q=Jim+Griffin) | N/A |
+| 16 | [David Pastrnak](http://twitter.com/search?q=David+Pastrnak) | N/A |
+| 17 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
+| 18 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 19 | [Chaka](http://twitter.com/search?q=Chaka) | N/A |
+| 20 | [DK Summit](http://twitter.com/search?q=DK+Summit) | N/A |
+| 21 | [Waluigi Stadium](http://twitter.com/search?q=Waluigi+Stadium) | N/A |
+| 22 | [LTIR](http://twitter.com/search?q=LTIR) | N/A |
+| 23 | [Tucson](http://twitter.com/search?q=Tucson) | N/A |
+| 24 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
+| 25 | [DS Mario Circuit](http://twitter.com/search?q=DS+Mario+Circuit) | N/A |
+| 26 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 27 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
+| 28 | [happy friday eve](http://twitter.com/search?q=happy+friday+eve) | N/A |
+| 29 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
+| 30 | [Dior](http://twitter.com/search?q=Dior) | Dior is a French luxury fashion house founded in 1946 by Christian Dior. The name Dior is derived from the founder's surname and is an abbreviation of his full name, Christian Dior. In English, it means "of or relating to Christian Dior". |
+| 31 | [Michael Darby](http://twitter.com/search?q=Michael+Darby) | N/A |
+| 32 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
+| 33 | [Claxton](http://twitter.com/search?q=Claxton) | Claxton is a surname of English origin. It is derived from the Old English words 'claec' meaning clay and 'tun' meaning settlement or farm. The name was originally given to someone who lived near a clay settlement or farm. |
+| 34 | [Judge Newman](http://twitter.com/search?q=Judge+Newman) | N/A |
+| 35 | [Juror](http://twitter.com/search?q=Juror) | N/A |
+| 36 | [Riverside Park](http://twitter.com/search?q=Riverside+Park) | N/A |
+| 37 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 38 | [Bergeron](http://twitter.com/search?q=Bergeron) | N/A |
+| 39 | [yujin](http://twitter.com/search?q=yujin) | N/A |
+| 40 | [Bryansk](http://twitter.com/search?q=Bryansk) | N/A |
+| 41 | [Dratini](http://twitter.com/search?q=Dratini) | N/A |
+| 42 | [Congratulations Jimin](http://twitter.com/search?q=Congratulations+Jimin) | "Congratulations Jimin" is a phrase used to express congratulations or best wishes to someone named Jimin. It is typically used in situations such as when someone has achieved a goal, received an award, or accomplished something noteworthy. |
+| 43 | [Taylor Hall](http://twitter.com/search?q=Taylor+Hall) | N/A |
+| 44 | [Yzerman](http://twitter.com/search?q=Yzerman) | N/A |
+| 45 | [Thirsty Thursday](http://twitter.com/search?q=Thirsty+Thursday) | N/A |
+| 46 | [The Bruins](http://twitter.com/search?q=The+Bruins) | N/A |
+| 47 | [Double Dash](http://twitter.com/search?q=Double+Dash) | N/A |
+| 48 | [SEOK MATTHEW](http://twitter.com/search?q=SEOK+MATTHEW) | N/A |
 
 
 

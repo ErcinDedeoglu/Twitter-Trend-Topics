@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Charlotte
 
-📆 Last Updated: `2023-03-02 15:16:59 UTC`
+📆 Last Updated: `2023-03-02 16:17:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Necas](http://twitter.com/search?q=Necas) | N/A |
-| 2 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
-| 3 | [#Survivor44](http://twitter.com/search?q=%23Survivor44) | N/A |
-| 4 | [Wanda](http://twitter.com/search?q=Wanda) | N/A |
-| 5 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 6 | [#BoycottHersheys](http://twitter.com/search?q=%23BoycottHersheys) | N/A |
-| 7 | [Bertuzzi](http://twitter.com/search?q=Bertuzzi) | N/A |
-| 8 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 9 | [Texas Independence Day](http://twitter.com/search?q=Texas+Independence+Day) | N/A |
-| 10 | [Dr. Seuss](http://twitter.com/search?q=Dr.+Seuss) | N/A |
-| 11 | [mnet](http://twitter.com/search?q=mnet) | N/A |
-| 12 | [Don Sweeney](http://twitter.com/search?q=Don+Sweeney) | N/A |
-| 13 | [DK Summit](http://twitter.com/search?q=DK+Summit) | N/A |
-| 14 | [Waluigi Stadium](http://twitter.com/search?q=Waluigi+Stadium) | N/A |
-| 15 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
-| 16 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
-| 17 | [KEITA](http://twitter.com/search?q=KEITA) | N/A |
-| 18 | [DS Mario Circuit](http://twitter.com/search?q=DS+Mario+Circuit) | N/A |
-| 19 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
-| 20 | [Chaka](http://twitter.com/search?q=Chaka) | N/A |
-| 21 | [Juror](http://twitter.com/search?q=Juror) | N/A |
-| 22 | [yujin](http://twitter.com/search?q=yujin) | N/A |
-| 23 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 24 | [Judge Newman](http://twitter.com/search?q=Judge+Newman) | N/A |
-| 25 | [seok matthew](http://twitter.com/search?q=seok+matthew) | N/A |
-| 26 | [Daily Quordle 402](http://twitter.com/search?q=Daily+Quordle+402) | N/A |
-| 27 | [jiho](http://twitter.com/search?q=jiho) | N/A |
-| 28 | [Bryansk](http://twitter.com/search?q=Bryansk) | N/A |
-| 29 | [Michael Darby](http://twitter.com/search?q=Michael+Darby) | N/A |
-| 30 | [Tucson](http://twitter.com/search?q=Tucson) | N/A |
-| 31 | [Thirsty Thursday](http://twitter.com/search?q=Thirsty+Thursday) | N/A |
-| 32 | [Foligno](http://twitter.com/search?q=Foligno) | N/A |
-| 33 | [$TSLA](http://twitter.com/search?q=%24TSLA) | $TSLA is the stock symbol for Tesla, Inc., an American electric vehicle and clean energy company. It is traded on the Nasdaq stock exchange. |
-| 34 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
-| 35 | [takuto](http://twitter.com/search?q=takuto) | N/A |
-| 36 | [Karen Carpenter](http://twitter.com/search?q=Karen+Carpenter) | N/A |
-| 37 | [Republic of Texas](http://twitter.com/search?q=Republic+of+Texas) | N/A |
-| 38 | [ni hao](http://twitter.com/search?q=ni+hao) | N/A |
-| 39 | [Jim Griffin](http://twitter.com/search?q=Jim+Griffin) | N/A |
-| 40 | [Wo Long](http://twitter.com/search?q=Wo+Long) | N/A |
-| 41 | [Doechii](http://twitter.com/search?q=Doechii) | N/A |
-| 42 | [Christopher Reeves](http://twitter.com/search?q=Christopher+Reeves) | N/A |
-| 43 | [Krejci](http://twitter.com/search?q=Krejci) | N/A |
-| 44 | [Dratini](http://twitter.com/search?q=Dratini) | N/A |
-| 45 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
-| 46 | [Yzerman](http://twitter.com/search?q=Yzerman) | N/A |
-| 47 | [AURORA](http://twitter.com/search?q=AURORA) | N/A |
+| 1 | [jcole](http://twitter.com/search?q=jcole) | N/A |
+| 2 | [Necas](http://twitter.com/search?q=Necas) | N/A |
+| 3 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
+| 4 | [#Survivor44](http://twitter.com/search?q=%23Survivor44) | N/A |
+| 5 | [Wanda](http://twitter.com/search?q=Wanda) | N/A |
+| 6 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 7 | [Hershey](http://twitter.com/search?q=Hershey) | N/A |
+| 8 | [#ReadAcrossAmericaDay](http://twitter.com/search?q=%23ReadAcrossAmericaDay) | N/A |
+| 9 | [Don Sweeney](http://twitter.com/search?q=Don+Sweeney) | N/A |
+| 10 | [Bertuzzi](http://twitter.com/search?q=Bertuzzi) | N/A |
+| 11 | [TIFFANY](http://twitter.com/search?q=TIFFANY) | N/A |
+| 12 | [Texas Independence Day](http://twitter.com/search?q=Texas+Independence+Day) | N/A |
+| 13 | [Dr. Seuss](http://twitter.com/search?q=Dr.+Seuss) | N/A |
+| 14 | [Pasta](http://twitter.com/search?q=Pasta) | N/A |
+| 15 | [Jim Griffin](http://twitter.com/search?q=Jim+Griffin) | N/A |
+| 16 | [David Pastrnak](http://twitter.com/search?q=David+Pastrnak) | N/A |
+| 17 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 18 | [Chaka](http://twitter.com/search?q=Chaka) | N/A |
+| 19 | [DK Summit](http://twitter.com/search?q=DK+Summit) | N/A |
+| 20 | [Waluigi Stadium](http://twitter.com/search?q=Waluigi+Stadium) | N/A |
+| 21 | [LTIR](http://twitter.com/search?q=LTIR) | N/A |
+| 22 | [Tucson](http://twitter.com/search?q=Tucson) | N/A |
+| 23 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
+| 24 | [DS Mario Circuit](http://twitter.com/search?q=DS+Mario+Circuit) | N/A |
+| 25 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 26 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
+| 27 | [happy friday eve](http://twitter.com/search?q=happy+friday+eve) | N/A |
+| 28 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
+| 29 | [Dior](http://twitter.com/search?q=Dior) | Dior is a French luxury fashion house founded in 1946 by Christian Dior. The name Dior is derived from the founder's surname and is an abbreviation of his full name, Christian Dior. In English, it means "of or relating to Christian Dior". |
+| 30 | [Michael Darby](http://twitter.com/search?q=Michael+Darby) | N/A |
+| 31 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
+| 32 | [Claxton](http://twitter.com/search?q=Claxton) | Claxton is a surname of English origin. It is derived from the Old English words 'claec' meaning clay and 'tun' meaning settlement or farm. The name was originally given to someone who lived near a clay settlement or farm. |
+| 33 | [Judge Newman](http://twitter.com/search?q=Judge+Newman) | N/A |
+| 34 | [Juror](http://twitter.com/search?q=Juror) | N/A |
+| 35 | [Taylor Hall](http://twitter.com/search?q=Taylor+Hall) | N/A |
+| 36 | [Riverside Park](http://twitter.com/search?q=Riverside+Park) | N/A |
+| 37 | [Bergeron](http://twitter.com/search?q=Bergeron) | N/A |
+| 38 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 39 | [yujin](http://twitter.com/search?q=yujin) | N/A |
+| 40 | [Bryansk](http://twitter.com/search?q=Bryansk) | N/A |
+| 41 | [Congratulations Jimin](http://twitter.com/search?q=Congratulations+Jimin) | "Congratulations Jimin" is a phrase used to express congratulations or best wishes to someone named Jimin. It is typically used in situations such as when someone has achieved a goal, received an award, or accomplished something noteworthy. |
+| 42 | [Dratini](http://twitter.com/search?q=Dratini) | N/A |
+| 43 | [Yzerman](http://twitter.com/search?q=Yzerman) | N/A |
+| 44 | [Krejci](http://twitter.com/search?q=Krejci) | N/A |
+| 45 | [Thirsty Thursday](http://twitter.com/search?q=Thirsty+Thursday) | N/A |
+| 46 | [The Bruins](http://twitter.com/search?q=The+Bruins) | N/A |
+| 47 | [Double Dash](http://twitter.com/search?q=Double+Dash) | N/A |
 
 
 

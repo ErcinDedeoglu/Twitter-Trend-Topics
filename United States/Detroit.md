@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Detroit
 
-📆 Last Updated: `2023-03-02 15:17:00 UTC`
+📆 Last Updated: `2023-03-02 16:17:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Pistons](http://twitter.com/search?q=Pistons) | Pistons are components of an engine that move up and down to create the power needed to drive a vehicle. They are usually made of metal and fit into the cylinder of an engine, where they move up and down in order to compress and expand the air-fuel mixture that powers the engine. |
-| 2 | [Boston](http://twitter.com/search?q=Boston) | Boston is the capital and most populous city of the Commonwealth of Massachusetts in the United States. It is one of the oldest cities in the United States, founded in 1630 by Puritan settlers from England. The city is known for its rich history, culture, and educational institutions. It is also home to many world-renowned museums, universities, and hospitals. |
-| 3 | [#BoycottHersheys](http://twitter.com/search?q=%23BoycottHersheys) | N/A |
-| 4 | [Bertuzzi](http://twitter.com/search?q=Bertuzzi) | N/A |
-| 5 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 6 | [#ReadAcrossAmericaDay](http://twitter.com/search?q=%23ReadAcrossAmericaDay) | N/A |
-| 7 | [#WorldBookDay](http://twitter.com/search?q=%23WorldBookDay) | N/A |
-| 8 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 9 | [Texas Independence Day](http://twitter.com/search?q=Texas+Independence+Day) | N/A |
-| 10 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
-| 11 | [Dr. Seuss](http://twitter.com/search?q=Dr.+Seuss) | N/A |
-| 12 | [mnet](http://twitter.com/search?q=mnet) | N/A |
-| 13 | [Don Sweeney](http://twitter.com/search?q=Don+Sweeney) | N/A |
-| 14 | [DK Summit](http://twitter.com/search?q=DK+Summit) | N/A |
-| 15 | [Waluigi Stadium](http://twitter.com/search?q=Waluigi+Stadium) | N/A |
-| 16 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
-| 17 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
-| 18 | [KEITA](http://twitter.com/search?q=KEITA) | N/A |
-| 19 | [DS Mario Circuit](http://twitter.com/search?q=DS+Mario+Circuit) | N/A |
-| 20 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
-| 21 | [Chaka Khan](http://twitter.com/search?q=Chaka+Khan) | N/A |
-| 22 | [Juror](http://twitter.com/search?q=Juror) | N/A |
-| 23 | [yujin](http://twitter.com/search?q=yujin) | N/A |
-| 24 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 25 | [Judge Newman](http://twitter.com/search?q=Judge+Newman) | N/A |
-| 26 | [seok matthew](http://twitter.com/search?q=seok+matthew) | N/A |
-| 27 | [Daily Quordle 402](http://twitter.com/search?q=Daily+Quordle+402) | N/A |
-| 28 | [jiho](http://twitter.com/search?q=jiho) | N/A |
-| 29 | [Bryansk](http://twitter.com/search?q=Bryansk) | N/A |
+| 1 | [Boston](http://twitter.com/search?q=Boston) | Boston is the capital and most populous city of the Commonwealth of Massachusetts in the United States. It is one of the oldest cities in the United States, founded in 1630 by Puritan settlers from England. The city is known for its rich history, culture, and educational institutions. It is also home to many world-renowned museums, universities, and hospitals. |
+| 2 | [Larkin](http://twitter.com/search?q=Larkin) | N/A |
+| 3 | [Hronek](http://twitter.com/search?q=Hronek) | N/A |
+| 4 | [Hershey](http://twitter.com/search?q=Hershey) | N/A |
+| 5 | [#ReadAcrossAmericaDay](http://twitter.com/search?q=%23ReadAcrossAmericaDay) | N/A |
+| 6 | [Don Sweeney](http://twitter.com/search?q=Don+Sweeney) | N/A |
+| 7 | [Bertuzzi](http://twitter.com/search?q=Bertuzzi) | N/A |
+| 8 | [#WorldBookDay](http://twitter.com/search?q=%23WorldBookDay) | N/A |
+| 9 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 10 | [TIFFANY](http://twitter.com/search?q=TIFFANY) | N/A |
+| 11 | [Texas Independence Day](http://twitter.com/search?q=Texas+Independence+Day) | N/A |
+| 12 | [Dr. Seuss](http://twitter.com/search?q=Dr.+Seuss) | N/A |
+| 13 | [Pasta](http://twitter.com/search?q=Pasta) | N/A |
+| 14 | [Jim Griffin](http://twitter.com/search?q=Jim+Griffin) | N/A |
+| 15 | [David Pastrnak](http://twitter.com/search?q=David+Pastrnak) | N/A |
+| 16 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
+| 17 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 18 | [Chaka](http://twitter.com/search?q=Chaka) | N/A |
+| 19 | [#GoWokeGoBroke](http://twitter.com/search?q=%23GoWokeGoBroke) | N/A |
+| 20 | [DK Summit](http://twitter.com/search?q=DK+Summit) | N/A |
+| 21 | [Waluigi Stadium](http://twitter.com/search?q=Waluigi+Stadium) | N/A |
+| 22 | [LTIR](http://twitter.com/search?q=LTIR) | N/A |
+| 23 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
+| 24 | [Tucson](http://twitter.com/search?q=Tucson) | N/A |
+| 25 | [DS Mario Circuit](http://twitter.com/search?q=DS+Mario+Circuit) | N/A |
+| 26 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 27 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
+| 28 | [happy friday eve](http://twitter.com/search?q=happy+friday+eve) | N/A |
+| 29 | [Dior](http://twitter.com/search?q=Dior) | Dior is a French luxury fashion house founded in 1946 by Christian Dior. The name Dior is derived from the founder's surname and is an abbreviation of his full name, Christian Dior. In English, it means "of or relating to Christian Dior". |
 | 30 | [Michael Darby](http://twitter.com/search?q=Michael+Darby) | N/A |
-| 31 | [Tucson](http://twitter.com/search?q=Tucson) | N/A |
-| 32 | [Thirsty Thursday](http://twitter.com/search?q=Thirsty+Thursday) | N/A |
-| 33 | [Foligno](http://twitter.com/search?q=Foligno) | N/A |
-| 34 | [$TSLA](http://twitter.com/search?q=%24TSLA) | $TSLA is the stock symbol for Tesla, Inc., an American electric vehicle and clean energy company. It is traded on the Nasdaq stock exchange. |
-| 35 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
-| 36 | [takuto](http://twitter.com/search?q=takuto) | N/A |
-| 37 | [Karen Carpenter](http://twitter.com/search?q=Karen+Carpenter) | N/A |
-| 38 | [Republic of Texas](http://twitter.com/search?q=Republic+of+Texas) | N/A |
-| 39 | [ni hao](http://twitter.com/search?q=ni+hao) | N/A |
-| 40 | [Jim Griffin](http://twitter.com/search?q=Jim+Griffin) | N/A |
-| 41 | [Wo Long](http://twitter.com/search?q=Wo+Long) | N/A |
-| 42 | [Doechii](http://twitter.com/search?q=Doechii) | N/A |
-| 43 | [Christopher Reeves](http://twitter.com/search?q=Christopher+Reeves) | N/A |
-| 44 | [Krejci](http://twitter.com/search?q=Krejci) | N/A |
-| 45 | [Dratini](http://twitter.com/search?q=Dratini) | N/A |
-| 46 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
-| 47 | [Yzerman](http://twitter.com/search?q=Yzerman) | N/A |
-| 48 | [AURORA](http://twitter.com/search?q=AURORA) | N/A |
-| 49 | [Trapinch](http://twitter.com/search?q=Trapinch) | N/A |
-| 50 | [JCOLE](http://twitter.com/search?q=JCOLE) | N/A |
+| 31 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
+| 32 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
+| 33 | [Claxton](http://twitter.com/search?q=Claxton) | Claxton is a surname of English origin. It is derived from the Old English words 'claec' meaning clay and 'tun' meaning settlement or farm. The name was originally given to someone who lived near a clay settlement or farm. |
+| 34 | [Judge Newman](http://twitter.com/search?q=Judge+Newman) | N/A |
+| 35 | [Juror](http://twitter.com/search?q=Juror) | N/A |
+| 36 | [Riverside Park](http://twitter.com/search?q=Riverside+Park) | N/A |
+| 37 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 38 | [Bergeron](http://twitter.com/search?q=Bergeron) | N/A |
+| 39 | [yujin](http://twitter.com/search?q=yujin) | N/A |
+| 40 | [Bryansk](http://twitter.com/search?q=Bryansk) | N/A |
+| 41 | [Dratini](http://twitter.com/search?q=Dratini) | N/A |
+| 42 | [Congratulations Jimin](http://twitter.com/search?q=Congratulations+Jimin) | "Congratulations Jimin" is a phrase used to express congratulations or best wishes to someone named Jimin. It is typically used in situations such as when someone has achieved a goal, received an award, or accomplished something noteworthy. |
+| 43 | [Yzerman](http://twitter.com/search?q=Yzerman) | N/A |
+| 44 | [Thirsty Thursday](http://twitter.com/search?q=Thirsty+Thursday) | N/A |
+| 45 | [The Bruins](http://twitter.com/search?q=The+Bruins) | N/A |
+| 46 | [Double Dash](http://twitter.com/search?q=Double+Dash) | N/A |
+| 47 | [SEOK MATTHEW](http://twitter.com/search?q=SEOK+MATTHEW) | N/A |
+| 48 | [jiho](http://twitter.com/search?q=jiho) | N/A |
+| 49 | [Krejci](http://twitter.com/search?q=Krejci) | N/A |
 
 
 

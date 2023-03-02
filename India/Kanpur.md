@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kanpur
 
-📆 Last Updated: `2023-03-02 15:16:54 UTC`
+📆 Last Updated: `2023-03-02 16:17:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [भारतीय जनता पार्टी](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%9c%e0%a4%a8%e0%a4%a4%e0%a4%be+%e0%a4%aa%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9f%e0%a5%80) | N/A |
-| 2 | [#BGT2023](http://twitter.com/search?q=%23BGT2023) | N/A |
+| 1 | [पीस कमेटी](http://twitter.com/search?q=%e0%a4%aa%e0%a5%80%e0%a4%b8+%e0%a4%95%e0%a4%ae%e0%a5%87%e0%a4%9f%e0%a5%80) | N/A |
+| 2 | [TIFFANY](http://twitter.com/search?q=TIFFANY) | N/A |
 | 3 | [#JSP4AP](http://twitter.com/search?q=%23JSP4AP) | N/A |
 | 4 | [#electionresults2023](http://twitter.com/search?q=%23electionresults2023) | N/A |
-| 5 | [#FindGodWithin](http://twitter.com/search?q=%23FindGodWithin) | N/A |
-| 6 | [Tripura](http://twitter.com/search?q=Tripura) | N/A |
-| 7 | [विधानसभा चुनाव](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%a7%e0%a4%be%e0%a4%a8%e0%a4%b8%e0%a4%ad%e0%a4%be+%e0%a4%9a%e0%a5%81%e0%a4%a8%e0%a4%be%e0%a4%b5) | N/A |
-| 8 | [Happy Birthday Cheenu](http://twitter.com/search?q=Happy+Birthday+Cheenu) | N/A |
-| 9 | [8YRS OF TEJASSWI AS RAGINI](http://twitter.com/search?q=8YRS+OF+TEJASSWI+AS+RAGINI) | N/A |
+| 5 | [#MSDhoni](http://twitter.com/search?q=%23MSDhoni) | N/A |
+| 6 | [Thala](http://twitter.com/search?q=Thala) | N/A |
+| 7 | [#WhistlePodu](http://twitter.com/search?q=%23WhistlePodu) | N/A |
+| 8 | [नॉर्थ ईस्ट](http://twitter.com/search?q=%e0%a4%a8%e0%a5%89%e0%a4%b0%e0%a5%8d%e0%a4%a5+%e0%a4%88%e0%a4%b8%e0%a5%8d%e0%a4%9f) | N/A |
+| 9 | [Tripura](http://twitter.com/search?q=Tripura) | N/A |
 | 10 | [Sushant Always A Learner](http://twitter.com/search?q=Sushant+Always+A+Learner) | N/A |
-| 11 | [नॉर्थ ईस्ट](http://twitter.com/search?q=%e0%a4%a8%e0%a5%89%e0%a4%b0%e0%a5%8d%e0%a4%a5+%e0%a4%88%e0%a4%b8%e0%a5%8d%e0%a4%9f) | N/A |
-| 12 | [GQG Partners](http://twitter.com/search?q=GQG+Partners) | N/A |
+| 11 | [विधानसभा चुनाव](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%a7%e0%a4%be%e0%a4%a8%e0%a4%b8%e0%a4%ad%e0%a4%be+%e0%a4%9a%e0%a5%81%e0%a4%a8%e0%a4%be%e0%a4%b5) | N/A |
+| 12 | [North East](http://twitter.com/search?q=North+East) | N/A |
 | 13 | [Nagaland](http://twitter.com/search?q=Nagaland) | N/A |
-| 14 | [Pradeep Bhandari](http://twitter.com/search?q=Pradeep+Bhandari) | Pradeep Bhandari is a Hindu name that means "shining light". It is derived from the Sanskrit words "pra" (light) and "deepa" (shining). |
-| 15 | [Nathan Lyon](http://twitter.com/search?q=Nathan+Lyon) | N/A |
-| 16 | [MATTHEW](http://twitter.com/search?q=MATTHEW) | N/A |
-| 17 | [गरीब कल्याण](http://twitter.com/search?q=%e0%a4%97%e0%a4%b0%e0%a5%80%e0%a4%ac+%e0%a4%95%e0%a4%b2%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%a3) | N/A |
-| 18 | [सुष्मिता सेन](http://twitter.com/search?q=%e0%a4%b8%e0%a5%81%e0%a4%b7%e0%a5%8d%e0%a4%ae%e0%a4%bf%e0%a4%a4%e0%a4%be+%e0%a4%b8%e0%a5%87%e0%a4%a8) | N/A |
-| 19 | [Pujara](http://twitter.com/search?q=Pujara) | N/A |
+| 14 | [भारतीय जनता पार्टी](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%9c%e0%a4%a8%e0%a4%a4%e0%a4%be+%e0%a4%aa%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9f%e0%a5%80) | N/A |
+| 15 | [Dior](http://twitter.com/search?q=Dior) | Dior is a French luxury fashion house founded in 1946 by Christian Dior. The name Dior is derived from the founder's surname and is an abbreviation of his full name, Christian Dior. In English, it means "of or relating to Christian Dior". |
+| 16 | [GQG Partners](http://twitter.com/search?q=GQG+Partners) | N/A |
+| 17 | [Happy Birthday Cheenu](http://twitter.com/search?q=Happy+Birthday+Cheenu) | N/A |
+| 18 | [8YRS OF TEJASSWI AS RAGINI](http://twitter.com/search?q=8YRS+OF+TEJASSWI+AS+RAGINI) | N/A |
+| 19 | [शानदार विजय](http://twitter.com/search?q=%e0%a4%b6%e0%a4%be%e0%a4%a8%e0%a4%a6%e0%a4%be%e0%a4%b0+%e0%a4%b5%e0%a4%bf%e0%a4%9c%e0%a4%af) | N/A |
 | 20 | [जनता जनार्दन](http://twitter.com/search?q=%e0%a4%9c%e0%a4%a8%e0%a4%a4%e0%a4%be+%e0%a4%9c%e0%a4%a8%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%a6%e0%a4%a8) | N/A |
-| 21 | [Blinken](http://twitter.com/search?q=Blinken) | N/A |
-| 22 | [चुनाव आयोग](http://twitter.com/search?q=%e0%a4%9a%e0%a5%81%e0%a4%a8%e0%a4%be%e0%a4%b5+%e0%a4%86%e0%a4%af%e0%a5%8b%e0%a4%97) | N/A |
-| 23 | [दलित परिवार](http://twitter.com/search?q=%e0%a4%a6%e0%a4%b2%e0%a4%bf%e0%a4%a4+%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%b5%e0%a4%be%e0%a4%b0) | N/A |
-| 24 | [Collegium](http://twitter.com/search?q=Collegium) | N/A |
-| 25 | [Judges](http://twitter.com/search?q=Judges) | N/A |
-| 26 | [उत्तर पूर्व](http://twitter.com/search?q=%e0%a4%89%e0%a4%a4%e0%a5%8d%e0%a4%a4%e0%a4%b0+%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5) | N/A |
-| 27 | [OUT NOW](http://twitter.com/search?q=OUT+NOW) | N/A |
-| 28 | [Axar](http://twitter.com/search?q=Axar) | Axar is a Sanskrit word meaning “axis” or “pole.” It is used in Hinduism to refer to the central point of the universe, around which all other things revolve. In modern usage, it can also refer to a person or thing that serves as a focal point for others. |
-| 29 | [Neend](http://twitter.com/search?q=Neend) | N/A |
-| 30 | [कल्याण बोर्ड](http://twitter.com/search?q=%e0%a4%95%e0%a4%b2%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%a3+%e0%a4%ac%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%a1) | N/A |
-| 31 | [Italy](http://twitter.com/search?q=Italy) | N/A |
-| 32 | [EVKS](http://twitter.com/search?q=EVKS) | N/A |
-| 33 | [Bharat Jodo Yatra](http://twitter.com/search?q=Bharat+Jodo+Yatra) | N/A |
-| 34 | [कृष्ण शास्त्री](http://twitter.com/search?q=%e0%a4%95%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%a3+%e0%a4%b6%e0%a4%be%e0%a4%b8%e0%a5%8d%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 35 | [Italian PM](http://twitter.com/search?q=Italian+PM) | N/A |
-| 36 | [शांति समिति](http://twitter.com/search?q=%e0%a4%b6%e0%a4%be%e0%a4%82%e0%a4%a4%e0%a4%bf+%e0%a4%b8%e0%a4%ae%e0%a4%bf%e0%a4%a4%e0%a4%bf) | N/A |
-| 37 | [AIADMK](http://twitter.com/search?q=AIADMK) | N/A |
-| 38 | [NJAC](http://twitter.com/search?q=NJAC) | N/A |
-| 39 | [SEBI](http://twitter.com/search?q=SEBI) | N/A |
-| 40 | [Siraj](http://twitter.com/search?q=Siraj) | Siraj is an Arabic name meaning "lamp" or "light". It is also used as a surname. |
-| 41 | [दोषी माना](http://twitter.com/search?q=%e0%a4%a6%e0%a5%8b%e0%a4%b7%e0%a5%80+%e0%a4%ae%e0%a4%be%e0%a4%a8%e0%a4%be) | N/A |
-| 42 | [Judiciary](http://twitter.com/search?q=Judiciary) | N/A |
-| 43 | [रामगढ़ विधानसभा](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%ae%e0%a4%97%e0%a4%a2%e0%a4%bc+%e0%a4%b5%e0%a4%bf%e0%a4%a7%e0%a4%be%e0%a4%a8%e0%a4%b8%e0%a4%ad%e0%a4%be) | N/A |
-| 44 | [राजस्थान राज्य वीर](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be%e0%a4%a8+%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%8d%e0%a4%af+%e0%a4%b5%e0%a5%80%e0%a4%b0) | N/A |
-| 45 | [#SushmitaSen](http://twitter.com/search?q=%23SushmitaSen) | N/A |
-| 46 | [#TheLegend](http://twitter.com/search?q=%23TheLegend) | N/A |
-| 47 | [#HappyBirthdayShraddhaKapoor](http://twitter.com/search?q=%23HappyBirthdayShraddhaKapoor) | N/A |
-| 48 | [#झूठा_जीतू_पटवारी](http://twitter.com/search?q=%23%e0%a4%9d%e0%a5%82%e0%a4%a0%e0%a4%be_%e0%a4%9c%e0%a5%80%e0%a4%a4%e0%a5%82_%e0%a4%aa%e0%a4%9f%e0%a4%b5%e0%a4%be%e0%a4%b0%e0%a5%80) | N/A |
-| 49 | [#1YearOfYTBheeshmaParvam](http://twitter.com/search?q=%231YearOfYTBheeshmaParvam) | N/A |
+| 21 | [MATTHEW](http://twitter.com/search?q=MATTHEW) | N/A |
+| 22 | [Pujara](http://twitter.com/search?q=Pujara) | N/A |
+| 23 | [Neend](http://twitter.com/search?q=Neend) | N/A |
+| 24 | [गरीब कल्याण](http://twitter.com/search?q=%e0%a4%97%e0%a4%b0%e0%a5%80%e0%a4%ac+%e0%a4%95%e0%a4%b2%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%a3) | N/A |
+| 25 | [सुष्मिता सेन](http://twitter.com/search?q=%e0%a4%b8%e0%a5%81%e0%a4%b7%e0%a5%8d%e0%a4%ae%e0%a4%bf%e0%a4%a4%e0%a4%be+%e0%a4%b8%e0%a5%87%e0%a4%a8) | N/A |
+| 26 | [Pradeep Bhandari](http://twitter.com/search?q=Pradeep+Bhandari) | Pradeep Bhandari is a Hindu name that means "shining light". It is derived from the Sanskrit words "pra" (light) and "deepa" (shining). |
+| 27 | [Blinken](http://twitter.com/search?q=Blinken) | N/A |
+| 28 | [उत्तर पूर्व](http://twitter.com/search?q=%e0%a4%89%e0%a4%a4%e0%a5%8d%e0%a4%a4%e0%a4%b0+%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5) | N/A |
+| 29 | [Bharat Jodo Yatra](http://twitter.com/search?q=Bharat+Jodo+Yatra) | N/A |
+| 30 | [Italy](http://twitter.com/search?q=Italy) | N/A |
+| 31 | [NJAC](http://twitter.com/search?q=NJAC) | N/A |
+| 32 | [Collegium](http://twitter.com/search?q=Collegium) | N/A |
+| 33 | [Purple](http://twitter.com/search?q=Purple) | N/A |
+| 34 | [चुनाव आयोग](http://twitter.com/search?q=%e0%a4%9a%e0%a5%81%e0%a4%a8%e0%a4%be%e0%a4%b5+%e0%a4%86%e0%a4%af%e0%a5%8b%e0%a4%97) | N/A |
+| 35 | [Axar](http://twitter.com/search?q=Axar) | Axar is a Sanskrit word meaning “axis” or “pole.” It is used in Hinduism to refer to the central point of the universe, around which all other things revolve. In modern usage, it can also refer to a person or thing that serves as a focal point for others. |
+| 36 | [EVKS](http://twitter.com/search?q=EVKS) | N/A |
+| 37 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
+| 38 | [ADMK](http://twitter.com/search?q=ADMK) | N/A |
+| 39 | [OUT NOW](http://twitter.com/search?q=OUT+NOW) | N/A |
+| 40 | [Italian PM](http://twitter.com/search?q=Italian+PM) | N/A |
+| 41 | [दलित परिवार](http://twitter.com/search?q=%e0%a4%a6%e0%a4%b2%e0%a4%bf%e0%a4%a4+%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%b5%e0%a4%be%e0%a4%b0) | N/A |
+| 42 | [Judges](http://twitter.com/search?q=Judges) | N/A |
+| 43 | [कल्याण बोर्ड](http://twitter.com/search?q=%e0%a4%95%e0%a4%b2%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%a3+%e0%a4%ac%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%a1) | N/A |
+| 44 | [Siraj](http://twitter.com/search?q=Siraj) | Siraj is an Arabic name meaning "lamp" or "light". It is also used as a surname. |
+| 45 | [राष्ट्रीय लोकतांत्रिक पार्टी](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%b2%e0%a5%8b%e0%a4%95%e0%a4%a4%e0%a4%be%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%bf%e0%a4%95+%e0%a4%aa%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9f%e0%a5%80) | N/A |
+| 46 | [Judiciary](http://twitter.com/search?q=Judiciary) | N/A |
+| 47 | [कृष्ण शास्त्री](http://twitter.com/search?q=%e0%a4%95%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%a3+%e0%a4%b6%e0%a4%be%e0%a4%b8%e0%a5%8d%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
+| 48 | [Rishabh Pant](http://twitter.com/search?q=Rishabh+Pant) | Rishabh Pant is an Indian cricketer who plays for the Indian national cricket team. He is a wicket-keeper batsman and is known for his aggressive batting style. The name Rishabh Pant comes from the Sanskrit language and means "lord of success". |
+| 49 | [रामगढ़ विधानसभा](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%ae%e0%a4%97%e0%a4%a2%e0%a4%bc+%e0%a4%b5%e0%a4%bf%e0%a4%a7%e0%a4%be%e0%a4%a8%e0%a4%b8%e0%a4%ad%e0%a4%be) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For El Paso
 
-📆 Last Updated: `2023-03-02 15:17:00 UTC`
+📆 Last Updated: `2023-03-02 16:17:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#txwx](http://twitter.com/search?q=%23txwx) | N/A |
-| 2 | [#BoycottHersheys](http://twitter.com/search?q=%23BoycottHersheys) | N/A |
-| 3 | [Bertuzzi](http://twitter.com/search?q=Bertuzzi) | N/A |
-| 4 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 1 | [#WomensHistoryMonth](http://twitter.com/search?q=%23WomensHistoryMonth) | N/A |
+| 2 | [jcole](http://twitter.com/search?q=jcole) | N/A |
+| 3 | [#txwx](http://twitter.com/search?q=%23txwx) | N/A |
+| 4 | [Hershey](http://twitter.com/search?q=Hershey) | N/A |
 | 5 | [#ReadAcrossAmericaDay](http://twitter.com/search?q=%23ReadAcrossAmericaDay) | N/A |
-| 6 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 7 | [#WorldBookDay](http://twitter.com/search?q=%23WorldBookDay) | N/A |
-| 8 | [Texas Independence Day](http://twitter.com/search?q=Texas+Independence+Day) | N/A |
-| 9 | [Dr. Seuss](http://twitter.com/search?q=Dr.+Seuss) | N/A |
-| 10 | [mnet](http://twitter.com/search?q=mnet) | N/A |
-| 11 | [Don Sweeney](http://twitter.com/search?q=Don+Sweeney) | N/A |
-| 12 | [DK Summit](http://twitter.com/search?q=DK+Summit) | N/A |
-| 13 | [Waluigi Stadium](http://twitter.com/search?q=Waluigi+Stadium) | N/A |
-| 14 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
-| 15 | [KEITA](http://twitter.com/search?q=KEITA) | N/A |
-| 16 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
-| 17 | [DS Mario Circuit](http://twitter.com/search?q=DS+Mario+Circuit) | N/A |
-| 18 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
-| 19 | [Chaka Khan](http://twitter.com/search?q=Chaka+Khan) | N/A |
-| 20 | [Juror](http://twitter.com/search?q=Juror) | N/A |
-| 21 | [yujin](http://twitter.com/search?q=yujin) | N/A |
-| 22 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 23 | [Judge Newman](http://twitter.com/search?q=Judge+Newman) | N/A |
-| 24 | [seok matthew](http://twitter.com/search?q=seok+matthew) | N/A |
-| 25 | [jiho](http://twitter.com/search?q=jiho) | N/A |
-| 26 | [Bryansk](http://twitter.com/search?q=Bryansk) | N/A |
-| 27 | [Tucson](http://twitter.com/search?q=Tucson) | N/A |
-| 28 | [Daily Quordle 402](http://twitter.com/search?q=Daily+Quordle+402) | N/A |
+| 6 | [Don Sweeney](http://twitter.com/search?q=Don+Sweeney) | N/A |
+| 7 | [Bertuzzi](http://twitter.com/search?q=Bertuzzi) | N/A |
+| 8 | [#WorldBookDay](http://twitter.com/search?q=%23WorldBookDay) | N/A |
+| 9 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 10 | [TIFFANY](http://twitter.com/search?q=TIFFANY) | N/A |
+| 11 | [Texas Independence Day](http://twitter.com/search?q=Texas+Independence+Day) | N/A |
+| 12 | [Dr. Seuss](http://twitter.com/search?q=Dr.+Seuss) | N/A |
+| 13 | [Pasta](http://twitter.com/search?q=Pasta) | N/A |
+| 14 | [Jim Griffin](http://twitter.com/search?q=Jim+Griffin) | N/A |
+| 15 | [David Pastrnak](http://twitter.com/search?q=David+Pastrnak) | N/A |
+| 16 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 17 | [Chaka](http://twitter.com/search?q=Chaka) | N/A |
+| 18 | [DK Summit](http://twitter.com/search?q=DK+Summit) | N/A |
+| 19 | [Waluigi Stadium](http://twitter.com/search?q=Waluigi+Stadium) | N/A |
+| 20 | [LTIR](http://twitter.com/search?q=LTIR) | N/A |
+| 21 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
+| 22 | [Tucson](http://twitter.com/search?q=Tucson) | N/A |
+| 23 | [DS Mario Circuit](http://twitter.com/search?q=DS+Mario+Circuit) | N/A |
+| 24 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 25 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
+| 26 | [happy friday eve](http://twitter.com/search?q=happy+friday+eve) | N/A |
+| 27 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
+| 28 | [Dior](http://twitter.com/search?q=Dior) | Dior is a French luxury fashion house founded in 1946 by Christian Dior. The name Dior is derived from the founder's surname and is an abbreviation of his full name, Christian Dior. In English, it means "of or relating to Christian Dior". |
 | 29 | [Michael Darby](http://twitter.com/search?q=Michael+Darby) | N/A |
-| 30 | [Thirsty Thursday](http://twitter.com/search?q=Thirsty+Thursday) | N/A |
-| 31 | [Foligno](http://twitter.com/search?q=Foligno) | N/A |
-| 32 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
-| 33 | [takuto](http://twitter.com/search?q=takuto) | N/A |
-| 34 | [$TSLA](http://twitter.com/search?q=%24TSLA) | $TSLA is the stock symbol for Tesla, Inc., an American electric vehicle and clean energy company. It is traded on the Nasdaq stock exchange. |
-| 35 | [Republic of Texas](http://twitter.com/search?q=Republic+of+Texas) | N/A |
-| 36 | [Karen Carpenter](http://twitter.com/search?q=Karen+Carpenter) | N/A |
-| 37 | [ni hao](http://twitter.com/search?q=ni+hao) | N/A |
-| 38 | [Wo Long](http://twitter.com/search?q=Wo+Long) | N/A |
-| 39 | [Jim Griffin](http://twitter.com/search?q=Jim+Griffin) | N/A |
-| 40 | [Doechii](http://twitter.com/search?q=Doechii) | N/A |
-| 41 | [Christopher Reeves](http://twitter.com/search?q=Christopher+Reeves) | N/A |
-| 42 | [Krejci](http://twitter.com/search?q=Krejci) | N/A |
-| 43 | [Dratini](http://twitter.com/search?q=Dratini) | N/A |
-| 44 | [AURORA](http://twitter.com/search?q=AURORA) | N/A |
-| 45 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
-| 46 | [Trapinch](http://twitter.com/search?q=Trapinch) | N/A |
-| 47 | [JCOLE](http://twitter.com/search?q=JCOLE) | N/A |
+| 30 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
+| 31 | [Claxton](http://twitter.com/search?q=Claxton) | Claxton is a surname of English origin. It is derived from the Old English words 'claec' meaning clay and 'tun' meaning settlement or farm. The name was originally given to someone who lived near a clay settlement or farm. |
+| 32 | [Judge Newman](http://twitter.com/search?q=Judge+Newman) | N/A |
+| 33 | [Juror](http://twitter.com/search?q=Juror) | N/A |
+| 34 | [Riverside Park](http://twitter.com/search?q=Riverside+Park) | N/A |
+| 35 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 36 | [Bergeron](http://twitter.com/search?q=Bergeron) | N/A |
+| 37 | [yujin](http://twitter.com/search?q=yujin) | N/A |
+| 38 | [Bryansk](http://twitter.com/search?q=Bryansk) | N/A |
+| 39 | [Dratini](http://twitter.com/search?q=Dratini) | N/A |
+| 40 | [Congratulations Jimin](http://twitter.com/search?q=Congratulations+Jimin) | "Congratulations Jimin" is a phrase used to express congratulations or best wishes to someone named Jimin. It is typically used in situations such as when someone has achieved a goal, received an award, or accomplished something noteworthy. |
+| 41 | [Yzerman](http://twitter.com/search?q=Yzerman) | N/A |
+| 42 | [Thirsty Thursday](http://twitter.com/search?q=Thirsty+Thursday) | N/A |
+| 43 | [The Bruins](http://twitter.com/search?q=The+Bruins) | N/A |
+| 44 | [Double Dash](http://twitter.com/search?q=Double+Dash) | N/A |
+| 45 | [SEOK MATTHEW](http://twitter.com/search?q=SEOK+MATTHEW) | N/A |
+| 46 | [jiho](http://twitter.com/search?q=jiho) | N/A |
+| 47 | [Krejci](http://twitter.com/search?q=Krejci) | N/A |
 
 
 

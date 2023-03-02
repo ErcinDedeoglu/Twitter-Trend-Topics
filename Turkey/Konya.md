@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Konya
 
-📆 Last Updated: `2023-03-02 15:16:58 UTC`
+📆 Last Updated: `2023-03-02 16:17:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#altılımasa](http://twitter.com/search?q=%23alt%c4%b1l%c4%b1masa) | #Altılımasa is a Turkish game similar to bingo. It is played with six dice and a board with 24 numbered squares. Players take turns rolling the dice and marking off the numbers on their board that match the numbers rolled. The first player to mark off all of their numbers wins the game. In English, #altılımasa translates to "six-dice table". |
-| 2 | [#MansurYavasadayolsun](http://twitter.com/search?q=%23MansurYavasadayolsun) | N/A |
-| 3 | [Ekşi Sözlük Açılmasın](http://twitter.com/search?q=Ek%c5%9fi+S%c3%b6zl%c3%bck+A%c3%a7%c4%b1lmas%c4%b1n) | N/A |
-| 4 | [#TamdaBugün100BinAtama](http://twitter.com/search?q=%23TamdaBug%c3%bcn100BinAtama) | N/A |
-| 5 | [#secim2023](http://twitter.com/search?q=%23secim2023) | N/A |
-| 6 | [Asrın Dayanışması](http://twitter.com/search?q=Asr%c4%b1n+Dayan%c4%b1%c5%9fmas%c4%b1) | N/A |
+| 1 | [#6lımasa](http://twitter.com/search?q=%236l%c4%b1masa) | N/A |
+| 2 | [MahkumudaAffedin Helalleşelim](http://twitter.com/search?q=MahkumudaAffedin+Helalle%c5%9felim) | N/A |
+| 3 | [#altılımasa](http://twitter.com/search?q=%23alt%c4%b1l%c4%b1masa) | #Altılımasa is a Turkish game similar to bingo. It is played with six dice and a board with 24 numbered squares. Players take turns rolling the dice and marking off the numbers on their board that match the numbers rolled. The first player to mark off all of their numbers wins the game. In English, #altılımasa translates to "six-dice table". |
+| 4 | [Ekşi Sözlük Açılmasın](http://twitter.com/search?q=Ek%c5%9fi+S%c3%b6zl%c3%bck+A%c3%a7%c4%b1lmas%c4%b1n) | N/A |
+| 5 | [#TamdaBugün100BinAtama](http://twitter.com/search?q=%23TamdaBug%c3%bcn100BinAtama) | N/A |
+| 6 | [#MansurYavasadayolsun](http://twitter.com/search?q=%23MansurYavasadayolsun) | N/A |
 | 7 | [Kemal Kılıçdaroğlu](http://twitter.com/search?q=Kemal+K%c4%b1l%c4%b1%c3%a7daro%c4%9flu) | Kemal Kılıçdaroğlu is a Turkish politician who has been the leader of the Republican People's Party (CHP) since 2010. His name translates to "Kemal Sword of Justice" in English. |
-| 8 | [FENERLE KİMSE BAŞA ÇIKAMAZ](http://twitter.com/search?q=FENERLE+K%c4%b0MSE+BA%c5%9eA+%c3%87IKAMAZ) | N/A |
+| 8 | [ADAM KAZANDI](http://twitter.com/search?q=ADAM+KAZANDI) | N/A |
 | 9 | [Mustafa İduğ](http://twitter.com/search?q=Mustafa+%c4%b0du%c4%9f) | N/A |
-| 10 | [ADAM KAZANDI](http://twitter.com/search?q=ADAM+KAZANDI) | N/A |
-| 11 | [Ekşi Sözlük'e](http://twitter.com/search?q=Ek%c5%9fi+S%c3%b6zl%c3%bck%27e) | N/A |
-| 12 | [Kayseri 2](http://twitter.com/search?q=Kayseri+2) | N/A |
-| 13 | [Şaklaban](http://twitter.com/search?q=%c5%9eaklaban) | N/A |
-| 14 | [Ahmet Ağaoğlu](http://twitter.com/search?q=Ahmet+A%c4%9fao%c4%9flu) | N/A |
-| 15 | [İlkokulda](http://twitter.com/search?q=%c4%b0lkokulda) | N/A |
-| 16 | [SON DAKİKA](http://twitter.com/search?q=SON+DAK%c4%b0KA) | SON Dakika is a Turkish phrase that translates to "last minute" in English. It is used to refer to news or events that have just happened or are happening at the last minute. |
-| 17 | [Sınıf](http://twitter.com/search?q=S%c4%b1n%c4%b1f) | N/A |
-| 18 | [İdare Mahkemesi](http://twitter.com/search?q=%c4%b0dare+Mahkemesi) | N/A |
-| 19 | [İnce](http://twitter.com/search?q=%c4%b0nce) | N/A |
-| 20 | [Masanın](http://twitter.com/search?q=Masan%c4%b1n) | N/A |
-| 21 | [Millet İttifakı](http://twitter.com/search?q=Millet+%c4%b0ttifak%c4%b1) | N/A |
-| 22 | [Akli](http://twitter.com/search?q=Akli) | N/A |
-| 23 | [Terlik](http://twitter.com/search?q=Terlik) | N/A |
-| 24 | [Yusuf Kaplan](http://twitter.com/search?q=Yusuf+Kaplan) | N/A |
-| 25 | [Hazırız](http://twitter.com/search?q=Haz%c4%b1r%c4%b1z) | N/A |
-| 26 | [Varsaymak](http://twitter.com/search?q=Varsaymak) | N/A |
-| 27 | [Kayserispor - Fenerbahçe](http://twitter.com/search?q=Kayserispor+-+Fenerbah%c3%a7e) | N/A |
-| 28 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 29 | [Gökhan Özbek](http://twitter.com/search?q=G%c3%b6khan+%c3%96zbek) | N/A |
-| 30 | [Dersim](http://twitter.com/search?q=Dersim) | N/A |
-| 31 | [Nevzat Aydın](http://twitter.com/search?q=Nevzat+Ayd%c4%b1n) | N/A |
-| 32 | [Lisede](http://twitter.com/search?q=Lisede) | N/A |
-| 33 | [Ali Mahir Başarır](http://twitter.com/search?q=Ali+Mahir+Ba%c5%9far%c4%b1r) | N/A |
-| 34 | [Davutoğlu](http://twitter.com/search?q=Davuto%c4%9flu) | Davutoğlu is a Turkish surname. It is derived from the Turkish word "davut", which means "wise". In English, the name Davutoğlu would translate to "wise man". |
-| 35 | [Tunceli](http://twitter.com/search?q=Tunceli) | N/A |
-| 36 | [ÖncelikAf SonraSeçim](http://twitter.com/search?q=%c3%96ncelikAf+SonraSe%c3%a7im) | N/A |
-| 37 | [Kazı](http://twitter.com/search?q=Kaz%c4%b1) | N/A |
-| 38 | [Seçimden](http://twitter.com/search?q=Se%c3%a7imden) | N/A |
-| 39 | [Ertuğrul Doğan](http://twitter.com/search?q=Ertu%c4%9frul+Do%c4%9fan) | N/A |
-| 40 | [Varsayıyoruz](http://twitter.com/search?q=Varsay%c4%b1yoruz) | N/A |
-| 41 | [Serdar Tuncer](http://twitter.com/search?q=Serdar+Tuncer) | N/A |
-| 42 | [Alevi](http://twitter.com/search?q=Alevi) | N/A |
-| 43 | [Atilla Karaoğlan](http://twitter.com/search?q=Atilla+Karao%c4%9flan) | Atilla Karaoğlan is a Turkish folk hero and the protagonist of a popular epic poem. The name Atilla Karaoğlan translates to "Atilla the Brave" in English. The poem tells the story of Atilla's heroic deeds and his struggles against injustice. |
-| 44 | [HDP'ye](http://twitter.com/search?q=HDP%27ye) | N/A |
-| 45 | [Mansur Yavaşı](http://twitter.com/search?q=Mansur+Yava%c5%9f%c4%b1) | N/A |
-| 46 | [Tuvalet](http://twitter.com/search?q=Tuvalet) | N/A |
-| 47 | [Ekmeleddin](http://twitter.com/search?q=Ekmeleddin) | N/A |
-| 48 | [Kanal İstanbul](http://twitter.com/search?q=Kanal+%c4%b0stanbul) | N/A |
+| 10 | [Asrın Dayanışması](http://twitter.com/search?q=Asr%c4%b1n+Dayan%c4%b1%c5%9fmas%c4%b1) | N/A |
+| 11 | [MASA ALTI OLAY](http://twitter.com/search?q=MASA+ALTI+OLAY) | N/A |
+| 12 | [FENERLE KİMSE BAŞA ÇIKAMAZ](http://twitter.com/search?q=FENERLE+K%c4%b0MSE+BA%c5%9eA+%c3%87IKAMAZ) | N/A |
+| 13 | [Sınıf](http://twitter.com/search?q=S%c4%b1n%c4%b1f) | N/A |
+| 14 | [Şaklaban](http://twitter.com/search?q=%c5%9eaklaban) | N/A |
+| 15 | [Kayseri 2](http://twitter.com/search?q=Kayseri+2) | N/A |
+| 16 | [Ahmet Ağaoğlu](http://twitter.com/search?q=Ahmet+A%c4%9fao%c4%9flu) | N/A |
+| 17 | [Akli](http://twitter.com/search?q=Akli) | N/A |
+| 18 | [İlkokulda](http://twitter.com/search?q=%c4%b0lkokulda) | N/A |
+| 19 | [SON DAKİKA](http://twitter.com/search?q=SON+DAK%c4%b0KA) | SON Dakika is a Turkish phrase that translates to "last minute" in English. It is used to refer to news or events that have just happened or are happening at the last minute. |
+| 20 | [Hazırız](http://twitter.com/search?q=Haz%c4%b1r%c4%b1z) | N/A |
+| 21 | [İdare Mahkemesi](http://twitter.com/search?q=%c4%b0dare+Mahkemesi) | N/A |
+| 22 | [Bornova](http://twitter.com/search?q=Bornova) | N/A |
+| 23 | [Dersim](http://twitter.com/search?q=Dersim) | N/A |
+| 24 | [Lisede](http://twitter.com/search?q=Lisede) | N/A |
+| 25 | [Gökhan Özbek](http://twitter.com/search?q=G%c3%b6khan+%c3%96zbek) | N/A |
+| 26 | [İnce](http://twitter.com/search?q=%c4%b0nce) | N/A |
+| 27 | [Masanın](http://twitter.com/search?q=Masan%c4%b1n) | N/A |
+| 28 | [Tunceli](http://twitter.com/search?q=Tunceli) | N/A |
+| 29 | [Yusuf Kaplan](http://twitter.com/search?q=Yusuf+Kaplan) | N/A |
+| 30 | [Terlik](http://twitter.com/search?q=Terlik) | N/A |
+| 31 | [Abdullah Gül](http://twitter.com/search?q=Abdullah+G%c3%bcl) | N/A |
+| 32 | [Davutoğlu](http://twitter.com/search?q=Davuto%c4%9flu) | Davutoğlu is a Turkish surname. It is derived from the Turkish word "davut", which means "wise". In English, the name Davutoğlu would translate to "wise man". |
+| 33 | [ÖncelikAf SonraSeçim](http://twitter.com/search?q=%c3%96ncelikAf+SonraSe%c3%a7im) | N/A |
+| 34 | [Nevzat Aydın](http://twitter.com/search?q=Nevzat+Ayd%c4%b1n) | N/A |
+| 35 | [Babacan](http://twitter.com/search?q=Babacan) | N/A |
+| 36 | [Millet İttifakı](http://twitter.com/search?q=Millet+%c4%b0ttifak%c4%b1) | N/A |
+| 37 | [Ali Mahir Başarır](http://twitter.com/search?q=Ali+Mahir+Ba%c5%9far%c4%b1r) | N/A |
+| 38 | [Kayserispor - Fenerbahçe](http://twitter.com/search?q=Kayserispor+-+Fenerbah%c3%a7e) | N/A |
+| 39 | [Varsaymak](http://twitter.com/search?q=Varsaymak) | N/A |
+| 40 | [Ertuğrul](http://twitter.com/search?q=Ertu%c4%9frul) | N/A |
+| 41 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 42 | [Kazı](http://twitter.com/search?q=Kaz%c4%b1) | N/A |
+| 43 | [Tuvalet](http://twitter.com/search?q=Tuvalet) | N/A |
+| 44 | [Varsayıyoruz](http://twitter.com/search?q=Varsay%c4%b1yoruz) | N/A |
+| 45 | [Seçimden](http://twitter.com/search?q=Se%c3%a7imden) | N/A |
+| 46 | [Ekmeleddin](http://twitter.com/search?q=Ekmeleddin) | N/A |
+| 47 | [Mansur Yavaşı](http://twitter.com/search?q=Mansur+Yava%c5%9f%c4%b1) | N/A |
+| 48 | [Alevi](http://twitter.com/search?q=Alevi) | N/A |
 
 
 

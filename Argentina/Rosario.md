@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rosario
 
-📆 Last Updated: `2023-03-02 15:16:29 UTC`
+📆 Last Updated: `2023-03-02 16:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,43 @@ This is top 50 for [Argentina](</Argentina>)
 | ------- | ------------ | ------------ |
 | 1 | [Rosario](http://twitter.com/search?q=Rosario) | N/A |
 | 2 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 3 | [#SinLuz](http://twitter.com/search?q=%23SinLuz) | N/A |
-| 4 | [Atucha](http://twitter.com/search?q=Atucha) | N/A |
-| 5 | [#nadiedicenada](http://twitter.com/search?q=%23nadiedicenada) | N/A |
-| 6 | [#SiempreBoca](http://twitter.com/search?q=%23SiempreBoca) | N/A |
-| 7 | [Benedetto](http://twitter.com/search?q=Benedetto) | Benedetto is an Italian name meaning "blessed". It is derived from the Latin word "benedictus", which means "blessed". |
-| 8 | [Alberto](http://twitter.com/search?q=Alberto) | Alberto is a Spanish and Italian masculine given name, derived from the Germanic name Adalbert. In English, it is translated to mean "noble and bright". |
-| 9 | [Javkin](http://twitter.com/search?q=Javkin) | N/A |
-| 10 | [Patronato](http://twitter.com/search?q=Patronato) | Patronato is a Spanish term that refers to a system of patronage or protection. It is often used to describe the relationship between a patron and a client, in which the patron provides financial or other support to the client in exchange for loyalty and service. In English, it can be translated as "patronage" or "protection". |
-| 11 | [Roccuzzo](http://twitter.com/search?q=Roccuzzo) | N/A |
-| 12 | [Lucila](http://twitter.com/search?q=Lucila) | Lucila is a Spanish female name derived from the Latin name Lucius, which means “light”. In English, Lucila can be translated to mean “bringer of light”. |
-| 13 | [Congreso](http://twitter.com/search?q=Congreso) | Congreso is the Spanish word for Congress. It is used to refer to a legislative body, such as the United States Congress or the Mexican Congress. In English, it is used to refer to any type of legislative assembly or gathering. |
-| 14 | [#CorteDeLuz](http://twitter.com/search?q=%23CorteDeLuz) | N/A |
-| 15 | [#AperturaSesiones2023](http://twitter.com/search?q=%23AperturaSesiones2023) | N/A |
-| 16 | [Iglesias](http://twitter.com/search?q=Iglesias) | N/A |
-| 17 | [Figal](http://twitter.com/search?q=Figal) | N/A |
-| 18 | [MATTHEW](http://twitter.com/search?q=MATTHEW) | N/A |
-| 19 | [twenty one pilots](http://twitter.com/search?q=twenty+one+pilots) | N/A |
-| 20 | [Narcos](http://twitter.com/search?q=Narcos) | N/A |
-| 21 | [Duncan](http://twitter.com/search?q=Duncan) | N/A |
-| 22 | [Newells](http://twitter.com/search?q=Newells) | N/A |
-| 23 | [ROMINA AL 9009](http://twitter.com/search?q=ROMINA+AL+9009) | N/A |
-| 24 | [De Paul](http://twitter.com/search?q=De+Paul) | N/A |
-| 25 | [Central](http://twitter.com/search?q=Central) | N/A |
-| 26 | [BOCA CAMPEÓN](http://twitter.com/search?q=BOCA+CAMPE%c3%93N) | N/A |
-| 27 | [Asamblea Legislativa](http://twitter.com/search?q=Asamblea+Legislativa) | N/A |
-| 28 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |
-| 29 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 30 | [Gabigol](http://twitter.com/search?q=Gabigol) | Gabigol is a nickname given to Brazilian footballer Gabriel Barbosa, who currently plays for Flamengo. The nickname is a combination of his first name, Gabriel, and the Portuguese word for goal, gol. In English, the nickname translates to "Gabriel Goal". |
-| 31 | [Santiago del Estero](http://twitter.com/search?q=Santiago+del+Estero) | N/A |
-| 32 | [FFAA](http://twitter.com/search?q=FFAA) | N/A |
-| 33 | [muchas gracias valen](http://twitter.com/search?q=muchas+gracias+valen) | N/A |
-| 34 | [KEITA](http://twitter.com/search?q=KEITA) | N/A |
-| 35 | [all of the girls](http://twitter.com/search?q=all+of+the+girls) | N/A |
-| 36 | [NACHO A LA FINAL](http://twitter.com/search?q=NACHO+A+LA+FINAL) | N/A |
-| 37 | [roncaglia](http://twitter.com/search?q=roncaglia) | N/A |
-| 38 | [Perotti](http://twitter.com/search?q=Perotti) | N/A |
-| 39 | [Los Monos](http://twitter.com/search?q=Los+Monos) | N/A |
-| 40 | [EXPLICA TU TWITTER](http://twitter.com/search?q=EXPLICA+TU+TWITTER) | N/A |
-| 41 | [Blink](http://twitter.com/search?q=Blink) | N/A |
-| 42 | [Gaibor](http://twitter.com/search?q=Gaibor) | N/A |
-| 43 | [Santa Fe](http://twitter.com/search?q=Santa+Fe) | N/A |
-| 44 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
-| 45 | [Villa](http://twitter.com/search?q=Villa) | Villa is a type of large, luxurious house or estate. It is usually located in a rural or semi-rural area and is often surrounded by gardens and grounds. The term comes from the Latin word villa, which means "country house." |
-| 46 | [estadio Monumental](http://twitter.com/search?q=estadio+Monumental) | N/A |
-| 47 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
-| 48 | [Rosarinos](http://twitter.com/search?q=Rosarinos) | N/A |
-| 49 | [Salva a Julieta](http://twitter.com/search?q=Salva+a+Julieta) | N/A |
-| 50 | [edenor](http://twitter.com/search?q=edenor) | N/A |
+| 3 | [Aníbal Fernández](http://twitter.com/search?q=An%c3%adbal+Fern%c3%a1ndez) | N/A |
+| 4 | [Narcos](http://twitter.com/search?q=Narcos) | N/A |
+| 5 | [Javkin](http://twitter.com/search?q=Javkin) | N/A |
+| 6 | [Roccuzzo](http://twitter.com/search?q=Roccuzzo) | N/A |
+| 7 | [#nadiedicenada](http://twitter.com/search?q=%23nadiedicenada) | N/A |
+| 8 | [TIFFANY](http://twitter.com/search?q=TIFFANY) | N/A |
+| 9 | [Ministro de Seguridad](http://twitter.com/search?q=Ministro+de+Seguridad) | N/A |
+| 10 | [FFAA](http://twitter.com/search?q=FFAA) | N/A |
+| 11 | [MATTHEW](http://twitter.com/search?q=MATTHEW) | N/A |
+| 12 | [Hace 20](http://twitter.com/search?q=Hace+20) | N/A |
+| 13 | [Duncan](http://twitter.com/search?q=Duncan) | N/A |
+| 14 | [Newells](http://twitter.com/search?q=Newells) | N/A |
+| 15 | [EXPLICA TU TWITTER](http://twitter.com/search?q=EXPLICA+TU+TWITTER) | N/A |
+| 16 | [#BuenJueves](http://twitter.com/search?q=%23BuenJueves) | N/A |
+| 17 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
+| 18 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 19 | [Los Monos](http://twitter.com/search?q=Los+Monos) | N/A |
+| 20 | [Perotti](http://twitter.com/search?q=Perotti) | N/A |
+| 21 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 22 | [Rosarinos](http://twitter.com/search?q=Rosarinos) | N/A |
+| 23 | [#ALaBarbarossa](http://twitter.com/search?q=%23ALaBarbarossa) | N/A |
+| 24 | [#LanataSinFiltro](http://twitter.com/search?q=%23LanataSinFiltro) | N/A |
+| 25 | [Fuerzas Armadas](http://twitter.com/search?q=Fuerzas+Armadas) | N/A |
+| 26 | [Pablo Escobar](http://twitter.com/search?q=Pablo+Escobar) | N/A |
+| 27 | [Reino Unido](http://twitter.com/search?q=Reino+Unido) | N/A |
+| 28 | [Curazao](http://twitter.com/search?q=Curazao) | Curazao is an island in the Caribbean Sea, located off the coast of Venezuela. It is a constituent country of the Kingdom of the Netherlands. The name Curazao is derived from the Portuguese word for "heart," and it is often referred to as "the heart of the Caribbean." In English, it means "heart of the Caribbean." |
+| 29 | [Gobierno Nacional](http://twitter.com/search?q=Gobierno+Nacional) | N/A |
+| 30 | [Fabra](http://twitter.com/search?q=Fabra) | N/A |
+| 31 | [Mafia](http://twitter.com/search?q=Mafia) | N/A |
+| 32 | [Chernobyl](http://twitter.com/search?q=Chernobyl) | N/A |
+| 33 | [Madre de Ciudades](http://twitter.com/search?q=Madre+de+Ciudades) | N/A |
+| 34 | [all of the girls](http://twitter.com/search?q=all+of+the+girls) | N/A |
+| 35 | [Petro](http://twitter.com/search?q=Petro) | N/A |
+| 36 | [Georgina](http://twitter.com/search?q=Georgina) | Georgina is a female given name of Greek origin, derived from the Greek name Γεωργινα (Geōrgina), which is a feminine form of the name George. It means "farmer" or "earth worker". |
+| 37 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
+| 38 | [#Vendimia2023](http://twitter.com/search?q=%23Vendimia2023) | N/A |
+| 39 | [#SiempreCAMPEONES](http://twitter.com/search?q=%23SiempreCAMPEONES) | N/A |
 
 
 

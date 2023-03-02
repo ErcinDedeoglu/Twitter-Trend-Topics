@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sacramento
 
-📆 Last Updated: `2023-03-02 15:17:05 UTC`
+📆 Last Updated: `2023-03-02 16:17:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#BoycottHersheys](http://twitter.com/search?q=%23BoycottHersheys) | N/A |
-| 2 | [Bertuzzi](http://twitter.com/search?q=Bertuzzi) | N/A |
-| 3 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 4 | [#ReadAcrossAmericaDay](http://twitter.com/search?q=%23ReadAcrossAmericaDay) | N/A |
-| 5 | [#WorldBookDay](http://twitter.com/search?q=%23WorldBookDay) | N/A |
-| 6 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 7 | [Texas Independence Day](http://twitter.com/search?q=Texas+Independence+Day) | N/A |
-| 8 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
-| 9 | [Dr. Seuss](http://twitter.com/search?q=Dr.+Seuss) | N/A |
-| 10 | [mnet](http://twitter.com/search?q=mnet) | N/A |
-| 11 | [Don Sweeney](http://twitter.com/search?q=Don+Sweeney) | N/A |
-| 12 | [DK Summit](http://twitter.com/search?q=DK+Summit) | N/A |
-| 13 | [Waluigi Stadium](http://twitter.com/search?q=Waluigi+Stadium) | N/A |
-| 14 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
-| 15 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
-| 16 | [KEITA](http://twitter.com/search?q=KEITA) | N/A |
-| 17 | [DS Mario Circuit](http://twitter.com/search?q=DS+Mario+Circuit) | N/A |
-| 18 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
-| 19 | [Chaka](http://twitter.com/search?q=Chaka) | N/A |
-| 20 | [Juror](http://twitter.com/search?q=Juror) | N/A |
-| 21 | [yujin](http://twitter.com/search?q=yujin) | N/A |
-| 22 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 23 | [Judge Newman](http://twitter.com/search?q=Judge+Newman) | N/A |
-| 24 | [seok matthew](http://twitter.com/search?q=seok+matthew) | N/A |
-| 25 | [Daily Quordle 402](http://twitter.com/search?q=Daily+Quordle+402) | N/A |
-| 26 | [jiho](http://twitter.com/search?q=jiho) | N/A |
-| 27 | [Bryansk](http://twitter.com/search?q=Bryansk) | N/A |
-| 28 | [Michael Darby](http://twitter.com/search?q=Michael+Darby) | N/A |
-| 29 | [Tucson](http://twitter.com/search?q=Tucson) | N/A |
-| 30 | [Thirsty Thursday](http://twitter.com/search?q=Thirsty+Thursday) | N/A |
-| 31 | [Foligno](http://twitter.com/search?q=Foligno) | N/A |
-| 32 | [$TSLA](http://twitter.com/search?q=%24TSLA) | $TSLA is the stock symbol for Tesla, Inc., an American electric vehicle and clean energy company. It is traded on the Nasdaq stock exchange. |
-| 33 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
-| 34 | [takuto](http://twitter.com/search?q=takuto) | N/A |
-| 35 | [Karen Carpenter](http://twitter.com/search?q=Karen+Carpenter) | N/A |
-| 36 | [Republic of Texas](http://twitter.com/search?q=Republic+of+Texas) | N/A |
-| 37 | [Ni Hao](http://twitter.com/search?q=Ni+Hao) | N/A |
-| 38 | [Jim Griffin](http://twitter.com/search?q=Jim+Griffin) | N/A |
-| 39 | [Wo Long](http://twitter.com/search?q=Wo+Long) | N/A |
-| 40 | [Doechii](http://twitter.com/search?q=Doechii) | N/A |
-| 41 | [Christopher Reeves](http://twitter.com/search?q=Christopher+Reeves) | N/A |
-| 42 | [Krejci](http://twitter.com/search?q=Krejci) | N/A |
-| 43 | [Dratini](http://twitter.com/search?q=Dratini) | N/A |
-| 44 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
-| 45 | [Yzerman](http://twitter.com/search?q=Yzerman) | N/A |
-| 46 | [AURORA](http://twitter.com/search?q=AURORA) | N/A |
-| 47 | [Trapinch](http://twitter.com/search?q=Trapinch) | N/A |
-| 48 | [JCOLE](http://twitter.com/search?q=JCOLE) | N/A |
+| 1 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
+| 2 | [Hershey](http://twitter.com/search?q=Hershey) | N/A |
+| 3 | [#ReadAcrossAmericaDay](http://twitter.com/search?q=%23ReadAcrossAmericaDay) | N/A |
+| 4 | [Don Sweeney](http://twitter.com/search?q=Don+Sweeney) | N/A |
+| 5 | [Bertuzzi](http://twitter.com/search?q=Bertuzzi) | N/A |
+| 6 | [#WorldBookDay](http://twitter.com/search?q=%23WorldBookDay) | N/A |
+| 7 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 8 | [TIFFANY](http://twitter.com/search?q=TIFFANY) | N/A |
+| 9 | [Texas Independence Day](http://twitter.com/search?q=Texas+Independence+Day) | N/A |
+| 10 | [Dr. Seuss](http://twitter.com/search?q=Dr.+Seuss) | N/A |
+| 11 | [Jim Griffin](http://twitter.com/search?q=Jim+Griffin) | N/A |
+| 12 | [Pasta](http://twitter.com/search?q=Pasta) | N/A |
+| 13 | [David Pastrnak](http://twitter.com/search?q=David+Pastrnak) | N/A |
+| 14 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
+| 15 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 16 | [Chaka](http://twitter.com/search?q=Chaka) | N/A |
+| 17 | [#GoWokeGoBroke](http://twitter.com/search?q=%23GoWokeGoBroke) | N/A |
+| 18 | [DK Summit](http://twitter.com/search?q=DK+Summit) | N/A |
+| 19 | [Waluigi Stadium](http://twitter.com/search?q=Waluigi+Stadium) | N/A |
+| 20 | [LTIR](http://twitter.com/search?q=LTIR) | N/A |
+| 21 | [Tucson](http://twitter.com/search?q=Tucson) | N/A |
+| 22 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
+| 23 | [DS Mario Circuit](http://twitter.com/search?q=DS+Mario+Circuit) | N/A |
+| 24 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 25 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
+| 26 | [happy friday eve](http://twitter.com/search?q=happy+friday+eve) | N/A |
+| 27 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
+| 28 | [Dior](http://twitter.com/search?q=Dior) | Dior is a French luxury fashion house founded in 1946 by Christian Dior. The name Dior is derived from the founder's surname and is an abbreviation of his full name, Christian Dior. In English, it means "of or relating to Christian Dior". |
+| 29 | [Michael Darby](http://twitter.com/search?q=Michael+Darby) | N/A |
+| 30 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
+| 31 | [Taylor Hall](http://twitter.com/search?q=Taylor+Hall) | N/A |
+| 32 | [Claxton](http://twitter.com/search?q=Claxton) | Claxton is a surname of English origin. It is derived from the Old English words 'claec' meaning clay and 'tun' meaning settlement or farm. The name was originally given to someone who lived near a clay settlement or farm. |
+| 33 | [Judge Newman](http://twitter.com/search?q=Judge+Newman) | N/A |
+| 34 | [Juror](http://twitter.com/search?q=Juror) | N/A |
+| 35 | [Riverside Park](http://twitter.com/search?q=Riverside+Park) | N/A |
+| 36 | [Bergeron](http://twitter.com/search?q=Bergeron) | N/A |
+| 37 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 38 | [yujin](http://twitter.com/search?q=yujin) | N/A |
+| 39 | [Bryansk](http://twitter.com/search?q=Bryansk) | N/A |
+| 40 | [Congratulations Jimin](http://twitter.com/search?q=Congratulations+Jimin) | "Congratulations Jimin" is a phrase used to express congratulations or best wishes to someone named Jimin. It is typically used in situations such as when someone has achieved a goal, received an award, or accomplished something noteworthy. |
+| 41 | [Dratini](http://twitter.com/search?q=Dratini) | N/A |
+| 42 | [Yzerman](http://twitter.com/search?q=Yzerman) | N/A |
+| 43 | [Krejci](http://twitter.com/search?q=Krejci) | N/A |
+| 44 | [Thirsty Thursday](http://twitter.com/search?q=Thirsty+Thursday) | N/A |
+| 45 | [The Bruins](http://twitter.com/search?q=The+Bruins) | N/A |
+| 46 | [Double Dash](http://twitter.com/search?q=Double+Dash) | N/A |
+| 47 | [SEOK MATTHEW](http://twitter.com/search?q=SEOK+MATTHEW) | N/A |
+| 48 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
 
 
 
