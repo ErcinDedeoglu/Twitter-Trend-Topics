@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Seville
 
-📆 Last Updated: `2023-03-02 01:45:26 UTC`
+📆 Last Updated: `2023-03-02 02:43:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 2 | [Abde](http://twitter.com/search?q=Abde) | Abde is a name of Arabic origin that means "servant of God". |
-| 3 | [#Escandalo8](http://twitter.com/search?q=%23Escandalo8) | N/A |
-| 4 | [#Solos1M](http://twitter.com/search?q=%23Solos1M) | N/A |
-| 5 | [#elconquis7ETB](http://twitter.com/search?q=%23elconquis7ETB) | N/A |
-| 6 | [Alexandra Jiménez](http://twitter.com/search?q=Alexandra+Jim%c3%a9nez) | N/A |
-| 7 | [Osasuna](http://twitter.com/search?q=Osasuna) | Osasuna is a Spanish football club based in Pamplona, Navarre. The name Osasuna means "health" or "vigor" in the Basque language. |
-| 8 | [Ferrovial](http://twitter.com/search?q=Ferrovial) | N/A |
-| 9 | [#DiasDeTele](http://twitter.com/search?q=%23DiasDeTele) | N/A |
-| 10 | [San Mamés](http://twitter.com/search?q=San+Mam%c3%a9s) | San Mamés is the name of a football stadium in Bilbao, Spain. It is the home stadium of Athletic Bilbao, a Spanish football club. The name San Mamés comes from a local saint, Saint Mammes of Caesarea, who was martyred in the 3rd century AD. In English, San Mamés translates to "Saint Mammes". |
-| 11 | [Inés](http://twitter.com/search?q=In%c3%a9s) | N/A |
-| 12 | [#BoséPastorEH](http://twitter.com/search?q=%23Bos%c3%a9PastorEH) | N/A |
-| 13 | [Miguel Bosé](http://twitter.com/search?q=Miguel+Bos%c3%a9) | N/A |
-| 14 | [Vesga](http://twitter.com/search?q=Vesga) | N/A |
-| 15 | [El ÚNICO](http://twitter.com/search?q=El+%c3%9aNICO) | N/A |
-| 16 | [De Marcos](http://twitter.com/search?q=De+Marcos) | N/A |
-| 17 | [tina](http://twitter.com/search?q=tina) | N/A |
-| 18 | [El Sadar](http://twitter.com/search?q=El+Sadar) | N/A |
-| 19 | [Eugenio](http://twitter.com/search?q=Eugenio) | N/A |
-| 20 | [Holanda](http://twitter.com/search?q=Holanda) | N/A |
-| 21 | [Zarraga](http://twitter.com/search?q=Zarraga) | N/A |
-| 22 | [Vivian](http://twitter.com/search?q=Vivian) | N/A |
-| 23 | [Ainara](http://twitter.com/search?q=Ainara) | N/A |
-| 24 | [FA Cup](http://twitter.com/search?q=FA+Cup) | The FA Cup is an annual knockout football competition in England. It is the oldest football competition in the world and is run by The Football Association (FA). The FA Cup is open to any club in the top four tiers of English football, from the Premier League down to the semi-professional leagues. The tournament culminates with a final at Wembley Stadium, usually held in May. |
-| 25 | [Audiencia Nacional](http://twitter.com/search?q=Audiencia+Nacional) | N/A |
-| 26 | [Sancet](http://twitter.com/search?q=Sancet) | Sancet is a Spanish word meaning "sanctuary". It is used to refer to a place of refuge or safety. |
-| 27 | [Miren](http://twitter.com/search?q=Miren) | N/A |
-| 28 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 29 | [Berenguer](http://twitter.com/search?q=Berenguer) | N/A |
-| 30 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 31 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 32 | [Venus](http://twitter.com/search?q=Venus) | N/A |
-| 33 | [Serbia](http://twitter.com/search?q=Serbia) | N/A |
-| 34 | [KARL](http://twitter.com/search?q=KARL) | N/A |
-| 35 | [PP de Canarias](http://twitter.com/search?q=PP+de+Canarias) | N/A |
-| 36 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
-| 37 | [Grogu](http://twitter.com/search?q=Grogu) | N/A |
-| 38 | [Ibex](http://twitter.com/search?q=Ibex) | N/A |
-| 39 | [Henry](http://twitter.com/search?q=Henry) | N/A |
-| 40 | [#pze23](http://twitter.com/search?q=%23pze23) | N/A |
-| 41 | [#CopaDelRey](http://twitter.com/search?q=%23CopaDelRey) | #CopaDelRey is the Spanish Cup, an annual football tournament in Spain. In English, it translates to "King's Cup". |
-| 42 | [#3cualidades1defecto](http://twitter.com/search?q=%233cualidades1defecto) | N/A |
-| 43 | [#toasteed](http://twitter.com/search?q=%23toasteed) | N/A |
-| 44 | [#LaNoche24h](http://twitter.com/search?q=%23LaNoche24h) | N/A |
-| 45 | [#Showriano](http://twitter.com/search?q=%23Showriano) | N/A |
-| 46 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 47 | [#ScreamVI](http://twitter.com/search?q=%23ScreamVI) | #ScreamVI is a hashtag used to promote the sixth installment of the horror movie franchise, Scream. It is used to generate interest and excitement for the upcoming movie. In English, it stands for "Scream 6". |
-| 48 | [#LaCopaMola](http://twitter.com/search?q=%23LaCopaMola) | N/A |
-| 49 | [#YalıÇapkını](http://twitter.com/search?q=%23Yal%c4%b1%c3%87apk%c4%b1n%c4%b1) | Yalıçapkını is a Turkish phrase that literally translates to "house-boat captain". It is used to refer to someone who is a leader or a person in charge. |
+| 1 | [Ferrovial](http://twitter.com/search?q=Ferrovial) | N/A |
+| 2 | [Tito Berni](http://twitter.com/search?q=Tito+Berni) | N/A |
+| 3 | [#Solos1M](http://twitter.com/search?q=%23Solos1M) | N/A |
+| 4 | [PSOE](http://twitter.com/search?q=PSOE) | N/A |
+| 5 | [Países Bajos](http://twitter.com/search?q=Pa%c3%adses+Bajos) | N/A |
+| 6 | [Abde](http://twitter.com/search?q=Abde) | Abde is a name of Arabic origin that means "servant of God". |
+| 7 | [Holanda](http://twitter.com/search?q=Holanda) | N/A |
+| 8 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 9 | [#OsasunaAthletic](http://twitter.com/search?q=%23OsasunaAthletic) | N/A |
+| 10 | [Andalucía](http://twitter.com/search?q=Andaluc%c3%ada) | N/A |
+| 11 | [#Escandalo8](http://twitter.com/search?q=%23Escandalo8) | N/A |
+| 12 | [#TamagotchiCarrefour](http://twitter.com/search?q=%23TamagotchiCarrefour) | N/A |
+| 13 | [Mediador](http://twitter.com/search?q=Mediador) | N/A |
+| 14 | [Patxi](http://twitter.com/search?q=Patxi) | N/A |
+| 15 | [Alexandra Jiménez](http://twitter.com/search?q=Alexandra+Jim%c3%a9nez) | N/A |
+| 16 | [Pelayo Novo](http://twitter.com/search?q=Pelayo+Novo) | N/A |
+| 17 | [San Mamés](http://twitter.com/search?q=San+Mam%c3%a9s) | San Mamés is the name of a football stadium in Bilbao, Spain. It is the home stadium of Athletic Bilbao, a Spanish football club. The name San Mamés comes from a local saint, Saint Mammes of Caesarea, who was martyred in the 3rd century AD. In English, San Mamés translates to "Saint Mammes". |
+| 18 | [tina](http://twitter.com/search?q=tina) | N/A |
+| 19 | [Youth League](http://twitter.com/search?q=Youth+League) | N/A |
+| 20 | [Vesga](http://twitter.com/search?q=Vesga) | N/A |
+| 21 | [PutiSOE](http://twitter.com/search?q=PutiSOE) | N/A |
+| 22 | [El Sadar](http://twitter.com/search?q=El+Sadar) | N/A |
+| 23 | [Campanilla](http://twitter.com/search?q=Campanilla) | N/A |
+| 24 | [Autoevaluación HONESTA](http://twitter.com/search?q=Autoevaluaci%c3%b3n+HONESTA) | N/A |
+| 25 | [Inés](http://twitter.com/search?q=In%c3%a9s) | N/A |
+| 26 | [Iribar](http://twitter.com/search?q=Iribar) | N/A |
+| 27 | [De Marcos](http://twitter.com/search?q=De+Marcos) | N/A |
+| 28 | [Peter Pan](http://twitter.com/search?q=Peter+Pan) | N/A |
+| 29 | [Alvise](http://twitter.com/search?q=Alvise) | N/A |
+| 30 | [Dani García](http://twitter.com/search?q=Dani+Garc%c3%ada) | N/A |
+| 31 | [Del Pino](http://twitter.com/search?q=Del+Pino) | N/A |
+| 32 | [Grogu](http://twitter.com/search?q=Grogu) | N/A |
+| 33 | [PP de Canarias](http://twitter.com/search?q=PP+de+Canarias) | N/A |
+| 34 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
+| 35 | [Kitchen](http://twitter.com/search?q=Kitchen) | N/A |
+| 36 | [Zoro](http://twitter.com/search?q=Zoro) | N/A |
+| 37 | [Pachi](http://twitter.com/search?q=Pachi) | N/A |
+| 38 | [Iker Bravo](http://twitter.com/search?q=Iker+Bravo) | N/A |
+| 39 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
+| 40 | [Inmoral](http://twitter.com/search?q=Inmoral) | N/A |
+| 41 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
+| 42 | [Rajoy](http://twitter.com/search?q=Rajoy) | N/A |
+| 43 | [Zarraga](http://twitter.com/search?q=Zarraga) | N/A |
+| 44 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 45 | [Eugenio](http://twitter.com/search?q=Eugenio) | N/A |
+| 46 | [Berenguer](http://twitter.com/search?q=Berenguer) | N/A |
+| 47 | [Venus y Júpiter](http://twitter.com/search?q=Venus+y+J%c3%bapiter) | N/A |
+| 48 | [Ibex](http://twitter.com/search?q=Ibex) | N/A |
+| 49 | [Ramsés](http://twitter.com/search?q=Rams%c3%a9s) | N/A |
+| 50 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rotterdam
 
-📆 Last Updated: `2023-03-02 01:45:24 UTC`
+📆 Last Updated: `2023-03-02 02:43:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,12 +29,12 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 12 | [Drommel](http://twitter.com/search?q=Drommel) | N/A |
 | 13 | [DigiD](http://twitter.com/search?q=DigiD) | N/A |
 | 14 | [Wichian](http://twitter.com/search?q=Wichian) | N/A |
-| 15 | [Idrissi](http://twitter.com/search?q=Idrissi) | N/A |
+| 15 | [idrissi](http://twitter.com/search?q=idrissi) | N/A |
 | 16 | [Loes](http://twitter.com/search?q=Loes) | N/A |
 | 17 | [Red Ongehoord Nederland](http://twitter.com/search?q=Red+Ongehoord+Nederland) | N/A |
 | 18 | [Stop NPO-censuur](http://twitter.com/search?q=Stop+NPO-censuur) | N/A |
-| 19 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 20 | [Wout Weghorst](http://twitter.com/search?q=Wout+Weghorst) | Wout Weghorst is a Dutch professional footballer who plays as a striker for German club VfL Wolfsburg. The name Wout Weghorst translates to "strong will" in English. |
+| 19 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
+| 20 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
 | 21 | [Chinees](http://twitter.com/search?q=Chinees) | N/A |
 | 22 | [Kasanwirjo](http://twitter.com/search?q=Kasanwirjo) | N/A |
 | 23 | [De FBI](http://twitter.com/search?q=De+FBI) | N/A |
@@ -54,12 +54,12 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 37 | [Stemchecker](http://twitter.com/search?q=Stemchecker) | N/A |
 | 38 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
 | 39 | [George Ezra](http://twitter.com/search?q=George+Ezra) | N/A |
-| 40 | [Van Boekel](http://twitter.com/search?q=Van+Boekel) | N/A |
+| 40 | [van boekel](http://twitter.com/search?q=van+boekel) | N/A |
 | 41 | [Mia Nicolai](http://twitter.com/search?q=Mia+Nicolai) | N/A |
 | 42 | [Raymond](http://twitter.com/search?q=Raymond) | N/A |
-| 43 | [OVV-rapport](http://twitter.com/search?q=OVV-rapport) | N/A |
-| 44 | [Benitez](http://twitter.com/search?q=Benitez) | N/A |
-| 45 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 43 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 44 | [OVV-rapport](http://twitter.com/search?q=OVV-rapport) | N/A |
+| 45 | [Benitez](http://twitter.com/search?q=Benitez) | N/A |
 | 46 | [Lubach](http://twitter.com/search?q=Lubach) | N/A |
 | 47 | [Patricia](http://twitter.com/search?q=Patricia) | N/A |
 | 48 | [Duncan](http://twitter.com/search?q=Duncan) | N/A |

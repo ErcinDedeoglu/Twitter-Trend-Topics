@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Turin
 
-📆 Last Updated: `2023-03-02 01:45:24 UTC`
+📆 Last Updated: `2023-03-02 02:43:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#chilhavisto](http://twitter.com/search?q=%23chilhavisto) | #Chilhavisto is a Spanish hashtag that translates to "Have you seen it?" It is used to ask if someone has seen something, such as a movie, TV show, or video. |
-| 2 | [#MareFuori3](http://twitter.com/search?q=%23MareFuori3) | N/A |
-| 3 | [#BohemianRhapsody](http://twitter.com/search?q=%23BohemianRhapsody) | N/A |
+| 1 | [#MareFuori3](http://twitter.com/search?q=%23MareFuori3) | N/A |
+| 2 | [#chilhavisto](http://twitter.com/search?q=%23chilhavisto) | #Chilhavisto is a Spanish hashtag that translates to "Have you seen it?" It is used to ask if someone has seen something, such as a movie, TV show, or video. |
+| 3 | [#oriele](http://twitter.com/search?q=%23oriele) | N/A |
 | 4 | [Martina](http://twitter.com/search?q=Martina) | Martina is a female given name of Latin origin, derived from the name Martinus, which means "of Mars". It is a popular name in many countries, including Italy, Spain, Germany, Austria, and the Czech Republic. In English-speaking countries, it is often used as a short form of the longer name Martina. |
-| 5 | [#oriele](http://twitter.com/search?q=%23oriele) | N/A |
-| 6 | [#1Marzo](http://twitter.com/search?q=%231Marzo) | N/A |
+| 5 | [#1Marzo](http://twitter.com/search?q=%231Marzo) | N/A |
+| 6 | [#BohemianRhapsody](http://twitter.com/search?q=%23BohemianRhapsody) | N/A |
 | 7 | [Grecia](http://twitter.com/search?q=Grecia) | N/A |
-| 8 | [Assago](http://twitter.com/search?q=Assago) | N/A |
+| 8 | [Viola](http://twitter.com/search?q=Viola) | N/A |
 | 9 | [Crotone](http://twitter.com/search?q=Crotone) | N/A |
-| 10 | [Viola](http://twitter.com/search?q=Viola) | N/A |
-| 11 | [Carmine](http://twitter.com/search?q=Carmine) | N/A |
-| 12 | [Guardia Costiera](http://twitter.com/search?q=Guardia+Costiera) | N/A |
-| 13 | [Speranza](http://twitter.com/search?q=Speranza) | N/A |
-| 14 | [Serra](http://twitter.com/search?q=Serra) | N/A |
-| 15 | [Fontana](http://twitter.com/search?q=Fontana) | N/A |
+| 10 | [Assago](http://twitter.com/search?q=Assago) | N/A |
+| 11 | [Guardia Costiera](http://twitter.com/search?q=Guardia+Costiera) | N/A |
+| 12 | [Serra](http://twitter.com/search?q=Serra) | N/A |
+| 13 | [Fontana](http://twitter.com/search?q=Fontana) | N/A |
+| 14 | [Speranza](http://twitter.com/search?q=Speranza) | N/A |
+| 15 | [Carmine](http://twitter.com/search?q=Carmine) | N/A |
 | 16 | [Schlein](http://twitter.com/search?q=Schlein) | N/A |
 | 17 | [Frontex](http://twitter.com/search?q=Frontex) | N/A |
-| 18 | [Paola](http://twitter.com/search?q=Paola) | Paola is a female given name of Italian origin. It is derived from the Latin name Paulus, which means "small" or "humble". In English, Paola can be translated to mean "humble one". |
-| 19 | [Freddie](http://twitter.com/search?q=Freddie) | N/A |
-| 20 | [Gaetano](http://twitter.com/search?q=Gaetano) | N/A |
-| 21 | [Futura](http://twitter.com/search?q=Futura) | N/A |
-| 22 | [Salvini](http://twitter.com/search?q=Salvini) | N/A |
-| 23 | [Venere](http://twitter.com/search?q=Venere) | N/A |
-| 24 | [Rozzano](http://twitter.com/search?q=Rozzano) | N/A |
-| 25 | [buongiorno eric](http://twitter.com/search?q=buongiorno+eric) | N/A |
-| 26 | [Sala](http://twitter.com/search?q=Sala) | N/A |
-| 27 | [Gianluca](http://twitter.com/search?q=Gianluca) | N/A |
-| 28 | [La Maura](http://twitter.com/search?q=La+Maura) | N/A |
-| 29 | [TELL US ABOUT YOURSELF](http://twitter.com/search?q=TELL+US+ABOUT+YOURSELF) | N/A |
-| 30 | [Baudelaire](http://twitter.com/search?q=Baudelaire) | N/A |
-| 31 | [Arcilesbica](http://twitter.com/search?q=Arcilesbica) | N/A |
-| 32 | [Domenico Cuomo](http://twitter.com/search?q=Domenico+Cuomo) | N/A |
-| 33 | [Queen](http://twitter.com/search?q=Queen) | N/A |
-| 34 | [Cardio](http://twitter.com/search?q=Cardio) | N/A |
-| 35 | [Serena de Ferrari](http://twitter.com/search?q=Serena+de+Ferrari) | N/A |
-| 36 | [Micol](http://twitter.com/search?q=Micol) | Micol is a female given name of Italian origin. It is derived from the Hebrew name Michal, which means "who is like God?". |
-| 37 | [margherita cassano](http://twitter.com/search?q=margherita+cassano) | N/A |
-| 38 | [Mancini](http://twitter.com/search?q=Mancini) | Mancini is an Italian surname derived from the Latin name "Mantius". It is a common surname in Italy and other parts of Europe. In English, it means "son of Mantius". |
-| 39 | [Marteena](http://twitter.com/search?q=Marteena) | N/A |
-| 40 | [DROP AN EMOJI](http://twitter.com/search?q=DROP+AN+EMOJI) | N/A |
-| 41 | [Liliana](http://twitter.com/search?q=Liliana) | N/A |
-| 42 | [I'LL SEND YOU THE QUESTIONS](http://twitter.com/search?q=I%27LL+SEND+YOU+THE+QUESTIONS) | N/A |
-| 43 | [Davide](http://twitter.com/search?q=Davide) | N/A |
-| 44 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
-| 45 | [Tavassi](http://twitter.com/search?q=Tavassi) | N/A |
-| 46 | [il 1](http://twitter.com/search?q=il+1) | N/A |
-| 47 | [Madame Bovary](http://twitter.com/search?q=Madame+Bovary) | N/A |
-| 48 | [Toscani](http://twitter.com/search?q=Toscani) | N/A |
-| 49 | [Ed Sheeran](http://twitter.com/search?q=Ed+Sheeran) | N/A |
-| 50 | [Brusaferro](http://twitter.com/search?q=Brusaferro) | N/A |
+| 18 | [Salvini](http://twitter.com/search?q=Salvini) | N/A |
+| 19 | [Venere](http://twitter.com/search?q=Venere) | N/A |
+| 20 | [Rozzano](http://twitter.com/search?q=Rozzano) | N/A |
+| 21 | [buongiorno eric](http://twitter.com/search?q=buongiorno+eric) | N/A |
+| 22 | [Sala](http://twitter.com/search?q=Sala) | N/A |
+| 23 | [Gianluca](http://twitter.com/search?q=Gianluca) | N/A |
+| 24 | [La Maura](http://twitter.com/search?q=La+Maura) | N/A |
+| 25 | [TELL US ABOUT YOURSELF](http://twitter.com/search?q=TELL+US+ABOUT+YOURSELF) | N/A |
+| 26 | [Baudelaire](http://twitter.com/search?q=Baudelaire) | N/A |
+| 27 | [Domenico Cuomo](http://twitter.com/search?q=Domenico+Cuomo) | N/A |
+| 28 | [Arcilesbica](http://twitter.com/search?q=Arcilesbica) | N/A |
+| 29 | [Cardio](http://twitter.com/search?q=Cardio) | N/A |
+| 30 | [Micol](http://twitter.com/search?q=Micol) | Micol is a female given name of Italian origin. It is derived from the Hebrew name Michal, which means "who is like God?". |
+| 31 | [margherita cassano](http://twitter.com/search?q=margherita+cassano) | N/A |
+| 32 | [Mancini](http://twitter.com/search?q=Mancini) | Mancini is an Italian surname derived from the Latin name "Mantius". It is a common surname in Italy and other parts of Europe. In English, it means "son of Mantius". |
+| 33 | [Marteena](http://twitter.com/search?q=Marteena) | N/A |
+| 34 | [DROP AN EMOJI](http://twitter.com/search?q=DROP+AN+EMOJI) | N/A |
+| 35 | [Liliana](http://twitter.com/search?q=Liliana) | N/A |
+| 36 | [I'LL SEND YOU THE QUESTIONS](http://twitter.com/search?q=I%27LL+SEND+YOU+THE+QUESTIONS) | N/A |
+| 37 | [Davide](http://twitter.com/search?q=Davide) | N/A |
+| 38 | [Tavassi](http://twitter.com/search?q=Tavassi) | N/A |
+| 39 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
+| 40 | [il 1](http://twitter.com/search?q=il+1) | N/A |
+| 41 | [Madame Bovary](http://twitter.com/search?q=Madame+Bovary) | N/A |
+| 42 | [Toscani](http://twitter.com/search?q=Toscani) | N/A |
+| 43 | [Ed Sheeran](http://twitter.com/search?q=Ed+Sheeran) | N/A |
+| 44 | [Brusaferro](http://twitter.com/search?q=Brusaferro) | N/A |
+| 45 | [Seba](http://twitter.com/search?q=Seba) | N/A |
+| 46 | [Futura](http://twitter.com/search?q=Futura) | N/A |
+| 47 | [Turchia](http://twitter.com/search?q=Turchia) | N/A |
+| 48 | [Feltri](http://twitter.com/search?q=Feltri) | N/A |
+| 49 | [Donnamaria](http://twitter.com/search?q=Donnamaria) | N/A |
+| 50 | [Bebè](http://twitter.com/search?q=Beb%c3%a8) | N/A |
 
 
 

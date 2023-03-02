@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lahore
 
-📆 Last Updated: `2023-03-02 01:45:42 UTC`
+📆 Last Updated: `2023-03-02 02:43:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 3 | [#خان_بمقابلہ_کرپٹ_نظام](http://twitter.com/search?q=%23%d8%ae%d8%a7%d9%86_%d8%a8%d9%85%d9%82%d8%a7%d8%a8%d9%84%db%81_%da%a9%d8%b1%d9%be%d9%b9_%d9%86%d8%b8%d8%a7%d9%85) | N/A |
 | 4 | [#روئیں_چیخیں_پیٹیں](http://twitter.com/search?q=%23%d8%b1%d9%88%d8%a6%db%8c%da%ba_%da%86%db%8c%d8%ae%db%8c%da%ba_%d9%be%db%8c%d9%b9%db%8c%da%ba) | N/A |
 | 5 | [#SupremeCourt](http://twitter.com/search?q=%23SupremeCourt) | N/A |
-| 6 | [Haseebullah](http://twitter.com/search?q=Haseebullah) | N/A |
-| 7 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 6 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 7 | [Haseebullah](http://twitter.com/search?q=Haseebullah) | N/A |
 | 8 | [From 2-3 to 197-5](http://twitter.com/search?q=From+2-3+to+197-5) | N/A |
-| 9 | [Punjab](http://twitter.com/search?q=Punjab) | N/A |
-| 10 | [Lala](http://twitter.com/search?q=Lala) | N/A |
-| 11 | [Fixer](http://twitter.com/search?q=Fixer) | N/A |
-| 12 | [british council](http://twitter.com/search?q=british+council) | N/A |
-| 13 | [Zalmi](http://twitter.com/search?q=Zalmi) | N/A |
+| 9 | [Lala](http://twitter.com/search?q=Lala) | N/A |
+| 10 | [Punjab](http://twitter.com/search?q=Punjab) | N/A |
+| 11 | [British Council](http://twitter.com/search?q=British+Council) | N/A |
+| 12 | [Zalmi](http://twitter.com/search?q=Zalmi) | N/A |
+| 13 | [Fixer](http://twitter.com/search?q=Fixer) | N/A |
 | 14 | [transforming schools](http://twitter.com/search?q=transforming+schools) | N/A |
 | 15 | [Shoaib Malik](http://twitter.com/search?q=Shoaib+Malik) | N/A |
 | 16 | [Wahab](http://twitter.com/search?q=Wahab) | N/A |
 | 17 | [Wade](http://twitter.com/search?q=Wade) | N/A |
-| 18 | [Constitution](http://twitter.com/search?q=Constitution) | N/A |
-| 19 | [joon](http://twitter.com/search?q=joon) | Joon is a Persian word that means "soul" or "spirit". It is often used to refer to the inner essence of a person, and is sometimes used as a term of endearment. |
-| 20 | [Mujeeb](http://twitter.com/search?q=Mujeeb) | N/A |
-| 21 | [rs 5](http://twitter.com/search?q=rs+5) | N/A |
-| 22 | [bismah maroof](http://twitter.com/search?q=bismah+maroof) | N/A |
-| 23 | [qasim akram](http://twitter.com/search?q=qasim+akram) | N/A |
-| 24 | [Karachi](http://twitter.com/search?q=Karachi) | N/A |
-| 25 | [Munshi](http://twitter.com/search?q=Munshi) | N/A |
-| 26 | [Your DM](http://twitter.com/search?q=Your+DM) | N/A |
-| 27 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 28 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 29 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 30 | [Check DM](http://twitter.com/search?q=Check+DM) | N/A |
-| 31 | [HMU in DM](http://twitter.com/search?q=HMU+in+DM) | N/A |
+| 18 | [joon](http://twitter.com/search?q=joon) | Joon is a Persian word that means "soul" or "spirit". It is often used to refer to the inner essence of a person, and is sometimes used as a term of endearment. |
+| 19 | [Mujeeb](http://twitter.com/search?q=Mujeeb) | N/A |
+| 20 | [rs 5](http://twitter.com/search?q=rs+5) | N/A |
+| 21 | [bismah maroof](http://twitter.com/search?q=bismah+maroof) | N/A |
+| 22 | [Constitution](http://twitter.com/search?q=Constitution) | N/A |
+| 23 | [Karachi](http://twitter.com/search?q=Karachi) | N/A |
+| 24 | [Munshi](http://twitter.com/search?q=Munshi) | N/A |
+| 25 | [Your DM](http://twitter.com/search?q=Your+DM) | N/A |
+| 26 | [Qasim Akram](http://twitter.com/search?q=Qasim+Akram) | N/A |
+| 27 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 28 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 29 | [Salute](http://twitter.com/search?q=Salute) | N/A |
+| 30 | [HMU in DM](http://twitter.com/search?q=HMU+in+DM) | N/A |
+| 31 | [Mashallah](http://twitter.com/search?q=Mashallah) | N/A |
 | 32 | [Israeli](http://twitter.com/search?q=Israeli) | N/A |
-| 33 | [Yeahh](http://twitter.com/search?q=Yeahh) | N/A |
-| 34 | [Kindly](http://twitter.com/search?q=Kindly) | N/A |
-| 35 | [Dropped](http://twitter.com/search?q=Dropped) | N/A |
-| 36 | [Count](http://twitter.com/search?q=Count) | N/A |
-| 37 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 38 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 39 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 40 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
-| 41 | [Mashallah](http://twitter.com/search?q=Mashallah) | N/A |
-| 42 | [Earth](http://twitter.com/search?q=Earth) | N/A |
-| 43 | [Palestinian](http://twitter.com/search?q=Palestinian) | N/A |
-| 44 | [Classic](http://twitter.com/search?q=Classic) | N/A |
-| 45 | [Meri](http://twitter.com/search?q=Meri) | N/A |
-| 46 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 47 | [Inbox](http://twitter.com/search?q=Inbox) | N/A |
-| 48 | [Ayesha](http://twitter.com/search?q=Ayesha) | N/A |
-| 49 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 50 | [Oops](http://twitter.com/search?q=Oops) | N/A |
+| 33 | [Apple](http://twitter.com/search?q=Apple) | N/A |
+| 34 | [Congratulation](http://twitter.com/search?q=Congratulation) | N/A |
+| 35 | [Match](http://twitter.com/search?q=Match) | N/A |
+| 36 | [Ya Allah](http://twitter.com/search?q=Ya+Allah) | N/A |
+| 37 | [Dropped](http://twitter.com/search?q=Dropped) | N/A |
+| 38 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 39 | [Oops](http://twitter.com/search?q=Oops) | N/A |
+| 40 | [Disgusting](http://twitter.com/search?q=Disgusting) | N/A |
+| 41 | [America](http://twitter.com/search?q=America) | N/A |
+| 42 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 43 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 44 | [Google](http://twitter.com/search?q=Google) | N/A |
+| 45 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 46 | [Earth](http://twitter.com/search?q=Earth) | N/A |
+| 47 | [Palestinian](http://twitter.com/search?q=Palestinian) | N/A |
+| 48 | [Bajwa](http://twitter.com/search?q=Bajwa) | N/A |
+| 49 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 50 | [Donald](http://twitter.com/search?q=Donald) | N/A |
 
 
 

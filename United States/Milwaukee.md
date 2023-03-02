@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Milwaukee
 
-📆 Last Updated: `2023-03-02 01:45:51 UTC`
+📆 Last Updated: `2023-03-02 02:43:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,51 +17,51 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
 | 2 | [#Survivor44](http://twitter.com/search?q=%23Survivor44) | N/A |
-| 3 | [#MAFS](http://twitter.com/search?q=%23MAFS) | N/A |
-| 4 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
-| 5 | [Hobbs](http://twitter.com/search?q=Hobbs) | N/A |
-| 6 | [Big Bill](http://twitter.com/search?q=Big+Bill) | Big Bill is a slang term used to refer to someone who is very successful or influential. It can also be used to describe someone who is very wealthy or powerful. |
-| 7 | [Hextall](http://twitter.com/search?q=Hextall) | N/A |
-| 8 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
-| 9 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
-| 10 | [Granlund](http://twitter.com/search?q=Granlund) | N/A |
-| 11 | [Orange Cassidy](http://twitter.com/search?q=Orange+Cassidy) | Orange Cassidy is the stage name of American professional wrestler Jonathan Gresham. The name is a reference to the character of Orange Cassidy from the television show It's Always Sunny in Philadelphia. The phrase "Orange Cassidy" has come to mean someone who is laid back and relaxed, often in a humorous way. |
-| 12 | [Pentatonix](http://twitter.com/search?q=Pentatonix) | Pentatonix is an American a cappella group from Arlington, Texas, consisting of vocalists Scott Hoying, Mitch Grassi, Kirstin Maldonado, Kevin Olusola and Matt Sallee. The group's name is derived from the pentatonic scale, a musical scale or mode with five notes per octave. |
-| 13 | [Jupiter and Venus](http://twitter.com/search?q=Jupiter+and+Venus) | N/A |
-| 14 | [House of Black](http://twitter.com/search?q=House+of+Black) | N/A |
-| 15 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 16 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 17 | [Airris](http://twitter.com/search?q=Airris) | N/A |
-| 18 | [Jon Moxley](http://twitter.com/search?q=Jon+Moxley) | N/A |
-| 19 | [Komander](http://twitter.com/search?q=Komander) | N/A |
-| 20 | [Carolyn](http://twitter.com/search?q=Carolyn) | N/A |
-| 21 | [Chychrun](http://twitter.com/search?q=Chychrun) | N/A |
-| 22 | [5M BUILD](http://twitter.com/search?q=5M+BUILD) | N/A |
-| 23 | [Blueger](http://twitter.com/search?q=Blueger) | N/A |
-| 24 | [Vandy](http://twitter.com/search?q=Vandy) | Vandy is a nickname for Vanderbilt University, a private research university located in Nashville, Tennessee. The name is derived from the university's namesake, Cornelius Vanderbilt. |
-| 25 | [HOORAY FOR 2](http://twitter.com/search?q=HOORAY+FOR+2) | N/A |
-| 26 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
-| 27 | [Oakland](http://twitter.com/search?q=Oakland) | Oakland is a city in the U.S. state of California, located on the eastern side of San Francisco Bay. It is the largest city and the county seat of Alameda County. Oakland is known for its diverse culture, vibrant art scene, and numerous professional sports teams, including the Oakland Athletics baseball team and the Golden State Warriors basketball team. |
-| 28 | [Yam Yam](http://twitter.com/search?q=Yam+Yam) | N/A |
-| 29 | [Brenda](http://twitter.com/search?q=Brenda) | N/A |
-| 30 | [DePaul](http://twitter.com/search?q=DePaul) | DePaul is a private, Catholic university located in Chicago, Illinois. The name DePaul is derived from the French priest and saint, St. Vincent de Paul. The university was founded in 1898 by the Congregation of the Mission (Vincentians) and named after their patron saint. |
-| 31 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
+| 3 | [#SistasOnBET](http://twitter.com/search?q=%23SistasOnBET) | #SistasOnBET is a hashtag used to promote the television series Sistas, which airs on the BET network. The show follows a group of single black women in Atlanta as they navigate their complicated love lives, careers, and friendships. The hashtag is used to promote the show and encourage viewers to watch it. |
+| 4 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
+| 5 | [Vandy](http://twitter.com/search?q=Vandy) | Vandy is a nickname for Vanderbilt University, a private research university located in Nashville, Tennessee. The name is derived from the university's namesake, Cornelius Vanderbilt. |
+| 6 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
+| 7 | [Hobbs](http://twitter.com/search?q=Hobbs) | N/A |
+| 8 | [Jalen Brunson](http://twitter.com/search?q=Jalen+Brunson) | Jalen Brunson is an American professional basketball player who currently plays for the Dallas Mavericks of the National Basketball Association (NBA). His name is a combination of his father's first name, John, and his mother's first name, Lenora. |
+| 9 | [Hextall](http://twitter.com/search?q=Hextall) | N/A |
+| 10 | [Jaden Ivey](http://twitter.com/search?q=Jaden+Ivey) | N/A |
+| 11 | [Granlund](http://twitter.com/search?q=Granlund) | N/A |
+| 12 | [Jupiter and Venus](http://twitter.com/search?q=Jupiter+and+Venus) | N/A |
+| 13 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
+| 14 | [Big Bill](http://twitter.com/search?q=Big+Bill) | Big Bill is a slang term used to refer to someone who is very successful or influential. It can also be used to describe someone who is very wealthy or powerful. |
+| 15 | [Carolyn](http://twitter.com/search?q=Carolyn) | N/A |
+| 16 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
+| 17 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
+| 18 | [Riho](http://twitter.com/search?q=Riho) | N/A |
+| 19 | [Rupp](http://twitter.com/search?q=Rupp) | Rupp is an acronym for the phrase "Recognize, Understand, Prepare, and Perform". It is a strategy used to help people achieve their goals by breaking them down into smaller steps. The idea is to recognize the goal, understand what it will take to reach it, prepare for the journey ahead, and then perform the necessary actions to make it happen. |
+| 20 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 21 | [Cason](http://twitter.com/search?q=Cason) | N/A |
+| 22 | [Christian Cage](http://twitter.com/search?q=Christian+Cage) | N/A |
+| 23 | [Donovan Mitchell](http://twitter.com/search?q=Donovan+Mitchell) | Donovan Mitchell is an American professional basketball player who currently plays for the Utah Jazz of the National Basketball Association (NBA). His nickname is "Spida" and he is known for his explosive athleticism and scoring ability. |
+| 24 | [Maurice](http://twitter.com/search?q=Maurice) | N/A |
+| 25 | [Andi](http://twitter.com/search?q=Andi) | Andi is a unisex name of German origin, derived from the name Andreas. It can be used as a short form of the name or as a stand-alone name. In English, it means "brave" or "manly". |
+| 26 | [Danni](http://twitter.com/search?q=Danni) | N/A |
+| 27 | [Reeves](http://twitter.com/search?q=Reeves) | N/A |
+| 28 | [Orange Cassidy](http://twitter.com/search?q=Orange+Cassidy) | Orange Cassidy is the stage name of American professional wrestler Jonathan Gresham. The name is a reference to the character of Orange Cassidy from the television show It's Always Sunny in Philadelphia. The phrase "Orange Cassidy" has come to mean someone who is laid back and relaxed, often in a humorous way. |
+| 29 | [Jordan Wright](http://twitter.com/search?q=Jordan+Wright) | N/A |
+| 30 | [Pentatonix](http://twitter.com/search?q=Pentatonix) | Pentatonix is an American a cappella group from Arlington, Texas, consisting of vocalists Scott Hoying, Mitch Grassi, Kirstin Maldonado, Kevin Olusola and Matt Sallee. The group's name is derived from the pentatonic scale, a musical scale or mode with five notes per octave. |
+| 31 | [Broome](http://twitter.com/search?q=Broome) | N/A |
 | 32 | [Kevin Durant](http://twitter.com/search?q=Kevin+Durant) | Kevin Durant is an American professional basketball player who currently plays for the Brooklyn Nets of the National Basketball Association (NBA). He is a ten-time NBA All-Star and two-time NBA Finals MVP. He has won four NBA scoring titles, the NBA Rookie of the Year Award, and an Olympic gold medal. |
-| 33 | [Ultra MAGA](http://twitter.com/search?q=Ultra+MAGA) | N/A |
-| 34 | [Flyers](http://twitter.com/search?q=Flyers) | Flyers are a type of printed advertisement used to promote products, services, or events. They are typically distributed in public places such as streets, parks, and shopping centers. Flyers can also be sent through the mail or handed out at events. The purpose of a flyer is to attract attention and encourage people to take action. |
-| 35 | [Pastor Cal](http://twitter.com/search?q=Pastor+Cal) | N/A |
-| 36 | [Paul Reed](http://twitter.com/search?q=Paul+Reed) | N/A |
-| 37 | [Providence](http://twitter.com/search?q=Providence) | Providence is a term used to refer to the protective care and guidance of a higher power, such as God. It is often used to describe the feeling of being watched over and protected by a higher power. In English, it can also be used to refer to something that happens by chance or luck, as if it were part of a larger plan. |
-| 38 | [Cason Wallace](http://twitter.com/search?q=Cason+Wallace) | N/A |
-| 39 | [Sam Hauser](http://twitter.com/search?q=Sam+Hauser) | N/A |
-| 40 | [Rupp](http://twitter.com/search?q=Rupp) | Rupp is an acronym for the phrase "Recognize, Understand, Prepare, and Perform". It is a strategy used to help people achieve their goals by breaking them down into smaller steps. The idea is to recognize the goal, understand what it will take to reach it, prepare for the journey ahead, and then perform the necessary actions to make it happen. |
-| 41 | [The Elite](http://twitter.com/search?q=The+Elite) | The Elite is a term used to refer to a group of people who are considered to be the most powerful, influential, or successful in a particular field or society. It can also refer to those who have achieved the highest level of social or economic status. |
-| 42 | [JT Miller](http://twitter.com/search?q=JT+Miller) | N/A |
-| 43 | [Joe Budden](http://twitter.com/search?q=Joe+Budden) | N/A |
-| 44 | [Hronek](http://twitter.com/search?q=Hronek) | N/A |
-| 45 | [Grandmaster Flash](http://twitter.com/search?q=Grandmaster+Flash) | N/A |
-| 46 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
-| 47 | [sam levinson](http://twitter.com/search?q=sam+levinson) | N/A |
+| 33 | [House of Black](http://twitter.com/search?q=House+of+Black) | N/A |
+| 34 | [Chris Webber](http://twitter.com/search?q=Chris+Webber) | N/A |
+| 35 | [Airris](http://twitter.com/search?q=Airris) | N/A |
+| 36 | [Bruce Pearl](http://twitter.com/search?q=Bruce+Pearl) | N/A |
+| 37 | [Flyers](http://twitter.com/search?q=Flyers) | Flyers are a type of printed advertisement used to promote products, services, or events. They are typically distributed in public places such as streets, parks, and shopping centers. Flyers can also be sent through the mail or handed out at events. The purpose of a flyer is to attract attention and encourage people to take action. |
+| 38 | [Komander](http://twitter.com/search?q=Komander) | N/A |
+| 39 | [Stackhouse](http://twitter.com/search?q=Stackhouse) | N/A |
+| 40 | [Quinerly](http://twitter.com/search?q=Quinerly) | N/A |
+| 41 | [Paul Reed](http://twitter.com/search?q=Paul+Reed) | N/A |
+| 42 | [Jon Moxley](http://twitter.com/search?q=Jon+Moxley) | N/A |
+| 43 | [Kirsten](http://twitter.com/search?q=Kirsten) | Kirsten is a Scandinavian female name derived from the Greek name Christina, meaning "follower of Christ". |
+| 44 | [5M BUILD](http://twitter.com/search?q=5M+BUILD) | N/A |
+| 45 | [Zach Lavine](http://twitter.com/search?q=Zach+Lavine) | Zach Lavine is an American professional basketball player who currently plays for the Chicago Bulls of the National Basketball Association (NBA). He is known for his high-flying dunks and acrobatic layups. |
+| 46 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
+| 47 | [LeVert](http://twitter.com/search?q=LeVert) | LeVert is a French term meaning "to turn over" or "to flip." It is often used in the context of flipping a pancake or omelette. |
 
 
 

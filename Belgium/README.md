@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belgium
 
-📆 Last Updated: `2023-03-02 01:45:56 UTC`
+📆 Last Updated: `2023-03-02 02:43:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,28 +18,28 @@ This is top 50 for Belgium
 | 1 | [Leemans](http://twitter.com/search?q=Leemans) | N/A |
 | 2 | [#complimentendag](http://twitter.com/search?q=%23complimentendag) | N/A |
 | 3 | [Bracke](http://twitter.com/search?q=Bracke) | N/A |
-| 4 | [Annecy](http://twitter.com/search?q=Annecy) | N/A |
-| 5 | [Herman De Croo](http://twitter.com/search?q=Herman+De+Croo) | N/A |
-| 6 | [Balerdi](http://twitter.com/search?q=Balerdi) | N/A |
-| 7 | [Marseille](http://twitter.com/search?q=Marseille) | N/A |
-| 8 | [#kvmzwa](http://twitter.com/search?q=%23kvmzwa) | N/A |
-| 9 | [#NaynayFM](http://twitter.com/search?q=%23NaynayFM) | N/A |
-| 10 | [#civsocdays](http://twitter.com/search?q=%23civsocdays) | N/A |
-| 11 | [#KCORP](http://twitter.com/search?q=%23KCORP) | #KCORP is an acronym for the Korean Corporate Governance Improvement Program, a government-led initiative to improve corporate governance in South Korea. The program was launched in 2017 and aims to promote transparency, accountability, and fairness in the management of Korean companies. |
-| 12 | [schoofs](http://twitter.com/search?q=schoofs) | N/A |
-| 13 | [VDAB](http://twitter.com/search?q=VDAB) | N/A |
-| 14 | [Julien](http://twitter.com/search?q=Julien) | N/A |
-| 15 | [Creed 3](http://twitter.com/search?q=Creed+3) | N/A |
-| 16 | [Venus](http://twitter.com/search?q=Venus) | N/A |
-| 17 | [Demir](http://twitter.com/search?q=Demir) | N/A |
-| 18 | [Hilona](http://twitter.com/search?q=Hilona) | N/A |
-| 19 | [Zoro](http://twitter.com/search?q=Zoro) | N/A |
-| 20 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
-| 21 | [Telenet](http://twitter.com/search?q=Telenet) | N/A |
-| 22 | [bouchez](http://twitter.com/search?q=bouchez) | N/A |
-| 23 | [Vlaams Parlement](http://twitter.com/search?q=Vlaams+Parlement) | N/A |
-| 24 | [Kamer](http://twitter.com/search?q=Kamer) | N/A |
-| 25 | [FA Cup](http://twitter.com/search?q=FA+Cup) | The FA Cup is an annual knockout football competition in England. It is the oldest football competition in the world and is run by The Football Association (FA). The FA Cup is open to any club in the top four tiers of English football, from the Premier League down to the semi-professional leagues. The tournament culminates with a final at Wembley Stadium, usually held in May. |
+| 4 | [Herman De Croo](http://twitter.com/search?q=Herman+De+Croo) | N/A |
+| 5 | [Annecy](http://twitter.com/search?q=Annecy) | N/A |
+| 6 | [#kvmzwa](http://twitter.com/search?q=%23kvmzwa) | N/A |
+| 7 | [#civsocdays](http://twitter.com/search?q=%23civsocdays) | N/A |
+| 8 | [#KCORP](http://twitter.com/search?q=%23KCORP) | #KCORP is an acronym for the Korean Corporate Governance Improvement Program, a government-led initiative to improve corporate governance in South Korea. The program was launched in 2017 and aims to promote transparency, accountability, and fairness in the management of Korean companies. |
+| 9 | [schoofs](http://twitter.com/search?q=schoofs) | N/A |
+| 10 | [vdab](http://twitter.com/search?q=vdab) | N/A |
+| 11 | [Julien](http://twitter.com/search?q=Julien) | N/A |
+| 12 | [Creed 3](http://twitter.com/search?q=Creed+3) | N/A |
+| 13 | [#ZeroDiscriminationDay](http://twitter.com/search?q=%23ZeroDiscriminationDay) | N/A |
+| 14 | [Venus](http://twitter.com/search?q=Venus) | N/A |
+| 15 | [Demir](http://twitter.com/search?q=Demir) | N/A |
+| 16 | [Hilona](http://twitter.com/search?q=Hilona) | N/A |
+| 17 | [Balerdi](http://twitter.com/search?q=Balerdi) | N/A |
+| 18 | [Zoro](http://twitter.com/search?q=Zoro) | N/A |
+| 19 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
+| 20 | [Telenet](http://twitter.com/search?q=Telenet) | N/A |
+| 21 | [bouchez](http://twitter.com/search?q=bouchez) | N/A |
+| 22 | [vlaams parlement](http://twitter.com/search?q=vlaams+parlement) | N/A |
+| 23 | [Kamer](http://twitter.com/search?q=Kamer) | N/A |
+| 24 | [FA Cup](http://twitter.com/search?q=FA+Cup) | The FA Cup is an annual knockout football competition in England. It is the oldest football competition in the world and is run by The Football Association (FA). The FA Cup is open to any club in the top four tiers of English football, from the Premier League down to the semi-professional leagues. The tournament culminates with a final at Wembley Stadium, usually held in May. |
+| 25 | [Marseille](http://twitter.com/search?q=Marseille) | N/A |
 | 26 | [Jambon](http://twitter.com/search?q=Jambon) | N/A |
 | 27 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
 | 28 | [Sammy](http://twitter.com/search?q=Sammy) | N/A |
@@ -63,7 +63,7 @@ This is top 50 for Belgium
 | 46 | [Elon](http://twitter.com/search?q=Elon) | N/A |
 | 47 | [European Commission](http://twitter.com/search?q=European+Commission) | N/A |
 | 48 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 49 | [Mieke Vogels](http://twitter.com/search?q=Mieke+Vogels) | N/A |
+| 49 | [mieke vogels](http://twitter.com/search?q=mieke+vogels) | N/A |
 | 50 | [Commissioner](http://twitter.com/search?q=Commissioner) | N/A |
 
 

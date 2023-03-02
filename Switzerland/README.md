@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-03-02 01:46:03 UTC`
+📆 Last Updated: `2023-03-02 02:44:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,12 +15,12 @@ This is top 50 for Switzerland
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#rotblaulive](http://twitter.com/search?q=%23rotblaulive) | N/A |
-| 2 | [Annecy](http://twitter.com/search?q=Annecy) | N/A |
+| 1 | [Annecy](http://twitter.com/search?q=Annecy) | N/A |
+| 2 | [#rotblaulive](http://twitter.com/search?q=%23rotblaulive) | N/A |
 | 3 | [#FCSGFCB](http://twitter.com/search?q=%23FCSGFCB) | N/A |
 | 4 | [#HRC52](http://twitter.com/search?q=%23HRC52) | N/A |
-| 5 | [#Windisch](http://twitter.com/search?q=%23Windisch) | N/A |
-| 6 | [teuerungsausgleich](http://twitter.com/search?q=teuerungsausgleich) | N/A |
+| 5 | [teuerungsausgleich](http://twitter.com/search?q=teuerungsausgleich) | N/A |
+| 6 | [#Windisch](http://twitter.com/search?q=%23Windisch) | N/A |
 | 7 | [#parlch](http://twitter.com/search?q=%23parlch) | N/A |
 | 8 | [Julien Bert](http://twitter.com/search?q=Julien+Bert) | N/A |
 | 9 | [franz hohler](http://twitter.com/search?q=franz+hohler) | N/A |
@@ -40,9 +40,9 @@ This is top 50 for Switzerland
 | 23 | [Recherche](http://twitter.com/search?q=Recherche) | N/A |
 | 24 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
 | 25 | [République](http://twitter.com/search?q=R%c3%a9publique) | N/A |
-| 26 | [Asylpolitik](http://twitter.com/search?q=Asylpolitik) | N/A |
+| 26 | [asylpolitik](http://twitter.com/search?q=asylpolitik) | N/A |
 | 27 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
-| 28 | [Flüchtlingen](http://twitter.com/search?q=Fl%c3%bcchtlingen) | N/A |
+| 28 | [flüchtlingen](http://twitter.com/search?q=fl%c3%bcchtlingen) | N/A |
 | 29 | [März 2023](http://twitter.com/search?q=M%c3%a4rz+2023) | N/A |
 | 30 | [Mund](http://twitter.com/search?q=Mund) | N/A |
 | 31 | [Gerät](http://twitter.com/search?q=Ger%c3%a4t) | N/A |

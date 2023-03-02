@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-03-02 01:45:26 UTC`
+📆 Last Updated: `2023-03-02 02:43:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,17 +15,17 @@ This is top 50 for [Latvia](</Latvia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Providus](http://twitter.com/search?q=Providus) | N/A |
+| 1 | [providus](http://twitter.com/search?q=providus) | N/A |
 | 2 | [frikadeļu](http://twitter.com/search?q=frikade%c4%bcu) | N/A |
 | 3 | [Biešu](http://twitter.com/search?q=Bie%c5%a1u) | N/A |
-| 4 | [VID EDS](http://twitter.com/search?q=VID+EDS) | N/A |
+| 4 | [vid eds](http://twitter.com/search?q=vid+eds) | N/A |
 | 5 | [#teirdarbs](http://twitter.com/search?q=%23teirdarbs) | N/A |
 | 6 | [kādi](http://twitter.com/search?q=k%c4%81di) | N/A |
-| 7 | [Maskavas](http://twitter.com/search?q=Maskavas) | N/A |
-| 8 | [Mīļš](http://twitter.com/search?q=M%c4%ab%c4%bc%c5%a1) | N/A |
+| 7 | [maskavas](http://twitter.com/search?q=maskavas) | N/A |
+| 8 | [mīļš](http://twitter.com/search?q=m%c4%ab%c4%bc%c5%a1) | N/A |
 | 9 | [latvenergo](http://twitter.com/search?q=latvenergo) | N/A |
 | 10 | [ja tev](http://twitter.com/search?q=ja+tev) | N/A |
-| 11 | [Pareizi](http://twitter.com/search?q=Pareizi) | N/A |
+| 11 | [pareizi](http://twitter.com/search?q=pareizi) | N/A |
 | 12 | [somijā](http://twitter.com/search?q=somij%c4%81) | N/A |
 | 13 | [skaidrs](http://twitter.com/search?q=skaidrs) | N/A |
 | 14 | [Dziesmu](http://twitter.com/search?q=Dziesmu) | N/A |
@@ -59,12 +59,12 @@ This is top 50 for [Latvia](</Latvia>)
 | 42 | [kādas](http://twitter.com/search?q=k%c4%81das) | N/A |
 | 43 | [Беларуси](http://twitter.com/search?q=%d0%91%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d0%b8) | N/A |
 | 44 | [kultūras](http://twitter.com/search?q=kult%c5%abras) | N/A |
-| 45 | [Nevaru](http://twitter.com/search?q=Nevaru) | N/A |
+| 45 | [nevaru](http://twitter.com/search?q=nevaru) | N/A |
 | 46 | [#sif_maf2022](http://twitter.com/search?q=%23sif_maf2022) | N/A |
 | 47 | [nezinu](http://twitter.com/search?q=nezinu) | N/A |
-| 48 | [Tallinā](http://twitter.com/search?q=Tallin%c4%81) | N/A |
+| 48 | [tallinā](http://twitter.com/search?q=tallin%c4%81) | N/A |
 | 49 | [jelgavas](http://twitter.com/search?q=jelgavas) | N/A |
-| 50 | [Rīgas](http://twitter.com/search?q=R%c4%abgas) | N/A |
+| 50 | [rīgas](http://twitter.com/search?q=r%c4%abgas) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sweden
 
-📆 Last Updated: `2023-03-02 01:46:03 UTC`
+📆 Last Updated: `2023-03-02 02:44:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,7 +20,7 @@ This is top 50 for Sweden
 | 3 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
 | 4 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
 | 5 | [Tierney](http://twitter.com/search?q=Tierney) | Tierney is a surname of Irish origin. It is derived from the Gaelic name Ó Tíghearnaigh, which means "descendant of the lord". |
-| 6 | [Lagrådet](http://twitter.com/search?q=Lagr%c3%a5det) | N/A |
+| 6 | [lagrådet](http://twitter.com/search?q=lagr%c3%a5det) | N/A |
 | 7 | [Venus](http://twitter.com/search?q=Venus) | N/A |
 | 8 | [IPCC](http://twitter.com/search?q=IPCC) | N/A |
 | 9 | [#vardagpåminplanet](http://twitter.com/search?q=%23vardagp%c3%a5minplanet) | N/A |
@@ -37,14 +37,14 @@ This is top 50 for Sweden
 | 20 | [Maja](http://twitter.com/search?q=Maja) | N/A |
 | 21 | [Expo](http://twitter.com/search?q=Expo) | N/A |
 | 22 | [Jota](http://twitter.com/search?q=Jota) | N/A |
-| 23 | [Widding](http://twitter.com/search?q=Widding) | N/A |
+| 23 | [widding](http://twitter.com/search?q=widding) | N/A |
 | 24 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
 | 25 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
 | 26 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
-| 27 | [Olof Palme](http://twitter.com/search?q=Olof+Palme) | N/A |
-| 28 | [Mattias Gardell](http://twitter.com/search?q=Mattias+Gardell) | N/A |
-| 29 | [#vikhockey](http://twitter.com/search?q=%23vikhockey) | N/A |
-| 30 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 27 | [Mattias Gardell](http://twitter.com/search?q=Mattias+Gardell) | N/A |
+| 28 | [#vikhockey](http://twitter.com/search?q=%23vikhockey) | N/A |
+| 29 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 30 | [Olof Palme](http://twitter.com/search?q=Olof+Palme) | N/A |
 | 31 | [Bolund](http://twitter.com/search?q=Bolund) | N/A |
 | 32 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
 | 33 | [jägersro](http://twitter.com/search?q=j%c3%a4gersro) | N/A |

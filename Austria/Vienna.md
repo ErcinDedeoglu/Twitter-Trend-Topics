@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-03-02 01:45:20 UTC`
+📆 Last Updated: `2023-03-02 02:43:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,14 +26,14 @@ This is top 50 for [Austria](</Austria>)
 | 9 | [Herzliche Gratulation](http://twitter.com/search?q=Herzliche+Gratulation) | N/A |
 | 10 | [März 2023](http://twitter.com/search?q=M%c3%a4rz+2023) | N/A |
 | 11 | [Verfügung](http://twitter.com/search?q=Verf%c3%bcgung) | N/A |
-| 12 | [Kärntner](http://twitter.com/search?q=K%c3%a4rntner) | N/A |
+| 12 | [kärntner](http://twitter.com/search?q=k%c3%a4rntner) | N/A |
 | 13 | [Franz](http://twitter.com/search?q=Franz) | N/A |
 | 14 | [Makler](http://twitter.com/search?q=Makler) | N/A |
 | 15 | [IKEA](http://twitter.com/search?q=IKEA) | N/A |
 | 16 | [Kooperation](http://twitter.com/search?q=Kooperation) | N/A |
 | 17 | [Keller](http://twitter.com/search?q=Keller) | N/A |
-| 18 | [Hausverstand](http://twitter.com/search?q=Hausverstand) | N/A |
-| 19 | [Wirtschaftsbund](http://twitter.com/search?q=Wirtschaftsbund) | N/A |
+| 18 | [hausverstand](http://twitter.com/search?q=hausverstand) | N/A |
+| 19 | [wirtschaftsbund](http://twitter.com/search?q=wirtschaftsbund) | N/A |
 | 20 | [Autobahnen](http://twitter.com/search?q=Autobahnen) | N/A |
 | 21 | [GIVE US WN BLOOPERS](http://twitter.com/search?q=GIVE+US+WN+BLOOPERS) | N/A |
 | 22 | [Friseur](http://twitter.com/search?q=Friseur) | N/A |
@@ -49,7 +49,7 @@ This is top 50 for [Austria](</Austria>)
 | 32 | [Auswirkungen](http://twitter.com/search?q=Auswirkungen) | N/A |
 | 33 | [bures](http://twitter.com/search?q=bures) | N/A |
 | 34 | [Konkurrenz](http://twitter.com/search?q=Konkurrenz) | N/A |
-| 35 | [Dosko](http://twitter.com/search?q=Dosko) | N/A |
+| 35 | [dosko](http://twitter.com/search?q=dosko) | N/A |
 | 36 | [Vergewaltigung](http://twitter.com/search?q=Vergewaltigung) | N/A |
 | 37 | [Ziegler](http://twitter.com/search?q=Ziegler) | N/A |
 | 38 | [Vorschläge](http://twitter.com/search?q=Vorschl%c3%a4ge) | N/A |
@@ -61,7 +61,7 @@ This is top 50 for [Austria](</Austria>)
 | 44 | [fetzen](http://twitter.com/search?q=fetzen) | N/A |
 | 45 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
 | 46 | [Opposition](http://twitter.com/search?q=Opposition) | N/A |
-| 47 | [Willkommen im Club](http://twitter.com/search?q=Willkommen+im+Club) | N/A |
+| 47 | [willkommen im club](http://twitter.com/search?q=willkommen+im+club) | N/A |
 | 48 | [Habeck](http://twitter.com/search?q=Habeck) | N/A |
 | 49 | [schönen nachmittag](http://twitter.com/search?q=sch%c3%b6nen+nachmittag) | N/A |
 | 50 | [Überblick](http://twitter.com/search?q=%c3%9cberblick) | N/A |

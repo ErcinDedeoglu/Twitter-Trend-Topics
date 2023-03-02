@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dammam
 
-📆 Last Updated: `2023-03-02 01:45:39 UTC`
+📆 Last Updated: `2023-03-02 02:43:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,56 @@ This is top 50 for [Saudi Arabia](</Saudi Arabia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#البزنس85](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b2%d9%86%d8%b385) | N/A |
-| 2 | [#لا_للايقاعات_بالبرامج_الواقعيه](http://twitter.com/search?q=%23%d9%84%d8%a7_%d9%84%d9%84%d8%a7%d9%8a%d9%82%d8%a7%d8%b9%d8%a7%d8%aa_%d8%a8%d8%a7%d9%84%d8%a8%d8%b1%d8%a7%d9%85%d8%ac_%d8%a7%d9%84%d9%88%d8%a7%d9%82%d8%b9%d9%8a%d9%87) | N/A |
-| 3 | [#مرتده_تستهزي_بالله](http://twitter.com/search?q=%23%d9%85%d8%b1%d8%aa%d8%af%d9%87_%d8%aa%d8%b3%d8%aa%d9%87%d8%b2%d9%8a_%d8%a8%d8%a7%d9%84%d9%84%d9%87) | N/A |
-| 4 | [#البنزين](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d9%86%d8%b2%d9%8a%d9%86) | N/A |
-| 5 | [#ميسي_هلالي](http://twitter.com/search?q=%23%d9%85%d9%8a%d8%b3%d9%8a_%d9%87%d9%84%d8%a7%d9%84%d9%8a) | N/A |
-| 6 | [ارسنال](http://twitter.com/search?q=%d8%a7%d8%b1%d8%b3%d9%86%d8%a7%d9%84) | ارسنال (Arsenal) is a professional football club based in London, England. It is one of the most successful clubs in English football, having won 13 First Division and Premier League titles and a record 14 FA Cups. The club's name is derived from the Royal Arsenal, an armaments factory in Woolwich, south-east London. |
-| 7 | [الدوريات العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a%d8%a7%d8%aa+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
-| 8 | [صيام الخميس](http://twitter.com/search?q=%d8%b5%d9%8a%d8%a7%d9%85+%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | N/A |
-| 9 | [الدوري الايطالي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d9%8a%d8%b7%d8%a7%d9%84%d9%8a) | N/A |
+| 1 | [#يوم_العلم](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%b9%d9%84%d9%85) | N/A |
+| 2 | [#الاهلي_جده](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a_%d8%ac%d8%af%d9%87) | N/A |
+| 3 | [#ايش_يعني_لك_الحب](http://twitter.com/search?q=%23%d8%a7%d9%8a%d8%b4_%d9%8a%d8%b9%d9%86%d9%8a_%d9%84%d9%83_%d8%a7%d9%84%d8%ad%d8%a8) | N/A |
+| 4 | [#100_مسلسل_واكثر](http://twitter.com/search?q=%23100_%d9%85%d8%b3%d9%84%d8%b3%d9%84_%d9%88%d8%a7%d9%83%d8%ab%d8%b1) | N/A |
+| 5 | [#البزنس85](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b2%d9%86%d8%b385) | N/A |
+| 6 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
+| 7 | [11 مارس](http://twitter.com/search?q=11+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
+| 8 | [الدفاع المدني](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%81%d8%a7%d8%b9+%d8%a7%d9%84%d9%85%d8%af%d9%86%d9%8a) | N/A |
+| 9 | [اليوم الاربعاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%b1%d8%a8%d8%b9%d8%a7%d8%a1) | اليوم الاربعاء is Arabic for "Wednesday" and it means "Wednesday" in English. |
 | 10 | [ايفرتون](http://twitter.com/search?q=%d8%a7%d9%8a%d9%81%d8%b1%d8%aa%d9%88%d9%86) | ايفرتون (Ifton) is an Arabic name meaning "gift of God". |
-| 11 | [احمد البارقي](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%a8%d8%a7%d8%b1%d9%82%d9%8a) | N/A |
-| 12 | [بلال علام](http://twitter.com/search?q=%d8%a8%d9%84%d8%a7%d9%84+%d8%b9%d9%84%d8%a7%d9%85) | N/A |
-| 13 | [جميل الدعاء](http://twitter.com/search?q=%d8%ac%d9%85%d9%8a%d9%84+%d8%a7%d9%84%d8%af%d8%b9%d8%a7%d8%a1) | N/A |
-| 14 | [الحزمه الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%b2%d9%85%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
-| 15 | [ويست](http://twitter.com/search?q=%d9%88%d9%8a%d8%b3%d8%aa) | N/A |
-| 16 | [رايد اسماعيل](http://twitter.com/search?q=%d8%b1%d8%a7%d9%8a%d8%af+%d8%a7%d8%b3%d9%85%d8%a7%d8%b9%d9%8a%d9%84) | N/A |
-| 17 | [سواريز](http://twitter.com/search?q=%d8%b3%d9%88%d8%a7%d8%b1%d9%8a%d8%b2) | N/A |
-| 18 | [ميليسي](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d9%8a%d8%b3%d9%8a) | ميليسي (pronounced mee-lee-see) is an Arabic word meaning "happiness" or "joy". It is often used as a greeting or to express joy and happiness. |
-| 19 | [نايف الرفيدي](http://twitter.com/search?q=%d9%86%d8%a7%d9%8a%d9%81+%d8%a7%d9%84%d8%b1%d9%81%d9%8a%d8%af%d9%8a) | N/A |
-| 20 | [تشاكا](http://twitter.com/search?q=%d8%aa%d8%b4%d8%a7%d9%83%d8%a7) | N/A |
-| 21 | [زياد](http://twitter.com/search?q=%d8%b2%d9%8a%d8%a7%d8%af) | زياد (pronounced zee-yad) is an Arabic word meaning "increase" or "more". It can also be used to refer to something that is greater in quantity or size. |
-| 22 | [فان دايك](http://twitter.com/search?q=%d9%81%d8%a7%d9%86+%d8%af%d8%a7%d9%8a%d9%83) | N/A |
-| 23 | [الحجر الاسود](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%ac%d8%b1+%d8%a7%d9%84%d8%a7%d8%b3%d9%88%d8%af) | N/A |
+| 11 | [اليوم العالمي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
+| 12 | [اليوم الرابع](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9) | N/A |
+| 13 | [صيام الخميس](http://twitter.com/search?q=%d8%b5%d9%8a%d8%a7%d9%85+%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | N/A |
+| 14 | [نظام نور](http://twitter.com/search?q=%d9%86%d8%b8%d8%a7%d9%85+%d9%86%d9%88%d8%b1) | N/A |
+| 15 | [الحزمه الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%b2%d9%85%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
+| 16 | [الدوريات العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a%d8%a7%d8%aa+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
+| 17 | [الحضور الجماهيري](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%b6%d9%88%d8%b1+%d8%a7%d9%84%d8%ac%d9%85%d8%a7%d9%87%d9%8a%d8%b1%d9%8a) | N/A |
+| 18 | [نواف عقاب](http://twitter.com/search?q=%d9%86%d9%88%d8%a7%d9%81+%d8%b9%d9%82%d8%a7%d8%a8) | N/A |
+| 19 | [بلال علام](http://twitter.com/search?q=%d8%a8%d9%84%d8%a7%d9%84+%d8%b9%d9%84%d8%a7%d9%85) | N/A |
+| 20 | [الترم الثالث](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b1%d9%85+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab) | N/A |
+| 21 | [مودو بارو](http://twitter.com/search?q=%d9%85%d9%88%d8%af%d9%88+%d8%a8%d8%a7%d8%b1%d9%88) | N/A |
+| 22 | [رايد اسماعيل](http://twitter.com/search?q=%d8%b1%d8%a7%d9%8a%d8%af+%d8%a7%d8%b3%d9%85%d8%a7%d8%b9%d9%8a%d9%84) | N/A |
+| 23 | [هاني مقبل](http://twitter.com/search?q=%d9%87%d8%a7%d9%86%d9%8a+%d9%85%d9%82%d8%a8%d9%84) | N/A |
 | 24 | [عقيل](http://twitter.com/search?q=%d8%b9%d9%82%d9%8a%d9%84) | N/A |
-| 25 | [2 مارس](http://twitter.com/search?q=2+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
-| 26 | [#100_مسلسل_واكثر](http://twitter.com/search?q=%23100_%d9%85%d8%b3%d9%84%d8%b3%d9%84_%d9%88%d8%a7%d9%83%d8%ab%d8%b1) | N/A |
-| 27 | [#اين_هييه_الاعلام_من_البكيري](http://twitter.com/search?q=%23%d8%a7%d9%8a%d9%86_%d9%87%d9%8a%d9%8a%d9%87_%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d8%a7%d9%85_%d9%85%d9%86_%d8%a7%d9%84%d8%a8%d9%83%d9%8a%d8%b1%d9%8a) | N/A |
-| 28 | [#الاهلي_جده](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a_%d8%ac%d8%af%d9%87) | N/A |
-| 29 | [#سعودي_ايدول](http://twitter.com/search?q=%23%d8%b3%d8%b9%d9%88%d8%af%d9%8a_%d8%a7%d9%8a%d8%af%d9%88%d9%84) | #سعودي_ايدول is a hashtag used by Saudi Arabian citizens to express their pride in their country and its achievements. In English, it translates to "Saudi Arabia is Awesome". |
-| 30 | [#TWICE_BreakthroughAward](http://twitter.com/search?q=%23TWICE_BreakthroughAward) | N/A |
-| 31 | [#ساكو](http://twitter.com/search?q=%23%d8%b3%d8%a7%d9%83%d9%88) | N/A |
-| 32 | [#BBWomenInMusic](http://twitter.com/search?q=%23BBWomenInMusic) | N/A |
-| 33 | [#الهلال_الوحده](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84_%d8%a7%d9%84%d9%88%d8%ad%d8%af%d9%87) | N/A |
-| 34 | [#زد_رصيدك37](http://twitter.com/search?q=%23%d8%b2%d8%af_%d8%b1%d8%b5%d9%8a%d8%af%d9%8337) | N/A |
-| 35 | [#نايس_ون](http://twitter.com/search?q=%23%d9%86%d8%a7%d9%8a%d8%b3_%d9%88%d9%86) | N/A |
-| 36 | [#AdimFarah](http://twitter.com/search?q=%23AdimFarah) | N/A |
-| 37 | [#we_love_u_kadi](http://twitter.com/search?q=%23we_love_u_kadi) | N/A |
-| 38 | [#مانشستر_يونايتد_وست_هام](http://twitter.com/search?q=%23%d9%85%d8%a7%d9%86%d8%b4%d8%b3%d8%aa%d8%b1_%d9%8a%d9%88%d9%86%d8%a7%d9%8a%d8%aa%d8%af_%d9%88%d8%b3%d8%aa_%d9%87%d8%a7%d9%85) | N/A |
-| 39 | [#محمد_الزعيزعي](http://twitter.com/search?q=%23%d9%85%d8%ad%d9%85%d8%af_%d8%a7%d9%84%d8%b2%d8%b9%d9%8a%d8%b2%d8%b9%d9%8a) | N/A |
-| 40 | [#يوم_العلم_السعودي](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%b9%d9%84%d9%85_%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
-| 41 | [#جمهور_الهلال_يريد_ميسي](http://twitter.com/search?q=%23%d8%ac%d9%85%d9%87%d9%88%d8%b1_%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84_%d9%8a%d8%b1%d9%8a%d8%af_%d9%85%d9%8a%d8%b3%d9%8a) | N/A |
-| 42 | [#روما_يوفنتوس](http://twitter.com/search?q=%23%d8%b1%d9%88%d9%85%d8%a7_%d9%8a%d9%88%d9%81%d9%86%d8%aa%d9%88%d8%b3) | N/A |
-| 43 | [#ليفربول_مانشستريونايتد](http://twitter.com/search?q=%23%d9%84%d9%8a%d9%81%d8%b1%d8%a8%d9%88%d9%84_%d9%85%d8%a7%d9%86%d8%b4%d8%b3%d8%aa%d8%b1%d9%8a%d9%88%d9%86%d8%a7%d9%8a%d8%aa%d8%af) | N/A |
-| 44 | [#ضمك_التعاون](http://twitter.com/search?q=%23%d8%b6%d9%85%d9%83_%d8%a7%d9%84%d8%aa%d8%b9%d8%a7%d9%88%d9%86) | N/A |
-| 45 | [#برشلونه_فالنسيا](http://twitter.com/search?q=%23%d8%a8%d8%b1%d8%b4%d9%84%d9%88%d9%86%d9%87_%d9%81%d8%a7%d9%84%d9%86%d8%b3%d9%8a%d8%a7) | N/A |
-| 46 | [#الشباب_العداله](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b4%d8%a8%d8%a7%d8%a8_%d8%a7%d9%84%d8%b9%d8%af%d8%a7%d9%84%d9%87) | N/A |
+| 25 | [بيوم العلم](http://twitter.com/search?q=%d8%a8%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b9%d9%84%d9%85) | N/A |
+| 26 | [عمر الدغيري](http://twitter.com/search?q=%d8%b9%d9%85%d8%b1+%d8%a7%d9%84%d8%af%d8%ba%d9%8a%d8%b1%d9%8a) | N/A |
+| 27 | [عبدالله المطيري](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87+%d8%a7%d9%84%d9%85%d8%b7%d9%8a%d8%b1%d9%8a) | N/A |
+| 28 | [حسن العلي](http://twitter.com/search?q=%d8%ad%d8%b3%d9%86+%d8%a7%d9%84%d8%b9%d9%84%d9%8a) | N/A |
+| 29 | [زياد الجهني](http://twitter.com/search?q=%d8%b2%d9%8a%d8%a7%d8%af+%d8%a7%d9%84%d8%ac%d9%87%d9%86%d9%8a) | N/A |
+| 30 | [وعد شرف](http://twitter.com/search?q=%d9%88%d8%b9%d8%af+%d8%b4%d8%b1%d9%81) | N/A |
+| 31 | [جميل الدعاء](http://twitter.com/search?q=%d8%ac%d9%85%d9%8a%d9%84+%d8%a7%d9%84%d8%af%d8%b9%d8%a7%d8%a1) | N/A |
+| 32 | [ديربي الغضب](http://twitter.com/search?q=%d8%af%d9%8a%d8%b1%d8%a8%d9%8a+%d8%a7%d9%84%d8%ba%d8%b6%d8%a8) | N/A |
+| 33 | [برنامج شريك](http://twitter.com/search?q=%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d8%ac+%d8%b4%d8%b1%d9%8a%d9%83) | N/A |
+| 34 | [رافع حمدي](http://twitter.com/search?q=%d8%b1%d8%a7%d9%81%d8%b9+%d8%ad%d9%85%d8%af%d9%8a) | N/A |
+| 35 | [ابن الوطن البار](http://twitter.com/search?q=%d8%a7%d8%a8%d9%86+%d8%a7%d9%84%d9%88%d8%b7%d9%86+%d8%a7%d9%84%d8%a8%d8%a7%d8%b1) | N/A |
+| 36 | [النور المسطر](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d9%88%d8%b1+%d8%a7%d9%84%d9%85%d8%b3%d8%b7%d8%b1) | N/A |
+| 37 | [ابو معتز](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d9%85%d8%b9%d8%aa%d8%b2) | N/A |
+| 38 | [ماجد عبدالله](http://twitter.com/search?q=%d9%85%d8%a7%d8%ac%d8%af+%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87) | N/A |
+| 39 | [يحيي احمد](http://twitter.com/search?q=%d9%8a%d8%ad%d9%8a%d9%8a+%d8%a7%d8%ad%d9%85%d8%af) | N/A |
+| 40 | [المقرن](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%82%d8%b1%d9%86) | المقرن is an Arabic word that means "dagger". It is a type of short, pointed knife or blade. |
+| 41 | [شركات التامين](http://twitter.com/search?q=%d8%b4%d8%b1%d9%83%d8%a7%d8%aa+%d8%a7%d9%84%d8%aa%d8%a7%d9%85%d9%8a%d9%86) | N/A |
+| 42 | [الترم الجاي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b1%d9%85+%d8%a7%d9%84%d8%ac%d8%a7%d9%8a) | N/A |
+| 43 | [الجلسات الخارجيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%84%d8%b3%d8%a7%d8%aa+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87) | N/A |
+| 44 | [علي التمام](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%aa%d9%85%d8%a7%d9%85) | N/A |
+| 45 | [ميليسي](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d9%8a%d8%b3%d9%8a) | ميليسي (pronounced mee-lee-see) is an Arabic word meaning "happiness" or "joy". It is often used as a greeting or to express joy and happiness. |
+| 46 | [قول ساكا](http://twitter.com/search?q=%d9%82%d9%88%d9%84+%d8%b3%d8%a7%d9%83%d8%a7) | N/A |
+| 47 | [شهر جديد](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%ac%d8%af%d9%8a%d8%af) | N/A |
+| 48 | [تميم المعتوق](http://twitter.com/search?q=%d8%aa%d9%85%d9%8a%d9%85+%d8%a7%d9%84%d9%85%d8%b9%d8%aa%d9%88%d9%82) | N/A |
+| 49 | [ناصر الشمراني](http://twitter.com/search?q=%d9%86%d8%a7%d8%b5%d8%b1+%d8%a7%d9%84%d8%b4%d9%85%d8%b1%d8%a7%d9%86%d9%8a) | N/A |
+| 50 | [كريم اند هوني](http://twitter.com/search?q=%d9%83%d8%b1%d9%8a%d9%85+%d8%a7%d9%86%d8%af+%d9%87%d9%88%d9%86%d9%8a) | N/A |
 
 
 

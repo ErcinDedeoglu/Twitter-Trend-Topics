@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Qatar
 
-📆 Last Updated: `2023-03-02 01:46:02 UTC`
+📆 Last Updated: `2023-03-02 02:43:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,17 +17,17 @@ This is top 50 for Qatar
 | ------- | ------------ | ------------ |
 | 1 | [التميز العلمي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%85%d9%8a%d8%b2+%d8%a7%d9%84%d8%b9%d9%84%d9%85%d9%8a) | N/A |
 | 2 | [#بالتميز_نبني_الاجيال](http://twitter.com/search?q=%23%d8%a8%d8%a7%d9%84%d8%aa%d9%85%d9%8a%d8%b2_%d9%86%d8%a8%d9%86%d9%8a_%d8%a7%d9%84%d8%a7%d8%ac%d9%8a%d8%a7%d9%84) | N/A |
-| 3 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 4 | [ايوب الكعبي](http://twitter.com/search?q=%d8%a7%d9%8a%d9%88%d8%a8+%d8%a7%d9%84%d9%83%d8%b9%d8%a8%d9%8a) | N/A |
-| 5 | [#يوم_التميز_العلمي](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%aa%d9%85%d9%8a%d8%b2_%d8%a7%d9%84%d8%b9%d9%84%d9%85%d9%8a) | N/A |
-| 6 | [العرش العظيم](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b1%d8%b4+%d8%a7%d9%84%d8%b9%d8%b8%d9%8a%d9%85) | N/A |
-| 7 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 8 | [#حمد_عبدالحكيم_العبدالله](http://twitter.com/search?q=%23%d8%ad%d9%85%d8%af_%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%ad%d9%83%d9%8a%d9%85_%d8%a7%d9%84%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87) | N/A |
-| 9 | [#جايزه_التميز_العلمي](http://twitter.com/search?q=%23%d8%ac%d8%a7%d9%8a%d8%b2%d9%87_%d8%a7%d9%84%d8%aa%d9%85%d9%8a%d8%b2_%d8%a7%d9%84%d8%b9%d9%84%d9%85%d9%8a) | N/A |
-| 10 | [الميداليه البلاتينيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%8a%d8%af%d8%a7%d9%84%d9%8a%d9%87+%d8%a7%d9%84%d8%a8%d9%84%d8%a7%d8%aa%d9%8a%d9%86%d9%8a%d9%87) | N/A |
-| 11 | [مانشستر يونايتد](http://twitter.com/search?q=%d9%85%d8%a7%d9%86%d8%b4%d8%b3%d8%aa%d8%b1+%d9%8a%d9%88%d9%86%d8%a7%d9%8a%d8%aa%d8%af) | N/A |
-| 12 | [وزير التربيه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%aa%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
-| 13 | [رييس مجلس الوزراء](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1) | N/A |
+| 3 | [ايوب الكعبي](http://twitter.com/search?q=%d8%a7%d9%8a%d9%88%d8%a8+%d8%a7%d9%84%d9%83%d8%b9%d8%a8%d9%8a) | N/A |
+| 4 | [#يوم_التميز_العلمي](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%aa%d9%85%d9%8a%d8%b2_%d8%a7%d9%84%d8%b9%d9%84%d9%85%d9%8a) | N/A |
+| 5 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 6 | [#حمد_عبدالحكيم_العبدالله](http://twitter.com/search?q=%23%d8%ad%d9%85%d8%af_%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%ad%d9%83%d9%8a%d9%85_%d8%a7%d9%84%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87) | N/A |
+| 7 | [#جايزه_التميز_العلمي](http://twitter.com/search?q=%23%d8%ac%d8%a7%d9%8a%d8%b2%d9%87_%d8%a7%d9%84%d8%aa%d9%85%d9%8a%d8%b2_%d8%a7%d9%84%d8%b9%d9%84%d9%85%d9%8a) | N/A |
+| 8 | [الميداليه البلاتينيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%8a%d8%af%d8%a7%d9%84%d9%8a%d9%87+%d8%a7%d9%84%d8%a8%d9%84%d8%a7%d8%aa%d9%8a%d9%86%d9%8a%d9%87) | N/A |
+| 9 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 10 | [مانشستر يونايتد](http://twitter.com/search?q=%d9%85%d8%a7%d9%86%d8%b4%d8%b3%d8%aa%d8%b1+%d9%8a%d9%88%d9%86%d8%a7%d9%8a%d8%aa%d8%af) | N/A |
+| 11 | [وزير التربيه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%aa%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
+| 12 | [رييس مجلس الوزراء](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1) | N/A |
+| 13 | [العرش العظيم](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b1%d8%b4+%d8%a7%d9%84%d8%b9%d8%b8%d9%8a%d9%85) | N/A |
 | 14 | [صاحب السمو الشيخ](http://twitter.com/search?q=%d8%b5%d8%a7%d8%ad%d8%a8+%d8%a7%d9%84%d8%b3%d9%85%d9%88+%d8%a7%d9%84%d8%b4%d9%8a%d8%ae) | N/A |
 | 15 | [الدفاع المدني](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%81%d8%a7%d8%b9+%d8%a7%d9%84%d9%85%d8%af%d9%86%d9%8a) | N/A |
 | 16 | [الطلبه المتميزين](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d9%84%d8%a8%d9%87+%d8%a7%d9%84%d9%85%d8%aa%d9%85%d9%8a%d8%b2%d9%8a%d9%86) | N/A |
@@ -50,15 +50,15 @@ This is top 50 for Qatar
 | 33 | [الوفد المرافق](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%81%d8%af+%d8%a7%d9%84%d9%85%d8%b1%d8%a7%d9%81%d9%82) | N/A |
 | 34 | [شهر مارس](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
 | 35 | [1 مارس 2023](http://twitter.com/search?q=1+%d9%85%d8%a7%d8%b1%d8%b3+2023) | N/A |
-| 36 | [ليفربول](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%b1%d8%a8%d9%88%d9%84) | ليفربول (pronounced lee-fer-boo-l) is the Arabic name for the English city of Liverpool. It is located in the northwest of England and is known for its football team, Liverpool FC. |
-| 37 | [قطر الكبري](http://twitter.com/search?q=%d9%82%d8%b7%d8%b1+%d8%a7%d9%84%d9%83%d8%a8%d8%b1%d9%8a) | N/A |
-| 38 | [وزير الداخليه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a%d9%87) | N/A |
-| 39 | [غانم السليطي](http://twitter.com/search?q=%d8%ba%d8%a7%d9%86%d9%85+%d8%a7%d9%84%d8%b3%d9%84%d9%8a%d8%b7%d9%8a) | N/A |
-| 40 | [اليوفي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%81%d9%8a) | اليوفي is a type of Arabic script used in the Middle East and North Africa. It is also known as Kufic script, and its name comes from the city of Kufa in Iraq. In English, اليوفي translates to "Kufic". |
-| 41 | [الثوب الابيض](http://twitter.com/search?q=%d8%a7%d9%84%d8%ab%d9%88%d8%a8+%d8%a7%d9%84%d8%a7%d8%a8%d9%8a%d8%b6) | N/A |
-| 42 | [التنميه المستدامه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%86%d9%85%d9%8a%d9%87+%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d8%af%d8%a7%d9%85%d9%87) | N/A |
-| 43 | [توتنهام](http://twitter.com/search?q=%d8%aa%d9%88%d8%aa%d9%86%d9%87%d8%a7%d9%85) | توتنهام is the name of a city in England. It is the largest city in the West Midlands region and is located in the county of Staffordshire. The name translates to "town on the meadow" in English. |
-| 44 | [لميسي](http://twitter.com/search?q=%d9%84%d9%85%d9%8a%d8%b3%d9%8a) | N/A |
+| 36 | [قطر الكبري](http://twitter.com/search?q=%d9%82%d8%b7%d8%b1+%d8%a7%d9%84%d9%83%d8%a8%d8%b1%d9%8a) | N/A |
+| 37 | [وزير الداخليه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a%d9%87) | N/A |
+| 38 | [غانم السليطي](http://twitter.com/search?q=%d8%ba%d8%a7%d9%86%d9%85+%d8%a7%d9%84%d8%b3%d9%84%d9%8a%d8%b7%d9%8a) | N/A |
+| 39 | [اليوفي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%81%d9%8a) | اليوفي is a type of Arabic script used in the Middle East and North Africa. It is also known as Kufic script, and its name comes from the city of Kufa in Iraq. In English, اليوفي translates to "Kufic". |
+| 40 | [الثوب الابيض](http://twitter.com/search?q=%d8%a7%d9%84%d8%ab%d9%88%d8%a8+%d8%a7%d9%84%d8%a7%d8%a8%d9%8a%d8%b6) | N/A |
+| 41 | [التنميه المستدامه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%86%d9%85%d9%8a%d9%87+%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d8%af%d8%a7%d9%85%d9%87) | N/A |
+| 42 | [توتنهام](http://twitter.com/search?q=%d8%aa%d9%88%d8%aa%d9%86%d9%87%d8%a7%d9%85) | توتنهام is the name of a city in England. It is the largest city in the West Midlands region and is located in the county of Staffordshire. The name translates to "town on the meadow" in English. |
+| 43 | [لميسي](http://twitter.com/search?q=%d9%84%d9%85%d9%8a%d8%b3%d9%8a) | N/A |
+| 44 | [الفريق الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d9%8a%d9%82+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
 | 45 | [إبراهيم](http://twitter.com/search?q=%d8%a5%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85) | N/A |
 | 46 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 47 | [الاسبوع السادس](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%a8%d9%88%d8%b9+%d8%a7%d9%84%d8%b3%d8%a7%d8%af%d8%b3) | N/A |

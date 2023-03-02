@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belo Horizonte
 
-📆 Last Updated: `2023-03-02 01:45:17 UTC`
+📆 Last Updated: `2023-03-02 02:43:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Dodô](http://twitter.com/search?q=Dod%c3%b4) | N/A |
+| 1 | [Allan](http://twitter.com/search?q=Allan) | N/A |
 | 2 | [Saravia](http://twitter.com/search?q=Saravia) | N/A |
-| 3 | [Allan](http://twitter.com/search?q=Allan) | N/A |
-| 4 | [Pedro Lourenço](http://twitter.com/search?q=Pedro+Louren%c3%a7o) | N/A |
-| 5 | [Galão](http://twitter.com/search?q=Gal%c3%a3o) | N/A |
-| 6 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 7 | [Paulinho](http://twitter.com/search?q=Paulinho) | Paulinho is a Portuguese nickname for Paulo, which is the Portuguese form of the name Paul. In English, it means "little Paul". |
-| 8 | [CHIARA VAI CASAR](http://twitter.com/search?q=CHIARA+VAI+CASAR) | N/A |
-| 9 | [Carabobo](http://twitter.com/search?q=Carabobo) | Carabobo is a state in Venezuela. Its name is derived from the Carabobo tribe, which inhabited the area before the Spanish colonization of the Americas. In English, it means "Valley of the Brave". |
-| 10 | [#TWICE_BreakthroughAward](http://twitter.com/search?q=%23TWICE_BreakthroughAward) | N/A |
-| 11 | [Cristaldo](http://twitter.com/search?q=Cristaldo) | Cristaldo is a Portuguese name derived from the Latin name “Christophorus”, which means “Christ-bearer”. It is a combination of the words “Cristo” (Christ) and “Aldo” (bearer). In English, Cristaldo can be translated to mean "Christ-bearer". |
-| 12 | [#BBWomenInMusic](http://twitter.com/search?q=%23BBWomenInMusic) | N/A |
-| 13 | [Everson](http://twitter.com/search?q=Everson) | Everson is a surname of English origin. It is derived from the Old English personal name Eoforwine, which means "boar friend". |
-| 14 | [Atlético Mineiro](http://twitter.com/search?q=Atl%c3%a9tico+Mineiro) | N/A |
-| 15 | [Lemos](http://twitter.com/search?q=Lemos) | N/A |
-| 16 | [Pedrinho](http://twitter.com/search?q=Pedrinho) | Pedrinho is a Portuguese nickname for the name Pedro, which is the Spanish and Portuguese form of Peter. In English, it would be translated to Peter or Pete. |
-| 17 | [Ferreira](http://twitter.com/search?q=Ferreira) | Ferreira is a Portuguese surname derived from the Latin word ferrum, meaning "iron". It is also a common given name in Portuguese-speaking countries. In English, it can be translated to mean "Ironworker" or "Blacksmith". |
-| 18 | [Zaracho](http://twitter.com/search?q=Zaracho) | N/A |
-| 19 | [Top Track](http://twitter.com/search?q=Top+Track) | N/A |
-| 20 | [Top Artist](http://twitter.com/search?q=Top+Artist) | N/A |
-| 21 | [No. Scrobbles](http://twitter.com/search?q=No.+Scrobbles) | N/A |
-| 22 | [Top Album](http://twitter.com/search?q=Top+Album) | N/A |
-| 23 | [DEMI THE FINAL ONE](http://twitter.com/search?q=DEMI+THE+FINAL+ONE) | N/A |
-| 24 | [Diogo Barbosa](http://twitter.com/search?q=Diogo+Barbosa) | N/A |
-| 25 | [Campinense](http://twitter.com/search?q=Campinense) | N/A |
-| 26 | [#LibertadoresNaESPN](http://twitter.com/search?q=%23LibertadoresNaESPN) | N/A |
-| 27 | [Villasanti](http://twitter.com/search?q=Villasanti) | Villasanti is a Spanish surname. It is derived from the Latin words villa (town) and sancti (holy). In English, it can be translated to mean "holy town". |
-| 28 | [Cauly](http://twitter.com/search?q=Cauly) | N/A |
-| 29 | [Hina](http://twitter.com/search?q=Hina) | N/A |
-| 30 | [Galdino](http://twitter.com/search?q=Galdino) | Galdino is a Portuguese name derived from the Latin name Galdinus, which means “ruler of the people”. It is also a variant of the Italian name Gualdino, which has the same meaning. |
-| 31 | [#AMagiaAconteceNoBBB](http://twitter.com/search?q=%23AMagiaAconteceNoBBB) | N/A |
-| 32 | [#copadobrasilnoprimevideo](http://twitter.com/search?q=%23copadobrasilnoprimevideo) | N/A |
-| 33 | [Duda Garbi](http://twitter.com/search?q=Duda+Garbi) | N/A |
-| 34 | [FAZ O PIX](http://twitter.com/search?q=FAZ+O+PIX) | N/A |
-| 35 | [Cicinho](http://twitter.com/search?q=Cicinho) | Cicinho is a Portuguese nickname meaning "little one". It is often used as a term of endearment. |
-| 36 | [Big Fone](http://twitter.com/search?q=Big+Fone) | Big Fone is a slang term used to refer to a large, expensive mobile phone. It is often used to describe a phone that is seen as being luxurious or ostentatious. |
-| 37 | [Mineirão](http://twitter.com/search?q=Mineir%c3%a3o) | Mineirão is a football stadium located in Belo Horizonte, Brazil. It is the home of the Cruzeiro Esporte Clube and Atlético Mineiro football clubs. The name Mineirão is a reference to the state of Minas Gerais, where Belo Horizonte is located. In English, Mineirão translates to "Big Mineiro". |
-| 38 | [Rômulo Mendonça](http://twitter.com/search?q=R%c3%b4mulo+Mendon%c3%a7a) | Rômulo Mendonça is a Brazilian surname. It is derived from the Latin name Romulus, which means "strong" or "courageous". In English, the name could be translated as "strong and brave Mendonça". |
-| 39 | [Creusa](http://twitter.com/search?q=Creusa) | N/A |
-| 40 | [Bahia de Feira](http://twitter.com/search?q=Bahia+de+Feira) | N/A |
-| 41 | [Luciano Juba](http://twitter.com/search?q=Luciano+Juba) | N/A |
-| 42 | [Heyoon](http://twitter.com/search?q=Heyoon) | N/A |
-| 43 | [ORDEM TRÊS ANOS](http://twitter.com/search?q=ORDEM+TR%c3%8aS+ANOS) | N/A |
-| 44 | [Lauren](http://twitter.com/search?q=Lauren) | N/A |
-| 45 | [sofia santino](http://twitter.com/search?q=sofia+santino) | N/A |
-| 46 | [Shivani](http://twitter.com/search?q=Shivani) | N/A |
-| 47 | [all of the girls](http://twitter.com/search?q=all+of+the+girls) | N/A |
-| 48 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 49 | [tinashe](http://twitter.com/search?q=tinashe) | N/A |
-| 50 | [Kevin Durant](http://twitter.com/search?q=Kevin+Durant) | Kevin Durant is an American professional basketball player who currently plays for the Brooklyn Nets of the National Basketball Association (NBA). He is a ten-time NBA All-Star and two-time NBA Finals MVP. He has won four NBA scoring titles, the NBA Rookie of the Year Award, and an Olympic gold medal. |
+| 3 | [Arana](http://twitter.com/search?q=Arana) | Arana is a Spanish word meaning "spider". |
+| 4 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 5 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 6 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 7 | [jennie](http://twitter.com/search?q=jennie) | N/A |
+| 8 | [Vargas](http://twitter.com/search?q=Vargas) | Vargas is a Spanish surname derived from the Latin word "varga," which means "wolf." It is also a common given name in Spanish-speaking countries. In English, Vargas can be translated to mean "wolf." |
+| 9 | [Hulk](http://twitter.com/search?q=Hulk) | Hulk is a fictional character created by Marvel Comics. He is a large, green humanoid with superhuman strength and invulnerability. The character first appeared in the comic book The Incredible Hulk #1 in May 1962. His catchphrase is "Hulk Smash!" |
+| 10 | [#AMagiaAconteceNoBBB](http://twitter.com/search?q=%23AMagiaAconteceNoBBB) | N/A |
+| 11 | [#FreeAnitta](http://twitter.com/search?q=%23FreeAnitta) | N/A |
+| 12 | [Patrick](http://twitter.com/search?q=Patrick) | Patrick is a given name derived from the Latin name Patricius, meaning "nobleman". It is a popular name in many English-speaking countries, particularly in Ireland, where it is the third most common male name. |
+| 13 | [Dodô](http://twitter.com/search?q=Dod%c3%b4) | N/A |
+| 14 | [Carabobo](http://twitter.com/search?q=Carabobo) | Carabobo is a state in Venezuela. Its name is derived from the Carabobo tribe, which inhabited the area before the Spanish colonization of the Americas. In English, it means "Valley of the Brave". |
+| 15 | [Nathan Silva](http://twitter.com/search?q=Nathan+Silva) | Nathan Silva is a Portuguese name. It is derived from the Hebrew name Natan, which means "he gave". It can also be translated as "gift of God". |
+| 16 | [Atlético Mineiro](http://twitter.com/search?q=Atl%c3%a9tico+Mineiro) | N/A |
+| 17 | [#TWICE_BreakthroughAward](http://twitter.com/search?q=%23TWICE_BreakthroughAward) | N/A |
+| 18 | [#BBWomenInMusic](http://twitter.com/search?q=%23BBWomenInMusic) | N/A |
+| 19 | [Warner](http://twitter.com/search?q=Warner) | N/A |
+| 20 | [Lemos](http://twitter.com/search?q=Lemos) | N/A |
+| 21 | [Pedrinho](http://twitter.com/search?q=Pedrinho) | Pedrinho is a Portuguese nickname for the name Pedro, which is the Spanish and Portuguese form of Peter. In English, it would be translated to Peter or Pete. |
+| 22 | [Cauly](http://twitter.com/search?q=Cauly) | N/A |
+| 23 | [#LibertadoresNaESPN](http://twitter.com/search?q=%23LibertadoresNaESPN) | N/A |
+| 24 | [Zaracho](http://twitter.com/search?q=Zaracho) | N/A |
+| 25 | [CHIARA VAI CASAR](http://twitter.com/search?q=CHIARA+VAI+CASAR) | N/A |
+| 26 | [Top Artist](http://twitter.com/search?q=Top+Artist) | N/A |
+| 27 | [Top Album](http://twitter.com/search?q=Top+Album) | N/A |
+| 28 | [Top Track](http://twitter.com/search?q=Top+Track) | N/A |
+| 29 | [No. Scrobbles](http://twitter.com/search?q=No.+Scrobbles) | N/A |
+| 30 | [Cristaldo](http://twitter.com/search?q=Cristaldo) | Cristaldo is a Portuguese name derived from the Latin name “Christophorus”, which means “Christ-bearer”. It is a combination of the words “Cristo” (Christ) and “Aldo” (bearer). In English, Cristaldo can be translated to mean "Christ-bearer". |
+| 31 | [Everson](http://twitter.com/search?q=Everson) | Everson is a surname of English origin. It is derived from the Old English personal name Eoforwine, which means "boar friend". |
+| 32 | [Retrô](http://twitter.com/search?q=Retr%c3%b4) | N/A |
+| 33 | [Ferreira](http://twitter.com/search?q=Ferreira) | Ferreira is a Portuguese surname derived from the Latin word ferrum, meaning "iron". It is also a common given name in Portuguese-speaking countries. In English, it can be translated to mean "Ironworker" or "Blacksmith". |
+| 34 | [DEMI THE FINAL ONE](http://twitter.com/search?q=DEMI+THE+FINAL+ONE) | N/A |
+| 35 | [Thiago Santos](http://twitter.com/search?q=Thiago+Santos) | Thiago Santos is a Brazilian mixed martial artist who competes in the Ultimate Fighting Championship (UFC). In English, the name Thiago Santos means "Saint James". |
+| 36 | [David Duarte](http://twitter.com/search?q=David+Duarte) | N/A |
+| 37 | [Lauren](http://twitter.com/search?q=Lauren) | N/A |
+| 38 | [Campinense](http://twitter.com/search?q=Campinense) | N/A |
+| 39 | [Vitor Gabriel](http://twitter.com/search?q=Vitor+Gabriel) | N/A |
+| 40 | [É A RECONSTRUÇÃO DO GIGANTE](http://twitter.com/search?q=%c3%89+A+RECONSTRU%c3%87%c3%83O+DO+GIGANTE) | N/A |
+| 41 | [Galdino](http://twitter.com/search?q=Galdino) | Galdino is a Portuguese name derived from the Latin name Galdinus, which means “ruler of the people”. It is also a variant of the Italian name Gualdino, which has the same meaning. |
+| 42 | [Hina](http://twitter.com/search?q=Hina) | N/A |
+| 43 | [Mineirão](http://twitter.com/search?q=Mineir%c3%a3o) | Mineirão is a football stadium located in Belo Horizonte, Brazil. It is the home of the Cruzeiro Esporte Clube and Atlético Mineiro football clubs. The name Mineirão is a reference to the state of Minas Gerais, where Belo Horizonte is located. In English, Mineirão translates to "Big Mineiro". |
+| 44 | [Villasanti](http://twitter.com/search?q=Villasanti) | Villasanti is a Spanish surname. It is derived from the Latin words villa (town) and sancti (holy). In English, it can be translated to mean "holy town". |
+| 45 | [Suárez](http://twitter.com/search?q=Su%c3%a1rez) | Suárez is a Spanish surname. It is derived from the Latin word "suarius," which means "of the swineherd." In English, it can be translated to mean "swineherd." |
+| 46 | [FAZ O PIX](http://twitter.com/search?q=FAZ+O+PIX) | N/A |
+| 47 | [Cicinho](http://twitter.com/search?q=Cicinho) | Cicinho is a Portuguese nickname meaning "little one". It is often used as a term of endearment. |
+| 48 | [Duda Garbi](http://twitter.com/search?q=Duda+Garbi) | N/A |
+| 49 | [Kevin Durant](http://twitter.com/search?q=Kevin+Durant) | Kevin Durant is an American professional basketball player who currently plays for the Brooklyn Nets of the National Basketball Association (NBA). He is a ten-time NBA All-Star and two-time NBA Finals MVP. He has won four NBA scoring titles, the NBA Rookie of the Year Award, and an Olympic gold medal. |
+| 50 | [sofia santino](http://twitter.com/search?q=sofia+santino) | N/A |
 
 
 
