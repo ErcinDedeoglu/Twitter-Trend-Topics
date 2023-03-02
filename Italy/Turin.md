@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Turin
 
-📆 Last Updated: `2023-03-02 20:17:34 UTC`
+📆 Last Updated: `2023-03-02 21:16:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,50 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#2marzo](http://twitter.com/search?q=%232marzo) | N/A |
-| 2 | [#gfvipparty](http://twitter.com/search?q=%23gfvipparty) | N/A |
-| 3 | [#Mattarella](http://twitter.com/search?q=%23Mattarella) | N/A |
-| 4 | [#Crotone](http://twitter.com/search?q=%23Crotone) | N/A |
-| 5 | [#leredita](http://twitter.com/search?q=%23leredita) | N/A |
-| 6 | [Fontana](http://twitter.com/search?q=Fontana) | N/A |
-| 7 | [Bergamo](http://twitter.com/search?q=Bergamo) | N/A |
-| 8 | [Speranza](http://twitter.com/search?q=Speranza) | N/A |
-| 9 | [Piantedosi](http://twitter.com/search?q=Piantedosi) | N/A |
-| 10 | [Guardia Costiera](http://twitter.com/search?q=Guardia+Costiera) | N/A |
-| 11 | [Grecia](http://twitter.com/search?q=Grecia) | N/A |
-| 12 | [Michela](http://twitter.com/search?q=Michela) | N/A |
-| 13 | [Feltri](http://twitter.com/search?q=Feltri) | N/A |
-| 14 | [Scacciapensieri](http://twitter.com/search?q=Scacciapensieri) | N/A |
-| 15 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
-| 16 | [Pamela](http://twitter.com/search?q=Pamela) | N/A |
-| 17 | [Mimmo](http://twitter.com/search?q=Mimmo) | N/A |
-| 18 | [Grosseto](http://twitter.com/search?q=Grosseto) | N/A |
-| 19 | [Rozzano](http://twitter.com/search?q=Rozzano) | N/A |
-| 20 | [Adani](http://twitter.com/search?q=Adani) | Adani is a multinational conglomerate based in India. It is involved in the development and operation of infrastructure projects such as ports, power plants, and mines. The name Adani is derived from the Sanskrit word "Adan," which means "the beginning." |
-| 21 | [Toscani](http://twitter.com/search?q=Toscani) | N/A |
-| 22 | [Serra](http://twitter.com/search?q=Serra) | N/A |
-| 23 | [Assago](http://twitter.com/search?q=Assago) | N/A |
-| 24 | [Bryansk](http://twitter.com/search?q=Bryansk) | N/A |
-| 25 | [Frontex](http://twitter.com/search?q=Frontex) | N/A |
-| 26 | [Schlein](http://twitter.com/search?q=Schlein) | N/A |
-| 27 | [Eugenio](http://twitter.com/search?q=Eugenio) | N/A |
-| 28 | [Venere](http://twitter.com/search?q=Venere) | N/A |
-| 29 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 30 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 31 | [Otello](http://twitter.com/search?q=Otello) | N/A |
-| 32 | [Martina](http://twitter.com/search?q=Martina) | Martina is a female given name of Latin origin, derived from the name Martinus, which means "of Mars". It is a popular name in many countries, including Italy, Spain, Germany, Austria, and the Czech Republic. In English-speaking countries, it is often used as a short form of the longer name Martina. |
-| 33 | [Ventola](http://twitter.com/search?q=Ventola) | N/A |
-| 34 | [Arcilesbica](http://twitter.com/search?q=Arcilesbica) | N/A |
-| 35 | [Faouzi](http://twitter.com/search?q=Faouzi) | N/A |
-| 36 | [Modi](http://twitter.com/search?q=Modi) | N/A |
-| 37 | [Manuel](http://twitter.com/search?q=Manuel) | N/A |
-| 38 | [Nikita](http://twitter.com/search?q=Nikita) | Nikita is a Russian female name derived from the Greek name Nikētas, meaning “unconquered” or “victory of the people.” It is also a popular name in other countries, including India, where it is spelled Nikitha. |
-| 39 | [Cassano](http://twitter.com/search?q=Cassano) | N/A |
-| 40 | [Clio](http://twitter.com/search?q=Clio) | N/A |
-| 41 | [Lavoriamo](http://twitter.com/search?q=Lavoriamo) | N/A |
-| 42 | [Thiaw](http://twitter.com/search?q=Thiaw) | N/A |
-| 43 | [Maldini](http://twitter.com/search?q=Maldini) | Maldini is a surname of Italian origin. It is derived from the Latin word "maldinus" which means "defender". The name is most famously associated with the Italian football player Paolo Maldini, who played for AC Milan for 25 years. |
-| 44 | [Valsano](http://twitter.com/search?q=Valsano) | N/A |
-| 45 | [Meloni in India](http://twitter.com/search?q=Meloni+in+India) | N/A |
-| 46 | [Indagati](http://twitter.com/search?q=Indagati) | N/A |
-| 47 | [Lamorgese](http://twitter.com/search?q=Lamorgese) | N/A |
-| 48 | [Gohan](http://twitter.com/search?q=Gohan) | Gohan is a Japanese word meaning "meal" or "cooked rice". It is also used to refer to a meal prepared for someone, usually as an offering of hospitality. |
-| 49 | [Rossella](http://twitter.com/search?q=Rossella) | N/A |
-| 50 | [La Maura](http://twitter.com/search?q=La+Maura) | N/A |
+| 1 | [#MasterChefIt](http://twitter.com/search?q=%23MasterChefIt) | #MasterChefIt is an Italian hashtag used to promote the popular cooking show MasterChef Italia. It is used to share recipes, photos, and videos related to the show. In English, it means "MasterChef Italy". |
+| 2 | [#HarryPotter](http://twitter.com/search?q=%23HarryPotter) | N/A |
+| 3 | [#SplendidaCornice](http://twitter.com/search?q=%23SplendidaCornice) | N/A |
+| 4 | [Bubu](http://twitter.com/search?q=Bubu) | N/A |
+| 5 | [Elettra](http://twitter.com/search?q=Elettra) | N/A |
+| 6 | [Lamborghini](http://twitter.com/search?q=Lamborghini) | N/A |
+| 7 | [Mimmo](http://twitter.com/search?q=Mimmo) | N/A |
+| 8 | [Pamela](http://twitter.com/search?q=Pamela) | N/A |
+| 9 | [Damiano](http://twitter.com/search?q=Damiano) | N/A |
+| 10 | [Adani](http://twitter.com/search?q=Adani) | Adani is a multinational conglomerate based in India. It is involved in the development and operation of infrastructure projects such as ports, power plants, and mines. The name Adani is derived from the Sanskrit word "Adan," which means "the beginning." |
+| 11 | [Feltri](http://twitter.com/search?q=Feltri) | N/A |
+| 12 | [Grosseto](http://twitter.com/search?q=Grosseto) | N/A |
+| 13 | [Manuel](http://twitter.com/search?q=Manuel) | N/A |
+| 14 | [Michela](http://twitter.com/search?q=Michela) | N/A |
+| 15 | [Grazie Presidente](http://twitter.com/search?q=Grazie+Presidente) | N/A |
+| 16 | [Cassano](http://twitter.com/search?q=Cassano) | N/A |
+| 17 | [Dante](http://twitter.com/search?q=Dante) | N/A |
+| 18 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
+| 19 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 20 | [Viola](http://twitter.com/search?q=Viola) | N/A |
+| 21 | [Giove](http://twitter.com/search?q=Giove) | N/A |
+| 22 | [Gallera](http://twitter.com/search?q=Gallera) | N/A |
+| 23 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
+| 24 | [Conte e Speranza](http://twitter.com/search?q=Conte+e+Speranza) | N/A |
+| 25 | [Procura](http://twitter.com/search?q=Procura) | N/A |
+| 26 | [#gfvipparty](http://twitter.com/search?q=%23gfvipparty) | N/A |
+| 27 | [#piazzapulita](http://twitter.com/search?q=%23piazzapulita) | N/A |
+| 28 | [#DrittoeRovescio](http://twitter.com/search?q=%23DrittoeRovescio) | N/A |
+| 29 | [#upas](http://twitter.com/search?q=%23upas) | N/A |
+| 30 | [#NextGenVicenza](http://twitter.com/search?q=%23NextGenVicenza) | N/A |
+| 31 | [#Rampelli](http://twitter.com/search?q=%23Rampelli) | N/A |
+| 32 | [#RealMadridBarcelona](http://twitter.com/search?q=%23RealMadridBarcelona) | N/A |
+| 33 | [#JuveNextGen](http://twitter.com/search?q=%23JuveNextGen) | N/A |
+| 34 | [#WayneShorter](http://twitter.com/search?q=%23WayneShorter) | N/A |
+| 35 | [#StaseraItalia](http://twitter.com/search?q=%23StaseraItalia) | N/A |
+| 36 | [#blob](http://twitter.com/search?q=%23blob) | N/A |
+| 37 | [#lockdown](http://twitter.com/search?q=%23lockdown) | N/A |
+| 38 | [#DontForgetTheLyrics](http://twitter.com/search?q=%23DontForgetTheLyrics) | N/A |
+| 39 | [#Mattarella](http://twitter.com/search?q=%23Mattarella) | N/A |
+| 40 | [#VivarelliColonna](http://twitter.com/search?q=%23VivarelliColonna) | N/A |
+| 41 | [#naufragioCrotone](http://twitter.com/search?q=%23naufragioCrotone) | N/A |
+| 42 | [#Cardinale](http://twitter.com/search?q=%23Cardinale) | N/A |
+| 43 | [#Bergamo](http://twitter.com/search?q=%23Bergamo) | N/A |
+| 44 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
 
 
 

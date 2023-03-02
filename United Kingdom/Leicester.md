@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Leicester
 
-📆 Last Updated: `2023-03-02 20:17:16 UTC`
+📆 Last Updated: `2023-03-02 21:16:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,52 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#tippingpoint](http://twitter.com/search?q=%23tippingpoint) | N/A |
-| 2 | [#books](http://twitter.com/search?q=%23books) | N/A |
-| 3 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 4 | [My President](http://twitter.com/search?q=My+President) | N/A |
-| 5 | [#ntsummit](http://twitter.com/search?q=%23ntsummit) | N/A |
-| 6 | [Lee Anderson](http://twitter.com/search?q=Lee+Anderson) | N/A |
-| 7 | [#teachers](http://twitter.com/search?q=%23teachers) | N/A |
-| 8 | [Sue Gray](http://twitter.com/search?q=Sue+Gray) | N/A |
-| 9 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
-| 10 | [Partygate](http://twitter.com/search?q=Partygate) | N/A |
-| 11 | [Venus and Jupiter](http://twitter.com/search?q=Venus+and+Jupiter) | N/A |
-| 12 | [Steve Mackey](http://twitter.com/search?q=Steve+Mackey) | N/A |
-| 13 | [Civil Service](http://twitter.com/search?q=Civil+Service) | N/A |
-| 14 | [Simon Case](http://twitter.com/search?q=Simon+Case) | N/A |
-| 15 | [Pulp](http://twitter.com/search?q=Pulp) | N/A |
-| 16 | [David Frost](http://twitter.com/search?q=David+Frost) | N/A |
-| 17 | [John Swinney](http://twitter.com/search?q=John+Swinney) | N/A |
-| 18 | [Chief of Staff](http://twitter.com/search?q=Chief+of+Staff) | N/A |
-| 19 | [Alex Salmond](http://twitter.com/search?q=Alex+Salmond) | N/A |
-| 20 | [Civil Servant](http://twitter.com/search?q=Civil+Servant) | N/A |
-| 21 | [ACOBA](http://twitter.com/search?q=ACOBA) | N/A |
-| 22 | [Manchester Arena](http://twitter.com/search?q=Manchester+Arena) | N/A |
-| 23 | [Tom Harwood](http://twitter.com/search?q=Tom+Harwood) | N/A |
-| 24 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 25 | [Mogg](http://twitter.com/search?q=Mogg) | N/A |
-| 26 | [The Tiger Who Came to Tea](http://twitter.com/search?q=The+Tiger+Who+Came+to+Tea) | N/A |
-| 27 | [Cabinet Office](http://twitter.com/search?q=Cabinet+Office) | N/A |
-| 28 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
-| 29 | [Durham](http://twitter.com/search?q=Durham) | N/A |
-| 30 | [Nadine](http://twitter.com/search?q=Nadine) | Nadine is a female given name of French origin, derived from the name Nadia. It is a variant of the name Nadia, which is derived from the Russian name Nadezhda, meaning “hope”. |
-| 31 | [30p Lee](http://twitter.com/search?q=30p+Lee) | N/A |
-| 32 | [Salman Abedi](http://twitter.com/search?q=Salman+Abedi) | N/A |
-| 33 | [Hershey](http://twitter.com/search?q=Hershey) | N/A |
-| 34 | [Year 5](http://twitter.com/search?q=Year+5) | N/A |
-| 35 | [McDonalds](http://twitter.com/search?q=McDonalds) | N/A |
-| 36 | [Isabel](http://twitter.com/search?q=Isabel) | N/A |
-| 37 | [George Russell](http://twitter.com/search?q=George+Russell) | N/A |
-| 38 | [Lockdown](http://twitter.com/search?q=Lockdown) | N/A |
-| 39 | [Rats](http://twitter.com/search?q=Rats) | N/A |
-| 40 | [BoJo](http://twitter.com/search?q=BoJo) | N/A |
-| 41 | [Reception](http://twitter.com/search?q=Reception) | N/A |
-| 42 | [Wally](http://twitter.com/search?q=Wally) | N/A |
-| 43 | [New IRA](http://twitter.com/search?q=New+IRA) | N/A |
-| 44 | [GDPR](http://twitter.com/search?q=GDPR) | N/A |
-| 45 | [Wo Long](http://twitter.com/search?q=Wo+Long) | N/A |
-| 46 | [Badenoch](http://twitter.com/search?q=Badenoch) | N/A |
+| 1 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
+| 2 | [Year 2](http://twitter.com/search?q=Year+2) | N/A |
+| 3 | [Nursery](http://twitter.com/search?q=Nursery) | N/A |
+| 4 | [Green Party](http://twitter.com/search?q=Green+Party) | N/A |
+| 5 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
+| 6 | [#HarryPotter](http://twitter.com/search?q=%23HarryPotter) | N/A |
+| 7 | [Badenoch](http://twitter.com/search?q=Badenoch) | N/A |
+| 8 | [Reception](http://twitter.com/search?q=Reception) | N/A |
+| 9 | [Sue Gray](http://twitter.com/search?q=Sue+Gray) | N/A |
+| 10 | [#dragonsden](http://twitter.com/search?q=%23dragonsden) | N/A |
+| 11 | [#Corrie](http://twitter.com/search?q=%23Corrie) | N/A |
+| 12 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
+| 13 | [Partygate](http://twitter.com/search?q=Partygate) | N/A |
+| 14 | [Touker](http://twitter.com/search?q=Touker) | N/A |
+| 15 | [Warrington](http://twitter.com/search?q=Warrington) | N/A |
+| 16 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 17 | [Civil Service](http://twitter.com/search?q=Civil+Service) | N/A |
+| 18 | [Simon Case](http://twitter.com/search?q=Simon+Case) | N/A |
+| 19 | [Tom Harwood](http://twitter.com/search?q=Tom+Harwood) | N/A |
+| 20 | [Venus and Jupiter](http://twitter.com/search?q=Venus+and+Jupiter) | N/A |
+| 21 | [Salford](http://twitter.com/search?q=Salford) | N/A |
+| 22 | [Steve Mackey](http://twitter.com/search?q=Steve+Mackey) | N/A |
+| 23 | [David Frost](http://twitter.com/search?q=David+Frost) | N/A |
+| 24 | [Elaine](http://twitter.com/search?q=Elaine) | N/A |
+| 25 | [Pulp](http://twitter.com/search?q=Pulp) | N/A |
+| 26 | [John Swinney](http://twitter.com/search?q=John+Swinney) | N/A |
+| 27 | [Sapnap](http://twitter.com/search?q=Sapnap) | Sapnap is an online gaming personality and content creator. His real name is Noah McBeth and he is best known for his Minecraft videos on YouTube and Twitch. The name Sapnap is derived from the phrase "Snap Nap," which refers to taking a quick nap during a gaming session. |
+| 28 | [Whitney](http://twitter.com/search?q=Whitney) | N/A |
+| 29 | [Downing Street](http://twitter.com/search?q=Downing+Street) | N/A |
+| 30 | [Chief of Staff](http://twitter.com/search?q=Chief+of+Staff) | N/A |
+| 31 | [Alex Salmond](http://twitter.com/search?q=Alex+Salmond) | N/A |
+| 32 | [Durham](http://twitter.com/search?q=Durham) | N/A |
+| 33 | [Zack](http://twitter.com/search?q=Zack) | N/A |
+| 34 | [ACOBA](http://twitter.com/search?q=ACOBA) | N/A |
+| 35 | [Mogg](http://twitter.com/search?q=Mogg) | N/A |
+| 36 | [The Tiger Who Came to Tea](http://twitter.com/search?q=The+Tiger+Who+Came+to+Tea) | N/A |
+| 37 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 38 | [Manchester Arena](http://twitter.com/search?q=Manchester+Arena) | N/A |
+| 39 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
+| 40 | [30p Lee](http://twitter.com/search?q=30p+Lee) | N/A |
+| 41 | [Lord Frost](http://twitter.com/search?q=Lord+Frost) | N/A |
+| 42 | [Nadine Dorries](http://twitter.com/search?q=Nadine+Dorries) | N/A |
+| 43 | [madison](http://twitter.com/search?q=madison) | N/A |
+| 44 | [Salman Abedi](http://twitter.com/search?q=Salman+Abedi) | N/A |
+| 45 | [George Russell](http://twitter.com/search?q=George+Russell) | N/A |
+| 46 | [Lockdown](http://twitter.com/search?q=Lockdown) | N/A |
 
 
 

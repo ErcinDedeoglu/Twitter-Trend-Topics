@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quebec
 
-📆 Last Updated: `2023-03-02 20:17:13 UTC`
+📆 Last Updated: `2023-03-02 21:16:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Canada](</Canada>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Hronek](http://twitter.com/search?q=Hronek) | N/A |
-| 2 | [#Flames1stGoal](http://twitter.com/search?q=%23Flames1stGoal) | N/A |
+| 2 | [Kesselring](http://twitter.com/search?q=Kesselring) | N/A |
 | 3 | [#TrudeauChineseElect](http://twitter.com/search?q=%23TrudeauChineseElect) | N/A |
-| 4 | [Chychrun](http://twitter.com/search?q=Chychrun) | N/A |
-| 5 | [Bertuzzi](http://twitter.com/search?q=Bertuzzi) | N/A |
+| 4 | [Bertuzzi](http://twitter.com/search?q=Bertuzzi) | N/A |
+| 5 | [Chychrun](http://twitter.com/search?q=Chychrun) | N/A |
 | 6 | [Nuge](http://twitter.com/search?q=Nuge) | N/A |
 | 7 | [Holl](http://twitter.com/search?q=Holl) | N/A |
-| 8 | [#BoycottHersheys](http://twitter.com/search?q=%23BoycottHersheys) | N/A |
-| 9 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
-| 10 | [Trudeau Foundation](http://twitter.com/search?q=Trudeau+Foundation) | N/A |
+| 8 | [Bjugstad](http://twitter.com/search?q=Bjugstad) | N/A |
+| 9 | [#Flames1stGoal](http://twitter.com/search?q=%23Flames1stGoal) | N/A |
+| 10 | [#BoycottHersheys](http://twitter.com/search?q=%23BoycottHersheys) | N/A |
 | 11 | [#WorldBookDay](http://twitter.com/search?q=%23WorldBookDay) | N/A |
 | 12 | [Canucks](http://twitter.com/search?q=Canucks) | Canucks is a slang term for Canadians. It is derived from the word "Canadian" and is often used in a jocular or affectionate manner. |
-| 13 | [jcole](http://twitter.com/search?q=jcole) | N/A |
-| 14 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
-| 15 | [Arizona](http://twitter.com/search?q=Arizona) | N/A |
-| 16 | [Tom Wilson](http://twitter.com/search?q=Tom+Wilson) | N/A |
-| 17 | [Pikamee](http://twitter.com/search?q=Pikamee) | N/A |
-| 18 | [Ekholm](http://twitter.com/search?q=Ekholm) | N/A |
-| 19 | [Logan Stanley](http://twitter.com/search?q=Logan+Stanley) | N/A |
-| 20 | [Jonathan Quick](http://twitter.com/search?q=Jonathan+Quick) | N/A |
-| 21 | [Nate Pearson](http://twitter.com/search?q=Nate+Pearson) | N/A |
-| 22 | [sam levinson](http://twitter.com/search?q=sam+levinson) | N/A |
-| 23 | [LTIR](http://twitter.com/search?q=LTIR) | N/A |
-| 24 | [Granlund](http://twitter.com/search?q=Granlund) | N/A |
-| 25 | [Manoah](http://twitter.com/search?q=Manoah) | N/A |
-| 26 | [McDavid](http://twitter.com/search?q=McDavid) | McDavid is a brand of sports equipment and apparel, named after the Canadian hockey player Connor McDavid. The company produces protective gear, such as hockey helmets and shoulder pads, as well as clothing and accessories. |
-| 27 | [Yzerman](http://twitter.com/search?q=Yzerman) | N/A |
-| 28 | [Rielly](http://twitter.com/search?q=Rielly) | N/A |
-| 29 | [Voracek](http://twitter.com/search?q=Voracek) | N/A |
-| 30 | [Boston](http://twitter.com/search?q=Boston) | Boston is the capital and most populous city of the Commonwealth of Massachusetts in the United States. It is one of the oldest cities in the United States, founded in 1630 by Puritan settlers from England. The city is known for its rich history, culture, and educational institutions. It is also home to many world-renowned museums, universities, and hospitals. |
-| 31 | [CSIS](http://twitter.com/search?q=CSIS) | N/A |
-| 32 | [Hughes](http://twitter.com/search?q=Hughes) | Hughes is a surname of Welsh origin. It is derived from the Welsh personal name "Hugh," which is derived from the Germanic elements "hug" meaning "heart, mind, spirit" and "heil" meaning "brave, strong." |
-| 33 | [Frogmore](http://twitter.com/search?q=Frogmore) | N/A |
-| 34 | [Jupiter and Venus](http://twitter.com/search?q=Jupiter+and+Venus) | N/A |
-| 35 | [International Women's Day](http://twitter.com/search?q=International+Women%27s+Day) | N/A |
-| 36 | [Beijing](http://twitter.com/search?q=Beijing) | N/A |
-| 37 | [Grogu](http://twitter.com/search?q=Grogu) | N/A |
-| 38 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
-| 39 | [Hall](http://twitter.com/search?q=Hall) | Hall is a noun that refers to a large room or area used for meetings, receptions, or other events. It can also refer to an entranceway or corridor in a building. |
-| 40 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 41 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
-| 42 | [Pierre Dorion](http://twitter.com/search?q=Pierre+Dorion) | N/A |
-| 43 | [David Pastrnak](http://twitter.com/search?q=David+Pastrnak) | N/A |
-| 44 | [Crouse](http://twitter.com/search?q=Crouse) | N/A |
-| 45 | [Hobbs](http://twitter.com/search?q=Hobbs) | N/A |
-| 46 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 47 | [Barrie](http://twitter.com/search?q=Barrie) | N/A |
-| 48 | [Matthews](http://twitter.com/search?q=Matthews) | N/A |
-| 49 | [Dubas](http://twitter.com/search?q=Dubas) | N/A |
+| 13 | [Arizona](http://twitter.com/search?q=Arizona) | N/A |
+| 14 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
+| 15 | [Trudeau Foundation](http://twitter.com/search?q=Trudeau+Foundation) | N/A |
+| 16 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 17 | [jcole](http://twitter.com/search?q=jcole) | N/A |
+| 18 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
+| 19 | [Jonathan Quick](http://twitter.com/search?q=Jonathan+Quick) | N/A |
+| 20 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 21 | [Tom Wilson](http://twitter.com/search?q=Tom+Wilson) | N/A |
+| 22 | [Pikamee](http://twitter.com/search?q=Pikamee) | N/A |
+| 23 | [Ekholm](http://twitter.com/search?q=Ekholm) | N/A |
+| 24 | [sam levinson](http://twitter.com/search?q=sam+levinson) | N/A |
+| 25 | [BAMBOLA HIMNO AVATRICE](http://twitter.com/search?q=BAMBOLA+HIMNO+AVATRICE) | N/A |
+| 26 | [Granlund](http://twitter.com/search?q=Granlund) | N/A |
+| 27 | [LTIR](http://twitter.com/search?q=LTIR) | N/A |
+| 28 | [Hughes](http://twitter.com/search?q=Hughes) | Hughes is a surname of Welsh origin. It is derived from the Welsh personal name "Hugh," which is derived from the Germanic elements "hug" meaning "heart, mind, spirit" and "heil" meaning "brave, strong." |
+| 29 | [Caryma](http://twitter.com/search?q=Caryma) | N/A |
+| 30 | [Domi](http://twitter.com/search?q=Domi) | Domi is a Japanese term that means "dominance" or "dominant." It is often used to describe someone who is strong, powerful, and in control. |
+| 31 | [Yzerman](http://twitter.com/search?q=Yzerman) | N/A |
+| 32 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 33 | [CSIS](http://twitter.com/search?q=CSIS) | N/A |
+| 34 | [Rielly](http://twitter.com/search?q=Rielly) | N/A |
+| 35 | [Frogmore](http://twitter.com/search?q=Frogmore) | N/A |
+| 36 | [McDavid](http://twitter.com/search?q=McDavid) | McDavid is a brand of sports equipment and apparel, named after the Canadian hockey player Connor McDavid. The company produces protective gear, such as hockey helmets and shoulder pads, as well as clothing and accessories. |
+| 37 | [Beijing](http://twitter.com/search?q=Beijing) | N/A |
+| 38 | [Crouse](http://twitter.com/search?q=Crouse) | N/A |
+| 39 | [Boston](http://twitter.com/search?q=Boston) | Boston is the capital and most populous city of the Commonwealth of Massachusetts in the United States. It is one of the oldest cities in the United States, founded in 1630 by Puritan settlers from England. The city is known for its rich history, culture, and educational institutions. It is also home to many world-renowned museums, universities, and hospitals. |
+| 40 | [Grogu](http://twitter.com/search?q=Grogu) | N/A |
+| 41 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 42 | [Jupiter and Venus](http://twitter.com/search?q=Jupiter+and+Venus) | N/A |
+| 43 | [International Women's Day](http://twitter.com/search?q=International+Women%27s+Day) | N/A |
+| 44 | [Hall](http://twitter.com/search?q=Hall) | Hall is a noun that refers to a large room or area used for meetings, receptions, or other events. It can also refer to an entranceway or corridor in a building. |
+| 45 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
+| 46 | [Logan Stanley](http://twitter.com/search?q=Logan+Stanley) | N/A |
+| 47 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
+| 48 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 49 | [David Pastrnak](http://twitter.com/search?q=David+Pastrnak) | N/A |
 
 
 

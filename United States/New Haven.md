@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Haven
 
-📆 Last Updated: `2023-03-02 20:18:09 UTC`
+📆 Last Updated: `2023-03-02 21:16:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,47 +17,47 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [#WhyIChime](http://twitter.com/search?q=%23WhyIChime) | N/A |
 | 2 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
-| 3 | [#ReadAcrossAmericaDay](http://twitter.com/search?q=%23ReadAcrossAmericaDay) | N/A |
-| 4 | [Hershey](http://twitter.com/search?q=Hershey) | N/A |
-| 5 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
-| 6 | [Jerry Richardson](http://twitter.com/search?q=Jerry+Richardson) | N/A |
-| 7 | [Bostic](http://twitter.com/search?q=Bostic) | N/A |
-| 8 | [Haunted Mansion](http://twitter.com/search?q=Haunted+Mansion) | N/A |
-| 9 | [Volpe](http://twitter.com/search?q=Volpe) | N/A |
-| 10 | [Dr. Seuss](http://twitter.com/search?q=Dr.+Seuss) | N/A |
-| 11 | [Bateman](http://twitter.com/search?q=Bateman) | N/A |
-| 12 | [BAMBOLA HIMNO AVATRICE](http://twitter.com/search?q=BAMBOLA+HIMNO+AVATRICE) | N/A |
-| 13 | [House Ethics Committee](http://twitter.com/search?q=House+Ethics+Committee) | N/A |
-| 14 | [Rep. George Santos](http://twitter.com/search?q=Rep.+George+Santos) | N/A |
-| 15 | [Justice Department](http://twitter.com/search?q=Justice+Department) | N/A |
-| 16 | [Meadors](http://twitter.com/search?q=Meadors) | N/A |
-| 17 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 18 | [Discover](http://twitter.com/search?q=Discover) | N/A |
-| 19 | [AI NFT](http://twitter.com/search?q=AI+NFT) | N/A |
-| 20 | [Kimmel](http://twitter.com/search?q=Kimmel) | N/A |
-| 21 | [Texas Independence Day](http://twitter.com/search?q=Texas+Independence+Day) | N/A |
-| 22 | [Nelly](http://twitter.com/search?q=Nelly) | Nelly is a nickname for the female given name Eleanor, which is derived from the Greek name Helenē, meaning “light” or “bright one.” It can also be used as a diminutive form of the name Cornelia. |
-| 23 | [Hellboy](http://twitter.com/search?q=Hellboy) | N/A |
-| 24 | [LTIR](http://twitter.com/search?q=LTIR) | N/A |
-| 25 | [Weather Report](http://twitter.com/search?q=Weather+Report) | N/A |
-| 26 | [Chaka](http://twitter.com/search?q=Chaka) | N/A |
-| 27 | [Jim Griffin](http://twitter.com/search?q=Jim+Griffin) | N/A |
-| 28 | [Kiriko](http://twitter.com/search?q=Kiriko) | N/A |
-| 29 | [Bayesian](http://twitter.com/search?q=Bayesian) | N/A |
-| 30 | [Bertuzzi](http://twitter.com/search?q=Bertuzzi) | N/A |
-| 31 | [Morgan Wallen](http://twitter.com/search?q=Morgan+Wallen) | N/A |
-| 32 | [Carolinas](http://twitter.com/search?q=Carolinas) | N/A |
-| 33 | [Christian Arroyo](http://twitter.com/search?q=Christian+Arroyo) | N/A |
-| 34 | [Jonathan Quick](http://twitter.com/search?q=Jonathan+Quick) | N/A |
-| 35 | [Wandy](http://twitter.com/search?q=Wandy) | N/A |
-| 36 | [Meghan Trainor](http://twitter.com/search?q=Meghan+Trainor) | N/A |
-| 37 | [South Alabama](http://twitter.com/search?q=South+Alabama) | South Alabama is a region in the southeastern United States that includes the states of Alabama, Mississippi, and Florida. It is known for its diverse culture, rich history, and beautiful beaches. The term "South Alabama" is often used to refer to the entire region, but it can also be used to refer specifically to the state of Alabama. |
-| 38 | [Eli White](http://twitter.com/search?q=Eli+White) | N/A |
-| 39 | [Manchin](http://twitter.com/search?q=Manchin) | N/A |
-| 40 | [Waino](http://twitter.com/search?q=Waino) | N/A |
-| 41 | [Next Level Chef](http://twitter.com/search?q=Next+Level+Chef) | N/A |
-| 42 | [Pasta](http://twitter.com/search?q=Pasta) | N/A |
-| 43 | [Scoot Henderson](http://twitter.com/search?q=Scoot+Henderson) | N/A |
+| 3 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 4 | [#ReadAcrossAmericaDay](http://twitter.com/search?q=%23ReadAcrossAmericaDay) | N/A |
+| 5 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 6 | [Hershey](http://twitter.com/search?q=Hershey) | N/A |
+| 7 | [Jerome Boger](http://twitter.com/search?q=Jerome+Boger) | N/A |
+| 8 | [Calijah Kancey](http://twitter.com/search?q=Calijah+Kancey) | N/A |
+| 9 | [Jerry Richardson](http://twitter.com/search?q=Jerry+Richardson) | N/A |
+| 10 | [Bostic](http://twitter.com/search?q=Bostic) | N/A |
+| 11 | [House Ethics Committee](http://twitter.com/search?q=House+Ethics+Committee) | N/A |
+| 12 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
+| 13 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 14 | [BAMBOLA HIMNO AVATRICE](http://twitter.com/search?q=BAMBOLA+HIMNO+AVATRICE) | N/A |
+| 15 | [Haunted Mansion](http://twitter.com/search?q=Haunted+Mansion) | N/A |
+| 16 | [Rep. George Santos](http://twitter.com/search?q=Rep.+George+Santos) | N/A |
+| 17 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
+| 18 | [Dr. Seuss](http://twitter.com/search?q=Dr.+Seuss) | N/A |
+| 19 | [De Jong](http://twitter.com/search?q=De+Jong) | De Jong is a Dutch surname. It is derived from the personal name Jan, which is a form of John. The literal meaning of the name in English is "son of John". |
+| 20 | [Justice Department](http://twitter.com/search?q=Justice+Department) | N/A |
+| 21 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
+| 22 | [Jalen Redmond](http://twitter.com/search?q=Jalen+Redmond) | N/A |
+| 23 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
+| 24 | [Volpe](http://twitter.com/search?q=Volpe) | N/A |
+| 25 | [Bryan Bresee](http://twitter.com/search?q=Bryan+Bresee) | N/A |
+| 26 | [Gervon Dexter](http://twitter.com/search?q=Gervon+Dexter) | N/A |
+| 27 | [AI NFT](http://twitter.com/search?q=AI+NFT) | N/A |
+| 28 | [Morgan Wallen](http://twitter.com/search?q=Morgan+Wallen) | N/A |
+| 29 | [Bateman](http://twitter.com/search?q=Bateman) | N/A |
+| 30 | [Jonathan Quick](http://twitter.com/search?q=Jonathan+Quick) | N/A |
+| 31 | [Tuberville](http://twitter.com/search?q=Tuberville) | N/A |
+| 32 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
+| 33 | [Nelly](http://twitter.com/search?q=Nelly) | Nelly is a nickname for the female given name Eleanor, which is derived from the Greek name Helenē, meaning “light” or “bright one.” It can also be used as a diminutive form of the name Cornelia. |
+| 34 | [Kimmel](http://twitter.com/search?q=Kimmel) | N/A |
+| 35 | [Discover](http://twitter.com/search?q=Discover) | N/A |
+| 36 | [Meadors](http://twitter.com/search?q=Meadors) | N/A |
+| 37 | [Scoot Henderson](http://twitter.com/search?q=Scoot+Henderson) | N/A |
+| 38 | [Wandy Peralta](http://twitter.com/search?q=Wandy+Peralta) | N/A |
+| 39 | [Weather Report](http://twitter.com/search?q=Weather+Report) | N/A |
+| 40 | [Rubius](http://twitter.com/search?q=Rubius) | Rubius is a Latin word meaning "red". It is often used to describe the color of hair, eyes, or skin. |
+| 41 | [Hellboy](http://twitter.com/search?q=Hellboy) | N/A |
+| 42 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
+| 43 | [Kiriko](http://twitter.com/search?q=Kiriko) | N/A |
 
 
 

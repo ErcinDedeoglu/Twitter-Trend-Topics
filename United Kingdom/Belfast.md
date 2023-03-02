@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belfast
 
-📆 Last Updated: `2023-03-02 20:17:18 UTC`
+📆 Last Updated: `2023-03-02 21:16:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Sue Gray](http://twitter.com/search?q=Sue+Gray) | N/A |
-| 2 | [#WorldBookDay2023](http://twitter.com/search?q=%23WorldBookDay2023) | N/A |
-| 3 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
-| 4 | [Partygate](http://twitter.com/search?q=Partygate) | N/A |
-| 5 | [Venus and Jupiter](http://twitter.com/search?q=Venus+and+Jupiter) | N/A |
-| 6 | [Steve Mackey](http://twitter.com/search?q=Steve+Mackey) | N/A |
-| 7 | [Civil Service](http://twitter.com/search?q=Civil+Service) | N/A |
-| 8 | [Simon Case](http://twitter.com/search?q=Simon+Case) | N/A |
-| 9 | [#PremierLeagueDarts](http://twitter.com/search?q=%23PremierLeagueDarts) | N/A |
-| 10 | [#TheChase](http://twitter.com/search?q=%23TheChase) | N/A |
-| 11 | [Pulp](http://twitter.com/search?q=Pulp) | N/A |
-| 12 | [#ElClasico](http://twitter.com/search?q=%23ElClasico) | #ElClasico is a term used to refer to the football (soccer) match between two of the biggest clubs in Spain, Real Madrid and FC Barcelona. It is one of the most highly anticipated matches in world football and is considered to be one of the greatest rivalries in sport. In English, it translates to "The Classic". |
-| 13 | [David Frost](http://twitter.com/search?q=David+Frost) | N/A |
-| 14 | [John Swinney](http://twitter.com/search?q=John+Swinney) | N/A |
-| 15 | [#houseofgames](http://twitter.com/search?q=%23houseofgames) | N/A |
-| 16 | [Chief of Staff](http://twitter.com/search?q=Chief+of+Staff) | N/A |
-| 17 | [Alex Salmond](http://twitter.com/search?q=Alex+Salmond) | N/A |
-| 18 | [Civil Servant](http://twitter.com/search?q=Civil+Servant) | N/A |
-| 19 | [ACOBA](http://twitter.com/search?q=ACOBA) | N/A |
-| 20 | [Tom Harwood](http://twitter.com/search?q=Tom+Harwood) | N/A |
-| 21 | [Manchester Arena](http://twitter.com/search?q=Manchester+Arena) | N/A |
-| 22 | [The Tiger Who Came to Tea](http://twitter.com/search?q=The+Tiger+Who+Came+to+Tea) | N/A |
-| 23 | [Mogg](http://twitter.com/search?q=Mogg) | N/A |
-| 24 | [Durham](http://twitter.com/search?q=Durham) | N/A |
-| 25 | [Cabinet Office](http://twitter.com/search?q=Cabinet+Office) | N/A |
-| 26 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
-| 27 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 28 | [Nadine](http://twitter.com/search?q=Nadine) | Nadine is a female given name of French origin, derived from the name Nadia. It is a variant of the name Nadia, which is derived from the Russian name Nadezhda, meaning “hope”. |
-| 29 | [30p Lee](http://twitter.com/search?q=30p+Lee) | N/A |
-| 30 | [Salman Abedi](http://twitter.com/search?q=Salman+Abedi) | N/A |
-| 31 | [Hershey](http://twitter.com/search?q=Hershey) | N/A |
-| 32 | [Year 5](http://twitter.com/search?q=Year+5) | N/A |
-| 33 | [McDonalds](http://twitter.com/search?q=McDonalds) | N/A |
-| 34 | [Isabel](http://twitter.com/search?q=Isabel) | N/A |
-| 35 | [George Russell](http://twitter.com/search?q=George+Russell) | N/A |
-| 36 | [Lockdown](http://twitter.com/search?q=Lockdown) | N/A |
-| 37 | [Rats](http://twitter.com/search?q=Rats) | N/A |
-| 38 | [BoJo](http://twitter.com/search?q=BoJo) | N/A |
-| 39 | [Reception](http://twitter.com/search?q=Reception) | N/A |
-| 40 | [Wally](http://twitter.com/search?q=Wally) | N/A |
-| 41 | [New IRA](http://twitter.com/search?q=New+IRA) | N/A |
-| 42 | [GDPR](http://twitter.com/search?q=GDPR) | N/A |
-| 43 | [Wo Long](http://twitter.com/search?q=Wo+Long) | N/A |
-| 44 | [Badenoch](http://twitter.com/search?q=Badenoch) | N/A |
-| 45 | [Nursery](http://twitter.com/search?q=Nursery) | N/A |
-| 46 | [Kemi](http://twitter.com/search?q=Kemi) | N/A |
-| 47 | [Matilda](http://twitter.com/search?q=Matilda) | Matilda is a female given name of Germanic origin, derived from the words maht (meaning "might, strength") and hild (meaning "battle"). It is often associated with the English queen Matilda of Flanders. The name can also be used as a nickname for Matilda or Mathilde. |
-| 48 | [Alice in Wonderland](http://twitter.com/search?q=Alice+in+Wonderland) | N/A |
-| 49 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
+| 2 | [#dragonsden](http://twitter.com/search?q=%23dragonsden) | N/A |
+| 3 | [#Corrie](http://twitter.com/search?q=%23Corrie) | N/A |
+| 4 | [#WorldBookDay2023](http://twitter.com/search?q=%23WorldBookDay2023) | N/A |
+| 5 | [#SLWarSal](http://twitter.com/search?q=%23SLWarSal) | N/A |
+| 6 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
+| 7 | [#ElClasico](http://twitter.com/search?q=%23ElClasico) | #ElClasico is a term used to refer to the football (soccer) match between two of the biggest clubs in Spain, Real Madrid and FC Barcelona. It is one of the most highly anticipated matches in world football and is considered to be one of the greatest rivalries in sport. In English, it translates to "The Classic". |
+| 8 | [Partygate](http://twitter.com/search?q=Partygate) | N/A |
+| 9 | [Touker](http://twitter.com/search?q=Touker) | N/A |
+| 10 | [Warrington](http://twitter.com/search?q=Warrington) | N/A |
+| 11 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 12 | [Civil Service](http://twitter.com/search?q=Civil+Service) | N/A |
+| 13 | [Simon Case](http://twitter.com/search?q=Simon+Case) | N/A |
+| 14 | [Tom Harwood](http://twitter.com/search?q=Tom+Harwood) | N/A |
+| 15 | [Venus and Jupiter](http://twitter.com/search?q=Venus+and+Jupiter) | N/A |
+| 16 | [Salford](http://twitter.com/search?q=Salford) | N/A |
+| 17 | [Steve Mackey](http://twitter.com/search?q=Steve+Mackey) | N/A |
+| 18 | [David Frost](http://twitter.com/search?q=David+Frost) | N/A |
+| 19 | [Elaine](http://twitter.com/search?q=Elaine) | N/A |
+| 20 | [Pulp](http://twitter.com/search?q=Pulp) | N/A |
+| 21 | [John Swinney](http://twitter.com/search?q=John+Swinney) | N/A |
+| 22 | [Sapnap](http://twitter.com/search?q=Sapnap) | Sapnap is an online gaming personality and content creator. His real name is Noah McBeth and he is best known for his Minecraft videos on YouTube and Twitch. The name Sapnap is derived from the phrase "Snap Nap," which refers to taking a quick nap during a gaming session. |
+| 23 | [Whitney](http://twitter.com/search?q=Whitney) | N/A |
+| 24 | [Downing Street](http://twitter.com/search?q=Downing+Street) | N/A |
+| 25 | [Chief of Staff](http://twitter.com/search?q=Chief+of+Staff) | N/A |
+| 26 | [Alex Salmond](http://twitter.com/search?q=Alex+Salmond) | N/A |
+| 27 | [Durham](http://twitter.com/search?q=Durham) | N/A |
+| 28 | [Zack](http://twitter.com/search?q=Zack) | N/A |
+| 29 | [ACOBA](http://twitter.com/search?q=ACOBA) | N/A |
+| 30 | [Mogg](http://twitter.com/search?q=Mogg) | N/A |
+| 31 | [The Tiger Who Came to Tea](http://twitter.com/search?q=The+Tiger+Who+Came+to+Tea) | N/A |
+| 32 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 33 | [Manchester Arena](http://twitter.com/search?q=Manchester+Arena) | N/A |
+| 34 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
+| 35 | [30p Lee](http://twitter.com/search?q=30p+Lee) | N/A |
+| 36 | [Lord Frost](http://twitter.com/search?q=Lord+Frost) | N/A |
+| 37 | [Nadine Dorries](http://twitter.com/search?q=Nadine+Dorries) | N/A |
+| 38 | [madison](http://twitter.com/search?q=madison) | N/A |
+| 39 | [Salman Abedi](http://twitter.com/search?q=Salman+Abedi) | N/A |
+| 40 | [George Russell](http://twitter.com/search?q=George+Russell) | N/A |
+| 41 | [Lockdown](http://twitter.com/search?q=Lockdown) | N/A |
+| 42 | [BoJo](http://twitter.com/search?q=BoJo) | N/A |
+| 43 | [Rats](http://twitter.com/search?q=Rats) | N/A |
+| 44 | [GDPR](http://twitter.com/search?q=GDPR) | N/A |
+| 45 | [Gane](http://twitter.com/search?q=Gane) | N/A |
+| 46 | [Lee Anderson](http://twitter.com/search?q=Lee+Anderson) | N/A |
+| 47 | [Wally](http://twitter.com/search?q=Wally) | N/A |
+| 48 | [New IRA](http://twitter.com/search?q=New+IRA) | N/A |
+| 49 | [Wo Long](http://twitter.com/search?q=Wo+Long) | N/A |
 
 
 

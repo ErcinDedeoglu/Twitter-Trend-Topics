@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-03-02 20:18:09 UTC`
+📆 Last Updated: `2023-03-02 21:16:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Jason Arno](http://twitter.com/search?q=Jason+Arno) | N/A |
-| 2 | [Omar](http://twitter.com/search?q=Omar) | Omar is a male given name of Arabic origin, meaning "speaker". It is also used as a surname. |
-| 3 | [Mitch](http://twitter.com/search?q=Mitch) | N/A |
-| 4 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
-| 5 | [#WhyIChime](http://twitter.com/search?q=%23WhyIChime) | N/A |
-| 6 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
-| 7 | [#ReadAcrossAmericaDay](http://twitter.com/search?q=%23ReadAcrossAmericaDay) | N/A |
-| 8 | [Hershey](http://twitter.com/search?q=Hershey) | N/A |
-| 9 | [#SaferWithBiden](http://twitter.com/search?q=%23SaferWithBiden) | N/A |
-| 10 | [#MurdaughTrial](http://twitter.com/search?q=%23MurdaughTrial) | N/A |
-| 11 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
-| 12 | [Jerry Richardson](http://twitter.com/search?q=Jerry+Richardson) | N/A |
-| 13 | [Bostic](http://twitter.com/search?q=Bostic) | N/A |
-| 14 | [Haunted Mansion](http://twitter.com/search?q=Haunted+Mansion) | N/A |
-| 15 | [Volpe](http://twitter.com/search?q=Volpe) | N/A |
-| 16 | [Dr. Seuss](http://twitter.com/search?q=Dr.+Seuss) | N/A |
-| 17 | [Bateman](http://twitter.com/search?q=Bateman) | N/A |
-| 18 | [BAMBOLA HIMNO AVATRICE](http://twitter.com/search?q=BAMBOLA+HIMNO+AVATRICE) | N/A |
-| 19 | [House Ethics Committee](http://twitter.com/search?q=House+Ethics+Committee) | N/A |
-| 20 | [#WorldBookDay](http://twitter.com/search?q=%23WorldBookDay) | N/A |
-| 21 | [Rep. George Santos](http://twitter.com/search?q=Rep.+George+Santos) | N/A |
-| 22 | [Justice Department](http://twitter.com/search?q=Justice+Department) | N/A |
-| 23 | [Meadors](http://twitter.com/search?q=Meadors) | N/A |
-| 24 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 25 | [Discover](http://twitter.com/search?q=Discover) | N/A |
-| 26 | [AI NFT](http://twitter.com/search?q=AI+NFT) | N/A |
-| 27 | [Kimmel](http://twitter.com/search?q=Kimmel) | N/A |
-| 28 | [Texas Independence Day](http://twitter.com/search?q=Texas+Independence+Day) | N/A |
-| 29 | [Nelly](http://twitter.com/search?q=Nelly) | Nelly is a nickname for the female given name Eleanor, which is derived from the Greek name Helenē, meaning “light” or “bright one.” It can also be used as a diminutive form of the name Cornelia. |
-| 30 | [Hellboy](http://twitter.com/search?q=Hellboy) | N/A |
-| 31 | [LTIR](http://twitter.com/search?q=LTIR) | N/A |
-| 32 | [Chaka](http://twitter.com/search?q=Chaka) | N/A |
-| 33 | [Weather Report](http://twitter.com/search?q=Weather+Report) | N/A |
-| 34 | [Jim Griffin](http://twitter.com/search?q=Jim+Griffin) | N/A |
-| 35 | [Kiriko](http://twitter.com/search?q=Kiriko) | N/A |
-| 36 | [Bayesian](http://twitter.com/search?q=Bayesian) | N/A |
-| 37 | [Bertuzzi](http://twitter.com/search?q=Bertuzzi) | N/A |
-| 38 | [Morgan Wallen](http://twitter.com/search?q=Morgan+Wallen) | N/A |
-| 39 | [Carolinas](http://twitter.com/search?q=Carolinas) | N/A |
-| 40 | [Christian Arroyo](http://twitter.com/search?q=Christian+Arroyo) | N/A |
-| 41 | [Jonathan Quick](http://twitter.com/search?q=Jonathan+Quick) | N/A |
-| 42 | [Wandy](http://twitter.com/search?q=Wandy) | N/A |
-| 43 | [Meghan Trainor](http://twitter.com/search?q=Meghan+Trainor) | N/A |
-| 44 | [South Alabama](http://twitter.com/search?q=South+Alabama) | South Alabama is a region in the southeastern United States that includes the states of Alabama, Mississippi, and Florida. It is known for its diverse culture, rich history, and beautiful beaches. The term "South Alabama" is often used to refer to the entire region, but it can also be used to refer specifically to the state of Alabama. |
-| 45 | [Eli White](http://twitter.com/search?q=Eli+White) | N/A |
-| 46 | [Manchin](http://twitter.com/search?q=Manchin) | N/A |
-| 47 | [Waino](http://twitter.com/search?q=Waino) | N/A |
-| 48 | [Next Level Chef](http://twitter.com/search?q=Next+Level+Chef) | N/A |
-| 49 | [Pasta](http://twitter.com/search?q=Pasta) | N/A |
-| 50 | [Scoot Henderson](http://twitter.com/search?q=Scoot+Henderson) | N/A |
+| 2 | [Peraza](http://twitter.com/search?q=Peraza) | N/A |
+| 3 | [Donaldson](http://twitter.com/search?q=Donaldson) | N/A |
+| 4 | [Claxton](http://twitter.com/search?q=Claxton) | Claxton is a surname of English origin. It is derived from the Old English words 'claec' meaning clay and 'tun' meaning settlement or farm. The name was originally given to someone who lived near a clay settlement or farm. |
+| 5 | [Mitch](http://twitter.com/search?q=Mitch) | N/A |
+| 6 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
+| 7 | [#WhyIChime](http://twitter.com/search?q=%23WhyIChime) | N/A |
+| 8 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
+| 9 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 10 | [#ReadAcrossAmericaDay](http://twitter.com/search?q=%23ReadAcrossAmericaDay) | N/A |
+| 11 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 12 | [#SaferWithBiden](http://twitter.com/search?q=%23SaferWithBiden) | N/A |
+| 13 | [Hershey](http://twitter.com/search?q=Hershey) | N/A |
+| 14 | [Jerome Boger](http://twitter.com/search?q=Jerome+Boger) | N/A |
+| 15 | [#TSxCapitalOne](http://twitter.com/search?q=%23TSxCapitalOne) | N/A |
+| 16 | [#ElClasico](http://twitter.com/search?q=%23ElClasico) | #ElClasico is a term used to refer to the football (soccer) match between two of the biggest clubs in Spain, Real Madrid and FC Barcelona. It is one of the most highly anticipated matches in world football and is considered to be one of the greatest rivalries in sport. In English, it translates to "The Classic". |
+| 17 | [Calijah Kancey](http://twitter.com/search?q=Calijah+Kancey) | N/A |
+| 18 | [Jerry Richardson](http://twitter.com/search?q=Jerry+Richardson) | N/A |
+| 19 | [Bostic](http://twitter.com/search?q=Bostic) | N/A |
+| 20 | [House Ethics Committee](http://twitter.com/search?q=House+Ethics+Committee) | N/A |
+| 21 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
+| 22 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 23 | [BAMBOLA HIMNO AVATRICE](http://twitter.com/search?q=BAMBOLA+HIMNO+AVATRICE) | N/A |
+| 24 | [Haunted Mansion](http://twitter.com/search?q=Haunted+Mansion) | N/A |
+| 25 | [Rep. George Santos](http://twitter.com/search?q=Rep.+George+Santos) | N/A |
+| 26 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
+| 27 | [Dr. Seuss](http://twitter.com/search?q=Dr.+Seuss) | N/A |
+| 28 | [De Jong](http://twitter.com/search?q=De+Jong) | De Jong is a Dutch surname. It is derived from the personal name Jan, which is a form of John. The literal meaning of the name in English is "son of John". |
+| 29 | [Justice Department](http://twitter.com/search?q=Justice+Department) | N/A |
+| 30 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
+| 31 | [Jalen Redmond](http://twitter.com/search?q=Jalen+Redmond) | N/A |
+| 32 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
+| 33 | [Volpe](http://twitter.com/search?q=Volpe) | N/A |
+| 34 | [Bryan Bresee](http://twitter.com/search?q=Bryan+Bresee) | N/A |
+| 35 | [Gervon Dexter](http://twitter.com/search?q=Gervon+Dexter) | N/A |
+| 36 | [AI NFT](http://twitter.com/search?q=AI+NFT) | N/A |
+| 37 | [Morgan Wallen](http://twitter.com/search?q=Morgan+Wallen) | N/A |
+| 38 | [Bateman](http://twitter.com/search?q=Bateman) | N/A |
+| 39 | [Jonathan Quick](http://twitter.com/search?q=Jonathan+Quick) | N/A |
+| 40 | [Tuberville](http://twitter.com/search?q=Tuberville) | N/A |
+| 41 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
+| 42 | [Nelly](http://twitter.com/search?q=Nelly) | Nelly is a nickname for the female given name Eleanor, which is derived from the Greek name Helenē, meaning “light” or “bright one.” It can also be used as a diminutive form of the name Cornelia. |
+| 43 | [Kimmel](http://twitter.com/search?q=Kimmel) | N/A |
+| 44 | [Discover](http://twitter.com/search?q=Discover) | N/A |
+| 45 | [Meadors](http://twitter.com/search?q=Meadors) | N/A |
+| 46 | [Scoot Henderson](http://twitter.com/search?q=Scoot+Henderson) | N/A |
+| 47 | [Wandy Peralta](http://twitter.com/search?q=Wandy+Peralta) | N/A |
+| 48 | [Weather Report](http://twitter.com/search?q=Weather+Report) | N/A |
+| 49 | [Rubius](http://twitter.com/search?q=Rubius) | Rubius is a Latin word meaning "red". It is often used to describe the color of hair, eyes, or skin. |
+| 50 | [Hellboy](http://twitter.com/search?q=Hellboy) | N/A |
 
 
 

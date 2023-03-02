@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Valparaiso
 
-📆 Last Updated: `2023-03-02 20:17:22 UTC`
+📆 Last Updated: `2023-03-02 21:16:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Chile](</Chile>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Orsini](http://twitter.com/search?q=Orsini) | Orsini is an Italian surname derived from the Latin name Ursinus, meaning "bear-like". It is most commonly associated with the powerful Orsini family of Rome, who were influential in Italian politics during the Middle Ages and Renaissance. |
-| 2 | [#LeyTEA](http://twitter.com/search?q=%23LeyTEA) | N/A |
-| 3 | [Valdivia](http://twitter.com/search?q=Valdivia) | N/A |
-| 4 | [tina](http://twitter.com/search?q=tina) | N/A |
-| 5 | [Petro](http://twitter.com/search?q=Petro) | N/A |
-| 6 | [#CvieneREpublicanos](http://twitter.com/search?q=%23CvieneREpublicanos) | N/A |
-| 7 | [#chileopenxtntsports](http://twitter.com/search?q=%23chileopenxtntsports) | N/A |
-| 8 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
-| 9 | [Winnie the Pooh](http://twitter.com/search?q=Winnie+the+Pooh) | N/A |
-| 10 | [Carabineros](http://twitter.com/search?q=Carabineros) | N/A |
-| 11 | [Palta](http://twitter.com/search?q=Palta) | N/A |
-| 12 | [Daniela Aranguiz](http://twitter.com/search?q=Daniela+Aranguiz) | N/A |
-| 13 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
-| 14 | [Carola](http://twitter.com/search?q=Carola) | Carola is a female given name of Latin origin, derived from the masculine name Carolus, which is the Latin form of Charles. It means "free man" or "strong". |
-| 15 | [Marraqueta](http://twitter.com/search?q=Marraqueta) | N/A |
-| 16 | [Imacec](http://twitter.com/search?q=Imacec) | N/A |
-| 17 | [Generala](http://twitter.com/search?q=Generala) | N/A |
-| 18 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
-| 19 | [Neme](http://twitter.com/search?q=Neme) | N/A |
-| 20 | [Torrealba](http://twitter.com/search?q=Torrealba) | N/A |
-| 21 | [Maldito Fabrizio](http://twitter.com/search?q=Maldito+Fabrizio) | N/A |
-| 22 | [Rancagua](http://twitter.com/search?q=Rancagua) | N/A |
-| 23 | [Trastorno del Espectro Autista](http://twitter.com/search?q=Trastorno+del+Espectro+Autista) | N/A |
-| 24 | [Danito](http://twitter.com/search?q=Danito) | N/A |
-| 25 | [Schwartzman](http://twitter.com/search?q=Schwartzman) | N/A |
-| 26 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
-| 27 | [EXPLICA TU TWITTER](http://twitter.com/search?q=EXPLICA+TU+TWITTER) | N/A |
-| 28 | [twenty one pilots](http://twitter.com/search?q=twenty+one+pilots) | N/A |
-| 29 | [Tompkins](http://twitter.com/search?q=Tompkins) | N/A |
-| 30 | [Batido](http://twitter.com/search?q=Batido) | N/A |
-| 31 | [El PC](http://twitter.com/search?q=El+PC) | N/A |
-| 32 | [Steve Mackey](http://twitter.com/search?q=Steve+Mackey) | N/A |
-| 33 | [jihyo](http://twitter.com/search?q=jihyo) | Jihyo is a Korean given name, usually for females. It is composed of two characters, the first meaning "wisdom" and the second meaning "beauty". In English, it can be translated to mean "wise beauty". |
-| 34 | [La UDI](http://twitter.com/search?q=La+UDI) | N/A |
-| 35 | [Nico Jarry](http://twitter.com/search?q=Nico+Jarry) | N/A |
-| 36 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
-| 37 | [Piñera](http://twitter.com/search?q=Pi%c3%b1era) | N/A |
-| 38 | [Tom Jones](http://twitter.com/search?q=Tom+Jones) | N/A |
-| 39 | [Lautaro de Buin](http://twitter.com/search?q=Lautaro+de+Buin) | N/A |
-| 40 | [Juan Ramón Godoy](http://twitter.com/search?q=Juan+Ram%c3%b3n+Godoy) | N/A |
-| 41 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 42 | [Independiente del Valle](http://twitter.com/search?q=Independiente+del+Valle) | N/A |
-| 43 | [Registro Civil](http://twitter.com/search?q=Registro+Civil) | N/A |
-| 44 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
-| 45 | [Pulp](http://twitter.com/search?q=Pulp) | N/A |
-| 46 | [Integridad](http://twitter.com/search?q=Integridad) | N/A |
-| 47 | [Blink 182](http://twitter.com/search?q=Blink+182) | N/A |
-| 48 | [TIFFANY BRAND AMBASSADOR JIMIN](http://twitter.com/search?q=TIFFANY+BRAND+AMBASSADOR+JIMIN) | N/A |
+| 1 | [#SquidCraft2](http://twitter.com/search?q=%23SquidCraft2) | N/A |
+| 2 | [Orsini](http://twitter.com/search?q=Orsini) | Orsini is an Italian surname derived from the Latin name Ursinus, meaning "bear-like". It is most commonly associated with the powerful Orsini family of Rome, who were influential in Italian politics during the Middle Ages and Renaissance. |
+| 3 | [#LeyTEA](http://twitter.com/search?q=%23LeyTEA) | N/A |
+| 4 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 5 | [Valdivia](http://twitter.com/search?q=Valdivia) | N/A |
+| 6 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
+| 7 | [tina](http://twitter.com/search?q=tina) | N/A |
+| 8 | [Rubius](http://twitter.com/search?q=Rubius) | Rubius is a Latin word meaning "red". It is often used to describe the color of hair, eyes, or skin. |
+| 9 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
+| 10 | [Carre](http://twitter.com/search?q=Carre) | N/A |
+| 11 | [Petro](http://twitter.com/search?q=Petro) | N/A |
+| 12 | [#CvieneREpublicanos](http://twitter.com/search?q=%23CvieneREpublicanos) | N/A |
+| 13 | [Germán](http://twitter.com/search?q=Germ%c3%a1n) | Germán is a Spanish and Portuguese name derived from the Latin Germanus, meaning "brother". It is also a Germanic given name, derived from the Germanic element ger, meaning "spear". |
+| 14 | [Mariana](http://twitter.com/search?q=Mariana) | N/A |
+| 15 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
+| 16 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 17 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
+| 18 | [Carabineros](http://twitter.com/search?q=Carabineros) | N/A |
+| 19 | [Winnie the Pooh](http://twitter.com/search?q=Winnie+the+Pooh) | N/A |
+| 20 | [Quackity](http://twitter.com/search?q=Quackity) | N/A |
+| 21 | [Palta](http://twitter.com/search?q=Palta) | N/A |
+| 22 | [Capri](http://twitter.com/search?q=Capri) | N/A |
+| 23 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
+| 24 | [Daniela Aranguiz](http://twitter.com/search?q=Daniela+Aranguiz) | N/A |
+| 25 | [Aldo](http://twitter.com/search?q=Aldo) | N/A |
+| 26 | [Marraqueta](http://twitter.com/search?q=Marraqueta) | N/A |
+| 27 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 28 | [Generala](http://twitter.com/search?q=Generala) | N/A |
+| 29 | [Jong](http://twitter.com/search?q=Jong) | N/A |
+| 30 | [Shadoune](http://twitter.com/search?q=Shadoune) | N/A |
+| 31 | [Imacec](http://twitter.com/search?q=Imacec) | N/A |
+| 32 | [Maldito Fabrizio](http://twitter.com/search?q=Maldito+Fabrizio) | N/A |
+| 33 | [Carola](http://twitter.com/search?q=Carola) | Carola is a female given name of Latin origin, derived from the masculine name Carolus, which is the Latin form of Charles. It means "free man" or "strong". |
+| 34 | [Torrealba](http://twitter.com/search?q=Torrealba) | N/A |
+| 35 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
+| 36 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
+| 37 | [Rancagua](http://twitter.com/search?q=Rancagua) | N/A |
+| 38 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 39 | [EXPLICA TU TWITTER](http://twitter.com/search?q=EXPLICA+TU+TWITTER) | N/A |
+| 40 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 41 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
+| 42 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 43 | [Team Chile](http://twitter.com/search?q=Team+Chile) | N/A |
+| 44 | [Neme](http://twitter.com/search?q=Neme) | N/A |
+| 45 | [Schwartzman](http://twitter.com/search?q=Schwartzman) | N/A |
+| 46 | [Danito](http://twitter.com/search?q=Danito) | N/A |
+| 47 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
+| 48 | [Tompkins](http://twitter.com/search?q=Tompkins) | N/A |
 
 
 

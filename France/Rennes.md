@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rennes
 
-📆 Last Updated: `2023-03-02 20:17:31 UTC`
+📆 Last Updated: `2023-03-02 21:16:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,52 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Annecy](http://twitter.com/search?q=Annecy) | N/A |
-| 2 | [Balerdi](http://twitter.com/search?q=Balerdi) | N/A |
-| 3 | [#KCORPWIN](http://twitter.com/search?q=%23KCORPWIN) | #KCORPWIN is a hashtag used by the Korean company KCorp to promote their products and services. It stands for "KCorp Wins" and is used to show support for the company and its successes. |
-| 4 | [#OMFCA](http://twitter.com/search?q=%23OMFCA) | N/A |
-| 5 | [#FreebetParionsSport](http://twitter.com/search?q=%23FreebetParionsSport) | N/A |
-| 6 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
-| 7 | [#TopChef](http://twitter.com/search?q=%23TopChef) | N/A |
-| 8 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 9 | [Dave Appadoo](http://twitter.com/search?q=Dave+Appadoo) | N/A |
-| 10 | [Nantes](http://twitter.com/search?q=Nantes) | N/A |
-| 11 | [Hilona](http://twitter.com/search?q=Hilona) | N/A |
-| 12 | [Just Fontaine](http://twitter.com/search?q=Just+Fontaine) | N/A |
-| 13 | [Gabon](http://twitter.com/search?q=Gabon) | N/A |
-| 14 | [L'équipe 21](http://twitter.com/search?q=L%27%c3%a9quipe+21) | N/A |
-| 15 | [Creed 3](http://twitter.com/search?q=Creed+3) | N/A |
+| 1 | [#PekinExpress](http://twitter.com/search?q=%23PekinExpress) | N/A |
+| 2 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
+| 3 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 4 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 5 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
+| 6 | [#ElClasico](http://twitter.com/search?q=%23ElClasico) | #ElClasico is a term used to refer to the football (soccer) match between two of the biggest clubs in Spain, Real Madrid and FC Barcelona. It is one of the most highly anticipated matches in world football and is considered to be one of the greatest rivalries in sport. In English, it translates to "The Classic". |
+| 7 | [De Jong](http://twitter.com/search?q=De+Jong) | De Jong is a Dutch surname. It is derived from the personal name Jan, which is a form of John. The literal meaning of the name in English is "son of John". |
+| 8 | [#RMAFCB](http://twitter.com/search?q=%23RMAFCB) | N/A |
+| 9 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
+| 10 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
+| 11 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 12 | [Kessié](http://twitter.com/search?q=Kessi%c3%a9) | N/A |
+| 13 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
+| 14 | [Angie](http://twitter.com/search?q=Angie) | N/A |
+| 15 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
 | 16 | [Beaujoire](http://twitter.com/search?q=Beaujoire) | N/A |
-| 17 | [françois regis](http://twitter.com/search?q=fran%c3%a7ois+regis) | N/A |
-| 18 | [Julien](http://twitter.com/search?q=Julien) | N/A |
-| 19 | [Hala Madrid](http://twitter.com/search?q=Hala+Madrid) | N/A |
-| 20 | [Payet](http://twitter.com/search?q=Payet) | Payet is a French surname. It is derived from the Old French word "paie," which means "payment." In English, it can be translated to mean "one who pays." |
-| 21 | [BAMBOLA HIMNO AVATRICE](http://twitter.com/search?q=BAMBOLA+HIMNO+AVATRICE) | N/A |
-| 22 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 23 | [Marseille](http://twitter.com/search?q=Marseille) | N/A |
-| 24 | [Tudor](http://twitter.com/search?q=Tudor) | Tudor is an English royal dynasty that ruled from 1485 to 1603. The Tudors were a powerful family of Welsh origin who rose to prominence in England during the 15th century. They are best known for their strong rule and for the many influential monarchs they produced, including Henry VIII and Elizabeth I. |
-| 25 | [Gane](http://twitter.com/search?q=Gane) | N/A |
-| 26 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
-| 27 | [Mughe](http://twitter.com/search?q=Mughe) | N/A |
-| 28 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
-| 29 | [Sénat](http://twitter.com/search?q=S%c3%a9nat) | N/A |
-| 30 | [Félicitations Guillaume](http://twitter.com/search?q=F%c3%a9licitations+Guillaume) | N/A |
-| 31 | [Tsui Hark](http://twitter.com/search?q=Tsui+Hark) | N/A |
-| 32 | [Whiteinn](http://twitter.com/search?q=Whiteinn) | N/A |
-| 33 | [Saken](http://twitter.com/search?q=Saken) | N/A |
-| 34 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 35 | [Veretout](http://twitter.com/search?q=Veretout) | Veretout is a French surname. It is derived from the Old French word "verte," meaning "green." In English, it can be translated to mean "green-haired" or "green-eyed." |
-| 36 | [Rohff](http://twitter.com/search?q=Rohff) | N/A |
-| 37 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
-| 38 | [Bosetti](http://twitter.com/search?q=Bosetti) | N/A |
-| 39 | [Jones](http://twitter.com/search?q=Jones) | N/A |
-| 40 | [le cardinal](http://twitter.com/search?q=le+cardinal) | N/A |
-| 41 | [Mettre la France](http://twitter.com/search?q=Mettre+la+France) | N/A |
-| 42 | [Zoro](http://twitter.com/search?q=Zoro) | N/A |
-| 43 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 44 | [Le SNU](http://twitter.com/search?q=Le+SNU) | N/A |
-| 45 | [Ectoplasma](http://twitter.com/search?q=Ectoplasma) | N/A |
-| 46 | [Zola](http://twitter.com/search?q=Zola) | N/A |
-| 47 | [Christensen](http://twitter.com/search?q=Christensen) | Christensen is a Danish and Norwegian surname derived from the given name Christian. It is the most common surname in Denmark, where it is shared by about 1.7% of the population. In English, Christensen means "son of Christian". |
-| 48 | [Gardasil](http://twitter.com/search?q=Gardasil) | N/A |
-| 49 | [J'aime](http://twitter.com/search?q=J%27aime) | N/A |
+| 17 | [Nathalie](http://twitter.com/search?q=Nathalie) | N/A |
+| 18 | [Frenkie](http://twitter.com/search?q=Frenkie) | Frenkie is a nickname for the Dutch footballer Frenkie de Jong, who currently plays for FC Barcelona. The name is derived from his given name, which is also spelled "Frenkie". In English, it can be used as an affectionate nickname for someone named Frank or Francis. |
+| 19 | [Militao](http://twitter.com/search?q=Militao) | Militão is a Portuguese name derived from the Latin word militare, meaning “to serve in the military”. In English, it can be translated to mean “soldier” or “warrior”. |
+| 20 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
+| 21 | [Dave Appadoo](http://twitter.com/search?q=Dave+Appadoo) | N/A |
+| 22 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
+| 23 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 24 | [Ter Stegen](http://twitter.com/search?q=Ter+Stegen) | Ter Stegen is the surname of German professional footballer Marc-André ter Stegen. He currently plays as a goalkeeper for FC Barcelona and the German national team. In English, Ter Stegen means "from Stegen", referring to his hometown of Mönchengladbach, Germany. |
+| 25 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
+| 26 | [Gabon](http://twitter.com/search?q=Gabon) | N/A |
+| 27 | [Marcos Alonso](http://twitter.com/search?q=Marcos+Alonso) | Marcos Alonso is a Spanish professional footballer who plays as a left back for Premier League club Chelsea and the Spanish national team. His name is derived from the Spanish words "mar" (sea) and "cos" (order). In English, his name translates to "ordered sea". |
+| 28 | [Bernabeu](http://twitter.com/search?q=Bernabeu) | N/A |
+| 29 | [Whiteinn](http://twitter.com/search?q=Whiteinn) | N/A |
+| 30 | [Rohff](http://twitter.com/search?q=Rohff) | N/A |
+| 31 | [Benny Hill](http://twitter.com/search?q=Benny+Hill) | N/A |
+| 32 | [Christensen](http://twitter.com/search?q=Christensen) | Christensen is a Danish and Norwegian surname derived from the given name Christian. It is the most common surname in Denmark, where it is shared by about 1.7% of the population. In English, Christensen means "son of Christian". |
+| 33 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
+| 34 | [Vénus](http://twitter.com/search?q=V%c3%a9nus) | N/A |
+| 35 | [Bertrand](http://twitter.com/search?q=Bertrand) | N/A |
+| 36 | [Stade de France](http://twitter.com/search?q=Stade+de+France) | N/A |
+| 37 | [Raoult](http://twitter.com/search?q=Raoult) | N/A |
+| 38 | [Tintin](http://twitter.com/search?q=Tintin) | N/A |
+| 39 | [Crunchyroll](http://twitter.com/search?q=Crunchyroll) | N/A |
+| 40 | [Caron](http://twitter.com/search?q=Caron) | N/A |
+| 41 | [L'Allemagne](http://twitter.com/search?q=L%27Allemagne) | N/A |
+| 42 | [Niro](http://twitter.com/search?q=Niro) | N/A |
+| 43 | [Saken](http://twitter.com/search?q=Saken) | N/A |
+| 44 | [#RealMadridBarcelona](http://twitter.com/search?q=%23RealMadridBarcelona) | N/A |
+| 45 | [#FreebetParionsSport](http://twitter.com/search?q=%23FreebetParionsSport) | N/A |
+| 46 | [#RMABAR](http://twitter.com/search?q=%23RMABAR) | N/A |
 
 
 

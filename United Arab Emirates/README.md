@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For United Arab Emirates
 
-📆 Last Updated: `2023-03-02 20:18:13 UTC`
+📆 Last Updated: `2023-03-02 21:17:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for United Arab Emirates
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [الفضاء الدوليه](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b6%d8%a7%d8%a1+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a%d9%87) | N/A |
-| 2 | [#سلطان_النيادي](http://twitter.com/search?q=%23%d8%b3%d9%84%d8%b7%d8%a7%d9%86_%d8%a7%d9%84%d9%86%d9%8a%d8%a7%d8%af%d9%8a) | N/A |
-| 3 | [Crew-6](http://twitter.com/search?q=Crew-6) | N/A |
-| 4 | [#呼和浩特](http://twitter.com/search?q=%23%e5%91%bc%e5%92%8c%e6%b5%a9%e7%89%b9) | N/A |
-| 5 | [#ليله_الجمعه](http://twitter.com/search?q=%23%d9%84%d9%8a%d9%84%d9%87_%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87) | #ليله_الجمعه is a hashtag used on social media in the Middle East to refer to Friday night. In English, it translates to "Friday Night". |
-| 6 | [#鄂尔多斯](http://twitter.com/search?q=%23%e9%84%82%e5%b0%94%e5%a4%9a%e6%96%af) | N/A |
-| 7 | [شباب الاهلي](http://twitter.com/search?q=%d8%b4%d8%a8%d8%a7%d8%a8+%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a) | N/A |
-| 8 | [مدريد](http://twitter.com/search?q=%d9%85%d8%af%d8%b1%d9%8a%d8%af) | مدريد is the Spanish name for Madrid, the capital of Spain. In English, it means "Madrid". |
-| 9 | [#乌鲁木齐](http://twitter.com/search?q=%23%e4%b9%8c%e9%b2%81%e6%9c%a8%e9%bd%90) | N/A |
-| 10 | [القوه الناعمه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%88%d9%87+%d8%a7%d9%84%d9%86%d8%a7%d8%b9%d9%85%d9%87) | N/A |
-| 11 | [اليوم الرياضي الوطني](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d9%8a+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
-| 12 | [الغساني](http://twitter.com/search?q=%d8%a7%d9%84%d8%ba%d8%b3%d8%a7%d9%86%d9%8a) | N/A |
-| 13 | [عيسى خلفان](http://twitter.com/search?q=%d8%b9%d9%8a%d8%b3%d9%89+%d8%ae%d9%84%d9%81%d8%a7%d9%86) | N/A |
-| 14 | [Sultan Al Neyadi](http://twitter.com/search?q=Sultan+Al+Neyadi) | N/A |
-| 15 | [الممر المودي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%85%d8%b1+%d8%a7%d9%84%d9%85%d9%88%d8%af%d9%8a) | N/A |
-| 16 | [الونسو](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%86%d8%b3%d9%88) | N/A |
-| 17 | [شهر جديد](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%ac%d8%af%d9%8a%d8%af) | N/A |
-| 18 | [ابن الامارات](http://twitter.com/search?q=%d8%a7%d8%a8%d9%86+%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d8%b1%d8%a7%d8%aa) | N/A |
-| 19 | [المرتبه العاشره](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d8%aa%d8%a8%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d8%b4%d8%b1%d9%87) | N/A |
-| 20 | [تاريخ العرب](http://twitter.com/search?q=%d8%aa%d8%a7%d8%b1%d9%8a%d8%ae+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8) | N/A |
-| 21 | [وزراء الداخليه العرب](http://twitter.com/search?q=%d9%88%d8%b2%d8%b1%d8%a7%d8%a1+%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8) | N/A |
-| 22 | [مركز محمد بن راشد](http://twitter.com/search?q=%d9%85%d8%b1%d9%83%d8%b2+%d9%85%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d8%b1%d8%a7%d8%b4%d8%af) | N/A |
-| 23 | [اليوم الخميس](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | اليوم الخميس is Arabic for "Thursday" and it means "Thursday" in English. |
-| 24 | [2 مارس 2023](http://twitter.com/search?q=2+%d9%85%d8%a7%d8%b1%d8%b3+2023) | N/A |
-| 25 | [الموشر العالمي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%b4%d8%b1+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
-| 26 | [Dragon](http://twitter.com/search?q=Dragon) | N/A |
-| 27 | [الوحدة](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%ad%d8%af%d8%a9) | N/A |
-| 28 | [Art Dubai](http://twitter.com/search?q=Art+Dubai) | N/A |
-| 29 | [بني ياس](http://twitter.com/search?q=%d8%a8%d9%86%d9%8a+%d9%8a%d8%a7%d8%b3) | N/A |
-| 30 | [التوقيت الصيفي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%88%d9%82%d9%8a%d8%aa+%d8%a7%d9%84%d8%b5%d9%8a%d9%81%d9%8a) | N/A |
-| 31 | [دبا الفجيره](http://twitter.com/search?q=%d8%af%d8%a8%d8%a7+%d8%a7%d9%84%d9%81%d8%ac%d9%8a%d8%b1%d9%87) | N/A |
-| 32 | [اليوم الاربعاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%b1%d8%a8%d8%b9%d8%a7%d8%a1) | اليوم الاربعاء is Arabic for "Wednesday" and it means "Wednesday" in English. |
-| 33 | [International Space Station](http://twitter.com/search?q=International+Space+Station) | N/A |
-| 34 | [الطفله السوريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d9%81%d9%84%d9%87+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a%d9%87) | N/A |
-| 35 | [Cambridge](http://twitter.com/search?q=Cambridge) | N/A |
-| 36 | [علي الدوله](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%87) | N/A |
-| 37 | [علي الفوز](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%81%d9%88%d8%b2) | N/A |
-| 38 | [الإمارات](http://twitter.com/search?q=%d8%a7%d9%84%d8%a5%d9%85%d8%a7%d8%b1%d8%a7%d8%aa) | N/A |
-| 39 | [رايد فضاء عربي](http://twitter.com/search?q=%d8%b1%d8%a7%d9%8a%d8%af+%d9%81%d8%b6%d8%a7%d8%a1+%d8%b9%d8%b1%d8%a8%d9%8a) | N/A |
-| 40 | [الدوريات العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a%d8%a7%d8%aa+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
-| 41 | [علي دبا](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%af%d8%a8%d8%a7) | N/A |
-| 42 | [اتحاد كلباء](http://twitter.com/search?q=%d8%a7%d8%aa%d8%ad%d8%a7%d8%af+%d9%83%d9%84%d8%a8%d8%a7%d8%a1) | N/A |
-| 43 | [ايريك](http://twitter.com/search?q=%d8%a7%d9%8a%d8%b1%d9%8a%d9%83) | N/A |
-| 44 | [نيوكاسل](http://twitter.com/search?q=%d9%86%d9%8a%d9%88%d9%83%d8%a7%d8%b3%d9%84) | نيوكاسل (Nuqasil) is an Arabic word meaning "to build". It is often used to refer to the process of constructing a building or other structure. |
-| 45 | [J Cole](http://twitter.com/search?q=J+Cole) | N/A |
-| 46 | [خالد البلوشي](http://twitter.com/search?q=%d8%ae%d8%a7%d9%84%d8%af+%d8%a7%d9%84%d8%a8%d9%84%d9%88%d8%b4%d9%8a) | N/A |
-| 47 | [رافينها](http://twitter.com/search?q=%d8%b1%d8%a7%d9%81%d9%8a%d9%86%d9%87%d8%a7) | رافينها is an Arabic phrase that translates to "she ran away" in English. |
-| 48 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 49 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 50 | [مركز كينيدي](http://twitter.com/search?q=%d9%85%d8%b1%d9%83%d8%b2+%d9%83%d9%8a%d9%86%d9%8a%d8%af%d9%8a) | N/A |
+| 1 | [مدريد](http://twitter.com/search?q=%d9%85%d8%af%d8%b1%d9%8a%d8%af) | مدريد is the Spanish name for Madrid, the capital of Spain. In English, it means "Madrid". |
+| 2 | [كارفخال](http://twitter.com/search?q=%d9%83%d8%a7%d8%b1%d9%81%d8%ae%d8%a7%d9%84) | N/A |
+| 3 | [بوسكيتس](http://twitter.com/search?q=%d8%a8%d9%88%d8%b3%d9%83%d9%8a%d8%aa%d8%b3) | بوسكيتس (Bouskites) is a type of traditional Greek pastry made with phyllo dough, butter, and sugar. It is usually filled with a sweet custard or cream and topped with nuts or honey. The name comes from the Greek word for "baked" (bouski). In English, it is sometimes referred to as "Greek custard pies". |
+| 4 | [الفضاء الدوليه](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b6%d8%a7%d8%a1+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a%d9%87) | N/A |
+| 5 | [#سلطان_النيادي](http://twitter.com/search?q=%23%d8%b3%d9%84%d8%b7%d8%a7%d9%86_%d8%a7%d9%84%d9%86%d9%8a%d8%a7%d8%af%d9%8a) | N/A |
+| 6 | [كروس](http://twitter.com/search?q=%d9%83%d8%b1%d9%88%d8%b3) | كروس (krus) is an Arabic word meaning "cross". It is used to refer to a Christian cross, usually in the context of religious symbolism. |
+| 7 | [دي يونغ](http://twitter.com/search?q=%d8%af%d9%8a+%d9%8a%d9%88%d9%86%d8%ba) | دي يونغ (Dai Yong) is a Chinese surname. In English, it can be translated to mean "Great Hero". |
+| 8 | [ناتشو](http://twitter.com/search?q=%d9%86%d8%a7%d8%aa%d8%b4%d9%88) | N/A |
+| 9 | [توريس](http://twitter.com/search?q=%d8%aa%d9%88%d8%b1%d9%8a%d8%b3) | توريس is a type of traditional Moroccan music. It is characterized by its use of complex rhythms and improvisation. In English, it can be translated as "traditional Moroccan music". |
+| 10 | [الريال](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d9%84) | الريال is the currency of Saudi Arabia. In English, it is known as the Saudi Riyal. |
+| 11 | [انشيلوتي](http://twitter.com/search?q=%d8%a7%d9%86%d8%b4%d9%8a%d9%84%d9%88%d8%aa%d9%8a) | انشيلوتي (Anshiloti) is a type of traditional Arabic music and dance. It is characterized by its fast tempo and intricate rhythms. The word "Anshiloti" comes from the Arabic root word "anshil" which means to move quickly. In English, it can be translated as "quick dance". |
+| 12 | [Crew-6](http://twitter.com/search?q=Crew-6) | N/A |
+| 13 | [الشوط الاول](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | الشوط الاول is an Arabic phrase that translates to "the first round" or "the first stage". It is often used to refer to the beginning of a process or competition. |
+| 14 | [#ElClasico](http://twitter.com/search?q=%23ElClasico) | #ElClasico is a term used to refer to the football (soccer) match between two of the biggest clubs in Spain, Real Madrid and FC Barcelona. It is one of the most highly anticipated matches in world football and is considered to be one of the greatest rivalries in sport. In English, it translates to "The Classic". |
+| 15 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 16 | [الشوط الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | الشوط الثاني is an Arabic phrase meaning "the second round". It is often used to refer to a second attempt at something, such as a second try at a test or a second attempt at a project. |
+| 17 | [#鄂尔多斯](http://twitter.com/search?q=%23%e9%84%82%e5%b0%94%e5%a4%9a%e6%96%af) | N/A |
+| 18 | [رافينها](http://twitter.com/search?q=%d8%b1%d8%a7%d9%81%d9%8a%d9%86%d9%87%d8%a7) | رافينها is an Arabic phrase that translates to "she ran away" in English. |
+| 19 | [#الكلاسيكو](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%83%d9%84%d8%a7%d8%b3%d9%8a%d9%83%d9%88) | N/A |
+| 20 | [شباب الاهلي](http://twitter.com/search?q=%d8%b4%d8%a8%d8%a7%d8%a8+%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a) | N/A |
+| 21 | [#الهلال_الوحده](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84_%d8%a7%d9%84%d9%88%d8%ad%d8%af%d9%87) | N/A |
+| 22 | [تشافي](http://twitter.com/search?q=%d8%aa%d8%b4%d8%a7%d9%81%d9%8a) | تشافي is an Arabic word that means "enjoyment" or "pleasure". In English, it can be translated as "having a good time" or "having fun". |
+| 23 | [مودريتش](http://twitter.com/search?q=%d9%85%d9%88%d8%af%d8%b1%d9%8a%d8%aa%d8%b4) | مودريتش (Moderich) is a type of traditional Middle Eastern dance. It is a combination of traditional folk dances from various countries in the region, including Egypt, Lebanon, Syria, and Palestine. The dance is characterized by its fast-paced and energetic movements, as well as its use of props such as swords and canes. In English, the term "Moderich" translates to "dance of joy." |
+| 24 | [القوه الناعمه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%88%d9%87+%d8%a7%d9%84%d9%86%d8%a7%d8%b9%d9%85%d9%87) | N/A |
+| 25 | [الغساني](http://twitter.com/search?q=%d8%a7%d9%84%d8%ba%d8%b3%d8%a7%d9%86%d9%8a) | N/A |
+| 26 | [اليوم الرياضي الوطني](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d9%8a+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
+| 27 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 28 | [عيسى خلفان](http://twitter.com/search?q=%d8%b9%d9%8a%d8%b3%d9%89+%d8%ae%d9%84%d9%81%d8%a7%d9%86) | N/A |
+| 29 | [Sultan Al Neyadi](http://twitter.com/search?q=Sultan+Al+Neyadi) | N/A |
+| 30 | [الونسو](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%86%d8%b3%d9%88) | N/A |
+| 31 | [الممر المودي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%85%d8%b1+%d8%a7%d9%84%d9%85%d9%88%d8%af%d9%8a) | N/A |
+| 32 | [شهر جديد](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%ac%d8%af%d9%8a%d8%af) | N/A |
+| 33 | [بنزيما](http://twitter.com/search?q=%d8%a8%d9%86%d8%b2%d9%8a%d9%85%d8%a7) | بنزيما (benzema) is a surname of Arabic origin. It is derived from the Arabic word "bin zamān" which means "son of time". In English, it can be translated to mean "son of time". |
+| 34 | [ابن الامارات](http://twitter.com/search?q=%d8%a7%d8%a8%d9%86+%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d8%b1%d8%a7%d8%aa) | N/A |
+| 35 | [تاريخ العرب](http://twitter.com/search?q=%d8%aa%d8%a7%d8%b1%d9%8a%d8%ae+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8) | N/A |
+| 36 | [علي الفوز](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%81%d9%88%d8%b2) | N/A |
+| 37 | [الوحدة](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%ad%d8%af%d8%a9) | N/A |
+| 38 | [المرتبه العاشره](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d8%aa%d8%a8%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d8%b4%d8%b1%d9%87) | N/A |
+| 39 | [اليوم الخميس](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | اليوم الخميس is Arabic for "Thursday" and it means "Thursday" in English. |
+| 40 | [الموشر العالمي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%b4%d8%b1+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
+| 41 | [مركز محمد بن راشد](http://twitter.com/search?q=%d9%85%d8%b1%d9%83%d8%b2+%d9%85%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d8%b1%d8%a7%d8%b4%d8%af) | N/A |
+| 42 | [2 مارس 2023](http://twitter.com/search?q=2+%d9%85%d8%a7%d8%b1%d8%b3+2023) | N/A |
+| 43 | [International Space Station](http://twitter.com/search?q=International+Space+Station) | N/A |
+| 44 | [دبا الفجيره](http://twitter.com/search?q=%d8%af%d8%a8%d8%a7+%d8%a7%d9%84%d9%81%d8%ac%d9%8a%d8%b1%d9%87) | N/A |
+| 45 | [اليوم الاربعاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%b1%d8%a8%d8%b9%d8%a7%d8%a1) | اليوم الاربعاء is Arabic for "Wednesday" and it means "Wednesday" in English. |
+| 46 | [التوقيت الصيفي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%88%d9%82%d9%8a%d8%aa+%d8%a7%d9%84%d8%b5%d9%8a%d9%81%d9%8a) | N/A |
+| 47 | [الطفله السوريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d9%81%d9%84%d9%87+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a%d9%87) | N/A |
+| 48 | [Cambridge](http://twitter.com/search?q=Cambridge) | N/A |
+| 49 | [بني ياس](http://twitter.com/search?q=%d8%a8%d9%86%d9%8a+%d9%8a%d8%a7%d8%b3) | N/A |
+| 50 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
 
 
 

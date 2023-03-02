@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Baltimore
 
-📆 Last Updated: `2023-03-02 20:18:03 UTC`
+📆 Last Updated: `2023-03-02 21:16:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
-| 2 | [#WhyIChime](http://twitter.com/search?q=%23WhyIChime) | N/A |
-| 3 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
-| 4 | [#ReadAcrossAmericaDay](http://twitter.com/search?q=%23ReadAcrossAmericaDay) | N/A |
-| 5 | [Hershey](http://twitter.com/search?q=Hershey) | N/A |
-| 6 | [#SaferWithBiden](http://twitter.com/search?q=%23SaferWithBiden) | N/A |
-| 7 | [#MurdaughTrial](http://twitter.com/search?q=%23MurdaughTrial) | N/A |
-| 8 | [Jerry Richardson](http://twitter.com/search?q=Jerry+Richardson) | N/A |
-| 9 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
-| 10 | [Bostic](http://twitter.com/search?q=Bostic) | N/A |
-| 11 | [Haunted Mansion](http://twitter.com/search?q=Haunted+Mansion) | N/A |
-| 12 | [Volpe](http://twitter.com/search?q=Volpe) | N/A |
-| 13 | [Dr. Seuss](http://twitter.com/search?q=Dr.+Seuss) | N/A |
-| 14 | [Bateman](http://twitter.com/search?q=Bateman) | N/A |
-| 15 | [BAMBOLA HIMNO AVATRICE](http://twitter.com/search?q=BAMBOLA+HIMNO+AVATRICE) | N/A |
+| 1 | [7 West](http://twitter.com/search?q=7+West) | N/A |
+| 2 | [Harbaugh](http://twitter.com/search?q=Harbaugh) | Harbaugh is a surname of German origin. It is derived from the German words "harb" meaning "army" and "berg" meaning "mountain". The name can be translated to mean "army mountain". |
+| 3 | [#RavensFlock](http://twitter.com/search?q=%23RavensFlock) | N/A |
+| 4 | [#WhyIChime](http://twitter.com/search?q=%23WhyIChime) | N/A |
+| 5 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
+| 6 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 7 | [#ReadAcrossAmericaDay](http://twitter.com/search?q=%23ReadAcrossAmericaDay) | N/A |
+| 8 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 9 | [#SaferWithBiden](http://twitter.com/search?q=%23SaferWithBiden) | N/A |
+| 10 | [Hershey](http://twitter.com/search?q=Hershey) | N/A |
+| 11 | [#ElClasico](http://twitter.com/search?q=%23ElClasico) | #ElClasico is a term used to refer to the football (soccer) match between two of the biggest clubs in Spain, Real Madrid and FC Barcelona. It is one of the most highly anticipated matches in world football and is considered to be one of the greatest rivalries in sport. In English, it translates to "The Classic". |
+| 12 | [Calijah Kancey](http://twitter.com/search?q=Calijah+Kancey) | N/A |
+| 13 | [Jerome Boger](http://twitter.com/search?q=Jerome+Boger) | N/A |
+| 14 | [Jerry Richardson](http://twitter.com/search?q=Jerry+Richardson) | N/A |
+| 15 | [Bostic](http://twitter.com/search?q=Bostic) | N/A |
 | 16 | [House Ethics Committee](http://twitter.com/search?q=House+Ethics+Committee) | N/A |
-| 17 | [#GoWokeGoBroke](http://twitter.com/search?q=%23GoWokeGoBroke) | N/A |
-| 18 | [Rep. George Santos](http://twitter.com/search?q=Rep.+George+Santos) | N/A |
-| 19 | [Justice Department](http://twitter.com/search?q=Justice+Department) | N/A |
-| 20 | [Meadors](http://twitter.com/search?q=Meadors) | N/A |
-| 21 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 22 | [Discover](http://twitter.com/search?q=Discover) | N/A |
-| 23 | [AI NFT](http://twitter.com/search?q=AI+NFT) | N/A |
-| 24 | [Kimmel](http://twitter.com/search?q=Kimmel) | N/A |
-| 25 | [Texas Independence Day](http://twitter.com/search?q=Texas+Independence+Day) | N/A |
-| 26 | [Hellboy](http://twitter.com/search?q=Hellboy) | N/A |
-| 27 | [Nelly](http://twitter.com/search?q=Nelly) | Nelly is a nickname for the female given name Eleanor, which is derived from the Greek name Helenē, meaning “light” or “bright one.” It can also be used as a diminutive form of the name Cornelia. |
-| 28 | [LTIR](http://twitter.com/search?q=LTIR) | N/A |
-| 29 | [Weather Report](http://twitter.com/search?q=Weather+Report) | N/A |
-| 30 | [Chaka](http://twitter.com/search?q=Chaka) | N/A |
-| 31 | [Jim Griffin](http://twitter.com/search?q=Jim+Griffin) | N/A |
-| 32 | [Kiriko](http://twitter.com/search?q=Kiriko) | N/A |
-| 33 | [Bertuzzi](http://twitter.com/search?q=Bertuzzi) | N/A |
-| 34 | [Bayesian](http://twitter.com/search?q=Bayesian) | N/A |
-| 35 | [Morgan Wallen](http://twitter.com/search?q=Morgan+Wallen) | N/A |
-| 36 | [Carolinas](http://twitter.com/search?q=Carolinas) | N/A |
-| 37 | [Christian Arroyo](http://twitter.com/search?q=Christian+Arroyo) | N/A |
-| 38 | [Jonathan Quick](http://twitter.com/search?q=Jonathan+Quick) | N/A |
-| 39 | [Meghan Trainor](http://twitter.com/search?q=Meghan+Trainor) | N/A |
-| 40 | [South Alabama](http://twitter.com/search?q=South+Alabama) | South Alabama is a region in the southeastern United States that includes the states of Alabama, Mississippi, and Florida. It is known for its diverse culture, rich history, and beautiful beaches. The term "South Alabama" is often used to refer to the entire region, but it can also be used to refer specifically to the state of Alabama. |
-| 41 | [Wandy](http://twitter.com/search?q=Wandy) | N/A |
-| 42 | [Eli White](http://twitter.com/search?q=Eli+White) | N/A |
-| 43 | [Manchin](http://twitter.com/search?q=Manchin) | N/A |
-| 44 | [Waino](http://twitter.com/search?q=Waino) | N/A |
-| 45 | [Next Level Chef](http://twitter.com/search?q=Next+Level+Chef) | N/A |
-| 46 | [Pasta](http://twitter.com/search?q=Pasta) | N/A |
-| 47 | [Scoot Henderson](http://twitter.com/search?q=Scoot+Henderson) | N/A |
-| 48 | [Speak No Evil](http://twitter.com/search?q=Speak+No+Evil) | N/A |
-| 49 | [Tuberville](http://twitter.com/search?q=Tuberville) | N/A |
+| 17 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
+| 18 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 19 | [BAMBOLA HIMNO AVATRICE](http://twitter.com/search?q=BAMBOLA+HIMNO+AVATRICE) | N/A |
+| 20 | [Haunted Mansion](http://twitter.com/search?q=Haunted+Mansion) | N/A |
+| 21 | [Rep. George Santos](http://twitter.com/search?q=Rep.+George+Santos) | N/A |
+| 22 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
+| 23 | [De Jong](http://twitter.com/search?q=De+Jong) | De Jong is a Dutch surname. It is derived from the personal name Jan, which is a form of John. The literal meaning of the name in English is "son of John". |
+| 24 | [Dr. Seuss](http://twitter.com/search?q=Dr.+Seuss) | N/A |
+| 25 | [Justice Department](http://twitter.com/search?q=Justice+Department) | N/A |
+| 26 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
+| 27 | [Jalen Redmond](http://twitter.com/search?q=Jalen+Redmond) | N/A |
+| 28 | [Volpe](http://twitter.com/search?q=Volpe) | N/A |
+| 29 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
+| 30 | [Bryan Bresee](http://twitter.com/search?q=Bryan+Bresee) | N/A |
+| 31 | [AI NFT](http://twitter.com/search?q=AI+NFT) | N/A |
+| 32 | [Morgan Wallen](http://twitter.com/search?q=Morgan+Wallen) | N/A |
+| 33 | [Bateman](http://twitter.com/search?q=Bateman) | N/A |
+| 34 | [Gervon Dexter](http://twitter.com/search?q=Gervon+Dexter) | N/A |
+| 35 | [Jonathan Quick](http://twitter.com/search?q=Jonathan+Quick) | N/A |
+| 36 | [Tuberville](http://twitter.com/search?q=Tuberville) | N/A |
+| 37 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
+| 38 | [Nelly](http://twitter.com/search?q=Nelly) | Nelly is a nickname for the female given name Eleanor, which is derived from the Greek name Helenē, meaning “light” or “bright one.” It can also be used as a diminutive form of the name Cornelia. |
+| 39 | [Kimmel](http://twitter.com/search?q=Kimmel) | N/A |
+| 40 | [Meadors](http://twitter.com/search?q=Meadors) | N/A |
+| 41 | [Wandy Peralta](http://twitter.com/search?q=Wandy+Peralta) | N/A |
+| 42 | [Discover](http://twitter.com/search?q=Discover) | N/A |
+| 43 | [Weather Report](http://twitter.com/search?q=Weather+Report) | N/A |
+| 44 | [Scoot Henderson](http://twitter.com/search?q=Scoot+Henderson) | N/A |
+| 45 | [Rubius](http://twitter.com/search?q=Rubius) | Rubius is a Latin word meaning "red". It is often used to describe the color of hair, eyes, or skin. |
+| 46 | [Hellboy](http://twitter.com/search?q=Hellboy) | N/A |
+| 47 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
+| 48 | [Kiriko](http://twitter.com/search?q=Kiriko) | N/A |
+| 49 | [Militao](http://twitter.com/search?q=Militao) | Militão is a Portuguese name derived from the Latin word militare, meaning “to serve in the military”. In English, it can be translated to mean “soldier” or “warrior”. |
+| 50 | [Dante Stills](http://twitter.com/search?q=Dante+Stills) | N/A |
 
 
 
