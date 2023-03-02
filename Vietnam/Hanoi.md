@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hanoi
 
-📆 Last Updated: `2023-03-02 22:16:13 UTC`
+📆 Last Updated: `2023-03-02 23:16:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,8 +25,8 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 8 | [#TaLuengBabyXENGFA](http://twitter.com/search?q=%23TaLuengBabyXENGFA) | N/A |
 | 9 | [#OneYearInThe_iE_of_TEMPEST](http://twitter.com/search?q=%23OneYearInThe_iE_of_TEMPEST) | N/A |
 | 10 | [#FREENBECKxFANDOMLIVE](http://twitter.com/search?q=%23FREENBECKxFANDOMLIVE) | N/A |
-| 11 | [TIFFANY BRAND AMBASSADOR JIMIN](http://twitter.com/search?q=TIFFANY+BRAND+AMBASSADOR+JIMIN) | N/A |
-| 12 | [STOP MISTREATING MILE](http://twitter.com/search?q=STOP+MISTREATING+MILE) | N/A |
+| 11 | [STOP MISTREATING MILE](http://twitter.com/search?q=STOP+MISTREATING+MILE) | N/A |
+| 12 | [TIFFANY BRAND AMBASSADOR JIMIN](http://twitter.com/search?q=TIFFANY+BRAND+AMBASSADOR+JIMIN) | N/A |
 | 13 | [HOORAY FOR BUILD](http://twitter.com/search?q=HOORAY+FOR+BUILD) | N/A |
 | 14 | [neo baby pass](http://twitter.com/search?q=neo+baby+pass) | N/A |
 | 15 | [TY WEARS LOEWE](http://twitter.com/search?q=TY+WEARS+LOEWE) | N/A |
@@ -37,7 +37,7 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 20 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
 | 21 | [Bicasso](http://twitter.com/search?q=Bicasso) | N/A |
 | 22 | [Võ Văn Thưởng](http://twitter.com/search?q=V%c3%b5+V%c4%83n+Th%c6%b0%e1%bb%9fng) | N/A |
-| 23 | [patrick balmain pfw](http://twitter.com/search?q=patrick+balmain+pfw) | N/A |
+| 23 | [PATRICK BALMAIN PFW](http://twitter.com/search?q=PATRICK+BALMAIN+PFW) | N/A |
 | 24 | [$TPAD $MZR](http://twitter.com/search?q=%24TPAD+%24MZR) | N/A |
 | 25 | [Chào](http://twitter.com/search?q=Ch%c3%a0o) | N/A |
 | 26 | [biubiu](http://twitter.com/search?q=biubiu) | N/A |
@@ -60,11 +60,11 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 43 | [Core](http://twitter.com/search?q=Core) | N/A |
 | 44 | [jack - j97](http://twitter.com/search?q=jack+-+j97) | N/A |
 | 45 | [special stage video](http://twitter.com/search?q=special+stage+video) | N/A |
-| 46 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 47 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 48 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
-| 49 | [Zalo](http://twitter.com/search?q=Zalo) | N/A |
-| 50 | [liên](http://twitter.com/search?q=li%c3%aan) | N/A |
+| 46 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 47 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
+| 48 | [Zalo](http://twitter.com/search?q=Zalo) | N/A |
+| 49 | [đỉnh](http://twitter.com/search?q=%c4%91%e1%bb%89nh) | N/A |
+| 50 | [Liên](http://twitter.com/search?q=Li%c3%aan) | N/A |
 
 
 

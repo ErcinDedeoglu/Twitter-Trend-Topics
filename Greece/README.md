@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Greece
 
-📆 Last Updated: `2023-03-02 22:16:36 UTC`
+📆 Last Updated: `2023-03-02 23:16:58 UTC`
 
 🔧 Updated every 1 hour!
 

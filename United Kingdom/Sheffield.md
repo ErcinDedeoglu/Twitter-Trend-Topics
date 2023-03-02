@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sheffield
 
-📆 Last Updated: `2023-03-02 22:15:49 UTC`
+📆 Last Updated: `2023-03-02 23:16:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
-| 2 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 3 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
-| 4 | [Sanam](http://twitter.com/search?q=Sanam) | N/A |
-| 5 | [#houseofgames](http://twitter.com/search?q=%23houseofgames) | N/A |
-| 6 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 7 | [Nadine](http://twitter.com/search?q=Nadine) | Nadine is a female given name of French origin, derived from the name Nadia. It is a variant of the name Nadia, which is derived from the Russian name Nadezhda, meaning “hope”. |
-| 8 | [BoJo](http://twitter.com/search?q=BoJo) | N/A |
-| 9 | [Nursery](http://twitter.com/search?q=Nursery) | N/A |
-| 10 | [Green Party](http://twitter.com/search?q=Green+Party) | N/A |
-| 11 | [#murdaughtrial](http://twitter.com/search?q=%23murdaughtrial) | N/A |
-| 12 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
-| 13 | [Wally](http://twitter.com/search?q=Wally) | N/A |
-| 14 | [#HarryPotter](http://twitter.com/search?q=%23HarryPotter) | N/A |
-| 15 | [#TheApprentice](http://twitter.com/search?q=%23TheApprentice) | #TheApprentice is a reality television show created by Mark Burnett, in which a group of aspiring businesspeople compete for a job with a successful business executive. The show has been running since 2004 and has aired in many countries around the world. The show's title refers to the contestants being "apprentices" to the executive, learning from them and competing against each other for the job. |
-| 16 | [Sue Gray](http://twitter.com/search?q=Sue+Gray) | N/A |
-| 17 | [Bradley](http://twitter.com/search?q=Bradley) | N/A |
-| 18 | [Rochelle](http://twitter.com/search?q=Rochelle) | N/A |
-| 19 | [Jack Smith](http://twitter.com/search?q=Jack+Smith) | N/A |
-| 20 | [Lord Sugar](http://twitter.com/search?q=Lord+Sugar) | N/A |
-| 21 | [Salford](http://twitter.com/search?q=Salford) | N/A |
+| 2 | [Sanam](http://twitter.com/search?q=Sanam) | N/A |
+| 3 | [ABBA](http://twitter.com/search?q=ABBA) | N/A |
+| 4 | [#WorldBookDay2023](http://twitter.com/search?q=%23WorldBookDay2023) | N/A |
+| 5 | [BoJo](http://twitter.com/search?q=BoJo) | N/A |
+| 6 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
+| 7 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
+| 8 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
+| 9 | [#GeneralElectionN0W](http://twitter.com/search?q=%23GeneralElectionN0W) | N/A |
+| 10 | [GDPR](http://twitter.com/search?q=GDPR) | N/A |
+| 11 | [Green Party](http://twitter.com/search?q=Green+Party) | N/A |
+| 12 | [Wally](http://twitter.com/search?q=Wally) | N/A |
+| 13 | [#TheApprentice](http://twitter.com/search?q=%23TheApprentice) | #TheApprentice is a reality television show created by Mark Burnett, in which a group of aspiring businesspeople compete for a job with a successful business executive. The show has been running since 2004 and has aired in many countries around the world. The show's title refers to the contestants being "apprentices" to the executive, learning from them and competing against each other for the job. |
+| 14 | [Sue Gray](http://twitter.com/search?q=Sue+Gray) | N/A |
+| 15 | [Tom Harwood](http://twitter.com/search?q=Tom+Harwood) | N/A |
+| 16 | [Bradley](http://twitter.com/search?q=Bradley) | N/A |
+| 17 | [Rochelle](http://twitter.com/search?q=Rochelle) | N/A |
+| 18 | [Salford](http://twitter.com/search?q=Salford) | N/A |
+| 19 | [Lord Sugar](http://twitter.com/search?q=Lord+Sugar) | N/A |
+| 20 | [Jack Smith](http://twitter.com/search?q=Jack+Smith) | N/A |
+| 21 | [Simon Case](http://twitter.com/search?q=Simon+Case) | N/A |
 | 22 | [Venom](http://twitter.com/search?q=Venom) | N/A |
-| 23 | [Warrington](http://twitter.com/search?q=Warrington) | N/A |
-| 24 | [Simba](http://twitter.com/search?q=Simba) | N/A |
+| 23 | [Simba](http://twitter.com/search?q=Simba) | N/A |
+| 24 | [Warrington](http://twitter.com/search?q=Warrington) | N/A |
 | 25 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
 | 26 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
-| 27 | [Olivia and Claudia](http://twitter.com/search?q=Olivia+and+Claudia) | N/A |
+| 27 | [Partygate](http://twitter.com/search?q=Partygate) | N/A |
 | 28 | [Wire](http://twitter.com/search?q=Wire) | N/A |
-| 29 | [Fati](http://twitter.com/search?q=Fati) | N/A |
-| 30 | [Partygate](http://twitter.com/search?q=Partygate) | N/A |
-| 31 | [Simon Case](http://twitter.com/search?q=Simon+Case) | N/A |
-| 32 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
+| 29 | [Olivia and Claudia](http://twitter.com/search?q=Olivia+and+Claudia) | N/A |
+| 30 | [Fati](http://twitter.com/search?q=Fati) | N/A |
+| 31 | [Marnie](http://twitter.com/search?q=Marnie) | N/A |
+| 32 | [Jon Rahm](http://twitter.com/search?q=Jon+Rahm) | N/A |
 | 33 | [Civil Service](http://twitter.com/search?q=Civil+Service) | N/A |
-| 34 | [Touker](http://twitter.com/search?q=Touker) | N/A |
-| 35 | [Marnie](http://twitter.com/search?q=Marnie) | N/A |
-| 36 | [David Frost](http://twitter.com/search?q=David+Frost) | N/A |
-| 37 | [Keenan](http://twitter.com/search?q=Keenan) | N/A |
-| 38 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 39 | [Venus and Jupiter](http://twitter.com/search?q=Venus+and+Jupiter) | N/A |
-| 40 | [Claudia and Olivia](http://twitter.com/search?q=Claudia+and+Olivia) | N/A |
-| 41 | [Toms](http://twitter.com/search?q=Toms) | N/A |
-| 42 | [Tom Harwood](http://twitter.com/search?q=Tom+Harwood) | N/A |
-| 43 | [Steve Mackey](http://twitter.com/search?q=Steve+Mackey) | N/A |
-| 44 | [Weather Report](http://twitter.com/search?q=Weather+Report) | N/A |
-| 45 | [Alex Salmond](http://twitter.com/search?q=Alex+Salmond) | N/A |
-| 46 | [Elaine](http://twitter.com/search?q=Elaine) | N/A |
-| 47 | [Dani](http://twitter.com/search?q=Dani) | N/A |
-| 48 | [Pulp](http://twitter.com/search?q=Pulp) | N/A |
-| 49 | [Sapnap](http://twitter.com/search?q=Sapnap) | Sapnap is an online gaming personality and content creator. His real name is Noah McBeth and he is best known for his Minecraft videos on YouTube and Twitch. The name Sapnap is derived from the phrase "Snap Nap," which refers to taking a quick nap during a gaming session. |
-| 50 | [Swinney](http://twitter.com/search?q=Swinney) | N/A |
+| 34 | [David Frost](http://twitter.com/search?q=David+Frost) | N/A |
+| 35 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
+| 36 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 37 | [Venus and Jupiter](http://twitter.com/search?q=Venus+and+Jupiter) | N/A |
+| 38 | [Strange New Worlds](http://twitter.com/search?q=Strange+New+Worlds) | N/A |
+| 39 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
+| 40 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
+| 41 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 42 | [Claudia and Olivia](http://twitter.com/search?q=Claudia+and+Olivia) | N/A |
+| 43 | [Toms](http://twitter.com/search?q=Toms) | N/A |
+| 44 | [Keenan](http://twitter.com/search?q=Keenan) | N/A |
+| 45 | [Weather Report](http://twitter.com/search?q=Weather+Report) | N/A |
+| 46 | [Swinney](http://twitter.com/search?q=Swinney) | N/A |
+| 47 | [Steve Mackey](http://twitter.com/search?q=Steve+Mackey) | N/A |
+| 48 | [Shelagh](http://twitter.com/search?q=Shelagh) | N/A |
+| 49 | [Alex Salmond](http://twitter.com/search?q=Alex+Salmond) | N/A |
+| 50 | [Clint](http://twitter.com/search?q=Clint) | N/A |
 
 
 

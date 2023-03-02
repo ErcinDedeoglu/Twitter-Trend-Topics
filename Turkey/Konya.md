@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Konya
 
-📆 Last Updated: `2023-03-02 22:16:25 UTC`
+📆 Last Updated: `2023-03-02 23:16:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,49 +20,49 @@ This is top 50 for [Turkey](</Turkey>)
 | 3 | [Kılıçdaroğlu](http://twitter.com/search?q=K%c4%b1l%c4%b1%c3%a7daro%c4%9flu) | N/A |
 | 4 | [#secim2023](http://twitter.com/search?q=%23secim2023) | N/A |
 | 5 | [İyi Parti](http://twitter.com/search?q=%c4%b0yi+Parti) | N/A |
-| 6 | [#6lımasa](http://twitter.com/search?q=%236l%c4%b1masa) | N/A |
-| 7 | [Ekşi Sözlük Açılmasın](http://twitter.com/search?q=Ek%c5%9fi+S%c3%b6zl%c3%bck+A%c3%a7%c4%b1lmas%c4%b1n) | N/A |
-| 8 | [Muharrem İnce](http://twitter.com/search?q=Muharrem+%c4%b0nce) | N/A |
-| 9 | [Millet 5](http://twitter.com/search?q=Millet+5) | N/A |
-| 10 | [Cem Küçük](http://twitter.com/search?q=Cem+K%c3%bc%c3%a7%c3%bck) | N/A |
-| 11 | [Arif](http://twitter.com/search?q=Arif) | N/A |
-| 12 | [Ümit Dikbayır](http://twitter.com/search?q=%c3%9cmit+Dikbay%c4%b1r) | N/A |
-| 13 | [Beşiktaş'ım](http://twitter.com/search?q=Be%c5%9fikta%c5%9f%27%c4%b1m) | N/A |
-| 14 | [Ali Babacan](http://twitter.com/search?q=Ali+Babacan) | Ali Babacan is a Turkish name. It is derived from the Arabic phrase "Ali Baba Khan", which means "noble leader". In English, it can be translated to mean "noble leader Ali". |
-| 15 | [Masadan](http://twitter.com/search?q=Masadan) | N/A |
+| 6 | [#cumhurbaskani](http://twitter.com/search?q=%23cumhurbaskani) | N/A |
+| 7 | [Muharrem İnce](http://twitter.com/search?q=Muharrem+%c4%b0nce) | N/A |
+| 8 | [Ekşi Sözlük Açılmasın](http://twitter.com/search?q=Ek%c5%9fi+S%c3%b6zl%c3%bck+A%c3%a7%c4%b1lmas%c4%b1n) | N/A |
+| 9 | [Cem Küçük](http://twitter.com/search?q=Cem+K%c3%bc%c3%a7%c3%bck) | N/A |
+| 10 | [Mansur Yavaş](http://twitter.com/search?q=Mansur+Yava%c5%9f) | N/A |
+| 11 | [Beşiktaş'ım](http://twitter.com/search?q=Be%c5%9fikta%c5%9f%27%c4%b1m) | N/A |
+| 12 | [Arif](http://twitter.com/search?q=Arif) | N/A |
+| 13 | [Ali Babacan](http://twitter.com/search?q=Ali+Babacan) | Ali Babacan is a Turkish name. It is derived from the Arabic phrase "Ali Baba Khan", which means "noble leader". In English, it can be translated to mean "noble leader Ali". |
+| 14 | [Masadan](http://twitter.com/search?q=Masadan) | N/A |
+| 15 | [Ümit Dikbayır](http://twitter.com/search?q=%c3%9cmit+Dikbay%c4%b1r) | N/A |
 | 16 | [Sevilay Yılman](http://twitter.com/search?q=Sevilay+Y%c4%b1lman) | N/A |
-| 17 | [Erhan Usta](http://twitter.com/search?q=Erhan+Usta) | Erhan Usta is a Turkish phrase that translates to "Master Erhan". It is used as a term of respect for someone who is an expert in their field or has achieved a high level of skill. |
+| 17 | [İmamoğlu](http://twitter.com/search?q=%c4%b0mamo%c4%9flu) | N/A |
 | 18 | [Nice 120](http://twitter.com/search?q=Nice+120) | N/A |
-| 19 | [İmamoğlu](http://twitter.com/search?q=%c4%b0mamo%c4%9flu) | N/A |
-| 20 | [Pazartesi](http://twitter.com/search?q=Pazartesi) | N/A |
-| 21 | [ADAM KAZANDI](http://twitter.com/search?q=ADAM+KAZANDI) | N/A |
-| 22 | [Fatih Erbakan](http://twitter.com/search?q=Fatih+Erbakan) | N/A |
-| 23 | [SİYASİ YAĞMACILAR](http://twitter.com/search?q=S%c4%b0YAS%c4%b0+YA%c4%9eMACILAR) | N/A |
-| 24 | [AllahSevginin Sahibidir](http://twitter.com/search?q=AllahSevginin+Sahibidir) | N/A |
+| 19 | [Fatih Erbakan](http://twitter.com/search?q=Fatih+Erbakan) | N/A |
+| 20 | [Erhan Usta](http://twitter.com/search?q=Erhan+Usta) | Erhan Usta is a Turkish phrase that translates to "Master Erhan". It is used as a term of respect for someone who is an expert in their field or has achieved a high level of skill. |
+| 21 | [Hande Fırat](http://twitter.com/search?q=Hande+F%c4%b1rat) | N/A |
+| 22 | [Pazartesi](http://twitter.com/search?q=Pazartesi) | N/A |
+| 23 | [ADAM KAZANDI](http://twitter.com/search?q=ADAM+KAZANDI) | N/A |
+| 24 | [Alevi](http://twitter.com/search?q=Alevi) | N/A |
 | 25 | [Özgür Özel](http://twitter.com/search?q=%c3%96zg%c3%bcr+%c3%96zel) | Özgür Özel is a Turkish name meaning "free and special." It is a combination of the Turkish words "özgür," meaning free, and "özel," meaning special. |
-| 26 | [KK'ya](http://twitter.com/search?q=KK%27ya) | N/A |
-| 27 | [Masayı](http://twitter.com/search?q=Masay%c4%b1) | N/A |
-| 28 | [Ortak](http://twitter.com/search?q=Ortak) | N/A |
-| 29 | [Kamuran](http://twitter.com/search?q=Kamuran) | N/A |
-| 30 | [Larkin](http://twitter.com/search?q=Larkin) | N/A |
-| 31 | [Tura](http://twitter.com/search?q=Tura) | N/A |
-| 32 | [Alevi](http://twitter.com/search?q=Alevi) | N/A |
-| 33 | [Ahmet Davutoğlu](http://twitter.com/search?q=Ahmet+Davuto%c4%9flu) | N/A |
-| 34 | [Böbrek](http://twitter.com/search?q=B%c3%b6brek) | N/A |
-| 35 | [Hande Fırat](http://twitter.com/search?q=Hande+F%c4%b1rat) | N/A |
-| 36 | [Mehmet Görmez](http://twitter.com/search?q=Mehmet+G%c3%b6rmez) | N/A |
-| 37 | [Astsubaylar](http://twitter.com/search?q=Astsubaylar) | N/A |
-| 38 | [Erdoğana](http://twitter.com/search?q=Erdo%c4%9fana) | N/A |
-| 39 | [Özdağ](http://twitter.com/search?q=%c3%96zda%c4%9f) | N/A |
-| 40 | [Dünya 5](http://twitter.com/search?q=D%c3%bcnya+5) | N/A |
-| 41 | [Hayri](http://twitter.com/search?q=Hayri) | N/A |
-| 42 | [Selahattin Demirtaş](http://twitter.com/search?q=Selahattin+Demirta%c5%9f) | N/A |
-| 43 | [#İyilikVakti](http://twitter.com/search?q=%23%c4%b0yilikVakti) | N/A |
-| 44 | [#altılımasa](http://twitter.com/search?q=%23alt%c4%b1l%c4%b1masa) | #Altılımasa is a Turkish game similar to bingo. It is played with six dice and a board with 24 numbered squares. Players take turns rolling the dice and marking off the numbers on their board that match the numbers rolled. The first player to mark off all of their numbers wins the game. In English, #altılımasa translates to "six-dice table". |
-| 45 | [#cumhurbaskani](http://twitter.com/search?q=%23cumhurbaskani) | N/A |
+| 26 | [Tura](http://twitter.com/search?q=Tura) | N/A |
+| 27 | [KK'ya](http://twitter.com/search?q=KK%27ya) | N/A |
+| 28 | [SİYASİ YAĞMACILAR](http://twitter.com/search?q=S%c4%b0YAS%c4%b0+YA%c4%9eMACILAR) | N/A |
+| 29 | [Mehmet Görmez](http://twitter.com/search?q=Mehmet+G%c3%b6rmez) | N/A |
+| 30 | [Ortak](http://twitter.com/search?q=Ortak) | N/A |
+| 31 | [Masayı](http://twitter.com/search?q=Masay%c4%b1) | N/A |
+| 32 | [Erdoğana](http://twitter.com/search?q=Erdo%c4%9fana) | N/A |
+| 33 | [Tarafsız](http://twitter.com/search?q=Tarafs%c4%b1z) | N/A |
+| 34 | [Larkin](http://twitter.com/search?q=Larkin) | N/A |
+| 35 | [Ekmeleddin](http://twitter.com/search?q=Ekmeleddin) | N/A |
+| 36 | [Davutoğlu](http://twitter.com/search?q=Davuto%c4%9flu) | Davutoğlu is a Turkish surname. It is derived from the Turkish word "davut", which means "wise". In English, the name Davutoğlu would translate to "wise man". |
+| 37 | [Kamuran](http://twitter.com/search?q=Kamuran) | N/A |
+| 38 | [CHP'ye](http://twitter.com/search?q=CHP%27ye) | N/A |
+| 39 | [Sol Parti](http://twitter.com/search?q=Sol+Parti) | N/A |
+| 40 | [Tayyip](http://twitter.com/search?q=Tayyip) | N/A |
+| 41 | [Selahattin Demirtaş](http://twitter.com/search?q=Selahattin+Demirta%c5%9f) | N/A |
+| 42 | [#picemiyeti](http://twitter.com/search?q=%23picemiyeti) | N/A |
+| 43 | [#MüslümGürses](http://twitter.com/search?q=%23M%c3%bcsl%c3%bcmG%c3%bcrses) | N/A |
+| 44 | [#6lımasa](http://twitter.com/search?q=%236l%c4%b1masa) | N/A |
+| 45 | [#İyilikVakti](http://twitter.com/search?q=%23%c4%b0yilikVakti) | N/A |
 | 46 | [#sildi](http://twitter.com/search?q=%23sildi) | N/A |
-| 47 | [#MüslümGürses](http://twitter.com/search?q=%23M%c3%bcsl%c3%bcmG%c3%bcrses) | N/A |
-| 48 | [#picemiyeti](http://twitter.com/search?q=%23picemiyeti) | N/A |
+| 47 | [#yüzdeyüzmüzik](http://twitter.com/search?q=%23y%c3%bczdey%c3%bczm%c3%bczik) | N/A |
+| 48 | [#altılımasa](http://twitter.com/search?q=%23alt%c4%b1l%c4%b1masa) | #Altılımasa is a Turkish game similar to bingo. It is played with six dice and a board with 24 numbered squares. Players take turns rolling the dice and marking off the numbers on their board that match the numbers rolled. The first player to mark off all of their numbers wins the game. In English, #altılımasa translates to "six-dice table". |
 
 
 

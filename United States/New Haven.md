@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Haven
 
-📆 Last Updated: `2023-03-02 22:16:30 UTC`
+📆 Last Updated: `2023-03-02 23:16:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,49 +15,49 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#WhyIChime](http://twitter.com/search?q=%23WhyIChime) | N/A |
-| 2 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 3 | [#ElClasico](http://twitter.com/search?q=%23ElClasico) | #ElClasico is a term used to refer to the football (soccer) match between two of the biggest clubs in Spain, Real Madrid and FC Barcelona. It is one of the most highly anticipated matches in world football and is considered to be one of the greatest rivalries in sport. In English, it translates to "The Classic". |
-| 4 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 5 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
-| 6 | [Calijah Kancey](http://twitter.com/search?q=Calijah+Kancey) | N/A |
-| 7 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 8 | [Jerome Boger](http://twitter.com/search?q=Jerome+Boger) | N/A |
-| 9 | [Hershey](http://twitter.com/search?q=Hershey) | N/A |
-| 10 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 11 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 12 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
-| 13 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
-| 14 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
-| 15 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
-| 16 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
-| 17 | [Jerry Richardson](http://twitter.com/search?q=Jerry+Richardson) | N/A |
-| 18 | [Bostic](http://twitter.com/search?q=Bostic) | N/A |
-| 19 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
+| 1 | [Nolan Smith](http://twitter.com/search?q=Nolan+Smith) | N/A |
+| 2 | [#WhyIChime](http://twitter.com/search?q=%23WhyIChime) | N/A |
+| 3 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 4 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 5 | [#ReadAcrossAmericaDay](http://twitter.com/search?q=%23ReadAcrossAmericaDay) | N/A |
+| 6 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
+| 7 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 8 | [Hershey](http://twitter.com/search?q=Hershey) | N/A |
+| 9 | [Jon Rahm](http://twitter.com/search?q=Jon+Rahm) | N/A |
+| 10 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 11 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 12 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
+| 13 | [Fanfest](http://twitter.com/search?q=Fanfest) | N/A |
+| 14 | [Jerome Boger](http://twitter.com/search?q=Jerome+Boger) | N/A |
+| 15 | [Calijah Kancey](http://twitter.com/search?q=Calijah+Kancey) | N/A |
+| 16 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 17 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
+| 18 | [Byron Young](http://twitter.com/search?q=Byron+Young) | N/A |
+| 19 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
 | 20 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 21 | [House Ethics Committee](http://twitter.com/search?q=House+Ethics+Committee) | N/A |
-| 22 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 23 | [De Jong](http://twitter.com/search?q=De+Jong) | De Jong is a Dutch surname. It is derived from the personal name Jan, which is a form of John. The literal meaning of the name in English is "son of John". |
-| 24 | [Aaron Donald](http://twitter.com/search?q=Aaron+Donald) | Aaron Donald is an American professional football player who plays for the Los Angeles Rams of the National Football League (NFL). He is a six-time Pro Bowl selection and four-time First-Team All-Pro. He is widely regarded as one of the best defensive players in the NFL. |
-| 25 | [BAMBOLA HIMNO AVATRICE](http://twitter.com/search?q=BAMBOLA+HIMNO+AVATRICE) | N/A |
+| 21 | [Domi](http://twitter.com/search?q=Domi) | Domi is a Japanese term that means "dominance" or "dominant." It is often used to describe someone who is strong, powerful, and in control. |
+| 22 | [Red Ruby](http://twitter.com/search?q=Red+Ruby) | N/A |
+| 23 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 24 | [Dr. Seuss](http://twitter.com/search?q=Dr.+Seuss) | N/A |
+| 25 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
 | 26 | [Adetomiwa Adebawore](http://twitter.com/search?q=Adetomiwa+Adebawore) | N/A |
-| 27 | [Rahm](http://twitter.com/search?q=Rahm) | N/A |
-| 28 | [Jalen Redmond](http://twitter.com/search?q=Jalen+Redmond) | N/A |
-| 29 | [Dr. Seuss](http://twitter.com/search?q=Dr.+Seuss) | N/A |
-| 30 | [Morgan Wallen](http://twitter.com/search?q=Morgan+Wallen) | N/A |
-| 31 | [Bryan Bresee](http://twitter.com/search?q=Bryan+Bresee) | N/A |
-| 32 | [Scoot Henderson](http://twitter.com/search?q=Scoot+Henderson) | N/A |
-| 33 | [Rep. George Santos](http://twitter.com/search?q=Rep.+George+Santos) | N/A |
-| 34 | [Dante Stills](http://twitter.com/search?q=Dante+Stills) | N/A |
-| 35 | [Bernabéu](http://twitter.com/search?q=Bernab%c3%a9u) | Bernabéu is the name of the home stadium of Spanish football club Real Madrid. It is officially known as Estadio Santiago Bernabéu, named after the former club president Santiago Bernabéu. In English, it is referred to as the Santiago Bernabéu Stadium. |
-| 36 | [Haunted Mansion](http://twitter.com/search?q=Haunted+Mansion) | N/A |
-| 37 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
-| 38 | [Tim Pool](http://twitter.com/search?q=Tim+Pool) | N/A |
-| 39 | [Justice Department](http://twitter.com/search?q=Justice+Department) | N/A |
-| 40 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
-| 41 | [Tuberville](http://twitter.com/search?q=Tuberville) | N/A |
-| 42 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
-| 43 | [Gervon Dexter](http://twitter.com/search?q=Gervon+Dexter) | N/A |
+| 27 | [Tim Pool](http://twitter.com/search?q=Tim+Pool) | N/A |
+| 28 | [Dembele](http://twitter.com/search?q=Dembele) | Dembele is a surname of West African origin. It is derived from the Mande language and means "peaceful warrior". In English, it can be translated to mean "one who brings peace through strength". |
+| 29 | [Bostic](http://twitter.com/search?q=Bostic) | N/A |
+| 30 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
+| 31 | [Jerry Richardson](http://twitter.com/search?q=Jerry+Richardson) | N/A |
+| 32 | [BAMBOLA HIMNO AVATRICE](http://twitter.com/search?q=BAMBOLA+HIMNO+AVATRICE) | N/A |
+| 33 | [House Ethics Committee](http://twitter.com/search?q=House+Ethics+Committee) | N/A |
+| 34 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 35 | [Morgan Wallen](http://twitter.com/search?q=Morgan+Wallen) | N/A |
+| 36 | [Bernabeu](http://twitter.com/search?q=Bernabeu) | N/A |
+| 37 | [Shingles](http://twitter.com/search?q=Shingles) | N/A |
+| 38 | [De Jong](http://twitter.com/search?q=De+Jong) | De Jong is a Dutch surname. It is derived from the personal name Jan, which is a form of John. The literal meaning of the name in English is "son of John". |
+| 39 | [RTTS](http://twitter.com/search?q=RTTS) | N/A |
+| 40 | [Scoot Henderson](http://twitter.com/search?q=Scoot+Henderson) | N/A |
+| 41 | [Aaron Donald](http://twitter.com/search?q=Aaron+Donald) | Aaron Donald is an American professional football player who plays for the Los Angeles Rams of the National Football League (NFL). He is a six-time Pro Bowl selection and four-time First-Team All-Pro. He is widely regarded as one of the best defensive players in the NFL. |
+| 42 | [Haunted Mansion](http://twitter.com/search?q=Haunted+Mansion) | N/A |
+| 43 | [Militao](http://twitter.com/search?q=Militao) | Militão is a Portuguese name derived from the Latin word militare, meaning “to serve in the military”. In English, it can be translated to mean “soldier” or “warrior”. |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Netherlands
 
-📆 Last Updated: `2023-03-02 22:16:38 UTC`
+📆 Last Updated: `2023-03-02 23:17:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Netherlands
 | ------- | ------------ | ------------ |
 | 1 | [#graaja](http://twitter.com/search?q=%23graaja) | N/A |
 | 2 | [#psvado](http://twitter.com/search?q=%23psvado) | N/A |
-| 3 | [#vandaaginside](http://twitter.com/search?q=%23vandaaginside) | N/A |
-| 4 | [#Ajax](http://twitter.com/search?q=%23Ajax) | N/A |
-| 5 | [#heefey](http://twitter.com/search?q=%23heefey) | N/A |
+| 3 | [#Ajax](http://twitter.com/search?q=%23Ajax) | N/A |
+| 4 | [#heefey](http://twitter.com/search?q=%23heefey) | N/A |
+| 5 | [#vandaaginside](http://twitter.com/search?q=%23vandaaginside) | N/A |
 | 6 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
-| 7 | [Brobbey](http://twitter.com/search?q=Brobbey) | N/A |
-| 8 | [De Graafschap](http://twitter.com/search?q=De+Graafschap) | N/A |
-| 9 | [Lubach](http://twitter.com/search?q=Lubach) | N/A |
-| 10 | [Bergwijn](http://twitter.com/search?q=Bergwijn) | N/A |
+| 7 | [Lubach](http://twitter.com/search?q=Lubach) | N/A |
+| 8 | [Brobbey](http://twitter.com/search?q=Brobbey) | N/A |
+| 9 | [Bergwijn](http://twitter.com/search?q=Bergwijn) | N/A |
+| 10 | [De Graafschap](http://twitter.com/search?q=De+Graafschap) | N/A |
 | 11 | [Viaplay](http://twitter.com/search?q=Viaplay) | N/A |
-| 12 | [Grillitsch](http://twitter.com/search?q=Grillitsch) | N/A |
-| 13 | [Olav](http://twitter.com/search?q=Olav) | N/A |
-| 14 | [Hato](http://twitter.com/search?q=Hato) | N/A |
+| 12 | [Olav](http://twitter.com/search?q=Olav) | N/A |
+| 13 | [Slaap](http://twitter.com/search?q=Slaap) | N/A |
+| 14 | [Spakenburg](http://twitter.com/search?q=Spakenburg) | N/A |
 | 15 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
-| 16 | [Spakenburg](http://twitter.com/search?q=Spakenburg) | N/A |
-| 17 | [DigiD](http://twitter.com/search?q=DigiD) | N/A |
-| 18 | [Yunho](http://twitter.com/search?q=Yunho) | N/A |
-| 19 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
-| 20 | [Patrick Roest](http://twitter.com/search?q=Patrick+Roest) | N/A |
-| 21 | [Bassey](http://twitter.com/search?q=Bassey) | N/A |
-| 22 | [Wijndal](http://twitter.com/search?q=Wijndal) | N/A |
-| 23 | [Sangare](http://twitter.com/search?q=Sangare) | N/A |
-| 24 | [Slaap](http://twitter.com/search?q=Slaap) | N/A |
-| 25 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
-| 26 | [Johan](http://twitter.com/search?q=Johan) | N/A |
-| 27 | [Tjeerd](http://twitter.com/search?q=Tjeerd) | N/A |
-| 28 | [Marion Koopmans](http://twitter.com/search?q=Marion+Koopmans) | N/A |
-| 29 | [Tadic](http://twitter.com/search?q=Tadic) | Tadic is a surname of Slavic origin. It is derived from the given name Tado, which is a diminutive form of the name Thaddeus. The English meaning of the name is "gift of God". |
-| 30 | [Chris Klomp](http://twitter.com/search?q=Chris+Klomp) | N/A |
-| 31 | [Göteborg](http://twitter.com/search?q=G%c3%b6teborg) | N/A |
-| 32 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 33 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 34 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
-| 35 | [Heerenveen](http://twitter.com/search?q=Heerenveen) | N/A |
-| 36 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 37 | [Drommel](http://twitter.com/search?q=Drommel) | N/A |
+| 16 | [DigiD](http://twitter.com/search?q=DigiD) | N/A |
+| 17 | [Grillitsch](http://twitter.com/search?q=Grillitsch) | N/A |
+| 18 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
+| 19 | [Hato](http://twitter.com/search?q=Hato) | N/A |
+| 20 | [Bassey](http://twitter.com/search?q=Bassey) | N/A |
+| 21 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 22 | [Nanninga](http://twitter.com/search?q=Nanninga) | N/A |
+| 23 | [Göteborg](http://twitter.com/search?q=G%c3%b6teborg) | N/A |
+| 24 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
+| 25 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 26 | [Tadic](http://twitter.com/search?q=Tadic) | Tadic is a surname of Slavic origin. It is derived from the given name Tado, which is a diminutive form of the name Thaddeus. The English meaning of the name is "gift of God". |
+| 27 | [Chris Klomp](http://twitter.com/search?q=Chris+Klomp) | N/A |
+| 28 | [Tjeerd](http://twitter.com/search?q=Tjeerd) | N/A |
+| 29 | [Marion Koopmans](http://twitter.com/search?q=Marion+Koopmans) | N/A |
+| 30 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 31 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 32 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
+| 33 | [Heerenveen](http://twitter.com/search?q=Heerenveen) | N/A |
+| 34 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 35 | [Drommel](http://twitter.com/search?q=Drommel) | N/A |
+| 36 | [voortaan 60](http://twitter.com/search?q=voortaan+60) | N/A |
+| 37 | [De Vijverberg](http://twitter.com/search?q=De+Vijverberg) | N/A |
 | 38 | [Inflatie](http://twitter.com/search?q=Inflatie) | N/A |
-| 39 | [voortaan 60](http://twitter.com/search?q=voortaan+60) | N/A |
-| 40 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 41 | [De Vijverberg](http://twitter.com/search?q=De+Vijverberg) | N/A |
-| 42 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 43 | [Doetinchem](http://twitter.com/search?q=Doetinchem) | N/A |
-| 44 | [Bryansk](http://twitter.com/search?q=Bryansk) | N/A |
-| 45 | [Vanuatu](http://twitter.com/search?q=Vanuatu) | N/A |
-| 46 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 47 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 48 | [pasveer](http://twitter.com/search?q=pasveer) | N/A |
-| 49 | [Tineke](http://twitter.com/search?q=Tineke) | N/A |
-| 50 | [Heitinga](http://twitter.com/search?q=Heitinga) | N/A |
+| 39 | [Johan](http://twitter.com/search?q=Johan) | N/A |
+| 40 | [Doetinchem](http://twitter.com/search?q=Doetinchem) | N/A |
+| 41 | [Bryansk](http://twitter.com/search?q=Bryansk) | N/A |
+| 42 | [Vanuatu](http://twitter.com/search?q=Vanuatu) | N/A |
+| 43 | [Wijndal](http://twitter.com/search?q=Wijndal) | N/A |
+| 44 | [Sangare](http://twitter.com/search?q=Sangare) | N/A |
+| 45 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 46 | [Red Ongehoord Nederland](http://twitter.com/search?q=Red+Ongehoord+Nederland) | N/A |
+| 47 | [Stop NPO-censuur](http://twitter.com/search?q=Stop+NPO-censuur) | N/A |
+| 48 | [De FBI](http://twitter.com/search?q=De+FBI) | N/A |
+| 49 | [Patrick Roest](http://twitter.com/search?q=Patrick+Roest) | N/A |
+| 50 | [Tineke](http://twitter.com/search?q=Tineke) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Baton Rouge
 
-📆 Last Updated: `2023-03-02 22:16:26 UTC`
+📆 Last Updated: `2023-03-02 23:16:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,49 +15,49 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#WhyIChime](http://twitter.com/search?q=%23WhyIChime) | N/A |
-| 2 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 3 | [#ElClasico](http://twitter.com/search?q=%23ElClasico) | #ElClasico is a term used to refer to the football (soccer) match between two of the biggest clubs in Spain, Real Madrid and FC Barcelona. It is one of the most highly anticipated matches in world football and is considered to be one of the greatest rivalries in sport. In English, it translates to "The Classic". |
-| 4 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 5 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
-| 6 | [#ReadAcrossAmericaDay](http://twitter.com/search?q=%23ReadAcrossAmericaDay) | N/A |
-| 7 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 8 | [Calijah Kancey](http://twitter.com/search?q=Calijah+Kancey) | N/A |
-| 9 | [#SaferWithBiden](http://twitter.com/search?q=%23SaferWithBiden) | N/A |
+| 1 | [Nolan Smith](http://twitter.com/search?q=Nolan+Smith) | N/A |
+| 2 | [#WhyIChime](http://twitter.com/search?q=%23WhyIChime) | N/A |
+| 3 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 4 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 5 | [#ReadAcrossAmericaDay](http://twitter.com/search?q=%23ReadAcrossAmericaDay) | N/A |
+| 6 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
+| 7 | [#ElClasico](http://twitter.com/search?q=%23ElClasico) | #ElClasico is a term used to refer to the football (soccer) match between two of the biggest clubs in Spain, Real Madrid and FC Barcelona. It is one of the most highly anticipated matches in world football and is considered to be one of the greatest rivalries in sport. In English, it translates to "The Classic". |
+| 8 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 9 | [#StarTrekDiscovery](http://twitter.com/search?q=%23StarTrekDiscovery) | N/A |
 | 10 | [Hershey](http://twitter.com/search?q=Hershey) | N/A |
-| 11 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 12 | [Jerome Boger](http://twitter.com/search?q=Jerome+Boger) | N/A |
-| 13 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
-| 14 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 15 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
-| 16 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
-| 17 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
-| 18 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
-| 19 | [Jerry Richardson](http://twitter.com/search?q=Jerry+Richardson) | N/A |
-| 20 | [Bostic](http://twitter.com/search?q=Bostic) | N/A |
-| 21 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
-| 22 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 23 | [House Ethics Committee](http://twitter.com/search?q=House+Ethics+Committee) | N/A |
-| 24 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 25 | [De Jong](http://twitter.com/search?q=De+Jong) | De Jong is a Dutch surname. It is derived from the personal name Jan, which is a form of John. The literal meaning of the name in English is "son of John". |
-| 26 | [BAMBOLA HIMNO AVATRICE](http://twitter.com/search?q=BAMBOLA+HIMNO+AVATRICE) | N/A |
-| 27 | [Aaron Donald](http://twitter.com/search?q=Aaron+Donald) | Aaron Donald is an American professional football player who plays for the Los Angeles Rams of the National Football League (NFL). He is a six-time Pro Bowl selection and four-time First-Team All-Pro. He is widely regarded as one of the best defensive players in the NFL. |
-| 28 | [Rahm](http://twitter.com/search?q=Rahm) | N/A |
-| 29 | [Adetomiwa Adebawore](http://twitter.com/search?q=Adetomiwa+Adebawore) | N/A |
-| 30 | [Jalen Redmond](http://twitter.com/search?q=Jalen+Redmond) | N/A |
-| 31 | [Dr. Seuss](http://twitter.com/search?q=Dr.+Seuss) | N/A |
-| 32 | [Morgan Wallen](http://twitter.com/search?q=Morgan+Wallen) | N/A |
-| 33 | [Bryan Bresee](http://twitter.com/search?q=Bryan+Bresee) | N/A |
-| 34 | [Bernabeu](http://twitter.com/search?q=Bernabeu) | N/A |
-| 35 | [Scoot Henderson](http://twitter.com/search?q=Scoot+Henderson) | N/A |
-| 36 | [Rep. George Santos](http://twitter.com/search?q=Rep.+George+Santos) | N/A |
-| 37 | [Dante Stills](http://twitter.com/search?q=Dante+Stills) | N/A |
-| 38 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
-| 39 | [Haunted Mansion](http://twitter.com/search?q=Haunted+Mansion) | N/A |
-| 40 | [Tim Pool](http://twitter.com/search?q=Tim+Pool) | N/A |
-| 41 | [Justice Department](http://twitter.com/search?q=Justice+Department) | N/A |
-| 42 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
-| 43 | [Tuberville](http://twitter.com/search?q=Tuberville) | N/A |
+| 11 | [Jon Rahm](http://twitter.com/search?q=Jon+Rahm) | N/A |
+| 12 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 13 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 14 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
+| 15 | [Fanfest](http://twitter.com/search?q=Fanfest) | N/A |
+| 16 | [Jerome Boger](http://twitter.com/search?q=Jerome+Boger) | N/A |
+| 17 | [Calijah Kancey](http://twitter.com/search?q=Calijah+Kancey) | N/A |
+| 18 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 19 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
+| 20 | [Byron Young](http://twitter.com/search?q=Byron+Young) | N/A |
+| 21 | [Domi](http://twitter.com/search?q=Domi) | Domi is a Japanese term that means "dominance" or "dominant." It is often used to describe someone who is strong, powerful, and in control. |
+| 22 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
+| 23 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 24 | [Red Ruby](http://twitter.com/search?q=Red+Ruby) | N/A |
+| 25 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 26 | [Dr. Seuss](http://twitter.com/search?q=Dr.+Seuss) | N/A |
+| 27 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
+| 28 | [Dembele](http://twitter.com/search?q=Dembele) | Dembele is a surname of West African origin. It is derived from the Mande language and means "peaceful warrior". In English, it can be translated to mean "one who brings peace through strength". |
+| 29 | [Bostic](http://twitter.com/search?q=Bostic) | N/A |
+| 30 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
+| 31 | [Jerry Richardson](http://twitter.com/search?q=Jerry+Richardson) | N/A |
+| 32 | [Adetomiwa Adebawore](http://twitter.com/search?q=Adetomiwa+Adebawore) | N/A |
+| 33 | [Tim Pool](http://twitter.com/search?q=Tim+Pool) | N/A |
+| 34 | [BAMBOLA HIMNO AVATRICE](http://twitter.com/search?q=BAMBOLA+HIMNO+AVATRICE) | N/A |
+| 35 | [House Ethics Committee](http://twitter.com/search?q=House+Ethics+Committee) | N/A |
+| 36 | [Morgan Wallen](http://twitter.com/search?q=Morgan+Wallen) | N/A |
+| 37 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 38 | [Bernabeu](http://twitter.com/search?q=Bernabeu) | N/A |
+| 39 | [Shingles](http://twitter.com/search?q=Shingles) | N/A |
+| 40 | [De Jong](http://twitter.com/search?q=De+Jong) | De Jong is a Dutch surname. It is derived from the personal name Jan, which is a form of John. The literal meaning of the name in English is "son of John". |
+| 41 | [RTTS](http://twitter.com/search?q=RTTS) | N/A |
+| 42 | [Scoot Henderson](http://twitter.com/search?q=Scoot+Henderson) | N/A |
+| 43 | [Aaron Donald](http://twitter.com/search?q=Aaron+Donald) | Aaron Donald is an American professional football player who plays for the Los Angeles Rams of the National Football League (NFL). He is a six-time Pro Bowl selection and four-time First-Team All-Pro. He is widely regarded as one of the best defensive players in the NFL. |
 
 
 

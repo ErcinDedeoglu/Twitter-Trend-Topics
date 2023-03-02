@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chelyabinsk
 
-📆 Last Updated: `2023-03-02 22:16:17 UTC`
+📆 Last Updated: `2023-03-02 23:16:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,55 @@ This is top 50 for [Russia](</Russia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Pretty Coooool](http://twitter.com/search?q=Pretty+Coooool) | Pretty Coooool is an expression of enthusiasm or approval. It is often used to express excitement or admiration for something. In English, it can be translated to mean "very cool" or "awesome". |
-| 2 | [Employ](http://twitter.com/search?q=Employ) | N/A |
-| 3 | [Брянской](http://twitter.com/search?q=%d0%91%d1%80%d1%8f%d0%bd%d1%81%d0%ba%d0%be%d0%b9) | N/A |
-| 4 | [Users](http://twitter.com/search?q=Users) | N/A |
-| 5 | [Boss](http://twitter.com/search?q=Boss) | N/A |
+| 1 | [Users](http://twitter.com/search?q=Users) | N/A |
+| 2 | [Pretty Coooool](http://twitter.com/search?q=Pretty+Coooool) | Pretty Coooool is an expression of enthusiasm or approval. It is often used to express excitement or admiration for something. In English, it can be translated to mean "very cool" or "awesome". |
+| 3 | [Boss](http://twitter.com/search?q=Boss) | N/A |
+| 4 | [Employ](http://twitter.com/search?q=Employ) | N/A |
+| 5 | [Брянской](http://twitter.com/search?q=%d0%91%d1%80%d1%8f%d0%bd%d1%81%d0%ba%d0%be%d0%b9) | N/A |
 | 6 | [#нюдсочетверг](http://twitter.com/search?q=%23%d0%bd%d1%8e%d0%b4%d1%81%d0%be%d1%87%d0%b5%d1%82%d0%b2%d0%b5%d1%80%d0%b3) | N/A |
-| 7 | [Брянскую](http://twitter.com/search?q=%d0%91%d1%80%d1%8f%d0%bd%d1%81%d0%ba%d1%83%d1%8e) | N/A |
-| 8 | [Король и Шут](http://twitter.com/search?q=%d0%9a%d0%be%d1%80%d0%be%d0%bb%d1%8c+%d0%b8+%d0%a8%d1%83%d1%82) | N/A |
-| 9 | [Сайно](http://twitter.com/search?q=%d0%a1%d0%b0%d0%b9%d0%bd%d0%be) | N/A |
-| 10 | [Красавчик](http://twitter.com/search?q=%d0%9a%d1%80%d0%b0%d1%81%d0%b0%d0%b2%d1%87%d0%b8%d0%ba) | N/A |
-| 11 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
-| 12 | [Кавеха](http://twitter.com/search?q=%d0%9a%d0%b0%d0%b2%d0%b5%d1%85%d0%b0) | N/A |
-| 13 | [Аминь](http://twitter.com/search?q=%d0%90%d0%bc%d0%b8%d0%bd%d1%8c) | N/A |
-| 14 | [с днём рождения](http://twitter.com/search?q=%d1%81+%d0%b4%d0%bd%d1%91%d0%bc+%d1%80%d0%be%d0%b6%d0%b4%d0%b5%d0%bd%d0%b8%d1%8f) | N/A |
-| 15 | [#NFTs](http://twitter.com/search?q=%23NFTs) | N/A |
-| 16 | [Японии](http://twitter.com/search?q=%d0%af%d0%bf%d0%be%d0%bd%d0%b8%d0%b8) | N/A |
-| 17 | [Антона](http://twitter.com/search?q=%d0%90%d0%bd%d1%82%d0%be%d0%bd%d0%b0) | N/A |
-| 18 | [#applepronews](http://twitter.com/search?q=%23applepronews) | N/A |
-| 19 | [Бога](http://twitter.com/search?q=%d0%91%d0%be%d0%b3%d0%b0) | N/A |
-| 20 | [Навальный](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b2%d0%b0%d0%bb%d1%8c%d0%bd%d1%8b%d0%b9) | N/A |
-| 21 | [яндекс](http://twitter.com/search?q=%d1%8f%d0%bd%d0%b4%d0%b5%d0%ba%d1%81) | N/A |
-| 22 | [Какие](http://twitter.com/search?q=%d0%9a%d0%b0%d0%ba%d0%b8%d0%b5) | N/A |
-| 23 | [Лучшая](http://twitter.com/search?q=%d0%9b%d1%83%d1%87%d1%88%d0%b0%d1%8f) | N/A |
-| 24 | [донбасс](http://twitter.com/search?q=%d0%b4%d0%be%d0%bd%d0%b1%d0%b0%d1%81%d1%81) | N/A |
-| 25 | [Весна](http://twitter.com/search?q=%d0%92%d0%b5%d1%81%d0%bd%d0%b0) | N/A |
-| 26 | [обожаю](http://twitter.com/search?q=%d0%be%d0%b1%d0%be%d0%b6%d0%b0%d1%8e) | N/A |
-| 27 | [Лучший](http://twitter.com/search?q=%d0%9b%d1%83%d1%87%d1%88%d0%b8%d0%b9) | N/A |
-| 28 | [Питере](http://twitter.com/search?q=%d0%9f%d0%b8%d1%82%d0%b5%d1%80%d0%b5) | N/A |
-| 29 | [Слушай](http://twitter.com/search?q=%d0%a1%d0%bb%d1%83%d1%88%d0%b0%d0%b9) | N/A |
-| 30 | [В России](http://twitter.com/search?q=%d0%92+%d0%a0%d0%be%d1%81%d1%81%d0%b8%d0%b8) | N/A |
-| 31 | [Вполне](http://twitter.com/search?q=%d0%92%d0%bf%d0%be%d0%bb%d0%bd%d0%b5) | N/A |
-| 32 | [ЧВК Редан](http://twitter.com/search?q=%d0%a7%d0%92%d0%9a+%d0%a0%d0%b5%d0%b4%d0%b0%d0%bd) | N/A |
-| 33 | [#Архитектура](http://twitter.com/search?q=%23%d0%90%d1%80%d1%85%d0%b8%d1%82%d0%b5%d0%ba%d1%82%d1%83%d1%80%d0%b0) | N/A |
-| 34 | [#Crypto](http://twitter.com/search?q=%23Crypto) | N/A |
-| 35 | [Вижу](http://twitter.com/search?q=%d0%92%d0%b8%d0%b6%d1%83) | N/A |
-| 36 | [Арсения](http://twitter.com/search?q=%d0%90%d1%80%d1%81%d0%b5%d0%bd%d0%b8%d1%8f) | N/A |
-| 37 | [Пусть](http://twitter.com/search?q=%d0%9f%d1%83%d1%81%d1%82%d1%8c) | N/A |
-| 38 | [Гитлера](http://twitter.com/search?q=%d0%93%d0%b8%d1%82%d0%bb%d0%b5%d1%80%d0%b0) | N/A |
-| 39 | [Ждём](http://twitter.com/search?q=%d0%96%d0%b4%d1%91%d0%bc) | N/A |
-| 40 | [Дада](http://twitter.com/search?q=%d0%94%d0%b0%d0%b4%d0%b0) | N/A |
-| 41 | [НАСКОЛЬКО](http://twitter.com/search?q=%d0%9d%d0%90%d0%a1%d0%9a%d0%9e%d0%9b%d0%ac%d0%9a%d0%9e) | N/A |
-| 42 | [Европе](http://twitter.com/search?q=%d0%95%d0%b2%d1%80%d0%be%d0%bf%d0%b5) | N/A |
+| 7 | [Insider](http://twitter.com/search?q=Insider) | N/A |
+| 8 | [Smart](http://twitter.com/search?q=Smart) | N/A |
+| 9 | [#Binance](http://twitter.com/search?q=%23Binance) | N/A |
+| 10 | [Брянскую](http://twitter.com/search?q=%d0%91%d1%80%d1%8f%d0%bd%d1%81%d0%ba%d1%83%d1%8e) | N/A |
+| 11 | [Король и Шут](http://twitter.com/search?q=%d0%9a%d0%be%d1%80%d0%be%d0%bb%d1%8c+%d0%b8+%d0%a8%d1%83%d1%82) | N/A |
+| 12 | [Сайно](http://twitter.com/search?q=%d0%a1%d0%b0%d0%b9%d0%bd%d0%be) | N/A |
+| 13 | [красавчик](http://twitter.com/search?q=%d0%ba%d1%80%d0%b0%d1%81%d0%b0%d0%b2%d1%87%d0%b8%d0%ba) | N/A |
+| 14 | [Кавеха](http://twitter.com/search?q=%d0%9a%d0%b0%d0%b2%d0%b5%d1%85%d0%b0) | N/A |
+| 15 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
+| 16 | [Аминь](http://twitter.com/search?q=%d0%90%d0%bc%d0%b8%d0%bd%d1%8c) | N/A |
+| 17 | [с днём рождения](http://twitter.com/search?q=%d1%81+%d0%b4%d0%bd%d1%91%d0%bc+%d1%80%d0%be%d0%b6%d0%b4%d0%b5%d0%bd%d0%b8%d1%8f) | N/A |
+| 18 | [#NFTs](http://twitter.com/search?q=%23NFTs) | N/A |
+| 19 | [Японии](http://twitter.com/search?q=%d0%af%d0%bf%d0%be%d0%bd%d0%b8%d0%b8) | N/A |
+| 20 | [Антона](http://twitter.com/search?q=%d0%90%d0%bd%d1%82%d0%be%d0%bd%d0%b0) | N/A |
+| 21 | [#applepronews](http://twitter.com/search?q=%23applepronews) | N/A |
+| 22 | [Навальный](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b2%d0%b0%d0%bb%d1%8c%d0%bd%d1%8b%d0%b9) | N/A |
+| 23 | [яндекс](http://twitter.com/search?q=%d1%8f%d0%bd%d0%b4%d0%b5%d0%ba%d1%81) | N/A |
+| 24 | [Какие](http://twitter.com/search?q=%d0%9a%d0%b0%d0%ba%d0%b8%d0%b5) | N/A |
+| 25 | [Лучшая](http://twitter.com/search?q=%d0%9b%d1%83%d1%87%d1%88%d0%b0%d1%8f) | N/A |
+| 26 | [Весна](http://twitter.com/search?q=%d0%92%d0%b5%d1%81%d0%bd%d0%b0) | N/A |
+| 27 | [Обожаю](http://twitter.com/search?q=%d0%9e%d0%b1%d0%be%d0%b6%d0%b0%d1%8e) | N/A |
+| 28 | [Лучший](http://twitter.com/search?q=%d0%9b%d1%83%d1%87%d1%88%d0%b8%d0%b9) | N/A |
+| 29 | [Питере](http://twitter.com/search?q=%d0%9f%d0%b8%d1%82%d0%b5%d1%80%d0%b5) | N/A |
+| 30 | [Слушай](http://twitter.com/search?q=%d0%a1%d0%bb%d1%83%d1%88%d0%b0%d0%b9) | N/A |
+| 31 | [В России](http://twitter.com/search?q=%d0%92+%d0%a0%d0%be%d1%81%d1%81%d0%b8%d0%b8) | N/A |
+| 32 | [Вполне](http://twitter.com/search?q=%d0%92%d0%bf%d0%be%d0%bb%d0%bd%d0%b5) | N/A |
+| 33 | [ЧВК Редан](http://twitter.com/search?q=%d0%a7%d0%92%d0%9a+%d0%a0%d0%b5%d0%b4%d0%b0%d0%bd) | N/A |
+| 34 | [Бога](http://twitter.com/search?q=%d0%91%d0%be%d0%b3%d0%b0) | N/A |
+| 35 | [#Архитектура](http://twitter.com/search?q=%23%d0%90%d1%80%d1%85%d0%b8%d1%82%d0%b5%d0%ba%d1%82%d1%83%d1%80%d0%b0) | N/A |
+| 36 | [Вижу](http://twitter.com/search?q=%d0%92%d0%b8%d0%b6%d1%83) | N/A |
+| 37 | [Арсения](http://twitter.com/search?q=%d0%90%d1%80%d1%81%d0%b5%d0%bd%d0%b8%d1%8f) | N/A |
+| 38 | [Пусть](http://twitter.com/search?q=%d0%9f%d1%83%d1%81%d1%82%d1%8c) | N/A |
+| 39 | [гитлера](http://twitter.com/search?q=%d0%b3%d0%b8%d1%82%d0%bb%d0%b5%d1%80%d0%b0) | N/A |
+| 40 | [Ждём](http://twitter.com/search?q=%d0%96%d0%b4%d1%91%d0%bc) | N/A |
+| 41 | [Дада](http://twitter.com/search?q=%d0%94%d0%b0%d0%b4%d0%b0) | N/A |
+| 42 | [НАСКОЛЬКО](http://twitter.com/search?q=%d0%9d%d0%90%d0%a1%d0%9a%d0%9e%d0%9b%d0%ac%d0%9a%d0%9e) | N/A |
 | 43 | [Жаль](http://twitter.com/search?q=%d0%96%d0%b0%d0%bb%d1%8c) | N/A |
-| 44 | [навального](http://twitter.com/search?q=%d0%bd%d0%b0%d0%b2%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d0%b3%d0%be) | N/A |
+| 44 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
 | 45 | [Ахах](http://twitter.com/search?q=%d0%90%d1%85%d0%b0%d1%85) | N/A |
-| 46 | [Правильно](http://twitter.com/search?q=%d0%9f%d1%80%d0%b0%d0%b2%d0%b8%d0%bb%d1%8c%d0%bd%d0%be) | N/A |
-| 47 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
-| 48 | [в москве](http://twitter.com/search?q=%d0%b2+%d0%bc%d0%be%d1%81%d0%ba%d0%b2%d0%b5) | N/A |
+| 46 | [Европу](http://twitter.com/search?q=%d0%95%d0%b2%d1%80%d0%be%d0%bf%d1%83) | N/A |
+| 47 | [Правильно](http://twitter.com/search?q=%d0%9f%d1%80%d0%b0%d0%b2%d0%b8%d0%bb%d1%8c%d0%bd%d0%be) | N/A |
+| 48 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
+| 49 | [в москве](http://twitter.com/search?q=%d0%b2+%d0%bc%d0%be%d1%81%d0%ba%d0%b2%d0%b5) | N/A |
 
 
 

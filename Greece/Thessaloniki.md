@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Thessaloniki
 
-📆 Last Updated: `2023-03-02 22:16:05 UTC`
+📆 Last Updated: `2023-03-02 23:16:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,7 +28,7 @@ This is top 50 for [Greece](</Greece>)
 | 11 | [Στους 57](http://twitter.com/search?q=%ce%a3%cf%84%ce%bf%cf%85%cf%82+57) | N/A |
 | 12 | [Συλλυπητηρια](http://twitter.com/search?q=%ce%a3%cf%85%ce%bb%ce%bb%cf%85%cf%80%ce%b7%cf%84%ce%b7%cf%81%ce%b9%ce%b1) | N/A |
 | 13 | [Ιταλους](http://twitter.com/search?q=%ce%99%cf%84%ce%b1%ce%bb%ce%bf%cf%85%cf%82) | N/A |
-| 14 | [Σκαι](http://twitter.com/search?q=%ce%a3%ce%ba%ce%b1%ce%b9) | N/A |
+| 14 | [ΣΚΑΙ](http://twitter.com/search?q=%ce%a3%ce%9a%ce%91%ce%99) | N/A |
 | 15 | [Μανδρα](http://twitter.com/search?q=%ce%9c%ce%b1%ce%bd%ce%b4%cf%81%ce%b1) | N/A |
 | 16 | [Πολακη](http://twitter.com/search?q=%ce%a0%ce%bf%ce%bb%ce%b1%ce%ba%ce%b7) | N/A |
 | 17 | [Μετρο](http://twitter.com/search?q=%ce%9c%ce%b5%cf%84%cf%81%ce%bf) | N/A |
