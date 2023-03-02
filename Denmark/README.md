@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-03-02 03:24:16 UTC`
+📆 Last Updated: `2023-03-02 04:17:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -40,31 +40,31 @@ This is top 50 for Denmark
 | 23 | [tv2 zulu](http://twitter.com/search?q=tv2+zulu) | N/A |
 | 24 | [Luke](http://twitter.com/search?q=Luke) | N/A |
 | 25 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
-| 26 | [vavro](http://twitter.com/search?q=vavro) | N/A |
-| 27 | [roskilde](http://twitter.com/search?q=roskilde) | N/A |
-| 28 | [Daramy](http://twitter.com/search?q=Daramy) | N/A |
+| 26 | [roskilde](http://twitter.com/search?q=roskilde) | N/A |
+| 27 | [vavro](http://twitter.com/search?q=vavro) | N/A |
+| 28 | [hedlund](http://twitter.com/search?q=hedlund) | N/A |
 | 29 | [Nordic](http://twitter.com/search?q=Nordic) | N/A |
-| 30 | [Hedlund](http://twitter.com/search?q=Hedlund) | N/A |
+| 30 | [daramy](http://twitter.com/search?q=daramy) | N/A |
 | 31 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
 | 32 | [troels](http://twitter.com/search?q=troels) | N/A |
-| 33 | [transnistrien](http://twitter.com/search?q=transnistrien) | N/A |
-| 34 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 35 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
-| 36 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 37 | [World Cup](http://twitter.com/search?q=World+Cup) | N/A |
-| 38 | [brøndby](http://twitter.com/search?q=br%c3%b8ndby) | N/A |
-| 39 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
-| 40 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 41 | [sandt](http://twitter.com/search?q=sandt) | N/A |
-| 42 | [parken](http://twitter.com/search?q=parken) | N/A |
-| 43 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
-| 44 | [Strade Bianche](http://twitter.com/search?q=Strade+Bianche) | N/A |
-| 45 | [Xbox](http://twitter.com/search?q=Xbox) | N/A |
-| 46 | [Fauci](http://twitter.com/search?q=Fauci) | N/A |
-| 47 | [regeringen](http://twitter.com/search?q=regeringen) | N/A |
-| 48 | [Mikkel](http://twitter.com/search?q=Mikkel) | N/A |
-| 49 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
-| 50 | [slimane](http://twitter.com/search?q=slimane) | N/A |
+| 33 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
+| 34 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
+| 35 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 36 | [World Cup](http://twitter.com/search?q=World+Cup) | N/A |
+| 37 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
+| 38 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 39 | [brøndby](http://twitter.com/search?q=br%c3%b8ndby) | N/A |
+| 40 | [sandt](http://twitter.com/search?q=sandt) | N/A |
+| 41 | [parken](http://twitter.com/search?q=parken) | N/A |
+| 42 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
+| 43 | [Strade Bianche](http://twitter.com/search?q=Strade+Bianche) | N/A |
+| 44 | [Xbox](http://twitter.com/search?q=Xbox) | N/A |
+| 45 | [Fauci](http://twitter.com/search?q=Fauci) | N/A |
+| 46 | [Mikkel](http://twitter.com/search?q=Mikkel) | N/A |
+| 47 | [slimane](http://twitter.com/search?q=slimane) | N/A |
+| 48 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
+| 49 | [The EU](http://twitter.com/search?q=The+EU) | N/A |
+| 50 | [regeringen](http://twitter.com/search?q=regeringen) | N/A |
 
 
 

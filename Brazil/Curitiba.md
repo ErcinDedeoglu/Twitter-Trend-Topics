@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Curitiba
 
-📆 Last Updated: `2023-03-02 03:23:28 UTC`
+📆 Last Updated: `2023-03-02 04:16:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for [Brazil](</Brazil>)
 | 4 | [Vargas](http://twitter.com/search?q=Vargas) | Vargas is a Spanish surname derived from the Latin word "varga," which means "wolf." It is also a common given name in Spanish-speaking countries. In English, Vargas can be translated to mean "wolf." |
 | 5 | [#FreeAnitta](http://twitter.com/search?q=%23FreeAnitta) | N/A |
 | 6 | [#AMagiaAconteceNoBBB](http://twitter.com/search?q=%23AMagiaAconteceNoBBB) | N/A |
-| 7 | [Hulk](http://twitter.com/search?q=Hulk) | Hulk is a fictional character created by Marvel Comics. He is a large, green humanoid with superhuman strength and invulnerability. The character first appeared in the comic book The Incredible Hulk #1 in May 1962. His catchphrase is "Hulk Smash!" |
-| 8 | [#BBWomenInMusic](http://twitter.com/search?q=%23BBWomenInMusic) | N/A |
-| 9 | [Patrick](http://twitter.com/search?q=Patrick) | Patrick is a given name derived from the Latin name Patricius, meaning "nobleman". It is a popular name in many English-speaking countries, particularly in Ireland, where it is the third most common male name. |
-| 10 | [#TWICE_BreakthroughAward](http://twitter.com/search?q=%23TWICE_BreakthroughAward) | N/A |
-| 11 | [Warner](http://twitter.com/search?q=Warner) | N/A |
+| 7 | [#BBWomenInMusic](http://twitter.com/search?q=%23BBWomenInMusic) | N/A |
+| 8 | [Hulk](http://twitter.com/search?q=Hulk) | Hulk is a fictional character created by Marvel Comics. He is a large, green humanoid with superhuman strength and invulnerability. The character first appeared in the comic book The Incredible Hulk #1 in May 1962. His catchphrase is "Hulk Smash!" |
+| 9 | [#TWICE_BreakthroughAward](http://twitter.com/search?q=%23TWICE_BreakthroughAward) | N/A |
+| 10 | [Warner](http://twitter.com/search?q=Warner) | N/A |
+| 11 | [Patrick](http://twitter.com/search?q=Patrick) | Patrick is a given name derived from the Latin name Patricius, meaning "nobleman". It is a popular name in many English-speaking countries, particularly in Ireland, where it is the third most common male name. |
 | 12 | [Carabobo](http://twitter.com/search?q=Carabobo) | Carabobo is a state in Venezuela. Its name is derived from the Carabobo tribe, which inhabited the area before the Spanish colonization of the Americas. In English, it means "Valley of the Brave". |
 | 13 | [Dodô](http://twitter.com/search?q=Dod%c3%b4) | N/A |
-| 14 | [Atlético Mineiro](http://twitter.com/search?q=Atl%c3%a9tico+Mineiro) | N/A |
-| 15 | [Lemos](http://twitter.com/search?q=Lemos) | N/A |
-| 16 | [Nathan Silva](http://twitter.com/search?q=Nathan+Silva) | Nathan Silva is a Portuguese name. It is derived from the Hebrew name Natan, which means "he gave". It can also be translated as "gift of God". |
-| 17 | [Pedrinho](http://twitter.com/search?q=Pedrinho) | Pedrinho is a Portuguese nickname for the name Pedro, which is the Spanish and Portuguese form of Peter. In English, it would be translated to Peter or Pete. |
+| 14 | [Nathan Silva](http://twitter.com/search?q=Nathan+Silva) | Nathan Silva is a Portuguese name. It is derived from the Hebrew name Natan, which means "he gave". It can also be translated as "gift of God". |
+| 15 | [Pedrinho](http://twitter.com/search?q=Pedrinho) | Pedrinho is a Portuguese nickname for the name Pedro, which is the Spanish and Portuguese form of Peter. In English, it would be translated to Peter or Pete. |
+| 16 | [Allan](http://twitter.com/search?q=Allan) | N/A |
+| 17 | [Atlético Mineiro](http://twitter.com/search?q=Atl%c3%a9tico+Mineiro) | N/A |
 | 18 | [Avaí](http://twitter.com/search?q=Ava%c3%ad) | N/A |
-| 19 | [Coudet](http://twitter.com/search?q=Coudet) | N/A |
-| 20 | [Cauly](http://twitter.com/search?q=Cauly) | N/A |
-| 21 | [Retrô](http://twitter.com/search?q=Retr%c3%b4) | N/A |
-| 22 | [Zaracho](http://twitter.com/search?q=Zaracho) | N/A |
-| 23 | [Top Track](http://twitter.com/search?q=Top+Track) | N/A |
-| 24 | [Top Album](http://twitter.com/search?q=Top+Album) | N/A |
-| 25 | [Top Artist](http://twitter.com/search?q=Top+Artist) | N/A |
-| 26 | [No. Scrobbles](http://twitter.com/search?q=No.+Scrobbles) | N/A |
-| 27 | [#LibertadoresNaESPN](http://twitter.com/search?q=%23LibertadoresNaESPN) | N/A |
-| 28 | [Allan](http://twitter.com/search?q=Allan) | N/A |
-| 29 | [Cristaldo](http://twitter.com/search?q=Cristaldo) | Cristaldo is a Portuguese name derived from the Latin name “Christophorus”, which means “Christ-bearer”. It is a combination of the words “Cristo” (Christ) and “Aldo” (bearer). In English, Cristaldo can be translated to mean "Christ-bearer". |
-| 30 | [Everson](http://twitter.com/search?q=Everson) | Everson is a surname of English origin. It is derived from the Old English personal name Eoforwine, which means "boar friend". |
-| 31 | [É A RECONSTRUÇÃO DO GIGANTE](http://twitter.com/search?q=%c3%89+A+RECONSTRU%c3%87%c3%83O+DO+GIGANTE) | N/A |
-| 32 | [Ferreira](http://twitter.com/search?q=Ferreira) | Ferreira is a Portuguese surname derived from the Latin word ferrum, meaning "iron". It is also a common given name in Portuguese-speaking countries. In English, it can be translated to mean "Ironworker" or "Blacksmith". |
-| 33 | [Diogo Barbosa](http://twitter.com/search?q=Diogo+Barbosa) | N/A |
-| 34 | [O Galo](http://twitter.com/search?q=O+Galo) | N/A |
-| 35 | [Thiago Santos](http://twitter.com/search?q=Thiago+Santos) | Thiago Santos is a Brazilian mixed martial artist who competes in the Ultimate Fighting Championship (UFC). In English, the name Thiago Santos means "Saint James". |
-| 36 | [David Duarte](http://twitter.com/search?q=David+Duarte) | N/A |
-| 37 | [DEMI THE FINAL ONE](http://twitter.com/search?q=DEMI+THE+FINAL+ONE) | N/A |
-| 38 | [Lauren](http://twitter.com/search?q=Lauren) | N/A |
+| 19 | [Retrô](http://twitter.com/search?q=Retr%c3%b4) | N/A |
+| 20 | [Coudet](http://twitter.com/search?q=Coudet) | N/A |
+| 21 | [Lemos](http://twitter.com/search?q=Lemos) | N/A |
+| 22 | [Top Artist](http://twitter.com/search?q=Top+Artist) | N/A |
+| 23 | [Top Album](http://twitter.com/search?q=Top+Album) | N/A |
+| 24 | [Top Track](http://twitter.com/search?q=Top+Track) | N/A |
+| 25 | [No. Scrobbles](http://twitter.com/search?q=No.+Scrobbles) | N/A |
+| 26 | [Cauly](http://twitter.com/search?q=Cauly) | N/A |
+| 27 | [Zaracho](http://twitter.com/search?q=Zaracho) | N/A |
+| 28 | [#LibertadoresNaESPN](http://twitter.com/search?q=%23LibertadoresNaESPN) | N/A |
+| 29 | [TWICE BILLBOARD AWARD](http://twitter.com/search?q=TWICE+BILLBOARD+AWARD) | N/A |
+| 30 | [Grécia](http://twitter.com/search?q=Gr%c3%a9cia) | N/A |
+| 31 | [Cristaldo](http://twitter.com/search?q=Cristaldo) | Cristaldo is a Portuguese name derived from the Latin name “Christophorus”, which means “Christ-bearer”. It is a combination of the words “Cristo” (Christ) and “Aldo” (bearer). In English, Cristaldo can be translated to mean "Christ-bearer". |
+| 32 | [Everson](http://twitter.com/search?q=Everson) | Everson is a surname of English origin. It is derived from the Old English personal name Eoforwine, which means "boar friend". |
+| 33 | [É A RECONSTRUÇÃO DO GIGANTE](http://twitter.com/search?q=%c3%89+A+RECONSTRU%c3%87%c3%83O+DO+GIGANTE) | N/A |
+| 34 | [Ferreira](http://twitter.com/search?q=Ferreira) | Ferreira is a Portuguese surname derived from the Latin word ferrum, meaning "iron". It is also a common given name in Portuguese-speaking countries. In English, it can be translated to mean "Ironworker" or "Blacksmith". |
+| 35 | [O Galo](http://twitter.com/search?q=O+Galo) | N/A |
+| 36 | [Lauren](http://twitter.com/search?q=Lauren) | N/A |
+| 37 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 38 | [Vitor Gabriel](http://twitter.com/search?q=Vitor+Gabriel) | N/A |
 | 39 | [ESPORTE CLUBE BAHIA](http://twitter.com/search?q=ESPORTE+CLUBE+BAHIA) | N/A |
-| 40 | [Mineirão](http://twitter.com/search?q=Mineir%c3%a3o) | Mineirão is a football stadium located in Belo Horizonte, Brazil. It is the home of the Cruzeiro Esporte Clube and Atlético Mineiro football clubs. The name Mineirão is a reference to the state of Minas Gerais, where Belo Horizonte is located. In English, Mineirão translates to "Big Mineiro". |
-| 41 | [Vitor Gabriel](http://twitter.com/search?q=Vitor+Gabriel) | N/A |
-| 42 | [Hina](http://twitter.com/search?q=Hina) | N/A |
-| 43 | [Suárez](http://twitter.com/search?q=Su%c3%a1rez) | Suárez is a Spanish surname. It is derived from the Latin word "suarius," which means "of the swineherd." In English, it can be translated to mean "swineherd." |
+| 40 | [Cafu](http://twitter.com/search?q=Cafu) | N/A |
+| 41 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
+| 42 | [Saravia](http://twitter.com/search?q=Saravia) | N/A |
+| 43 | [Mineirão](http://twitter.com/search?q=Mineir%c3%a3o) | Mineirão is a football stadium located in Belo Horizonte, Brazil. It is the home of the Cruzeiro Esporte Clube and Atlético Mineiro football clubs. The name Mineirão is a reference to the state of Minas Gerais, where Belo Horizonte is located. In English, Mineirão translates to "Big Mineiro". |
 | 44 | [Copa do Brasil](http://twitter.com/search?q=Copa+do+Brasil) | N/A |
-| 45 | [Campinense](http://twitter.com/search?q=Campinense) | N/A |
-| 46 | [Cicinho](http://twitter.com/search?q=Cicinho) | Cicinho is a Portuguese nickname meaning "little one". It is often used as a term of endearment. |
-| 47 | [Jacuipense](http://twitter.com/search?q=Jacuipense) | N/A |
-| 48 | [Villasanti](http://twitter.com/search?q=Villasanti) | Villasanti is a Spanish surname. It is derived from the Latin words villa (town) and sancti (holy). In English, it can be translated to mean "holy town". |
-| 49 | [FAZ O PIX](http://twitter.com/search?q=FAZ+O+PIX) | N/A |
-| 50 | [Festa da Bruna](http://twitter.com/search?q=Festa+da+Bruna) | N/A |
+| 45 | [DEMI THE FINAL ONE](http://twitter.com/search?q=DEMI+THE+FINAL+ONE) | N/A |
+| 46 | [Hina](http://twitter.com/search?q=Hina) | N/A |
+| 47 | [David Duarte](http://twitter.com/search?q=David+Duarte) | N/A |
+| 48 | [Rubel](http://twitter.com/search?q=Rubel) | N/A |
+| 49 | [Villasanti](http://twitter.com/search?q=Villasanti) | Villasanti is a Spanish surname. It is derived from the Latin words villa (town) and sancti (holy). In English, it can be translated to mean "holy town". |
+| 50 | [Suárez](http://twitter.com/search?q=Su%c3%a1rez) | Suárez is a Spanish surname. It is derived from the Latin word "suarius," which means "of the swineherd." In English, it can be translated to mean "swineherd." |
 
 
 

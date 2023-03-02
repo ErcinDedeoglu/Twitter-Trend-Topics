@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indonesia
 
-📆 Last Updated: `2023-03-02 03:24:17 UTC`
+📆 Last Updated: `2023-03-02 04:17:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Indonesia
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Berita Ekonomi Terkini](http://twitter.com/search?q=Berita+Ekonomi+Terkini) | N/A |
-| 2 | [Hanya Di BloombergTechnoz](http://twitter.com/search?q=Hanya+Di+BloombergTechnoz) | N/A |
+| 1 | [Hanya Di BloombergTechnoz](http://twitter.com/search?q=Hanya+Di+BloombergTechnoz) | N/A |
+| 2 | [Berita Ekonomi Terkini](http://twitter.com/search?q=Berita+Ekonomi+Terkini) | N/A |
 | 3 | [#TAEYONGtoPFW23](http://twitter.com/search?q=%23TAEYONGtoPFW23) | N/A |
 | 4 | [TY WEARS LOEWE](http://twitter.com/search?q=TY+WEARS+LOEWE) | N/A |
-| 5 | [#GerakanUntukGanjar](http://twitter.com/search?q=%23GerakanUntukGanjar) | N/A |
-| 6 | [#KembangApi](http://twitter.com/search?q=%23KembangApi) | N/A |
+| 5 | [#LIKEITLIKEIT_MVTeaser2](http://twitter.com/search?q=%23LIKEITLIKEIT_MVTeaser2) | N/A |
+| 6 | [#LIKE_IT_LIKE_IT](http://twitter.com/search?q=%23LIKE_IT_LIKE_IT) | N/A |
 | 7 | [#BBWomenInMusic](http://twitter.com/search?q=%23BBWomenInMusic) | N/A |
-| 8 | [#TWICE_BreakthroughAward](http://twitter.com/search?q=%23TWICE_BreakthroughAward) | N/A |
-| 9 | [BLOOMING WITH LEESEO](http://twitter.com/search?q=BLOOMING+WITH+LEESEO) | N/A |
-| 10 | [HAECHAN LEE THANK YOU](http://twitter.com/search?q=HAECHAN+LEE+THANK+YOU) | N/A |
-| 11 | [THE PORTRAITS OF JISOO](http://twitter.com/search?q=THE+PORTRAITS+OF+JISOO) | N/A |
-| 12 | [5M BUILD](http://twitter.com/search?q=5M+BUILD) | N/A |
-| 13 | [Jalur](http://twitter.com/search?q=Jalur) | N/A |
-| 14 | [HOORAY FOR 2](http://twitter.com/search?q=HOORAY+FOR+2) | N/A |
-| 15 | [Mino](http://twitter.com/search?q=Mino) | N/A |
+| 8 | [#GerakanUntukGanjar](http://twitter.com/search?q=%23GerakanUntukGanjar) | N/A |
+| 9 | [iKON](http://twitter.com/search?q=iKON) | N/A |
+| 10 | [BLOOMING WITH LEESEO](http://twitter.com/search?q=BLOOMING+WITH+LEESEO) | N/A |
+| 11 | [mino](http://twitter.com/search?q=mino) | N/A |
+| 12 | [Bloomberg Dunia](http://twitter.com/search?q=Bloomberg+Dunia) | N/A |
+| 13 | [I LIKE IT](http://twitter.com/search?q=I+LIKE+IT) | N/A |
+| 14 | [Jalur](http://twitter.com/search?q=Jalur) | N/A |
+| 15 | [Bloomberg Global](http://twitter.com/search?q=Bloomberg+Global) | N/A |
 | 16 | [minghao](http://twitter.com/search?q=minghao) | N/A |
-| 17 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 18 | [Internasional](http://twitter.com/search?q=Internasional) | N/A |
-| 19 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
-| 20 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
-| 21 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 22 | [Formula E](http://twitter.com/search?q=Formula+E) | N/A |
-| 23 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 24 | [Gelora Buat Konser](http://twitter.com/search?q=Gelora+Buat+Konser) | N/A |
-| 25 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 17 | [5M BUILD](http://twitter.com/search?q=5M+BUILD) | N/A |
+| 18 | [HAECHAN LEE THANK YOU](http://twitter.com/search?q=HAECHAN+LEE+THANK+YOU) | N/A |
+| 19 | [HOORAY FOR 2](http://twitter.com/search?q=HOORAY+FOR+2) | N/A |
+| 20 | [THE PORTRAITS OF JISOO](http://twitter.com/search?q=THE+PORTRAITS+OF+JISOO) | N/A |
+| 21 | [Gelora Buat Konser](http://twitter.com/search?q=Gelora+Buat+Konser) | N/A |
+| 22 | [Internasional](http://twitter.com/search?q=Internasional) | N/A |
+| 23 | [SECRET NUMBER JAPAN DEBUT](http://twitter.com/search?q=SECRET+NUMBER+JAPAN+DEBUT) | N/A |
+| 24 | [Sisanya](http://twitter.com/search?q=Sisanya) | N/A |
+| 25 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
 | 26 | [Paris](http://twitter.com/search?q=Paris) | N/A |
-| 27 | [Sheila Dara](http://twitter.com/search?q=Sheila+Dara) | N/A |
-| 28 | [Rafael](http://twitter.com/search?q=Rafael) | N/A |
-| 29 | [pika](http://twitter.com/search?q=pika) | N/A |
-| 30 | [Persija](http://twitter.com/search?q=Persija) | Persija is a football club based in Jakarta, Indonesia. The name is derived from the Sanskrit word for 'victory', and it is also the nickname of the team's supporters. In English, Persija translates to 'Victorious'. |
-| 31 | [Andai](http://twitter.com/search?q=Andai) | N/A |
-| 32 | [OUR SUNSHINE PARK JEONGWOO](http://twitter.com/search?q=OUR+SUNSHINE+PARK+JEONGWOO) | N/A |
-| 33 | [UU ITE](http://twitter.com/search?q=UU+ITE) | N/A |
-| 34 | [HYBE PROTECT RM](http://twitter.com/search?q=HYBE+PROTECT+RM) | N/A |
-| 35 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
-| 36 | [BIGHIT PROTECT RM](http://twitter.com/search?q=BIGHIT+PROTECT+RM) | N/A |
-| 37 | [#WelcomeLeeseoToHanlim](http://twitter.com/search?q=%23WelcomeLeeseoToHanlim) | N/A |
-| 38 | [#LIKEITLIKEIT_MVTeaser2](http://twitter.com/search?q=%23LIKEITLIKEIT_MVTeaser2) | N/A |
-| 39 | [#anisd](http://twitter.com/search?q=%23anisd) | N/A |
-| 40 | [#ZeeNuNewKoreaInterview](http://twitter.com/search?q=%23ZeeNuNewKoreaInterview) | N/A |
-| 41 | [#2AndHalfMWithBuild](http://twitter.com/search?q=%232AndHalfMWithBuild) | N/A |
-| 42 | [#BOCdoBetterForMile](http://twitter.com/search?q=%23BOCdoBetterForMile) | N/A |
-| 43 | [#KPKKenaPrank](http://twitter.com/search?q=%23KPKKenaPrank) | N/A |
-| 44 | [#LIKE_IT_LIKE_IT](http://twitter.com/search?q=%23LIKE_IT_LIKE_IT) | N/A |
-| 45 | [#JISOOxDUNST](http://twitter.com/search?q=%23JISOOxDUNST) | N/A |
-| 46 | [#zonauangᅠᅠᅠ](http://twitter.com/search?q=%23zonauang%e1%85%a0%e1%85%a0%e1%85%a0) | N/A |
-| 47 | [#NCT태용](http://twitter.com/search?q=%23NCT%ed%83%9c%ec%9a%a9) | N/A |
-| 48 | [#HARAM](http://twitter.com/search?q=%23HARAM) | N/A |
-| 49 | [#FACup](http://twitter.com/search?q=%23FACup) | #FACup is an abbreviation for the Football Association Challenge Cup, which is an annual knockout football competition in England. It is the oldest football competition in the world and is open to all teams from the top four tiers of English football. |
-| 50 | [#MUNWHU](http://twitter.com/search?q=%23MUNWHU) | N/A |
+| 27 | [Formula E](http://twitter.com/search?q=Formula+E) | N/A |
+| 28 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
+| 29 | [Persija](http://twitter.com/search?q=Persija) | Persija is a football club based in Jakarta, Indonesia. The name is derived from the Sanskrit word for 'victory', and it is also the nickname of the team's supporters. In English, Persija translates to 'Victorious'. |
+| 30 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
+| 31 | [pika](http://twitter.com/search?q=pika) | N/A |
+| 32 | [Andai](http://twitter.com/search?q=Andai) | N/A |
+| 33 | [Rafael](http://twitter.com/search?q=Rafael) | N/A |
+| 34 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 35 | [Sheila Dara](http://twitter.com/search?q=Sheila+Dara) | N/A |
+| 36 | [Jambi](http://twitter.com/search?q=Jambi) | N/A |
+| 37 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
+| 38 | [UU ITE](http://twitter.com/search?q=UU+ITE) | N/A |
+| 39 | [OUR SUNSHINE PARK JEONGWOO](http://twitter.com/search?q=OUR+SUNSHINE+PARK+JEONGWOO) | N/A |
+| 40 | [#KembangApi](http://twitter.com/search?q=%23KembangApi) | N/A |
+| 41 | [#BliMinBeliin](http://twitter.com/search?q=%23BliMinBeliin) | N/A |
+| 42 | [#TWICE_BreakthroughAward](http://twitter.com/search?q=%23TWICE_BreakthroughAward) | N/A |
+| 43 | [#SavePendampingDesa](http://twitter.com/search?q=%23SavePendampingDesa) | N/A |
+| 44 | [#anisd](http://twitter.com/search?q=%23anisd) | N/A |
+| 45 | [#WelcomeLeeseoToHanlim](http://twitter.com/search?q=%23WelcomeLeeseoToHanlim) | N/A |
+| 46 | [#BlibliSelalu](http://twitter.com/search?q=%23BlibliSelalu) | N/A |
+| 47 | [#ZeeNuNewKoreaInterview](http://twitter.com/search?q=%23ZeeNuNewKoreaInterview) | N/A |
+| 48 | [#2AndHalfMWithBuild](http://twitter.com/search?q=%232AndHalfMWithBuild) | N/A |
+| 49 | [#BOCdoBetterForMile](http://twitter.com/search?q=%23BOCdoBetterForMile) | N/A |
+| 50 | [#BOBBY](http://twitter.com/search?q=%23BOBBY) | N/A |
 
 
 

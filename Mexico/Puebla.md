@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Puebla
 
-📆 Last Updated: `2023-03-02 03:23:24 UTC`
+📆 Last Updated: `2023-03-02 04:16:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Mexico](</Mexico>)
 | ------- | ------------ | ------------ |
 | 1 | [La Tigresa](http://twitter.com/search?q=La+Tigresa) | N/A |
 | 2 | [Irma Serrano](http://twitter.com/search?q=Irma+Serrano) | N/A |
-| 3 | [#BBWomenInMusic](http://twitter.com/search?q=%23BBWomenInMusic) | N/A |
-| 4 | [#TWICE_BreakthroughAward](http://twitter.com/search?q=%23TWICE_BreakthroughAward) | N/A |
-| 5 | [#MedallaVaronil](http://twitter.com/search?q=%23MedallaVaronil) | N/A |
-| 6 | [#2AndHalfMWithBuild](http://twitter.com/search?q=%232AndHalfMWithBuild) | N/A |
-| 7 | [Gloria Trevi](http://twitter.com/search?q=Gloria+Trevi) | N/A |
-| 8 | [5M BUILD](http://twitter.com/search?q=5M+BUILD) | N/A |
-| 9 | [#SUGA_AgustD_TOUR](http://twitter.com/search?q=%23SUGA_AgustD_TOUR) | N/A |
-| 10 | [HOORAY FOR 2](http://twitter.com/search?q=HOORAY+FOR+2) | N/A |
-| 11 | [Logro](http://twitter.com/search?q=Logro) | N/A |
-| 12 | [Komanche](http://twitter.com/search?q=Komanche) | N/A |
-| 13 | [Gigafactory](http://twitter.com/search?q=Gigafactory) | N/A |
-| 14 | [Petro](http://twitter.com/search?q=Petro) | N/A |
-| 15 | [Samuel García](http://twitter.com/search?q=Samuel+Garc%c3%ada) | N/A |
-| 16 | [El Santo](http://twitter.com/search?q=El+Santo) | N/A |
-| 17 | [tina](http://twitter.com/search?q=tina) | N/A |
-| 18 | [Piña](http://twitter.com/search?q=Pi%c3%b1a) | N/A |
-| 19 | [Alfredo Adame](http://twitter.com/search?q=Alfredo+Adame) | Alfredo Adame is a Mexican actor, comedian, and television host. He is best known for his roles in the television series El Chavo del Ocho and El Chapulín Colorado. In English, the name Alfredo Adame means "Protector of the People". |
-| 20 | [all of the girls](http://twitter.com/search?q=all+of+the+girls) | N/A |
-| 21 | [Marzo con M](http://twitter.com/search?q=Marzo+con+M) | N/A |
-| 22 | [Spreen](http://twitter.com/search?q=Spreen) | Spreen is a German word that means to scurry or hurry. It is often used to describe the quick movements of small animals, such as mice or squirrels. |
-| 23 | [Grogu](http://twitter.com/search?q=Grogu) | N/A |
-| 24 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
-| 25 | [Renata](http://twitter.com/search?q=Renata) | Renata is a feminine given name of Latin origin, derived from the word "renatus" meaning "born again". It is also a variant of the name Renée. |
-| 26 | [Estados Unidos Mexicanos](http://twitter.com/search?q=Estados+Unidos+Mexicanos) | N/A |
-| 27 | [Santiago Giménez](http://twitter.com/search?q=Santiago+Gim%c3%a9nez) | N/A |
-| 28 | [Banco de México](http://twitter.com/search?q=Banco+de+M%c3%a9xico) | N/A |
-| 29 | [jennie](http://twitter.com/search?q=jennie) | N/A |
-| 30 | [Banxico](http://twitter.com/search?q=Banxico) | N/A |
-| 31 | [INAI](http://twitter.com/search?q=INAI) | N/A |
-| 32 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
-| 33 | [Chayanne](http://twitter.com/search?q=Chayanne) | N/A |
-| 34 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
-| 35 | [Coca Cola](http://twitter.com/search?q=Coca+Cola) | N/A |
-| 36 | [San José](http://twitter.com/search?q=San+Jos%c3%a9) | N/A |
-| 37 | [Mario Delgado](http://twitter.com/search?q=Mario+Delgado) | N/A |
-| 38 | [Missa](http://twitter.com/search?q=Missa) | N/A |
-| 39 | [Omar Apollo](http://twitter.com/search?q=Omar+Apollo) | N/A |
-| 40 | [billie](http://twitter.com/search?q=billie) | N/A |
-| 41 | [The Dark Side of the Moon](http://twitter.com/search?q=The+Dark+Side+of+the+Moon) | N/A |
-| 42 | [Zoro](http://twitter.com/search?q=Zoro) | N/A |
-| 43 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 44 | [#TeslaInvestorDay](http://twitter.com/search?q=%23TeslaInvestorDay) | N/A |
-| 45 | [#80AniversarioCNOP](http://twitter.com/search?q=%2380AniversarioCNOP) | N/A |
-| 46 | [#JoaquinBondoni](http://twitter.com/search?q=%23JoaquinBondoni) | N/A |
-| 47 | [#LopezBurlaMundial](http://twitter.com/search?q=%23LopezBurlaMundial) | N/A |
-| 48 | [#MasAccionMasDiversion](http://twitter.com/search?q=%23MasAccionMasDiversion) | N/A |
-| 49 | [#TeslaEnMexico](http://twitter.com/search?q=%23TeslaEnMexico) | N/A |
-| 50 | [#Mandalorian](http://twitter.com/search?q=%23Mandalorian) | N/A |
+| 3 | [#MedallaVaronil](http://twitter.com/search?q=%23MedallaVaronil) | N/A |
+| 4 | [#BBWomenInMusic](http://twitter.com/search?q=%23BBWomenInMusic) | N/A |
+| 5 | [#TWICE_BreakthroughAward](http://twitter.com/search?q=%23TWICE_BreakthroughAward) | N/A |
+| 6 | [MEDALIUD STAR](http://twitter.com/search?q=MEDALIUD+STAR) | N/A |
+| 7 | [PARA NO VERTE MÁS](http://twitter.com/search?q=PARA+NO+VERTE+M%c3%81S) | N/A |
+| 8 | [TWICE BILLBOARD AWARD](http://twitter.com/search?q=TWICE+BILLBOARD+AWARD) | N/A |
+| 9 | [Alfredo Adame](http://twitter.com/search?q=Alfredo+Adame) | Alfredo Adame is a Mexican actor, comedian, and television host. He is best known for his roles in the television series El Chavo del Ocho and El Chapulín Colorado. In English, the name Alfredo Adame means "Protector of the People". |
+| 10 | [Gloria Trevi](http://twitter.com/search?q=Gloria+Trevi) | N/A |
+| 11 | [#2AndHalfMWithBuild](http://twitter.com/search?q=%232AndHalfMWithBuild) | N/A |
+| 12 | [#TelegrafíaSinHilos](http://twitter.com/search?q=%23Telegraf%c3%adaSinHilos) | N/A |
+| 13 | [Samuel García](http://twitter.com/search?q=Samuel+Garc%c3%ada) | N/A |
+| 14 | [Logro](http://twitter.com/search?q=Logro) | N/A |
+| 15 | [nayeon](http://twitter.com/search?q=nayeon) | N/A |
+| 16 | [5M BUILD](http://twitter.com/search?q=5M+BUILD) | N/A |
+| 17 | [HOORAY FOR 2](http://twitter.com/search?q=HOORAY+FOR+2) | N/A |
+| 18 | [Herrera](http://twitter.com/search?q=Herrera) | Herrera is a Spanish surname derived from the Latin word ferreus, meaning "iron". It is also a common given name in Spanish-speaking countries. In English, Herrera can be translated to mean "ironworker" or "blacksmith". |
+| 19 | [all of the girls](http://twitter.com/search?q=all+of+the+girls) | N/A |
+| 20 | [El Santo](http://twitter.com/search?q=El+Santo) | N/A |
+| 21 | [Gigafactory](http://twitter.com/search?q=Gigafactory) | N/A |
+| 22 | [Petro](http://twitter.com/search?q=Petro) | N/A |
+| 23 | [Komanche](http://twitter.com/search?q=Komanche) | N/A |
+| 24 | [Piña](http://twitter.com/search?q=Pi%c3%b1a) | N/A |
+| 25 | [Denunciado](http://twitter.com/search?q=Denunciado) | N/A |
+| 26 | [Marzo con M](http://twitter.com/search?q=Marzo+con+M) | N/A |
+| 27 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
+| 28 | [Leona](http://twitter.com/search?q=Leona) | N/A |
+| 29 | [tina](http://twitter.com/search?q=tina) | N/A |
+| 30 | [Mentirosa](http://twitter.com/search?q=Mentirosa) | N/A |
+| 31 | [Coca Cola](http://twitter.com/search?q=Coca+Cola) | N/A |
+| 32 | [Grogu](http://twitter.com/search?q=Grogu) | N/A |
+| 33 | [Spreen](http://twitter.com/search?q=Spreen) | Spreen is a German word that means to scurry or hurry. It is often used to describe the quick movements of small animals, such as mice or squirrels. |
+| 34 | [Estados Unidos Mexicanos](http://twitter.com/search?q=Estados+Unidos+Mexicanos) | N/A |
+| 35 | [Banco de México](http://twitter.com/search?q=Banco+de+M%c3%a9xico) | N/A |
+| 36 | [Renata](http://twitter.com/search?q=Renata) | Renata is a feminine given name of Latin origin, derived from the word "renatus" meaning "born again". It is also a variant of the name Renée. |
+| 37 | [Chayanne](http://twitter.com/search?q=Chayanne) | N/A |
+| 38 | [INAI](http://twitter.com/search?q=INAI) | N/A |
+| 39 | [Samuelito](http://twitter.com/search?q=Samuelito) | N/A |
+| 40 | [Banxico](http://twitter.com/search?q=Banxico) | N/A |
+| 41 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
+| 42 | [billie](http://twitter.com/search?q=billie) | N/A |
+| 43 | [Sammy](http://twitter.com/search?q=Sammy) | N/A |
+| 44 | [Guille](http://twitter.com/search?q=Guille) | N/A |
+| 45 | [Santiago Giménez](http://twitter.com/search?q=Santiago+Gim%c3%a9nez) | N/A |
+| 46 | [San José](http://twitter.com/search?q=San+Jos%c3%a9) | N/A |
+| 47 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
+| 48 | [jennie](http://twitter.com/search?q=jennie) | N/A |
+| 49 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 50 | [#MiCaminoEsAmarte](http://twitter.com/search?q=%23MiCaminoEsAmarte) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nagpur
 
-📆 Last Updated: `2023-03-02 03:23:59 UTC`
+📆 Last Updated: `2023-03-02 04:17:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,44 +17,53 @@ This is top 50 for [India](</India>)
 | ------- | ------------ | ------------ |
 | 1 | [#बोधदिवस_पर_विशालभंडारा](http://twitter.com/search?q=%23%e0%a4%ac%e0%a5%8b%e0%a4%a7%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a4%b8_%e0%a4%aa%e0%a4%b0_%e0%a4%b5%e0%a4%bf%e0%a4%b6%e0%a4%be%e0%a4%b2%e0%a4%ad%e0%a4%82%e0%a4%a1%e0%a4%be%e0%a4%b0%e0%a4%be) | N/A |
 | 2 | [2 Days Left For Bodh Diwas](http://twitter.com/search?q=2+Days+Left+For+Bodh+Diwas) | N/A |
-| 3 | [#करोड़ों_महिलाओं_की_पुकार](http://twitter.com/search?q=%23%e0%a4%95%e0%a4%b0%e0%a5%8b%e0%a4%a1%e0%a4%bc%e0%a5%8b%e0%a4%82_%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be%e0%a4%93%e0%a4%82_%e0%a4%95%e0%a5%80_%e0%a4%aa%e0%a5%81%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
-| 4 | [#KidsParentsSession](http://twitter.com/search?q=%23KidsParentsSession) | N/A |
-| 5 | [#GenerationBridge](http://twitter.com/search?q=%23GenerationBridge) | N/A |
-| 6 | [Fair Proceeding](http://twitter.com/search?q=Fair+Proceeding) | N/A |
-| 7 | [भारत कोकिला](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4+%e0%a4%95%e0%a5%8b%e0%a4%95%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
+| 3 | [#KidsParentsSession](http://twitter.com/search?q=%23KidsParentsSession) | N/A |
+| 4 | [#GenerationBridge](http://twitter.com/search?q=%23GenerationBridge) | N/A |
+| 5 | [#करोड़ों_महिलाओं_की_पुकार](http://twitter.com/search?q=%23%e0%a4%95%e0%a4%b0%e0%a5%8b%e0%a4%a1%e0%a4%bc%e0%a5%8b%e0%a4%82_%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be%e0%a4%93%e0%a4%82_%e0%a4%95%e0%a5%80_%e0%a4%aa%e0%a5%81%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
+| 6 | [भारत कोकिला](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4+%e0%a4%95%e0%a5%8b%e0%a4%95%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
+| 7 | [Fair Proceeding](http://twitter.com/search?q=Fair+Proceeding) | N/A |
 | 8 | [सरोजिनी नायडू](http://twitter.com/search?q=%e0%a4%b8%e0%a4%b0%e0%a5%8b%e0%a4%9c%e0%a4%bf%e0%a4%a8%e0%a5%80+%e0%a4%a8%e0%a4%be%e0%a4%af%e0%a4%a1%e0%a5%82) | N/A |
-| 9 | [Sant Shri Asharamji Bapu](http://twitter.com/search?q=Sant+Shri+Asharamji+Bapu) | N/A |
-| 10 | [प्रथम महिला](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a5%e0%a4%ae+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
+| 9 | [प्रथम महिला](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a5%e0%a4%ae+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
+| 10 | [Sant Shri Asharamji Bapu](http://twitter.com/search?q=Sant+Shri+Asharamji+Bapu) | N/A |
 | 11 | [श्री हरि](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b9%e0%a4%b0%e0%a4%bf) | N/A |
-| 12 | [नमो नारायण](http://twitter.com/search?q=%e0%a4%a8%e0%a4%ae%e0%a5%8b+%e0%a4%a8%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%af%e0%a4%a3) | N/A |
-| 13 | [Saint Gurmeet Ram Rahim Ji](http://twitter.com/search?q=Saint+Gurmeet+Ram+Rahim+Ji) | Saint Gurmeet Ram Rahim Ji is a spiritual leader and humanitarian from India. He is the founder of the spiritual organization Dera Sacha Sauda, which promotes social welfare and religious harmony. The name "Gurmeet Ram Rahim Ji" translates to "The Enlightened One, the Compassionate Lord". |
-| 14 | [Nightingale of India](http://twitter.com/search?q=Nightingale+of+India) | N/A |
-| 15 | [यूट्यूब चैनल](http://twitter.com/search?q=%e0%a4%af%e0%a5%82%e0%a4%9f%e0%a5%8d%e0%a4%af%e0%a5%82%e0%a4%ac+%e0%a4%9a%e0%a5%88%e0%a4%a8%e0%a4%b2) | N/A |
-| 16 | [कबीर सागर](http://twitter.com/search?q=%e0%a4%95%e0%a4%ac%e0%a5%80%e0%a4%b0+%e0%a4%b8%e0%a4%be%e0%a4%97%e0%a4%b0) | N/A |
-| 17 | [Cambridge](http://twitter.com/search?q=Cambridge) | N/A |
-| 18 | [कबीर वाणी](http://twitter.com/search?q=%e0%a4%95%e0%a4%ac%e0%a5%80%e0%a4%b0+%e0%a4%b5%e0%a4%be%e0%a4%a3%e0%a5%80) | N/A |
-| 19 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 20 | [Elvish](http://twitter.com/search?q=Elvish) | N/A |
-| 21 | [#Sarojininaidu](http://twitter.com/search?q=%23Sarojininaidu) | N/A |
-| 22 | [#SaveForts_From_Encroachment](http://twitter.com/search?q=%23SaveForts_From_Encroachment) | N/A |
-| 23 | [#HBDHanumanBeniwal](http://twitter.com/search?q=%23HBDHanumanBeniwal) | N/A |
-| 24 | [#tripuraelections2023](http://twitter.com/search?q=%23tripuraelections2023) | N/A |
-| 25 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
+| 12 | [राष्ट्रीय लोकतांत्रिक पार्टी](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%b2%e0%a5%8b%e0%a4%95%e0%a4%a4%e0%a4%be%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%bf%e0%a4%95+%e0%a4%aa%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9f%e0%a5%80) | N/A |
+| 13 | [G20 Foreign Ministers](http://twitter.com/search?q=G20+Foreign+Ministers) | N/A |
+| 14 | [नमो नारायण](http://twitter.com/search?q=%e0%a4%a8%e0%a4%ae%e0%a5%8b+%e0%a4%a8%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%af%e0%a4%a3) | N/A |
+| 15 | [श्री हनुमान बेनीवाल](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b9%e0%a4%a8%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%a8+%e0%a4%ac%e0%a5%87%e0%a4%a8%e0%a5%80%e0%a4%b5%e0%a4%be%e0%a4%b2) | N/A |
+| 16 | [Nightingale of India](http://twitter.com/search?q=Nightingale+of+India) | N/A |
+| 17 | [Saint Gurmeet Ram Rahim Ji](http://twitter.com/search?q=Saint+Gurmeet+Ram+Rahim+Ji) | Saint Gurmeet Ram Rahim Ji is a spiritual leader and humanitarian from India. He is the founder of the spiritual organization Dera Sacha Sauda, which promotes social welfare and religious harmony. The name "Gurmeet Ram Rahim Ji" translates to "The Enlightened One, the Compassionate Lord". |
+| 18 | [यूट्यूब चैनल](http://twitter.com/search?q=%e0%a4%af%e0%a5%82%e0%a4%9f%e0%a5%8d%e0%a4%af%e0%a5%82%e0%a4%ac+%e0%a4%9a%e0%a5%88%e0%a4%a8%e0%a4%b2) | N/A |
+| 19 | [कबीर सागर](http://twitter.com/search?q=%e0%a4%95%e0%a4%ac%e0%a5%80%e0%a4%b0+%e0%a4%b8%e0%a4%be%e0%a4%97%e0%a4%b0) | N/A |
+| 20 | [Cambridge](http://twitter.com/search?q=Cambridge) | N/A |
+| 21 | [कबीर वाणी](http://twitter.com/search?q=%e0%a4%95%e0%a4%ac%e0%a5%80%e0%a4%b0+%e0%a4%b5%e0%a4%be%e0%a4%a3%e0%a5%80) | N/A |
+| 22 | [कबीर साहेब](http://twitter.com/search?q=%e0%a4%95%e0%a4%ac%e0%a5%80%e0%a4%b0+%e0%a4%b8%e0%a4%be%e0%a4%b9%e0%a5%87%e0%a4%ac) | कबीर साहेब is a phrase used to refer to the poet Kabir, who was a 15th-century Indian mystic poet and saint. The phrase translates to "Kabir, the honorable one" in English. |
+| 23 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 24 | [Bill Gates](http://twitter.com/search?q=Bill+Gates) | N/A |
+| 25 | [Elvish](http://twitter.com/search?q=Elvish) | N/A |
 | 26 | [#electionresults2023](http://twitter.com/search?q=%23electionresults2023) | N/A |
-| 27 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
-| 28 | [#AadvikAjithkumar](http://twitter.com/search?q=%23AadvikAjithkumar) | N/A |
-| 29 | [#RiseOfNTK](http://twitter.com/search?q=%23RiseOfNTK) | N/A |
-| 30 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
-| 31 | [#BBWomenInMusic](http://twitter.com/search?q=%23BBWomenInMusic) | N/A |
-| 32 | [#TWICE_BreakthroughAward](http://twitter.com/search?q=%23TWICE_BreakthroughAward) | N/A |
-| 33 | [#KuttyThala](http://twitter.com/search?q=%23KuttyThala) | N/A |
-| 34 | [#रसोई_गैस_दाम_कम_करो](http://twitter.com/search?q=%23%e0%a4%b0%e0%a4%b8%e0%a5%8b%e0%a4%88_%e0%a4%97%e0%a5%88%e0%a4%b8_%e0%a4%a6%e0%a4%be%e0%a4%ae_%e0%a4%95%e0%a4%ae_%e0%a4%95%e0%a4%b0%e0%a5%8b) | N/A |
-| 35 | [#PintuNanda](http://twitter.com/search?q=%23PintuNanda) | N/A |
-| 36 | [#Thunivu50thDay](http://twitter.com/search?q=%23Thunivu50thDay) | N/A |
-| 37 | [#FACup](http://twitter.com/search?q=%23FACup) | #FACup is an abbreviation for the Football Association Challenge Cup, which is an annual knockout football competition in England. It is the oldest football competition in the world and is open to all teams from the top four tiers of English football. |
-| 38 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
-| 39 | [#MUNWHU](http://twitter.com/search?q=%23MUNWHU) | N/A |
-| 40 | [#ARSEVE](http://twitter.com/search?q=%23ARSEVE) | N/A |
+| 27 | [#Sarojininaidu](http://twitter.com/search?q=%23Sarojininaidu) | N/A |
+| 28 | [#SaveForts_From_Encroachment](http://twitter.com/search?q=%23SaveForts_From_Encroachment) | N/A |
+| 29 | [#Tripura](http://twitter.com/search?q=%23Tripura) | N/A |
+| 30 | [#SSMB28](http://twitter.com/search?q=%23SSMB28) | N/A |
+| 31 | [#HBDHanumanBeniwal](http://twitter.com/search?q=%23HBDHanumanBeniwal) | N/A |
+| 32 | [#NagalandElections2023](http://twitter.com/search?q=%23NagalandElections2023) | N/A |
+| 33 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
+| 34 | [#Meghalaya](http://twitter.com/search?q=%23Meghalaya) | N/A |
+| 35 | [#RiseOfNTK](http://twitter.com/search?q=%23RiseOfNTK) | N/A |
+| 36 | [#NorthEastElections](http://twitter.com/search?q=%23NorthEastElections) | N/A |
+| 37 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
+| 38 | [#AadvikAjithkumar](http://twitter.com/search?q=%23AadvikAjithkumar) | N/A |
+| 39 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
+| 40 | [#KuttyThala](http://twitter.com/search?q=%23KuttyThala) | N/A |
+| 41 | [#Bapuji](http://twitter.com/search?q=%23Bapuji) | N/A |
+| 42 | [#HBDVidyasagar](http://twitter.com/search?q=%23HBDVidyasagar) | N/A |
+| 43 | [#BBWomenInMusic](http://twitter.com/search?q=%23BBWomenInMusic) | N/A |
+| 44 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 45 | [#GauriKhan](http://twitter.com/search?q=%23GauriKhan) | N/A |
+| 46 | [#TWICE_BreakthroughAward](http://twitter.com/search?q=%23TWICE_BreakthroughAward) | N/A |
+| 47 | [#AssemblyElection2023](http://twitter.com/search?q=%23AssemblyElection2023) | N/A |
+| 48 | [#रसोई_गैस_दाम_कम_करो](http://twitter.com/search?q=%23%e0%a4%b0%e0%a4%b8%e0%a5%8b%e0%a4%88_%e0%a4%97%e0%a5%88%e0%a4%b8_%e0%a4%a6%e0%a4%be%e0%a4%ae_%e0%a4%95%e0%a4%ae_%e0%a4%95%e0%a4%b0%e0%a5%8b) | N/A |
+| 49 | [#PintuNanda](http://twitter.com/search?q=%23PintuNanda) | N/A |
 
 
 

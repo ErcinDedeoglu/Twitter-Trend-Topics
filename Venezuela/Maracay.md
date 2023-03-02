@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Maracay
 
-📆 Last Updated: `2023-03-02 03:23:27 UTC`
+📆 Last Updated: `2023-03-02 04:16:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,50 +19,49 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 2 | [#UniónFuerzaYCooperación](http://twitter.com/search?q=%23Uni%c3%b3nFuerzaYCooperaci%c3%b3n) | N/A |
 | 3 | [#2023DeVueltaAlCampo](http://twitter.com/search?q=%232023DeVueltaAlCampo) | N/A |
 | 4 | [#ChavezCorazonDelPueblo](http://twitter.com/search?q=%23ChavezCorazonDelPueblo) | N/A |
-| 5 | [Mineiro](http://twitter.com/search?q=Mineiro) | N/A |
-| 6 | [Petro](http://twitter.com/search?q=Petro) | N/A |
-| 7 | [Carabobo](http://twitter.com/search?q=Carabobo) | Carabobo is a state in Venezuela. Its name is derived from the Carabobo tribe, which inhabited the area before the Spanish colonization of the Americas. In English, it means "Valley of the Brave". |
-| 8 | [Ray Charles](http://twitter.com/search?q=Ray+Charles) | N/A |
-| 9 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
-| 10 | [Bienvenido Marzo](http://twitter.com/search?q=Bienvenido+Marzo) | N/A |
-| 11 | [Venus y Júpiter](http://twitter.com/search?q=Venus+y+J%c3%bapiter) | N/A |
-| 12 | [Pernía](http://twitter.com/search?q=Pern%c3%ada) | N/A |
+| 5 | [Petro](http://twitter.com/search?q=Petro) | N/A |
+| 6 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
+| 7 | [Ray Charles](http://twitter.com/search?q=Ray+Charles) | N/A |
+| 8 | [Mineiro](http://twitter.com/search?q=Mineiro) | N/A |
+| 9 | [Bienvenido Marzo](http://twitter.com/search?q=Bienvenido+Marzo) | N/A |
+| 10 | [Venus y Júpiter](http://twitter.com/search?q=Venus+y+J%c3%bapiter) | N/A |
+| 11 | [Carabobo](http://twitter.com/search?q=Carabobo) | Carabobo is a state in Venezuela. Its name is derived from the Carabobo tribe, which inhabited the area before the Spanish colonization of the Americas. In English, it means "Valley of the Brave". |
+| 12 | [Miguel Pernía](http://twitter.com/search?q=Miguel+Pern%c3%ada) | N/A |
 | 13 | [Fina Rojas](http://twitter.com/search?q=Fina+Rojas) | N/A |
-| 14 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
-| 15 | [Pilón](http://twitter.com/search?q=Pil%c3%b3n) | N/A |
-| 16 | [Machu Picchu](http://twitter.com/search?q=Machu+Picchu) | N/A |
+| 14 | [Pilón](http://twitter.com/search?q=Pil%c3%b3n) | N/A |
+| 15 | [Palmeritas](http://twitter.com/search?q=Palmeritas) | N/A |
+| 16 | [Diego Haro](http://twitter.com/search?q=Diego+Haro) | N/A |
 | 17 | [Foco](http://twitter.com/search?q=Foco) | N/A |
 | 18 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
-| 19 | [Palmeritas](http://twitter.com/search?q=Palmeritas) | N/A |
-| 20 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 21 | [Capriles](http://twitter.com/search?q=Capriles) | N/A |
-| 22 | [Grecia](http://twitter.com/search?q=Grecia) | N/A |
-| 23 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 19 | [Machu Picchu](http://twitter.com/search?q=Machu+Picchu) | N/A |
+| 20 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
+| 21 | [Grecia](http://twitter.com/search?q=Grecia) | N/A |
+| 22 | [Capriles](http://twitter.com/search?q=Capriles) | N/A |
+| 23 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 24 | [Enfermedades Raras](http://twitter.com/search?q=Enfermedades+Raras) | N/A |
-| 25 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
-| 26 | [Viva Air](http://twitter.com/search?q=Viva+Air) | N/A |
-| 27 | [Hulk](http://twitter.com/search?q=Hulk) | Hulk is a fictional character created by Marvel Comics. He is a large, green humanoid with superhuman strength and invulnerability. The character first appeared in the comic book The Incredible Hulk #1 in May 1962. His catchphrase is "Hulk Smash!" |
-| 28 | [tina](http://twitter.com/search?q=tina) | N/A |
-| 29 | [Día de la Cero Discriminación](http://twitter.com/search?q=D%c3%ada+de+la+Cero+Discriminaci%c3%b3n) | N/A |
-| 30 | [Tinkerbell](http://twitter.com/search?q=Tinkerbell) | N/A |
-| 31 | [Pedro Castillo](http://twitter.com/search?q=Pedro+Castillo) | N/A |
-| 32 | [DDHH](http://twitter.com/search?q=DDHH) | N/A |
+| 25 | [tina](http://twitter.com/search?q=tina) | N/A |
+| 26 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
+| 27 | [Viva Air](http://twitter.com/search?q=Viva+Air) | N/A |
+| 28 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 29 | [Hulk](http://twitter.com/search?q=Hulk) | Hulk is a fictional character created by Marvel Comics. He is a large, green humanoid with superhuman strength and invulnerability. The character first appeared in the comic book The Incredible Hulk #1 in May 1962. His catchphrase is "Hulk Smash!" |
+| 30 | [Día de la Cero Discriminación](http://twitter.com/search?q=D%c3%ada+de+la+Cero+Discriminaci%c3%b3n) | N/A |
+| 31 | [Tinkerbell](http://twitter.com/search?q=Tinkerbell) | N/A |
+| 32 | [Pedro Castillo](http://twitter.com/search?q=Pedro+Castillo) | N/A |
 | 33 | [Consejo de Seguridad de Rusia](http://twitter.com/search?q=Consejo+de+Seguridad+de+Rusia) | N/A |
 | 34 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
-| 35 | [Independiente del Valle](http://twitter.com/search?q=Independiente+del+Valle) | N/A |
-| 36 | [Maracaná](http://twitter.com/search?q=Maracan%c3%a1) | N/A |
-| 37 | [Ultraman](http://twitter.com/search?q=Ultraman) | N/A |
-| 38 | [Olmo](http://twitter.com/search?q=Olmo) | N/A |
+| 35 | [Maracaná](http://twitter.com/search?q=Maracan%c3%a1) | N/A |
+| 36 | [Ultraman](http://twitter.com/search?q=Ultraman) | N/A |
+| 37 | [Primero Justicia](http://twitter.com/search?q=Primero+Justicia) | N/A |
+| 38 | [DDHH](http://twitter.com/search?q=DDHH) | N/A |
 | 39 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
 | 40 | [Peter Pan](http://twitter.com/search?q=Peter+Pan) | N/A |
-| 41 | [Primero Justicia](http://twitter.com/search?q=Primero+Justicia) | N/A |
-| 42 | [Arnoldo Gabaldón](http://twitter.com/search?q=Arnoldo+Gabald%c3%b3n) | N/A |
-| 43 | [Nikolái Pátrushev](http://twitter.com/search?q=Nikol%c3%a1i+P%c3%a1trushev) | N/A |
-| 44 | [Vinicio Adames](http://twitter.com/search?q=Vinicio+Adames) | N/A |
-| 45 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
-| 46 | [Marzo con M](http://twitter.com/search?q=Marzo+con+M) | N/A |
-| 47 | [Maras](http://twitter.com/search?q=Maras) | N/A |
-| 48 | [Lorenzo Mendoza](http://twitter.com/search?q=Lorenzo+Mendoza) | N/A |
+| 41 | [Arnoldo Gabaldón](http://twitter.com/search?q=Arnoldo+Gabald%c3%b3n) | N/A |
+| 42 | [Nikolái Pátrushev](http://twitter.com/search?q=Nikol%c3%a1i+P%c3%a1trushev) | N/A |
+| 43 | [Vinicio Adames](http://twitter.com/search?q=Vinicio+Adames) | N/A |
+| 44 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 45 | [Marzo con M](http://twitter.com/search?q=Marzo+con+M) | N/A |
+| 46 | [jennie](http://twitter.com/search?q=jennie) | N/A |
+| 47 | [Lorenzo Mendoza](http://twitter.com/search?q=Lorenzo+Mendoza) | N/A |
 
 
 
