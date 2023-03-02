@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Taguig
 
-📆 Last Updated: `2023-03-02 11:17:20 UTC`
+📆 Last Updated: `2023-03-02 12:18:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,45 +16,51 @@ This is top 50 for [Philippines](</Philippines>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#PureDoctrinesOfChrist](http://twitter.com/search?q=%23PureDoctrinesOfChrist) | N/A |
-| 2 | [#Fighting8thWin](http://twitter.com/search?q=%23Fighting8thWin) | N/A |
-| 3 | [#BSS8thWin](http://twitter.com/search?q=%23BSS8thWin) | N/A |
-| 4 | [#NCATxSKZinMNLGA](http://twitter.com/search?q=%23NCATxSKZinMNLGA) | N/A |
+| 2 | [#NCATxSKZinMNLGA](http://twitter.com/search?q=%23NCATxSKZinMNLGA) | N/A |
+| 3 | [#Fighting8thWin](http://twitter.com/search?q=%23Fighting8thWin) | N/A |
+| 4 | [#BSS8thWin](http://twitter.com/search?q=%23BSS8thWin) | N/A |
 | 5 | [LAZADA DAY WITH BGYO](http://twitter.com/search?q=LAZADA+DAY+WITH+BGYO) | N/A |
 | 6 | [CMFT](http://twitter.com/search?q=CMFT) | CMFT stands for Certified Management Financial Technician. It is a professional certification offered by the Institute of Certified Management Accountants (ICMA). The certification is designed to provide financial professionals with the knowledge and skills necessary to effectively manage financial operations in an organization. |
-| 7 | [Des Cheng](http://twitter.com/search?q=Des+Cheng) | N/A |
-| 8 | [BSS MCOUNTDOWN TRIPLE CROWN](http://twitter.com/search?q=BSS+MCOUNTDOWN+TRIPLE+CROWN) | N/A |
-| 9 | [ALDENXLaz11th BdaySuperShow](http://twitter.com/search?q=ALDENXLaz11th+BdaySuperShow) | N/A |
-| 10 | [cignal](http://twitter.com/search?q=cignal) | N/A |
-| 11 | [Isa Molde](http://twitter.com/search?q=Isa+Molde) | N/A |
-| 12 | [Choco Mucho](http://twitter.com/search?q=Choco+Mucho) | N/A |
-| 13 | [TWENTYFOURever ZACH](http://twitter.com/search?q=TWENTYFOURever+ZACH) | N/A |
-| 14 | [winwin](http://twitter.com/search?q=winwin) | N/A |
-| 15 | [JCOLE](http://twitter.com/search?q=JCOLE) | N/A |
-| 16 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
-| 17 | [jihyo](http://twitter.com/search?q=jihyo) | Jihyo is a Korean given name, usually for females. It is composed of two characters, the first meaning "wisdom" and the second meaning "beauty". In English, it can be translated to mean "wise beauty". |
-| 18 | [JHOPE](http://twitter.com/search?q=JHOPE) | N/A |
-| 19 | [Bianca](http://twitter.com/search?q=Bianca) | Bianca is an Italian female name meaning "white" or "fair". It is also a Spanish and Portuguese name meaning "beautiful". |
-| 20 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 21 | [TWICE BILLBOARD AWARD](http://twitter.com/search?q=TWICE+BILLBOARD+AWARD) | N/A |
-| 22 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 23 | [taeyong](http://twitter.com/search?q=taeyong) | Taeyong is a Korean given name, derived from the Chinese characters 太 (tài) meaning "great" and 永 (yǒng) meaning "eternal". In English, it can be translated to mean "great eternity". |
-| 24 | [ACEs](http://twitter.com/search?q=ACEs) | N/A |
-| 25 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 26 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
-| 27 | [John Matthew Salilig](http://twitter.com/search?q=John+Matthew+Salilig) | N/A |
-| 28 | [Mino](http://twitter.com/search?q=Mino) | N/A |
-| 29 | [#BGYOForEpicBirthdaySuperShow](http://twitter.com/search?q=%23BGYOForEpicBirthdaySuperShow) | N/A |
-| 30 | [#부석순_엠카_1위_축하해](http://twitter.com/search?q=%23%eb%b6%80%ec%84%9d%ec%88%9c_%ec%97%a0%ec%b9%b4_1%ec%9c%84_%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
-| 31 | [#SKZinMNL2023](http://twitter.com/search?q=%23SKZinMNL2023) | N/A |
-| 32 | [#ALDENLaz11thBday](http://twitter.com/search?q=%23ALDENLaz11thBday) | N/A |
-| 33 | [#PVLAFC2023](http://twitter.com/search?q=%23PVLAFC2023) | N/A |
-| 34 | [#TWICE_BreakthroughAward](http://twitter.com/search?q=%23TWICE_BreakthroughAward) | N/A |
-| 35 | [#BBWomenInMusic](http://twitter.com/search?q=%23BBWomenInMusic) | N/A |
-| 36 | [#BOBBY1stSoloSingle](http://twitter.com/search?q=%23BOBBY1stSoloSingle) | N/A |
-| 37 | [#LeeJeHoonInManila](http://twitter.com/search?q=%23LeeJeHoonInManila) | N/A |
-| 38 | [#on_the_street](http://twitter.com/search?q=%23on_the_street) | N/A |
-| 39 | [#iKONWORLDTOUR2023](http://twitter.com/search?q=%23iKONWORLDTOUR2023) | N/A |
-| 40 | [#BOYCOTTEBxGMA722](http://twitter.com/search?q=%23BOYCOTTEBxGMA722) | N/A |
+| 7 | [BSS MCOUNTDOWN TRIPLE CROWN](http://twitter.com/search?q=BSS+MCOUNTDOWN+TRIPLE+CROWN) | N/A |
+| 8 | [The Right Way to Pray](http://twitter.com/search?q=The+Right+Way+to+Pray) | N/A |
+| 9 | [Des Cheng](http://twitter.com/search?q=Des+Cheng) | N/A |
+| 10 | [Congratulations BSS](http://twitter.com/search?q=Congratulations+BSS) | N/A |
+| 11 | [ALDENXLaz11th BdaySuperShow](http://twitter.com/search?q=ALDENXLaz11th+BdaySuperShow) | N/A |
+| 12 | [Isa Molde](http://twitter.com/search?q=Isa+Molde) | N/A |
+| 13 | [Petro Gazz](http://twitter.com/search?q=Petro+Gazz) | N/A |
+| 14 | [Choco Mucho](http://twitter.com/search?q=Choco+Mucho) | N/A |
+| 15 | [Cignal](http://twitter.com/search?q=Cignal) | N/A |
+| 16 | [TWENTYFOURever ZACH](http://twitter.com/search?q=TWENTYFOURever+ZACH) | N/A |
+| 17 | [winwin](http://twitter.com/search?q=winwin) | N/A |
+| 18 | [jihyo](http://twitter.com/search?q=jihyo) | Jihyo is a Korean given name, usually for females. It is composed of two characters, the first meaning "wisdom" and the second meaning "beauty". In English, it can be translated to mean "wise beauty". |
+| 19 | [JCOLE](http://twitter.com/search?q=JCOLE) | N/A |
+| 20 | [Bianca](http://twitter.com/search?q=Bianca) | Bianca is an Italian female name meaning "white" or "fair". It is also a Spanish and Portuguese name meaning "beautiful". |
+| 21 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 22 | [JHOPE](http://twitter.com/search?q=JHOPE) | N/A |
+| 23 | [Palawan](http://twitter.com/search?q=Palawan) | N/A |
+| 24 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
+| 25 | [ACEs](http://twitter.com/search?q=ACEs) | N/A |
+| 26 | [John Matthew Salilig](http://twitter.com/search?q=John+Matthew+Salilig) | N/A |
+| 27 | [#SKZinMNL2023](http://twitter.com/search?q=%23SKZinMNL2023) | N/A |
+| 28 | [#BGYOForEpicBirthdaySuperShow](http://twitter.com/search?q=%23BGYOForEpicBirthdaySuperShow) | N/A |
+| 29 | [#부석순_엠카_1위_축하해](http://twitter.com/search?q=%23%eb%b6%80%ec%84%9d%ec%88%9c_%ec%97%a0%ec%b9%b4_1%ec%9c%84_%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
+| 30 | [#ALDENLaz11thBday](http://twitter.com/search?q=%23ALDENLaz11thBday) | N/A |
+| 31 | [#UrdujaStalkerMuch](http://twitter.com/search?q=%23UrdujaStalkerMuch) | N/A |
+| 32 | [#VoxPopuLIVE](http://twitter.com/search?q=%23VoxPopuLIVE) | N/A |
+| 33 | [#AranetaCity](http://twitter.com/search?q=%23AranetaCity) | N/A |
+| 34 | [#MoonlightChickenFinalEP](http://twitter.com/search?q=%23MoonlightChickenFinalEP) | N/A |
+| 35 | [#YARAxSonyMusicPH](http://twitter.com/search?q=%23YARAxSonyMusicPH) | N/A |
+| 36 | [#CityOfFirsts](http://twitter.com/search?q=%23CityOfFirsts) | N/A |
+| 37 | [#PVLAllFilipinoConference](http://twitter.com/search?q=%23PVLAllFilipinoConference) | N/A |
+| 38 | [#PVLAFC2023](http://twitter.com/search?q=%23PVLAFC2023) | N/A |
+| 39 | [#YARA_PH](http://twitter.com/search?q=%23YARA_PH) | N/A |
+| 40 | [#globalprayerforhumanity](http://twitter.com/search?q=%23globalprayerforhumanity) | N/A |
+| 41 | [#unit](http://twitter.com/search?q=%23unit) | N/A |
+| 42 | [#LeeJeHoonInManila](http://twitter.com/search?q=%23LeeJeHoonInManila) | N/A |
+| 43 | [#barcodetin](http://twitter.com/search?q=%23barcodetin) | N/A |
+| 44 | [#on_the_street](http://twitter.com/search?q=%23on_the_street) | N/A |
+| 45 | [#BOYCOTTEBxGMA722](http://twitter.com/search?q=%23BOYCOTTEBxGMA722) | N/A |
+| 46 | [#BOBBY1stSoloSingle](http://twitter.com/search?q=%23BOBBY1stSoloSingle) | N/A |
 
 
 

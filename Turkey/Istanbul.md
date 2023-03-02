@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Istanbul
 
-📆 Last Updated: `2023-03-02 11:17:34 UTC`
+📆 Last Updated: `2023-03-02 12:18:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Turkey](</Turkey>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [İmamoğlu](http://twitter.com/search?q=%c4%b0mamo%c4%9flu) | N/A |
-| 2 | [Ekrem](http://twitter.com/search?q=Ekrem) | N/A |
-| 3 | [Kanal İstanbul](http://twitter.com/search?q=Kanal+%c4%b0stanbul) | N/A |
-| 4 | [#MansurYavasadayolsun](http://twitter.com/search?q=%23MansurYavasadayolsun) | N/A |
-| 5 | [#altılımasa](http://twitter.com/search?q=%23alt%c4%b1l%c4%b1masa) | #Altılımasa is a Turkish game similar to bingo. It is played with six dice and a board with 24 numbered squares. Players take turns rolling the dice and marking off the numbers on their board that match the numbers rolled. The first player to mark off all of their numbers wins the game. In English, #altılımasa translates to "six-dice table". |
-| 6 | [#secim2023](http://twitter.com/search?q=%23secim2023) | N/A |
-| 7 | [#EYTAcilResmiGazeteye](http://twitter.com/search?q=%23EYTAcilResmiGazeteye) | N/A |
-| 8 | [#noterlerbirliği](http://twitter.com/search?q=%23noterlerbirli%c4%9fi) | N/A |
-| 9 | [Ahmet Ağaoğlu](http://twitter.com/search?q=Ahmet+A%c4%9fao%c4%9flu) | N/A |
-| 10 | [Asrın Dayanışması](http://twitter.com/search?q=Asr%c4%b1n+Dayan%c4%b1%c5%9fmas%c4%b1) | N/A |
-| 11 | [Varsaymak](http://twitter.com/search?q=Varsaymak) | N/A |
-| 12 | [Atilla Karaoğlan](http://twitter.com/search?q=Atilla+Karao%c4%9flan) | Atilla Karaoğlan is a Turkish folk hero and the protagonist of a popular epic poem. The name Atilla Karaoğlan translates to "Atilla the Brave" in English. The poem tells the story of Atilla's heroic deeds and his struggles against injustice. |
-| 13 | [Tünaydın](http://twitter.com/search?q=T%c3%bcnayd%c4%b1n) | N/A |
-| 14 | [Lütfü Türkkan](http://twitter.com/search?q=L%c3%bctf%c3%bc+T%c3%bcrkkan) | N/A |
-| 15 | [Ertuğrul Doğan](http://twitter.com/search?q=Ertu%c4%9frul+Do%c4%9fan) | N/A |
-| 16 | [Terlik](http://twitter.com/search?q=Terlik) | N/A |
-| 17 | [Ali Mahir Başarır](http://twitter.com/search?q=Ali+Mahir+Ba%c5%9far%c4%b1r) | N/A |
-| 18 | [Erkan Özdamar](http://twitter.com/search?q=Erkan+%c3%96zdamar) | Erkan Özdamar is a Turkish-German actor, director, and playwright. His name translates to "Erkan the Brave" in English. |
+| 2 | [#sahol](http://twitter.com/search?q=%23sahol) | N/A |
+| 3 | [#MansurYavasadayolsun](http://twitter.com/search?q=%23MansurYavasadayolsun) | N/A |
+| 4 | [#altılımasa](http://twitter.com/search?q=%23alt%c4%b1l%c4%b1masa) | #Altılımasa is a Turkish game similar to bingo. It is played with six dice and a board with 24 numbered squares. Players take turns rolling the dice and marking off the numbers on their board that match the numbers rolled. The first player to mark off all of their numbers wins the game. In English, #altılımasa translates to "six-dice table". |
+| 5 | [#secim2023](http://twitter.com/search?q=%23secim2023) | N/A |
+| 6 | [#HatayVatandırTerkedilemez](http://twitter.com/search?q=%23HatayVatand%c4%b1rTerkedilemez) | N/A |
+| 7 | [Kayseri 2](http://twitter.com/search?q=Kayseri+2) | N/A |
+| 8 | [Ahmet Ağaoğlu](http://twitter.com/search?q=Ahmet+A%c4%9fao%c4%9flu) | N/A |
+| 9 | [İdare Mahkemesi](http://twitter.com/search?q=%c4%b0dare+Mahkemesi) | N/A |
+| 10 | [Varsaymak](http://twitter.com/search?q=Varsaymak) | N/A |
+| 11 | [Atilla Karaoğlan](http://twitter.com/search?q=Atilla+Karao%c4%9flan) | Atilla Karaoğlan is a Turkish folk hero and the protagonist of a popular epic poem. The name Atilla Karaoğlan translates to "Atilla the Brave" in English. The poem tells the story of Atilla's heroic deeds and his struggles against injustice. |
+| 12 | [Terlik](http://twitter.com/search?q=Terlik) | N/A |
+| 13 | [Asrın Dayanışması](http://twitter.com/search?q=Asr%c4%b1n+Dayan%c4%b1%c5%9fmas%c4%b1) | N/A |
+| 14 | [Ertuğrul Doğan](http://twitter.com/search?q=Ertu%c4%9frul+Do%c4%9fan) | N/A |
+| 15 | [Lütfü Türkkan](http://twitter.com/search?q=L%c3%bctf%c3%bc+T%c3%bcrkkan) | N/A |
+| 16 | [Ali Mahir Başarır](http://twitter.com/search?q=Ali+Mahir+Ba%c5%9far%c4%b1r) | N/A |
+| 17 | [Tünaydın](http://twitter.com/search?q=T%c3%bcnayd%c4%b1n) | N/A |
+| 18 | [Tunceli](http://twitter.com/search?q=Tunceli) | N/A |
 | 19 | [Yusuf Kaplan](http://twitter.com/search?q=Yusuf+Kaplan) | N/A |
 | 20 | [Varsayıyoruz](http://twitter.com/search?q=Varsay%c4%b1yoruz) | N/A |
-| 21 | [Kürt](http://twitter.com/search?q=K%c3%bcrt) | N/A |
-| 22 | [Serdar Tuncer](http://twitter.com/search?q=Serdar+Tuncer) | N/A |
-| 23 | [Yemişim](http://twitter.com/search?q=Yemi%c5%9fim) | N/A |
-| 24 | [Tunceli](http://twitter.com/search?q=Tunceli) | N/A |
-| 25 | [Anketi](http://twitter.com/search?q=Anketi) | N/A |
-| 26 | [Murat Gezici](http://twitter.com/search?q=Murat+Gezici) | N/A |
-| 27 | [Selvi](http://twitter.com/search?q=Selvi) | N/A |
-| 28 | [Yeni Şafak](http://twitter.com/search?q=Yeni+%c5%9eafak) | N/A |
-| 29 | [Sarayda](http://twitter.com/search?q=Sarayda) | N/A |
-| 30 | [Dersim](http://twitter.com/search?q=Dersim) | N/A |
-| 31 | [Millet İttifakı](http://twitter.com/search?q=Millet+%c4%b0ttifak%c4%b1) | N/A |
-| 32 | [Evli](http://twitter.com/search?q=Evli) | N/A |
-| 33 | [ÖncelikAf SonraSeçim](http://twitter.com/search?q=%c3%96ncelikAf+SonraSe%c3%a7im) | N/A |
-| 34 | [Sedef](http://twitter.com/search?q=Sedef) | N/A |
-| 35 | [Günaydınlar](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nlar) | N/A |
-| 36 | [Tuvalet](http://twitter.com/search?q=Tuvalet) | N/A |
-| 37 | [Masanın](http://twitter.com/search?q=Masan%c4%b1n) | N/A |
-| 38 | [Gunaydin](http://twitter.com/search?q=Gunaydin) | N/A |
-| 39 | [Günaydınn](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nn) | N/A |
-| 40 | [Selahattin Demirtaş](http://twitter.com/search?q=Selahattin+Demirta%c5%9f) | N/A |
-| 41 | [Yıldız](http://twitter.com/search?q=Y%c4%b1ld%c4%b1z) | N/A |
+| 21 | [Kayserispor - Fenerbahçe](http://twitter.com/search?q=Kayserispor+-+Fenerbah%c3%a7e) | N/A |
+| 22 | [Kanal İstanbul](http://twitter.com/search?q=Kanal+%c4%b0stanbul) | N/A |
+| 23 | [Erkan Özdamar](http://twitter.com/search?q=Erkan+%c3%96zdamar) | Erkan Özdamar is a Turkish-German actor, director, and playwright. His name translates to "Erkan the Brave" in English. |
+| 24 | [Kürt](http://twitter.com/search?q=K%c3%bcrt) | N/A |
+| 25 | [Murat Gezici](http://twitter.com/search?q=Murat+Gezici) | N/A |
+| 26 | [Dersim](http://twitter.com/search?q=Dersim) | N/A |
+| 27 | [Serdar Tuncer](http://twitter.com/search?q=Serdar+Tuncer) | N/A |
+| 28 | [Akli](http://twitter.com/search?q=Akli) | N/A |
+| 29 | [Millet İttifakı](http://twitter.com/search?q=Millet+%c4%b0ttifak%c4%b1) | N/A |
+| 30 | [Yemişim](http://twitter.com/search?q=Yemi%c5%9fim) | N/A |
+| 31 | [Selvi](http://twitter.com/search?q=Selvi) | N/A |
+| 32 | [Sedef](http://twitter.com/search?q=Sedef) | N/A |
+| 33 | [Anketi](http://twitter.com/search?q=Anketi) | N/A |
+| 34 | [ÖncelikAf SonraSeçim](http://twitter.com/search?q=%c3%96ncelikAf+SonraSe%c3%a7im) | N/A |
+| 35 | [Selahattin Demirtaş](http://twitter.com/search?q=Selahattin+Demirta%c5%9f) | N/A |
+| 36 | [Evli](http://twitter.com/search?q=Evli) | N/A |
+| 37 | [Yeni Şafak](http://twitter.com/search?q=Yeni+%c5%9eafak) | N/A |
+| 38 | [İyi Parti](http://twitter.com/search?q=%c4%b0yi+Parti) | N/A |
+| 39 | [Yıldız](http://twitter.com/search?q=Y%c4%b1ld%c4%b1z) | N/A |
+| 40 | [Sarayda](http://twitter.com/search?q=Sarayda) | N/A |
+| 41 | [Tuvalet](http://twitter.com/search?q=Tuvalet) | N/A |
 | 42 | [Ekmeleddin](http://twitter.com/search?q=Ekmeleddin) | N/A |
-| 43 | [Newton](http://twitter.com/search?q=Newton) | N/A |
-| 44 | [İYİP](http://twitter.com/search?q=%c4%b0Y%c4%b0P) | N/A |
-| 45 | [Nagehan](http://twitter.com/search?q=Nagehan) | Nagehan is a Turkish female name, derived from the Arabic word najah, which means “success” or “victory”. In English, it can be translated to mean “successful” or “victorious”. |
-| 46 | [Kemal Bey](http://twitter.com/search?q=Kemal+Bey) | N/A |
-| 47 | [Rojbaş](http://twitter.com/search?q=Rojba%c5%9f) | N/A |
-| 48 | [Başbakan](http://twitter.com/search?q=Ba%c5%9fbakan) | N/A |
-| 49 | [Abdullah Gül](http://twitter.com/search?q=Abdullah+G%c3%bcl) | N/A |
-| 50 | [Kazanacak](http://twitter.com/search?q=Kazanacak) | N/A |
+| 43 | [Masanın](http://twitter.com/search?q=Masan%c4%b1n) | N/A |
+| 44 | [Gunaydin](http://twitter.com/search?q=Gunaydin) | N/A |
+| 45 | [Mansur Yavaşı](http://twitter.com/search?q=Mansur+Yava%c5%9f%c4%b1) | N/A |
+| 46 | [Günaydınn](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nn) | N/A |
+| 47 | [Newton](http://twitter.com/search?q=Newton) | N/A |
+| 48 | [Abdullah Gül](http://twitter.com/search?q=Abdullah+G%c3%bcl) | N/A |
+| 49 | [Nagehan](http://twitter.com/search?q=Nagehan) | Nagehan is a Turkish female name, derived from the Arabic word najah, which means “success” or “victory”. In English, it can be translated to mean “successful” or “victorious”. |
+| 50 | [Kemal Bey](http://twitter.com/search?q=Kemal+Bey) | N/A |
 
 
 

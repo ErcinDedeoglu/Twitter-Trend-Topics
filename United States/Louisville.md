@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Louisville
 
-📆 Last Updated: `2023-03-02 11:17:40 UTC`
+📆 Last Updated: `2023-03-02 12:19:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,45 +23,45 @@ This is top 50 for [United States](</United States>)
 | 6 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
 | 7 | [Vanderbilt](http://twitter.com/search?q=Vanderbilt) | N/A |
 | 8 | [Cats](http://twitter.com/search?q=Cats) | N/A |
-| 9 | [JCOLE](http://twitter.com/search?q=JCOLE) | N/A |
-| 10 | [#BoycottHersheys](http://twitter.com/search?q=%23BoycottHersheys) | N/A |
-| 11 | [JHOPE](http://twitter.com/search?q=JHOPE) | N/A |
-| 12 | [#Wordle621](http://twitter.com/search?q=%23Wordle621) | N/A |
-| 13 | [#WorldBookDay](http://twitter.com/search?q=%23WorldBookDay) | N/A |
-| 14 | [Dratini](http://twitter.com/search?q=Dratini) | N/A |
-| 15 | [Daily Quordle 402](http://twitter.com/search?q=Daily+Quordle+402) | N/A |
-| 16 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 17 | [jihyo](http://twitter.com/search?q=jihyo) | Jihyo is a Korean given name, usually for females. It is composed of two characters, the first meaning "wisdom" and the second meaning "beauty". In English, it can be translated to mean "wise beauty". |
-| 18 | [Gible](http://twitter.com/search?q=Gible) | N/A |
-| 19 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 20 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 21 | [Yoruba](http://twitter.com/search?q=Yoruba) | N/A |
-| 22 | [Goomy](http://twitter.com/search?q=Goomy) | N/A |
-| 23 | [Dreepy](http://twitter.com/search?q=Dreepy) | N/A |
-| 24 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 25 | [Noibat](http://twitter.com/search?q=Noibat) | N/A |
-| 26 | [Hawaii](http://twitter.com/search?q=Hawaii) | N/A |
-| 27 | [Chaka](http://twitter.com/search?q=Chaka) | N/A |
-| 28 | [Trapinch](http://twitter.com/search?q=Trapinch) | N/A |
-| 29 | [Doechii](http://twitter.com/search?q=Doechii) | N/A |
-| 30 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
-| 31 | [Venus](http://twitter.com/search?q=Venus) | N/A |
-| 32 | [Billboard](http://twitter.com/search?q=Billboard) | N/A |
-| 33 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 34 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
-| 35 | [matty healy](http://twitter.com/search?q=matty+healy) | N/A |
-| 36 | [Brandon Ingram](http://twitter.com/search?q=Brandon+Ingram) | Brandon Ingram is an American professional basketball player who currently plays for the New Orleans Pelicans of the National Basketball Association (NBA). He was selected second overall in the 2016 NBA draft by the Los Angeles Lakers. He is known for his scoring ability, long wingspan, and defensive versatility. |
-| 37 | [tzuyu](http://twitter.com/search?q=tzuyu) | Tzuyu is a Taiwanese singer and member of the K-pop girl group Twice. Her name is derived from the Taiwanese phrase "tzyu yu," which means "the most beautiful." |
-| 38 | [Meghan Trainor](http://twitter.com/search?q=Meghan+Trainor) | N/A |
-| 39 | [Joe Budden](http://twitter.com/search?q=Joe+Budden) | N/A |
-| 40 | [Ghana](http://twitter.com/search?q=Ghana) | N/A |
-| 41 | [Blazers](http://twitter.com/search?q=Blazers) | Blazers are a type of jacket, typically with a single row of buttons and a notched lapel. They are usually made from wool or cotton and can be worn as part of a suit or as a separate item. Blazers are often associated with formal occasions, but they can also be worn casually. |
-| 42 | [Blaire](http://twitter.com/search?q=Blaire) | N/A |
-| 43 | [Dr. Seuss](http://twitter.com/search?q=Dr.+Seuss) | N/A |
-| 44 | [Bill Barr](http://twitter.com/search?q=Bill+Barr) | N/A |
-| 45 | [Jalen Brunson](http://twitter.com/search?q=Jalen+Brunson) | Jalen Brunson is an American professional basketball player who currently plays for the Dallas Mavericks of the National Basketball Association (NBA). His name is a combination of his father's first name, John, and his mother's first name, Lenora. |
-| 46 | [Schwartz](http://twitter.com/search?q=Schwartz) | N/A |
-| 47 | [Wizkid](http://twitter.com/search?q=Wizkid) | Wizkid is a Nigerian singer, songwriter, and record producer. His real name is Ayodeji Ibrahim Balogun. The name Wizkid is derived from his childhood nickname, which was given to him by his friends due to his precociousness. In English, the term "wizkid" can be used to describe someone who is exceptionally talented or intelligent. |
+| 9 | [#BoycottHersheys](http://twitter.com/search?q=%23BoycottHersheys) | N/A |
+| 10 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 11 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
+| 12 | [JCole](http://twitter.com/search?q=JCole) | N/A |
+| 13 | [Friday Eve](http://twitter.com/search?q=Friday+Eve) | N/A |
+| 14 | [#WorldBookDay](http://twitter.com/search?q=%23WorldBookDay) | N/A |
+| 15 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
+| 16 | [Daily Quordle 402](http://twitter.com/search?q=Daily+Quordle+402) | N/A |
+| 17 | [JHOPE](http://twitter.com/search?q=JHOPE) | N/A |
+| 18 | [Dratini](http://twitter.com/search?q=Dratini) | N/A |
+| 19 | [Dr. Seuss](http://twitter.com/search?q=Dr.+Seuss) | N/A |
+| 20 | [Yoruba](http://twitter.com/search?q=Yoruba) | N/A |
+| 21 | [Doechii](http://twitter.com/search?q=Doechii) | N/A |
+| 22 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
+| 23 | [Gible](http://twitter.com/search?q=Gible) | N/A |
+| 24 | [Noibat](http://twitter.com/search?q=Noibat) | N/A |
+| 25 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 26 | [Chaka](http://twitter.com/search?q=Chaka) | N/A |
+| 27 | [jihyo](http://twitter.com/search?q=jihyo) | Jihyo is a Korean given name, usually for females. It is composed of two characters, the first meaning "wisdom" and the second meaning "beauty". In English, it can be translated to mean "wise beauty". |
+| 28 | [Goomy](http://twitter.com/search?q=Goomy) | N/A |
+| 29 | [Dreepy](http://twitter.com/search?q=Dreepy) | N/A |
+| 30 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 31 | [Petro](http://twitter.com/search?q=Petro) | N/A |
+| 32 | [Hawaii](http://twitter.com/search?q=Hawaii) | N/A |
+| 33 | [Trapinch](http://twitter.com/search?q=Trapinch) | N/A |
+| 34 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
+| 35 | [Wanda](http://twitter.com/search?q=Wanda) | N/A |
+| 36 | [Hawley](http://twitter.com/search?q=Hawley) | N/A |
+| 37 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 38 | [Venus](http://twitter.com/search?q=Venus) | N/A |
+| 39 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
+| 40 | [John Kerry](http://twitter.com/search?q=John+Kerry) | N/A |
+| 41 | [Billboard](http://twitter.com/search?q=Billboard) | N/A |
+| 42 | [Brandon Ingram](http://twitter.com/search?q=Brandon+Ingram) | Brandon Ingram is an American professional basketball player who currently plays for the New Orleans Pelicans of the National Basketball Association (NBA). He was selected second overall in the 2016 NBA draft by the Los Angeles Lakers. He is known for his scoring ability, long wingspan, and defensive versatility. |
+| 43 | [Ultra](http://twitter.com/search?q=Ultra) | N/A |
+| 44 | [tzuyu](http://twitter.com/search?q=tzuyu) | Tzuyu is a Taiwanese singer and member of the K-pop girl group Twice. Her name is derived from the Taiwanese phrase "tzyu yu," which means "the most beautiful." |
+| 45 | [Meghan Trainor](http://twitter.com/search?q=Meghan+Trainor) | N/A |
+| 46 | [Joe Budden](http://twitter.com/search?q=Joe+Budden) | N/A |
+| 47 | [matty healy](http://twitter.com/search?q=matty+healy) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bremen
 
-📆 Last Updated: `2023-03-02 11:17:05 UTC`
+📆 Last Updated: `2023-03-02 12:18:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#KlamrothLuegt](http://twitter.com/search?q=%23KlamrothLuegt) | N/A |
-| 2 | [#ManafHassanLügt](http://twitter.com/search?q=%23ManafHassanL%c3%bcgt) | N/A |
-| 3 | [#Giffey](http://twitter.com/search?q=%23Giffey) | N/A |
+| 2 | [#Giffey](http://twitter.com/search?q=%23Giffey) | N/A |
+| 3 | [#ManafHassanLügt](http://twitter.com/search?q=%23ManafHassanL%c3%bcgt) | N/A |
 | 4 | [Außenpolitik](http://twitter.com/search?q=Au%c3%9fenpolitik) | N/A |
 | 5 | [Koalition](http://twitter.com/search?q=Koalition) | N/A |
-| 6 | [Vergewaltigungen](http://twitter.com/search?q=Vergewaltigungen) | N/A |
-| 7 | [Kriegsverbrechen](http://twitter.com/search?q=Kriegsverbrechen) | N/A |
-| 8 | [Heizungen](http://twitter.com/search?q=Heizungen) | N/A |
-| 9 | [Jahre Berufserfahrung](http://twitter.com/search?q=Jahre+Berufserfahrung) | N/A |
-| 10 | [Maske](http://twitter.com/search?q=Maske) | N/A |
-| 11 | [wochenteiler](http://twitter.com/search?q=wochenteiler) | N/A |
-| 12 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
-| 13 | [Moderator](http://twitter.com/search?q=Moderator) | N/A |
-| 14 | [Verbote](http://twitter.com/search?q=Verbote) | N/A |
-| 15 | [Strom](http://twitter.com/search?q=Strom) | N/A |
-| 16 | [Bundesrat](http://twitter.com/search?q=Bundesrat) | N/A |
-| 17 | [Schönen Donnerstag](http://twitter.com/search?q=Sch%c3%b6nen+Donnerstag) | N/A |
-| 18 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
-| 19 | [Feiertag](http://twitter.com/search?q=Feiertag) | Feiertag is a German word meaning "holiday" or "celebration day". It is used to refer to any day that is set aside for special observance, such as a national holiday, religious holiday, or other special occasion. |
-| 20 | ['Kunterbunt'](http://twitter.com/search?q=%27Kunterbunt%27) | N/A |
+| 6 | [Kriegsverbrechen](http://twitter.com/search?q=Kriegsverbrechen) | N/A |
+| 7 | [Vergewaltigungen](http://twitter.com/search?q=Vergewaltigungen) | N/A |
+| 8 | [SPD-Mitglied](http://twitter.com/search?q=SPD-Mitglied) | N/A |
+| 9 | [Heizungen](http://twitter.com/search?q=Heizungen) | N/A |
+| 10 | [Jahre Berufserfahrung](http://twitter.com/search?q=Jahre+Berufserfahrung) | N/A |
+| 11 | [Maske](http://twitter.com/search?q=Maske) | N/A |
+| 12 | [wochenteiler](http://twitter.com/search?q=wochenteiler) | N/A |
+| 13 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
+| 14 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
+| 15 | [Moderator](http://twitter.com/search?q=Moderator) | N/A |
+| 16 | [Strom](http://twitter.com/search?q=Strom) | N/A |
+| 17 | [Faktencheck](http://twitter.com/search?q=Faktencheck) | N/A |
+| 18 | [Feiertag](http://twitter.com/search?q=Feiertag) | Feiertag is a German word meaning "holiday" or "celebration day". It is used to refer to any day that is set aside for special observance, such as a national holiday, religious holiday, or other special occasion. |
+| 19 | [Schönen Donnerstag](http://twitter.com/search?q=Sch%c3%b6nen+Donnerstag) | N/A |
+| 20 | [Bundesrat](http://twitter.com/search?q=Bundesrat) | N/A |
 | 21 | [Berliner SPD](http://twitter.com/search?q=Berliner+SPD) | N/A |
-| 22 | [Faktencheck](http://twitter.com/search?q=Faktencheck) | N/A |
-| 23 | [Wärmepumpe](http://twitter.com/search?q=W%c3%a4rmepumpe) | N/A |
-| 24 | [Seenotrettung](http://twitter.com/search?q=Seenotrettung) | N/A |
-| 25 | [Jusos](http://twitter.com/search?q=Jusos) | N/A |
-| 26 | [Nuhr](http://twitter.com/search?q=Nuhr) | N/A |
-| 27 | [spd-mitglied](http://twitter.com/search?q=spd-mitglied) | N/A |
-| 28 | [Glühbirnen](http://twitter.com/search?q=Gl%c3%bchbirnen) | N/A |
-| 29 | [JCOLE](http://twitter.com/search?q=JCOLE) | N/A |
-| 30 | [Wegner](http://twitter.com/search?q=Wegner) | N/A |
-| 31 | [Zellhaufen](http://twitter.com/search?q=Zellhaufen) | N/A |
-| 32 | [Frau Deutschlands](http://twitter.com/search?q=Frau+Deutschlands) | N/A |
-| 33 | [pika](http://twitter.com/search?q=pika) | N/A |
-| 34 | [Kraftstoffe](http://twitter.com/search?q=Kraftstoffe) | N/A |
-| 35 | [5M BUILD](http://twitter.com/search?q=5M+BUILD) | N/A |
-| 36 | [März 2023](http://twitter.com/search?q=M%c3%a4rz+2023) | N/A |
-| 37 | [uhren](http://twitter.com/search?q=uhren) | N/A |
+| 22 | [Wärmepumpen](http://twitter.com/search?q=W%c3%a4rmepumpen) | N/A |
+| 23 | [Nuhr](http://twitter.com/search?q=Nuhr) | N/A |
+| 24 | [Jusos](http://twitter.com/search?q=Jusos) | N/A |
+| 25 | [Seenotrettung](http://twitter.com/search?q=Seenotrettung) | N/A |
+| 26 | [Cannabis](http://twitter.com/search?q=Cannabis) | N/A |
+| 27 | [Frau Deutschlands](http://twitter.com/search?q=Frau+Deutschlands) | N/A |
+| 28 | [JCOLE](http://twitter.com/search?q=JCOLE) | N/A |
+| 29 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
+| 30 | [März 2023](http://twitter.com/search?q=M%c3%a4rz+2023) | N/A |
+| 31 | ['Kunterbunt'](http://twitter.com/search?q=%27Kunterbunt%27) | N/A |
+| 32 | [Wegner](http://twitter.com/search?q=Wegner) | N/A |
+| 33 | [Zellhaufen](http://twitter.com/search?q=Zellhaufen) | N/A |
+| 34 | [Uhren](http://twitter.com/search?q=Uhren) | N/A |
+| 35 | [Glühbirnen](http://twitter.com/search?q=Gl%c3%bchbirnen) | N/A |
+| 36 | [5M BUILD](http://twitter.com/search?q=5M+BUILD) | N/A |
+| 37 | [Kraftstoffe](http://twitter.com/search?q=Kraftstoffe) | N/A |
 | 38 | [Vizefreitag](http://twitter.com/search?q=Vizefreitag) | N/A |
-| 39 | [Yfood](http://twitter.com/search?q=Yfood) | N/A |
-| 40 | [Tage Urlaub](http://twitter.com/search?q=Tage+Urlaub) | N/A |
-| 41 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
-| 42 | [Cannabis](http://twitter.com/search?q=Cannabis) | N/A |
+| 39 | [Schwarzmarkt](http://twitter.com/search?q=Schwarzmarkt) | N/A |
+| 40 | [yfood](http://twitter.com/search?q=yfood) | N/A |
+| 41 | [HOORAY FOR 2](http://twitter.com/search?q=HOORAY+FOR+2) | N/A |
+| 42 | [Nestle](http://twitter.com/search?q=Nestle) | N/A |
 | 43 | [Gräber](http://twitter.com/search?q=Gr%c3%a4ber) | N/A |
-| 44 | [Nestle](http://twitter.com/search?q=Nestle) | N/A |
-| 45 | [HOORAY FOR 2](http://twitter.com/search?q=HOORAY+FOR+2) | N/A |
+| 44 | [Schwarz-Rot](http://twitter.com/search?q=Schwarz-Rot) | N/A |
+| 45 | [ampel](http://twitter.com/search?q=ampel) | N/A |
 | 46 | [Toiletten](http://twitter.com/search?q=Toiletten) | N/A |
-| 47 | [Kipping](http://twitter.com/search?q=Kipping) | N/A |
-| 48 | [Schwarz-Rot](http://twitter.com/search?q=Schwarz-Rot) | N/A |
+| 47 | [Wasserstoff](http://twitter.com/search?q=Wasserstoff) | N/A |
+| 48 | [Pikamee](http://twitter.com/search?q=Pikamee) | N/A |
 
 
 

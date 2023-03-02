@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ciudad Juarez
 
-📆 Last Updated: `2023-03-02 11:16:52 UTC`
+📆 Last Updated: `2023-03-02 12:18:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,49 +19,49 @@ This is top 50 for [Mexico](</Mexico>)
 | 2 | [#SalarioRosaContinua](http://twitter.com/search?q=%23SalarioRosaContinua) | N/A |
 | 3 | [Irma Serrano](http://twitter.com/search?q=Irma+Serrano) | N/A |
 | 4 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 5 | [La Tigresa](http://twitter.com/search?q=La+Tigresa) | N/A |
-| 6 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 7 | [Samuel](http://twitter.com/search?q=Samuel) | N/A |
-| 8 | [#BBWomenInMusic](http://twitter.com/search?q=%23BBWomenInMusic) | N/A |
-| 9 | [#TWICE_BreakthroughAward](http://twitter.com/search?q=%23TWICE_BreakthroughAward) | N/A |
+| 5 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
+| 6 | [La Tigresa](http://twitter.com/search?q=La+Tigresa) | N/A |
+| 7 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 8 | [Samuel](http://twitter.com/search?q=Samuel) | N/A |
+| 9 | [#BBWomenInMusic](http://twitter.com/search?q=%23BBWomenInMusic) | N/A |
 | 10 | [PARA NO VERTE MÁS](http://twitter.com/search?q=PARA+NO+VERTE+M%c3%81S) | N/A |
 | 11 | [Blink](http://twitter.com/search?q=Blink) | N/A |
-| 12 | [marzo con m](http://twitter.com/search?q=marzo+con+m) | N/A |
+| 12 | [Marzo con M](http://twitter.com/search?q=Marzo+con+M) | N/A |
 | 13 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
 | 14 | [Norma Piña](http://twitter.com/search?q=Norma+Pi%c3%b1a) | Norma Piña is a Mexican dish made with shredded beef, potatoes, and carrots cooked in a tomato-based sauce. The name of the dish comes from the Spanish words for "shredded beef" (carne deshebrada) and "pineapple" (piña). In English, Norma Piña translates to "Shredded Beef with Pineapple". |
-| 15 | [J COLE](http://twitter.com/search?q=J+COLE) | N/A |
-| 16 | [Monterrey](http://twitter.com/search?q=Monterrey) | N/A |
-| 17 | [HYBE PROTECT RM](http://twitter.com/search?q=HYBE+PROTECT+RM) | N/A |
-| 18 | [BIGHIT PROTECT RM](http://twitter.com/search?q=BIGHIT+PROTECT+RM) | N/A |
-| 19 | [Bienvenido Marzo](http://twitter.com/search?q=Bienvenido+Marzo) | N/A |
-| 20 | [twenty one pilots](http://twitter.com/search?q=twenty+one+pilots) | N/A |
-| 21 | [Nuevo Laredo](http://twitter.com/search?q=Nuevo+Laredo) | N/A |
-| 22 | [Justin Bieber](http://twitter.com/search?q=Justin+Bieber) | N/A |
-| 23 | [Tania Rincón](http://twitter.com/search?q=Tania+Rinc%c3%b3n) | N/A |
-| 24 | [Pal Norte](http://twitter.com/search?q=Pal+Norte) | N/A |
-| 25 | [Travis](http://twitter.com/search?q=Travis) | N/A |
-| 26 | [Komanche](http://twitter.com/search?q=Komanche) | N/A |
-| 27 | [Unión Hidalgo](http://twitter.com/search?q=Uni%c3%b3n+Hidalgo) | N/A |
+| 15 | [Monterrey](http://twitter.com/search?q=Monterrey) | N/A |
+| 16 | [J COLE](http://twitter.com/search?q=J+COLE) | N/A |
+| 17 | [J COLE](http://twitter.com/search?q=J+COLE) | N/A |
+| 18 | [HYBE PROTECT RM](http://twitter.com/search?q=HYBE+PROTECT+RM) | N/A |
+| 19 | [BIGHIT PROTECT RM](http://twitter.com/search?q=BIGHIT+PROTECT+RM) | N/A |
+| 20 | [Bienvenido Marzo](http://twitter.com/search?q=Bienvenido+Marzo) | N/A |
+| 21 | [twenty one pilots](http://twitter.com/search?q=twenty+one+pilots) | N/A |
+| 22 | [Nuevo Laredo](http://twitter.com/search?q=Nuevo+Laredo) | N/A |
+| 23 | [Justin Bieber](http://twitter.com/search?q=Justin+Bieber) | N/A |
+| 24 | [tania rincón](http://twitter.com/search?q=tania+rinc%c3%b3n) | N/A |
+| 25 | [pal norte](http://twitter.com/search?q=pal+norte) | N/A |
+| 26 | [Unión Hidalgo](http://twitter.com/search?q=Uni%c3%b3n+Hidalgo) | N/A |
+| 27 | [Komanche](http://twitter.com/search?q=Komanche) | N/A |
 | 28 | [CANCELEMOS A GLORIA TREVI](http://twitter.com/search?q=CANCELEMOS+A+GLORIA+TREVI) | N/A |
-| 29 | [medalla golden champ](http://twitter.com/search?q=medalla+golden+champ) | N/A |
+| 29 | [Travis](http://twitter.com/search?q=Travis) | N/A |
 | 30 | [all of the girls](http://twitter.com/search?q=all+of+the+girls) | N/A |
-| 31 | [ON THE STREET IS COMING](http://twitter.com/search?q=ON+THE+STREET+IS+COMING) | N/A |
-| 32 | [Andy Benavides](http://twitter.com/search?q=Andy+Benavides) | N/A |
-| 33 | [TWICE BILLBOARD AWARD](http://twitter.com/search?q=TWICE+BILLBOARD+AWARD) | N/A |
-| 34 | [Oaxaca](http://twitter.com/search?q=Oaxaca) | N/A |
-| 35 | [Missa](http://twitter.com/search?q=Missa) | N/A |
-| 36 | [Santa Catarina](http://twitter.com/search?q=Santa+Catarina) | N/A |
-| 37 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 38 | [Alfredo Adame](http://twitter.com/search?q=Alfredo+Adame) | Alfredo Adame is a Mexican actor, comedian, and television host. He is best known for his roles in the television series El Chavo del Ocho and El Chapulín Colorado. In English, the name Alfredo Adame means "Protector of the People". |
-| 39 | [The Dark Side of the Moon](http://twitter.com/search?q=The+Dark+Side+of+the+Moon) | N/A |
-| 40 | [jihyo](http://twitter.com/search?q=jihyo) | Jihyo is a Korean given name, usually for females. It is composed of two characters, the first meaning "wisdom" and the second meaning "beauty". In English, it can be translated to mean "wise beauty". |
-| 41 | [Pato Zambrano](http://twitter.com/search?q=Pato+Zambrano) | N/A |
-| 42 | [medaliud star](http://twitter.com/search?q=medaliud+star) | N/A |
-| 43 | [pika](http://twitter.com/search?q=pika) | N/A |
-| 44 | [Cabeza de Vaca](http://twitter.com/search?q=Cabeza+de+Vaca) | N/A |
-| 45 | [Poncho De Nigris](http://twitter.com/search?q=Poncho+De+Nigris) | N/A |
-| 46 | [Mario Delgado](http://twitter.com/search?q=Mario+Delgado) | N/A |
-| 47 | [Logro](http://twitter.com/search?q=Logro) | N/A |
+| 31 | [JISOO THE FACE OF DIOR](http://twitter.com/search?q=JISOO+THE+FACE+OF+DIOR) | N/A |
+| 32 | [medalla golden champ](http://twitter.com/search?q=medalla+golden+champ) | N/A |
+| 33 | [Andy Benavides](http://twitter.com/search?q=Andy+Benavides) | N/A |
+| 34 | [TWICE BILLBOARD AWARD](http://twitter.com/search?q=TWICE+BILLBOARD+AWARD) | N/A |
+| 35 | [Santa Catarina](http://twitter.com/search?q=Santa+Catarina) | N/A |
+| 36 | [Missa](http://twitter.com/search?q=Missa) | N/A |
+| 37 | [The Dark Side of the Moon](http://twitter.com/search?q=The+Dark+Side+of+the+Moon) | N/A |
+| 38 | [jihyo](http://twitter.com/search?q=jihyo) | Jihyo is a Korean given name, usually for females. It is composed of two characters, the first meaning "wisdom" and the second meaning "beauty". In English, it can be translated to mean "wise beauty". |
+| 39 | [medaliud star](http://twitter.com/search?q=medaliud+star) | N/A |
+| 40 | [pika](http://twitter.com/search?q=pika) | N/A |
+| 41 | [pato zambrano](http://twitter.com/search?q=pato+zambrano) | N/A |
+| 42 | [Alfredo Adame](http://twitter.com/search?q=Alfredo+Adame) | Alfredo Adame is a Mexican actor, comedian, and television host. He is best known for his roles in the television series El Chavo del Ocho and El Chapulín Colorado. In English, the name Alfredo Adame means "Protector of the People". |
+| 43 | [Cabeza de Vaca](http://twitter.com/search?q=Cabeza+de+Vaca) | N/A |
+| 44 | [Poncho De Nigris](http://twitter.com/search?q=Poncho+De+Nigris) | N/A |
+| 45 | [Mario Delgado](http://twitter.com/search?q=Mario+Delgado) | N/A |
+| 46 | [Juan Collado](http://twitter.com/search?q=Juan+Collado) | N/A |
+| 47 | [OMAR APOLLO](http://twitter.com/search?q=OMAR+APOLLO) | N/A |
 
 
 

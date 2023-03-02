@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hiroshima
 
-📆 Last Updated: `2023-03-02 11:17:15 UTC`
+📆 Last Updated: `2023-03-02 12:18:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [コオロギ](http://twitter.com/search?q=%e3%82%b3%e3%82%aa%e3%83%ad%e3%82%ae) | N/A |
+| 1 | [#musicj](http://twitter.com/search?q=%23musicj) | N/A |
 | 2 | [#cgよまつり](http://twitter.com/search?q=%23cg%e3%82%88%e3%81%be%e3%81%a4%e3%82%8a) | N/A |
-| 3 | [大川隆法](http://twitter.com/search?q=%e5%a4%a7%e5%b7%9d%e9%9a%86%e6%b3%95) | N/A |
-| 4 | [金星と木星](http://twitter.com/search?q=%e9%87%91%e6%98%9f%e3%81%a8%e6%9c%a8%e6%98%9f) | N/A |
-| 5 | [#絶対に許さない映画](http://twitter.com/search?q=%23%e7%b5%b6%e5%af%be%e3%81%ab%e8%a8%b1%e3%81%95%e3%81%aa%e3%81%84%e6%98%a0%e7%94%bb) | N/A |
-| 6 | [#ミリオンシンガー](http://twitter.com/search?q=%23%e3%83%9f%e3%83%aa%e3%82%aa%e3%83%b3%e3%82%b7%e3%83%b3%e3%82%ac%e3%83%bc) | N/A |
-| 7 | [京浜東北線](http://twitter.com/search?q=%e4%ba%ac%e6%b5%9c%e6%9d%b1%e5%8c%97%e7%b7%9a) | 京浜東北線 is a railway line in Japan operated by JR East. It runs between Tokyo and Saitama Prefecture, connecting Tokyo Station with Saitama-Shintoshin Station. In English, it is known as the Keihin-Tōhoku Line. |
-| 8 | [#プレバト](http://twitter.com/search?q=%23%e3%83%97%e3%83%ac%e3%83%90%e3%83%88) | #プレバト is a hashtag used on Twitter in Japan. It stands for "pre-battle" and is used to describe the anticipation and excitement of an upcoming event or challenge. |
-| 9 | [大阪城ホール](http://twitter.com/search?q=%e5%a4%a7%e9%98%aa%e5%9f%8e%e3%83%9b%e3%83%bc%e3%83%ab) | N/A |
-| 10 | [#BSS8thWin](http://twitter.com/search?q=%23BSS8thWin) | N/A |
-| 11 | [木星と金星](http://twitter.com/search?q=%e6%9c%a8%e6%98%9f%e3%81%a8%e9%87%91%e6%98%9f) | N/A |
+| 3 | [#絶対に許さない映画](http://twitter.com/search?q=%23%e7%b5%b6%e5%af%be%e3%81%ab%e8%a8%b1%e3%81%95%e3%81%aa%e3%81%84%e6%98%a0%e7%94%bb) | N/A |
+| 4 | [#ミリオンシンガー](http://twitter.com/search?q=%23%e3%83%9f%e3%83%aa%e3%82%aa%e3%83%b3%e3%82%b7%e3%83%b3%e3%82%ac%e3%83%bc) | N/A |
+| 5 | [#クセスゴ](http://twitter.com/search?q=%23%e3%82%af%e3%82%bb%e3%82%b9%e3%82%b4) | #クセスゴ is a Japanese hashtag that translates to "Curse Stone". It is used to refer to the practice of placing a stone or other object in a location as an offering to ward off bad luck or misfortune. |
+| 6 | [金星と木星](http://twitter.com/search?q=%e9%87%91%e6%98%9f%e3%81%a8%e6%9c%a8%e6%98%9f) | N/A |
+| 7 | [大川隆法](http://twitter.com/search?q=%e5%a4%a7%e5%b7%9d%e9%9a%86%e6%b3%95) | N/A |
+| 8 | [京浜東北線](http://twitter.com/search?q=%e4%ba%ac%e6%b5%9c%e6%9d%b1%e5%8c%97%e7%b7%9a) | 京浜東北線 is a railway line in Japan operated by JR East. It runs between Tokyo and Saitama Prefecture, connecting Tokyo Station with Saitama-Shintoshin Station. In English, it is known as the Keihin-Tōhoku Line. |
+| 9 | [ゲルテナ展](http://twitter.com/search?q=%e3%82%b2%e3%83%ab%e3%83%86%e3%83%8a%e5%b1%95) | N/A |
+| 10 | [ひな祭り](http://twitter.com/search?q=%e3%81%b2%e3%81%aa%e7%a5%ad%e3%82%8a) | N/A |
+| 11 | [復活のコアメダル](http://twitter.com/search?q=%e5%be%a9%e6%b4%bb%e3%81%ae%e3%82%b3%e3%82%a2%e3%83%a1%e3%83%80%e3%83%ab) | N/A |
 | 12 | [LiPPS](http://twitter.com/search?q=LiPPS) | N/A |
-| 13 | [ゲルテナ展](http://twitter.com/search?q=%e3%82%b2%e3%83%ab%e3%83%86%e3%83%8a%e5%b1%95) | N/A |
-| 14 | [幸福の科学](http://twitter.com/search?q=%e5%b9%b8%e7%a6%8f%e3%81%ae%e7%a7%91%e5%ad%a6) | N/A |
-| 15 | [ひな祭り](http://twitter.com/search?q=%e3%81%b2%e3%81%aa%e7%a5%ad%e3%82%8a) | N/A |
-| 16 | [風強すぎ](http://twitter.com/search?q=%e9%a2%a8%e5%bc%b7%e3%81%99%e3%81%8e) | 風強すぎ is a Japanese phrase that literally translates to "the wind is too strong". It is used to describe a situation where the wind is blowing very hard. |
-| 17 | [ゴキブリミルク](http://twitter.com/search?q=%e3%82%b4%e3%82%ad%e3%83%96%e3%83%aa%e3%83%9f%e3%83%ab%e3%82%af) | N/A |
-| 18 | [オルトエウレカ](http://twitter.com/search?q=%e3%82%aa%e3%83%ab%e3%83%88%e3%82%a8%e3%82%a6%e3%83%ac%e3%82%ab) | N/A |
-| 19 | [運転見合わせ](http://twitter.com/search?q=%e9%81%8b%e8%bb%a2%e8%a6%8b%e5%90%88%e3%82%8f%e3%81%9b) | 運転見合わせ is a Japanese phrase that literally translates to "driving coordination". It is used to refer to the practice of coordinating the timing of driving activities, such as when to start and stop, in order to ensure safety and efficiency. |
-| 20 | [シガーキス](http://twitter.com/search?q=%e3%82%b7%e3%82%ac%e3%83%bc%e3%82%ad%e3%82%b9) | N/A |
-| 21 | [藤井竜王](http://twitter.com/search?q=%e8%97%a4%e4%ba%95%e7%ab%9c%e7%8e%8b) | N/A |
-| 22 | [復活のコアメダル](http://twitter.com/search?q=%e5%be%a9%e6%b4%bb%e3%81%ae%e3%82%b3%e3%82%a2%e3%83%a1%e3%83%80%e3%83%ab) | N/A |
-| 23 | [未知の空間](http://twitter.com/search?q=%e6%9c%aa%e7%9f%a5%e3%81%ae%e7%a9%ba%e9%96%93) | N/A |
-| 24 | [トリプルクラウン](http://twitter.com/search?q=%e3%83%88%e3%83%aa%e3%83%97%e3%83%ab%e3%82%af%e3%83%a9%e3%82%a6%e3%83%b3) | N/A |
-| 25 | [ダルビッシュ](http://twitter.com/search?q=%e3%83%80%e3%83%ab%e3%83%93%e3%83%83%e3%82%b7%e3%83%a5) | ダルビッシュ is the surname of Japanese baseball pitcher, Yu Darvish. In English, it is pronounced "Dahr-bish". |
-| 26 | [強風の影響](http://twitter.com/search?q=%e5%bc%b7%e9%a2%a8%e3%81%ae%e5%bd%b1%e9%9f%bf) | N/A |
-| 27 | [浜松まつり](http://twitter.com/search?q=%e6%b5%9c%e6%9d%be%e3%81%be%e3%81%a4%e3%82%8a) | N/A |
-| 28 | [武蔵野線](http://twitter.com/search?q=%e6%ad%a6%e8%94%b5%e9%87%8e%e7%b7%9a) | 武蔵野線 is a railway line in Japan operated by the East Japan Railway Company. It runs between Ōmiya Station in Saitama Prefecture and Toride Station in Ibaraki Prefecture. In English, it is known as the Musashino Line. |
-| 29 | [ちらし寿司](http://twitter.com/search?q=%e3%81%a1%e3%82%89%e3%81%97%e5%af%bf%e5%8f%b8) | N/A |
-| 30 | [イタコ芸](http://twitter.com/search?q=%e3%82%a4%e3%82%bf%e3%82%b3%e8%8a%b8) | N/A |
-| 31 | [ルビーカウンテス](http://twitter.com/search?q=%e3%83%ab%e3%83%93%e3%83%bc%e3%82%ab%e3%82%a6%e3%83%b3%e3%83%86%e3%82%b9) | N/A |
-| 32 | [ちいかわ駅弁](http://twitter.com/search?q=%e3%81%a1%e3%81%84%e3%81%8b%e3%82%8f%e9%a7%85%e5%bc%81) | N/A |
-| 33 | [ブソクスン8冠](http://twitter.com/search?q=%e3%83%96%e3%82%bd%e3%82%af%e3%82%b9%e3%83%b38%e5%86%a0) | N/A |
-| 34 | [エル・カンター](http://twitter.com/search?q=%e3%82%a8%e3%83%ab%e3%83%bb%e3%82%ab%e3%83%b3%e3%82%bf%e3%83%bc) | N/A |
-| 35 | [ナガノ先生](http://twitter.com/search?q=%e3%83%8a%e3%82%ac%e3%83%8e%e5%85%88%e7%94%9f) | N/A |
-| 36 | [世界最大のピラミッド](http://twitter.com/search?q=%e4%b8%96%e7%95%8c%e6%9c%80%e5%a4%a7%e3%81%ae%e3%83%94%e3%83%a9%e3%83%9f%e3%83%83%e3%83%89) | N/A |
-| 37 | [デュエルトライアル](http://twitter.com/search?q=%e3%83%87%e3%83%a5%e3%82%a8%e3%83%ab%e3%83%88%e3%83%a9%e3%82%a4%e3%82%a2%e3%83%ab) | N/A |
-| 38 | [電車遅延](http://twitter.com/search?q=%e9%9b%bb%e8%bb%8a%e9%81%85%e5%bb%b6) | 電車遅延 (Densha Chien) is a Japanese phrase meaning "train delay". It is used to describe when a train is running late or has been cancelled due to some kind of disruption. |
-| 39 | [篠原涼子](http://twitter.com/search?q=%e7%af%a0%e5%8e%9f%e6%b6%bc%e5%ad%90) | N/A |
-| 40 | [池田大作](http://twitter.com/search?q=%e6%b1%a0%e7%94%b0%e5%a4%a7%e4%bd%9c) | N/A |
-| 41 | [星動日記](http://twitter.com/search?q=%e6%98%9f%e5%8b%95%e6%97%a5%e8%a8%98) | N/A |
-| 42 | [ユアマイ](http://twitter.com/search?q=%e3%83%a6%e3%82%a2%e3%83%9e%e3%82%a4) | N/A |
-| 43 | [村井知事](http://twitter.com/search?q=%e6%9d%91%e4%ba%95%e7%9f%a5%e4%ba%8b) | N/A |
-| 44 | [JUNGO](http://twitter.com/search?q=JUNGO) | N/A |
-| 45 | [岡林くん](http://twitter.com/search?q=%e5%b2%a1%e6%9e%97%e3%81%8f%e3%82%93) | N/A |
-| 46 | [レポリット](http://twitter.com/search?q=%e3%83%ac%e3%83%9d%e3%83%aa%e3%83%83%e3%83%88) | N/A |
-| 47 | [ナカジ骨折](http://twitter.com/search?q=%e3%83%8a%e3%82%ab%e3%82%b8%e9%aa%a8%e6%8a%98) | N/A |
-| 48 | [強風のせい](http://twitter.com/search?q=%e5%bc%b7%e9%a2%a8%e3%81%ae%e3%81%9b%e3%81%84) | N/A |
-| 49 | [U149](http://twitter.com/search?q=U149) | N/A |
+| 13 | [大阪城ホール](http://twitter.com/search?q=%e5%a4%a7%e9%98%aa%e5%9f%8e%e3%83%9b%e3%83%bc%e3%83%ab) | N/A |
+| 14 | [イコノイジョイ](http://twitter.com/search?q=%e3%82%a4%e3%82%b3%e3%83%8e%e3%82%a4%e3%82%b8%e3%83%a7%e3%82%a4) | N/A |
+| 15 | [木星と金星](http://twitter.com/search?q=%e6%9c%a8%e6%98%9f%e3%81%a8%e9%87%91%e6%98%9f) | N/A |
+| 16 | [幸福の科学](http://twitter.com/search?q=%e5%b9%b8%e7%a6%8f%e3%81%ae%e7%a7%91%e5%ad%a6) | N/A |
+| 17 | [運転見合わせ](http://twitter.com/search?q=%e9%81%8b%e8%bb%a2%e8%a6%8b%e5%90%88%e3%82%8f%e3%81%9b) | 運転見合わせ is a Japanese phrase that literally translates to "driving coordination". It is used to refer to the practice of coordinating the timing of driving activities, such as when to start and stop, in order to ensure safety and efficiency. |
+| 18 | [小島よしお](http://twitter.com/search?q=%e5%b0%8f%e5%b3%b6%e3%82%88%e3%81%97%e3%81%8a) | N/A |
+| 19 | [そずり鍋](http://twitter.com/search?q=%e3%81%9d%e3%81%9a%e3%82%8a%e9%8d%8b) | N/A |
+| 20 | [河合くん](http://twitter.com/search?q=%e6%b2%b3%e5%90%88%e3%81%8f%e3%82%93) | N/A |
+| 21 | [EIKO](http://twitter.com/search?q=EIKO) | N/A |
+| 22 | [出産条件](http://twitter.com/search?q=%e5%87%ba%e7%94%a3%e6%9d%a1%e4%bb%b6) | N/A |
+| 23 | [奨学金の返済減免](http://twitter.com/search?q=%e5%a5%a8%e5%ad%a6%e9%87%91%e3%81%ae%e8%bf%94%e6%b8%88%e6%b8%9b%e5%85%8d) | N/A |
+| 24 | [アンミカさん](http://twitter.com/search?q=%e3%82%a2%e3%83%b3%e3%83%9f%e3%82%ab%e3%81%95%e3%82%93) | アンミカさん is a Japanese nickname for the character Anemica from the manga series Aikatsu!. The English translation of アンミカさん would be "Miss Anemica". |
+| 25 | [電車遅延](http://twitter.com/search?q=%e9%9b%bb%e8%bb%8a%e9%81%85%e5%bb%b6) | 電車遅延 (Densha Chien) is a Japanese phrase meaning "train delay". It is used to describe when a train is running late or has been cancelled due to some kind of disruption. |
+| 26 | [風強すぎ](http://twitter.com/search?q=%e9%a2%a8%e5%bc%b7%e3%81%99%e3%81%8e) | 風強すぎ is a Japanese phrase that literally translates to "the wind is too strong". It is used to describe a situation where the wind is blowing very hard. |
+| 27 | [シガーキス](http://twitter.com/search?q=%e3%82%b7%e3%82%ac%e3%83%bc%e3%82%ad%e3%82%b9) | N/A |
+| 28 | [浜松まつり](http://twitter.com/search?q=%e6%b5%9c%e6%9d%be%e3%81%be%e3%81%a4%e3%82%8a) | N/A |
+| 29 | [ナカジ骨折](http://twitter.com/search?q=%e3%83%8a%e3%82%ab%e3%82%b8%e9%aa%a8%e6%8a%98) | N/A |
+| 30 | [武蔵野線](http://twitter.com/search?q=%e6%ad%a6%e8%94%b5%e9%87%8e%e7%b7%9a) | 武蔵野線 is a railway line in Japan operated by the East Japan Railway Company. It runs between Ōmiya Station in Saitama Prefecture and Toride Station in Ibaraki Prefecture. In English, it is known as the Musashino Line. |
+| 31 | [教育費軽減](http://twitter.com/search?q=%e6%95%99%e8%82%b2%e8%b2%bb%e8%bb%bd%e6%b8%9b) | N/A |
+| 32 | [強風の影響](http://twitter.com/search?q=%e5%bc%b7%e9%a2%a8%e3%81%ae%e5%bd%b1%e9%9f%bf) | N/A |
+| 33 | [藤井竜王](http://twitter.com/search?q=%e8%97%a4%e4%ba%95%e7%ab%9c%e7%8e%8b) | N/A |
+| 34 | [自民調査会](http://twitter.com/search?q=%e8%87%aa%e6%b0%91%e8%aa%bf%e6%9f%bb%e4%bc%9a) | N/A |
+| 35 | [ちらし寿司](http://twitter.com/search?q=%e3%81%a1%e3%82%89%e3%81%97%e5%af%bf%e5%8f%b8) | N/A |
+| 36 | [木曜日のスキャンダル](http://twitter.com/search?q=%e6%9c%a8%e6%9b%9c%e6%97%a5%e3%81%ae%e3%82%b9%e3%82%ad%e3%83%a3%e3%83%b3%e3%83%80%e3%83%ab) | N/A |
+| 37 | [星動日記](http://twitter.com/search?q=%e6%98%9f%e5%8b%95%e6%97%a5%e8%a8%98) | N/A |
+| 38 | [オルトエウレカ](http://twitter.com/search?q=%e3%82%aa%e3%83%ab%e3%83%88%e3%82%a8%e3%82%a6%e3%83%ac%e3%82%ab) | N/A |
+| 39 | [パオパオチャンネル](http://twitter.com/search?q=%e3%83%91%e3%82%aa%e3%83%91%e3%82%aa%e3%83%81%e3%83%a3%e3%83%b3%e3%83%8d%e3%83%ab) | N/A |
+| 40 | [未知の空間](http://twitter.com/search?q=%e6%9c%aa%e7%9f%a5%e3%81%ae%e7%a9%ba%e9%96%93) | N/A |
+| 41 | [ピラミッド](http://twitter.com/search?q=%e3%83%94%e3%83%a9%e3%83%9f%e3%83%83%e3%83%89) | N/A |
+| 42 | [トリプルクラウン](http://twitter.com/search?q=%e3%83%88%e3%83%aa%e3%83%97%e3%83%ab%e3%82%af%e3%83%a9%e3%82%a6%e3%83%b3) | N/A |
+| 43 | [ゴキブリミルク](http://twitter.com/search?q=%e3%82%b4%e3%82%ad%e3%83%96%e3%83%aa%e3%83%9f%e3%83%ab%e3%82%af) | N/A |
+| 44 | [岸くん3位](http://twitter.com/search?q=%e5%b2%b8%e3%81%8f%e3%82%933%e4%bd%8d) | N/A |
+| 45 | [ユアマイ](http://twitter.com/search?q=%e3%83%a6%e3%82%a2%e3%83%9e%e3%82%a4) | N/A |
+| 46 | [成海聖奈](http://twitter.com/search?q=%e6%88%90%e6%b5%b7%e8%81%96%e5%a5%88) | N/A |
+| 47 | [ちいかわ駅弁](http://twitter.com/search?q=%e3%81%a1%e3%81%84%e3%81%8b%e3%82%8f%e9%a7%85%e5%bc%81) | N/A |
+| 48 | [恐竜カレー](http://twitter.com/search?q=%e6%81%90%e7%ab%9c%e3%82%ab%e3%83%ac%e3%83%bc) | N/A |
+| 49 | [ダルビッシュ](http://twitter.com/search?q=%e3%83%80%e3%83%ab%e3%83%93%e3%83%83%e3%82%b7%e3%83%a5) | ダルビッシュ is the surname of Japanese baseball pitcher, Yu Darvish. In English, it is pronounced "Dahr-bish". |
 
 
 

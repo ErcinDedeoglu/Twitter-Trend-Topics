@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-03-02 11:17:46 UTC`
+📆 Last Updated: `2023-03-02 12:19:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Austria
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#ECR2023](http://twitter.com/search?q=%23ECR2023) | N/A |
-| 2 | [Inflation](http://twitter.com/search?q=Inflation) | N/A |
-| 3 | [Maske](http://twitter.com/search?q=Maske) | N/A |
-| 4 | [#oenr](http://twitter.com/search?q=%23oenr) | N/A |
-| 5 | [Außenpolitik](http://twitter.com/search?q=Au%c3%9fenpolitik) | N/A |
-| 6 | [#BeyondFast](http://twitter.com/search?q=%23BeyondFast) | #BeyondFast is a hashtag used to describe something that goes beyond the speed of fast. It is used to emphasize the idea that something is faster than fast, or that it surpasses the speed of fast. |
+| 2 | [Maske](http://twitter.com/search?q=Maske) | N/A |
+| 3 | [Inflation](http://twitter.com/search?q=Inflation) | N/A |
+| 4 | [Außenpolitik](http://twitter.com/search?q=Au%c3%9fenpolitik) | N/A |
+| 5 | [#OeNR](http://twitter.com/search?q=%23OeNR) | N/A |
+| 6 | [#beyondfast](http://twitter.com/search?q=%23beyondfast) | N/A |
 | 7 | [Franz](http://twitter.com/search?q=Franz) | N/A |
 | 8 | [#wahl23](http://twitter.com/search?q=%23wahl23) | N/A |
-| 9 | [Lockdowns](http://twitter.com/search?q=Lockdowns) | N/A |
-| 10 | [Karin](http://twitter.com/search?q=Karin) | N/A |
-| 11 | [#wienenergie](http://twitter.com/search?q=%23wienenergie) | N/A |
-| 12 | [Kärntner](http://twitter.com/search?q=K%c3%a4rntner) | N/A |
-| 13 | [Antrag](http://twitter.com/search?q=Antrag) | N/A |
-| 14 | [Tage Woche](http://twitter.com/search?q=Tage+Woche) | N/A |
-| 15 | [Siegel](http://twitter.com/search?q=Siegel) | N/A |
-| 16 | [E-Auto](http://twitter.com/search?q=E-Auto) | N/A |
-| 17 | [IKEA](http://twitter.com/search?q=IKEA) | N/A |
-| 18 | [Kooperation](http://twitter.com/search?q=Kooperation) | N/A |
-| 19 | [Mitleid](http://twitter.com/search?q=Mitleid) | N/A |
-| 20 | [Helmut](http://twitter.com/search?q=Helmut) | N/A |
-| 21 | [Hausverstand](http://twitter.com/search?q=Hausverstand) | N/A |
-| 22 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
-| 23 | [Renate](http://twitter.com/search?q=Renate) | N/A |
-| 24 | [Herzliche Gratulation](http://twitter.com/search?q=Herzliche+Gratulation) | N/A |
-| 25 | [Konto](http://twitter.com/search?q=Konto) | N/A |
-| 26 | [Autobahnen](http://twitter.com/search?q=Autobahnen) | N/A |
-| 27 | [Kopfschmerzen](http://twitter.com/search?q=Kopfschmerzen) | N/A |
-| 28 | [Plastik](http://twitter.com/search?q=Plastik) | N/A |
-| 29 | [Gurken](http://twitter.com/search?q=Gurken) | N/A |
-| 30 | [Bericht](http://twitter.com/search?q=Bericht) | N/A |
-| 31 | [Clown](http://twitter.com/search?q=Clown) | N/A |
-| 32 | [Theorie](http://twitter.com/search?q=Theorie) | N/A |
-| 33 | [E-Fuels](http://twitter.com/search?q=E-Fuels) | N/A |
-| 34 | [Vergleich](http://twitter.com/search?q=Vergleich) | N/A |
-| 35 | [Arbeitszeit](http://twitter.com/search?q=Arbeitszeit) | N/A |
-| 36 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
-| 37 | [Schnauze](http://twitter.com/search?q=Schnauze) | N/A |
-| 38 | [Wirtschaftsbund](http://twitter.com/search?q=Wirtschaftsbund) | N/A |
-| 39 | [Kapitalismus](http://twitter.com/search?q=Kapitalismus) | N/A |
-| 40 | [Ziegler](http://twitter.com/search?q=Ziegler) | N/A |
-| 41 | [Alexandra](http://twitter.com/search?q=Alexandra) | N/A |
+| 9 | [#radiology](http://twitter.com/search?q=%23radiology) | N/A |
+| 10 | [Mitleid](http://twitter.com/search?q=Mitleid) | N/A |
+| 11 | [Lockdowns](http://twitter.com/search?q=Lockdowns) | N/A |
+| 12 | [Karin](http://twitter.com/search?q=Karin) | N/A |
+| 13 | [Tage Woche](http://twitter.com/search?q=Tage+Woche) | N/A |
+| 14 | [kärntner](http://twitter.com/search?q=k%c3%a4rntner) | N/A |
+| 15 | [Antrag](http://twitter.com/search?q=Antrag) | N/A |
+| 16 | [siegel](http://twitter.com/search?q=siegel) | N/A |
+| 17 | [E-Auto](http://twitter.com/search?q=E-Auto) | N/A |
+| 18 | [IKEA](http://twitter.com/search?q=IKEA) | N/A |
+| 19 | [Herzliche Gratulation](http://twitter.com/search?q=Herzliche+Gratulation) | N/A |
+| 20 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 21 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
+| 22 | [Autobahnen](http://twitter.com/search?q=Autobahnen) | N/A |
+| 23 | [Rauch](http://twitter.com/search?q=Rauch) | N/A |
+| 24 | [Kopfschmerzen](http://twitter.com/search?q=Kopfschmerzen) | N/A |
+| 25 | [Plastik](http://twitter.com/search?q=Plastik) | N/A |
+| 26 | [Gurken](http://twitter.com/search?q=Gurken) | N/A |
+| 27 | [Arbeitsbedingungen](http://twitter.com/search?q=Arbeitsbedingungen) | N/A |
+| 28 | [März 2023](http://twitter.com/search?q=M%c3%a4rz+2023) | N/A |
+| 29 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 30 | [Helmut](http://twitter.com/search?q=Helmut) | N/A |
+| 31 | [Paris](http://twitter.com/search?q=Paris) | N/A |
+| 32 | [Arbeitszeit](http://twitter.com/search?q=Arbeitszeit) | N/A |
+| 33 | [Schnauze](http://twitter.com/search?q=Schnauze) | N/A |
+| 34 | [Greece](http://twitter.com/search?q=Greece) | N/A |
+| 35 | [Wirtschaftsbund](http://twitter.com/search?q=Wirtschaftsbund) | N/A |
+| 36 | [Kapitalismus](http://twitter.com/search?q=Kapitalismus) | N/A |
+| 37 | [Alexandra](http://twitter.com/search?q=Alexandra) | N/A |
+| 38 | [Makler](http://twitter.com/search?q=Makler) | N/A |
+| 39 | [ziegler](http://twitter.com/search?q=ziegler) | N/A |
+| 40 | [Gehsteig](http://twitter.com/search?q=Gehsteig) | N/A |
+| 41 | [GIVE US WN BLOOPERS](http://twitter.com/search?q=GIVE+US+WN+BLOOPERS) | N/A |
 | 42 | [rendi-wagner](http://twitter.com/search?q=rendi-wagner) | N/A |
-| 43 | [Konkurrenz](http://twitter.com/search?q=Konkurrenz) | N/A |
-| 44 | [Arbeitsbedingungen](http://twitter.com/search?q=Arbeitsbedingungen) | N/A |
-| 45 | [Frankreich](http://twitter.com/search?q=Frankreich) | N/A |
-| 46 | [Arbeitstag](http://twitter.com/search?q=Arbeitstag) | N/A |
-| 47 | [Verfügung](http://twitter.com/search?q=Verf%c3%bcgung) | N/A |
-| 48 | [Willkommen im Club](http://twitter.com/search?q=Willkommen+im+Club) | N/A |
-| 49 | [GIVE US WN BLOOPERS](http://twitter.com/search?q=GIVE+US+WN+BLOOPERS) | N/A |
-| 50 | [Gehsteig](http://twitter.com/search?q=Gehsteig) | N/A |
+| 43 | [Frankreich](http://twitter.com/search?q=Frankreich) | N/A |
+| 44 | [Willkommen im Club](http://twitter.com/search?q=Willkommen+im+Club) | N/A |
+| 45 | [Dietmar](http://twitter.com/search?q=Dietmar) | N/A |
+| 46 | [U-Bahn](http://twitter.com/search?q=U-Bahn) | N/A |
+| 47 | [Schmarrn](http://twitter.com/search?q=Schmarrn) | N/A |
+| 48 | [Lohnausgleich](http://twitter.com/search?q=Lohnausgleich) | N/A |
+| 49 | [Flucht](http://twitter.com/search?q=Flucht) | N/A |
+| 50 | [Kollegin](http://twitter.com/search?q=Kollegin) | N/A |
 
 
 

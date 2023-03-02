@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For United Kingdom
 
-📆 Last Updated: `2023-03-02 11:17:55 UTC`
+📆 Last Updated: `2023-03-02 12:19:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for United Kingdom
 | ------- | ------------ | ------------ |
 | 1 | [#WorldBookDay](http://twitter.com/search?q=%23WorldBookDay) | N/A |
 | 2 | [#BBCLiveLessons](http://twitter.com/search?q=%23BBCLiveLessons) | N/A |
-| 3 | [#popmaster](http://twitter.com/search?q=%23popmaster) | N/A |
-| 4 | [McDonalds](http://twitter.com/search?q=McDonalds) | N/A |
-| 5 | [#WBD23](http://twitter.com/search?q=%23WBD23) | N/A |
-| 6 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
+| 3 | [McDonalds](http://twitter.com/search?q=McDonalds) | N/A |
+| 4 | [Matt Hancock](http://twitter.com/search?q=Matt+Hancock) | Matt Hancock is the current Secretary of State for Health and Social Care in the United Kingdom. He is responsible for leading the government's response to the coronavirus pandemic. The phrase "Matt Hancock" is used to refer to him and his role in government. |
+| 5 | [#WBD2023](http://twitter.com/search?q=%23WBD2023) | N/A |
+| 6 | [#books](http://twitter.com/search?q=%23books) | N/A |
 | 7 | [#readingforpleasure](http://twitter.com/search?q=%23readingforpleasure) | N/A |
-| 8 | [Isabel Oakeshott](http://twitter.com/search?q=Isabel+Oakeshott) | N/A |
-| 9 | [Williamson](http://twitter.com/search?q=Williamson) | N/A |
-| 10 | [Badenoch](http://twitter.com/search?q=Badenoch) | N/A |
-| 11 | [Year 4](http://twitter.com/search?q=Year+4) | N/A |
+| 8 | [Year 3](http://twitter.com/search?q=Year+3) | N/A |
+| 9 | [30p Lee](http://twitter.com/search?q=30p+Lee) | N/A |
+| 10 | [Isabel Oakeshott](http://twitter.com/search?q=Isabel+Oakeshott) | N/A |
+| 11 | [Badenoch](http://twitter.com/search?q=Badenoch) | N/A |
 | 12 | [Unions](http://twitter.com/search?q=Unions) | N/A |
-| 13 | [JCOLE](http://twitter.com/search?q=JCOLE) | N/A |
-| 14 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
-| 15 | [Frogmore](http://twitter.com/search?q=Frogmore) | N/A |
-| 16 | [Lance Stroll](http://twitter.com/search?q=Lance+Stroll) | N/A |
-| 17 | [Telegraph](http://twitter.com/search?q=Telegraph) | N/A |
-| 18 | [Teachers](http://twitter.com/search?q=Teachers) | N/A |
-| 19 | [Daily Quordle 402](http://twitter.com/search?q=Daily+Quordle+402) | N/A |
-| 20 | [Richard Tice](http://twitter.com/search?q=Richard+Tice) | N/A |
-| 21 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
-| 22 | [Meghan](http://twitter.com/search?q=Meghan) | N/A |
-| 23 | [Maccies](http://twitter.com/search?q=Maccies) | N/A |
-| 24 | [Library](http://twitter.com/search?q=Library) | N/A |
-| 25 | [Yoruba](http://twitter.com/search?q=Yoruba) | N/A |
-| 26 | [Sorcha](http://twitter.com/search?q=Sorcha) | N/A |
-| 27 | [Where's Wally](http://twitter.com/search?q=Where%27s+Wally) | N/A |
+| 13 | [WH Smith](http://twitter.com/search?q=WH+Smith) | N/A |
+| 14 | [jcole](http://twitter.com/search?q=jcole) | N/A |
+| 15 | [Library](http://twitter.com/search?q=Library) | N/A |
+| 16 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
+| 17 | [Teachers](http://twitter.com/search?q=Teachers) | N/A |
+| 18 | [Reform](http://twitter.com/search?q=Reform) | N/A |
+| 19 | [Richard Tice](http://twitter.com/search?q=Richard+Tice) | N/A |
+| 20 | [Wo Long](http://twitter.com/search?q=Wo+Long) | N/A |
+| 21 | [Meghan](http://twitter.com/search?q=Meghan) | N/A |
+| 22 | [Frogmore](http://twitter.com/search?q=Frogmore) | N/A |
+| 23 | [Yoruba](http://twitter.com/search?q=Yoruba) | N/A |
+| 24 | [Matilda](http://twitter.com/search?q=Matilda) | Matilda is a female given name of Germanic origin, derived from the words maht (meaning "might, strength") and hild (meaning "battle"). It is often associated with the English queen Matilda of Flanders. The name can also be used as a nickname for Matilda or Mathilde. |
+| 25 | [Telegraph](http://twitter.com/search?q=Telegraph) | N/A |
+| 26 | [Maccies](http://twitter.com/search?q=Maccies) | N/A |
+| 27 | [Lance Stroll](http://twitter.com/search?q=Lance+Stroll) | N/A |
 | 28 | [Reception](http://twitter.com/search?q=Reception) | N/A |
-| 29 | [JHOPE](http://twitter.com/search?q=JHOPE) | N/A |
-| 30 | [Reform Party](http://twitter.com/search?q=Reform+Party) | N/A |
-| 31 | [Alice in Wonderland](http://twitter.com/search?q=Alice+in+Wonderland) | N/A |
-| 32 | [Matilda](http://twitter.com/search?q=Matilda) | Matilda is a female given name of Germanic origin, derived from the words maht (meaning "might, strength") and hild (meaning "battle"). It is often associated with the English queen Matilda of Flanders. The name can also be used as a nickname for Matilda or Mathilde. |
-| 33 | [Wakefield](http://twitter.com/search?q=Wakefield) | N/A |
-| 34 | [BAME](http://twitter.com/search?q=BAME) | N/A |
-| 35 | [Levy](http://twitter.com/search?q=Levy) | Levy is a noun that refers to a tax or fee imposed by a government or other authority. It can also refer to the act of collecting such a tax or fee. |
-| 36 | [Prince Andrew](http://twitter.com/search?q=Prince+Andrew) | N/A |
-| 37 | [Royal Family](http://twitter.com/search?q=Royal+Family) | N/A |
-| 38 | [Poch](http://twitter.com/search?q=Poch) | Poch is a Spanish slang term that means "lazy" or "slacker." It is often used to describe someone who is not motivated or who avoids work. |
-| 39 | [IPOB](http://twitter.com/search?q=IPOB) | N/A |
-| 40 | [Eton](http://twitter.com/search?q=Eton) | N/A |
-| 41 | [Batley](http://twitter.com/search?q=Batley) | N/A |
-| 42 | [Nursery](http://twitter.com/search?q=Nursery) | N/A |
-| 43 | [ENIC](http://twitter.com/search?q=ENIC) | N/A |
-| 44 | [#books](http://twitter.com/search?q=%23books) | N/A |
-| 45 | [#WBD2023](http://twitter.com/search?q=%23WBD2023) | N/A |
-| 46 | [#ITV7InItToWinIt](http://twitter.com/search?q=%23ITV7InItToWinIt) | N/A |
-| 47 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 48 | [#ASongOrMovieForAnythingYellow](http://twitter.com/search?q=%23ASongOrMovieForAnythingYellow) | N/A |
-| 49 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
-| 50 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
+| 29 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
+| 30 | [Bone](http://twitter.com/search?q=Bone) | N/A |
+| 31 | [Sorcha](http://twitter.com/search?q=Sorcha) | N/A |
+| 32 | [BAME](http://twitter.com/search?q=BAME) | N/A |
+| 33 | [Where's Wally](http://twitter.com/search?q=Where%27s+Wally) | N/A |
+| 34 | [Alice in Wonderland](http://twitter.com/search?q=Alice+in+Wonderland) | N/A |
+| 35 | [JHOPE](http://twitter.com/search?q=JHOPE) | N/A |
+| 36 | [Daily Quordle 402](http://twitter.com/search?q=Daily+Quordle+402) | N/A |
+| 37 | [EYFS](http://twitter.com/search?q=EYFS) | N/A |
+| 38 | [Wakefield](http://twitter.com/search?q=Wakefield) | N/A |
+| 39 | [Prince Andrew](http://twitter.com/search?q=Prince+Andrew) | N/A |
+| 40 | [Royal Family](http://twitter.com/search?q=Royal+Family) | N/A |
+| 41 | [Royal Lodge](http://twitter.com/search?q=Royal+Lodge) | N/A |
+| 42 | [Ministers](http://twitter.com/search?q=Ministers) | N/A |
+| 43 | [Eton](http://twitter.com/search?q=Eton) | N/A |
+| 44 | [#FMQs](http://twitter.com/search?q=%23FMQs) | N/A |
+| 45 | [#popmaster](http://twitter.com/search?q=%23popmaster) | N/A |
+| 46 | [#WBD23](http://twitter.com/search?q=%23WBD23) | N/A |
+| 47 | [#ThisMorning](http://twitter.com/search?q=%23ThisMorning) | N/A |
+| 48 | [#ITV7InItToWinIt](http://twitter.com/search?q=%23ITV7InItToWinIt) | N/A |
+| 49 | [#ASongOrMovieForAnythingYellow](http://twitter.com/search?q=%23ASongOrMovieForAnythingYellow) | N/A |
+| 50 | [#JeremyVine](http://twitter.com/search?q=%23JeremyVine) | N/A |
 
 
 

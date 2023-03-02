@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guayaquil
 
-📆 Last Updated: `2023-03-02 11:16:57 UTC`
+📆 Last Updated: `2023-03-02 12:18:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Ecuador](</Ecuador>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Tere](http://twitter.com/search?q=Tere) | N/A |
-| 2 | [#RecopaSudamericana](http://twitter.com/search?q=%23RecopaSudamericana) | N/A |
-| 3 | [Alexandra](http://twitter.com/search?q=Alexandra) | N/A |
+| 2 | [Alexandra](http://twitter.com/search?q=Alexandra) | N/A |
+| 3 | [#RecopaSudamericana](http://twitter.com/search?q=%23RecopaSudamericana) | N/A |
 | 4 | [Independiente del Valle](http://twitter.com/search?q=Independiente+del+Valle) | N/A |
-| 5 | [#MasterChefEcuador](http://twitter.com/search?q=%23MasterChefEcuador) | N/A |
+| 5 | [#MasterchefEcuador](http://twitter.com/search?q=%23MasterchefEcuador) | N/A |
 | 6 | [#AdiosLasso](http://twitter.com/search?q=%23AdiosLasso) | N/A |
-| 7 | [Maracaná](http://twitter.com/search?q=Maracan%c3%a1) | N/A |
-| 8 | [Costa Rica](http://twitter.com/search?q=Costa+Rica) | N/A |
+| 7 | [Costa Rica](http://twitter.com/search?q=Costa+Rica) | N/A |
+| 8 | [maracaná](http://twitter.com/search?q=maracan%c3%a1) | N/A |
 | 9 | [micolta](http://twitter.com/search?q=micolta) | N/A |
 | 10 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
 | 11 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
-| 12 | [Luisa Espinoza](http://twitter.com/search?q=Luisa+Espinoza) | N/A |
+| 12 | [Hoyos](http://twitter.com/search?q=Hoyos) | Hoyos is a Spanish word meaning "holes". It can refer to physical holes in the ground or figuratively to a situation that is difficult to get out of. |
 | 13 | [Gabigol](http://twitter.com/search?q=Gabigol) | Gabigol is a nickname given to Brazilian footballer Gabriel Barbosa, who currently plays for Flamengo. The nickname is a combination of his first name, Gabriel, and the Portuguese word for goal, gol. In English, the nickname translates to "Gabriel Goal". |
-| 14 | [HOYOS](http://twitter.com/search?q=HOYOS) | N/A |
-| 15 | [Santiago](http://twitter.com/search?q=Santiago) | N/A |
-| 16 | [Almada](http://twitter.com/search?q=Almada) | N/A |
-| 17 | [Vidal](http://twitter.com/search?q=Vidal) | Vidal is a Spanish surname derived from the Latin name Vitalis, which means “life”. It is also a French surname derived from the Latin name Vidallus, which means “woodland”. |
-| 18 | [#FueraLassoYa](http://twitter.com/search?q=%23FueraLassoYa) | N/A |
-| 19 | [Gruber Zambrano](http://twitter.com/search?q=Gruber+Zambrano) | N/A |
-| 20 | [Andino](http://twitter.com/search?q=Andino) | N/A |
-| 21 | [#TWICE_BreakthroughAward](http://twitter.com/search?q=%23TWICE_BreakthroughAward) | N/A |
-| 22 | [anselmi](http://twitter.com/search?q=anselmi) | N/A |
-| 23 | [con 6](http://twitter.com/search?q=con+6) | N/A |
-| 24 | [Sara](http://twitter.com/search?q=Sara) | N/A |
-| 25 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
-| 26 | [Faravelli](http://twitter.com/search?q=Faravelli) | N/A |
-| 27 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
-| 28 | [Gareca](http://twitter.com/search?q=Gareca) | N/A |
+| 14 | [Santiago](http://twitter.com/search?q=Santiago) | N/A |
+| 15 | [Almada](http://twitter.com/search?q=Almada) | N/A |
+| 16 | [Andino](http://twitter.com/search?q=Andino) | N/A |
+| 17 | [Luisa Espinoza](http://twitter.com/search?q=Luisa+Espinoza) | N/A |
+| 18 | [#BBWomenInMusic](http://twitter.com/search?q=%23BBWomenInMusic) | N/A |
+| 19 | [#TWICE_BreakthroughAward](http://twitter.com/search?q=%23TWICE_BreakthroughAward) | N/A |
+| 20 | [Gruber Zambrano](http://twitter.com/search?q=Gruber+Zambrano) | N/A |
+| 21 | [Sara](http://twitter.com/search?q=Sara) | N/A |
+| 22 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
+| 23 | [Con 6](http://twitter.com/search?q=Con+6) | N/A |
+| 24 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
+| 25 | [Faravelli](http://twitter.com/search?q=Faravelli) | N/A |
+| 26 | [Vidal](http://twitter.com/search?q=Vidal) | Vidal is a Spanish surname derived from the Latin name Vitalis, which means “life”. It is also a French surname derived from the Latin name Vidallus, which means “woodland”. |
+| 27 | [Sarita](http://twitter.com/search?q=Sarita) | N/A |
+| 28 | [Comisión](http://twitter.com/search?q=Comisi%c3%b3n) | N/A |
 | 29 | [Ecuavisa](http://twitter.com/search?q=Ecuavisa) | N/A |
-| 30 | [Sarita](http://twitter.com/search?q=Sarita) | N/A |
-| 31 | [Parrales](http://twitter.com/search?q=Parrales) | N/A |
-| 32 | [pellerano](http://twitter.com/search?q=pellerano) | N/A |
-| 33 | [Comisión](http://twitter.com/search?q=Comisi%c3%b3n) | N/A |
-| 34 | [Traición a la Patria](http://twitter.com/search?q=Traici%c3%b3n+a+la+Patria) | N/A |
-| 35 | [Jamil](http://twitter.com/search?q=Jamil) | N/A |
-| 36 | [Petro](http://twitter.com/search?q=Petro) | N/A |
-| 37 | [rayados](http://twitter.com/search?q=rayados) | N/A |
-| 38 | [orgullo ecuatoriano](http://twitter.com/search?q=orgullo+ecuatoriano) | N/A |
-| 39 | [David Luiz](http://twitter.com/search?q=David+Luiz) | David Luiz is a Brazilian professional footballer who plays for the English Premier League club Arsenal. He primarily plays as a centre-back, but can also be deployed as a defensive midfielder. The name "David Luiz" is derived from his given name, David, and his middle name, Luiz. |
-| 40 | [Missa](http://twitter.com/search?q=Missa) | N/A |
-| 41 | [marzo con m](http://twitter.com/search?q=marzo+con+m) | N/A |
-| 42 | [BIGHIT PROTECT RM](http://twitter.com/search?q=BIGHIT+PROTECT+RM) | N/A |
-| 43 | [HYBE PROTECT RM](http://twitter.com/search?q=HYBE+PROTECT+RM) | N/A |
-| 44 | [Atanasio Girardot](http://twitter.com/search?q=Atanasio+Girardot) | N/A |
-| 45 | [angie asang](http://twitter.com/search?q=angie+asang) | N/A |
-| 46 | [sonnia](http://twitter.com/search?q=sonnia) | N/A |
-| 47 | [ever hugo almeida](http://twitter.com/search?q=ever+hugo+almeida) | N/A |
-| 48 | [pedro zapata](http://twitter.com/search?q=pedro+zapata) | N/A |
+| 30 | [Parrales](http://twitter.com/search?q=Parrales) | N/A |
+| 31 | [Gareca](http://twitter.com/search?q=Gareca) | N/A |
+| 32 | [Traición a la Patria](http://twitter.com/search?q=Traici%c3%b3n+a+la+Patria) | N/A |
+| 33 | [Petro](http://twitter.com/search?q=Petro) | N/A |
+| 34 | [jamil](http://twitter.com/search?q=jamil) | N/A |
+| 35 | [Rayados](http://twitter.com/search?q=Rayados) | Rayados is the nickname of the Mexican soccer team Club de Fútbol Monterrey, which is based in Monterrey, Mexico. The name Rayados translates to "Striped Ones" in English, referring to the team's striped jerseys. |
+| 36 | [felicidades campeones](http://twitter.com/search?q=felicidades+campeones) | N/A |
+| 37 | [BIGHIT PROTECT RM](http://twitter.com/search?q=BIGHIT+PROTECT+RM) | N/A |
+| 38 | [Marzo con M](http://twitter.com/search?q=Marzo+con+M) | N/A |
+| 39 | [Missa](http://twitter.com/search?q=Missa) | N/A |
+| 40 | [orgullo ecuatoriano](http://twitter.com/search?q=orgullo+ecuatoriano) | N/A |
+| 41 | [David Luiz](http://twitter.com/search?q=David+Luiz) | David Luiz is a Brazilian professional footballer who plays for the English Premier League club Arsenal. He primarily plays as a centre-back, but can also be deployed as a defensive midfielder. The name "David Luiz" is derived from his given name, David, and his middle name, Luiz. |
+| 42 | [HYBE PROTECT RM](http://twitter.com/search?q=HYBE+PROTECT+RM) | N/A |
+| 43 | [sonnia](http://twitter.com/search?q=sonnia) | N/A |
+| 44 | [angie asang](http://twitter.com/search?q=angie+asang) | N/A |
+| 45 | [ever hugo almeida](http://twitter.com/search?q=ever+hugo+almeida) | N/A |
+| 46 | [Uribe](http://twitter.com/search?q=Uribe) | N/A |
+| 47 | [Pellerano](http://twitter.com/search?q=Pellerano) | N/A |
+| 48 | [De Arrascaeta](http://twitter.com/search?q=De+Arrascaeta) | N/A |
 | 49 | [Bolon](http://twitter.com/search?q=Bolon) | N/A |
-| 50 | [Corte Constitucional](http://twitter.com/search?q=Corte+Constitucional) | N/A |
+| 50 | [Atanasio Girardot](http://twitter.com/search?q=Atanasio+Girardot) | N/A |
 
 
 

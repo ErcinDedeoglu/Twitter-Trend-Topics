@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kaduna
 
-📆 Last Updated: `2023-03-02 11:17:22 UTC`
+📆 Last Updated: `2023-03-02 12:18:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Nigeria](</Nigeria>)
 | ------- | ------------ | ------------ |
 | 1 | [#KenyaVsNigeria](http://twitter.com/search?q=%23KenyaVsNigeria) | N/A |
 | 2 | [Yoruba](http://twitter.com/search?q=Yoruba) | N/A |
-| 3 | [#Natasharitualscandal](http://twitter.com/search?q=%23Natasharitualscandal) | N/A |
-| 4 | [#PRMCoin](http://twitter.com/search?q=%23PRMCoin) | N/A |
-| 5 | [Daddy](http://twitter.com/search?q=Daddy) | N/A |
-| 6 | [Lagosian](http://twitter.com/search?q=Lagosian) | N/A |
-| 7 | [#lockdownfiles](http://twitter.com/search?q=%23lockdownfiles) | N/A |
+| 3 | [Yoruba](http://twitter.com/search?q=Yoruba) | N/A |
+| 4 | [#SanwoIsBetter](http://twitter.com/search?q=%23SanwoIsBetter) | N/A |
+| 5 | [#Natasharitualscandal](http://twitter.com/search?q=%23Natasharitualscandal) | N/A |
+| 6 | [#prmcoin](http://twitter.com/search?q=%23prmcoin) | N/A |
+| 7 | [Daddy](http://twitter.com/search?q=Daddy) | N/A |
 | 8 | [#emergencyalert](http://twitter.com/search?q=%23emergencyalert) | N/A |
-| 9 | [Sanwoolu](http://twitter.com/search?q=Sanwoolu) | N/A |
+| 9 | [Lagosian](http://twitter.com/search?q=Lagosian) | N/A |
 | 10 | [Pamilerin](http://twitter.com/search?q=Pamilerin) | N/A |
-| 11 | [De Paul](http://twitter.com/search?q=De+Paul) | N/A |
-| 12 | [IPOB](http://twitter.com/search?q=IPOB) | N/A |
-| 13 | [Congratulations David](http://twitter.com/search?q=Congratulations+David) | N/A |
-| 14 | [Seyi](http://twitter.com/search?q=Seyi) | N/A |
-| 15 | [Chinedu](http://twitter.com/search?q=Chinedu) | N/A |
-| 16 | [Chrisland](http://twitter.com/search?q=Chrisland) | N/A |
-| 17 | [lekki toll](http://twitter.com/search?q=lekki+toll) | N/A |
-| 18 | [Shola](http://twitter.com/search?q=Shola) | N/A |
+| 11 | [Congratulations David](http://twitter.com/search?q=Congratulations+David) | N/A |
+| 12 | [De Paul](http://twitter.com/search?q=De+Paul) | N/A |
+| 13 | [Lekki Toll](http://twitter.com/search?q=Lekki+Toll) | N/A |
+| 14 | [IPOB](http://twitter.com/search?q=IPOB) | N/A |
+| 15 | [Shola](http://twitter.com/search?q=Shola) | N/A |
+| 16 | [Happy Birthday Sir](http://twitter.com/search?q=Happy+Birthday+Sir) | N/A |
+| 17 | [Chinedu](http://twitter.com/search?q=Chinedu) | N/A |
+| 18 | [Seyi Tinubu](http://twitter.com/search?q=Seyi+Tinubu) | N/A |
 | 19 | [Ajuri](http://twitter.com/search?q=Ajuri) | N/A |
-| 20 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
-| 21 | [Pooja](http://twitter.com/search?q=Pooja) | N/A |
-| 22 | [Happy Birthday Sir](http://twitter.com/search?q=Happy+Birthday+Sir) | N/A |
-| 23 | [Reconciliation](http://twitter.com/search?q=Reconciliation) | N/A |
-| 24 | [Chioma](http://twitter.com/search?q=Chioma) | N/A |
-| 25 | [Tribalism](http://twitter.com/search?q=Tribalism) | N/A |
-| 26 | [Precious](http://twitter.com/search?q=Precious) | N/A |
-| 27 | [JUBILEE IN MARCH](http://twitter.com/search?q=JUBILEE+IN+MARCH) | N/A |
-| 28 | [Ambode](http://twitter.com/search?q=Ambode) | N/A |
-| 29 | [Certificate](http://twitter.com/search?q=Certificate) | N/A |
-| 30 | [Afonja](http://twitter.com/search?q=Afonja) | N/A |
-| 31 | [Uba Sani](http://twitter.com/search?q=Uba+Sani) | N/A |
-| 32 | [Gbadebo](http://twitter.com/search?q=Gbadebo) | N/A |
-| 33 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
-| 34 | [Twitter NG](http://twitter.com/search?q=Twitter+NG) | N/A |
-| 35 | [Return](http://twitter.com/search?q=Return) | N/A |
-| 36 | [Nsukka](http://twitter.com/search?q=Nsukka) | N/A |
+| 20 | [Chioma](http://twitter.com/search?q=Chioma) | N/A |
+| 21 | [Tribalism](http://twitter.com/search?q=Tribalism) | N/A |
+| 22 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 23 | [Certificate](http://twitter.com/search?q=Certificate) | N/A |
+| 24 | [Pooja](http://twitter.com/search?q=Pooja) | N/A |
+| 25 | [Chrisland](http://twitter.com/search?q=Chrisland) | N/A |
+| 26 | [Reconciliation](http://twitter.com/search?q=Reconciliation) | N/A |
+| 27 | [Precious](http://twitter.com/search?q=Precious) | N/A |
+| 28 | [Uba Sani](http://twitter.com/search?q=Uba+Sani) | N/A |
+| 29 | [GRV for Governor](http://twitter.com/search?q=GRV+for+Governor) | N/A |
+| 30 | [Ambode](http://twitter.com/search?q=Ambode) | N/A |
+| 31 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
+| 32 | [Nsukka](http://twitter.com/search?q=Nsukka) | N/A |
+| 33 | [Return](http://twitter.com/search?q=Return) | N/A |
+| 34 | [Afonja](http://twitter.com/search?q=Afonja) | N/A |
+| 35 | [Gbadebo](http://twitter.com/search?q=Gbadebo) | N/A |
+| 36 | [VOTE KANIVA](http://twitter.com/search?q=VOTE+KANIVA) | N/A |
 | 37 | [LP and PDP](http://twitter.com/search?q=LP+and+PDP) | N/A |
-| 38 | [Zain](http://twitter.com/search?q=Zain) | N/A |
-| 39 | [Vote GRV](http://twitter.com/search?q=Vote+GRV) | N/A |
-| 40 | [Teslim](http://twitter.com/search?q=Teslim) | N/A |
-| 41 | [Jandor](http://twitter.com/search?q=Jandor) | N/A |
-| 42 | [Nairaland](http://twitter.com/search?q=Nairaland) | N/A |
-| 43 | [Tribe](http://twitter.com/search?q=Tribe) | N/A |
-| 44 | [INEC and APC](http://twitter.com/search?q=INEC+and+APC) | N/A |
-| 45 | [VOTE KANIVA](http://twitter.com/search?q=VOTE+KANIVA) | N/A |
-| 46 | [Alausa](http://twitter.com/search?q=Alausa) | N/A |
-| 47 | [Alpha](http://twitter.com/search?q=Alpha) | N/A |
-| 48 | [Our President](http://twitter.com/search?q=Our+President) | N/A |
-| 49 | [Rishi](http://twitter.com/search?q=Rishi) | N/A |
+| 38 | [Twitter NG](http://twitter.com/search?q=Twitter+NG) | N/A |
+| 39 | [Alausa](http://twitter.com/search?q=Alausa) | N/A |
+| 40 | [JUBILEE IN MARCH](http://twitter.com/search?q=JUBILEE+IN+MARCH) | N/A |
+| 41 | [Vote GRV](http://twitter.com/search?q=Vote+GRV) | N/A |
+| 42 | [Zain](http://twitter.com/search?q=Zain) | N/A |
+| 43 | [Nairaland](http://twitter.com/search?q=Nairaland) | N/A |
+| 44 | [Tribe](http://twitter.com/search?q=Tribe) | N/A |
+| 45 | [INEC and APC](http://twitter.com/search?q=INEC+and+APC) | N/A |
+| 46 | [Alpha](http://twitter.com/search?q=Alpha) | N/A |
+| 47 | [Bola](http://twitter.com/search?q=Bola) | N/A |
+| 48 | [Jide](http://twitter.com/search?q=Jide) | N/A |
+| 49 | [#lockdownfiles](http://twitter.com/search?q=%23lockdownfiles) | N/A |
 
 
 
