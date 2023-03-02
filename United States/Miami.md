@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Miami
 
-📆 Last Updated: `2023-03-02 05:16:45 UTC`
+📆 Last Updated: `2023-03-02 06:18:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 2 | [Gabe](http://twitter.com/search?q=Gabe) | N/A |
-| 3 | [Lauren](http://twitter.com/search?q=Lauren) | N/A |
+| 1 | [Petro](http://twitter.com/search?q=Petro) | N/A |
+| 2 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
+| 3 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
 | 4 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
-| 5 | [Paolo](http://twitter.com/search?q=Paolo) | N/A |
-| 6 | [76ers](http://twitter.com/search?q=76ers) | 76ers is the nickname of the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The team was originally founded in 1946 as the Syracuse Nationals and changed its name to the 76ers in 1963. The name "76ers" is a reference to the year 1776, when the Declaration of Independence was signed in Philadelphia. |
-| 7 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
-| 8 | [JCOLE](http://twitter.com/search?q=JCOLE) | N/A |
+| 5 | [Lauren](http://twitter.com/search?q=Lauren) | N/A |
+| 6 | [JCOLE](http://twitter.com/search?q=JCOLE) | N/A |
+| 7 | [JCOLE](http://twitter.com/search?q=JCOLE) | N/A |
+| 8 | [jihyo](http://twitter.com/search?q=jihyo) | Jihyo is a Korean given name, usually for females. It is composed of two characters, the first meaning "wisdom" and the second meaning "beauty". In English, it can be translated to mean "wise beauty". |
 | 9 | [#BBWomenInMusic](http://twitter.com/search?q=%23BBWomenInMusic) | N/A |
 | 10 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
-| 11 | [JHOPE](http://twitter.com/search?q=JHOPE) | N/A |
+| 11 | [#Survivor44](http://twitter.com/search?q=%23Survivor44) | N/A |
 | 12 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 13 | [#Survivor44](http://twitter.com/search?q=%23Survivor44) | N/A |
-| 14 | [jihyo](http://twitter.com/search?q=jihyo) | Jihyo is a Korean given name, usually for females. It is composed of two characters, the first meaning "wisdom" and the second meaning "beauty". In English, it can be translated to mean "wise beauty". |
+| 13 | [Billboard](http://twitter.com/search?q=Billboard) | N/A |
+| 14 | [#Crew6](http://twitter.com/search?q=%23Crew6) | N/A |
 | 15 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 16 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
-| 17 | [Billboard](http://twitter.com/search?q=Billboard) | N/A |
-| 18 | [#TheWineDownBET](http://twitter.com/search?q=%23TheWineDownBET) | N/A |
-| 19 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
-| 20 | [becky g](http://twitter.com/search?q=becky+g) | N/A |
-| 21 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 22 | [Jupiter and Venus](http://twitter.com/search?q=Jupiter+and+Venus) | N/A |
-| 23 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
-| 24 | [tzuyu](http://twitter.com/search?q=tzuyu) | Tzuyu is a Taiwanese singer and member of the K-pop girl group Twice. Her name is derived from the Taiwanese phrase "tzyu yu," which means "the most beautiful." |
-| 25 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
-| 26 | [Dratini](http://twitter.com/search?q=Dratini) | N/A |
-| 27 | [COLE WORLD](http://twitter.com/search?q=COLE+WORLD) | N/A |
-| 28 | [Vandy](http://twitter.com/search?q=Vandy) | Vandy is a nickname for Vanderbilt University, a private research university located in Nashville, Tennessee. The name is derived from the university's namesake, Cornelius Vanderbilt. |
-| 29 | [Donovan Mitchell](http://twitter.com/search?q=Donovan+Mitchell) | Donovan Mitchell is an American professional basketball player who currently plays for the Utah Jazz of the National Basketball Association (NBA). His nickname is "Spida" and he is known for his explosive athleticism and scoring ability. |
-| 30 | [Jalen Brunson](http://twitter.com/search?q=Jalen+Brunson) | Jalen Brunson is an American professional basketball player who currently plays for the Dallas Mavericks of the National Basketball Association (NBA). His name is a combination of his father's first name, John, and his mother's first name, Lenora. |
-| 31 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
-| 32 | [Danhausen](http://twitter.com/search?q=Danhausen) | N/A |
-| 33 | [Necas](http://twitter.com/search?q=Necas) | N/A |
-| 34 | [Hawaii](http://twitter.com/search?q=Hawaii) | N/A |
-| 35 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
-| 36 | [Mizzou](http://twitter.com/search?q=Mizzou) | Mizzou is the nickname for the University of Missouri. It is a combination of the words "Missouri" and "zou," which is a reference to the school's mascot, the Tiger. |
-| 37 | [Goomy](http://twitter.com/search?q=Goomy) | N/A |
-| 38 | [Wynter](http://twitter.com/search?q=Wynter) | N/A |
-| 39 | [Gible](http://twitter.com/search?q=Gible) | N/A |
-| 40 | [Granlund](http://twitter.com/search?q=Granlund) | N/A |
-| 41 | [Chaka](http://twitter.com/search?q=Chaka) | N/A |
-| 42 | [Broome](http://twitter.com/search?q=Broome) | N/A |
-| 43 | [Trapinch](http://twitter.com/search?q=Trapinch) | N/A |
-| 44 | [Noibat](http://twitter.com/search?q=Noibat) | N/A |
-| 45 | [Bruce Pearl](http://twitter.com/search?q=Bruce+Pearl) | N/A |
-| 46 | [Dreepy](http://twitter.com/search?q=Dreepy) | N/A |
-| 47 | [Meghan Trainor](http://twitter.com/search?q=Meghan+Trainor) | N/A |
-| 48 | [Schmid](http://twitter.com/search?q=Schmid) | N/A |
+| 16 | [becky g](http://twitter.com/search?q=becky+g) | N/A |
+| 17 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 18 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
+| 19 | [Jupiter and Venus](http://twitter.com/search?q=Jupiter+and+Venus) | N/A |
+| 20 | [Brandon Ingram](http://twitter.com/search?q=Brandon+Ingram) | Brandon Ingram is an American professional basketball player who currently plays for the New Orleans Pelicans of the National Basketball Association (NBA). He was selected second overall in the 2016 NBA draft by the Los Angeles Lakers. He is known for his scoring ability, long wingspan, and defensive versatility. |
+| 21 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
+| 22 | [Dratini](http://twitter.com/search?q=Dratini) | N/A |
+| 23 | [Blazers](http://twitter.com/search?q=Blazers) | Blazers are a type of jacket, typically with a single row of buttons and a notched lapel. They are usually made from wool or cotton and can be worn as part of a suit or as a separate item. Blazers are often associated with formal occasions, but they can also be worn casually. |
+| 24 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
+| 25 | [tzuyu](http://twitter.com/search?q=tzuyu) | Tzuyu is a Taiwanese singer and member of the K-pop girl group Twice. Her name is derived from the Taiwanese phrase "tzyu yu," which means "the most beautiful." |
+| 26 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
+| 27 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
+| 28 | [COLE WORLD](http://twitter.com/search?q=COLE+WORLD) | N/A |
+| 29 | [Goomy](http://twitter.com/search?q=Goomy) | N/A |
+| 30 | [Noibat](http://twitter.com/search?q=Noibat) | N/A |
+| 31 | [Gible](http://twitter.com/search?q=Gible) | N/A |
+| 32 | [Hawaii](http://twitter.com/search?q=Hawaii) | N/A |
+| 33 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
+| 34 | [Vandy](http://twitter.com/search?q=Vandy) | Vandy is a nickname for Vanderbilt University, a private research university located in Nashville, Tennessee. The name is derived from the university's namesake, Cornelius Vanderbilt. |
+| 35 | [Trapinch](http://twitter.com/search?q=Trapinch) | N/A |
+| 36 | [Jalen Brunson](http://twitter.com/search?q=Jalen+Brunson) | Jalen Brunson is an American professional basketball player who currently plays for the Dallas Mavericks of the National Basketball Association (NBA). His name is a combination of his father's first name, John, and his mother's first name, Lenora. |
+| 37 | [Necas](http://twitter.com/search?q=Necas) | N/A |
+| 38 | [Jack Eichel](http://twitter.com/search?q=Jack+Eichel) | N/A |
+| 39 | [Donovan Mitchell](http://twitter.com/search?q=Donovan+Mitchell) | Donovan Mitchell is an American professional basketball player who currently plays for the Utah Jazz of the National Basketball Association (NBA). His nickname is "Spida" and he is known for his explosive athleticism and scoring ability. |
+| 40 | [Dreepy](http://twitter.com/search?q=Dreepy) | N/A |
+| 41 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
+| 42 | [Doechii](http://twitter.com/search?q=Doechii) | N/A |
+| 43 | [Chaka](http://twitter.com/search?q=Chaka) | N/A |
+| 44 | [5 World of Warcraft](http://twitter.com/search?q=5+World+of+Warcraft) | N/A |
+| 45 | [Danhausen](http://twitter.com/search?q=Danhausen) | N/A |
+| 46 | [Chauncey](http://twitter.com/search?q=Chauncey) | N/A |
+| 47 | [Broome](http://twitter.com/search?q=Broome) | N/A |
+| 48 | [Hope World](http://twitter.com/search?q=Hope+World) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Argentina
 
-📆 Last Updated: `2023-03-02 05:16:49 UTC`
+📆 Last Updated: `2023-03-02 06:18:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Argentina
 | ------- | ------------ | ------------ |
 | 1 | [#SiempreBoca](http://twitter.com/search?q=%23SiempreBoca) | N/A |
 | 2 | [Lucila](http://twitter.com/search?q=Lucila) | Lucila is a Spanish female name derived from the Latin name Lucius, which means “light”. In English, Lucila can be translated to mean “bringer of light”. |
-| 3 | [Benedetto](http://twitter.com/search?q=Benedetto) | Benedetto is an Italian name meaning "blessed". It is derived from the Latin word "benedictus", which means "blessed". |
-| 4 | [ROMINA AL 9009](http://twitter.com/search?q=ROMINA+AL+9009) | N/A |
+| 3 | [Romina al 9009](http://twitter.com/search?q=Romina+al+9009) | N/A |
+| 4 | [Benedetto](http://twitter.com/search?q=Benedetto) | Benedetto is an Italian name meaning "blessed". It is derived from the Latin word "benedictus", which means "blessed". |
 | 5 | [Figal](http://twitter.com/search?q=Figal) | N/A |
 | 6 | [J COLE](http://twitter.com/search?q=J+COLE) | N/A |
 | 7 | [Patronato](http://twitter.com/search?q=Patronato) | Patronato is a Spanish term that refers to a system of patronage or protection. It is often used to describe the relationship between a patron and a client, in which the patron provides financial or other support to the client in exchange for loyalty and service. In English, it can be translated as "patronage" or "protection". |
-| 8 | [#GHArgentina](http://twitter.com/search?q=%23GHArgentina) | N/A |
-| 9 | [#GranHermamo](http://twitter.com/search?q=%23GranHermamo) | N/A |
-| 10 | [#GranHermano2022](http://twitter.com/search?q=%23GranHermano2022) | #GranHermano2022 is a hashtag used to refer to the upcoming season of the Spanish reality TV show Gran Hermano. In English, it translates to "Big Brother 2022". |
-| 11 | [BOCA CAMPEÓN](http://twitter.com/search?q=BOCA+CAMPE%c3%93N) | N/A |
-| 12 | [#GranHermanoArgentina2023](http://twitter.com/search?q=%23GranHermanoArgentina2023) | #GranHermanoArgentina2023 is a hashtag used to promote the upcoming season of the Argentine version of the reality TV show Big Brother. In English, it translates to "Big Brother Argentina 2023". |
-| 13 | [Tora](http://twitter.com/search?q=Tora) | Tora is a Japanese word meaning "tiger". It is often used as a nickname for someone who is strong and brave. |
-| 14 | [Ramirez](http://twitter.com/search?q=Ramirez) | Ramirez is a Spanish surname. It is derived from the Germanic personal name Raimer, which means "wise counselor". In English, it can be translated to mean "wise ruler". |
-| 15 | [Fabra](http://twitter.com/search?q=Fabra) | N/A |
-| 16 | [Si Marcos](http://twitter.com/search?q=Si+Marcos) | N/A |
-| 17 | [Villa](http://twitter.com/search?q=Villa) | Villa is a type of large, luxurious house or estate. It is usually located in a rural or semi-rural area and is often surrounded by gardens and grounds. The term comes from the Latin word villa, which means "country house." |
+| 8 | [#GranHermamo](http://twitter.com/search?q=%23GranHermamo) | N/A |
+| 9 | [#GranHermano2022](http://twitter.com/search?q=%23GranHermano2022) | #GranHermano2022 is a hashtag used to refer to the upcoming season of the Spanish reality TV show Gran Hermano. In English, it translates to "Big Brother 2022". |
+| 10 | [#GHArgentina](http://twitter.com/search?q=%23GHArgentina) | N/A |
+| 11 | [Tora](http://twitter.com/search?q=Tora) | Tora is a Japanese word meaning "tiger". It is often used as a nickname for someone who is strong and brave. |
+| 12 | [Ramirez](http://twitter.com/search?q=Ramirez) | Ramirez is a Spanish surname. It is derived from the Germanic personal name Raimer, which means "wise counselor". In English, it can be translated to mean "wise ruler". |
+| 13 | [BOCA CAMPEÓN](http://twitter.com/search?q=BOCA+CAMPE%c3%93N) | N/A |
+| 14 | [#GranHermanoArgentina2023](http://twitter.com/search?q=%23GranHermanoArgentina2023) | #GranHermanoArgentina2023 is a hashtag used to promote the upcoming season of the Argentine version of the reality TV show Big Brother. In English, it translates to "Big Brother Argentina 2023". |
+| 15 | [jihyo](http://twitter.com/search?q=jihyo) | Jihyo is a Korean given name, usually for females. It is composed of two characters, the first meaning "wisdom" and the second meaning "beauty". In English, it can be translated to mean "wise beauty". |
+| 16 | [fabra](http://twitter.com/search?q=fabra) | N/A |
+| 17 | [Si Marcos](http://twitter.com/search?q=Si+Marcos) | N/A |
 | 18 | [Salva a Julieta](http://twitter.com/search?q=Salva+a+Julieta) | N/A |
-| 19 | [NACHO A LA FINAL](http://twitter.com/search?q=NACHO+A+LA+FINAL) | N/A |
-| 20 | [Romina y Julieta](http://twitter.com/search?q=Romina+y+Julieta) | N/A |
-| 21 | [Roncaglia](http://twitter.com/search?q=Roncaglia) | Roncaglia is a type of Italian folk dance that originated in the region of Emilia-Romagna. It is a lively, fast-paced dance that involves couples dancing in a circle and performing intricate steps and turns. The name Roncaglia comes from the Italian word for "round," as the dance is traditionally performed in a circular formation. In English, Roncaglia means "round dance." |
-| 22 | [all of the girls](http://twitter.com/search?q=all+of+the+girls) | N/A |
-| 23 | [Vamos Boca](http://twitter.com/search?q=Vamos+Boca) | N/A |
-| 24 | [Advincula](http://twitter.com/search?q=Advincula) | Advincula is a Latin word meaning "to advance" or "to move forward". It is often used to refer to someone who is eager to take on new challenges and make progress. |
-| 25 | [Y Boca](http://twitter.com/search?q=Y+Boca) | N/A |
-| 26 | [Aguante Boca](http://twitter.com/search?q=Aguante+Boca) | N/A |
-| 27 | [Nacho y Camila](http://twitter.com/search?q=Nacho+y+Camila) | N/A |
+| 19 | [Villa](http://twitter.com/search?q=Villa) | Villa is a type of large, luxurious house or estate. It is usually located in a rural or semi-rural area and is often surrounded by gardens and grounds. The term comes from the Latin word villa, which means "country house." |
+| 20 | [all of the girls](http://twitter.com/search?q=all+of+the+girls) | N/A |
+| 21 | [NACHO A LA FINAL](http://twitter.com/search?q=NACHO+A+LA+FINAL) | N/A |
+| 22 | [Romina y Julieta](http://twitter.com/search?q=Romina+y+Julieta) | N/A |
+| 23 | [ON THE STREET](http://twitter.com/search?q=ON+THE+STREET) | N/A |
+| 24 | [Roncaglia](http://twitter.com/search?q=Roncaglia) | Roncaglia is a type of Italian folk dance that originated in the region of Emilia-Romagna. It is a lively, fast-paced dance that involves couples dancing in a circle and performing intricate steps and turns. The name Roncaglia comes from the Italian word for "round," as the dance is traditionally performed in a circular formation. In English, Roncaglia means "round dance." |
+| 25 | [EXPLICA TU TWITTER](http://twitter.com/search?q=EXPLICA+TU+TWITTER) | N/A |
+| 26 | [Vamos Boca](http://twitter.com/search?q=Vamos+Boca) | N/A |
+| 27 | [Aguante Boca](http://twitter.com/search?q=Aguante+Boca) | N/A |
 | 28 | [Gracias Boca](http://twitter.com/search?q=Gracias+Boca) | N/A |
-| 29 | [Boca Juniors](http://twitter.com/search?q=Boca+Juniors) | N/A |
-| 30 | [Bien Camila](http://twitter.com/search?q=Bien+Camila) | N/A |
-| 31 | [Valdez](http://twitter.com/search?q=Valdez) | N/A |
-| 32 | [Juariu](http://twitter.com/search?q=Juariu) | N/A |
-| 33 | [9 de Boca](http://twitter.com/search?q=9+de+Boca) | N/A |
-| 34 | [Divididos](http://twitter.com/search?q=Divididos) | N/A |
-| 35 | [Vignolo](http://twitter.com/search?q=Vignolo) | N/A |
-| 36 | [Xeneize](http://twitter.com/search?q=Xeneize) | N/A |
-| 37 | [Vamos Camila](http://twitter.com/search?q=Vamos+Camila) | N/A |
-| 38 | [Javi García](http://twitter.com/search?q=Javi+Garc%c3%ada) | Javi García is a Spanish name. It is a combination of the given name Javier and the surname García. In English, it would be translated as "Javier Garcia". |
+| 29 | [Y Boca](http://twitter.com/search?q=Y+Boca) | N/A |
+| 30 | [Advincula](http://twitter.com/search?q=Advincula) | Advincula is a Latin word meaning "to advance" or "to move forward". It is often used to refer to someone who is eager to take on new challenges and make progress. |
+| 31 | [Bien Camila](http://twitter.com/search?q=Bien+Camila) | N/A |
+| 32 | [Lauren](http://twitter.com/search?q=Lauren) | N/A |
+| 33 | [Boca Juniors](http://twitter.com/search?q=Boca+Juniors) | N/A |
+| 34 | [Juariu](http://twitter.com/search?q=Juariu) | N/A |
+| 35 | [Arjona](http://twitter.com/search?q=Arjona) | N/A |
+| 36 | [Javi García](http://twitter.com/search?q=Javi+Garc%c3%ada) | Javi García is a Spanish name. It is a combination of the given name Javier and the surname García. In English, it would be translated as "Javier Garcia". |
+| 37 | [Vignolo](http://twitter.com/search?q=Vignolo) | N/A |
+| 38 | [Xeneize](http://twitter.com/search?q=Xeneize) | N/A |
 | 39 | [Marcos Rojo](http://twitter.com/search?q=Marcos+Rojo) | N/A |
-| 40 | [Lauren](http://twitter.com/search?q=Lauren) | N/A |
+| 40 | [Divididos](http://twitter.com/search?q=Divididos) | N/A |
 | 41 | [Juan Román Riquelme](http://twitter.com/search?q=Juan+Rom%c3%a1n+Riquelme) | N/A |
-| 42 | [Oscar Romero](http://twitter.com/search?q=Oscar+Romero) | N/A |
+| 42 | [Cande](http://twitter.com/search?q=Cande) | N/A |
 | 43 | [Derek](http://twitter.com/search?q=Derek) | N/A |
-| 44 | [Romi y Juli](http://twitter.com/search?q=Romi+y+Juli) | N/A |
-| 45 | [CABJ](http://twitter.com/search?q=CABJ) | N/A |
-| 46 | [Arjona](http://twitter.com/search?q=Arjona) | N/A |
-| 47 | [Pipon](http://twitter.com/search?q=Pipon) | N/A |
-| 48 | [Fattori](http://twitter.com/search?q=Fattori) | N/A |
-| 49 | [Boquita](http://twitter.com/search?q=Boquita) | N/A |
-| 50 | [Chau Romina](http://twitter.com/search?q=Chau+Romina) | N/A |
+| 44 | [El 9 de Boca](http://twitter.com/search?q=El+9+de+Boca) | N/A |
+| 45 | [Oscar Romero](http://twitter.com/search?q=Oscar+Romero) | N/A |
+| 46 | [Valdez](http://twitter.com/search?q=Valdez) | N/A |
+| 47 | [Romi y Juli](http://twitter.com/search?q=Romi+y+Juli) | N/A |
+| 48 | [CABJ](http://twitter.com/search?q=CABJ) | N/A |
+| 49 | [Pipon](http://twitter.com/search?q=Pipon) | N/A |
+| 50 | [Alan Varela](http://twitter.com/search?q=Alan+Varela) | N/A |
 
 
 

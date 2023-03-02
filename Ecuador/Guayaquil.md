@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guayaquil
 
-📆 Last Updated: `2023-03-02 05:16:11 UTC`
+📆 Last Updated: `2023-03-02 06:17:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Ecuador](</Ecuador>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#MasterChefEcuador](http://twitter.com/search?q=%23MasterChefEcuador) | N/A |
-| 2 | [#recopasudamericana](http://twitter.com/search?q=%23recopasudamericana) | N/A |
-| 3 | [Alexandra](http://twitter.com/search?q=Alexandra) | N/A |
-| 4 | [Tere](http://twitter.com/search?q=Tere) | N/A |
-| 5 | [Santiago](http://twitter.com/search?q=Santiago) | N/A |
-| 6 | [Sara](http://twitter.com/search?q=Sara) | N/A |
-| 7 | [Independiente del Valle](http://twitter.com/search?q=Independiente+del+Valle) | N/A |
+| 2 | [Alexandra](http://twitter.com/search?q=Alexandra) | N/A |
+| 3 | [Tere](http://twitter.com/search?q=Tere) | N/A |
+| 4 | [#RecopaSudamericana](http://twitter.com/search?q=%23RecopaSudamericana) | N/A |
+| 5 | [Independiente del Valle](http://twitter.com/search?q=Independiente+del+Valle) | N/A |
+| 6 | [Santiago](http://twitter.com/search?q=Santiago) | N/A |
+| 7 | [Sara](http://twitter.com/search?q=Sara) | N/A |
 | 8 | [#AdiosLasso](http://twitter.com/search?q=%23AdiosLasso) | N/A |
-| 9 | [Jamil](http://twitter.com/search?q=Jamil) | N/A |
-| 10 | [Costa Rica](http://twitter.com/search?q=Costa+Rica) | N/A |
-| 11 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
-| 12 | [Maracaná](http://twitter.com/search?q=Maracan%c3%a1) | N/A |
-| 13 | [Henry](http://twitter.com/search?q=Henry) | N/A |
-| 14 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
-| 15 | [tina](http://twitter.com/search?q=tina) | N/A |
-| 16 | [Micolta](http://twitter.com/search?q=Micolta) | N/A |
-| 17 | [Sarita](http://twitter.com/search?q=Sarita) | N/A |
-| 18 | [#BBWomenInMusic](http://twitter.com/search?q=%23BBWomenInMusic) | N/A |
-| 19 | [Sonia](http://twitter.com/search?q=Sonia) | Sonia is a female given name of Latin origin, derived from the Greek word for "wisdom". It is a popular name in many countries, including India, Italy, France, Spain, and the United States. In English, it is usually pronounced "so-NEE-ah". |
-| 20 | [Almada](http://twitter.com/search?q=Almada) | N/A |
-| 21 | [Luisa Espinoza](http://twitter.com/search?q=Luisa+Espinoza) | N/A |
-| 22 | [Gabigol](http://twitter.com/search?q=Gabigol) | Gabigol is a nickname given to Brazilian footballer Gabriel Barbosa, who currently plays for Flamengo. The nickname is a combination of his first name, Gabriel, and the Portuguese word for goal, gol. In English, the nickname translates to "Gabriel Goal". |
-| 23 | [Andino](http://twitter.com/search?q=Andino) | N/A |
-| 24 | [Victoria](http://twitter.com/search?q=Victoria) | N/A |
-| 25 | [Hoyos](http://twitter.com/search?q=Hoyos) | Hoyos is a Spanish word meaning "holes". It can refer to physical holes in the ground or figuratively to a situation that is difficult to get out of. |
-| 26 | [Petro](http://twitter.com/search?q=Petro) | N/A |
-| 27 | [El Nacional](http://twitter.com/search?q=El+Nacional) | N/A |
-| 28 | [Vidal](http://twitter.com/search?q=Vidal) | Vidal is a Spanish surname derived from the Latin name Vitalis, which means “life”. It is also a French surname derived from the Latin name Vidallus, which means “woodland”. |
-| 29 | [#FueraLassoYa](http://twitter.com/search?q=%23FueraLassoYa) | N/A |
-| 30 | [Gruber Zambrano](http://twitter.com/search?q=Gruber+Zambrano) | N/A |
-| 31 | [Anselmi](http://twitter.com/search?q=Anselmi) | N/A |
-| 32 | [Traición a la Patria](http://twitter.com/search?q=Traici%c3%b3n+a+la+Patria) | N/A |
-| 33 | [Parrales](http://twitter.com/search?q=Parrales) | N/A |
-| 34 | [Kevin Rodríguez](http://twitter.com/search?q=Kevin+Rodr%c3%adguez) | N/A |
-| 35 | [Gareca](http://twitter.com/search?q=Gareca) | N/A |
-| 36 | [Con 6](http://twitter.com/search?q=Con+6) | N/A |
-| 37 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
-| 38 | [Faravelli](http://twitter.com/search?q=Faravelli) | N/A |
-| 39 | [Ecuavisa](http://twitter.com/search?q=Ecuavisa) | N/A |
-| 40 | [Comisión](http://twitter.com/search?q=Comisi%c3%b3n) | N/A |
-| 41 | [Raúl](http://twitter.com/search?q=Ra%c3%bal) | N/A |
-| 42 | [landazuri](http://twitter.com/search?q=landazuri) | N/A |
-| 43 | [Pellerano](http://twitter.com/search?q=Pellerano) | N/A |
-| 44 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 45 | [Ramírez](http://twitter.com/search?q=Ram%c3%adrez) | N/A |
-| 46 | [BIGHIT PROTECT RM](http://twitter.com/search?q=BIGHIT+PROTECT+RM) | N/A |
-| 47 | [Rayados](http://twitter.com/search?q=Rayados) | Rayados is the nickname of the Mexican soccer team Club de Fútbol Monterrey, which is based in Monterrey, Mexico. The name Rayados translates to "Striped Ones" in English, referring to the team's striped jerseys. |
-| 48 | [HYBE PROTECT RM](http://twitter.com/search?q=HYBE+PROTECT+RM) | N/A |
-| 49 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
-| 50 | [Missa](http://twitter.com/search?q=Missa) | N/A |
+| 9 | [Costa Rica](http://twitter.com/search?q=Costa+Rica) | N/A |
+| 10 | [Maracaná](http://twitter.com/search?q=Maracan%c3%a1) | N/A |
+| 11 | [tina](http://twitter.com/search?q=tina) | N/A |
+| 12 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
+| 13 | [Micolta](http://twitter.com/search?q=Micolta) | N/A |
+| 14 | [#TWICE_BreakthroughAward](http://twitter.com/search?q=%23TWICE_BreakthroughAward) | N/A |
+| 15 | [Almada](http://twitter.com/search?q=Almada) | N/A |
+| 16 | [Sarita](http://twitter.com/search?q=Sarita) | N/A |
+| 17 | [Luisa Espinoza](http://twitter.com/search?q=Luisa+Espinoza) | N/A |
+| 18 | [Gabigol](http://twitter.com/search?q=Gabigol) | Gabigol is a nickname given to Brazilian footballer Gabriel Barbosa, who currently plays for Flamengo. The nickname is a combination of his first name, Gabriel, and the Portuguese word for goal, gol. In English, the nickname translates to "Gabriel Goal". |
+| 19 | [Hoyos](http://twitter.com/search?q=Hoyos) | Hoyos is a Spanish word meaning "holes". It can refer to physical holes in the ground or figuratively to a situation that is difficult to get out of. |
+| 20 | [#BBWomenInMusic](http://twitter.com/search?q=%23BBWomenInMusic) | N/A |
+| 21 | [Andino](http://twitter.com/search?q=Andino) | N/A |
+| 22 | [Jamil](http://twitter.com/search?q=Jamil) | N/A |
+| 23 | [Victoria](http://twitter.com/search?q=Victoria) | N/A |
+| 24 | [Vidal](http://twitter.com/search?q=Vidal) | Vidal is a Spanish surname derived from the Latin name Vitalis, which means “life”. It is also a French surname derived from the Latin name Vidallus, which means “woodland”. |
+| 25 | [Gruber Zambrano](http://twitter.com/search?q=Gruber+Zambrano) | N/A |
+| 26 | [El Nacional](http://twitter.com/search?q=El+Nacional) | N/A |
+| 27 | [Petro](http://twitter.com/search?q=Petro) | N/A |
+| 28 | [Anselmi](http://twitter.com/search?q=Anselmi) | N/A |
+| 29 | [Sonnia](http://twitter.com/search?q=Sonnia) | N/A |
+| 30 | [Con 6](http://twitter.com/search?q=Con+6) | N/A |
+| 31 | [Traición a la Patria](http://twitter.com/search?q=Traici%c3%b3n+a+la+Patria) | N/A |
+| 32 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
+| 33 | [Faravelli](http://twitter.com/search?q=Faravelli) | N/A |
+| 34 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
+| 35 | [Comisión](http://twitter.com/search?q=Comisi%c3%b3n) | N/A |
+| 36 | [Ecuavisa](http://twitter.com/search?q=Ecuavisa) | N/A |
+| 37 | [Gareca](http://twitter.com/search?q=Gareca) | N/A |
+| 38 | [Parrales](http://twitter.com/search?q=Parrales) | N/A |
+| 39 | [Pellerano](http://twitter.com/search?q=Pellerano) | N/A |
+| 40 | [Rayados](http://twitter.com/search?q=Rayados) | Rayados is the nickname of the Mexican soccer team Club de Fútbol Monterrey, which is based in Monterrey, Mexico. The name Rayados translates to "Striped Ones" in English, referring to the team's striped jerseys. |
+| 41 | [BIGHIT PROTECT RM](http://twitter.com/search?q=BIGHIT+PROTECT+RM) | N/A |
+| 42 | [HYBE PROTECT RM](http://twitter.com/search?q=HYBE+PROTECT+RM) | N/A |
+| 43 | [Nayib](http://twitter.com/search?q=Nayib) | N/A |
+| 44 | [orgullo ecuatoriano](http://twitter.com/search?q=orgullo+ecuatoriano) | N/A |
+| 45 | [David Luiz](http://twitter.com/search?q=David+Luiz) | David Luiz is a Brazilian professional footballer who plays for the English Premier League club Arsenal. He primarily plays as a centre-back, but can also be deployed as a defensive midfielder. The name "David Luiz" is derived from his given name, David, and his middle name, Luiz. |
+| 46 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
+| 47 | [Missa](http://twitter.com/search?q=Missa) | N/A |
+| 48 | [Marzo con M](http://twitter.com/search?q=Marzo+con+M) | N/A |
+| 49 | [ON THE STREET IS COMING](http://twitter.com/search?q=ON+THE+STREET+IS+COMING) | N/A |
+| 50 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
 
 
 

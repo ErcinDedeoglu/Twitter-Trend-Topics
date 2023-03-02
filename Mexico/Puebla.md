@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Puebla
 
-📆 Last Updated: `2023-03-02 05:16:09 UTC`
+📆 Last Updated: `2023-03-02 06:17:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for [Mexico](</Mexico>)
 | 4 | [PARA NO VERTE MÁS](http://twitter.com/search?q=PARA+NO+VERTE+M%c3%81S) | N/A |
 | 5 | [J COLE](http://twitter.com/search?q=J+COLE) | N/A |
 | 6 | [#BBWomenInMusic](http://twitter.com/search?q=%23BBWomenInMusic) | N/A |
-| 7 | [#MedallaVaronil](http://twitter.com/search?q=%23MedallaVaronil) | N/A |
+| 7 | [#Temblor](http://twitter.com/search?q=%23Temblor) | N/A |
 | 8 | [Unión Hidalgo](http://twitter.com/search?q=Uni%c3%b3n+Hidalgo) | N/A |
-| 9 | [#Temblor](http://twitter.com/search?q=%23Temblor) | N/A |
+| 9 | [ON THE STREET IS COMING](http://twitter.com/search?q=ON+THE+STREET+IS+COMING) | N/A |
 | 10 | [#TWICE_BreakthroughAward](http://twitter.com/search?q=%23TWICE_BreakthroughAward) | N/A |
-| 11 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 11 | [#MedallaVaronil](http://twitter.com/search?q=%23MedallaVaronil) | N/A |
 | 12 | [jihyo](http://twitter.com/search?q=jihyo) | Jihyo is a Korean given name, usually for females. It is composed of two characters, the first meaning "wisdom" and the second meaning "beauty". In English, it can be translated to mean "wise beauty". |
-| 13 | [MEDALIUD STAR](http://twitter.com/search?q=MEDALIUD+STAR) | N/A |
-| 14 | [Alfredo Adame](http://twitter.com/search?q=Alfredo+Adame) | Alfredo Adame is a Mexican actor, comedian, and television host. He is best known for his roles in the television series El Chavo del Ocho and El Chapulín Colorado. In English, the name Alfredo Adame means "Protector of the People". |
+| 13 | [Oaxaca](http://twitter.com/search?q=Oaxaca) | N/A |
+| 14 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
 | 15 | [TWICE BILLBOARD AWARD](http://twitter.com/search?q=TWICE+BILLBOARD+AWARD) | N/A |
-| 16 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
-| 17 | [Villahermosa](http://twitter.com/search?q=Villahermosa) | N/A |
-| 18 | [Samuel García](http://twitter.com/search?q=Samuel+Garc%c3%ada) | N/A |
-| 19 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
-| 20 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 21 | [Gloria Trevi](http://twitter.com/search?q=Gloria+Trevi) | N/A |
-| 22 | [Logro](http://twitter.com/search?q=Logro) | N/A |
-| 23 | [all of the girls](http://twitter.com/search?q=all+of+the+girls) | N/A |
-| 24 | [Herrera](http://twitter.com/search?q=Herrera) | Herrera is a Spanish surname derived from the Latin word ferreus, meaning "iron". It is also a common given name in Spanish-speaking countries. In English, Herrera can be translated to mean "ironworker" or "blacksmith". |
-| 25 | [ON THE STREET](http://twitter.com/search?q=ON+THE+STREET) | N/A |
-| 26 | [nayeon](http://twitter.com/search?q=nayeon) | N/A |
-| 27 | [Marzo con M](http://twitter.com/search?q=Marzo+con+M) | N/A |
-| 28 | [5M BUILD](http://twitter.com/search?q=5M+BUILD) | N/A |
-| 29 | [Komanche](http://twitter.com/search?q=Komanche) | N/A |
-| 30 | [Thalia](http://twitter.com/search?q=Thalia) | N/A |
-| 31 | [Chiapas](http://twitter.com/search?q=Chiapas) | N/A |
-| 32 | [HOORAY FOR 2](http://twitter.com/search?q=HOORAY+FOR+2) | N/A |
-| 33 | [Venus y Júpiter](http://twitter.com/search?q=Venus+y+J%c3%bapiter) | N/A |
-| 34 | [Piña](http://twitter.com/search?q=Pi%c3%b1a) | N/A |
-| 35 | [El Santo](http://twitter.com/search?q=El+Santo) | N/A |
-| 36 | [Denunciado](http://twitter.com/search?q=Denunciado) | N/A |
-| 37 | [Gigafactory](http://twitter.com/search?q=Gigafactory) | N/A |
-| 38 | [Petro](http://twitter.com/search?q=Petro) | N/A |
-| 39 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
-| 40 | [Coca Cola](http://twitter.com/search?q=Coca+Cola) | N/A |
-| 41 | [Mentirosa](http://twitter.com/search?q=Mentirosa) | N/A |
-| 42 | [Leona](http://twitter.com/search?q=Leona) | N/A |
-| 43 | [tina](http://twitter.com/search?q=tina) | N/A |
-| 44 | [Spreen](http://twitter.com/search?q=Spreen) | Spreen is a German word that means to scurry or hurry. It is often used to describe the quick movements of small animals, such as mice or squirrels. |
-| 45 | [Grogu](http://twitter.com/search?q=Grogu) | N/A |
-| 46 | [Chayanne](http://twitter.com/search?q=Chayanne) | N/A |
-| 47 | [Santi](http://twitter.com/search?q=Santi) | Santi is a Sanskrit word meaning “peace” or “calmness”. It is often used as a greeting or salutation in Hindu and Buddhist cultures. |
-| 48 | [Renata](http://twitter.com/search?q=Renata) | Renata is a feminine given name of Latin origin, derived from the word "renatus" meaning "born again". It is also a variant of the name Renée. |
-| 49 | [Estados Unidos Mexicanos](http://twitter.com/search?q=Estados+Unidos+Mexicanos) | N/A |
-| 50 | [jennie](http://twitter.com/search?q=jennie) | N/A |
+| 16 | [Alfredo Adame](http://twitter.com/search?q=Alfredo+Adame) | Alfredo Adame is a Mexican actor, comedian, and television host. He is best known for his roles in the television series El Chavo del Ocho and El Chapulín Colorado. In English, the name Alfredo Adame means "Protector of the People". |
+| 17 | [Thalia](http://twitter.com/search?q=Thalia) | N/A |
+| 18 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
+| 19 | [MEDALIUD STAR](http://twitter.com/search?q=MEDALIUD+STAR) | N/A |
+| 20 | [María Sabina](http://twitter.com/search?q=Mar%c3%ada+Sabina) | N/A |
+| 21 | [Samuel](http://twitter.com/search?q=Samuel) | N/A |
+| 22 | [Villahermosa](http://twitter.com/search?q=Villahermosa) | N/A |
+| 23 | [Gloria Trevi](http://twitter.com/search?q=Gloria+Trevi) | N/A |
+| 24 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
+| 25 | [Salina Cruz](http://twitter.com/search?q=Salina+Cruz) | N/A |
+| 26 | [Herrera](http://twitter.com/search?q=Herrera) | Herrera is a Spanish surname derived from the Latin word ferreus, meaning "iron". It is also a common given name in Spanish-speaking countries. In English, Herrera can be translated to mean "ironworker" or "blacksmith". |
+| 27 | [Edmundo Jacobo](http://twitter.com/search?q=Edmundo+Jacobo) | N/A |
+| 28 | [Agua de Jamaica](http://twitter.com/search?q=Agua+de+Jamaica) | N/A |
+| 29 | [Logro](http://twitter.com/search?q=Logro) | N/A |
+| 30 | [all of the girls](http://twitter.com/search?q=all+of+the+girls) | N/A |
+| 31 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 32 | [Marzo con M](http://twitter.com/search?q=Marzo+con+M) | N/A |
+| 33 | [SOOBIN](http://twitter.com/search?q=SOOBIN) | SOOBIN is a Korean name, derived from the Chinese characters for "protection" and "beauty". It can be translated to mean "protected beauty" in English. |
+| 34 | [Denunciado](http://twitter.com/search?q=Denunciado) | N/A |
+| 35 | [Komanche](http://twitter.com/search?q=Komanche) | N/A |
+| 36 | [Santiago](http://twitter.com/search?q=Santiago) | N/A |
+| 37 | [nayeon](http://twitter.com/search?q=nayeon) | N/A |
+| 38 | [Chiapas](http://twitter.com/search?q=Chiapas) | N/A |
+| 39 | [Ministra Piña](http://twitter.com/search?q=Ministra+Pi%c3%b1a) | N/A |
+| 40 | [Gigafactory](http://twitter.com/search?q=Gigafactory) | N/A |
+| 41 | [Coca Cola](http://twitter.com/search?q=Coca+Cola) | N/A |
+| 42 | [Petro](http://twitter.com/search?q=Petro) | N/A |
+| 43 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
+| 44 | [Mentirosa](http://twitter.com/search?q=Mentirosa) | N/A |
+| 45 | [Ensenada](http://twitter.com/search?q=Ensenada) | N/A |
+| 46 | [tina](http://twitter.com/search?q=tina) | N/A |
+| 47 | [Chayanne](http://twitter.com/search?q=Chayanne) | N/A |
+| 48 | [Leona](http://twitter.com/search?q=Leona) | N/A |
+| 49 | [Grogu](http://twitter.com/search?q=Grogu) | N/A |
+| 50 | [Spreen](http://twitter.com/search?q=Spreen) | Spreen is a German word that means to scurry or hurry. It is often used to describe the quick movements of small animals, such as mice or squirrels. |
 
 
 

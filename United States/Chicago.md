@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chicago
 
-📆 Last Updated: `2023-03-02 05:16:42 UTC`
+📆 Last Updated: `2023-03-02 06:17:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Penn State](http://twitter.com/search?q=Penn+State) | Penn State is a public research university with 24 campuses across Pennsylvania. It is the largest university in the state and one of the largest universities in the United States. The school's motto is "Making Lives Better Through Education, Research, and Service." |
-| 2 | [#abbottelementary](http://twitter.com/search?q=%23abbottelementary) | N/A |
+| 2 | [Demar](http://twitter.com/search?q=Demar) | Demar is a shortened form of the name Demarcus, which is a male given name of Latin origin. It is derived from the Latin words "de" (meaning "of") and "Marcus" (meaning "warlike"). In English, Demar can be translated to mean "of warlike". |
 | 3 | [Pistons](http://twitter.com/search?q=Pistons) | Pistons are components of an engine that move up and down to create the power needed to drive a vehicle. They are usually made of metal and fit into the cylinder of an engine, where they move up and down in order to compress and expand the air-fuel mixture that powers the engine. |
-| 4 | [Demar](http://twitter.com/search?q=Demar) | Demar is a shortened form of the name Demarcus, which is a male given name of Latin origin. It is derived from the Latin words "de" (meaning "of") and "Marcus" (meaning "warlike"). In English, Demar can be translated to mean "of warlike". |
-| 5 | [Lavine](http://twitter.com/search?q=Lavine) | Lavine is a French word meaning "valley". |
+| 4 | [Lavine](http://twitter.com/search?q=Lavine) | Lavine is a French word meaning "valley". |
+| 5 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
 | 6 | [#SUGA_AgustD_TOUR](http://twitter.com/search?q=%23SUGA_AgustD_TOUR) | N/A |
 | 7 | [JCOLE](http://twitter.com/search?q=JCOLE) | N/A |
-| 8 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
-| 9 | [#BBWomenInMusic](http://twitter.com/search?q=%23BBWomenInMusic) | N/A |
-| 10 | [JHOPE](http://twitter.com/search?q=JHOPE) | N/A |
-| 11 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 12 | [jihyo](http://twitter.com/search?q=jihyo) | Jihyo is a Korean given name, usually for females. It is composed of two characters, the first meaning "wisdom" and the second meaning "beauty". In English, it can be translated to mean "wise beauty". |
-| 13 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 14 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
-| 15 | [Billboard](http://twitter.com/search?q=Billboard) | N/A |
-| 16 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
-| 17 | [becky g](http://twitter.com/search?q=becky+g) | N/A |
-| 18 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 8 | [JCOLE](http://twitter.com/search?q=JCOLE) | N/A |
+| 9 | [jihyo](http://twitter.com/search?q=jihyo) | Jihyo is a Korean given name, usually for females. It is composed of two characters, the first meaning "wisdom" and the second meaning "beauty". In English, it can be translated to mean "wise beauty". |
+| 10 | [#BBWomenInMusic](http://twitter.com/search?q=%23BBWomenInMusic) | N/A |
+| 11 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
+| 12 | [#Survivor44](http://twitter.com/search?q=%23Survivor44) | N/A |
+| 13 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 14 | [Billboard](http://twitter.com/search?q=Billboard) | N/A |
+| 15 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 16 | [becky g](http://twitter.com/search?q=becky+g) | N/A |
+| 17 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 18 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
 | 19 | [Jupiter and Venus](http://twitter.com/search?q=Jupiter+and+Venus) | N/A |
-| 20 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
-| 21 | [tzuyu](http://twitter.com/search?q=tzuyu) | Tzuyu is a Taiwanese singer and member of the K-pop girl group Twice. Her name is derived from the Taiwanese phrase "tzyu yu," which means "the most beautiful." |
-| 22 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
-| 23 | [Dratini](http://twitter.com/search?q=Dratini) | N/A |
-| 24 | [COLE WORLD](http://twitter.com/search?q=COLE+WORLD) | N/A |
-| 25 | [Vandy](http://twitter.com/search?q=Vandy) | Vandy is a nickname for Vanderbilt University, a private research university located in Nashville, Tennessee. The name is derived from the university's namesake, Cornelius Vanderbilt. |
-| 26 | [Donovan Mitchell](http://twitter.com/search?q=Donovan+Mitchell) | Donovan Mitchell is an American professional basketball player who currently plays for the Utah Jazz of the National Basketball Association (NBA). His nickname is "Spida" and he is known for his explosive athleticism and scoring ability. |
-| 27 | [Jalen Brunson](http://twitter.com/search?q=Jalen+Brunson) | Jalen Brunson is an American professional basketball player who currently plays for the Dallas Mavericks of the National Basketball Association (NBA). His name is a combination of his father's first name, John, and his mother's first name, Lenora. |
-| 28 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
-| 29 | [Danhausen](http://twitter.com/search?q=Danhausen) | N/A |
-| 30 | [Necas](http://twitter.com/search?q=Necas) | N/A |
-| 31 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 32 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
-| 33 | [Mizzou](http://twitter.com/search?q=Mizzou) | Mizzou is the nickname for the University of Missouri. It is a combination of the words "Missouri" and "zou," which is a reference to the school's mascot, the Tiger. |
-| 34 | [Goomy](http://twitter.com/search?q=Goomy) | N/A |
-| 35 | [Wynter](http://twitter.com/search?q=Wynter) | N/A |
-| 36 | [Gible](http://twitter.com/search?q=Gible) | N/A |
-| 37 | [Granlund](http://twitter.com/search?q=Granlund) | N/A |
-| 38 | [Chaka](http://twitter.com/search?q=Chaka) | N/A |
-| 39 | [Broome](http://twitter.com/search?q=Broome) | N/A |
-| 40 | [Trapinch](http://twitter.com/search?q=Trapinch) | N/A |
-| 41 | [Noibat](http://twitter.com/search?q=Noibat) | N/A |
-| 42 | [Bruce Pearl](http://twitter.com/search?q=Bruce+Pearl) | N/A |
-| 43 | [Dreepy](http://twitter.com/search?q=Dreepy) | N/A |
-| 44 | [Meghan Trainor](http://twitter.com/search?q=Meghan+Trainor) | N/A |
-| 45 | [Schmid](http://twitter.com/search?q=Schmid) | N/A |
-| 46 | [Jaden Ivey](http://twitter.com/search?q=Jaden+Ivey) | N/A |
-| 47 | [Jerome and Louie](http://twitter.com/search?q=Jerome+and+Louie) | N/A |
-| 48 | [Annunen](http://twitter.com/search?q=Annunen) | N/A |
-| 49 | [Mike Miles](http://twitter.com/search?q=Mike+Miles) | Mike Miles is a slang term used to describe someone who is extremely ambitious and driven. It is often used to describe someone who is determined to succeed in whatever they set out to do. |
-| 50 | [iKON](http://twitter.com/search?q=iKON) | N/A |
+| 20 | [Brandon Ingram](http://twitter.com/search?q=Brandon+Ingram) | Brandon Ingram is an American professional basketball player who currently plays for the New Orleans Pelicans of the National Basketball Association (NBA). He was selected second overall in the 2016 NBA draft by the Los Angeles Lakers. He is known for his scoring ability, long wingspan, and defensive versatility. |
+| 21 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
+| 22 | [Dratini](http://twitter.com/search?q=Dratini) | N/A |
+| 23 | [Blazers](http://twitter.com/search?q=Blazers) | Blazers are a type of jacket, typically with a single row of buttons and a notched lapel. They are usually made from wool or cotton and can be worn as part of a suit or as a separate item. Blazers are often associated with formal occasions, but they can also be worn casually. |
+| 24 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
+| 25 | [tzuyu](http://twitter.com/search?q=tzuyu) | Tzuyu is a Taiwanese singer and member of the K-pop girl group Twice. Her name is derived from the Taiwanese phrase "tzyu yu," which means "the most beautiful." |
+| 26 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
+| 27 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
+| 28 | [COLE WORLD](http://twitter.com/search?q=COLE+WORLD) | N/A |
+| 29 | [Goomy](http://twitter.com/search?q=Goomy) | N/A |
+| 30 | [Noibat](http://twitter.com/search?q=Noibat) | N/A |
+| 31 | [Gible](http://twitter.com/search?q=Gible) | N/A |
+| 32 | [Hawaii](http://twitter.com/search?q=Hawaii) | N/A |
+| 33 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
+| 34 | [Vandy](http://twitter.com/search?q=Vandy) | Vandy is a nickname for Vanderbilt University, a private research university located in Nashville, Tennessee. The name is derived from the university's namesake, Cornelius Vanderbilt. |
+| 35 | [Trapinch](http://twitter.com/search?q=Trapinch) | N/A |
+| 36 | [Jalen Brunson](http://twitter.com/search?q=Jalen+Brunson) | Jalen Brunson is an American professional basketball player who currently plays for the Dallas Mavericks of the National Basketball Association (NBA). His name is a combination of his father's first name, John, and his mother's first name, Lenora. |
+| 37 | [Necas](http://twitter.com/search?q=Necas) | N/A |
+| 38 | [Jack Eichel](http://twitter.com/search?q=Jack+Eichel) | N/A |
+| 39 | [Donovan Mitchell](http://twitter.com/search?q=Donovan+Mitchell) | Donovan Mitchell is an American professional basketball player who currently plays for the Utah Jazz of the National Basketball Association (NBA). His nickname is "Spida" and he is known for his explosive athleticism and scoring ability. |
+| 40 | [Dreepy](http://twitter.com/search?q=Dreepy) | N/A |
+| 41 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
+| 42 | [Doechii](http://twitter.com/search?q=Doechii) | N/A |
+| 43 | [Chauncey](http://twitter.com/search?q=Chauncey) | N/A |
+| 44 | [Chaka](http://twitter.com/search?q=Chaka) | N/A |
+| 45 | [5 World of Warcraft](http://twitter.com/search?q=5+World+of+Warcraft) | N/A |
+| 46 | [Danhausen](http://twitter.com/search?q=Danhausen) | N/A |
+| 47 | [Broome](http://twitter.com/search?q=Broome) | N/A |
+| 48 | [Hope World](http://twitter.com/search?q=Hope+World) | N/A |
+| 49 | [Dyson](http://twitter.com/search?q=Dyson) | N/A |
+| 50 | [Annunen](http://twitter.com/search?q=Annunen) | N/A |
 
 
 

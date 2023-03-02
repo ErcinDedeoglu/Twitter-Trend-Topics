@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dusseldorf
 
-📆 Last Updated: `2023-03-02 05:16:17 UTC`
+📆 Last Updated: `2023-03-02 06:17:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#KlamrothLuegt](http://twitter.com/search?q=%23KlamrothLuegt) | N/A |
-| 2 | [#bachelor](http://twitter.com/search?q=%23bachelor) | N/A |
-| 3 | [#aktenzeichenxy](http://twitter.com/search?q=%23aktenzeichenxy) | N/A |
-| 4 | [5M BUILD](http://twitter.com/search?q=5M+BUILD) | N/A |
-| 5 | [#Giffey](http://twitter.com/search?q=%23Giffey) | N/A |
-| 6 | [HOORAY FOR 2](http://twitter.com/search?q=HOORAY+FOR+2) | N/A |
+| 1 | [#bachelor](http://twitter.com/search?q=%23bachelor) | N/A |
+| 2 | [#KlamrothLügt](http://twitter.com/search?q=%23KlamrothL%c3%bcgt) | N/A |
+| 3 | [Schönen Donnerstag](http://twitter.com/search?q=Sch%c3%b6nen+Donnerstag) | N/A |
+| 4 | [J.COLE](http://twitter.com/search?q=J.COLE) | N/A |
+| 5 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
+| 6 | [#Giffey](http://twitter.com/search?q=%23Giffey) | N/A |
 | 7 | [Koalition](http://twitter.com/search?q=Koalition) | N/A |
-| 8 | [Heizungen](http://twitter.com/search?q=Heizungen) | N/A |
-| 9 | [Außenpolitik](http://twitter.com/search?q=Au%c3%9fenpolitik) | N/A |
-| 10 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
-| 11 | [Vergewaltigungen](http://twitter.com/search?q=Vergewaltigungen) | N/A |
-| 12 | [Wärmepumpe](http://twitter.com/search?q=W%c3%a4rmepumpe) | N/A |
-| 13 | [wochenteiler](http://twitter.com/search?q=wochenteiler) | N/A |
-| 14 | [Kriegsverbrechen](http://twitter.com/search?q=Kriegsverbrechen) | N/A |
-| 15 | [Verbote](http://twitter.com/search?q=Verbote) | N/A |
-| 16 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
+| 8 | [Außenpolitik](http://twitter.com/search?q=Au%c3%9fenpolitik) | N/A |
+| 9 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
+| 10 | [Heizungen](http://twitter.com/search?q=Heizungen) | N/A |
+| 11 | [JHOPE](http://twitter.com/search?q=JHOPE) | N/A |
+| 12 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
+| 13 | [Vergewaltigungen](http://twitter.com/search?q=Vergewaltigungen) | N/A |
+| 14 | [HOBI](http://twitter.com/search?q=HOBI) | N/A |
+| 15 | [wochenteiler](http://twitter.com/search?q=wochenteiler) | N/A |
+| 16 | [Wärmepumpe](http://twitter.com/search?q=W%c3%a4rmepumpe) | N/A |
 | 17 | [Jahre Berufserfahrung](http://twitter.com/search?q=Jahre+Berufserfahrung) | N/A |
-| 18 | [Maske](http://twitter.com/search?q=Maske) | N/A |
-| 19 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
-| 20 | [Moderator](http://twitter.com/search?q=Moderator) | N/A |
-| 21 | [Guten Morgen Willi](http://twitter.com/search?q=Guten+Morgen+Willi) | N/A |
-| 22 | [Berliner SPD](http://twitter.com/search?q=Berliner+SPD) | N/A |
-| 23 | [Strom](http://twitter.com/search?q=Strom) | N/A |
-| 24 | [uhren](http://twitter.com/search?q=uhren) | N/A |
-| 25 | [pika](http://twitter.com/search?q=pika) | N/A |
-| 26 | [Bundesrat](http://twitter.com/search?q=Bundesrat) | N/A |
-| 27 | [Yfood](http://twitter.com/search?q=Yfood) | N/A |
-| 28 | [Nestle](http://twitter.com/search?q=Nestle) | N/A |
-| 29 | [frühlingsanfang](http://twitter.com/search?q=fr%c3%bchlingsanfang) | N/A |
-| 30 | [Jusos](http://twitter.com/search?q=Jusos) | N/A |
-| 31 | [Zellhaufen](http://twitter.com/search?q=Zellhaufen) | N/A |
-| 32 | [Frau Deutschlands](http://twitter.com/search?q=Frau+Deutschlands) | N/A |
-| 33 | [Feiertage](http://twitter.com/search?q=Feiertage) | Feiertage is a German word meaning "holidays" or "celebrations". It is used to refer to public holidays, religious holidays, and other special occasions. |
-| 34 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
-| 35 | [schönen mittwoch](http://twitter.com/search?q=sch%c3%b6nen+mittwoch) | N/A |
-| 36 | [schwarz-rot](http://twitter.com/search?q=schwarz-rot) | N/A |
-| 37 | [Iggy Pop](http://twitter.com/search?q=Iggy+Pop) | N/A |
-| 38 | [GIVE US WN BLOOPERS](http://twitter.com/search?q=GIVE+US+WN+BLOOPERS) | N/A |
-| 39 | [sam levinson](http://twitter.com/search?q=sam+levinson) | N/A |
-| 40 | [Faktencheck](http://twitter.com/search?q=Faktencheck) | N/A |
-| 41 | [DBA OneMILLIONSTREAMS](http://twitter.com/search?q=DBA+OneMILLIONSTREAMS) | N/A |
-| 42 | [Heizkörper](http://twitter.com/search?q=Heizk%c3%b6rper) | N/A |
-| 43 | [Aouar](http://twitter.com/search?q=Aouar) | N/A |
-| 44 | [Kraftstoffe](http://twitter.com/search?q=Kraftstoffe) | N/A |
-| 45 | [März 2023](http://twitter.com/search?q=M%c3%a4rz+2023) | N/A |
-| 46 | [Bundeswehr](http://twitter.com/search?q=Bundeswehr) | N/A |
-| 47 | [Niedrigwasser](http://twitter.com/search?q=Niedrigwasser) | N/A |
-| 48 | [Leitlinien](http://twitter.com/search?q=Leitlinien) | N/A |
-| 49 | [Wasserstoff](http://twitter.com/search?q=Wasserstoff) | N/A |
+| 18 | [Verbote](http://twitter.com/search?q=Verbote) | N/A |
+| 19 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
+| 20 | [Kriegsverbrechen](http://twitter.com/search?q=Kriegsverbrechen) | N/A |
+| 21 | [Maske](http://twitter.com/search?q=Maske) | N/A |
+| 22 | [5M BUILD](http://twitter.com/search?q=5M+BUILD) | N/A |
+| 23 | [Moderator](http://twitter.com/search?q=Moderator) | N/A |
+| 24 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
+| 25 | [Guten Morgen Rainer](http://twitter.com/search?q=Guten+Morgen+Rainer) | N/A |
+| 26 | [Guten Morgen Willi](http://twitter.com/search?q=Guten+Morgen+Willi) | N/A |
+| 27 | [Berliner SPD](http://twitter.com/search?q=Berliner+SPD) | N/A |
+| 28 | [Strom](http://twitter.com/search?q=Strom) | N/A |
+| 29 | [Nuhr](http://twitter.com/search?q=Nuhr) | N/A |
+| 30 | [pika](http://twitter.com/search?q=pika) | N/A |
+| 31 | [Seenotrettung](http://twitter.com/search?q=Seenotrettung) | N/A |
+| 32 | [Yfood](http://twitter.com/search?q=Yfood) | N/A |
+| 33 | [Bundesrat](http://twitter.com/search?q=Bundesrat) | N/A |
+| 34 | [GuMo](http://twitter.com/search?q=GuMo) | N/A |
+| 35 | [frühlingsanfang](http://twitter.com/search?q=fr%c3%bchlingsanfang) | N/A |
+| 36 | [Moin Tom](http://twitter.com/search?q=Moin+Tom) | N/A |
+| 37 | [Moin Tom](http://twitter.com/search?q=Moin+Tom) | N/A |
+| 38 | [Frau Deutschlands](http://twitter.com/search?q=Frau+Deutschlands) | N/A |
+| 39 | [Nestle](http://twitter.com/search?q=Nestle) | N/A |
+| 40 | [Feiertag](http://twitter.com/search?q=Feiertag) | Feiertag is a German word meaning "holiday" or "celebration day". It is used to refer to any day that is set aside for special observance, such as a national holiday, religious holiday, or other special occasion. |
+| 41 | [Zellhaufen](http://twitter.com/search?q=Zellhaufen) | N/A |
+| 42 | [Habt den Tag](http://twitter.com/search?q=Habt+den+Tag) | N/A |
+| 43 | [Iggy Pop](http://twitter.com/search?q=Iggy+Pop) | N/A |
+| 44 | [Uhren](http://twitter.com/search?q=Uhren) | N/A |
+| 45 | [schönen mittwoch](http://twitter.com/search?q=sch%c3%b6nen+mittwoch) | N/A |
+| 46 | [Tage Urlaub](http://twitter.com/search?q=Tage+Urlaub) | N/A |
+| 47 | [HOORAY FOR 2](http://twitter.com/search?q=HOORAY+FOR+2) | N/A |
+| 48 | [Jusos](http://twitter.com/search?q=Jusos) | N/A |
+| 49 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
 
 
 
