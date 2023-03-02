@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hyderabad
 
-📆 Last Updated: `2023-03-02 06:17:53 UTC`
+📆 Last Updated: `2023-03-02 07:16:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Thalaivar170](http://twitter.com/search?q=%23Thalaivar170) | N/A |
-| 2 | [Umesh Yadav](http://twitter.com/search?q=Umesh+Yadav) | N/A |
-| 3 | [#electionresults2023](http://twitter.com/search?q=%23electionresults2023) | N/A |
-| 4 | [J COLE](http://twitter.com/search?q=J+COLE) | N/A |
-| 5 | [#HBDHanumanBeniwal](http://twitter.com/search?q=%23HBDHanumanBeniwal) | N/A |
-| 6 | [#बोधदिवस_पर_विशालभंडारा](http://twitter.com/search?q=%23%e0%a4%ac%e0%a5%8b%e0%a4%a7%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a4%b8_%e0%a4%aa%e0%a4%b0_%e0%a4%b5%e0%a4%bf%e0%a4%b6%e0%a4%be%e0%a4%b2%e0%a4%ad%e0%a4%82%e0%a4%a1%e0%a4%be%e0%a4%b0%e0%a4%be) | N/A |
-| 7 | [#SarojiniNaidu](http://twitter.com/search?q=%23SarojiniNaidu) | N/A |
-| 8 | [भारत कोकिला](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4+%e0%a4%95%e0%a5%8b%e0%a4%95%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
-| 9 | [2 Days Left For Bodh Diwas](http://twitter.com/search?q=2+Days+Left+For+Bodh+Diwas) | N/A |
-| 10 | [सरोजिनी नायडू](http://twitter.com/search?q=%e0%a4%b8%e0%a4%b0%e0%a5%8b%e0%a4%9c%e0%a4%bf%e0%a4%a8%e0%a5%80+%e0%a4%a8%e0%a4%be%e0%a4%af%e0%a4%a1%e0%a5%82) | N/A |
-| 11 | [SEBI](http://twitter.com/search?q=SEBI) | N/A |
-| 12 | [प्रथम महिला](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a5%e0%a4%ae+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
-| 13 | [JHOPE](http://twitter.com/search?q=JHOPE) | N/A |
-| 14 | [Fair Proceeding](http://twitter.com/search?q=Fair+Proceeding) | N/A |
-| 15 | [श्री हनुमान बेनीवाल](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b9%e0%a4%a8%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%a8+%e0%a4%ac%e0%a5%87%e0%a4%a8%e0%a5%80%e0%a4%b5%e0%a4%be%e0%a4%b2) | N/A |
-| 16 | [श्री हरि](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b9%e0%a4%b0%e0%a4%bf) | N/A |
-| 17 | [Handscomb](http://twitter.com/search?q=Handscomb) | N/A |
-| 18 | [महान स्वतंत्रता सेनानी](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%a4%e0%a4%be+%e0%a4%b8%e0%a5%87%e0%a4%a8%e0%a4%be%e0%a4%a8%e0%a5%80) | N/A |
-| 19 | [Committee](http://twitter.com/search?q=Committee) | N/A |
-| 20 | [राष्ट्रीय लोकतांत्रिक पार्टी](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%b2%e0%a5%8b%e0%a4%95%e0%a4%a4%e0%a4%be%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%bf%e0%a4%95+%e0%a4%aa%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9f%e0%a5%80) | N/A |
-| 21 | [Kasba](http://twitter.com/search?q=Kasba) | N/A |
-| 22 | [Nightingale of India](http://twitter.com/search?q=Nightingale+of+India) | N/A |
-| 23 | [Ashwin](http://twitter.com/search?q=Ashwin) | Ashwin is a Hindu name derived from Sanskrit, meaning "lord of the horse". It is often used as a given name for boys in India. |
-| 24 | [G20 Foreign Ministers](http://twitter.com/search?q=G20+Foreign+Ministers) | N/A |
-| 25 | [नमो नारायण](http://twitter.com/search?q=%e0%a4%a8%e0%a4%ae%e0%a5%8b+%e0%a4%a8%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%af%e0%a4%a3) | N/A |
-| 26 | [नारी शक्ति](http://twitter.com/search?q=%e0%a4%a8%e0%a4%be%e0%a4%b0%e0%a5%80+%e0%a4%b6%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf) | N/A |
-| 27 | [Sant Shri Asharamji Bapu](http://twitter.com/search?q=Sant+Shri+Asharamji+Bapu) | N/A |
-| 28 | [Judges](http://twitter.com/search?q=Judges) | N/A |
-| 29 | [Saint Gurmeet Ram Rahim Ji](http://twitter.com/search?q=Saint+Gurmeet+Ram+Rahim+Ji) | Saint Gurmeet Ram Rahim Ji is a spiritual leader and humanitarian from India. He is the founder of the spiritual organization Dera Sacha Sauda, which promotes social welfare and religious harmony. The name "Gurmeet Ram Rahim Ji" translates to "The Enlightened One, the Compassionate Lord". |
-| 30 | [Cambridge](http://twitter.com/search?q=Cambridge) | N/A |
-| 31 | [Siraj](http://twitter.com/search?q=Siraj) | Siraj is an Arabic name meaning "lamp" or "light". It is also used as a surname. |
-| 32 | [पूर्व प्रदेश](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6) | N/A |
-| 33 | [यूट्यूब चैनल](http://twitter.com/search?q=%e0%a4%af%e0%a5%82%e0%a4%9f%e0%a5%8d%e0%a4%af%e0%a5%82%e0%a4%ac+%e0%a4%9a%e0%a5%88%e0%a4%a8%e0%a4%b2) | N/A |
-| 34 | [कबीर सागर](http://twitter.com/search?q=%e0%a4%95%e0%a4%ac%e0%a5%80%e0%a4%b0+%e0%a4%b8%e0%a4%be%e0%a4%97%e0%a4%b0) | N/A |
-| 35 | [कबीर साहेब](http://twitter.com/search?q=%e0%a4%95%e0%a4%ac%e0%a5%80%e0%a4%b0+%e0%a4%b8%e0%a4%be%e0%a4%b9%e0%a5%87%e0%a4%ac) | कबीर साहेब is a phrase used to refer to the poet Kabir, who was a 15th-century Indian mystic poet and saint. The phrase translates to "Kabir, the honorable one" in English. |
-| 36 | [कबीर वाणी](http://twitter.com/search?q=%e0%a4%95%e0%a4%ac%e0%a5%80%e0%a4%b0+%e0%a4%b5%e0%a4%be%e0%a4%a3%e0%a5%80) | N/A |
-| 37 | [Starc](http://twitter.com/search?q=Starc) | N/A |
-| 38 | [Bill Gates](http://twitter.com/search?q=Bill+Gates) | N/A |
+| 1 | [#electionresults2023](http://twitter.com/search?q=%23electionresults2023) | N/A |
+| 2 | [#Thalaivar170](http://twitter.com/search?q=%23Thalaivar170) | N/A |
+| 3 | [#BilliBilliSong](http://twitter.com/search?q=%23BilliBilliSong) | N/A |
+| 4 | [#UmeshYadav](http://twitter.com/search?q=%23UmeshYadav) | N/A |
+| 5 | [#ErodeEastByPolls](http://twitter.com/search?q=%23ErodeEastByPolls) | N/A |
+| 6 | [J COLE](http://twitter.com/search?q=J+COLE) | N/A |
+| 7 | [भारत कोकिला](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4+%e0%a4%95%e0%a5%8b%e0%a4%95%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
+| 8 | [SEBI](http://twitter.com/search?q=SEBI) | N/A |
+| 9 | [सरोजिनी नायडू](http://twitter.com/search?q=%e0%a4%b8%e0%a4%b0%e0%a5%8b%e0%a4%9c%e0%a4%bf%e0%a4%a8%e0%a5%80+%e0%a4%a8%e0%a4%be%e0%a4%af%e0%a4%a1%e0%a5%82) | N/A |
+| 10 | [प्रथम महिला](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a5%e0%a4%ae+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
+| 11 | [2 Days Left For Bodh Diwas](http://twitter.com/search?q=2+Days+Left+For+Bodh+Diwas) | N/A |
+| 12 | [JHOPE](http://twitter.com/search?q=JHOPE) | N/A |
+| 13 | [Kasba](http://twitter.com/search?q=Kasba) | N/A |
+| 14 | [Judges](http://twitter.com/search?q=Judges) | N/A |
+| 15 | [NJAC](http://twitter.com/search?q=NJAC) | N/A |
+| 16 | [Collegium](http://twitter.com/search?q=Collegium) | N/A |
+| 17 | [Chief Justice of India](http://twitter.com/search?q=Chief+Justice+of+India) | N/A |
+| 18 | [Ravindra Dhangekar](http://twitter.com/search?q=Ravindra+Dhangekar) | N/A |
+| 19 | [Judiciary](http://twitter.com/search?q=Judiciary) | N/A |
+| 20 | [श्री हनुमान बेनीवाल](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b9%e0%a4%a8%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%a8+%e0%a4%ac%e0%a5%87%e0%a4%a8%e0%a5%80%e0%a4%b5%e0%a4%be%e0%a4%b2) | N/A |
+| 21 | [Judicial](http://twitter.com/search?q=Judicial) | N/A |
+| 22 | [श्री हरि](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b9%e0%a4%b0%e0%a4%bf) | N/A |
+| 23 | [Committee](http://twitter.com/search?q=Committee) | N/A |
+| 24 | [Fair Proceeding](http://twitter.com/search?q=Fair+Proceeding) | N/A |
+| 25 | [Handscomb](http://twitter.com/search?q=Handscomb) | N/A |
+| 26 | [Women Demand](http://twitter.com/search?q=Women+Demand) | N/A |
+| 27 | [राष्ट्रीय लोकतांत्रिक पार्टी](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%b2%e0%a5%8b%e0%a4%95%e0%a4%a4%e0%a4%be%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%bf%e0%a4%95+%e0%a4%aa%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9f%e0%a5%80) | N/A |
+| 28 | [TIPRA](http://twitter.com/search?q=TIPRA) | N/A |
+| 29 | [महान स्वतंत्रता सेनानी](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%a4%e0%a4%be+%e0%a4%b8%e0%a5%87%e0%a4%a8%e0%a4%be%e0%a4%a8%e0%a5%80) | N/A |
+| 30 | [Nightingale of India](http://twitter.com/search?q=Nightingale+of+India) | N/A |
+| 31 | [बड़ी पार्टी](http://twitter.com/search?q=%e0%a4%ac%e0%a4%a1%e0%a4%bc%e0%a5%80+%e0%a4%aa%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9f%e0%a5%80) | N/A |
+| 32 | [Chartbuster](http://twitter.com/search?q=Chartbuster) | N/A |
+| 33 | [नमो नारायण](http://twitter.com/search?q=%e0%a4%a8%e0%a4%ae%e0%a5%8b+%e0%a4%a8%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%af%e0%a4%a3) | N/A |
+| 34 | [Gill](http://twitter.com/search?q=Gill) | Gill is a unit of measurement used to measure the volume of a liquid. It is equal to 1/4 of a pint or 5 fluid ounces. |
+| 35 | [G20 Foreign Ministers](http://twitter.com/search?q=G20+Foreign+Ministers) | N/A |
+| 36 | [#SarojiniNaidu](http://twitter.com/search?q=%23SarojiniNaidu) | N/A |
+| 37 | [#ElectionCommission](http://twitter.com/search?q=%23ElectionCommission) | N/A |
+| 38 | [#HBDHanumanBeniwal](http://twitter.com/search?q=%23HBDHanumanBeniwal) | N/A |
 | 39 | [#Tripura](http://twitter.com/search?q=%23Tripura) | N/A |
-| 40 | [#G20SummitHaryana](http://twitter.com/search?q=%23G20SummitHaryana) | N/A |
-| 41 | [#ErodeEastByPolls](http://twitter.com/search?q=%23ErodeEastByPolls) | N/A |
+| 40 | [#बोधदिवस_पर_विशालभंडारा](http://twitter.com/search?q=%23%e0%a4%ac%e0%a5%8b%e0%a4%a7%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a4%b8_%e0%a4%aa%e0%a4%b0_%e0%a4%b5%e0%a4%bf%e0%a4%b6%e0%a4%be%e0%a4%b2%e0%a4%ad%e0%a4%82%e0%a4%a1%e0%a4%be%e0%a4%b0%e0%a4%be) | N/A |
+| 41 | [#SupremeCourt](http://twitter.com/search?q=%23SupremeCourt) | N/A |
 | 42 | [#NorthEastElections](http://twitter.com/search?q=%23NorthEastElections) | N/A |
-| 43 | [#ElectionCommission](http://twitter.com/search?q=%23ElectionCommission) | N/A |
-| 44 | [#SSMB28](http://twitter.com/search?q=%23SSMB28) | N/A |
+| 43 | [#railway_level1_waiting_do](http://twitter.com/search?q=%23railway_level1_waiting_do) | N/A |
+| 44 | [#HindenburgReport](http://twitter.com/search?q=%23HindenburgReport) | N/A |
 | 45 | [#SaveForts_From_Encroachment](http://twitter.com/search?q=%23SaveForts_From_Encroachment) | N/A |
-| 46 | [#railway_level1_waiting_do](http://twitter.com/search?q=%23railway_level1_waiting_do) | N/A |
-| 47 | [#KidsParentsSession](http://twitter.com/search?q=%23KidsParentsSession) | N/A |
-| 48 | [#GenerationBridge](http://twitter.com/search?q=%23GenerationBridge) | N/A |
-| 49 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
-| 50 | [#करोड़ों_महिलाओं_की_पुकार](http://twitter.com/search?q=%23%e0%a4%95%e0%a4%b0%e0%a5%8b%e0%a4%a1%e0%a4%bc%e0%a5%8b%e0%a4%82_%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be%e0%a4%93%e0%a4%82_%e0%a4%95%e0%a5%80_%e0%a4%aa%e0%a5%81%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
+| 46 | [#STR48](http://twitter.com/search?q=%23STR48) | N/A |
+| 47 | [#GauriKhan](http://twitter.com/search?q=%23GauriKhan) | N/A |
+| 48 | [#G20SummitHaryana](http://twitter.com/search?q=%23G20SummitHaryana) | N/A |
+| 49 | [#RiseOfNTK](http://twitter.com/search?q=%23RiseOfNTK) | N/A |
+| 50 | [#ErodeEastResults](http://twitter.com/search?q=%23ErodeEastResults) | N/A |
 
 
 

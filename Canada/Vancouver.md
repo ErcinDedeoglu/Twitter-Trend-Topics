@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vancouver
 
-📆 Last Updated: `2023-03-02 06:17:05 UTC`
+📆 Last Updated: `2023-03-02 07:16:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,50 @@ This is top 50 for [Canada](</Canada>)
 | ------- | ------------ | ------------ |
 | 1 | [JCOLE](http://twitter.com/search?q=JCOLE) | N/A |
 | 2 | [Nuge](http://twitter.com/search?q=Nuge) | N/A |
-| 3 | [Holl](http://twitter.com/search?q=Holl) | N/A |
-| 4 | [JHOPE](http://twitter.com/search?q=JHOPE) | N/A |
+| 3 | [JHOPE](http://twitter.com/search?q=JHOPE) | N/A |
+| 4 | [Holl](http://twitter.com/search?q=Holl) | N/A |
 | 5 | [#LetsGoOilers](http://twitter.com/search?q=%23LetsGoOilers) | N/A |
 | 6 | [McDavid](http://twitter.com/search?q=McDavid) | McDavid is a brand of sports equipment and apparel, named after the Canadian hockey player Connor McDavid. The company produces protective gear, such as hockey helmets and shoulder pads, as well as clothing and accessories. |
 | 7 | [Matthews](http://twitter.com/search?q=Matthews) | N/A |
-| 8 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
-| 9 | [Hronek](http://twitter.com/search?q=Hronek) | N/A |
-| 10 | [jihyo](http://twitter.com/search?q=jihyo) | Jihyo is a Korean given name, usually for females. It is composed of two characters, the first meaning "wisdom" and the second meaning "beauty". In English, it can be translated to mean "wise beauty". |
-| 11 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 8 | [Hronek](http://twitter.com/search?q=Hronek) | N/A |
+| 9 | [#BoycottHersheys](http://twitter.com/search?q=%23BoycottHersheys) | N/A |
+| 10 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
+| 11 | [jihyo](http://twitter.com/search?q=jihyo) | Jihyo is a Korean given name, usually for females. It is composed of two characters, the first meaning "wisdom" and the second meaning "beauty". In English, it can be translated to mean "wise beauty". |
 | 12 | [#Survivor44](http://twitter.com/search?q=%23Survivor44) | N/A |
-| 13 | [#on_the_street](http://twitter.com/search?q=%23on_the_street) | N/A |
-| 14 | [#BoycottHersheys](http://twitter.com/search?q=%23BoycottHersheys) | N/A |
-| 15 | [Hopkins](http://twitter.com/search?q=Hopkins) | Hopkins is a surname of English origin. It is derived from the given name Hob, which is a diminutive form of Robert. The name Hopkins means "son of Hob". |
-| 16 | [Rielly](http://twitter.com/search?q=Rielly) | N/A |
-| 17 | [Hughes](http://twitter.com/search?q=Hughes) | Hughes is a surname of Welsh origin. It is derived from the Welsh personal name "Hugh," which is derived from the Germanic elements "hug" meaning "heart, mind, spirit" and "heil" meaning "brave, strong." |
-| 18 | [Samsonov](http://twitter.com/search?q=Samsonov) | Samsonov is a Russian surname. It is derived from the given name Samson, which is derived from the Hebrew name Shimshon, meaning "sun". |
-| 19 | [Granlund](http://twitter.com/search?q=Granlund) | N/A |
-| 20 | [Springsteen](http://twitter.com/search?q=Springsteen) | N/A |
+| 13 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 14 | [#on_the_street](http://twitter.com/search?q=%23on_the_street) | N/A |
+| 15 | [Hughes](http://twitter.com/search?q=Hughes) | Hughes is a surname of Welsh origin. It is derived from the Welsh personal name "Hugh," which is derived from the Germanic elements "hug" meaning "heart, mind, spirit" and "heil" meaning "brave, strong." |
+| 16 | [Hopkins](http://twitter.com/search?q=Hopkins) | Hopkins is a surname of English origin. It is derived from the given name Hob, which is a diminutive form of Robert. The name Hopkins means "son of Hob". |
+| 17 | [Rielly](http://twitter.com/search?q=Rielly) | N/A |
+| 18 | [Springsteen](http://twitter.com/search?q=Springsteen) | N/A |
+| 19 | [Samsonov](http://twitter.com/search?q=Samsonov) | Samsonov is a Russian surname. It is derived from the given name Samson, which is derived from the Hebrew name Shimshon, meaning "sun". |
+| 20 | [Granlund](http://twitter.com/search?q=Granlund) | N/A |
 | 21 | [Hyman](http://twitter.com/search?q=Hyman) | N/A |
-| 22 | [Keefe](http://twitter.com/search?q=Keefe) | N/A |
-| 23 | [Wizkid](http://twitter.com/search?q=Wizkid) | Wizkid is a Nigerian singer, songwriter, and record producer. His real name is Ayodeji Ibrahim Balogun. The name Wizkid is derived from his childhood nickname, which was given to him by his friends due to his precociousness. In English, the term "wizkid" can be used to describe someone who is exceptionally talented or intelligent. |
-| 24 | [Sammy](http://twitter.com/search?q=Sammy) | N/A |
-| 25 | [Canucks](http://twitter.com/search?q=Canucks) | Canucks is a slang term for Canadians. It is derived from the word "Canadian" and is often used in a jocular or affectionate manner. |
-| 26 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
-| 27 | [Venus](http://twitter.com/search?q=Venus) | N/A |
+| 22 | [Wizkid](http://twitter.com/search?q=Wizkid) | Wizkid is a Nigerian singer, songwriter, and record producer. His real name is Ayodeji Ibrahim Balogun. The name Wizkid is derived from his childhood nickname, which was given to him by his friends due to his precociousness. In English, the term "wizkid" can be used to describe someone who is exceptionally talented or intelligent. |
+| 23 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
+| 24 | [Keefe](http://twitter.com/search?q=Keefe) | N/A |
+| 25 | [Sammy](http://twitter.com/search?q=Sammy) | N/A |
+| 26 | [Venus](http://twitter.com/search?q=Venus) | N/A |
+| 27 | [Petey](http://twitter.com/search?q=Petey) | N/A |
 | 28 | [Bunting](http://twitter.com/search?q=Bunting) | Bunting is a type of fabric made from cotton, wool, or synthetic fibers. It is often used for decorative purposes, such as flags, banners, and decorations. The term "bunting" comes from the Old English word buntan, which means to adorn or decorate. |
-| 29 | [Petey](http://twitter.com/search?q=Petey) | N/A |
-| 30 | [Ceci](http://twitter.com/search?q=Ceci) | N/A |
-| 31 | [Reilly](http://twitter.com/search?q=Reilly) | N/A |
-| 32 | [Ekholm](http://twitter.com/search?q=Ekholm) | N/A |
-| 33 | [Stephanie](http://twitter.com/search?q=Stephanie) | N/A |
-| 34 | [Yamo](http://twitter.com/search?q=Yamo) | N/A |
-| 35 | [Grogu](http://twitter.com/search?q=Grogu) | N/A |
-| 36 | [Hextall](http://twitter.com/search?q=Hextall) | N/A |
-| 37 | [Mandalorian](http://twitter.com/search?q=Mandalorian) | N/A |
-| 38 | [Yamamoto](http://twitter.com/search?q=Yamamoto) | N/A |
-| 39 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
-| 40 | [Brodie](http://twitter.com/search?q=Brodie) | N/A |
-| 41 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
-| 42 | [Yzerman](http://twitter.com/search?q=Yzerman) | N/A |
-| 43 | [Woll](http://twitter.com/search?q=Woll) | N/A |
-| 44 | [Benning](http://twitter.com/search?q=Benning) | N/A |
-| 45 | [Pierre Dorion](http://twitter.com/search?q=Pierre+Dorion) | N/A |
-| 46 | [Hawaii](http://twitter.com/search?q=Hawaii) | N/A |
-| 47 | [Jakob Chychrun](http://twitter.com/search?q=Jakob+Chychrun) | N/A |
-| 48 | [Pens](http://twitter.com/search?q=Pens) | N/A |
-| 49 | [Ottawa](http://twitter.com/search?q=Ottawa) | N/A |
-| 50 | [Foundation](http://twitter.com/search?q=Foundation) | N/A |
+| 29 | [Ceci](http://twitter.com/search?q=Ceci) | N/A |
+| 30 | [Myers](http://twitter.com/search?q=Myers) | N/A |
+| 31 | [Demko](http://twitter.com/search?q=Demko) | N/A |
+| 32 | [Mandalorian](http://twitter.com/search?q=Mandalorian) | N/A |
+| 33 | [Reilly](http://twitter.com/search?q=Reilly) | N/A |
+| 34 | [Stephanie](http://twitter.com/search?q=Stephanie) | N/A |
+| 35 | [Ekholm](http://twitter.com/search?q=Ekholm) | N/A |
+| 36 | [Yamo](http://twitter.com/search?q=Yamo) | N/A |
+| 37 | [Grogu](http://twitter.com/search?q=Grogu) | N/A |
+| 38 | [Hextall](http://twitter.com/search?q=Hextall) | N/A |
+| 39 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
+| 40 | [Yamamoto](http://twitter.com/search?q=Yamamoto) | N/A |
+| 41 | [Yzerman](http://twitter.com/search?q=Yzerman) | N/A |
+| 42 | [Pens](http://twitter.com/search?q=Pens) | N/A |
+| 43 | [Mando](http://twitter.com/search?q=Mando) | N/A |
+| 44 | [#TORvsEDM](http://twitter.com/search?q=%23TORvsEDM) | N/A |
+| 45 | [#TrudeauChineseElect](http://twitter.com/search?q=%23TrudeauChineseElect) | N/A |
+| 46 | [#AgustD_SUGA_Tour](http://twitter.com/search?q=%23AgustD_SUGA_Tour) | N/A |
 
 
 

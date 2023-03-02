@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For El Paso
 
-📆 Last Updated: `2023-03-02 06:17:59 UTC`
+📆 Last Updated: `2023-03-02 07:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 2 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
-| 3 | [Grogu](http://twitter.com/search?q=Grogu) | N/A |
-| 4 | [Petro](http://twitter.com/search?q=Petro) | N/A |
-| 5 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
-| 6 | [#RODEOHOUSTON](http://twitter.com/search?q=%23RODEOHOUSTON) | N/A |
-| 7 | [Mando](http://twitter.com/search?q=Mando) | N/A |
-| 8 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
-| 9 | [#ReadAcrossAmerica2023](http://twitter.com/search?q=%23ReadAcrossAmerica2023) | N/A |
-| 10 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
-| 11 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
-| 12 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
-| 13 | [JCOLE](http://twitter.com/search?q=JCOLE) | N/A |
-| 14 | [JCOLE](http://twitter.com/search?q=JCOLE) | N/A |
-| 15 | [jihyo](http://twitter.com/search?q=jihyo) | Jihyo is a Korean given name, usually for females. It is composed of two characters, the first meaning "wisdom" and the second meaning "beauty". In English, it can be translated to mean "wise beauty". |
-| 16 | [#BBWomenInMusic](http://twitter.com/search?q=%23BBWomenInMusic) | N/A |
-| 17 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
-| 18 | [#Survivor44](http://twitter.com/search?q=%23Survivor44) | N/A |
-| 19 | [Billboard](http://twitter.com/search?q=Billboard) | N/A |
-| 20 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 21 | [becky g](http://twitter.com/search?q=becky+g) | N/A |
-| 22 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 23 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
-| 24 | [Jupiter and Venus](http://twitter.com/search?q=Jupiter+and+Venus) | N/A |
-| 25 | [Brandon Ingram](http://twitter.com/search?q=Brandon+Ingram) | Brandon Ingram is an American professional basketball player who currently plays for the New Orleans Pelicans of the National Basketball Association (NBA). He was selected second overall in the 2016 NBA draft by the Los Angeles Lakers. He is known for his scoring ability, long wingspan, and defensive versatility. |
-| 26 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
-| 27 | [Dratini](http://twitter.com/search?q=Dratini) | N/A |
-| 28 | [Blazers](http://twitter.com/search?q=Blazers) | Blazers are a type of jacket, typically with a single row of buttons and a notched lapel. They are usually made from wool or cotton and can be worn as part of a suit or as a separate item. Blazers are often associated with formal occasions, but they can also be worn casually. |
-| 29 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
-| 30 | [tzuyu](http://twitter.com/search?q=tzuyu) | Tzuyu is a Taiwanese singer and member of the K-pop girl group Twice. Her name is derived from the Taiwanese phrase "tzyu yu," which means "the most beautiful." |
-| 31 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
-| 32 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
-| 33 | [COLE WORLD](http://twitter.com/search?q=COLE+WORLD) | N/A |
-| 34 | [Goomy](http://twitter.com/search?q=Goomy) | N/A |
-| 35 | [Noibat](http://twitter.com/search?q=Noibat) | N/A |
-| 36 | [Gible](http://twitter.com/search?q=Gible) | N/A |
-| 37 | [Hawaii](http://twitter.com/search?q=Hawaii) | N/A |
-| 38 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
-| 39 | [Vandy](http://twitter.com/search?q=Vandy) | Vandy is a nickname for Vanderbilt University, a private research university located in Nashville, Tennessee. The name is derived from the university's namesake, Cornelius Vanderbilt. |
-| 40 | [Trapinch](http://twitter.com/search?q=Trapinch) | N/A |
-| 41 | [Jalen Brunson](http://twitter.com/search?q=Jalen+Brunson) | Jalen Brunson is an American professional basketball player who currently plays for the Dallas Mavericks of the National Basketball Association (NBA). His name is a combination of his father's first name, John, and his mother's first name, Lenora. |
-| 42 | [Necas](http://twitter.com/search?q=Necas) | N/A |
-| 43 | [Jack Eichel](http://twitter.com/search?q=Jack+Eichel) | N/A |
-| 44 | [Donovan Mitchell](http://twitter.com/search?q=Donovan+Mitchell) | Donovan Mitchell is an American professional basketball player who currently plays for the Utah Jazz of the National Basketball Association (NBA). His nickname is "Spida" and he is known for his explosive athleticism and scoring ability. |
-| 45 | [Dreepy](http://twitter.com/search?q=Dreepy) | N/A |
-| 46 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
-| 47 | [Doechii](http://twitter.com/search?q=Doechii) | N/A |
+| 1 | [#TexasHockey](http://twitter.com/search?q=%23TexasHockey) | N/A |
+| 2 | [SOOBIN](http://twitter.com/search?q=SOOBIN) | SOOBIN is a Korean name, derived from the Chinese characters for "protection" and "beauty". It can be translated to mean "protected beauty" in English. |
+| 3 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
+| 4 | [Creed III](http://twitter.com/search?q=Creed+III) | N/A |
+| 5 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
+| 6 | [JCOLE](http://twitter.com/search?q=JCOLE) | N/A |
+| 7 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
+| 8 | [#BBWomenInMusic](http://twitter.com/search?q=%23BBWomenInMusic) | N/A |
+| 9 | [jihyo](http://twitter.com/search?q=jihyo) | Jihyo is a Korean given name, usually for females. It is composed of two characters, the first meaning "wisdom" and the second meaning "beauty". In English, it can be translated to mean "wise beauty". |
+| 10 | [#Survivor44](http://twitter.com/search?q=%23Survivor44) | N/A |
+| 11 | [#BoycottHersheys](http://twitter.com/search?q=%23BoycottHersheys) | N/A |
+| 12 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 13 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 14 | [Billboard](http://twitter.com/search?q=Billboard) | N/A |
+| 15 | [Dratini](http://twitter.com/search?q=Dratini) | N/A |
+| 16 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
+| 17 | [Jupiter and Venus](http://twitter.com/search?q=Jupiter+and+Venus) | N/A |
+| 18 | [Brandon Ingram](http://twitter.com/search?q=Brandon+Ingram) | Brandon Ingram is an American professional basketball player who currently plays for the New Orleans Pelicans of the National Basketball Association (NBA). He was selected second overall in the 2016 NBA draft by the Los Angeles Lakers. He is known for his scoring ability, long wingspan, and defensive versatility. |
+| 19 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
+| 20 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 21 | [Blazers](http://twitter.com/search?q=Blazers) | Blazers are a type of jacket, typically with a single row of buttons and a notched lapel. They are usually made from wool or cotton and can be worn as part of a suit or as a separate item. Blazers are often associated with formal occasions, but they can also be worn casually. |
+| 22 | [tzuyu](http://twitter.com/search?q=tzuyu) | Tzuyu is a Taiwanese singer and member of the K-pop girl group Twice. Her name is derived from the Taiwanese phrase "tzyu yu," which means "the most beautiful." |
+| 23 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
+| 24 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
+| 25 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
+| 26 | [COLE WORLD](http://twitter.com/search?q=COLE+WORLD) | N/A |
+| 27 | [Noibat](http://twitter.com/search?q=Noibat) | N/A |
+| 28 | [Goomy](http://twitter.com/search?q=Goomy) | N/A |
+| 29 | [Gible](http://twitter.com/search?q=Gible) | N/A |
+| 30 | [Hawaii](http://twitter.com/search?q=Hawaii) | N/A |
+| 31 | [Doechii](http://twitter.com/search?q=Doechii) | N/A |
+| 32 | [Trapinch](http://twitter.com/search?q=Trapinch) | N/A |
+| 33 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
+| 34 | [Dreepy](http://twitter.com/search?q=Dreepy) | N/A |
+| 35 | [Chaka](http://twitter.com/search?q=Chaka) | N/A |
+| 36 | [5 World of Warcraft](http://twitter.com/search?q=5+World+of+Warcraft) | N/A |
+| 37 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
+| 38 | [Necas](http://twitter.com/search?q=Necas) | N/A |
+| 39 | [Hope World](http://twitter.com/search?q=Hope+World) | N/A |
+| 40 | [Jack Eichel](http://twitter.com/search?q=Jack+Eichel) | N/A |
+| 41 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
+| 42 | [Jalen Brunson](http://twitter.com/search?q=Jalen+Brunson) | Jalen Brunson is an American professional basketball player who currently plays for the Dallas Mavericks of the National Basketball Association (NBA). His name is a combination of his father's first name, John, and his mother's first name, Lenora. |
+| 43 | [matty healy](http://twitter.com/search?q=matty+healy) | N/A |
+| 44 | [Chauncey](http://twitter.com/search?q=Chauncey) | N/A |
+| 45 | [Meghan Trainor](http://twitter.com/search?q=Meghan+Trainor) | N/A |
+| 46 | [iKON](http://twitter.com/search?q=iKON) | N/A |
+| 47 | [Creed 3](http://twitter.com/search?q=Creed+3) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pekanbaru
 
-📆 Last Updated: `2023-03-02 06:17:31 UTC`
+📆 Last Updated: `2023-03-02 07:16:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,51 +15,51 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [J.COLE](http://twitter.com/search?q=J.COLE) | N/A |
-| 2 | [#JakartaBINPastiBisa](http://twitter.com/search?q=%23JakartaBINPastiBisa) | N/A |
-| 3 | [TY WEARS LOEWE](http://twitter.com/search?q=TY+WEARS+LOEWE) | N/A |
-| 4 | [Berita Ekonomi Terkini](http://twitter.com/search?q=Berita+Ekonomi+Terkini) | N/A |
-| 5 | [LEE HAECHAN](http://twitter.com/search?q=LEE+HAECHAN) | Lee Haechan is the stage name of Lee Dong-hyuk, a South Korean singer and member of the K-pop boy group NCT. The name "Haechan" is derived from the Korean word for "shining star." |
-| 6 | [J-HOPE](http://twitter.com/search?q=J-HOPE) | N/A |
-| 7 | [TWICE BILLBOARD AWARD](http://twitter.com/search?q=TWICE+BILLBOARD+AWARD) | N/A |
+| 1 | [#JakartaBINPastiBisa](http://twitter.com/search?q=%23JakartaBINPastiBisa) | N/A |
+| 2 | [J.COLE](http://twitter.com/search?q=J.COLE) | N/A |
+| 3 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
+| 4 | [TY WEARS LOEWE](http://twitter.com/search?q=TY+WEARS+LOEWE) | N/A |
+| 5 | [Silent](http://twitter.com/search?q=Silent) | N/A |
+| 6 | [iKON IS COMING TO TOWN](http://twitter.com/search?q=iKON+IS+COMING+TO+TOWN) | N/A |
+| 7 | [J-HOPE](http://twitter.com/search?q=J-HOPE) | N/A |
 | 8 | [Jalur](http://twitter.com/search?q=Jalur) | N/A |
-| 9 | [jihyo](http://twitter.com/search?q=jihyo) | Jihyo is a Korean given name, usually for females. It is composed of two characters, the first meaning "wisdom" and the second meaning "beauty". In English, it can be translated to mean "wise beauty". |
-| 10 | [Mino](http://twitter.com/search?q=Mino) | N/A |
-| 11 | [I LIKE IT](http://twitter.com/search?q=I+LIKE+IT) | N/A |
-| 12 | [BLOOMING WITH LEESEO](http://twitter.com/search?q=BLOOMING+WITH+LEESEO) | N/A |
-| 13 | [STOP MISTREATING MILE](http://twitter.com/search?q=STOP+MISTREATING+MILE) | N/A |
-| 14 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 15 | [Gelora Buat Konser](http://twitter.com/search?q=Gelora+Buat+Konser) | N/A |
-| 16 | [Sisanya](http://twitter.com/search?q=Sisanya) | N/A |
-| 17 | [minghao](http://twitter.com/search?q=minghao) | N/A |
-| 18 | [5M BUILD](http://twitter.com/search?q=5M+BUILD) | N/A |
-| 19 | [SECRET NUMBER JAPAN DEBUT](http://twitter.com/search?q=SECRET+NUMBER+JAPAN+DEBUT) | N/A |
-| 20 | [THE PORTRAITS OF JISOO](http://twitter.com/search?q=THE+PORTRAITS+OF+JISOO) | N/A |
-| 21 | [Andai](http://twitter.com/search?q=Andai) | N/A |
-| 22 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
-| 23 | [Formula E](http://twitter.com/search?q=Formula+E) | N/A |
-| 24 | [Gaji](http://twitter.com/search?q=Gaji) | N/A |
-| 25 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
-| 26 | [Paris](http://twitter.com/search?q=Paris) | N/A |
+| 9 | [TWICE BILLBOARD AWARD](http://twitter.com/search?q=TWICE+BILLBOARD+AWARD) | N/A |
+| 10 | [jihyo](http://twitter.com/search?q=jihyo) | Jihyo is a Korean given name, usually for females. It is composed of two characters, the first meaning "wisdom" and the second meaning "beauty". In English, it can be translated to mean "wise beauty". |
+| 11 | [Berita Ekonomi Terkini](http://twitter.com/search?q=Berita+Ekonomi+Terkini) | N/A |
+| 12 | [STOP MISTREATING MILE](http://twitter.com/search?q=STOP+MISTREATING+MILE) | N/A |
+| 13 | [Adeknya](http://twitter.com/search?q=Adeknya) | N/A |
+| 14 | [Mino](http://twitter.com/search?q=Mino) | N/A |
+| 15 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 16 | [BLOOMING WITH LEESEO](http://twitter.com/search?q=BLOOMING+WITH+LEESEO) | N/A |
+| 17 | [Andai](http://twitter.com/search?q=Andai) | N/A |
+| 18 | [Gelora Buat Konser](http://twitter.com/search?q=Gelora+Buat+Konser) | N/A |
+| 19 | [Sisanya](http://twitter.com/search?q=Sisanya) | N/A |
+| 20 | [5M BUILD](http://twitter.com/search?q=5M+BUILD) | N/A |
+| 21 | [SECRET NUMBER JAPAN DEBUT](http://twitter.com/search?q=SECRET+NUMBER+JAPAN+DEBUT) | N/A |
+| 22 | [THE PORTRAITS OF JISOO](http://twitter.com/search?q=THE+PORTRAITS+OF+JISOO) | N/A |
+| 23 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
+| 24 | [minghao](http://twitter.com/search?q=minghao) | N/A |
+| 25 | [Gaji](http://twitter.com/search?q=Gaji) | N/A |
+| 26 | [Sheila Dara](http://twitter.com/search?q=Sheila+Dara) | N/A |
 | 27 | [Jambi](http://twitter.com/search?q=Jambi) | N/A |
-| 28 | [Persija](http://twitter.com/search?q=Persija) | Persija is a football club based in Jakarta, Indonesia. The name is derived from the Sanskrit word for 'victory', and it is also the nickname of the team's supporters. In English, Persija translates to 'Victorious'. |
-| 29 | [Sheila Dara](http://twitter.com/search?q=Sheila+Dara) | N/A |
-| 30 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 31 | [Rafael](http://twitter.com/search?q=Rafael) | N/A |
-| 32 | [#BliMinBeliin](http://twitter.com/search?q=%23BliMinBeliin) | N/A |
-| 33 | [#TAEYONGtoPFW23](http://twitter.com/search?q=%23TAEYONGtoPFW23) | N/A |
-| 34 | [#LIKEITLIKEIT_MVTeaser2](http://twitter.com/search?q=%23LIKEITLIKEIT_MVTeaser2) | N/A |
-| 35 | [#BlibliSelalu](http://twitter.com/search?q=%23BlibliSelalu) | N/A |
-| 36 | [#anisd](http://twitter.com/search?q=%23anisd) | N/A |
-| 37 | [#BBWomenInMusic](http://twitter.com/search?q=%23BBWomenInMusic) | N/A |
-| 38 | [#SavePendampingDesa](http://twitter.com/search?q=%23SavePendampingDesa) | N/A |
-| 39 | [#iKON](http://twitter.com/search?q=%23iKON) | N/A |
-| 40 | [#TWICE_BreakthroughAward](http://twitter.com/search?q=%23TWICE_BreakthroughAward) | N/A |
-| 41 | [#on_the_street](http://twitter.com/search?q=%23on_the_street) | N/A |
-| 42 | [#BOBBY1stSoloSingle](http://twitter.com/search?q=%23BOBBY1stSoloSingle) | N/A |
-| 43 | [#KPKKenaPrank](http://twitter.com/search?q=%23KPKKenaPrank) | N/A |
-| 44 | [#KembangApi](http://twitter.com/search?q=%23KembangApi) | N/A |
-| 45 | [#GerakanUntukGanjar](http://twitter.com/search?q=%23GerakanUntukGanjar) | N/A |
+| 28 | [#BliMinBeliin](http://twitter.com/search?q=%23BliMinBeliin) | N/A |
+| 29 | [#BlibliSelalu](http://twitter.com/search?q=%23BlibliSelalu) | N/A |
+| 30 | [#TAEYONGtoPFW23](http://twitter.com/search?q=%23TAEYONGtoPFW23) | N/A |
+| 31 | [#LIKEITLIKEIT_MVTeaser2](http://twitter.com/search?q=%23LIKEITLIKEIT_MVTeaser2) | N/A |
+| 32 | [#anisd](http://twitter.com/search?q=%23anisd) | N/A |
+| 33 | [#BBWomenInMusic](http://twitter.com/search?q=%23BBWomenInMusic) | N/A |
+| 34 | [#TWICE_BreakthroughAward](http://twitter.com/search?q=%23TWICE_BreakthroughAward) | N/A |
+| 35 | [#SavePendampingDesa](http://twitter.com/search?q=%23SavePendampingDesa) | N/A |
+| 36 | [#KPKKenaPrank](http://twitter.com/search?q=%23KPKKenaPrank) | N/A |
+| 37 | [#BOBBY1stSoloSingle](http://twitter.com/search?q=%23BOBBY1stSoloSingle) | N/A |
+| 38 | [#on_the_street](http://twitter.com/search?q=%23on_the_street) | N/A |
+| 39 | [#BOCdoBetterForMile](http://twitter.com/search?q=%23BOCdoBetterForMile) | N/A |
+| 40 | [#ZeeNuNewKoreaInterview](http://twitter.com/search?q=%23ZeeNuNewKoreaInterview) | N/A |
+| 41 | [#PSSday](http://twitter.com/search?q=%23PSSday) | N/A |
+| 42 | [#GerakanUntukGanjar](http://twitter.com/search?q=%23GerakanUntukGanjar) | N/A |
+| 43 | [#KembangApi](http://twitter.com/search?q=%23KembangApi) | N/A |
+| 44 | [#WelcomeLeeseoToHanlim](http://twitter.com/search?q=%23WelcomeLeeseoToHanlim) | N/A |
+| 45 | [#HARAM](http://twitter.com/search?q=%23HARAM) | N/A |
 
 
 
