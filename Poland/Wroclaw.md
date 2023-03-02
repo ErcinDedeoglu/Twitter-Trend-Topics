@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Wroclaw
 
-📆 Last Updated: `2023-03-02 04:16:41 UTC`
+📆 Last Updated: `2023-03-02 05:16:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Poland](</Poland>)
 | ------- | ------------ | ------------ |
 | 1 | [żołnierzy wyklętych](http://twitter.com/search?q=%c5%bco%c5%82nierzy+wykl%c4%99tych) | N/A |
 | 2 | [Chwała Bohaterom](http://twitter.com/search?q=Chwa%c5%82a+Bohaterom) | N/A |
-| 3 | [#BielanOddajKase](http://twitter.com/search?q=%23BielanOddajKase) | N/A |
-| 4 | [#1marca](http://twitter.com/search?q=%231marca) | N/A |
-| 5 | [kks kalisz](http://twitter.com/search?q=kks+kalisz) | N/A |
+| 3 | [#1marca](http://twitter.com/search?q=%231marca) | N/A |
+| 4 | [kks kalisz](http://twitter.com/search?q=kks+kalisz) | N/A |
+| 5 | [#bielanoddajkase](http://twitter.com/search?q=%23bielanoddajkase) | N/A |
 | 6 | [#KKSŚLĄ](http://twitter.com/search?q=%23KKS%c5%9aL%c4%84) | N/A |
 | 7 | [Wenus](http://twitter.com/search?q=Wenus) | N/A |
 | 8 | [#oligarchaputina](http://twitter.com/search?q=%23oligarchaputina) | N/A |
 | 9 | [Jowisz](http://twitter.com/search?q=Jowisz) | N/A |
-| 10 | [#ŻołnierzeWyklęci](http://twitter.com/search?q=%23%c5%bbo%c5%82nierzeWykl%c4%99ci) | N/A |
-| 11 | [dworczyka](http://twitter.com/search?q=dworczyka) | N/A |
-| 12 | [Referendum](http://twitter.com/search?q=Referendum) | N/A |
-| 13 | [Narodowy Dzień Pamięci](http://twitter.com/search?q=Narodowy+Dzie%c5%84+Pami%c4%99ci) | N/A |
+| 10 | [#żołnierzewyklęci](http://twitter.com/search?q=%23%c5%bco%c5%82nierzewykl%c4%99ci) | N/A |
+| 11 | [Referendum](http://twitter.com/search?q=Referendum) | N/A |
+| 12 | [Dworczyka](http://twitter.com/search?q=Dworczyka) | N/A |
+| 13 | [narodowy dzień pamięci](http://twitter.com/search?q=narodowy+dzie%c5%84+pami%c4%99ci) | N/A |
 | 14 | [Tuska](http://twitter.com/search?q=Tuska) | N/A |
-| 15 | [Karpińskiego](http://twitter.com/search?q=Karpi%c5%84skiego) | N/A |
-| 16 | [Libicki](http://twitter.com/search?q=Libicki) | N/A |
-| 17 | [Śląsk](http://twitter.com/search?q=%c5%9al%c4%85sk) | N/A |
-| 18 | [kinga rajda](http://twitter.com/search?q=kinga+rajda) | N/A |
+| 15 | [Śląsk Wrocław](http://twitter.com/search?q=%c5%9al%c4%85sk+Wroc%c5%82aw) | N/A |
+| 16 | [Karpińskiego](http://twitter.com/search?q=Karpi%c5%84skiego) | N/A |
+| 17 | [kinga rajda](http://twitter.com/search?q=kinga+rajda) | N/A |
+| 18 | [Libicki](http://twitter.com/search?q=Libicki) | N/A |
 | 19 | [jolanty brzeskiej](http://twitter.com/search?q=jolanty+brzeskiej) | N/A |
-| 20 | [jerzego stuhra](http://twitter.com/search?q=jerzego+stuhra) | N/A |
-| 21 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 20 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 21 | [jerzego stuhra](http://twitter.com/search?q=jerzego+stuhra) | N/A |
 | 22 | [Motor](http://twitter.com/search?q=Motor) | N/A |
-| 23 | [Hołownia](http://twitter.com/search?q=Ho%c5%82ownia) | N/A |
-| 24 | [niesiołowski](http://twitter.com/search?q=niesio%c5%82owski) | N/A |
-| 25 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 23 | [niesiołowski](http://twitter.com/search?q=niesio%c5%82owski) | N/A |
+| 24 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 25 | [Hołownia](http://twitter.com/search?q=Ho%c5%82ownia) | N/A |
 | 26 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 27 | [Wąsika](http://twitter.com/search?q=W%c4%85sika) | N/A |
+| 27 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
 | 28 | [kornel morawiecki](http://twitter.com/search?q=kornel+morawiecki) | N/A |
-| 29 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
-| 30 | [żołnierzom wyklętym](http://twitter.com/search?q=%c5%bco%c5%82nierzom+wykl%c4%99tym) | N/A |
-| 31 | [Senacie](http://twitter.com/search?q=Senacie) | N/A |
+| 29 | [żołnierzom wyklętym](http://twitter.com/search?q=%c5%bco%c5%82nierzom+wykl%c4%99tym) | N/A |
+| 30 | [Senacie](http://twitter.com/search?q=Senacie) | N/A |
+| 31 | [Kingi](http://twitter.com/search?q=Kingi) | N/A |
 | 32 | [GIVE US WN BLOOPERS](http://twitter.com/search?q=GIVE+US+WN+BLOOPERS) | N/A |
-| 33 | [Kingi](http://twitter.com/search?q=Kingi) | N/A |
-| 34 | [Hubert Hurkacz](http://twitter.com/search?q=Hubert+Hurkacz) | N/A |
-| 35 | [niezawisłość](http://twitter.com/search?q=niezawis%c5%82o%c5%9b%c4%87) | N/A |
-| 36 | [małysz](http://twitter.com/search?q=ma%c5%82ysz) | N/A |
-| 37 | [Bielana](http://twitter.com/search?q=Bielana) | N/A |
-| 38 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
-| 39 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 40 | [Heineken](http://twitter.com/search?q=Heineken) | N/A |
-| 41 | [Orlen](http://twitter.com/search?q=Orlen) | N/A |
-| 42 | [Alexandria Loutitt](http://twitter.com/search?q=Alexandria+Loutitt) | N/A |
-| 43 | [kosiniak-kamysz](http://twitter.com/search?q=kosiniak-kamysz) | N/A |
-| 44 | [narodowego dnia pamięci](http://twitter.com/search?q=narodowego+dnia+pami%c4%99ci) | N/A |
-| 45 | [neumanna](http://twitter.com/search?q=neumanna) | N/A |
-| 46 | [mieszkanie](http://twitter.com/search?q=mieszkanie) | N/A |
-| 47 | [cześć ich pamięci](http://twitter.com/search?q=cze%c5%9b%c4%87+ich+pami%c4%99ci) | N/A |
-| 48 | [Senatu](http://twitter.com/search?q=Senatu) | N/A |
-| 49 | [Mando](http://twitter.com/search?q=Mando) | N/A |
+| 33 | [niezawisłość](http://twitter.com/search?q=niezawis%c5%82o%c5%9b%c4%87) | N/A |
+| 34 | [małysz](http://twitter.com/search?q=ma%c5%82ysz) | N/A |
+| 35 | [Orlen](http://twitter.com/search?q=Orlen) | N/A |
+| 36 | [Heineken](http://twitter.com/search?q=Heineken) | N/A |
+| 37 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
+| 38 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 39 | [Bielana](http://twitter.com/search?q=Bielana) | N/A |
+| 40 | [mieszkanie](http://twitter.com/search?q=mieszkanie) | N/A |
+| 41 | [Alexandria Loutitt](http://twitter.com/search?q=Alexandria+Loutitt) | N/A |
+| 42 | [Kosiniak](http://twitter.com/search?q=Kosiniak) | N/A |
+| 43 | [Wąsika](http://twitter.com/search?q=W%c4%85sika) | N/A |
+| 44 | [neumanna](http://twitter.com/search?q=neumanna) | N/A |
+| 45 | [maren lundby](http://twitter.com/search?q=maren+lundby) | N/A |
+| 46 | [Mando](http://twitter.com/search?q=Mando) | N/A |
+| 47 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 48 | [fryderyk chopin](http://twitter.com/search?q=fryderyk+chopin) | N/A |
+| 49 | [chmielowski](http://twitter.com/search?q=chmielowski) | N/A |
 | 50 | [kaziu](http://twitter.com/search?q=kaziu) | N/A |
 
 

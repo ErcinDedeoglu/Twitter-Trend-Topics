@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Las Palmas
 
-📆 Last Updated: `2023-03-02 04:16:47 UTC`
+📆 Last Updated: `2023-03-02 05:16:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,9 +22,9 @@ This is top 50 for [Spain](</Spain>)
 | 5 | [Países Bajos](http://twitter.com/search?q=Pa%c3%adses+Bajos) | N/A |
 | 6 | [Abde](http://twitter.com/search?q=Abde) | Abde is a name of Arabic origin that means "servant of God". |
 | 7 | [Holanda](http://twitter.com/search?q=Holanda) | N/A |
-| 8 | [#OsasunaAthletic](http://twitter.com/search?q=%23OsasunaAthletic) | N/A |
-| 9 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 10 | [Andalucía](http://twitter.com/search?q=Andaluc%c3%ada) | N/A |
+| 8 | [#osasunaathletic](http://twitter.com/search?q=%23osasunaathletic) | N/A |
+| 9 | [Andalucía](http://twitter.com/search?q=Andaluc%c3%ada) | N/A |
+| 10 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
 | 11 | [Mediador](http://twitter.com/search?q=Mediador) | N/A |
 | 12 | [Patxi](http://twitter.com/search?q=Patxi) | N/A |
 | 13 | [Pelayo Novo](http://twitter.com/search?q=Pelayo+Novo) | N/A |
@@ -35,34 +35,34 @@ This is top 50 for [Spain](</Spain>)
 | 18 | [El Sadar](http://twitter.com/search?q=El+Sadar) | N/A |
 | 19 | [Autoevaluación HONESTA](http://twitter.com/search?q=Autoevaluaci%c3%b3n+HONESTA) | N/A |
 | 20 | [Campanilla](http://twitter.com/search?q=Campanilla) | N/A |
-| 21 | [Iribar](http://twitter.com/search?q=Iribar) | N/A |
-| 22 | [Alexandra Jiménez](http://twitter.com/search?q=Alexandra+Jim%c3%a9nez) | N/A |
-| 23 | [De Marcos](http://twitter.com/search?q=De+Marcos) | N/A |
-| 24 | [San Mamés](http://twitter.com/search?q=San+Mam%c3%a9s) | San Mamés is the name of a football stadium in Bilbao, Spain. It is the home stadium of Athletic Bilbao, a Spanish football club. The name San Mamés comes from a local saint, Saint Mammes of Caesarea, who was martyred in the 3rd century AD. In English, San Mamés translates to "Saint Mammes". |
+| 21 | [Alexandra Jiménez](http://twitter.com/search?q=Alexandra+Jim%c3%a9nez) | N/A |
+| 22 | [De Marcos](http://twitter.com/search?q=De+Marcos) | N/A |
+| 23 | [San Mamés](http://twitter.com/search?q=San+Mam%c3%a9s) | San Mamés is the name of a football stadium in Bilbao, Spain. It is the home stadium of Athletic Bilbao, a Spanish football club. The name San Mamés comes from a local saint, Saint Mammes of Caesarea, who was martyred in the 3rd century AD. In English, San Mamés translates to "Saint Mammes". |
+| 24 | [Iribar](http://twitter.com/search?q=Iribar) | N/A |
 | 25 | [Peter Pan](http://twitter.com/search?q=Peter+Pan) | N/A |
 | 26 | [Alvise](http://twitter.com/search?q=Alvise) | N/A |
 | 27 | [Dani García](http://twitter.com/search?q=Dani+Garc%c3%ada) | N/A |
-| 28 | [Romina](http://twitter.com/search?q=Romina) | Romina is a feminine given name of Latin origin, derived from the Roman family name Romulus. It means "from Rome" or "of Rome". |
-| 29 | [Grogu](http://twitter.com/search?q=Grogu) | N/A |
-| 30 | [PP de Canarias](http://twitter.com/search?q=PP+de+Canarias) | N/A |
-| 31 | [Kitchen](http://twitter.com/search?q=Kitchen) | N/A |
-| 32 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
-| 33 | [Pachi](http://twitter.com/search?q=Pachi) | N/A |
-| 34 | [iker bravo](http://twitter.com/search?q=iker+bravo) | N/A |
-| 35 | [Zoro](http://twitter.com/search?q=Zoro) | N/A |
-| 36 | [Del Pino](http://twitter.com/search?q=Del+Pino) | N/A |
-| 37 | [Inmoral](http://twitter.com/search?q=Inmoral) | N/A |
+| 28 | [Grogu](http://twitter.com/search?q=Grogu) | N/A |
+| 29 | [PP de Canarias](http://twitter.com/search?q=PP+de+Canarias) | N/A |
+| 30 | [Kitchen](http://twitter.com/search?q=Kitchen) | N/A |
+| 31 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
+| 32 | [Pachi](http://twitter.com/search?q=Pachi) | N/A |
+| 33 | [iker bravo](http://twitter.com/search?q=iker+bravo) | N/A |
+| 34 | [Del Pino](http://twitter.com/search?q=Del+Pino) | N/A |
+| 35 | [Inmoral](http://twitter.com/search?q=Inmoral) | N/A |
+| 36 | [Zoro](http://twitter.com/search?q=Zoro) | N/A |
+| 37 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 38 | [Rajoy](http://twitter.com/search?q=Rajoy) | N/A |
-| 39 | [Zarraga](http://twitter.com/search?q=Zarraga) | N/A |
-| 40 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 41 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
-| 42 | [berenguer](http://twitter.com/search?q=berenguer) | N/A |
-| 43 | [Venus y Júpiter](http://twitter.com/search?q=Venus+y+J%c3%bapiter) | N/A |
-| 44 | [Patriotas](http://twitter.com/search?q=Patriotas) | N/A |
-| 45 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
-| 46 | [colchero](http://twitter.com/search?q=colchero) | N/A |
-| 47 | [FA Cup](http://twitter.com/search?q=FA+Cup) | The FA Cup is an annual knockout football competition in England. It is the oldest football competition in the world and is run by The Football Association (FA). The FA Cup is open to any club in the top four tiers of English football, from the Premier League down to the semi-professional leagues. The tournament culminates with a final at Wembley Stadium, usually held in May. |
-| 48 | [Ibex](http://twitter.com/search?q=Ibex) | N/A |
+| 39 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
+| 40 | [berenguer](http://twitter.com/search?q=berenguer) | N/A |
+| 41 | [Venus y Júpiter](http://twitter.com/search?q=Venus+y+J%c3%bapiter) | N/A |
+| 42 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
+| 43 | [Daniele](http://twitter.com/search?q=Daniele) | N/A |
+| 44 | [Zarraga](http://twitter.com/search?q=Zarraga) | N/A |
+| 45 | [Patriotas](http://twitter.com/search?q=Patriotas) | N/A |
+| 46 | [Ibex](http://twitter.com/search?q=Ibex) | N/A |
+| 47 | [Islas Baleares](http://twitter.com/search?q=Islas+Baleares) | N/A |
+| 48 | [Ramsés](http://twitter.com/search?q=Rams%c3%a9s) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Benin City
 
-📆 Last Updated: `2023-03-02 04:17:01 UTC`
+📆 Last Updated: `2023-03-02 05:16:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -34,37 +34,37 @@ This is top 50 for [Nigeria](</Nigeria>)
 | 17 | [Pastor Fred](http://twitter.com/search?q=Pastor+Fred) | Pastor Fred is a term used to refer to a Christian minister or pastor. It is often used as a generic name for any pastor, regardless of their actual name. |
 | 18 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
 | 19 | [Ajuri](http://twitter.com/search?q=Ajuri) | N/A |
-| 20 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
+| 20 | [Sanwo](http://twitter.com/search?q=Sanwo) | N/A |
 | 21 | [Emeka](http://twitter.com/search?q=Emeka) | N/A |
-| 22 | [Sanwo](http://twitter.com/search?q=Sanwo) | N/A |
-| 23 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 24 | [Japa](http://twitter.com/search?q=Japa) | N/A |
-| 25 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 22 | [Japa](http://twitter.com/search?q=Japa) | N/A |
+| 23 | [Fajr](http://twitter.com/search?q=Fajr) | N/A |
+| 24 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
+| 25 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
 | 26 | [Wike](http://twitter.com/search?q=Wike) | Wike is a term used in the Philippines to refer to a person who is knowledgeable or wise. It is derived from the Tagalog word "wikain," which means "to know." In English, it can be translated as "wise" or "knowledgeable." |
-| 27 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 28 | [BVAS](http://twitter.com/search?q=BVAS) | BVAS stands for Behavioral and Vital Signs. It is a term used in the medical field to refer to the physical and mental signs that can be used to assess a patient's health. These signs include heart rate, blood pressure, temperature, respiration rate, and other indicators of physical and mental health. |
-| 29 | [Zain](http://twitter.com/search?q=Zain) | N/A |
+| 27 | [BVAS](http://twitter.com/search?q=BVAS) | BVAS stands for Behavioral and Vital Signs. It is a term used in the medical field to refer to the physical and mental signs that can be used to assess a patient's health. These signs include heart rate, blood pressure, temperature, respiration rate, and other indicators of physical and mental health. |
+| 28 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 29 | [Lindelof](http://twitter.com/search?q=Lindelof) | Lindelof is a surname of Swedish origin. It is derived from the Old Norse name Lindalófr, which means "linden leaf" or "linden tree". In English, the name can be translated to mean "beloved of the linden tree". |
 | 30 | [11th of March](http://twitter.com/search?q=11th+of+March) | N/A |
-| 31 | [Lindelof](http://twitter.com/search?q=Lindelof) | Lindelof is a surname of Swedish origin. It is derived from the Old Norse name Lindalófr, which means "linden leaf" or "linden tree". In English, the name can be translated to mean "beloved of the linden tree". |
-| 32 | [Nairaland](http://twitter.com/search?q=Nairaland) | N/A |
-| 33 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
-| 34 | [Sean Dyche](http://twitter.com/search?q=Sean+Dyche) | Sean Dyche is the name of the current manager of English Premier League football club Burnley. The name is a combination of his first and last names. The meaning in English is simply the name of the manager. |
-| 35 | [Jesus Name Above All Names](http://twitter.com/search?q=Jesus+Name+Above+All+Names) | N/A |
-| 36 | [Atiku and Obi](http://twitter.com/search?q=Atiku+and+Obi) | N/A |
+| 31 | [Zain](http://twitter.com/search?q=Zain) | N/A |
+| 32 | [Happy Birthday Daddy](http://twitter.com/search?q=Happy+Birthday+Daddy) | N/A |
+| 33 | [Sean Dyche](http://twitter.com/search?q=Sean+Dyche) | Sean Dyche is the name of the current manager of English Premier League football club Burnley. The name is a combination of his first and last names. The meaning in English is simply the name of the manager. |
+| 34 | [Nairaland](http://twitter.com/search?q=Nairaland) | N/A |
+| 35 | [Abuja](http://twitter.com/search?q=Abuja) | N/A |
+| 36 | [Jesus Name Above All Names](http://twitter.com/search?q=Jesus+Name+Above+All+Names) | N/A |
 | 37 | [Okwute](http://twitter.com/search?q=Okwute) | N/A |
-| 38 | [Abuja](http://twitter.com/search?q=Abuja) | N/A |
-| 39 | [Grimsby](http://twitter.com/search?q=Grimsby) | N/A |
-| 40 | [Chief of Staff](http://twitter.com/search?q=Chief+of+Staff) | N/A |
-| 41 | [Shettima](http://twitter.com/search?q=Shettima) | N/A |
-| 42 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
+| 38 | [Grimsby](http://twitter.com/search?q=Grimsby) | N/A |
+| 39 | [Chief of Staff](http://twitter.com/search?q=Chief+of+Staff) | N/A |
+| 40 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
+| 41 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 42 | [Atiku and Obi](http://twitter.com/search?q=Atiku+and+Obi) | N/A |
 | 43 | [Wout Weghorst](http://twitter.com/search?q=Wout+Weghorst) | Wout Weghorst is a Dutch professional footballer who plays as a striker for German club VfL Wolfsburg. The name Wout Weghorst translates to "strong will" in English. |
 | 44 | [Femi Falana](http://twitter.com/search?q=Femi+Falana) | N/A |
-| 45 | [IREV](http://twitter.com/search?q=IREV) | N/A |
-| 46 | [Pastor Adeboye](http://twitter.com/search?q=Pastor+Adeboye) | N/A |
+| 45 | [Pastor Adeboye](http://twitter.com/search?q=Pastor+Adeboye) | N/A |
+| 46 | [Shettima](http://twitter.com/search?q=Shettima) | N/A |
 | 47 | [Mahmood Yakubu](http://twitter.com/search?q=Mahmood+Yakubu) | N/A |
 | 48 | [Rishi](http://twitter.com/search?q=Rishi) | N/A |
-| 49 | [My Twitter](http://twitter.com/search?q=My+Twitter) | N/A |
-| 50 | [jubilee in march](http://twitter.com/search?q=jubilee+in+march) | N/A |
+| 49 | [IREV](http://twitter.com/search?q=IREV) | N/A |
+| 50 | [My Twitter](http://twitter.com/search?q=My+Twitter) | N/A |
 
 
 

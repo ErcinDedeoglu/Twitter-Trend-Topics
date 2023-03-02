@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-03-02 04:17:25 UTC`
+📆 Last Updated: `2023-03-02 05:16:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,44 +27,44 @@ This is top 50 for Denmark
 | 10 | [st. bededag](http://twitter.com/search?q=st.+bededag) | N/A |
 | 11 | [Venus](http://twitter.com/search?q=Venus) | N/A |
 | 12 | [Krim](http://twitter.com/search?q=Krim) | N/A |
-| 13 | [minteh](http://twitter.com/search?q=minteh) | N/A |
-| 14 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
-| 15 | [paludan](http://twitter.com/search?q=paludan) | N/A |
-| 16 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
-| 17 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 18 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 19 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
-| 20 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
+| 13 | [Minteh](http://twitter.com/search?q=Minteh) | N/A |
+| 14 | [paludan](http://twitter.com/search?q=paludan) | N/A |
+| 15 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
+| 16 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 17 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
+| 18 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
+| 19 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 20 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
 | 21 | [Iceland](http://twitter.com/search?q=Iceland) | N/A |
 | 22 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
 | 23 | [tv2 zulu](http://twitter.com/search?q=tv2+zulu) | N/A |
 | 24 | [Luke](http://twitter.com/search?q=Luke) | N/A |
 | 25 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
-| 26 | [roskilde](http://twitter.com/search?q=roskilde) | N/A |
+| 26 | [Brian](http://twitter.com/search?q=Brian) | N/A |
 | 27 | [vavro](http://twitter.com/search?q=vavro) | N/A |
-| 28 | [hedlund](http://twitter.com/search?q=hedlund) | N/A |
-| 29 | [Nordic](http://twitter.com/search?q=Nordic) | N/A |
-| 30 | [daramy](http://twitter.com/search?q=daramy) | N/A |
-| 31 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 32 | [troels](http://twitter.com/search?q=troels) | N/A |
-| 33 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 34 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
-| 35 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 36 | [World Cup](http://twitter.com/search?q=World+Cup) | N/A |
-| 37 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
-| 38 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 39 | [brøndby](http://twitter.com/search?q=br%c3%b8ndby) | N/A |
-| 40 | [sandt](http://twitter.com/search?q=sandt) | N/A |
-| 41 | [parken](http://twitter.com/search?q=parken) | N/A |
-| 42 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
-| 43 | [Strade Bianche](http://twitter.com/search?q=Strade+Bianche) | N/A |
-| 44 | [Xbox](http://twitter.com/search?q=Xbox) | N/A |
-| 45 | [Fauci](http://twitter.com/search?q=Fauci) | N/A |
-| 46 | [Mikkel](http://twitter.com/search?q=Mikkel) | N/A |
-| 47 | [slimane](http://twitter.com/search?q=slimane) | N/A |
-| 48 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
-| 49 | [The EU](http://twitter.com/search?q=The+EU) | N/A |
-| 50 | [regeringen](http://twitter.com/search?q=regeringen) | N/A |
+| 28 | [roskilde](http://twitter.com/search?q=roskilde) | N/A |
+| 29 | [daramy](http://twitter.com/search?q=daramy) | N/A |
+| 30 | [Nordic](http://twitter.com/search?q=Nordic) | N/A |
+| 31 | [hedlund](http://twitter.com/search?q=hedlund) | N/A |
+| 32 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 33 | [troels](http://twitter.com/search?q=troels) | N/A |
+| 34 | [European](http://twitter.com/search?q=European) | N/A |
+| 35 | [transnistrien](http://twitter.com/search?q=transnistrien) | N/A |
+| 36 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
+| 37 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
+| 38 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
+| 39 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 40 | [World Cup](http://twitter.com/search?q=World+Cup) | N/A |
+| 41 | [brøndby](http://twitter.com/search?q=br%c3%b8ndby) | N/A |
+| 42 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 43 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
+| 44 | [sandt](http://twitter.com/search?q=sandt) | N/A |
+| 45 | [parken](http://twitter.com/search?q=parken) | N/A |
+| 46 | [Strade Bianche](http://twitter.com/search?q=Strade+Bianche) | N/A |
+| 47 | [Xbox](http://twitter.com/search?q=Xbox) | N/A |
+| 48 | [Fauci](http://twitter.com/search?q=Fauci) | N/A |
+| 49 | [regeringen](http://twitter.com/search?q=regeringen) | N/A |
+| 50 | [mikkel](http://twitter.com/search?q=mikkel) | N/A |
 
 
 

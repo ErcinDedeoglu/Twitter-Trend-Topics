@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Memphis
 
-📆 Last Updated: `2023-03-02 04:17:18 UTC`
+📆 Last Updated: `2023-03-02 05:16:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
-| 2 | [Kentucky](http://twitter.com/search?q=Kentucky) | Kentucky is a state in the United States located in the east south-central region of the country. It is bordered by seven states, including Virginia to the southeast, Tennessee to the south, Missouri to the west, Illinois and Indiana to the northwest, and Ohio to the northeast. Kentucky is known for its bluegrass music, bourbon whiskey, horse racing, and college basketball. The state's nickname is "The Bluegrass State" due to its fertile soil and abundance of bluegrass. |
-| 3 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
-| 4 | [Vanderbilt](http://twitter.com/search?q=Vanderbilt) | N/A |
-| 5 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 6 | [#Survivor44](http://twitter.com/search?q=%23Survivor44) | N/A |
-| 7 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 8 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
-| 9 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
-| 10 | [#TheWineDownBET](http://twitter.com/search?q=%23TheWineDownBET) | N/A |
-| 11 | [#BBWomenInMusic](http://twitter.com/search?q=%23BBWomenInMusic) | N/A |
-| 12 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
-| 13 | [Jupiter and Venus](http://twitter.com/search?q=Jupiter+and+Venus) | N/A |
-| 14 | [Vandy](http://twitter.com/search?q=Vandy) | Vandy is a nickname for Vanderbilt University, a private research university located in Nashville, Tennessee. The name is derived from the university's namesake, Cornelius Vanderbilt. |
-| 15 | [Donovan Mitchell](http://twitter.com/search?q=Donovan+Mitchell) | Donovan Mitchell is an American professional basketball player who currently plays for the Utah Jazz of the National Basketball Association (NBA). His nickname is "Spida" and he is known for his explosive athleticism and scoring ability. |
-| 16 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
-| 17 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
-| 18 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
-| 19 | [Danhausen](http://twitter.com/search?q=Danhausen) | N/A |
-| 20 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 21 | [Granlund](http://twitter.com/search?q=Granlund) | N/A |
-| 22 | [Broome](http://twitter.com/search?q=Broome) | N/A |
-| 23 | [Hobbs](http://twitter.com/search?q=Hobbs) | N/A |
-| 24 | [Jaden Ivey](http://twitter.com/search?q=Jaden+Ivey) | N/A |
-| 25 | [Tarasenko](http://twitter.com/search?q=Tarasenko) | N/A |
-| 26 | [Hextall](http://twitter.com/search?q=Hextall) | N/A |
-| 27 | [Al Horford](http://twitter.com/search?q=Al+Horford) | Al Horford is a professional basketball player from the Dominican Republic who currently plays for the Philadelphia 76ers of the National Basketball Association (NBA). He is a four-time NBA All-Star and has won two NBA championships with the Boston Celtics. The meaning of Al Horford in English is "a talented basketball player". |
-| 28 | [Wynter](http://twitter.com/search?q=Wynter) | N/A |
-| 29 | [Paul Reed](http://twitter.com/search?q=Paul+Reed) | N/A |
-| 30 | [Jerome and Louie](http://twitter.com/search?q=Jerome+and+Louie) | N/A |
-| 31 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
-| 32 | [Dratini](http://twitter.com/search?q=Dratini) | N/A |
-| 33 | [Maddy](http://twitter.com/search?q=Maddy) | Maddy is a nickname for the name Madeleine, which is of French origin and means "woman of Magdala". |
-| 34 | [Bruce Pearl](http://twitter.com/search?q=Bruce+Pearl) | N/A |
-| 35 | [Taraji](http://twitter.com/search?q=Taraji) | N/A |
-| 36 | [Cason](http://twitter.com/search?q=Cason) | N/A |
-| 37 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 38 | [Carolyn](http://twitter.com/search?q=Carolyn) | N/A |
-| 39 | [Rupp](http://twitter.com/search?q=Rupp) | Rupp is an acronym for the phrase "Recognize, Understand, Prepare, and Perform". It is a strategy used to help people achieve their goals by breaking them down into smaller steps. The idea is to recognize the goal, understand what it will take to reach it, prepare for the journey ahead, and then perform the necessary actions to make it happen. |
-| 40 | [Bryan Danielson](http://twitter.com/search?q=Bryan+Danielson) | N/A |
-| 41 | [Chaka](http://twitter.com/search?q=Chaka) | N/A |
-| 42 | [Thibs](http://twitter.com/search?q=Thibs) | Thibs is an abbreviation for Tom Thibodeau, an American professional basketball coach and former player. He is currently the head coach of the New York Knicks of the National Basketball Association (NBA). |
-| 43 | [Ghana](http://twitter.com/search?q=Ghana) | N/A |
-| 44 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
-| 45 | [Mike Brey](http://twitter.com/search?q=Mike+Brey) | N/A |
-| 46 | [Trapinch](http://twitter.com/search?q=Trapinch) | N/A |
-| 47 | [iKON](http://twitter.com/search?q=iKON) | N/A |
-| 48 | [Goomy](http://twitter.com/search?q=Goomy) | N/A |
+| 1 | [Kentucky](http://twitter.com/search?q=Kentucky) | Kentucky is a state in the United States located in the east south-central region of the country. It is bordered by seven states, including Virginia to the southeast, Tennessee to the south, Missouri to the west, Illinois and Indiana to the northwest, and Ohio to the northeast. Kentucky is known for its bluegrass music, bourbon whiskey, horse racing, and college basketball. The state's nickname is "The Bluegrass State" due to its fertile soil and abundance of bluegrass. |
+| 2 | [Vanderbilt](http://twitter.com/search?q=Vanderbilt) | N/A |
+| 3 | [JCOLE](http://twitter.com/search?q=JCOLE) | N/A |
+| 4 | [#BBWomenInMusic](http://twitter.com/search?q=%23BBWomenInMusic) | N/A |
+| 5 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
+| 6 | [JHOPE](http://twitter.com/search?q=JHOPE) | N/A |
+| 7 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 8 | [#Survivor44](http://twitter.com/search?q=%23Survivor44) | N/A |
+| 9 | [jihyo](http://twitter.com/search?q=jihyo) | Jihyo is a Korean given name, usually for females. It is composed of two characters, the first meaning "wisdom" and the second meaning "beauty". In English, it can be translated to mean "wise beauty". |
+| 10 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 11 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
+| 12 | [Billboard](http://twitter.com/search?q=Billboard) | N/A |
+| 13 | [#TheWineDownBET](http://twitter.com/search?q=%23TheWineDownBET) | N/A |
+| 14 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
+| 15 | [becky g](http://twitter.com/search?q=becky+g) | N/A |
+| 16 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 17 | [Jupiter and Venus](http://twitter.com/search?q=Jupiter+and+Venus) | N/A |
+| 18 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
+| 19 | [tzuyu](http://twitter.com/search?q=tzuyu) | Tzuyu is a Taiwanese singer and member of the K-pop girl group Twice. Her name is derived from the Taiwanese phrase "tzyu yu," which means "the most beautiful." |
+| 20 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
+| 21 | [Dratini](http://twitter.com/search?q=Dratini) | N/A |
+| 22 | [COLE WORLD](http://twitter.com/search?q=COLE+WORLD) | N/A |
+| 23 | [Vandy](http://twitter.com/search?q=Vandy) | Vandy is a nickname for Vanderbilt University, a private research university located in Nashville, Tennessee. The name is derived from the university's namesake, Cornelius Vanderbilt. |
+| 24 | [Donovan Mitchell](http://twitter.com/search?q=Donovan+Mitchell) | Donovan Mitchell is an American professional basketball player who currently plays for the Utah Jazz of the National Basketball Association (NBA). His nickname is "Spida" and he is known for his explosive athleticism and scoring ability. |
+| 25 | [Jalen Brunson](http://twitter.com/search?q=Jalen+Brunson) | Jalen Brunson is an American professional basketball player who currently plays for the Dallas Mavericks of the National Basketball Association (NBA). His name is a combination of his father's first name, John, and his mother's first name, Lenora. |
+| 26 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
+| 27 | [Danhausen](http://twitter.com/search?q=Danhausen) | N/A |
+| 28 | [Necas](http://twitter.com/search?q=Necas) | N/A |
+| 29 | [Hawaii](http://twitter.com/search?q=Hawaii) | N/A |
+| 30 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
+| 31 | [Mizzou](http://twitter.com/search?q=Mizzou) | Mizzou is the nickname for the University of Missouri. It is a combination of the words "Missouri" and "zou," which is a reference to the school's mascot, the Tiger. |
+| 32 | [Goomy](http://twitter.com/search?q=Goomy) | N/A |
+| 33 | [Wynter](http://twitter.com/search?q=Wynter) | N/A |
+| 34 | [Gible](http://twitter.com/search?q=Gible) | N/A |
+| 35 | [Granlund](http://twitter.com/search?q=Granlund) | N/A |
+| 36 | [Chaka](http://twitter.com/search?q=Chaka) | N/A |
+| 37 | [Broome](http://twitter.com/search?q=Broome) | N/A |
+| 38 | [Trapinch](http://twitter.com/search?q=Trapinch) | N/A |
+| 39 | [Noibat](http://twitter.com/search?q=Noibat) | N/A |
+| 40 | [Bruce Pearl](http://twitter.com/search?q=Bruce+Pearl) | N/A |
+| 41 | [Dreepy](http://twitter.com/search?q=Dreepy) | N/A |
+| 42 | [Meghan Trainor](http://twitter.com/search?q=Meghan+Trainor) | N/A |
+| 43 | [Schmid](http://twitter.com/search?q=Schmid) | N/A |
+| 44 | [Jaden Ivey](http://twitter.com/search?q=Jaden+Ivey) | N/A |
+| 45 | [Jerome and Louie](http://twitter.com/search?q=Jerome+and+Louie) | N/A |
+| 46 | [Annunen](http://twitter.com/search?q=Annunen) | N/A |
+| 47 | [Mike Miles](http://twitter.com/search?q=Mike+Miles) | Mike Miles is a slang term used to describe someone who is extremely ambitious and driven. It is often used to describe someone who is determined to succeed in whatever they set out to do. |
+| 48 | [iKON](http://twitter.com/search?q=iKON) | N/A |
 
 
 

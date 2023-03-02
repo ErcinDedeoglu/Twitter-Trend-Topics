@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jaipur
 
-📆 Last Updated: `2023-03-02 04:17:09 UTC`
+📆 Last Updated: `2023-03-02 05:16:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [India](</India>)
 | ------- | ------------ | ------------ |
 | 1 | [#बोधदिवस_पर_विशालभंडारा](http://twitter.com/search?q=%23%e0%a4%ac%e0%a5%8b%e0%a4%a7%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a4%b8_%e0%a4%aa%e0%a4%b0_%e0%a4%b5%e0%a4%bf%e0%a4%b6%e0%a4%be%e0%a4%b2%e0%a4%ad%e0%a4%82%e0%a4%a1%e0%a4%be%e0%a4%b0%e0%a4%be) | N/A |
 | 2 | [2 Days Left For Bodh Diwas](http://twitter.com/search?q=2+Days+Left+For+Bodh+Diwas) | N/A |
-| 3 | [#करोड़ों_महिलाओं_की_पुकार](http://twitter.com/search?q=%23%e0%a4%95%e0%a4%b0%e0%a5%8b%e0%a4%a1%e0%a4%bc%e0%a5%8b%e0%a4%82_%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be%e0%a4%93%e0%a4%82_%e0%a4%95%e0%a5%80_%e0%a4%aa%e0%a5%81%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
-| 4 | [#KidsParentsSession](http://twitter.com/search?q=%23KidsParentsSession) | N/A |
-| 5 | [#GenerationBridge](http://twitter.com/search?q=%23GenerationBridge) | N/A |
-| 6 | [#electionresults2023](http://twitter.com/search?q=%23electionresults2023) | N/A |
-| 7 | [भारत कोकिला](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4+%e0%a4%95%e0%a5%8b%e0%a4%95%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
-| 8 | [Fair Proceeding](http://twitter.com/search?q=Fair+Proceeding) | N/A |
+| 3 | [#HBDHanumanBeniwal](http://twitter.com/search?q=%23HBDHanumanBeniwal) | N/A |
+| 4 | [#Thalaivar170](http://twitter.com/search?q=%23Thalaivar170) | N/A |
+| 5 | [भारत कोकिला](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4+%e0%a4%95%e0%a5%8b%e0%a4%95%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
+| 6 | [J COLE](http://twitter.com/search?q=J+COLE) | N/A |
+| 7 | [#SarojiniNaidu](http://twitter.com/search?q=%23SarojiniNaidu) | N/A |
+| 8 | [#electionresults2023](http://twitter.com/search?q=%23electionresults2023) | N/A |
 | 9 | [सरोजिनी नायडू](http://twitter.com/search?q=%e0%a4%b8%e0%a4%b0%e0%a5%8b%e0%a4%9c%e0%a4%bf%e0%a4%a8%e0%a5%80+%e0%a4%a8%e0%a4%be%e0%a4%af%e0%a4%a1%e0%a5%82) | N/A |
 | 10 | [प्रथम महिला](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a5%e0%a4%ae+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
-| 11 | [Sant Shri Asharamji Bapu](http://twitter.com/search?q=Sant+Shri+Asharamji+Bapu) | N/A |
+| 11 | [Fair Proceeding](http://twitter.com/search?q=Fair+Proceeding) | N/A |
 | 12 | [श्री हरि](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b9%e0%a4%b0%e0%a4%bf) | N/A |
-| 13 | [G20 Foreign Ministers](http://twitter.com/search?q=G20+Foreign+Ministers) | N/A |
-| 14 | [राष्ट्रीय लोकतांत्रिक पार्टी](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%b2%e0%a5%8b%e0%a4%95%e0%a4%a4%e0%a4%be%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%bf%e0%a4%95+%e0%a4%aa%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9f%e0%a5%80) | N/A |
-| 15 | [श्री हनुमान बेनीवाल](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b9%e0%a4%a8%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%a8+%e0%a4%ac%e0%a5%87%e0%a4%a8%e0%a5%80%e0%a4%b5%e0%a4%be%e0%a4%b2) | N/A |
+| 13 | [Sant Shri Asharamji Bapu](http://twitter.com/search?q=Sant+Shri+Asharamji+Bapu) | N/A |
+| 14 | [श्री हनुमान बेनीवाल](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b9%e0%a4%a8%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%a8+%e0%a4%ac%e0%a5%87%e0%a4%a8%e0%a5%80%e0%a4%b5%e0%a4%be%e0%a4%b2) | N/A |
+| 15 | [राष्ट्रीय लोकतांत्रिक पार्टी](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%b2%e0%a5%8b%e0%a4%95%e0%a4%a4%e0%a4%be%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%bf%e0%a4%95+%e0%a4%aa%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9f%e0%a5%80) | N/A |
 | 16 | [नमो नारायण](http://twitter.com/search?q=%e0%a4%a8%e0%a4%ae%e0%a5%8b+%e0%a4%a8%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%af%e0%a4%a3) | N/A |
-| 17 | [Nightingale of India](http://twitter.com/search?q=Nightingale+of+India) | N/A |
-| 18 | [यूट्यूब चैनल](http://twitter.com/search?q=%e0%a4%af%e0%a5%82%e0%a4%9f%e0%a5%8d%e0%a4%af%e0%a5%82%e0%a4%ac+%e0%a4%9a%e0%a5%88%e0%a4%a8%e0%a4%b2) | N/A |
-| 19 | [Saint Gurmeet Ram Rahim Ji](http://twitter.com/search?q=Saint+Gurmeet+Ram+Rahim+Ji) | Saint Gurmeet Ram Rahim Ji is a spiritual leader and humanitarian from India. He is the founder of the spiritual organization Dera Sacha Sauda, which promotes social welfare and religious harmony. The name "Gurmeet Ram Rahim Ji" translates to "The Enlightened One, the Compassionate Lord". |
-| 20 | [कबीर सागर](http://twitter.com/search?q=%e0%a4%95%e0%a4%ac%e0%a5%80%e0%a4%b0+%e0%a4%b8%e0%a4%be%e0%a4%97%e0%a4%b0) | N/A |
-| 21 | [Cambridge](http://twitter.com/search?q=Cambridge) | N/A |
-| 22 | [कबीर वाणी](http://twitter.com/search?q=%e0%a4%95%e0%a4%ac%e0%a5%80%e0%a4%b0+%e0%a4%b5%e0%a4%be%e0%a4%a3%e0%a5%80) | N/A |
-| 23 | [कबीर साहेब](http://twitter.com/search?q=%e0%a4%95%e0%a4%ac%e0%a5%80%e0%a4%b0+%e0%a4%b8%e0%a4%be%e0%a4%b9%e0%a5%87%e0%a4%ac) | कबीर साहेब is a phrase used to refer to the poet Kabir, who was a 15th-century Indian mystic poet and saint. The phrase translates to "Kabir, the honorable one" in English. |
-| 24 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 25 | [Bill Gates](http://twitter.com/search?q=Bill+Gates) | N/A |
-| 26 | [Elvish](http://twitter.com/search?q=Elvish) | N/A |
-| 27 | [#Sarojininaidu](http://twitter.com/search?q=%23Sarojininaidu) | N/A |
-| 28 | [#SaveForts_From_Encroachment](http://twitter.com/search?q=%23SaveForts_From_Encroachment) | N/A |
-| 29 | [#Tripura](http://twitter.com/search?q=%23Tripura) | N/A |
-| 30 | [#SSMB28](http://twitter.com/search?q=%23SSMB28) | N/A |
-| 31 | [#HBDHanumanBeniwal](http://twitter.com/search?q=%23HBDHanumanBeniwal) | N/A |
-| 32 | [#NagalandElections2023](http://twitter.com/search?q=%23NagalandElections2023) | N/A |
-| 33 | [#Meghalaya](http://twitter.com/search?q=%23Meghalaya) | N/A |
-| 34 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
-| 35 | [#RiseOfNTK](http://twitter.com/search?q=%23RiseOfNTK) | N/A |
-| 36 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
-| 37 | [#NorthEastElections](http://twitter.com/search?q=%23NorthEastElections) | N/A |
-| 38 | [#AadvikAjithkumar](http://twitter.com/search?q=%23AadvikAjithkumar) | N/A |
-| 39 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
-| 40 | [#KuttyThala](http://twitter.com/search?q=%23KuttyThala) | N/A |
-| 41 | [#Bapuji](http://twitter.com/search?q=%23Bapuji) | N/A |
-| 42 | [#HBDVidyasagar](http://twitter.com/search?q=%23HBDVidyasagar) | N/A |
+| 17 | [G20 Foreign Ministers](http://twitter.com/search?q=G20+Foreign+Ministers) | N/A |
+| 18 | [Nightingale of India](http://twitter.com/search?q=Nightingale+of+India) | N/A |
+| 19 | [Cambridge](http://twitter.com/search?q=Cambridge) | N/A |
+| 20 | [Saint Gurmeet Ram Rahim Ji](http://twitter.com/search?q=Saint+Gurmeet+Ram+Rahim+Ji) | Saint Gurmeet Ram Rahim Ji is a spiritual leader and humanitarian from India. He is the founder of the spiritual organization Dera Sacha Sauda, which promotes social welfare and religious harmony. The name "Gurmeet Ram Rahim Ji" translates to "The Enlightened One, the Compassionate Lord". |
+| 21 | [यूट्यूब चैनल](http://twitter.com/search?q=%e0%a4%af%e0%a5%82%e0%a4%9f%e0%a5%8d%e0%a4%af%e0%a5%82%e0%a4%ac+%e0%a4%9a%e0%a5%88%e0%a4%a8%e0%a4%b2) | N/A |
+| 22 | [पूर्व प्रदेश](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6) | N/A |
+| 23 | [कबीर सागर](http://twitter.com/search?q=%e0%a4%95%e0%a4%ac%e0%a5%80%e0%a4%b0+%e0%a4%b8%e0%a4%be%e0%a4%97%e0%a4%b0) | N/A |
+| 24 | [कबीर वाणी](http://twitter.com/search?q=%e0%a4%95%e0%a4%ac%e0%a5%80%e0%a4%b0+%e0%a4%b5%e0%a4%be%e0%a4%a3%e0%a5%80) | N/A |
+| 25 | [कबीर साहेब](http://twitter.com/search?q=%e0%a4%95%e0%a4%ac%e0%a5%80%e0%a4%b0+%e0%a4%b8%e0%a4%be%e0%a4%b9%e0%a5%87%e0%a4%ac) | कबीर साहेब is a phrase used to refer to the poet Kabir, who was a 15th-century Indian mystic poet and saint. The phrase translates to "Kabir, the honorable one" in English. |
+| 26 | [Bill Gates](http://twitter.com/search?q=Bill+Gates) | N/A |
+| 27 | [G-20](http://twitter.com/search?q=G-20) | N/A |
+| 28 | [#KidsParentsSession](http://twitter.com/search?q=%23KidsParentsSession) | N/A |
+| 29 | [#GenerationBridge](http://twitter.com/search?q=%23GenerationBridge) | N/A |
+| 30 | [#G20SummitHaryana](http://twitter.com/search?q=%23G20SummitHaryana) | N/A |
+| 31 | [#SaveForts_From_Encroachment](http://twitter.com/search?q=%23SaveForts_From_Encroachment) | N/A |
+| 32 | [#SSMB28](http://twitter.com/search?q=%23SSMB28) | N/A |
+| 33 | [#TripuraElection2023](http://twitter.com/search?q=%23TripuraElection2023) | N/A |
+| 34 | [#करोड़ों_महिलाओं_की_पुकार](http://twitter.com/search?q=%23%e0%a4%95%e0%a4%b0%e0%a5%8b%e0%a4%a1%e0%a4%bc%e0%a5%8b%e0%a4%82_%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be%e0%a4%93%e0%a4%82_%e0%a4%95%e0%a5%80_%e0%a4%aa%e0%a5%81%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
+| 35 | [#Tripura](http://twitter.com/search?q=%23Tripura) | N/A |
+| 36 | [#NorthEastElections](http://twitter.com/search?q=%23NorthEastElections) | N/A |
+| 37 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
+| 38 | [#RiseOfNTK](http://twitter.com/search?q=%23RiseOfNTK) | N/A |
+| 39 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
+| 40 | [#MaheshBabu𓃵](http://twitter.com/search?q=%23MaheshBabu%f0%93%83%b5) | N/A |
+| 41 | [#railway_level1_waiting_do](http://twitter.com/search?q=%23railway_level1_waiting_do) | N/A |
+| 42 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
 | 43 | [#GauriKhan](http://twitter.com/search?q=%23GauriKhan) | N/A |
-| 44 | [#BBWomenInMusic](http://twitter.com/search?q=%23BBWomenInMusic) | N/A |
-| 45 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 46 | [#TWICE_BreakthroughAward](http://twitter.com/search?q=%23TWICE_BreakthroughAward) | N/A |
-| 47 | [#AssemblyElection2023](http://twitter.com/search?q=%23AssemblyElection2023) | N/A |
-| 48 | [#रसोई_गैस_दाम_कम_करो](http://twitter.com/search?q=%23%e0%a4%b0%e0%a4%b8%e0%a5%8b%e0%a4%88_%e0%a4%97%e0%a5%88%e0%a4%b8_%e0%a4%a6%e0%a4%be%e0%a4%ae_%e0%a4%95%e0%a4%ae_%e0%a4%95%e0%a4%b0%e0%a5%8b) | N/A |
-| 49 | [#PintuNanda](http://twitter.com/search?q=%23PintuNanda) | N/A |
-| 50 | [#MSP_किसान_का_हक](http://twitter.com/search?q=%23MSP_%e0%a4%95%e0%a4%bf%e0%a4%b8%e0%a4%be%e0%a4%a8_%e0%a4%95%e0%a4%be_%e0%a4%b9%e0%a4%95) | N/A |
+| 44 | [#HappyBirthdayAadvikAjith](http://twitter.com/search?q=%23HappyBirthdayAadvikAjith) | N/A |
+| 45 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
+| 46 | [#HBDVidyasagar](http://twitter.com/search?q=%23HBDVidyasagar) | N/A |
+| 47 | [#EVKSElangovan](http://twitter.com/search?q=%23EVKSElangovan) | N/A |
+| 48 | [#BBWomenInMusic](http://twitter.com/search?q=%23BBWomenInMusic) | N/A |
+| 49 | [#KuttyThala](http://twitter.com/search?q=%23KuttyThala) | N/A |
+| 50 | [#sagardighi](http://twitter.com/search?q=%23sagardighi) | N/A |
 
 
 
