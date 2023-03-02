@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Singapore
 
-📆 Last Updated: `2023-03-02 21:17:09 UTC`
+📆 Last Updated: `2023-03-02 22:16:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,7 +19,7 @@ This is top 50 for Singapore
 | 2 | [#MoonlightChickenFinalEP](http://twitter.com/search?q=%23MoonlightChickenFinalEP) | N/A |
 | 3 | [#BBWomenInMusic](http://twitter.com/search?q=%23BBWomenInMusic) | N/A |
 | 4 | [5M BUILD](http://twitter.com/search?q=5M+BUILD) | N/A |
-| 5 | [#2AndHalfMWithBuild](http://twitter.com/search?q=%232AndHalfMWithBuild) | N/A |
+| 5 | [#2andhalfmwithbuild](http://twitter.com/search?q=%232andhalfmwithbuild) | N/A |
 | 6 | [jcole](http://twitter.com/search?q=jcole) | N/A |
 | 7 | [HOORAY FOR 2](http://twitter.com/search?q=HOORAY+FOR+2) | N/A |
 | 8 | [jhope](http://twitter.com/search?q=jhope) | N/A |
@@ -28,14 +28,14 @@ This is top 50 for Singapore
 | 11 | [#FREENBECKxFANDOMLIVE](http://twitter.com/search?q=%23FREENBECKxFANDOMLIVE) | N/A |
 | 12 | [haruto](http://twitter.com/search?q=haruto) | N/A |
 | 13 | [STOP MISTREATING MILE](http://twitter.com/search?q=STOP+MISTREATING+MILE) | N/A |
-| 14 | [GoSe](http://twitter.com/search?q=GoSe) | N/A |
-| 15 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 16 | [Pika](http://twitter.com/search?q=Pika) | N/A |
-| 17 | [mnet](http://twitter.com/search?q=mnet) | N/A |
-| 18 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 19 | [much love for kiano](http://twitter.com/search?q=much+love+for+kiano) | N/A |
-| 20 | [Lindelof](http://twitter.com/search?q=Lindelof) | Lindelof is a surname of Swedish origin. It is derived from the Old Norse name Lindalófr, which means "linden leaf" or "linden tree". In English, the name can be translated to mean "beloved of the linden tree". |
-| 21 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
+| 14 | [gose](http://twitter.com/search?q=gose) | N/A |
+| 15 | [Pika](http://twitter.com/search?q=Pika) | N/A |
+| 16 | [mnet](http://twitter.com/search?q=mnet) | N/A |
+| 17 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 18 | [much love for kiano](http://twitter.com/search?q=much+love+for+kiano) | N/A |
+| 19 | [Lindelof](http://twitter.com/search?q=Lindelof) | Lindelof is a surname of Swedish origin. It is derived from the Old Norse name Lindalófr, which means "linden leaf" or "linden tree". In English, the name can be translated to mean "beloved of the linden tree". |
+| 20 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
+| 21 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
 | 22 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
 | 23 | [Ollie](http://twitter.com/search?q=Ollie) | N/A |
 | 24 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |

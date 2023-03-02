@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Petaling
 
-📆 Last Updated: `2023-03-02 21:17:10 UTC`
+📆 Last Updated: `2023-03-02 22:16:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,7 +20,7 @@ This is top 50 for [Malaysia](</Malaysia>)
 | 3 | [#MoonlightChickenFinalEP](http://twitter.com/search?q=%23MoonlightChickenFinalEP) | N/A |
 | 4 | [Top 5](http://twitter.com/search?q=Top+5) | Top 5 is a phrase used to refer to the five best or most popular items in a particular category. It is commonly used to refer to the five best movies, songs, books, or other items in a given field. |
 | 5 | [#TWICE_BreakthroughAward](http://twitter.com/search?q=%23TWICE_BreakthroughAward) | N/A |
-| 6 | [#BBWomenInMusic](http://twitter.com/search?q=%23BBWomenInMusic) | N/A |
+| 6 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
 | 7 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
 | 8 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
 | 9 | [Red Velvet](http://twitter.com/search?q=Red+Velvet) | N/A |
@@ -37,32 +37,32 @@ This is top 50 for [Malaysia](</Malaysia>)
 | 20 | [teh ais](http://twitter.com/search?q=teh+ais) | N/A |
 | 21 | [Doha](http://twitter.com/search?q=Doha) | N/A |
 | 22 | [Mino](http://twitter.com/search?q=Mino) | N/A |
-| 23 | [Green Tea](http://twitter.com/search?q=Green+Tea) | N/A |
-| 24 | [jiho](http://twitter.com/search?q=jiho) | N/A |
-| 25 | [Selangor](http://twitter.com/search?q=Selangor) | N/A |
-| 26 | [TWICE BILLBOARD AWARD](http://twitter.com/search?q=TWICE+BILLBOARD+AWARD) | N/A |
-| 27 | [5M BUILD](http://twitter.com/search?q=5M+BUILD) | N/A |
-| 28 | [HOORAY FOR 2](http://twitter.com/search?q=HOORAY+FOR+2) | N/A |
-| 29 | [New Jeans](http://twitter.com/search?q=New+Jeans) | N/A |
-| 30 | [sam levinson](http://twitter.com/search?q=sam+levinson) | N/A |
-| 31 | [plain water](http://twitter.com/search?q=plain+water) | N/A |
-| 32 | [Cong](http://twitter.com/search?q=Cong) | N/A |
-| 33 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 34 | [Super Junior](http://twitter.com/search?q=Super+Junior) | N/A |
-| 35 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 36 | [Pejuang](http://twitter.com/search?q=Pejuang) | N/A |
-| 37 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
-| 38 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 39 | [Iced Latte](http://twitter.com/search?q=Iced+Latte) | N/A |
-| 40 | [100 MILLION SUGAR RUSH RIDE](http://twitter.com/search?q=100+MILLION+SUGAR+RUSH+RIDE) | N/A |
-| 41 | [done mai](http://twitter.com/search?q=done+mai) | N/A |
-| 42 | [Caramel Macchiato](http://twitter.com/search?q=Caramel+Macchiato) | N/A |
-| 43 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 44 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 45 | [Fergie](http://twitter.com/search?q=Fergie) | N/A |
-| 46 | [Brooklyn 99](http://twitter.com/search?q=Brooklyn+99) | N/A |
-| 47 | [sunscreen - 3w](http://twitter.com/search?q=sunscreen+-+3w) | N/A |
-| 48 | [eric chou](http://twitter.com/search?q=eric+chou) | N/A |
+| 23 | [jiho](http://twitter.com/search?q=jiho) | N/A |
+| 24 | [Selangor](http://twitter.com/search?q=Selangor) | N/A |
+| 25 | [TWICE BILLBOARD AWARD](http://twitter.com/search?q=TWICE+BILLBOARD+AWARD) | N/A |
+| 26 | [5M BUILD](http://twitter.com/search?q=5M+BUILD) | N/A |
+| 27 | [HOORAY FOR 2](http://twitter.com/search?q=HOORAY+FOR+2) | N/A |
+| 28 | [New Jeans](http://twitter.com/search?q=New+Jeans) | N/A |
+| 29 | [plain water](http://twitter.com/search?q=plain+water) | N/A |
+| 30 | [Cong](http://twitter.com/search?q=Cong) | N/A |
+| 31 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 32 | [Super Junior](http://twitter.com/search?q=Super+Junior) | N/A |
+| 33 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 34 | [pejuang](http://twitter.com/search?q=pejuang) | N/A |
+| 35 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
+| 36 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 37 | [Iced Latte](http://twitter.com/search?q=Iced+Latte) | N/A |
+| 38 | [100 MILLION SUGAR RUSH RIDE](http://twitter.com/search?q=100+MILLION+SUGAR+RUSH+RIDE) | N/A |
+| 39 | [done mai](http://twitter.com/search?q=done+mai) | N/A |
+| 40 | [Caramel Macchiato](http://twitter.com/search?q=Caramel+Macchiato) | N/A |
+| 41 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 42 | [sam levinson](http://twitter.com/search?q=sam+levinson) | N/A |
+| 43 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
+| 44 | [Fergie](http://twitter.com/search?q=Fergie) | N/A |
+| 45 | [Brooklyn 99](http://twitter.com/search?q=Brooklyn+99) | N/A |
+| 46 | [sunscreen - 3w](http://twitter.com/search?q=sunscreen+-+3w) | N/A |
+| 47 | [eric chou](http://twitter.com/search?q=eric+chou) | N/A |
+| 48 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
 
 
 

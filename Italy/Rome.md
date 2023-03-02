@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rome
 
-📆 Last Updated: `2023-03-02 21:16:32 UTC`
+📆 Last Updated: `2023-03-02 22:16:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#2marzo](http://twitter.com/search?q=%232marzo) | N/A |
-| 2 | [Mattia](http://twitter.com/search?q=Mattia) | N/A |
+| 1 | [#Mattarella](http://twitter.com/search?q=%23Mattarella) | N/A |
+| 2 | [#2marzo](http://twitter.com/search?q=%232marzo) | N/A |
 | 3 | [#Covid](http://twitter.com/search?q=%23Covid) | N/A |
-| 4 | [#Conte](http://twitter.com/search?q=%23Conte) | N/A |
-| 5 | [#MasterChefIt](http://twitter.com/search?q=%23MasterChefIt) | #MasterChefIt is an Italian hashtag used to promote the popular cooking show MasterChef Italia. It is used to share recipes, photos, and videos related to the show. In English, it means "MasterChef Italy". |
+| 4 | [#MasterChefIt](http://twitter.com/search?q=%23MasterChefIt) | #MasterChefIt is an Italian hashtag used to promote the popular cooking show MasterChef Italia. It is used to share recipes, photos, and videos related to the show. In English, it means "MasterChef Italy". |
+| 5 | [Sonia](http://twitter.com/search?q=Sonia) | Sonia is a female given name of Latin origin, derived from the Greek word for "wisdom". It is a popular name in many countries, including India, Italy, France, Spain, and the United States. In English, it is usually pronounced "so-NEE-ah". |
 | 6 | [#CheDioCiAiuti7](http://twitter.com/search?q=%23CheDioCiAiuti7) | #CheDioCiAiuti7 is an Italian hashtag that translates to "May God Help Us 7" in English. It is often used as a prayer or expression of hope for a better future. |
-| 7 | [Bubu](http://twitter.com/search?q=Bubu) | N/A |
-| 8 | [Elettra](http://twitter.com/search?q=Elettra) | N/A |
-| 9 | [Lamborghini](http://twitter.com/search?q=Lamborghini) | N/A |
-| 10 | [Mimmo](http://twitter.com/search?q=Mimmo) | N/A |
-| 11 | [Pamela](http://twitter.com/search?q=Pamela) | N/A |
-| 12 | [Damiano](http://twitter.com/search?q=Damiano) | N/A |
-| 13 | [Adani](http://twitter.com/search?q=Adani) | Adani is a multinational conglomerate based in India. It is involved in the development and operation of infrastructure projects such as ports, power plants, and mines. The name Adani is derived from the Sanskrit word "Adan," which means "the beginning." |
-| 14 | [Feltri](http://twitter.com/search?q=Feltri) | N/A |
-| 15 | [Grosseto](http://twitter.com/search?q=Grosseto) | N/A |
-| 16 | [Manuel](http://twitter.com/search?q=Manuel) | N/A |
-| 17 | [Michela](http://twitter.com/search?q=Michela) | N/A |
-| 18 | [Grazie Presidente](http://twitter.com/search?q=Grazie+Presidente) | N/A |
-| 19 | [Cassano](http://twitter.com/search?q=Cassano) | N/A |
-| 20 | [Dante](http://twitter.com/search?q=Dante) | N/A |
-| 21 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
-| 22 | [Charles](http://twitter.com/search?q=Charles) | N/A |
-| 23 | [Viola](http://twitter.com/search?q=Viola) | N/A |
-| 24 | [Giove](http://twitter.com/search?q=Giove) | N/A |
-| 25 | [Gallera](http://twitter.com/search?q=Gallera) | N/A |
-| 26 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
-| 27 | [#HarryPotter](http://twitter.com/search?q=%23HarryPotter) | N/A |
-| 28 | [#SplendidaCornice](http://twitter.com/search?q=%23SplendidaCornice) | N/A |
-| 29 | [#gfvipparty](http://twitter.com/search?q=%23gfvipparty) | N/A |
-| 30 | [#piazzapulita](http://twitter.com/search?q=%23piazzapulita) | N/A |
-| 31 | [#DrittoeRovescio](http://twitter.com/search?q=%23DrittoeRovescio) | N/A |
-| 32 | [#upas](http://twitter.com/search?q=%23upas) | N/A |
-| 33 | [#NextGenVicenza](http://twitter.com/search?q=%23NextGenVicenza) | N/A |
-| 34 | [#Rampelli](http://twitter.com/search?q=%23Rampelli) | N/A |
-| 35 | [#RealMadridBarcelona](http://twitter.com/search?q=%23RealMadridBarcelona) | N/A |
-| 36 | [#JuveNextGen](http://twitter.com/search?q=%23JuveNextGen) | N/A |
-| 37 | [#WayneShorter](http://twitter.com/search?q=%23WayneShorter) | N/A |
-| 38 | [#StaseraItalia](http://twitter.com/search?q=%23StaseraItalia) | N/A |
-| 39 | [#blob](http://twitter.com/search?q=%23blob) | N/A |
-| 40 | [#ErmalMeta](http://twitter.com/search?q=%23ErmalMeta) | N/A |
-| 41 | [#solearmy](http://twitter.com/search?q=%23solearmy) | N/A |
-| 42 | [#lockdown](http://twitter.com/search?q=%23lockdown) | N/A |
-| 43 | [#DontForgetTheLyrics](http://twitter.com/search?q=%23DontForgetTheLyrics) | N/A |
-| 44 | [#Mattarella](http://twitter.com/search?q=%23Mattarella) | N/A |
-| 45 | [#VivarelliColonna](http://twitter.com/search?q=%23VivarelliColonna) | N/A |
-| 46 | [#naufragioCrotone](http://twitter.com/search?q=%23naufragioCrotone) | N/A |
-| 47 | [#Cardinale](http://twitter.com/search?q=%23Cardinale) | N/A |
-| 48 | [#Bergamo](http://twitter.com/search?q=%23Bergamo) | N/A |
-| 49 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
+| 7 | [Alfonso](http://twitter.com/search?q=Alfonso) | Alfonso is a Spanish name derived from the Germanic name Adalfuns, which means "noble and ready". It is also the name of several Spanish kings. |
+| 8 | [Orietta](http://twitter.com/search?q=Orietta) | Orietta is an Italian female name derived from the Latin word "aurum" meaning "gold". It is also a variant of the name Oriana, which means "dawn". |
+| 9 | [Tavassi](http://twitter.com/search?q=Tavassi) | N/A |
+| 10 | [Mattia](http://twitter.com/search?q=Mattia) | N/A |
+| 11 | [Bubu](http://twitter.com/search?q=Bubu) | N/A |
+| 12 | [Piton](http://twitter.com/search?q=Piton) | Piton is a French word that refers to a metal spike or peg used in mountaineering. It is driven into the rock face to provide an anchor point for a rope or other climbing equipment. In English, it is commonly referred to as a piton or piton spike. |
+| 13 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
+| 14 | [VEDRAI QUANDO ESCI](http://twitter.com/search?q=VEDRAI+QUANDO+ESCI) | N/A |
+| 15 | [Lavinia](http://twitter.com/search?q=Lavinia) | Lavinia is a female given name of Latin origin, derived from the Roman family name Laviniu. It is thought to mean "purity" or "cleanliness". |
+| 16 | [Signorini](http://twitter.com/search?q=Signorini) | N/A |
+| 17 | [Emiliano](http://twitter.com/search?q=Emiliano) | N/A |
+| 18 | [Gianluca](http://twitter.com/search?q=Gianluca) | N/A |
+| 19 | [Bombetta](http://twitter.com/search?q=Bombetta) | N/A |
+| 20 | [Suor Teresa](http://twitter.com/search?q=Suor+Teresa) | N/A |
+| 21 | [Azzurra](http://twitter.com/search?q=Azzurra) | N/A |
+| 22 | [Bonolis](http://twitter.com/search?q=Bonolis) | N/A |
+| 23 | [Francescone](http://twitter.com/search?q=Francescone) | N/A |
+| 24 | [Vico Equense](http://twitter.com/search?q=Vico+Equense) | N/A |
+| 25 | [Barbieri](http://twitter.com/search?q=Barbieri) | Barbieri is an Italian surname. It is derived from the Latin word "barba", meaning "beard". The name is thought to have been given to someone who had a particularly thick or long beard. In English, the name Barbieri means "bearded one". |
+| 26 | [Berti](http://twitter.com/search?q=Berti) | N/A |
+| 27 | [Elettra](http://twitter.com/search?q=Elettra) | N/A |
+| 28 | [Corinna](http://twitter.com/search?q=Corinna) | N/A |
+| 29 | [Donnalisi](http://twitter.com/search?q=Donnalisi) | N/A |
+| 30 | [Voldemort](http://twitter.com/search?q=Voldemort) | N/A |
+| 31 | [Lamborghini](http://twitter.com/search?q=Lamborghini) | N/A |
+| 32 | [Pamela](http://twitter.com/search?q=Pamela) | N/A |
+| 33 | [Emma](http://twitter.com/search?q=Emma) | Emma is a feminine given name derived from the Germanic word ermen, meaning “whole” or “universal.” It is also a diminutive form of the name Emily. Emma is a popular name in many English-speaking countries, including the United States, Canada, Australia, and New Zealand. |
+| 34 | [Mimmo](http://twitter.com/search?q=Mimmo) | N/A |
+| 35 | [Damiano](http://twitter.com/search?q=Damiano) | N/A |
+| 36 | [Feltri](http://twitter.com/search?q=Feltri) | N/A |
+| 37 | [Adani](http://twitter.com/search?q=Adani) | Adani is a multinational conglomerate based in India. It is involved in the development and operation of infrastructure projects such as ports, power plants, and mines. The name Adani is derived from the Sanskrit word "Adan," which means "the beginning." |
+| 38 | [Michela](http://twitter.com/search?q=Michela) | N/A |
+| 39 | [Grazie Presidente](http://twitter.com/search?q=Grazie+Presidente) | N/A |
+| 40 | [Cassano](http://twitter.com/search?q=Cassano) | N/A |
+| 41 | [Manuel](http://twitter.com/search?q=Manuel) | N/A |
+| 42 | [Dante](http://twitter.com/search?q=Dante) | N/A |
+| 43 | [Viola](http://twitter.com/search?q=Viola) | N/A |
+| 44 | [Giove](http://twitter.com/search?q=Giove) | N/A |
+| 45 | [Grosseto](http://twitter.com/search?q=Grosseto) | N/A |
+| 46 | [Gallera](http://twitter.com/search?q=Gallera) | N/A |
+| 47 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
+| 48 | [Gerry](http://twitter.com/search?q=Gerry) | N/A |
+| 49 | [#HarryPotter](http://twitter.com/search?q=%23HarryPotter) | N/A |
+| 50 | [#Piazzapulita](http://twitter.com/search?q=%23Piazzapulita) | N/A |
 
 
 

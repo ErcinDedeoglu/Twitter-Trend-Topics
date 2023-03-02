@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Porto Alegre
 
-📆 Last Updated: `2023-03-02 21:16:25 UTC`
+📆 Last Updated: `2023-03-02 22:15:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Brazil](</Brazil>)
 | ------- | ------------ | ------------ |
 | 1 | [Arena](http://twitter.com/search?q=Arena) | N/A |
 | 2 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
-| 3 | [Jong](http://twitter.com/search?q=Jong) | N/A |
-| 4 | [#goLOUD](http://twitter.com/search?q=%23goLOUD) | N/A |
-| 5 | [#CopaDoReiNaESPN](http://twitter.com/search?q=%23CopaDoReiNaESPN) | N/A |
-| 6 | [Militão](http://twitter.com/search?q=Milit%c3%a3o) | N/A |
-| 7 | [#TBJU](http://twitter.com/search?q=%23TBJU) | N/A |
-| 8 | [Aspas](http://twitter.com/search?q=Aspas) | Aspas is a Spanish word meaning quotation marks or inverted commas. It is used to indicate direct speech or to set off a phrase or word for emphasis. |
-| 9 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
-| 10 | [The Fame](http://twitter.com/search?q=The+Fame) | N/A |
-| 11 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
-| 12 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
-| 13 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
-| 14 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 3 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 4 | [Ansu Fati](http://twitter.com/search?q=Ansu+Fati) | Ansu Fati is the nickname of a Spanish professional footballer, Anssumane Fati. He currently plays for FC Barcelona and the Spanish national team. The name Ansu Fati is derived from his given name, Anssumane, which means "God's gift" in the West African language of Bambara. In English, Ansu Fati translates to "God's Gift". |
+| 5 | [#goLOUD](http://twitter.com/search?q=%23goLOUD) | N/A |
+| 6 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
+| 7 | [#CopaDoReiNaESPN](http://twitter.com/search?q=%23CopaDoReiNaESPN) | N/A |
+| 8 | [Jong](http://twitter.com/search?q=Jong) | N/A |
+| 9 | [Militão](http://twitter.com/search?q=Milit%c3%a3o) | N/A |
+| 10 | [Araújo](http://twitter.com/search?q=Ara%c3%bajo) | N/A |
+| 11 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
+| 12 | [#TBJU](http://twitter.com/search?q=%23TBJU) | N/A |
+| 13 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
+| 14 | [The Fame](http://twitter.com/search?q=The+Fame) | N/A |
 | 15 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
-| 16 | [El Clássico](http://twitter.com/search?q=El+Cl%c3%a1ssico) | N/A |
-| 17 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
-| 18 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 19 | [Ascent](http://twitter.com/search?q=Ascent) | N/A |
-| 20 | [stegen](http://twitter.com/search?q=stegen) | Stegen is a German word that means "dock" or "wharf". It is used to refer to a place where boats can be moored or loaded and unloaded. |
-| 21 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 22 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 23 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
-| 24 | [#VAVANOCORINGA](http://twitter.com/search?q=%23VAVANOCORINGA) | N/A |
-| 25 | [Real Madrid x Barcelona](http://twitter.com/search?q=Real+Madrid+x+Barcelona) | N/A |
-| 26 | [Lauren](http://twitter.com/search?q=Lauren) | N/A |
-| 27 | [Vuaden](http://twitter.com/search?q=Vuaden) | N/A |
-| 28 | [Boca Rosa](http://twitter.com/search?q=Boca+Rosa) | Boca Rosa is a Spanish phrase meaning "pink mouth". It is often used to describe someone who has a pinkish hue to their lips. |
-| 29 | [Dance In The Dark](http://twitter.com/search?q=Dance+In+The+Dark) | N/A |
-| 30 | [Joanne](http://twitter.com/search?q=Joanne) | N/A |
-| 31 | [FAÇA O L IMEDIATAMENTE](http://twitter.com/search?q=FA%c3%87A+O+L+IMEDIATAMENTE) | N/A |
-| 32 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 33 | [Wander Pires](http://twitter.com/search?q=Wander+Pires) | N/A |
-| 34 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 35 | [Mako](http://twitter.com/search?q=Mako) | N/A |
-| 36 | [Diamond Heart](http://twitter.com/search?q=Diamond+Heart) | N/A |
-| 37 | [Petrobras](http://twitter.com/search?q=Petrobras) | N/A |
-| 38 | [Steam](http://twitter.com/search?q=Steam) | N/A |
-| 39 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
-| 40 | [Always Remember Us This Way](http://twitter.com/search?q=Always+Remember+Us+This+Way) | N/A |
-| 41 | [Bolsa Família](http://twitter.com/search?q=Bolsa+Fam%c3%adlia) | N/A |
-| 42 | [Manu](http://twitter.com/search?q=Manu) | N/A |
-| 43 | [Cauanzin](http://twitter.com/search?q=Cauanzin) | N/A |
-| 44 | [Hala Madrid](http://twitter.com/search?q=Hala+Madrid) | N/A |
-| 45 | [John Wayne](http://twitter.com/search?q=John+Wayne) | N/A |
-| 46 | [Poker Face](http://twitter.com/search?q=Poker+Face) | N/A |
-| 47 | [Saad](http://twitter.com/search?q=Saad) | N/A |
-| 48 | [Escandaloso](http://twitter.com/search?q=Escandaloso) | N/A |
-| 49 | [Dembele](http://twitter.com/search?q=Dembele) | Dembele is a surname of West African origin. It is derived from the Mande language and means "peaceful warrior". In English, it can be translated to mean "one who brings peace through strength". |
-| 50 | [tuyz](http://twitter.com/search?q=tuyz) | N/A |
+| 16 | [INTERVENÇÃO DA SUPERCOMBO](http://twitter.com/search?q=INTERVEN%c3%87%c3%83O+DA+SUPERCOMBO) | N/A |
+| 17 | [Aspas](http://twitter.com/search?q=Aspas) | Aspas is a Spanish word meaning quotation marks or inverted commas. It is used to indicate direct speech or to set off a phrase or word for emphasis. |
+| 18 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
+| 19 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
+| 20 | [Stegen](http://twitter.com/search?q=Stegen) | N/A |
+| 21 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 22 | [#ElClasico](http://twitter.com/search?q=%23ElClasico) | #ElClasico is a term used to refer to the football (soccer) match between two of the biggest clubs in Spain, Real Madrid and FC Barcelona. It is one of the most highly anticipated matches in world football and is considered to be one of the greatest rivalries in sport. In English, it translates to "The Classic". |
+| 23 | [Ferran Torres](http://twitter.com/search?q=Ferran+Torres) | N/A |
+| 24 | [PINA](http://twitter.com/search?q=PINA) | N/A |
+| 25 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
+| 26 | [FAÇA O L IMEDIATAMENTE](http://twitter.com/search?q=FA%c3%87A+O+L+IMEDIATAMENTE) | N/A |
+| 27 | [Bernabeu](http://twitter.com/search?q=Bernabeu) | N/A |
+| 28 | [UM MILHAO DO DR FRED](http://twitter.com/search?q=UM+MILHAO+DO+DR+FRED) | N/A |
+| 29 | [Cauanzin](http://twitter.com/search?q=Cauanzin) | N/A |
+| 30 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
+| 31 | [ascent](http://twitter.com/search?q=ascent) | N/A |
+| 32 | [TAMO NA FINAL](http://twitter.com/search?q=TAMO+NA+FINAL) | N/A |
+| 33 | [Mako](http://twitter.com/search?q=Mako) | N/A |
+| 34 | [Reinaldo Azevedo](http://twitter.com/search?q=Reinaldo+Azevedo) | N/A |
+| 35 | [Joanne](http://twitter.com/search?q=Joanne) | N/A |
+| 36 | [Dembele](http://twitter.com/search?q=Dembele) | Dembele is a surname of West African origin. It is derived from the Mande language and means "peaceful warrior". In English, it can be translated to mean "one who brings peace through strength". |
+| 37 | [jett](http://twitter.com/search?q=jett) | N/A |
+| 38 | [DORI](http://twitter.com/search?q=DORI) | N/A |
+| 39 | [Lewa](http://twitter.com/search?q=Lewa) | N/A |
+| 40 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 41 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
+| 42 | [Vuaden](http://twitter.com/search?q=Vuaden) | N/A |
+| 43 | [Always Remember Us This Way](http://twitter.com/search?q=Always+Remember+Us+This+Way) | N/A |
+| 44 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
+| 45 | [Petrobras](http://twitter.com/search?q=Petrobras) | N/A |
+| 46 | [Boca Rosa](http://twitter.com/search?q=Boca+Rosa) | Boca Rosa is a Spanish phrase meaning "pink mouth". It is often used to describe someone who has a pinkish hue to their lips. |
+| 47 | [Lauren](http://twitter.com/search?q=Lauren) | N/A |
+| 48 | [Wander Pires](http://twitter.com/search?q=Wander+Pires) | N/A |
+| 49 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
+| 50 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
 
 
 

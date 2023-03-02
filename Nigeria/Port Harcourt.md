@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Harcourt
 
-📆 Last Updated: `2023-03-02 21:16:44 UTC`
+📆 Last Updated: `2023-03-02 22:16:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Nigeria](</Nigeria>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Monaco](http://twitter.com/search?q=Monaco) | N/A |
+| 1 | [#ElClasico](http://twitter.com/search?q=%23ElClasico) | #ElClasico is a term used to refer to the football (soccer) match between two of the biggest clubs in Spain, Real Madrid and FC Barcelona. It is one of the most highly anticipated matches in world football and is considered to be one of the greatest rivalries in sport. In English, it translates to "The Classic". |
 | 2 | [#RecoverAtikusMandate](http://twitter.com/search?q=%23RecoverAtikusMandate) | N/A |
-| 3 | [#AtikuMyPresident](http://twitter.com/search?q=%23AtikuMyPresident) | N/A |
-| 4 | [#SportsbetioXCopaDelRey](http://twitter.com/search?q=%23SportsbetioXCopaDelRey) | N/A |
+| 3 | [Monaco](http://twitter.com/search?q=Monaco) | N/A |
+| 4 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
 | 5 | [Adamu](http://twitter.com/search?q=Adamu) | N/A |
 | 6 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 7 | [Leak](http://twitter.com/search?q=Leak) | N/A |
-| 8 | [Aisha Yesufu](http://twitter.com/search?q=Aisha+Yesufu) | N/A |
-| 9 | [Waist](http://twitter.com/search?q=Waist) | N/A |
-| 10 | [Waste](http://twitter.com/search?q=Waste) | N/A |
-| 11 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 7 | [#SportsbetioXCopaDelRey](http://twitter.com/search?q=%23SportsbetioXCopaDelRey) | N/A |
+| 8 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
+| 9 | [Ansu Fati](http://twitter.com/search?q=Ansu+Fati) | Ansu Fati is the nickname of a Spanish professional footballer, Anssumane Fati. He currently plays for FC Barcelona and the Spanish national team. The name Ansu Fati is derived from his given name, Anssumane, which means "God's gift" in the West African language of Bambara. In English, Ansu Fati translates to "God's Gift". |
+| 10 | [Leak](http://twitter.com/search?q=Leak) | N/A |
+| 11 | [Waist](http://twitter.com/search?q=Waist) | N/A |
 | 12 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 13 | [WE WON THE ELECTION](http://twitter.com/search?q=WE+WON+THE+ELECTION) | N/A |
-| 14 | [Hunter x Hunter](http://twitter.com/search?q=Hunter+x+Hunter) | N/A |
-| 15 | [Prove](http://twitter.com/search?q=Prove) | N/A |
-| 16 | [Enoch](http://twitter.com/search?q=Enoch) | N/A |
-| 17 | [Titan](http://twitter.com/search?q=Titan) | Titan is a term used to refer to something that is very large or powerful. It can be used to describe a person, an organization, or an object. In Greek mythology, the Titans were a race of powerful gods who ruled the universe before the Olympian gods. |
-| 18 | [His Excellency](http://twitter.com/search?q=His+Excellency) | N/A |
-| 19 | [Ngige](http://twitter.com/search?q=Ngige) | N/A |
-| 20 | [Proof](http://twitter.com/search?q=Proof) | N/A |
-| 21 | [HE Peter Obi](http://twitter.com/search?q=HE+Peter+Obi) | N/A |
-| 22 | [Transcorp Hilton](http://twitter.com/search?q=Transcorp+Hilton) | N/A |
+| 13 | [Aisha Yesufu](http://twitter.com/search?q=Aisha+Yesufu) | N/A |
+| 14 | [Waste](http://twitter.com/search?q=Waste) | N/A |
+| 15 | [Chi Exotic](http://twitter.com/search?q=Chi+Exotic) | N/A |
+| 16 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
+| 17 | [Enoch](http://twitter.com/search?q=Enoch) | N/A |
+| 18 | [we won the election](http://twitter.com/search?q=we+won+the+election) | N/A |
+| 19 | [Hunter x Hunter](http://twitter.com/search?q=Hunter+x+Hunter) | N/A |
+| 20 | [jujutsu kaisen](http://twitter.com/search?q=jujutsu+kaisen) | N/A |
+| 21 | [Ngige](http://twitter.com/search?q=Ngige) | N/A |
+| 22 | [Titan](http://twitter.com/search?q=Titan) | Titan is a term used to refer to something that is very large or powerful. It can be used to describe a person, an organization, or an object. In Greek mythology, the Titans were a race of powerful gods who ruled the universe before the Olympian gods. |
 | 23 | [Bishop Feyi](http://twitter.com/search?q=Bishop+Feyi) | N/A |
-| 24 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 25 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 26 | [Femi](http://twitter.com/search?q=Femi) | N/A |
-| 27 | [WHAT A MAN](http://twitter.com/search?q=WHAT+A+MAN) | N/A |
-| 28 | [Hope Uzodinma](http://twitter.com/search?q=Hope+Uzodinma) | N/A |
-| 29 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
-| 30 | [Seyi Tinubu](http://twitter.com/search?q=Seyi+Tinubu) | N/A |
-| 31 | [Our President](http://twitter.com/search?q=Our+President) | N/A |
-| 32 | [World Press Conference](http://twitter.com/search?q=World+Press+Conference) | N/A |
-| 33 | [Seun](http://twitter.com/search?q=Seun) | N/A |
-| 34 | [APC in Lagos](http://twitter.com/search?q=APC+in+Lagos) | N/A |
-| 35 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 36 | [Yelisa](http://twitter.com/search?q=Yelisa) | Yelisa is a Spanish name derived from the Hebrew name Elisheva, which means “God is my oath”. In English, it can be translated to mean “God is my promise”. |
+| 24 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
+| 25 | [Prove](http://twitter.com/search?q=Prove) | N/A |
+| 26 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 27 | [His Excellency](http://twitter.com/search?q=His+Excellency) | N/A |
+| 28 | [My Lord](http://twitter.com/search?q=My+Lord) | N/A |
+| 29 | [HE Peter Obi](http://twitter.com/search?q=HE+Peter+Obi) | N/A |
+| 30 | [Femi](http://twitter.com/search?q=Femi) | N/A |
+| 31 | [Proof](http://twitter.com/search?q=Proof) | N/A |
+| 32 | [WHAT A MAN](http://twitter.com/search?q=WHAT+A+MAN) | N/A |
+| 33 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 34 | [Hope Uzodinma](http://twitter.com/search?q=Hope+Uzodinma) | N/A |
+| 35 | [Seyi Tinubu](http://twitter.com/search?q=Seyi+Tinubu) | N/A |
+| 36 | [World Press Conference](http://twitter.com/search?q=World+Press+Conference) | N/A |
 | 37 | [Exhibit 1](http://twitter.com/search?q=Exhibit+1) | N/A |
-| 38 | [Royals](http://twitter.com/search?q=Royals) | N/A |
-| 39 | [Certificate](http://twitter.com/search?q=Certificate) | N/A |
-| 40 | [#ElClasico](http://twitter.com/search?q=%23ElClasico) | #ElClasico is a term used to refer to the football (soccer) match between two of the biggest clubs in Spain, Real Madrid and FC Barcelona. It is one of the most highly anticipated matches in world football and is considered to be one of the greatest rivalries in sport. In English, it translates to "The Classic". |
-| 41 | [#KenyaVsNigeria](http://twitter.com/search?q=%23KenyaVsNigeria) | N/A |
-| 42 | [#NorthEastElections](http://twitter.com/search?q=%23NorthEastElections) | N/A |
-| 43 | [#opay](http://twitter.com/search?q=%23opay) | N/A |
-| 44 | [#GWAGON](http://twitter.com/search?q=%23GWAGON) | N/A |
-| 45 | [#AMCovenant](http://twitter.com/search?q=%23AMCovenant) | N/A |
-| 46 | [#SanwoAgain](http://twitter.com/search?q=%23SanwoAgain) | N/A |
-| 47 | [#SupremeCourt](http://twitter.com/search?q=%23SupremeCourt) | N/A |
-| 48 | [#RejectTinubu](http://twitter.com/search?q=%23RejectTinubu) | N/A |
+| 38 | [#AtikuMyPresident](http://twitter.com/search?q=%23AtikuMyPresident) | N/A |
+| 39 | [#KenyaVsNigeria](http://twitter.com/search?q=%23KenyaVsNigeria) | N/A |
+| 40 | [#NorthEastElections](http://twitter.com/search?q=%23NorthEastElections) | N/A |
+| 41 | [#opay](http://twitter.com/search?q=%23opay) | N/A |
+| 42 | [#SanwoAgain](http://twitter.com/search?q=%23SanwoAgain) | N/A |
+| 43 | [#LGBTQ](http://twitter.com/search?q=%23LGBTQ) | N/A |
+| 44 | [#RussiaIsCollapsing](http://twitter.com/search?q=%23RussiaIsCollapsing) | N/A |
+| 45 | [#SanwoLekansi](http://twitter.com/search?q=%23SanwoLekansi) | N/A |
+| 46 | [#Survivor](http://twitter.com/search?q=%23Survivor) | N/A |
+| 47 | [#emergencyalert](http://twitter.com/search?q=%23emergencyalert) | N/A |
+| 48 | [#Grv4Lagos](http://twitter.com/search?q=%23Grv4Lagos) | N/A |
 
 
 

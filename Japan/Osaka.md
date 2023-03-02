@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Osaka
 
-📆 Last Updated: `2023-03-02 21:17:02 UTC`
+📆 Last Updated: `2023-03-02 22:16:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Japan](</Japan>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [人身事故](http://twitter.com/search?q=%e4%ba%ba%e8%ba%ab%e4%ba%8b%e6%95%85) | 人身事故 (Jinshin Jiko) is a Japanese term meaning "personal injury accident". It is used to refer to any type of accident that results in physical injury or death. |
-| 2 | [ひな祭り](http://twitter.com/search?q=%e3%81%b2%e3%81%aa%e7%a5%ad%e3%82%8a) | N/A |
-| 3 | [ハイパーインフレーション](http://twitter.com/search?q=%e3%83%8f%e3%82%a4%e3%83%91%e3%83%bc%e3%82%a4%e3%83%b3%e3%83%95%e3%83%ac%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3) | ハイパーインフレーション is a term used to describe a situation in which the rate of inflation is extremely high. It is a phenomenon that occurs when prices rise rapidly and the value of money decreases significantly. In English, it can be translated as "hyperinflation". |
-| 4 | [カマヴィンガ](http://twitter.com/search?q=%e3%82%ab%e3%83%9e%e3%83%b4%e3%82%a3%e3%83%b3%e3%82%ac) | N/A |
-| 5 | [ヴィニシウス](http://twitter.com/search?q=%e3%83%b4%e3%82%a3%e3%83%8b%e3%82%b7%e3%82%a6%e3%82%b9) | N/A |
-| 6 | [LOUD](http://twitter.com/search?q=LOUD) | N/A |
-| 7 | [クラシコ](http://twitter.com/search?q=%e3%82%af%e3%83%a9%e3%82%b7%e3%82%b3) | クラシコ is a Japanese word that means "classico," or classic. It is used to describe something that has a timeless, traditional style or quality. |
-| 8 | [フレンキー](http://twitter.com/search?q=%e3%83%95%e3%83%ac%e3%83%b3%e3%82%ad%e3%83%bc) | N/A |
-| 9 | [#DRXWIN](http://twitter.com/search?q=%23DRXWIN) | N/A |
-| 10 | [ブスケツ](http://twitter.com/search?q=%e3%83%96%e3%82%b9%e3%82%b1%e3%83%84) | N/A |
-| 11 | [#おは戦50303mk](http://twitter.com/search?q=%23%e3%81%8a%e3%81%af%e6%88%a650303mk) | N/A |
-| 12 | [#クールドジ男子](http://twitter.com/search?q=%23%e3%82%af%e3%83%bc%e3%83%ab%e3%83%89%e3%82%b8%e7%94%b7%e5%ad%90) | N/A |
-| 13 | [#bn847](http://twitter.com/search?q=%23bn847) | N/A |
-| 14 | [DBD映画化](http://twitter.com/search?q=DBD%e6%98%a0%e7%94%bb%e5%8c%96) | N/A |
-| 15 | [#マヂラブANN0](http://twitter.com/search?q=%23%e3%83%9e%e3%83%82%e3%83%a9%e3%83%96ANN0) | N/A |
-| 16 | [桃の節句](http://twitter.com/search?q=%e6%a1%83%e3%81%ae%e7%af%80%e5%8f%a5) | N/A |
-| 17 | [カルバハル](http://twitter.com/search?q=%e3%82%ab%e3%83%ab%e3%83%90%e3%83%8f%e3%83%ab) | N/A |
-| 18 | [第406回](http://twitter.com/search?q=%e7%ac%ac406%e5%9b%9e) | N/A |
-| 19 | [ひなまつり](http://twitter.com/search?q=%e3%81%b2%e3%81%aa%e3%81%be%e3%81%a4%e3%82%8a) | N/A |
-| 20 | [レコメン卒業](http://twitter.com/search?q=%e3%83%ac%e3%82%b3%e3%83%a1%e3%83%b3%e5%8d%92%e6%a5%ad) | N/A |
-| 21 | [嵐ちゃん](http://twitter.com/search?q=%e5%b5%90%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 22 | [Mako](http://twitter.com/search?q=Mako) | N/A |
-| 23 | [Aspas](http://twitter.com/search?q=Aspas) | Aspas is a Spanish word meaning quotation marks or inverted commas. It is used to indicate direct speech or to set off a phrase or word for emphasis. |
-| 24 | [ウェイン・ショーター](http://twitter.com/search?q=%e3%82%a6%e3%82%a7%e3%82%a4%e3%83%b3%e3%83%bb%e3%82%b7%e3%83%a7%e3%83%bc%e3%82%bf%e3%83%bc) | N/A |
-| 25 | [出産条件](http://twitter.com/search?q=%e5%87%ba%e7%94%a3%e6%9d%a1%e4%bb%b6) | N/A |
-| 26 | [デッドロック](http://twitter.com/search?q=%e3%83%87%e3%83%83%e3%83%89%e3%83%ad%e3%83%83%e3%82%af) | N/A |
-| 27 | [デヨング](http://twitter.com/search?q=%e3%83%87%e3%83%a8%e3%83%b3%e3%82%b0) | N/A |
-| 28 | [奨学金の返済減免](http://twitter.com/search?q=%e5%a5%a8%e5%ad%a6%e9%87%91%e3%81%ae%e8%bf%94%e6%b8%88%e6%b8%9b%e5%85%8d) | N/A |
-| 29 | [ボイプラ](http://twitter.com/search?q=%e3%83%9c%e3%82%a4%e3%83%97%e3%83%a9) | ボイプラ is short for ボイスプラス, which is a Japanese voice-based social media platform. It allows users to create and share audio clips with their friends and followers. The English translation of ボイプラ would be Voice Plus. |
-| 30 | [教育費軽減](http://twitter.com/search?q=%e6%95%99%e8%82%b2%e8%b2%bb%e8%bb%bd%e6%b8%9b) | N/A |
-| 31 | [グレシャム](http://twitter.com/search?q=%e3%82%b0%e3%83%ac%e3%82%b7%e3%83%a3%e3%83%a0) | グレシャム is a type of Japanese confectionery made from mochi (rice cake) and red bean paste. The name comes from the English word "graceful" and is meant to evoke the idea of a graceful, elegant dessert. In English, it can be translated as "graceful mochi". |
-| 32 | [阪急京都線](http://twitter.com/search?q=%e9%98%aa%e6%80%a5%e4%ba%ac%e9%83%bd%e7%b7%9a) | 阪急京都線 is a railway line operated by Hankyu Railway in Japan. It runs between Osaka and Kyoto, connecting the two cities. In English, it is known as the Hankyu Kyoto Line. |
-| 33 | [自民調査会](http://twitter.com/search?q=%e8%87%aa%e6%b0%91%e8%aa%bf%e6%9f%bb%e4%bc%9a) | N/A |
-| 34 | [ウォーロン](http://twitter.com/search?q=%e3%82%a6%e3%82%a9%e3%83%bc%e3%83%ad%e3%83%b3) | N/A |
-| 35 | [インド衝撃](http://twitter.com/search?q=%e3%82%a4%e3%83%b3%e3%83%89%e8%a1%9d%e6%92%83) | N/A |
-| 36 | [重大インシデント](http://twitter.com/search?q=%e9%87%8d%e5%a4%a7%e3%82%a4%e3%83%b3%e3%82%b7%e3%83%87%e3%83%b3%e3%83%88) | N/A |
-| 37 | [三月くん](http://twitter.com/search?q=%e4%b8%89%e6%9c%88%e3%81%8f%e3%82%93) | N/A |
-| 38 | [奨学金減免](http://twitter.com/search?q=%e5%a5%a8%e5%ad%a6%e9%87%91%e6%b8%9b%e5%85%8d) | N/A |
-| 39 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
-| 40 | [Wordle 622](http://twitter.com/search?q=Wordle+622) | N/A |
-| 41 | [BEAUTIFUL STAR](http://twitter.com/search?q=BEAUTIFUL+STAR) | N/A |
-| 42 | [正面衝突](http://twitter.com/search?q=%e6%ad%a3%e9%9d%a2%e8%a1%9d%e7%aa%81) | N/A |
-| 43 | [ルセラのペンラ](http://twitter.com/search?q=%e3%83%ab%e3%82%bb%e3%83%a9%e3%81%ae%e3%83%9a%e3%83%b3%e3%83%a9) | N/A |
-| 44 | [ハンビン](http://twitter.com/search?q=%e3%83%8f%e3%83%b3%e3%83%93%e3%83%b3) | N/A |
-| 45 | [安倍政権下の内部文書](http://twitter.com/search?q=%e5%ae%89%e5%80%8d%e6%94%bf%e6%a8%a9%e4%b8%8b%e3%81%ae%e5%86%85%e9%83%a8%e6%96%87%e6%9b%b8) | N/A |
-| 46 | [復活のコアメダル](http://twitter.com/search?q=%e5%be%a9%e6%b4%bb%e3%81%ae%e3%82%b3%e3%82%a2%e3%83%a1%e3%83%80%e3%83%ab) | N/A |
-| 47 | [女の子の健やか](http://twitter.com/search?q=%e5%a5%b3%e3%81%ae%e5%ad%90%e3%81%ae%e5%81%a5%e3%82%84%e3%81%8b) | N/A |
-| 48 | [アスパス](http://twitter.com/search?q=%e3%82%a2%e3%82%b9%e3%83%91%e3%82%b9) | N/A |
-| 49 | [マシュー](http://twitter.com/search?q=%e3%83%9e%e3%82%b7%e3%83%a5%e3%83%bc) | マシュー (Matthew) is a masculine Japanese given name. It is derived from the Hebrew name Mattityahu, which means "gift of God". In English, it is usually translated as Matthew. |
+| 2 | [マドリー](http://twitter.com/search?q=%e3%83%9e%e3%83%89%e3%83%aa%e3%83%bc) | マドリー is the name of a Spanish football club based in Madrid. The full name of the club is Real Madrid Club de Fútbol. In English, it translates to Royal Madrid Football Club. |
+| 3 | [#SixTONES_ABARERO](http://twitter.com/search?q=%23SixTONES_ABARERO) | N/A |
+| 4 | [運転見合わせ](http://twitter.com/search?q=%e9%81%8b%e8%bb%a2%e8%a6%8b%e5%90%88%e3%82%8f%e3%81%9b) | 運転見合わせ is a Japanese phrase that literally translates to "driving coordination". It is used to refer to the practice of coordinating the timing of driving activities, such as when to start and stop, in order to ensure safety and efficiency. |
+| 5 | [ひな祭り](http://twitter.com/search?q=%e3%81%b2%e3%81%aa%e7%a5%ad%e3%82%8a) | N/A |
+| 6 | [#クールドジ男子](http://twitter.com/search?q=%23%e3%82%af%e3%83%bc%e3%83%ab%e3%83%89%e3%82%b8%e7%94%b7%e5%ad%90) | N/A |
+| 7 | [桃の節句](http://twitter.com/search?q=%e6%a1%83%e3%81%ae%e7%af%80%e5%8f%a5) | N/A |
+| 8 | [#川西拓実](http://twitter.com/search?q=%23%e5%b7%9d%e8%a5%bf%e6%8b%93%e5%ae%9f) | N/A |
+| 9 | [アルバロ](http://twitter.com/search?q=%e3%82%a2%e3%83%ab%e3%83%90%e3%83%ad) | N/A |
+| 10 | [クラシコ](http://twitter.com/search?q=%e3%82%af%e3%83%a9%e3%82%b7%e3%82%b3) | クラシコ is a Japanese word that means "classico," or classic. It is used to describe something that has a timeless, traditional style or quality. |
+| 11 | [LOUD](http://twitter.com/search?q=LOUD) | N/A |
+| 12 | [ハイパーインフレーション](http://twitter.com/search?q=%e3%83%8f%e3%82%a4%e3%83%91%e3%83%bc%e3%82%a4%e3%83%b3%e3%83%95%e3%83%ac%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3) | ハイパーインフレーション is a term used to describe a situation in which the rate of inflation is extremely high. It is a phenomenon that occurs when prices rise rapidly and the value of money decreases significantly. In English, it can be translated as "hyperinflation". |
+| 13 | [ひなまつり](http://twitter.com/search?q=%e3%81%b2%e3%81%aa%e3%81%be%e3%81%a4%e3%82%8a) | N/A |
+| 14 | [ベンゼマ](http://twitter.com/search?q=%e3%83%99%e3%83%b3%e3%82%bc%e3%83%9e) | N/A |
+| 15 | [フレンキー](http://twitter.com/search?q=%e3%83%95%e3%83%ac%e3%83%b3%e3%82%ad%e3%83%bc) | N/A |
+| 16 | [#おは戦50303mk](http://twitter.com/search?q=%23%e3%81%8a%e3%81%af%e6%88%a650303mk) | N/A |
+| 17 | [レコメン卒業](http://twitter.com/search?q=%e3%83%ac%e3%82%b3%e3%83%a1%e3%83%b3%e5%8d%92%e6%a5%ad) | N/A |
+| 18 | [アラウホ](http://twitter.com/search?q=%e3%82%a2%e3%83%a9%e3%82%a6%e3%83%9b) | N/A |
+| 19 | [拓実くん](http://twitter.com/search?q=%e6%8b%93%e5%ae%9f%e3%81%8f%e3%82%93) | N/A |
+| 20 | [ヴィニシウス](http://twitter.com/search?q=%e3%83%b4%e3%82%a3%e3%83%8b%e3%82%b7%e3%82%a6%e3%82%b9) | N/A |
+| 21 | [カマヴィンガ](http://twitter.com/search?q=%e3%82%ab%e3%83%9e%e3%83%b4%e3%82%a3%e3%83%b3%e3%82%ac) | N/A |
+| 22 | [阪急京都線](http://twitter.com/search?q=%e9%98%aa%e6%80%a5%e4%ba%ac%e9%83%bd%e7%b7%9a) | 阪急京都線 is a railway line operated by Hankyu Railway in Japan. It runs between Osaka and Kyoto, connecting the two cities. In English, it is known as the Hankyu Kyoto Line. |
+| 23 | [ファティ](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%83%86%e3%82%a3) | N/A |
+| 24 | [DBD映画化](http://twitter.com/search?q=DBD%e6%98%a0%e7%94%bb%e5%8c%96) | N/A |
+| 25 | [ロドリゴ](http://twitter.com/search?q=%e3%83%ad%e3%83%89%e3%83%aa%e3%82%b4) | ロドリゴ is a Spanish name. It is derived from the Latin name Rodericus, which means "famous power". In English, it can be translated to mean "famous ruler". |
+| 26 | [#bn847](http://twitter.com/search?q=%23bn847) | N/A |
+| 27 | [ベルナベウ](http://twitter.com/search?q=%e3%83%99%e3%83%ab%e3%83%8a%e3%83%99%e3%82%a6) | N/A |
+| 28 | [ハフィーニャ](http://twitter.com/search?q=%e3%83%8f%e3%83%95%e3%82%a3%e3%83%bc%e3%83%8b%e3%83%a3) | ハフィーニャ is a type of Japanese traditional dance. It is a form of ritual dance that has been performed since the Edo period (1603-1868). The dance is usually performed by two people, one playing the role of the leader and the other playing the role of the follower. The leader moves in a circular pattern while the follower follows in a line behind them. In English, it can be translated as "circle dance". |
+| 29 | [モドリッチ](http://twitter.com/search?q=%e3%83%a2%e3%83%89%e3%83%aa%e3%83%83%e3%83%81) | N/A |
+| 30 | [第406回](http://twitter.com/search?q=%e7%ac%ac406%e5%9b%9e) | N/A |
+| 31 | [チュアメニ](http://twitter.com/search?q=%e3%83%81%e3%83%a5%e3%82%a2%e3%83%a1%e3%83%8b) | N/A |
+| 32 | [カルバハル](http://twitter.com/search?q=%e3%82%ab%e3%83%ab%e3%83%90%e3%83%8f%e3%83%ab) | N/A |
+| 33 | [ホスト役](http://twitter.com/search?q=%e3%83%9b%e3%82%b9%e3%83%88%e5%bd%b9) | N/A |
+| 34 | [ウェイン・ショーター](http://twitter.com/search?q=%e3%82%a6%e3%82%a7%e3%82%a4%e3%83%b3%e3%83%bb%e3%82%b7%e3%83%a7%e3%83%bc%e3%82%bf%e3%83%bc) | N/A |
+| 35 | [ブスケツ](http://twitter.com/search?q=%e3%83%96%e3%82%b9%e3%82%b1%e3%83%84) | N/A |
+| 36 | [デンベレ](http://twitter.com/search?q=%e3%83%87%e3%83%b3%e3%83%99%e3%83%ac) | デンベレ is a Japanese word that means "to be embarrassed or ashamed". It is often used to describe feeling embarrassed or ashamed of one's own actions. |
+| 37 | [クロース](http://twitter.com/search?q=%e3%82%af%e3%83%ad%e3%83%bc%e3%82%b9) | N/A |
+| 38 | [女の子の健やか](http://twitter.com/search?q=%e5%a5%b3%e3%81%ae%e5%ad%90%e3%81%ae%e5%81%a5%e3%82%84%e3%81%8b) | N/A |
+| 39 | [嵐ちゃん](http://twitter.com/search?q=%e5%b5%90%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 40 | [ちらし寿司](http://twitter.com/search?q=%e3%81%a1%e3%82%89%e3%81%97%e5%af%bf%e5%8f%b8) | N/A |
+| 41 | [リュディガー](http://twitter.com/search?q=%e3%83%aa%e3%83%a5%e3%83%87%e3%82%a3%e3%82%ac%e3%83%bc) | N/A |
+| 42 | [悠太くん](http://twitter.com/search?q=%e6%82%a0%e5%a4%aa%e3%81%8f%e3%82%93) | N/A |
+| 43 | [ミリトン](http://twitter.com/search?q=%e3%83%9f%e3%83%aa%e3%83%88%e3%83%b3) | N/A |
+| 44 | [ひなあられ](http://twitter.com/search?q=%e3%81%b2%e3%81%aa%e3%81%82%e3%82%89%e3%82%8c) | N/A |
+| 45 | [出産条件](http://twitter.com/search?q=%e5%87%ba%e7%94%a3%e6%9d%a1%e4%bb%b6) | N/A |
+| 46 | [Mako](http://twitter.com/search?q=Mako) | N/A |
+| 47 | [Aspas](http://twitter.com/search?q=Aspas) | Aspas is a Spanish word meaning quotation marks or inverted commas. It is used to indicate direct speech or to set off a phrase or word for emphasis. |
+| 48 | [奨学金の返済減免](http://twitter.com/search?q=%e5%a5%a8%e5%ad%a6%e9%87%91%e3%81%ae%e8%bf%94%e6%b8%88%e6%b8%9b%e5%85%8d) | N/A |
+| 49 | [ドラマ出演](http://twitter.com/search?q=%e3%83%89%e3%83%a9%e3%83%9e%e5%87%ba%e6%bc%94) | N/A |
 
 
 

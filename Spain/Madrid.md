@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Madrid
 
-📆 Last Updated: `2023-03-02 21:16:33 UTC`
+📆 Last Updated: `2023-03-02 22:16:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Del Pino](http://twitter.com/search?q=Del+Pino) | N/A |
-| 2 | [CGPJ](http://twitter.com/search?q=CGPJ) | N/A |
-| 3 | [El Barsa](http://twitter.com/search?q=El+Barsa) | N/A |
-| 4 | [FC Barcelona](http://twitter.com/search?q=FC+Barcelona) | N/A |
-| 5 | [Catalán](http://twitter.com/search?q=Catal%c3%a1n) | N/A |
-| 6 | [#toasteed](http://twitter.com/search?q=%23toasteed) | N/A |
-| 7 | [Alsina](http://twitter.com/search?q=Alsina) | N/A |
-| 8 | [RFEF](http://twitter.com/search?q=RFEF) | N/A |
-| 9 | [#BarçaGate](http://twitter.com/search?q=%23Bar%c3%a7aGate) | N/A |
-| 10 | [Estrada Fernández](http://twitter.com/search?q=Estrada+Fern%c3%a1ndez) | N/A |
-| 11 | [#TelegramAlvise](http://twitter.com/search?q=%23TelegramAlvise) | N/A |
-| 12 | [Macarena](http://twitter.com/search?q=Macarena) | N/A |
-| 13 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 14 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 15 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
-| 16 | [#LaCopaRTVE](http://twitter.com/search?q=%23LaCopaRTVE) | N/A |
-| 17 | [De Jong](http://twitter.com/search?q=De+Jong) | De Jong is a Dutch surname. It is derived from the personal name Jan, which is a form of John. The literal meaning of the name in English is "son of John". |
-| 18 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 19 | [#RealMadridBarcelona](http://twitter.com/search?q=%23RealMadridBarcelona) | N/A |
-| 20 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
-| 21 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
-| 22 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
-| 23 | [Juan Carlos Rivero](http://twitter.com/search?q=Juan+Carlos+Rivero) | Juan Carlos Rivero is a Spanish name. It is composed of two given names, Juan and Carlos, and the surname Rivero. In English, it would translate to John Charles Rivero. |
-| 24 | [Militao](http://twitter.com/search?q=Militao) | Militão is a Portuguese name derived from the Latin word militare, meaning “to serve in the military”. In English, it can be translated to mean “soldier” or “warrior”. |
-| 25 | [Munuera Montero](http://twitter.com/search?q=Munuera+Montero) | N/A |
-| 26 | [Bernabéu](http://twitter.com/search?q=Bernab%c3%a9u) | Bernabéu is the name of the home stadium of Spanish football club Real Madrid. It is officially known as Estadio Santiago Bernabéu, named after the former club president Santiago Bernabéu. In English, it is referred to as the Santiago Bernabéu Stadium. |
-| 27 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
-| 28 | [La RAE](http://twitter.com/search?q=La+RAE) | N/A |
-| 29 | [Real Madrid TV](http://twitter.com/search?q=Real+Madrid+TV) | N/A |
+| 1 | [Fiscalía](http://twitter.com/search?q=Fiscal%c3%ada) | N/A |
+| 2 | [Federación](http://twitter.com/search?q=Federaci%c3%b3n) | N/A |
+| 3 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 4 | [Tchouameni](http://twitter.com/search?q=Tchouameni) | N/A |
+| 5 | [Cataluña](http://twitter.com/search?q=Catalu%c3%b1a) | N/A |
+| 6 | [Supercopa](http://twitter.com/search?q=Supercopa) | Supercopa is a Spanish football (soccer) tournament that is held annually. It is contested by the winners of the previous season's La Liga and Copa del Rey competitions. The English translation of Supercopa is Super Cup. |
+| 7 | [#SquidcraftGames2](http://twitter.com/search?q=%23SquidcraftGames2) | N/A |
+| 8 | [Kimetsu](http://twitter.com/search?q=Kimetsu) | N/A |
+| 9 | [Medina Cantalejo](http://twitter.com/search?q=Medina+Cantalejo) | N/A |
+| 10 | [Catalán](http://twitter.com/search?q=Catal%c3%a1n) | N/A |
+| 11 | [#Solos2M](http://twitter.com/search?q=%23Solos2M) | N/A |
+| 12 | [Alsina](http://twitter.com/search?q=Alsina) | N/A |
+| 13 | [RFEF](http://twitter.com/search?q=RFEF) | N/A |
+| 14 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 15 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
+| 16 | [#SVGala1](http://twitter.com/search?q=%23SVGala1) | N/A |
+| 17 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
+| 18 | [Bernabéu](http://twitter.com/search?q=Bernab%c3%a9u) | Bernabéu is the name of the home stadium of Spanish football club Real Madrid. It is officially known as Estadio Santiago Bernabéu, named after the former club president Santiago Bernabéu. In English, it is referred to as the Santiago Bernabéu Stadium. |
+| 19 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 20 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 21 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
+| 22 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
+| 23 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 24 | [#LaCopaRTVE](http://twitter.com/search?q=%23LaCopaRTVE) | N/A |
+| 25 | [#ElClasico](http://twitter.com/search?q=%23ElClasico) | #ElClasico is a term used to refer to the football (soccer) match between two of the biggest clubs in Spain, Real Madrid and FC Barcelona. It is one of the most highly anticipated matches in world football and is considered to be one of the greatest rivalries in sport. In English, it translates to "The Classic". |
+| 26 | [Jong](http://twitter.com/search?q=Jong) | N/A |
+| 27 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
+| 28 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
+| 29 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
 | 30 | [Ter Stegen](http://twitter.com/search?q=Ter+Stegen) | Ter Stegen is the surname of German professional footballer Marc-André ter Stegen. He currently plays as a goalkeeper for FC Barcelona and the German national team. In English, Ter Stegen means "from Stegen", referring to his hometown of Mönchengladbach, Germany. |
-| 31 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
-| 32 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 33 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
-| 34 | [Marcos Alonso](http://twitter.com/search?q=Marcos+Alonso) | Marcos Alonso is a Spanish professional footballer who plays as a left back for Premier League club Chelsea and the Spanish national team. His name is derived from the Spanish words "mar" (sea) and "cos" (order). In English, his name translates to "ordered sea". |
-| 35 | [De la Red](http://twitter.com/search?q=De+la+Red) | N/A |
-| 36 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
-| 37 | [Chapi Ferrer](http://twitter.com/search?q=Chapi+Ferrer) | N/A |
-| 38 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
-| 39 | [Judo](http://twitter.com/search?q=Judo) | N/A |
-| 40 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 41 | [Gol del Barça](http://twitter.com/search?q=Gol+del+Bar%c3%a7a) | N/A |
-| 42 | [Cataluña](http://twitter.com/search?q=Catalu%c3%b1a) | N/A |
-| 43 | [Ander](http://twitter.com/search?q=Ander) | N/A |
-| 44 | [Vamos Barça](http://twitter.com/search?q=Vamos+Bar%c3%a7a) | N/A |
-| 45 | [ElRich](http://twitter.com/search?q=ElRich) | N/A |
-| 46 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
-| 47 | [Rubius](http://twitter.com/search?q=Rubius) | Rubius is a Latin word meaning "red". It is often used to describe the color of hair, eyes, or skin. |
-| 48 | [Xokas](http://twitter.com/search?q=Xokas) | N/A |
-| 49 | [Federación](http://twitter.com/search?q=Federaci%c3%b3n) | N/A |
-| 50 | [Rapinha](http://twitter.com/search?q=Rapinha) | N/A |
+| 31 | [Juan Carlos Rivero](http://twitter.com/search?q=Juan+Carlos+Rivero) | Juan Carlos Rivero is a Spanish name. It is composed of two given names, Juan and Carlos, and the surname Rivero. In English, it would translate to John Charles Rivero. |
+| 32 | [La RAE](http://twitter.com/search?q=La+RAE) | N/A |
+| 33 | [Militao](http://twitter.com/search?q=Militao) | Militão is a Portuguese name derived from the Latin word militare, meaning “to serve in the military”. In English, it can be translated to mean “soldier” or “warrior”. |
+| 34 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
+| 35 | [Munuera](http://twitter.com/search?q=Munuera) | N/A |
+| 36 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
+| 37 | [Marcos Alonso](http://twitter.com/search?q=Marcos+Alonso) | Marcos Alonso is a Spanish professional footballer who plays as a left back for Premier League club Chelsea and the Spanish national team. His name is derived from the Spanish words "mar" (sea) and "cos" (order). In English, his name translates to "ordered sea". |
+| 38 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
+| 39 | [Raquel Mosquera](http://twitter.com/search?q=Raquel+Mosquera) | N/A |
+| 40 | [Dembele](http://twitter.com/search?q=Dembele) | Dembele is a surname of West African origin. It is derived from the Mande language and means "peaceful warrior". In English, it can be translated to mean "one who brings peace through strength". |
+| 41 | [Carletto](http://twitter.com/search?q=Carletto) | N/A |
+| 42 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 43 | [Adara](http://twitter.com/search?q=Adara) | N/A |
+| 44 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
+| 45 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
+| 46 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
+| 47 | [Alvaro](http://twitter.com/search?q=Alvaro) | N/A |
+| 48 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 49 | [Laura Madrueño](http://twitter.com/search?q=Laura+Madrue%c3%b1o) | N/A |
+| 50 | [Bosco](http://twitter.com/search?q=Bosco) | N/A |
 
 
 

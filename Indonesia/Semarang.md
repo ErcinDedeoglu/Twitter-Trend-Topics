@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Semarang
 
-📆 Last Updated: `2023-03-02 21:16:36 UTC`
+📆 Last Updated: `2023-03-02 22:16:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Indomie Yatai](http://twitter.com/search?q=Indomie+Yatai) | N/A |
-| 2 | [hanya di bloombergtechnoz](http://twitter.com/search?q=hanya+di+bloombergtechnoz) | N/A |
-| 3 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 4 | [#ElClasicoRCTI](http://twitter.com/search?q=%23ElClasicoRCTI) | N/A |
-| 5 | [berita ekonomi terkini](http://twitter.com/search?q=berita+ekonomi+terkini) | N/A |
-| 6 | [#TAEYONGtoPFW23](http://twitter.com/search?q=%23TAEYONGtoPFW23) | N/A |
-| 7 | [#LIKEITLIKEIT_OUT_NOW](http://twitter.com/search?q=%23LIKEITLIKEIT_OUT_NOW) | N/A |
-| 8 | [TY WEARS LOEWE](http://twitter.com/search?q=TY+WEARS+LOEWE) | N/A |
-| 9 | [#MoonlightChickenFinalEP](http://twitter.com/search?q=%23MoonlightChickenFinalEP) | N/A |
-| 10 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 11 | [ekspresikan gayamu](http://twitter.com/search?q=ekspresikan+gayamu) | N/A |
-| 12 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 13 | [epic grand prize](http://twitter.com/search?q=epic+grand+prize) | N/A |
-| 14 | [asuransi aia](http://twitter.com/search?q=asuransi+aia) | N/A |
-| 15 | [Silent](http://twitter.com/search?q=Silent) | N/A |
-| 16 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 17 | [jkt48 hujan voucher lazada](http://twitter.com/search?q=jkt48+hujan+voucher+lazada) | N/A |
-| 18 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
-| 19 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
-| 20 | [HYBE PROTECT RM](http://twitter.com/search?q=HYBE+PROTECT+RM) | N/A |
-| 21 | [BIGHIT PROTECT RM](http://twitter.com/search?q=BIGHIT+PROTECT+RM) | N/A |
-| 22 | [PN Jakpus](http://twitter.com/search?q=PN+Jakpus) | N/A |
-| 23 | [Formula E](http://twitter.com/search?q=Formula+E) | N/A |
-| 24 | [Pika](http://twitter.com/search?q=Pika) | N/A |
-| 25 | [Jalur](http://twitter.com/search?q=Jalur) | N/A |
-| 26 | [Partai Prima](http://twitter.com/search?q=Partai+Prima) | N/A |
-| 27 | [ARTIST AND STAFF](http://twitter.com/search?q=ARTIST+AND+STAFF) | N/A |
-| 28 | [Gelora Buat Konser](http://twitter.com/search?q=Gelora+Buat+Konser) | N/A |
-| 29 | [haechan lee thank you](http://twitter.com/search?q=haechan+lee+thank+you) | N/A |
-| 30 | [our sunshine park jeongwoo](http://twitter.com/search?q=our+sunshine+park+jeongwoo) | N/A |
-| 31 | [sheila dara](http://twitter.com/search?q=sheila+dara) | N/A |
-| 32 | [De Jong](http://twitter.com/search?q=De+Jong) | De Jong is a Dutch surname. It is derived from the personal name Jan, which is a form of John. The literal meaning of the name in English is "son of John". |
-| 33 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 34 | [WELCOME WINWIN TO PARIS](http://twitter.com/search?q=WELCOME+WINWIN+TO+PARIS) | N/A |
-| 35 | [KPAI](http://twitter.com/search?q=KPAI) | N/A |
-| 36 | [jcole](http://twitter.com/search?q=jcole) | N/A |
-| 37 | [Maret](http://twitter.com/search?q=Maret) | N/A |
-| 38 | [bapak prabowo subianto](http://twitter.com/search?q=bapak+prabowo+subianto) | N/A |
-| 39 | [Ini Twitter](http://twitter.com/search?q=Ini+Twitter) | N/A |
-| 40 | [syariat ngerumat jagad](http://twitter.com/search?q=syariat+ngerumat+jagad) | N/A |
-| 41 | [BLOOMING WITH LEESEO](http://twitter.com/search?q=BLOOMING+WITH+LEESEO) | N/A |
-| 42 | [Andai](http://twitter.com/search?q=Andai) | N/A |
-| 43 | [bangkit dengan islam kaffah](http://twitter.com/search?q=bangkit+dengan+islam+kaffah) | N/A |
-| 44 | [TWICE BILLBOARD AWARD](http://twitter.com/search?q=TWICE+BILLBOARD+AWARD) | N/A |
-| 45 | [KAI ROVER TEASER IMAGES 2](http://twitter.com/search?q=KAI+ROVER+TEASER+IMAGES+2) | N/A |
-| 46 | [BSS MCOUNTDOWN TRIPLE CROWN](http://twitter.com/search?q=BSS+MCOUNTDOWN+TRIPLE+CROWN) | N/A |
-| 47 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 48 | [NMIXX SIRENs CALLING](http://twitter.com/search?q=NMIXX+SIRENs+CALLING) | N/A |
-| 49 | [bloomberg global](http://twitter.com/search?q=bloomberg+global) | N/A |
+| 1 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 2 | [Indomie Yatai](http://twitter.com/search?q=Indomie+Yatai) | N/A |
+| 3 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 4 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 5 | [#ElClasico](http://twitter.com/search?q=%23ElClasico) | #ElClasico is a term used to refer to the football (soccer) match between two of the biggest clubs in Spain, Real Madrid and FC Barcelona. It is one of the most highly anticipated matches in world football and is considered to be one of the greatest rivalries in sport. In English, it translates to "The Classic". |
+| 6 | [hanya di bloombergtechnoz](http://twitter.com/search?q=hanya+di+bloombergtechnoz) | N/A |
+| 7 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 8 | [berita ekonomi terkini](http://twitter.com/search?q=berita+ekonomi+terkini) | N/A |
+| 9 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 10 | [#TAEYONGtoPFW23](http://twitter.com/search?q=%23TAEYONGtoPFW23) | N/A |
+| 11 | [#LIKEITLIKEIT_OUT_NOW](http://twitter.com/search?q=%23LIKEITLIKEIT_OUT_NOW) | N/A |
+| 12 | [TY WEARS LOEWE](http://twitter.com/search?q=TY+WEARS+LOEWE) | N/A |
+| 13 | [#MoonlightChickenFinalEP](http://twitter.com/search?q=%23MoonlightChickenFinalEP) | N/A |
+| 14 | [ekspresikan gayamu](http://twitter.com/search?q=ekspresikan+gayamu) | N/A |
+| 15 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 16 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
+| 17 | [epic grand prize](http://twitter.com/search?q=epic+grand+prize) | N/A |
+| 18 | [asuransi aia](http://twitter.com/search?q=asuransi+aia) | N/A |
+| 19 | [Leg 2](http://twitter.com/search?q=Leg+2) | N/A |
+| 20 | [Silent](http://twitter.com/search?q=Silent) | N/A |
+| 21 | [jkt48 hujan voucher lazada](http://twitter.com/search?q=jkt48+hujan+voucher+lazada) | N/A |
+| 22 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 23 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
+| 24 | [HYBE PROTECT RM](http://twitter.com/search?q=HYBE+PROTECT+RM) | N/A |
+| 25 | [BIGHIT PROTECT RM](http://twitter.com/search?q=BIGHIT+PROTECT+RM) | N/A |
+| 26 | [PN Jakpus](http://twitter.com/search?q=PN+Jakpus) | N/A |
+| 27 | [Pika](http://twitter.com/search?q=Pika) | N/A |
+| 28 | [Jalur](http://twitter.com/search?q=Jalur) | N/A |
+| 29 | [Formula E](http://twitter.com/search?q=Formula+E) | N/A |
+| 30 | [ARTIST AND STAFF](http://twitter.com/search?q=ARTIST+AND+STAFF) | N/A |
+| 31 | [Gelora Buat Konser](http://twitter.com/search?q=Gelora+Buat+Konser) | N/A |
+| 32 | [partai prima](http://twitter.com/search?q=partai+prima) | N/A |
+| 33 | [haechan lee thank you](http://twitter.com/search?q=haechan+lee+thank+you) | N/A |
+| 34 | [our sunshine park jeongwoo](http://twitter.com/search?q=our+sunshine+park+jeongwoo) | N/A |
+| 35 | [sheila dara](http://twitter.com/search?q=sheila+dara) | N/A |
+| 36 | [De Jong](http://twitter.com/search?q=De+Jong) | De Jong is a Dutch surname. It is derived from the personal name Jan, which is a form of John. The literal meaning of the name in English is "son of John". |
+| 37 | [WELCOME WINWIN TO PARIS](http://twitter.com/search?q=WELCOME+WINWIN+TO+PARIS) | N/A |
+| 38 | [jcole](http://twitter.com/search?q=jcole) | N/A |
+| 39 | [TIFFANY BRAND AMBASSADOR JIMIN](http://twitter.com/search?q=TIFFANY+BRAND+AMBASSADOR+JIMIN) | N/A |
+| 40 | [bapak prabowo subianto](http://twitter.com/search?q=bapak+prabowo+subianto) | N/A |
+| 41 | [KPAI](http://twitter.com/search?q=KPAI) | N/A |
+| 42 | [Ini Twitter](http://twitter.com/search?q=Ini+Twitter) | N/A |
+| 43 | [Maret](http://twitter.com/search?q=Maret) | N/A |
+| 44 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
+| 45 | [syariat ngerumat jagad](http://twitter.com/search?q=syariat+ngerumat+jagad) | N/A |
+| 46 | [BLOOMING WITH LEESEO](http://twitter.com/search?q=BLOOMING+WITH+LEESEO) | N/A |
+| 47 | [bangkit dengan islam kaffah](http://twitter.com/search?q=bangkit+dengan+islam+kaffah) | N/A |
+| 48 | [Andai](http://twitter.com/search?q=Andai) | N/A |
+| 49 | [KAI ROVER TEASER IMAGES 2](http://twitter.com/search?q=KAI+ROVER+TEASER+IMAGES+2) | N/A |
 
 
 

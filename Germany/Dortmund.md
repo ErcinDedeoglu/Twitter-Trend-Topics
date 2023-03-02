@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dortmund
 
-📆 Last Updated: `2023-03-02 21:16:30 UTC`
+📆 Last Updated: `2023-03-02 22:16:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Germany](</Germany>)
 | ------- | ------------ | ------------ |
 | 1 | [#gntm](http://twitter.com/search?q=%23gntm) | N/A |
 | 2 | [#KlamrothLuegt](http://twitter.com/search?q=%23KlamrothLuegt) | N/A |
-| 3 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
+| 3 | [#illner](http://twitter.com/search?q=%23illner) | N/A |
 | 4 | [#Lenssen](http://twitter.com/search?q=%23Lenssen) | N/A |
-| 5 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
+| 5 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
 | 6 | [Drinks](http://twitter.com/search?q=Drinks) | N/A |
 | 7 | [Heidi](http://twitter.com/search?q=Heidi) | N/A |
-| 8 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 9 | [Mirella](http://twitter.com/search?q=Mirella) | Mirella is a female given name of Italian origin. It is derived from the Latin word mirabilis, meaning "wonderful" or "marvelous". |
+| 8 | [Rankin](http://twitter.com/search?q=Rankin) | N/A |
+| 9 | [Außenpolitik](http://twitter.com/search?q=Au%c3%9fenpolitik) | N/A |
 | 10 | [Koalition](http://twitter.com/search?q=Koalition) | N/A |
-| 11 | [Rankin](http://twitter.com/search?q=Rankin) | N/A |
-| 12 | [Außenpolitik](http://twitter.com/search?q=Au%c3%9fenpolitik) | N/A |
-| 13 | [Personality](http://twitter.com/search?q=Personality) | N/A |
-| 14 | [Vergewaltigungen](http://twitter.com/search?q=Vergewaltigungen) | N/A |
-| 15 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
-| 16 | [Anya](http://twitter.com/search?q=Anya) | N/A |
-| 17 | [Fabian](http://twitter.com/search?q=Fabian) | N/A |
+| 11 | [Christa](http://twitter.com/search?q=Christa) | N/A |
+| 12 | [Vergewaltigungen](http://twitter.com/search?q=Vergewaltigungen) | N/A |
+| 13 | [Anya](http://twitter.com/search?q=Anya) | N/A |
+| 14 | [Fabian](http://twitter.com/search?q=Fabian) | N/A |
+| 15 | [BAMBOLA HIMNO AVATRICE](http://twitter.com/search?q=BAMBOLA+HIMNO+AVATRICE) | N/A |
+| 16 | [Feiertag](http://twitter.com/search?q=Feiertag) | Feiertag is a German word meaning "holiday" or "celebration day". It is used to refer to any day that is set aside for special observance, such as a national holiday, religious holiday, or other special occasion. |
+| 17 | [Black Pearl](http://twitter.com/search?q=Black+Pearl) | N/A |
 | 18 | [Kriegsverbrechen](http://twitter.com/search?q=Kriegsverbrechen) | N/A |
-| 19 | [BAMBOLA HIMNO AVATRICE](http://twitter.com/search?q=BAMBOLA+HIMNO+AVATRICE) | N/A |
-| 20 | [Feiertag](http://twitter.com/search?q=Feiertag) | Feiertag is a German word meaning "holiday" or "celebration day". It is used to refer to any day that is set aside for special observance, such as a national holiday, religious holiday, or other special occasion. |
-| 21 | [Maske](http://twitter.com/search?q=Maske) | N/A |
-| 22 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
-| 23 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 24 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
-| 25 | [Black Pearl](http://twitter.com/search?q=Black+Pearl) | N/A |
-| 26 | [Strom](http://twitter.com/search?q=Strom) | N/A |
-| 27 | [Melina](http://twitter.com/search?q=Melina) | N/A |
+| 19 | [Maske](http://twitter.com/search?q=Maske) | N/A |
+| 20 | [Strom](http://twitter.com/search?q=Strom) | N/A |
+| 21 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
+| 22 | [Melina](http://twitter.com/search?q=Melina) | N/A |
+| 23 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
+| 24 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
+| 25 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
+| 26 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 27 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
 | 28 | [Wärmepumpen](http://twitter.com/search?q=W%c3%a4rmepumpen) | N/A |
 | 29 | [Moderator](http://twitter.com/search?q=Moderator) | N/A |
-| 30 | [Jahre Berufserfahrung](http://twitter.com/search?q=Jahre+Berufserfahrung) | N/A |
-| 31 | [Heizungen](http://twitter.com/search?q=Heizungen) | N/A |
-| 32 | [Faktencheck](http://twitter.com/search?q=Faktencheck) | N/A |
-| 33 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
-| 34 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 35 | [Cannabis](http://twitter.com/search?q=Cannabis) | N/A |
-| 36 | [Jusos](http://twitter.com/search?q=Jusos) | N/A |
-| 37 | [Menstruationshintergrund](http://twitter.com/search?q=Menstruationshintergrund) | N/A |
-| 38 | [Berliner SPD](http://twitter.com/search?q=Berliner+SPD) | N/A |
-| 39 | [yunho](http://twitter.com/search?q=yunho) | N/A |
-| 40 | [Toiletten](http://twitter.com/search?q=Toiletten) | N/A |
-| 41 | [Hartmut](http://twitter.com/search?q=Hartmut) | N/A |
-| 42 | [Schönen Donnerstag](http://twitter.com/search?q=Sch%c3%b6nen+Donnerstag) | N/A |
-| 43 | [Glühbirnen](http://twitter.com/search?q=Gl%c3%bchbirnen) | N/A |
-| 44 | [Gisela](http://twitter.com/search?q=Gisela) | N/A |
-| 45 | [Gräber](http://twitter.com/search?q=Gr%c3%a4ber) | N/A |
-| 46 | [März 2023](http://twitter.com/search?q=M%c3%a4rz+2023) | N/A |
-| 47 | [Freiheit und Selbstbestimmung](http://twitter.com/search?q=Freiheit+und+Selbstbestimmung) | N/A |
-| 48 | [jcole](http://twitter.com/search?q=jcole) | N/A |
-| 49 | [Zellhaufen](http://twitter.com/search?q=Zellhaufen) | N/A |
+| 30 | [Leiche](http://twitter.com/search?q=Leiche) | N/A |
+| 31 | [Jahre Berufserfahrung](http://twitter.com/search?q=Jahre+Berufserfahrung) | N/A |
+| 32 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 33 | [Heizungen](http://twitter.com/search?q=Heizungen) | N/A |
+| 34 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
+| 35 | [Faktencheck](http://twitter.com/search?q=Faktencheck) | N/A |
+| 36 | [Gisela](http://twitter.com/search?q=Gisela) | N/A |
+| 37 | [Ingo](http://twitter.com/search?q=Ingo) | N/A |
+| 38 | [Menstruationshintergrund](http://twitter.com/search?q=Menstruationshintergrund) | N/A |
+| 39 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
+| 40 | [Jusos](http://twitter.com/search?q=Jusos) | N/A |
+| 41 | [Daniel](http://twitter.com/search?q=Daniel) | N/A |
+| 42 | [Cannabis](http://twitter.com/search?q=Cannabis) | N/A |
+| 43 | [Yunho](http://twitter.com/search?q=Yunho) | N/A |
+| 44 | [Mirella](http://twitter.com/search?q=Mirella) | Mirella is a female given name of Italian origin. It is derived from the Latin word mirabilis, meaning "wonderful" or "marvelous". |
+| 45 | [Toiletten](http://twitter.com/search?q=Toiletten) | N/A |
+| 46 | [Schönen Donnerstag](http://twitter.com/search?q=Sch%c3%b6nen+Donnerstag) | N/A |
+| 47 | [Glühbirnen](http://twitter.com/search?q=Gl%c3%bchbirnen) | N/A |
+| 48 | [Freiheit und Selbstbestimmung](http://twitter.com/search?q=Freiheit+und+Selbstbestimmung) | N/A |
+| 49 | [Lego](http://twitter.com/search?q=Lego) | N/A |
 
 
 

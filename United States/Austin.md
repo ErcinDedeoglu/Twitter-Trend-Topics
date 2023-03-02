@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austin
 
-📆 Last Updated: `2023-03-02 21:16:55 UTC`
+📆 Last Updated: `2023-03-02 22:16:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [North Texas](http://twitter.com/search?q=North+Texas) | N/A |
-| 2 | [#dfwwx](http://twitter.com/search?q=%23dfwwx) | N/A |
-| 3 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
-| 4 | [Dirk](http://twitter.com/search?q=Dirk) | Dirk is a Scottish word for a long, pointed dagger. It is also used as a given name, usually for boys. |
-| 5 | [Republic of Texas](http://twitter.com/search?q=Republic+of+Texas) | N/A |
+| 1 | [Tornado Watch](http://twitter.com/search?q=Tornado+Watch) | N/A |
+| 2 | [Texas Independence Day](http://twitter.com/search?q=Texas+Independence+Day) | N/A |
+| 3 | [North Texas](http://twitter.com/search?q=North+Texas) | N/A |
+| 4 | [#dfwwx](http://twitter.com/search?q=%23dfwwx) | N/A |
+| 5 | [Dirk](http://twitter.com/search?q=Dirk) | Dirk is a Scottish word for a long, pointed dagger. It is also used as a given name, usually for boys. |
 | 6 | [#AmplifyAustin](http://twitter.com/search?q=%23AmplifyAustin) | N/A |
-| 7 | [SXSW](http://twitter.com/search?q=SXSW) | N/A |
-| 8 | [#WhyIChime](http://twitter.com/search?q=%23WhyIChime) | N/A |
-| 9 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
-| 10 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 11 | [#ReadAcrossAmericaDay](http://twitter.com/search?q=%23ReadAcrossAmericaDay) | N/A |
-| 12 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 13 | [Hershey](http://twitter.com/search?q=Hershey) | N/A |
-| 14 | [Calijah Kancey](http://twitter.com/search?q=Calijah+Kancey) | N/A |
-| 15 | [Jerome Boger](http://twitter.com/search?q=Jerome+Boger) | N/A |
-| 16 | [Jerry Richardson](http://twitter.com/search?q=Jerry+Richardson) | N/A |
-| 17 | [Bostic](http://twitter.com/search?q=Bostic) | N/A |
-| 18 | [House Ethics Committee](http://twitter.com/search?q=House+Ethics+Committee) | N/A |
-| 19 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
-| 20 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 21 | [BAMBOLA HIMNO AVATRICE](http://twitter.com/search?q=BAMBOLA+HIMNO+AVATRICE) | N/A |
-| 22 | [Haunted Mansion](http://twitter.com/search?q=Haunted+Mansion) | N/A |
-| 23 | [Rep. George Santos](http://twitter.com/search?q=Rep.+George+Santos) | N/A |
+| 7 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
+| 8 | [#ILiveHereIGiveHere](http://twitter.com/search?q=%23ILiveHereIGiveHere) | N/A |
+| 9 | [Republic of Texas](http://twitter.com/search?q=Republic+of+Texas) | N/A |
+| 10 | [Alamo](http://twitter.com/search?q=Alamo) | N/A |
+| 11 | [#WhyIChime](http://twitter.com/search?q=%23WhyIChime) | N/A |
+| 12 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 13 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
+| 14 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 15 | [Calijah Kancey](http://twitter.com/search?q=Calijah+Kancey) | N/A |
+| 16 | [Jerome Boger](http://twitter.com/search?q=Jerome+Boger) | N/A |
+| 17 | [Hershey](http://twitter.com/search?q=Hershey) | N/A |
+| 18 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 19 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 20 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 21 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
+| 22 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
+| 23 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
 | 24 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
-| 25 | [De Jong](http://twitter.com/search?q=De+Jong) | De Jong is a Dutch surname. It is derived from the personal name Jan, which is a form of John. The literal meaning of the name in English is "son of John". |
-| 26 | [Dr. Seuss](http://twitter.com/search?q=Dr.+Seuss) | N/A |
-| 27 | [Justice Department](http://twitter.com/search?q=Justice+Department) | N/A |
-| 28 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
-| 29 | [Jalen Redmond](http://twitter.com/search?q=Jalen+Redmond) | N/A |
-| 30 | [Volpe](http://twitter.com/search?q=Volpe) | N/A |
-| 31 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
-| 32 | [Bryan Bresee](http://twitter.com/search?q=Bryan+Bresee) | N/A |
-| 33 | [AI NFT](http://twitter.com/search?q=AI+NFT) | N/A |
-| 34 | [Morgan Wallen](http://twitter.com/search?q=Morgan+Wallen) | N/A |
-| 35 | [Bateman](http://twitter.com/search?q=Bateman) | N/A |
-| 36 | [Gervon Dexter](http://twitter.com/search?q=Gervon+Dexter) | N/A |
-| 37 | [Jonathan Quick](http://twitter.com/search?q=Jonathan+Quick) | N/A |
-| 38 | [Tuberville](http://twitter.com/search?q=Tuberville) | N/A |
-| 39 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
-| 40 | [Nelly](http://twitter.com/search?q=Nelly) | Nelly is a nickname for the female given name Eleanor, which is derived from the Greek name Helenē, meaning “light” or “bright one.” It can also be used as a diminutive form of the name Cornelia. |
-| 41 | [Kimmel](http://twitter.com/search?q=Kimmel) | N/A |
-| 42 | [Meadors](http://twitter.com/search?q=Meadors) | N/A |
-| 43 | [Wandy Peralta](http://twitter.com/search?q=Wandy+Peralta) | N/A |
-| 44 | [Discover](http://twitter.com/search?q=Discover) | N/A |
-| 45 | [Weather Report](http://twitter.com/search?q=Weather+Report) | N/A |
-| 46 | [Scoot Henderson](http://twitter.com/search?q=Scoot+Henderson) | N/A |
-| 47 | [Rubius](http://twitter.com/search?q=Rubius) | Rubius is a Latin word meaning "red". It is often used to describe the color of hair, eyes, or skin. |
-| 48 | [Hellboy](http://twitter.com/search?q=Hellboy) | N/A |
-| 49 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
+| 25 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
+| 26 | [Jerry Richardson](http://twitter.com/search?q=Jerry+Richardson) | N/A |
+| 27 | [Bostic](http://twitter.com/search?q=Bostic) | N/A |
+| 28 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
+| 29 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 30 | [House Ethics Committee](http://twitter.com/search?q=House+Ethics+Committee) | N/A |
+| 31 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 32 | [De Jong](http://twitter.com/search?q=De+Jong) | De Jong is a Dutch surname. It is derived from the personal name Jan, which is a form of John. The literal meaning of the name in English is "son of John". |
+| 33 | [Aaron Donald](http://twitter.com/search?q=Aaron+Donald) | Aaron Donald is an American professional football player who plays for the Los Angeles Rams of the National Football League (NFL). He is a six-time Pro Bowl selection and four-time First-Team All-Pro. He is widely regarded as one of the best defensive players in the NFL. |
+| 34 | [BAMBOLA HIMNO AVATRICE](http://twitter.com/search?q=BAMBOLA+HIMNO+AVATRICE) | N/A |
+| 35 | [Rahm](http://twitter.com/search?q=Rahm) | N/A |
+| 36 | [Jalen Redmond](http://twitter.com/search?q=Jalen+Redmond) | N/A |
+| 37 | [Dr. Seuss](http://twitter.com/search?q=Dr.+Seuss) | N/A |
+| 38 | [Adetomiwa Adebawore](http://twitter.com/search?q=Adetomiwa+Adebawore) | N/A |
+| 39 | [Morgan Wallen](http://twitter.com/search?q=Morgan+Wallen) | N/A |
+| 40 | [Bryan Bresee](http://twitter.com/search?q=Bryan+Bresee) | N/A |
+| 41 | [Scoot Henderson](http://twitter.com/search?q=Scoot+Henderson) | N/A |
+| 42 | [Rep. George Santos](http://twitter.com/search?q=Rep.+George+Santos) | N/A |
+| 43 | [Dante Stills](http://twitter.com/search?q=Dante+Stills) | N/A |
+| 44 | [Haunted Mansion](http://twitter.com/search?q=Haunted+Mansion) | N/A |
+| 45 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
+| 46 | [Bernabéu](http://twitter.com/search?q=Bernab%c3%a9u) | Bernabéu is the name of the home stadium of Spanish football club Real Madrid. It is officially known as Estadio Santiago Bernabéu, named after the former club president Santiago Bernabéu. In English, it is referred to as the Santiago Bernabéu Stadium. |
+| 47 | [Tim Pool](http://twitter.com/search?q=Tim+Pool) | N/A |
+| 48 | [Justice Department](http://twitter.com/search?q=Justice+Department) | N/A |
+| 49 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
 
 
 

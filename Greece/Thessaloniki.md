@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Thessaloniki
 
-📆 Last Updated: `2023-03-02 21:16:35 UTC`
+📆 Last Updated: `2023-03-02 22:16:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -59,7 +59,7 @@ This is top 50 for [Greece](</Greece>)
 | 42 | [Συνταγμα](http://twitter.com/search?q=%ce%a3%cf%85%ce%bd%cf%84%ce%b1%ce%b3%ce%bc%ce%b1) | N/A |
 | 43 | [Η Ελλαδα](http://twitter.com/search?q=%ce%97+%ce%95%ce%bb%ce%bb%ce%b1%ce%b4%ce%b1) | N/A |
 | 44 | [ETCS](http://twitter.com/search?q=ETCS) | N/A |
-| 45 | [Τσερνομπιλ](http://twitter.com/search?q=%ce%a4%cf%83%ce%b5%cf%81%ce%bd%ce%bf%ce%bc%cf%80%ce%b9%ce%bb) | N/A |
+| 45 | [τσερνομπιλ](http://twitter.com/search?q=%cf%84%cf%83%ce%b5%cf%81%ce%bd%ce%bf%ce%bc%cf%80%ce%b9%ce%bb) | N/A |
 | 46 | [Γαμω](http://twitter.com/search?q=%ce%93%ce%b1%ce%bc%cf%89) | N/A |
 | 47 | [Τοσκας](http://twitter.com/search?q=%ce%a4%ce%bf%cf%83%ce%ba%ce%b1%cf%82) | N/A |
 | 48 | [Στην Ελλαδα](http://twitter.com/search?q=%ce%a3%cf%84%ce%b7%ce%bd+%ce%95%ce%bb%ce%bb%ce%b1%ce%b4%ce%b1) | N/A |
