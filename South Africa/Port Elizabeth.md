@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Elizabeth
 
-📆 Last Updated: `2023-03-02 10:17:19 UTC`
+📆 Last Updated: `2023-03-02 11:17:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [South Africa](</South Africa>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ChampionBeer](http://twitter.com/search?q=%23ChampionBeer) | N/A |
-| 2 | [#MUNWHU](http://twitter.com/search?q=%23MUNWHU) | N/A |
-| 3 | [#LoveCapitec22](http://twitter.com/search?q=%23LoveCapitec22) | N/A |
+| 1 | [Terry Pheto](http://twitter.com/search?q=Terry+Pheto) | N/A |
+| 2 | [#LoveCapitec22](http://twitter.com/search?q=%23LoveCapitec22) | N/A |
+| 3 | [#MUNWHU](http://twitter.com/search?q=%23MUNWHU) | N/A |
 | 4 | [#TheWifeShowmax](http://twitter.com/search?q=%23TheWifeShowmax) | N/A |
 | 5 | [#ARSEVE](http://twitter.com/search?q=%23ARSEVE) | N/A |
-| 6 | [Zamani](http://twitter.com/search?q=Zamani) | N/A |
-| 7 | [Rami](http://twitter.com/search?q=Rami) | N/A |
-| 8 | [Stage 16](http://twitter.com/search?q=Stage+16) | N/A |
-| 9 | [Skhumba](http://twitter.com/search?q=Skhumba) | N/A |
-| 10 | [JJ Tabane](http://twitter.com/search?q=JJ+Tabane) | N/A |
-| 11 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 12 | [Terry Pheto](http://twitter.com/search?q=Terry+Pheto) | N/A |
-| 13 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 14 | [Sabby](http://twitter.com/search?q=Sabby) | N/A |
-| 15 | [ConCourt](http://twitter.com/search?q=ConCourt) | N/A |
-| 16 | [Sorisha](http://twitter.com/search?q=Sorisha) | N/A |
-| 17 | [Prof Phakeng](http://twitter.com/search?q=Prof+Phakeng) | N/A |
-| 18 | [Mbule](http://twitter.com/search?q=Mbule) | N/A |
-| 19 | [Sni Mhlongo](http://twitter.com/search?q=Sni+Mhlongo) | N/A |
-| 20 | [Gcina](http://twitter.com/search?q=Gcina) | N/A |
-| 21 | [Pastor Fred](http://twitter.com/search?q=Pastor+Fred) | Pastor Fred is a term used to refer to a Christian minister or pastor. It is often used as a generic name for any pastor, regardless of their actual name. |
-| 22 | [Kamo Mphela](http://twitter.com/search?q=Kamo+Mphela) | N/A |
-| 23 | [Metro FM](http://twitter.com/search?q=Metro+FM) | N/A |
-| 24 | [Tsotsi](http://twitter.com/search?q=Tsotsi) | N/A |
-| 25 | [Themba](http://twitter.com/search?q=Themba) | N/A |
-| 26 | [THABANG THE CATCH](http://twitter.com/search?q=THABANG+THE+CATCH) | N/A |
-| 27 | [Vusi](http://twitter.com/search?q=Vusi) | N/A |
-| 28 | [Cape Flats](http://twitter.com/search?q=Cape+Flats) | N/A |
-| 29 | [Glen](http://twitter.com/search?q=Glen) | N/A |
-| 30 | [Unathi](http://twitter.com/search?q=Unathi) | N/A |
-| 31 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 32 | [Khutso](http://twitter.com/search?q=Khutso) | N/A |
-| 33 | [BANK ON THABANG](http://twitter.com/search?q=BANK+ON+THABANG) | N/A |
-| 34 | [6 YEARS](http://twitter.com/search?q=6+YEARS) | N/A |
-| 35 | [Afghans](http://twitter.com/search?q=Afghans) | N/A |
-| 36 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 37 | [Lotto](http://twitter.com/search?q=Lotto) | N/A |
-| 38 | [Lindelof](http://twitter.com/search?q=Lindelof) | Lindelof is a surname of Swedish origin. It is derived from the Old Norse name Lindalófr, which means "linden leaf" or "linden tree". In English, the name can be translated to mean "beloved of the linden tree". |
-| 39 | [David Mabuza](http://twitter.com/search?q=David+Mabuza) | N/A |
-| 40 | [High Court](http://twitter.com/search?q=High+Court) | N/A |
-| 41 | [Jota](http://twitter.com/search?q=Jota) | N/A |
-| 42 | [Proteas](http://twitter.com/search?q=Proteas) | N/A |
-| 43 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
-| 44 | [JCOLE](http://twitter.com/search?q=JCOLE) | N/A |
-| 45 | [VOTE ROYALS](http://twitter.com/search?q=VOTE+ROYALS) | N/A |
-| 46 | [Thomas Partey](http://twitter.com/search?q=Thomas+Partey) | N/A |
-| 47 | [Zinhle](http://twitter.com/search?q=Zinhle) | N/A |
-| 48 | [Zinchenko](http://twitter.com/search?q=Zinchenko) | Zinchenko is a Russian surname derived from the word "zinchen", which means "little one". It is a patronymic name, meaning it is derived from the given name of a father or ancestor. In English, it can be translated to mean "son of Zincha". |
+| 6 | [Prof Phakeng](http://twitter.com/search?q=Prof+Phakeng) | N/A |
+| 7 | [#ChampionBeer](http://twitter.com/search?q=%23ChampionBeer) | N/A |
+| 8 | [Zamani](http://twitter.com/search?q=Zamani) | N/A |
+| 9 | [S Pen](http://twitter.com/search?q=S+Pen) | N/A |
+| 10 | [Rami](http://twitter.com/search?q=Rami) | N/A |
+| 11 | [stage 16](http://twitter.com/search?q=stage+16) | N/A |
+| 12 | [JJ Tabane](http://twitter.com/search?q=JJ+Tabane) | N/A |
+| 13 | [Skhumba](http://twitter.com/search?q=Skhumba) | N/A |
+| 14 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 15 | [Jali](http://twitter.com/search?q=Jali) | N/A |
+| 16 | [ConCourt](http://twitter.com/search?q=ConCourt) | N/A |
+| 17 | [Sabby](http://twitter.com/search?q=Sabby) | N/A |
+| 18 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
+| 19 | [Mbule](http://twitter.com/search?q=Mbule) | N/A |
+| 20 | [Sni Mhlongo](http://twitter.com/search?q=Sni+Mhlongo) | N/A |
+| 21 | [Sorisha](http://twitter.com/search?q=Sorisha) | N/A |
+| 22 | [pastor fred](http://twitter.com/search?q=pastor+fred) | N/A |
+| 23 | [Gcina](http://twitter.com/search?q=Gcina) | N/A |
+| 24 | [Kamo Mphela](http://twitter.com/search?q=Kamo+Mphela) | N/A |
+| 25 | [Tsotsi](http://twitter.com/search?q=Tsotsi) | N/A |
+| 26 | [Themba](http://twitter.com/search?q=Themba) | N/A |
+| 27 | [THABANG THE CATCH](http://twitter.com/search?q=THABANG+THE+CATCH) | N/A |
+| 28 | [Afghans](http://twitter.com/search?q=Afghans) | N/A |
+| 29 | [Metro](http://twitter.com/search?q=Metro) | Metro is short for metropolitan, which means relating to a large city or urban area. It is often used to refer to public transportation systems in large cities, such as the subway or underground railway. |
+| 30 | [Khutso](http://twitter.com/search?q=Khutso) | N/A |
+| 31 | [Vusi](http://twitter.com/search?q=Vusi) | N/A |
+| 32 | [6 years](http://twitter.com/search?q=6+years) | N/A |
+| 33 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 34 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 35 | [Jota](http://twitter.com/search?q=Jota) | N/A |
+| 36 | [David Mabuza](http://twitter.com/search?q=David+Mabuza) | N/A |
+| 37 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
+| 38 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
+| 39 | [Unathi](http://twitter.com/search?q=Unathi) | N/A |
+| 40 | [Thomas Partey](http://twitter.com/search?q=Thomas+Partey) | N/A |
+| 41 | [VOTE ROYALS](http://twitter.com/search?q=VOTE+ROYALS) | N/A |
+| 42 | [Starboy](http://twitter.com/search?q=Starboy) | "Starboy" is a song by Canadian singer The Weeknd, released as the lead single from his third studio album of the same name. The song's title is a reference to The Weeknd's persona and is meant to signify his rise to fame. In English, "Starboy" can be interpreted as someone who has achieved great success and is now living the life of a celebrity. |
+| 43 | [JCOLE](http://twitter.com/search?q=JCOLE) | N/A |
+| 44 | [Zinchenko](http://twitter.com/search?q=Zinchenko) | Zinchenko is a Russian surname derived from the word "zinchen", which means "little one". It is a patronymic name, meaning it is derived from the given name of a father or ancestor. In English, it can be translated to mean "son of Zincha". |
+| 45 | [Xoli](http://twitter.com/search?q=Xoli) | N/A |
+| 46 | [Lindelof](http://twitter.com/search?q=Lindelof) | Lindelof is a surname of Swedish origin. It is derived from the Old Norse name Lindalófr, which means "linden leaf" or "linden tree". In English, the name can be translated to mean "beloved of the linden tree". |
+| 47 | [Coetzee](http://twitter.com/search?q=Coetzee) | N/A |
+| 48 | [High Court](http://twitter.com/search?q=High+Court) | N/A |
 
 
 

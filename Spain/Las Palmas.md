@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Las Palmas
 
-📆 Last Updated: `2023-03-02 10:17:04 UTC`
+📆 Last Updated: `2023-03-02 11:17:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,51 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Ferrovial](http://twitter.com/search?q=Ferrovial) | N/A |
-| 2 | [Tito Berni](http://twitter.com/search?q=Tito+Berni) | N/A |
-| 3 | [#Splatoon3Instax](http://twitter.com/search?q=%23Splatoon3Instax) | N/A |
-| 4 | [Países Bajos](http://twitter.com/search?q=Pa%c3%adses+Bajos) | N/A |
-| 5 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
-| 6 | [PSOE](http://twitter.com/search?q=PSOE) | N/A |
-| 7 | [Holanda](http://twitter.com/search?q=Holanda) | N/A |
-| 8 | [#t3chfest2023](http://twitter.com/search?q=%23t3chfest2023) | N/A |
-| 9 | [Abde](http://twitter.com/search?q=Abde) | Abde is a name of Arabic origin that means "servant of God". |
-| 10 | [feliz día de andalucía](http://twitter.com/search?q=feliz+d%c3%ada+de+andaluc%c3%ada) | N/A |
-| 11 | [Mediador](http://twitter.com/search?q=Mediador) | N/A |
-| 12 | [Patxi](http://twitter.com/search?q=Patxi) | N/A |
-| 13 | [Lance Stroll](http://twitter.com/search?q=Lance+Stroll) | N/A |
-| 14 | [España](http://twitter.com/search?q=Espa%c3%b1a) | N/A |
-| 15 | [PutiSOE](http://twitter.com/search?q=PutiSOE) | N/A |
-| 16 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
+| 1 | [#Splatoon3Instax](http://twitter.com/search?q=%23Splatoon3Instax) | N/A |
+| 2 | [#t3chfest2023](http://twitter.com/search?q=%23t3chfest2023) | N/A |
+| 3 | [#CarrefourGamingConBayonetta](http://twitter.com/search?q=%23CarrefourGamingConBayonetta) | N/A |
+| 4 | [Ferrovial](http://twitter.com/search?q=Ferrovial) | N/A |
+| 5 | [Lance Stroll](http://twitter.com/search?q=Lance+Stroll) | N/A |
+| 6 | [Alsina](http://twitter.com/search?q=Alsina) | N/A |
+| 7 | [Chipre](http://twitter.com/search?q=Chipre) | N/A |
+| 8 | [Miguel Bosé](http://twitter.com/search?q=Miguel+Bos%c3%a9) | N/A |
+| 9 | [Julia Otero](http://twitter.com/search?q=Julia+Otero) | N/A |
+| 10 | [Audiencia Nacional](http://twitter.com/search?q=Audiencia+Nacional) | N/A |
+| 11 | [Holanda](http://twitter.com/search?q=Holanda) | N/A |
+| 12 | [Calviño](http://twitter.com/search?q=Calvi%c3%b1o) | N/A |
+| 13 | [Gata Cattana](http://twitter.com/search?q=Gata+Cattana) | N/A |
+| 14 | [2 de Interior del PP](http://twitter.com/search?q=2+de+Interior+del+PP) | N/A |
+| 15 | [Elías](http://twitter.com/search?q=El%c3%adas) | N/A |
+| 16 | [Petro](http://twitter.com/search?q=Petro) | N/A |
 | 17 | [Kitchen](http://twitter.com/search?q=Kitchen) | N/A |
-| 18 | [Feliz Miércoles](http://twitter.com/search?q=Feliz+Mi%c3%a9rcoles) | N/A |
-| 19 | [Campanilla](http://twitter.com/search?q=Campanilla) | N/A |
-| 20 | [Chipre](http://twitter.com/search?q=Chipre) | N/A |
-| 21 | [Pelayo Novo](http://twitter.com/search?q=Pelayo+Novo) | N/A |
-| 22 | [Rajoy](http://twitter.com/search?q=Rajoy) | N/A |
-| 23 | [Autoevaluación HONESTA](http://twitter.com/search?q=Autoevaluaci%c3%b3n+HONESTA) | N/A |
-| 24 | [Miguel Bosé](http://twitter.com/search?q=Miguel+Bos%c3%a9) | N/A |
-| 25 | [Rafael del Pino](http://twitter.com/search?q=Rafael+del+Pino) | N/A |
-| 26 | [Julia Otero](http://twitter.com/search?q=Julia+Otero) | N/A |
-| 27 | [vesga](http://twitter.com/search?q=vesga) | N/A |
-| 28 | [Alvise](http://twitter.com/search?q=Alvise) | N/A |
-| 29 | [Peter Pan](http://twitter.com/search?q=Peter+Pan) | N/A |
-| 30 | [Youth League](http://twitter.com/search?q=Youth+League) | N/A |
-| 31 | [Iribar](http://twitter.com/search?q=Iribar) | N/A |
-| 32 | [El C1](http://twitter.com/search?q=El+C1) | N/A |
-| 33 | [Alexandra Jiménez](http://twitter.com/search?q=Alexandra+Jim%c3%a9nez) | N/A |
-| 34 | [Ramsés](http://twitter.com/search?q=Rams%c3%a9s) | N/A |
-| 35 | [Embotellada](http://twitter.com/search?q=Embotellada) | N/A |
-| 36 | [El Sadar](http://twitter.com/search?q=El+Sadar) | N/A |
-| 37 | [San Mamés](http://twitter.com/search?q=San+Mam%c3%a9s) | San Mamés is the name of a football stadium in Bilbao, Spain. It is the home stadium of Athletic Bilbao, a Spanish football club. The name San Mamés comes from a local saint, Saint Mammes of Caesarea, who was martyred in the 3rd century AD. In English, San Mamés translates to "Saint Mammes". |
-| 38 | [Salvador Puig Antich](http://twitter.com/search?q=Salvador+Puig+Antich) | N/A |
-| 39 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 40 | [IBEX](http://twitter.com/search?q=IBEX) | N/A |
-| 41 | [Andrea](http://twitter.com/search?q=Andrea) | Andrea is a feminine given name of Italian origin. It is derived from the Greek word andreios, meaning "manly" or "masculine". In English, Andrea is often translated as "daring" or "brave". |
-| 42 | [PP de Canarias](http://twitter.com/search?q=PP+de+Canarias) | N/A |
-| 43 | [De Marcos](http://twitter.com/search?q=De+Marcos) | N/A |
-| 44 | [Cataluña](http://twitter.com/search?q=Catalu%c3%b1a) | N/A |
-| 45 | [Audiencia Nacional](http://twitter.com/search?q=Audiencia+Nacional) | N/A |
-| 46 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
-| 47 | [Carpetazo](http://twitter.com/search?q=Carpetazo) | N/A |
-| 48 | [Alsina](http://twitter.com/search?q=Alsina) | N/A |
+| 18 | [IBEX](http://twitter.com/search?q=IBEX) | N/A |
+| 19 | [Rafael del Pino](http://twitter.com/search?q=Rafael+del+Pino) | N/A |
+| 20 | [PutiSOE](http://twitter.com/search?q=PutiSOE) | N/A |
+| 21 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
+| 22 | [Ramsés](http://twitter.com/search?q=Rams%c3%a9s) | N/A |
+| 23 | [el único](http://twitter.com/search?q=el+%c3%banico) | N/A |
+| 24 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
+| 25 | [El Mediador](http://twitter.com/search?q=El+Mediador) | N/A |
+| 26 | [Rufián](http://twitter.com/search?q=Rufi%c3%a1n) | N/A |
+| 27 | [Domingo 5](http://twitter.com/search?q=Domingo+5) | N/A |
+| 28 | [Día Internacional de la Mujer](http://twitter.com/search?q=D%c3%ada+Internacional+de+la+Mujer) | N/A |
+| 29 | [Yoli](http://twitter.com/search?q=Yoli) | N/A |
+| 30 | [Jueves 2](http://twitter.com/search?q=Jueves+2) | N/A |
+| 31 | [Martina](http://twitter.com/search?q=Martina) | Martina is a female given name of Latin origin, derived from the name Martinus, which means "of Mars". It is a popular name in many countries, including Italy, Spain, Germany, Austria, and the Czech Republic. In English-speaking countries, it is often used as a short form of the longer name Martina. |
+| 32 | [Países Bajos](http://twitter.com/search?q=Pa%c3%adses+Bajos) | N/A |
+| 33 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
+| 34 | [#Solos2M](http://twitter.com/search?q=%23Solos2M) | N/A |
+| 35 | [#paro](http://twitter.com/search?q=%23paro) | N/A |
+| 36 | [#APOYOROCIO2M](http://twitter.com/search?q=%23APOYOROCIO2M) | N/A |
+| 37 | [#Gianmarco2M](http://twitter.com/search?q=%23Gianmarco2M) | N/A |
+| 38 | [#HandeErçel](http://twitter.com/search?q=%23HandeEr%c3%a7el) | N/A |
+| 39 | [#YoMeRebelo2M](http://twitter.com/search?q=%23YoMeRebelo2M) | N/A |
+| 40 | [#ElClasico](http://twitter.com/search?q=%23ElClasico) | #ElClasico is a term used to refer to the football (soccer) match between two of the biggest clubs in Spain, Real Madrid and FC Barcelona. It is one of the most highly anticipated matches in world football and is considered to be one of the greatest rivalries in sport. In English, it translates to "The Classic". |
+| 41 | [#toasteed](http://twitter.com/search?q=%23toasteed) | N/A |
+| 42 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
+| 43 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
+| 44 | [#QuetevoteelTitoBerni](http://twitter.com/search?q=%23QuetevoteelTitoBerni) | N/A |
+| 45 | [#titobernie](http://twitter.com/search?q=%23titobernie) | N/A |
 
 
 

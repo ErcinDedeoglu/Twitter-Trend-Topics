@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pittsburgh
 
-📆 Last Updated: `2023-03-02 10:17:37 UTC`
+📆 Last Updated: `2023-03-02 11:17:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [United States](</United States>)
 | 3 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
 | 4 | [Maxey](http://twitter.com/search?q=Maxey) | Maxey is a surname of English origin. It is derived from the Old English personal name Maccus, which was a diminutive form of Matthew. The meaning of Maxey in English is "son of Maccus". |
 | 5 | [JCOLE](http://twitter.com/search?q=JCOLE) | N/A |
-| 6 | [JCOLE](http://twitter.com/search?q=JCOLE) | N/A |
-| 7 | [#BoycottHersheys](http://twitter.com/search?q=%23BoycottHersheys) | N/A |
-| 8 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
-| 9 | [jihyo](http://twitter.com/search?q=jihyo) | Jihyo is a Korean given name, usually for females. It is composed of two characters, the first meaning "wisdom" and the second meaning "beauty". In English, it can be translated to mean "wise beauty". |
-| 10 | [Dratini](http://twitter.com/search?q=Dratini) | N/A |
-| 11 | [#BBWomenInMusic](http://twitter.com/search?q=%23BBWomenInMusic) | N/A |
-| 12 | [#Wordle621](http://twitter.com/search?q=%23Wordle621) | N/A |
-| 13 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 14 | [#HexLivewire](http://twitter.com/search?q=%23HexLivewire) | N/A |
-| 15 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 16 | [Gible](http://twitter.com/search?q=Gible) | N/A |
-| 17 | [Daily Quordle 402](http://twitter.com/search?q=Daily+Quordle+402) | N/A |
-| 18 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 19 | [Dreepy](http://twitter.com/search?q=Dreepy) | N/A |
-| 20 | [Billboard](http://twitter.com/search?q=Billboard) | N/A |
-| 21 | [Goomy](http://twitter.com/search?q=Goomy) | N/A |
-| 22 | [Noibat](http://twitter.com/search?q=Noibat) | N/A |
-| 23 | [Trapinch](http://twitter.com/search?q=Trapinch) | N/A |
+| 6 | [#BoycottHersheys](http://twitter.com/search?q=%23BoycottHersheys) | N/A |
+| 7 | [JHOPE](http://twitter.com/search?q=JHOPE) | N/A |
+| 8 | [#Wordle621](http://twitter.com/search?q=%23Wordle621) | N/A |
+| 9 | [#WorldBookDay](http://twitter.com/search?q=%23WorldBookDay) | N/A |
+| 10 | [Daily Quordle 402](http://twitter.com/search?q=Daily+Quordle+402) | N/A |
+| 11 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 12 | [Dratini](http://twitter.com/search?q=Dratini) | N/A |
+| 13 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
+| 14 | [jihyo](http://twitter.com/search?q=jihyo) | Jihyo is a Korean given name, usually for females. It is composed of two characters, the first meaning "wisdom" and the second meaning "beauty". In English, it can be translated to mean "wise beauty". |
+| 15 | [Gible](http://twitter.com/search?q=Gible) | N/A |
+| 16 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
+| 17 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 18 | [Yoruba](http://twitter.com/search?q=Yoruba) | N/A |
+| 19 | [Goomy](http://twitter.com/search?q=Goomy) | N/A |
+| 20 | [Dreepy](http://twitter.com/search?q=Dreepy) | N/A |
+| 21 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 22 | [Chaka](http://twitter.com/search?q=Chaka) | N/A |
+| 23 | [Noibat](http://twitter.com/search?q=Noibat) | N/A |
 | 24 | [Hawaii](http://twitter.com/search?q=Hawaii) | N/A |
-| 25 | [Doechii](http://twitter.com/search?q=Doechii) | N/A |
-| 26 | [Venus](http://twitter.com/search?q=Venus) | N/A |
-| 27 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 28 | [Brandon Ingram](http://twitter.com/search?q=Brandon+Ingram) | Brandon Ingram is an American professional basketball player who currently plays for the New Orleans Pelicans of the National Basketball Association (NBA). He was selected second overall in the 2016 NBA draft by the Los Angeles Lakers. He is known for his scoring ability, long wingspan, and defensive versatility. |
-| 29 | [tzuyu](http://twitter.com/search?q=tzuyu) | Tzuyu is a Taiwanese singer and member of the K-pop girl group Twice. Her name is derived from the Taiwanese phrase "tzyu yu," which means "the most beautiful." |
-| 30 | [sharpay](http://twitter.com/search?q=sharpay) | N/A |
-| 31 | [Blazers](http://twitter.com/search?q=Blazers) | Blazers are a type of jacket, typically with a single row of buttons and a notched lapel. They are usually made from wool or cotton and can be worn as part of a suit or as a separate item. Blazers are often associated with formal occasions, but they can also be worn casually. |
-| 32 | [Yoruba](http://twitter.com/search?q=Yoruba) | N/A |
-| 33 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
-| 34 | [Chaka Khan](http://twitter.com/search?q=Chaka+Khan) | N/A |
-| 35 | [Cole World](http://twitter.com/search?q=Cole+World) | N/A |
-| 36 | [matty healy](http://twitter.com/search?q=matty+healy) | N/A |
-| 37 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
-| 38 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
-| 39 | [Meghan Trainor](http://twitter.com/search?q=Meghan+Trainor) | N/A |
-| 40 | [iKON](http://twitter.com/search?q=iKON) | N/A |
-| 41 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
-| 42 | [Ghana](http://twitter.com/search?q=Ghana) | N/A |
-| 43 | [Blaire](http://twitter.com/search?q=Blaire) | N/A |
-| 44 | [Chauncey](http://twitter.com/search?q=Chauncey) | N/A |
-| 45 | [Eichel](http://twitter.com/search?q=Eichel) | N/A |
-| 46 | [Jermaine](http://twitter.com/search?q=Jermaine) | N/A |
-| 47 | [Jalen Brunson](http://twitter.com/search?q=Jalen+Brunson) | Jalen Brunson is an American professional basketball player who currently plays for the Dallas Mavericks of the National Basketball Association (NBA). His name is a combination of his father's first name, John, and his mother's first name, Lenora. |
-| 48 | [Danhausen](http://twitter.com/search?q=Danhausen) | N/A |
-| 49 | [Schwartz](http://twitter.com/search?q=Schwartz) | N/A |
-| 50 | [Donovan Mitchell](http://twitter.com/search?q=Donovan+Mitchell) | Donovan Mitchell is an American professional basketball player who currently plays for the Utah Jazz of the National Basketball Association (NBA). His nickname is "Spida" and he is known for his explosive athleticism and scoring ability. |
+| 25 | [Trapinch](http://twitter.com/search?q=Trapinch) | N/A |
+| 26 | [Doechii](http://twitter.com/search?q=Doechii) | N/A |
+| 27 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
+| 28 | [Venus](http://twitter.com/search?q=Venus) | N/A |
+| 29 | [Billboard](http://twitter.com/search?q=Billboard) | N/A |
+| 30 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 31 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
+| 32 | [matty healy](http://twitter.com/search?q=matty+healy) | N/A |
+| 33 | [Brandon Ingram](http://twitter.com/search?q=Brandon+Ingram) | Brandon Ingram is an American professional basketball player who currently plays for the New Orleans Pelicans of the National Basketball Association (NBA). He was selected second overall in the 2016 NBA draft by the Los Angeles Lakers. He is known for his scoring ability, long wingspan, and defensive versatility. |
+| 34 | [tzuyu](http://twitter.com/search?q=tzuyu) | Tzuyu is a Taiwanese singer and member of the K-pop girl group Twice. Her name is derived from the Taiwanese phrase "tzyu yu," which means "the most beautiful." |
+| 35 | [Meghan Trainor](http://twitter.com/search?q=Meghan+Trainor) | N/A |
+| 36 | [Joe Budden](http://twitter.com/search?q=Joe+Budden) | N/A |
+| 37 | [Ghana](http://twitter.com/search?q=Ghana) | N/A |
+| 38 | [Blazers](http://twitter.com/search?q=Blazers) | Blazers are a type of jacket, typically with a single row of buttons and a notched lapel. They are usually made from wool or cotton and can be worn as part of a suit or as a separate item. Blazers are often associated with formal occasions, but they can also be worn casually. |
+| 39 | [Blaire](http://twitter.com/search?q=Blaire) | N/A |
+| 40 | [Dr. Seuss](http://twitter.com/search?q=Dr.+Seuss) | N/A |
+| 41 | [Bill Barr](http://twitter.com/search?q=Bill+Barr) | N/A |
+| 42 | [Jalen Brunson](http://twitter.com/search?q=Jalen+Brunson) | Jalen Brunson is an American professional basketball player who currently plays for the Dallas Mavericks of the National Basketball Association (NBA). His name is a combination of his father's first name, John, and his mother's first name, Lenora. |
+| 43 | [Schwartz](http://twitter.com/search?q=Schwartz) | N/A |
+| 44 | [Wizkid](http://twitter.com/search?q=Wizkid) | Wizkid is a Nigerian singer, songwriter, and record producer. His real name is Ayodeji Ibrahim Balogun. The name Wizkid is derived from his childhood nickname, which was given to him by his friends due to his precociousness. In English, the term "wizkid" can be used to describe someone who is exceptionally talented or intelligent. |
+| 45 | [International Women's Day](http://twitter.com/search?q=International+Women%27s+Day) | N/A |
+| 46 | [Maddy](http://twitter.com/search?q=Maddy) | Maddy is a nickname for the name Madeleine, which is of French origin and means "woman of Magdala". |
+| 47 | [Granlund](http://twitter.com/search?q=Granlund) | N/A |
+| 48 | [Nelly](http://twitter.com/search?q=Nelly) | Nelly is a nickname for the female given name Eleanor, which is derived from the Greek name Helenē, meaning “light” or “bright one.” It can also be used as a diminutive form of the name Cornelia. |
+| 49 | [#BBWomenInMusic](http://twitter.com/search?q=%23BBWomenInMusic) | N/A |
+| 50 | [#HexLivewire](http://twitter.com/search?q=%23HexLivewire) | N/A |
 
 
 

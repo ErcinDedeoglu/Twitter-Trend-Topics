@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Benin City
 
-📆 Last Updated: `2023-03-02 10:17:17 UTC`
+📆 Last Updated: `2023-03-02 11:17:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Nigeria](</Nigeria>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
-| 2 | [#PRMCoin](http://twitter.com/search?q=%23PRMCoin) | N/A |
+| 1 | [#KenyaVsNigeria](http://twitter.com/search?q=%23KenyaVsNigeria) | N/A |
+| 2 | [Yoruba](http://twitter.com/search?q=Yoruba) | N/A |
 | 3 | [#Natasharitualscandal](http://twitter.com/search?q=%23Natasharitualscandal) | N/A |
-| 4 | [#KenyaVsNigeria](http://twitter.com/search?q=%23KenyaVsNigeria) | N/A |
+| 4 | [#PRMCoin](http://twitter.com/search?q=%23PRMCoin) | N/A |
 | 5 | [Daddy](http://twitter.com/search?q=Daddy) | N/A |
 | 6 | [Lagosian](http://twitter.com/search?q=Lagosian) | N/A |
-| 7 | [Chrisland](http://twitter.com/search?q=Chrisland) | N/A |
-| 8 | [Seyi](http://twitter.com/search?q=Seyi) | N/A |
-| 9 | [#Survivor](http://twitter.com/search?q=%23Survivor) | N/A |
+| 7 | [#lockdownfiles](http://twitter.com/search?q=%23lockdownfiles) | N/A |
+| 8 | [#emergencyalert](http://twitter.com/search?q=%23emergencyalert) | N/A |
+| 9 | [Sanwoolu](http://twitter.com/search?q=Sanwoolu) | N/A |
 | 10 | [Pamilerin](http://twitter.com/search?q=Pamilerin) | N/A |
-| 11 | [JUBILEE IN MARCH](http://twitter.com/search?q=JUBILEE+IN+MARCH) | N/A |
+| 11 | [De Paul](http://twitter.com/search?q=De+Paul) | N/A |
 | 12 | [IPOB](http://twitter.com/search?q=IPOB) | N/A |
-| 13 | [#EAA81](http://twitter.com/search?q=%23EAA81) | N/A |
-| 14 | [Sanwoolu](http://twitter.com/search?q=Sanwoolu) | N/A |
+| 13 | [Congratulations David](http://twitter.com/search?q=Congratulations+David) | N/A |
+| 14 | [Seyi](http://twitter.com/search?q=Seyi) | N/A |
 | 15 | [Chinedu](http://twitter.com/search?q=Chinedu) | N/A |
-| 16 | [Ajuri](http://twitter.com/search?q=Ajuri) | N/A |
-| 17 | [Lekki Toll](http://twitter.com/search?q=Lekki+Toll) | N/A |
-| 18 | [Happy Birthday Sir](http://twitter.com/search?q=Happy+Birthday+Sir) | N/A |
-| 19 | [Hausa](http://twitter.com/search?q=Hausa) | N/A |
-| 20 | [Nsukka](http://twitter.com/search?q=Nsukka) | N/A |
-| 21 | [Afonja](http://twitter.com/search?q=Afonja) | N/A |
-| 22 | [Chioma](http://twitter.com/search?q=Chioma) | N/A |
-| 23 | [Gbadebo](http://twitter.com/search?q=Gbadebo) | N/A |
-| 24 | [Shola](http://twitter.com/search?q=Shola) | N/A |
+| 16 | [Chrisland](http://twitter.com/search?q=Chrisland) | N/A |
+| 17 | [lekki toll](http://twitter.com/search?q=lekki+toll) | N/A |
+| 18 | [Shola](http://twitter.com/search?q=Shola) | N/A |
+| 19 | [Ajuri](http://twitter.com/search?q=Ajuri) | N/A |
+| 20 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
+| 21 | [Pooja](http://twitter.com/search?q=Pooja) | N/A |
+| 22 | [Happy Birthday Sir](http://twitter.com/search?q=Happy+Birthday+Sir) | N/A |
+| 23 | [Reconciliation](http://twitter.com/search?q=Reconciliation) | N/A |
+| 24 | [Chioma](http://twitter.com/search?q=Chioma) | N/A |
 | 25 | [Tribalism](http://twitter.com/search?q=Tribalism) | N/A |
-| 26 | [Ambode](http://twitter.com/search?q=Ambode) | N/A |
-| 27 | [Vote GRV](http://twitter.com/search?q=Vote+GRV) | N/A |
-| 28 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
-| 29 | [Zain](http://twitter.com/search?q=Zain) | N/A |
-| 30 | [Teslim](http://twitter.com/search?q=Teslim) | N/A |
-| 31 | [Jandor](http://twitter.com/search?q=Jandor) | N/A |
-| 32 | [Precious](http://twitter.com/search?q=Precious) | N/A |
-| 33 | [Governor of Lagos](http://twitter.com/search?q=Governor+of+Lagos) | N/A |
-| 34 | [Alausa](http://twitter.com/search?q=Alausa) | N/A |
-| 35 | [Rishi](http://twitter.com/search?q=Rishi) | N/A |
-| 36 | [Boko Haram](http://twitter.com/search?q=Boko+Haram) | N/A |
-| 37 | [Nairaland](http://twitter.com/search?q=Nairaland) | N/A |
-| 38 | [Our President](http://twitter.com/search?q=Our+President) | N/A |
-| 39 | [Jide](http://twitter.com/search?q=Jide) | N/A |
-| 40 | [Return](http://twitter.com/search?q=Return) | N/A |
-| 41 | [Pastor Adeboye](http://twitter.com/search?q=Pastor+Adeboye) | N/A |
-| 42 | [VOTE KANIVA](http://twitter.com/search?q=VOTE+KANIVA) | N/A |
-| 43 | [Guber](http://twitter.com/search?q=Guber) | N/A |
-| 44 | [Edeoga](http://twitter.com/search?q=Edeoga) | N/A |
-| 45 | [#bachelor](http://twitter.com/search?q=%23bachelor) | N/A |
-| 46 | [#OMAnnecy](http://twitter.com/search?q=%23OMAnnecy) | N/A |
-| 47 | [#NSPPD](http://twitter.com/search?q=%23NSPPD) | N/A |
-| 48 | [#Grv4Lagos](http://twitter.com/search?q=%23Grv4Lagos) | N/A |
-| 49 | [#GRVforLagos](http://twitter.com/search?q=%23GRVforLagos) | N/A |
-| 50 | [#HappyBirthdayTemi](http://twitter.com/search?q=%23HappyBirthdayTemi) | N/A |
+| 26 | [Precious](http://twitter.com/search?q=Precious) | N/A |
+| 27 | [JUBILEE IN MARCH](http://twitter.com/search?q=JUBILEE+IN+MARCH) | N/A |
+| 28 | [Ambode](http://twitter.com/search?q=Ambode) | N/A |
+| 29 | [Certificate](http://twitter.com/search?q=Certificate) | N/A |
+| 30 | [Uba Sani](http://twitter.com/search?q=Uba+Sani) | N/A |
+| 31 | [Afonja](http://twitter.com/search?q=Afonja) | N/A |
+| 32 | [Gbadebo](http://twitter.com/search?q=Gbadebo) | N/A |
+| 33 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 34 | [Twitter NG](http://twitter.com/search?q=Twitter+NG) | N/A |
+| 35 | [Return](http://twitter.com/search?q=Return) | N/A |
+| 36 | [Nsukka](http://twitter.com/search?q=Nsukka) | N/A |
+| 37 | [LP and PDP](http://twitter.com/search?q=LP+and+PDP) | N/A |
+| 38 | [Zain](http://twitter.com/search?q=Zain) | N/A |
+| 39 | [Vote GRV](http://twitter.com/search?q=Vote+GRV) | N/A |
+| 40 | [Teslim](http://twitter.com/search?q=Teslim) | N/A |
+| 41 | [Jandor](http://twitter.com/search?q=Jandor) | N/A |
+| 42 | [Nairaland](http://twitter.com/search?q=Nairaland) | N/A |
+| 43 | [Tribe](http://twitter.com/search?q=Tribe) | N/A |
+| 44 | [INEC and APC](http://twitter.com/search?q=INEC+and+APC) | N/A |
+| 45 | [VOTE KANIVA](http://twitter.com/search?q=VOTE+KANIVA) | N/A |
+| 46 | [Governor of Lagos](http://twitter.com/search?q=Governor+of+Lagos) | N/A |
+| 47 | [Alausa](http://twitter.com/search?q=Alausa) | N/A |
+| 48 | [Alpha](http://twitter.com/search?q=Alpha) | N/A |
+| 49 | [Our President](http://twitter.com/search?q=Our+President) | N/A |
+| 50 | [Rishi](http://twitter.com/search?q=Rishi) | N/A |
 
 
 

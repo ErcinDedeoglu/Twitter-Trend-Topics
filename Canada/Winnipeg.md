@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Winnipeg
 
-📆 Last Updated: `2023-03-02 10:16:43 UTC`
+📆 Last Updated: `2023-03-02 11:16:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,50 +19,50 @@ This is top 50 for [Canada](</Canada>)
 | 2 | [Holl](http://twitter.com/search?q=Holl) | N/A |
 | 3 | [Chychrun](http://twitter.com/search?q=Chychrun) | N/A |
 | 4 | [Nuge](http://twitter.com/search?q=Nuge) | N/A |
-| 5 | [Ekholm](http://twitter.com/search?q=Ekholm) | N/A |
-| 6 | [#Survivor44](http://twitter.com/search?q=%23Survivor44) | N/A |
+| 5 | [#Survivor44](http://twitter.com/search?q=%23Survivor44) | N/A |
+| 6 | [Ekholm](http://twitter.com/search?q=Ekholm) | N/A |
 | 7 | [Canucks](http://twitter.com/search?q=Canucks) | Canucks is a slang term for Canadians. It is derived from the word "Canadian" and is often used in a jocular or affectionate manner. |
 | 8 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
-| 9 | [JCOLE](http://twitter.com/search?q=JCOLE) | N/A |
-| 10 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 9 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 10 | [Trudeau Foundation](http://twitter.com/search?q=Trudeau+Foundation) | N/A |
 | 11 | [#TrudeauChineseElect](http://twitter.com/search?q=%23TrudeauChineseElect) | N/A |
-| 12 | [Trudeau Foundation](http://twitter.com/search?q=Trudeau+Foundation) | N/A |
-| 13 | [McDavid](http://twitter.com/search?q=McDavid) | McDavid is a brand of sports equipment and apparel, named after the Canadian hockey player Connor McDavid. The company produces protective gear, such as hockey helmets and shoulder pads, as well as clothing and accessories. |
-| 14 | [Barrie](http://twitter.com/search?q=Barrie) | N/A |
+| 12 | [JCOLE](http://twitter.com/search?q=JCOLE) | N/A |
+| 13 | [Barrie](http://twitter.com/search?q=Barrie) | N/A |
+| 14 | [Pikamee](http://twitter.com/search?q=Pikamee) | N/A |
 | 15 | [sam levinson](http://twitter.com/search?q=sam+levinson) | N/A |
-| 16 | [Pikamee](http://twitter.com/search?q=Pikamee) | N/A |
-| 17 | [Rielly](http://twitter.com/search?q=Rielly) | N/A |
-| 18 | [Arizona](http://twitter.com/search?q=Arizona) | N/A |
-| 19 | [Sandin](http://twitter.com/search?q=Sandin) | N/A |
-| 20 | [Granlund](http://twitter.com/search?q=Granlund) | N/A |
-| 21 | [Dubas](http://twitter.com/search?q=Dubas) | N/A |
-| 22 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 23 | [JHOPE](http://twitter.com/search?q=JHOPE) | N/A |
+| 16 | [McDavid](http://twitter.com/search?q=McDavid) | McDavid is a brand of sports equipment and apparel, named after the Canadian hockey player Connor McDavid. The company produces protective gear, such as hockey helmets and shoulder pads, as well as clothing and accessories. |
+| 17 | [Sandin](http://twitter.com/search?q=Sandin) | N/A |
+| 18 | [Rielly](http://twitter.com/search?q=Rielly) | N/A |
+| 19 | [Dubas](http://twitter.com/search?q=Dubas) | N/A |
+| 20 | [Arizona](http://twitter.com/search?q=Arizona) | N/A |
+| 21 | [Granlund](http://twitter.com/search?q=Granlund) | N/A |
+| 22 | [JHOPE](http://twitter.com/search?q=JHOPE) | N/A |
+| 23 | [Ceci](http://twitter.com/search?q=Ceci) | N/A |
 | 24 | [Schenn](http://twitter.com/search?q=Schenn) | N/A |
-| 25 | [Ceci](http://twitter.com/search?q=Ceci) | N/A |
-| 26 | [CSIS](http://twitter.com/search?q=CSIS) | N/A |
-| 27 | [Springsteen](http://twitter.com/search?q=Springsteen) | N/A |
-| 28 | [Hughes](http://twitter.com/search?q=Hughes) | Hughes is a surname of Welsh origin. It is derived from the Welsh personal name "Hugh," which is derived from the Germanic elements "hug" meaning "heart, mind, spirit" and "heil" meaning "brave, strong." |
-| 29 | [Stuart](http://twitter.com/search?q=Stuart) | N/A |
-| 30 | [McCabe](http://twitter.com/search?q=McCabe) | N/A |
+| 25 | [CSIS](http://twitter.com/search?q=CSIS) | N/A |
+| 26 | [springsteen](http://twitter.com/search?q=springsteen) | N/A |
+| 27 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 28 | [McCabe](http://twitter.com/search?q=McCabe) | N/A |
+| 29 | [Hughes](http://twitter.com/search?q=Hughes) | Hughes is a surname of Welsh origin. It is derived from the Welsh personal name "Hugh," which is derived from the Germanic elements "hug" meaning "heart, mind, spirit" and "heil" meaning "brave, strong." |
+| 30 | [Stuart](http://twitter.com/search?q=Stuart) | N/A |
 | 31 | [Engvall](http://twitter.com/search?q=Engvall) | N/A |
 | 32 | [Samsonov](http://twitter.com/search?q=Samsonov) | Samsonov is a Russian surname. It is derived from the given name Samson, which is derived from the Hebrew name Shimshon, meaning "sun". |
 | 33 | [Jonathan Quick](http://twitter.com/search?q=Jonathan+Quick) | N/A |
-| 34 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
-| 35 | [Pierre Dorion](http://twitter.com/search?q=Pierre+Dorion) | N/A |
+| 34 | [Pierre Dorion](http://twitter.com/search?q=Pierre+Dorion) | N/A |
+| 35 | [Grogu](http://twitter.com/search?q=Grogu) | N/A |
 | 36 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 37 | [Grogu](http://twitter.com/search?q=Grogu) | N/A |
-| 38 | [Beijing](http://twitter.com/search?q=Beijing) | N/A |
-| 39 | [Yzerman](http://twitter.com/search?q=Yzerman) | N/A |
-| 40 | [Matthews](http://twitter.com/search?q=Matthews) | N/A |
-| 41 | [Miller](http://twitter.com/search?q=Miller) | N/A |
-| 42 | [Hyman](http://twitter.com/search?q=Hyman) | N/A |
-| 43 | [Jupiter and Venus](http://twitter.com/search?q=Jupiter+and+Venus) | N/A |
-| 44 | [Keefe](http://twitter.com/search?q=Keefe) | N/A |
-| 45 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
-| 46 | [Coyotes](http://twitter.com/search?q=Coyotes) | N/A |
-| 47 | [Larkin](http://twitter.com/search?q=Larkin) | N/A |
-| 48 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
+| 37 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
+| 38 | [Yzerman](http://twitter.com/search?q=Yzerman) | N/A |
+| 39 | [Hyman](http://twitter.com/search?q=Hyman) | N/A |
+| 40 | [Jupiter and Venus](http://twitter.com/search?q=Jupiter+and+Venus) | N/A |
+| 41 | [Matthews](http://twitter.com/search?q=Matthews) | N/A |
+| 42 | [Miller](http://twitter.com/search?q=Miller) | N/A |
+| 43 | [keefe](http://twitter.com/search?q=keefe) | N/A |
+| 44 | [Beijing](http://twitter.com/search?q=Beijing) | N/A |
+| 45 | [Larkin](http://twitter.com/search?q=Larkin) | N/A |
+| 46 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
+| 47 | [Beetlejuice](http://twitter.com/search?q=Beetlejuice) | N/A |
+| 48 | [Dark Side of the Moon](http://twitter.com/search?q=Dark+Side+of+the+Moon) | N/A |
 
 
 
