@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cebu City
 
-📆 Last Updated: `2023-03-02 08:16:56 UTC`
+📆 Last Updated: `2023-03-02 09:16:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,41 +16,39 @@ This is top 50 for [Philippines](</Philippines>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 2 | [JCOLE](http://twitter.com/search?q=JCOLE) | N/A |
-| 3 | [jihyo](http://twitter.com/search?q=jihyo) | Jihyo is a Korean given name, usually for females. It is composed of two characters, the first meaning "wisdom" and the second meaning "beauty". In English, it can be translated to mean "wise beauty". |
-| 4 | [#TWICE_BreakthroughAward](http://twitter.com/search?q=%23TWICE_BreakthroughAward) | N/A |
-| 5 | [#BBWomenInMusic](http://twitter.com/search?q=%23BBWomenInMusic) | N/A |
-| 6 | [JHOPE](http://twitter.com/search?q=JHOPE) | N/A |
-| 7 | [TWICE BILLBOARD AWARD](http://twitter.com/search?q=TWICE+BILLBOARD+AWARD) | N/A |
-| 8 | [#BOBBY1stSoloSingle](http://twitter.com/search?q=%23BOBBY1stSoloSingle) | N/A |
-| 9 | [iKON](http://twitter.com/search?q=iKON) | N/A |
-| 10 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 11 | [#ShowtimeMarsoGood](http://twitter.com/search?q=%23ShowtimeMarsoGood) | N/A |
-| 12 | [#DokyeomMilanFashionFilm](http://twitter.com/search?q=%23DokyeomMilanFashionFilm) | N/A |
-| 13 | [IT'S MY CALL](http://twitter.com/search?q=IT%27S+MY+CALL) | N/A |
-| 14 | [Mino](http://twitter.com/search?q=Mino) | N/A |
-| 15 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 16 | [TY WEARS LOEWE](http://twitter.com/search?q=TY+WEARS+LOEWE) | N/A |
-| 17 | [BGYO FOR LAZADA BIRTHDAY](http://twitter.com/search?q=BGYO+FOR+LAZADA+BIRTHDAY) | N/A |
-| 18 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
-| 19 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
-| 20 | [tzuyu](http://twitter.com/search?q=tzuyu) | Tzuyu is a Taiwanese singer and member of the K-pop girl group Twice. Her name is derived from the Taiwanese phrase "tzyu yu," which means "the most beautiful." |
-| 21 | [all of the girls](http://twitter.com/search?q=all+of+the+girls) | N/A |
-| 22 | [John Matthew Salilig](http://twitter.com/search?q=John+Matthew+Salilig) | N/A |
-| 23 | [minghao](http://twitter.com/search?q=minghao) | N/A |
-| 24 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 25 | [Asia](http://twitter.com/search?q=Asia) | N/A |
-| 26 | [#마술울부려라_도겸xWKOREA](http://twitter.com/search?q=%23%eb%a7%88%ec%88%a0%ec%9a%b8%eb%b6%80%eb%a0%a4%eb%9d%bc_%eb%8f%84%ea%b2%b8xWKOREA) | N/A |
-| 27 | [#BillboardWomeninMusic](http://twitter.com/search?q=%23BillboardWomeninMusic) | N/A |
-| 28 | [#TAEYONGtoPFW23](http://twitter.com/search?q=%23TAEYONGtoPFW23) | N/A |
-| 29 | [#EpicBirthdaySuperShow](http://twitter.com/search?q=%23EpicBirthdaySuperShow) | N/A |
-| 30 | [#LeeJeHoonInManila](http://twitter.com/search?q=%23LeeJeHoonInManila) | N/A |
-| 31 | [#BOYCOTTEBxGMA722](http://twitter.com/search?q=%23BOYCOTTEBxGMA722) | N/A |
-| 32 | [#JISOOxDUNST](http://twitter.com/search?q=%23JISOOxDUNST) | N/A |
-| 33 | [#LazadaPH11Birthday](http://twitter.com/search?q=%23LazadaPH11Birthday) | N/A |
+| 2 | [#BGYOForEpicBirthdaySuperShow](http://twitter.com/search?q=%23BGYOForEpicBirthdaySuperShow) | N/A |
+| 3 | [LAZADA DAY WITH BGYO](http://twitter.com/search?q=LAZADA+DAY+WITH+BGYO) | N/A |
+| 4 | [CMFT](http://twitter.com/search?q=CMFT) | CMFT stands for Certified Management Financial Technician. It is a professional certification offered by the Institute of Certified Management Accountants (ICMA). The certification is designed to provide financial professionals with the knowledge and skills necessary to effectively manage financial operations in an organization. |
+| 5 | [#ALDENLaz11thBday](http://twitter.com/search?q=%23ALDENLaz11thBday) | N/A |
+| 6 | [ALDENXLaz11th BdaySuperShow](http://twitter.com/search?q=ALDENXLaz11th+BdaySuperShow) | N/A |
+| 7 | [JCOLE](http://twitter.com/search?q=JCOLE) | N/A |
+| 8 | [Choco Mucho](http://twitter.com/search?q=Choco+Mucho) | N/A |
+| 9 | [jihyo](http://twitter.com/search?q=jihyo) | Jihyo is a Korean given name, usually for females. It is composed of two characters, the first meaning "wisdom" and the second meaning "beauty". In English, it can be translated to mean "wise beauty". |
+| 10 | [JHOPE](http://twitter.com/search?q=JHOPE) | N/A |
+| 11 | [#PVLAFC2023](http://twitter.com/search?q=%23PVLAFC2023) | N/A |
+| 12 | [#TWICE_BreakthroughAward](http://twitter.com/search?q=%23TWICE_BreakthroughAward) | N/A |
+| 13 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
+| 14 | [#BBWomenInMusic](http://twitter.com/search?q=%23BBWomenInMusic) | N/A |
+| 15 | [TWICE BILLBOARD AWARD](http://twitter.com/search?q=TWICE+BILLBOARD+AWARD) | N/A |
+| 16 | [iKON](http://twitter.com/search?q=iKON) | N/A |
+| 17 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 18 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 19 | [Mino](http://twitter.com/search?q=Mino) | N/A |
+| 20 | [Zach](http://twitter.com/search?q=Zach) | N/A |
+| 21 | [John Matthew Salilig](http://twitter.com/search?q=John+Matthew+Salilig) | N/A |
+| 22 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 23 | [ACEs](http://twitter.com/search?q=ACEs) | N/A |
+| 24 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
+| 25 | [TY WEARS LOEWE](http://twitter.com/search?q=TY+WEARS+LOEWE) | N/A |
+| 26 | [tzuyu](http://twitter.com/search?q=tzuyu) | Tzuyu is a Taiwanese singer and member of the K-pop girl group Twice. Her name is derived from the Taiwanese phrase "tzyu yu," which means "the most beautiful." |
+| 27 | [Asia](http://twitter.com/search?q=Asia) | N/A |
+| 28 | [#BOBBY1stSoloSingle](http://twitter.com/search?q=%23BOBBY1stSoloSingle) | N/A |
+| 29 | [#on_the_street](http://twitter.com/search?q=%23on_the_street) | N/A |
+| 30 | [#ShowtimeMarsoGood](http://twitter.com/search?q=%23ShowtimeMarsoGood) | N/A |
+| 31 | [#LeeJeHoonInManila](http://twitter.com/search?q=%23LeeJeHoonInManila) | N/A |
+| 32 | [#TAEYONGtoPFW23](http://twitter.com/search?q=%23TAEYONGtoPFW23) | N/A |
+| 33 | [#BOYCOTTEBxGMA722](http://twitter.com/search?q=%23BOYCOTTEBxGMA722) | N/A |
 | 34 | [#OustOA](http://twitter.com/search?q=%23OustOA) | N/A |
-| 35 | [#MaineMendoza](http://twitter.com/search?q=%23MaineMendoza) | N/A |
-| 36 | [#MoMNowShowing](http://twitter.com/search?q=%23MoMNowShowing) | N/A |
 
 
 

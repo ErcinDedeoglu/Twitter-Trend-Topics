@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santo Domingo
 
-📆 Last Updated: `2023-03-02 08:16:32 UTC`
+📆 Last Updated: `2023-03-02 09:15:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,7 +24,7 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 7 | [Día de la Cero Discriminación](http://twitter.com/search?q=D%c3%ada+de+la+Cero+Discriminaci%c3%b3n) | N/A |
 | 8 | [la guáyiga](http://twitter.com/search?q=la+gu%c3%a1yiga) | N/A |
 | 9 | [john kelly martínez](http://twitter.com/search?q=john+kelly+mart%c3%adnez) | N/A |
-| 10 | [tamayo](http://twitter.com/search?q=tamayo) | N/A |
+| 10 | [Tamayo](http://twitter.com/search?q=Tamayo) | Tamayo is a Spanish surname. It is derived from the Latin name Thomas, which means "twin". In English, it can be translated to mean "twin". |
 | 11 | [Abinader](http://twitter.com/search?q=Abinader) | N/A |
 | 12 | [#lamejorrd](http://twitter.com/search?q=%23lamejorrd) | N/A |
 | 13 | [#rendiciondecuentas2023](http://twitter.com/search?q=%23rendiciondecuentas2023) | N/A |
@@ -38,14 +38,14 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 21 | [Grecia](http://twitter.com/search?q=Grecia) | N/A |
 | 22 | [Los Ángeles](http://twitter.com/search?q=Los+%c3%81ngeles) | N/A |
 | 23 | [Justin Bieber](http://twitter.com/search?q=Justin+Bieber) | N/A |
-| 24 | [Omar Fernández](http://twitter.com/search?q=Omar+Fern%c3%a1ndez) | N/A |
+| 24 | [Bienvenida](http://twitter.com/search?q=Bienvenida) | N/A |
 | 25 | [hot entra](http://twitter.com/search?q=hot+entra) | N/A |
 | 26 | [new contenido](http://twitter.com/search?q=new+contenido) | N/A |
 | 27 | [Lester Quiñones](http://twitter.com/search?q=Lester+Qui%c3%b1ones) | N/A |
 | 28 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
 | 29 | [Kevin Durant](http://twitter.com/search?q=Kevin+Durant) | Kevin Durant is an American professional basketball player who currently plays for the Brooklyn Nets of the National Basketball Association (NBA). He is a ten-time NBA All-Star and two-time NBA Finals MVP. He has won four NBA scoring titles, the NBA Rookie of the Year Award, and an Olympic gold medal. |
 | 30 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
-| 31 | [Foke](http://twitter.com/search?q=Foke) | N/A |
+| 31 | [foke](http://twitter.com/search?q=foke) | N/A |
 | 32 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |
 | 33 | [Muchacho](http://twitter.com/search?q=Muchacho) | N/A |
 | 34 | [Punta Catalina](http://twitter.com/search?q=Punta+Catalina) | N/A |
@@ -59,12 +59,12 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 42 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
 | 43 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
 | 44 | [Falcon 9](http://twitter.com/search?q=Falcon+9) | N/A |
-| 45 | [mapfre](http://twitter.com/search?q=mapfre) | N/A |
-| 46 | [carlos peña](http://twitter.com/search?q=carlos+pe%c3%b1a) | N/A |
-| 47 | [rafael alburquerque](http://twitter.com/search?q=rafael+alburquerque) | N/A |
-| 48 | [Inglaterra](http://twitter.com/search?q=Inglaterra) | N/A |
-| 49 | [tenares](http://twitter.com/search?q=tenares) | N/A |
-| 50 | [Naciones Unidas](http://twitter.com/search?q=Naciones+Unidas) | N/A |
+| 45 | [MAPFRE](http://twitter.com/search?q=MAPFRE) | N/A |
+| 46 | [rafael alburquerque](http://twitter.com/search?q=rafael+alburquerque) | N/A |
+| 47 | [Inglaterra](http://twitter.com/search?q=Inglaterra) | N/A |
+| 48 | [tenares](http://twitter.com/search?q=tenares) | N/A |
+| 49 | [Naciones Unidas](http://twitter.com/search?q=Naciones+Unidas) | N/A |
+| 50 | [Salcedo](http://twitter.com/search?q=Salcedo) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Medellín
 
-📆 Last Updated: `2023-03-02 08:16:36 UTC`
+📆 Last Updated: `2023-03-02 09:16:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,45 +26,45 @@ This is top 50 for [Colombia](</Colombia>)
 | 9 | [Satena](http://twitter.com/search?q=Satena) | N/A |
 | 10 | [CELAG](http://twitter.com/search?q=CELAG) | N/A |
 | 11 | [#VentinoLaSerie](http://twitter.com/search?q=%23VentinoLaSerie) | N/A |
-| 12 | [twenty one pilots](http://twitter.com/search?q=twenty+one+pilots) | N/A |
-| 13 | [Angelo](http://twitter.com/search?q=Angelo) | N/A |
-| 14 | [Lealtad](http://twitter.com/search?q=Lealtad) | N/A |
-| 15 | [Gaviria](http://twitter.com/search?q=Gaviria) | N/A |
-| 16 | [Independiente del Valle](http://twitter.com/search?q=Independiente+del+Valle) | N/A |
-| 17 | [#liderazgoes](http://twitter.com/search?q=%23liderazgoes) | N/A |
-| 18 | [#UIS75Años](http://twitter.com/search?q=%23UIS75A%c3%b1os) | N/A |
-| 19 | [Universidades](http://twitter.com/search?q=Universidades) | N/A |
+| 12 | [Angelo](http://twitter.com/search?q=Angelo) | N/A |
+| 13 | [twenty one pilots](http://twitter.com/search?q=twenty+one+pilots) | N/A |
+| 14 | [Gaviria](http://twitter.com/search?q=Gaviria) | N/A |
+| 15 | [Independiente del Valle](http://twitter.com/search?q=Independiente+del+Valle) | N/A |
+| 16 | [#liderazgoes](http://twitter.com/search?q=%23liderazgoes) | N/A |
+| 17 | [#UIS75Años](http://twitter.com/search?q=%23UIS75A%c3%b1os) | N/A |
+| 18 | [Universidades](http://twitter.com/search?q=Universidades) | N/A |
+| 19 | [Lealtad](http://twitter.com/search?q=Lealtad) | N/A |
 | 20 | [Juan Lozano](http://twitter.com/search?q=Juan+Lozano) | N/A |
 | 21 | [Invamer](http://twitter.com/search?q=Invamer) | N/A |
 | 22 | [Sabina](http://twitter.com/search?q=Sabina) | N/A |
-| 23 | [tina](http://twitter.com/search?q=tina) | N/A |
+| 23 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
 | 24 | [Marzo con M](http://twitter.com/search?q=Marzo+con+M) | N/A |
 | 25 | [Jamming](http://twitter.com/search?q=Jamming) | N/A |
 | 26 | [Pinto](http://twitter.com/search?q=Pinto) | N/A |
-| 27 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 28 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
-| 29 | [Travis](http://twitter.com/search?q=Travis) | N/A |
-| 30 | [Campos](http://twitter.com/search?q=Campos) | N/A |
-| 31 | [Daniel Torres](http://twitter.com/search?q=Daniel+Torres) | N/A |
-| 32 | [Westcol](http://twitter.com/search?q=Westcol) | N/A |
+| 27 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
+| 28 | [Travis](http://twitter.com/search?q=Travis) | N/A |
+| 29 | [Campos](http://twitter.com/search?q=Campos) | N/A |
+| 30 | [daniel torres](http://twitter.com/search?q=daniel+torres) | N/A |
+| 31 | [Bienvenido Marzo](http://twitter.com/search?q=Bienvenido+Marzo) | N/A |
+| 32 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
 | 33 | [Maras](http://twitter.com/search?q=Maras) | N/A |
-| 34 | [Bienvenido Marzo](http://twitter.com/search?q=Bienvenido+Marzo) | N/A |
-| 35 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
-| 36 | [Aerocivil](http://twitter.com/search?q=Aerocivil) | N/A |
-| 37 | [El Nacional](http://twitter.com/search?q=El+Nacional) | N/A |
-| 38 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 39 | [Pardo](http://twitter.com/search?q=Pardo) | N/A |
-| 40 | [Gabigol](http://twitter.com/search?q=Gabigol) | Gabigol is a nickname given to Brazilian footballer Gabriel Barbosa, who currently plays for Flamengo. The nickname is a combination of his first name, Gabriel, and the Portuguese word for goal, gol. In English, the nickname translates to "Gabriel Goal". |
-| 41 | [Osuna](http://twitter.com/search?q=Osuna) | N/A |
-| 42 | [Maracaná](http://twitter.com/search?q=Maracan%c3%a1) | N/A |
-| 43 | [Cambindo](http://twitter.com/search?q=Cambindo) | N/A |
-| 44 | [Zorro](http://twitter.com/search?q=Zorro) | N/A |
-| 45 | [HYBE PROTECT RM](http://twitter.com/search?q=HYBE+PROTECT+RM) | N/A |
-| 46 | [Aldair](http://twitter.com/search?q=Aldair) | N/A |
-| 47 | [Estéreo Picnic](http://twitter.com/search?q=Est%c3%a9reo+Picnic) | N/A |
-| 48 | ["Siopas"](http://twitter.com/search?q=%22Siopas%22) | N/A |
-| 49 | [Camila Zuluaga](http://twitter.com/search?q=Camila+Zuluaga) | N/A |
-| 50 | [Zinchenko](http://twitter.com/search?q=Zinchenko) | Zinchenko is a Russian surname derived from the word "zinchen", which means "little one". It is a patronymic name, meaning it is derived from the given name of a father or ancestor. In English, it can be translated to mean "son of Zincha". |
+| 34 | [Westcol](http://twitter.com/search?q=Westcol) | N/A |
+| 35 | [Aerocivil](http://twitter.com/search?q=Aerocivil) | N/A |
+| 36 | [El Nacional](http://twitter.com/search?q=El+Nacional) | N/A |
+| 37 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
+| 38 | [Pardo](http://twitter.com/search?q=Pardo) | N/A |
+| 39 | [Gabigol](http://twitter.com/search?q=Gabigol) | Gabigol is a nickname given to Brazilian footballer Gabriel Barbosa, who currently plays for Flamengo. The nickname is a combination of his first name, Gabriel, and the Portuguese word for goal, gol. In English, the nickname translates to "Gabriel Goal". |
+| 40 | [Osuna](http://twitter.com/search?q=Osuna) | N/A |
+| 41 | [Cambindo](http://twitter.com/search?q=Cambindo) | N/A |
+| 42 | [HYBE PROTECT RM](http://twitter.com/search?q=HYBE+PROTECT+RM) | N/A |
+| 43 | [Aldair](http://twitter.com/search?q=Aldair) | N/A |
+| 44 | [Estéreo Picnic](http://twitter.com/search?q=Est%c3%a9reo+Picnic) | N/A |
+| 45 | [Camila Zuluaga](http://twitter.com/search?q=Camila+Zuluaga) | N/A |
+| 46 | [Zinchenko](http://twitter.com/search?q=Zinchenko) | Zinchenko is a Russian surname derived from the word "zinchen", which means "little one". It is a patronymic name, meaning it is derived from the given name of a father or ancestor. In English, it can be translated to mean "son of Zincha". |
+| 47 | [BIGHIT PROTECT RM](http://twitter.com/search?q=BIGHIT+PROTECT+RM) | N/A |
+| 48 | [Zorro](http://twitter.com/search?q=Zorro) | N/A |
+| 49 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 50 | [Camargo](http://twitter.com/search?q=Camargo) | N/A |
 
 
 

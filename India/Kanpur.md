@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kanpur
 
-📆 Last Updated: `2023-03-02 08:17:04 UTC`
+📆 Last Updated: `2023-03-02 09:16:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [सुप्रीम कोर्ट](http://twitter.com/search?q=%e0%a4%b8%e0%a5%81%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%ae+%e0%a4%95%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%9f) | सुप्रीम कोर्ट (Supreme Court) is the highest court of India. It is the final court of appeal under the Constitution of India, and has the power to decide constitutional issues. The Supreme Court has original, appellate and advisory jurisdiction. Its decisions are binding on all other courts in India. The Supreme Court's decisions are also considered to be a source of law in many countries around the world. |
-| 2 | [#electionresults2023](http://twitter.com/search?q=%23electionresults2023) | N/A |
-| 3 | [#BilliBilliSong](http://twitter.com/search?q=%23BilliBilliSong) | N/A |
-| 4 | [#Thalaivar170](http://twitter.com/search?q=%23Thalaivar170) | N/A |
-| 5 | [#ElectionCommission](http://twitter.com/search?q=%23ElectionCommission) | N/A |
+| 1 | [श्री हरि](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b9%e0%a4%b0%e0%a4%bf) | N/A |
+| 2 | [#OneBillionCheers](http://twitter.com/search?q=%23OneBillionCheers) | N/A |
+| 3 | [#NoOneLikeTiger](http://twitter.com/search?q=%23NoOneLikeTiger) | N/A |
+| 4 | [#electionresults2023](http://twitter.com/search?q=%23electionresults2023) | N/A |
+| 5 | [#RangDeWithrealme](http://twitter.com/search?q=%23RangDeWithrealme) | N/A |
 | 6 | [कल्याण बोर्ड](http://twitter.com/search?q=%e0%a4%95%e0%a4%b2%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%a3+%e0%a4%ac%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%a1) | N/A |
-| 7 | [भारत कोकिला](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4+%e0%a4%95%e0%a5%8b%e0%a4%95%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
-| 8 | [SEBI](http://twitter.com/search?q=SEBI) | N/A |
-| 9 | [J COLE](http://twitter.com/search?q=J+COLE) | N/A |
-| 10 | [सरोजिनी नायडू](http://twitter.com/search?q=%e0%a4%b8%e0%a4%b0%e0%a5%8b%e0%a4%9c%e0%a4%bf%e0%a4%a8%e0%a5%80+%e0%a4%a8%e0%a4%be%e0%a4%af%e0%a4%a1%e0%a5%82) | N/A |
-| 11 | [प्रथम महिला](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a5%e0%a4%ae+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
-| 12 | [2 Days Left For Bodh Diwas](http://twitter.com/search?q=2+Days+Left+For+Bodh+Diwas) | N/A |
-| 13 | [NJAC](http://twitter.com/search?q=NJAC) | N/A |
-| 14 | [Judges](http://twitter.com/search?q=Judges) | N/A |
-| 15 | [Judiciary](http://twitter.com/search?q=Judiciary) | N/A |
-| 16 | [Chief Justice of India](http://twitter.com/search?q=Chief+Justice+of+India) | N/A |
-| 17 | [Judicial](http://twitter.com/search?q=Judicial) | N/A |
-| 18 | [Pujara](http://twitter.com/search?q=Pujara) | N/A |
-| 19 | [Ravindra Dhangekar](http://twitter.com/search?q=Ravindra+Dhangekar) | N/A |
-| 20 | [JHOPE](http://twitter.com/search?q=JHOPE) | N/A |
+| 7 | [सुप्रीम कोर्ट](http://twitter.com/search?q=%e0%a4%b8%e0%a5%81%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%ae+%e0%a4%95%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%9f) | सुप्रीम कोर्ट (Supreme Court) is the highest court of India. It is the final court of appeal under the Constitution of India, and has the power to decide constitutional issues. The Supreme Court has original, appellate and advisory jurisdiction. Its decisions are binding on all other courts in India. The Supreme Court's decisions are also considered to be a source of law in many countries around the world. |
+| 8 | [Pujara](http://twitter.com/search?q=Pujara) | N/A |
+| 9 | [राजस्थान राज्य वीर](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be%e0%a4%a8+%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%8d%e0%a4%af+%e0%a4%b5%e0%a5%80%e0%a4%b0) | N/A |
+| 10 | [Judiciary](http://twitter.com/search?q=Judiciary) | N/A |
+| 11 | [भारत कोकिला](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4+%e0%a4%95%e0%a5%8b%e0%a4%95%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
+| 12 | [SEBI](http://twitter.com/search?q=SEBI) | N/A |
+| 13 | [चुनाव आयोग](http://twitter.com/search?q=%e0%a4%9a%e0%a5%81%e0%a4%a8%e0%a4%be%e0%a4%b5+%e0%a4%86%e0%a4%af%e0%a5%8b%e0%a4%97) | N/A |
+| 14 | [प्रथम महिला](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a5%e0%a4%ae+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
+| 15 | [सरोजिनी नायडू](http://twitter.com/search?q=%e0%a4%b8%e0%a4%b0%e0%a5%8b%e0%a4%9c%e0%a4%bf%e0%a4%a8%e0%a5%80+%e0%a4%a8%e0%a4%be%e0%a4%af%e0%a4%a1%e0%a5%82) | N/A |
+| 16 | [Judicial](http://twitter.com/search?q=Judicial) | N/A |
+| 17 | [Judges](http://twitter.com/search?q=Judges) | N/A |
+| 18 | [NJAC](http://twitter.com/search?q=NJAC) | N/A |
+| 19 | [J COLE](http://twitter.com/search?q=J+COLE) | N/A |
+| 20 | [दोषी माना](http://twitter.com/search?q=%e0%a4%a6%e0%a5%8b%e0%a4%b7%e0%a5%80+%e0%a4%ae%e0%a4%be%e0%a4%a8%e0%a4%be) | N/A |
 | 21 | [Collegium](http://twitter.com/search?q=Collegium) | N/A |
-| 22 | [Italy](http://twitter.com/search?q=Italy) | N/A |
-| 23 | [Committee](http://twitter.com/search?q=Committee) | N/A |
-| 24 | [Jemimah Rodrigues](http://twitter.com/search?q=Jemimah+Rodrigues) | N/A |
-| 25 | [सुनीता चौधरी](http://twitter.com/search?q=%e0%a4%b8%e0%a5%81%e0%a4%a8%e0%a5%80%e0%a4%a4%e0%a4%be+%e0%a4%9a%e0%a5%8c%e0%a4%a7%e0%a4%b0%e0%a5%80) | N/A |
-| 26 | [Leader of Opposition](http://twitter.com/search?q=Leader+of+Opposition) | N/A |
-| 27 | [श्री हनुमान बेनीवाल](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b9%e0%a4%a8%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%a8+%e0%a4%ac%e0%a5%87%e0%a4%a8%e0%a5%80%e0%a4%b5%e0%a4%be%e0%a4%b2) | N/A |
-| 28 | [Sagardighi](http://twitter.com/search?q=Sagardighi) | N/A |
-| 29 | [Delhi Capitals](http://twitter.com/search?q=Delhi+Capitals) | N/A |
-| 30 | [TIPRA](http://twitter.com/search?q=TIPRA) | N/A |
-| 31 | [बड़ी पार्टी](http://twitter.com/search?q=%e0%a4%ac%e0%a4%a1%e0%a4%bc%e0%a5%80+%e0%a4%aa%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9f%e0%a5%80) | N/A |
-| 32 | [Chinchwad](http://twitter.com/search?q=Chinchwad) | N/A |
-| 33 | [नॉर्थ ईस्ट](http://twitter.com/search?q=%e0%a4%a8%e0%a5%89%e0%a4%b0%e0%a5%8d%e0%a4%a5+%e0%a4%88%e0%a4%b8%e0%a5%8d%e0%a4%9f) | N/A |
-| 34 | [ADMK](http://twitter.com/search?q=ADMK) | N/A |
-| 35 | [राष्ट्रीय लोकतांत्रिक पार्टी](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%b2%e0%a5%8b%e0%a4%95%e0%a4%a4%e0%a4%be%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%bf%e0%a4%95+%e0%a4%aa%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9f%e0%a5%80) | N/A |
-| 36 | [श्री हरि](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b9%e0%a4%b0%e0%a4%bf) | N/A |
-| 37 | [Chartbuster](http://twitter.com/search?q=Chartbuster) | N/A |
-| 38 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
-| 39 | [Nightingale of India](http://twitter.com/search?q=Nightingale+of+India) | N/A |
-| 40 | [Milords](http://twitter.com/search?q=Milords) | N/A |
-| 41 | [महान स्वतंत्रता सेनानी](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%a4%e0%a4%be+%e0%a4%b8%e0%a5%87%e0%a4%a8%e0%a4%be%e0%a4%a8%e0%a5%80) | N/A |
-| 42 | [#ErodeEastByPolls](http://twitter.com/search?q=%23ErodeEastByPolls) | N/A |
-| 43 | [#SupremeCourt](http://twitter.com/search?q=%23SupremeCourt) | N/A |
-| 44 | [#NorthEastElections](http://twitter.com/search?q=%23NorthEastElections) | N/A |
-| 45 | [#UmeshYadav](http://twitter.com/search?q=%23UmeshYadav) | N/A |
-| 46 | [#Tripura](http://twitter.com/search?q=%23Tripura) | N/A |
-| 47 | [#Tripura](http://twitter.com/search?q=%23Tripura) | N/A |
-| 48 | [#SarojiniNaidu](http://twitter.com/search?q=%23SarojiniNaidu) | N/A |
+| 22 | [2 Days Left For Bodh Diwas](http://twitter.com/search?q=2+Days+Left+For+Bodh+Diwas) | N/A |
+| 23 | [Chief Justice of India](http://twitter.com/search?q=Chief+Justice+of+India) | N/A |
+| 24 | [Ravindra Dhangekar](http://twitter.com/search?q=Ravindra+Dhangekar) | N/A |
+| 25 | [Italy](http://twitter.com/search?q=Italy) | N/A |
+| 26 | [Executive](http://twitter.com/search?q=Executive) | N/A |
+| 27 | [Chinchwad](http://twitter.com/search?q=Chinchwad) | N/A |
+| 28 | [सुनीता चौधरी](http://twitter.com/search?q=%e0%a4%b8%e0%a5%81%e0%a4%a8%e0%a5%80%e0%a4%a4%e0%a4%be+%e0%a4%9a%e0%a5%8c%e0%a4%a7%e0%a4%b0%e0%a5%80) | N/A |
+| 29 | [Italian PM](http://twitter.com/search?q=Italian+PM) | N/A |
+| 30 | [Leader of Opposition](http://twitter.com/search?q=Leader+of+Opposition) | N/A |
+| 31 | [Jadeja](http://twitter.com/search?q=Jadeja) | N/A |
+| 32 | [ADMK](http://twitter.com/search?q=ADMK) | N/A |
+| 33 | [Jemimah Rodrigues](http://twitter.com/search?q=Jemimah+Rodrigues) | N/A |
+| 34 | [Holi](http://twitter.com/search?q=Holi) | N/A |
+| 35 | [Committee](http://twitter.com/search?q=Committee) | N/A |
+| 36 | [JHOPE](http://twitter.com/search?q=JHOPE) | N/A |
+| 37 | [श्री हनुमान बेनीवाल](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b9%e0%a4%a8%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%a8+%e0%a4%ac%e0%a5%87%e0%a4%a8%e0%a5%80%e0%a4%b5%e0%a4%be%e0%a4%b2) | N/A |
+| 38 | [Delhi Capitals](http://twitter.com/search?q=Delhi+Capitals) | N/A |
+| 39 | [नॉर्थ ईस्ट](http://twitter.com/search?q=%e0%a4%a8%e0%a5%89%e0%a4%b0%e0%a5%8d%e0%a4%a5+%e0%a4%88%e0%a4%b8%e0%a5%8d%e0%a4%9f) | N/A |
+| 40 | [The SC](http://twitter.com/search?q=The+SC) | N/A |
+| 41 | [Tipra Motha](http://twitter.com/search?q=Tipra+Motha) | N/A |
+| 42 | [#TeamRario](http://twitter.com/search?q=%23TeamRario) | N/A |
+| 43 | [#BilliBilliSong](http://twitter.com/search?q=%23BilliBilliSong) | N/A |
+| 44 | [#SupremeCourtOfIndia](http://twitter.com/search?q=%23SupremeCourtOfIndia) | N/A |
+| 45 | [#HBDHanumanBeniwalJi](http://twitter.com/search?q=%23HBDHanumanBeniwalJi) | N/A |
+| 46 | [#Thalaivar170](http://twitter.com/search?q=%23Thalaivar170) | N/A |
+| 47 | [#ElectionCommission](http://twitter.com/search?q=%23ElectionCommission) | N/A |
+| 48 | [#NorthEastElections](http://twitter.com/search?q=%23NorthEastElections) | N/A |
 | 49 | [#IndvsAus](http://twitter.com/search?q=%23IndvsAus) | N/A |
 
 

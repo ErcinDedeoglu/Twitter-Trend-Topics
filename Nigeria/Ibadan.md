@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ibadan
 
-📆 Last Updated: `2023-03-02 08:16:57 UTC`
+📆 Last Updated: `2023-03-02 09:16:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,52 @@ This is top 50 for [Nigeria](</Nigeria>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
-| 2 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
+| 2 | [#PCMCoin](http://twitter.com/search?q=%23PCMCoin) | N/A |
 | 3 | [#Natasharitualscandal](http://twitter.com/search?q=%23Natasharitualscandal) | N/A |
-| 4 | [Happy New Month](http://twitter.com/search?q=Happy+New+Month) | Happy New Month is a phrase used to express good wishes for the start of a new month. It is typically used as a greeting or salutation to friends, family, and colleagues. The phrase is usually accompanied by wishes for health, happiness, and success in the upcoming month. |
-| 5 | [Chinedu](http://twitter.com/search?q=Chinedu) | N/A |
-| 6 | [#INECElectionResult](http://twitter.com/search?q=%23INECElectionResult) | N/A |
-| 7 | [Afonja](http://twitter.com/search?q=Afonja) | N/A |
-| 8 | [#protest](http://twitter.com/search?q=%23protest) | N/A |
-| 9 | [Tinubu](http://twitter.com/search?q=Tinubu) | N/A |
-| 10 | [JUBILEE IN MARCH](http://twitter.com/search?q=JUBILEE+IN+MARCH) | N/A |
-| 11 | [#Revolution](http://twitter.com/search?q=%23Revolution) | N/A |
-| 12 | [IPOB](http://twitter.com/search?q=IPOB) | N/A |
-| 13 | [#MUNWHU](http://twitter.com/search?q=%23MUNWHU) | N/A |
-| 14 | [Daddy](http://twitter.com/search?q=Daddy) | N/A |
-| 15 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 16 | [Gbadebo](http://twitter.com/search?q=Gbadebo) | N/A |
-| 17 | [Ajuri](http://twitter.com/search?q=Ajuri) | N/A |
-| 18 | [Shola](http://twitter.com/search?q=Shola) | N/A |
-| 19 | [Sanwo](http://twitter.com/search?q=Sanwo) | N/A |
-| 20 | [Chrisland](http://twitter.com/search?q=Chrisland) | N/A |
-| 21 | [Pastor Fred](http://twitter.com/search?q=Pastor+Fred) | Pastor Fred is a term used to refer to a Christian minister or pastor. It is often used as a generic name for any pastor, regardless of their actual name. |
-| 22 | [Emeka](http://twitter.com/search?q=Emeka) | N/A |
-| 23 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 24 | [Black Wednesday](http://twitter.com/search?q=Black+Wednesday) | N/A |
-| 25 | [Wike](http://twitter.com/search?q=Wike) | Wike is a term used in the Philippines to refer to a person who is knowledgeable or wise. It is derived from the Tagalog word "wikain," which means "to know." In English, it can be translated as "wise" or "knowledgeable." |
-| 26 | [Nairaland](http://twitter.com/search?q=Nairaland) | N/A |
-| 27 | [BVAS](http://twitter.com/search?q=BVAS) | BVAS stands for Behavioral and Vital Signs. It is a term used in the medical field to refer to the physical and mental signs that can be used to assess a patient's health. These signs include heart rate, blood pressure, temperature, respiration rate, and other indicators of physical and mental health. |
-| 28 | [Zain](http://twitter.com/search?q=Zain) | N/A |
-| 29 | [Reconciliation](http://twitter.com/search?q=Reconciliation) | N/A |
-| 30 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 31 | [11th of March](http://twitter.com/search?q=11th+of+March) | N/A |
-| 32 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 33 | [Abuja](http://twitter.com/search?q=Abuja) | N/A |
-| 34 | [Rishi](http://twitter.com/search?q=Rishi) | N/A |
-| 35 | [Nsukka](http://twitter.com/search?q=Nsukka) | N/A |
-| 36 | [Japa](http://twitter.com/search?q=Japa) | N/A |
-| 37 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 38 | [Tribalism](http://twitter.com/search?q=Tribalism) | N/A |
-| 39 | [Jesus Name Above All Names](http://twitter.com/search?q=Jesus+Name+Above+All+Names) | N/A |
-| 40 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 41 | [Elected](http://twitter.com/search?q=Elected) | N/A |
-| 42 | [Biafra](http://twitter.com/search?q=Biafra) | N/A |
-| 43 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
-| 44 | [Happy 81st](http://twitter.com/search?q=Happy+81st) | N/A |
-| 45 | [Lindelof](http://twitter.com/search?q=Lindelof) | Lindelof is a surname of Swedish origin. It is derived from the Old Norse name Lindalófr, which means "linden leaf" or "linden tree". In English, the name can be translated to mean "beloved of the linden tree". |
-| 46 | [DJ Cuppy](http://twitter.com/search?q=DJ+Cuppy) | N/A |
-| 47 | [IREV](http://twitter.com/search?q=IREV) | N/A |
-| 48 | [Mandate](http://twitter.com/search?q=Mandate) | N/A |
-| 49 | [Shettima](http://twitter.com/search?q=Shettima) | N/A |
-| 50 | [Sean Dyche](http://twitter.com/search?q=Sean+Dyche) | Sean Dyche is the name of the current manager of English Premier League football club Burnley. The name is a combination of his first and last names. The meaning in English is simply the name of the manager. |
+| 4 | [Daddy](http://twitter.com/search?q=Daddy) | N/A |
+| 5 | [Lagosian](http://twitter.com/search?q=Lagosian) | N/A |
+| 6 | [JUBILEE IN MARCH](http://twitter.com/search?q=JUBILEE+IN+MARCH) | N/A |
+| 7 | [#Survivor](http://twitter.com/search?q=%23Survivor) | N/A |
+| 8 | [IPOB](http://twitter.com/search?q=IPOB) | N/A |
+| 9 | [#EAA81](http://twitter.com/search?q=%23EAA81) | N/A |
+| 10 | [Chinedu](http://twitter.com/search?q=Chinedu) | N/A |
+| 11 | [#NSPPD](http://twitter.com/search?q=%23NSPPD) | N/A |
+| 12 | [Chrisland](http://twitter.com/search?q=Chrisland) | N/A |
+| 13 | [Sanwoolu](http://twitter.com/search?q=Sanwoolu) | N/A |
+| 14 | [Ajuri](http://twitter.com/search?q=Ajuri) | N/A |
+| 15 | [Nsukka](http://twitter.com/search?q=Nsukka) | N/A |
+| 16 | [Hausa](http://twitter.com/search?q=Hausa) | N/A |
+| 17 | [Happy Birthday Sir](http://twitter.com/search?q=Happy+Birthday+Sir) | N/A |
+| 18 | [Seyi](http://twitter.com/search?q=Seyi) | N/A |
+| 19 | [Afonja](http://twitter.com/search?q=Afonja) | N/A |
+| 20 | [Tribalism](http://twitter.com/search?q=Tribalism) | N/A |
+| 21 | [Gbadebo](http://twitter.com/search?q=Gbadebo) | N/A |
+| 22 | [Jandor](http://twitter.com/search?q=Jandor) | N/A |
+| 23 | [Vote GRV](http://twitter.com/search?q=Vote+GRV) | N/A |
+| 24 | [Zain](http://twitter.com/search?q=Zain) | N/A |
+| 25 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
+| 26 | [Rishi](http://twitter.com/search?q=Rishi) | N/A |
+| 27 | [Ambode](http://twitter.com/search?q=Ambode) | N/A |
+| 28 | [Precious](http://twitter.com/search?q=Precious) | N/A |
+| 29 | [Shola](http://twitter.com/search?q=Shola) | N/A |
+| 30 | [Boko Haram](http://twitter.com/search?q=Boko+Haram) | N/A |
+| 31 | [Governor of Lagos](http://twitter.com/search?q=Governor+of+Lagos) | N/A |
+| 32 | [Emeka](http://twitter.com/search?q=Emeka) | N/A |
+| 33 | [Our President](http://twitter.com/search?q=Our+President) | N/A |
+| 34 | [Pastor Adeboye](http://twitter.com/search?q=Pastor+Adeboye) | N/A |
+| 35 | [Alausa](http://twitter.com/search?q=Alausa) | N/A |
+| 36 | [Nairaland](http://twitter.com/search?q=Nairaland) | N/A |
+| 37 | [Guber](http://twitter.com/search?q=Guber) | N/A |
+| 38 | [Jide](http://twitter.com/search?q=Jide) | N/A |
+| 39 | [Edeoga](http://twitter.com/search?q=Edeoga) | N/A |
+| 40 | [Ilorin](http://twitter.com/search?q=Ilorin) | N/A |
+| 41 | [#BreakingNews](http://twitter.com/search?q=%23BreakingNews) | N/A |
+| 42 | [#OMAnnecy](http://twitter.com/search?q=%23OMAnnecy) | N/A |
+| 43 | [#bachelor](http://twitter.com/search?q=%23bachelor) | N/A |
+| 44 | [#GRVforLagos](http://twitter.com/search?q=%23GRVforLagos) | N/A |
+| 45 | [#Grv4Lagos](http://twitter.com/search?q=%23Grv4Lagos) | N/A |
+| 46 | [#NLPWithPastorBolaji](http://twitter.com/search?q=%23NLPWithPastorBolaji) | N/A |
+| 47 | [#GRVisComing](http://twitter.com/search?q=%23GRVisComing) | N/A |
 
 
 

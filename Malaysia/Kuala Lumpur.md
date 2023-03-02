@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kuala Lumpur
 
-📆 Last Updated: `2023-03-02 08:16:55 UTC`
+📆 Last Updated: `2023-03-02 09:16:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [Malaysia](</Malaysia>)
 | 2 | [#BBWomenInMusic](http://twitter.com/search?q=%23BBWomenInMusic) | N/A |
 | 3 | [#TWICE_BreakthroughAward](http://twitter.com/search?q=%23TWICE_BreakthroughAward) | N/A |
 | 4 | [#MuseLiveInKL](http://twitter.com/search?q=%23MuseLiveInKL) | N/A |
-| 5 | [#WillOfThePeople](http://twitter.com/search?q=%23WillOfThePeople) | N/A |
-| 6 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 5 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 6 | [pika](http://twitter.com/search?q=pika) | N/A |
 | 7 | [Red Velvet](http://twitter.com/search?q=Red+Velvet) | N/A |
-| 8 | [pika](http://twitter.com/search?q=pika) | N/A |
-| 9 | [JHOPE](http://twitter.com/search?q=JHOPE) | N/A |
-| 10 | [Top 5](http://twitter.com/search?q=Top+5) | Top 5 is a phrase used to refer to the five best or most popular items in a particular category. It is commonly used to refer to the five best movies, songs, books, or other items in a given field. |
-| 11 | [lee haechan](http://twitter.com/search?q=lee+haechan) | N/A |
-| 12 | [#MoonlightChickenEP7](http://twitter.com/search?q=%23MoonlightChickenEP7) | N/A |
-| 13 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 14 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 15 | [TY WEARS LOEWE](http://twitter.com/search?q=TY+WEARS+LOEWE) | N/A |
-| 16 | [TWICE BILLBOARD AWARD](http://twitter.com/search?q=TWICE+BILLBOARD+AWARD) | N/A |
-| 17 | [Le Sserafim](http://twitter.com/search?q=Le+Sserafim) | N/A |
-| 18 | [Mino](http://twitter.com/search?q=Mino) | N/A |
-| 19 | [jihyo](http://twitter.com/search?q=jihyo) | Jihyo is a Korean given name, usually for females. It is composed of two characters, the first meaning "wisdom" and the second meaning "beauty". In English, it can be translated to mean "wise beauty". |
-| 20 | [iKON](http://twitter.com/search?q=iKON) | N/A |
-| 21 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 22 | [Plain Water](http://twitter.com/search?q=Plain+Water) | N/A |
-| 23 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 24 | [New Jeans](http://twitter.com/search?q=New+Jeans) | N/A |
-| 25 | [Teh O](http://twitter.com/search?q=Teh+O) | N/A |
-| 26 | [5M BUILD](http://twitter.com/search?q=5M+BUILD) | N/A |
-| 27 | [HOORAY FOR 2](http://twitter.com/search?q=HOORAY+FOR+2) | N/A |
-| 28 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 29 | [Green Tea](http://twitter.com/search?q=Green+Tea) | N/A |
-| 30 | [Jota](http://twitter.com/search?q=Jota) | N/A |
-| 31 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 32 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
-| 33 | [Cleanser](http://twitter.com/search?q=Cleanser) | N/A |
-| 34 | [Pejuang](http://twitter.com/search?q=Pejuang) | N/A |
-| 35 | [GOSE](http://twitter.com/search?q=GOSE) | N/A |
-| 36 | [together for build](http://twitter.com/search?q=together+for+build) | N/A |
-| 37 | [Sunscreen - 3w](http://twitter.com/search?q=Sunscreen+-+3w) | N/A |
-| 38 | [Sunscreen - Biore](http://twitter.com/search?q=Sunscreen+-+Biore) | N/A |
-| 39 | [joonie](http://twitter.com/search?q=joonie) | N/A |
-| 40 | [sam levinson](http://twitter.com/search?q=sam+levinson) | N/A |
-| 41 | [Starboy](http://twitter.com/search?q=Starboy) | "Starboy" is a song by Canadian singer The Weeknd, released as the lead single from his third studio album of the same name. The song's title is a reference to The Weeknd's persona and is meant to signify his rise to fame. In English, "Starboy" can be interpreted as someone who has achieved great success and is now living the life of a celebrity. |
-| 42 | [Toby](http://twitter.com/search?q=Toby) | N/A |
-| 43 | [DONE MAI](http://twitter.com/search?q=DONE+MAI) | N/A |
-| 44 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 45 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 46 | [Monsta X](http://twitter.com/search?q=Monsta+X) | N/A |
-| 47 | [Iced Latte](http://twitter.com/search?q=Iced+Latte) | N/A |
+| 8 | [Top 5](http://twitter.com/search?q=Top+5) | Top 5 is a phrase used to refer to the five best or most popular items in a particular category. It is commonly used to refer to the five best movies, songs, books, or other items in a given field. |
+| 9 | [#MoonlightChickenEP7](http://twitter.com/search?q=%23MoonlightChickenEP7) | N/A |
+| 10 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
+| 11 | [Le Sserafim](http://twitter.com/search?q=Le+Sserafim) | N/A |
+| 12 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
+| 13 | [TY WEARS LOEWE](http://twitter.com/search?q=TY+WEARS+LOEWE) | N/A |
+| 14 | [Mino](http://twitter.com/search?q=Mino) | N/A |
+| 15 | [TWICE BILLBOARD AWARD](http://twitter.com/search?q=TWICE+BILLBOARD+AWARD) | N/A |
+| 16 | [jihyo](http://twitter.com/search?q=jihyo) | Jihyo is a Korean given name, usually for females. It is composed of two characters, the first meaning "wisdom" and the second meaning "beauty". In English, it can be translated to mean "wise beauty". |
+| 17 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 18 | [Teh Ais](http://twitter.com/search?q=Teh+Ais) | N/A |
+| 19 | [JHOPE](http://twitter.com/search?q=JHOPE) | N/A |
+| 20 | [Plain Water](http://twitter.com/search?q=Plain+Water) | N/A |
+| 21 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
+| 22 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 23 | [New Jeans](http://twitter.com/search?q=New+Jeans) | N/A |
+| 24 | [5M BUILD](http://twitter.com/search?q=5M+BUILD) | N/A |
+| 25 | [HOORAY FOR 2](http://twitter.com/search?q=HOORAY+FOR+2) | N/A |
+| 26 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 27 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
+| 28 | [sam levinson](http://twitter.com/search?q=sam+levinson) | N/A |
+| 29 | [Jota](http://twitter.com/search?q=Jota) | N/A |
+| 30 | [Cleanser](http://twitter.com/search?q=Cleanser) | N/A |
+| 31 | [Pejuang](http://twitter.com/search?q=Pejuang) | N/A |
+| 32 | [GoSe](http://twitter.com/search?q=GoSe) | N/A |
+| 33 | [together for build](http://twitter.com/search?q=together+for+build) | N/A |
+| 34 | [Sunscreen - Biore](http://twitter.com/search?q=Sunscreen+-+Biore) | N/A |
+| 35 | [Sunscreen - 3w](http://twitter.com/search?q=Sunscreen+-+3w) | N/A |
+| 36 | [Green Tea](http://twitter.com/search?q=Green+Tea) | N/A |
+| 37 | [Starboy](http://twitter.com/search?q=Starboy) | "Starboy" is a song by Canadian singer The Weeknd, released as the lead single from his third studio album of the same name. The song's title is a reference to The Weeknd's persona and is meant to signify his rise to fame. In English, "Starboy" can be interpreted as someone who has achieved great success and is now living the life of a celebrity. |
+| 38 | [Toby](http://twitter.com/search?q=Toby) | N/A |
+| 39 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 40 | [DONE MAI](http://twitter.com/search?q=DONE+MAI) | N/A |
+| 41 | [Kyungsoo](http://twitter.com/search?q=Kyungsoo) | Kyungsoo is a Korean given name, usually for males. It is derived from the Chinese characters for “bright” and “handsome”. In English, it can be translated to mean “shining handsome one”. |
+| 42 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 43 | [Iced Latte](http://twitter.com/search?q=Iced+Latte) | N/A |
+| 44 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
+| 45 | [Monsta X](http://twitter.com/search?q=Monsta+X) | N/A |
+| 46 | [Penang](http://twitter.com/search?q=Penang) | N/A |
+| 47 | [Honey Lemon](http://twitter.com/search?q=Honey+Lemon) | N/A |
 | 48 | [JISOO THE FACE OF DIOR](http://twitter.com/search?q=JISOO+THE+FACE+OF+DIOR) | N/A |
-| 49 | [Penang](http://twitter.com/search?q=Penang) | N/A |
-| 50 | [Limau Ais](http://twitter.com/search?q=Limau+Ais) | N/A |
+| 49 | [Limau Ais](http://twitter.com/search?q=Limau+Ais) | N/A |
+| 50 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
 
 
 

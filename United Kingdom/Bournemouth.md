@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bournemouth
 
-📆 Last Updated: `2023-03-02 08:16:30 UTC`
+📆 Last Updated: `2023-03-02 09:15:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,43 +15,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 2 | [Andrew](http://twitter.com/search?q=Andrew) | N/A |
-| 3 | [Charles](http://twitter.com/search?q=Charles) | N/A |
-| 4 | [Covid](http://twitter.com/search?q=Covid) | N/A |
-| 5 | [#WorldBookDay](http://twitter.com/search?q=%23WorldBookDay) | N/A |
-| 6 | [#r4today](http://twitter.com/search?q=%23r4today) | N/A |
-| 7 | [Gavin Williamson](http://twitter.com/search?q=Gavin+Williamson) | N/A |
-| 8 | [Daily Quordle 402](http://twitter.com/search?q=Daily+Quordle+402) | N/A |
-| 9 | [JCOLE](http://twitter.com/search?q=JCOLE) | N/A |
-| 10 | [WE NEED BOOKS](http://twitter.com/search?q=WE+NEED+BOOKS) | N/A |
-| 11 | [Hancock](http://twitter.com/search?q=Hancock) | N/A |
-| 12 | [McDonalds](http://twitter.com/search?q=McDonalds) | N/A |
-| 13 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
-| 14 | [Unions](http://twitter.com/search?q=Unions) | N/A |
-| 15 | [JHOPE](http://twitter.com/search?q=JHOPE) | N/A |
-| 16 | [Teachers](http://twitter.com/search?q=Teachers) | N/A |
-| 17 | [Badenoch](http://twitter.com/search?q=Badenoch) | N/A |
+| 1 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 2 | [#PayUp](http://twitter.com/search?q=%23PayUp) | N/A |
+| 3 | [#WorldBookDay](http://twitter.com/search?q=%23WorldBookDay) | N/A |
+| 4 | [#r4today](http://twitter.com/search?q=%23r4today) | N/A |
+| 5 | [Gavin Williamson](http://twitter.com/search?q=Gavin+Williamson) | N/A |
+| 6 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
+| 7 | [McDonalds](http://twitter.com/search?q=McDonalds) | N/A |
+| 8 | [Unions](http://twitter.com/search?q=Unions) | N/A |
+| 9 | [Isabel Oakeshott](http://twitter.com/search?q=Isabel+Oakeshott) | N/A |
+| 10 | [Daily Quordle 402](http://twitter.com/search?q=Daily+Quordle+402) | N/A |
+| 11 | [J COLE](http://twitter.com/search?q=J+COLE) | N/A |
+| 12 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
+| 13 | [Teachers](http://twitter.com/search?q=Teachers) | N/A |
+| 14 | [WE NEED BOOKS](http://twitter.com/search?q=WE+NEED+BOOKS) | N/A |
+| 15 | [Nick Robinson](http://twitter.com/search?q=Nick+Robinson) | N/A |
+| 16 | [Badenoch](http://twitter.com/search?q=Badenoch) | N/A |
+| 17 | [JHOPE](http://twitter.com/search?q=JHOPE) | N/A |
 | 18 | [Frogmore](http://twitter.com/search?q=Frogmore) | N/A |
-| 19 | [Meghan](http://twitter.com/search?q=Meghan) | N/A |
-| 20 | [Telegraph](http://twitter.com/search?q=Telegraph) | N/A |
-| 21 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
-| 22 | [ENIC](http://twitter.com/search?q=ENIC) | N/A |
+| 19 | [Yoruba](http://twitter.com/search?q=Yoruba) | N/A |
+| 20 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
+| 21 | [Meghan](http://twitter.com/search?q=Meghan) | N/A |
+| 22 | [Andrew](http://twitter.com/search?q=Andrew) | N/A |
 | 23 | [Levy](http://twitter.com/search?q=Levy) | Levy is a noun that refers to a tax or fee imposed by a government or other authority. It can also refer to the act of collecting such a tax or fee. |
-| 24 | [Poch](http://twitter.com/search?q=Poch) | Poch is a Spanish slang term that means "lazy" or "slacker." It is often used to describe someone who is not motivated or who avoids work. |
-| 25 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 26 | [Sheff Utd](http://twitter.com/search?q=Sheff+Utd) | N/A |
-| 27 | [Dier](http://twitter.com/search?q=Dier) | N/A |
-| 28 | [Clarkson](http://twitter.com/search?q=Clarkson) | Clarkson is a surname of English origin. It is derived from the Old English word "clerc" meaning "cleric" or "scholar". The name was originally given to someone who was a clerk or scholar. |
-| 29 | [#WBD23](http://twitter.com/search?q=%23WBD23) | N/A |
-| 30 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
-| 31 | [#earlybiz](http://twitter.com/search?q=%23earlybiz) | N/A |
-| 32 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
-| 33 | [#ANGS](http://twitter.com/search?q=%23ANGS) | N/A |
-| 34 | [#lockdownfiles](http://twitter.com/search?q=%23lockdownfiles) | N/A |
-| 35 | [#Oakeshott](http://twitter.com/search?q=%23Oakeshott) | N/A |
-| 36 | [#33Thirds](http://twitter.com/search?q=%2333Thirds) | N/A |
-| 37 | [#readingforpleasure](http://twitter.com/search?q=%23readingforpleasure) | N/A |
+| 24 | [Telegraph](http://twitter.com/search?q=Telegraph) | N/A |
+| 25 | [Wakefield](http://twitter.com/search?q=Wakefield) | N/A |
+| 26 | [Tice](http://twitter.com/search?q=Tice) | N/A |
+| 27 | [Poch](http://twitter.com/search?q=Poch) | Poch is a Spanish slang term that means "lazy" or "slacker." It is often used to describe someone who is not motivated or who avoids work. |
+| 28 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
+| 29 | [Vine](http://twitter.com/search?q=Vine) | N/A |
+| 30 | [ENIC](http://twitter.com/search?q=ENIC) | N/A |
+| 31 | [Batley](http://twitter.com/search?q=Batley) | N/A |
+| 32 | [Whitty](http://twitter.com/search?q=Whitty) | N/A |
+| 33 | [Sheff Utd](http://twitter.com/search?q=Sheff+Utd) | N/A |
+| 34 | [Clarkson](http://twitter.com/search?q=Clarkson) | Clarkson is a surname of English origin. It is derived from the Old English word "clerc" meaning "cleric" or "scholar". The name was originally given to someone who was a clerk or scholar. |
+| 35 | [Dier](http://twitter.com/search?q=Dier) | N/A |
+| 36 | [Royal Family](http://twitter.com/search?q=Royal+Family) | N/A |
+| 37 | [#WBD23](http://twitter.com/search?q=%23WBD23) | N/A |
+| 38 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
+| 39 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
+| 40 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
+| 41 | [#lockdownfiles](http://twitter.com/search?q=%23lockdownfiles) | N/A |
+| 42 | [#ANGS](http://twitter.com/search?q=%23ANGS) | N/A |
+| 43 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 44 | [#AdoorableThursday](http://twitter.com/search?q=%23AdoorableThursday) | N/A |
+| 45 | [#earlybiz](http://twitter.com/search?q=%23earlybiz) | N/A |
+| 46 | [#readingforpleasure](http://twitter.com/search?q=%23readingforpleasure) | N/A |
+| 47 | [#ToriesOut238](http://twitter.com/search?q=%23ToriesOut238) | N/A |
+| 48 | [#Eurovision2023](http://twitter.com/search?q=%23Eurovision2023) | N/A |
 
 
 

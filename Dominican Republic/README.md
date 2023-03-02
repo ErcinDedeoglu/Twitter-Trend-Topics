@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dominican Republic
 
-📆 Last Updated: `2023-03-02 08:17:18 UTC`
+📆 Last Updated: `2023-03-02 09:16:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -38,7 +38,7 @@ This is top 50 for Dominican Republic
 | 21 | [Grecia](http://twitter.com/search?q=Grecia) | N/A |
 | 22 | [Los Ángeles](http://twitter.com/search?q=Los+%c3%81ngeles) | N/A |
 | 23 | [Justin Bieber](http://twitter.com/search?q=Justin+Bieber) | N/A |
-| 24 | [Omar Fernández](http://twitter.com/search?q=Omar+Fern%c3%a1ndez) | N/A |
+| 24 | [Bienvenida](http://twitter.com/search?q=Bienvenida) | N/A |
 | 25 | [hot entra](http://twitter.com/search?q=hot+entra) | N/A |
 | 26 | [new contenido](http://twitter.com/search?q=new+contenido) | N/A |
 | 27 | [Lester Quiñones](http://twitter.com/search?q=Lester+Qui%c3%b1ones) | N/A |
@@ -59,7 +59,7 @@ This is top 50 for Dominican Republic
 | 42 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
 | 43 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
 | 44 | [Falcon 9](http://twitter.com/search?q=Falcon+9) | N/A |
-| 45 | [mapfre](http://twitter.com/search?q=mapfre) | N/A |
+| 45 | [MAPFRE](http://twitter.com/search?q=MAPFRE) | N/A |
 | 46 | [rafael alburquerque](http://twitter.com/search?q=rafael+alburquerque) | N/A |
 | 47 | [Inglaterra](http://twitter.com/search?q=Inglaterra) | N/A |
 | 48 | [tenares](http://twitter.com/search?q=tenares) | N/A |

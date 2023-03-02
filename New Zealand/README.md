@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Zealand
 
-📆 Last Updated: `2023-03-02 08:17:22 UTC`
+📆 Last Updated: `2023-03-02 09:16:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,21 +19,21 @@ This is top 50 for New Zealand
 | 2 | [Drag](http://twitter.com/search?q=Drag) | N/A |
 | 3 | [JCOLE](http://twitter.com/search?q=JCOLE) | N/A |
 | 4 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 5 | [#mafsaunz](http://twitter.com/search?q=%23mafsaunz) | N/A |
-| 6 | [brian tamaki](http://twitter.com/search?q=brian+tamaki) | N/A |
-| 7 | [Marae](http://twitter.com/search?q=Marae) | N/A |
-| 8 | [Rotorua](http://twitter.com/search?q=Rotorua) | N/A |
-| 9 | [Byron](http://twitter.com/search?q=Byron) | N/A |
-| 10 | [#teuonstrike](http://twitter.com/search?q=%23teuonstrike) | N/A |
-| 11 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
+| 5 | [Marae](http://twitter.com/search?q=Marae) | N/A |
+| 6 | [Brian Tamaki](http://twitter.com/search?q=Brian+Tamaki) | N/A |
+| 7 | [Byron](http://twitter.com/search?q=Byron) | N/A |
+| 8 | [#teuonstrike](http://twitter.com/search?q=%23teuonstrike) | N/A |
+| 9 | [Rotorua](http://twitter.com/search?q=Rotorua) | N/A |
+| 10 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
+| 11 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
 | 12 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
 | 13 | [Dame Edna](http://twitter.com/search?q=Dame+Edna) | N/A |
-| 14 | [Pikamee](http://twitter.com/search?q=Pikamee) | N/A |
-| 15 | [Wayne](http://twitter.com/search?q=Wayne) | Wayne is a masculine given name in English, derived from an Old English surname meaning "wagon maker" or "wagon driver". It is also used as a surname. |
+| 14 | [Wayne](http://twitter.com/search?q=Wayne) | Wayne is a masculine given name in English, derived from an Old English surname meaning "wagon maker" or "wagon driver". It is also used as a surname. |
+| 15 | [Pikamee](http://twitter.com/search?q=Pikamee) | N/A |
 | 16 | [#BeyondFast](http://twitter.com/search?q=%23BeyondFast) | #BeyondFast is a hashtag used to describe something that goes beyond the speed of fast. It is used to emphasize the idea that something is faster than fast, or that it surpasses the speed of fast. |
 | 17 | [Bishop](http://twitter.com/search?q=Bishop) | N/A |
-| 18 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
-| 19 | [All Blacks](http://twitter.com/search?q=All+Blacks) | N/A |
+| 18 | [All Blacks](http://twitter.com/search?q=All+Blacks) | N/A |
+| 19 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
 | 20 | [Maori](http://twitter.com/search?q=Maori) | N/A |
 | 21 | [Vanuatu](http://twitter.com/search?q=Vanuatu) | N/A |
 | 22 | [Jasper](http://twitter.com/search?q=Jasper) | N/A |
@@ -44,27 +44,27 @@ This is top 50 for New Zealand
 | 27 | [Tusiata Avia](http://twitter.com/search?q=Tusiata+Avia) | N/A |
 | 28 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
 | 29 | [La Niña](http://twitter.com/search?q=La+Ni%c3%b1a) | N/A |
-| 30 | [Liz Gunn](http://twitter.com/search?q=Liz+Gunn) | N/A |
-| 31 | [Kim Hill](http://twitter.com/search?q=Kim+Hill) | N/A |
-| 32 | [Bloomfield](http://twitter.com/search?q=Bloomfield) | N/A |
-| 33 | [Chuck](http://twitter.com/search?q=Chuck) | N/A |
+| 30 | [Kim Hill](http://twitter.com/search?q=Kim+Hill) | N/A |
+| 31 | [Bloomfield](http://twitter.com/search?q=Bloomfield) | N/A |
+| 32 | [chuck](http://twitter.com/search?q=chuck) | N/A |
+| 33 | [Jason](http://twitter.com/search?q=Jason) | Jason is a masculine given name of Greek origin. It is derived from the Greek Ἰάσων (Iásōn), meaning "healer" or "the one who cures". |
 | 34 | [Coster](http://twitter.com/search?q=Coster) | N/A |
-| 35 | [Jason](http://twitter.com/search?q=Jason) | Jason is a masculine given name of Greek origin. It is derived from the Greek Ἰάσων (Iásōn), meaning "healer" or "the one who cures". |
-| 36 | [Jacinda Ardern](http://twitter.com/search?q=Jacinda+Ardern) | Jacinda Ardern is the current Prime Minister of New Zealand. She is the 40th Prime Minister of New Zealand and the youngest female head of government in the world. She has been in office since October 2017. Her name is derived from the Māori language and means "peaceful one". |
-| 37 | [David Parker](http://twitter.com/search?q=David+Parker) | N/A |
-| 38 | [Kevin](http://twitter.com/search?q=Kevin) | N/A |
-| 39 | [Charles](http://twitter.com/search?q=Charles) | N/A |
-| 40 | [NIWA](http://twitter.com/search?q=NIWA) | N/A |
-| 41 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 42 | [Chantelle](http://twitter.com/search?q=Chantelle) | N/A |
-| 43 | [Karen](http://twitter.com/search?q=Karen) | N/A |
-| 44 | [Daniel](http://twitter.com/search?q=Daniel) | N/A |
-| 45 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
-| 46 | [Chur](http://twitter.com/search?q=Chur) | N/A |
+| 35 | [Liz Gunn](http://twitter.com/search?q=Liz+Gunn) | N/A |
+| 36 | [David Parker](http://twitter.com/search?q=David+Parker) | N/A |
+| 37 | [Kevin](http://twitter.com/search?q=Kevin) | N/A |
+| 38 | [NIWA](http://twitter.com/search?q=NIWA) | N/A |
+| 39 | [Poland](http://twitter.com/search?q=Poland) | N/A |
+| 40 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 41 | [Ardern](http://twitter.com/search?q=Ardern) | N/A |
+| 42 | [Karen](http://twitter.com/search?q=Karen) | N/A |
+| 43 | [Daniel](http://twitter.com/search?q=Daniel) | N/A |
+| 44 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
+| 45 | [Chur](http://twitter.com/search?q=Chur) | N/A |
+| 46 | [Chantelle](http://twitter.com/search?q=Chantelle) | N/A |
 | 47 | [Grooming](http://twitter.com/search?q=Grooming) | N/A |
-| 48 | [Fear](http://twitter.com/search?q=Fear) | N/A |
-| 49 | [Willie Jackson](http://twitter.com/search?q=Willie+Jackson) | N/A |
-| 50 | [mike hosking](http://twitter.com/search?q=mike+hosking) | N/A |
+| 48 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 49 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 50 | [Fear](http://twitter.com/search?q=Fear) | N/A |
 
 
 

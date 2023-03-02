@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pekanbaru
 
-📆 Last Updated: `2023-03-02 08:16:49 UTC`
+📆 Last Updated: `2023-03-02 09:16:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,51 +15,51 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SamsungM23dariShopee](http://twitter.com/search?q=%23SamsungM23dariShopee) | N/A |
-| 2 | [Silent](http://twitter.com/search?q=Silent) | N/A |
-| 3 | [JCOLE](http://twitter.com/search?q=JCOLE) | N/A |
-| 4 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
-| 5 | [TY WEARS LOEWE](http://twitter.com/search?q=TY+WEARS+LOEWE) | N/A |
-| 6 | [Jalur](http://twitter.com/search?q=Jalur) | N/A |
-| 7 | [TWICE BILLBOARD AWARD](http://twitter.com/search?q=TWICE+BILLBOARD+AWARD) | N/A |
-| 8 | [Andai](http://twitter.com/search?q=Andai) | N/A |
-| 9 | [J-HOPE](http://twitter.com/search?q=J-HOPE) | N/A |
-| 10 | [Berita Ekonomi Terkini](http://twitter.com/search?q=Berita+Ekonomi+Terkini) | N/A |
-| 11 | [Sisanya](http://twitter.com/search?q=Sisanya) | N/A |
-| 12 | [Adeknya](http://twitter.com/search?q=Adeknya) | N/A |
-| 13 | [Mino](http://twitter.com/search?q=Mino) | N/A |
-| 14 | [iKON](http://twitter.com/search?q=iKON) | N/A |
-| 15 | [BLOOMING WITH LEESEO](http://twitter.com/search?q=BLOOMING+WITH+LEESEO) | N/A |
-| 16 | [Kucingku](http://twitter.com/search?q=Kucingku) | N/A |
-| 17 | [Blackpink](http://twitter.com/search?q=Blackpink) | Blackpink is a South Korean girl group formed by YG Entertainment in 2016. The group consists of four members: Jisoo, Jennie, Rosé, and Lisa. The name "Blackpink" is a combination of the words "black" and "pink," which symbolizes the group's duality of both powerful and sweet elements. |
-| 18 | [minghao](http://twitter.com/search?q=minghao) | N/A |
-| 19 | [Gelora Buat Konser](http://twitter.com/search?q=Gelora+Buat+Konser) | N/A |
-| 20 | [Jambi](http://twitter.com/search?q=Jambi) | N/A |
-| 21 | [#JakartaBINPastiBisa](http://twitter.com/search?q=%23JakartaBINPastiBisa) | N/A |
-| 22 | [#BliMinBeliin](http://twitter.com/search?q=%23BliMinBeliin) | N/A |
-| 23 | [#BlibliSelalu](http://twitter.com/search?q=%23BlibliSelalu) | N/A |
-| 24 | [#PSSday](http://twitter.com/search?q=%23PSSday) | N/A |
-| 25 | [#ANISD](http://twitter.com/search?q=%23ANISD) | N/A |
-| 26 | [#TAEYONGtoPFW23](http://twitter.com/search?q=%23TAEYONGtoPFW23) | N/A |
-| 27 | [#KPKKenaPrank](http://twitter.com/search?q=%23KPKKenaPrank) | N/A |
-| 28 | [#LIKEITLIKEIT_MVTeaser2](http://twitter.com/search?q=%23LIKEITLIKEIT_MVTeaser2) | N/A |
-| 29 | [#BOBBY1stSoloSingle](http://twitter.com/search?q=%23BOBBY1stSoloSingle) | N/A |
-| 30 | [#BOCdoBetterForMile](http://twitter.com/search?q=%23BOCdoBetterForMile) | N/A |
-| 31 | [#BBWomenInMusic](http://twitter.com/search?q=%23BBWomenInMusic) | N/A |
-| 32 | [#on_the_street](http://twitter.com/search?q=%23on_the_street) | N/A |
-| 33 | [#TWICE_BreakthroughAward](http://twitter.com/search?q=%23TWICE_BreakthroughAward) | N/A |
-| 34 | [#SavePendampingDesa](http://twitter.com/search?q=%23SavePendampingDesa) | N/A |
-| 35 | [#WelcomeLeeseoToHanlim](http://twitter.com/search?q=%23WelcomeLeeseoToHanlim) | N/A |
-| 36 | [#LIKE_IT_LIKE_IT](http://twitter.com/search?q=%23LIKE_IT_LIKE_IT) | N/A |
-| 37 | [#ZeeNuNewKoreaInterview](http://twitter.com/search?q=%23ZeeNuNewKoreaInterview) | N/A |
-| 38 | [#HARAM](http://twitter.com/search?q=%23HARAM) | N/A |
-| 39 | [#TOP100KPOPMAKNAES](http://twitter.com/search?q=%23TOP100KPOPMAKNAES) | N/A |
-| 40 | [#GerakanUntukGanjar](http://twitter.com/search?q=%23GerakanUntukGanjar) | N/A |
-| 41 | [#VirgoandTheSparklings](http://twitter.com/search?q=%23VirgoandTheSparklings) | N/A |
-| 42 | [#RPLDesa](http://twitter.com/search?q=%23RPLDesa) | N/A |
-| 43 | [#シークレットナンバー](http://twitter.com/search?q=%23%e3%82%b7%e3%83%bc%e3%82%af%e3%83%ac%e3%83%83%e3%83%88%e3%83%8a%e3%83%b3%e3%83%90%e3%83%bc) | N/A |
-| 44 | [#JISOOxDUNST](http://twitter.com/search?q=%23JISOOxDUNST) | N/A |
-| 45 | [#KembangApi](http://twitter.com/search?q=%23KembangApi) | N/A |
+| 1 | [#EpicSurpriseParty](http://twitter.com/search?q=%23EpicSurpriseParty) | N/A |
+| 2 | [Epic Grand Prize](http://twitter.com/search?q=Epic+Grand+Prize) | N/A |
+| 3 | [JKT48 Hujan Voucher Lazada](http://twitter.com/search?q=JKT48+Hujan+Voucher+Lazada) | N/A |
+| 4 | [Silent](http://twitter.com/search?q=Silent) | N/A |
+| 5 | [2024 Anies AHY](http://twitter.com/search?q=2024+Anies+AHY) | N/A |
+| 6 | [JCOLE](http://twitter.com/search?q=JCOLE) | N/A |
+| 7 | [ARTIST AND STAFF](http://twitter.com/search?q=ARTIST+AND+STAFF) | N/A |
+| 8 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
+| 9 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 10 | [Sheila Dara](http://twitter.com/search?q=Sheila+Dara) | N/A |
+| 11 | [Ini Twitter](http://twitter.com/search?q=Ini+Twitter) | N/A |
+| 12 | [Gelora Buat Konser](http://twitter.com/search?q=Gelora+Buat+Konser) | N/A |
+| 13 | [Jalur](http://twitter.com/search?q=Jalur) | N/A |
+| 14 | [TWICE BILLBOARD AWARD](http://twitter.com/search?q=TWICE+BILLBOARD+AWARD) | N/A |
+| 15 | [Sisanya](http://twitter.com/search?q=Sisanya) | N/A |
+| 16 | [J-HOPE](http://twitter.com/search?q=J-HOPE) | N/A |
+| 17 | [TY WEARS LOEWE](http://twitter.com/search?q=TY+WEARS+LOEWE) | N/A |
+| 18 | [Andai](http://twitter.com/search?q=Andai) | N/A |
+| 19 | [Kamis](http://twitter.com/search?q=Kamis) | N/A |
+| 20 | [BLOOMING WITH LEESEO](http://twitter.com/search?q=BLOOMING+WITH+LEESEO) | N/A |
+| 21 | [Kucingku](http://twitter.com/search?q=Kucingku) | N/A |
+| 22 | [Persija](http://twitter.com/search?q=Persija) | Persija is a football club based in Jakarta, Indonesia. The name is derived from the Sanskrit word for 'victory', and it is also the nickname of the team's supporters. In English, Persija translates to 'Victorious'. |
+| 23 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
+| 24 | [Hari RPL Desa](http://twitter.com/search?q=Hari+RPL+Desa) | N/A |
+| 25 | [#SamsungM23dariShopee](http://twitter.com/search?q=%23SamsungM23dariShopee) | N/A |
+| 26 | [#WINWINxValentino](http://twitter.com/search?q=%23WINWINxValentino) | N/A |
+| 27 | [#BienvenueWINWINàParis](http://twitter.com/search?q=%23BienvenueWINWIN%c3%a0Paris) | N/A |
+| 28 | [#BliMinBeliin](http://twitter.com/search?q=%23BliMinBeliin) | N/A |
+| 29 | [#DemokratPimpinPerubahan](http://twitter.com/search?q=%23DemokratPimpinPerubahan) | N/A |
+| 30 | [#ANISD](http://twitter.com/search?q=%23ANISD) | N/A |
+| 31 | [#BlibliSelalu](http://twitter.com/search?q=%23BlibliSelalu) | N/A |
+| 32 | [#JakartaBINPastiBisa](http://twitter.com/search?q=%23JakartaBINPastiBisa) | N/A |
+| 33 | [#KPKKenaPrank](http://twitter.com/search?q=%23KPKKenaPrank) | N/A |
+| 34 | [#PSSday](http://twitter.com/search?q=%23PSSday) | N/A |
+| 35 | [#LIKEITLIKEIT_MVTeaser2](http://twitter.com/search?q=%23LIKEITLIKEIT_MVTeaser2) | N/A |
+| 36 | [#SavePendampingDesa](http://twitter.com/search?q=%23SavePendampingDesa) | N/A |
+| 37 | [#TAEYONGtoPFW23](http://twitter.com/search?q=%23TAEYONGtoPFW23) | N/A |
+| 38 | [#BOCdoBetterForMile](http://twitter.com/search?q=%23BOCdoBetterForMile) | N/A |
+| 39 | [#TWICE_BreakthroughAward](http://twitter.com/search?q=%23TWICE_BreakthroughAward) | N/A |
+| 40 | [#BBWomenInMusic](http://twitter.com/search?q=%23BBWomenInMusic) | N/A |
+| 41 | [#TOP100KPOPMAKNAES](http://twitter.com/search?q=%23TOP100KPOPMAKNAES) | N/A |
+| 42 | [#HARAM](http://twitter.com/search?q=%23HARAM) | N/A |
+| 43 | [#ZeeNuNewKoreaInterview](http://twitter.com/search?q=%23ZeeNuNewKoreaInterview) | N/A |
+| 44 | [#VirgoandTheSparklings](http://twitter.com/search?q=%23VirgoandTheSparklings) | N/A |
+| 45 | [#on_the_street](http://twitter.com/search?q=%23on_the_street) | N/A |
 
 
 

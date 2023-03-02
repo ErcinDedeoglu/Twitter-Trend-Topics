@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Eskişehir
 
-📆 Last Updated: `2023-03-02 08:17:07 UTC`
+📆 Last Updated: `2023-03-02 09:16:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,51 +15,55 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#EYTAcilResmiGazeteye](http://twitter.com/search?q=%23EYTAcilResmiGazeteye) | N/A |
-| 2 | [#perşembe](http://twitter.com/search?q=%23per%c5%9fembe) | N/A |
-| 3 | [#TekDileğimiz](http://twitter.com/search?q=%23TekDile%c4%9fimiz) | N/A |
-| 4 | [#İstifaEtmeli](http://twitter.com/search?q=%23%c4%b0stifaEtmeli) | N/A |
-| 5 | [ÇokUygun TTHizmeti](http://twitter.com/search?q=%c3%87okUygun+TTHizmeti) | N/A |
-| 6 | [#secim2023](http://twitter.com/search?q=%23secim2023) | N/A |
-| 7 | [Günaydınlar](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nlar) | N/A |
-| 8 | [Yusuf Kaplan](http://twitter.com/search?q=Yusuf+Kaplan) | N/A |
-| 9 | [Yemişim](http://twitter.com/search?q=Yemi%c5%9fim) | N/A |
-| 10 | [Rojbaş](http://twitter.com/search?q=Rojba%c5%9f) | N/A |
-| 11 | [Kürt](http://twitter.com/search?q=K%c3%bcrt) | N/A |
-| 12 | [Murat Gezici](http://twitter.com/search?q=Murat+Gezici) | N/A |
-| 13 | [Terlik](http://twitter.com/search?q=Terlik) | N/A |
-| 14 | [Tunceli](http://twitter.com/search?q=Tunceli) | N/A |
-| 15 | [Tarık](http://twitter.com/search?q=Tar%c4%b1k) | N/A |
-| 16 | [Millet İttifakı](http://twitter.com/search?q=Millet+%c4%b0ttifak%c4%b1) | N/A |
-| 17 | [Selahattin Demirtaş](http://twitter.com/search?q=Selahattin+Demirta%c5%9f) | N/A |
-| 18 | [Evli](http://twitter.com/search?q=Evli) | N/A |
-| 19 | [Ekmeleddin](http://twitter.com/search?q=Ekmeleddin) | N/A |
-| 20 | [Omuz Omuza](http://twitter.com/search?q=Omuz+Omuza) | N/A |
+| 1 | [Asrın Dayanışması](http://twitter.com/search?q=Asr%c4%b1n+Dayan%c4%b1%c5%9fmas%c4%b1) | N/A |
+| 2 | [#EYTAcilResmiGazeteye](http://twitter.com/search?q=%23EYTAcilResmiGazeteye) | N/A |
+| 3 | [#MansurYavasadayolsun](http://twitter.com/search?q=%23MansurYavasadayolsun) | N/A |
+| 4 | [Varsaymak](http://twitter.com/search?q=Varsaymak) | N/A |
+| 5 | [#perşembe](http://twitter.com/search?q=%23per%c5%9fembe) | N/A |
+| 6 | [#TekDileğimiz](http://twitter.com/search?q=%23TekDile%c4%9fimiz) | N/A |
+| 7 | [#secim2023](http://twitter.com/search?q=%23secim2023) | N/A |
+| 8 | [ÇokUygun TTHizmeti](http://twitter.com/search?q=%c3%87okUygun+TTHizmeti) | N/A |
+| 9 | [Varsayıyoruz](http://twitter.com/search?q=Varsay%c4%b1yoruz) | N/A |
+| 10 | [Terlik](http://twitter.com/search?q=Terlik) | N/A |
+| 11 | [Yusuf Kaplan](http://twitter.com/search?q=Yusuf+Kaplan) | N/A |
+| 12 | [Yemişim](http://twitter.com/search?q=Yemi%c5%9fim) | N/A |
+| 13 | [Günaydınlar](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nlar) | N/A |
+| 14 | [Murat Gezici](http://twitter.com/search?q=Murat+Gezici) | N/A |
+| 15 | [Kürt](http://twitter.com/search?q=K%c3%bcrt) | N/A |
+| 16 | [Serdar Tuncer](http://twitter.com/search?q=Serdar+Tuncer) | N/A |
+| 17 | [Tunceli](http://twitter.com/search?q=Tunceli) | N/A |
+| 18 | [Anketi](http://twitter.com/search?q=Anketi) | N/A |
+| 19 | [Rojbaş](http://twitter.com/search?q=Rojba%c5%9f) | N/A |
+| 20 | [Evli](http://twitter.com/search?q=Evli) | N/A |
 | 21 | [ÖncelikAf SonraSeçim](http://twitter.com/search?q=%c3%96ncelikAf+SonraSe%c3%a7im) | N/A |
-| 22 | [Anket](http://twitter.com/search?q=Anket) | N/A |
-| 23 | [Altılı Masa](http://twitter.com/search?q=Alt%c4%b1l%c4%b1+Masa) | Altılı Masa is a Turkish card game. It is similar to the American game of poker, but with some differences. The name translates literally to "Six Table" and refers to the six players who can play at one time. The goal of the game is to make the best five-card hand out of seven cards dealt to each player. |
-| 24 | [#StajaHakkınıVerin](http://twitter.com/search?q=%23StajaHakk%c4%b1n%c4%b1Verin) | N/A |
-| 25 | [#MilletİktidarOlacak](http://twitter.com/search?q=%23Millet%c4%b0ktidarOlacak) | N/A |
-| 26 | [#aday](http://twitter.com/search?q=%23aday) | N/A |
-| 27 | [#BoynumuzunBorcudur](http://twitter.com/search?q=%23BoynumuzunBorcudur) | N/A |
-| 28 | [#Beştepe5000VekısmiyiEkler](http://twitter.com/search?q=%23Be%c5%9ftepe5000Vek%c4%b1smiyiEkler) | N/A |
-| 29 | [#öldü](http://twitter.com/search?q=%23%c3%b6ld%c3%bc) | N/A |
-| 30 | [#kozal](http://twitter.com/search?q=%23kozal) | N/A |
-| 31 | [#Survivor](http://twitter.com/search?q=%23Survivor) | N/A |
-| 32 | [#petkm](http://twitter.com/search?q=%23petkm) | N/A |
-| 33 | [#2Mart](http://twitter.com/search?q=%232Mart) | N/A |
-| 34 | [#2000lerinOyuAdalete](http://twitter.com/search?q=%232000lerinOyuAdalete) | N/A |
-| 35 | [#toaso](http://twitter.com/search?q=%23toaso) | N/A |
-| 36 | [#HayırlıSabahlar](http://twitter.com/search?q=%23Hay%c4%b1rl%c4%b1Sabahlar) | N/A |
-| 37 | [#thyao](http://twitter.com/search?q=%23thyao) | N/A |
-| 38 | [#DepremHaftası](http://twitter.com/search?q=%23DepremHaftas%c4%b1) | N/A |
-| 39 | [#YeşilayHaftası](http://twitter.com/search?q=%23Ye%c5%9filayHaftas%c4%b1) | N/A |
-| 40 | [#Şoför14MayısıBekliyor](http://twitter.com/search?q=%23%c5%9eof%c3%b6r14May%c4%b1s%c4%b1Bekliyor) | N/A |
-| 41 | [#kemalkilicdaroglu](http://twitter.com/search?q=%23kemalkilicdaroglu) | N/A |
-| 42 | [#isdmr](http://twitter.com/search?q=%23isdmr) | N/A |
-| 43 | [#MeralAkşener](http://twitter.com/search?q=%23MeralAk%c5%9fener) | #MeralAkşener is a hashtag used to refer to Meral Akşener, a Turkish politician and leader of the Good Party. She is the first female leader of a major political party in Turkey. The hashtag is used to discuss her policies, news related to her, and other topics related to her. In English, #MeralAkşener means "Meral Akşener". |
-| 44 | [#sahol](http://twitter.com/search?q=%23sahol) | N/A |
-| 45 | [#kchol](http://twitter.com/search?q=%23kchol) | N/A |
+| 22 | [İmamoğlu](http://twitter.com/search?q=%c4%b0mamo%c4%9flu) | N/A |
+| 23 | [Millet İttifakı](http://twitter.com/search?q=Millet+%c4%b0ttifak%c4%b1) | N/A |
+| 24 | [Selahattin Demirtaş](http://twitter.com/search?q=Selahattin+Demirta%c5%9f) | N/A |
+| 25 | [Ekmeleddin](http://twitter.com/search?q=Ekmeleddin) | N/A |
+| 26 | [Nagehan](http://twitter.com/search?q=Nagehan) | Nagehan is a Turkish female name, derived from the Arabic word najah, which means “success” or “victory”. In English, it can be translated to mean “successful” or “victorious”. |
+| 27 | [Tarık](http://twitter.com/search?q=Tar%c4%b1k) | N/A |
+| 28 | [Omuz Omuza](http://twitter.com/search?q=Omuz+Omuza) | N/A |
+| 29 | [Yıldız](http://twitter.com/search?q=Y%c4%b1ld%c4%b1z) | N/A |
+| 30 | [#İstifaEtmeli](http://twitter.com/search?q=%23%c4%b0stifaEtmeli) | N/A |
+| 31 | [#StajaHakkınıVerin](http://twitter.com/search?q=%23StajaHakk%c4%b1n%c4%b1Verin) | N/A |
+| 32 | [#MilletİktidarOlacak](http://twitter.com/search?q=%23Millet%c4%b0ktidarOlacak) | N/A |
+| 33 | [#Beştepe5000VekısmiyiEkler](http://twitter.com/search?q=%23Be%c5%9ftepe5000Vek%c4%b1smiyiEkler) | N/A |
+| 34 | [#Survivor](http://twitter.com/search?q=%23Survivor) | N/A |
+| 35 | [#kemalkilicdaroglu](http://twitter.com/search?q=%23kemalkilicdaroglu) | N/A |
+| 36 | [#BoynumuzunBorcudur](http://twitter.com/search?q=%23BoynumuzunBorcudur) | N/A |
+| 37 | [#kozal](http://twitter.com/search?q=%23kozal) | N/A |
+| 38 | [#petkm](http://twitter.com/search?q=%23petkm) | N/A |
+| 39 | [#2Mart](http://twitter.com/search?q=%232Mart) | N/A |
+| 40 | [#thyao](http://twitter.com/search?q=%23thyao) | N/A |
+| 41 | [#vertu](http://twitter.com/search?q=%23vertu) | N/A |
+| 42 | [#altılımasa](http://twitter.com/search?q=%23alt%c4%b1l%c4%b1masa) | #Altılımasa is a Turkish game similar to bingo. It is played with six dice and a board with 24 numbered squares. Players take turns rolling the dice and marking off the numbers on their board that match the numbers rolled. The first player to mark off all of their numbers wins the game. In English, #altılımasa translates to "six-dice table". |
+| 43 | [#öldü](http://twitter.com/search?q=%23%c3%b6ld%c3%bc) | N/A |
+| 44 | [#toaso](http://twitter.com/search?q=%23toaso) | N/A |
+| 45 | [#MeralAkşener](http://twitter.com/search?q=%23MeralAk%c5%9fener) | #MeralAkşener is a hashtag used to refer to Meral Akşener, a Turkish politician and leader of the Good Party. She is the first female leader of a major political party in Turkey. The hashtag is used to discuss her policies, news related to her, and other topics related to her. In English, #MeralAkşener means "Meral Akşener". |
+| 46 | [#2000lerinOyuAdalete](http://twitter.com/search?q=%232000lerinOyuAdalete) | N/A |
+| 47 | [#DepremHaftası](http://twitter.com/search?q=%23DepremHaftas%c4%b1) | N/A |
+| 48 | [#SılaTürkoğlu](http://twitter.com/search?q=%23S%c4%b1laT%c3%bcrko%c4%9flu) | N/A |
+| 49 | [#YeşilayHaftası](http://twitter.com/search?q=%23Ye%c5%9filayHaftas%c4%b1) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Monterrey
 
-📆 Last Updated: `2023-03-02 08:16:34 UTC`
+📆 Last Updated: `2023-03-02 09:15:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,49 +15,56 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 2 | [#Sismo](http://twitter.com/search?q=%23Sismo) | N/A |
-| 3 | [PARA NO VERTE MÁS](http://twitter.com/search?q=PARA+NO+VERTE+M%c3%81S) | N/A |
-| 4 | [J COLE](http://twitter.com/search?q=J+COLE) | N/A |
-| 5 | [#Temblor](http://twitter.com/search?q=%23Temblor) | N/A |
-| 6 | [Unión Hidalgo](http://twitter.com/search?q=Uni%c3%b3n+Hidalgo) | N/A |
-| 7 | [ON THE STREET IS COMING](http://twitter.com/search?q=ON+THE+STREET+IS+COMING) | N/A |
-| 8 | [jihyo](http://twitter.com/search?q=jihyo) | Jihyo is a Korean given name, usually for females. It is composed of two characters, the first meaning "wisdom" and the second meaning "beauty". In English, it can be translated to mean "wise beauty". |
-| 9 | [#BBWomenInMusic](http://twitter.com/search?q=%23BBWomenInMusic) | N/A |
-| 10 | [#TWICE_BreakthroughAward](http://twitter.com/search?q=%23TWICE_BreakthroughAward) | N/A |
-| 11 | [Oaxaca](http://twitter.com/search?q=Oaxaca) | N/A |
-| 12 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 13 | [#MedallaVaronil](http://twitter.com/search?q=%23MedallaVaronil) | N/A |
-| 14 | [Alfredo Adame](http://twitter.com/search?q=Alfredo+Adame) | Alfredo Adame is a Mexican actor, comedian, and television host. He is best known for his roles in the television series El Chavo del Ocho and El Chapulín Colorado. In English, the name Alfredo Adame means "Protector of the People". |
-| 15 | [Creel](http://twitter.com/search?q=Creel) | N/A |
-| 16 | [GLORIA TREVI](http://twitter.com/search?q=GLORIA+TREVI) | N/A |
-| 17 | [Samuel García](http://twitter.com/search?q=Samuel+Garc%c3%ada) | N/A |
-| 18 | [all of the girls](http://twitter.com/search?q=all+of+the+girls) | N/A |
-| 19 | [María Sabina](http://twitter.com/search?q=Mar%c3%ada+Sabina) | N/A |
-| 20 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
-| 21 | [Herrera](http://twitter.com/search?q=Herrera) | Herrera is a Spanish surname derived from the Latin word ferreus, meaning "iron". It is also a common given name in Spanish-speaking countries. In English, Herrera can be translated to mean "ironworker" or "blacksmith". |
-| 22 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
-| 23 | [Logro](http://twitter.com/search?q=Logro) | N/A |
-| 24 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
-| 25 | [Santiago](http://twitter.com/search?q=Santiago) | N/A |
-| 26 | [Komanche](http://twitter.com/search?q=Komanche) | N/A |
-| 27 | [Marzo con M](http://twitter.com/search?q=Marzo+con+M) | N/A |
-| 28 | [tina](http://twitter.com/search?q=tina) | N/A |
-| 29 | [Lover](http://twitter.com/search?q=Lover) | N/A |
-| 30 | [Ministra Piña](http://twitter.com/search?q=Ministra+Pi%c3%b1a) | N/A |
-| 31 | [Venus y Júpiter](http://twitter.com/search?q=Venus+y+J%c3%bapiter) | N/A |
-| 32 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
-| 33 | [Coca Cola](http://twitter.com/search?q=Coca+Cola) | N/A |
-| 34 | [Ensenada](http://twitter.com/search?q=Ensenada) | N/A |
-| 35 | [Petro](http://twitter.com/search?q=Petro) | N/A |
-| 36 | [Chayanne](http://twitter.com/search?q=Chayanne) | N/A |
-| 37 | [Mandalorian](http://twitter.com/search?q=Mandalorian) | N/A |
-| 38 | [Norma Piña](http://twitter.com/search?q=Norma+Pi%c3%b1a) | Norma Piña is a Mexican dish made with shredded beef, potatoes, and carrots cooked in a tomato-based sauce. The name of the dish comes from the Spanish words for "shredded beef" (carne deshebrada) and "pineapple" (piña). In English, Norma Piña translates to "Shredded Beef with Pineapple". |
-| 39 | [Grogu](http://twitter.com/search?q=Grogu) | N/A |
-| 40 | [#ThaliaYKenia](http://twitter.com/search?q=%23ThaliaYKenia) | N/A |
-| 41 | [#BillboardWomeninMusic](http://twitter.com/search?q=%23BillboardWomeninMusic) | N/A |
-| 42 | [#PNVM](http://twitter.com/search?q=%23PNVM) | N/A |
-| 43 | [#LopezBurlaMundial](http://twitter.com/search?q=%23LopezBurlaMundial) | N/A |
+| 1 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 2 | [#SalarioRosaContinua](http://twitter.com/search?q=%23SalarioRosaContinua) | N/A |
+| 3 | [Irma Serrano](http://twitter.com/search?q=Irma+Serrano) | N/A |
+| 4 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
+| 5 | [La Tigresa](http://twitter.com/search?q=La+Tigresa) | N/A |
+| 6 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 7 | [Samuel](http://twitter.com/search?q=Samuel) | N/A |
+| 8 | [#BBWomenInMusic](http://twitter.com/search?q=%23BBWomenInMusic) | N/A |
+| 9 | [PARA NO VERTE MÁS](http://twitter.com/search?q=PARA+NO+VERTE+M%c3%81S) | N/A |
+| 10 | [#Sismo](http://twitter.com/search?q=%23Sismo) | N/A |
+| 11 | [#TWICE_BreakthroughAward](http://twitter.com/search?q=%23TWICE_BreakthroughAward) | N/A |
+| 12 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 13 | [Blink](http://twitter.com/search?q=Blink) | N/A |
+| 14 | [Marzo con M](http://twitter.com/search?q=Marzo+con+M) | N/A |
+| 15 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
+| 16 | [J COLE](http://twitter.com/search?q=J+COLE) | N/A |
+| 17 | [Monterrey](http://twitter.com/search?q=Monterrey) | N/A |
+| 18 | [ON THE STREET IS COMING](http://twitter.com/search?q=ON+THE+STREET+IS+COMING) | N/A |
+| 19 | [Norma Piña](http://twitter.com/search?q=Norma+Pi%c3%b1a) | Norma Piña is a Mexican dish made with shredded beef, potatoes, and carrots cooked in a tomato-based sauce. The name of the dish comes from the Spanish words for "shredded beef" (carne deshebrada) and "pineapple" (piña). In English, Norma Piña translates to "Shredded Beef with Pineapple". |
+| 20 | [HYBE PROTECT RM](http://twitter.com/search?q=HYBE+PROTECT+RM) | N/A |
+| 21 | [BIGHIT PROTECT RM](http://twitter.com/search?q=BIGHIT+PROTECT+RM) | N/A |
+| 22 | [Bienvenido Marzo](http://twitter.com/search?q=Bienvenido+Marzo) | N/A |
+| 23 | [twenty one pilots](http://twitter.com/search?q=twenty+one+pilots) | N/A |
+| 24 | [Nuevo Laredo](http://twitter.com/search?q=Nuevo+Laredo) | N/A |
+| 25 | [Justin Bieber](http://twitter.com/search?q=Justin+Bieber) | N/A |
+| 26 | [Pal Norte](http://twitter.com/search?q=Pal+Norte) | N/A |
+| 27 | [Tania Rincón](http://twitter.com/search?q=Tania+Rinc%c3%b3n) | N/A |
+| 28 | [Unión Hidalgo](http://twitter.com/search?q=Uni%c3%b3n+Hidalgo) | N/A |
+| 29 | [Travis](http://twitter.com/search?q=Travis) | N/A |
+| 30 | [Komanche](http://twitter.com/search?q=Komanche) | N/A |
+| 31 | [CANCELEMOS A GLORIA TREVI](http://twitter.com/search?q=CANCELEMOS+A+GLORIA+TREVI) | N/A |
+| 32 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 33 | [all of the girls](http://twitter.com/search?q=all+of+the+girls) | N/A |
+| 34 | [Oaxaca](http://twitter.com/search?q=Oaxaca) | N/A |
+| 35 | [JISOO THE FACE OF DIOR](http://twitter.com/search?q=JISOO+THE+FACE+OF+DIOR) | N/A |
+| 36 | [medalla golden champ](http://twitter.com/search?q=medalla+golden+champ) | N/A |
+| 37 | [Santa Catarina](http://twitter.com/search?q=Santa+Catarina) | N/A |
+| 38 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 39 | [Andy Benavides](http://twitter.com/search?q=Andy+Benavides) | N/A |
+| 40 | [TWICE BILLBOARD AWARD](http://twitter.com/search?q=TWICE+BILLBOARD+AWARD) | N/A |
+| 41 | [Cabeza de Vaca](http://twitter.com/search?q=Cabeza+de+Vaca) | N/A |
+| 42 | [Missa](http://twitter.com/search?q=Missa) | N/A |
+| 43 | [Alfredo Adame](http://twitter.com/search?q=Alfredo+Adame) | Alfredo Adame is a Mexican actor, comedian, and television host. He is best known for his roles in the television series El Chavo del Ocho and El Chapulín Colorado. In English, the name Alfredo Adame means "Protector of the People". |
+| 44 | [Juan Collado](http://twitter.com/search?q=Juan+Collado) | N/A |
+| 45 | [The Dark Side of the Moon](http://twitter.com/search?q=The+Dark+Side+of+the+Moon) | N/A |
+| 46 | [jihyo](http://twitter.com/search?q=jihyo) | Jihyo is a Korean given name, usually for females. It is composed of two characters, the first meaning "wisdom" and the second meaning "beauty". In English, it can be translated to mean "wise beauty". |
+| 47 | [medaliud star](http://twitter.com/search?q=medaliud+star) | N/A |
+| 48 | [pika](http://twitter.com/search?q=pika) | N/A |
+| 49 | [Pato Zambrano](http://twitter.com/search?q=Pato+Zambrano) | N/A |
+| 50 | [Mario Delgado](http://twitter.com/search?q=Mario+Delgado) | N/A |
 
 
 
