@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oklahoma City
 
-📆 Last Updated: `2023-03-02 09:16:37 UTC`
+📆 Last Updated: `2023-03-02 10:17:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [United States](</United States>)
 | 1 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
 | 2 | [Thunder](http://twitter.com/search?q=Thunder) | Thunder is the sound caused by lightning. It is a loud, booming sound that can be heard from miles away. Thunder is often associated with storms and bad weather. |
 | 3 | [JCOLE](http://twitter.com/search?q=JCOLE) | N/A |
-| 4 | [#BoycottHersheys](http://twitter.com/search?q=%23BoycottHersheys) | N/A |
-| 5 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
-| 6 | [jihyo](http://twitter.com/search?q=jihyo) | Jihyo is a Korean given name, usually for females. It is composed of two characters, the first meaning "wisdom" and the second meaning "beauty". In English, it can be translated to mean "wise beauty". |
-| 7 | [#BBWomenInMusic](http://twitter.com/search?q=%23BBWomenInMusic) | N/A |
+| 4 | [JCOLE](http://twitter.com/search?q=JCOLE) | N/A |
+| 5 | [#BoycottHersheys](http://twitter.com/search?q=%23BoycottHersheys) | N/A |
+| 6 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
+| 7 | [jihyo](http://twitter.com/search?q=jihyo) | Jihyo is a Korean given name, usually for females. It is composed of two characters, the first meaning "wisdom" and the second meaning "beauty". In English, it can be translated to mean "wise beauty". |
 | 8 | [Dratini](http://twitter.com/search?q=Dratini) | N/A |
-| 9 | [#Survivor44](http://twitter.com/search?q=%23Survivor44) | N/A |
-| 10 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 11 | [#Crew6](http://twitter.com/search?q=%23Crew6) | N/A |
-| 12 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 13 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 14 | [Billboard](http://twitter.com/search?q=Billboard) | N/A |
-| 15 | [Dreepy](http://twitter.com/search?q=Dreepy) | N/A |
-| 16 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
-| 17 | [Brandon Ingram](http://twitter.com/search?q=Brandon+Ingram) | Brandon Ingram is an American professional basketball player who currently plays for the New Orleans Pelicans of the National Basketball Association (NBA). He was selected second overall in the 2016 NBA draft by the Los Angeles Lakers. He is known for his scoring ability, long wingspan, and defensive versatility. |
-| 18 | [Doechii](http://twitter.com/search?q=Doechii) | N/A |
-| 19 | [Gible](http://twitter.com/search?q=Gible) | N/A |
+| 9 | [#BBWomenInMusic](http://twitter.com/search?q=%23BBWomenInMusic) | N/A |
+| 10 | [#Wordle621](http://twitter.com/search?q=%23Wordle621) | N/A |
+| 11 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 12 | [#Survivor44](http://twitter.com/search?q=%23Survivor44) | N/A |
+| 13 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 14 | [Gible](http://twitter.com/search?q=Gible) | N/A |
+| 15 | [Daily Quordle 402](http://twitter.com/search?q=Daily+Quordle+402) | N/A |
+| 16 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 17 | [Dreepy](http://twitter.com/search?q=Dreepy) | N/A |
+| 18 | [Billboard](http://twitter.com/search?q=Billboard) | N/A |
+| 19 | [Goomy](http://twitter.com/search?q=Goomy) | N/A |
 | 20 | [Noibat](http://twitter.com/search?q=Noibat) | N/A |
-| 21 | [Jupiter and Venus](http://twitter.com/search?q=Jupiter+and+Venus) | N/A |
-| 22 | [Trapinch](http://twitter.com/search?q=Trapinch) | N/A |
-| 23 | [Hawaii](http://twitter.com/search?q=Hawaii) | N/A |
-| 24 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 25 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
-| 26 | [Goomy](http://twitter.com/search?q=Goomy) | N/A |
-| 27 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
-| 28 | [tzuyu](http://twitter.com/search?q=tzuyu) | Tzuyu is a Taiwanese singer and member of the K-pop girl group Twice. Her name is derived from the Taiwanese phrase "tzyu yu," which means "the most beautiful." |
-| 29 | [sharpay](http://twitter.com/search?q=sharpay) | N/A |
-| 30 | [Blazers](http://twitter.com/search?q=Blazers) | Blazers are a type of jacket, typically with a single row of buttons and a notched lapel. They are usually made from wool or cotton and can be worn as part of a suit or as a separate item. Blazers are often associated with formal occasions, but they can also be worn casually. |
-| 31 | [Cole World](http://twitter.com/search?q=Cole+World) | N/A |
-| 32 | [Chaka](http://twitter.com/search?q=Chaka) | N/A |
-| 33 | [matty healy](http://twitter.com/search?q=matty+healy) | N/A |
-| 34 | [5 World of Warcraft](http://twitter.com/search?q=5+World+of+Warcraft) | N/A |
-| 35 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
-| 36 | [Hope World](http://twitter.com/search?q=Hope+World) | N/A |
-| 37 | [iKON](http://twitter.com/search?q=iKON) | N/A |
-| 38 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
+| 21 | [Trapinch](http://twitter.com/search?q=Trapinch) | N/A |
+| 22 | [Hawaii](http://twitter.com/search?q=Hawaii) | N/A |
+| 23 | [Doechii](http://twitter.com/search?q=Doechii) | N/A |
+| 24 | [Venus](http://twitter.com/search?q=Venus) | N/A |
+| 25 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 26 | [Brandon Ingram](http://twitter.com/search?q=Brandon+Ingram) | Brandon Ingram is an American professional basketball player who currently plays for the New Orleans Pelicans of the National Basketball Association (NBA). He was selected second overall in the 2016 NBA draft by the Los Angeles Lakers. He is known for his scoring ability, long wingspan, and defensive versatility. |
+| 27 | [tzuyu](http://twitter.com/search?q=tzuyu) | Tzuyu is a Taiwanese singer and member of the K-pop girl group Twice. Her name is derived from the Taiwanese phrase "tzyu yu," which means "the most beautiful." |
+| 28 | [sharpay](http://twitter.com/search?q=sharpay) | N/A |
+| 29 | [Blazers](http://twitter.com/search?q=Blazers) | Blazers are a type of jacket, typically with a single row of buttons and a notched lapel. They are usually made from wool or cotton and can be worn as part of a suit or as a separate item. Blazers are often associated with formal occasions, but they can also be worn casually. |
+| 30 | [Yoruba](http://twitter.com/search?q=Yoruba) | N/A |
+| 31 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
+| 32 | [Chaka Khan](http://twitter.com/search?q=Chaka+Khan) | N/A |
+| 33 | [Cole World](http://twitter.com/search?q=Cole+World) | N/A |
+| 34 | [matty healy](http://twitter.com/search?q=matty+healy) | N/A |
+| 35 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
+| 36 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
+| 37 | [Meghan Trainor](http://twitter.com/search?q=Meghan+Trainor) | N/A |
+| 38 | [iKON](http://twitter.com/search?q=iKON) | N/A |
 | 39 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
 | 40 | [Jack Eichel](http://twitter.com/search?q=Jack+Eichel) | N/A |
-| 41 | [Meghan Trainor](http://twitter.com/search?q=Meghan+Trainor) | N/A |
-| 42 | [Grogu](http://twitter.com/search?q=Grogu) | N/A |
-| 43 | [Creed 3](http://twitter.com/search?q=Creed+3) | N/A |
-| 44 | [Chauncey](http://twitter.com/search?q=Chauncey) | N/A |
-| 45 | [Mandalorian](http://twitter.com/search?q=Mandalorian) | N/A |
-| 46 | [Vandy](http://twitter.com/search?q=Vandy) | Vandy is a nickname for Vanderbilt University, a private research university located in Nashville, Tennessee. The name is derived from the university's namesake, Cornelius Vanderbilt. |
-| 47 | [Jalen Brunson](http://twitter.com/search?q=Jalen+Brunson) | Jalen Brunson is an American professional basketball player who currently plays for the Dallas Mavericks of the National Basketball Association (NBA). His name is a combination of his father's first name, John, and his mother's first name, Lenora. |
-| 48 | [Ghana](http://twitter.com/search?q=Ghana) | N/A |
-| 49 | [International Space Station](http://twitter.com/search?q=International+Space+Station) | N/A |
-| 50 | [Jermaine](http://twitter.com/search?q=Jermaine) | N/A |
+| 41 | [Ghana](http://twitter.com/search?q=Ghana) | N/A |
+| 42 | [Blaire](http://twitter.com/search?q=Blaire) | N/A |
+| 43 | [Chauncey](http://twitter.com/search?q=Chauncey) | N/A |
+| 44 | [Jermaine](http://twitter.com/search?q=Jermaine) | N/A |
+| 45 | [Jalen Brunson](http://twitter.com/search?q=Jalen+Brunson) | Jalen Brunson is an American professional basketball player who currently plays for the Dallas Mavericks of the National Basketball Association (NBA). His name is a combination of his father's first name, John, and his mother's first name, Lenora. |
+| 46 | [Danhausen](http://twitter.com/search?q=Danhausen) | N/A |
+| 47 | [Schwartz](http://twitter.com/search?q=Schwartz) | N/A |
+| 48 | [Donovan Mitchell](http://twitter.com/search?q=Donovan+Mitchell) | Donovan Mitchell is an American professional basketball player who currently plays for the Utah Jazz of the National Basketball Association (NBA). His nickname is "Spida" and he is known for his explosive athleticism and scoring ability. |
+| 49 | [Eddie Kingston](http://twitter.com/search?q=Eddie+Kingston) | N/A |
+| 50 | [Latto](http://twitter.com/search?q=Latto) | N/A |
 
 
 

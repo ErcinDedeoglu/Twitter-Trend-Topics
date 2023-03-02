@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guayaquil
 
-📆 Last Updated: `2023-03-02 09:16:01 UTC`
+📆 Last Updated: `2023-03-02 10:16:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,12 +16,12 @@ This is top 50 for [Ecuador](</Ecuador>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Tere](http://twitter.com/search?q=Tere) | N/A |
-| 2 | [#MasterChefEcuador](http://twitter.com/search?q=%23MasterChefEcuador) | N/A |
-| 3 | [Alexandra](http://twitter.com/search?q=Alexandra) | N/A |
-| 4 | [#RecopaSudamericana](http://twitter.com/search?q=%23RecopaSudamericana) | N/A |
-| 5 | [Independiente del Valle](http://twitter.com/search?q=Independiente+del+Valle) | N/A |
-| 6 | [#AdiosLasso](http://twitter.com/search?q=%23AdiosLasso) | N/A |
-| 7 | [maracaná](http://twitter.com/search?q=maracan%c3%a1) | N/A |
+| 2 | [Alexandra](http://twitter.com/search?q=Alexandra) | N/A |
+| 3 | [#RecopaSudamericana](http://twitter.com/search?q=%23RecopaSudamericana) | N/A |
+| 4 | [Independiente del Valle](http://twitter.com/search?q=Independiente+del+Valle) | N/A |
+| 5 | [#AdiosLasso](http://twitter.com/search?q=%23AdiosLasso) | N/A |
+| 6 | [#MasterChefEcuador](http://twitter.com/search?q=%23MasterChefEcuador) | N/A |
+| 7 | [Maracaná](http://twitter.com/search?q=Maracan%c3%a1) | N/A |
 | 8 | [Costa Rica](http://twitter.com/search?q=Costa+Rica) | N/A |
 | 9 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
 | 10 | [Micolta](http://twitter.com/search?q=Micolta) | N/A |
@@ -36,34 +36,34 @@ This is top 50 for [Ecuador](</Ecuador>)
 | 19 | [#fueralassoya](http://twitter.com/search?q=%23fueralassoya) | N/A |
 | 20 | [Andino](http://twitter.com/search?q=Andino) | N/A |
 | 21 | [#CopaLibertadores](http://twitter.com/search?q=%23CopaLibertadores) | N/A |
-| 22 | [Sara](http://twitter.com/search?q=Sara) | N/A |
-| 23 | [Anselmi](http://twitter.com/search?q=Anselmi) | N/A |
+| 22 | [anselmi](http://twitter.com/search?q=anselmi) | N/A |
+| 23 | [Sara](http://twitter.com/search?q=Sara) | N/A |
 | 24 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
 | 25 | [Con 6](http://twitter.com/search?q=Con+6) | N/A |
 | 26 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
-| 27 | [faravelli](http://twitter.com/search?q=faravelli) | N/A |
-| 28 | [Jamil](http://twitter.com/search?q=Jamil) | N/A |
-| 29 | [Ecuavisa](http://twitter.com/search?q=Ecuavisa) | N/A |
-| 30 | [Gareca](http://twitter.com/search?q=Gareca) | N/A |
-| 31 | [Sarita](http://twitter.com/search?q=Sarita) | N/A |
-| 32 | [pellerano](http://twitter.com/search?q=pellerano) | N/A |
-| 33 | [Parrales](http://twitter.com/search?q=Parrales) | N/A |
-| 34 | [Comisión](http://twitter.com/search?q=Comisi%c3%b3n) | N/A |
+| 27 | [Faravelli](http://twitter.com/search?q=Faravelli) | N/A |
+| 28 | [Ecuavisa](http://twitter.com/search?q=Ecuavisa) | N/A |
+| 29 | [Gareca](http://twitter.com/search?q=Gareca) | N/A |
+| 30 | [Sarita](http://twitter.com/search?q=Sarita) | N/A |
+| 31 | [pellerano](http://twitter.com/search?q=pellerano) | N/A |
+| 32 | [Parrales](http://twitter.com/search?q=Parrales) | N/A |
+| 33 | [Comisión](http://twitter.com/search?q=Comisi%c3%b3n) | N/A |
+| 34 | [Petro](http://twitter.com/search?q=Petro) | N/A |
 | 35 | [Traición a la Patria](http://twitter.com/search?q=Traici%c3%b3n+a+la+Patria) | N/A |
-| 36 | [Petro](http://twitter.com/search?q=Petro) | N/A |
-| 37 | [Rayados](http://twitter.com/search?q=Rayados) | Rayados is the nickname of the Mexican soccer team Club de Fútbol Monterrey, which is based in Monterrey, Mexico. The name Rayados translates to "Striped Ones" in English, referring to the team's striped jerseys. |
+| 36 | [Jamil](http://twitter.com/search?q=Jamil) | N/A |
+| 37 | [rayados](http://twitter.com/search?q=rayados) | N/A |
 | 38 | [BIGHIT PROTECT RM](http://twitter.com/search?q=BIGHIT+PROTECT+RM) | N/A |
 | 39 | [Marzo con M](http://twitter.com/search?q=Marzo+con+M) | N/A |
 | 40 | [Missa](http://twitter.com/search?q=Missa) | N/A |
 | 41 | [orgullo ecuatoriano](http://twitter.com/search?q=orgullo+ecuatoriano) | N/A |
 | 42 | [David Luiz](http://twitter.com/search?q=David+Luiz) | David Luiz is a Brazilian professional footballer who plays for the English Premier League club Arsenal. He primarily plays as a centre-back, but can also be deployed as a defensive midfielder. The name "David Luiz" is derived from his given name, David, and his middle name, Luiz. |
 | 43 | [HYBE PROTECT RM](http://twitter.com/search?q=HYBE+PROTECT+RM) | N/A |
-| 44 | [Sonnia](http://twitter.com/search?q=Sonnia) | N/A |
+| 44 | [sonnia](http://twitter.com/search?q=sonnia) | N/A |
 | 45 | [angie asang](http://twitter.com/search?q=angie+asang) | N/A |
 | 46 | [ever hugo almeida](http://twitter.com/search?q=ever+hugo+almeida) | N/A |
 | 47 | [de arrascaeta](http://twitter.com/search?q=de+arrascaeta) | N/A |
-| 48 | [Bolon](http://twitter.com/search?q=Bolon) | N/A |
-| 49 | [atanasio girardot](http://twitter.com/search?q=atanasio+girardot) | N/A |
+| 48 | [bolon](http://twitter.com/search?q=bolon) | N/A |
+| 49 | [Atanasio Girardot](http://twitter.com/search?q=Atanasio+Girardot) | N/A |
 | 50 | [Ramírez](http://twitter.com/search?q=Ram%c3%adrez) | N/A |
 
 

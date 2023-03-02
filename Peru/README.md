@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Peru
 
-📆 Last Updated: `2023-03-02 09:16:46 UTC`
+📆 Last Updated: `2023-03-02 10:17:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,29 +15,29 @@ This is top 50 for Peru
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 2 | [#BBWomenInMusic](http://twitter.com/search?q=%23BBWomenInMusic) | N/A |
+| 1 | [#BBWomenInMusic](http://twitter.com/search?q=%23BBWomenInMusic) | N/A |
+| 2 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
 | 3 | [#TWICE_BreakthroughAward](http://twitter.com/search?q=%23TWICE_BreakthroughAward) | N/A |
 | 4 | [#AFHS](http://twitter.com/search?q=%23AFHS) | #AFHS stands for "All For High School," which is a hashtag used to promote high school education and activities. It is often used on social media platforms such as Twitter and Instagram. |
 | 5 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
 | 6 | [Lora](http://twitter.com/search?q=Lora) | N/A |
-| 7 | [Sporting Cristal](http://twitter.com/search?q=Sporting+Cristal) | N/A |
-| 8 | [Patricia Benavides](http://twitter.com/search?q=Patricia+Benavides) | N/A |
+| 7 | [Patricia Benavides](http://twitter.com/search?q=Patricia+Benavides) | N/A |
+| 8 | [Sporting Cristal](http://twitter.com/search?q=Sporting+Cristal) | N/A |
 | 9 | [HYBE PROTECT RM](http://twitter.com/search?q=HYBE+PROTECT+RM) | N/A |
 | 10 | [BIGHIT PROTECT RM](http://twitter.com/search?q=BIGHIT+PROTECT+RM) | N/A |
-| 11 | [#on_the_street](http://twitter.com/search?q=%23on_the_street) | N/A |
-| 12 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 13 | [Juliana](http://twitter.com/search?q=Juliana) | Juliana is a female given name of Latin origin, derived from the name Julius. It means "youthful" or "downy-bearded". |
-| 14 | [#SquidCraft2](http://twitter.com/search?q=%23SquidCraft2) | N/A |
-| 15 | [La JNJ](http://twitter.com/search?q=La+JNJ) | N/A |
+| 11 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 12 | [#SquidCraft2](http://twitter.com/search?q=%23SquidCraft2) | N/A |
+| 13 | [La JNJ](http://twitter.com/search?q=La+JNJ) | N/A |
+| 14 | [Juliana](http://twitter.com/search?q=Juliana) | Juliana is a female given name of Latin origin, derived from the name Julius. It means "youthful" or "downy-bearded". |
+| 15 | [Huracán](http://twitter.com/search?q=Hurac%c3%a1n) | N/A |
 | 16 | [EEUU](http://twitter.com/search?q=EEUU) | N/A |
-| 17 | [J COLE](http://twitter.com/search?q=J+COLE) | N/A |
-| 18 | [Huracán](http://twitter.com/search?q=Hurac%c3%a1n) | N/A |
-| 19 | [Repugnante](http://twitter.com/search?q=Repugnante) | N/A |
-| 20 | [Blink 182](http://twitter.com/search?q=Blink+182) | N/A |
-| 21 | [Cuto](http://twitter.com/search?q=Cuto) | N/A |
-| 22 | [Toma de Lima](http://twitter.com/search?q=Toma+de+Lima) | N/A |
-| 23 | [La ONU](http://twitter.com/search?q=La+ONU) | N/A |
+| 17 | [Repugnante](http://twitter.com/search?q=Repugnante) | N/A |
+| 18 | [Blink 182](http://twitter.com/search?q=Blink+182) | N/A |
+| 19 | [Cuto](http://twitter.com/search?q=Cuto) | N/A |
+| 20 | [#on_the_street](http://twitter.com/search?q=%23on_the_street) | N/A |
+| 21 | [Toma de Lima](http://twitter.com/search?q=Toma+de+Lima) | N/A |
+| 22 | [La ONU](http://twitter.com/search?q=La+ONU) | N/A |
+| 23 | [J.COLE](http://twitter.com/search?q=J.COLE) | N/A |
 | 24 | [Susy](http://twitter.com/search?q=Susy) | N/A |
 | 25 | [Fossati](http://twitter.com/search?q=Fossati) | N/A |
 | 26 | [Simon](http://twitter.com/search?q=Simon) | N/A |
@@ -47,10 +47,10 @@ This is top 50 for Peru
 | 30 | [Fiscal de la Nación](http://twitter.com/search?q=Fiscal+de+la+Naci%c3%b3n) | N/A |
 | 31 | [Ignacio](http://twitter.com/search?q=Ignacio) | N/A |
 | 32 | [ON THE STREET IS COMING](http://twitter.com/search?q=ON+THE+STREET+IS+COMING) | N/A |
-| 33 | [Coca Cola](http://twitter.com/search?q=Coca+Cola) | N/A |
-| 34 | [Boston River](http://twitter.com/search?q=Boston+River) | N/A |
-| 35 | [Brenner](http://twitter.com/search?q=Brenner) | N/A |
-| 36 | [TWICE BILLBOARD AWARD](http://twitter.com/search?q=TWICE+BILLBOARD+AWARD) | N/A |
+| 33 | [Boston River](http://twitter.com/search?q=Boston+River) | N/A |
+| 34 | [Brenner](http://twitter.com/search?q=Brenner) | N/A |
+| 35 | [TWICE BILLBOARD AWARD](http://twitter.com/search?q=TWICE+BILLBOARD+AWARD) | N/A |
+| 36 | [Coca Cola](http://twitter.com/search?q=Coca+Cola) | N/A |
 | 37 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
 | 38 | [Independiente del Valle](http://twitter.com/search?q=Independiente+del+Valle) | N/A |
 | 39 | [Viva Air](http://twitter.com/search?q=Viva+Air) | N/A |

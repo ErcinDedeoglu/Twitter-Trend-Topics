@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Louisville
 
-📆 Last Updated: `2023-03-02 09:16:36 UTC`
+📆 Last Updated: `2023-03-02 10:17:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Cason](http://twitter.com/search?q=Cason) | N/A |
-| 2 | [Wallace](http://twitter.com/search?q=Wallace) | Wallace is a Scottish and Irish surname derived from the Old English name Waleis, meaning "foreigner" or "stranger". It is also a given name, derived from the same origin. |
-| 3 | [Reeves](http://twitter.com/search?q=Reeves) | N/A |
-| 4 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
-| 5 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
-| 6 | [Vanderbilt](http://twitter.com/search?q=Vanderbilt) | N/A |
-| 7 | [Cats](http://twitter.com/search?q=Cats) | N/A |
-| 8 | [JCOLE](http://twitter.com/search?q=JCOLE) | N/A |
-| 9 | [#BoycottHersheys](http://twitter.com/search?q=%23BoycottHersheys) | N/A |
-| 10 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
-| 11 | [jihyo](http://twitter.com/search?q=jihyo) | Jihyo is a Korean given name, usually for females. It is composed of two characters, the first meaning "wisdom" and the second meaning "beauty". In English, it can be translated to mean "wise beauty". |
-| 12 | [#BBWomenInMusic](http://twitter.com/search?q=%23BBWomenInMusic) | N/A |
-| 13 | [Dratini](http://twitter.com/search?q=Dratini) | N/A |
-| 14 | [#Survivor44](http://twitter.com/search?q=%23Survivor44) | N/A |
-| 15 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 16 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 17 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 18 | [Billboard](http://twitter.com/search?q=Billboard) | N/A |
-| 19 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
-| 20 | [Jupiter and Venus](http://twitter.com/search?q=Jupiter+and+Venus) | N/A |
-| 21 | [Brandon Ingram](http://twitter.com/search?q=Brandon+Ingram) | Brandon Ingram is an American professional basketball player who currently plays for the New Orleans Pelicans of the National Basketball Association (NBA). He was selected second overall in the 2016 NBA draft by the Los Angeles Lakers. He is known for his scoring ability, long wingspan, and defensive versatility. |
+| 1 | [Vandy](http://twitter.com/search?q=Vandy) | Vandy is a nickname for Vanderbilt University, a private research university located in Nashville, Tennessee. The name is derived from the university's namesake, Cornelius Vanderbilt. |
+| 2 | [Cason](http://twitter.com/search?q=Cason) | N/A |
+| 3 | [Wallace](http://twitter.com/search?q=Wallace) | Wallace is a Scottish and Irish surname derived from the Old English name Waleis, meaning "foreigner" or "stranger". It is also a given name, derived from the same origin. |
+| 4 | [Reeves](http://twitter.com/search?q=Reeves) | N/A |
+| 5 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
+| 6 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
+| 7 | [Vanderbilt](http://twitter.com/search?q=Vanderbilt) | N/A |
+| 8 | [Cats](http://twitter.com/search?q=Cats) | N/A |
+| 9 | [JCOLE](http://twitter.com/search?q=JCOLE) | N/A |
+| 10 | [JCOLE](http://twitter.com/search?q=JCOLE) | N/A |
+| 11 | [#BoycottHersheys](http://twitter.com/search?q=%23BoycottHersheys) | N/A |
+| 12 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
+| 13 | [jihyo](http://twitter.com/search?q=jihyo) | Jihyo is a Korean given name, usually for females. It is composed of two characters, the first meaning "wisdom" and the second meaning "beauty". In English, it can be translated to mean "wise beauty". |
+| 14 | [Dratini](http://twitter.com/search?q=Dratini) | N/A |
+| 15 | [#BBWomenInMusic](http://twitter.com/search?q=%23BBWomenInMusic) | N/A |
+| 16 | [#Wordle621](http://twitter.com/search?q=%23Wordle621) | N/A |
+| 17 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 18 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 19 | [Gible](http://twitter.com/search?q=Gible) | N/A |
+| 20 | [Daily Quordle 402](http://twitter.com/search?q=Daily+Quordle+402) | N/A |
+| 21 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
 | 22 | [Dreepy](http://twitter.com/search?q=Dreepy) | N/A |
-| 23 | [Doechii](http://twitter.com/search?q=Doechii) | N/A |
-| 24 | [Gible](http://twitter.com/search?q=Gible) | N/A |
+| 23 | [Billboard](http://twitter.com/search?q=Billboard) | N/A |
+| 24 | [Goomy](http://twitter.com/search?q=Goomy) | N/A |
 | 25 | [Noibat](http://twitter.com/search?q=Noibat) | N/A |
 | 26 | [Trapinch](http://twitter.com/search?q=Trapinch) | N/A |
-| 27 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 28 | [Hawaii](http://twitter.com/search?q=Hawaii) | N/A |
-| 29 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
-| 30 | [Goomy](http://twitter.com/search?q=Goomy) | N/A |
-| 31 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
+| 27 | [Hawaii](http://twitter.com/search?q=Hawaii) | N/A |
+| 28 | [Doechii](http://twitter.com/search?q=Doechii) | N/A |
+| 29 | [Venus](http://twitter.com/search?q=Venus) | N/A |
+| 30 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 31 | [Brandon Ingram](http://twitter.com/search?q=Brandon+Ingram) | Brandon Ingram is an American professional basketball player who currently plays for the New Orleans Pelicans of the National Basketball Association (NBA). He was selected second overall in the 2016 NBA draft by the Los Angeles Lakers. He is known for his scoring ability, long wingspan, and defensive versatility. |
 | 32 | [tzuyu](http://twitter.com/search?q=tzuyu) | Tzuyu is a Taiwanese singer and member of the K-pop girl group Twice. Her name is derived from the Taiwanese phrase "tzyu yu," which means "the most beautiful." |
 | 33 | [sharpay](http://twitter.com/search?q=sharpay) | N/A |
 | 34 | [Blazers](http://twitter.com/search?q=Blazers) | Blazers are a type of jacket, typically with a single row of buttons and a notched lapel. They are usually made from wool or cotton and can be worn as part of a suit or as a separate item. Blazers are often associated with formal occasions, but they can also be worn casually. |
-| 35 | [Cole World](http://twitter.com/search?q=Cole+World) | N/A |
-| 36 | [Chaka](http://twitter.com/search?q=Chaka) | N/A |
-| 37 | [matty healy](http://twitter.com/search?q=matty+healy) | N/A |
-| 38 | [5 World of Warcraft](http://twitter.com/search?q=5+World+of+Warcraft) | N/A |
-| 39 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
-| 40 | [Hope World](http://twitter.com/search?q=Hope+World) | N/A |
-| 41 | [iKON](http://twitter.com/search?q=iKON) | N/A |
-| 42 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
-| 43 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
-| 44 | [Jack Eichel](http://twitter.com/search?q=Jack+Eichel) | N/A |
-| 45 | [Meghan Trainor](http://twitter.com/search?q=Meghan+Trainor) | N/A |
-| 46 | [Grogu](http://twitter.com/search?q=Grogu) | N/A |
-| 47 | [Creed 3](http://twitter.com/search?q=Creed+3) | N/A |
+| 35 | [Yoruba](http://twitter.com/search?q=Yoruba) | N/A |
+| 36 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
+| 37 | [Chaka Khan](http://twitter.com/search?q=Chaka+Khan) | N/A |
+| 38 | [Cole World](http://twitter.com/search?q=Cole+World) | N/A |
+| 39 | [matty healy](http://twitter.com/search?q=matty+healy) | N/A |
+| 40 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
+| 41 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
+| 42 | [Meghan Trainor](http://twitter.com/search?q=Meghan+Trainor) | N/A |
+| 43 | [iKON](http://twitter.com/search?q=iKON) | N/A |
+| 44 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
+| 45 | [Jack Eichel](http://twitter.com/search?q=Jack+Eichel) | N/A |
+| 46 | [Ghana](http://twitter.com/search?q=Ghana) | N/A |
+| 47 | [Blaire](http://twitter.com/search?q=Blaire) | N/A |
 
 
 

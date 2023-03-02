@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Birmingham
 
-📆 Last Updated: `2023-03-02 09:16:33 UTC`
+📆 Last Updated: `2023-03-02 10:17:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
-| 2 | [Bruce](http://twitter.com/search?q=Bruce) | Bruce is a masculine given name of Scottish origin, derived from the French word "bruis" meaning "the one from the brushwood". It is also a surname, derived from the same root. |
-| 3 | [Roll Tide](http://twitter.com/search?q=Roll+Tide) | N/A |
-| 4 | [#alwx](http://twitter.com/search?q=%23alwx) | N/A |
-| 5 | [Nate Oats](http://twitter.com/search?q=Nate+Oats) | N/A |
-| 6 | [JCOLE](http://twitter.com/search?q=JCOLE) | N/A |
-| 7 | [#BoycottHersheys](http://twitter.com/search?q=%23BoycottHersheys) | N/A |
-| 8 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
-| 9 | [jihyo](http://twitter.com/search?q=jihyo) | Jihyo is a Korean given name, usually for females. It is composed of two characters, the first meaning "wisdom" and the second meaning "beauty". In English, it can be translated to mean "wise beauty". |
-| 10 | [#BBWomenInMusic](http://twitter.com/search?q=%23BBWomenInMusic) | N/A |
-| 11 | [Dratini](http://twitter.com/search?q=Dratini) | N/A |
-| 12 | [#Survivor44](http://twitter.com/search?q=%23Survivor44) | N/A |
-| 13 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 14 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 15 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 16 | [Billboard](http://twitter.com/search?q=Billboard) | N/A |
-| 17 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
-| 18 | [Jupiter and Venus](http://twitter.com/search?q=Jupiter+and+Venus) | N/A |
-| 19 | [Brandon Ingram](http://twitter.com/search?q=Brandon+Ingram) | Brandon Ingram is an American professional basketball player who currently plays for the New Orleans Pelicans of the National Basketball Association (NBA). He was selected second overall in the 2016 NBA draft by the Los Angeles Lakers. He is known for his scoring ability, long wingspan, and defensive versatility. |
+| 1 | [Broome](http://twitter.com/search?q=Broome) | N/A |
+| 2 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
+| 3 | [Bruce](http://twitter.com/search?q=Bruce) | Bruce is a masculine given name of Scottish origin, derived from the French word "bruis" meaning "the one from the brushwood". It is also a surname, derived from the same root. |
+| 4 | [Roll Tide](http://twitter.com/search?q=Roll+Tide) | N/A |
+| 5 | [#alwx](http://twitter.com/search?q=%23alwx) | N/A |
+| 6 | [Nate Oats](http://twitter.com/search?q=Nate+Oats) | N/A |
+| 7 | [JCOLE](http://twitter.com/search?q=JCOLE) | N/A |
+| 8 | [JCOLE](http://twitter.com/search?q=JCOLE) | N/A |
+| 9 | [#BoycottHersheys](http://twitter.com/search?q=%23BoycottHersheys) | N/A |
+| 10 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
+| 11 | [jihyo](http://twitter.com/search?q=jihyo) | Jihyo is a Korean given name, usually for females. It is composed of two characters, the first meaning "wisdom" and the second meaning "beauty". In English, it can be translated to mean "wise beauty". |
+| 12 | [Dratini](http://twitter.com/search?q=Dratini) | N/A |
+| 13 | [#BBWomenInMusic](http://twitter.com/search?q=%23BBWomenInMusic) | N/A |
+| 14 | [#Wordle621](http://twitter.com/search?q=%23Wordle621) | N/A |
+| 15 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 16 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 17 | [Gible](http://twitter.com/search?q=Gible) | N/A |
+| 18 | [Daily Quordle 402](http://twitter.com/search?q=Daily+Quordle+402) | N/A |
+| 19 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
 | 20 | [Dreepy](http://twitter.com/search?q=Dreepy) | N/A |
-| 21 | [Doechii](http://twitter.com/search?q=Doechii) | N/A |
-| 22 | [Gible](http://twitter.com/search?q=Gible) | N/A |
+| 21 | [Billboard](http://twitter.com/search?q=Billboard) | N/A |
+| 22 | [Goomy](http://twitter.com/search?q=Goomy) | N/A |
 | 23 | [Noibat](http://twitter.com/search?q=Noibat) | N/A |
 | 24 | [Trapinch](http://twitter.com/search?q=Trapinch) | N/A |
-| 25 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 26 | [Hawaii](http://twitter.com/search?q=Hawaii) | N/A |
-| 27 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
-| 28 | [Goomy](http://twitter.com/search?q=Goomy) | N/A |
-| 29 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
+| 25 | [Hawaii](http://twitter.com/search?q=Hawaii) | N/A |
+| 26 | [Doechii](http://twitter.com/search?q=Doechii) | N/A |
+| 27 | [Venus](http://twitter.com/search?q=Venus) | N/A |
+| 28 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 29 | [Brandon Ingram](http://twitter.com/search?q=Brandon+Ingram) | Brandon Ingram is an American professional basketball player who currently plays for the New Orleans Pelicans of the National Basketball Association (NBA). He was selected second overall in the 2016 NBA draft by the Los Angeles Lakers. He is known for his scoring ability, long wingspan, and defensive versatility. |
 | 30 | [tzuyu](http://twitter.com/search?q=tzuyu) | Tzuyu is a Taiwanese singer and member of the K-pop girl group Twice. Her name is derived from the Taiwanese phrase "tzyu yu," which means "the most beautiful." |
 | 31 | [sharpay](http://twitter.com/search?q=sharpay) | N/A |
 | 32 | [Blazers](http://twitter.com/search?q=Blazers) | Blazers are a type of jacket, typically with a single row of buttons and a notched lapel. They are usually made from wool or cotton and can be worn as part of a suit or as a separate item. Blazers are often associated with formal occasions, but they can also be worn casually. |
-| 33 | [Cole World](http://twitter.com/search?q=Cole+World) | N/A |
-| 34 | [Chaka](http://twitter.com/search?q=Chaka) | N/A |
-| 35 | [matty healy](http://twitter.com/search?q=matty+healy) | N/A |
-| 36 | [5 World of Warcraft](http://twitter.com/search?q=5+World+of+Warcraft) | N/A |
-| 37 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
-| 38 | [Hope World](http://twitter.com/search?q=Hope+World) | N/A |
-| 39 | [iKON](http://twitter.com/search?q=iKON) | N/A |
-| 40 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
-| 41 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
-| 42 | [Jack Eichel](http://twitter.com/search?q=Jack+Eichel) | N/A |
-| 43 | [Meghan Trainor](http://twitter.com/search?q=Meghan+Trainor) | N/A |
-| 44 | [Grogu](http://twitter.com/search?q=Grogu) | N/A |
-| 45 | [Creed 3](http://twitter.com/search?q=Creed+3) | N/A |
+| 33 | [Yoruba](http://twitter.com/search?q=Yoruba) | N/A |
+| 34 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
+| 35 | [Chaka Khan](http://twitter.com/search?q=Chaka+Khan) | N/A |
+| 36 | [Cole World](http://twitter.com/search?q=Cole+World) | N/A |
+| 37 | [matty healy](http://twitter.com/search?q=matty+healy) | N/A |
+| 38 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
+| 39 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
+| 40 | [Meghan Trainor](http://twitter.com/search?q=Meghan+Trainor) | N/A |
+| 41 | [iKON](http://twitter.com/search?q=iKON) | N/A |
+| 42 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
+| 43 | [Jack Eichel](http://twitter.com/search?q=Jack+Eichel) | N/A |
+| 44 | [Ghana](http://twitter.com/search?q=Ghana) | N/A |
+| 45 | [Blaire](http://twitter.com/search?q=Blaire) | N/A |
 | 46 | [Chauncey](http://twitter.com/search?q=Chauncey) | N/A |
-| 47 | [Mandalorian](http://twitter.com/search?q=Mandalorian) | N/A |
-| 48 | [Vandy](http://twitter.com/search?q=Vandy) | Vandy is a nickname for Vanderbilt University, a private research university located in Nashville, Tennessee. The name is derived from the university's namesake, Cornelius Vanderbilt. |
-| 49 | [Jalen Brunson](http://twitter.com/search?q=Jalen+Brunson) | Jalen Brunson is an American professional basketball player who currently plays for the Dallas Mavericks of the National Basketball Association (NBA). His name is a combination of his father's first name, John, and his mother's first name, Lenora. |
-| 50 | [Ghana](http://twitter.com/search?q=Ghana) | N/A |
+| 47 | [Jermaine](http://twitter.com/search?q=Jermaine) | N/A |
+| 48 | [Jalen Brunson](http://twitter.com/search?q=Jalen+Brunson) | Jalen Brunson is an American professional basketball player who currently plays for the Dallas Mavericks of the National Basketball Association (NBA). His name is a combination of his father's first name, John, and his mother's first name, Lenora. |
+| 49 | [Danhausen](http://twitter.com/search?q=Danhausen) | N/A |
+| 50 | [Schwartz](http://twitter.com/search?q=Schwartz) | N/A |
 
 
 

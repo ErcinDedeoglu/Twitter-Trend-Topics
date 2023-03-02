@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For São Luís
 
-📆 Last Updated: `2023-03-02 09:16:04 UTC`
+📆 Last Updated: `2023-03-02 10:16:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,48 +22,48 @@ This is top 50 for [Brazil](</Brazil>)
 | 5 | [#AMagiaAconteceNoBBB](http://twitter.com/search?q=%23AMagiaAconteceNoBBB) | N/A |
 | 6 | [#BBWomenInMusic](http://twitter.com/search?q=%23BBWomenInMusic) | N/A |
 | 7 | [Neto](http://twitter.com/search?q=Neto) | Neto is a Portuguese word meaning "net" or "net profit". It is commonly used to refer to the amount of money that remains after all taxes, deductions, and other expenses have been taken out of a total amount. |
-| 8 | [vargas](http://twitter.com/search?q=vargas) | N/A |
-| 9 | [#flaxidv](http://twitter.com/search?q=%23flaxidv) | N/A |
+| 8 | [#flaxidv](http://twitter.com/search?q=%23flaxidv) | N/A |
+| 9 | [Vargas](http://twitter.com/search?q=Vargas) | Vargas is a Spanish surname derived from the Latin word "varga," which means "wolf." It is also a common given name in Spanish-speaking countries. In English, Vargas can be translated to mean "wolf." |
 | 10 | [Del Valle](http://twitter.com/search?q=Del+Valle) | N/A |
-| 11 | [sam levinson](http://twitter.com/search?q=sam+levinson) | N/A |
-| 12 | [#FreeAnitta](http://twitter.com/search?q=%23FreeAnitta) | N/A |
-| 13 | [#TWICE_BreakthroughAward](http://twitter.com/search?q=%23TWICE_BreakthroughAward) | N/A |
+| 11 | [#FreeAnitta](http://twitter.com/search?q=%23FreeAnitta) | N/A |
+| 12 | [#impetuoso](http://twitter.com/search?q=%23impetuoso) | N/A |
+| 13 | [sam levinson](http://twitter.com/search?q=sam+levinson) | N/A |
 | 14 | [Março](http://twitter.com/search?q=Mar%c3%a7o) | N/A |
-| 15 | [Maracanã](http://twitter.com/search?q=Maracan%c3%a3) | N/A |
-| 16 | [Dorival](http://twitter.com/search?q=Dorival) | Dorival is a French surname. It is derived from the Latin name Dorivallus, which means "gift of the sea". |
-| 17 | [all of the girls](http://twitter.com/search?q=all+of+the+girls) | N/A |
-| 18 | [jihyo](http://twitter.com/search?q=jihyo) | Jihyo is a Korean given name, usually for females. It is composed of two characters, the first meaning "wisdom" and the second meaning "beauty". In English, it can be translated to mean "wise beauty". |
-| 19 | [Top Track](http://twitter.com/search?q=Top+Track) | N/A |
-| 20 | [Top Album](http://twitter.com/search?q=Top+Album) | N/A |
-| 21 | [J COLE](http://twitter.com/search?q=J+COLE) | N/A |
+| 15 | [J COLE](http://twitter.com/search?q=J+COLE) | N/A |
+| 16 | [Lance Stroll](http://twitter.com/search?q=Lance+Stroll) | N/A |
+| 17 | [Maracanã](http://twitter.com/search?q=Maracan%c3%a3) | N/A |
+| 18 | [Dorival](http://twitter.com/search?q=Dorival) | Dorival is a French surname. It is derived from the Latin name Dorivallus, which means "gift of the sea". |
+| 19 | [all of the girls](http://twitter.com/search?q=all+of+the+girls) | N/A |
+| 20 | [Top Track](http://twitter.com/search?q=Top+Track) | N/A |
+| 21 | [Top Album](http://twitter.com/search?q=Top+Album) | N/A |
 | 22 | [Top Artist](http://twitter.com/search?q=Top+Artist) | N/A |
 | 23 | [No. Scrobbles](http://twitter.com/search?q=No.+Scrobbles) | N/A |
 | 24 | [chiara vai casar](http://twitter.com/search?q=chiara+vai+casar) | N/A |
 | 25 | [Maira Cardi](http://twitter.com/search?q=Maira+Cardi) | N/A |
-| 26 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 27 | [Sapato](http://twitter.com/search?q=Sapato) | Sapato is the Portuguese word for shoe. In English, it means the same thing. |
-| 28 | [Sapato](http://twitter.com/search?q=Sapato) | Sapato is the Portuguese word for shoe. In English, it means the same thing. |
-| 29 | [Vidal](http://twitter.com/search?q=Vidal) | Vidal is a Spanish surname derived from the Latin name Vitalis, which means “life”. It is also a French surname derived from the Latin name Vidallus, which means “woodland”. |
-| 30 | [Caxias do Sul](http://twitter.com/search?q=Caxias+do+Sul) | N/A |
-| 31 | [Campari](http://twitter.com/search?q=Campari) | N/A |
+| 26 | [Dedal](http://twitter.com/search?q=Dedal) | N/A |
+| 27 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
+| 28 | [jihyo](http://twitter.com/search?q=jihyo) | Jihyo is a Korean given name, usually for females. It is composed of two characters, the first meaning "wisdom" and the second meaning "beauty". In English, it can be translated to mean "wise beauty". |
+| 29 | [Sapato](http://twitter.com/search?q=Sapato) | Sapato is the Portuguese word for shoe. In English, it means the same thing. |
+| 30 | [Campari](http://twitter.com/search?q=Campari) | N/A |
+| 31 | [Caxias do Sul](http://twitter.com/search?q=Caxias+do+Sul) | N/A |
 | 32 | [Thiago Nigro](http://twitter.com/search?q=Thiago+Nigro) | N/A |
-| 33 | [ORDEM TRÊS ANOS](http://twitter.com/search?q=ORDEM+TR%c3%8aS+ANOS) | N/A |
-| 34 | [jennie](http://twitter.com/search?q=jennie) | N/A |
-| 35 | [cristaldo](http://twitter.com/search?q=cristaldo) | N/A |
-| 36 | [Faz o L](http://twitter.com/search?q=Faz+o+L) | N/A |
+| 33 | [Faz o L](http://twitter.com/search?q=Faz+o+L) | N/A |
+| 34 | [ORDEM TRÊS ANOS](http://twitter.com/search?q=ORDEM+TR%c3%8aS+ANOS) | N/A |
+| 35 | [Julice](http://twitter.com/search?q=Julice) | N/A |
+| 36 | [jennie](http://twitter.com/search?q=jennie) | N/A |
 | 37 | [Matheus Gonçalves](http://twitter.com/search?q=Matheus+Gon%c3%a7alves) | N/A |
-| 38 | [Julice](http://twitter.com/search?q=Julice) | N/A |
-| 39 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
-| 40 | [Copa do Brasil](http://twitter.com/search?q=Copa+do+Brasil) | N/A |
-| 41 | [Cauly](http://twitter.com/search?q=Cauly) | N/A |
-| 42 | [Gabigol](http://twitter.com/search?q=Gabigol) | Gabigol is a nickname given to Brazilian footballer Gabriel Barbosa, who currently plays for Flamengo. The nickname is a combination of his first name, Gabriel, and the Portuguese word for goal, gol. In English, the nickname translates to "Gabriel Goal". |
-| 43 | [BIGHIT PROTECT RM](http://twitter.com/search?q=BIGHIT+PROTECT+RM) | N/A |
-| 44 | [Haddad](http://twitter.com/search?q=Haddad) | N/A |
-| 45 | [Sandro Fantinel](http://twitter.com/search?q=Sandro+Fantinel) | N/A |
-| 46 | [Dedal](http://twitter.com/search?q=Dedal) | N/A |
-| 47 | [Pedrinho](http://twitter.com/search?q=Pedrinho) | Pedrinho is a Portuguese nickname for the name Pedro, which is the Spanish and Portuguese form of Peter. In English, it would be translated to Peter or Pete. |
-| 48 | [DEMI THE FINAL ONE](http://twitter.com/search?q=DEMI+THE+FINAL+ONE) | N/A |
-| 49 | [Lupita Nyong](http://twitter.com/search?q=Lupita+Nyong) | N/A |
+| 38 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
+| 39 | [Copa do Brasil](http://twitter.com/search?q=Copa+do+Brasil) | N/A |
+| 40 | [Pedrinho](http://twitter.com/search?q=Pedrinho) | Pedrinho is a Portuguese nickname for the name Pedro, which is the Spanish and Portuguese form of Peter. In English, it would be translated to Peter or Pete. |
+| 41 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
+| 42 | [DEMI THE FINAL ONE](http://twitter.com/search?q=DEMI+THE+FINAL+ONE) | N/A |
+| 43 | [Sandro Fantinel](http://twitter.com/search?q=Sandro+Fantinel) | N/A |
+| 44 | [Lupita Nyong](http://twitter.com/search?q=Lupita+Nyong) | N/A |
+| 45 | [Cristaldo](http://twitter.com/search?q=Cristaldo) | Cristaldo is a Portuguese name derived from the Latin name “Christophorus”, which means “Christ-bearer”. It is a combination of the words “Cristo” (Christ) and “Aldo” (bearer). In English, Cristaldo can be translated to mean "Christ-bearer". |
+| 46 | [BIGHIT PROTECT RM](http://twitter.com/search?q=BIGHIT+PROTECT+RM) | N/A |
+| 47 | [Haddad](http://twitter.com/search?q=Haddad) | N/A |
+| 48 | [Vidal](http://twitter.com/search?q=Vidal) | Vidal is a Spanish surname derived from the Latin name Vitalis, which means “life”. It is also a French surname derived from the Latin name Vidallus, which means “woodland”. |
+| 49 | [Gabigol](http://twitter.com/search?q=Gabigol) | Gabigol is a nickname given to Brazilian footballer Gabriel Barbosa, who currently plays for Flamengo. The nickname is a combination of his first name, Gabriel, and the Portuguese word for goal, gol. In English, the nickname translates to "Gabriel Goal". |
 | 50 | [Carabobo](http://twitter.com/search?q=Carabobo) | Carabobo is a state in Venezuela. Its name is derived from the Carabobo tribe, which inhabited the area before the Spanish colonization of the Americas. In English, it means "Valley of the Brave". |
 
 

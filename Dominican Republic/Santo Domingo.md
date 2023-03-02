@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santo Domingo
 
-📆 Last Updated: `2023-03-02 09:15:57 UTC`
+📆 Last Updated: `2023-03-02 10:16:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 1 | [Alexandra](http://twitter.com/search?q=Alexandra) | N/A |
 | 2 | [Brugal](http://twitter.com/search?q=Brugal) | N/A |
 | 3 | [Mozart](http://twitter.com/search?q=Mozart) | N/A |
-| 4 | [Petro](http://twitter.com/search?q=Petro) | N/A |
-| 5 | [Salud Pública](http://twitter.com/search?q=Salud+P%c3%bablica) | N/A |
+| 4 | [salud pública](http://twitter.com/search?q=salud+p%c3%bablica) | N/A |
+| 5 | [Petro](http://twitter.com/search?q=Petro) | N/A |
 | 6 | [Jessica](http://twitter.com/search?q=Jessica) | N/A |
 | 7 | [Día de la Cero Discriminación](http://twitter.com/search?q=D%c3%ada+de+la+Cero+Discriminaci%c3%b3n) | N/A |
 | 8 | [la guáyiga](http://twitter.com/search?q=la+gu%c3%a1yiga) | N/A |
 | 9 | [john kelly martínez](http://twitter.com/search?q=john+kelly+mart%c3%adnez) | N/A |
-| 10 | [Tamayo](http://twitter.com/search?q=Tamayo) | Tamayo is a Spanish surname. It is derived from the Latin name Thomas, which means "twin". In English, it can be translated to mean "twin". |
+| 10 | [tamayo](http://twitter.com/search?q=tamayo) | N/A |
 | 11 | [Abinader](http://twitter.com/search?q=Abinader) | N/A |
 | 12 | [#lamejorrd](http://twitter.com/search?q=%23lamejorrd) | N/A |
 | 13 | [#rendiciondecuentas2023](http://twitter.com/search?q=%23rendiciondecuentas2023) | N/A |
-| 14 | [Julio Sabala](http://twitter.com/search?q=Julio+Sabala) | N/A |
-| 15 | [Guido](http://twitter.com/search?q=Guido) | Guido is a slang term used to refer to a certain type of Italian-American man. It is often used in a derogatory way to describe someone who is seen as overly macho, chauvinistic, and/or aggressive. |
-| 16 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
-| 17 | [Vanessa Bryant](http://twitter.com/search?q=Vanessa+Bryant) | N/A |
-| 18 | [Napo](http://twitter.com/search?q=Napo) | N/A |
-| 19 | [#polloindex](http://twitter.com/search?q=%23polloindex) | N/A |
-| 20 | [#27defebrero](http://twitter.com/search?q=%2327defebrero) | N/A |
-| 21 | [Grecia](http://twitter.com/search?q=Grecia) | N/A |
-| 22 | [Los Ángeles](http://twitter.com/search?q=Los+%c3%81ngeles) | N/A |
-| 23 | [Justin Bieber](http://twitter.com/search?q=Justin+Bieber) | N/A |
-| 24 | [Bienvenida](http://twitter.com/search?q=Bienvenida) | N/A |
-| 25 | [hot entra](http://twitter.com/search?q=hot+entra) | N/A |
-| 26 | [new contenido](http://twitter.com/search?q=new+contenido) | N/A |
-| 27 | [Lester Quiñones](http://twitter.com/search?q=Lester+Qui%c3%b1ones) | N/A |
-| 28 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
-| 29 | [Kevin Durant](http://twitter.com/search?q=Kevin+Durant) | Kevin Durant is an American professional basketball player who currently plays for the Brooklyn Nets of the National Basketball Association (NBA). He is a ten-time NBA All-Star and two-time NBA Finals MVP. He has won four NBA scoring titles, the NBA Rookie of the Year Award, and an Olympic gold medal. |
-| 30 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
-| 31 | [foke](http://twitter.com/search?q=foke) | N/A |
-| 32 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |
-| 33 | [Muchacho](http://twitter.com/search?q=Muchacho) | N/A |
-| 34 | [Punta Catalina](http://twitter.com/search?q=Punta+Catalina) | N/A |
-| 35 | [Banco Central](http://twitter.com/search?q=Banco+Central) | N/A |
-| 36 | [independencia nacional](http://twitter.com/search?q=independencia+nacional) | N/A |
-| 37 | [Puerto](http://twitter.com/search?q=Puerto) | N/A |
-| 38 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
-| 39 | [Dilo](http://twitter.com/search?q=Dilo) | N/A |
-| 40 | [inacif](http://twitter.com/search?q=inacif) | N/A |
-| 41 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
-| 42 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
-| 43 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
-| 44 | [Falcon 9](http://twitter.com/search?q=Falcon+9) | N/A |
-| 45 | [MAPFRE](http://twitter.com/search?q=MAPFRE) | N/A |
-| 46 | [rafael alburquerque](http://twitter.com/search?q=rafael+alburquerque) | N/A |
-| 47 | [Inglaterra](http://twitter.com/search?q=Inglaterra) | N/A |
-| 48 | [tenares](http://twitter.com/search?q=tenares) | N/A |
-| 49 | [Naciones Unidas](http://twitter.com/search?q=Naciones+Unidas) | N/A |
-| 50 | [Salcedo](http://twitter.com/search?q=Salcedo) | N/A |
+| 14 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
+| 15 | [Julio Sabala](http://twitter.com/search?q=Julio+Sabala) | N/A |
+| 16 | [Guido](http://twitter.com/search?q=Guido) | Guido is a slang term used to refer to a certain type of Italian-American man. It is often used in a derogatory way to describe someone who is seen as overly macho, chauvinistic, and/or aggressive. |
+| 17 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
+| 18 | [Vanessa Bryant](http://twitter.com/search?q=Vanessa+Bryant) | N/A |
+| 19 | [Napo](http://twitter.com/search?q=Napo) | N/A |
+| 20 | [Faride](http://twitter.com/search?q=Faride) | N/A |
+| 21 | [#polloindex](http://twitter.com/search?q=%23polloindex) | N/A |
+| 22 | [#27defebrero](http://twitter.com/search?q=%2327defebrero) | N/A |
+| 23 | [Grecia](http://twitter.com/search?q=Grecia) | N/A |
+| 24 | [Los Ángeles](http://twitter.com/search?q=Los+%c3%81ngeles) | N/A |
+| 25 | [Omar](http://twitter.com/search?q=Omar) | Omar is a male given name of Arabic origin, meaning "speaker". It is also used as a surname. |
+| 26 | [Justin Bieber](http://twitter.com/search?q=Justin+Bieber) | N/A |
+| 27 | [hot entra](http://twitter.com/search?q=hot+entra) | N/A |
+| 28 | [new contenido](http://twitter.com/search?q=new+contenido) | N/A |
+| 29 | [Lester Quiñones](http://twitter.com/search?q=Lester+Qui%c3%b1ones) | N/A |
+| 30 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
+| 31 | [Kevin Durant](http://twitter.com/search?q=Kevin+Durant) | Kevin Durant is an American professional basketball player who currently plays for the Brooklyn Nets of the National Basketball Association (NBA). He is a ten-time NBA All-Star and two-time NBA Finals MVP. He has won four NBA scoring titles, the NBA Rookie of the Year Award, and an Olympic gold medal. |
+| 32 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
+| 33 | [foke](http://twitter.com/search?q=foke) | N/A |
+| 34 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |
+| 35 | [Muchacho](http://twitter.com/search?q=Muchacho) | N/A |
+| 36 | [Punta Catalina](http://twitter.com/search?q=Punta+Catalina) | N/A |
+| 37 | [Banco Central](http://twitter.com/search?q=Banco+Central) | N/A |
+| 38 | [independencia nacional](http://twitter.com/search?q=independencia+nacional) | N/A |
+| 39 | [Puerto](http://twitter.com/search?q=Puerto) | N/A |
+| 40 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
+| 41 | [Dilo](http://twitter.com/search?q=Dilo) | N/A |
+| 42 | [inacif](http://twitter.com/search?q=inacif) | N/A |
+| 43 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
+| 44 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
+| 45 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 46 | [Falcon 9](http://twitter.com/search?q=Falcon+9) | N/A |
+| 47 | [MAPFRE](http://twitter.com/search?q=MAPFRE) | N/A |
+| 48 | [rafael alburquerque](http://twitter.com/search?q=rafael+alburquerque) | N/A |
+| 49 | [Inglaterra](http://twitter.com/search?q=Inglaterra) | N/A |
+| 50 | [tenares](http://twitter.com/search?q=tenares) | N/A |
 
 
 

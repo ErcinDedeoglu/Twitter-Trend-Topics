@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sheffield
 
-📆 Last Updated: `2023-03-02 09:15:56 UTC`
+📆 Last Updated: `2023-03-02 10:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Charles](http://twitter.com/search?q=Charles) | N/A |
-| 2 | [#PayUp](http://twitter.com/search?q=%23PayUp) | N/A |
-| 3 | [#WorldBookDay](http://twitter.com/search?q=%23WorldBookDay) | N/A |
-| 4 | [#r4today](http://twitter.com/search?q=%23r4today) | N/A |
-| 5 | [Gavin Williamson](http://twitter.com/search?q=Gavin+Williamson) | N/A |
-| 6 | [#WBD23](http://twitter.com/search?q=%23WBD23) | N/A |
-| 7 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
-| 8 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
-| 9 | [McDonalds](http://twitter.com/search?q=McDonalds) | N/A |
-| 10 | [Unions](http://twitter.com/search?q=Unions) | N/A |
-| 11 | [Isabel Oakeshott](http://twitter.com/search?q=Isabel+Oakeshott) | N/A |
-| 12 | [Daily Quordle 402](http://twitter.com/search?q=Daily+Quordle+402) | N/A |
-| 13 | [J COLE](http://twitter.com/search?q=J+COLE) | N/A |
+| 1 | [#JeremyVine](http://twitter.com/search?q=%23JeremyVine) | N/A |
+| 2 | [Andrew](http://twitter.com/search?q=Andrew) | N/A |
+| 3 | [#PayUp](http://twitter.com/search?q=%23PayUp) | N/A |
+| 4 | [#WorldBookDay](http://twitter.com/search?q=%23WorldBookDay) | N/A |
+| 5 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
+| 6 | [Hancock](http://twitter.com/search?q=Hancock) | N/A |
+| 7 | [#WBD23](http://twitter.com/search?q=%23WBD23) | N/A |
+| 8 | [McDonalds](http://twitter.com/search?q=McDonalds) | N/A |
+| 9 | [#WBD2023](http://twitter.com/search?q=%23WBD2023) | N/A |
+| 10 | [Isabel Oakeshott](http://twitter.com/search?q=Isabel+Oakeshott) | N/A |
+| 11 | [Badenoch](http://twitter.com/search?q=Badenoch) | N/A |
+| 12 | [Unions](http://twitter.com/search?q=Unions) | N/A |
+| 13 | [Daily Quordle 402](http://twitter.com/search?q=Daily+Quordle+402) | N/A |
 | 14 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
-| 15 | [Teachers](http://twitter.com/search?q=Teachers) | N/A |
-| 16 | [WE NEED BOOKS](http://twitter.com/search?q=WE+NEED+BOOKS) | N/A |
-| 17 | [Nick Robinson](http://twitter.com/search?q=Nick+Robinson) | N/A |
-| 18 | [Badenoch](http://twitter.com/search?q=Badenoch) | N/A |
-| 19 | [JHOPE](http://twitter.com/search?q=JHOPE) | N/A |
-| 20 | [Frogmore](http://twitter.com/search?q=Frogmore) | N/A |
-| 21 | [Yoruba](http://twitter.com/search?q=Yoruba) | N/A |
-| 22 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
-| 23 | [Meghan](http://twitter.com/search?q=Meghan) | N/A |
-| 24 | [Andrew](http://twitter.com/search?q=Andrew) | N/A |
-| 25 | [Levy](http://twitter.com/search?q=Levy) | Levy is a noun that refers to a tax or fee imposed by a government or other authority. It can also refer to the act of collecting such a tax or fee. |
-| 26 | [Telegraph](http://twitter.com/search?q=Telegraph) | N/A |
+| 15 | [j cole](http://twitter.com/search?q=j+cole) | N/A |
+| 16 | [Nick Robinson](http://twitter.com/search?q=Nick+Robinson) | N/A |
+| 17 | [Lance Stroll](http://twitter.com/search?q=Lance+Stroll) | N/A |
+| 18 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
+| 19 | [Meghan](http://twitter.com/search?q=Meghan) | N/A |
+| 20 | [Yoruba](http://twitter.com/search?q=Yoruba) | N/A |
+| 21 | [Frogmore](http://twitter.com/search?q=Frogmore) | N/A |
+| 22 | [Telegraph](http://twitter.com/search?q=Telegraph) | N/A |
+| 23 | [Sorcha](http://twitter.com/search?q=Sorcha) | N/A |
+| 24 | [JHOPE](http://twitter.com/search?q=JHOPE) | N/A |
+| 25 | [Richard Tice](http://twitter.com/search?q=Richard+Tice) | N/A |
+| 26 | [Year 1](http://twitter.com/search?q=Year+1) | N/A |
 | 27 | [Wakefield](http://twitter.com/search?q=Wakefield) | N/A |
-| 28 | [Tice](http://twitter.com/search?q=Tice) | N/A |
+| 28 | [Levy](http://twitter.com/search?q=Levy) | Levy is a noun that refers to a tax or fee imposed by a government or other authority. It can also refer to the act of collecting such a tax or fee. |
 | 29 | [Poch](http://twitter.com/search?q=Poch) | Poch is a Spanish slang term that means "lazy" or "slacker." It is often used to describe someone who is not motivated or who avoids work. |
-| 30 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
-| 31 | [Vine](http://twitter.com/search?q=Vine) | N/A |
-| 32 | [ENIC](http://twitter.com/search?q=ENIC) | N/A |
-| 33 | [Batley](http://twitter.com/search?q=Batley) | N/A |
+| 30 | [IPOB](http://twitter.com/search?q=IPOB) | N/A |
+| 31 | [Royal Family](http://twitter.com/search?q=Royal+Family) | N/A |
+| 32 | [Batley](http://twitter.com/search?q=Batley) | N/A |
+| 33 | [Sheff Utd](http://twitter.com/search?q=Sheff+Utd) | N/A |
 | 34 | [Whitty](http://twitter.com/search?q=Whitty) | N/A |
-| 35 | [Sheff Utd](http://twitter.com/search?q=Sheff+Utd) | N/A |
-| 36 | [Clarkson](http://twitter.com/search?q=Clarkson) | Clarkson is a surname of English origin. It is derived from the Old English word "clerc" meaning "cleric" or "scholar". The name was originally given to someone who was a clerk or scholar. |
-| 37 | [Dier](http://twitter.com/search?q=Dier) | N/A |
-| 38 | [Royal Family](http://twitter.com/search?q=Royal+Family) | N/A |
-| 39 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
-| 40 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
-| 41 | [#lockdownfiles](http://twitter.com/search?q=%23lockdownfiles) | N/A |
-| 42 | [#ANGS](http://twitter.com/search?q=%23ANGS) | N/A |
-| 43 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 44 | [#AdoorableThursday](http://twitter.com/search?q=%23AdoorableThursday) | N/A |
-| 45 | [#earlybiz](http://twitter.com/search?q=%23earlybiz) | N/A |
-| 46 | [#readingforpleasure](http://twitter.com/search?q=%23readingforpleasure) | N/A |
-| 47 | [#ToriesOut238](http://twitter.com/search?q=%23ToriesOut238) | N/A |
-| 48 | [#Eurovision2023](http://twitter.com/search?q=%23Eurovision2023) | N/A |
-| 49 | [#CovidInquiry](http://twitter.com/search?q=%23CovidInquiry) | N/A |
-| 50 | [#33Thirds](http://twitter.com/search?q=%2333Thirds) | N/A |
+| 35 | [Clarkson](http://twitter.com/search?q=Clarkson) | Clarkson is a surname of English origin. It is derived from the Old English word "clerc" meaning "cleric" or "scholar". The name was originally given to someone who was a clerk or scholar. |
+| 36 | [Dier](http://twitter.com/search?q=Dier) | N/A |
+| 37 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
+| 38 | [#readingforpleasure](http://twitter.com/search?q=%23readingforpleasure) | N/A |
+| 39 | [#r4today](http://twitter.com/search?q=%23r4today) | N/A |
+| 40 | [#ASongOrMovieForAnythingYellow](http://twitter.com/search?q=%23ASongOrMovieForAnythingYellow) | N/A |
+| 41 | [#books](http://twitter.com/search?q=%23books) | N/A |
+| 42 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
+| 43 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
+| 44 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 45 | [#ntsummit](http://twitter.com/search?q=%23ntsummit) | N/A |
+| 46 | [#YSTConference](http://twitter.com/search?q=%23YSTConference) | N/A |
+| 47 | [#HETTNorth](http://twitter.com/search?q=%23HETTNorth) | N/A |
+| 48 | [#lockdownfiles](http://twitter.com/search?q=%23lockdownfiles) | N/A |
+| 49 | [#TeacherStrike](http://twitter.com/search?q=%23TeacherStrike) | N/A |
+| 50 | [#Eurovision2023](http://twitter.com/search?q=%23Eurovision2023) | N/A |
 
 
 
