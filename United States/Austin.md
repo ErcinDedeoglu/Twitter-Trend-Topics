@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austin
 
-📆 Last Updated: `2023-03-02 13:21:48 UTC`
+📆 Last Updated: `2023-03-02 14:18:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Texas Independence Day](http://twitter.com/search?q=Texas+Independence+Day) | N/A |
-| 2 | [#BoycottHersheys](http://twitter.com/search?q=%23BoycottHersheys) | N/A |
-| 3 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 4 | [jiho](http://twitter.com/search?q=jiho) | N/A |
-| 5 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
-| 6 | [#WorldBookDay](http://twitter.com/search?q=%23WorldBookDay) | N/A |
-| 7 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
-| 8 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
-| 9 | [CONG](http://twitter.com/search?q=CONG) | N/A |
-| 10 | [Daily Quordle 402](http://twitter.com/search?q=Daily+Quordle+402) | N/A |
-| 11 | [takuto](http://twitter.com/search?q=takuto) | N/A |
-| 12 | [JCOLE](http://twitter.com/search?q=JCOLE) | N/A |
-| 13 | [SUNGMIN](http://twitter.com/search?q=SUNGMIN) | N/A |
-| 14 | [jhope](http://twitter.com/search?q=jhope) | N/A |
-| 15 | [Gible](http://twitter.com/search?q=Gible) | N/A |
-| 16 | [Dratini](http://twitter.com/search?q=Dratini) | N/A |
-| 17 | [Lavrov](http://twitter.com/search?q=Lavrov) | N/A |
-| 18 | [Chaka Khan](http://twitter.com/search?q=Chaka+Khan) | N/A |
-| 19 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
-| 20 | [Doechii](http://twitter.com/search?q=Doechii) | N/A |
-| 21 | [Goomy](http://twitter.com/search?q=Goomy) | N/A |
-| 22 | [Yoruba](http://twitter.com/search?q=Yoruba) | N/A |
-| 23 | [Trapinch](http://twitter.com/search?q=Trapinch) | N/A |
-| 24 | [Meghan](http://twitter.com/search?q=Meghan) | N/A |
-| 25 | [Hawley](http://twitter.com/search?q=Hawley) | N/A |
-| 26 | [Noibat](http://twitter.com/search?q=Noibat) | N/A |
-| 27 | [Attacks](http://twitter.com/search?q=Attacks) | N/A |
-| 28 | [Fentanyl](http://twitter.com/search?q=Fentanyl) | N/A |
-| 29 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
-| 30 | [Petro](http://twitter.com/search?q=Petro) | N/A |
-| 31 | [Alaska and Hawaii](http://twitter.com/search?q=Alaska+and+Hawaii) | N/A |
-| 32 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 33 | [Joe Budden](http://twitter.com/search?q=Joe+Budden) | N/A |
-| 34 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 35 | [International Women's Day](http://twitter.com/search?q=International+Women%27s+Day) | N/A |
-| 36 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
-| 37 | [Barr](http://twitter.com/search?q=Barr) | Barr is a Scottish surname derived from the Gaelic word "barra", meaning "spear". It is also a common given name in Scotland. |
-| 38 | [Wanda](http://twitter.com/search?q=Wanda) | N/A |
-| 39 | [Brenda](http://twitter.com/search?q=Brenda) | N/A |
-| 40 | [Ultra](http://twitter.com/search?q=Ultra) | N/A |
-| 41 | [John Kerry](http://twitter.com/search?q=John+Kerry) | N/A |
-| 42 | [matty healy](http://twitter.com/search?q=matty+healy) | N/A |
-| 43 | [When God](http://twitter.com/search?q=When+God) | N/A |
-| 44 | [Frogmore](http://twitter.com/search?q=Frogmore) | N/A |
-| 45 | [Billboard](http://twitter.com/search?q=Billboard) | N/A |
-| 46 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 47 | [Nelly](http://twitter.com/search?q=Nelly) | Nelly is a nickname for the female given name Eleanor, which is derived from the Greek name Helenē, meaning “light” or “bright one.” It can also be used as a diminutive form of the name Cornelia. |
-| 48 | [Wizkid](http://twitter.com/search?q=Wizkid) | Wizkid is a Nigerian singer, songwriter, and record producer. His real name is Ayodeji Ibrahim Balogun. The name Wizkid is derived from his childhood nickname, which was given to him by his friends due to his precociousness. In English, the term "wizkid" can be used to describe someone who is exceptionally talented or intelligent. |
-| 49 | [Ghana](http://twitter.com/search?q=Ghana) | N/A |
+| 1 | [#BoycottHersheys](http://twitter.com/search?q=%23BoycottHersheys) | N/A |
+| 2 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 3 | [#WorldBookDay](http://twitter.com/search?q=%23WorldBookDay) | N/A |
+| 4 | [mnet](http://twitter.com/search?q=mnet) | N/A |
+| 5 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
+| 6 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
+| 7 | [Texas Independence Day](http://twitter.com/search?q=Texas+Independence+Day) | N/A |
+| 8 | [jiho](http://twitter.com/search?q=jiho) | N/A |
+| 9 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
+| 10 | [CONG](http://twitter.com/search?q=CONG) | N/A |
+| 11 | [Dr. Seuss](http://twitter.com/search?q=Dr.+Seuss) | N/A |
+| 12 | [Daily Quordle 402](http://twitter.com/search?q=Daily+Quordle+402) | N/A |
+| 13 | [Chaka Khan](http://twitter.com/search?q=Chaka+Khan) | N/A |
+| 14 | [SUNGMIN](http://twitter.com/search?q=SUNGMIN) | N/A |
+| 15 | [takuto](http://twitter.com/search?q=takuto) | N/A |
+| 16 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
+| 17 | [JCOLE](http://twitter.com/search?q=JCOLE) | N/A |
+| 18 | [PARK HANBIN](http://twitter.com/search?q=PARK+HANBIN) | N/A |
+| 19 | [Bryansk](http://twitter.com/search?q=Bryansk) | N/A |
+| 20 | [Michael Darby](http://twitter.com/search?q=Michael+Darby) | N/A |
+| 21 | [AURORA](http://twitter.com/search?q=AURORA) | N/A |
+| 22 | [Dratini](http://twitter.com/search?q=Dratini) | N/A |
+| 23 | [Gible](http://twitter.com/search?q=Gible) | N/A |
+| 24 | [Doechii](http://twitter.com/search?q=Doechii) | N/A |
+| 25 | [yujin](http://twitter.com/search?q=yujin) | N/A |
+| 26 | [hwanhee](http://twitter.com/search?q=hwanhee) | N/A |
+| 27 | [Trapinch](http://twitter.com/search?q=Trapinch) | N/A |
+| 28 | [Ni Hao](http://twitter.com/search?q=Ni+Hao) | N/A |
+| 29 | [Karen Carpenter](http://twitter.com/search?q=Karen+Carpenter) | N/A |
+| 30 | [Lavrov](http://twitter.com/search?q=Lavrov) | N/A |
+| 31 | [Philippians](http://twitter.com/search?q=Philippians) | N/A |
+| 32 | [Bill Barr](http://twitter.com/search?q=Bill+Barr) | N/A |
+| 33 | [Hawley](http://twitter.com/search?q=Hawley) | N/A |
+| 34 | [International Women's Day](http://twitter.com/search?q=International+Women%27s+Day) | N/A |
+| 35 | [Goomy](http://twitter.com/search?q=Goomy) | N/A |
+| 36 | [Attacks](http://twitter.com/search?q=Attacks) | N/A |
+| 37 | [Alaska and Hawaii](http://twitter.com/search?q=Alaska+and+Hawaii) | N/A |
+| 38 | [Lou Reed](http://twitter.com/search?q=Lou+Reed) | N/A |
+| 39 | [Noibat](http://twitter.com/search?q=Noibat) | N/A |
+| 40 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
+| 41 | [$TSLA](http://twitter.com/search?q=%24TSLA) | $TSLA is the stock symbol for Tesla, Inc., an American electric vehicle and clean energy company. It is traded on the Nasdaq stock exchange. |
+| 42 | [Fentanyl](http://twitter.com/search?q=Fentanyl) | N/A |
+| 43 | [Meghan](http://twitter.com/search?q=Meghan) | N/A |
+| 44 | [Sean Penn](http://twitter.com/search?q=Sean+Penn) | N/A |
+| 45 | [Petro](http://twitter.com/search?q=Petro) | N/A |
+| 46 | [Dreepy](http://twitter.com/search?q=Dreepy) | N/A |
+| 47 | [Yoruba](http://twitter.com/search?q=Yoruba) | N/A |
+| 48 | [Nelly](http://twitter.com/search?q=Nelly) | Nelly is a nickname for the female given name Eleanor, which is derived from the Greek name Helenē, meaning “light” or “bright one.” It can also be used as a diminutive form of the name Cornelia. |
+| 49 | [Joe Budden](http://twitter.com/search?q=Joe+Budden) | N/A |
 
 
 

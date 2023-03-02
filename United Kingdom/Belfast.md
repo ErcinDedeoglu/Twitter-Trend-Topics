@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belfast
 
-📆 Last Updated: `2023-03-02 13:21:04 UTC`
+📆 Last Updated: `2023-03-02 14:17:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#WorldBookDay](http://twitter.com/search?q=%23WorldBookDay) | N/A |
-| 2 | [#bbclivelessons](http://twitter.com/search?q=%23bbclivelessons) | N/A |
-| 3 | [#FMQs](http://twitter.com/search?q=%23FMQs) | N/A |
-| 4 | [McDonalds](http://twitter.com/search?q=McDonalds) | N/A |
-| 5 | [#WBD2023](http://twitter.com/search?q=%23WBD2023) | N/A |
-| 6 | [#books](http://twitter.com/search?q=%23books) | N/A |
-| 7 | [Matt Hancock](http://twitter.com/search?q=Matt+Hancock) | Matt Hancock is the current Secretary of State for Health and Social Care in the United Kingdom. He is responsible for leading the government's response to the coronavirus pandemic. The phrase "Matt Hancock" is used to refer to him and his role in government. |
+| 2 | [McDonalds](http://twitter.com/search?q=McDonalds) | N/A |
+| 3 | [#MorrisonsMisery](http://twitter.com/search?q=%23MorrisonsMisery) | N/A |
+| 4 | [#FMQs](http://twitter.com/search?q=%23FMQs) | N/A |
+| 5 | [#books](http://twitter.com/search?q=%23books) | N/A |
+| 6 | [#WBD23](http://twitter.com/search?q=%23WBD23) | N/A |
+| 7 | [mnet](http://twitter.com/search?q=mnet) | N/A |
 | 8 | [Lee Anderson](http://twitter.com/search?q=Lee+Anderson) | N/A |
-| 9 | [HARUTO](http://twitter.com/search?q=HARUTO) | N/A |
+| 9 | [Hancock](http://twitter.com/search?q=Hancock) | N/A |
 | 10 | [Year 6](http://twitter.com/search?q=Year+6) | N/A |
 | 11 | [Isabel Oakeshott](http://twitter.com/search?q=Isabel+Oakeshott) | N/A |
-| 12 | [30p Lee](http://twitter.com/search?q=30p+Lee) | N/A |
-| 13 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
-| 14 | [Kemi Badenoch](http://twitter.com/search?q=Kemi+Badenoch) | N/A |
-| 15 | [WH Smith](http://twitter.com/search?q=WH+Smith) | N/A |
-| 16 | [Unions](http://twitter.com/search?q=Unions) | N/A |
-| 17 | [Bryansk](http://twitter.com/search?q=Bryansk) | N/A |
-| 18 | [Gavin Williamson](http://twitter.com/search?q=Gavin+Williamson) | N/A |
-| 19 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
-| 20 | [Library](http://twitter.com/search?q=Library) | N/A |
-| 21 | [Richard Tice](http://twitter.com/search?q=Richard+Tice) | N/A |
-| 22 | [JCOLE](http://twitter.com/search?q=JCOLE) | N/A |
-| 23 | [Teachers](http://twitter.com/search?q=Teachers) | N/A |
-| 24 | [Menopause](http://twitter.com/search?q=Menopause) | N/A |
-| 25 | [New IRA](http://twitter.com/search?q=New+IRA) | N/A |
-| 26 | [Alice in Wonderland](http://twitter.com/search?q=Alice+in+Wonderland) | N/A |
-| 27 | [Reform](http://twitter.com/search?q=Reform) | N/A |
-| 28 | [Wo Long](http://twitter.com/search?q=Wo+Long) | N/A |
+| 12 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
+| 13 | [30p Lee](http://twitter.com/search?q=30p+Lee) | N/A |
+| 14 | [Badenoch](http://twitter.com/search?q=Badenoch) | N/A |
+| 15 | [The Tiger](http://twitter.com/search?q=The+Tiger) | N/A |
+| 16 | [Stepped](http://twitter.com/search?q=Stepped) | N/A |
+| 17 | [My President](http://twitter.com/search?q=My+President) | N/A |
+| 18 | [HARUTO](http://twitter.com/search?q=HARUTO) | N/A |
+| 19 | [Manchester Arena](http://twitter.com/search?q=Manchester+Arena) | N/A |
+| 20 | [WH Smith](http://twitter.com/search?q=WH+Smith) | N/A |
+| 21 | [Bryansk](http://twitter.com/search?q=Bryansk) | N/A |
+| 22 | [Gavin Williamson](http://twitter.com/search?q=Gavin+Williamson) | N/A |
+| 23 | [Richard Tice](http://twitter.com/search?q=Richard+Tice) | N/A |
+| 24 | [Unions](http://twitter.com/search?q=Unions) | N/A |
+| 25 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
+| 26 | [New IRA](http://twitter.com/search?q=New+IRA) | N/A |
+| 27 | [Wo Long](http://twitter.com/search?q=Wo+Long) | N/A |
+| 28 | [Menopause](http://twitter.com/search?q=Menopause) | N/A |
 | 29 | [Reception](http://twitter.com/search?q=Reception) | N/A |
-| 30 | [Matilda](http://twitter.com/search?q=Matilda) | Matilda is a female given name of Germanic origin, derived from the words maht (meaning "might, strength") and hild (meaning "battle"). It is often associated with the English queen Matilda of Flanders. The name can also be used as a nickname for Matilda or Mathilde. |
-| 31 | [Telegraph](http://twitter.com/search?q=Telegraph) | N/A |
-| 32 | [Yoruba](http://twitter.com/search?q=Yoruba) | N/A |
-| 33 | [Maccies](http://twitter.com/search?q=Maccies) | N/A |
-| 34 | [Bunny](http://twitter.com/search?q=Bunny) | N/A |
-| 35 | [Lance Stroll](http://twitter.com/search?q=Lance+Stroll) | N/A |
-| 36 | [Bone](http://twitter.com/search?q=Bone) | N/A |
-| 37 | [Frogmore](http://twitter.com/search?q=Frogmore) | N/A |
-| 38 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
-| 39 | [Wally](http://twitter.com/search?q=Wally) | N/A |
-| 40 | [Daily Quordle 402](http://twitter.com/search?q=Daily+Quordle+402) | N/A |
-| 41 | [Lockdowns](http://twitter.com/search?q=Lockdowns) | N/A |
-| 42 | [Prince Andrew](http://twitter.com/search?q=Prince+Andrew) | N/A |
-| 43 | [Carolyn](http://twitter.com/search?q=Carolyn) | N/A |
-| 44 | [Sorcha](http://twitter.com/search?q=Sorcha) | N/A |
-| 45 | [Harry and Meghan](http://twitter.com/search?q=Harry+and+Meghan) | N/A |
-| 46 | [jhope](http://twitter.com/search?q=jhope) | N/A |
-| 47 | [Lagosians](http://twitter.com/search?q=Lagosians) | N/A |
-| 48 | [BAME](http://twitter.com/search?q=BAME) | N/A |
-| 49 | [EYFS](http://twitter.com/search?q=EYFS) | N/A |
+| 30 | [JCOLE](http://twitter.com/search?q=JCOLE) | N/A |
+| 31 | [Alice in Wonderland](http://twitter.com/search?q=Alice+in+Wonderland) | N/A |
+| 32 | [Teachers](http://twitter.com/search?q=Teachers) | N/A |
+| 33 | [Reform](http://twitter.com/search?q=Reform) | N/A |
+| 34 | [Telegraph](http://twitter.com/search?q=Telegraph) | N/A |
+| 35 | [Lockdowns](http://twitter.com/search?q=Lockdowns) | N/A |
+| 36 | [Library](http://twitter.com/search?q=Library) | N/A |
+| 37 | [Wally](http://twitter.com/search?q=Wally) | N/A |
+| 38 | [Yoruba](http://twitter.com/search?q=Yoruba) | N/A |
+| 39 | [Bunny](http://twitter.com/search?q=Bunny) | N/A |
+| 40 | [Bone](http://twitter.com/search?q=Bone) | N/A |
+| 41 | [Frogmore](http://twitter.com/search?q=Frogmore) | N/A |
+| 42 | [Matilda](http://twitter.com/search?q=Matilda) | Matilda is a female given name of Germanic origin, derived from the words maht (meaning "might, strength") and hild (meaning "battle"). It is often associated with the English queen Matilda of Flanders. The name can also be used as a nickname for Matilda or Mathilde. |
+| 43 | [JHOPE](http://twitter.com/search?q=JHOPE) | N/A |
+| 44 | [Carolyn](http://twitter.com/search?q=Carolyn) | N/A |
+| 45 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
+| 46 | [Prince Andrew](http://twitter.com/search?q=Prince+Andrew) | N/A |
+| 47 | [Sorcha](http://twitter.com/search?q=Sorcha) | N/A |
+| 48 | [Lagosians](http://twitter.com/search?q=Lagosians) | N/A |
+| 49 | [Daily Quordle 402](http://twitter.com/search?q=Daily+Quordle+402) | N/A |
 
 
 

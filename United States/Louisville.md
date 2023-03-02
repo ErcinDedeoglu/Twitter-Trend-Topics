@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Louisville
 
-📆 Last Updated: `2023-03-02 13:21:52 UTC`
+📆 Last Updated: `2023-03-02 14:18:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,46 +22,45 @@ This is top 50 for [United States](</United States>)
 | 5 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
 | 6 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
 | 7 | [Vanderbilt](http://twitter.com/search?q=Vanderbilt) | N/A |
-| 8 | [Cats](http://twitter.com/search?q=Cats) | N/A |
-| 9 | [#BoycottHersheys](http://twitter.com/search?q=%23BoycottHersheys) | N/A |
-| 10 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 11 | [jiho](http://twitter.com/search?q=jiho) | N/A |
-| 12 | [#WorldBookDay](http://twitter.com/search?q=%23WorldBookDay) | N/A |
-| 13 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
+| 8 | [#BoycottHersheys](http://twitter.com/search?q=%23BoycottHersheys) | N/A |
+| 9 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 10 | [#WorldBookDay](http://twitter.com/search?q=%23WorldBookDay) | N/A |
+| 11 | [mnet](http://twitter.com/search?q=mnet) | N/A |
+| 12 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
+| 13 | [Texas Independence Day](http://twitter.com/search?q=Texas+Independence+Day) | N/A |
 | 14 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
-| 15 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
-| 16 | [CONG](http://twitter.com/search?q=CONG) | N/A |
-| 17 | [Daily Quordle 402](http://twitter.com/search?q=Daily+Quordle+402) | N/A |
-| 18 | [takuto](http://twitter.com/search?q=takuto) | N/A |
-| 19 | [Texas Independence Day](http://twitter.com/search?q=Texas+Independence+Day) | N/A |
-| 20 | [JCOLE](http://twitter.com/search?q=JCOLE) | N/A |
+| 15 | [jiho](http://twitter.com/search?q=jiho) | N/A |
+| 16 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
+| 17 | [Dr. Seuss](http://twitter.com/search?q=Dr.+Seuss) | N/A |
+| 18 | [CONG](http://twitter.com/search?q=CONG) | N/A |
+| 19 | [Chaka Khan](http://twitter.com/search?q=Chaka+Khan) | N/A |
+| 20 | [Daily Quordle 402](http://twitter.com/search?q=Daily+Quordle+402) | N/A |
 | 21 | [SUNGMIN](http://twitter.com/search?q=SUNGMIN) | N/A |
-| 22 | [PARK HANBIN](http://twitter.com/search?q=PARK+HANBIN) | N/A |
-| 23 | [Gible](http://twitter.com/search?q=Gible) | N/A |
-| 24 | [jhope](http://twitter.com/search?q=jhope) | N/A |
-| 25 | [Dratini](http://twitter.com/search?q=Dratini) | N/A |
-| 26 | [Lavrov](http://twitter.com/search?q=Lavrov) | N/A |
-| 27 | [Chaka](http://twitter.com/search?q=Chaka) | N/A |
-| 28 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
-| 29 | [Doechii](http://twitter.com/search?q=Doechii) | N/A |
-| 30 | [Trapinch](http://twitter.com/search?q=Trapinch) | N/A |
-| 31 | [Goomy](http://twitter.com/search?q=Goomy) | N/A |
-| 32 | [Yoruba](http://twitter.com/search?q=Yoruba) | N/A |
-| 33 | [Meghan](http://twitter.com/search?q=Meghan) | N/A |
-| 34 | [Hawley](http://twitter.com/search?q=Hawley) | N/A |
-| 35 | [Noibat](http://twitter.com/search?q=Noibat) | N/A |
-| 36 | [Attacks](http://twitter.com/search?q=Attacks) | N/A |
-| 37 | [Alaska and Hawaii](http://twitter.com/search?q=Alaska+and+Hawaii) | N/A |
-| 38 | [Fentanyl](http://twitter.com/search?q=Fentanyl) | N/A |
-| 39 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
-| 40 | [Petro](http://twitter.com/search?q=Petro) | N/A |
-| 41 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 42 | [Joe Budden](http://twitter.com/search?q=Joe+Budden) | N/A |
-| 43 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 44 | [International Women's Day](http://twitter.com/search?q=International+Women%27s+Day) | N/A |
-| 45 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
-| 46 | [Barr](http://twitter.com/search?q=Barr) | Barr is a Scottish surname derived from the Gaelic word "barra", meaning "spear". It is also a common given name in Scotland. |
-| 47 | [Wanda](http://twitter.com/search?q=Wanda) | N/A |
+| 22 | [takuto](http://twitter.com/search?q=takuto) | N/A |
+| 23 | [PARK HANBIN](http://twitter.com/search?q=PARK+HANBIN) | N/A |
+| 24 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
+| 25 | [JCOLE](http://twitter.com/search?q=JCOLE) | N/A |
+| 26 | [Bryansk](http://twitter.com/search?q=Bryansk) | N/A |
+| 27 | [Michael Darby](http://twitter.com/search?q=Michael+Darby) | N/A |
+| 28 | [AURORA](http://twitter.com/search?q=AURORA) | N/A |
+| 29 | [Dratini](http://twitter.com/search?q=Dratini) | N/A |
+| 30 | [Gible](http://twitter.com/search?q=Gible) | N/A |
+| 31 | [Ni Hao](http://twitter.com/search?q=Ni+Hao) | N/A |
+| 32 | [Doechii](http://twitter.com/search?q=Doechii) | N/A |
+| 33 | [yujin](http://twitter.com/search?q=yujin) | N/A |
+| 34 | [Trapinch](http://twitter.com/search?q=Trapinch) | N/A |
+| 35 | [hwanhee](http://twitter.com/search?q=hwanhee) | N/A |
+| 36 | [Karen Carpenter](http://twitter.com/search?q=Karen+Carpenter) | N/A |
+| 37 | [International Women's Day](http://twitter.com/search?q=International+Women%27s+Day) | N/A |
+| 38 | [Lavrov](http://twitter.com/search?q=Lavrov) | N/A |
+| 39 | [Bill Barr](http://twitter.com/search?q=Bill+Barr) | N/A |
+| 40 | [Hawley](http://twitter.com/search?q=Hawley) | N/A |
+| 41 | [Philippians](http://twitter.com/search?q=Philippians) | N/A |
+| 42 | [Goomy](http://twitter.com/search?q=Goomy) | N/A |
+| 43 | [Alaska and Hawaii](http://twitter.com/search?q=Alaska+and+Hawaii) | N/A |
+| 44 | [Attacks](http://twitter.com/search?q=Attacks) | N/A |
+| 45 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
+| 46 | [Noibat](http://twitter.com/search?q=Noibat) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Salvador
 
-📆 Last Updated: `2023-03-02 13:21:12 UTC`
+📆 Last Updated: `2023-03-02 14:17:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Brazil](</Brazil>)
 | ------- | ------------ | ------------ |
 | 1 | [Cauly](http://twitter.com/search?q=Cauly) | N/A |
 | 2 | [Jacuipense](http://twitter.com/search?q=Jacuipense) | N/A |
-| 3 | [takuto](http://twitter.com/search?q=takuto) | N/A |
-| 4 | [#BoysPlanetElimination](http://twitter.com/search?q=%23BoysPlanetElimination) | N/A |
-| 5 | [#MoonlightChickenFinalEP](http://twitter.com/search?q=%23MoonlightChickenFinalEP) | N/A |
+| 3 | [AURORA](http://twitter.com/search?q=AURORA) | N/A |
+| 4 | [#FREENBECKxFANDOMLIVE](http://twitter.com/search?q=%23FREENBECKxFANDOMLIVE) | N/A |
+| 5 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
 | 6 | [#LOUDWIN](http://twitter.com/search?q=%23LOUDWIN) | N/A |
-| 7 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
-| 8 | [Coreia do Norte](http://twitter.com/search?q=Coreia+do+Norte) | N/A |
-| 9 | [Drugo](http://twitter.com/search?q=Drugo) | N/A |
-| 10 | [jiho](http://twitter.com/search?q=jiho) | N/A |
-| 11 | [Misto](http://twitter.com/search?q=Misto) | N/A |
-| 12 | [J COLE](http://twitter.com/search?q=J+COLE) | N/A |
-| 13 | [Abin](http://twitter.com/search?q=Abin) | N/A |
-| 14 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 15 | [Dedal](http://twitter.com/search?q=Dedal) | N/A |
-| 16 | [Casa Civil](http://twitter.com/search?q=Casa+Civil) | N/A |
-| 17 | [Cafu](http://twitter.com/search?q=Cafu) | N/A |
-| 18 | [Petrobras](http://twitter.com/search?q=Petrobras) | N/A |
-| 19 | [#Encontro](http://twitter.com/search?q=%23Encontro) | N/A |
-| 20 | [Wo Long](http://twitter.com/search?q=Wo+Long) | N/A |
-| 21 | [Mamonas Assassinas](http://twitter.com/search?q=Mamonas+Assassinas) | N/A |
-| 22 | [Bolsa Família](http://twitter.com/search?q=Bolsa+Fam%c3%adlia) | N/A |
-| 23 | [#bdsp](http://twitter.com/search?q=%23bdsp) | N/A |
-| 24 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 25 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 26 | [ON THE STREET IS COMING](http://twitter.com/search?q=ON+THE+STREET+IS+COMING) | N/A |
-| 27 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
-| 28 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 29 | [Ivete](http://twitter.com/search?q=Ivete) | Ivete is a Portuguese female name derived from the Latin name Iveta, which means “yew tree”. In English, it can be translated to Evette or Yvette. |
-| 30 | [FANTINEL CASSADO](http://twitter.com/search?q=FANTINEL+CASSADO) | N/A |
-| 31 | [Operação](http://twitter.com/search?q=Opera%c3%a7%c3%a3o) | N/A |
-| 32 | [No. Scrobbles](http://twitter.com/search?q=No.+Scrobbles) | N/A |
-| 33 | [Top Album](http://twitter.com/search?q=Top+Album) | N/A |
-| 34 | [Av Brasil](http://twitter.com/search?q=Av+Brasil) | N/A |
-| 35 | [Top Track](http://twitter.com/search?q=Top+Track) | N/A |
-| 36 | [Top Artist](http://twitter.com/search?q=Top+Artist) | N/A |
-| 37 | [Flamenguista](http://twitter.com/search?q=Flamenguista) | N/A |
-| 38 | [Elizabeth Olsen](http://twitter.com/search?q=Elizabeth+Olsen) | N/A |
-| 39 | [Braço](http://twitter.com/search?q=Bra%c3%a7o) | N/A |
-| 40 | [Alexandre Silveira](http://twitter.com/search?q=Alexandre+Silveira) | N/A |
-| 41 | [Senado](http://twitter.com/search?q=Senado) | Senado is the Spanish word for Senate. It is used to refer to a legislative body, usually in a government or other political organization, that is composed of members who are elected or appointed by the population. In English, it can be translated as "Senate". |
-| 42 | [Kara](http://twitter.com/search?q=Kara) | N/A |
-| 43 | [Amazônia](http://twitter.com/search?q=Amaz%c3%b4nia) | N/A |
-| 44 | [Pedrinho](http://twitter.com/search?q=Pedrinho) | Pedrinho is a Portuguese nickname for the name Pedro, which is the Spanish and Portuguese form of Peter. In English, it would be translated to Peter or Pete. |
-| 45 | [Connor](http://twitter.com/search?q=Connor) | N/A |
-| 46 | [Tiquinho](http://twitter.com/search?q=Tiquinho) | N/A |
-| 47 | [Câmara](http://twitter.com/search?q=C%c3%a2mara) | N/A |
-| 48 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
-| 49 | [gal gadot](http://twitter.com/search?q=gal+gadot) | N/A |
-| 50 | [daisy jones and the six](http://twitter.com/search?q=daisy+jones+and+the+six) | N/A |
+| 7 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
+| 8 | [takuto](http://twitter.com/search?q=takuto) | N/A |
+| 9 | [Coreia do Norte](http://twitter.com/search?q=Coreia+do+Norte) | N/A |
+| 10 | [Misto](http://twitter.com/search?q=Misto) | N/A |
+| 11 | [riley keough](http://twitter.com/search?q=riley+keough) | N/A |
+| 12 | [#MoonlightChickenFinalEP](http://twitter.com/search?q=%23MoonlightChickenFinalEP) | N/A |
+| 13 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 14 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
+| 15 | [Abin](http://twitter.com/search?q=Abin) | N/A |
+| 16 | [Mamonas Assassinas](http://twitter.com/search?q=Mamonas+Assassinas) | N/A |
+| 17 | [Drugo](http://twitter.com/search?q=Drugo) | N/A |
+| 18 | [jiho](http://twitter.com/search?q=jiho) | N/A |
+| 19 | [hwanhee](http://twitter.com/search?q=hwanhee) | N/A |
+| 20 | [Anielle Franco](http://twitter.com/search?q=Anielle+Franco) | Anielle Franco is a Brazilian name. It is derived from the Latin name Anna, which means "grace" or "favor". |
+| 21 | [THE RIVER](http://twitter.com/search?q=THE+RIVER) | N/A |
+| 22 | [impossible woman](http://twitter.com/search?q=impossible+woman) | N/A |
+| 23 | [cafu](http://twitter.com/search?q=cafu) | N/A |
+| 24 | [J COLE](http://twitter.com/search?q=J+COLE) | N/A |
+| 25 | [RED CARPET](http://twitter.com/search?q=RED+CARPET) | N/A |
+| 26 | [#보이즈플래닛1제거](http://twitter.com/search?q=%23%eb%b3%b4%ec%9d%b4%ec%a6%88%ed%94%8c%eb%9e%98%eb%8b%9b1%ec%a0%9c%ea%b1%b0) | N/A |
+| 27 | [Bolsa Família](http://twitter.com/search?q=Bolsa+Fam%c3%adlia) | N/A |
+| 28 | [Jongwoo](http://twitter.com/search?q=Jongwoo) | N/A |
+| 29 | [Casa Civil](http://twitter.com/search?q=Casa+Civil) | N/A |
+| 30 | [Dedal](http://twitter.com/search?q=Dedal) | N/A |
+| 31 | [No. Scrobbles](http://twitter.com/search?q=No.+Scrobbles) | N/A |
+| 32 | [Top Artist](http://twitter.com/search?q=Top+Artist) | N/A |
+| 33 | [Top Track](http://twitter.com/search?q=Top+Track) | N/A |
+| 34 | [Top Album](http://twitter.com/search?q=Top+Album) | N/A |
+| 35 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
+| 36 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 37 | [Locomia](http://twitter.com/search?q=Locomia) | N/A |
+| 38 | [Petrobras](http://twitter.com/search?q=Petrobras) | N/A |
+| 39 | [Wo Long](http://twitter.com/search?q=Wo+Long) | N/A |
+| 40 | [Marjorie](http://twitter.com/search?q=Marjorie) | Marjorie is a female given name of French origin, derived from the Latin Margarita, meaning "pearl". It is also a Scottish form of Margaret. |
+| 41 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 42 | [Flamenguista](http://twitter.com/search?q=Flamenguista) | N/A |
+| 43 | [Operação](http://twitter.com/search?q=Opera%c3%a7%c3%a3o) | N/A |
+| 44 | [FANTINEL CASSADO](http://twitter.com/search?q=FANTINEL+CASSADO) | N/A |
+| 45 | [Ivete](http://twitter.com/search?q=Ivete) | Ivete is a Portuguese female name derived from the Latin name Iveta, which means “yew tree”. In English, it can be translated to Evette or Yvette. |
+| 46 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 47 | [Alexandre Silveira](http://twitter.com/search?q=Alexandre+Silveira) | N/A |
+| 48 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 49 | [Fernando Diniz](http://twitter.com/search?q=Fernando+Diniz) | N/A |
+| 50 | [Galvão Bueno](http://twitter.com/search?q=Galv%c3%a3o+Bueno) | N/A |
 
 
 

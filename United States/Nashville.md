@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nashville
 
-📆 Last Updated: `2023-03-02 13:21:53 UTC`
+📆 Last Updated: `2023-03-02 14:18:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [United States](</United States>)
 | 2 | [Kentucky](http://twitter.com/search?q=Kentucky) | Kentucky is a state in the United States located in the east south-central region of the country. It is bordered by seven states, including Virginia to the southeast, Tennessee to the south, Missouri to the west, Illinois and Indiana to the northwest, and Ohio to the northeast. Kentucky is known for its bluegrass music, bourbon whiskey, horse racing, and college basketball. The state's nickname is "The Bluegrass State" due to its fertile soil and abundance of bluegrass. |
 | 3 | [#BoycottHersheys](http://twitter.com/search?q=%23BoycottHersheys) | N/A |
 | 4 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 5 | [jiho](http://twitter.com/search?q=jiho) | N/A |
-| 6 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
-| 7 | [#WorldBookDay](http://twitter.com/search?q=%23WorldBookDay) | N/A |
-| 8 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
-| 9 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
-| 10 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
-| 11 | [CONG](http://twitter.com/search?q=CONG) | N/A |
-| 12 | [Daily Quordle 402](http://twitter.com/search?q=Daily+Quordle+402) | N/A |
-| 13 | [takuto](http://twitter.com/search?q=takuto) | N/A |
-| 14 | [Texas Independence Day](http://twitter.com/search?q=Texas+Independence+Day) | N/A |
-| 15 | [JCOLE](http://twitter.com/search?q=JCOLE) | N/A |
-| 16 | [SUNGMIN](http://twitter.com/search?q=SUNGMIN) | N/A |
-| 17 | [Gible](http://twitter.com/search?q=Gible) | N/A |
-| 18 | [jhope](http://twitter.com/search?q=jhope) | N/A |
-| 19 | [Dratini](http://twitter.com/search?q=Dratini) | N/A |
-| 20 | [Lavrov](http://twitter.com/search?q=Lavrov) | N/A |
-| 21 | [Chaka](http://twitter.com/search?q=Chaka) | N/A |
-| 22 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
-| 23 | [Doechii](http://twitter.com/search?q=Doechii) | N/A |
-| 24 | [Goomy](http://twitter.com/search?q=Goomy) | N/A |
-| 25 | [Yoruba](http://twitter.com/search?q=Yoruba) | N/A |
-| 26 | [Trapinch](http://twitter.com/search?q=Trapinch) | N/A |
-| 27 | [Meghan](http://twitter.com/search?q=Meghan) | N/A |
-| 28 | [Noibat](http://twitter.com/search?q=Noibat) | N/A |
-| 29 | [Hawley](http://twitter.com/search?q=Hawley) | N/A |
-| 30 | [Attacks](http://twitter.com/search?q=Attacks) | N/A |
-| 31 | [Fentanyl](http://twitter.com/search?q=Fentanyl) | N/A |
-| 32 | [Alaska and Hawaii](http://twitter.com/search?q=Alaska+and+Hawaii) | N/A |
-| 33 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
-| 34 | [Petro](http://twitter.com/search?q=Petro) | N/A |
-| 35 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 36 | [Joe Budden](http://twitter.com/search?q=Joe+Budden) | N/A |
-| 37 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 38 | [International Women's Day](http://twitter.com/search?q=International+Women%27s+Day) | N/A |
-| 39 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
-| 40 | [Barr](http://twitter.com/search?q=Barr) | Barr is a Scottish surname derived from the Gaelic word "barra", meaning "spear". It is also a common given name in Scotland. |
-| 41 | [Wanda](http://twitter.com/search?q=Wanda) | N/A |
-| 42 | [Brenda](http://twitter.com/search?q=Brenda) | N/A |
-| 43 | [Ultra](http://twitter.com/search?q=Ultra) | N/A |
-| 44 | [John Kerry](http://twitter.com/search?q=John+Kerry) | N/A |
-| 45 | [matty healy](http://twitter.com/search?q=matty+healy) | N/A |
-| 46 | [Frogmore](http://twitter.com/search?q=Frogmore) | N/A |
-| 47 | [When God](http://twitter.com/search?q=When+God) | N/A |
-| 48 | [Billboard](http://twitter.com/search?q=Billboard) | N/A |
-| 49 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 50 | [Nelly](http://twitter.com/search?q=Nelly) | Nelly is a nickname for the female given name Eleanor, which is derived from the Greek name Helenē, meaning “light” or “bright one.” It can also be used as a diminutive form of the name Cornelia. |
+| 5 | [#WorldBookDay](http://twitter.com/search?q=%23WorldBookDay) | N/A |
+| 6 | [mnet](http://twitter.com/search?q=mnet) | N/A |
+| 7 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
+| 8 | [#ReadAcrossAmericaDay](http://twitter.com/search?q=%23ReadAcrossAmericaDay) | N/A |
+| 9 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
+| 10 | [Texas Independence Day](http://twitter.com/search?q=Texas+Independence+Day) | N/A |
+| 11 | [jiho](http://twitter.com/search?q=jiho) | N/A |
+| 12 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
+| 13 | [Dr. Seuss](http://twitter.com/search?q=Dr.+Seuss) | N/A |
+| 14 | [CONG](http://twitter.com/search?q=CONG) | N/A |
+| 15 | [Chaka Khan](http://twitter.com/search?q=Chaka+Khan) | N/A |
+| 16 | [Daily Quordle 402](http://twitter.com/search?q=Daily+Quordle+402) | N/A |
+| 17 | [SUNGMIN](http://twitter.com/search?q=SUNGMIN) | N/A |
+| 18 | [takuto](http://twitter.com/search?q=takuto) | N/A |
+| 19 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
+| 20 | [PARK HANBIN](http://twitter.com/search?q=PARK+HANBIN) | N/A |
+| 21 | [JCOLE](http://twitter.com/search?q=JCOLE) | N/A |
+| 22 | [Bryansk](http://twitter.com/search?q=Bryansk) | N/A |
+| 23 | [Michael Darby](http://twitter.com/search?q=Michael+Darby) | N/A |
+| 24 | [AURORA](http://twitter.com/search?q=AURORA) | N/A |
+| 25 | [Dratini](http://twitter.com/search?q=Dratini) | N/A |
+| 26 | [Gible](http://twitter.com/search?q=Gible) | N/A |
+| 27 | [Ni Hao](http://twitter.com/search?q=Ni+Hao) | N/A |
+| 28 | [Trapinch](http://twitter.com/search?q=Trapinch) | N/A |
+| 29 | [Doechii](http://twitter.com/search?q=Doechii) | N/A |
+| 30 | [hwanhee](http://twitter.com/search?q=hwanhee) | N/A |
+| 31 | [yujin](http://twitter.com/search?q=yujin) | N/A |
+| 32 | [International Women's Day](http://twitter.com/search?q=International+Women%27s+Day) | N/A |
+| 33 | [Lavrov](http://twitter.com/search?q=Lavrov) | N/A |
+| 34 | [Philippians](http://twitter.com/search?q=Philippians) | N/A |
+| 35 | [Karen Carpenter](http://twitter.com/search?q=Karen+Carpenter) | N/A |
+| 36 | [Bill Barr](http://twitter.com/search?q=Bill+Barr) | N/A |
+| 37 | [Hawley](http://twitter.com/search?q=Hawley) | N/A |
+| 38 | [Alaska and Hawaii](http://twitter.com/search?q=Alaska+and+Hawaii) | N/A |
+| 39 | [Goomy](http://twitter.com/search?q=Goomy) | N/A |
+| 40 | [Attacks](http://twitter.com/search?q=Attacks) | N/A |
+| 41 | [Lou Reed](http://twitter.com/search?q=Lou+Reed) | N/A |
+| 42 | [Noibat](http://twitter.com/search?q=Noibat) | N/A |
+| 43 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
+| 44 | [Fentanyl](http://twitter.com/search?q=Fentanyl) | N/A |
+| 45 | [Kellyanne](http://twitter.com/search?q=Kellyanne) | N/A |
+| 46 | [$TSLA](http://twitter.com/search?q=%24TSLA) | $TSLA is the stock symbol for Tesla, Inc., an American electric vehicle and clean energy company. It is traded on the Nasdaq stock exchange. |
+| 47 | [Meghan](http://twitter.com/search?q=Meghan) | N/A |
+| 48 | [Sean Penn](http://twitter.com/search?q=Sean+Penn) | N/A |
+| 49 | [Petro](http://twitter.com/search?q=Petro) | N/A |
+| 50 | [Dreepy](http://twitter.com/search?q=Dreepy) | N/A |
 
 
 

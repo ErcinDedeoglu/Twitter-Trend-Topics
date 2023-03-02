@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philadelphia
 
-📆 Last Updated: `2023-03-02 13:21:55 UTC`
+📆 Last Updated: `2023-03-02 14:18:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 2 | [Flyers](http://twitter.com/search?q=Flyers) | Flyers are a type of printed advertisement used to promote products, services, or events. They are typically distributed in public places such as streets, parks, and shopping centers. Flyers can also be sent through the mail or handed out at events. The purpose of a flyer is to attract attention and encourage people to take action. |
-| 3 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 4 | [Hextall](http://twitter.com/search?q=Hextall) | N/A |
-| 5 | [#Survivor](http://twitter.com/search?q=%23Survivor) | N/A |
-| 6 | [Granlund](http://twitter.com/search?q=Granlund) | N/A |
-| 7 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
-| 8 | [Maxey](http://twitter.com/search?q=Maxey) | Maxey is a surname of English origin. It is derived from the Old English personal name Maccus, which was a diminutive form of Matthew. The meaning of Maxey in English is "son of Maccus". |
-| 9 | [#BoycottHersheys](http://twitter.com/search?q=%23BoycottHersheys) | N/A |
-| 10 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 11 | [jiho](http://twitter.com/search?q=jiho) | N/A |
-| 12 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
-| 13 | [#WorldBookDay](http://twitter.com/search?q=%23WorldBookDay) | N/A |
-| 14 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
-| 15 | [CONG](http://twitter.com/search?q=CONG) | N/A |
-| 16 | [Daily Quordle 402](http://twitter.com/search?q=Daily+Quordle+402) | N/A |
-| 17 | [takuto](http://twitter.com/search?q=takuto) | N/A |
-| 18 | [Texas Independence Day](http://twitter.com/search?q=Texas+Independence+Day) | N/A |
-| 19 | [JCOLE](http://twitter.com/search?q=JCOLE) | N/A |
-| 20 | [SUNGMIN](http://twitter.com/search?q=SUNGMIN) | N/A |
-| 21 | [jhope](http://twitter.com/search?q=jhope) | N/A |
-| 22 | [Gible](http://twitter.com/search?q=Gible) | N/A |
-| 23 | [Dratini](http://twitter.com/search?q=Dratini) | N/A |
-| 24 | [Lavrov](http://twitter.com/search?q=Lavrov) | N/A |
-| 25 | [Chaka](http://twitter.com/search?q=Chaka) | N/A |
-| 26 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
-| 27 | [Doechii](http://twitter.com/search?q=Doechii) | N/A |
-| 28 | [Goomy](http://twitter.com/search?q=Goomy) | N/A |
-| 29 | [Yoruba](http://twitter.com/search?q=Yoruba) | N/A |
+| 1 | [#Survivor44](http://twitter.com/search?q=%23Survivor44) | N/A |
+| 2 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
+| 3 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
+| 4 | [Flyers](http://twitter.com/search?q=Flyers) | Flyers are a type of printed advertisement used to promote products, services, or events. They are typically distributed in public places such as streets, parks, and shopping centers. Flyers can also be sent through the mail or handed out at events. The purpose of a flyer is to attract attention and encourage people to take action. |
+| 5 | [Maxey](http://twitter.com/search?q=Maxey) | Maxey is a surname of English origin. It is derived from the Old English personal name Maccus, which was a diminutive form of Matthew. The meaning of Maxey in English is "son of Maccus". |
+| 6 | [#BoycottHersheys](http://twitter.com/search?q=%23BoycottHersheys) | N/A |
+| 7 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 8 | [#WorldBookDay](http://twitter.com/search?q=%23WorldBookDay) | N/A |
+| 9 | [mnet](http://twitter.com/search?q=mnet) | N/A |
+| 10 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
+| 11 | [Texas Independence Day](http://twitter.com/search?q=Texas+Independence+Day) | N/A |
+| 12 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
+| 13 | [jiho](http://twitter.com/search?q=jiho) | N/A |
+| 14 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
+| 15 | [Dr. Seuss](http://twitter.com/search?q=Dr.+Seuss) | N/A |
+| 16 | [CONG](http://twitter.com/search?q=CONG) | N/A |
+| 17 | [Chaka Khan](http://twitter.com/search?q=Chaka+Khan) | N/A |
+| 18 | [Daily Quordle 402](http://twitter.com/search?q=Daily+Quordle+402) | N/A |
+| 19 | [SUNGMIN](http://twitter.com/search?q=SUNGMIN) | N/A |
+| 20 | [takuto](http://twitter.com/search?q=takuto) | N/A |
+| 21 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
+| 22 | [PARK HANBIN](http://twitter.com/search?q=PARK+HANBIN) | N/A |
+| 23 | [JCOLE](http://twitter.com/search?q=JCOLE) | N/A |
+| 24 | [Bryansk](http://twitter.com/search?q=Bryansk) | N/A |
+| 25 | [Michael Darby](http://twitter.com/search?q=Michael+Darby) | N/A |
+| 26 | [AURORA](http://twitter.com/search?q=AURORA) | N/A |
+| 27 | [Dratini](http://twitter.com/search?q=Dratini) | N/A |
+| 28 | [Gible](http://twitter.com/search?q=Gible) | N/A |
+| 29 | [Ni Hao](http://twitter.com/search?q=Ni+Hao) | N/A |
 | 30 | [Trapinch](http://twitter.com/search?q=Trapinch) | N/A |
-| 31 | [Meghan](http://twitter.com/search?q=Meghan) | N/A |
-| 32 | [Noibat](http://twitter.com/search?q=Noibat) | N/A |
-| 33 | [Hawley](http://twitter.com/search?q=Hawley) | N/A |
-| 34 | [Attacks](http://twitter.com/search?q=Attacks) | N/A |
-| 35 | [Fentanyl](http://twitter.com/search?q=Fentanyl) | N/A |
-| 36 | [Alaska and Hawaii](http://twitter.com/search?q=Alaska+and+Hawaii) | N/A |
-| 37 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
-| 38 | [Petro](http://twitter.com/search?q=Petro) | N/A |
-| 39 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 40 | [Joe Budden](http://twitter.com/search?q=Joe+Budden) | N/A |
-| 41 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 42 | [International Women's Day](http://twitter.com/search?q=International+Women%27s+Day) | N/A |
-| 43 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
-| 44 | [Barr](http://twitter.com/search?q=Barr) | Barr is a Scottish surname derived from the Gaelic word "barra", meaning "spear". It is also a common given name in Scotland. |
-| 45 | [Wanda](http://twitter.com/search?q=Wanda) | N/A |
-| 46 | [Brenda](http://twitter.com/search?q=Brenda) | N/A |
-| 47 | [Ultra](http://twitter.com/search?q=Ultra) | N/A |
-| 48 | [John Kerry](http://twitter.com/search?q=John+Kerry) | N/A |
-| 49 | [matty healy](http://twitter.com/search?q=matty+healy) | N/A |
-| 50 | [Frogmore](http://twitter.com/search?q=Frogmore) | N/A |
+| 31 | [Doechii](http://twitter.com/search?q=Doechii) | N/A |
+| 32 | [hwanhee](http://twitter.com/search?q=hwanhee) | N/A |
+| 33 | [yujin](http://twitter.com/search?q=yujin) | N/A |
+| 34 | [International Women's Day](http://twitter.com/search?q=International+Women%27s+Day) | N/A |
+| 35 | [Lavrov](http://twitter.com/search?q=Lavrov) | N/A |
+| 36 | [Philippians](http://twitter.com/search?q=Philippians) | N/A |
+| 37 | [Karen Carpenter](http://twitter.com/search?q=Karen+Carpenter) | N/A |
+| 38 | [Bill Barr](http://twitter.com/search?q=Bill+Barr) | N/A |
+| 39 | [Hawley](http://twitter.com/search?q=Hawley) | N/A |
+| 40 | [Alaska and Hawaii](http://twitter.com/search?q=Alaska+and+Hawaii) | N/A |
+| 41 | [Goomy](http://twitter.com/search?q=Goomy) | N/A |
+| 42 | [Attacks](http://twitter.com/search?q=Attacks) | N/A |
+| 43 | [Lou Reed](http://twitter.com/search?q=Lou+Reed) | N/A |
+| 44 | [Noibat](http://twitter.com/search?q=Noibat) | N/A |
+| 45 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
+| 46 | [Fentanyl](http://twitter.com/search?q=Fentanyl) | N/A |
+| 47 | [Kellyanne](http://twitter.com/search?q=Kellyanne) | N/A |
+| 48 | [$TSLA](http://twitter.com/search?q=%24TSLA) | $TSLA is the stock symbol for Tesla, Inc., an American electric vehicle and clean energy company. It is traded on the Nasdaq stock exchange. |
+| 49 | [Meghan](http://twitter.com/search?q=Meghan) | N/A |
+| 50 | [Sean Penn](http://twitter.com/search?q=Sean+Penn) | N/A |
 
 
 

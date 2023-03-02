@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Portland
 
-📆 Last Updated: `2023-03-02 13:21:55 UTC`
+📆 Last Updated: `2023-03-02 14:18:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [United States](</United States>)
 | 3 | [Chauncey](http://twitter.com/search?q=Chauncey) | N/A |
 | 4 | [#BoycottHersheys](http://twitter.com/search?q=%23BoycottHersheys) | N/A |
 | 5 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 6 | [jiho](http://twitter.com/search?q=jiho) | N/A |
-| 7 | [#WorldBookDay](http://twitter.com/search?q=%23WorldBookDay) | N/A |
-| 8 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
-| 9 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
-| 10 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
-| 11 | [CONG](http://twitter.com/search?q=CONG) | N/A |
-| 12 | [Daily Quordle 402](http://twitter.com/search?q=Daily+Quordle+402) | N/A |
-| 13 | [takuto](http://twitter.com/search?q=takuto) | N/A |
-| 14 | [Texas Independence Day](http://twitter.com/search?q=Texas+Independence+Day) | N/A |
-| 15 | [JCOLE](http://twitter.com/search?q=JCOLE) | N/A |
-| 16 | [SUNGMIN](http://twitter.com/search?q=SUNGMIN) | N/A |
-| 17 | [PARK HANBIN](http://twitter.com/search?q=PARK+HANBIN) | N/A |
-| 18 | [Gible](http://twitter.com/search?q=Gible) | N/A |
-| 19 | [jhope](http://twitter.com/search?q=jhope) | N/A |
-| 20 | [Dratini](http://twitter.com/search?q=Dratini) | N/A |
-| 21 | [Lavrov](http://twitter.com/search?q=Lavrov) | N/A |
-| 22 | [Chaka](http://twitter.com/search?q=Chaka) | N/A |
-| 23 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
-| 24 | [Doechii](http://twitter.com/search?q=Doechii) | N/A |
-| 25 | [Trapinch](http://twitter.com/search?q=Trapinch) | N/A |
-| 26 | [Goomy](http://twitter.com/search?q=Goomy) | N/A |
-| 27 | [Yoruba](http://twitter.com/search?q=Yoruba) | N/A |
-| 28 | [Meghan](http://twitter.com/search?q=Meghan) | N/A |
-| 29 | [Hawley](http://twitter.com/search?q=Hawley) | N/A |
-| 30 | [Noibat](http://twitter.com/search?q=Noibat) | N/A |
-| 31 | [Attacks](http://twitter.com/search?q=Attacks) | N/A |
-| 32 | [Alaska and Hawaii](http://twitter.com/search?q=Alaska+and+Hawaii) | N/A |
-| 33 | [Fentanyl](http://twitter.com/search?q=Fentanyl) | N/A |
-| 34 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
-| 35 | [Petro](http://twitter.com/search?q=Petro) | N/A |
-| 36 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 37 | [Joe Budden](http://twitter.com/search?q=Joe+Budden) | N/A |
-| 38 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 39 | [International Women's Day](http://twitter.com/search?q=International+Women%27s+Day) | N/A |
-| 40 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
-| 41 | [Barr](http://twitter.com/search?q=Barr) | Barr is a Scottish surname derived from the Gaelic word "barra", meaning "spear". It is also a common given name in Scotland. |
-| 42 | [Wanda](http://twitter.com/search?q=Wanda) | N/A |
-| 43 | [Brenda](http://twitter.com/search?q=Brenda) | N/A |
-| 44 | [Ultra](http://twitter.com/search?q=Ultra) | N/A |
-| 45 | [John Kerry](http://twitter.com/search?q=John+Kerry) | N/A |
-| 46 | [matty healy](http://twitter.com/search?q=matty+healy) | N/A |
-| 47 | [Frogmore](http://twitter.com/search?q=Frogmore) | N/A |
-| 48 | [When God](http://twitter.com/search?q=When+God) | N/A |
-| 49 | [Billboard](http://twitter.com/search?q=Billboard) | N/A |
-| 50 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 6 | [#WorldBookDay](http://twitter.com/search?q=%23WorldBookDay) | N/A |
+| 7 | [mnet](http://twitter.com/search?q=mnet) | N/A |
+| 8 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
+| 9 | [Texas Independence Day](http://twitter.com/search?q=Texas+Independence+Day) | N/A |
+| 10 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
+| 11 | [jiho](http://twitter.com/search?q=jiho) | N/A |
+| 12 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 13 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
+| 14 | [Dr. Seuss](http://twitter.com/search?q=Dr.+Seuss) | N/A |
+| 15 | [CONG](http://twitter.com/search?q=CONG) | N/A |
+| 16 | [Chaka Khan](http://twitter.com/search?q=Chaka+Khan) | N/A |
+| 17 | [Daily Quordle 402](http://twitter.com/search?q=Daily+Quordle+402) | N/A |
+| 18 | [SUNGMIN](http://twitter.com/search?q=SUNGMIN) | N/A |
+| 19 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
+| 20 | [takuto](http://twitter.com/search?q=takuto) | N/A |
+| 21 | [PARK HANBIN](http://twitter.com/search?q=PARK+HANBIN) | N/A |
+| 22 | [JCOLE](http://twitter.com/search?q=JCOLE) | N/A |
+| 23 | [Bryansk](http://twitter.com/search?q=Bryansk) | N/A |
+| 24 | [Michael Darby](http://twitter.com/search?q=Michael+Darby) | N/A |
+| 25 | [AURORA](http://twitter.com/search?q=AURORA) | N/A |
+| 26 | [Dratini](http://twitter.com/search?q=Dratini) | N/A |
+| 27 | [Gible](http://twitter.com/search?q=Gible) | N/A |
+| 28 | [Ni Hao](http://twitter.com/search?q=Ni+Hao) | N/A |
+| 29 | [Trapinch](http://twitter.com/search?q=Trapinch) | N/A |
+| 30 | [Doechii](http://twitter.com/search?q=Doechii) | N/A |
+| 31 | [hwanhee](http://twitter.com/search?q=hwanhee) | N/A |
+| 32 | [yujin](http://twitter.com/search?q=yujin) | N/A |
+| 33 | [International Women's Day](http://twitter.com/search?q=International+Women%27s+Day) | N/A |
+| 34 | [Karen Carpenter](http://twitter.com/search?q=Karen+Carpenter) | N/A |
+| 35 | [Philippians](http://twitter.com/search?q=Philippians) | N/A |
+| 36 | [Lavrov](http://twitter.com/search?q=Lavrov) | N/A |
+| 37 | [Bill Barr](http://twitter.com/search?q=Bill+Barr) | N/A |
+| 38 | [Hawley](http://twitter.com/search?q=Hawley) | N/A |
+| 39 | [Alaska and Hawaii](http://twitter.com/search?q=Alaska+and+Hawaii) | N/A |
+| 40 | [Goomy](http://twitter.com/search?q=Goomy) | N/A |
+| 41 | [Attacks](http://twitter.com/search?q=Attacks) | N/A |
+| 42 | [$TSLA](http://twitter.com/search?q=%24TSLA) | $TSLA is the stock symbol for Tesla, Inc., an American electric vehicle and clean energy company. It is traded on the Nasdaq stock exchange. |
+| 43 | [Lou Reed](http://twitter.com/search?q=Lou+Reed) | N/A |
+| 44 | [Noibat](http://twitter.com/search?q=Noibat) | N/A |
+| 45 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
+| 46 | [Fentanyl](http://twitter.com/search?q=Fentanyl) | N/A |
+| 47 | [Kellyanne](http://twitter.com/search?q=Kellyanne) | N/A |
+| 48 | [Meghan](http://twitter.com/search?q=Meghan) | N/A |
+| 49 | [Sean Penn](http://twitter.com/search?q=Sean+Penn) | N/A |
+| 50 | [Petro](http://twitter.com/search?q=Petro) | N/A |
 
 
 

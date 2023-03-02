@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Harrisburg
 
-📆 Last Updated: `2023-03-02 13:21:51 UTC`
+📆 Last Updated: `2023-03-02 14:18:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 2 | [Hextall](http://twitter.com/search?q=Hextall) | N/A |
-| 3 | [#Survivor](http://twitter.com/search?q=%23Survivor) | N/A |
-| 4 | [Granlund](http://twitter.com/search?q=Granlund) | N/A |
-| 5 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
-| 6 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 7 | [Maxey](http://twitter.com/search?q=Maxey) | Maxey is a surname of English origin. It is derived from the Old English personal name Maccus, which was a diminutive form of Matthew. The meaning of Maxey in English is "son of Maccus". |
-| 8 | [#BoycottHersheys](http://twitter.com/search?q=%23BoycottHersheys) | N/A |
-| 9 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 10 | [jiho](http://twitter.com/search?q=jiho) | N/A |
-| 11 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
-| 12 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
-| 13 | [#WorldBookDay](http://twitter.com/search?q=%23WorldBookDay) | N/A |
-| 14 | [CONG](http://twitter.com/search?q=CONG) | N/A |
-| 15 | [Daily Quordle 402](http://twitter.com/search?q=Daily+Quordle+402) | N/A |
+| 1 | [#BoycottHersheys](http://twitter.com/search?q=%23BoycottHersheys) | N/A |
+| 2 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 3 | [#WorldBookDay](http://twitter.com/search?q=%23WorldBookDay) | N/A |
+| 4 | [mnet](http://twitter.com/search?q=mnet) | N/A |
+| 5 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
+| 6 | [Texas Independence Day](http://twitter.com/search?q=Texas+Independence+Day) | N/A |
+| 7 | [#ReadAcrossAmericaDay](http://twitter.com/search?q=%23ReadAcrossAmericaDay) | N/A |
+| 8 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
+| 9 | [jiho](http://twitter.com/search?q=jiho) | N/A |
+| 10 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
+| 11 | [Dr. Seuss](http://twitter.com/search?q=Dr.+Seuss) | N/A |
+| 12 | [CONG](http://twitter.com/search?q=CONG) | N/A |
+| 13 | [Chaka Khan](http://twitter.com/search?q=Chaka+Khan) | N/A |
+| 14 | [Daily Quordle 402](http://twitter.com/search?q=Daily+Quordle+402) | N/A |
+| 15 | [SUNGMIN](http://twitter.com/search?q=SUNGMIN) | N/A |
 | 16 | [takuto](http://twitter.com/search?q=takuto) | N/A |
-| 17 | [Texas Independence Day](http://twitter.com/search?q=Texas+Independence+Day) | N/A |
+| 17 | [PARK HANBIN](http://twitter.com/search?q=PARK+HANBIN) | N/A |
 | 18 | [JCOLE](http://twitter.com/search?q=JCOLE) | N/A |
-| 19 | [SUNGMIN](http://twitter.com/search?q=SUNGMIN) | N/A |
-| 20 | [jhope](http://twitter.com/search?q=jhope) | N/A |
-| 21 | [Gible](http://twitter.com/search?q=Gible) | N/A |
-| 22 | [Dratini](http://twitter.com/search?q=Dratini) | N/A |
-| 23 | [Lavrov](http://twitter.com/search?q=Lavrov) | N/A |
-| 24 | [Chaka](http://twitter.com/search?q=Chaka) | N/A |
-| 25 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
-| 26 | [Doechii](http://twitter.com/search?q=Doechii) | N/A |
-| 27 | [Goomy](http://twitter.com/search?q=Goomy) | N/A |
-| 28 | [Yoruba](http://twitter.com/search?q=Yoruba) | N/A |
-| 29 | [Trapinch](http://twitter.com/search?q=Trapinch) | N/A |
-| 30 | [Meghan](http://twitter.com/search?q=Meghan) | N/A |
-| 31 | [Noibat](http://twitter.com/search?q=Noibat) | N/A |
-| 32 | [Hawley](http://twitter.com/search?q=Hawley) | N/A |
-| 33 | [Attacks](http://twitter.com/search?q=Attacks) | N/A |
-| 34 | [Fentanyl](http://twitter.com/search?q=Fentanyl) | N/A |
-| 35 | [Alaska and Hawaii](http://twitter.com/search?q=Alaska+and+Hawaii) | N/A |
-| 36 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
-| 37 | [Petro](http://twitter.com/search?q=Petro) | N/A |
-| 38 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 39 | [Joe Budden](http://twitter.com/search?q=Joe+Budden) | N/A |
-| 40 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 41 | [International Women's Day](http://twitter.com/search?q=International+Women%27s+Day) | N/A |
-| 42 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
-| 43 | [Barr](http://twitter.com/search?q=Barr) | Barr is a Scottish surname derived from the Gaelic word "barra", meaning "spear". It is also a common given name in Scotland. |
-| 44 | [Wanda](http://twitter.com/search?q=Wanda) | N/A |
-| 45 | [Brenda](http://twitter.com/search?q=Brenda) | N/A |
-| 46 | [Ultra](http://twitter.com/search?q=Ultra) | N/A |
-| 47 | [John Kerry](http://twitter.com/search?q=John+Kerry) | N/A |
-| 48 | [matty healy](http://twitter.com/search?q=matty+healy) | N/A |
-| 49 | [When God](http://twitter.com/search?q=When+God) | N/A |
-| 50 | [Frogmore](http://twitter.com/search?q=Frogmore) | N/A |
+| 19 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
+| 20 | [Bryansk](http://twitter.com/search?q=Bryansk) | N/A |
+| 21 | [Michael Darby](http://twitter.com/search?q=Michael+Darby) | N/A |
+| 22 | [AURORA](http://twitter.com/search?q=AURORA) | N/A |
+| 23 | [Dratini](http://twitter.com/search?q=Dratini) | N/A |
+| 24 | [Gible](http://twitter.com/search?q=Gible) | N/A |
+| 25 | [Doechii](http://twitter.com/search?q=Doechii) | N/A |
+| 26 | [yujin](http://twitter.com/search?q=yujin) | N/A |
+| 27 | [Trapinch](http://twitter.com/search?q=Trapinch) | N/A |
+| 28 | [Ni Hao](http://twitter.com/search?q=Ni+Hao) | N/A |
+| 29 | [hwanhee](http://twitter.com/search?q=hwanhee) | N/A |
+| 30 | [International Women's Day](http://twitter.com/search?q=International+Women%27s+Day) | N/A |
+| 31 | [Karen Carpenter](http://twitter.com/search?q=Karen+Carpenter) | N/A |
+| 32 | [Lavrov](http://twitter.com/search?q=Lavrov) | N/A |
+| 33 | [Hawley](http://twitter.com/search?q=Hawley) | N/A |
+| 34 | [Bill Barr](http://twitter.com/search?q=Bill+Barr) | N/A |
+| 35 | [Philippians](http://twitter.com/search?q=Philippians) | N/A |
+| 36 | [Goomy](http://twitter.com/search?q=Goomy) | N/A |
+| 37 | [Alaska and Hawaii](http://twitter.com/search?q=Alaska+and+Hawaii) | N/A |
+| 38 | [Attacks](http://twitter.com/search?q=Attacks) | N/A |
+| 39 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
+| 40 | [Noibat](http://twitter.com/search?q=Noibat) | N/A |
+| 41 | [Sean Penn](http://twitter.com/search?q=Sean+Penn) | N/A |
+| 42 | [Kellyanne](http://twitter.com/search?q=Kellyanne) | N/A |
+| 43 | [$TSLA](http://twitter.com/search?q=%24TSLA) | $TSLA is the stock symbol for Tesla, Inc., an American electric vehicle and clean energy company. It is traded on the Nasdaq stock exchange. |
+| 44 | [Fentanyl](http://twitter.com/search?q=Fentanyl) | N/A |
+| 45 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
+| 46 | [Meghan](http://twitter.com/search?q=Meghan) | N/A |
+| 47 | [Dreepy](http://twitter.com/search?q=Dreepy) | N/A |
+| 48 | [Petro](http://twitter.com/search?q=Petro) | N/A |
+| 49 | [Yoruba](http://twitter.com/search?q=Yoruba) | N/A |
+| 50 | [Kimmel](http://twitter.com/search?q=Kimmel) | N/A |
 
 
 

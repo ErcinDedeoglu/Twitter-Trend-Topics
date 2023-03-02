@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cagayan de Oro
 
-📆 Last Updated: `2023-03-02 13:21:32 UTC`
+📆 Last Updated: `2023-03-02 14:18:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,49 +15,55 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#NCATxSKZinMNLGA](http://twitter.com/search?q=%23NCATxSKZinMNLGA) | N/A |
-| 2 | [#SKZinMNL2023](http://twitter.com/search?q=%23SKZinMNL2023) | N/A |
-| 3 | [#FREENBECKxFANDOMLIVE](http://twitter.com/search?q=%23FREENBECKxFANDOMLIVE) | N/A |
-| 4 | [#Fighting8thWin](http://twitter.com/search?q=%23Fighting8thWin) | N/A |
-| 5 | [Petro Gazz](http://twitter.com/search?q=Petro+Gazz) | N/A |
-| 6 | [the right way to pray](http://twitter.com/search?q=the+right+way+to+pray) | N/A |
-| 7 | [BSS MCOUNTDOWN TRIPLE CROWN](http://twitter.com/search?q=BSS+MCOUNTDOWN+TRIPLE+CROWN) | N/A |
-| 8 | [jiho](http://twitter.com/search?q=jiho) | N/A |
-| 9 | [Congratulations BSS](http://twitter.com/search?q=Congratulations+BSS) | N/A |
-| 10 | [des cheng](http://twitter.com/search?q=des+cheng) | N/A |
-| 11 | [TWENTYFOURever ZACH](http://twitter.com/search?q=TWENTYFOURever+ZACH) | N/A |
-| 12 | [CMFT](http://twitter.com/search?q=CMFT) | CMFT stands for Certified Management Financial Technician. It is a professional certification offered by the Institute of Certified Management Accountants (ICMA). The certification is designed to provide financial professionals with the knowledge and skills necessary to effectively manage financial operations in an organization. |
-| 13 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 14 | [ALDENXLaz11th BdaySuperShow](http://twitter.com/search?q=ALDENXLaz11th+BdaySuperShow) | N/A |
-| 15 | [EASL](http://twitter.com/search?q=EASL) | N/A |
-| 16 | [Choco Mucho](http://twitter.com/search?q=Choco+Mucho) | N/A |
-| 17 | [Isa Molde](http://twitter.com/search?q=Isa+Molde) | N/A |
-| 18 | [winwin](http://twitter.com/search?q=winwin) | N/A |
-| 19 | [Cignal](http://twitter.com/search?q=Cignal) | N/A |
-| 20 | [JCOLE](http://twitter.com/search?q=JCOLE) | N/A |
-| 21 | [jhope](http://twitter.com/search?q=jhope) | N/A |
-| 22 | [Palawan](http://twitter.com/search?q=Palawan) | N/A |
-| 23 | [#UrdujaStalkerMuch](http://twitter.com/search?q=%23UrdujaStalkerMuch) | N/A |
-| 24 | [#BSS8thWin](http://twitter.com/search?q=%23BSS8thWin) | N/A |
-| 25 | [#BGYOForEpicBirthdaySuperShow](http://twitter.com/search?q=%23BGYOForEpicBirthdaySuperShow) | N/A |
-| 26 | [#MoonlightChickenFinalEP](http://twitter.com/search?q=%23MoonlightChickenFinalEP) | N/A |
-| 27 | [#DreamMakerPIEmilya](http://twitter.com/search?q=%23DreamMakerPIEmilya) | N/A |
-| 28 | [#부석순_엠카_1위_축하해](http://twitter.com/search?q=%23%eb%b6%80%ec%84%9d%ec%88%9c_%ec%97%a0%ec%b9%b4_1%ec%9c%84_%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
-| 29 | [#AranetaCity](http://twitter.com/search?q=%23AranetaCity) | N/A |
-| 30 | [#VoxPopuLIVE](http://twitter.com/search?q=%23VoxPopuLIVE) | N/A |
-| 31 | [#TaLuengBabyXENGFA](http://twitter.com/search?q=%23TaLuengBabyXENGFA) | N/A |
-| 32 | [#CityOfFirsts](http://twitter.com/search?q=%23CityOfFirsts) | N/A |
-| 33 | [#ALDENLaz11thBday](http://twitter.com/search?q=%23ALDENLaz11thBday) | N/A |
-| 34 | [#YARAxSonyMusicPH](http://twitter.com/search?q=%23YARAxSonyMusicPH) | N/A |
-| 35 | [#PVLAFC2023](http://twitter.com/search?q=%23PVLAFC2023) | N/A |
-| 36 | [#unit](http://twitter.com/search?q=%23unit) | N/A |
-| 37 | [#PVLAllFilipinoConference](http://twitter.com/search?q=%23PVLAllFilipinoConference) | N/A |
-| 38 | [#barcodetin](http://twitter.com/search?q=%23barcodetin) | N/A |
-| 39 | [#PureDoctrinesOfChrist](http://twitter.com/search?q=%23PureDoctrinesOfChrist) | N/A |
-| 40 | [#GlobalPrayerForHumanity](http://twitter.com/search?q=%23GlobalPrayerForHumanity) | N/A |
-| 41 | [#yara_ph](http://twitter.com/search?q=%23yara_ph) | N/A |
-| 42 | [#BOYCOTTEBxGMA722](http://twitter.com/search?q=%23BOYCOTTEBxGMA722) | N/A |
-| 43 | [#LeeJeHoon](http://twitter.com/search?q=%23LeeJeHoon) | N/A |
+| 1 | [#FREENBECKxFANDOMLIVE](http://twitter.com/search?q=%23FREENBECKxFANDOMLIVE) | N/A |
+| 2 | [#NCATxSKZinMNLGA](http://twitter.com/search?q=%23NCATxSKZinMNLGA) | N/A |
+| 3 | [#WhyImWILDTONIGHT](http://twitter.com/search?q=%23WhyImWILDTONIGHT) | N/A |
+| 4 | [#SKZinMNL2023](http://twitter.com/search?q=%23SKZinMNL2023) | N/A |
+| 5 | [mnet](http://twitter.com/search?q=mnet) | N/A |
+| 6 | [LAZADA DAY WITH BGYO](http://twitter.com/search?q=LAZADA+DAY+WITH+BGYO) | N/A |
+| 7 | [doha](http://twitter.com/search?q=doha) | N/A |
+| 8 | [the right way to pray](http://twitter.com/search?q=the+right+way+to+pray) | N/A |
+| 9 | [PARK HANBIN](http://twitter.com/search?q=PARK+HANBIN) | N/A |
+| 10 | [ZOeMARCH EXCITED SaTC](http://twitter.com/search?q=ZOeMARCH+EXCITED+SaTC) | N/A |
+| 11 | [BSS MCOUNTDOWN TRIPLE CROWN](http://twitter.com/search?q=BSS+MCOUNTDOWN+TRIPLE+CROWN) | N/A |
+| 12 | [Petro Gazz](http://twitter.com/search?q=Petro+Gazz) | N/A |
+| 13 | [jiho](http://twitter.com/search?q=jiho) | N/A |
+| 14 | [Congratulations BSS](http://twitter.com/search?q=Congratulations+BSS) | N/A |
+| 15 | [OLLIE](http://twitter.com/search?q=OLLIE) | N/A |
+| 16 | [des cheng](http://twitter.com/search?q=des+cheng) | N/A |
+| 17 | [Brian](http://twitter.com/search?q=Brian) | N/A |
+| 18 | [EASL](http://twitter.com/search?q=EASL) | N/A |
+| 19 | [DARREN FOR LAZADA11th](http://twitter.com/search?q=DARREN+FOR+LAZADA11th) | N/A |
+| 20 | [JAY-R FOR P-POP](http://twitter.com/search?q=JAY-R+FOR+P-POP) | N/A |
+| 21 | [CMFT](http://twitter.com/search?q=CMFT) | CMFT stands for Certified Management Financial Technician. It is a professional certification offered by the Institute of Certified Management Accountants (ICMA). The certification is designed to provide financial professionals with the knowledge and skills necessary to effectively manage financial operations in an organization. |
+| 22 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 23 | [Isa Molde](http://twitter.com/search?q=Isa+Molde) | N/A |
+| 24 | [TWENTYFOURever ZACH](http://twitter.com/search?q=TWENTYFOURever+ZACH) | N/A |
+| 25 | [ALDENXLaz11th BdaySuperShow](http://twitter.com/search?q=ALDENXLaz11th+BdaySuperShow) | N/A |
+| 26 | [winwin](http://twitter.com/search?q=winwin) | N/A |
+| 27 | [Choco Mucho](http://twitter.com/search?q=Choco+Mucho) | N/A |
+| 28 | [Cignal](http://twitter.com/search?q=Cignal) | N/A |
+| 29 | [Palawan](http://twitter.com/search?q=Palawan) | N/A |
+| 30 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
+| 31 | [#UrdujaStalkerMuch](http://twitter.com/search?q=%23UrdujaStalkerMuch) | N/A |
+| 32 | [#DreamMakerPIEmilya](http://twitter.com/search?q=%23DreamMakerPIEmilya) | N/A |
+| 33 | [#MoonlightChickenFinalEP](http://twitter.com/search?q=%23MoonlightChickenFinalEP) | N/A |
+| 34 | [#BGYOForEpicBirthdaySuperShow](http://twitter.com/search?q=%23BGYOForEpicBirthdaySuperShow) | N/A |
+| 35 | [#BSS8thWin](http://twitter.com/search?q=%23BSS8thWin) | N/A |
+| 36 | [#Fighting8thWin](http://twitter.com/search?q=%23Fighting8thWin) | N/A |
+| 37 | [#부석순_엠카_1위_축하해](http://twitter.com/search?q=%23%eb%b6%80%ec%84%9d%ec%88%9c_%ec%97%a0%ec%b9%b4_1%ec%9c%84_%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
+| 38 | [#VoxPopuLIVE](http://twitter.com/search?q=%23VoxPopuLIVE) | N/A |
+| 39 | [#AranetaCity](http://twitter.com/search?q=%23AranetaCity) | N/A |
+| 40 | [#CityOfFirsts](http://twitter.com/search?q=%23CityOfFirsts) | N/A |
+| 41 | [#TaLuengBabyXENGFA](http://twitter.com/search?q=%23TaLuengBabyXENGFA) | N/A |
+| 42 | [#YARAxSonyMusicPH](http://twitter.com/search?q=%23YARAxSonyMusicPH) | N/A |
+| 43 | [#JayrAlbino](http://twitter.com/search?q=%23JayrAlbino) | N/A |
+| 44 | [#pvlallfilipinoconference](http://twitter.com/search?q=%23pvlallfilipinoconference) | N/A |
+| 45 | [#LazadaPH11Birthday](http://twitter.com/search?q=%23LazadaPH11Birthday) | N/A |
+| 46 | [#PureDoctrinesOfChrist](http://twitter.com/search?q=%23PureDoctrinesOfChrist) | N/A |
+| 47 | [#barcodetin](http://twitter.com/search?q=%23barcodetin) | N/A |
+| 48 | [#ALDENLaz11thBday](http://twitter.com/search?q=%23ALDENLaz11thBday) | N/A |
+| 49 | [#unit](http://twitter.com/search?q=%23unit) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Durban
 
-📆 Last Updated: `2023-03-02 13:21:36 UTC`
+📆 Last Updated: `2023-03-02 14:18:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [South Africa](</South Africa>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#TheWifeShowmax](http://twitter.com/search?q=%23TheWifeShowmax) | N/A |
-| 2 | [Terry Pheto](http://twitter.com/search?q=Terry+Pheto) | N/A |
-| 3 | [#LoveCapitec22](http://twitter.com/search?q=%23LoveCapitec22) | N/A |
-| 4 | [#MUNWHU](http://twitter.com/search?q=%23MUNWHU) | N/A |
-| 5 | [#ARSEVE](http://twitter.com/search?q=%23ARSEVE) | N/A |
-| 6 | [Zamani](http://twitter.com/search?q=Zamani) | N/A |
-| 7 | [Prof Phakeng](http://twitter.com/search?q=Prof+Phakeng) | N/A |
-| 8 | [#ChampionBeer](http://twitter.com/search?q=%23ChampionBeer) | N/A |
-| 9 | [rami](http://twitter.com/search?q=rami) | N/A |
-| 10 | [S Pen](http://twitter.com/search?q=S+Pen) | N/A |
-| 11 | [Jali](http://twitter.com/search?q=Jali) | N/A |
-| 12 | [stage 16](http://twitter.com/search?q=stage+16) | N/A |
-| 13 | [Skhumba](http://twitter.com/search?q=Skhumba) | N/A |
-| 14 | [JJ Tabane](http://twitter.com/search?q=JJ+Tabane) | N/A |
-| 15 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 16 | [Sabby](http://twitter.com/search?q=Sabby) | N/A |
-| 17 | [Tsotsi](http://twitter.com/search?q=Tsotsi) | N/A |
-| 18 | [THABANG THE CATCH](http://twitter.com/search?q=THABANG+THE+CATCH) | N/A |
-| 19 | [gcina](http://twitter.com/search?q=gcina) | N/A |
-| 20 | [ConCourt](http://twitter.com/search?q=ConCourt) | N/A |
-| 21 | [Lukay](http://twitter.com/search?q=Lukay) | Lukay is a term used in the Caribbean to refer to a close friend or companion. It is derived from the French word "lucie," which means "companion." In English, it can be translated as "buddy" or "pal." |
-| 22 | [Pastor Fred](http://twitter.com/search?q=Pastor+Fred) | Pastor Fred is a term used to refer to a Christian minister or pastor. It is often used as a generic name for any pastor, regardless of their actual name. |
-| 23 | [Kamo Mphela](http://twitter.com/search?q=Kamo+Mphela) | N/A |
-| 24 | [sni mhlongo](http://twitter.com/search?q=sni+mhlongo) | N/A |
-| 25 | [Sorisha](http://twitter.com/search?q=Sorisha) | N/A |
-| 26 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 27 | [Air Actions](http://twitter.com/search?q=Air+Actions) | N/A |
-| 28 | [Metro](http://twitter.com/search?q=Metro) | Metro is short for metropolitan, which means relating to a large city or urban area. It is often used to refer to public transportation systems in large cities, such as the subway or underground railway. |
-| 29 | [Screen Off Memo](http://twitter.com/search?q=Screen+Off+Memo) | N/A |
-| 30 | [Quick Notes](http://twitter.com/search?q=Quick+Notes) | N/A |
+| 2 | [#LoveCapitec22](http://twitter.com/search?q=%23LoveCapitec22) | N/A |
+| 3 | [Terry Pheto](http://twitter.com/search?q=Terry+Pheto) | N/A |
+| 4 | [#MobicelVX20Launch](http://twitter.com/search?q=%23MobicelVX20Launch) | N/A |
+| 5 | [#MUNWHU](http://twitter.com/search?q=%23MUNWHU) | N/A |
+| 6 | [#ARSEVE](http://twitter.com/search?q=%23ARSEVE) | N/A |
+| 7 | [Zamani](http://twitter.com/search?q=Zamani) | N/A |
+| 8 | [Jali](http://twitter.com/search?q=Jali) | N/A |
+| 9 | [Rami](http://twitter.com/search?q=Rami) | N/A |
+| 10 | [Skhumba](http://twitter.com/search?q=Skhumba) | N/A |
+| 11 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 12 | [jj tabane](http://twitter.com/search?q=jj+tabane) | N/A |
+| 13 | [Stage 16](http://twitter.com/search?q=Stage+16) | N/A |
+| 14 | [THABANG THE CATCH](http://twitter.com/search?q=THABANG+THE+CATCH) | N/A |
+| 15 | [Gcina](http://twitter.com/search?q=Gcina) | N/A |
+| 16 | [ConCourt](http://twitter.com/search?q=ConCourt) | N/A |
+| 17 | [Pastor Fred](http://twitter.com/search?q=Pastor+Fred) | Pastor Fred is a term used to refer to a Christian minister or pastor. It is often used as a generic name for any pastor, regardless of their actual name. |
+| 18 | [Kagiso Rabada](http://twitter.com/search?q=Kagiso+Rabada) | N/A |
+| 19 | [Black Coffee](http://twitter.com/search?q=Black+Coffee) | N/A |
+| 20 | [S Pen](http://twitter.com/search?q=S+Pen) | N/A |
+| 21 | [Sabby](http://twitter.com/search?q=Sabby) | N/A |
+| 22 | [air actions](http://twitter.com/search?q=air+actions) | N/A |
+| 23 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
+| 24 | [Tsotsi](http://twitter.com/search?q=Tsotsi) | N/A |
+| 25 | [Lukay](http://twitter.com/search?q=Lukay) | Lukay is a term used in the Caribbean to refer to a close friend or companion. It is derived from the French word "lucie," which means "companion." In English, it can be translated as "buddy" or "pal." |
+| 26 | [Quick Notes](http://twitter.com/search?q=Quick+Notes) | N/A |
+| 27 | [Sni Mhlongo](http://twitter.com/search?q=Sni+Mhlongo) | N/A |
+| 28 | [Sorisha](http://twitter.com/search?q=Sorisha) | N/A |
+| 29 | [kamo mphela](http://twitter.com/search?q=kamo+mphela) | N/A |
+| 30 | [Prof Phakeng](http://twitter.com/search?q=Prof+Phakeng) | N/A |
 | 31 | [Afghans](http://twitter.com/search?q=Afghans) | N/A |
-| 32 | [Khutso](http://twitter.com/search?q=Khutso) | N/A |
-| 33 | [themba](http://twitter.com/search?q=themba) | N/A |
-| 34 | [6 YEARS](http://twitter.com/search?q=6+YEARS) | N/A |
-| 35 | [VOTE ROYALS](http://twitter.com/search?q=VOTE+ROYALS) | N/A |
-| 36 | [Screen Write](http://twitter.com/search?q=Screen+Write) | N/A |
-| 37 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
-| 38 | [Vusi](http://twitter.com/search?q=Vusi) | N/A |
-| 39 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 40 | [Xoli](http://twitter.com/search?q=Xoli) | N/A |
-| 41 | [Unathi](http://twitter.com/search?q=Unathi) | N/A |
-| 42 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 43 | [VOTE KHOSICLE](http://twitter.com/search?q=VOTE+KHOSICLE) | N/A |
-| 44 | [Cape Flats](http://twitter.com/search?q=Cape+Flats) | N/A |
-| 45 | [thomas partey](http://twitter.com/search?q=thomas+partey) | N/A |
-| 46 | [Lindelof](http://twitter.com/search?q=Lindelof) | Lindelof is a surname of Swedish origin. It is derived from the Old Norse name Lindalófr, which means "linden leaf" or "linden tree". In English, the name can be translated to mean "beloved of the linden tree". |
+| 32 | [Metro](http://twitter.com/search?q=Metro) | Metro is short for metropolitan, which means relating to a large city or urban area. It is often used to refer to public transportation systems in large cities, such as the subway or underground railway. |
+| 33 | [Khutso](http://twitter.com/search?q=Khutso) | N/A |
+| 34 | [Screen Off Memo](http://twitter.com/search?q=Screen+Off+Memo) | N/A |
+| 35 | [6 YEARS](http://twitter.com/search?q=6+YEARS) | N/A |
+| 36 | [VOTE ROYALS](http://twitter.com/search?q=VOTE+ROYALS) | N/A |
+| 37 | [Nana](http://twitter.com/search?q=Nana) | Nana is a Japanese term of endearment for grandmother. It is also used as a nickname for someone who is older and wiser. In English, it can be translated to mean "Grandma" or "Granny". |
+| 38 | [Themba](http://twitter.com/search?q=Themba) | N/A |
+| 39 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
+| 40 | [Cape Flats](http://twitter.com/search?q=Cape+Flats) | N/A |
+| 41 | [Vusi](http://twitter.com/search?q=Vusi) | N/A |
+| 42 | [Unathi](http://twitter.com/search?q=Unathi) | N/A |
+| 43 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 44 | [Screen Write](http://twitter.com/search?q=Screen+Write) | N/A |
+| 45 | [Xoli](http://twitter.com/search?q=Xoli) | N/A |
+| 46 | [VOTE KHOSICLE](http://twitter.com/search?q=VOTE+KHOSICLE) | N/A |
 | 47 | [West Indies](http://twitter.com/search?q=West+Indies) | N/A |
-| 48 | [High Court](http://twitter.com/search?q=High+Court) | N/A |
-| 49 | [JCOLE](http://twitter.com/search?q=JCOLE) | N/A |
+| 48 | [Thomas Partey](http://twitter.com/search?q=Thomas+Partey) | N/A |
+| 49 | [Lindelof](http://twitter.com/search?q=Lindelof) | Lindelof is a surname of Swedish origin. It is derived from the Old Norse name Lindalófr, which means "linden leaf" or "linden tree". In English, the name can be translated to mean "beloved of the linden tree". |
 
 
 

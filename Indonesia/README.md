@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indonesia
 
-📆 Last Updated: `2023-03-02 13:22:01 UTC`
+📆 Last Updated: `2023-03-02 14:18:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for Indonesia
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Indomie Yatai](http://twitter.com/search?q=Indomie+Yatai) | N/A |
-| 2 | [Ekspresikan Gayamu](http://twitter.com/search?q=Ekspresikan+Gayamu) | N/A |
-| 3 | [#FilmKhanzab](http://twitter.com/search?q=%23FilmKhanzab) | N/A |
+| 2 | [#FilmKhanzab](http://twitter.com/search?q=%23FilmKhanzab) | N/A |
+| 3 | [Ekspresikan Gayamu](http://twitter.com/search?q=Ekspresikan+Gayamu) | N/A |
 | 4 | [#MoonlightChickenFinalEP](http://twitter.com/search?q=%23MoonlightChickenFinalEP) | N/A |
-| 5 | [#ZeeLetter](http://twitter.com/search?q=%23ZeeLetter) | N/A |
-| 6 | [#Fighting8thWin](http://twitter.com/search?q=%23Fighting8thWin) | N/A |
-| 7 | [#BSS8thWin](http://twitter.com/search?q=%23BSS8thWin) | N/A |
-| 8 | [Lazada](http://twitter.com/search?q=Lazada) | N/A |
+| 5 | [RICKY](http://twitter.com/search?q=RICKY) | N/A |
+| 6 | [#ZeeLetter](http://twitter.com/search?q=%23ZeeLetter) | N/A |
+| 7 | [#UN1TYLazLive](http://twitter.com/search?q=%23UN1TYLazLive) | N/A |
+| 8 | [PARK HANBIN](http://twitter.com/search?q=PARK+HANBIN) | N/A |
 | 9 | [Silent](http://twitter.com/search?q=Silent) | N/A |
-| 10 | [Epic Grand Prize](http://twitter.com/search?q=Epic+Grand+Prize) | N/A |
+| 10 | [Sumedang](http://twitter.com/search?q=Sumedang) | N/A |
 | 11 | [PN Jakpus](http://twitter.com/search?q=PN+Jakpus) | N/A |
-| 12 | [BSS MCOUNTDOWN TRIPLE CROWN](http://twitter.com/search?q=BSS+MCOUNTDOWN+TRIPLE+CROWN) | N/A |
-| 13 | [Partai Prima](http://twitter.com/search?q=Partai+Prima) | N/A |
-| 14 | [Jeep](http://twitter.com/search?q=Jeep) | N/A |
-| 15 | [Pemilu](http://twitter.com/search?q=Pemilu) | N/A |
-| 16 | [PARK HANBIN](http://twitter.com/search?q=PARK+HANBIN) | N/A |
-| 17 | [ARTIST AND STAFF](http://twitter.com/search?q=ARTIST+AND+STAFF) | N/A |
-| 18 | [Catet](http://twitter.com/search?q=Catet) | N/A |
-| 19 | [Polda Metro Jaya](http://twitter.com/search?q=Polda+Metro+Jaya) | N/A |
-| 20 | [Hindu](http://twitter.com/search?q=Hindu) | N/A |
-| 21 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 22 | [Maghrib](http://twitter.com/search?q=Maghrib) | N/A |
-| 23 | [Perbaikan](http://twitter.com/search?q=Perbaikan) | N/A |
-| 24 | [Kucingku](http://twitter.com/search?q=Kucingku) | N/A |
-| 25 | [Gacoan](http://twitter.com/search?q=Gacoan) | N/A |
-| 26 | [Kembang Api](http://twitter.com/search?q=Kembang+Api) | N/A |
-| 27 | [Gelora Buat Konser](http://twitter.com/search?q=Gelora+Buat+Konser) | N/A |
-| 28 | [Sisanya](http://twitter.com/search?q=Sisanya) | N/A |
-| 29 | [#UN1TYLazLive](http://twitter.com/search?q=%23UN1TYLazLive) | N/A |
-| 30 | [#EpicSurpriseParty](http://twitter.com/search?q=%23EpicSurpriseParty) | N/A |
-| 31 | [#부석순_엠카_1위_축하해](http://twitter.com/search?q=%23%eb%b6%80%ec%84%9d%ec%88%9c_%ec%97%a0%ec%b9%b4_1%ec%9c%84_%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
-| 32 | [#faktasyariah](http://twitter.com/search?q=%23faktasyariah) | N/A |
+| 12 | [Lazada](http://twitter.com/search?q=Lazada) | N/A |
+| 13 | [#Fighting8thWin](http://twitter.com/search?q=%23Fighting8thWin) | N/A |
+| 14 | [Pemilu](http://twitter.com/search?q=Pemilu) | N/A |
+| 15 | [Partai Prima](http://twitter.com/search?q=Partai+Prima) | N/A |
+| 16 | [BSS MCOUNTDOWN TRIPLE CROWN](http://twitter.com/search?q=BSS+MCOUNTDOWN+TRIPLE+CROWN) | N/A |
+| 17 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 18 | [ARTIST AND STAFF](http://twitter.com/search?q=ARTIST+AND+STAFF) | N/A |
+| 19 | [Jatinangor](http://twitter.com/search?q=Jatinangor) | N/A |
+| 20 | [OLLIE](http://twitter.com/search?q=OLLIE) | N/A |
+| 21 | [Jeep](http://twitter.com/search?q=Jeep) | N/A |
+| 22 | [Polda](http://twitter.com/search?q=Polda) | N/A |
+| 23 | [Brian](http://twitter.com/search?q=Brian) | N/A |
+| 24 | [CATET](http://twitter.com/search?q=CATET) | N/A |
+| 25 | [Maghrib](http://twitter.com/search?q=Maghrib) | N/A |
+| 26 | [Hindu](http://twitter.com/search?q=Hindu) | N/A |
+| 27 | [Kucingku](http://twitter.com/search?q=Kucingku) | N/A |
+| 28 | [Kembang Api](http://twitter.com/search?q=Kembang+Api) | N/A |
+| 29 | [Perbaikan](http://twitter.com/search?q=Perbaikan) | N/A |
+| 30 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 31 | [Gacoan](http://twitter.com/search?q=Gacoan) | N/A |
+| 32 | [#ChaTamara](http://twitter.com/search?q=%23ChaTamara) | N/A |
 | 33 | [#SM_Listen_To_Your_Fans](http://twitter.com/search?q=%23SM_Listen_To_Your_Fans) | N/A |
-| 34 | [#HariRPLDesa](http://twitter.com/search?q=%23HariRPLDesa) | N/A |
-| 35 | [#에스엠_팬들의_말을_들어주세요](http://twitter.com/search?q=%23%ec%97%90%ec%8a%a4%ec%97%a0_%ed%8c%ac%eb%93%a4%ec%9d%98_%eb%a7%90%ec%9d%84_%eb%93%a4%ec%96%b4%ec%a3%bc%ec%84%b8%ec%9a%94) | N/A |
-| 36 | [#EPICSalebrat11on](http://twitter.com/search?q=%23EPICSalebrat11on) | N/A |
-| 37 | [#WINWINxValentino](http://twitter.com/search?q=%23WINWINxValentino) | N/A |
-| 38 | [#MelurUntukFirdausSeason2](http://twitter.com/search?q=%23MelurUntukFirdausSeason2) | N/A |
-| 39 | [#unit](http://twitter.com/search?q=%23unit) | N/A |
-| 40 | [#KawalDavid](http://twitter.com/search?q=%23KawalDavid) | N/A |
-| 41 | [#barcodetin](http://twitter.com/search?q=%23barcodetin) | N/A |
-| 42 | [#SamsungM23dariShopee](http://twitter.com/search?q=%23SamsungM23dariShopee) | N/A |
-| 43 | [#VirgoandTheSparklings](http://twitter.com/search?q=%23VirgoandTheSparklings) | N/A |
-| 44 | [#BliMinBeliin](http://twitter.com/search?q=%23BliMinBeliin) | N/A |
-| 45 | [#BORNPINKinJAKARTA](http://twitter.com/search?q=%23BORNPINKinJAKARTA) | N/A |
-| 46 | [#BlibliSelalu](http://twitter.com/search?q=%23BlibliSelalu) | N/A |
-| 47 | [#ANISD](http://twitter.com/search?q=%23ANISD) | N/A |
-| 48 | [#pssday](http://twitter.com/search?q=%23pssday) | N/A |
-| 49 | [#SavePendampingDesa](http://twitter.com/search?q=%23SavePendampingDesa) | N/A |
+| 34 | [#부석순_엠카_1위_축하해](http://twitter.com/search?q=%23%eb%b6%80%ec%84%9d%ec%88%9c_%ec%97%a0%ec%b9%b4_1%ec%9c%84_%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
+| 35 | [#KemenanganBersama2024](http://twitter.com/search?q=%23KemenanganBersama2024) | N/A |
+| 36 | [#BSS8thWin](http://twitter.com/search?q=%23BSS8thWin) | N/A |
+| 37 | [#에스엠_팬들의_말을_들어주세요](http://twitter.com/search?q=%23%ec%97%90%ec%8a%a4%ec%97%a0_%ed%8c%ac%eb%93%a4%ec%9d%98_%eb%a7%90%ec%9d%84_%eb%93%a4%ec%96%b4%ec%a3%bc%ec%84%b8%ec%9a%94) | N/A |
+| 38 | [#HariRPLDesa](http://twitter.com/search?q=%23HariRPLDesa) | N/A |
+| 39 | [#MelurUntukFirdausSeason2](http://twitter.com/search?q=%23MelurUntukFirdausSeason2) | N/A |
+| 40 | [#WINWINxValentino](http://twitter.com/search?q=%23WINWINxValentino) | N/A |
+| 41 | [#EPICSalebrat11on](http://twitter.com/search?q=%23EPICSalebrat11on) | N/A |
+| 42 | [#KawalDavid](http://twitter.com/search?q=%23KawalDavid) | N/A |
+| 43 | [#unit](http://twitter.com/search?q=%23unit) | N/A |
+| 44 | [#barcodetin](http://twitter.com/search?q=%23barcodetin) | N/A |
+| 45 | [#VirgoandTheSparklings](http://twitter.com/search?q=%23VirgoandTheSparklings) | N/A |
+| 46 | [#SamsungM23dariShopee](http://twitter.com/search?q=%23SamsungM23dariShopee) | N/A |
+| 47 | [#BliMinBeliin](http://twitter.com/search?q=%23BliMinBeliin) | N/A |
+| 48 | [#BORNPINKinJAKARTA](http://twitter.com/search?q=%23BORNPINKinJAKARTA) | N/A |
+| 49 | [#BlibliSelalu](http://twitter.com/search?q=%23BlibliSelalu) | N/A |
 
 
 
