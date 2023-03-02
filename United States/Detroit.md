@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Detroit
 
-📆 Last Updated: `2023-03-02 16:17:20 UTC`
+📆 Last Updated: `2023-03-02 18:17:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Boston](http://twitter.com/search?q=Boston) | Boston is the capital and most populous city of the Commonwealth of Massachusetts in the United States. It is one of the oldest cities in the United States, founded in 1630 by Puritan settlers from England. The city is known for its rich history, culture, and educational institutions. It is also home to many world-renowned museums, universities, and hospitals. |
-| 2 | [Larkin](http://twitter.com/search?q=Larkin) | N/A |
-| 3 | [Hronek](http://twitter.com/search?q=Hronek) | N/A |
-| 4 | [Hershey](http://twitter.com/search?q=Hershey) | N/A |
-| 5 | [#ReadAcrossAmericaDay](http://twitter.com/search?q=%23ReadAcrossAmericaDay) | N/A |
-| 6 | [Don Sweeney](http://twitter.com/search?q=Don+Sweeney) | N/A |
-| 7 | [Bertuzzi](http://twitter.com/search?q=Bertuzzi) | N/A |
-| 8 | [#WorldBookDay](http://twitter.com/search?q=%23WorldBookDay) | N/A |
-| 9 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 10 | [TIFFANY](http://twitter.com/search?q=TIFFANY) | N/A |
-| 11 | [Texas Independence Day](http://twitter.com/search?q=Texas+Independence+Day) | N/A |
-| 12 | [Dr. Seuss](http://twitter.com/search?q=Dr.+Seuss) | N/A |
-| 13 | [Pasta](http://twitter.com/search?q=Pasta) | N/A |
-| 14 | [Jim Griffin](http://twitter.com/search?q=Jim+Griffin) | N/A |
-| 15 | [David Pastrnak](http://twitter.com/search?q=David+Pastrnak) | N/A |
-| 16 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
-| 17 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 18 | [Chaka](http://twitter.com/search?q=Chaka) | N/A |
-| 19 | [#GoWokeGoBroke](http://twitter.com/search?q=%23GoWokeGoBroke) | N/A |
-| 20 | [DK Summit](http://twitter.com/search?q=DK+Summit) | N/A |
-| 21 | [Waluigi Stadium](http://twitter.com/search?q=Waluigi+Stadium) | N/A |
-| 22 | [LTIR](http://twitter.com/search?q=LTIR) | N/A |
-| 23 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
-| 24 | [Tucson](http://twitter.com/search?q=Tucson) | N/A |
-| 25 | [DS Mario Circuit](http://twitter.com/search?q=DS+Mario+Circuit) | N/A |
-| 26 | [keita](http://twitter.com/search?q=keita) | N/A |
-| 27 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
-| 28 | [happy friday eve](http://twitter.com/search?q=happy+friday+eve) | N/A |
-| 29 | [Dior](http://twitter.com/search?q=Dior) | Dior is a French luxury fashion house founded in 1946 by Christian Dior. The name Dior is derived from the founder's surname and is an abbreviation of his full name, Christian Dior. In English, it means "of or relating to Christian Dior". |
-| 30 | [Michael Darby](http://twitter.com/search?q=Michael+Darby) | N/A |
-| 31 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
-| 32 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
-| 33 | [Claxton](http://twitter.com/search?q=Claxton) | Claxton is a surname of English origin. It is derived from the Old English words 'claec' meaning clay and 'tun' meaning settlement or farm. The name was originally given to someone who lived near a clay settlement or farm. |
-| 34 | [Judge Newman](http://twitter.com/search?q=Judge+Newman) | N/A |
-| 35 | [Juror](http://twitter.com/search?q=Juror) | N/A |
-| 36 | [Riverside Park](http://twitter.com/search?q=Riverside+Park) | N/A |
-| 37 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 38 | [Bergeron](http://twitter.com/search?q=Bergeron) | N/A |
-| 39 | [yujin](http://twitter.com/search?q=yujin) | N/A |
-| 40 | [Bryansk](http://twitter.com/search?q=Bryansk) | N/A |
-| 41 | [Dratini](http://twitter.com/search?q=Dratini) | N/A |
-| 42 | [Congratulations Jimin](http://twitter.com/search?q=Congratulations+Jimin) | "Congratulations Jimin" is a phrase used to express congratulations or best wishes to someone named Jimin. It is typically used in situations such as when someone has achieved a goal, received an award, or accomplished something noteworthy. |
-| 43 | [Yzerman](http://twitter.com/search?q=Yzerman) | N/A |
-| 44 | [Thirsty Thursday](http://twitter.com/search?q=Thirsty+Thursday) | N/A |
-| 45 | [The Bruins](http://twitter.com/search?q=The+Bruins) | N/A |
-| 46 | [Double Dash](http://twitter.com/search?q=Double+Dash) | N/A |
-| 47 | [SEOK MATTHEW](http://twitter.com/search?q=SEOK+MATTHEW) | N/A |
-| 48 | [jiho](http://twitter.com/search?q=jiho) | N/A |
-| 49 | [Krejci](http://twitter.com/search?q=Krejci) | N/A |
+| 2 | [Vrana](http://twitter.com/search?q=Vrana) | Vrana is a Croatian word that means "crow" in English. |
+| 3 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
+| 4 | [Yzerman](http://twitter.com/search?q=Yzerman) | N/A |
+| 5 | [Larkin](http://twitter.com/search?q=Larkin) | N/A |
+| 6 | [Hronek](http://twitter.com/search?q=Hronek) | N/A |
+| 7 | [#WhyIChime](http://twitter.com/search?q=%23WhyIChime) | N/A |
+| 8 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
+| 9 | [#ReadAcrossAmericaDay](http://twitter.com/search?q=%23ReadAcrossAmericaDay) | N/A |
+| 10 | [Hershey](http://twitter.com/search?q=Hershey) | N/A |
+| 11 | [#MurdaughTrial](http://twitter.com/search?q=%23MurdaughTrial) | N/A |
+| 12 | [#SaferWithBiden](http://twitter.com/search?q=%23SaferWithBiden) | N/A |
+| 13 | [Jim Griffin](http://twitter.com/search?q=Jim+Griffin) | N/A |
+| 14 | [Bateman](http://twitter.com/search?q=Bateman) | N/A |
+| 15 | [#WorldBookDay](http://twitter.com/search?q=%23WorldBookDay) | N/A |
+| 16 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
+| 17 | [Bertuzzi](http://twitter.com/search?q=Bertuzzi) | N/A |
+| 18 | [LTIR](http://twitter.com/search?q=LTIR) | N/A |
+| 19 | [Texas Independence Day](http://twitter.com/search?q=Texas+Independence+Day) | N/A |
+| 20 | [Dr. Seuss](http://twitter.com/search?q=Dr.+Seuss) | N/A |
+| 21 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
+| 22 | [Don Sweeney](http://twitter.com/search?q=Don+Sweeney) | N/A |
+| 23 | [Weather Report](http://twitter.com/search?q=Weather+Report) | N/A |
+| 24 | [Christian Arroyo](http://twitter.com/search?q=Christian+Arroyo) | N/A |
+| 25 | [Kimmel](http://twitter.com/search?q=Kimmel) | N/A |
+| 26 | [Pasta](http://twitter.com/search?q=Pasta) | N/A |
+| 27 | [Volpe](http://twitter.com/search?q=Volpe) | N/A |
+| 28 | [Chaka](http://twitter.com/search?q=Chaka) | N/A |
+| 29 | [Bayesian](http://twitter.com/search?q=Bayesian) | N/A |
+| 30 | [Discover](http://twitter.com/search?q=Discover) | N/A |
+| 31 | [Meadors](http://twitter.com/search?q=Meadors) | N/A |
+| 32 | [Harbaugh](http://twitter.com/search?q=Harbaugh) | Harbaugh is a surname of German origin. It is derived from the German words "harb" meaning "army" and "berg" meaning "mountain". The name can be translated to mean "army mountain". |
+| 33 | [Saunders](http://twitter.com/search?q=Saunders) | N/A |
+| 34 | [Next Level Chef](http://twitter.com/search?q=Next+Level+Chef) | N/A |
+| 35 | [Andres Vasquez](http://twitter.com/search?q=Andres+Vasquez) | N/A |
+| 36 | [David Pastrnak](http://twitter.com/search?q=David+Pastrnak) | N/A |
+| 37 | [Claxton](http://twitter.com/search?q=Claxton) | Claxton is a surname of English origin. It is derived from the Old English words 'claec' meaning clay and 'tun' meaning settlement or farm. The name was originally given to someone who lived near a clay settlement or farm. |
+| 38 | [Jason Arno](http://twitter.com/search?q=Jason+Arno) | N/A |
+| 39 | [Nelly](http://twitter.com/search?q=Nelly) | Nelly is a nickname for the female given name Eleanor, which is derived from the Greek name Helenē, meaning “light” or “bright one.” It can also be used as a diminutive form of the name Cornelia. |
+| 40 | [SLED](http://twitter.com/search?q=SLED) | N/A |
+| 41 | [DS Mario Circuit](http://twitter.com/search?q=DS+Mario+Circuit) | N/A |
+| 42 | [Hellboy](http://twitter.com/search?q=Hellboy) | N/A |
+| 43 | [Hall](http://twitter.com/search?q=Hall) | Hall is a noun that refers to a large room or area used for meetings, receptions, or other events. It can also refer to an entranceway or corridor in a building. |
+| 44 | [Tucson](http://twitter.com/search?q=Tucson) | N/A |
+| 45 | [DHop](http://twitter.com/search?q=DHop) | DHop is an acronym for "Drop Hop," which is a type of dance move. It involves dropping down to the ground and then hopping back up into the air. The move is often used in hip-hop and street dance styles. |
+| 46 | [Dratini](http://twitter.com/search?q=Dratini) | N/A |
+| 47 | [Evan Engram](http://twitter.com/search?q=Evan+Engram) | Evan Engram is an American football tight end for the New York Giants of the National Football League (NFL). He was drafted by the Giants in the first round of the 2017 NFL Draft. The name Evan Engram is derived from a combination of his first and last names. |
+| 48 | [Meghan Trainor](http://twitter.com/search?q=Meghan+Trainor) | N/A |
+| 49 | [DeCosta](http://twitter.com/search?q=DeCosta) | N/A |
 
 
 

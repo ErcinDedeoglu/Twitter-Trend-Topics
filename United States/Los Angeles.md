@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Los Angeles
 
-📆 Last Updated: `2023-03-02 16:17:21 UTC`
+📆 Last Updated: `2023-03-02 18:17:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [jcole](http://twitter.com/search?q=jcole) | N/A |
 | 2 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 3 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
-| 4 | [Hershey](http://twitter.com/search?q=Hershey) | N/A |
-| 5 | [#ReadAcrossAmericaDay](http://twitter.com/search?q=%23ReadAcrossAmericaDay) | N/A |
-| 6 | [Don Sweeney](http://twitter.com/search?q=Don+Sweeney) | N/A |
-| 7 | [Bertuzzi](http://twitter.com/search?q=Bertuzzi) | N/A |
-| 8 | [#WorldBookDay](http://twitter.com/search?q=%23WorldBookDay) | N/A |
-| 9 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 10 | [TIFFANY](http://twitter.com/search?q=TIFFANY) | N/A |
-| 11 | [Texas Independence Day](http://twitter.com/search?q=Texas+Independence+Day) | N/A |
-| 12 | [Dr. Seuss](http://twitter.com/search?q=Dr.+Seuss) | N/A |
-| 13 | [Pasta](http://twitter.com/search?q=Pasta) | N/A |
-| 14 | [Jim Griffin](http://twitter.com/search?q=Jim+Griffin) | N/A |
-| 15 | [David Pastrnak](http://twitter.com/search?q=David+Pastrnak) | N/A |
-| 16 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
-| 17 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 18 | [Chaka](http://twitter.com/search?q=Chaka) | N/A |
-| 19 | [#GoWokeGoBroke](http://twitter.com/search?q=%23GoWokeGoBroke) | N/A |
-| 20 | [DK Summit](http://twitter.com/search?q=DK+Summit) | N/A |
-| 21 | [Waluigi Stadium](http://twitter.com/search?q=Waluigi+Stadium) | N/A |
-| 22 | [LTIR](http://twitter.com/search?q=LTIR) | N/A |
-| 23 | [Tucson](http://twitter.com/search?q=Tucson) | N/A |
-| 24 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
-| 25 | [DS Mario Circuit](http://twitter.com/search?q=DS+Mario+Circuit) | N/A |
-| 26 | [keita](http://twitter.com/search?q=keita) | N/A |
-| 27 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
-| 28 | [happy friday eve](http://twitter.com/search?q=happy+friday+eve) | N/A |
-| 29 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
-| 30 | [Dior](http://twitter.com/search?q=Dior) | Dior is a French luxury fashion house founded in 1946 by Christian Dior. The name Dior is derived from the founder's surname and is an abbreviation of his full name, Christian Dior. In English, it means "of or relating to Christian Dior". |
-| 31 | [Michael Darby](http://twitter.com/search?q=Michael+Darby) | N/A |
-| 32 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
-| 33 | [Claxton](http://twitter.com/search?q=Claxton) | Claxton is a surname of English origin. It is derived from the Old English words 'claec' meaning clay and 'tun' meaning settlement or farm. The name was originally given to someone who lived near a clay settlement or farm. |
-| 34 | [Judge Newman](http://twitter.com/search?q=Judge+Newman) | N/A |
-| 35 | [Juror](http://twitter.com/search?q=Juror) | N/A |
-| 36 | [Riverside Park](http://twitter.com/search?q=Riverside+Park) | N/A |
-| 37 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 38 | [Bergeron](http://twitter.com/search?q=Bergeron) | N/A |
-| 39 | [yujin](http://twitter.com/search?q=yujin) | N/A |
-| 40 | [Bryansk](http://twitter.com/search?q=Bryansk) | N/A |
-| 41 | [Dratini](http://twitter.com/search?q=Dratini) | N/A |
-| 42 | [Congratulations Jimin](http://twitter.com/search?q=Congratulations+Jimin) | "Congratulations Jimin" is a phrase used to express congratulations or best wishes to someone named Jimin. It is typically used in situations such as when someone has achieved a goal, received an award, or accomplished something noteworthy. |
-| 43 | [Taylor Hall](http://twitter.com/search?q=Taylor+Hall) | N/A |
-| 44 | [Yzerman](http://twitter.com/search?q=Yzerman) | N/A |
-| 45 | [Thirsty Thursday](http://twitter.com/search?q=Thirsty+Thursday) | N/A |
-| 46 | [The Bruins](http://twitter.com/search?q=The+Bruins) | N/A |
-| 47 | [Double Dash](http://twitter.com/search?q=Double+Dash) | N/A |
-| 48 | [SEOK MATTHEW](http://twitter.com/search?q=SEOK+MATTHEW) | N/A |
-| 49 | [jiho](http://twitter.com/search?q=jiho) | N/A |
-| 50 | [Krejci](http://twitter.com/search?q=Krejci) | N/A |
+| 3 | [Fentanyl](http://twitter.com/search?q=Fentanyl) | N/A |
+| 4 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
+| 5 | [$TSLA](http://twitter.com/search?q=%24TSLA) | $TSLA is the stock symbol for Tesla, Inc., an American electric vehicle and clean energy company. It is traded on the Nasdaq stock exchange. |
+| 6 | [Cruz](http://twitter.com/search?q=Cruz) | N/A |
+| 7 | [Petro](http://twitter.com/search?q=Petro) | N/A |
+| 8 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
+| 9 | [#WhyIChime](http://twitter.com/search?q=%23WhyIChime) | N/A |
+| 10 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
+| 11 | [#ReadAcrossAmericaDay](http://twitter.com/search?q=%23ReadAcrossAmericaDay) | N/A |
+| 12 | [Hershey](http://twitter.com/search?q=Hershey) | N/A |
+| 13 | [#MurdaughTrial](http://twitter.com/search?q=%23MurdaughTrial) | N/A |
+| 14 | [#SaferWithBiden](http://twitter.com/search?q=%23SaferWithBiden) | N/A |
+| 15 | [Jim Griffin](http://twitter.com/search?q=Jim+Griffin) | N/A |
+| 16 | [Bateman](http://twitter.com/search?q=Bateman) | N/A |
+| 17 | [#WorldBookDay](http://twitter.com/search?q=%23WorldBookDay) | N/A |
+| 18 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
+| 19 | [Bertuzzi](http://twitter.com/search?q=Bertuzzi) | N/A |
+| 20 | [LTIR](http://twitter.com/search?q=LTIR) | N/A |
+| 21 | [Texas Independence Day](http://twitter.com/search?q=Texas+Independence+Day) | N/A |
+| 22 | [Dr. Seuss](http://twitter.com/search?q=Dr.+Seuss) | N/A |
+| 23 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
+| 24 | [Christian Arroyo](http://twitter.com/search?q=Christian+Arroyo) | N/A |
+| 25 | [Don Sweeney](http://twitter.com/search?q=Don+Sweeney) | N/A |
+| 26 | [Weather Report](http://twitter.com/search?q=Weather+Report) | N/A |
+| 27 | [Kimmel](http://twitter.com/search?q=Kimmel) | N/A |
+| 28 | [Volpe](http://twitter.com/search?q=Volpe) | N/A |
+| 29 | [Pasta](http://twitter.com/search?q=Pasta) | N/A |
+| 30 | [Chaka Khan](http://twitter.com/search?q=Chaka+Khan) | N/A |
+| 31 | [Meadors](http://twitter.com/search?q=Meadors) | N/A |
+| 32 | [Bayesian](http://twitter.com/search?q=Bayesian) | N/A |
+| 33 | [Discover](http://twitter.com/search?q=Discover) | N/A |
+| 34 | [Harbaugh](http://twitter.com/search?q=Harbaugh) | Harbaugh is a surname of German origin. It is derived from the German words "harb" meaning "army" and "berg" meaning "mountain". The name can be translated to mean "army mountain". |
+| 35 | [Saunders](http://twitter.com/search?q=Saunders) | N/A |
+| 36 | [Next Level Chef](http://twitter.com/search?q=Next+Level+Chef) | N/A |
+| 37 | [Andres Vasquez](http://twitter.com/search?q=Andres+Vasquez) | N/A |
+| 38 | [David Pastrnak](http://twitter.com/search?q=David+Pastrnak) | N/A |
+| 39 | [Claxton](http://twitter.com/search?q=Claxton) | Claxton is a surname of English origin. It is derived from the Old English words 'claec' meaning clay and 'tun' meaning settlement or farm. The name was originally given to someone who lived near a clay settlement or farm. |
+| 40 | [Jason Arno](http://twitter.com/search?q=Jason+Arno) | N/A |
+| 41 | [SLED](http://twitter.com/search?q=SLED) | N/A |
+| 42 | [DS Mario Circuit](http://twitter.com/search?q=DS+Mario+Circuit) | N/A |
+| 43 | [Nelly](http://twitter.com/search?q=Nelly) | Nelly is a nickname for the female given name Eleanor, which is derived from the Greek name Helenē, meaning “light” or “bright one.” It can also be used as a diminutive form of the name Cornelia. |
+| 44 | [Hellboy](http://twitter.com/search?q=Hellboy) | N/A |
+| 45 | [Hall](http://twitter.com/search?q=Hall) | Hall is a noun that refers to a large room or area used for meetings, receptions, or other events. It can also refer to an entranceway or corridor in a building. |
+| 46 | [Tucson](http://twitter.com/search?q=Tucson) | N/A |
+| 47 | [Evan Engram](http://twitter.com/search?q=Evan+Engram) | Evan Engram is an American football tight end for the New York Giants of the National Football League (NFL). He was drafted by the Giants in the first round of the 2017 NFL Draft. The name Evan Engram is derived from a combination of his first and last names. |
+| 48 | [DHop](http://twitter.com/search?q=DHop) | DHop is an acronym for "Drop Hop," which is a type of dance move. It involves dropping down to the ground and then hopping back up into the air. The move is often used in hip-hop and street dance styles. |
+| 49 | [Dratini](http://twitter.com/search?q=Dratini) | N/A |
+| 50 | [Meghan Trainor](http://twitter.com/search?q=Meghan+Trainor) | N/A |
 
 
 

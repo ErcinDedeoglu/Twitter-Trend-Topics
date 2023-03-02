@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guayaquil
 
-📆 Last Updated: `2023-03-02 16:16:47 UTC`
+📆 Last Updated: `2023-03-02 18:17:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Ecuador](</Ecuador>)
 | ------- | ------------ | ------------ |
 | 1 | [Tere](http://twitter.com/search?q=Tere) | N/A |
 | 2 | [#RecopaSudamericana](http://twitter.com/search?q=%23RecopaSudamericana) | N/A |
-| 3 | [Alexandra](http://twitter.com/search?q=Alexandra) | N/A |
-| 4 | [#AdiosLasso](http://twitter.com/search?q=%23AdiosLasso) | N/A |
-| 5 | [Costa Rica](http://twitter.com/search?q=Costa+Rica) | N/A |
+| 3 | [#AdiosLasso](http://twitter.com/search?q=%23AdiosLasso) | N/A |
+| 4 | [Costa Rica](http://twitter.com/search?q=Costa+Rica) | N/A |
+| 5 | [Alexandra](http://twitter.com/search?q=Alexandra) | N/A |
 | 6 | [Petro](http://twitter.com/search?q=Petro) | N/A |
-| 7 | [Independiente Del Valle](http://twitter.com/search?q=Independiente+Del+Valle) | N/A |
-| 8 | [maracaná](http://twitter.com/search?q=maracan%c3%a1) | N/A |
-| 9 | [Hoyos](http://twitter.com/search?q=Hoyos) | Hoyos is a Spanish word meaning "holes". It can refer to physical holes in the ground or figuratively to a situation that is difficult to get out of. |
-| 10 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 11 | [#MasterChefEcuador](http://twitter.com/search?q=%23MasterChefEcuador) | N/A |
-| 12 | [Gabigol](http://twitter.com/search?q=Gabigol) | Gabigol is a nickname given to Brazilian footballer Gabriel Barbosa, who currently plays for Flamengo. The nickname is a combination of his first name, Gabriel, and the Portuguese word for goal, gol. In English, the nickname translates to "Gabriel Goal". |
-| 13 | [Andino](http://twitter.com/search?q=Andino) | N/A |
-| 14 | [Micolta](http://twitter.com/search?q=Micolta) | N/A |
-| 15 | [Almada](http://twitter.com/search?q=Almada) | N/A |
-| 16 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
-| 17 | [Santiago](http://twitter.com/search?q=Santiago) | N/A |
-| 18 | [Gruber Zambrano](http://twitter.com/search?q=Gruber+Zambrano) | N/A |
-| 19 | [Mahuad](http://twitter.com/search?q=Mahuad) | N/A |
-| 20 | [con 6](http://twitter.com/search?q=con+6) | N/A |
-| 21 | [Arturo Vidal](http://twitter.com/search?q=Arturo+Vidal) | N/A |
-| 22 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
-| 23 | [Comisión](http://twitter.com/search?q=Comisi%c3%b3n) | N/A |
-| 24 | [#CopaLibertadores](http://twitter.com/search?q=%23CopaLibertadores) | N/A |
-| 25 | [#BBWomenInMusic](http://twitter.com/search?q=%23BBWomenInMusic) | N/A |
-| 26 | [sarita](http://twitter.com/search?q=sarita) | N/A |
-| 27 | [Luisa Espinoza](http://twitter.com/search?q=Luisa+Espinoza) | N/A |
-| 28 | [IESS](http://twitter.com/search?q=IESS) | N/A |
-| 29 | [BIGHIT PROTECT RM](http://twitter.com/search?q=BIGHIT+PROTECT+RM) | N/A |
-| 30 | [Traición a la Patria](http://twitter.com/search?q=Traici%c3%b3n+a+la+Patria) | N/A |
-| 31 | [orgullo ecuatoriano](http://twitter.com/search?q=orgullo+ecuatoriano) | N/A |
-| 32 | [Corte Constitucional](http://twitter.com/search?q=Corte+Constitucional) | N/A |
-| 33 | [David Luiz](http://twitter.com/search?q=David+Luiz) | David Luiz is a Brazilian professional footballer who plays for the English Premier League club Arsenal. He primarily plays as a centre-back, but can also be deployed as a defensive midfielder. The name "David Luiz" is derived from his given name, David, and his middle name, Luiz. |
+| 7 | [TIFFANY BRAND AMBASSADOR JIMIN](http://twitter.com/search?q=TIFFANY+BRAND+AMBASSADOR+JIMIN) | N/A |
+| 8 | [Gabigol](http://twitter.com/search?q=Gabigol) | Gabigol is a nickname given to Brazilian footballer Gabriel Barbosa, who currently plays for Flamengo. The nickname is a combination of his first name, Gabriel, and the Portuguese word for goal, gol. In English, the nickname translates to "Gabriel Goal". |
+| 9 | [Fernando Gaibor](http://twitter.com/search?q=Fernando+Gaibor) | N/A |
+| 10 | [Almada](http://twitter.com/search?q=Almada) | N/A |
+| 11 | [#FueraLassoYa](http://twitter.com/search?q=%23FueraLassoYa) | N/A |
+| 12 | [Andino](http://twitter.com/search?q=Andino) | N/A |
+| 13 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
+| 14 | [Mahuad](http://twitter.com/search?q=Mahuad) | N/A |
+| 15 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
+| 16 | [Hurtado](http://twitter.com/search?q=Hurtado) | N/A |
+| 17 | [Con 6](http://twitter.com/search?q=Con+6) | N/A |
+| 18 | [Azuay](http://twitter.com/search?q=Azuay) | N/A |
+| 19 | [Gruber Zambrano](http://twitter.com/search?q=Gruber+Zambrano) | N/A |
+| 20 | [Micolta](http://twitter.com/search?q=Micolta) | N/A |
+| 21 | [Santiago](http://twitter.com/search?q=Santiago) | N/A |
+| 22 | [#MasterChefEcuador](http://twitter.com/search?q=%23MasterChefEcuador) | N/A |
+| 23 | [Independiente del Valle](http://twitter.com/search?q=Independiente+del+Valle) | N/A |
+| 24 | [IESS](http://twitter.com/search?q=IESS) | N/A |
+| 25 | [Comisión](http://twitter.com/search?q=Comisi%c3%b3n) | N/A |
+| 26 | [Corte Constitucional](http://twitter.com/search?q=Corte+Constitucional) | N/A |
+| 27 | [Sarita](http://twitter.com/search?q=Sarita) | N/A |
+| 28 | [Maracaná](http://twitter.com/search?q=Maracan%c3%a1) | N/A |
+| 29 | [Luisa Espinoza](http://twitter.com/search?q=Luisa+Espinoza) | N/A |
+| 30 | [#TWICE_BreakthroughAward](http://twitter.com/search?q=%23TWICE_BreakthroughAward) | N/A |
+| 31 | [TRAICIÓN A LA PATRIA](http://twitter.com/search?q=TRAICI%c3%93N+A+LA+PATRIA) | N/A |
+| 32 | [Asamblea](http://twitter.com/search?q=Asamblea) | N/A |
+| 33 | [BIGHIT PROTECT RM](http://twitter.com/search?q=BIGHIT+PROTECT+RM) | N/A |
 | 34 | [HYBE PROTECT RM](http://twitter.com/search?q=HYBE+PROTECT+RM) | N/A |
-| 35 | [Sara](http://twitter.com/search?q=Sara) | N/A |
-| 36 | [Ecuavisa](http://twitter.com/search?q=Ecuavisa) | N/A |
-| 37 | [Gareca](http://twitter.com/search?q=Gareca) | N/A |
-| 38 | [Parrales](http://twitter.com/search?q=Parrales) | N/A |
-| 39 | [Serrano](http://twitter.com/search?q=Serrano) | N/A |
-| 40 | [sonnia](http://twitter.com/search?q=sonnia) | N/A |
-| 41 | [angie asang](http://twitter.com/search?q=angie+asang) | N/A |
-| 42 | [ever hugo almeida](http://twitter.com/search?q=ever+hugo+almeida) | N/A |
-| 43 | [Azuay](http://twitter.com/search?q=Azuay) | N/A |
-| 44 | [De Arrascaeta](http://twitter.com/search?q=De+Arrascaeta) | N/A |
-| 45 | [beder caicedo](http://twitter.com/search?q=beder+caicedo) | N/A |
-| 46 | [Bolon](http://twitter.com/search?q=Bolon) | N/A |
-| 47 | [Asamblea](http://twitter.com/search?q=Asamblea) | N/A |
-| 48 | [Pellerano](http://twitter.com/search?q=Pellerano) | N/A |
+| 35 | [Parrales](http://twitter.com/search?q=Parrales) | N/A |
+| 36 | [Sara](http://twitter.com/search?q=Sara) | N/A |
+| 37 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
+| 38 | [Bolon](http://twitter.com/search?q=Bolon) | N/A |
+| 39 | [sonnia](http://twitter.com/search?q=sonnia) | N/A |
+| 40 | [ever hugo almeida](http://twitter.com/search?q=ever+hugo+almeida) | N/A |
+| 41 | [Gareca](http://twitter.com/search?q=Gareca) | N/A |
+| 42 | [De Arrascaeta](http://twitter.com/search?q=De+Arrascaeta) | N/A |
+| 43 | [Ecuavisa](http://twitter.com/search?q=Ecuavisa) | N/A |
+| 44 | [Guillermo Lasso](http://twitter.com/search?q=Guillermo+Lasso) | N/A |
+| 45 | [Beder Caicedo](http://twitter.com/search?q=Beder+Caicedo) | N/A |
+| 46 | [Vidal](http://twitter.com/search?q=Vidal) | Vidal is a Spanish surname derived from the Latin name Vitalis, which means “life”. It is also a French surname derived from the Latin name Vidallus, which means “woodland”. |
+| 47 | [Machala](http://twitter.com/search?q=Machala) | N/A |
+| 48 | [ON THE STREET IS COMING](http://twitter.com/search?q=ON+THE+STREET+IS+COMING) | N/A |
 | 49 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
-| 50 | [Marzo con M](http://twitter.com/search?q=Marzo+con+M) | N/A |
+| 50 | [Viviana Veloz](http://twitter.com/search?q=Viviana+Veloz) | N/A |
 
 
 

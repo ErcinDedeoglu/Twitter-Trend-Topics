@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2023-03-02 16:16:39 UTC`
+📆 Last Updated: `2023-03-02 18:16:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,56 +20,56 @@ This is top 50
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [ハイパーインフレーション](http://twitter.com/search?q=%e3%83%8f%e3%82%a4%e3%83%91%e3%83%bc%e3%82%a4%e3%83%b3%e3%83%95%e3%83%ac%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3) | ハイパーインフレーション is a term used to describe a situation in which the rate of inflation is extremely high. It is a phenomenon that occurs when prices rise rapidly and the value of money decreases significantly. In English, it can be translated as "hyperinflation". |
-| 2 | [TIFFANY](http://twitter.com/search?q=TIFFANY) | N/A |
-| 3 | [#ร้องข้ามกําแพง](http://twitter.com/search?q=%23%e0%b8%a3%e0%b9%89%e0%b8%ad%e0%b8%87%e0%b8%82%e0%b9%89%e0%b8%b2%e0%b8%a1%e0%b8%81%e0%b9%8d%e0%b8%b2%e0%b9%81%e0%b8%9e%e0%b8%87) | N/A |
-| 4 | [Rosario](http://twitter.com/search?q=Rosario) | N/A |
-| 5 | [#WorldBookDay](http://twitter.com/search?q=%23WorldBookDay) | N/A |
-| 6 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
-| 7 | [嵐ちゃん](http://twitter.com/search?q=%e5%b5%90%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 8 | [ボイプラ](http://twitter.com/search?q=%e3%83%9c%e3%82%a4%e3%83%97%e3%83%a9) | ボイプラ is short for ボイスプラス, which is a Japanese voice-based social media platform. It allows users to create and share audio clips with their friends and followers. The English translation of ボイプラ would be Voice Plus. |
-| 9 | [MATTHEW](http://twitter.com/search?q=MATTHEW) | N/A |
-| 10 | [#和泉三月生誕祭2023](http://twitter.com/search?q=%23%e5%92%8c%e6%b3%89%e4%b8%89%e6%9c%88%e7%94%9f%e8%aa%95%e7%a5%ad2023) | N/A |
-| 11 | [#FREENBECKxFANDOMLIVE](http://twitter.com/search?q=%23FREENBECKxFANDOMLIVE) | N/A |
-| 12 | [デッドロック](http://twitter.com/search?q=%e3%83%87%e3%83%83%e3%83%89%e3%83%ad%e3%83%83%e3%82%af) | N/A |
-| 13 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 14 | [MahkumudaAffedin Helalleşelim](http://twitter.com/search?q=MahkumudaAffedin+Helalle%c5%9felim) | N/A |
-| 15 | [出産条件](http://twitter.com/search?q=%e5%87%ba%e7%94%a3%e6%9d%a1%e4%bb%b6) | N/A |
-| 16 | [ひな祭り](http://twitter.com/search?q=%e3%81%b2%e3%81%aa%e7%a5%ad%e3%82%8a) | N/A |
-| 17 | [奨学金の返済減免](http://twitter.com/search?q=%e5%a5%a8%e5%ad%a6%e9%87%91%e3%81%ae%e8%bf%94%e6%b8%88%e6%b8%9b%e5%85%8d) | N/A |
-| 18 | [マシュー](http://twitter.com/search?q=%e3%83%9e%e3%82%b7%e3%83%a5%e3%83%bc) | マシュー (Matthew) is a masculine Japanese given name. It is derived from the Hebrew name Mattityahu, which means "gift of God". In English, it is usually translated as Matthew. |
-| 19 | [ハンビン](http://twitter.com/search?q=%e3%83%8f%e3%83%b3%e3%83%93%e3%83%b3) | N/A |
-| 20 | [Steve Mackey](http://twitter.com/search?q=Steve+Mackey) | N/A |
-| 21 | [BAMBAM TRACK LIST](http://twitter.com/search?q=BAMBAM+TRACK+LIST) | N/A |
-| 22 | [教育費軽減](http://twitter.com/search?q=%e6%95%99%e8%82%b2%e8%b2%bb%e8%bb%bd%e6%b8%9b) | N/A |
-| 23 | [Ekşi Sözlük Açılmasın](http://twitter.com/search?q=Ek%c5%9fi+S%c3%b6zl%c3%bck+A%c3%a7%c4%b1lmas%c4%b1n) | N/A |
-| 24 | [自民調査会](http://twitter.com/search?q=%e8%87%aa%e6%b0%91%e8%aa%bf%e6%9f%bb%e4%bc%9a) | N/A |
-| 25 | [三月くん](http://twitter.com/search?q=%e4%b8%89%e6%9c%88%e3%81%8f%e3%82%93) | N/A |
-| 26 | [Bertuzzi](http://twitter.com/search?q=Bertuzzi) | N/A |
-| 27 | [SEM SENTIMENTO](http://twitter.com/search?q=SEM+SENTIMENTO) | N/A |
-| 28 | [Don Sweeney](http://twitter.com/search?q=Don+Sweeney) | N/A |
-| 29 | [奨学金減免](http://twitter.com/search?q=%e5%a5%a8%e5%ad%a6%e9%87%91%e6%b8%9b%e5%85%8d) | N/A |
-| 30 | [ルセラのペンラ](http://twitter.com/search?q=%e3%83%ab%e3%82%bb%e3%83%a9%e3%81%ae%e3%83%9a%e3%83%b3%e3%83%a9) | N/A |
-| 31 | [第406回](http://twitter.com/search?q=%e7%ac%ac406%e5%9b%9e) | N/A |
-| 32 | [Sikandar Raza](http://twitter.com/search?q=Sikandar+Raza) | N/A |
-| 33 | [LIKE IT LIKE IT RELEASE](http://twitter.com/search?q=LIKE+IT+LIKE+IT+RELEASE) | N/A |
-| 34 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
-| 35 | [重大インシデント](http://twitter.com/search?q=%e9%87%8d%e5%a4%a7%e3%82%a4%e3%83%b3%e3%82%b7%e3%83%87%e3%83%b3%e3%83%88) | N/A |
-| 36 | [ジャンハオ](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%83%b3%e3%83%8f%e3%82%aa) | N/A |
-| 37 | [TOMBOY](http://twitter.com/search?q=TOMBOY) | N/A |
-| 38 | [三月誕生日](http://twitter.com/search?q=%e4%b8%89%e6%9c%88%e8%aa%95%e7%94%9f%e6%97%a5) | N/A |
-| 39 | [グレシャム](http://twitter.com/search?q=%e3%82%b0%e3%83%ac%e3%82%b7%e3%83%a3%e3%83%a0) | グレシャム is a type of Japanese confectionery made from mochi (rice cake) and red bean paste. The name comes from the English word "graceful" and is meant to evoke the idea of a graceful, elegant dessert. In English, it can be translated as "graceful mochi". |
-| 40 | [Pulp](http://twitter.com/search?q=Pulp) | N/A |
-| 41 | [シュエンハオ](http://twitter.com/search?q=%e3%82%b7%e3%83%a5%e3%82%a8%e3%83%b3%e3%83%8f%e3%82%aa) | N/A |
-| 42 | [TOP9](http://twitter.com/search?q=TOP9) | N/A |
-| 43 | [復活のコアメダル](http://twitter.com/search?q=%e5%be%a9%e6%b4%bb%e3%81%ae%e3%82%b3%e3%82%a2%e3%83%a1%e3%83%80%e3%83%ab) | N/A |
-| 44 | [Medina Cantalejo](http://twitter.com/search?q=Medina+Cantalejo) | N/A |
-| 45 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
-| 46 | [Dior](http://twitter.com/search?q=Dior) | Dior is a French luxury fashion house founded in 1946 by Christian Dior. The name Dior is derived from the founder's surname and is an abbreviation of his full name, Christian Dior. In English, it means "of or relating to Christian Dior". |
-| 47 | [Aurora](http://twitter.com/search?q=Aurora) | N/A |
-| 48 | [単線区間](http://twitter.com/search?q=%e5%8d%98%e7%b7%9a%e5%8c%ba%e9%96%93) | N/A |
-| 49 | [Indomie Yatai](http://twitter.com/search?q=Indomie+Yatai) | N/A |
-| 50 | [冬馬くん](http://twitter.com/search?q=%e5%86%ac%e9%a6%ac%e3%81%8f%e3%82%93) | N/A |
+| 1 | [#الهلال_الوحده](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84_%d8%a7%d9%84%d9%88%d8%ad%d8%af%d9%87) | N/A |
+| 2 | [العويس](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%88%d9%8a%d8%b3) | العويس is an Arabic phrase that translates to "the one who is away". It is often used to refer to someone who has gone away or is absent. |
+| 3 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
+| 4 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
+| 5 | [Rosario](http://twitter.com/search?q=Rosario) | N/A |
+| 6 | [Kemal Kılıçdaroğlu](http://twitter.com/search?q=Kemal+K%c4%b1l%c4%b1%c3%a7daro%c4%9flu) | Kemal Kılıçdaroğlu is a Turkish politician who has been the leader of the Republican People's Party (CHP) since 2010. His name translates to "Kemal Sword of Justice" in English. |
+| 7 | [ハイパーインフレーション](http://twitter.com/search?q=%e3%83%8f%e3%82%a4%e3%83%91%e3%83%bc%e3%82%a4%e3%83%b3%e3%83%95%e3%83%ac%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3) | ハイパーインフレーション is a term used to describe a situation in which the rate of inflation is extremely high. It is a phenomenon that occurs when prices rise rapidly and the value of money decreases significantly. In English, it can be translated as "hyperinflation". |
+| 8 | [#LQvQG](http://twitter.com/search?q=%23LQvQG) | N/A |
+| 9 | [#6lımasa](http://twitter.com/search?q=%236l%c4%b1masa) | N/A |
+| 10 | [#goLOUD](http://twitter.com/search?q=%23goLOUD) | N/A |
+| 11 | [Aspas](http://twitter.com/search?q=Aspas) | Aspas is a Spanish word meaning quotation marks or inverted commas. It is used to indicate direct speech or to set off a phrase or word for emphasis. |
+| 12 | [#WorldBookDay2023](http://twitter.com/search?q=%23WorldBookDay2023) | N/A |
+| 13 | [Sue Gray](http://twitter.com/search?q=Sue+Gray) | N/A |
+| 14 | [البريك](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b1%d9%8a%d9%83) | البريك is an Arabic word that means "blessing". It is used to express a wish for good fortune or success. |
+| 15 | [Hershey](http://twitter.com/search?q=Hershey) | N/A |
+| 16 | [Ekşi Sözlük Açılmasın](http://twitter.com/search?q=Ek%c5%9fi+S%c3%b6zl%c3%bck+A%c3%a7%c4%b1lmas%c4%b1n) | N/A |
+| 17 | [Ali Babacan](http://twitter.com/search?q=Ali+Babacan) | Ali Babacan is a Turkish name. It is derived from the Arabic phrase "Ali Baba Khan", which means "noble leader". In English, it can be translated to mean "noble leader Ali". |
+| 18 | [الوحدة](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%ad%d8%af%d8%a9) | N/A |
+| 19 | [Steve Mackey](http://twitter.com/search?q=Steve+Mackey) | N/A |
+| 20 | [嵐ちゃん](http://twitter.com/search?q=%e5%b5%90%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 21 | [Muharrem İnce](http://twitter.com/search?q=Muharrem+%c4%b0nce) | N/A |
+| 22 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
+| 23 | [San Vicente del Caguán](http://twitter.com/search?q=San+Vicente+del+Cagu%c3%a1n) | N/A |
+| 24 | [ESMAD](http://twitter.com/search?q=ESMAD) | N/A |
+| 25 | [ボイプラ](http://twitter.com/search?q=%e3%83%9c%e3%82%a4%e3%83%97%e3%83%a9) | ボイプラ is short for ボイスプラス, which is a Japanese voice-based social media platform. It allows users to create and share audio clips with their friends and followers. The English translation of ボイプラ would be Voice Plus. |
+| 26 | [デッドロック](http://twitter.com/search?q=%e3%83%87%e3%83%83%e3%83%89%e3%83%ad%e3%83%83%e3%82%af) | N/A |
+| 27 | [Jim Griffin](http://twitter.com/search?q=Jim+Griffin) | N/A |
+| 28 | [DBD映画化](http://twitter.com/search?q=DBD%e6%98%a0%e7%94%bb%e5%8c%96) | N/A |
+| 29 | [قول ميشيل](http://twitter.com/search?q=%d9%82%d9%88%d9%84+%d9%85%d9%8a%d8%b4%d9%8a%d9%84) | N/A |
+| 30 | [Quetta](http://twitter.com/search?q=Quetta) | Quetta is a city in Pakistan located in the province of Balochistan. The name Quetta is derived from the Pashto word "Kwatak", meaning fort. In English, Quetta translates to "fortress". |
+| 31 | [Bertuzzi](http://twitter.com/search?q=Bertuzzi) | N/A |
+| 32 | [Aníbal Fernández](http://twitter.com/search?q=An%c3%adbal+Fern%c3%a1ndez) | N/A |
+| 33 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 34 | [Pulp](http://twitter.com/search?q=Pulp) | N/A |
+| 35 | [Pazartesi](http://twitter.com/search?q=Pazartesi) | N/A |
+| 36 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 37 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 38 | [MahkumudaAffedin Helalleşelim](http://twitter.com/search?q=MahkumudaAffedin+Helalle%c5%9felim) | N/A |
+| 39 | [Weather Report](http://twitter.com/search?q=Weather+Report) | N/A |
+| 40 | [LTIR](http://twitter.com/search?q=LTIR) | N/A |
+| 41 | [Sarfaraz](http://twitter.com/search?q=Sarfaraz) | Sarfaraz is an Arabic name meaning "commander" or "leader". It is also used as a title of respect for a person of high rank. |
+| 42 | [Lahore Qalandars](http://twitter.com/search?q=Lahore+Qalandars) | N/A |
+| 43 | [Sikandar Raza](http://twitter.com/search?q=Sikandar+Raza) | N/A |
+| 44 | [Bateman](http://twitter.com/search?q=Bateman) | N/A |
+| 45 | [出産条件](http://twitter.com/search?q=%e5%87%ba%e7%94%a3%e6%9d%a1%e4%bb%b6) | N/A |
+| 46 | [ひな祭り](http://twitter.com/search?q=%e3%81%b2%e3%81%aa%e7%a5%ad%e3%82%8a) | N/A |
+| 47 | [ElClasico On FanCode](http://twitter.com/search?q=ElClasico+On+FanCode) | N/A |
+| 48 | [Dior](http://twitter.com/search?q=Dior) | Dior is a French luxury fashion house founded in 1946 by Christian Dior. The name Dior is derived from the founder's surname and is an abbreviation of his full name, Christian Dior. In English, it means "of or relating to Christian Dior". |
+| 49 | [BAMBAM TRACK LIST](http://twitter.com/search?q=BAMBAM+TRACK+LIST) | N/A |
+| 50 | [グレシャム](http://twitter.com/search?q=%e3%82%b0%e3%83%ac%e3%82%b7%e3%83%a3%e3%83%a0) | グレシャム is a type of Japanese confectionery made from mochi (rice cake) and red bean paste. The name comes from the English word "graceful" and is meant to evoke the idea of a graceful, elegant dessert. In English, it can be translated as "graceful mochi". |
 
 
 

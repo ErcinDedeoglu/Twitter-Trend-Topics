@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Birmingham
 
-📆 Last Updated: `2023-03-02 16:16:40 UTC`
+📆 Last Updated: `2023-03-02 18:16:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 2 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
-| 3 | [Thiago](http://twitter.com/search?q=Thiago) | Thiago is a Portuguese and Spanish name derived from the Latin name Thiagus, which means "beloved". It is also a common nickname for the name Santiago. |
-| 4 | [#BorisJohnson](http://twitter.com/search?q=%23BorisJohnson) | N/A |
-| 5 | [#MurdaughTrial](http://twitter.com/search?q=%23MurdaughTrial) | N/A |
-| 6 | [#InternationalWomensDay2023](http://twitter.com/search?q=%23InternationalWomensDay2023) | N/A |
-| 7 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 8 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
-| 9 | [Royals](http://twitter.com/search?q=Royals) | N/A |
-| 10 | [Steve Mackey](http://twitter.com/search?q=Steve+Mackey) | N/A |
-| 11 | [Sue Gray](http://twitter.com/search?q=Sue+Gray) | N/A |
-| 12 | [Pulp](http://twitter.com/search?q=Pulp) | N/A |
-| 13 | [John Swinney](http://twitter.com/search?q=John+Swinney) | N/A |
-| 14 | [manchester arena](http://twitter.com/search?q=manchester+arena) | N/A |
-| 15 | [TIFFANY](http://twitter.com/search?q=TIFFANY) | N/A |
-| 16 | [Year 3](http://twitter.com/search?q=Year+3) | N/A |
-| 17 | [McDonalds](http://twitter.com/search?q=McDonalds) | N/A |
-| 18 | [Lee Anderson](http://twitter.com/search?q=Lee+Anderson) | N/A |
-| 19 | [Partygate](http://twitter.com/search?q=Partygate) | N/A |
-| 20 | [The Tiger Who Came to Tea](http://twitter.com/search?q=The+Tiger+Who+Came+to+Tea) | N/A |
-| 21 | [Hancock](http://twitter.com/search?q=Hancock) | N/A |
-| 22 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
-| 23 | [Stepped](http://twitter.com/search?q=Stepped) | N/A |
-| 24 | [George Russell](http://twitter.com/search?q=George+Russell) | N/A |
-| 25 | [My President](http://twitter.com/search?q=My+President) | N/A |
-| 26 | [Isabel](http://twitter.com/search?q=Isabel) | N/A |
-| 27 | [Rats](http://twitter.com/search?q=Rats) | N/A |
-| 28 | [Badenoch](http://twitter.com/search?q=Badenoch) | N/A |
-| 29 | [30p Lee](http://twitter.com/search?q=30p+Lee) | N/A |
-| 30 | [New IRA](http://twitter.com/search?q=New+IRA) | N/A |
-| 31 | [Class 1](http://twitter.com/search?q=Class+1) | N/A |
-| 32 | [Library](http://twitter.com/search?q=Library) | N/A |
-| 33 | [Reception](http://twitter.com/search?q=Reception) | N/A |
-| 34 | [Hersheys](http://twitter.com/search?q=Hersheys) | N/A |
-| 35 | [Wally](http://twitter.com/search?q=Wally) | N/A |
-| 36 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 37 | [lockdown](http://twitter.com/search?q=lockdown) | N/A |
-| 38 | [WH Smith](http://twitter.com/search?q=WH+Smith) | N/A |
-| 39 | [Bunny](http://twitter.com/search?q=Bunny) | N/A |
-| 40 | [Reform](http://twitter.com/search?q=Reform) | N/A |
-| 41 | [Julia Donaldson](http://twitter.com/search?q=Julia+Donaldson) | N/A |
-| 42 | [Alice in Wonderland](http://twitter.com/search?q=Alice+in+Wonderland) | N/A |
-| 43 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
-| 44 | [JCOLE](http://twitter.com/search?q=JCOLE) | N/A |
-| 45 | [Richard Tice](http://twitter.com/search?q=Richard+Tice) | N/A |
-| 46 | [Williamson](http://twitter.com/search?q=Williamson) | N/A |
-| 47 | [Nursery](http://twitter.com/search?q=Nursery) | N/A |
-| 48 | [Teachers](http://twitter.com/search?q=Teachers) | N/A |
-| 49 | [Matilda](http://twitter.com/search?q=Matilda) | Matilda is a female given name of Germanic origin, derived from the words maht (meaning "might, strength") and hild (meaning "battle"). It is often associated with the English queen Matilda of Flanders. The name can also be used as a nickname for Matilda or Mathilde. |
-| 50 | [Unions](http://twitter.com/search?q=Unions) | N/A |
+| 1 | [Nadine](http://twitter.com/search?q=Nadine) | Nadine is a female given name of French origin, derived from the name Nadia. It is a variant of the name Nadia, which is derived from the Russian name Nadezhda, meaning “hope”. |
+| 2 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 3 | [#ntsummit](http://twitter.com/search?q=%23ntsummit) | N/A |
+| 4 | [#SaveOurSchools](http://twitter.com/search?q=%23SaveOurSchools) | N/A |
+| 5 | [Thiago](http://twitter.com/search?q=Thiago) | Thiago is a Portuguese and Spanish name derived from the Latin name Thiagus, which means "beloved". It is also a common nickname for the name Santiago. |
+| 6 | [#innovation](http://twitter.com/search?q=%23innovation) | N/A |
+| 7 | [Sue Gray](http://twitter.com/search?q=Sue+Gray) | N/A |
+| 8 | [#WorldBookDay2023](http://twitter.com/search?q=%23WorldBookDay2023) | N/A |
+| 9 | [Steve Mackey](http://twitter.com/search?q=Steve+Mackey) | N/A |
+| 10 | [#TheChase](http://twitter.com/search?q=%23TheChase) | N/A |
+| 11 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
+| 12 | [Partygate](http://twitter.com/search?q=Partygate) | N/A |
+| 13 | [Civil Service](http://twitter.com/search?q=Civil+Service) | N/A |
+| 14 | [John Swinney](http://twitter.com/search?q=John+Swinney) | N/A |
+| 15 | [Pulp](http://twitter.com/search?q=Pulp) | N/A |
+| 16 | [Simon Case](http://twitter.com/search?q=Simon+Case) | N/A |
+| 17 | [ACOBA](http://twitter.com/search?q=ACOBA) | N/A |
+| 18 | [Chief of Staff](http://twitter.com/search?q=Chief+of+Staff) | N/A |
+| 19 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
+| 20 | [Manchester Arena](http://twitter.com/search?q=Manchester+Arena) | N/A |
+| 21 | [Cabinet Office](http://twitter.com/search?q=Cabinet+Office) | N/A |
+| 22 | [Year 5](http://twitter.com/search?q=Year+5) | N/A |
+| 23 | [The Tiger Who Came to Tea](http://twitter.com/search?q=The+Tiger+Who+Came+to+Tea) | N/A |
+| 24 | [Rats](http://twitter.com/search?q=Rats) | N/A |
+| 25 | [Civil Servants](http://twitter.com/search?q=Civil+Servants) | N/A |
+| 26 | [McDonalds](http://twitter.com/search?q=McDonalds) | N/A |
+| 27 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 28 | [Hershey](http://twitter.com/search?q=Hershey) | N/A |
+| 29 | [Salman Abedi](http://twitter.com/search?q=Salman+Abedi) | N/A |
+| 30 | [Lee Anderson](http://twitter.com/search?q=Lee+Anderson) | N/A |
+| 31 | [30p Lee](http://twitter.com/search?q=30p+Lee) | N/A |
+| 32 | [Lockdown](http://twitter.com/search?q=Lockdown) | N/A |
+| 33 | [New IRA](http://twitter.com/search?q=New+IRA) | N/A |
+| 34 | [Stepped](http://twitter.com/search?q=Stepped) | N/A |
+| 35 | [Isabel](http://twitter.com/search?q=Isabel) | N/A |
+| 36 | [George Russell](http://twitter.com/search?q=George+Russell) | N/A |
+| 37 | [Wally](http://twitter.com/search?q=Wally) | N/A |
+| 38 | [My President](http://twitter.com/search?q=My+President) | N/A |
+| 39 | [Reception](http://twitter.com/search?q=Reception) | N/A |
+| 40 | [mnet](http://twitter.com/search?q=mnet) | N/A |
+| 41 | [Badenoch](http://twitter.com/search?q=Badenoch) | N/A |
+| 42 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
+| 43 | [Essex](http://twitter.com/search?q=Essex) | N/A |
+| 44 | [Nursery](http://twitter.com/search?q=Nursery) | N/A |
+| 45 | [Julia Donaldson](http://twitter.com/search?q=Julia+Donaldson) | N/A |
+| 46 | [Wo Long](http://twitter.com/search?q=Wo+Long) | N/A |
+| 47 | [Library](http://twitter.com/search?q=Library) | N/A |
+| 48 | [Reform](http://twitter.com/search?q=Reform) | N/A |
+| 49 | [Richard Tice](http://twitter.com/search?q=Richard+Tice) | N/A |
+| 50 | [GDPR](http://twitter.com/search?q=GDPR) | N/A |
 
 
 

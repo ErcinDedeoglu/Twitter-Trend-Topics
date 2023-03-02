@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gothenburg
 
-📆 Last Updated: `2023-03-02 16:16:58 UTC`
+📆 Last Updated: `2023-03-02 18:17:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,52 @@ This is top 50 for [Sweden](</Sweden>)
 | ------- | ------------ | ------------ |
 | 1 | [Brunnsparken](http://twitter.com/search?q=Brunnsparken) | N/A |
 | 2 | [Gardell](http://twitter.com/search?q=Gardell) | N/A |
-| 3 | [Frida](http://twitter.com/search?q=Frida) | N/A |
-| 4 | [Utdelning](http://twitter.com/search?q=Utdelning) | N/A |
-| 5 | [Ungern](http://twitter.com/search?q=Ungern) | N/A |
-| 6 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 7 | [Maja](http://twitter.com/search?q=Maja) | N/A |
-| 8 | [guldspaden](http://twitter.com/search?q=guldspaden) | N/A |
+| 3 | [Allahu Akbar](http://twitter.com/search?q=Allahu+Akbar) | N/A |
+| 4 | [Frida](http://twitter.com/search?q=Frida) | N/A |
+| 5 | [Utdelning](http://twitter.com/search?q=Utdelning) | N/A |
+| 6 | [Göteborg](http://twitter.com/search?q=G%c3%b6teborg) | N/A |
+| 7 | [Ungern](http://twitter.com/search?q=Ungern) | N/A |
+| 8 | [Guldspaden](http://twitter.com/search?q=Guldspaden) | N/A |
 | 9 | [#vardagpåminplanet](http://twitter.com/search?q=%23vardagp%c3%a5minplanet) | N/A |
 | 10 | [Småland](http://twitter.com/search?q=Sm%c3%a5land) | N/A |
-| 11 | [Göteborg](http://twitter.com/search?q=G%c3%b6teborg) | N/A |
+| 11 | [#ARSEVE](http://twitter.com/search?q=%23ARSEVE) | N/A |
 | 12 | [Lagrådet](http://twitter.com/search?q=Lagr%c3%a5det) | N/A |
-| 13 | [#ARSEVE](http://twitter.com/search?q=%23ARSEVE) | N/A |
-| 14 | [#skidvm](http://twitter.com/search?q=%23skidvm) | N/A |
-| 15 | [#Arsenal](http://twitter.com/search?q=%23Arsenal) | N/A |
-| 16 | [Jonna](http://twitter.com/search?q=Jonna) | N/A |
+| 13 | [Maja](http://twitter.com/search?q=Maja) | N/A |
+| 14 | [#Arsenal](http://twitter.com/search?q=%23Arsenal) | N/A |
+| 15 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 16 | [#skidvm](http://twitter.com/search?q=%23skidvm) | N/A |
 | 17 | [Bryansk](http://twitter.com/search?q=Bryansk) | N/A |
-| 18 | [jota](http://twitter.com/search?q=jota) | N/A |
-| 19 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 20 | [Tierney](http://twitter.com/search?q=Tierney) | Tierney is a surname of Irish origin. It is derived from the Gaelic name Ó Tíghearnaigh, which means "descendant of the lord". |
-| 21 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 22 | [Bolund](http://twitter.com/search?q=Bolund) | N/A |
-| 23 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 24 | [Danjuma](http://twitter.com/search?q=Danjuma) | Danjuma is a Nigerian name of Yoruba origin. It means "God has done it" in English. |
-| 25 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 26 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 27 | [Demirok](http://twitter.com/search?q=Demirok) | N/A |
-| 28 | [LETAR](http://twitter.com/search?q=LETAR) | N/A |
-| 29 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 30 | [bagarmossen](http://twitter.com/search?q=bagarmossen) | N/A |
-| 31 | [Ebbas](http://twitter.com/search?q=Ebbas) | N/A |
-| 32 | [Bregott](http://twitter.com/search?q=Bregott) | N/A |
-| 33 | [jägersro](http://twitter.com/search?q=j%c3%a4gersro) | N/A |
-| 34 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
-| 35 | [Pikamee](http://twitter.com/search?q=Pikamee) | N/A |
-| 36 | [Murre](http://twitter.com/search?q=Murre) | N/A |
-| 37 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 38 | [Yasin](http://twitter.com/search?q=Yasin) | N/A |
-| 39 | [Kevin](http://twitter.com/search?q=Kevin) | N/A |
-| 40 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 41 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
-| 42 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 43 | [FA-cupen](http://twitter.com/search?q=FA-cupen) | N/A |
-| 44 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 45 | [Wallenberg](http://twitter.com/search?q=Wallenberg) | N/A |
-| 46 | [nacka](http://twitter.com/search?q=nacka) | N/A |
-| 47 | [Juha Valjakkala](http://twitter.com/search?q=Juha+Valjakkala) | N/A |
-| 48 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
+| 18 | [Jota](http://twitter.com/search?q=Jota) | N/A |
+| 19 | [Tierney](http://twitter.com/search?q=Tierney) | Tierney is a surname of Irish origin. It is derived from the Gaelic name Ó Tíghearnaigh, which means "descendant of the lord". |
+| 20 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 21 | [Fössta](http://twitter.com/search?q=F%c3%b6ssta) | N/A |
+| 22 | [Jonna](http://twitter.com/search?q=Jonna) | N/A |
+| 23 | [Danjuma](http://twitter.com/search?q=Danjuma) | Danjuma is a Nigerian name of Yoruba origin. It means "God has done it" in English. |
+| 24 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 25 | [Bolund](http://twitter.com/search?q=Bolund) | N/A |
+| 26 | [Letar](http://twitter.com/search?q=Letar) | N/A |
+| 27 | [Bregott](http://twitter.com/search?q=Bregott) | N/A |
+| 28 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 29 | [Pikamee](http://twitter.com/search?q=Pikamee) | N/A |
+| 30 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
+| 31 | [Kevin](http://twitter.com/search?q=Kevin) | N/A |
+| 32 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 33 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 34 | [Eskilstuna](http://twitter.com/search?q=Eskilstuna) | N/A |
+| 35 | [Demirok](http://twitter.com/search?q=Demirok) | N/A |
+| 36 | [Cola Zero](http://twitter.com/search?q=Cola+Zero) | N/A |
+| 37 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
+| 38 | [Ebbas](http://twitter.com/search?q=Ebbas) | N/A |
+| 39 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 40 | [juha valjakkala](http://twitter.com/search?q=juha+valjakkala) | N/A |
+| 41 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 42 | [Yasin](http://twitter.com/search?q=Yasin) | N/A |
+| 43 | [Jägersro](http://twitter.com/search?q=J%c3%a4gersro) | N/A |
+| 44 | [FA-cupen](http://twitter.com/search?q=FA-cupen) | N/A |
+| 45 | [Mandalorian](http://twitter.com/search?q=Mandalorian) | N/A |
+| 46 | [Värmland](http://twitter.com/search?q=V%c3%a4rmland) | N/A |
+| 47 | [Gösta](http://twitter.com/search?q=G%c3%b6sta) | N/A |
+| 48 | [Murre](http://twitter.com/search?q=Murre) | N/A |
 
 
 

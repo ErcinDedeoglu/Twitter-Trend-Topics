@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nigeria
 
-📆 Last Updated: `2023-03-02 16:17:31 UTC`
+📆 Last Updated: `2023-03-02 18:18:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,49 @@ This is top 50 for Nigeria
 | ------- | ------------ | ------------ |
 | 1 | [#PeterObiMyPresident](http://twitter.com/search?q=%23PeterObiMyPresident) | N/A |
 | 2 | [#KenyaVsNigeria](http://twitter.com/search?q=%23KenyaVsNigeria) | N/A |
-| 3 | [WHAT A MAN](http://twitter.com/search?q=WHAT+A+MAN) | N/A |
-| 4 | [HE Peter Obi](http://twitter.com/search?q=HE+Peter+Obi) | N/A |
-| 5 | [#LADO4GOV](http://twitter.com/search?q=%23LADO4GOV) | N/A |
-| 6 | [His Excellency](http://twitter.com/search?q=His+Excellency) | N/A |
-| 7 | [#RussiaIsCollapsing](http://twitter.com/search?q=%23RussiaIsCollapsing) | N/A |
-| 8 | [#LGBTQ](http://twitter.com/search?q=%23LGBTQ) | N/A |
-| 9 | [World Press Conference](http://twitter.com/search?q=World+Press+Conference) | N/A |
-| 10 | [Our President](http://twitter.com/search?q=Our+President) | N/A |
-| 11 | [Exhibit 1](http://twitter.com/search?q=Exhibit+1) | N/A |
-| 12 | [Peter Obi 2023](http://twitter.com/search?q=Peter+Obi+2023) | N/A |
-| 13 | [Okwute](http://twitter.com/search?q=Okwute) | N/A |
-| 14 | [Festus Okoye](http://twitter.com/search?q=Festus+Okoye) | N/A |
-| 15 | [Bode George](http://twitter.com/search?q=Bode+George) | N/A |
-| 16 | [Seun](http://twitter.com/search?q=Seun) | N/A |
-| 17 | [Femi](http://twitter.com/search?q=Femi) | N/A |
-| 18 | [Seyi tinubu](http://twitter.com/search?q=Seyi+tinubu) | N/A |
-| 19 | [My Presido](http://twitter.com/search?q=My+Presido) | N/A |
-| 20 | [Omo Igbo](http://twitter.com/search?q=Omo+Igbo) | N/A |
-| 21 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
-| 22 | [Shola](http://twitter.com/search?q=Shola) | N/A |
-| 23 | [The Rock](http://twitter.com/search?q=The+Rock) | N/A |
-| 24 | [Daddy](http://twitter.com/search?q=Daddy) | N/A |
-| 25 | [Fayose](http://twitter.com/search?q=Fayose) | N/A |
-| 26 | [AriseTV](http://twitter.com/search?q=AriseTV) | N/A |
-| 27 | [National TV](http://twitter.com/search?q=National+TV) | N/A |
-| 28 | [Mandate](http://twitter.com/search?q=Mandate) | N/A |
-| 29 | [Precious](http://twitter.com/search?q=Precious) | N/A |
-| 30 | [Chioma](http://twitter.com/search?q=Chioma) | N/A |
-| 31 | [Certificate](http://twitter.com/search?q=Certificate) | N/A |
-| 32 | [Pamilerin](http://twitter.com/search?q=Pamilerin) | N/A |
-| 33 | [Ambode](http://twitter.com/search?q=Ambode) | N/A |
-| 34 | [Happy Birthday Sir](http://twitter.com/search?q=Happy+Birthday+Sir) | N/A |
-| 35 | [Arise News](http://twitter.com/search?q=Arise+News) | N/A |
-| 36 | [Jide](http://twitter.com/search?q=Jide) | N/A |
-| 37 | [Judge](http://twitter.com/search?q=Judge) | N/A |
-| 38 | [#emergencyalert](http://twitter.com/search?q=%23emergencyalert) | N/A |
-| 39 | [#Survivor](http://twitter.com/search?q=%23Survivor) | N/A |
-| 40 | [#SanwoIsBetter](http://twitter.com/search?q=%23SanwoIsBetter) | N/A |
-| 41 | [#potm](http://twitter.com/search?q=%23potm) | N/A |
-| 42 | [#FUT23](http://twitter.com/search?q=%23FUT23) | N/A |
-| 43 | [#Natasharitualscandal](http://twitter.com/search?q=%23Natasharitualscandal) | N/A |
-| 44 | [#Enoch](http://twitter.com/search?q=%23Enoch) | N/A |
+| 3 | [Adamu](http://twitter.com/search?q=Adamu) | N/A |
+| 4 | [WHAT A MAN](http://twitter.com/search?q=WHAT+A+MAN) | N/A |
+| 5 | [#LGBTQ](http://twitter.com/search?q=%23LGBTQ) | N/A |
+| 6 | [#RussiaIsCollapsing](http://twitter.com/search?q=%23RussiaIsCollapsing) | N/A |
+| 7 | [His Excellency](http://twitter.com/search?q=His+Excellency) | N/A |
+| 8 | [Transcorp Hilton](http://twitter.com/search?q=Transcorp+Hilton) | N/A |
+| 9 | [HE Peter Obi](http://twitter.com/search?q=HE+Peter+Obi) | N/A |
+| 10 | [Bishop Feyi](http://twitter.com/search?q=Bishop+Feyi) | N/A |
+| 11 | [Prove](http://twitter.com/search?q=Prove) | N/A |
+| 12 | [World Press Conference](http://twitter.com/search?q=World+Press+Conference) | N/A |
+| 13 | [#emergencyalert](http://twitter.com/search?q=%23emergencyalert) | N/A |
+| 14 | [Opay](http://twitter.com/search?q=Opay) | N/A |
+| 15 | [Enoch](http://twitter.com/search?q=Enoch) | N/A |
+| 16 | [Our President](http://twitter.com/search?q=Our+President) | N/A |
+| 17 | [Exhibit 1](http://twitter.com/search?q=Exhibit+1) | N/A |
+| 18 | [Okwute](http://twitter.com/search?q=Okwute) | N/A |
+| 19 | [Hope Uzodinma](http://twitter.com/search?q=Hope+Uzodinma) | N/A |
+| 20 | [APC in Lagos](http://twitter.com/search?q=APC+in+Lagos) | N/A |
+| 21 | [Femi](http://twitter.com/search?q=Femi) | N/A |
+| 22 | [Titan](http://twitter.com/search?q=Titan) | Titan is a term used to refer to something that is very large or powerful. It can be used to describe a person, an organization, or an object. In Greek mythology, the Titans were a race of powerful gods who ruled the universe before the Olympian gods. |
+| 23 | [Festus Okoye](http://twitter.com/search?q=Festus+Okoye) | N/A |
+| 24 | [Bode George](http://twitter.com/search?q=Bode+George) | N/A |
+| 25 | [Seun](http://twitter.com/search?q=Seun) | N/A |
+| 26 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
+| 27 | [Royals](http://twitter.com/search?q=Royals) | N/A |
+| 28 | [Certificate](http://twitter.com/search?q=Certificate) | N/A |
+| 29 | [Seyi Tinubu](http://twitter.com/search?q=Seyi+Tinubu) | N/A |
+| 30 | [Omo Igbo](http://twitter.com/search?q=Omo+Igbo) | N/A |
+| 31 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 32 | [Fayose](http://twitter.com/search?q=Fayose) | N/A |
+| 33 | [Shola](http://twitter.com/search?q=Shola) | N/A |
+| 34 | [Yelisa](http://twitter.com/search?q=Yelisa) | Yelisa is a Spanish name derived from the Hebrew name Elisheva, which means “God is my oath”. In English, it can be translated to mean “God is my promise”. |
+| 35 | [The Rock](http://twitter.com/search?q=The+Rock) | N/A |
+| 36 | [Chioma](http://twitter.com/search?q=Chioma) | N/A |
+| 37 | [Ambode](http://twitter.com/search?q=Ambode) | N/A |
+| 38 | [Precious](http://twitter.com/search?q=Precious) | N/A |
+| 39 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 40 | [#SupremeCourt](http://twitter.com/search?q=%23SupremeCourt) | N/A |
+| 41 | [#LADO4GOV](http://twitter.com/search?q=%23LADO4GOV) | N/A |
+| 42 | [#Survivor](http://twitter.com/search?q=%23Survivor) | N/A |
+| 43 | [#SanwoIsBetter](http://twitter.com/search?q=%23SanwoIsBetter) | N/A |
+| 44 | [#GRVisComing](http://twitter.com/search?q=%23GRVisComing) | N/A |
 | 45 | [#Grv4Lagos](http://twitter.com/search?q=%23Grv4Lagos) | N/A |
-| 46 | [#OMAnnecy](http://twitter.com/search?q=%23OMAnnecy) | N/A |
-| 47 | [#SanwoAgain](http://twitter.com/search?q=%23SanwoAgain) | N/A |
-| 48 | [#SanwoLekansi](http://twitter.com/search?q=%23SanwoLekansi) | N/A |
-| 49 | [#GRVisComing](http://twitter.com/search?q=%23GRVisComing) | N/A |
 
 
 

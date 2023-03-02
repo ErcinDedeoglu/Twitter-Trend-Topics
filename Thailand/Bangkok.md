@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bangkok
 
-📆 Last Updated: `2023-03-02 16:17:06 UTC`
+📆 Last Updated: `2023-03-02 18:17:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,43 @@ This is top 50 for [Thailand](</Thailand>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#เจมีไนน์โฟร์ท](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%88%e0%b8%a1%e0%b8%b5%e0%b9%84%e0%b8%99%e0%b8%99%e0%b9%8c%e0%b9%82%e0%b8%9f%e0%b8%a3%e0%b9%8c%e0%b8%97) | N/A |
-| 2 | [#BienvenueWINWINàParis](http://twitter.com/search?q=%23BienvenueWINWIN%c3%a0Paris) | N/A |
-| 3 | [#ร้องข้ามกําแพง](http://twitter.com/search?q=%23%e0%b8%a3%e0%b9%89%e0%b8%ad%e0%b8%87%e0%b8%82%e0%b9%89%e0%b8%b2%e0%b8%a1%e0%b8%81%e0%b9%8d%e0%b8%b2%e0%b9%81%e0%b8%9e%e0%b8%87) | N/A |
-| 4 | [#SourandSweetTrackList](http://twitter.com/search?q=%23SourandSweetTrackList) | N/A |
-| 5 | [BAMBAM TRACK LIST](http://twitter.com/search?q=BAMBAM+TRACK+LIST) | N/A |
-| 6 | [#FREENBECKxFANDOMLIVE](http://twitter.com/search?q=%23FREENBECKxFANDOMLIVE) | N/A |
-| 7 | [nnn shopee33](http://twitter.com/search?q=nnn+shopee33) | N/A |
-| 8 | [Twerk](http://twitter.com/search?q=Twerk) | N/A |
-| 9 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
-| 10 | [#MoonlightChickenFinalEP](http://twitter.com/search?q=%23MoonlightChickenFinalEP) | N/A |
-| 11 | [#อัยย์ไน๋พระจันทร์ดวงเดิม](http://twitter.com/search?q=%23%e0%b8%ad%e0%b8%b1%e0%b8%a2%e0%b8%a2%e0%b9%8c%e0%b9%84%e0%b8%99%e0%b9%8b%e0%b8%9e%e0%b8%a3%e0%b8%b0%e0%b8%88%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%a3%e0%b9%8c%e0%b8%94%e0%b8%a7%e0%b8%87%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%a1) | N/A |
-| 12 | [#MangosteenxThe1975](http://twitter.com/search?q=%23MangosteenxThe1975) | N/A |
-| 13 | [#MISTINExTARBOM](http://twitter.com/search?q=%23MISTINExTARBOM) | N/A |
-| 14 | [#JiminXTiffanyAndCo](http://twitter.com/search?q=%23JiminXTiffanyAndCo) | N/A |
-| 15 | [#LOrealSkincareXBoss](http://twitter.com/search?q=%23LOrealSkincareXBoss) | N/A |
+| 1 | [#ฟรีนเบค](http://twitter.com/search?q=%23%e0%b8%9f%e0%b8%a3%e0%b8%b5%e0%b8%99%e0%b9%80%e0%b8%9a%e0%b8%84) | N/A |
+| 2 | [#ร้องข้ามกําแพง](http://twitter.com/search?q=%23%e0%b8%a3%e0%b9%89%e0%b8%ad%e0%b8%87%e0%b8%82%e0%b9%89%e0%b8%b2%e0%b8%a1%e0%b8%81%e0%b9%8d%e0%b8%b2%e0%b9%81%e0%b8%9e%e0%b8%87) | N/A |
+| 3 | [#SourandSweetTrackList](http://twitter.com/search?q=%23SourandSweetTrackList) | N/A |
+| 4 | [BAMBAM TRACK LIST](http://twitter.com/search?q=BAMBAM+TRACK+LIST) | N/A |
+| 5 | [#FREENBECKxFANDOMLIVE](http://twitter.com/search?q=%23FREENBECKxFANDOMLIVE) | N/A |
+| 6 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
+| 7 | [NNN Shopee33](http://twitter.com/search?q=NNN+Shopee33) | N/A |
+| 8 | [#JiminXTiffanyAndCo](http://twitter.com/search?q=%23JiminXTiffanyAndCo) | N/A |
+| 9 | [#MoonlightChickenFinalEP](http://twitter.com/search?q=%23MoonlightChickenFinalEP) | N/A |
+| 10 | [#ทีม่าโล๊ะตู้](http://twitter.com/search?q=%23%e0%b8%97%e0%b8%b5%e0%b8%a1%e0%b9%88%e0%b8%b2%e0%b9%82%e0%b8%a5%e0%b9%8a%e0%b8%b0%e0%b8%95%e0%b8%b9%e0%b9%89) | N/A |
+| 11 | [#BBTSEP3](http://twitter.com/search?q=%23BBTSEP3) | N/A |
+| 12 | [#อัยย์ไน๋พระจันทร์ดวงเดิม](http://twitter.com/search?q=%23%e0%b8%ad%e0%b8%b1%e0%b8%a2%e0%b8%a2%e0%b9%8c%e0%b9%84%e0%b8%99%e0%b9%8b%e0%b8%9e%e0%b8%a3%e0%b8%b0%e0%b8%88%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%a3%e0%b9%8c%e0%b8%94%e0%b8%a7%e0%b8%87%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%a1) | N/A |
+| 13 | [#MangosteenxThe1975](http://twitter.com/search?q=%23MangosteenxThe1975) | N/A |
+| 14 | [#TANONTGAME356](http://twitter.com/search?q=%23TANONTGAME356) | N/A |
+| 15 | [#Lazada11DayMegaSale](http://twitter.com/search?q=%23Lazada11DayMegaSale) | N/A |
 | 16 | [#LAZADA11DAYxBKPP](http://twitter.com/search?q=%23LAZADA11DAYxBKPP) | N/A |
-| 17 | [#โดนเทเซมาที่แพทxอิงฟ้า](http://twitter.com/search?q=%23%e0%b9%82%e0%b8%94%e0%b8%99%e0%b9%80%e0%b8%97%e0%b9%80%e0%b8%8b%e0%b8%a1%e0%b8%b2%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b9%81%e0%b8%9e%e0%b8%97x%e0%b8%ad%e0%b8%b4%e0%b8%87%e0%b8%9f%e0%b9%89%e0%b8%b2) | N/A |
-| 18 | [#TaLuengBabyXENGFA](http://twitter.com/search?q=%23TaLuengBabyXENGFA) | N/A |
+| 17 | [#MISTINExTARBOM](http://twitter.com/search?q=%23MISTINExTARBOM) | N/A |
+| 18 | [#โดนเทเซมาที่แพทxอิงฟ้า](http://twitter.com/search?q=%23%e0%b9%82%e0%b8%94%e0%b8%99%e0%b9%80%e0%b8%97%e0%b9%80%e0%b8%8b%e0%b8%a1%e0%b8%b2%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b9%81%e0%b8%9e%e0%b8%97x%e0%b8%ad%e0%b8%b4%e0%b8%87%e0%b8%9f%e0%b9%89%e0%b8%b2) | N/A |
 | 19 | [#เพราะรักEP12](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%9e%e0%b8%a3%e0%b8%b2%e0%b8%b0%e0%b8%a3%e0%b8%b1%e0%b8%81EP12) | N/A |
-| 20 | [#MEENPING1stFANMEETING](http://twitter.com/search?q=%23MEENPING1stFANMEETING) | N/A |
-| 21 | [#ATLASแกล้งลืมBehindTheScenes](http://twitter.com/search?q=%23ATLAS%e0%b9%81%e0%b8%81%e0%b8%a5%e0%b9%89%e0%b8%87%e0%b8%a5%e0%b8%b7%e0%b8%a1BehindTheScenes) | N/A |
-| 22 | [#Needly_TH](http://twitter.com/search?q=%23Needly_TH) | N/A |
-| 23 | [#iNEEDLYyou](http://twitter.com/search?q=%23iNEEDLYyou) | N/A |
-| 24 | [#ดั่งมนตราxเภตรานฤมิต](http://twitter.com/search?q=%23%e0%b8%94%e0%b8%b1%e0%b9%88%e0%b8%87%e0%b8%a1%e0%b8%99%e0%b8%95%e0%b8%a3%e0%b8%b2x%e0%b9%80%e0%b8%a0%e0%b8%95%e0%b8%a3%e0%b8%b2%e0%b8%99%e0%b8%a4%e0%b8%a1%e0%b8%b4%e0%b8%95) | N/A |
-| 25 | [#ตู้ซ่อนหมีxATLAS](http://twitter.com/search?q=%23%e0%b8%95%e0%b8%b9%e0%b9%89%e0%b8%8b%e0%b9%88%e0%b8%ad%e0%b8%99%e0%b8%ab%e0%b8%a1%e0%b8%b5xATLAS) | N/A |
-| 26 | [#보이즈플래닛](http://twitter.com/search?q=%23%eb%b3%b4%ec%9d%b4%ec%a6%88%ed%94%8c%eb%9e%98%eb%8b%9b) | N/A |
-| 27 | [#จัสมะลิ](http://twitter.com/search?q=%23%e0%b8%88%e0%b8%b1%e0%b8%aa%e0%b8%a1%e0%b8%b0%e0%b8%a5%e0%b8%b4) | N/A |
-| 28 | [#ฟรีนเบค](http://twitter.com/search?q=%23%e0%b8%9f%e0%b8%a3%e0%b8%b5%e0%b8%99%e0%b9%80%e0%b8%9a%e0%b8%84) | N/A |
-| 29 | [#พระนคร๒๔๑๐EP8](http://twitter.com/search?q=%23%e0%b8%9e%e0%b8%a3%e0%b8%b0%e0%b8%99%e0%b8%84%e0%b8%a3%e0%b9%92%e0%b9%94%e0%b9%91%e0%b9%90EP8) | N/A |
-| 30 | [#RPL2023Summer](http://twitter.com/search?q=%23RPL2023Summer) | N/A |
-| 31 | [#WANGZIHAO](http://twitter.com/search?q=%23WANGZIHAO) | N/A |
-| 32 | [#ทีมมมส](http://twitter.com/search?q=%23%e0%b8%97%e0%b8%b5%e0%b8%a1%e0%b8%a1%e0%b8%a1%e0%b8%aa) | N/A |
-| 33 | [#สร้อยนาคีep3](http://twitter.com/search?q=%23%e0%b8%aa%e0%b8%a3%e0%b9%89%e0%b8%ad%e0%b8%a2%e0%b8%99%e0%b8%b2%e0%b8%84%e0%b8%b5ep3) | N/A |
-| 34 | [#DiorAW23](http://twitter.com/search?q=%23DiorAW23) | N/A |
-| 35 | [#VenitaVideoCallMV](http://twitter.com/search?q=%23VenitaVideoCallMV) | N/A |
-| 36 | [#500KLOVEAROUNDMOSLHONG](http://twitter.com/search?q=%23500KLOVEAROUNDMOSLHONG) | N/A |
-| 37 | [#DVI_SugarPlay](http://twitter.com/search?q=%23DVI_SugarPlay) | N/A |
-| 38 | [#dew_jsu](http://twitter.com/search?q=%23dew_jsu) | N/A |
-| 39 | [#GeminiFourth](http://twitter.com/search?q=%23GeminiFourth) | N/A |
-| 40 | [#barcodetin](http://twitter.com/search?q=%23barcodetin) | N/A |
-| 41 | [#unit](http://twitter.com/search?q=%23unit) | N/A |
-| 42 | [#HappySaturDay](http://twitter.com/search?q=%23HappySaturDay) | N/A |
-| 43 | [#เบลล่า](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%9a%e0%b8%a5%e0%b8%a5%e0%b9%88%e0%b8%b2) | N/A |
-| 44 | [#มุกดานรินทร์รักษ์](http://twitter.com/search?q=%23%e0%b8%a1%e0%b8%b8%e0%b8%81%e0%b8%94%e0%b8%b2%e0%b8%99%e0%b8%a3%e0%b8%b4%e0%b8%99%e0%b8%97%e0%b8%a3%e0%b9%8c%e0%b8%a3%e0%b8%b1%e0%b8%81%e0%b8%a9%e0%b9%8c) | N/A |
-| 45 | [#SoundCheck_TH](http://twitter.com/search?q=%23SoundCheck_TH) | N/A |
-| 46 | [#แตงโม](http://twitter.com/search?q=%23%e0%b9%81%e0%b8%95%e0%b8%87%e0%b9%82%e0%b8%a1) | N/A |
-| 47 | [#MaxNat_30DayChallenge](http://twitter.com/search?q=%23MaxNat_30DayChallenge) | N/A |
-| 48 | [#BNK48CGM48Matsuri2023](http://twitter.com/search?q=%23BNK48CGM48Matsuri2023) | N/A |
-| 49 | [#หน้ากากหลวิชัยคาวี](http://twitter.com/search?q=%23%e0%b8%ab%e0%b8%99%e0%b9%89%e0%b8%b2%e0%b8%81%e0%b8%b2%e0%b8%81%e0%b8%ab%e0%b8%a5%e0%b8%a7%e0%b8%b4%e0%b8%8a%e0%b8%b1%e0%b8%a2%e0%b8%84%e0%b8%b2%e0%b8%a7%e0%b8%b5) | N/A |
-| 50 | [#WINWINxValentino](http://twitter.com/search?q=%23WINWINxValentino) | N/A |
+| 20 | [#TaLuengBabyXENGFA](http://twitter.com/search?q=%23TaLuengBabyXENGFA) | N/A |
+| 21 | [#เจมีไนน์โฟร์ท](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%88%e0%b8%a1%e0%b8%b5%e0%b9%84%e0%b8%99%e0%b8%99%e0%b9%8c%e0%b9%82%e0%b8%9f%e0%b8%a3%e0%b9%8c%e0%b8%97) | N/A |
+| 22 | [#MEENPING1stFANMEETING](http://twitter.com/search?q=%23MEENPING1stFANMEETING) | N/A |
+| 23 | [#보이즈플래닛](http://twitter.com/search?q=%23%eb%b3%b4%ec%9d%b4%ec%a6%88%ed%94%8c%eb%9e%98%eb%8b%9b) | N/A |
+| 24 | [#DiorAW23](http://twitter.com/search?q=%23DiorAW23) | N/A |
+| 25 | [#iNEEDLYyou](http://twitter.com/search?q=%23iNEEDLYyou) | N/A |
+| 26 | [#Needly_TH](http://twitter.com/search?q=%23Needly_TH) | N/A |
+| 27 | [#ทีมมมส](http://twitter.com/search?q=%23%e0%b8%97%e0%b8%b5%e0%b8%a1%e0%b8%a1%e0%b8%a1%e0%b8%aa) | N/A |
+| 28 | [#500KLOVEAROUNDMOSLHONG](http://twitter.com/search?q=%23500KLOVEAROUNDMOSLHONG) | N/A |
+| 29 | [#VenitaVideoCallMV](http://twitter.com/search?q=%23VenitaVideoCallMV) | N/A |
+| 30 | [#GeminiFourth](http://twitter.com/search?q=%23GeminiFourth) | N/A |
+| 31 | [#ดั่งมนตราxเภตรานฤมิต](http://twitter.com/search?q=%23%e0%b8%94%e0%b8%b1%e0%b9%88%e0%b8%87%e0%b8%a1%e0%b8%99%e0%b8%95%e0%b8%a3%e0%b8%b2x%e0%b9%80%e0%b8%a0%e0%b8%95%e0%b8%a3%e0%b8%b2%e0%b8%99%e0%b8%a4%e0%b8%a1%e0%b8%b4%e0%b8%95) | N/A |
+| 32 | [#MaxNat_30DayChallenge](http://twitter.com/search?q=%23MaxNat_30DayChallenge) | N/A |
+| 33 | [#SoundCheck_TH](http://twitter.com/search?q=%23SoundCheck_TH) | N/A |
+| 34 | [#Sunnee](http://twitter.com/search?q=%23Sunnee) | N/A |
+| 35 | [#หน้ากากหลวิชัยคาวี](http://twitter.com/search?q=%23%e0%b8%ab%e0%b8%99%e0%b9%89%e0%b8%b2%e0%b8%81%e0%b8%b2%e0%b8%81%e0%b8%ab%e0%b8%a5%e0%b8%a7%e0%b8%b4%e0%b8%8a%e0%b8%b1%e0%b8%a2%e0%b8%84%e0%b8%b2%e0%b8%a7%e0%b8%b5) | N/A |
+| 36 | [#ppnaravit](http://twitter.com/search?q=%23ppnaravit) | N/A |
+| 37 | [#BNK48CGM48Matsuri2023](http://twitter.com/search?q=%23BNK48CGM48Matsuri2023) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rawalpindi
 
-📆 Last Updated: `2023-03-02 16:17:13 UTC`
+📆 Last Updated: `2023-03-02 18:17:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Pakistan](</Pakistan>)
 | ------- | ------------ | ------------ |
 | 1 | [#LQvQG](http://twitter.com/search?q=%23LQvQG) | N/A |
 | 2 | [#DollarPrice](http://twitter.com/search?q=%23DollarPrice) | N/A |
-| 3 | [Sikandar Raza](http://twitter.com/search?q=Sikandar+Raza) | N/A |
-| 4 | [#عمران_داری_معیشت_لے_ڈوبی](http://twitter.com/search?q=%23%d8%b9%d9%85%d8%b1%d8%a7%d9%86_%d8%af%d8%a7%d8%b1%db%8c_%d9%85%d8%b9%db%8c%d8%b4%d8%aa_%d9%84%db%92_%da%88%d9%88%d8%a8%db%8c) | N/A |
-| 5 | [#ہرپریس_کلب_کےباہرلبیک_والے](http://twitter.com/search?q=%23%db%81%d8%b1%d9%be%d8%b1%db%8c%d8%b3_%da%a9%d9%84%d8%a8_%da%a9%db%92%d8%a8%d8%a7%db%81%d8%b1%d9%84%d8%a8%db%8c%da%a9_%d9%88%d8%a7%d9%84%db%92) | N/A |
-| 6 | [#ڈار_گردی_کی_تباہی](http://twitter.com/search?q=%23%da%88%d8%a7%d8%b1_%da%af%d8%b1%d8%af%db%8c_%da%a9%db%8c_%d8%aa%d8%a8%d8%a7%db%81%db%8c) | N/A |
-| 7 | [Shaheen](http://twitter.com/search?q=Shaheen) | N/A |
+| 3 | [#عمران_داری_معیشت_لے_ڈوبی](http://twitter.com/search?q=%23%d8%b9%d9%85%d8%b1%d8%a7%d9%86_%d8%af%d8%a7%d8%b1%db%8c_%d9%85%d8%b9%db%8c%d8%b4%d8%aa_%d9%84%db%92_%da%88%d9%88%d8%a8%db%8c) | N/A |
+| 4 | [Quetta](http://twitter.com/search?q=Quetta) | Quetta is a city in Pakistan located in the province of Balochistan. The name Quetta is derived from the Pashto word "Kwatak", meaning fort. In English, Quetta translates to "fortress". |
+| 5 | [Sarfaraz](http://twitter.com/search?q=Sarfaraz) | Sarfaraz is an Arabic name meaning "commander" or "leader". It is also used as a title of respect for a person of high rank. |
+| 6 | [Sarfaraz](http://twitter.com/search?q=Sarfaraz) | Sarfaraz is an Arabic name meaning "commander" or "leader". It is also used as a title of respect for a person of high rank. |
+| 7 | [#خان_بمقابلہ_کرپٹ_نظام](http://twitter.com/search?q=%23%d8%ae%d8%a7%d9%86_%d8%a8%d9%85%d9%82%d8%a7%d8%a8%d9%84%db%81_%da%a9%d8%b1%d9%be%d9%b9_%d9%86%d8%b8%d8%a7%d9%85) | N/A |
 | 8 | [Lahore Qalandars](http://twitter.com/search?q=Lahore+Qalandars) | N/A |
-| 9 | [Quetta](http://twitter.com/search?q=Quetta) | Quetta is a city in Pakistan located in the province of Balochistan. The name Quetta is derived from the Pashto word "Kwatak", meaning fort. In English, Quetta translates to "fortress". |
+| 9 | [#QGvLQ](http://twitter.com/search?q=%23QGvLQ) | N/A |
 | 10 | [Rashid](http://twitter.com/search?q=Rashid) | N/A |
-| 11 | [TIFFANY](http://twitter.com/search?q=TIFFANY) | N/A |
-| 12 | [Namoos Sahaba Ahlbait Bill](http://twitter.com/search?q=Namoos+Sahaba+Ahlbait+Bill) | N/A |
-| 13 | [from 2-3 to 197-5](http://twitter.com/search?q=from+2-3+to+197-5) | N/A |
-| 14 | [Sarfaraz](http://twitter.com/search?q=Sarfaraz) | Sarfaraz is an Arabic name meaning "commander" or "leader". It is also used as a title of respect for a person of high rank. |
-| 15 | [haseebullah](http://twitter.com/search?q=haseebullah) | N/A |
-| 16 | [Ishaq Dar](http://twitter.com/search?q=Ishaq+Dar) | N/A |
-| 17 | [sir mark grundy](http://twitter.com/search?q=sir+mark+grundy) | N/A |
-| 18 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 19 | [Umaid Asif](http://twitter.com/search?q=Umaid+Asif) | N/A |
-| 20 | [Happy Baloch](http://twitter.com/search?q=Happy+Baloch) | N/A |
-| 21 | [Sack](http://twitter.com/search?q=Sack) | N/A |
-| 22 | [happy birthday lala](http://twitter.com/search?q=happy+birthday+lala) | N/A |
-| 23 | [wahab](http://twitter.com/search?q=wahab) | N/A |
-| 24 | [Fixer](http://twitter.com/search?q=Fixer) | N/A |
-| 25 | [hasnain](http://twitter.com/search?q=hasnain) | N/A |
-| 26 | [British Council](http://twitter.com/search?q=British+Council) | N/A |
-| 27 | [Rupee](http://twitter.com/search?q=Rupee) | N/A |
-| 28 | [Zaman](http://twitter.com/search?q=Zaman) | N/A |
-| 29 | [Nawaz](http://twitter.com/search?q=Nawaz) | Nawaz is an Arabic name meaning "gift" or "blessing". It is also used as a surname in some parts of the world. |
-| 30 | [Dubai](http://twitter.com/search?q=Dubai) | Dubai is a city and emirate in the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the capital of the Emirate of Dubai, one of the seven emirates that make up the country. The word "Dubai" translates to "money" in English. |
-| 31 | [Mian Ali Ashfaq](http://twitter.com/search?q=Mian+Ali+Ashfaq) | N/A |
+| 11 | [Hafeez](http://twitter.com/search?q=Hafeez) | N/A |
+| 12 | [Haris Rauf](http://twitter.com/search?q=Haris+Rauf) | N/A |
+| 13 | [Shaheen](http://twitter.com/search?q=Shaheen) | N/A |
+| 14 | [Namoos Sahaba Ahlbait Bill](http://twitter.com/search?q=Namoos+Sahaba+Ahlbait+Bill) | N/A |
+| 15 | [Youth](http://twitter.com/search?q=Youth) | N/A |
+| 16 | [Saifi](http://twitter.com/search?q=Saifi) | Saifi is an Arabic name that means "one who is pure". It is also used as a surname. |
+| 17 | [HASEEBULLAH](http://twitter.com/search?q=HASEEBULLAH) | N/A |
+| 18 | [Ishaq Dar](http://twitter.com/search?q=Ishaq+Dar) | N/A |
+| 19 | [Mighty](http://twitter.com/search?q=Mighty) | N/A |
+| 20 | [sir mark grundy](http://twitter.com/search?q=sir+mark+grundy) | N/A |
+| 21 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
+| 22 | [Nawaz](http://twitter.com/search?q=Nawaz) | Nawaz is an Arabic name meaning "gift" or "blessing". It is also used as a surname in some parts of the world. |
+| 23 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 24 | [Odean Smith](http://twitter.com/search?q=Odean+Smith) | N/A |
+| 25 | [Resign](http://twitter.com/search?q=Resign) | Resign is a verb that means to formally give up or quit a job, position, or office. It is usually done in writing and is often accompanied by a letter of resignation. |
+| 26 | [Happy Baloch](http://twitter.com/search?q=Happy+Baloch) | N/A |
+| 27 | [HAPPY BIRTHDAY LALA](http://twitter.com/search?q=HAPPY+BIRTHDAY+LALA) | N/A |
+| 28 | [From 2-3 to 197-5](http://twitter.com/search?q=From+2-3+to+197-5) | N/A |
+| 29 | [Sack](http://twitter.com/search?q=Sack) | N/A |
+| 30 | [British Council](http://twitter.com/search?q=British+Council) | N/A |
+| 31 | [Fixer](http://twitter.com/search?q=Fixer) | N/A |
 | 32 | [Ben 10](http://twitter.com/search?q=Ben+10) | N/A |
-| 33 | [Miftah](http://twitter.com/search?q=Miftah) | N/A |
-| 34 | [Evening](http://twitter.com/search?q=Evening) | N/A |
-| 35 | [Jerry](http://twitter.com/search?q=Jerry) | N/A |
-| 36 | [Finance Minister](http://twitter.com/search?q=Finance+Minister) | Finance Minister is a title given to the government official responsible for managing a country's financial affairs. This includes setting and implementing fiscal policies, overseeing the budget process, and managing public debt. The Finance Minister is usually a member of the cabinet or government executive. |
-| 37 | [Khawaja Asif](http://twitter.com/search?q=Khawaja+Asif) | N/A |
-| 38 | [PMLN](http://twitter.com/search?q=PMLN) | N/A |
-| 39 | [Hussain](http://twitter.com/search?q=Hussain) | N/A |
-| 40 | [Zimbabwe](http://twitter.com/search?q=Zimbabwe) | N/A |
-| 41 | [Well Played](http://twitter.com/search?q=Well+Played) | N/A |
-| 42 | [Wiese](http://twitter.com/search?q=Wiese) | N/A |
-| 43 | [Abdullah](http://twitter.com/search?q=Abdullah) | N/A |
-| 44 | [Nazar](http://twitter.com/search?q=Nazar) | N/A |
-| 45 | [Army](http://twitter.com/search?q=Army) | N/A |
-| 46 | [Maryam](http://twitter.com/search?q=Maryam) | N/A |
-| 47 | [Handlers](http://twitter.com/search?q=Handlers) | N/A |
-| 48 | [Imran Riaz Khan](http://twitter.com/search?q=Imran+Riaz+Khan) | N/A |
-| 49 | [Chief](http://twitter.com/search?q=Chief) | N/A |
-| 50 | [Nani](http://twitter.com/search?q=Nani) | N/A |
+| 33 | [State Bank](http://twitter.com/search?q=State+Bank) | N/A |
+| 34 | [Wiese](http://twitter.com/search?q=Wiese) | N/A |
+| 35 | [Umaid Asif](http://twitter.com/search?q=Umaid+Asif) | N/A |
+| 36 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 37 | [Anti Pakistan](http://twitter.com/search?q=Anti+Pakistan) | N/A |
+| 38 | [Ifti](http://twitter.com/search?q=Ifti) | N/A |
+| 39 | [Rupee](http://twitter.com/search?q=Rupee) | N/A |
+| 40 | [Hasnain](http://twitter.com/search?q=Hasnain) | Hasnain is an Arabic name meaning "two precious ones". It is also used as a surname. |
+| 41 | [T20s](http://twitter.com/search?q=T20s) | N/A |
+| 42 | [Captain](http://twitter.com/search?q=Captain) | N/A |
+| 43 | [Jerry](http://twitter.com/search?q=Jerry) | N/A |
+| 44 | [Miftah](http://twitter.com/search?q=Miftah) | N/A |
+| 45 | [Murtasim](http://twitter.com/search?q=Murtasim) | N/A |
+| 46 | [Zaman](http://twitter.com/search?q=Zaman) | N/A |
+| 47 | [Thanks God](http://twitter.com/search?q=Thanks+God) | N/A |
+| 48 | [Match](http://twitter.com/search?q=Match) | N/A |
+| 49 | [Cake](http://twitter.com/search?q=Cake) | N/A |
+| 50 | [Army](http://twitter.com/search?q=Army) | N/A |
 
 
 

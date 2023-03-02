@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Haven
 
-📆 Last Updated: `2023-03-02 16:17:22 UTC`
+📆 Last Updated: `2023-03-02 18:17:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,51 +15,49 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Survivor](http://twitter.com/search?q=%23Survivor) | N/A |
-| 2 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 3 | [Hershey](http://twitter.com/search?q=Hershey) | N/A |
-| 4 | [#ReadAcrossAmericaDay](http://twitter.com/search?q=%23ReadAcrossAmericaDay) | N/A |
-| 5 | [Don Sweeney](http://twitter.com/search?q=Don+Sweeney) | N/A |
-| 6 | [Bertuzzi](http://twitter.com/search?q=Bertuzzi) | N/A |
-| 7 | [#WorldBookDay](http://twitter.com/search?q=%23WorldBookDay) | N/A |
-| 8 | [TIFFANY](http://twitter.com/search?q=TIFFANY) | N/A |
-| 9 | [Texas Independence Day](http://twitter.com/search?q=Texas+Independence+Day) | N/A |
-| 10 | [Dr. Seuss](http://twitter.com/search?q=Dr.+Seuss) | N/A |
-| 11 | [Pasta](http://twitter.com/search?q=Pasta) | N/A |
-| 12 | [Jim Griffin](http://twitter.com/search?q=Jim+Griffin) | N/A |
-| 13 | [David Pastrnak](http://twitter.com/search?q=David+Pastrnak) | N/A |
-| 14 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 15 | [Chaka](http://twitter.com/search?q=Chaka) | N/A |
-| 16 | [DK Summit](http://twitter.com/search?q=DK+Summit) | N/A |
-| 17 | [Waluigi Stadium](http://twitter.com/search?q=Waluigi+Stadium) | N/A |
-| 18 | [LTIR](http://twitter.com/search?q=LTIR) | N/A |
-| 19 | [Tucson](http://twitter.com/search?q=Tucson) | N/A |
-| 20 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
-| 21 | [DS Mario Circuit](http://twitter.com/search?q=DS+Mario+Circuit) | N/A |
-| 22 | [keita](http://twitter.com/search?q=keita) | N/A |
-| 23 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
-| 24 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
-| 25 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
-| 26 | [Dior](http://twitter.com/search?q=Dior) | Dior is a French luxury fashion house founded in 1946 by Christian Dior. The name Dior is derived from the founder's surname and is an abbreviation of his full name, Christian Dior. In English, it means "of or relating to Christian Dior". |
-| 27 | [Michael Darby](http://twitter.com/search?q=Michael+Darby) | N/A |
-| 28 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
-| 29 | [Claxton](http://twitter.com/search?q=Claxton) | Claxton is a surname of English origin. It is derived from the Old English words 'claec' meaning clay and 'tun' meaning settlement or farm. The name was originally given to someone who lived near a clay settlement or farm. |
-| 30 | [Judge Newman](http://twitter.com/search?q=Judge+Newman) | N/A |
-| 31 | [Juror](http://twitter.com/search?q=Juror) | N/A |
-| 32 | [Taylor Hall](http://twitter.com/search?q=Taylor+Hall) | N/A |
-| 33 | [Riverside Park](http://twitter.com/search?q=Riverside+Park) | N/A |
-| 34 | [Bergeron](http://twitter.com/search?q=Bergeron) | N/A |
-| 35 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 36 | [yujin](http://twitter.com/search?q=yujin) | N/A |
-| 37 | [Bryansk](http://twitter.com/search?q=Bryansk) | N/A |
-| 38 | [Congratulations Jimin](http://twitter.com/search?q=Congratulations+Jimin) | "Congratulations Jimin" is a phrase used to express congratulations or best wishes to someone named Jimin. It is typically used in situations such as when someone has achieved a goal, received an award, or accomplished something noteworthy. |
-| 39 | [Dratini](http://twitter.com/search?q=Dratini) | N/A |
-| 40 | [Yzerman](http://twitter.com/search?q=Yzerman) | N/A |
-| 41 | [Krejci](http://twitter.com/search?q=Krejci) | N/A |
-| 42 | [Thirsty Thursday](http://twitter.com/search?q=Thirsty+Thursday) | N/A |
-| 43 | [The Bruins](http://twitter.com/search?q=The+Bruins) | N/A |
-| 44 | [Double Dash](http://twitter.com/search?q=Double+Dash) | N/A |
-| 45 | [SEOK MATTHEW](http://twitter.com/search?q=SEOK+MATTHEW) | N/A |
+| 1 | [#WhyIChime](http://twitter.com/search?q=%23WhyIChime) | N/A |
+| 2 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
+| 3 | [#ReadAcrossAmericaDay](http://twitter.com/search?q=%23ReadAcrossAmericaDay) | N/A |
+| 4 | [Hershey](http://twitter.com/search?q=Hershey) | N/A |
+| 5 | [Jim Griffin](http://twitter.com/search?q=Jim+Griffin) | N/A |
+| 6 | [Bateman](http://twitter.com/search?q=Bateman) | N/A |
+| 7 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
+| 8 | [Bertuzzi](http://twitter.com/search?q=Bertuzzi) | N/A |
+| 9 | [LTIR](http://twitter.com/search?q=LTIR) | N/A |
+| 10 | [Texas Independence Day](http://twitter.com/search?q=Texas+Independence+Day) | N/A |
+| 11 | [Dr. Seuss](http://twitter.com/search?q=Dr.+Seuss) | N/A |
+| 12 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
+| 13 | [Christian Arroyo](http://twitter.com/search?q=Christian+Arroyo) | N/A |
+| 14 | [Don Sweeney](http://twitter.com/search?q=Don+Sweeney) | N/A |
+| 15 | [Weather Report](http://twitter.com/search?q=Weather+Report) | N/A |
+| 16 | [Kimmel](http://twitter.com/search?q=Kimmel) | N/A |
+| 17 | [Volpe](http://twitter.com/search?q=Volpe) | N/A |
+| 18 | [Pasta](http://twitter.com/search?q=Pasta) | N/A |
+| 19 | [Chaka Khan](http://twitter.com/search?q=Chaka+Khan) | N/A |
+| 20 | [Meadors](http://twitter.com/search?q=Meadors) | N/A |
+| 21 | [Bayesian](http://twitter.com/search?q=Bayesian) | N/A |
+| 22 | [Discover](http://twitter.com/search?q=Discover) | N/A |
+| 23 | [Harbaugh](http://twitter.com/search?q=Harbaugh) | Harbaugh is a surname of German origin. It is derived from the German words "harb" meaning "army" and "berg" meaning "mountain". The name can be translated to mean "army mountain". |
+| 24 | [Saunders](http://twitter.com/search?q=Saunders) | N/A |
+| 25 | [Next Level Chef](http://twitter.com/search?q=Next+Level+Chef) | N/A |
+| 26 | [Andres Vasquez](http://twitter.com/search?q=Andres+Vasquez) | N/A |
+| 27 | [David Pastrnak](http://twitter.com/search?q=David+Pastrnak) | N/A |
+| 28 | [Claxton](http://twitter.com/search?q=Claxton) | Claxton is a surname of English origin. It is derived from the Old English words 'claec' meaning clay and 'tun' meaning settlement or farm. The name was originally given to someone who lived near a clay settlement or farm. |
+| 29 | [Jason Arno](http://twitter.com/search?q=Jason+Arno) | N/A |
+| 30 | [Evan Engram](http://twitter.com/search?q=Evan+Engram) | Evan Engram is an American football tight end for the New York Giants of the National Football League (NFL). He was drafted by the Giants in the first round of the 2017 NFL Draft. The name Evan Engram is derived from a combination of his first and last names. |
+| 31 | [DS Mario Circuit](http://twitter.com/search?q=DS+Mario+Circuit) | N/A |
+| 32 | [SLED](http://twitter.com/search?q=SLED) | N/A |
+| 33 | [Nelly](http://twitter.com/search?q=Nelly) | Nelly is a nickname for the female given name Eleanor, which is derived from the Greek name Helenē, meaning “light” or “bright one.” It can also be used as a diminutive form of the name Cornelia. |
+| 34 | [Hellboy](http://twitter.com/search?q=Hellboy) | N/A |
+| 35 | [Hall](http://twitter.com/search?q=Hall) | Hall is a noun that refers to a large room or area used for meetings, receptions, or other events. It can also refer to an entranceway or corridor in a building. |
+| 36 | [Tucson](http://twitter.com/search?q=Tucson) | N/A |
+| 37 | [DHop](http://twitter.com/search?q=DHop) | DHop is an acronym for "Drop Hop," which is a type of dance move. It involves dropping down to the ground and then hopping back up into the air. The move is often used in hip-hop and street dance styles. |
+| 38 | [Dratini](http://twitter.com/search?q=Dratini) | N/A |
+| 39 | [Meghan Trainor](http://twitter.com/search?q=Meghan+Trainor) | N/A |
+| 40 | [DeCosta](http://twitter.com/search?q=DeCosta) | N/A |
+| 41 | [Speak No Evil](http://twitter.com/search?q=Speak+No+Evil) | N/A |
+| 42 | [Scott Perry](http://twitter.com/search?q=Scott+Perry) | Scott Perry is a surname. It is of Scottish origin and is derived from the Old English words "scot" meaning "Gaelic speaker" and "peri" meaning "pear tree". The name was originally given to someone who lived near a pear tree or who was of Gaelic descent. |
+| 43 | [The Ravens](http://twitter.com/search?q=The+Ravens) | N/A |
 
 
 

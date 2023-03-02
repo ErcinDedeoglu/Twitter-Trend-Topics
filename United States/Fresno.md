@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Fresno
 
-📆 Last Updated: `2023-03-02 16:17:20 UTC`
+📆 Last Updated: `2023-03-02 18:17:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Hershey](http://twitter.com/search?q=Hershey) | N/A |
-| 2 | [#ReadAcrossAmericaDay](http://twitter.com/search?q=%23ReadAcrossAmericaDay) | N/A |
-| 3 | [Don Sweeney](http://twitter.com/search?q=Don+Sweeney) | N/A |
-| 4 | [Bertuzzi](http://twitter.com/search?q=Bertuzzi) | N/A |
-| 5 | [#WorldBookDay](http://twitter.com/search?q=%23WorldBookDay) | N/A |
-| 6 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 7 | [TIFFANY](http://twitter.com/search?q=TIFFANY) | N/A |
-| 8 | [Texas Independence Day](http://twitter.com/search?q=Texas+Independence+Day) | N/A |
-| 9 | [Dr. Seuss](http://twitter.com/search?q=Dr.+Seuss) | N/A |
-| 10 | [Jim Griffin](http://twitter.com/search?q=Jim+Griffin) | N/A |
-| 11 | [Pasta](http://twitter.com/search?q=Pasta) | N/A |
-| 12 | [David Pastrnak](http://twitter.com/search?q=David+Pastrnak) | N/A |
-| 13 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
-| 14 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 15 | [Chaka](http://twitter.com/search?q=Chaka) | N/A |
-| 16 | [#GoWokeGoBroke](http://twitter.com/search?q=%23GoWokeGoBroke) | N/A |
-| 17 | [DK Summit](http://twitter.com/search?q=DK+Summit) | N/A |
-| 18 | [Waluigi Stadium](http://twitter.com/search?q=Waluigi+Stadium) | N/A |
+| 1 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
+| 2 | [$TSLA](http://twitter.com/search?q=%24TSLA) | $TSLA is the stock symbol for Tesla, Inc., an American electric vehicle and clean energy company. It is traded on the Nasdaq stock exchange. |
+| 3 | [Cruz](http://twitter.com/search?q=Cruz) | N/A |
+| 4 | [Petro](http://twitter.com/search?q=Petro) | N/A |
+| 5 | [Fentanyl](http://twitter.com/search?q=Fentanyl) | N/A |
+| 6 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 7 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
+| 8 | [#WhyIChime](http://twitter.com/search?q=%23WhyIChime) | N/A |
+| 9 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
+| 10 | [#ReadAcrossAmericaDay](http://twitter.com/search?q=%23ReadAcrossAmericaDay) | N/A |
+| 11 | [Hershey](http://twitter.com/search?q=Hershey) | N/A |
+| 12 | [#MurdaughTrial](http://twitter.com/search?q=%23MurdaughTrial) | N/A |
+| 13 | [#SaferWithBiden](http://twitter.com/search?q=%23SaferWithBiden) | N/A |
+| 14 | [Jim Griffin](http://twitter.com/search?q=Jim+Griffin) | N/A |
+| 15 | [Bateman](http://twitter.com/search?q=Bateman) | N/A |
+| 16 | [#WorldBookDay](http://twitter.com/search?q=%23WorldBookDay) | N/A |
+| 17 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
+| 18 | [Bertuzzi](http://twitter.com/search?q=Bertuzzi) | N/A |
 | 19 | [LTIR](http://twitter.com/search?q=LTIR) | N/A |
-| 20 | [Tucson](http://twitter.com/search?q=Tucson) | N/A |
-| 21 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
-| 22 | [DS Mario Circuit](http://twitter.com/search?q=DS+Mario+Circuit) | N/A |
-| 23 | [keita](http://twitter.com/search?q=keita) | N/A |
-| 24 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
-| 25 | [happy friday eve](http://twitter.com/search?q=happy+friday+eve) | N/A |
-| 26 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
-| 27 | [Dior](http://twitter.com/search?q=Dior) | Dior is a French luxury fashion house founded in 1946 by Christian Dior. The name Dior is derived from the founder's surname and is an abbreviation of his full name, Christian Dior. In English, it means "of or relating to Christian Dior". |
-| 28 | [Michael Darby](http://twitter.com/search?q=Michael+Darby) | N/A |
-| 29 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
-| 30 | [Taylor Hall](http://twitter.com/search?q=Taylor+Hall) | N/A |
-| 31 | [Claxton](http://twitter.com/search?q=Claxton) | Claxton is a surname of English origin. It is derived from the Old English words 'claec' meaning clay and 'tun' meaning settlement or farm. The name was originally given to someone who lived near a clay settlement or farm. |
-| 32 | [Judge Newman](http://twitter.com/search?q=Judge+Newman) | N/A |
-| 33 | [Riverside Park](http://twitter.com/search?q=Riverside+Park) | N/A |
-| 34 | [Juror](http://twitter.com/search?q=Juror) | N/A |
-| 35 | [Bergeron](http://twitter.com/search?q=Bergeron) | N/A |
-| 36 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 37 | [Dratini](http://twitter.com/search?q=Dratini) | N/A |
-| 38 | [yujin](http://twitter.com/search?q=yujin) | N/A |
-| 39 | [Bryansk](http://twitter.com/search?q=Bryansk) | N/A |
-| 40 | [Congratulations Jimin](http://twitter.com/search?q=Congratulations+Jimin) | "Congratulations Jimin" is a phrase used to express congratulations or best wishes to someone named Jimin. It is typically used in situations such as when someone has achieved a goal, received an award, or accomplished something noteworthy. |
-| 41 | [Yzerman](http://twitter.com/search?q=Yzerman) | N/A |
-| 42 | [The Bruins](http://twitter.com/search?q=The+Bruins) | N/A |
-| 43 | [Krejci](http://twitter.com/search?q=Krejci) | N/A |
-| 44 | [Thirsty Thursday](http://twitter.com/search?q=Thirsty+Thursday) | N/A |
-| 45 | [Double Dash](http://twitter.com/search?q=Double+Dash) | N/A |
-| 46 | [SEOK MATTHEW](http://twitter.com/search?q=SEOK+MATTHEW) | N/A |
-| 47 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
-| 48 | [Republic of Texas](http://twitter.com/search?q=Republic+of+Texas) | N/A |
-| 49 | [Discover](http://twitter.com/search?q=Discover) | N/A |
+| 20 | [Texas Independence Day](http://twitter.com/search?q=Texas+Independence+Day) | N/A |
+| 21 | [Dr. Seuss](http://twitter.com/search?q=Dr.+Seuss) | N/A |
+| 22 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
+| 23 | [Christian Arroyo](http://twitter.com/search?q=Christian+Arroyo) | N/A |
+| 24 | [Don Sweeney](http://twitter.com/search?q=Don+Sweeney) | N/A |
+| 25 | [Weather Report](http://twitter.com/search?q=Weather+Report) | N/A |
+| 26 | [Kimmel](http://twitter.com/search?q=Kimmel) | N/A |
+| 27 | [Pasta](http://twitter.com/search?q=Pasta) | N/A |
+| 28 | [Volpe](http://twitter.com/search?q=Volpe) | N/A |
+| 29 | [Chaka](http://twitter.com/search?q=Chaka) | N/A |
+| 30 | [Bayesian](http://twitter.com/search?q=Bayesian) | N/A |
+| 31 | [Discover](http://twitter.com/search?q=Discover) | N/A |
+| 32 | [Meadors](http://twitter.com/search?q=Meadors) | N/A |
+| 33 | [Harbaugh](http://twitter.com/search?q=Harbaugh) | Harbaugh is a surname of German origin. It is derived from the German words "harb" meaning "army" and "berg" meaning "mountain". The name can be translated to mean "army mountain". |
+| 34 | [Saunders](http://twitter.com/search?q=Saunders) | N/A |
+| 35 | [Next Level Chef](http://twitter.com/search?q=Next+Level+Chef) | N/A |
+| 36 | [Andres Vasquez](http://twitter.com/search?q=Andres+Vasquez) | N/A |
+| 37 | [David Pastrnak](http://twitter.com/search?q=David+Pastrnak) | N/A |
+| 38 | [Claxton](http://twitter.com/search?q=Claxton) | Claxton is a surname of English origin. It is derived from the Old English words 'claec' meaning clay and 'tun' meaning settlement or farm. The name was originally given to someone who lived near a clay settlement or farm. |
+| 39 | [Jason Arno](http://twitter.com/search?q=Jason+Arno) | N/A |
+| 40 | [SLED](http://twitter.com/search?q=SLED) | N/A |
+| 41 | [DS Mario Circuit](http://twitter.com/search?q=DS+Mario+Circuit) | N/A |
+| 42 | [Nelly](http://twitter.com/search?q=Nelly) | Nelly is a nickname for the female given name Eleanor, which is derived from the Greek name Helenē, meaning “light” or “bright one.” It can also be used as a diminutive form of the name Cornelia. |
+| 43 | [Hellboy](http://twitter.com/search?q=Hellboy) | N/A |
+| 44 | [Hall](http://twitter.com/search?q=Hall) | Hall is a noun that refers to a large room or area used for meetings, receptions, or other events. It can also refer to an entranceway or corridor in a building. |
+| 45 | [Tucson](http://twitter.com/search?q=Tucson) | N/A |
+| 46 | [Evan Engram](http://twitter.com/search?q=Evan+Engram) | Evan Engram is an American football tight end for the New York Giants of the National Football League (NFL). He was drafted by the Giants in the first round of the 2017 NFL Draft. The name Evan Engram is derived from a combination of his first and last names. |
+| 47 | [DHop](http://twitter.com/search?q=DHop) | DHop is an acronym for "Drop Hop," which is a type of dance move. It involves dropping down to the ground and then hopping back up into the air. The move is often used in hip-hop and street dance styles. |
+| 48 | [Dratini](http://twitter.com/search?q=Dratini) | N/A |
+| 49 | [Meghan Trainor](http://twitter.com/search?q=Meghan+Trainor) | N/A |
 
 
 

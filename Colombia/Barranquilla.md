@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barranquilla
 
-📆 Last Updated: `2023-03-02 16:16:47 UTC`
+📆 Last Updated: `2023-03-02 18:17:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Colombia](</Colombia>)
 | 1 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
 | 2 | [Salvador](http://twitter.com/search?q=Salvador) | N/A |
 | 3 | [San Vicente del Caguán](http://twitter.com/search?q=San+Vicente+del+Cagu%c3%a1n) | N/A |
-| 4 | [#UnResultadoEs](http://twitter.com/search?q=%23UnResultadoEs) | N/A |
-| 5 | [ESMAD](http://twitter.com/search?q=ESMAD) | N/A |
-| 6 | [Viva Air](http://twitter.com/search?q=Viva+Air) | N/A |
-| 7 | [Avianca](http://twitter.com/search?q=Avianca) | N/A |
-| 8 | [Vargas Lleras](http://twitter.com/search?q=Vargas+Lleras) | N/A |
-| 9 | [Invamer](http://twitter.com/search?q=Invamer) | N/A |
-| 10 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
-| 11 | [#AnaDeNadie](http://twitter.com/search?q=%23AnaDeNadie) | N/A |
-| 12 | [CELAG](http://twitter.com/search?q=CELAG) | N/A |
-| 13 | [TIFFANY BRAND AMBASSADOR JIMIN](http://twitter.com/search?q=TIFFANY+BRAND+AMBASSADOR+JIMIN) | N/A |
-| 14 | [Satena](http://twitter.com/search?q=Satena) | N/A |
-| 15 | [Caquetá](http://twitter.com/search?q=Caquet%c3%a1) | N/A |
-| 16 | [Los Pozos](http://twitter.com/search?q=Los+Pozos) | N/A |
-| 17 | [Universidades](http://twitter.com/search?q=Universidades) | N/A |
+| 4 | [ESMAD](http://twitter.com/search?q=ESMAD) | N/A |
+| 5 | [#UnResultadoEs](http://twitter.com/search?q=%23UnResultadoEs) | N/A |
+| 6 | [Caquetá](http://twitter.com/search?q=Caquet%c3%a1) | N/A |
+| 7 | [Viva Air](http://twitter.com/search?q=Viva+Air) | N/A |
+| 8 | [#SOSColombia](http://twitter.com/search?q=%23SOSColombia) | N/A |
+| 9 | [Avianca](http://twitter.com/search?q=Avianca) | N/A |
+| 10 | [Los Pozos](http://twitter.com/search?q=Los+Pozos) | N/A |
+| 11 | [Policías](http://twitter.com/search?q=Polic%c3%adas) | N/A |
+| 12 | [Invamer](http://twitter.com/search?q=Invamer) | N/A |
+| 13 | [Vargas Lleras](http://twitter.com/search?q=Vargas+Lleras) | N/A |
+| 14 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
+| 15 | [CELAG](http://twitter.com/search?q=CELAG) | N/A |
+| 16 | [#AnaDeNadie](http://twitter.com/search?q=%23AnaDeNadie) | N/A |
+| 17 | [DDHH](http://twitter.com/search?q=DDHH) | N/A |
 | 18 | [Emerald Energy](http://twitter.com/search?q=Emerald+Energy) | N/A |
-| 19 | [Blink 182](http://twitter.com/search?q=Blink+182) | N/A |
-| 20 | [#UnaCrisisEs](http://twitter.com/search?q=%23UnaCrisisEs) | N/A |
-| 21 | [#VentinoLaSerie](http://twitter.com/search?q=%23VentinoLaSerie) | N/A |
-| 22 | [Maras](http://twitter.com/search?q=Maras) | N/A |
-| 23 | [twenty one pilots](http://twitter.com/search?q=twenty+one+pilots) | N/A |
-| 24 | [DDHH](http://twitter.com/search?q=DDHH) | N/A |
-| 25 | [FARC](http://twitter.com/search?q=FARC) | N/A |
-| 26 | [Juan Lozano](http://twitter.com/search?q=Juan+Lozano) | N/A |
-| 27 | [Confíen](http://twitter.com/search?q=Conf%c3%aden) | N/A |
-| 28 | [Angelo](http://twitter.com/search?q=Angelo) | N/A |
-| 29 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
-| 30 | [Sabina](http://twitter.com/search?q=Sabina) | N/A |
-| 31 | [Carolina Cruz](http://twitter.com/search?q=Carolina+Cruz) | N/A |
-| 32 | [Independiente Del Valle](http://twitter.com/search?q=Independiente+Del+Valle) | N/A |
-| 33 | [Lealtad](http://twitter.com/search?q=Lealtad) | N/A |
-| 34 | [Gaviria](http://twitter.com/search?q=Gaviria) | N/A |
-| 35 | [Miguel Uribe](http://twitter.com/search?q=Miguel+Uribe) | N/A |
-| 36 | [Bukelismo](http://twitter.com/search?q=Bukelismo) | N/A |
-| 37 | [Campos](http://twitter.com/search?q=Campos) | N/A |
-| 38 | [Marzo con M](http://twitter.com/search?q=Marzo+con+M) | N/A |
-| 39 | [Campesinos](http://twitter.com/search?q=Campesinos) | N/A |
-| 40 | [Obras](http://twitter.com/search?q=Obras) | N/A |
-| 41 | [Universidad Distrital](http://twitter.com/search?q=Universidad+Distrital) | N/A |
-| 42 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 43 | [Siopas](http://twitter.com/search?q=Siopas) | N/A |
-| 44 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 45 | [Pinto](http://twitter.com/search?q=Pinto) | N/A |
-| 46 | [Seguridad Democrática](http://twitter.com/search?q=Seguridad+Democr%c3%a1tica) | N/A |
-| 47 | [Iván Duque](http://twitter.com/search?q=Iv%c3%a1n+Duque) | N/A |
-| 48 | [HYBE PROTECT RM](http://twitter.com/search?q=HYBE+PROTECT+RM) | N/A |
-| 49 | [Aldair](http://twitter.com/search?q=Aldair) | N/A |
-| 50 | [Jamming](http://twitter.com/search?q=Jamming) | N/A |
+| 19 | [Universidades](http://twitter.com/search?q=Universidades) | N/A |
+| 20 | [FFMM](http://twitter.com/search?q=FFMM) | N/A |
+| 21 | [Satena](http://twitter.com/search?q=Satena) | N/A |
+| 22 | [Blink 182](http://twitter.com/search?q=Blink+182) | N/A |
+| 23 | [Campesinos](http://twitter.com/search?q=Campesinos) | N/A |
+| 24 | [Maras](http://twitter.com/search?q=Maras) | N/A |
+| 25 | [#UnaCrisisEs](http://twitter.com/search?q=%23UnaCrisisEs) | N/A |
+| 26 | [Indígenas](http://twitter.com/search?q=Ind%c3%adgenas) | N/A |
+| 27 | [FARC](http://twitter.com/search?q=FARC) | N/A |
+| 28 | [Indios](http://twitter.com/search?q=Indios) | N/A |
+| 29 | [Bukelismo](http://twitter.com/search?q=Bukelismo) | N/A |
+| 30 | [Juan Lozano](http://twitter.com/search?q=Juan+Lozano) | N/A |
+| 31 | [twenty one pilots](http://twitter.com/search?q=twenty+one+pilots) | N/A |
+| 32 | [TIFFANY BRAND AMBASSADOR JIMIN](http://twitter.com/search?q=TIFFANY+BRAND+AMBASSADOR+JIMIN) | N/A |
+| 33 | [Sabina](http://twitter.com/search?q=Sabina) | N/A |
+| 34 | [Guardia Indígena](http://twitter.com/search?q=Guardia+Ind%c3%adgena) | N/A |
+| 35 | [Angelo](http://twitter.com/search?q=Angelo) | N/A |
+| 36 | [SECUESTRADOS](http://twitter.com/search?q=SECUESTRADOS) | N/A |
+| 37 | [Fuerza Pública](http://twitter.com/search?q=Fuerza+P%c3%bablica) | N/A |
+| 38 | [Gaviria](http://twitter.com/search?q=Gaviria) | N/A |
+| 39 | [Carolina Cruz](http://twitter.com/search?q=Carolina+Cruz) | N/A |
+| 40 | [Ministro de Defensa](http://twitter.com/search?q=Ministro+de+Defensa) | N/A |
+| 41 | [VAMOS MILLONARIOS](http://twitter.com/search?q=VAMOS+MILLONARIOS) | N/A |
+| 42 | [Campos](http://twitter.com/search?q=Campos) | N/A |
+| 43 | [Marzo con M](http://twitter.com/search?q=Marzo+con+M) | N/A |
+| 44 | [Higuita](http://twitter.com/search?q=Higuita) | N/A |
+| 45 | [La Paz](http://twitter.com/search?q=La+Paz) | N/A |
+| 46 | [Obras Selectas](http://twitter.com/search?q=Obras+Selectas) | N/A |
+| 47 | [Universidad Distrital](http://twitter.com/search?q=Universidad+Distrital) | N/A |
+| 48 | [Lealtad](http://twitter.com/search?q=Lealtad) | N/A |
+| 49 | [Malditos](http://twitter.com/search?q=Malditos) | N/A |
+| 50 | [Confíen](http://twitter.com/search?q=Conf%c3%aden) | N/A |
 
 
 

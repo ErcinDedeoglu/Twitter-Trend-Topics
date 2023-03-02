@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Turkey
 
-📆 Last Updated: `2023-03-02 16:17:33 UTC`
+📆 Last Updated: `2023-03-02 18:18:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Turkey
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#6lımasa](http://twitter.com/search?q=%236l%c4%b1masa) | N/A |
-| 2 | [MahkumudaAffedin Helalleşelim](http://twitter.com/search?q=MahkumudaAffedin+Helalle%c5%9felim) | N/A |
-| 3 | [#altılımasa](http://twitter.com/search?q=%23alt%c4%b1l%c4%b1masa) | #Altılımasa is a Turkish game similar to bingo. It is played with six dice and a board with 24 numbered squares. Players take turns rolling the dice and marking off the numbers on their board that match the numbers rolled. The first player to mark off all of their numbers wins the game. In English, #altılımasa translates to "six-dice table". |
-| 4 | [Ekşi Sözlük Açılmasın](http://twitter.com/search?q=Ek%c5%9fi+S%c3%b6zl%c3%bck+A%c3%a7%c4%b1lmas%c4%b1n) | N/A |
-| 5 | [#TamdaBugün100BinAtama](http://twitter.com/search?q=%23TamdaBug%c3%bcn100BinAtama) | N/A |
-| 6 | [#MansurYavasadayolsun](http://twitter.com/search?q=%23MansurYavasadayolsun) | N/A |
-| 7 | [#secim2023](http://twitter.com/search?q=%23secim2023) | N/A |
-| 8 | [Kemal Kılıçdaroğlu](http://twitter.com/search?q=Kemal+K%c4%b1l%c4%b1%c3%a7daro%c4%9flu) | Kemal Kılıçdaroğlu is a Turkish politician who has been the leader of the Republican People's Party (CHP) since 2010. His name translates to "Kemal Sword of Justice" in English. |
-| 9 | [ADAM KAZANDI](http://twitter.com/search?q=ADAM+KAZANDI) | N/A |
-| 10 | [Mustafa İduğ](http://twitter.com/search?q=Mustafa+%c4%b0du%c4%9f) | N/A |
-| 11 | [MASA ALTI OLAY](http://twitter.com/search?q=MASA+ALTI+OLAY) | N/A |
-| 12 | [Asrın Dayanışması](http://twitter.com/search?q=Asr%c4%b1n+Dayan%c4%b1%c5%9fmas%c4%b1) | N/A |
-| 13 | [Sınıf](http://twitter.com/search?q=S%c4%b1n%c4%b1f) | N/A |
-| 14 | [FENERLE KİMSE BAŞA ÇIKAMAZ](http://twitter.com/search?q=FENERLE+K%c4%b0MSE+BA%c5%9eA+%c3%87IKAMAZ) | N/A |
-| 15 | [Şaklaban](http://twitter.com/search?q=%c5%9eaklaban) | N/A |
-| 16 | [Kayseri 2](http://twitter.com/search?q=Kayseri+2) | N/A |
-| 17 | [Ahmet Ağaoğlu](http://twitter.com/search?q=Ahmet+A%c4%9fao%c4%9flu) | N/A |
-| 18 | [Akli](http://twitter.com/search?q=Akli) | N/A |
-| 19 | [İlkokulda](http://twitter.com/search?q=%c4%b0lkokulda) | N/A |
-| 20 | [SON DAKİKA](http://twitter.com/search?q=SON+DAK%c4%b0KA) | SON Dakika is a Turkish phrase that translates to "last minute" in English. It is used to refer to news or events that have just happened or are happening at the last minute. |
-| 21 | [Hazırız](http://twitter.com/search?q=Haz%c4%b1r%c4%b1z) | N/A |
-| 22 | [İdare Mahkemesi](http://twitter.com/search?q=%c4%b0dare+Mahkemesi) | N/A |
-| 23 | [Bornova](http://twitter.com/search?q=Bornova) | N/A |
-| 24 | [Dersim](http://twitter.com/search?q=Dersim) | N/A |
-| 25 | [Lisede](http://twitter.com/search?q=Lisede) | N/A |
-| 26 | [Gökhan Özbek](http://twitter.com/search?q=G%c3%b6khan+%c3%96zbek) | N/A |
-| 27 | [İnce](http://twitter.com/search?q=%c4%b0nce) | N/A |
-| 28 | [Masanın](http://twitter.com/search?q=Masan%c4%b1n) | N/A |
-| 29 | [Tunceli](http://twitter.com/search?q=Tunceli) | N/A |
-| 30 | [Yusuf Kaplan](http://twitter.com/search?q=Yusuf+Kaplan) | N/A |
-| 31 | [Terlik](http://twitter.com/search?q=Terlik) | N/A |
-| 32 | [Abdullah Gül](http://twitter.com/search?q=Abdullah+G%c3%bcl) | N/A |
-| 33 | [Davutoğlu](http://twitter.com/search?q=Davuto%c4%9flu) | Davutoğlu is a Turkish surname. It is derived from the Turkish word "davut", which means "wise". In English, the name Davutoğlu would translate to "wise man". |
-| 34 | [ÖncelikAf SonraSeçim](http://twitter.com/search?q=%c3%96ncelikAf+SonraSe%c3%a7im) | N/A |
-| 35 | [Nevzat Aydın](http://twitter.com/search?q=Nevzat+Ayd%c4%b1n) | N/A |
-| 36 | [Babacan](http://twitter.com/search?q=Babacan) | N/A |
-| 37 | [Millet İttifakı](http://twitter.com/search?q=Millet+%c4%b0ttifak%c4%b1) | N/A |
-| 38 | [Ali Mahir Başarır](http://twitter.com/search?q=Ali+Mahir+Ba%c5%9far%c4%b1r) | N/A |
-| 39 | [Kayserispor - Fenerbahçe](http://twitter.com/search?q=Kayserispor+-+Fenerbah%c3%a7e) | N/A |
-| 40 | [Varsaymak](http://twitter.com/search?q=Varsaymak) | N/A |
-| 41 | [Ertuğrul](http://twitter.com/search?q=Ertu%c4%9frul) | N/A |
-| 42 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 43 | [Kazı](http://twitter.com/search?q=Kaz%c4%b1) | N/A |
-| 44 | [Tuvalet](http://twitter.com/search?q=Tuvalet) | N/A |
-| 45 | [Varsayıyoruz](http://twitter.com/search?q=Varsay%c4%b1yoruz) | N/A |
-| 46 | [Seçimden](http://twitter.com/search?q=Se%c3%a7imden) | N/A |
-| 47 | [Ekmeleddin](http://twitter.com/search?q=Ekmeleddin) | N/A |
-| 48 | [Mansur Yavaşı](http://twitter.com/search?q=Mansur+Yava%c5%9f%c4%b1) | N/A |
-| 49 | [Alevi](http://twitter.com/search?q=Alevi) | N/A |
-| 50 | [HDP'ye](http://twitter.com/search?q=HDP%27ye) | N/A |
+| 1 | [Kemal Kılıçdaroğlu](http://twitter.com/search?q=Kemal+K%c4%b1l%c4%b1%c3%a7daro%c4%9flu) | Kemal Kılıçdaroğlu is a Turkish politician who has been the leader of the Republican People's Party (CHP) since 2010. His name translates to "Kemal Sword of Justice" in English. |
+| 2 | [#6lımasa](http://twitter.com/search?q=%236l%c4%b1masa) | N/A |
+| 3 | [#secim2023](http://twitter.com/search?q=%23secim2023) | N/A |
+| 4 | [#altılımasa](http://twitter.com/search?q=%23alt%c4%b1l%c4%b1masa) | #Altılımasa is a Turkish game similar to bingo. It is played with six dice and a board with 24 numbered squares. Players take turns rolling the dice and marking off the numbers on their board that match the numbers rolled. The first player to mark off all of their numbers wins the game. In English, #altılımasa translates to "six-dice table". |
+| 5 | [Ali Babacan](http://twitter.com/search?q=Ali+Babacan) | Ali Babacan is a Turkish name. It is derived from the Arabic phrase "Ali Baba Khan", which means "noble leader". In English, it can be translated to mean "noble leader Ali". |
+| 6 | [Ekşi Sözlük Açılmasın](http://twitter.com/search?q=Ek%c5%9fi+S%c3%b6zl%c3%bck+A%c3%a7%c4%b1lmas%c4%b1n) | N/A |
+| 7 | [#MeralAkşener](http://twitter.com/search?q=%23MeralAk%c5%9fener) | #MeralAkşener is a hashtag used to refer to Meral Akşener, a Turkish politician and leader of the Good Party. She is the first female leader of a major political party in Turkey. The hashtag is used to discuss her policies, news related to her, and other topics related to her. In English, #MeralAkşener means "Meral Akşener". |
+| 8 | [#TamdaBugün100BinAtama](http://twitter.com/search?q=%23TamdaBug%c3%bcn100BinAtama) | N/A |
+| 9 | [Muharrem İnce](http://twitter.com/search?q=Muharrem+%c4%b0nce) | N/A |
+| 10 | [Pazartesi](http://twitter.com/search?q=Pazartesi) | N/A |
+| 11 | [MahkumudaAffedin Helalleşelim](http://twitter.com/search?q=MahkumudaAffedin+Helalle%c5%9felim) | N/A |
+| 12 | [ADAM KAZANDI](http://twitter.com/search?q=ADAM+KAZANDI) | N/A |
+| 13 | [MASA ALTI OLAY](http://twitter.com/search?q=MASA+ALTI+OLAY) | N/A |
+| 14 | [Millet İttifakı](http://twitter.com/search?q=Millet+%c4%b0ttifak%c4%b1) | N/A |
+| 15 | [İyi Parti](http://twitter.com/search?q=%c4%b0yi+Parti) | N/A |
+| 16 | [Ekrem İmamoğlu](http://twitter.com/search?q=Ekrem+%c4%b0mamo%c4%9flu) | N/A |
+| 17 | [Böbrek](http://twitter.com/search?q=B%c3%b6brek) | N/A |
+| 18 | [Mustafa İduğ](http://twitter.com/search?q=Mustafa+%c4%b0du%c4%9f) | N/A |
+| 19 | [TIFFANY BRAND AMBASSADOR JIMIN](http://twitter.com/search?q=TIFFANY+BRAND+AMBASSADOR+JIMIN) | N/A |
+| 20 | [Şaklaban](http://twitter.com/search?q=%c5%9eaklaban) | N/A |
+| 21 | [KK'ya](http://twitter.com/search?q=KK%27ya) | N/A |
+| 22 | [Eren Erdem](http://twitter.com/search?q=Eren+Erdem) | N/A |
+| 23 | [Sınıf](http://twitter.com/search?q=S%c4%b1n%c4%b1f) | N/A |
+| 24 | [Masadan](http://twitter.com/search?q=Masadan) | N/A |
+| 25 | [Bu 6](http://twitter.com/search?q=Bu+6) | N/A |
+| 26 | [İlkokulda](http://twitter.com/search?q=%c4%b0lkokulda) | N/A |
+| 27 | [Mansur Başkan](http://twitter.com/search?q=Mansur+Ba%c5%9fkan) | N/A |
+| 28 | [Hazırız](http://twitter.com/search?q=Haz%c4%b1r%c4%b1z) | N/A |
+| 29 | [Piro](http://twitter.com/search?q=Piro) | N/A |
+| 30 | [Saadet Partisi](http://twitter.com/search?q=Saadet+Partisi) | N/A |
+| 31 | [Seçimden](http://twitter.com/search?q=Se%c3%a7imden) | N/A |
+| 32 | [Masanın](http://twitter.com/search?q=Masan%c4%b1n) | N/A |
+| 33 | [Gültekin Uysal](http://twitter.com/search?q=G%c3%bcltekin+Uysal) | Gültekin Uysal is a Turkish name. It is composed of two words: Gültekin, which means "rose garden," and Uysal, which means "obedient." In English, the name would translate to "Rose Garden Obedient." |
+| 34 | [Alevi](http://twitter.com/search?q=Alevi) | N/A |
+| 35 | [SON DAKİKA](http://twitter.com/search?q=SON+DAK%c4%b0KA) | SON Dakika is a Turkish phrase that translates to "last minute" in English. It is used to refer to news or events that have just happened or are happening at the last minute. |
+| 36 | [Temel](http://twitter.com/search?q=Temel) | N/A |
+| 37 | [Ekşi Sözlük'e](http://twitter.com/search?q=Ek%c5%9fi+S%c3%b6zl%c3%bck%27e) | N/A |
+| 38 | [Ortak](http://twitter.com/search?q=Ortak) | N/A |
+| 39 | [Selahattin Demirtaş](http://twitter.com/search?q=Selahattin+Demirta%c5%9f) | N/A |
+| 40 | [Tura](http://twitter.com/search?q=Tura) | N/A |
+| 41 | [Acele](http://twitter.com/search?q=Acele) | N/A |
+| 42 | [Kazanacak](http://twitter.com/search?q=Kazanacak) | N/A |
+| 43 | [Dersim](http://twitter.com/search?q=Dersim) | N/A |
+| 44 | [İyi Akşamlar](http://twitter.com/search?q=%c4%b0yi+Ak%c5%9famlar) | N/A |
+| 45 | [#TEMADTazminattaTekYürek](http://twitter.com/search?q=%23TEMADTazminattaTekY%c3%bcrek) | N/A |
+| 46 | [#SistemEnkazda](http://twitter.com/search?q=%23SistemEnkazda) | N/A |
+| 47 | [#AcıkveNet](http://twitter.com/search?q=%23Ac%c4%b1kveNet) | N/A |
+| 48 | [#İsiasıKimDenetledi](http://twitter.com/search?q=%23%c4%b0sias%c4%b1KimDenetledi) | N/A |
+| 49 | [#GeliyorGelmekteOlan](http://twitter.com/search?q=%23GeliyorGelmekteOlan) | N/A |
+| 50 | [#CBmızÜcretliyeKadro](http://twitter.com/search?q=%23CBm%c4%b1z%c3%9ccretliyeKadro) | N/A |
 
 
 
