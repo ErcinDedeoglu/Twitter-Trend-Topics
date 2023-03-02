@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Phoenix
 
-📆 Last Updated: `2023-03-02 12:19:03 UTC`
+📆 Last Updated: `2023-03-02 13:21:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [United States](</United States>)
 | 3 | [Tucson](http://twitter.com/search?q=Tucson) | N/A |
 | 4 | [#BoycottHersheys](http://twitter.com/search?q=%23BoycottHersheys) | N/A |
 | 5 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 6 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
-| 7 | [JCole](http://twitter.com/search?q=JCole) | N/A |
-| 8 | [Friday Eve](http://twitter.com/search?q=Friday+Eve) | N/A |
-| 9 | [#WorldBookDay](http://twitter.com/search?q=%23WorldBookDay) | N/A |
+| 6 | [jiho](http://twitter.com/search?q=jiho) | N/A |
+| 7 | [#WorldBookDay](http://twitter.com/search?q=%23WorldBookDay) | N/A |
+| 8 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
+| 9 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
 | 10 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
-| 11 | [Daily Quordle 402](http://twitter.com/search?q=Daily+Quordle+402) | N/A |
-| 12 | [#Wordle621](http://twitter.com/search?q=%23Wordle621) | N/A |
-| 13 | [JHOPE](http://twitter.com/search?q=JHOPE) | N/A |
-| 14 | [Dratini](http://twitter.com/search?q=Dratini) | N/A |
-| 15 | [Dr. Seuss](http://twitter.com/search?q=Dr.+Seuss) | N/A |
-| 16 | [Yoruba](http://twitter.com/search?q=Yoruba) | N/A |
-| 17 | [Doechii](http://twitter.com/search?q=Doechii) | N/A |
-| 18 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
-| 19 | [Gible](http://twitter.com/search?q=Gible) | N/A |
-| 20 | [Noibat](http://twitter.com/search?q=Noibat) | N/A |
-| 21 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 22 | [jihyo](http://twitter.com/search?q=jihyo) | Jihyo is a Korean given name, usually for females. It is composed of two characters, the first meaning "wisdom" and the second meaning "beauty". In English, it can be translated to mean "wise beauty". |
-| 23 | [Goomy](http://twitter.com/search?q=Goomy) | N/A |
-| 24 | [Dreepy](http://twitter.com/search?q=Dreepy) | N/A |
-| 25 | [Chaka](http://twitter.com/search?q=Chaka) | N/A |
-| 26 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 27 | [Petro](http://twitter.com/search?q=Petro) | N/A |
-| 28 | [Hawaii](http://twitter.com/search?q=Hawaii) | N/A |
-| 29 | [Trapinch](http://twitter.com/search?q=Trapinch) | N/A |
-| 30 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
-| 31 | [Wanda](http://twitter.com/search?q=Wanda) | N/A |
-| 32 | [Hawley](http://twitter.com/search?q=Hawley) | N/A |
-| 33 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 34 | [Venus](http://twitter.com/search?q=Venus) | N/A |
-| 35 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
-| 36 | [John Kerry](http://twitter.com/search?q=John+Kerry) | N/A |
-| 37 | [Billboard](http://twitter.com/search?q=Billboard) | N/A |
-| 38 | [Brandon Ingram](http://twitter.com/search?q=Brandon+Ingram) | Brandon Ingram is an American professional basketball player who currently plays for the New Orleans Pelicans of the National Basketball Association (NBA). He was selected second overall in the 2016 NBA draft by the Los Angeles Lakers. He is known for his scoring ability, long wingspan, and defensive versatility. |
-| 39 | [Ultra](http://twitter.com/search?q=Ultra) | N/A |
-| 40 | [tzuyu](http://twitter.com/search?q=tzuyu) | Tzuyu is a Taiwanese singer and member of the K-pop girl group Twice. Her name is derived from the Taiwanese phrase "tzyu yu," which means "the most beautiful." |
-| 41 | [Joe Budden](http://twitter.com/search?q=Joe+Budden) | N/A |
-| 42 | [Meghan Trainor](http://twitter.com/search?q=Meghan+Trainor) | N/A |
-| 43 | [matty healy](http://twitter.com/search?q=matty+healy) | N/A |
-| 44 | [Wizkid](http://twitter.com/search?q=Wizkid) | Wizkid is a Nigerian singer, songwriter, and record producer. His real name is Ayodeji Ibrahim Balogun. The name Wizkid is derived from his childhood nickname, which was given to him by his friends due to his precociousness. In English, the term "wizkid" can be used to describe someone who is exceptionally talented or intelligent. |
-| 45 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 46 | [Bill Barr](http://twitter.com/search?q=Bill+Barr) | N/A |
-| 47 | [Ghana](http://twitter.com/search?q=Ghana) | N/A |
-| 48 | [Blaire](http://twitter.com/search?q=Blaire) | N/A |
-| 49 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
-| 50 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
+| 11 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
+| 12 | [CONG](http://twitter.com/search?q=CONG) | N/A |
+| 13 | [Daily Quordle 402](http://twitter.com/search?q=Daily+Quordle+402) | N/A |
+| 14 | [takuto](http://twitter.com/search?q=takuto) | N/A |
+| 15 | [Texas Independence Day](http://twitter.com/search?q=Texas+Independence+Day) | N/A |
+| 16 | [JCOLE](http://twitter.com/search?q=JCOLE) | N/A |
+| 17 | [SUNGMIN](http://twitter.com/search?q=SUNGMIN) | N/A |
+| 18 | [Gible](http://twitter.com/search?q=Gible) | N/A |
+| 19 | [jhope](http://twitter.com/search?q=jhope) | N/A |
+| 20 | [Dratini](http://twitter.com/search?q=Dratini) | N/A |
+| 21 | [Lavrov](http://twitter.com/search?q=Lavrov) | N/A |
+| 22 | [Chaka](http://twitter.com/search?q=Chaka) | N/A |
+| 23 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
+| 24 | [Doechii](http://twitter.com/search?q=Doechii) | N/A |
+| 25 | [Trapinch](http://twitter.com/search?q=Trapinch) | N/A |
+| 26 | [Goomy](http://twitter.com/search?q=Goomy) | N/A |
+| 27 | [Yoruba](http://twitter.com/search?q=Yoruba) | N/A |
+| 28 | [Meghan](http://twitter.com/search?q=Meghan) | N/A |
+| 29 | [Hawley](http://twitter.com/search?q=Hawley) | N/A |
+| 30 | [Noibat](http://twitter.com/search?q=Noibat) | N/A |
+| 31 | [Attacks](http://twitter.com/search?q=Attacks) | N/A |
+| 32 | [Alaska and Hawaii](http://twitter.com/search?q=Alaska+and+Hawaii) | N/A |
+| 33 | [Fentanyl](http://twitter.com/search?q=Fentanyl) | N/A |
+| 34 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
+| 35 | [Petro](http://twitter.com/search?q=Petro) | N/A |
+| 36 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 37 | [Joe Budden](http://twitter.com/search?q=Joe+Budden) | N/A |
+| 38 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 39 | [International Women's Day](http://twitter.com/search?q=International+Women%27s+Day) | N/A |
+| 40 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
+| 41 | [Barr](http://twitter.com/search?q=Barr) | Barr is a Scottish surname derived from the Gaelic word "barra", meaning "spear". It is also a common given name in Scotland. |
+| 42 | [Wanda](http://twitter.com/search?q=Wanda) | N/A |
+| 43 | [Brenda](http://twitter.com/search?q=Brenda) | N/A |
+| 44 | [Ultra](http://twitter.com/search?q=Ultra) | N/A |
+| 45 | [John Kerry](http://twitter.com/search?q=John+Kerry) | N/A |
+| 46 | [matty healy](http://twitter.com/search?q=matty+healy) | N/A |
+| 47 | [Frogmore](http://twitter.com/search?q=Frogmore) | N/A |
+| 48 | [When God](http://twitter.com/search?q=When+God) | N/A |
+| 49 | [Billboard](http://twitter.com/search?q=Billboard) | N/A |
+| 50 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
 
 
 

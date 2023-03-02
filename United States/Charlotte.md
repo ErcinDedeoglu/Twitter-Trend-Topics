@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Charlotte
 
-📆 Last Updated: `2023-03-02 12:18:57 UTC`
+📆 Last Updated: `2023-03-02 13:21:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,53 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Necas](http://twitter.com/search?q=Necas) | N/A |
-| 2 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 3 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 2 | [#Survivor44](http://twitter.com/search?q=%23Survivor44) | N/A |
+| 3 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
 | 4 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
 | 5 | [#BoycottHersheys](http://twitter.com/search?q=%23BoycottHersheys) | N/A |
 | 6 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 7 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
-| 8 | [JCole](http://twitter.com/search?q=JCole) | N/A |
-| 9 | [Friday Eve](http://twitter.com/search?q=Friday+Eve) | N/A |
-| 10 | [#WorldBookDay](http://twitter.com/search?q=%23WorldBookDay) | N/A |
+| 7 | [jiho](http://twitter.com/search?q=jiho) | N/A |
+| 8 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
+| 9 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
+| 10 | [CONG](http://twitter.com/search?q=CONG) | N/A |
 | 11 | [Daily Quordle 402](http://twitter.com/search?q=Daily+Quordle+402) | N/A |
-| 12 | [JHOPE](http://twitter.com/search?q=JHOPE) | N/A |
-| 13 | [Dratini](http://twitter.com/search?q=Dratini) | N/A |
-| 14 | [Dr. Seuss](http://twitter.com/search?q=Dr.+Seuss) | N/A |
-| 15 | [Yoruba](http://twitter.com/search?q=Yoruba) | N/A |
-| 16 | [Doechii](http://twitter.com/search?q=Doechii) | N/A |
-| 17 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
-| 18 | [Gible](http://twitter.com/search?q=Gible) | N/A |
-| 19 | [Noibat](http://twitter.com/search?q=Noibat) | N/A |
-| 20 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 21 | [Chaka](http://twitter.com/search?q=Chaka) | N/A |
-| 22 | [jihyo](http://twitter.com/search?q=jihyo) | Jihyo is a Korean given name, usually for females. It is composed of two characters, the first meaning "wisdom" and the second meaning "beauty". In English, it can be translated to mean "wise beauty". |
-| 23 | [Goomy](http://twitter.com/search?q=Goomy) | N/A |
-| 24 | [Dreepy](http://twitter.com/search?q=Dreepy) | N/A |
-| 25 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 26 | [Petro](http://twitter.com/search?q=Petro) | N/A |
-| 27 | [Hawaii](http://twitter.com/search?q=Hawaii) | N/A |
-| 28 | [Trapinch](http://twitter.com/search?q=Trapinch) | N/A |
-| 29 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
-| 30 | [Wanda](http://twitter.com/search?q=Wanda) | N/A |
-| 31 | [Hawley](http://twitter.com/search?q=Hawley) | N/A |
-| 32 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 33 | [Venus](http://twitter.com/search?q=Venus) | N/A |
-| 34 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
-| 35 | [John Kerry](http://twitter.com/search?q=John+Kerry) | N/A |
-| 36 | [Billboard](http://twitter.com/search?q=Billboard) | N/A |
-| 37 | [Brandon Ingram](http://twitter.com/search?q=Brandon+Ingram) | Brandon Ingram is an American professional basketball player who currently plays for the New Orleans Pelicans of the National Basketball Association (NBA). He was selected second overall in the 2016 NBA draft by the Los Angeles Lakers. He is known for his scoring ability, long wingspan, and defensive versatility. |
-| 38 | [Ultra](http://twitter.com/search?q=Ultra) | N/A |
-| 39 | [tzuyu](http://twitter.com/search?q=tzuyu) | Tzuyu is a Taiwanese singer and member of the K-pop girl group Twice. Her name is derived from the Taiwanese phrase "tzyu yu," which means "the most beautiful." |
-| 40 | [Joe Budden](http://twitter.com/search?q=Joe+Budden) | N/A |
-| 41 | [matty healy](http://twitter.com/search?q=matty+healy) | N/A |
-| 42 | [Meghan Trainor](http://twitter.com/search?q=Meghan+Trainor) | N/A |
-| 43 | [Wizkid](http://twitter.com/search?q=Wizkid) | Wizkid is a Nigerian singer, songwriter, and record producer. His real name is Ayodeji Ibrahim Balogun. The name Wizkid is derived from his childhood nickname, which was given to him by his friends due to his precociousness. In English, the term "wizkid" can be used to describe someone who is exceptionally talented or intelligent. |
-| 44 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 45 | [Bill Barr](http://twitter.com/search?q=Bill+Barr) | N/A |
-| 46 | [Ghana](http://twitter.com/search?q=Ghana) | N/A |
-| 47 | [Blaire](http://twitter.com/search?q=Blaire) | N/A |
-| 48 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
-| 49 | [#Wordle621](http://twitter.com/search?q=%23Wordle621) | N/A |
+| 12 | [takuto](http://twitter.com/search?q=takuto) | N/A |
+| 13 | [Texas Independence Day](http://twitter.com/search?q=Texas+Independence+Day) | N/A |
+| 14 | [JCOLE](http://twitter.com/search?q=JCOLE) | N/A |
+| 15 | [SUNGMIN](http://twitter.com/search?q=SUNGMIN) | N/A |
+| 16 | [Gible](http://twitter.com/search?q=Gible) | N/A |
+| 17 | [jhope](http://twitter.com/search?q=jhope) | N/A |
+| 18 | [Dratini](http://twitter.com/search?q=Dratini) | N/A |
+| 19 | [Lavrov](http://twitter.com/search?q=Lavrov) | N/A |
+| 20 | [Chaka](http://twitter.com/search?q=Chaka) | N/A |
+| 21 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
+| 22 | [Doechii](http://twitter.com/search?q=Doechii) | N/A |
+| 23 | [Trapinch](http://twitter.com/search?q=Trapinch) | N/A |
+| 24 | [Goomy](http://twitter.com/search?q=Goomy) | N/A |
+| 25 | [Yoruba](http://twitter.com/search?q=Yoruba) | N/A |
+| 26 | [Meghan](http://twitter.com/search?q=Meghan) | N/A |
+| 27 | [Hawley](http://twitter.com/search?q=Hawley) | N/A |
+| 28 | [Noibat](http://twitter.com/search?q=Noibat) | N/A |
+| 29 | [Attacks](http://twitter.com/search?q=Attacks) | N/A |
+| 30 | [Alaska and Hawaii](http://twitter.com/search?q=Alaska+and+Hawaii) | N/A |
+| 31 | [Fentanyl](http://twitter.com/search?q=Fentanyl) | N/A |
+| 32 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
+| 33 | [Petro](http://twitter.com/search?q=Petro) | N/A |
+| 34 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 35 | [Joe Budden](http://twitter.com/search?q=Joe+Budden) | N/A |
+| 36 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 37 | [International Women's Day](http://twitter.com/search?q=International+Women%27s+Day) | N/A |
+| 38 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
+| 39 | [Barr](http://twitter.com/search?q=Barr) | Barr is a Scottish surname derived from the Gaelic word "barra", meaning "spear". It is also a common given name in Scotland. |
+| 40 | [Wanda](http://twitter.com/search?q=Wanda) | N/A |
+| 41 | [Brenda](http://twitter.com/search?q=Brenda) | N/A |
+| 42 | [Ultra](http://twitter.com/search?q=Ultra) | N/A |
+| 43 | [John Kerry](http://twitter.com/search?q=John+Kerry) | N/A |
+| 44 | [matty healy](http://twitter.com/search?q=matty+healy) | N/A |
+| 45 | [Frogmore](http://twitter.com/search?q=Frogmore) | N/A |
+| 46 | [When God](http://twitter.com/search?q=When+God) | N/A |
+| 47 | [Billboard](http://twitter.com/search?q=Billboard) | N/A |
+| 48 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
 
 
 

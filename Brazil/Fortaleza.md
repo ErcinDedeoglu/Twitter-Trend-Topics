@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Fortaleza
 
-📆 Last Updated: `2023-03-02 12:18:21 UTC`
+📆 Last Updated: `2023-03-02 13:21:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Ceará](http://twitter.com/search?q=Cear%c3%a1) | Ceará is a state in northeastern Brazil. Its capital is Fortaleza. The name Ceará comes from the Tupi language and means "sings the jaguar". |
-| 2 | [É A RECONSTRUÇÃO DO GIGANTE](http://twitter.com/search?q=%c3%89+A+RECONSTRU%c3%87%c3%83O+DO+GIGANTE) | N/A |
-| 3 | [Vitor Gabriel](http://twitter.com/search?q=Vitor+Gabriel) | N/A |
-| 4 | [#AMagiaAconteceNoBBB](http://twitter.com/search?q=%23AMagiaAconteceNoBBB) | N/A |
-| 5 | [Vozão](http://twitter.com/search?q=Voz%c3%a3o) | N/A |
-| 6 | [Caldense](http://twitter.com/search?q=Caldense) | Caldense is a term used to refer to people or things from the Brazilian city of Caldas Novas. It is derived from the name of the city, which literally translates to "New Hot Springs" in English. |
-| 7 | [Copa do Brasil](http://twitter.com/search?q=Copa+do+Brasil) | N/A |
-| 8 | [#MoonlightChickenFinalEP](http://twitter.com/search?q=%23MoonlightChickenFinalEP) | N/A |
-| 9 | [Drugo](http://twitter.com/search?q=Drugo) | N/A |
-| 10 | [#BDSP](http://twitter.com/search?q=%23BDSP) | N/A |
-| 11 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
-| 12 | [Dedal](http://twitter.com/search?q=Dedal) | N/A |
-| 13 | [J COLE](http://twitter.com/search?q=J+COLE) | N/A |
-| 14 | [Abin](http://twitter.com/search?q=Abin) | N/A |
-| 15 | [Coreia do Norte](http://twitter.com/search?q=Coreia+do+Norte) | N/A |
-| 16 | [Casa Civil](http://twitter.com/search?q=Casa+Civil) | N/A |
-| 17 | [#LOUDWIN](http://twitter.com/search?q=%23LOUDWIN) | N/A |
-| 18 | [ON THE STREET IS COMING](http://twitter.com/search?q=ON+THE+STREET+IS+COMING) | N/A |
+| 1 | [É A RECONSTRUÇÃO DO GIGANTE](http://twitter.com/search?q=%c3%89+A+RECONSTRU%c3%87%c3%83O+DO+GIGANTE) | N/A |
+| 2 | [Vitor Gabriel](http://twitter.com/search?q=Vitor+Gabriel) | N/A |
+| 3 | [Ceará](http://twitter.com/search?q=Cear%c3%a1) | Ceará is a state in northeastern Brazil. Its capital is Fortaleza. The name Ceará comes from the Tupi language and means "sings the jaguar". |
+| 4 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 5 | [takuto](http://twitter.com/search?q=takuto) | N/A |
+| 6 | [#BoysPlanetElimination](http://twitter.com/search?q=%23BoysPlanetElimination) | N/A |
+| 7 | [#MoonlightChickenFinalEP](http://twitter.com/search?q=%23MoonlightChickenFinalEP) | N/A |
+| 8 | [#LOUDWIN](http://twitter.com/search?q=%23LOUDWIN) | N/A |
+| 9 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
+| 10 | [Coreia do Norte](http://twitter.com/search?q=Coreia+do+Norte) | N/A |
+| 11 | [Drugo](http://twitter.com/search?q=Drugo) | N/A |
+| 12 | [jiho](http://twitter.com/search?q=jiho) | N/A |
+| 13 | [Misto](http://twitter.com/search?q=Misto) | N/A |
+| 14 | [J COLE](http://twitter.com/search?q=J+COLE) | N/A |
+| 15 | [Abin](http://twitter.com/search?q=Abin) | N/A |
+| 16 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 17 | [Dedal](http://twitter.com/search?q=Dedal) | N/A |
+| 18 | [Casa Civil](http://twitter.com/search?q=Casa+Civil) | N/A |
 | 19 | [Cafu](http://twitter.com/search?q=Cafu) | N/A |
-| 20 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 21 | [Av Brasil](http://twitter.com/search?q=Av+Brasil) | N/A |
-| 22 | [jihyo](http://twitter.com/search?q=jihyo) | Jihyo is a Korean given name, usually for females. It is composed of two characters, the first meaning "wisdom" and the second meaning "beauty". In English, it can be translated to mean "wise beauty". |
-| 23 | [Bolsa Família](http://twitter.com/search?q=Bolsa+Fam%c3%adlia) | N/A |
-| 24 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 25 | [FANTINEL CASSADO](http://twitter.com/search?q=FANTINEL+CASSADO) | N/A |
-| 26 | [Petrobras](http://twitter.com/search?q=Petrobras) | N/A |
-| 27 | [Ivete](http://twitter.com/search?q=Ivete) | Ivete is a Portuguese female name derived from the Latin name Iveta, which means “yew tree”. In English, it can be translated to Evette or Yvette. |
-| 28 | [#FreeAnitta](http://twitter.com/search?q=%23FreeAnitta) | N/A |
-| 29 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 30 | [No. Scrobbles](http://twitter.com/search?q=No.+Scrobbles) | N/A |
-| 31 | [Top Album](http://twitter.com/search?q=Top+Album) | N/A |
-| 32 | [Top Track](http://twitter.com/search?q=Top+Track) | N/A |
-| 33 | [Top Artist](http://twitter.com/search?q=Top+Artist) | N/A |
-| 34 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 35 | [Pedrinho](http://twitter.com/search?q=Pedrinho) | Pedrinho is a Portuguese nickname for the name Pedro, which is the Spanish and Portuguese form of Peter. In English, it would be translated to Peter or Pete. |
-| 36 | [Elizabeth Olsen](http://twitter.com/search?q=Elizabeth+Olsen) | N/A |
-| 37 | [Flamenguista](http://twitter.com/search?q=Flamenguista) | N/A |
-| 38 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
-| 39 | [Billboard](http://twitter.com/search?q=Billboard) | N/A |
-| 40 | [Warner](http://twitter.com/search?q=Warner) | N/A |
-| 41 | [Connor](http://twitter.com/search?q=Connor) | N/A |
-| 42 | [Vargas](http://twitter.com/search?q=Vargas) | Vargas is a Spanish surname derived from the Latin word "varga," which means "wolf." It is also a common given name in Spanish-speaking countries. In English, Vargas can be translated to mean "wolf." |
-| 43 | [Damares](http://twitter.com/search?q=Damares) | Damares is a female given name of Portuguese origin. It is derived from the Latin phrase "domina mea res" which means "my lady's thing". In English, it can be translated to mean "belonging to my lady". |
+| 20 | [Petrobras](http://twitter.com/search?q=Petrobras) | N/A |
+| 21 | [#Encontro](http://twitter.com/search?q=%23Encontro) | N/A |
+| 22 | [Wo Long](http://twitter.com/search?q=Wo+Long) | N/A |
+| 23 | [Mamonas Assassinas](http://twitter.com/search?q=Mamonas+Assassinas) | N/A |
+| 24 | [Bolsa Família](http://twitter.com/search?q=Bolsa+Fam%c3%adlia) | N/A |
+| 25 | [#BDSP](http://twitter.com/search?q=%23BDSP) | N/A |
+| 26 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 27 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 28 | [ON THE STREET IS COMING](http://twitter.com/search?q=ON+THE+STREET+IS+COMING) | N/A |
+| 29 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
+| 30 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 31 | [Ivete](http://twitter.com/search?q=Ivete) | Ivete is a Portuguese female name derived from the Latin name Iveta, which means “yew tree”. In English, it can be translated to Evette or Yvette. |
+| 32 | [FANTINEL CASSADO](http://twitter.com/search?q=FANTINEL+CASSADO) | N/A |
+| 33 | [Operação](http://twitter.com/search?q=Opera%c3%a7%c3%a3o) | N/A |
+| 34 | [No. Scrobbles](http://twitter.com/search?q=No.+Scrobbles) | N/A |
+| 35 | [Top Album](http://twitter.com/search?q=Top+Album) | N/A |
+| 36 | [Av Brasil](http://twitter.com/search?q=Av+Brasil) | N/A |
+| 37 | [Top Track](http://twitter.com/search?q=Top+Track) | N/A |
+| 38 | [Top Artist](http://twitter.com/search?q=Top+Artist) | N/A |
+| 39 | [Flamenguista](http://twitter.com/search?q=Flamenguista) | N/A |
+| 40 | [Elizabeth Olsen](http://twitter.com/search?q=Elizabeth+Olsen) | N/A |
+| 41 | [Braço](http://twitter.com/search?q=Bra%c3%a7o) | N/A |
+| 42 | [Alexandre Silveira](http://twitter.com/search?q=Alexandre+Silveira) | N/A |
+| 43 | [Senado](http://twitter.com/search?q=Senado) | Senado is the Spanish word for Senate. It is used to refer to a legislative body, usually in a government or other political organization, that is composed of members who are elected or appointed by the population. In English, it can be translated as "Senate". |
 | 44 | [Kara](http://twitter.com/search?q=Kara) | N/A |
-| 45 | [Lauren](http://twitter.com/search?q=Lauren) | N/A |
-| 46 | [daisy jones and the six](http://twitter.com/search?q=daisy+jones+and+the+six) | N/A |
-| 47 | [Tiquinho](http://twitter.com/search?q=Tiquinho) | N/A |
-| 48 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 49 | [Avaí](http://twitter.com/search?q=Ava%c3%ad) | N/A |
-| 50 | [Jacaré](http://twitter.com/search?q=Jacar%c3%a9) | Jacaré is a Portuguese word meaning "alligator". It is also used as a nickname for people who are strong and powerful. |
+| 45 | [Amazônia](http://twitter.com/search?q=Amaz%c3%b4nia) | N/A |
+| 46 | [Pedrinho](http://twitter.com/search?q=Pedrinho) | Pedrinho is a Portuguese nickname for the name Pedro, which is the Spanish and Portuguese form of Peter. In English, it would be translated to Peter or Pete. |
+| 47 | [Connor](http://twitter.com/search?q=Connor) | N/A |
+| 48 | [Tiquinho](http://twitter.com/search?q=Tiquinho) | N/A |
+| 49 | [Câmara](http://twitter.com/search?q=C%c3%a2mara) | N/A |
 
 
 

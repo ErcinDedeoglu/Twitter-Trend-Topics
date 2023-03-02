@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-03-02 12:19:06 UTC`
+📆 Last Updated: `2023-03-02 13:21:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,48 +23,48 @@ This is top 50 for Austria
 | 6 | [#beyondfast](http://twitter.com/search?q=%23beyondfast) | N/A |
 | 7 | [Franz](http://twitter.com/search?q=Franz) | N/A |
 | 8 | [#wahl23](http://twitter.com/search?q=%23wahl23) | N/A |
-| 9 | [#radiology](http://twitter.com/search?q=%23radiology) | N/A |
-| 10 | [Mitleid](http://twitter.com/search?q=Mitleid) | N/A |
-| 11 | [Lockdowns](http://twitter.com/search?q=Lockdowns) | N/A |
-| 12 | [Karin](http://twitter.com/search?q=Karin) | N/A |
-| 13 | [Tage Woche](http://twitter.com/search?q=Tage+Woche) | N/A |
-| 14 | [kärntner](http://twitter.com/search?q=k%c3%a4rntner) | N/A |
+| 9 | [Tage Woche](http://twitter.com/search?q=Tage+Woche) | N/A |
+| 10 | [Lockdowns](http://twitter.com/search?q=Lockdowns) | N/A |
+| 11 | [#radiology](http://twitter.com/search?q=%23radiology) | N/A |
+| 12 | [Mitleid](http://twitter.com/search?q=Mitleid) | N/A |
+| 13 | [Karin](http://twitter.com/search?q=Karin) | N/A |
+| 14 | [siegel](http://twitter.com/search?q=siegel) | N/A |
 | 15 | [Antrag](http://twitter.com/search?q=Antrag) | N/A |
-| 16 | [siegel](http://twitter.com/search?q=siegel) | N/A |
-| 17 | [E-Auto](http://twitter.com/search?q=E-Auto) | N/A |
-| 18 | [IKEA](http://twitter.com/search?q=IKEA) | N/A |
-| 19 | [Herzliche Gratulation](http://twitter.com/search?q=Herzliche+Gratulation) | N/A |
-| 20 | [Australia](http://twitter.com/search?q=Australia) | N/A |
-| 21 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
-| 22 | [Autobahnen](http://twitter.com/search?q=Autobahnen) | N/A |
+| 16 | [Mahlzeit](http://twitter.com/search?q=Mahlzeit) | N/A |
+| 17 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 18 | [E-Auto](http://twitter.com/search?q=E-Auto) | N/A |
+| 19 | [IKEA](http://twitter.com/search?q=IKEA) | N/A |
+| 20 | [Herzliche Gratulation](http://twitter.com/search?q=Herzliche+Gratulation) | N/A |
+| 21 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 22 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
 | 23 | [Rauch](http://twitter.com/search?q=Rauch) | N/A |
-| 24 | [Kopfschmerzen](http://twitter.com/search?q=Kopfschmerzen) | N/A |
-| 25 | [Plastik](http://twitter.com/search?q=Plastik) | N/A |
-| 26 | [Gurken](http://twitter.com/search?q=Gurken) | N/A |
-| 27 | [Arbeitsbedingungen](http://twitter.com/search?q=Arbeitsbedingungen) | N/A |
-| 28 | [März 2023](http://twitter.com/search?q=M%c3%a4rz+2023) | N/A |
-| 29 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
-| 30 | [Helmut](http://twitter.com/search?q=Helmut) | N/A |
-| 31 | [Paris](http://twitter.com/search?q=Paris) | N/A |
-| 32 | [Arbeitszeit](http://twitter.com/search?q=Arbeitszeit) | N/A |
-| 33 | [Schnauze](http://twitter.com/search?q=Schnauze) | N/A |
-| 34 | [Greece](http://twitter.com/search?q=Greece) | N/A |
-| 35 | [Wirtschaftsbund](http://twitter.com/search?q=Wirtschaftsbund) | N/A |
-| 36 | [Kapitalismus](http://twitter.com/search?q=Kapitalismus) | N/A |
-| 37 | [Alexandra](http://twitter.com/search?q=Alexandra) | N/A |
-| 38 | [Makler](http://twitter.com/search?q=Makler) | N/A |
-| 39 | [ziegler](http://twitter.com/search?q=ziegler) | N/A |
-| 40 | [Gehsteig](http://twitter.com/search?q=Gehsteig) | N/A |
-| 41 | [GIVE US WN BLOOPERS](http://twitter.com/search?q=GIVE+US+WN+BLOOPERS) | N/A |
-| 42 | [rendi-wagner](http://twitter.com/search?q=rendi-wagner) | N/A |
-| 43 | [Frankreich](http://twitter.com/search?q=Frankreich) | N/A |
-| 44 | [Willkommen im Club](http://twitter.com/search?q=Willkommen+im+Club) | N/A |
-| 45 | [Dietmar](http://twitter.com/search?q=Dietmar) | N/A |
-| 46 | [U-Bahn](http://twitter.com/search?q=U-Bahn) | N/A |
-| 47 | [Schmarrn](http://twitter.com/search?q=Schmarrn) | N/A |
-| 48 | [Lohnausgleich](http://twitter.com/search?q=Lohnausgleich) | N/A |
-| 49 | [Flucht](http://twitter.com/search?q=Flucht) | N/A |
-| 50 | [Kollegin](http://twitter.com/search?q=Kollegin) | N/A |
+| 24 | [autobahnen](http://twitter.com/search?q=autobahnen) | N/A |
+| 25 | [Kollegin](http://twitter.com/search?q=Kollegin) | N/A |
+| 26 | [Kopfschmerzen](http://twitter.com/search?q=Kopfschmerzen) | N/A |
+| 27 | [Plastik](http://twitter.com/search?q=Plastik) | N/A |
+| 28 | [kärntner](http://twitter.com/search?q=k%c3%a4rntner) | N/A |
+| 29 | [Kapitalismus](http://twitter.com/search?q=Kapitalismus) | N/A |
+| 30 | [März 2023](http://twitter.com/search?q=M%c3%a4rz+2023) | N/A |
+| 31 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 32 | [Helmut](http://twitter.com/search?q=Helmut) | N/A |
+| 33 | [Apotheke](http://twitter.com/search?q=Apotheke) | N/A |
+| 34 | [Arbeitszeit](http://twitter.com/search?q=Arbeitszeit) | N/A |
+| 35 | [Schnauze](http://twitter.com/search?q=Schnauze) | N/A |
+| 36 | [Wirtschaftsbund](http://twitter.com/search?q=Wirtschaftsbund) | N/A |
+| 37 | [Makler](http://twitter.com/search?q=Makler) | N/A |
+| 38 | [Alexandra](http://twitter.com/search?q=Alexandra) | N/A |
+| 39 | [Gurken](http://twitter.com/search?q=Gurken) | N/A |
+| 40 | [Ziegler](http://twitter.com/search?q=Ziegler) | N/A |
+| 41 | [Lehrerin](http://twitter.com/search?q=Lehrerin) | N/A |
+| 42 | [GIVE US WN BLOOPERS](http://twitter.com/search?q=GIVE+US+WN+BLOOPERS) | N/A |
+| 43 | [rendi-wagner](http://twitter.com/search?q=rendi-wagner) | N/A |
+| 44 | [Frankreich](http://twitter.com/search?q=Frankreich) | N/A |
+| 45 | [Willkommen im Club](http://twitter.com/search?q=Willkommen+im+Club) | N/A |
+| 46 | [Dietmar](http://twitter.com/search?q=Dietmar) | N/A |
+| 47 | [U-Bahn](http://twitter.com/search?q=U-Bahn) | N/A |
+| 48 | [Scholz](http://twitter.com/search?q=Scholz) | N/A |
+| 49 | [Schmarrn](http://twitter.com/search?q=Schmarrn) | N/A |
+| 50 | [Österreicher](http://twitter.com/search?q=%c3%96sterreicher) | N/A |
 
 
 

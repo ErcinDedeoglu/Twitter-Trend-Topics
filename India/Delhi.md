@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Delhi
 
-📆 Last Updated: `2023-03-02 12:19:06 UTC`
+📆 Last Updated: `2023-03-02 13:21:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#बोधदिवस_पर_विशालभंडारा](http://twitter.com/search?q=%23%e0%a4%ac%e0%a5%8b%e0%a4%a7%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a4%b8_%e0%a4%aa%e0%a4%b0_%e0%a4%b5%e0%a4%bf%e0%a4%b6%e0%a4%be%e0%a4%b2%e0%a4%ad%e0%a4%82%e0%a4%a1%e0%a4%be%e0%a4%b0%e0%a4%be) | N/A |
-| 2 | [#HindenburgReport](http://twitter.com/search?q=%23HindenburgReport) | N/A |
+| 1 | [#HindenburgReport](http://twitter.com/search?q=%23HindenburgReport) | N/A |
+| 2 | [2 Days Left For Bodh Diwas](http://twitter.com/search?q=2+Days+Left+For+Bodh+Diwas) | N/A |
 | 3 | [Kohli](http://twitter.com/search?q=Kohli) | Kohli is a surname of Indian origin. It is derived from the Sanskrit word “Kul”, meaning clan or family. The name is most commonly associated with the Kohli clan of North India, which is one of the oldest clans in India. |
 | 4 | [भारत कोकिला](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4+%e0%a4%95%e0%a5%8b%e0%a4%95%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
-| 5 | [New Delhi](http://twitter.com/search?q=New+Delhi) | N/A |
-| 6 | [#G20FMM](http://twitter.com/search?q=%23G20FMM) | N/A |
-| 7 | [#SarojiniNaidu](http://twitter.com/search?q=%23SarojiniNaidu) | N/A |
-| 8 | [प्रथम महिला](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a5%e0%a4%ae+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
-| 9 | [2 Days Left For Bodh Diwas](http://twitter.com/search?q=2+Days+Left+For+Bodh+Diwas) | N/A |
-| 10 | [#AdaniGroup](http://twitter.com/search?q=%23AdaniGroup) | Adani Group is an Indian multinational conglomerate company headquartered in Ahmedabad, Gujarat. It was founded by Gautam Adani in 1988 as a commodity trading business. The group operates in multiple sectors including energy, resources, logistics, agribusiness, real estate, financial services and defence. The group has a presence in over 20 countries across the world. |
-| 11 | [Dr Jagdish Chaturvedi](http://twitter.com/search?q=Dr+Jagdish+Chaturvedi) | N/A |
-| 12 | [Pujara](http://twitter.com/search?q=Pujara) | N/A |
-| 13 | [Pradeep Bhandari](http://twitter.com/search?q=Pradeep+Bhandari) | Pradeep Bhandari is a Hindu name that means "shining light". It is derived from the Sanskrit words "pra" (light) and "deepa" (shining). |
-| 14 | [Axar](http://twitter.com/search?q=Axar) | Axar is a Sanskrit word meaning “axis” or “pole.” It is used in Hinduism to refer to the central point of the universe, around which all other things revolve. In modern usage, it can also refer to a person or thing that serves as a focal point for others. |
-| 15 | [Nathan Lyon](http://twitter.com/search?q=Nathan+Lyon) | N/A |
-| 16 | [कल्याण बोर्ड](http://twitter.com/search?q=%e0%a4%95%e0%a4%b2%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%a3+%e0%a4%ac%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%a1) | N/A |
-| 17 | [सुष्मिता सेन](http://twitter.com/search?q=%e0%a4%b8%e0%a5%81%e0%a4%b7%e0%a5%8d%e0%a4%ae%e0%a4%bf%e0%a4%a4%e0%a4%be+%e0%a4%b8%e0%a5%87%e0%a4%a8) | N/A |
-| 18 | [Siraj](http://twitter.com/search?q=Siraj) | Siraj is an Arabic name meaning "lamp" or "light". It is also used as a surname. |
-| 19 | [सुप्रीम कोर्ट](http://twitter.com/search?q=%e0%a4%b8%e0%a5%81%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%ae+%e0%a4%95%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%9f) | सुप्रीम कोर्ट (Supreme Court) is the highest court of India. It is the final court of appeal under the Constitution of India, and has the power to decide constitutional issues. The Supreme Court has original, appellate and advisory jurisdiction. Its decisions are binding on all other courts in India. The Supreme Court's decisions are also considered to be a source of law in many countries around the world. |
+| 5 | [#INDvsAUSTest](http://twitter.com/search?q=%23INDvsAUSTest) | N/A |
+| 6 | [#MatrizeSurveyRocks](http://twitter.com/search?q=%23MatrizeSurveyRocks) | N/A |
+| 7 | [Afsana Khan](http://twitter.com/search?q=Afsana+Khan) | N/A |
+| 8 | [#SushmitaSen](http://twitter.com/search?q=%23SushmitaSen) | N/A |
+| 9 | [#YaarChamkileWarge](http://twitter.com/search?q=%23YaarChamkileWarge) | N/A |
+| 10 | [dr jagdish chaturvedi](http://twitter.com/search?q=dr+jagdish+chaturvedi) | N/A |
+| 11 | [Tripura](http://twitter.com/search?q=Tripura) | N/A |
+| 12 | [Pradeep Bhandari](http://twitter.com/search?q=Pradeep+Bhandari) | Pradeep Bhandari is a Hindu name that means "shining light". It is derived from the Sanskrit words "pra" (light) and "deepa" (shining). |
+| 13 | [Pujara](http://twitter.com/search?q=Pujara) | N/A |
+| 14 | [Nathan Lyon](http://twitter.com/search?q=Nathan+Lyon) | N/A |
+| 15 | [Axar](http://twitter.com/search?q=Axar) | Axar is a Sanskrit word meaning “axis” or “pole.” It is used in Hinduism to refer to the central point of the universe, around which all other things revolve. In modern usage, it can also refer to a person or thing that serves as a focal point for others. |
+| 16 | [सुष्मिता सेन](http://twitter.com/search?q=%e0%a4%b8%e0%a5%81%e0%a4%b7%e0%a5%8d%e0%a4%ae%e0%a4%bf%e0%a4%a4%e0%a4%be+%e0%a4%b8%e0%a5%87%e0%a4%a8) | N/A |
+| 17 | [विधानसभा चुनाव](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%a7%e0%a4%be%e0%a4%a8%e0%a4%b8%e0%a4%ad%e0%a4%be+%e0%a4%9a%e0%a5%81%e0%a4%a8%e0%a4%be%e0%a4%b5) | N/A |
+| 18 | [कल्याण बोर्ड](http://twitter.com/search?q=%e0%a4%95%e0%a4%b2%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%a3+%e0%a4%ac%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%a1) | N/A |
+| 19 | [Siraj](http://twitter.com/search?q=Siraj) | Siraj is an Arabic name meaning "lamp" or "light". It is also used as a surname. |
 | 20 | [कृष्ण शास्त्री](http://twitter.com/search?q=%e0%a4%95%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%a3+%e0%a4%b6%e0%a4%be%e0%a4%b8%e0%a5%8d%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 21 | [Judiciary](http://twitter.com/search?q=Judiciary) | N/A |
-| 22 | [Iyer](http://twitter.com/search?q=Iyer) | Iyer is a Hindu Brahmin caste from South India. It is derived from the Sanskrit word “Arya”, meaning “noble” or “honorable”. Iyers are traditionally priests and scholars of the Vedas, the ancient Hindu scriptures. |
-| 23 | [Steve Smith](http://twitter.com/search?q=Steve+Smith) | Steve Smith is a common English name. It does not have any particular meaning in English. |
-| 24 | [Bharat](http://twitter.com/search?q=Bharat) | N/A |
-| 25 | [राजस्थान राज्य वीर](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be%e0%a4%a8+%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%8d%e0%a4%af+%e0%a4%b5%e0%a5%80%e0%a4%b0) | N/A |
-| 26 | [Ashwin](http://twitter.com/search?q=Ashwin) | Ashwin is a Hindu name derived from Sanskrit, meaning "lord of the horse". It is often used as a given name for boys in India. |
-| 27 | [Judges](http://twitter.com/search?q=Judges) | N/A |
-| 28 | [दलित परिवार](http://twitter.com/search?q=%e0%a4%a6%e0%a4%b2%e0%a4%bf%e0%a4%a4+%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%b5%e0%a4%be%e0%a4%b0) | N/A |
-| 29 | [Pant](http://twitter.com/search?q=Pant) | Pant is a verb meaning to breathe heavily and quickly, usually due to exertion or excitement. It is often used in the phrase "panting for breath". |
-| 30 | [SEBI](http://twitter.com/search?q=SEBI) | N/A |
-| 31 | [Italian PM](http://twitter.com/search?q=Italian+PM) | N/A |
-| 32 | [विधानसभा चुनाव](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%a7%e0%a4%be%e0%a4%a8%e0%a4%b8%e0%a4%ad%e0%a4%be+%e0%a4%9a%e0%a5%81%e0%a4%a8%e0%a4%be%e0%a4%b5) | N/A |
-| 33 | [OUT NOW](http://twitter.com/search?q=OUT+NOW) | N/A |
-| 34 | [Chief Justice of India](http://twitter.com/search?q=Chief+Justice+of+India) | N/A |
-| 35 | [दोषी माना](http://twitter.com/search?q=%e0%a4%a6%e0%a5%8b%e0%a4%b7%e0%a5%80+%e0%a4%ae%e0%a4%be%e0%a4%a8%e0%a4%be) | N/A |
-| 36 | [Pujji](http://twitter.com/search?q=Pujji) | N/A |
-| 37 | [Italy](http://twitter.com/search?q=Italy) | N/A |
-| 38 | [सुनीता चौधरी](http://twitter.com/search?q=%e0%a4%b8%e0%a5%81%e0%a4%a8%e0%a5%80%e0%a4%a4%e0%a4%be+%e0%a4%9a%e0%a5%8c%e0%a4%a7%e0%a4%b0%e0%a5%80) | N/A |
-| 39 | [चुनाव आयोग](http://twitter.com/search?q=%e0%a4%9a%e0%a5%81%e0%a4%a8%e0%a4%be%e0%a4%b5+%e0%a4%86%e0%a4%af%e0%a5%8b%e0%a4%97) | N/A |
-| 40 | [Collegium](http://twitter.com/search?q=Collegium) | N/A |
-| 41 | [रामगढ़ विधानसभा](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%ae%e0%a4%97%e0%a4%a2%e0%a4%bc+%e0%a4%b5%e0%a4%bf%e0%a4%a7%e0%a4%be%e0%a4%a8%e0%a4%b8%e0%a4%ad%e0%a4%be) | N/A |
+| 21 | [सुप्रीम कोर्ट](http://twitter.com/search?q=%e0%a4%b8%e0%a5%81%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%ae+%e0%a4%95%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%9f) | सुप्रीम कोर्ट (Supreme Court) is the highest court of India. It is the final court of appeal under the Constitution of India, and has the power to decide constitutional issues. The Supreme Court has original, appellate and advisory jurisdiction. Its decisions are binding on all other courts in India. The Supreme Court's decisions are also considered to be a source of law in many countries around the world. |
+| 22 | [Judiciary](http://twitter.com/search?q=Judiciary) | N/A |
+| 23 | [Meghalaya](http://twitter.com/search?q=Meghalaya) | N/A |
+| 24 | [दलित परिवार](http://twitter.com/search?q=%e0%a4%a6%e0%a4%b2%e0%a4%bf%e0%a4%a4+%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%b5%e0%a4%be%e0%a4%b0) | N/A |
+| 25 | [Neend](http://twitter.com/search?q=Neend) | N/A |
+| 26 | [राजस्थान राज्य वीर](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be%e0%a4%a8+%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%8d%e0%a4%af+%e0%a4%b5%e0%a5%80%e0%a4%b0) | N/A |
+| 27 | [OUT NOW](http://twitter.com/search?q=OUT+NOW) | N/A |
+| 28 | [Italy](http://twitter.com/search?q=Italy) | N/A |
+| 29 | [Bharat](http://twitter.com/search?q=Bharat) | N/A |
+| 30 | [जनता जनार्दन](http://twitter.com/search?q=%e0%a4%9c%e0%a4%a8%e0%a4%a4%e0%a4%be+%e0%a4%9c%e0%a4%a8%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%a6%e0%a4%a8) | N/A |
+| 31 | [Steve Smith](http://twitter.com/search?q=Steve+Smith) | Steve Smith is a common English name. It does not have any particular meaning in English. |
+| 32 | [Iyer](http://twitter.com/search?q=Iyer) | Iyer is a Hindu Brahmin caste from South India. It is derived from the Sanskrit word “Arya”, meaning “noble” or “honorable”. Iyers are traditionally priests and scholars of the Vedas, the ancient Hindu scriptures. |
+| 33 | [Rishabh Pant](http://twitter.com/search?q=Rishabh+Pant) | Rishabh Pant is an Indian cricketer who plays for the Indian national cricket team. He is a wicket-keeper batsman and is known for his aggressive batting style. The name Rishabh Pant comes from the Sanskrit language and means "lord of success". |
+| 34 | [चुनाव आयोग](http://twitter.com/search?q=%e0%a4%9a%e0%a5%81%e0%a4%a8%e0%a4%be%e0%a4%b5+%e0%a4%86%e0%a4%af%e0%a5%8b%e0%a4%97) | N/A |
+| 35 | [Judges](http://twitter.com/search?q=Judges) | N/A |
+| 36 | [SEBI](http://twitter.com/search?q=SEBI) | N/A |
+| 37 | [दोषी माना](http://twitter.com/search?q=%e0%a4%a6%e0%a5%8b%e0%a4%b7%e0%a5%80+%e0%a4%ae%e0%a4%be%e0%a4%a8%e0%a4%be) | N/A |
+| 38 | [Collegium](http://twitter.com/search?q=Collegium) | N/A |
+| 39 | [Italian PM](http://twitter.com/search?q=Italian+PM) | N/A |
+| 40 | [शांति समिति](http://twitter.com/search?q=%e0%a4%b6%e0%a4%be%e0%a4%82%e0%a4%a4%e0%a4%bf+%e0%a4%b8%e0%a4%ae%e0%a4%bf%e0%a4%a4%e0%a4%bf) | N/A |
+| 41 | [ashwin](http://twitter.com/search?q=ashwin) | N/A |
 | 42 | [नार्थ ईस्ट](http://twitter.com/search?q=%e0%a4%a8%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%a5+%e0%a4%88%e0%a4%b8%e0%a5%8d%e0%a4%9f) | N/A |
-| 43 | [Kishan](http://twitter.com/search?q=Kishan) | N/A |
-| 44 | [Executive](http://twitter.com/search?q=Executive) | N/A |
-| 45 | [त्रिपुरा मेघालय](http://twitter.com/search?q=%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%bf%e0%a4%aa%e0%a5%81%e0%a4%b0%e0%a4%be+%e0%a4%ae%e0%a5%87%e0%a4%98%e0%a4%be%e0%a4%b2%e0%a4%af) | N/A |
-| 46 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
+| 43 | [सुनीता चौधरी](http://twitter.com/search?q=%e0%a4%b8%e0%a5%81%e0%a4%a8%e0%a5%80%e0%a4%a4%e0%a4%be+%e0%a4%9a%e0%a5%8c%e0%a4%a7%e0%a4%b0%e0%a5%80) | N/A |
+| 44 | [Sagardighi](http://twitter.com/search?q=Sagardighi) | N/A |
+| 45 | [Executive](http://twitter.com/search?q=Executive) | N/A |
+| 46 | [रामगढ़ विधानसभा](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%ae%e0%a4%97%e0%a4%a2%e0%a4%bc+%e0%a4%b5%e0%a4%bf%e0%a4%a7%e0%a4%be%e0%a4%a8%e0%a4%b8%e0%a4%ad%e0%a4%be) | N/A |
 | 47 | [NJAC](http://twitter.com/search?q=NJAC) | N/A |
-| 48 | [Holi](http://twitter.com/search?q=Holi) | N/A |
-| 49 | [ADMK](http://twitter.com/search?q=ADMK) | N/A |
-| 50 | [Jadeja](http://twitter.com/search?q=Jadeja) | N/A |
+| 48 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
+| 49 | [Chief Justice of India](http://twitter.com/search?q=Chief+Justice+of+India) | N/A |
+| 50 | [#electionresults2023](http://twitter.com/search?q=%23electionresults2023) | N/A |
 
 
 

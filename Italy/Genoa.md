@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Genoa
 
-📆 Last Updated: `2023-03-02 12:18:27 UTC`
+📆 Last Updated: `2023-03-02 13:21:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Italy](</Italy>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Mattarella](http://twitter.com/search?q=%23Mattarella) | N/A |
-| 2 | [#2marzo](http://twitter.com/search?q=%232marzo) | N/A |
-| 3 | [#chilhavisto](http://twitter.com/search?q=%23chilhavisto) | #Chilhavisto is a Spanish hashtag that translates to "Have you seen it?" It is used to ask if someone has seen something, such as a movie, TV show, or video. |
-| 4 | [#Piantedosi](http://twitter.com/search?q=%23Piantedosi) | N/A |
+| 2 | [#Mattarella](http://twitter.com/search?q=%23Mattarella) | N/A |
+| 3 | [#Mattarella](http://twitter.com/search?q=%23Mattarella) | N/A |
+| 4 | [#2marzo](http://twitter.com/search?q=%232marzo) | N/A |
 | 5 | [Grecia](http://twitter.com/search?q=Grecia) | N/A |
 | 6 | [Speranza](http://twitter.com/search?q=Speranza) | N/A |
-| 7 | [Guardia Costiera](http://twitter.com/search?q=Guardia+Costiera) | N/A |
-| 8 | [Bergamo](http://twitter.com/search?q=Bergamo) | N/A |
+| 7 | [Bergamo](http://twitter.com/search?q=Bergamo) | N/A |
+| 8 | [Guardia Costiera](http://twitter.com/search?q=Guardia+Costiera) | N/A |
 | 9 | [Assago](http://twitter.com/search?q=Assago) | N/A |
 | 10 | [Scacciapensieri](http://twitter.com/search?q=Scacciapensieri) | N/A |
-| 11 | [Rozzano](http://twitter.com/search?q=Rozzano) | N/A |
-| 12 | [Serra](http://twitter.com/search?q=Serra) | N/A |
-| 13 | [Frontex](http://twitter.com/search?q=Frontex) | N/A |
-| 14 | [Toscani](http://twitter.com/search?q=Toscani) | N/A |
-| 15 | [Lavoriamo](http://twitter.com/search?q=Lavoriamo) | N/A |
-| 16 | [Grosseto](http://twitter.com/search?q=Grosseto) | N/A |
-| 17 | [domenico cuomo](http://twitter.com/search?q=domenico+cuomo) | N/A |
-| 18 | [Venere](http://twitter.com/search?q=Venere) | N/A |
-| 19 | [Masterchef](http://twitter.com/search?q=Masterchef) | N/A |
-| 20 | [Masiello](http://twitter.com/search?q=Masiello) | N/A |
-| 21 | [Faouzi](http://twitter.com/search?q=Faouzi) | N/A |
-| 22 | [Martina](http://twitter.com/search?q=Martina) | Martina is a female given name of Latin origin, derived from the name Martinus, which means "of Mars". It is a popular name in many countries, including Italy, Spain, Germany, Austria, and the Czech Republic. In English-speaking countries, it is often used as a short form of the longer name Martina. |
+| 11 | [Serra](http://twitter.com/search?q=Serra) | N/A |
+| 12 | [Rozzano](http://twitter.com/search?q=Rozzano) | N/A |
+| 13 | [Toscani](http://twitter.com/search?q=Toscani) | N/A |
+| 14 | [Frontex](http://twitter.com/search?q=Frontex) | N/A |
+| 15 | [Grosseto](http://twitter.com/search?q=Grosseto) | N/A |
+| 16 | [Capitano](http://twitter.com/search?q=Capitano) | N/A |
+| 17 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 18 | [domenico cuomo](http://twitter.com/search?q=domenico+cuomo) | N/A |
+| 19 | [venere](http://twitter.com/search?q=venere) | N/A |
+| 20 | [Martina](http://twitter.com/search?q=Martina) | Martina is a female given name of Latin origin, derived from the name Martinus, which means "of Mars". It is a popular name in many countries, including Italy, Spain, Germany, Austria, and the Czech Republic. In English-speaking countries, it is often used as a short form of the longer name Martina. |
+| 21 | [Lavoriamo](http://twitter.com/search?q=Lavoriamo) | N/A |
+| 22 | [Faouzi](http://twitter.com/search?q=Faouzi) | N/A |
 | 23 | [Arcilesbica](http://twitter.com/search?q=Arcilesbica) | N/A |
-| 24 | [Resilienza](http://twitter.com/search?q=Resilienza) | N/A |
-| 25 | [baudelaire](http://twitter.com/search?q=baudelaire) | N/A |
-| 26 | [Zoppo](http://twitter.com/search?q=Zoppo) | N/A |
+| 24 | [La Maura](http://twitter.com/search?q=La+Maura) | N/A |
+| 25 | [Zoppo](http://twitter.com/search?q=Zoppo) | N/A |
+| 26 | [Baudelaire](http://twitter.com/search?q=Baudelaire) | N/A |
 | 27 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
-| 28 | [Merlino](http://twitter.com/search?q=Merlino) | N/A |
-| 29 | [La Maura](http://twitter.com/search?q=La+Maura) | N/A |
-| 30 | [brusaferro](http://twitter.com/search?q=brusaferro) | N/A |
-| 31 | [Casalino](http://twitter.com/search?q=Casalino) | N/A |
-| 32 | [Margherita Cassano](http://twitter.com/search?q=Margherita+Cassano) | N/A |
-| 33 | [Turchia](http://twitter.com/search?q=Turchia) | N/A |
+| 28 | [Giappone](http://twitter.com/search?q=Giappone) | N/A |
+| 29 | [Casalino](http://twitter.com/search?q=Casalino) | N/A |
+| 30 | [Margherita Cassano](http://twitter.com/search?q=Margherita+Cassano) | N/A |
+| 31 | [Psycho](http://twitter.com/search?q=Psycho) | N/A |
+| 32 | [Indagati](http://twitter.com/search?q=Indagati) | N/A |
+| 33 | [Brusaferro](http://twitter.com/search?q=Brusaferro) | N/A |
 | 34 | [Sala](http://twitter.com/search?q=Sala) | N/A |
-| 35 | [Viola](http://twitter.com/search?q=Viola) | N/A |
-| 36 | [Tavassi](http://twitter.com/search?q=Tavassi) | N/A |
+| 35 | [Modi](http://twitter.com/search?q=Modi) | N/A |
+| 36 | [TELL US ABOUT YOURSELF](http://twitter.com/search?q=TELL+US+ABOUT+YOURSELF) | N/A |
 | 37 | [FA Cup](http://twitter.com/search?q=FA+Cup) | The FA Cup is an annual knockout football competition in England. It is the oldest football competition in the world and is run by The Football Association (FA). The FA Cup is open to any club in the top four tiers of English football, from the Premier League down to the semi-professional leagues. The tournament culminates with a final at Wembley Stadium, usually held in May. |
-| 38 | [Indagati](http://twitter.com/search?q=Indagati) | N/A |
-| 39 | [Lamorgese](http://twitter.com/search?q=Lamorgese) | N/A |
-| 40 | [TELL US ABOUT YOURSELF](http://twitter.com/search?q=TELL+US+ABOUT+YOURSELF) | N/A |
-| 41 | [Tuttosport](http://twitter.com/search?q=Tuttosport) | N/A |
-| 42 | [Borrelli](http://twitter.com/search?q=Borrelli) | N/A |
-| 43 | [Nuove](http://twitter.com/search?q=Nuove) | N/A |
-| 44 | [Mancini](http://twitter.com/search?q=Mancini) | Mancini is an Italian surname derived from the Latin name "Mantius". It is a common surname in Italy and other parts of Europe. In English, it means "son of Mantius". |
-| 45 | [Cardio](http://twitter.com/search?q=Cardio) | N/A |
-| 46 | [Festa della Donna](http://twitter.com/search?q=Festa+della+Donna) | N/A |
-| 47 | [De Vrij](http://twitter.com/search?q=De+Vrij) | N/A |
-| 48 | [Modi](http://twitter.com/search?q=Modi) | N/A |
-| 49 | [buongiorno vito](http://twitter.com/search?q=buongiorno+vito) | N/A |
+| 38 | [Lamorgese](http://twitter.com/search?q=Lamorgese) | N/A |
+| 39 | [Turchia](http://twitter.com/search?q=Turchia) | N/A |
+| 40 | [Viola](http://twitter.com/search?q=Viola) | N/A |
+| 41 | [festa della donna](http://twitter.com/search?q=festa+della+donna) | N/A |
+| 42 | [Lance Stroll](http://twitter.com/search?q=Lance+Stroll) | N/A |
+| 43 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 44 | [merlino](http://twitter.com/search?q=merlino) | N/A |
+| 45 | [Brooke](http://twitter.com/search?q=Brooke) | N/A |
+| 46 | [Gohan](http://twitter.com/search?q=Gohan) | Gohan is a Japanese word meaning "meal" or "cooked rice". It is also used to refer to a meal prepared for someone, usually as an offering of hospitality. |
+| 47 | [Tokyo](http://twitter.com/search?q=Tokyo) | N/A |
+| 48 | [Tuttosport](http://twitter.com/search?q=Tuttosport) | N/A |
+| 49 | [Intesa Sanpaolo](http://twitter.com/search?q=Intesa+Sanpaolo) | N/A |
 
 
 

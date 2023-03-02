@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bangkok
 
-📆 Last Updated: `2023-03-02 12:18:41 UTC`
+📆 Last Updated: `2023-03-02 13:21:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Thailand](</Thailand>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#TaLuengBabyXENGFA](http://twitter.com/search?q=%23TaLuengBabyXENGFA) | N/A |
-| 2 | [#LAZADA11DAYxBKPP](http://twitter.com/search?q=%23LAZADA11DAYxBKPP) | N/A |
-| 3 | [#MISTINExTARBOM](http://twitter.com/search?q=%23MISTINExTARBOM) | N/A |
-| 4 | [#ZeeNuNewKoreaInterview](http://twitter.com/search?q=%23ZeeNuNewKoreaInterview) | N/A |
-| 5 | [#MoonlightChickenFinalEP](http://twitter.com/search?q=%23MoonlightChickenFinalEP) | N/A |
-| 6 | [TY WEARS LOEWE](http://twitter.com/search?q=TY+WEARS+LOEWE) | N/A |
-| 7 | [NNN Shopee33](http://twitter.com/search?q=NNN+Shopee33) | N/A |
+| 2 | [#FREENBECKxFANDOMLIVE](http://twitter.com/search?q=%23FREENBECKxFANDOMLIVE) | N/A |
+| 3 | [#LAZADA11DAYxBKPP](http://twitter.com/search?q=%23LAZADA11DAYxBKPP) | N/A |
+| 4 | [#MISTINExTARBOM](http://twitter.com/search?q=%23MISTINExTARBOM) | N/A |
+| 5 | [#ZeeNuNewKoreaInterview](http://twitter.com/search?q=%23ZeeNuNewKoreaInterview) | N/A |
+| 6 | [NNN Shopee33](http://twitter.com/search?q=NNN+Shopee33) | N/A |
+| 7 | [TY WEARS LOEWE](http://twitter.com/search?q=TY+WEARS+LOEWE) | N/A |
 | 8 | [PATRICK BALMAIN PFW](http://twitter.com/search?q=PATRICK+BALMAIN+PFW) | N/A |
 | 9 | [Admin NongNoey](http://twitter.com/search?q=Admin+NongNoey) | N/A |
-| 10 | [5M BUILD](http://twitter.com/search?q=5M+BUILD) | N/A |
-| 11 | [HOORAY FOR 2](http://twitter.com/search?q=HOORAY+FOR+2) | N/A |
-| 12 | [cute boy 702](http://twitter.com/search?q=cute+boy+702) | N/A |
-| 13 | [JISOO THE FACE OF DIOR](http://twitter.com/search?q=JISOO+THE+FACE+OF+DIOR) | N/A |
-| 14 | [Twerk](http://twitter.com/search?q=Twerk) | N/A |
+| 10 | [Twerk](http://twitter.com/search?q=Twerk) | N/A |
+| 11 | [5M BUILD](http://twitter.com/search?q=5M+BUILD) | N/A |
+| 12 | [HOORAY FOR 2](http://twitter.com/search?q=HOORAY+FOR+2) | N/A |
+| 13 | [CUTE BOY 702](http://twitter.com/search?q=CUTE+BOY+702) | N/A |
+| 14 | [jisoo the face of dior](http://twitter.com/search?q=jisoo+the+face+of+dior) | N/A |
 | 15 | [bambam gm 02march](http://twitter.com/search?q=bambam+gm+02march) | N/A |
-| 16 | [march02 has charlotte](http://twitter.com/search?q=march02+has+charlotte) | N/A |
-| 17 | [joyful day02 to engfa](http://twitter.com/search?q=joyful+day02+to+engfa) | N/A |
-| 18 | [GROWN UP WITH NNINE](http://twitter.com/search?q=GROWN+UP+WITH+NNINE) | N/A |
-| 19 | [i love you nanon](http://twitter.com/search?q=i+love+you+nanon) | N/A |
-| 20 | [Nene Nostalgia MV](http://twitter.com/search?q=Nene+Nostalgia+MV) | N/A |
+| 16 | [JOYFUL DAY02 TO ENGFA](http://twitter.com/search?q=JOYFUL+DAY02+TO+ENGFA) | N/A |
+| 17 | [i love you nanon](http://twitter.com/search?q=i+love+you+nanon) | N/A |
+| 18 | [MARCH02 HAS CHARLOTTE](http://twitter.com/search?q=MARCH02+HAS+CHARLOTTE) | N/A |
+| 19 | [GROWN UP WITH NNINE](http://twitter.com/search?q=GROWN+UP+WITH+NNINE) | N/A |
+| 20 | [nene nostalgia mv](http://twitter.com/search?q=nene+nostalgia+mv) | N/A |
 | 21 | [Hannah Tears](http://twitter.com/search?q=Hannah+Tears) | N/A |
-| 22 | [nene x nickynachat channel](http://twitter.com/search?q=nene+x+nickynachat+channel) | N/A |
-| 23 | [Chang x Bright](http://twitter.com/search?q=Chang+x+Bright) | N/A |
-| 24 | [Nene x Flex Talk](http://twitter.com/search?q=Nene+x+Flex+Talk) | N/A |
+| 22 | [Nene x Flex Talk](http://twitter.com/search?q=Nene+x+Flex+Talk) | N/A |
+| 23 | [nene x nickynachat channel](http://twitter.com/search?q=nene+x+nickynachat+channel) | N/A |
+| 24 | [Official Teaser](http://twitter.com/search?q=Official+Teaser) | N/A |
 | 25 | [Paper Planes](http://twitter.com/search?q=Paper+Planes) | N/A |
-| 26 | [Official Teaser](http://twitter.com/search?q=Official+Teaser) | N/A |
-| 27 | [STOP MISTREATING MILE](http://twitter.com/search?q=STOP+MISTREATING+MILE) | N/A |
-| 28 | [Live Clip](http://twitter.com/search?q=Live+Clip) | N/A |
-| 29 | [Delta](http://twitter.com/search?q=Delta) | N/A |
-| 30 | [Boyfriend or Girlfriend](http://twitter.com/search?q=Boyfriend+or+Girlfriend) | N/A |
-| 31 | [Daddy or Baby](http://twitter.com/search?q=Daddy+or+Baby) | N/A |
-| 32 | [#TAEYONGtoPFW23](http://twitter.com/search?q=%23TAEYONGtoPFW23) | N/A |
-| 33 | [#PatrickxBalmainFW23](http://twitter.com/search?q=%23PatrickxBalmainFW23) | N/A |
-| 34 | [#Needly_TH](http://twitter.com/search?q=%23Needly_TH) | N/A |
-| 35 | [#นู้ดนี้ใครก็carryได้](http://twitter.com/search?q=%23%e0%b8%99%e0%b8%b9%e0%b9%89%e0%b8%94%e0%b8%99%e0%b8%b5%e0%b9%89%e0%b9%83%e0%b8%84%e0%b8%a3%e0%b8%81%e0%b9%87carry%e0%b9%84%e0%b8%94%e0%b9%89) | N/A |
-| 36 | [#iNEEDLYyou](http://twitter.com/search?q=%23iNEEDLYyou) | N/A |
-| 37 | [#เบลล่า](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%9a%e0%b8%a5%e0%b8%a5%e0%b9%88%e0%b8%b2) | N/A |
-| 38 | [#แตงโม](http://twitter.com/search?q=%23%e0%b9%81%e0%b8%95%e0%b8%87%e0%b9%82%e0%b8%a1) | N/A |
-| 39 | [#Billkin_NewSingle](http://twitter.com/search?q=%23Billkin_NewSingle) | N/A |
-| 40 | [#VenitaVideoCallMV](http://twitter.com/search?q=%23VenitaVideoCallMV) | N/A |
-| 41 | [#Shopee33xNoey](http://twitter.com/search?q=%23Shopee33xNoey) | N/A |
-| 42 | [#MoonlightChickenEP7](http://twitter.com/search?q=%23MoonlightChickenEP7) | N/A |
-| 43 | [#LoveinTheAirVLOGinVietnam](http://twitter.com/search?q=%23LoveinTheAirVLOGinVietnam) | N/A |
-| 44 | [#ทวิตล่ม](http://twitter.com/search?q=%23%e0%b8%97%e0%b8%a7%e0%b8%b4%e0%b8%95%e0%b8%a5%e0%b9%88%e0%b8%a1) | N/A |
+| 26 | [LIVE CLIP](http://twitter.com/search?q=LIVE+CLIP) | N/A |
+| 27 | [#MoonlightChickenFinalEP](http://twitter.com/search?q=%23MoonlightChickenFinalEP) | N/A |
+| 28 | [#TAEYONGtoPFW23](http://twitter.com/search?q=%23TAEYONGtoPFW23) | N/A |
+| 29 | [#LOrealSkincareXBoss](http://twitter.com/search?q=%23LOrealSkincareXBoss) | N/A |
+| 30 | [#PatrickxBalmainFW23](http://twitter.com/search?q=%23PatrickxBalmainFW23) | N/A |
+| 31 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
+| 32 | [#โดนเทเซมาที่แพทxอิงฟ้า](http://twitter.com/search?q=%23%e0%b9%82%e0%b8%94%e0%b8%99%e0%b9%80%e0%b8%97%e0%b9%80%e0%b8%8b%e0%b8%a1%e0%b8%b2%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b9%81%e0%b8%9e%e0%b8%97x%e0%b8%ad%e0%b8%b4%e0%b8%87%e0%b8%9f%e0%b9%89%e0%b8%b2) | N/A |
+| 33 | [#นู้ดนี้ใครก็carryได้](http://twitter.com/search?q=%23%e0%b8%99%e0%b8%b9%e0%b9%89%e0%b8%94%e0%b8%99%e0%b8%b5%e0%b9%89%e0%b9%83%e0%b8%84%e0%b8%a3%e0%b8%81%e0%b9%87carry%e0%b9%84%e0%b8%94%e0%b9%89) | N/A |
+| 34 | [#ร้องข้ามกําแพง](http://twitter.com/search?q=%23%e0%b8%a3%e0%b9%89%e0%b8%ad%e0%b8%87%e0%b8%82%e0%b9%89%e0%b8%b2%e0%b8%a1%e0%b8%81%e0%b9%8d%e0%b8%b2%e0%b9%81%e0%b8%9e%e0%b8%87) | N/A |
+| 35 | [#เบลล่า](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%9a%e0%b8%a5%e0%b8%a5%e0%b9%88%e0%b8%b2) | N/A |
+| 36 | [#VenitaVideoCallMV](http://twitter.com/search?q=%23VenitaVideoCallMV) | N/A |
+| 37 | [#แตงโม](http://twitter.com/search?q=%23%e0%b9%81%e0%b8%95%e0%b8%87%e0%b9%82%e0%b8%a1) | N/A |
+| 38 | [#Billkin_NewSingle](http://twitter.com/search?q=%23Billkin_NewSingle) | N/A |
+| 39 | [#unit](http://twitter.com/search?q=%23unit) | N/A |
+| 40 | [#shopee33xnoey](http://twitter.com/search?q=%23shopee33xnoey) | N/A |
+| 41 | [#Needly_TH](http://twitter.com/search?q=%23Needly_TH) | N/A |
+| 42 | [#iNEEDLYyou](http://twitter.com/search?q=%23iNEEDLYyou) | N/A |
+| 43 | [#ทวิตล่ม](http://twitter.com/search?q=%23%e0%b8%97%e0%b8%a7%e0%b8%b4%e0%b8%95%e0%b8%a5%e0%b9%88%e0%b8%a1) | N/A |
+| 44 | [#MoonlightChickenEP7](http://twitter.com/search?q=%23MoonlightChickenEP7) | N/A |
 | 45 | [#PatrickFinkler](http://twitter.com/search?q=%23PatrickFinkler) | N/A |
-| 46 | [#unit](http://twitter.com/search?q=%23unit) | N/A |
-| 47 | [#BAZAARSGxLISA](http://twitter.com/search?q=%23BAZAARSGxLISA) | N/A |
-| 48 | [#2AndHalfMWithBuild](http://twitter.com/search?q=%232AndHalfMWithBuild) | N/A |
-| 49 | [#NCTDREAM_THEDREAMSHOW2_in_BKK](http://twitter.com/search?q=%23NCTDREAM_THEDREAMSHOW2_in_BKK) | #NCTDREAM_THEDREAMSHOW2_in_BKK is a hashtag used to promote the second edition of NCT Dream's The Dream Show concert series, which was held in Bangkok, Thailand. The hashtag is used to share news and updates about the event. |
-| 50 | [#TANSANSUxMARKTUAN](http://twitter.com/search?q=%23TANSANSUxMARKTUAN) | N/A |
+| 46 | [#2AndHalfMWithBuild](http://twitter.com/search?q=%232AndHalfMWithBuild) | N/A |
+| 47 | [#ดั่งมนตราxเภตรานฤมิต](http://twitter.com/search?q=%23%e0%b8%94%e0%b8%b1%e0%b9%88%e0%b8%87%e0%b8%a1%e0%b8%99%e0%b8%95%e0%b8%a3%e0%b8%b2x%e0%b9%80%e0%b8%a0%e0%b8%95%e0%b8%a3%e0%b8%b2%e0%b8%99%e0%b8%a4%e0%b8%a1%e0%b8%b4%e0%b8%95) | N/A |
+| 48 | [#TANSANSUxMARKTUAN](http://twitter.com/search?q=%23TANSANSUxMARKTUAN) | N/A |
+| 49 | [#BAZAARSGxLISA](http://twitter.com/search?q=%23BAZAARSGxLISA) | N/A |
+| 50 | [#DilrabaXWhisper](http://twitter.com/search?q=%23DilrabaXWhisper) | N/A |
 
 
 
