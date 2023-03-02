@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Depok
 
-📆 Last Updated: `2023-03-02 18:17:21 UTC`
+📆 Last Updated: `2023-03-02 19:16:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,51 +15,55 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#LIKEITLIKEIT_OUT_NOW](http://twitter.com/search?q=%23LIKEITLIKEIT_OUT_NOW) | N/A |
-| 2 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 3 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
-| 4 | [Indomie Yatai](http://twitter.com/search?q=Indomie+Yatai) | N/A |
-| 5 | [#MoonlightChickenFinalEP](http://twitter.com/search?q=%23MoonlightChickenFinalEP) | N/A |
-| 6 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 7 | [#zonauangᅠᅠ](http://twitter.com/search?q=%23zonauang%e1%85%a0%e1%85%a0) | N/A |
-| 8 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
-| 9 | [NMIXX SIRENs CALLING](http://twitter.com/search?q=NMIXX+SIRENs+CALLING) | N/A |
-| 10 | [Foundation](http://twitter.com/search?q=Foundation) | N/A |
-| 11 | [PN Jakpus](http://twitter.com/search?q=PN+Jakpus) | N/A |
-| 12 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 13 | [Partai Prima](http://twitter.com/search?q=Partai+Prima) | N/A |
-| 14 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
-| 15 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 16 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
-| 17 | [Dota 2](http://twitter.com/search?q=Dota+2) | N/A |
-| 18 | [keita](http://twitter.com/search?q=keita) | N/A |
-| 19 | [Silent](http://twitter.com/search?q=Silent) | N/A |
-| 20 | [Sumedang](http://twitter.com/search?q=Sumedang) | N/A |
-| 21 | [KAI ROVER TEASER IMAGES 2](http://twitter.com/search?q=KAI+ROVER+TEASER+IMAGES+2) | N/A |
-| 22 | [Jatinangor](http://twitter.com/search?q=Jatinangor) | N/A |
-| 23 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 24 | [mnet](http://twitter.com/search?q=mnet) | N/A |
-| 25 | [Hendery](http://twitter.com/search?q=Hendery) | N/A |
-| 26 | [Pemilu](http://twitter.com/search?q=Pemilu) | N/A |
-| 27 | [Polda Metro Jaya](http://twitter.com/search?q=Polda+Metro+Jaya) | N/A |
-| 28 | [Han Yujin](http://twitter.com/search?q=Han+Yujin) | N/A |
-| 29 | [ARTIST AND STAFF](http://twitter.com/search?q=ARTIST+AND+STAFF) | N/A |
-| 30 | [Lazada](http://twitter.com/search?q=Lazada) | N/A |
-| 31 | [Gacoan](http://twitter.com/search?q=Gacoan) | N/A |
-| 32 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 33 | [#SECRET_NUMBER](http://twitter.com/search?q=%23SECRET_NUMBER) | N/A |
-| 34 | [#EXPÉRGO_HighlightAcapella](http://twitter.com/search?q=%23EXP%c3%89RGO_HighlightAcapella) | N/A |
-| 35 | [#ROVER_4thTeaser](http://twitter.com/search?q=%23ROVER_4thTeaser) | N/A |
-| 36 | [#FilmKhanzab](http://twitter.com/search?q=%23FilmKhanzab) | N/A |
-| 37 | [#serbujumbocashback](http://twitter.com/search?q=%23serbujumbocashback) | N/A |
-| 38 | [#SM_Listen_To_Your_Fans](http://twitter.com/search?q=%23SM_Listen_To_Your_Fans) | N/A |
-| 39 | [#YUJU](http://twitter.com/search?q=%23YUJU) | N/A |
-| 40 | [#WANGZIHAO](http://twitter.com/search?q=%23WANGZIHAO) | N/A |
-| 41 | [#보이즈플래닛](http://twitter.com/search?q=%23%eb%b3%b4%ec%9d%b4%ec%a6%88%ed%94%8c%eb%9e%98%eb%8b%9b) | N/A |
-| 42 | [#에스엠_팬들의_말을_들어주세요](http://twitter.com/search?q=%23%ec%97%90%ec%8a%a4%ec%97%a0_%ed%8c%ac%eb%93%a4%ec%9d%98_%eb%a7%90%ec%9d%84_%eb%93%a4%ec%96%b4%ec%a3%bc%ec%84%b8%ec%9a%94) | N/A |
-| 43 | [#HariRPLDesa](http://twitter.com/search?q=%23HariRPLDesa) | N/A |
-| 44 | [#UN1TYLazLive](http://twitter.com/search?q=%23UN1TYLazLive) | N/A |
-| 45 | [#VirgoandTheSparklings](http://twitter.com/search?q=%23VirgoandTheSparklings) | N/A |
+| 1 | [Indomie Yatai](http://twitter.com/search?q=Indomie+Yatai) | N/A |
+| 2 | [hanya di bloombergtechnoz](http://twitter.com/search?q=hanya+di+bloombergtechnoz) | N/A |
+| 3 | [berita ekonomi terkini](http://twitter.com/search?q=berita+ekonomi+terkini) | N/A |
+| 4 | [#LIKEITLIKEIT_OUT_NOW](http://twitter.com/search?q=%23LIKEITLIKEIT_OUT_NOW) | N/A |
+| 5 | [#TAEYONGtoPFW23](http://twitter.com/search?q=%23TAEYONGtoPFW23) | N/A |
+| 6 | [TY WEARS LOEWE](http://twitter.com/search?q=TY+WEARS+LOEWE) | N/A |
+| 7 | [#MoonlightChickenFinalEP](http://twitter.com/search?q=%23MoonlightChickenFinalEP) | N/A |
+| 8 | [ekspresikan gayamu](http://twitter.com/search?q=ekspresikan+gayamu) | N/A |
+| 9 | [#epicsurpriseparty](http://twitter.com/search?q=%23epicsurpriseparty) | N/A |
+| 10 | [#FilmKhanzab](http://twitter.com/search?q=%23FilmKhanzab) | N/A |
+| 11 | [epic grand prize](http://twitter.com/search?q=epic+grand+prize) | N/A |
+| 12 | [asuransi aia](http://twitter.com/search?q=asuransi+aia) | N/A |
+| 13 | [Silent](http://twitter.com/search?q=Silent) | N/A |
+| 14 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
+| 15 | [jkt48 hujan voucher lazada](http://twitter.com/search?q=jkt48+hujan+voucher+lazada) | N/A |
+| 16 | [HYBE PROTECT RM](http://twitter.com/search?q=HYBE+PROTECT+RM) | N/A |
+| 17 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
+| 18 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 19 | [PN Jakpus](http://twitter.com/search?q=PN+Jakpus) | N/A |
+| 20 | [BIGHIT PROTECT RM](http://twitter.com/search?q=BIGHIT+PROTECT+RM) | N/A |
+| 21 | [Formula E](http://twitter.com/search?q=Formula+E) | N/A |
+| 22 | [Khuntoria](http://twitter.com/search?q=Khuntoria) | N/A |
+| 23 | [Gelora Buat Konser](http://twitter.com/search?q=Gelora+Buat+Konser) | N/A |
+| 24 | [ARTIST AND STAFF](http://twitter.com/search?q=ARTIST+AND+STAFF) | N/A |
+| 25 | [pika](http://twitter.com/search?q=pika) | N/A |
+| 26 | [Jalur](http://twitter.com/search?q=Jalur) | N/A |
+| 27 | [Partai Prima](http://twitter.com/search?q=Partai+Prima) | N/A |
+| 28 | [NMIXX SIRENs CALLING](http://twitter.com/search?q=NMIXX+SIRENs+CALLING) | N/A |
+| 29 | [haechan lee thank you](http://twitter.com/search?q=haechan+lee+thank+you) | N/A |
+| 30 | [our sunshine park jeongwoo](http://twitter.com/search?q=our+sunshine+park+jeongwoo) | N/A |
+| 31 | [sheila dara](http://twitter.com/search?q=sheila+dara) | N/A |
+| 32 | [bapak prabowo subianto](http://twitter.com/search?q=bapak+prabowo+subianto) | N/A |
+| 33 | [KPAI](http://twitter.com/search?q=KPAI) | N/A |
+| 34 | [Maret](http://twitter.com/search?q=Maret) | N/A |
+| 35 | [WELCOME WINWIN TO PARIS](http://twitter.com/search?q=WELCOME+WINWIN+TO+PARIS) | N/A |
+| 36 | [jcole](http://twitter.com/search?q=jcole) | N/A |
+| 37 | [Ini Twitter](http://twitter.com/search?q=Ini+Twitter) | N/A |
+| 38 | [bloomberg global](http://twitter.com/search?q=bloomberg+global) | N/A |
+| 39 | [syariat ngerumat jagad](http://twitter.com/search?q=syariat+ngerumat+jagad) | N/A |
+| 40 | [Andai](http://twitter.com/search?q=Andai) | N/A |
+| 41 | [bloomberg dunia](http://twitter.com/search?q=bloomberg+dunia) | N/A |
+| 42 | [BLOOMING WITH LEESEO](http://twitter.com/search?q=BLOOMING+WITH+LEESEO) | N/A |
+| 43 | [KAI ROVER TEASER IMAGES 2](http://twitter.com/search?q=KAI+ROVER+TEASER+IMAGES+2) | N/A |
+| 44 | [Gina](http://twitter.com/search?q=Gina) | N/A |
+| 45 | [bangkit dengan islam kaffah](http://twitter.com/search?q=bangkit+dengan+islam+kaffah) | N/A |
+| 46 | [TWICE BILLBOARD AWARD](http://twitter.com/search?q=TWICE+BILLBOARD+AWARD) | N/A |
+| 47 | [BSS MCOUNTDOWN TRIPLE CROWN](http://twitter.com/search?q=BSS+MCOUNTDOWN+TRIPLE+CROWN) | N/A |
+| 48 | [Foundation](http://twitter.com/search?q=Foundation) | N/A |
+| 49 | [prabowo fokus serius](http://twitter.com/search?q=prabowo+fokus+serius) | N/A |
 
 
 

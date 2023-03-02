@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Campinas
 
-📆 Last Updated: `2023-03-02 18:17:09 UTC`
+📆 Last Updated: `2023-03-02 19:16:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Dazai](http://twitter.com/search?q=Dazai) | Dazai is a Japanese surname. It is derived from the Japanese words daza (太座) meaning "large seat" and i (伊) meaning "that". In English, it can be translated to mean "large seat holder". |
-| 2 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 3 | [Anne](http://twitter.com/search?q=Anne) | N/A |
-| 4 | [#FazoL](http://twitter.com/search?q=%23FazoL) | N/A |
-| 5 | [CPTM](http://twitter.com/search?q=CPTM) | N/A |
-| 6 | [Drugo](http://twitter.com/search?q=Drugo) | N/A |
-| 7 | [#goLOUD](http://twitter.com/search?q=%23goLOUD) | N/A |
-| 8 | [Aspas](http://twitter.com/search?q=Aspas) | Aspas is a Spanish word meaning quotation marks or inverted commas. It is used to indicate direct speech or to set off a phrase or word for emphasis. |
-| 9 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
-| 10 | [#VAVANOCORINGA](http://twitter.com/search?q=%23VAVANOCORINGA) | N/A |
-| 11 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 12 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 13 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 14 | [Boca Rosa](http://twitter.com/search?q=Boca+Rosa) | Boca Rosa is a Spanish phrase meaning "pink mouth". It is often used to describe someone who has a pinkish hue to their lips. |
-| 15 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 16 | [SEM SENTIMENTO](http://twitter.com/search?q=SEM+SENTIMENTO) | N/A |
-| 17 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
+| 2 | [Anne](http://twitter.com/search?q=Anne) | N/A |
+| 3 | [Connor](http://twitter.com/search?q=Connor) | N/A |
+| 4 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
+| 5 | [#FazoL](http://twitter.com/search?q=%23FazoL) | N/A |
+| 6 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
+| 7 | [CPTM](http://twitter.com/search?q=CPTM) | N/A |
+| 8 | [#goLOUD](http://twitter.com/search?q=%23goLOUD) | N/A |
+| 9 | [Aspas](http://twitter.com/search?q=Aspas) | Aspas is a Spanish word meaning quotation marks or inverted commas. It is used to indicate direct speech or to set off a phrase or word for emphasis. |
+| 10 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
+| 11 | [#VAVANOCORINGA](http://twitter.com/search?q=%23VAVANOCORINGA) | N/A |
+| 12 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 13 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
+| 14 | [WELCOME TO BRAZIL LAUREN](http://twitter.com/search?q=WELCOME+TO+BRAZIL+LAUREN) | N/A |
+| 15 | [Boca Rosa](http://twitter.com/search?q=Boca+Rosa) | Boca Rosa is a Spanish phrase meaning "pink mouth". It is often used to describe someone who has a pinkish hue to their lips. |
+| 16 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
+| 17 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
 | 18 | [FAÇA O L IMEDIATAMENTE](http://twitter.com/search?q=FA%c3%87A+O+L+IMEDIATAMENTE) | N/A |
-| 19 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
-| 20 | [WELCOME TO BRAZIL LAUREN](http://twitter.com/search?q=WELCOME+TO+BRAZIL+LAUREN) | N/A |
-| 21 | [Aurora](http://twitter.com/search?q=Aurora) | N/A |
-| 22 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 23 | [Bolsa Família](http://twitter.com/search?q=Bolsa+Fam%c3%adlia) | N/A |
-| 24 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
-| 25 | [Archie](http://twitter.com/search?q=Archie) | N/A |
-| 26 | [Carolana](http://twitter.com/search?q=Carolana) | N/A |
-| 27 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
-| 28 | [Coreia do Norte](http://twitter.com/search?q=Coreia+do+Norte) | N/A |
-| 29 | [Rudiger](http://twitter.com/search?q=Rudiger) | Rudiger is a German name derived from the Germanic elements hrod, meaning "fame," and ger, meaning "spear." It is a masculine name that can also be spelled Rudiger or Rudigar. In English, it means "famous spear." |
-| 30 | [Mamonas Assassinas](http://twitter.com/search?q=Mamonas+Assassinas) | N/A |
-| 31 | [Bianca Rosa](http://twitter.com/search?q=Bianca+Rosa) | N/A |
-| 32 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 33 | [Mouz](http://twitter.com/search?q=Mouz) | N/A |
-| 34 | [Petrobras](http://twitter.com/search?q=Petrobras) | N/A |
-| 35 | [Stegen](http://twitter.com/search?q=Stegen) | N/A |
-| 36 | [Succession](http://twitter.com/search?q=Succession) | N/A |
-| 37 | [Bianca Andrade](http://twitter.com/search?q=Bianca+Andrade) | N/A |
-| 38 | [Claudette](http://twitter.com/search?q=Claudette) | N/A |
-| 39 | [Misto](http://twitter.com/search?q=Misto) | N/A |
-| 40 | [The River](http://twitter.com/search?q=The+River) | N/A |
-| 41 | [Anielle Franco](http://twitter.com/search?q=Anielle+Franco) | Anielle Franco is a Brazilian name. It is derived from the Latin name Anna, which means "grace" or "favor". |
-| 42 | [two against three](http://twitter.com/search?q=two+against+three) | N/A |
-| 43 | [riley keough](http://twitter.com/search?q=riley+keough) | N/A |
-| 44 | [Dead by Daylight](http://twitter.com/search?q=Dead+by+Daylight) | N/A |
-| 45 | [Gunwook](http://twitter.com/search?q=Gunwook) | N/A |
-| 46 | [Shiv](http://twitter.com/search?q=Shiv) | N/A |
-| 47 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 48 | [Logan Roy](http://twitter.com/search?q=Logan+Roy) | N/A |
-| 49 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 19 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 20 | [The Fame](http://twitter.com/search?q=The+Fame) | N/A |
+| 21 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 22 | [Bolsa Família](http://twitter.com/search?q=Bolsa+Fam%c3%adlia) | N/A |
+| 23 | [cauanzin](http://twitter.com/search?q=cauanzin) | N/A |
+| 24 | [SEM SENTIMENTO](http://twitter.com/search?q=SEM+SENTIMENTO) | N/A |
+| 25 | [Petrobras](http://twitter.com/search?q=Petrobras) | N/A |
+| 26 | [Aurora](http://twitter.com/search?q=Aurora) | N/A |
+| 27 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 28 | [Archie](http://twitter.com/search?q=Archie) | N/A |
+| 29 | [Vuaden](http://twitter.com/search?q=Vuaden) | N/A |
+| 30 | [Deolane](http://twitter.com/search?q=Deolane) | N/A |
+| 31 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
+| 32 | [Escandaloso](http://twitter.com/search?q=Escandaloso) | N/A |
+| 33 | [Coreia do Norte](http://twitter.com/search?q=Coreia+do+Norte) | N/A |
+| 34 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 35 | [Rudiger](http://twitter.com/search?q=Rudiger) | Rudiger is a German name derived from the Germanic elements hrod, meaning "fame," and ger, meaning "spear." It is a masculine name that can also be spelled Rudiger or Rudigar. In English, it means "famous spear." |
+| 36 | [Bianca Rosa](http://twitter.com/search?q=Bianca+Rosa) | N/A |
+| 37 | [Mamonas Assassinas](http://twitter.com/search?q=Mamonas+Assassinas) | N/A |
+| 38 | [Icebox](http://twitter.com/search?q=Icebox) | N/A |
+| 39 | [Succession](http://twitter.com/search?q=Succession) | N/A |
+| 40 | [Bianca Andrade](http://twitter.com/search?q=Bianca+Andrade) | N/A |
+| 41 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
+| 42 | [MOUZ](http://twitter.com/search?q=MOUZ) | N/A |
+| 43 | [Misto](http://twitter.com/search?q=Misto) | N/A |
+| 44 | [Carolana](http://twitter.com/search?q=Carolana) | N/A |
+| 45 | [Claudette](http://twitter.com/search?q=Claudette) | N/A |
+| 46 | [Araújo](http://twitter.com/search?q=Ara%c3%bajo) | N/A |
+| 47 | [Tchouameni](http://twitter.com/search?q=Tchouameni) | N/A |
+| 48 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 49 | [Logan Roy](http://twitter.com/search?q=Logan+Roy) | N/A |
 
 
 

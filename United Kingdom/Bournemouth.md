@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bournemouth
 
-📆 Last Updated: `2023-03-02 18:16:57 UTC`
+📆 Last Updated: `2023-03-02 19:16:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Nadine](http://twitter.com/search?q=Nadine) | Nadine is a female given name of French origin, derived from the name Nadia. It is a variant of the name Nadia, which is derived from the Russian name Nadezhda, meaning “hope”. |
-| 2 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 3 | [#NTsummit](http://twitter.com/search?q=%23NTsummit) | N/A |
-| 4 | [Matt Hancock](http://twitter.com/search?q=Matt+Hancock) | Matt Hancock is the current Secretary of State for Health and Social Care in the United Kingdom. He is responsible for leading the government's response to the coronavirus pandemic. The phrase "Matt Hancock" is used to refer to him and his role in government. |
-| 5 | [#SaveOurSchools](http://twitter.com/search?q=%23SaveOurSchools) | N/A |
-| 6 | [Thiago](http://twitter.com/search?q=Thiago) | Thiago is a Portuguese and Spanish name derived from the Latin name Thiagus, which means "beloved". It is also a common nickname for the name Santiago. |
-| 7 | [#innovation](http://twitter.com/search?q=%23innovation) | N/A |
-| 8 | [Sue Gray](http://twitter.com/search?q=Sue+Gray) | N/A |
-| 9 | [Steve Mackey](http://twitter.com/search?q=Steve+Mackey) | N/A |
+| 1 | [Venus and Jupiter](http://twitter.com/search?q=Venus+and+Jupiter) | N/A |
+| 2 | [#tippingpoint](http://twitter.com/search?q=%23tippingpoint) | N/A |
+| 3 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 4 | [My President](http://twitter.com/search?q=My+President) | N/A |
+| 5 | [Matt Hancock](http://twitter.com/search?q=Matt+Hancock) | Matt Hancock is the current Secretary of State for Health and Social Care in the United Kingdom. He is responsible for leading the government's response to the coronavirus pandemic. The phrase "Matt Hancock" is used to refer to him and his role in government. |
+| 6 | [Nursery](http://twitter.com/search?q=Nursery) | N/A |
+| 7 | [#ntsummit](http://twitter.com/search?q=%23ntsummit) | N/A |
+| 8 | [#teachers](http://twitter.com/search?q=%23teachers) | N/A |
+| 9 | [Sue Gray](http://twitter.com/search?q=Sue+Gray) | N/A |
 | 10 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
 | 11 | [Partygate](http://twitter.com/search?q=Partygate) | N/A |
-| 12 | [Civil Service](http://twitter.com/search?q=Civil+Service) | N/A |
-| 13 | [John Swinney](http://twitter.com/search?q=John+Swinney) | N/A |
+| 12 | [Steve Mackey](http://twitter.com/search?q=Steve+Mackey) | N/A |
+| 13 | [Civil Service](http://twitter.com/search?q=Civil+Service) | N/A |
 | 14 | [Pulp](http://twitter.com/search?q=Pulp) | N/A |
-| 15 | [Simon Case](http://twitter.com/search?q=Simon+Case) | N/A |
-| 16 | [ACOBA](http://twitter.com/search?q=ACOBA) | N/A |
-| 17 | [Chief of Staff](http://twitter.com/search?q=Chief+of+Staff) | N/A |
-| 18 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 19 | [Manchester Arena](http://twitter.com/search?q=Manchester+Arena) | N/A |
-| 20 | [Cabinet Office](http://twitter.com/search?q=Cabinet+Office) | N/A |
-| 21 | [Year 5](http://twitter.com/search?q=Year+5) | N/A |
-| 22 | [The Tiger Who Came to Tea](http://twitter.com/search?q=The+Tiger+Who+Came+to+Tea) | N/A |
-| 23 | [Rats](http://twitter.com/search?q=Rats) | N/A |
-| 24 | [McDonalds](http://twitter.com/search?q=McDonalds) | N/A |
-| 25 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
-| 26 | [Hershey](http://twitter.com/search?q=Hershey) | N/A |
-| 27 | [Salman Abedi](http://twitter.com/search?q=Salman+Abedi) | N/A |
-| 28 | [Lee Anderson](http://twitter.com/search?q=Lee+Anderson) | N/A |
-| 29 | [30p Lee](http://twitter.com/search?q=30p+Lee) | N/A |
-| 30 | [Lockdown](http://twitter.com/search?q=Lockdown) | N/A |
-| 31 | [Stepped](http://twitter.com/search?q=Stepped) | N/A |
-| 32 | [Isabel](http://twitter.com/search?q=Isabel) | N/A |
-| 33 | [New IRA](http://twitter.com/search?q=New+IRA) | N/A |
-| 34 | [George Russell](http://twitter.com/search?q=George+Russell) | N/A |
-| 35 | [Wally](http://twitter.com/search?q=Wally) | N/A |
-| 36 | [My President](http://twitter.com/search?q=My+President) | N/A |
-| 37 | [Reception](http://twitter.com/search?q=Reception) | N/A |
-| 38 | [Badenoch](http://twitter.com/search?q=Badenoch) | N/A |
-| 39 | [mnet](http://twitter.com/search?q=mnet) | N/A |
-| 40 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
-| 41 | [Essex](http://twitter.com/search?q=Essex) | N/A |
-| 42 | [Nursery](http://twitter.com/search?q=Nursery) | N/A |
-| 43 | [Julia Donaldson](http://twitter.com/search?q=Julia+Donaldson) | N/A |
-| 44 | [Wo Long](http://twitter.com/search?q=Wo+Long) | N/A |
-| 45 | [Library](http://twitter.com/search?q=Library) | N/A |
-| 46 | [Reform](http://twitter.com/search?q=Reform) | N/A |
-| 47 | [Richard Tice](http://twitter.com/search?q=Richard+Tice) | N/A |
-| 48 | [GDPR](http://twitter.com/search?q=GDPR) | N/A |
+| 15 | [John Swinney](http://twitter.com/search?q=John+Swinney) | N/A |
+| 16 | [Simon Case](http://twitter.com/search?q=Simon+Case) | N/A |
+| 17 | [Alex Salmond](http://twitter.com/search?q=Alex+Salmond) | N/A |
+| 18 | [David Frost](http://twitter.com/search?q=David+Frost) | N/A |
+| 19 | [Chief of Staff](http://twitter.com/search?q=Chief+of+Staff) | N/A |
+| 20 | [Civil Servant](http://twitter.com/search?q=Civil+Servant) | N/A |
+| 21 | [Manchester Arena](http://twitter.com/search?q=Manchester+Arena) | N/A |
+| 22 | [ACOBA](http://twitter.com/search?q=ACOBA) | N/A |
+| 23 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
+| 24 | [Cabinet Office](http://twitter.com/search?q=Cabinet+Office) | N/A |
+| 25 | [Rats](http://twitter.com/search?q=Rats) | N/A |
+| 26 | [Mogg](http://twitter.com/search?q=Mogg) | N/A |
+| 27 | [Nadine](http://twitter.com/search?q=Nadine) | Nadine is a female given name of French origin, derived from the name Nadia. It is a variant of the name Nadia, which is derived from the Russian name Nadezhda, meaning “hope”. |
+| 28 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 29 | [The Tiger Who Came to Tea](http://twitter.com/search?q=The+Tiger+Who+Came+to+Tea) | N/A |
+| 30 | [Salman Abedi](http://twitter.com/search?q=Salman+Abedi) | N/A |
+| 31 | [Durham](http://twitter.com/search?q=Durham) | N/A |
+| 32 | [Year 5](http://twitter.com/search?q=Year+5) | N/A |
+| 33 | [30p Lee](http://twitter.com/search?q=30p+Lee) | N/A |
+| 34 | [McDonalds](http://twitter.com/search?q=McDonalds) | N/A |
+| 35 | [Isabel](http://twitter.com/search?q=Isabel) | N/A |
+| 36 | [George Russell](http://twitter.com/search?q=George+Russell) | N/A |
+| 37 | [Hershey](http://twitter.com/search?q=Hershey) | N/A |
+| 38 | [Lockdown](http://twitter.com/search?q=Lockdown) | N/A |
+| 39 | [Lee Anderson](http://twitter.com/search?q=Lee+Anderson) | N/A |
+| 40 | [Stepped](http://twitter.com/search?q=Stepped) | N/A |
+| 41 | [Wally](http://twitter.com/search?q=Wally) | N/A |
+| 42 | [New IRA](http://twitter.com/search?q=New+IRA) | N/A |
+| 43 | [Wo Long](http://twitter.com/search?q=Wo+Long) | N/A |
+| 44 | [Reception](http://twitter.com/search?q=Reception) | N/A |
+| 45 | [Tom Harwood](http://twitter.com/search?q=Tom+Harwood) | N/A |
+| 46 | [Bojo](http://twitter.com/search?q=Bojo) | N/A |
+| 47 | [Badenoch](http://twitter.com/search?q=Badenoch) | N/A |
+| 48 | [Julia Donaldson](http://twitter.com/search?q=Julia+Donaldson) | N/A |
 
 
 

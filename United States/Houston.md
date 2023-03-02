@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Houston
 
-📆 Last Updated: `2023-03-02 18:17:49 UTC`
+📆 Last Updated: `2023-03-02 19:17:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,53 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
-| 2 | [Republic of Texas](http://twitter.com/search?q=Republic+of+Texas) | N/A |
-| 3 | [#dfwwx](http://twitter.com/search?q=%23dfwwx) | N/A |
+| 1 | [Republic of Texas](http://twitter.com/search?q=Republic+of+Texas) | N/A |
+| 2 | [#dfwwx](http://twitter.com/search?q=%23dfwwx) | N/A |
+| 3 | [#AmplifyAustin](http://twitter.com/search?q=%23AmplifyAustin) | N/A |
 | 4 | [#txwx](http://twitter.com/search?q=%23txwx) | N/A |
-| 5 | [#AmplifyAustin](http://twitter.com/search?q=%23AmplifyAustin) | N/A |
-| 6 | [Merrick Garland](http://twitter.com/search?q=Merrick+Garland) | N/A |
+| 5 | [Merrick Garland](http://twitter.com/search?q=Merrick+Garland) | N/A |
+| 6 | [SXSW](http://twitter.com/search?q=SXSW) | N/A |
 | 7 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
 | 8 | [Hershey](http://twitter.com/search?q=Hershey) | N/A |
-| 9 | [Jim Griffin](http://twitter.com/search?q=Jim+Griffin) | N/A |
-| 10 | [Bateman](http://twitter.com/search?q=Bateman) | N/A |
-| 11 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 12 | [Bertuzzi](http://twitter.com/search?q=Bertuzzi) | N/A |
-| 13 | [LTIR](http://twitter.com/search?q=LTIR) | N/A |
-| 14 | [Texas Independence Day](http://twitter.com/search?q=Texas+Independence+Day) | N/A |
-| 15 | [Dr. Seuss](http://twitter.com/search?q=Dr.+Seuss) | N/A |
-| 16 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
-| 17 | [Don Sweeney](http://twitter.com/search?q=Don+Sweeney) | N/A |
-| 18 | [Weather Report](http://twitter.com/search?q=Weather+Report) | N/A |
-| 19 | [Christian Arroyo](http://twitter.com/search?q=Christian+Arroyo) | N/A |
-| 20 | [Kimmel](http://twitter.com/search?q=Kimmel) | N/A |
-| 21 | [Pasta](http://twitter.com/search?q=Pasta) | N/A |
-| 22 | [Chaka](http://twitter.com/search?q=Chaka) | N/A |
-| 23 | [Volpe](http://twitter.com/search?q=Volpe) | N/A |
-| 24 | [Bayesian](http://twitter.com/search?q=Bayesian) | N/A |
-| 25 | [Discover](http://twitter.com/search?q=Discover) | N/A |
-| 26 | [Meadors](http://twitter.com/search?q=Meadors) | N/A |
-| 27 | [Harbaugh](http://twitter.com/search?q=Harbaugh) | Harbaugh is a surname of German origin. It is derived from the German words "harb" meaning "army" and "berg" meaning "mountain". The name can be translated to mean "army mountain". |
-| 28 | [Saunders](http://twitter.com/search?q=Saunders) | N/A |
-| 29 | [Next Level Chef](http://twitter.com/search?q=Next+Level+Chef) | N/A |
-| 30 | [Andres Vasquez](http://twitter.com/search?q=Andres+Vasquez) | N/A |
-| 31 | [David Pastrnak](http://twitter.com/search?q=David+Pastrnak) | N/A |
-| 32 | [Claxton](http://twitter.com/search?q=Claxton) | Claxton is a surname of English origin. It is derived from the Old English words 'claec' meaning clay and 'tun' meaning settlement or farm. The name was originally given to someone who lived near a clay settlement or farm. |
-| 33 | [Jason Arno](http://twitter.com/search?q=Jason+Arno) | N/A |
-| 34 | [Nelly](http://twitter.com/search?q=Nelly) | Nelly is a nickname for the female given name Eleanor, which is derived from the Greek name Helenē, meaning “light” or “bright one.” It can also be used as a diminutive form of the name Cornelia. |
-| 35 | [SLED](http://twitter.com/search?q=SLED) | N/A |
-| 36 | [DS Mario Circuit](http://twitter.com/search?q=DS+Mario+Circuit) | N/A |
-| 37 | [Hall](http://twitter.com/search?q=Hall) | Hall is a noun that refers to a large room or area used for meetings, receptions, or other events. It can also refer to an entranceway or corridor in a building. |
-| 38 | [Tucson](http://twitter.com/search?q=Tucson) | N/A |
-| 39 | [Hellboy](http://twitter.com/search?q=Hellboy) | N/A |
-| 40 | [DHop](http://twitter.com/search?q=DHop) | DHop is an acronym for "Drop Hop," which is a type of dance move. It involves dropping down to the ground and then hopping back up into the air. The move is often used in hip-hop and street dance styles. |
-| 41 | [Dratini](http://twitter.com/search?q=Dratini) | N/A |
-| 42 | [Evan Engram](http://twitter.com/search?q=Evan+Engram) | Evan Engram is an American football tight end for the New York Giants of the National Football League (NFL). He was drafted by the Giants in the first round of the 2017 NFL Draft. The name Evan Engram is derived from a combination of his first and last names. |
-| 43 | [Meghan Trainor](http://twitter.com/search?q=Meghan+Trainor) | N/A |
-| 44 | [DeCosta](http://twitter.com/search?q=DeCosta) | N/A |
-| 45 | [The Ravens](http://twitter.com/search?q=The+Ravens) | N/A |
-| 46 | [Speak No Evil](http://twitter.com/search?q=Speak+No+Evil) | N/A |
-| 47 | [Scott Perry](http://twitter.com/search?q=Scott+Perry) | Scott Perry is a surname. It is of Scottish origin and is derived from the Old English words "scot" meaning "Gaelic speaker" and "peri" meaning "pear tree". The name was originally given to someone who lived near a pear tree or who was of Gaelic descent. |
-| 48 | [7 West](http://twitter.com/search?q=7+West) | N/A |
+| 9 | [Bateman](http://twitter.com/search?q=Bateman) | N/A |
+| 10 | [Bostic](http://twitter.com/search?q=Bostic) | N/A |
+| 11 | [Volpe](http://twitter.com/search?q=Volpe) | N/A |
+| 12 | [Haunted Mansion](http://twitter.com/search?q=Haunted+Mansion) | N/A |
+| 13 | [Jerry Richardson](http://twitter.com/search?q=Jerry+Richardson) | N/A |
+| 14 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
+| 15 | [Meadors](http://twitter.com/search?q=Meadors) | N/A |
+| 16 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
+| 17 | [Dr. Seuss](http://twitter.com/search?q=Dr.+Seuss) | N/A |
+| 18 | [Jim Griffin](http://twitter.com/search?q=Jim+Griffin) | N/A |
+| 19 | [Justice Department](http://twitter.com/search?q=Justice+Department) | N/A |
+| 20 | [Texas Independence Day](http://twitter.com/search?q=Texas+Independence+Day) | N/A |
+| 21 | [Weather Report](http://twitter.com/search?q=Weather+Report) | N/A |
+| 22 | [Kimmel](http://twitter.com/search?q=Kimmel) | N/A |
+| 23 | [BAMBOLA HIMNO AVATRICE](http://twitter.com/search?q=BAMBOLA+HIMNO+AVATRICE) | N/A |
+| 24 | [Christian Arroyo](http://twitter.com/search?q=Christian+Arroyo) | N/A |
+| 25 | [Bertuzzi](http://twitter.com/search?q=Bertuzzi) | N/A |
+| 26 | [LTIR](http://twitter.com/search?q=LTIR) | N/A |
+| 27 | [Eli White](http://twitter.com/search?q=Eli+White) | N/A |
+| 28 | [Chaka](http://twitter.com/search?q=Chaka) | N/A |
+| 29 | [Ryan Brasier](http://twitter.com/search?q=Ryan+Brasier) | N/A |
+| 30 | [Discover](http://twitter.com/search?q=Discover) | N/A |
+| 31 | [Nelly](http://twitter.com/search?q=Nelly) | Nelly is a nickname for the female given name Eleanor, which is derived from the Greek name Helenē, meaning “light” or “bright one.” It can also be used as a diminutive form of the name Cornelia. |
+| 32 | [Bayesian](http://twitter.com/search?q=Bayesian) | N/A |
+| 33 | [Don Sweeney](http://twitter.com/search?q=Don+Sweeney) | N/A |
+| 34 | [AI NFT](http://twitter.com/search?q=AI+NFT) | N/A |
+| 35 | [Chrissy Carr](http://twitter.com/search?q=Chrissy+Carr) | N/A |
+| 36 | [Next Level Chef](http://twitter.com/search?q=Next+Level+Chef) | N/A |
+| 37 | [Harbaugh](http://twitter.com/search?q=Harbaugh) | Harbaugh is a surname of German origin. It is derived from the German words "harb" meaning "army" and "berg" meaning "mountain". The name can be translated to mean "army mountain". |
+| 38 | [Hellboy](http://twitter.com/search?q=Hellboy) | N/A |
+| 39 | [Kiriko](http://twitter.com/search?q=Kiriko) | N/A |
+| 40 | [Pasta](http://twitter.com/search?q=Pasta) | N/A |
+| 41 | [Saunders](http://twitter.com/search?q=Saunders) | N/A |
+| 42 | [Adam Wainwright](http://twitter.com/search?q=Adam+Wainwright) | N/A |
+| 43 | [South Alabama](http://twitter.com/search?q=South+Alabama) | South Alabama is a region in the southeastern United States that includes the states of Alabama, Mississippi, and Florida. It is known for its diverse culture, rich history, and beautiful beaches. The term "South Alabama" is often used to refer to the entire region, but it can also be used to refer specifically to the state of Alabama. |
+| 44 | [Meghan Trainor](http://twitter.com/search?q=Meghan+Trainor) | N/A |
+| 45 | [Claxton](http://twitter.com/search?q=Claxton) | Claxton is a surname of English origin. It is derived from the Old English words 'claec' meaning clay and 'tun' meaning settlement or farm. The name was originally given to someone who lived near a clay settlement or farm. |
+| 46 | [Evan Engram](http://twitter.com/search?q=Evan+Engram) | Evan Engram is an American football tight end for the New York Giants of the National Football League (NFL). He was drafted by the Giants in the first round of the 2017 NFL Draft. The name Evan Engram is derived from a combination of his first and last names. |
+| 47 | [Carolinas](http://twitter.com/search?q=Carolinas) | N/A |
 
 
 

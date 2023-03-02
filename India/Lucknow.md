@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lucknow
 
-📆 Last Updated: `2023-03-02 18:17:40 UTC`
+📆 Last Updated: `2023-03-02 19:17:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [India](</India>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [सुप्रीम कोर्ट](http://twitter.com/search?q=%e0%a4%b8%e0%a5%81%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%ae+%e0%a4%95%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%9f) | सुप्रीम कोर्ट (Supreme Court) is the highest court of India. It is the final court of appeal under the Constitution of India, and has the power to decide constitutional issues. The Supreme Court has original, appellate and advisory jurisdiction. Its decisions are binding on all other courts in India. The Supreme Court's decisions are also considered to be a source of law in many countries around the world. |
-| 2 | [पीस कमेटी](http://twitter.com/search?q=%e0%a4%aa%e0%a5%80%e0%a4%b8+%e0%a4%95%e0%a4%ae%e0%a5%87%e0%a4%9f%e0%a5%80) | N/A |
-| 3 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
+| 2 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
+| 3 | [#HappyBirthdayShraddhaKapoor](http://twitter.com/search?q=%23HappyBirthdayShraddhaKapoor) | N/A |
 | 4 | [#BARCAvsMADRIDonFANCODE](http://twitter.com/search?q=%23BARCAvsMADRIDonFANCODE) | N/A |
 | 5 | [ElClasico On FanCode](http://twitter.com/search?q=ElClasico+On+FanCode) | N/A |
-| 6 | [#MSDhoni](http://twitter.com/search?q=%23MSDhoni) | N/A |
-| 7 | [#electionresults2023](http://twitter.com/search?q=%23electionresults2023) | N/A |
-| 8 | [#JSP4AP](http://twitter.com/search?q=%23JSP4AP) | N/A |
-| 9 | [#ShivThakareOnYT](http://twitter.com/search?q=%23ShivThakareOnYT) | N/A |
-| 10 | [नॉर्थ ईस्ट](http://twitter.com/search?q=%e0%a4%a8%e0%a5%89%e0%a4%b0%e0%a5%8d%e0%a4%a5+%e0%a4%88%e0%a4%b8%e0%a5%8d%e0%a4%9f) | N/A |
+| 6 | [Sandeep Reddy Vanga](http://twitter.com/search?q=Sandeep+Reddy+Vanga) | N/A |
+| 7 | [#AlluArjun](http://twitter.com/search?q=%23AlluArjun) | N/A |
+| 8 | [#MSDhoni](http://twitter.com/search?q=%23MSDhoni) | N/A |
+| 9 | [#electionresults2023](http://twitter.com/search?q=%23electionresults2023) | N/A |
+| 10 | [Atlee](http://twitter.com/search?q=Atlee) | N/A |
 | 11 | [Thala](http://twitter.com/search?q=Thala) | N/A |
-| 12 | [Sushant Always A Learner](http://twitter.com/search?q=Sushant+Always+A+Learner) | N/A |
-| 13 | [Atlee](http://twitter.com/search?q=Atlee) | N/A |
-| 14 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 15 | [Tripura](http://twitter.com/search?q=Tripura) | N/A |
-| 16 | [सईद अंसारी](http://twitter.com/search?q=%e0%a4%b8%e0%a4%88%e0%a4%a6+%e0%a4%85%e0%a4%82%e0%a4%b8%e0%a4%be%e0%a4%b0%e0%a5%80) | N/A |
+| 12 | [नॉर्थ ईस्ट](http://twitter.com/search?q=%e0%a4%a8%e0%a5%89%e0%a4%b0%e0%a5%8d%e0%a4%a5+%e0%a4%88%e0%a4%b8%e0%a5%8d%e0%a4%9f) | N/A |
+| 13 | [Sushant Always A Learner](http://twitter.com/search?q=Sushant+Always+A+Learner) | N/A |
+| 14 | [विजय अभियान](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%9c%e0%a4%af+%e0%a4%85%e0%a4%ad%e0%a4%bf%e0%a4%af%e0%a4%be%e0%a4%a8) | N/A |
+| 15 | [सईद अंसारी](http://twitter.com/search?q=%e0%a4%b8%e0%a4%88%e0%a4%a6+%e0%a4%85%e0%a4%82%e0%a4%b8%e0%a4%be%e0%a4%b0%e0%a5%80) | N/A |
+| 16 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
 | 17 | [North East](http://twitter.com/search?q=North+East) | N/A |
-| 18 | [विधानसभा चुनाव](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%a7%e0%a4%be%e0%a4%a8%e0%a4%b8%e0%a4%ad%e0%a4%be+%e0%a4%9a%e0%a5%81%e0%a4%a8%e0%a4%be%e0%a4%b5) | N/A |
-| 19 | [Dior](http://twitter.com/search?q=Dior) | Dior is a French luxury fashion house founded in 1946 by Christian Dior. The name Dior is derived from the founder's surname and is an abbreviation of his full name, Christian Dior. In English, it means "of or relating to Christian Dior". |
-| 20 | [भारतीय जनता पार्टी](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%9c%e0%a4%a8%e0%a4%a4%e0%a4%be+%e0%a4%aa%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9f%e0%a5%80) | N/A |
-| 21 | [Meghalaya](http://twitter.com/search?q=Meghalaya) | N/A |
+| 18 | [Tripura](http://twitter.com/search?q=Tripura) | N/A |
+| 19 | [विधानसभा चुनाव](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%a7%e0%a4%be%e0%a4%a8%e0%a4%b8%e0%a4%ad%e0%a4%be+%e0%a4%9a%e0%a5%81%e0%a4%a8%e0%a4%be%e0%a4%b5) | N/A |
+| 20 | [Dior](http://twitter.com/search?q=Dior) | Dior is a French luxury fashion house founded in 1946 by Christian Dior. The name Dior is derived from the founder's surname and is an abbreviation of his full name, Christian Dior. In English, it means "of or relating to Christian Dior". |
+| 21 | [भारतीय जनता पार्टी](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%9c%e0%a4%a8%e0%a4%a4%e0%a4%be+%e0%a4%aa%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9f%e0%a5%80) | N/A |
 | 22 | [जनता जनार्दन](http://twitter.com/search?q=%e0%a4%9c%e0%a4%a8%e0%a4%a4%e0%a4%be+%e0%a4%9c%e0%a4%a8%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%a6%e0%a4%a8) | N/A |
-| 23 | [GQG Partners](http://twitter.com/search?q=GQG+Partners) | N/A |
+| 23 | [Meghalaya](http://twitter.com/search?q=Meghalaya) | N/A |
 | 24 | [Neend](http://twitter.com/search?q=Neend) | N/A |
-| 25 | [शानदार विजय](http://twitter.com/search?q=%e0%a4%b6%e0%a4%be%e0%a4%a8%e0%a4%a6%e0%a4%be%e0%a4%b0+%e0%a4%b5%e0%a4%bf%e0%a4%9c%e0%a4%af) | N/A |
-| 26 | [8YRS OF TEJASSWI AS RAGINI](http://twitter.com/search?q=8YRS+OF+TEJASSWI+AS+RAGINI) | N/A |
-| 27 | [गरीब कल्याण](http://twitter.com/search?q=%e0%a4%97%e0%a4%b0%e0%a5%80%e0%a4%ac+%e0%a4%95%e0%a4%b2%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%a3) | N/A |
+| 25 | [GQG Partners](http://twitter.com/search?q=GQG+Partners) | N/A |
+| 26 | [शानदार विजय](http://twitter.com/search?q=%e0%a4%b6%e0%a4%be%e0%a4%a8%e0%a4%a6%e0%a4%be%e0%a4%b0+%e0%a4%b5%e0%a4%bf%e0%a4%9c%e0%a4%af) | N/A |
+| 27 | [8YRS OF TEJASSWI AS RAGINI](http://twitter.com/search?q=8YRS+OF+TEJASSWI+AS+RAGINI) | N/A |
 | 28 | [चुनाव आयोग](http://twitter.com/search?q=%e0%a4%9a%e0%a5%81%e0%a4%a8%e0%a4%be%e0%a4%b5+%e0%a4%86%e0%a4%af%e0%a5%8b%e0%a4%97) | N/A |
-| 29 | [Bharat Jodo Yatra](http://twitter.com/search?q=Bharat+Jodo+Yatra) | N/A |
+| 29 | [Bihari](http://twitter.com/search?q=Bihari) | N/A |
 | 30 | [Election Commissioner](http://twitter.com/search?q=Election+Commissioner) | N/A |
 | 31 | [सुष्मिता सेन](http://twitter.com/search?q=%e0%a4%b8%e0%a5%81%e0%a4%b7%e0%a5%8d%e0%a4%ae%e0%a4%bf%e0%a4%a4%e0%a4%be+%e0%a4%b8%e0%a5%87%e0%a4%a8) | N/A |
 | 32 | [Judiciary](http://twitter.com/search?q=Judiciary) | N/A |
-| 33 | [उत्तर पूर्व](http://twitter.com/search?q=%e0%a4%89%e0%a4%a4%e0%a5%8d%e0%a4%a4%e0%a4%b0+%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5) | N/A |
-| 34 | [Constitution](http://twitter.com/search?q=Constitution) | N/A |
-| 35 | [Judges](http://twitter.com/search?q=Judges) | N/A |
-| 36 | [Bihari](http://twitter.com/search?q=Bihari) | N/A |
-| 37 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
-| 38 | [NJAC](http://twitter.com/search?q=NJAC) | N/A |
-| 39 | [The SC](http://twitter.com/search?q=The+SC) | N/A |
-| 40 | [Bible](http://twitter.com/search?q=Bible) | N/A |
-| 41 | [Italy](http://twitter.com/search?q=Italy) | N/A |
-| 42 | [Sagardighi](http://twitter.com/search?q=Sagardighi) | N/A |
-| 43 | [Italian PM](http://twitter.com/search?q=Italian+PM) | N/A |
-| 44 | [ADMK](http://twitter.com/search?q=ADMK) | N/A |
-| 45 | [NOTA](http://twitter.com/search?q=NOTA) | N/A |
-| 46 | [Collegium](http://twitter.com/search?q=Collegium) | N/A |
-| 47 | [Pradeep Bhandari](http://twitter.com/search?q=Pradeep+Bhandari) | Pradeep Bhandari is a Hindu name that means "shining light". It is derived from the Sanskrit words "pra" (light) and "deepa" (shining). |
-| 48 | [Judicial](http://twitter.com/search?q=Judicial) | N/A |
-| 49 | [कल्याण बोर्ड](http://twitter.com/search?q=%e0%a4%95%e0%a4%b2%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%a3+%e0%a4%ac%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%a1) | N/A |
-| 50 | [शांति समिति](http://twitter.com/search?q=%e0%a4%b6%e0%a4%be%e0%a4%82%e0%a4%a4%e0%a4%bf+%e0%a4%b8%e0%a4%ae%e0%a4%bf%e0%a4%a4%e0%a4%bf) | N/A |
+| 33 | [Constitution](http://twitter.com/search?q=Constitution) | N/A |
+| 34 | [Judges](http://twitter.com/search?q=Judges) | N/A |
+| 35 | [Bible](http://twitter.com/search?q=Bible) | N/A |
+| 36 | [NJAC](http://twitter.com/search?q=NJAC) | N/A |
+| 37 | [The SC](http://twitter.com/search?q=The+SC) | N/A |
+| 38 | [Sagardighi](http://twitter.com/search?q=Sagardighi) | N/A |
+| 39 | [Italian PM](http://twitter.com/search?q=Italian+PM) | N/A |
+| 40 | [ADMK](http://twitter.com/search?q=ADMK) | N/A |
+| 41 | [NOTA](http://twitter.com/search?q=NOTA) | N/A |
+| 42 | [Collegium](http://twitter.com/search?q=Collegium) | N/A |
+| 43 | [Judicial](http://twitter.com/search?q=Judicial) | N/A |
+| 44 | [राष्ट्रीय लोकतांत्रिक पार्टी](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%b2%e0%a5%8b%e0%a4%95%e0%a4%a4%e0%a4%be%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%bf%e0%a4%95+%e0%a4%aa%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9f%e0%a5%80) | N/A |
+| 45 | [#PushpaTheRule](http://twitter.com/search?q=%23PushpaTheRule) | N/A |
+| 46 | [#ShivThakareOnYT](http://twitter.com/search?q=%23ShivThakareOnYT) | N/A |
+| 47 | [#JSP4AP](http://twitter.com/search?q=%23JSP4AP) | N/A |
+| 48 | [#CJIDYChandrachud](http://twitter.com/search?q=%23CJIDYChandrachud) | N/A |
+| 49 | [#TereBin](http://twitter.com/search?q=%23TereBin) | N/A |
+| 50 | [#CECJudgementControversy](http://twitter.com/search?q=%23CECJudgementControversy) | N/A |
 
 
 
