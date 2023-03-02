@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ibadan
 
-📆 Last Updated: `2023-03-02 19:17:05 UTC`
+📆 Last Updated: `2023-03-02 20:17:49 UTC`
 
 🔧 Updated every 1 hour!
 

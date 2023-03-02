@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dresden
 
-📆 Last Updated: `2023-03-02 19:16:48 UTC`
+📆 Last Updated: `2023-03-02 20:17:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,53 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#KlamrothLuegt](http://twitter.com/search?q=%23KlamrothLuegt) | N/A |
-| 2 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
-| 3 | [#Deutschlandtakt](http://twitter.com/search?q=%23Deutschlandtakt) | N/A |
-| 4 | [Koalition](http://twitter.com/search?q=Koalition) | N/A |
-| 5 | [Fabian](http://twitter.com/search?q=Fabian) | N/A |
-| 6 | [Außenpolitik](http://twitter.com/search?q=Au%c3%9fenpolitik) | N/A |
-| 7 | [Vergewaltigungen](http://twitter.com/search?q=Vergewaltigungen) | N/A |
-| 8 | [Kriegsverbrechen](http://twitter.com/search?q=Kriegsverbrechen) | N/A |
-| 9 | [Maske](http://twitter.com/search?q=Maske) | N/A |
-| 10 | [Feiertag](http://twitter.com/search?q=Feiertag) | Feiertag is a German word meaning "holiday" or "celebration day". It is used to refer to any day that is set aside for special observance, such as a national holiday, religious holiday, or other special occasion. |
-| 11 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
-| 12 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
-| 13 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
-| 14 | [Strom](http://twitter.com/search?q=Strom) | N/A |
-| 15 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 16 | [Moderator](http://twitter.com/search?q=Moderator) | N/A |
-| 17 | [Wärmepumpen](http://twitter.com/search?q=W%c3%a4rmepumpen) | N/A |
-| 18 | [Jahre Berufserfahrung](http://twitter.com/search?q=Jahre+Berufserfahrung) | N/A |
-| 19 | [Heizungen](http://twitter.com/search?q=Heizungen) | N/A |
-| 20 | [Faktencheck](http://twitter.com/search?q=Faktencheck) | N/A |
-| 21 | [Cannabis](http://twitter.com/search?q=Cannabis) | N/A |
-| 22 | [Jusos](http://twitter.com/search?q=Jusos) | N/A |
-| 23 | [März 2023](http://twitter.com/search?q=M%c3%a4rz+2023) | N/A |
-| 24 | [Berliner SPD](http://twitter.com/search?q=Berliner+SPD) | N/A |
-| 25 | [Toiletten](http://twitter.com/search?q=Toiletten) | N/A |
-| 26 | [Menstruationshintergrund](http://twitter.com/search?q=Menstruationshintergrund) | N/A |
-| 27 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
-| 28 | [Gräber](http://twitter.com/search?q=Gr%c3%a4ber) | N/A |
-| 29 | [Bundesrat](http://twitter.com/search?q=Bundesrat) | N/A |
-| 30 | [Seenotrettung](http://twitter.com/search?q=Seenotrettung) | N/A |
-| 31 | [Schönen Donnerstag](http://twitter.com/search?q=Sch%c3%b6nen+Donnerstag) | N/A |
-| 32 | [Porsche](http://twitter.com/search?q=Porsche) | N/A |
-| 33 | [Zellhaufen](http://twitter.com/search?q=Zellhaufen) | N/A |
-| 34 | [Kevin](http://twitter.com/search?q=Kevin) | N/A |
-| 35 | [Glühbirnen](http://twitter.com/search?q=Gl%c3%bchbirnen) | N/A |
-| 36 | [jcole](http://twitter.com/search?q=jcole) | N/A |
-| 37 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 38 | [Schulze](http://twitter.com/search?q=Schulze) | N/A |
-| 39 | [SPD-Mitglied](http://twitter.com/search?q=SPD-Mitglied) | N/A |
-| 40 | [Schönen Abend](http://twitter.com/search?q=Sch%c3%b6nen+Abend) | N/A |
-| 41 | [Mützenich](http://twitter.com/search?q=M%c3%bctzenich) | N/A |
-| 42 | [Vorspeise](http://twitter.com/search?q=Vorspeise) | N/A |
-| 43 | [Wegner](http://twitter.com/search?q=Wegner) | N/A |
-| 44 | [Technologie](http://twitter.com/search?q=Technologie) | N/A |
-| 45 | [Sicherheitsrat](http://twitter.com/search?q=Sicherheitsrat) | N/A |
-| 46 | [Kipping](http://twitter.com/search?q=Kipping) | N/A |
-| 47 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
-| 48 | [Steinmeier](http://twitter.com/search?q=Steinmeier) | N/A |
+| 1 | [#gntm](http://twitter.com/search?q=%23gntm) | N/A |
+| 2 | [#KlamrothLuegt](http://twitter.com/search?q=%23KlamrothLuegt) | N/A |
+| 3 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
+| 4 | [Rankin](http://twitter.com/search?q=Rankin) | N/A |
+| 5 | [Heidi](http://twitter.com/search?q=Heidi) | N/A |
+| 6 | [Fabian](http://twitter.com/search?q=Fabian) | N/A |
+| 7 | [Black Pearl](http://twitter.com/search?q=Black+Pearl) | N/A |
+| 8 | [Koalition](http://twitter.com/search?q=Koalition) | N/A |
+| 9 | [Drinks](http://twitter.com/search?q=Drinks) | N/A |
+| 10 | [Außenpolitik](http://twitter.com/search?q=Au%c3%9fenpolitik) | N/A |
+| 11 | [Vergewaltigungen](http://twitter.com/search?q=Vergewaltigungen) | N/A |
+| 12 | [Mirella](http://twitter.com/search?q=Mirella) | Mirella is a female given name of Italian origin. It is derived from the Latin word mirabilis, meaning "wonderful" or "marvelous". |
+| 13 | [Kriegsverbrechen](http://twitter.com/search?q=Kriegsverbrechen) | N/A |
+| 14 | [Maske](http://twitter.com/search?q=Maske) | N/A |
+| 15 | [Feiertag](http://twitter.com/search?q=Feiertag) | Feiertag is a German word meaning "holiday" or "celebration day". It is used to refer to any day that is set aside for special observance, such as a national holiday, religious holiday, or other special occasion. |
+| 16 | [BAMBOLA HIMNO AVATRICE](http://twitter.com/search?q=BAMBOLA+HIMNO+AVATRICE) | N/A |
+| 17 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
+| 18 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
+| 19 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
+| 20 | [Strom](http://twitter.com/search?q=Strom) | N/A |
+| 21 | [Moderator](http://twitter.com/search?q=Moderator) | N/A |
+| 22 | [Wärmepumpen](http://twitter.com/search?q=W%c3%a4rmepumpen) | N/A |
+| 23 | [Jahre Berufserfahrung](http://twitter.com/search?q=Jahre+Berufserfahrung) | N/A |
+| 24 | [Faktencheck](http://twitter.com/search?q=Faktencheck) | N/A |
+| 25 | [Heizungen](http://twitter.com/search?q=Heizungen) | N/A |
+| 26 | [Jusos](http://twitter.com/search?q=Jusos) | N/A |
+| 27 | [Cannabis](http://twitter.com/search?q=Cannabis) | N/A |
+| 28 | [März 2023](http://twitter.com/search?q=M%c3%a4rz+2023) | N/A |
+| 29 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
+| 30 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
+| 31 | [Toiletten](http://twitter.com/search?q=Toiletten) | N/A |
+| 32 | [Berliner SPD](http://twitter.com/search?q=Berliner+SPD) | N/A |
+| 33 | [Seenotrettung](http://twitter.com/search?q=Seenotrettung) | N/A |
+| 34 | [Hartmut](http://twitter.com/search?q=Hartmut) | N/A |
+| 35 | [Schönen Donnerstag](http://twitter.com/search?q=Sch%c3%b6nen+Donnerstag) | N/A |
+| 36 | [Zellhaufen](http://twitter.com/search?q=Zellhaufen) | N/A |
+| 37 | [Gräber](http://twitter.com/search?q=Gr%c3%a4ber) | N/A |
+| 38 | [Schönen Abend](http://twitter.com/search?q=Sch%c3%b6nen+Abend) | N/A |
+| 39 | [Bundesrat](http://twitter.com/search?q=Bundesrat) | N/A |
+| 40 | [Porsche](http://twitter.com/search?q=Porsche) | N/A |
+| 41 | [Glühbirnen](http://twitter.com/search?q=Gl%c3%bchbirnen) | N/A |
+| 42 | [jcole](http://twitter.com/search?q=jcole) | N/A |
+| 43 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 44 | [Schulze](http://twitter.com/search?q=Schulze) | N/A |
+| 45 | [Freiheit und Selbstbestimmung](http://twitter.com/search?q=Freiheit+und+Selbstbestimmung) | N/A |
+| 46 | [SPD-Mitglied](http://twitter.com/search?q=SPD-Mitglied) | N/A |
+| 47 | [Mützenich](http://twitter.com/search?q=M%c3%bctzenich) | N/A |
 
 
 

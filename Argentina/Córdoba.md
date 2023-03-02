@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Córdoba
 
-📆 Last Updated: `2023-03-02 19:16:43 UTC`
+📆 Last Updated: `2023-03-02 20:17:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for [Argentina](</Argentina>)
 | 4 | [Narcos](http://twitter.com/search?q=Narcos) | N/A |
 | 5 | [Carola](http://twitter.com/search?q=Carola) | Carola is a female given name of Latin origin, derived from the masculine name Carolus, which is the Latin form of Charles. It means "free man" or "strong". |
 | 6 | [Ministro de Seguridad](http://twitter.com/search?q=Ministro+de+Seguridad) | N/A |
-| 7 | [Hace 20](http://twitter.com/search?q=Hace+20) | N/A |
-| 8 | [FFAA](http://twitter.com/search?q=FFAA) | N/A |
-| 9 | [Roccuzzo](http://twitter.com/search?q=Roccuzzo) | N/A |
+| 7 | [FFAA](http://twitter.com/search?q=FFAA) | N/A |
+| 8 | [Hace 20](http://twitter.com/search?q=Hace+20) | N/A |
+| 9 | [Farfa](http://twitter.com/search?q=Farfa) | N/A |
 | 10 | [Javkin](http://twitter.com/search?q=Javkin) | N/A |
-| 11 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 12 | [Santa Fe](http://twitter.com/search?q=Santa+Fe) | N/A |
-| 13 | [#Intrusos](http://twitter.com/search?q=%23Intrusos) | N/A |
-| 14 | [Central](http://twitter.com/search?q=Central) | N/A |
+| 11 | [EXPLICA TU TWITTER](http://twitter.com/search?q=EXPLICA+TU+TWITTER) | N/A |
+| 12 | [Lele Pons](http://twitter.com/search?q=Lele+Pons) | N/A |
+| 13 | [Santa Fe](http://twitter.com/search?q=Santa+Fe) | N/A |
+| 14 | [Roccuzzo](http://twitter.com/search?q=Roccuzzo) | N/A |
 | 15 | [#MacriMufa](http://twitter.com/search?q=%23MacriMufa) | N/A |
-| 16 | [EXPLICA TU TWITTER](http://twitter.com/search?q=EXPLICA+TU+TWITTER) | N/A |
-| 17 | [Lele Pons](http://twitter.com/search?q=Lele+Pons) | N/A |
-| 18 | [La Morsa](http://twitter.com/search?q=La+Morsa) | N/A |
-| 19 | [Afterlife](http://twitter.com/search?q=Afterlife) | N/A |
+| 16 | [Morsa](http://twitter.com/search?q=Morsa) | N/A |
+| 17 | [CARRE](http://twitter.com/search?q=CARRE) | CARRE is a French word meaning "square". It is used to describe a shape that has four equal sides and four right angles. |
+| 18 | [Rosarinos](http://twitter.com/search?q=Rosarinos) | N/A |
+| 19 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
 | 20 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
-| 21 | [Ganaron](http://twitter.com/search?q=Ganaron) | N/A |
-| 22 | [Los Monos](http://twitter.com/search?q=Los+Monos) | N/A |
-| 23 | [Rosarinos](http://twitter.com/search?q=Rosarinos) | N/A |
-| 24 | [Duncan](http://twitter.com/search?q=Duncan) | N/A |
-| 25 | [Ritondo](http://twitter.com/search?q=Ritondo) | N/A |
-| 26 | [Gaibor](http://twitter.com/search?q=Gaibor) | N/A |
-| 27 | [Palta](http://twitter.com/search?q=Palta) | N/A |
-| 28 | [Aristides](http://twitter.com/search?q=Aristides) | N/A |
-| 29 | [Perotti](http://twitter.com/search?q=Perotti) | N/A |
-| 30 | [Nisman](http://twitter.com/search?q=Nisman) | Nisman is a surname of Jewish origin. It is derived from the Hebrew name Nissim, which means "miracles". In English, the name Nisman can be translated to mean "miracle worker". |
-| 31 | [Fuerzas Armadas](http://twitter.com/search?q=Fuerzas+Armadas) | N/A |
-| 32 | [#ESPNF90](http://twitter.com/search?q=%23ESPNF90) | N/A |
-| 33 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
-| 34 | [Newells](http://twitter.com/search?q=Newells) | N/A |
-| 35 | [Pablo Escobar](http://twitter.com/search?q=Pablo+Escobar) | N/A |
-| 36 | [Guillermina](http://twitter.com/search?q=Guillermina) | N/A |
-| 37 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
-| 38 | [Aldana](http://twitter.com/search?q=Aldana) | N/A |
-| 39 | [Reino Unido](http://twitter.com/search?q=Reino+Unido) | N/A |
-| 40 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
-| 41 | [#Inseguridad](http://twitter.com/search?q=%23Inseguridad) | N/A |
-| 42 | [Intendente](http://twitter.com/search?q=Intendente) | N/A |
-| 43 | [Tinelli](http://twitter.com/search?q=Tinelli) | N/A |
-| 44 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 45 | [Gastón Edul](http://twitter.com/search?q=Gast%c3%b3n+Edul) | N/A |
-| 46 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 21 | [Afterlife](http://twitter.com/search?q=Afterlife) | N/A |
+| 22 | [#Intrusos](http://twitter.com/search?q=%23Intrusos) | N/A |
+| 23 | [Central](http://twitter.com/search?q=Central) | N/A |
+| 24 | [Aristides](http://twitter.com/search?q=Aristides) | N/A |
+| 25 | [Duncan](http://twitter.com/search?q=Duncan) | N/A |
+| 26 | [Ganaron](http://twitter.com/search?q=Ganaron) | N/A |
+| 27 | [Los Monos](http://twitter.com/search?q=Los+Monos) | N/A |
+| 28 | [Gaibor](http://twitter.com/search?q=Gaibor) | N/A |
+| 29 | [#SquidCraft2](http://twitter.com/search?q=%23SquidCraft2) | N/A |
+| 30 | [Fuerzas Armadas](http://twitter.com/search?q=Fuerzas+Armadas) | N/A |
+| 31 | [Perotti](http://twitter.com/search?q=Perotti) | N/A |
+| 32 | [Ritondo](http://twitter.com/search?q=Ritondo) | N/A |
+| 33 | [Palta](http://twitter.com/search?q=Palta) | N/A |
+| 34 | [Nisman](http://twitter.com/search?q=Nisman) | Nisman is a surname of Jewish origin. It is derived from the Hebrew name Nissim, which means "miracles". In English, the name Nisman can be translated to mean "miracle worker". |
+| 35 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 36 | [Newells](http://twitter.com/search?q=Newells) | N/A |
+| 37 | [Guillermina](http://twitter.com/search?q=Guillermina) | N/A |
+| 38 | [Pablo Escobar](http://twitter.com/search?q=Pablo+Escobar) | N/A |
+| 39 | [Tinelli](http://twitter.com/search?q=Tinelli) | N/A |
+| 40 | [#TeamVerano](http://twitter.com/search?q=%23TeamVerano) | N/A |
+| 41 | [Reino Unido](http://twitter.com/search?q=Reino+Unido) | N/A |
+| 42 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
+| 43 | [Aldana](http://twitter.com/search?q=Aldana) | N/A |
+| 44 | [Intendente](http://twitter.com/search?q=Intendente) | N/A |
+| 45 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
+| 46 | [Gastón Edul](http://twitter.com/search?q=Gast%c3%b3n+Edul) | N/A |
 | 47 | [all of the girls](http://twitter.com/search?q=all+of+the+girls) | N/A |
 | 48 | [Inútil](http://twitter.com/search?q=In%c3%batil) | N/A |
-| 49 | [Mafia](http://twitter.com/search?q=Mafia) | N/A |
-| 50 | [Peter](http://twitter.com/search?q=Peter) | N/A |
+| 49 | [Peter](http://twitter.com/search?q=Peter) | N/A |
+| 50 | [#Inseguridad](http://twitter.com/search?q=%23Inseguridad) | N/A |
 
 
 

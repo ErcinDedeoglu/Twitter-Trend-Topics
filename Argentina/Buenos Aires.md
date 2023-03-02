@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Buenos Aires
 
-📆 Last Updated: `2023-03-02 19:16:44 UTC`
+📆 Last Updated: `2023-03-02 20:17:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,44 +25,44 @@ This is top 50 for [Argentina](</Argentina>)
 | 8 | [Ministro de Seguridad](http://twitter.com/search?q=Ministro+de+Seguridad) | N/A |
 | 9 | [Hace 20](http://twitter.com/search?q=Hace+20) | N/A |
 | 10 | [FFAA](http://twitter.com/search?q=FFAA) | N/A |
-| 11 | [Roccuzzo](http://twitter.com/search?q=Roccuzzo) | N/A |
+| 11 | [Farfa](http://twitter.com/search?q=Farfa) | N/A |
 | 12 | [Javkin](http://twitter.com/search?q=Javkin) | N/A |
-| 13 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 14 | [Santa Fe](http://twitter.com/search?q=Santa+Fe) | N/A |
-| 15 | [#Intrusos](http://twitter.com/search?q=%23Intrusos) | N/A |
-| 16 | [Central](http://twitter.com/search?q=Central) | N/A |
+| 13 | [EXPLICA TU TWITTER](http://twitter.com/search?q=EXPLICA+TU+TWITTER) | N/A |
+| 14 | [Lele Pons](http://twitter.com/search?q=Lele+Pons) | N/A |
+| 15 | [Santa Fe](http://twitter.com/search?q=Santa+Fe) | N/A |
+| 16 | [Roccuzzo](http://twitter.com/search?q=Roccuzzo) | N/A |
 | 17 | [#MacriMufa](http://twitter.com/search?q=%23MacriMufa) | N/A |
-| 18 | [EXPLICA TU TWITTER](http://twitter.com/search?q=EXPLICA+TU+TWITTER) | N/A |
-| 19 | [Lele Pons](http://twitter.com/search?q=Lele+Pons) | N/A |
-| 20 | [La Morsa](http://twitter.com/search?q=La+Morsa) | N/A |
-| 21 | [Afterlife](http://twitter.com/search?q=Afterlife) | N/A |
-| 22 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
-| 23 | [Rosarinos](http://twitter.com/search?q=Rosarinos) | N/A |
-| 24 | [Ganaron](http://twitter.com/search?q=Ganaron) | N/A |
-| 25 | [Los Monos](http://twitter.com/search?q=Los+Monos) | N/A |
-| 26 | [Duncan](http://twitter.com/search?q=Duncan) | N/A |
-| 27 | [Ritondo](http://twitter.com/search?q=Ritondo) | N/A |
-| 28 | [Gaibor](http://twitter.com/search?q=Gaibor) | N/A |
-| 29 | [Palta](http://twitter.com/search?q=Palta) | N/A |
-| 30 | [Aristides](http://twitter.com/search?q=Aristides) | N/A |
-| 31 | [Perotti](http://twitter.com/search?q=Perotti) | N/A |
-| 32 | [Nisman](http://twitter.com/search?q=Nisman) | Nisman is a surname of Jewish origin. It is derived from the Hebrew name Nissim, which means "miracles". In English, the name Nisman can be translated to mean "miracle worker". |
-| 33 | [Fuerzas Armadas](http://twitter.com/search?q=Fuerzas+Armadas) | N/A |
-| 34 | [#ESPNF90](http://twitter.com/search?q=%23ESPNF90) | N/A |
-| 35 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
-| 36 | [Newells](http://twitter.com/search?q=Newells) | N/A |
-| 37 | [Pablo Escobar](http://twitter.com/search?q=Pablo+Escobar) | N/A |
-| 38 | [Guillermina](http://twitter.com/search?q=Guillermina) | N/A |
-| 39 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
-| 40 | [Aldana](http://twitter.com/search?q=Aldana) | N/A |
-| 41 | [Reino Unido](http://twitter.com/search?q=Reino+Unido) | N/A |
-| 42 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
-| 43 | [#Inseguridad](http://twitter.com/search?q=%23Inseguridad) | N/A |
-| 44 | [Intendente](http://twitter.com/search?q=Intendente) | N/A |
-| 45 | [Tinelli](http://twitter.com/search?q=Tinelli) | N/A |
-| 46 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 47 | [Gastón Edul](http://twitter.com/search?q=Gast%c3%b3n+Edul) | N/A |
-| 48 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 18 | [Morsa](http://twitter.com/search?q=Morsa) | N/A |
+| 19 | [Rosarinos](http://twitter.com/search?q=Rosarinos) | N/A |
+| 20 | [Central](http://twitter.com/search?q=Central) | N/A |
+| 21 | [CARRE](http://twitter.com/search?q=CARRE) | CARRE is a French word meaning "square". It is used to describe a shape that has four equal sides and four right angles. |
+| 22 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
+| 23 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
+| 24 | [Afterlife](http://twitter.com/search?q=Afterlife) | N/A |
+| 25 | [#Intrusos](http://twitter.com/search?q=%23Intrusos) | N/A |
+| 26 | [Aristides](http://twitter.com/search?q=Aristides) | N/A |
+| 27 | [Ganaron](http://twitter.com/search?q=Ganaron) | N/A |
+| 28 | [Duncan](http://twitter.com/search?q=Duncan) | N/A |
+| 29 | [Los Monos](http://twitter.com/search?q=Los+Monos) | N/A |
+| 30 | [Gaibor](http://twitter.com/search?q=Gaibor) | N/A |
+| 31 | [#SquidCraft2](http://twitter.com/search?q=%23SquidCraft2) | N/A |
+| 32 | [Fuerzas Armadas](http://twitter.com/search?q=Fuerzas+Armadas) | N/A |
+| 33 | [Perotti](http://twitter.com/search?q=Perotti) | N/A |
+| 34 | [Ritondo](http://twitter.com/search?q=Ritondo) | N/A |
+| 35 | [Palta](http://twitter.com/search?q=Palta) | N/A |
+| 36 | [Nisman](http://twitter.com/search?q=Nisman) | Nisman is a surname of Jewish origin. It is derived from the Hebrew name Nissim, which means "miracles". In English, the name Nisman can be translated to mean "miracle worker". |
+| 37 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 38 | [Newells](http://twitter.com/search?q=Newells) | N/A |
+| 39 | [Guillermina](http://twitter.com/search?q=Guillermina) | N/A |
+| 40 | [Pablo Escobar](http://twitter.com/search?q=Pablo+Escobar) | N/A |
+| 41 | [Tinelli](http://twitter.com/search?q=Tinelli) | N/A |
+| 42 | [#TeamVerano](http://twitter.com/search?q=%23TeamVerano) | N/A |
+| 43 | [Reino Unido](http://twitter.com/search?q=Reino+Unido) | N/A |
+| 44 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
+| 45 | [Aldana](http://twitter.com/search?q=Aldana) | N/A |
+| 46 | [Intendente](http://twitter.com/search?q=Intendente) | N/A |
+| 47 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
+| 48 | [Gastón Edul](http://twitter.com/search?q=Gast%c3%b3n+Edul) | N/A |
 | 49 | [all of the girls](http://twitter.com/search?q=all+of+the+girls) | N/A |
 | 50 | [Inútil](http://twitter.com/search?q=In%c3%batil) | N/A |
 

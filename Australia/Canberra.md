@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canberra
 
-📆 Last Updated: `2023-03-02 19:16:56 UTC`
+📆 Last Updated: `2023-03-02 20:17:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,13 +23,13 @@ This is top 50 for [Australia](</Australia>)
 | 6 | [Cabinet](http://twitter.com/search?q=Cabinet) | N/A |
 | 7 | [Harry Grant](http://twitter.com/search?q=Harry+Grant) | N/A |
 | 8 | [Parra](http://twitter.com/search?q=Parra) | N/A |
-| 9 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 10 | [bluesfest](http://twitter.com/search?q=bluesfest) | N/A |
+| 9 | [bluesfest](http://twitter.com/search?q=bluesfest) | N/A |
+| 10 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
 | 11 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
 | 12 | [Munster](http://twitter.com/search?q=Munster) | N/A |
 | 13 | [Nathan Lyon](http://twitter.com/search?q=Nathan+Lyon) | N/A |
 | 14 | [#aflhawkspies](http://twitter.com/search?q=%23aflhawkspies) | N/A |
-| 15 | [joel wilson](http://twitter.com/search?q=joel+wilson) | N/A |
+| 15 | [Joel Wilson](http://twitter.com/search?q=Joel+Wilson) | N/A |
 | 16 | [Christians](http://twitter.com/search?q=Christians) | N/A |
 | 17 | [Moses](http://twitter.com/search?q=Moses) | N/A |
 | 18 | [J Cole](http://twitter.com/search?q=J+Cole) | N/A |
@@ -41,25 +41,25 @@ This is top 50 for [Australia](</Australia>)
 | 24 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
 | 25 | [Waleed](http://twitter.com/search?q=Waleed) | N/A |
 | 26 | [Frogmore](http://twitter.com/search?q=Frogmore) | N/A |
-| 27 | [australia post](http://twitter.com/search?q=australia+post) | N/A |
+| 27 | [Australia Post](http://twitter.com/search?q=Australia+Post) | N/A |
 | 28 | [Evelyn](http://twitter.com/search?q=Evelyn) | N/A |
 | 29 | [Payne](http://twitter.com/search?q=Payne) | N/A |
-| 30 | [mnet](http://twitter.com/search?q=mnet) | N/A |
-| 31 | [Commissioner](http://twitter.com/search?q=Commissioner) | N/A |
-| 32 | [sivo](http://twitter.com/search?q=sivo) | N/A |
-| 33 | [lisa wilkinson](http://twitter.com/search?q=lisa+wilkinson) | N/A |
-| 34 | [Pikamee](http://twitter.com/search?q=Pikamee) | N/A |
-| 35 | [Mohammed](http://twitter.com/search?q=Mohammed) | N/A |
-| 36 | [Brother Stuey](http://twitter.com/search?q=Brother+Stuey) | N/A |
-| 37 | [Steve Smith](http://twitter.com/search?q=Steve+Smith) | Steve Smith is a common English name. It does not have any particular meaning in English. |
-| 38 | [channel 10](http://twitter.com/search?q=channel+10) | N/A |
-| 39 | [Mackenzie](http://twitter.com/search?q=Mackenzie) | N/A |
-| 40 | [lehrmann](http://twitter.com/search?q=lehrmann) | N/A |
-| 41 | [sam levinson](http://twitter.com/search?q=sam+levinson) | N/A |
-| 42 | [jhope](http://twitter.com/search?q=jhope) | N/A |
-| 43 | [Pujara](http://twitter.com/search?q=Pujara) | N/A |
-| 44 | [Bellamy](http://twitter.com/search?q=Bellamy) | N/A |
-| 45 | [Round 1](http://twitter.com/search?q=Round+1) | N/A |
+| 30 | [Commissioner](http://twitter.com/search?q=Commissioner) | N/A |
+| 31 | [Sivo](http://twitter.com/search?q=Sivo) | N/A |
+| 32 | [Lisa Wilkinson](http://twitter.com/search?q=Lisa+Wilkinson) | N/A |
+| 33 | [Pikamee](http://twitter.com/search?q=Pikamee) | N/A |
+| 34 | [Mohammed](http://twitter.com/search?q=Mohammed) | N/A |
+| 35 | [Brother Stuey](http://twitter.com/search?q=Brother+Stuey) | N/A |
+| 36 | [Steve Smith](http://twitter.com/search?q=Steve+Smith) | Steve Smith is a common English name. It does not have any particular meaning in English. |
+| 37 | [Channel 10](http://twitter.com/search?q=Channel+10) | N/A |
+| 38 | [Mackenzie](http://twitter.com/search?q=Mackenzie) | N/A |
+| 39 | [lehrmann](http://twitter.com/search?q=lehrmann) | N/A |
+| 40 | [sam levinson](http://twitter.com/search?q=sam+levinson) | N/A |
+| 41 | [jhope](http://twitter.com/search?q=jhope) | N/A |
+| 42 | [Pujara](http://twitter.com/search?q=Pujara) | N/A |
+| 43 | [Bellamy](http://twitter.com/search?q=Bellamy) | N/A |
+| 44 | [Round 1](http://twitter.com/search?q=Round+1) | N/A |
+| 45 | [mnet](http://twitter.com/search?q=mnet) | N/A |
 | 46 | [Kochie](http://twitter.com/search?q=Kochie) | N/A |
 | 47 | [beau fermor](http://twitter.com/search?q=beau+fermor) | N/A |
 | 48 | [Carey](http://twitter.com/search?q=Carey) | N/A |

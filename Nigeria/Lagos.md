@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lagos
 
-📆 Last Updated: `2023-03-02 19:17:06 UTC`
+📆 Last Updated: `2023-03-02 20:17:50 UTC`
 
 🔧 Updated every 1 hour!
 

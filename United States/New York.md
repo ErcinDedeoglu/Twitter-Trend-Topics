@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-03-02 19:17:25 UTC`
+📆 Last Updated: `2023-03-02 20:18:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Omar](http://twitter.com/search?q=Omar) | Omar is a male given name of Arabic origin, meaning "speaker". It is also used as a surname. |
-| 2 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
+| 1 | [Jason Arno](http://twitter.com/search?q=Jason+Arno) | N/A |
+| 2 | [Omar](http://twitter.com/search?q=Omar) | Omar is a male given name of Arabic origin, meaning "speaker". It is also used as a surname. |
 | 3 | [Mitch](http://twitter.com/search?q=Mitch) | N/A |
 | 4 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
-| 5 | [Hawaii](http://twitter.com/search?q=Hawaii) | N/A |
-| 6 | [#WhyIChime](http://twitter.com/search?q=%23WhyIChime) | N/A |
-| 7 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
-| 8 | [#ReadAcrossAmericaDay](http://twitter.com/search?q=%23ReadAcrossAmericaDay) | N/A |
+| 5 | [#WhyIChime](http://twitter.com/search?q=%23WhyIChime) | N/A |
+| 6 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
+| 7 | [#ReadAcrossAmericaDay](http://twitter.com/search?q=%23ReadAcrossAmericaDay) | N/A |
+| 8 | [Hershey](http://twitter.com/search?q=Hershey) | N/A |
 | 9 | [#SaferWithBiden](http://twitter.com/search?q=%23SaferWithBiden) | N/A |
-| 10 | [Hershey](http://twitter.com/search?q=Hershey) | N/A |
-| 11 | [#MurdaughTrial](http://twitter.com/search?q=%23MurdaughTrial) | N/A |
-| 12 | [Bateman](http://twitter.com/search?q=Bateman) | N/A |
+| 10 | [#MurdaughTrial](http://twitter.com/search?q=%23MurdaughTrial) | N/A |
+| 11 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
+| 12 | [Jerry Richardson](http://twitter.com/search?q=Jerry+Richardson) | N/A |
 | 13 | [Bostic](http://twitter.com/search?q=Bostic) | N/A |
-| 14 | [Volpe](http://twitter.com/search?q=Volpe) | N/A |
-| 15 | [Haunted Mansion](http://twitter.com/search?q=Haunted+Mansion) | N/A |
-| 16 | [Jerry Richardson](http://twitter.com/search?q=Jerry+Richardson) | N/A |
-| 17 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
-| 18 | [Meadors](http://twitter.com/search?q=Meadors) | N/A |
-| 19 | [#WorldBookDay](http://twitter.com/search?q=%23WorldBookDay) | N/A |
-| 20 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 21 | [Dr. Seuss](http://twitter.com/search?q=Dr.+Seuss) | N/A |
-| 22 | [Jim Griffin](http://twitter.com/search?q=Jim+Griffin) | N/A |
-| 23 | [Justice Department](http://twitter.com/search?q=Justice+Department) | N/A |
-| 24 | [Texas Independence Day](http://twitter.com/search?q=Texas+Independence+Day) | N/A |
-| 25 | [Weather Report](http://twitter.com/search?q=Weather+Report) | N/A |
-| 26 | [Kimmel](http://twitter.com/search?q=Kimmel) | N/A |
-| 27 | [BAMBOLA HIMNO AVATRICE](http://twitter.com/search?q=BAMBOLA+HIMNO+AVATRICE) | N/A |
-| 28 | [Christian Arroyo](http://twitter.com/search?q=Christian+Arroyo) | N/A |
-| 29 | [Bertuzzi](http://twitter.com/search?q=Bertuzzi) | N/A |
-| 30 | [LTIR](http://twitter.com/search?q=LTIR) | N/A |
-| 31 | [Eli White](http://twitter.com/search?q=Eli+White) | N/A |
+| 14 | [Haunted Mansion](http://twitter.com/search?q=Haunted+Mansion) | N/A |
+| 15 | [Volpe](http://twitter.com/search?q=Volpe) | N/A |
+| 16 | [Dr. Seuss](http://twitter.com/search?q=Dr.+Seuss) | N/A |
+| 17 | [Bateman](http://twitter.com/search?q=Bateman) | N/A |
+| 18 | [BAMBOLA HIMNO AVATRICE](http://twitter.com/search?q=BAMBOLA+HIMNO+AVATRICE) | N/A |
+| 19 | [House Ethics Committee](http://twitter.com/search?q=House+Ethics+Committee) | N/A |
+| 20 | [#WorldBookDay](http://twitter.com/search?q=%23WorldBookDay) | N/A |
+| 21 | [Rep. George Santos](http://twitter.com/search?q=Rep.+George+Santos) | N/A |
+| 22 | [Justice Department](http://twitter.com/search?q=Justice+Department) | N/A |
+| 23 | [Meadors](http://twitter.com/search?q=Meadors) | N/A |
+| 24 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
+| 25 | [Discover](http://twitter.com/search?q=Discover) | N/A |
+| 26 | [AI NFT](http://twitter.com/search?q=AI+NFT) | N/A |
+| 27 | [Kimmel](http://twitter.com/search?q=Kimmel) | N/A |
+| 28 | [Texas Independence Day](http://twitter.com/search?q=Texas+Independence+Day) | N/A |
+| 29 | [Nelly](http://twitter.com/search?q=Nelly) | Nelly is a nickname for the female given name Eleanor, which is derived from the Greek name Helenē, meaning “light” or “bright one.” It can also be used as a diminutive form of the name Cornelia. |
+| 30 | [Hellboy](http://twitter.com/search?q=Hellboy) | N/A |
+| 31 | [LTIR](http://twitter.com/search?q=LTIR) | N/A |
 | 32 | [Chaka](http://twitter.com/search?q=Chaka) | N/A |
-| 33 | [Ryan Brasier](http://twitter.com/search?q=Ryan+Brasier) | N/A |
-| 34 | [Discover](http://twitter.com/search?q=Discover) | N/A |
-| 35 | [Nelly](http://twitter.com/search?q=Nelly) | Nelly is a nickname for the female given name Eleanor, which is derived from the Greek name Helenē, meaning “light” or “bright one.” It can also be used as a diminutive form of the name Cornelia. |
+| 33 | [Weather Report](http://twitter.com/search?q=Weather+Report) | N/A |
+| 34 | [Jim Griffin](http://twitter.com/search?q=Jim+Griffin) | N/A |
+| 35 | [Kiriko](http://twitter.com/search?q=Kiriko) | N/A |
 | 36 | [Bayesian](http://twitter.com/search?q=Bayesian) | N/A |
-| 37 | [Don Sweeney](http://twitter.com/search?q=Don+Sweeney) | N/A |
-| 38 | [AI NFT](http://twitter.com/search?q=AI+NFT) | N/A |
-| 39 | [Chrissy Carr](http://twitter.com/search?q=Chrissy+Carr) | N/A |
-| 40 | [Next Level Chef](http://twitter.com/search?q=Next+Level+Chef) | N/A |
-| 41 | [Harbaugh](http://twitter.com/search?q=Harbaugh) | Harbaugh is a surname of German origin. It is derived from the German words "harb" meaning "army" and "berg" meaning "mountain". The name can be translated to mean "army mountain". |
-| 42 | [Hellboy](http://twitter.com/search?q=Hellboy) | N/A |
-| 43 | [Kiriko](http://twitter.com/search?q=Kiriko) | N/A |
-| 44 | [Pasta](http://twitter.com/search?q=Pasta) | N/A |
-| 45 | [Saunders](http://twitter.com/search?q=Saunders) | N/A |
-| 46 | [Adam Wainwright](http://twitter.com/search?q=Adam+Wainwright) | N/A |
-| 47 | [South Alabama](http://twitter.com/search?q=South+Alabama) | South Alabama is a region in the southeastern United States that includes the states of Alabama, Mississippi, and Florida. It is known for its diverse culture, rich history, and beautiful beaches. The term "South Alabama" is often used to refer to the entire region, but it can also be used to refer specifically to the state of Alabama. |
-| 48 | [Meghan Trainor](http://twitter.com/search?q=Meghan+Trainor) | N/A |
-| 49 | [Claxton](http://twitter.com/search?q=Claxton) | Claxton is a surname of English origin. It is derived from the Old English words 'claec' meaning clay and 'tun' meaning settlement or farm. The name was originally given to someone who lived near a clay settlement or farm. |
-| 50 | [Evan Engram](http://twitter.com/search?q=Evan+Engram) | Evan Engram is an American football tight end for the New York Giants of the National Football League (NFL). He was drafted by the Giants in the first round of the 2017 NFL Draft. The name Evan Engram is derived from a combination of his first and last names. |
+| 37 | [Bertuzzi](http://twitter.com/search?q=Bertuzzi) | N/A |
+| 38 | [Morgan Wallen](http://twitter.com/search?q=Morgan+Wallen) | N/A |
+| 39 | [Carolinas](http://twitter.com/search?q=Carolinas) | N/A |
+| 40 | [Christian Arroyo](http://twitter.com/search?q=Christian+Arroyo) | N/A |
+| 41 | [Jonathan Quick](http://twitter.com/search?q=Jonathan+Quick) | N/A |
+| 42 | [Wandy](http://twitter.com/search?q=Wandy) | N/A |
+| 43 | [Meghan Trainor](http://twitter.com/search?q=Meghan+Trainor) | N/A |
+| 44 | [South Alabama](http://twitter.com/search?q=South+Alabama) | South Alabama is a region in the southeastern United States that includes the states of Alabama, Mississippi, and Florida. It is known for its diverse culture, rich history, and beautiful beaches. The term "South Alabama" is often used to refer to the entire region, but it can also be used to refer specifically to the state of Alabama. |
+| 45 | [Eli White](http://twitter.com/search?q=Eli+White) | N/A |
+| 46 | [Manchin](http://twitter.com/search?q=Manchin) | N/A |
+| 47 | [Waino](http://twitter.com/search?q=Waino) | N/A |
+| 48 | [Next Level Chef](http://twitter.com/search?q=Next+Level+Chef) | N/A |
+| 49 | [Pasta](http://twitter.com/search?q=Pasta) | N/A |
+| 50 | [Scoot Henderson](http://twitter.com/search?q=Scoot+Henderson) | N/A |
 
 
 

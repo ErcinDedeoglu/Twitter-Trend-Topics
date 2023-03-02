@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Francisco
 
-📆 Last Updated: `2023-03-02 19:17:28 UTC`
+📆 Last Updated: `2023-03-02 20:18:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
-| 2 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
-| 3 | [Petro](http://twitter.com/search?q=Petro) | N/A |
-| 4 | [Fentanyl](http://twitter.com/search?q=Fentanyl) | N/A |
-| 5 | [$TSLA](http://twitter.com/search?q=%24TSLA) | $TSLA is the stock symbol for Tesla, Inc., an American electric vehicle and clean energy company. It is traded on the Nasdaq stock exchange. |
-| 6 | [#WhyIChime](http://twitter.com/search?q=%23WhyIChime) | N/A |
-| 7 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
-| 8 | [#ReadAcrossAmericaDay](http://twitter.com/search?q=%23ReadAcrossAmericaDay) | N/A |
-| 9 | [#SaferWithBiden](http://twitter.com/search?q=%23SaferWithBiden) | N/A |
-| 10 | [Hershey](http://twitter.com/search?q=Hershey) | N/A |
-| 11 | [#MurdaughTrial](http://twitter.com/search?q=%23MurdaughTrial) | N/A |
-| 12 | [Bateman](http://twitter.com/search?q=Bateman) | N/A |
-| 13 | [Bostic](http://twitter.com/search?q=Bostic) | N/A |
-| 14 | [Volpe](http://twitter.com/search?q=Volpe) | N/A |
-| 15 | [Jerry Richardson](http://twitter.com/search?q=Jerry+Richardson) | N/A |
-| 16 | [Haunted Mansion](http://twitter.com/search?q=Haunted+Mansion) | N/A |
-| 17 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
-| 18 | [Meadors](http://twitter.com/search?q=Meadors) | N/A |
-| 19 | [#WorldBookDay](http://twitter.com/search?q=%23WorldBookDay) | N/A |
-| 20 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 21 | [Dr. Seuss](http://twitter.com/search?q=Dr.+Seuss) | N/A |
-| 22 | [Jim Griffin](http://twitter.com/search?q=Jim+Griffin) | N/A |
-| 23 | [Justice Department](http://twitter.com/search?q=Justice+Department) | N/A |
-| 24 | [Texas Independence Day](http://twitter.com/search?q=Texas+Independence+Day) | N/A |
-| 25 | [Weather Report](http://twitter.com/search?q=Weather+Report) | N/A |
-| 26 | [Kimmel](http://twitter.com/search?q=Kimmel) | N/A |
-| 27 | [BAMBOLA HIMNO AVATRICE](http://twitter.com/search?q=BAMBOLA+HIMNO+AVATRICE) | N/A |
-| 28 | [Christian Arroyo](http://twitter.com/search?q=Christian+Arroyo) | N/A |
-| 29 | [Bertuzzi](http://twitter.com/search?q=Bertuzzi) | N/A |
-| 30 | [LTIR](http://twitter.com/search?q=LTIR) | N/A |
-| 31 | [Eli White](http://twitter.com/search?q=Eli+White) | N/A |
-| 32 | [Chaka](http://twitter.com/search?q=Chaka) | N/A |
-| 33 | [Ryan Brasier](http://twitter.com/search?q=Ryan+Brasier) | N/A |
-| 34 | [Discover](http://twitter.com/search?q=Discover) | N/A |
-| 35 | [Bayesian](http://twitter.com/search?q=Bayesian) | N/A |
-| 36 | [Nelly](http://twitter.com/search?q=Nelly) | Nelly is a nickname for the female given name Eleanor, which is derived from the Greek name Helenē, meaning “light” or “bright one.” It can also be used as a diminutive form of the name Cornelia. |
-| 37 | [Don Sweeney](http://twitter.com/search?q=Don+Sweeney) | N/A |
-| 38 | [AI NFT](http://twitter.com/search?q=AI+NFT) | N/A |
-| 39 | [Chrissy Carr](http://twitter.com/search?q=Chrissy+Carr) | N/A |
-| 40 | [Next Level Chef](http://twitter.com/search?q=Next+Level+Chef) | N/A |
-| 41 | [Harbaugh](http://twitter.com/search?q=Harbaugh) | Harbaugh is a surname of German origin. It is derived from the German words "harb" meaning "army" and "berg" meaning "mountain". The name can be translated to mean "army mountain". |
-| 42 | [Hellboy](http://twitter.com/search?q=Hellboy) | N/A |
-| 43 | [Kiriko](http://twitter.com/search?q=Kiriko) | N/A |
-| 44 | [Pasta](http://twitter.com/search?q=Pasta) | N/A |
-| 45 | [Saunders](http://twitter.com/search?q=Saunders) | N/A |
-| 46 | [Adam Wainwright](http://twitter.com/search?q=Adam+Wainwright) | N/A |
-| 47 | [South Alabama](http://twitter.com/search?q=South+Alabama) | South Alabama is a region in the southeastern United States that includes the states of Alabama, Mississippi, and Florida. It is known for its diverse culture, rich history, and beautiful beaches. The term "South Alabama" is often used to refer to the entire region, but it can also be used to refer specifically to the state of Alabama. |
-| 48 | [Meghan Trainor](http://twitter.com/search?q=Meghan+Trainor) | N/A |
-| 49 | [Claxton](http://twitter.com/search?q=Claxton) | Claxton is a surname of English origin. It is derived from the Old English words 'claec' meaning clay and 'tun' meaning settlement or farm. The name was originally given to someone who lived near a clay settlement or farm. |
+| 2 | [Fentanyl](http://twitter.com/search?q=Fentanyl) | N/A |
+| 3 | [#WhyIChime](http://twitter.com/search?q=%23WhyIChime) | N/A |
+| 4 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
+| 5 | [#ReadAcrossAmericaDay](http://twitter.com/search?q=%23ReadAcrossAmericaDay) | N/A |
+| 6 | [Hershey](http://twitter.com/search?q=Hershey) | N/A |
+| 7 | [#SaferWithBiden](http://twitter.com/search?q=%23SaferWithBiden) | N/A |
+| 8 | [#MurdaughTrial](http://twitter.com/search?q=%23MurdaughTrial) | N/A |
+| 9 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
+| 10 | [Jerry Richardson](http://twitter.com/search?q=Jerry+Richardson) | N/A |
+| 11 | [Bostic](http://twitter.com/search?q=Bostic) | N/A |
+| 12 | [Haunted Mansion](http://twitter.com/search?q=Haunted+Mansion) | N/A |
+| 13 | [Volpe](http://twitter.com/search?q=Volpe) | N/A |
+| 14 | [Dr. Seuss](http://twitter.com/search?q=Dr.+Seuss) | N/A |
+| 15 | [Bateman](http://twitter.com/search?q=Bateman) | N/A |
+| 16 | [BAMBOLA HIMNO AVATRICE](http://twitter.com/search?q=BAMBOLA+HIMNO+AVATRICE) | N/A |
+| 17 | [House Ethics Committee](http://twitter.com/search?q=House+Ethics+Committee) | N/A |
+| 18 | [#WorldBookDay](http://twitter.com/search?q=%23WorldBookDay) | N/A |
+| 19 | [Rep. George Santos](http://twitter.com/search?q=Rep.+George+Santos) | N/A |
+| 20 | [Justice Department](http://twitter.com/search?q=Justice+Department) | N/A |
+| 21 | [Meadors](http://twitter.com/search?q=Meadors) | N/A |
+| 22 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
+| 23 | [Discover](http://twitter.com/search?q=Discover) | N/A |
+| 24 | [AI NFT](http://twitter.com/search?q=AI+NFT) | N/A |
+| 25 | [Kimmel](http://twitter.com/search?q=Kimmel) | N/A |
+| 26 | [Texas Independence Day](http://twitter.com/search?q=Texas+Independence+Day) | N/A |
+| 27 | [Nelly](http://twitter.com/search?q=Nelly) | Nelly is a nickname for the female given name Eleanor, which is derived from the Greek name Helenē, meaning “light” or “bright one.” It can also be used as a diminutive form of the name Cornelia. |
+| 28 | [Hellboy](http://twitter.com/search?q=Hellboy) | N/A |
+| 29 | [LTIR](http://twitter.com/search?q=LTIR) | N/A |
+| 30 | [Weather Report](http://twitter.com/search?q=Weather+Report) | N/A |
+| 31 | [Chaka](http://twitter.com/search?q=Chaka) | N/A |
+| 32 | [Jim Griffin](http://twitter.com/search?q=Jim+Griffin) | N/A |
+| 33 | [Kiriko](http://twitter.com/search?q=Kiriko) | N/A |
+| 34 | [Bayesian](http://twitter.com/search?q=Bayesian) | N/A |
+| 35 | [Bertuzzi](http://twitter.com/search?q=Bertuzzi) | N/A |
+| 36 | [Morgan Wallen](http://twitter.com/search?q=Morgan+Wallen) | N/A |
+| 37 | [Carolinas](http://twitter.com/search?q=Carolinas) | N/A |
+| 38 | [Christian Arroyo](http://twitter.com/search?q=Christian+Arroyo) | N/A |
+| 39 | [Jonathan Quick](http://twitter.com/search?q=Jonathan+Quick) | N/A |
+| 40 | [Wandy](http://twitter.com/search?q=Wandy) | N/A |
+| 41 | [Meghan Trainor](http://twitter.com/search?q=Meghan+Trainor) | N/A |
+| 42 | [South Alabama](http://twitter.com/search?q=South+Alabama) | South Alabama is a region in the southeastern United States that includes the states of Alabama, Mississippi, and Florida. It is known for its diverse culture, rich history, and beautiful beaches. The term "South Alabama" is often used to refer to the entire region, but it can also be used to refer specifically to the state of Alabama. |
+| 43 | [Eli White](http://twitter.com/search?q=Eli+White) | N/A |
+| 44 | [Manchin](http://twitter.com/search?q=Manchin) | N/A |
+| 45 | [Waino](http://twitter.com/search?q=Waino) | N/A |
+| 46 | [Next Level Chef](http://twitter.com/search?q=Next+Level+Chef) | N/A |
+| 47 | [Pasta](http://twitter.com/search?q=Pasta) | N/A |
+| 48 | [Scoot Henderson](http://twitter.com/search?q=Scoot+Henderson) | N/A |
+| 49 | [Speak No Evil](http://twitter.com/search?q=Speak+No+Evil) | N/A |
 
 
 

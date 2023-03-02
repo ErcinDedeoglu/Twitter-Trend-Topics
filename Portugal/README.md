@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Portugal
 
-📆 Last Updated: `2023-03-02 19:17:37 UTC`
+📆 Last Updated: `2023-03-02 20:18:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -55,7 +55,7 @@ This is top 50 for Portugal
 | 38 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
 | 39 | [Porro](http://twitter.com/search?q=Porro) | N/A |
 | 40 | [Airbus](http://twitter.com/search?q=Airbus) | N/A |
-| 41 | [Rossio](http://twitter.com/search?q=Rossio) | N/A |
+| 41 | [rossio](http://twitter.com/search?q=rossio) | N/A |
 | 42 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
 | 43 | [Beatriz Ângelo](http://twitter.com/search?q=Beatriz+%c3%82ngelo) | N/A |
 | 44 | [torres vedras](http://twitter.com/search?q=torres+vedras) | N/A |

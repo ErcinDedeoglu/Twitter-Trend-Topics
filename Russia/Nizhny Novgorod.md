@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nizhny Novgorod
 
-📆 Last Updated: `2023-03-02 19:17:11 UTC`
+📆 Last Updated: `2023-03-02 20:17:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,10 +28,10 @@ This is top 50 for [Russia](</Russia>)
 | 11 | [Ладно](http://twitter.com/search?q=%d0%9b%d0%b0%d0%b4%d0%bd%d0%be) | N/A |
 | 12 | [Кавеха](http://twitter.com/search?q=%d0%9a%d0%b0%d0%b2%d0%b5%d1%85%d0%b0) | N/A |
 | 13 | [#NFTs](http://twitter.com/search?q=%23NFTs) | N/A |
-| 14 | [антона](http://twitter.com/search?q=%d0%b0%d0%bd%d1%82%d0%be%d0%bd%d0%b0) | N/A |
+| 14 | [Антона](http://twitter.com/search?q=%d0%90%d0%bd%d1%82%d0%be%d0%bd%d0%b0) | N/A |
 | 15 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
 | 16 | [Аминь](http://twitter.com/search?q=%d0%90%d0%bc%d0%b8%d0%bd%d1%8c) | N/A |
-| 17 | [С Днём Рождения](http://twitter.com/search?q=%d0%a1+%d0%94%d0%bd%d1%91%d0%bc+%d0%a0%d0%be%d0%b6%d0%b4%d0%b5%d0%bd%d0%b8%d1%8f) | N/A |
+| 17 | [с днём рождения](http://twitter.com/search?q=%d1%81+%d0%b4%d0%bd%d1%91%d0%bc+%d1%80%d0%be%d0%b6%d0%b4%d0%b5%d0%bd%d0%b8%d1%8f) | N/A |
 | 18 | [Японии](http://twitter.com/search?q=%d0%af%d0%bf%d0%be%d0%bd%d0%b8%d0%b8) | N/A |
 | 19 | [#applepronews](http://twitter.com/search?q=%23applepronews) | N/A |
 | 20 | [#архитектура](http://twitter.com/search?q=%23%d0%b0%d1%80%d1%85%d0%b8%d1%82%d0%b5%d0%ba%d1%82%d1%83%d1%80%d0%b0) | N/A |
@@ -46,7 +46,7 @@ This is top 50 for [Russia](</Russia>)
 | 29 | [Обожаю](http://twitter.com/search?q=%d0%9e%d0%b1%d0%be%d0%b6%d0%b0%d1%8e) | N/A |
 | 30 | [Вижу](http://twitter.com/search?q=%d0%92%d0%b8%d0%b6%d1%83) | N/A |
 | 31 | [Слушай](http://twitter.com/search?q=%d0%a1%d0%bb%d1%83%d1%88%d0%b0%d0%b9) | N/A |
-| 32 | [Дада](http://twitter.com/search?q=%d0%94%d0%b0%d0%b4%d0%b0) | N/A |
+| 32 | [дада](http://twitter.com/search?q=%d0%b4%d0%b0%d0%b4%d0%b0) | N/A |
 | 33 | [В России](http://twitter.com/search?q=%d0%92+%d0%a0%d0%be%d1%81%d1%81%d0%b8%d0%b8) | N/A |
 | 34 | [Вполне](http://twitter.com/search?q=%d0%92%d0%bf%d0%be%d0%bb%d0%bd%d0%b5) | N/A |
 | 35 | [Вроде](http://twitter.com/search?q=%d0%92%d1%80%d0%be%d0%b4%d0%b5) | N/A |

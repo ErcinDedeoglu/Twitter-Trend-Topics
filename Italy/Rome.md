@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rome
 
-📆 Last Updated: `2023-03-02 19:16:50 UTC`
+📆 Last Updated: `2023-03-02 20:17:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Italy](</Italy>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#2marzo](http://twitter.com/search?q=%232marzo) | N/A |
-| 2 | [#Mattarella](http://twitter.com/search?q=%23Mattarella) | N/A |
-| 3 | [#Crotone](http://twitter.com/search?q=%23Crotone) | N/A |
-| 4 | [#leredita](http://twitter.com/search?q=%23leredita) | N/A |
-| 5 | [Speranza](http://twitter.com/search?q=Speranza) | N/A |
-| 6 | [#chilhavisto](http://twitter.com/search?q=%23chilhavisto) | #Chilhavisto is a Spanish hashtag that translates to "Have you seen it?" It is used to ask if someone has seen something, such as a movie, TV show, or video. |
-| 7 | [Fontana](http://twitter.com/search?q=Fontana) | N/A |
-| 8 | [Piantedosi](http://twitter.com/search?q=Piantedosi) | N/A |
-| 9 | [Bergamo](http://twitter.com/search?q=Bergamo) | N/A |
+| 2 | [#gfvipparty](http://twitter.com/search?q=%23gfvipparty) | N/A |
+| 3 | [#Mattarella](http://twitter.com/search?q=%23Mattarella) | N/A |
+| 4 | [#Crotone](http://twitter.com/search?q=%23Crotone) | N/A |
+| 5 | [#leredita](http://twitter.com/search?q=%23leredita) | N/A |
+| 6 | [Fontana](http://twitter.com/search?q=Fontana) | N/A |
+| 7 | [Bergamo](http://twitter.com/search?q=Bergamo) | N/A |
+| 8 | [Speranza](http://twitter.com/search?q=Speranza) | N/A |
+| 9 | [Piantedosi](http://twitter.com/search?q=Piantedosi) | N/A |
 | 10 | [Guardia Costiera](http://twitter.com/search?q=Guardia+Costiera) | N/A |
 | 11 | [Grecia](http://twitter.com/search?q=Grecia) | N/A |
 | 12 | [Michela](http://twitter.com/search?q=Michela) | N/A |
-| 13 | [Mimmo](http://twitter.com/search?q=Mimmo) | N/A |
+| 13 | [Feltri](http://twitter.com/search?q=Feltri) | N/A |
 | 14 | [Scacciapensieri](http://twitter.com/search?q=Scacciapensieri) | N/A |
 | 15 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
-| 16 | [Adani](http://twitter.com/search?q=Adani) | Adani is a multinational conglomerate based in India. It is involved in the development and operation of infrastructure projects such as ports, power plants, and mines. The name Adani is derived from the Sanskrit word "Adan," which means "the beginning." |
-| 17 | [Rozzano](http://twitter.com/search?q=Rozzano) | N/A |
-| 18 | [Assago](http://twitter.com/search?q=Assago) | N/A |
-| 19 | [Grosseto](http://twitter.com/search?q=Grosseto) | N/A |
-| 20 | [Toscani](http://twitter.com/search?q=Toscani) | N/A |
-| 21 | [Serra](http://twitter.com/search?q=Serra) | N/A |
-| 22 | [Simone](http://twitter.com/search?q=Simone) | Simone is a French feminine given name, derived from the Hebrew name Shimon, meaning "he who hears". It is also a surname, and may refer to:Simone de Beauvoir (1908–1986), French writer and philosopherSimone Weil (1909–1943), French philosopher, mystic, and political activistSimone Veil (1927–2017), French lawyer and politician |
-| 23 | [Frontex](http://twitter.com/search?q=Frontex) | N/A |
+| 16 | [Pamela](http://twitter.com/search?q=Pamela) | N/A |
+| 17 | [Mimmo](http://twitter.com/search?q=Mimmo) | N/A |
+| 18 | [Grosseto](http://twitter.com/search?q=Grosseto) | N/A |
+| 19 | [Rozzano](http://twitter.com/search?q=Rozzano) | N/A |
+| 20 | [Adani](http://twitter.com/search?q=Adani) | Adani is a multinational conglomerate based in India. It is involved in the development and operation of infrastructure projects such as ports, power plants, and mines. The name Adani is derived from the Sanskrit word "Adan," which means "the beginning." |
+| 21 | [Toscani](http://twitter.com/search?q=Toscani) | N/A |
+| 22 | [Serra](http://twitter.com/search?q=Serra) | N/A |
+| 23 | [Assago](http://twitter.com/search?q=Assago) | N/A |
 | 24 | [Bryansk](http://twitter.com/search?q=Bryansk) | N/A |
-| 25 | [Schlein](http://twitter.com/search?q=Schlein) | N/A |
-| 26 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 27 | [Venere](http://twitter.com/search?q=Venere) | N/A |
-| 28 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 29 | [Manuel](http://twitter.com/search?q=Manuel) | N/A |
-| 30 | [Martina](http://twitter.com/search?q=Martina) | Martina is a female given name of Latin origin, derived from the name Martinus, which means "of Mars". It is a popular name in many countries, including Italy, Spain, Germany, Austria, and the Czech Republic. In English-speaking countries, it is often used as a short form of the longer name Martina. |
-| 31 | [Faouzi](http://twitter.com/search?q=Faouzi) | N/A |
-| 32 | [Arcilesbica](http://twitter.com/search?q=Arcilesbica) | N/A |
+| 25 | [Frontex](http://twitter.com/search?q=Frontex) | N/A |
+| 26 | [Schlein](http://twitter.com/search?q=Schlein) | N/A |
+| 27 | [Eugenio](http://twitter.com/search?q=Eugenio) | N/A |
+| 28 | [Venere](http://twitter.com/search?q=Venere) | N/A |
+| 29 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 30 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
+| 31 | [Otello](http://twitter.com/search?q=Otello) | N/A |
+| 32 | [Martina](http://twitter.com/search?q=Martina) | Martina is a female given name of Latin origin, derived from the name Martinus, which means "of Mars". It is a popular name in many countries, including Italy, Spain, Germany, Austria, and the Czech Republic. In English-speaking countries, it is often used as a short form of the longer name Martina. |
 | 33 | [Ventola](http://twitter.com/search?q=Ventola) | N/A |
-| 34 | [Modi](http://twitter.com/search?q=Modi) | N/A |
-| 35 | [Lavoriamo](http://twitter.com/search?q=Lavoriamo) | N/A |
-| 36 | [Cassano](http://twitter.com/search?q=Cassano) | N/A |
-| 37 | [Indagati](http://twitter.com/search?q=Indagati) | N/A |
-| 38 | [Masterchef](http://twitter.com/search?q=Masterchef) | N/A |
-| 39 | [Thiaw](http://twitter.com/search?q=Thiaw) | N/A |
-| 40 | [Meloni in India](http://twitter.com/search?q=Meloni+in+India) | N/A |
-| 41 | [La Maura](http://twitter.com/search?q=La+Maura) | N/A |
-| 42 | [Gohan](http://twitter.com/search?q=Gohan) | Gohan is a Japanese word meaning "meal" or "cooked rice". It is also used to refer to a meal prepared for someone, usually as an offering of hospitality. |
-| 43 | [Baudelaire](http://twitter.com/search?q=Baudelaire) | N/A |
-| 44 | [Lamorgese](http://twitter.com/search?q=Lamorgese) | N/A |
-| 45 | [Superlega](http://twitter.com/search?q=Superlega) | N/A |
-| 46 | [Cracco](http://twitter.com/search?q=Cracco) | N/A |
-| 47 | [Marranzano](http://twitter.com/search?q=Marranzano) | N/A |
-| 48 | [Tachipirina](http://twitter.com/search?q=Tachipirina) | N/A |
-| 49 | [Gabbia](http://twitter.com/search?q=Gabbia) | N/A |
-| 50 | [Brad Pitt](http://twitter.com/search?q=Brad+Pitt) | N/A |
+| 34 | [Arcilesbica](http://twitter.com/search?q=Arcilesbica) | N/A |
+| 35 | [Faouzi](http://twitter.com/search?q=Faouzi) | N/A |
+| 36 | [Modi](http://twitter.com/search?q=Modi) | N/A |
+| 37 | [Manuel](http://twitter.com/search?q=Manuel) | N/A |
+| 38 | [Nikita](http://twitter.com/search?q=Nikita) | Nikita is a Russian female name derived from the Greek name Nikētas, meaning “unconquered” or “victory of the people.” It is also a popular name in other countries, including India, where it is spelled Nikitha. |
+| 39 | [Cassano](http://twitter.com/search?q=Cassano) | N/A |
+| 40 | [Clio](http://twitter.com/search?q=Clio) | N/A |
+| 41 | [Lavoriamo](http://twitter.com/search?q=Lavoriamo) | N/A |
+| 42 | [Thiaw](http://twitter.com/search?q=Thiaw) | N/A |
+| 43 | [Maldini](http://twitter.com/search?q=Maldini) | Maldini is a surname of Italian origin. It is derived from the Latin word "maldinus" which means "defender". The name is most famously associated with the Italian football player Paolo Maldini, who played for AC Milan for 25 years. |
+| 44 | [Valsano](http://twitter.com/search?q=Valsano) | N/A |
+| 45 | [Meloni in India](http://twitter.com/search?q=Meloni+in+India) | N/A |
+| 46 | [Indagati](http://twitter.com/search?q=Indagati) | N/A |
+| 47 | [Lamorgese](http://twitter.com/search?q=Lamorgese) | N/A |
+| 48 | [Gabbia](http://twitter.com/search?q=Gabbia) | N/A |
+| 49 | [Gohan](http://twitter.com/search?q=Gohan) | Gohan is a Japanese word meaning "meal" or "cooked rice". It is also used to refer to a meal prepared for someone, usually as an offering of hospitality. |
+| 50 | [Rossella](http://twitter.com/search?q=Rossella) | N/A |
 
 
 
