@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Atlanta
 
-📆 Last Updated: `2023-03-01 23:16:36 UTC`
+📆 Last Updated: `2023-03-02 00:30:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#MurdaughTrial](http://twitter.com/search?q=%23MurdaughTrial) | N/A |
-| 2 | [Drew](http://twitter.com/search?q=Drew) | N/A |
-| 3 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
-| 4 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
-| 5 | [#SUGA_AgustD_TOUR](http://twitter.com/search?q=%23SUGA_AgustD_TOUR) | N/A |
-| 6 | [#WomensHistoryMonth](http://twitter.com/search?q=%23WomensHistoryMonth) | N/A |
+| 2 | [Peter](http://twitter.com/search?q=Peter) | N/A |
+| 3 | [Drew](http://twitter.com/search?q=Drew) | N/A |
+| 4 | [Ralph](http://twitter.com/search?q=Ralph) | N/A |
+| 5 | [Athens](http://twitter.com/search?q=Athens) | Athens is the capital and largest city of Greece. It is one of the oldest cities in the world, with a recorded history spanning over 3,400 years. The name Athens is derived from Athena, the goddess of wisdom and knowledge in Greek mythology. In English, Athens means "the city of Athena". |
+| 6 | [#SUGA_AgustD_TOUR](http://twitter.com/search?q=%23SUGA_AgustD_TOUR) | N/A |
 | 7 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
-| 8 | [Hronek](http://twitter.com/search?q=Hronek) | N/A |
-| 9 | [sam levinson](http://twitter.com/search?q=sam+levinson) | N/A |
-| 10 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 11 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 12 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 13 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 14 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
-| 15 | [#TheMandalorianXboxSweepstakes](http://twitter.com/search?q=%23TheMandalorianXboxSweepstakes) | N/A |
-| 16 | [Ultra MAGA](http://twitter.com/search?q=Ultra+MAGA) | N/A |
-| 17 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 18 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
-| 19 | [Cruz](http://twitter.com/search?q=Cruz) | N/A |
-| 20 | [Pikamee](http://twitter.com/search?q=Pikamee) | N/A |
-| 21 | [Chychrun](http://twitter.com/search?q=Chychrun) | N/A |
-| 22 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
-| 23 | [NFLPA](http://twitter.com/search?q=NFLPA) | N/A |
-| 24 | [Burbank](http://twitter.com/search?q=Burbank) | N/A |
-| 25 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 8 | [Chychrun](http://twitter.com/search?q=Chychrun) | N/A |
+| 9 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
+| 10 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
+| 11 | [#WomensHistoryMonth](http://twitter.com/search?q=%23WomensHistoryMonth) | N/A |
+| 12 | [Hronek](http://twitter.com/search?q=Hronek) | N/A |
+| 13 | [Alaska and Hawaii](http://twitter.com/search?q=Alaska+and+Hawaii) | N/A |
+| 14 | [sam levinson](http://twitter.com/search?q=sam+levinson) | N/A |
+| 15 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
+| 16 | [Ron Hextall](http://twitter.com/search?q=Ron+Hextall) | N/A |
+| 17 | [Ultra MAGA](http://twitter.com/search?q=Ultra+MAGA) | N/A |
+| 18 | [#TheMandalorianXboxSweepstakes](http://twitter.com/search?q=%23TheMandalorianXboxSweepstakes) | N/A |
+| 19 | [Brenda](http://twitter.com/search?q=Brenda) | N/A |
+| 20 | [$TSLA](http://twitter.com/search?q=%24TSLA) | $TSLA is the stock symbol for Tesla, Inc., an American electric vehicle and clean energy company. It is traded on the Nasdaq stock exchange. |
+| 21 | [Ottawa](http://twitter.com/search?q=Ottawa) | N/A |
+| 22 | [Kevin Durant](http://twitter.com/search?q=Kevin+Durant) | Kevin Durant is an American professional basketball player who currently plays for the Brooklyn Nets of the National Basketball Association (NBA). He is a ten-time NBA All-Star and two-time NBA Finals MVP. He has won four NBA scoring titles, the NBA Rookie of the Year Award, and an Olympic gold medal. |
+| 23 | [Cruz](http://twitter.com/search?q=Cruz) | N/A |
+| 24 | [Joe Budden](http://twitter.com/search?q=Joe+Budden) | N/A |
+| 25 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
 | 26 | [IM SEEING YOONGI](http://twitter.com/search?q=IM+SEEING+YOONGI) | N/A |
-| 27 | [FNAFTOOZ](http://twitter.com/search?q=FNAFTOOZ) | N/A |
-| 28 | [Mamu](http://twitter.com/search?q=Mamu) | N/A |
-| 29 | [Grimsby Town](http://twitter.com/search?q=Grimsby+Town) | N/A |
-| 30 | [Rosemont](http://twitter.com/search?q=Rosemont) | N/A |
-| 31 | [Brenda](http://twitter.com/search?q=Brenda) | N/A |
-| 32 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 33 | [Caleb Grill](http://twitter.com/search?q=Caleb+Grill) | N/A |
-| 34 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
-| 35 | [Newark](http://twitter.com/search?q=Newark) | N/A |
-| 36 | [Sheffield United](http://twitter.com/search?q=Sheffield+United) | Sheffield United is an English professional football club based in Sheffield, South Yorkshire. The club competes in the Premier League, the top division of English football. Sheffield United was founded in 1889 and has won four FA Cups, one League Cup and one Full Members Cup. The club's nickname is "The Blades" due to Sheffield's history of steel production. |
-| 37 | [Paul Tierney](http://twitter.com/search?q=Paul+Tierney) | N/A |
-| 38 | [Jota](http://twitter.com/search?q=Jota) | N/A |
-| 39 | [Dirk](http://twitter.com/search?q=Dirk) | Dirk is a Scottish word for a long, pointed dagger. It is also used as a given name, usually for boys. |
-| 40 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 41 | [Havana Syndrome](http://twitter.com/search?q=Havana+Syndrome) | N/A |
-| 42 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 43 | [Riverside](http://twitter.com/search?q=Riverside) | N/A |
-| 44 | [ITS SNOWING](http://twitter.com/search?q=ITS+SNOWING) | N/A |
-| 45 | [Creighton Waters](http://twitter.com/search?q=Creighton+Waters) | N/A |
-| 46 | [Perisic](http://twitter.com/search?q=Perisic) | Perisic is a surname of Slavic origin. It is derived from the personal name Pero, which is a diminutive of Peter. The English meaning of the name is "son of Peter". |
-| 47 | [$TSLA](http://twitter.com/search?q=%24TSLA) | $TSLA is the stock symbol for Tesla, Inc., an American electric vehicle and clean energy company. It is traded on the Nasdaq stock exchange. |
-| 48 | [Powerade](http://twitter.com/search?q=Powerade) | N/A |
-| 49 | [Buffalo Fire Department](http://twitter.com/search?q=Buffalo+Fire+Department) | N/A |
-| 50 | [I GOT TICKETS](http://twitter.com/search?q=I+GOT+TICKETS) | N/A |
+| 27 | [Caleb Grill](http://twitter.com/search?q=Caleb+Grill) | N/A |
+| 28 | [Pikamee](http://twitter.com/search?q=Pikamee) | N/A |
+| 29 | [Liam Robbins](http://twitter.com/search?q=Liam+Robbins) | N/A |
+| 30 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 31 | [Blueger](http://twitter.com/search?q=Blueger) | N/A |
+| 32 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
+| 33 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 34 | [I GOT TICKETS](http://twitter.com/search?q=I+GOT+TICKETS) | N/A |
+| 35 | [Sens](http://twitter.com/search?q=Sens) | N/A |
+| 36 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 37 | [Portillo](http://twitter.com/search?q=Portillo) | N/A |
+| 38 | [Venus and Jupiter](http://twitter.com/search?q=Venus+and+Jupiter) | N/A |
+| 39 | [Rosemont](http://twitter.com/search?q=Rosemont) | N/A |
+| 40 | [NFLPA](http://twitter.com/search?q=NFLPA) | N/A |
+| 41 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 42 | [Dan Levy](http://twitter.com/search?q=Dan+Levy) | N/A |
+| 43 | [Cyclone](http://twitter.com/search?q=Cyclone) | N/A |
+| 44 | [JT Miller](http://twitter.com/search?q=JT+Miller) | N/A |
+| 45 | [Mamu](http://twitter.com/search?q=Mamu) | N/A |
+| 46 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
+| 47 | [FNAFTOOZ](http://twitter.com/search?q=FNAFTOOZ) | N/A |
+| 48 | [Chip Roy](http://twitter.com/search?q=Chip+Roy) | Chip Roy is the name of an American politician who currently serves as the U.S. Representative for Texas's 21st congressional district. He is a member of the Republican Party. |
+| 49 | [Coyotes](http://twitter.com/search?q=Coyotes) | N/A |
+| 50 | [The Idol](http://twitter.com/search?q=The+Idol) | N/A |
 
 
 

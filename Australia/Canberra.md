@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canberra
 
-📆 Last Updated: `2023-03-01 23:16:17 UTC`
+📆 Last Updated: `2023-03-02 00:30:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Australia](</Australia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
-| 2 | [#ARSEVE](http://twitter.com/search?q=%23ARSEVE) | N/A |
-| 3 | [#FACup](http://twitter.com/search?q=%23FACup) | #FACup is an abbreviation for the Football Association Challenge Cup, which is an annual knockout football competition in England. It is the oldest football competition in the world and is open to all teams from the top four tiers of English football. |
-| 4 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
-| 5 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 6 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 7 | [Evelyn](http://twitter.com/search?q=Evelyn) | N/A |
-| 8 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
-| 9 | [Tayla](http://twitter.com/search?q=Tayla) | N/A |
-| 10 | [Kochie](http://twitter.com/search?q=Kochie) | N/A |
-| 11 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 12 | [The Project](http://twitter.com/search?q=The+Project) | N/A |
-| 13 | [Jadeja](http://twitter.com/search?q=Jadeja) | N/A |
-| 14 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 15 | [sam levinson](http://twitter.com/search?q=sam+levinson) | N/A |
-| 16 | [Jota](http://twitter.com/search?q=Jota) | N/A |
-| 17 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 18 | [Sandy](http://twitter.com/search?q=Sandy) | N/A |
-| 19 | [Autumn](http://twitter.com/search?q=Autumn) | N/A |
-| 20 | [Daily Quordle 402](http://twitter.com/search?q=Daily+Quordle+402) | N/A |
-| 21 | [Frogmore](http://twitter.com/search?q=Frogmore) | N/A |
+| 2 | [#TwitterDown](http://twitter.com/search?q=%23TwitterDown) | N/A |
+| 3 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 4 | [The Project](http://twitter.com/search?q=The+Project) | N/A |
+| 5 | [Evelyn](http://twitter.com/search?q=Evelyn) | N/A |
+| 6 | [#FACup](http://twitter.com/search?q=%23FACup) | #FACup is an abbreviation for the Football Association Challenge Cup, which is an annual knockout football competition in England. It is the oldest football competition in the world and is open to all teams from the top four tiers of English football. |
+| 7 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
+| 8 | [Kochie](http://twitter.com/search?q=Kochie) | N/A |
+| 9 | [Jadeja](http://twitter.com/search?q=Jadeja) | N/A |
+| 10 | [Stuart Robert](http://twitter.com/search?q=Stuart+Robert) | N/A |
+| 11 | [Jota](http://twitter.com/search?q=Jota) | N/A |
+| 12 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 13 | [sam levinson](http://twitter.com/search?q=sam+levinson) | N/A |
+| 14 | [Autumn](http://twitter.com/search?q=Autumn) | N/A |
+| 15 | [Frogmore](http://twitter.com/search?q=Frogmore) | N/A |
+| 16 | [Tayla](http://twitter.com/search?q=Tayla) | N/A |
+| 17 | [Australia Post](http://twitter.com/search?q=Australia+Post) | N/A |
+| 18 | [Pikamee](http://twitter.com/search?q=Pikamee) | N/A |
+| 19 | [Sandy](http://twitter.com/search?q=Sandy) | N/A |
+| 20 | [Angus Taylor](http://twitter.com/search?q=Angus+Taylor) | N/A |
+| 21 | [Welcome to Twitter](http://twitter.com/search?q=Welcome+to+Twitter) | N/A |
 | 22 | [Lehrmann](http://twitter.com/search?q=Lehrmann) | N/A |
-| 23 | [Stuart Robert](http://twitter.com/search?q=Stuart+Robert) | N/A |
-| 24 | [Welcome to Twitter](http://twitter.com/search?q=Welcome+to+Twitter) | N/A |
-| 25 | [Angus](http://twitter.com/search?q=Angus) | N/A |
-| 26 | [Pikamee](http://twitter.com/search?q=Pikamee) | N/A |
-| 27 | [Warren Mundine](http://twitter.com/search?q=Warren+Mundine) | N/A |
-| 28 | [Starc](http://twitter.com/search?q=Starc) | N/A |
-| 29 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
-| 30 | [Chalmers](http://twitter.com/search?q=Chalmers) | N/A |
-| 31 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 32 | [Indore](http://twitter.com/search?q=Indore) | N/A |
-| 33 | [Bridget Archer](http://twitter.com/search?q=Bridget+Archer) | N/A |
-| 34 | [Ronni](http://twitter.com/search?q=Ronni) | Ronni is a female given name, derived from the name Veronica. It is a diminutive form of the name, and can be used as a nickname. The meaning of Ronni in English is "true image". |
-| 35 | [marnus](http://twitter.com/search?q=marnus) | N/A |
+| 23 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 24 | [Chalmers](http://twitter.com/search?q=Chalmers) | N/A |
+| 25 | [Starc](http://twitter.com/search?q=Starc) | N/A |
+| 26 | [Warren Mundine](http://twitter.com/search?q=Warren+Mundine) | N/A |
+| 27 | [Mohammed](http://twitter.com/search?q=Mohammed) | N/A |
+| 28 | [Indore](http://twitter.com/search?q=Indore) | N/A |
+| 29 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 30 | [Bridget Archer](http://twitter.com/search?q=Bridget+Archer) | N/A |
+| 31 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 32 | [Lisa Wilkinson](http://twitter.com/search?q=Lisa+Wilkinson) | N/A |
+| 33 | [Ronni](http://twitter.com/search?q=Ronni) | Ronni is a female given name, derived from the name Veronica. It is a diminutive form of the name, and can be used as a nickname. The meaning of Ronni in English is "true image". |
+| 34 | [Marnus](http://twitter.com/search?q=Marnus) | N/A |
+| 35 | [Daily Quordle 402](http://twitter.com/search?q=Daily+Quordle+402) | N/A |
 | 36 | [Melinda](http://twitter.com/search?q=Melinda) | N/A |
-| 37 | [BCCI](http://twitter.com/search?q=BCCI) | N/A |
-| 38 | [Mohammed](http://twitter.com/search?q=Mohammed) | N/A |
+| 37 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 38 | [Kuhnemann](http://twitter.com/search?q=Kuhnemann) | N/A |
 | 39 | [Musolino](http://twitter.com/search?q=Musolino) | N/A |
-| 40 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 41 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 42 | [Kuhnemann](http://twitter.com/search?q=Kuhnemann) | N/A |
-| 43 | [Dutton](http://twitter.com/search?q=Dutton) | N/A |
-| 44 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 45 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 46 | [Lisa Wilkinson](http://twitter.com/search?q=Lisa+Wilkinson) | N/A |
-| 47 | [Ashwin](http://twitter.com/search?q=Ashwin) | Ashwin is a Hindu name derived from Sanskrit, meaning "lord of the horse". It is often used as a given name for boys in India. |
-| 48 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
-| 49 | [Murdoch](http://twitter.com/search?q=Murdoch) | N/A |
+| 40 | [Mando](http://twitter.com/search?q=Mando) | N/A |
+| 41 | [Dutton](http://twitter.com/search?q=Dutton) | N/A |
+| 42 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
+| 43 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 44 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
+| 45 | [Murdoch](http://twitter.com/search?q=Murdoch) | N/A |
+| 46 | [Waleed](http://twitter.com/search?q=Waleed) | N/A |
+| 47 | [0.5% of Australians](http://twitter.com/search?q=0.5%25+of+Australians) | N/A |
+| 48 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 49 | [Ashwin](http://twitter.com/search?q=Ashwin) | Ashwin is a Hindu name derived from Sanskrit, meaning "lord of the horse". It is often used as a given name for boys in India. |
 
 
 

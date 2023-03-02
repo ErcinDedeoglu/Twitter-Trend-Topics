@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Frankfurt
 
-📆 Last Updated: `2023-03-01 23:16:10 UTC`
+📆 Last Updated: `2023-03-02 00:30:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,44 +27,44 @@ This is top 50 for [Germany](</Germany>)
 | 10 | [Vergewaltigungen](http://twitter.com/search?q=Vergewaltigungen) | N/A |
 | 11 | [Wärmepumpe](http://twitter.com/search?q=W%c3%a4rmepumpe) | N/A |
 | 12 | [Verbote](http://twitter.com/search?q=Verbote) | N/A |
-| 13 | [Kriegsverbrechen](http://twitter.com/search?q=Kriegsverbrechen) | N/A |
-| 14 | [Maske](http://twitter.com/search?q=Maske) | N/A |
+| 13 | [Kipping](http://twitter.com/search?q=Kipping) | N/A |
+| 14 | [Kriegsverbrechen](http://twitter.com/search?q=Kriegsverbrechen) | N/A |
 | 15 | [wochenteiler](http://twitter.com/search?q=wochenteiler) | N/A |
-| 16 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
-| 17 | [YFood](http://twitter.com/search?q=YFood) | N/A |
-| 18 | [Moderator](http://twitter.com/search?q=Moderator) | N/A |
-| 19 | [Jahre Berufserfahrung](http://twitter.com/search?q=Jahre+Berufserfahrung) | N/A |
-| 20 | [Strom](http://twitter.com/search?q=Strom) | N/A |
-| 21 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
-| 22 | [Berliner SPD](http://twitter.com/search?q=Berliner+SPD) | N/A |
+| 16 | [Maske](http://twitter.com/search?q=Maske) | N/A |
+| 17 | [Jahre Berufserfahrung](http://twitter.com/search?q=Jahre+Berufserfahrung) | N/A |
+| 18 | [YFood](http://twitter.com/search?q=YFood) | N/A |
+| 19 | [Moderator](http://twitter.com/search?q=Moderator) | N/A |
+| 20 | [Nuhr](http://twitter.com/search?q=Nuhr) | N/A |
+| 21 | [Strom](http://twitter.com/search?q=Strom) | N/A |
+| 22 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
 | 23 | [Bundesrat](http://twitter.com/search?q=Bundesrat) | N/A |
 | 24 | [Uhren](http://twitter.com/search?q=Uhren) | N/A |
-| 25 | [Seenotrettung](http://twitter.com/search?q=Seenotrettung) | N/A |
-| 26 | [pika](http://twitter.com/search?q=pika) | N/A |
-| 27 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 25 | [Berliner SPD](http://twitter.com/search?q=Berliner+SPD) | N/A |
+| 26 | [Seenotrettung](http://twitter.com/search?q=Seenotrettung) | N/A |
+| 27 | [pika](http://twitter.com/search?q=pika) | N/A |
 | 28 | [Nestle](http://twitter.com/search?q=Nestle) | N/A |
-| 29 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 29 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
 | 30 | [Zellhaufen](http://twitter.com/search?q=Zellhaufen) | N/A |
-| 31 | [Frühlingsanfang](http://twitter.com/search?q=Fr%c3%bchlingsanfang) | N/A |
-| 32 | [GIVE US WN BLOOPERS](http://twitter.com/search?q=GIVE+US+WN+BLOOPERS) | N/A |
+| 31 | [Frau Deutschlands](http://twitter.com/search?q=Frau+Deutschlands) | N/A |
+| 32 | [Frühlingsanfang](http://twitter.com/search?q=Fr%c3%bchlingsanfang) | N/A |
 | 33 | [Jusos](http://twitter.com/search?q=Jusos) | N/A |
-| 34 | [Iggy Pop](http://twitter.com/search?q=Iggy+Pop) | N/A |
-| 35 | [Schwarz-Rot](http://twitter.com/search?q=Schwarz-Rot) | N/A |
-| 36 | [Feiertage](http://twitter.com/search?q=Feiertage) | Feiertage is a German word meaning "holidays" or "celebrations". It is used to refer to public holidays, religious holidays, and other special occasions. |
-| 37 | ["Meute"](http://twitter.com/search?q=%22Meute%22) | N/A |
+| 34 | [Feiertage](http://twitter.com/search?q=Feiertage) | Feiertage is a German word meaning "holidays" or "celebrations". It is used to refer to public holidays, religious holidays, and other special occasions. |
+| 35 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 36 | [Iggy Pop](http://twitter.com/search?q=Iggy+Pop) | N/A |
+| 37 | [Schwarz-Rot](http://twitter.com/search?q=Schwarz-Rot) | N/A |
 | 38 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
-| 39 | [Frau Deutschlands](http://twitter.com/search?q=Frau+Deutschlands) | N/A |
-| 40 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 41 | [schönen mittwoch](http://twitter.com/search?q=sch%c3%b6nen+mittwoch) | N/A |
-| 42 | [Tierney](http://twitter.com/search?q=Tierney) | Tierney is a surname of Irish origin. It is derived from the Gaelic name Ó Tíghearnaigh, which means "descendant of the lord". |
-| 43 | [Neubauten](http://twitter.com/search?q=Neubauten) | N/A |
+| 39 | [schönen mittwoch](http://twitter.com/search?q=sch%c3%b6nen+mittwoch) | N/A |
+| 40 | [Meute](http://twitter.com/search?q=Meute) | N/A |
+| 41 | [Kai Wegner](http://twitter.com/search?q=Kai+Wegner) | N/A |
+| 42 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 43 | [GIVE US WN BLOOPERS](http://twitter.com/search?q=GIVE+US+WN+BLOOPERS) | N/A |
 | 44 | [sam levinson](http://twitter.com/search?q=sam+levinson) | N/A |
-| 45 | [tina](http://twitter.com/search?q=tina) | N/A |
-| 46 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 47 | [Leitlinien](http://twitter.com/search?q=Leitlinien) | N/A |
-| 48 | [März 2023](http://twitter.com/search?q=M%c3%a4rz+2023) | N/A |
-| 49 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
-| 50 | [Markt](http://twitter.com/search?q=Markt) | N/A |
+| 45 | [Niedrigwasser](http://twitter.com/search?q=Niedrigwasser) | N/A |
+| 46 | [Herzlichen Glückwunsch](http://twitter.com/search?q=Herzlichen+Gl%c3%bcckwunsch) | N/A |
+| 47 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 48 | [Faktencheck](http://twitter.com/search?q=Faktencheck) | N/A |
+| 49 | [Heizkörper](http://twitter.com/search?q=Heizk%c3%b6rper) | N/A |
+| 50 | [Venedig](http://twitter.com/search?q=Venedig) | N/A |
 
 
 

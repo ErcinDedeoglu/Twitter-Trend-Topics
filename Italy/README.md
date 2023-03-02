@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Italy
 
-📆 Last Updated: `2023-03-01 23:16:47 UTC`
+📆 Last Updated: `2023-03-02 00:30:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,51 @@ This is top 50 for Italy
 | 1 | [#MareFuori3](http://twitter.com/search?q=%23MareFuori3) | N/A |
 | 2 | [#chilhavisto](http://twitter.com/search?q=%23chilhavisto) | #Chilhavisto is a Spanish hashtag that translates to "Have you seen it?" It is used to ask if someone has seen something, such as a movie, TV show, or video. |
 | 3 | [#BohemianRhapsody](http://twitter.com/search?q=%23BohemianRhapsody) | N/A |
-| 4 | [#NameThatTune](http://twitter.com/search?q=%23NameThatTune) | N/A |
-| 5 | [#MichelleImpossible](http://twitter.com/search?q=%23MichelleImpossible) | N/A |
+| 4 | [#StaseraCeCattelan](http://twitter.com/search?q=%23StaseraCeCattelan) | N/A |
+| 5 | [#NameThatTune](http://twitter.com/search?q=%23NameThatTune) | N/A |
 | 6 | [Viola](http://twitter.com/search?q=Viola) | N/A |
 | 7 | [Carmine](http://twitter.com/search?q=Carmine) | N/A |
-| 8 | [Liliana](http://twitter.com/search?q=Liliana) | N/A |
-| 9 | [Marcus](http://twitter.com/search?q=Marcus) | N/A |
-| 10 | [Sebastiano](http://twitter.com/search?q=Sebastiano) | N/A |
-| 11 | [Speranza](http://twitter.com/search?q=Speranza) | N/A |
+| 8 | [Marcus](http://twitter.com/search?q=Marcus) | N/A |
+| 9 | [Liliana](http://twitter.com/search?q=Liliana) | N/A |
+| 10 | [Speranza](http://twitter.com/search?q=Speranza) | N/A |
+| 11 | [Sebastiano](http://twitter.com/search?q=Sebastiano) | N/A |
 | 12 | [Fontana](http://twitter.com/search?q=Fontana) | N/A |
 | 13 | [Futura](http://twitter.com/search?q=Futura) | N/A |
-| 14 | [Gaetano](http://twitter.com/search?q=Gaetano) | N/A |
-| 15 | [Domenico Cuomo](http://twitter.com/search?q=Domenico+Cuomo) | N/A |
-| 16 | [Bergamo](http://twitter.com/search?q=Bergamo) | N/A |
-| 17 | [Cardio](http://twitter.com/search?q=Cardio) | N/A |
-| 18 | [Roger](http://twitter.com/search?q=Roger) | N/A |
-| 19 | [Freddie Mercury](http://twitter.com/search?q=Freddie+Mercury) | N/A |
-| 20 | [Ermal](http://twitter.com/search?q=Ermal) | N/A |
+| 14 | [Bergamo](http://twitter.com/search?q=Bergamo) | N/A |
+| 15 | [Ermal](http://twitter.com/search?q=Ermal) | N/A |
+| 16 | [Gaetano](http://twitter.com/search?q=Gaetano) | N/A |
+| 17 | [Freddie Mercury](http://twitter.com/search?q=Freddie+Mercury) | N/A |
+| 18 | [Rozzano](http://twitter.com/search?q=Rozzano) | N/A |
+| 19 | [Cardio](http://twitter.com/search?q=Cardio) | N/A |
+| 20 | [Feltri](http://twitter.com/search?q=Feltri) | N/A |
 | 21 | [Filippo](http://twitter.com/search?q=Filippo) | N/A |
-| 22 | [Trieste](http://twitter.com/search?q=Trieste) | N/A |
+| 22 | [sofia](http://twitter.com/search?q=sofia) | N/A |
 | 23 | [Jessica](http://twitter.com/search?q=Jessica) | N/A |
-| 24 | [Feltri](http://twitter.com/search?q=Feltri) | N/A |
-| 25 | [Giove](http://twitter.com/search?q=Giove) | N/A |
-| 26 | [Claudio](http://twitter.com/search?q=Claudio) | N/A |
-| 27 | [Arcilesbica](http://twitter.com/search?q=Arcilesbica) | N/A |
-| 28 | [Locatelli](http://twitter.com/search?q=Locatelli) | Locatelli is an Italian cheese made from sheep's milk. It is a hard, salty cheese with a strong flavor and a granular texture. The name Locatelli comes from the Italian word "locatello," which means "little place." |
-| 29 | [Rozzano](http://twitter.com/search?q=Rozzano) | N/A |
-| 30 | [Guardia Costiera](http://twitter.com/search?q=Guardia+Costiera) | N/A |
-| 31 | [Gianluca](http://twitter.com/search?q=Gianluca) | N/A |
-| 32 | [Procura](http://twitter.com/search?q=Procura) | N/A |
-| 33 | [Lamorgese](http://twitter.com/search?q=Lamorgese) | N/A |
-| 34 | [Assago](http://twitter.com/search?q=Assago) | N/A |
-| 35 | [Gerry](http://twitter.com/search?q=Gerry) | N/A |
-| 36 | [#chilhavisters](http://twitter.com/search?q=%23chilhavisters) | N/A |
-| 37 | [#controcorrente](http://twitter.com/search?q=%23controcorrente) | N/A |
-| 38 | [#StaseraCeCattelan](http://twitter.com/search?q=%23StaseraCeCattelan) | N/A |
-| 39 | [#Atlantide](http://twitter.com/search?q=%23Atlantide) | N/A |
-| 40 | [#YalıÇapkını](http://twitter.com/search?q=%23Yal%c4%b1%c3%87apk%c4%b1n%c4%b1) | Yalıçapkını is a Turkish phrase that literally translates to "house-boat captain". It is used to refer to someone who is a leader or a person in charge. |
-| 41 | [#CagliariGenoa](http://twitter.com/search?q=%23CagliariGenoa) | N/A |
-| 42 | [#Queen](http://twitter.com/search?q=%23Queen) | N/A |
-| 43 | [#upas](http://twitter.com/search?q=%23upas) | N/A |
-| 44 | [#ilvolo](http://twitter.com/search?q=%23ilvolo) | N/A |
-| 45 | [#staseraitalia](http://twitter.com/search?q=%23staseraitalia) | N/A |
-| 46 | [#ottoemezzo](http://twitter.com/search?q=%23ottoemezzo) | N/A |
-| 47 | [#Musetti](http://twitter.com/search?q=%23Musetti) | N/A |
-| 48 | [#COVID19](http://twitter.com/search?q=%23COVID19) | N/A |
-| 49 | [#lineanotte](http://twitter.com/search?q=%23lineanotte) | N/A |
-| 50 | [#SerieBKT](http://twitter.com/search?q=%23SerieBKT) | N/A |
+| 24 | [Trieste](http://twitter.com/search?q=Trieste) | N/A |
+| 25 | [Claudio](http://twitter.com/search?q=Claudio) | N/A |
+| 26 | [Giove](http://twitter.com/search?q=Giove) | N/A |
+| 27 | [Guardia Costiera](http://twitter.com/search?q=Guardia+Costiera) | N/A |
+| 28 | [Procura](http://twitter.com/search?q=Procura) | N/A |
+| 29 | [Gerry](http://twitter.com/search?q=Gerry) | N/A |
+| 30 | [#MichelleImpossible](http://twitter.com/search?q=%23MichelleImpossible) | N/A |
+| 31 | [#chilhavisters](http://twitter.com/search?q=%23chilhavisters) | N/A |
+| 32 | [#ilunatici](http://twitter.com/search?q=%23ilunatici) | N/A |
+| 33 | [#controcorrente](http://twitter.com/search?q=%23controcorrente) | N/A |
+| 34 | [#lineanotte](http://twitter.com/search?q=%23lineanotte) | N/A |
+| 35 | [#Atlantide](http://twitter.com/search?q=%23Atlantide) | N/A |
+| 36 | [#LetItBe](http://twitter.com/search?q=%23LetItBe) | N/A |
+| 37 | [#Queen](http://twitter.com/search?q=%23Queen) | N/A |
+| 38 | [#YalıÇapkını](http://twitter.com/search?q=%23Yal%c4%b1%c3%87apk%c4%b1n%c4%b1) | Yalıçapkını is a Turkish phrase that literally translates to "house-boat captain". It is used to refer to someone who is a leader or a person in charge. |
+| 39 | [#CagliariGenoa](http://twitter.com/search?q=%23CagliariGenoa) | N/A |
+| 40 | [#SeyFer](http://twitter.com/search?q=%23SeyFer) | #SeyFer is a hashtag used on social media to promote the Seychelles, an archipelago of 115 islands in the Indian Ocean. The hashtag is used to share photos and stories about the country's beautiful beaches, lush landscapes, and unique culture. In English, #SeyFer stands for "Seychelles Forever". |
+| 41 | [#COVID19](http://twitter.com/search?q=%23COVID19) | N/A |
+| 42 | [#upas](http://twitter.com/search?q=%23upas) | N/A |
+| 43 | [#SerieBKT](http://twitter.com/search?q=%23SerieBKT) | N/A |
+| 44 | [#ottoemezzo](http://twitter.com/search?q=%23ottoemezzo) | N/A |
+| 45 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 46 | [#damellis](http://twitter.com/search?q=%23damellis) | N/A |
+| 47 | [#LucioDalla](http://twitter.com/search?q=%23LucioDalla) | N/A |
+| 48 | [#TheDarkSideOfTheMoon](http://twitter.com/search?q=%23TheDarkSideOfTheMoon) | N/A |
 
 
 

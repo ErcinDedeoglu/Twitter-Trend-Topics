@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Jose
 
-📆 Last Updated: `2023-03-01 23:16:43 UTC`
+📆 Last Updated: `2023-03-02 00:30:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Riverside](http://twitter.com/search?q=Riverside) | N/A |
-| 2 | [ITS SNOWING](http://twitter.com/search?q=ITS+SNOWING) | N/A |
-| 3 | [Anaheim](http://twitter.com/search?q=Anaheim) | N/A |
-| 4 | [Whittier](http://twitter.com/search?q=Whittier) | N/A |
-| 5 | [Orange County](http://twitter.com/search?q=Orange+County) | N/A |
-| 6 | [Fullerton](http://twitter.com/search?q=Fullerton) | N/A |
-| 7 | [Corona](http://twitter.com/search?q=Corona) | N/A |
-| 8 | [Glendale](http://twitter.com/search?q=Glendale) | N/A |
-| 9 | [#MurdaughTrial](http://twitter.com/search?q=%23MurdaughTrial) | N/A |
-| 10 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
-| 11 | [Drew](http://twitter.com/search?q=Drew) | N/A |
-| 12 | [Omar](http://twitter.com/search?q=Omar) | Omar is a male given name of Arabic origin, meaning "speaker". It is also used as a surname. |
-| 13 | [March Madness](http://twitter.com/search?q=March+Madness) | N/A |
-| 14 | [Olympics](http://twitter.com/search?q=Olympics) | N/A |
-| 15 | [Mayor](http://twitter.com/search?q=Mayor) | N/A |
-| 16 | [Grogu](http://twitter.com/search?q=Grogu) | N/A |
-| 17 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
-| 18 | [The FBI](http://twitter.com/search?q=The+FBI) | N/A |
-| 19 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
+| 1 | [ITS SNOWING](http://twitter.com/search?q=ITS+SNOWING) | N/A |
+| 2 | [Temecula](http://twitter.com/search?q=Temecula) | N/A |
+| 3 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 4 | [Riverside](http://twitter.com/search?q=Riverside) | N/A |
+| 5 | [Anaheim](http://twitter.com/search?q=Anaheim) | N/A |
+| 6 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
+| 7 | [Whittier](http://twitter.com/search?q=Whittier) | N/A |
+| 8 | [Fullerton](http://twitter.com/search?q=Fullerton) | N/A |
+| 9 | [Corona](http://twitter.com/search?q=Corona) | N/A |
+| 10 | [Orange County](http://twitter.com/search?q=Orange+County) | N/A |
+| 11 | [Glendale](http://twitter.com/search?q=Glendale) | N/A |
+| 12 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
+| 13 | [Euphoria](http://twitter.com/search?q=Euphoria) | N/A |
+| 14 | [tina](http://twitter.com/search?q=tina) | N/A |
+| 15 | [#MurdaughTrial](http://twitter.com/search?q=%23MurdaughTrial) | N/A |
+| 16 | [KARL](http://twitter.com/search?q=KARL) | N/A |
+| 17 | [March Madness](http://twitter.com/search?q=March+Madness) | N/A |
+| 18 | [Olympics](http://twitter.com/search?q=Olympics) | N/A |
+| 19 | [Mayor](http://twitter.com/search?q=Mayor) | N/A |
 | 20 | [#SUGA_AgustD_TOUR](http://twitter.com/search?q=%23SUGA_AgustD_TOUR) | N/A |
-| 21 | [#WomensHistoryMonth](http://twitter.com/search?q=%23WomensHistoryMonth) | N/A |
-| 22 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
-| 23 | [Hronek](http://twitter.com/search?q=Hronek) | N/A |
-| 24 | [sam levinson](http://twitter.com/search?q=sam+levinson) | N/A |
-| 25 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 26 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 27 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 28 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 29 | [#TheMandalorianXboxSweepstakes](http://twitter.com/search?q=%23TheMandalorianXboxSweepstakes) | N/A |
-| 30 | [Ultra MAGA](http://twitter.com/search?q=Ultra+MAGA) | N/A |
-| 31 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 32 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
-| 33 | [Cruz](http://twitter.com/search?q=Cruz) | N/A |
-| 34 | [Pikamee](http://twitter.com/search?q=Pikamee) | N/A |
-| 35 | [Chychrun](http://twitter.com/search?q=Chychrun) | N/A |
-| 36 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
-| 37 | [NFLPA](http://twitter.com/search?q=NFLPA) | N/A |
-| 38 | [Burbank](http://twitter.com/search?q=Burbank) | N/A |
+| 21 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
+| 22 | [Chychrun](http://twitter.com/search?q=Chychrun) | N/A |
+| 23 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
+| 24 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
+| 25 | [#WomensHistoryMonth](http://twitter.com/search?q=%23WomensHistoryMonth) | N/A |
+| 26 | [Hronek](http://twitter.com/search?q=Hronek) | N/A |
+| 27 | [Alaska and Hawaii](http://twitter.com/search?q=Alaska+and+Hawaii) | N/A |
+| 28 | [sam levinson](http://twitter.com/search?q=sam+levinson) | N/A |
+| 29 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
+| 30 | [Ron Hextall](http://twitter.com/search?q=Ron+Hextall) | N/A |
+| 31 | [Ultra MAGA](http://twitter.com/search?q=Ultra+MAGA) | N/A |
+| 32 | [Brenda](http://twitter.com/search?q=Brenda) | N/A |
+| 33 | [$TSLA](http://twitter.com/search?q=%24TSLA) | $TSLA is the stock symbol for Tesla, Inc., an American electric vehicle and clean energy company. It is traded on the Nasdaq stock exchange. |
+| 34 | [Kevin Durant](http://twitter.com/search?q=Kevin+Durant) | Kevin Durant is an American professional basketball player who currently plays for the Brooklyn Nets of the National Basketball Association (NBA). He is a ten-time NBA All-Star and two-time NBA Finals MVP. He has won four NBA scoring titles, the NBA Rookie of the Year Award, and an Olympic gold medal. |
+| 35 | [Ottawa](http://twitter.com/search?q=Ottawa) | N/A |
+| 36 | [Blueger](http://twitter.com/search?q=Blueger) | N/A |
+| 37 | [Joe Budden](http://twitter.com/search?q=Joe+Budden) | N/A |
+| 38 | [Cruz](http://twitter.com/search?q=Cruz) | N/A |
 | 39 | [IM SEEING YOONGI](http://twitter.com/search?q=IM+SEEING+YOONGI) | N/A |
-| 40 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 41 | [FNAFTOOZ](http://twitter.com/search?q=FNAFTOOZ) | N/A |
-| 42 | [Mamu](http://twitter.com/search?q=Mamu) | N/A |
-| 43 | [Grimsby Town](http://twitter.com/search?q=Grimsby+Town) | N/A |
-| 44 | [Rosemont](http://twitter.com/search?q=Rosemont) | N/A |
-| 45 | [Brenda](http://twitter.com/search?q=Brenda) | N/A |
-| 46 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 47 | [Caleb Grill](http://twitter.com/search?q=Caleb+Grill) | N/A |
-| 48 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
-| 49 | [Newark](http://twitter.com/search?q=Newark) | N/A |
+| 40 | [Caleb Grill](http://twitter.com/search?q=Caleb+Grill) | N/A |
+| 41 | [Pikamee](http://twitter.com/search?q=Pikamee) | N/A |
+| 42 | [Liam Robbins](http://twitter.com/search?q=Liam+Robbins) | N/A |
+| 43 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 44 | [I GOT TICKETS](http://twitter.com/search?q=I+GOT+TICKETS) | N/A |
+| 45 | [Sens](http://twitter.com/search?q=Sens) | N/A |
+| 46 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
+| 47 | [Cyclone](http://twitter.com/search?q=Cyclone) | N/A |
+| 48 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 49 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
 
 
 

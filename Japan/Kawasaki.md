@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kawasaki
 
-📆 Last Updated: `2023-03-01 23:16:18 UTC`
+📆 Last Updated: `2023-03-02 00:30:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SnowMan](http://twitter.com/search?q=%23SnowMan) | #SnowMan is a hashtag used on social media to refer to posts related to snowmen, such as pictures of snowmen, stories about snowmen, or anything else related to the wintery figure. |
-| 2 | [#星降る夜に出掛けよう](http://twitter.com/search?q=%23%e6%98%9f%e9%99%8d%e3%82%8b%e5%a4%9c%e3%81%ab%e5%87%ba%e6%8e%9b%e3%81%91%e3%82%88%e3%81%86) | N/A |
+| 1 | [#ラヴィット](http://twitter.com/search?q=%23%e3%83%a9%e3%83%b4%e3%82%a3%e3%83%83%e3%83%88) | #ラヴィット is a hashtag used on social media in Japan. It is a combination of the words "love" and "it", and it is used to express appreciation for something or someone. In English, it could be translated as "Love It!" |
+| 2 | [#SnowMan](http://twitter.com/search?q=%23SnowMan) | #SnowMan is a hashtag used on social media to refer to posts related to snowmen, such as pictures of snowmen, stories about snowmen, or anything else related to the wintery figure. |
 | 3 | [こーち舞台](http://twitter.com/search?q=%e3%81%93%e3%83%bc%e3%81%a1%e8%88%9e%e5%8f%b0) | N/A |
-| 4 | [ティアニー](http://twitter.com/search?q=%e3%83%86%e3%82%a3%e3%82%a2%e3%83%8b%e3%83%bc) | N/A |
-| 5 | [しりスマッシュ](http://twitter.com/search?q=%e3%81%97%e3%82%8a%e3%82%b9%e3%83%9e%e3%83%83%e3%82%b7%e3%83%a5) | N/A |
-| 6 | [ガルナチョ](http://twitter.com/search?q=%e3%82%ac%e3%83%ab%e3%83%8a%e3%83%81%e3%83%a7) | N/A |
-| 7 | [ミンティア](http://twitter.com/search?q=%e3%83%9f%e3%83%b3%e3%83%86%e3%82%a3%e3%82%a2) | N/A |
-| 8 | [トロサール](http://twitter.com/search?q=%e3%83%88%e3%83%ad%e3%82%b5%e3%83%bc%e3%83%ab) | トロサール (torosāru) is a type of Japanese pastry made from a sweet dough filled with custard cream. The name comes from the French word "trousser", which means "to wrap". In English, it can be translated as "custard-filled pastry". |
-| 9 | [#おは戦50302mm](http://twitter.com/search?q=%23%e3%81%8a%e3%81%af%e6%88%a650302mm) | N/A |
-| 10 | [#髙地優吾](http://twitter.com/search?q=%23%e9%ab%99%e5%9c%b0%e5%84%aa%e5%90%be) | N/A |
-| 11 | [素顔採用](http://twitter.com/search?q=%e7%b4%a0%e9%a1%94%e6%8e%a1%e7%94%a8) | N/A |
-| 12 | [マルティネッリ](http://twitter.com/search?q=%e3%83%9e%e3%83%ab%e3%83%86%e3%82%a3%e3%83%8d%e3%83%83%e3%83%aa) | マルティネッリ is a type of Italian pasta dish. It is made with a combination of cooked macaroni, cheese, and cream. The name comes from the Italian words for "cooked" (malti) and "nest" (nestri). In English, it can be translated as "macaroni and cheese". |
-| 13 | [ヌニェス](http://twitter.com/search?q=%e3%83%8c%e3%83%8b%e3%82%a7%e3%82%b9) | ヌニェス is a Japanese word that means "nonsense". It is used to describe something that is nonsensical or absurd. |
-| 14 | [ミニーの日](http://twitter.com/search?q=%e3%83%9f%e3%83%8b%e3%83%bc%e3%81%ae%e6%97%a5) | N/A |
-| 15 | [ウーデゴール](http://twitter.com/search?q=%e3%82%a6%e3%83%bc%e3%83%87%e3%82%b4%e3%83%bc%e3%83%ab) | ウーデゴール (Udego-ru) is a Japanese word that means "to go out and have fun". It is often used to describe a night out with friends or a night of partying. |
-| 16 | [ツィミカス](http://twitter.com/search?q=%e3%83%84%e3%82%a3%e3%83%9f%e3%82%ab%e3%82%b9) | N/A |
-| 17 | [宇宙人ヒラテ](http://twitter.com/search?q=%e5%ae%87%e5%ae%99%e4%ba%ba%e3%83%92%e3%83%a9%e3%83%86) | N/A |
-| 18 | [ジンチェンコ](http://twitter.com/search?q=%e3%82%b8%e3%83%b3%e3%83%81%e3%82%a7%e3%83%b3%e3%82%b3) | ジンチェンコ is a Japanese card game that is similar to the Western game of Go Fish. The name translates to "pulling out a pair" and the goal of the game is to collect as many pairs of cards as possible. |
-| 19 | [#おはたくECC](http://twitter.com/search?q=%23%e3%81%8a%e3%81%af%e3%81%9f%e3%81%8fECC) | N/A |
-| 20 | [阪急京都線](http://twitter.com/search?q=%e9%98%aa%e6%80%a5%e4%ba%ac%e9%83%bd%e7%b7%9a) | 阪急京都線 is a railway line operated by Hankyu Railway in Japan. It runs between Osaka and Kyoto, connecting the two cities. In English, it is known as the Hankyu Kyoto Line. |
-| 21 | [髙地くん舞台](http://twitter.com/search?q=%e9%ab%99%e5%9c%b0%e3%81%8f%e3%82%93%e8%88%9e%e5%8f%b0) | N/A |
-| 22 | [ファビーニョ](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%83%93%e3%83%bc%e3%83%8b%e3%83%a7) | ファビーニョ is a Japanese onomatopoeia that expresses the sound of something being thrown away. In English, it could be translated as "thwack" or "toss". |
-| 23 | [POWEEEEER](http://twitter.com/search?q=POWEEEEER) | N/A |
-| 24 | [クリーンシート](http://twitter.com/search?q=%e3%82%af%e3%83%aa%e3%83%bc%e3%83%b3%e3%82%b7%e3%83%bc%e3%83%88) | N/A |
-| 25 | [こーちくん舞台](http://twitter.com/search?q=%e3%81%93%e3%83%bc%e3%81%a1%e3%81%8f%e3%82%93%e8%88%9e%e5%8f%b0) | N/A |
-| 26 | [おじさんビジネス用語](http://twitter.com/search?q=%e3%81%8a%e3%81%98%e3%81%95%e3%82%93%e3%83%93%e3%82%b8%e3%83%8d%e3%82%b9%e7%94%a8%e8%aa%9e) | N/A |
-| 27 | [京都と大阪](http://twitter.com/search?q=%e4%ba%ac%e9%83%bd%e3%81%a8%e5%a4%a7%e9%98%aa) | N/A |
-| 28 | [ビエネッタ](http://twitter.com/search?q=%e3%83%93%e3%82%a8%e3%83%8d%e3%83%83%e3%82%bf) | N/A |
-| 29 | [まことちゃま](http://twitter.com/search?q=%e3%81%be%e3%81%93%e3%81%a8%e3%81%a1%e3%82%83%e3%81%be) | N/A |
-| 30 | [エヴァートン](http://twitter.com/search?q=%e3%82%a8%e3%83%b4%e3%82%a1%e3%83%bc%e3%83%88%e3%83%b3) | エヴァートン is the name of a professional football (soccer) club in England. The team is based in the city of Liverpool and plays in the Premier League. The name "Everton" comes from the district of Everton, which was part of the original parish of Walton-on-the-Hill in Liverpool. |
-| 31 | [スパーズ](http://twitter.com/search?q=%e3%82%b9%e3%83%91%e3%83%bc%e3%82%ba) | スパーズ (Supāzu) is a Japanese term for sparkles or glitter. It is often used to describe something that is shiny or sparkly. In English, it can be translated as "sparkles" or "glitter". |
+| 4 | [#星降る夜に出掛けよう](http://twitter.com/search?q=%23%e6%98%9f%e9%99%8d%e3%82%8b%e5%a4%9c%e3%81%ab%e5%87%ba%e6%8e%9b%e3%81%91%e3%82%88%e3%81%86) | N/A |
+| 5 | [#QUOカードでありがとうを贈る日](http://twitter.com/search?q=%23QUO%e3%82%ab%e3%83%bc%e3%83%89%e3%81%a7%e3%81%82%e3%82%8a%e3%81%8c%e3%81%a8%e3%81%86%e3%82%92%e8%b4%88%e3%82%8b%e6%97%a5) | N/A |
+| 6 | [素顔採用](http://twitter.com/search?q=%e7%b4%a0%e9%a1%94%e6%8e%a1%e7%94%a8) | N/A |
+| 7 | [#スッキリ](http://twitter.com/search?q=%23%e3%82%b9%e3%83%83%e3%82%ad%e3%83%aa) | #スッキリ is a Japanese hashtag that translates to "refreshingly" or "refreshingly clear". It is often used to describe something that is refreshing, clear, and easy to understand. |
+| 8 | [ミニーの日](http://twitter.com/search?q=%e3%83%9f%e3%83%8b%e3%83%bc%e3%81%ae%e6%97%a5) | N/A |
+| 9 | [黒田氏政策](http://twitter.com/search?q=%e9%bb%92%e7%94%b0%e6%b0%8f%e6%94%bf%e7%ad%96) | N/A |
+| 10 | [イオナズン](http://twitter.com/search?q=%e3%82%a4%e3%82%aa%e3%83%8a%e3%82%ba%e3%83%b3) | N/A |
+| 11 | [しりスマッシュ](http://twitter.com/search?q=%e3%81%97%e3%82%8a%e3%82%b9%e3%83%9e%e3%83%83%e3%82%b7%e3%83%a5) | N/A |
+| 12 | [ミンティア](http://twitter.com/search?q=%e3%83%9f%e3%83%b3%e3%83%86%e3%82%a3%e3%82%a2) | N/A |
+| 13 | [スミスロウ](http://twitter.com/search?q=%e3%82%b9%e3%83%9f%e3%82%b9%e3%83%ad%e3%82%a6) | スミスロウ (Sumisu Rou) is a Japanese fashion brand founded in 2002. The brand's name is derived from the English words "Smith" and "Row", which symbolize the idea of combining traditional craftsmanship with modern design. In English, the brand name translates to "Smith & Row". |
+| 14 | [ティアニー](http://twitter.com/search?q=%e3%83%86%e3%82%a3%e3%82%a2%e3%83%8b%e3%83%bc) | N/A |
+| 15 | [金融実験](http://twitter.com/search?q=%e9%87%91%e8%9e%8d%e5%ae%9f%e9%a8%93) | N/A |
+| 16 | [ラッピー](http://twitter.com/search?q=%e3%83%a9%e3%83%83%e3%83%94%e3%83%bc) | N/A |
+| 17 | [シマエナガ](http://twitter.com/search?q=%e3%82%b7%e3%83%9e%e3%82%a8%e3%83%8a%e3%82%ac) | N/A |
+| 18 | [IMF季刊誌](http://twitter.com/search?q=IMF%e5%ad%a3%e5%88%8a%e8%aa%8c) | N/A |
+| 19 | [阪急京都線](http://twitter.com/search?q=%e9%98%aa%e6%80%a5%e4%ba%ac%e9%83%bd%e7%b7%9a) | 阪急京都線 is a railway line operated by Hankyu Railway in Japan. It runs between Osaka and Kyoto, connecting the two cities. In English, it is known as the Hankyu Kyoto Line. |
+| 20 | [ジャンケンマン](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%83%b3%e3%82%b1%e3%83%b3%e3%83%9e%e3%83%b3) | N/A |
+| 21 | [振替輸送](http://twitter.com/search?q=%e6%8c%af%e6%9b%bf%e8%bc%b8%e9%80%81) | 振替輸送 (Furikae Tsuusou) is a Japanese term meaning "transfer transportation". It refers to the transfer of passengers from one mode of transportation to another, such as from a train to a bus or vice versa. |
+| 22 | [デラシネ](http://twitter.com/search?q=%e3%83%87%e3%83%a9%e3%82%b7%e3%83%8d) | N/A |
+| 23 | [バトエン](http://twitter.com/search?q=%e3%83%90%e3%83%88%e3%82%a8%e3%83%b3) | N/A |
+| 24 | [髙地くん](http://twitter.com/search?q=%e9%ab%99%e5%9c%b0%e3%81%8f%e3%82%93) | N/A |
+| 25 | [ガルナチョ](http://twitter.com/search?q=%e3%82%ac%e3%83%ab%e3%83%8a%e3%83%81%e3%83%a7) | N/A |
+| 26 | [ミニーちゃんの日](http://twitter.com/search?q=%e3%83%9f%e3%83%8b%e3%83%bc%e3%81%a1%e3%82%83%e3%82%93%e3%81%ae%e6%97%a5) | N/A |
+| 27 | [レインボー](http://twitter.com/search?q=%e3%83%ac%e3%82%a4%e3%83%b3%e3%83%9c%e3%83%bc) | N/A |
+| 28 | [バトルえんぴつ](http://twitter.com/search?q=%e3%83%90%e3%83%88%e3%83%ab%e3%81%88%e3%82%93%e3%81%b4%e3%81%a4) | N/A |
+| 29 | [陽菜ちゃん](http://twitter.com/search?q=%e9%99%bd%e8%8f%9c%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 30 | [トランス女性の女子トイレ利用](http://twitter.com/search?q=%e3%83%88%e3%83%a9%e3%83%b3%e3%82%b9%e5%a5%b3%e6%80%a7%e3%81%ae%e5%a5%b3%e5%ad%90%e3%83%88%e3%82%a4%e3%83%ac%e5%88%a9%e7%94%a8) | N/A |
+| 31 | [POWEEEEER](http://twitter.com/search?q=POWEEEEER) | N/A |
 | 32 | [もくようび](http://twitter.com/search?q=%e3%82%82%e3%81%8f%e3%82%88%e3%81%86%e3%81%b3) | N/A |
-| 33 | [ミニーマウスの日](http://twitter.com/search?q=%e3%83%9f%e3%83%8b%e3%83%bc%e3%83%9e%e3%82%a6%e3%82%b9%e3%81%ae%e6%97%a5) | N/A |
-| 34 | [ヴィエイラ](http://twitter.com/search?q=%e3%83%b4%e3%82%a3%e3%82%a8%e3%82%a4%e3%83%a9) | N/A |
-| 35 | [振替輸送](http://twitter.com/search?q=%e6%8c%af%e6%9b%bf%e8%bc%b8%e9%80%81) | 振替輸送 (Furikae Tsuusou) is a Japanese term meaning "transfer transportation". It refers to the transfer of passengers from one mode of transportation to another, such as from a train to a bus or vice versa. |
-| 36 | [優馬くん](http://twitter.com/search?q=%e5%84%aa%e9%a6%ac%e3%81%8f%e3%82%93) | N/A |
-| 37 | [ダンジュマ](http://twitter.com/search?q=%e3%83%80%e3%83%b3%e3%82%b8%e3%83%a5%e3%83%9e) | N/A |
-| 38 | [第405回](http://twitter.com/search?q=%e7%ac%ac405%e5%9b%9e) | N/A |
-| 39 | [法的措置](http://twitter.com/search?q=%e6%b3%95%e7%9a%84%e6%8e%aa%e7%bd%ae) | N/A |
-| 40 | [エンケティア](http://twitter.com/search?q=%e3%82%a8%e3%83%b3%e3%82%b1%e3%83%86%e3%82%a3%e3%82%a2) | エンケティア is a Japanese word that means "encounter" or "meeting". It is often used to refer to a chance meeting between two people. |
-| 41 | [雄也くん舞台](http://twitter.com/search?q=%e9%9b%84%e4%b9%9f%e3%81%8f%e3%82%93%e8%88%9e%e5%8f%b0) | N/A |
-| 42 | [自己負担](http://twitter.com/search?q=%e8%87%aa%e5%b7%b1%e8%b2%a0%e6%8b%85) | N/A |
-| 43 | [バイチェティッチ](http://twitter.com/search?q=%e3%83%90%e3%82%a4%e3%83%81%e3%82%a7%e3%83%86%e3%82%a3%e3%83%83%e3%83%81) | N/A |
-| 44 | [サンチェス](http://twitter.com/search?q=%e3%82%b5%e3%83%b3%e3%83%81%e3%82%a7%e3%82%b9) | N/A |
-| 45 | [トランス女性の女子トイレ利用](http://twitter.com/search?q=%e3%83%88%e3%83%a9%e3%83%b3%e3%82%b9%e5%a5%b3%e6%80%a7%e3%81%ae%e5%a5%b3%e5%ad%90%e3%83%88%e3%82%a4%e3%83%ac%e5%88%a9%e7%94%a8) | N/A |
-| 46 | [エバートン](http://twitter.com/search?q=%e3%82%a8%e3%83%90%e3%83%bc%e3%83%88%e3%83%b3) | エバートン is the name of a professional football club in England. The team is based in the city of Liverpool and plays in the Premier League. The name "Everton" comes from the district of Everton, which was part of the original parish of Walton-on-the-Hill in Liverpool. |
-| 47 | [ミニーちゃんの日](http://twitter.com/search?q=%e3%83%9f%e3%83%8b%e3%83%bc%e3%81%a1%e3%82%83%e3%82%93%e3%81%ae%e6%97%a5) | N/A |
-| 48 | [エリオット](http://twitter.com/search?q=%e3%82%a8%e3%83%aa%e3%82%aa%e3%83%83%e3%83%88) | エリオット (Eliott) is a Japanese given name for boys. It is derived from the English name Elliott, which is of Hebrew origin and means "Jehovah is God". |
-| 49 | [高木くん](http://twitter.com/search?q=%e9%ab%98%e6%9c%a8%e3%81%8f%e3%82%93) | N/A |
-| 50 | [イウォビ](http://twitter.com/search?q=%e3%82%a4%e3%82%a6%e3%82%a9%e3%83%93) | N/A |
+| 33 | [宇宙人ヒラテ](http://twitter.com/search?q=%e5%ae%87%e5%ae%99%e4%ba%ba%e3%83%92%e3%83%a9%e3%83%86) | N/A |
+| 34 | [おんぷはこび](http://twitter.com/search?q=%e3%81%8a%e3%82%93%e3%81%b7%e3%81%af%e3%81%93%e3%81%b3) | N/A |
+| 35 | [薩摩イオニー](http://twitter.com/search?q=%e8%96%a9%e6%91%a9%e3%82%a4%e3%82%aa%e3%83%8b%e3%83%bc) | N/A |
+| 36 | [LINE不具合](http://twitter.com/search?q=LINE%e4%b8%8d%e5%85%b7%e5%90%88) | N/A |
+| 37 | [女性の恐怖](http://twitter.com/search?q=%e5%a5%b3%e6%80%a7%e3%81%ae%e6%81%90%e6%80%96) | N/A |
+| 38 | [議員宿舎](http://twitter.com/search?q=%e8%ad%b0%e5%93%a1%e5%ae%bf%e8%88%8e) | N/A |
+| 39 | [悠人兄ちゃん](http://twitter.com/search?q=%e6%82%a0%e4%ba%ba%e5%85%84%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 40 | [恋チュン](http://twitter.com/search?q=%e6%81%8b%e3%83%81%e3%83%a5%e3%83%b3) | N/A |
+| 41 | [こーちくん舞台](http://twitter.com/search?q=%e3%81%93%e3%83%bc%e3%81%a1%e3%81%8f%e3%82%93%e8%88%9e%e5%8f%b0) | N/A |
+| 42 | [日銀の前総裁](http://twitter.com/search?q=%e6%97%a5%e9%8a%80%e3%81%ae%e5%89%8d%e7%b7%8f%e8%a3%81) | N/A |
+| 43 | [トロサール](http://twitter.com/search?q=%e3%83%88%e3%83%ad%e3%82%b5%e3%83%bc%e3%83%ab) | トロサール (torosāru) is a type of Japanese pastry made from a sweet dough filled with custard cream. The name comes from the French word "trousser", which means "to wrap". In English, it can be translated as "custard-filled pastry". |
+| 44 | [ウーデゴール](http://twitter.com/search?q=%e3%82%a6%e3%83%bc%e3%83%87%e3%82%b4%e3%83%bc%e3%83%ab) | ウーデゴール (Udego-ru) is a Japanese word that means "to go out and have fun". It is often used to describe a night out with friends or a night of partying. |
+| 45 | [恋するフォーチュンクッキー](http://twitter.com/search?q=%e6%81%8b%e3%81%99%e3%82%8b%e3%83%95%e3%82%a9%e3%83%bc%e3%83%81%e3%83%a5%e3%83%b3%e3%82%af%e3%83%83%e3%82%ad%e3%83%bc) | N/A |
+| 46 | [ミニーマウスの日](http://twitter.com/search?q=%e3%83%9f%e3%83%8b%e3%83%bc%e3%83%9e%e3%82%a6%e3%82%b9%e3%81%ae%e6%97%a5) | N/A |
+| 47 | [法的措置](http://twitter.com/search?q=%e6%b3%95%e7%9a%84%e6%8e%aa%e7%bd%ae) | N/A |
+| 48 | [マルティネッリ](http://twitter.com/search?q=%e3%83%9e%e3%83%ab%e3%83%86%e3%82%a3%e3%83%8d%e3%83%83%e3%83%aa) | マルティネッリ is a type of Italian pasta dish. It is made with a combination of cooked macaroni, cheese, and cream. The name comes from the Italian words for "cooked" (malti) and "nest" (nestri). In English, it can be translated as "macaroni and cheese". |
+| 49 | [ライダーベルト](http://twitter.com/search?q=%e3%83%a9%e3%82%a4%e3%83%80%e3%83%bc%e3%83%99%e3%83%ab%e3%83%88) | N/A |
+| 50 | [ビエネッタ](http://twitter.com/search?q=%e3%83%93%e3%82%a8%e3%83%8d%e3%83%83%e3%82%bf) | N/A |
 
 
 

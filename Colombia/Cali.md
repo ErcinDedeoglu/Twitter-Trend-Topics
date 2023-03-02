@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cali
 
-📆 Last Updated: `2023-03-01 23:16:03 UTC`
+📆 Last Updated: `2023-03-02 00:29:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Colombia](</Colombia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Viva Air](http://twitter.com/search?q=Viva+Air) | N/A |
-| 2 | [Blink 182](http://twitter.com/search?q=Blink+182) | N/A |
+| 2 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
 | 3 | [Vargas Lleras](http://twitter.com/search?q=Vargas+Lleras) | N/A |
-| 4 | [#UnaCrisisEs](http://twitter.com/search?q=%23UnaCrisisEs) | N/A |
-| 5 | [Gaviria](http://twitter.com/search?q=Gaviria) | N/A |
-| 6 | [Petro](http://twitter.com/search?q=Petro) | N/A |
-| 7 | [Satena](http://twitter.com/search?q=Satena) | N/A |
-| 8 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
-| 9 | [Independiente del Valle](http://twitter.com/search?q=Independiente+del+Valle) | N/A |
-| 10 | [twenty one pilots](http://twitter.com/search?q=twenty+one+pilots) | N/A |
-| 11 | [#UIS75Años](http://twitter.com/search?q=%23UIS75A%c3%b1os) | N/A |
-| 12 | [CELAG](http://twitter.com/search?q=CELAG) | N/A |
-| 13 | [#LiderazgoEs](http://twitter.com/search?q=%23LiderazgoEs) | N/A |
-| 14 | [Lealtad](http://twitter.com/search?q=Lealtad) | N/A |
-| 15 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
-| 16 | [Siopas](http://twitter.com/search?q=Siopas) | N/A |
-| 17 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
-| 18 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 19 | [Invamer](http://twitter.com/search?q=Invamer) | N/A |
-| 20 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 21 | [Jamming](http://twitter.com/search?q=Jamming) | N/A |
-| 22 | [Juan Lozano](http://twitter.com/search?q=Juan+Lozano) | N/A |
-| 23 | [#SquidCraft2](http://twitter.com/search?q=%23SquidCraft2) | N/A |
-| 24 | [Zorro](http://twitter.com/search?q=Zorro) | N/A |
-| 25 | [tina](http://twitter.com/search?q=tina) | N/A |
-| 26 | [Aerocivil](http://twitter.com/search?q=Aerocivil) | N/A |
-| 27 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
-| 28 | [Travis](http://twitter.com/search?q=Travis) | N/A |
-| 29 | [Marzo con M](http://twitter.com/search?q=Marzo+con+M) | N/A |
-| 30 | [Zinchenko](http://twitter.com/search?q=Zinchenko) | Zinchenko is a Russian surname derived from the word "zinchen", which means "little one". It is a patronymic name, meaning it is derived from the given name of a father or ancestor. In English, it can be translated to mean "son of Zincha". |
-| 31 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 32 | [KARL](http://twitter.com/search?q=KARL) | N/A |
-| 33 | [Bienvenido Marzo](http://twitter.com/search?q=Bienvenido+Marzo) | N/A |
-| 34 | [Campos](http://twitter.com/search?q=Campos) | N/A |
+| 4 | [Blink 182](http://twitter.com/search?q=Blink+182) | N/A |
+| 5 | [#UnaCrisisEs](http://twitter.com/search?q=%23UnaCrisisEs) | N/A |
+| 6 | [Gaviria](http://twitter.com/search?q=Gaviria) | N/A |
+| 7 | [Petro](http://twitter.com/search?q=Petro) | N/A |
+| 8 | [Satena](http://twitter.com/search?q=Satena) | N/A |
+| 9 | [Angelo](http://twitter.com/search?q=Angelo) | N/A |
+| 10 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
+| 11 | [Independiente del Valle](http://twitter.com/search?q=Independiente+del+Valle) | N/A |
+| 12 | [twenty one pilots](http://twitter.com/search?q=twenty+one+pilots) | N/A |
+| 13 | [#UIS75Años](http://twitter.com/search?q=%23UIS75A%c3%b1os) | N/A |
+| 14 | [CELAG](http://twitter.com/search?q=CELAG) | N/A |
+| 15 | [Lealtad](http://twitter.com/search?q=Lealtad) | N/A |
+| 16 | [Camargo](http://twitter.com/search?q=Camargo) | N/A |
+| 17 | [#LiderazgoEs](http://twitter.com/search?q=%23LiderazgoEs) | N/A |
+| 18 | [Invamer](http://twitter.com/search?q=Invamer) | N/A |
+| 19 | [Bustamante](http://twitter.com/search?q=Bustamante) | N/A |
+| 20 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
+| 21 | [Juan Lozano](http://twitter.com/search?q=Juan+Lozano) | N/A |
+| 22 | [Jamming](http://twitter.com/search?q=Jamming) | N/A |
+| 23 | [tina](http://twitter.com/search?q=tina) | N/A |
+| 24 | [Marzo con M](http://twitter.com/search?q=Marzo+con+M) | N/A |
+| 25 | [#SquidCraft2](http://twitter.com/search?q=%23SquidCraft2) | N/A |
+| 26 | [Pinto](http://twitter.com/search?q=Pinto) | N/A |
+| 27 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
+| 28 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
+| 29 | [Zorro](http://twitter.com/search?q=Zorro) | N/A |
+| 30 | [KARL](http://twitter.com/search?q=KARL) | N/A |
+| 31 | [Aerocivil](http://twitter.com/search?q=Aerocivil) | N/A |
+| 32 | [Travis](http://twitter.com/search?q=Travis) | N/A |
+| 33 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 34 | [Bienvenido Marzo](http://twitter.com/search?q=Bienvenido+Marzo) | N/A |
 | 35 | [Westcol](http://twitter.com/search?q=Westcol) | N/A |
-| 36 | [María Isabel Urrutia](http://twitter.com/search?q=Mar%c3%ada+Isabel+Urrutia) | N/A |
-| 37 | [Patricia Ariza](http://twitter.com/search?q=Patricia+Ariza) | N/A |
-| 38 | [Clan del Golfo](http://twitter.com/search?q=Clan+del+Golfo) | N/A |
-| 39 | [Transcaribe](http://twitter.com/search?q=Transcaribe) | N/A |
-| 40 | [Maracaná](http://twitter.com/search?q=Maracan%c3%a1) | N/A |
-| 41 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 42 | [Dabeiba](http://twitter.com/search?q=Dabeiba) | N/A |
-| 43 | [Marla](http://twitter.com/search?q=Marla) | N/A |
-| 44 | [Estéreo Picnic](http://twitter.com/search?q=Est%c3%a9reo+Picnic) | N/A |
-| 45 | [HYBE PROTECT RM](http://twitter.com/search?q=HYBE+PROTECT+RM) | N/A |
-| 46 | [BIGHIT PROTECT RM](http://twitter.com/search?q=BIGHIT+PROTECT+RM) | N/A |
-| 47 | [Camila Zuluaga](http://twitter.com/search?q=Camila+Zuluaga) | N/A |
-| 48 | [Osuna](http://twitter.com/search?q=Osuna) | N/A |
-| 49 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 50 | [FARC](http://twitter.com/search?q=FARC) | N/A |
+| 36 | [Siopas](http://twitter.com/search?q=Siopas) | N/A |
+| 37 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 38 | [Maracaná](http://twitter.com/search?q=Maracan%c3%a1) | N/A |
+| 39 | [Urrutia](http://twitter.com/search?q=Urrutia) | N/A |
+| 40 | [Estéreo Picnic](http://twitter.com/search?q=Est%c3%a9reo+Picnic) | N/A |
+| 41 | [Transcaribe](http://twitter.com/search?q=Transcaribe) | N/A |
+| 42 | [Clan del Golfo](http://twitter.com/search?q=Clan+del+Golfo) | N/A |
+| 43 | [Camila Zuluaga](http://twitter.com/search?q=Camila+Zuluaga) | N/A |
+| 44 | [Osuna](http://twitter.com/search?q=Osuna) | N/A |
+| 45 | [BIGHIT PROTECT RM](http://twitter.com/search?q=BIGHIT+PROTECT+RM) | N/A |
+| 46 | [HYBE PROTECT RM](http://twitter.com/search?q=HYBE+PROTECT+RM) | N/A |
+| 47 | [Sabina](http://twitter.com/search?q=Sabina) | N/A |
+| 48 | [Campos](http://twitter.com/search?q=Campos) | N/A |
+| 49 | [Marla](http://twitter.com/search?q=Marla) | N/A |
+| 50 | [Gabigol](http://twitter.com/search?q=Gabigol) | Gabigol is a nickname given to Brazilian footballer Gabriel Barbosa, who currently plays for Flamengo. The nickname is a combination of his first name, Gabriel, and the Portuguese word for goal, gol. In English, the nickname translates to "Gabriel Goal". |
 
 
 
