@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kawasaki
 
-📆 Last Updated: `2023-03-02 00:30:13 UTC`
+📆 Last Updated: `2023-03-02 01:45:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ラヴィット](http://twitter.com/search?q=%23%e3%83%a9%e3%83%b4%e3%82%a3%e3%83%83%e3%83%88) | #ラヴィット is a hashtag used on social media in Japan. It is a combination of the words "love" and "it", and it is used to express appreciation for something or someone. In English, it could be translated as "Love It!" |
-| 2 | [#SnowMan](http://twitter.com/search?q=%23SnowMan) | #SnowMan is a hashtag used on social media to refer to posts related to snowmen, such as pictures of snowmen, stories about snowmen, or anything else related to the wintery figure. |
-| 3 | [こーち舞台](http://twitter.com/search?q=%e3%81%93%e3%83%bc%e3%81%a1%e8%88%9e%e5%8f%b0) | N/A |
-| 4 | [#星降る夜に出掛けよう](http://twitter.com/search?q=%23%e6%98%9f%e9%99%8d%e3%82%8b%e5%a4%9c%e3%81%ab%e5%87%ba%e6%8e%9b%e3%81%91%e3%82%88%e3%81%86) | N/A |
-| 5 | [#QUOカードでありがとうを贈る日](http://twitter.com/search?q=%23QUO%e3%82%ab%e3%83%bc%e3%83%89%e3%81%a7%e3%81%82%e3%82%8a%e3%81%8c%e3%81%a8%e3%81%86%e3%82%92%e8%b4%88%e3%82%8b%e6%97%a5) | N/A |
-| 6 | [素顔採用](http://twitter.com/search?q=%e7%b4%a0%e9%a1%94%e6%8e%a1%e7%94%a8) | N/A |
-| 7 | [#スッキリ](http://twitter.com/search?q=%23%e3%82%b9%e3%83%83%e3%82%ad%e3%83%aa) | #スッキリ is a Japanese hashtag that translates to "refreshingly" or "refreshingly clear". It is often used to describe something that is refreshing, clear, and easy to understand. |
-| 8 | [ミニーの日](http://twitter.com/search?q=%e3%83%9f%e3%83%8b%e3%83%bc%e3%81%ae%e6%97%a5) | N/A |
-| 9 | [黒田氏政策](http://twitter.com/search?q=%e9%bb%92%e7%94%b0%e6%b0%8f%e6%94%bf%e7%ad%96) | N/A |
-| 10 | [イオナズン](http://twitter.com/search?q=%e3%82%a4%e3%82%aa%e3%83%8a%e3%82%ba%e3%83%b3) | N/A |
-| 11 | [しりスマッシュ](http://twitter.com/search?q=%e3%81%97%e3%82%8a%e3%82%b9%e3%83%9e%e3%83%83%e3%82%b7%e3%83%a5) | N/A |
-| 12 | [ミンティア](http://twitter.com/search?q=%e3%83%9f%e3%83%b3%e3%83%86%e3%82%a3%e3%82%a2) | N/A |
-| 13 | [スミスロウ](http://twitter.com/search?q=%e3%82%b9%e3%83%9f%e3%82%b9%e3%83%ad%e3%82%a6) | スミスロウ (Sumisu Rou) is a Japanese fashion brand founded in 2002. The brand's name is derived from the English words "Smith" and "Row", which symbolize the idea of combining traditional craftsmanship with modern design. In English, the brand name translates to "Smith & Row". |
-| 14 | [ティアニー](http://twitter.com/search?q=%e3%83%86%e3%82%a3%e3%82%a2%e3%83%8b%e3%83%bc) | N/A |
-| 15 | [金融実験](http://twitter.com/search?q=%e9%87%91%e8%9e%8d%e5%ae%9f%e9%a8%93) | N/A |
-| 16 | [ラッピー](http://twitter.com/search?q=%e3%83%a9%e3%83%83%e3%83%94%e3%83%bc) | N/A |
-| 17 | [シマエナガ](http://twitter.com/search?q=%e3%82%b7%e3%83%9e%e3%82%a8%e3%83%8a%e3%82%ac) | N/A |
+| 1 | [#SnowMan](http://twitter.com/search?q=%23SnowMan) | #SnowMan is a hashtag used on social media to refer to posts related to snowmen, such as pictures of snowmen, stories about snowmen, or anything else related to the wintery figure. |
+| 2 | [コオロギ食](http://twitter.com/search?q=%e3%82%b3%e3%82%aa%e3%83%ad%e3%82%ae%e9%a3%9f) | N/A |
+| 3 | [#HappyRenDay](http://twitter.com/search?q=%23HappyRenDay) | N/A |
+| 4 | [#REN_Journey_EP26](http://twitter.com/search?q=%23REN_Journey_EP26) | N/A |
+| 5 | [LINE不具合](http://twitter.com/search?q=LINE%e4%b8%8d%e5%85%b7%e5%90%88) | N/A |
+| 6 | [#スッキリ](http://twitter.com/search?q=%23%e3%82%b9%e3%83%83%e3%82%ad%e3%83%aa) | #スッキリ is a Japanese hashtag that translates to "refreshingly" or "refreshingly clear". It is often used to describe something that is refreshing, clear, and easy to understand. |
+| 7 | [#QUOカードでありがとうを贈る日](http://twitter.com/search?q=%23QUO%e3%82%ab%e3%83%bc%e3%83%89%e3%81%a7%e3%81%82%e3%82%8a%e3%81%8c%e3%81%a8%e3%81%86%e3%82%92%e8%b4%88%e3%82%8b%e6%97%a5) | N/A |
+| 8 | [ユーバーレーベン引退](http://twitter.com/search?q=%e3%83%a6%e3%83%bc%e3%83%90%e3%83%bc%e3%83%ac%e3%83%bc%e3%83%99%e3%83%b3%e5%bc%95%e9%80%80) | N/A |
+| 9 | [こーち舞台](http://twitter.com/search?q=%e3%81%93%e3%83%bc%e3%81%a1%e8%88%9e%e5%8f%b0) | N/A |
+| 10 | [ミニーの日](http://twitter.com/search?q=%e3%83%9f%e3%83%8b%e3%83%bc%e3%81%ae%e6%97%a5) | N/A |
+| 11 | [黒田氏政策](http://twitter.com/search?q=%e9%bb%92%e7%94%b0%e6%b0%8f%e6%94%bf%e7%ad%96) | N/A |
+| 12 | [素顔採用](http://twitter.com/search?q=%e7%b4%a0%e9%a1%94%e6%8e%a1%e7%94%a8) | N/A |
+| 13 | [LINE調子](http://twitter.com/search?q=LINE%e8%aa%bf%e5%ad%90) | N/A |
+| 14 | [金融実験](http://twitter.com/search?q=%e9%87%91%e8%9e%8d%e5%ae%9f%e9%a8%93) | N/A |
+| 15 | [特選タイムセール](http://twitter.com/search?q=%e7%89%b9%e9%81%b8%e3%82%bf%e3%82%a4%e3%83%a0%e3%82%bb%e3%83%bc%e3%83%ab) | 特選タイムセール is a Japanese phrase that translates to "Special Time Sale" in English. It is a type of sale event where customers can purchase items at discounted prices for a limited time. |
+| 16 | [ミニーちゃんの日](http://twitter.com/search?q=%e3%83%9f%e3%83%8b%e3%83%bc%e3%81%a1%e3%82%83%e3%82%93%e3%81%ae%e6%97%a5) | N/A |
+| 17 | [LINE通知](http://twitter.com/search?q=LINE%e9%80%9a%e7%9f%a5) | N/A |
 | 18 | [IMF季刊誌](http://twitter.com/search?q=IMF%e5%ad%a3%e5%88%8a%e8%aa%8c) | N/A |
-| 19 | [阪急京都線](http://twitter.com/search?q=%e9%98%aa%e6%80%a5%e4%ba%ac%e9%83%bd%e7%b7%9a) | 阪急京都線 is a railway line operated by Hankyu Railway in Japan. It runs between Osaka and Kyoto, connecting the two cities. In English, it is known as the Hankyu Kyoto Line. |
-| 20 | [ジャンケンマン](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%83%b3%e3%82%b1%e3%83%b3%e3%83%9e%e3%83%b3) | N/A |
-| 21 | [振替輸送](http://twitter.com/search?q=%e6%8c%af%e6%9b%bf%e8%bc%b8%e9%80%81) | 振替輸送 (Furikae Tsuusou) is a Japanese term meaning "transfer transportation". It refers to the transfer of passengers from one mode of transportation to another, such as from a train to a bus or vice versa. |
-| 22 | [デラシネ](http://twitter.com/search?q=%e3%83%87%e3%83%a9%e3%82%b7%e3%83%8d) | N/A |
-| 23 | [バトエン](http://twitter.com/search?q=%e3%83%90%e3%83%88%e3%82%a8%e3%83%b3) | N/A |
-| 24 | [髙地くん](http://twitter.com/search?q=%e9%ab%99%e5%9c%b0%e3%81%8f%e3%82%93) | N/A |
-| 25 | [ガルナチョ](http://twitter.com/search?q=%e3%82%ac%e3%83%ab%e3%83%8a%e3%83%81%e3%83%a7) | N/A |
-| 26 | [ミニーちゃんの日](http://twitter.com/search?q=%e3%83%9f%e3%83%8b%e3%83%bc%e3%81%a1%e3%82%83%e3%82%93%e3%81%ae%e6%97%a5) | N/A |
-| 27 | [レインボー](http://twitter.com/search?q=%e3%83%ac%e3%82%a4%e3%83%b3%e3%83%9c%e3%83%bc) | N/A |
-| 28 | [バトルえんぴつ](http://twitter.com/search?q=%e3%83%90%e3%83%88%e3%83%ab%e3%81%88%e3%82%93%e3%81%b4%e3%81%a4) | N/A |
-| 29 | [陽菜ちゃん](http://twitter.com/search?q=%e9%99%bd%e8%8f%9c%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 30 | [トランス女性の女子トイレ利用](http://twitter.com/search?q=%e3%83%88%e3%83%a9%e3%83%b3%e3%82%b9%e5%a5%b3%e6%80%a7%e3%81%ae%e5%a5%b3%e5%ad%90%e3%83%88%e3%82%a4%e3%83%ac%e5%88%a9%e7%94%a8) | N/A |
-| 31 | [POWEEEEER](http://twitter.com/search?q=POWEEEEER) | N/A |
-| 32 | [もくようび](http://twitter.com/search?q=%e3%82%82%e3%81%8f%e3%82%88%e3%81%86%e3%81%b3) | N/A |
-| 33 | [宇宙人ヒラテ](http://twitter.com/search?q=%e5%ae%87%e5%ae%99%e4%ba%ba%e3%83%92%e3%83%a9%e3%83%86) | N/A |
-| 34 | [おんぷはこび](http://twitter.com/search?q=%e3%81%8a%e3%82%93%e3%81%b7%e3%81%af%e3%81%93%e3%81%b3) | N/A |
-| 35 | [薩摩イオニー](http://twitter.com/search?q=%e8%96%a9%e6%91%a9%e3%82%a4%e3%82%aa%e3%83%8b%e3%83%bc) | N/A |
-| 36 | [LINE不具合](http://twitter.com/search?q=LINE%e4%b8%8d%e5%85%b7%e5%90%88) | N/A |
-| 37 | [女性の恐怖](http://twitter.com/search?q=%e5%a5%b3%e6%80%a7%e3%81%ae%e6%81%90%e6%80%96) | N/A |
-| 38 | [議員宿舎](http://twitter.com/search?q=%e8%ad%b0%e5%93%a1%e5%ae%bf%e8%88%8e) | N/A |
-| 39 | [悠人兄ちゃん](http://twitter.com/search?q=%e6%82%a0%e4%ba%ba%e5%85%84%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 40 | [恋チュン](http://twitter.com/search?q=%e6%81%8b%e3%83%81%e3%83%a5%e3%83%b3) | N/A |
-| 41 | [こーちくん舞台](http://twitter.com/search?q=%e3%81%93%e3%83%bc%e3%81%a1%e3%81%8f%e3%82%93%e8%88%9e%e5%8f%b0) | N/A |
-| 42 | [日銀の前総裁](http://twitter.com/search?q=%e6%97%a5%e9%8a%80%e3%81%ae%e5%89%8d%e7%b7%8f%e8%a3%81) | N/A |
-| 43 | [トロサール](http://twitter.com/search?q=%e3%83%88%e3%83%ad%e3%82%b5%e3%83%bc%e3%83%ab) | トロサール (torosāru) is a type of Japanese pastry made from a sweet dough filled with custard cream. The name comes from the French word "trousser", which means "to wrap". In English, it can be translated as "custard-filled pastry". |
-| 44 | [ウーデゴール](http://twitter.com/search?q=%e3%82%a6%e3%83%bc%e3%83%87%e3%82%b4%e3%83%bc%e3%83%ab) | ウーデゴール (Udego-ru) is a Japanese word that means "to go out and have fun". It is often used to describe a night out with friends or a night of partying. |
-| 45 | [恋するフォーチュンクッキー](http://twitter.com/search?q=%e6%81%8b%e3%81%99%e3%82%8b%e3%83%95%e3%82%a9%e3%83%bc%e3%83%81%e3%83%a5%e3%83%b3%e3%82%af%e3%83%83%e3%82%ad%e3%83%bc) | N/A |
-| 46 | [ミニーマウスの日](http://twitter.com/search?q=%e3%83%9f%e3%83%8b%e3%83%bc%e3%83%9e%e3%82%a6%e3%82%b9%e3%81%ae%e6%97%a5) | N/A |
-| 47 | [法的措置](http://twitter.com/search?q=%e6%b3%95%e7%9a%84%e6%8e%aa%e7%bd%ae) | N/A |
-| 48 | [マルティネッリ](http://twitter.com/search?q=%e3%83%9e%e3%83%ab%e3%83%86%e3%82%a3%e3%83%8d%e3%83%83%e3%83%aa) | マルティネッリ is a type of Italian pasta dish. It is made with a combination of cooked macaroni, cheese, and cream. The name comes from the Italian words for "cooked" (malti) and "nest" (nestri). In English, it can be translated as "macaroni and cheese". |
-| 49 | [ライダーベルト](http://twitter.com/search?q=%e3%83%a9%e3%82%a4%e3%83%80%e3%83%bc%e3%83%99%e3%83%ab%e3%83%88) | N/A |
-| 50 | [ビエネッタ](http://twitter.com/search?q=%e3%83%93%e3%82%a8%e3%83%8d%e3%83%83%e3%82%bf) | N/A |
+| 19 | [和式トイレ](http://twitter.com/search?q=%e5%92%8c%e5%bc%8f%e3%83%88%e3%82%a4%e3%83%ac) | N/A |
+| 20 | [マスク未着用](http://twitter.com/search?q=%e3%83%9e%e3%82%b9%e3%82%af%e6%9c%aa%e7%9d%80%e7%94%a8) | N/A |
+| 21 | [ハウ前ソ](http://twitter.com/search?q=%e3%83%8f%e3%82%a6%e5%89%8d%e3%82%bd) | N/A |
+| 22 | [ミンティア](http://twitter.com/search?q=%e3%83%9f%e3%83%b3%e3%83%86%e3%82%a3%e3%82%a2) | N/A |
+| 23 | [日銀の前総裁](http://twitter.com/search?q=%e6%97%a5%e9%8a%80%e3%81%ae%e5%89%8d%e7%b7%8f%e8%a3%81) | N/A |
+| 24 | [パワーカップル](http://twitter.com/search?q=%e3%83%91%e3%83%af%e3%83%bc%e3%82%ab%e3%83%83%e3%83%97%e3%83%ab) | N/A |
+| 25 | [トランス女性の女子トイレ利用](http://twitter.com/search?q=%e3%83%88%e3%83%a9%e3%83%b3%e3%82%b9%e5%a5%b3%e6%80%a7%e3%81%ae%e5%a5%b3%e5%ad%90%e3%83%88%e3%82%a4%e3%83%ac%e5%88%a9%e7%94%a8) | N/A |
+| 26 | [しりスマッシュ](http://twitter.com/search?q=%e3%81%97%e3%82%8a%e3%82%b9%e3%83%9e%e3%83%83%e3%82%b7%e3%83%a5) | N/A |
+| 27 | [清塚さん](http://twitter.com/search?q=%e6%b8%85%e5%a1%9a%e3%81%95%e3%82%93) | 清塚さん is a Japanese honorific title used to refer to someone with a high level of respect. In English, it would be translated as "Mr. Kiyotaka". |
+| 28 | [Amazonセール](http://twitter.com/search?q=Amazon%e3%82%bb%e3%83%bc%e3%83%ab) | N/A |
+| 29 | [野田元総理](http://twitter.com/search?q=%e9%87%8e%e7%94%b0%e5%85%83%e7%b7%8f%e7%90%86) | N/A |
+| 30 | [故意死球](http://twitter.com/search?q=%e6%95%85%e6%84%8f%e6%ad%bb%e7%90%83) | N/A |
+| 31 | [薩摩イオニー](http://twitter.com/search?q=%e8%96%a9%e6%91%a9%e3%82%a4%e3%82%aa%e3%83%8b%e3%83%bc) | N/A |
+| 32 | [代表待望論](http://twitter.com/search?q=%e4%bb%a3%e8%a1%a8%e5%be%85%e6%9c%9b%e8%ab%96) | N/A |
+| 33 | [女性の恐怖](http://twitter.com/search?q=%e5%a5%b3%e6%80%a7%e3%81%ae%e6%81%90%e6%80%96) | N/A |
+| 34 | [イオナズン](http://twitter.com/search?q=%e3%82%a4%e3%82%aa%e3%83%8a%e3%82%ba%e3%83%b3) | N/A |
+| 35 | [ChatGPT API](http://twitter.com/search?q=ChatGPT+API) | N/A |
+| 36 | [髙地くん](http://twitter.com/search?q=%e9%ab%99%e5%9c%b0%e3%81%8f%e3%82%93) | N/A |
+| 37 | [法的措置](http://twitter.com/search?q=%e6%b3%95%e7%9a%84%e6%8e%aa%e7%bd%ae) | N/A |
+| 38 | [ラッピー](http://twitter.com/search?q=%e3%83%a9%e3%83%83%e3%83%94%e3%83%bc) | N/A |
+| 39 | [デラシネ](http://twitter.com/search?q=%e3%83%87%e3%83%a9%e3%82%b7%e3%83%8d) | N/A |
+| 40 | [宇宙人ヒラテ](http://twitter.com/search?q=%e5%ae%87%e5%ae%99%e4%ba%ba%e3%83%92%e3%83%a9%e3%83%86) | N/A |
+| 41 | [シマエナガ](http://twitter.com/search?q=%e3%82%b7%e3%83%9e%e3%82%a8%e3%83%8a%e3%82%ac) | N/A |
+| 42 | [バトルえんぴつ](http://twitter.com/search?q=%e3%83%90%e3%83%88%e3%83%ab%e3%81%88%e3%82%93%e3%81%b4%e3%81%a4) | N/A |
+| 43 | [POWEEEEER](http://twitter.com/search?q=POWEEEEER) | N/A |
+| 44 | [阪急京都線](http://twitter.com/search?q=%e9%98%aa%e6%80%a5%e4%ba%ac%e9%83%bd%e7%b7%9a) | 阪急京都線 is a railway line operated by Hankyu Railway in Japan. It runs between Osaka and Kyoto, connecting the two cities. In English, it is known as the Hankyu Kyoto Line. |
+| 45 | [完全合格](http://twitter.com/search?q=%e5%ae%8c%e5%85%a8%e5%90%88%e6%a0%bc) | N/A |
+| 46 | [ジャンケンマン](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%83%b3%e3%82%b1%e3%83%b3%e3%83%9e%e3%83%b3) | N/A |
+| 47 | [多目的トイレ](http://twitter.com/search?q=%e5%a4%9a%e7%9b%ae%e7%9a%84%e3%83%88%e3%82%a4%e3%83%ac) | N/A |
+| 48 | [敷島製パン](http://twitter.com/search?q=%e6%95%b7%e5%b3%b6%e8%a3%bd%e3%83%91%e3%83%b3) | N/A |
+| 49 | [バトエン](http://twitter.com/search?q=%e3%83%90%e3%83%88%e3%82%a8%e3%83%b3) | N/A |
+| 50 | [陽菜ちゃん](http://twitter.com/search?q=%e9%99%bd%e8%8f%9c%e3%81%a1%e3%82%83%e3%82%93) | N/A |
 
 
 

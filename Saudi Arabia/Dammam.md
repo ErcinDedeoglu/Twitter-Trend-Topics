@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dammam
 
-📆 Last Updated: `2023-03-02 00:30:23 UTC`
+📆 Last Updated: `2023-03-02 01:45:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,51 @@ This is top 50 for [Saudi Arabia](</Saudi Arabia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#البزنس85](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b2%d9%86%d8%b385) | N/A |
-| 2 | [#مرتده_تستهزي_بالله](http://twitter.com/search?q=%23%d9%85%d8%b1%d8%aa%d8%af%d9%87_%d8%aa%d8%b3%d8%aa%d9%87%d8%b2%d9%8a_%d8%a8%d8%a7%d9%84%d9%84%d9%87) | N/A |
-| 3 | [ارسنال](http://twitter.com/search?q=%d8%a7%d8%b1%d8%b3%d9%86%d8%a7%d9%84) | ارسنال (Arsenal) is a professional football club based in London, England. It is one of the most successful clubs in English football, having won 13 First Division and Premier League titles and a record 14 FA Cups. The club's name is derived from the Royal Arsenal, an armaments factory in Woolwich, south-east London. |
-| 4 | [#100_مسلسل_واكثر](http://twitter.com/search?q=%23100_%d9%85%d8%b3%d9%84%d8%b3%d9%84_%d9%88%d8%a7%d9%83%d8%ab%d8%b1) | N/A |
-| 5 | [الدوريات العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a%d8%a7%d8%aa+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
-| 6 | [#الاهلي_جده](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a_%d8%ac%d8%af%d9%87) | N/A |
-| 7 | [#سعودي_ايدول](http://twitter.com/search?q=%23%d8%b3%d8%b9%d9%88%d8%af%d9%8a_%d8%a7%d9%8a%d8%af%d9%88%d9%84) | #سعودي_ايدول is a hashtag used by Saudi Arabian citizens to express their pride in their country and its achievements. In English, it translates to "Saudi Arabia is Awesome". |
-| 8 | [اوديغارد](http://twitter.com/search?q=%d8%a7%d9%88%d8%af%d9%8a%d8%ba%d8%a7%d8%b1%d8%af) | اوديغارد is an Arabic name that means "Odyssey" in English. It is derived from the Greek word "Ὀδύσσεια" which means a long journey or voyage. |
-| 9 | [صيام الخميس](http://twitter.com/search?q=%d8%b5%d9%8a%d8%a7%d9%85+%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | N/A |
-| 10 | [فولهام](http://twitter.com/search?q=%d9%81%d9%88%d9%84%d9%87%d8%a7%d9%85) | N/A |
+| 2 | [#لا_للايقاعات_بالبرامج_الواقعيه](http://twitter.com/search?q=%23%d9%84%d8%a7_%d9%84%d9%84%d8%a7%d9%8a%d9%82%d8%a7%d8%b9%d8%a7%d8%aa_%d8%a8%d8%a7%d9%84%d8%a8%d8%b1%d8%a7%d9%85%d8%ac_%d8%a7%d9%84%d9%88%d8%a7%d9%82%d8%b9%d9%8a%d9%87) | N/A |
+| 3 | [#مرتده_تستهزي_بالله](http://twitter.com/search?q=%23%d9%85%d8%b1%d8%aa%d8%af%d9%87_%d8%aa%d8%b3%d8%aa%d9%87%d8%b2%d9%8a_%d8%a8%d8%a7%d9%84%d9%84%d9%87) | N/A |
+| 4 | [#البنزين](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d9%86%d8%b2%d9%8a%d9%86) | N/A |
+| 5 | [#ميسي_هلالي](http://twitter.com/search?q=%23%d9%85%d9%8a%d8%b3%d9%8a_%d9%87%d9%84%d8%a7%d9%84%d9%8a) | N/A |
+| 6 | [ارسنال](http://twitter.com/search?q=%d8%a7%d8%b1%d8%b3%d9%86%d8%a7%d9%84) | ارسنال (Arsenal) is a professional football club based in London, England. It is one of the most successful clubs in English football, having won 13 First Division and Premier League titles and a record 14 FA Cups. The club's name is derived from the Royal Arsenal, an armaments factory in Woolwich, south-east London. |
+| 7 | [الدوريات العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a%d8%a7%d8%aa+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
+| 8 | [صيام الخميس](http://twitter.com/search?q=%d8%b5%d9%8a%d8%a7%d9%85+%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | N/A |
+| 9 | [الدوري الايطالي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d9%8a%d8%b7%d8%a7%d9%84%d9%8a) | N/A |
+| 10 | [ايفرتون](http://twitter.com/search?q=%d8%a7%d9%8a%d9%81%d8%b1%d8%aa%d9%88%d9%86) | ايفرتون (Ifton) is an Arabic name meaning "gift of God". |
 | 11 | [احمد البارقي](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%a8%d8%a7%d8%b1%d9%82%d9%8a) | N/A |
-| 12 | [الدوري الايطالي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d9%8a%d8%b7%d8%a7%d9%84%d9%8a) | N/A |
-| 13 | [ويست هام](http://twitter.com/search?q=%d9%88%d9%8a%d8%b3%d8%aa+%d9%87%d8%a7%d9%85) | N/A |
-| 14 | [بيرنلي](http://twitter.com/search?q=%d8%a8%d9%8a%d8%b1%d9%86%d9%84%d9%8a) | بيرنلي (pronounced "birnlee") is an Arabic word meaning "pearl". |
-| 15 | [جميل الدعاء](http://twitter.com/search?q=%d8%ac%d9%85%d9%8a%d9%84+%d8%a7%d9%84%d8%af%d8%b9%d8%a7%d8%a1) | N/A |
-| 16 | [بلال علام](http://twitter.com/search?q=%d8%a8%d9%84%d8%a7%d9%84+%d8%b9%d9%84%d8%a7%d9%85) | N/A |
-| 17 | [بول تيرني](http://twitter.com/search?q=%d8%a8%d9%88%d9%84+%d8%aa%d9%8a%d8%b1%d9%86%d9%8a) | N/A |
-| 18 | [كاس الاتحاد الانجليزي](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af+%d8%a7%d9%84%d8%a7%d9%86%d8%ac%d9%84%d9%8a%d8%b2%d9%8a) | N/A |
-| 19 | [اليوم الخميس](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | اليوم الخميس is Arabic for "Thursday" and it means "Thursday" in English. |
-| 20 | [الحزمه الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%b2%d9%85%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
-| 21 | [رايد اسماعيل](http://twitter.com/search?q=%d8%b1%d8%a7%d9%8a%d8%af+%d8%a7%d8%b3%d9%85%d8%a7%d8%b9%d9%8a%d9%84) | N/A |
-| 22 | [ميليسي](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d9%8a%d8%b3%d9%8a) | ميليسي (pronounced mee-lee-see) is an Arabic word meaning "happiness" or "joy". It is often used as a greeting or to express joy and happiness. |
-| 23 | [غابرييل](http://twitter.com/search?q=%d8%ba%d8%a7%d8%a8%d8%b1%d9%8a%d9%8a%d9%84) | N/A |
-| 24 | [رؤوف خليف](http://twitter.com/search?q=%d8%b1%d8%a4%d9%88%d9%81+%d8%ae%d9%84%d9%8a%d9%81) | N/A |
-| 25 | [سواريز](http://twitter.com/search?q=%d8%b3%d9%88%d8%a7%d8%b1%d9%8a%d8%b2) | N/A |
-| 26 | [فييرا](http://twitter.com/search?q=%d9%81%d9%8a%d9%8a%d8%b1%d8%a7) | N/A |
-| 27 | [سانشيز](http://twitter.com/search?q=%d8%b3%d8%a7%d9%86%d8%b4%d9%8a%d8%b2) | N/A |
-| 28 | [برنامج شريك](http://twitter.com/search?q=%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d8%ac+%d8%b4%d8%b1%d9%8a%d9%83) | N/A |
-| 29 | [المشاريع المدعومه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b4%d8%a7%d8%b1%d9%8a%d8%b9+%d8%a7%d9%84%d9%85%d8%af%d8%b9%d9%88%d9%85%d9%87) | N/A |
-| 30 | [فان دايك](http://twitter.com/search?q=%d9%81%d8%a7%d9%86+%d8%af%d8%a7%d9%8a%d9%83) | N/A |
-| 31 | [فارس عوض](http://twitter.com/search?q=%d9%81%d8%a7%d8%b1%d8%b3+%d8%b9%d9%88%d8%b6) | فارس عوض is an Arabic phrase that translates to "Faris the Substitute" in English. It is a phrase used to describe someone who takes the place of another person or thing. |
-| 32 | [ابو حسن](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%ad%d8%b3%d9%86) | N/A |
-| 33 | [تشاكا](http://twitter.com/search?q=%d8%aa%d8%b4%d8%a7%d9%83%d8%a7) | N/A |
-| 34 | [زياد](http://twitter.com/search?q=%d8%b2%d9%8a%d8%a7%d8%af) | زياد (pronounced zee-yad) is an Arabic word meaning "increase" or "more". It can also be used to refer to something that is greater in quantity or size. |
-| 35 | [مودو بارو](http://twitter.com/search?q=%d9%85%d9%88%d8%af%d9%88+%d8%a8%d8%a7%d8%b1%d9%88) | N/A |
-| 36 | [الحجر الاسود](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%ac%d8%b1+%d8%a7%d9%84%d8%a7%d8%b3%d9%88%d8%af) | N/A |
-| 37 | [وعد شرف](http://twitter.com/search?q=%d9%88%d8%b9%d8%af+%d8%b4%d8%b1%d9%81) | N/A |
-| 38 | [هاري كين](http://twitter.com/search?q=%d9%87%d8%a7%d8%b1%d9%8a+%d9%83%d9%8a%d9%86) | هاري كين (Harry Kane) is the name of an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. |
-| 39 | [وبنزيما](http://twitter.com/search?q=%d9%88%d8%a8%d9%86%d8%b2%d9%8a%d9%85%d8%a7) | N/A |
-| 40 | [عقيل](http://twitter.com/search?q=%d8%b9%d9%82%d9%8a%d9%84) | N/A |
-| 41 | [للأهلي](http://twitter.com/search?q=%d9%84%d9%84%d8%a3%d9%87%d9%84%d9%8a) | N/A |
-| 42 | [نظام نور](http://twitter.com/search?q=%d9%86%d8%b8%d8%a7%d9%85+%d9%86%d9%88%d8%b1) | N/A |
-| 43 | [حسن العلي](http://twitter.com/search?q=%d8%ad%d8%b3%d9%86+%d8%a7%d9%84%d8%b9%d9%84%d9%8a) | N/A |
-| 44 | [2 مارس](http://twitter.com/search?q=2+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
-| 45 | [رياض بودبوز](http://twitter.com/search?q=%d8%b1%d9%8a%d8%a7%d8%b6+%d8%a8%d9%88%d8%af%d8%a8%d9%88%d8%b2) | N/A |
-| 46 | [جابر](http://twitter.com/search?q=%d8%ac%d8%a7%d8%a8%d8%b1) | N/A |
-| 47 | [#اين_هييه_الاعلام_من_البكيري](http://twitter.com/search?q=%23%d8%a7%d9%8a%d9%86_%d9%87%d9%8a%d9%8a%d9%87_%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d8%a7%d9%85_%d9%85%d9%86_%d8%a7%d9%84%d8%a8%d9%83%d9%8a%d8%b1%d9%8a) | N/A |
-| 48 | [#TWICE_BreakthroughAward](http://twitter.com/search?q=%23TWICE_BreakthroughAward) | N/A |
-| 49 | [#BBWomenInMusic](http://twitter.com/search?q=%23BBWomenInMusic) | N/A |
-| 50 | [#زد_رصيدك37](http://twitter.com/search?q=%23%d8%b2%d8%af_%d8%b1%d8%b5%d9%8a%d8%af%d9%8337) | N/A |
+| 12 | [بلال علام](http://twitter.com/search?q=%d8%a8%d9%84%d8%a7%d9%84+%d8%b9%d9%84%d8%a7%d9%85) | N/A |
+| 13 | [جميل الدعاء](http://twitter.com/search?q=%d8%ac%d9%85%d9%8a%d9%84+%d8%a7%d9%84%d8%af%d8%b9%d8%a7%d8%a1) | N/A |
+| 14 | [الحزمه الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%b2%d9%85%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
+| 15 | [ويست](http://twitter.com/search?q=%d9%88%d9%8a%d8%b3%d8%aa) | N/A |
+| 16 | [رايد اسماعيل](http://twitter.com/search?q=%d8%b1%d8%a7%d9%8a%d8%af+%d8%a7%d8%b3%d9%85%d8%a7%d8%b9%d9%8a%d9%84) | N/A |
+| 17 | [سواريز](http://twitter.com/search?q=%d8%b3%d9%88%d8%a7%d8%b1%d9%8a%d8%b2) | N/A |
+| 18 | [ميليسي](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d9%8a%d8%b3%d9%8a) | ميليسي (pronounced mee-lee-see) is an Arabic word meaning "happiness" or "joy". It is often used as a greeting or to express joy and happiness. |
+| 19 | [نايف الرفيدي](http://twitter.com/search?q=%d9%86%d8%a7%d9%8a%d9%81+%d8%a7%d9%84%d8%b1%d9%81%d9%8a%d8%af%d9%8a) | N/A |
+| 20 | [تشاكا](http://twitter.com/search?q=%d8%aa%d8%b4%d8%a7%d9%83%d8%a7) | N/A |
+| 21 | [زياد](http://twitter.com/search?q=%d8%b2%d9%8a%d8%a7%d8%af) | زياد (pronounced zee-yad) is an Arabic word meaning "increase" or "more". It can also be used to refer to something that is greater in quantity or size. |
+| 22 | [فان دايك](http://twitter.com/search?q=%d9%81%d8%a7%d9%86+%d8%af%d8%a7%d9%8a%d9%83) | N/A |
+| 23 | [الحجر الاسود](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%ac%d8%b1+%d8%a7%d9%84%d8%a7%d8%b3%d9%88%d8%af) | N/A |
+| 24 | [عقيل](http://twitter.com/search?q=%d8%b9%d9%82%d9%8a%d9%84) | N/A |
+| 25 | [2 مارس](http://twitter.com/search?q=2+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
+| 26 | [#100_مسلسل_واكثر](http://twitter.com/search?q=%23100_%d9%85%d8%b3%d9%84%d8%b3%d9%84_%d9%88%d8%a7%d9%83%d8%ab%d8%b1) | N/A |
+| 27 | [#اين_هييه_الاعلام_من_البكيري](http://twitter.com/search?q=%23%d8%a7%d9%8a%d9%86_%d9%87%d9%8a%d9%8a%d9%87_%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d8%a7%d9%85_%d9%85%d9%86_%d8%a7%d9%84%d8%a8%d9%83%d9%8a%d8%b1%d9%8a) | N/A |
+| 28 | [#الاهلي_جده](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a_%d8%ac%d8%af%d9%87) | N/A |
+| 29 | [#سعودي_ايدول](http://twitter.com/search?q=%23%d8%b3%d8%b9%d9%88%d8%af%d9%8a_%d8%a7%d9%8a%d8%af%d9%88%d9%84) | #سعودي_ايدول is a hashtag used by Saudi Arabian citizens to express their pride in their country and its achievements. In English, it translates to "Saudi Arabia is Awesome". |
+| 30 | [#TWICE_BreakthroughAward](http://twitter.com/search?q=%23TWICE_BreakthroughAward) | N/A |
+| 31 | [#ساكو](http://twitter.com/search?q=%23%d8%b3%d8%a7%d9%83%d9%88) | N/A |
+| 32 | [#BBWomenInMusic](http://twitter.com/search?q=%23BBWomenInMusic) | N/A |
+| 33 | [#الهلال_الوحده](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84_%d8%a7%d9%84%d9%88%d8%ad%d8%af%d9%87) | N/A |
+| 34 | [#زد_رصيدك37](http://twitter.com/search?q=%23%d8%b2%d8%af_%d8%b1%d8%b5%d9%8a%d8%af%d9%8337) | N/A |
+| 35 | [#نايس_ون](http://twitter.com/search?q=%23%d9%86%d8%a7%d9%8a%d8%b3_%d9%88%d9%86) | N/A |
+| 36 | [#AdimFarah](http://twitter.com/search?q=%23AdimFarah) | N/A |
+| 37 | [#we_love_u_kadi](http://twitter.com/search?q=%23we_love_u_kadi) | N/A |
+| 38 | [#مانشستر_يونايتد_وست_هام](http://twitter.com/search?q=%23%d9%85%d8%a7%d9%86%d8%b4%d8%b3%d8%aa%d8%b1_%d9%8a%d9%88%d9%86%d8%a7%d9%8a%d8%aa%d8%af_%d9%88%d8%b3%d8%aa_%d9%87%d8%a7%d9%85) | N/A |
+| 39 | [#محمد_الزعيزعي](http://twitter.com/search?q=%23%d9%85%d8%ad%d9%85%d8%af_%d8%a7%d9%84%d8%b2%d8%b9%d9%8a%d8%b2%d8%b9%d9%8a) | N/A |
+| 40 | [#يوم_العلم_السعودي](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%b9%d9%84%d9%85_%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
+| 41 | [#جمهور_الهلال_يريد_ميسي](http://twitter.com/search?q=%23%d8%ac%d9%85%d9%87%d9%88%d8%b1_%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84_%d9%8a%d8%b1%d9%8a%d8%af_%d9%85%d9%8a%d8%b3%d9%8a) | N/A |
+| 42 | [#روما_يوفنتوس](http://twitter.com/search?q=%23%d8%b1%d9%88%d9%85%d8%a7_%d9%8a%d9%88%d9%81%d9%86%d8%aa%d9%88%d8%b3) | N/A |
+| 43 | [#ليفربول_مانشستريونايتد](http://twitter.com/search?q=%23%d9%84%d9%8a%d9%81%d8%b1%d8%a8%d9%88%d9%84_%d9%85%d8%a7%d9%86%d8%b4%d8%b3%d8%aa%d8%b1%d9%8a%d9%88%d9%86%d8%a7%d9%8a%d8%aa%d8%af) | N/A |
+| 44 | [#ضمك_التعاون](http://twitter.com/search?q=%23%d8%b6%d9%85%d9%83_%d8%a7%d9%84%d8%aa%d8%b9%d8%a7%d9%88%d9%86) | N/A |
+| 45 | [#برشلونه_فالنسيا](http://twitter.com/search?q=%23%d8%a8%d8%b1%d8%b4%d9%84%d9%88%d9%86%d9%87_%d9%81%d8%a7%d9%84%d9%86%d8%b3%d9%8a%d8%a7) | N/A |
+| 46 | [#الشباب_العداله](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b4%d8%a8%d8%a7%d8%a8_%d8%a7%d9%84%d8%b9%d8%af%d8%a7%d9%84%d9%87) | N/A |
 
 
 

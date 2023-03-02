@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Argentina
 
-📆 Last Updated: `2023-03-02 00:30:43 UTC`
+📆 Last Updated: `2023-03-02 01:45:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Argentina
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SinLuz](http://twitter.com/search?q=%23SinLuz) | N/A |
-| 2 | [Atucha](http://twitter.com/search?q=Atucha) | N/A |
-| 3 | [#CorteDeLuz](http://twitter.com/search?q=%23CorteDeLuz) | N/A |
-| 4 | [#apagon](http://twitter.com/search?q=%23apagon) | N/A |
-| 5 | [#AlbertoNoSeGuardoNada](http://twitter.com/search?q=%23AlbertoNoSeGuardoNada) | N/A |
-| 6 | [Patronato](http://twitter.com/search?q=Patronato) | Patronato is a Spanish term that refers to a system of patronage or protection. It is often used to describe the relationship between a patron and a client, in which the patron provides financial or other support to the client in exchange for loyalty and service. In English, it can be translated as "patronage" or "protection". |
-| 7 | [Edesur](http://twitter.com/search?q=Edesur) | N/A |
-| 8 | [#SupercopaArgentina](http://twitter.com/search?q=%23SupercopaArgentina) | N/A |
-| 9 | [Fattori](http://twitter.com/search?q=Fattori) | N/A |
-| 10 | [Iglesias](http://twitter.com/search?q=Iglesias) | N/A |
-| 11 | [VOLVIÓ LA LUZ](http://twitter.com/search?q=VOLVI%c3%93+LA+LUZ) | N/A |
-| 12 | [Sabotaje](http://twitter.com/search?q=Sabotaje) | N/A |
-| 13 | [Boston River](http://twitter.com/search?q=Boston+River) | N/A |
-| 14 | [Chernobyl](http://twitter.com/search?q=Chernobyl) | N/A |
-| 15 | [Santiago del Estero](http://twitter.com/search?q=Santiago+del+Estero) | N/A |
-| 16 | [TUGO](http://twitter.com/search?q=TUGO) | N/A |
-| 17 | [Alejandro Garnacho](http://twitter.com/search?q=Alejandro+Garnacho) | N/A |
-| 18 | [Komanche](http://twitter.com/search?q=Komanche) | N/A |
-| 19 | [Campana](http://twitter.com/search?q=Campana) | N/A |
-| 20 | [Boquita](http://twitter.com/search?q=Boquita) | N/A |
-| 21 | [KARL](http://twitter.com/search?q=KARL) | N/A |
-| 22 | [Madre de Ciudades](http://twitter.com/search?q=Madre+de+Ciudades) | N/A |
-| 23 | [Fue Macri](http://twitter.com/search?q=Fue+Macri) | N/A |
-| 24 | [Merlos](http://twitter.com/search?q=Merlos) | N/A |
-| 25 | [General Rodríguez](http://twitter.com/search?q=General+Rodr%c3%adguez) | N/A |
-| 26 | [Caballito](http://twitter.com/search?q=Caballito) | N/A |
-| 27 | [EPEC](http://twitter.com/search?q=EPEC) | N/A |
-| 28 | [AMBA](http://twitter.com/search?q=AMBA) | N/A |
-| 29 | [Central Puerto](http://twitter.com/search?q=Central+Puerto) | N/A |
-| 30 | [Globo](http://twitter.com/search?q=Globo) | Globo is a Brazilian media conglomerate and the largest communications group in Latin America. It is one of the largest commercial TV networks in the world, and it produces content for television, radio, internet, and print media. In English, Globo means "global" or "worldwide". |
-| 31 | [48hs](http://twitter.com/search?q=48hs) | N/A |
-| 32 | [Mendoza](http://twitter.com/search?q=Mendoza) | N/A |
-| 33 | [Transener](http://twitter.com/search?q=Transener) | N/A |
-| 34 | [Energía](http://twitter.com/search?q=Energ%c3%ada) | N/A |
-| 35 | [twenty one pilots](http://twitter.com/search?q=twenty+one+pilots) | N/A |
-| 36 | [Cordero](http://twitter.com/search?q=Cordero) | N/A |
-| 37 | [Zinchenko](http://twitter.com/search?q=Zinchenko) | Zinchenko is a Russian surname derived from the word "zinchen", which means "little one". It is a patronymic name, meaning it is derived from the given name of a father or ancestor. In English, it can be translated to mean "son of Zincha". |
-| 38 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
-| 39 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 40 | [Cordoba](http://twitter.com/search?q=Cordoba) | N/A |
-| 41 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
-| 42 | [Huracán](http://twitter.com/search?q=Hurac%c3%a1n) | N/A |
-| 43 | [Lanus](http://twitter.com/search?q=Lanus) | N/A |
-| 44 | [Cammesa](http://twitter.com/search?q=Cammesa) | N/A |
-| 45 | [ENRE](http://twitter.com/search?q=ENRE) | N/A |
-| 46 | [Zamora](http://twitter.com/search?q=Zamora) | N/A |
-| 47 | [Vicente](http://twitter.com/search?q=Vicente) | N/A |
-| 48 | [jennie](http://twitter.com/search?q=jennie) | N/A |
-| 49 | [Berazategui](http://twitter.com/search?q=Berazategui) | N/A |
-| 50 | [San Juan](http://twitter.com/search?q=San+Juan) | N/A |
+| 1 | [Figal](http://twitter.com/search?q=Figal) | N/A |
+| 2 | [Benedetto](http://twitter.com/search?q=Benedetto) | Benedetto is an Italian name meaning "blessed". It is derived from the Latin word "benedictus", which means "blessed". |
+| 3 | [Villa](http://twitter.com/search?q=Villa) | Villa is a type of large, luxurious house or estate. It is usually located in a rural or semi-rural area and is often surrounded by gardens and grounds. The term comes from the Latin word villa, which means "country house." |
+| 4 | [Roncaglia](http://twitter.com/search?q=Roncaglia) | Roncaglia is a type of Italian folk dance that originated in the region of Emilia-Romagna. It is a lively, fast-paced dance that involves couples dancing in a circle and performing intricate steps and turns. The name Roncaglia comes from the Italian word for "round," as the dance is traditionally performed in a circular formation. In English, Roncaglia means "round dance." |
+| 5 | [Patronato](http://twitter.com/search?q=Patronato) | Patronato is a Spanish term that refers to a system of patronage or protection. It is often used to describe the relationship between a patron and a client, in which the patron provides financial or other support to the client in exchange for loyalty and service. In English, it can be translated as "patronage" or "protection". |
+| 6 | [Advincula](http://twitter.com/search?q=Advincula) | Advincula is a Latin word meaning "to advance" or "to move forward". It is often used to refer to someone who is eager to take on new challenges and make progress. |
+| 7 | [#SinLuz](http://twitter.com/search?q=%23SinLuz) | N/A |
+| 8 | [Atucha](http://twitter.com/search?q=Atucha) | N/A |
+| 9 | [Merlos](http://twitter.com/search?q=Merlos) | N/A |
+| 10 | [Vamos Boca](http://twitter.com/search?q=Vamos+Boca) | N/A |
+| 11 | [#apagon](http://twitter.com/search?q=%23apagon) | N/A |
+| 12 | [NACHO A LA FINAL](http://twitter.com/search?q=NACHO+A+LA+FINAL) | N/A |
+| 13 | [#AlbertoNoSeGuardoNada](http://twitter.com/search?q=%23AlbertoNoSeGuardoNada) | N/A |
+| 14 | [Oscar Romero](http://twitter.com/search?q=Oscar+Romero) | N/A |
+| 15 | [El 9 de Boca](http://twitter.com/search?q=El+9+de+Boca) | N/A |
+| 16 | [#SupercopaArgentina](http://twitter.com/search?q=%23SupercopaArgentina) | N/A |
+| 17 | [Offside](http://twitter.com/search?q=Offside) | Offside is a rule in soccer (football) that states that a player cannot be in the opposing team's half of the field when the ball is passed to them. It is an infraction of the rules and results in a free kick for the opposing team. In English, offside means being in an illegal position on the field. |
+| 18 | [#CorteDeLuz](http://twitter.com/search?q=%23CorteDeLuz) | N/A |
+| 19 | [El VAR](http://twitter.com/search?q=El+VAR) | El VAR is an acronym for Video Assistant Referee, which is a technology used in soccer to help referees make decisions. It uses video replays to review decisions made by the referee on the field. In English, it means Video Assistant Referee. |
+| 20 | [Fattori](http://twitter.com/search?q=Fattori) | N/A |
+| 21 | [Pipon](http://twitter.com/search?q=Pipon) | N/A |
+| 22 | [Santiago del Estero](http://twitter.com/search?q=Santiago+del+Estero) | N/A |
+| 23 | [Komanche](http://twitter.com/search?q=Komanche) | N/A |
+| 24 | [Cande Tinelli](http://twitter.com/search?q=Cande+Tinelli) | N/A |
+| 25 | [Diva](http://twitter.com/search?q=Diva) | N/A |
+| 26 | [Javi García](http://twitter.com/search?q=Javi+Garc%c3%ada) | Javi García is a Spanish name. It is a combination of the given name Javier and the surname García. In English, it would be translated as "Javier Garcia". |
+| 27 | [Dale Boca](http://twitter.com/search?q=Dale+Boca) | N/A |
+| 28 | [Vamos Boquita](http://twitter.com/search?q=Vamos+Boquita) | N/A |
+| 29 | [Sabotaje](http://twitter.com/search?q=Sabotaje) | N/A |
+| 30 | [Edesur](http://twitter.com/search?q=Edesur) | N/A |
+| 31 | [Fernando Iglesias](http://twitter.com/search?q=Fernando+Iglesias) | N/A |
+| 32 | [Alejandro Garnacho](http://twitter.com/search?q=Alejandro+Garnacho) | N/A |
+| 33 | [Volvió](http://twitter.com/search?q=Volvi%c3%b3) | N/A |
+| 34 | [Guillermina](http://twitter.com/search?q=Guillermina) | N/A |
+| 35 | [Boston River](http://twitter.com/search?q=Boston+River) | N/A |
+| 36 | [Fue Macri](http://twitter.com/search?q=Fue+Macri) | N/A |
+| 37 | [all of the girls](http://twitter.com/search?q=all+of+the+girls) | N/A |
+| 38 | [Chernobyl](http://twitter.com/search?q=Chernobyl) | N/A |
+| 39 | [Madre de Ciudades](http://twitter.com/search?q=Madre+de+Ciudades) | N/A |
+| 40 | [Campana](http://twitter.com/search?q=Campana) | N/A |
+| 41 | [TUGO](http://twitter.com/search?q=TUGO) | N/A |
+| 42 | [Xeneize](http://twitter.com/search?q=Xeneize) | N/A |
+| 43 | [Globo](http://twitter.com/search?q=Globo) | Globo is a Brazilian media conglomerate and the largest communications group in Latin America. It is one of the largest commercial TV networks in the world, and it produces content for television, radio, internet, and print media. In English, Globo means "global" or "worldwide". |
+| 44 | [Petro](http://twitter.com/search?q=Petro) | N/A |
+| 45 | [Cordero](http://twitter.com/search?q=Cordero) | N/A |
+| 46 | [General Rodríguez](http://twitter.com/search?q=General+Rodr%c3%adguez) | N/A |
+| 47 | [Transener](http://twitter.com/search?q=Transener) | N/A |
+| 48 | [48hs](http://twitter.com/search?q=48hs) | N/A |
+| 49 | [twenty one pilots](http://twitter.com/search?q=twenty+one+pilots) | N/A |
+| 50 | [EPEC](http://twitter.com/search?q=EPEC) | N/A |
 
 
 

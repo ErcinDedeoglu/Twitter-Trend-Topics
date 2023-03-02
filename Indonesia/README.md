@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indonesia
 
-📆 Last Updated: `2023-03-02 00:30:46 UTC`
+📆 Last Updated: `2023-03-02 01:45:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Indonesia
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Asuransi AIA](http://twitter.com/search?q=Asuransi+AIA) | N/A |
-| 2 | [HAECHAN LEE THANK YOU](http://twitter.com/search?q=HAECHAN+LEE+THANK+YOU) | N/A |
-| 3 | [cuma prabowo palingpas](http://twitter.com/search?q=cuma+prabowo+palingpas) | N/A |
+| 1 | [#TAEYONGtoPFW23](http://twitter.com/search?q=%23TAEYONGtoPFW23) | N/A |
+| 2 | [cuma prabowo palingpas](http://twitter.com/search?q=cuma+prabowo+palingpas) | N/A |
+| 3 | [#BBWomenInMusic](http://twitter.com/search?q=%23BBWomenInMusic) | N/A |
 | 4 | [lengkapnya di dekade 08](http://twitter.com/search?q=lengkapnya+di+dekade+08) | N/A |
 | 5 | [nyaman bersama prabowo](http://twitter.com/search?q=nyaman+bersama+prabowo) | N/A |
-| 6 | [bapak prabowo subianto](http://twitter.com/search?q=bapak+prabowo+subianto) | N/A |
-| 7 | [Syariat Ngerumat Jagad](http://twitter.com/search?q=Syariat+Ngerumat+Jagad) | N/A |
-| 8 | [#TWICE_BreakthroughAward](http://twitter.com/search?q=%23TWICE_BreakthroughAward) | N/A |
-| 9 | [#BBWomenInMusic](http://twitter.com/search?q=%23BBWomenInMusic) | N/A |
-| 10 | [Maret](http://twitter.com/search?q=Maret) | N/A |
-| 11 | [#SelamatDenganSyariah](http://twitter.com/search?q=%23SelamatDenganSyariah) | N/A |
-| 12 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
-| 13 | [#KPKKenaPrank](http://twitter.com/search?q=%23KPKKenaPrank) | N/A |
-| 14 | [Bangkit Dengan Islam Kaffah](http://twitter.com/search?q=Bangkit+Dengan+Islam+Kaffah) | N/A |
-| 15 | [BIGHIT PROTECT RM](http://twitter.com/search?q=BIGHIT+PROTECT+RM) | N/A |
-| 16 | [HYBE PROTECT RM](http://twitter.com/search?q=HYBE+PROTECT+RM) | N/A |
-| 17 | [Jalur](http://twitter.com/search?q=Jalur) | N/A |
-| 18 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 19 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 6 | [#TWICE_BreakthroughAward](http://twitter.com/search?q=%23TWICE_BreakthroughAward) | N/A |
+| 7 | [Asuransi AIA](http://twitter.com/search?q=Asuransi+AIA) | N/A |
+| 8 | [#KembangApi](http://twitter.com/search?q=%23KembangApi) | N/A |
+| 9 | [HAECHAN LEE THANK YOU](http://twitter.com/search?q=HAECHAN+LEE+THANK+YOU) | N/A |
+| 10 | [bapak prabowo subianto](http://twitter.com/search?q=bapak+prabowo+subianto) | N/A |
+| 11 | [#2AndHalfMWithBuild](http://twitter.com/search?q=%232AndHalfMWithBuild) | N/A |
+| 12 | [5M BUILD](http://twitter.com/search?q=5M+BUILD) | N/A |
+| 13 | [HOORAY FOR 2](http://twitter.com/search?q=HOORAY+FOR+2) | N/A |
+| 14 | [Maret](http://twitter.com/search?q=Maret) | N/A |
+| 15 | [Bangkit Dengan Islam Kaffah](http://twitter.com/search?q=Bangkit+Dengan+Islam+Kaffah) | N/A |
+| 16 | [BIGHIT PROTECT RM](http://twitter.com/search?q=BIGHIT+PROTECT+RM) | N/A |
+| 17 | [Syariat Ngerumat Jagad](http://twitter.com/search?q=Syariat+Ngerumat+Jagad) | N/A |
+| 18 | [Jalur](http://twitter.com/search?q=Jalur) | N/A |
+| 19 | [HYBE PROTECT RM](http://twitter.com/search?q=HYBE+PROTECT+RM) | N/A |
 | 20 | [KPAI](http://twitter.com/search?q=KPAI) | N/A |
 | 21 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 22 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 22 | [pika](http://twitter.com/search?q=pika) | N/A |
 | 23 | [prabowo fokus serius](http://twitter.com/search?q=prabowo+fokus+serius) | N/A |
-| 24 | [pika](http://twitter.com/search?q=pika) | N/A |
-| 25 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 26 | [OUR SUNSHINE PARK JEONGWOO](http://twitter.com/search?q=OUR+SUNSHINE+PARK+JEONGWOO) | N/A |
-| 27 | [ultra 5g](http://twitter.com/search?q=ultra+5g) | N/A |
-| 28 | [temukan di dekade 08](http://twitter.com/search?q=temukan+di+dekade+08) | N/A |
-| 29 | [iyabetul mending prabowo](http://twitter.com/search?q=iyabetul+mending+prabowo) | N/A |
-| 30 | [prabowo utamakan persatuan](http://twitter.com/search?q=prabowo+utamakan+persatuan) | N/A |
-| 31 | [Grimsby](http://twitter.com/search?q=Grimsby) | N/A |
-| 32 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 33 | [Formula E](http://twitter.com/search?q=Formula+E) | N/A |
+| 24 | [BLOOMING WITH LEESEO](http://twitter.com/search?q=BLOOMING+WITH+LEESEO) | N/A |
+| 25 | [OUR SUNSHINE PARK JEONGWOO](http://twitter.com/search?q=OUR+SUNSHINE+PARK+JEONGWOO) | N/A |
+| 26 | [ultra 5g](http://twitter.com/search?q=ultra+5g) | N/A |
+| 27 | [temukan di dekade 08](http://twitter.com/search?q=temukan+di+dekade+08) | N/A |
+| 28 | [iyabetul mending prabowo](http://twitter.com/search?q=iyabetul+mending+prabowo) | N/A |
+| 29 | [prabowo utamakan persatuan](http://twitter.com/search?q=prabowo+utamakan+persatuan) | N/A |
+| 30 | [Formula E](http://twitter.com/search?q=Formula+E) | N/A |
+| 31 | [Kamis](http://twitter.com/search?q=Kamis) | N/A |
+| 32 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 33 | [200mp nightography](http://twitter.com/search?q=200mp+nightography) | N/A |
 | 34 | [Hujan](http://twitter.com/search?q=Hujan) | N/A |
-| 35 | [Peter Drury](http://twitter.com/search?q=Peter+Drury) | N/A |
+| 35 | [chimmie](http://twitter.com/search?q=chimmie) | N/A |
 | 36 | [PBSI](http://twitter.com/search?q=PBSI) | N/A |
-| 37 | [200mp nightography](http://twitter.com/search?q=200mp+nightography) | N/A |
-| 38 | [Kamis](http://twitter.com/search?q=Kamis) | N/A |
-| 39 | [chimmie](http://twitter.com/search?q=chimmie) | N/A |
-| 40 | [mengangkat](http://twitter.com/search?q=mengangkat) | N/A |
-| 41 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
-| 42 | [MOTM](http://twitter.com/search?q=MOTM) | N/A |
-| 43 | [Ini Twitter](http://twitter.com/search?q=Ini+Twitter) | N/A |
-| 44 | [Emyu](http://twitter.com/search?q=Emyu) | N/A |
-| 45 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 46 | [Lindelof](http://twitter.com/search?q=Lindelof) | Lindelof is a surname of Swedish origin. It is derived from the Old Norse name Lindalófr, which means "linden leaf" or "linden tree". In English, the name can be translated to mean "beloved of the linden tree". |
-| 47 | [GOSE](http://twitter.com/search?q=GOSE) | N/A |
-| 48 | [Alkohol 96%](http://twitter.com/search?q=Alkohol+96%25) | N/A |
-| 49 | [Zinny](http://twitter.com/search?q=Zinny) | Zinny is a slang term used to describe someone who is eccentric or quirky. It can also be used to describe someone who is a bit of an oddball. |
-| 50 | [bi fast](http://twitter.com/search?q=bi+fast) | N/A |
+| 37 | [mengangkat](http://twitter.com/search?q=mengangkat) | N/A |
+| 38 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 39 | [Ini Twitter](http://twitter.com/search?q=Ini+Twitter) | N/A |
+| 40 | [GOSE](http://twitter.com/search?q=GOSE) | N/A |
+| 41 | [Emma](http://twitter.com/search?q=Emma) | Emma is a feminine given name derived from the Germanic word ermen, meaning “whole” or “universal.” It is also a diminutive form of the name Emily. Emma is a popular name in many English-speaking countries, including the United States, Canada, Australia, and New Zealand. |
+| 42 | [bi fast](http://twitter.com/search?q=bi+fast) | N/A |
+| 43 | [Alkohol 96%](http://twitter.com/search?q=Alkohol+96%25) | N/A |
+| 44 | [angela tanoesoedibjo](http://twitter.com/search?q=angela+tanoesoedibjo) | N/A |
+| 45 | [going seventeen 2023](http://twitter.com/search?q=going+seventeen+2023) | N/A |
+| 46 | [Gelora Buat Konser](http://twitter.com/search?q=Gelora+Buat+Konser) | N/A |
+| 47 | [Sarapan](http://twitter.com/search?q=Sarapan) | N/A |
+| 48 | [TXT TOO MUCH INFO](http://twitter.com/search?q=TXT+TOO+MUCH+INFO) | N/A |
+| 49 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 50 | [lee jeno thank you](http://twitter.com/search?q=lee+jeno+thank+you) | N/A |
 
 
 

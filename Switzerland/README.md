@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-03-02 00:30:51 UTC`
+📆 Last Updated: `2023-03-02 01:46:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,15 +15,15 @@ This is top 50 for Switzerland
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Annecy](http://twitter.com/search?q=Annecy) | N/A |
-| 2 | [#rotblaulive](http://twitter.com/search?q=%23rotblaulive) | N/A |
+| 1 | [#rotblaulive](http://twitter.com/search?q=%23rotblaulive) | N/A |
+| 2 | [Annecy](http://twitter.com/search?q=Annecy) | N/A |
 | 3 | [#FCSGFCB](http://twitter.com/search?q=%23FCSGFCB) | N/A |
 | 4 | [#HRC52](http://twitter.com/search?q=%23HRC52) | N/A |
 | 5 | [#Windisch](http://twitter.com/search?q=%23Windisch) | N/A |
-| 6 | [Teuerungsausgleich](http://twitter.com/search?q=Teuerungsausgleich) | N/A |
+| 6 | [teuerungsausgleich](http://twitter.com/search?q=teuerungsausgleich) | N/A |
 | 7 | [#parlch](http://twitter.com/search?q=%23parlch) | N/A |
 | 8 | [Julien Bert](http://twitter.com/search?q=Julien+Bert) | N/A |
-| 9 | [Franz Hohler](http://twitter.com/search?q=Franz+Hohler) | N/A |
+| 9 | [franz hohler](http://twitter.com/search?q=franz+hohler) | N/A |
 | 10 | [Privatsache](http://twitter.com/search?q=Privatsache) | N/A |
 | 11 | [ständerat](http://twitter.com/search?q=st%c3%a4nderat) | N/A |
 | 12 | [Zoro](http://twitter.com/search?q=Zoro) | N/A |
@@ -48,23 +48,23 @@ This is top 50 for Switzerland
 | 31 | [Gerät](http://twitter.com/search?q=Ger%c3%a4t) | N/A |
 | 32 | [Kinderbetreuung](http://twitter.com/search?q=Kinderbetreuung) | N/A |
 | 33 | [Bedingungen](http://twitter.com/search?q=Bedingungen) | N/A |
-| 34 | [Sozialhilfe](http://twitter.com/search?q=Sozialhilfe) | N/A |
+| 34 | [sozialhilfe](http://twitter.com/search?q=sozialhilfe) | N/A |
 | 35 | [Montagnier](http://twitter.com/search?q=Montagnier) | N/A |
 | 36 | [Subventionen](http://twitter.com/search?q=Subventionen) | N/A |
-| 37 | [Schwester](http://twitter.com/search?q=Schwester) | N/A |
-| 38 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 39 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 40 | [Eigentümer](http://twitter.com/search?q=Eigent%c3%bcmer) | N/A |
-| 41 | [Ausnahme](http://twitter.com/search?q=Ausnahme) | N/A |
-| 42 | [Vergewaltigungen](http://twitter.com/search?q=Vergewaltigungen) | N/A |
-| 43 | [Kündigung](http://twitter.com/search?q=K%c3%bcndigung) | N/A |
+| 37 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
+| 38 | [Schwester](http://twitter.com/search?q=Schwester) | N/A |
+| 39 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 40 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 41 | [Kündigung](http://twitter.com/search?q=K%c3%bcndigung) | N/A |
+| 42 | [Eigentümer](http://twitter.com/search?q=Eigent%c3%bcmer) | N/A |
+| 43 | [Vergewaltigungen](http://twitter.com/search?q=Vergewaltigungen) | N/A |
 | 44 | [DeFi](http://twitter.com/search?q=DeFi) | N/A |
-| 45 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 46 | [Renten](http://twitter.com/search?q=Renten) | N/A |
-| 47 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
-| 48 | [Frau Wagenknecht](http://twitter.com/search?q=Frau+Wagenknecht) | N/A |
-| 49 | [Eier](http://twitter.com/search?q=Eier) | N/A |
-| 50 | [isabel garcia](http://twitter.com/search?q=isabel+garcia) | N/A |
+| 45 | [Renten](http://twitter.com/search?q=Renten) | N/A |
+| 46 | [Eier](http://twitter.com/search?q=Eier) | N/A |
+| 47 | [isabel garcia](http://twitter.com/search?q=isabel+garcia) | N/A |
+| 48 | [David](http://twitter.com/search?q=David) | N/A |
+| 49 | [Beweise](http://twitter.com/search?q=Beweise) | N/A |
+| 50 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
 
 
 

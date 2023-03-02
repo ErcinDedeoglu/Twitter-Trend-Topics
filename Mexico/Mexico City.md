@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico City
 
-📆 Last Updated: `2023-03-02 00:29:51 UTC`
+📆 Last Updated: `2023-03-02 01:45:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [La UNAM](http://twitter.com/search?q=La+UNAM) | N/A |
-| 2 | [Justin Bieber](http://twitter.com/search?q=Justin+Bieber) | N/A |
-| 3 | [#TWICE_BreakthroughAward](http://twitter.com/search?q=%23TWICE_BreakthroughAward) | N/A |
-| 4 | [#BBWomenInMusic](http://twitter.com/search?q=%23BBWomenInMusic) | N/A |
-| 5 | [tina](http://twitter.com/search?q=tina) | N/A |
-| 6 | [#MarcoReyPicks](http://twitter.com/search?q=%23MarcoReyPicks) | N/A |
-| 7 | [#TatatiuEnConvoy](http://twitter.com/search?q=%23TatatiuEnConvoy) | N/A |
-| 8 | [#SUGA_AgustD_TOUR](http://twitter.com/search?q=%23SUGA_AgustD_TOUR) | N/A |
-| 9 | [Komanche](http://twitter.com/search?q=Komanche) | N/A |
-| 10 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
-| 11 | [Santiago Giménez](http://twitter.com/search?q=Santiago+Gim%c3%a9nez) | N/A |
-| 12 | [Spreen](http://twitter.com/search?q=Spreen) | Spreen is a German word that means to scurry or hurry. It is often used to describe the quick movements of small animals, such as mice or squirrels. |
-| 13 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
-| 14 | [KARL](http://twitter.com/search?q=KARL) | N/A |
-| 15 | [Norma Piña](http://twitter.com/search?q=Norma+Pi%c3%b1a) | Norma Piña is a Mexican dish made with shredded beef, potatoes, and carrots cooked in a tomato-based sauce. The name of the dish comes from the Spanish words for "shredded beef" (carne deshebrada) and "pineapple" (piña). In English, Norma Piña translates to "Shredded Beef with Pineapple". |
-| 16 | [Irma Serrano](http://twitter.com/search?q=Irma+Serrano) | N/A |
-| 17 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 18 | [INAI](http://twitter.com/search?q=INAI) | N/A |
-| 19 | [La Tigresa](http://twitter.com/search?q=La+Tigresa) | N/A |
-| 20 | [jennie](http://twitter.com/search?q=jennie) | N/A |
-| 21 | [Missa](http://twitter.com/search?q=Missa) | N/A |
-| 22 | [Estados Unidos Mexicanos](http://twitter.com/search?q=Estados+Unidos+Mexicanos) | N/A |
-| 23 | [Raúl Jiménez](http://twitter.com/search?q=Ra%c3%bal+Jim%c3%a9nez) | N/A |
-| 24 | [Blink](http://twitter.com/search?q=Blink) | N/A |
-| 25 | [Omar Apollo](http://twitter.com/search?q=Omar+Apollo) | N/A |
-| 26 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 27 | [Banxico](http://twitter.com/search?q=Banxico) | N/A |
+| 1 | [Irma Serrano](http://twitter.com/search?q=Irma+Serrano) | N/A |
+| 2 | [La UNAM](http://twitter.com/search?q=La+UNAM) | N/A |
+| 3 | [Justin Bieber](http://twitter.com/search?q=Justin+Bieber) | N/A |
+| 4 | [#TWICE_BreakthroughAward](http://twitter.com/search?q=%23TWICE_BreakthroughAward) | N/A |
+| 5 | [#BBWomenInMusic](http://twitter.com/search?q=%23BBWomenInMusic) | N/A |
+| 6 | [#SUGA_AgustD_TOUR](http://twitter.com/search?q=%23SUGA_AgustD_TOUR) | N/A |
+| 7 | [Gigafactory](http://twitter.com/search?q=Gigafactory) | N/A |
+| 8 | [CANCELEMOS A GLORIA TREVI](http://twitter.com/search?q=CANCELEMOS+A+GLORIA+TREVI) | N/A |
+| 9 | [#MarcoReyPicks](http://twitter.com/search?q=%23MarcoReyPicks) | N/A |
+| 10 | [tina](http://twitter.com/search?q=tina) | N/A |
+| 11 | [#TatatiuEnConvoy](http://twitter.com/search?q=%23TatatiuEnConvoy) | N/A |
+| 12 | [Komanche](http://twitter.com/search?q=Komanche) | N/A |
+| 13 | [all of the girls](http://twitter.com/search?q=all+of+the+girls) | N/A |
+| 14 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
+| 15 | [Spreen](http://twitter.com/search?q=Spreen) | Spreen is a German word that means to scurry or hurry. It is often used to describe the quick movements of small animals, such as mice or squirrels. |
+| 16 | [Petro](http://twitter.com/search?q=Petro) | N/A |
+| 17 | [Piña](http://twitter.com/search?q=Pi%c3%b1a) | N/A |
+| 18 | [Santiago Giménez](http://twitter.com/search?q=Santiago+Gim%c3%a9nez) | N/A |
+| 19 | [KARL](http://twitter.com/search?q=KARL) | N/A |
+| 20 | [INAI](http://twitter.com/search?q=INAI) | N/A |
+| 21 | [Estados Unidos Mexicanos](http://twitter.com/search?q=Estados+Unidos+Mexicanos) | N/A |
+| 22 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
+| 23 | [jennie](http://twitter.com/search?q=jennie) | N/A |
+| 24 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 25 | [Blink](http://twitter.com/search?q=Blink) | N/A |
+| 26 | [Missa](http://twitter.com/search?q=Missa) | N/A |
+| 27 | [Marzo con M](http://twitter.com/search?q=Marzo+con+M) | N/A |
 | 28 | [San José](http://twitter.com/search?q=San+Jos%c3%a9) | N/A |
-| 29 | [sam levinson](http://twitter.com/search?q=sam+levinson) | N/A |
+| 29 | [Banxico](http://twitter.com/search?q=Banxico) | N/A |
 | 30 | [billie](http://twitter.com/search?q=billie) | N/A |
-| 31 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
-| 32 | [Marzo con M](http://twitter.com/search?q=Marzo+con+M) | N/A |
-| 33 | [Banco de México](http://twitter.com/search?q=Banco+de+M%c3%a9xico) | N/A |
+| 31 | [Omar Apollo](http://twitter.com/search?q=Omar+Apollo) | N/A |
+| 32 | [Banco de México](http://twitter.com/search?q=Banco+de+M%c3%a9xico) | N/A |
+| 33 | [Meica](http://twitter.com/search?q=Meica) | N/A |
 | 34 | [twenty one pilots](http://twitter.com/search?q=twenty+one+pilots) | N/A |
 | 35 | [Copa](http://twitter.com/search?q=Copa) | N/A |
-| 36 | [Roberto](http://twitter.com/search?q=Roberto) | N/A |
-| 37 | [Travis](http://twitter.com/search?q=Travis) | N/A |
-| 38 | [Mario Delgado](http://twitter.com/search?q=Mario+Delgado) | N/A |
-| 39 | [HYBE PROTECT RM](http://twitter.com/search?q=HYBE+PROTECT+RM) | N/A |
-| 40 | [Pink Floyd](http://twitter.com/search?q=Pink+Floyd) | Pink Floyd is an English rock band formed in London in 1965. The band achieved international success with their progressive and psychedelic music. The band's classic lineup consisted of Syd Barrett, Nick Mason, Roger Waters, Richard Wright and David Gilmour. The name "Pink Floyd" is derived from the names of two blues musicians, Pink Anderson and Floyd Council. |
+| 36 | [Tigresa](http://twitter.com/search?q=Tigresa) | N/A |
+| 37 | [Roberto](http://twitter.com/search?q=Roberto) | N/A |
+| 38 | [The Dark Side of the Moon](http://twitter.com/search?q=The+Dark+Side+of+the+Moon) | N/A |
+| 39 | [Travis](http://twitter.com/search?q=Travis) | N/A |
+| 40 | [Mario Delgado](http://twitter.com/search?q=Mario+Delgado) | N/A |
 | 41 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
-| 42 | [Zoro](http://twitter.com/search?q=Zoro) | N/A |
+| 42 | [HYBE PROTECT RM](http://twitter.com/search?q=HYBE+PROTECT+RM) | N/A |
 | 43 | [Día Internacional de la Mujer](http://twitter.com/search?q=D%c3%ada+Internacional+de+la+Mujer) | N/A |
-| 44 | [Poncho de Nigris](http://twitter.com/search?q=Poncho+de+Nigris) | N/A |
-| 45 | [Vicky](http://twitter.com/search?q=Vicky) | Vicky is a nickname for the name Victoria, which is of Latin origin and means "victory". |
-| 46 | [The Dark Side of the Moon](http://twitter.com/search?q=The+Dark+Side+of+the+Moon) | N/A |
+| 44 | [Zoro](http://twitter.com/search?q=Zoro) | N/A |
+| 45 | [Poncho de Nigris](http://twitter.com/search?q=Poncho+de+Nigris) | N/A |
+| 46 | [Vicky](http://twitter.com/search?q=Vicky) | Vicky is a nickname for the name Victoria, which is of Latin origin and means "victory". |
 | 47 | [Díaz Ordaz](http://twitter.com/search?q=D%c3%adaz+Ordaz) | N/A |
-| 48 | [BIGHIT PROTECT RM](http://twitter.com/search?q=BIGHIT+PROTECT+RM) | N/A |
-| 49 | [Grogu](http://twitter.com/search?q=Grogu) | N/A |
-| 50 | [Simon](http://twitter.com/search?q=Simon) | N/A |
+| 48 | [Pink Floyd](http://twitter.com/search?q=Pink+Floyd) | Pink Floyd is an English rock band formed in London in 1965. The band achieved international success with their progressive and psychedelic music. The band's classic lineup consisted of Syd Barrett, Nick Mason, Roger Waters, Richard Wright and David Gilmour. The name "Pink Floyd" is derived from the names of two blues musicians, Pink Anderson and Floyd Council. |
+| 49 | [BIGHIT PROTECT RM](http://twitter.com/search?q=BIGHIT+PROTECT+RM) | N/A |
+| 50 | [Grogu](http://twitter.com/search?q=Grogu) | N/A |
 
 
 

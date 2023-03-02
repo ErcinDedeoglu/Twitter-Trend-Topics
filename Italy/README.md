@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Italy
 
-📆 Last Updated: `2023-03-02 00:30:46 UTC`
+📆 Last Updated: `2023-03-02 01:45:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,56 @@ This is top 50 for Italy
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MareFuori3](http://twitter.com/search?q=%23MareFuori3) | N/A |
-| 2 | [#chilhavisto](http://twitter.com/search?q=%23chilhavisto) | #Chilhavisto is a Spanish hashtag that translates to "Have you seen it?" It is used to ask if someone has seen something, such as a movie, TV show, or video. |
+| 1 | [#chilhavisto](http://twitter.com/search?q=%23chilhavisto) | #Chilhavisto is a Spanish hashtag that translates to "Have you seen it?" It is used to ask if someone has seen something, such as a movie, TV show, or video. |
+| 2 | [#MareFuori3](http://twitter.com/search?q=%23MareFuori3) | N/A |
 | 3 | [#BohemianRhapsody](http://twitter.com/search?q=%23BohemianRhapsody) | N/A |
-| 4 | [#StaseraCeCattelan](http://twitter.com/search?q=%23StaseraCeCattelan) | N/A |
-| 5 | [#NameThatTune](http://twitter.com/search?q=%23NameThatTune) | N/A |
-| 6 | [Viola](http://twitter.com/search?q=Viola) | N/A |
-| 7 | [Carmine](http://twitter.com/search?q=Carmine) | N/A |
-| 8 | [Marcus](http://twitter.com/search?q=Marcus) | N/A |
-| 9 | [Liliana](http://twitter.com/search?q=Liliana) | N/A |
-| 10 | [Speranza](http://twitter.com/search?q=Speranza) | N/A |
-| 11 | [Sebastiano](http://twitter.com/search?q=Sebastiano) | N/A |
-| 12 | [Fontana](http://twitter.com/search?q=Fontana) | N/A |
-| 13 | [Futura](http://twitter.com/search?q=Futura) | N/A |
-| 14 | [Bergamo](http://twitter.com/search?q=Bergamo) | N/A |
-| 15 | [Ermal](http://twitter.com/search?q=Ermal) | N/A |
-| 16 | [Gaetano](http://twitter.com/search?q=Gaetano) | N/A |
-| 17 | [Freddie Mercury](http://twitter.com/search?q=Freddie+Mercury) | N/A |
-| 18 | [Rozzano](http://twitter.com/search?q=Rozzano) | N/A |
-| 19 | [Cardio](http://twitter.com/search?q=Cardio) | N/A |
-| 20 | [Feltri](http://twitter.com/search?q=Feltri) | N/A |
-| 21 | [Filippo](http://twitter.com/search?q=Filippo) | N/A |
-| 22 | [sofia](http://twitter.com/search?q=sofia) | N/A |
-| 23 | [Jessica](http://twitter.com/search?q=Jessica) | N/A |
-| 24 | [Trieste](http://twitter.com/search?q=Trieste) | N/A |
-| 25 | [Claudio](http://twitter.com/search?q=Claudio) | N/A |
-| 26 | [Giove](http://twitter.com/search?q=Giove) | N/A |
-| 27 | [Guardia Costiera](http://twitter.com/search?q=Guardia+Costiera) | N/A |
-| 28 | [Procura](http://twitter.com/search?q=Procura) | N/A |
-| 29 | [Gerry](http://twitter.com/search?q=Gerry) | N/A |
-| 30 | [#MichelleImpossible](http://twitter.com/search?q=%23MichelleImpossible) | N/A |
-| 31 | [#chilhavisters](http://twitter.com/search?q=%23chilhavisters) | N/A |
-| 32 | [#ilunatici](http://twitter.com/search?q=%23ilunatici) | N/A |
-| 33 | [#controcorrente](http://twitter.com/search?q=%23controcorrente) | N/A |
-| 34 | [#lineanotte](http://twitter.com/search?q=%23lineanotte) | N/A |
-| 35 | [#Atlantide](http://twitter.com/search?q=%23Atlantide) | N/A |
-| 36 | [#LetItBe](http://twitter.com/search?q=%23LetItBe) | N/A |
-| 37 | [#Queen](http://twitter.com/search?q=%23Queen) | N/A |
-| 38 | [#YalıÇapkını](http://twitter.com/search?q=%23Yal%c4%b1%c3%87apk%c4%b1n%c4%b1) | Yalıçapkını is a Turkish phrase that literally translates to "house-boat captain". It is used to refer to someone who is a leader or a person in charge. |
-| 39 | [#CagliariGenoa](http://twitter.com/search?q=%23CagliariGenoa) | N/A |
-| 40 | [#SeyFer](http://twitter.com/search?q=%23SeyFer) | #SeyFer is a hashtag used on social media to promote the Seychelles, an archipelago of 115 islands in the Indian Ocean. The hashtag is used to share photos and stories about the country's beautiful beaches, lush landscapes, and unique culture. In English, #SeyFer stands for "Seychelles Forever". |
-| 41 | [#COVID19](http://twitter.com/search?q=%23COVID19) | N/A |
-| 42 | [#upas](http://twitter.com/search?q=%23upas) | N/A |
-| 43 | [#SerieBKT](http://twitter.com/search?q=%23SerieBKT) | N/A |
-| 44 | [#ottoemezzo](http://twitter.com/search?q=%23ottoemezzo) | N/A |
-| 45 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 46 | [#damellis](http://twitter.com/search?q=%23damellis) | N/A |
-| 47 | [#LucioDalla](http://twitter.com/search?q=%23LucioDalla) | N/A |
-| 48 | [#TheDarkSideOfTheMoon](http://twitter.com/search?q=%23TheDarkSideOfTheMoon) | N/A |
+| 4 | [Martina](http://twitter.com/search?q=Martina) | Martina is a female given name of Latin origin, derived from the name Martinus, which means "of Mars". It is a popular name in many countries, including Italy, Spain, Germany, Austria, and the Czech Republic. In English-speaking countries, it is often used as a short form of the longer name Martina. |
+| 5 | [#oriele](http://twitter.com/search?q=%23oriele) | N/A |
+| 6 | [#1Marzo](http://twitter.com/search?q=%231Marzo) | N/A |
+| 7 | [Grecia](http://twitter.com/search?q=Grecia) | N/A |
+| 8 | [Assago](http://twitter.com/search?q=Assago) | N/A |
+| 9 | [Crotone](http://twitter.com/search?q=Crotone) | N/A |
+| 10 | [Viola](http://twitter.com/search?q=Viola) | N/A |
+| 11 | [Guardia Costiera](http://twitter.com/search?q=Guardia+Costiera) | N/A |
+| 12 | [Speranza](http://twitter.com/search?q=Speranza) | N/A |
+| 13 | [Serra](http://twitter.com/search?q=Serra) | N/A |
+| 14 | [Fontana](http://twitter.com/search?q=Fontana) | N/A |
+| 15 | [Carmine](http://twitter.com/search?q=Carmine) | N/A |
+| 16 | [Schlein](http://twitter.com/search?q=Schlein) | N/A |
+| 17 | [Frontex](http://twitter.com/search?q=Frontex) | N/A |
+| 18 | [Paola](http://twitter.com/search?q=Paola) | Paola is a female given name of Italian origin. It is derived from the Latin name Paulus, which means "small" or "humble". In English, Paola can be translated to mean "humble one". |
+| 19 | [Freddie](http://twitter.com/search?q=Freddie) | N/A |
+| 20 | [Futura](http://twitter.com/search?q=Futura) | N/A |
+| 21 | [Salvini](http://twitter.com/search?q=Salvini) | N/A |
+| 22 | [Venere](http://twitter.com/search?q=Venere) | N/A |
+| 23 | [Rozzano](http://twitter.com/search?q=Rozzano) | N/A |
+| 24 | [buongiorno eric](http://twitter.com/search?q=buongiorno+eric) | N/A |
+| 25 | [Sala](http://twitter.com/search?q=Sala) | N/A |
+| 26 | [Gianluca](http://twitter.com/search?q=Gianluca) | N/A |
+| 27 | [La Maura](http://twitter.com/search?q=La+Maura) | N/A |
+| 28 | [TELL US ABOUT YOURSELF](http://twitter.com/search?q=TELL+US+ABOUT+YOURSELF) | N/A |
+| 29 | [Baudelaire](http://twitter.com/search?q=Baudelaire) | N/A |
+| 30 | [Arcilesbica](http://twitter.com/search?q=Arcilesbica) | N/A |
+| 31 | [Domenico Cuomo](http://twitter.com/search?q=Domenico+Cuomo) | N/A |
+| 32 | [Micol](http://twitter.com/search?q=Micol) | Micol is a female given name of Italian origin. It is derived from the Hebrew name Michal, which means "who is like God?". |
+| 33 | [Queen](http://twitter.com/search?q=Queen) | N/A |
+| 34 | [Cardio](http://twitter.com/search?q=Cardio) | N/A |
+| 35 | [Serena de Ferrari](http://twitter.com/search?q=Serena+de+Ferrari) | N/A |
+| 36 | [margherita cassano](http://twitter.com/search?q=margherita+cassano) | N/A |
+| 37 | [Mancini](http://twitter.com/search?q=Mancini) | Mancini is an Italian surname derived from the Latin name "Mantius". It is a common surname in Italy and other parts of Europe. In English, it means "son of Mantius". |
+| 38 | [Marteena](http://twitter.com/search?q=Marteena) | N/A |
+| 39 | [DROP AN EMOJI](http://twitter.com/search?q=DROP+AN+EMOJI) | N/A |
+| 40 | [Liliana](http://twitter.com/search?q=Liliana) | N/A |
+| 41 | [I'LL SEND YOU THE QUESTIONS](http://twitter.com/search?q=I%27LL+SEND+YOU+THE+QUESTIONS) | N/A |
+| 42 | [Tavassi](http://twitter.com/search?q=Tavassi) | N/A |
+| 43 | [Davide](http://twitter.com/search?q=Davide) | N/A |
+| 44 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
+| 45 | [il 1](http://twitter.com/search?q=il+1) | N/A |
+| 46 | [Madame Bovary](http://twitter.com/search?q=Madame+Bovary) | N/A |
+| 47 | [Toscani](http://twitter.com/search?q=Toscani) | N/A |
+| 48 | [Ed Sheeran](http://twitter.com/search?q=Ed+Sheeran) | N/A |
+| 49 | [Brusaferro](http://twitter.com/search?q=Brusaferro) | N/A |
+| 50 | [Seba](http://twitter.com/search?q=Seba) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Salt Lake City
 
-📆 Last Updated: `2023-03-02 00:30:41 UTC`
+📆 Last Updated: `2023-03-02 01:45:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SUGA_AgustD_TOUR](http://twitter.com/search?q=%23SUGA_AgustD_TOUR) | N/A |
-| 2 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
-| 3 | [Chychrun](http://twitter.com/search?q=Chychrun) | N/A |
-| 4 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
-| 5 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
-| 6 | [#WomensHistoryMonth](http://twitter.com/search?q=%23WomensHistoryMonth) | N/A |
-| 7 | [Hronek](http://twitter.com/search?q=Hronek) | N/A |
-| 8 | [Alaska and Hawaii](http://twitter.com/search?q=Alaska+and+Hawaii) | N/A |
-| 9 | [sam levinson](http://twitter.com/search?q=sam+levinson) | N/A |
-| 10 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
-| 11 | [Ron Hextall](http://twitter.com/search?q=Ron+Hextall) | N/A |
-| 12 | [Ultra MAGA](http://twitter.com/search?q=Ultra+MAGA) | N/A |
-| 13 | [#TheMandalorianXboxSweepstakes](http://twitter.com/search?q=%23TheMandalorianXboxSweepstakes) | N/A |
-| 14 | [Brenda](http://twitter.com/search?q=Brenda) | N/A |
-| 15 | [$TSLA](http://twitter.com/search?q=%24TSLA) | $TSLA is the stock symbol for Tesla, Inc., an American electric vehicle and clean energy company. It is traded on the Nasdaq stock exchange. |
-| 16 | [Ottawa](http://twitter.com/search?q=Ottawa) | N/A |
-| 17 | [Kevin Durant](http://twitter.com/search?q=Kevin+Durant) | Kevin Durant is an American professional basketball player who currently plays for the Brooklyn Nets of the National Basketball Association (NBA). He is a ten-time NBA All-Star and two-time NBA Finals MVP. He has won four NBA scoring titles, the NBA Rookie of the Year Award, and an Olympic gold medal. |
-| 18 | [Blueger](http://twitter.com/search?q=Blueger) | N/A |
-| 19 | [Joe Budden](http://twitter.com/search?q=Joe+Budden) | N/A |
-| 20 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
-| 21 | [Cruz](http://twitter.com/search?q=Cruz) | N/A |
-| 22 | [IM SEEING YOONGI](http://twitter.com/search?q=IM+SEEING+YOONGI) | N/A |
-| 23 | [Caleb Grill](http://twitter.com/search?q=Caleb+Grill) | N/A |
-| 24 | [Pikamee](http://twitter.com/search?q=Pikamee) | N/A |
-| 25 | [Liam Robbins](http://twitter.com/search?q=Liam+Robbins) | N/A |
-| 26 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 27 | [Venus and Jupiter](http://twitter.com/search?q=Venus+and+Jupiter) | N/A |
-| 28 | [Cyclone](http://twitter.com/search?q=Cyclone) | N/A |
-| 29 | [I GOT TICKETS](http://twitter.com/search?q=I+GOT+TICKETS) | N/A |
-| 30 | [Sens](http://twitter.com/search?q=Sens) | N/A |
-| 31 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 32 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 33 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 34 | [Portillo](http://twitter.com/search?q=Portillo) | N/A |
-| 35 | [JT Miller](http://twitter.com/search?q=JT+Miller) | N/A |
-| 36 | [Rosemont](http://twitter.com/search?q=Rosemont) | N/A |
-| 37 | [NFLPA](http://twitter.com/search?q=NFLPA) | N/A |
-| 38 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 39 | [Dan Levy](http://twitter.com/search?q=Dan+Levy) | N/A |
-| 40 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
-| 41 | [FNAFTOOZ](http://twitter.com/search?q=FNAFTOOZ) | N/A |
-| 42 | [Chip Roy](http://twitter.com/search?q=Chip+Roy) | Chip Roy is the name of an American politician who currently serves as the U.S. Representative for Texas's 21st congressional district. He is a member of the Republican Party. |
-| 43 | [Mamu](http://twitter.com/search?q=Mamu) | N/A |
-| 44 | [Coyotes](http://twitter.com/search?q=Coyotes) | N/A |
-| 45 | [The Idol](http://twitter.com/search?q=The+Idol) | N/A |
-| 46 | [MIN YOONGI](http://twitter.com/search?q=MIN+YOONGI) | MIN YOONGI is the stage name of South Korean rapper, songwriter, and record producer Suga. In English, it translates to "Suga" or "Suga of Min". |
-| 47 | [Burbank](http://twitter.com/search?q=Burbank) | N/A |
-| 48 | [Newark](http://twitter.com/search?q=Newark) | N/A |
-| 49 | [Kevyn Adams](http://twitter.com/search?q=Kevyn+Adams) | N/A |
+| 1 | [Mike Lee](http://twitter.com/search?q=Mike+Lee) | N/A |
+| 2 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 3 | [#Survivor44](http://twitter.com/search?q=%23Survivor44) | N/A |
+| 4 | [#MAFS](http://twitter.com/search?q=%23MAFS) | N/A |
+| 5 | [#TheMaskedSinger](http://twitter.com/search?q=%23TheMaskedSinger) | N/A |
+| 6 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
+| 7 | [Hobbs](http://twitter.com/search?q=Hobbs) | N/A |
+| 8 | [Big Bill](http://twitter.com/search?q=Big+Bill) | Big Bill is a slang term used to refer to someone who is very successful or influential. It can also be used to describe someone who is very wealthy or powerful. |
+| 9 | [Hextall](http://twitter.com/search?q=Hextall) | N/A |
+| 10 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
+| 11 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
+| 12 | [Granlund](http://twitter.com/search?q=Granlund) | N/A |
+| 13 | [Orange Cassidy](http://twitter.com/search?q=Orange+Cassidy) | Orange Cassidy is the stage name of American professional wrestler Jonathan Gresham. The name is a reference to the character of Orange Cassidy from the television show It's Always Sunny in Philadelphia. The phrase "Orange Cassidy" has come to mean someone who is laid back and relaxed, often in a humorous way. |
+| 14 | [Pentatonix](http://twitter.com/search?q=Pentatonix) | Pentatonix is an American a cappella group from Arlington, Texas, consisting of vocalists Scott Hoying, Mitch Grassi, Kirstin Maldonado, Kevin Olusola and Matt Sallee. The group's name is derived from the pentatonic scale, a musical scale or mode with five notes per octave. |
+| 15 | [Jupiter and Venus](http://twitter.com/search?q=Jupiter+and+Venus) | N/A |
+| 16 | [House of Black](http://twitter.com/search?q=House+of+Black) | N/A |
+| 17 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 18 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
+| 19 | [Jon Moxley](http://twitter.com/search?q=Jon+Moxley) | N/A |
+| 20 | [Komander](http://twitter.com/search?q=Komander) | N/A |
+| 21 | [Airris](http://twitter.com/search?q=Airris) | N/A |
+| 22 | [Carolyn](http://twitter.com/search?q=Carolyn) | N/A |
+| 23 | [Chychrun](http://twitter.com/search?q=Chychrun) | N/A |
+| 24 | [5M BUILD](http://twitter.com/search?q=5M+BUILD) | N/A |
+| 25 | [Blueger](http://twitter.com/search?q=Blueger) | N/A |
+| 26 | [Vandy](http://twitter.com/search?q=Vandy) | Vandy is a nickname for Vanderbilt University, a private research university located in Nashville, Tennessee. The name is derived from the university's namesake, Cornelius Vanderbilt. |
+| 27 | [HOORAY FOR 2](http://twitter.com/search?q=HOORAY+FOR+2) | N/A |
+| 28 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
+| 29 | [Yam Yam](http://twitter.com/search?q=Yam+Yam) | N/A |
+| 30 | [Oakland](http://twitter.com/search?q=Oakland) | Oakland is a city in the U.S. state of California, located on the eastern side of San Francisco Bay. It is the largest city and the county seat of Alameda County. Oakland is known for its diverse culture, vibrant art scene, and numerous professional sports teams, including the Oakland Athletics baseball team and the Golden State Warriors basketball team. |
+| 31 | [Brenda](http://twitter.com/search?q=Brenda) | N/A |
+| 32 | [DePaul](http://twitter.com/search?q=DePaul) | DePaul is a private, Catholic university located in Chicago, Illinois. The name DePaul is derived from the French priest and saint, St. Vincent de Paul. The university was founded in 1898 by the Congregation of the Mission (Vincentians) and named after their patron saint. |
+| 33 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
+| 34 | [Kevin Durant](http://twitter.com/search?q=Kevin+Durant) | Kevin Durant is an American professional basketball player who currently plays for the Brooklyn Nets of the National Basketball Association (NBA). He is a ten-time NBA All-Star and two-time NBA Finals MVP. He has won four NBA scoring titles, the NBA Rookie of the Year Award, and an Olympic gold medal. |
+| 35 | [Ultra MAGA](http://twitter.com/search?q=Ultra+MAGA) | N/A |
+| 36 | [Flyers](http://twitter.com/search?q=Flyers) | Flyers are a type of printed advertisement used to promote products, services, or events. They are typically distributed in public places such as streets, parks, and shopping centers. Flyers can also be sent through the mail or handed out at events. The purpose of a flyer is to attract attention and encourage people to take action. |
+| 37 | [Pastor Cal](http://twitter.com/search?q=Pastor+Cal) | N/A |
+| 38 | [Paul Reed](http://twitter.com/search?q=Paul+Reed) | N/A |
+| 39 | [Providence](http://twitter.com/search?q=Providence) | Providence is a term used to refer to the protective care and guidance of a higher power, such as God. It is often used to describe the feeling of being watched over and protected by a higher power. In English, it can also be used to refer to something that happens by chance or luck, as if it were part of a larger plan. |
+| 40 | [Cason Wallace](http://twitter.com/search?q=Cason+Wallace) | N/A |
+| 41 | [Sam Hauser](http://twitter.com/search?q=Sam+Hauser) | N/A |
+| 42 | [Rupp](http://twitter.com/search?q=Rupp) | Rupp is an acronym for the phrase "Recognize, Understand, Prepare, and Perform". It is a strategy used to help people achieve their goals by breaking them down into smaller steps. The idea is to recognize the goal, understand what it will take to reach it, prepare for the journey ahead, and then perform the necessary actions to make it happen. |
+| 43 | [The Elite](http://twitter.com/search?q=The+Elite) | The Elite is a term used to refer to a group of people who are considered to be the most powerful, influential, or successful in a particular field or society. It can also refer to those who have achieved the highest level of social or economic status. |
+| 44 | [JT Miller](http://twitter.com/search?q=JT+Miller) | N/A |
+| 45 | [Joe Budden](http://twitter.com/search?q=Joe+Budden) | N/A |
+| 46 | [Hronek](http://twitter.com/search?q=Hronek) | N/A |
+| 47 | [Grandmaster Flash](http://twitter.com/search?q=Grandmaster+Flash) | N/A |
+| 48 | [Samoa Joe](http://twitter.com/search?q=Samoa+Joe) | Samoa Joe is a professional wrestler who is currently signed to WWE. His real name is Nuufolau Joel Seanoa and he is known for his hard-hitting style and high-impact moves. The name Samoa Joe comes from his Samoan heritage, as well as the fact that he was born in California, which is sometimes referred to as the "Island of Samoa". |
+| 49 | [Face of the Revolution](http://twitter.com/search?q=Face+of+the+Revolution) | N/A |
 
 
 

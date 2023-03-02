@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sacramento
 
-📆 Last Updated: `2023-03-02 00:30:40 UTC`
+📆 Last Updated: `2023-03-02 01:45:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [ITS SNOWING](http://twitter.com/search?q=ITS+SNOWING) | N/A |
+| 1 | [IM SEEING YOONGI](http://twitter.com/search?q=IM+SEEING+YOONGI) | N/A |
 | 2 | [Temecula](http://twitter.com/search?q=Temecula) | N/A |
-| 3 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 4 | [Riverside](http://twitter.com/search?q=Riverside) | N/A |
-| 5 | [Anaheim](http://twitter.com/search?q=Anaheim) | N/A |
-| 6 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
-| 7 | [Whittier](http://twitter.com/search?q=Whittier) | N/A |
-| 8 | [Fullerton](http://twitter.com/search?q=Fullerton) | N/A |
-| 9 | [Corona](http://twitter.com/search?q=Corona) | N/A |
-| 10 | [Orange County](http://twitter.com/search?q=Orange+County) | N/A |
-| 11 | [Glendale](http://twitter.com/search?q=Glendale) | N/A |
-| 12 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
-| 13 | [Euphoria](http://twitter.com/search?q=Euphoria) | N/A |
-| 14 | [tina](http://twitter.com/search?q=tina) | N/A |
-| 15 | [#MurdaughTrial](http://twitter.com/search?q=%23MurdaughTrial) | N/A |
-| 16 | [KARL](http://twitter.com/search?q=KARL) | N/A |
-| 17 | [March Madness](http://twitter.com/search?q=March+Madness) | N/A |
-| 18 | [Olympics](http://twitter.com/search?q=Olympics) | N/A |
-| 19 | [Mayor](http://twitter.com/search?q=Mayor) | N/A |
-| 20 | [#SUGA_AgustD_TOUR](http://twitter.com/search?q=%23SUGA_AgustD_TOUR) | N/A |
-| 21 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
-| 22 | [Chychrun](http://twitter.com/search?q=Chychrun) | N/A |
-| 23 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
-| 24 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
-| 25 | [#WomensHistoryMonth](http://twitter.com/search?q=%23WomensHistoryMonth) | N/A |
-| 26 | [Hronek](http://twitter.com/search?q=Hronek) | N/A |
-| 27 | [Alaska and Hawaii](http://twitter.com/search?q=Alaska+and+Hawaii) | N/A |
-| 28 | [sam levinson](http://twitter.com/search?q=sam+levinson) | N/A |
-| 29 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
-| 30 | [Ron Hextall](http://twitter.com/search?q=Ron+Hextall) | N/A |
-| 31 | [Ultra MAGA](http://twitter.com/search?q=Ultra+MAGA) | N/A |
-| 32 | [#TheMandalorianXboxSweepstakes](http://twitter.com/search?q=%23TheMandalorianXboxSweepstakes) | N/A |
-| 33 | [Brenda](http://twitter.com/search?q=Brenda) | N/A |
-| 34 | [$TSLA](http://twitter.com/search?q=%24TSLA) | $TSLA is the stock symbol for Tesla, Inc., an American electric vehicle and clean energy company. It is traded on the Nasdaq stock exchange. |
-| 35 | [Ottawa](http://twitter.com/search?q=Ottawa) | N/A |
-| 36 | [Kevin Durant](http://twitter.com/search?q=Kevin+Durant) | Kevin Durant is an American professional basketball player who currently plays for the Brooklyn Nets of the National Basketball Association (NBA). He is a ten-time NBA All-Star and two-time NBA Finals MVP. He has won four NBA scoring titles, the NBA Rookie of the Year Award, and an Olympic gold medal. |
-| 37 | [Cruz](http://twitter.com/search?q=Cruz) | N/A |
-| 38 | [Joe Budden](http://twitter.com/search?q=Joe+Budden) | N/A |
-| 39 | [IM SEEING YOONGI](http://twitter.com/search?q=IM+SEEING+YOONGI) | N/A |
-| 40 | [Caleb Grill](http://twitter.com/search?q=Caleb+Grill) | N/A |
-| 41 | [Pikamee](http://twitter.com/search?q=Pikamee) | N/A |
-| 42 | [Blueger](http://twitter.com/search?q=Blueger) | N/A |
-| 43 | [Liam Robbins](http://twitter.com/search?q=Liam+Robbins) | N/A |
-| 44 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 45 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 46 | [I GOT TICKETS](http://twitter.com/search?q=I+GOT+TICKETS) | N/A |
-| 47 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 48 | [Sens](http://twitter.com/search?q=Sens) | N/A |
+| 3 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
+| 4 | [Burbank](http://twitter.com/search?q=Burbank) | N/A |
+| 5 | [ITS SNOWING](http://twitter.com/search?q=ITS+SNOWING) | N/A |
+| 6 | [Riverside](http://twitter.com/search?q=Riverside) | N/A |
+| 7 | [taeyong](http://twitter.com/search?q=taeyong) | Taeyong is a Korean given name, derived from the Chinese characters 太 (tài) meaning "great" and 永 (yǒng) meaning "eternal". In English, it can be translated to mean "great eternity". |
+| 8 | [Anaheim](http://twitter.com/search?q=Anaheim) | N/A |
+| 9 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
+| 10 | [The Idol](http://twitter.com/search?q=The+Idol) | N/A |
+| 11 | [Hail](http://twitter.com/search?q=Hail) | N/A |
+| 12 | [Orange County](http://twitter.com/search?q=Orange+County) | N/A |
+| 13 | [Whittier](http://twitter.com/search?q=Whittier) | N/A |
+| 14 | [Rolling Stone](http://twitter.com/search?q=Rolling+Stone) | N/A |
+| 15 | [Eli Lilly](http://twitter.com/search?q=Eli+Lilly) | N/A |
+| 16 | [Glendale](http://twitter.com/search?q=Glendale) | N/A |
+| 17 | [Army](http://twitter.com/search?q=Army) | N/A |
+| 18 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
+| 19 | [Pikamee](http://twitter.com/search?q=Pikamee) | N/A |
+| 20 | [Euphoria](http://twitter.com/search?q=Euphoria) | N/A |
+| 21 | [Meghan](http://twitter.com/search?q=Meghan) | N/A |
+| 22 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 23 | [#Survivor44](http://twitter.com/search?q=%23Survivor44) | N/A |
+| 24 | [#MAFS](http://twitter.com/search?q=%23MAFS) | N/A |
+| 25 | [#TheMaskedSinger](http://twitter.com/search?q=%23TheMaskedSinger) | N/A |
+| 26 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
+| 27 | [Big Bill](http://twitter.com/search?q=Big+Bill) | Big Bill is a slang term used to refer to someone who is very successful or influential. It can also be used to describe someone who is very wealthy or powerful. |
+| 28 | [#MarriedAtFirstSight](http://twitter.com/search?q=%23MarriedAtFirstSight) | #MarriedAtFirstSight is a reality television show in which two strangers are matched by experts and then meet for the first time at their wedding. The couples then go on to live together and decide whether or not to stay married after several weeks. |
+| 29 | [Hextall](http://twitter.com/search?q=Hextall) | N/A |
+| 30 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
+| 31 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
+| 32 | [Granlund](http://twitter.com/search?q=Granlund) | N/A |
+| 33 | [Orange Cassidy](http://twitter.com/search?q=Orange+Cassidy) | Orange Cassidy is the stage name of American professional wrestler Jonathan Gresham. The name is a reference to the character of Orange Cassidy from the television show It's Always Sunny in Philadelphia. The phrase "Orange Cassidy" has come to mean someone who is laid back and relaxed, often in a humorous way. |
+| 34 | [Jupiter and Venus](http://twitter.com/search?q=Jupiter+and+Venus) | N/A |
+| 35 | [Pentatonix](http://twitter.com/search?q=Pentatonix) | Pentatonix is an American a cappella group from Arlington, Texas, consisting of vocalists Scott Hoying, Mitch Grassi, Kirstin Maldonado, Kevin Olusola and Matt Sallee. The group's name is derived from the pentatonic scale, a musical scale or mode with five notes per octave. |
+| 36 | [House of Black](http://twitter.com/search?q=House+of+Black) | N/A |
+| 37 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 38 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
+| 39 | [Airris](http://twitter.com/search?q=Airris) | N/A |
+| 40 | [Jon Moxley](http://twitter.com/search?q=Jon+Moxley) | N/A |
+| 41 | [Komander](http://twitter.com/search?q=Komander) | N/A |
+| 42 | [Chychrun](http://twitter.com/search?q=Chychrun) | N/A |
+| 43 | [Carolyn](http://twitter.com/search?q=Carolyn) | N/A |
+| 44 | [5M BUILD](http://twitter.com/search?q=5M+BUILD) | N/A |
+| 45 | [Blueger](http://twitter.com/search?q=Blueger) | N/A |
+| 46 | [HOORAY FOR 2](http://twitter.com/search?q=HOORAY+FOR+2) | N/A |
+| 47 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
+| 48 | [Oakland](http://twitter.com/search?q=Oakland) | Oakland is a city in the U.S. state of California, located on the eastern side of San Francisco Bay. It is the largest city and the county seat of Alameda County. Oakland is known for its diverse culture, vibrant art scene, and numerous professional sports teams, including the Oakland Athletics baseball team and the Golden State Warriors basketball team. |
 
 
 

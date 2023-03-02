@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lebanon
 
-📆 Last Updated: `2023-03-02 00:30:47 UTC`
+📆 Last Updated: `2023-03-02 01:46:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,10 +23,10 @@ This is top 50 for Lebanon
 | 6 | [عباس ابراهيم](http://twitter.com/search?q=%d8%b9%d8%a8%d8%a7%d8%b3+%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85) | N/A |
 | 7 | [الاحوال الشخصيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ad%d9%88%d8%a7%d9%84+%d8%a7%d9%84%d8%b4%d8%ae%d8%b5%d9%8a%d9%87) | N/A |
 | 8 | [السوق السودا](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%88%d9%82+%d8%a7%d9%84%d8%b3%d9%88%d8%af%d8%a7) | N/A |
-| 9 | [القطاع العام](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b7%d8%a7%d8%b9+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
-| 10 | [موسي الشامي](http://twitter.com/search?q=%d9%85%d9%88%d8%b3%d9%8a+%d8%a7%d9%84%d8%b4%d8%a7%d9%85%d9%8a) | N/A |
-| 11 | [اليوم العالمي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
-| 12 | [مصرف لبنان](http://twitter.com/search?q=%d9%85%d8%b5%d8%b1%d9%81+%d9%84%d8%a8%d9%86%d8%a7%d9%86) | N/A |
+| 9 | [موسي الشامي](http://twitter.com/search?q=%d9%85%d9%88%d8%b3%d9%8a+%d8%a7%d9%84%d8%b4%d8%a7%d9%85%d9%8a) | N/A |
+| 10 | [اليوم العالمي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
+| 11 | [مصرف لبنان](http://twitter.com/search?q=%d9%85%d8%b5%d8%b1%d9%81+%d9%84%d8%a8%d9%86%d8%a7%d9%86) | N/A |
+| 12 | [القطاع العام](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b7%d8%a7%d8%b9+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
 | 13 | [وزير الماليه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a%d9%87) | N/A |
 | 14 | [العمل السياسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%85%d9%84+%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b3%d9%8a) | N/A |
 | 15 | [التوقيت الصيفي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%88%d9%82%d9%8a%d8%aa+%d8%a7%d9%84%d8%b5%d9%8a%d9%81%d9%8a) | N/A |
@@ -43,9 +43,9 @@ This is top 50 for Lebanon
 | 26 | [المواد الغذاييه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%a7%d8%af+%d8%a7%d9%84%d8%ba%d8%b0%d8%a7%d9%8a%d9%8a%d9%87) | N/A |
 | 27 | [العام الدراسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%a7%d9%85+%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%8a) | N/A |
 | 28 | [جبل محسن](http://twitter.com/search?q=%d8%ac%d8%a8%d9%84+%d9%85%d8%ad%d8%b3%d9%86) | N/A |
-| 29 | [الامن العام](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%86+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
-| 30 | [الرييس السابق](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%b3%d8%a7%d8%a8%d9%82) | N/A |
-| 31 | [حسن عليق](http://twitter.com/search?q=%d8%ad%d8%b3%d9%86+%d8%b9%d9%84%d9%8a%d9%82) | N/A |
+| 29 | [حسن عليق](http://twitter.com/search?q=%d8%ad%d8%b3%d9%86+%d8%b9%d9%84%d9%8a%d9%82) | N/A |
+| 30 | [الامن العام](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%86+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
+| 31 | [الرييس السابق](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%b3%d8%a7%d8%a8%d9%82) | N/A |
 | 32 | [جبل لبنان](http://twitter.com/search?q=%d8%ac%d8%a8%d9%84+%d9%84%d8%a8%d9%86%d8%a7%d9%86) | N/A |
 | 33 | [مروان حماده](http://twitter.com/search?q=%d9%85%d8%b1%d9%88%d8%a7%d9%86+%d8%ad%d9%85%d8%a7%d8%af%d9%87) | N/A |
 | 34 | [حسان دياب](http://twitter.com/search?q=%d8%ad%d8%b3%d8%a7%d9%86+%d8%af%d9%8a%d8%a7%d8%a8) | N/A |
@@ -56,10 +56,10 @@ This is top 50 for Lebanon
 | 39 | [تلفزيون لبنان](http://twitter.com/search?q=%d8%aa%d9%84%d9%81%d8%b2%d9%8a%d9%88%d9%86+%d9%84%d8%a8%d9%86%d8%a7%d9%86) | N/A |
 | 40 | [الأمم المتحدة](http://twitter.com/search?q=%d8%a7%d9%84%d8%a3%d9%85%d9%85+%d8%a7%d9%84%d9%85%d8%aa%d8%ad%d8%af%d8%a9) | N/A |
 | 41 | [الاسف الشديد](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d9%81+%d8%a7%d9%84%d8%b4%d8%af%d9%8a%d8%af) | N/A |
-| 42 | [الشعب اللبناني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d9%84%d8%a8%d9%86%d8%a7%d9%86%d9%8a) | N/A |
-| 43 | [الدوله العميقه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%87+%d8%a7%d9%84%d8%b9%d9%85%d9%8a%d9%82%d9%87) | N/A |
-| 44 | [لإسرائيل](http://twitter.com/search?q=%d9%84%d8%a5%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84) | N/A |
-| 45 | [الجرم المشهود](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%b1%d9%85+%d8%a7%d9%84%d9%85%d8%b4%d9%87%d9%88%d8%af) | N/A |
+| 42 | [الدوله العميقه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%87+%d8%a7%d9%84%d8%b9%d9%85%d9%8a%d9%82%d9%87) | N/A |
+| 43 | [لإسرائيل](http://twitter.com/search?q=%d9%84%d8%a5%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84) | N/A |
+| 44 | [الجرم المشهود](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%b1%d9%85+%d8%a7%d9%84%d9%85%d8%b4%d9%87%d9%88%d8%af) | N/A |
+| 45 | [الشعب اللبناني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d9%84%d8%a8%d9%86%d8%a7%d9%86%d9%8a) | N/A |
 | 46 | [العمر الطويل](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%85%d8%b1+%d8%a7%d9%84%d8%b7%d9%88%d9%8a%d9%84) | N/A |
 | 47 | [اللجان المشتركه](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d8%ac%d8%a7%d9%86+%d8%a7%d9%84%d9%85%d8%b4%d8%aa%d8%b1%d9%83%d9%87) | N/A |
 | 48 | [المدير العام](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%af%d9%8a%d8%b1+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
