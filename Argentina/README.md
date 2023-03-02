@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Argentina
 
-📆 Last Updated: `2023-03-02 14:18:30 UTC`
+📆 Last Updated: `2023-03-02 15:17:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,34 @@ This is top 50 for Argentina
 | 1 | [Rosario](http://twitter.com/search?q=Rosario) | N/A |
 | 2 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 3 | [#nadiedicenada](http://twitter.com/search?q=%23nadiedicenada) | N/A |
-| 4 | [#SinLuz](http://twitter.com/search?q=%23SinLuz) | N/A |
-| 5 | [Atucha](http://twitter.com/search?q=Atucha) | N/A |
-| 6 | [#SiempreBoca](http://twitter.com/search?q=%23SiempreBoca) | N/A |
-| 7 | [Javkin](http://twitter.com/search?q=Javkin) | N/A |
-| 8 | [Benedetto](http://twitter.com/search?q=Benedetto) | Benedetto is an Italian name meaning "blessed". It is derived from the Latin word "benedictus", which means "blessed". |
-| 9 | [Alberto](http://twitter.com/search?q=Alberto) | Alberto is a Spanish and Italian masculine given name, derived from the Germanic name Adalbert. In English, it is translated to mean "noble and bright". |
-| 10 | [Patronato](http://twitter.com/search?q=Patronato) | Patronato is a Spanish term that refers to a system of patronage or protection. It is often used to describe the relationship between a patron and a client, in which the patron provides financial or other support to the client in exchange for loyalty and service. In English, it can be translated as "patronage" or "protection". |
-| 11 | [Roccuzzo](http://twitter.com/search?q=Roccuzzo) | N/A |
-| 12 | [#elclubdelmoro](http://twitter.com/search?q=%23elclubdelmoro) | N/A |
-| 13 | [Lucila](http://twitter.com/search?q=Lucila) | Lucila is a Spanish female name derived from the Latin name Lucius, which means “light”. In English, Lucila can be translated to mean “bringer of light”. |
-| 14 | [#AperturaSesiones2023](http://twitter.com/search?q=%23AperturaSesiones2023) | N/A |
-| 15 | [Congreso](http://twitter.com/search?q=Congreso) | Congreso is the Spanish word for Congress. It is used to refer to a legislative body, such as the United States Congress or the Mexican Congress. In English, it is used to refer to any type of legislative assembly or gathering. |
-| 16 | [figal](http://twitter.com/search?q=figal) | N/A |
-| 17 | [Iglesias](http://twitter.com/search?q=Iglesias) | N/A |
-| 18 | [Duncan](http://twitter.com/search?q=Duncan) | N/A |
-| 19 | [twenty one pilots](http://twitter.com/search?q=twenty+one+pilots) | N/A |
-| 20 | [Narcos](http://twitter.com/search?q=Narcos) | N/A |
-| 21 | [Newells](http://twitter.com/search?q=Newells) | N/A |
-| 22 | [Romina al 9009](http://twitter.com/search?q=Romina+al+9009) | N/A |
-| 23 | [De Paul](http://twitter.com/search?q=De+Paul) | N/A |
-| 24 | [Boca Campeón](http://twitter.com/search?q=Boca+Campe%c3%b3n) | N/A |
-| 25 | [Asamblea Legislativa](http://twitter.com/search?q=Asamblea+Legislativa) | N/A |
-| 26 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |
-| 27 | [Gabigol](http://twitter.com/search?q=Gabigol) | Gabigol is a nickname given to Brazilian footballer Gabriel Barbosa, who currently plays for Flamengo. The nickname is a combination of his first name, Gabriel, and the Portuguese word for goal, gol. In English, the nickname translates to "Gabriel Goal". |
-| 28 | [Perotti](http://twitter.com/search?q=Perotti) | N/A |
-| 29 | [Santiago del Estero](http://twitter.com/search?q=Santiago+del+Estero) | N/A |
-| 30 | [Central](http://twitter.com/search?q=Central) | N/A |
-| 31 | [NACHO A LA FINAL](http://twitter.com/search?q=NACHO+A+LA+FINAL) | N/A |
-| 32 | [muchas gracias valen](http://twitter.com/search?q=muchas+gracias+valen) | N/A |
-| 33 | [Roncaglia](http://twitter.com/search?q=Roncaglia) | Roncaglia is a type of Italian folk dance that originated in the region of Emilia-Romagna. It is a lively, fast-paced dance that involves couples dancing in a circle and performing intricate steps and turns. The name Roncaglia comes from the Italian word for "round," as the dance is traditionally performed in a circular formation. In English, Roncaglia means "round dance." |
-| 34 | [all of the girls](http://twitter.com/search?q=all+of+the+girls) | N/A |
-| 35 | [Santa Fe](http://twitter.com/search?q=Santa+Fe) | N/A |
-| 36 | [OLLIE](http://twitter.com/search?q=OLLIE) | N/A |
-| 37 | [Villa](http://twitter.com/search?q=Villa) | Villa is a type of large, luxurious house or estate. It is usually located in a rural or semi-rural area and is often surrounded by gardens and grounds. The term comes from the Latin word villa, which means "country house." |
-| 38 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
-| 39 | [EXPLICA TU TWITTER](http://twitter.com/search?q=EXPLICA+TU+TWITTER) | N/A |
-| 40 | [Blink](http://twitter.com/search?q=Blink) | N/A |
-| 41 | [Ñuls](http://twitter.com/search?q=%c3%91uls) | N/A |
-| 42 | [Edenor](http://twitter.com/search?q=Edenor) | N/A |
-| 43 | [Tora](http://twitter.com/search?q=Tora) | Tora is a Japanese word meaning "tiger". It is often used as a nickname for someone who is strong and brave. |
-| 44 | [Rosarinos](http://twitter.com/search?q=Rosarinos) | N/A |
-| 45 | [Reino Unido](http://twitter.com/search?q=Reino+Unido) | N/A |
-| 46 | [Cruzando](http://twitter.com/search?q=Cruzando) | N/A |
-| 47 | [J COLE](http://twitter.com/search?q=J+COLE) | N/A |
-| 48 | [Salva a Julieta](http://twitter.com/search?q=Salva+a+Julieta) | N/A |
-| 49 | [AFIP](http://twitter.com/search?q=AFIP) | N/A |
-| 50 | [Sabotaje](http://twitter.com/search?q=Sabotaje) | N/A |
+| 4 | [Javkin](http://twitter.com/search?q=Javkin) | N/A |
+| 5 | [Roccuzzo](http://twitter.com/search?q=Roccuzzo) | N/A |
+| 6 | [Aníbal Fernández](http://twitter.com/search?q=An%c3%adbal+Fern%c3%a1ndez) | N/A |
+| 7 | [MATTHEW](http://twitter.com/search?q=MATTHEW) | N/A |
+| 8 | [Narcos](http://twitter.com/search?q=Narcos) | N/A |
+| 9 | [Duncan](http://twitter.com/search?q=Duncan) | N/A |
+| 10 | [#BuenJueves](http://twitter.com/search?q=%23BuenJueves) | N/A |
+| 11 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 12 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
+| 13 | [#MacriMufa](http://twitter.com/search?q=%23MacriMufa) | N/A |
+| 14 | [#ALaBarbarossa](http://twitter.com/search?q=%23ALaBarbarossa) | N/A |
+| 15 | [Los Monos](http://twitter.com/search?q=Los+Monos) | N/A |
+| 16 | [KEITA](http://twitter.com/search?q=KEITA) | N/A |
+| 17 | [Rosarinos](http://twitter.com/search?q=Rosarinos) | N/A |
+| 18 | [EXPLICA TU TWITTER](http://twitter.com/search?q=EXPLICA+TU+TWITTER) | N/A |
+| 19 | [Perotti](http://twitter.com/search?q=Perotti) | N/A |
+| 20 | [OLLIE](http://twitter.com/search?q=OLLIE) | N/A |
+| 21 | [Reino Unido](http://twitter.com/search?q=Reino+Unido) | N/A |
+| 22 | [Curazao](http://twitter.com/search?q=Curazao) | Curazao is an island in the Caribbean Sea, located off the coast of Venezuela. It is a constituent country of the Kingdom of the Netherlands. The name Curazao is derived from the Portuguese word for "heart," and it is often referred to as "the heart of the Caribbean." In English, it means "heart of the Caribbean." |
+| 23 | [Fabra](http://twitter.com/search?q=Fabra) | N/A |
+| 24 | [all of the girls](http://twitter.com/search?q=all+of+the+girls) | N/A |
+| 25 | [Petro](http://twitter.com/search?q=Petro) | N/A |
+| 26 | [Constitución](http://twitter.com/search?q=Constituci%c3%b3n) | N/A |
+| 27 | [Georgina](http://twitter.com/search?q=Georgina) | Georgina is a female given name of Greek origin, derived from the Greek name Γεωργινα (Geōrgina), which is a feminine form of the name George. It means "farmer" or "earth worker". |
+| 28 | [Las 3](http://twitter.com/search?q=Las+3) | N/A |
+| 29 | [#LanataSinFiltro](http://twitter.com/search?q=%23LanataSinFiltro) | N/A |
+| 30 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
+| 31 | [#siemprecampeones](http://twitter.com/search?q=%23siemprecampeones) | N/A |
 
 
 

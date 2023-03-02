@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quebec
 
-📆 Last Updated: `2023-03-02 14:17:31 UTC`
+📆 Last Updated: `2023-03-02 15:16:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Hronek](http://twitter.com/search?q=Hronek) | N/A |
-| 2 | [#WorldBookDay](http://twitter.com/search?q=%23WorldBookDay) | N/A |
+| 1 | [Bertuzzi](http://twitter.com/search?q=Bertuzzi) | N/A |
+| 2 | [Hronek](http://twitter.com/search?q=Hronek) | N/A |
 | 3 | [Chychrun](http://twitter.com/search?q=Chychrun) | N/A |
 | 4 | [Holl](http://twitter.com/search?q=Holl) | N/A |
-| 5 | [Nuge](http://twitter.com/search?q=Nuge) | N/A |
-| 6 | [Mike Layton](http://twitter.com/search?q=Mike+Layton) | N/A |
-| 7 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 5 | [Boston](http://twitter.com/search?q=Boston) | Boston is the capital and most populous city of the Commonwealth of Massachusetts in the United States. It is one of the oldest cities in the United States, founded in 1630 by Puritan settlers from England. The city is known for its rich history, culture, and educational institutions. It is also home to many world-renowned museums, universities, and hospitals. |
+| 6 | [Nuge](http://twitter.com/search?q=Nuge) | N/A |
+| 7 | [#WorldBookDay](http://twitter.com/search?q=%23WorldBookDay) | N/A |
 | 8 | [#TrudeauChineseElect](http://twitter.com/search?q=%23TrudeauChineseElect) | N/A |
-| 9 | [#Survivor44](http://twitter.com/search?q=%23Survivor44) | N/A |
-| 10 | [JCOLE](http://twitter.com/search?q=JCOLE) | N/A |
-| 11 | [Ekholm](http://twitter.com/search?q=Ekholm) | N/A |
-| 12 | [HARUTO](http://twitter.com/search?q=HARUTO) | N/A |
+| 9 | [MATTHEW](http://twitter.com/search?q=MATTHEW) | N/A |
+| 10 | [#Survivor44](http://twitter.com/search?q=%23Survivor44) | N/A |
+| 11 | [Trudeau Foundation](http://twitter.com/search?q=Trudeau+Foundation) | N/A |
+| 12 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
 | 13 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
-| 14 | [Canucks](http://twitter.com/search?q=Canucks) | Canucks is a slang term for Canadians. It is derived from the word "Canadian" and is often used in a jocular or affectionate manner. |
-| 15 | [mnet](http://twitter.com/search?q=mnet) | N/A |
-| 16 | [Pikamee](http://twitter.com/search?q=Pikamee) | N/A |
-| 17 | [sam levinson](http://twitter.com/search?q=sam+levinson) | N/A |
-| 18 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
-| 19 | [McDavid](http://twitter.com/search?q=McDavid) | McDavid is a brand of sports equipment and apparel, named after the Canadian hockey player Connor McDavid. The company produces protective gear, such as hockey helmets and shoulder pads, as well as clothing and accessories. |
-| 20 | [Daily Quordle 402](http://twitter.com/search?q=Daily+Quordle+402) | N/A |
-| 21 | [Barrie](http://twitter.com/search?q=Barrie) | N/A |
-| 22 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
-| 23 | [Granlund](http://twitter.com/search?q=Granlund) | N/A |
-| 24 | [Arizona](http://twitter.com/search?q=Arizona) | N/A |
-| 25 | [rielly](http://twitter.com/search?q=rielly) | N/A |
-| 26 | [Sandin](http://twitter.com/search?q=Sandin) | N/A |
-| 27 | [keita](http://twitter.com/search?q=keita) | N/A |
-| 28 | [Peter Obi](http://twitter.com/search?q=Peter+Obi) | N/A |
-| 29 | [CSIS](http://twitter.com/search?q=CSIS) | N/A |
+| 14 | [JCOLE](http://twitter.com/search?q=JCOLE) | N/A |
+| 15 | [Ekholm](http://twitter.com/search?q=Ekholm) | N/A |
+| 16 | [Mike Layton](http://twitter.com/search?q=Mike+Layton) | N/A |
+| 17 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 18 | [Canucks](http://twitter.com/search?q=Canucks) | Canucks is a slang term for Canadians. It is derived from the word "Canadian" and is often used in a jocular or affectionate manner. |
+| 19 | [KEITA](http://twitter.com/search?q=KEITA) | N/A |
+| 20 | [Pikamee](http://twitter.com/search?q=Pikamee) | N/A |
+| 21 | [Tom Wilson](http://twitter.com/search?q=Tom+Wilson) | N/A |
+| 22 | [sam levinson](http://twitter.com/search?q=sam+levinson) | N/A |
+| 23 | [McDavid](http://twitter.com/search?q=McDavid) | McDavid is a brand of sports equipment and apparel, named after the Canadian hockey player Connor McDavid. The company produces protective gear, such as hockey helmets and shoulder pads, as well as clothing and accessories. |
+| 24 | [Barrie](http://twitter.com/search?q=Barrie) | N/A |
+| 25 | [Granlund](http://twitter.com/search?q=Granlund) | N/A |
+| 26 | [Arizona](http://twitter.com/search?q=Arizona) | N/A |
+| 27 | [Rielly](http://twitter.com/search?q=Rielly) | N/A |
+| 28 | [Bergeron](http://twitter.com/search?q=Bergeron) | N/A |
+| 29 | [Hall](http://twitter.com/search?q=Hall) | Hall is a noun that refers to a large room or area used for meetings, receptions, or other events. It can also refer to an entranceway or corridor in a building. |
 | 30 | [Stuart](http://twitter.com/search?q=Stuart) | N/A |
-| 31 | [doha](http://twitter.com/search?q=doha) | N/A |
-| 32 | [Schenn](http://twitter.com/search?q=Schenn) | N/A |
-| 33 | [Dubas](http://twitter.com/search?q=Dubas) | N/A |
-| 34 | [Jupiter and Venus](http://twitter.com/search?q=Jupiter+and+Venus) | N/A |
-| 35 | [Hughes](http://twitter.com/search?q=Hughes) | Hughes is a surname of Welsh origin. It is derived from the Welsh personal name "Hugh," which is derived from the Germanic elements "hug" meaning "heart, mind, spirit" and "heil" meaning "brave, strong." |
-| 36 | [Springsteen](http://twitter.com/search?q=Springsteen) | N/A |
-| 37 | [Grogu](http://twitter.com/search?q=Grogu) | N/A |
-| 38 | [Beijing](http://twitter.com/search?q=Beijing) | N/A |
-| 39 | [hyman](http://twitter.com/search?q=hyman) | N/A |
-| 40 | [Ceci](http://twitter.com/search?q=Ceci) | N/A |
-| 41 | [Karina](http://twitter.com/search?q=Karina) | N/A |
+| 31 | [Sandin](http://twitter.com/search?q=Sandin) | N/A |
+| 32 | [Dubas](http://twitter.com/search?q=Dubas) | N/A |
+| 33 | [My President](http://twitter.com/search?q=My+President) | N/A |
+| 34 | [Yzerman](http://twitter.com/search?q=Yzerman) | N/A |
+| 35 | [Jupiter and Venus](http://twitter.com/search?q=Jupiter+and+Venus) | N/A |
+| 36 | [Doha](http://twitter.com/search?q=Doha) | N/A |
+| 37 | [CSIS](http://twitter.com/search?q=CSIS) | N/A |
+| 38 | [mnet](http://twitter.com/search?q=mnet) | N/A |
+| 39 | [Frogmore](http://twitter.com/search?q=Frogmore) | N/A |
+| 40 | [Beijing](http://twitter.com/search?q=Beijing) | N/A |
+| 41 | [Schenn](http://twitter.com/search?q=Schenn) | N/A |
 | 42 | [Samsonov](http://twitter.com/search?q=Samsonov) | Samsonov is a Russian surname. It is derived from the given name Samson, which is derived from the Hebrew name Shimshon, meaning "sun". |
-| 43 | [Frogmore](http://twitter.com/search?q=Frogmore) | N/A |
-| 44 | [Jonathan Quick](http://twitter.com/search?q=Jonathan+Quick) | N/A |
-| 45 | [Pierre Dorion](http://twitter.com/search?q=Pierre+Dorion) | N/A |
-| 46 | [Québec](http://twitter.com/search?q=Qu%c3%a9bec) | N/A |
-| 47 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 48 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
-| 49 | [Engvall](http://twitter.com/search?q=Engvall) | N/A |
+| 43 | [Jonathan Quick](http://twitter.com/search?q=Jonathan+Quick) | N/A |
+| 44 | [Grogu](http://twitter.com/search?q=Grogu) | N/A |
+| 45 | [Peter Obi](http://twitter.com/search?q=Peter+Obi) | N/A |
+| 46 | [pierre dorion](http://twitter.com/search?q=pierre+dorion) | N/A |
+| 47 | [Krejci](http://twitter.com/search?q=Krejci) | N/A |
+| 48 | [Ceci](http://twitter.com/search?q=Ceci) | N/A |
+| 49 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
 
 
 

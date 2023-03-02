@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nashville
 
-📆 Last Updated: `2023-03-02 14:18:25 UTC`
+📆 Last Updated: `2023-03-02 15:17:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [United States](</United States>)
 | 1 | [Vandy](http://twitter.com/search?q=Vandy) | Vandy is a nickname for Vanderbilt University, a private research university located in Nashville, Tennessee. The name is derived from the university's namesake, Cornelius Vanderbilt. |
 | 2 | [Kentucky](http://twitter.com/search?q=Kentucky) | Kentucky is a state in the United States located in the east south-central region of the country. It is bordered by seven states, including Virginia to the southeast, Tennessee to the south, Missouri to the west, Illinois and Indiana to the northwest, and Ohio to the northeast. Kentucky is known for its bluegrass music, bourbon whiskey, horse racing, and college basketball. The state's nickname is "The Bluegrass State" due to its fertile soil and abundance of bluegrass. |
 | 3 | [#BoycottHersheys](http://twitter.com/search?q=%23BoycottHersheys) | N/A |
-| 4 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 5 | [#WorldBookDay](http://twitter.com/search?q=%23WorldBookDay) | N/A |
-| 6 | [mnet](http://twitter.com/search?q=mnet) | N/A |
-| 7 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
-| 8 | [#ReadAcrossAmericaDay](http://twitter.com/search?q=%23ReadAcrossAmericaDay) | N/A |
-| 9 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
-| 10 | [Texas Independence Day](http://twitter.com/search?q=Texas+Independence+Day) | N/A |
-| 11 | [jiho](http://twitter.com/search?q=jiho) | N/A |
-| 12 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
-| 13 | [Dr. Seuss](http://twitter.com/search?q=Dr.+Seuss) | N/A |
-| 14 | [CONG](http://twitter.com/search?q=CONG) | N/A |
-| 15 | [Chaka Khan](http://twitter.com/search?q=Chaka+Khan) | N/A |
-| 16 | [Daily Quordle 402](http://twitter.com/search?q=Daily+Quordle+402) | N/A |
-| 17 | [SUNGMIN](http://twitter.com/search?q=SUNGMIN) | N/A |
-| 18 | [takuto](http://twitter.com/search?q=takuto) | N/A |
-| 19 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
-| 20 | [PARK HANBIN](http://twitter.com/search?q=PARK+HANBIN) | N/A |
-| 21 | [JCOLE](http://twitter.com/search?q=JCOLE) | N/A |
-| 22 | [Bryansk](http://twitter.com/search?q=Bryansk) | N/A |
-| 23 | [Michael Darby](http://twitter.com/search?q=Michael+Darby) | N/A |
-| 24 | [AURORA](http://twitter.com/search?q=AURORA) | N/A |
-| 25 | [Dratini](http://twitter.com/search?q=Dratini) | N/A |
-| 26 | [Gible](http://twitter.com/search?q=Gible) | N/A |
-| 27 | [Ni Hao](http://twitter.com/search?q=Ni+Hao) | N/A |
-| 28 | [Trapinch](http://twitter.com/search?q=Trapinch) | N/A |
-| 29 | [Doechii](http://twitter.com/search?q=Doechii) | N/A |
-| 30 | [hwanhee](http://twitter.com/search?q=hwanhee) | N/A |
-| 31 | [yujin](http://twitter.com/search?q=yujin) | N/A |
-| 32 | [International Women's Day](http://twitter.com/search?q=International+Women%27s+Day) | N/A |
-| 33 | [Lavrov](http://twitter.com/search?q=Lavrov) | N/A |
-| 34 | [Philippians](http://twitter.com/search?q=Philippians) | N/A |
-| 35 | [Karen Carpenter](http://twitter.com/search?q=Karen+Carpenter) | N/A |
-| 36 | [Bill Barr](http://twitter.com/search?q=Bill+Barr) | N/A |
-| 37 | [Hawley](http://twitter.com/search?q=Hawley) | N/A |
-| 38 | [Alaska and Hawaii](http://twitter.com/search?q=Alaska+and+Hawaii) | N/A |
-| 39 | [Goomy](http://twitter.com/search?q=Goomy) | N/A |
-| 40 | [Attacks](http://twitter.com/search?q=Attacks) | N/A |
-| 41 | [Lou Reed](http://twitter.com/search?q=Lou+Reed) | N/A |
-| 42 | [Noibat](http://twitter.com/search?q=Noibat) | N/A |
-| 43 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
-| 44 | [Fentanyl](http://twitter.com/search?q=Fentanyl) | N/A |
-| 45 | [Kellyanne](http://twitter.com/search?q=Kellyanne) | N/A |
-| 46 | [$TSLA](http://twitter.com/search?q=%24TSLA) | $TSLA is the stock symbol for Tesla, Inc., an American electric vehicle and clean energy company. It is traded on the Nasdaq stock exchange. |
-| 47 | [Meghan](http://twitter.com/search?q=Meghan) | N/A |
-| 48 | [Sean Penn](http://twitter.com/search?q=Sean+Penn) | N/A |
-| 49 | [Petro](http://twitter.com/search?q=Petro) | N/A |
-| 50 | [Dreepy](http://twitter.com/search?q=Dreepy) | N/A |
+| 4 | [Bertuzzi](http://twitter.com/search?q=Bertuzzi) | N/A |
+| 5 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 6 | [#ReadAcrossAmericaDay](http://twitter.com/search?q=%23ReadAcrossAmericaDay) | N/A |
+| 7 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 8 | [#WorldBookDay](http://twitter.com/search?q=%23WorldBookDay) | N/A |
+| 9 | [Texas Independence Day](http://twitter.com/search?q=Texas+Independence+Day) | N/A |
+| 10 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
+| 11 | [Dr. Seuss](http://twitter.com/search?q=Dr.+Seuss) | N/A |
+| 12 | [mnet](http://twitter.com/search?q=mnet) | N/A |
+| 13 | [Don Sweeney](http://twitter.com/search?q=Don+Sweeney) | N/A |
+| 14 | [DK Summit](http://twitter.com/search?q=DK+Summit) | N/A |
+| 15 | [Waluigi Stadium](http://twitter.com/search?q=Waluigi+Stadium) | N/A |
+| 16 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
+| 17 | [KEITA](http://twitter.com/search?q=KEITA) | N/A |
+| 18 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
+| 19 | [DS Mario Circuit](http://twitter.com/search?q=DS+Mario+Circuit) | N/A |
+| 20 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
+| 21 | [Chaka Khan](http://twitter.com/search?q=Chaka+Khan) | N/A |
+| 22 | [Juror](http://twitter.com/search?q=Juror) | N/A |
+| 23 | [yujin](http://twitter.com/search?q=yujin) | N/A |
+| 24 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 25 | [Judge Newman](http://twitter.com/search?q=Judge+Newman) | N/A |
+| 26 | [seok matthew](http://twitter.com/search?q=seok+matthew) | N/A |
+| 27 | [Daily Quordle 402](http://twitter.com/search?q=Daily+Quordle+402) | N/A |
+| 28 | [jiho](http://twitter.com/search?q=jiho) | N/A |
+| 29 | [Bryansk](http://twitter.com/search?q=Bryansk) | N/A |
+| 30 | [Tucson](http://twitter.com/search?q=Tucson) | N/A |
+| 31 | [Michael Darby](http://twitter.com/search?q=Michael+Darby) | N/A |
+| 32 | [Thirsty Thursday](http://twitter.com/search?q=Thirsty+Thursday) | N/A |
+| 33 | [Foligno](http://twitter.com/search?q=Foligno) | N/A |
+| 34 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
+| 35 | [takuto](http://twitter.com/search?q=takuto) | N/A |
+| 36 | [$TSLA](http://twitter.com/search?q=%24TSLA) | $TSLA is the stock symbol for Tesla, Inc., an American electric vehicle and clean energy company. It is traded on the Nasdaq stock exchange. |
+| 37 | [Republic of Texas](http://twitter.com/search?q=Republic+of+Texas) | N/A |
+| 38 | [Karen Carpenter](http://twitter.com/search?q=Karen+Carpenter) | N/A |
+| 39 | [ni hao](http://twitter.com/search?q=ni+hao) | N/A |
+| 40 | [Wo Long](http://twitter.com/search?q=Wo+Long) | N/A |
+| 41 | [Jim Griffin](http://twitter.com/search?q=Jim+Griffin) | N/A |
+| 42 | [Doechii](http://twitter.com/search?q=Doechii) | N/A |
+| 43 | [Christopher Reeves](http://twitter.com/search?q=Christopher+Reeves) | N/A |
+| 44 | [Krejci](http://twitter.com/search?q=Krejci) | N/A |
+| 45 | [Dratini](http://twitter.com/search?q=Dratini) | N/A |
+| 46 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
+| 47 | [AURORA](http://twitter.com/search?q=AURORA) | N/A |
+| 48 | [Trapinch](http://twitter.com/search?q=Trapinch) | N/A |
+| 49 | [JCOLE](http://twitter.com/search?q=JCOLE) | N/A |
+| 50 | [Yzerman](http://twitter.com/search?q=Yzerman) | N/A |
 
 
 

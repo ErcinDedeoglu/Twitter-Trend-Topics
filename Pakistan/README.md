@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pakistan
 
-📆 Last Updated: `2023-03-02 14:18:36 UTC`
+📆 Last Updated: `2023-03-02 15:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Pakistan
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#DollarPrice](http://twitter.com/search?q=%23DollarPrice) | N/A |
-| 2 | [#عمران_داری_معیشت_لے_ڈوبی](http://twitter.com/search?q=%23%d8%b9%d9%85%d8%b1%d8%a7%d9%86_%d8%af%d8%a7%d8%b1%db%8c_%d9%85%d8%b9%db%8c%d8%b4%d8%aa_%d9%84%db%92_%da%88%d9%88%d8%a8%db%8c) | N/A |
-| 3 | [#ڈار_گردی_کی_تباہی](http://twitter.com/search?q=%23%da%88%d8%a7%d8%b1_%da%af%d8%b1%d8%af%db%8c_%da%a9%db%8c_%d8%aa%d8%a8%d8%a7%db%81%db%8c) | N/A |
-| 4 | [#LQvQG](http://twitter.com/search?q=%23LQvQG) | N/A |
-| 5 | [#خان_بمقابلہ_کرپٹ_نظام](http://twitter.com/search?q=%23%d8%ae%d8%a7%d9%86_%d8%a8%d9%85%d9%82%d8%a7%d8%a8%d9%84%db%81_%da%a9%d8%b1%d9%be%d9%b9_%d9%86%d8%b8%d8%a7%d9%85) | N/A |
-| 6 | [Namoos Sahaba Ahlbait Bill](http://twitter.com/search?q=Namoos+Sahaba+Ahlbait+Bill) | N/A |
-| 7 | [from 2-3 to 197-5](http://twitter.com/search?q=from+2-3+to+197-5) | N/A |
-| 8 | [haseebullah](http://twitter.com/search?q=haseebullah) | N/A |
-| 9 | [sir mark grundy](http://twitter.com/search?q=sir+mark+grundy) | N/A |
-| 10 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 11 | [British Council](http://twitter.com/search?q=British+Council) | N/A |
-| 12 | [Resign](http://twitter.com/search?q=Resign) | Resign is a verb that means to formally give up or quit a job, position, or office. It is usually done in writing and is often accompanied by a letter of resignation. |
-| 13 | [Quetta Gladiators](http://twitter.com/search?q=Quetta+Gladiators) | N/A |
-| 14 | [Sack](http://twitter.com/search?q=Sack) | N/A |
-| 15 | [state bank](http://twitter.com/search?q=state+bank) | N/A |
-| 16 | [happy birthday lala](http://twitter.com/search?q=happy+birthday+lala) | N/A |
-| 17 | [Fixer](http://twitter.com/search?q=Fixer) | N/A |
-| 18 | [Wahab](http://twitter.com/search?q=Wahab) | N/A |
-| 19 | [Hasnain](http://twitter.com/search?q=Hasnain) | Hasnain is an Arabic name meaning "two precious ones". It is also used as a surname. |
-| 20 | [Dubai](http://twitter.com/search?q=Dubai) | Dubai is a city and emirate in the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the capital of the Emirate of Dubai, one of the seven emirates that make up the country. The word "Dubai" translates to "money" in English. |
-| 21 | [Miftah](http://twitter.com/search?q=Miftah) | N/A |
-| 22 | [Rupee](http://twitter.com/search?q=Rupee) | N/A |
-| 23 | [Mian Ali Ashfaq](http://twitter.com/search?q=Mian+Ali+Ashfaq) | N/A |
-| 24 | [JCOLE](http://twitter.com/search?q=JCOLE) | N/A |
-| 25 | [Captain Planet](http://twitter.com/search?q=Captain+Planet) | N/A |
-| 26 | [Ben 10](http://twitter.com/search?q=Ben+10) | N/A |
-| 27 | [PMLN](http://twitter.com/search?q=PMLN) | N/A |
-| 28 | [Lahore Qalandars](http://twitter.com/search?q=Lahore+Qalandars) | N/A |
-| 29 | [Munshi](http://twitter.com/search?q=Munshi) | N/A |
-| 30 | [Azerbaijan](http://twitter.com/search?q=Azerbaijan) | N/A |
-| 31 | [Evening](http://twitter.com/search?q=Evening) | N/A |
-| 32 | [Zardari](http://twitter.com/search?q=Zardari) | N/A |
-| 33 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
-| 34 | [London](http://twitter.com/search?q=London) | N/A |
-| 35 | [Naseem](http://twitter.com/search?q=Naseem) | N/A |
-| 36 | [Government](http://twitter.com/search?q=Government) | N/A |
-| 37 | [Maryam](http://twitter.com/search?q=Maryam) | N/A |
-| 38 | [International Monetary Fund](http://twitter.com/search?q=International+Monetary+Fund) | N/A |
-| 39 | [Asia](http://twitter.com/search?q=Asia) | N/A |
-| 40 | [Asim Munir](http://twitter.com/search?q=Asim+Munir) | N/A |
-| 41 | [Tom and Jerry](http://twitter.com/search?q=Tom+and+Jerry) | N/A |
-| 42 | [Duffer](http://twitter.com/search?q=Duffer) | N/A |
-| 43 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 44 | [Libya](http://twitter.com/search?q=Libya) | N/A |
-| 45 | [ABSOLUTELY NOT](http://twitter.com/search?q=ABSOLUTELY+NOT) | N/A |
-| 46 | [Finance Minister](http://twitter.com/search?q=Finance+Minister) | Finance Minister is a title given to the government official responsible for managing a country's financial affairs. This includes setting and implementing fiscal policies, overseeing the budget process, and managing public debt. The Finance Minister is usually a member of the cabinet or government executive. |
+| 1 | [#LQvQG](http://twitter.com/search?q=%23LQvQG) | N/A |
+| 2 | [#DollarPrice](http://twitter.com/search?q=%23DollarPrice) | N/A |
+| 3 | [#عمران_داری_معیشت_لے_ڈوبی](http://twitter.com/search?q=%23%d8%b9%d9%85%d8%b1%d8%a7%d9%86_%d8%af%d8%a7%d8%b1%db%8c_%d9%85%d8%b9%db%8c%d8%b4%d8%aa_%d9%84%db%92_%da%88%d9%88%d8%a8%db%8c) | N/A |
+| 4 | [#ہرپریس_کلب_کےباہرلبیک_والے](http://twitter.com/search?q=%23%db%81%d8%b1%d9%be%d8%b1%db%8c%d8%b3_%da%a9%d9%84%d8%a8_%da%a9%db%92%d8%a8%d8%a7%db%81%d8%b1%d9%84%d8%a8%db%8c%da%a9_%d9%88%d8%a7%d9%84%db%92) | N/A |
+| 5 | [#ڈار_گردی_کی_تباہی](http://twitter.com/search?q=%23%da%88%d8%a7%d8%b1_%da%af%d8%b1%d8%af%db%8c_%da%a9%db%8c_%d8%aa%d8%a8%d8%a7%db%81%db%8c) | N/A |
+| 6 | [Shaheen](http://twitter.com/search?q=Shaheen) | N/A |
+| 7 | [Lahore Qalandars](http://twitter.com/search?q=Lahore+Qalandars) | N/A |
+| 8 | [Quetta](http://twitter.com/search?q=Quetta) | Quetta is a city in Pakistan located in the province of Balochistan. The name Quetta is derived from the Pashto word "Kwatak", meaning fort. In English, Quetta translates to "fortress". |
+| 9 | [Namoos Sahaba Ahlbait Bill](http://twitter.com/search?q=Namoos+Sahaba+Ahlbait+Bill) | N/A |
+| 10 | [Rashid](http://twitter.com/search?q=Rashid) | N/A |
+| 11 | [from 2-3 to 197-5](http://twitter.com/search?q=from+2-3+to+197-5) | N/A |
+| 12 | [Umaid Asif](http://twitter.com/search?q=Umaid+Asif) | N/A |
+| 13 | [Haseebullah](http://twitter.com/search?q=Haseebullah) | N/A |
+| 14 | [Ishaq Dar](http://twitter.com/search?q=Ishaq+Dar) | N/A |
+| 15 | [sir mark grundy](http://twitter.com/search?q=sir+mark+grundy) | N/A |
+| 16 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 17 | [British Council](http://twitter.com/search?q=British+Council) | N/A |
+| 18 | [Happy Baloch](http://twitter.com/search?q=Happy+Baloch) | N/A |
+| 19 | [Sack](http://twitter.com/search?q=Sack) | N/A |
+| 20 | [happy birthday lala](http://twitter.com/search?q=happy+birthday+lala) | N/A |
+| 21 | [Fixer](http://twitter.com/search?q=Fixer) | N/A |
+| 22 | [hasnain](http://twitter.com/search?q=hasnain) | N/A |
+| 23 | [Shoaib Malik](http://twitter.com/search?q=Shoaib+Malik) | N/A |
+| 24 | [Wahab](http://twitter.com/search?q=Wahab) | N/A |
+| 25 | [Sarfaraz](http://twitter.com/search?q=Sarfaraz) | Sarfaraz is an Arabic name meaning "commander" or "leader". It is also used as a title of respect for a person of high rank. |
+| 26 | [Naseem](http://twitter.com/search?q=Naseem) | N/A |
+| 27 | [Nawaz](http://twitter.com/search?q=Nawaz) | Nawaz is an Arabic name meaning "gift" or "blessing". It is also used as a surname in some parts of the world. |
+| 28 | [Dubai](http://twitter.com/search?q=Dubai) | Dubai is a city and emirate in the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the capital of the Emirate of Dubai, one of the seven emirates that make up the country. The word "Dubai" translates to "money" in English. |
+| 29 | [Rupee](http://twitter.com/search?q=Rupee) | N/A |
+| 30 | [Miftah](http://twitter.com/search?q=Miftah) | N/A |
+| 31 | [Mian Ali Ashfaq](http://twitter.com/search?q=Mian+Ali+Ashfaq) | N/A |
+| 32 | [JCOLE](http://twitter.com/search?q=JCOLE) | N/A |
+| 33 | [Evening](http://twitter.com/search?q=Evening) | N/A |
+| 34 | [PMLN](http://twitter.com/search?q=PMLN) | N/A |
+| 35 | [Asim Munir](http://twitter.com/search?q=Asim+Munir) | N/A |
+| 36 | [Abdullah](http://twitter.com/search?q=Abdullah) | N/A |
+| 37 | [Hussain](http://twitter.com/search?q=Hussain) | N/A |
+| 38 | [London](http://twitter.com/search?q=London) | N/A |
+| 39 | [Wiese](http://twitter.com/search?q=Wiese) | N/A |
+| 40 | [Yaar](http://twitter.com/search?q=Yaar) | N/A |
+| 41 | [International Monetary Fund](http://twitter.com/search?q=International+Monetary+Fund) | N/A |
+| 42 | [Tom and Jerry](http://twitter.com/search?q=Tom+and+Jerry) | N/A |
+| 43 | [Nani](http://twitter.com/search?q=Nani) | N/A |
+| 44 | [Maryam](http://twitter.com/search?q=Maryam) | N/A |
+| 45 | [Army](http://twitter.com/search?q=Army) | N/A |
+| 46 | [Absolutely NOT](http://twitter.com/search?q=Absolutely+NOT) | N/A |
 | 47 | [Market](http://twitter.com/search?q=Market) | N/A |
-| 48 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 49 | [Shop Now](http://twitter.com/search?q=Shop+Now) | N/A |
-| 50 | [Paris](http://twitter.com/search?q=Paris) | N/A |
+| 48 | [Fakhar Zaman](http://twitter.com/search?q=Fakhar+Zaman) | Fakhar Zaman is a Pakistani cricketer who plays for the Pakistan national cricket team. His name means "pride" in English. |
+| 49 | [Zardari](http://twitter.com/search?q=Zardari) | N/A |
+| 50 | [Chief](http://twitter.com/search?q=Chief) | N/A |
 
 
 

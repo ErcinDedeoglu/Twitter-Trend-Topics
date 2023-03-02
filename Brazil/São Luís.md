@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For São Luís
 
-📆 Last Updated: `2023-03-02 14:17:44 UTC`
+📆 Last Updated: `2023-03-02 15:16:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [AURORA](http://twitter.com/search?q=AURORA) | N/A |
-| 2 | [#FREENBECKxFANDOMLIVE](http://twitter.com/search?q=%23FREENBECKxFANDOMLIVE) | N/A |
-| 3 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
-| 4 | [#LOUDWIN](http://twitter.com/search?q=%23LOUDWIN) | N/A |
-| 5 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
-| 6 | [Misto](http://twitter.com/search?q=Misto) | N/A |
-| 7 | [takuto](http://twitter.com/search?q=takuto) | N/A |
-| 8 | [Coreia do Norte](http://twitter.com/search?q=Coreia+do+Norte) | N/A |
-| 9 | [riley keough](http://twitter.com/search?q=riley+keough) | N/A |
-| 10 | [#MoonlightChickenFinalEP](http://twitter.com/search?q=%23MoonlightChickenFinalEP) | N/A |
-| 11 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 12 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
-| 13 | [Mamonas Assassinas](http://twitter.com/search?q=Mamonas+Assassinas) | N/A |
-| 14 | [Anielle Franco](http://twitter.com/search?q=Anielle+Franco) | Anielle Franco is a Brazilian name. It is derived from the Latin name Anna, which means "grace" or "favor". |
-| 15 | [THE RIVER](http://twitter.com/search?q=THE+RIVER) | N/A |
-| 16 | [Abin](http://twitter.com/search?q=Abin) | N/A |
-| 17 | [Drugo](http://twitter.com/search?q=Drugo) | N/A |
-| 18 | [hwanhee](http://twitter.com/search?q=hwanhee) | N/A |
-| 19 | [jiho](http://twitter.com/search?q=jiho) | N/A |
-| 20 | [impossible woman](http://twitter.com/search?q=impossible+woman) | N/A |
-| 21 | [Cafu](http://twitter.com/search?q=Cafu) | N/A |
-| 22 | [J COLE](http://twitter.com/search?q=J+COLE) | N/A |
-| 23 | [Taerae](http://twitter.com/search?q=Taerae) | N/A |
-| 24 | [RED CARPET](http://twitter.com/search?q=RED+CARPET) | N/A |
-| 25 | [#보이즈플래닛1제거](http://twitter.com/search?q=%23%eb%b3%b4%ec%9d%b4%ec%a6%88%ed%94%8c%eb%9e%98%eb%8b%9b1%ec%a0%9c%ea%b1%b0) | N/A |
-| 26 | [Jongwoo](http://twitter.com/search?q=Jongwoo) | N/A |
-| 27 | [Casa Civil](http://twitter.com/search?q=Casa+Civil) | N/A |
-| 28 | [Dedal](http://twitter.com/search?q=Dedal) | N/A |
-| 29 | [Bolsa Família](http://twitter.com/search?q=Bolsa+Fam%c3%adlia) | N/A |
-| 30 | [No. Scrobbles](http://twitter.com/search?q=No.+Scrobbles) | N/A |
-| 31 | [Top Artist](http://twitter.com/search?q=Top+Artist) | N/A |
-| 32 | [Top Track](http://twitter.com/search?q=Top+Track) | N/A |
-| 33 | [Top Album](http://twitter.com/search?q=Top+Album) | N/A |
-| 34 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 35 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
-| 36 | [Locomia](http://twitter.com/search?q=Locomia) | N/A |
-| 37 | [Wo Long](http://twitter.com/search?q=Wo+Long) | N/A |
-| 38 | [Petrobras](http://twitter.com/search?q=Petrobras) | N/A |
-| 39 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 40 | [Flamenguista](http://twitter.com/search?q=Flamenguista) | N/A |
-| 41 | [Operação](http://twitter.com/search?q=Opera%c3%a7%c3%a3o) | N/A |
-| 42 | [FANTINEL CASSADO](http://twitter.com/search?q=FANTINEL+CASSADO) | N/A |
-| 43 | [Ivete](http://twitter.com/search?q=Ivete) | Ivete is a Portuguese female name derived from the Latin name Iveta, which means “yew tree”. In English, it can be translated to Evette or Yvette. |
-| 44 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 45 | [Marjorie](http://twitter.com/search?q=Marjorie) | Marjorie is a female given name of French origin, derived from the Latin Margarita, meaning "pearl". It is also a Scottish form of Margaret. |
-| 46 | [Alexandre Silveira](http://twitter.com/search?q=Alexandre+Silveira) | N/A |
-| 47 | [Fernando Diniz](http://twitter.com/search?q=Fernando+Diniz) | N/A |
-| 48 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 49 | [Galvão Bueno](http://twitter.com/search?q=Galv%c3%a3o+Bueno) | N/A |
+| 1 | [SEM SENTIMENTO](http://twitter.com/search?q=SEM+SENTIMENTO) | N/A |
+| 2 | [MATTHEW](http://twitter.com/search?q=MATTHEW) | N/A |
+| 3 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 4 | [AURORA](http://twitter.com/search?q=AURORA) | N/A |
+| 5 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 6 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 7 | [KEITA](http://twitter.com/search?q=KEITA) | N/A |
+| 8 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 9 | [#FREENBECKxFANDOMLIVE](http://twitter.com/search?q=%23FREENBECKxFANDOMLIVE) | N/A |
+| 10 | [#LOUDWIN](http://twitter.com/search?q=%23LOUDWIN) | N/A |
+| 11 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
+| 12 | [the river](http://twitter.com/search?q=the+river) | N/A |
+| 13 | [riley keough](http://twitter.com/search?q=riley+keough) | N/A |
+| 14 | [yujin](http://twitter.com/search?q=yujin) | N/A |
+| 15 | [Misto](http://twitter.com/search?q=Misto) | N/A |
+| 16 | [Gunwook](http://twitter.com/search?q=Gunwook) | N/A |
+| 17 | [two against three](http://twitter.com/search?q=two+against+three) | N/A |
+| 18 | [Anielle Franco](http://twitter.com/search?q=Anielle+Franco) | Anielle Franco is a Brazilian name. It is derived from the Latin name Anna, which means "grace" or "favor". |
+| 19 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 20 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 21 | [Coreia do Norte](http://twitter.com/search?q=Coreia+do+Norte) | N/A |
+| 22 | [Russell](http://twitter.com/search?q=Russell) | N/A |
+| 23 | [#MoonlightChickenFinalEP](http://twitter.com/search?q=%23MoonlightChickenFinalEP) | N/A |
+| 24 | [Gyuvin](http://twitter.com/search?q=Gyuvin) | N/A |
+| 25 | [takuto](http://twitter.com/search?q=takuto) | N/A |
+| 26 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
+| 27 | [OLLIE](http://twitter.com/search?q=OLLIE) | N/A |
+| 28 | [Mamonas Assassinas](http://twitter.com/search?q=Mamonas+Assassinas) | N/A |
+| 29 | [Abin](http://twitter.com/search?q=Abin) | N/A |
+| 30 | [impossible woman](http://twitter.com/search?q=impossible+woman) | N/A |
+| 31 | [Top Track](http://twitter.com/search?q=Top+Track) | N/A |
+| 32 | [Top Album](http://twitter.com/search?q=Top+Album) | N/A |
+| 33 | [No. Scrobbles](http://twitter.com/search?q=No.+Scrobbles) | N/A |
+| 34 | [Taerae](http://twitter.com/search?q=Taerae) | N/A |
+| 35 | [Top Artist](http://twitter.com/search?q=Top+Artist) | N/A |
+| 36 | [Bolsa Família](http://twitter.com/search?q=Bolsa+Fam%c3%adlia) | N/A |
+| 37 | [Ter Stegen](http://twitter.com/search?q=Ter+Stegen) | Ter Stegen is the surname of German professional footballer Marc-André ter Stegen. He currently plays as a goalkeeper for FC Barcelona and the German national team. In English, Ter Stegen means "from Stegen", referring to his hometown of Mönchengladbach, Germany. |
+| 38 | [Drugo](http://twitter.com/search?q=Drugo) | N/A |
+| 39 | [#보이즈플래닛1제거](http://twitter.com/search?q=%23%eb%b3%b4%ec%9d%b4%ec%a6%88%ed%94%8c%eb%9e%98%eb%8b%9b1%ec%a0%9c%ea%b1%b0) | N/A |
+| 40 | [still alive](http://twitter.com/search?q=still+alive) | N/A |
+| 41 | [hwanhee](http://twitter.com/search?q=hwanhee) | N/A |
+| 42 | [El Clássico](http://twitter.com/search?q=El+Cl%c3%a1ssico) | N/A |
+| 43 | [Jongwoo](http://twitter.com/search?q=Jongwoo) | N/A |
+| 44 | [Cafu](http://twitter.com/search?q=Cafu) | N/A |
+| 45 | [Casa Civil](http://twitter.com/search?q=Casa+Civil) | N/A |
+| 46 | [Bruno Mendez](http://twitter.com/search?q=Bruno+Mendez) | N/A |
+| 47 | [jiho](http://twitter.com/search?q=jiho) | N/A |
+| 48 | [Dedal](http://twitter.com/search?q=Dedal) | N/A |
+| 49 | [J COLE](http://twitter.com/search?q=J+COLE) | N/A |
 
 
 

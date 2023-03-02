@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cardiff
 
-📆 Last Updated: `2023-03-02 14:17:32 UTC`
+📆 Last Updated: `2023-03-02 15:16:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#WorldBookDay](http://twitter.com/search?q=%23WorldBookDay) | N/A |
-| 2 | [McDonalds](http://twitter.com/search?q=McDonalds) | N/A |
-| 3 | [#FMQs](http://twitter.com/search?q=%23FMQs) | N/A |
+| 1 | [#WorldBookDay2023](http://twitter.com/search?q=%23WorldBookDay2023) | N/A |
+| 2 | [Steve Mackey](http://twitter.com/search?q=Steve+Mackey) | N/A |
+| 3 | [RIP Steve](http://twitter.com/search?q=RIP+Steve) | N/A |
 | 4 | [#MorrisonsMisery](http://twitter.com/search?q=%23MorrisonsMisery) | N/A |
-| 5 | [#books](http://twitter.com/search?q=%23books) | N/A |
-| 6 | [mnet](http://twitter.com/search?q=mnet) | N/A |
-| 7 | [Lee Anderson](http://twitter.com/search?q=Lee+Anderson) | N/A |
-| 8 | [Hancock](http://twitter.com/search?q=Hancock) | N/A |
-| 9 | [Year 6](http://twitter.com/search?q=Year+6) | N/A |
-| 10 | [Isabel Oakeshott](http://twitter.com/search?q=Isabel+Oakeshott) | N/A |
-| 11 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
-| 12 | [30p Lee](http://twitter.com/search?q=30p+Lee) | N/A |
-| 13 | [Badenoch](http://twitter.com/search?q=Badenoch) | N/A |
-| 14 | [The Tiger](http://twitter.com/search?q=The+Tiger) | N/A |
-| 15 | [Stepped](http://twitter.com/search?q=Stepped) | N/A |
-| 16 | [My President](http://twitter.com/search?q=My+President) | N/A |
-| 17 | [HARUTO](http://twitter.com/search?q=HARUTO) | N/A |
-| 18 | [Manchester Arena](http://twitter.com/search?q=Manchester+Arena) | N/A |
-| 19 | [WH Smith](http://twitter.com/search?q=WH+Smith) | N/A |
-| 20 | [Bryansk](http://twitter.com/search?q=Bryansk) | N/A |
-| 21 | [Gavin Williamson](http://twitter.com/search?q=Gavin+Williamson) | N/A |
-| 22 | [Unions](http://twitter.com/search?q=Unions) | N/A |
-| 23 | [Richard Tice](http://twitter.com/search?q=Richard+Tice) | N/A |
-| 24 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
-| 25 | [New IRA](http://twitter.com/search?q=New+IRA) | N/A |
-| 26 | [Wo Long](http://twitter.com/search?q=Wo+Long) | N/A |
-| 27 | [Menopause](http://twitter.com/search?q=Menopause) | N/A |
-| 28 | [Reform](http://twitter.com/search?q=Reform) | N/A |
-| 29 | [JCOLE](http://twitter.com/search?q=JCOLE) | N/A |
-| 30 | [Reception](http://twitter.com/search?q=Reception) | N/A |
-| 31 | [Alice in Wonderland](http://twitter.com/search?q=Alice+in+Wonderland) | N/A |
-| 32 | [Teachers](http://twitter.com/search?q=Teachers) | N/A |
-| 33 | [Telegraph](http://twitter.com/search?q=Telegraph) | N/A |
-| 34 | [Lockdowns](http://twitter.com/search?q=Lockdowns) | N/A |
-| 35 | [Library](http://twitter.com/search?q=Library) | N/A |
-| 36 | [Wally](http://twitter.com/search?q=Wally) | N/A |
-| 37 | [Yoruba](http://twitter.com/search?q=Yoruba) | N/A |
-| 38 | [Bunny](http://twitter.com/search?q=Bunny) | N/A |
-| 39 | [Bone](http://twitter.com/search?q=Bone) | N/A |
-| 40 | [Frogmore](http://twitter.com/search?q=Frogmore) | N/A |
-| 41 | [Matilda](http://twitter.com/search?q=Matilda) | Matilda is a female given name of Germanic origin, derived from the words maht (meaning "might, strength") and hild (meaning "battle"). It is often associated with the English queen Matilda of Flanders. The name can also be used as a nickname for Matilda or Mathilde. |
-| 42 | [JHOPE](http://twitter.com/search?q=JHOPE) | N/A |
-| 43 | [Carolyn](http://twitter.com/search?q=Carolyn) | N/A |
-| 44 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
-| 45 | [Prince Andrew](http://twitter.com/search?q=Prince+Andrew) | N/A |
-| 46 | [Sorcha](http://twitter.com/search?q=Sorcha) | N/A |
-| 47 | [Lagosians](http://twitter.com/search?q=Lagosians) | N/A |
-| 48 | [Daily Quordle 402](http://twitter.com/search?q=Daily+Quordle+402) | N/A |
-| 49 | [#WBD23](http://twitter.com/search?q=%23WBD23) | N/A |
+| 5 | [Manchester Arena](http://twitter.com/search?q=Manchester+Arena) | N/A |
+| 6 | [McDonalds](http://twitter.com/search?q=McDonalds) | N/A |
+| 7 | [#VeryMeRewards](http://twitter.com/search?q=%23VeryMeRewards) | N/A |
+| 8 | [#WBD2023](http://twitter.com/search?q=%23WBD2023) | N/A |
+| 9 | [Year 3](http://twitter.com/search?q=Year+3) | N/A |
+| 10 | [Lee Anderson](http://twitter.com/search?q=Lee+Anderson) | N/A |
+| 11 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 12 | [mnet](http://twitter.com/search?q=mnet) | N/A |
+| 13 | [Hancock](http://twitter.com/search?q=Hancock) | N/A |
+| 14 | [Pulp](http://twitter.com/search?q=Pulp) | N/A |
+| 15 | [My President](http://twitter.com/search?q=My+President) | N/A |
+| 16 | [George Russell](http://twitter.com/search?q=George+Russell) | N/A |
+| 17 | [The Tiger](http://twitter.com/search?q=The+Tiger) | N/A |
+| 18 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
+| 19 | [Stepped](http://twitter.com/search?q=Stepped) | N/A |
+| 20 | [30p Lee](http://twitter.com/search?q=30p+Lee) | N/A |
+| 21 | [Isabel Oakeshott](http://twitter.com/search?q=Isabel+Oakeshott) | N/A |
+| 22 | [Badenoch](http://twitter.com/search?q=Badenoch) | N/A |
+| 23 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 24 | [New IRA](http://twitter.com/search?q=New+IRA) | N/A |
+| 25 | [Reception](http://twitter.com/search?q=Reception) | N/A |
+| 26 | [WH Smith](http://twitter.com/search?q=WH+Smith) | N/A |
+| 27 | [Richard Tice](http://twitter.com/search?q=Richard+Tice) | N/A |
+| 28 | [Library](http://twitter.com/search?q=Library) | N/A |
+| 29 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
+| 30 | [Julia Donaldson](http://twitter.com/search?q=Julia+Donaldson) | N/A |
+| 31 | [Reform](http://twitter.com/search?q=Reform) | N/A |
+| 32 | [Wally](http://twitter.com/search?q=Wally) | N/A |
+| 33 | [Gavin Williamson](http://twitter.com/search?q=Gavin+Williamson) | N/A |
+| 34 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 35 | [JCOLE](http://twitter.com/search?q=JCOLE) | N/A |
+| 36 | [Teachers](http://twitter.com/search?q=Teachers) | N/A |
+| 37 | [Alice in Wonderland](http://twitter.com/search?q=Alice+in+Wonderland) | N/A |
+| 38 | [Unions](http://twitter.com/search?q=Unions) | N/A |
+| 39 | [Wo Long](http://twitter.com/search?q=Wo+Long) | N/A |
+| 40 | [Yoruba](http://twitter.com/search?q=Yoruba) | N/A |
+| 41 | [Bone](http://twitter.com/search?q=Bone) | N/A |
+| 42 | [Green Party](http://twitter.com/search?q=Green+Party) | N/A |
+| 43 | [Matilda](http://twitter.com/search?q=Matilda) | Matilda is a female given name of Germanic origin, derived from the words maht (meaning "might, strength") and hild (meaning "battle"). It is often associated with the English queen Matilda of Flanders. The name can also be used as a nickname for Matilda or Mathilde. |
+| 44 | [Nursery](http://twitter.com/search?q=Nursery) | N/A |
+| 45 | [GDPR](http://twitter.com/search?q=GDPR) | N/A |
+| 46 | [jhope](http://twitter.com/search?q=jhope) | N/A |
+| 47 | [Carolyn](http://twitter.com/search?q=Carolyn) | N/A |
+| 48 | [Sorcha](http://twitter.com/search?q=Sorcha) | N/A |
+| 49 | [Windsor Castle](http://twitter.com/search?q=Windsor+Castle) | N/A |
 
 
 

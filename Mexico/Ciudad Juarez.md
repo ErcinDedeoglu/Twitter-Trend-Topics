@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ciudad Juarez
 
-📆 Last Updated: `2023-03-02 14:17:36 UTC`
+📆 Last Updated: `2023-03-02 15:16:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#KornoDedazo](http://twitter.com/search?q=%23KornoDedazo) | N/A |
-| 2 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
-| 3 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
-| 4 | [Irma Serrano](http://twitter.com/search?q=Irma+Serrano) | N/A |
-| 5 | [#SalarioRosaContinua](http://twitter.com/search?q=%23SalarioRosaContinua) | N/A |
+| 1 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
+| 2 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 3 | [#KornoDedazo](http://twitter.com/search?q=%23KornoDedazo) | N/A |
+| 4 | [#salariorosacontinua](http://twitter.com/search?q=%23salariorosacontinua) | N/A |
+| 5 | [Irma Serrano](http://twitter.com/search?q=Irma+Serrano) | N/A |
 | 6 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
 | 7 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 8 | [La Tigresa](http://twitter.com/search?q=La+Tigresa) | N/A |
-| 9 | [Samuel](http://twitter.com/search?q=Samuel) | N/A |
-| 10 | [PARA NO VERTE MÁS](http://twitter.com/search?q=PARA+NO+VERTE+M%c3%81S) | N/A |
-| 11 | [Blink](http://twitter.com/search?q=Blink) | N/A |
-| 12 | [Marzo con M](http://twitter.com/search?q=Marzo+con+M) | N/A |
-| 13 | [Norma Piña](http://twitter.com/search?q=Norma+Pi%c3%b1a) | Norma Piña is a Mexican dish made with shredded beef, potatoes, and carrots cooked in a tomato-based sauce. The name of the dish comes from the Spanish words for "shredded beef" (carne deshebrada) and "pineapple" (piña). In English, Norma Piña translates to "Shredded Beef with Pineapple". |
-| 14 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
-| 15 | [J COLE](http://twitter.com/search?q=J+COLE) | N/A |
-| 16 | [Monterrey](http://twitter.com/search?q=Monterrey) | N/A |
-| 17 | [Materia Electoral](http://twitter.com/search?q=Materia+Electoral) | N/A |
-| 18 | [Nuevo Laredo](http://twitter.com/search?q=Nuevo+Laredo) | N/A |
-| 19 | [HYBE PROTECT RM](http://twitter.com/search?q=HYBE+PROTECT+RM) | N/A |
-| 20 | [cancelemos a gloria trevi](http://twitter.com/search?q=cancelemos+a+gloria+trevi) | N/A |
-| 21 | [BIGHIT PROTECT RM](http://twitter.com/search?q=BIGHIT+PROTECT+RM) | N/A |
-| 22 | [twenty one pilots](http://twitter.com/search?q=twenty+one+pilots) | N/A |
-| 23 | [Lance Stroll](http://twitter.com/search?q=Lance+Stroll) | N/A |
-| 24 | [OLLIE](http://twitter.com/search?q=OLLIE) | N/A |
-| 25 | [Justin Bieber](http://twitter.com/search?q=Justin+Bieber) | N/A |
-| 26 | [Travis](http://twitter.com/search?q=Travis) | N/A |
-| 27 | [Pal Norte](http://twitter.com/search?q=Pal+Norte) | N/A |
-| 28 | [Unión Hidalgo](http://twitter.com/search?q=Uni%c3%b3n+Hidalgo) | N/A |
-| 29 | [Josefa Ortiz de Domínguez](http://twitter.com/search?q=Josefa+Ortiz+de+Dom%c3%adnguez) | N/A |
-| 30 | [Komanche](http://twitter.com/search?q=Komanche) | N/A |
-| 31 | [Tania Rincón](http://twitter.com/search?q=Tania+Rinc%c3%b3n) | N/A |
-| 32 | [Bienvenido Marzo](http://twitter.com/search?q=Bienvenido+Marzo) | N/A |
-| 33 | [JISOO THE FACE OF DIOR](http://twitter.com/search?q=JISOO+THE+FACE+OF+DIOR) | N/A |
-| 34 | [medalla golden champ](http://twitter.com/search?q=medalla+golden+champ) | N/A |
-| 35 | [all of the girls](http://twitter.com/search?q=all+of+the+girls) | N/A |
-| 36 | [ON THE STREET IS COMING](http://twitter.com/search?q=ON+THE+STREET+IS+COMING) | N/A |
-| 37 | [Missa](http://twitter.com/search?q=Missa) | N/A |
-| 38 | [Edmundo Jacobo Molina](http://twitter.com/search?q=Edmundo+Jacobo+Molina) | N/A |
-| 39 | [Logro](http://twitter.com/search?q=Logro) | N/A |
-| 40 | [Santa Catarina](http://twitter.com/search?q=Santa+Catarina) | N/A |
-| 41 | [medaliud star](http://twitter.com/search?q=medaliud+star) | N/A |
-| 42 | [RICKY](http://twitter.com/search?q=RICKY) | N/A |
-| 43 | [pika](http://twitter.com/search?q=pika) | N/A |
-| 44 | [pato zambrano](http://twitter.com/search?q=pato+zambrano) | N/A |
-| 45 | [Alfredo Adame](http://twitter.com/search?q=Alfredo+Adame) | Alfredo Adame is a Mexican actor, comedian, and television host. He is best known for his roles in the television series El Chavo del Ocho and El Chapulín Colorado. In English, the name Alfredo Adame means "Protector of the People". |
-| 46 | [TWICE BILLBOARD AWARD](http://twitter.com/search?q=TWICE+BILLBOARD+AWARD) | N/A |
-| 47 | [Poncho De Nigris](http://twitter.com/search?q=Poncho+De+Nigris) | N/A |
+| 8 | [Samuel](http://twitter.com/search?q=Samuel) | N/A |
+| 9 | [La Tigresa](http://twitter.com/search?q=La+Tigresa) | N/A |
+| 10 | [MATTHEW](http://twitter.com/search?q=MATTHEW) | N/A |
+| 11 | [PARA NO VERTE MÁS](http://twitter.com/search?q=PARA+NO+VERTE+M%c3%81S) | N/A |
+| 12 | [Edmundo Jacobo](http://twitter.com/search?q=Edmundo+Jacobo) | N/A |
+| 13 | [Blink](http://twitter.com/search?q=Blink) | N/A |
+| 14 | [Marzo con M](http://twitter.com/search?q=Marzo+con+M) | N/A |
+| 15 | [Norma Piña](http://twitter.com/search?q=Norma+Pi%c3%b1a) | Norma Piña is a Mexican dish made with shredded beef, potatoes, and carrots cooked in a tomato-based sauce. The name of the dish comes from the Spanish words for "shredded beef" (carne deshebrada) and "pineapple" (piña). In English, Norma Piña translates to "Shredded Beef with Pineapple". |
+| 16 | [Josefa Ortiz de Domínguez](http://twitter.com/search?q=Josefa+Ortiz+de+Dom%c3%adnguez) | N/A |
+| 17 | [J COLE](http://twitter.com/search?q=J+COLE) | N/A |
+| 18 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
+| 19 | [Plan B](http://twitter.com/search?q=Plan+B) | N/A |
+| 20 | [Monterrey](http://twitter.com/search?q=Monterrey) | N/A |
+| 21 | [Universidad Complutense](http://twitter.com/search?q=Universidad+Complutense) | N/A |
+| 22 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
+| 23 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 24 | [Nuevo Laredo](http://twitter.com/search?q=Nuevo+Laredo) | N/A |
+| 25 | [CANCELEMOS A GLORIA TREVI](http://twitter.com/search?q=CANCELEMOS+A+GLORIA+TREVI) | N/A |
+| 26 | [Materia Electoral](http://twitter.com/search?q=Materia+Electoral) | N/A |
+| 27 | [KEITA](http://twitter.com/search?q=KEITA) | N/A |
+| 28 | [Excelente Jueves](http://twitter.com/search?q=Excelente+Jueves) | N/A |
+| 29 | [twenty one pilots](http://twitter.com/search?q=twenty+one+pilots) | N/A |
+| 30 | [Lola Cueto](http://twitter.com/search?q=Lola+Cueto) | N/A |
+| 31 | [Travis](http://twitter.com/search?q=Travis) | N/A |
+| 32 | [medalla golden champ](http://twitter.com/search?q=medalla+golden+champ) | N/A |
+| 33 | [HYBE PROTECT RM](http://twitter.com/search?q=HYBE+PROTECT+RM) | N/A |
+| 34 | [BIGHIT PROTECT RM](http://twitter.com/search?q=BIGHIT+PROTECT+RM) | N/A |
+| 35 | [Komanche](http://twitter.com/search?q=Komanche) | N/A |
+| 36 | [Justin Bieber](http://twitter.com/search?q=Justin+Bieber) | N/A |
+| 37 | [Unión Hidalgo](http://twitter.com/search?q=Uni%c3%b3n+Hidalgo) | N/A |
+| 38 | [Bienvenido Marzo](http://twitter.com/search?q=Bienvenido+Marzo) | N/A |
+| 39 | [Pal Norte](http://twitter.com/search?q=Pal+Norte) | N/A |
+| 40 | [Tania Rincón](http://twitter.com/search?q=Tania+Rinc%c3%b3n) | N/A |
+| 41 | [ON THE STREET IS COMING](http://twitter.com/search?q=ON+THE+STREET+IS+COMING) | N/A |
+| 42 | [Logro](http://twitter.com/search?q=Logro) | N/A |
+| 43 | [all of the girls](http://twitter.com/search?q=all+of+the+girls) | N/A |
+| 44 | [Santa Catarina](http://twitter.com/search?q=Santa+Catarina) | N/A |
+| 45 | [airto](http://twitter.com/search?q=airto) | N/A |
+| 46 | [Pato Zambrano](http://twitter.com/search?q=Pato+Zambrano) | N/A |
+| 47 | [medaliud star](http://twitter.com/search?q=medaliud+star) | N/A |
 
 
 

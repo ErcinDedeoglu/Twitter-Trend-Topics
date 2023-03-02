@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rio de Janeiro
 
-📆 Last Updated: `2023-03-02 14:17:43 UTC`
+📆 Last Updated: `2023-03-02 15:16:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Av Brasil](http://twitter.com/search?q=Av+Brasil) | N/A |
-| 2 | [#bomdia](http://twitter.com/search?q=%23bomdia) | N/A |
-| 3 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 4 | [AURORA](http://twitter.com/search?q=AURORA) | N/A |
-| 5 | [#FREENBECKxFANDOMLIVE](http://twitter.com/search?q=%23FREENBECKxFANDOMLIVE) | N/A |
-| 6 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
-| 7 | [#LOUDWIN](http://twitter.com/search?q=%23LOUDWIN) | N/A |
-| 8 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
-| 9 | [takuto](http://twitter.com/search?q=takuto) | N/A |
-| 10 | [Misto](http://twitter.com/search?q=Misto) | N/A |
-| 11 | [Coreia do Norte](http://twitter.com/search?q=Coreia+do+Norte) | N/A |
-| 12 | [riley keough](http://twitter.com/search?q=riley+keough) | N/A |
-| 13 | [#MoonlightChickenFinalEP](http://twitter.com/search?q=%23MoonlightChickenFinalEP) | N/A |
-| 14 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 15 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
-| 16 | [Mamonas Assassinas](http://twitter.com/search?q=Mamonas+Assassinas) | N/A |
-| 17 | [Anielle Franco](http://twitter.com/search?q=Anielle+Franco) | Anielle Franco is a Brazilian name. It is derived from the Latin name Anna, which means "grace" or "favor". |
-| 18 | [Abin](http://twitter.com/search?q=Abin) | N/A |
-| 19 | [Drugo](http://twitter.com/search?q=Drugo) | N/A |
-| 20 | [jiho](http://twitter.com/search?q=jiho) | N/A |
-| 21 | [hwanhee](http://twitter.com/search?q=hwanhee) | N/A |
-| 22 | [THE RIVER](http://twitter.com/search?q=THE+RIVER) | N/A |
-| 23 | [impossible woman](http://twitter.com/search?q=impossible+woman) | N/A |
-| 24 | [cafu](http://twitter.com/search?q=cafu) | N/A |
-| 25 | [J COLE](http://twitter.com/search?q=J+COLE) | N/A |
-| 26 | [RED CARPET](http://twitter.com/search?q=RED+CARPET) | N/A |
-| 27 | [Bolsa Família](http://twitter.com/search?q=Bolsa+Fam%c3%adlia) | N/A |
-| 28 | [Jongwoo](http://twitter.com/search?q=Jongwoo) | N/A |
-| 29 | [Casa Civil](http://twitter.com/search?q=Casa+Civil) | N/A |
-| 30 | [Dedal](http://twitter.com/search?q=Dedal) | N/A |
-| 31 | [No. Scrobbles](http://twitter.com/search?q=No.+Scrobbles) | N/A |
-| 32 | [Top Artist](http://twitter.com/search?q=Top+Artist) | N/A |
+| 1 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
+| 2 | [Ângelo](http://twitter.com/search?q=%c3%82ngelo) | N/A |
+| 3 | [MATTHEW](http://twitter.com/search?q=MATTHEW) | N/A |
+| 4 | [SEM SENTIMENTO](http://twitter.com/search?q=SEM+SENTIMENTO) | N/A |
+| 5 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 6 | [AURORA](http://twitter.com/search?q=AURORA) | N/A |
+| 7 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 8 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 9 | [KEITA](http://twitter.com/search?q=KEITA) | N/A |
+| 10 | [#FREENBECKxFANDOMLIVE](http://twitter.com/search?q=%23FREENBECKxFANDOMLIVE) | N/A |
+| 11 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 12 | [#LOUDWIN](http://twitter.com/search?q=%23LOUDWIN) | N/A |
+| 13 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
+| 14 | [the river](http://twitter.com/search?q=the+river) | N/A |
+| 15 | [riley keough](http://twitter.com/search?q=riley+keough) | N/A |
+| 16 | [yujin](http://twitter.com/search?q=yujin) | N/A |
+| 17 | [Misto](http://twitter.com/search?q=Misto) | N/A |
+| 18 | [Gunwook](http://twitter.com/search?q=Gunwook) | N/A |
+| 19 | [two against three](http://twitter.com/search?q=two+against+three) | N/A |
+| 20 | [Anielle Franco](http://twitter.com/search?q=Anielle+Franco) | Anielle Franco is a Brazilian name. It is derived from the Latin name Anna, which means "grace" or "favor". |
+| 21 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 22 | [Coreia do Norte](http://twitter.com/search?q=Coreia+do+Norte) | N/A |
+| 23 | [Gyuvin](http://twitter.com/search?q=Gyuvin) | N/A |
+| 24 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 25 | [#MoonlightChickenFinalEP](http://twitter.com/search?q=%23MoonlightChickenFinalEP) | N/A |
+| 26 | [Russell](http://twitter.com/search?q=Russell) | N/A |
+| 27 | [takuto](http://twitter.com/search?q=takuto) | N/A |
+| 28 | [Mamonas Assassinas](http://twitter.com/search?q=Mamonas+Assassinas) | N/A |
+| 29 | [OLLIE](http://twitter.com/search?q=OLLIE) | N/A |
+| 30 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
+| 31 | [Abin](http://twitter.com/search?q=Abin) | N/A |
+| 32 | [impossible woman](http://twitter.com/search?q=impossible+woman) | N/A |
 | 33 | [Top Track](http://twitter.com/search?q=Top+Track) | N/A |
-| 34 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
+| 34 | [Taerae](http://twitter.com/search?q=Taerae) | N/A |
 | 35 | [Top Album](http://twitter.com/search?q=Top+Album) | N/A |
-| 36 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 37 | [Locomia](http://twitter.com/search?q=Locomia) | N/A |
-| 38 | [Petrobras](http://twitter.com/search?q=Petrobras) | N/A |
-| 39 | [Wo Long](http://twitter.com/search?q=Wo+Long) | N/A |
-| 40 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 41 | [Flamenguista](http://twitter.com/search?q=Flamenguista) | N/A |
-| 42 | [Operação](http://twitter.com/search?q=Opera%c3%a7%c3%a3o) | N/A |
-| 43 | [FANTINEL CASSADO](http://twitter.com/search?q=FANTINEL+CASSADO) | N/A |
-| 44 | [Ivete](http://twitter.com/search?q=Ivete) | Ivete is a Portuguese female name derived from the Latin name Iveta, which means “yew tree”. In English, it can be translated to Evette or Yvette. |
-| 45 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 46 | [Alexandre Silveira](http://twitter.com/search?q=Alexandre+Silveira) | N/A |
-| 47 | [Marjorie](http://twitter.com/search?q=Marjorie) | Marjorie is a female given name of French origin, derived from the Latin Margarita, meaning "pearl". It is also a Scottish form of Margaret. |
-| 48 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 49 | [Fernando Diniz](http://twitter.com/search?q=Fernando+Diniz) | N/A |
-| 50 | [Galvão Bueno](http://twitter.com/search?q=Galv%c3%a3o+Bueno) | N/A |
+| 36 | [No. Scrobbles](http://twitter.com/search?q=No.+Scrobbles) | N/A |
+| 37 | [Top Artist](http://twitter.com/search?q=Top+Artist) | N/A |
+| 38 | [#RedRubyDaSleeze](http://twitter.com/search?q=%23RedRubyDaSleeze) | N/A |
+| 39 | [Ter Stegen](http://twitter.com/search?q=Ter+Stegen) | Ter Stegen is the surname of German professional footballer Marc-André ter Stegen. He currently plays as a goalkeeper for FC Barcelona and the German national team. In English, Ter Stegen means "from Stegen", referring to his hometown of Mönchengladbach, Germany. |
+| 40 | [Bolsa Família](http://twitter.com/search?q=Bolsa+Fam%c3%adlia) | N/A |
+| 41 | [hwanhee](http://twitter.com/search?q=hwanhee) | N/A |
+| 42 | [Drugo](http://twitter.com/search?q=Drugo) | N/A |
+| 43 | [still alive](http://twitter.com/search?q=still+alive) | N/A |
+| 44 | [El Clássico](http://twitter.com/search?q=El+Cl%c3%a1ssico) | N/A |
+| 45 | [Jongwoo](http://twitter.com/search?q=Jongwoo) | N/A |
+| 46 | [Cafu](http://twitter.com/search?q=Cafu) | N/A |
+| 47 | [Casa Civil](http://twitter.com/search?q=Casa+Civil) | N/A |
+| 48 | [Dedal](http://twitter.com/search?q=Dedal) | N/A |
+| 49 | [jiho](http://twitter.com/search?q=jiho) | N/A |
+| 50 | [J COLE](http://twitter.com/search?q=J+COLE) | N/A |
 
 
 
