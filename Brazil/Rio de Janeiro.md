@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rio de Janeiro
 
-📆 Last Updated: `2023-03-02 02:43:17 UTC`
+📆 Last Updated: `2023-03-02 03:23:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Brisa](http://twitter.com/search?q=Brisa) | N/A |
-| 2 | [Thaissa](http://twitter.com/search?q=Thaissa) | N/A |
-| 3 | [jennie](http://twitter.com/search?q=jennie) | N/A |
-| 4 | [Guanabara](http://twitter.com/search?q=Guanabara) | N/A |
-| 5 | [Paulo Vieira](http://twitter.com/search?q=Paulo+Vieira) | Paulo Vieira is a Portuguese name. It is derived from the Latin name Paulus, which means "small" or "humble". The surname Vieira is derived from the Latin word vītālis, meaning "vital" or "full of life". In English, Paulo Vieira can be translated to mean "Humble Vitality". |
-| 6 | [#Travessia](http://twitter.com/search?q=%23Travessia) | #Travessia is a Portuguese word meaning “crossing” or “journey”. It is often used to refer to a journey of discovery, exploration, or transformation. |
-| 7 | [Ivete](http://twitter.com/search?q=Ivete) | Ivete is a Portuguese female name derived from the Latin name Iveta, which means “yew tree”. In English, it can be translated to Evette or Yvette. |
-| 8 | [Bragantino](http://twitter.com/search?q=Bragantino) | N/A |
-| 9 | [Tiquinho Soares](http://twitter.com/search?q=Tiquinho+Soares) | N/A |
-| 10 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 11 | [Key e Black](http://twitter.com/search?q=Key+e+Black) | N/A |
+| 1 | [Guanabara](http://twitter.com/search?q=Guanabara) | N/A |
+| 2 | [Lumiar](http://twitter.com/search?q=Lumiar) | N/A |
+| 3 | [Paulo Vieira](http://twitter.com/search?q=Paulo+Vieira) | Paulo Vieira is a Portuguese name. It is derived from the Latin name Paulus, which means "small" or "humble". The surname Vieira is derived from the Latin word vītālis, meaning "vital" or "full of life". In English, Paulo Vieira can be translated to mean "Humble Vitality". |
+| 4 | [Ivete](http://twitter.com/search?q=Ivete) | Ivete is a Portuguese female name derived from the Latin name Iveta, which means “yew tree”. In English, it can be translated to Evette or Yvette. |
+| 5 | [#Travessia](http://twitter.com/search?q=%23Travessia) | #Travessia is a Portuguese word meaning “crossing” or “journey”. It is often used to refer to a journey of discovery, exploration, or transformation. |
+| 6 | [Tiquinho Soares](http://twitter.com/search?q=Tiquinho+Soares) | N/A |
+| 7 | [Brisa](http://twitter.com/search?q=Brisa) | N/A |
+| 8 | [Big Fone](http://twitter.com/search?q=Big+Fone) | Big Fone is a slang term used to refer to a large, expensive mobile phone. It is often used to describe a phone that is seen as being luxurious or ostentatious. |
+| 9 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 10 | [Bragantino](http://twitter.com/search?q=Bragantino) | N/A |
+| 11 | [Thaissa](http://twitter.com/search?q=Thaissa) | N/A |
 | 12 | [Deyverson](http://twitter.com/search?q=Deyverson) | N/A |
 | 13 | [sam levinson](http://twitter.com/search?q=sam+levinson) | N/A |
 | 14 | [Iguaçu](http://twitter.com/search?q=Igua%c3%a7u) | N/A |
-| 15 | [João Gomes](http://twitter.com/search?q=Jo%c3%a3o+Gomes) | João Gomes is a Portuguese name. It is the equivalent of John Smith in English. The literal translation of João Gomes is John Gomes. |
-| 16 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 17 | [#Rio458](http://twitter.com/search?q=%23Rio458) | N/A |
-| 18 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
+| 15 | [jennie](http://twitter.com/search?q=jennie) | N/A |
+| 16 | [João Gomes](http://twitter.com/search?q=Jo%c3%a3o+Gomes) | João Gomes is a Portuguese name. It is the equivalent of John Smith in English. The literal translation of João Gomes is John Gomes. |
+| 17 | [#Rio458Anos](http://twitter.com/search?q=%23Rio458Anos) | N/A |
+| 18 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
 | 19 | [Vargas](http://twitter.com/search?q=Vargas) | Vargas is a Spanish surname derived from the Latin word "varga," which means "wolf." It is also a common given name in Spanish-speaking countries. In English, Vargas can be translated to mean "wolf." |
-| 20 | [#AMagiaAconteceNoBBB](http://twitter.com/search?q=%23AMagiaAconteceNoBBB) | N/A |
-| 21 | [Hulk](http://twitter.com/search?q=Hulk) | Hulk is a fictional character created by Marvel Comics. He is a large, green humanoid with superhuman strength and invulnerability. The character first appeared in the comic book The Incredible Hulk #1 in May 1962. His catchphrase is "Hulk Smash!" |
-| 22 | [#FreeAnitta](http://twitter.com/search?q=%23FreeAnitta) | N/A |
-| 23 | [Patrick](http://twitter.com/search?q=Patrick) | Patrick is a given name derived from the Latin name Patricius, meaning "nobleman". It is a popular name in many English-speaking countries, particularly in Ireland, where it is the third most common male name. |
-| 24 | [Dodô](http://twitter.com/search?q=Dod%c3%b4) | N/A |
-| 25 | [Carabobo](http://twitter.com/search?q=Carabobo) | Carabobo is a state in Venezuela. Its name is derived from the Carabobo tribe, which inhabited the area before the Spanish colonization of the Americas. In English, it means "Valley of the Brave". |
-| 26 | [Nathan Silva](http://twitter.com/search?q=Nathan+Silva) | Nathan Silva is a Portuguese name. It is derived from the Hebrew name Natan, which means "he gave". It can also be translated as "gift of God". |
-| 27 | [Atlético Mineiro](http://twitter.com/search?q=Atl%c3%a9tico+Mineiro) | N/A |
-| 28 | [#TWICE_BreakthroughAward](http://twitter.com/search?q=%23TWICE_BreakthroughAward) | N/A |
-| 29 | [Warner](http://twitter.com/search?q=Warner) | N/A |
+| 20 | [#FreeAnitta](http://twitter.com/search?q=%23FreeAnitta) | N/A |
+| 21 | [#AMagiaAconteceNoBBB](http://twitter.com/search?q=%23AMagiaAconteceNoBBB) | N/A |
+| 22 | [Hulk](http://twitter.com/search?q=Hulk) | Hulk is a fictional character created by Marvel Comics. He is a large, green humanoid with superhuman strength and invulnerability. The character first appeared in the comic book The Incredible Hulk #1 in May 1962. His catchphrase is "Hulk Smash!" |
+| 23 | [#BBWomenInMusic](http://twitter.com/search?q=%23BBWomenInMusic) | N/A |
+| 24 | [Patrick](http://twitter.com/search?q=Patrick) | Patrick is a given name derived from the Latin name Patricius, meaning "nobleman". It is a popular name in many English-speaking countries, particularly in Ireland, where it is the third most common male name. |
+| 25 | [Warner](http://twitter.com/search?q=Warner) | N/A |
+| 26 | [Carabobo](http://twitter.com/search?q=Carabobo) | Carabobo is a state in Venezuela. Its name is derived from the Carabobo tribe, which inhabited the area before the Spanish colonization of the Americas. In English, it means "Valley of the Brave". |
+| 27 | [Dodô](http://twitter.com/search?q=Dod%c3%b4) | N/A |
+| 28 | [Atlético Mineiro](http://twitter.com/search?q=Atl%c3%a9tico+Mineiro) | N/A |
+| 29 | [Nathan Silva](http://twitter.com/search?q=Nathan+Silva) | Nathan Silva is a Portuguese name. It is derived from the Hebrew name Natan, which means "he gave". It can also be translated as "gift of God". |
 | 30 | [Lemos](http://twitter.com/search?q=Lemos) | N/A |
 | 31 | [Pedrinho](http://twitter.com/search?q=Pedrinho) | Pedrinho is a Portuguese nickname for the name Pedro, which is the Spanish and Portuguese form of Peter. In English, it would be translated to Peter or Pete. |
-| 32 | [Cauly](http://twitter.com/search?q=Cauly) | N/A |
-| 33 | [Zaracho](http://twitter.com/search?q=Zaracho) | N/A |
-| 34 | [CHIARA VAI CASAR](http://twitter.com/search?q=CHIARA+VAI+CASAR) | N/A |
-| 35 | [Top Artist](http://twitter.com/search?q=Top+Artist) | N/A |
-| 36 | [Top Album](http://twitter.com/search?q=Top+Album) | N/A |
+| 32 | [Avaí](http://twitter.com/search?q=Ava%c3%ad) | N/A |
+| 33 | [Coudet](http://twitter.com/search?q=Coudet) | N/A |
+| 34 | [Cauly](http://twitter.com/search?q=Cauly) | N/A |
+| 35 | [Retrô](http://twitter.com/search?q=Retr%c3%b4) | N/A |
+| 36 | [Zaracho](http://twitter.com/search?q=Zaracho) | N/A |
 | 37 | [Top Track](http://twitter.com/search?q=Top+Track) | N/A |
-| 38 | [Allan](http://twitter.com/search?q=Allan) | N/A |
-| 39 | [No. Scrobbles](http://twitter.com/search?q=No.+Scrobbles) | N/A |
-| 40 | [Cristaldo](http://twitter.com/search?q=Cristaldo) | Cristaldo is a Portuguese name derived from the Latin name “Christophorus”, which means “Christ-bearer”. It is a combination of the words “Cristo” (Christ) and “Aldo” (bearer). In English, Cristaldo can be translated to mean "Christ-bearer". |
-| 41 | [Everson](http://twitter.com/search?q=Everson) | Everson is a surname of English origin. It is derived from the Old English personal name Eoforwine, which means "boar friend". |
-| 42 | [Retrô](http://twitter.com/search?q=Retr%c3%b4) | N/A |
-| 43 | [Ferreira](http://twitter.com/search?q=Ferreira) | Ferreira is a Portuguese surname derived from the Latin word ferrum, meaning "iron". It is also a common given name in Portuguese-speaking countries. In English, it can be translated to mean "Ironworker" or "Blacksmith". |
-| 44 | [DEMI THE FINAL ONE](http://twitter.com/search?q=DEMI+THE+FINAL+ONE) | N/A |
-| 45 | [Thiago Santos](http://twitter.com/search?q=Thiago+Santos) | Thiago Santos is a Brazilian mixed martial artist who competes in the Ultimate Fighting Championship (UFC). In English, the name Thiago Santos means "Saint James". |
-| 46 | [David Duarte](http://twitter.com/search?q=David+Duarte) | N/A |
-| 47 | [É A RECONSTRUÇÃO DO GIGANTE](http://twitter.com/search?q=%c3%89+A+RECONSTRU%c3%87%c3%83O+DO+GIGANTE) | N/A |
-| 48 | [Lauren](http://twitter.com/search?q=Lauren) | N/A |
-| 49 | [Campinense](http://twitter.com/search?q=Campinense) | N/A |
-| 50 | [Vitor Gabriel](http://twitter.com/search?q=Vitor+Gabriel) | N/A |
+| 38 | [Top Album](http://twitter.com/search?q=Top+Album) | N/A |
+| 39 | [Top Artist](http://twitter.com/search?q=Top+Artist) | N/A |
+| 40 | [No. Scrobbles](http://twitter.com/search?q=No.+Scrobbles) | N/A |
+| 41 | [Allan](http://twitter.com/search?q=Allan) | N/A |
+| 42 | [Cristaldo](http://twitter.com/search?q=Cristaldo) | Cristaldo is a Portuguese name derived from the Latin name “Christophorus”, which means “Christ-bearer”. It is a combination of the words “Cristo” (Christ) and “Aldo” (bearer). In English, Cristaldo can be translated to mean "Christ-bearer". |
+| 43 | [Everson](http://twitter.com/search?q=Everson) | Everson is a surname of English origin. It is derived from the Old English personal name Eoforwine, which means "boar friend". |
+| 44 | [É A RECONSTRUÇÃO DO GIGANTE](http://twitter.com/search?q=%c3%89+A+RECONSTRU%c3%87%c3%83O+DO+GIGANTE) | N/A |
+| 45 | [Ferreira](http://twitter.com/search?q=Ferreira) | Ferreira is a Portuguese surname derived from the Latin word ferrum, meaning "iron". It is also a common given name in Portuguese-speaking countries. In English, it can be translated to mean "Ironworker" or "Blacksmith". |
+| 46 | [Diogo Barbosa](http://twitter.com/search?q=Diogo+Barbosa) | N/A |
+| 47 | [O Galo](http://twitter.com/search?q=O+Galo) | N/A |
+| 48 | [Thiago Santos](http://twitter.com/search?q=Thiago+Santos) | Thiago Santos is a Brazilian mixed martial artist who competes in the Ultimate Fighting Championship (UFC). In English, the name Thiago Santos means "Saint James". |
+| 49 | [David Duarte](http://twitter.com/search?q=David+Duarte) | N/A |
+| 50 | [DEMI THE FINAL ONE](http://twitter.com/search?q=DEMI+THE+FINAL+ONE) | N/A |
 
 
 

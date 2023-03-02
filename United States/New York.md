@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-03-02 02:43:50 UTC`
+📆 Last Updated: `2023-03-02 03:24:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Grimes](http://twitter.com/search?q=Grimes) | Grimes is the stage name of Canadian singer, songwriter, record producer and visual artist Claire Boucher. Her music is a blend of electronic, pop, hip hop, and R&B styles. The name Grimes is derived from her given name and a variation of the word grimace. |
-| 2 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
-| 3 | [Mika March](http://twitter.com/search?q=Mika+March) | N/A |
-| 4 | [Josh Hart](http://twitter.com/search?q=Josh+Hart) | N/A |
-| 5 | [Cam Johnson](http://twitter.com/search?q=Cam+Johnson) | Cam Johnson is a slang term used to describe someone who is very confident and outgoing. It can also be used to describe someone who is always the life of the party. |
-| 6 | [Ottawa](http://twitter.com/search?q=Ottawa) | N/A |
-| 7 | [Portillo](http://twitter.com/search?q=Portillo) | N/A |
-| 8 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
+| 2 | [Cam Johnson](http://twitter.com/search?q=Cam+Johnson) | Cam Johnson is a slang term used to describe someone who is very confident and outgoing. It can also be used to describe someone who is always the life of the party. |
+| 3 | [Josh Hart](http://twitter.com/search?q=Josh+Hart) | N/A |
+| 4 | [Chychrun](http://twitter.com/search?q=Chychrun) | N/A |
+| 5 | [Ottawa](http://twitter.com/search?q=Ottawa) | N/A |
+| 6 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
+| 7 | [Mandalorian](http://twitter.com/search?q=Mandalorian) | N/A |
+| 8 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
 | 9 | [Kevyn Adams](http://twitter.com/search?q=Kevyn+Adams) | N/A |
-| 10 | [sam levinson](http://twitter.com/search?q=sam+levinson) | N/A |
-| 11 | [Mandalorian](http://twitter.com/search?q=Mandalorian) | N/A |
-| 12 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
+| 10 | [Grogu](http://twitter.com/search?q=Grogu) | N/A |
+| 11 | [sam levinson](http://twitter.com/search?q=sam+levinson) | N/A |
+| 12 | [Petro](http://twitter.com/search?q=Petro) | N/A |
 | 13 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
-| 14 | [NYPD](http://twitter.com/search?q=NYPD) | N/A |
-| 15 | [Dahlin](http://twitter.com/search?q=Dahlin) | Dahlin is a term of endearment, similar to sweetheart or darling. It is often used as a term of affection between family members, friends, and romantic partners. |
-| 16 | [Buffalo Fire Department](http://twitter.com/search?q=Buffalo+Fire+Department) | N/A |
-| 17 | [Newark](http://twitter.com/search?q=Newark) | N/A |
-| 18 | [Cruz](http://twitter.com/search?q=Cruz) | N/A |
-| 19 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 20 | [#Survivor44](http://twitter.com/search?q=%23Survivor44) | N/A |
-| 21 | [#SistasOnBET](http://twitter.com/search?q=%23SistasOnBET) | #SistasOnBET is a hashtag used to promote the television series Sistas, which airs on the BET network. The show follows a group of single black women in Atlanta as they navigate their complicated love lives, careers, and friendships. The hashtag is used to promote the show and encourage viewers to watch it. |
-| 22 | [#MAFS](http://twitter.com/search?q=%23MAFS) | N/A |
-| 23 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
-| 24 | [#MarriedAtFirstSight](http://twitter.com/search?q=%23MarriedAtFirstSight) | #MarriedAtFirstSight is a reality television show in which two strangers are matched by experts and then meet for the first time at their wedding. The couples then go on to live together and decide whether or not to stay married after several weeks. |
-| 25 | [Vandy](http://twitter.com/search?q=Vandy) | Vandy is a nickname for Vanderbilt University, a private research university located in Nashville, Tennessee. The name is derived from the university's namesake, Cornelius Vanderbilt. |
-| 26 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
-| 27 | [Hobbs](http://twitter.com/search?q=Hobbs) | N/A |
-| 28 | [Jalen Brunson](http://twitter.com/search?q=Jalen+Brunson) | Jalen Brunson is an American professional basketball player who currently plays for the Dallas Mavericks of the National Basketball Association (NBA). His name is a combination of his father's first name, John, and his mother's first name, Lenora. |
-| 29 | [Hextall](http://twitter.com/search?q=Hextall) | N/A |
-| 30 | [Jaden Ivey](http://twitter.com/search?q=Jaden+Ivey) | N/A |
-| 31 | [Granlund](http://twitter.com/search?q=Granlund) | N/A |
+| 14 | [Euphoria](http://twitter.com/search?q=Euphoria) | N/A |
+| 15 | [Women's History Month](http://twitter.com/search?q=Women%27s+History+Month) | N/A |
+| 16 | [Cruz](http://twitter.com/search?q=Cruz) | N/A |
+| 17 | [Mando](http://twitter.com/search?q=Mando) | N/A |
+| 18 | [Buffalo Fire Department](http://twitter.com/search?q=Buffalo+Fire+Department) | N/A |
+| 19 | [Newark](http://twitter.com/search?q=Newark) | N/A |
+| 20 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 21 | [#Survivor44](http://twitter.com/search?q=%23Survivor44) | N/A |
+| 22 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
+| 23 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
+| 24 | [#SistasOnBET](http://twitter.com/search?q=%23SistasOnBET) | #SistasOnBET is a hashtag used to promote the television series Sistas, which airs on the BET network. The show follows a group of single black women in Atlanta as they navigate their complicated love lives, careers, and friendships. The hashtag is used to promote the show and encourage viewers to watch it. |
+| 25 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
+| 26 | [#MAFS](http://twitter.com/search?q=%23MAFS) | N/A |
+| 27 | [Wanda](http://twitter.com/search?q=Wanda) | N/A |
+| 28 | [#BBWomenInMusic](http://twitter.com/search?q=%23BBWomenInMusic) | N/A |
+| 29 | [Donovan Mitchell](http://twitter.com/search?q=Donovan+Mitchell) | Donovan Mitchell is an American professional basketball player who currently plays for the Utah Jazz of the National Basketball Association (NBA). His nickname is "Spida" and he is known for his explosive athleticism and scoring ability. |
+| 30 | [Vandy](http://twitter.com/search?q=Vandy) | Vandy is a nickname for Vanderbilt University, a private research university located in Nashville, Tennessee. The name is derived from the university's namesake, Cornelius Vanderbilt. |
+| 31 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
 | 32 | [Jupiter and Venus](http://twitter.com/search?q=Jupiter+and+Venus) | N/A |
-| 33 | [Big Bill](http://twitter.com/search?q=Big+Bill) | Big Bill is a slang term used to refer to someone who is very successful or influential. It can also be used to describe someone who is very wealthy or powerful. |
-| 34 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 35 | [Carolyn](http://twitter.com/search?q=Carolyn) | N/A |
+| 33 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
+| 34 | [Hobbs](http://twitter.com/search?q=Hobbs) | N/A |
+| 35 | [Danhausen](http://twitter.com/search?q=Danhausen) | N/A |
 | 36 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
-| 37 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
-| 38 | [Riho](http://twitter.com/search?q=Riho) | N/A |
-| 39 | [Rupp](http://twitter.com/search?q=Rupp) | Rupp is an acronym for the phrase "Recognize, Understand, Prepare, and Perform". It is a strategy used to help people achieve their goals by breaking them down into smaller steps. The idea is to recognize the goal, understand what it will take to reach it, prepare for the journey ahead, and then perform the necessary actions to make it happen. |
-| 40 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 41 | [Cason](http://twitter.com/search?q=Cason) | N/A |
-| 42 | [Christian Cage](http://twitter.com/search?q=Christian+Cage) | N/A |
-| 43 | [Donovan Mitchell](http://twitter.com/search?q=Donovan+Mitchell) | Donovan Mitchell is an American professional basketball player who currently plays for the Utah Jazz of the National Basketball Association (NBA). His nickname is "Spida" and he is known for his explosive athleticism and scoring ability. |
-| 44 | [Maurice](http://twitter.com/search?q=Maurice) | N/A |
-| 45 | [Andi](http://twitter.com/search?q=Andi) | Andi is a unisex name of German origin, derived from the name Andreas. It can be used as a short form of the name or as a stand-alone name. In English, it means "brave" or "manly". |
-| 46 | [Danni](http://twitter.com/search?q=Danni) | N/A |
-| 47 | [Reeves](http://twitter.com/search?q=Reeves) | N/A |
-| 48 | [Orange Cassidy](http://twitter.com/search?q=Orange+Cassidy) | Orange Cassidy is the stage name of American professional wrestler Jonathan Gresham. The name is a reference to the character of Orange Cassidy from the television show It's Always Sunny in Philadelphia. The phrase "Orange Cassidy" has come to mean someone who is laid back and relaxed, often in a humorous way. |
-| 49 | [Jordan Wright](http://twitter.com/search?q=Jordan+Wright) | N/A |
-| 50 | [Pentatonix](http://twitter.com/search?q=Pentatonix) | Pentatonix is an American a cappella group from Arlington, Texas, consisting of vocalists Scott Hoying, Mitch Grassi, Kirstin Maldonado, Kevin Olusola and Matt Sallee. The group's name is derived from the pentatonic scale, a musical scale or mode with five notes per octave. |
+| 37 | [Broome](http://twitter.com/search?q=Broome) | N/A |
+| 38 | [Jaden Ivey](http://twitter.com/search?q=Jaden+Ivey) | N/A |
+| 39 | [Hextall](http://twitter.com/search?q=Hextall) | N/A |
+| 40 | [Tarasenko](http://twitter.com/search?q=Tarasenko) | N/A |
+| 41 | [Granlund](http://twitter.com/search?q=Granlund) | N/A |
+| 42 | [Al Horford](http://twitter.com/search?q=Al+Horford) | Al Horford is a professional basketball player from the Dominican Republic who currently plays for the Philadelphia 76ers of the National Basketball Association (NBA). He is a four-time NBA All-Star and has won two NBA championships with the Boston Celtics. The meaning of Al Horford in English is "a talented basketball player". |
+| 43 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 44 | [Bruce Pearl](http://twitter.com/search?q=Bruce+Pearl) | N/A |
+| 45 | [Paul Reed](http://twitter.com/search?q=Paul+Reed) | N/A |
+| 46 | [Carolyn](http://twitter.com/search?q=Carolyn) | N/A |
+| 47 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
+| 48 | [Big Bill](http://twitter.com/search?q=Big+Bill) | Big Bill is a slang term used to refer to someone who is very successful or influential. It can also be used to describe someone who is very wealthy or powerful. |
+| 49 | [Cason](http://twitter.com/search?q=Cason) | N/A |
+| 50 | [Rupp](http://twitter.com/search?q=Rupp) | Rupp is an acronym for the phrase "Recognize, Understand, Prepare, and Perform". It is a strategy used to help people achieve their goals by breaking them down into smaller steps. The idea is to recognize the goal, understand what it will take to reach it, prepare for the journey ahead, and then perform the necessary actions to make it happen. |
 
 
 

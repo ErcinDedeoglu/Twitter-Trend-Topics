@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gothenburg
 
-📆 Last Updated: `2023-03-02 02:43:26 UTC`
+📆 Last Updated: `2023-03-02 03:23:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,46 +23,46 @@ This is top 50 for [Sweden](</Sweden>)
 | 6 | [lagrådet](http://twitter.com/search?q=lagr%c3%a5det) | N/A |
 | 7 | [Venus](http://twitter.com/search?q=Venus) | N/A |
 | 8 | [IPCC](http://twitter.com/search?q=IPCC) | N/A |
-| 9 | [#vardagpåminplanet](http://twitter.com/search?q=%23vardagp%c3%a5minplanet) | N/A |
-| 10 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 9 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 10 | [#vardagpåminplanet](http://twitter.com/search?q=%23vardagp%c3%a5minplanet) | N/A |
 | 11 | [Ungern](http://twitter.com/search?q=Ungern) | N/A |
-| 12 | [Demirok](http://twitter.com/search?q=Demirok) | N/A |
+| 12 | [demirok](http://twitter.com/search?q=demirok) | N/A |
 | 13 | [#ARSEVE](http://twitter.com/search?q=%23ARSEVE) | N/A |
-| 14 | [#Arsenal](http://twitter.com/search?q=%23Arsenal) | N/A |
-| 15 | [Utdelning](http://twitter.com/search?q=Utdelning) | N/A |
-| 16 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 17 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 18 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
-| 19 | [FA-cupen](http://twitter.com/search?q=FA-cupen) | N/A |
+| 14 | [Utdelning](http://twitter.com/search?q=Utdelning) | N/A |
+| 15 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
+| 16 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 17 | [#Arsenal](http://twitter.com/search?q=%23Arsenal) | N/A |
+| 18 | [fa-cupen](http://twitter.com/search?q=fa-cupen) | N/A |
+| 19 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
 | 20 | [Maja](http://twitter.com/search?q=Maja) | N/A |
 | 21 | [Expo](http://twitter.com/search?q=Expo) | N/A |
-| 22 | [Jota](http://twitter.com/search?q=Jota) | N/A |
-| 23 | [widding](http://twitter.com/search?q=widding) | N/A |
+| 22 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 23 | [Jota](http://twitter.com/search?q=Jota) | N/A |
 | 24 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
 | 25 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
-| 26 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
-| 27 | [Mattias Gardell](http://twitter.com/search?q=Mattias+Gardell) | N/A |
-| 28 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 29 | [Olof Palme](http://twitter.com/search?q=Olof+Palme) | N/A |
-| 30 | [Bolund](http://twitter.com/search?q=Bolund) | N/A |
+| 26 | [widding](http://twitter.com/search?q=widding) | N/A |
+| 27 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
+| 28 | [Olof Palme](http://twitter.com/search?q=Olof+Palme) | N/A |
+| 29 | [Mattias Gardell](http://twitter.com/search?q=Mattias+Gardell) | N/A |
+| 30 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
 | 31 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
 | 32 | [jägersro](http://twitter.com/search?q=j%c3%a4gersro) | N/A |
-| 33 | [Alexandra](http://twitter.com/search?q=Alexandra) | N/A |
+| 33 | [Signal](http://twitter.com/search?q=Signal) | N/A |
 | 34 | [Murre](http://twitter.com/search?q=Murre) | N/A |
-| 35 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
-| 36 | [Danjuma](http://twitter.com/search?q=Danjuma) | Danjuma is a Nigerian name of Yoruba origin. It means "God has done it" in English. |
-| 37 | [Letar](http://twitter.com/search?q=Letar) | N/A |
-| 38 | [Björn Söder](http://twitter.com/search?q=Bj%c3%b6rn+S%c3%b6der) | N/A |
-| 39 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 40 | [Signal](http://twitter.com/search?q=Signal) | N/A |
-| 41 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
-| 42 | [balders](http://twitter.com/search?q=balders) | N/A |
+| 35 | [Alexandra](http://twitter.com/search?q=Alexandra) | N/A |
+| 36 | [letar](http://twitter.com/search?q=letar) | N/A |
+| 37 | [Danjuma](http://twitter.com/search?q=Danjuma) | Danjuma is a Nigerian name of Yoruba origin. It means "God has done it" in English. |
+| 38 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
+| 39 | [Bolund](http://twitter.com/search?q=Bolund) | N/A |
+| 40 | [Björn Söder](http://twitter.com/search?q=Bj%c3%b6rn+S%c3%b6der) | N/A |
+| 41 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 42 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
 | 43 | [Yasin](http://twitter.com/search?q=Yasin) | N/A |
-| 44 | [Cremonese](http://twitter.com/search?q=Cremonese) | N/A |
-| 45 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
+| 44 | [balders](http://twitter.com/search?q=balders) | N/A |
+| 45 | [Cremonese](http://twitter.com/search?q=Cremonese) | N/A |
 | 46 | [Pikamee](http://twitter.com/search?q=Pikamee) | N/A |
-| 47 | [wallenberg](http://twitter.com/search?q=wallenberg) | N/A |
-| 48 | [nättinen](http://twitter.com/search?q=n%c3%a4ttinen) | N/A |
+| 47 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
+| 48 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
 
 
 

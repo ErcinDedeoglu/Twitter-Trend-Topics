@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sacramento
 
-📆 Last Updated: `2023-03-02 02:43:52 UTC`
+📆 Last Updated: `2023-03-02 03:24:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
-| 2 | [IM SEEING YOONGI](http://twitter.com/search?q=IM+SEEING+YOONGI) | N/A |
-| 3 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
-| 4 | [sam levinson](http://twitter.com/search?q=sam+levinson) | N/A |
-| 5 | [$TSLA](http://twitter.com/search?q=%24TSLA) | $TSLA is the stock symbol for Tesla, Inc., an American electric vehicle and clean energy company. It is traded on the Nasdaq stock exchange. |
-| 6 | [Platinum](http://twitter.com/search?q=Platinum) | N/A |
-| 7 | [Schroder](http://twitter.com/search?q=Schroder) | Schroder is a German surname derived from the Old German word "schrodar," meaning "armorer" or "blacksmith." It is also a common given name in Germany, derived from the same root. |
-| 8 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
-| 9 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
-| 10 | [Temecula](http://twitter.com/search?q=Temecula) | N/A |
-| 11 | [taeyong](http://twitter.com/search?q=taeyong) | Taeyong is a Korean given name, derived from the Chinese characters 太 (tài) meaning "great" and 永 (yǒng) meaning "eternal". In English, it can be translated to mean "great eternity". |
-| 12 | [ITS SNOWING](http://twitter.com/search?q=ITS+SNOWING) | N/A |
-| 13 | [#TeslaInvestorDay](http://twitter.com/search?q=%23TeslaInvestorDay) | N/A |
-| 14 | [Burbank](http://twitter.com/search?q=Burbank) | N/A |
-| 15 | [Riverside](http://twitter.com/search?q=Riverside) | N/A |
-| 16 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
-| 17 | [Anaheim](http://twitter.com/search?q=Anaheim) | N/A |
-| 18 | [The Idol](http://twitter.com/search?q=The+Idol) | N/A |
-| 19 | [Hail](http://twitter.com/search?q=Hail) | N/A |
-| 20 | [Ted Cruz](http://twitter.com/search?q=Ted+Cruz) | N/A |
-| 21 | [Orange County](http://twitter.com/search?q=Orange+County) | N/A |
-| 22 | [Army](http://twitter.com/search?q=Army) | N/A |
-| 23 | [Rolling Stone](http://twitter.com/search?q=Rolling+Stone) | N/A |
-| 24 | [Eli Lilly](http://twitter.com/search?q=Eli+Lilly) | N/A |
-| 25 | [Glendale](http://twitter.com/search?q=Glendale) | N/A |
-| 26 | [Grogu](http://twitter.com/search?q=Grogu) | N/A |
-| 27 | [#TheMandalorianXboxSweepstakes](http://twitter.com/search?q=%23TheMandalorianXboxSweepstakes) | N/A |
-| 28 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 29 | [#Survivor44](http://twitter.com/search?q=%23Survivor44) | N/A |
-| 30 | [#SistasOnBET](http://twitter.com/search?q=%23SistasOnBET) | #SistasOnBET is a hashtag used to promote the television series Sistas, which airs on the BET network. The show follows a group of single black women in Atlanta as they navigate their complicated love lives, careers, and friendships. The hashtag is used to promote the show and encourage viewers to watch it. |
-| 31 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
-| 32 | [Vandy](http://twitter.com/search?q=Vandy) | Vandy is a nickname for Vanderbilt University, a private research university located in Nashville, Tennessee. The name is derived from the university's namesake, Cornelius Vanderbilt. |
-| 33 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
-| 34 | [Hobbs](http://twitter.com/search?q=Hobbs) | N/A |
-| 35 | [Jalen Brunson](http://twitter.com/search?q=Jalen+Brunson) | Jalen Brunson is an American professional basketball player who currently plays for the Dallas Mavericks of the National Basketball Association (NBA). His name is a combination of his father's first name, John, and his mother's first name, Lenora. |
-| 36 | [Hextall](http://twitter.com/search?q=Hextall) | N/A |
-| 37 | [Jaden Ivey](http://twitter.com/search?q=Jaden+Ivey) | N/A |
-| 38 | [Granlund](http://twitter.com/search?q=Granlund) | N/A |
-| 39 | [Jupiter and Venus](http://twitter.com/search?q=Jupiter+and+Venus) | N/A |
-| 40 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 41 | [Big Bill](http://twitter.com/search?q=Big+Bill) | Big Bill is a slang term used to refer to someone who is very successful or influential. It can also be used to describe someone who is very wealthy or powerful. |
-| 42 | [Carolyn](http://twitter.com/search?q=Carolyn) | N/A |
-| 43 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
-| 44 | [Riho](http://twitter.com/search?q=Riho) | N/A |
-| 45 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
-| 46 | [Rupp](http://twitter.com/search?q=Rupp) | Rupp is an acronym for the phrase "Recognize, Understand, Prepare, and Perform". It is a strategy used to help people achieve their goals by breaking them down into smaller steps. The idea is to recognize the goal, understand what it will take to reach it, prepare for the journey ahead, and then perform the necessary actions to make it happen. |
-| 47 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 48 | [Cason](http://twitter.com/search?q=Cason) | N/A |
+| 1 | [5M BUILD](http://twitter.com/search?q=5M+BUILD) | N/A |
+| 2 | [Oakland](http://twitter.com/search?q=Oakland) | Oakland is a city in the U.S. state of California, located on the eastern side of San Francisco Bay. It is the largest city and the county seat of Alameda County. Oakland is known for its diverse culture, vibrant art scene, and numerous professional sports teams, including the Oakland Athletics baseball team and the Golden State Warriors basketball team. |
+| 3 | [HOORAY FOR 2](http://twitter.com/search?q=HOORAY+FOR+2) | N/A |
+| 4 | [Schroder](http://twitter.com/search?q=Schroder) | Schroder is a German surname derived from the Old German word "schrodar," meaning "armorer" or "blacksmith." It is also a common given name in Germany, derived from the same root. |
+| 5 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
+| 6 | [IM SEEING YOONGI](http://twitter.com/search?q=IM+SEEING+YOONGI) | N/A |
+| 7 | [Platinum](http://twitter.com/search?q=Platinum) | N/A |
+| 8 | [Petro](http://twitter.com/search?q=Petro) | N/A |
+| 9 | [#WomensHistoryMonth](http://twitter.com/search?q=%23WomensHistoryMonth) | N/A |
+| 10 | [$TSLA](http://twitter.com/search?q=%24TSLA) | $TSLA is the stock symbol for Tesla, Inc., an American electric vehicle and clean energy company. It is traded on the Nasdaq stock exchange. |
+| 11 | [Lonnie](http://twitter.com/search?q=Lonnie) | N/A |
+| 12 | [sam levinson](http://twitter.com/search?q=sam+levinson) | N/A |
+| 13 | [Temecula](http://twitter.com/search?q=Temecula) | N/A |
+| 14 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
+| 15 | [taeyong](http://twitter.com/search?q=taeyong) | Taeyong is a Korean given name, derived from the Chinese characters 太 (tài) meaning "great" and 永 (yǒng) meaning "eternal". In English, it can be translated to mean "great eternity". |
+| 16 | [ITS SNOWING](http://twitter.com/search?q=ITS+SNOWING) | N/A |
+| 17 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
+| 18 | [#TeslaInvestorDay](http://twitter.com/search?q=%23TeslaInvestorDay) | N/A |
+| 19 | [Burbank](http://twitter.com/search?q=Burbank) | N/A |
+| 20 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
+| 21 | [Army](http://twitter.com/search?q=Army) | N/A |
+| 22 | [Rolling Stone](http://twitter.com/search?q=Rolling+Stone) | N/A |
+| 23 | [Hail](http://twitter.com/search?q=Hail) | N/A |
+| 24 | [Grogu](http://twitter.com/search?q=Grogu) | N/A |
+| 25 | [Orange County](http://twitter.com/search?q=Orange+County) | N/A |
+| 26 | [Ted Cruz](http://twitter.com/search?q=Ted+Cruz) | N/A |
+| 27 | [Anaheim](http://twitter.com/search?q=Anaheim) | N/A |
+| 28 | [Riverside](http://twitter.com/search?q=Riverside) | N/A |
+| 29 | [Troy Brown](http://twitter.com/search?q=Troy+Brown) | Troy Brown is a former American football wide receiver who played for the New England Patriots from 1993 to 2007. He was known for his versatility, playing multiple positions on offense and defense. In English, Troy Brown is a name associated with a former professional football player who was known for his versatility. |
+| 30 | [Chychrun](http://twitter.com/search?q=Chychrun) | N/A |
+| 31 | [Eli Lilly](http://twitter.com/search?q=Eli+Lilly) | N/A |
+| 32 | [Glendale](http://twitter.com/search?q=Glendale) | N/A |
+| 33 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 34 | [#Survivor44](http://twitter.com/search?q=%23Survivor44) | N/A |
+| 35 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
+| 36 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
+| 37 | [#SistasOnBET](http://twitter.com/search?q=%23SistasOnBET) | #SistasOnBET is a hashtag used to promote the television series Sistas, which airs on the BET network. The show follows a group of single black women in Atlanta as they navigate their complicated love lives, careers, and friendships. The hashtag is used to promote the show and encourage viewers to watch it. |
+| 38 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
+| 39 | [Wanda](http://twitter.com/search?q=Wanda) | N/A |
+| 40 | [Donovan Mitchell](http://twitter.com/search?q=Donovan+Mitchell) | Donovan Mitchell is an American professional basketball player who currently plays for the Utah Jazz of the National Basketball Association (NBA). His nickname is "Spida" and he is known for his explosive athleticism and scoring ability. |
+| 41 | [Vandy](http://twitter.com/search?q=Vandy) | Vandy is a nickname for Vanderbilt University, a private research university located in Nashville, Tennessee. The name is derived from the university's namesake, Cornelius Vanderbilt. |
+| 42 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
+| 43 | [Jupiter and Venus](http://twitter.com/search?q=Jupiter+and+Venus) | N/A |
+| 44 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
+| 45 | [Hobbs](http://twitter.com/search?q=Hobbs) | N/A |
+| 46 | [Danhausen](http://twitter.com/search?q=Danhausen) | N/A |
+| 47 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
+| 48 | [Broome](http://twitter.com/search?q=Broome) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-03-02 02:43:20 UTC`
+📆 Last Updated: `2023-03-02 03:23:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for [Austria](</Austria>)
 | 4 | [#radiology](http://twitter.com/search?q=%23radiology) | N/A |
 | 5 | [#BeyondFast](http://twitter.com/search?q=%23BeyondFast) | #BeyondFast is a hashtag used to describe something that goes beyond the speed of fast. It is used to emphasize the idea that something is faster than fast, or that it surpasses the speed of fast. |
 | 6 | [#wahl23](http://twitter.com/search?q=%23wahl23) | N/A |
-| 7 | [Siegel](http://twitter.com/search?q=Siegel) | N/A |
-| 8 | [Mitleid](http://twitter.com/search?q=Mitleid) | N/A |
+| 7 | [Mitleid](http://twitter.com/search?q=Mitleid) | N/A |
+| 8 | [siegel](http://twitter.com/search?q=siegel) | N/A |
 | 9 | [Herzliche Gratulation](http://twitter.com/search?q=Herzliche+Gratulation) | N/A |
 | 10 | [März 2023](http://twitter.com/search?q=M%c3%a4rz+2023) | N/A |
-| 11 | [Verfügung](http://twitter.com/search?q=Verf%c3%bcgung) | N/A |
-| 12 | [kärntner](http://twitter.com/search?q=k%c3%a4rntner) | N/A |
+| 11 | [kärntner](http://twitter.com/search?q=k%c3%a4rntner) | N/A |
+| 12 | [Verfügung](http://twitter.com/search?q=Verf%c3%bcgung) | N/A |
 | 13 | [Franz](http://twitter.com/search?q=Franz) | N/A |
 | 14 | [Makler](http://twitter.com/search?q=Makler) | N/A |
 | 15 | [IKEA](http://twitter.com/search?q=IKEA) | N/A |
 | 16 | [Kooperation](http://twitter.com/search?q=Kooperation) | N/A |
-| 17 | [Keller](http://twitter.com/search?q=Keller) | N/A |
-| 18 | [hausverstand](http://twitter.com/search?q=hausverstand) | N/A |
-| 19 | [wirtschaftsbund](http://twitter.com/search?q=wirtschaftsbund) | N/A |
-| 20 | [Autobahnen](http://twitter.com/search?q=Autobahnen) | N/A |
-| 21 | [GIVE US WN BLOOPERS](http://twitter.com/search?q=GIVE+US+WN+BLOOPERS) | N/A |
-| 22 | [Friseur](http://twitter.com/search?q=Friseur) | N/A |
-| 23 | [Tage Woche](http://twitter.com/search?q=Tage+Woche) | N/A |
-| 24 | [Alexandra](http://twitter.com/search?q=Alexandra) | N/A |
-| 25 | [Drohung](http://twitter.com/search?q=Drohung) | N/A |
-| 26 | [Kollegin](http://twitter.com/search?q=Kollegin) | N/A |
-| 27 | [Talkshows](http://twitter.com/search?q=Talkshows) | N/A |
-| 28 | [E-Fuels](http://twitter.com/search?q=E-Fuels) | N/A |
-| 29 | [U-Bahn](http://twitter.com/search?q=U-Bahn) | N/A |
-| 30 | [Pflanzen](http://twitter.com/search?q=Pflanzen) | N/A |
-| 31 | [Marokko](http://twitter.com/search?q=Marokko) | N/A |
-| 32 | [Auswirkungen](http://twitter.com/search?q=Auswirkungen) | N/A |
-| 33 | [bures](http://twitter.com/search?q=bures) | N/A |
-| 34 | [Konkurrenz](http://twitter.com/search?q=Konkurrenz) | N/A |
-| 35 | [dosko](http://twitter.com/search?q=dosko) | N/A |
-| 36 | [Vergewaltigung](http://twitter.com/search?q=Vergewaltigung) | N/A |
-| 37 | [Ziegler](http://twitter.com/search?q=Ziegler) | N/A |
-| 38 | [Vorschläge](http://twitter.com/search?q=Vorschl%c3%a4ge) | N/A |
-| 39 | [rendi-wagner](http://twitter.com/search?q=rendi-wagner) | N/A |
-| 40 | [Beruf](http://twitter.com/search?q=Beruf) | N/A |
-| 41 | [Arbeitsbedingungen](http://twitter.com/search?q=Arbeitsbedingungen) | N/A |
-| 42 | [räder](http://twitter.com/search?q=r%c3%a4der) | N/A |
-| 43 | [Helmut](http://twitter.com/search?q=Helmut) | N/A |
-| 44 | [fetzen](http://twitter.com/search?q=fetzen) | N/A |
-| 45 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
+| 17 | [hausverstand](http://twitter.com/search?q=hausverstand) | N/A |
+| 18 | [wirtschaftsbund](http://twitter.com/search?q=wirtschaftsbund) | N/A |
+| 19 | [Autobahnen](http://twitter.com/search?q=Autobahnen) | N/A |
+| 20 | [GIVE US WN BLOOPERS](http://twitter.com/search?q=GIVE+US+WN+BLOOPERS) | N/A |
+| 21 | [Friseur](http://twitter.com/search?q=Friseur) | N/A |
+| 22 | [Tage Woche](http://twitter.com/search?q=Tage+Woche) | N/A |
+| 23 | [Drohung](http://twitter.com/search?q=Drohung) | N/A |
+| 24 | [Kollegin](http://twitter.com/search?q=Kollegin) | N/A |
+| 25 | [Talkshows](http://twitter.com/search?q=Talkshows) | N/A |
+| 26 | [Alexandra](http://twitter.com/search?q=Alexandra) | N/A |
+| 27 | [räder](http://twitter.com/search?q=r%c3%a4der) | N/A |
+| 28 | [marokko](http://twitter.com/search?q=marokko) | N/A |
+| 29 | [Vergewaltigungen](http://twitter.com/search?q=Vergewaltigungen) | N/A |
+| 30 | [E-Fuels](http://twitter.com/search?q=E-Fuels) | N/A |
+| 31 | [U-Bahn](http://twitter.com/search?q=U-Bahn) | N/A |
+| 32 | [Pflanzen](http://twitter.com/search?q=Pflanzen) | N/A |
+| 33 | [Greece](http://twitter.com/search?q=Greece) | N/A |
+| 34 | [dosko](http://twitter.com/search?q=dosko) | N/A |
+| 35 | [Konkurrenz](http://twitter.com/search?q=Konkurrenz) | N/A |
+| 36 | [schönen nachmittag](http://twitter.com/search?q=sch%c3%b6nen+nachmittag) | N/A |
+| 37 | [Filter](http://twitter.com/search?q=Filter) | N/A |
+| 38 | [Ziegler](http://twitter.com/search?q=Ziegler) | N/A |
+| 39 | [Vorschläge](http://twitter.com/search?q=Vorschl%c3%a4ge) | N/A |
+| 40 | [Arbeitsbedingungen](http://twitter.com/search?q=Arbeitsbedingungen) | N/A |
+| 41 | [bures](http://twitter.com/search?q=bures) | N/A |
+| 42 | [fetzen](http://twitter.com/search?q=fetzen) | N/A |
+| 43 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
+| 44 | [rendi-wagner](http://twitter.com/search?q=rendi-wagner) | N/A |
+| 45 | [van der bellen](http://twitter.com/search?q=van+der+bellen) | N/A |
 | 46 | [Opposition](http://twitter.com/search?q=Opposition) | N/A |
 | 47 | [willkommen im club](http://twitter.com/search?q=willkommen+im+club) | N/A |
-| 48 | [Habeck](http://twitter.com/search?q=Habeck) | N/A |
-| 49 | [schönen nachmittag](http://twitter.com/search?q=sch%c3%b6nen+nachmittag) | N/A |
-| 50 | [Überblick](http://twitter.com/search?q=%c3%9cberblick) | N/A |
+| 48 | [guten morgen manfred](http://twitter.com/search?q=guten+morgen+manfred) | N/A |
+| 49 | [Helmut](http://twitter.com/search?q=Helmut) | N/A |
+| 50 | [Habeck](http://twitter.com/search?q=Habeck) | N/A |
 
 
 

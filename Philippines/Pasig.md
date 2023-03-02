@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pasig
 
-📆 Last Updated: `2023-03-02 02:43:33 UTC`
+📆 Last Updated: `2023-03-02 03:23:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,53 @@ This is top 50 for [Philippines](</Philippines>)
 | 1 | [#TWICE_BreakthroughAward](http://twitter.com/search?q=%23TWICE_BreakthroughAward) | N/A |
 | 2 | [#BBWomenInMusic](http://twitter.com/search?q=%23BBWomenInMusic) | N/A |
 | 3 | [TWICE BILLBOARD AWARD](http://twitter.com/search?q=TWICE+BILLBOARD+AWARD) | N/A |
-| 4 | [#TAEYONGtoPFW23](http://twitter.com/search?q=%23TAEYONGtoPFW23) | N/A |
-| 5 | [TY WEARS LOEWE](http://twitter.com/search?q=TY+WEARS+LOEWE) | N/A |
-| 6 | [#JISOOxDUNST](http://twitter.com/search?q=%23JISOOxDUNST) | N/A |
-| 7 | [pika](http://twitter.com/search?q=pika) | N/A |
-| 8 | [BLOOMING WITH LEESEO](http://twitter.com/search?q=BLOOMING+WITH+LEESEO) | N/A |
-| 9 | [gose](http://twitter.com/search?q=gose) | N/A |
-| 10 | [5M BUILD](http://twitter.com/search?q=5M+BUILD) | N/A |
-| 11 | [HOORAY FOR 2](http://twitter.com/search?q=HOORAY+FOR+2) | N/A |
-| 12 | [Moonlight Sunrise](http://twitter.com/search?q=Moonlight+Sunrise) | N/A |
+| 4 | [TY WEARS LOEWE](http://twitter.com/search?q=TY+WEARS+LOEWE) | N/A |
+| 5 | [#TAEYONGtoPFW23](http://twitter.com/search?q=%23TAEYONGtoPFW23) | N/A |
+| 6 | [Mino](http://twitter.com/search?q=Mino) | N/A |
+| 7 | [#WelcomeLeeseoToHanlim](http://twitter.com/search?q=%23WelcomeLeeseoToHanlim) | N/A |
+| 8 | [pika](http://twitter.com/search?q=pika) | N/A |
+| 9 | [BLOOMING WITH LEESEO](http://twitter.com/search?q=BLOOMING+WITH+LEESEO) | N/A |
+| 10 | [#2AndHalfMWithBuild](http://twitter.com/search?q=%232AndHalfMWithBuild) | N/A |
+| 11 | [GOSE](http://twitter.com/search?q=GOSE) | N/A |
+| 12 | [iKON](http://twitter.com/search?q=iKON) | N/A |
 | 13 | [janenella isthemoment](http://twitter.com/search?q=janenella+isthemoment) | N/A |
-| 14 | [Adamson](http://twitter.com/search?q=Adamson) | N/A |
-| 15 | [HAPPY MONTHSARY A'TIN](http://twitter.com/search?q=HAPPY+MONTHSARY+A%27TIN) | "HAPPY MONTHSARY A'TIN" is a Filipino expression used to wish someone a happy month-long anniversary. In English, it would be translated as "Happy Monthiversary!" |
-| 16 | [congrats nu](http://twitter.com/search?q=congrats+nu) | N/A |
-| 17 | [going seventeen 2023](http://twitter.com/search?q=going+seventeen+2023) | N/A |
-| 18 | [KIM TAEHYUNG FOR SIMINVEST](http://twitter.com/search?q=KIM+TAEHYUNG+FOR+SIMINVEST) | N/A |
-| 19 | [SIMINVEST AMBASSADOR V](http://twitter.com/search?q=SIMINVEST+AMBASSADOR+V) | N/A |
-| 20 | [Happy Women's Month](http://twitter.com/search?q=Happy+Women%27s+Month) | N/A |
-| 21 | [sabrina carpenter](http://twitter.com/search?q=sabrina+carpenter) | N/A |
-| 22 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
-| 23 | [ail tops netflix global](http://twitter.com/search?q=ail+tops+netflix+global) | N/A |
+| 14 | [HAPPY MONTHSARY A'TIN](http://twitter.com/search?q=HAPPY+MONTHSARY+A%27TIN) | "HAPPY MONTHSARY A'TIN" is a Filipino expression used to wish someone a happy month-long anniversary. In English, it would be translated as "Happy Monthiversary!" |
+| 15 | [Adamson](http://twitter.com/search?q=Adamson) | N/A |
+| 16 | [5M BUILD](http://twitter.com/search?q=5M+BUILD) | N/A |
+| 17 | [HOORAY FOR 2](http://twitter.com/search?q=HOORAY+FOR+2) | N/A |
+| 18 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
+| 19 | [going seventeen 2023](http://twitter.com/search?q=going+seventeen+2023) | N/A |
+| 20 | [minghao](http://twitter.com/search?q=minghao) | N/A |
+| 21 | [congrats nu](http://twitter.com/search?q=congrats+nu) | N/A |
+| 22 | [KIM TAEHYUNG FOR SIMINVEST](http://twitter.com/search?q=KIM+TAEHYUNG+FOR+SIMINVEST) | N/A |
+| 23 | [SIMINVEST AMBASSADOR V](http://twitter.com/search?q=SIMINVEST+AMBASSADOR+V) | N/A |
 | 24 | [John Matthew Salilig](http://twitter.com/search?q=John+Matthew+Salilig) | N/A |
-| 25 | [Mino](http://twitter.com/search?q=Mino) | N/A |
-| 26 | [CRAZY STUPID LOVE](http://twitter.com/search?q=CRAZY+STUPID+LOVE) | N/A |
-| 27 | [BIGHIT PROTECT RM](http://twitter.com/search?q=BIGHIT+PROTECT+RM) | N/A |
-| 28 | [ZACH TURNS XXIV](http://twitter.com/search?q=ZACH+TURNS+XXIV) | N/A |
-| 29 | [sam levinson](http://twitter.com/search?q=sam+levinson) | N/A |
-| 30 | [SARAH G 20thANNIVERSARY](http://twitter.com/search?q=SARAH+G+20thANNIVERSARY) | N/A |
-| 31 | [HYBE PROTECT RM](http://twitter.com/search?q=HYBE+PROTECT+RM) | N/A |
-| 32 | [davidlicauco megaman](http://twitter.com/search?q=davidlicauco+megaman) | N/A |
-| 33 | [reverence to god](http://twitter.com/search?q=reverence+to+god) | N/A |
-| 34 | [Doctor of Laws](http://twitter.com/search?q=Doctor+of+Laws) | N/A |
-| 35 | [wt performance video](http://twitter.com/search?q=wt+performance+video) | N/A |
-| 36 | [Emma](http://twitter.com/search?q=Emma) | Emma is a feminine given name derived from the Germanic word ermen, meaning “whole” or “universal.” It is also a diminutive form of the name Emily. Emma is a popular name in many English-speaking countries, including the United States, Canada, Australia, and New Zealand. |
-| 37 | [MAINE MENDOZA 28naBukas](http://twitter.com/search?q=MAINE+MENDOZA+28naBukas) | N/A |
+| 25 | [ail tops netflix global](http://twitter.com/search?q=ail+tops+netflix+global) | N/A |
+| 26 | [HOORAY FOR BUILD](http://twitter.com/search?q=HOORAY+FOR+BUILD) | N/A |
+| 27 | [Dehya](http://twitter.com/search?q=Dehya) | Dehya is a Sanskrit word meaning “divine light” or “divine energy.” It is often used to refer to the inner light or power that resides within each person, and it is believed to be the source of spiritual knowledge and enlightenment. |
+| 28 | [CRAZY STUPID LOVE](http://twitter.com/search?q=CRAZY+STUPID+LOVE) | N/A |
+| 29 | [Happy Women's Month](http://twitter.com/search?q=Happy+Women%27s+Month) | N/A |
+| 30 | [sam levinson](http://twitter.com/search?q=sam+levinson) | N/A |
+| 31 | [BIGHIT PROTECT RM](http://twitter.com/search?q=BIGHIT+PROTECT+RM) | N/A |
+| 32 | [ZACH TURNS XXIV](http://twitter.com/search?q=ZACH+TURNS+XXIV) | N/A |
+| 33 | [HYBE PROTECT RM](http://twitter.com/search?q=HYBE+PROTECT+RM) | N/A |
+| 34 | [davidlicauco megaman](http://twitter.com/search?q=davidlicauco+megaman) | N/A |
+| 35 | [reverence to god](http://twitter.com/search?q=reverence+to+god) | N/A |
+| 36 | [wt performance video](http://twitter.com/search?q=wt+performance+video) | N/A |
+| 37 | [SARAH G 20thANNIVERSARY](http://twitter.com/search?q=SARAH+G+20thANNIVERSARY) | N/A |
 | 38 | [NAIA](http://twitter.com/search?q=NAIA) | N/A |
-| 39 | [Maya](http://twitter.com/search?q=Maya) | N/A |
-| 40 | [HABANG BUHAY RELEASE](http://twitter.com/search?q=HABANG+BUHAY+RELEASE) | N/A |
-| 41 | [BORN TO SHINE DAYEON](http://twitter.com/search?q=BORN+TO+SHINE+DAYEON) | N/A |
-| 42 | [ROSÉ SAINT LAURENT PFW23](http://twitter.com/search?q=ROS%c3%89+SAINT+LAURENT+PFW23) | N/A |
-| 43 | [ACE HARAM IS HERE](http://twitter.com/search?q=ACE+HARAM+IS+HERE) | N/A |
-| 44 | [Birth Month](http://twitter.com/search?q=Birth+Month) | N/A |
+| 39 | [Moonlight Sunrise](http://twitter.com/search?q=Moonlight+Sunrise) | N/A |
+| 40 | [Maya](http://twitter.com/search?q=Maya) | N/A |
+| 41 | [MAINE MENDOZA 28naBukas](http://twitter.com/search?q=MAINE+MENDOZA+28naBukas) | N/A |
+| 42 | [Emma](http://twitter.com/search?q=Emma) | Emma is a feminine given name derived from the Germanic word ermen, meaning “whole” or “universal.” It is also a diminutive form of the name Emily. Emma is a popular name in many English-speaking countries, including the United States, Canada, Australia, and New Zealand. |
+| 43 | [BORN TO SHINE DAYEON](http://twitter.com/search?q=BORN+TO+SHINE+DAYEON) | N/A |
+| 44 | [HABANG BUHAY RELEASE](http://twitter.com/search?q=HABANG+BUHAY+RELEASE) | N/A |
 | 45 | [all of the girls](http://twitter.com/search?q=all+of+the+girls) | N/A |
-| 46 | [Tubu](http://twitter.com/search?q=Tubu) | N/A |
-| 47 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 48 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 49 | [BGYO FOR LAZADA BIRTHDAY](http://twitter.com/search?q=BGYO+FOR+LAZADA+BIRTHDAY) | N/A |
+| 46 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
+| 47 | [BGYO FOR LAZADA BIRTHDAY](http://twitter.com/search?q=BGYO+FOR+LAZADA+BIRTHDAY) | N/A |
+| 48 | [dahyun](http://twitter.com/search?q=dahyun) | Dahyun is a Korean female name. It is derived from the Sino-Korean elements dae (meaning “great”) and hyun (meaning “virtue”). The name can also be written as Da-Hyun or Da Hyun. In English, it means “great virtue”. |
+| 49 | [rip rob luna](http://twitter.com/search?q=rip+rob+luna) | N/A |
+| 50 | [Doctor of Laws](http://twitter.com/search?q=Doctor+of+Laws) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Colombia
 
-📆 Last Updated: `2023-03-02 02:43:55 UTC`
+📆 Last Updated: `2023-03-02 03:24:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,41 @@ This is top 50 for Colombia
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
-| 2 | [Viva Air](http://twitter.com/search?q=Viva+Air) | N/A |
-| 3 | [Avianca](http://twitter.com/search?q=Avianca) | N/A |
-| 4 | [Vargas Lleras](http://twitter.com/search?q=Vargas+Lleras) | N/A |
-| 5 | [#UnaCrisisEs](http://twitter.com/search?q=%23UnaCrisisEs) | N/A |
-| 6 | [Blink 182](http://twitter.com/search?q=Blink+182) | N/A |
-| 7 | [Pinto](http://twitter.com/search?q=Pinto) | N/A |
-| 8 | [Satena](http://twitter.com/search?q=Satena) | N/A |
-| 9 | [Gaviria](http://twitter.com/search?q=Gaviria) | N/A |
-| 10 | [Universidades](http://twitter.com/search?q=Universidades) | N/A |
-| 11 | [twenty one pilots](http://twitter.com/search?q=twenty+one+pilots) | N/A |
-| 12 | [CELAG](http://twitter.com/search?q=CELAG) | N/A |
-| 13 | [Independiente del Valle](http://twitter.com/search?q=Independiente+del+Valle) | N/A |
-| 14 | [#AnaDeNadie](http://twitter.com/search?q=%23AnaDeNadie) | N/A |
-| 15 | [Angelo](http://twitter.com/search?q=Angelo) | N/A |
-| 16 | [#UIS75Años](http://twitter.com/search?q=%23UIS75A%c3%b1os) | N/A |
-| 17 | [Cambindo](http://twitter.com/search?q=Cambindo) | N/A |
-| 18 | [Lealtad](http://twitter.com/search?q=Lealtad) | N/A |
-| 19 | [#SurvivorLaIsla](http://twitter.com/search?q=%23SurvivorLaIsla) | N/A |
-| 20 | [#LiderazgoEs](http://twitter.com/search?q=%23LiderazgoEs) | N/A |
-| 21 | [Juan Lozano](http://twitter.com/search?q=Juan+Lozano) | N/A |
-| 22 | [Daniel Torres](http://twitter.com/search?q=Daniel+Torres) | N/A |
-| 23 | [tina](http://twitter.com/search?q=tina) | N/A |
-| 24 | [Pardo](http://twitter.com/search?q=Pardo) | N/A |
-| 25 | [Marmolejo](http://twitter.com/search?q=Marmolejo) | N/A |
-| 26 | [Invamer](http://twitter.com/search?q=Invamer) | N/A |
-| 27 | [Jamming](http://twitter.com/search?q=Jamming) | N/A |
-| 28 | [Marzo con M](http://twitter.com/search?q=Marzo+con+M) | N/A |
-| 29 | [Copa Libertadores](http://twitter.com/search?q=Copa+Libertadores) | N/A |
-| 30 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
-| 31 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
-| 32 | [Travis](http://twitter.com/search?q=Travis) | N/A |
-| 33 | [El Nacional](http://twitter.com/search?q=El+Nacional) | N/A |
-| 34 | [Monroy](http://twitter.com/search?q=Monroy) | N/A |
-| 35 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
-| 36 | [Aldair](http://twitter.com/search?q=Aldair) | N/A |
-| 37 | [Sabina](http://twitter.com/search?q=Sabina) | N/A |
-| 38 | [Aerocivil](http://twitter.com/search?q=Aerocivil) | N/A |
-| 39 | [Bienvenido Marzo](http://twitter.com/search?q=Bienvenido+Marzo) | N/A |
-| 40 | [Hicimos](http://twitter.com/search?q=Hicimos) | N/A |
-| 41 | [Zorro](http://twitter.com/search?q=Zorro) | N/A |
-| 42 | [Pons](http://twitter.com/search?q=Pons) | N/A |
-| 43 | [Campos](http://twitter.com/search?q=Campos) | N/A |
-| 44 | [Westcol](http://twitter.com/search?q=Westcol) | N/A |
-| 45 | [Tatan](http://twitter.com/search?q=Tatan) | N/A |
-| 46 | [Caldera](http://twitter.com/search?q=Caldera) | N/A |
-| 47 | [Velasco](http://twitter.com/search?q=Velasco) | N/A |
-| 48 | [Palmaseca](http://twitter.com/search?q=Palmaseca) | N/A |
-| 49 | [Vásquez](http://twitter.com/search?q=V%c3%a1squez) | N/A |
-| 50 | [Medellín](http://twitter.com/search?q=Medell%c3%adn) | N/A |
+| 2 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
+| 3 | [#AnaDeNadie](http://twitter.com/search?q=%23AnaDeNadie) | N/A |
+| 4 | [#VentinoLaSerie](http://twitter.com/search?q=%23VentinoLaSerie) | N/A |
+| 5 | [Pinto](http://twitter.com/search?q=Pinto) | N/A |
+| 6 | [Universidades](http://twitter.com/search?q=Universidades) | N/A |
+| 7 | [#BBWomenInMusic](http://twitter.com/search?q=%23BBWomenInMusic) | N/A |
+| 8 | [Angelo](http://twitter.com/search?q=Angelo) | N/A |
+| 9 | [#TWICE_BreakthroughAward](http://twitter.com/search?q=%23TWICE_BreakthroughAward) | N/A |
+| 10 | [Cambindo](http://twitter.com/search?q=Cambindo) | N/A |
+| 11 | [Daniel Torres](http://twitter.com/search?q=Daniel+Torres) | N/A |
+| 12 | [Pardo](http://twitter.com/search?q=Pardo) | N/A |
+| 13 | [#SurvivorLaIsla](http://twitter.com/search?q=%23SurvivorLaIsla) | N/A |
+| 14 | [Marmolejo](http://twitter.com/search?q=Marmolejo) | N/A |
+| 15 | [Copa Libertadores](http://twitter.com/search?q=Copa+Libertadores) | N/A |
+| 16 | [Invamer](http://twitter.com/search?q=Invamer) | N/A |
+| 17 | [Narnia](http://twitter.com/search?q=Narnia) | N/A |
+| 18 | [El Nacional](http://twitter.com/search?q=El+Nacional) | N/A |
+| 19 | [Palmaseca](http://twitter.com/search?q=Palmaseca) | N/A |
+| 20 | [Medellín](http://twitter.com/search?q=Medell%c3%adn) | N/A |
+| 21 | [Caldera](http://twitter.com/search?q=Caldera) | N/A |
+| 22 | [Maras](http://twitter.com/search?q=Maras) | N/A |
+| 23 | [M-19](http://twitter.com/search?q=M-19) | N/A |
+| 24 | [Campos](http://twitter.com/search?q=Campos) | N/A |
+| 25 | [Velasco](http://twitter.com/search?q=Velasco) | N/A |
+| 26 | [Mantilla](http://twitter.com/search?q=Mantilla) | N/A |
+| 27 | [Deportivo Pereira](http://twitter.com/search?q=Deportivo+Pereira) | N/A |
+| 28 | [Sabina](http://twitter.com/search?q=Sabina) | N/A |
+| 29 | [CELAG](http://twitter.com/search?q=CELAG) | N/A |
+| 30 | [Juan Lozano](http://twitter.com/search?q=Juan+Lozano) | N/A |
+| 31 | [Coca Cola](http://twitter.com/search?q=Coca+Cola) | N/A |
+| 32 | [Ladrones](http://twitter.com/search?q=Ladrones) | N/A |
+| 33 | [tina](http://twitter.com/search?q=tina) | N/A |
+| 34 | [Lalis](http://twitter.com/search?q=Lalis) | Lalis is a Spanish term used to describe someone who is very friendly and kind. It can also be used to describe someone who is generous and helpful. In English, it could be translated as "kind-hearted" or "generous". |
+| 35 | [#LaDescarga](http://twitter.com/search?q=%23LaDescarga) | N/A |
+| 36 | [#PetroEsMiseria](http://twitter.com/search?q=%23PetroEsMiseria) | N/A |
 
 
 

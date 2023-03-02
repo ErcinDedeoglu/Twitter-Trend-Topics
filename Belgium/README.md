@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belgium
 
-📆 Last Updated: `2023-03-02 02:43:54 UTC`
+📆 Last Updated: `2023-03-02 03:24:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,45 +25,45 @@ This is top 50 for Belgium
 | 8 | [#KCORP](http://twitter.com/search?q=%23KCORP) | #KCORP is an acronym for the Korean Corporate Governance Improvement Program, a government-led initiative to improve corporate governance in South Korea. The program was launched in 2017 and aims to promote transparency, accountability, and fairness in the management of Korean companies. |
 | 9 | [schoofs](http://twitter.com/search?q=schoofs) | N/A |
 | 10 | [vdab](http://twitter.com/search?q=vdab) | N/A |
-| 11 | [Julien](http://twitter.com/search?q=Julien) | N/A |
-| 12 | [Creed 3](http://twitter.com/search?q=Creed+3) | N/A |
-| 13 | [#ZeroDiscriminationDay](http://twitter.com/search?q=%23ZeroDiscriminationDay) | N/A |
-| 14 | [Venus](http://twitter.com/search?q=Venus) | N/A |
-| 15 | [Demir](http://twitter.com/search?q=Demir) | N/A |
+| 11 | [Creed 3](http://twitter.com/search?q=Creed+3) | N/A |
+| 12 | [Julien](http://twitter.com/search?q=Julien) | N/A |
+| 13 | [Venus](http://twitter.com/search?q=Venus) | N/A |
+| 14 | [Demir](http://twitter.com/search?q=Demir) | N/A |
+| 15 | [#ZeroDiscriminationDay](http://twitter.com/search?q=%23ZeroDiscriminationDay) | N/A |
 | 16 | [Hilona](http://twitter.com/search?q=Hilona) | N/A |
 | 17 | [Balerdi](http://twitter.com/search?q=Balerdi) | N/A |
 | 18 | [Zoro](http://twitter.com/search?q=Zoro) | N/A |
 | 19 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
 | 20 | [Telenet](http://twitter.com/search?q=Telenet) | N/A |
 | 21 | [bouchez](http://twitter.com/search?q=bouchez) | N/A |
-| 22 | [vlaams parlement](http://twitter.com/search?q=vlaams+parlement) | N/A |
-| 23 | [Kamer](http://twitter.com/search?q=Kamer) | N/A |
-| 24 | [FA Cup](http://twitter.com/search?q=FA+Cup) | The FA Cup is an annual knockout football competition in England. It is the oldest football competition in the world and is run by The Football Association (FA). The FA Cup is open to any club in the top four tiers of English football, from the Premier League down to the semi-professional leagues. The tournament culminates with a final at Wembley Stadium, usually held in May. |
-| 25 | [Marseille](http://twitter.com/search?q=Marseille) | N/A |
-| 26 | [Jambon](http://twitter.com/search?q=Jambon) | N/A |
+| 22 | [Kamer](http://twitter.com/search?q=Kamer) | N/A |
+| 23 | [vlaams parlement](http://twitter.com/search?q=vlaams+parlement) | N/A |
+| 24 | [Jambon](http://twitter.com/search?q=Jambon) | N/A |
+| 25 | [FA Cup](http://twitter.com/search?q=FA+Cup) | The FA Cup is an annual knockout football competition in England. It is the oldest football competition in the world and is run by The Football Association (FA). The FA Cup is open to any club in the top four tiers of English football, from the Premier League down to the semi-professional leagues. The tournament culminates with a final at Wembley Stadium, usually held in May. |
+| 26 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
 | 27 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 28 | [Sammy](http://twitter.com/search?q=Sammy) | N/A |
-| 29 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
-| 30 | [Arco](http://twitter.com/search?q=Arco) | N/A |
-| 31 | [Puree](http://twitter.com/search?q=Puree) | N/A |
+| 28 | [Arco](http://twitter.com/search?q=Arco) | N/A |
+| 29 | [Puree](http://twitter.com/search?q=Puree) | N/A |
+| 30 | [Sammy](http://twitter.com/search?q=Sammy) | N/A |
+| 31 | [Marseille](http://twitter.com/search?q=Marseille) | N/A |
 | 32 | [Greek](http://twitter.com/search?q=Greek) | N/A |
 | 33 | [Patrick](http://twitter.com/search?q=Patrick) | Patrick is a given name derived from the Latin name Patricius, meaning "nobleman". It is a popular name in many English-speaking countries, particularly in Ireland, where it is the third most common male name. |
 | 34 | [Fally](http://twitter.com/search?q=Fally) | N/A |
 | 35 | [Wano](http://twitter.com/search?q=Wano) | N/A |
-| 36 | [Danny](http://twitter.com/search?q=Danny) | N/A |
-| 37 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
-| 38 | [vakbonden](http://twitter.com/search?q=vakbonden) | N/A |
-| 39 | [evrm](http://twitter.com/search?q=evrm) | N/A |
+| 36 | [vakbonden](http://twitter.com/search?q=vakbonden) | N/A |
+| 37 | [Benny](http://twitter.com/search?q=Benny) | N/A |
+| 38 | [evrm](http://twitter.com/search?q=evrm) | N/A |
+| 39 | [zulte waregem](http://twitter.com/search?q=zulte+waregem) | N/A |
 | 40 | [grondwettelijk hof](http://twitter.com/search?q=grondwettelijk+hof) | N/A |
-| 41 | [Benny](http://twitter.com/search?q=Benny) | N/A |
-| 42 | [zulte waregem](http://twitter.com/search?q=zulte+waregem) | N/A |
-| 43 | [Jeremie](http://twitter.com/search?q=Jeremie) | N/A |
-| 44 | [BNP Paribas](http://twitter.com/search?q=BNP+Paribas) | N/A |
-| 45 | [TPMP](http://twitter.com/search?q=TPMP) | N/A |
-| 46 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 47 | [European Commission](http://twitter.com/search?q=European+Commission) | N/A |
-| 48 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 49 | [mieke vogels](http://twitter.com/search?q=mieke+vogels) | N/A |
+| 41 | [Jeremie](http://twitter.com/search?q=Jeremie) | N/A |
+| 42 | [BNP Paribas](http://twitter.com/search?q=BNP+Paribas) | N/A |
+| 43 | [TPMP](http://twitter.com/search?q=TPMP) | N/A |
+| 44 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 45 | [European Commission](http://twitter.com/search?q=European+Commission) | N/A |
+| 46 | [n-va](http://twitter.com/search?q=n-va) | N/A |
+| 47 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 48 | [mieke vogels](http://twitter.com/search?q=mieke+vogels) | N/A |
+| 49 | [kv mechelen](http://twitter.com/search?q=kv+mechelen) | N/A |
 | 50 | [Commissioner](http://twitter.com/search?q=Commissioner) | N/A |
 
 

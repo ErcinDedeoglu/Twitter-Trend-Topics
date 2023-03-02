@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Antonio
 
-📆 Last Updated: `2023-03-02 02:43:52 UTC`
+📆 Last Updated: `2023-03-02 03:24:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
-| 2 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
-| 3 | [$TSLA](http://twitter.com/search?q=%24TSLA) | $TSLA is the stock symbol for Tesla, Inc., an American electric vehicle and clean energy company. It is traded on the Nasdaq stock exchange. |
-| 4 | [#AmplifyAustin](http://twitter.com/search?q=%23AmplifyAustin) | N/A |
-| 5 | [#RODEOHOUSTON](http://twitter.com/search?q=%23RODEOHOUSTON) | N/A |
-| 6 | [#ReadAcrossAmerica2023](http://twitter.com/search?q=%23ReadAcrossAmerica2023) | N/A |
-| 7 | [The Mandalorian](http://twitter.com/search?q=The+Mandalorian) | N/A |
-| 8 | [Pikamee](http://twitter.com/search?q=Pikamee) | N/A |
-| 9 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
-| 10 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
-| 11 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
-| 12 | [sam levinson](http://twitter.com/search?q=sam+levinson) | N/A |
-| 13 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
-| 14 | [Grizzlies](http://twitter.com/search?q=Grizzlies) | Grizzlies are a species of large brown bears native to North America. They are typically found in mountainous regions and can weigh up to 800 pounds. The name "grizzly" comes from the silver-tipped hairs on their fur, which give them a grizzled appearance. |
-| 15 | [Dirk](http://twitter.com/search?q=Dirk) | Dirk is a Scottish word for a long, pointed dagger. It is also used as a given name, usually for boys. |
-| 16 | [Cruz](http://twitter.com/search?q=Cruz) | N/A |
-| 17 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 18 | [#Survivor44](http://twitter.com/search?q=%23Survivor44) | N/A |
-| 19 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
-| 20 | [Vandy](http://twitter.com/search?q=Vandy) | Vandy is a nickname for Vanderbilt University, a private research university located in Nashville, Tennessee. The name is derived from the university's namesake, Cornelius Vanderbilt. |
-| 21 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
-| 22 | [Hobbs](http://twitter.com/search?q=Hobbs) | N/A |
-| 23 | [Jalen Brunson](http://twitter.com/search?q=Jalen+Brunson) | Jalen Brunson is an American professional basketball player who currently plays for the Dallas Mavericks of the National Basketball Association (NBA). His name is a combination of his father's first name, John, and his mother's first name, Lenora. |
-| 24 | [Hextall](http://twitter.com/search?q=Hextall) | N/A |
-| 25 | [Jaden Ivey](http://twitter.com/search?q=Jaden+Ivey) | N/A |
-| 26 | [Granlund](http://twitter.com/search?q=Granlund) | N/A |
-| 27 | [Jupiter and Venus](http://twitter.com/search?q=Jupiter+and+Venus) | N/A |
-| 28 | [Big Bill](http://twitter.com/search?q=Big+Bill) | Big Bill is a slang term used to refer to someone who is very successful or influential. It can also be used to describe someone who is very wealthy or powerful. |
-| 29 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 30 | [Carolyn](http://twitter.com/search?q=Carolyn) | N/A |
-| 31 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
-| 32 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
-| 33 | [Riho](http://twitter.com/search?q=Riho) | N/A |
-| 34 | [Rupp](http://twitter.com/search?q=Rupp) | Rupp is an acronym for the phrase "Recognize, Understand, Prepare, and Perform". It is a strategy used to help people achieve their goals by breaking them down into smaller steps. The idea is to recognize the goal, understand what it will take to reach it, prepare for the journey ahead, and then perform the necessary actions to make it happen. |
-| 35 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 36 | [Cason](http://twitter.com/search?q=Cason) | N/A |
-| 37 | [Christian Cage](http://twitter.com/search?q=Christian+Cage) | N/A |
-| 38 | [Donovan Mitchell](http://twitter.com/search?q=Donovan+Mitchell) | Donovan Mitchell is an American professional basketball player who currently plays for the Utah Jazz of the National Basketball Association (NBA). His nickname is "Spida" and he is known for his explosive athleticism and scoring ability. |
-| 39 | [Maurice](http://twitter.com/search?q=Maurice) | N/A |
-| 40 | [Andi](http://twitter.com/search?q=Andi) | Andi is a unisex name of German origin, derived from the name Andreas. It can be used as a short form of the name or as a stand-alone name. In English, it means "brave" or "manly". |
-| 41 | [Danni](http://twitter.com/search?q=Danni) | N/A |
-| 42 | [Reeves](http://twitter.com/search?q=Reeves) | N/A |
-| 43 | [Orange Cassidy](http://twitter.com/search?q=Orange+Cassidy) | Orange Cassidy is the stage name of American professional wrestler Jonathan Gresham. The name is a reference to the character of Orange Cassidy from the television show It's Always Sunny in Philadelphia. The phrase "Orange Cassidy" has come to mean someone who is laid back and relaxed, often in a humorous way. |
-| 44 | [Jordan Wright](http://twitter.com/search?q=Jordan+Wright) | N/A |
-| 45 | [Pentatonix](http://twitter.com/search?q=Pentatonix) | Pentatonix is an American a cappella group from Arlington, Texas, consisting of vocalists Scott Hoying, Mitch Grassi, Kirstin Maldonado, Kevin Olusola and Matt Sallee. The group's name is derived from the pentatonic scale, a musical scale or mode with five notes per octave. |
-| 46 | [Broome](http://twitter.com/search?q=Broome) | N/A |
-| 47 | [House of Black](http://twitter.com/search?q=House+of+Black) | N/A |
-| 48 | [Kevin Durant](http://twitter.com/search?q=Kevin+Durant) | Kevin Durant is an American professional basketball player who currently plays for the Brooklyn Nets of the National Basketball Association (NBA). He is a ten-time NBA All-Star and two-time NBA Finals MVP. He has won four NBA scoring titles, the NBA Rookie of the Year Award, and an Olympic gold medal. |
-| 49 | [Chris Webber](http://twitter.com/search?q=Chris+Webber) | N/A |
+| 1 | [Grogu](http://twitter.com/search?q=Grogu) | N/A |
+| 2 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
+| 3 | [Oakland](http://twitter.com/search?q=Oakland) | Oakland is a city in the U.S. state of California, located on the eastern side of San Francisco Bay. It is the largest city and the county seat of Alameda County. Oakland is known for its diverse culture, vibrant art scene, and numerous professional sports teams, including the Oakland Athletics baseball team and the Golden State Warriors basketball team. |
+| 4 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 5 | [Petro](http://twitter.com/search?q=Petro) | N/A |
+| 6 | [#RODEOHOUSTON](http://twitter.com/search?q=%23RODEOHOUSTON) | N/A |
+| 7 | [Grizzlies](http://twitter.com/search?q=Grizzlies) | Grizzlies are a species of large brown bears native to North America. They are typically found in mountainous regions and can weigh up to 800 pounds. The name "grizzly" comes from the silver-tipped hairs on their fur, which give them a grizzled appearance. |
+| 8 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
+| 9 | [#ReadAcrossAmerica2023](http://twitter.com/search?q=%23ReadAcrossAmerica2023) | N/A |
+| 10 | [#AmplifyAustin](http://twitter.com/search?q=%23AmplifyAustin) | N/A |
+| 11 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
+| 12 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
+| 13 | [Creed 3](http://twitter.com/search?q=Creed+3) | N/A |
+| 14 | [Pikamee](http://twitter.com/search?q=Pikamee) | N/A |
+| 15 | [#WomensHistoryMonth](http://twitter.com/search?q=%23WomensHistoryMonth) | N/A |
+| 16 | [$TSLA](http://twitter.com/search?q=%24TSLA) | $TSLA is the stock symbol for Tesla, Inc., an American electric vehicle and clean energy company. It is traded on the Nasdaq stock exchange. |
+| 17 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 18 | [sam levinson](http://twitter.com/search?q=sam+levinson) | N/A |
+| 19 | [Mando](http://twitter.com/search?q=Mando) | N/A |
+| 20 | [Cruz](http://twitter.com/search?q=Cruz) | N/A |
+| 21 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
+| 22 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
+| 23 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
+| 24 | [Wanda](http://twitter.com/search?q=Wanda) | N/A |
+| 25 | [Donovan Mitchell](http://twitter.com/search?q=Donovan+Mitchell) | Donovan Mitchell is an American professional basketball player who currently plays for the Utah Jazz of the National Basketball Association (NBA). His nickname is "Spida" and he is known for his explosive athleticism and scoring ability. |
+| 26 | [Vandy](http://twitter.com/search?q=Vandy) | Vandy is a nickname for Vanderbilt University, a private research university located in Nashville, Tennessee. The name is derived from the university's namesake, Cornelius Vanderbilt. |
+| 27 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
+| 28 | [Jupiter and Venus](http://twitter.com/search?q=Jupiter+and+Venus) | N/A |
+| 29 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
+| 30 | [Danhausen](http://twitter.com/search?q=Danhausen) | N/A |
+| 31 | [Hobbs](http://twitter.com/search?q=Hobbs) | N/A |
+| 32 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
+| 33 | [Broome](http://twitter.com/search?q=Broome) | N/A |
+| 34 | [Jaden Ivey](http://twitter.com/search?q=Jaden+Ivey) | N/A |
+| 35 | [Hextall](http://twitter.com/search?q=Hextall) | N/A |
+| 36 | [Granlund](http://twitter.com/search?q=Granlund) | N/A |
+| 37 | [Tarasenko](http://twitter.com/search?q=Tarasenko) | N/A |
+| 38 | [Al Horford](http://twitter.com/search?q=Al+Horford) | Al Horford is a professional basketball player from the Dominican Republic who currently plays for the Philadelphia 76ers of the National Basketball Association (NBA). He is a four-time NBA All-Star and has won two NBA championships with the Boston Celtics. The meaning of Al Horford in English is "a talented basketball player". |
+| 39 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 40 | [Paul Reed](http://twitter.com/search?q=Paul+Reed) | N/A |
+| 41 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
+| 42 | [Carolyn](http://twitter.com/search?q=Carolyn) | N/A |
+| 43 | [Bruce Pearl](http://twitter.com/search?q=Bruce+Pearl) | N/A |
+| 44 | [Cason](http://twitter.com/search?q=Cason) | N/A |
+| 45 | [Rupp](http://twitter.com/search?q=Rupp) | Rupp is an acronym for the phrase "Recognize, Understand, Prepare, and Perform". It is a strategy used to help people achieve their goals by breaking them down into smaller steps. The idea is to recognize the goal, understand what it will take to reach it, prepare for the journey ahead, and then perform the necessary actions to make it happen. |
+| 46 | [Big Bill](http://twitter.com/search?q=Big+Bill) | Big Bill is a slang term used to refer to someone who is very successful or influential. It can also be used to describe someone who is very wealthy or powerful. |
+| 47 | [Maddy](http://twitter.com/search?q=Maddy) | Maddy is a nickname for the name Madeleine, which is of French origin and means "woman of Magdala". |
+| 48 | [Maurice](http://twitter.com/search?q=Maurice) | N/A |
+| 49 | [Andi](http://twitter.com/search?q=Andi) | Andi is a unisex name of German origin, derived from the name Andreas. It can be used as a short form of the name or as a stand-alone name. In English, it means "brave" or "manly". |
 
 
 

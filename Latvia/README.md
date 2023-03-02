@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-03-02 02:43:58 UTC`
+📆 Last Updated: `2023-03-02 03:24:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,43 +28,43 @@ This is top 50 for Latvia
 | 11 | [pareizi](http://twitter.com/search?q=pareizi) | N/A |
 | 12 | [somijā](http://twitter.com/search?q=somij%c4%81) | N/A |
 | 13 | [skaidrs](http://twitter.com/search?q=skaidrs) | N/A |
-| 14 | [Dziesmu](http://twitter.com/search?q=Dziesmu) | N/A |
-| 15 | [nekas](http://twitter.com/search?q=nekas) | N/A |
-| 16 | [kurzemē](http://twitter.com/search?q=kurzem%c4%93) | N/A |
+| 14 | [No 1](http://twitter.com/search?q=No+1) | N/A |
+| 15 | [Dziesmu](http://twitter.com/search?q=Dziesmu) | N/A |
+| 16 | [nekas](http://twitter.com/search?q=nekas) | N/A |
 | 17 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
-| 18 | [Apsveicu](http://twitter.com/search?q=Apsveicu) | N/A |
-| 19 | [#birdle](http://twitter.com/search?q=%23birdle) | N/A |
-| 20 | [Lietuvā](http://twitter.com/search?q=Lietuv%c4%81) | N/A |
-| 21 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
-| 22 | [šobrīd](http://twitter.com/search?q=%c5%a1obr%c4%abd) | N/A |
-| 23 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
+| 18 | [apsveicu](http://twitter.com/search?q=apsveicu) | N/A |
+| 19 | [kurzemē](http://twitter.com/search?q=kurzem%c4%93) | N/A |
+| 20 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 21 | [#birdle](http://twitter.com/search?q=%23birdle) | N/A |
+| 22 | [lietuvā](http://twitter.com/search?q=lietuv%c4%81) | N/A |
+| 23 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
 | 24 | [vienmēr](http://twitter.com/search?q=vienm%c4%93r) | N/A |
 | 25 | [#comedy](http://twitter.com/search?q=%23comedy) | N/A |
-| 26 | [satversmi](http://twitter.com/search?q=satversmi) | N/A |
-| 27 | [saeima](http://twitter.com/search?q=saeima) | N/A |
-| 28 | [ventspils](http://twitter.com/search?q=ventspils) | N/A |
-| 29 | [telegram](http://twitter.com/search?q=telegram) | N/A |
-| 30 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
-| 31 | [#TikTok](http://twitter.com/search?q=%23TikTok) | N/A |
-| 32 | [Neviens](http://twitter.com/search?q=Neviens) | N/A |
-| 33 | [daudz](http://twitter.com/search?q=daudz) | N/A |
-| 34 | [Igaunijā](http://twitter.com/search?q=Igaunij%c4%81) | N/A |
-| 35 | [vācijā](http://twitter.com/search?q=v%c4%81cij%c4%81) | N/A |
-| 36 | [Valsts](http://twitter.com/search?q=Valsts) | N/A |
-| 37 | [zviedrijas](http://twitter.com/search?q=zviedrijas) | N/A |
-| 38 | [atceros](http://twitter.com/search?q=atceros) | N/A |
-| 39 | [pasaules](http://twitter.com/search?q=pasaules) | N/A |
-| 40 | [vienotība](http://twitter.com/search?q=vienot%c4%abba) | N/A |
-| 41 | [francijas](http://twitter.com/search?q=francijas) | N/A |
-| 42 | [kādas](http://twitter.com/search?q=k%c4%81das) | N/A |
-| 43 | [Беларуси](http://twitter.com/search?q=%d0%91%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d0%b8) | N/A |
-| 44 | [kultūras](http://twitter.com/search?q=kult%c5%abras) | N/A |
-| 45 | [nevaru](http://twitter.com/search?q=nevaru) | N/A |
-| 46 | [#sif_maf2022](http://twitter.com/search?q=%23sif_maf2022) | N/A |
-| 47 | [tallinā](http://twitter.com/search?q=tallin%c4%81) | N/A |
-| 48 | [jelgavas](http://twitter.com/search?q=jelgavas) | N/A |
-| 49 | [rīgas](http://twitter.com/search?q=r%c4%abgas) | N/A |
-| 50 | [eiropu](http://twitter.com/search?q=eiropu) | N/A |
+| 26 | [šobrīd](http://twitter.com/search?q=%c5%a1obr%c4%abd) | N/A |
+| 27 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
+| 28 | [saeima](http://twitter.com/search?q=saeima) | N/A |
+| 29 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
+| 30 | [talsu](http://twitter.com/search?q=talsu) | N/A |
+| 31 | [ventspils](http://twitter.com/search?q=ventspils) | N/A |
+| 32 | [satversmi](http://twitter.com/search?q=satversmi) | N/A |
+| 33 | [neviens](http://twitter.com/search?q=neviens) | N/A |
+| 34 | [telegram](http://twitter.com/search?q=telegram) | N/A |
+| 35 | [daudz](http://twitter.com/search?q=daudz) | N/A |
+| 36 | [igaunijā](http://twitter.com/search?q=igaunij%c4%81) | N/A |
+| 37 | [Беларуси](http://twitter.com/search?q=%d0%91%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d0%b8) | N/A |
+| 38 | [vācijā](http://twitter.com/search?q=v%c4%81cij%c4%81) | N/A |
+| 39 | [vienotība](http://twitter.com/search?q=vienot%c4%abba) | N/A |
+| 40 | [kultūras](http://twitter.com/search?q=kult%c5%abras) | N/A |
+| 41 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 42 | [zviedrijas](http://twitter.com/search?q=zviedrijas) | N/A |
+| 43 | [atceros](http://twitter.com/search?q=atceros) | N/A |
+| 44 | [francijas](http://twitter.com/search?q=francijas) | N/A |
+| 45 | [pasaules](http://twitter.com/search?q=pasaules) | N/A |
+| 46 | [valsts](http://twitter.com/search?q=valsts) | N/A |
+| 47 | [#sif_maf2022](http://twitter.com/search?q=%23sif_maf2022) | N/A |
+| 48 | [kādas](http://twitter.com/search?q=k%c4%81das) | N/A |
+| 49 | [vakar](http://twitter.com/search?q=vakar) | N/A |
+| 50 | [tallinā](http://twitter.com/search?q=tallin%c4%81) | N/A |
 
 
 
