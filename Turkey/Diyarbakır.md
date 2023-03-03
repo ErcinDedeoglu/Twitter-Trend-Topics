@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Diyarbakır
 
-📆 Last Updated: `2023-03-03 04:43:51 UTC`
+📆 Last Updated: `2023-03-03 05:19:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,48 +21,48 @@ This is top 50 for [Turkey](</Turkey>)
 | 4 | [#secim2023](http://twitter.com/search?q=%23secim2023) | N/A |
 | 5 | [Hayırlı Cumalar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Cumalar) | "Hayırlı Cumalar" is a Turkish phrase that translates to "Have a Good Friday." It is typically used as a greeting on the Islamic holy day of Friday. |
 | 6 | [İyi Parti](http://twitter.com/search?q=%c4%b0yi+Parti) | N/A |
-| 7 | [Muharrem İnce](http://twitter.com/search?q=Muharrem+%c4%b0nce) | N/A |
-| 8 | [Ekşi Sözlük Açılmasın](http://twitter.com/search?q=Ek%c5%9fi+S%c3%b6zl%c3%bck+A%c3%a7%c4%b1lmas%c4%b1n) | N/A |
+| 7 | [ekşi sözlük açılmasın](http://twitter.com/search?q=ek%c5%9fi+s%c3%b6zl%c3%bck+a%c3%a7%c4%b1lmas%c4%b1n) | N/A |
+| 8 | [Muharrem İnce](http://twitter.com/search?q=Muharrem+%c4%b0nce) | N/A |
 | 9 | [İmamoğlu](http://twitter.com/search?q=%c4%b0mamo%c4%9flu) | N/A |
-| 10 | [Ali Babacan](http://twitter.com/search?q=Ali+Babacan) | Ali Babacan is a Turkish name. It is derived from the Arabic phrase "Ali Baba Khan", which means "noble leader". In English, it can be translated to mean "noble leader Ali". |
-| 11 | [çokuygun tthizmeti](http://twitter.com/search?q=%c3%a7okuygun+tthizmeti) | N/A |
+| 10 | [çokuygun tthizmeti](http://twitter.com/search?q=%c3%a7okuygun+tthizmeti) | N/A |
+| 11 | [Ali Babacan](http://twitter.com/search?q=Ali+Babacan) | Ali Babacan is a Turkish name. It is derived from the Arabic phrase "Ali Baba Khan", which means "noble leader". In English, it can be translated to mean "noble leader Ali". |
 | 12 | [Ümit Dikbayır](http://twitter.com/search?q=%c3%9cmit+Dikbay%c4%b1r) | N/A |
 | 13 | [Erdoğan](http://twitter.com/search?q=Erdo%c4%9fan) | N/A |
-| 14 | [Uykudan](http://twitter.com/search?q=Uykudan) | N/A |
-| 15 | [erhan usta](http://twitter.com/search?q=erhan+usta) | Erhan Usta is a Turkish phrase that translates to "Master Erhan". It is used as a term of respect for someone who is an expert in their field or has achieved a high level of skill. |
-| 16 | [MahkumudaAffedin Helalleşelim](http://twitter.com/search?q=MahkumudaAffedin+Helalle%c5%9felim) | N/A |
-| 17 | [Kürt](http://twitter.com/search?q=K%c3%bcrt) | N/A |
-| 18 | [asrın dayanışması](http://twitter.com/search?q=asr%c4%b1n+dayan%c4%b1%c5%9fmas%c4%b1) | N/A |
-| 19 | [ADAM KAZANDI](http://twitter.com/search?q=ADAM+KAZANDI) | N/A |
-| 20 | [Ahmet Ağaoğlu](http://twitter.com/search?q=Ahmet+A%c4%9fao%c4%9flu) | N/A |
-| 21 | [Ekmeleddin](http://twitter.com/search?q=Ekmeleddin) | N/A |
+| 14 | [erhan usta](http://twitter.com/search?q=erhan+usta) | Erhan Usta is a Turkish phrase that translates to "Master Erhan". It is used as a term of respect for someone who is an expert in their field or has achieved a high level of skill. |
+| 15 | [MahkumudaAffedin Helalleşelim](http://twitter.com/search?q=MahkumudaAffedin+Helalle%c5%9felim) | N/A |
+| 16 | [asrın dayanışması](http://twitter.com/search?q=asr%c4%b1n+dayan%c4%b1%c5%9fmas%c4%b1) | N/A |
+| 17 | [ADAM KAZANDI](http://twitter.com/search?q=ADAM+KAZANDI) | N/A |
+| 18 | [Kürt](http://twitter.com/search?q=K%c3%bcrt) | N/A |
+| 19 | [Ahmet Ağaoğlu](http://twitter.com/search?q=Ahmet+A%c4%9fao%c4%9flu) | N/A |
+| 20 | [Ekmeleddin](http://twitter.com/search?q=Ekmeleddin) | N/A |
+| 21 | [Masadan](http://twitter.com/search?q=Masadan) | N/A |
 | 22 | [Yusuf Kaplan](http://twitter.com/search?q=Yusuf+Kaplan) | N/A |
-| 23 | [Cem Küçük](http://twitter.com/search?q=Cem+K%c3%bc%c3%a7%c3%bck) | N/A |
-| 24 | [Pazartesi](http://twitter.com/search?q=Pazartesi) | N/A |
-| 25 | [Masadan](http://twitter.com/search?q=Masadan) | N/A |
-| 26 | [Cumamız](http://twitter.com/search?q=Cumam%c4%b1z) | N/A |
-| 27 | [Terlik](http://twitter.com/search?q=Terlik) | N/A |
-| 28 | [MASA ALTI OLAY](http://twitter.com/search?q=MASA+ALTI+OLAY) | N/A |
-| 29 | [Tunceli](http://twitter.com/search?q=Tunceli) | N/A |
-| 30 | [Arif](http://twitter.com/search?q=Arif) | N/A |
-| 31 | [Masanın](http://twitter.com/search?q=Masan%c4%b1n) | N/A |
-| 32 | [Varsaymak](http://twitter.com/search?q=Varsaymak) | N/A |
-| 33 | [Dersim](http://twitter.com/search?q=Dersim) | N/A |
-| 34 | [Tura](http://twitter.com/search?q=Tura) | N/A |
+| 23 | [Pazartesi](http://twitter.com/search?q=Pazartesi) | N/A |
+| 24 | [Cem Küçük](http://twitter.com/search?q=Cem+K%c3%bc%c3%a7%c3%bck) | N/A |
+| 25 | [Terlik](http://twitter.com/search?q=Terlik) | N/A |
+| 26 | [MASA ALTI OLAY](http://twitter.com/search?q=MASA+ALTI+OLAY) | N/A |
+| 27 | [Arif](http://twitter.com/search?q=Arif) | N/A |
+| 28 | [Tunceli](http://twitter.com/search?q=Tunceli) | N/A |
+| 29 | [Masanın](http://twitter.com/search?q=Masan%c4%b1n) | N/A |
+| 30 | [Varsaymak](http://twitter.com/search?q=Varsaymak) | N/A |
+| 31 | [Amin](http://twitter.com/search?q=Amin) | N/A |
+| 32 | [Dersim](http://twitter.com/search?q=Dersim) | N/A |
+| 33 | [Tura](http://twitter.com/search?q=Tura) | N/A |
+| 34 | [Selahattin Demirtaş](http://twitter.com/search?q=Selahattin+Demirta%c5%9f) | N/A |
 | 35 | [KK'ya](http://twitter.com/search?q=KK%27ya) | N/A |
-| 36 | [Amin](http://twitter.com/search?q=Amin) | N/A |
-| 37 | [Selahattin Demirtaş](http://twitter.com/search?q=Selahattin+Demirta%c5%9f) | N/A |
-| 38 | [Antepte](http://twitter.com/search?q=Antepte) | N/A |
+| 36 | [Mustafa İduğ](http://twitter.com/search?q=Mustafa+%c4%b0du%c4%9f) | N/A |
+| 37 | [Günaydınlar](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nlar) | N/A |
+| 38 | [Cübbeli](http://twitter.com/search?q=C%c3%bcbbeli) | Cübbeli is a Turkish term that refers to a person who is wise, knowledgeable, and experienced. It is often used to describe someone who has achieved a high level of spiritual enlightenment. In English, it can be translated as "wise one" or "enlightened one". |
 | 39 | [Türkiye İYİ](http://twitter.com/search?q=T%c3%bcrkiye+%c4%b0Y%c4%b0) | N/A |
-| 40 | [Hande Fırat](http://twitter.com/search?q=Hande+F%c4%b1rat) | N/A |
-| 41 | [Beşiktaş'ım](http://twitter.com/search?q=Be%c5%9fikta%c5%9f%27%c4%b1m) | N/A |
-| 42 | [Aleyküm](http://twitter.com/search?q=Aleyk%c3%bcm) | N/A |
-| 43 | [Cübbeli](http://twitter.com/search?q=C%c3%bcbbeli) | Cübbeli is a Turkish term that refers to a person who is wise, knowledgeable, and experienced. It is often used to describe someone who has achieved a high level of spiritual enlightenment. In English, it can be translated as "wise one" or "enlightened one". |
-| 44 | [Genel Sağlık Sigortası Kanunu](http://twitter.com/search?q=Genel+Sa%c4%9fl%c4%b1k+Sigortas%c4%b1+Kanunu) | N/A |
-| 45 | [Kazanamaz](http://twitter.com/search?q=Kazanamaz) | N/A |
-| 46 | [Müslim](http://twitter.com/search?q=M%c3%bcslim) | N/A |
-| 47 | [Derinlik](http://twitter.com/search?q=Derinlik) | N/A |
-| 48 | [Tirmizî](http://twitter.com/search?q=Tirmiz%c3%ae) | N/A |
+| 40 | [Genel Sağlık Sigortası Kanunu](http://twitter.com/search?q=Genel+Sa%c4%9fl%c4%b1k+Sigortas%c4%b1+Kanunu) | N/A |
+| 41 | [Aleyküm](http://twitter.com/search?q=Aleyk%c3%bcm) | N/A |
+| 42 | [Kazanamaz](http://twitter.com/search?q=Kazanamaz) | N/A |
+| 43 | [Hande Fırat](http://twitter.com/search?q=Hande+F%c4%b1rat) | N/A |
+| 44 | [Beşiktaş'ım](http://twitter.com/search?q=Be%c5%9fikta%c5%9f%27%c4%b1m) | N/A |
+| 45 | [Birlik](http://twitter.com/search?q=Birlik) | N/A |
+| 46 | [Fazıl](http://twitter.com/search?q=Faz%c4%b1l) | N/A |
+| 47 | [Rojbaş](http://twitter.com/search?q=Rojba%c5%9f) | N/A |
+| 48 | [Müslim](http://twitter.com/search?q=M%c3%bcslim) | N/A |
 
 
 

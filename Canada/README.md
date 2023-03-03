@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canada
 
-📆 Last Updated: `2023-03-03 04:44:05 UTC`
+📆 Last Updated: `2023-03-03 05:20:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Canada
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Nordstrom](http://twitter.com/search?q=Nordstrom) | N/A |
-| 2 | [Marner](http://twitter.com/search?q=Marner) | Marner is a surname of German origin. It is derived from the Middle High German word "marner" which means "miner". The name was originally given to someone who worked in a mine or quarry. |
-| 3 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
-| 4 | [Rachel](http://twitter.com/search?q=Rachel) | N/A |
-| 5 | [I RTd](http://twitter.com/search?q=I+RTd) | N/A |
-| 6 | [#CriticalRoleSpoilers](http://twitter.com/search?q=%23CriticalRoleSpoilers) | #CriticalRoleSpoilers is a hashtag used on social media to warn people that a post contains spoilers for the popular Dungeons & Dragons web series Critical Role. It is used to alert viewers who have not yet seen the episode or read the source material that the post contains information that could spoil their experience. |
-| 7 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 8 | [#TORvsCGY](http://twitter.com/search?q=%23TORvsCGY) | N/A |
+| 1 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 2 | [Nordstrom](http://twitter.com/search?q=Nordstrom) | N/A |
+| 3 | [#Flames](http://twitter.com/search?q=%23Flames) | N/A |
+| 4 | [I RTd](http://twitter.com/search?q=I+RTd) | N/A |
+| 5 | [Holl](http://twitter.com/search?q=Holl) | N/A |
+| 6 | [Hronek](http://twitter.com/search?q=Hronek) | N/A |
+| 7 | [Marner](http://twitter.com/search?q=Marner) | Marner is a surname of German origin. It is derived from the Middle High German word "marner" which means "miner". The name was originally given to someone who worked in a mine or quarry. |
+| 8 | [#TrudeauChineseElect](http://twitter.com/search?q=%23TrudeauChineseElect) | N/A |
 | 9 | [Uniswap](http://twitter.com/search?q=Uniswap) | N/A |
-| 10 | [Global](http://twitter.com/search?q=Global) | N/A |
-| 11 | [#GoSensGo](http://twitter.com/search?q=%23GoSensGo) | N/A |
-| 12 | [#BudFirstGoal](http://twitter.com/search?q=%23BudFirstGoal) | N/A |
-| 13 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
-| 14 | [Holl](http://twitter.com/search?q=Holl) | N/A |
-| 15 | [Kadri](http://twitter.com/search?q=Kadri) | N/A |
-| 16 | [Matthews](http://twitter.com/search?q=Matthews) | N/A |
-| 17 | [#WhoWantsIt](http://twitter.com/search?q=%23WhoWantsIt) | N/A |
-| 18 | [Health Canada](http://twitter.com/search?q=Health+Canada) | N/A |
-| 19 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 20 | [Nick Nurse](http://twitter.com/search?q=Nick+Nurse) | N/A |
-| 21 | [Big Game Brass](http://twitter.com/search?q=Big+Game+Brass) | N/A |
-| 22 | [Schenn](http://twitter.com/search?q=Schenn) | N/A |
-| 23 | [Target](http://twitter.com/search?q=Target) | N/A |
-| 24 | [Woll](http://twitter.com/search?q=Woll) | N/A |
-| 25 | [Keefe](http://twitter.com/search?q=Keefe) | N/A |
-| 26 | [Ethereum](http://twitter.com/search?q=Ethereum) | N/A |
-| 27 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
-| 28 | [Wizards](http://twitter.com/search?q=Wizards) | Wizards is a term used to refer to people who are skilled in magic or the supernatural. It is often used to describe powerful and wise characters in fantasy stories, such as Merlin from the Arthurian legends. In modern usage, it can also refer to people who are highly skilled in a particular field or profession. |
-| 29 | [Murdaugh](http://twitter.com/search?q=Murdaugh) | N/A |
-| 30 | [Precious](http://twitter.com/search?q=Precious) | N/A |
-| 31 | [Joel Edmundson](http://twitter.com/search?q=Joel+Edmundson) | N/A |
-| 32 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
-| 33 | [Rielly](http://twitter.com/search?q=Rielly) | N/A |
-| 34 | [Boeser](http://twitter.com/search?q=Boeser) | N/A |
-| 35 | [Poeltl](http://twitter.com/search?q=Poeltl) | N/A |
-| 36 | [Jakob](http://twitter.com/search?q=Jakob) | N/A |
-| 37 | [Tarasenko](http://twitter.com/search?q=Tarasenko) | N/A |
-| 38 | [Holden](http://twitter.com/search?q=Holden) | N/A |
-| 39 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
-| 40 | [Hershey](http://twitter.com/search?q=Hershey) | N/A |
-| 41 | [Buster](http://twitter.com/search?q=Buster) | N/A |
-| 42 | [Watson](http://twitter.com/search?q=Watson) | Watson is an artificial intelligence (AI) computer system developed by IBM. It is capable of answering questions posed in natural language, making it a useful tool for businesses and researchers. Watson can also be used to analyze large amounts of data and generate insights from it. |
-| 43 | [Guilty](http://twitter.com/search?q=Guilty) | In English, "guilty" is an adjective that means responsible for a crime or wrongdoing. It is often used in a legal context to refer to someone who has been found guilty of a crime in a court of law. |
-| 44 | [Diane](http://twitter.com/search?q=Diane) | N/A |
+| 10 | [15 ETH](http://twitter.com/search?q=15+ETH) | N/A |
+| 11 | [Hershey](http://twitter.com/search?q=Hershey) | N/A |
+| 12 | [#TORvsCGY](http://twitter.com/search?q=%23TORvsCGY) | N/A |
+| 13 | [MEVs](http://twitter.com/search?q=MEVs) | N/A |
+| 14 | [#BudFirstGoal](http://twitter.com/search?q=%23BudFirstGoal) | N/A |
+| 15 | [#LeafsForever](http://twitter.com/search?q=%23LeafsForever) | #LeafsForever is a hashtag used by Toronto Maple Leafs fans to show their support for the team. It is a rallying cry for the team and its fans, expressing their loyalty and dedication to the team. |
+| 16 | [Kravtsov](http://twitter.com/search?q=Kravtsov) | N/A |
+| 17 | [Bertuzzi](http://twitter.com/search?q=Bertuzzi) | N/A |
+| 18 | [Markstrom](http://twitter.com/search?q=Markstrom) | N/A |
+| 19 | [Chychrun](http://twitter.com/search?q=Chychrun) | N/A |
+| 20 | [Kadri](http://twitter.com/search?q=Kadri) | N/A |
+| 21 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 22 | [Coyotes](http://twitter.com/search?q=Coyotes) | N/A |
+| 23 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
+| 24 | [Nuge](http://twitter.com/search?q=Nuge) | N/A |
+| 25 | [Arizona](http://twitter.com/search?q=Arizona) | N/A |
+| 26 | [Bjugstad](http://twitter.com/search?q=Bjugstad) | N/A |
+| 27 | [Kesselring](http://twitter.com/search?q=Kesselring) | N/A |
+| 28 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
+| 29 | [Canucks](http://twitter.com/search?q=Canucks) | Canucks is a slang term for Canadians. It is derived from the word "Canadian" and is often used in a jocular or affectionate manner. |
+| 30 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 31 | [Jarnkrok](http://twitter.com/search?q=Jarnkrok) | N/A |
+| 32 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
+| 33 | [Woll](http://twitter.com/search?q=Woll) | N/A |
+| 34 | [Rachel](http://twitter.com/search?q=Rachel) | N/A |
+| 35 | [Trudeau Foundation](http://twitter.com/search?q=Trudeau+Foundation) | N/A |
+| 36 | [Kerfoot](http://twitter.com/search?q=Kerfoot) | N/A |
+| 37 | [Tom Wilson](http://twitter.com/search?q=Tom+Wilson) | N/A |
+| 38 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
+| 39 | [Global](http://twitter.com/search?q=Global) | N/A |
+| 40 | [Holden](http://twitter.com/search?q=Holden) | N/A |
+| 41 | [Calgary](http://twitter.com/search?q=Calgary) | N/A |
+| 42 | [Jonathan Quick](http://twitter.com/search?q=Jonathan+Quick) | N/A |
+| 43 | [Brassard](http://twitter.com/search?q=Brassard) | N/A |
+| 44 | [Pikamee](http://twitter.com/search?q=Pikamee) | N/A |
 | 45 | [Jupiter and Venus](http://twitter.com/search?q=Jupiter+and+Venus) | N/A |
-| 46 | [Big Mac](http://twitter.com/search?q=Big+Mac) | N/A |
-| 47 | [Ottawa Senators](http://twitter.com/search?q=Ottawa+Senators) | N/A |
-| 48 | [Kesselring](http://twitter.com/search?q=Kesselring) | N/A |
-| 49 | [Petey](http://twitter.com/search?q=Petey) | N/A |
-| 50 | [Chabot](http://twitter.com/search?q=Chabot) | N/A |
+| 46 | [LTIR](http://twitter.com/search?q=LTIR) | N/A |
+| 47 | [jcole](http://twitter.com/search?q=jcole) | N/A |
+| 48 | [Keefe](http://twitter.com/search?q=Keefe) | N/A |
+| 49 | [Health Canada](http://twitter.com/search?q=Health+Canada) | N/A |
+| 50 | [Nick Nurse](http://twitter.com/search?q=Nick+Nurse) | N/A |
 
 
 

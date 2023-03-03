@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Jose
 
-📆 Last Updated: `2023-03-03 04:44:02 UTC`
+📆 Last Updated: `2023-03-03 05:20:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Eric Gordon](http://twitter.com/search?q=Eric+Gordon) | N/A |
-| 2 | [Kuminga](http://twitter.com/search?q=Kuminga) | Kuminga is a given name of African origin, derived from the Kikuyu language of Kenya. It means "the one who comes first" or "the firstborn". |
+| 1 | [Jordan Poole](http://twitter.com/search?q=Jordan+Poole) | N/A |
+| 2 | [Eric Gordon](http://twitter.com/search?q=Eric+Gordon) | N/A |
 | 3 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
-| 4 | [Venus and Jupiter](http://twitter.com/search?q=Venus+and+Jupiter) | N/A |
-| 5 | [#jhope](http://twitter.com/search?q=%23jhope) | N/A |
-| 6 | [#ReadAcrossAmericaDay](http://twitter.com/search?q=%23ReadAcrossAmericaDay) | N/A |
-| 7 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
-| 8 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
-| 9 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 10 | [Rolling Loud](http://twitter.com/search?q=Rolling+Loud) | N/A |
+| 4 | [#ReadAcrossAmericaDay](http://twitter.com/search?q=%23ReadAcrossAmericaDay) | N/A |
+| 5 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
+| 6 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
+| 7 | [Venus and Jupiter](http://twitter.com/search?q=Venus+and+Jupiter) | N/A |
+| 8 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 9 | [#LavenderHazeMusicVideo](http://twitter.com/search?q=%23LavenderHazeMusicVideo) | #LavenderHazeMusicVideo is a hashtag used to promote the music video for the song "Lavender Haze" by the artist Masego. The song is about embracing and celebrating one's uniqueness and individuality. |
+| 10 | [#RedRubyDaSleaze](http://twitter.com/search?q=%23RedRubyDaSleaze) | N/A |
 | 11 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 12 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 13 | [#CriticalRoleSpoilers](http://twitter.com/search?q=%23CriticalRoleSpoilers) | #CriticalRoleSpoilers is a hashtag used on social media to warn people that a post contains spoilers for the popular Dungeons & Dragons web series Critical Role. It is used to alert viewers who have not yet seen the episode or read the source material that the post contains information that could spoil their experience. |
-| 14 | [Walgreens](http://twitter.com/search?q=Walgreens) | N/A |
-| 15 | [Alex Murdaugh](http://twitter.com/search?q=Alex+Murdaugh) | N/A |
-| 16 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
-| 17 | [cole hyung](http://twitter.com/search?q=cole+hyung) | N/A |
-| 18 | [Michigan](http://twitter.com/search?q=Michigan) | Michigan is a state in the Midwestern United States. It is bordered by four of the five Great Lakes, and is the only state to be surrounded by three out of the five. Michigan is known for its diverse landscape, which includes forests, beaches, and rolling hills. The state's name comes from the Ojibwe word "mishigami," which means "large lake." |
-| 19 | [Maxey](http://twitter.com/search?q=Maxey) | Maxey is a surname of English origin. It is derived from the Old English personal name Maccus, which was a diminutive form of Matthew. The meaning of Maxey in English is "son of Maccus". |
+| 12 | [JHOPE COLE](http://twitter.com/search?q=JHOPE+COLE) | N/A |
+| 13 | [Walgreens](http://twitter.com/search?q=Walgreens) | N/A |
+| 14 | [Alex Murdaugh](http://twitter.com/search?q=Alex+Murdaugh) | N/A |
+| 15 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 16 | [cole hyung](http://twitter.com/search?q=cole+hyung) | N/A |
+| 17 | [Buster](http://twitter.com/search?q=Buster) | N/A |
+| 18 | [Fearne](http://twitter.com/search?q=Fearne) | N/A |
+| 19 | [COLE WORLD](http://twitter.com/search?q=COLE+WORLD) | N/A |
 | 20 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
-| 21 | [RED RUBY](http://twitter.com/search?q=RED+RUBY) | N/A |
-| 22 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
-| 23 | [Joey Baker](http://twitter.com/search?q=Joey+Baker) | N/A |
-| 24 | [Antoine Davis](http://twitter.com/search?q=Antoine+Davis) | N/A |
-| 25 | [Buster](http://twitter.com/search?q=Buster) | N/A |
-| 26 | [Discover](http://twitter.com/search?q=Discover) | N/A |
-| 27 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
-| 28 | [Creed 3](http://twitter.com/search?q=Creed+3) | N/A |
-| 29 | [Fearne](http://twitter.com/search?q=Fearne) | N/A |
-| 30 | [Edey](http://twitter.com/search?q=Edey) | Edey is a slang term used in some parts of the United States to refer to someone who is cool, stylish, or attractive. It can also be used as a term of endearment. |
-| 31 | [HOBI LIVE](http://twitter.com/search?q=HOBI+LIVE) | N/A |
-| 32 | [Anthony Lamb](http://twitter.com/search?q=Anthony+Lamb) | Anthony Lamb is a phrase used to describe someone who is indecisive or easily swayed. It comes from the story of Anthony and Cleopatra, in which Anthony was unable to make up his mind between his love for Cleopatra and his loyalty to Rome. |
-| 33 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
-| 34 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
-| 35 | [Detroit Mercy](http://twitter.com/search?q=Detroit+Mercy) | N/A |
-| 36 | [Donte](http://twitter.com/search?q=Donte) | Donte is a given name of Italian origin, derived from the Latin name "Donatus". It is a variant of the name "Donato" and can be translated to mean "given" or "gift". |
-| 37 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
-| 38 | [Stephen Smith](http://twitter.com/search?q=Stephen+Smith) | N/A |
-| 39 | [Klesmit](http://twitter.com/search?q=Klesmit) | N/A |
-| 40 | [Kobe Bufkin](http://twitter.com/search?q=Kobe+Bufkin) | N/A |
-| 41 | [Mavericks](http://twitter.com/search?q=Mavericks) | Mavericks is a term used to describe an independent-minded person who does not conform to the norms of society. It is often used to describe someone who is willing to take risks and challenge the status quo. |
-| 42 | [Pistol Pete](http://twitter.com/search?q=Pistol+Pete) | N/A |
-| 43 | [Zucker](http://twitter.com/search?q=Zucker) | N/A |
-| 44 | [Metroid Fusion](http://twitter.com/search?q=Metroid+Fusion) | N/A |
-| 45 | [Kyedae](http://twitter.com/search?q=Kyedae) | N/A |
-| 46 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
-| 47 | [PNC Bank](http://twitter.com/search?q=PNC+Bank) | N/A |
-| 48 | [Hershey](http://twitter.com/search?q=Hershey) | N/A |
-| 49 | [Guilty](http://twitter.com/search?q=Guilty) | In English, "guilty" is an adjective that means responsible for a crime or wrongdoing. It is often used in a legal context to refer to someone who has been found guilty of a crime in a court of law. |
+| 21 | [Discover](http://twitter.com/search?q=Discover) | N/A |
+| 22 | [Michigan](http://twitter.com/search?q=Michigan) | Michigan is a state in the Midwestern United States. It is bordered by four of the five Great Lakes, and is the only state to be surrounded by three out of the five. Michigan is known for its diverse landscape, which includes forests, beaches, and rolling hills. The state's name comes from the Ojibwe word "mishigami," which means "large lake." |
+| 23 | [Anthony Lamb](http://twitter.com/search?q=Anthony+Lamb) | Anthony Lamb is a phrase used to describe someone who is indecisive or easily swayed. It comes from the story of Anthony and Cleopatra, in which Anthony was unable to make up his mind between his love for Cleopatra and his loyalty to Rome. |
+| 24 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
+| 25 | [Edey](http://twitter.com/search?q=Edey) | Edey is a slang term used in some parts of the United States to refer to someone who is cool, stylish, or attractive. It can also be used as a term of endearment. |
+| 26 | [Joey Baker](http://twitter.com/search?q=Joey+Baker) | N/A |
+| 27 | [Creed 3](http://twitter.com/search?q=Creed+3) | N/A |
+| 28 | [Donte](http://twitter.com/search?q=Donte) | Donte is a given name of Italian origin, derived from the Latin name "Donatus". It is a variant of the name "Donato" and can be translated to mean "given" or "gift". |
+| 29 | [JUNG HOSEOK](http://twitter.com/search?q=JUNG+HOSEOK) | Jung Hoseok is the stage name of South Korean singer, songwriter, and dancer, J-Hope. He is a member of the K-pop boy group BTS. The name "Jung Hoseok" translates to "One Hope" in English. |
+| 30 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
+| 31 | [Klesmit](http://twitter.com/search?q=Klesmit) | N/A |
+| 32 | [Maxey](http://twitter.com/search?q=Maxey) | Maxey is a surname of English origin. It is derived from the Old English personal name Maccus, which was a diminutive form of Matthew. The meaning of Maxey in English is "son of Maccus". |
+| 33 | [Stephen Smith](http://twitter.com/search?q=Stephen+Smith) | N/A |
+| 34 | [Guilty](http://twitter.com/search?q=Guilty) | In English, "guilty" is an adjective that means responsible for a crime or wrongdoing. It is often used in a legal context to refer to someone who has been found guilty of a crime in a court of law. |
+| 35 | [dawon](http://twitter.com/search?q=dawon) | N/A |
+| 36 | [Metroid Fusion](http://twitter.com/search?q=Metroid+Fusion) | N/A |
+| 37 | [Matt Murray](http://twitter.com/search?q=Matt+Murray) | N/A |
+| 38 | [Hershey](http://twitter.com/search?q=Hershey) | N/A |
+| 39 | [Norman Powell](http://twitter.com/search?q=Norman+Powell) | Norman Powell is a Canadian professional basketball player who currently plays for the Toronto Raptors of the National Basketball Association (NBA). His name is derived from his middle name, Norman, and his last name, Powell. |
+| 40 | [PNC Bank](http://twitter.com/search?q=PNC+Bank) | N/A |
+| 41 | [Nolan Smith](http://twitter.com/search?q=Nolan+Smith) | N/A |
+| 42 | [Kyedae](http://twitter.com/search?q=Kyedae) | N/A |
+| 43 | [Pistol Pete](http://twitter.com/search?q=Pistol+Pete) | N/A |
+| 44 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
+| 45 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
+| 46 | [Inside the NBA](http://twitter.com/search?q=Inside+the+NBA) | N/A |
+| 47 | [Hepburn](http://twitter.com/search?q=Hepburn) | N/A |
+| 48 | [Maggie](http://twitter.com/search?q=Maggie) | N/A |
+| 49 | [Mavericks](http://twitter.com/search?q=Mavericks) | Mavericks is a term used to describe an independent-minded person who does not conform to the norms of society. It is often used to describe someone who is willing to take risks and challenge the status quo. |
 
 
 

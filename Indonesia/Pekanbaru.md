@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pekanbaru
 
-📆 Last Updated: `2023-03-03 04:43:28 UTC`
+📆 Last Updated: `2023-03-03 05:19:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,46 +16,50 @@ This is top 50 for [Indonesia](</Indonesia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#HariRPLDesa](http://twitter.com/search?q=%23HariRPLDesa) | N/A |
-| 2 | [R to V](http://twitter.com/search?q=R+to+V) | N/A |
-| 3 | [WHO IN SEVENTEEN](http://twitter.com/search?q=WHO+IN+SEVENTEEN) | N/A |
-| 4 | [Ultimate Bias](http://twitter.com/search?q=Ultimate+Bias) | N/A |
-| 5 | [NICE TO MEET YOU BUILD](http://twitter.com/search?q=NICE+TO+MEET+YOU+BUILD) | N/A |
-| 6 | [First Bias](http://twitter.com/search?q=First+Bias) | N/A |
+| 2 | [Indomie Yatai](http://twitter.com/search?q=Indomie+Yatai) | N/A |
+| 3 | [berita ekonomi terkini](http://twitter.com/search?q=berita+ekonomi+terkini) | N/A |
+| 4 | [ekspresikan gayamu](http://twitter.com/search?q=ekspresikan+gayamu) | N/A |
+| 5 | [R to V](http://twitter.com/search?q=R+to+V) | N/A |
+| 6 | [TY WEARS LOEWE](http://twitter.com/search?q=TY+WEARS+LOEWE) | N/A |
 | 7 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
-| 8 | [Nobita](http://twitter.com/search?q=Nobita) | N/A |
-| 9 | [Shizuka](http://twitter.com/search?q=Shizuka) | N/A |
-| 10 | [ON THE STREET OUT TODAY](http://twitter.com/search?q=ON+THE+STREET+OUT+TODAY) | N/A |
-| 11 | [PN Jakpus](http://twitter.com/search?q=PN+Jakpus) | N/A |
-| 12 | [Partai Prima](http://twitter.com/search?q=Partai+Prima) | N/A |
-| 13 | [Cleaning](http://twitter.com/search?q=Cleaning) | N/A |
-| 14 | [ON THE STREET WITH J-HOPE](http://twitter.com/search?q=ON+THE+STREET+WITH+J-HOPE) | N/A |
-| 15 | [Rekognisi Pembelajaran Lampau](http://twitter.com/search?q=Rekognisi+Pembelajaran+Lampau) | N/A |
-| 16 | [NA JAEMIN THANK YOU](http://twitter.com/search?q=NA+JAEMIN+THANK+YOU) | N/A |
-| 17 | [Red Velvet](http://twitter.com/search?q=Red+Velvet) | N/A |
-| 18 | [Pemilu](http://twitter.com/search?q=Pemilu) | N/A |
-| 19 | [Doraemon](http://twitter.com/search?q=Doraemon) | N/A |
-| 20 | [Yuta](http://twitter.com/search?q=Yuta) | N/A |
-| 21 | [Dyandra](http://twitter.com/search?q=Dyandra) | N/A |
-| 22 | [jeonghan](http://twitter.com/search?q=jeonghan) | Jeonghan is a Korean given name, usually for males. It is composed of two characters: "Jeong" meaning "righteous" and "Han" meaning "greatness". In English, Jeonghan can be translated to mean "righteous greatness". |
-| 23 | [Hakim](http://twitter.com/search?q=Hakim) | N/A |
-| 24 | [Dreamies](http://twitter.com/search?q=Dreamies) | N/A |
-| 25 | [Jeep](http://twitter.com/search?q=Jeep) | N/A |
-| 26 | [Dota 2](http://twitter.com/search?q=Dota+2) | N/A |
-| 27 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 28 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 29 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 30 | [ARTIST AND STAFF](http://twitter.com/search?q=ARTIST+AND+STAFF) | N/A |
-| 31 | [#ETDoktorHC](http://twitter.com/search?q=%23ETDoktorHC) | N/A |
-| 32 | [#PalembangUntukGanjar](http://twitter.com/search?q=%23PalembangUntukGanjar) | N/A |
-| 33 | [#ACQUADIPARMAxCHANYEOL](http://twitter.com/search?q=%23ACQUADIPARMAxCHANYEOL) | N/A |
-| 34 | [#JumatBerkah](http://twitter.com/search?q=%23JumatBerkah) | N/A |
-| 35 | [#HelloBuildJakapan](http://twitter.com/search?q=%23HelloBuildJakapan) | N/A |
-| 36 | [#on_the_street](http://twitter.com/search?q=%23on_the_street) | N/A |
-| 37 | [#JCole](http://twitter.com/search?q=%23JCole) | N/A |
-| 38 | [#TDS2inJAKARTA](http://twitter.com/search?q=%23TDS2inJAKARTA) | #TDS2inJAKARTA is a hashtag used to promote the second edition of The Digital Summit (TDS) in Jakarta, Indonesia. It is an event that brings together digital professionals from around the world to discuss the latest trends and technologies in the digital space. |
-| 39 | [#KembangApi](http://twitter.com/search?q=%23KembangApi) | N/A |
-| 40 | [#jhope](http://twitter.com/search?q=%23jhope) | N/A |
-| 41 | [#LIKEITLIKEIT_OUT_NOW](http://twitter.com/search?q=%23LIKEITLIKEIT_OUT_NOW) | N/A |
+| 8 | [First Bias](http://twitter.com/search?q=First+Bias) | N/A |
+| 9 | [NICE TO MEET YOU BUILD](http://twitter.com/search?q=NICE+TO+MEET+YOU+BUILD) | N/A |
+| 10 | [Ultimate Bias](http://twitter.com/search?q=Ultimate+Bias) | N/A |
+| 11 | [epic grand prize](http://twitter.com/search?q=epic+grand+prize) | N/A |
+| 12 | [asuransi aia](http://twitter.com/search?q=asuransi+aia) | N/A |
+| 13 | [WHO IN SEVENTEEN](http://twitter.com/search?q=WHO+IN+SEVENTEEN) | N/A |
+| 14 | [PN Jakpus](http://twitter.com/search?q=PN+Jakpus) | N/A |
+| 15 | [Partai Prima](http://twitter.com/search?q=Partai+Prima) | N/A |
+| 16 | [Pesta Rakyat Ganjar Pranowo](http://twitter.com/search?q=Pesta+Rakyat+Ganjar+Pranowo) | N/A |
+| 17 | [Silent](http://twitter.com/search?q=Silent) | N/A |
+| 18 | [jkt48 hujan voucher lazada](http://twitter.com/search?q=jkt48+hujan+voucher+lazada) | N/A |
+| 19 | [Nobita](http://twitter.com/search?q=Nobita) | N/A |
+| 20 | [NA JAEMIN THANK YOU](http://twitter.com/search?q=NA+JAEMIN+THANK+YOU) | N/A |
+| 21 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 22 | [HYBE PROTECT RM](http://twitter.com/search?q=HYBE+PROTECT+RM) | N/A |
+| 23 | [Daehwi](http://twitter.com/search?q=Daehwi) | N/A |
+| 24 | [BIGHIT PROTECT RM](http://twitter.com/search?q=BIGHIT+PROTECT+RM) | N/A |
+| 25 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 26 | [ARTIST AND STAFF](http://twitter.com/search?q=ARTIST+AND+STAFF) | N/A |
+| 27 | [Shizuka](http://twitter.com/search?q=Shizuka) | N/A |
+| 28 | [ON THE STREET OUT TODAY](http://twitter.com/search?q=ON+THE+STREET+OUT+TODAY) | N/A |
+| 29 | [Kyedae](http://twitter.com/search?q=Kyedae) | N/A |
+| 30 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
+| 31 | [Formula E](http://twitter.com/search?q=Formula+E) | N/A |
+| 32 | [ON THE STREET WITH J-HOPE](http://twitter.com/search?q=ON+THE+STREET+WITH+J-HOPE) | N/A |
+| 33 | [TIFFANY BRAND AMBASSADOR JIMIN](http://twitter.com/search?q=TIFFANY+BRAND+AMBASSADOR+JIMIN) | N/A |
+| 34 | [haechan lee thank you](http://twitter.com/search?q=haechan+lee+thank+you) | N/A |
+| 35 | [Erick](http://twitter.com/search?q=Erick) | N/A |
+| 36 | [our sunshine park jeongwoo](http://twitter.com/search?q=our+sunshine+park+jeongwoo) | N/A |
+| 37 | [Jeep](http://twitter.com/search?q=Jeep) | N/A |
+| 38 | [bapak prabowo subianto](http://twitter.com/search?q=bapak+prabowo+subianto) | N/A |
+| 39 | [Pemilu](http://twitter.com/search?q=Pemilu) | N/A |
+| 40 | [Dota 2](http://twitter.com/search?q=Dota+2) | N/A |
+| 41 | [Khuntoria](http://twitter.com/search?q=Khuntoria) | N/A |
+| 42 | [Cleaning](http://twitter.com/search?q=Cleaning) | N/A |
+| 43 | [Rekognisi Pembelajaran Lampau](http://twitter.com/search?q=Rekognisi+Pembelajaran+Lampau) | N/A |
+| 44 | [Pika](http://twitter.com/search?q=Pika) | N/A |
+| 45 | [blooming with leeseo](http://twitter.com/search?q=blooming+with+leeseo) | N/A |
 
 
 

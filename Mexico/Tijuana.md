@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tijuana
 
-📆 Last Updated: `2023-03-03 04:43:11 UTC`
+📆 Last Updated: `2023-03-03 05:19:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,49 +16,54 @@ This is top 50 for [Mexico](</Mexico>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#PreseaEdoMex](http://twitter.com/search?q=%23PreseaEdoMex) | N/A |
-| 2 | [#MexiquensesChingonas](http://twitter.com/search?q=%23MexiquensesChingonas) | N/A |
+| 2 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
 | 3 | [#VillaEnJuego](http://twitter.com/search?q=%23VillaEnJuego) | N/A |
-| 4 | [ON THE STREET OUT TODAY](http://twitter.com/search?q=ON+THE+STREET+OUT+TODAY) | N/A |
-| 5 | [J-HOPE X J. COLE](http://twitter.com/search?q=J-HOPE+X+J.+COLE) | N/A |
-| 6 | [#HelloBuildJakapan](http://twitter.com/search?q=%23HelloBuildJakapan) | N/A |
-| 7 | [#ContigoSiempre](http://twitter.com/search?q=%23ContigoSiempre) | N/A |
+| 4 | [#MexiquensesChingonas](http://twitter.com/search?q=%23MexiquensesChingonas) | N/A |
+| 5 | [#ElAmorInvencible](http://twitter.com/search?q=%23ElAmorInvencible) | N/A |
+| 6 | [#on_the_street](http://twitter.com/search?q=%23on_the_street) | N/A |
+| 7 | [NICE TO MEET YOU BUILD](http://twitter.com/search?q=NICE+TO+MEET+YOU+BUILD) | N/A |
 | 8 | [Pajarito](http://twitter.com/search?q=Pajarito) | N/A |
-| 9 | [Mayonesa](http://twitter.com/search?q=Mayonesa) | N/A |
+| 9 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
 | 10 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
 | 11 | [La RAE](http://twitter.com/search?q=La+RAE) | N/A |
-| 12 | [Crema](http://twitter.com/search?q=Crema) | N/A |
-| 13 | [Patricia Mercado](http://twitter.com/search?q=Patricia+Mercado) | N/A |
-| 14 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 15 | [Atlante](http://twitter.com/search?q=Atlante) | N/A |
-| 16 | [EXPLICA TU TWITTER](http://twitter.com/search?q=EXPLICA+TU+TWITTER) | N/A |
-| 17 | [Maluma](http://twitter.com/search?q=Maluma) | N/A |
+| 12 | [ALL I WANTED](http://twitter.com/search?q=ALL+I+WANTED) | N/A |
+| 13 | [Crema](http://twitter.com/search?q=Crema) | N/A |
+| 14 | [Mayonesa](http://twitter.com/search?q=Mayonesa) | N/A |
+| 15 | [Leona](http://twitter.com/search?q=Leona) | N/A |
+| 16 | [Columba](http://twitter.com/search?q=Columba) | N/A |
+| 17 | [Rune](http://twitter.com/search?q=Rune) | Rune is an ancient form of writing used by Germanic and Scandinavian cultures. It is a form of divination, or fortune-telling, that uses symbols to represent different meanings. The word rune comes from the Old Norse word rún, which means "secret" or "mystery". In English, rune can also refer to a letter of the runic alphabet. |
 | 18 | [Edmundo Jacobo](http://twitter.com/search?q=Edmundo+Jacobo) | N/A |
-| 19 | [Leona](http://twitter.com/search?q=Leona) | N/A |
-| 20 | [Creed III](http://twitter.com/search?q=Creed+III) | N/A |
-| 21 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 22 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 23 | [Pipe](http://twitter.com/search?q=Pipe) | N/A |
-| 24 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 25 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
-| 26 | [Cocca](http://twitter.com/search?q=Cocca) | N/A |
-| 27 | [Shingeki](http://twitter.com/search?q=Shingeki) | Shingeki is a Japanese word that translates to "advancement" or "onslaught" in English. It is often used to refer to a sudden, large-scale attack or invasion. |
-| 28 | [Dania](http://twitter.com/search?q=Dania) | N/A |
-| 29 | [Ansu Fati](http://twitter.com/search?q=Ansu+Fati) | Ansu Fati is the nickname of a Spanish professional footballer, Anssumane Fati. He currently plays for FC Barcelona and the Spanish national team. The name Ansu Fati is derived from his given name, Anssumane, which means "God's gift" in the West African language of Bambara. In English, Ansu Fati translates to "God's Gift". |
-| 30 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 31 | [UANL](http://twitter.com/search?q=UANL) | N/A |
-| 32 | [Jenaro](http://twitter.com/search?q=Jenaro) | N/A |
-| 33 | [Pocho](http://twitter.com/search?q=Pocho) | Pocho is a Spanish slang term used to describe someone who is of Mexican descent but has lost touch with their cultural heritage. It can be used as an insult or a term of endearment, depending on the context. In English, it can be translated to mean "assimilated" or "out of touch". |
-| 34 | [Bernabéu](http://twitter.com/search?q=Bernab%c3%a9u) | Bernabéu is the name of the home stadium of Spanish football club Real Madrid. It is officially known as Estadio Santiago Bernabéu, named after the former club president Santiago Bernabéu. In English, it is referred to as the Santiago Bernabéu Stadium. |
-| 35 | [Norma](http://twitter.com/search?q=Norma) | N/A |
-| 36 | [María Sabina](http://twitter.com/search?q=Mar%c3%ada+Sabina) | N/A |
-| 37 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
-| 38 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
-| 39 | [jorge sánchez](http://twitter.com/search?q=jorge+s%c3%a1nchez) | N/A |
-| 40 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
-| 41 | [#OneHitWonderXEDA](http://twitter.com/search?q=%23OneHitWonderXEDA) | N/A |
-| 42 | [#5toInformeDS](http://twitter.com/search?q=%235toInformeDS) | N/A |
-| 43 | [#JuevesdeReacciones](http://twitter.com/search?q=%23JuevesdeReacciones) | N/A |
-| 44 | [#JuanNoEstasSolo](http://twitter.com/search?q=%23JuanNoEstasSolo) | N/A |
+| 19 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 20 | [Patricia Mercado](http://twitter.com/search?q=Patricia+Mercado) | N/A |
+| 21 | [Berrettini](http://twitter.com/search?q=Berrettini) | Berrettini is an Italian surname. It is derived from the word "berretto," which means "hat" in Italian. The name is likely to have originated as a nickname for someone who wore a distinctive hat or was known for making hats. |
+| 22 | [Fogel](http://twitter.com/search?q=Fogel) | N/A |
+| 23 | [Guanajuato](http://twitter.com/search?q=Guanajuato) | N/A |
+| 24 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 25 | [Maluma](http://twitter.com/search?q=Maluma) | N/A |
+| 26 | [Lolita Ayala](http://twitter.com/search?q=Lolita+Ayala) | N/A |
+| 27 | [Chencho Corleone](http://twitter.com/search?q=Chencho+Corleone) | N/A |
+| 28 | [Lino](http://twitter.com/search?q=Lino) | N/A |
+| 29 | [Pipe](http://twitter.com/search?q=Pipe) | N/A |
+| 30 | [Mang](http://twitter.com/search?q=Mang) | N/A |
+| 31 | [EXPLICA TU TWITTER](http://twitter.com/search?q=EXPLICA+TU+TWITTER) | N/A |
+| 32 | [The Only Exception](http://twitter.com/search?q=The+Only+Exception) | N/A |
+| 33 | [Creed](http://twitter.com/search?q=Creed) | N/A |
+| 34 | [Oliver](http://twitter.com/search?q=Oliver) | N/A |
+| 35 | [Metroid](http://twitter.com/search?q=Metroid) | N/A |
+| 36 | [CBTIS 37](http://twitter.com/search?q=CBTIS+37) | N/A |
+| 37 | [Alvarito](http://twitter.com/search?q=Alvarito) | N/A |
+| 38 | [Gael](http://twitter.com/search?q=Gael) | N/A |
+| 39 | [Terry](http://twitter.com/search?q=Terry) | N/A |
+| 40 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 41 | [Speak Now TV](http://twitter.com/search?q=Speak+Now+TV) | Speak Now TV is a Japanese television program that focuses on giving people the opportunity to speak out and express their opinions on various topics. The name of the show comes from the phrase "speak now or forever hold your peace," which is used in weddings to give guests a chance to voice any objections they may have before the ceremony can proceed. |
+| 42 | [Anuel](http://twitter.com/search?q=Anuel) | N/A |
+| 43 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
+| 44 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
+| 45 | [Samira](http://twitter.com/search?q=Samira) | N/A |
+| 46 | [Descansa](http://twitter.com/search?q=Descansa) | N/A |
+| 47 | [Cajeme](http://twitter.com/search?q=Cajeme) | N/A |
+| 48 | [Aylin](http://twitter.com/search?q=Aylin) | N/A |
+| 49 | [Fabián](http://twitter.com/search?q=Fabi%c3%a1n) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philippines
 
-📆 Last Updated: `2023-03-03 04:44:11 UTC`
+📆 Last Updated: `2023-03-03 05:20:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Philippines
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [WHO IN SEVENTEEN](http://twitter.com/search?q=WHO+IN+SEVENTEEN) | N/A |
-| 2 | [Ultimate Bias](http://twitter.com/search?q=Ultimate+Bias) | N/A |
+| 1 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 2 | [#on_the_street](http://twitter.com/search?q=%23on_the_street) | N/A |
 | 3 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
-| 4 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 4 | [WHO IN SEVENTEEN](http://twitter.com/search?q=WHO+IN+SEVENTEEN) | N/A |
 | 5 | [First Bias](http://twitter.com/search?q=First+Bias) | N/A |
-| 6 | [#MaineAt28](http://twitter.com/search?q=%23MaineAt28) | N/A |
-| 7 | [#NCATxSKZinMNLGA](http://twitter.com/search?q=%23NCATxSKZinMNLGA) | N/A |
-| 8 | [#TWICE_BreakthroughAward](http://twitter.com/search?q=%23TWICE_BreakthroughAward) | N/A |
-| 9 | [#NoToJeepneyPhaseout](http://twitter.com/search?q=%23NoToJeepneyPhaseout) | N/A |
+| 6 | [Ultimate Bias](http://twitter.com/search?q=Ultimate+Bias) | N/A |
+| 7 | [#MaineAt28](http://twitter.com/search?q=%23MaineAt28) | N/A |
+| 8 | [#NCATxSKZinMNLGA](http://twitter.com/search?q=%23NCATxSKZinMNLGA) | N/A |
+| 9 | [#TWICE_BreakthroughAward](http://twitter.com/search?q=%23TWICE_BreakthroughAward) | N/A |
 | 10 | [#BBWomenInMusic](http://twitter.com/search?q=%23BBWomenInMusic) | N/A |
 | 11 | [R to V](http://twitter.com/search?q=R+to+V) | N/A |
-| 12 | [cole hyung](http://twitter.com/search?q=cole+hyung) | N/A |
-| 13 | [KATH CELEBRATES LAZbingisa](http://twitter.com/search?q=KATH+CELEBRATES+LAZbingisa) | N/A |
-| 14 | [KATH CELEBRATES LAZbingisa](http://twitter.com/search?q=KATH+CELEBRATES+LAZbingisa) | N/A |
+| 12 | [KATH CELEBRATES LAZbingisa](http://twitter.com/search?q=KATH+CELEBRATES+LAZbingisa) | N/A |
+| 13 | [cole hyung](http://twitter.com/search?q=cole+hyung) | N/A |
+| 14 | [LAZADA DAY WITH BGYO](http://twitter.com/search?q=LAZADA+DAY+WITH+BGYO) | N/A |
 | 15 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 16 | [jeonghan](http://twitter.com/search?q=jeonghan) | Jeonghan is a Korean given name, usually for males. It is composed of two characters: "Jeong" meaning "righteous" and "Han" meaning "greatness". In English, Jeonghan can be translated to mean "righteous greatness". |
-| 17 | [Kyedae](http://twitter.com/search?q=Kyedae) | N/A |
-| 18 | [Chanyeol](http://twitter.com/search?q=Chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
-| 19 | [TWICE BILLBOARD AWARD](http://twitter.com/search?q=TWICE+BILLBOARD+AWARD) | N/A |
-| 20 | [XIUMIN](http://twitter.com/search?q=XIUMIN) | N/A |
-| 21 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
-| 22 | [NICE TO MEET YOU BUILD](http://twitter.com/search?q=NICE+TO+MEET+YOU+BUILD) | N/A |
+| 16 | [TWICE BILLBOARD AWARD](http://twitter.com/search?q=TWICE+BILLBOARD+AWARD) | N/A |
+| 17 | [XIUMIN](http://twitter.com/search?q=XIUMIN) | N/A |
+| 18 | [NICE TO MEET YOU BUILD](http://twitter.com/search?q=NICE+TO+MEET+YOU+BUILD) | N/A |
+| 19 | [COLE WORLD](http://twitter.com/search?q=COLE+WORLD) | N/A |
+| 20 | [Chanyeol](http://twitter.com/search?q=Chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
+| 21 | [Kyedae](http://twitter.com/search?q=Kyedae) | N/A |
+| 22 | [JUNG HOSEOK](http://twitter.com/search?q=JUNG+HOSEOK) | Jung Hoseok is the stage name of South Korean singer, songwriter, and dancer, J-Hope. He is a member of the K-pop boy group BTS. The name "Jung Hoseok" translates to "One Hope" in English. |
 | 23 | [TY WEARS LOEWE](http://twitter.com/search?q=TY+WEARS+LOEWE) | N/A |
 | 24 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
 | 25 | [iKON IS COMING TO TOWN](http://twitter.com/search?q=iKON+IS+COMING+TO+TOWN) | N/A |
-| 26 | [the right way to pray](http://twitter.com/search?q=the+right+way+to+pray) | N/A |
+| 26 | [Pika](http://twitter.com/search?q=Pika) | N/A |
 | 27 | [twentyfourever zach](http://twitter.com/search?q=twentyfourever+zach) | N/A |
-| 28 | [Pika](http://twitter.com/search?q=Pika) | N/A |
-| 29 | [bss mcountdown triple crown](http://twitter.com/search?q=bss+mcountdown+triple+crown) | N/A |
-| 30 | [CMFT](http://twitter.com/search?q=CMFT) | CMFT stands for Certified Management Financial Technician. It is a professional certification offered by the Institute of Certified Management Accountants (ICMA). The certification is designed to provide financial professionals with the knowledge and skills necessary to effectively manage financial operations in an organization. |
-| 31 | [Kiana](http://twitter.com/search?q=Kiana) | N/A |
-| 32 | [aldenxlaz11th bdaysupershow](http://twitter.com/search?q=aldenxlaz11th+bdaysupershow) | N/A |
-| 33 | [Vocal Unit](http://twitter.com/search?q=Vocal+Unit) | N/A |
-| 34 | [junhui](http://twitter.com/search?q=junhui) | N/A |
-| 35 | [Yuta](http://twitter.com/search?q=Yuta) | N/A |
-| 36 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 37 | [Lamb](http://twitter.com/search?q=Lamb) | Lamb is a young sheep, usually less than one year old. It is also used as a term of endearment for a young child. The word comes from the Old English “lamb”, which means “young sheep”. |
+| 28 | [CMFT](http://twitter.com/search?q=CMFT) | CMFT stands for Certified Management Financial Technician. It is a professional certification offered by the Institute of Certified Management Accountants (ICMA). The certification is designed to provide financial professionals with the knowledge and skills necessary to effectively manage financial operations in an organization. |
+| 29 | [the right way to pray](http://twitter.com/search?q=the+right+way+to+pray) | N/A |
+| 30 | [bss mcountdown triple crown](http://twitter.com/search?q=bss+mcountdown+triple+crown) | N/A |
+| 31 | [jeonghan](http://twitter.com/search?q=jeonghan) | Jeonghan is a Korean given name, usually for males. It is composed of two characters: "Jeong" meaning "righteous" and "Han" meaning "greatness". In English, Jeonghan can be translated to mean "righteous greatness". |
+| 32 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
+| 33 | [aldenxlaz11th bdaysupershow](http://twitter.com/search?q=aldenxlaz11th+bdaysupershow) | N/A |
+| 34 | [KAI ROVER TEASER IMAGES 2](http://twitter.com/search?q=KAI+ROVER+TEASER+IMAGES+2) | N/A |
+| 35 | [Official MV](http://twitter.com/search?q=Official+MV) | N/A |
+| 36 | [Vocal Unit](http://twitter.com/search?q=Vocal+Unit) | N/A |
+| 37 | [junhui](http://twitter.com/search?q=junhui) | N/A |
 | 38 | [JOMesmerizing Boy](http://twitter.com/search?q=JOMesmerizing+Boy) | N/A |
-| 39 | [Bingbing](http://twitter.com/search?q=Bingbing) | N/A |
-| 40 | [jihyo](http://twitter.com/search?q=jihyo) | Jihyo is a Korean given name, usually for females. It is composed of two characters, the first meaning "wisdom" and the second meaning "beauty". In English, it can be translated to mean "wise beauty". |
-| 41 | [Trina](http://twitter.com/search?q=Trina) | Trina is a female given name of Latin origin, derived from the word "trinus" meaning "three". It can also be a short form of other names such as Katrina or Catrina. |
-| 42 | [choco mucho](http://twitter.com/search?q=choco+mucho) | N/A |
-| 43 | [Des Cheng](http://twitter.com/search?q=Des+Cheng) | N/A |
-| 44 | [BOBBY SINGLE COMING SOON](http://twitter.com/search?q=BOBBY+SINGLE+COMING+SOON) | N/A |
-| 45 | [keita](http://twitter.com/search?q=keita) | N/A |
-| 46 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 47 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 48 | [100 MILLION SUGAR RUSH RIDE](http://twitter.com/search?q=100+MILLION+SUGAR+RUSH+RIDE) | N/A |
-| 49 | [mino](http://twitter.com/search?q=mino) | N/A |
-| 50 | [all of the girls](http://twitter.com/search?q=all+of+the+girls) | N/A |
+| 39 | [des cheng](http://twitter.com/search?q=des+cheng) | N/A |
+| 40 | [THE PORTRAITS OF JISOO](http://twitter.com/search?q=THE+PORTRAITS+OF+JISOO) | N/A |
+| 41 | [choco mucho](http://twitter.com/search?q=choco+mucho) | N/A |
+| 42 | [jihyo](http://twitter.com/search?q=jihyo) | Jihyo is a Korean given name, usually for females. It is composed of two characters, the first meaning "wisdom" and the second meaning "beauty". In English, it can be translated to mean "wise beauty". |
+| 43 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 44 | [bobby single coming soon](http://twitter.com/search?q=bobby+single+coming+soon) | N/A |
+| 45 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 46 | [all of the girls](http://twitter.com/search?q=all+of+the+girls) | N/A |
+| 47 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
+| 48 | [EASL](http://twitter.com/search?q=EASL) | N/A |
+| 49 | [Mino](http://twitter.com/search?q=Mino) | N/A |
+| 50 | [Wishing](http://twitter.com/search?q=Wishing) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Semarang
 
-📆 Last Updated: `2023-03-03 04:43:29 UTC`
+📆 Last Updated: `2023-03-03 05:19:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,45 +17,53 @@ This is top 50 for [Indonesia](</Indonesia>)
 | ------- | ------------ | ------------ |
 | 1 | [#HariRPLDesa](http://twitter.com/search?q=%23HariRPLDesa) | N/A |
 | 2 | [#ETDoktorHC](http://twitter.com/search?q=%23ETDoktorHC) | N/A |
-| 3 | [#PalembangUntukGanjar](http://twitter.com/search?q=%23PalembangUntukGanjar) | N/A |
-| 4 | [#ACQUADIPARMAxCHANYEOL](http://twitter.com/search?q=%23ACQUADIPARMAxCHANYEOL) | N/A |
-| 5 | [R to V](http://twitter.com/search?q=R+to+V) | N/A |
-| 6 | [WHO IN SEVENTEEN](http://twitter.com/search?q=WHO+IN+SEVENTEEN) | N/A |
-| 7 | [Ultimate Bias](http://twitter.com/search?q=Ultimate+Bias) | N/A |
-| 8 | [NICE TO MEET YOU BUILD](http://twitter.com/search?q=NICE+TO+MEET+YOU+BUILD) | N/A |
-| 9 | [First Bias](http://twitter.com/search?q=First+Bias) | N/A |
+| 3 | [Indomie Yatai](http://twitter.com/search?q=Indomie+Yatai) | N/A |
+| 4 | [#PalembangUntukGanjar](http://twitter.com/search?q=%23PalembangUntukGanjar) | N/A |
+| 5 | [berita ekonomi terkini](http://twitter.com/search?q=berita+ekonomi+terkini) | N/A |
+| 6 | [#LIKEITLIKEIT_OUT_NOW](http://twitter.com/search?q=%23LIKEITLIKEIT_OUT_NOW) | N/A |
+| 7 | [ekspresikan gayamu](http://twitter.com/search?q=ekspresikan+gayamu) | N/A |
+| 8 | [R to V](http://twitter.com/search?q=R+to+V) | N/A |
+| 9 | [TY WEARS LOEWE](http://twitter.com/search?q=TY+WEARS+LOEWE) | N/A |
 | 10 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
-| 11 | [Nobita](http://twitter.com/search?q=Nobita) | N/A |
-| 12 | [Shizuka](http://twitter.com/search?q=Shizuka) | N/A |
-| 13 | [ON THE STREET OUT TODAY](http://twitter.com/search?q=ON+THE+STREET+OUT+TODAY) | N/A |
-| 14 | [PN Jakpus](http://twitter.com/search?q=PN+Jakpus) | N/A |
-| 15 | [Partai Prima](http://twitter.com/search?q=Partai+Prima) | N/A |
-| 16 | [Cleaning](http://twitter.com/search?q=Cleaning) | N/A |
-| 17 | [ON THE STREET WITH J-HOPE](http://twitter.com/search?q=ON+THE+STREET+WITH+J-HOPE) | N/A |
-| 18 | [Rekognisi Pembelajaran Lampau](http://twitter.com/search?q=Rekognisi+Pembelajaran+Lampau) | N/A |
-| 19 | [NA JAEMIN THANK YOU](http://twitter.com/search?q=NA+JAEMIN+THANK+YOU) | N/A |
-| 20 | [Red Velvet](http://twitter.com/search?q=Red+Velvet) | N/A |
-| 21 | [Pemilu](http://twitter.com/search?q=Pemilu) | N/A |
-| 22 | [Doraemon](http://twitter.com/search?q=Doraemon) | N/A |
-| 23 | [Yuta](http://twitter.com/search?q=Yuta) | N/A |
-| 24 | [Dyandra](http://twitter.com/search?q=Dyandra) | N/A |
-| 25 | [jeonghan](http://twitter.com/search?q=jeonghan) | Jeonghan is a Korean given name, usually for males. It is composed of two characters: "Jeong" meaning "righteous" and "Han" meaning "greatness". In English, Jeonghan can be translated to mean "righteous greatness". |
-| 26 | [Hakim](http://twitter.com/search?q=Hakim) | N/A |
-| 27 | [Dreamies](http://twitter.com/search?q=Dreamies) | N/A |
-| 28 | [Jeep](http://twitter.com/search?q=Jeep) | N/A |
-| 29 | [Dota 2](http://twitter.com/search?q=Dota+2) | N/A |
-| 30 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 31 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 32 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 33 | [ARTIST AND STAFF](http://twitter.com/search?q=ARTIST+AND+STAFF) | N/A |
-| 34 | [#JumatBerkah](http://twitter.com/search?q=%23JumatBerkah) | N/A |
-| 35 | [#HelloBuildJakapan](http://twitter.com/search?q=%23HelloBuildJakapan) | N/A |
-| 36 | [#on_the_street](http://twitter.com/search?q=%23on_the_street) | N/A |
-| 37 | [#JCole](http://twitter.com/search?q=%23JCole) | N/A |
-| 38 | [#TDS2inJAKARTA](http://twitter.com/search?q=%23TDS2inJAKARTA) | #TDS2inJAKARTA is a hashtag used to promote the second edition of The Digital Summit (TDS) in Jakarta, Indonesia. It is an event that brings together digital professionals from around the world to discuss the latest trends and technologies in the digital space. |
-| 39 | [#KembangApi](http://twitter.com/search?q=%23KembangApi) | N/A |
-| 40 | [#jhope](http://twitter.com/search?q=%23jhope) | N/A |
-| 41 | [#LIKEITLIKEIT_OUT_NOW](http://twitter.com/search?q=%23LIKEITLIKEIT_OUT_NOW) | N/A |
+| 11 | [First Bias](http://twitter.com/search?q=First+Bias) | N/A |
+| 12 | [NICE TO MEET YOU BUILD](http://twitter.com/search?q=NICE+TO+MEET+YOU+BUILD) | N/A |
+| 13 | [Ultimate Bias](http://twitter.com/search?q=Ultimate+Bias) | N/A |
+| 14 | [epic grand prize](http://twitter.com/search?q=epic+grand+prize) | N/A |
+| 15 | [asuransi aia](http://twitter.com/search?q=asuransi+aia) | N/A |
+| 16 | [WHO IN SEVENTEEN](http://twitter.com/search?q=WHO+IN+SEVENTEEN) | N/A |
+| 17 | [PN Jakpus](http://twitter.com/search?q=PN+Jakpus) | N/A |
+| 18 | [Partai Prima](http://twitter.com/search?q=Partai+Prima) | N/A |
+| 19 | [Pesta Rakyat Ganjar Pranowo](http://twitter.com/search?q=Pesta+Rakyat+Ganjar+Pranowo) | N/A |
+| 20 | [Silent](http://twitter.com/search?q=Silent) | N/A |
+| 21 | [jkt48 hujan voucher lazada](http://twitter.com/search?q=jkt48+hujan+voucher+lazada) | N/A |
+| 22 | [Nobita](http://twitter.com/search?q=Nobita) | N/A |
+| 23 | [NA JAEMIN THANK YOU](http://twitter.com/search?q=NA+JAEMIN+THANK+YOU) | N/A |
+| 24 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 25 | [HYBE PROTECT RM](http://twitter.com/search?q=HYBE+PROTECT+RM) | N/A |
+| 26 | [Daehwi](http://twitter.com/search?q=Daehwi) | N/A |
+| 27 | [BIGHIT PROTECT RM](http://twitter.com/search?q=BIGHIT+PROTECT+RM) | N/A |
+| 28 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 29 | [ARTIST AND STAFF](http://twitter.com/search?q=ARTIST+AND+STAFF) | N/A |
+| 30 | [Shizuka](http://twitter.com/search?q=Shizuka) | N/A |
+| 31 | [ON THE STREET OUT TODAY](http://twitter.com/search?q=ON+THE+STREET+OUT+TODAY) | N/A |
+| 32 | [Kyedae](http://twitter.com/search?q=Kyedae) | N/A |
+| 33 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
+| 34 | [Formula E](http://twitter.com/search?q=Formula+E) | N/A |
+| 35 | [ON THE STREET WITH J-HOPE](http://twitter.com/search?q=ON+THE+STREET+WITH+J-HOPE) | N/A |
+| 36 | [TIFFANY BRAND AMBASSADOR JIMIN](http://twitter.com/search?q=TIFFANY+BRAND+AMBASSADOR+JIMIN) | N/A |
+| 37 | [haechan lee thank you](http://twitter.com/search?q=haechan+lee+thank+you) | N/A |
+| 38 | [Erick](http://twitter.com/search?q=Erick) | N/A |
+| 39 | [our sunshine park jeongwoo](http://twitter.com/search?q=our+sunshine+park+jeongwoo) | N/A |
+| 40 | [Jeep](http://twitter.com/search?q=Jeep) | N/A |
+| 41 | [bapak prabowo subianto](http://twitter.com/search?q=bapak+prabowo+subianto) | N/A |
+| 42 | [Pemilu](http://twitter.com/search?q=Pemilu) | N/A |
+| 43 | [Dota 2](http://twitter.com/search?q=Dota+2) | N/A |
+| 44 | [Khuntoria](http://twitter.com/search?q=Khuntoria) | N/A |
+| 45 | [Cleaning](http://twitter.com/search?q=Cleaning) | N/A |
+| 46 | [Rekognisi Pembelajaran Lampau](http://twitter.com/search?q=Rekognisi+Pembelajaran+Lampau) | N/A |
+| 47 | [Pika](http://twitter.com/search?q=Pika) | N/A |
+| 48 | [blooming with leeseo](http://twitter.com/search?q=blooming+with+leeseo) | N/A |
+| 49 | [Magister](http://twitter.com/search?q=Magister) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Antonio
 
-📆 Last Updated: `2023-03-03 04:44:02 UTC`
+📆 Last Updated: `2023-03-03 05:20:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
-| 2 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
-| 3 | [76ers](http://twitter.com/search?q=76ers) | 76ers is the nickname of the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The team was originally founded in 1946 as the Syracuse Nationals and changed its name to the 76ers in 1963. The name "76ers" is a reference to the year 1776, when the Declaration of Independence was signed in Philadelphia. |
-| 4 | [Reggie](http://twitter.com/search?q=Reggie) | N/A |
-| 5 | [Sochan](http://twitter.com/search?q=Sochan) | N/A |
-| 6 | [Alamodome](http://twitter.com/search?q=Alamodome) | Alamodome is a multi-purpose stadium located in San Antonio, Texas. It is primarily used for football and basketball games, but can also be used for concerts, conventions, and other events. The name Alamodome is derived from the Spanish words "alamo" (cottonwood) and "dome". |
-| 7 | [Tornado](http://twitter.com/search?q=Tornado) | N/A |
-| 8 | [Devin Vassell](http://twitter.com/search?q=Devin+Vassell) | N/A |
-| 9 | [#txwx](http://twitter.com/search?q=%23txwx) | N/A |
-| 10 | [Josh Green](http://twitter.com/search?q=Josh+Green) | Josh Green is a slang term used to describe someone who is inexperienced or naive. It is often used to describe someone who is new to a particular activity or situation and may not be aware of the rules or customs associated with it. |
-| 11 | [#ReadAcrossAmericaDay](http://twitter.com/search?q=%23ReadAcrossAmericaDay) | N/A |
-| 12 | [McKinney](http://twitter.com/search?q=McKinney) | McKinney is a city in the U.S. state of Texas. It is located in Collin County, about 30 miles north of Dallas. The city's population was estimated at 162,898 in 2019, making it the 19th-most populous city in Texas. The city is a part of the Dallas-Fort Worth metropolitan area and is one of the fastest-growing cities in the United States. |
-| 13 | [#GoSpursGo](http://twitter.com/search?q=%23GoSpursGo) | N/A |
-| 14 | [North Texas](http://twitter.com/search?q=North+Texas) | N/A |
-| 15 | [#ForTheCity](http://twitter.com/search?q=%23ForTheCity) | N/A |
-| 16 | [Domi](http://twitter.com/search?q=Domi) | Domi is a Japanese term that means "dominance" or "dominant." It is often used to describe someone who is strong, powerful, and in control. |
-| 17 | [#wfaaweather](http://twitter.com/search?q=%23wfaaweather) | N/A |
-| 18 | [Coogs](http://twitter.com/search?q=Coogs) | N/A |
-| 19 | [Plano](http://twitter.com/search?q=Plano) | N/A |
-| 20 | [Maxi](http://twitter.com/search?q=Maxi) | Maxi is a term used to describe a long, loose-fitting dress or skirt that reaches the ankles. It is typically made of lightweight fabrics such as cotton or linen and is often worn in warm weather. The term can also refer to a style of dress that is shorter than a maxi dress but still reaches the ankles. |
-| 21 | [Dwight Powell](http://twitter.com/search?q=Dwight+Powell) | N/A |
-| 22 | [Pacers](http://twitter.com/search?q=Pacers) | Pacers are a type of horse used for riding, racing, and other activities. The term is derived from the Latin word pacare, which means "to lead or guide." Pacers are known for their smooth gait and ability to maintain a steady pace over long distances. |
-| 23 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
-| 24 | [Frisco](http://twitter.com/search?q=Frisco) | Frisco is a nickname for the city of San Francisco, California. It is derived from the city's full name, which is "The City and County of San Francisco". |
-| 25 | [Dr. Seuss](http://twitter.com/search?q=Dr.+Seuss) | N/A |
-| 26 | [Denton](http://twitter.com/search?q=Denton) | N/A |
-| 27 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 28 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 29 | [Walgreens](http://twitter.com/search?q=Walgreens) | N/A |
-| 30 | [Alex Murdaugh](http://twitter.com/search?q=Alex+Murdaugh) | N/A |
-| 31 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
-| 32 | [cole hyung](http://twitter.com/search?q=cole+hyung) | N/A |
+| 1 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 2 | [Tornado](http://twitter.com/search?q=Tornado) | N/A |
+| 3 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
+| 4 | [76ers](http://twitter.com/search?q=76ers) | 76ers is the nickname of the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The team was originally founded in 1946 as the Syracuse Nationals and changed its name to the 76ers in 1963. The name "76ers" is a reference to the year 1776, when the Declaration of Independence was signed in Philadelphia. |
+| 5 | [Alamodome](http://twitter.com/search?q=Alamodome) | Alamodome is a multi-purpose stadium located in San Antonio, Texas. It is primarily used for football and basketball games, but can also be used for concerts, conventions, and other events. The name Alamodome is derived from the Spanish words "alamo" (cottonwood) and "dome". |
+| 6 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
+| 7 | [#txwx](http://twitter.com/search?q=%23txwx) | N/A |
+| 8 | [Reggie](http://twitter.com/search?q=Reggie) | N/A |
+| 9 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
+| 10 | [Domi](http://twitter.com/search?q=Domi) | Domi is a Japanese term that means "dominance" or "dominant." It is often used to describe someone who is strong, powerful, and in control. |
+| 11 | [#dfwwx](http://twitter.com/search?q=%23dfwwx) | N/A |
+| 12 | [North Texas](http://twitter.com/search?q=North+Texas) | N/A |
+| 13 | [#ReadAcrossAmericaDay](http://twitter.com/search?q=%23ReadAcrossAmericaDay) | N/A |
+| 14 | [#texasweather](http://twitter.com/search?q=%23texasweather) | N/A |
+| 15 | [The Mavs](http://twitter.com/search?q=The+Mavs) | N/A |
+| 16 | [Plano](http://twitter.com/search?q=Plano) | N/A |
+| 17 | [#Dallas](http://twitter.com/search?q=%23Dallas) | N/A |
+| 18 | [Fort Worth](http://twitter.com/search?q=Fort+Worth) | N/A |
+| 19 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
+| 20 | [Dr. Seuss](http://twitter.com/search?q=Dr.+Seuss) | N/A |
+| 21 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 22 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 23 | [JHOPE COLE](http://twitter.com/search?q=JHOPE+COLE) | N/A |
+| 24 | [Walgreens](http://twitter.com/search?q=Walgreens) | N/A |
+| 25 | [Alex Murdaugh](http://twitter.com/search?q=Alex+Murdaugh) | N/A |
+| 26 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 27 | [cole hyung](http://twitter.com/search?q=cole+hyung) | N/A |
+| 28 | [Buster](http://twitter.com/search?q=Buster) | N/A |
+| 29 | [Fearne](http://twitter.com/search?q=Fearne) | N/A |
+| 30 | [COLE WORLD](http://twitter.com/search?q=COLE+WORLD) | N/A |
+| 31 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
+| 32 | [Discover](http://twitter.com/search?q=Discover) | N/A |
 | 33 | [Michigan](http://twitter.com/search?q=Michigan) | Michigan is a state in the Midwestern United States. It is bordered by four of the five Great Lakes, and is the only state to be surrounded by three out of the five. Michigan is known for its diverse landscape, which includes forests, beaches, and rolling hills. The state's name comes from the Ojibwe word "mishigami," which means "large lake." |
-| 34 | [Maxey](http://twitter.com/search?q=Maxey) | Maxey is a surname of English origin. It is derived from the Old English personal name Maccus, which was a diminutive form of Matthew. The meaning of Maxey in English is "son of Maccus". |
-| 35 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
-| 36 | [RED RUBY](http://twitter.com/search?q=RED+RUBY) | N/A |
-| 37 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
-| 38 | [Joey Baker](http://twitter.com/search?q=Joey+Baker) | N/A |
-| 39 | [Antoine Davis](http://twitter.com/search?q=Antoine+Davis) | N/A |
-| 40 | [Buster](http://twitter.com/search?q=Buster) | N/A |
-| 41 | [Discover](http://twitter.com/search?q=Discover) | N/A |
-| 42 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
-| 43 | [Creed 3](http://twitter.com/search?q=Creed+3) | N/A |
-| 44 | [Fearne](http://twitter.com/search?q=Fearne) | N/A |
-| 45 | [Edey](http://twitter.com/search?q=Edey) | Edey is a slang term used in some parts of the United States to refer to someone who is cool, stylish, or attractive. It can also be used as a term of endearment. |
-| 46 | [HOBI LIVE](http://twitter.com/search?q=HOBI+LIVE) | N/A |
-| 47 | [Anthony Lamb](http://twitter.com/search?q=Anthony+Lamb) | Anthony Lamb is a phrase used to describe someone who is indecisive or easily swayed. It comes from the story of Anthony and Cleopatra, in which Anthony was unable to make up his mind between his love for Cleopatra and his loyalty to Rome. |
-| 48 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
-| 49 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
-| 50 | [Detroit Mercy](http://twitter.com/search?q=Detroit+Mercy) | N/A |
+| 34 | [Anthony Lamb](http://twitter.com/search?q=Anthony+Lamb) | Anthony Lamb is a phrase used to describe someone who is indecisive or easily swayed. It comes from the story of Anthony and Cleopatra, in which Anthony was unable to make up his mind between his love for Cleopatra and his loyalty to Rome. |
+| 35 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
+| 36 | [Edey](http://twitter.com/search?q=Edey) | Edey is a slang term used in some parts of the United States to refer to someone who is cool, stylish, or attractive. It can also be used as a term of endearment. |
+| 37 | [Joey Baker](http://twitter.com/search?q=Joey+Baker) | N/A |
+| 38 | [Creed 3](http://twitter.com/search?q=Creed+3) | N/A |
+| 39 | [JUNG HOSEOK](http://twitter.com/search?q=JUNG+HOSEOK) | Jung Hoseok is the stage name of South Korean singer, songwriter, and dancer, J-Hope. He is a member of the K-pop boy group BTS. The name "Jung Hoseok" translates to "One Hope" in English. |
+| 40 | [Donte](http://twitter.com/search?q=Donte) | Donte is a given name of Italian origin, derived from the Latin name "Donatus". It is a variant of the name "Donato" and can be translated to mean "given" or "gift". |
+| 41 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
+| 42 | [Klesmit](http://twitter.com/search?q=Klesmit) | N/A |
+| 43 | [Maxey](http://twitter.com/search?q=Maxey) | Maxey is a surname of English origin. It is derived from the Old English personal name Maccus, which was a diminutive form of Matthew. The meaning of Maxey in English is "son of Maccus". |
+| 44 | [Stephen Smith](http://twitter.com/search?q=Stephen+Smith) | N/A |
+| 45 | [Guilty](http://twitter.com/search?q=Guilty) | In English, "guilty" is an adjective that means responsible for a crime or wrongdoing. It is often used in a legal context to refer to someone who has been found guilty of a crime in a court of law. |
+| 46 | [dawon](http://twitter.com/search?q=dawon) | N/A |
+| 47 | [Metroid Fusion](http://twitter.com/search?q=Metroid+Fusion) | N/A |
+| 48 | [Matt Murray](http://twitter.com/search?q=Matt+Murray) | N/A |
+| 49 | [Hershey](http://twitter.com/search?q=Hershey) | N/A |
+| 50 | [PNC Bank](http://twitter.com/search?q=PNC+Bank) | N/A |
 
 
 
