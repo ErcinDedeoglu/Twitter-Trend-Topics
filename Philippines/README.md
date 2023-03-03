@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philippines
 
-📆 Last Updated: `2023-03-03 13:21:03 UTC`
+📆 Last Updated: `2023-03-03 14:17:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Philippines
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [RENJUN](http://twitter.com/search?q=RENJUN) | N/A |
-| 2 | [#SB19WYATPhotobookUnboxing](http://twitter.com/search?q=%23SB19WYATPhotobookUnboxing) | N/A |
-| 3 | [8 SVT](http://twitter.com/search?q=8+SVT) | N/A |
-| 4 | [#NadineLustreYT](http://twitter.com/search?q=%23NadineLustreYT) | N/A |
-| 5 | [#UrdujaKorona](http://twitter.com/search?q=%23UrdujaKorona) | N/A |
-| 6 | [#JinnysKitchenEp2](http://twitter.com/search?q=%23JinnysKitchenEp2) | N/A |
-| 7 | [#BelleTheSongwriter](http://twitter.com/search?q=%23BelleTheSongwriter) | N/A |
-| 8 | [MY NAME IS NADINE](http://twitter.com/search?q=MY+NAME+IS+NADINE) | N/A |
+| 2 | [#ฟรีนเบคFanBoom](http://twitter.com/search?q=%23%e0%b8%9f%e0%b8%a3%e0%b8%b5%e0%b8%99%e0%b9%80%e0%b8%9a%e0%b8%84FanBoom) | N/A |
+| 3 | [#TXT_4th_Anniversary](http://twitter.com/search?q=%23TXT_4th_Anniversary) | N/A |
+| 4 | [#ToFOUReverlandWithTXT](http://twitter.com/search?q=%23ToFOUReverlandWithTXT) | N/A |
+| 5 | [#NadineLustreYT](http://twitter.com/search?q=%23NadineLustreYT) | N/A |
+| 6 | [#DLExposed](http://twitter.com/search?q=%23DLExposed) | N/A |
+| 7 | [8 SVT](http://twitter.com/search?q=8+SVT) | N/A |
+| 8 | [4 YEARS WITH TXT](http://twitter.com/search?q=4+YEARS+WITH+TXT) | N/A |
 | 9 | [WORLD CLASS STAR V](http://twitter.com/search?q=WORLD+CLASS+STAR+V) | N/A |
-| 10 | [hyungwon](http://twitter.com/search?q=hyungwon) | Hyungwon is a Korean term of endearment used to refer to an older brother or male friend. It is derived from the Korean word "hyung," which means older brother, and "won," which means circle or round. In English, it can be translated as "older brother" or "dear friend." |
-| 11 | [WILD TONIGHT LYRIC VIDEO](http://twitter.com/search?q=WILD+TONIGHT+LYRIC+VIDEO) | N/A |
-| 12 | [TEEN CLASH THIS MARCH17](http://twitter.com/search?q=TEEN+CLASH+THIS+MARCH17) | N/A |
+| 10 | [JAKEHOON](http://twitter.com/search?q=JAKEHOON) | N/A |
+| 11 | [hyungwon](http://twitter.com/search?q=hyungwon) | Hyungwon is a Korean term of endearment used to refer to an older brother or male friend. It is derived from the Korean word "hyung," which means older brother, and "won," which means circle or round. In English, it can be translated as "older brother" or "dear friend." |
+| 12 | [VULNERABLE ChiCo](http://twitter.com/search?q=VULNERABLE+ChiCo) | N/A |
 | 13 | [Are Your Prayers Heard](http://twitter.com/search?q=Are+Your+Prayers+Heard) | N/A |
-| 14 | [KAYDETS HOME IS KD](http://twitter.com/search?q=KAYDETS+HOME+IS+KD) | N/A |
-| 15 | [ROTC](http://twitter.com/search?q=ROTC) | N/A |
-| 16 | [SUPPASIT WFT 2023](http://twitter.com/search?q=SUPPASIT+WFT+2023) | N/A |
-| 17 | [Ultimate Bias](http://twitter.com/search?q=Ultimate+Bias) | N/A |
-| 18 | [jeonghan](http://twitter.com/search?q=jeonghan) | Jeonghan is a Korean given name, usually for males. It is composed of two characters: "Jeong" meaning "righteous" and "Han" meaning "greatness". In English, Jeonghan can be translated to mean "righteous greatness". |
-| 19 | [bias wrecker](http://twitter.com/search?q=bias+wrecker) | N/A |
-| 20 | [First Bias](http://twitter.com/search?q=First+Bias) | N/A |
-| 21 | [WHO IN SEVENTEEN](http://twitter.com/search?q=WHO+IN+SEVENTEEN) | N/A |
-| 22 | [Yato](http://twitter.com/search?q=Yato) | N/A |
-| 23 | [Jungwon](http://twitter.com/search?q=Jungwon) | N/A |
-| 24 | [Engenes](http://twitter.com/search?q=Engenes) | N/A |
-| 25 | [Eat Bulaga](http://twitter.com/search?q=Eat+Bulaga) | N/A |
-| 26 | [Dawon](http://twitter.com/search?q=Dawon) | N/A |
-| 27 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
-| 28 | [100 MILLION SUGAR RUSH RIDE](http://twitter.com/search?q=100+MILLION+SUGAR+RUSH+RIDE) | N/A |
-| 29 | [Luda](http://twitter.com/search?q=Luda) | N/A |
-| 30 | [Kiana](http://twitter.com/search?q=Kiana) | N/A |
-| 31 | [Kyedae](http://twitter.com/search?q=Kyedae) | N/A |
-| 32 | [Oriental Mindoro](http://twitter.com/search?q=Oriental+Mindoro) | N/A |
-| 33 | [junhui](http://twitter.com/search?q=junhui) | N/A |
-| 34 | [#SB19WYATUnboxing](http://twitter.com/search?q=%23SB19WYATUnboxing) | N/A |
-| 35 | [#LOEWExTAEYONG](http://twitter.com/search?q=%23LOEWExTAEYONG) | N/A |
-| 36 | [#일잘하는서진이네_김태형](http://twitter.com/search?q=%23%ec%9d%bc%ec%9e%98%ed%95%98%eb%8a%94%ec%84%9c%ec%a7%84%ec%9d%b4%eb%84%a4_%ea%b9%80%ed%83%9c%ed%98%95) | N/A |
-| 37 | [#WhereYouAtSB19](http://twitter.com/search?q=%23WhereYouAtSB19) | #WhereYouAtSB19 is a hashtag used by fans of the South Korean boy band SB19 to show their support for the group. It is an invitation for fans to share their location and show their enthusiasm for the group. |
-| 38 | [#STREAM_WILD_TONIGHT](http://twitter.com/search?q=%23STREAM_WILD_TONIGHT) | N/A |
-| 39 | [#FPJBQPlano](http://twitter.com/search?q=%23FPJBQPlano) | N/A |
-| 40 | [#NoToJeepneyPhaseout](http://twitter.com/search?q=%23NoToJeepneyPhaseout) | N/A |
-| 41 | [#DLExposed](http://twitter.com/search?q=%23DLExposed) | N/A |
-| 42 | [#JAYB](http://twitter.com/search?q=%23JAYB) | N/A |
-| 43 | [#JanineGutierrez](http://twitter.com/search?q=%23JanineGutierrez) | N/A |
-| 44 | [#WINชวนฟิตกับCPFIITParty](http://twitter.com/search?q=%23WIN%e0%b8%8a%e0%b8%a7%e0%b8%99%e0%b8%9f%e0%b8%b4%e0%b8%95%e0%b8%81%e0%b8%b1%e0%b8%9aCPFIITParty) | N/A |
-| 45 | [#GETWELLSOONJENNIE](http://twitter.com/search?q=%23GETWELLSOONJENNIE) | N/A |
-| 46 | [#PureDoctrinesOfChrist](http://twitter.com/search?q=%23PureDoctrinesOfChrist) | N/A |
-| 47 | [#ROAR2ndWin](http://twitter.com/search?q=%23ROAR2ndWin) | N/A |
-| 48 | [#LeeJeHoonInManila](http://twitter.com/search?q=%23LeeJeHoonInManila) | N/A |
-| 49 | [#SB19_PABLO](http://twitter.com/search?q=%23SB19_PABLO) | N/A |
-| 50 | [#BreakTheCode](http://twitter.com/search?q=%23BreakTheCode) | #BreakTheCode is a hashtag used to encourage people to challenge themselves to solve puzzles, riddles, and other types of codes. It is a call to action for people to use their problem-solving skills and creativity to break through barriers and find solutions. |
+| 14 | [WILD TONIGHT LYRIC VIDEO](http://twitter.com/search?q=WILD+TONIGHT+LYRIC+VIDEO) | N/A |
+| 15 | [TEEN CLASH THIS MARCH17](http://twitter.com/search?q=TEEN+CLASH+THIS+MARCH17) | N/A |
+| 16 | [P'Freen](http://twitter.com/search?q=P%27Freen) | N/A |
+| 17 | [ROTC](http://twitter.com/search?q=ROTC) | N/A |
+| 18 | [KAYDETS HOME IS KD](http://twitter.com/search?q=KAYDETS+HOME+IS+KD) | N/A |
+| 19 | [First Bias](http://twitter.com/search?q=First+Bias) | N/A |
+| 20 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
+| 21 | [Ultimate Bias](http://twitter.com/search?q=Ultimate+Bias) | N/A |
+| 22 | [jeonghan](http://twitter.com/search?q=jeonghan) | Jeonghan is a Korean given name, usually for males. It is composed of two characters: "Jeong" meaning "righteous" and "Han" meaning "greatness". In English, Jeonghan can be translated to mean "righteous greatness". |
+| 23 | [yato](http://twitter.com/search?q=yato) | N/A |
+| 24 | [WHO IN SEVENTEEN](http://twitter.com/search?q=WHO+IN+SEVENTEEN) | N/A |
+| 25 | [Engenes](http://twitter.com/search?q=Engenes) | N/A |
+| 26 | [Jennie](http://twitter.com/search?q=Jennie) | Jennie is a female given name, derived from the name Jennifer. It is a diminutive form of Jennifer, which means "white wave" or "fair one". |
+| 27 | [Leona](http://twitter.com/search?q=Leona) | N/A |
+| 28 | [woozi](http://twitter.com/search?q=woozi) | N/A |
+| 29 | [Onew](http://twitter.com/search?q=Onew) | Onew is a South Korean singer, songwriter, and actor. He is best known as the leader of the South Korean boy group SHINee. The name Onew is derived from the phrase "One World," which reflects his desire to become a global star. |
+| 30 | [Jungwon](http://twitter.com/search?q=Jungwon) | N/A |
+| 31 | [Eat Bulaga](http://twitter.com/search?q=Eat+Bulaga) | N/A |
+| 32 | [Jinki](http://twitter.com/search?q=Jinki) | N/A |
+| 33 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 34 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 35 | [dawon](http://twitter.com/search?q=dawon) | N/A |
+| 36 | [Luda](http://twitter.com/search?q=Luda) | N/A |
+| 37 | [Lazada](http://twitter.com/search?q=Lazada) | N/A |
+| 38 | [Oriental Mindoro](http://twitter.com/search?q=Oriental+Mindoro) | N/A |
+| 39 | [#SB19WYATPhotobookUnboxing](http://twitter.com/search?q=%23SB19WYATPhotobookUnboxing) | N/A |
+| 40 | [#JinnysKitchenEp2](http://twitter.com/search?q=%23JinnysKitchenEp2) | N/A |
+| 41 | [#일잘하는서진이네_김태형](http://twitter.com/search?q=%23%ec%9d%bc%ec%9e%98%ed%95%98%eb%8a%94%ec%84%9c%ec%a7%84%ec%9d%b4%eb%84%a4_%ea%b9%80%ed%83%9c%ed%98%95) | N/A |
+| 42 | [#aBossandaBabeEP1](http://twitter.com/search?q=%23aBossandaBabeEP1) | N/A |
+| 43 | [#BelleTheSongwriter](http://twitter.com/search?q=%23BelleTheSongwriter) | N/A |
+| 44 | [#SB19WYATUnboxing](http://twitter.com/search?q=%23SB19WYATUnboxing) | N/A |
+| 45 | [#UrdujaKorona](http://twitter.com/search?q=%23UrdujaKorona) | N/A |
+| 46 | [#LOEWExTAEYONG](http://twitter.com/search?q=%23LOEWExTAEYONG) | N/A |
+| 47 | [#WhereYouAtSB19](http://twitter.com/search?q=%23WhereYouAtSB19) | #WhereYouAtSB19 is a hashtag used by fans of the South Korean boy band SB19 to show their support for the group. It is an invitation for fans to share their location and show their enthusiasm for the group. |
+| 48 | [#비투비_4000일_예지앞사](http://twitter.com/search?q=%23%eb%b9%84%ed%88%ac%eb%b9%84_4000%ec%9d%bc_%ec%98%88%ec%a7%80%ec%95%9e%ec%82%ac) | N/A |
+| 49 | [#velvetyexoradio](http://twitter.com/search?q=%23velvetyexoradio) | N/A |
+| 50 | [#NoToJeepneyPhaseout](http://twitter.com/search?q=%23NoToJeepneyPhaseout) | N/A |
 
 
 

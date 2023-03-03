@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Louisville
 
-📆 Last Updated: `2023-03-03 13:20:53 UTC`
+📆 Last Updated: `2023-03-03 14:17:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
-| 2 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
-| 3 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 4 | [#BoycottWalgreens](http://twitter.com/search?q=%23BoycottWalgreens) | N/A |
-| 5 | [#FridayVibes](http://twitter.com/search?q=%23FridayVibes) | N/A |
-| 6 | [Happy Friyay](http://twitter.com/search?q=Happy+Friyay) | N/A |
+| 1 | [#EmployeeAppreciationDay](http://twitter.com/search?q=%23EmployeeAppreciationDay) | N/A |
+| 2 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
+| 3 | [Walgreens](http://twitter.com/search?q=Walgreens) | N/A |
+| 4 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
+| 5 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 6 | [#BandcampFriday](http://twitter.com/search?q=%23BandcampFriday) | N/A |
 | 7 | [Morgan Wallen](http://twitter.com/search?q=Morgan+Wallen) | N/A |
-| 8 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
-| 9 | [De La Soul](http://twitter.com/search?q=De+La+Soul) | N/A |
-| 10 | [Finally Friday](http://twitter.com/search?q=Finally+Friday) | N/A |
-| 11 | [Daily Quordle 403](http://twitter.com/search?q=Daily+Quordle+403) | N/A |
-| 12 | [Bonino](http://twitter.com/search?q=Bonino) | N/A |
-| 13 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
-| 14 | [Jaxon Smith](http://twitter.com/search?q=Jaxon+Smith) | N/A |
-| 15 | [Discover](http://twitter.com/search?q=Discover) | N/A |
+| 8 | [Happy Friyay](http://twitter.com/search?q=Happy+Friyay) | N/A |
+| 9 | [Bonino](http://twitter.com/search?q=Bonino) | N/A |
+| 10 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
+| 11 | [Finally Friday](http://twitter.com/search?q=Finally+Friday) | N/A |
+| 12 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
+| 13 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
+| 14 | [Daily Quordle 403](http://twitter.com/search?q=Daily+Quordle+403) | N/A |
+| 15 | [WORLD CLASS STAR V](http://twitter.com/search?q=WORLD+CLASS+STAR+V) | N/A |
 | 16 | [Njigba](http://twitter.com/search?q=Njigba) | N/A |
-| 17 | [Dawon](http://twitter.com/search?q=Dawon) | N/A |
-| 18 | [98 Braves](http://twitter.com/search?q=98+Braves) | N/A |
-| 19 | [Jean Harlow](http://twitter.com/search?q=Jean+Harlow) | N/A |
-| 20 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 21 | [Masego](http://twitter.com/search?q=Masego) | N/A |
-| 22 | [Luda](http://twitter.com/search?q=Luda) | N/A |
-| 23 | [Kali Uchis](http://twitter.com/search?q=Kali+Uchis) | N/A |
-| 24 | [Yato](http://twitter.com/search?q=Yato) | N/A |
-| 25 | [White Rabbit](http://twitter.com/search?q=White+Rabbit) | N/A |
-| 26 | [Tornado Watch](http://twitter.com/search?q=Tornado+Watch) | N/A |
-| 27 | [Stakes Is High](http://twitter.com/search?q=Stakes+Is+High) | N/A |
-| 28 | [bias wrecker](http://twitter.com/search?q=bias+wrecker) | N/A |
-| 29 | [Bryce Young](http://twitter.com/search?q=Bryce+Young) | Bryce Young is a name of a person. It is derived from the Old English words "bryce" meaning "proud" and "young" meaning "youthful". The name can be used for both males and females. |
-| 30 | [WJSN](http://twitter.com/search?q=WJSN) | N/A |
-| 31 | [Richard Simmons](http://twitter.com/search?q=Richard+Simmons) | N/A |
-| 32 | [AI NFT](http://twitter.com/search?q=AI+NFT) | N/A |
-| 33 | [Kimmel](http://twitter.com/search?q=Kimmel) | N/A |
-| 34 | [PNC Bank](http://twitter.com/search?q=PNC+Bank) | N/A |
-| 35 | [REAL GAMERS DRINK GAMER SUPPS](http://twitter.com/search?q=REAL+GAMERS+DRINK+GAMER+SUPPS) | N/A |
-| 36 | [Banks](http://twitter.com/search?q=Banks) | N/A |
-| 37 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
-| 38 | [National Guard](http://twitter.com/search?q=National+Guard) | N/A |
-| 39 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
-| 40 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
-| 41 | [The Clippers](http://twitter.com/search?q=The+Clippers) | N/A |
-| 42 | [Trek](http://twitter.com/search?q=Trek) | N/A |
-| 43 | [Stephen Smith](http://twitter.com/search?q=Stephen+Smith) | N/A |
-| 44 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
-| 45 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 46 | [Pistol Pete](http://twitter.com/search?q=Pistol+Pete) | N/A |
-| 47 | [College Park](http://twitter.com/search?q=College+Park) | N/A |
-| 48 | [#EmployeeAppreciationDay](http://twitter.com/search?q=%23EmployeeAppreciationDay) | N/A |
-| 49 | [#FridayMotivation](http://twitter.com/search?q=%23FridayMotivation) | N/A |
+| 17 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 18 | [It is Friday](http://twitter.com/search?q=It+is+Friday) | N/A |
+| 19 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 20 | [Today is Friday](http://twitter.com/search?q=Today+is+Friday) | N/A |
+| 21 | [Richard Simmons](http://twitter.com/search?q=Richard+Simmons) | N/A |
+| 22 | [Discover](http://twitter.com/search?q=Discover) | N/A |
+| 23 | [Masego](http://twitter.com/search?q=Masego) | N/A |
+| 24 | [98 Braves](http://twitter.com/search?q=98+Braves) | N/A |
+| 25 | [Stakes Is High](http://twitter.com/search?q=Stakes+Is+High) | N/A |
+| 26 | [C.J. Stroud](http://twitter.com/search?q=C.J.+Stroud) | N/A |
+| 27 | [Jean Harlow](http://twitter.com/search?q=Jean+Harlow) | N/A |
+| 28 | [dawon](http://twitter.com/search?q=dawon) | N/A |
+| 29 | [yato](http://twitter.com/search?q=yato) | N/A |
+| 30 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
+| 31 | [Kali Uchis](http://twitter.com/search?q=Kali+Uchis) | N/A |
+| 32 | [Ultimate Bias](http://twitter.com/search?q=Ultimate+Bias) | N/A |
+| 33 | [RENJUN](http://twitter.com/search?q=RENJUN) | N/A |
+| 34 | [3 Feet High and Rising](http://twitter.com/search?q=3+Feet+High+and+Rising) | N/A |
+| 35 | [First Bias](http://twitter.com/search?q=First+Bias) | N/A |
+| 36 | [Marcus Jr](http://twitter.com/search?q=Marcus+Jr) | N/A |
+| 37 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 38 | [Luda](http://twitter.com/search?q=Luda) | N/A |
+| 39 | [Bryce Young](http://twitter.com/search?q=Bryce+Young) | Bryce Young is a name of a person. It is derived from the Old English words "bryce" meaning "proud" and "young" meaning "youthful". The name can be used for both males and females. |
+| 40 | [White Rabbit](http://twitter.com/search?q=White+Rabbit) | N/A |
+| 41 | [Kimmel](http://twitter.com/search?q=Kimmel) | N/A |
+| 42 | [WJSN](http://twitter.com/search?q=WJSN) | N/A |
+| 43 | [Master of Puppets](http://twitter.com/search?q=Master+of+Puppets) | N/A |
+| 44 | [Dray](http://twitter.com/search?q=Dray) | N/A |
+| 45 | [AI NFT](http://twitter.com/search?q=AI+NFT) | N/A |
+| 46 | [Tornado Watch](http://twitter.com/search?q=Tornado+Watch) | N/A |
+| 47 | [Wo Long](http://twitter.com/search?q=Wo+Long) | N/A |
+| 48 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
+| 49 | [Lucille](http://twitter.com/search?q=Lucille) | N/A |
 
 
 

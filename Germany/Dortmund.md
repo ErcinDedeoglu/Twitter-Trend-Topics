@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dortmund
 
-📆 Last Updated: `2023-03-03 13:20:25 UTC`
+📆 Last Updated: `2023-03-03 14:16:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [Germany](</Germany>)
 | 1 | [#Klimastreik](http://twitter.com/search?q=%23Klimastreik) | N/A |
 | 2 | [#KlamrothLuegt](http://twitter.com/search?q=%23KlamrothLuegt) | N/A |
 | 3 | [#Deutschlandtakt](http://twitter.com/search?q=%23Deutschlandtakt) | N/A |
-| 4 | [#gntm](http://twitter.com/search?q=%23gntm) | N/A |
-| 5 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
+| 4 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
+| 5 | [#FridaysForFuture](http://twitter.com/search?q=%23FridaysForFuture) | N/A |
 | 6 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
 | 7 | [Drinks](http://twitter.com/search?q=Drinks) | N/A |
 | 8 | [Peek & Cloppenburg](http://twitter.com/search?q=Peek+%26+Cloppenburg) | N/A |
-| 9 | [Feiertag](http://twitter.com/search?q=Feiertag) | Feiertag is a German word meaning "holiday" or "celebration day". It is used to refer to any day that is set aside for special observance, such as a national holiday, religious holiday, or other special occasion. |
-| 10 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
-| 11 | [Strom](http://twitter.com/search?q=Strom) | N/A |
-| 12 | [ÖPNV](http://twitter.com/search?q=%c3%96PNV) | N/A |
-| 13 | [Schönen Freitag](http://twitter.com/search?q=Sch%c3%b6nen+Freitag) | N/A |
+| 9 | [Strom](http://twitter.com/search?q=Strom) | N/A |
+| 10 | [Feiertag](http://twitter.com/search?q=Feiertag) | Feiertag is a German word meaning "holiday" or "celebration day". It is used to refer to any day that is set aside for special observance, such as a national holiday, religious holiday, or other special occasion. |
+| 11 | [ÖPNV](http://twitter.com/search?q=%c3%96PNV) | N/A |
+| 12 | [Schönen Freitag](http://twitter.com/search?q=Sch%c3%b6nen+Freitag) | N/A |
+| 13 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
 | 14 | [Außenpolitik](http://twitter.com/search?q=Au%c3%9fenpolitik) | N/A |
-| 15 | [Selbstüberschätzung](http://twitter.com/search?q=Selbst%c3%bcbersch%c3%a4tzung) | N/A |
-| 16 | [Technologie](http://twitter.com/search?q=Technologie) | N/A |
-| 17 | [Verbot](http://twitter.com/search?q=Verbot) | N/A |
-| 18 | [Koalition](http://twitter.com/search?q=Koalition) | N/A |
+| 15 | [Technologie](http://twitter.com/search?q=Technologie) | N/A |
+| 16 | [Adler](http://twitter.com/search?q=Adler) | N/A |
+| 17 | [Bewährung](http://twitter.com/search?q=Bew%c3%a4hrung) | N/A |
+| 18 | [Selbstüberschätzung](http://twitter.com/search?q=Selbst%c3%bcbersch%c3%a4tzung) | N/A |
 | 19 | [Maske](http://twitter.com/search?q=Maske) | N/A |
-| 20 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
-| 21 | [Chrupalla](http://twitter.com/search?q=Chrupalla) | N/A |
-| 22 | [Heizung](http://twitter.com/search?q=Heizung) | N/A |
-| 23 | [Frida Gold](http://twitter.com/search?q=Frida+Gold) | N/A |
-| 24 | [Rankin](http://twitter.com/search?q=Rankin) | N/A |
-| 25 | ["Freutag"](http://twitter.com/search?q=%22Freutag%22) | N/A |
-| 26 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 20 | [Markt](http://twitter.com/search?q=Markt) | N/A |
+| 21 | [Koalition](http://twitter.com/search?q=Koalition) | N/A |
+| 22 | [Richter](http://twitter.com/search?q=Richter) | N/A |
+| 23 | [Heizung](http://twitter.com/search?q=Heizung) | N/A |
+| 24 | [Freutag](http://twitter.com/search?q=Freutag) | N/A |
+| 25 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 26 | [Chrupalla](http://twitter.com/search?q=Chrupalla) | N/A |
 | 27 | [März 2023](http://twitter.com/search?q=M%c3%a4rz+2023) | N/A |
-| 28 | [Markt](http://twitter.com/search?q=Markt) | N/A |
-| 29 | [Spieltage 26](http://twitter.com/search?q=Spieltage+26) | N/A |
-| 30 | [BAMBOLA HIMNO AVATRICE](http://twitter.com/search?q=BAMBOLA+HIMNO+AVATRICE) | N/A |
-| 31 | [Wärmepumpe](http://twitter.com/search?q=W%c3%a4rmepumpe) | N/A |
-| 32 | [E-Autos](http://twitter.com/search?q=E-Autos) | N/A |
-| 33 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 28 | [Insolvenz](http://twitter.com/search?q=Insolvenz) | N/A |
+| 29 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
+| 30 | [Wirkungsgrad](http://twitter.com/search?q=Wirkungsgrad) | N/A |
+| 31 | [E-Autos](http://twitter.com/search?q=E-Autos) | N/A |
+| 32 | [Frida Gold](http://twitter.com/search?q=Frida+Gold) | N/A |
+| 33 | [BAMBOLA HIMNO AVATRICE](http://twitter.com/search?q=BAMBOLA+HIMNO+AVATRICE) | N/A |
 | 34 | [Paulaner Spezi](http://twitter.com/search?q=Paulaner+Spezi) | N/A |
-| 35 | [Stilles Wasser](http://twitter.com/search?q=Stilles+Wasser) | N/A |
-| 36 | [Vergewaltigungen](http://twitter.com/search?q=Vergewaltigungen) | N/A |
-| 37 | [Richter](http://twitter.com/search?q=Richter) | N/A |
-| 38 | [Wirkungsgrad](http://twitter.com/search?q=Wirkungsgrad) | N/A |
-| 39 | [blamage](http://twitter.com/search?q=blamage) | N/A |
-| 40 | [Vorentscheid](http://twitter.com/search?q=Vorentscheid) | N/A |
-| 41 | [Kraftstoffe](http://twitter.com/search?q=Kraftstoffe) | N/A |
-| 42 | [Porsche](http://twitter.com/search?q=Porsche) | N/A |
-| 43 | [Herbert](http://twitter.com/search?q=Herbert) | Herbert is a masculine given name of Germanic origin, derived from the elements "heri" meaning "army" and "berht" meaning "bright". It is also a surname. In English, Herbert means "illustrious warrior". |
-| 44 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
-| 45 | [Verkehrsminister](http://twitter.com/search?q=Verkehrsminister) | N/A |
-| 46 | [Bewährung](http://twitter.com/search?q=Bew%c3%a4hrung) | N/A |
-| 47 | [Menstruationshintergrund](http://twitter.com/search?q=Menstruationshintergrund) | N/A |
-| 48 | [Toiletten](http://twitter.com/search?q=Toiletten) | N/A |
-| 49 | [dawon](http://twitter.com/search?q=dawon) | N/A |
+| 35 | [Haarspalterei](http://twitter.com/search?q=Haarspalterei) | N/A |
+| 36 | [Rankin](http://twitter.com/search?q=Rankin) | N/A |
+| 37 | [Wärmepumpe](http://twitter.com/search?q=W%c3%a4rmepumpe) | N/A |
+| 38 | [Porsche](http://twitter.com/search?q=Porsche) | N/A |
+| 39 | [Vergewaltigungen](http://twitter.com/search?q=Vergewaltigungen) | N/A |
+| 40 | [Stilles Wasser](http://twitter.com/search?q=Stilles+Wasser) | N/A |
+| 41 | [Verkehrsminister](http://twitter.com/search?q=Verkehrsminister) | N/A |
+| 42 | [Vorentscheid](http://twitter.com/search?q=Vorentscheid) | N/A |
+| 43 | [Seenotrettung](http://twitter.com/search?q=Seenotrettung) | N/A |
+| 44 | [Bobic](http://twitter.com/search?q=Bobic) | N/A |
+| 45 | [Kraftstoffe](http://twitter.com/search?q=Kraftstoffe) | N/A |
+| 46 | [Autoindustrie](http://twitter.com/search?q=Autoindustrie) | N/A |
+| 47 | [Blamage](http://twitter.com/search?q=Blamage) | N/A |
+| 48 | [gräber](http://twitter.com/search?q=gr%c3%a4ber) | N/A |
+| 49 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
 
 
 

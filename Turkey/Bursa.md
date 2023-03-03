@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bursa
 
-📆 Last Updated: `2023-03-03 13:20:48 UTC`
+📆 Last Updated: `2023-03-03 14:16:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,49 +15,53 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#meralakSener](http://twitter.com/search?q=%23meralakSener) | N/A |
-| 2 | [#MansurBaskanAdayOl](http://twitter.com/search?q=%23MansurBaskanAdayOl) | N/A |
-| 3 | [Tarih](http://twitter.com/search?q=Tarih) | N/A |
-| 4 | [YAZIKLAR OLSUN](http://twitter.com/search?q=YAZIKLAR+OLSUN) | N/A |
-| 5 | [#Kilicdarogluadayolmasin](http://twitter.com/search?q=%23Kilicdarogluadayolmasin) | N/A |
-| 6 | [İmamoğlu](http://twitter.com/search?q=%c4%b0mamo%c4%9flu) | N/A |
-| 7 | [Masa Yıkıldı](http://twitter.com/search?q=Masa+Y%c4%b1k%c4%b1ld%c4%b1) | N/A |
-| 8 | [İyi Parti](http://twitter.com/search?q=%c4%b0yi+Parti) | N/A |
-| 9 | [el ele aşıyoruz](http://twitter.com/search?q=el+ele+a%c5%9f%c4%b1yoruz) | N/A |
-| 10 | [Siyasi Ahlaksızlık](http://twitter.com/search?q=Siyasi+Ahlaks%c4%b1zl%c4%b1k) | N/A |
-| 11 | [Zorlama Burak](http://twitter.com/search?q=Zorlama+Burak) | N/A |
-| 12 | [YİYİN BİRBİRİNİZİ](http://twitter.com/search?q=Y%c4%b0Y%c4%b0N+B%c4%b0RB%c4%b0R%c4%b0N%c4%b0Z%c4%b0) | N/A |
-| 13 | [Erdoğan](http://twitter.com/search?q=Erdo%c4%9fan) | N/A |
-| 14 | [#altılımasa](http://twitter.com/search?q=%23alt%c4%b1l%c4%b1masa) | #Altılımasa is a Turkish game similar to bingo. It is played with six dice and a board with 24 numbered squares. Players take turns rolling the dice and marking off the numbers on their board that match the numbers rolled. The first player to mark off all of their numbers wins the game. In English, #altılımasa translates to "six-dice table". |
-| 15 | [Ulusal Risk Kalkanı](http://twitter.com/search?q=Ulusal+Risk+Kalkan%c4%b1) | N/A |
-| 16 | [Truva](http://twitter.com/search?q=Truva) | N/A |
-| 17 | [Muharrem İnce](http://twitter.com/search?q=Muharrem+%c4%b0nce) | N/A |
-| 18 | [Ümit Özdağ](http://twitter.com/search?q=%c3%9cmit+%c3%96zda%c4%9f) | N/A |
-| 19 | [#CBMarttaSağlıkçıyıAta](http://twitter.com/search?q=%23CBMarttaSa%c4%9fl%c4%b1k%c3%a7%c4%b1y%c4%b1Ata) | N/A |
-| 20 | [Koltuk](http://twitter.com/search?q=Koltuk) | N/A |
-| 21 | [Cumhur](http://twitter.com/search?q=Cumhur) | N/A |
+| 1 | [Ankara](http://twitter.com/search?q=Ankara) | Ankara is the capital city of Turkey. It is located in the central part of the country and is home to over 5 million people. The name Ankara comes from the Hittite word Ankuwash, which means "anchor." In English, Ankara can be translated to mean "anchor city." |
+| 2 | [#meralakSener](http://twitter.com/search?q=%23meralakSener) | N/A |
+| 3 | [#MansurBaskanAdayOl](http://twitter.com/search?q=%23MansurBaskanAdayOl) | N/A |
+| 4 | [Tarih](http://twitter.com/search?q=Tarih) | N/A |
+| 5 | [YAZIKLAR OLSUN](http://twitter.com/search?q=YAZIKLAR+OLSUN) | N/A |
+| 6 | [#Kilicdarogluadayolmasin](http://twitter.com/search?q=%23Kilicdarogluadayolmasin) | N/A |
+| 7 | [İmamoğlu](http://twitter.com/search?q=%c4%b0mamo%c4%9flu) | N/A |
+| 8 | [Siyasi Ahlaksızlık](http://twitter.com/search?q=Siyasi+Ahlaks%c4%b1zl%c4%b1k) | N/A |
+| 9 | [#iyiparti](http://twitter.com/search?q=%23iyiparti) | N/A |
+| 10 | [Masa Yıkıldı](http://twitter.com/search?q=Masa+Y%c4%b1k%c4%b1ld%c4%b1) | N/A |
+| 11 | [#altılımasa](http://twitter.com/search?q=%23alt%c4%b1l%c4%b1masa) | #Altılımasa is a Turkish game similar to bingo. It is played with six dice and a board with 24 numbered squares. Players take turns rolling the dice and marking off the numbers on their board that match the numbers rolled. The first player to mark off all of their numbers wins the game. In English, #altılımasa translates to "six-dice table". |
+| 12 | [Erdoğan](http://twitter.com/search?q=Erdo%c4%9fan) | N/A |
+| 13 | [Muharrem İnce](http://twitter.com/search?q=Muharrem+%c4%b0nce) | N/A |
+| 14 | [Masayı](http://twitter.com/search?q=Masay%c4%b1) | N/A |
+| 15 | [Truva](http://twitter.com/search?q=Truva) | N/A |
+| 16 | [Koltuk](http://twitter.com/search?q=Koltuk) | N/A |
+| 17 | [YİYİN BİRBİRİNİZİ](http://twitter.com/search?q=Y%c4%b0Y%c4%b0N+B%c4%b0RB%c4%b0R%c4%b0N%c4%b0Z%c4%b0) | N/A |
+| 18 | [İhanet](http://twitter.com/search?q=%c4%b0hanet) | N/A |
+| 19 | [Davutoğlu](http://twitter.com/search?q=Davuto%c4%9flu) | Davutoğlu is a Turkish surname. It is derived from the Turkish word "davut", which means "wise". In English, the name Davutoğlu would translate to "wise man". |
+| 20 | [Ümit Özdağ](http://twitter.com/search?q=%c3%9cmit+%c3%96zda%c4%9f) | N/A |
+| 21 | [Ulusal Risk Kalkanı](http://twitter.com/search?q=Ulusal+Risk+Kalkan%c4%b1) | N/A |
 | 22 | [Seçime 2](http://twitter.com/search?q=Se%c3%a7ime+2) | N/A |
-| 23 | [İhanet](http://twitter.com/search?q=%c4%b0hanet) | N/A |
-| 24 | [AKP'ye](http://twitter.com/search?q=AKP%27ye) | N/A |
-| 25 | [Belliydi](http://twitter.com/search?q=Belliydi) | N/A |
-| 26 | [Taşlar](http://twitter.com/search?q=Ta%c5%9flar) | N/A |
-| 27 | [CHP'li](http://twitter.com/search?q=CHP%27li) | N/A |
-| 28 | [CHP'den](http://twitter.com/search?q=CHP%27den) | N/A |
-| 29 | [İrfan](http://twitter.com/search?q=%c4%b0rfan) | İrfan is an Arabic name meaning "knowledge" or "wisdom". It is also used as a Turkish name, and can be spelled as Irfan or Erfan. |
-| 30 | [Tansu Çiller](http://twitter.com/search?q=Tansu+%c3%87iller) | N/A |
-| 31 | [Tura](http://twitter.com/search?q=Tura) | N/A |
-| 32 | [CHP'ye](http://twitter.com/search?q=CHP%27ye) | N/A |
-| 33 | [Davutoğlu](http://twitter.com/search?q=Davuto%c4%9flu) | Davutoğlu is a Turkish surname. It is derived from the Turkish word "davut", which means "wise". In English, the name Davutoğlu would translate to "wise man". |
-| 34 | [Hayırlı Cumalar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Cumalar) | "Hayırlı Cumalar" is a Turkish phrase that translates to "Have a Good Friday." It is typically used as a greeting on the Islamic holy day of Friday. |
-| 35 | [Kumar](http://twitter.com/search?q=Kumar) | N/A |
-| 36 | [Baştan](http://twitter.com/search?q=Ba%c5%9ftan) | N/A |
-| 37 | [Mehmet Ağar](http://twitter.com/search?q=Mehmet+A%c4%9far) | N/A |
-| 38 | [Besle](http://twitter.com/search?q=Besle) | N/A |
-| 39 | [#masadağıldı](http://twitter.com/search?q=%23masada%c4%9f%c4%b1ld%c4%b1) | N/A |
-| 40 | [#OyumuzAdalete](http://twitter.com/search?q=%23OyumuzAdalete) | N/A |
-| 41 | [#cbmarttakampuslere](http://twitter.com/search?q=%23cbmarttakampuslere) | N/A |
-| 42 | [#ŞoförünKapısınıOyİçinÇalma](http://twitter.com/search?q=%23%c5%9eof%c3%b6r%c3%bcnKap%c4%b1s%c4%b1n%c4%b1Oy%c4%b0%c3%a7in%c3%87alma) | N/A |
-| 43 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
+| 23 | [AKP'ye](http://twitter.com/search?q=AKP%27ye) | N/A |
+| 24 | [Atmasın](http://twitter.com/search?q=Atmas%c4%b1n) | N/A |
+| 25 | [Cumhur](http://twitter.com/search?q=Cumhur) | N/A |
+| 26 | [CHP'li](http://twitter.com/search?q=CHP%27li) | N/A |
+| 27 | [CHP'den](http://twitter.com/search?q=CHP%27den) | N/A |
+| 28 | [Tura](http://twitter.com/search?q=Tura) | N/A |
+| 29 | [Taşlar](http://twitter.com/search?q=Ta%c5%9flar) | N/A |
+| 30 | [Halkın](http://twitter.com/search?q=Halk%c4%b1n) | N/A |
+| 31 | [Babacan](http://twitter.com/search?q=Babacan) | N/A |
+| 32 | [Tansu Çiller](http://twitter.com/search?q=Tansu+%c3%87iller) | N/A |
+| 33 | [Sağcı](http://twitter.com/search?q=Sa%c4%9fc%c4%b1) | N/A |
+| 34 | [Mehmet Ağar](http://twitter.com/search?q=Mehmet+A%c4%9far) | N/A |
+| 35 | [CHP'ye](http://twitter.com/search?q=CHP%27ye) | N/A |
+| 36 | [İrfan](http://twitter.com/search?q=%c4%b0rfan) | İrfan is an Arabic name meaning "knowledge" or "wisdom". It is also used as a Turkish name, and can be spelled as Irfan or Erfan. |
+| 37 | [Milletin](http://twitter.com/search?q=Milletin) | N/A |
+| 38 | [Belliydi](http://twitter.com/search?q=Belliydi) | N/A |
+| 39 | [Başbakan](http://twitter.com/search?q=Ba%c5%9fbakan) | N/A |
+| 40 | [Kumar](http://twitter.com/search?q=Kumar) | N/A |
+| 41 | [Aylardır](http://twitter.com/search?q=Aylard%c4%b1r) | N/A |
+| 42 | [Aday Belli Karar Net](http://twitter.com/search?q=Aday+Belli+Karar+Net) | N/A |
+| 43 | [Masanın](http://twitter.com/search?q=Masan%c4%b1n) | N/A |
+| 44 | [El Ele Aşıyoruz](http://twitter.com/search?q=El+Ele+A%c5%9f%c4%b1yoruz) | N/A |
+| 45 | [Baraj](http://twitter.com/search?q=Baraj) | N/A |
+| 46 | [#CBMarttaSağlıkçıyıAta](http://twitter.com/search?q=%23CBMarttaSa%c4%9fl%c4%b1k%c3%a7%c4%b1y%c4%b1Ata) | N/A |
+| 47 | [#cbmarttakampuslere](http://twitter.com/search?q=%23cbmarttakampuslere) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Izmir
 
-📆 Last Updated: `2023-03-03 13:20:48 UTC`
+📆 Last Updated: `2023-03-03 14:16:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,52 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Halkın](http://twitter.com/search?q=Halk%c4%b1n) | N/A |
-| 2 | [Milletin](http://twitter.com/search?q=Milletin) | N/A |
-| 3 | [#meralakSener](http://twitter.com/search?q=%23meralakSener) | N/A |
-| 4 | [#MansurBaskanAdayOl](http://twitter.com/search?q=%23MansurBaskanAdayOl) | N/A |
-| 5 | [Tarih](http://twitter.com/search?q=Tarih) | N/A |
-| 6 | [YAZIKLAR OLSUN](http://twitter.com/search?q=YAZIKLAR+OLSUN) | N/A |
-| 7 | [#Kilicdarogluadayolmasin](http://twitter.com/search?q=%23Kilicdarogluadayolmasin) | N/A |
-| 8 | [İmamoğlu](http://twitter.com/search?q=%c4%b0mamo%c4%9flu) | N/A |
+| 1 | [#meralakSener](http://twitter.com/search?q=%23meralakSener) | N/A |
+| 2 | [#MansurBaskanAdayOl](http://twitter.com/search?q=%23MansurBaskanAdayOl) | N/A |
+| 3 | [Tarih](http://twitter.com/search?q=Tarih) | N/A |
+| 4 | [YAZIKLAR OLSUN](http://twitter.com/search?q=YAZIKLAR+OLSUN) | N/A |
+| 5 | [#Kilicdarogluadayolmasin](http://twitter.com/search?q=%23Kilicdarogluadayolmasin) | N/A |
+| 6 | [İmamoğlu](http://twitter.com/search?q=%c4%b0mamo%c4%9flu) | N/A |
+| 7 | [Siyasi Ahlaksızlık](http://twitter.com/search?q=Siyasi+Ahlaks%c4%b1zl%c4%b1k) | N/A |
+| 8 | [#iyiparti](http://twitter.com/search?q=%23iyiparti) | N/A |
 | 9 | [Masa Yıkıldı](http://twitter.com/search?q=Masa+Y%c4%b1k%c4%b1ld%c4%b1) | N/A |
-| 10 | [İyi Parti](http://twitter.com/search?q=%c4%b0yi+Parti) | N/A |
-| 11 | [el ele aşıyoruz](http://twitter.com/search?q=el+ele+a%c5%9f%c4%b1yoruz) | N/A |
-| 12 | [Siyasi Ahlaksızlık](http://twitter.com/search?q=Siyasi+Ahlaks%c4%b1zl%c4%b1k) | N/A |
-| 13 | [Zorlama Burak](http://twitter.com/search?q=Zorlama+Burak) | N/A |
-| 14 | [YİYİN BİRBİRİNİZİ](http://twitter.com/search?q=Y%c4%b0Y%c4%b0N+B%c4%b0RB%c4%b0R%c4%b0N%c4%b0Z%c4%b0) | N/A |
-| 15 | [#altılımasa](http://twitter.com/search?q=%23alt%c4%b1l%c4%b1masa) | #Altılımasa is a Turkish game similar to bingo. It is played with six dice and a board with 24 numbered squares. Players take turns rolling the dice and marking off the numbers on their board that match the numbers rolled. The first player to mark off all of their numbers wins the game. In English, #altılımasa translates to "six-dice table". |
-| 16 | [Erdoğan](http://twitter.com/search?q=Erdo%c4%9fan) | N/A |
-| 17 | [Ulusal Risk Kalkanı](http://twitter.com/search?q=Ulusal+Risk+Kalkan%c4%b1) | N/A |
-| 18 | [Truva](http://twitter.com/search?q=Truva) | N/A |
-| 19 | [Muharrem İnce](http://twitter.com/search?q=Muharrem+%c4%b0nce) | N/A |
-| 20 | [#CBMarttaSağlıkçıyıAta](http://twitter.com/search?q=%23CBMarttaSa%c4%9fl%c4%b1k%c3%a7%c4%b1y%c4%b1Ata) | N/A |
-| 21 | [Ümit Özdağ](http://twitter.com/search?q=%c3%9cmit+%c3%96zda%c4%9f) | N/A |
-| 22 | [Koltuk](http://twitter.com/search?q=Koltuk) | N/A |
-| 23 | [Cumhur](http://twitter.com/search?q=Cumhur) | N/A |
-| 24 | [Seçime 2](http://twitter.com/search?q=Se%c3%a7ime+2) | N/A |
-| 25 | [İhanet](http://twitter.com/search?q=%c4%b0hanet) | N/A |
-| 26 | [AKP'ye](http://twitter.com/search?q=AKP%27ye) | N/A |
-| 27 | [Masadan](http://twitter.com/search?q=Masadan) | N/A |
-| 28 | [Belliydi](http://twitter.com/search?q=Belliydi) | N/A |
+| 10 | [#altılımasa](http://twitter.com/search?q=%23alt%c4%b1l%c4%b1masa) | #Altılımasa is a Turkish game similar to bingo. It is played with six dice and a board with 24 numbered squares. Players take turns rolling the dice and marking off the numbers on their board that match the numbers rolled. The first player to mark off all of their numbers wins the game. In English, #altılımasa translates to "six-dice table". |
+| 11 | [Erdoğan](http://twitter.com/search?q=Erdo%c4%9fan) | N/A |
+| 12 | [Muharrem İnce](http://twitter.com/search?q=Muharrem+%c4%b0nce) | N/A |
+| 13 | [Masayı](http://twitter.com/search?q=Masay%c4%b1) | N/A |
+| 14 | [Truva](http://twitter.com/search?q=Truva) | N/A |
+| 15 | [Koltuk](http://twitter.com/search?q=Koltuk) | N/A |
+| 16 | [YİYİN BİRBİRİNİZİ](http://twitter.com/search?q=Y%c4%b0Y%c4%b0N+B%c4%b0RB%c4%b0R%c4%b0N%c4%b0Z%c4%b0) | N/A |
+| 17 | [İhanet](http://twitter.com/search?q=%c4%b0hanet) | N/A |
+| 18 | [Davutoğlu](http://twitter.com/search?q=Davuto%c4%9flu) | Davutoğlu is a Turkish surname. It is derived from the Turkish word "davut", which means "wise". In English, the name Davutoğlu would translate to "wise man". |
+| 19 | [Ümit Özdağ](http://twitter.com/search?q=%c3%9cmit+%c3%96zda%c4%9f) | N/A |
+| 20 | [Ulusal Risk Kalkanı](http://twitter.com/search?q=Ulusal+Risk+Kalkan%c4%b1) | N/A |
+| 21 | [Seçime 2](http://twitter.com/search?q=Se%c3%a7ime+2) | N/A |
+| 22 | [AKP'ye](http://twitter.com/search?q=AKP%27ye) | N/A |
+| 23 | [Atmasın](http://twitter.com/search?q=Atmas%c4%b1n) | N/A |
+| 24 | [Cumhur](http://twitter.com/search?q=Cumhur) | N/A |
+| 25 | [CHP'li](http://twitter.com/search?q=CHP%27li) | N/A |
+| 26 | [CHP'den](http://twitter.com/search?q=CHP%27den) | N/A |
+| 27 | [Tura](http://twitter.com/search?q=Tura) | N/A |
+| 28 | [Halkın](http://twitter.com/search?q=Halk%c4%b1n) | N/A |
 | 29 | [Taşlar](http://twitter.com/search?q=Ta%c5%9flar) | N/A |
-| 30 | [CHP'li](http://twitter.com/search?q=CHP%27li) | N/A |
-| 31 | [CHP'den](http://twitter.com/search?q=CHP%27den) | N/A |
-| 32 | [Tura](http://twitter.com/search?q=Tura) | N/A |
-| 33 | [İrfan](http://twitter.com/search?q=%c4%b0rfan) | İrfan is an Arabic name meaning "knowledge" or "wisdom". It is also used as a Turkish name, and can be spelled as Irfan or Erfan. |
-| 34 | [Tansu Çiller](http://twitter.com/search?q=Tansu+%c3%87iller) | N/A |
-| 35 | [CHP'ye](http://twitter.com/search?q=CHP%27ye) | N/A |
-| 36 | [Davutoğlu](http://twitter.com/search?q=Davuto%c4%9flu) | Davutoğlu is a Turkish surname. It is derived from the Turkish word "davut", which means "wise". In English, the name Davutoğlu would translate to "wise man". |
-| 37 | [Hayırlı Cumalar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Cumalar) | "Hayırlı Cumalar" is a Turkish phrase that translates to "Have a Good Friday." It is typically used as a greeting on the Islamic holy day of Friday. |
-| 38 | [Kumar](http://twitter.com/search?q=Kumar) | N/A |
-| 39 | [Baştan](http://twitter.com/search?q=Ba%c5%9ftan) | N/A |
-| 40 | [Mehmet Ağar](http://twitter.com/search?q=Mehmet+A%c4%9far) | N/A |
-| 41 | [Besle](http://twitter.com/search?q=Besle) | N/A |
-| 42 | [Dayatma](http://twitter.com/search?q=Dayatma) | N/A |
-| 43 | [Belediye Başkanlarını](http://twitter.com/search?q=Belediye+Ba%c5%9fkanlar%c4%b1n%c4%b1) | N/A |
-| 44 | [#masadağıldı](http://twitter.com/search?q=%23masada%c4%9f%c4%b1ld%c4%b1) | N/A |
-| 45 | [#OyumuzAdalete](http://twitter.com/search?q=%23OyumuzAdalete) | N/A |
+| 30 | [Babacan](http://twitter.com/search?q=Babacan) | N/A |
+| 31 | [Sağcı](http://twitter.com/search?q=Sa%c4%9fc%c4%b1) | N/A |
+| 32 | [Tansu Çiller](http://twitter.com/search?q=Tansu+%c3%87iller) | N/A |
+| 33 | [CHP'ye](http://twitter.com/search?q=CHP%27ye) | N/A |
+| 34 | [Mehmet Ağar](http://twitter.com/search?q=Mehmet+A%c4%9far) | N/A |
+| 35 | [İrfan](http://twitter.com/search?q=%c4%b0rfan) | İrfan is an Arabic name meaning "knowledge" or "wisdom". It is also used as a Turkish name, and can be spelled as Irfan or Erfan. |
+| 36 | [Başbakan](http://twitter.com/search?q=Ba%c5%9fbakan) | N/A |
+| 37 | [Belliydi](http://twitter.com/search?q=Belliydi) | N/A |
+| 38 | [Milletin](http://twitter.com/search?q=Milletin) | N/A |
+| 39 | [Aday Belli Karar Net](http://twitter.com/search?q=Aday+Belli+Karar+Net) | N/A |
+| 40 | [Kumar](http://twitter.com/search?q=Kumar) | N/A |
+| 41 | [Aylardır](http://twitter.com/search?q=Aylard%c4%b1r) | N/A |
+| 42 | [Masanın](http://twitter.com/search?q=Masan%c4%b1n) | N/A |
+| 43 | [Baraj](http://twitter.com/search?q=Baraj) | N/A |
+| 44 | [El Ele Aşıyoruz](http://twitter.com/search?q=El+Ele+A%c5%9f%c4%b1yoruz) | N/A |
+| 45 | [#CBMarttaSağlıkçıyıAta](http://twitter.com/search?q=%23CBMarttaSa%c4%9fl%c4%b1k%c3%a7%c4%b1y%c4%b1Ata) | N/A |
 | 46 | [#cbmarttakampuslere](http://twitter.com/search?q=%23cbmarttakampuslere) | N/A |
-| 47 | [#ŞoförünKapısınıOyİçinÇalma](http://twitter.com/search?q=%23%c5%9eof%c3%b6r%c3%bcnKap%c4%b1s%c4%b1n%c4%b1Oy%c4%b0%c3%a7in%c3%87alma) | N/A |
-| 48 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
 
 
 

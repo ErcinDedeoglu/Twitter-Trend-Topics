@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brazil
 
-📆 Last Updated: `2023-03-03 13:20:58 UTC`
+📆 Last Updated: `2023-03-03 14:17:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Brazil
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
-| 2 | [Feliz Natal](http://twitter.com/search?q=Feliz+Natal) | Feliz Natal is a Portuguese phrase meaning "Merry Christmas". It is commonly used in Brazil and other Portuguese-speaking countries during the holiday season. |
-| 3 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 4 | [Zico](http://twitter.com/search?q=Zico) | N/A |
-| 5 | [#F1noBandSports](http://twitter.com/search?q=%23F1noBandSports) | N/A |
-| 6 | [Kali Uchis](http://twitter.com/search?q=Kali+Uchis) | N/A |
+| 1 | [Rony](http://twitter.com/search?q=Rony) | Rony is not a word in English. It may be a name or an acronym in another language. |
+| 2 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
+| 3 | [#ฟรีนเบคFanBoom](http://twitter.com/search?q=%23%e0%b8%9f%e0%b8%a3%e0%b8%b5%e0%b8%99%e0%b9%80%e0%b8%9a%e0%b8%84FanBoom) | N/A |
+| 4 | [Robert Renan](http://twitter.com/search?q=Robert+Renan) | N/A |
+| 5 | [Ramon Menezes](http://twitter.com/search?q=Ramon+Menezes) | N/A |
+| 6 | [Zico](http://twitter.com/search?q=Zico) | N/A |
 | 7 | [#sextou](http://twitter.com/search?q=%23sextou) | N/A |
-| 8 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
-| 9 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 10 | [Nelly](http://twitter.com/search?q=Nelly) | Nelly is a nickname for the female given name Eleanor, which is derived from the Greek name Helenē, meaning “light” or “bright one.” It can also be used as a diminutive form of the name Cornelia. |
-| 11 | [on the street](http://twitter.com/search?q=on+the+street) | N/A |
-| 12 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
-| 13 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 14 | [FORA JUSCELINO FILHO](http://twitter.com/search?q=FORA+JUSCELINO+FILHO) | N/A |
-| 15 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
-| 16 | [#HappyBirthdayCamila](http://twitter.com/search?q=%23HappyBirthdayCamila) | N/A |
-| 17 | [Rubel](http://twitter.com/search?q=Rubel) | N/A |
-| 18 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 19 | [Luda](http://twitter.com/search?q=Luda) | N/A |
-| 20 | [Mulan](http://twitter.com/search?q=Mulan) | N/A |
-| 21 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 8 | [Kali Uchis](http://twitter.com/search?q=Kali+Uchis) | N/A |
+| 9 | [Caio Henrique](http://twitter.com/search?q=Caio+Henrique) | N/A |
+| 10 | [Feliz Natal](http://twitter.com/search?q=Feliz+Natal) | Feliz Natal is a Portuguese phrase meaning "Merry Christmas". It is commonly used in Brazil and other Portuguese-speaking countries during the holiday season. |
+| 11 | [Seleção Brasileira](http://twitter.com/search?q=Sele%c3%a7%c3%a3o+Brasileira) | N/A |
+| 12 | [Nelly](http://twitter.com/search?q=Nelly) | Nelly is a nickname for the female given name Eleanor, which is derived from the Greek name Helenē, meaning “light” or “bright one.” It can also be used as a diminutive form of the name Cornelia. |
+| 13 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 14 | [Vitor Roque](http://twitter.com/search?q=Vitor+Roque) | Vitor Roque is a Portuguese name. It is derived from the Latin name Victor, which means "victor" or "conqueror". In English, Vitor Roque can be translated to mean "Victorious Rock". |
+| 15 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 16 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
+| 17 | [João Gomes](http://twitter.com/search?q=Jo%c3%a3o+Gomes) | João Gomes is a Portuguese name. It is the equivalent of John Smith in English. The literal translation of João Gomes is John Gomes. |
+| 18 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
+| 19 | [O Proceder](http://twitter.com/search?q=O+Proceder) | N/A |
+| 20 | [Rubel](http://twitter.com/search?q=Rubel) | N/A |
+| 21 | [#aBossandaBabeEP1](http://twitter.com/search?q=%23aBossandaBabeEP1) | N/A |
 | 22 | [Shingeki](http://twitter.com/search?q=Shingeki) | Shingeki is a Japanese word that translates to "advancement" or "onslaught" in English. It is often used to refer to a sudden, large-scale attack or invasion. |
-| 23 | [Zanin](http://twitter.com/search?q=Zanin) | Zanin is a Japanese word that means "all of us". It is often used to refer to a group of people who are working together towards a common goal. |
-| 24 | [Daniel Alves](http://twitter.com/search?q=Daniel+Alves) | Daniel Alves is a Brazilian professional footballer who plays as a right-back for São Paulo FC. He is widely regarded as one of the best right-backs in the world and has won numerous awards and accolades throughout his career. |
-| 25 | [Dangerous Woman](http://twitter.com/search?q=Dangerous+Woman) | N/A |
-| 26 | [Dawon](http://twitter.com/search?q=Dawon) | N/A |
-| 27 | [Glastonbury](http://twitter.com/search?q=Glastonbury) | N/A |
-| 28 | [Aladdin](http://twitter.com/search?q=Aladdin) | N/A |
-| 29 | [Attack on Titan](http://twitter.com/search?q=Attack+on+Titan) | N/A |
-| 30 | [All I Wanted](http://twitter.com/search?q=All+I+Wanted) | N/A |
-| 31 | [#BDSP](http://twitter.com/search?q=%23BDSP) | N/A |
-| 32 | [Charizard](http://twitter.com/search?q=Charizard) | N/A |
-| 33 | [Demi Lovato](http://twitter.com/search?q=Demi+Lovato) | N/A |
-| 34 | [Rei Leão](http://twitter.com/search?q=Rei+Le%c3%a3o) | N/A |
-| 35 | [Galinho](http://twitter.com/search?q=Galinho) | N/A |
-| 36 | [My Everything](http://twitter.com/search?q=My+Everything) | N/A |
-| 37 | [Yours Truly](http://twitter.com/search?q=Yours+Truly) | N/A |
-| 38 | [Tarzan](http://twitter.com/search?q=Tarzan) | N/A |
-| 39 | [Still Alive](http://twitter.com/search?q=Still+Alive) | N/A |
-| 40 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 41 | [Next in Fashion](http://twitter.com/search?q=Next+in+Fashion) | N/A |
-| 42 | [Playing God](http://twitter.com/search?q=Playing+God) | N/A |
-| 43 | [Ramon Menezes](http://twitter.com/search?q=Ramon+Menezes) | N/A |
-| 44 | [mc carol](http://twitter.com/search?q=mc+carol) | N/A |
-| 45 | [Mang](http://twitter.com/search?q=Mang) | N/A |
-| 46 | [Hércules](http://twitter.com/search?q=H%c3%a9rcules) | N/A |
-| 47 | [Red Moon In Venus](http://twitter.com/search?q=Red+Moon+In+Venus) | N/A |
-| 48 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 49 | [The Pinkprint](http://twitter.com/search?q=The+Pinkprint) | N/A |
-| 50 | [Amoedo](http://twitter.com/search?q=Amoedo) | N/A |
+| 23 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 24 | [Joelinton](http://twitter.com/search?q=Joelinton) | Joelinton is a Portuguese name, derived from the combination of the names Joel and António. It is usually given to boys and means "God will give". |
+| 25 | [FORA JUSCELINO FILHO](http://twitter.com/search?q=FORA+JUSCELINO+FILHO) | N/A |
+| 26 | [#F1noBandSports](http://twitter.com/search?q=%23F1noBandSports) | N/A |
+| 27 | [Mulan](http://twitter.com/search?q=Mulan) | N/A |
+| 28 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 29 | [on the street](http://twitter.com/search?q=on+the+street) | N/A |
+| 30 | [Daniel Alves](http://twitter.com/search?q=Daniel+Alves) | Daniel Alves is a Brazilian professional footballer who plays as a right-back for São Paulo FC. He is widely regarded as one of the best right-backs in the world and has won numerous awards and accolades throughout his career. |
+| 31 | [#HappyBirthdayCamila](http://twitter.com/search?q=%23HappyBirthdayCamila) | N/A |
+| 32 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 33 | [Juazeiro do Norte](http://twitter.com/search?q=Juazeiro+do+Norte) | N/A |
+| 34 | [Luda](http://twitter.com/search?q=Luda) | N/A |
+| 35 | [Cris Gambaré](http://twitter.com/search?q=Cris+Gambar%c3%a9) | N/A |
+| 36 | [Attack on Titan](http://twitter.com/search?q=Attack+on+Titan) | N/A |
+| 37 | [Gabriel Bortoleto](http://twitter.com/search?q=Gabriel+Bortoleto) | N/A |
+| 38 | [LADY LESTE](http://twitter.com/search?q=LADY+LESTE) | N/A |
+| 39 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 40 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 41 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 42 | [Dangerous Woman](http://twitter.com/search?q=Dangerous+Woman) | N/A |
+| 43 | [All I Wanted](http://twitter.com/search?q=All+I+Wanted) | N/A |
+| 44 | [Tracy](http://twitter.com/search?q=Tracy) | N/A |
+| 45 | [Zanin](http://twitter.com/search?q=Zanin) | Zanin is a Japanese word that means "all of us". It is often used to refer to a group of people who are working together towards a common goal. |
+| 46 | [Charizard](http://twitter.com/search?q=Charizard) | N/A |
+| 47 | [Galinho](http://twitter.com/search?q=Galinho) | N/A |
+| 48 | [Glastonbury](http://twitter.com/search?q=Glastonbury) | N/A |
+| 49 | [Tarzan](http://twitter.com/search?q=Tarzan) | N/A |
+| 50 | [Aladdin](http://twitter.com/search?q=Aladdin) | N/A |
 
 
 

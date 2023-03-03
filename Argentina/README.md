@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Argentina
 
-📆 Last Updated: `2023-03-03 13:20:58 UTC`
+📆 Last Updated: `2023-03-03 14:17:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,41 @@ This is top 50 for Argentina
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Rosario](http://twitter.com/search?q=Rosario) | N/A |
-| 2 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 3 | [#BuenViernes](http://twitter.com/search?q=%23BuenViernes) | N/A |
-| 4 | [LUCILA AL 9009](http://twitter.com/search?q=LUCILA+AL+9009) | N/A |
-| 5 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
-| 6 | [#SinLuz](http://twitter.com/search?q=%23SinLuz) | N/A |
-| 7 | [Aníbal Fernández](http://twitter.com/search?q=An%c3%adbal+Fern%c3%a1ndez) | N/A |
-| 8 | [María Onetto](http://twitter.com/search?q=Mar%c3%ada+Onetto) | N/A |
-| 9 | [Julieta al 9009](http://twitter.com/search?q=Julieta+al+9009) | N/A |
-| 10 | [Narcos](http://twitter.com/search?q=Narcos) | N/A |
-| 11 | [Atucha](http://twitter.com/search?q=Atucha) | N/A |
-| 12 | [#on_the_street](http://twitter.com/search?q=%23on_the_street) | N/A |
-| 13 | [#ElClubDelMoro](http://twitter.com/search?q=%23ElClubDelMoro) | N/A |
-| 14 | [EXPLICA TU TWITTER](http://twitter.com/search?q=EXPLICA+TU+TWITTER) | N/A |
-| 15 | [Granata](http://twitter.com/search?q=Granata) | N/A |
-| 16 | [Javkin](http://twitter.com/search?q=Javkin) | N/A |
-| 17 | [MARCOS TIENE APOYO](http://twitter.com/search?q=MARCOS+TIENE+APOYO) | N/A |
-| 18 | [Aristides](http://twitter.com/search?q=Aristides) | N/A |
-| 19 | [Roccuzzo](http://twitter.com/search?q=Roccuzzo) | N/A |
-| 20 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 21 | [FFAA](http://twitter.com/search?q=FFAA) | N/A |
-| 22 | [Santa Fe](http://twitter.com/search?q=Santa+Fe) | N/A |
-| 23 | [queremos a los ex](http://twitter.com/search?q=queremos+a+los+ex) | N/A |
-| 24 | [Alberto](http://twitter.com/search?q=Alberto) | Alberto is a Spanish and Italian masculine given name, derived from the Germanic name Adalbert. In English, it is translated to mean "noble and bright". |
-| 25 | [Iglesias](http://twitter.com/search?q=Iglesias) | N/A |
-| 26 | [Patronato](http://twitter.com/search?q=Patronato) | Patronato is a Spanish term that refers to a system of patronage or protection. It is often used to describe the relationship between a patron and a client, in which the patron provides financial or other support to the client in exchange for loyalty and service. In English, it can be translated as "patronage" or "protection". |
-| 27 | [Resortin](http://twitter.com/search?q=Resortin) | N/A |
-| 28 | [Benedetto](http://twitter.com/search?q=Benedetto) | Benedetto is an Italian name meaning "blessed". It is derived from the Latin word "benedictus", which means "blessed". |
-| 29 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 30 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
-| 31 | [Maxi Trusso](http://twitter.com/search?q=Maxi+Trusso) | N/A |
-| 32 | [Duncan](http://twitter.com/search?q=Duncan) | N/A |
-| 33 | [Pipa](http://twitter.com/search?q=Pipa) | N/A |
-| 34 | [Tora](http://twitter.com/search?q=Tora) | Tora is a Japanese word meaning "tiger". It is often used as a nickname for someone who is strong and brave. |
-| 35 | [Braida](http://twitter.com/search?q=Braida) | N/A |
-| 36 | [Ministro de Seguridad](http://twitter.com/search?q=Ministro+de+Seguridad) | N/A |
-| 37 | [Romina al 9009](http://twitter.com/search?q=Romina+al+9009) | N/A |
-| 38 | [Día Mundial de la Audición](http://twitter.com/search?q=D%c3%ada+Mundial+de+la+Audici%c3%b3n) | N/A |
-| 39 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 40 | [Congreso](http://twitter.com/search?q=Congreso) | Congreso is the Spanish word for Congress. It is used to refer to a legislative body, such as the United States Congress or the Mexican Congress. In English, it is used to refer to any type of legislative assembly or gathering. |
-| 41 | [Perotti](http://twitter.com/search?q=Perotti) | N/A |
-| 42 | [TUGO](http://twitter.com/search?q=TUGO) | N/A |
-| 43 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 44 | [Pixar](http://twitter.com/search?q=Pixar) | N/A |
-| 45 | [Excelente Viernes](http://twitter.com/search?q=Excelente+Viernes) | N/A |
-| 46 | [Lindo Viernes](http://twitter.com/search?q=Lindo+Viernes) | N/A |
-| 47 | [Rossi](http://twitter.com/search?q=Rossi) | Rossi is an Italian surname. It is derived from the Latin name "Rufus" and means "red-haired" or "ruddy". |
-| 48 | [Boni](http://twitter.com/search?q=Boni) | N/A |
-| 49 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
-| 50 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 1 | [Perrone](http://twitter.com/search?q=Perrone) | Perrone is an Italian surname. It is derived from the Latin word perronus, which means "rocky". In English, it can be translated to mean "of the rocky place". |
+| 2 | [#CumpleGranix](http://twitter.com/search?q=%23CumpleGranix) | N/A |
+| 3 | [Lautaro Blanco](http://twitter.com/search?q=Lautaro+Blanco) | N/A |
+| 4 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
+| 5 | [#BuenViernes](http://twitter.com/search?q=%23BuenViernes) | N/A |
+| 6 | [Nico Paz](http://twitter.com/search?q=Nico+Paz) | Nico Paz is a Spanish phrase that translates to "Peaceful Victory". It is often used as a rallying cry for people to strive for peace and harmony in their lives. |
+| 7 | [Celso](http://twitter.com/search?q=Celso) | N/A |
+| 8 | [Carboni](http://twitter.com/search?q=Carboni) | N/A |
+| 9 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
+| 10 | [#nadiedicenada](http://twitter.com/search?q=%23nadiedicenada) | N/A |
+| 11 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
+| 12 | [Granata](http://twitter.com/search?q=Granata) | N/A |
+| 13 | [#LanataSinFiltro](http://twitter.com/search?q=%23LanataSinFiltro) | N/A |
+| 14 | [Resortin](http://twitter.com/search?q=Resortin) | N/A |
+| 15 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 16 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 17 | [Santilli](http://twitter.com/search?q=Santilli) | N/A |
+| 18 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
+| 19 | [Julieta al 9009](http://twitter.com/search?q=Julieta+al+9009) | N/A |
+| 20 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 21 | [Aníbal](http://twitter.com/search?q=An%c3%adbal) | N/A |
+| 22 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 23 | [FFAA](http://twitter.com/search?q=FFAA) | N/A |
+| 24 | [Nisman](http://twitter.com/search?q=Nisman) | Nisman is a surname of Jewish origin. It is derived from the Hebrew name Nissim, which means "miracles". In English, the name Nisman can be translated to mean "miracle worker". |
+| 25 | [Crónica](http://twitter.com/search?q=Cr%c3%b3nica) | N/A |
+| 26 | [Maxi Trusso](http://twitter.com/search?q=Maxi+Trusso) | N/A |
+| 27 | [Ricky Martin](http://twitter.com/search?q=Ricky+Martin) | N/A |
+| 28 | [Perotti](http://twitter.com/search?q=Perotti) | N/A |
+| 29 | [Reserva](http://twitter.com/search?q=Reserva) | N/A |
+| 30 | [En Rosario](http://twitter.com/search?q=En+Rosario) | N/A |
+| 31 | [Ritondo](http://twitter.com/search?q=Ritondo) | N/A |
+| 32 | [#FelizViernesATodos](http://twitter.com/search?q=%23FelizViernesATodos) | N/A |
+| 33 | [#ElClubDelMoro](http://twitter.com/search?q=%23ElClubDelMoro) | N/A |
+| 34 | [#caballerodedia](http://twitter.com/search?q=%23caballerodedia) | N/A |
+| 35 | [#on_the_street](http://twitter.com/search?q=%23on_the_street) | N/A |
 
 
 

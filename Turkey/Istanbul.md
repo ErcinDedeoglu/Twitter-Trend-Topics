@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Istanbul
 
-📆 Last Updated: `2023-03-03 13:20:48 UTC`
+📆 Last Updated: `2023-03-03 14:16:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [TÜİK](http://twitter.com/search?q=T%c3%9c%c4%b0K) | TÜİK stands for Turkish Statistical Institute (Turk Statistik Kurumu in Turkish). It is the official government agency responsible for collecting, processing, analyzing and publishing statistical data on the economy and society of Turkey. |
-| 2 | [Aşırı](http://twitter.com/search?q=A%c5%9f%c4%b1r%c4%b1) | N/A |
-| 3 | [RTE'ye](http://twitter.com/search?q=RTE%27ye) | N/A |
-| 4 | [İkinci](http://twitter.com/search?q=%c4%b0kinci) | N/A |
-| 5 | [Masanın](http://twitter.com/search?q=Masan%c4%b1n) | N/A |
-| 6 | [Hayal](http://twitter.com/search?q=Hayal) | N/A |
-| 7 | [Fatih Erbakan](http://twitter.com/search?q=Fatih+Erbakan) | N/A |
-| 8 | [Demokrasi](http://twitter.com/search?q=Demokrasi) | N/A |
-| 9 | [Seçimi](http://twitter.com/search?q=Se%c3%a7imi) | N/A |
-| 10 | [Güle](http://twitter.com/search?q=G%c3%bcle) | N/A |
-| 11 | [Erkan Baş](http://twitter.com/search?q=Erkan+Ba%c5%9f) | N/A |
-| 12 | [#EYTResmiGazetedeYayınlandı](http://twitter.com/search?q=%23EYTResmiGazetedeYay%c4%b1nland%c4%b1) | N/A |
-| 13 | [KK'ya](http://twitter.com/search?q=KK%27ya) | N/A |
-| 14 | [ADAYIM ERBAKAN](http://twitter.com/search?q=ADAYIM+ERBAKAN) | N/A |
-| 15 | [#müslümgürses](http://twitter.com/search?q=%23m%c3%bcsl%c3%bcmg%c3%bcrses) | N/A |
-| 16 | [Göreceğiz](http://twitter.com/search?q=G%c3%b6rece%c4%9fiz) | N/A |
-| 17 | [#ProtestoEdiyorum](http://twitter.com/search?q=%23ProtestoEdiyorum) | N/A |
-| 18 | [#3Mart1924](http://twitter.com/search?q=%233Mart1924) | N/A |
-| 19 | [Ankara](http://twitter.com/search?q=Ankara) | Ankara is the capital city of Turkey. It is located in the central part of the country and is home to over 5 million people. The name Ankara comes from the Hittite word Ankuwash, which means "anchor." In English, Ankara can be translated to mean "anchor city." |
-| 20 | [Başından](http://twitter.com/search?q=Ba%c5%9f%c4%b1ndan) | N/A |
-| 21 | [Alevi](http://twitter.com/search?q=Alevi) | N/A |
-| 22 | [#SözKonusuVATAN](http://twitter.com/search?q=%23S%c3%b6zKonusuVATAN) | N/A |
-| 23 | [ADAM KAZANDI](http://twitter.com/search?q=ADAM+KAZANDI) | N/A |
-| 24 | [Başbakan](http://twitter.com/search?q=Ba%c5%9fbakan) | N/A |
-| 25 | [Ortalık](http://twitter.com/search?q=Ortal%c4%b1k) | N/A |
-| 26 | [Şahsi](http://twitter.com/search?q=%c5%9eahsi) | N/A |
-| 27 | [Tarih](http://twitter.com/search?q=Tarih) | N/A |
-| 28 | [YAZIKLAR OLSUN](http://twitter.com/search?q=YAZIKLAR+OLSUN) | N/A |
-| 29 | [İmamoğlu](http://twitter.com/search?q=%c4%b0mamo%c4%9flu) | N/A |
-| 30 | [Masa Yıkıldı](http://twitter.com/search?q=Masa+Y%c4%b1k%c4%b1ld%c4%b1) | N/A |
-| 31 | [İyi Parti](http://twitter.com/search?q=%c4%b0yi+Parti) | N/A |
-| 32 | [el ele aşıyoruz](http://twitter.com/search?q=el+ele+a%c5%9f%c4%b1yoruz) | N/A |
-| 33 | [Siyasi Ahlaksızlık](http://twitter.com/search?q=Siyasi+Ahlaks%c4%b1zl%c4%b1k) | N/A |
-| 34 | [Zorlama Burak](http://twitter.com/search?q=Zorlama+Burak) | N/A |
-| 35 | [YİYİN BİRBİRİNİZİ](http://twitter.com/search?q=Y%c4%b0Y%c4%b0N+B%c4%b0RB%c4%b0R%c4%b0N%c4%b0Z%c4%b0) | N/A |
-| 36 | [Erdoğan](http://twitter.com/search?q=Erdo%c4%9fan) | N/A |
-| 37 | [Ulusal Risk Kalkanı](http://twitter.com/search?q=Ulusal+Risk+Kalkan%c4%b1) | N/A |
-| 38 | [Masayı](http://twitter.com/search?q=Masay%c4%b1) | N/A |
-| 39 | [Truva](http://twitter.com/search?q=Truva) | N/A |
-| 40 | [Muharrem İnce](http://twitter.com/search?q=Muharrem+%c4%b0nce) | N/A |
-| 41 | [Ümit Özdağ](http://twitter.com/search?q=%c3%9cmit+%c3%96zda%c4%9f) | N/A |
-| 42 | [Koltuk](http://twitter.com/search?q=Koltuk) | N/A |
-| 43 | [Cumhur](http://twitter.com/search?q=Cumhur) | N/A |
-| 44 | [Seçime 2](http://twitter.com/search?q=Se%c3%a7ime+2) | N/A |
-| 45 | [İhanet](http://twitter.com/search?q=%c4%b0hanet) | N/A |
-| 46 | [AKP'ye](http://twitter.com/search?q=AKP%27ye) | N/A |
-| 47 | [Belliydi](http://twitter.com/search?q=Belliydi) | N/A |
-| 48 | [Taşlar](http://twitter.com/search?q=Ta%c5%9flar) | N/A |
-| 49 | [CHP'li](http://twitter.com/search?q=CHP%27li) | N/A |
-| 50 | [CHP'den](http://twitter.com/search?q=CHP%27den) | N/A |
+| 1 | [Hayırlı Cumalar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Cumalar) | "Hayırlı Cumalar" is a Turkish phrase that translates to "Have a Good Friday." It is typically used as a greeting on the Islamic holy day of Friday. |
+| 2 | [KK'ya](http://twitter.com/search?q=KK%27ya) | N/A |
+| 3 | [Deniz Baykal](http://twitter.com/search?q=Deniz+Baykal) | N/A |
+| 4 | [Göreceğiz](http://twitter.com/search?q=G%c3%b6rece%c4%9fiz) | N/A |
+| 5 | [Alevi](http://twitter.com/search?q=Alevi) | N/A |
+| 6 | [Erkan Baş](http://twitter.com/search?q=Erkan+Ba%c5%9f) | N/A |
+| 7 | [İkinci](http://twitter.com/search?q=%c4%b0kinci) | N/A |
+| 8 | [#OyumuzAdalete](http://twitter.com/search?q=%23OyumuzAdalete) | N/A |
+| 9 | [Nankörlük](http://twitter.com/search?q=Nank%c3%b6rl%c3%bck) | N/A |
+| 10 | [Başından](http://twitter.com/search?q=Ba%c5%9f%c4%b1ndan) | N/A |
+| 11 | [Güle](http://twitter.com/search?q=G%c3%bcle) | N/A |
+| 12 | [Asena](http://twitter.com/search?q=Asena) | N/A |
+| 13 | [Şahsi](http://twitter.com/search?q=%c5%9eahsi) | N/A |
+| 14 | [#meralakSener](http://twitter.com/search?q=%23meralakSener) | N/A |
+| 15 | [#MansurBaskanAdayOl](http://twitter.com/search?q=%23MansurBaskanAdayOl) | N/A |
+| 16 | [Tarih](http://twitter.com/search?q=Tarih) | N/A |
+| 17 | [YAZIKLAR OLSUN](http://twitter.com/search?q=YAZIKLAR+OLSUN) | N/A |
+| 18 | [#Kilicdarogluadayolmasin](http://twitter.com/search?q=%23Kilicdarogluadayolmasin) | N/A |
+| 19 | [İmamoğlu](http://twitter.com/search?q=%c4%b0mamo%c4%9flu) | N/A |
+| 20 | [Siyasi Ahlaksızlık](http://twitter.com/search?q=Siyasi+Ahlaks%c4%b1zl%c4%b1k) | N/A |
+| 21 | [#iyiparti](http://twitter.com/search?q=%23iyiparti) | N/A |
+| 22 | [Masa Yıkıldı](http://twitter.com/search?q=Masa+Y%c4%b1k%c4%b1ld%c4%b1) | N/A |
+| 23 | [Erdoğan](http://twitter.com/search?q=Erdo%c4%9fan) | N/A |
+| 24 | [Muharrem İnce](http://twitter.com/search?q=Muharrem+%c4%b0nce) | N/A |
+| 25 | [Masayı](http://twitter.com/search?q=Masay%c4%b1) | N/A |
+| 26 | [Truva](http://twitter.com/search?q=Truva) | N/A |
+| 27 | [Koltuk](http://twitter.com/search?q=Koltuk) | N/A |
+| 28 | [YİYİN BİRBİRİNİZİ](http://twitter.com/search?q=Y%c4%b0Y%c4%b0N+B%c4%b0RB%c4%b0R%c4%b0N%c4%b0Z%c4%b0) | N/A |
+| 29 | [İhanet](http://twitter.com/search?q=%c4%b0hanet) | N/A |
+| 30 | [Davutoğlu](http://twitter.com/search?q=Davuto%c4%9flu) | Davutoğlu is a Turkish surname. It is derived from the Turkish word "davut", which means "wise". In English, the name Davutoğlu would translate to "wise man". |
+| 31 | [Ümit Özdağ](http://twitter.com/search?q=%c3%9cmit+%c3%96zda%c4%9f) | N/A |
+| 32 | [Ulusal Risk Kalkanı](http://twitter.com/search?q=Ulusal+Risk+Kalkan%c4%b1) | N/A |
+| 33 | [Seçime 2](http://twitter.com/search?q=Se%c3%a7ime+2) | N/A |
+| 34 | [AKP'ye](http://twitter.com/search?q=AKP%27ye) | N/A |
+| 35 | [Atmasın](http://twitter.com/search?q=Atmas%c4%b1n) | N/A |
+| 36 | [Cumhur](http://twitter.com/search?q=Cumhur) | N/A |
+| 37 | [CHP'li](http://twitter.com/search?q=CHP%27li) | N/A |
+| 38 | [CHP'den](http://twitter.com/search?q=CHP%27den) | N/A |
+| 39 | [Tura](http://twitter.com/search?q=Tura) | N/A |
+| 40 | [Taşlar](http://twitter.com/search?q=Ta%c5%9flar) | N/A |
+| 41 | [Halkın](http://twitter.com/search?q=Halk%c4%b1n) | N/A |
+| 42 | [Babacan](http://twitter.com/search?q=Babacan) | N/A |
+| 43 | [Tansu Çiller](http://twitter.com/search?q=Tansu+%c3%87iller) | N/A |
+| 44 | [Sağcı](http://twitter.com/search?q=Sa%c4%9fc%c4%b1) | N/A |
+| 45 | [Mehmet Ağar](http://twitter.com/search?q=Mehmet+A%c4%9far) | N/A |
+| 46 | [İrfan](http://twitter.com/search?q=%c4%b0rfan) | İrfan is an Arabic name meaning "knowledge" or "wisdom". It is also used as a Turkish name, and can be spelled as Irfan or Erfan. |
+| 47 | [Milletin](http://twitter.com/search?q=Milletin) | N/A |
+| 48 | [Belliydi](http://twitter.com/search?q=Belliydi) | N/A |
+| 49 | [Başbakan](http://twitter.com/search?q=Ba%c5%9fbakan) | N/A |
+| 50 | [Kumar](http://twitter.com/search?q=Kumar) | N/A |
 
 
 
