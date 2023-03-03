@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Monterrey
 
-📆 Last Updated: `2023-03-03 16:16:38 UTC`
+📆 Last Updated: `2023-03-03 17:18:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Convoy7Años](http://twitter.com/search?q=%23Convoy7A%c3%b1os) | N/A |
-| 2 | [#PreseaEdoMex](http://twitter.com/search?q=%23PreseaEdoMex) | N/A |
+| 1 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 2 | [#Convoy7Años](http://twitter.com/search?q=%23Convoy7A%c3%b1os) | N/A |
 | 3 | [#ToFOUReverlandWithTXT](http://twitter.com/search?q=%23ToFOUReverlandWithTXT) | N/A |
 | 4 | [#TXT_4th_Anniversary](http://twitter.com/search?q=%23TXT_4th_Anniversary) | N/A |
-| 5 | [4 YEARS WITH TXT](http://twitter.com/search?q=4+YEARS+WITH+TXT) | N/A |
-| 6 | [#FelizViernesATodos](http://twitter.com/search?q=%23FelizViernesATodos) | N/A |
-| 7 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 8 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 9 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
-| 10 | [Edmundo Jacobo](http://twitter.com/search?q=Edmundo+Jacobo) | N/A |
-| 11 | [Samuel](http://twitter.com/search?q=Samuel) | N/A |
-| 12 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 13 | [Norma Piña](http://twitter.com/search?q=Norma+Pi%c3%b1a) | Norma Piña is a Mexican dish made with shredded beef, potatoes, and carrots cooked in a tomato-based sauce. The name of the dish comes from the Spanish words for "shredded beef" (carne deshebrada) and "pineapple" (piña). In English, Norma Piña translates to "Shredded Beef with Pineapple". |
-| 14 | [Diego Cocca](http://twitter.com/search?q=Diego+Cocca) | N/A |
-| 15 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 16 | [Pajarito](http://twitter.com/search?q=Pajarito) | N/A |
-| 17 | [Mang](http://twitter.com/search?q=Mang) | N/A |
-| 18 | [Nuevo León](http://twitter.com/search?q=Nuevo+Le%c3%b3n) | N/A |
-| 19 | [Toño Rodríguez](http://twitter.com/search?q=To%c3%b1o+Rodr%c3%adguez) | N/A |
-| 20 | [Patricia Mercado](http://twitter.com/search?q=Patricia+Mercado) | N/A |
-| 21 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 22 | [El Plan](http://twitter.com/search?q=El+Plan) | N/A |
-| 23 | [Felices 7](http://twitter.com/search?q=Felices+7) | N/A |
-| 24 | [Excelente Viernes](http://twitter.com/search?q=Excelente+Viernes) | N/A |
-| 25 | [Ochoa](http://twitter.com/search?q=Ochoa) | Ochoa is a Spanish surname. It is derived from the Latin word "octavus," which means "eighth." The name is thought to have originated as a nickname for someone who was the eighth child in their family. In English, Ochoa can be translated to mean "eighth." |
-| 26 | [Creel](http://twitter.com/search?q=Creel) | N/A |
-| 27 | [Freen](http://twitter.com/search?q=Freen) | N/A |
-| 28 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 29 | [SCJN](http://twitter.com/search?q=SCJN) | SCJN stands for the Supreme Court of Justice of the Nation, which is the highest court in Mexico. It is responsible for interpreting and applying the laws of Mexico. In English, SCJN stands for Supreme Court of Justice of the Nation. |
-| 30 | [WORLD CLASS STAR V](http://twitter.com/search?q=WORLD+CLASS+STAR+V) | N/A |
-| 31 | [Olallo](http://twitter.com/search?q=Olallo) | N/A |
-| 32 | [Monterrey](http://twitter.com/search?q=Monterrey) | N/A |
-| 33 | [TIFFANY BRAND AMBASSADOR JIMIN](http://twitter.com/search?q=TIFFANY+BRAND+AMBASSADOR+JIMIN) | N/A |
-| 34 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 35 | [De la Rosa](http://twitter.com/search?q=De+la+Rosa) | N/A |
-| 36 | [Master of Puppets](http://twitter.com/search?q=Master+of+Puppets) | N/A |
-| 37 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 38 | [EXPLICA TU TWITTER](http://twitter.com/search?q=EXPLICA+TU+TWITTER) | N/A |
-| 39 | [RENJUN](http://twitter.com/search?q=RENJUN) | N/A |
-| 40 | [Mariana](http://twitter.com/search?q=Mariana) | N/A |
-| 41 | [Zendejas](http://twitter.com/search?q=Zendejas) | Zendejas is a Spanish surname. It is derived from the Basque word "zendegi," which means "life." In English, it can be translated to mean "one who has a long life." |
-| 42 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
-| 43 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
-| 44 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 45 | [La RAE](http://twitter.com/search?q=La+RAE) | N/A |
-| 46 | [Nano](http://twitter.com/search?q=Nano) | N/A |
-| 47 | [Hange](http://twitter.com/search?q=Hange) | N/A |
-| 48 | [Pocho Guzmán](http://twitter.com/search?q=Pocho+Guzm%c3%a1n) | N/A |
-| 49 | [Nuevo Laredo](http://twitter.com/search?q=Nuevo+Laredo) | N/A |
-| 50 | [Viernes con V](http://twitter.com/search?q=Viernes+con+V) | N/A |
+| 5 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 6 | [#QueremosRock](http://twitter.com/search?q=%23QueremosRock) | N/A |
+| 7 | [#FelizViernesATodos](http://twitter.com/search?q=%23FelizViernesATodos) | N/A |
+| 8 | [4 YEARS WITH TXT](http://twitter.com/search?q=4+YEARS+WITH+TXT) | N/A |
+| 9 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 10 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 11 | [Hange](http://twitter.com/search?q=Hange) | N/A |
+| 12 | [Master of Puppets](http://twitter.com/search?q=Master+of+Puppets) | N/A |
+| 13 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
+| 14 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 15 | [Zendejas](http://twitter.com/search?q=Zendejas) | Zendejas is a Spanish surname. It is derived from the Basque word "zendegi," which means "life." In English, it can be translated to mean "one who has a long life." |
+| 16 | [Excelente Viernes](http://twitter.com/search?q=Excelente+Viernes) | N/A |
+| 17 | [Crunchyroll](http://twitter.com/search?q=Crunchyroll) | N/A |
+| 18 | [Magic](http://twitter.com/search?q=Magic) | N/A |
+| 19 | [Banco de México](http://twitter.com/search?q=Banco+de+M%c3%a9xico) | N/A |
+| 20 | [Nano](http://twitter.com/search?q=Nano) | N/A |
+| 21 | [Kali Uchis](http://twitter.com/search?q=Kali+Uchis) | N/A |
+| 22 | [Layda Sansores](http://twitter.com/search?q=Layda+Sansores) | N/A |
+| 23 | [Jacobo](http://twitter.com/search?q=Jacobo) | N/A |
+| 24 | [Lía Limón](http://twitter.com/search?q=L%c3%ada+Lim%c3%b3n) | N/A |
+| 25 | [Levi](http://twitter.com/search?q=Levi) | N/A |
+| 26 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
+| 27 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 28 | [Lira](http://twitter.com/search?q=Lira) | N/A |
+| 29 | [Gobernación](http://twitter.com/search?q=Gobernaci%c3%b3n) | N/A |
+| 30 | [Adán Augusto](http://twitter.com/search?q=Ad%c3%a1n+Augusto) | N/A |
+| 31 | [Banxico](http://twitter.com/search?q=Banxico) | N/A |
+| 32 | [Mancera](http://twitter.com/search?q=Mancera) | N/A |
+| 33 | [Eren](http://twitter.com/search?q=Eren) | N/A |
+| 34 | [Viernes 3](http://twitter.com/search?q=Viernes+3) | N/A |
+| 35 | [Poder Judicial](http://twitter.com/search?q=Poder+Judicial) | N/A |
+| 36 | [Lorenzo Córdova](http://twitter.com/search?q=Lorenzo+C%c3%b3rdova) | N/A |
+| 37 | [Pajarito](http://twitter.com/search?q=Pajarito) | N/A |
+| 38 | [Norma Piña](http://twitter.com/search?q=Norma+Pi%c3%b1a) | Norma Piña is a Mexican dish made with shredded beef, potatoes, and carrots cooked in a tomato-based sauce. The name of the dish comes from the Spanish words for "shredded beef" (carne deshebrada) and "pineapple" (piña). In English, Norma Piña translates to "Shredded Beef with Pineapple". |
+| 39 | [#ShingekiNoKyojin](http://twitter.com/search?q=%23ShingekiNoKyojin) | N/A |
+| 40 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
+| 41 | [#PesoMexicano](http://twitter.com/search?q=%23PesoMexicano) | N/A |
+| 42 | [#AttackOnTitan](http://twitter.com/search?q=%23AttackOnTitan) | N/A |
+| 43 | [#DíaMundialDeLaVidaSilvestre](http://twitter.com/search?q=%23D%c3%adaMundialDeLaVidaSilvestre) | N/A |
+| 44 | [#ZonaRÉCORD](http://twitter.com/search?q=%23ZonaR%c3%89CORD) | N/A |
+| 45 | [#GPBahrein](http://twitter.com/search?q=%23GPBahrein) | N/A |
+| 46 | [#SuperPeso](http://twitter.com/search?q=%23SuperPeso) | N/A |
+| 47 | [#dolar](http://twitter.com/search?q=%23dolar) | N/A |
+| 48 | [#Formula1](http://twitter.com/search?q=%23Formula1) | N/A |
+| 49 | [#HappyBirthdayCamila](http://twitter.com/search?q=%23HappyBirthdayCamila) | N/A |
+| 50 | [#BuenViernes](http://twitter.com/search?q=%23BuenViernes) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Houston
 
-📆 Last Updated: `2023-03-03 16:17:13 UTC`
+📆 Last Updated: `2023-03-03 17:19:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 2 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
-| 3 | [#EmployeeAppreciationDay](http://twitter.com/search?q=%23EmployeeAppreciationDay) | N/A |
-| 4 | [Judge Newman](http://twitter.com/search?q=Judge+Newman) | N/A |
-| 5 | [#ToFOUReverlandWithTXT](http://twitter.com/search?q=%23ToFOUReverlandWithTXT) | N/A |
+| 2 | [Hershey](http://twitter.com/search?q=Hershey) | N/A |
+| 3 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
+| 4 | [#EmployeeAppreciationDay](http://twitter.com/search?q=%23EmployeeAppreciationDay) | N/A |
+| 5 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
 | 6 | [#BandcampFriday](http://twitter.com/search?q=%23BandcampFriday) | N/A |
-| 7 | [#TXT_4th_Anniversary](http://twitter.com/search?q=%23TXT_4th_Anniversary) | N/A |
-| 8 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
-| 9 | [Walgreens](http://twitter.com/search?q=Walgreens) | N/A |
-| 10 | [Alex Murdaugh](http://twitter.com/search?q=Alex+Murdaugh) | N/A |
-| 11 | [Morgan Wallen](http://twitter.com/search?q=Morgan+Wallen) | N/A |
-| 12 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 13 | [vrana](http://twitter.com/search?q=vrana) | N/A |
-| 14 | [De La Soul](http://twitter.com/search?q=De+La+Soul) | N/A |
-| 15 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 16 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 17 | [Happy Friyay](http://twitter.com/search?q=Happy+Friyay) | N/A |
-| 18 | [4 YEARS WITH TXT](http://twitter.com/search?q=4+YEARS+WITH+TXT) | N/A |
-| 19 | [ON SALE NOW](http://twitter.com/search?q=ON+SALE+NOW) | N/A |
-| 20 | [masego](http://twitter.com/search?q=masego) | N/A |
-| 21 | [Bonino](http://twitter.com/search?q=Bonino) | N/A |
+| 7 | [Walgreens](http://twitter.com/search?q=Walgreens) | N/A |
+| 8 | [Morgan Wallen](http://twitter.com/search?q=Morgan+Wallen) | N/A |
+| 9 | [#ToFOUReverlandWithTXT](http://twitter.com/search?q=%23ToFOUReverlandWithTXT) | N/A |
+| 10 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
+| 11 | [Judge Newman](http://twitter.com/search?q=Judge+Newman) | N/A |
+| 12 | [De La Soul](http://twitter.com/search?q=De+La+Soul) | N/A |
+| 13 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 14 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 15 | [Alex Murdaugh](http://twitter.com/search?q=Alex+Murdaugh) | N/A |
+| 16 | [Dahm](http://twitter.com/search?q=Dahm) | N/A |
+| 17 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 18 | [Masego](http://twitter.com/search?q=Masego) | N/A |
+| 19 | [Vrana](http://twitter.com/search?q=Vrana) | Vrana is a Croatian word that means "crow" in English. |
+| 20 | [Lemieux](http://twitter.com/search?q=Lemieux) | N/A |
+| 21 | [Happy Friyay](http://twitter.com/search?q=Happy+Friyay) | N/A |
 | 22 | [Melle Mel](http://twitter.com/search?q=Melle+Mel) | N/A |
-| 23 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
-| 24 | [Dahm](http://twitter.com/search?q=Dahm) | N/A |
-| 25 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
-| 26 | [Richard Simmons](http://twitter.com/search?q=Richard+Simmons) | N/A |
-| 27 | [Finally Friday](http://twitter.com/search?q=Finally+Friday) | N/A |
-| 28 | [Stakes is High](http://twitter.com/search?q=Stakes+is+High) | N/A |
-| 29 | [Saban](http://twitter.com/search?q=Saban) | Saban is a Turkish name derived from the Arabic word for “wise” or “learned.” It is also used as a surname in some parts of the world. In English, Saban can be translated to mean “wise one” or “wise man.” |
-| 30 | [98 Braves](http://twitter.com/search?q=98+Braves) | N/A |
-| 31 | [Andrew Luck](http://twitter.com/search?q=Andrew+Luck) | N/A |
-| 32 | [LIFE IN PRISON](http://twitter.com/search?q=LIFE+IN+PRISON) | N/A |
-| 33 | [Daily Quordle 403](http://twitter.com/search?q=Daily+Quordle+403) | N/A |
-| 34 | [Lacey Evans](http://twitter.com/search?q=Lacey+Evans) | Lacey Evans is a professional wrestler currently signed to WWE. Her ring name is derived from her real name, Macey Estrella-Kadlec. The name "Lacey" is derived from the English word for a type of lace fabric, and "Evans" is a common Welsh surname. |
-| 35 | [WHO DEY](http://twitter.com/search?q=WHO+DEY) | "WHO DEY" is a phrase used by fans of the Cincinnati Bengals, an American football team. It is a rallying cry used to show support for the team and is often shouted during games. The phrase is derived from the team's unofficial mascot, a Bengal tiger named Who Dey. In English, it means "Go Bengals!" |
-| 36 | [Eminem](http://twitter.com/search?q=Eminem) | N/A |
-| 37 | [Moonlighting](http://twitter.com/search?q=Moonlighting) | N/A |
-| 38 | [Shabbat Shalom](http://twitter.com/search?q=Shabbat+Shalom) | N/A |
-| 39 | [Today is Friday](http://twitter.com/search?q=Today+is+Friday) | N/A |
-| 40 | [MEET DAY](http://twitter.com/search?q=MEET+DAY) | N/A |
-| 41 | [The Star-Spangled Banner](http://twitter.com/search?q=The+Star-Spangled+Banner) | N/A |
-| 42 | [Pat Leonard](http://twitter.com/search?q=Pat+Leonard) | N/A |
-| 43 | [CJ Stroud](http://twitter.com/search?q=CJ+Stroud) | CJ Stroud is the name of an American football quarterback who currently plays for the Ohio State Buckeyes. He is known for his strong arm and accuracy, as well as his leadership skills. The name CJ Stroud is derived from his initials, C.J., and his last name, Stroud. |
-| 44 | [Kimmel](http://twitter.com/search?q=Kimmel) | N/A |
-| 45 | [Liko](http://twitter.com/search?q=Liko) | N/A |
-| 46 | [kali uchis](http://twitter.com/search?q=kali+uchis) | N/A |
-| 47 | [3 Feet High and Rising](http://twitter.com/search?q=3+Feet+High+and+Rising) | N/A |
-| 48 | [Master of Puppets](http://twitter.com/search?q=Master+of+Puppets) | N/A |
-| 49 | [Marcus Jr](http://twitter.com/search?q=Marcus+Jr) | N/A |
-| 50 | [Zverev](http://twitter.com/search?q=Zverev) | Zverev is a Russian surname derived from the word zver, which means "beast" or "animal". In English, it can be translated to mean "beastly" or "ferocious". |
+| 23 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
+| 24 | [Curtis Lazar](http://twitter.com/search?q=Curtis+Lazar) | N/A |
+| 25 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
+| 26 | [Paris Davis](http://twitter.com/search?q=Paris+Davis) | N/A |
+| 27 | [ethan hawke](http://twitter.com/search?q=ethan+hawke) | N/A |
+| 28 | [Bonino](http://twitter.com/search?q=Bonino) | N/A |
+| 29 | [Eminem](http://twitter.com/search?q=Eminem) | N/A |
+| 30 | [ON SALE NOW](http://twitter.com/search?q=ON+SALE+NOW) | N/A |
+| 31 | [Medal of Honor](http://twitter.com/search?q=Medal+of+Honor) | N/A |
+| 32 | [Lacey Evans](http://twitter.com/search?q=Lacey+Evans) | Lacey Evans is a professional wrestler currently signed to WWE. Her ring name is derived from her real name, Macey Estrella-Kadlec. The name "Lacey" is derived from the English word for a type of lace fabric, and "Evans" is a common Welsh surname. |
+| 33 | [Jack Cassidy](http://twitter.com/search?q=Jack+Cassidy) | N/A |
+| 34 | [Saban](http://twitter.com/search?q=Saban) | Saban is a Turkish name derived from the Arabic word for “wise” or “learned.” It is also used as a surname in some parts of the world. In English, Saban can be translated to mean “wise one” or “wise man.” |
+| 35 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
+| 36 | [98 Braves](http://twitter.com/search?q=98+Braves) | N/A |
+| 37 | [4 YEARS WITH TXT](http://twitter.com/search?q=4+YEARS+WITH+TXT) | N/A |
+| 38 | [Moonlighting](http://twitter.com/search?q=Moonlighting) | N/A |
+| 39 | [Richard Simmons](http://twitter.com/search?q=Richard+Simmons) | N/A |
+| 40 | [Kali Uchis](http://twitter.com/search?q=Kali+Uchis) | N/A |
+| 41 | [Stakes is High](http://twitter.com/search?q=Stakes+is+High) | N/A |
+| 42 | [Flex Friday](http://twitter.com/search?q=Flex+Friday) | N/A |
+| 43 | [Medvedev](http://twitter.com/search?q=Medvedev) | Medvedev is a Russian surname derived from the word medved, which means "bear". It is also the surname of Dmitry Medvedev, the current Prime Minister of Russia. In English, the name Medvedev can be translated to mean "son of the bear". |
+| 44 | [UNC Asheville](http://twitter.com/search?q=UNC+Asheville) | N/A |
+| 45 | [3 Feet High and Rising](http://twitter.com/search?q=3+Feet+High+and+Rising) | N/A |
+| 46 | [Crunchyroll](http://twitter.com/search?q=Crunchyroll) | N/A |
+| 47 | [Andrew Luck](http://twitter.com/search?q=Andrew+Luck) | N/A |
+| 48 | [CJ Stroud](http://twitter.com/search?q=CJ+Stroud) | CJ Stroud is the name of an American football quarterback who currently plays for the Ohio State Buckeyes. He is known for his strong arm and accuracy, as well as his leadership skills. The name CJ Stroud is derived from his initials, C.J., and his last name, Stroud. |
+| 49 | [Jordan Addison](http://twitter.com/search?q=Jordan+Addison) | N/A |
+| 50 | [Kimmel](http://twitter.com/search?q=Kimmel) | N/A |
 
 
 

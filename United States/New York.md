@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-03-03 16:17:15 UTC`
+📆 Last Updated: `2023-03-03 17:19:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Howard](http://twitter.com/search?q=Howard) | N/A |
 | 2 | [#NECTFL23](http://twitter.com/search?q=%23NECTFL23) | N/A |
-| 3 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
-| 4 | [Hershey](http://twitter.com/search?q=Hershey) | N/A |
-| 5 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
-| 6 | [#EmployeeAppreciationDay](http://twitter.com/search?q=%23EmployeeAppreciationDay) | N/A |
-| 7 | [Judge Newman](http://twitter.com/search?q=Judge+Newman) | N/A |
-| 8 | [#ToFOUReverlandWithTXT](http://twitter.com/search?q=%23ToFOUReverlandWithTXT) | N/A |
-| 9 | [#BandcampFriday](http://twitter.com/search?q=%23BandcampFriday) | N/A |
-| 10 | [#TXT_4th_Anniversary](http://twitter.com/search?q=%23TXT_4th_Anniversary) | N/A |
+| 3 | [South Carolina](http://twitter.com/search?q=South+Carolina) | South Carolina is a state in the southeastern United States. It is bordered to the north by North Carolina, to the southeast by the Atlantic Ocean, and to the southwest by Georgia. The capital and largest city is Columbia. South Carolina is known for its beaches, subtropical climate, and historic sites related to the Civil War and the American Revolution. |
+| 4 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
+| 5 | [Hershey](http://twitter.com/search?q=Hershey) | N/A |
+| 6 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
+| 7 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
+| 8 | [#EmployeeAppreciationDay](http://twitter.com/search?q=%23EmployeeAppreciationDay) | N/A |
+| 9 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
+| 10 | [#BandcampFriday](http://twitter.com/search?q=%23BandcampFriday) | N/A |
 | 11 | [Walgreens](http://twitter.com/search?q=Walgreens) | N/A |
-| 12 | [Alex Murdaugh](http://twitter.com/search?q=Alex+Murdaugh) | N/A |
-| 13 | [Morgan Wallen](http://twitter.com/search?q=Morgan+Wallen) | N/A |
-| 14 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 12 | [Morgan Wallen](http://twitter.com/search?q=Morgan+Wallen) | N/A |
+| 13 | [#ToFOUReverlandWithTXT](http://twitter.com/search?q=%23ToFOUReverlandWithTXT) | N/A |
+| 14 | [Judge Newman](http://twitter.com/search?q=Judge+Newman) | N/A |
 | 15 | [De La Soul](http://twitter.com/search?q=De+La+Soul) | N/A |
-| 16 | [vrana](http://twitter.com/search?q=vrana) | N/A |
-| 17 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 18 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 19 | [Happy Friyay](http://twitter.com/search?q=Happy+Friyay) | N/A |
-| 20 | [4 YEARS WITH TXT](http://twitter.com/search?q=4+YEARS+WITH+TXT) | N/A |
-| 21 | [ON SALE NOW](http://twitter.com/search?q=ON+SALE+NOW) | N/A |
-| 22 | [masego](http://twitter.com/search?q=masego) | N/A |
-| 23 | [Bonino](http://twitter.com/search?q=Bonino) | N/A |
+| 16 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 17 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 18 | [Alex Murdaugh](http://twitter.com/search?q=Alex+Murdaugh) | N/A |
+| 19 | [Dahm](http://twitter.com/search?q=Dahm) | N/A |
+| 20 | [Lemieux](http://twitter.com/search?q=Lemieux) | N/A |
+| 21 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
+| 22 | [Masego](http://twitter.com/search?q=Masego) | N/A |
+| 23 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
 | 24 | [Melle Mel](http://twitter.com/search?q=Melle+Mel) | N/A |
-| 25 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
-| 26 | [Dahm](http://twitter.com/search?q=Dahm) | N/A |
-| 27 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
-| 28 | [Richard Simmons](http://twitter.com/search?q=Richard+Simmons) | N/A |
-| 29 | [Finally Friday](http://twitter.com/search?q=Finally+Friday) | N/A |
-| 30 | [Stakes is High](http://twitter.com/search?q=Stakes+is+High) | N/A |
-| 31 | [Saban](http://twitter.com/search?q=Saban) | Saban is a Turkish name derived from the Arabic word for “wise” or “learned.” It is also used as a surname in some parts of the world. In English, Saban can be translated to mean “wise one” or “wise man.” |
-| 32 | [98 Braves](http://twitter.com/search?q=98+Braves) | N/A |
-| 33 | [Andrew Luck](http://twitter.com/search?q=Andrew+Luck) | N/A |
-| 34 | [LIFE IN PRISON](http://twitter.com/search?q=LIFE+IN+PRISON) | N/A |
-| 35 | [Daily Quordle 403](http://twitter.com/search?q=Daily+Quordle+403) | N/A |
+| 25 | [Happy Friyay](http://twitter.com/search?q=Happy+Friyay) | N/A |
+| 26 | [Curtis Lazar](http://twitter.com/search?q=Curtis+Lazar) | N/A |
+| 27 | [Vrana](http://twitter.com/search?q=Vrana) | Vrana is a Croatian word that means "crow" in English. |
+| 28 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
+| 29 | [Paris Davis](http://twitter.com/search?q=Paris+Davis) | N/A |
+| 30 | [ethan hawke](http://twitter.com/search?q=ethan+hawke) | N/A |
+| 31 | [Bonino](http://twitter.com/search?q=Bonino) | N/A |
+| 32 | [Eminem](http://twitter.com/search?q=Eminem) | N/A |
+| 33 | [ON SALE NOW](http://twitter.com/search?q=ON+SALE+NOW) | N/A |
+| 34 | [Medal of Honor](http://twitter.com/search?q=Medal+of+Honor) | N/A |
+| 35 | [Medvedev](http://twitter.com/search?q=Medvedev) | Medvedev is a Russian surname derived from the word medved, which means "bear". It is also the surname of Dmitry Medvedev, the current Prime Minister of Russia. In English, the name Medvedev can be translated to mean "son of the bear". |
 | 36 | [Lacey Evans](http://twitter.com/search?q=Lacey+Evans) | Lacey Evans is a professional wrestler currently signed to WWE. Her ring name is derived from her real name, Macey Estrella-Kadlec. The name "Lacey" is derived from the English word for a type of lace fabric, and "Evans" is a common Welsh surname. |
-| 37 | [WHO DEY](http://twitter.com/search?q=WHO+DEY) | "WHO DEY" is a phrase used by fans of the Cincinnati Bengals, an American football team. It is a rallying cry used to show support for the team and is often shouted during games. The phrase is derived from the team's unofficial mascot, a Bengal tiger named Who Dey. In English, it means "Go Bengals!" |
-| 38 | [Moonlighting](http://twitter.com/search?q=Moonlighting) | N/A |
-| 39 | [Eminem](http://twitter.com/search?q=Eminem) | N/A |
-| 40 | [Shabbat Shalom](http://twitter.com/search?q=Shabbat+Shalom) | N/A |
-| 41 | [Today is Friday](http://twitter.com/search?q=Today+is+Friday) | N/A |
-| 42 | [MEET DAY](http://twitter.com/search?q=MEET+DAY) | N/A |
-| 43 | [The Star-Spangled Banner](http://twitter.com/search?q=The+Star-Spangled+Banner) | N/A |
-| 44 | [Pat Leonard](http://twitter.com/search?q=Pat+Leonard) | N/A |
-| 45 | [CJ Stroud](http://twitter.com/search?q=CJ+Stroud) | CJ Stroud is the name of an American football quarterback who currently plays for the Ohio State Buckeyes. He is known for his strong arm and accuracy, as well as his leadership skills. The name CJ Stroud is derived from his initials, C.J., and his last name, Stroud. |
-| 46 | [Liko](http://twitter.com/search?q=Liko) | N/A |
-| 47 | [kali uchis](http://twitter.com/search?q=kali+uchis) | N/A |
+| 37 | [Jack Cassidy](http://twitter.com/search?q=Jack+Cassidy) | N/A |
+| 38 | [Saban](http://twitter.com/search?q=Saban) | Saban is a Turkish name derived from the Arabic word for “wise” or “learned.” It is also used as a surname in some parts of the world. In English, Saban can be translated to mean “wise one” or “wise man.” |
+| 39 | [4 YEARS WITH TXT](http://twitter.com/search?q=4+YEARS+WITH+TXT) | N/A |
+| 40 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
+| 41 | [98 Braves](http://twitter.com/search?q=98+Braves) | N/A |
+| 42 | [Moonlighting](http://twitter.com/search?q=Moonlighting) | N/A |
+| 43 | [Richard Simmons](http://twitter.com/search?q=Richard+Simmons) | N/A |
+| 44 | [Kali Uchis](http://twitter.com/search?q=Kali+Uchis) | N/A |
+| 45 | [Stakes is High](http://twitter.com/search?q=Stakes+is+High) | N/A |
+| 46 | [Flex Friday](http://twitter.com/search?q=Flex+Friday) | N/A |
+| 47 | [UNC Asheville](http://twitter.com/search?q=UNC+Asheville) | N/A |
 | 48 | [3 Feet High and Rising](http://twitter.com/search?q=3+Feet+High+and+Rising) | N/A |
-| 49 | [Kimmel](http://twitter.com/search?q=Kimmel) | N/A |
-| 50 | [Disposable Heroes](http://twitter.com/search?q=Disposable+Heroes) | N/A |
+| 49 | [Crunchyroll](http://twitter.com/search?q=Crunchyroll) | N/A |
+| 50 | [CJ Stroud](http://twitter.com/search?q=CJ+Stroud) | CJ Stroud is the name of an American football quarterback who currently plays for the Ohio State Buckeyes. He is known for his strong arm and accuracy, as well as his leadership skills. The name CJ Stroud is derived from his initials, C.J., and his last name, Stroud. |
 
 
 

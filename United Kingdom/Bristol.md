@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bristol
 
-📆 Last Updated: `2023-03-03 16:16:33 UTC`
+📆 Last Updated: `2023-03-03 17:18:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Boris Johnson](http://twitter.com/search?q=Boris+Johnson) | N/A |
-| 2 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
-| 3 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
-| 4 | [De La Soul](http://twitter.com/search?q=De+La+Soul) | N/A |
-| 5 | [Lando](http://twitter.com/search?q=Lando) | N/A |
-| 6 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
-| 7 | [#BANvENG](http://twitter.com/search?q=%23BANvENG) | N/A |
-| 8 | [Wo Long](http://twitter.com/search?q=Wo+Long) | N/A |
-| 9 | [ABBA](http://twitter.com/search?q=ABBA) | N/A |
-| 10 | [Maddison](http://twitter.com/search?q=Maddison) | N/A |
-| 11 | [Femi](http://twitter.com/search?q=Femi) | N/A |
-| 12 | [Mail](http://twitter.com/search?q=Mail) | N/A |
-| 13 | [Harwood](http://twitter.com/search?q=Harwood) | N/A |
+| 1 | [Mr Johnson](http://twitter.com/search?q=Mr+Johnson) | N/A |
+| 2 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 3 | [#LiarJohnson](http://twitter.com/search?q=%23LiarJohnson) | N/A |
+| 4 | [Piers Morgan](http://twitter.com/search?q=Piers+Morgan) | N/A |
+| 5 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
+| 6 | [Lana Del Rey](http://twitter.com/search?q=Lana+Del+Rey) | N/A |
+| 7 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
+| 8 | [Downing Street](http://twitter.com/search?q=Downing+Street) | N/A |
+| 9 | [Arctic Monkeys](http://twitter.com/search?q=Arctic+Monkeys) | N/A |
+| 10 | [Lando](http://twitter.com/search?q=Lando) | N/A |
+| 11 | [Mason Mount](http://twitter.com/search?q=Mason+Mount) | Mason Mount is an English professional footballer who plays as an attacking midfielder for Premier League club Chelsea and the England national team. He is known for his passing, dribbling, and shooting ability. |
+| 12 | [ABBA](http://twitter.com/search?q=ABBA) | N/A |
+| 13 | [Maddison](http://twitter.com/search?q=Maddison) | N/A |
 | 14 | [BBC Radio](http://twitter.com/search?q=BBC+Radio) | N/A |
-| 15 | [Civil Service](http://twitter.com/search?q=Civil+Service) | N/A |
-| 16 | [#LiarJohnson](http://twitter.com/search?q=%23LiarJohnson) | N/A |
-| 17 | [#fingerpostfriday](http://twitter.com/search?q=%23fingerpostfriday) | N/A |
-| 18 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
-| 19 | [Bangladesh](http://twitter.com/search?q=Bangladesh) | N/A |
-| 20 | [#ntsummit](http://twitter.com/search?q=%23ntsummit) | N/A |
-| 21 | [#on_the_street](http://twitter.com/search?q=%23on_the_street) | N/A |
-| 22 | [Lord Frost](http://twitter.com/search?q=Lord+Frost) | N/A |
+| 15 | [Elton John](http://twitter.com/search?q=Elton+John) | N/A |
+| 16 | [Greatest Hits Radio](http://twitter.com/search?q=Greatest+Hits+Radio) | Greatest Hits Radio is a type of radio station that plays popular music from the past. It typically features songs from the 1960s to the present day, and is designed to appeal to a wide range of listeners. The term "greatest hits" refers to the fact that these stations play some of the most popular songs from different eras. |
+| 17 | [Drag](http://twitter.com/search?q=Drag) | N/A |
+| 18 | [Harwood](http://twitter.com/search?q=Harwood) | N/A |
+| 19 | [#on_the_street](http://twitter.com/search?q=%23on_the_street) | N/A |
+| 20 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 21 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 22 | [#tippingpoint](http://twitter.com/search?q=%23tippingpoint) | N/A |
 | 23 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 24 | [Stephen Bear](http://twitter.com/search?q=Stephen+Bear) | N/A |
-| 25 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 26 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 24 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 25 | [Stephen Bear](http://twitter.com/search?q=Stephen+Bear) | N/A |
+| 26 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
 | 27 | [Sue Gray](http://twitter.com/search?q=Sue+Gray) | N/A |
-| 28 | [Bounty](http://twitter.com/search?q=Bounty) | N/A |
-| 29 | [Nadine Dorries](http://twitter.com/search?q=Nadine+Dorries) | N/A |
-| 30 | [Mikey](http://twitter.com/search?q=Mikey) | N/A |
-| 31 | [Privileges Committee](http://twitter.com/search?q=Privileges+Committee) | N/A |
-| 32 | [Banky](http://twitter.com/search?q=Banky) | N/A |
-| 33 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
-| 34 | [Georgia Harrison](http://twitter.com/search?q=Georgia+Harrison) | N/A |
-| 35 | [Reece James](http://twitter.com/search?q=Reece+James) | Reece James is a masculine given name of English origin. It is derived from the Old English elements rēad (red) and cēosan (to choose). The name can also be spelled as Reece or Reecey. |
+| 28 | [Mikey](http://twitter.com/search?q=Mikey) | N/A |
+| 29 | [Bounty](http://twitter.com/search?q=Bounty) | N/A |
+| 30 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
+| 31 | [Keown](http://twitter.com/search?q=Keown) | N/A |
+| 32 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
+| 33 | [Privileges Committee](http://twitter.com/search?q=Privileges+Committee) | N/A |
+| 34 | [Nadine Dorries](http://twitter.com/search?q=Nadine+Dorries) | N/A |
+| 35 | [Georgia Harrison](http://twitter.com/search?q=Georgia+Harrison) | N/A |
 | 36 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 37 | [Mane](http://twitter.com/search?q=Mane) | Mane is a noun that refers to the long, thick hair that grows from the neck of certain animals, such as horses and lions. In English, it is also used to refer to a person's long, thick hair. |
-| 38 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
-| 39 | [Topic](http://twitter.com/search?q=Topic) | N/A |
-| 40 | [Keown](http://twitter.com/search?q=Keown) | N/A |
-| 41 | [Radio 2](http://twitter.com/search?q=Radio+2) | Radio 2 is a BBC radio station in the United Kingdom. It broadcasts a mix of music, news, and entertainment programs. The station's tagline is "The UK's Most Popular Music Station". Radio 2 is the most listened to radio station in the UK, with an average weekly reach of 15.2 million listeners. |
-| 42 | [Crunchie](http://twitter.com/search?q=Crunchie) | N/A |
-| 43 | [Sadiq Khan](http://twitter.com/search?q=Sadiq+Khan) | N/A |
-| 44 | [Boost](http://twitter.com/search?q=Boost) | N/A |
-| 45 | [Wispa](http://twitter.com/search?q=Wispa) | N/A |
-| 46 | [Liverpool Legend](http://twitter.com/search?q=Liverpool+Legend) | N/A |
-| 47 | [Vettel](http://twitter.com/search?q=Vettel) | N/A |
-| 48 | [Dean Saunders](http://twitter.com/search?q=Dean+Saunders) | N/A |
-| 49 | [Double Decker](http://twitter.com/search?q=Double+Decker) | N/A |
-| 50 | [Far Right](http://twitter.com/search?q=Far+Right) | N/A |
+| 37 | [Rice](http://twitter.com/search?q=Rice) | Rice is a type of grain that is a staple food for many cultures around the world. It is a cereal grain that is the most widely consumed staple food for a large part of the world's human population, especially in Asia. Rice can be cooked and served in a variety of ways, including boiled, steamed, fried, and as part of soups and stews. |
+| 38 | [Topic](http://twitter.com/search?q=Topic) | N/A |
+| 39 | [Mane](http://twitter.com/search?q=Mane) | Mane is a noun that refers to the long, thick hair that grows from the neck of certain animals, such as horses and lions. In English, it is also used to refer to a person's long, thick hair. |
+| 40 | [Dean Saunders](http://twitter.com/search?q=Dean+Saunders) | N/A |
+| 41 | [Reece James](http://twitter.com/search?q=Reece+James) | Reece James is a masculine given name of English origin. It is derived from the Old English elements rēad (red) and cēosan (to choose). The name can also be spelled as Reece or Reecey. |
+| 42 | [Banky](http://twitter.com/search?q=Banky) | N/A |
+| 43 | [Crunchyroll](http://twitter.com/search?q=Crunchyroll) | N/A |
+| 44 | [Far Right](http://twitter.com/search?q=Far+Right) | N/A |
+| 45 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 46 | [Vettel](http://twitter.com/search?q=Vettel) | N/A |
+| 47 | [Crunchie](http://twitter.com/search?q=Crunchie) | N/A |
+| 48 | [Spartacus](http://twitter.com/search?q=Spartacus) | N/A |
+| 49 | [Cat Stevens](http://twitter.com/search?q=Cat+Stevens) | N/A |
 
 
 

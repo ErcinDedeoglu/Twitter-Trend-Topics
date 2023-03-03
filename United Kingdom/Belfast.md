@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belfast
 
-📆 Last Updated: `2023-03-03 16:16:36 UTC`
+📆 Last Updated: `2023-03-03 17:18:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,53 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 2 | [Stephen Bear](http://twitter.com/search?q=Stephen+Bear) | N/A |
-| 3 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 4 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 5 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
-| 6 | [#WorldWildlifeDay](http://twitter.com/search?q=%23WorldWildlifeDay) | N/A |
-| 7 | [Sue Gray](http://twitter.com/search?q=Sue+Gray) | N/A |
-| 8 | [#EmployeeAppreciationDay](http://twitter.com/search?q=%23EmployeeAppreciationDay) | N/A |
-| 9 | [#wato](http://twitter.com/search?q=%23wato) | N/A |
-| 10 | [Bounty](http://twitter.com/search?q=Bounty) | N/A |
-| 11 | [Nadine Dorries](http://twitter.com/search?q=Nadine+Dorries) | N/A |
-| 12 | [Mikey](http://twitter.com/search?q=Mikey) | N/A |
-| 13 | [Privileges Committee](http://twitter.com/search?q=Privileges+Committee) | N/A |
-| 14 | [Banky](http://twitter.com/search?q=Banky) | N/A |
-| 15 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
-| 16 | [Georgia Harrison](http://twitter.com/search?q=Georgia+Harrison) | N/A |
-| 17 | [Reece James](http://twitter.com/search?q=Reece+James) | Reece James is a masculine given name of English origin. It is derived from the Old English elements rēad (red) and cēosan (to choose). The name can also be spelled as Reece or Reecey. |
-| 18 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 19 | [Mane](http://twitter.com/search?q=Mane) | Mane is a noun that refers to the long, thick hair that grows from the neck of certain animals, such as horses and lions. In English, it is also used to refer to a person's long, thick hair. |
-| 20 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
-| 21 | [Topic](http://twitter.com/search?q=Topic) | N/A |
-| 22 | [Keown](http://twitter.com/search?q=Keown) | N/A |
-| 23 | [Radio 2](http://twitter.com/search?q=Radio+2) | Radio 2 is a BBC radio station in the United Kingdom. It broadcasts a mix of music, news, and entertainment programs. The station's tagline is "The UK's Most Popular Music Station". Radio 2 is the most listened to radio station in the UK, with an average weekly reach of 15.2 million listeners. |
-| 24 | [Crunchie](http://twitter.com/search?q=Crunchie) | N/A |
-| 25 | [Sadiq Khan](http://twitter.com/search?q=Sadiq+Khan) | N/A |
-| 26 | [Boost](http://twitter.com/search?q=Boost) | N/A |
-| 27 | [Wispa](http://twitter.com/search?q=Wispa) | N/A |
-| 28 | [Liverpool Legend](http://twitter.com/search?q=Liverpool+Legend) | N/A |
-| 29 | [Vettel](http://twitter.com/search?q=Vettel) | N/A |
-| 30 | [Dean Saunders](http://twitter.com/search?q=Dean+Saunders) | N/A |
-| 31 | [Double Decker](http://twitter.com/search?q=Double+Decker) | N/A |
-| 32 | [Far Right](http://twitter.com/search?q=Far+Right) | N/A |
-| 33 | [Reality TV](http://twitter.com/search?q=Reality+TV) | N/A |
-| 34 | [Picnic](http://twitter.com/search?q=Picnic) | N/A |
-| 35 | [Metroid](http://twitter.com/search?q=Metroid) | N/A |
-| 36 | [Turkish Delight](http://twitter.com/search?q=Turkish+Delight) | N/A |
-| 37 | [Spartacus](http://twitter.com/search?q=Spartacus) | N/A |
-| 38 | [Twirl](http://twitter.com/search?q=Twirl) | N/A |
-| 39 | [Mad Nads](http://twitter.com/search?q=Mad+Nads) | N/A |
-| 40 | [Alex Murdaugh](http://twitter.com/search?q=Alex+Murdaugh) | N/A |
-| 41 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
-| 42 | [Greatest Hits Radio](http://twitter.com/search?q=Greatest+Hits+Radio) | Greatest Hits Radio is a type of radio station that plays popular music from the past. It typically features songs from the 1960s to the present day, and is designed to appeal to a wide range of listeners. The term "greatest hits" refers to the fact that these stations play some of the most popular songs from different eras. |
-| 43 | [Yorkie](http://twitter.com/search?q=Yorkie) | N/A |
-| 44 | [Pret](http://twitter.com/search?q=Pret) | N/A |
-| 45 | [Torres](http://twitter.com/search?q=Torres) | N/A |
-| 46 | [Cat Stevens](http://twitter.com/search?q=Cat+Stevens) | N/A |
-| 47 | [Starbar](http://twitter.com/search?q=Starbar) | N/A |
-| 48 | [Golden Slumbers](http://twitter.com/search?q=Golden+Slumbers) | N/A |
+| 1 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 2 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 3 | [#tippingpoint](http://twitter.com/search?q=%23tippingpoint) | N/A |
+| 4 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 5 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 6 | [Stephen Bear](http://twitter.com/search?q=Stephen+Bear) | N/A |
+| 7 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
+| 8 | [#WorldWildlifeDay](http://twitter.com/search?q=%23WorldWildlifeDay) | N/A |
+| 9 | [Sue Gray](http://twitter.com/search?q=Sue+Gray) | N/A |
+| 10 | [Mikey](http://twitter.com/search?q=Mikey) | N/A |
+| 11 | [Bounty](http://twitter.com/search?q=Bounty) | N/A |
+| 12 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
+| 13 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
+| 14 | [Keown](http://twitter.com/search?q=Keown) | N/A |
+| 15 | [Privileges Committee](http://twitter.com/search?q=Privileges+Committee) | N/A |
+| 16 | [Nadine Dorries](http://twitter.com/search?q=Nadine+Dorries) | N/A |
+| 17 | [Rice](http://twitter.com/search?q=Rice) | Rice is a type of grain that is a staple food for many cultures around the world. It is a cereal grain that is the most widely consumed staple food for a large part of the world's human population, especially in Asia. Rice can be cooked and served in a variety of ways, including boiled, steamed, fried, and as part of soups and stews. |
+| 18 | [Georgia Harrison](http://twitter.com/search?q=Georgia+Harrison) | N/A |
+| 19 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 20 | [Topic](http://twitter.com/search?q=Topic) | N/A |
+| 21 | [Mane](http://twitter.com/search?q=Mane) | Mane is a noun that refers to the long, thick hair that grows from the neck of certain animals, such as horses and lions. In English, it is also used to refer to a person's long, thick hair. |
+| 22 | [Dean Saunders](http://twitter.com/search?q=Dean+Saunders) | N/A |
+| 23 | [Reece James](http://twitter.com/search?q=Reece+James) | Reece James is a masculine given name of English origin. It is derived from the Old English elements rēad (red) and cēosan (to choose). The name can also be spelled as Reece or Reecey. |
+| 24 | [Banky](http://twitter.com/search?q=Banky) | N/A |
+| 25 | [Crunchyroll](http://twitter.com/search?q=Crunchyroll) | N/A |
+| 26 | [Far Right](http://twitter.com/search?q=Far+Right) | N/A |
+| 27 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 28 | [Vettel](http://twitter.com/search?q=Vettel) | N/A |
+| 29 | [Crunchie](http://twitter.com/search?q=Crunchie) | N/A |
+| 30 | [Spartacus](http://twitter.com/search?q=Spartacus) | N/A |
+| 31 | [Cat Stevens](http://twitter.com/search?q=Cat+Stevens) | N/A |
+| 32 | [Sadiq Khan](http://twitter.com/search?q=Sadiq+Khan) | N/A |
+| 33 | [Picnic](http://twitter.com/search?q=Picnic) | N/A |
+| 34 | [Boost](http://twitter.com/search?q=Boost) | N/A |
+| 35 | [Nads](http://twitter.com/search?q=Nads) | N/A |
+| 36 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
+| 37 | [Liverpool Legend](http://twitter.com/search?q=Liverpool+Legend) | N/A |
+| 38 | [Snickers](http://twitter.com/search?q=Snickers) | N/A |
+| 39 | [Year 5](http://twitter.com/search?q=Year+5) | N/A |
+| 40 | [Radio 2](http://twitter.com/search?q=Radio+2) | Radio 2 is a BBC radio station in the United Kingdom. It broadcasts a mix of music, news, and entertainment programs. The station's tagline is "The UK's Most Popular Music Station". Radio 2 is the most listened to radio station in the UK, with an average weekly reach of 15.2 million listeners. |
+| 41 | [Double Decker](http://twitter.com/search?q=Double+Decker) | N/A |
+| 42 | [Starbar](http://twitter.com/search?q=Starbar) | N/A |
+| 43 | [Wispa](http://twitter.com/search?q=Wispa) | N/A |
+| 44 | [Twirl](http://twitter.com/search?q=Twirl) | N/A |
+| 45 | [Alex Murdaugh](http://twitter.com/search?q=Alex+Murdaugh) | N/A |
+| 46 | [Djokovic](http://twitter.com/search?q=Djokovic) | Djokovic is a surname of Serbian origin. It is derived from the given name Djoko, which is a diminutive of the name Jovan (John). The meaning of Djokovic in English is "son of John". |
+| 47 | [Yorkie](http://twitter.com/search?q=Yorkie) | N/A |
 
 
 

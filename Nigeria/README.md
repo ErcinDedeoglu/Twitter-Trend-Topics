@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nigeria
 
-📆 Last Updated: `2023-03-03 16:17:23 UTC`
+📆 Last Updated: `2023-03-03 17:19:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Nigeria
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Banky](http://twitter.com/search?q=Banky) | N/A |
-| 2 | [#itelA60](http://twitter.com/search?q=%23itelA60) | N/A |
-| 3 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
+| 1 | [#SanwoForStability](http://twitter.com/search?q=%23SanwoForStability) | N/A |
+| 2 | [Banky](http://twitter.com/search?q=Banky) | N/A |
+| 3 | [#itela60](http://twitter.com/search?q=%23itela60) | N/A |
 | 4 | [Attah](http://twitter.com/search?q=Attah) | N/A |
-| 5 | [#JandorForGovernor](http://twitter.com/search?q=%23JandorForGovernor) | N/A |
+| 5 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
 | 6 | [Deyemi](http://twitter.com/search?q=Deyemi) | N/A |
-| 7 | [Old Naira](http://twitter.com/search?q=Old+Naira) | N/A |
-| 8 | [CBN Act](http://twitter.com/search?q=CBN+Act) | N/A |
-| 9 | [#sanwoolulekansi](http://twitter.com/search?q=%23sanwoolulekansi) | N/A |
-| 10 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 11 | [Reece James](http://twitter.com/search?q=Reece+James) | Reece James is a masculine given name of English origin. It is derived from the Old English elements rēad (red) and cēosan (to choose). The name can also be spelled as Reece or Reecey. |
-| 12 | [Adesua](http://twitter.com/search?q=Adesua) | N/A |
-| 13 | [#on_the_street](http://twitter.com/search?q=%23on_the_street) | N/A |
-| 14 | [#JandorForLagos](http://twitter.com/search?q=%23JandorForLagos) | N/A |
-| 15 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 16 | [Success](http://twitter.com/search?q=Success) | N/A |
-| 17 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
-| 18 | [Balance](http://twitter.com/search?q=Balance) | N/A |
-| 19 | [Emefiele](http://twitter.com/search?q=Emefiele) | N/A |
-| 20 | [Russians](http://twitter.com/search?q=Russians) | N/A |
-| 21 | [TOP GUY YEMI CREGX](http://twitter.com/search?q=TOP+GUY+YEMI+CREGX) | N/A |
-| 22 | [Hembe](http://twitter.com/search?q=Hembe) | N/A |
-| 23 | [MAN OF THE SEASON](http://twitter.com/search?q=MAN+OF+THE+SEASON) | N/A |
-| 24 | [APGA](http://twitter.com/search?q=APGA) | N/A |
-| 25 | [So LP](http://twitter.com/search?q=So+LP) | N/A |
-| 26 | [Ruth](http://twitter.com/search?q=Ruth) | N/A |
-| 27 | [Obanikoro](http://twitter.com/search?q=Obanikoro) | N/A |
-| 28 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 29 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 30 | [LETTER TO KANAGA JNR](http://twitter.com/search?q=LETTER+TO+KANAGA+JNR) | N/A |
-| 31 | [Finished](http://twitter.com/search?q=Finished) | N/A |
-| 32 | [Nwoke](http://twitter.com/search?q=Nwoke) | N/A |
-| 33 | [Game of Thrones](http://twitter.com/search?q=Game+of+Thrones) | N/A |
-| 34 | [Toke](http://twitter.com/search?q=Toke) | N/A |
-| 35 | [David Hundeyin](http://twitter.com/search?q=David+Hundeyin) | N/A |
+| 7 | [#Jandorforgovernor](http://twitter.com/search?q=%23Jandorforgovernor) | N/A |
+| 8 | [Djokovic](http://twitter.com/search?q=Djokovic) | Djokovic is a surname of Serbian origin. It is derived from the given name Djoko, which is a diminutive of the name Jovan (John). The meaning of Djokovic in English is "son of John". |
+| 9 | [Medvedev](http://twitter.com/search?q=Medvedev) | Medvedev is a Russian surname derived from the word medved, which means "bear". It is also the surname of Dmitry Medvedev, the current Prime Minister of Russia. In English, the name Medvedev can be translated to mean "son of the bear". |
+| 10 | [Dangote](http://twitter.com/search?q=Dangote) | N/A |
+| 11 | [CBN Act](http://twitter.com/search?q=CBN+Act) | N/A |
+| 12 | [#on_the_street](http://twitter.com/search?q=%23on_the_street) | N/A |
+| 13 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 14 | [Old Naira](http://twitter.com/search?q=Old+Naira) | N/A |
+| 15 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
+| 16 | [Reece James](http://twitter.com/search?q=Reece+James) | Reece James is a masculine given name of English origin. It is derived from the Old English elements rēad (red) and cēosan (to choose). The name can also be spelled as Reece or Reecey. |
+| 17 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 18 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 19 | [#LIVMUN](http://twitter.com/search?q=%23LIVMUN) | N/A |
+| 20 | [Thaddeus](http://twitter.com/search?q=Thaddeus) | N/A |
+| 21 | [Finished](http://twitter.com/search?q=Finished) | N/A |
+| 22 | [Adesua](http://twitter.com/search?q=Adesua) | N/A |
+| 23 | [Proudly Igbo](http://twitter.com/search?q=Proudly+Igbo) | N/A |
+| 24 | [Success](http://twitter.com/search?q=Success) | N/A |
+| 25 | [Peaky Blinders](http://twitter.com/search?q=Peaky+Blinders) | N/A |
+| 26 | [TOP GUY YEMI CREGX](http://twitter.com/search?q=TOP+GUY+YEMI+CREGX) | N/A |
+| 27 | [MAN OF THE SEASON](http://twitter.com/search?q=MAN+OF+THE+SEASON) | N/A |
+| 28 | [APGA](http://twitter.com/search?q=APGA) | N/A |
+| 29 | [Hembe](http://twitter.com/search?q=Hembe) | N/A |
+| 30 | [Russians](http://twitter.com/search?q=Russians) | N/A |
+| 31 | [Balance](http://twitter.com/search?q=Balance) | N/A |
+| 32 | [Game of Thrones](http://twitter.com/search?q=Game+of+Thrones) | N/A |
+| 33 | [Obanikoro](http://twitter.com/search?q=Obanikoro) | N/A |
+| 34 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
+| 35 | [So LP](http://twitter.com/search?q=So+LP) | N/A |
 | 36 | [Tiwa](http://twitter.com/search?q=Tiwa) | N/A |
-| 37 | [Peaky Blinders](http://twitter.com/search?q=Peaky+Blinders) | N/A |
-| 38 | [Breaking Bad](http://twitter.com/search?q=Breaking+Bad) | N/A |
-| 39 | [Master](http://twitter.com/search?q=Master) | N/A |
-| 40 | [Amaka](http://twitter.com/search?q=Amaka) | N/A |
-| 41 | [Uloma](http://twitter.com/search?q=Uloma) | N/A |
+| 37 | [Nwoke](http://twitter.com/search?q=Nwoke) | N/A |
+| 38 | [Emefiele](http://twitter.com/search?q=Emefiele) | N/A |
+| 39 | [Ruth](http://twitter.com/search?q=Ruth) | N/A |
+| 40 | [Breaking Bad](http://twitter.com/search?q=Breaking+Bad) | N/A |
+| 41 | [LETTER TO KANAGA JNR](http://twitter.com/search?q=LETTER+TO+KANAGA+JNR) | N/A |
 | 42 | [Lojay](http://twitter.com/search?q=Lojay) | N/A |
-| 43 | [Proudly](http://twitter.com/search?q=Proudly) | N/A |
-| 44 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
-| 45 | [Edeoga](http://twitter.com/search?q=Edeoga) | N/A |
-| 46 | [Federal Government](http://twitter.com/search?q=Federal+Government) | N/A |
-| 47 | [Ebeano](http://twitter.com/search?q=Ebeano) | N/A |
-| 48 | [Enugu State](http://twitter.com/search?q=Enugu+State) | N/A |
-| 49 | [Danny](http://twitter.com/search?q=Danny) | N/A |
-| 50 | [Oxford](http://twitter.com/search?q=Oxford) | Oxford is a city in England, located about 50 miles northwest of London. It is best known as the home of the University of Oxford, the oldest university in the English-speaking world. The city is also known for its many historic buildings, including the Bodleian Library and Christ Church College. |
+| 43 | [Amaka](http://twitter.com/search?q=Amaka) | N/A |
+| 44 | [David Hundeyin](http://twitter.com/search?q=David+Hundeyin) | N/A |
+| 45 | [Master](http://twitter.com/search?q=Master) | N/A |
+| 46 | [Toke](http://twitter.com/search?q=Toke) | N/A |
+| 47 | [Chioma](http://twitter.com/search?q=Chioma) | N/A |
+| 48 | [Nollywood](http://twitter.com/search?q=Nollywood) | N/A |
+| 49 | [Enoch](http://twitter.com/search?q=Enoch) | N/A |
+| 50 | [Ebeano](http://twitter.com/search?q=Ebeano) | N/A |
 
 
 

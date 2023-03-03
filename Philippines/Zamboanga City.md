@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zamboanga City
 
-📆 Last Updated: `2023-03-03 16:16:59 UTC`
+📆 Last Updated: `2023-03-03 17:19:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,50 +20,50 @@ This is top 50 for [Philippines](</Philippines>)
 | 3 | [4 YEARS WITH TXT](http://twitter.com/search?q=4+YEARS+WITH+TXT) | N/A |
 | 4 | [#ReadyToBe_SneakPeek](http://twitter.com/search?q=%23ReadyToBe_SneakPeek) | N/A |
 | 5 | [READY TO BE SPEECHLESS](http://twitter.com/search?q=READY+TO+BE+SPEECHLESS) | N/A |
-| 6 | [RENJUN](http://twitter.com/search?q=RENJUN) | N/A |
-| 7 | [#ฟรีนเบคFanBoom](http://twitter.com/search?q=%23%e0%b8%9f%e0%b8%a3%e0%b8%b5%e0%b8%99%e0%b9%80%e0%b8%9a%e0%b8%84FanBoom) | N/A |
-| 8 | [8 SVT](http://twitter.com/search?q=8+SVT) | N/A |
-| 9 | [CRAZY STUPID LOVE](http://twitter.com/search?q=CRAZY+STUPID+LOVE) | N/A |
+| 6 | [8 SVT](http://twitter.com/search?q=8+SVT) | N/A |
+| 7 | [#AttackonTitanFinalSeasonpart3](http://twitter.com/search?q=%23AttackonTitanFinalSeasonpart3) | N/A |
+| 8 | [taekook](http://twitter.com/search?q=taekook) | Taekook is the name of a popular ship between two characters from the South Korean boy band BTS, Taehyung (V) and Jungkook. It is a portmanteau of their names, and it is used by fans to refer to the romantic relationship between them. |
+| 9 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
 | 10 | [Happy 4th](http://twitter.com/search?q=Happy+4th) | N/A |
-| 11 | [TAEKOOK](http://twitter.com/search?q=TAEKOOK) | TAEKOOK is the name of a popular ship between two members of the South Korean boy band BTS, V (Kim Taehyung) and Jungkook (Jeon Jungkook). It is a portmanteau of their names, and it is used to refer to the relationship between them. |
+| 11 | [Crazy Stupid Love](http://twitter.com/search?q=Crazy+Stupid+Love) | N/A |
 | 12 | [WORLD CLASS STAR V](http://twitter.com/search?q=WORLD+CLASS+STAR+V) | N/A |
-| 13 | [vulnerable chico](http://twitter.com/search?q=vulnerable+chico) | N/A |
+| 13 | [Armin](http://twitter.com/search?q=Armin) | N/A |
 | 14 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 15 | [To You](http://twitter.com/search?q=To+You) | "To You" is a phrase used to express something that is directed at someone else. It can be used to show appreciation, gratitude, or love. For example, "Thank you for all your help - this is to you." |
-| 16 | [Annie](http://twitter.com/search?q=Annie) | N/A |
-| 17 | [JAKEHOON](http://twitter.com/search?q=JAKEHOON) | N/A |
-| 18 | [ROTC](http://twitter.com/search?q=ROTC) | N/A |
-| 19 | [P'freen](http://twitter.com/search?q=P%27freen) | N/A |
-| 20 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
-| 21 | [First Bias](http://twitter.com/search?q=First+Bias) | N/A |
-| 22 | [hyungwon](http://twitter.com/search?q=hyungwon) | Hyungwon is a Korean term of endearment used to refer to an older brother or male friend. It is derived from the Korean word "hyung," which means older brother, and "won," which means circle or round. In English, it can be translated as "older brother" or "dear friend." |
-| 23 | [Ultimate Bias](http://twitter.com/search?q=Ultimate+Bias) | N/A |
-| 24 | [Leona](http://twitter.com/search?q=Leona) | N/A |
-| 25 | [teen clash this march17](http://twitter.com/search?q=teen+clash+this+march17) | N/A |
-| 26 | [jongdae](http://twitter.com/search?q=jongdae) | N/A |
+| 15 | [Levi](http://twitter.com/search?q=Levi) | N/A |
+| 16 | [To You](http://twitter.com/search?q=To+You) | "To You" is a phrase used to express something that is directed at someone else. It can be used to show appreciation, gratitude, or love. For example, "Thank you for all your help - this is to you." |
+| 17 | [Annie](http://twitter.com/search?q=Annie) | N/A |
+| 18 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
+| 19 | [ROTC](http://twitter.com/search?q=ROTC) | N/A |
+| 20 | [First Bias](http://twitter.com/search?q=First+Bias) | N/A |
+| 21 | [Ultimate Bias](http://twitter.com/search?q=Ultimate+Bias) | N/A |
+| 22 | [JAKEHOON](http://twitter.com/search?q=JAKEHOON) | N/A |
+| 23 | [WHO IN SEVENTEEN](http://twitter.com/search?q=WHO+IN+SEVENTEEN) | N/A |
+| 24 | [jongdae](http://twitter.com/search?q=jongdae) | N/A |
+| 25 | [hyungwon](http://twitter.com/search?q=hyungwon) | Hyungwon is a Korean term of endearment used to refer to an older brother or male friend. It is derived from the Korean word "hyung," which means older brother, and "won," which means circle or round. In English, it can be translated as "older brother" or "dear friend." |
+| 26 | [camila](http://twitter.com/search?q=camila) | N/A |
 | 27 | [WILD TONIGHT LYRIC VIDEO](http://twitter.com/search?q=WILD+TONIGHT+LYRIC+VIDEO) | N/A |
-| 28 | [Mila](http://twitter.com/search?q=Mila) | N/A |
-| 29 | [WHO IN SEVENTEEN](http://twitter.com/search?q=WHO+IN+SEVENTEEN) | N/A |
-| 30 | [KAYDETS HOME IS KD](http://twitter.com/search?q=KAYDETS+HOME+IS+KD) | N/A |
-| 31 | [Jinki](http://twitter.com/search?q=Jinki) | N/A |
-| 32 | [Engenes](http://twitter.com/search?q=Engenes) | N/A |
-| 33 | [Onew](http://twitter.com/search?q=Onew) | Onew is a South Korean singer, songwriter, and actor. He is best known as the leader of the South Korean boy group SHINee. The name Onew is derived from the phrase "One World," which reflects his desire to become a global star. |
-| 34 | [Eat Bulaga](http://twitter.com/search?q=Eat+Bulaga) | N/A |
-| 35 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 36 | [#DLExposed](http://twitter.com/search?q=%23DLExposed) | N/A |
+| 28 | [leona](http://twitter.com/search?q=leona) | N/A |
+| 29 | [Jinki](http://twitter.com/search?q=Jinki) | N/A |
+| 30 | [Onew](http://twitter.com/search?q=Onew) | Onew is a South Korean singer, songwriter, and actor. He is best known as the leader of the South Korean boy group SHINee. The name Onew is derived from the phrase "One World," which reflects his desire to become a global star. |
+| 31 | [Eat Bulaga](http://twitter.com/search?q=Eat+Bulaga) | N/A |
+| 32 | [#ฟรีนเบคFanBoom](http://twitter.com/search?q=%23%e0%b8%9f%e0%b8%a3%e0%b8%b5%e0%b8%99%e0%b9%80%e0%b8%9a%e0%b8%84FanBoom) | N/A |
+| 33 | [#JonaxxGYWKab11](http://twitter.com/search?q=%23JonaxxGYWKab11) | N/A |
+| 34 | [#shingeki](http://twitter.com/search?q=%23shingeki) | N/A |
+| 35 | [#aBossandaBabeEP1](http://twitter.com/search?q=%23aBossandaBabeEP1) | N/A |
+| 36 | [#JS1BuskingEp3](http://twitter.com/search?q=%23JS1BuskingEp3) | N/A |
 | 37 | [#NadineLustreYT](http://twitter.com/search?q=%23NadineLustreYT) | N/A |
-| 38 | [#aBossandaBabeEP1](http://twitter.com/search?q=%23aBossandaBabeEP1) | N/A |
-| 39 | [#AttackOnTitan](http://twitter.com/search?q=%23AttackOnTitan) | N/A |
-| 40 | [#JS1BuskingEp3](http://twitter.com/search?q=%23JS1BuskingEp3) | N/A |
-| 41 | [#JinnysKitchenEp2](http://twitter.com/search?q=%23JinnysKitchenEp2) | N/A |
-| 42 | [#velvetyexoradio](http://twitter.com/search?q=%23velvetyexoradio) | N/A |
-| 43 | [#PascianKaKung](http://twitter.com/search?q=%23PascianKaKung) | N/A |
-| 44 | [#SB19WYATPhotobookUnboxing](http://twitter.com/search?q=%23SB19WYATPhotobookUnboxing) | N/A |
-| 45 | [#일잘하는서진이네_김태형](http://twitter.com/search?q=%23%ec%9d%bc%ec%9e%98%ed%95%98%eb%8a%94%ec%84%9c%ec%a7%84%ec%9d%b4%eb%84%a4_%ea%b9%80%ed%83%9c%ed%98%95) | N/A |
-| 46 | [#비투비_4000일_예지앞사](http://twitter.com/search?q=%23%eb%b9%84%ed%88%ac%eb%b9%84_4000%ec%9d%bc_%ec%98%88%ec%a7%80%ec%95%9e%ec%82%ac) | N/A |
-| 47 | [#LeeJeHoonInManila](http://twitter.com/search?q=%23LeeJeHoonInManila) | N/A |
-| 48 | [#TIHWalangKawala](http://twitter.com/search?q=%23TIHWalangKawala) | N/A |
-| 49 | [#BelleTheSongwriter](http://twitter.com/search?q=%23BelleTheSongwriter) | N/A |
+| 38 | [#DLExposed](http://twitter.com/search?q=%23DLExposed) | N/A |
+| 39 | [#JinnysKitchenEp2](http://twitter.com/search?q=%23JinnysKitchenEp2) | N/A |
+| 40 | [#LeeJeHoonInManila](http://twitter.com/search?q=%23LeeJeHoonInManila) | N/A |
+| 41 | [#BI_LOLTheHiddenStageinMNL](http://twitter.com/search?q=%23BI_LOLTheHiddenStageinMNL) | N/A |
+| 42 | [#일잘하는서진이네_김태형](http://twitter.com/search?q=%23%ec%9d%bc%ec%9e%98%ed%95%98%eb%8a%94%ec%84%9c%ec%a7%84%ec%9d%b4%eb%84%a4_%ea%b9%80%ed%83%9c%ed%98%95) | N/A |
+| 43 | [#velvetyexoradio](http://twitter.com/search?q=%23velvetyexoradio) | N/A |
+| 44 | [#PascianKaKung](http://twitter.com/search?q=%23PascianKaKung) | N/A |
+| 45 | [#TAEHYUNGonJinnysKitchen](http://twitter.com/search?q=%23TAEHYUNGonJinnysKitchen) | N/A |
+| 46 | [#HANBIN](http://twitter.com/search?q=%23HANBIN) | N/A |
+| 47 | [#SB19WYATPhotobookUnboxing](http://twitter.com/search?q=%23SB19WYATPhotobookUnboxing) | N/A |
+| 48 | [#BelleTheSongwriter](http://twitter.com/search?q=%23BelleTheSongwriter) | N/A |
+| 49 | [#SB19WYATUnboxing](http://twitter.com/search?q=%23SB19WYATUnboxing) | N/A |
 
 
 
