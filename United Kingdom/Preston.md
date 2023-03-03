@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Preston
 
-📆 Last Updated: `2023-03-03 15:16:15 UTC`
+📆 Last Updated: `2023-03-03 16:16:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Boris Johnson](http://twitter.com/search?q=Boris+Johnson) | N/A |
-| 2 | [De La Soul](http://twitter.com/search?q=De+La+Soul) | N/A |
-| 3 | [Met Police](http://twitter.com/search?q=Met+Police) | N/A |
-| 4 | [#BANvENG](http://twitter.com/search?q=%23BANvENG) | N/A |
-| 5 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
-| 6 | [The End](http://twitter.com/search?q=The+End) | N/A |
-| 7 | [Maddison](http://twitter.com/search?q=Maddison) | N/A |
-| 8 | [Tory MPs](http://twitter.com/search?q=Tory+MPs) | N/A |
-| 9 | [Lando](http://twitter.com/search?q=Lando) | N/A |
-| 10 | [David Frost](http://twitter.com/search?q=David+Frost) | N/A |
-| 11 | [#fingerpostfriday](http://twitter.com/search?q=%23fingerpostfriday) | N/A |
-| 12 | [Civil Service](http://twitter.com/search?q=Civil+Service) | N/A |
-| 13 | [#on_the_street](http://twitter.com/search?q=%23on_the_street) | N/A |
-| 14 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 15 | [Femi](http://twitter.com/search?q=Femi) | N/A |
-| 16 | [Bangladesh](http://twitter.com/search?q=Bangladesh) | N/A |
-| 17 | [Question Time](http://twitter.com/search?q=Question+Time) | N/A |
-| 18 | [Nick Robinson](http://twitter.com/search?q=Nick+Robinson) | N/A |
-| 19 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 20 | [Stephen Bear](http://twitter.com/search?q=Stephen+Bear) | N/A |
-| 21 | [Sue Gray](http://twitter.com/search?q=Sue+Gray) | N/A |
-| 22 | [Glastonbury](http://twitter.com/search?q=Glastonbury) | N/A |
-| 23 | [Nadine Dorries](http://twitter.com/search?q=Nadine+Dorries) | N/A |
-| 24 | [Privileges Committee](http://twitter.com/search?q=Privileges+Committee) | N/A |
-| 25 | [Radio 2](http://twitter.com/search?q=Radio+2) | Radio 2 is a BBC radio station in the United Kingdom. It broadcasts a mix of music, news, and entertainment programs. The station's tagline is "The UK's Most Popular Music Station". Radio 2 is the most listened to radio station in the UK, with an average weekly reach of 15.2 million listeners. |
-| 26 | [Georgia Harrison](http://twitter.com/search?q=Georgia+Harrison) | N/A |
-| 27 | [Banky](http://twitter.com/search?q=Banky) | N/A |
-| 28 | [Reece James](http://twitter.com/search?q=Reece+James) | Reece James is a masculine given name of English origin. It is derived from the Old English elements rēad (red) and cēosan (to choose). The name can also be spelled as Reece or Reecey. |
-| 29 | [Bounty](http://twitter.com/search?q=Bounty) | N/A |
-| 30 | [Mane](http://twitter.com/search?q=Mane) | Mane is a noun that refers to the long, thick hair that grows from the neck of certain animals, such as horses and lions. In English, it is also used to refer to a person's long, thick hair. |
-| 31 | [Wispa](http://twitter.com/search?q=Wispa) | N/A |
-| 32 | [Topic](http://twitter.com/search?q=Topic) | N/A |
-| 33 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
-| 34 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 35 | [Boost](http://twitter.com/search?q=Boost) | N/A |
-| 36 | [Golden Slumbers](http://twitter.com/search?q=Golden+Slumbers) | N/A |
-| 37 | [Double Decker](http://twitter.com/search?q=Double+Decker) | N/A |
-| 38 | [Reality TV](http://twitter.com/search?q=Reality+TV) | N/A |
-| 39 | [Metroid](http://twitter.com/search?q=Metroid) | N/A |
-| 40 | [Mad Nads](http://twitter.com/search?q=Mad+Nads) | N/A |
-| 41 | [Spartacus](http://twitter.com/search?q=Spartacus) | N/A |
-| 42 | [Liverpool Legend](http://twitter.com/search?q=Liverpool+Legend) | N/A |
-| 43 | [Sadiq Khan](http://twitter.com/search?q=Sadiq+Khan) | N/A |
-| 44 | [Starbar](http://twitter.com/search?q=Starbar) | N/A |
-| 45 | [Dean Saunders](http://twitter.com/search?q=Dean+Saunders) | N/A |
-| 46 | [Greatest Hits Radio](http://twitter.com/search?q=Greatest+Hits+Radio) | Greatest Hits Radio is a type of radio station that plays popular music from the past. It typically features songs from the 1960s to the present day, and is designed to appeal to a wide range of listeners. The term "greatest hits" refers to the fact that these stations play some of the most popular songs from different eras. |
-| 47 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
-| 48 | [Picnic](http://twitter.com/search?q=Picnic) | N/A |
-| 49 | [Turkish Delight](http://twitter.com/search?q=Turkish+Delight) | N/A |
+| 2 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 3 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
+| 4 | [De La Soul](http://twitter.com/search?q=De+La+Soul) | N/A |
+| 5 | [Lana Del Rey](http://twitter.com/search?q=Lana+Del+Rey) | N/A |
+| 6 | [Lando](http://twitter.com/search?q=Lando) | N/A |
+| 7 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
+| 8 | [#BANvENG](http://twitter.com/search?q=%23BANvENG) | N/A |
+| 9 | [Wo Long](http://twitter.com/search?q=Wo+Long) | N/A |
+| 10 | [Maddison](http://twitter.com/search?q=Maddison) | N/A |
+| 11 | [Mail](http://twitter.com/search?q=Mail) | N/A |
+| 12 | [Femi](http://twitter.com/search?q=Femi) | N/A |
+| 13 | [Harwood](http://twitter.com/search?q=Harwood) | N/A |
+| 14 | [BBC Radio](http://twitter.com/search?q=BBC+Radio) | N/A |
+| 15 | [Civil Service](http://twitter.com/search?q=Civil+Service) | N/A |
+| 16 | [#LiarJohnson](http://twitter.com/search?q=%23LiarJohnson) | N/A |
+| 17 | [#fingerpostfriday](http://twitter.com/search?q=%23fingerpostfriday) | N/A |
+| 18 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
+| 19 | [Bangladesh](http://twitter.com/search?q=Bangladesh) | N/A |
+| 20 | [#ntsummit](http://twitter.com/search?q=%23ntsummit) | N/A |
+| 21 | [Lord Frost](http://twitter.com/search?q=Lord+Frost) | N/A |
+| 22 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 23 | [Stephen Bear](http://twitter.com/search?q=Stephen+Bear) | N/A |
+| 24 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 25 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 26 | [Sue Gray](http://twitter.com/search?q=Sue+Gray) | N/A |
+| 27 | [Bounty](http://twitter.com/search?q=Bounty) | N/A |
+| 28 | [Nadine Dorries](http://twitter.com/search?q=Nadine+Dorries) | N/A |
+| 29 | [Mikey](http://twitter.com/search?q=Mikey) | N/A |
+| 30 | [Privileges Committee](http://twitter.com/search?q=Privileges+Committee) | N/A |
+| 31 | [Banky](http://twitter.com/search?q=Banky) | N/A |
+| 32 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
+| 33 | [Georgia Harrison](http://twitter.com/search?q=Georgia+Harrison) | N/A |
+| 34 | [Reece James](http://twitter.com/search?q=Reece+James) | Reece James is a masculine given name of English origin. It is derived from the Old English elements rēad (red) and cēosan (to choose). The name can also be spelled as Reece or Reecey. |
+| 35 | [Mane](http://twitter.com/search?q=Mane) | Mane is a noun that refers to the long, thick hair that grows from the neck of certain animals, such as horses and lions. In English, it is also used to refer to a person's long, thick hair. |
+| 36 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 37 | [Topic](http://twitter.com/search?q=Topic) | N/A |
+| 38 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
+| 39 | [Keown](http://twitter.com/search?q=Keown) | N/A |
+| 40 | [Radio 2](http://twitter.com/search?q=Radio+2) | Radio 2 is a BBC radio station in the United Kingdom. It broadcasts a mix of music, news, and entertainment programs. The station's tagline is "The UK's Most Popular Music Station". Radio 2 is the most listened to radio station in the UK, with an average weekly reach of 15.2 million listeners. |
+| 41 | [Crunchie](http://twitter.com/search?q=Crunchie) | N/A |
+| 42 | [Sadiq Khan](http://twitter.com/search?q=Sadiq+Khan) | N/A |
+| 43 | [Boost](http://twitter.com/search?q=Boost) | N/A |
+| 44 | [Wispa](http://twitter.com/search?q=Wispa) | N/A |
+| 45 | [Liverpool Legend](http://twitter.com/search?q=Liverpool+Legend) | N/A |
+| 46 | [Dean Saunders](http://twitter.com/search?q=Dean+Saunders) | N/A |
+| 47 | [Double Decker](http://twitter.com/search?q=Double+Decker) | N/A |
+| 48 | [Vettel](http://twitter.com/search?q=Vettel) | N/A |
+| 49 | [Far Right](http://twitter.com/search?q=Far+Right) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Campinas
 
-📆 Last Updated: `2023-03-03 15:16:22 UTC`
+📆 Last Updated: `2023-03-03 16:16:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Bento](http://twitter.com/search?q=Bento) | N/A |
-| 2 | [Zanin](http://twitter.com/search?q=Zanin) | Zanin is a Japanese word that means "all of us". It is often used to refer to a group of people who are working together towards a common goal. |
-| 3 | [#encontro](http://twitter.com/search?q=%23encontro) | N/A |
-| 4 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
-| 5 | [on the street](http://twitter.com/search?q=on+the+street) | N/A |
-| 6 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 7 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
-| 8 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 1 | [Juliette](http://twitter.com/search?q=Juliette) | Juliette is a French female given name, derived from the Latin Julia. It is a diminutive form of Julia, meaning "youthful" or "downy". |
+| 2 | [Merecido](http://twitter.com/search?q=Merecido) | N/A |
+| 3 | [Copa](http://twitter.com/search?q=Copa) | N/A |
+| 4 | [FORA JUSCELINO FILHO](http://twitter.com/search?q=FORA+JUSCELINO+FILHO) | N/A |
+| 5 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
+| 6 | [attack on titan](http://twitter.com/search?q=attack+on+titan) | N/A |
+| 7 | [zanin](http://twitter.com/search?q=zanin) | N/A |
+| 8 | [Dangerous Woman](http://twitter.com/search?q=Dangerous+Woman) | N/A |
 | 9 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 10 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 11 | [#HappyBirthdayCamila](http://twitter.com/search?q=%23HappyBirthdayCamila) | N/A |
-| 12 | [Dangerous Woman](http://twitter.com/search?q=Dangerous+Woman) | N/A |
-| 13 | [All I Wanted](http://twitter.com/search?q=All+I+Wanted) | N/A |
-| 14 | [The Pinkprint](http://twitter.com/search?q=The+Pinkprint) | N/A |
-| 15 | [Future Nostalgia](http://twitter.com/search?q=Future+Nostalgia) | N/A |
-| 16 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 17 | [Attack on Titan](http://twitter.com/search?q=Attack+on+Titan) | N/A |
-| 18 | [Aladdin](http://twitter.com/search?q=Aladdin) | N/A |
-| 19 | [Demi Lovato](http://twitter.com/search?q=Demi+Lovato) | N/A |
-| 20 | [Rei Leão](http://twitter.com/search?q=Rei+Le%c3%a3o) | N/A |
+| 10 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 11 | [Bento](http://twitter.com/search?q=Bento) | N/A |
+| 12 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
+| 13 | [Feliz Natal](http://twitter.com/search?q=Feliz+Natal) | Feliz Natal is a Portuguese phrase meaning "Merry Christmas". It is commonly used in Brazil and other Portuguese-speaking countries during the holiday season. |
+| 14 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
+| 15 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 16 | [Mc Carol](http://twitter.com/search?q=Mc+Carol) | N/A |
+| 17 | [All I Wanted](http://twitter.com/search?q=All+I+Wanted) | N/A |
+| 18 | [on the street](http://twitter.com/search?q=on+the+street) | N/A |
+| 19 | [Mulan](http://twitter.com/search?q=Mulan) | N/A |
+| 20 | [My Everything](http://twitter.com/search?q=My+Everything) | N/A |
 | 21 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 22 | [Hayley](http://twitter.com/search?q=Hayley) | N/A |
-| 23 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 24 | [Senado](http://twitter.com/search?q=Senado) | Senado is the Spanish word for Senate. It is used to refer to a legislative body, usually in a government or other political organization, that is composed of members who are elected or appointed by the population. In English, it can be translated as "Senate". |
-| 25 | [Rony](http://twitter.com/search?q=Rony) | Rony is not a word in English. It may be a name or an acronym in another language. |
-| 26 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 27 | [Caio Henrique](http://twitter.com/search?q=Caio+Henrique) | N/A |
-| 28 | [Vitor Roque](http://twitter.com/search?q=Vitor+Roque) | Vitor Roque is a Portuguese name. It is derived from the Latin name Victor, which means "victor" or "conqueror". In English, Vitor Roque can be translated to mean "Victorious Rock". |
-| 29 | [Andrey](http://twitter.com/search?q=Andrey) | Andrey is a Russian male given name derived from the Greek name Andreas, meaning "manly" or "masculine". |
-| 30 | [Ramon](http://twitter.com/search?q=Ramon) | N/A |
-| 31 | [Robert Renan](http://twitter.com/search?q=Robert+Renan) | N/A |
-| 32 | [Marrocos](http://twitter.com/search?q=Marrocos) | N/A |
-| 33 | [Joelinton](http://twitter.com/search?q=Joelinton) | Joelinton is a Portuguese name, derived from the combination of the names Joel and António. It is usually given to boys and means "God will give". |
-| 34 | [Seleção Brasileira](http://twitter.com/search?q=Sele%c3%a7%c3%a3o+Brasileira) | N/A |
-| 35 | [Paquetá](http://twitter.com/search?q=Paquet%c3%a1) | N/A |
-| 36 | [#ToFOUReverlandWithTXT](http://twitter.com/search?q=%23ToFOUReverlandWithTXT) | N/A |
-| 37 | [Mycael](http://twitter.com/search?q=Mycael) | N/A |
-| 38 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 39 | [Gabriel Magalhães](http://twitter.com/search?q=Gabriel+Magalh%c3%a3es) | N/A |
-| 40 | [4 YEARS WITH TXT](http://twitter.com/search?q=4+YEARS+WITH+TXT) | N/A |
-| 41 | [Renan Lodi](http://twitter.com/search?q=Renan+Lodi) | N/A |
-| 42 | [Alex Telles](http://twitter.com/search?q=Alex+Telles) | N/A |
-| 43 | [Convocação](http://twitter.com/search?q=Convoca%c3%a7%c3%a3o) | N/A |
-| 44 | [kali uchis](http://twitter.com/search?q=kali+uchis) | N/A |
-| 45 | [Vanderson](http://twitter.com/search?q=Vanderson) | N/A |
-| 46 | [PINTOU NOTIFICAÇÃO](http://twitter.com/search?q=PINTOU+NOTIFICA%c3%87%c3%83O) | N/A |
-| 47 | [Arthur Cabral](http://twitter.com/search?q=Arthur+Cabral) | N/A |
-| 48 | [Zico](http://twitter.com/search?q=Zico) | N/A |
-| 49 | [Nelly](http://twitter.com/search?q=Nelly) | Nelly is a nickname for the female given name Eleanor, which is derived from the Greek name Helenē, meaning “light” or “bright one.” It can also be used as a diminutive form of the name Cornelia. |
+| 22 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 23 | [Rei Leão](http://twitter.com/search?q=Rei+Le%c3%a3o) | N/A |
+| 24 | [The Pinkprint](http://twitter.com/search?q=The+Pinkprint) | N/A |
+| 25 | [Future Nostalgia](http://twitter.com/search?q=Future+Nostalgia) | N/A |
+| 26 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 27 | [Tarzan](http://twitter.com/search?q=Tarzan) | N/A |
+| 28 | [Yours Truly](http://twitter.com/search?q=Yours+Truly) | N/A |
+| 29 | [#HappyBirthdayCamila](http://twitter.com/search?q=%23HappyBirthdayCamila) | N/A |
+| 30 | [Happier Than Ever](http://twitter.com/search?q=Happier+Than+Ever) | N/A |
+| 31 | [Militão](http://twitter.com/search?q=Milit%c3%a3o) | N/A |
+| 32 | [Aladdin](http://twitter.com/search?q=Aladdin) | N/A |
+| 33 | [#MelevaATL](http://twitter.com/search?q=%23MelevaATL) | N/A |
+| 34 | [Lock](http://twitter.com/search?q=Lock) | N/A |
+| 35 | [Rony](http://twitter.com/search?q=Rony) | Rony is not a word in English. It may be a name or an acronym in another language. |
+| 36 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 37 | [Andrey](http://twitter.com/search?q=Andrey) | Andrey is a Russian male given name derived from the Greek name Andreas, meaning "manly" or "masculine". |
+| 38 | [Vitor Roque](http://twitter.com/search?q=Vitor+Roque) | Vitor Roque is a Portuguese name. It is derived from the Latin name Victor, which means "victor" or "conqueror". In English, Vitor Roque can be translated to mean "Victorious Rock". |
+| 39 | [Weverton](http://twitter.com/search?q=Weverton) | Weverton is a Portuguese name derived from the Germanic name Wifard, which means “strong guardian”. It is also a common surname in Brazil. |
+| 40 | [Caio Henrique](http://twitter.com/search?q=Caio+Henrique) | N/A |
+| 41 | [Ramon](http://twitter.com/search?q=Ramon) | N/A |
+| 42 | [Robert Renan](http://twitter.com/search?q=Robert+Renan) | N/A |
+| 43 | [Marrocos](http://twitter.com/search?q=Marrocos) | N/A |
+| 44 | [Joelinton](http://twitter.com/search?q=Joelinton) | Joelinton is a Portuguese name, derived from the combination of the names Joel and António. It is usually given to boys and means "God will give". |
+| 45 | [Seleção](http://twitter.com/search?q=Sele%c3%a7%c3%a3o) | N/A |
+| 46 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 47 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 48 | [#ToFOUReverlandWithTXT](http://twitter.com/search?q=%23ToFOUReverlandWithTXT) | N/A |
+| 49 | [#TXT_4th_Anniversary](http://twitter.com/search?q=%23TXT_4th_Anniversary) | N/A |
 
 
 

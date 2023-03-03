@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Fresno
 
-📆 Last Updated: `2023-03-03 15:16:55 UTC`
+📆 Last Updated: `2023-03-03 16:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
-| 2 | [#EmployeeAppreciationDay](http://twitter.com/search?q=%23EmployeeAppreciationDay) | N/A |
+| 2 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
 | 3 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
-| 4 | [Walgreens](http://twitter.com/search?q=Walgreens) | N/A |
-| 5 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
-| 6 | [Judge Newman](http://twitter.com/search?q=Judge+Newman) | N/A |
+| 4 | [#EmployeeAppreciationDay](http://twitter.com/search?q=%23EmployeeAppreciationDay) | N/A |
+| 5 | [Judge Newman](http://twitter.com/search?q=Judge+Newman) | N/A |
+| 6 | [#ToFOUReverlandWithTXT](http://twitter.com/search?q=%23ToFOUReverlandWithTXT) | N/A |
 | 7 | [#BandcampFriday](http://twitter.com/search?q=%23BandcampFriday) | N/A |
-| 8 | [#ToFOUReverlandWithTXT](http://twitter.com/search?q=%23ToFOUReverlandWithTXT) | N/A |
-| 9 | [#TXT_4th_Anniversary](http://twitter.com/search?q=%23TXT_4th_Anniversary) | N/A |
-| 10 | [Morgan Wallen](http://twitter.com/search?q=Morgan+Wallen) | N/A |
+| 8 | [#TXT_4th_Anniversary](http://twitter.com/search?q=%23TXT_4th_Anniversary) | N/A |
+| 9 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
+| 10 | [Walgreens](http://twitter.com/search?q=Walgreens) | N/A |
 | 11 | [Alex Murdaugh](http://twitter.com/search?q=Alex+Murdaugh) | N/A |
-| 12 | [De La Soul](http://twitter.com/search?q=De+La+Soul) | N/A |
-| 13 | [Vrana](http://twitter.com/search?q=Vrana) | Vrana is a Croatian word that means "crow" in English. |
-| 14 | [Happy Friyay](http://twitter.com/search?q=Happy+Friyay) | N/A |
-| 15 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
-| 16 | [Bonino](http://twitter.com/search?q=Bonino) | N/A |
-| 17 | [4 YEARS WITH TXT](http://twitter.com/search?q=4+YEARS+WITH+TXT) | N/A |
-| 18 | [Richard Simmons](http://twitter.com/search?q=Richard+Simmons) | N/A |
-| 19 | [Finally Friday](http://twitter.com/search?q=Finally+Friday) | N/A |
-| 20 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
-| 21 | [Masego](http://twitter.com/search?q=Masego) | N/A |
-| 22 | [ON SALE NOW](http://twitter.com/search?q=ON+SALE+NOW) | N/A |
-| 23 | [98 Braves](http://twitter.com/search?q=98+Braves) | N/A |
-| 24 | [Daily Quordle 403](http://twitter.com/search?q=Daily+Quordle+403) | N/A |
-| 25 | [Stakes Is High](http://twitter.com/search?q=Stakes+Is+High) | N/A |
-| 26 | [3 Feet High and Rising](http://twitter.com/search?q=3+Feet+High+and+Rising) | N/A |
-| 27 | [Dahm](http://twitter.com/search?q=Dahm) | N/A |
-| 28 | [Melle Mel](http://twitter.com/search?q=Melle+Mel) | N/A |
-| 29 | [WORLD CLASS STAR V](http://twitter.com/search?q=WORLD+CLASS+STAR+V) | N/A |
-| 30 | [Banky](http://twitter.com/search?q=Banky) | N/A |
-| 31 | [Jaxon Smith](http://twitter.com/search?q=Jaxon+Smith) | N/A |
-| 32 | [Marcus JR](http://twitter.com/search?q=Marcus+JR) | N/A |
-| 33 | [Discover](http://twitter.com/search?q=Discover) | N/A |
-| 34 | [Pat Leonard](http://twitter.com/search?q=Pat+Leonard) | N/A |
-| 35 | [kali uchis](http://twitter.com/search?q=kali+uchis) | N/A |
-| 36 | [Kimmel](http://twitter.com/search?q=Kimmel) | N/A |
-| 37 | [Who Dey](http://twitter.com/search?q=Who+Dey) | "Who Dey" is a chant used by fans of the Cincinnati Bengals, an American football team. It is an expression of support for the team and is usually shouted during games. The phrase is derived from the traditional African-American call-and-response cheer "Who dat? Who dat? Who dat say dey gonna beat dem Bengals?" The meaning in English is "Who says they can beat the Bengals?" |
-| 38 | [It is Friday](http://twitter.com/search?q=It+is+Friday) | N/A |
+| 12 | [Morgan Wallen](http://twitter.com/search?q=Morgan+Wallen) | N/A |
+| 13 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 14 | [De La Soul](http://twitter.com/search?q=De+La+Soul) | N/A |
+| 15 | [vrana](http://twitter.com/search?q=vrana) | N/A |
+| 16 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 17 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 18 | [Happy Friyay](http://twitter.com/search?q=Happy+Friyay) | N/A |
+| 19 | [4 YEARS WITH TXT](http://twitter.com/search?q=4+YEARS+WITH+TXT) | N/A |
+| 20 | [ON SALE NOW](http://twitter.com/search?q=ON+SALE+NOW) | N/A |
+| 21 | [masego](http://twitter.com/search?q=masego) | N/A |
+| 22 | [Bonino](http://twitter.com/search?q=Bonino) | N/A |
+| 23 | [Melle Mel](http://twitter.com/search?q=Melle+Mel) | N/A |
+| 24 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
+| 25 | [Dahm](http://twitter.com/search?q=Dahm) | N/A |
+| 26 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
+| 27 | [Stakes is High](http://twitter.com/search?q=Stakes+is+High) | N/A |
+| 28 | [Richard Simmons](http://twitter.com/search?q=Richard+Simmons) | N/A |
+| 29 | [Finally Friday](http://twitter.com/search?q=Finally+Friday) | N/A |
+| 30 | [Saban](http://twitter.com/search?q=Saban) | Saban is a Turkish name derived from the Arabic word for “wise” or “learned.” It is also used as a surname in some parts of the world. In English, Saban can be translated to mean “wise one” or “wise man.” |
+| 31 | [98 Braves](http://twitter.com/search?q=98+Braves) | N/A |
+| 32 | [Andrew Luck](http://twitter.com/search?q=Andrew+Luck) | N/A |
+| 33 | [LIFE IN PRISON](http://twitter.com/search?q=LIFE+IN+PRISON) | N/A |
+| 34 | [Daily Quordle 403](http://twitter.com/search?q=Daily+Quordle+403) | N/A |
+| 35 | [Moonlighting](http://twitter.com/search?q=Moonlighting) | N/A |
+| 36 | [Lacey Evans](http://twitter.com/search?q=Lacey+Evans) | Lacey Evans is a professional wrestler currently signed to WWE. Her ring name is derived from her real name, Macey Estrella-Kadlec. The name "Lacey" is derived from the English word for a type of lace fabric, and "Evans" is a common Welsh surname. |
+| 37 | [Eminem](http://twitter.com/search?q=Eminem) | N/A |
+| 38 | [WHO DEY](http://twitter.com/search?q=WHO+DEY) | "WHO DEY" is a phrase used by fans of the Cincinnati Bengals, an American football team. It is a rallying cry used to show support for the team and is often shouted during games. The phrase is derived from the team's unofficial mascot, a Bengal tiger named Who Dey. In English, it means "Go Bengals!" |
 | 39 | [Shabbat Shalom](http://twitter.com/search?q=Shabbat+Shalom) | N/A |
-| 40 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
-| 41 | [Happy Friday Everyone](http://twitter.com/search?q=Happy+Friday+Everyone) | N/A |
-| 42 | [Hershey](http://twitter.com/search?q=Hershey) | N/A |
-| 43 | [First Bias](http://twitter.com/search?q=First+Bias) | N/A |
-| 44 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
-| 45 | [Ultimate Bias](http://twitter.com/search?q=Ultimate+Bias) | N/A |
-| 46 | [Today is Friday](http://twitter.com/search?q=Today+is+Friday) | N/A |
-| 47 | [Michael Mayer](http://twitter.com/search?q=Michael+Mayer) | N/A |
-| 48 | [Master of Puppets](http://twitter.com/search?q=Master+of+Puppets) | N/A |
-| 49 | [Andrew Luck](http://twitter.com/search?q=Andrew+Luck) | N/A |
+| 40 | [Today is Friday](http://twitter.com/search?q=Today+is+Friday) | N/A |
+| 41 | [MEET DAY](http://twitter.com/search?q=MEET+DAY) | N/A |
+| 42 | [The Star-Spangled Banner](http://twitter.com/search?q=The+Star-Spangled+Banner) | N/A |
+| 43 | [Pat Leonard](http://twitter.com/search?q=Pat+Leonard) | N/A |
+| 44 | [CJ Stroud](http://twitter.com/search?q=CJ+Stroud) | CJ Stroud is the name of an American football quarterback who currently plays for the Ohio State Buckeyes. He is known for his strong arm and accuracy, as well as his leadership skills. The name CJ Stroud is derived from his initials, C.J., and his last name, Stroud. |
+| 45 | [Kimmel](http://twitter.com/search?q=Kimmel) | N/A |
+| 46 | [Liko](http://twitter.com/search?q=Liko) | N/A |
+| 47 | [kali uchis](http://twitter.com/search?q=kali+uchis) | N/A |
+| 48 | [3 Feet High and Rising](http://twitter.com/search?q=3+Feet+High+and+Rising) | N/A |
+| 49 | [Master of Puppets](http://twitter.com/search?q=Master+of+Puppets) | N/A |
 
 
 

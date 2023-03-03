@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Utrecht
 
-📆 Last Updated: `2023-03-03 15:16:29 UTC`
+📆 Last Updated: `2023-03-03 16:16:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Netherlands](</Netherlands>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#GraAja](http://twitter.com/search?q=%23GraAja) | N/A |
-| 2 | [#glazenbolcup](http://twitter.com/search?q=%23glazenbolcup) | N/A |
-| 3 | [Lubach](http://twitter.com/search?q=Lubach) | N/A |
-| 4 | [#psvado](http://twitter.com/search?q=%23psvado) | N/A |
-| 5 | [#terugvolgvrijdag](http://twitter.com/search?q=%23terugvolgvrijdag) | N/A |
-| 6 | [Scherpen](http://twitter.com/search?q=Scherpen) | N/A |
-| 7 | [Hartman](http://twitter.com/search?q=Hartman) | N/A |
-| 8 | [Oranje](http://twitter.com/search?q=Oranje) | N/A |
-| 9 | [Koeman](http://twitter.com/search?q=Koeman) | N/A |
-| 10 | [Olij](http://twitter.com/search?q=Olij) | N/A |
+| 1 | [Lubach](http://twitter.com/search?q=Lubach) | N/A |
+| 2 | [#graaja](http://twitter.com/search?q=%23graaja) | N/A |
+| 3 | [#psvado](http://twitter.com/search?q=%23psvado) | N/A |
+| 4 | [#terugvolgvrijdag](http://twitter.com/search?q=%23terugvolgvrijdag) | N/A |
+| 5 | [#glazenbolcup](http://twitter.com/search?q=%23glazenbolcup) | N/A |
+| 6 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 7 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 8 | [Hartman](http://twitter.com/search?q=Hartman) | N/A |
+| 9 | [Jos Heymans](http://twitter.com/search?q=Jos+Heymans) | N/A |
+| 10 | [Koeman](http://twitter.com/search?q=Koeman) | N/A |
 | 11 | [Dolf](http://twitter.com/search?q=Dolf) | N/A |
-| 12 | [noppert](http://twitter.com/search?q=noppert) | N/A |
-| 13 | [Luuk de Jong](http://twitter.com/search?q=Luuk+de+Jong) | N/A |
-| 14 | [Derksen](http://twitter.com/search?q=Derksen) | N/A |
-| 15 | [Quincy Promes](http://twitter.com/search?q=Quincy+Promes) | N/A |
-| 16 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
-| 17 | [Vandaag Inside](http://twitter.com/search?q=Vandaag+Inside) | N/A |
-| 18 | [Wieffer](http://twitter.com/search?q=Wieffer) | N/A |
-| 19 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 20 | [Post Malone](http://twitter.com/search?q=Post+Malone) | N/A |
-| 21 | [goedemorgen valentine](http://twitter.com/search?q=goedemorgen+valentine) | N/A |
-| 22 | [De Graafschap](http://twitter.com/search?q=De+Graafschap) | N/A |
-| 23 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
-| 24 | [Göteborg](http://twitter.com/search?q=G%c3%b6teborg) | N/A |
-| 25 | [Mathieu](http://twitter.com/search?q=Mathieu) | N/A |
-| 26 | [Zweden](http://twitter.com/search?q=Zweden) | N/A |
-| 27 | [Boomen](http://twitter.com/search?q=Boomen) | N/A |
-| 28 | [Grillitsch](http://twitter.com/search?q=Grillitsch) | N/A |
-| 29 | [Iraniër](http://twitter.com/search?q=Irani%c3%abr) | N/A |
-| 30 | [patrick roest](http://twitter.com/search?q=patrick+roest) | N/A |
-| 31 | [Schiphol](http://twitter.com/search?q=Schiphol) | N/A |
-| 32 | [Wijnaldum](http://twitter.com/search?q=Wijnaldum) | N/A |
-| 33 | [Danny](http://twitter.com/search?q=Danny) | N/A |
-| 34 | [Olav](http://twitter.com/search?q=Olav) | N/A |
-| 35 | [Fijn](http://twitter.com/search?q=Fijn) | N/A |
-| 36 | [Goedemiddag](http://twitter.com/search?q=Goedemiddag) | N/A |
-| 37 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
-| 38 | [Koopmans](http://twitter.com/search?q=Koopmans) | N/A |
-| 39 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 40 | [Spakenburg](http://twitter.com/search?q=Spakenburg) | N/A |
-| 41 | [De La Soul](http://twitter.com/search?q=De+La+Soul) | N/A |
-| 42 | [Nederlands](http://twitter.com/search?q=Nederlands) | N/A |
+| 12 | [B. Nee](http://twitter.com/search?q=B.+Nee) | N/A |
+| 13 | [Derksen](http://twitter.com/search?q=Derksen) | N/A |
+| 14 | [Luuk de Jong](http://twitter.com/search?q=Luuk+de+Jong) | N/A |
+| 15 | [Luuk de Jong](http://twitter.com/search?q=Luuk+de+Jong) | N/A |
+| 16 | [Fijn](http://twitter.com/search?q=Fijn) | N/A |
+| 17 | [Scherpen](http://twitter.com/search?q=Scherpen) | N/A |
+| 18 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
+| 19 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
+| 20 | [Quincy Promes](http://twitter.com/search?q=Quincy+Promes) | N/A |
+| 21 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
+| 22 | [Brobbey](http://twitter.com/search?q=Brobbey) | N/A |
+| 23 | [Vandaag Inside](http://twitter.com/search?q=Vandaag+Inside) | N/A |
+| 24 | [Zweden](http://twitter.com/search?q=Zweden) | N/A |
+| 25 | [schiphol](http://twitter.com/search?q=schiphol) | N/A |
+| 26 | [olij](http://twitter.com/search?q=olij) | N/A |
+| 27 | [Meijer](http://twitter.com/search?q=Meijer) | N/A |
+| 28 | [Göteborg](http://twitter.com/search?q=G%c3%b6teborg) | N/A |
+| 29 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 30 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
+| 31 | [Boomen](http://twitter.com/search?q=Boomen) | N/A |
+| 32 | [De Graafschap](http://twitter.com/search?q=De+Graafschap) | N/A |
+| 33 | [Grillitsch](http://twitter.com/search?q=Grillitsch) | N/A |
+| 34 | [Mathieu van der Poel](http://twitter.com/search?q=Mathieu+van+der+Poel) | N/A |
+| 35 | [Wijnaldum](http://twitter.com/search?q=Wijnaldum) | N/A |
+| 36 | [Iraniër](http://twitter.com/search?q=Irani%c3%abr) | N/A |
+| 37 | [Noppert](http://twitter.com/search?q=Noppert) | N/A |
+| 38 | [Danny](http://twitter.com/search?q=Danny) | N/A |
+| 39 | [Spakenburg](http://twitter.com/search?q=Spakenburg) | N/A |
+| 40 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 41 | [Zwarte Piet](http://twitter.com/search?q=Zwarte+Piet) | N/A |
+| 42 | [Post Malone](http://twitter.com/search?q=Post+Malone) | N/A |
 | 43 | [Stop NPO-censuur](http://twitter.com/search?q=Stop+NPO-censuur) | N/A |
-| 44 | [blind](http://twitter.com/search?q=blind) | N/A |
-| 45 | [Maya](http://twitter.com/search?q=Maya) | N/A |
-| 46 | [john coffey](http://twitter.com/search?q=john+coffey) | N/A |
-| 47 | [De Avondshow](http://twitter.com/search?q=De+Avondshow) | N/A |
-| 48 | [Branco](http://twitter.com/search?q=Branco) | N/A |
-| 49 | [Vanuatu](http://twitter.com/search?q=Vanuatu) | N/A |
+| 44 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 45 | [kimberley](http://twitter.com/search?q=kimberley) | N/A |
+| 46 | [Maya](http://twitter.com/search?q=Maya) | N/A |
+| 47 | [Koopmans](http://twitter.com/search?q=Koopmans) | N/A |
+| 48 | [Wieffer](http://twitter.com/search?q=Wieffer) | N/A |
+| 49 | [Tefaf](http://twitter.com/search?q=Tefaf) | N/A |
 
 
 

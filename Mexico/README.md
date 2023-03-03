@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico
 
-📆 Last Updated: `2023-03-03 15:17:06 UTC`
+📆 Last Updated: `2023-03-03 16:17:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,46 @@ This is top 50 for Mexico
 | 1 | [#Convoy7Años](http://twitter.com/search?q=%23Convoy7A%c3%b1os) | N/A |
 | 2 | [#ToFOUReverlandWithTXT](http://twitter.com/search?q=%23ToFOUReverlandWithTXT) | N/A |
 | 3 | [#TXT_4th_Anniversary](http://twitter.com/search?q=%23TXT_4th_Anniversary) | N/A |
-| 4 | [#PreseaEdoMex](http://twitter.com/search?q=%23PreseaEdoMex) | N/A |
-| 5 | [#FelizViernesATodos](http://twitter.com/search?q=%23FelizViernesATodos) | N/A |
-| 6 | [4 YEARS WITH TXT](http://twitter.com/search?q=4+YEARS+WITH+TXT) | N/A |
-| 7 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
-| 8 | [Edmundo Jacobo](http://twitter.com/search?q=Edmundo+Jacobo) | N/A |
+| 4 | [#FelizViernesATodos](http://twitter.com/search?q=%23FelizViernesATodos) | N/A |
+| 5 | [4 YEARS WITH TXT](http://twitter.com/search?q=4+YEARS+WITH+TXT) | N/A |
+| 6 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 7 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
+| 8 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
 | 9 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 10 | [Samuel](http://twitter.com/search?q=Samuel) | N/A |
-| 11 | [Norma Piña](http://twitter.com/search?q=Norma+Pi%c3%b1a) | Norma Piña is a Mexican dish made with shredded beef, potatoes, and carrots cooked in a tomato-based sauce. The name of the dish comes from the Spanish words for "shredded beef" (carne deshebrada) and "pineapple" (piña). In English, Norma Piña translates to "Shredded Beef with Pineapple". |
-| 12 | [Diego Cocca](http://twitter.com/search?q=Diego+Cocca) | N/A |
-| 13 | [Excelente Viernes](http://twitter.com/search?q=Excelente+Viernes) | N/A |
-| 14 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 15 | [Toño Rodríguez](http://twitter.com/search?q=To%c3%b1o+Rodr%c3%adguez) | N/A |
-| 16 | [Pajarito](http://twitter.com/search?q=Pajarito) | N/A |
-| 17 | [Nuevo León](http://twitter.com/search?q=Nuevo+Le%c3%b3n) | N/A |
-| 18 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 19 | [Olallo](http://twitter.com/search?q=Olallo) | N/A |
-| 20 | [Mang](http://twitter.com/search?q=Mang) | N/A |
-| 21 | [Patricia Mercado](http://twitter.com/search?q=Patricia+Mercado) | N/A |
-| 22 | [Ochoa](http://twitter.com/search?q=Ochoa) | Ochoa is a Spanish surname. It is derived from the Latin word "octavus," which means "eighth." The name is thought to have originated as a nickname for someone who was the eighth child in their family. In English, Ochoa can be translated to mean "eighth." |
-| 23 | [Freen](http://twitter.com/search?q=Freen) | N/A |
-| 24 | [Creel](http://twitter.com/search?q=Creel) | N/A |
-| 25 | [Felices 7](http://twitter.com/search?q=Felices+7) | N/A |
-| 26 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 27 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 28 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 29 | [Glastonbury](http://twitter.com/search?q=Glastonbury) | N/A |
-| 30 | [Roberto de la Rosa](http://twitter.com/search?q=Roberto+de+la+Rosa) | N/A |
-| 31 | [TIFFANY BRAND AMBASSADOR JIMIN](http://twitter.com/search?q=TIFFANY+BRAND+AMBASSADOR+JIMIN) | N/A |
-| 32 | [WORLD CLASS STAR V](http://twitter.com/search?q=WORLD+CLASS+STAR+V) | N/A |
-| 33 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 34 | [SCJN](http://twitter.com/search?q=SCJN) | SCJN stands for the Supreme Court of Justice of the Nation, which is the highest court in Mexico. It is responsible for interpreting and applying the laws of Mexico. In English, SCJN stands for Supreme Court of Justice of the Nation. |
-| 35 | [Descansa Reb](http://twitter.com/search?q=Descansa+Reb) | Descansa Reb is a Spanish phrase that translates to "Rest in Peace" in English. It is typically used as a way to express condolences or sympathy for someone who has passed away. |
-| 36 | [RENJUN](http://twitter.com/search?q=RENJUN) | N/A |
-| 37 | [Monterrey](http://twitter.com/search?q=Monterrey) | N/A |
-| 38 | [Mariana](http://twitter.com/search?q=Mariana) | N/A |
-| 39 | [Pocho Guzmán](http://twitter.com/search?q=Pocho+Guzm%c3%a1n) | N/A |
-| 40 | [Lainez](http://twitter.com/search?q=Lainez) | Lainez is a Spanish surname. It is derived from the Latin name "Laneus", which means "from the lane". In English, it can be translated to mean "from the lane". |
-| 41 | [Alfredo Adame](http://twitter.com/search?q=Alfredo+Adame) | Alfredo Adame is a Mexican actor, comedian, and television host. He is best known for his roles in the television series El Chavo del Ocho and El Chapulín Colorado. In English, the name Alfredo Adame means "Protector of the People". |
-| 42 | [La RAE](http://twitter.com/search?q=La+RAE) | N/A |
-| 43 | [Irma Serrano](http://twitter.com/search?q=Irma+Serrano) | N/A |
-| 44 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 45 | [Master of Puppets](http://twitter.com/search?q=Master+of+Puppets) | N/A |
-| 46 | [Nuevo Laredo](http://twitter.com/search?q=Nuevo+Laredo) | N/A |
-| 47 | [EXPLICA TU TWITTER](http://twitter.com/search?q=EXPLICA+TU+TWITTER) | N/A |
-| 48 | [Para No Verte Más](http://twitter.com/search?q=Para+No+Verte+M%c3%a1s) | N/A |
-| 49 | [Marzo con M](http://twitter.com/search?q=Marzo+con+M) | N/A |
-| 50 | [Pulp](http://twitter.com/search?q=Pulp) | N/A |
+| 10 | [Hange](http://twitter.com/search?q=Hange) | N/A |
+| 11 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
+| 12 | [RENJUN](http://twitter.com/search?q=RENJUN) | N/A |
+| 13 | [Zendejas](http://twitter.com/search?q=Zendejas) | Zendejas is a Spanish surname. It is derived from the Basque word "zendegi," which means "life." In English, it can be translated to mean "one who has a long life." |
+| 14 | [Magic](http://twitter.com/search?q=Magic) | N/A |
+| 15 | [Edmundo Jacobo](http://twitter.com/search?q=Edmundo+Jacobo) | N/A |
+| 16 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 17 | [Layda Sansores](http://twitter.com/search?q=Layda+Sansores) | N/A |
+| 18 | [Lira](http://twitter.com/search?q=Lira) | N/A |
+| 19 | [Lía Limón](http://twitter.com/search?q=L%c3%ada+Lim%c3%b3n) | N/A |
+| 20 | [Gobernación](http://twitter.com/search?q=Gobernaci%c3%b3n) | N/A |
+| 21 | [kali uchis](http://twitter.com/search?q=kali+uchis) | N/A |
+| 22 | [Adán Augusto](http://twitter.com/search?q=Ad%c3%a1n+Augusto) | N/A |
+| 23 | [Mancera](http://twitter.com/search?q=Mancera) | N/A |
+| 24 | [Álvaro Obregón](http://twitter.com/search?q=%c3%81lvaro+Obreg%c3%b3n) | N/A |
+| 25 | [Poder Judicial](http://twitter.com/search?q=Poder+Judicial) | N/A |
+| 26 | [Lorenzo Córdova](http://twitter.com/search?q=Lorenzo+C%c3%b3rdova) | N/A |
+| 27 | [Pajarito](http://twitter.com/search?q=Pajarito) | N/A |
+| 28 | [Norma Piña](http://twitter.com/search?q=Norma+Pi%c3%b1a) | Norma Piña is a Mexican dish made with shredded beef, potatoes, and carrots cooked in a tomato-based sauce. The name of the dish comes from the Spanish words for "shredded beef" (carne deshebrada) and "pineapple" (piña). In English, Norma Piña translates to "Shredded Beef with Pineapple". |
+| 29 | [#ShingekiNoKyojin](http://twitter.com/search?q=%23ShingekiNoKyojin) | N/A |
+| 30 | [#pachangamañanera](http://twitter.com/search?q=%23pachangama%c3%b1anera) | N/A |
+| 31 | [#QueremosRock](http://twitter.com/search?q=%23QueremosRock) | N/A |
+| 32 | [#DíaMundialDeLaVidaSilvestre](http://twitter.com/search?q=%23D%c3%adaMundialDeLaVidaSilvestre) | N/A |
+| 33 | [#AttackOnTitan](http://twitter.com/search?q=%23AttackOnTitan) | N/A |
+| 34 | [#PesoMexicano](http://twitter.com/search?q=%23PesoMexicano) | N/A |
+| 35 | [#ZonaRÉCORD](http://twitter.com/search?q=%23ZonaR%c3%89CORD) | N/A |
+| 36 | [#GPBahrein](http://twitter.com/search?q=%23GPBahrein) | N/A |
+| 37 | [#BuenViernes](http://twitter.com/search?q=%23BuenViernes) | N/A |
+| 38 | [#Formula1](http://twitter.com/search?q=%23Formula1) | N/A |
+| 39 | [#F12023](http://twitter.com/search?q=%23F12023) | N/A |
+| 40 | [#dólar](http://twitter.com/search?q=%23d%c3%b3lar) | N/A |
+| 41 | [#ConferenciaPresidente](http://twitter.com/search?q=%23ConferenciaPresidente) | N/A |
+| 42 | [#LopezMaquinaDeOdio](http://twitter.com/search?q=%23LopezMaquinaDeOdio) | N/A |
+| 43 | [#LordAntenas](http://twitter.com/search?q=%23LordAntenas) | N/A |
 
 
 
