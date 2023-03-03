@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ottawa
 
-📆 Last Updated: `2023-03-03 02:08:33 UTC`
+📆 Last Updated: `2023-03-03 03:15:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ocsbSTEAM](http://twitter.com/search?q=%23ocsbSTEAM) | N/A |
-| 2 | [Precious](http://twitter.com/search?q=Precious) | N/A |
-| 3 | [Holl](http://twitter.com/search?q=Holl) | N/A |
-| 4 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
-| 5 | [Jupiter and Venus](http://twitter.com/search?q=Jupiter+and+Venus) | N/A |
+| 1 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
+| 2 | [#ocsbSTEAM](http://twitter.com/search?q=%23ocsbSTEAM) | N/A |
+| 3 | [Wizards](http://twitter.com/search?q=Wizards) | Wizards is a term used to refer to people who are skilled in magic or the supernatural. It is often used to describe powerful and wise characters in fantasy stories, such as Merlin from the Arthurian legends. In modern usage, it can also refer to people who are highly skilled in a particular field or profession. |
+| 4 | [Matthews](http://twitter.com/search?q=Matthews) | N/A |
+| 5 | [Precious](http://twitter.com/search?q=Precious) | N/A |
 | 6 | [Calgary](http://twitter.com/search?q=Calgary) | N/A |
-| 7 | [#NHLBruins](http://twitter.com/search?q=%23NHLBruins) | N/A |
-| 8 | [#SupportNurses](http://twitter.com/search?q=%23SupportNurses) | N/A |
-| 9 | [Nordstrom](http://twitter.com/search?q=Nordstrom) | N/A |
-| 10 | [#Station19](http://twitter.com/search?q=%23Station19) | N/A |
-| 11 | [Rachel](http://twitter.com/search?q=Rachel) | N/A |
-| 12 | [Holden](http://twitter.com/search?q=Holden) | N/A |
-| 13 | [Global News](http://twitter.com/search?q=Global+News) | N/A |
-| 14 | [Kuzma](http://twitter.com/search?q=Kuzma) | Kuzma is a Slavic name derived from the Greek name Konstantinos, meaning "constant" or "steadfast". It is also a popular Russian surname. |
-| 15 | [Alex Murdaugh](http://twitter.com/search?q=Alex+Murdaugh) | N/A |
-| 16 | [Motte](http://twitter.com/search?q=Motte) | N/A |
-| 17 | [Tarasenko](http://twitter.com/search?q=Tarasenko) | N/A |
-| 18 | [Nick Nurse](http://twitter.com/search?q=Nick+Nurse) | N/A |
-| 19 | [Poeltl](http://twitter.com/search?q=Poeltl) | N/A |
-| 20 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
-| 21 | [Watson](http://twitter.com/search?q=Watson) | Watson is an artificial intelligence (AI) computer system developed by IBM. It is capable of answering questions posed in natural language, making it a useful tool for businesses and researchers. Watson can also be used to analyze large amounts of data and generate insights from it. |
-| 22 | [Simons](http://twitter.com/search?q=Simons) | N/A |
-| 23 | [Target](http://twitter.com/search?q=Target) | N/A |
-| 24 | [Eaton Centre](http://twitter.com/search?q=Eaton+Centre) | N/A |
-| 25 | [Brannstrom](http://twitter.com/search?q=Brannstrom) | N/A |
-| 26 | [Diane](http://twitter.com/search?q=Diane) | N/A |
-| 27 | [Branny](http://twitter.com/search?q=Branny) | N/A |
-| 28 | [Wizards](http://twitter.com/search?q=Wizards) | Wizards is a term used to refer to people who are skilled in magic or the supernatural. It is often used to describe powerful and wise characters in fantasy stories, such as Merlin from the Arthurian legends. In modern usage, it can also refer to people who are highly skilled in a particular field or profession. |
-| 29 | [Bjugstad](http://twitter.com/search?q=Bjugstad) | N/A |
-| 30 | [The Raptors](http://twitter.com/search?q=The+Raptors) | N/A |
-| 31 | [Jakob](http://twitter.com/search?q=Jakob) | N/A |
-| 32 | [Kesselring](http://twitter.com/search?q=Kesselring) | N/A |
-| 33 | [Big Mac](http://twitter.com/search?q=Big+Mac) | N/A |
-| 34 | [Zellers](http://twitter.com/search?q=Zellers) | N/A |
-| 35 | [Buster](http://twitter.com/search?q=Buster) | N/A |
-| 36 | [Hershey](http://twitter.com/search?q=Hershey) | N/A |
-| 37 | [Keefe](http://twitter.com/search?q=Keefe) | N/A |
-| 38 | [Guilty](http://twitter.com/search?q=Guilty) | In English, "guilty" is an adjective that means responsible for a crime or wrongdoing. It is often used in a legal context to refer to someone who has been found guilty of a crime in a court of law. |
-| 39 | [#Flames1stGoal](http://twitter.com/search?q=%23Flames1stGoal) | N/A |
-| 40 | [Liljegren](http://twitter.com/search?q=Liljegren) | N/A |
-| 41 | [Chabot](http://twitter.com/search?q=Chabot) | N/A |
-| 42 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
-| 43 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 44 | [Health Canada](http://twitter.com/search?q=Health+Canada) | N/A |
-| 45 | [Domi](http://twitter.com/search?q=Domi) | Domi is a Japanese term that means "dominance" or "dominant." It is often used to describe someone who is strong, powerful, and in control. |
-| 46 | [ESPN](http://twitter.com/search?q=ESPN) | ESPN stands for Entertainment and Sports Programming Network. It is a global cable and satellite sports television channel owned by ESPN Inc., a joint venture between The Walt Disney Company and Hearst Communications. ESPN broadcasts primarily from studio facilities located in Bristol, Connecticut. The network also operates offices in Miami, New York City, Seattle, Charlotte, and Los Angeles. |
-| 47 | [Bettman](http://twitter.com/search?q=Bettman) | N/A |
-| 48 | [Coyotes](http://twitter.com/search?q=Coyotes) | N/A |
-| 49 | [Drance](http://twitter.com/search?q=Drance) | N/A |
-| 50 | [Wilson](http://twitter.com/search?q=Wilson) | N/A |
+| 7 | [Luke Schenn](http://twitter.com/search?q=Luke+Schenn) | N/A |
+| 8 | [#Flames](http://twitter.com/search?q=%23Flames) | N/A |
+| 9 | [Chychrun](http://twitter.com/search?q=Chychrun) | N/A |
+| 10 | [Guilty](http://twitter.com/search?q=Guilty) | In English, "guilty" is an adjective that means responsible for a crime or wrongdoing. It is often used in a legal context to refer to someone who has been found guilty of a crime in a court of law. |
+| 11 | [#NHLBruins](http://twitter.com/search?q=%23NHLBruins) | N/A |
+| 12 | [Wilson](http://twitter.com/search?q=Wilson) | N/A |
+| 13 | [#SupportNurses](http://twitter.com/search?q=%23SupportNurses) | N/A |
+| 14 | [Nordstrom](http://twitter.com/search?q=Nordstrom) | N/A |
+| 15 | [I RTd](http://twitter.com/search?q=I+RTd) | N/A |
+| 16 | [#BudFirstGoal](http://twitter.com/search?q=%23BudFirstGoal) | N/A |
+| 17 | [Rachel](http://twitter.com/search?q=Rachel) | N/A |
+| 18 | [Uniswap](http://twitter.com/search?q=Uniswap) | N/A |
+| 19 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 20 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
+| 21 | [Big Game Brass](http://twitter.com/search?q=Big+Game+Brass) | N/A |
+| 22 | [Nick Nurse](http://twitter.com/search?q=Nick+Nurse) | N/A |
+| 23 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 24 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 25 | [Kuzma](http://twitter.com/search?q=Kuzma) | Kuzma is a Slavic name derived from the Greek name Konstantinos, meaning "constant" or "steadfast". It is also a popular Russian surname. |
+| 26 | [Holden](http://twitter.com/search?q=Holden) | N/A |
+| 27 | [Motte](http://twitter.com/search?q=Motte) | N/A |
+| 28 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
+| 29 | [Global News](http://twitter.com/search?q=Global+News) | N/A |
+| 30 | [Poeltl](http://twitter.com/search?q=Poeltl) | N/A |
+| 31 | [Alex Murdaugh](http://twitter.com/search?q=Alex+Murdaugh) | N/A |
+| 32 | [Holl](http://twitter.com/search?q=Holl) | N/A |
+| 33 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
+| 34 | [The Raptors](http://twitter.com/search?q=The+Raptors) | N/A |
+| 35 | [Tarasenko](http://twitter.com/search?q=Tarasenko) | N/A |
+| 36 | [Simons](http://twitter.com/search?q=Simons) | N/A |
+| 37 | [Thad](http://twitter.com/search?q=Thad) | N/A |
+| 38 | [Jakob](http://twitter.com/search?q=Jakob) | N/A |
+| 39 | [Eaton Centre](http://twitter.com/search?q=Eaton+Centre) | N/A |
+| 40 | [Brannstrom](http://twitter.com/search?q=Brannstrom) | N/A |
+| 41 | [Branny](http://twitter.com/search?q=Branny) | N/A |
+| 42 | [Buster](http://twitter.com/search?q=Buster) | N/A |
+| 43 | [Keefe](http://twitter.com/search?q=Keefe) | N/A |
+| 44 | [Target](http://twitter.com/search?q=Target) | N/A |
+| 45 | [Diane](http://twitter.com/search?q=Diane) | N/A |
+| 46 | [Ethereum](http://twitter.com/search?q=Ethereum) | N/A |
+| 47 | [Watson](http://twitter.com/search?q=Watson) | Watson is an artificial intelligence (AI) computer system developed by IBM. It is capable of answering questions posed in natural language, making it a useful tool for businesses and researchers. Watson can also be used to analyze large amounts of data and generate insights from it. |
+| 48 | [Zellers](http://twitter.com/search?q=Zellers) | N/A |
+| 49 | [Hershey](http://twitter.com/search?q=Hershey) | N/A |
+| 50 | [Health Canada](http://twitter.com/search?q=Health+Canada) | N/A |
 
 
 

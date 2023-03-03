@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pittsburgh
 
-📆 Last Updated: `2023-03-03 02:09:31 UTC`
+📆 Last Updated: `2023-03-03 03:16:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 2 | [Niang](http://twitter.com/search?q=Niang) | Niang is a Chinese term of endearment that is used to refer to one's mother. It is similar to the English term "Mom" or "Mama". |
-| 3 | [James Harden](http://twitter.com/search?q=James+Harden) | James Harden is an American professional basketball player who currently plays for the Houston Rockets of the National Basketball Association (NBA). He is known for his ability to score points and create plays for his teammates. He has won multiple awards, including the NBA Most Valuable Player Award in 2018. |
-| 4 | [Dr. Seuss](http://twitter.com/search?q=Dr.+Seuss) | N/A |
-| 5 | [Alex Murdaugh](http://twitter.com/search?q=Alex+Murdaugh) | N/A |
-| 6 | [#WhyIChime](http://twitter.com/search?q=%23WhyIChime) | N/A |
-| 7 | [#Station19](http://twitter.com/search?q=%23Station19) | N/A |
-| 8 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
-| 9 | [Nolan Smith](http://twitter.com/search?q=Nolan+Smith) | N/A |
-| 10 | [Kobe Bufkin](http://twitter.com/search?q=Kobe+Bufkin) | N/A |
-| 11 | [Kyedae](http://twitter.com/search?q=Kyedae) | N/A |
-| 12 | [Petry](http://twitter.com/search?q=Petry) | N/A |
-| 13 | [Discover](http://twitter.com/search?q=Discover) | N/A |
-| 14 | [#Walker](http://twitter.com/search?q=%23Walker) | N/A |
-| 15 | [#WatchROH](http://twitter.com/search?q=%23WatchROH) | N/A |
-| 16 | [Walgreens](http://twitter.com/search?q=Walgreens) | N/A |
-| 17 | [Maggie](http://twitter.com/search?q=Maggie) | N/A |
-| 18 | [Stephen Smith](http://twitter.com/search?q=Stephen+Smith) | N/A |
-| 19 | [Orlov](http://twitter.com/search?q=Orlov) | N/A |
-| 20 | [Brassard](http://twitter.com/search?q=Brassard) | N/A |
-| 21 | [Red Ruby](http://twitter.com/search?q=Red+Ruby) | N/A |
-| 22 | [Metroid Fusion](http://twitter.com/search?q=Metroid+Fusion) | N/A |
-| 23 | [REAL GAMERS DRINK GAMER SUPPS](http://twitter.com/search?q=REAL+GAMERS+DRINK+GAMER+SUPPS) | N/A |
-| 24 | [#mnwildfirst](http://twitter.com/search?q=%23mnwildfirst) | N/A |
-| 25 | [Luka and Kyrie](http://twitter.com/search?q=Luka+and+Kyrie) | Luka and Kyrie is a phrase used to refer to the two NBA superstars, Luka Doncic and Kyrie Irving. The phrase is often used to describe the duo's incredible talent and potential as basketball players. |
-| 26 | [Hershey](http://twitter.com/search?q=Hershey) | N/A |
-| 27 | [Tarasenko](http://twitter.com/search?q=Tarasenko) | N/A |
-| 28 | [Jett](http://twitter.com/search?q=Jett) | N/A |
-| 29 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
-| 30 | [Shingles](http://twitter.com/search?q=Shingles) | N/A |
-| 31 | [Motte](http://twitter.com/search?q=Motte) | N/A |
-| 32 | [PNC Bank](http://twitter.com/search?q=PNC+Bank) | N/A |
-| 33 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 34 | [Tornado](http://twitter.com/search?q=Tornado) | N/A |
-| 35 | [Austin Watson](http://twitter.com/search?q=Austin+Watson) | N/A |
-| 36 | [Halak](http://twitter.com/search?q=Halak) | N/A |
-| 37 | [Fanfest](http://twitter.com/search?q=Fanfest) | N/A |
-| 38 | [North Texas](http://twitter.com/search?q=North+Texas) | N/A |
-| 39 | [Zero Mission](http://twitter.com/search?q=Zero+Mission) | N/A |
-| 40 | [Letang](http://twitter.com/search?q=Letang) | Letang is a surname of French origin. It is derived from the Old French word "letang" which means "marshy meadow". In English, it can be translated to mean "marshy meadow". |
-| 41 | [OJ Simpson](http://twitter.com/search?q=OJ+Simpson) | N/A |
-| 42 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
-| 43 | [Jake Walman](http://twitter.com/search?q=Jake+Walman) | N/A |
-| 44 | [Joseline](http://twitter.com/search?q=Joseline) | N/A |
-| 45 | [Jury](http://twitter.com/search?q=Jury) | N/A |
-| 46 | [Kuzma](http://twitter.com/search?q=Kuzma) | Kuzma is a Slavic name derived from the Greek name Konstantinos, meaning "constant" or "steadfast". It is also a popular Russian surname. |
-| 47 | [Ty Rodgers](http://twitter.com/search?q=Ty+Rodgers) | N/A |
-| 48 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
-| 49 | [Judge Newman](http://twitter.com/search?q=Judge+Newman) | N/A |
+| 1 | [Dallas](http://twitter.com/search?q=Dallas) | Dallas is a city in the U.S. state of Texas. It is the ninth most populous city in the United States and the third-largest in Texas after Houston and San Antonio. The city's population ranks ninth in the U.S. and third in Texas after Houston and San Antonio. Dallas is known for its oil, telecommunications, banking, technology, healthcare, defense, transportation, and commerce industries. |
+| 2 | [Melton](http://twitter.com/search?q=Melton) | N/A |
+| 3 | [Letang](http://twitter.com/search?q=Letang) | Letang is a surname of French origin. It is derived from the Old French word "letang" which means "marshy meadow". In English, it can be translated to mean "marshy meadow". |
+| 4 | [Paul Reed](http://twitter.com/search?q=Paul+Reed) | N/A |
+| 5 | [Granlund](http://twitter.com/search?q=Granlund) | N/A |
+| 6 | [Wayne](http://twitter.com/search?q=Wayne) | Wayne is a masculine given name in English, derived from an Old English surname meaning "wagon maker" or "wagon driver". It is also used as a surname. |
+| 7 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 8 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 9 | [Alex Murdaugh](http://twitter.com/search?q=Alex+Murdaugh) | N/A |
+| 10 | [Maxey](http://twitter.com/search?q=Maxey) | Maxey is a surname of English origin. It is derived from the Old English personal name Maccus, which was a diminutive form of Matthew. The meaning of Maxey in English is "son of Maccus". |
+| 11 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
+| 12 | [Michigan](http://twitter.com/search?q=Michigan) | Michigan is a state in the Midwestern United States. It is bordered by four of the five Great Lakes, and is the only state to be surrounded by three out of the five. Michigan is known for its diverse landscape, which includes forests, beaches, and rolling hills. The state's name comes from the Ojibwe word "mishigami," which means "large lake." |
+| 13 | [#WhyIChime](http://twitter.com/search?q=%23WhyIChime) | N/A |
+| 14 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
+| 15 | [Joey Baker](http://twitter.com/search?q=Joey+Baker) | N/A |
+| 16 | [#CriticalRoleSpoilers](http://twitter.com/search?q=%23CriticalRoleSpoilers) | #CriticalRoleSpoilers is a hashtag used on social media to warn people that a post contains spoilers for the popular Dungeons & Dragons web series Critical Role. It is used to alert viewers who have not yet seen the episode or read the source material that the post contains information that could spoil their experience. |
+| 17 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 18 | [#MFFL](http://twitter.com/search?q=%23MFFL) | #MFFL stands for "Mavs Fan For Life" and is used by fans of the Dallas Mavericks NBA basketball team to show their loyalty and support. |
+| 19 | [Buster](http://twitter.com/search?q=Buster) | N/A |
+| 20 | [Walgreens](http://twitter.com/search?q=Walgreens) | N/A |
+| 21 | [Antoine Davis](http://twitter.com/search?q=Antoine+Davis) | N/A |
+| 22 | [#Station19](http://twitter.com/search?q=%23Station19) | N/A |
+| 23 | [Discover](http://twitter.com/search?q=Discover) | N/A |
+| 24 | [#LetsGoPens](http://twitter.com/search?q=%23LetsGoPens) | #LetsGoPens is a hashtag used by fans of the Pittsburgh Penguins, a professional ice hockey team based in Pittsburgh, Pennsylvania. It is used to show support for the team and to encourage them to victory. |
+| 25 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
+| 26 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
+| 27 | [Mavericks](http://twitter.com/search?q=Mavericks) | Mavericks is a term used to describe an independent-minded person who does not conform to the norms of society. It is often used to describe someone who is willing to take risks and challenge the status quo. |
+| 28 | [Guilty](http://twitter.com/search?q=Guilty) | In English, "guilty" is an adjective that means responsible for a crime or wrongdoing. It is often used in a legal context to refer to someone who has been found guilty of a crime in a court of law. |
+| 29 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
+| 30 | [Nolan Smith](http://twitter.com/search?q=Nolan+Smith) | N/A |
+| 31 | [Zucker](http://twitter.com/search?q=Zucker) | N/A |
+| 32 | [Detroit Mercy](http://twitter.com/search?q=Detroit+Mercy) | N/A |
+| 33 | [Kobe Bufkin](http://twitter.com/search?q=Kobe+Bufkin) | N/A |
+| 34 | [Kyedae](http://twitter.com/search?q=Kyedae) | N/A |
+| 35 | [Jett](http://twitter.com/search?q=Jett) | N/A |
+| 36 | [Stephen Smith](http://twitter.com/search?q=Stephen+Smith) | N/A |
+| 37 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
+| 38 | [Maggie](http://twitter.com/search?q=Maggie) | N/A |
+| 39 | [Doc Rivers](http://twitter.com/search?q=Doc+Rivers) | N/A |
+| 40 | [Isaac Lindsey](http://twitter.com/search?q=Isaac+Lindsey) | N/A |
+| 41 | [Metroid Fusion](http://twitter.com/search?q=Metroid+Fusion) | N/A |
+| 42 | [Petry](http://twitter.com/search?q=Petry) | N/A |
+| 43 | [Red Ruby](http://twitter.com/search?q=Red+Ruby) | N/A |
+| 44 | [Halak](http://twitter.com/search?q=Halak) | N/A |
+| 45 | [PNC Bank](http://twitter.com/search?q=PNC+Bank) | N/A |
+| 46 | [Hershey](http://twitter.com/search?q=Hershey) | N/A |
+| 47 | [Jalen McDaniels](http://twitter.com/search?q=Jalen+McDaniels) | N/A |
+| 48 | [REAL GAMERS DRINK GAMER SUPPS](http://twitter.com/search?q=REAL+GAMERS+DRINK+GAMER+SUPPS) | N/A |
+| 49 | [Orlov](http://twitter.com/search?q=Orlov) | N/A |
+| 50 | [Youngstown State](http://twitter.com/search?q=Youngstown+State) | N/A |
 
 
 

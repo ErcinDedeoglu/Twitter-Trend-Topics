@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-03-03 02:08:49 UTC`
+📆 Last Updated: `2023-03-03 03:16:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,38 +17,38 @@ This is top 50 for [Austria](</Austria>)
 | ------- | ------------ | ------------ |
 | 1 | [#GNTM](http://twitter.com/search?q=%23GNTM) | N/A |
 | 2 | [#ECR2023](http://twitter.com/search?q=%23ECR2023) | N/A |
-| 3 | [#zib2](http://twitter.com/search?q=%23zib2) | N/A |
-| 4 | [Peter Weibel](http://twitter.com/search?q=Peter+Weibel) | N/A |
+| 3 | [Peter Weibel](http://twitter.com/search?q=Peter+Weibel) | N/A |
+| 4 | [#KlamrothLuegt](http://twitter.com/search?q=%23KlamrothLuegt) | N/A |
 | 5 | [Maske](http://twitter.com/search?q=Maske) | N/A |
-| 6 | [#KlamrothLuegt](http://twitter.com/search?q=%23KlamrothLuegt) | N/A |
-| 7 | [Franz](http://twitter.com/search?q=Franz) | N/A |
-| 8 | [Tage Woche](http://twitter.com/search?q=Tage+Woche) | N/A |
-| 9 | [Rauch](http://twitter.com/search?q=Rauch) | N/A |
-| 10 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 11 | [Außenpolitik](http://twitter.com/search?q=Au%c3%9fenpolitik) | N/A |
-| 12 | [#elevatefestival](http://twitter.com/search?q=%23elevatefestival) | N/A |
+| 6 | [Franz](http://twitter.com/search?q=Franz) | N/A |
+| 7 | [tage woche](http://twitter.com/search?q=tage+woche) | N/A |
+| 8 | [Rauch](http://twitter.com/search?q=Rauch) | N/A |
+| 9 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 10 | [Außenpolitik](http://twitter.com/search?q=Au%c3%9fenpolitik) | N/A |
+| 11 | [#elevatefestival](http://twitter.com/search?q=%23elevatefestival) | N/A |
+| 12 | [#lockdownfiles](http://twitter.com/search?q=%23lockdownfiles) | N/A |
 | 13 | [Karin](http://twitter.com/search?q=Karin) | N/A |
-| 14 | [Versöhnung](http://twitter.com/search?q=Vers%c3%b6hnung) | N/A |
+| 14 | [versöhnung](http://twitter.com/search?q=vers%c3%b6hnung) | N/A |
 | 15 | [Füße](http://twitter.com/search?q=F%c3%bc%c3%9fe) | N/A |
 | 16 | [Heidi](http://twitter.com/search?q=Heidi) | N/A |
 | 17 | [herzliche gratulation](http://twitter.com/search?q=herzliche+gratulation) | N/A |
 | 18 | [Gehälter](http://twitter.com/search?q=Geh%c3%a4lter) | N/A |
 | 19 | [Mitleid](http://twitter.com/search?q=Mitleid) | N/A |
-| 20 | [Kremlin](http://twitter.com/search?q=Kremlin) | N/A |
-| 21 | [Management](http://twitter.com/search?q=Management) | N/A |
-| 22 | [Kapitalismus](http://twitter.com/search?q=Kapitalismus) | N/A |
-| 23 | [Kopfschmerzen](http://twitter.com/search?q=Kopfschmerzen) | N/A |
-| 24 | [Helmut](http://twitter.com/search?q=Helmut) | N/A |
-| 25 | [Lockdowns](http://twitter.com/search?q=Lockdowns) | N/A |
-| 26 | [Nebenwirkungen](http://twitter.com/search?q=Nebenwirkungen) | N/A |
-| 27 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
-| 28 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
-| 29 | [Schmäh](http://twitter.com/search?q=Schm%c3%a4h) | N/A |
-| 30 | [Fesch](http://twitter.com/search?q=Fesch) | N/A |
+| 20 | [Fesch](http://twitter.com/search?q=Fesch) | N/A |
+| 21 | [Kremlin](http://twitter.com/search?q=Kremlin) | N/A |
+| 22 | [Management](http://twitter.com/search?q=Management) | N/A |
+| 23 | [Kapitalismus](http://twitter.com/search?q=Kapitalismus) | N/A |
+| 24 | [Kopfschmerzen](http://twitter.com/search?q=Kopfschmerzen) | N/A |
+| 25 | [Helmut](http://twitter.com/search?q=Helmut) | N/A |
+| 26 | [Lockdowns](http://twitter.com/search?q=Lockdowns) | N/A |
+| 27 | [Nebenwirkungen](http://twitter.com/search?q=Nebenwirkungen) | N/A |
+| 28 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 29 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
+| 30 | [schmäh](http://twitter.com/search?q=schm%c3%a4h) | N/A |
 | 31 | [Schnauze](http://twitter.com/search?q=Schnauze) | N/A |
 | 32 | [Gehsteig](http://twitter.com/search?q=Gehsteig) | N/A |
-| 33 | [Finnland](http://twitter.com/search?q=Finnland) | N/A |
-| 34 | [Makler](http://twitter.com/search?q=Makler) | N/A |
+| 33 | [finnland](http://twitter.com/search?q=finnland) | N/A |
+| 34 | [makler](http://twitter.com/search?q=makler) | N/A |
 | 35 | [Verschwörung](http://twitter.com/search?q=Verschw%c3%b6rung) | N/A |
 | 36 | [Gurken](http://twitter.com/search?q=Gurken) | N/A |
 | 37 | [Opposition](http://twitter.com/search?q=Opposition) | N/A |
@@ -57,9 +57,9 @@ This is top 50 for [Austria](</Austria>)
 | 40 | [Antrag](http://twitter.com/search?q=Antrag) | N/A |
 | 41 | [Kollegin](http://twitter.com/search?q=Kollegin) | N/A |
 | 42 | [kärntner](http://twitter.com/search?q=k%c3%a4rntner) | N/A |
-| 43 | [Arbeitszeit](http://twitter.com/search?q=Arbeitszeit) | N/A |
+| 43 | [arbeitszeit](http://twitter.com/search?q=arbeitszeit) | N/A |
 | 44 | [Apotheke](http://twitter.com/search?q=Apotheke) | N/A |
-| 45 | [Lehrerin](http://twitter.com/search?q=Lehrerin) | N/A |
+| 45 | [lehrerin](http://twitter.com/search?q=lehrerin) | N/A |
 | 46 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
 | 47 | [Arbeitsbedingungen](http://twitter.com/search?q=Arbeitsbedingungen) | N/A |
 | 48 | [Furchtbar](http://twitter.com/search?q=Furchtbar) | N/A |

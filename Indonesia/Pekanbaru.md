@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pekanbaru
 
-📆 Last Updated: `2023-03-03 02:08:59 UTC`
+📆 Last Updated: `2023-03-03 03:16:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,47 +19,47 @@ This is top 50 for [Indonesia](</Indonesia>)
 | 2 | [Indomie Yatai](http://twitter.com/search?q=Indomie+Yatai) | N/A |
 | 3 | [hanya di bloombergtechnoz](http://twitter.com/search?q=hanya+di+bloombergtechnoz) | N/A |
 | 4 | [berita ekonomi terkini](http://twitter.com/search?q=berita+ekonomi+terkini) | N/A |
-| 5 | [NA JAEMIN THANK YOU](http://twitter.com/search?q=NA+JAEMIN+THANK+YOU) | N/A |
-| 6 | [R to V](http://twitter.com/search?q=R+to+V) | N/A |
-| 7 | [Nobita](http://twitter.com/search?q=Nobita) | N/A |
-| 8 | [ekspresikan gayamu](http://twitter.com/search?q=ekspresikan+gayamu) | N/A |
-| 9 | [TY WEARS LOEWE](http://twitter.com/search?q=TY+WEARS+LOEWE) | N/A |
-| 10 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 11 | [Shizuka](http://twitter.com/search?q=Shizuka) | N/A |
-| 12 | [Khilafah Ajaran Islam](http://twitter.com/search?q=Khilafah+Ajaran+Islam) | N/A |
-| 13 | [Semangat Dakwahkan Islam](http://twitter.com/search?q=Semangat+Dakwahkan+Islam) | N/A |
-| 14 | [epic grand prize](http://twitter.com/search?q=epic+grand+prize) | N/A |
-| 15 | [asuransi aia](http://twitter.com/search?q=asuransi+aia) | N/A |
-| 16 | [Rekognisi Pembelajaran Lampau](http://twitter.com/search?q=Rekognisi+Pembelajaran+Lampau) | N/A |
-| 17 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 18 | [ON THE STREET OUT TODAY](http://twitter.com/search?q=ON+THE+STREET+OUT+TODAY) | N/A |
-| 19 | [Silent](http://twitter.com/search?q=Silent) | N/A |
-| 20 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 21 | [J-HOPE X J. COLE](http://twitter.com/search?q=J-HOPE+X+J.+COLE) | N/A |
-| 22 | [jkt48 hujan voucher lazada](http://twitter.com/search?q=jkt48+hujan+voucher+lazada) | N/A |
-| 23 | [PN Jakpus](http://twitter.com/search?q=PN+Jakpus) | N/A |
-| 24 | [Partai Prima](http://twitter.com/search?q=Partai+Prima) | N/A |
-| 25 | [HYBE PROTECT RM](http://twitter.com/search?q=HYBE+PROTECT+RM) | N/A |
-| 26 | [ARTIST AND STAFF](http://twitter.com/search?q=ARTIST+AND+STAFF) | N/A |
-| 27 | [Innalilahi](http://twitter.com/search?q=Innalilahi) | N/A |
-| 28 | [BIGHIT PROTECT RM](http://twitter.com/search?q=BIGHIT+PROTECT+RM) | N/A |
-| 29 | [Cleaning](http://twitter.com/search?q=Cleaning) | N/A |
-| 30 | [ON THE STREET WITH J-HOPE](http://twitter.com/search?q=ON+THE+STREET+WITH+J-HOPE) | N/A |
-| 31 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
-| 32 | [Formula E](http://twitter.com/search?q=Formula+E) | N/A |
-| 33 | [Rubicon](http://twitter.com/search?q=Rubicon) | N/A |
-| 34 | [Leg 2](http://twitter.com/search?q=Leg+2) | N/A |
+| 5 | [R to V](http://twitter.com/search?q=R+to+V) | N/A |
+| 6 | [Nobita](http://twitter.com/search?q=Nobita) | N/A |
+| 7 | [ekspresikan gayamu](http://twitter.com/search?q=ekspresikan+gayamu) | N/A |
+| 8 | [TY WEARS LOEWE](http://twitter.com/search?q=TY+WEARS+LOEWE) | N/A |
+| 9 | [NA JAEMIN THANK YOU](http://twitter.com/search?q=NA+JAEMIN+THANK+YOU) | N/A |
+| 10 | [epic grand prize](http://twitter.com/search?q=epic+grand+prize) | N/A |
+| 11 | [asuransi aia](http://twitter.com/search?q=asuransi+aia) | N/A |
+| 12 | [PN Jakpus](http://twitter.com/search?q=PN+Jakpus) | N/A |
+| 13 | [Partai Prima](http://twitter.com/search?q=Partai+Prima) | N/A |
+| 14 | [Silent](http://twitter.com/search?q=Silent) | N/A |
+| 15 | [Rekognisi Pembelajaran Lampau](http://twitter.com/search?q=Rekognisi+Pembelajaran+Lampau) | N/A |
+| 16 | [jkt48 hujan voucher lazada](http://twitter.com/search?q=jkt48+hujan+voucher+lazada) | N/A |
+| 17 | [HYBE PROTECT RM](http://twitter.com/search?q=HYBE+PROTECT+RM) | N/A |
+| 18 | [WHO IN SEVENTEEN](http://twitter.com/search?q=WHO+IN+SEVENTEEN) | N/A |
+| 19 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
+| 20 | [Ultimate Bias](http://twitter.com/search?q=Ultimate+Bias) | N/A |
+| 21 | [Shizuka](http://twitter.com/search?q=Shizuka) | N/A |
+| 22 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 23 | [First Bias](http://twitter.com/search?q=First+Bias) | N/A |
+| 24 | [Khilafah Ajaran Islam](http://twitter.com/search?q=Khilafah+Ajaran+Islam) | N/A |
+| 25 | [ARTIST AND STAFF](http://twitter.com/search?q=ARTIST+AND+STAFF) | N/A |
+| 26 | [BIGHIT PROTECT RM](http://twitter.com/search?q=BIGHIT+PROTECT+RM) | N/A |
+| 27 | [ON THE STREET OUT TODAY](http://twitter.com/search?q=ON+THE+STREET+OUT+TODAY) | N/A |
+| 28 | [Semangat Dakwahkan Islam](http://twitter.com/search?q=Semangat+Dakwahkan+Islam) | N/A |
+| 29 | [Innalillahi](http://twitter.com/search?q=Innalillahi) | N/A |
+| 30 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 31 | [Formula E](http://twitter.com/search?q=Formula+E) | N/A |
+| 32 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
+| 33 | [Cleaning Service](http://twitter.com/search?q=Cleaning+Service) | N/A |
+| 34 | [Kyedae](http://twitter.com/search?q=Kyedae) | N/A |
 | 35 | [haechan lee thank you](http://twitter.com/search?q=haechan+lee+thank+you) | N/A |
-| 36 | [our sunshine park jeongwoo](http://twitter.com/search?q=our+sunshine+park+jeongwoo) | N/A |
-| 37 | [bapak prabowo subianto](http://twitter.com/search?q=bapak+prabowo+subianto) | N/A |
-| 38 | [TIFFANY BRAND AMBASSADOR JIMIN](http://twitter.com/search?q=TIFFANY+BRAND+AMBASSADOR+JIMIN) | N/A |
-| 39 | [Hakimnya](http://twitter.com/search?q=Hakimnya) | N/A |
-| 40 | [yuta](http://twitter.com/search?q=yuta) | Yuta is a Japanese name that means "abundant" or "bountiful". It can also be used as a surname. |
-| 41 | [Pika](http://twitter.com/search?q=Pika) | N/A |
-| 42 | [Gelora Buat Konser](http://twitter.com/search?q=Gelora+Buat+Konser) | N/A |
+| 36 | [TIFFANY BRAND AMBASSADOR JIMIN](http://twitter.com/search?q=TIFFANY+BRAND+AMBASSADOR+JIMIN) | N/A |
+| 37 | [our sunshine park jeongwoo](http://twitter.com/search?q=our+sunshine+park+jeongwoo) | N/A |
+| 38 | [bapak prabowo subianto](http://twitter.com/search?q=bapak+prabowo+subianto) | N/A |
+| 39 | [Rendah](http://twitter.com/search?q=Rendah) | N/A |
+| 40 | [Hakimnya](http://twitter.com/search?q=Hakimnya) | N/A |
+| 41 | [Kemendes PDTT](http://twitter.com/search?q=Kemendes+PDTT) | N/A |
+| 42 | [J-HOPE X J. COLE](http://twitter.com/search?q=J-HOPE+X+J.+COLE) | N/A |
 | 43 | [Red Velvet](http://twitter.com/search?q=Red+Velvet) | N/A |
-| 44 | [Khuntoria](http://twitter.com/search?q=Khuntoria) | N/A |
-| 45 | [bloomberg global](http://twitter.com/search?q=bloomberg+global) | N/A |
+| 44 | [Pika](http://twitter.com/search?q=Pika) | N/A |
+| 45 | [Pemilu](http://twitter.com/search?q=Pemilu) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indonesia
 
-📆 Last Updated: `2023-03-03 02:09:38 UTC`
+📆 Last Updated: `2023-03-03 03:16:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Indonesia
 | 1 | [#HariRPLDesa](http://twitter.com/search?q=%23HariRPLDesa) | N/A |
 | 2 | [Indomie Yatai](http://twitter.com/search?q=Indomie+Yatai) | N/A |
 | 3 | [hanya di bloombergtechnoz](http://twitter.com/search?q=hanya+di+bloombergtechnoz) | N/A |
-| 4 | [berita ekonomi terkini](http://twitter.com/search?q=berita+ekonomi+terkini) | N/A |
-| 5 | [#HUTBennyRhamdani](http://twitter.com/search?q=%23HUTBennyRhamdani) | N/A |
-| 6 | [NA JAEMIN THANK YOU](http://twitter.com/search?q=NA+JAEMIN+THANK+YOU) | N/A |
-| 7 | [#LIKEITLIKEIT_OUT_NOW](http://twitter.com/search?q=%23LIKEITLIKEIT_OUT_NOW) | N/A |
-| 8 | [#JumatBerkah](http://twitter.com/search?q=%23JumatBerkah) | N/A |
-| 9 | [R to V](http://twitter.com/search?q=R+to+V) | N/A |
-| 10 | [Nobita](http://twitter.com/search?q=Nobita) | N/A |
-| 11 | [#TAEYONGtoPFW23](http://twitter.com/search?q=%23TAEYONGtoPFW23) | N/A |
-| 12 | [ekspresikan gayamu](http://twitter.com/search?q=ekspresikan+gayamu) | N/A |
-| 13 | [TY WEARS LOEWE](http://twitter.com/search?q=TY+WEARS+LOEWE) | N/A |
-| 14 | [Shizuka](http://twitter.com/search?q=Shizuka) | N/A |
-| 15 | [Khilafah Ajaran Islam](http://twitter.com/search?q=Khilafah+Ajaran+Islam) | N/A |
-| 16 | [Semangat Dakwahkan Islam](http://twitter.com/search?q=Semangat+Dakwahkan+Islam) | N/A |
-| 17 | [epic grand prize](http://twitter.com/search?q=epic+grand+prize) | N/A |
-| 18 | [asuransi aia](http://twitter.com/search?q=asuransi+aia) | N/A |
+| 4 | [#ETDoktorHC](http://twitter.com/search?q=%23ETDoktorHC) | N/A |
+| 5 | [berita ekonomi terkini](http://twitter.com/search?q=berita+ekonomi+terkini) | N/A |
+| 6 | [#HUTBennyRhamdani](http://twitter.com/search?q=%23HUTBennyRhamdani) | N/A |
+| 7 | [#ADPxCHANYEOL](http://twitter.com/search?q=%23ADPxCHANYEOL) | N/A |
+| 8 | [R to V](http://twitter.com/search?q=R+to+V) | N/A |
+| 9 | [#LIKEITLIKEIT_OUT_NOW](http://twitter.com/search?q=%23LIKEITLIKEIT_OUT_NOW) | N/A |
+| 10 | [ekspresikan gayamu](http://twitter.com/search?q=ekspresikan+gayamu) | N/A |
+| 11 | [Nobita](http://twitter.com/search?q=Nobita) | N/A |
+| 12 | [TY WEARS LOEWE](http://twitter.com/search?q=TY+WEARS+LOEWE) | N/A |
+| 13 | [NA JAEMIN THANK YOU](http://twitter.com/search?q=NA+JAEMIN+THANK+YOU) | N/A |
+| 14 | [epic grand prize](http://twitter.com/search?q=epic+grand+prize) | N/A |
+| 15 | [asuransi aia](http://twitter.com/search?q=asuransi+aia) | N/A |
+| 16 | [PN Jakpus](http://twitter.com/search?q=PN+Jakpus) | N/A |
+| 17 | [Partai Prima](http://twitter.com/search?q=Partai+Prima) | N/A |
+| 18 | [Silent](http://twitter.com/search?q=Silent) | N/A |
 | 19 | [Rekognisi Pembelajaran Lampau](http://twitter.com/search?q=Rekognisi+Pembelajaran+Lampau) | N/A |
-| 20 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 21 | [ON THE STREET OUT TODAY](http://twitter.com/search?q=ON+THE+STREET+OUT+TODAY) | N/A |
-| 22 | [Silent](http://twitter.com/search?q=Silent) | N/A |
-| 23 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 24 | [J-HOPE X J. COLE](http://twitter.com/search?q=J-HOPE+X+J.+COLE) | N/A |
-| 25 | [jkt48 hujan voucher lazada](http://twitter.com/search?q=jkt48+hujan+voucher+lazada) | N/A |
-| 26 | [Partai Prima](http://twitter.com/search?q=Partai+Prima) | N/A |
-| 27 | [PN Jakpus](http://twitter.com/search?q=PN+Jakpus) | N/A |
-| 28 | [HYBE PROTECT RM](http://twitter.com/search?q=HYBE+PROTECT+RM) | N/A |
-| 29 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 30 | [ARTIST AND STAFF](http://twitter.com/search?q=ARTIST+AND+STAFF) | N/A |
-| 31 | [BIGHIT PROTECT RM](http://twitter.com/search?q=BIGHIT+PROTECT+RM) | N/A |
-| 32 | [Innalillahi](http://twitter.com/search?q=Innalillahi) | N/A |
-| 33 | [Cleaning](http://twitter.com/search?q=Cleaning) | N/A |
-| 34 | [ON THE STREET WITH J-HOPE](http://twitter.com/search?q=ON+THE+STREET+WITH+J-HOPE) | N/A |
-| 35 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
-| 36 | [Formula E](http://twitter.com/search?q=Formula+E) | N/A |
-| 37 | [Rubicon](http://twitter.com/search?q=Rubicon) | N/A |
-| 38 | [Leg 2](http://twitter.com/search?q=Leg+2) | N/A |
-| 39 | [haechan lee thank you](http://twitter.com/search?q=haechan+lee+thank+you) | N/A |
-| 40 | [TIFFANY BRAND AMBASSADOR JIMIN](http://twitter.com/search?q=TIFFANY+BRAND+AMBASSADOR+JIMIN) | N/A |
-| 41 | [our sunshine park jeongwoo](http://twitter.com/search?q=our+sunshine+park+jeongwoo) | N/A |
-| 42 | [bapak prabowo subianto](http://twitter.com/search?q=bapak+prabowo+subianto) | N/A |
-| 43 | [Hakimnya](http://twitter.com/search?q=Hakimnya) | N/A |
-| 44 | [Pika](http://twitter.com/search?q=Pika) | N/A |
-| 45 | [Red Velvet](http://twitter.com/search?q=Red+Velvet) | N/A |
-| 46 | [Khuntoria](http://twitter.com/search?q=Khuntoria) | N/A |
-| 47 | [yuta](http://twitter.com/search?q=yuta) | Yuta is a Japanese name that means "abundant" or "bountiful". It can also be used as a surname. |
-| 48 | [bloomberg global](http://twitter.com/search?q=bloomberg+global) | N/A |
-| 49 | [ini twitter](http://twitter.com/search?q=ini+twitter) | N/A |
-| 50 | [Jalur](http://twitter.com/search?q=Jalur) | N/A |
+| 20 | [jkt48 hujan voucher lazada](http://twitter.com/search?q=jkt48+hujan+voucher+lazada) | N/A |
+| 21 | [HYBE PROTECT RM](http://twitter.com/search?q=HYBE+PROTECT+RM) | N/A |
+| 22 | [WHO IN SEVENTEEN](http://twitter.com/search?q=WHO+IN+SEVENTEEN) | N/A |
+| 23 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
+| 24 | [Ultimate Bias](http://twitter.com/search?q=Ultimate+Bias) | N/A |
+| 25 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 26 | [First Bias](http://twitter.com/search?q=First+Bias) | N/A |
+| 27 | [Shizuka](http://twitter.com/search?q=Shizuka) | N/A |
+| 28 | [Khilafah Ajaran Islam](http://twitter.com/search?q=Khilafah+Ajaran+Islam) | N/A |
+| 29 | [ARTIST AND STAFF](http://twitter.com/search?q=ARTIST+AND+STAFF) | N/A |
+| 30 | [BIGHIT PROTECT RM](http://twitter.com/search?q=BIGHIT+PROTECT+RM) | N/A |
+| 31 | [ON THE STREET OUT TODAY](http://twitter.com/search?q=ON+THE+STREET+OUT+TODAY) | N/A |
+| 32 | [Formula E](http://twitter.com/search?q=Formula+E) | N/A |
+| 33 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 34 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
+| 35 | [Cleaning Service](http://twitter.com/search?q=Cleaning+Service) | N/A |
+| 36 | [Kyedae](http://twitter.com/search?q=Kyedae) | N/A |
+| 37 | [haechan lee thank you](http://twitter.com/search?q=haechan+lee+thank+you) | N/A |
+| 38 | [TIFFANY BRAND AMBASSADOR JIMIN](http://twitter.com/search?q=TIFFANY+BRAND+AMBASSADOR+JIMIN) | N/A |
+| 39 | [our sunshine park jeongwoo](http://twitter.com/search?q=our+sunshine+park+jeongwoo) | N/A |
+| 40 | [bapak prabowo subianto](http://twitter.com/search?q=bapak+prabowo+subianto) | N/A |
+| 41 | [Rendah](http://twitter.com/search?q=Rendah) | N/A |
+| 42 | [Hakimnya](http://twitter.com/search?q=Hakimnya) | N/A |
+| 43 | [J-HOPE X J. COLE](http://twitter.com/search?q=J-HOPE+X+J.+COLE) | N/A |
+| 44 | [Red Velvet](http://twitter.com/search?q=Red+Velvet) | N/A |
+| 45 | [Pika](http://twitter.com/search?q=Pika) | N/A |
+| 46 | [Rubicon](http://twitter.com/search?q=Rubicon) | N/A |
+| 47 | [bloomberg global](http://twitter.com/search?q=bloomberg+global) | N/A |
+| 48 | [Pemilu](http://twitter.com/search?q=Pemilu) | N/A |
+| 49 | [Jeep](http://twitter.com/search?q=Jeep) | N/A |
+| 50 | [Barca](http://twitter.com/search?q=Barca) | N/A |
 
 
 

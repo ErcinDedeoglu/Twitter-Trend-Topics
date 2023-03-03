@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Fortaleza
 
-📆 Last Updated: `2023-03-03 02:08:47 UTC`
+📆 Last Updated: `2023-03-03 03:16:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Galhardo](http://twitter.com/search?q=Galhardo) | N/A |
-| 2 | [Guilherme](http://twitter.com/search?q=Guilherme) | Guilherme is a Portuguese name derived from the Germanic name Wilhelm, which means "will helmet". In English, it is usually translated as William. |
-| 3 | [Pochettino](http://twitter.com/search?q=Pochettino) | N/A |
+| 1 | [Guilherme](http://twitter.com/search?q=Guilherme) | Guilherme is a Portuguese name derived from the Germanic name Wilhelm, which means "will helmet". In English, it is usually translated as William. |
+| 2 | [É o Laion](http://twitter.com/search?q=%c3%89+o+Laion) | N/A |
+| 3 | [Maldonado](http://twitter.com/search?q=Maldonado) | N/A |
 | 4 | [Romarinho](http://twitter.com/search?q=Romarinho) | Romarinho is a Portuguese nickname meaning "little rosemary". It is often used as a term of endearment for someone small or young. |
-| 5 | [Maldonado](http://twitter.com/search?q=Maldonado) | N/A |
-| 6 | [Castelão](http://twitter.com/search?q=Castel%c3%a3o) | N/A |
-| 7 | [#VaiNaFe](http://twitter.com/search?q=%23VaiNaFe) | #VaiNaFe is a Portuguese phrase that translates to "Go to Faith" in English. It is often used as an encouragement to stay strong and have faith in difficult times. |
-| 8 | [#goLOUD](http://twitter.com/search?q=%23goLOUD) | N/A |
-| 9 | [Sergipe](http://twitter.com/search?q=Sergipe) | N/A |
-| 10 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
-| 11 | [Bráulio](http://twitter.com/search?q=Br%c3%a1ulio) | N/A |
-| 12 | [Luis Castro](http://twitter.com/search?q=Luis+Castro) | N/A |
-| 13 | [#Travessia](http://twitter.com/search?q=%23Travessia) | #Travessia is a Portuguese word meaning “crossing” or “journey”. It is often used to refer to a journey of discovery, exploration, or transformation. |
-| 14 | [Fortaleza](http://twitter.com/search?q=Fortaleza) | Fortaleza is a city in Brazil and it means "fortress" in English. It is the capital of the state of Ceará and is known for its beautiful beaches, colonial architecture, and vibrant culture. |
-| 15 | [#trocadepasses](http://twitter.com/search?q=%23trocadepasses) | N/A |
-| 16 | [Matheus Nascimento](http://twitter.com/search?q=Matheus+Nascimento) | N/A |
-| 17 | [#LibertadoresNoParamount](http://twitter.com/search?q=%23LibertadoresNoParamount) | N/A |
-| 18 | [Marçal](http://twitter.com/search?q=Mar%c3%a7al) | N/A |
-| 19 | [Roubado](http://twitter.com/search?q=Roubado) | N/A |
-| 20 | [Mulan](http://twitter.com/search?q=Mulan) | N/A |
-| 21 | [Copa do Brasil](http://twitter.com/search?q=Copa+do+Brasil) | N/A |
-| 22 | [Juiz](http://twitter.com/search?q=Juiz) | N/A |
-| 23 | [Lucero](http://twitter.com/search?q=Lucero) | N/A |
-| 24 | [Apanhou](http://twitter.com/search?q=Apanhou) | N/A |
-| 25 | [Vergonhoso](http://twitter.com/search?q=Vergonhoso) | N/A |
-| 26 | [Dandan](http://twitter.com/search?q=Dandan) | N/A |
-| 27 | [Rafael](http://twitter.com/search?q=Rafael) | N/A |
-| 28 | [Roubo](http://twitter.com/search?q=Roubo) | N/A |
-| 29 | [Textor](http://twitter.com/search?q=Textor) | Textor is a German word that means "weaver" or "spinner." It is used to refer to someone who creates textiles, such as a tailor or seamstress. |
-| 30 | [Justifica](http://twitter.com/search?q=Justifica) | N/A |
-| 31 | [Lamentável](http://twitter.com/search?q=Lament%c3%a1vel) | N/A |
-| 32 | [The Pinkprint](http://twitter.com/search?q=The+Pinkprint) | N/A |
-| 33 | [Dangerous Woman](http://twitter.com/search?q=Dangerous+Woman) | N/A |
-| 34 | [Brisa](http://twitter.com/search?q=Brisa) | N/A |
-| 35 | [Happier Than Ever](http://twitter.com/search?q=Happier+Than+Ever) | N/A |
-| 36 | [graham](http://twitter.com/search?q=graham) | N/A |
-| 37 | [Perri](http://twitter.com/search?q=Perri) | N/A |
-| 38 | [Future Nostalgia](http://twitter.com/search?q=Future+Nostalgia) | N/A |
-| 39 | [Gabriel Pires](http://twitter.com/search?q=Gabriel+Pires) | Gabriel Pires is a Portuguese name. It is derived from the Hebrew name Gabriel, which means “God is my strength”. |
-| 40 | [Assalto](http://twitter.com/search?q=Assalto) | N/A |
-| 41 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
-| 42 | [OUÇA SEU BRILHO SUMIU](http://twitter.com/search?q=OU%c3%87A+SEU+BRILHO+SUMIU) | N/A |
-| 43 | [UM MILHAO DO DR FRED](http://twitter.com/search?q=UM+MILHAO+DO+DR+FRED) | N/A |
-| 44 | [Iguatu](http://twitter.com/search?q=Iguatu) | N/A |
-| 45 | [Talisson Calcinha](http://twitter.com/search?q=Talisson+Calcinha) | N/A |
-| 46 | [Diane](http://twitter.com/search?q=Diane) | N/A |
-| 47 | [The Fame](http://twitter.com/search?q=The+Fame) | N/A |
-| 48 | [Aladdin](http://twitter.com/search?q=Aladdin) | N/A |
-| 49 | [Maringá](http://twitter.com/search?q=Maring%c3%a1) | N/A |
-| 50 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 5 | [Castelão](http://twitter.com/search?q=Castel%c3%a3o) | N/A |
+| 6 | [Sergipe](http://twitter.com/search?q=Sergipe) | N/A |
+| 7 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 8 | [Bráulio](http://twitter.com/search?q=Br%c3%a1ulio) | N/A |
+| 9 | [#ProvaDoLíder](http://twitter.com/search?q=%23ProvaDoL%c3%adder) | N/A |
+| 10 | [Fortaleza](http://twitter.com/search?q=Fortaleza) | Fortaleza is a city in Brazil and it means "fortress" in English. It is the capital of the state of Ceará and is known for its beautiful beaches, colonial architecture, and vibrant culture. |
+| 11 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
+| 12 | [Dangerous Woman](http://twitter.com/search?q=Dangerous+Woman) | N/A |
+| 13 | [Mulan](http://twitter.com/search?q=Mulan) | N/A |
+| 14 | [Luis Castro](http://twitter.com/search?q=Luis+Castro) | N/A |
+| 15 | [Feliz Natal](http://twitter.com/search?q=Feliz+Natal) | Feliz Natal is a Portuguese phrase meaning "Merry Christmas". It is commonly used in Brazil and other Portuguese-speaking countries during the holiday season. |
+| 16 | [STILL ALIVE OUT NOW](http://twitter.com/search?q=STILL+ALIVE+OUT+NOW) | N/A |
+| 17 | [Yours Truly](http://twitter.com/search?q=Yours+Truly) | N/A |
+| 18 | [#trocadepasses](http://twitter.com/search?q=%23trocadepasses) | N/A |
+| 19 | [My Everything](http://twitter.com/search?q=My+Everything) | N/A |
+| 20 | [#LibertadoresNoParamount](http://twitter.com/search?q=%23LibertadoresNoParamount) | N/A |
+| 21 | [Doncic](http://twitter.com/search?q=Doncic) | Doncic is the surname of Slovenian professional basketball player Luka Doncic. In English, it is pronounced "DOHN-chich". |
+| 22 | [Matheus Nascimento](http://twitter.com/search?q=Matheus+Nascimento) | N/A |
+| 23 | [Seara](http://twitter.com/search?q=Seara) | Seara is a Portuguese word meaning "evening" or "night." |
+| 24 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 25 | [METADE DE MIM HEG](http://twitter.com/search?q=METADE+DE+MIM+HEG) | N/A |
+| 26 | [Roubado](http://twitter.com/search?q=Roubado) | N/A |
+| 27 | [#Station19](http://twitter.com/search?q=%23Station19) | N/A |
+| 28 | [Marçal](http://twitter.com/search?q=Mar%c3%a7al) | N/A |
+| 29 | [#Travessia](http://twitter.com/search?q=%23Travessia) | #Travessia is a Portuguese word meaning “crossing” or “journey”. It is often used to refer to a journey of discovery, exploration, or transformation. |
+| 30 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
+| 31 | [Apanhou](http://twitter.com/search?q=Apanhou) | N/A |
+| 32 | [Lucero](http://twitter.com/search?q=Lucero) | N/A |
+| 33 | [The Pinkprint](http://twitter.com/search?q=The+Pinkprint) | N/A |
+| 34 | [graham](http://twitter.com/search?q=graham) | N/A |
+| 35 | [Amandinha Tadeu](http://twitter.com/search?q=Amandinha+Tadeu) | N/A |
+| 36 | [billy dunne](http://twitter.com/search?q=billy+dunne) | N/A |
+| 37 | [Eddie](http://twitter.com/search?q=Eddie) | Eddie is a slang term used to refer to someone who is considered to be cool, attractive, or stylish. It can also be used as a term of endearment for someone you like or admire. |
+| 38 | [Happier Than Ever](http://twitter.com/search?q=Happier+Than+Ever) | N/A |
+| 39 | [Future Nostalgia](http://twitter.com/search?q=Future+Nostalgia) | N/A |
+| 40 | [Aladdin](http://twitter.com/search?q=Aladdin) | N/A |
+| 41 | [Tarzan](http://twitter.com/search?q=Tarzan) | N/A |
+| 42 | [Batalha Naval](http://twitter.com/search?q=Batalha+Naval) | N/A |
+| 43 | [Lamentável](http://twitter.com/search?q=Lament%c3%a1vel) | N/A |
+| 44 | [Roubo](http://twitter.com/search?q=Roubo) | N/A |
+| 45 | [Juiz](http://twitter.com/search?q=Juiz) | N/A |
+| 46 | [Justifica](http://twitter.com/search?q=Justifica) | N/A |
+| 47 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
+| 48 | [Dandan](http://twitter.com/search?q=Dandan) | N/A |
+| 49 | [Rafael](http://twitter.com/search?q=Rafael) | N/A |
+| 50 | [Copa do Brasil](http://twitter.com/search?q=Copa+do+Brasil) | N/A |
 
 
 

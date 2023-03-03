@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-03-03 02:08:57 UTC`
+📆 Last Updated: `2023-03-03 03:16:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,7 +17,7 @@ This is top 50 for [Switzerland](</Switzerland>)
 | ------- | ------------ | ------------ |
 | 1 | [#gfvip](http://twitter.com/search?q=%23gfvip) | #GFVIP stands for "Good Friends Very Important Person" and is used to refer to someone who is a close friend or an important person in one's life. |
 | 2 | [#GNTM](http://twitter.com/search?q=%23GNTM) | N/A |
-| 3 | [Teuerungsausgleich](http://twitter.com/search?q=Teuerungsausgleich) | N/A |
+| 3 | [teuerungsausgleich](http://twitter.com/search?q=teuerungsausgleich) | N/A |
 | 4 | [#KlamrothLuegt](http://twitter.com/search?q=%23KlamrothLuegt) | N/A |
 | 5 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
 | 6 | [#ixd23](http://twitter.com/search?q=%23ixd23) | N/A |
@@ -33,7 +33,7 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 16 | [Annecy](http://twitter.com/search?q=Annecy) | N/A |
 | 17 | [Initiative](http://twitter.com/search?q=Initiative) | N/A |
 | 18 | [ständerat](http://twitter.com/search?q=st%c3%a4nderat) | N/A |
-| 19 | [Zeugs](http://twitter.com/search?q=Zeugs) | N/A |
+| 19 | [zeugs](http://twitter.com/search?q=zeugs) | N/A |
 | 20 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
 | 21 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
 | 22 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
@@ -53,7 +53,7 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 36 | [Podcast](http://twitter.com/search?q=Podcast) | N/A |
 | 37 | [Vogel](http://twitter.com/search?q=Vogel) | N/A |
 | 38 | [Intéressant](http://twitter.com/search?q=Int%c3%a9ressant) | N/A |
-| 39 | [Art und Weise](http://twitter.com/search?q=Art+und+Weise) | N/A |
+| 39 | [art und weise](http://twitter.com/search?q=art+und+weise) | N/A |
 | 40 | [Woah](http://twitter.com/search?q=Woah) | N/A |
 | 41 | [Häuser](http://twitter.com/search?q=H%c3%a4user) | N/A |
 | 42 | [Faktor](http://twitter.com/search?q=Faktor) | N/A |
@@ -61,7 +61,7 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 44 | [Vernunft](http://twitter.com/search?q=Vernunft) | N/A |
 | 45 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
 | 46 | [Garten](http://twitter.com/search?q=Garten) | N/A |
-| 47 | [Affaires](http://twitter.com/search?q=Affaires) | N/A |
+| 47 | [affaires](http://twitter.com/search?q=affaires) | N/A |
 | 48 | [Toulouse](http://twitter.com/search?q=Toulouse) | Toulouse is a city in southern France. It is the capital of the Occitanie region and the Haute-Garonne department. The city is located on the banks of the River Garonne, 150 km from the Mediterranean Sea and 230 km from the Atlantic Ocean. The meaning of Toulouse in English is "The City of Light". |
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Australia
 
-📆 Last Updated: `2023-03-03 02:09:35 UTC`
+📆 Last Updated: `2023-03-03 03:16:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Australia
 | 1 | [#NRLEelsStorm](http://twitter.com/search?q=%23NRLEelsStorm) | N/A |
 | 2 | [Stuart Robert](http://twitter.com/search?q=Stuart+Robert) | N/A |
 | 3 | [#RobodebtRC](http://twitter.com/search?q=%23RobodebtRC) | N/A |
-| 4 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
-| 5 | [Collins](http://twitter.com/search?q=Collins) | N/A |
-| 6 | [Average](http://twitter.com/search?q=Average) | N/A |
-| 7 | [Cabinet](http://twitter.com/search?q=Cabinet) | N/A |
-| 8 | [The Project](http://twitter.com/search?q=The+Project) | N/A |
-| 9 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 10 | [#WorldWildlifeDay](http://twitter.com/search?q=%23WorldWildlifeDay) | N/A |
-| 11 | [#aflhawkspies](http://twitter.com/search?q=%23aflhawkspies) | N/A |
+| 4 | [Average](http://twitter.com/search?q=Average) | N/A |
+| 5 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
+| 6 | [Cabinet](http://twitter.com/search?q=Cabinet) | N/A |
+| 7 | [The Project](http://twitter.com/search?q=The+Project) | N/A |
+| 8 | [Tenille Collins](http://twitter.com/search?q=Tenille+Collins) | N/A |
+| 9 | [#aflhawkspies](http://twitter.com/search?q=%23aflhawkspies) | N/A |
+| 10 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 11 | [Margot](http://twitter.com/search?q=Margot) | N/A |
 | 12 | [Westminster](http://twitter.com/search?q=Westminster) | Westminster is a district in London, England, located to the west of the City of London. It is home to many of the city's most iconic landmarks, including Westminster Abbey, Buckingham Palace, and the Houses of Parliament. The term Westminster is often used to refer to the government of the United Kingdom as a whole. |
-| 13 | [Munster](http://twitter.com/search?q=Munster) | N/A |
-| 14 | [Parra](http://twitter.com/search?q=Parra) | N/A |
+| 13 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
+| 14 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
 | 15 | [Harry Grant](http://twitter.com/search?q=Harry+Grant) | N/A |
-| 16 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
-| 17 | [Nathan Lyon](http://twitter.com/search?q=Nathan+Lyon) | N/A |
-| 18 | [Moses](http://twitter.com/search?q=Moses) | N/A |
-| 19 | [Hodgson](http://twitter.com/search?q=Hodgson) | N/A |
-| 20 | [Bluesfest](http://twitter.com/search?q=Bluesfest) | N/A |
-| 21 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
-| 22 | [Christians](http://twitter.com/search?q=Christians) | N/A |
-| 23 | [Alex Murdaugh](http://twitter.com/search?q=Alex+Murdaugh) | N/A |
-| 24 | [Bolt](http://twitter.com/search?q=Bolt) | N/A |
-| 25 | [Hopgood](http://twitter.com/search?q=Hopgood) | N/A |
-| 26 | [Evelyn](http://twitter.com/search?q=Evelyn) | N/A |
-| 27 | [Golightly](http://twitter.com/search?q=Golightly) | N/A |
+| 16 | [Nathan Lyon](http://twitter.com/search?q=Nathan+Lyon) | N/A |
+| 17 | [Munster](http://twitter.com/search?q=Munster) | N/A |
+| 18 | [Parra](http://twitter.com/search?q=Parra) | N/A |
+| 19 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
+| 20 | [Moses](http://twitter.com/search?q=Moses) | N/A |
+| 21 | [Bluesfest](http://twitter.com/search?q=Bluesfest) | N/A |
+| 22 | [Bolt](http://twitter.com/search?q=Bolt) | N/A |
+| 23 | [Christians](http://twitter.com/search?q=Christians) | N/A |
+| 24 | [Hopgood](http://twitter.com/search?q=Hopgood) | N/A |
+| 25 | [Evelyn](http://twitter.com/search?q=Evelyn) | N/A |
+| 26 | [Hodgson](http://twitter.com/search?q=Hodgson) | N/A |
+| 27 | [Malcolm Turnbull](http://twitter.com/search?q=Malcolm+Turnbull) | N/A |
 | 28 | [Sticky Fingers](http://twitter.com/search?q=Sticky+Fingers) | N/A |
-| 29 | [jcole](http://twitter.com/search?q=jcole) | N/A |
-| 30 | [Speers](http://twitter.com/search?q=Speers) | N/A |
-| 31 | [Wilkinson](http://twitter.com/search?q=Wilkinson) | N/A |
-| 32 | [Ed Sheeran](http://twitter.com/search?q=Ed+Sheeran) | N/A |
-| 33 | [Australia Post](http://twitter.com/search?q=Australia+Post) | N/A |
-| 34 | [Mackenzie](http://twitter.com/search?q=Mackenzie) | N/A |
-| 35 | [Daily Quordle 403](http://twitter.com/search?q=Daily+Quordle+403) | N/A |
-| 36 | [Frogmore](http://twitter.com/search?q=Frogmore) | N/A |
-| 37 | [jhope](http://twitter.com/search?q=jhope) | N/A |
-| 38 | [Joel Wilson](http://twitter.com/search?q=Joel+Wilson) | N/A |
-| 39 | [Payne](http://twitter.com/search?q=Payne) | N/A |
-| 40 | [Mr Dutton](http://twitter.com/search?q=Mr+Dutton) | N/A |
-| 41 | [Morrison](http://twitter.com/search?q=Morrison) | N/A |
-| 42 | [Kochie](http://twitter.com/search?q=Kochie) | N/A |
-| 43 | [Sivo](http://twitter.com/search?q=Sivo) | N/A |
-| 44 | [Commissioner](http://twitter.com/search?q=Commissioner) | N/A |
-| 45 | [Pikamee](http://twitter.com/search?q=Pikamee) | N/A |
-| 46 | [International Women's Day](http://twitter.com/search?q=International+Women%27s+Day) | N/A |
-| 47 | [ashley klein](http://twitter.com/search?q=ashley+klein) | N/A |
-| 48 | [Murdoch](http://twitter.com/search?q=Murdoch) | N/A |
-| 49 | [Steve Smith](http://twitter.com/search?q=Steve+Smith) | Steve Smith is a common English name. It does not have any particular meaning in English. |
-| 50 | [Mohammed](http://twitter.com/search?q=Mohammed) | N/A |
+| 29 | [Ed Sheeran](http://twitter.com/search?q=Ed+Sheeran) | N/A |
+| 30 | [jcole](http://twitter.com/search?q=jcole) | N/A |
+| 31 | [Golightly](http://twitter.com/search?q=Golightly) | N/A |
+| 32 | [Speers](http://twitter.com/search?q=Speers) | N/A |
+| 33 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 34 | [Frogmore](http://twitter.com/search?q=Frogmore) | N/A |
+| 35 | [Mackenzie](http://twitter.com/search?q=Mackenzie) | N/A |
+| 36 | [Daily Quordle 403](http://twitter.com/search?q=Daily+Quordle+403) | N/A |
+| 37 | [Alex Murdaugh](http://twitter.com/search?q=Alex+Murdaugh) | N/A |
+| 38 | [Australia Post](http://twitter.com/search?q=Australia+Post) | N/A |
+| 39 | [jhope](http://twitter.com/search?q=jhope) | N/A |
+| 40 | [Joel Wilson](http://twitter.com/search?q=Joel+Wilson) | N/A |
+| 41 | [Payne](http://twitter.com/search?q=Payne) | N/A |
+| 42 | [Wilkinson](http://twitter.com/search?q=Wilkinson) | N/A |
+| 43 | [Morrison](http://twitter.com/search?q=Morrison) | N/A |
+| 44 | [International Women's Day](http://twitter.com/search?q=International+Women%27s+Day) | N/A |
+| 45 | [Sivo](http://twitter.com/search?q=Sivo) | N/A |
+| 46 | [Commissioner](http://twitter.com/search?q=Commissioner) | N/A |
+| 47 | [Mr Dutton](http://twitter.com/search?q=Mr+Dutton) | N/A |
+| 48 | [Minister](http://twitter.com/search?q=Minister) | N/A |
+| 49 | [ashley klein](http://twitter.com/search?q=ashley+klein) | N/A |
+| 50 | [Murdoch](http://twitter.com/search?q=Murdoch) | N/A |
 
 
 

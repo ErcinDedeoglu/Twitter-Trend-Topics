@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-03-03 02:08:57 UTC`
+📆 Last Updated: `2023-03-03 03:16:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -34,37 +34,37 @@ This is top 50 for [Latvia](</Latvia>)
 | 17 | [cēsu](http://twitter.com/search?q=c%c4%93su) | N/A |
 | 18 | [kādi](http://twitter.com/search?q=k%c4%81di) | N/A |
 | 19 | [somijā](http://twitter.com/search?q=somij%c4%81) | N/A |
-| 20 | [Kurā](http://twitter.com/search?q=Kur%c4%81) | N/A |
+| 20 | [kurā](http://twitter.com/search?q=kur%c4%81) | N/A |
 | 21 | [#teirdarbs](http://twitter.com/search?q=%23teirdarbs) | N/A |
-| 22 | [Nevaru](http://twitter.com/search?q=Nevaru) | N/A |
+| 22 | [nevaru](http://twitter.com/search?q=nevaru) | N/A |
 | 23 | [Telegram](http://twitter.com/search?q=Telegram) | N/A |
 | 24 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
-| 25 | [Nekas](http://twitter.com/search?q=Nekas) | N/A |
+| 25 | [nekas](http://twitter.com/search?q=nekas) | N/A |
 | 26 | [pmlp](http://twitter.com/search?q=pmlp) | N/A |
 | 27 | [saeimā](http://twitter.com/search?q=saeim%c4%81) | N/A |
-| 28 | [Pareizi](http://twitter.com/search?q=Pareizi) | N/A |
+| 28 | [pareizi](http://twitter.com/search?q=pareizi) | N/A |
 | 29 | [daudz](http://twitter.com/search?q=daudz) | N/A |
 | 30 | [latvenergo](http://twitter.com/search?q=latvenergo) | N/A |
 | 31 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
 | 32 | [francijas](http://twitter.com/search?q=francijas) | N/A |
 | 33 | [pieļauju](http://twitter.com/search?q=pie%c4%bcauju) | N/A |
 | 34 | [skaidrs](http://twitter.com/search?q=skaidrs) | N/A |
-| 35 | [Ja Tev](http://twitter.com/search?q=Ja+Tev) | N/A |
+| 35 | [ja tev](http://twitter.com/search?q=ja+tev) | N/A |
 | 36 | [eiropu](http://twitter.com/search?q=eiropu) | N/A |
 | 37 | [kādā](http://twitter.com/search?q=k%c4%81d%c4%81) | N/A |
 | 38 | [visiem](http://twitter.com/search?q=visiem) | N/A |
 | 39 | [ventspils](http://twitter.com/search?q=ventspils) | N/A |
 | 40 | [atceros](http://twitter.com/search?q=atceros) | N/A |
-| 41 | [kamēr](http://twitter.com/search?q=kam%c4%93r) | N/A |
-| 42 | [dzīvesbiedru](http://twitter.com/search?q=dz%c4%abvesbiedru) | N/A |
-| 43 | [Principā](http://twitter.com/search?q=Princip%c4%81) | N/A |
-| 44 | [jautājums](http://twitter.com/search?q=jaut%c4%81jums) | N/A |
-| 45 | [НАТО](http://twitter.com/search?q=%d0%9d%d0%90%d0%a2%d0%9e) | N/A |
-| 46 | [Paga](http://twitter.com/search?q=Paga) | N/A |
-| 47 | [ķīnas](http://twitter.com/search?q=%c4%b7%c4%abnas) | N/A |
-| 48 | [vācijā](http://twitter.com/search?q=v%c4%81cij%c4%81) | N/A |
-| 49 | [#colic](http://twitter.com/search?q=%23colic) | N/A |
-| 50 | [Apsveicu](http://twitter.com/search?q=Apsveicu) | N/A |
+| 41 | [dzīvesbiedru](http://twitter.com/search?q=dz%c4%abvesbiedru) | N/A |
+| 42 | [principā](http://twitter.com/search?q=princip%c4%81) | N/A |
+| 43 | [jautājums](http://twitter.com/search?q=jaut%c4%81jums) | N/A |
+| 44 | [нато](http://twitter.com/search?q=%d0%bd%d0%b0%d1%82%d0%be) | N/A |
+| 45 | [Paga](http://twitter.com/search?q=Paga) | N/A |
+| 46 | [ķīnas](http://twitter.com/search?q=%c4%b7%c4%abnas) | N/A |
+| 47 | [vācijā](http://twitter.com/search?q=v%c4%81cij%c4%81) | N/A |
+| 48 | [#colic](http://twitter.com/search?q=%23colic) | N/A |
+| 49 | [apsveicu](http://twitter.com/search?q=apsveicu) | N/A |
+| 50 | [tātad](http://twitter.com/search?q=t%c4%81tad) | N/A |
 
 
 

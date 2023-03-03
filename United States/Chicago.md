@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chicago
 
-📆 Last Updated: `2023-03-03 02:09:25 UTC`
+📆 Last Updated: `2023-03-03 03:16:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Michigan](http://twitter.com/search?q=Michigan) | Michigan is a state in the Midwestern United States. It is bordered by four of the five Great Lakes, and is the only state to be surrounded by three out of the five. Michigan is known for its diverse landscape, which includes forests, beaches, and rolling hills. The state's name comes from the Ojibwe word "mishigami," which means "large lake." |
-| 2 | [Alex Murdaugh](http://twitter.com/search?q=Alex+Murdaugh) | N/A |
-| 3 | [#WhyIChime](http://twitter.com/search?q=%23WhyIChime) | N/A |
-| 4 | [#Station19](http://twitter.com/search?q=%23Station19) | N/A |
-| 5 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
-| 6 | [Nolan Smith](http://twitter.com/search?q=Nolan+Smith) | N/A |
-| 7 | [Kobe Bufkin](http://twitter.com/search?q=Kobe+Bufkin) | N/A |
-| 8 | [Kyedae](http://twitter.com/search?q=Kyedae) | N/A |
-| 9 | [Petry](http://twitter.com/search?q=Petry) | N/A |
-| 10 | [Discover](http://twitter.com/search?q=Discover) | N/A |
-| 11 | [#Walker](http://twitter.com/search?q=%23Walker) | N/A |
-| 12 | [#WatchROH](http://twitter.com/search?q=%23WatchROH) | N/A |
-| 13 | [Maggie](http://twitter.com/search?q=Maggie) | N/A |
-| 14 | [Walgreens](http://twitter.com/search?q=Walgreens) | N/A |
-| 15 | [Stephen Smith](http://twitter.com/search?q=Stephen+Smith) | N/A |
-| 16 | [Orlov](http://twitter.com/search?q=Orlov) | N/A |
-| 17 | [Brassard](http://twitter.com/search?q=Brassard) | N/A |
-| 18 | [Red Ruby](http://twitter.com/search?q=Red+Ruby) | N/A |
-| 19 | [#mnwildfirst](http://twitter.com/search?q=%23mnwildfirst) | N/A |
-| 20 | [Metroid Fusion](http://twitter.com/search?q=Metroid+Fusion) | N/A |
-| 21 | [REAL GAMERS DRINK GAMER SUPPS](http://twitter.com/search?q=REAL+GAMERS+DRINK+GAMER+SUPPS) | N/A |
-| 22 | [Luka and Kyrie](http://twitter.com/search?q=Luka+and+Kyrie) | Luka and Kyrie is a phrase used to refer to the two NBA superstars, Luka Doncic and Kyrie Irving. The phrase is often used to describe the duo's incredible talent and potential as basketball players. |
-| 23 | [Hershey](http://twitter.com/search?q=Hershey) | N/A |
-| 24 | [Tarasenko](http://twitter.com/search?q=Tarasenko) | N/A |
-| 25 | [Jett](http://twitter.com/search?q=Jett) | N/A |
-| 26 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
-| 27 | [Shingles](http://twitter.com/search?q=Shingles) | N/A |
-| 28 | [Motte](http://twitter.com/search?q=Motte) | N/A |
-| 29 | [PNC Bank](http://twitter.com/search?q=PNC+Bank) | N/A |
-| 30 | [Kyrie and Luka](http://twitter.com/search?q=Kyrie+and+Luka) | Kyrie and Luka is a reference to Kyrie Irving and Luka Doncic, two of the most talented basketball players in the NBA. The phrase is often used to refer to the potential of the two players when they are on the court together. In English, it means "the potential of Kyrie Irving and Luka Doncic when they are playing together." |
-| 31 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 32 | [Tornado](http://twitter.com/search?q=Tornado) | N/A |
-| 33 | [Austin Watson](http://twitter.com/search?q=Austin+Watson) | N/A |
-| 34 | [Fanfest](http://twitter.com/search?q=Fanfest) | N/A |
-| 35 | [North Texas](http://twitter.com/search?q=North+Texas) | N/A |
-| 36 | [Zero Mission](http://twitter.com/search?q=Zero+Mission) | N/A |
-| 37 | [Letang](http://twitter.com/search?q=Letang) | Letang is a surname of French origin. It is derived from the Old French word "letang" which means "marshy meadow". In English, it can be translated to mean "marshy meadow". |
-| 38 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
-| 39 | [OJ Simpson](http://twitter.com/search?q=OJ+Simpson) | N/A |
-| 40 | [Jake Walman](http://twitter.com/search?q=Jake+Walman) | N/A |
-| 41 | [Joseline](http://twitter.com/search?q=Joseline) | N/A |
-| 42 | [Jury](http://twitter.com/search?q=Jury) | N/A |
-| 43 | [Ty Rodgers](http://twitter.com/search?q=Ty+Rodgers) | N/A |
-| 44 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
-| 45 | [Kuzma](http://twitter.com/search?q=Kuzma) | Kuzma is a Slavic name derived from the Greek name Konstantinos, meaning "constant" or "steadfast". It is also a popular Russian surname. |
-| 46 | [Judge Newman](http://twitter.com/search?q=Judge+Newman) | N/A |
-| 47 | [George Hill](http://twitter.com/search?q=George+Hill) | N/A |
-| 48 | [Trouba](http://twitter.com/search?q=Trouba) | Trouba is a Czech word meaning "trouble" or "difficulty". It is often used to describe a situation that is difficult or challenging. |
-| 49 | [80 MPH](http://twitter.com/search?q=80+MPH) | N/A |
-| 50 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
+| 1 | [Mayer](http://twitter.com/search?q=Mayer) | N/A |
+| 2 | [Big Ten](http://twitter.com/search?q=Big+Ten) | N/A |
+| 3 | [Shannon](http://twitter.com/search?q=Shannon) | Shannon is a unisex name of Irish origin. It is derived from the Gaelic word "seanachaidh" which means "wise one". The name is often used as a given name for both boys and girls. |
+| 4 | [Dallas](http://twitter.com/search?q=Dallas) | Dallas is a city in the U.S. state of Texas. It is the ninth most populous city in the United States and the third-largest in Texas after Houston and San Antonio. The city's population ranks ninth in the U.S. and third in Texas after Houston and San Antonio. Dallas is known for its oil, telecommunications, banking, technology, healthcare, defense, transportation, and commerce industries. |
+| 5 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
+| 6 | [Domi](http://twitter.com/search?q=Domi) | Domi is a Japanese term that means "dominance" or "dominant." It is often used to describe someone who is strong, powerful, and in control. |
+| 7 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
+| 8 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 9 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 10 | [Alex Murdaugh](http://twitter.com/search?q=Alex+Murdaugh) | N/A |
+| 11 | [Maxey](http://twitter.com/search?q=Maxey) | Maxey is a surname of English origin. It is derived from the Old English personal name Maccus, which was a diminutive form of Matthew. The meaning of Maxey in English is "son of Maccus". |
+| 12 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
+| 13 | [Michigan](http://twitter.com/search?q=Michigan) | Michigan is a state in the Midwestern United States. It is bordered by four of the five Great Lakes, and is the only state to be surrounded by three out of the five. Michigan is known for its diverse landscape, which includes forests, beaches, and rolling hills. The state's name comes from the Ojibwe word "mishigami," which means "large lake." |
+| 14 | [#WhyIChime](http://twitter.com/search?q=%23WhyIChime) | N/A |
+| 15 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
+| 16 | [Joey Baker](http://twitter.com/search?q=Joey+Baker) | N/A |
+| 17 | [#MFFL](http://twitter.com/search?q=%23MFFL) | #MFFL stands for "Mavs Fan For Life" and is used by fans of the Dallas Mavericks NBA basketball team to show their loyalty and support. |
+| 18 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 19 | [Buster](http://twitter.com/search?q=Buster) | N/A |
+| 20 | [#CriticalRoleSpoilers](http://twitter.com/search?q=%23CriticalRoleSpoilers) | #CriticalRoleSpoilers is a hashtag used on social media to warn people that a post contains spoilers for the popular Dungeons & Dragons web series Critical Role. It is used to alert viewers who have not yet seen the episode or read the source material that the post contains information that could spoil their experience. |
+| 21 | [Walgreens](http://twitter.com/search?q=Walgreens) | N/A |
+| 22 | [#Station19](http://twitter.com/search?q=%23Station19) | N/A |
+| 23 | [Discover](http://twitter.com/search?q=Discover) | N/A |
+| 24 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
+| 25 | [#LetsGoPens](http://twitter.com/search?q=%23LetsGoPens) | #LetsGoPens is a hashtag used by fans of the Pittsburgh Penguins, a professional ice hockey team based in Pittsburgh, Pennsylvania. It is used to show support for the team and to encourage them to victory. |
+| 26 | [Mavericks](http://twitter.com/search?q=Mavericks) | Mavericks is a term used to describe an independent-minded person who does not conform to the norms of society. It is often used to describe someone who is willing to take risks and challenge the status quo. |
+| 27 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
+| 28 | [Antoine Davis](http://twitter.com/search?q=Antoine+Davis) | N/A |
+| 29 | [Nolan Smith](http://twitter.com/search?q=Nolan+Smith) | N/A |
+| 30 | [Zucker](http://twitter.com/search?q=Zucker) | N/A |
+| 31 | [Kobe Bufkin](http://twitter.com/search?q=Kobe+Bufkin) | N/A |
+| 32 | [Kyedae](http://twitter.com/search?q=Kyedae) | N/A |
+| 33 | [Jett](http://twitter.com/search?q=Jett) | N/A |
+| 34 | [Stephen Smith](http://twitter.com/search?q=Stephen+Smith) | N/A |
+| 35 | [Maggie](http://twitter.com/search?q=Maggie) | N/A |
+| 36 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
+| 37 | [Doc Rivers](http://twitter.com/search?q=Doc+Rivers) | N/A |
+| 38 | [Detroit Mercy](http://twitter.com/search?q=Detroit+Mercy) | N/A |
+| 39 | [Isaac Lindsey](http://twitter.com/search?q=Isaac+Lindsey) | N/A |
+| 40 | [Petry](http://twitter.com/search?q=Petry) | N/A |
+| 41 | [Metroid Fusion](http://twitter.com/search?q=Metroid+Fusion) | N/A |
+| 42 | [Red Ruby](http://twitter.com/search?q=Red+Ruby) | N/A |
+| 43 | [Halak](http://twitter.com/search?q=Halak) | N/A |
+| 44 | [PNC Bank](http://twitter.com/search?q=PNC+Bank) | N/A |
+| 45 | [Hershey](http://twitter.com/search?q=Hershey) | N/A |
+| 46 | [Jalen McDaniels](http://twitter.com/search?q=Jalen+McDaniels) | N/A |
+| 47 | [Brassard](http://twitter.com/search?q=Brassard) | N/A |
+| 48 | [REAL GAMERS DRINK GAMER SUPPS](http://twitter.com/search?q=REAL+GAMERS+DRINK+GAMER+SUPPS) | N/A |
+| 49 | [Orlov](http://twitter.com/search?q=Orlov) | N/A |
+| 50 | [Niang](http://twitter.com/search?q=Niang) | Niang is a Chinese term of endearment that is used to refer to one's mother. It is similar to the English term "Mom" or "Mama". |
 
 
 

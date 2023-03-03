@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sweden
 
-📆 Last Updated: `2023-03-03 02:09:43 UTC`
+📆 Last Updated: `2023-03-03 03:16:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,39 +21,39 @@ This is top 50 for Sweden
 | 4 | [Gardell](http://twitter.com/search?q=Gardell) | N/A |
 | 5 | [guldspaden](http://twitter.com/search?q=guldspaden) | N/A |
 | 6 | [Frida](http://twitter.com/search?q=Frida) | N/A |
-| 7 | [Småland](http://twitter.com/search?q=Sm%c3%a5land) | N/A |
+| 7 | [småland](http://twitter.com/search?q=sm%c3%a5land) | N/A |
 | 8 | [Ungern](http://twitter.com/search?q=Ungern) | N/A |
 | 9 | [Allahu Akbar](http://twitter.com/search?q=Allahu+Akbar) | N/A |
 | 10 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 11 | [Brynäs](http://twitter.com/search?q=Bryn%c3%a4s) | N/A |
-| 12 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 13 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
-| 14 | [Einar](http://twitter.com/search?q=Einar) | N/A |
-| 15 | [#vardagpåminplanet](http://twitter.com/search?q=%23vardagp%c3%a5minplanet) | N/A |
-| 16 | [Lagrådet](http://twitter.com/search?q=Lagr%c3%a5det) | N/A |
-| 17 | [ortio](http://twitter.com/search?q=ortio) | N/A |
-| 18 | [Maja](http://twitter.com/search?q=Maja) | N/A |
-| 19 | [leksand](http://twitter.com/search?q=leksand) | N/A |
-| 20 | [peje emilsson](http://twitter.com/search?q=peje+emilsson) | N/A |
-| 21 | [#hv71](http://twitter.com/search?q=%23hv71) | N/A |
-| 22 | [fössta](http://twitter.com/search?q=f%c3%b6ssta) | N/A |
-| 23 | [#skidvm](http://twitter.com/search?q=%23skidvm) | N/A |
-| 24 | [hildeby](http://twitter.com/search?q=hildeby) | N/A |
-| 25 | [Venus](http://twitter.com/search?q=Venus) | N/A |
-| 26 | [#ElClasico](http://twitter.com/search?q=%23ElClasico) | #ElClasico is a term used to refer to the football (soccer) match between two of the biggest clubs in Spain, Real Madrid and FC Barcelona. It is one of the most highly anticipated matches in world football and is considered to be one of the greatest rivalries in sport. In English, it translates to "The Classic". |
-| 27 | [kunskapsskolan](http://twitter.com/search?q=kunskapsskolan) | N/A |
-| 28 | [letar](http://twitter.com/search?q=letar) | N/A |
-| 29 | [Farsta](http://twitter.com/search?q=Farsta) | N/A |
-| 30 | [bolund](http://twitter.com/search?q=bolund) | N/A |
-| 31 | [Cola Zero](http://twitter.com/search?q=Cola+Zero) | N/A |
+| 11 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 12 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
+| 13 | [Einar](http://twitter.com/search?q=Einar) | N/A |
+| 14 | [#vardagpåminplanet](http://twitter.com/search?q=%23vardagp%c3%a5minplanet) | N/A |
+| 15 | [ortio](http://twitter.com/search?q=ortio) | N/A |
+| 16 | [Maja](http://twitter.com/search?q=Maja) | N/A |
+| 17 | [leksand](http://twitter.com/search?q=leksand) | N/A |
+| 18 | [peje emilsson](http://twitter.com/search?q=peje+emilsson) | N/A |
+| 19 | [fössta](http://twitter.com/search?q=f%c3%b6ssta) | N/A |
+| 20 | [#skidvm](http://twitter.com/search?q=%23skidvm) | N/A |
+| 21 | [Lagrådet](http://twitter.com/search?q=Lagr%c3%a5det) | N/A |
+| 22 | [hildeby](http://twitter.com/search?q=hildeby) | N/A |
+| 23 | [Brynäs](http://twitter.com/search?q=Bryn%c3%a4s) | N/A |
+| 24 | [Venus](http://twitter.com/search?q=Venus) | N/A |
+| 25 | [#ElClasico](http://twitter.com/search?q=%23ElClasico) | #ElClasico is a term used to refer to the football (soccer) match between two of the biggest clubs in Spain, Real Madrid and FC Barcelona. It is one of the most highly anticipated matches in world football and is considered to be one of the greatest rivalries in sport. In English, it translates to "The Classic". |
+| 26 | [kunskapsskolan](http://twitter.com/search?q=kunskapsskolan) | N/A |
+| 27 | [letar](http://twitter.com/search?q=letar) | N/A |
+| 28 | [farsta](http://twitter.com/search?q=farsta) | N/A |
+| 29 | [bolund](http://twitter.com/search?q=bolund) | N/A |
+| 30 | [Cola Zero](http://twitter.com/search?q=Cola+Zero) | N/A |
+| 31 | [#hv71](http://twitter.com/search?q=%23hv71) | N/A |
 | 32 | [bregott](http://twitter.com/search?q=bregott) | N/A |
 | 33 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
 | 34 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
 | 35 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 36 | [Färjestad](http://twitter.com/search?q=F%c3%a4rjestad) | N/A |
+| 36 | [färjestad](http://twitter.com/search?q=f%c3%a4rjestad) | N/A |
 | 37 | [eskilstuna](http://twitter.com/search?q=eskilstuna) | N/A |
 | 38 | [Larsson](http://twitter.com/search?q=Larsson) | N/A |
-| 39 | [F-gränsen](http://twitter.com/search?q=F-gr%c3%a4nsen) | N/A |
+| 39 | [f-gränsen](http://twitter.com/search?q=f-gr%c3%a4nsen) | N/A |
 | 40 | [Orban](http://twitter.com/search?q=Orban) | N/A |
 | 41 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
 | 42 | [#timraik](http://twitter.com/search?q=%23timraik) | N/A |

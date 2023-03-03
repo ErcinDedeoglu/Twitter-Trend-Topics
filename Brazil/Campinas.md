@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Campinas
 
-📆 Last Updated: `2023-03-03 02:08:46 UTC`
+📆 Last Updated: `2023-03-03 03:16:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Reinaldo Azevedo](http://twitter.com/search?q=Reinaldo+Azevedo) | N/A |
-| 2 | [ONDE TU VAI SENTAR](http://twitter.com/search?q=ONDE+TU+VAI+SENTAR) | N/A |
-| 3 | [Teenage Dream](http://twitter.com/search?q=Teenage+Dream) | N/A |
-| 4 | [#MelevaATL](http://twitter.com/search?q=%23MelevaATL) | N/A |
-| 5 | [Bela](http://twitter.com/search?q=Bela) | N/A |
-| 6 | [#goLOUD](http://twitter.com/search?q=%23goLOUD) | N/A |
-| 7 | [sam claflin](http://twitter.com/search?q=sam+claflin) | N/A |
-| 8 | [Chuck](http://twitter.com/search?q=Chuck) | N/A |
-| 9 | [Ansu Fati](http://twitter.com/search?q=Ansu+Fati) | Ansu Fati is the nickname of a Spanish professional footballer, Anssumane Fati. He currently plays for FC Barcelona and the Spanish national team. The name Ansu Fati is derived from his given name, Anssumane, which means "God's gift" in the West African language of Bambara. In English, Ansu Fati translates to "God's Gift". |
-| 10 | [#RevogaJaNovoEnsinoMedio](http://twitter.com/search?q=%23RevogaJaNovoEnsinoMedio) | N/A |
-| 11 | [Joanne](http://twitter.com/search?q=Joanne) | N/A |
-| 12 | [Lumiar](http://twitter.com/search?q=Lumiar) | N/A |
-| 13 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
-| 14 | [Araújo](http://twitter.com/search?q=Ara%c3%bajo) | N/A |
-| 15 | [Chay](http://twitter.com/search?q=Chay) | N/A |
-| 16 | [DORI](http://twitter.com/search?q=DORI) | N/A |
-| 17 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
-| 18 | [Petrobras](http://twitter.com/search?q=Petrobras) | N/A |
-| 19 | [Cigarro](http://twitter.com/search?q=Cigarro) | N/A |
-| 20 | [De Jong](http://twitter.com/search?q=De+Jong) | De Jong is a Dutch surname. It is derived from the personal name Jan, which is a form of John. The literal meaning of the name in English is "son of John". |
-| 21 | [yuta](http://twitter.com/search?q=yuta) | Yuta is a Japanese name that means "abundant" or "bountiful". It can also be used as a surname. |
-| 22 | [Militão](http://twitter.com/search?q=Milit%c3%a3o) | N/A |
-| 23 | [Manu](http://twitter.com/search?q=Manu) | N/A |
-| 24 | [Valorant](http://twitter.com/search?q=Valorant) | N/A |
-| 25 | [Aspas](http://twitter.com/search?q=Aspas) | Aspas is a Spanish word meaning quotation marks or inverted commas. It is used to indicate direct speech or to set off a phrase or word for emphasis. |
-| 26 | [FAÇA O L IMEDIATAMENTE](http://twitter.com/search?q=FA%c3%87A+O+L+IMEDIATAMENTE) | N/A |
-| 27 | [Dida](http://twitter.com/search?q=Dida) | N/A |
-| 28 | [Steam](http://twitter.com/search?q=Steam) | N/A |
-| 29 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 30 | [Cafu](http://twitter.com/search?q=Cafu) | N/A |
-| 31 | [Imperial](http://twitter.com/search?q=Imperial) | N/A |
-| 32 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
-| 33 | [Boca Rosa](http://twitter.com/search?q=Boca+Rosa) | Boca Rosa is a Spanish phrase meaning "pink mouth". It is often used to describe someone who has a pinkish hue to their lips. |
-| 34 | [Suzano](http://twitter.com/search?q=Suzano) | N/A |
-| 35 | [Sergipe](http://twitter.com/search?q=Sergipe) | N/A |
-| 36 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
-| 37 | [Bráulio](http://twitter.com/search?q=Br%c3%a1ulio) | N/A |
-| 38 | [Luis Castro](http://twitter.com/search?q=Luis+Castro) | N/A |
+| 1 | [76ers](http://twitter.com/search?q=76ers) | 76ers is the nickname of the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The team was originally founded in 1946 as the Syracuse Nationals and changed its name to the 76ers in 1963. The name "76ers" is a reference to the year 1776, when the Declaration of Independence was signed in Philadelphia. |
+| 2 | [Reinaldo Azevedo](http://twitter.com/search?q=Reinaldo+Azevedo) | N/A |
+| 3 | [Fogão](http://twitter.com/search?q=Fog%c3%a3o) | N/A |
+| 4 | [Bela](http://twitter.com/search?q=Bela) | N/A |
+| 5 | [Lapso](http://twitter.com/search?q=Lapso) | N/A |
+| 6 | [Chuck](http://twitter.com/search?q=Chuck) | N/A |
+| 7 | [#MelevaATL](http://twitter.com/search?q=%23MelevaATL) | N/A |
+| 8 | [Warren](http://twitter.com/search?q=Warren) | Warren is an English surname derived from the Old French word "warenne," meaning "game park" or "enclosure." It is also a given name, usually a masculine one, derived from the surname. |
+| 9 | [ONDE TU VAI SENTAR](http://twitter.com/search?q=ONDE+TU+VAI+SENTAR) | N/A |
+| 10 | [Planta](http://twitter.com/search?q=Planta) | N/A |
+| 11 | [Sampaio](http://twitter.com/search?q=Sampaio) | N/A |
+| 12 | [LOUD](http://twitter.com/search?q=LOUD) | N/A |
+| 13 | [#RevogaJaNovoEnsinoMedio](http://twitter.com/search?q=%23RevogaJaNovoEnsinoMedio) | N/A |
+| 14 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 15 | [Creed 3](http://twitter.com/search?q=Creed+3) | N/A |
+| 16 | [Chiara](http://twitter.com/search?q=Chiara) | N/A |
+| 17 | [Magic](http://twitter.com/search?q=Magic) | N/A |
+| 18 | [#CPNMobile](http://twitter.com/search?q=%23CPNMobile) | N/A |
+| 19 | [Joanne](http://twitter.com/search?q=Joanne) | N/A |
+| 20 | [Chay](http://twitter.com/search?q=Chay) | N/A |
+| 21 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 22 | [on the street](http://twitter.com/search?q=on+the+street) | N/A |
+| 23 | [yuta](http://twitter.com/search?q=yuta) | Yuta is a Japanese name that means "abundant" or "bountiful". It can also be used as a surname. |
+| 24 | [Cigarro](http://twitter.com/search?q=Cigarro) | N/A |
+| 25 | [Kali](http://twitter.com/search?q=Kali) | N/A |
+| 26 | [Jong](http://twitter.com/search?q=Jong) | N/A |
+| 27 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 28 | [Lumiar](http://twitter.com/search?q=Lumiar) | N/A |
+| 29 | [Militão](http://twitter.com/search?q=Milit%c3%a3o) | N/A |
+| 30 | [Manu](http://twitter.com/search?q=Manu) | N/A |
+| 31 | [FAÇA O L IMEDIATAMENTE](http://twitter.com/search?q=FA%c3%87A+O+L+IMEDIATAMENTE) | N/A |
+| 32 | [Dida](http://twitter.com/search?q=Dida) | N/A |
+| 33 | [#LuladraoDesgracaEDestruicao](http://twitter.com/search?q=%23LuladraoDesgracaEDestruicao) | N/A |
+| 34 | [Cafu](http://twitter.com/search?q=Cafu) | N/A |
+| 35 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
+| 36 | [Sergipe](http://twitter.com/search?q=Sergipe) | N/A |
+| 37 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 38 | [Bráulio](http://twitter.com/search?q=Br%c3%a1ulio) | N/A |
 | 39 | [Fortaleza](http://twitter.com/search?q=Fortaleza) | Fortaleza is a city in Brazil and it means "fortress" in English. It is the capital of the state of Ceará and is known for its beautiful beaches, colonial architecture, and vibrant culture. |
-| 40 | [Matheus Nascimento](http://twitter.com/search?q=Matheus+Nascimento) | N/A |
-| 41 | [Marçal](http://twitter.com/search?q=Mar%c3%a7al) | N/A |
-| 42 | [Roubado](http://twitter.com/search?q=Roubado) | N/A |
-| 43 | [Mulan](http://twitter.com/search?q=Mulan) | N/A |
-| 44 | [Copa do Brasil](http://twitter.com/search?q=Copa+do+Brasil) | N/A |
-| 45 | [Juiz](http://twitter.com/search?q=Juiz) | N/A |
-| 46 | [Lucero](http://twitter.com/search?q=Lucero) | N/A |
-| 47 | [Apanhou](http://twitter.com/search?q=Apanhou) | N/A |
-| 48 | [Vergonhoso](http://twitter.com/search?q=Vergonhoso) | N/A |
-| 49 | [Dandan](http://twitter.com/search?q=Dandan) | N/A |
+| 40 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
+| 41 | [Dangerous Woman](http://twitter.com/search?q=Dangerous+Woman) | N/A |
+| 42 | [Mulan](http://twitter.com/search?q=Mulan) | N/A |
+| 43 | [Luis Castro](http://twitter.com/search?q=Luis+Castro) | N/A |
+| 44 | [Feliz Natal](http://twitter.com/search?q=Feliz+Natal) | Feliz Natal is a Portuguese phrase meaning "Merry Christmas". It is commonly used in Brazil and other Portuguese-speaking countries during the holiday season. |
+| 45 | [STILL ALIVE OUT NOW](http://twitter.com/search?q=STILL+ALIVE+OUT+NOW) | N/A |
+| 46 | [Yours Truly](http://twitter.com/search?q=Yours+Truly) | N/A |
+| 47 | [My Everything](http://twitter.com/search?q=My+Everything) | N/A |
+| 48 | [Doncic](http://twitter.com/search?q=Doncic) | Doncic is the surname of Slovenian professional basketball player Luka Doncic. In English, it is pronounced "DOHN-chich". |
+| 49 | [Matheus Nascimento](http://twitter.com/search?q=Matheus+Nascimento) | N/A |
 
 
 
