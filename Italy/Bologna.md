@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bologna
 
-📆 Last Updated: `2023-03-03 11:17:54 UTC`
+📆 Last Updated: `2023-03-03 12:19:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Italy](</Italy>)
 | ------- | ------------ | ------------ |
 | 1 | [#incorvassi](http://twitter.com/search?q=%23incorvassi) | N/A |
 | 2 | [#MasterChefIt](http://twitter.com/search?q=%23MasterChefIt) | #MasterChefIt is an Italian hashtag used to promote the popular cooking show MasterChef Italia. It is used to share recipes, photos, and videos related to the show. In English, it means "MasterChef Italy". |
-| 3 | [#3marzo](http://twitter.com/search?q=%233marzo) | N/A |
-| 4 | [Sonia](http://twitter.com/search?q=Sonia) | Sonia is a female given name of Latin origin, derived from the Greek word for "wisdom". It is a popular name in many countries, including India, Italy, France, Spain, and the United States. In English, it is usually pronounced "so-NEE-ah". |
-| 5 | [#gfvip](http://twitter.com/search?q=%23gfvip) | #GFVIP stands for "Good Friends Very Important Person" and is used to refer to someone who is a close friend or an important person in one's life. |
+| 3 | [#3Marzo](http://twitter.com/search?q=%233Marzo) | N/A |
+| 4 | [#gfvip](http://twitter.com/search?q=%23gfvip) | #GFVIP stands for "Good Friends Very Important Person" and is used to refer to someone who is a close friend or an important person in one's life. |
+| 5 | [Sonia](http://twitter.com/search?q=Sonia) | Sonia is a female given name of Latin origin, derived from the Greek word for "wisdom". It is a popular name in many countries, including India, Italy, France, Spain, and the United States. In English, it is usually pronounced "so-NEE-ah". |
 | 6 | [Tavassi](http://twitter.com/search?q=Tavassi) | N/A |
 | 7 | [Crotone](http://twitter.com/search?q=Crotone) | N/A |
 | 8 | [Bergamo](http://twitter.com/search?q=Bergamo) | N/A |
-| 9 | [Bubu](http://twitter.com/search?q=Bubu) | N/A |
-| 10 | [Speranza](http://twitter.com/search?q=Speranza) | N/A |
-| 11 | [Fontana](http://twitter.com/search?q=Fontana) | N/A |
-| 12 | [Grazie Presidente](http://twitter.com/search?q=Grazie+Presidente) | N/A |
-| 13 | [Guardia Costiera](http://twitter.com/search?q=Guardia+Costiera) | N/A |
-| 14 | [Feltri](http://twitter.com/search?q=Feltri) | N/A |
-| 15 | [Ivana](http://twitter.com/search?q=Ivana) | Ivana is a Slavic female name derived from the Hebrew name Yohanan, meaning "God is gracious". It is also a variant of the name Ivana, which is derived from the Latin name Johannes. |
-| 16 | [Alfonso](http://twitter.com/search?q=Alfonso) | Alfonso is a Spanish name derived from the Germanic name Adalfuns, which means "noble and ready". It is also the name of several Spanish kings. |
-| 17 | [Grosseto](http://twitter.com/search?q=Grosseto) | N/A |
+| 9 | [Guardia Costiera](http://twitter.com/search?q=Guardia+Costiera) | N/A |
+| 10 | [Heaven](http://twitter.com/search?q=Heaven) | N/A |
+| 11 | [Bubu](http://twitter.com/search?q=Bubu) | N/A |
+| 12 | [Speranza](http://twitter.com/search?q=Speranza) | N/A |
+| 13 | [Fontana](http://twitter.com/search?q=Fontana) | N/A |
+| 14 | [Grazie Presidente](http://twitter.com/search?q=Grazie+Presidente) | N/A |
+| 15 | [feltri](http://twitter.com/search?q=feltri) | N/A |
+| 16 | [Ivana](http://twitter.com/search?q=Ivana) | Ivana is a Slavic female name derived from the Hebrew name Yohanan, meaning "God is gracious". It is also a variant of the name Ivana, which is derived from the Latin name Johannes. |
+| 17 | [Faraoni](http://twitter.com/search?q=Faraoni) | N/A |
 | 18 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
-| 19 | [Scacciapensieri](http://twitter.com/search?q=Scacciapensieri) | N/A |
-| 20 | [Grecia](http://twitter.com/search?q=Grecia) | N/A |
-| 21 | [Edoardo](http://twitter.com/search?q=Edoardo) | Edoardo is an Italian name derived from the Germanic name Edward, which means "wealthy guardian". It is a popular name in Italy and other parts of Europe. |
-| 22 | [Piantedosi](http://twitter.com/search?q=Piantedosi) | N/A |
-| 23 | [Lavinia](http://twitter.com/search?q=Lavinia) | Lavinia is a female given name of Latin origin, derived from the Roman family name Laviniu. It is thought to mean "purity" or "cleanliness". |
-| 24 | [Lombardo](http://twitter.com/search?q=Lombardo) | N/A |
-| 25 | [Mimmo](http://twitter.com/search?q=Mimmo) | N/A |
-| 26 | [vico equense](http://twitter.com/search?q=vico+equense) | N/A |
-| 27 | [Michela](http://twitter.com/search?q=Michela) | N/A |
-| 28 | [la mia cognata](http://twitter.com/search?q=la+mia+cognata) | N/A |
-| 29 | [Piton](http://twitter.com/search?q=Piton) | Piton is a French word that refers to a metal spike or peg used in mountaineering. It is driven into the rock face to provide an anchor point for a rope or other climbing equipment. In English, it is commonly referred to as a piton or piton spike. |
-| 30 | [Gandhi](http://twitter.com/search?q=Gandhi) | N/A |
-| 31 | [Davide](http://twitter.com/search?q=Davide) | N/A |
-| 32 | [Donnamaria](http://twitter.com/search?q=Donnamaria) | N/A |
-| 33 | [Martina](http://twitter.com/search?q=Martina) | Martina is a female given name of Latin origin, derived from the name Martinus, which means "of Mars". It is a popular name in many countries, including Italy, Spain, Germany, Austria, and the Czech Republic. In English-speaking countries, it is often used as a short form of the longer name Martina. |
-| 34 | [corinna](http://twitter.com/search?q=corinna) | N/A |
-| 35 | [Porro](http://twitter.com/search?q=Porro) | N/A |
-| 36 | [Rozzano](http://twitter.com/search?q=Rozzano) | N/A |
-| 37 | [Bryansk](http://twitter.com/search?q=Bryansk) | N/A |
-| 38 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
-| 39 | [Rosalia](http://twitter.com/search?q=Rosalia) | N/A |
-| 40 | [vedrai quando esci](http://twitter.com/search?q=vedrai+quando+esci) | N/A |
-| 41 | [Barbieri](http://twitter.com/search?q=Barbieri) | Barbieri is an Italian surname. It is derived from the Latin word "barba", meaning "beard". The name is thought to have been given to someone who had a particularly thick or long beard. In English, the name Barbieri means "bearded one". |
-| 42 | [TODAY IS THE DAY](http://twitter.com/search?q=TODAY+IS+THE+DAY) | N/A |
-| 43 | [Clio](http://twitter.com/search?q=Clio) | N/A |
-| 44 | [Venere](http://twitter.com/search?q=Venere) | N/A |
-| 45 | [Zico](http://twitter.com/search?q=Zico) | N/A |
-| 46 | [Tachipirina](http://twitter.com/search?q=Tachipirina) | N/A |
-| 47 | [Daniele](http://twitter.com/search?q=Daniele) | N/A |
-| 48 | [Toscani](http://twitter.com/search?q=Toscani) | N/A |
-| 49 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
+| 19 | [Lombardo](http://twitter.com/search?q=Lombardo) | N/A |
+| 20 | [Grosseto](http://twitter.com/search?q=Grosseto) | N/A |
+| 21 | [scacciapensieri](http://twitter.com/search?q=scacciapensieri) | N/A |
+| 22 | [Alfonso](http://twitter.com/search?q=Alfonso) | Alfonso is a Spanish name derived from the Germanic name Adalfuns, which means "noble and ready". It is also the name of several Spanish kings. |
+| 23 | [Grecia](http://twitter.com/search?q=Grecia) | N/A |
+| 24 | [Piantedosi](http://twitter.com/search?q=Piantedosi) | N/A |
+| 25 | [Adani](http://twitter.com/search?q=Adani) | Adani is a multinational conglomerate based in India. It is involved in the development and operation of infrastructure projects such as ports, power plants, and mines. The name Adani is derived from the Sanskrit word "Adan," which means "the beginning." |
+| 26 | [Lavinia](http://twitter.com/search?q=Lavinia) | Lavinia is a female given name of Latin origin, derived from the Roman family name Laviniu. It is thought to mean "purity" or "cleanliness". |
+| 27 | [Gandhi](http://twitter.com/search?q=Gandhi) | N/A |
+| 28 | [Edoardo](http://twitter.com/search?q=Edoardo) | Edoardo is an Italian name derived from the Germanic name Edward, which means "wealthy guardian". It is a popular name in Italy and other parts of Europe. |
+| 29 | [Mimmo](http://twitter.com/search?q=Mimmo) | N/A |
+| 30 | [vico equense](http://twitter.com/search?q=vico+equense) | N/A |
+| 31 | [la mia cognata](http://twitter.com/search?q=la+mia+cognata) | N/A |
+| 32 | [Piton](http://twitter.com/search?q=Piton) | Piton is a French word that refers to a metal spike or peg used in mountaineering. It is driven into the rock face to provide an anchor point for a rope or other climbing equipment. In English, it is commonly referred to as a piton or piton spike. |
+| 33 | [Michela](http://twitter.com/search?q=Michela) | N/A |
+| 34 | [Martina](http://twitter.com/search?q=Martina) | Martina is a female given name of Latin origin, derived from the name Martinus, which means "of Mars". It is a popular name in many countries, including Italy, Spain, Germany, Austria, and the Czech Republic. In English-speaking countries, it is often used as a short form of the longer name Martina. |
+| 35 | [Corinna](http://twitter.com/search?q=Corinna) | N/A |
+| 36 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
+| 37 | [Rozzano](http://twitter.com/search?q=Rozzano) | N/A |
+| 38 | [vedrai quando esci](http://twitter.com/search?q=vedrai+quando+esci) | N/A |
+| 39 | [Clio](http://twitter.com/search?q=Clio) | N/A |
+| 40 | [Rosalia](http://twitter.com/search?q=Rosalia) | N/A |
+| 41 | [Bryansk](http://twitter.com/search?q=Bryansk) | N/A |
+| 42 | [Davide](http://twitter.com/search?q=Davide) | N/A |
+| 43 | [Donnamaria](http://twitter.com/search?q=Donnamaria) | N/A |
+| 44 | [Tachipirina](http://twitter.com/search?q=Tachipirina) | N/A |
+| 45 | [Barbieri](http://twitter.com/search?q=Barbieri) | Barbieri is an Italian surname. It is derived from the Latin word "barba", meaning "beard". The name is thought to have been given to someone who had a particularly thick or long beard. In English, the name Barbieri means "bearded one". |
+| 46 | [Porro](http://twitter.com/search?q=Porro) | N/A |
+| 47 | [Baschirotto](http://twitter.com/search?q=Baschirotto) | N/A |
+| 48 | [Zico](http://twitter.com/search?q=Zico) | N/A |
+| 49 | [Daniele](http://twitter.com/search?q=Daniele) | N/A |
 
 
 

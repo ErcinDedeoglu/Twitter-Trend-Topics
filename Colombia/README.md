@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Colombia
 
-📆 Last Updated: `2023-03-03 11:18:25 UTC`
+📆 Last Updated: `2023-03-03 12:19:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Colombia
 | ------- | ------------ | ------------ |
 | 1 | [#ElGranProblemaEs](http://twitter.com/search?q=%23ElGranProblemaEs) | N/A |
 | 2 | [#DenunciasSobreNicolasSon](http://twitter.com/search?q=%23DenunciasSobreNicolasSon) | N/A |
-| 3 | [#amoaromeosantos](http://twitter.com/search?q=%23amoaromeosantos) | N/A |
-| 4 | [Salvador](http://twitter.com/search?q=Salvador) | N/A |
-| 5 | [San Vicente del Caguán](http://twitter.com/search?q=San+Vicente+del+Cagu%c3%a1n) | N/A |
-| 6 | [Caquetá](http://twitter.com/search?q=Caquet%c3%a1) | N/A |
-| 7 | [#unresultadoes](http://twitter.com/search?q=%23unresultadoes) | N/A |
-| 8 | [Perlaza](http://twitter.com/search?q=Perlaza) | N/A |
-| 9 | [Mineiro](http://twitter.com/search?q=Mineiro) | N/A |
-| 10 | [#SOSCOLOMBIA](http://twitter.com/search?q=%23SOSCOLOMBIA) | N/A |
-| 11 | [CATAÑO](http://twitter.com/search?q=CATA%c3%91O) | N/A |
-| 12 | [ESMAD](http://twitter.com/search?q=ESMAD) | N/A |
-| 13 | [Secuestrados](http://twitter.com/search?q=Secuestrados) | N/A |
-| 14 | [Renuncie](http://twitter.com/search?q=Renuncie) | N/A |
-| 15 | [Policías](http://twitter.com/search?q=Polic%c3%adas) | N/A |
-| 16 | [Millonarios](http://twitter.com/search?q=Millonarios) | Millonarios is a Colombian professional football club based in Bogotá. The name translates to "millionaires" in English, referring to the club's wealthy owners. |
-| 17 | [Consejo de Estado](http://twitter.com/search?q=Consejo+de+Estado) | N/A |
-| 18 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 19 | [DDHH](http://twitter.com/search?q=DDHH) | N/A |
-| 20 | [Los Pozos](http://twitter.com/search?q=Los+Pozos) | N/A |
-| 21 | [Samper](http://twitter.com/search?q=Samper) | N/A |
-| 22 | [Cinismo](http://twitter.com/search?q=Cinismo) | N/A |
-| 23 | [leo castro](http://twitter.com/search?q=leo+castro) | N/A |
-| 24 | [Invamer](http://twitter.com/search?q=Invamer) | N/A |
-| 25 | [Universidades](http://twitter.com/search?q=Universidades) | N/A |
-| 26 | [vamos millos](http://twitter.com/search?q=vamos+millos) | N/A |
-| 27 | [Casale](http://twitter.com/search?q=Casale) | N/A |
-| 28 | [indígenas](http://twitter.com/search?q=ind%c3%adgenas) | N/A |
-| 29 | [FFMM](http://twitter.com/search?q=FFMM) | N/A |
-| 30 | [Emerald Energy](http://twitter.com/search?q=Emerald+Energy) | N/A |
-| 31 | [ricardo calderón](http://twitter.com/search?q=ricardo+calder%c3%b3n) | N/A |
-| 32 | [Gaviria](http://twitter.com/search?q=Gaviria) | N/A |
-| 33 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 34 | [Argiro](http://twitter.com/search?q=Argiro) | N/A |
-| 35 | [Cortés](http://twitter.com/search?q=Cort%c3%a9s) | N/A |
-| 36 | [Miserable](http://twitter.com/search?q=Miserable) | N/A |
-| 37 | [Viva Air](http://twitter.com/search?q=Viva+Air) | N/A |
-| 38 | [Coca Cola](http://twitter.com/search?q=Coca+Cola) | N/A |
-| 39 | [Avianca](http://twitter.com/search?q=Avianca) | N/A |
-| 40 | [FARC](http://twitter.com/search?q=FARC) | N/A |
-| 41 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 42 | [CREG](http://twitter.com/search?q=CREG) | N/A |
-| 43 | [Fuerza Pública](http://twitter.com/search?q=Fuerza+P%c3%bablica) | N/A |
-| 44 | [Indios](http://twitter.com/search?q=Indios) | N/A |
-| 45 | [Maras](http://twitter.com/search?q=Maras) | N/A |
-| 46 | [celag](http://twitter.com/search?q=celag) | N/A |
-| 47 | [giraldo](http://twitter.com/search?q=giraldo) | N/A |
-| 48 | [Higuita](http://twitter.com/search?q=Higuita) | N/A |
-| 49 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 50 | [Bendecido](http://twitter.com/search?q=Bendecido) | N/A |
+| 3 | [#AmoARomeoSantos](http://twitter.com/search?q=%23AmoARomeoSantos) | N/A |
+| 4 | [#FelizViernesATodos](http://twitter.com/search?q=%23FelizViernesATodos) | N/A |
+| 5 | [Salvador](http://twitter.com/search?q=Salvador) | N/A |
+| 6 | [San Vicente del Caguán](http://twitter.com/search?q=San+Vicente+del+Cagu%c3%a1n) | N/A |
+| 7 | [Caquetá](http://twitter.com/search?q=Caquet%c3%a1) | N/A |
+| 8 | [SECUESTRADOS](http://twitter.com/search?q=SECUESTRADOS) | N/A |
+| 9 | [perlaza](http://twitter.com/search?q=perlaza) | N/A |
+| 10 | [Mineiro](http://twitter.com/search?q=Mineiro) | N/A |
+| 11 | [#SOSColombia](http://twitter.com/search?q=%23SOSColombia) | N/A |
+| 12 | [Samper](http://twitter.com/search?q=Samper) | N/A |
+| 13 | [ESMAD](http://twitter.com/search?q=ESMAD) | N/A |
+| 14 | [Cataño](http://twitter.com/search?q=Cata%c3%b1o) | N/A |
+| 15 | [Cinismo](http://twitter.com/search?q=Cinismo) | N/A |
+| 16 | [Duque](http://twitter.com/search?q=Duque) | N/A |
+| 17 | [Miserable](http://twitter.com/search?q=Miserable) | N/A |
+| 18 | [SECUESTRO](http://twitter.com/search?q=SECUESTRO) | N/A |
+| 19 | [Policías](http://twitter.com/search?q=Polic%c3%adas) | N/A |
+| 20 | [Consejo de Estado](http://twitter.com/search?q=Consejo+de+Estado) | N/A |
+| 21 | [Millonarios](http://twitter.com/search?q=Millonarios) | Millonarios is a Colombian professional football club based in Bogotá. The name translates to "millionaires" in English, referring to the club's wealthy owners. |
+| 22 | [Renuncie](http://twitter.com/search?q=Renuncie) | N/A |
+| 23 | [Los Pozos](http://twitter.com/search?q=Los+Pozos) | N/A |
+| 24 | [DDHH](http://twitter.com/search?q=DDHH) | N/A |
+| 25 | [Invamer](http://twitter.com/search?q=Invamer) | N/A |
+| 26 | [FFMM](http://twitter.com/search?q=FFMM) | N/A |
+| 27 | [vamos millos](http://twitter.com/search?q=vamos+millos) | N/A |
+| 28 | [ricardo calderón](http://twitter.com/search?q=ricardo+calder%c3%b3n) | N/A |
+| 29 | [coherencia](http://twitter.com/search?q=coherencia) | N/A |
+| 30 | [Casale](http://twitter.com/search?q=Casale) | N/A |
+| 31 | [Uribe](http://twitter.com/search?q=Uribe) | N/A |
+| 32 | [Argiro](http://twitter.com/search?q=Argiro) | N/A |
+| 33 | [Universidades](http://twitter.com/search?q=Universidades) | N/A |
+| 34 | [Retenidos](http://twitter.com/search?q=Retenidos) | N/A |
+| 35 | [Emerald Energy](http://twitter.com/search?q=Emerald+Energy) | N/A |
+| 36 | [Gaviria](http://twitter.com/search?q=Gaviria) | N/A |
+| 37 | [Cortés](http://twitter.com/search?q=Cort%c3%a9s) | N/A |
+| 38 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 39 | [Leo Castro](http://twitter.com/search?q=Leo+Castro) | N/A |
+| 40 | [Indígenas](http://twitter.com/search?q=Ind%c3%adgenas) | N/A |
+| 41 | [Fuerza Pública](http://twitter.com/search?q=Fuerza+P%c3%bablica) | N/A |
+| 42 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
+| 43 | [Fiscalía](http://twitter.com/search?q=Fiscal%c3%ada) | N/A |
+| 44 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 45 | [FARC](http://twitter.com/search?q=FARC) | N/A |
+| 46 | [Coca Cola](http://twitter.com/search?q=Coca+Cola) | N/A |
+| 47 | [CREG](http://twitter.com/search?q=CREG) | N/A |
+| 48 | [Viva Air](http://twitter.com/search?q=Viva+Air) | N/A |
+| 49 | [Avianca](http://twitter.com/search?q=Avianca) | N/A |
+| 50 | [Vicky Dávila](http://twitter.com/search?q=Vicky+D%c3%a1vila) | N/A |
 
 
 

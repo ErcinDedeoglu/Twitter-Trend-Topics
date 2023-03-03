@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sweden
 
-📆 Last Updated: `2023-03-03 11:18:31 UTC`
+📆 Last Updated: `2023-03-03 12:19:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Sweden
 | ------- | ------------ | ------------ |
 | 1 | [Brunnsparken](http://twitter.com/search?q=Brunnsparken) | N/A |
 | 2 | [Morgan Freeman](http://twitter.com/search?q=Morgan+Freeman) | N/A |
-| 3 | [Göteborg](http://twitter.com/search?q=G%c3%b6teborg) | N/A |
-| 4 | [utdelning](http://twitter.com/search?q=utdelning) | N/A |
-| 5 | [tullinge](http://twitter.com/search?q=tullinge) | N/A |
-| 6 | [Timbro](http://twitter.com/search?q=Timbro) | N/A |
+| 3 | [utdelning](http://twitter.com/search?q=utdelning) | N/A |
+| 4 | [Göteborg](http://twitter.com/search?q=G%c3%b6teborg) | N/A |
+| 5 | [Timbro](http://twitter.com/search?q=Timbro) | N/A |
+| 6 | [Tullinge](http://twitter.com/search?q=Tullinge) | N/A |
 | 7 | [Gardell](http://twitter.com/search?q=Gardell) | N/A |
-| 8 | [Allahu Akbar](http://twitter.com/search?q=Allahu+Akbar) | N/A |
-| 9 | [Einstein](http://twitter.com/search?q=Einstein) | N/A |
-| 10 | [Detsamma](http://twitter.com/search?q=Detsamma) | N/A |
-| 11 | [Peje Emilsson](http://twitter.com/search?q=Peje+Emilsson) | N/A |
-| 12 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 13 | [Svenskt Näringsliv](http://twitter.com/search?q=Svenskt+N%c3%a4ringsliv) | N/A |
-| 14 | [#fplsverige](http://twitter.com/search?q=%23fplsverige) | N/A |
-| 15 | [#skidvm](http://twitter.com/search?q=%23skidvm) | N/A |
-| 16 | [#vardagpåminplanet](http://twitter.com/search?q=%23vardagp%c3%a5minplanet) | N/A |
-| 17 | [#on_the_street](http://twitter.com/search?q=%23on_the_street) | N/A |
-| 18 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 19 | [Mass](http://twitter.com/search?q=Mass) | N/A |
-| 20 | [Lagrådet](http://twitter.com/search?q=Lagr%c3%a5det) | N/A |
-| 21 | [Frida](http://twitter.com/search?q=Frida) | N/A |
-| 22 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 23 | [Einar](http://twitter.com/search?q=Einar) | N/A |
-| 24 | [Djursholm](http://twitter.com/search?q=Djursholm) | N/A |
-| 25 | [Småland](http://twitter.com/search?q=Sm%c3%a5land) | N/A |
-| 26 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
-| 27 | [Farsta](http://twitter.com/search?q=Farsta) | N/A |
-| 28 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 29 | [Ungern](http://twitter.com/search?q=Ungern) | N/A |
-| 30 | [Kunskapsskolan](http://twitter.com/search?q=Kunskapsskolan) | N/A |
-| 31 | [Kollektiv](http://twitter.com/search?q=Kollektiv) | N/A |
-| 32 | [Ericsson](http://twitter.com/search?q=Ericsson) | N/A |
-| 33 | [Drottninggatan](http://twitter.com/search?q=Drottninggatan) | N/A |
-| 34 | [Ortio](http://twitter.com/search?q=Ortio) | N/A |
-| 35 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
+| 8 | [Einstein](http://twitter.com/search?q=Einstein) | N/A |
+| 9 | [Peje Emilsson](http://twitter.com/search?q=Peje+Emilsson) | N/A |
+| 10 | [#vardagpåminplanet](http://twitter.com/search?q=%23vardagp%c3%a5minplanet) | N/A |
+| 11 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 12 | [#fplsverige](http://twitter.com/search?q=%23fplsverige) | N/A |
+| 13 | [Allahu Akbar](http://twitter.com/search?q=Allahu+Akbar) | N/A |
+| 14 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 15 | [Mass](http://twitter.com/search?q=Mass) | N/A |
+| 16 | [#on_the_street](http://twitter.com/search?q=%23on_the_street) | N/A |
+| 17 | [Svenskt Näringsliv](http://twitter.com/search?q=Svenskt+N%c3%a4ringsliv) | N/A |
+| 18 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 19 | [Farsta](http://twitter.com/search?q=Farsta) | N/A |
+| 20 | [lagrådet](http://twitter.com/search?q=lagr%c3%a5det) | N/A |
+| 21 | [Einar](http://twitter.com/search?q=Einar) | N/A |
+| 22 | [Djursholm](http://twitter.com/search?q=Djursholm) | N/A |
+| 23 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
+| 24 | [Frida](http://twitter.com/search?q=Frida) | N/A |
+| 25 | [Kunskapsskolan](http://twitter.com/search?q=Kunskapsskolan) | N/A |
+| 26 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 27 | [Ericsson](http://twitter.com/search?q=Ericsson) | N/A |
+| 28 | [Drottninggatan](http://twitter.com/search?q=Drottninggatan) | N/A |
+| 29 | [Kollektiv](http://twitter.com/search?q=Kollektiv) | N/A |
+| 30 | [Ungern](http://twitter.com/search?q=Ungern) | N/A |
+| 31 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
+| 32 | [ortio](http://twitter.com/search?q=ortio) | N/A |
+| 33 | [Råsunda](http://twitter.com/search?q=R%c3%a5sunda) | N/A |
+| 34 | [Föräldrar](http://twitter.com/search?q=F%c3%b6r%c3%a4ldrar) | N/A |
+| 35 | [Annika](http://twitter.com/search?q=Annika) | N/A |
 | 36 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
 | 37 | [Guldspaden](http://twitter.com/search?q=Guldspaden) | N/A |
-| 38 | [Venus](http://twitter.com/search?q=Venus) | N/A |
-| 39 | [Hildeby](http://twitter.com/search?q=Hildeby) | N/A |
-| 40 | [Molly](http://twitter.com/search?q=Molly) | N/A |
-| 41 | [Demirok](http://twitter.com/search?q=Demirok) | N/A |
-| 42 | [Gårdsten](http://twitter.com/search?q=G%c3%a5rdsten) | N/A |
-| 43 | [Orban](http://twitter.com/search?q=Orban) | N/A |
-| 44 | [maja](http://twitter.com/search?q=maja) | N/A |
-| 45 | [#bopol](http://twitter.com/search?q=%23bopol) | N/A |
-| 46 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
-| 47 | [Föräldrarna](http://twitter.com/search?q=F%c3%b6r%c3%a4ldrarna) | N/A |
-| 48 | [Manner](http://twitter.com/search?q=Manner) | N/A |
+| 38 | [Småland](http://twitter.com/search?q=Sm%c3%a5land) | N/A |
+| 39 | [Baudin](http://twitter.com/search?q=Baudin) | N/A |
+| 40 | [Venus](http://twitter.com/search?q=Venus) | N/A |
+| 41 | [hildeby](http://twitter.com/search?q=hildeby) | N/A |
+| 42 | [Orban](http://twitter.com/search?q=Orban) | N/A |
+| 43 | [Gårdsten](http://twitter.com/search?q=G%c3%a5rdsten) | N/A |
+| 44 | [Maja](http://twitter.com/search?q=Maja) | N/A |
+| 45 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
+| 46 | [Manner](http://twitter.com/search?q=Manner) | N/A |
+| 47 | [Demirok](http://twitter.com/search?q=Demirok) | N/A |
+| 48 | [Danderyd](http://twitter.com/search?q=Danderyd) | N/A |
 | 49 | [lindbäck](http://twitter.com/search?q=lindb%c3%a4ck) | N/A |
-| 50 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
+| 50 | [#WorldBookDay](http://twitter.com/search?q=%23WorldBookDay) | N/A |
 
 
 

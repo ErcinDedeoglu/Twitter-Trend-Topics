@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bournemouth
 
-📆 Last Updated: `2023-03-03 11:17:40 UTC`
+📆 Last Updated: `2023-03-03 12:19:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Nads](http://twitter.com/search?q=Nads) | N/A |
-| 2 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
-| 3 | [Durham](http://twitter.com/search?q=Durham) | N/A |
-| 4 | [#BoycottHersheys](http://twitter.com/search?q=%23BoycottHersheys) | N/A |
-| 5 | [Question Time](http://twitter.com/search?q=Question+Time) | N/A |
-| 6 | [Desperate](http://twitter.com/search?q=Desperate) | N/A |
-| 7 | [#popmaster](http://twitter.com/search?q=%23popmaster) | N/A |
-| 8 | [Sue Gray](http://twitter.com/search?q=Sue+Gray) | N/A |
-| 9 | [Glastonbury](http://twitter.com/search?q=Glastonbury) | N/A |
-| 10 | [Radio 2](http://twitter.com/search?q=Radio+2) | Radio 2 is a BBC radio station in the United Kingdom. It broadcasts a mix of music, news, and entertainment programs. The station's tagline is "The UK's Most Popular Music Station". Radio 2 is the most listened to radio station in the UK, with an average weekly reach of 15.2 million listeners. |
-| 11 | [Sam Curran](http://twitter.com/search?q=Sam+Curran) | Sam Curran is a professional cricketer from England. He is a left-arm fast-medium bowler and left-handed batsman who plays for the England national cricket team and Surrey County Cricket Club. He made his international debut in 2018 and has since become an important member of the team, playing in all three formats of the game. The meaning of Sam Curran in English is "a talented cricketer from England". |
-| 12 | [Arctic Monkeys](http://twitter.com/search?q=Arctic+Monkeys) | N/A |
-| 13 | [Partygate](http://twitter.com/search?q=Partygate) | N/A |
-| 14 | [Guns N](http://twitter.com/search?q=Guns+N) | N/A |
-| 15 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
-| 16 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
-| 17 | [Elton John](http://twitter.com/search?q=Elton+John) | N/A |
-| 18 | [DLT Malta](http://twitter.com/search?q=DLT+Malta) | N/A |
-| 19 | [David Frost](http://twitter.com/search?q=David+Frost) | N/A |
-| 20 | [Dean Saunders](http://twitter.com/search?q=Dean+Saunders) | N/A |
-| 21 | [Nick Robinson](http://twitter.com/search?q=Nick+Robinson) | N/A |
-| 22 | [Lana Del Rey](http://twitter.com/search?q=Lana+Del+Rey) | N/A |
-| 23 | [Jason Roy](http://twitter.com/search?q=Jason+Roy) | Jason Roy is a professional English cricketer who plays for the England national cricket team. He is an aggressive right-handed batsman and occasional right-arm off-break bowler. |
-| 24 | [Marv](http://twitter.com/search?q=Marv) | N/A |
-| 25 | [Simon Case](http://twitter.com/search?q=Simon+Case) | N/A |
-| 26 | [Boris](http://twitter.com/search?q=Boris) | N/A |
-| 27 | [Blondie](http://twitter.com/search?q=Blondie) | N/A |
-| 28 | [Downing Street](http://twitter.com/search?q=Downing+Street) | N/A |
-| 29 | [slade](http://twitter.com/search?q=slade) | N/A |
-| 30 | [ON SALE NOW](http://twitter.com/search?q=ON+SALE+NOW) | N/A |
-| 31 | [Christopher Fowler](http://twitter.com/search?q=Christopher+Fowler) | N/A |
-| 32 | [Daily Mail](http://twitter.com/search?q=Daily+Mail) | N/A |
-| 33 | [Spartacus](http://twitter.com/search?q=Spartacus) | N/A |
-| 34 | [Daily Quordle 403](http://twitter.com/search?q=Daily+Quordle+403) | N/A |
-| 35 | [Alexander Stafford](http://twitter.com/search?q=Alexander+Stafford) | N/A |
-| 36 | [Bryant](http://twitter.com/search?q=Bryant) | N/A |
-| 37 | [Betteridge](http://twitter.com/search?q=Betteridge) | N/A |
-| 38 | [Pret](http://twitter.com/search?q=Pret) | N/A |
-| 39 | [ABBA](http://twitter.com/search?q=ABBA) | N/A |
+| 1 | [#BANvENG](http://twitter.com/search?q=%23BANvENG) | N/A |
+| 2 | [Lando](http://twitter.com/search?q=Lando) | N/A |
+| 3 | [Kier Starmer](http://twitter.com/search?q=Kier+Starmer) | N/A |
+| 4 | [No 10](http://twitter.com/search?q=No+10) | N/A |
+| 5 | [Hershey](http://twitter.com/search?q=Hershey) | N/A |
+| 6 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
+| 7 | [Harwood](http://twitter.com/search?q=Harwood) | N/A |
+| 8 | [Durham](http://twitter.com/search?q=Durham) | N/A |
+| 9 | [Question Time](http://twitter.com/search?q=Question+Time) | N/A |
+| 10 | [GDPR](http://twitter.com/search?q=GDPR) | N/A |
+| 11 | [#GeneralElectionN0W](http://twitter.com/search?q=%23GeneralElectionN0W) | N/A |
+| 12 | [Desperate](http://twitter.com/search?q=Desperate) | N/A |
+| 13 | [Sue Gray](http://twitter.com/search?q=Sue+Gray) | N/A |
+| 14 | [Radio 2](http://twitter.com/search?q=Radio+2) | Radio 2 is a BBC radio station in the United Kingdom. It broadcasts a mix of music, news, and entertainment programs. The station's tagline is "The UK's Most Popular Music Station". Radio 2 is the most listened to radio station in the UK, with an average weekly reach of 15.2 million listeners. |
+| 15 | [Glastonbury](http://twitter.com/search?q=Glastonbury) | N/A |
+| 16 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 17 | [Sam Curran](http://twitter.com/search?q=Sam+Curran) | Sam Curran is a professional cricketer from England. He is a left-arm fast-medium bowler and left-handed batsman who plays for the England national cricket team and Surrey County Cricket Club. He made his international debut in 2018 and has since become an important member of the team, playing in all three formats of the game. The meaning of Sam Curran in English is "a talented cricketer from England". |
+| 18 | [Partygate](http://twitter.com/search?q=Partygate) | N/A |
+| 19 | [Arctic Monkeys](http://twitter.com/search?q=Arctic+Monkeys) | N/A |
+| 20 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
+| 21 | [Thanks Ken](http://twitter.com/search?q=Thanks+Ken) | N/A |
+| 22 | [Guns N Roses](http://twitter.com/search?q=Guns+N+Roses) | N/A |
+| 23 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
+| 24 | [Elton John](http://twitter.com/search?q=Elton+John) | N/A |
+| 25 | [Bounty](http://twitter.com/search?q=Bounty) | N/A |
+| 26 | [Dean Saunders](http://twitter.com/search?q=Dean+Saunders) | N/A |
+| 27 | [David Frost](http://twitter.com/search?q=David+Frost) | N/A |
+| 28 | [Stephen Bear](http://twitter.com/search?q=Stephen+Bear) | N/A |
+| 29 | [Cat Stevens](http://twitter.com/search?q=Cat+Stevens) | N/A |
+| 30 | [Banky](http://twitter.com/search?q=Banky) | N/A |
+| 31 | [Neil Coyle](http://twitter.com/search?q=Neil+Coyle) | N/A |
+| 32 | [DLT Malta](http://twitter.com/search?q=DLT+Malta) | N/A |
+| 33 | [Jason Roy](http://twitter.com/search?q=Jason+Roy) | Jason Roy is a professional English cricketer who plays for the England national cricket team. He is an aggressive right-handed batsman and occasional right-arm off-break bowler. |
+| 34 | [Blondie](http://twitter.com/search?q=Blondie) | N/A |
+| 35 | [Lana Del Rey](http://twitter.com/search?q=Lana+Del+Rey) | N/A |
+| 36 | [Daily Mail](http://twitter.com/search?q=Daily+Mail) | N/A |
+| 37 | [Slade](http://twitter.com/search?q=Slade) | N/A |
+| 38 | [Nick Robinson](http://twitter.com/search?q=Nick+Robinson) | N/A |
+| 39 | [De La Soul](http://twitter.com/search?q=De+La+Soul) | N/A |
 | 40 | [UK Open](http://twitter.com/search?q=UK+Open) | N/A |
-| 41 | [Lamborghini](http://twitter.com/search?q=Lamborghini) | N/A |
-| 42 | [Oxbridge](http://twitter.com/search?q=Oxbridge) | N/A |
-| 43 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 44 | [Civil Service](http://twitter.com/search?q=Civil+Service) | N/A |
-| 45 | [Insurance](http://twitter.com/search?q=Insurance) | N/A |
-| 46 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
-| 47 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 48 | [De Jong](http://twitter.com/search?q=De+Jong) | De Jong is a Dutch surname. It is derived from the personal name Jan, which is a form of John. The literal meaning of the name in English is "son of John". |
+| 41 | [Marv](http://twitter.com/search?q=Marv) | N/A |
+| 42 | [Bryant](http://twitter.com/search?q=Bryant) | N/A |
+| 43 | [Spartacus](http://twitter.com/search?q=Spartacus) | N/A |
+| 44 | [ON SALE NOW](http://twitter.com/search?q=ON+SALE+NOW) | N/A |
+| 45 | [Christopher Fowler](http://twitter.com/search?q=Christopher+Fowler) | N/A |
+| 46 | [Alexander Stafford](http://twitter.com/search?q=Alexander+Stafford) | N/A |
+| 47 | [Pret](http://twitter.com/search?q=Pret) | N/A |
+| 48 | [Downing Street](http://twitter.com/search?q=Downing+Street) | N/A |
 
 
 

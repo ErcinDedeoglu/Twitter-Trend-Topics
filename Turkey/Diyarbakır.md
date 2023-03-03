@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Diyarbakır
 
-📆 Last Updated: `2023-03-03 11:18:15 UTC`
+📆 Last Updated: `2023-03-03 12:19:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Turkey](</Turkey>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Kilicdarogluadayolmasin](http://twitter.com/search?q=%23Kilicdarogluadayolmasin) | N/A |
-| 2 | [Hayırlı Cumalar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Cumalar) | "Hayırlı Cumalar" is a Turkish phrase that translates to "Have a Good Friday." It is typically used as a greeting on the Islamic holy day of Friday. |
-| 3 | [#OyumuzAdalete](http://twitter.com/search?q=%23OyumuzAdalete) | N/A |
-| 4 | [#EYTResmiGazetedeYayınlandı](http://twitter.com/search?q=%23EYTResmiGazetedeYay%c4%b1nland%c4%b1) | N/A |
-| 5 | [İnce](http://twitter.com/search?q=%c4%b0nce) | N/A |
-| 6 | [ENAG](http://twitter.com/search?q=ENAG) | N/A |
-| 7 | [El Ele Aşıyoruz](http://twitter.com/search?q=El+Ele+A%c5%9f%c4%b1yoruz) | N/A |
-| 8 | [ADAYIM ERBAKAN](http://twitter.com/search?q=ADAYIM+ERBAKAN) | N/A |
-| 9 | [Masayı](http://twitter.com/search?q=Masay%c4%b1) | N/A |
-| 10 | [Şampiyon Başkan](http://twitter.com/search?q=%c5%9eampiyon+Ba%c5%9fkan) | N/A |
-| 11 | [Fatih Erbakan](http://twitter.com/search?q=Fatih+Erbakan) | N/A |
-| 12 | [İyi Parti](http://twitter.com/search?q=%c4%b0yi+Parti) | N/A |
-| 13 | [Yaşanabilir Türkiye](http://twitter.com/search?q=Ya%c5%9fanabilir+T%c3%bcrkiye) | N/A |
-| 14 | [MHP'ye](http://twitter.com/search?q=MHP%27ye) | N/A |
-| 15 | [lütfetmiş](http://twitter.com/search?q=l%c3%bctfetmi%c5%9f) | N/A |
-| 16 | [YİYİN BİRBİRİNİZİ](http://twitter.com/search?q=Y%c4%b0Y%c4%b0N+B%c4%b0RB%c4%b0R%c4%b0N%c4%b0Z%c4%b0) | N/A |
-| 17 | [TÜİK](http://twitter.com/search?q=T%c3%9c%c4%b0K) | TÜİK stands for Turkish Statistical Institute (Turk Statistik Kurumu in Turkish). It is the official government agency responsible for collecting, processing, analyzing and publishing statistical data on the economy and society of Turkey. |
-| 18 | [Sistem](http://twitter.com/search?q=Sistem) | N/A |
-| 19 | [Adam Kazandı](http://twitter.com/search?q=Adam+Kazand%c4%b1) | N/A |
-| 20 | [Büyük Başkan](http://twitter.com/search?q=B%c3%bcy%c3%bck+Ba%c5%9fkan) | N/A |
-| 21 | [AllahSevginin Sahibidir](http://twitter.com/search?q=AllahSevginin+Sahibidir) | N/A |
-| 22 | [Cumhur](http://twitter.com/search?q=Cumhur) | N/A |
-| 23 | [Aşırı](http://twitter.com/search?q=A%c5%9f%c4%b1r%c4%b1) | N/A |
-| 24 | [Yalakadan](http://twitter.com/search?q=Yalakadan) | N/A |
-| 25 | [Cumanız](http://twitter.com/search?q=Cuman%c4%b1z) | N/A |
-| 26 | [Düşünsene](http://twitter.com/search?q=D%c3%bc%c5%9f%c3%bcnsene) | N/A |
-| 27 | [Kahramanmaraş'ta 5](http://twitter.com/search?q=Kahramanmara%c5%9f%27ta+5) | N/A |
-| 28 | [Fazıl](http://twitter.com/search?q=Faz%c4%b1l) | N/A |
-| 29 | [Yarı](http://twitter.com/search?q=Yar%c4%b1) | N/A |
-| 30 | [Levent](http://twitter.com/search?q=Levent) | N/A |
-| 31 | [AKP'ye](http://twitter.com/search?q=AKP%27ye) | N/A |
-| 32 | [Alevi](http://twitter.com/search?q=Alevi) | N/A |
-| 33 | [Masadan](http://twitter.com/search?q=Masadan) | N/A |
-| 34 | [Togg](http://twitter.com/search?q=Togg) | N/A |
-| 35 | [Erkan Baş](http://twitter.com/search?q=Erkan+Ba%c5%9f) | N/A |
-| 36 | [Kemal Bey](http://twitter.com/search?q=Kemal+Bey) | N/A |
-| 37 | [tıpış](http://twitter.com/search?q=t%c4%b1p%c4%b1%c5%9f) | N/A |
-| 38 | [Yavaş](http://twitter.com/search?q=Yava%c5%9f) | N/A |
-| 39 | [Meral Hanım](http://twitter.com/search?q=Meral+Han%c4%b1m) | N/A |
-| 40 | [Özdağ](http://twitter.com/search?q=%c3%96zda%c4%9f) | N/A |
-| 41 | [KK'ya](http://twitter.com/search?q=KK%27ya) | N/A |
-| 42 | [Erdoğana](http://twitter.com/search?q=Erdo%c4%9fana) | N/A |
-| 43 | [Koltuk](http://twitter.com/search?q=Koltuk) | N/A |
-| 44 | [RTE'ye](http://twitter.com/search?q=RTE%27ye) | N/A |
-| 45 | [Ertuğrul Doğan](http://twitter.com/search?q=Ertu%c4%9frul+Do%c4%9fan) | N/A |
-| 46 | [Başbakan](http://twitter.com/search?q=Ba%c5%9fbakan) | N/A |
-| 47 | [Tura](http://twitter.com/search?q=Tura) | N/A |
-| 48 | [Kemal'e](http://twitter.com/search?q=Kemal%27e) | N/A |
+| 2 | [El Ele Aşıyoruz](http://twitter.com/search?q=El+Ele+A%c5%9f%c4%b1yoruz) | N/A |
+| 3 | [Ulusal Risk Kalkanı](http://twitter.com/search?q=Ulusal+Risk+Kalkan%c4%b1) | N/A |
+| 4 | [Zorlama Burak](http://twitter.com/search?q=Zorlama+Burak) | N/A |
+| 5 | [#CBMarttaSağlıkçıyıAta](http://twitter.com/search?q=%23CBMarttaSa%c4%9fl%c4%b1k%c3%a7%c4%b1y%c4%b1Ata) | N/A |
+| 6 | [YİYİN BİRBİRİNİZİ](http://twitter.com/search?q=Y%c4%b0Y%c4%b0N+B%c4%b0RB%c4%b0R%c4%b0N%c4%b0Z%c4%b0) | N/A |
+| 7 | [#OyumuzAdalete](http://twitter.com/search?q=%23OyumuzAdalete) | N/A |
+| 8 | [Hayırlı Cumalar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Cumalar) | "Hayırlı Cumalar" is a Turkish phrase that translates to "Have a Good Friday." It is typically used as a greeting on the Islamic holy day of Friday. |
+| 9 | [İnce](http://twitter.com/search?q=%c4%b0nce) | N/A |
+| 10 | [Masayı](http://twitter.com/search?q=Masay%c4%b1) | N/A |
+| 11 | [İyi Parti](http://twitter.com/search?q=%c4%b0yi+Parti) | N/A |
+| 12 | [ADAYIM ERBAKAN](http://twitter.com/search?q=ADAYIM+ERBAKAN) | N/A |
+| 13 | [Enag](http://twitter.com/search?q=Enag) | N/A |
+| 14 | [Şampiyon Başkan](http://twitter.com/search?q=%c5%9eampiyon+Ba%c5%9fkan) | N/A |
+| 15 | [İmamoğlu](http://twitter.com/search?q=%c4%b0mamo%c4%9flu) | N/A |
+| 16 | [Düşünsene](http://twitter.com/search?q=D%c3%bc%c5%9f%c3%bcnsene) | N/A |
+| 17 | [Özdağ](http://twitter.com/search?q=%c3%96zda%c4%9f) | N/A |
+| 18 | [Hilafet](http://twitter.com/search?q=Hilafet) | N/A |
+| 19 | [Cumhur](http://twitter.com/search?q=Cumhur) | N/A |
+| 20 | [lütfetmiş](http://twitter.com/search?q=l%c3%bctfetmi%c5%9f) | N/A |
+| 21 | [Fatih Erbakan](http://twitter.com/search?q=Fatih+Erbakan) | N/A |
+| 22 | [TÜİK](http://twitter.com/search?q=T%c3%9c%c4%b0K) | TÜİK stands for Turkish Statistical Institute (Turk Statistik Kurumu in Turkish). It is the official government agency responsible for collecting, processing, analyzing and publishing statistical data on the economy and society of Turkey. |
+| 23 | [MHP'ye](http://twitter.com/search?q=MHP%27ye) | N/A |
+| 24 | [Erkan Baş](http://twitter.com/search?q=Erkan+Ba%c5%9f) | N/A |
+| 25 | [Yarı](http://twitter.com/search?q=Yar%c4%b1) | N/A |
+| 26 | [Aşırı](http://twitter.com/search?q=A%c5%9f%c4%b1r%c4%b1) | N/A |
+| 27 | [Yaşanabilir Türkiye](http://twitter.com/search?q=Ya%c5%9fanabilir+T%c3%bcrkiye) | N/A |
+| 28 | [Sistem](http://twitter.com/search?q=Sistem) | N/A |
+| 29 | [Fazıl](http://twitter.com/search?q=Faz%c4%b1l) | N/A |
+| 30 | [Adam Kazandı](http://twitter.com/search?q=Adam+Kazand%c4%b1) | N/A |
+| 31 | [Yalakadan](http://twitter.com/search?q=Yalakadan) | N/A |
+| 32 | [Cumanız](http://twitter.com/search?q=Cuman%c4%b1z) | N/A |
+| 33 | [Alevi](http://twitter.com/search?q=Alevi) | N/A |
+| 34 | [Masadan](http://twitter.com/search?q=Masadan) | N/A |
+| 35 | [Kahramanmaraş'ta 5](http://twitter.com/search?q=Kahramanmara%c5%9f%27ta+5) | N/A |
+| 36 | [AKP'ye](http://twitter.com/search?q=AKP%27ye) | N/A |
+| 37 | [Mansur Bey](http://twitter.com/search?q=Mansur+Bey) | N/A |
+| 38 | [Tura](http://twitter.com/search?q=Tura) | N/A |
+| 39 | [Levent](http://twitter.com/search?q=Levent) | N/A |
+| 40 | [Kemal Bey](http://twitter.com/search?q=Kemal+Bey) | N/A |
+| 41 | [Meral Hanım](http://twitter.com/search?q=Meral+Han%c4%b1m) | N/A |
+| 42 | [Büyük Başkan](http://twitter.com/search?q=B%c3%bcy%c3%bck+Ba%c5%9fkan) | N/A |
+| 43 | [MHP'den](http://twitter.com/search?q=MHP%27den) | N/A |
+| 44 | [Koltuk](http://twitter.com/search?q=Koltuk) | N/A |
+| 45 | [RTE'ye](http://twitter.com/search?q=RTE%27ye) | N/A |
+| 46 | [Truva](http://twitter.com/search?q=Truva) | N/A |
+| 47 | [Kemal'e](http://twitter.com/search?q=Kemal%27e) | N/A |
+| 48 | [Togg](http://twitter.com/search?q=Togg) | N/A |
 
 
 

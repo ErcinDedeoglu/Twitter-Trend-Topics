@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Las Palmas
 
-📆 Last Updated: `2023-03-03 11:17:56 UTC`
+📆 Last Updated: `2023-03-03 12:19:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,50 +20,50 @@ This is top 50 for [Spain](</Spain>)
 | 3 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
 | 4 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
 | 5 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 6 | [Eder](http://twitter.com/search?q=Eder) | N/A |
-| 7 | [#OPPOFindN2FlipALoYoigo](http://twitter.com/search?q=%23OPPOFindN2FlipALoYoigo) | N/A |
-| 8 | [#BayonettaEnGAME](http://twitter.com/search?q=%23BayonettaEnGAME) | N/A |
-| 9 | [OPPO y Yoigo](http://twitter.com/search?q=OPPO+y+Yoigo) | N/A |
-| 10 | [#Solos3M](http://twitter.com/search?q=%23Solos3M) | N/A |
+| 6 | [#OPPOFindN2FlipALoYoigo](http://twitter.com/search?q=%23OPPOFindN2FlipALoYoigo) | N/A |
+| 7 | [#BayonettaEnGAME](http://twitter.com/search?q=%23BayonettaEnGAME) | N/A |
+| 8 | [Eder](http://twitter.com/search?q=Eder) | N/A |
+| 9 | [#Solos3M](http://twitter.com/search?q=%23Solos3M) | N/A |
+| 10 | [Libres 1](http://twitter.com/search?q=Libres+1) | N/A |
 | 11 | [Cataluña](http://twitter.com/search?q=Catalu%c3%b1a) | N/A |
-| 12 | [La RAE](http://twitter.com/search?q=La+RAE) | N/A |
+| 12 | [Achraf Hakimi](http://twitter.com/search?q=Achraf+Hakimi) | N/A |
 | 13 | [Alana](http://twitter.com/search?q=Alana) | N/A |
 | 14 | [Alfredo Landa](http://twitter.com/search?q=Alfredo+Landa) | N/A |
-| 15 | [Del Nido](http://twitter.com/search?q=Del+Nido) | N/A |
-| 16 | [421 X](http://twitter.com/search?q=421+X) | N/A |
-| 17 | [COVID a 734](http://twitter.com/search?q=COVID+a+734) | N/A |
-| 18 | [Hoy 3](http://twitter.com/search?q=Hoy+3) | N/A |
-| 19 | [Sociedades](http://twitter.com/search?q=Sociedades) | N/A |
-| 20 | [Roja](http://twitter.com/search?q=Roja) | N/A |
-| 21 | [Militao](http://twitter.com/search?q=Militao) | Militão is a Portuguese name derived from the Latin word militare, meaning “to serve in the military”. In English, it can be translated to mean “soldier” or “warrior”. |
-| 22 | [Breath of the Wild](http://twitter.com/search?q=Breath+of+the+Wild) | N/A |
-| 23 | [ES HOY](http://twitter.com/search?q=ES+HOY) | N/A |
-| 24 | [Shingeki](http://twitter.com/search?q=Shingeki) | Shingeki is a Japanese word that translates to "advancement" or "onslaught" in English. It is often used to refer to a sudden, large-scale attack or invasion. |
-| 25 | [Munuera Montero](http://twitter.com/search?q=Munuera+Montero) | N/A |
-| 26 | [PROA](http://twitter.com/search?q=PROA) | N/A |
-| 27 | [Fiscalía](http://twitter.com/search?q=Fiscal%c3%ada) | N/A |
-| 28 | [Viernes 3](http://twitter.com/search?q=Viernes+3) | N/A |
-| 29 | [Zendal](http://twitter.com/search?q=Zendal) | N/A |
-| 30 | [CGPJ](http://twitter.com/search?q=CGPJ) | N/A |
-| 31 | [Del Pino](http://twitter.com/search?q=Del+Pino) | N/A |
-| 32 | [Kali Uchis](http://twitter.com/search?q=Kali+Uchis) | N/A |
-| 33 | [Fórmula 1](http://twitter.com/search?q=F%c3%b3rmula+1) | N/A |
-| 34 | [Catalán](http://twitter.com/search?q=Catal%c3%a1n) | N/A |
-| 35 | [ERTES](http://twitter.com/search?q=ERTES) | N/A |
-| 36 | [Audiencia Nacional](http://twitter.com/search?q=Audiencia+Nacional) | N/A |
-| 37 | [Sábado 4](http://twitter.com/search?q=S%c3%a1bado+4) | N/A |
-| 38 | [Generalitat](http://twitter.com/search?q=Generalitat) | N/A |
-| 39 | [Savic](http://twitter.com/search?q=Savic) | Savic is a Serbian surname derived from the Slavic word for "son of the sabre." It is also found in other Slavic countries, such as Croatia and Slovenia. In English, it can be translated to mean "son of the sword." |
-| 40 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
-| 41 | [CCOO](http://twitter.com/search?q=CCOO) | N/A |
-| 42 | [Castellano](http://twitter.com/search?q=Castellano) | N/A |
-| 43 | [#YoMeRebelo3M](http://twitter.com/search?q=%23YoMeRebelo3M) | N/A |
-| 44 | [#FelizViernesATodos](http://twitter.com/search?q=%23FelizViernesATodos) | N/A |
-| 45 | [#APOYOROCIO3M](http://twitter.com/search?q=%23APOYOROCIO3M) | N/A |
-| 46 | [#DíaMundialDeLaVidaSilvestre](http://twitter.com/search?q=%23D%c3%adaMundialDeLaVidaSilvestre) | N/A |
-| 47 | [#LibroForumSevilla23](http://twitter.com/search?q=%23LibroForumSevilla23) | N/A |
-| 48 | [#CómicsMarvelEnCarrefour](http://twitter.com/search?q=%23C%c3%b3micsMarvelEnCarrefour) | N/A |
-| 49 | [#3deMarzo](http://twitter.com/search?q=%233deMarzo) | N/A |
+| 15 | [La RAE](http://twitter.com/search?q=La+RAE) | N/A |
+| 16 | [Shingeki](http://twitter.com/search?q=Shingeki) | Shingeki is a Japanese word that translates to "advancement" or "onslaught" in English. It is often used to refer to a sudden, large-scale attack or invasion. |
+| 17 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 18 | [COVID a 734](http://twitter.com/search?q=COVID+a+734) | N/A |
+| 19 | [Hoy 3](http://twitter.com/search?q=Hoy+3) | N/A |
+| 20 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
+| 21 | [Sociedades](http://twitter.com/search?q=Sociedades) | N/A |
+| 22 | [2 de Interior](http://twitter.com/search?q=2+de+Interior) | N/A |
+| 23 | [Del Nido](http://twitter.com/search?q=Del+Nido) | N/A |
+| 24 | [Roja](http://twitter.com/search?q=Roja) | N/A |
+| 25 | [421 X](http://twitter.com/search?q=421+X) | N/A |
+| 26 | [Breath of the Wild](http://twitter.com/search?q=Breath+of+the+Wild) | N/A |
+| 27 | [Militao](http://twitter.com/search?q=Militao) | Militão is a Portuguese name derived from the Latin word militare, meaning “to serve in the military”. In English, it can be translated to mean “soldier” or “warrior”. |
+| 28 | [Fiscalía](http://twitter.com/search?q=Fiscal%c3%ada) | N/A |
+| 29 | [PROA](http://twitter.com/search?q=PROA) | N/A |
+| 30 | [Nintendo Switch](http://twitter.com/search?q=Nintendo+Switch) | N/A |
+| 31 | [ES HOY](http://twitter.com/search?q=ES+HOY) | N/A |
+| 32 | [kali uchis](http://twitter.com/search?q=kali+uchis) | N/A |
+| 33 | [Catalán](http://twitter.com/search?q=Catal%c3%a1n) | N/A |
+| 34 | [Munuera Montero](http://twitter.com/search?q=Munuera+Montero) | N/A |
+| 35 | [Sábado 4](http://twitter.com/search?q=S%c3%a1bado+4) | N/A |
+| 36 | [Zendal](http://twitter.com/search?q=Zendal) | N/A |
+| 37 | [CGPJ](http://twitter.com/search?q=CGPJ) | N/A |
+| 38 | [Del Pino](http://twitter.com/search?q=Del+Pino) | N/A |
+| 39 | [Plutón](http://twitter.com/search?q=Plut%c3%b3n) | N/A |
+| 40 | [Fórmula 1](http://twitter.com/search?q=F%c3%b3rmula+1) | N/A |
+| 41 | [Fraga](http://twitter.com/search?q=Fraga) | N/A |
+| 42 | [Viernes 3](http://twitter.com/search?q=Viernes+3) | N/A |
+| 43 | [Día de la Mujer](http://twitter.com/search?q=D%c3%ada+de+la+Mujer) | N/A |
+| 44 | [GENERALITAT](http://twitter.com/search?q=GENERALITAT) | N/A |
+| 45 | [Savic](http://twitter.com/search?q=Savic) | Savic is a Serbian surname derived from the Slavic word for "son of the sabre." It is also found in other Slavic countries, such as Croatia and Slovenia. In English, it can be translated to mean "son of the sword." |
+| 46 | [Castellano](http://twitter.com/search?q=Castellano) | N/A |
+| 47 | [ERTES](http://twitter.com/search?q=ERTES) | N/A |
+| 48 | [CCOO](http://twitter.com/search?q=CCOO) | N/A |
+| 49 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
 
 
 
