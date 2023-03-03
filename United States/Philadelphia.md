@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philadelphia
 
-📆 Last Updated: `2023-03-03 10:16:28 UTC`
+📆 Last Updated: `2023-03-03 11:18:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
-| 2 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 3 | [#RedRubyDaSleaze](http://twitter.com/search?q=%23RedRubyDaSleaze) | N/A |
-| 4 | [#on_the_street](http://twitter.com/search?q=%23on_the_street) | N/A |
-| 5 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
-| 6 | [Kali Uchis](http://twitter.com/search?q=Kali+Uchis) | N/A |
+| 1 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
+| 2 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 3 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
+| 4 | [#RedRubyDaSleaze](http://twitter.com/search?q=%23RedRubyDaSleaze) | N/A |
+| 5 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 6 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
 | 7 | [#Wordle622](http://twitter.com/search?q=%23Wordle622) | N/A |
-| 8 | [dawon](http://twitter.com/search?q=dawon) | N/A |
-| 9 | [#CriticalRoleSpoilers](http://twitter.com/search?q=%23CriticalRoleSpoilers) | #CriticalRoleSpoilers is a hashtag used on social media to warn people that a post contains spoilers for the popular Dungeons & Dragons web series Critical Role. It is used to alert viewers who have not yet seen the episode or read the source material that the post contains information that could spoil their experience. |
-| 10 | [Walgreens](http://twitter.com/search?q=Walgreens) | N/A |
-| 11 | [Morgan Wallen](http://twitter.com/search?q=Morgan+Wallen) | N/A |
-| 12 | [Luda](http://twitter.com/search?q=Luda) | N/A |
-| 13 | [De La Soul](http://twitter.com/search?q=De+La+Soul) | N/A |
-| 14 | [#DeLaDay](http://twitter.com/search?q=%23DeLaDay) | N/A |
-| 15 | [WJSN](http://twitter.com/search?q=WJSN) | N/A |
-| 16 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
-| 17 | [Jordan Poole](http://twitter.com/search?q=Jordan+Poole) | N/A |
-| 18 | [Discover](http://twitter.com/search?q=Discover) | N/A |
-| 19 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 20 | [Wo Long](http://twitter.com/search?q=Wo+Long) | N/A |
-| 21 | [The Clippers](http://twitter.com/search?q=The+Clippers) | N/A |
-| 22 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
-| 23 | [REAL GAMERS DRINK GAMER SUPPS](http://twitter.com/search?q=REAL+GAMERS+DRINK+GAMER+SUPPS) | N/A |
-| 24 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
-| 25 | [cole hyung](http://twitter.com/search?q=cole+hyung) | N/A |
-| 26 | [Buster](http://twitter.com/search?q=Buster) | N/A |
-| 27 | [Edelgard](http://twitter.com/search?q=Edelgard) | N/A |
-| 28 | [Kyedae](http://twitter.com/search?q=Kyedae) | N/A |
-| 29 | [Pistol Pete](http://twitter.com/search?q=Pistol+Pete) | N/A |
-| 30 | [Donte](http://twitter.com/search?q=Donte) | Donte is a given name of Italian origin, derived from the Latin name "Donatus". It is a variant of the name "Donato" and can be translated to mean "given" or "gift". |
-| 31 | [National Guard](http://twitter.com/search?q=National+Guard) | N/A |
-| 32 | [Picard](http://twitter.com/search?q=Picard) | N/A |
-| 33 | [Fusion](http://twitter.com/search?q=Fusion) | N/A |
-| 34 | [Anthony Lamb](http://twitter.com/search?q=Anthony+Lamb) | Anthony Lamb is a phrase used to describe someone who is indecisive or easily swayed. It comes from the story of Anthony and Cleopatra, in which Anthony was unable to make up his mind between his love for Cleopatra and his loyalty to Rome. |
-| 35 | [PNC Bank](http://twitter.com/search?q=PNC+Bank) | N/A |
-| 36 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
-| 37 | [Square Enix](http://twitter.com/search?q=Square+Enix) | N/A |
-| 38 | [pippa](http://twitter.com/search?q=pippa) | N/A |
-| 39 | [billy dunne](http://twitter.com/search?q=billy+dunne) | N/A |
-| 40 | [Beau](http://twitter.com/search?q=Beau) | N/A |
-| 41 | [Stephen Smith](http://twitter.com/search?q=Stephen+Smith) | N/A |
-| 42 | [sam claflin](http://twitter.com/search?q=sam+claflin) | N/A |
-| 43 | [Shingles](http://twitter.com/search?q=Shingles) | N/A |
-| 44 | [Luka and Kyrie](http://twitter.com/search?q=Luka+and+Kyrie) | Luka and Kyrie is a phrase used to refer to the two NBA superstars, Luka Doncic and Kyrie Irving. The phrase is often used to describe the duo's incredible talent and potential as basketball players. |
-| 45 | [Fork](http://twitter.com/search?q=Fork) | N/A |
-| 46 | [#CreedIII](http://twitter.com/search?q=%23CreedIII) | N/A |
-| 47 | [#WorldWildlifeDay](http://twitter.com/search?q=%23WorldWildlifeDay) | N/A |
-| 48 | [#RedMoonInVenus](http://twitter.com/search?q=%23RedMoonInVenus) | N/A |
-| 49 | [#BandcampFriday](http://twitter.com/search?q=%23BandcampFriday) | N/A |
-| 50 | [#RubyRedDaSleeze](http://twitter.com/search?q=%23RubyRedDaSleeze) | N/A |
+| 8 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
+| 9 | [#on_the_street](http://twitter.com/search?q=%23on_the_street) | N/A |
+| 10 | [Daily Quordle 403](http://twitter.com/search?q=Daily+Quordle+403) | N/A |
+| 11 | [Walgreens](http://twitter.com/search?q=Walgreens) | N/A |
+| 12 | [kali uchis](http://twitter.com/search?q=kali+uchis) | N/A |
+| 13 | [dawon](http://twitter.com/search?q=dawon) | N/A |
+| 14 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
+| 15 | [De La Soul](http://twitter.com/search?q=De+La+Soul) | N/A |
+| 16 | [Morgan Wallen](http://twitter.com/search?q=Morgan+Wallen) | N/A |
+| 17 | [Luda](http://twitter.com/search?q=Luda) | N/A |
+| 18 | [WJSN](http://twitter.com/search?q=WJSN) | N/A |
+| 19 | [Discover](http://twitter.com/search?q=Discover) | N/A |
+| 20 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 21 | [Creed 3](http://twitter.com/search?q=Creed+3) | N/A |
+| 22 | [Wo Long](http://twitter.com/search?q=Wo+Long) | N/A |
+| 23 | [Jordan Poole](http://twitter.com/search?q=Jordan+Poole) | N/A |
+| 24 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 25 | [REAL GAMERS DRINK GAMER SUPPS](http://twitter.com/search?q=REAL+GAMERS+DRINK+GAMER+SUPPS) | N/A |
+| 26 | [The Clippers](http://twitter.com/search?q=The+Clippers) | N/A |
+| 27 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
+| 28 | [COLE HYUNG](http://twitter.com/search?q=COLE+HYUNG) | N/A |
+| 29 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
+| 30 | [National Guard](http://twitter.com/search?q=National+Guard) | N/A |
+| 31 | [Pistol Pete](http://twitter.com/search?q=Pistol+Pete) | N/A |
+| 32 | [Kyedae](http://twitter.com/search?q=Kyedae) | N/A |
+| 33 | [Picard](http://twitter.com/search?q=Picard) | N/A |
+| 34 | [Stephen Smith](http://twitter.com/search?q=Stephen+Smith) | N/A |
+| 35 | [Fusion](http://twitter.com/search?q=Fusion) | N/A |
+| 36 | [Square Enix](http://twitter.com/search?q=Square+Enix) | N/A |
+| 37 | [Shingles](http://twitter.com/search?q=Shingles) | N/A |
+| 38 | [#CriticalRoleSpoilers](http://twitter.com/search?q=%23CriticalRoleSpoilers) | #CriticalRoleSpoilers is a hashtag used on social media to warn people that a post contains spoilers for the popular Dungeons & Dragons web series Critical Role. It is used to alert viewers who have not yet seen the episode or read the source material that the post contains information that could spoil their experience. |
+| 39 | [#DeLaDay](http://twitter.com/search?q=%23DeLaDay) | N/A |
+| 40 | [#BandcampFriday](http://twitter.com/search?q=%23BandcampFriday) | N/A |
+| 41 | [#WorldWildlifeDay](http://twitter.com/search?q=%23WorldWildlifeDay) | N/A |
+| 42 | [#RedMoonInVenus](http://twitter.com/search?q=%23RedMoonInVenus) | N/A |
+| 43 | [#CreedIII](http://twitter.com/search?q=%23CreedIII) | N/A |
+| 44 | [#lavenderhazemusicvideo](http://twitter.com/search?q=%23lavenderhazemusicvideo) | N/A |
+| 45 | [#RubyRedDaSleeze](http://twitter.com/search?q=%23RubyRedDaSleeze) | N/A |
+| 46 | [#sexlife](http://twitter.com/search?q=%23sexlife) | N/A |
+| 47 | [#SingingMarch](http://twitter.com/search?q=%23SingingMarch) | N/A |
+| 48 | [#PokerFace](http://twitter.com/search?q=%23PokerFace) | N/A |
 
 
 

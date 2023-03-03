@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mecca
 
-📆 Last Updated: `2023-03-03 10:16:15 UTC`
+📆 Last Updated: `2023-03-03 11:18:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,47 @@ This is top 50 for [Saudi Arabia](</Saudi Arabia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [محمد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af) | محمد is an Arabic name that means "praiseworthy" in English. It is also the name of the Islamic prophet Muhammad. |
-| 2 | [#الهلال_الوحده](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84_%d8%a7%d9%84%d9%88%d8%ad%d8%af%d9%87) | N/A |
-| 3 | [العويس](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%88%d9%8a%d8%b3) | العويس is an Arabic phrase that translates to "the one who is away". It is often used to refer to someone who has gone away or is absent. |
-| 4 | [علي النبي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%86%d8%a8%d9%8a) | "علي النبي" is an Arabic phrase that translates to "upon the Prophet". It is used as a blessing or invocation of peace and blessings upon the Prophet Muhammad. |
-| 5 | [#ليله_الصقر](http://twitter.com/search?q=%23%d9%84%d9%8a%d9%84%d9%87_%d8%a7%d9%84%d8%b5%d9%82%d8%b1) | N/A |
-| 6 | [#ريال_مدريد_برشلونه](http://twitter.com/search?q=%23%d8%b1%d9%8a%d8%a7%d9%84_%d9%85%d8%af%d8%b1%d9%8a%d8%af_%d8%a8%d8%b1%d8%b4%d9%84%d9%88%d9%86%d9%87) | N/A |
-| 7 | [#الراحه_النفسيه](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b1%d8%a7%d8%ad%d9%87_%d8%a7%d9%84%d9%86%d9%81%d8%b3%d9%8a%d9%87) | N/A |
-| 8 | [#الخميس_الونيس](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3_%d8%a7%d9%84%d9%88%d9%86%d9%8a%d8%b3) | #الخميس_الونيس is a hashtag used on Twitter in the Arabic-speaking world. It translates to "Thursday of Unity" and is used to promote unity and solidarity among people of different backgrounds. |
-| 9 | [نور مابين الجمعتين](http://twitter.com/search?q=%d9%86%d9%88%d8%b1+%d9%85%d8%a7%d8%a8%d9%8a%d9%86+%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d8%aa%d9%8a%d9%86) | N/A |
-| 10 | [اليوم الفضيل](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d9%81%d8%b6%d9%8a%d9%84) | N/A |
-| 11 | [انشيلوتي](http://twitter.com/search?q=%d8%a7%d9%86%d8%b4%d9%8a%d9%84%d9%88%d8%aa%d9%8a) | انشيلوتي (Anshiloti) is a type of traditional Arabic music and dance. It is characterized by its fast tempo and intricate rhythms. The word "Anshiloti" comes from the Arabic root word "anshil" which means to move quickly. In English, it can be translated as "quick dance". |
-| 12 | [قول سعود](http://twitter.com/search?q=%d9%82%d9%88%d9%84+%d8%b3%d8%b9%d9%88%d8%af) | N/A |
-| 13 | [موتي المسلمين](http://twitter.com/search?q=%d9%85%d9%88%d8%aa%d9%8a+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d9%85%d9%8a%d9%86) | N/A |
-| 14 | [كارفخال](http://twitter.com/search?q=%d9%83%d8%a7%d8%b1%d9%81%d8%ae%d8%a7%d9%84) | N/A |
-| 15 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
-| 16 | [المعيوف](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b9%d9%8a%d9%88%d9%81) | المعيوف is an Arabic word that means "obligatory" or "required". It is used to describe something that must be done or fulfilled. |
-| 17 | [راعي الجيب](http://twitter.com/search?q=%d8%b1%d8%a7%d8%b9%d9%8a+%d8%a7%d9%84%d8%ac%d9%8a%d8%a8) | N/A |
-| 18 | [رياض الجنه](http://twitter.com/search?q=%d8%b1%d9%8a%d8%a7%d8%b6+%d8%a7%d9%84%d8%ac%d9%86%d9%87) | N/A |
-| 19 | [دي يونغ](http://twitter.com/search?q=%d8%af%d9%8a+%d9%8a%d9%88%d9%86%d8%ba) | دي يونغ (Dai Yong) is a Chinese surname. In English, it can be translated to mean "Great Hero". |
-| 20 | [نظام نور](http://twitter.com/search?q=%d9%86%d8%b8%d8%a7%d9%85+%d9%86%d9%88%d8%b1) | N/A |
-| 21 | [علي اشرف الخلق](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d8%b4%d8%b1%d9%81+%d8%a7%d9%84%d8%ae%d9%84%d9%82) | N/A |
-| 22 | [دفاع الهلال](http://twitter.com/search?q=%d8%af%d9%81%d8%a7%d8%b9+%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | N/A |
-| 23 | [علي الحبيب](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ad%d8%a8%d9%8a%d8%a8) | N/A |
-| 24 | [قول ميشيل](http://twitter.com/search?q=%d9%82%d9%88%d9%84+%d9%85%d9%8a%d8%b4%d9%8a%d9%84) | N/A |
-| 25 | [اليوم المبارك](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
-| 26 | [اليوم الخميس](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | اليوم الخميس is Arabic for "Thursday" and it means "Thursday" in English. |
-| 27 | [توريس](http://twitter.com/search?q=%d8%aa%d9%88%d8%b1%d9%8a%d8%b3) | توريس is a type of traditional Moroccan music. It is characterized by its use of complex rhythms and improvisation. In English, it can be translated as "traditional Moroccan music". |
-| 28 | [دياز](http://twitter.com/search?q=%d8%af%d9%8a%d8%a7%d8%b2) | دياز is an Arabic word that means "bargain" or "discount". |
-| 29 | [الفردوس الاعلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d8%af%d9%88%d8%b3+%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d9%8a) | N/A |
-| 30 | [الضاحكين المستبشرين](http://twitter.com/search?q=%d8%a7%d9%84%d8%b6%d8%a7%d8%ad%d9%83%d9%8a%d9%86+%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d8%a8%d8%b4%d8%b1%d9%8a%d9%86) | N/A |
-| 31 | [رافينها](http://twitter.com/search?q=%d8%b1%d8%a7%d9%81%d9%8a%d9%86%d9%87%d8%a7) | رافينها is an Arabic phrase that translates to "she ran away" in English. |
-| 32 | [نور دايم](http://twitter.com/search?q=%d9%86%d9%88%d8%b1+%d8%af%d8%a7%d9%8a%d9%85) | N/A |
-| 33 | [كروس](http://twitter.com/search?q=%d9%83%d8%b1%d9%88%d8%b3) | كروس (krus) is an Arabic word meaning "cross". It is used to refer to a Christian cross, usually in the context of religious symbolism. |
-| 34 | [حميد مجيد](http://twitter.com/search?q=%d8%ad%d9%85%d9%8a%d8%af+%d9%85%d8%ac%d9%8a%d8%af) | N/A |
-| 35 | [الونسو](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%86%d8%b3%d9%88) | N/A |
-| 36 | [عبد القدوس](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d9%82%d8%af%d9%88%d8%b3) | N/A |
-| 37 | [الريال](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d9%84) | الريال is the currency of Saudi Arabia. In English, it is known as the Saudi Riyal. |
-| 38 | [الهدف الثالث](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%af%d9%81+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab) | N/A |
-| 39 | [جنات النعيم](http://twitter.com/search?q=%d8%ac%d9%86%d8%a7%d8%aa+%d8%a7%d9%84%d9%86%d8%b9%d9%8a%d9%85) | N/A |
-| 40 | [علي ابراهيم](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85) | N/A |
-| 41 | [11 مارس](http://twitter.com/search?q=11+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
-| 42 | [عين رات](http://twitter.com/search?q=%d8%b9%d9%8a%d9%86+%d8%b1%d8%a7%d8%aa) | N/A |
-| 43 | [صالح الاعمال](http://twitter.com/search?q=%d8%b5%d8%a7%d9%84%d8%ad+%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d8%a7%d9%84) | N/A |
-| 44 | [سييرا](http://twitter.com/search?q=%d8%b3%d9%8a%d9%8a%d8%b1%d8%a7) | N/A |
-| 45 | [الدوريات العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a%d8%a7%d8%aa+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
-| 46 | [بوفون](http://twitter.com/search?q=%d8%a8%d9%88%d9%81%d9%88%d9%86) | N/A |
-| 47 | [الخفاش الاسود](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d9%81%d8%a7%d8%b4+%d8%a7%d9%84%d8%a7%d8%b3%d9%88%d8%af) | N/A |
-| 48 | [الفصل الدراسي الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b5%d9%84+%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%8a+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
-| 49 | [فيسكا بارسا](http://twitter.com/search?q=%d9%81%d9%8a%d8%b3%d9%83%d8%a7+%d8%a8%d8%a7%d8%b1%d8%b3%d8%a7) | N/A |
-| 50 | [اكرم الاكرمين](http://twitter.com/search?q=%d8%a7%d9%83%d8%b1%d9%85+%d8%a7%d9%84%d8%a7%d9%83%d8%b1%d9%85%d9%8a%d9%86) | N/A |
+| 1 | [#ساعه_استجابه](http://twitter.com/search?q=%23%d8%b3%d8%a7%d8%b9%d9%87_%d8%a7%d8%b3%d8%aa%d8%ac%d8%a7%d8%a8%d9%87) | #ساعه_استجابه is an Arabic hashtag that translates to "response time". It is used to refer to the amount of time it takes for someone to respond to a message or request. |
+| 2 | [#الصلاه_علي_النبي](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b5%d9%84%d8%a7%d9%87_%d8%b9%d9%84%d9%8a_%d8%a7%d9%84%d9%86%d8%a8%d9%8a) | N/A |
+| 3 | [محمد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af) | محمد is an Arabic name that means "praiseworthy" in English. It is also the name of the Islamic prophet Muhammad. |
+| 4 | [#يوم_Iلجمعه](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_I%d9%84%d8%ac%d9%85%d8%b9%d9%87) | N/A |
+| 5 | [#جمعه_مباركه](http://twitter.com/search?q=%23%d8%ac%d9%85%d8%b9%d9%87_%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | #جمعه_مباركه is an Arabic hashtag that translates to "blessed Friday". It is used to express joy and appreciation for the start of the weekend. |
+| 6 | [#ون_مع](http://twitter.com/search?q=%23%d9%88%d9%86_%d9%85%d8%b9) | N/A |
+| 7 | [علي النبي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%86%d8%a8%d9%8a) | "علي النبي" is an Arabic phrase that translates to "upon the Prophet". It is used as a blessing or invocation of peace and blessings upon the Prophet Muhammad. |
+| 8 | [سلم علي](http://twitter.com/search?q=%d8%b3%d9%84%d9%85+%d8%b9%d9%84%d9%8a) | سلم علي is an Arabic phrase that translates to "Peace be upon you" in English. It is a common greeting used in the Middle East and other parts of the world. |
+| 9 | [اليوم الفضيل](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d9%81%d8%b6%d9%8a%d9%84) | N/A |
+| 10 | [راعي الجيب](http://twitter.com/search?q=%d8%b1%d8%a7%d8%b9%d9%8a+%d8%a7%d9%84%d8%ac%d9%8a%d8%a8) | N/A |
+| 11 | [نور مابين الجمعتين](http://twitter.com/search?q=%d9%86%d9%88%d8%b1+%d9%85%d8%a7%d8%a8%d9%8a%d9%86+%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d8%aa%d9%8a%d9%86) | N/A |
+| 12 | [علي الحبيب](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ad%d8%a8%d9%8a%d8%a8) | N/A |
+| 13 | [علي اشرف الخلق](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d8%b4%d8%b1%d9%81+%d8%a7%d9%84%d8%ae%d9%84%d9%82) | N/A |
+| 14 | [دار السلام](http://twitter.com/search?q=%d8%af%d8%a7%d8%b1+%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85) | N/A |
+| 15 | [حميد مجيد](http://twitter.com/search?q=%d8%ad%d9%85%d9%8a%d8%af+%d9%85%d8%ac%d9%8a%d8%af) | N/A |
+| 16 | [اليوم المبارك](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
+| 17 | [نور دايم](http://twitter.com/search?q=%d9%86%d9%88%d8%b1+%d8%af%d8%a7%d9%8a%d9%85) | N/A |
+| 18 | [علي ابراهيم](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85) | N/A |
+| 19 | [الضاحكين المستبشرين](http://twitter.com/search?q=%d8%a7%d9%84%d8%b6%d8%a7%d8%ad%d9%83%d9%8a%d9%86+%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d8%a8%d8%b4%d8%b1%d9%8a%d9%86) | N/A |
+| 20 | [عبد مسلم](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af+%d9%85%d8%b3%d9%84%d9%85) | N/A |
+| 21 | [عين رات](http://twitter.com/search?q=%d8%b9%d9%8a%d9%86+%d8%b1%d8%a7%d8%aa) | N/A |
+| 22 | [علي قلب بشر](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%82%d9%84%d8%a8+%d8%a8%d8%b4%d8%b1) | N/A |
+| 23 | [قبر ابي](http://twitter.com/search?q=%d9%82%d8%a8%d8%b1+%d8%a7%d8%a8%d9%8a) | N/A |
+| 24 | [نهر الكوثر](http://twitter.com/search?q=%d9%86%d9%87%d8%b1+%d8%a7%d9%84%d9%83%d9%88%d8%ab%d8%b1) | N/A |
+| 25 | [علي الرسول](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b1%d8%b3%d9%88%d9%84) | N/A |
+| 26 | [#طلاب_المستقبل](http://twitter.com/search?q=%23%d8%b7%d9%84%d8%a7%d8%a8_%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d9%82%d8%a8%d9%84) | N/A |
+| 27 | [#جمعه_طيبه](http://twitter.com/search?q=%23%d8%ac%d9%85%d8%b9%d9%87_%d8%b7%d9%8a%d8%a8%d9%87) | N/A |
+| 28 | [#زد_رصيدك39](http://twitter.com/search?q=%23%d8%b2%d8%af_%d8%b1%d8%b5%d9%8a%d8%af%d9%8339) | N/A |
+| 29 | [#البكيري_يثير_التعصب_الرياضي](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d9%83%d9%8a%d8%b1%d9%8a_%d9%8a%d8%ab%d9%8a%d8%b1_%d8%a7%d9%84%d8%aa%d8%b9%d8%b5%d8%a8_%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d9%8a) | N/A |
+| 30 | [#سوره_الكهف](http://twitter.com/search?q=%23%d8%b3%d9%88%d8%b1%d9%87_%d8%a7%d9%84%d9%83%d9%87%d9%81) | N/A |
+| 31 | [#راكان_بن_فلاح_بن_حثلين](http://twitter.com/search?q=%23%d8%b1%d8%a7%d9%83%d8%a7%d9%86_%d8%a8%d9%86_%d9%81%d9%84%d8%a7%d8%ad_%d8%a8%d9%86_%d8%ad%d8%ab%d9%84%d9%8a%d9%86) | N/A |
+| 32 | [#العربيه_20_عاما_واكثر](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87_20_%d8%b9%d8%a7%d9%85%d8%a7_%d9%88%d8%a7%d9%83%d8%ab%d8%b1) | N/A |
+| 33 | [#الاتحاد_الخليج](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af_%d8%a7%d9%84%d8%ae%d9%84%d9%8a%d8%ac) | N/A |
+| 34 | [#رصيف_العالم](http://twitter.com/search?q=%23%d8%b1%d8%b5%d9%8a%d9%81_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | N/A |
+| 35 | [#هجوم_العمالقه](http://twitter.com/search?q=%23%d9%87%d8%ac%d9%88%d9%85_%d8%a7%d9%84%d8%b9%d9%85%d8%a7%d9%84%d9%82%d9%87) | N/A |
+| 36 | [#النصر_الباطن](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%86%d8%b5%d8%b1_%d8%a7%d9%84%d8%a8%d8%a7%d8%b7%d9%86) | N/A |
+| 37 | [#الراحه_النفسيه](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b1%d8%a7%d8%ad%d9%87_%d8%a7%d9%84%d9%86%d9%81%d8%b3%d9%8a%d9%87) | N/A |
+| 38 | [#AttackOnTitan](http://twitter.com/search?q=%23AttackOnTitan) | N/A |
+| 39 | [#الاجور_والمعاشات](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d8%ac%d9%88%d8%b1_%d9%88%d8%a7%d9%84%d9%85%d8%b9%d8%a7%d8%b4%d8%a7%d8%aa) | N/A |
+| 40 | [#الجابريه_الرحله٤٢٢](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%ac%d8%a7%d8%a8%d8%b1%d9%8a%d9%87_%d8%a7%d9%84%d8%b1%d8%ad%d9%84%d9%87%d9%a4%d9%a2%d9%a2) | N/A |
+| 41 | [#شكرا_معالي_المستشار](http://twitter.com/search?q=%23%d8%b4%d9%83%d8%b1%d8%a7_%d9%85%d8%b9%d8%a7%d9%84%d9%8a_%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d8%b4%d8%a7%d8%b1) | N/A |
 
 
 

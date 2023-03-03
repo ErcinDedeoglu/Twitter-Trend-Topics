@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belfast
 
-📆 Last Updated: `2023-03-03 10:15:49 UTC`
+📆 Last Updated: `2023-03-03 11:17:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#TheApprentice](http://twitter.com/search?q=%23TheApprentice) | #TheApprentice is a reality television show created by Mark Burnett, in which a group of aspiring businesspeople compete for a job with a successful business executive. The show has been running since 2004 and has aired in many countries around the world. The show's title refers to the contestants being "apprentices" to the executive, learning from them and competing against each other for the job. |
-| 2 | [#JLStour](http://twitter.com/search?q=%23JLStour) | N/A |
+| 2 | [#popmaster](http://twitter.com/search?q=%23popmaster) | N/A |
 | 3 | [Sue Gray](http://twitter.com/search?q=Sue+Gray) | N/A |
 | 4 | [#WorldWildlifeDay](http://twitter.com/search?q=%23WorldWildlifeDay) | N/A |
-| 5 | [#BandcampFriday](http://twitter.com/search?q=%23BandcampFriday) | N/A |
-| 6 | [Glastonbury](http://twitter.com/search?q=Glastonbury) | N/A |
-| 7 | [Partygate](http://twitter.com/search?q=Partygate) | N/A |
-| 8 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
+| 5 | [Glastonbury](http://twitter.com/search?q=Glastonbury) | N/A |
+| 6 | [#KenBruce](http://twitter.com/search?q=%23KenBruce) | N/A |
+| 7 | [Radio 2](http://twitter.com/search?q=Radio+2) | Radio 2 is a BBC radio station in the United Kingdom. It broadcasts a mix of music, news, and entertainment programs. The station's tagline is "The UK's Most Popular Music Station". Radio 2 is the most listened to radio station in the UK, with an average weekly reach of 15.2 million listeners. |
+| 8 | [Sam Curran](http://twitter.com/search?q=Sam+Curran) | Sam Curran is a professional cricketer from England. He is a left-arm fast-medium bowler and left-handed batsman who plays for the England national cricket team and Surrey County Cricket Club. He made his international debut in 2018 and has since become an important member of the team, playing in all three formats of the game. The meaning of Sam Curran in English is "a talented cricketer from England". |
 | 9 | [Arctic Monkeys](http://twitter.com/search?q=Arctic+Monkeys) | N/A |
-| 10 | [David Frost](http://twitter.com/search?q=David+Frost) | N/A |
-| 11 | [Nick Robinson](http://twitter.com/search?q=Nick+Robinson) | N/A |
-| 12 | [Guns N](http://twitter.com/search?q=Guns+N) | N/A |
-| 13 | [Jason Roy](http://twitter.com/search?q=Jason+Roy) | Jason Roy is a professional English cricketer who plays for the England national cricket team. He is an aggressive right-handed batsman and occasional right-arm off-break bowler. |
-| 14 | [Daily Quordle 403](http://twitter.com/search?q=Daily+Quordle+403) | N/A |
-| 15 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
-| 16 | [Alexander Stafford](http://twitter.com/search?q=Alexander+Stafford) | N/A |
-| 17 | [Boris](http://twitter.com/search?q=Boris) | N/A |
-| 18 | [Downing Street](http://twitter.com/search?q=Downing+Street) | N/A |
-| 19 | [Simon Case](http://twitter.com/search?q=Simon+Case) | N/A |
-| 20 | [Marv](http://twitter.com/search?q=Marv) | N/A |
-| 21 | [Betteridge](http://twitter.com/search?q=Betteridge) | N/A |
-| 22 | [Pret](http://twitter.com/search?q=Pret) | N/A |
-| 23 | [Lana Del Rey](http://twitter.com/search?q=Lana+Del+Rey) | N/A |
-| 24 | [Mail](http://twitter.com/search?q=Mail) | N/A |
-| 25 | [Lamborghini](http://twitter.com/search?q=Lamborghini) | N/A |
-| 26 | [ACOBA](http://twitter.com/search?q=ACOBA) | N/A |
-| 27 | [Civil Service](http://twitter.com/search?q=Civil+Service) | N/A |
-| 28 | [Oxbridge](http://twitter.com/search?q=Oxbridge) | N/A |
-| 29 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 30 | [ABBA](http://twitter.com/search?q=ABBA) | N/A |
-| 31 | [Nads](http://twitter.com/search?q=Nads) | N/A |
-| 32 | [UK Open](http://twitter.com/search?q=UK+Open) | N/A |
-| 33 | [De Jong](http://twitter.com/search?q=De+Jong) | De Jong is a Dutch surname. It is derived from the personal name Jan, which is a form of John. The literal meaning of the name in English is "son of John". |
-| 34 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
-| 35 | [Alex Murdaugh](http://twitter.com/search?q=Alex+Murdaugh) | N/A |
-| 36 | [Daily Fail](http://twitter.com/search?q=Daily+Fail) | N/A |
-| 37 | [Kier Starmer](http://twitter.com/search?q=Kier+Starmer) | N/A |
-| 38 | [Discovery](http://twitter.com/search?q=Discovery) | N/A |
-| 39 | [Richard Sharp](http://twitter.com/search?q=Richard+Sharp) | N/A |
-| 40 | [Lando](http://twitter.com/search?q=Lando) | N/A |
-| 41 | [No.10](http://twitter.com/search?q=No.10) | N/A |
-| 42 | [Trek](http://twitter.com/search?q=Trek) | N/A |
-| 43 | [Nadine](http://twitter.com/search?q=Nadine) | Nadine is a female given name of French origin, derived from the name Nadia. It is a variant of the name Nadia, which is derived from the Russian name Nadezhda, meaning “hope”. |
-| 44 | [Fiona Bruce](http://twitter.com/search?q=Fiona+Bruce) | N/A |
-| 45 | [Number 10](http://twitter.com/search?q=Number+10) | N/A |
-| 46 | [Harwood](http://twitter.com/search?q=Harwood) | N/A |
-| 47 | [Durham](http://twitter.com/search?q=Durham) | N/A |
-| 48 | [GDPR](http://twitter.com/search?q=GDPR) | N/A |
+| 10 | [Partygate](http://twitter.com/search?q=Partygate) | N/A |
+| 11 | [Guns N](http://twitter.com/search?q=Guns+N) | N/A |
+| 12 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
+| 13 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
+| 14 | [Elton John](http://twitter.com/search?q=Elton+John) | N/A |
+| 15 | [DLT Malta](http://twitter.com/search?q=DLT+Malta) | N/A |
+| 16 | [Dean Saunders](http://twitter.com/search?q=Dean+Saunders) | N/A |
+| 17 | [David Frost](http://twitter.com/search?q=David+Frost) | N/A |
+| 18 | [Nick Robinson](http://twitter.com/search?q=Nick+Robinson) | N/A |
+| 19 | [Lana Del Rey](http://twitter.com/search?q=Lana+Del+Rey) | N/A |
+| 20 | [Jason Roy](http://twitter.com/search?q=Jason+Roy) | Jason Roy is a professional English cricketer who plays for the England national cricket team. He is an aggressive right-handed batsman and occasional right-arm off-break bowler. |
+| 21 | [Marv](http://twitter.com/search?q=Marv) | N/A |
+| 22 | [Simon Case](http://twitter.com/search?q=Simon+Case) | N/A |
+| 23 | [Boris](http://twitter.com/search?q=Boris) | N/A |
+| 24 | [Blondie](http://twitter.com/search?q=Blondie) | N/A |
+| 25 | [Downing Street](http://twitter.com/search?q=Downing+Street) | N/A |
+| 26 | [slade](http://twitter.com/search?q=slade) | N/A |
+| 27 | [ON SALE NOW](http://twitter.com/search?q=ON+SALE+NOW) | N/A |
+| 28 | [Christopher Fowler](http://twitter.com/search?q=Christopher+Fowler) | N/A |
+| 29 | [Daily Mail](http://twitter.com/search?q=Daily+Mail) | N/A |
+| 30 | [Spartacus](http://twitter.com/search?q=Spartacus) | N/A |
+| 31 | [Daily Quordle 403](http://twitter.com/search?q=Daily+Quordle+403) | N/A |
+| 32 | [Alexander Stafford](http://twitter.com/search?q=Alexander+Stafford) | N/A |
+| 33 | [Bryant](http://twitter.com/search?q=Bryant) | N/A |
+| 34 | [Betteridge](http://twitter.com/search?q=Betteridge) | N/A |
+| 35 | [Pret](http://twitter.com/search?q=Pret) | N/A |
+| 36 | [ABBA](http://twitter.com/search?q=ABBA) | N/A |
+| 37 | [UK Open](http://twitter.com/search?q=UK+Open) | N/A |
+| 38 | [Lamborghini](http://twitter.com/search?q=Lamborghini) | N/A |
+| 39 | [Oxbridge](http://twitter.com/search?q=Oxbridge) | N/A |
+| 40 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 41 | [Civil Service](http://twitter.com/search?q=Civil+Service) | N/A |
+| 42 | [Insurance](http://twitter.com/search?q=Insurance) | N/A |
+| 43 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 44 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 45 | [De Jong](http://twitter.com/search?q=De+Jong) | De Jong is a Dutch surname. It is derived from the personal name Jan, which is a form of John. The literal meaning of the name in English is "son of John". |
+| 46 | [Kier Starmer](http://twitter.com/search?q=Kier+Starmer) | N/A |
+| 47 | [ACOBA](http://twitter.com/search?q=ACOBA) | N/A |
+| 48 | [International Women's Day](http://twitter.com/search?q=International+Women%27s+Day) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Multan
 
-📆 Last Updated: `2023-03-03 10:16:18 UTC`
+📆 Last Updated: `2023-03-03 11:18:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Pakistan](</Pakistan>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#ٹرک_پھڑیا_گیا](http://twitter.com/search?q=%23%d9%b9%d8%b1%da%a9_%d9%be%da%be%da%91%db%8c%d8%a7_%da%af%db%8c%d8%a7) | N/A |
-| 2 | [#عدل_کی_قیمت_ایک_ٹرک](http://twitter.com/search?q=%23%d8%b9%d8%af%d9%84_%da%a9%db%8c_%d9%82%db%8c%d9%85%d8%aa_%d8%a7%db%8c%da%a9_%d9%b9%d8%b1%da%a9) | N/A |
-| 3 | [#LQvQG](http://twitter.com/search?q=%23LQvQG) | N/A |
-| 4 | [#DollarPrice](http://twitter.com/search?q=%23DollarPrice) | N/A |
-| 5 | [SIKANDAR RAZA](http://twitter.com/search?q=SIKANDAR+RAZA) | N/A |
-| 6 | [SIKANDAR RAZA](http://twitter.com/search?q=SIKANDAR+RAZA) | N/A |
-| 7 | [Truck](http://twitter.com/search?q=Truck) | N/A |
-| 8 | [Ishaq Dar](http://twitter.com/search?q=Ishaq+Dar) | N/A |
-| 9 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 2 | [#AoKerDikhaen](http://twitter.com/search?q=%23AoKerDikhaen) | N/A |
+| 3 | [#عدل_کی_قیمت_ایک_ٹرک](http://twitter.com/search?q=%23%d8%b9%d8%af%d9%84_%da%a9%db%8c_%d9%82%db%8c%d9%85%d8%aa_%d8%a7%db%8c%da%a9_%d9%b9%d8%b1%da%a9) | N/A |
+| 4 | [#LQvQG](http://twitter.com/search?q=%23LQvQG) | N/A |
+| 5 | [Truck](http://twitter.com/search?q=Truck) | N/A |
+| 6 | [President Arif Alvi](http://twitter.com/search?q=President+Arif+Alvi) | N/A |
+| 7 | [SIKANDAR RAZA](http://twitter.com/search?q=SIKANDAR+RAZA) | N/A |
+| 8 | [SIKANDAR RAZA](http://twitter.com/search?q=SIKANDAR+RAZA) | N/A |
+| 9 | [Prime Minister](http://twitter.com/search?q=Prime+Minister) | N/A |
 | 10 | [Mighty](http://twitter.com/search?q=Mighty) | N/A |
 | 11 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 12 | [Prophet Muhammad](http://twitter.com/search?q=Prophet+Muhammad) | N/A |
-| 13 | [Quetta](http://twitter.com/search?q=Quetta) | Quetta is a city in Pakistan located in the province of Balochistan. The name Quetta is derived from the Pashto word "Kwatak", meaning fort. In English, Quetta translates to "fortress". |
-| 14 | [QALANDARS](http://twitter.com/search?q=QALANDARS) | N/A |
-| 15 | [Namoos Sahaba Ahlbait Bill](http://twitter.com/search?q=Namoos+Sahaba+Ahlbait+Bill) | N/A |
-| 16 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 17 | [Resign](http://twitter.com/search?q=Resign) | Resign is a verb that means to formally give up or quit a job, position, or office. It is usually done in writing and is often accompanied by a letter of resignation. |
-| 18 | [Hafeez](http://twitter.com/search?q=Hafeez) | N/A |
-| 19 | [Youth](http://twitter.com/search?q=Youth) | N/A |
-| 20 | [Saifi](http://twitter.com/search?q=Saifi) | Saifi is an Arabic name that means "one who is pure". It is also used as a surname. |
-| 21 | [Haseebullah](http://twitter.com/search?q=Haseebullah) | N/A |
-| 22 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 23 | [Rauf](http://twitter.com/search?q=Rauf) | N/A |
-| 24 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 25 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 26 | [Ali Akbar](http://twitter.com/search?q=Ali+Akbar) | N/A |
-| 27 | [Fati](http://twitter.com/search?q=Fati) | N/A |
-| 28 | [Gladiators](http://twitter.com/search?q=Gladiators) | N/A |
-| 29 | [Rashid](http://twitter.com/search?q=Rashid) | N/A |
-| 30 | [Miftah](http://twitter.com/search?q=Miftah) | N/A |
-| 31 | [Sack](http://twitter.com/search?q=Sack) | N/A |
-| 32 | [3rd March](http://twitter.com/search?q=3rd+March) | N/A |
-| 33 | [Dembele](http://twitter.com/search?q=Dembele) | Dembele is a surname of West African origin. It is derived from the Mande language and means "peaceful warrior". In English, it can be translated to mean "one who brings peace through strength". |
-| 34 | [Happy Baloch](http://twitter.com/search?q=Happy+Baloch) | N/A |
-| 35 | [State Bank of Pakistan](http://twitter.com/search?q=State+Bank+of+Pakistan) | N/A |
-| 36 | [Murtasim](http://twitter.com/search?q=Murtasim) | N/A |
-| 37 | [O Allah](http://twitter.com/search?q=O+Allah) | N/A |
-| 38 | [Your DM](http://twitter.com/search?q=Your+DM) | N/A |
-| 39 | [Photoshop](http://twitter.com/search?q=Photoshop) | N/A |
-| 40 | [MBBS](http://twitter.com/search?q=MBBS) | N/A |
-| 41 | [Boot](http://twitter.com/search?q=Boot) | N/A |
-| 42 | [Sirf](http://twitter.com/search?q=Sirf) | N/A |
-| 43 | [President](http://twitter.com/search?q=President) | N/A |
-| 44 | [Maryam Nawaz](http://twitter.com/search?q=Maryam+Nawaz) | N/A |
-| 45 | [Sum Ameen](http://twitter.com/search?q=Sum+Ameen) | N/A |
-| 46 | [Shehbaz Sharif](http://twitter.com/search?q=Shehbaz+Sharif) | N/A |
-| 47 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 48 | [PML N](http://twitter.com/search?q=PML+N) | N/A |
-| 49 | [Gilgit](http://twitter.com/search?q=Gilgit) | N/A |
+| 12 | [Qalandars](http://twitter.com/search?q=Qalandars) | N/A |
+| 13 | [Namoos Sahaba Ahlbait Bill](http://twitter.com/search?q=Namoos+Sahaba+Ahlbait+Bill) | N/A |
+| 14 | [Resign](http://twitter.com/search?q=Resign) | Resign is a verb that means to formally give up or quit a job, position, or office. It is usually done in writing and is often accompanied by a letter of resignation. |
+| 15 | [Quetta](http://twitter.com/search?q=Quetta) | Quetta is a city in Pakistan located in the province of Balochistan. The name Quetta is derived from the Pashto word "Kwatak", meaning fort. In English, Quetta translates to "fortress". |
+| 16 | [Hafeez](http://twitter.com/search?q=Hafeez) | N/A |
+| 17 | [Youth](http://twitter.com/search?q=Youth) | N/A |
+| 18 | [Ali Akbar](http://twitter.com/search?q=Ali+Akbar) | N/A |
+| 19 | [Saifi](http://twitter.com/search?q=Saifi) | Saifi is an Arabic name that means "one who is pure". It is also used as a surname. |
+| 20 | [Haseebullah](http://twitter.com/search?q=Haseebullah) | N/A |
+| 21 | [Rauf](http://twitter.com/search?q=Rauf) | N/A |
+| 22 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 23 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
+| 24 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 25 | [Fati](http://twitter.com/search?q=Fati) | N/A |
+| 26 | [3rd March](http://twitter.com/search?q=3rd+March) | N/A |
+| 27 | [gladiators](http://twitter.com/search?q=gladiators) | N/A |
+| 28 | [miftah](http://twitter.com/search?q=miftah) | N/A |
+| 29 | [Rashid Khan](http://twitter.com/search?q=Rashid+Khan) | N/A |
+| 30 | [Sack](http://twitter.com/search?q=Sack) | N/A |
+| 31 | [Dembele](http://twitter.com/search?q=Dembele) | Dembele is a surname of West African origin. It is derived from the Mande language and means "peaceful warrior". In English, it can be translated to mean "one who brings peace through strength". |
+| 32 | [Happy Baloch](http://twitter.com/search?q=Happy+Baloch) | N/A |
+| 33 | [State Bank of Pakistan](http://twitter.com/search?q=State+Bank+of+Pakistan) | N/A |
+| 34 | [Murtasim](http://twitter.com/search?q=Murtasim) | N/A |
+| 35 | [O Allah](http://twitter.com/search?q=O+Allah) | N/A |
+| 36 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
+| 37 | [MBBS](http://twitter.com/search?q=MBBS) | N/A |
+| 38 | [Prophet Muhammad](http://twitter.com/search?q=Prophet+Muhammad) | N/A |
+| 39 | [Sirf](http://twitter.com/search?q=Sirf) | N/A |
+| 40 | [Boot](http://twitter.com/search?q=Boot) | N/A |
+| 41 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 42 | [Imam Hussain](http://twitter.com/search?q=Imam+Hussain) | N/A |
+| 43 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 44 | [Arey](http://twitter.com/search?q=Arey) | N/A |
+| 45 | [Ameen](http://twitter.com/search?q=Ameen) | N/A |
+| 46 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
+| 47 | [Gilgit](http://twitter.com/search?q=Gilgit) | N/A |
+| 48 | [endorsed](http://twitter.com/search?q=endorsed) | N/A |
+| 49 | [Mashallah](http://twitter.com/search?q=Mashallah) | N/A |
 
 
 

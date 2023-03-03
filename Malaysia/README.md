@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Malaysia
 
-📆 Last Updated: `2023-03-03 10:16:35 UTC`
+📆 Last Updated: `2023-03-03 11:18:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Malaysia
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ROAR2ndWin](http://twitter.com/search?q=%23ROAR2ndWin) | N/A |
-| 2 | [jennie](http://twitter.com/search?q=jennie) | N/A |
-| 3 | [#LAZADA11DAYxGeminiFourth](http://twitter.com/search?q=%23LAZADA11DAYxGeminiFourth) | N/A |
+| 1 | [#LOEWExTAEYONG](http://twitter.com/search?q=%23LOEWExTAEYONG) | N/A |
+| 2 | [Jennie](http://twitter.com/search?q=Jennie) | Jennie is a female given name, derived from the name Jennifer. It is a diminutive form of Jennifer, which means "white wave" or "fair one". |
+| 3 | [#ROAR2ndWin](http://twitter.com/search?q=%23ROAR2ndWin) | N/A |
 | 4 | [#on_the_street](http://twitter.com/search?q=%23on_the_street) | N/A |
 | 5 | [#BORNPINKinKL](http://twitter.com/search?q=%23BORNPINKinKL) | N/A |
 | 6 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 7 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
-| 8 | [#TWICE_BreakthroughAward](http://twitter.com/search?q=%23TWICE_BreakthroughAward) | N/A |
-| 9 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
-| 10 | [dawon](http://twitter.com/search?q=dawon) | N/A |
-| 11 | [First Bias](http://twitter.com/search?q=First+Bias) | N/A |
-| 12 | [Ultimate Bias](http://twitter.com/search?q=Ultimate+Bias) | N/A |
-| 13 | [WHO IN SEVENTEEN](http://twitter.com/search?q=WHO+IN+SEVENTEEN) | N/A |
-| 14 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
-| 15 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 16 | [wjsn](http://twitter.com/search?q=wjsn) | WJSN stands for Cosmic Girls, a South Korean girl group formed in 2016 by Starship Entertainment and Yuehua Entertainment. The group consists of thirteen members: Seola, Xuan Yi, Bona, Exy, Soobin, Luda, Dawon, Eunseo, Cheng Xiao, Mei Qi, Yeoreum, Dayoung and Yeonjung. The name WJSN is an acronym for “Wonderful Journey to the Stars”. |
+| 7 | [#TWICE_BreakthroughAward](http://twitter.com/search?q=%23TWICE_BreakthroughAward) | N/A |
+| 8 | [dawon](http://twitter.com/search?q=dawon) | N/A |
+| 9 | [First Bias](http://twitter.com/search?q=First+Bias) | N/A |
+| 10 | [Ultimate Bias](http://twitter.com/search?q=Ultimate+Bias) | N/A |
+| 11 | [WHO IN SEVENTEEN](http://twitter.com/search?q=WHO+IN+SEVENTEEN) | N/A |
+| 12 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
+| 13 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
+| 14 | [WJSN](http://twitter.com/search?q=WJSN) | N/A |
+| 15 | [Luda](http://twitter.com/search?q=Luda) | N/A |
+| 16 | [Menu Rahmah](http://twitter.com/search?q=Menu+Rahmah) | N/A |
 | 17 | [Top 5](http://twitter.com/search?q=Top+5) | Top 5 is a phrase used to refer to the five best or most popular items in a particular category. It is commonly used to refer to the five best movies, songs, books, or other items in a given field. |
-| 18 | [Menu Rahmah](http://twitter.com/search?q=Menu+Rahmah) | N/A |
-| 19 | [Luda](http://twitter.com/search?q=Luda) | N/A |
-| 20 | [WITHOUT U MV TEASER 1](http://twitter.com/search?q=WITHOUT+U+MV+TEASER+1) | N/A |
-| 21 | [1MDB](http://twitter.com/search?q=1MDB) | N/A |
-| 22 | [Kim K](http://twitter.com/search?q=Kim+K) | N/A |
+| 18 | [WITHOUT U MV TEASER 1](http://twitter.com/search?q=WITHOUT+U+MV+TEASER+1) | N/A |
+| 19 | [1MDB](http://twitter.com/search?q=1MDB) | N/A |
+| 20 | [Kim K](http://twitter.com/search?q=Kim+K) | N/A |
+| 21 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 22 | [Najib](http://twitter.com/search?q=Najib) | N/A |
 | 23 | [Red Velvet](http://twitter.com/search?q=Red+Velvet) | N/A |
-| 24 | [Najib](http://twitter.com/search?q=Najib) | N/A |
-| 25 | [Park Jimin](http://twitter.com/search?q=Park+Jimin) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name is derived from his given name, Park Ji-min. |
-| 26 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
-| 27 | [NICE TO MEET YOU BUILD](http://twitter.com/search?q=NICE+TO+MEET+YOU+BUILD) | N/A |
-| 28 | [Top 3](http://twitter.com/search?q=Top+3) | N/A |
-| 29 | [Jiho](http://twitter.com/search?q=Jiho) | N/A |
-| 30 | [TWICE BILLBOARD AWARD](http://twitter.com/search?q=TWICE+BILLBOARD+AWARD) | N/A |
-| 31 | [Dori](http://twitter.com/search?q=Dori) | N/A |
-| 32 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
-| 33 | [5m build](http://twitter.com/search?q=5m+build) | N/A |
-| 34 | [hooray for 2](http://twitter.com/search?q=hooray+for+2) | N/A |
-| 35 | [Kuala Lumpur](http://twitter.com/search?q=Kuala+Lumpur) | N/A |
-| 36 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
-| 37 | [TY WEARS LOEWE](http://twitter.com/search?q=TY+WEARS+LOEWE) | N/A |
-| 38 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
-| 39 | [salam jumaat](http://twitter.com/search?q=salam+jumaat) | N/A |
-| 40 | [Pikamee](http://twitter.com/search?q=Pikamee) | N/A |
-| 41 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 42 | [done mai](http://twitter.com/search?q=done+mai) | N/A |
-| 43 | [Arul Kanda](http://twitter.com/search?q=Arul+Kanda) | N/A |
-| 44 | [LE SSERAFIM](http://twitter.com/search?q=LE+SSERAFIM) | LE SSERAFIM is a French phrase meaning "the seraphim." In Christianity, seraphim are angels of the highest order, often depicted with six wings and a fiery presence. |
-| 45 | [sunscreen - 3w](http://twitter.com/search?q=sunscreen+-+3w) | N/A |
-| 46 | [New Jeans](http://twitter.com/search?q=New+Jeans) | N/A |
-| 47 | [Leona](http://twitter.com/search?q=Leona) | N/A |
-| 48 | [Sam Levinson](http://twitter.com/search?q=Sam+Levinson) | N/A |
-| 49 | [Balak](http://twitter.com/search?q=Balak) | N/A |
-| 50 | [Klang](http://twitter.com/search?q=Klang) | N/A |
+| 24 | [Top 3](http://twitter.com/search?q=Top+3) | N/A |
+| 25 | [NICE TO MEET YOU BUILD](http://twitter.com/search?q=NICE+TO+MEET+YOU+BUILD) | N/A |
+| 26 | [Jiho](http://twitter.com/search?q=Jiho) | N/A |
+| 27 | [TWICE BILLBOARD AWARD](http://twitter.com/search?q=TWICE+BILLBOARD+AWARD) | N/A |
+| 28 | [Dori](http://twitter.com/search?q=Dori) | N/A |
+| 29 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 30 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
+| 31 | [TY WEARS LOEWE](http://twitter.com/search?q=TY+WEARS+LOEWE) | N/A |
+| 32 | [Park Jimin](http://twitter.com/search?q=Park+Jimin) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name is derived from his given name, Park Ji-min. |
+| 33 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
+| 34 | [Eric](http://twitter.com/search?q=Eric) | Eric is a masculine given name of Old Norse origin, derived from the Old Norse name Eiríkr. It is related to the Latin name Ericus, which is derived from the Latin word for "ever-ruler". In English, Eric means "eternal ruler" or "ever-powerful". |
+| 35 | [salam jumaat](http://twitter.com/search?q=salam+jumaat) | N/A |
+| 36 | [Pikamee](http://twitter.com/search?q=Pikamee) | N/A |
+| 37 | [Leona](http://twitter.com/search?q=Leona) | N/A |
+| 38 | [arul kanda](http://twitter.com/search?q=arul+kanda) | N/A |
+| 39 | [LE SSERAFIM](http://twitter.com/search?q=LE+SSERAFIM) | LE SSERAFIM is a French phrase meaning "the seraphim." In Christianity, seraphim are angels of the highest order, often depicted with six wings and a fiery presence. |
+| 40 | [sunscreen - 3w](http://twitter.com/search?q=sunscreen+-+3w) | N/A |
+| 41 | [New Jeans](http://twitter.com/search?q=New+Jeans) | N/A |
+| 42 | [KLIA](http://twitter.com/search?q=KLIA) | N/A |
+| 43 | [Yuta](http://twitter.com/search?q=Yuta) | N/A |
+| 44 | [Klang](http://twitter.com/search?q=Klang) | N/A |
+| 45 | [Erwin](http://twitter.com/search?q=Erwin) | N/A |
+| 46 | [pejuang](http://twitter.com/search?q=pejuang) | N/A |
+| 47 | [Super Junior](http://twitter.com/search?q=Super+Junior) | N/A |
+| 48 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
+| 49 | [Doha](http://twitter.com/search?q=Doha) | N/A |
+| 50 | [8 series to get to know me](http://twitter.com/search?q=8+series+to+get+to+know+me) | N/A |
 
 
 

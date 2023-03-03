@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belo Horizonte
 
-📆 Last Updated: `2023-03-03 10:15:54 UTC`
+📆 Last Updated: `2023-03-03 11:17:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,51 +15,53 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Feliz Natal](http://twitter.com/search?q=Feliz+Natal) | Feliz Natal is a Portuguese phrase meaning "Merry Christmas". It is commonly used in Brazil and other Portuguese-speaking countries during the holiday season. |
-| 2 | [#on_the_street](http://twitter.com/search?q=%23on_the_street) | N/A |
-| 3 | [Sergipe](http://twitter.com/search?q=Sergipe) | N/A |
-| 4 | [Sergipe](http://twitter.com/search?q=Sergipe) | N/A |
-| 5 | [Luda](http://twitter.com/search?q=Luda) | N/A |
-| 6 | [#HappyBirthdayCamila](http://twitter.com/search?q=%23HappyBirthdayCamila) | N/A |
+| 1 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 2 | [Feliz Natal](http://twitter.com/search?q=Feliz+Natal) | Feliz Natal is a Portuguese phrase meaning "Merry Christmas". It is commonly used in Brazil and other Portuguese-speaking countries during the holiday season. |
+| 3 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 4 | [#on_the_street](http://twitter.com/search?q=%23on_the_street) | N/A |
+| 5 | [#Zico70](http://twitter.com/search?q=%23Zico70) | N/A |
+| 6 | [#sextou](http://twitter.com/search?q=%23sextou) | N/A |
 | 7 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
-| 8 | [#BDSP](http://twitter.com/search?q=%23BDSP) | N/A |
-| 9 | [#Zico70](http://twitter.com/search?q=%23Zico70) | N/A |
-| 10 | [jung hoseok](http://twitter.com/search?q=jung+hoseok) | N/A |
-| 11 | [All I Wanted](http://twitter.com/search?q=All+I+Wanted) | N/A |
-| 12 | [STILL ALIVE OUT NOW](http://twitter.com/search?q=STILL+ALIVE+OUT+NOW) | N/A |
-| 13 | [Yours Truly](http://twitter.com/search?q=Yours+Truly) | N/A |
-| 14 | [My Everything](http://twitter.com/search?q=My+Everything) | N/A |
-| 15 | [Kali Uchis](http://twitter.com/search?q=Kali+Uchis) | N/A |
-| 16 | [Dangerous Woman](http://twitter.com/search?q=Dangerous+Woman) | N/A |
-| 17 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
-| 18 | [#hora1](http://twitter.com/search?q=%23hora1) | N/A |
-| 19 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
-| 20 | [Mulan](http://twitter.com/search?q=Mulan) | N/A |
-| 21 | [Mang](http://twitter.com/search?q=Mang) | N/A |
-| 22 | [Demi Lovato](http://twitter.com/search?q=Demi+Lovato) | N/A |
-| 23 | [Rubel](http://twitter.com/search?q=Rubel) | N/A |
-| 24 | [Rei Leão](http://twitter.com/search?q=Rei+Le%c3%a3o) | N/A |
-| 25 | [Aladdin](http://twitter.com/search?q=Aladdin) | N/A |
-| 26 | [Bráulio](http://twitter.com/search?q=Br%c3%a1ulio) | N/A |
-| 27 | [Attack on Titan](http://twitter.com/search?q=Attack+on+Titan) | N/A |
-| 28 | [Shingeki](http://twitter.com/search?q=Shingeki) | Shingeki is a Japanese word that translates to "advancement" or "onslaught" in English. It is often used to refer to a sudden, large-scale attack or invasion. |
+| 8 | [Luda](http://twitter.com/search?q=Luda) | N/A |
+| 9 | [#HappyBirthdayCamila](http://twitter.com/search?q=%23HappyBirthdayCamila) | N/A |
+| 10 | [#BDSP](http://twitter.com/search?q=%23BDSP) | N/A |
+| 11 | [Sergipe](http://twitter.com/search?q=Sergipe) | N/A |
+| 12 | [Sergipe](http://twitter.com/search?q=Sergipe) | N/A |
+| 13 | [Kali Uchis](http://twitter.com/search?q=Kali+Uchis) | N/A |
+| 14 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
+| 15 | [dawon](http://twitter.com/search?q=dawon) | N/A |
+| 16 | [Yours Truly](http://twitter.com/search?q=Yours+Truly) | N/A |
+| 17 | [My Everything](http://twitter.com/search?q=My+Everything) | N/A |
+| 18 | [All I Wanted](http://twitter.com/search?q=All+I+Wanted) | N/A |
+| 19 | [Mulan](http://twitter.com/search?q=Mulan) | N/A |
+| 20 | [Dangerous Woman](http://twitter.com/search?q=Dangerous+Woman) | N/A |
+| 21 | [Rubel](http://twitter.com/search?q=Rubel) | N/A |
+| 22 | [Still Alive](http://twitter.com/search?q=Still+Alive) | N/A |
+| 23 | [Shingeki](http://twitter.com/search?q=Shingeki) | Shingeki is a Japanese word that translates to "advancement" or "onslaught" in English. It is often used to refer to a sudden, large-scale attack or invasion. |
+| 24 | [Mang](http://twitter.com/search?q=Mang) | N/A |
+| 25 | [Demi Lovato](http://twitter.com/search?q=Demi+Lovato) | N/A |
+| 26 | [Aladdin](http://twitter.com/search?q=Aladdin) | N/A |
+| 27 | [Rei Leão](http://twitter.com/search?q=Rei+Le%c3%a3o) | N/A |
+| 28 | [Attack on Titan](http://twitter.com/search?q=Attack+on+Titan) | N/A |
 | 29 | [Tarzan](http://twitter.com/search?q=Tarzan) | N/A |
-| 30 | [Apanhou](http://twitter.com/search?q=Apanhou) | N/A |
-| 31 | [Fortaleza](http://twitter.com/search?q=Fortaleza) | Fortaleza is a city in Brazil and it means "fortress" in English. It is the capital of the state of Ceará and is known for its beautiful beaches, colonial architecture, and vibrant culture. |
-| 32 | [Future Nostalgia](http://twitter.com/search?q=Future+Nostalgia) | N/A |
-| 33 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
-| 34 | [Silva Machado](http://twitter.com/search?q=Silva+Machado) | N/A |
-| 35 | [Happier Than Ever](http://twitter.com/search?q=Happier+Than+Ever) | N/A |
+| 30 | [Daniel Alves](http://twitter.com/search?q=Daniel+Alves) | Daniel Alves is a Brazilian professional footballer who plays as a right-back for São Paulo FC. He is widely regarded as one of the best right-backs in the world and has won numerous awards and accolades throughout his career. |
+| 31 | [Lapso](http://twitter.com/search?q=Lapso) | N/A |
+| 32 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 33 | [Bráulio](http://twitter.com/search?q=Br%c3%a1ulio) | N/A |
+| 34 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
+| 35 | [Apanhou](http://twitter.com/search?q=Apanhou) | N/A |
 | 36 | [The Pinkprint](http://twitter.com/search?q=The+Pinkprint) | N/A |
-| 37 | [Eddie](http://twitter.com/search?q=Eddie) | Eddie is a slang term used to refer to someone who is considered to be cool, attractive, or stylish. It can also be used as a term of endearment for someone you like or admire. |
-| 38 | [Graham](http://twitter.com/search?q=Graham) | N/A |
-| 39 | [billy dunne](http://twitter.com/search?q=billy+dunne) | N/A |
-| 40 | [Roubado](http://twitter.com/search?q=Roubado) | N/A |
-| 41 | [LUIS CASTRO](http://twitter.com/search?q=LUIS+CASTRO) | N/A |
-| 42 | [VERGONHOSO](http://twitter.com/search?q=VERGONHOSO) | N/A |
-| 43 | [sam claflin](http://twitter.com/search?q=sam+claflin) | N/A |
-| 44 | [#RedRubyDaSleeze](http://twitter.com/search?q=%23RedRubyDaSleeze) | N/A |
-| 45 | [#KAMAITACHI6BALAS](http://twitter.com/search?q=%23KAMAITACHI6BALAS) | N/A |
+| 37 | [Future Nostalgia](http://twitter.com/search?q=Future+Nostalgia) | N/A |
+| 38 | [Happier Than Ever](http://twitter.com/search?q=Happier+Than+Ever) | N/A |
+| 39 | [Silva Machado](http://twitter.com/search?q=Silva+Machado) | N/A |
+| 40 | [Eddie](http://twitter.com/search?q=Eddie) | Eddie is a slang term used to refer to someone who is considered to be cool, attractive, or stylish. It can also be used as a term of endearment for someone you like or admire. |
+| 41 | [Graham](http://twitter.com/search?q=Graham) | N/A |
+| 42 | [Reinaldo Azevedo](http://twitter.com/search?q=Reinaldo+Azevedo) | N/A |
+| 43 | [billy dunne](http://twitter.com/search?q=billy+dunne) | N/A |
+| 44 | [roubado](http://twitter.com/search?q=roubado) | N/A |
+| 45 | [#hora1](http://twitter.com/search?q=%23hora1) | N/A |
+| 46 | [#RedRubyDaSleeze](http://twitter.com/search?q=%23RedRubyDaSleeze) | N/A |
+| 47 | [#KAMAITACHI6BALAS](http://twitter.com/search?q=%23KAMAITACHI6BALAS) | N/A |
 
 
 
