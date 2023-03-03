@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Thane
 
-📆 Last Updated: `2023-03-03 20:17:21 UTC`
+📆 Last Updated: `2023-03-03 21:17:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,47 @@ This is top 50 for [India](</India>)
 | 4 | [#KeralaBlasters](http://twitter.com/search?q=%23KeralaBlasters) | N/A |
 | 5 | [#KBFC](http://twitter.com/search?q=%23KBFC) | N/A |
 | 6 | [#timewilltell](http://twitter.com/search?q=%23timewilltell) | N/A |
-| 7 | [NATTU NATTU](http://twitter.com/search?q=NATTU+NATTU) | N/A |
-| 8 | [#BengaluruFC](http://twitter.com/search?q=%23BengaluruFC) | N/A |
-| 9 | [Chhetri](http://twitter.com/search?q=Chhetri) | N/A |
-| 10 | [Ivan](http://twitter.com/search?q=Ivan) | N/A |
+| 7 | [Chhetri](http://twitter.com/search?q=Chhetri) | N/A |
+| 8 | [Ivan](http://twitter.com/search?q=Ivan) | N/A |
+| 9 | [#BengaluruFC](http://twitter.com/search?q=%23BengaluruFC) | N/A |
+| 10 | [NATTU NATTU](http://twitter.com/search?q=NATTU+NATTU) | N/A |
 | 11 | [CHARTBUSTER BILLI BILLI](http://twitter.com/search?q=CHARTBUSTER+BILLI+BILLI) | N/A |
-| 12 | [Indian Armys](http://twitter.com/search?q=Indian+Armys) | N/A |
-| 13 | [PATHAAN BIGGEST GROSSER](http://twitter.com/search?q=PATHAAN+BIGGEST+GROSSER) | N/A |
-| 14 | [Azam Khan](http://twitter.com/search?q=Azam+Khan) | N/A |
+| 12 | [ARMYs](http://twitter.com/search?q=ARMYs) | N/A |
+| 13 | [Azam Khan](http://twitter.com/search?q=Azam+Khan) | N/A |
+| 14 | [PATHAAN BIGGEST GROSSER](http://twitter.com/search?q=PATHAAN+BIGGEST+GROSSER) | N/A |
 | 15 | [taekook](http://twitter.com/search?q=taekook) | Taekook is the name of a popular ship between two characters from the South Korean boy band BTS, Taehyung (V) and Jungkook. It is a portmanteau of their names, and it is used by fans to refer to the romantic relationship between them. |
-| 16 | [Crystal John](http://twitter.com/search?q=Crystal+John) | N/A |
+| 16 | [Desi](http://twitter.com/search?q=Desi) | N/A |
 | 17 | [Luna](http://twitter.com/search?q=Luna) | N/A |
-| 18 | [Desi](http://twitter.com/search?q=Desi) | N/A |
+| 18 | [Crystal John](http://twitter.com/search?q=Crystal+John) | N/A |
 | 19 | [Referee](http://twitter.com/search?q=Referee) | N/A |
 | 20 | [Weverse](http://twitter.com/search?q=Weverse) | Weverse is a social media platform created by the South Korean entertainment company Big Hit Entertainment. It is designed to connect fans with artists and allow them to interact with each other. The name Weverse is derived from the words “we” and “universe”, representing the idea of creating a universe where fans and artists can come together. |
-| 21 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 22 | [REMOVE SAMJI FROM HP3](http://twitter.com/search?q=REMOVE+SAMJI+FROM+HP3) | N/A |
-| 23 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 24 | [4 YEARS WITH TXT](http://twitter.com/search?q=4+YEARS+WITH+TXT) | N/A |
+| 21 | [REMOVE SAMJI FROM HP3](http://twitter.com/search?q=REMOVE+SAMJI+FROM+HP3) | N/A |
+| 22 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 23 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 24 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
 | 25 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
 | 26 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 27 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 28 | [Nawaz](http://twitter.com/search?q=Nawaz) | Nawaz is an Arabic name meaning "gift" or "blessing". It is also used as a surname in some parts of the world. |
-| 29 | [श्रीमती सोनिया गांधी](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%ae%e0%a4%a4%e0%a5%80+%e0%a4%b8%e0%a5%8b%e0%a4%a8%e0%a4%bf%e0%a4%af%e0%a4%be+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
-| 30 | [मोहन भागवत](http://twitter.com/search?q=%e0%a4%ae%e0%a5%8b%e0%a4%b9%e0%a4%a8+%e0%a4%ad%e0%a4%be%e0%a4%97%e0%a4%b5%e0%a4%a4) | N/A |
-| 31 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
-| 32 | [on the street](http://twitter.com/search?q=on+the+street) | N/A |
-| 33 | [विदेशी धरती](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%a6%e0%a5%87%e0%a4%b6%e0%a5%80+%e0%a4%a7%e0%a4%b0%e0%a4%a4%e0%a5%80) | N/A |
-| 34 | [Smoking](http://twitter.com/search?q=Smoking) | N/A |
-| 35 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 36 | [Deepika](http://twitter.com/search?q=Deepika) | N/A |
-| 37 | [#WeAreBFC](http://twitter.com/search?q=%23WeAreBFC) | N/A |
-| 38 | [#AttackOnTitan](http://twitter.com/search?q=%23AttackOnTitan) | N/A |
-| 39 | [#IndianFootball](http://twitter.com/search?q=%23IndianFootball) | N/A |
-| 40 | [#ToFOUReverlandWithTXT](http://twitter.com/search?q=%23ToFOUReverlandWithTXT) | N/A |
-| 41 | [#RahulBetraysBharat](http://twitter.com/search?q=%23RahulBetraysBharat) | N/A |
-| 42 | [#RahulBetraysIndia](http://twitter.com/search?q=%23RahulBetraysIndia) | N/A |
-| 43 | [#ReleaseShahrukhPathan](http://twitter.com/search?q=%23ReleaseShahrukhPathan) | N/A |
-| 44 | [#TXT_4th_Anniversary](http://twitter.com/search?q=%23TXT_4th_Anniversary) | N/A |
-| 45 | [#HeroISLPlayoffs](http://twitter.com/search?q=%23HeroISLPlayoffs) | N/A |
-| 46 | [#RahulGandhiinCambridge](http://twitter.com/search?q=%23RahulGandhiinCambridge) | N/A |
-| 47 | [#PappuWillBePappu](http://twitter.com/search?q=%23PappuWillBePappu) | N/A |
-| 48 | [#IndianSuperLeague](http://twitter.com/search?q=%23IndianSuperLeague) | N/A |
-| 49 | [#Gulmohar](http://twitter.com/search?q=%23Gulmohar) | N/A |
-| 50 | [#Yuva](http://twitter.com/search?q=%23Yuva) | N/A |
+| 27 | [on the street](http://twitter.com/search?q=on+the+street) | N/A |
+| 28 | [Smoking](http://twitter.com/search?q=Smoking) | N/A |
+| 29 | [#AttackOnTitan](http://twitter.com/search?q=%23AttackOnTitan) | N/A |
+| 30 | [#WeAreBFC](http://twitter.com/search?q=%23WeAreBFC) | N/A |
+| 31 | [#IndianFootball](http://twitter.com/search?q=%23IndianFootball) | N/A |
+| 32 | [#ToFOUReverlandWithTXT](http://twitter.com/search?q=%23ToFOUReverlandWithTXT) | N/A |
+| 33 | [#RahulBetraysBharat](http://twitter.com/search?q=%23RahulBetraysBharat) | N/A |
+| 34 | [#RahulBetraysIndia](http://twitter.com/search?q=%23RahulBetraysIndia) | N/A |
+| 35 | [#ReleaseShahrukhPathan](http://twitter.com/search?q=%23ReleaseShahrukhPathan) | N/A |
+| 36 | [#TXT_4th_Anniversary](http://twitter.com/search?q=%23TXT_4th_Anniversary) | N/A |
+| 37 | [#Gulmohar](http://twitter.com/search?q=%23Gulmohar) | N/A |
+| 38 | [#HeroISLPlayoffs](http://twitter.com/search?q=%23HeroISLPlayoffs) | N/A |
+| 39 | [#RahulGandhiinCambridge](http://twitter.com/search?q=%23RahulGandhiinCambridge) | N/A |
+| 40 | [#PappuWillBePappu](http://twitter.com/search?q=%23PappuWillBePappu) | N/A |
+| 41 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
+| 42 | [#Yuva](http://twitter.com/search?q=%23Yuva) | N/A |
+| 43 | [#Iratta](http://twitter.com/search?q=%23Iratta) | N/A |
+| 44 | [#BihariMajdoor](http://twitter.com/search?q=%23BihariMajdoor) | N/A |
+| 45 | [#Bheed](http://twitter.com/search?q=%23Bheed) | N/A |
+| 46 | [#KathaAnkahee](http://twitter.com/search?q=%23KathaAnkahee) | N/A |
+| 47 | [#NawazuddinSiddiqui](http://twitter.com/search?q=%23NawazuddinSiddiqui) | N/A |
 
 
 

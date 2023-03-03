@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quebec
 
-📆 Last Updated: `2023-03-03 20:16:33 UTC`
+📆 Last Updated: `2023-03-03 21:16:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Laval](http://twitter.com/search?q=Laval) | N/A |
-| 2 | [Rocket](http://twitter.com/search?q=Rocket) | N/A |
-| 3 | [SAAQ](http://twitter.com/search?q=SAAQ) | N/A |
+| 1 | [Rocket](http://twitter.com/search?q=Rocket) | N/A |
+| 2 | [SAAQ](http://twitter.com/search?q=SAAQ) | N/A |
+| 3 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
 | 4 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 5 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
-| 6 | [Dryden Hunt](http://twitter.com/search?q=Dryden+Hunt) | N/A |
-| 7 | [Patrick Brown](http://twitter.com/search?q=Patrick+Brown) | N/A |
-| 8 | [#WorldWildlifeDay](http://twitter.com/search?q=%23WorldWildlifeDay) | N/A |
-| 9 | [#NHLTradeDeadline2023](http://twitter.com/search?q=%23NHLTradeDeadline2023) | N/A |
+| 5 | [Knies](http://twitter.com/search?q=Knies) | N/A |
+| 6 | [Patrick Brown](http://twitter.com/search?q=Patrick+Brown) | N/A |
+| 7 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
+| 8 | [Nick Ritchie](http://twitter.com/search?q=Nick+Ritchie) | N/A |
+| 9 | [Dryden Hunt](http://twitter.com/search?q=Dryden+Hunt) | N/A |
 | 10 | [#TradeCentre](http://twitter.com/search?q=%23TradeCentre) | N/A |
-| 11 | [Lazar](http://twitter.com/search?q=Lazar) | N/A |
-| 12 | [Frédéric Allard](http://twitter.com/search?q=Fr%c3%a9d%c3%a9ric+Allard) | N/A |
-| 13 | [Greenway](http://twitter.com/search?q=Greenway) | N/A |
+| 11 | [Tony Sund](http://twitter.com/search?q=Tony+Sund) | N/A |
+| 12 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
+| 13 | [#WorldWildlifeDay](http://twitter.com/search?q=%23WorldWildlifeDay) | N/A |
 | 14 | [#EmployeeAppreciationDay](http://twitter.com/search?q=%23EmployeeAppreciationDay) | N/A |
-| 15 | [Nick Bonino](http://twitter.com/search?q=Nick+Bonino) | N/A |
-| 16 | [Kulikov](http://twitter.com/search?q=Kulikov) | N/A |
-| 17 | [Bruce Boudreau](http://twitter.com/search?q=Bruce+Boudreau) | Bruce Boudreau is the name of a Canadian professional ice hockey coach and former player. He is currently the head coach of the Minnesota Wild of the National Hockey League (NHL). He has also coached the Washington Capitals, Anaheim Ducks, and Ottawa Senators. |
-| 18 | [Kent Hughes](http://twitter.com/search?q=Kent+Hughes) | N/A |
-| 19 | [Namestnikov](http://twitter.com/search?q=Namestnikov) | N/A |
-| 20 | [Anaheim](http://twitter.com/search?q=Anaheim) | N/A |
-| 21 | [Dreger](http://twitter.com/search?q=Dreger) | N/A |
-| 22 | [Peterson](http://twitter.com/search?q=Peterson) | N/A |
-| 23 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
-| 24 | [Yzerman](http://twitter.com/search?q=Yzerman) | N/A |
-| 25 | [Lemieux](http://twitter.com/search?q=Lemieux) | N/A |
-| 26 | [Fletcher](http://twitter.com/search?q=Fletcher) | N/A |
-| 27 | [Gudas](http://twitter.com/search?q=Gudas) | Gudas is a Lithuanian surname. It is derived from the Lithuanian word gudas, which means "woodpecker". |
-| 28 | [Edmundson](http://twitter.com/search?q=Edmundson) | N/A |
-| 29 | [Cocaine](http://twitter.com/search?q=Cocaine) | N/A |
-| 30 | [Miller](http://twitter.com/search?q=Miller) | N/A |
-| 31 | [Health Canada](http://twitter.com/search?q=Health+Canada) | N/A |
-| 32 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 33 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
-| 34 | [Sutter](http://twitter.com/search?q=Sutter) | N/A |
-| 35 | [Drouin](http://twitter.com/search?q=Drouin) | Drouin is a French surname derived from the Old French word "drouin" meaning "beloved". It is also a place name in France, derived from the same root. |
-| 36 | [Vrana](http://twitter.com/search?q=Vrana) | Vrana is a Croatian word that means "crow" in English. |
-| 37 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 38 | [Rachel Gilmore](http://twitter.com/search?q=Rachel+Gilmore) | N/A |
-| 39 | [Canuck](http://twitter.com/search?q=Canuck) | N/A |
-| 40 | [Sportsnet](http://twitter.com/search?q=Sportsnet) | N/A |
-| 41 | [#BandcampFriday](http://twitter.com/search?q=%23BandcampFriday) | N/A |
-| 42 | [#AttackOnTitan](http://twitter.com/search?q=%23AttackOnTitan) | N/A |
-| 43 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
-| 44 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
-| 45 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
-| 46 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
-| 47 | [#Brier2023](http://twitter.com/search?q=%23Brier2023) | N/A |
-| 48 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
-| 49 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 15 | [Kent Hughes](http://twitter.com/search?q=Kent+Hughes) | N/A |
+| 16 | [Lazar](http://twitter.com/search?q=Lazar) | N/A |
+| 17 | [Frédéric Allard](http://twitter.com/search?q=Fr%c3%a9d%c3%a9ric+Allard) | N/A |
+| 18 | [Laval](http://twitter.com/search?q=Laval) | N/A |
+| 19 | [Chuck Fletcher](http://twitter.com/search?q=Chuck+Fletcher) | N/A |
+| 20 | [Jordan Greenway](http://twitter.com/search?q=Jordan+Greenway) | N/A |
+| 21 | [Monahan](http://twitter.com/search?q=Monahan) | N/A |
+| 22 | [Drouin](http://twitter.com/search?q=Drouin) | Drouin is a French surname derived from the Old French word "drouin" meaning "beloved". It is also a place name in France, derived from the same root. |
+| 23 | [Klingberg](http://twitter.com/search?q=Klingberg) | N/A |
+| 24 | [Edmundson](http://twitter.com/search?q=Edmundson) | N/A |
+| 25 | [Kulikov](http://twitter.com/search?q=Kulikov) | N/A |
+| 26 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
+| 27 | [Nick Bonino](http://twitter.com/search?q=Nick+Bonino) | N/A |
+| 28 | [Flyers](http://twitter.com/search?q=Flyers) | Flyers are a type of printed advertisement used to promote products, services, or events. They are typically distributed in public places such as streets, parks, and shopping centers. Flyers can also be sent through the mail or handed out at events. The purpose of a flyer is to attract attention and encourage people to take action. |
+| 29 | [Kerfoot](http://twitter.com/search?q=Kerfoot) | N/A |
+| 30 | [Bruce Boudreau](http://twitter.com/search?q=Bruce+Boudreau) | Bruce Boudreau is the name of a Canadian professional ice hockey coach and former player. He is currently the head coach of the Minnesota Wild of the National Hockey League (NHL). He has also coached the Washington Capitals, Anaheim Ducks, and Ottawa Senators. |
+| 31 | [Marlies](http://twitter.com/search?q=Marlies) | N/A |
+| 32 | [Peterson](http://twitter.com/search?q=Peterson) | N/A |
+| 33 | [Anaheim](http://twitter.com/search?q=Anaheim) | N/A |
+| 34 | [Yzerman](http://twitter.com/search?q=Yzerman) | N/A |
+| 35 | [Gudas](http://twitter.com/search?q=Gudas) | Gudas is a Lithuanian surname. It is derived from the Lithuanian word gudas, which means "woodpecker". |
+| 36 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
+| 37 | [Sutter](http://twitter.com/search?q=Sutter) | N/A |
+| 38 | [Lemieux](http://twitter.com/search?q=Lemieux) | N/A |
+| 39 | [Health Canada](http://twitter.com/search?q=Health+Canada) | N/A |
+| 40 | [Wo Long](http://twitter.com/search?q=Wo+Long) | N/A |
+| 41 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 42 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 43 | [Pittsburgh](http://twitter.com/search?q=Pittsburgh) | Pittsburgh is a city in the state of Pennsylvania in the United States. It is located at the confluence of the Allegheny, Monongahela, and Ohio rivers. Pittsburgh is known for its steel industry, museums, and sports teams. It is also home to several universities and colleges. |
+| 44 | [Allvin](http://twitter.com/search?q=Allvin) | N/A |
+| 45 | [Canuck](http://twitter.com/search?q=Canuck) | N/A |
+| 46 | [Rachel Gilmore](http://twitter.com/search?q=Rachel+Gilmore) | N/A |
+| 47 | [Cocaine](http://twitter.com/search?q=Cocaine) | N/A |
+| 48 | [Calgary](http://twitter.com/search?q=Calgary) | N/A |
+| 49 | [#NHLTradeDeadline](http://twitter.com/search?q=%23NHLTradeDeadline) | N/A |
 
 
 

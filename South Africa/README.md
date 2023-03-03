@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For South Africa
 
-📆 Last Updated: `2023-03-03 20:17:44 UTC`
+📆 Last Updated: `2023-03-03 21:17:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for South Africa
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#DiepCityMzansi](http://twitter.com/search?q=%23DiepCityMzansi) | N/A |
-| 2 | [Saleng](http://twitter.com/search?q=Saleng) | N/A |
+| 1 | [Saleng](http://twitter.com/search?q=Saleng) | N/A |
+| 2 | [#DiepCityMzansi](http://twitter.com/search?q=%23DiepCityMzansi) | N/A |
 | 3 | [#JusticeForAKA](http://twitter.com/search?q=%23JusticeForAKA) | N/A |
 | 4 | [#URChannelO](http://twitter.com/search?q=%23URChannelO) | N/A |
-| 5 | [#WitsShutDown](http://twitter.com/search?q=%23WitsShutDown) | N/A |
-| 6 | [#ThembaMyInkedWorld](http://twitter.com/search?q=%23ThembaMyInkedWorld) | N/A |
+| 5 | [#ThembaMyInkedWorld](http://twitter.com/search?q=%23ThembaMyInkedWorld) | N/A |
+| 6 | [#WitsShutDown](http://twitter.com/search?q=%23WitsShutDown) | N/A |
 | 7 | [Emtee](http://twitter.com/search?q=Emtee) | N/A |
 | 8 | [KHOSI X GOOD DEEDS](http://twitter.com/search?q=KHOSI+X+GOOD+DEEDS) | N/A |
-| 9 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 10 | [TSATSII ALL WHITE PARTY](http://twitter.com/search?q=TSATSII+ALL+WHITE+PARTY) | N/A |
-| 11 | [Swallows](http://twitter.com/search?q=Swallows) | N/A |
+| 9 | [KHOSI THE PHILANTHROPIST](http://twitter.com/search?q=KHOSI+THE+PHILANTHROPIST) | N/A |
+| 10 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 11 | [TSATSII ALL WHITE PARTY](http://twitter.com/search?q=TSATSII+ALL+WHITE+PARTY) | N/A |
 | 12 | [De Klerk](http://twitter.com/search?q=De+Klerk) | N/A |
-| 13 | [Dlamini](http://twitter.com/search?q=Dlamini) | N/A |
-| 14 | [Terry Pheto](http://twitter.com/search?q=Terry+Pheto) | N/A |
-| 15 | [THABANG THE TITAN](http://twitter.com/search?q=THABANG+THE+TITAN) | N/A |
-| 16 | [The 10](http://twitter.com/search?q=The+10) | N/A |
-| 17 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 18 | [NSBC Africa](http://twitter.com/search?q=NSBC+Africa) | N/A |
-| 19 | [Melita](http://twitter.com/search?q=Melita) | N/A |
-| 20 | [Zamani](http://twitter.com/search?q=Zamani) | N/A |
-| 21 | [Lorch](http://twitter.com/search?q=Lorch) | N/A |
-| 22 | [Chaine](http://twitter.com/search?q=Chaine) | N/A |
-| 23 | [People Remix](http://twitter.com/search?q=People+Remix) | N/A |
-| 24 | [Erasmus](http://twitter.com/search?q=Erasmus) | N/A |
-| 25 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 26 | [Ndah](http://twitter.com/search?q=Ndah) | N/A |
-| 27 | [Makhaula](http://twitter.com/search?q=Makhaula) | N/A |
+| 13 | [Swallows](http://twitter.com/search?q=Swallows) | N/A |
+| 14 | [The 10](http://twitter.com/search?q=The+10) | N/A |
+| 15 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 16 | [Dlamini](http://twitter.com/search?q=Dlamini) | N/A |
+| 17 | [NSBC Africa](http://twitter.com/search?q=NSBC+Africa) | N/A |
+| 18 | [Terry Pheto](http://twitter.com/search?q=Terry+Pheto) | N/A |
+| 19 | [Zamani](http://twitter.com/search?q=Zamani) | N/A |
+| 20 | [People Remix](http://twitter.com/search?q=People+Remix) | N/A |
+| 21 | [Erasmus](http://twitter.com/search?q=Erasmus) | N/A |
+| 22 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 23 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 24 | [Lorch](http://twitter.com/search?q=Lorch) | N/A |
+| 25 | [Ndah](http://twitter.com/search?q=Ndah) | N/A |
+| 26 | [Makhaula](http://twitter.com/search?q=Makhaula) | N/A |
+| 27 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
 | 28 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
 | 29 | [Lukay](http://twitter.com/search?q=Lukay) | Lukay is a term used in the Caribbean to refer to a close friend or companion. It is derived from the French word "lucie," which means "companion." In English, it can be translated as "buddy" or "pal." |
-| 30 | [Justine](http://twitter.com/search?q=Justine) | N/A |
-| 31 | [Black Coffee](http://twitter.com/search?q=Black+Coffee) | N/A |
-| 32 | [Timm](http://twitter.com/search?q=Timm) | N/A |
-| 33 | [Mailula](http://twitter.com/search?q=Mailula) | N/A |
-| 34 | [NSFAS](http://twitter.com/search?q=NSFAS) | N/A |
-| 35 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
-| 36 | [Hotto](http://twitter.com/search?q=Hotto) | N/A |
-| 37 | [Bloemfontein](http://twitter.com/search?q=Bloemfontein) | N/A |
-| 38 | [Paul Mashatile](http://twitter.com/search?q=Paul+Mashatile) | N/A |
-| 39 | [Jacob Banks](http://twitter.com/search?q=Jacob+Banks) | N/A |
-| 40 | [Masego](http://twitter.com/search?q=Masego) | N/A |
-| 41 | [Moshabi](http://twitter.com/search?q=Moshabi) | N/A |
-| 42 | [Blaqboi](http://twitter.com/search?q=Blaqboi) | N/A |
-| 43 | [Deputy President](http://twitter.com/search?q=Deputy+President) | N/A |
+| 30 | [Mailula](http://twitter.com/search?q=Mailula) | N/A |
+| 31 | [Mpho](http://twitter.com/search?q=Mpho) | N/A |
+| 32 | [Black Coffee](http://twitter.com/search?q=Black+Coffee) | N/A |
+| 33 | [Jacob Banks](http://twitter.com/search?q=Jacob+Banks) | N/A |
+| 34 | [Timm](http://twitter.com/search?q=Timm) | N/A |
+| 35 | [Dischem](http://twitter.com/search?q=Dischem) | N/A |
+| 36 | [NSFAS](http://twitter.com/search?q=NSFAS) | N/A |
+| 37 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
+| 38 | [Congratulations Justin](http://twitter.com/search?q=Congratulations+Justin) | N/A |
+| 39 | [Hotto](http://twitter.com/search?q=Hotto) | N/A |
+| 40 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 41 | [Paul Mashatile](http://twitter.com/search?q=Paul+Mashatile) | N/A |
+| 42 | [Moshabi](http://twitter.com/search?q=Moshabi) | N/A |
+| 43 | [Bloemfontein](http://twitter.com/search?q=Bloemfontein) | N/A |
 | 44 | [Commander in Chief](http://twitter.com/search?q=Commander+in+Chief) | N/A |
-| 45 | [Jali](http://twitter.com/search?q=Jali) | N/A |
-| 46 | [Dobsonville](http://twitter.com/search?q=Dobsonville) | N/A |
-| 47 | [Astro Hyperlapse](http://twitter.com/search?q=Astro+Hyperlapse) | N/A |
-| 48 | [SKIN LIKE IPELENG](http://twitter.com/search?q=SKIN+LIKE+IPELENG) | N/A |
-| 49 | [Spar](http://twitter.com/search?q=Spar) | N/A |
-| 50 | [mo flava](http://twitter.com/search?q=mo+flava) | N/A |
+| 45 | [Masego](http://twitter.com/search?q=Masego) | N/A |
+| 46 | [Jali](http://twitter.com/search?q=Jali) | N/A |
+| 47 | [Chaine](http://twitter.com/search?q=Chaine) | N/A |
+| 48 | [Spar](http://twitter.com/search?q=Spar) | N/A |
+| 49 | [Astro Hyperlapse](http://twitter.com/search?q=Astro+Hyperlapse) | N/A |
+| 50 | [SKIN LIKE IPELENG](http://twitter.com/search?q=SKIN+LIKE+IPELENG) | N/A |
 
 
 

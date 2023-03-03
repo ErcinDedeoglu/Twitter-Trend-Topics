@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jakarta
 
-📆 Last Updated: `2023-03-03 20:16:59 UTC`
+📆 Last Updated: `2023-03-03 21:16:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,8 +15,8 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 2 | [#ToFOUReverlandWithTXT](http://twitter.com/search?q=%23ToFOUReverlandWithTXT) | N/A |
+| 1 | [#ToFOUReverlandWithTXT](http://twitter.com/search?q=%23ToFOUReverlandWithTXT) | N/A |
+| 2 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 3 | [#TXT_4th_Anniversary](http://twitter.com/search?q=%23TXT_4th_Anniversary) | N/A |
 | 4 | [SELAMAT DATANG 7DREAM](http://twitter.com/search?q=SELAMAT+DATANG+7DREAM) | N/A |
 | 5 | [4 YEARS WITH TXT](http://twitter.com/search?q=4+YEARS+WITH+TXT) | N/A |
@@ -30,39 +30,39 @@ This is top 50 for [Indonesia](</Indonesia>)
 | 13 | [Ultimate Bias](http://twitter.com/search?q=Ultimate+Bias) | N/A |
 | 14 | [Partai Prima](http://twitter.com/search?q=Partai+Prima) | N/A |
 | 15 | [Innalillahi](http://twitter.com/search?q=Innalillahi) | N/A |
-| 16 | [Happy 4th](http://twitter.com/search?q=Happy+4th) | N/A |
-| 17 | [universitas brawijaya](http://twitter.com/search?q=universitas+brawijaya) | N/A |
-| 18 | [Bebe](http://twitter.com/search?q=Bebe) | N/A |
-| 19 | [ON THE STREET WITH J-HOPE](http://twitter.com/search?q=ON+THE+STREET+WITH+J-HOPE) | N/A |
-| 20 | [TY WEARS LOEWE](http://twitter.com/search?q=TY+WEARS+LOEWE) | N/A |
-| 21 | [8 SVT](http://twitter.com/search?q=8+SVT) | N/A |
-| 22 | [R to V](http://twitter.com/search?q=R+to+V) | N/A |
-| 23 | [JK LIVE](http://twitter.com/search?q=JK+LIVE) | JK LIVE is a Japanese streaming service that allows users to watch live broadcasts of events, concerts, and other entertainment. The acronym stands for "Japan Kansai Live", referring to the Kansai region of Japan where the service is based. |
-| 24 | [ON THE STREET OUT TODAY](http://twitter.com/search?q=ON+THE+STREET+OUT+TODAY) | N/A |
-| 25 | [na jaemin thank you](http://twitter.com/search?q=na+jaemin+thank+you) | N/A |
-| 26 | [KILL BILL](http://twitter.com/search?q=KILL+BILL) | N/A |
-| 27 | [Nobita](http://twitter.com/search?q=Nobita) | N/A |
-| 28 | [WORLD CLASS STAR V](http://twitter.com/search?q=WORLD+CLASS+STAR+V) | N/A |
-| 29 | [Jeep](http://twitter.com/search?q=Jeep) | N/A |
-| 30 | [Lennon](http://twitter.com/search?q=Lennon) | N/A |
-| 31 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 32 | [Ya Allah](http://twitter.com/search?q=Ya+Allah) | N/A |
-| 33 | [Superindo](http://twitter.com/search?q=Superindo) | N/A |
-| 34 | [Shizuka](http://twitter.com/search?q=Shizuka) | N/A |
+| 16 | [universitas brawijaya](http://twitter.com/search?q=universitas+brawijaya) | N/A |
+| 17 | [ON THE STREET WITH J-HOPE](http://twitter.com/search?q=ON+THE+STREET+WITH+J-HOPE) | N/A |
+| 18 | [JK LIVE](http://twitter.com/search?q=JK+LIVE) | JK LIVE is a Japanese streaming service that allows users to watch live broadcasts of events, concerts, and other entertainment. The acronym stands for "Japan Kansai Live", referring to the Kansai region of Japan where the service is based. |
+| 19 | [R to V](http://twitter.com/search?q=R+to+V) | N/A |
+| 20 | [ON THE STREET OUT TODAY](http://twitter.com/search?q=ON+THE+STREET+OUT+TODAY) | N/A |
+| 21 | [Happy 4th](http://twitter.com/search?q=Happy+4th) | N/A |
+| 22 | [na jaemin thank you](http://twitter.com/search?q=na+jaemin+thank+you) | N/A |
+| 23 | [TY WEARS LOEWE](http://twitter.com/search?q=TY+WEARS+LOEWE) | N/A |
+| 24 | [Nobita](http://twitter.com/search?q=Nobita) | N/A |
+| 25 | [WORLD CLASS STAR V](http://twitter.com/search?q=WORLD+CLASS+STAR+V) | N/A |
+| 26 | [Jeep](http://twitter.com/search?q=Jeep) | N/A |
+| 27 | [8 SVT](http://twitter.com/search?q=8+SVT) | N/A |
+| 28 | [Lennon](http://twitter.com/search?q=Lennon) | N/A |
+| 29 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 30 | [Superindo](http://twitter.com/search?q=Superindo) | N/A |
+| 31 | [Tidur](http://twitter.com/search?q=Tidur) | N/A |
+| 32 | [Shizuka](http://twitter.com/search?q=Shizuka) | N/A |
+| 33 | [Bismillah](http://twitter.com/search?q=Bismillah) | N/A |
+| 34 | [wjsn](http://twitter.com/search?q=wjsn) | WJSN stands for Cosmic Girls, a South Korean girl group formed in 2016 by Starship Entertainment and Yuehua Entertainment. The group consists of thirteen members: Seola, Xuan Yi, Bona, Exy, Soobin, Luda, Dawon, Eunseo, Cheng Xiao, Mei Qi, Yeoreum, Dayoung and Yeonjung. The name WJSN is an acronym for “Wonderful Journey to the Stars”. |
 | 35 | [dawon](http://twitter.com/search?q=dawon) | N/A |
-| 36 | [Bismillah](http://twitter.com/search?q=Bismillah) | N/A |
-| 37 | [Tidur](http://twitter.com/search?q=Tidur) | N/A |
-| 38 | [SOOBIN](http://twitter.com/search?q=SOOBIN) | SOOBIN is a Korean name, derived from the Chinese characters for "protection" and "beauty". It can be translated to mean "protected beauty" in English. |
-| 39 | [wjsn](http://twitter.com/search?q=wjsn) | WJSN stands for Cosmic Girls, a South Korean girl group formed in 2016 by Starship Entertainment and Yuehua Entertainment. The group consists of thirteen members: Seola, Xuan Yi, Bona, Exy, Soobin, Luda, Dawon, Eunseo, Cheng Xiao, Mei Qi, Yeoreum, Dayoung and Yeonjung. The name WJSN is an acronym for “Wonderful Journey to the Stars”. |
-| 40 | [Pemilu](http://twitter.com/search?q=Pemilu) | N/A |
-| 41 | [wafello](http://twitter.com/search?q=wafello) | N/A |
-| 42 | [Balongan](http://twitter.com/search?q=Balongan) | N/A |
-| 43 | [Luda](http://twitter.com/search?q=Luda) | N/A |
-| 44 | [daehwi](http://twitter.com/search?q=daehwi) | N/A |
-| 45 | [Ult Bias](http://twitter.com/search?q=Ult+Bias) | N/A |
-| 46 | [SUPPASIT WFT 2023](http://twitter.com/search?q=SUPPASIT+WFT+2023) | N/A |
-| 47 | [8 ML](http://twitter.com/search?q=8+ML) | N/A |
-| 48 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 36 | [wafello](http://twitter.com/search?q=wafello) | N/A |
+| 37 | [Balongan](http://twitter.com/search?q=Balongan) | N/A |
+| 38 | [daehwi](http://twitter.com/search?q=daehwi) | N/A |
+| 39 | [Ya Allah](http://twitter.com/search?q=Ya+Allah) | N/A |
+| 40 | [SUPPASIT WFT 2023](http://twitter.com/search?q=SUPPASIT+WFT+2023) | N/A |
+| 41 | [8 ML](http://twitter.com/search?q=8+ML) | N/A |
+| 42 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 43 | [SOOBIN](http://twitter.com/search?q=SOOBIN) | SOOBIN is a Korean name, derived from the Chinese characters for "protection" and "beauty". It can be translated to mean "protected beauty" in English. |
+| 44 | [jinki](http://twitter.com/search?q=jinki) | N/A |
+| 45 | [Luda](http://twitter.com/search?q=Luda) | N/A |
+| 46 | [Ult Bias](http://twitter.com/search?q=Ult+Bias) | N/A |
+| 47 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 48 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bologna
 
-📆 Last Updated: `2023-03-03 20:16:54 UTC`
+📆 Last Updated: `2023-03-03 21:16:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#3Marzo](http://twitter.com/search?q=%233Marzo) | N/A |
+| 1 | [#propagandalive](http://twitter.com/search?q=%23propagandalive) | N/A |
 | 2 | [#NapoliLazio](http://twitter.com/search?q=%23NapoliLazio) | N/A |
-| 3 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
-| 4 | [#gfvip](http://twitter.com/search?q=%23gfvip) | #GFVIP stands for "Good Friends Very Important Person" and is used to refer to someone who is a close friend or an important person in one's life. |
-| 5 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 6 | [Sonia](http://twitter.com/search?q=Sonia) | Sonia is a female given name of Latin origin, derived from the Greek word for "wisdom". It is a popular name in many countries, including India, Italy, France, Spain, and the United States. In English, it is usually pronounced "so-NEE-ah". |
+| 3 | [#TheVoiceSenior](http://twitter.com/search?q=%23TheVoiceSenior) | #TheVoiceSenior is a reality television singing competition series based on the original The Voice format. It is a spin-off of the original The Voice series and features senior citizens aged 60 and over competing for a recording contract. The show premiered in Germany in 2018 and has since been adapted in several other countries. |
+| 4 | [#quartogrado](http://twitter.com/search?q=%23quartogrado) | N/A |
+| 5 | [Sonia](http://twitter.com/search?q=Sonia) | Sonia is a female given name of Latin origin, derived from the Greek word for "wisdom". It is a popular name in many countries, including India, Italy, France, Spain, and the United States. In English, it is usually pronounced "so-NEE-ah". |
+| 6 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 7 | [Bruno Astorre](http://twitter.com/search?q=Bruno+Astorre) | N/A |
 | 8 | [Guardia Costiera](http://twitter.com/search?q=Guardia+Costiera) | N/A |
-| 9 | [Crotone](http://twitter.com/search?q=Crotone) | N/A |
-| 10 | [Tavassi](http://twitter.com/search?q=Tavassi) | N/A |
-| 11 | [Bergamo](http://twitter.com/search?q=Bergamo) | N/A |
-| 12 | [Bubu](http://twitter.com/search?q=Bubu) | N/A |
-| 13 | [Feltri](http://twitter.com/search?q=Feltri) | N/A |
-| 14 | [Di Lorenzo](http://twitter.com/search?q=Di+Lorenzo) | Di Lorenzo is an Italian surname. It is derived from the Latin name Laurentius, which means "from Laurentum" (a town in ancient Italy). In English, the meaning of Di Lorenzo is "of Laurentum". |
-| 15 | [LA LIVE](http://twitter.com/search?q=LA+LIVE) | N/A |
-| 16 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
-| 17 | [Daniele](http://twitter.com/search?q=Daniele) | N/A |
-| 18 | [Clio](http://twitter.com/search?q=Clio) | N/A |
-| 19 | [Fontana](http://twitter.com/search?q=Fontana) | N/A |
-| 20 | [Pier Silvio](http://twitter.com/search?q=Pier+Silvio) | N/A |
-| 21 | [Benedetta](http://twitter.com/search?q=Benedetta) | N/A |
-| 22 | [Omar](http://twitter.com/search?q=Omar) | Omar is a male given name of Arabic origin, meaning "speaker". It is also used as a surname. |
-| 23 | [Gandhi](http://twitter.com/search?q=Gandhi) | N/A |
-| 24 | [Niveo](http://twitter.com/search?q=Niveo) | Niveo is a Latin word meaning "snowy" or "snow-white". It is often used to describe something that is very white or pure. |
-| 25 | [Lavinia](http://twitter.com/search?q=Lavinia) | Lavinia is a female given name of Latin origin, derived from the Roman family name Laviniu. It is thought to mean "purity" or "cleanliness". |
-| 26 | [Grazie Presidente](http://twitter.com/search?q=Grazie+Presidente) | N/A |
-| 27 | [Grosseto](http://twitter.com/search?q=Grosseto) | N/A |
-| 28 | [Adani](http://twitter.com/search?q=Adani) | Adani is a multinational conglomerate based in India. It is involved in the development and operation of infrastructure projects such as ports, power plants, and mines. The name Adani is derived from the Sanskrit word "Adan," which means "the beginning." |
-| 29 | [Bocchino](http://twitter.com/search?q=Bocchino) | N/A |
+| 9 | [Denise](http://twitter.com/search?q=Denise) | N/A |
+| 10 | [Di Lorenzo](http://twitter.com/search?q=Di+Lorenzo) | Di Lorenzo is an Italian surname. It is derived from the Latin name Laurentius, which means "from Laurentum" (a town in ancient Italy). In English, the meaning of Di Lorenzo is "of Laurentum". |
+| 11 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
+| 12 | [Teresina](http://twitter.com/search?q=Teresina) | N/A |
+| 13 | [Crotone](http://twitter.com/search?q=Crotone) | N/A |
+| 14 | [Tavassi](http://twitter.com/search?q=Tavassi) | N/A |
+| 15 | [Pier Silvio](http://twitter.com/search?q=Pier+Silvio) | N/A |
+| 16 | [Bergamo](http://twitter.com/search?q=Bergamo) | N/A |
+| 17 | [Feltri](http://twitter.com/search?q=Feltri) | N/A |
+| 18 | [LA LIVE](http://twitter.com/search?q=LA+LIVE) | N/A |
+| 19 | [Otello](http://twitter.com/search?q=Otello) | N/A |
+| 20 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
+| 21 | [Sarri](http://twitter.com/search?q=Sarri) | N/A |
+| 22 | [Clio](http://twitter.com/search?q=Clio) | N/A |
+| 23 | [Fontana](http://twitter.com/search?q=Fontana) | N/A |
+| 24 | [Cutro](http://twitter.com/search?q=Cutro) | N/A |
+| 25 | [Hysaj](http://twitter.com/search?q=Hysaj) | N/A |
+| 26 | [Gandhi](http://twitter.com/search?q=Gandhi) | N/A |
+| 27 | [Bubu](http://twitter.com/search?q=Bubu) | N/A |
+| 28 | [Grosseto](http://twitter.com/search?q=Grosseto) | N/A |
+| 29 | [Adani](http://twitter.com/search?q=Adani) | Adani is a multinational conglomerate based in India. It is involved in the development and operation of infrastructure projects such as ports, power plants, and mines. The name Adani is derived from the Sanskrit word "Adan," which means "the beginning." |
 | 30 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 31 | [Lombardo](http://twitter.com/search?q=Lombardo) | N/A |
-| 32 | [Faraoni](http://twitter.com/search?q=Faraoni) | N/A |
-| 33 | [Emiliano](http://twitter.com/search?q=Emiliano) | N/A |
-| 34 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
-| 35 | [Mimmo](http://twitter.com/search?q=Mimmo) | N/A |
-| 36 | [Zane Weir](http://twitter.com/search?q=Zane+Weir) | N/A |
-| 37 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 38 | [Edoardo](http://twitter.com/search?q=Edoardo) | Edoardo is an Italian name derived from the Germanic name Edward, which means "wealthy guardian". It is a popular name in Italy and other parts of Europe. |
-| 39 | [Ciao Bruno](http://twitter.com/search?q=Ciao+Bruno) | N/A |
-| 40 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 41 | [Nikita](http://twitter.com/search?q=Nikita) | Nikita is a Russian female name derived from the Greek name Nikētas, meaning “unconquered” or “victory of the people.” It is also a popular name in other countries, including India, where it is spelled Nikitha. |
-| 42 | [Tachipirina](http://twitter.com/search?q=Tachipirina) | N/A |
-| 43 | [Bechis](http://twitter.com/search?q=Bechis) | N/A |
-| 44 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
-| 45 | [Vincenzo](http://twitter.com/search?q=Vincenzo) | N/A |
-| 46 | [Scacciapensieri](http://twitter.com/search?q=Scacciapensieri) | N/A |
-| 47 | [Buona Serata](http://twitter.com/search?q=Buona+Serata) | N/A |
-| 48 | [Rozzano](http://twitter.com/search?q=Rozzano) | N/A |
-| 49 | [Grecia](http://twitter.com/search?q=Grecia) | N/A |
+| 31 | [Patric](http://twitter.com/search?q=Patric) | N/A |
+| 32 | [Lombardo](http://twitter.com/search?q=Lombardo) | N/A |
+| 33 | [Bocchino](http://twitter.com/search?q=Bocchino) | N/A |
+| 34 | [Grazie Presidente](http://twitter.com/search?q=Grazie+Presidente) | N/A |
+| 35 | [Omar](http://twitter.com/search?q=Omar) | Omar is a male given name of Arabic origin, meaning "speaker". It is also used as a surname. |
+| 36 | [Faraoni](http://twitter.com/search?q=Faraoni) | N/A |
+| 37 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
+| 38 | [Bechis](http://twitter.com/search?q=Bechis) | N/A |
+| 39 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 40 | [Edoardo](http://twitter.com/search?q=Edoardo) | Edoardo is an Italian name derived from the Germanic name Edward, which means "wealthy guardian". It is a popular name in Italy and other parts of Europe. |
+| 41 | [Mimmo](http://twitter.com/search?q=Mimmo) | N/A |
+| 42 | [Ciao Bruno](http://twitter.com/search?q=Ciao+Bruno) | N/A |
+| 43 | [Niveo](http://twitter.com/search?q=Niveo) | Niveo is a Latin word meaning "snowy" or "snow-white". It is often used to describe something that is very white or pure. |
+| 44 | [Daniele](http://twitter.com/search?q=Daniele) | N/A |
+| 45 | [Benedetta](http://twitter.com/search?q=Benedetta) | N/A |
+| 46 | [Anguissa](http://twitter.com/search?q=Anguissa) | N/A |
+| 47 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 48 | [Nikita](http://twitter.com/search?q=Nikita) | Nikita is a Russian female name derived from the Greek name Nikētas, meaning “unconquered” or “victory of the people.” It is also a popular name in other countries, including India, where it is spelled Nikitha. |
+| 49 | [Agata](http://twitter.com/search?q=Agata) | N/A |
 
 
 

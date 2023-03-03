@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Utrecht
 
-📆 Last Updated: `2023-03-03 20:16:55 UTC`
+📆 Last Updated: `2023-03-03 21:16:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Netherlands](</Netherlands>)
 | ------- | ------------ | ------------ |
 | 1 | [#pecdbo](http://twitter.com/search?q=%23pecdbo) | N/A |
 | 2 | [#deverraders](http://twitter.com/search?q=%23deverraders) | N/A |
-| 3 | [#WKAfstanden](http://twitter.com/search?q=%23WKAfstanden) | N/A |
-| 4 | [#vitaz](http://twitter.com/search?q=%23vitaz) | N/A |
-| 5 | [Lubach](http://twitter.com/search?q=Lubach) | N/A |
-| 6 | [Den Bosch](http://twitter.com/search?q=Den+Bosch) | Den Bosch is the Dutch name for the city of 's-Hertogenbosch, which is located in the southern Netherlands. The English translation of Den Bosch is 'The Duke's Forest'. |
-| 7 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 8 | [Jordan Stolz](http://twitter.com/search?q=Jordan+Stolz) | N/A |
-| 9 | [Joy Beune](http://twitter.com/search?q=Joy+Beune) | N/A |
-| 10 | [Scherpen](http://twitter.com/search?q=Scherpen) | N/A |
-| 11 | [Koeman](http://twitter.com/search?q=Koeman) | N/A |
-| 12 | [Dolf](http://twitter.com/search?q=Dolf) | N/A |
-| 13 | [Hartman](http://twitter.com/search?q=Hartman) | N/A |
-| 14 | [Derksen](http://twitter.com/search?q=Derksen) | N/A |
-| 15 | [Oranje](http://twitter.com/search?q=Oranje) | N/A |
-| 16 | [Angie](http://twitter.com/search?q=Angie) | N/A |
-| 17 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 18 | [Fijn](http://twitter.com/search?q=Fijn) | N/A |
-| 19 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 20 | [Luuk de Jong](http://twitter.com/search?q=Luuk+de+Jong) | N/A |
-| 21 | [Zweden](http://twitter.com/search?q=Zweden) | N/A |
-| 22 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 23 | [Quincy Promes](http://twitter.com/search?q=Quincy+Promes) | N/A |
-| 24 | [Proost](http://twitter.com/search?q=Proost) | N/A |
-| 25 | [Jos Heymans](http://twitter.com/search?q=Jos+Heymans) | N/A |
-| 26 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 27 | [Iraniër](http://twitter.com/search?q=Irani%c3%abr) | N/A |
-| 28 | [Mathieu van der Poel](http://twitter.com/search?q=Mathieu+van+der+Poel) | N/A |
-| 29 | [maya hawke](http://twitter.com/search?q=maya+hawke) | N/A |
-| 30 | [De Graafschap](http://twitter.com/search?q=De+Graafschap) | N/A |
-| 31 | [Vandaag Inside](http://twitter.com/search?q=Vandaag+Inside) | N/A |
-| 32 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
-| 33 | [Brobbey](http://twitter.com/search?q=Brobbey) | N/A |
-| 34 | [Bastiaan](http://twitter.com/search?q=Bastiaan) | N/A |
-| 35 | [grillitsch](http://twitter.com/search?q=grillitsch) | N/A |
-| 36 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
-| 37 | [Wijnaldum](http://twitter.com/search?q=Wijnaldum) | N/A |
-| 38 | [Olij](http://twitter.com/search?q=Olij) | N/A |
-| 39 | [b. nee](http://twitter.com/search?q=b.+nee) | N/A |
-| 40 | [Lavrov](http://twitter.com/search?q=Lavrov) | N/A |
-| 41 | [Gijp](http://twitter.com/search?q=Gijp) | N/A |
-| 42 | [Boomen](http://twitter.com/search?q=Boomen) | N/A |
-| 43 | [Göteborg](http://twitter.com/search?q=G%c3%b6teborg) | N/A |
-| 44 | [Meijer](http://twitter.com/search?q=Meijer) | N/A |
-| 45 | [Joost Eerdmans](http://twitter.com/search?q=Joost+Eerdmans) | N/A |
-| 46 | [Prettig](http://twitter.com/search?q=Prettig) | N/A |
-| 47 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
-| 48 | [Noppert](http://twitter.com/search?q=Noppert) | N/A |
-| 49 | [FC Dordrecht](http://twitter.com/search?q=FC+Dordrecht) | N/A |
+| 3 | [Den Bosch](http://twitter.com/search?q=Den+Bosch) | Den Bosch is the Dutch name for the city of 's-Hertogenbosch, which is located in the southern Netherlands. The English translation of Den Bosch is 'The Duke's Forest'. |
+| 4 | [#utrfor](http://twitter.com/search?q=%23utrfor) | N/A |
+| 5 | [#vitaz](http://twitter.com/search?q=%23vitaz) | N/A |
+| 6 | [Femke Kok](http://twitter.com/search?q=Femke+Kok) | N/A |
+| 7 | [Lubach](http://twitter.com/search?q=Lubach) | N/A |
+| 8 | [Scherpen](http://twitter.com/search?q=Scherpen) | N/A |
+| 9 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 10 | [Belt](http://twitter.com/search?q=Belt) | N/A |
+| 11 | [Jordan Stolz](http://twitter.com/search?q=Jordan+Stolz) | N/A |
+| 12 | [Koeman](http://twitter.com/search?q=Koeman) | N/A |
+| 13 | [Dolf](http://twitter.com/search?q=Dolf) | N/A |
+| 14 | [Fortuna Sittard](http://twitter.com/search?q=Fortuna+Sittard) | N/A |
+| 15 | [Hartman](http://twitter.com/search?q=Hartman) | N/A |
+| 16 | [Derksen](http://twitter.com/search?q=Derksen) | N/A |
+| 17 | [Joy Beune](http://twitter.com/search?q=Joy+Beune) | N/A |
+| 18 | [Angie](http://twitter.com/search?q=Angie) | N/A |
+| 19 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
+| 20 | [Oranje](http://twitter.com/search?q=Oranje) | N/A |
+| 21 | [FC Dordrecht](http://twitter.com/search?q=FC+Dordrecht) | N/A |
+| 22 | [Luuk de Jong](http://twitter.com/search?q=Luuk+de+Jong) | N/A |
+| 23 | [Almere City](http://twitter.com/search?q=Almere+City) | N/A |
+| 24 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 25 | [Quincy Promes](http://twitter.com/search?q=Quincy+Promes) | N/A |
+| 26 | [Zweden](http://twitter.com/search?q=Zweden) | N/A |
+| 27 | [Fijn](http://twitter.com/search?q=Fijn) | N/A |
+| 28 | [Proost](http://twitter.com/search?q=Proost) | N/A |
+| 29 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 30 | [Jos Heymans](http://twitter.com/search?q=Jos+Heymans) | N/A |
+| 31 | [Bastiaan](http://twitter.com/search?q=Bastiaan) | N/A |
+| 32 | [Iraniër](http://twitter.com/search?q=Irani%c3%abr) | N/A |
+| 33 | [Mathieu van der Poel](http://twitter.com/search?q=Mathieu+van+der+Poel) | N/A |
+| 34 | [de graafschap](http://twitter.com/search?q=de+graafschap) | N/A |
+| 35 | [Olij](http://twitter.com/search?q=Olij) | N/A |
+| 36 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
+| 37 | [Brobbey](http://twitter.com/search?q=Brobbey) | N/A |
+| 38 | [maya hawke](http://twitter.com/search?q=maya+hawke) | N/A |
+| 39 | [Grillitsch](http://twitter.com/search?q=Grillitsch) | N/A |
+| 40 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
+| 41 | [Wijnaldum](http://twitter.com/search?q=Wijnaldum) | N/A |
+| 42 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 43 | [b. nee](http://twitter.com/search?q=b.+nee) | N/A |
+| 44 | [Heracles](http://twitter.com/search?q=Heracles) | N/A |
+| 45 | [Hoekstra](http://twitter.com/search?q=Hoekstra) | N/A |
+| 46 | [Lavrov](http://twitter.com/search?q=Lavrov) | N/A |
+| 47 | [Johan](http://twitter.com/search?q=Johan) | N/A |
+| 48 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 49 | [Göteborg](http://twitter.com/search?q=G%c3%b6teborg) | N/A |
 
 
 

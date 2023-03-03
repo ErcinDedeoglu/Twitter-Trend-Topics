@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kuala Lumpur
 
-📆 Last Updated: `2023-03-03 20:17:07 UTC`
+📆 Last Updated: `2023-03-03 21:16:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,26 +20,26 @@ This is top 50 for [Malaysia](</Malaysia>)
 | 3 | [#TXT_4th_Anniversary](http://twitter.com/search?q=%23TXT_4th_Anniversary) | N/A |
 | 4 | [#BORNPINKinKL](http://twitter.com/search?q=%23BORNPINKinKL) | N/A |
 | 5 | [#ProjekHighCouncil](http://twitter.com/search?q=%23ProjekHighCouncil) | N/A |
-| 6 | [#TheMaskedSingerMalaysia](http://twitter.com/search?q=%23TheMaskedSingerMalaysia) | N/A |
+| 6 | [#themaskedsingermalaysia](http://twitter.com/search?q=%23themaskedsingermalaysia) | N/A |
 | 7 | [4 YEARS WITH TXT](http://twitter.com/search?q=4+YEARS+WITH+TXT) | N/A |
-| 8 | [Ultimate Bias](http://twitter.com/search?q=Ultimate+Bias) | N/A |
-| 9 | [First Bias](http://twitter.com/search?q=First+Bias) | N/A |
-| 10 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
-| 11 | [WHO IN SEVENTEEN](http://twitter.com/search?q=WHO+IN+SEVENTEEN) | N/A |
+| 8 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
+| 9 | [Ultimate Bias](http://twitter.com/search?q=Ultimate+Bias) | N/A |
+| 10 | [First Bias](http://twitter.com/search?q=First+Bias) | N/A |
+| 11 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
 | 12 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
-| 13 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 14 | [dawon](http://twitter.com/search?q=dawon) | N/A |
-| 15 | [8 SVT](http://twitter.com/search?q=8+SVT) | N/A |
-| 16 | [Jennie](http://twitter.com/search?q=Jennie) | Jennie is a female given name, derived from the name Jennifer. It is a diminutive form of Jennifer, which means "white wave" or "fair one". |
-| 17 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 18 | [SOOBIN](http://twitter.com/search?q=SOOBIN) | SOOBIN is a Korean name, derived from the Chinese characters for "protection" and "beauty". It can be translated to mean "protected beauty" in English. |
+| 13 | [WHO IN SEVENTEEN](http://twitter.com/search?q=WHO+IN+SEVENTEEN) | N/A |
+| 14 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 15 | [dawon](http://twitter.com/search?q=dawon) | N/A |
+| 16 | [8 SVT](http://twitter.com/search?q=8+SVT) | N/A |
+| 17 | [jennie](http://twitter.com/search?q=jennie) | N/A |
+| 18 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
 | 19 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
 | 20 | [Luda](http://twitter.com/search?q=Luda) | N/A |
 | 21 | [sasaeng](http://twitter.com/search?q=sasaeng) | N/A |
 | 22 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
 | 23 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
 | 24 | [wjsn](http://twitter.com/search?q=wjsn) | WJSN stands for Cosmic Girls, a South Korean girl group formed in 2016 by Starship Entertainment and Yuehua Entertainment. The group consists of thirteen members: Seola, Xuan Yi, Bona, Exy, Soobin, Luda, Dawon, Eunseo, Cheng Xiao, Mei Qi, Yeoreum, Dayoung and Yeonjung. The name WJSN is an acronym for “Wonderful Journey to the Stars”. |
-| 25 | [taekook](http://twitter.com/search?q=taekook) | Taekook is the name of a popular ship between two characters from the South Korean boy band BTS, Taehyung (V) and Jungkook. It is a portmanteau of their names, and it is used by fans to refer to the romantic relationship between them. |
+| 25 | [SOOBIN](http://twitter.com/search?q=SOOBIN) | SOOBIN is a Korean name, derived from the Chinese characters for "protection" and "beauty". It can be translated to mean "protected beauty" in English. |
 | 26 | [Cyno](http://twitter.com/search?q=Cyno) | N/A |
 | 27 | [SUPPASIT WFT 2023](http://twitter.com/search?q=SUPPASIT+WFT+2023) | N/A |
 | 28 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
@@ -52,19 +52,19 @@ This is top 50 for [Malaysia](</Malaysia>)
 | 35 | [Yato](http://twitter.com/search?q=Yato) | N/A |
 | 36 | [Leona](http://twitter.com/search?q=Leona) | N/A |
 | 37 | [Happy 4](http://twitter.com/search?q=Happy+4) | N/A |
-| 38 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
+| 38 | [taekook](http://twitter.com/search?q=taekook) | Taekook is the name of a popular ship between two characters from the South Korean boy band BTS, Taehyung (V) and Jungkook. It is a portmanteau of their names, and it is used by fans to refer to the romantic relationship between them. |
 | 39 | [Najib](http://twitter.com/search?q=Najib) | N/A |
 | 40 | [jeonghan](http://twitter.com/search?q=jeonghan) | Jeonghan is a Korean given name, usually for males. It is composed of two characters: "Jeong" meaning "righteous" and "Han" meaning "greatness". In English, Jeonghan can be translated to mean "righteous greatness". |
-| 41 | [Klang](http://twitter.com/search?q=Klang) | N/A |
-| 42 | [Subang Airport](http://twitter.com/search?q=Subang+Airport) | N/A |
-| 43 | [Mentega Terbang](http://twitter.com/search?q=Mentega+Terbang) | N/A |
-| 44 | [NICE TO MEET YOU BUILD](http://twitter.com/search?q=NICE+TO+MEET+YOU+BUILD) | N/A |
-| 45 | [arul kanda](http://twitter.com/search?q=arul+kanda) | N/A |
-| 46 | [klia](http://twitter.com/search?q=klia) | N/A |
-| 47 | [Dori](http://twitter.com/search?q=Dori) | N/A |
-| 48 | [salam jumaat](http://twitter.com/search?q=salam+jumaat) | N/A |
-| 49 | [TY WEARS LOEWE](http://twitter.com/search?q=TY+WEARS+LOEWE) | N/A |
-| 50 | [Top 5](http://twitter.com/search?q=Top+5) | Top 5 is a phrase used to refer to the five best or most popular items in a particular category. It is commonly used to refer to the five best movies, songs, books, or other items in a given field. |
+| 41 | [Subang Airport](http://twitter.com/search?q=Subang+Airport) | N/A |
+| 42 | [NICE TO MEET YOU BUILD](http://twitter.com/search?q=NICE+TO+MEET+YOU+BUILD) | N/A |
+| 43 | [arul kanda](http://twitter.com/search?q=arul+kanda) | N/A |
+| 44 | [klia](http://twitter.com/search?q=klia) | N/A |
+| 45 | [Dori](http://twitter.com/search?q=Dori) | N/A |
+| 46 | [salam jumaat](http://twitter.com/search?q=salam+jumaat) | N/A |
+| 47 | [Mentega Terbang](http://twitter.com/search?q=Mentega+Terbang) | N/A |
+| 48 | [TY WEARS LOEWE](http://twitter.com/search?q=TY+WEARS+LOEWE) | N/A |
+| 49 | [Top 5](http://twitter.com/search?q=Top+5) | Top 5 is a phrase used to refer to the five best or most popular items in a particular category. It is commonly used to refer to the five best movies, songs, books, or other items in a given field. |
+| 50 | [hyungwon](http://twitter.com/search?q=hyungwon) | Hyungwon is a Korean term of endearment used to refer to an older brother or male friend. It is derived from the Korean word "hyung," which means older brother, and "won," which means circle or round. In English, it can be translated as "older brother" or "dear friend." |
 
 
 

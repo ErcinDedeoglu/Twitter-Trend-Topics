@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denver
 
-📆 Last Updated: `2023-03-03 20:17:26 UTC`
+📆 Last Updated: `2023-03-03 21:17:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 2 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
-| 3 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
-| 4 | [#EmployeeAppreciationDay](http://twitter.com/search?q=%23EmployeeAppreciationDay) | N/A |
+| 1 | [#303day](http://twitter.com/search?q=%23303day) | N/A |
+| 2 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
+| 3 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
+| 4 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 5 | [Chuck Fletcher](http://twitter.com/search?q=Chuck+Fletcher) | N/A |
-| 6 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
-| 7 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
-| 8 | [Greenway](http://twitter.com/search?q=Greenway) | N/A |
-| 9 | [#iuwbb](http://twitter.com/search?q=%23iuwbb) | N/A |
-| 10 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
-| 11 | [Vindman](http://twitter.com/search?q=Vindman) | N/A |
-| 12 | [#WorldWildlifeDay](http://twitter.com/search?q=%23WorldWildlifeDay) | N/A |
-| 13 | [SOOBIN](http://twitter.com/search?q=SOOBIN) | SOOBIN is a Korean name, derived from the Chinese characters for "protection" and "beauty". It can be translated to mean "protected beauty" in English. |
-| 14 | [Walgreens](http://twitter.com/search?q=Walgreens) | N/A |
-| 15 | [Kulikov](http://twitter.com/search?q=Kulikov) | N/A |
-| 16 | [Scherzer](http://twitter.com/search?q=Scherzer) | N/A |
-| 17 | [Eminem](http://twitter.com/search?q=Eminem) | N/A |
-| 18 | [Morgan Wallen](http://twitter.com/search?q=Morgan+Wallen) | N/A |
-| 19 | [Bowen Born](http://twitter.com/search?q=Bowen+Born) | N/A |
-| 20 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
-| 21 | [fnatic](http://twitter.com/search?q=fnatic) | N/A |
-| 22 | [De La Soul](http://twitter.com/search?q=De+La+Soul) | N/A |
-| 23 | [BEA I'M SAURY](http://twitter.com/search?q=BEA+I%27M+SAURY) | N/A |
-| 24 | [Deliver Us Mars](http://twitter.com/search?q=Deliver+Us+Mars) | N/A |
-| 25 | [Dahm](http://twitter.com/search?q=Dahm) | N/A |
-| 26 | [Detective Pikachu](http://twitter.com/search?q=Detective+Pikachu) | N/A |
-| 27 | [Don Jr](http://twitter.com/search?q=Don+Jr) | N/A |
-| 28 | [Lamar to Washington](http://twitter.com/search?q=Lamar+to+Washington) | N/A |
-| 29 | [Lemieux](http://twitter.com/search?q=Lemieux) | N/A |
-| 30 | [James Paxton](http://twitter.com/search?q=James+Paxton) | N/A |
-| 31 | [Flyers](http://twitter.com/search?q=Flyers) | Flyers are a type of printed advertisement used to promote products, services, or events. They are typically distributed in public places such as streets, parks, and shopping centers. Flyers can also be sent through the mail or handed out at events. The purpose of a flyer is to attract attention and encourage people to take action. |
-| 32 | [James van Riemsdyk](http://twitter.com/search?q=James+van+Riemsdyk) | N/A |
-| 33 | [Wayne](http://twitter.com/search?q=Wayne) | Wayne is a masculine given name in English, derived from an Old English surname meaning "wagon maker" or "wagon driver". It is also used as a surname. |
-| 34 | [Brandt](http://twitter.com/search?q=Brandt) | N/A |
-| 35 | [Crunchyroll](http://twitter.com/search?q=Crunchyroll) | N/A |
-| 36 | [McGinn](http://twitter.com/search?q=McGinn) | McGinn is a surname of Irish origin. It is derived from the Gaelic Mac Fhionnghain, meaning "son of the fair-haired one". |
-| 37 | [Asplund](http://twitter.com/search?q=Asplund) | N/A |
-| 38 | [Melle Mel](http://twitter.com/search?q=Melle+Mel) | N/A |
-| 39 | [MIROTIC](http://twitter.com/search?q=MIROTIC) | N/A |
-| 40 | [Jay Z](http://twitter.com/search?q=Jay+Z) | Jay Z is the stage name of Shawn Carter, an American rapper, songwriter, record producer, entrepreneur, and record executive. He is one of the most successful hip-hop artists and entrepreneurs in America. His music often focuses on themes of financial success, power, and social issues. |
-| 41 | [Julius Brents](http://twitter.com/search?q=Julius+Brents) | N/A |
-| 42 | [Matt Vierling](http://twitter.com/search?q=Matt+Vierling) | N/A |
-| 43 | [Bonino](http://twitter.com/search?q=Bonino) | N/A |
-| 44 | [Geoff Neal](http://twitter.com/search?q=Geoff+Neal) | N/A |
-| 45 | [Yzerman](http://twitter.com/search?q=Yzerman) | N/A |
-| 46 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
-| 47 | [Carew](http://twitter.com/search?q=Carew) | N/A |
-| 48 | [CJ Stroud](http://twitter.com/search?q=CJ+Stroud) | CJ Stroud is the name of an American football quarterback who currently plays for the Ohio State Buckeyes. He is known for his strong arm and accuracy, as well as his leadership skills. The name CJ Stroud is derived from his initials, C.J., and his last name, Stroud. |
-| 49 | [Masego](http://twitter.com/search?q=Masego) | N/A |
+| 6 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
+| 7 | [DJ Turner](http://twitter.com/search?q=DJ+Turner) | N/A |
+| 8 | [#EmployeeAppreciationDay](http://twitter.com/search?q=%23EmployeeAppreciationDay) | N/A |
+| 9 | [#PumpRules](http://twitter.com/search?q=%23PumpRules) | N/A |
+| 10 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
+| 11 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
+| 12 | [Greenway](http://twitter.com/search?q=Greenway) | N/A |
+| 13 | [Daniel Jones](http://twitter.com/search?q=Daniel+Jones) | Daniel Jones is a common English surname. It is derived from the Hebrew name Daniel, which means "God is my judge". The name is often used as a given name in English-speaking countries. |
+| 14 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
+| 15 | [Vindman](http://twitter.com/search?q=Vindman) | N/A |
+| 16 | [Klingberg](http://twitter.com/search?q=Klingberg) | N/A |
+| 17 | [Wayne](http://twitter.com/search?q=Wayne) | Wayne is a masculine given name in English, derived from an Old English surname meaning "wagon maker" or "wagon driver". It is also used as a surname. |
+| 18 | [SOOBIN](http://twitter.com/search?q=SOOBIN) | SOOBIN is a Korean name, derived from the Chinese characters for "protection" and "beauty". It can be translated to mean "protected beauty" in English. |
+| 19 | [Flyers](http://twitter.com/search?q=Flyers) | Flyers are a type of printed advertisement used to promote products, services, or events. They are typically distributed in public places such as streets, parks, and shopping centers. Flyers can also be sent through the mail or handed out at events. The purpose of a flyer is to attract attention and encourage people to take action. |
+| 20 | [Miggy](http://twitter.com/search?q=Miggy) | N/A |
+| 21 | [Deonte Banks](http://twitter.com/search?q=Deonte+Banks) | N/A |
+| 22 | [Pujols](http://twitter.com/search?q=Pujols) | N/A |
+| 23 | [Asplund](http://twitter.com/search?q=Asplund) | N/A |
+| 24 | [Christian Gonzalez](http://twitter.com/search?q=Christian+Gonzalez) | N/A |
+| 25 | [Lamar to Washington](http://twitter.com/search?q=Lamar+to+Washington) | N/A |
+| 26 | [Deliver Us Mars](http://twitter.com/search?q=Deliver+Us+Mars) | N/A |
+| 27 | [Sandoval](http://twitter.com/search?q=Sandoval) | N/A |
+| 28 | [Walgreens](http://twitter.com/search?q=Walgreens) | N/A |
+| 29 | [Bowen Born](http://twitter.com/search?q=Bowen+Born) | N/A |
+| 30 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
+| 31 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
+| 32 | [Kulikov](http://twitter.com/search?q=Kulikov) | N/A |
+| 33 | [Freedom Cities](http://twitter.com/search?q=Freedom+Cities) | N/A |
+| 34 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
+| 35 | [Ringo](http://twitter.com/search?q=Ringo) | N/A |
+| 36 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 37 | [Billy G](http://twitter.com/search?q=Billy+G) | N/A |
+| 38 | [Eminem](http://twitter.com/search?q=Eminem) | N/A |
+| 39 | [Emmanuel Forbes](http://twitter.com/search?q=Emmanuel+Forbes) | N/A |
+| 40 | [Scherzer](http://twitter.com/search?q=Scherzer) | N/A |
+| 41 | [Patrick Brown](http://twitter.com/search?q=Patrick+Brown) | N/A |
+| 42 | [Julius Brents](http://twitter.com/search?q=Julius+Brents) | N/A |
+| 43 | [BEA I'M SAURY](http://twitter.com/search?q=BEA+I%27M+SAURY) | N/A |
+| 44 | [Dahm](http://twitter.com/search?q=Dahm) | N/A |
+| 45 | [Don Jr](http://twitter.com/search?q=Don+Jr) | N/A |
+| 46 | [Morgan Wallen](http://twitter.com/search?q=Morgan+Wallen) | N/A |
+| 47 | [Rhett](http://twitter.com/search?q=Rhett) | N/A |
+| 48 | [De La Soul](http://twitter.com/search?q=De+La+Soul) | N/A |
+| 49 | [James van Riemsdyk](http://twitter.com/search?q=James+van+Riemsdyk) | N/A |
 
 
 

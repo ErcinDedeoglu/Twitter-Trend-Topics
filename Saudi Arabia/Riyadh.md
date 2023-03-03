@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riyadh
 
-📆 Last Updated: `2023-03-03 20:17:13 UTC`
+📆 Last Updated: `2023-03-03 21:16:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Saudi Arabia](</Saudi Arabia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#الرباعي_بمركاز_حمدي](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b1%d8%a8%d8%a7%d8%b9%d9%8a_%d8%a8%d9%85%d8%b1%d9%83%d8%a7%d8%b2_%d8%ad%d9%85%d8%af%d9%8a) | N/A |
-| 2 | [#مرسول_بارك](http://twitter.com/search?q=%23%d9%85%d8%b1%d8%b3%d9%88%d9%84_%d8%a8%d8%a7%d8%b1%d9%83) | #مرسول_بارك is an Arabic hashtag that translates to "Messenger of Blessings". It is used to express appreciation and gratitude for the blessings of Allah. |
-| 3 | [#عبدالعزيز_بن_فهد](http://twitter.com/search?q=%23%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%b9%d8%b2%d9%8a%d8%b2_%d8%a8%d9%86_%d9%81%d9%87%d8%af) | N/A |
-| 4 | [نونو سانتو](http://twitter.com/search?q=%d9%86%d9%88%d9%86%d9%88+%d8%b3%d8%a7%d9%86%d8%aa%d9%88) | نونو سانتو (Nunu Santo) is a traditional dance from the Caribbean island of Trinidad and Tobago. It is a form of African-influenced dance that combines elements of African, Indian, and European cultures. The dance is performed in a circle with two or more people, and involves intricate footwork and hand movements. The name "Nunu Santo" translates to "Holy Dance" in English. |
-| 5 | [اليوم الجمعه](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87) | N/A |
-| 6 | [فهد المطوع](http://twitter.com/search?q=%d9%81%d9%87%d8%af+%d8%a7%d9%84%d9%85%d8%b7%d9%88%d8%b9) | N/A |
+| 2 | [الجوله القادمه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%88%d9%84%d9%87+%d8%a7%d9%84%d9%82%d8%a7%d8%af%d9%85%d9%87) | N/A |
+| 3 | [الهدف الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%af%d9%81+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
+| 4 | [#مرسول_بارك](http://twitter.com/search?q=%23%d9%85%d8%b1%d8%b3%d9%88%d9%84_%d8%a8%d8%a7%d8%b1%d9%83) | #مرسول_بارك is an Arabic hashtag that translates to "Messenger of Blessings". It is used to express appreciation and gratitude for the blessings of Allah. |
+| 5 | [#عبدالعزيز_بن_فهد](http://twitter.com/search?q=%23%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%b9%d8%b2%d9%8a%d8%b2_%d8%a8%d9%86_%d9%81%d9%87%d8%af) | N/A |
+| 6 | [#نحبك_مثل_ما_تحبنا](http://twitter.com/search?q=%23%d9%86%d8%ad%d8%a8%d9%83_%d9%85%d8%ab%d9%84_%d9%85%d8%a7_%d8%aa%d8%ad%d8%a8%d9%86%d8%a7) | N/A |
 | 7 | [النقاط الثلاث](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d9%82%d8%a7%d8%b7+%d8%a7%d9%84%d8%ab%d9%84%d8%a7%d8%ab) | N/A |
-| 8 | [#النصر_الباطن](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%86%d8%b5%d8%b1_%d8%a7%d9%84%d8%a8%d8%a7%d8%b7%d9%86) | N/A |
-| 9 | [الحكم المحلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%83%d9%85+%d8%a7%d9%84%d9%85%d8%ad%d9%84%d9%8a) | الحكم المحلي is a term used in Arabic to refer to local government or local rule. In English, it can be translated as "local governance" or "local authority". |
-| 10 | [الوقت الضايع](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%82%d8%aa+%d8%a7%d9%84%d8%b6%d8%a7%d9%8a%d8%b9) | N/A |
-| 11 | [#متصدر_لاتكلمني](http://twitter.com/search?q=%23%d9%85%d8%aa%d8%b5%d8%af%d8%b1_%d9%84%d8%a7%d8%aa%d9%83%d9%84%d9%85%d9%86%d9%8a) | N/A |
-| 12 | [الشوط الثالث](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab) | N/A |
-| 13 | [الدفع الرباعي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%81%d8%b9+%d8%a7%d9%84%d8%b1%d8%a8%d8%a7%d8%b9%d9%8a) | N/A |
-| 14 | [الوقت الاضافي](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%82%d8%aa+%d8%a7%d9%84%d8%a7%d8%b6%d8%a7%d9%81%d9%8a) | N/A |
-| 15 | [الصليهم](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d9%84%d9%8a%d9%87%d9%85) | N/A |
-| 16 | [هات الصداره](http://twitter.com/search?q=%d9%87%d8%a7%d8%aa+%d8%a7%d9%84%d8%b5%d8%af%d8%a7%d8%b1%d9%87) | N/A |
-| 17 | [غارسيا](http://twitter.com/search?q=%d8%ba%d8%a7%d8%b1%d8%b3%d9%8a%d8%a7) | غارسيا is an Arabic name meaning "Garcia". It is a unisex name, and can be used for both boys and girls. |
-| 18 | [الشوط الاضافي الاول](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%a7%d8%b6%d8%a7%d9%81%d9%8a+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
-| 19 | [الوعد الخميس](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%b9%d8%af+%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | N/A |
-| 20 | [علي الفوز](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%81%d9%88%d8%b2) | N/A |
-| 21 | [فوز صعب](http://twitter.com/search?q=%d9%81%d9%88%d8%b2+%d8%b5%d8%b9%d8%a8) | N/A |
-| 22 | [الخيبري](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d9%8a%d8%a8%d8%b1%d9%8a) | الخيبري is an Arabic word that means "the one from Khyber". Khyber is a region in Pakistan, located in the northwest of the country. In English, الخيبري can be translated as "the Khyberi". |
-| 23 | [سامي النجعي](http://twitter.com/search?q=%d8%b3%d8%a7%d9%85%d9%8a+%d8%a7%d9%84%d9%86%d8%ac%d8%b9%d9%8a) | سامي النجعي is an Arabic phrase meaning "Sammy the Brave". It is often used as a nickname for someone who is courageous and brave. |
-| 24 | [غوستافو](http://twitter.com/search?q=%d8%ba%d9%88%d8%b3%d8%aa%d8%a7%d9%81%d9%88) | غوستافو is a Spanish word meaning "gusto" or "taste". It is used to describe the flavor of food or drink. |
-| 25 | [الحكم السعودي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%83%d9%85+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
-| 26 | [قول غريب](http://twitter.com/search?q=%d9%82%d9%88%d9%84+%d8%ba%d8%b1%d9%8a%d8%a8) | N/A |
-| 27 | [الحكم الاجنبي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%83%d9%85+%d8%a7%d9%84%d8%a7%d8%ac%d9%86%d8%a8%d9%8a) | الحكم الاجنبي is a term used in Arabic to refer to foreign or international law. It literally translates to "foreign judgment" or "foreign ruling". |
-| 28 | [فتيل](http://twitter.com/search?q=%d9%81%d8%aa%d9%8a%d9%84) | N/A |
-| 29 | [المباراه الجايه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d9%87+%d8%a7%d9%84%d8%ac%d8%a7%d9%8a%d9%87) | N/A |
-| 30 | [فوز العالمي](http://twitter.com/search?q=%d9%81%d9%88%d8%b2+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
-| 31 | [اجانب](http://twitter.com/search?q=%d8%a7%d8%ac%d8%a7%d9%86%d8%a8) | N/A |
-| 32 | [محمد مران](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d9%85%d8%b1%d8%a7%d9%86) | N/A |
+| 8 | [علي الدوري](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a) | N/A |
+| 9 | [الرائد](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d8%a7%d8%a6%d8%af) | الرائد is an Arabic word meaning "leader" or "pioneer". |
+| 10 | [#النصر_الباطن](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%86%d8%b5%d8%b1_%d8%a7%d9%84%d8%a8%d8%a7%d8%b7%d9%86) | N/A |
+| 11 | [الحكم المحلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%83%d9%85+%d8%a7%d9%84%d9%85%d8%ad%d9%84%d9%8a) | الحكم المحلي is a term used in Arabic to refer to local government or local rule. In English, it can be translated as "local governance" or "local authority". |
+| 12 | [الوقت الضايع](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%82%d8%aa+%d8%a7%d9%84%d8%b6%d8%a7%d9%8a%d8%b9) | N/A |
+| 13 | [الوقت الاضافي](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%82%d8%aa+%d8%a7%d9%84%d8%a7%d8%b6%d8%a7%d9%81%d9%8a) | N/A |
+| 14 | [الشوط الثالث](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab) | N/A |
+| 15 | [الدفع الرباعي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%81%d8%b9+%d8%a7%d9%84%d8%b1%d8%a8%d8%a7%d8%b9%d9%8a) | N/A |
+| 16 | [الوقت الاصلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%82%d8%aa+%d8%a7%d9%84%d8%a7%d8%b5%d9%84%d9%8a) | N/A |
+| 17 | [الحكم السعودي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%83%d9%85+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
+| 18 | [الصليهم](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d9%84%d9%8a%d9%87%d9%85) | N/A |
+| 19 | [هات الصداره](http://twitter.com/search?q=%d9%87%d8%a7%d8%aa+%d8%a7%d9%84%d8%b5%d8%af%d8%a7%d8%b1%d9%87) | N/A |
+| 20 | [الوعد الخميس](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%b9%d8%af+%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | N/A |
+| 21 | [الشوط الاضافي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%a7%d8%b6%d8%a7%d9%81%d9%8a) | N/A |
+| 22 | [اجانب](http://twitter.com/search?q=%d8%a7%d8%ac%d8%a7%d9%86%d8%a8) | N/A |
+| 23 | [الحكم الاجنبي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%83%d9%85+%d8%a7%d9%84%d8%a7%d8%ac%d9%86%d8%a8%d9%8a) | الحكم الاجنبي is a term used in Arabic to refer to foreign or international law. It literally translates to "foreign judgment" or "foreign ruling". |
+| 24 | [غارسيا](http://twitter.com/search?q=%d8%ba%d8%a7%d8%b1%d8%b3%d9%8a%d8%a7) | غارسيا is an Arabic name meaning "Garcia". It is a unisex name, and can be used for both boys and girls. |
+| 25 | [علي الفوز](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%81%d9%88%d8%b2) | N/A |
+| 26 | [المباراه الجايه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d9%87+%d8%a7%d9%84%d8%ac%d8%a7%d9%8a%d9%87) | N/A |
+| 27 | [فوز صعب](http://twitter.com/search?q=%d9%81%d9%88%d8%b2+%d8%b5%d8%b9%d8%a8) | N/A |
+| 28 | [قول غريب](http://twitter.com/search?q=%d9%82%d9%88%d9%84+%d8%ba%d8%b1%d9%8a%d8%a8) | N/A |
+| 29 | [الجريس](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%b1%d9%8a%d8%b3) | N/A |
+| 30 | [الخيبري](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d9%8a%d8%a8%d8%b1%d9%8a) | الخيبري is an Arabic word that means "the one from Khyber". Khyber is a region in Pakistan, located in the northwest of the country. In English, الخيبري can be translated as "the Khyberi". |
+| 31 | [غوستافو](http://twitter.com/search?q=%d8%ba%d9%88%d8%b3%d8%aa%d8%a7%d9%81%d9%88) | غوستافو is a Spanish word meaning "gusto" or "taste". It is used to describe the flavor of food or drink. |
+| 32 | [فوز العالمي](http://twitter.com/search?q=%d9%81%d9%88%d8%b2+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
 | 33 | [الهدف الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%af%d9%81+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | الهدف الثاني is a phrase in Arabic which translates to "Second Goal" in English. It is often used to refer to a second goal or objective that needs to be achieved. |
-| 34 | [الوعد الجوهره](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%b9%d8%af+%d8%a7%d9%84%d8%ac%d9%88%d9%87%d8%b1%d9%87) | N/A |
-| 35 | [دايم القمه](http://twitter.com/search?q=%d8%af%d8%a7%d9%8a%d9%85+%d8%a7%d9%84%d9%82%d9%85%d9%87) | N/A |
-| 36 | [سلطان الغنام](http://twitter.com/search?q=%d8%b3%d9%84%d8%b7%d8%a7%d9%86+%d8%a7%d9%84%d8%ba%d9%86%d8%a7%d9%85) | سلطان الغنام is an Arabic phrase which translates to "Sultan of the Ghannam". It is a title given to a leader or ruler who is known for their generosity and kindness. |
-| 37 | [الحكم الرابع](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%83%d9%85+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9) | N/A |
-| 38 | [الفوز الصعب](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%88%d8%b2+%d8%a7%d9%84%d8%b5%d8%b9%d8%a8) | N/A |
-| 39 | [الوقت الاصلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%82%d8%aa+%d8%a7%d9%84%d8%a7%d8%b5%d9%84%d9%8a) | N/A |
-| 40 | [مهر الدوري](http://twitter.com/search?q=%d9%85%d9%87%d8%b1+%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a) | N/A |
-| 41 | [الخميس الجاي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3+%d8%a7%d9%84%d8%ac%d8%a7%d9%8a) | N/A |
-| 42 | [علي الصداره](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b5%d8%af%d8%a7%d8%b1%d9%87) | N/A |
-| 43 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 44 | [اليوسف](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d8%b3%d9%81) | N/A |
-| 45 | [صغير الرياض](http://twitter.com/search?q=%d8%b5%d8%ba%d9%8a%d8%b1+%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6) | صغير الرياض is an Arabic phrase meaning "Little Riyadh". It is used to refer to the city of Riyadh, the capital of Saudi Arabia. |
-| 46 | [النظام الجديد](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%b8%d8%a7%d9%85+%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af) | N/A |
-| 47 | [الجوله الجايه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%88%d9%84%d9%87+%d8%a7%d9%84%d8%ac%d8%a7%d9%8a%d9%87) | N/A |
-| 48 | [٩ مارس](http://twitter.com/search?q=%d9%a9+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
-| 49 | [الحكام المحليين](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%83%d8%a7%d9%85+%d8%a7%d9%84%d9%85%d8%ad%d9%84%d9%8a%d9%8a%d9%86) | N/A |
-| 50 | [محمد ناجي](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d9%86%d8%a7%d8%ac%d9%8a) | N/A |
+| 34 | [ناصر الهويدي](http://twitter.com/search?q=%d9%86%d8%a7%d8%b5%d8%b1+%d8%a7%d9%84%d9%87%d9%88%d9%8a%d8%af%d9%8a) | N/A |
+| 35 | [الحكم الرابع](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%83%d9%85+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9) | N/A |
+| 36 | [محمد مران](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d9%85%d8%b1%d8%a7%d9%86) | N/A |
+| 37 | [الوعد الجوهره](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%b9%d8%af+%d8%a7%d9%84%d8%ac%d9%88%d9%87%d8%b1%d9%87) | N/A |
+| 38 | [صالح الهلال](http://twitter.com/search?q=%d8%b5%d8%a7%d9%84%d8%ad+%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | N/A |
+| 39 | [فتيل](http://twitter.com/search?q=%d9%81%d8%aa%d9%8a%d9%84) | N/A |
+| 40 | [الفوز الصعب](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%88%d8%b2+%d8%a7%d9%84%d8%b5%d8%b9%d8%a8) | N/A |
+| 41 | [النظام الجديد](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%b8%d8%a7%d9%85+%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af) | N/A |
+| 42 | [الوقت البدل الضايع](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%82%d8%aa+%d8%a7%d9%84%d8%a8%d8%af%d9%84+%d8%a7%d9%84%d8%b6%d8%a7%d9%8a%d8%b9) | N/A |
+| 43 | [سلطان الغنام](http://twitter.com/search?q=%d8%b3%d9%84%d8%b7%d8%a7%d9%86+%d8%a7%d9%84%d8%ba%d9%86%d8%a7%d9%85) | سلطان الغنام is an Arabic phrase which translates to "Sultan of the Ghannam". It is a title given to a leader or ruler who is known for their generosity and kindness. |
+| 44 | [التحالف الثلاثي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%ad%d8%a7%d9%84%d9%81+%d8%a7%d9%84%d8%ab%d9%84%d8%a7%d8%ab%d9%8a) | N/A |
+| 45 | [دايم القمه](http://twitter.com/search?q=%d8%af%d8%a7%d9%8a%d9%85+%d8%a7%d9%84%d9%82%d9%85%d9%87) | N/A |
+| 46 | [مهر الدوري](http://twitter.com/search?q=%d9%85%d9%87%d8%b1+%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a) | N/A |
+| 47 | [علي الصداره](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b5%d8%af%d8%a7%d8%b1%d9%87) | N/A |
+| 48 | [لاتسيو](http://twitter.com/search?q=%d9%84%d8%a7%d8%aa%d8%b3%d9%8a%d9%88) | لاتسيو is an Arabic phrase meaning "Don't worry". |
+| 49 | [الدقايق الاخيره](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%82%d8%a7%d9%8a%d9%82+%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d9%87) | N/A |
+| 50 | [الحكام المحليين](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%83%d8%a7%d9%85+%d8%a7%d9%84%d9%85%d8%ad%d9%84%d9%8a%d9%8a%d9%86) | N/A |
 
 
 

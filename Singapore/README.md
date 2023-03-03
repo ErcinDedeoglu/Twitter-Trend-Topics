@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Singapore
 
-📆 Last Updated: `2023-03-03 20:17:44 UTC`
+📆 Last Updated: `2023-03-03 21:17:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -44,27 +44,27 @@ This is top 50 for Singapore
 | 27 | [Army](http://twitter.com/search?q=Army) | N/A |
 | 28 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
 | 29 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 30 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 31 | [Meghan](http://twitter.com/search?q=Meghan) | N/A |
-| 32 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 33 | [5m build](http://twitter.com/search?q=5m+build) | N/A |
-| 34 | [jinki](http://twitter.com/search?q=jinki) | N/A |
+| 30 | [Meghan](http://twitter.com/search?q=Meghan) | N/A |
+| 31 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
+| 32 | [5m build](http://twitter.com/search?q=5m+build) | N/A |
+| 33 | [jinki](http://twitter.com/search?q=jinki) | N/A |
+| 34 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
 | 35 | [Nanami](http://twitter.com/search?q=Nanami) | N/A |
 | 36 | [Dior](http://twitter.com/search?q=Dior) | Dior is a French luxury fashion house founded in 1946 by Christian Dior. The name Dior is derived from the founder's surname and is an abbreviation of his full name, Christian Dior. In English, it means "of or relating to Christian Dior". |
 | 37 | [Alhaitham](http://twitter.com/search?q=Alhaitham) | Alhaitham is an Arabic name that means "the one who is truthful". |
 | 38 | [Anna](http://twitter.com/search?q=Anna) | N/A |
 | 39 | [Christmas](http://twitter.com/search?q=Christmas) | Christmas is an annual festival commemorating the birth of Jesus Christ, observed primarily on December 25 as a religious and cultural celebration among billions of people around the world. The traditional Christmas narrative, the Nativity of Jesus, delineated in the New Testament says that Jesus was born in Bethlehem, in accordance with messianic prophecies. When Joseph and Mary arrived in the city, the inn had no room and so they were offered a stable where the Christ Child was soon born. |
 | 40 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
-| 41 | [SO TRUE](http://twitter.com/search?q=SO+TRUE) | N/A |
-| 42 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 43 | [Woohoo](http://twitter.com/search?q=Woohoo) | N/A |
-| 44 | [Lando](http://twitter.com/search?q=Lando) | N/A |
-| 45 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 41 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
+| 42 | [SO TRUE](http://twitter.com/search?q=SO+TRUE) | N/A |
+| 43 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 44 | [Woohoo](http://twitter.com/search?q=Woohoo) | N/A |
+| 45 | [Lando](http://twitter.com/search?q=Lando) | N/A |
 | 46 | [Jakarta](http://twitter.com/search?q=Jakarta) | N/A |
-| 47 | [SOOBIN](http://twitter.com/search?q=SOOBIN) | SOOBIN is a Korean name, derived from the Chinese characters for "protection" and "beauty". It can be translated to mean "protected beauty" in English. |
-| 48 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
-| 49 | [hyungwon](http://twitter.com/search?q=hyungwon) | Hyungwon is a Korean term of endearment used to refer to an older brother or male friend. It is derived from the Korean word "hyung," which means older brother, and "won," which means circle or round. In English, it can be translated as "older brother" or "dear friend." |
-| 50 | [Huawei](http://twitter.com/search?q=Huawei) | N/A |
+| 47 | [hyungwon](http://twitter.com/search?q=hyungwon) | Hyungwon is a Korean term of endearment used to refer to an older brother or male friend. It is derived from the Korean word "hyung," which means older brother, and "won," which means circle or round. In English, it can be translated as "older brother" or "dear friend." |
+| 48 | [Huawei](http://twitter.com/search?q=Huawei) | N/A |
+| 49 | [Cyno](http://twitter.com/search?q=Cyno) | N/A |
+| 50 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Leicester
 
-📆 Last Updated: `2023-03-03 20:16:36 UTC`
+📆 Last Updated: `2023-03-03 21:16:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,52 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#C4News](http://twitter.com/search?q=%23C4News) | N/A |
-| 2 | [Whitney](http://twitter.com/search?q=Whitney) | N/A |
-| 3 | [Medvedev](http://twitter.com/search?q=Medvedev) | Medvedev is a Russian surname derived from the word medved, which means "bear". It is also the surname of Dmitry Medvedev, the current Prime Minister of Russia. In English, the name Medvedev can be translated to mean "son of the bear". |
-| 4 | [Keown](http://twitter.com/search?q=Keown) | N/A |
-| 5 | [Zack](http://twitter.com/search?q=Zack) | N/A |
-| 6 | [Vettel](http://twitter.com/search?q=Vettel) | N/A |
-| 7 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
-| 8 | [#FridayMotivation](http://twitter.com/search?q=%23FridayMotivation) | N/A |
-| 9 | [Femi](http://twitter.com/search?q=Femi) | N/A |
-| 10 | [#ToriesOut239](http://twitter.com/search?q=%23ToriesOut239) | N/A |
-| 11 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 12 | [Diaz](http://twitter.com/search?q=Diaz) | N/A |
-| 13 | [#OverseasNHSWorkersDay](http://twitter.com/search?q=%23OverseasNHSWorkersDay) | N/A |
-| 14 | [Alex Murdaugh](http://twitter.com/search?q=Alex+Murdaugh) | N/A |
-| 15 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 16 | [Piers Morgan](http://twitter.com/search?q=Piers+Morgan) | N/A |
-| 17 | [Wo Long](http://twitter.com/search?q=Wo+Long) | N/A |
-| 18 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 19 | [Reece James](http://twitter.com/search?q=Reece+James) | Reece James is a masculine given name of English origin. It is derived from the Old English elements rēad (red) and cēosan (to choose). The name can also be spelled as Reece or Reecey. |
-| 20 | [Drag](http://twitter.com/search?q=Drag) | N/A |
-| 21 | [Met Police](http://twitter.com/search?q=Met+Police) | N/A |
-| 22 | [Pat Butcher](http://twitter.com/search?q=Pat+Butcher) | N/A |
-| 23 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 24 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 1 | [Albion](http://twitter.com/search?q=Albion) | N/A |
+| 2 | [Meat Loaf](http://twitter.com/search?q=Meat+Loaf) | N/A |
+| 3 | [#BandcampFriday](http://twitter.com/search?q=%23BandcampFriday) | N/A |
+| 4 | [Dean Saunders](http://twitter.com/search?q=Dean+Saunders) | N/A |
+| 5 | [Wo Long](http://twitter.com/search?q=Wo+Long) | N/A |
+| 6 | [Mason Greenwood](http://twitter.com/search?q=Mason+Greenwood) | Mason Greenwood is a professional footballer who plays for Manchester United in the English Premier League. He is an attacking player who primarily plays as a forward. His name is derived from his hometown of Mason, England, and the word "greenwood," which refers to a type of forest. |
+| 7 | [#LiarJohnson](http://twitter.com/search?q=%23LiarJohnson) | N/A |
+| 8 | [Mane](http://twitter.com/search?q=Mane) | Mane is a noun that refers to the long, thick hair that grows from the neck of certain animals, such as horses and lions. In English, it is also used to refer to a person's long, thick hair. |
+| 9 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
+| 10 | [Femi](http://twitter.com/search?q=Femi) | N/A |
+| 11 | [Lance](http://twitter.com/search?q=Lance) | N/A |
+| 12 | [Far Right](http://twitter.com/search?q=Far+Right) | N/A |
+| 13 | [#ULEZ](http://twitter.com/search?q=%23ULEZ) | N/A |
+| 14 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 15 | [Pat Butcher](http://twitter.com/search?q=Pat+Butcher) | N/A |
+| 16 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 17 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 18 | [Hull](http://twitter.com/search?q=Hull) | N/A |
+| 19 | [Albrighton](http://twitter.com/search?q=Albrighton) | Albrighton is a village and civil parish in Shropshire, England. It is located near the town of Wolverhampton and has a population of around 8,000 people. The name Albrighton is derived from the Old English words 'eala' (swan) and 'brictun' (enclosure or settlement). |
+| 20 | [Bounty](http://twitter.com/search?q=Bounty) | N/A |
+| 21 | [Stephen Bear](http://twitter.com/search?q=Stephen+Bear) | N/A |
+| 22 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
+| 23 | [Marlon](http://twitter.com/search?q=Marlon) | N/A |
+| 24 | [Munster](http://twitter.com/search?q=Munster) | N/A |
 | 25 | [Garth Brooks](http://twitter.com/search?q=Garth+Brooks) | N/A |
-| 26 | [Meat Loaf](http://twitter.com/search?q=Meat+Loaf) | N/A |
-| 27 | [Stephen Bear](http://twitter.com/search?q=Stephen+Bear) | N/A |
-| 28 | [Marlon](http://twitter.com/search?q=Marlon) | N/A |
-| 29 | [Bounty](http://twitter.com/search?q=Bounty) | N/A |
-| 30 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 31 | [Moises Caicedo](http://twitter.com/search?q=Moises+Caicedo) | N/A |
-| 32 | [Paddy](http://twitter.com/search?q=Paddy) | N/A |
-| 33 | [SOOBIN](http://twitter.com/search?q=SOOBIN) | SOOBIN is a Korean name, derived from the Chinese characters for "protection" and "beauty". It can be translated to mean "protected beauty" in English. |
-| 34 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
-| 35 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 36 | [Mikey](http://twitter.com/search?q=Mikey) | N/A |
-| 37 | [Falklands](http://twitter.com/search?q=Falklands) | N/A |
-| 38 | [Double Decker](http://twitter.com/search?q=Double+Decker) | N/A |
-| 39 | [Nolan](http://twitter.com/search?q=Nolan) | N/A |
-| 40 | [Picnic](http://twitter.com/search?q=Picnic) | N/A |
-| 41 | [Crunchie](http://twitter.com/search?q=Crunchie) | N/A |
-| 42 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
-| 43 | [Paul Mason](http://twitter.com/search?q=Paul+Mason) | N/A |
-| 44 | [Turkish Delight](http://twitter.com/search?q=Turkish+Delight) | N/A |
-| 45 | [Azam Khan](http://twitter.com/search?q=Azam+Khan) | N/A |
-| 46 | [Topic](http://twitter.com/search?q=Topic) | N/A |
+| 26 | [Whitney](http://twitter.com/search?q=Whitney) | N/A |
+| 27 | [Topic](http://twitter.com/search?q=Topic) | N/A |
+| 28 | [Scarlets](http://twitter.com/search?q=Scarlets) | N/A |
+| 29 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
+| 30 | [Toblerone](http://twitter.com/search?q=Toblerone) | N/A |
+| 31 | [Paddy](http://twitter.com/search?q=Paddy) | N/A |
+| 32 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
+| 33 | [Double Decker](http://twitter.com/search?q=Double+Decker) | N/A |
+| 34 | [Humphrey](http://twitter.com/search?q=Humphrey) | N/A |
+| 35 | [Turkish Delight](http://twitter.com/search?q=Turkish+Delight) | N/A |
+| 36 | [Moises Caicedo](http://twitter.com/search?q=Moises+Caicedo) | N/A |
+| 37 | [Cathy](http://twitter.com/search?q=Cathy) | N/A |
+| 38 | [Picnic](http://twitter.com/search?q=Picnic) | N/A |
+| 39 | [Boost](http://twitter.com/search?q=Boost) | N/A |
+| 40 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 41 | [West Brom](http://twitter.com/search?q=West+Brom) | N/A |
+| 42 | [Crawford](http://twitter.com/search?q=Crawford) | N/A |
+| 43 | [Star Bar](http://twitter.com/search?q=Star+Bar) | N/A |
+| 44 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
+| 45 | [Creed 3](http://twitter.com/search?q=Creed+3) | N/A |
+| 46 | [Crunchie](http://twitter.com/search?q=Crunchie) | N/A |
 
 
 
