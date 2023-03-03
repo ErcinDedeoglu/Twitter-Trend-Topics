@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Francisco
 
-📆 Last Updated: `2023-03-03 21:17:17 UTC`
+📆 Last Updated: `2023-03-03 22:17:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 2 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 3 | [#BringTheGold](http://twitter.com/search?q=%23BringTheGold) | N/A |
-| 4 | [#TXT_4th_Anniversary](http://twitter.com/search?q=%23TXT_4th_Anniversary) | N/A |
-| 5 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
-| 6 | [Demon Slayer](http://twitter.com/search?q=Demon+Slayer) | N/A |
-| 7 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
-| 8 | [#DeLaDay](http://twitter.com/search?q=%23DeLaDay) | N/A |
+| 2 | [#TXT_4th_Anniversary](http://twitter.com/search?q=%23TXT_4th_Anniversary) | N/A |
+| 3 | [#ToFOUReverlandWithTXT](http://twitter.com/search?q=%23ToFOUReverlandWithTXT) | N/A |
+| 4 | [#DeLaDay](http://twitter.com/search?q=%23DeLaDay) | N/A |
+| 5 | [#NFLCombine](http://twitter.com/search?q=%23NFLCombine) | N/A |
+| 6 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
+| 7 | [Kali Uchis](http://twitter.com/search?q=Kali+Uchis) | N/A |
+| 8 | [OUT NOW](http://twitter.com/search?q=OUT+NOW) | N/A |
 | 9 | [South Carolina](http://twitter.com/search?q=South+Carolina) | South Carolina is a state in the southeastern United States. It is bordered to the north by North Carolina, to the southeast by the Atlantic Ocean, and to the southwest by Georgia. The capital and largest city is Columbia. South Carolina is known for its beaches, subtropical climate, and historic sites related to the Civil War and the American Revolution. |
-| 10 | [Kali Uchis](http://twitter.com/search?q=Kali+Uchis) | N/A |
-| 11 | [OUT NOW](http://twitter.com/search?q=OUT+NOW) | N/A |
-| 12 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
-| 13 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 14 | [Chuck Fletcher](http://twitter.com/search?q=Chuck+Fletcher) | N/A |
-| 15 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
+| 10 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
+| 11 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
+| 12 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 13 | [Notifications](http://twitter.com/search?q=Notifications) | Notifications are messages that alert a user to an event or activity. They can be used to inform users of new emails, updates, or other activities that require their attention. Notifications can also be used to remind users of upcoming events or tasks. |
+| 14 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
+| 15 | [Chuck Fletcher](http://twitter.com/search?q=Chuck+Fletcher) | N/A |
 | 16 | [DJ Turner](http://twitter.com/search?q=DJ+Turner) | N/A |
-| 17 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
-| 18 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
-| 19 | [Greenway](http://twitter.com/search?q=Greenway) | N/A |
-| 20 | [Daniel Jones](http://twitter.com/search?q=Daniel+Jones) | Daniel Jones is a common English surname. It is derived from the Hebrew name Daniel, which means "God is my judge". The name is often used as a given name in English-speaking countries. |
-| 21 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
-| 22 | [Vindman](http://twitter.com/search?q=Vindman) | N/A |
-| 23 | [Klingberg](http://twitter.com/search?q=Klingberg) | N/A |
-| 24 | [Wayne](http://twitter.com/search?q=Wayne) | Wayne is a masculine given name in English, derived from an Old English surname meaning "wagon maker" or "wagon driver". It is also used as a surname. |
-| 25 | [SOOBIN](http://twitter.com/search?q=SOOBIN) | SOOBIN is a Korean name, derived from the Chinese characters for "protection" and "beauty". It can be translated to mean "protected beauty" in English. |
-| 26 | [Flyers](http://twitter.com/search?q=Flyers) | Flyers are a type of printed advertisement used to promote products, services, or events. They are typically distributed in public places such as streets, parks, and shopping centers. Flyers can also be sent through the mail or handed out at events. The purpose of a flyer is to attract attention and encourage people to take action. |
-| 27 | [Miggy](http://twitter.com/search?q=Miggy) | N/A |
-| 28 | [Deonte Banks](http://twitter.com/search?q=Deonte+Banks) | N/A |
-| 29 | [Pujols](http://twitter.com/search?q=Pujols) | N/A |
-| 30 | [Asplund](http://twitter.com/search?q=Asplund) | N/A |
-| 31 | [Christian Gonzalez](http://twitter.com/search?q=Christian+Gonzalez) | N/A |
-| 32 | [Lamar to Washington](http://twitter.com/search?q=Lamar+to+Washington) | N/A |
-| 33 | [Deliver Us Mars](http://twitter.com/search?q=Deliver+Us+Mars) | N/A |
-| 34 | [Sandoval](http://twitter.com/search?q=Sandoval) | N/A |
-| 35 | [Walgreens](http://twitter.com/search?q=Walgreens) | N/A |
-| 36 | [Bowen Born](http://twitter.com/search?q=Bowen+Born) | N/A |
-| 37 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
-| 38 | [Kulikov](http://twitter.com/search?q=Kulikov) | N/A |
-| 39 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
-| 40 | [Freedom Cities](http://twitter.com/search?q=Freedom+Cities) | N/A |
-| 41 | [Ringo](http://twitter.com/search?q=Ringo) | N/A |
-| 42 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
-| 43 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 44 | [Billy G](http://twitter.com/search?q=Billy+G) | N/A |
-| 45 | [Eminem](http://twitter.com/search?q=Eminem) | N/A |
-| 46 | [Emmanuel Forbes](http://twitter.com/search?q=Emmanuel+Forbes) | N/A |
-| 47 | [Scherzer](http://twitter.com/search?q=Scherzer) | N/A |
-| 48 | [Patrick Brown](http://twitter.com/search?q=Patrick+Brown) | N/A |
-| 49 | [Julius Brents](http://twitter.com/search?q=Julius+Brents) | N/A |
-| 50 | [BEA I'M SAURY](http://twitter.com/search?q=BEA+I%27M+SAURY) | N/A |
+| 17 | [Sandoval](http://twitter.com/search?q=Sandoval) | N/A |
+| 18 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
+| 19 | [Jonathan Isaac](http://twitter.com/search?q=Jonathan+Isaac) | Jonathan Isaac is a professional basketball player who currently plays for the Orlando Magic of the National Basketball Association (NBA). He was selected with the sixth overall pick in the 2017 NBA draft. The name Jonathan Isaac is derived from the Hebrew name Yehonatan, which means "God has given". |
+| 20 | [Vindman](http://twitter.com/search?q=Vindman) | N/A |
+| 21 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
+| 22 | [Miggy](http://twitter.com/search?q=Miggy) | N/A |
+| 23 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
+| 24 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
+| 25 | [Wayne](http://twitter.com/search?q=Wayne) | Wayne is a masculine given name in English, derived from an Old English surname meaning "wagon maker" or "wagon driver". It is also used as a surname. |
+| 26 | [Notis](http://twitter.com/search?q=Notis) | N/A |
+| 27 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 28 | [Christian Gonzalez](http://twitter.com/search?q=Christian+Gonzalez) | N/A |
+| 29 | [Greenway](http://twitter.com/search?q=Greenway) | N/A |
+| 30 | [Cotie McMahon](http://twitter.com/search?q=Cotie+McMahon) | N/A |
+| 31 | [Daniel Jones](http://twitter.com/search?q=Daniel+Jones) | Daniel Jones is a common English surname. It is derived from the Hebrew name Daniel, which means "God is my judge". The name is often used as a given name in English-speaking countries. |
+| 32 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 33 | [Pujols](http://twitter.com/search?q=Pujols) | N/A |
+| 34 | [Klingberg](http://twitter.com/search?q=Klingberg) | N/A |
+| 35 | [Lamar to Washington](http://twitter.com/search?q=Lamar+to+Washington) | N/A |
+| 36 | [Deliver Us Mars](http://twitter.com/search?q=Deliver+Us+Mars) | N/A |
+| 37 | [Walgreens](http://twitter.com/search?q=Walgreens) | N/A |
+| 38 | [Cooper Neese](http://twitter.com/search?q=Cooper+Neese) | N/A |
+| 39 | [SC Upstate](http://twitter.com/search?q=SC+Upstate) | N/A |
+| 40 | [Flyers](http://twitter.com/search?q=Flyers) | Flyers are a type of printed advertisement used to promote products, services, or events. They are typically distributed in public places such as streets, parks, and shopping centers. Flyers can also be sent through the mail or handed out at events. The purpose of a flyer is to attract attention and encourage people to take action. |
+| 41 | [Freedom Cities](http://twitter.com/search?q=Freedom+Cities) | N/A |
+| 42 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
+| 43 | [Deonte Banks](http://twitter.com/search?q=Deonte+Banks) | N/A |
+| 44 | [USPS](http://twitter.com/search?q=USPS) | N/A |
+| 45 | [bebe rexha](http://twitter.com/search?q=bebe+rexha) | N/A |
+| 46 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
+| 47 | [Eminem](http://twitter.com/search?q=Eminem) | N/A |
+| 48 | [Belmont](http://twitter.com/search?q=Belmont) | N/A |
+| 49 | [Ringo](http://twitter.com/search?q=Ringo) | N/A |
 
 
 

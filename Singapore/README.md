@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Singapore
 
-📆 Last Updated: `2023-03-03 21:17:27 UTC`
+📆 Last Updated: `2023-03-03 22:17:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,8 +20,8 @@ This is top 50 for Singapore
 | 3 | [#TXT_4th_Anniversary](http://twitter.com/search?q=%23TXT_4th_Anniversary) | N/A |
 | 4 | [#on_the_street](http://twitter.com/search?q=%23on_the_street) | N/A |
 | 5 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 6 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 7 | [wjsn](http://twitter.com/search?q=wjsn) | WJSN stands for Cosmic Girls, a South Korean girl group formed in 2016 by Starship Entertainment and Yuehua Entertainment. The group consists of thirteen members: Seola, Xuan Yi, Bona, Exy, Soobin, Luda, Dawon, Eunseo, Cheng Xiao, Mei Qi, Yeoreum, Dayoung and Yeonjung. The name WJSN is an acronym for “Wonderful Journey to the Stars”. |
+| 6 | [wjsn](http://twitter.com/search?q=wjsn) | WJSN stands for Cosmic Girls, a South Korean girl group formed in 2016 by Starship Entertainment and Yuehua Entertainment. The group consists of thirteen members: Seola, Xuan Yi, Bona, Exy, Soobin, Luda, Dawon, Eunseo, Cheng Xiao, Mei Qi, Yeoreum, Dayoung and Yeonjung. The name WJSN is an acronym for “Wonderful Journey to the Stars”. |
+| 7 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
 | 8 | [#KanivaxBible](http://twitter.com/search?q=%23KanivaxBible) | N/A |
 | 9 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
 | 10 | [top 3 highlights](http://twitter.com/search?q=top+3+highlights) | N/A |
@@ -41,9 +41,9 @@ This is top 50 for Singapore
 | 24 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
 | 25 | [Pikamee](http://twitter.com/search?q=Pikamee) | N/A |
 | 26 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 27 | [Army](http://twitter.com/search?q=Army) | N/A |
-| 28 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 29 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 27 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 28 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 29 | [The Mirror Effect](http://twitter.com/search?q=The+Mirror+Effect) | N/A |
 | 30 | [Meghan](http://twitter.com/search?q=Meghan) | N/A |
 | 31 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
 | 32 | [5m build](http://twitter.com/search?q=5m+build) | N/A |
@@ -55,12 +55,12 @@ This is top 50 for Singapore
 | 38 | [Anna](http://twitter.com/search?q=Anna) | N/A |
 | 39 | [Christmas](http://twitter.com/search?q=Christmas) | Christmas is an annual festival commemorating the birth of Jesus Christ, observed primarily on December 25 as a religious and cultural celebration among billions of people around the world. The traditional Christmas narrative, the Nativity of Jesus, delineated in the New Testament says that Jesus was born in Bethlehem, in accordance with messianic prophecies. When Joseph and Mary arrived in the city, the inn had no room and so they were offered a stable where the Christ Child was soon born. |
 | 40 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
-| 41 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
-| 42 | [SO TRUE](http://twitter.com/search?q=SO+TRUE) | N/A |
-| 43 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 44 | [Woohoo](http://twitter.com/search?q=Woohoo) | N/A |
-| 45 | [Lando](http://twitter.com/search?q=Lando) | N/A |
-| 46 | [Jakarta](http://twitter.com/search?q=Jakarta) | N/A |
+| 41 | [SO TRUE](http://twitter.com/search?q=SO+TRUE) | N/A |
+| 42 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 43 | [Woohoo](http://twitter.com/search?q=Woohoo) | N/A |
+| 44 | [Lando](http://twitter.com/search?q=Lando) | N/A |
+| 45 | [Jakarta](http://twitter.com/search?q=Jakarta) | N/A |
+| 46 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
 | 47 | [hyungwon](http://twitter.com/search?q=hyungwon) | Hyungwon is a Korean term of endearment used to refer to an older brother or male friend. It is derived from the Korean word "hyung," which means older brother, and "won," which means circle or round. In English, it can be translated as "older brother" or "dear friend." |
 | 48 | [Huawei](http://twitter.com/search?q=Huawei) | N/A |
 | 49 | [Cyno](http://twitter.com/search?q=Cyno) | N/A |

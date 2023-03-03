@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lebanon
 
-📆 Last Updated: `2023-03-03 21:17:24 UTC`
+📆 Last Updated: `2023-03-03 22:17:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Lebanon
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ديانا_فاخوري](http://twitter.com/search?q=%23%d8%af%d9%8a%d8%a7%d9%86%d8%a7_%d9%81%d8%a7%d8%ae%d9%88%d8%b1%d9%8a) | N/A |
-| 2 | [#البوم_حياتي](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d9%88%d9%85_%d8%ad%d9%8a%d8%a7%d8%aa%d9%8a) | N/A |
-| 3 | [#نبراس_الشهاده](http://twitter.com/search?q=%23%d9%86%d8%a8%d8%b1%d8%a7%d8%b3_%d8%a7%d9%84%d8%b4%d9%87%d8%a7%d8%af%d9%87) | N/A |
-| 4 | [#جمعه_مباركه](http://twitter.com/search?q=%23%d8%ac%d9%85%d8%b9%d9%87_%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | #جمعه_مباركه is an Arabic hashtag that translates to "blessed Friday". It is used to express joy and appreciation for the start of the weekend. |
-| 5 | [#thestage](http://twitter.com/search?q=%23thestage) | N/A |
+| 1 | [#نبراس_الشهاده](http://twitter.com/search?q=%23%d9%86%d8%a8%d8%b1%d8%a7%d8%b3_%d8%a7%d9%84%d8%b4%d9%87%d8%a7%d8%af%d9%87) | N/A |
+| 2 | [#جمعه_مباركه](http://twitter.com/search?q=%23%d8%ac%d9%85%d8%b9%d9%87_%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | #جمعه_مباركه is an Arabic hashtag that translates to "blessed Friday". It is used to express joy and appreciation for the start of the weekend. |
+| 3 | [#thestage](http://twitter.com/search?q=%23thestage) | N/A |
+| 4 | [#ديانا_فاخوري](http://twitter.com/search?q=%23%d8%af%d9%8a%d8%a7%d9%86%d8%a7_%d9%81%d8%a7%d8%ae%d9%88%d8%b1%d9%8a) | N/A |
+| 5 | [#كارول_الالبوم_الذهبي](http://twitter.com/search?q=%23%d9%83%d8%a7%d8%b1%d9%88%d9%84_%d8%a7%d9%84%d8%a7%d9%84%d8%a8%d9%88%d9%85_%d8%a7%d9%84%d8%b0%d9%87%d8%a8%d9%8a) | N/A |
 | 6 | [ميشال معوض](http://twitter.com/search?q=%d9%85%d9%8a%d8%b4%d8%a7%d9%84+%d9%85%d8%b9%d9%88%d8%b6) | N/A |
-| 7 | [نصري شمس الدين](http://twitter.com/search?q=%d9%86%d8%b5%d8%b1%d9%8a+%d8%b4%d9%85%d8%b3+%d8%a7%d9%84%d8%af%d9%8a%d9%86) | N/A |
-| 8 | [محمد سعد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%b3%d8%b9%d8%af) | N/A |
-| 9 | [الحاج صالح](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%a7%d8%ac+%d8%b5%d8%a7%d9%84%d8%ad) | N/A |
+| 7 | [محمد سعد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%b3%d8%b9%d8%af) | N/A |
+| 8 | [الحاج صالح](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%a7%d8%ac+%d8%b5%d8%a7%d9%84%d8%ad) | N/A |
+| 9 | [نصري شمس الدين](http://twitter.com/search?q=%d9%86%d8%b5%d8%b1%d9%8a+%d8%b4%d9%85%d8%b3+%d8%a7%d9%84%d8%af%d9%8a%d9%86) | N/A |
 | 10 | [الشهيد القايد](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d9%8a%d8%af+%d8%a7%d9%84%d9%82%d8%a7%d9%8a%d8%af) | N/A |
 | 11 | [طفل الانبوب](http://twitter.com/search?q=%d8%b7%d9%81%d9%84+%d8%a7%d9%84%d8%a7%d9%86%d8%a8%d9%88%d8%a8) | N/A |
 | 12 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 13 | [نصف الجنوب](http://twitter.com/search?q=%d9%86%d8%b5%d9%81+%d8%a7%d9%84%d8%ac%d9%86%d9%88%d8%a8) | N/A |
+| 13 | [علي الاكبر](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a7%d9%83%d8%a8%d8%b1) | N/A |
 | 14 | [محمود الصغير](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d9%88%d8%af+%d8%a7%d9%84%d8%b5%d8%ba%d9%8a%d8%b1) | N/A |
 | 15 | [الطايفه الشيعيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d8%a7%d9%8a%d9%81%d9%87+%d8%a7%d9%84%d8%b4%d9%8a%d8%b9%d9%8a%d9%87) | N/A |
-| 16 | [علي الاكبر](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a7%d9%83%d8%a8%d8%b1) | N/A |
-| 17 | [علي بري](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a8%d8%b1%d9%8a) | N/A |
-| 18 | [الساعه الثالثه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%a7%d8%b9%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab%d9%87) | N/A |
-| 19 | [المرجعيات الدينيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d8%ac%d8%b9%d9%8a%d8%a7%d8%aa+%d8%a7%d9%84%d8%af%d9%8a%d9%86%d9%8a%d9%87) | N/A |
-| 20 | [خليل جرادي](http://twitter.com/search?q=%d8%ae%d9%84%d9%8a%d9%84+%d8%ac%d8%b1%d8%a7%d8%af%d9%8a) | N/A |
+| 16 | [خليل جرادي](http://twitter.com/search?q=%d8%ae%d9%84%d9%8a%d9%84+%d8%ac%d8%b1%d8%a7%d8%af%d9%8a) | N/A |
+| 17 | [نصف الجنوب](http://twitter.com/search?q=%d9%86%d8%b5%d9%81+%d8%a7%d9%84%d8%ac%d9%86%d9%88%d8%a8) | N/A |
+| 18 | [علي بري](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a8%d8%b1%d9%8a) | N/A |
+| 19 | [الساعه الثالثه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%a7%d8%b9%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab%d9%87) | N/A |
+| 20 | [المرجعيات الدينيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d8%ac%d8%b9%d9%8a%d8%a7%d8%aa+%d8%a7%d9%84%d8%af%d9%8a%d9%86%d9%8a%d9%87) | N/A |
 | 21 | [القايد الحاج](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%a7%d9%8a%d8%af+%d8%a7%d9%84%d8%ad%d8%a7%d8%ac) | N/A |
 | 22 | [وزير التربيه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%aa%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
 | 23 | [علي القرض الحسن](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%82%d8%b1%d8%b6+%d8%a7%d9%84%d8%ad%d8%b3%d9%86) | N/A |
-| 24 | [موسي الصدر](http://twitter.com/search?q=%d9%85%d9%88%d8%b3%d9%8a+%d8%a7%d9%84%d8%b5%d8%af%d8%b1) | N/A |
+| 24 | [سليمان فرنجية](http://twitter.com/search?q=%d8%b3%d9%84%d9%8a%d9%85%d8%a7%d9%86+%d9%81%d8%b1%d9%86%d8%ac%d9%8a%d8%a9) | N/A |
 | 25 | [التجربه الانبوبيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%ac%d8%b1%d8%a8%d9%87+%d8%a7%d9%84%d8%a7%d9%86%d8%a8%d9%88%d8%a8%d9%8a%d9%87) | N/A |
 | 26 | [جنان الخلد](http://twitter.com/search?q=%d8%ac%d9%86%d8%a7%d9%86+%d8%a7%d9%84%d8%ae%d9%84%d8%af) | N/A |
-| 27 | [الريال](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d9%84) | الريال is the currency of Saudi Arabia. In English, it is known as the Saudi Riyal. |
-| 28 | [الاثنين المقبل](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86+%d8%a7%d9%84%d9%85%d9%82%d8%a8%d9%84) | N/A |
-| 29 | [وزير البييه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%a8%d9%8a%d9%8a%d9%87) | N/A |
-| 30 | [الفريق الاخر](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d9%8a%d9%82+%d8%a7%d9%84%d8%a7%d8%ae%d8%b1) | N/A |
-| 31 | [علي وجه الخصوص](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%88%d8%ac%d9%87+%d8%a7%d9%84%d8%ae%d8%b5%d9%88%d8%b5) | N/A |
-| 32 | [صالح الاعمال](http://twitter.com/search?q=%d8%b5%d8%a7%d9%84%d8%ad+%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d8%a7%d9%84) | N/A |
-| 33 | [علي المكشوف](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d9%83%d8%b4%d9%88%d9%81) | N/A |
-| 34 | [سليمان فرنجية](http://twitter.com/search?q=%d8%b3%d9%84%d9%8a%d9%85%d8%a7%d9%86+%d9%81%d8%b1%d9%86%d8%ac%d9%8a%d8%a9) | N/A |
+| 27 | [موسي الصدر](http://twitter.com/search?q=%d9%85%d9%88%d8%b3%d9%8a+%d8%a7%d9%84%d8%b5%d8%af%d8%b1) | N/A |
+| 28 | [الريال](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d9%84) | الريال is the currency of Saudi Arabia. In English, it is known as the Saudi Riyal. |
+| 29 | [الاثنين المقبل](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86+%d8%a7%d9%84%d9%85%d9%82%d8%a8%d9%84) | N/A |
+| 30 | [وزير البييه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%a8%d9%8a%d9%8a%d9%87) | N/A |
+| 31 | [الفريق الاخر](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d9%8a%d9%82+%d8%a7%d9%84%d8%a7%d8%ae%d8%b1) | N/A |
+| 32 | [علي وجه الخصوص](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%88%d8%ac%d9%87+%d8%a7%d9%84%d8%ae%d8%b5%d9%88%d8%b5) | N/A |
+| 33 | [صالح الاعمال](http://twitter.com/search?q=%d8%b5%d8%a7%d9%84%d8%ad+%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d8%a7%d9%84) | N/A |
+| 34 | [علي المكشوف](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d9%83%d8%b4%d9%88%d9%81) | N/A |
 | 35 | [ريال مدريد](http://twitter.com/search?q=%d8%b1%d9%8a%d8%a7%d9%84+%d9%85%d8%af%d8%b1%d9%8a%d8%af) | ريال مدريد (Riyal Madrid) is a Spanish professional football club based in Madrid, Spain. The club's full name is Real Madrid Club de Fútbol. In English, the phrase translates to "Real Madrid Football Club". |
-| 36 | [الامام الحسين](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d9%85+%d8%a7%d9%84%d8%ad%d8%b3%d9%8a%d9%86) | N/A |
-| 37 | [السفيره الاميركيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%81%d9%8a%d8%b1%d9%87+%d8%a7%d9%84%d8%a7%d9%85%d9%8a%d8%b1%d9%83%d9%8a%d9%87) | N/A |
-| 38 | [العراق](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b1%d8%a7%d9%82) | العراق is the Arabic word for Iraq. In English, it means "Iraq". |
-| 39 | [١٤ اذار](http://twitter.com/search?q=%d9%a1%d9%a4+%d8%a7%d8%b0%d8%a7%d8%b1) | N/A |
-| 40 | [الفضاء الدوليه](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b6%d8%a7%d8%a1+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a%d9%87) | N/A |
-| 41 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 42 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 43 | [غير مقبول](http://twitter.com/search?q=%d8%ba%d9%8a%d8%b1+%d9%85%d9%82%d8%a8%d9%88%d9%84) | N/A |
-| 44 | [النصر](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%b5%d8%b1) | النصر is an Arabic word meaning "victory" or "triumph". It is often used as a rallying cry for success or to celebrate a victory. |
-| 45 | [الشبكه الكهرباييه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%a8%d9%83%d9%87+%d8%a7%d9%84%d9%83%d9%87%d8%b1%d8%a8%d8%a7%d9%8a%d9%8a%d9%87) | N/A |
-| 46 | [الزمن الجميل](http://twitter.com/search?q=%d8%a7%d9%84%d8%b2%d9%85%d9%86+%d8%a7%d9%84%d8%ac%d9%85%d9%8a%d9%84) | N/A |
-| 47 | [العيش المشترك](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%8a%d8%b4+%d8%a7%d9%84%d9%85%d8%b4%d8%aa%d8%b1%d9%83) | N/A |
-| 48 | [المكتب الاعلامي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%83%d8%aa%d8%a8+%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d8%a7%d9%85%d9%8a) | N/A |
-| 49 | [الوزير السابق](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%b3%d8%a7%d8%a8%d9%82) | N/A |
-| 50 | [لحقوق الانسان](http://twitter.com/search?q=%d9%84%d8%ad%d9%82%d9%88%d9%82+%d8%a7%d9%84%d8%a7%d9%86%d8%b3%d8%a7%d9%86) | N/A |
+| 36 | [السفيره الاميركيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%81%d9%8a%d8%b1%d9%87+%d8%a7%d9%84%d8%a7%d9%85%d9%8a%d8%b1%d9%83%d9%8a%d9%87) | N/A |
+| 37 | [١٤ اذار](http://twitter.com/search?q=%d9%a1%d9%a4+%d8%a7%d8%b0%d8%a7%d8%b1) | N/A |
+| 38 | [الفضاء الدوليه](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b6%d8%a7%d8%a1+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a%d9%87) | N/A |
+| 39 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 40 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 41 | [غير مقبول](http://twitter.com/search?q=%d8%ba%d9%8a%d8%b1+%d9%85%d9%82%d8%a8%d9%88%d9%84) | N/A |
+| 42 | [النصر](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%b5%d8%b1) | النصر is an Arabic word meaning "victory" or "triumph". It is often used as a rallying cry for success or to celebrate a victory. |
+| 43 | [الشبكه الكهرباييه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%a8%d9%83%d9%87+%d8%a7%d9%84%d9%83%d9%87%d8%b1%d8%a8%d8%a7%d9%8a%d9%8a%d9%87) | N/A |
+| 44 | [الزمن الجميل](http://twitter.com/search?q=%d8%a7%d9%84%d8%b2%d9%85%d9%86+%d8%a7%d9%84%d8%ac%d9%85%d9%8a%d9%84) | N/A |
+| 45 | [الامام الحسين](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d9%85+%d8%a7%d9%84%d8%ad%d8%b3%d9%8a%d9%86) | N/A |
+| 46 | [المكتب الاعلامي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%83%d8%aa%d8%a8+%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d8%a7%d9%85%d9%8a) | N/A |
+| 47 | [الوزير السابق](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%b3%d8%a7%d8%a8%d9%82) | N/A |
+| 48 | [لحقوق الانسان](http://twitter.com/search?q=%d9%84%d8%ad%d9%82%d9%88%d9%82+%d8%a7%d9%84%d8%a7%d9%86%d8%b3%d8%a7%d9%86) | N/A |
+| 49 | [المدرسه الرسميه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%87+%d8%a7%d9%84%d8%b1%d8%b3%d9%85%d9%8a%d9%87) | N/A |
+| 50 | [الزواج الموقت](http://twitter.com/search?q=%d8%a7%d9%84%d8%b2%d9%88%d8%a7%d8%ac+%d8%a7%d9%84%d9%85%d9%88%d9%82%d8%aa) | N/A |
 
 
 

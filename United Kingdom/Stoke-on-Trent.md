@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stoke-on-Trent
 
-📆 Last Updated: `2023-03-03 21:16:23 UTC`
+📆 Last Updated: `2023-03-03 22:16:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Meat Loaf](http://twitter.com/search?q=Meat+Loaf) | N/A |
-| 2 | [Albion](http://twitter.com/search?q=Albion) | N/A |
-| 3 | [#BandcampFriday](http://twitter.com/search?q=%23BandcampFriday) | N/A |
-| 4 | [Dean Saunders](http://twitter.com/search?q=Dean+Saunders) | N/A |
-| 5 | [Wo Long](http://twitter.com/search?q=Wo+Long) | N/A |
-| 6 | [Mason Greenwood](http://twitter.com/search?q=Mason+Greenwood) | Mason Greenwood is a professional footballer who plays for Manchester United in the English Premier League. He is an attacking player who primarily plays as a forward. His name is derived from his hometown of Mason, England, and the word "greenwood," which refers to a type of forest. |
-| 7 | [#LiarJohnson](http://twitter.com/search?q=%23LiarJohnson) | N/A |
-| 8 | [Mane](http://twitter.com/search?q=Mane) | Mane is a noun that refers to the long, thick hair that grows from the neck of certain animals, such as horses and lions. In English, it is also used to refer to a person's long, thick hair. |
-| 9 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
-| 10 | [Femi](http://twitter.com/search?q=Femi) | N/A |
-| 11 | [Lance](http://twitter.com/search?q=Lance) | N/A |
-| 12 | [Far Right](http://twitter.com/search?q=Far+Right) | N/A |
-| 13 | [#ULEZ](http://twitter.com/search?q=%23ULEZ) | N/A |
-| 14 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 15 | [Pat Butcher](http://twitter.com/search?q=Pat+Butcher) | N/A |
-| 16 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 17 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 18 | [Hull](http://twitter.com/search?q=Hull) | N/A |
-| 19 | [Albrighton](http://twitter.com/search?q=Albrighton) | Albrighton is a village and civil parish in Shropshire, England. It is located near the town of Wolverhampton and has a population of around 8,000 people. The name Albrighton is derived from the Old English words 'eala' (swan) and 'brictun' (enclosure or settlement). |
-| 20 | [Bounty](http://twitter.com/search?q=Bounty) | N/A |
-| 21 | [Stephen Bear](http://twitter.com/search?q=Stephen+Bear) | N/A |
-| 22 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
-| 23 | [Marlon](http://twitter.com/search?q=Marlon) | N/A |
-| 24 | [Munster](http://twitter.com/search?q=Munster) | N/A |
-| 25 | [Garth Brooks](http://twitter.com/search?q=Garth+Brooks) | N/A |
-| 26 | [Whitney](http://twitter.com/search?q=Whitney) | N/A |
-| 27 | [Topic](http://twitter.com/search?q=Topic) | N/A |
-| 28 | [Scarlets](http://twitter.com/search?q=Scarlets) | N/A |
-| 29 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
-| 30 | [Toblerone](http://twitter.com/search?q=Toblerone) | N/A |
-| 31 | [Paddy](http://twitter.com/search?q=Paddy) | N/A |
-| 32 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
-| 33 | [Double Decker](http://twitter.com/search?q=Double+Decker) | N/A |
-| 34 | [Humphrey](http://twitter.com/search?q=Humphrey) | N/A |
-| 35 | [Turkish Delight](http://twitter.com/search?q=Turkish+Delight) | N/A |
-| 36 | [Moises Caicedo](http://twitter.com/search?q=Moises+Caicedo) | N/A |
-| 37 | [Cathy](http://twitter.com/search?q=Cathy) | N/A |
-| 38 | [Picnic](http://twitter.com/search?q=Picnic) | N/A |
-| 39 | [Boost](http://twitter.com/search?q=Boost) | N/A |
-| 40 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 41 | [West Brom](http://twitter.com/search?q=West+Brom) | N/A |
-| 42 | [Crawford](http://twitter.com/search?q=Crawford) | N/A |
-| 43 | [Star Bar](http://twitter.com/search?q=Star+Bar) | N/A |
-| 44 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 45 | [SOOBIN](http://twitter.com/search?q=SOOBIN) | SOOBIN is a Korean name, derived from the Chinese characters for "protection" and "beauty". It can be translated to mean "protected beauty" in English. |
-| 46 | [Creed 3](http://twitter.com/search?q=Creed+3) | N/A |
-| 47 | [Crunchie](http://twitter.com/search?q=Crunchie) | N/A |
-| 48 | [Nolan](http://twitter.com/search?q=Nolan) | N/A |
-| 49 | [Keown](http://twitter.com/search?q=Keown) | N/A |
+| 1 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
+| 2 | [Tanyel](http://twitter.com/search?q=Tanyel) | Tanyel is a Turkish name, derived from the Persian name Tanveer, which means "bright and brave". It is also used as a surname in some parts of Turkey. |
+| 3 | [Wallace](http://twitter.com/search?q=Wallace) | Wallace is a Scottish and Irish surname derived from the Old English name Waleis, meaning "foreigner" or "stranger". It is also a given name, derived from the same origin. |
+| 4 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
+| 5 | [Keown](http://twitter.com/search?q=Keown) | N/A |
+| 6 | [Bundesliga](http://twitter.com/search?q=Bundesliga) | N/A |
+| 7 | [Zack](http://twitter.com/search?q=Zack) | N/A |
+| 8 | [#isitok](http://twitter.com/search?q=%23isitok) | N/A |
+| 9 | [Vinny](http://twitter.com/search?q=Vinny) | N/A |
+| 10 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
+| 11 | [Gane](http://twitter.com/search?q=Gane) | N/A |
+| 12 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 13 | [Rice](http://twitter.com/search?q=Rice) | Rice is a type of grain that is a staple food for many cultures around the world. It is a cereal grain that is the most widely consumed staple food for a large part of the world's human population, especially in Asia. Rice can be cooked and served in a variety of ways, including boiled, steamed, fried, and as part of soups and stews. |
+| 14 | [Khan](http://twitter.com/search?q=Khan) | N/A |
+| 15 | [Lion](http://twitter.com/search?q=Lion) | N/A |
+| 16 | [Spartacus](http://twitter.com/search?q=Spartacus) | N/A |
+| 17 | [#BorisJohnson](http://twitter.com/search?q=%23BorisJohnson) | N/A |
+| 18 | [Mogg](http://twitter.com/search?q=Mogg) | N/A |
+| 19 | [Simon Case](http://twitter.com/search?q=Simon+Case) | N/A |
+| 20 | [Nads](http://twitter.com/search?q=Nads) | N/A |
+| 21 | [Dorries](http://twitter.com/search?q=Dorries) | N/A |
+| 22 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
+| 23 | [Mason Greenwood](http://twitter.com/search?q=Mason+Greenwood) | Mason Greenwood is a professional footballer who plays for Manchester United in the English Premier League. He is an attacking player who primarily plays as a forward. His name is derived from his hometown of Mason, England, and the word "greenwood," which refers to a type of forest. |
+| 24 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
+| 25 | [Wo Long](http://twitter.com/search?q=Wo+Long) | N/A |
+| 26 | [Privileges Committee](http://twitter.com/search?q=Privileges+Committee) | N/A |
+| 27 | [Lance](http://twitter.com/search?q=Lance) | N/A |
+| 28 | [Mane](http://twitter.com/search?q=Mane) | Mane is a noun that refers to the long, thick hair that grows from the neck of certain animals, such as horses and lions. In English, it is also used to refer to a person's long, thick hair. |
+| 29 | [Pat Butcher](http://twitter.com/search?q=Pat+Butcher) | N/A |
+| 30 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
+| 31 | [Sanam](http://twitter.com/search?q=Sanam) | N/A |
+| 32 | [Saints](http://twitter.com/search?q=Saints) | Saints are people who have been recognized for their holiness or piety and are usually venerated by members of a religious faith. In Christianity, saints are typically regarded as those who have attained the highest level of spiritual perfection and have been canonized by the church. The term is also used to refer to individuals who have been recognized for their exemplary lives or deeds. |
+| 33 | [Chris Kendall](http://twitter.com/search?q=Chris+Kendall) | N/A |
+| 34 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
+| 35 | [Scarlets](http://twitter.com/search?q=Scarlets) | N/A |
+| 36 | [Dick Campbell](http://twitter.com/search?q=Dick+Campbell) | N/A |
+| 37 | [Hull](http://twitter.com/search?q=Hull) | N/A |
+| 38 | [Albrighton](http://twitter.com/search?q=Albrighton) | Albrighton is a village and civil parish in Shropshire, England. It is located near the town of Wolverhampton and has a population of around 8,000 people. The name Albrighton is derived from the Old English words 'eala' (swan) and 'brictun' (enclosure or settlement). |
+| 39 | [Rhinos](http://twitter.com/search?q=Rhinos) | N/A |
+| 40 | [Vecino](http://twitter.com/search?q=Vecino) | N/A |
+| 41 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 42 | [Albion](http://twitter.com/search?q=Albion) | N/A |
+| 43 | [Munster](http://twitter.com/search?q=Munster) | N/A |
+| 44 | [Walters](http://twitter.com/search?q=Walters) | N/A |
+| 45 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 46 | [Cathy Newman](http://twitter.com/search?q=Cathy+Newman) | N/A |
+| 47 | [Darlow](http://twitter.com/search?q=Darlow) | N/A |
+| 48 | [St Helens](http://twitter.com/search?q=St+Helens) | N/A |
+| 49 | [Casey and Rosie](http://twitter.com/search?q=Casey+and+Rosie) | N/A |
 
 
 

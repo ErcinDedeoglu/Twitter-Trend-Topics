@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rome
 
-📆 Last Updated: `2023-03-03 21:16:40 UTC`
+📆 Last Updated: `2023-03-03 22:16:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,52 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#propagandalive](http://twitter.com/search?q=%23propagandalive) | N/A |
+| 1 | [Spalletti](http://twitter.com/search?q=Spalletti) | Spalletti is an Italian surname. It is derived from the word spalla, which means shoulder in Italian. The name is thought to have originated as a nickname for someone with broad shoulders or who was strong enough to carry heavy loads on their shoulders. In English, the meaning of Spalletti is "one with broad shoulders". |
 | 2 | [#NapoliLazio](http://twitter.com/search?q=%23NapoliLazio) | N/A |
-| 3 | [#TheVoiceSenior](http://twitter.com/search?q=%23TheVoiceSenior) | #TheVoiceSenior is a reality television singing competition series based on the original The Voice format. It is a spin-off of the original The Voice series and features senior citizens aged 60 and over competing for a recording contract. The show premiered in Germany in 2018 and has since been adapted in several other countries. |
-| 4 | [#quartogrado](http://twitter.com/search?q=%23quartogrado) | N/A |
-| 5 | [#3Marzo](http://twitter.com/search?q=%233Marzo) | N/A |
-| 6 | [Sonia](http://twitter.com/search?q=Sonia) | Sonia is a female given name of Latin origin, derived from the Greek word for "wisdom". It is a popular name in many countries, including India, Italy, France, Spain, and the United States. In English, it is usually pronounced "so-NEE-ah". |
-| 7 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 8 | [Bruno Astorre](http://twitter.com/search?q=Bruno+Astorre) | N/A |
-| 9 | [Guardia Costiera](http://twitter.com/search?q=Guardia+Costiera) | N/A |
-| 10 | [Denise](http://twitter.com/search?q=Denise) | N/A |
-| 11 | [Di Lorenzo](http://twitter.com/search?q=Di+Lorenzo) | Di Lorenzo is an Italian surname. It is derived from the Latin name Laurentius, which means "from Laurentum" (a town in ancient Italy). In English, the meaning of Di Lorenzo is "of Laurentum". |
-| 12 | [Teresina](http://twitter.com/search?q=Teresina) | N/A |
-| 13 | [Crotone](http://twitter.com/search?q=Crotone) | N/A |
-| 14 | [Tavassi](http://twitter.com/search?q=Tavassi) | N/A |
-| 15 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
-| 16 | [Pier Silvio](http://twitter.com/search?q=Pier+Silvio) | N/A |
-| 17 | [Bergamo](http://twitter.com/search?q=Bergamo) | N/A |
-| 18 | [Feltri](http://twitter.com/search?q=Feltri) | N/A |
-| 19 | [LA LIVE](http://twitter.com/search?q=LA+LIVE) | N/A |
-| 20 | [Otello](http://twitter.com/search?q=Otello) | N/A |
-| 21 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
-| 22 | [Sarri](http://twitter.com/search?q=Sarri) | N/A |
-| 23 | [Clio](http://twitter.com/search?q=Clio) | N/A |
-| 24 | [Fontana](http://twitter.com/search?q=Fontana) | N/A |
-| 25 | [Cutro](http://twitter.com/search?q=Cutro) | N/A |
-| 26 | [Hysaj](http://twitter.com/search?q=Hysaj) | N/A |
-| 27 | [Agata](http://twitter.com/search?q=Agata) | N/A |
-| 28 | [Gandhi](http://twitter.com/search?q=Gandhi) | N/A |
-| 29 | [Bubu](http://twitter.com/search?q=Bubu) | N/A |
-| 30 | [Grosseto](http://twitter.com/search?q=Grosseto) | N/A |
-| 31 | [Adani](http://twitter.com/search?q=Adani) | Adani is a multinational conglomerate based in India. It is involved in the development and operation of infrastructure projects such as ports, power plants, and mines. The name Adani is derived from the Sanskrit word "Adan," which means "the beginning." |
-| 32 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 33 | [Bocchino](http://twitter.com/search?q=Bocchino) | N/A |
-| 34 | [Patric](http://twitter.com/search?q=Patric) | N/A |
-| 35 | [Lombardo](http://twitter.com/search?q=Lombardo) | N/A |
-| 36 | [Grazie Presidente](http://twitter.com/search?q=Grazie+Presidente) | N/A |
-| 37 | [Omar](http://twitter.com/search?q=Omar) | Omar is a male given name of Arabic origin, meaning "speaker". It is also used as a surname. |
-| 38 | [Faraoni](http://twitter.com/search?q=Faraoni) | N/A |
-| 39 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
-| 40 | [Bechis](http://twitter.com/search?q=Bechis) | N/A |
-| 41 | [Anguissa](http://twitter.com/search?q=Anguissa) | N/A |
-| 42 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 43 | [Edoardo](http://twitter.com/search?q=Edoardo) | Edoardo is an Italian name derived from the Germanic name Edward, which means "wealthy guardian". It is a popular name in Italy and other parts of Europe. |
-| 44 | [Mimmo](http://twitter.com/search?q=Mimmo) | N/A |
-| 45 | [Ciao Bruno](http://twitter.com/search?q=Ciao+Bruno) | N/A |
-| 46 | [Niveo](http://twitter.com/search?q=Niveo) | Niveo is a Latin word meaning "snowy" or "snow-white". It is often used to describe something that is very white or pure. |
-| 47 | [Benedetta](http://twitter.com/search?q=Benedetta) | N/A |
-| 48 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 49 | [Nikita](http://twitter.com/search?q=Nikita) | Nikita is a Russian female name derived from the Greek name Nikētas, meaning “unconquered” or “victory of the people.” It is also a popular name in other countries, including India, where it is spelled Nikitha. |
-| 50 | [Tachipirina](http://twitter.com/search?q=Tachipirina) | N/A |
+| 3 | [#propagandalive](http://twitter.com/search?q=%23propagandalive) | N/A |
+| 4 | [Vecino](http://twitter.com/search?q=Vecino) | N/A |
+| 5 | [#QuartoGrado](http://twitter.com/search?q=%23QuartoGrado) | N/A |
+| 6 | [Sarri](http://twitter.com/search?q=Sarri) | N/A |
+| 7 | [#TheVoiceSenior](http://twitter.com/search?q=%23TheVoiceSenior) | #TheVoiceSenior is a reality television singing competition series based on the original The Voice format. It is a spin-off of the original The Voice series and features senior citizens aged 60 and over competing for a recording contract. The show premiered in Germany in 2018 and has since been adapted in several other countries. |
+| 8 | [#BuongiornoMamma2](http://twitter.com/search?q=%23BuongiornoMamma2) | N/A |
+| 9 | [Sebastiano](http://twitter.com/search?q=Sebastiano) | N/A |
+| 10 | [Maradona](http://twitter.com/search?q=Maradona) | N/A |
+| 11 | [Lilly](http://twitter.com/search?q=Lilly) | N/A |
+| 12 | [Patric](http://twitter.com/search?q=Patric) | N/A |
+| 13 | [Pier Silvio](http://twitter.com/search?q=Pier+Silvio) | N/A |
+| 14 | [Provedel](http://twitter.com/search?q=Provedel) | N/A |
+| 15 | [Agata](http://twitter.com/search?q=Agata) | N/A |
+| 16 | [Denise](http://twitter.com/search?q=Denise) | N/A |
+| 17 | [Claudio](http://twitter.com/search?q=Claudio) | N/A |
+| 18 | [Di Lorenzo](http://twitter.com/search?q=Di+Lorenzo) | Di Lorenzo is an Italian surname. It is derived from the Latin name Laurentius, which means "from Laurentum" (a town in ancient Italy). In English, the meaning of Di Lorenzo is "of Laurentum". |
+| 19 | [Sole](http://twitter.com/search?q=Sole) | N/A |
+| 20 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 21 | [Otello](http://twitter.com/search?q=Otello) | N/A |
+| 22 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
+| 23 | [Nico](http://twitter.com/search?q=Nico) | N/A |
+| 24 | [Lavrov](http://twitter.com/search?q=Lavrov) | N/A |
+| 25 | [Omar](http://twitter.com/search?q=Omar) | Omar is a male given name of Arabic origin, meaning "speaker". It is also used as a surname. |
+| 26 | [Benedetta](http://twitter.com/search?q=Benedetta) | N/A |
+| 27 | [Venere e Giove](http://twitter.com/search?q=Venere+e+Giove) | N/A |
+| 28 | [Emiliano](http://twitter.com/search?q=Emiliano) | N/A |
+| 29 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 30 | [Lucio Dalla](http://twitter.com/search?q=Lucio+Dalla) | N/A |
+| 31 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 32 | [#colapescedimartino](http://twitter.com/search?q=%23colapescedimartino) | N/A |
+| 33 | [#unadomenicaitaliana](http://twitter.com/search?q=%23unadomenicaitaliana) | N/A |
+| 34 | [#fratellidicrozza](http://twitter.com/search?q=%23fratellidicrozza) | N/A |
+| 35 | [#upas](http://twitter.com/search?q=%23upas) | N/A |
+| 36 | [#staseraitalia](http://twitter.com/search?q=%23staseraitalia) | N/A |
+| 37 | [#CiaoLucio](http://twitter.com/search?q=%23CiaoLucio) | N/A |
+| 38 | [#Amicispoiler](http://twitter.com/search?q=%23Amicispoiler) | N/A |
+| 39 | [#YalıÇapkını](http://twitter.com/search?q=%23Yal%c4%b1%c3%87apk%c4%b1n%c4%b1) | Yalıçapkını is a Turkish phrase that literally translates to "house-boat captain". It is used to refer to someone who is a leader or a person in charge. |
+| 40 | [#blob](http://twitter.com/search?q=%23blob) | N/A |
+| 41 | [#AttackOnTitan](http://twitter.com/search?q=%23AttackOnTitan) | N/A |
+| 42 | [#DaisyJonesAndTheSix](http://twitter.com/search?q=%23DaisyJonesAndTheSix) | N/A |
+| 43 | [#ottoemezzo](http://twitter.com/search?q=%23ottoemezzo) | N/A |
+| 44 | [#DontForgetTheLyrics](http://twitter.com/search?q=%23DontForgetTheLyrics) | N/A |
+| 45 | [#SeyFer](http://twitter.com/search?q=%23SeyFer) | #SeyFer is a hashtag used on social media to promote the Seychelles, an archipelago of 115 islands in the Indian Ocean. The hashtag is used to share photos and stories about the country's beautiful beaches, lush landscapes, and unique culture. In English, #SeyFer stands for "Seychelles Forever". |
+| 46 | [#Astorre](http://twitter.com/search?q=%23Astorre) | N/A |
 
 
 

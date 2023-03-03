@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Campinas
 
-📆 Last Updated: `2023-03-03 21:16:32 UTC`
+📆 Last Updated: `2023-03-03 22:16:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [SOOBIN](http://twitter.com/search?q=SOOBIN) | SOOBIN is a Korean name, derived from the Chinese characters for "protection" and "beauty". It can be translated to mean "protected beauty" in English. |
-| 2 | [Robert Renan](http://twitter.com/search?q=Robert+Renan) | N/A |
-| 3 | [Pedrinho](http://twitter.com/search?q=Pedrinho) | Pedrinho is a Portuguese nickname for the name Pedro, which is the Spanish and Portuguese form of Peter. In English, it would be translated to Peter or Pete. |
-| 4 | [Cyno](http://twitter.com/search?q=Cyno) | N/A |
-| 5 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
-| 6 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 7 | [Joelinton](http://twitter.com/search?q=Joelinton) | Joelinton is a Portuguese name, derived from the combination of the names Joel and António. It is usually given to boys and means "God will give". |
-| 8 | [mc carol](http://twitter.com/search?q=mc+carol) | N/A |
-| 9 | [Croácia](http://twitter.com/search?q=Cro%c3%a1cia) | N/A |
-| 10 | [#F1noBandSports](http://twitter.com/search?q=%23F1noBandSports) | N/A |
-| 11 | [GRLS](http://twitter.com/search?q=GRLS) | N/A |
-| 12 | [Lance](http://twitter.com/search?q=Lance) | N/A |
-| 13 | [Marquinhos](http://twitter.com/search?q=Marquinhos) | Marquinhos is a nickname for the Brazilian footballer Marcos Aoás Corrêa, who plays for Paris Saint-Germain. The name is derived from his first name, Marcos, and is a common nickname in Brazil. In English, it translates to "Little Marcos". |
-| 14 | [tinashe](http://twitter.com/search?q=tinashe) | N/A |
-| 15 | [Merecido](http://twitter.com/search?q=Merecido) | N/A |
-| 16 | [Future Nostalgia](http://twitter.com/search?q=Future+Nostalgia) | N/A |
-| 17 | [Aladdin](http://twitter.com/search?q=Aladdin) | N/A |
-| 18 | [EU SOU FICA KEY](http://twitter.com/search?q=EU+SOU+FICA+KEY) | N/A |
-| 19 | [LARI MERECE RESPEITO](http://twitter.com/search?q=LARI+MERECE+RESPEITO) | N/A |
-| 20 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
-| 21 | [Rony](http://twitter.com/search?q=Rony) | Rony is not a word in English. It may be a name or an acronym in another language. |
-| 22 | [Juliette](http://twitter.com/search?q=Juliette) | Juliette is a French female given name, derived from the Latin Julia. It is a diminutive form of Julia, meaning "youthful" or "downy". |
-| 23 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 24 | [#ForaAlface](http://twitter.com/search?q=%23ForaAlface) | N/A |
-| 25 | [Juma](http://twitter.com/search?q=Juma) | N/A |
-| 26 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
-| 27 | [Shingeki](http://twitter.com/search?q=Shingeki) | Shingeki is a Japanese word that translates to "advancement" or "onslaught" in English. It is often used to refer to a sudden, large-scale attack or invasion. |
-| 28 | [Heyoon](http://twitter.com/search?q=Heyoon) | N/A |
-| 29 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 30 | [#ItalianoNaESPN](http://twitter.com/search?q=%23ItalianoNaESPN) | N/A |
-| 31 | [Shivani](http://twitter.com/search?q=Shivani) | N/A |
-| 32 | [NAVI](http://twitter.com/search?q=NAVI) | N/A |
-| 33 | [João Gomes](http://twitter.com/search?q=Jo%c3%a3o+Gomes) | João Gomes is a Portuguese name. It is the equivalent of John Smith in English. The literal translation of João Gomes is John Gomes. |
-| 34 | [Lobos](http://twitter.com/search?q=Lobos) | Lobos is a Spanish word meaning "wolves". It is often used to refer to a group of wolves, or a pack. |
-| 35 | [The Car](http://twitter.com/search?q=The+Car) | N/A |
-| 36 | [Gigantes de Aço](http://twitter.com/search?q=Gigantes+de+A%c3%a7o) | N/A |
-| 37 | [André](http://twitter.com/search?q=Andr%c3%a9) | N/A |
-| 38 | [Ramon](http://twitter.com/search?q=Ramon) | N/A |
-| 39 | [Sasha Fierce](http://twitter.com/search?q=Sasha+Fierce) | N/A |
-| 40 | [Igor Vinicius](http://twitter.com/search?q=Igor+Vinicius) | N/A |
-| 41 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
-| 42 | [Al Nassr](http://twitter.com/search?q=Al+Nassr) | Al Nassr is a Saudi Arabian professional football club based in Riyadh. The name Al Nassr translates to "The Victory" in English. The club was founded in 1955 and has won multiple domestic and international titles, including the Saudi Professional League, the King Cup of Champions, and the Asian Club Championship. |
-| 43 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
-| 44 | [I Am](http://twitter.com/search?q=I+Am) | N/A |
-| 45 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
-| 46 | [PALADAR ALCOÓLICO](http://twitter.com/search?q=PALADAR+ALCO%c3%93LICO) | N/A |
-| 47 | [Kiss & Tell](http://twitter.com/search?q=Kiss+%26+Tell) | N/A |
-| 48 | [Stars Dance](http://twitter.com/search?q=Stars+Dance) | N/A |
-| 49 | [Marco Reus](http://twitter.com/search?q=Marco+Reus) | N/A |
+| 1 | [Pedrinho](http://twitter.com/search?q=Pedrinho) | Pedrinho is a Portuguese nickname for the name Pedro, which is the Spanish and Portuguese form of Peter. In English, it would be translated to Peter or Pete. |
+| 2 | [4 YEARS WITH TXT](http://twitter.com/search?q=4+YEARS+WITH+TXT) | N/A |
+| 3 | [Rita](http://twitter.com/search?q=Rita) | Rita is a female given name of Latin origin, derived from the Latin word "rita" meaning "right". It is also a diminutive form of the name Margarita, which means "pearl". |
+| 4 | [Robert Renan](http://twitter.com/search?q=Robert+Renan) | N/A |
+| 5 | [Weverton](http://twitter.com/search?q=Weverton) | Weverton is a Portuguese name derived from the Germanic name Wifard, which means “strong guardian”. It is also a common surname in Brazil. |
+| 6 | [Dudu](http://twitter.com/search?q=Dudu) | N/A |
+| 7 | [Vitor Roque](http://twitter.com/search?q=Vitor+Roque) | Vitor Roque is a Portuguese name. It is derived from the Latin name Victor, which means "victor" or "conqueror". In English, Vitor Roque can be translated to mean "Victorious Rock". |
+| 8 | [Marrocos](http://twitter.com/search?q=Marrocos) | N/A |
+| 9 | [Jones](http://twitter.com/search?q=Jones) | N/A |
+| 10 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
+| 11 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 12 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 13 | [#MelevaATL](http://twitter.com/search?q=%23MelevaATL) | N/A |
+| 14 | [Joelinton](http://twitter.com/search?q=Joelinton) | Joelinton is a Portuguese name, derived from the combination of the names Joel and António. It is usually given to boys and means "God will give". |
+| 15 | [Kali Uchis](http://twitter.com/search?q=Kali+Uchis) | N/A |
+| 16 | [GRLS](http://twitter.com/search?q=GRLS) | N/A |
+| 17 | [Nelly Furtado](http://twitter.com/search?q=Nelly+Furtado) | N/A |
+| 18 | [Croácia](http://twitter.com/search?q=Cro%c3%a1cia) | N/A |
+| 19 | [Lance](http://twitter.com/search?q=Lance) | N/A |
+| 20 | [tinashe](http://twitter.com/search?q=tinashe) | N/A |
+| 21 | [EU SOU FICA KEY](http://twitter.com/search?q=EU+SOU+FICA+KEY) | N/A |
+| 22 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 23 | [#OrdinalDogecoin](http://twitter.com/search?q=%23OrdinalDogecoin) | N/A |
+| 24 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
+| 25 | [LARI MERECE RESPEITO](http://twitter.com/search?q=LARI+MERECE+RESPEITO) | N/A |
+| 26 | [Rony](http://twitter.com/search?q=Rony) | Rony is not a word in English. It may be a name or an acronym in another language. |
+| 27 | [Juliette](http://twitter.com/search?q=Juliette) | Juliette is a French female given name, derived from the Latin Julia. It is a diminutive form of Julia, meaning "youthful" or "downy". |
+| 28 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
+| 29 | [Shingeki](http://twitter.com/search?q=Shingeki) | Shingeki is a Japanese word that translates to "advancement" or "onslaught" in English. It is often used to refer to a sudden, large-scale attack or invasion. |
+| 30 | [TEAM GABRIEL SANTANA](http://twitter.com/search?q=TEAM+GABRIEL+SANTANA) | N/A |
+| 31 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
+| 32 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
+| 33 | [Juma](http://twitter.com/search?q=Juma) | N/A |
+| 34 | [#ADona061](http://twitter.com/search?q=%23ADona061) | N/A |
+| 35 | [Lobos](http://twitter.com/search?q=Lobos) | Lobos is a Spanish word meaning "wolves". It is often used to refer to a group of wolves, or a pack. |
+| 36 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 37 | [Heyoon](http://twitter.com/search?q=Heyoon) | N/A |
+| 38 | [The Car](http://twitter.com/search?q=The+Car) | N/A |
+| 39 | [Dania](http://twitter.com/search?q=Dania) | N/A |
+| 40 | [Veiga](http://twitter.com/search?q=Veiga) | Veiga is a Portuguese surname derived from the Latin word "vigia," which means "watchman." It is also the name of a river in Portugal. In English, it can be translated to mean "watchman" or "guardian." |
+| 41 | [Gigantes de Aço](http://twitter.com/search?q=Gigantes+de+A%c3%a7o) | N/A |
+| 42 | [João Gomes](http://twitter.com/search?q=Jo%c3%a3o+Gomes) | João Gomes is a Portuguese name. It is the equivalent of John Smith in English. The literal translation of João Gomes is John Gomes. |
+| 43 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 44 | [PALADAR ALCOÓLICO](http://twitter.com/search?q=PALADAR+ALCO%c3%93LICO) | N/A |
+| 45 | [Attack on Titan](http://twitter.com/search?q=Attack+on+Titan) | N/A |
+| 46 | [shivani](http://twitter.com/search?q=shivani) | N/A |
+| 47 | [Andrey](http://twitter.com/search?q=Andrey) | Andrey is a Russian male given name derived from the Greek name Andreas, meaning "manly" or "masculine". |
+| 48 | [Beijo de Judas](http://twitter.com/search?q=Beijo+de+Judas) | N/A |
+| 49 | [NAVI](http://twitter.com/search?q=NAVI) | N/A |
 
 
 

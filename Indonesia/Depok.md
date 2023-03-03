@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Depok
 
-📆 Last Updated: `2023-03-03 21:16:44 UTC`
+📆 Last Updated: `2023-03-03 22:16:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,8 +16,8 @@ This is top 50 for [Indonesia](</Indonesia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#ToFOUReverlandWithTXT](http://twitter.com/search?q=%23ToFOUReverlandWithTXT) | N/A |
-| 2 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 3 | [#TXT_4th_Anniversary](http://twitter.com/search?q=%23TXT_4th_Anniversary) | N/A |
+| 2 | [#TXT_4th_Anniversary](http://twitter.com/search?q=%23TXT_4th_Anniversary) | N/A |
+| 3 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 4 | [SELAMAT DATANG 7DREAM](http://twitter.com/search?q=SELAMAT+DATANG+7DREAM) | N/A |
 | 5 | [4 YEARS WITH TXT](http://twitter.com/search?q=4+YEARS+WITH+TXT) | N/A |
 | 6 | [#HariRPLDesa](http://twitter.com/search?q=%23HariRPLDesa) | N/A |
@@ -29,40 +29,40 @@ This is top 50 for [Indonesia](</Indonesia>)
 | 12 | [PN Jakpus](http://twitter.com/search?q=PN+Jakpus) | N/A |
 | 13 | [WHO IN SEVENTEEN](http://twitter.com/search?q=WHO+IN+SEVENTEEN) | N/A |
 | 14 | [Ultimate Bias](http://twitter.com/search?q=Ultimate+Bias) | N/A |
-| 15 | [Partai Prima](http://twitter.com/search?q=Partai+Prima) | N/A |
-| 16 | [Innalillahi](http://twitter.com/search?q=Innalillahi) | N/A |
-| 17 | [universitas brawijaya](http://twitter.com/search?q=universitas+brawijaya) | N/A |
-| 18 | [ON THE STREET WITH J-HOPE](http://twitter.com/search?q=ON+THE+STREET+WITH+J-HOPE) | N/A |
-| 19 | [JK LIVE](http://twitter.com/search?q=JK+LIVE) | JK LIVE is a Japanese streaming service that allows users to watch live broadcasts of events, concerts, and other entertainment. The acronym stands for "Japan Kansai Live", referring to the Kansai region of Japan where the service is based. |
-| 20 | [R to V](http://twitter.com/search?q=R+to+V) | N/A |
+| 15 | [JK LIVE](http://twitter.com/search?q=JK+LIVE) | JK LIVE is a Japanese streaming service that allows users to watch live broadcasts of events, concerts, and other entertainment. The acronym stands for "Japan Kansai Live", referring to the Kansai region of Japan where the service is based. |
+| 16 | [partai prima](http://twitter.com/search?q=partai+prima) | N/A |
+| 17 | [Innalillahi](http://twitter.com/search?q=Innalillahi) | N/A |
+| 18 | [universitas brawijaya](http://twitter.com/search?q=universitas+brawijaya) | N/A |
+| 19 | [ON THE STREET WITH J-HOPE](http://twitter.com/search?q=ON+THE+STREET+WITH+J-HOPE) | N/A |
+| 20 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
 | 21 | [ON THE STREET OUT TODAY](http://twitter.com/search?q=ON+THE+STREET+OUT+TODAY) | N/A |
 | 22 | [Happy 4th](http://twitter.com/search?q=Happy+4th) | N/A |
-| 23 | [na jaemin thank you](http://twitter.com/search?q=na+jaemin+thank+you) | N/A |
-| 24 | [TY WEARS LOEWE](http://twitter.com/search?q=TY+WEARS+LOEWE) | N/A |
-| 25 | [Nobita](http://twitter.com/search?q=Nobita) | N/A |
-| 26 | [WORLD CLASS STAR V](http://twitter.com/search?q=WORLD+CLASS+STAR+V) | N/A |
-| 27 | [Jeep](http://twitter.com/search?q=Jeep) | N/A |
-| 28 | [8 SVT](http://twitter.com/search?q=8+SVT) | N/A |
-| 29 | [Lennon](http://twitter.com/search?q=Lennon) | N/A |
-| 30 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 31 | [Superindo](http://twitter.com/search?q=Superindo) | N/A |
-| 32 | [Tidur](http://twitter.com/search?q=Tidur) | N/A |
-| 33 | [Shizuka](http://twitter.com/search?q=Shizuka) | N/A |
-| 34 | [Bismillah](http://twitter.com/search?q=Bismillah) | N/A |
-| 35 | [wjsn](http://twitter.com/search?q=wjsn) | WJSN stands for Cosmic Girls, a South Korean girl group formed in 2016 by Starship Entertainment and Yuehua Entertainment. The group consists of thirteen members: Seola, Xuan Yi, Bona, Exy, Soobin, Luda, Dawon, Eunseo, Cheng Xiao, Mei Qi, Yeoreum, Dayoung and Yeonjung. The name WJSN is an acronym for “Wonderful Journey to the Stars”. |
-| 36 | [dawon](http://twitter.com/search?q=dawon) | N/A |
-| 37 | [wafello](http://twitter.com/search?q=wafello) | N/A |
-| 38 | [Balongan](http://twitter.com/search?q=Balongan) | N/A |
-| 39 | [daehwi](http://twitter.com/search?q=daehwi) | N/A |
-| 40 | [SUPPASIT WFT 2023](http://twitter.com/search?q=SUPPASIT+WFT+2023) | N/A |
-| 41 | [8 ML](http://twitter.com/search?q=8+ML) | N/A |
-| 42 | [SOOBIN](http://twitter.com/search?q=SOOBIN) | SOOBIN is a Korean name, derived from the Chinese characters for "protection" and "beauty". It can be translated to mean "protected beauty" in English. |
+| 23 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
+| 24 | [na jaemin thank you](http://twitter.com/search?q=na+jaemin+thank+you) | N/A |
+| 25 | [R to V](http://twitter.com/search?q=R+to+V) | N/A |
+| 26 | [TY WEARS LOEWE](http://twitter.com/search?q=TY+WEARS+LOEWE) | N/A |
+| 27 | [WORLD CLASS STAR V](http://twitter.com/search?q=WORLD+CLASS+STAR+V) | N/A |
+| 28 | [Nobita](http://twitter.com/search?q=Nobita) | N/A |
+| 29 | [Jeep](http://twitter.com/search?q=Jeep) | N/A |
+| 30 | [Dreamies](http://twitter.com/search?q=Dreamies) | N/A |
+| 31 | [8 SVT](http://twitter.com/search?q=8+SVT) | N/A |
+| 32 | [Lennon](http://twitter.com/search?q=Lennon) | N/A |
+| 33 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 34 | [8 ML](http://twitter.com/search?q=8+ML) | N/A |
+| 35 | [Superindo](http://twitter.com/search?q=Superindo) | N/A |
+| 36 | [Shizuka](http://twitter.com/search?q=Shizuka) | N/A |
+| 37 | [Bismillah](http://twitter.com/search?q=Bismillah) | N/A |
+| 38 | [wjsn](http://twitter.com/search?q=wjsn) | WJSN stands for Cosmic Girls, a South Korean girl group formed in 2016 by Starship Entertainment and Yuehua Entertainment. The group consists of thirteen members: Seola, Xuan Yi, Bona, Exy, Soobin, Luda, Dawon, Eunseo, Cheng Xiao, Mei Qi, Yeoreum, Dayoung and Yeonjung. The name WJSN is an acronym for “Wonderful Journey to the Stars”. |
+| 39 | [Tidur](http://twitter.com/search?q=Tidur) | N/A |
+| 40 | [dawon](http://twitter.com/search?q=dawon) | N/A |
+| 41 | [wafello](http://twitter.com/search?q=wafello) | N/A |
+| 42 | [SUPPASIT WFT 2023](http://twitter.com/search?q=SUPPASIT+WFT+2023) | N/A |
 | 43 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 44 | [Ya Allah](http://twitter.com/search?q=Ya+Allah) | N/A |
-| 45 | [jinki](http://twitter.com/search?q=jinki) | N/A |
-| 46 | [Luda](http://twitter.com/search?q=Luda) | N/A |
-| 47 | [Ult Bias](http://twitter.com/search?q=Ult+Bias) | N/A |
-| 48 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 44 | [jinki](http://twitter.com/search?q=jinki) | N/A |
+| 45 | [Luda](http://twitter.com/search?q=Luda) | N/A |
+| 46 | [Ult Bias](http://twitter.com/search?q=Ult+Bias) | N/A |
+| 47 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 48 | [Yato](http://twitter.com/search?q=Yato) | N/A |
 
 
 

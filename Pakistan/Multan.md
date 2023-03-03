@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Multan
 
-📆 Last Updated: `2023-03-03 21:17:02 UTC`
+📆 Last Updated: `2023-03-03 22:16:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,50 +20,50 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 3 | [#عدل_کی_قیمت_ایک_ٹرک](http://twitter.com/search?q=%23%d8%b9%d8%af%d9%84_%da%a9%db%8c_%d9%82%db%8c%d9%85%d8%aa_%d8%a7%db%8c%da%a9_%d9%b9%d8%b1%da%a9) | N/A |
 | 4 | [#KKvIU](http://twitter.com/search?q=%23KKvIU) | N/A |
 | 5 | [Azam Khan](http://twitter.com/search?q=Azam+Khan) | N/A |
-| 6 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 7 | [Imad Wasim](http://twitter.com/search?q=Imad+Wasim) | N/A |
+| 6 | [Imad Wasim](http://twitter.com/search?q=Imad+Wasim) | N/A |
+| 7 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 8 | [Truck](http://twitter.com/search?q=Truck) | N/A |
-| 9 | [Islamabad United](http://twitter.com/search?q=Islamabad+United) | N/A |
-| 10 | [Asif Ali](http://twitter.com/search?q=Asif+Ali) | Asif Ali is a male given name of Arabic origin. It is derived from the Arabic words ‘asif’, meaning ‘forgiveness’, and ‘ali’, meaning ‘high’ or ‘exalted’. In English, it can be translated to mean ‘forgiver of the exalted one’. |
-| 11 | [Gujranwala](http://twitter.com/search?q=Gujranwala) | N/A |
-| 12 | [Hales](http://twitter.com/search?q=Hales) | N/A |
-| 13 | [sikandar raza](http://twitter.com/search?q=sikandar+raza) | N/A |
-| 14 | [Ali Akbar](http://twitter.com/search?q=Ali+Akbar) | N/A |
-| 15 | [Faheem](http://twitter.com/search?q=Faheem) | Faheem is an Arabic name meaning "intelligent" or "wise". |
-| 16 | [Sarfaraz](http://twitter.com/search?q=Sarfaraz) | Sarfaraz is an Arabic name meaning "commander" or "leader". It is also used as a title of respect for a person of high rank. |
-| 17 | [President Arif Alvi](http://twitter.com/search?q=President+Arif+Alvi) | N/A |
-| 18 | [Shoaib Malik](http://twitter.com/search?q=Shoaib+Malik) | N/A |
-| 19 | [Hassan Ali](http://twitter.com/search?q=Hassan+Ali) | N/A |
-| 20 | [Qalandars](http://twitter.com/search?q=Qalandars) | N/A |
-| 21 | [Maddy](http://twitter.com/search?q=Maddy) | Maddy is a nickname for the name Madeleine, which is of French origin and means "woman of Magdala". |
-| 22 | [namoos sahaba ahlbait bill](http://twitter.com/search?q=namoos+sahaba+ahlbait+bill) | N/A |
-| 23 | [Youth](http://twitter.com/search?q=Youth) | N/A |
-| 24 | [Mighty](http://twitter.com/search?q=Mighty) | N/A |
-| 25 | [3rd March](http://twitter.com/search?q=3rd+March) | N/A |
-| 26 | [Asma](http://twitter.com/search?q=Asma) | N/A |
+| 9 | [Asif Ali](http://twitter.com/search?q=Asif+Ali) | Asif Ali is a male given name of Arabic origin. It is derived from the Arabic words ‘asif’, meaning ‘forgiveness’, and ‘ali’, meaning ‘high’ or ‘exalted’. In English, it can be translated to mean ‘forgiver of the exalted one’. |
+| 10 | [Gujranwala](http://twitter.com/search?q=Gujranwala) | N/A |
+| 11 | [Hales](http://twitter.com/search?q=Hales) | N/A |
+| 12 | [sikandar raza](http://twitter.com/search?q=sikandar+raza) | N/A |
+| 13 | [Ali Akbar](http://twitter.com/search?q=Ali+Akbar) | N/A |
+| 14 | [Sarfaraz](http://twitter.com/search?q=Sarfaraz) | Sarfaraz is an Arabic name meaning "commander" or "leader". It is also used as a title of respect for a person of high rank. |
+| 15 | [Faheem Ashraf](http://twitter.com/search?q=Faheem+Ashraf) | N/A |
+| 16 | [President Arif Alvi](http://twitter.com/search?q=President+Arif+Alvi) | N/A |
+| 17 | [Shoaib Malik](http://twitter.com/search?q=Shoaib+Malik) | N/A |
+| 18 | [HASSAN ALI](http://twitter.com/search?q=HASSAN+ALI) | N/A |
+| 19 | [Qalandars](http://twitter.com/search?q=Qalandars) | N/A |
+| 20 | [Maddy](http://twitter.com/search?q=Maddy) | Maddy is a nickname for the name Madeleine, which is of French origin and means "woman of Magdala". |
+| 21 | [namoos sahaba ahlbait bill](http://twitter.com/search?q=namoos+sahaba+ahlbait+bill) | N/A |
+| 22 | [Youth](http://twitter.com/search?q=Youth) | N/A |
+| 23 | [Mighty](http://twitter.com/search?q=Mighty) | N/A |
+| 24 | [3rd March](http://twitter.com/search?q=3rd+March) | N/A |
+| 25 | [Asma](http://twitter.com/search?q=Asma) | N/A |
+| 26 | [Only Imran Khan](http://twitter.com/search?q=Only+Imran+Khan) | N/A |
 | 27 | [Prince Of Bani Hashim](http://twitter.com/search?q=Prince+Of+Bani+Hashim) | N/A |
-| 28 | [Only Imran Khan](http://twitter.com/search?q=Only+Imran+Khan) | N/A |
-| 29 | [Sharjeel](http://twitter.com/search?q=Sharjeel) | N/A |
-| 30 | [Maryam Nawaz](http://twitter.com/search?q=Maryam+Nawaz) | N/A |
-| 31 | [Match](http://twitter.com/search?q=Match) | N/A |
+| 28 | [Sharjeel](http://twitter.com/search?q=Sharjeel) | N/A |
+| 29 | [PMLN](http://twitter.com/search?q=PMLN) | N/A |
+| 30 | [Match](http://twitter.com/search?q=Match) | N/A |
+| 31 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
 | 32 | [Haider](http://twitter.com/search?q=Haider) | N/A |
-| 33 | [Sialkot](http://twitter.com/search?q=Sialkot) | N/A |
-| 34 | [Babar](http://twitter.com/search?q=Babar) | Babar is a French children's book series about a fictional elephant character of the same name. The stories follow the adventures of Babar, from his birth in the jungle to his eventual coronation as King of the Elephants. The series was created by Jean de Brunhoff in 1931 and has since been adapted into numerous films, television shows, and other media. The name "Babar" is derived from the French phrase "babar le petit éléphant," which translates to "little elephant." |
+| 33 | [Babar](http://twitter.com/search?q=Babar) | Babar is a French children's book series about a fictional elephant character of the same name. The stories follow the adventures of Babar, from his birth in the jungle to his eventual coronation as King of the Elephants. The series was created by Jean de Brunhoff in 1931 and has since been adapted into numerous films, television shows, and other media. The name "Babar" is derived from the French phrase "babar le petit éléphant," which translates to "little elephant." |
+| 34 | [Surely](http://twitter.com/search?q=Surely) | N/A |
 | 35 | [taekook](http://twitter.com/search?q=taekook) | Taekook is the name of a popular ship between two characters from the South Korean boy band BTS, Taehyung (V) and Jungkook. It is a portmanteau of their names, and it is used by fans to refer to the romantic relationship between them. |
-| 36 | [Books](http://twitter.com/search?q=Books) | N/A |
+| 36 | [Heya](http://twitter.com/search?q=Heya) | N/A |
 | 37 | [Hamza](http://twitter.com/search?q=Hamza) | Hamza is an Arabic name meaning "strong". It is also a common surname in the Middle East and North Africa. |
-| 38 | [Pindi](http://twitter.com/search?q=Pindi) | N/A |
-| 39 | [SOOBIN](http://twitter.com/search?q=SOOBIN) | SOOBIN is a Korean name, derived from the Chinese characters for "protection" and "beauty". It can be translated to mean "protected beauty" in English. |
-| 40 | [Jannat](http://twitter.com/search?q=Jannat) | N/A |
-| 41 | [Emotional](http://twitter.com/search?q=Emotional) | N/A |
-| 42 | [Surely](http://twitter.com/search?q=Surely) | N/A |
-| 43 | [Coffee](http://twitter.com/search?q=Coffee) | N/A |
-| 44 | [Thankyouu](http://twitter.com/search?q=Thankyouu) | N/A |
-| 45 | [Snapchat](http://twitter.com/search?q=Snapchat) | N/A |
-| 46 | [Excuse](http://twitter.com/search?q=Excuse) | N/A |
-| 47 | [Multan](http://twitter.com/search?q=Multan) | N/A |
-| 48 | [Contact Us](http://twitter.com/search?q=Contact+Us) | N/A |
-| 49 | [Heya](http://twitter.com/search?q=Heya) | N/A |
+| 38 | [Shadab](http://twitter.com/search?q=Shadab) | N/A |
+| 39 | [Jannat](http://twitter.com/search?q=Jannat) | N/A |
+| 40 | [Joker](http://twitter.com/search?q=Joker) | N/A |
+| 41 | [Coffee](http://twitter.com/search?q=Coffee) | N/A |
+| 42 | [Thankyouu](http://twitter.com/search?q=Thankyouu) | N/A |
+| 43 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
+| 44 | [Sialkot](http://twitter.com/search?q=Sialkot) | N/A |
+| 45 | [Nawaz](http://twitter.com/search?q=Nawaz) | Nawaz is an Arabic name meaning "gift" or "blessing". It is also used as a surname in some parts of the world. |
+| 46 | [Multan](http://twitter.com/search?q=Multan) | N/A |
+| 47 | [Congratulation](http://twitter.com/search?q=Congratulation) | N/A |
+| 48 | [Bilkul](http://twitter.com/search?q=Bilkul) | N/A |
+| 49 | [Rana](http://twitter.com/search?q=Rana) | N/A |
 
 
 

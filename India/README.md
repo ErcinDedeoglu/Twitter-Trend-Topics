@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For India
 
-📆 Last Updated: `2023-03-03 21:17:22 UTC`
+📆 Last Updated: `2023-03-03 22:17:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,50 +16,55 @@ This is top 50 for India
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 2 | [#krsna](http://twitter.com/search?q=%23krsna) | N/A |
-| 3 | [#KeralaBlasters](http://twitter.com/search?q=%23KeralaBlasters) | N/A |
-| 4 | [#KBFC](http://twitter.com/search?q=%23KBFC) | N/A |
-| 5 | [#timewilltell](http://twitter.com/search?q=%23timewilltell) | N/A |
-| 6 | [Chhetri](http://twitter.com/search?q=Chhetri) | N/A |
-| 7 | [Ivan](http://twitter.com/search?q=Ivan) | N/A |
-| 8 | [#BengaluruFC](http://twitter.com/search?q=%23BengaluruFC) | N/A |
-| 9 | [NATTU NATTU](http://twitter.com/search?q=NATTU+NATTU) | N/A |
-| 10 | [CHARTBUSTER BILLI BILLI](http://twitter.com/search?q=CHARTBUSTER+BILLI+BILLI) | N/A |
-| 11 | [ARMYs](http://twitter.com/search?q=ARMYs) | N/A |
-| 12 | [Azam Khan](http://twitter.com/search?q=Azam+Khan) | N/A |
-| 13 | [PATHAAN BIGGEST GROSSER](http://twitter.com/search?q=PATHAAN+BIGGEST+GROSSER) | N/A |
-| 14 | [taekook](http://twitter.com/search?q=taekook) | Taekook is the name of a popular ship between two characters from the South Korean boy band BTS, Taehyung (V) and Jungkook. It is a portmanteau of their names, and it is used by fans to refer to the romantic relationship between them. |
-| 15 | [Desi](http://twitter.com/search?q=Desi) | N/A |
-| 16 | [Luna](http://twitter.com/search?q=Luna) | N/A |
-| 17 | [Crystal John](http://twitter.com/search?q=Crystal+John) | N/A |
-| 18 | [Referee](http://twitter.com/search?q=Referee) | N/A |
+| 2 | [#WorldWildlifeDay](http://twitter.com/search?q=%23WorldWildlifeDay) | N/A |
+| 3 | [#INDvsAUSTest](http://twitter.com/search?q=%23INDvsAUSTest) | N/A |
+| 4 | [#pepsiriseupbaby](http://twitter.com/search?q=%23pepsiriseupbaby) | N/A |
+| 5 | [#krsna](http://twitter.com/search?q=%23krsna) | N/A |
+| 6 | [#BFCKBFC](http://twitter.com/search?q=%23BFCKBFC) | N/A |
+| 7 | [PATHAAN BIGGEST GROSSER](http://twitter.com/search?q=PATHAAN+BIGGEST+GROSSER) | N/A |
+| 8 | [1 Day Left For Bodh Diwas](http://twitter.com/search?q=1+Day+Left+For+Bodh+Diwas) | N/A |
+| 9 | [Holi](http://twitter.com/search?q=Holi) | N/A |
+| 10 | [राहुल गांधी](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b9%e0%a5%81%e0%a4%b2+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
+| 11 | [CHARTBUSTER BILLI BILLI](http://twitter.com/search?q=CHARTBUSTER+BILLI+BILLI) | N/A |
+| 12 | [Pegasus](http://twitter.com/search?q=Pegasus) | N/A |
+| 13 | [1YR OF BADASS JAILOR KARAN](http://twitter.com/search?q=1YR+OF+BADASS+JAILOR+KARAN) | N/A |
+| 14 | [Tripura](http://twitter.com/search?q=Tripura) | N/A |
+| 15 | [Ivan](http://twitter.com/search?q=Ivan) | N/A |
+| 16 | [मोहन भागवत](http://twitter.com/search?q=%e0%a4%ae%e0%a5%8b%e0%a4%b9%e0%a4%a8+%e0%a4%ad%e0%a4%be%e0%a4%97%e0%a4%b5%e0%a4%a4) | N/A |
+| 17 | [मनीष चाचा](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a8%e0%a5%80%e0%a4%b7+%e0%a4%9a%e0%a4%be%e0%a4%9a%e0%a4%be) | N/A |
+| 18 | [Kaha Tak](http://twitter.com/search?q=Kaha+Tak) | N/A |
 | 19 | [REMOVE SAMJI FROM HP3](http://twitter.com/search?q=REMOVE+SAMJI+FROM+HP3) | N/A |
-| 20 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 21 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 22 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 23 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 24 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 25 | [on the street](http://twitter.com/search?q=on+the+street) | N/A |
-| 26 | [Smoking](http://twitter.com/search?q=Smoking) | N/A |
-| 27 | [#AttackOnTitan](http://twitter.com/search?q=%23AttackOnTitan) | N/A |
-| 28 | [#WeAreBFC](http://twitter.com/search?q=%23WeAreBFC) | N/A |
-| 29 | [#IndianFootball](http://twitter.com/search?q=%23IndianFootball) | N/A |
-| 30 | [#ToFOUReverlandWithTXT](http://twitter.com/search?q=%23ToFOUReverlandWithTXT) | N/A |
-| 31 | [#RahulBetraysBharat](http://twitter.com/search?q=%23RahulBetraysBharat) | N/A |
-| 32 | [#RahulBetraysIndia](http://twitter.com/search?q=%23RahulBetraysIndia) | N/A |
-| 33 | [#ReleaseShahrukhPathan](http://twitter.com/search?q=%23ReleaseShahrukhPathan) | N/A |
-| 34 | [#TXT_4th_Anniversary](http://twitter.com/search?q=%23TXT_4th_Anniversary) | N/A |
-| 35 | [#Gulmohar](http://twitter.com/search?q=%23Gulmohar) | N/A |
-| 36 | [#HeroISLPlayoffs](http://twitter.com/search?q=%23HeroISLPlayoffs) | N/A |
-| 37 | [#RahulGandhiinCambridge](http://twitter.com/search?q=%23RahulGandhiinCambridge) | N/A |
-| 38 | [#PappuWillBePappu](http://twitter.com/search?q=%23PappuWillBePappu) | N/A |
-| 39 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
-| 40 | [#Yuva](http://twitter.com/search?q=%23Yuva) | N/A |
-| 41 | [#Iratta](http://twitter.com/search?q=%23Iratta) | N/A |
-| 42 | [#BihariMajdoor](http://twitter.com/search?q=%23BihariMajdoor) | N/A |
-| 43 | [#Bheed](http://twitter.com/search?q=%23Bheed) | N/A |
-| 44 | [#KathaAnkahee](http://twitter.com/search?q=%23KathaAnkahee) | N/A |
-| 45 | [#NawazuddinSiddiqui](http://twitter.com/search?q=%23NawazuddinSiddiqui) | N/A |
+| 20 | [Chhetri](http://twitter.com/search?q=Chhetri) | N/A |
+| 21 | [प्रथम महिला](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a5%e0%a4%ae+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
+| 22 | [Lokayukta](http://twitter.com/search?q=Lokayukta) | N/A |
+| 23 | [Public Demands Justice4SSR](http://twitter.com/search?q=Public+Demands+Justice4SSR) | N/A |
+| 24 | [breaking laws](http://twitter.com/search?q=breaking+laws) | N/A |
+| 25 | [वन्य जीव](http://twitter.com/search?q=%e0%a4%b5%e0%a4%a8%e0%a5%8d%e0%a4%af+%e0%a4%9c%e0%a5%80%e0%a4%b5) | N/A |
+| 26 | [North East](http://twitter.com/search?q=North+East) | N/A |
+| 27 | [Nattu Nattu](http://twitter.com/search?q=Nattu+Nattu) | N/A |
+| 28 | [1yr of rdh ft tejran](http://twitter.com/search?q=1yr+of+rdh+ft+tejran) | N/A |
+| 29 | [journalists in court](http://twitter.com/search?q=journalists+in+court) | N/A |
+| 30 | [श्रीमती सोनिया गांधी](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%ae%e0%a4%a4%e0%a5%80+%e0%a4%b8%e0%a5%8b%e0%a4%a8%e0%a4%bf%e0%a4%af%e0%a4%be+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
+| 31 | [विदेशी धरती](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%a6%e0%a5%87%e0%a4%b6%e0%a5%80+%e0%a4%a7%e0%a4%b0%e0%a4%a4%e0%a5%80) | N/A |
+| 32 | [BJP MLA](http://twitter.com/search?q=BJP+MLA) | N/A |
+| 33 | [टाटा समूह](http://twitter.com/search?q=%e0%a4%9f%e0%a4%be%e0%a4%9f%e0%a4%be+%e0%a4%b8%e0%a4%ae%e0%a5%82%e0%a4%b9) | N/A |
+| 34 | [ARMYs](http://twitter.com/search?q=ARMYs) | N/A |
+| 35 | [सुप्रीम कोर्ट](http://twitter.com/search?q=%e0%a4%b8%e0%a5%81%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%ae+%e0%a4%95%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%9f) | सुप्रीम कोर्ट (Supreme Court) is the highest court of India. It is the final court of appeal under the Constitution of India, and has the power to decide constitutional issues. The Supreme Court has original, appellate and advisory jurisdiction. Its decisions are binding on all other courts in India. The Supreme Court's decisions are also considered to be a source of law in many countries around the world. |
+| 36 | [Azam Khan](http://twitter.com/search?q=Azam+Khan) | N/A |
+| 37 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
+| 38 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
+| 39 | [Luna](http://twitter.com/search?q=Luna) | N/A |
+| 40 | [Desi](http://twitter.com/search?q=Desi) | N/A |
+| 41 | [Crystal John](http://twitter.com/search?q=Crystal+John) | N/A |
+| 42 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 43 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
+| 44 | [Referee](http://twitter.com/search?q=Referee) | N/A |
+| 45 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
+| 46 | [Telugu](http://twitter.com/search?q=Telugu) | N/A |
+| 47 | [Gambhir](http://twitter.com/search?q=Gambhir) | N/A |
+| 48 | [Medvedev](http://twitter.com/search?q=Medvedev) | Medvedev is a Russian surname derived from the word medved, which means "bear". It is also the surname of Dmitry Medvedev, the current Prime Minister of Russia. In English, the name Medvedev can be translated to mean "son of the bear". |
+| 49 | [Aston](http://twitter.com/search?q=Aston) | N/A |
+| 50 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
 
 
 

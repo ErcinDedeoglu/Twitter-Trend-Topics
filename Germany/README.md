@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Germany
 
-📆 Last Updated: `2023-03-03 21:17:22 UTC`
+📆 Last Updated: `2023-03-03 22:17:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for Germany
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#BVBRBL](http://twitter.com/search?q=%23BVBRBL) | N/A |
-| 2 | [#LetsDance](http://twitter.com/search?q=%23LetsDance) | N/A |
-| 3 | [#Nockherberg](http://twitter.com/search?q=%23Nockherberg) | N/A |
-| 4 | [#GoodbyeDeutschland](http://twitter.com/search?q=%23GoodbyeDeutschland) | #GoodbyeDeutschland is a hashtag used on social media to refer to the German reality TV show Goodbye Deutschland! The Viva Mallorca. The show follows German expats who have moved abroad and documents their lives in their new homes. In English, the hashtag translates to "Goodbye Germany!" |
-| 5 | [#BVBLeipzig](http://twitter.com/search?q=%23BVBLeipzig) | N/A |
-| 6 | [Nkunku](http://twitter.com/search?q=Nkunku) | Nkunku is a traditional African name of Ghanaian origin. It is derived from the Akan language and means "God's gift". |
-| 7 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 8 | [Brandt](http://twitter.com/search?q=Brandt) | N/A |
-| 9 | [Singspiel](http://twitter.com/search?q=Singspiel) | N/A |
-| 10 | [Kobel](http://twitter.com/search?q=Kobel) | N/A |
-| 11 | [Fabian](http://twitter.com/search?q=Fabian) | N/A |
-| 12 | [Meyer](http://twitter.com/search?q=Meyer) | N/A |
-| 13 | [Opoku](http://twitter.com/search?q=Opoku) | N/A |
-| 14 | [Maxi Schafroth](http://twitter.com/search?q=Maxi+Schafroth) | N/A |
-| 15 | [Reus](http://twitter.com/search?q=Reus) | N/A |
-| 16 | [Richter](http://twitter.com/search?q=Richter) | N/A |
-| 17 | [Freitag Abend](http://twitter.com/search?q=Freitag+Abend) | N/A |
-| 18 | [Hasi](http://twitter.com/search?q=Hasi) | N/A |
-| 19 | [Julia](http://twitter.com/search?q=Julia) | N/A |
-| 20 | [Bewährung](http://twitter.com/search?q=Bew%c3%a4hrung) | N/A |
-| 21 | [Schlepper](http://twitter.com/search?q=Schlepper) | N/A |
-| 22 | [Ikke Hüftgold](http://twitter.com/search?q=Ikke+H%c3%bcftgold) | N/A |
-| 23 | [Mitbürger](http://twitter.com/search?q=Mitb%c3%bcrger) | N/A |
-| 24 | [Verdi](http://twitter.com/search?q=Verdi) | N/A |
-| 25 | [Physik](http://twitter.com/search?q=Physik) | N/A |
-| 26 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 27 | [Urteil](http://twitter.com/search?q=Urteil) | N/A |
-| 28 | [Audi](http://twitter.com/search?q=Audi) | N/A |
-| 29 | [Justiz](http://twitter.com/search?q=Justiz) | N/A |
-| 30 | [Adler](http://twitter.com/search?q=Adler) | N/A |
-| 31 | [Hafen](http://twitter.com/search?q=Hafen) | N/A |
-| 32 | [Vergewaltiger](http://twitter.com/search?q=Vergewaltiger) | N/A |
-| 33 | [Schiene](http://twitter.com/search?q=Schiene) | N/A |
-| 34 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
-| 35 | [#UnserLiedFürLiverpool](http://twitter.com/search?q=%23UnserLiedF%c3%bcrLiverpool) | N/A |
-| 36 | [#SCPFCSP](http://twitter.com/search?q=%23SCPFCSP) | N/A |
-| 37 | [#FCMFCK](http://twitter.com/search?q=%23FCMFCK) | N/A |
-| 38 | [#Betze](http://twitter.com/search?q=%23Betze) | N/A |
-| 39 | [#SchleFaZ](http://twitter.com/search?q=%23SchleFaZ) | N/A |
-| 40 | [#SGESCF](http://twitter.com/search?q=%23SGESCF) | N/A |
-| 41 | [#ulfl](http://twitter.com/search?q=%23ulfl) | N/A |
-| 42 | [#EINMALIMMER](http://twitter.com/search?q=%23EINMALIMMER) | N/A |
-| 43 | [#AttackOnTitan](http://twitter.com/search?q=%23AttackOnTitan) | N/A |
-| 44 | [#FridaysForFuture](http://twitter.com/search?q=%23FridaysForFuture) | N/A |
-| 45 | [#frivolerFreitag](http://twitter.com/search?q=%23frivolerFreitag) | N/A |
-| 46 | [#WegnerMussWeg](http://twitter.com/search?q=%23WegnerMussWeg) | N/A |
-| 47 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
-| 48 | [#Bosetti](http://twitter.com/search?q=%23Bosetti) | N/A |
-| 49 | [#NintendoSwitch](http://twitter.com/search?q=%23NintendoSwitch) | N/A |
+| 1 | [#UnserLiedFürLiverpool](http://twitter.com/search?q=%23UnserLiedF%c3%bcrLiverpool) | N/A |
+| 2 | [#BVBRBL](http://twitter.com/search?q=%23BVBRBL) | N/A |
+| 3 | [#ESC2023](http://twitter.com/search?q=%23ESC2023) | N/A |
+| 4 | [#LetsDance](http://twitter.com/search?q=%23LetsDance) | N/A |
+| 5 | [#Nockherberg](http://twitter.com/search?q=%23Nockherberg) | N/A |
+| 6 | [Lonely Spring](http://twitter.com/search?q=Lonely+Spring) | N/A |
+| 7 | [Modeste](http://twitter.com/search?q=Modeste) | Modeste is a French word meaning "modest" or "unassuming". It is used to describe someone who is humble and unpretentious. |
+| 8 | [Meyer](http://twitter.com/search?q=Meyer) | N/A |
+| 9 | [Vorentscheid](http://twitter.com/search?q=Vorentscheid) | N/A |
+| 10 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 11 | [Barbara](http://twitter.com/search?q=Barbara) | N/A |
+| 12 | [Nkunku](http://twitter.com/search?q=Nkunku) | Nkunku is a traditional African name of Ghanaian origin. It is derived from the Akan language and means "God's gift". |
+| 13 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 14 | [Singspiel](http://twitter.com/search?q=Singspiel) | N/A |
+| 15 | [Brandt](http://twitter.com/search?q=Brandt) | N/A |
+| 16 | [Kobel](http://twitter.com/search?q=Kobel) | N/A |
+| 17 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
+| 18 | [Hüftgold](http://twitter.com/search?q=H%c3%bcftgold) | N/A |
+| 19 | [Lost](http://twitter.com/search?q=Lost) | N/A |
+| 20 | [Opoku](http://twitter.com/search?q=Opoku) | N/A |
+| 21 | [Maxi Schafroth](http://twitter.com/search?q=Maxi+Schafroth) | N/A |
+| 22 | [Reus](http://twitter.com/search?q=Reus) | N/A |
+| 23 | [Freitag Abend](http://twitter.com/search?q=Freitag+Abend) | N/A |
+| 24 | [Hasi](http://twitter.com/search?q=Hasi) | N/A |
+| 25 | [Richter](http://twitter.com/search?q=Richter) | N/A |
+| 26 | [Bewährung](http://twitter.com/search?q=Bew%c3%a4hrung) | N/A |
+| 27 | [Julia](http://twitter.com/search?q=Julia) | N/A |
+| 28 | [Dosen](http://twitter.com/search?q=Dosen) | N/A |
+| 29 | [Fabian](http://twitter.com/search?q=Fabian) | N/A |
+| 30 | [Physik](http://twitter.com/search?q=Physik) | N/A |
+| 31 | [Schlepper](http://twitter.com/search?q=Schlepper) | N/A |
+| 32 | [Mitbürger](http://twitter.com/search?q=Mitb%c3%bcrger) | N/A |
+| 33 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 34 | [Verdi](http://twitter.com/search?q=Verdi) | N/A |
+| 35 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 36 | [Audi](http://twitter.com/search?q=Audi) | N/A |
+| 37 | [Justiz](http://twitter.com/search?q=Justiz) | N/A |
+| 38 | [Adler](http://twitter.com/search?q=Adler) | N/A |
+| 39 | [#ulfl](http://twitter.com/search?q=%23ulfl) | N/A |
+| 40 | [#GoodbyeDeutschland](http://twitter.com/search?q=%23GoodbyeDeutschland) | #GoodbyeDeutschland is a hashtag used on social media to refer to the German reality TV show Goodbye Deutschland! The Viva Mallorca. The show follows German expats who have moved abroad and documents their lives in their new homes. In English, the hashtag translates to "Goodbye Germany!" |
+| 41 | [#BVBLeipzig](http://twitter.com/search?q=%23BVBLeipzig) | N/A |
+| 42 | [#Eurovision2023](http://twitter.com/search?q=%23Eurovision2023) | N/A |
+| 43 | [#heuteshow](http://twitter.com/search?q=%23heuteshow) | N/A |
+| 44 | [#FCMFCK](http://twitter.com/search?q=%23FCMFCK) | N/A |
+| 45 | [#LezFaZ](http://twitter.com/search?q=%23LezFaZ) | N/A |
+| 46 | [#SCPFCSP](http://twitter.com/search?q=%23SCPFCSP) | N/A |
+| 47 | [#Betze](http://twitter.com/search?q=%23Betze) | N/A |
+| 48 | [#SchleFaZ](http://twitter.com/search?q=%23SchleFaZ) | N/A |
+| 49 | [#SGESCF](http://twitter.com/search?q=%23SGESCF) | N/A |
+| 50 | [#AttackOnTitan](http://twitter.com/search?q=%23AttackOnTitan) | N/A |
 
 
 
