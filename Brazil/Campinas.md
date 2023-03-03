@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Campinas
 
-📆 Last Updated: `2023-03-03 05:19:30 UTC`
+📆 Last Updated: `2023-03-03 06:17:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 2 | [Reinaldo Azevedo](http://twitter.com/search?q=Reinaldo+Azevedo) | N/A |
-| 3 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 4 | [Brisa](http://twitter.com/search?q=Brisa) | N/A |
-| 5 | [INTERVENÇÃO DA SUPERCOMBO](http://twitter.com/search?q=INTERVEN%c3%87%c3%83O+DA+SUPERCOMBO) | N/A |
-| 6 | [Maringá](http://twitter.com/search?q=Maring%c3%a1) | N/A |
-| 7 | [#MelevaATL](http://twitter.com/search?q=%23MelevaATL) | N/A |
-| 8 | [Creed 3](http://twitter.com/search?q=Creed+3) | N/A |
-| 9 | [Chiara](http://twitter.com/search?q=Chiara) | N/A |
-| 10 | [Sergipe](http://twitter.com/search?q=Sergipe) | N/A |
-| 11 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
-| 12 | [STILL ALIVE OUT NOW](http://twitter.com/search?q=STILL+ALIVE+OUT+NOW) | N/A |
-| 13 | [#HappyBirthdayCamila](http://twitter.com/search?q=%23HappyBirthdayCamila) | N/A |
-| 14 | [Bráulio](http://twitter.com/search?q=Br%c3%a1ulio) | N/A |
-| 15 | [Feliz Natal](http://twitter.com/search?q=Feliz+Natal) | Feliz Natal is a Portuguese phrase meaning "Merry Christmas". It is commonly used in Brazil and other Portuguese-speaking countries during the holiday season. |
-| 16 | [Dangerous Woman](http://twitter.com/search?q=Dangerous+Woman) | N/A |
-| 17 | [kali uchis](http://twitter.com/search?q=kali+uchis) | N/A |
-| 18 | [#ProvaDoLider](http://twitter.com/search?q=%23ProvaDoLider) | #ProvaDoLider is a hashtag used in Brazil to promote a leadership challenge. It translates to "Leadership Challenge" in English. The challenge encourages people to take on leadership roles and develop their skills. |
-| 19 | [Fortaleza](http://twitter.com/search?q=Fortaleza) | Fortaleza is a city in Brazil and it means "fortress" in English. It is the capital of the state of Ceará and is known for its beautiful beaches, colonial architecture, and vibrant culture. |
-| 20 | [#Zico70](http://twitter.com/search?q=%23Zico70) | N/A |
-| 21 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
-| 22 | [Mulan](http://twitter.com/search?q=Mulan) | N/A |
-| 23 | [Yours Truly](http://twitter.com/search?q=Yours+Truly) | N/A |
-| 24 | [My Everything](http://twitter.com/search?q=My+Everything) | N/A |
-| 25 | [ALL I WANTED](http://twitter.com/search?q=ALL+I+WANTED) | N/A |
-| 26 | [The Pinkprint](http://twitter.com/search?q=The+Pinkprint) | N/A |
-| 27 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
-| 28 | [Happier Than Ever](http://twitter.com/search?q=Happier+Than+Ever) | N/A |
-| 29 | [Future Nostalgia](http://twitter.com/search?q=Future+Nostalgia) | N/A |
-| 30 | [METADE DE MIM HEG](http://twitter.com/search?q=METADE+DE+MIM+HEG) | N/A |
-| 31 | [Lamb](http://twitter.com/search?q=Lamb) | Lamb is a young sheep, usually less than one year old. It is also used as a term of endearment for a young child. The word comes from the Old English “lamb”, which means “young sheep”. |
-| 32 | [Tarzan](http://twitter.com/search?q=Tarzan) | N/A |
-| 33 | [Mateus Solano](http://twitter.com/search?q=Mateus+Solano) | N/A |
-| 34 | [Luis Castro](http://twitter.com/search?q=Luis+Castro) | N/A |
-| 35 | [Lucero](http://twitter.com/search?q=Lucero) | N/A |
-| 36 | [Gudugo](http://twitter.com/search?q=Gudugo) | N/A |
-| 37 | [Eddie](http://twitter.com/search?q=Eddie) | Eddie is a slang term used to refer to someone who is considered to be cool, attractive, or stylish. It can also be used as a term of endearment for someone you like or admire. |
-| 38 | [Seara](http://twitter.com/search?q=Seara) | Seara is a Portuguese word meaning "evening" or "night." |
-| 39 | [Graham](http://twitter.com/search?q=Graham) | N/A |
-| 40 | [Apanhou](http://twitter.com/search?q=Apanhou) | N/A |
-| 41 | [Amandinha Tadeu](http://twitter.com/search?q=Amandinha+Tadeu) | N/A |
-| 42 | [Matheus Nascimento](http://twitter.com/search?q=Matheus+Nascimento) | N/A |
-| 43 | [Roubado](http://twitter.com/search?q=Roubado) | N/A |
-| 44 | [billy dunne](http://twitter.com/search?q=billy+dunne) | N/A |
-| 45 | [Marçal](http://twitter.com/search?q=Mar%c3%a7al) | N/A |
-| 46 | [Rei Leão](http://twitter.com/search?q=Rei+Le%c3%a3o) | N/A |
-| 47 | [Justifica](http://twitter.com/search?q=Justifica) | N/A |
-| 48 | [Aladdin](http://twitter.com/search?q=Aladdin) | N/A |
-| 49 | [Bob Fernandes](http://twitter.com/search?q=Bob+Fernandes) | N/A |
+| 1 | [Karen](http://twitter.com/search?q=Karen) | N/A |
+| 2 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 3 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 4 | [UM MILHAO DO DR FRED](http://twitter.com/search?q=UM+MILHAO+DO+DR+FRED) | N/A |
+| 5 | [Reinaldo Azevedo](http://twitter.com/search?q=Reinaldo+Azevedo) | N/A |
+| 6 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 7 | [INTERVENÇÃO DA SUPERCOMBO](http://twitter.com/search?q=INTERVEN%c3%87%c3%83O+DA+SUPERCOMBO) | N/A |
+| 8 | [Copa do Brasil](http://twitter.com/search?q=Copa+do+Brasil) | N/A |
+| 9 | [#MelevaATL](http://twitter.com/search?q=%23MelevaATL) | N/A |
+| 10 | [Creed 3](http://twitter.com/search?q=Creed+3) | N/A |
+| 11 | [Chiara](http://twitter.com/search?q=Chiara) | N/A |
+| 12 | [Maringá](http://twitter.com/search?q=Maring%c3%a1) | N/A |
+| 13 | [Sergipe](http://twitter.com/search?q=Sergipe) | N/A |
+| 14 | [#on_the_street](http://twitter.com/search?q=%23on_the_street) | N/A |
+| 15 | [STILL ALIVE OUT NOW](http://twitter.com/search?q=STILL+ALIVE+OUT+NOW) | N/A |
+| 16 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 17 | [#HappyBirthdayCamila](http://twitter.com/search?q=%23HappyBirthdayCamila) | N/A |
+| 18 | [kali uchis](http://twitter.com/search?q=kali+uchis) | N/A |
+| 19 | [Dangerous Woman](http://twitter.com/search?q=Dangerous+Woman) | N/A |
+| 20 | [Feliz Natal](http://twitter.com/search?q=Feliz+Natal) | Feliz Natal is a Portuguese phrase meaning "Merry Christmas". It is commonly used in Brazil and other Portuguese-speaking countries during the holiday season. |
+| 21 | [Bráulio](http://twitter.com/search?q=Br%c3%a1ulio) | N/A |
+| 22 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
+| 23 | [Mang](http://twitter.com/search?q=Mang) | N/A |
+| 24 | [#ProvaDoLider](http://twitter.com/search?q=%23ProvaDoLider) | #ProvaDoLider is a hashtag used in Brazil to promote a leadership challenge. It translates to "Leadership Challenge" in English. The challenge encourages people to take on leadership roles and develop their skills. |
+| 25 | [Mulan](http://twitter.com/search?q=Mulan) | N/A |
+| 26 | [JUNG HOSEOK](http://twitter.com/search?q=JUNG+HOSEOK) | Jung Hoseok is the stage name of South Korean singer, songwriter, and dancer, J-Hope. He is a member of the K-pop boy group BTS. The name "Jung Hoseok" translates to "One Hope" in English. |
+| 27 | [My Everything](http://twitter.com/search?q=My+Everything) | N/A |
+| 28 | [Yours Truly](http://twitter.com/search?q=Yours+Truly) | N/A |
+| 29 | [Fortaleza](http://twitter.com/search?q=Fortaleza) | Fortaleza is a city in Brazil and it means "fortress" in English. It is the capital of the state of Ceará and is known for its beautiful beaches, colonial architecture, and vibrant culture. |
+| 30 | [ALL I WANTED](http://twitter.com/search?q=ALL+I+WANTED) | N/A |
+| 31 | [The Pinkprint](http://twitter.com/search?q=The+Pinkprint) | N/A |
+| 32 | [Lamb](http://twitter.com/search?q=Lamb) | Lamb is a young sheep, usually less than one year old. It is also used as a term of endearment for a young child. The word comes from the Old English “lamb”, which means “young sheep”. |
+| 33 | [Lucero](http://twitter.com/search?q=Lucero) | N/A |
+| 34 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
+| 35 | [Happier Than Ever](http://twitter.com/search?q=Happier+Than+Ever) | N/A |
+| 36 | [Future Nostalgia](http://twitter.com/search?q=Future+Nostalgia) | N/A |
+| 37 | [Tarzan](http://twitter.com/search?q=Tarzan) | N/A |
+| 38 | [Mateus Solano](http://twitter.com/search?q=Mateus+Solano) | N/A |
+| 39 | [Luis Castro](http://twitter.com/search?q=Luis+Castro) | N/A |
+| 40 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
+| 41 | [Gudugo](http://twitter.com/search?q=Gudugo) | N/A |
+| 42 | [Amandinha Tadeu](http://twitter.com/search?q=Amandinha+Tadeu) | N/A |
+| 43 | [billy dunne](http://twitter.com/search?q=billy+dunne) | N/A |
+| 44 | [METADE DE MIM HEG](http://twitter.com/search?q=METADE+DE+MIM+HEG) | N/A |
+| 45 | [Eddie](http://twitter.com/search?q=Eddie) | Eddie is a slang term used to refer to someone who is considered to be cool, attractive, or stylish. It can also be used as a term of endearment for someone you like or admire. |
+| 46 | [Seara](http://twitter.com/search?q=Seara) | Seara is a Portuguese word meaning "evening" or "night." |
+| 47 | [graham](http://twitter.com/search?q=graham) | N/A |
+| 48 | [Roubado](http://twitter.com/search?q=Roubado) | N/A |
+| 49 | [Apanhou](http://twitter.com/search?q=Apanhou) | N/A |
 
 
 

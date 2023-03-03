@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2023-03-03 05:19:19 UTC`
+📆 Last Updated: `2023-03-03 06:16:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,56 +20,56 @@ This is top 50
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [ひな祭り](http://twitter.com/search?q=%e3%81%b2%e3%81%aa%e7%a5%ad%e3%82%8a) | N/A |
-| 2 | [Sergipe](http://twitter.com/search?q=Sergipe) | N/A |
-| 3 | [Botafogo](http://twitter.com/search?q=Botafogo) | Botafogo is a neighborhood in Rio de Janeiro, Brazil. The name Botafogo comes from the Portuguese phrase "bota fogo," which means "set fire." It is believed to have originated from a local legend about a brave warrior who set fire to the enemy's boats during a battle. |
-| 4 | [#GuraTV](http://twitter.com/search?q=%23GuraTV) | N/A |
-| 5 | [ちらし寿司](http://twitter.com/search?q=%e3%81%a1%e3%82%89%e3%81%97%e5%af%bf%e5%8f%b8) | N/A |
-| 6 | [ひなまつり](http://twitter.com/search?q=%e3%81%b2%e3%81%aa%e3%81%be%e3%81%a4%e3%82%8a) | N/A |
-| 7 | [桃の節句](http://twitter.com/search?q=%e6%a1%83%e3%81%ae%e7%af%80%e5%8f%a5) | N/A |
-| 8 | [#PreseaEdoMex](http://twitter.com/search?q=%23PreseaEdoMex) | N/A |
-| 9 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
-| 10 | [#HelloBuildJakapan](http://twitter.com/search?q=%23HelloBuildJakapan) | N/A |
-| 11 | [フジロック](http://twitter.com/search?q=%e3%83%95%e3%82%b8%e3%83%ad%e3%83%83%e3%82%af) | フジロック is a popular Japanese music festival held annually in Naeba Ski Resort, Niigata Prefecture. The festival was first held in 1997 and has since become one of the largest music festivals in Japan, attracting over 100,000 people each year. In English, "フジロック" translates to "Fuji Rock Festival". |
-| 12 | [NICE TO MEET YOU BUILD](http://twitter.com/search?q=NICE+TO+MEET+YOU+BUILD) | N/A |
-| 13 | [#徹子の部屋](http://twitter.com/search?q=%23%e5%be%b9%e5%ad%90%e3%81%ae%e9%83%a8%e5%b1%8b) | N/A |
-| 14 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 15 | [#CriticalRoleSpoilers](http://twitter.com/search?q=%23CriticalRoleSpoilers) | #CriticalRoleSpoilers is a hashtag used on social media to warn people that a post contains spoilers for the popular Dungeons & Dragons web series Critical Role. It is used to alert viewers who have not yet seen the episode or read the source material that the post contains information that could spoil their experience. |
-| 16 | [cole hyung](http://twitter.com/search?q=cole+hyung) | N/A |
-| 17 | [あと半日](http://twitter.com/search?q=%e3%81%82%e3%81%a8%e5%8d%8a%e6%97%a5) | あと半日 is a Japanese phrase that translates to "half a day left" in English. It is used to express that there is only a short amount of time remaining before something is due or finished. |
-| 18 | [ひなあられ](http://twitter.com/search?q=%e3%81%b2%e3%81%aa%e3%81%82%e3%82%89%e3%82%8c) | N/A |
-| 19 | [ON THE STREET OUT TODAY](http://twitter.com/search?q=ON+THE+STREET+OUT+TODAY) | N/A |
-| 20 | [Alex Murdaugh](http://twitter.com/search?q=Alex+Murdaugh) | N/A |
-| 21 | [STILL ALIVE OUT NOW](http://twitter.com/search?q=STILL+ALIVE+OUT+NOW) | N/A |
-| 22 | [WHO IN SEVENTEEN](http://twitter.com/search?q=WHO+IN+SEVENTEEN) | N/A |
-| 23 | [Walgreens](http://twitter.com/search?q=Walgreens) | N/A |
-| 24 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
-| 25 | [JULIETA AL 9009](http://twitter.com/search?q=JULIETA+AL+9009) | N/A |
-| 26 | [Ultimate Bias](http://twitter.com/search?q=Ultimate+Bias) | N/A |
-| 27 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 28 | [ON THE STREET WITH J-HOPE](http://twitter.com/search?q=ON+THE+STREET+WITH+J-HOPE) | N/A |
-| 29 | [First Bias](http://twitter.com/search?q=First+Bias) | N/A |
-| 30 | [J-HOPE X J. COLE](http://twitter.com/search?q=J-HOPE+X+J.+COLE) | N/A |
-| 31 | [HOBI LIVE](http://twitter.com/search?q=HOBI+LIVE) | N/A |
-| 32 | [うさぎの日](http://twitter.com/search?q=%e3%81%86%e3%81%95%e3%81%8e%e3%81%ae%e6%97%a5) | N/A |
-| 33 | [ブルロ展](http://twitter.com/search?q=%e3%83%96%e3%83%ab%e3%83%ad%e5%b1%95) | ブルロ展 is an exhibition of the works of French artist Paul Cézanne. The English translation of the phrase is "Cézanne Exhibition". |
-| 34 | [RED RUBY](http://twitter.com/search?q=RED+RUBY) | N/A |
-| 35 | [1 Day Left For Bodh Diwas](http://twitter.com/search?q=1+Day+Left+For+Bodh+Diwas) | N/A |
-| 36 | [七七ちゃん](http://twitter.com/search?q=%e4%b8%83%e4%b8%83%e3%81%a1%e3%82%83%e3%82%93) | 七七ちゃん is a nickname for the Japanese singer, Nana Mizuki. It is derived from her given name, Nana, which can be written as 七 in Japanese. The nickname is used affectionately by her fans. In English, it would be translated as "Nana-chan". |
-| 37 | [ALL I WANTED](http://twitter.com/search?q=ALL+I+WANTED) | N/A |
+| 1 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 2 | [#on_the_street](http://twitter.com/search?q=%23on_the_street) | N/A |
+| 3 | [ひな祭り](http://twitter.com/search?q=%e3%81%b2%e3%81%aa%e7%a5%ad%e3%82%8a) | N/A |
+| 4 | [#RedRubyDaSleaze](http://twitter.com/search?q=%23RedRubyDaSleaze) | N/A |
+| 5 | [#KanivaxBible](http://twitter.com/search?q=%23KanivaxBible) | N/A |
+| 6 | [Sergipe](http://twitter.com/search?q=Sergipe) | N/A |
+| 7 | [#33YinShopeeWar](http://twitter.com/search?q=%2333YinShopeeWar) | N/A |
+| 8 | [ちらし寿司](http://twitter.com/search?q=%e3%81%a1%e3%82%89%e3%81%97%e5%af%bf%e5%8f%b8) | N/A |
+| 9 | [ひなまつり](http://twitter.com/search?q=%e3%81%b2%e3%81%aa%e3%81%be%e3%81%a4%e3%82%8a) | N/A |
+| 10 | [Botafogo](http://twitter.com/search?q=Botafogo) | Botafogo is a neighborhood in Rio de Janeiro, Brazil. The name Botafogo comes from the Portuguese phrase "bota fogo," which means "set fire." It is believed to have originated from a local legend about a brave warrior who set fire to the enemy's boats during a battle. |
+| 11 | [#LavenderHazeMusicVideo](http://twitter.com/search?q=%23LavenderHazeMusicVideo) | #LavenderHazeMusicVideo is a hashtag used to promote the music video for the song "Lavender Haze" by the artist Masego. The song is about embracing and celebrating one's uniqueness and individuality. |
+| 12 | [桃の節句](http://twitter.com/search?q=%e6%a1%83%e3%81%ae%e7%af%80%e5%8f%a5) | N/A |
+| 13 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 14 | [フジロック](http://twitter.com/search?q=%e3%83%95%e3%82%b8%e3%83%ad%e3%83%83%e3%82%af) | フジロック is a popular Japanese music festival held annually in Naeba Ski Resort, Niigata Prefecture. The festival was first held in 1997 and has since become one of the largest music festivals in Japan, attracting over 100,000 people each year. In English, "フジロック" translates to "Fuji Rock Festival". |
+| 15 | [NICE TO MEET YOU BUILD](http://twitter.com/search?q=NICE+TO+MEET+YOU+BUILD) | N/A |
+| 16 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
+| 17 | [33 ShopeeYin](http://twitter.com/search?q=33+ShopeeYin) | N/A |
+| 18 | [dawon](http://twitter.com/search?q=dawon) | N/A |
+| 19 | [ブルロ展](http://twitter.com/search?q=%e3%83%96%e3%83%ab%e3%83%ad%e5%b1%95) | ブルロ展 is an exhibition of the works of French artist Paul Cézanne. The English translation of the phrase is "Cézanne Exhibition". |
+| 20 | [JUNG HOSEOK](http://twitter.com/search?q=JUNG+HOSEOK) | Jung Hoseok is the stage name of South Korean singer, songwriter, and dancer, J-Hope. He is a member of the K-pop boy group BTS. The name "Jung Hoseok" translates to "One Hope" in English. |
+| 21 | [cole hyung](http://twitter.com/search?q=cole+hyung) | N/A |
+| 22 | [ひなあられ](http://twitter.com/search?q=%e3%81%b2%e3%81%aa%e3%81%82%e3%82%89%e3%82%8c) | N/A |
+| 23 | [しずくの謎解き成功](http://twitter.com/search?q=%e3%81%97%e3%81%9a%e3%81%8f%e3%81%ae%e8%ac%8e%e8%a7%a3%e3%81%8d%e6%88%90%e5%8a%9f) | N/A |
+| 24 | [STILL ALIVE OUT NOW](http://twitter.com/search?q=STILL+ALIVE+OUT+NOW) | N/A |
+| 25 | [あと半日](http://twitter.com/search?q=%e3%81%82%e3%81%a8%e5%8d%8a%e6%97%a5) | あと半日 is a Japanese phrase that translates to "half a day left" in English. It is used to express that there is only a short amount of time remaining before something is due or finished. |
+| 26 | [WHO IN SEVENTEEN](http://twitter.com/search?q=WHO+IN+SEVENTEEN) | N/A |
+| 27 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 28 | [Luda](http://twitter.com/search?q=Luda) | N/A |
+| 29 | [Ultimate Bias](http://twitter.com/search?q=Ultimate+Bias) | N/A |
+| 30 | [kali uchis](http://twitter.com/search?q=kali+uchis) | N/A |
+| 31 | [First Bias](http://twitter.com/search?q=First+Bias) | N/A |
+| 32 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
+| 33 | [Walgreens](http://twitter.com/search?q=Walgreens) | N/A |
+| 34 | [Hayırlı Cumalar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Cumalar) | "Hayırlı Cumalar" is a Turkish phrase that translates to "Have a Good Friday." It is typically used as a greeting on the Islamic holy day of Friday. |
+| 35 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
+| 36 | [Simplus x Bright](http://twitter.com/search?q=Simplus+x+Bright) | N/A |
+| 37 | [1 Day Left For Bodh Diwas](http://twitter.com/search?q=1+Day+Left+For+Bodh+Diwas) | N/A |
 | 38 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
-| 39 | [Lamb](http://twitter.com/search?q=Lamb) | Lamb is a young sheep, usually less than one year old. It is also used as a term of endearment for a young child. The word comes from the Old English “lamb”, which means “young sheep”. |
-| 40 | [ちいかわの一人称](http://twitter.com/search?q=%e3%81%a1%e3%81%84%e3%81%8b%e3%82%8f%e3%81%ae%e4%b8%80%e4%ba%ba%e7%a7%b0) | N/A |
-| 41 | [Bráulio](http://twitter.com/search?q=Br%c3%a1ulio) | N/A |
-| 42 | [LUCILA AL 9009](http://twitter.com/search?q=LUCILA+AL+9009) | N/A |
-| 43 | [R to V](http://twitter.com/search?q=R+to+V) | N/A |
-| 44 | [プトマヨ復活](http://twitter.com/search?q=%e3%83%97%e3%83%88%e3%83%9e%e3%83%a8%e5%be%a9%e6%b4%bb) | N/A |
-| 45 | [Hayırlı Cumalar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Cumalar) | "Hayırlı Cumalar" is a Turkish phrase that translates to "Have a Good Friday." It is typically used as a greeting on the Islamic holy day of Friday. |
-| 46 | [Fearne](http://twitter.com/search?q=Fearne) | N/A |
-| 47 | [スギ花粉ピーク](http://twitter.com/search?q=%e3%82%b9%e3%82%ae%e8%8a%b1%e7%b2%89%e3%83%94%e3%83%bc%e3%82%af) | N/A |
-| 48 | [ハイパーインフレーション](http://twitter.com/search?q=%e3%83%8f%e3%82%a4%e3%83%91%e3%83%bc%e3%82%a4%e3%83%b3%e3%83%95%e3%83%ac%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3) | ハイパーインフレーション is a term used to describe a situation in which the rate of inflation is extremely high. It is a phenomenon that occurs when prices rise rapidly and the value of money decreases significantly. In English, it can be translated as "hyperinflation". |
-| 49 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
-| 50 | [BREAKING LAWS](http://twitter.com/search?q=BREAKING+LAWS) | N/A |
+| 39 | [七七ちゃん](http://twitter.com/search?q=%e4%b8%83%e4%b8%83%e3%81%a1%e3%82%83%e3%82%93) | 七七ちゃん is a nickname for the Japanese singer, Nana Mizuki. It is derived from her given name, Nana, which can be written as 七 in Japanese. The nickname is used affectionately by her fans. In English, it would be translated as "Nana-chan". |
+| 40 | [JULIETA AL 9009](http://twitter.com/search?q=JULIETA+AL+9009) | N/A |
+| 41 | [うさぎの日](http://twitter.com/search?q=%e3%81%86%e3%81%95%e3%81%8e%e3%81%ae%e6%97%a5) | N/A |
+| 42 | [Alex Murdaugh](http://twitter.com/search?q=Alex+Murdaugh) | N/A |
+| 43 | [楽しんご](http://twitter.com/search?q=%e6%a5%bd%e3%81%97%e3%82%93%e3%81%94) | N/A |
+| 44 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 45 | [Mang](http://twitter.com/search?q=Mang) | N/A |
+| 46 | [Travis Head](http://twitter.com/search?q=Travis+Head) | N/A |
+| 47 | [あなたの性座](http://twitter.com/search?q=%e3%81%82%e3%81%aa%e3%81%9f%e3%81%ae%e6%80%a7%e5%ba%a7) | N/A |
+| 48 | [ブルーロック展](http://twitter.com/search?q=%e3%83%96%e3%83%ab%e3%83%bc%e3%83%ad%e3%83%83%e3%82%af%e5%b1%95) | ブルーロック展 is a Japanese art exhibition that focuses on the works of artists who specialize in the blue rock style. The term "blue rock" refers to a type of abstract painting that uses blue as its primary color. The exhibition showcases the works of these artists, and provides an opportunity for viewers to appreciate their unique styles and techniques. In English, it can be translated as "Blue Rock Exhibition". |
+| 49 | [ALL I WANTED](http://twitter.com/search?q=ALL+I+WANTED) | N/A |
+| 50 | [今江くん](http://twitter.com/search?q=%e4%bb%8a%e6%b1%9f%e3%81%8f%e3%82%93) | 今江くん is a nickname for the Japanese actor, Imaizumi Kengo. It is a combination of his given name and the honorific suffix “-kun”, which is used to refer to young men in a friendly or familiar way. In English, it would be translated as “Kengo-kun”. |
 
 
 

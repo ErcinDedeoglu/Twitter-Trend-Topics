@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Las Palmas
 
-📆 Last Updated: `2023-03-03 05:19:38 UTC`
+📆 Last Updated: `2023-03-03 06:17:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,28 +21,28 @@ This is top 50 for [Spain](</Spain>)
 | 4 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
 | 5 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
 | 6 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
-| 7 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
-| 8 | [#ElClasico](http://twitter.com/search?q=%23ElClasico) | #ElClasico is a term used to refer to the football (soccer) match between two of the biggest clubs in Spain, Real Madrid and FC Barcelona. It is one of the most highly anticipated matches in world football and is considered to be one of the greatest rivalries in sport. In English, it translates to "The Classic". |
-| 9 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 10 | [#lacopartve](http://twitter.com/search?q=%23lacopartve) | N/A |
+| 7 | [#ElClasico](http://twitter.com/search?q=%23ElClasico) | #ElClasico is a term used to refer to the football (soccer) match between two of the biggest clubs in Spain, Real Madrid and FC Barcelona. It is one of the most highly anticipated matches in world football and is considered to be one of the greatest rivalries in sport. In English, it translates to "The Classic". |
+| 8 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
+| 9 | [#LaCopaRTVE](http://twitter.com/search?q=%23LaCopaRTVE) | N/A |
+| 10 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
 | 11 | [#CoverNight](http://twitter.com/search?q=%23CoverNight) | N/A |
 | 12 | [Bernabéu](http://twitter.com/search?q=Bernab%c3%a9u) | Bernabéu is the name of the home stadium of Spanish football club Real Madrid. It is officially known as Estadio Santiago Bernabéu, named after the former club president Santiago Bernabéu. In English, it is referred to as the Santiago Bernabéu Stadium. |
-| 13 | [Jong](http://twitter.com/search?q=Jong) | N/A |
-| 14 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
-| 15 | [Tito Berni](http://twitter.com/search?q=Tito+Berni) | N/A |
+| 13 | [Tito Berni](http://twitter.com/search?q=Tito+Berni) | N/A |
+| 14 | [De Jong](http://twitter.com/search?q=De+Jong) | De Jong is a Dutch surname. It is derived from the personal name Jan, which is a form of John. The literal meaning of the name in English is "son of John". |
+| 15 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
 | 16 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 17 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 18 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
+| 17 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
+| 18 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
 | 19 | [Holanda](http://twitter.com/search?q=Holanda) | N/A |
-| 20 | [Cataluña](http://twitter.com/search?q=Catalu%c3%b1a) | N/A |
-| 21 | [PSOE](http://twitter.com/search?q=PSOE) | N/A |
+| 20 | [PSOE](http://twitter.com/search?q=PSOE) | N/A |
+| 21 | [Cataluña](http://twitter.com/search?q=Catalu%c3%b1a) | N/A |
 | 22 | [juan carlos rivero](http://twitter.com/search?q=juan+carlos+rivero) | N/A |
 | 23 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
 | 24 | [Países Bajos](http://twitter.com/search?q=Pa%c3%adses+Bajos) | N/A |
 | 25 | [La RAE](http://twitter.com/search?q=La+RAE) | N/A |
-| 26 | [Adara](http://twitter.com/search?q=Adara) | N/A |
-| 27 | [Munuera](http://twitter.com/search?q=Munuera) | N/A |
-| 28 | [Miguel Bosé](http://twitter.com/search?q=Miguel+Bos%c3%a9) | N/A |
+| 26 | [Munuera](http://twitter.com/search?q=Munuera) | N/A |
+| 27 | [Miguel Bosé](http://twitter.com/search?q=Miguel+Bos%c3%a9) | N/A |
+| 28 | [Adara](http://twitter.com/search?q=Adara) | N/A |
 | 29 | [Marcos Alonso](http://twitter.com/search?q=Marcos+Alonso) | Marcos Alonso is a Spanish professional footballer who plays as a left back for Premier League club Chelsea and the Spanish national team. His name is derived from the Spanish words "mar" (sea) and "cos" (order). In English, his name translates to "ordered sea". |
 | 30 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
 | 31 | [Andalucía](http://twitter.com/search?q=Andaluc%c3%ada) | N/A |
@@ -52,16 +52,16 @@ This is top 50 for [Spain](</Spain>)
 | 35 | [Abde](http://twitter.com/search?q=Abde) | Abde is a name of Arabic origin that means "servant of God". |
 | 36 | [Ter Stegen](http://twitter.com/search?q=Ter+Stegen) | Ter Stegen is the surname of German professional footballer Marc-André ter Stegen. He currently plays as a goalkeeper for FC Barcelona and the German national team. In English, Ter Stegen means "from Stegen", referring to his hometown of Mönchengladbach, Germany. |
 | 37 | [Del Pino](http://twitter.com/search?q=Del+Pino) | N/A |
-| 38 | [Raquel Mosquera](http://twitter.com/search?q=Raquel+Mosquera) | N/A |
-| 39 | [El ÚNICO](http://twitter.com/search?q=El+%c3%9aNICO) | N/A |
-| 40 | [El C1](http://twitter.com/search?q=El+C1) | N/A |
-| 41 | [Christensen](http://twitter.com/search?q=Christensen) | Christensen is a Danish and Norwegian surname derived from the given name Christian. It is the most common surname in Denmark, where it is shared by about 1.7% of the population. In English, Christensen means "son of Christian". |
+| 38 | [el c1](http://twitter.com/search?q=el+c1) | N/A |
+| 39 | [Christensen](http://twitter.com/search?q=Christensen) | Christensen is a Danish and Norwegian surname derived from the given name Christian. It is the most common surname in Denmark, where it is shared by about 1.7% of the population. In English, Christensen means "son of Christian". |
+| 40 | [Raquel Mosquera](http://twitter.com/search?q=Raquel+Mosquera) | N/A |
+| 41 | [El ÚNICO](http://twitter.com/search?q=El+%c3%9aNICO) | N/A |
 | 42 | [Mediador](http://twitter.com/search?q=Mediador) | N/A |
-| 43 | [Militao](http://twitter.com/search?q=Militao) | Militão is a Portuguese name derived from the Latin word militare, meaning “to serve in the military”. In English, it can be translated to mean “soldier” or “warrior”. |
-| 44 | [Alsina](http://twitter.com/search?q=Alsina) | N/A |
-| 45 | [Laura Madrueño](http://twitter.com/search?q=Laura+Madrue%c3%b1o) | N/A |
-| 46 | [Katerina](http://twitter.com/search?q=Katerina) | N/A |
-| 47 | [Ginés](http://twitter.com/search?q=Gin%c3%a9s) | N/A |
+| 43 | [Laura Madrueño](http://twitter.com/search?q=Laura+Madrue%c3%b1o) | N/A |
+| 44 | [Katerina](http://twitter.com/search?q=Katerina) | N/A |
+| 45 | [Ginés](http://twitter.com/search?q=Gin%c3%a9s) | N/A |
+| 46 | [Alsina](http://twitter.com/search?q=Alsina) | N/A |
+| 47 | [Militao](http://twitter.com/search?q=Militao) | Militão is a Portuguese name derived from the Latin word militare, meaning “to serve in the military”. In English, it can be translated to mean “soldier” or “warrior”. |
 | 48 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
 | 49 | [Carletto](http://twitter.com/search?q=Carletto) | N/A |
 

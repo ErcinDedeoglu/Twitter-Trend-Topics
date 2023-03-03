@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Krasnoyarsk
 
-📆 Last Updated: `2023-03-03 05:19:53 UTC`
+📆 Last Updated: `2023-03-03 06:17:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,7 +15,7 @@ This is top 50 for [Russia](</Russia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Pretty Coooool](http://twitter.com/search?q=Pretty+Coooool) | Pretty Coooool is an expression of enthusiasm or approval. It is often used to express excitement or admiration for something. In English, it can be translated to mean "very cool" or "awesome". |
+| 1 | [pretty coooool](http://twitter.com/search?q=pretty+coooool) | N/A |
 | 2 | [Users](http://twitter.com/search?q=Users) | N/A |
 | 3 | [Employ](http://twitter.com/search?q=Employ) | N/A |
 | 4 | [Boss](http://twitter.com/search?q=Boss) | N/A |
@@ -23,7 +23,7 @@ This is top 50 for [Russia](</Russia>)
 | 6 | [Insider](http://twitter.com/search?q=Insider) | N/A |
 | 7 | [Smart](http://twitter.com/search?q=Smart) | N/A |
 | 8 | [#нюдсочетверг](http://twitter.com/search?q=%23%d0%bd%d1%8e%d0%b4%d1%81%d0%be%d1%87%d0%b5%d1%82%d0%b2%d0%b5%d1%80%d0%b3) | N/A |
-| 9 | [Dope xD](http://twitter.com/search?q=Dope+xD) | N/A |
+| 9 | [dope xd](http://twitter.com/search?q=dope+xd) | N/A |
 | 10 | [#Binance](http://twitter.com/search?q=%23Binance) | N/A |
 | 11 | [Logical](http://twitter.com/search?q=Logical) | N/A |
 | 12 | [THEE](http://twitter.com/search?q=THEE) | N/A |
@@ -32,39 +32,39 @@ This is top 50 for [Russia](</Russia>)
 | 15 | [Сайно](http://twitter.com/search?q=%d0%a1%d0%b0%d0%b9%d0%bd%d0%be) | N/A |
 | 16 | [красавчик](http://twitter.com/search?q=%d0%ba%d1%80%d0%b0%d1%81%d0%b0%d0%b2%d1%87%d0%b8%d0%ba) | N/A |
 | 17 | [Кавеха](http://twitter.com/search?q=%d0%9a%d0%b0%d0%b2%d0%b5%d1%85%d0%b0) | N/A |
-| 18 | [аминь](http://twitter.com/search?q=%d0%b0%d0%bc%d0%b8%d0%bd%d1%8c) | N/A |
-| 19 | [с днём рождения](http://twitter.com/search?q=%d1%81+%d0%b4%d0%bd%d1%91%d0%bc+%d1%80%d0%be%d0%b6%d0%b4%d0%b5%d0%bd%d0%b8%d1%8f) | N/A |
-| 20 | [#NFTs](http://twitter.com/search?q=%23NFTs) | N/A |
-| 21 | [японии](http://twitter.com/search?q=%d1%8f%d0%bf%d0%be%d0%bd%d0%b8%d0%b8) | N/A |
-| 22 | [антона](http://twitter.com/search?q=%d0%b0%d0%bd%d1%82%d0%be%d0%bd%d0%b0) | N/A |
-| 23 | [Возможно](http://twitter.com/search?q=%d0%92%d0%be%d0%b7%d0%bc%d0%be%d0%b6%d0%bd%d0%be) | N/A |
-| 24 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
-| 25 | [навальный](http://twitter.com/search?q=%d0%bd%d0%b0%d0%b2%d0%b0%d0%bb%d1%8c%d0%bd%d1%8b%d0%b9) | N/A |
-| 26 | [Яндекс](http://twitter.com/search?q=%d0%af%d0%bd%d0%b4%d0%b5%d0%ba%d1%81) | N/A |
-| 27 | [лучшая](http://twitter.com/search?q=%d0%bb%d1%83%d1%87%d1%88%d0%b0%d1%8f) | N/A |
-| 28 | [Скорее](http://twitter.com/search?q=%d0%a1%d0%ba%d0%be%d1%80%d0%b5%d0%b5) | N/A |
-| 29 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 30 | [ВЕСНА](http://twitter.com/search?q=%d0%92%d0%95%d0%a1%d0%9d%d0%90) | N/A |
-| 31 | [обожаю](http://twitter.com/search?q=%d0%be%d0%b1%d0%be%d0%b6%d0%b0%d1%8e) | N/A |
-| 32 | [лучший](http://twitter.com/search?q=%d0%bb%d1%83%d1%87%d1%88%d0%b8%d0%b9) | N/A |
-| 33 | [питере](http://twitter.com/search?q=%d0%bf%d0%b8%d1%82%d0%b5%d1%80%d0%b5) | N/A |
-| 34 | [слушай](http://twitter.com/search?q=%d1%81%d0%bb%d1%83%d1%88%d0%b0%d0%b9) | N/A |
-| 35 | [В России](http://twitter.com/search?q=%d0%92+%d0%a0%d0%be%d1%81%d1%81%d0%b8%d0%b8) | N/A |
-| 36 | [вполне](http://twitter.com/search?q=%d0%b2%d0%bf%d0%be%d0%bb%d0%bd%d0%b5) | N/A |
-| 37 | [Бога](http://twitter.com/search?q=%d0%91%d0%be%d0%b3%d0%b0) | N/A |
-| 38 | [ЧВК Редан](http://twitter.com/search?q=%d0%a7%d0%92%d0%9a+%d0%a0%d0%b5%d0%b4%d0%b0%d0%bd) | N/A |
-| 39 | [дада](http://twitter.com/search?q=%d0%b4%d0%b0%d0%b4%d0%b0) | N/A |
-| 40 | [#архитектура](http://twitter.com/search?q=%23%d0%b0%d1%80%d1%85%d0%b8%d1%82%d0%b5%d0%ba%d1%82%d1%83%d1%80%d0%b0) | N/A |
-| 41 | [#Crypto](http://twitter.com/search?q=%23Crypto) | N/A |
-| 42 | [вижу](http://twitter.com/search?q=%d0%b2%d0%b8%d0%b6%d1%83) | N/A |
-| 43 | [Арсения](http://twitter.com/search?q=%d0%90%d1%80%d1%81%d0%b5%d0%bd%d0%b8%d1%8f) | N/A |
-| 44 | [пусть](http://twitter.com/search?q=%d0%bf%d1%83%d1%81%d1%82%d1%8c) | N/A |
-| 45 | [Гитлера](http://twitter.com/search?q=%d0%93%d0%b8%d1%82%d0%bb%d0%b5%d1%80%d0%b0) | N/A |
-| 46 | [Ждём](http://twitter.com/search?q=%d0%96%d0%b4%d1%91%d0%bc) | N/A |
-| 47 | [насколько](http://twitter.com/search?q=%d0%bd%d0%b0%d1%81%d0%ba%d0%be%d0%bb%d1%8c%d0%ba%d0%be) | N/A |
-| 48 | [жаль](http://twitter.com/search?q=%d0%b6%d0%b0%d0%bb%d1%8c) | N/A |
-| 49 | [Ахах](http://twitter.com/search?q=%d0%90%d1%85%d0%b0%d1%85) | N/A |
-| 50 | [Европу](http://twitter.com/search?q=%d0%95%d0%b2%d1%80%d0%be%d0%bf%d1%83) | N/A |
+| 18 | [С Днём Рождения](http://twitter.com/search?q=%d0%a1+%d0%94%d0%bd%d1%91%d0%bc+%d0%a0%d0%be%d0%b6%d0%b4%d0%b5%d0%bd%d0%b8%d1%8f) | N/A |
+| 19 | [#NFTs](http://twitter.com/search?q=%23NFTs) | N/A |
+| 20 | [японии](http://twitter.com/search?q=%d1%8f%d0%bf%d0%be%d0%bd%d0%b8%d0%b8) | N/A |
+| 21 | [антона](http://twitter.com/search?q=%d0%b0%d0%bd%d1%82%d0%be%d0%bd%d0%b0) | N/A |
+| 22 | [Аминь](http://twitter.com/search?q=%d0%90%d0%bc%d0%b8%d0%bd%d1%8c) | N/A |
+| 23 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
+| 24 | [навальный](http://twitter.com/search?q=%d0%bd%d0%b0%d0%b2%d0%b0%d0%bb%d1%8c%d0%bd%d1%8b%d0%b9) | N/A |
+| 25 | [яндекс](http://twitter.com/search?q=%d1%8f%d0%bd%d0%b4%d0%b5%d0%ba%d1%81) | N/A |
+| 26 | [лучшая](http://twitter.com/search?q=%d0%bb%d1%83%d1%87%d1%88%d0%b0%d1%8f) | N/A |
+| 27 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 28 | [ВЕСНА](http://twitter.com/search?q=%d0%92%d0%95%d0%a1%d0%9d%d0%90) | N/A |
+| 29 | [обожаю](http://twitter.com/search?q=%d0%be%d0%b1%d0%be%d0%b6%d0%b0%d1%8e) | N/A |
+| 30 | [Лучший](http://twitter.com/search?q=%d0%9b%d1%83%d1%87%d1%88%d0%b8%d0%b9) | N/A |
+| 31 | [питере](http://twitter.com/search?q=%d0%bf%d0%b8%d1%82%d0%b5%d1%80%d0%b5) | N/A |
+| 32 | [В России](http://twitter.com/search?q=%d0%92+%d0%a0%d0%be%d1%81%d1%81%d0%b8%d0%b8) | N/A |
+| 33 | [слушай](http://twitter.com/search?q=%d1%81%d0%bb%d1%83%d1%88%d0%b0%d0%b9) | N/A |
+| 34 | [вполне](http://twitter.com/search?q=%d0%b2%d0%bf%d0%be%d0%bb%d0%bd%d0%b5) | N/A |
+| 35 | [Бога](http://twitter.com/search?q=%d0%91%d0%be%d0%b3%d0%b0) | N/A |
+| 36 | [ЧВК Редан](http://twitter.com/search?q=%d0%a7%d0%92%d0%9a+%d0%a0%d0%b5%d0%b4%d0%b0%d0%bd) | N/A |
+| 37 | [дада](http://twitter.com/search?q=%d0%b4%d0%b0%d0%b4%d0%b0) | N/A |
+| 38 | [#архитектура](http://twitter.com/search?q=%23%d0%b0%d1%80%d1%85%d0%b8%d1%82%d0%b5%d0%ba%d1%82%d1%83%d1%80%d0%b0) | N/A |
+| 39 | [#crypto](http://twitter.com/search?q=%23crypto) | N/A |
+| 40 | [вижу](http://twitter.com/search?q=%d0%b2%d0%b8%d0%b6%d1%83) | N/A |
+| 41 | [Арсения](http://twitter.com/search?q=%d0%90%d1%80%d1%81%d0%b5%d0%bd%d0%b8%d1%8f) | N/A |
+| 42 | [пусть](http://twitter.com/search?q=%d0%bf%d1%83%d1%81%d1%82%d1%8c) | N/A |
+| 43 | [Гитлера](http://twitter.com/search?q=%d0%93%d0%b8%d1%82%d0%bb%d0%b5%d1%80%d0%b0) | N/A |
+| 44 | [ждём](http://twitter.com/search?q=%d0%b6%d0%b4%d1%91%d0%bc) | N/A |
+| 45 | [насколько](http://twitter.com/search?q=%d0%bd%d0%b0%d1%81%d0%ba%d0%be%d0%bb%d1%8c%d0%ba%d0%be) | N/A |
+| 46 | [жаль](http://twitter.com/search?q=%d0%b6%d0%b0%d0%bb%d1%8c) | N/A |
+| 47 | [Ахах](http://twitter.com/search?q=%d0%90%d1%85%d0%b0%d1%85) | N/A |
+| 48 | [Европу](http://twitter.com/search?q=%d0%95%d0%b2%d1%80%d0%be%d0%bf%d1%83) | N/A |
+| 49 | [Правильно](http://twitter.com/search?q=%d0%9f%d1%80%d0%b0%d0%b2%d0%b8%d0%bb%d1%8c%d0%bd%d0%be) | N/A |
+| 50 | [Красиво](http://twitter.com/search?q=%d0%9a%d1%80%d0%b0%d1%81%d0%b8%d0%b2%d0%be) | N/A |
 
 
 

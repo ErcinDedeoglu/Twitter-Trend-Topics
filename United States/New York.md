@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-03-03 05:20:05 UTC`
+📆 Last Updated: `2023-03-03 06:17:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 2 | [Mikkola](http://twitter.com/search?q=Mikkola) | N/A |
-| 3 | [Tarasenko](http://twitter.com/search?q=Tarasenko) | N/A |
+| 1 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 2 | [Tarasenko](http://twitter.com/search?q=Tarasenko) | N/A |
+| 3 | [#RHOM](http://twitter.com/search?q=%23RHOM) | N/A |
 | 4 | [Dallas](http://twitter.com/search?q=Dallas) | Dallas is a city in the U.S. state of Texas. It is the ninth most populous city in the United States and the third-largest in Texas after Houston and San Antonio. The city's population ranks ninth in the U.S. and third in Texas after Houston and San Antonio. Dallas is known for its oil, telecommunications, banking, technology, healthcare, defense, transportation, and commerce industries. |
-| 5 | [Dahlin](http://twitter.com/search?q=Dahlin) | Dahlin is a term of endearment, similar to sweetheart or darling. It is often used as a term of affection between family members, friends, and romantic partners. |
-| 6 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
-| 7 | [Ottawa](http://twitter.com/search?q=Ottawa) | N/A |
-| 8 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 9 | [#LavenderHazeMusicVideo](http://twitter.com/search?q=%23LavenderHazeMusicVideo) | #LavenderHazeMusicVideo is a hashtag used to promote the music video for the song "Lavender Haze" by the artist Masego. The song is about embracing and celebrating one's uniqueness and individuality. |
-| 10 | [#RedRubyDaSleaze](http://twitter.com/search?q=%23RedRubyDaSleaze) | N/A |
-| 11 | [#CriticalRoleSpoilers](http://twitter.com/search?q=%23CriticalRoleSpoilers) | #CriticalRoleSpoilers is a hashtag used on social media to warn people that a post contains spoilers for the popular Dungeons & Dragons web series Critical Role. It is used to alert viewers who have not yet seen the episode or read the source material that the post contains information that could spoil their experience. |
-| 12 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 13 | [JHOPE COLE](http://twitter.com/search?q=JHOPE+COLE) | N/A |
-| 14 | [Walgreens](http://twitter.com/search?q=Walgreens) | N/A |
-| 15 | [#GuraTV](http://twitter.com/search?q=%23GuraTV) | N/A |
-| 16 | [Alex Murdaugh](http://twitter.com/search?q=Alex+Murdaugh) | N/A |
-| 17 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
-| 18 | [cole hyung](http://twitter.com/search?q=cole+hyung) | N/A |
-| 19 | [#TERRELLS6](http://twitter.com/search?q=%23TERRELLS6) | N/A |
+| 5 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 6 | [#RedRubyDaSleaze](http://twitter.com/search?q=%23RedRubyDaSleaze) | N/A |
+| 7 | [#on_the_street](http://twitter.com/search?q=%23on_the_street) | N/A |
+| 8 | [#LavenderHazeMusicVideo](http://twitter.com/search?q=%23LavenderHazeMusicVideo) | #LavenderHazeMusicVideo is a hashtag used to promote the music video for the song "Lavender Haze" by the artist Masego. The song is about embracing and celebrating one's uniqueness and individuality. |
+| 9 | [#CriticalRoleSpoilers](http://twitter.com/search?q=%23CriticalRoleSpoilers) | #CriticalRoleSpoilers is a hashtag used on social media to warn people that a post contains spoilers for the popular Dungeons & Dragons web series Critical Role. It is used to alert viewers who have not yet seen the episode or read the source material that the post contains information that could spoil their experience. |
+| 10 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
+| 11 | [Walgreens](http://twitter.com/search?q=Walgreens) | N/A |
+| 12 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 13 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 14 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 15 | [dawon](http://twitter.com/search?q=dawon) | N/A |
+| 16 | [cole hyung](http://twitter.com/search?q=cole+hyung) | N/A |
+| 17 | [kali uchis](http://twitter.com/search?q=kali+uchis) | N/A |
+| 18 | [Alex Murdaugh](http://twitter.com/search?q=Alex+Murdaugh) | N/A |
+| 19 | [Morgan Wallen](http://twitter.com/search?q=Morgan+Wallen) | N/A |
 | 20 | [Buster](http://twitter.com/search?q=Buster) | N/A |
-| 21 | [Fearne](http://twitter.com/search?q=Fearne) | N/A |
-| 22 | [COLE WORLD](http://twitter.com/search?q=COLE+WORLD) | N/A |
-| 23 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
-| 24 | [Discover](http://twitter.com/search?q=Discover) | N/A |
-| 25 | [Michigan](http://twitter.com/search?q=Michigan) | Michigan is a state in the Midwestern United States. It is bordered by four of the five Great Lakes, and is the only state to be surrounded by three out of the five. Michigan is known for its diverse landscape, which includes forests, beaches, and rolling hills. The state's name comes from the Ojibwe word "mishigami," which means "large lake." |
-| 26 | [Anthony Lamb](http://twitter.com/search?q=Anthony+Lamb) | Anthony Lamb is a phrase used to describe someone who is indecisive or easily swayed. It comes from the story of Anthony and Cleopatra, in which Anthony was unable to make up his mind between his love for Cleopatra and his loyalty to Rome. |
-| 27 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
-| 28 | [Edey](http://twitter.com/search?q=Edey) | Edey is a slang term used in some parts of the United States to refer to someone who is cool, stylish, or attractive. It can also be used as a term of endearment. |
-| 29 | [Joey Baker](http://twitter.com/search?q=Joey+Baker) | N/A |
-| 30 | [Creed 3](http://twitter.com/search?q=Creed+3) | N/A |
-| 31 | [Donte](http://twitter.com/search?q=Donte) | Donte is a given name of Italian origin, derived from the Latin name "Donatus". It is a variant of the name "Donato" and can be translated to mean "given" or "gift". |
-| 32 | [JUNG HOSEOK](http://twitter.com/search?q=JUNG+HOSEOK) | Jung Hoseok is the stage name of South Korean singer, songwriter, and dancer, J-Hope. He is a member of the K-pop boy group BTS. The name "Jung Hoseok" translates to "One Hope" in English. |
-| 33 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
-| 34 | [Klesmit](http://twitter.com/search?q=Klesmit) | N/A |
-| 35 | [Maxey](http://twitter.com/search?q=Maxey) | Maxey is a surname of English origin. It is derived from the Old English personal name Maccus, which was a diminutive form of Matthew. The meaning of Maxey in English is "son of Maccus". |
-| 36 | [Stephen Smith](http://twitter.com/search?q=Stephen+Smith) | N/A |
-| 37 | [Guilty](http://twitter.com/search?q=Guilty) | In English, "guilty" is an adjective that means responsible for a crime or wrongdoing. It is often used in a legal context to refer to someone who has been found guilty of a crime in a court of law. |
-| 38 | [dawon](http://twitter.com/search?q=dawon) | N/A |
-| 39 | [Metroid Fusion](http://twitter.com/search?q=Metroid+Fusion) | N/A |
-| 40 | [Matt Murray](http://twitter.com/search?q=Matt+Murray) | N/A |
-| 41 | [Hershey](http://twitter.com/search?q=Hershey) | N/A |
-| 42 | [Norman Powell](http://twitter.com/search?q=Norman+Powell) | Norman Powell is a Canadian professional basketball player who currently plays for the Toronto Raptors of the National Basketball Association (NBA). His name is derived from his middle name, Norman, and his last name, Powell. |
-| 43 | [PNC Bank](http://twitter.com/search?q=PNC+Bank) | N/A |
-| 44 | [Nolan Smith](http://twitter.com/search?q=Nolan+Smith) | N/A |
-| 45 | [Kyedae](http://twitter.com/search?q=Kyedae) | N/A |
-| 46 | [Pistol Pete](http://twitter.com/search?q=Pistol+Pete) | N/A |
-| 47 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
-| 48 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
-| 49 | [Inside the NBA](http://twitter.com/search?q=Inside+the+NBA) | N/A |
-| 50 | [Hepburn](http://twitter.com/search?q=Hepburn) | N/A |
+| 21 | [Discover](http://twitter.com/search?q=Discover) | N/A |
+| 22 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
+| 23 | [Creed 3](http://twitter.com/search?q=Creed+3) | N/A |
+| 24 | [Luda](http://twitter.com/search?q=Luda) | N/A |
+| 25 | [Fearne](http://twitter.com/search?q=Fearne) | N/A |
+| 26 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
+| 27 | [Lamb](http://twitter.com/search?q=Lamb) | Lamb is a young sheep, usually less than one year old. It is also used as a term of endearment for a young child. The word comes from the Old English “lamb”, which means “young sheep”. |
+| 28 | [Michigan](http://twitter.com/search?q=Michigan) | Michigan is a state in the Midwestern United States. It is bordered by four of the five Great Lakes, and is the only state to be surrounded by three out of the five. Michigan is known for its diverse landscape, which includes forests, beaches, and rolling hills. The state's name comes from the Ojibwe word "mishigami," which means "large lake." |
+| 29 | [Donte](http://twitter.com/search?q=Donte) | Donte is a given name of Italian origin, derived from the Latin name "Donatus". It is a variant of the name "Donato" and can be translated to mean "given" or "gift". |
+| 30 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
+| 31 | [Bill Walton](http://twitter.com/search?q=Bill+Walton) | N/A |
+| 32 | [Edey](http://twitter.com/search?q=Edey) | Edey is a slang term used in some parts of the United States to refer to someone who is cool, stylish, or attractive. It can also be used as a term of endearment. |
+| 33 | [Klesmit](http://twitter.com/search?q=Klesmit) | N/A |
+| 34 | [Norman Powell](http://twitter.com/search?q=Norman+Powell) | Norman Powell is a Canadian professional basketball player who currently plays for the Toronto Raptors of the National Basketball Association (NBA). His name is derived from his middle name, Norman, and his last name, Powell. |
+| 35 | [Stephen Smith](http://twitter.com/search?q=Stephen+Smith) | N/A |
+| 36 | [Joey Baker](http://twitter.com/search?q=Joey+Baker) | N/A |
+| 37 | [Pistol Pete](http://twitter.com/search?q=Pistol+Pete) | N/A |
+| 38 | [Kuminga](http://twitter.com/search?q=Kuminga) | Kuminga is a given name of African origin, derived from the Kikuyu language of Kenya. It means "the one who comes first" or "the firstborn". |
+| 39 | [PNC Bank](http://twitter.com/search?q=PNC+Bank) | N/A |
+| 40 | [Maxey](http://twitter.com/search?q=Maxey) | Maxey is a surname of English origin. It is derived from the Old English personal name Maccus, which was a diminutive form of Matthew. The meaning of Maxey in English is "son of Maccus". |
+| 41 | [Metroid Fusion](http://twitter.com/search?q=Metroid+Fusion) | N/A |
+| 42 | [Hershey](http://twitter.com/search?q=Hershey) | N/A |
+| 43 | [Guilty](http://twitter.com/search?q=Guilty) | In English, "guilty" is an adjective that means responsible for a crime or wrongdoing. It is often used in a legal context to refer to someone who has been found guilty of a crime in a court of law. |
+| 44 | [Matt Murray](http://twitter.com/search?q=Matt+Murray) | N/A |
+| 45 | [Imogen](http://twitter.com/search?q=Imogen) | N/A |
+| 46 | [Kyedae](http://twitter.com/search?q=Kyedae) | N/A |
+| 47 | [Picard](http://twitter.com/search?q=Picard) | N/A |
+| 48 | [Nolan Smith](http://twitter.com/search?q=Nolan+Smith) | N/A |
+| 49 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
+| 50 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
 
 
 

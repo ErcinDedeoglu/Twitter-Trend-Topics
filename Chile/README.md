@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chile
 
-📆 Last Updated: `2023-03-03 05:20:10 UTC`
+📆 Last Updated: `2023-03-03 06:17:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Chile
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Orsini](http://twitter.com/search?q=Orsini) | Orsini is an Italian surname derived from the Latin name Ursinus, meaning "bear-like". It is most commonly associated with the powerful Orsini family of Rome, who were influential in Italian politics during the Middle Ages and Renaissance. |
-| 2 | [#VamosLaU](http://twitter.com/search?q=%23VamosLaU) | #VamosLaU is a popular hashtag used by fans of the Universidad de Chile, a Chilean football team. It translates to "Let's go U!" and is used to show support for the team. |
+| 1 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 2 | [Orsini](http://twitter.com/search?q=Orsini) | Orsini is an Italian surname derived from the Latin name Ursinus, meaning "bear-like". It is most commonly associated with the powerful Orsini family of Rome, who were influential in Italian politics during the Middle Ages and Renaissance. |
 | 3 | [#LeyTEA](http://twitter.com/search?q=%23LeyTEA) | N/A |
-| 4 | [Poblete](http://twitter.com/search?q=Poblete) | N/A |
-| 5 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
-| 6 | [#LibertadoresxCHV](http://twitter.com/search?q=%23LibertadoresxCHV) | N/A |
-| 7 | [#SquidCraft2](http://twitter.com/search?q=%23SquidCraft2) | N/A |
-| 8 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 9 | [Valdivia](http://twitter.com/search?q=Valdivia) | N/A |
-| 10 | [Petro](http://twitter.com/search?q=Petro) | N/A |
-| 11 | [Magallanes](http://twitter.com/search?q=Magallanes) | Magallanes is a Spanish surname, derived from the name of the 16th-century explorer Ferdinand Magellan. In English, it means "Magellan". |
-| 12 | [Mateos](http://twitter.com/search?q=Mateos) | N/A |
-| 13 | [Fernández](http://twitter.com/search?q=Fern%c3%a1ndez) | N/A |
-| 14 | [Bibi](http://twitter.com/search?q=Bibi) | N/A |
-| 15 | [Pellegrino](http://twitter.com/search?q=Pellegrino) | Pellegrino is an Italian mineral water brand. It is derived from the Italian word "Pellegrino", which means "pilgrim". The name was chosen to evoke the spirit of pilgrimage and discovery. |
+| 4 | [#on_the_street](http://twitter.com/search?q=%23on_the_street) | N/A |
+| 5 | [#VamosLaU](http://twitter.com/search?q=%23VamosLaU) | #VamosLaU is a popular hashtag used by fans of the Universidad de Chile, a Chilean football team. It translates to "Let's go U!" and is used to show support for the team. |
+| 6 | [#libertadoresxchv](http://twitter.com/search?q=%23libertadoresxchv) | N/A |
+| 7 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
+| 8 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 9 | [#SquidCraft2](http://twitter.com/search?q=%23SquidCraft2) | N/A |
+| 10 | [Valdivia](http://twitter.com/search?q=Valdivia) | N/A |
+| 11 | [Petro](http://twitter.com/search?q=Petro) | N/A |
+| 12 | [Poblete](http://twitter.com/search?q=Poblete) | N/A |
+| 13 | [Magallanes](http://twitter.com/search?q=Magallanes) | Magallanes is a Spanish surname, derived from the name of the 16th-century explorer Ferdinand Magellan. In English, it means "Magellan". |
+| 14 | [Mateos](http://twitter.com/search?q=Mateos) | N/A |
+| 15 | [Leandro Fernández](http://twitter.com/search?q=Leandro+Fern%c3%a1ndez) | N/A |
 | 16 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 17 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 18 | [#on_the_street](http://twitter.com/search?q=%23on_the_street) | N/A |
-| 19 | [Always Ready](http://twitter.com/search?q=Always+Ready) | N/A |
-| 20 | [Assadi](http://twitter.com/search?q=Assadi) | Assadi is an Arabic name that means "blessed". It is also used as a surname. |
-| 21 | [Palta](http://twitter.com/search?q=Palta) | N/A |
-| 22 | [Carabineros](http://twitter.com/search?q=Carabineros) | N/A |
-| 23 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
-| 24 | [Osorio](http://twitter.com/search?q=Osorio) | Osorio is a Spanish surname. It is derived from the Latin word "osor" which means "fear". In English, it can be translated to mean "fearful". |
-| 25 | [Winnie the Pooh](http://twitter.com/search?q=Winnie+the+Pooh) | N/A |
-| 26 | [Calera](http://twitter.com/search?q=Calera) | N/A |
-| 27 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
-| 28 | [Marraqueta](http://twitter.com/search?q=Marraqueta) | N/A |
+| 17 | [Always Ready](http://twitter.com/search?q=Always+Ready) | N/A |
+| 18 | [Palta](http://twitter.com/search?q=Palta) | N/A |
+| 19 | [Bibi](http://twitter.com/search?q=Bibi) | N/A |
+| 20 | [Carabineros](http://twitter.com/search?q=Carabineros) | N/A |
+| 21 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
+| 22 | [Osorio](http://twitter.com/search?q=Osorio) | Osorio is a Spanish surname. It is derived from the Latin word "osor" which means "fear". In English, it can be translated to mean "fearful". |
+| 23 | [Winnie the Pooh](http://twitter.com/search?q=Winnie+the+Pooh) | N/A |
+| 24 | [Assadi](http://twitter.com/search?q=Assadi) | Assadi is an Arabic name that means "blessed". It is also used as a surname. |
+| 25 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
+| 26 | [Marraqueta](http://twitter.com/search?q=Marraqueta) | N/A |
+| 27 | [Maldito Fabrizio](http://twitter.com/search?q=Maldito+Fabrizio) | N/A |
+| 28 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
 | 29 | [EXPLICA TU TWITTER](http://twitter.com/search?q=EXPLICA+TU+TWITTER) | N/A |
-| 30 | [Maldito Fabrizio](http://twitter.com/search?q=Maldito+Fabrizio) | N/A |
-| 31 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
-| 32 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 33 | [kali uchis](http://twitter.com/search?q=kali+uchis) | N/A |
-| 34 | [Passerini](http://twitter.com/search?q=Passerini) | N/A |
-| 35 | [Generala](http://twitter.com/search?q=Generala) | N/A |
-| 36 | [Carre](http://twitter.com/search?q=Carre) | N/A |
-| 37 | [Carabali](http://twitter.com/search?q=Carabali) | N/A |
-| 38 | [Rancagua](http://twitter.com/search?q=Rancagua) | N/A |
-| 39 | [Rubius](http://twitter.com/search?q=Rubius) | Rubius is a Latin word meaning "red". It is often used to describe the color of hair, eyes, or skin. |
-| 40 | [Ojeda](http://twitter.com/search?q=Ojeda) | N/A |
-| 41 | [General Soza](http://twitter.com/search?q=General+Soza) | N/A |
+| 30 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
+| 31 | [Generala](http://twitter.com/search?q=Generala) | N/A |
+| 32 | [Carre](http://twitter.com/search?q=Carre) | N/A |
+| 33 | [Kali Uchis](http://twitter.com/search?q=Kali+Uchis) | N/A |
+| 34 | [Rancagua](http://twitter.com/search?q=Rancagua) | N/A |
+| 35 | [Calera](http://twitter.com/search?q=Calera) | N/A |
+| 36 | [Rubius](http://twitter.com/search?q=Rubius) | Rubius is a Latin word meaning "red". It is often used to describe the color of hair, eyes, or skin. |
+| 37 | [General Soza](http://twitter.com/search?q=General+Soza) | N/A |
+| 38 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
+| 39 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
+| 40 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 41 | [Batido](http://twitter.com/search?q=Batido) | N/A |
 | 42 | [Daniela Aranguiz](http://twitter.com/search?q=Daniela+Aranguiz) | N/A |
-| 43 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
-| 44 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
-| 45 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 46 | [Batido](http://twitter.com/search?q=Batido) | N/A |
-| 47 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
-| 48 | [Imacec](http://twitter.com/search?q=Imacec) | N/A |
-| 49 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
-| 50 | [Pedrito](http://twitter.com/search?q=Pedrito) | N/A |
+| 43 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 44 | [Imacec](http://twitter.com/search?q=Imacec) | N/A |
+| 45 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
+| 46 | [Pedrito](http://twitter.com/search?q=Pedrito) | N/A |
+| 47 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 48 | [El PC](http://twitter.com/search?q=El+PC) | N/A |
+| 49 | [Passerini](http://twitter.com/search?q=Passerini) | N/A |
+| 50 | [nico jarry](http://twitter.com/search?q=nico+jarry) | N/A |
 
 
 

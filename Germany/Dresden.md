@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dresden
 
-📆 Last Updated: `2023-03-03 05:19:35 UTC`
+📆 Last Updated: `2023-03-03 06:17:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#KlamrothLuegt](http://twitter.com/search?q=%23KlamrothLuegt) | N/A |
-| 2 | [#GNTM](http://twitter.com/search?q=%23GNTM) | N/A |
-| 3 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
+| 1 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
+| 2 | [#KlamrothLuegt](http://twitter.com/search?q=%23KlamrothLuegt) | N/A |
+| 3 | [#gntm](http://twitter.com/search?q=%23gntm) | N/A |
 | 4 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
-| 5 | [Drinks](http://twitter.com/search?q=Drinks) | N/A |
-| 6 | [Außenpolitik](http://twitter.com/search?q=Au%c3%9fenpolitik) | N/A |
-| 7 | [Vergewaltigungen](http://twitter.com/search?q=Vergewaltigungen) | N/A |
-| 8 | [Koalition](http://twitter.com/search?q=Koalition) | N/A |
-| 9 | [Feiertag](http://twitter.com/search?q=Feiertag) | Feiertag is a German word meaning "holiday" or "celebration day". It is used to refer to any day that is set aside for special observance, such as a national holiday, religious holiday, or other special occasion. |
-| 10 | [Strom](http://twitter.com/search?q=Strom) | N/A |
+| 5 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 6 | [Drinks](http://twitter.com/search?q=Drinks) | N/A |
+| 7 | [Außenpolitik](http://twitter.com/search?q=Au%c3%9fenpolitik) | N/A |
+| 8 | [Vergewaltigungen](http://twitter.com/search?q=Vergewaltigungen) | N/A |
+| 9 | [Koalition](http://twitter.com/search?q=Koalition) | N/A |
+| 10 | [Feiertag](http://twitter.com/search?q=Feiertag) | Feiertag is a German word meaning "holiday" or "celebration day". It is used to refer to any day that is set aside for special observance, such as a national holiday, religious holiday, or other special occasion. |
 | 11 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
-| 12 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
-| 13 | [Maske](http://twitter.com/search?q=Maske) | N/A |
-| 14 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
-| 15 | [Rankin](http://twitter.com/search?q=Rankin) | N/A |
-| 16 | [jahre berufserfahrung](http://twitter.com/search?q=jahre+berufserfahrung) | N/A |
-| 17 | [wärmepumpen](http://twitter.com/search?q=w%c3%a4rmepumpen) | N/A |
-| 18 | [Kriegsverbrechen](http://twitter.com/search?q=Kriegsverbrechen) | N/A |
-| 19 | [Moderator](http://twitter.com/search?q=Moderator) | N/A |
-| 20 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
+| 12 | [Strom](http://twitter.com/search?q=Strom) | N/A |
+| 13 | [Guten Morgen Conny](http://twitter.com/search?q=Guten+Morgen+Conny) | N/A |
+| 14 | [Beileid](http://twitter.com/search?q=Beileid) | N/A |
+| 15 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
+| 16 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
+| 17 | [Rankin](http://twitter.com/search?q=Rankin) | N/A |
+| 18 | [Maske](http://twitter.com/search?q=Maske) | N/A |
+| 19 | [jahre berufserfahrung](http://twitter.com/search?q=jahre+berufserfahrung) | N/A |
+| 20 | [Wärmepumpen](http://twitter.com/search?q=W%c3%a4rmepumpen) | N/A |
 | 21 | [menstruationshintergrund](http://twitter.com/search?q=menstruationshintergrund) | N/A |
-| 22 | [Faktencheck](http://twitter.com/search?q=Faktencheck) | N/A |
-| 23 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 24 | [Gasheizung](http://twitter.com/search?q=Gasheizung) | N/A |
-| 25 | [BAMBOLA HIMNO AVATRICE](http://twitter.com/search?q=BAMBOLA+HIMNO+AVATRICE) | N/A |
-| 26 | [schönen donnerstag](http://twitter.com/search?q=sch%c3%b6nen+donnerstag) | N/A |
-| 27 | [glühbirnen](http://twitter.com/search?q=gl%c3%bchbirnen) | N/A |
-| 28 | [Cannabis](http://twitter.com/search?q=Cannabis) | N/A |
-| 29 | [jusos](http://twitter.com/search?q=jusos) | N/A |
-| 30 | [Black Pearl](http://twitter.com/search?q=Black+Pearl) | N/A |
-| 31 | [gräber](http://twitter.com/search?q=gr%c3%a4ber) | N/A |
-| 32 | [Fabian](http://twitter.com/search?q=Fabian) | N/A |
-| 33 | [Toiletten](http://twitter.com/search?q=Toiletten) | N/A |
-| 34 | [Berliner SPD](http://twitter.com/search?q=Berliner+SPD) | N/A |
-| 35 | [Merz](http://twitter.com/search?q=Merz) | Merz is a German word that means "to combine or join together." It is often used to describe the practice of combining different materials, such as wood and metal, to create a unique piece of art. The term was popularized by the German artist Kurt Schwitters, who used it to describe his collage-like works. |
-| 36 | [stilles wasser](http://twitter.com/search?q=stilles+wasser) | N/A |
-| 37 | [seenotrettung](http://twitter.com/search?q=seenotrettung) | N/A |
-| 38 | [März 2023](http://twitter.com/search?q=M%c3%a4rz+2023) | N/A |
-| 39 | [zellhaufen](http://twitter.com/search?q=zellhaufen) | N/A |
-| 40 | [schulze](http://twitter.com/search?q=schulze) | N/A |
-| 41 | [schwarzmarkt](http://twitter.com/search?q=schwarzmarkt) | N/A |
-| 42 | [Personality](http://twitter.com/search?q=Personality) | N/A |
-| 43 | [Peter Weibel](http://twitter.com/search?q=Peter+Weibel) | N/A |
-| 44 | [Anya](http://twitter.com/search?q=Anya) | N/A |
-| 45 | [Mirella](http://twitter.com/search?q=Mirella) | Mirella is a female given name of Italian origin. It is derived from the Latin word mirabilis, meaning "wonderful" or "marvelous". |
-| 46 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
-| 47 | [Verbot](http://twitter.com/search?q=Verbot) | N/A |
+| 22 | [Kriegsverbrechen](http://twitter.com/search?q=Kriegsverbrechen) | N/A |
+| 23 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
+| 24 | [Moderator](http://twitter.com/search?q=Moderator) | N/A |
+| 25 | [Faktencheck](http://twitter.com/search?q=Faktencheck) | N/A |
+| 26 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
+| 27 | [Heizung](http://twitter.com/search?q=Heizung) | N/A |
+| 28 | [schönen donnerstag](http://twitter.com/search?q=sch%c3%b6nen+donnerstag) | N/A |
+| 29 | [glühbirnen](http://twitter.com/search?q=gl%c3%bchbirnen) | N/A |
+| 30 | [Cannabis](http://twitter.com/search?q=Cannabis) | N/A |
+| 31 | [BAMBOLA HIMNO AVATRICE](http://twitter.com/search?q=BAMBOLA+HIMNO+AVATRICE) | N/A |
+| 32 | [black pearl](http://twitter.com/search?q=black+pearl) | N/A |
+| 33 | [Seidenstraße](http://twitter.com/search?q=Seidenstra%c3%9fe) | N/A |
+| 34 | [gräber](http://twitter.com/search?q=gr%c3%a4ber) | N/A |
+| 35 | [Fabian](http://twitter.com/search?q=Fabian) | N/A |
+| 36 | [Berliner SPD](http://twitter.com/search?q=Berliner+SPD) | N/A |
+| 37 | [JuSos](http://twitter.com/search?q=JuSos) | N/A |
+| 38 | [stilles wasser](http://twitter.com/search?q=stilles+wasser) | N/A |
+| 39 | [Toiletten](http://twitter.com/search?q=Toiletten) | N/A |
+| 40 | [zellhaufen](http://twitter.com/search?q=zellhaufen) | N/A |
+| 41 | [Merz](http://twitter.com/search?q=Merz) | Merz is a German word that means "to combine or join together." It is often used to describe the practice of combining different materials, such as wood and metal, to create a unique piece of art. The term was popularized by the German artist Kurt Schwitters, who used it to describe his collage-like works. |
+| 42 | [schulze](http://twitter.com/search?q=schulze) | N/A |
+| 43 | [schwarzmarkt](http://twitter.com/search?q=schwarzmarkt) | N/A |
+| 44 | [März 2023](http://twitter.com/search?q=M%c3%a4rz+2023) | N/A |
+| 45 | [Bundesrat](http://twitter.com/search?q=Bundesrat) | N/A |
+| 46 | [Personality](http://twitter.com/search?q=Personality) | N/A |
+| 47 | [Peter Weibel](http://twitter.com/search?q=Peter+Weibel) | N/A |
 
 
 

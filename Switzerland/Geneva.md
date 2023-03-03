@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-03-03 05:19:39 UTC`
+📆 Last Updated: `2023-03-03 06:17:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,16 +15,16 @@ This is top 50 for [Switzerland](</Switzerland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#GNTM](http://twitter.com/search?q=%23GNTM) | N/A |
+| 1 | [#gntm](http://twitter.com/search?q=%23gntm) | N/A |
 | 2 | [teuerungsausgleich](http://twitter.com/search?q=teuerungsausgleich) | N/A |
 | 3 | [#KlamrothLuegt](http://twitter.com/search?q=%23KlamrothLuegt) | N/A |
 | 4 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
 | 5 | [Parlamentarier](http://twitter.com/search?q=Parlamentarier) | N/A |
 | 6 | [#ixd23](http://twitter.com/search?q=%23ixd23) | N/A |
 | 7 | [Rentner](http://twitter.com/search?q=Rentner) | N/A |
-| 8 | [unterstütze die beschwerde](http://twitter.com/search?q=unterst%c3%bctze+die+beschwerde) | N/A |
-| 9 | [fall windisch](http://twitter.com/search?q=fall+windisch) | N/A |
-| 10 | [beschwerde beim presserat](http://twitter.com/search?q=beschwerde+beim+presserat) | N/A |
+| 8 | [Unterstütze die Beschwerde](http://twitter.com/search?q=Unterst%c3%bctze+die+Beschwerde) | N/A |
+| 9 | [Fall Windisch](http://twitter.com/search?q=Fall+Windisch) | N/A |
+| 10 | [Beschwerde beim Presserat](http://twitter.com/search?q=Beschwerde+beim+Presserat) | N/A |
 | 11 | [rotkreuz](http://twitter.com/search?q=rotkreuz) | N/A |
 | 12 | [Julien Bert](http://twitter.com/search?q=Julien+Bert) | N/A |
 | 13 | [Mali](http://twitter.com/search?q=Mali) | Mali is a landlocked country in West Africa. Its name is derived from the Mandinka word mali, meaning "hippopotamus". It is bordered by Algeria to the north, Niger to the east, Burkina Faso and Ivory Coast to the south, Guinea to the south-west, and Senegal and Mauritania to the west. |
@@ -34,18 +34,18 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 17 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
 | 18 | [#gshc](http://twitter.com/search?q=%23gshc) | N/A |
 | 19 | [ständerat](http://twitter.com/search?q=st%c3%a4nderat) | N/A |
-| 20 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 21 | [lohn](http://twitter.com/search?q=lohn) | N/A |
-| 22 | [franz hohler](http://twitter.com/search?q=franz+hohler) | N/A |
-| 23 | [Franken](http://twitter.com/search?q=Franken) | N/A |
-| 24 | [aussenpolitik](http://twitter.com/search?q=aussenpolitik) | N/A |
-| 25 | [Tory](http://twitter.com/search?q=Tory) | Tory is a term used to refer to a member of the British Conservative Party. It is derived from the Middle Irish word "toraidhe", which means "outlaw". The term has been used since the late 17th century to refer to those who supported the Royalist cause during the English Civil War. |
-| 26 | [Werk](http://twitter.com/search?q=Werk) | N/A |
-| 27 | [Nähe](http://twitter.com/search?q=N%c3%a4he) | N/A |
-| 28 | [sorge](http://twitter.com/search?q=sorge) | N/A |
-| 29 | [privatsache](http://twitter.com/search?q=privatsache) | N/A |
-| 30 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
-| 31 | [Vogel](http://twitter.com/search?q=Vogel) | N/A |
+| 20 | [Lohn](http://twitter.com/search?q=Lohn) | N/A |
+| 21 | [franz hohler](http://twitter.com/search?q=franz+hohler) | N/A |
+| 22 | [aussenpolitik](http://twitter.com/search?q=aussenpolitik) | N/A |
+| 23 | [Tory](http://twitter.com/search?q=Tory) | Tory is a term used to refer to a member of the British Conservative Party. It is derived from the Middle Irish word "toraidhe", which means "outlaw". The term has been used since the late 17th century to refer to those who supported the Royalist cause during the English Civil War. |
+| 24 | [Werk](http://twitter.com/search?q=Werk) | N/A |
+| 25 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 26 | [Nähe](http://twitter.com/search?q=N%c3%a4he) | N/A |
+| 27 | [Sorge](http://twitter.com/search?q=Sorge) | N/A |
+| 28 | [Privatsache](http://twitter.com/search?q=Privatsache) | N/A |
+| 29 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
+| 30 | [Vogel](http://twitter.com/search?q=Vogel) | N/A |
+| 31 | [Covid](http://twitter.com/search?q=Covid) | N/A |
 | 32 | [Intéressant](http://twitter.com/search?q=Int%c3%a9ressant) | N/A |
 | 33 | [Art und Weise](http://twitter.com/search?q=Art+und+Weise) | N/A |
 | 34 | [Podcast](http://twitter.com/search?q=Podcast) | N/A |

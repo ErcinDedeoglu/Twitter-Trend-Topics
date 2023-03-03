@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lausanne
 
-📆 Last Updated: `2023-03-03 05:19:39 UTC`
+📆 Last Updated: `2023-03-03 06:17:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,7 +15,7 @@ This is top 50 for [Switzerland](</Switzerland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#GNTM](http://twitter.com/search?q=%23GNTM) | N/A |
+| 1 | [#gntm](http://twitter.com/search?q=%23gntm) | N/A |
 | 2 | [teuerungsausgleich](http://twitter.com/search?q=teuerungsausgleich) | N/A |
 | 3 | [#KlamrothLuegt](http://twitter.com/search?q=%23KlamrothLuegt) | N/A |
 | 4 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
@@ -35,18 +35,18 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 18 | [#gshc](http://twitter.com/search?q=%23gshc) | N/A |
 | 19 | [#parlch](http://twitter.com/search?q=%23parlch) | N/A |
 | 20 | [ständerat](http://twitter.com/search?q=st%c3%a4nderat) | N/A |
-| 21 | [lohn](http://twitter.com/search?q=lohn) | N/A |
+| 21 | [Lohn](http://twitter.com/search?q=Lohn) | N/A |
 | 22 | [franz hohler](http://twitter.com/search?q=franz+hohler) | N/A |
-| 23 | [Franken](http://twitter.com/search?q=Franken) | N/A |
-| 24 | [aussenpolitik](http://twitter.com/search?q=aussenpolitik) | N/A |
-| 25 | [Tory](http://twitter.com/search?q=Tory) | Tory is a term used to refer to a member of the British Conservative Party. It is derived from the Middle Irish word "toraidhe", which means "outlaw". The term has been used since the late 17th century to refer to those who supported the Royalist cause during the English Civil War. |
-| 26 | [Werk](http://twitter.com/search?q=Werk) | N/A |
-| 27 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 28 | [Nähe](http://twitter.com/search?q=N%c3%a4he) | N/A |
-| 29 | [Sorge](http://twitter.com/search?q=Sorge) | N/A |
-| 30 | [privatsache](http://twitter.com/search?q=privatsache) | N/A |
-| 31 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
-| 32 | [Vogel](http://twitter.com/search?q=Vogel) | N/A |
+| 23 | [aussenpolitik](http://twitter.com/search?q=aussenpolitik) | N/A |
+| 24 | [Tory](http://twitter.com/search?q=Tory) | Tory is a term used to refer to a member of the British Conservative Party. It is derived from the Middle Irish word "toraidhe", which means "outlaw". The term has been used since the late 17th century to refer to those who supported the Royalist cause during the English Civil War. |
+| 25 | [Werk](http://twitter.com/search?q=Werk) | N/A |
+| 26 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 27 | [Nähe](http://twitter.com/search?q=N%c3%a4he) | N/A |
+| 28 | [Sorge](http://twitter.com/search?q=Sorge) | N/A |
+| 29 | [Privatsache](http://twitter.com/search?q=Privatsache) | N/A |
+| 30 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
+| 31 | [Vogel](http://twitter.com/search?q=Vogel) | N/A |
+| 32 | [Covid](http://twitter.com/search?q=Covid) | N/A |
 | 33 | [Intéressant](http://twitter.com/search?q=Int%c3%a9ressant) | N/A |
 | 34 | [Art und Weise](http://twitter.com/search?q=Art+und+Weise) | N/A |
 | 35 | [Podcast](http://twitter.com/search?q=Podcast) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pakistan
 
-📆 Last Updated: `2023-03-03 05:20:14 UTC`
+📆 Last Updated: `2023-03-03 06:17:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,49 +22,49 @@ This is top 50 for Pakistan
 | 5 | [#JummahMubarak](http://twitter.com/search?q=%23JummahMubarak) | N/A |
 | 6 | [Sikandar Raza](http://twitter.com/search?q=Sikandar+Raza) | N/A |
 | 7 | [Sikandar Raza](http://twitter.com/search?q=Sikandar+Raza) | N/A |
-| 8 | [Haseebullah](http://twitter.com/search?q=Haseebullah) | N/A |
-| 9 | [Ishaq Dar](http://twitter.com/search?q=Ishaq+Dar) | N/A |
-| 10 | [sir mark grundy](http://twitter.com/search?q=sir+mark+grundy) | N/A |
-| 11 | [HAFEEZ](http://twitter.com/search?q=HAFEEZ) | N/A |
-| 12 | [Quetta](http://twitter.com/search?q=Quetta) | Quetta is a city in Pakistan located in the province of Balochistan. The name Quetta is derived from the Pashto word "Kwatak", meaning fort. In English, Quetta translates to "fortress". |
+| 8 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 9 | [Haseebullah](http://twitter.com/search?q=Haseebullah) | N/A |
+| 10 | [Ishaq Dar](http://twitter.com/search?q=Ishaq+Dar) | N/A |
+| 11 | [sir mark grundy](http://twitter.com/search?q=sir+mark+grundy) | N/A |
+| 12 | [HAFEEZ](http://twitter.com/search?q=HAFEEZ) | N/A |
 | 13 | [Namoos Sahaba Ahlbait Bill](http://twitter.com/search?q=Namoos+Sahaba+Ahlbait+Bill) | N/A |
-| 14 | [Qalandars](http://twitter.com/search?q=Qalandars) | N/A |
-| 15 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 16 | [Rashid Khan](http://twitter.com/search?q=Rashid+Khan) | N/A |
-| 17 | [Mighty](http://twitter.com/search?q=Mighty) | N/A |
-| 18 | [Resign](http://twitter.com/search?q=Resign) | Resign is a verb that means to formally give up or quit a job, position, or office. It is usually done in writing and is often accompanied by a letter of resignation. |
-| 19 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 20 | [Youth](http://twitter.com/search?q=Youth) | N/A |
-| 21 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 22 | [schools now conference](http://twitter.com/search?q=schools+now+conference) | N/A |
-| 23 | [JHOPE](http://twitter.com/search?q=JHOPE) | N/A |
-| 24 | [HAPPY BIRTHDAY LALA](http://twitter.com/search?q=HAPPY+BIRTHDAY+LALA) | N/A |
+| 14 | [Quetta](http://twitter.com/search?q=Quetta) | Quetta is a city in Pakistan located in the province of Balochistan. The name Quetta is derived from the Pashto word "Kwatak", meaning fort. In English, Quetta translates to "fortress". |
+| 15 | [QALANDARS](http://twitter.com/search?q=QALANDARS) | N/A |
+| 16 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 17 | [Rashid Khan](http://twitter.com/search?q=Rashid+Khan) | N/A |
+| 18 | [Mighty](http://twitter.com/search?q=Mighty) | N/A |
+| 19 | [Resign](http://twitter.com/search?q=Resign) | Resign is a verb that means to formally give up or quit a job, position, or office. It is usually done in writing and is often accompanied by a letter of resignation. |
+| 20 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
+| 21 | [Youth](http://twitter.com/search?q=Youth) | N/A |
+| 22 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 23 | [schools now conference](http://twitter.com/search?q=schools+now+conference) | N/A |
+| 24 | [happy birthday lala](http://twitter.com/search?q=happy+birthday+lala) | N/A |
 | 25 | [happy baloch](http://twitter.com/search?q=happy+baloch) | N/A |
-| 26 | [Saifi](http://twitter.com/search?q=Saifi) | Saifi is an Arabic name that means "one who is pure". It is also used as a surname. |
+| 26 | [Australia](http://twitter.com/search?q=Australia) | N/A |
 | 27 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 28 | [British Council](http://twitter.com/search?q=British+Council) | N/A |
-| 29 | [Rauf](http://twitter.com/search?q=Rauf) | N/A |
-| 30 | [FIXER](http://twitter.com/search?q=FIXER) | N/A |
-| 31 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 28 | [saifi](http://twitter.com/search?q=saifi) | N/A |
+| 29 | [British Council](http://twitter.com/search?q=British+Council) | N/A |
+| 30 | [Rauf](http://twitter.com/search?q=Rauf) | N/A |
+| 31 | [FIXER](http://twitter.com/search?q=FIXER) | N/A |
 | 32 | [Sack](http://twitter.com/search?q=Sack) | N/A |
 | 33 | [Dembele](http://twitter.com/search?q=Dembele) | Dembele is a surname of West African origin. It is derived from the Mande language and means "peaceful warrior". In English, it can be translated to mean "one who brings peace through strength". |
 | 34 | [umaid asif](http://twitter.com/search?q=umaid+asif) | N/A |
 | 35 | [Your DM](http://twitter.com/search?q=Your+DM) | N/A |
 | 36 | [Fati](http://twitter.com/search?q=Fati) | N/A |
 | 37 | [Ben 10](http://twitter.com/search?q=Ben+10) | N/A |
-| 38 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 38 | [Miftah](http://twitter.com/search?q=Miftah) | N/A |
 | 39 | [Ali Akbar](http://twitter.com/search?q=Ali+Akbar) | N/A |
-| 40 | [From 2-3 to 197-5](http://twitter.com/search?q=From+2-3+to+197-5) | N/A |
-| 41 | [Reality](http://twitter.com/search?q=Reality) | N/A |
-| 42 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 43 | [Quran](http://twitter.com/search?q=Quran) | N/A |
-| 44 | [Amen](http://twitter.com/search?q=Amen) | N/A |
-| 45 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 46 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 47 | [Saad](http://twitter.com/search?q=Saad) | N/A |
-| 48 | [Coming Soon](http://twitter.com/search?q=Coming+Soon) | N/A |
-| 49 | [Queen](http://twitter.com/search?q=Queen) | N/A |
-| 50 | [Generals](http://twitter.com/search?q=Generals) | N/A |
+| 40 | [Major](http://twitter.com/search?q=Major) | N/A |
+| 41 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 42 | [Maryam](http://twitter.com/search?q=Maryam) | N/A |
+| 43 | [O Allah](http://twitter.com/search?q=O+Allah) | N/A |
+| 44 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 45 | [Prophet](http://twitter.com/search?q=Prophet) | N/A |
+| 46 | [Saad](http://twitter.com/search?q=Saad) | N/A |
+| 47 | [Coming Soon](http://twitter.com/search?q=Coming+Soon) | N/A |
+| 48 | [Heyyy](http://twitter.com/search?q=Heyyy) | N/A |
+| 49 | [jcole](http://twitter.com/search?q=jcole) | N/A |
+| 50 | [Respected](http://twitter.com/search?q=Respected) | N/A |
 
 
 

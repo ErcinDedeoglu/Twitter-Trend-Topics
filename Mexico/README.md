@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico
 
-📆 Last Updated: `2023-03-03 05:20:13 UTC`
+📆 Last Updated: `2023-03-03 06:17:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,35 +15,36 @@ This is top 50 for Mexico
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#PreseaEdoMex](http://twitter.com/search?q=%23PreseaEdoMex) | N/A |
-| 2 | [#on_the_street](http://twitter.com/search?q=%23on_the_street) | N/A |
-| 3 | [#VillaEnJuego](http://twitter.com/search?q=%23VillaEnJuego) | N/A |
-| 4 | [#MexiquensesChingonas](http://twitter.com/search?q=%23MexiquensesChingonas) | N/A |
-| 5 | [#ElAmorInvencible](http://twitter.com/search?q=%23ElAmorInvencible) | N/A |
-| 6 | [Pajarito](http://twitter.com/search?q=Pajarito) | N/A |
-| 7 | [La RAE](http://twitter.com/search?q=La+RAE) | N/A |
-| 8 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
-| 9 | [Mayonesa](http://twitter.com/search?q=Mayonesa) | N/A |
-| 10 | [Crema](http://twitter.com/search?q=Crema) | N/A |
-| 11 | [Leona](http://twitter.com/search?q=Leona) | N/A |
-| 12 | [Patricia Mercado](http://twitter.com/search?q=Patricia+Mercado) | N/A |
-| 13 | [Maluma](http://twitter.com/search?q=Maluma) | N/A |
-| 14 | [Edmundo Jacobo](http://twitter.com/search?q=Edmundo+Jacobo) | N/A |
-| 15 | [EXPLICA TU TWITTER](http://twitter.com/search?q=EXPLICA+TU+TWITTER) | N/A |
-| 16 | [Creed](http://twitter.com/search?q=Creed) | N/A |
-| 17 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
-| 18 | [Dania](http://twitter.com/search?q=Dania) | N/A |
-| 19 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 20 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 21 | [Atlante](http://twitter.com/search?q=Atlante) | N/A |
-| 22 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 23 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
-| 24 | [Jenaro](http://twitter.com/search?q=Jenaro) | N/A |
-| 25 | [Roier](http://twitter.com/search?q=Roier) | N/A |
-| 26 | [Bernabéu](http://twitter.com/search?q=Bernab%c3%a9u) | Bernabéu is the name of the home stadium of Spanish football club Real Madrid. It is officially known as Estadio Santiago Bernabéu, named after the former club president Santiago Bernabéu. In English, it is referred to as the Santiago Bernabéu Stadium. |
-| 27 | [#ContigoSiempre](http://twitter.com/search?q=%23ContigoSiempre) | N/A |
-| 28 | [#5toInformeDS](http://twitter.com/search?q=%235toInformeDS) | N/A |
-| 29 | [#JuanNoEstasSolo](http://twitter.com/search?q=%23JuanNoEstasSolo) | N/A |
+| 1 | [#on_the_street](http://twitter.com/search?q=%23on_the_street) | N/A |
+| 2 | [#PreseaEdoMex](http://twitter.com/search?q=%23PreseaEdoMex) | N/A |
+| 3 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 4 | [Mang](http://twitter.com/search?q=Mang) | N/A |
+| 5 | [#VillaEnJuego](http://twitter.com/search?q=%23VillaEnJuego) | N/A |
+| 6 | [#MexiquensesChingonas](http://twitter.com/search?q=%23MexiquensesChingonas) | N/A |
+| 7 | [#ElOráculoDelRawk](http://twitter.com/search?q=%23ElOr%c3%a1culoDelRawk) | N/A |
+| 8 | [Pajarito](http://twitter.com/search?q=Pajarito) | N/A |
+| 9 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 10 | [La RAE](http://twitter.com/search?q=La+RAE) | N/A |
+| 11 | [Mayonesa](http://twitter.com/search?q=Mayonesa) | N/A |
+| 12 | [Speak Now TV](http://twitter.com/search?q=Speak+Now+TV) | Speak Now TV is a Japanese television program that focuses on giving people the opportunity to speak out and express their opinions on various topics. The name of the show comes from the phrase "speak now or forever hold your peace," which is used in weddings to give guests a chance to voice any objections they may have before the ceremony can proceed. |
+| 13 | [Crema](http://twitter.com/search?q=Crema) | N/A |
+| 14 | [Leona](http://twitter.com/search?q=Leona) | N/A |
+| 15 | [Kali Uchis](http://twitter.com/search?q=Kali+Uchis) | N/A |
+| 16 | [Maluma](http://twitter.com/search?q=Maluma) | N/A |
+| 17 | [Patricia Mercado](http://twitter.com/search?q=Patricia+Mercado) | N/A |
+| 18 | [Edmundo Jacobo](http://twitter.com/search?q=Edmundo+Jacobo) | N/A |
+| 19 | [Creed III](http://twitter.com/search?q=Creed+III) | N/A |
+| 20 | [EXPLICA TU TWITTER](http://twitter.com/search?q=EXPLICA+TU+TWITTER) | N/A |
+| 21 | [Pronta](http://twitter.com/search?q=Pronta) | N/A |
+| 22 | [Dania](http://twitter.com/search?q=Dania) | N/A |
+| 23 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 24 | [Atlante](http://twitter.com/search?q=Atlante) | N/A |
+| 25 | [Jenaro](http://twitter.com/search?q=Jenaro) | N/A |
+| 26 | [Roier](http://twitter.com/search?q=Roier) | N/A |
+| 27 | [#ElAmorInvencible](http://twitter.com/search?q=%23ElAmorInvencible) | N/A |
+| 28 | [#ContigoSiempre](http://twitter.com/search?q=%23ContigoSiempre) | N/A |
+| 29 | [#5toInformeDS](http://twitter.com/search?q=%235toInformeDS) | N/A |
+| 30 | [#JuanNoEstasSolo](http://twitter.com/search?q=%23JuanNoEstasSolo) | N/A |
 
 
 

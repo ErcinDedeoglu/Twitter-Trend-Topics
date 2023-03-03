@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belarus
 
-📆 Last Updated: `2023-03-03 05:20:10 UTC`
+📆 Last Updated: `2023-03-03 06:17:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,17 +25,17 @@ This is top 50 for Belarus
 | 8 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
 | 9 | [Видимо](http://twitter.com/search?q=%d0%92%d0%b8%d0%b4%d0%b8%d0%bc%d0%be) | N/A |
 | 10 | [#NFTcollection](http://twitter.com/search?q=%23NFTcollection) | N/A |
-| 11 | [GM Fren](http://twitter.com/search?q=GM+Fren) | N/A |
-| 12 | [поэтому](http://twitter.com/search?q=%d0%bf%d0%be%d1%8d%d1%82%d0%be%d0%bc%d1%83) | N/A |
-| 13 | [бдг деловая](http://twitter.com/search?q=%d0%b1%d0%b4%d0%b3+%d0%b4%d0%b5%d0%bb%d0%be%d0%b2%d0%b0%d1%8f) | N/A |
-| 14 | [могилеве](http://twitter.com/search?q=%d0%bc%d0%be%d0%b3%d0%b8%d0%bb%d0%b5%d0%b2%d0%b5) | N/A |
-| 15 | [китай](http://twitter.com/search?q=%d0%ba%d0%b8%d1%82%d0%b0%d0%b9) | N/A |
-| 16 | [Капец](http://twitter.com/search?q=%d0%9a%d0%b0%d0%bf%d0%b5%d1%86) | N/A |
-| 17 | [#NFTFam](http://twitter.com/search?q=%23NFTFam) | N/A |
-| 18 | [ЧВК Редан](http://twitter.com/search?q=%d0%a7%d0%92%d0%9a+%d0%a0%d0%b5%d0%b4%d0%b0%d0%bd) | N/A |
-| 19 | [#NFTs](http://twitter.com/search?q=%23NFTs) | N/A |
-| 20 | [Выглядит](http://twitter.com/search?q=%d0%92%d1%8b%d0%b3%d0%bb%d1%8f%d0%b4%d0%b8%d1%82) | N/A |
-| 21 | [жиза](http://twitter.com/search?q=%d0%b6%d0%b8%d0%b7%d0%b0) | N/A |
+| 11 | [поэтому](http://twitter.com/search?q=%d0%bf%d0%be%d1%8d%d1%82%d0%be%d0%bc%d1%83) | N/A |
+| 12 | [бдг деловая](http://twitter.com/search?q=%d0%b1%d0%b4%d0%b3+%d0%b4%d0%b5%d0%bb%d0%be%d0%b2%d0%b0%d1%8f) | N/A |
+| 13 | [могилеве](http://twitter.com/search?q=%d0%bc%d0%be%d0%b3%d0%b8%d0%bb%d0%b5%d0%b2%d0%b5) | N/A |
+| 14 | [Китай](http://twitter.com/search?q=%d0%9a%d0%b8%d1%82%d0%b0%d0%b9) | N/A |
+| 15 | [Капец](http://twitter.com/search?q=%d0%9a%d0%b0%d0%bf%d0%b5%d1%86) | N/A |
+| 16 | [#NFTFam](http://twitter.com/search?q=%23NFTFam) | N/A |
+| 17 | [ЧВК Редан](http://twitter.com/search?q=%d0%a7%d0%92%d0%9a+%d0%a0%d0%b5%d0%b4%d0%b0%d0%bd) | N/A |
+| 18 | [#NFTs](http://twitter.com/search?q=%23NFTs) | N/A |
+| 19 | [Выглядит](http://twitter.com/search?q=%d0%92%d1%8b%d0%b3%d0%bb%d1%8f%d0%b4%d0%b8%d1%82) | N/A |
+| 20 | [GM Fren](http://twitter.com/search?q=GM+Fren) | N/A |
+| 21 | [Жиза](http://twitter.com/search?q=%d0%96%d0%b8%d0%b7%d0%b0) | N/A |
 | 22 | [Russia](http://twitter.com/search?q=Russia) | N/A |
 | 23 | [Москве](http://twitter.com/search?q=%d0%9c%d0%be%d1%81%d0%ba%d0%b2%d0%b5) | N/A |
 | 24 | [Хорошая](http://twitter.com/search?q=%d0%a5%d0%be%d1%80%d0%be%d1%88%d0%b0%d1%8f) | N/A |
