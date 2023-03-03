@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hermosillo
 
-📆 Last Updated: `2023-03-03 18:17:17 UTC`
+📆 Last Updated: `2023-03-03 19:15:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Mexico](</Mexico>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 2 | [#Convoy7Años](http://twitter.com/search?q=%23Convoy7A%c3%b1os) | N/A |
-| 3 | [#QueremosRock](http://twitter.com/search?q=%23QueremosRock) | N/A |
-| 4 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 5 | [#ShingekiNoKyojin](http://twitter.com/search?q=%23ShingekiNoKyojin) | N/A |
-| 6 | [#ToFOUReverlandWithTXT](http://twitter.com/search?q=%23ToFOUReverlandWithTXT) | N/A |
-| 7 | [#TXT_4th_Anniversary](http://twitter.com/search?q=%23TXT_4th_Anniversary) | N/A |
-| 8 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 9 | [4 YEARS WITH TXT](http://twitter.com/search?q=4+YEARS+WITH+TXT) | N/A |
-| 10 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 11 | [Hange](http://twitter.com/search?q=Hange) | N/A |
-| 12 | [El Plan](http://twitter.com/search?q=El+Plan) | N/A |
-| 13 | [Crunchyroll](http://twitter.com/search?q=Crunchyroll) | N/A |
-| 14 | [Master of Puppets](http://twitter.com/search?q=Master+of+Puppets) | N/A |
-| 15 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
-| 16 | [Zendejas](http://twitter.com/search?q=Zendejas) | Zendejas is a Spanish surname. It is derived from the Basque word "zendegi," which means "life." In English, it can be translated to mean "one who has a long life." |
-| 17 | [Banco de México](http://twitter.com/search?q=Banco+de+M%c3%a9xico) | N/A |
-| 18 | [Komanche](http://twitter.com/search?q=Komanche) | N/A |
-| 19 | [Excelente Viernes](http://twitter.com/search?q=Excelente+Viernes) | N/A |
-| 20 | [Banxico](http://twitter.com/search?q=Banxico) | N/A |
-| 21 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 22 | [Layda Sansores](http://twitter.com/search?q=Layda+Sansores) | N/A |
-| 23 | [Nano](http://twitter.com/search?q=Nano) | N/A |
-| 24 | [Magic](http://twitter.com/search?q=Magic) | N/A |
-| 25 | [Kali Uchis](http://twitter.com/search?q=Kali+Uchis) | N/A |
-| 26 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
-| 27 | [Edmundo Jacobo](http://twitter.com/search?q=Edmundo+Jacobo) | N/A |
-| 28 | [Viernes 3](http://twitter.com/search?q=Viernes+3) | N/A |
-| 29 | [Lía Limón](http://twitter.com/search?q=L%c3%ada+Lim%c3%b3n) | N/A |
-| 30 | [Lira](http://twitter.com/search?q=Lira) | N/A |
-| 31 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 32 | [Adán Augusto](http://twitter.com/search?q=Ad%c3%a1n+Augusto) | N/A |
-| 33 | [Toño](http://twitter.com/search?q=To%c3%b1o) | N/A |
-| 34 | [Eren](http://twitter.com/search?q=Eren) | N/A |
-| 35 | [Mancera](http://twitter.com/search?q=Mancera) | N/A |
-| 36 | [Álvaro Obregón](http://twitter.com/search?q=%c3%81lvaro+Obreg%c3%b3n) | N/A |
-| 37 | [Lorenzo Córdova](http://twitter.com/search?q=Lorenzo+C%c3%b3rdova) | N/A |
-| 38 | [Gobernación](http://twitter.com/search?q=Gobernaci%c3%b3n) | N/A |
-| 39 | [Rubius](http://twitter.com/search?q=Rubius) | Rubius is a Latin word meaning "red". It is often used to describe the color of hair, eyes, or skin. |
-| 40 | [Pajarito](http://twitter.com/search?q=Pajarito) | N/A |
-| 41 | [#FelizViernesATodos](http://twitter.com/search?q=%23FelizViernesATodos) | N/A |
-| 42 | [#PesoMexicano](http://twitter.com/search?q=%23PesoMexicano) | N/A |
-| 43 | [#ViernesDeRiesgo](http://twitter.com/search?q=%23ViernesDeRiesgo) | N/A |
-| 44 | [#AttackOnTitan](http://twitter.com/search?q=%23AttackOnTitan) | N/A |
-| 45 | [#DíaMundialDeLaVidaSilvestre](http://twitter.com/search?q=%23D%c3%adaMundialDeLaVidaSilvestre) | N/A |
-| 46 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
-| 47 | [#ZonaRÉCORD](http://twitter.com/search?q=%23ZonaR%c3%89CORD) | N/A |
-| 48 | [#SuperPeso](http://twitter.com/search?q=%23SuperPeso) | N/A |
-| 49 | [#dolar](http://twitter.com/search?q=%23dolar) | N/A |
+| 2 | [#SalarioRosaEsUnaRealidad](http://twitter.com/search?q=%23SalarioRosaEsUnaRealidad) | N/A |
+| 3 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 4 | [#Convoy7Años](http://twitter.com/search?q=%23Convoy7A%c3%b1os) | N/A |
+| 5 | [#QueremosRock](http://twitter.com/search?q=%23QueremosRock) | N/A |
+| 6 | [#PesoMexicano](http://twitter.com/search?q=%23PesoMexicano) | N/A |
+| 7 | [#FelizViernesATodos](http://twitter.com/search?q=%23FelizViernesATodos) | N/A |
+| 8 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 9 | [MEXICO OUT NOW](http://twitter.com/search?q=MEXICO+OUT+NOW) | N/A |
+| 10 | [SOOBIN](http://twitter.com/search?q=SOOBIN) | SOOBIN is a Korean name, derived from the Chinese characters for "protection" and "beauty". It can be translated to mean "protected beauty" in English. |
+| 11 | [Spreen](http://twitter.com/search?q=Spreen) | Spreen is a German word that means to scurry or hurry. It is often used to describe the quick movements of small animals, such as mice or squirrels. |
+| 12 | [CANTA Y NO LLORES](http://twitter.com/search?q=CANTA+Y+NO+LLORES) | N/A |
+| 13 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 14 | [4 YEARS WITH TXT](http://twitter.com/search?q=4+YEARS+WITH+TXT) | N/A |
+| 15 | [Quackity](http://twitter.com/search?q=Quackity) | N/A |
+| 16 | [Komanche](http://twitter.com/search?q=Komanche) | N/A |
+| 17 | [Crunchyroll](http://twitter.com/search?q=Crunchyroll) | N/A |
+| 18 | [El Plan](http://twitter.com/search?q=El+Plan) | N/A |
+| 19 | [Zendejas](http://twitter.com/search?q=Zendejas) | Zendejas is a Spanish surname. It is derived from the Basque word "zendegi," which means "life." In English, it can be translated to mean "one who has a long life." |
+| 20 | [Hange](http://twitter.com/search?q=Hange) | N/A |
+| 21 | [Master of Puppets](http://twitter.com/search?q=Master+of+Puppets) | N/A |
+| 22 | [Banxico](http://twitter.com/search?q=Banxico) | N/A |
+| 23 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 24 | [Banco de México](http://twitter.com/search?q=Banco+de+M%c3%a9xico) | N/A |
+| 25 | [Rector](http://twitter.com/search?q=Rector) | Rector is a term used in some Christian denominations to refer to a senior official in charge of a church or parish. In the Catholic Church, the rector is the head of a parish and is responsible for its spiritual and administrative leadership. In other denominations, such as the Anglican Church, the rector is usually the priest in charge of a parish. |
+| 26 | [Rubius](http://twitter.com/search?q=Rubius) | Rubius is a Latin word meaning "red". It is often used to describe the color of hair, eyes, or skin. |
+| 27 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
+| 28 | [Kali Uchis](http://twitter.com/search?q=Kali+Uchis) | N/A |
+| 29 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 30 | [Magic](http://twitter.com/search?q=Magic) | N/A |
+| 31 | [Lorenzo Córdova](http://twitter.com/search?q=Lorenzo+C%c3%b3rdova) | N/A |
+| 32 | [Edmundo Jacobo](http://twitter.com/search?q=Edmundo+Jacobo) | N/A |
+| 33 | [Layda Sansores](http://twitter.com/search?q=Layda+Sansores) | N/A |
+| 34 | [Viernes 3](http://twitter.com/search?q=Viernes+3) | N/A |
+| 35 | [Lira](http://twitter.com/search?q=Lira) | N/A |
+| 36 | [Chencho](http://twitter.com/search?q=Chencho) | N/A |
+| 37 | [Adán Augusto](http://twitter.com/search?q=Ad%c3%a1n+Augusto) | N/A |
+| 38 | [Toño](http://twitter.com/search?q=To%c3%b1o) | N/A |
+| 39 | [Toñito](http://twitter.com/search?q=To%c3%b1ito) | N/A |
+| 40 | [Eren](http://twitter.com/search?q=Eren) | N/A |
+| 41 | [Gobernación](http://twitter.com/search?q=Gobernaci%c3%b3n) | N/A |
+| 42 | [Pajarito](http://twitter.com/search?q=Pajarito) | N/A |
+| 43 | [Álvaro Obregón](http://twitter.com/search?q=%c3%81lvaro+Obreg%c3%b3n) | N/A |
+| 44 | [#ShingekiNoKyojin](http://twitter.com/search?q=%23ShingekiNoKyojin) | N/A |
+| 45 | [#AttackOnTitan](http://twitter.com/search?q=%23AttackOnTitan) | N/A |
+| 46 | [#TXT_4th_Anniversary](http://twitter.com/search?q=%23TXT_4th_Anniversary) | N/A |
+| 47 | [#ToFOUReverlandWithTXT](http://twitter.com/search?q=%23ToFOUReverlandWithTXT) | N/A |
+| 48 | [#ViernesDeRiesgo](http://twitter.com/search?q=%23ViernesDeRiesgo) | N/A |
+| 49 | [#Tenancingo](http://twitter.com/search?q=%23Tenancingo) | N/A |
 
 
 

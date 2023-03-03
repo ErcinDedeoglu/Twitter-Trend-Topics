@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indianapolis
 
-📆 Last Updated: `2023-03-03 18:18:00 UTC`
+📆 Last Updated: `2023-03-03 19:16:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Will Levis](http://twitter.com/search?q=Will+Levis) | N/A |
-| 2 | [Anthony Richardson](http://twitter.com/search?q=Anthony+Richardson) | N/A |
-| 3 | [Bryce Young](http://twitter.com/search?q=Bryce+Young) | Bryce Young is a name of a person. It is derived from the Old English words "bryce" meaning "proud" and "young" meaning "youthful". The name can be used for both males and females. |
-| 4 | [#NFLCombine](http://twitter.com/search?q=%23NFLCombine) | N/A |
-| 5 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 6 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
-| 7 | [#EmployeeAppreciationDay](http://twitter.com/search?q=%23EmployeeAppreciationDay) | N/A |
+| 2 | [Bryce Young](http://twitter.com/search?q=Bryce+Young) | Bryce Young is a name of a person. It is derived from the Old English words "bryce" meaning "proud" and "young" meaning "youthful". The name can be used for both males and females. |
+| 3 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 4 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
+| 5 | [#EmployeeAppreciationDay](http://twitter.com/search?q=%23EmployeeAppreciationDay) | N/A |
+| 6 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
+| 7 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
 | 8 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
-| 9 | [#BandcampFriday](http://twitter.com/search?q=%23BandcampFriday) | N/A |
-| 10 | [#WorldWildlifeDay](http://twitter.com/search?q=%23WorldWildlifeDay) | N/A |
-| 11 | [Walgreens](http://twitter.com/search?q=Walgreens) | N/A |
-| 12 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
-| 13 | [Morgan Wallen](http://twitter.com/search?q=Morgan+Wallen) | N/A |
-| 14 | [Lemieux](http://twitter.com/search?q=Lemieux) | N/A |
-| 15 | [De La Soul](http://twitter.com/search?q=De+La+Soul) | N/A |
-| 16 | [MIROTIC](http://twitter.com/search?q=MIROTIC) | N/A |
-| 17 | [Judge Newman](http://twitter.com/search?q=Judge+Newman) | N/A |
-| 18 | [Dahm](http://twitter.com/search?q=Dahm) | N/A |
-| 19 | [Paris Davis](http://twitter.com/search?q=Paris+Davis) | N/A |
-| 20 | [Medvedev](http://twitter.com/search?q=Medvedev) | Medvedev is a Russian surname derived from the word medved, which means "bear". It is also the surname of Dmitry Medvedev, the current Prime Minister of Russia. In English, the name Medvedev can be translated to mean "son of the bear". |
-| 21 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 22 | [Curtis Lazar](http://twitter.com/search?q=Curtis+Lazar) | N/A |
-| 23 | [Melle Mel](http://twitter.com/search?q=Melle+Mel) | N/A |
-| 24 | [HYPE BOY](http://twitter.com/search?q=HYPE+BOY) | HYPE BOY is a slang term used to describe someone who is very enthusiastic and supportive of something. It is often used to describe someone who is always trying to get people excited about something, or who is always talking up a particular person or event. |
-| 25 | [Medal of Honor](http://twitter.com/search?q=Medal+of+Honor) | N/A |
-| 26 | [Alex Murdaugh](http://twitter.com/search?q=Alex+Murdaugh) | N/A |
-| 27 | [Detective Pikachu](http://twitter.com/search?q=Detective+Pikachu) | N/A |
-| 28 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 29 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
-| 30 | [MacEwen](http://twitter.com/search?q=MacEwen) | N/A |
-| 31 | [Masego](http://twitter.com/search?q=Masego) | N/A |
-| 32 | [Happy Friyay](http://twitter.com/search?q=Happy+Friyay) | N/A |
-| 33 | [Eminem](http://twitter.com/search?q=Eminem) | N/A |
-| 34 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 35 | [Lacey Evans](http://twitter.com/search?q=Lacey+Evans) | Lacey Evans is a professional wrestler currently signed to WWE. Her ring name is derived from her real name, Macey Estrella-Kadlec. The name "Lacey" is derived from the English word for a type of lace fabric, and "Evans" is a common Welsh surname. |
-| 36 | [Slinky](http://twitter.com/search?q=Slinky) | N/A |
-| 37 | [Bonino](http://twitter.com/search?q=Bonino) | N/A |
-| 38 | [BRUNO MARS](http://twitter.com/search?q=BRUNO+MARS) | N/A |
-| 39 | [ON SALE NOW](http://twitter.com/search?q=ON+SALE+NOW) | N/A |
-| 40 | [Carew](http://twitter.com/search?q=Carew) | N/A |
-| 41 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
-| 42 | [98 Braves](http://twitter.com/search?q=98+Braves) | N/A |
-| 43 | [Ethan Hawke](http://twitter.com/search?q=Ethan+Hawke) | N/A |
-| 44 | [4 YEARS WITH TXT](http://twitter.com/search?q=4+YEARS+WITH+TXT) | N/A |
-| 45 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
-| 46 | [Saban](http://twitter.com/search?q=Saban) | Saban is a Turkish name derived from the Arabic word for “wise” or “learned.” It is also used as a surname in some parts of the world. In English, Saban can be translated to mean “wise one” or “wise man.” |
-| 47 | [Moonlighting](http://twitter.com/search?q=Moonlighting) | N/A |
-| 48 | [Vick](http://twitter.com/search?q=Vick) | N/A |
-| 49 | [Vrana](http://twitter.com/search?q=Vrana) | Vrana is a Croatian word that means "crow" in English. |
-| 50 | [Vindman](http://twitter.com/search?q=Vindman) | N/A |
+| 9 | [#WorldWildlifeDay](http://twitter.com/search?q=%23WorldWildlifeDay) | N/A |
+| 10 | [#AttackOnTitan](http://twitter.com/search?q=%23AttackOnTitan) | N/A |
+| 11 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
+| 12 | [#BandcampFriday](http://twitter.com/search?q=%23BandcampFriday) | N/A |
+| 13 | [Kulikov](http://twitter.com/search?q=Kulikov) | N/A |
+| 14 | [Walgreens](http://twitter.com/search?q=Walgreens) | N/A |
+| 15 | [Morgan Wallen](http://twitter.com/search?q=Morgan+Wallen) | N/A |
+| 16 | [Scherzer](http://twitter.com/search?q=Scherzer) | N/A |
+| 17 | [Vindman](http://twitter.com/search?q=Vindman) | N/A |
+| 18 | [De La Soul](http://twitter.com/search?q=De+La+Soul) | N/A |
+| 19 | [MIROTIC](http://twitter.com/search?q=MIROTIC) | N/A |
+| 20 | [Lemieux](http://twitter.com/search?q=Lemieux) | N/A |
+| 21 | [James Paxton](http://twitter.com/search?q=James+Paxton) | N/A |
+| 22 | [Detective Pikachu](http://twitter.com/search?q=Detective+Pikachu) | N/A |
+| 23 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
+| 24 | [Geoff Neal](http://twitter.com/search?q=Geoff+Neal) | N/A |
+| 25 | [Dahm](http://twitter.com/search?q=Dahm) | N/A |
+| 26 | [Masego](http://twitter.com/search?q=Masego) | N/A |
+| 27 | [Eminem](http://twitter.com/search?q=Eminem) | N/A |
+| 28 | [Judge Newman](http://twitter.com/search?q=Judge+Newman) | N/A |
+| 29 | [Paris Davis](http://twitter.com/search?q=Paris+Davis) | N/A |
+| 30 | [McGinn](http://twitter.com/search?q=McGinn) | McGinn is a surname of Irish origin. It is derived from the Gaelic Mac Fhionnghain, meaning "son of the fair-haired one". |
+| 31 | [Bebe](http://twitter.com/search?q=Bebe) | N/A |
+| 32 | [Crunchyroll](http://twitter.com/search?q=Crunchyroll) | N/A |
+| 33 | [Bonino](http://twitter.com/search?q=Bonino) | N/A |
+| 34 | [Hype Boy](http://twitter.com/search?q=Hype+Boy) | N/A |
+| 35 | [Curtis Lazar](http://twitter.com/search?q=Curtis+Lazar) | N/A |
+| 36 | [Alex Murdaugh](http://twitter.com/search?q=Alex+Murdaugh) | N/A |
+| 37 | [Melle Mel](http://twitter.com/search?q=Melle+Mel) | N/A |
+| 38 | [George Parros](http://twitter.com/search?q=George+Parros) | N/A |
+| 39 | [CJ Stroud](http://twitter.com/search?q=CJ+Stroud) | CJ Stroud is the name of an American football quarterback who currently plays for the Ohio State Buckeyes. He is known for his strong arm and accuracy, as well as his leadership skills. The name CJ Stroud is derived from his initials, C.J., and his last name, Stroud. |
+| 40 | [Medal of Honor](http://twitter.com/search?q=Medal+of+Honor) | N/A |
+| 41 | [Lacey Evans](http://twitter.com/search?q=Lacey+Evans) | Lacey Evans is a professional wrestler currently signed to WWE. Her ring name is derived from her real name, Macey Estrella-Kadlec. The name "Lacey" is derived from the English word for a type of lace fabric, and "Evans" is a common Welsh surname. |
+| 42 | [Carew](http://twitter.com/search?q=Carew) | N/A |
+| 43 | [Riley Greene](http://twitter.com/search?q=Riley+Greene) | N/A |
+| 44 | [Vick](http://twitter.com/search?q=Vick) | N/A |
+| 45 | [Medvedev](http://twitter.com/search?q=Medvedev) | Medvedev is a Russian surname derived from the word medved, which means "bear". It is also the surname of Dmitry Medvedev, the current Prime Minister of Russia. In English, the name Medvedev can be translated to mean "son of the bear". |
+| 46 | [Despacito](http://twitter.com/search?q=Despacito) | N/A |
+| 47 | [Cueto](http://twitter.com/search?q=Cueto) | N/A |
+| 48 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 49 | [Chip Kelly](http://twitter.com/search?q=Chip+Kelly) | N/A |
+| 50 | [MacEwen](http://twitter.com/search?q=MacEwen) | N/A |
 
 
 

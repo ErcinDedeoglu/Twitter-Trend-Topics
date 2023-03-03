@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rio de Janeiro
 
-📆 Last Updated: `2023-03-03 18:17:23 UTC`
+📆 Last Updated: `2023-03-03 19:16:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Luiz Henrique](http://twitter.com/search?q=Luiz+Henrique) | Luiz Henrique is a Portuguese name, derived from the Latin name "Ludovicus Henricus". It is composed of two elements: "Ludovicus", which means "famous warrior" and "Henricus", which means "ruler of the home". In English, it can be translated to mean "Famous Warrior Ruler of the Home". |
-| 2 | [Jacarepaguá](http://twitter.com/search?q=Jacarepagu%c3%a1) | N/A |
-| 3 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
-| 4 | [Aladdin](http://twitter.com/search?q=Aladdin) | N/A |
+| 1 | [Tino](http://twitter.com/search?q=Tino) | N/A |
+| 2 | [Feliz Natal](http://twitter.com/search?q=Feliz+Natal) | Feliz Natal is a Portuguese phrase meaning "Merry Christmas". It is commonly used in Brazil and other Portuguese-speaking countries during the holiday season. |
+| 3 | [Jacarepaguá](http://twitter.com/search?q=Jacarepagu%c3%a1) | N/A |
+| 4 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
 | 5 | [#Sbtsportsrio](http://twitter.com/search?q=%23Sbtsportsrio) | N/A |
-| 6 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 6 | [Aladdin](http://twitter.com/search?q=Aladdin) | N/A |
 | 7 | [Rita](http://twitter.com/search?q=Rita) | Rita is a female given name of Latin origin, derived from the Latin word "rita" meaning "right". It is also a diminutive form of the name Margarita, which means "pearl". |
-| 8 | [Tino](http://twitter.com/search?q=Tino) | N/A |
-| 9 | [#BalançoGeralRJ](http://twitter.com/search?q=%23Balan%c3%a7oGeralRJ) | N/A |
-| 10 | [Copacabana](http://twitter.com/search?q=Copacabana) | N/A |
-| 11 | [laranjeiras](http://twitter.com/search?q=laranjeiras) | N/A |
-| 12 | [Feliz Natal](http://twitter.com/search?q=Feliz+Natal) | Feliz Natal is a Portuguese phrase meaning "Merry Christmas". It is commonly used in Brazil and other Portuguese-speaking countries during the holiday season. |
-| 13 | [Tarzan](http://twitter.com/search?q=Tarzan) | N/A |
-| 14 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
-| 15 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 16 | [Marquinhos](http://twitter.com/search?q=Marquinhos) | Marquinhos is a nickname for the Brazilian footballer Marcos Aoás Corrêa, who plays for Paris Saint-Germain. The name is derived from his first name, Marcos, and is a common nickname in Brazil. In English, it translates to "Little Marcos". |
+| 8 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 9 | [Luiz Henrique](http://twitter.com/search?q=Luiz+Henrique) | Luiz Henrique is a Portuguese name, derived from the Latin name "Ludovicus Henricus". It is composed of two elements: "Ludovicus", which means "famous warrior" and "Henricus", which means "ruler of the home". In English, it can be translated to mean "Famous Warrior Ruler of the Home". |
+| 10 | [#BalançoGeralRJ](http://twitter.com/search?q=%23Balan%c3%a7oGeralRJ) | N/A |
+| 11 | [Copacabana](http://twitter.com/search?q=Copacabana) | N/A |
+| 12 | [Laranjeiras](http://twitter.com/search?q=Laranjeiras) | N/A |
+| 13 | [eduardo paes](http://twitter.com/search?q=eduardo+paes) | N/A |
+| 14 | [Tarzan](http://twitter.com/search?q=Tarzan) | N/A |
+| 15 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
+| 16 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
 | 17 | [on the street](http://twitter.com/search?q=on+the+street) | N/A |
 | 18 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
 | 19 | [Capasso](http://twitter.com/search?q=Capasso) | N/A |
-| 20 | [São Francisco Xavier](http://twitter.com/search?q=S%c3%a3o+Francisco+Xavier) | N/A |
-| 21 | [eduardo paes](http://twitter.com/search?q=eduardo+paes) | N/A |
-| 22 | [Rony](http://twitter.com/search?q=Rony) | Rony is not a word in English. It may be a name or an acronym in another language. |
-| 23 | [Rony](http://twitter.com/search?q=Rony) | Rony is not a word in English. It may be a name or an acronym in another language. |
-| 24 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 25 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 26 | [Juliette](http://twitter.com/search?q=Juliette) | Juliette is a French female given name, derived from the Latin Julia. It is a diminutive form of Julia, meaning "youthful" or "downy". |
-| 27 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 28 | [Ramon](http://twitter.com/search?q=Ramon) | N/A |
-| 29 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
-| 30 | [Bruno Guimarães](http://twitter.com/search?q=Bruno+Guimar%c3%a3es) | N/A |
-| 31 | [#TXT_4th_Anniversary](http://twitter.com/search?q=%23TXT_4th_Anniversary) | N/A |
-| 32 | [André](http://twitter.com/search?q=Andr%c3%a9) | N/A |
-| 33 | [Vitor Roque](http://twitter.com/search?q=Vitor+Roque) | Vitor Roque is a Portuguese name. It is derived from the Latin name Victor, which means "victor" or "conqueror". In English, Vitor Roque can be translated to mean "Victorious Rock". |
-| 34 | [#ToFOUReverlandWithTXT](http://twitter.com/search?q=%23ToFOUReverlandWithTXT) | N/A |
-| 35 | [Weverton](http://twitter.com/search?q=Weverton) | Weverton is a Portuguese name derived from the Germanic name Wifard, which means “strong guardian”. It is also a common surname in Brazil. |
-| 36 | [Marrocos](http://twitter.com/search?q=Marrocos) | N/A |
-| 37 | [Caio Henrique](http://twitter.com/search?q=Caio+Henrique) | N/A |
-| 38 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 39 | [Seleção](http://twitter.com/search?q=Sele%c3%a7%c3%a3o) | N/A |
-| 40 | [Robert Renan](http://twitter.com/search?q=Robert+Renan) | N/A |
-| 41 | [Joelinton](http://twitter.com/search?q=Joelinton) | Joelinton is a Portuguese name, derived from the combination of the names Joel and António. It is usually given to boys and means "God will give". |
-| 42 | [Shingeki](http://twitter.com/search?q=Shingeki) | Shingeki is a Japanese word that translates to "advancement" or "onslaught" in English. It is often used to refer to a sudden, large-scale attack or invasion. |
-| 43 | [#FORAALFACE](http://twitter.com/search?q=%23FORAALFACE) | N/A |
-| 44 | [Sasha Fierce](http://twitter.com/search?q=Sasha+Fierce) | N/A |
-| 45 | [BRUNO MARS](http://twitter.com/search?q=BRUNO+MARS) | N/A |
-| 46 | [4 YEARS WITH TXT](http://twitter.com/search?q=4+YEARS+WITH+TXT) | N/A |
-| 47 | [Drugo](http://twitter.com/search?q=Drugo) | N/A |
-| 48 | [I Am](http://twitter.com/search?q=I+Am) | N/A |
-| 49 | [Zico](http://twitter.com/search?q=Zico) | N/A |
-| 50 | [Gabriel Magalhães](http://twitter.com/search?q=Gabriel+Magalh%c3%a3es) | N/A |
+| 20 | [Rony](http://twitter.com/search?q=Rony) | Rony is not a word in English. It may be a name or an acronym in another language. |
+| 21 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 22 | [Juliette](http://twitter.com/search?q=Juliette) | Juliette is a French female given name, derived from the Latin Julia. It is a diminutive form of Julia, meaning "youthful" or "downy". |
+| 23 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 24 | [#FORAALFACE](http://twitter.com/search?q=%23FORAALFACE) | N/A |
+| 25 | [LARI MERECE RESPEITO](http://twitter.com/search?q=LARI+MERECE+RESPEITO) | N/A |
+| 26 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
+| 27 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
+| 28 | [Andrey](http://twitter.com/search?q=Andrey) | Andrey is a Russian male given name derived from the Greek name Andreas, meaning "manly" or "masculine". |
+| 29 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 30 | [#TXT_4th_Anniversary](http://twitter.com/search?q=%23TXT_4th_Anniversary) | N/A |
+| 31 | [Ramon](http://twitter.com/search?q=Ramon) | N/A |
+| 32 | [#ToFOUReverlandWithTXT](http://twitter.com/search?q=%23ToFOUReverlandWithTXT) | N/A |
+| 33 | [Sasha Fierce](http://twitter.com/search?q=Sasha+Fierce) | N/A |
+| 34 | [Bruno Guimarães](http://twitter.com/search?q=Bruno+Guimar%c3%a3es) | N/A |
+| 35 | [I Am](http://twitter.com/search?q=I+Am) | N/A |
+| 36 | [Shingeki](http://twitter.com/search?q=Shingeki) | Shingeki is a Japanese word that translates to "advancement" or "onslaught" in English. It is often used to refer to a sudden, large-scale attack or invasion. |
+| 37 | [Marrocos](http://twitter.com/search?q=Marrocos) | N/A |
+| 38 | [Seleção](http://twitter.com/search?q=Sele%c3%a7%c3%a3o) | N/A |
+| 39 | [Vitor Roque](http://twitter.com/search?q=Vitor+Roque) | Vitor Roque is a Portuguese name. It is derived from the Latin name Victor, which means "victor" or "conqueror". In English, Vitor Roque can be translated to mean "Victorious Rock". |
+| 40 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 41 | [Caio Henrique](http://twitter.com/search?q=Caio+Henrique) | N/A |
+| 42 | [Joelinton](http://twitter.com/search?q=Joelinton) | Joelinton is a Portuguese name, derived from the combination of the names Joel and António. It is usually given to boys and means "God will give". |
+| 43 | [Weverton](http://twitter.com/search?q=Weverton) | Weverton is a Portuguese name derived from the Germanic name Wifard, which means “strong guardian”. It is also a common surname in Brazil. |
+| 44 | [Robert Renan](http://twitter.com/search?q=Robert+Renan) | N/A |
+| 45 | [Despacito](http://twitter.com/search?q=Despacito) | N/A |
+| 46 | [Zico](http://twitter.com/search?q=Zico) | N/A |
+| 47 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
+| 48 | [Drugo](http://twitter.com/search?q=Drugo) | N/A |
+| 49 | [4 YEARS WITH TXT](http://twitter.com/search?q=4+YEARS+WITH+TXT) | N/A |
+| 50 | [Cactos](http://twitter.com/search?q=Cactos) | N/A |
 
 
 

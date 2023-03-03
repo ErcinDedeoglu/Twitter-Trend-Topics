@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gothenburg
 
-📆 Last Updated: `2023-03-03 18:17:34 UTC`
+📆 Last Updated: `2023-03-03 19:16:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Sweden](</Sweden>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Skål](http://twitter.com/search?q=Sk%c3%a5l) | N/A |
-| 2 | [Trevlig](http://twitter.com/search?q=Trevlig) | N/A |
-| 3 | [Brunnsparken](http://twitter.com/search?q=Brunnsparken) | N/A |
-| 4 | [Göteborg](http://twitter.com/search?q=G%c3%b6teborg) | N/A |
-| 5 | [Morgan Freeman](http://twitter.com/search?q=Morgan+Freeman) | N/A |
-| 6 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 2 | [Brunnsparken](http://twitter.com/search?q=Brunnsparken) | N/A |
+| 3 | [Trevlig](http://twitter.com/search?q=Trevlig) | N/A |
+| 4 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 5 | [Göteborg](http://twitter.com/search?q=G%c3%b6teborg) | N/A |
+| 6 | [Morgan Freeman](http://twitter.com/search?q=Morgan+Freeman) | N/A |
 | 7 | [Tullinge](http://twitter.com/search?q=Tullinge) | N/A |
-| 8 | [gardell](http://twitter.com/search?q=gardell) | N/A |
+| 8 | [#björklöven](http://twitter.com/search?q=%23bj%c3%b6rkl%c3%b6ven) | N/A |
 | 9 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 10 | [Milad Salari](http://twitter.com/search?q=Milad+Salari) | N/A |
-| 11 | [Botkyrka](http://twitter.com/search?q=Botkyrka) | N/A |
-| 12 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 13 | [Alperna](http://twitter.com/search?q=Alperna) | N/A |
-| 14 | [Rand](http://twitter.com/search?q=Rand) | N/A |
-| 15 | [#fplsverige](http://twitter.com/search?q=%23fplsverige) | N/A |
-| 16 | [Peje Emilsson](http://twitter.com/search?q=Peje+Emilsson) | N/A |
-| 17 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
-| 18 | [#on_the_street](http://twitter.com/search?q=%23on_the_street) | N/A |
-| 19 | [#vardagpåminplanet](http://twitter.com/search?q=%23vardagp%c3%a5minplanet) | N/A |
-| 20 | [Detsamma](http://twitter.com/search?q=Detsamma) | N/A |
-| 21 | [Fredag](http://twitter.com/search?q=Fredag) | N/A |
-| 22 | [Ericsson](http://twitter.com/search?q=Ericsson) | N/A |
-| 23 | [Kaskisuo](http://twitter.com/search?q=Kaskisuo) | N/A |
-| 24 | [#ElClasico](http://twitter.com/search?q=%23ElClasico) | #ElClasico is a term used to refer to the football (soccer) match between two of the biggest clubs in Spain, Real Madrid and FC Barcelona. It is one of the most highly anticipated matches in world football and is considered to be one of the greatest rivalries in sport. In English, it translates to "The Classic". |
-| 25 | [Danderyd](http://twitter.com/search?q=Danderyd) | N/A |
-| 26 | [Keynes](http://twitter.com/search?q=Keynes) | N/A |
-| 27 | [Grattis](http://twitter.com/search?q=Grattis) | N/A |
-| 28 | [Efterlyst](http://twitter.com/search?q=Efterlyst) | N/A |
-| 29 | [Allahu Akbar](http://twitter.com/search?q=Allahu+Akbar) | N/A |
-| 30 | [Poromaa](http://twitter.com/search?q=Poromaa) | N/A |
-| 31 | [Lavrov](http://twitter.com/search?q=Lavrov) | N/A |
+| 10 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 11 | [Alperna](http://twitter.com/search?q=Alperna) | N/A |
+| 12 | [Rand](http://twitter.com/search?q=Rand) | N/A |
+| 13 | [#twittssk](http://twitter.com/search?q=%23twittssk) | N/A |
+| 14 | [#vardagpåminplanet](http://twitter.com/search?q=%23vardagp%c3%a5minplanet) | N/A |
+| 15 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
+| 16 | [#on_the_street](http://twitter.com/search?q=%23on_the_street) | N/A |
+| 17 | [Fredag](http://twitter.com/search?q=Fredag) | N/A |
+| 18 | [Milad Salari](http://twitter.com/search?q=Milad+Salari) | N/A |
+| 19 | [Kaskisuo](http://twitter.com/search?q=Kaskisuo) | N/A |
+| 20 | [Peje Emilsson](http://twitter.com/search?q=Peje+Emilsson) | N/A |
+| 21 | [tinder](http://twitter.com/search?q=tinder) | N/A |
+| 22 | [Detsamma](http://twitter.com/search?q=Detsamma) | N/A |
+| 23 | [Keynes](http://twitter.com/search?q=Keynes) | N/A |
+| 24 | [efterlyst](http://twitter.com/search?q=efterlyst) | N/A |
+| 25 | [Oxie](http://twitter.com/search?q=Oxie) | N/A |
+| 26 | [Varberg](http://twitter.com/search?q=Varberg) | N/A |
+| 27 | [Kollektiv](http://twitter.com/search?q=Kollektiv) | N/A |
+| 28 | [Poromaa](http://twitter.com/search?q=Poromaa) | N/A |
+| 29 | [Ericsson](http://twitter.com/search?q=Ericsson) | N/A |
+| 30 | [Baudin](http://twitter.com/search?q=Baudin) | N/A |
+| 31 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
 | 32 | [Djursholm](http://twitter.com/search?q=Djursholm) | N/A |
-| 33 | [Kollektiv](http://twitter.com/search?q=Kollektiv) | N/A |
-| 34 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 35 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 36 | [Förslaget](http://twitter.com/search?q=F%c3%b6rslaget) | N/A |
-| 37 | [Tom Hanks](http://twitter.com/search?q=Tom+Hanks) | Tom Hanks is an American actor, producer, and director. He is best known for his roles in films such as Forrest Gump, Big, Saving Private Ryan, Cast Away, The Da Vinci Code, and Captain Phillips. He has won two Academy Awards and has been nominated for several more. |
-| 38 | [Baudin](http://twitter.com/search?q=Baudin) | N/A |
-| 39 | [Hyresgästföreningen](http://twitter.com/search?q=Hyresg%c3%a4stf%c3%b6reningen) | N/A |
-| 40 | [Trolltider](http://twitter.com/search?q=Trolltider) | N/A |
-| 41 | [råsunda](http://twitter.com/search?q=r%c3%a5sunda) | N/A |
-| 42 | [Föräldrarna](http://twitter.com/search?q=F%c3%b6r%c3%a4ldrarna) | N/A |
-| 43 | [guldspaden](http://twitter.com/search?q=guldspaden) | N/A |
-| 44 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 45 | [Elfsborg](http://twitter.com/search?q=Elfsborg) | N/A |
-| 46 | [Einar](http://twitter.com/search?q=Einar) | N/A |
-| 47 | [Drottninggatan](http://twitter.com/search?q=Drottninggatan) | N/A |
-| 48 | [Kunskapsskolan](http://twitter.com/search?q=Kunskapsskolan) | N/A |
+| 33 | [Allahu Akbar](http://twitter.com/search?q=Allahu+Akbar) | N/A |
+| 34 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 35 | [Förslaget](http://twitter.com/search?q=F%c3%b6rslaget) | N/A |
+| 36 | [Tom Hanks](http://twitter.com/search?q=Tom+Hanks) | Tom Hanks is an American actor, producer, and director. He is best known for his roles in films such as Forrest Gump, Big, Saving Private Ryan, Cast Away, The Da Vinci Code, and Captain Phillips. He has won two Academy Awards and has been nominated for several more. |
+| 37 | [Lavrov](http://twitter.com/search?q=Lavrov) | N/A |
+| 38 | [Hyresgästföreningen](http://twitter.com/search?q=Hyresg%c3%a4stf%c3%b6reningen) | N/A |
+| 39 | [råsunda](http://twitter.com/search?q=r%c3%a5sunda) | N/A |
+| 40 | [Föräldrarna](http://twitter.com/search?q=F%c3%b6r%c3%a4ldrarna) | N/A |
+| 41 | [guldspaden](http://twitter.com/search?q=guldspaden) | N/A |
+| 42 | [Elfsborg](http://twitter.com/search?q=Elfsborg) | N/A |
+| 43 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 44 | [Einar](http://twitter.com/search?q=Einar) | N/A |
+| 45 | [Trolltider](http://twitter.com/search?q=Trolltider) | N/A |
+| 46 | [Danderyd](http://twitter.com/search?q=Danderyd) | N/A |
+| 47 | [kunskapsskolan](http://twitter.com/search?q=kunskapsskolan) | N/A |
+| 48 | [Hayek](http://twitter.com/search?q=Hayek) | N/A |
 
 
 

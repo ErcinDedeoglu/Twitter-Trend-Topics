@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Albuquerque
 
-📆 Last Updated: `2023-03-03 18:17:57 UTC`
+📆 Last Updated: `2023-03-03 19:16:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,51 +18,51 @@ This is top 50 for [United States](</United States>)
 | 1 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 2 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
 | 3 | [#EmployeeAppreciationDay](http://twitter.com/search?q=%23EmployeeAppreciationDay) | N/A |
-| 4 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
-| 5 | [#BandcampFriday](http://twitter.com/search?q=%23BandcampFriday) | N/A |
-| 6 | [Walgreens](http://twitter.com/search?q=Walgreens) | N/A |
-| 7 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
-| 8 | [Morgan Wallen](http://twitter.com/search?q=Morgan+Wallen) | N/A |
-| 9 | [Lemieux](http://twitter.com/search?q=Lemieux) | N/A |
-| 10 | [De La Soul](http://twitter.com/search?q=De+La+Soul) | N/A |
-| 11 | [MIROTIC](http://twitter.com/search?q=MIROTIC) | N/A |
-| 12 | [Judge Newman](http://twitter.com/search?q=Judge+Newman) | N/A |
-| 13 | [Dahm](http://twitter.com/search?q=Dahm) | N/A |
-| 14 | [Paris Davis](http://twitter.com/search?q=Paris+Davis) | N/A |
-| 15 | [Medvedev](http://twitter.com/search?q=Medvedev) | Medvedev is a Russian surname derived from the word medved, which means "bear". It is also the surname of Dmitry Medvedev, the current Prime Minister of Russia. In English, the name Medvedev can be translated to mean "son of the bear". |
-| 16 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 17 | [Curtis Lazar](http://twitter.com/search?q=Curtis+Lazar) | N/A |
-| 18 | [Melle Mel](http://twitter.com/search?q=Melle+Mel) | N/A |
-| 19 | [HYPE BOY](http://twitter.com/search?q=HYPE+BOY) | HYPE BOY is a slang term used to describe someone who is very enthusiastic and supportive of something. It is often used to describe someone who is always trying to get people excited about something, or who is always talking up a particular person or event. |
-| 20 | [Medal of Honor](http://twitter.com/search?q=Medal+of+Honor) | N/A |
-| 21 | [Alex Murdaugh](http://twitter.com/search?q=Alex+Murdaugh) | N/A |
-| 22 | [Detective Pikachu](http://twitter.com/search?q=Detective+Pikachu) | N/A |
-| 23 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 24 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
-| 25 | [MacEwen](http://twitter.com/search?q=MacEwen) | N/A |
-| 26 | [Masego](http://twitter.com/search?q=Masego) | N/A |
-| 27 | [Happy Friyay](http://twitter.com/search?q=Happy+Friyay) | N/A |
-| 28 | [Eminem](http://twitter.com/search?q=Eminem) | N/A |
-| 29 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 30 | [Lacey Evans](http://twitter.com/search?q=Lacey+Evans) | Lacey Evans is a professional wrestler currently signed to WWE. Her ring name is derived from her real name, Macey Estrella-Kadlec. The name "Lacey" is derived from the English word for a type of lace fabric, and "Evans" is a common Welsh surname. |
-| 31 | [Slinky](http://twitter.com/search?q=Slinky) | N/A |
-| 32 | [Bonino](http://twitter.com/search?q=Bonino) | N/A |
-| 33 | [BRUNO MARS](http://twitter.com/search?q=BRUNO+MARS) | N/A |
-| 34 | [ON SALE NOW](http://twitter.com/search?q=ON+SALE+NOW) | N/A |
-| 35 | [Carew](http://twitter.com/search?q=Carew) | N/A |
-| 36 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
-| 37 | [98 Braves](http://twitter.com/search?q=98+Braves) | N/A |
-| 38 | [Ethan Hawke](http://twitter.com/search?q=Ethan+Hawke) | N/A |
-| 39 | [4 YEARS WITH TXT](http://twitter.com/search?q=4+YEARS+WITH+TXT) | N/A |
-| 40 | [Saban](http://twitter.com/search?q=Saban) | Saban is a Turkish name derived from the Arabic word for “wise” or “learned.” It is also used as a surname in some parts of the world. In English, Saban can be translated to mean “wise one” or “wise man.” |
-| 41 | [Moonlighting](http://twitter.com/search?q=Moonlighting) | N/A |
-| 42 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
-| 43 | [Vick](http://twitter.com/search?q=Vick) | N/A |
-| 44 | [Vrana](http://twitter.com/search?q=Vrana) | Vrana is a Croatian word that means "crow" in English. |
-| 45 | [Vindman](http://twitter.com/search?q=Vindman) | N/A |
-| 46 | [CJ Stroud](http://twitter.com/search?q=CJ+Stroud) | CJ Stroud is the name of an American football quarterback who currently plays for the Ohio State Buckeyes. He is known for his strong arm and accuracy, as well as his leadership skills. The name CJ Stroud is derived from his initials, C.J., and his last name, Stroud. |
-| 47 | [Crunchyroll](http://twitter.com/search?q=Crunchyroll) | N/A |
-| 48 | [Richard Simmons](http://twitter.com/search?q=Richard+Simmons) | N/A |
+| 4 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
+| 5 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
+| 6 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
+| 7 | [#WorldWildlifeDay](http://twitter.com/search?q=%23WorldWildlifeDay) | N/A |
+| 8 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
+| 9 | [Kulikov](http://twitter.com/search?q=Kulikov) | N/A |
+| 10 | [Walgreens](http://twitter.com/search?q=Walgreens) | N/A |
+| 11 | [Morgan Wallen](http://twitter.com/search?q=Morgan+Wallen) | N/A |
+| 12 | [De La Soul](http://twitter.com/search?q=De+La+Soul) | N/A |
+| 13 | [Vindman](http://twitter.com/search?q=Vindman) | N/A |
+| 14 | [Scherzer](http://twitter.com/search?q=Scherzer) | N/A |
+| 15 | [MIROTIC](http://twitter.com/search?q=MIROTIC) | N/A |
+| 16 | [Lemieux](http://twitter.com/search?q=Lemieux) | N/A |
+| 17 | [James Paxton](http://twitter.com/search?q=James+Paxton) | N/A |
+| 18 | [Detective Pikachu](http://twitter.com/search?q=Detective+Pikachu) | N/A |
+| 19 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
+| 20 | [Geoff Neal](http://twitter.com/search?q=Geoff+Neal) | N/A |
+| 21 | [Dahm](http://twitter.com/search?q=Dahm) | N/A |
+| 22 | [Masego](http://twitter.com/search?q=Masego) | N/A |
+| 23 | [Eminem](http://twitter.com/search?q=Eminem) | N/A |
+| 24 | [Judge Newman](http://twitter.com/search?q=Judge+Newman) | N/A |
+| 25 | [Paris Davis](http://twitter.com/search?q=Paris+Davis) | N/A |
+| 26 | [McGinn](http://twitter.com/search?q=McGinn) | McGinn is a surname of Irish origin. It is derived from the Gaelic Mac Fhionnghain, meaning "son of the fair-haired one". |
+| 27 | [Bonino](http://twitter.com/search?q=Bonino) | N/A |
+| 28 | [Bebe](http://twitter.com/search?q=Bebe) | N/A |
+| 29 | [Crunchyroll](http://twitter.com/search?q=Crunchyroll) | N/A |
+| 30 | [Hype Boy](http://twitter.com/search?q=Hype+Boy) | N/A |
+| 31 | [Curtis Lazar](http://twitter.com/search?q=Curtis+Lazar) | N/A |
+| 32 | [Alex Murdaugh](http://twitter.com/search?q=Alex+Murdaugh) | N/A |
+| 33 | [Melle Mel](http://twitter.com/search?q=Melle+Mel) | N/A |
+| 34 | [George Parros](http://twitter.com/search?q=George+Parros) | N/A |
+| 35 | [CJ Stroud](http://twitter.com/search?q=CJ+Stroud) | CJ Stroud is the name of an American football quarterback who currently plays for the Ohio State Buckeyes. He is known for his strong arm and accuracy, as well as his leadership skills. The name CJ Stroud is derived from his initials, C.J., and his last name, Stroud. |
+| 36 | [Medal of Honor](http://twitter.com/search?q=Medal+of+Honor) | N/A |
+| 37 | [Carew](http://twitter.com/search?q=Carew) | N/A |
+| 38 | [Lacey Evans](http://twitter.com/search?q=Lacey+Evans) | Lacey Evans is a professional wrestler currently signed to WWE. Her ring name is derived from her real name, Macey Estrella-Kadlec. The name "Lacey" is derived from the English word for a type of lace fabric, and "Evans" is a common Welsh surname. |
+| 39 | [Riley Greene](http://twitter.com/search?q=Riley+Greene) | N/A |
+| 40 | [Despacito](http://twitter.com/search?q=Despacito) | N/A |
+| 41 | [Vick](http://twitter.com/search?q=Vick) | N/A |
+| 42 | [Medvedev](http://twitter.com/search?q=Medvedev) | Medvedev is a Russian surname derived from the word medved, which means "bear". It is also the surname of Dmitry Medvedev, the current Prime Minister of Russia. In English, the name Medvedev can be translated to mean "son of the bear". |
+| 43 | [Cueto](http://twitter.com/search?q=Cueto) | N/A |
+| 44 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 45 | [Chip Kelly](http://twitter.com/search?q=Chip+Kelly) | N/A |
+| 46 | [MacEwen](http://twitter.com/search?q=MacEwen) | N/A |
+| 47 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 48 | [Ethan Hawke](http://twitter.com/search?q=Ethan+Hawke) | N/A |
 
 
 

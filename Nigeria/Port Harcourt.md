@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Harcourt
 
-📆 Last Updated: `2023-03-03 18:17:45 UTC`
+📆 Last Updated: `2023-03-03 19:16:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,51 +18,51 @@ This is top 50 for [Nigeria](</Nigeria>)
 | 1 | [#JandorForGovernor](http://twitter.com/search?q=%23JandorForGovernor) | N/A |
 | 2 | [Banky](http://twitter.com/search?q=Banky) | N/A |
 | 3 | [#SanwoForStability](http://twitter.com/search?q=%23SanwoForStability) | N/A |
-| 4 | [#itelA60](http://twitter.com/search?q=%23itelA60) | N/A |
+| 4 | [Game of Thrones](http://twitter.com/search?q=Game+of+Thrones) | N/A |
 | 5 | [Dangote](http://twitter.com/search?q=Dangote) | N/A |
-| 6 | [Attah](http://twitter.com/search?q=Attah) | N/A |
-| 7 | [Deyemi](http://twitter.com/search?q=Deyemi) | N/A |
-| 8 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
-| 9 | [Djokovic](http://twitter.com/search?q=Djokovic) | Djokovic is a surname of Serbian origin. It is derived from the given name Djoko, which is a diminutive of the name Jovan (John). The meaning of Djokovic in English is "son of John". |
-| 10 | [Game of Thrones](http://twitter.com/search?q=Game+of+Thrones) | N/A |
-| 11 | [Medvedev](http://twitter.com/search?q=Medvedev) | Medvedev is a Russian surname derived from the word medved, which means "bear". It is also the surname of Dmitry Medvedev, the current Prime Minister of Russia. In English, the name Medvedev can be translated to mean "son of the bear". |
-| 12 | [CBN Act](http://twitter.com/search?q=CBN+Act) | N/A |
-| 13 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 14 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 15 | [Peaky Blinders](http://twitter.com/search?q=Peaky+Blinders) | N/A |
-| 16 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
-| 17 | [Reece James](http://twitter.com/search?q=Reece+James) | Reece James is a masculine given name of English origin. It is derived from the Old English elements rēad (red) and cēosan (to choose). The name can also be spelled as Reece or Reecey. |
-| 18 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 19 | [TOP GUY YEMI CREGX](http://twitter.com/search?q=TOP+GUY+YEMI+CREGX) | N/A |
-| 20 | [8 Series](http://twitter.com/search?q=8+Series) | N/A |
-| 21 | [Old Naira](http://twitter.com/search?q=Old+Naira) | N/A |
-| 22 | [So LP](http://twitter.com/search?q=So+LP) | N/A |
-| 23 | [MAN OF THE SEASON](http://twitter.com/search?q=MAN+OF+THE+SEASON) | N/A |
-| 24 | [Breaking Bad](http://twitter.com/search?q=Breaking+Bad) | N/A |
-| 25 | [Thaddeus](http://twitter.com/search?q=Thaddeus) | N/A |
-| 26 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 27 | [Prison Break](http://twitter.com/search?q=Prison+Break) | N/A |
-| 28 | [Finished](http://twitter.com/search?q=Finished) | N/A |
-| 29 | [APGA](http://twitter.com/search?q=APGA) | N/A |
-| 30 | [Hembe](http://twitter.com/search?q=Hembe) | N/A |
-| 31 | [Adesua](http://twitter.com/search?q=Adesua) | N/A |
+| 6 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 7 | [Desmond Elliot](http://twitter.com/search?q=Desmond+Elliot) | N/A |
+| 8 | [Attah](http://twitter.com/search?q=Attah) | N/A |
+| 9 | [Deyemi](http://twitter.com/search?q=Deyemi) | N/A |
+| 10 | [CBN Act](http://twitter.com/search?q=CBN+Act) | N/A |
+| 11 | [#AttackOnTitan](http://twitter.com/search?q=%23AttackOnTitan) | N/A |
+| 12 | [The Originals](http://twitter.com/search?q=The+Originals) | N/A |
+| 13 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
+| 14 | [Peaky Blinders](http://twitter.com/search?q=Peaky+Blinders) | N/A |
+| 15 | [Medvedev](http://twitter.com/search?q=Medvedev) | Medvedev is a Russian surname derived from the word medved, which means "bear". It is also the surname of Dmitry Medvedev, the current Prime Minister of Russia. In English, the name Medvedev can be translated to mean "son of the bear". |
+| 16 | [Prison Break](http://twitter.com/search?q=Prison+Break) | N/A |
+| 17 | [8 Series](http://twitter.com/search?q=8+Series) | N/A |
+| 18 | [So LP](http://twitter.com/search?q=So+LP) | N/A |
+| 19 | [10 Apps](http://twitter.com/search?q=10+Apps) | N/A |
+| 20 | [Djokovic](http://twitter.com/search?q=Djokovic) | Djokovic is a surname of Serbian origin. It is derived from the given name Djoko, which is a diminutive of the name Jovan (John). The meaning of Djokovic in English is "son of John". |
+| 21 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 22 | [Breaking Bad](http://twitter.com/search?q=Breaking+Bad) | N/A |
+| 23 | [Reece James](http://twitter.com/search?q=Reece+James) | Reece James is a masculine given name of English origin. It is derived from the Old English elements rēad (red) and cēosan (to choose). The name can also be spelled as Reece or Reecey. |
+| 24 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
+| 25 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 26 | [APGA](http://twitter.com/search?q=APGA) | N/A |
+| 27 | [Russians](http://twitter.com/search?q=Russians) | N/A |
+| 28 | [TOP GUY YEMI CREGX](http://twitter.com/search?q=TOP+GUY+YEMI+CREGX) | N/A |
+| 29 | [Mason Greenwood](http://twitter.com/search?q=Mason+Greenwood) | Mason Greenwood is a professional footballer who plays for Manchester United in the English Premier League. He is an attacking player who primarily plays as a forward. His name is derived from his hometown of Mason, England, and the word "greenwood," which refers to a type of forest. |
+| 30 | [Finished](http://twitter.com/search?q=Finished) | N/A |
+| 31 | [Tiwa](http://twitter.com/search?q=Tiwa) | N/A |
 | 32 | [Proudly Igbo](http://twitter.com/search?q=Proudly+Igbo) | N/A |
-| 33 | [The Originals](http://twitter.com/search?q=The+Originals) | N/A |
-| 34 | [Success](http://twitter.com/search?q=Success) | N/A |
-| 35 | [Amaka](http://twitter.com/search?q=Amaka) | N/A |
-| 36 | [Balance](http://twitter.com/search?q=Balance) | N/A |
-| 37 | [Russians](http://twitter.com/search?q=Russians) | N/A |
-| 38 | [Tiwa](http://twitter.com/search?q=Tiwa) | N/A |
-| 39 | [Mason Greenwood](http://twitter.com/search?q=Mason+Greenwood) | Mason Greenwood is a professional footballer who plays for Manchester United in the English Premier League. He is an attacking player who primarily plays as a forward. His name is derived from his hometown of Mason, England, and the word "greenwood," which refers to a type of forest. |
-| 40 | [LETTER TO KANAGA JNR](http://twitter.com/search?q=LETTER+TO+KANAGA+JNR) | N/A |
-| 41 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 42 | [Nwoke](http://twitter.com/search?q=Nwoke) | N/A |
-| 43 | [Emefiele](http://twitter.com/search?q=Emefiele) | N/A |
-| 44 | [Excellency](http://twitter.com/search?q=Excellency) | N/A |
-| 45 | [Top to Bottom](http://twitter.com/search?q=Top+to+Bottom) | N/A |
-| 46 | [Enoch](http://twitter.com/search?q=Enoch) | N/A |
-| 47 | [Beauty](http://twitter.com/search?q=Beauty) | N/A |
-| 48 | [Urhobo](http://twitter.com/search?q=Urhobo) | N/A |
+| 33 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 34 | [Hembe](http://twitter.com/search?q=Hembe) | N/A |
+| 35 | [David Hundeyin](http://twitter.com/search?q=David+Hundeyin) | N/A |
+| 36 | [Thaddeus](http://twitter.com/search?q=Thaddeus) | N/A |
+| 37 | [MAN OF THE SEASON](http://twitter.com/search?q=MAN+OF+THE+SEASON) | N/A |
+| 38 | [Amaka](http://twitter.com/search?q=Amaka) | N/A |
+| 39 | [Nwoke](http://twitter.com/search?q=Nwoke) | N/A |
+| 40 | [Funke](http://twitter.com/search?q=Funke) | N/A |
+| 41 | [Urhobo](http://twitter.com/search?q=Urhobo) | N/A |
+| 42 | [Success](http://twitter.com/search?q=Success) | N/A |
+| 43 | [Pepper](http://twitter.com/search?q=Pepper) | N/A |
+| 44 | [Nwanne](http://twitter.com/search?q=Nwanne) | N/A |
+| 45 | [Emefiele](http://twitter.com/search?q=Emefiele) | N/A |
+| 46 | [Top to Bottom](http://twitter.com/search?q=Top+to+Bottom) | N/A |
+| 47 | [Excellency](http://twitter.com/search?q=Excellency) | N/A |
+| 48 | [Lojay](http://twitter.com/search?q=Lojay) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Izmir
 
-📆 Last Updated: `2023-03-03 18:17:56 UTC`
+📆 Last Updated: `2023-03-03 19:16:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Bahçeli](http://twitter.com/search?q=Bah%c3%a7eli) | N/A |
-| 2 | [Tayyip](http://twitter.com/search?q=Tayyip) | N/A |
-| 3 | [Milletin](http://twitter.com/search?q=Milletin) | N/A |
+| 1 | [Milletin](http://twitter.com/search?q=Milletin) | N/A |
+| 2 | [AKP'ye](http://twitter.com/search?q=AKP%27ye) | N/A |
+| 3 | [#HataydaSuYok](http://twitter.com/search?q=%23HataydaSuYok) | N/A |
 | 4 | [#SecimOnuTarimaAtama](http://twitter.com/search?q=%23SecimOnuTarimaAtama) | N/A |
-| 5 | [Meral Akşener](http://twitter.com/search?q=Meral+Ak%c5%9fener) | N/A |
-| 6 | [#DenklikHakkıTorbaYasaya](http://twitter.com/search?q=%23DenklikHakk%c4%b1TorbaYasaya) | N/A |
-| 7 | [#AltılıMasaDağıldı](http://twitter.com/search?q=%23Alt%c4%b1l%c4%b1MasaDa%c4%9f%c4%b1ld%c4%b1) | N/A |
-| 8 | [HalkSeninle Destici](http://twitter.com/search?q=HalkSeninle+Destici) | N/A |
-| 9 | [#iyiparti](http://twitter.com/search?q=%23iyiparti) | N/A |
-| 10 | [Akşener](http://twitter.com/search?q=Ak%c5%9fener) | N/A |
-| 11 | [#HataydaSuYok](http://twitter.com/search?q=%23HataydaSuYok) | N/A |
-| 12 | [Tarih](http://twitter.com/search?q=Tarih) | N/A |
-| 13 | [Kamuda35Yaş TorbaYasaya](http://twitter.com/search?q=Kamuda35Ya%c5%9f+TorbaYasaya) | N/A |
-| 14 | [İmamoğlu](http://twitter.com/search?q=%c4%b0mamo%c4%9flu) | N/A |
-| 15 | [Yılmaz Özdil](http://twitter.com/search?q=Y%c4%b1lmaz+%c3%96zdil) | N/A |
-| 16 | [Aday Belli Karar Net](http://twitter.com/search?q=Aday+Belli+Karar+Net) | N/A |
-| 17 | [Sofra](http://twitter.com/search?q=Sofra) | N/A |
+| 5 | [#AltılıMasaDağıldı](http://twitter.com/search?q=%23Alt%c4%b1l%c4%b1MasaDa%c4%9f%c4%b1ld%c4%b1) | N/A |
+| 6 | [Ulusal Risk Kalkanı](http://twitter.com/search?q=Ulusal+Risk+Kalkan%c4%b1) | N/A |
+| 7 | [Meral Akşener](http://twitter.com/search?q=Meral+Ak%c5%9fener) | N/A |
+| 8 | [Osman Gökçek](http://twitter.com/search?q=Osman+G%c3%b6k%c3%a7ek) | N/A |
+| 9 | [#DenklikHakkıTorbaYasaya](http://twitter.com/search?q=%23DenklikHakk%c4%b1TorbaYasaya) | N/A |
+| 10 | [#iyiparti](http://twitter.com/search?q=%23iyiparti) | N/A |
+| 11 | [HalkSeninle Destici](http://twitter.com/search?q=HalkSeninle+Destici) | N/A |
+| 12 | [DusİlkDonem NeZaman](http://twitter.com/search?q=Dus%c4%b0lkDonem+NeZaman) | N/A |
+| 13 | [Tarih](http://twitter.com/search?q=Tarih) | N/A |
+| 14 | [Yılmaz Özdil](http://twitter.com/search?q=Y%c4%b1lmaz+%c3%96zdil) | N/A |
+| 15 | [Kamuda35Yaş TorbaYasaya](http://twitter.com/search?q=Kamuda35Ya%c5%9f+TorbaYasaya) | N/A |
+| 16 | [İmamoğlu](http://twitter.com/search?q=%c4%b0mamo%c4%9flu) | N/A |
+| 17 | [Fenerbahçe Beko](http://twitter.com/search?q=Fenerbah%c3%a7e+Beko) | N/A |
 | 18 | [Halil İbrahim](http://twitter.com/search?q=Halil+%c4%b0brahim) | N/A |
-| 19 | [Ümit Özdağ](http://twitter.com/search?q=%c3%9cmit+%c3%96zda%c4%9f) | N/A |
-| 20 | [Yazdınız](http://twitter.com/search?q=Yazd%c4%b1n%c4%b1z) | N/A |
-| 21 | [Koltuk](http://twitter.com/search?q=Koltuk) | N/A |
-| 22 | [Yaşar Okuyan](http://twitter.com/search?q=Ya%c5%9far+Okuyan) | Yaşar Okuyan is a Turkish name meaning "He Who Reads". It is a popular name in Turkey, and is often given to boys. |
-| 23 | [Ahmet Kaya](http://twitter.com/search?q=Ahmet+Kaya) | N/A |
-| 24 | [Başbakan](http://twitter.com/search?q=Ba%c5%9fbakan) | N/A |
-| 25 | [Yazma](http://twitter.com/search?q=Yazma) | N/A |
-| 26 | [Cumhur](http://twitter.com/search?q=Cumhur) | N/A |
-| 27 | [Truva](http://twitter.com/search?q=Truva) | N/A |
-| 28 | [Fenerbahçe Beko](http://twitter.com/search?q=Fenerbah%c3%a7e+Beko) | N/A |
-| 29 | [Hüseyin Baş](http://twitter.com/search?q=H%c3%bcseyin+Ba%c5%9f) | N/A |
-| 30 | [Siyasi](http://twitter.com/search?q=Siyasi) | N/A |
+| 19 | [Sofra](http://twitter.com/search?q=Sofra) | N/A |
+| 20 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 21 | [Aday Belli Karar Net](http://twitter.com/search?q=Aday+Belli+Karar+Net) | N/A |
+| 22 | [İNCE İNCE](http://twitter.com/search?q=%c4%b0NCE+%c4%b0NCE) | N/A |
+| 23 | [Yazdınız](http://twitter.com/search?q=Yazd%c4%b1n%c4%b1z) | N/A |
+| 24 | [Bjelica](http://twitter.com/search?q=Bjelica) | N/A |
+| 25 | [Ersun](http://twitter.com/search?q=Ersun) | N/A |
+| 26 | [İhanet](http://twitter.com/search?q=%c4%b0hanet) | N/A |
+| 27 | [Ümit Özdağ](http://twitter.com/search?q=%c3%9cmit+%c3%96zda%c4%9f) | N/A |
+| 28 | [Ahmet Kaya](http://twitter.com/search?q=Ahmet+Kaya) | N/A |
+| 29 | [Fuat](http://twitter.com/search?q=Fuat) | Fuat is a Turkish name derived from the Arabic word "Fawwaz", meaning "successful". It is also used as a surname in Turkey. |
+| 30 | [Hüseyin Baş](http://twitter.com/search?q=H%c3%bcseyin+Ba%c5%9f) | N/A |
 | 31 | [Evcilik](http://twitter.com/search?q=Evcilik) | N/A |
-| 32 | [Martta10BinDyt](http://twitter.com/search?q=Martta10BinDyt) | N/A |
-| 33 | [CHP'li](http://twitter.com/search?q=CHP%27li) | N/A |
-| 34 | [Masanın](http://twitter.com/search?q=Masan%c4%b1n) | N/A |
-| 35 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 36 | [Tura](http://twitter.com/search?q=Tura) | N/A |
-| 37 | [Kumar](http://twitter.com/search?q=Kumar) | N/A |
-| 38 | [ADAM KAZANACAK](http://twitter.com/search?q=ADAM+KAZANACAK) | N/A |
-| 39 | [CHP'ye](http://twitter.com/search?q=CHP%27ye) | N/A |
-| 40 | [Hayal](http://twitter.com/search?q=Hayal) | N/A |
-| 41 | [Kadın](http://twitter.com/search?q=Kad%c4%b1n) | N/A |
-| 42 | [Halkın](http://twitter.com/search?q=Halk%c4%b1n) | N/A |
-| 43 | [Davutoğlu](http://twitter.com/search?q=Davuto%c4%9flu) | Davutoğlu is a Turkish surname. It is derived from the Turkish word "davut", which means "wise". In English, the name Davutoğlu would translate to "wise man". |
-| 44 | [Dede](http://twitter.com/search?q=Dede) | N/A |
-| 45 | [Bittiniz](http://twitter.com/search?q=Bittiniz) | N/A |
-| 46 | [Erkan Baş](http://twitter.com/search?q=Erkan+Ba%c5%9f) | N/A |
-| 47 | [Düne](http://twitter.com/search?q=D%c3%bcne) | N/A |
-| 48 | [Sağcı](http://twitter.com/search?q=Sa%c4%9fc%c4%b1) | N/A |
-| 49 | [Bjelica](http://twitter.com/search?q=Bjelica) | N/A |
-| 50 | [AKP'ye](http://twitter.com/search?q=AKP%27ye) | N/A |
+| 32 | [Koltuk](http://twitter.com/search?q=Koltuk) | N/A |
+| 33 | [Başbakan](http://twitter.com/search?q=Ba%c5%9fbakan) | N/A |
+| 34 | [Yazma](http://twitter.com/search?q=Yazma) | N/A |
+| 35 | [CHP'li](http://twitter.com/search?q=CHP%27li) | N/A |
+| 36 | [Cumhur](http://twitter.com/search?q=Cumhur) | N/A |
+| 37 | [Yaşar Okuyan](http://twitter.com/search?q=Ya%c5%9far+Okuyan) | Yaşar Okuyan is a Turkish name meaning "He Who Reads". It is a popular name in Turkey, and is often given to boys. |
+| 38 | [CHP'ye](http://twitter.com/search?q=CHP%27ye) | N/A |
+| 39 | [Siyasi](http://twitter.com/search?q=Siyasi) | N/A |
+| 40 | [Tura](http://twitter.com/search?q=Tura) | N/A |
+| 41 | [Bittiniz](http://twitter.com/search?q=Bittiniz) | N/A |
+| 42 | [Masanın](http://twitter.com/search?q=Masan%c4%b1n) | N/A |
+| 43 | [Düne](http://twitter.com/search?q=D%c3%bcne) | N/A |
+| 44 | [Hayal](http://twitter.com/search?q=Hayal) | N/A |
+| 45 | [Kadın](http://twitter.com/search?q=Kad%c4%b1n) | N/A |
+| 46 | [Truva](http://twitter.com/search?q=Truva) | N/A |
+| 47 | [Halkın](http://twitter.com/search?q=Halk%c4%b1n) | N/A |
+| 48 | [Kumar](http://twitter.com/search?q=Kumar) | N/A |
+| 49 | [Davutoğlu](http://twitter.com/search?q=Davuto%c4%9flu) | Davutoğlu is a Turkish surname. It is derived from the Turkish word "davut", which means "wise". In English, the name Davutoğlu would translate to "wise man". |
+| 50 | [Diğer 4](http://twitter.com/search?q=Di%c4%9fer+4) | N/A |
 
 
 

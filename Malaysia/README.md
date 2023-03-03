@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Malaysia
 
-📆 Last Updated: `2023-03-03 18:18:12 UTC`
+📆 Last Updated: `2023-03-03 19:16:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Malaysia
 | 1 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 2 | [#ToFOUReverlandWithTXT](http://twitter.com/search?q=%23ToFOUReverlandWithTXT) | N/A |
 | 3 | [#TXT_4th_Anniversary](http://twitter.com/search?q=%23TXT_4th_Anniversary) | N/A |
-| 4 | [#TheMaskedSingerMalaysia](http://twitter.com/search?q=%23TheMaskedSingerMalaysia) | N/A |
-| 5 | [#BORNPINKinKL](http://twitter.com/search?q=%23BORNPINKinKL) | N/A |
-| 6 | [#ProjekHighCouncil](http://twitter.com/search?q=%23ProjekHighCouncil) | N/A |
+| 4 | [#BORNPINKinKL](http://twitter.com/search?q=%23BORNPINKinKL) | N/A |
+| 5 | [#ProjekHighCouncil](http://twitter.com/search?q=%23ProjekHighCouncil) | N/A |
+| 6 | [#TheMaskedSingerMalaysia](http://twitter.com/search?q=%23TheMaskedSingerMalaysia) | N/A |
 | 7 | [4 YEARS WITH TXT](http://twitter.com/search?q=4+YEARS+WITH+TXT) | N/A |
-| 8 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 9 | [Ultimate Bias](http://twitter.com/search?q=Ultimate+Bias) | N/A |
-| 10 | [8 SVT](http://twitter.com/search?q=8+SVT) | N/A |
-| 11 | [First Bias](http://twitter.com/search?q=First+Bias) | N/A |
-| 12 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
-| 13 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
-| 14 | [WHO IN SEVENTEEN](http://twitter.com/search?q=WHO+IN+SEVENTEEN) | N/A |
-| 15 | [READY TO BE SPEECHLESS](http://twitter.com/search?q=READY+TO+BE+SPEECHLESS) | N/A |
-| 16 | [taekook](http://twitter.com/search?q=taekook) | Taekook is the name of a popular ship between two characters from the South Korean boy band BTS, Taehyung (V) and Jungkook. It is a portmanteau of their names, and it is used by fans to refer to the romantic relationship between them. |
-| 17 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 18 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 19 | [dawon](http://twitter.com/search?q=dawon) | N/A |
-| 20 | [jennie](http://twitter.com/search?q=jennie) | N/A |
-| 21 | [Happy 4](http://twitter.com/search?q=Happy+4) | N/A |
-| 22 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 23 | [Luda](http://twitter.com/search?q=Luda) | N/A |
-| 24 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
-| 25 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 26 | [wjsn](http://twitter.com/search?q=wjsn) | WJSN stands for Cosmic Girls, a South Korean girl group formed in 2016 by Starship Entertainment and Yuehua Entertainment. The group consists of thirteen members: Seola, Xuan Yi, Bona, Exy, Soobin, Luda, Dawon, Eunseo, Cheng Xiao, Mei Qi, Yeoreum, Dayoung and Yeonjung. The name WJSN is an acronym for “Wonderful Journey to the Stars”. |
+| 8 | [Ultimate Bias](http://twitter.com/search?q=Ultimate+Bias) | N/A |
+| 9 | [First Bias](http://twitter.com/search?q=First+Bias) | N/A |
+| 10 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
+| 11 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
+| 12 | [WHO IN SEVENTEEN](http://twitter.com/search?q=WHO+IN+SEVENTEEN) | N/A |
+| 13 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 14 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 15 | [dawon](http://twitter.com/search?q=dawon) | N/A |
+| 16 | [8 SVT](http://twitter.com/search?q=8+SVT) | N/A |
+| 17 | [jennie](http://twitter.com/search?q=jennie) | N/A |
+| 18 | [Happy 4](http://twitter.com/search?q=Happy+4) | N/A |
+| 19 | [SOOBIN](http://twitter.com/search?q=SOOBIN) | SOOBIN is a Korean name, derived from the Chinese characters for "protection" and "beauty". It can be translated to mean "protected beauty" in English. |
+| 20 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
+| 21 | [Luda](http://twitter.com/search?q=Luda) | N/A |
+| 22 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
+| 23 | [sasaeng](http://twitter.com/search?q=sasaeng) | N/A |
+| 24 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 25 | [wjsn](http://twitter.com/search?q=wjsn) | WJSN stands for Cosmic Girls, a South Korean girl group formed in 2016 by Starship Entertainment and Yuehua Entertainment. The group consists of thirteen members: Seola, Xuan Yi, Bona, Exy, Soobin, Luda, Dawon, Eunseo, Cheng Xiao, Mei Qi, Yeoreum, Dayoung and Yeonjung. The name WJSN is an acronym for “Wonderful Journey to the Stars”. |
+| 26 | [taekook](http://twitter.com/search?q=taekook) | Taekook is the name of a popular ship between two characters from the South Korean boy band BTS, Taehyung (V) and Jungkook. It is a portmanteau of their names, and it is used by fans to refer to the romantic relationship between them. |
 | 27 | [Cyno](http://twitter.com/search?q=Cyno) | N/A |
 | 28 | [SUPPASIT WFT 2023](http://twitter.com/search?q=SUPPASIT+WFT+2023) | N/A |
-| 29 | [1MDB](http://twitter.com/search?q=1MDB) | N/A |
-| 30 | [Welcome to Malaysia](http://twitter.com/search?q=Welcome+to+Malaysia) | N/A |
-| 31 | [Top 5](http://twitter.com/search?q=Top+5) | Top 5 is a phrase used to refer to the five best or most popular items in a particular category. It is commonly used to refer to the five best movies, songs, books, or other items in a given field. |
-| 32 | [WORLD CLASS STAR V](http://twitter.com/search?q=WORLD+CLASS+STAR+V) | N/A |
-| 33 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
-| 34 | [Kim K](http://twitter.com/search?q=Kim+K) | N/A |
-| 35 | [Park Jimin](http://twitter.com/search?q=Park+Jimin) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name is derived from his given name, Park Ji-min. |
-| 36 | [Yato](http://twitter.com/search?q=Yato) | N/A |
-| 37 | [Leona](http://twitter.com/search?q=Leona) | N/A |
-| 38 | [Jho Low](http://twitter.com/search?q=Jho+Low) | N/A |
+| 29 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
+| 30 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 31 | [Welcome to Malaysia](http://twitter.com/search?q=Welcome+to+Malaysia) | N/A |
+| 32 | [1MDB](http://twitter.com/search?q=1MDB) | N/A |
+| 33 | [READY TO BE SPEECHLESS](http://twitter.com/search?q=READY+TO+BE+SPEECHLESS) | N/A |
+| 34 | [WORLD CLASS STAR V](http://twitter.com/search?q=WORLD+CLASS+STAR+V) | N/A |
+| 35 | [Kim K](http://twitter.com/search?q=Kim+K) | N/A |
+| 36 | [Park Jimin](http://twitter.com/search?q=Park+Jimin) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name is derived from his given name, Park Ji-min. |
+| 37 | [Yato](http://twitter.com/search?q=Yato) | N/A |
+| 38 | [Leona](http://twitter.com/search?q=Leona) | N/A |
 | 39 | [Najib](http://twitter.com/search?q=Najib) | N/A |
 | 40 | [jeonghan](http://twitter.com/search?q=jeonghan) | Jeonghan is a Korean given name, usually for males. It is composed of two characters: "Jeong" meaning "righteous" and "Han" meaning "greatness". In English, Jeonghan can be translated to mean "righteous greatness". |
 | 41 | [Klang](http://twitter.com/search?q=Klang) | N/A |
-| 42 | [Jisoo](http://twitter.com/search?q=Jisoo) | N/A |
+| 42 | [Subang Airport](http://twitter.com/search?q=Subang+Airport) | N/A |
 | 43 | [Mentega Terbang](http://twitter.com/search?q=Mentega+Terbang) | N/A |
 | 44 | [NICE TO MEET YOU BUILD](http://twitter.com/search?q=NICE+TO+MEET+YOU+BUILD) | N/A |
-| 45 | [Arul Kanda](http://twitter.com/search?q=Arul+Kanda) | N/A |
+| 45 | [arul kanda](http://twitter.com/search?q=arul+kanda) | N/A |
 | 46 | [klia](http://twitter.com/search?q=klia) | N/A |
 | 47 | [Dori](http://twitter.com/search?q=Dori) | N/A |
-| 48 | [Subang Airport](http://twitter.com/search?q=Subang+Airport) | N/A |
-| 49 | [salam jumaat](http://twitter.com/search?q=salam+jumaat) | N/A |
-| 50 | [Top 3](http://twitter.com/search?q=Top+3) | N/A |
+| 48 | [salam jumaat](http://twitter.com/search?q=salam+jumaat) | N/A |
+| 49 | [TY WEARS LOEWE](http://twitter.com/search?q=TY+WEARS+LOEWE) | N/A |
+| 50 | [Top 5](http://twitter.com/search?q=Top+5) | Top 5 is a phrase used to refer to the five best or most popular items in a particular category. It is commonly used to refer to the five best movies, songs, books, or other items in a given field. |
 
 
 

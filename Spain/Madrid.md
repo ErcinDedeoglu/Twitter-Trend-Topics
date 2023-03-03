@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Madrid
 
-📆 Last Updated: `2023-03-03 18:17:32 UTC`
+📆 Last Updated: `2023-03-03 19:16:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#HONORMagic5](http://twitter.com/search?q=%23HONORMagic5) | N/A |
-| 2 | [Del Pino](http://twitter.com/search?q=Del+Pino) | N/A |
-| 3 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 4 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 5 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 6 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 7 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 8 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
-| 9 | [Lobi](http://twitter.com/search?q=Lobi) | N/A |
-| 10 | [Nano](http://twitter.com/search?q=Nano) | N/A |
-| 11 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
-| 12 | [Lobato](http://twitter.com/search?q=Lobato) | N/A |
-| 13 | [Libres 2](http://twitter.com/search?q=Libres+2) | N/A |
-| 14 | [#GOATXDISNEY](http://twitter.com/search?q=%23GOATXDISNEY) | N/A |
+| 1 | [Iván](http://twitter.com/search?q=Iv%c3%a1n) | N/A |
+| 2 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 3 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 4 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 5 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
+| 6 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 7 | [Alberto Casero](http://twitter.com/search?q=Alberto+Casero) | N/A |
+| 8 | [Lobi](http://twitter.com/search?q=Lobi) | N/A |
+| 9 | [Nano](http://twitter.com/search?q=Nano) | N/A |
+| 10 | [#GOATXDISNEY](http://twitter.com/search?q=%23GOATXDISNEY) | N/A |
+| 11 | [Libres 2](http://twitter.com/search?q=Libres+2) | N/A |
+| 12 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
+| 13 | [Lobato](http://twitter.com/search?q=Lobato) | N/A |
+| 14 | [LO VA A HACER](http://twitter.com/search?q=LO+VA+A+HACER) | N/A |
 | 15 | [Dan Fallows](http://twitter.com/search?q=Dan+Fallows) | N/A |
-| 16 | [LO VA A HACER](http://twitter.com/search?q=LO+VA+A+HACER) | N/A |
-| 17 | [#GPBahrein](http://twitter.com/search?q=%23GPBahrein) | N/A |
+| 16 | [#Solos3M](http://twitter.com/search?q=%23Solos3M) | N/A |
+| 17 | [Diego Pablo](http://twitter.com/search?q=Diego+Pablo) | N/A |
 | 18 | [#PecadoOriginal3Mar](http://twitter.com/search?q=%23PecadoOriginal3Mar) | N/A |
-| 19 | [Shingeki](http://twitter.com/search?q=Shingeki) | Shingeki is a Japanese word that translates to "advancement" or "onslaught" in English. It is often used to refer to a sudden, large-scale attack or invasion. |
-| 20 | [ESTÁN PASANDO COSAS](http://twitter.com/search?q=EST%c3%81N+PASANDO+COSAS) | N/A |
-| 21 | [Djokovic](http://twitter.com/search?q=Djokovic) | Djokovic is a surname of Serbian origin. It is derived from the given name Djoko, which is a diminutive of the name Jovan (John). The meaning of Djokovic in English is "son of John". |
-| 22 | [Alpine](http://twitter.com/search?q=Alpine) | N/A |
-| 23 | [Alberto Casero](http://twitter.com/search?q=Alberto+Casero) | N/A |
-| 24 | [Brawn GP](http://twitter.com/search?q=Brawn+GP) | N/A |
-| 25 | [La 33](http://twitter.com/search?q=La+33) | N/A |
-| 26 | [Alana](http://twitter.com/search?q=Alana) | N/A |
+| 19 | [#GPBahrein](http://twitter.com/search?q=%23GPBahrein) | N/A |
+| 20 | [Shingeki](http://twitter.com/search?q=Shingeki) | Shingeki is a Japanese word that translates to "advancement" or "onslaught" in English. It is often used to refer to a sudden, large-scale attack or invasion. |
+| 21 | [Spreen](http://twitter.com/search?q=Spreen) | Spreen is a German word that means to scurry or hurry. It is often used to describe the quick movements of small animals, such as mice or squirrels. |
+| 22 | [ESTAN PASANDO COSAS](http://twitter.com/search?q=ESTAN+PASANDO+COSAS) | N/A |
+| 23 | [Alana](http://twitter.com/search?q=Alana) | N/A |
+| 24 | [Djokovic](http://twitter.com/search?q=Djokovic) | Djokovic is a surname of Serbian origin. It is derived from the given name Djoko, which is a diminutive of the name Jovan (John). The meaning of Djokovic in English is "son of John". |
+| 25 | [Aitana](http://twitter.com/search?q=Aitana) | N/A |
+| 26 | [SOOBIN](http://twitter.com/search?q=SOOBIN) | SOOBIN is a Korean name, derived from the Chinese characters for "protection" and "beauty". It can be translated to mean "protected beauty" in English. |
 | 27 | [Medvedev](http://twitter.com/search?q=Medvedev) | Medvedev is a Russian surname derived from the word medved, which means "bear". It is also the surname of Dmitry Medvedev, the current Prime Minister of Russia. In English, the name Medvedev can be translated to mean "son of the bear". |
-| 28 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 29 | [Vettel](http://twitter.com/search?q=Vettel) | N/A |
-| 30 | [Pérez](http://twitter.com/search?q=P%c3%a9rez) | N/A |
-| 31 | [Trujillo](http://twitter.com/search?q=Trujillo) | N/A |
-| 32 | [Naranjo](http://twitter.com/search?q=Naranjo) | N/A |
-| 33 | [Olivenza](http://twitter.com/search?q=Olivenza) | N/A |
-| 34 | [Qualy](http://twitter.com/search?q=Qualy) | N/A |
-| 35 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
-| 36 | [Papu](http://twitter.com/search?q=Papu) | N/A |
-| 37 | [Crunchyroll](http://twitter.com/search?q=Crunchyroll) | N/A |
-| 38 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 39 | [La Misión](http://twitter.com/search?q=La+Misi%c3%b3n) | N/A |
-| 40 | [Patria](http://twitter.com/search?q=Patria) | N/A |
-| 41 | [El Plan](http://twitter.com/search?q=El+Plan) | N/A |
-| 42 | [ES ROJA](http://twitter.com/search?q=ES+ROJA) | N/A |
-| 43 | [Alfredo Landa](http://twitter.com/search?q=Alfredo+Landa) | N/A |
-| 44 | [Salvador](http://twitter.com/search?q=Salvador) | N/A |
-| 45 | [Chimy Ávila](http://twitter.com/search?q=Chimy+%c3%81vila) | Chimy Ávila is a Mexican singer and songwriter. His name is a combination of his two first names, Chimy and Ávila. The English translation of his name would be "Chimy Avila". |
-| 46 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 47 | [Eder](http://twitter.com/search?q=Eder) | N/A |
-| 48 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
-| 49 | [Renault](http://twitter.com/search?q=Renault) | N/A |
-| 50 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 28 | [Alpine](http://twitter.com/search?q=Alpine) | N/A |
+| 29 | [Trujillo](http://twitter.com/search?q=Trujillo) | N/A |
+| 30 | [Supremo](http://twitter.com/search?q=Supremo) | N/A |
+| 31 | [Brawn GP](http://twitter.com/search?q=Brawn+GP) | N/A |
+| 32 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 33 | [Vettel](http://twitter.com/search?q=Vettel) | N/A |
+| 34 | [La 33](http://twitter.com/search?q=La+33) | N/A |
+| 35 | [Olivenza](http://twitter.com/search?q=Olivenza) | N/A |
+| 36 | [Qualy](http://twitter.com/search?q=Qualy) | N/A |
+| 37 | [Pérez](http://twitter.com/search?q=P%c3%a9rez) | N/A |
+| 38 | [Crunchyroll](http://twitter.com/search?q=Crunchyroll) | N/A |
+| 39 | [Somalia](http://twitter.com/search?q=Somalia) | N/A |
+| 40 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 41 | [La Misión](http://twitter.com/search?q=La+Misi%c3%b3n) | N/A |
+| 42 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 43 | [Ander](http://twitter.com/search?q=Ander) | N/A |
+| 44 | [El Plan](http://twitter.com/search?q=El+Plan) | N/A |
+| 45 | [Alfredo Landa](http://twitter.com/search?q=Alfredo+Landa) | N/A |
+| 46 | [ES ROJA](http://twitter.com/search?q=ES+ROJA) | N/A |
+| 47 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 48 | [Patria](http://twitter.com/search?q=Patria) | N/A |
+| 49 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 50 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
 
 
 
