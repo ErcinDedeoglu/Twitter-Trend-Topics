@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Milwaukee
 
-📆 Last Updated: `2023-03-03 14:17:01 UTC`
+📆 Last Updated: `2023-03-03 15:16:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
-| 2 | [Badgers](http://twitter.com/search?q=Badgers) | N/A |
-| 3 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
-| 4 | [#EmployeeAppreciationDay](http://twitter.com/search?q=%23EmployeeAppreciationDay) | N/A |
-| 5 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
-| 6 | [Walgreens](http://twitter.com/search?q=Walgreens) | N/A |
-| 7 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
-| 8 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 9 | [#BandcampFriday](http://twitter.com/search?q=%23BandcampFriday) | N/A |
-| 10 | [Morgan Wallen](http://twitter.com/search?q=Morgan+Wallen) | N/A |
-| 11 | [Happy Friyay](http://twitter.com/search?q=Happy+Friyay) | N/A |
-| 12 | [Bonino](http://twitter.com/search?q=Bonino) | N/A |
-| 13 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
-| 14 | [Finally Friday](http://twitter.com/search?q=Finally+Friday) | N/A |
-| 15 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
-| 16 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
-| 17 | [Daily Quordle 403](http://twitter.com/search?q=Daily+Quordle+403) | N/A |
-| 18 | [WORLD CLASS STAR V](http://twitter.com/search?q=WORLD+CLASS+STAR+V) | N/A |
-| 19 | [Njigba](http://twitter.com/search?q=Njigba) | N/A |
-| 20 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 21 | [It is Friday](http://twitter.com/search?q=It+is+Friday) | N/A |
-| 22 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 23 | [Today is Friday](http://twitter.com/search?q=Today+is+Friday) | N/A |
-| 24 | [Richard Simmons](http://twitter.com/search?q=Richard+Simmons) | N/A |
-| 25 | [Discover](http://twitter.com/search?q=Discover) | N/A |
-| 26 | [Masego](http://twitter.com/search?q=Masego) | N/A |
-| 27 | [98 Braves](http://twitter.com/search?q=98+Braves) | N/A |
-| 28 | [Stakes Is High](http://twitter.com/search?q=Stakes+Is+High) | N/A |
-| 29 | [C.J. Stroud](http://twitter.com/search?q=C.J.+Stroud) | N/A |
-| 30 | [Jean Harlow](http://twitter.com/search?q=Jean+Harlow) | N/A |
-| 31 | [dawon](http://twitter.com/search?q=dawon) | N/A |
-| 32 | [yato](http://twitter.com/search?q=yato) | N/A |
-| 33 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
-| 34 | [Kali Uchis](http://twitter.com/search?q=Kali+Uchis) | N/A |
-| 35 | [Ultimate Bias](http://twitter.com/search?q=Ultimate+Bias) | N/A |
-| 36 | [RENJUN](http://twitter.com/search?q=RENJUN) | N/A |
-| 37 | [3 Feet High and Rising](http://twitter.com/search?q=3+Feet+High+and+Rising) | N/A |
-| 38 | [First Bias](http://twitter.com/search?q=First+Bias) | N/A |
-| 39 | [Marcus Jr](http://twitter.com/search?q=Marcus+Jr) | N/A |
-| 40 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 41 | [Luda](http://twitter.com/search?q=Luda) | N/A |
-| 42 | [Bryce Young](http://twitter.com/search?q=Bryce+Young) | Bryce Young is a name of a person. It is derived from the Old English words "bryce" meaning "proud" and "young" meaning "youthful". The name can be used for both males and females. |
-| 43 | [White Rabbit](http://twitter.com/search?q=White+Rabbit) | N/A |
-| 44 | [Kimmel](http://twitter.com/search?q=Kimmel) | N/A |
-| 45 | [WJSN](http://twitter.com/search?q=WJSN) | N/A |
-| 46 | [Master of Puppets](http://twitter.com/search?q=Master+of+Puppets) | N/A |
-| 47 | [Dray](http://twitter.com/search?q=Dray) | N/A |
-| 48 | [AI NFT](http://twitter.com/search?q=AI+NFT) | N/A |
+| 1 | [#Badgers](http://twitter.com/search?q=%23Badgers) | N/A |
+| 2 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
+| 3 | [#EmployeeAppreciationDay](http://twitter.com/search?q=%23EmployeeAppreciationDay) | N/A |
+| 4 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
+| 5 | [Walgreens](http://twitter.com/search?q=Walgreens) | N/A |
+| 6 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
+| 7 | [Judge Newman](http://twitter.com/search?q=Judge+Newman) | N/A |
+| 8 | [#BandcampFriday](http://twitter.com/search?q=%23BandcampFriday) | N/A |
+| 9 | [Morgan Wallen](http://twitter.com/search?q=Morgan+Wallen) | N/A |
+| 10 | [De La Soul](http://twitter.com/search?q=De+La+Soul) | N/A |
+| 11 | [Alex Murdaugh](http://twitter.com/search?q=Alex+Murdaugh) | N/A |
+| 12 | [Vrana](http://twitter.com/search?q=Vrana) | Vrana is a Croatian word that means "crow" in English. |
+| 13 | [Happy Friyay](http://twitter.com/search?q=Happy+Friyay) | N/A |
+| 14 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
+| 15 | [bonino](http://twitter.com/search?q=bonino) | N/A |
+| 16 | [4 YEARS WITH TXT](http://twitter.com/search?q=4+YEARS+WITH+TXT) | N/A |
+| 17 | [Richard Simmons](http://twitter.com/search?q=Richard+Simmons) | N/A |
+| 18 | [Finally Friday](http://twitter.com/search?q=Finally+Friday) | N/A |
+| 19 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
+| 20 | [Masego](http://twitter.com/search?q=Masego) | N/A |
+| 21 | [ON SALE NOW](http://twitter.com/search?q=ON+SALE+NOW) | N/A |
+| 22 | [98 Braves](http://twitter.com/search?q=98+Braves) | N/A |
+| 23 | [Daily Quordle 403](http://twitter.com/search?q=Daily+Quordle+403) | N/A |
+| 24 | [Stakes is High](http://twitter.com/search?q=Stakes+is+High) | N/A |
+| 25 | [3 Feet High and Rising](http://twitter.com/search?q=3+Feet+High+and+Rising) | N/A |
+| 26 | [Dahm](http://twitter.com/search?q=Dahm) | N/A |
+| 27 | [Melle Mel](http://twitter.com/search?q=Melle+Mel) | N/A |
+| 28 | [WORLD CLASS STAR V](http://twitter.com/search?q=WORLD+CLASS+STAR+V) | N/A |
+| 29 | [Banky](http://twitter.com/search?q=Banky) | N/A |
+| 30 | [Jaxon Smith](http://twitter.com/search?q=Jaxon+Smith) | N/A |
+| 31 | [Marcus JR](http://twitter.com/search?q=Marcus+JR) | N/A |
+| 32 | [Discover](http://twitter.com/search?q=Discover) | N/A |
+| 33 | [Pat Leonard](http://twitter.com/search?q=Pat+Leonard) | N/A |
+| 34 | [kali uchis](http://twitter.com/search?q=kali+uchis) | N/A |
+| 35 | [Kimmel](http://twitter.com/search?q=Kimmel) | N/A |
+| 36 | [Who Dey](http://twitter.com/search?q=Who+Dey) | "Who Dey" is a chant used by fans of the Cincinnati Bengals, an American football team. It is an expression of support for the team and is usually shouted during games. The phrase is derived from the traditional African-American call-and-response cheer "Who dat? Who dat? Who dat say dey gonna beat dem Bengals?" The meaning in English is "Who says they can beat the Bengals?" |
+| 37 | [It is Friday](http://twitter.com/search?q=It+is+Friday) | N/A |
+| 38 | [Shabbat Shalom](http://twitter.com/search?q=Shabbat+Shalom) | N/A |
+| 39 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
+| 40 | [Happy Friday Everyone](http://twitter.com/search?q=Happy+Friday+Everyone) | N/A |
+| 41 | [Hershey](http://twitter.com/search?q=Hershey) | N/A |
+| 42 | [First Bias](http://twitter.com/search?q=First+Bias) | N/A |
+| 43 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
+| 44 | [Ultimate Bias](http://twitter.com/search?q=Ultimate+Bias) | N/A |
+| 45 | [Today is Friday](http://twitter.com/search?q=Today+is+Friday) | N/A |
+| 46 | [Michael Mayer](http://twitter.com/search?q=Michael+Mayer) | N/A |
+| 47 | [Andrew Luck](http://twitter.com/search?q=Andrew+Luck) | N/A |
+| 48 | [Lacey Evans](http://twitter.com/search?q=Lacey+Evans) | Lacey Evans is a professional wrestler currently signed to WWE. Her ring name is derived from her real name, Macey Estrella-Kadlec. The name "Lacey" is derived from the English word for a type of lace fabric, and "Evans" is a common Welsh surname. |
 
 
 

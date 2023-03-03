@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2023-03-03 14:16:08 UTC`
+📆 Last Updated: `2023-03-03 15:16:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,56 +20,56 @@ This is top 50
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#meralakSener](http://twitter.com/search?q=%23meralakSener) | N/A |
-| 2 | [#MansurBaskanAdayOl](http://twitter.com/search?q=%23MansurBaskanAdayOl) | N/A |
-| 3 | [ひな祭り](http://twitter.com/search?q=%e3%81%b2%e3%81%aa%e7%a5%ad%e3%82%8a) | N/A |
-| 4 | [#SixTONES_ABARERO](http://twitter.com/search?q=%23SixTONES_ABARERO) | N/A |
-| 5 | [ドラゴンズ](http://twitter.com/search?q=%e3%83%89%e3%83%a9%e3%82%b4%e3%83%b3%e3%82%ba) | N/A |
-| 6 | [ちらし寿司](http://twitter.com/search?q=%e3%81%a1%e3%82%89%e3%81%97%e5%af%bf%e5%8f%b8) | N/A |
-| 7 | [プリティウーマン](http://twitter.com/search?q=%e3%83%97%e3%83%aa%e3%83%86%e3%82%a3%e3%82%a6%e3%83%bc%e3%83%9e%e3%83%b3) | N/A |
-| 8 | [Tarih](http://twitter.com/search?q=Tarih) | N/A |
-| 9 | [侍ジャパン](http://twitter.com/search?q=%e4%be%8d%e3%82%b8%e3%83%a3%e3%83%91%e3%83%b3) | N/A |
-| 10 | [日本代表](http://twitter.com/search?q=%e6%97%a5%e6%9c%ac%e4%bb%a3%e8%a1%a8) | N/A |
-| 11 | [どらほー](http://twitter.com/search?q=%e3%81%a9%e3%82%89%e3%81%bb%e3%83%bc) | N/A |
-| 12 | [松井裕樹](http://twitter.com/search?q=%e6%9d%be%e4%ba%95%e8%a3%95%e6%a8%b9) | N/A |
-| 13 | [#RENJUN_NandemonaiyaCover](http://twitter.com/search?q=%23RENJUN_NandemonaiyaCover) | N/A |
-| 14 | [#金ドラ100よか](http://twitter.com/search?q=%23%e9%87%91%e3%83%89%e3%83%a9100%e3%82%88%e3%81%8b) | #金ドラ100よか is a hashtag used on Twitter in Japan. It roughly translates to "Gold Dragon 100 is good". It is used to express approval or praise for the Gold Dragon 100, a Japanese brand of cigarettes. |
-| 15 | [タイブレーク](http://twitter.com/search?q=%e3%82%bf%e3%82%a4%e3%83%96%e3%83%ac%e3%83%bc%e3%82%af) | N/A |
-| 16 | [YAZIKLAR OLSUN](http://twitter.com/search?q=YAZIKLAR+OLSUN) | N/A |
-| 17 | [アキーノ](http://twitter.com/search?q=%e3%82%a2%e3%82%ad%e3%83%bc%e3%83%8e) | N/A |
-| 18 | [İmamoğlu](http://twitter.com/search?q=%c4%b0mamo%c4%9flu) | N/A |
-| 19 | [中日優勝](http://twitter.com/search?q=%e4%b8%ad%e6%97%a5%e5%84%aa%e5%8b%9d) | N/A |
-| 20 | [六甲おろし](http://twitter.com/search?q=%e5%85%ad%e7%94%b2%e3%81%8a%e3%82%8d%e3%81%97) | N/A |
-| 21 | [ロンジュン](http://twitter.com/search?q=%e3%83%ad%e3%83%b3%e3%82%b8%e3%83%a5%e3%83%b3) | N/A |
-| 22 | [İyi Parti](http://twitter.com/search?q=%c4%b0yi+Parti) | N/A |
-| 23 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
-| 24 | [Siyasi Ahlaksızlık](http://twitter.com/search?q=Siyasi+Ahlaks%c4%b1zl%c4%b1k) | N/A |
-| 25 | [中日ファン](http://twitter.com/search?q=%e4%b8%ad%e6%97%a5%e3%83%95%e3%82%a1%e3%83%b3) | N/A |
-| 26 | [Masa Yıkıldı](http://twitter.com/search?q=Masa+Y%c4%b1k%c4%b1ld%c4%b1) | N/A |
-| 27 | [SELAMAT DATANG 7DREAM](http://twitter.com/search?q=SELAMAT+DATANG+7DREAM) | N/A |
-| 28 | [涌井さん](http://twitter.com/search?q=%e6%b6%8c%e4%ba%95%e3%81%95%e3%82%93) | N/A |
-| 29 | [申告敬遠](http://twitter.com/search?q=%e7%94%b3%e5%91%8a%e6%95%ac%e9%81%a0) | N/A |
-| 30 | [強化試合](http://twitter.com/search?q=%e5%bc%b7%e5%8c%96%e8%a9%a6%e5%90%88) | N/A |
-| 31 | [中日さん](http://twitter.com/search?q=%e4%b8%ad%e6%97%a5%e3%81%95%e3%82%93) | N/A |
-| 32 | [Banky](http://twitter.com/search?q=Banky) | N/A |
-| 33 | [Erdoğan](http://twitter.com/search?q=Erdo%c4%9fan) | N/A |
-| 34 | [アニポケ](http://twitter.com/search?q=%e3%82%a2%e3%83%8b%e3%83%9d%e3%82%b1) | アニポケ (Anipoke) is a Japanese portmanteau of the words "anime" and "Pokémon". It is used to refer to anime series or movies based on the Pokémon franchise. |
-| 35 | [ジュリア・ロバーツ](http://twitter.com/search?q=%e3%82%b8%e3%83%a5%e3%83%aa%e3%82%a2%e3%83%bb%e3%83%ad%e3%83%90%e3%83%bc%e3%83%84) | N/A |
-| 36 | [WORLD CLASS STAR V](http://twitter.com/search?q=WORLD+CLASS+STAR+V) | N/A |
-| 37 | [Muharrem İnce](http://twitter.com/search?q=Muharrem+%c4%b0nce) | N/A |
-| 38 | [リチャード・ギア](http://twitter.com/search?q=%e3%83%aa%e3%83%81%e3%83%a3%e3%83%bc%e3%83%89%e3%83%bb%e3%82%ae%e3%82%a2) | N/A |
-| 39 | [PATHAAN BIGGEST GROSSER](http://twitter.com/search?q=PATHAAN+BIGGEST+GROSSER) | N/A |
-| 40 | [サウスポー](http://twitter.com/search?q=%e3%82%b5%e3%82%a6%e3%82%b9%e3%83%9d%e3%83%bc) | N/A |
-| 41 | [中日強すぎ](http://twitter.com/search?q=%e4%b8%ad%e6%97%a5%e5%bc%b7%e3%81%99%e3%81%8e) | N/A |
-| 42 | [ひなあられ](http://twitter.com/search?q=%e3%81%b2%e3%81%aa%e3%81%82%e3%82%89%e3%82%8c) | N/A |
-| 43 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 44 | [ビシエド](http://twitter.com/search?q=%e3%83%93%e3%82%b7%e3%82%a8%e3%83%89) | N/A |
-| 45 | [Stephen Bear](http://twitter.com/search?q=Stephen+Bear) | N/A |
-| 46 | [キノタク](http://twitter.com/search?q=%e3%82%ad%e3%83%8e%e3%82%bf%e3%82%af) | N/A |
-| 47 | [ヌートバー](http://twitter.com/search?q=%e3%83%8c%e3%83%bc%e3%83%88%e3%83%90%e3%83%bc) | ヌートバー is a type of Japanese bar that specializes in serving alcoholic beverages such as beer, sake, and shochu. The word "nooto" comes from the Japanese word for "drinking," and "baa" means "bar." In English, it can be translated as "drinking bar." |
-| 48 | [桃の節句](http://twitter.com/search?q=%e6%a1%83%e3%81%ae%e7%af%80%e5%8f%a5) | N/A |
-| 49 | [#ساعه_استجابه](http://twitter.com/search?q=%23%d8%b3%d8%a7%d8%b9%d9%87_%d8%a7%d8%b3%d8%aa%d8%ac%d8%a7%d8%a8%d9%87) | #ساعه_استجابه is an Arabic hashtag that translates to "response time". It is used to refer to the amount of time it takes for someone to respond to a message or request. |
-| 50 | [#ฟรีนเบคFanBoom](http://twitter.com/search?q=%23%e0%b8%9f%e0%b8%a3%e0%b8%b5%e0%b8%99%e0%b9%80%e0%b8%9a%e0%b8%84FanBoom) | N/A |
+| 1 | [Rony](http://twitter.com/search?q=Rony) | Rony is not a word in English. It may be a name or an acronym in another language. |
+| 2 | [#meralakSener](http://twitter.com/search?q=%23meralakSener) | N/A |
+| 3 | [#TXT_4th_Anniversary](http://twitter.com/search?q=%23TXT_4th_Anniversary) | N/A |
+| 4 | [#ToFOUReverlandWithTXT](http://twitter.com/search?q=%23ToFOUReverlandWithTXT) | N/A |
+| 5 | [#MansurBaskanAdayOl](http://twitter.com/search?q=%23MansurBaskanAdayOl) | N/A |
+| 6 | [#ساعه_استجابه](http://twitter.com/search?q=%23%d8%b3%d8%a7%d8%b9%d9%87_%d8%a7%d8%b3%d8%aa%d8%ac%d8%a7%d8%a8%d9%87) | #ساعه_استجابه is an Arabic hashtag that translates to "response time". It is used to refer to the amount of time it takes for someone to respond to a message or request. |
+| 7 | [ひな祭り](http://twitter.com/search?q=%e3%81%b2%e3%81%aa%e7%a5%ad%e3%82%8a) | N/A |
+| 8 | [4 YEARS WITH TXT](http://twitter.com/search?q=4+YEARS+WITH+TXT) | N/A |
+| 9 | [Veiga](http://twitter.com/search?q=Veiga) | Veiga is a Portuguese surname derived from the Latin word "vigia," which means "watchman." It is also the name of a river in Portugal. In English, it can be translated to mean "watchman" or "guardian." |
+| 10 | [Tarih](http://twitter.com/search?q=Tarih) | N/A |
+| 11 | [ちらし寿司](http://twitter.com/search?q=%e3%81%a1%e3%82%89%e3%81%97%e5%af%bf%e5%8f%b8) | N/A |
+| 12 | [ドラゴンズ](http://twitter.com/search?q=%e3%83%89%e3%83%a9%e3%82%b4%e3%83%b3%e3%82%ba) | N/A |
+| 13 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
+| 14 | [プリティウーマン](http://twitter.com/search?q=%e3%83%97%e3%83%aa%e3%83%86%e3%82%a3%e3%82%a6%e3%83%bc%e3%83%9e%e3%83%b3) | N/A |
+| 15 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 16 | [İmamoğlu](http://twitter.com/search?q=%c4%b0mamo%c4%9flu) | N/A |
+| 17 | [侍ジャパン](http://twitter.com/search?q=%e4%be%8d%e3%82%b8%e3%83%a3%e3%83%91%e3%83%b3) | N/A |
+| 18 | [どらほー](http://twitter.com/search?q=%e3%81%a9%e3%82%89%e3%81%bb%e3%83%bc) | N/A |
+| 19 | [Kılıçdaroğlu](http://twitter.com/search?q=K%c4%b1l%c4%b1%c3%a7daro%c4%9flu) | N/A |
+| 20 | [日本代表](http://twitter.com/search?q=%e6%97%a5%e6%9c%ac%e4%bb%a3%e8%a1%a8) | N/A |
+| 21 | [روما](http://twitter.com/search?q=%d8%b1%d9%88%d9%85%d8%a7) | روما is a city in Italy, located in the Lazio region. In English, it is known as Rome. It is the capital of Italy and one of the most visited cities in the world. It is known for its ancient ruins, art, culture, and cuisine. |
+| 22 | [松井裕樹](http://twitter.com/search?q=%e6%9d%be%e4%ba%95%e8%a3%95%e6%a8%b9) | N/A |
+| 23 | [SELAMAT DATANG 7DREAM](http://twitter.com/search?q=SELAMAT+DATANG+7DREAM) | N/A |
+| 24 | [ロンジュン](http://twitter.com/search?q=%e3%83%ad%e3%83%b3%e3%82%b8%e3%83%a5%e3%83%b3) | N/A |
+| 25 | [YAZIKLAR OLSUN](http://twitter.com/search?q=YAZIKLAR+OLSUN) | N/A |
+| 26 | [タイブレーク](http://twitter.com/search?q=%e3%82%bf%e3%82%a4%e3%83%96%e3%83%ac%e3%83%bc%e3%82%af) | N/A |
+| 27 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
+| 28 | [進撃の巨人](http://twitter.com/search?q=%e9%80%b2%e6%92%83%e3%81%ae%e5%b7%a8%e4%ba%ba) | 進撃の巨人 (Shingeki no Kyojin) is a Japanese manga series written and illustrated by Hajime Isayama. It is set in a world where humanity lives inside cities surrounded by enormous walls due to the sudden appearance of the Titans, gigantic humanoid creatures who devour humans seemingly without reason. The story follows the adventures of Eren Yeager, his adopted sister Mikasa Ackerman, and their friend Armin Arlert, who join the military to fight the Titans after their home town is invaded and Eren's mother is eaten. The title of the series translates to "Attack on Titan" in English. |
+| 29 | [Bruno Guimarães](http://twitter.com/search?q=Bruno+Guimar%c3%a3es) | N/A |
+| 30 | [Caio Henrique](http://twitter.com/search?q=Caio+Henrique) | N/A |
+| 31 | [中日優勝](http://twitter.com/search?q=%e4%b8%ad%e6%97%a5%e5%84%aa%e5%8b%9d) | N/A |
+| 32 | [Vitor Roque](http://twitter.com/search?q=Vitor+Roque) | Vitor Roque is a Portuguese name. It is derived from the Latin name Victor, which means "victor" or "conqueror". In English, Vitor Roque can be translated to mean "Victorious Rock". |
+| 33 | [Weverton](http://twitter.com/search?q=Weverton) | Weverton is a Portuguese name derived from the Germanic name Wifard, which means “strong guardian”. It is also a common surname in Brazil. |
+| 34 | [Robert Renan](http://twitter.com/search?q=Robert+Renan) | N/A |
+| 35 | [Andrey](http://twitter.com/search?q=Andrey) | Andrey is a Russian male given name derived from the Greek name Andreas, meaning "manly" or "masculine". |
+| 36 | [アキーノ](http://twitter.com/search?q=%e3%82%a2%e3%82%ad%e3%83%bc%e3%83%8e) | N/A |
+| 37 | [Siyasi Ahlaksızlık](http://twitter.com/search?q=Siyasi+Ahlaks%c4%b1zl%c4%b1k) | N/A |
+| 38 | [João Gomes](http://twitter.com/search?q=Jo%c3%a3o+Gomes) | João Gomes is a Portuguese name. It is the equivalent of John Smith in English. The literal translation of João Gomes is John Gomes. |
+| 39 | [六甲おろし](http://twitter.com/search?q=%e5%85%ad%e7%94%b2%e3%81%8a%e3%82%8d%e3%81%97) | N/A |
+| 40 | [Ramon Menezes](http://twitter.com/search?q=Ramon+Menezes) | N/A |
+| 41 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 42 | [Marrocos](http://twitter.com/search?q=Marrocos) | N/A |
+| 43 | [Erdoğan](http://twitter.com/search?q=Erdo%c4%9fan) | N/A |
+| 44 | [Masa Yıkıldı](http://twitter.com/search?q=Masa+Y%c4%b1k%c4%b1ld%c4%b1) | N/A |
+| 45 | [Banky](http://twitter.com/search?q=Banky) | N/A |
+| 46 | [شراحيلي](http://twitter.com/search?q=%d8%b4%d8%b1%d8%a7%d8%ad%d9%8a%d9%84%d9%8a) | شراحيلي is an Arabic phrase that translates to "My Darling" in English. It is a term of endearment used to express love and affection. |
+| 47 | [Kemal](http://twitter.com/search?q=Kemal) | N/A |
+| 48 | [Joelinton](http://twitter.com/search?q=Joelinton) | Joelinton is a Portuguese name, derived from the combination of the names Joel and António. It is usually given to boys and means "God will give". |
+| 49 | [Seleção Brasileira](http://twitter.com/search?q=Sele%c3%a7%c3%a3o+Brasileira) | N/A |
+| 50 | [Muharrem İnce](http://twitter.com/search?q=Muharrem+%c4%b0nce) | N/A |
 
 
 

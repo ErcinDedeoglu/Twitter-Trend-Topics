@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Argentina
 
-📆 Last Updated: `2023-03-03 14:17:06 UTC`
+📆 Last Updated: `2023-03-03 15:17:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,41 +15,52 @@ This is top 50 for Argentina
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Perrone](http://twitter.com/search?q=Perrone) | Perrone is an Italian surname. It is derived from the Latin word perronus, which means "rocky". In English, it can be translated to mean "of the rocky place". |
-| 2 | [#CumpleGranix](http://twitter.com/search?q=%23CumpleGranix) | N/A |
-| 3 | [Lautaro Blanco](http://twitter.com/search?q=Lautaro+Blanco) | N/A |
-| 4 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 5 | [#BuenViernes](http://twitter.com/search?q=%23BuenViernes) | N/A |
-| 6 | [Nico Paz](http://twitter.com/search?q=Nico+Paz) | Nico Paz is a Spanish phrase that translates to "Peaceful Victory". It is often used as a rallying cry for people to strive for peace and harmony in their lives. |
-| 7 | [Celso](http://twitter.com/search?q=Celso) | N/A |
-| 8 | [Carboni](http://twitter.com/search?q=Carboni) | N/A |
-| 9 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
-| 10 | [#nadiedicenada](http://twitter.com/search?q=%23nadiedicenada) | N/A |
-| 11 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
-| 12 | [Granata](http://twitter.com/search?q=Granata) | N/A |
-| 13 | [#LanataSinFiltro](http://twitter.com/search?q=%23LanataSinFiltro) | N/A |
-| 14 | [Resortin](http://twitter.com/search?q=Resortin) | N/A |
-| 15 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 16 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 17 | [Santilli](http://twitter.com/search?q=Santilli) | N/A |
-| 18 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
-| 19 | [Julieta al 9009](http://twitter.com/search?q=Julieta+al+9009) | N/A |
-| 20 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 21 | [Aníbal](http://twitter.com/search?q=An%c3%adbal) | N/A |
-| 22 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 23 | [FFAA](http://twitter.com/search?q=FFAA) | N/A |
-| 24 | [Nisman](http://twitter.com/search?q=Nisman) | Nisman is a surname of Jewish origin. It is derived from the Hebrew name Nissim, which means "miracles". In English, the name Nisman can be translated to mean "miracle worker". |
-| 25 | [Crónica](http://twitter.com/search?q=Cr%c3%b3nica) | N/A |
-| 26 | [Maxi Trusso](http://twitter.com/search?q=Maxi+Trusso) | N/A |
-| 27 | [Ricky Martin](http://twitter.com/search?q=Ricky+Martin) | N/A |
-| 28 | [Perotti](http://twitter.com/search?q=Perotti) | N/A |
-| 29 | [Reserva](http://twitter.com/search?q=Reserva) | N/A |
-| 30 | [En Rosario](http://twitter.com/search?q=En+Rosario) | N/A |
-| 31 | [Ritondo](http://twitter.com/search?q=Ritondo) | N/A |
-| 32 | [#FelizViernesATodos](http://twitter.com/search?q=%23FelizViernesATodos) | N/A |
-| 33 | [#ElClubDelMoro](http://twitter.com/search?q=%23ElClubDelMoro) | N/A |
-| 34 | [#caballerodedia](http://twitter.com/search?q=%23caballerodedia) | N/A |
-| 35 | [#on_the_street](http://twitter.com/search?q=%23on_the_street) | N/A |
+| 1 | [#CumpleGranix](http://twitter.com/search?q=%23CumpleGranix) | N/A |
+| 2 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
+| 3 | [Perrone](http://twitter.com/search?q=Perrone) | Perrone is an Italian surname. It is derived from the Latin word perronus, which means "rocky". In English, it can be translated to mean "of the rocky place". |
+| 4 | [Lautaro Blanco](http://twitter.com/search?q=Lautaro+Blanco) | N/A |
+| 5 | [Nico Paz](http://twitter.com/search?q=Nico+Paz) | Nico Paz is a Spanish phrase that translates to "Peaceful Victory". It is often used as a rallying cry for people to strive for peace and harmony in their lives. |
+| 6 | [Celso](http://twitter.com/search?q=Celso) | N/A |
+| 7 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
+| 8 | [#ToFOUReverlandWithTXT](http://twitter.com/search?q=%23ToFOUReverlandWithTXT) | N/A |
+| 9 | [#TXT_4th_Anniversary](http://twitter.com/search?q=%23TXT_4th_Anniversary) | N/A |
+| 10 | [Carboni](http://twitter.com/search?q=Carboni) | N/A |
+| 11 | [#BuenViernes](http://twitter.com/search?q=%23BuenViernes) | N/A |
+| 12 | [Facundo Buonanotte](http://twitter.com/search?q=Facundo+Buonanotte) | N/A |
+| 13 | [buendía](http://twitter.com/search?q=buend%c3%ada) | N/A |
+| 14 | [El Bichito](http://twitter.com/search?q=El+Bichito) | N/A |
+| 15 | [Nico González](http://twitter.com/search?q=Nico+Gonz%c3%a1lez) | N/A |
+| 16 | [#SeleccionArgentina](http://twitter.com/search?q=%23SeleccionArgentina) | N/A |
+| 17 | [Granata](http://twitter.com/search?q=Granata) | N/A |
+| 18 | [Resortin](http://twitter.com/search?q=Resortin) | N/A |
+| 19 | [JULIETA AL 9009](http://twitter.com/search?q=JULIETA+AL+9009) | N/A |
+| 20 | [Santilli](http://twitter.com/search?q=Santilli) | N/A |
+| 21 | [La RAE](http://twitter.com/search?q=La+RAE) | N/A |
+| 22 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 23 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
+| 24 | [El 3](http://twitter.com/search?q=El+3) | N/A |
+| 25 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 26 | [Berni](http://twitter.com/search?q=Berni) | N/A |
+| 27 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 28 | [Ricky Martin](http://twitter.com/search?q=Ricky+Martin) | N/A |
+| 29 | [Shingeki](http://twitter.com/search?q=Shingeki) | Shingeki is a Japanese word that translates to "advancement" or "onslaught" in English. It is often used to refer to a sudden, large-scale attack or invasion. |
+| 30 | [Perotti](http://twitter.com/search?q=Perotti) | N/A |
+| 31 | [FFAA](http://twitter.com/search?q=FFAA) | N/A |
+| 32 | [on the street](http://twitter.com/search?q=on+the+street) | N/A |
+| 33 | [Nisman](http://twitter.com/search?q=Nisman) | Nisman is a surname of Jewish origin. It is derived from the Hebrew name Nissim, which means "miracles". In English, the name Nisman can be translated to mean "miracle worker". |
+| 34 | [Aníbal](http://twitter.com/search?q=An%c3%adbal) | N/A |
+| 35 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 36 | [Crónica](http://twitter.com/search?q=Cr%c3%b3nica) | N/A |
+| 37 | [Ritondo](http://twitter.com/search?q=Ritondo) | N/A |
+| 38 | [Reserva](http://twitter.com/search?q=Reserva) | N/A |
+| 39 | [Maxi Trusso](http://twitter.com/search?q=Maxi+Trusso) | N/A |
+| 40 | [Gastón Edul](http://twitter.com/search?q=Gast%c3%b3n+Edul) | N/A |
+| 41 | [#nadiedicenada](http://twitter.com/search?q=%23nadiedicenada) | N/A |
+| 42 | [#LanataSinFiltro](http://twitter.com/search?q=%23LanataSinFiltro) | N/A |
+| 43 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
+| 44 | [#elclubdelmoro](http://twitter.com/search?q=%23elclubdelmoro) | N/A |
+| 45 | [#TorneoProyección](http://twitter.com/search?q=%23TorneoProyecci%c3%b3n) | N/A |
+| 46 | [#Vendimia2023](http://twitter.com/search?q=%23Vendimia2023) | N/A |
 
 
 

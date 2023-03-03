@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jakarta
 
-📆 Last Updated: `2023-03-03 14:16:33 UTC`
+📆 Last Updated: `2023-03-03 15:16:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,52 @@ This is top 50 for [Indonesia](</Indonesia>)
 | ------- | ------------ | ------------ |
 | 1 | [#LIKE_IT_LIKE_IT](http://twitter.com/search?q=%23LIKE_IT_LIKE_IT) | N/A |
 | 2 | [#SECRET_NUMBER](http://twitter.com/search?q=%23SECRET_NUMBER) | N/A |
-| 3 | [SELAMAT DATANG 7DREAM](http://twitter.com/search?q=SELAMAT+DATANG+7DREAM) | N/A |
-| 4 | [#SiapKetemu7Dream](http://twitter.com/search?q=%23SiapKetemu7Dream) | N/A |
-| 5 | [4 YEARS WITH TXT](http://twitter.com/search?q=4+YEARS+WITH+TXT) | N/A |
-| 6 | [BLACKPINK EXHIBITION INDONESIA](http://twitter.com/search?q=BLACKPINK+EXHIBITION+INDONESIA) | N/A |
-| 7 | [STREAM LIKE IT LIKE IT](http://twitter.com/search?q=STREAM+LIKE+IT+LIKE+IT) | N/A |
-| 8 | [FOR DREAMIES](http://twitter.com/search?q=FOR+DREAMIES) | N/A |
-| 9 | [Welcome to Indonesia](http://twitter.com/search?q=Welcome+to+Indonesia) | N/A |
+| 3 | [#ToFOUReverlandWithTXT](http://twitter.com/search?q=%23ToFOUReverlandWithTXT) | N/A |
+| 4 | [4 YEARS WITH TXT](http://twitter.com/search?q=4+YEARS+WITH+TXT) | N/A |
+| 5 | [SELAMAT DATANG 7DREAM](http://twitter.com/search?q=SELAMAT+DATANG+7DREAM) | N/A |
+| 6 | [Plumpang](http://twitter.com/search?q=Plumpang) | N/A |
+| 7 | [Happy 4th](http://twitter.com/search?q=Happy+4th) | N/A |
+| 8 | [STREAM LIKE IT LIKE IT](http://twitter.com/search?q=STREAM+LIKE+IT+LIKE+IT) | N/A |
+| 9 | [Superindo](http://twitter.com/search?q=Superindo) | N/A |
 | 10 | [WORLD CLASS STAR V](http://twitter.com/search?q=WORLD+CLASS+STAR+V) | N/A |
-| 11 | [Superindo](http://twitter.com/search?q=Superindo) | N/A |
+| 11 | [Innalilahi](http://twitter.com/search?q=Innalilahi) | N/A |
 | 12 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
-| 13 | [Lennon](http://twitter.com/search?q=Lennon) | N/A |
-| 14 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 15 | [Jinki](http://twitter.com/search?q=Jinki) | N/A |
-| 16 | [SUPPASIT WFT 2023](http://twitter.com/search?q=SUPPASIT+WFT+2023) | N/A |
-| 17 | [Universitas Brawijaya](http://twitter.com/search?q=Universitas+Brawijaya) | N/A |
+| 13 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 14 | [Lennon](http://twitter.com/search?q=Lennon) | N/A |
+| 15 | [jinki](http://twitter.com/search?q=jinki) | N/A |
+| 16 | [Universitas Brawijaya](http://twitter.com/search?q=Universitas+Brawijaya) | N/A |
+| 17 | [SUPPASIT WFT 2023](http://twitter.com/search?q=SUPPASIT+WFT+2023) | N/A |
 | 18 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
 | 19 | [First Bias](http://twitter.com/search?q=First+Bias) | N/A |
-| 20 | [Ult Bias](http://twitter.com/search?q=Ult+Bias) | N/A |
-| 21 | [WHO IN SEVENTEEN](http://twitter.com/search?q=WHO+IN+SEVENTEEN) | N/A |
-| 22 | [yato](http://twitter.com/search?q=yato) | N/A |
+| 20 | [WHO IN SEVENTEEN](http://twitter.com/search?q=WHO+IN+SEVENTEEN) | N/A |
+| 21 | [Ultimate Bias](http://twitter.com/search?q=Ultimate+Bias) | N/A |
+| 22 | [PN Jakpus](http://twitter.com/search?q=PN+Jakpus) | N/A |
 | 23 | [Martabak](http://twitter.com/search?q=Martabak) | N/A |
-| 24 | [Ultimate Bias](http://twitter.com/search?q=Ultimate+Bias) | N/A |
-| 25 | [PN Jakpus](http://twitter.com/search?q=PN+Jakpus) | N/A |
-| 26 | [yunjin](http://twitter.com/search?q=yunjin) | N/A |
-| 27 | [Cipung](http://twitter.com/search?q=Cipung) | N/A |
-| 28 | [jeonghan](http://twitter.com/search?q=jeonghan) | Jeonghan is a Korean given name, usually for males. It is composed of two characters: "Jeong" meaning "righteous" and "Han" meaning "greatness". In English, Jeonghan can be translated to mean "righteous greatness". |
-| 29 | [Bismillahirrahmanirrahim](http://twitter.com/search?q=Bismillahirrahmanirrahim) | N/A |
-| 30 | [Nobita](http://twitter.com/search?q=Nobita) | N/A |
-| 31 | [ON THE STREET OUT TODAY](http://twitter.com/search?q=ON+THE+STREET+OUT+TODAY) | N/A |
-| 32 | [ON THE STREET WITH J-HOPE](http://twitter.com/search?q=ON+THE+STREET+WITH+J-HOPE) | N/A |
-| 33 | [dawon](http://twitter.com/search?q=dawon) | N/A |
-| 34 | [Shizuka](http://twitter.com/search?q=Shizuka) | N/A |
-| 35 | [Kembang Api](http://twitter.com/search?q=Kembang+Api) | N/A |
-| 36 | [Jeep](http://twitter.com/search?q=Jeep) | N/A |
-| 37 | [Menjadi](http://twitter.com/search?q=Menjadi) | N/A |
-| 38 | [Sakura](http://twitter.com/search?q=Sakura) | N/A |
-| 39 | [#RENJUN_NandemonaiyaCover](http://twitter.com/search?q=%23RENJUN_NandemonaiyaCover) | N/A |
-| 40 | [#7Dream_in_Indonesia](http://twitter.com/search?q=%237Dream_in_Indonesia) | N/A |
-| 41 | [#NCTDREAM](http://twitter.com/search?q=%23NCTDREAM) | N/A |
-| 42 | [#THEDREAMSHOW2_in_Jakarta](http://twitter.com/search?q=%23THEDREAMSHOW2_in_Jakarta) | N/A |
-| 43 | [#LOEWExTAEYONG](http://twitter.com/search?q=%23LOEWExTAEYONG) | N/A |
-| 44 | [#ToFOUReverlandWithTXT](http://twitter.com/search?q=%23ToFOUReverlandWithTXT) | N/A |
-| 45 | [#TXT_4th_Anniversary](http://twitter.com/search?q=%23TXT_4th_Anniversary) | N/A |
-| 46 | [#BeautifulTimeWithDreamies](http://twitter.com/search?q=%23BeautifulTimeWithDreamies) | N/A |
-| 47 | [#LIKEITLIKEIT_MV_Release](http://twitter.com/search?q=%23LIKEITLIKEIT_MV_Release) | N/A |
-| 48 | [#aBossandaBabeEP1](http://twitter.com/search?q=%23aBossandaBabeEP1) | N/A |
+| 24 | [Yunjin](http://twitter.com/search?q=Yunjin) | N/A |
+| 25 | [Cipung](http://twitter.com/search?q=Cipung) | N/A |
+| 26 | [jeonghan](http://twitter.com/search?q=jeonghan) | Jeonghan is a Korean given name, usually for males. It is composed of two characters: "Jeong" meaning "righteous" and "Han" meaning "greatness". In English, Jeonghan can be translated to mean "righteous greatness". |
+| 27 | [ON THE STREET WITH J-HOPE](http://twitter.com/search?q=ON+THE+STREET+WITH+J-HOPE) | N/A |
+| 28 | [ON THE STREET OUT TODAY](http://twitter.com/search?q=ON+THE+STREET+OUT+TODAY) | N/A |
+| 29 | [Jeep](http://twitter.com/search?q=Jeep) | N/A |
+| 30 | [#TXT_4th_Anniversary](http://twitter.com/search?q=%23TXT_4th_Anniversary) | N/A |
+| 31 | [#SiapKetemu7Dream](http://twitter.com/search?q=%23SiapKetemu7Dream) | N/A |
+| 32 | [#7Dream_in_Indonesia](http://twitter.com/search?q=%237Dream_in_Indonesia) | N/A |
+| 33 | [#NCTDREAM](http://twitter.com/search?q=%23NCTDREAM) | N/A |
+| 34 | [#RENJUN_NandemonaiyaCover](http://twitter.com/search?q=%23RENJUN_NandemonaiyaCover) | N/A |
+| 35 | [#aBossandaBabeEP1](http://twitter.com/search?q=%23aBossandaBabeEP1) | N/A |
+| 36 | [#BeautifulTimeWithDreamies](http://twitter.com/search?q=%23BeautifulTimeWithDreamies) | N/A |
+| 37 | [#LOEWExTAEYONG](http://twitter.com/search?q=%23LOEWExTAEYONG) | N/A |
+| 38 | [#LIKEITLIKEIT_MV_Release](http://twitter.com/search?q=%23LIKEITLIKEIT_MV_Release) | N/A |
+| 39 | [#비투비_4000일_예지앞사](http://twitter.com/search?q=%23%eb%b9%84%ed%88%ac%eb%b9%84_4000%ec%9d%bc_%ec%98%88%ec%a7%80%ec%95%9e%ec%82%ac) | N/A |
+| 40 | [#JinnysKitchenEp2](http://twitter.com/search?q=%23JinnysKitchenEp2) | N/A |
+| 41 | [#ไบเบิ้ลบิว](http://twitter.com/search?q=%23%e0%b9%84%e0%b8%9a%e0%b9%80%e0%b8%9a%e0%b8%b4%e0%b9%89%e0%b8%a5%e0%b8%9a%e0%b8%b4%e0%b8%a7) | N/A |
+| 42 | [#일잘하는서진이네_김태형](http://twitter.com/search?q=%23%ec%9d%bc%ec%9e%98%ed%95%98%eb%8a%94%ec%84%9c%ec%a7%84%ec%9d%b4%eb%84%a4_%ea%b9%80%ed%83%9c%ed%98%95) | N/A |
+| 43 | [#ONEW_NOTE_DAY1](http://twitter.com/search?q=%23ONEW_NOTE_DAY1) | N/A |
+| 44 | [#DayofMINE](http://twitter.com/search?q=%23DayofMINE) | N/A |
+| 45 | [#SiamParagonWFT23xTawan](http://twitter.com/search?q=%23SiamParagonWFT23xTawan) | N/A |
+| 46 | [#TaxiDriver2Ep5](http://twitter.com/search?q=%23TaxiDriver2Ep5) | N/A |
+| 47 | [#WINชวนฟิตกับCPFIITParty](http://twitter.com/search?q=%23WIN%e0%b8%8a%e0%b8%a7%e0%b8%99%e0%b8%9f%e0%b8%b4%e0%b8%95%e0%b8%81%e0%b8%b1%e0%b8%9aCPFIITParty) | N/A |
+| 48 | [#BibleBuild](http://twitter.com/search?q=%23BibleBuild) | #BibleBuild is a hashtag used to promote Bible literacy and encourage people to read the Bible. It is often used in conjunction with Bible study groups, church events, and other activities that promote the reading of Scripture. The hashtag is meant to encourage people to build their knowledge of the Bible and deepen their understanding of its teachings. |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For London
 
-📆 Last Updated: `2023-03-03 14:16:13 UTC`
+📆 Last Updated: `2023-03-03 15:16:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Boris Johnson](http://twitter.com/search?q=Boris+Johnson) | N/A |
-| 2 | [Far Right](http://twitter.com/search?q=Far+Right) | N/A |
-| 3 | [#ntsummit](http://twitter.com/search?q=%23ntsummit) | N/A |
+| 2 | [De La Soul](http://twitter.com/search?q=De+La+Soul) | N/A |
+| 3 | [#BANvENG](http://twitter.com/search?q=%23BANvENG) | N/A |
 | 4 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
-| 5 | [Bangladesh](http://twitter.com/search?q=Bangladesh) | N/A |
-| 6 | [Lando](http://twitter.com/search?q=Lando) | N/A |
-| 7 | [The End](http://twitter.com/search?q=The+End) | N/A |
-| 8 | [David Frost](http://twitter.com/search?q=David+Frost) | N/A |
-| 9 | [Civil Service](http://twitter.com/search?q=Civil+Service) | N/A |
-| 10 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
-| 11 | [Femi](http://twitter.com/search?q=Femi) | N/A |
-| 12 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 13 | [#F12023](http://twitter.com/search?q=%23F12023) | N/A |
-| 14 | [#DaisyJonesAndTheSix](http://twitter.com/search?q=%23DaisyJonesAndTheSix) | N/A |
-| 15 | [Question Time](http://twitter.com/search?q=Question+Time) | N/A |
-| 16 | [Nick Robinson](http://twitter.com/search?q=Nick+Robinson) | N/A |
-| 17 | [Lewis Hamilton](http://twitter.com/search?q=Lewis+Hamilton) | N/A |
-| 18 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 19 | [Kier Starmer](http://twitter.com/search?q=Kier+Starmer) | N/A |
-| 20 | [jhope](http://twitter.com/search?q=jhope) | N/A |
-| 21 | [Hershey](http://twitter.com/search?q=Hershey) | N/A |
-| 22 | [Harwood](http://twitter.com/search?q=Harwood) | N/A |
-| 23 | [GDPR](http://twitter.com/search?q=GDPR) | N/A |
-| 24 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 25 | [Stephen Bear](http://twitter.com/search?q=Stephen+Bear) | N/A |
-| 26 | [Sue Gray](http://twitter.com/search?q=Sue+Gray) | N/A |
-| 27 | [Glastonbury](http://twitter.com/search?q=Glastonbury) | N/A |
-| 28 | [Nadine Dorries](http://twitter.com/search?q=Nadine+Dorries) | N/A |
-| 29 | [Radio 2](http://twitter.com/search?q=Radio+2) | Radio 2 is a BBC radio station in the United Kingdom. It broadcasts a mix of music, news, and entertainment programs. The station's tagline is "The UK's Most Popular Music Station". Radio 2 is the most listened to radio station in the UK, with an average weekly reach of 15.2 million listeners. |
-| 30 | [Privileges Committee](http://twitter.com/search?q=Privileges+Committee) | N/A |
-| 31 | [Georgia Harrison](http://twitter.com/search?q=Georgia+Harrison) | N/A |
-| 32 | [Banky](http://twitter.com/search?q=Banky) | N/A |
-| 33 | [Mane](http://twitter.com/search?q=Mane) | Mane is a noun that refers to the long, thick hair that grows from the neck of certain animals, such as horses and lions. In English, it is also used to refer to a person's long, thick hair. |
-| 34 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 35 | [Spartacus](http://twitter.com/search?q=Spartacus) | N/A |
-| 36 | [Topic](http://twitter.com/search?q=Topic) | N/A |
-| 37 | [Bounty](http://twitter.com/search?q=Bounty) | N/A |
+| 5 | [Met Police](http://twitter.com/search?q=Met+Police) | N/A |
+| 6 | [The End](http://twitter.com/search?q=The+End) | N/A |
+| 7 | [tory mps](http://twitter.com/search?q=tory+mps) | N/A |
+| 8 | [Lando](http://twitter.com/search?q=Lando) | N/A |
+| 9 | [David Frost](http://twitter.com/search?q=David+Frost) | N/A |
+| 10 | [#fingerpostfriday](http://twitter.com/search?q=%23fingerpostfriday) | N/A |
+| 11 | [Maddison](http://twitter.com/search?q=Maddison) | N/A |
+| 12 | [Civil Service](http://twitter.com/search?q=Civil+Service) | N/A |
+| 13 | [#on_the_street](http://twitter.com/search?q=%23on_the_street) | N/A |
+| 14 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 15 | [#LiarJohnson](http://twitter.com/search?q=%23LiarJohnson) | N/A |
+| 16 | [Femi](http://twitter.com/search?q=Femi) | N/A |
+| 17 | [Bangladesh](http://twitter.com/search?q=Bangladesh) | N/A |
+| 18 | [Question Time](http://twitter.com/search?q=Question+Time) | N/A |
+| 19 | [Nick Robinson](http://twitter.com/search?q=Nick+Robinson) | N/A |
+| 20 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 21 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 22 | [Stephen Bear](http://twitter.com/search?q=Stephen+Bear) | N/A |
+| 23 | [Sue Gray](http://twitter.com/search?q=Sue+Gray) | N/A |
+| 24 | [Glastonbury](http://twitter.com/search?q=Glastonbury) | N/A |
+| 25 | [Nadine Dorries](http://twitter.com/search?q=Nadine+Dorries) | N/A |
+| 26 | [Privileges Committee](http://twitter.com/search?q=Privileges+Committee) | N/A |
+| 27 | [Radio 2](http://twitter.com/search?q=Radio+2) | Radio 2 is a BBC radio station in the United Kingdom. It broadcasts a mix of music, news, and entertainment programs. The station's tagline is "The UK's Most Popular Music Station". Radio 2 is the most listened to radio station in the UK, with an average weekly reach of 15.2 million listeners. |
+| 28 | [Georgia Harrison](http://twitter.com/search?q=Georgia+Harrison) | N/A |
+| 29 | [Banky](http://twitter.com/search?q=Banky) | N/A |
+| 30 | [Reece James](http://twitter.com/search?q=Reece+James) | Reece James is a masculine given name of English origin. It is derived from the Old English elements rēad (red) and cēosan (to choose). The name can also be spelled as Reece or Reecey. |
+| 31 | [Bounty](http://twitter.com/search?q=Bounty) | N/A |
+| 32 | [Mane](http://twitter.com/search?q=Mane) | Mane is a noun that refers to the long, thick hair that grows from the neck of certain animals, such as horses and lions. In English, it is also used to refer to a person's long, thick hair. |
+| 33 | [Wispa](http://twitter.com/search?q=Wispa) | N/A |
+| 34 | [Topic](http://twitter.com/search?q=Topic) | N/A |
+| 35 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 36 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
+| 37 | [Boost](http://twitter.com/search?q=Boost) | N/A |
 | 38 | [Golden Slumbers](http://twitter.com/search?q=Golden+Slumbers) | N/A |
-| 39 | [Wispa](http://twitter.com/search?q=Wispa) | N/A |
-| 40 | [Double Decker](http://twitter.com/search?q=Double+Decker) | N/A |
-| 41 | [Boost](http://twitter.com/search?q=Boost) | N/A |
-| 42 | [Greatest Hits Radio](http://twitter.com/search?q=Greatest+Hits+Radio) | Greatest Hits Radio is a type of radio station that plays popular music from the past. It typically features songs from the 1960s to the present day, and is designed to appeal to a wide range of listeners. The term "greatest hits" refers to the fact that these stations play some of the most popular songs from different eras. |
-| 43 | [Liverpool Legend](http://twitter.com/search?q=Liverpool+Legend) | N/A |
-| 44 | [Starbar](http://twitter.com/search?q=Starbar) | N/A |
-| 45 | [arctic monkeys](http://twitter.com/search?q=arctic+monkeys) | N/A |
-| 46 | [Turkish Delight](http://twitter.com/search?q=Turkish+Delight) | N/A |
-| 47 | [Picnic](http://twitter.com/search?q=Picnic) | N/A |
-| 48 | [No 10](http://twitter.com/search?q=No+10) | N/A |
-| 49 | [Pret](http://twitter.com/search?q=Pret) | N/A |
-| 50 | [Keown](http://twitter.com/search?q=Keown) | N/A |
+| 39 | [Double Decker](http://twitter.com/search?q=Double+Decker) | N/A |
+| 40 | [Reality TV](http://twitter.com/search?q=Reality+TV) | N/A |
+| 41 | [Metroid](http://twitter.com/search?q=Metroid) | N/A |
+| 42 | [Mad Nads](http://twitter.com/search?q=Mad+Nads) | N/A |
+| 43 | [Spartacus](http://twitter.com/search?q=Spartacus) | N/A |
+| 44 | [Liverpool Legend](http://twitter.com/search?q=Liverpool+Legend) | N/A |
+| 45 | [Sadiq Khan](http://twitter.com/search?q=Sadiq+Khan) | N/A |
+| 46 | [Starbar](http://twitter.com/search?q=Starbar) | N/A |
+| 47 | [Dean Saunders](http://twitter.com/search?q=Dean+Saunders) | N/A |
+| 48 | [Greatest Hits Radio](http://twitter.com/search?q=Greatest+Hits+Radio) | Greatest Hits Radio is a type of radio station that plays popular music from the past. It typically features songs from the 1960s to the present day, and is designed to appeal to a wide range of listeners. The term "greatest hits" refers to the fact that these stations play some of the most popular songs from different eras. |
+| 49 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
+| 50 | [Picnic](http://twitter.com/search?q=Picnic) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rotterdam
 
-📆 Last Updated: `2023-03-03 14:16:29 UTC`
+📆 Last Updated: `2023-03-03 15:16:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Netherlands](</Netherlands>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#glazenbolcup](http://twitter.com/search?q=%23glazenbolcup) | N/A |
-| 2 | [#graaja](http://twitter.com/search?q=%23graaja) | N/A |
+| 1 | [#GraAja](http://twitter.com/search?q=%23GraAja) | N/A |
+| 2 | [#glazenbolcup](http://twitter.com/search?q=%23glazenbolcup) | N/A |
 | 3 | [Lubach](http://twitter.com/search?q=Lubach) | N/A |
 | 4 | [#psvado](http://twitter.com/search?q=%23psvado) | N/A |
 | 5 | [#terugvolgvrijdag](http://twitter.com/search?q=%23terugvolgvrijdag) | N/A |
-| 6 | [Hartman](http://twitter.com/search?q=Hartman) | N/A |
-| 7 | [Kjell Scherpen](http://twitter.com/search?q=Kjell+Scherpen) | N/A |
-| 8 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
-| 9 | [Koeman](http://twitter.com/search?q=Koeman) | N/A |
-| 10 | [Oranje](http://twitter.com/search?q=Oranje) | N/A |
-| 11 | [Dolf](http://twitter.com/search?q=Dolf) | N/A |
-| 12 | [Olij](http://twitter.com/search?q=Olij) | N/A |
+| 6 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
+| 7 | [Scherpen](http://twitter.com/search?q=Scherpen) | N/A |
+| 8 | [Hartman](http://twitter.com/search?q=Hartman) | N/A |
+| 9 | [Oranje](http://twitter.com/search?q=Oranje) | N/A |
+| 10 | [Koeman](http://twitter.com/search?q=Koeman) | N/A |
+| 11 | [Olij](http://twitter.com/search?q=Olij) | N/A |
+| 12 | [Dolf](http://twitter.com/search?q=Dolf) | N/A |
 | 13 | [Noppert](http://twitter.com/search?q=Noppert) | N/A |
-| 14 | [Boomen](http://twitter.com/search?q=Boomen) | N/A |
-| 15 | [Branco](http://twitter.com/search?q=Branco) | N/A |
-| 16 | [Derksen](http://twitter.com/search?q=Derksen) | N/A |
-| 17 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 18 | [Quincy Promes](http://twitter.com/search?q=Quincy+Promes) | N/A |
-| 19 | [Vandaag Inside](http://twitter.com/search?q=Vandaag+Inside) | N/A |
-| 20 | [Verbruggen](http://twitter.com/search?q=Verbruggen) | N/A |
-| 21 | [Wieffer](http://twitter.com/search?q=Wieffer) | N/A |
-| 22 | [Wijnaldum](http://twitter.com/search?q=Wijnaldum) | N/A |
-| 23 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
-| 24 | [De Graafschap](http://twitter.com/search?q=De+Graafschap) | N/A |
-| 25 | [Brobbey](http://twitter.com/search?q=Brobbey) | N/A |
-| 26 | [Post Malone](http://twitter.com/search?q=Post+Malone) | N/A |
-| 27 | [Göteborg](http://twitter.com/search?q=G%c3%b6teborg) | N/A |
-| 28 | [Zweden](http://twitter.com/search?q=Zweden) | N/A |
-| 29 | [Jeroen Pauw](http://twitter.com/search?q=Jeroen+Pauw) | N/A |
-| 30 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 31 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
-| 32 | [Spakenburg](http://twitter.com/search?q=Spakenburg) | N/A |
-| 33 | [iraniër](http://twitter.com/search?q=irani%c3%abr) | N/A |
-| 34 | [grillitsch](http://twitter.com/search?q=grillitsch) | N/A |
-| 35 | [Stop NPO-censuur](http://twitter.com/search?q=Stop+NPO-censuur) | N/A |
+| 14 | [Luuk de Jong](http://twitter.com/search?q=Luuk+de+Jong) | N/A |
+| 15 | [Derksen](http://twitter.com/search?q=Derksen) | N/A |
+| 16 | [Quincy Promes](http://twitter.com/search?q=Quincy+Promes) | N/A |
+| 17 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
+| 18 | [Vandaag Inside](http://twitter.com/search?q=Vandaag+Inside) | N/A |
+| 19 | [Wieffer](http://twitter.com/search?q=Wieffer) | N/A |
+| 20 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 21 | [Post Malone](http://twitter.com/search?q=Post+Malone) | N/A |
+| 22 | [goedemorgen valentine](http://twitter.com/search?q=goedemorgen+valentine) | N/A |
+| 23 | [De Graafschap](http://twitter.com/search?q=De+Graafschap) | N/A |
+| 24 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
+| 25 | [Göteborg](http://twitter.com/search?q=G%c3%b6teborg) | N/A |
+| 26 | [Mathieu](http://twitter.com/search?q=Mathieu) | N/A |
+| 27 | [Zweden](http://twitter.com/search?q=Zweden) | N/A |
+| 28 | [Boomen](http://twitter.com/search?q=Boomen) | N/A |
+| 29 | [Grillitsch](http://twitter.com/search?q=Grillitsch) | N/A |
+| 30 | [Schiphol](http://twitter.com/search?q=Schiphol) | N/A |
+| 31 | [Iraniër](http://twitter.com/search?q=Irani%c3%abr) | N/A |
+| 32 | [patrick roest](http://twitter.com/search?q=patrick+roest) | N/A |
+| 33 | [Wijnaldum](http://twitter.com/search?q=Wijnaldum) | N/A |
+| 34 | [Danny](http://twitter.com/search?q=Danny) | N/A |
+| 35 | [Goedemiddag](http://twitter.com/search?q=Goedemiddag) | N/A |
 | 36 | [Olav](http://twitter.com/search?q=Olav) | N/A |
-| 37 | [Mathieu van der Poel](http://twitter.com/search?q=Mathieu+van+der+Poel) | N/A |
+| 37 | [Fijn](http://twitter.com/search?q=Fijn) | N/A |
 | 38 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
-| 39 | [Zwarte Piet](http://twitter.com/search?q=Zwarte+Piet) | N/A |
-| 40 | [Schiphol](http://twitter.com/search?q=Schiphol) | N/A |
-| 41 | [Koopmans](http://twitter.com/search?q=Koopmans) | N/A |
-| 42 | [Red Ongehoord Nederland](http://twitter.com/search?q=Red+Ongehoord+Nederland) | N/A |
-| 43 | [Danny](http://twitter.com/search?q=Danny) | N/A |
-| 44 | [De La Soul](http://twitter.com/search?q=De+La+Soul) | N/A |
-| 45 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 46 | [Kimberley](http://twitter.com/search?q=Kimberley) | N/A |
-| 47 | [Bryansk](http://twitter.com/search?q=Bryansk) | N/A |
-| 48 | [Goedemiddag](http://twitter.com/search?q=Goedemiddag) | N/A |
-| 49 | [Wuhan](http://twitter.com/search?q=Wuhan) | N/A |
-| 50 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 39 | [Koopmans](http://twitter.com/search?q=Koopmans) | N/A |
+| 40 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 41 | [Spakenburg](http://twitter.com/search?q=Spakenburg) | N/A |
+| 42 | [De La Soul](http://twitter.com/search?q=De+La+Soul) | N/A |
+| 43 | [Nederlands](http://twitter.com/search?q=Nederlands) | N/A |
+| 44 | [Stop NPO-censuur](http://twitter.com/search?q=Stop+NPO-censuur) | N/A |
+| 45 | [blind](http://twitter.com/search?q=blind) | N/A |
+| 46 | [Maya](http://twitter.com/search?q=Maya) | N/A |
+| 47 | [john coffey](http://twitter.com/search?q=john+coffey) | N/A |
+| 48 | [De Avondshow](http://twitter.com/search?q=De+Avondshow) | N/A |
+| 49 | [Branco](http://twitter.com/search?q=Branco) | N/A |
+| 50 | [Vanuatu](http://twitter.com/search?q=Vanuatu) | N/A |
 
 
 

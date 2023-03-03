@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jeddah
 
-📆 Last Updated: `2023-03-03 14:16:46 UTC`
+📆 Last Updated: `2023-03-03 15:16:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Saudi Arabia](</Saudi Arabia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [صالح الاعمال](http://twitter.com/search?q=%d8%b5%d8%a7%d9%84%d8%ad+%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d8%a7%d9%84) | N/A |
-| 2 | [#ولي_العهد](http://twitter.com/search?q=%23%d9%88%d9%84%d9%8a_%d8%a7%d9%84%d8%b9%d9%87%d8%af) | N/A |
+| 1 | [علي الفوز](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%81%d9%88%d8%b2) | N/A |
+| 2 | [حمدان](http://twitter.com/search?q=%d8%ad%d9%85%d8%af%d8%a7%d9%86) | حمدان (Ḥamdan) is an Arabic male name meaning "praiseworthy". |
 | 3 | [#ساعه_استجابه](http://twitter.com/search?q=%23%d8%b3%d8%a7%d8%b9%d9%87_%d8%a7%d8%b3%d8%aa%d8%ac%d8%a7%d8%a8%d9%87) | #ساعه_استجابه is an Arabic hashtag that translates to "response time". It is used to refer to the amount of time it takes for someone to respond to a message or request. |
 | 4 | [#الاتحاد_الخليج](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af_%d8%a7%d9%84%d8%ae%d9%84%d9%8a%d8%ac) | N/A |
-| 5 | [#يوم_Iلجمعه](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_I%d9%84%d8%ac%d9%85%d8%b9%d9%87) | N/A |
-| 6 | [محمد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af) | محمد is an Arabic name that means "praiseworthy" in English. It is also the name of the Islamic prophet Muhammad. |
-| 7 | [#جمعه_مباركه](http://twitter.com/search?q=%23%d8%ac%d9%85%d8%b9%d9%87_%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | #جمعه_مباركه is an Arabic hashtag that translates to "blessed Friday". It is used to express joy and appreciation for the start of the weekend. |
-| 8 | [طارق حامد](http://twitter.com/search?q=%d8%b7%d8%a7%d8%b1%d9%82+%d8%ad%d8%a7%d9%85%d8%af) | طارق حامد is an Arabic name, which translates to English as Tariq Hamed. |
-| 9 | [زكريا](http://twitter.com/search?q=%d8%b2%d9%83%d8%b1%d9%8a%d8%a7) | زكريا (Zakariya) is an Arabic name meaning "God remembers". It is also a variant of the Hebrew name Zechariah. |
-| 10 | [علاء](http://twitter.com/search?q=%d8%b9%d9%84%d8%a7%d8%a1) | N/A |
-| 11 | [موتي المسلمين](http://twitter.com/search?q=%d9%85%d9%88%d8%aa%d9%8a+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d9%85%d9%8a%d9%86) | N/A |
-| 12 | [ابو مناف](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d9%85%d9%86%d8%a7%d9%81) | N/A |
-| 13 | [علي النبي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%86%d8%a8%d9%8a) | "علي النبي" is an Arabic phrase that translates to "upon the Prophet". It is used as a blessing or invocation of peace and blessings upon the Prophet Muhammad. |
-| 14 | [راعي الجيب](http://twitter.com/search?q=%d8%b1%d8%a7%d8%b9%d9%8a+%d8%a7%d9%84%d8%ac%d9%8a%d8%a8) | N/A |
-| 15 | [جعفر الصليح](http://twitter.com/search?q=%d8%ac%d8%b9%d9%81%d8%b1+%d8%a7%d9%84%d8%b5%d9%84%d9%8a%d8%ad) | N/A |
-| 16 | [سلم علي](http://twitter.com/search?q=%d8%b3%d9%84%d9%85+%d8%b9%d9%84%d9%8a) | سلم علي is an Arabic phrase that translates to "Peace be upon you" in English. It is a common greeting used in the Middle East and other parts of the world. |
-| 17 | [طارق العلي](http://twitter.com/search?q=%d8%b7%d8%a7%d8%b1%d9%82+%d8%a7%d9%84%d8%b9%d9%84%d9%8a) | N/A |
-| 18 | [فيرمينو](http://twitter.com/search?q=%d9%81%d9%8a%d8%b1%d9%85%d9%8a%d9%86%d9%88) | N/A |
-| 19 | [الساعه المباركه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%a7%d8%b9%d9%87+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | N/A |
-| 20 | [اليوم الفضيل](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d9%81%d8%b6%d9%8a%d9%84) | N/A |
-| 21 | [WORLD CLASS STAR V](http://twitter.com/search?q=WORLD+CLASS+STAR+V) | N/A |
-| 22 | [نور مابين الجمعتين](http://twitter.com/search?q=%d9%86%d9%88%d8%b1+%d9%85%d8%a7%d8%a8%d9%8a%d9%86+%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d8%aa%d9%8a%d9%86) | N/A |
-| 23 | [نعيم دايم](http://twitter.com/search?q=%d9%86%d8%b9%d9%8a%d9%85+%d8%af%d8%a7%d9%8a%d9%85) | N/A |
-| 24 | [برد علي قبور](http://twitter.com/search?q=%d8%a8%d8%b1%d8%af+%d8%b9%d9%84%d9%8a+%d9%82%d8%a8%d9%88%d8%b1) | N/A |
-| 25 | [تركي الزهراني](http://twitter.com/search?q=%d8%aa%d8%b1%d9%83%d9%8a+%d8%a7%d9%84%d8%b2%d9%87%d8%b1%d8%a7%d9%86%d9%8a) | N/A |
-| 26 | [فابيو](http://twitter.com/search?q=%d9%81%d8%a7%d8%a8%d9%8a%d9%88) | N/A |
-| 27 | [نور دايم](http://twitter.com/search?q=%d9%86%d9%88%d8%b1+%d8%af%d8%a7%d9%8a%d9%85) | N/A |
-| 28 | [المسلمات الاحياء](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d9%84%d9%85%d8%a7%d8%aa+%d8%a7%d9%84%d8%a7%d8%ad%d9%8a%d8%a7%d8%a1) | N/A |
-| 29 | [اليوم المبارك](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
-| 30 | [العبود](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%a8%d9%88%d8%af) | العبود is an Arabic word meaning "slave" or "servant". |
-| 31 | [الضاحكين المستبشرين](http://twitter.com/search?q=%d8%a7%d9%84%d8%b6%d8%a7%d8%ad%d9%83%d9%8a%d9%86+%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d8%a8%d8%b4%d8%b1%d9%8a%d9%86) | N/A |
-| 32 | [الغفران اللهم](http://twitter.com/search?q=%d8%a7%d9%84%d8%ba%d9%81%d8%b1%d8%a7%d9%86+%d8%a7%d9%84%d9%84%d9%87%d9%85) | N/A |
-| 33 | [الشوون الاسلاميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d9%88%d9%86+%d8%a7%d9%84%d8%a7%d8%b3%d9%84%d8%a7%d9%85%d9%8a%d9%87) | N/A |
-| 34 | [اكرم الاكرمين](http://twitter.com/search?q=%d8%a7%d9%83%d8%b1%d9%85+%d8%a7%d9%84%d8%a7%d9%83%d8%b1%d9%85%d9%8a%d9%86) | N/A |
-| 35 | [علي اشرف الخلق](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d8%b4%d8%b1%d9%81+%d8%a7%d9%84%d8%ae%d9%84%d9%82) | N/A |
-| 36 | [عين رات](http://twitter.com/search?q=%d8%b9%d9%8a%d9%86+%d8%b1%d8%a7%d8%aa) | N/A |
-| 37 | [الثوب الابيض](http://twitter.com/search?q=%d8%a7%d9%84%d8%ab%d9%88%d8%a8+%d8%a7%d9%84%d8%a7%d8%a8%d9%8a%d8%b6) | N/A |
-| 38 | [الحرم المكي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%b1%d9%85+%d8%a7%d9%84%d9%85%d9%83%d9%8a) | N/A |
-| 39 | [نهر الكوثر](http://twitter.com/search?q=%d9%86%d9%87%d8%b1+%d8%a7%d9%84%d9%83%d9%88%d8%ab%d8%b1) | N/A |
-| 40 | [عبد مسلم](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af+%d9%85%d8%b3%d9%84%d9%85) | N/A |
-| 41 | [والباطن](http://twitter.com/search?q=%d9%88%d8%a7%d9%84%d8%a8%d8%a7%d8%b7%d9%86) | N/A |
-| 42 | [دار السلام](http://twitter.com/search?q=%d8%af%d8%a7%d8%b1+%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85) | N/A |
-| 43 | [علي الحبيب](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ad%d8%a8%d9%8a%d8%a8) | N/A |
-| 44 | [حميد مجيد](http://twitter.com/search?q=%d8%ad%d9%85%d9%8a%d8%af+%d9%85%d8%ac%d9%8a%d8%af) | N/A |
-| 45 | [علي قلب بشر](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%82%d9%84%d8%a8+%d8%a8%d8%b4%d8%b1) | N/A |
-| 46 | [علي ابراهيم](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85) | N/A |
-| 47 | [قبر ابي](http://twitter.com/search?q=%d9%82%d8%a8%d8%b1+%d8%a7%d8%a8%d9%8a) | N/A |
-| 48 | [الخفاش الاسود](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d9%81%d8%a7%d8%b4+%d8%a7%d9%84%d8%a7%d8%b3%d9%88%d8%af) | N/A |
-| 49 | [درب السلامه](http://twitter.com/search?q=%d8%af%d8%b1%d8%a8+%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85%d9%87) | N/A |
-| 50 | [علي الرسول](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b1%d8%b3%d9%88%d9%84) | N/A |
+| 5 | [روما](http://twitter.com/search?q=%d8%b1%d9%88%d9%85%d8%a7) | روما is a city in Italy, located in the Lazio region. In English, it is known as Rome. It is the capital of Italy and one of the most visited cities in the world. It is known for its ancient ruins, art, culture, and cuisine. |
+| 6 | [#يوم_Iلجمعه](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_I%d9%84%d8%ac%d9%85%d8%b9%d9%87) | N/A |
+| 7 | [شراحيلي](http://twitter.com/search?q=%d8%b4%d8%b1%d8%a7%d8%ad%d9%8a%d9%84%d9%8a) | شراحيلي is an Arabic phrase that translates to "My Darling" in English. It is a term of endearment used to express love and affection. |
+| 8 | [محمد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af) | محمد is an Arabic name that means "praiseworthy" in English. It is also the name of the Islamic prophet Muhammad. |
+| 9 | [كلين شيت](http://twitter.com/search?q=%d9%83%d9%84%d9%8a%d9%86+%d8%b4%d9%8a%d8%aa) | N/A |
+| 10 | [#جمعه_مباركه](http://twitter.com/search?q=%23%d8%ac%d9%85%d8%b9%d9%87_%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | #جمعه_مباركه is an Arabic hashtag that translates to "blessed Friday". It is used to express joy and appreciation for the start of the weekend. |
+| 11 | [قول الساطي](http://twitter.com/search?q=%d9%82%d9%88%d9%84+%d8%a7%d9%84%d8%b3%d8%a7%d8%b7%d9%8a) | N/A |
+| 12 | [#الرايد_الاتفاق](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b1%d8%a7%d9%8a%d8%af_%d8%a7%d9%84%d8%a7%d8%aa%d9%81%d8%a7%d9%82) | N/A |
+| 13 | [طارق حامد](http://twitter.com/search?q=%d8%b7%d8%a7%d8%b1%d9%82+%d8%ad%d8%a7%d9%85%d8%af) | طارق حامد is an Arabic name, which translates to English as Tariq Hamed. |
+| 14 | [قول كمارا](http://twitter.com/search?q=%d9%82%d9%88%d9%84+%d9%83%d9%85%d8%a7%d8%b1%d8%a7) | N/A |
+| 15 | [الدعيع](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%b9%d9%8a%d8%b9) | N/A |
+| 16 | [الساعه المباركه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%a7%d8%b9%d9%87+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | N/A |
+| 17 | [للاتحاد](http://twitter.com/search?q=%d9%84%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af) | للاتحاد is an Arabic phrase that translates to "unity" or "unification" in English. |
+| 18 | [موتي المسلمين](http://twitter.com/search?q=%d9%85%d9%88%d8%aa%d9%8a+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d9%85%d9%8a%d9%86) | N/A |
+| 19 | [زكريا](http://twitter.com/search?q=%d8%b2%d9%83%d8%b1%d9%8a%d8%a7) | زكريا (Zakariya) is an Arabic name meaning "God remembers". It is also a variant of the Hebrew name Zechariah. |
+| 20 | [نونو سانتو](http://twitter.com/search?q=%d9%86%d9%88%d9%86%d9%88+%d8%b3%d8%a7%d9%86%d8%aa%d9%88) | نونو سانتو (Nunu Santo) is a traditional dance from the Caribbean island of Trinidad and Tobago. It is a form of African-influenced dance that combines elements of African, Indian, and European cultures. The dance is performed in a circle with two or more people, and involves intricate footwork and hand movements. The name "Nunu Santo" translates to "Holy Dance" in English. |
+| 21 | [سعيد المولد](http://twitter.com/search?q=%d8%b3%d8%b9%d9%8a%d8%af+%d8%a7%d9%84%d9%85%d9%88%d9%84%d8%af) | سعيد المولد is an Arabic phrase that translates to "Happy Birthday" in English. It is a common phrase used to wish someone a happy birthday. |
+| 22 | [علاء](http://twitter.com/search?q=%d8%b9%d9%84%d8%a7%d8%a1) | N/A |
+| 23 | [البيشي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%8a%d8%b4%d9%8a) | البيشي is an Arabic word that means "the boss" or "the leader". It is often used to refer to someone who is in charge or has authority over others. |
+| 24 | [جعفر الصليح](http://twitter.com/search?q=%d8%ac%d8%b9%d9%81%d8%b1+%d8%a7%d9%84%d8%b5%d9%84%d9%8a%d8%ad) | N/A |
+| 25 | [علي النبي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%86%d8%a8%d9%8a) | "علي النبي" is an Arabic phrase that translates to "upon the Prophet". It is used as a blessing or invocation of peace and blessings upon the Prophet Muhammad. |
+| 26 | [عبدالرزاق حمدالله](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%b1%d8%b2%d8%a7%d9%82+%d8%ad%d9%85%d8%af%d8%a7%d9%84%d9%84%d9%87) | N/A |
+| 27 | [هارون كمارا](http://twitter.com/search?q=%d9%87%d8%a7%d8%b1%d9%88%d9%86+%d9%83%d9%85%d8%a7%d8%b1%d8%a7) | N/A |
+| 28 | [راعي الجيب](http://twitter.com/search?q=%d8%b1%d8%a7%d8%b9%d9%8a+%d8%a7%d9%84%d8%ac%d9%8a%d8%a8) | N/A |
+| 29 | [فيرمينو](http://twitter.com/search?q=%d9%81%d9%8a%d8%b1%d9%85%d9%8a%d9%86%d9%88) | N/A |
+| 30 | [النصر اليوم](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%b5%d8%b1+%d8%a7%d9%84%d9%8a%d9%88%d9%85) | N/A |
+| 31 | [فابيو](http://twitter.com/search?q=%d9%81%d8%a7%d8%a8%d9%8a%d9%88) | N/A |
+| 32 | [فوز الاتحاد](http://twitter.com/search?q=%d9%81%d9%88%d8%b2+%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af) | N/A |
+| 33 | [الخميس الجاي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3+%d8%a7%d9%84%d8%ac%d8%a7%d9%8a) | N/A |
+| 34 | [بشري تشبه الغيث](http://twitter.com/search?q=%d8%a8%d8%b4%d8%b1%d9%8a+%d8%aa%d8%b4%d8%a8%d9%87+%d8%a7%d9%84%d8%ba%d9%8a%d8%ab) | N/A |
+| 35 | [سلم علي](http://twitter.com/search?q=%d8%b3%d9%84%d9%85+%d8%b9%d9%84%d9%8a) | سلم علي is an Arabic phrase that translates to "Peace be upon you" in English. It is a common greeting used in the Middle East and other parts of the world. |
+| 36 | [اليوم الفضيل](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d9%81%d8%b6%d9%8a%d9%84) | N/A |
+| 37 | [ابو مناف](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d9%85%d9%86%d8%a7%d9%81) | N/A |
+| 38 | [المسلمات الاحياء](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d9%84%d9%85%d8%a7%d8%aa+%d8%a7%d9%84%d8%a7%d8%ad%d9%8a%d8%a7%d8%a1) | N/A |
+| 39 | [الهدف الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%af%d9%81+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | الهدف الثاني is a phrase in Arabic which translates to "Second Goal" in English. It is often used to refer to a second goal or objective that needs to be achieved. |
+| 40 | [نور دايم](http://twitter.com/search?q=%d9%86%d9%88%d8%b1+%d8%af%d8%a7%d9%8a%d9%85) | N/A |
+| 41 | [WORLD CLASS STAR V](http://twitter.com/search?q=WORLD+CLASS+STAR+V) | N/A |
+| 42 | [اليوم المبارك](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
+| 43 | [الخميس القادم](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3+%d8%a7%d9%84%d9%82%d8%a7%d8%af%d9%85) | N/A |
+| 44 | [قول الثاني](http://twitter.com/search?q=%d9%82%d9%88%d9%84+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
+| 45 | [تركي الزهراني](http://twitter.com/search?q=%d8%aa%d8%b1%d9%83%d9%8a+%d8%a7%d9%84%d8%b2%d9%87%d8%b1%d8%a7%d9%86%d9%8a) | N/A |
+| 46 | [الهدف الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%af%d9%81+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
+| 47 | [نقل الصلوات](http://twitter.com/search?q=%d9%86%d9%82%d9%84+%d8%a7%d9%84%d8%b5%d9%84%d9%88%d8%a7%d8%aa) | N/A |
+| 48 | [نعيم دايم](http://twitter.com/search?q=%d9%86%d8%b9%d9%8a%d9%85+%d8%af%d8%a7%d9%8a%d9%85) | N/A |
+| 49 | [قول ثالث](http://twitter.com/search?q=%d9%82%d9%88%d9%84+%d8%ab%d8%a7%d9%84%d8%ab) | N/A |
+| 50 | [الضاحكين المستبشرين](http://twitter.com/search?q=%d8%a7%d9%84%d8%b6%d8%a7%d8%ad%d9%83%d9%8a%d9%86+%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d8%a8%d8%b4%d8%b1%d9%8a%d9%86) | N/A |
 
 
 
