@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For São Paulo
 
-📆 Last Updated: `2023-03-03 12:19:15 UTC`
+📆 Last Updated: `2023-03-03 13:20:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Hayley](http://twitter.com/search?q=Hayley) | N/A |
-| 2 | [Lauren](http://twitter.com/search?q=Lauren) | N/A |
-| 3 | [Feliz Natal](http://twitter.com/search?q=Feliz+Natal) | Feliz Natal is a Portuguese phrase meaning "Merry Christmas". It is commonly used in Brazil and other Portuguese-speaking countries during the holiday season. |
-| 4 | [#F1noBandSports](http://twitter.com/search?q=%23F1noBandSports) | N/A |
-| 5 | [#sextou](http://twitter.com/search?q=%23sextou) | N/A |
-| 6 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 7 | [#Zico70](http://twitter.com/search?q=%23Zico70) | N/A |
-| 8 | [kali uchis](http://twitter.com/search?q=kali+uchis) | N/A |
-| 9 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
-| 10 | [on the street](http://twitter.com/search?q=on+the+street) | N/A |
-| 11 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
-| 12 | [FORA JUSCELINO FILHO](http://twitter.com/search?q=FORA+JUSCELINO+FILHO) | N/A |
-| 13 | [#HappyBirthdayCamila](http://twitter.com/search?q=%23HappyBirthdayCamila) | N/A |
-| 14 | [Luda](http://twitter.com/search?q=Luda) | N/A |
-| 15 | [Sergipe](http://twitter.com/search?q=Sergipe) | N/A |
-| 16 | [Rubel](http://twitter.com/search?q=Rubel) | N/A |
-| 17 | [Mulan](http://twitter.com/search?q=Mulan) | N/A |
-| 18 | [#BDSP](http://twitter.com/search?q=%23BDSP) | N/A |
-| 19 | [All I Wanted](http://twitter.com/search?q=All+I+Wanted) | N/A |
-| 20 | [dawon](http://twitter.com/search?q=dawon) | N/A |
-| 21 | [My Everything](http://twitter.com/search?q=My+Everything) | N/A |
-| 22 | [Dangerous Woman](http://twitter.com/search?q=Dangerous+Woman) | N/A |
-| 23 | [Yours Truly](http://twitter.com/search?q=Yours+Truly) | N/A |
-| 24 | [Daniel Alves](http://twitter.com/search?q=Daniel+Alves) | Daniel Alves is a Brazilian professional footballer who plays as a right-back for São Paulo FC. He is widely regarded as one of the best right-backs in the world and has won numerous awards and accolades throughout his career. |
-| 25 | [Playing God](http://twitter.com/search?q=Playing+God) | N/A |
-| 26 | [Still Alive](http://twitter.com/search?q=Still+Alive) | N/A |
-| 27 | [Mang](http://twitter.com/search?q=Mang) | N/A |
-| 28 | [Rei Leão](http://twitter.com/search?q=Rei+Le%c3%a3o) | N/A |
-| 29 | [Demi Lovato](http://twitter.com/search?q=Demi+Lovato) | N/A |
-| 30 | [Zanin](http://twitter.com/search?q=Zanin) | Zanin is a Japanese word that means "all of us". It is often used to refer to a group of people who are working together towards a common goal. |
-| 31 | [Shingeki](http://twitter.com/search?q=Shingeki) | Shingeki is a Japanese word that translates to "advancement" or "onslaught" in English. It is often used to refer to a sudden, large-scale attack or invasion. |
-| 32 | [Aladdin](http://twitter.com/search?q=Aladdin) | N/A |
-| 33 | [attack on titan](http://twitter.com/search?q=attack+on+titan) | N/A |
-| 34 | [red moon in venus](http://twitter.com/search?q=red+moon+in+venus) | N/A |
-| 35 | [O Will](http://twitter.com/search?q=O+Will) | N/A |
-| 36 | [Tarzan](http://twitter.com/search?q=Tarzan) | N/A |
-| 37 | [mc carol](http://twitter.com/search?q=mc+carol) | N/A |
-| 38 | [Desculpas](http://twitter.com/search?q=Desculpas) | N/A |
-| 39 | [Reinaldo Azevedo](http://twitter.com/search?q=Reinaldo+Azevedo) | N/A |
-| 40 | [Lapso](http://twitter.com/search?q=Lapso) | N/A |
-| 41 | [Hércules](http://twitter.com/search?q=H%c3%a9rcules) | N/A |
-| 42 | [Pocahontas](http://twitter.com/search?q=Pocahontas) | N/A |
-| 43 | [Amoedo](http://twitter.com/search?q=Amoedo) | N/A |
-| 44 | [Bráulio](http://twitter.com/search?q=Br%c3%a1ulio) | N/A |
-| 45 | [Petrobrás](http://twitter.com/search?q=Petrobr%c3%a1s) | N/A |
-| 46 | [Abin](http://twitter.com/search?q=Abin) | N/A |
-| 47 | [Apanhou](http://twitter.com/search?q=Apanhou) | N/A |
-| 48 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
-| 49 | [BEM FEITO](http://twitter.com/search?q=BEM+FEITO) | N/A |
-| 50 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 1 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 2 | [Sergipe](http://twitter.com/search?q=Sergipe) | N/A |
+| 3 | [Hayley](http://twitter.com/search?q=Hayley) | N/A |
+| 4 | [Lauren](http://twitter.com/search?q=Lauren) | N/A |
+| 5 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 6 | [Senado](http://twitter.com/search?q=Senado) | Senado is the Spanish word for Senate. It is used to refer to a legislative body, usually in a government or other political organization, that is composed of members who are elected or appointed by the population. In English, it can be translated as "Senate". |
+| 7 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
+| 8 | [Feliz Natal](http://twitter.com/search?q=Feliz+Natal) | Feliz Natal is a Portuguese phrase meaning "Merry Christmas". It is commonly used in Brazil and other Portuguese-speaking countries during the holiday season. |
+| 9 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 10 | [Zico](http://twitter.com/search?q=Zico) | N/A |
+| 11 | [#F1noBandSports](http://twitter.com/search?q=%23F1noBandSports) | N/A |
+| 12 | [#sextou](http://twitter.com/search?q=%23sextou) | N/A |
+| 13 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
+| 14 | [Kali Uchis](http://twitter.com/search?q=Kali+Uchis) | N/A |
+| 15 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 16 | [on the street](http://twitter.com/search?q=on+the+street) | N/A |
+| 17 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 18 | [will smith](http://twitter.com/search?q=will+smith) | N/A |
+| 19 | [FORA JUSCELINO FILHO](http://twitter.com/search?q=FORA+JUSCELINO+FILHO) | N/A |
+| 20 | [Nelly](http://twitter.com/search?q=Nelly) | Nelly is a nickname for the female given name Eleanor, which is derived from the Greek name Helenē, meaning “light” or “bright one.” It can also be used as a diminutive form of the name Cornelia. |
+| 21 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
+| 22 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 23 | [#HappyBirthdayCamila](http://twitter.com/search?q=%23HappyBirthdayCamila) | N/A |
+| 24 | [Mulan](http://twitter.com/search?q=Mulan) | N/A |
+| 25 | [Rubel](http://twitter.com/search?q=Rubel) | N/A |
+| 26 | [luda](http://twitter.com/search?q=luda) | N/A |
+| 27 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 28 | [Shingeki](http://twitter.com/search?q=Shingeki) | Shingeki is a Japanese word that translates to "advancement" or "onslaught" in English. It is often used to refer to a sudden, large-scale attack or invasion. |
+| 29 | [Glastonbury](http://twitter.com/search?q=Glastonbury) | N/A |
+| 30 | [Daniel Alves](http://twitter.com/search?q=Daniel+Alves) | Daniel Alves is a Brazilian professional footballer who plays as a right-back for São Paulo FC. He is widely regarded as one of the best right-backs in the world and has won numerous awards and accolades throughout his career. |
+| 31 | [Zanin](http://twitter.com/search?q=Zanin) | Zanin is a Japanese word that means "all of us". It is often used to refer to a group of people who are working together towards a common goal. |
+| 32 | [dawon](http://twitter.com/search?q=dawon) | N/A |
+| 33 | [Dangerous Woman](http://twitter.com/search?q=Dangerous+Woman) | N/A |
+| 34 | [Attack on Titan](http://twitter.com/search?q=Attack+on+Titan) | N/A |
+| 35 | [All I Wanted](http://twitter.com/search?q=All+I+Wanted) | N/A |
+| 36 | [Aladdin](http://twitter.com/search?q=Aladdin) | N/A |
+| 37 | [#BDSP](http://twitter.com/search?q=%23BDSP) | N/A |
+| 38 | [Rei Leão](http://twitter.com/search?q=Rei+Le%c3%a3o) | N/A |
+| 39 | [Galinho](http://twitter.com/search?q=Galinho) | N/A |
+| 40 | [Demi Lovato](http://twitter.com/search?q=Demi+Lovato) | N/A |
+| 41 | [My Everything](http://twitter.com/search?q=My+Everything) | N/A |
+| 42 | [Yours Truly](http://twitter.com/search?q=Yours+Truly) | N/A |
+| 43 | [Tarzan](http://twitter.com/search?q=Tarzan) | N/A |
+| 44 | [Still Alive](http://twitter.com/search?q=Still+Alive) | N/A |
+| 45 | [Playing God](http://twitter.com/search?q=Playing+God) | N/A |
+| 46 | [Charizard](http://twitter.com/search?q=Charizard) | N/A |
+| 47 | [mc carol](http://twitter.com/search?q=mc+carol) | N/A |
+| 48 | [Mang](http://twitter.com/search?q=Mang) | N/A |
+| 49 | [Next in Fashion](http://twitter.com/search?q=Next+in+Fashion) | N/A |
+| 50 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
 
 
 

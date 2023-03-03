@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indianapolis
 
-📆 Last Updated: `2023-03-03 12:19:46 UTC`
+📆 Last Updated: `2023-03-03 13:20:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Nolan Smith](http://twitter.com/search?q=Nolan+Smith) | N/A |
-| 2 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
-| 3 | [Edey](http://twitter.com/search?q=Edey) | Edey is a slang term used in some parts of the United States to refer to someone who is cool, stylish, or attractive. It can also be used as a term of endearment. |
-| 4 | [rutgers](http://twitter.com/search?q=rutgers) | N/A |
-| 5 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
-| 6 | [Michigan](http://twitter.com/search?q=Michigan) | Michigan is a state in the Midwestern United States. It is bordered by four of the five Great Lakes, and is the only state to be surrounded by three out of the five. Michigan is known for its diverse landscape, which includes forests, beaches, and rolling hills. The state's name comes from the Ojibwe word "mishigami," which means "large lake." |
-| 7 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
-| 8 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
-| 9 | [#FridayMotivation](http://twitter.com/search?q=%23FridayMotivation) | N/A |
-| 10 | [#RedRubyDaSleeze](http://twitter.com/search?q=%23RedRubyDaSleeze) | N/A |
-| 11 | [Daily Quordle 403](http://twitter.com/search?q=Daily+Quordle+403) | N/A |
-| 12 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
-| 13 | [Finally Friday](http://twitter.com/search?q=Finally+Friday) | N/A |
-| 14 | [Morgan Wallen](http://twitter.com/search?q=Morgan+Wallen) | N/A |
-| 15 | [dawon](http://twitter.com/search?q=dawon) | N/A |
-| 16 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 17 | [De La Soul](http://twitter.com/search?q=De+La+Soul) | N/A |
-| 18 | [kali uchis](http://twitter.com/search?q=kali+uchis) | N/A |
-| 19 | [Discover](http://twitter.com/search?q=Discover) | N/A |
-| 20 | [Luda](http://twitter.com/search?q=Luda) | N/A |
-| 21 | [wjsn](http://twitter.com/search?q=wjsn) | WJSN stands for Cosmic Girls, a South Korean girl group formed in 2016 by Starship Entertainment and Yuehua Entertainment. The group consists of thirteen members: Seola, Xuan Yi, Bona, Exy, Soobin, Luda, Dawon, Eunseo, Cheng Xiao, Mei Qi, Yeoreum, Dayoung and Yeonjung. The name WJSN is an acronym for “Wonderful Journey to the Stars”. |
-| 22 | [Masego](http://twitter.com/search?q=Masego) | N/A |
-| 23 | [AI NFT](http://twitter.com/search?q=AI+NFT) | N/A |
-| 24 | [Richard Simmons](http://twitter.com/search?q=Richard+Simmons) | N/A |
-| 25 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
-| 26 | [Creed 3](http://twitter.com/search?q=Creed+3) | N/A |
-| 27 | [Wo Long](http://twitter.com/search?q=Wo+Long) | N/A |
-| 28 | [REAL GAMERS DRINK GAMER SUPPS](http://twitter.com/search?q=REAL+GAMERS+DRINK+GAMER+SUPPS) | N/A |
-| 29 | [Kimmel](http://twitter.com/search?q=Kimmel) | N/A |
-| 30 | [National Guard](http://twitter.com/search?q=National+Guard) | N/A |
-| 31 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
-| 32 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
-| 33 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 34 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
-| 35 | [Stephen Smith](http://twitter.com/search?q=Stephen+Smith) | N/A |
-| 36 | [Pistol Pete](http://twitter.com/search?q=Pistol+Pete) | N/A |
-| 37 | [The Clippers](http://twitter.com/search?q=The+Clippers) | N/A |
-| 38 | [College Park](http://twitter.com/search?q=College+Park) | N/A |
-| 39 | [Square Enix](http://twitter.com/search?q=Square+Enix) | N/A |
-| 40 | [#FridayVibes](http://twitter.com/search?q=%23FridayVibes) | N/A |
-| 41 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
-| 42 | [#BoycottWalgreens](http://twitter.com/search?q=%23BoycottWalgreens) | N/A |
-| 43 | [#Wordle622](http://twitter.com/search?q=%23Wordle622) | N/A |
-| 44 | [#DeLaDay](http://twitter.com/search?q=%23DeLaDay) | N/A |
-| 45 | [#on_the_street](http://twitter.com/search?q=%23on_the_street) | N/A |
-| 46 | [#BandcampFriday](http://twitter.com/search?q=%23BandcampFriday) | N/A |
-| 47 | [#EmployeeAppreciationDay](http://twitter.com/search?q=%23EmployeeAppreciationDay) | N/A |
-| 48 | [#WorldWildlifeDay](http://twitter.com/search?q=%23WorldWildlifeDay) | N/A |
-| 49 | [#CriticalRoleSpoilers](http://twitter.com/search?q=%23CriticalRoleSpoilers) | #CriticalRoleSpoilers is a hashtag used on social media to warn people that a post contains spoilers for the popular Dungeons & Dragons web series Critical Role. It is used to alert viewers who have not yet seen the episode or read the source material that the post contains information that could spoil their experience. |
+| 1 | [Bryce Young](http://twitter.com/search?q=Bryce+Young) | Bryce Young is a name of a person. It is derived from the Old English words "bryce" meaning "proud" and "young" meaning "youthful". The name can be used for both males and females. |
+| 2 | [#NFLCombine](http://twitter.com/search?q=%23NFLCombine) | N/A |
+| 3 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
+| 4 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
+| 5 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 6 | [#BoycottWalgreens](http://twitter.com/search?q=%23BoycottWalgreens) | N/A |
+| 7 | [#FridayVibes](http://twitter.com/search?q=%23FridayVibes) | N/A |
+| 8 | [Happy Friyay](http://twitter.com/search?q=Happy+Friyay) | N/A |
+| 9 | [Morgan Wallen](http://twitter.com/search?q=Morgan+Wallen) | N/A |
+| 10 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
+| 11 | [De La Soul](http://twitter.com/search?q=De+La+Soul) | N/A |
+| 12 | [Finally Friday](http://twitter.com/search?q=Finally+Friday) | N/A |
+| 13 | [Daily Quordle 403](http://twitter.com/search?q=Daily+Quordle+403) | N/A |
+| 14 | [Bonino](http://twitter.com/search?q=Bonino) | N/A |
+| 15 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
+| 16 | [Jaxon Smith](http://twitter.com/search?q=Jaxon+Smith) | N/A |
+| 17 | [Discover](http://twitter.com/search?q=Discover) | N/A |
+| 18 | [Njigba](http://twitter.com/search?q=Njigba) | N/A |
+| 19 | [Dawon](http://twitter.com/search?q=Dawon) | N/A |
+| 20 | [98 Braves](http://twitter.com/search?q=98+Braves) | N/A |
+| 21 | [Jean Harlow](http://twitter.com/search?q=Jean+Harlow) | N/A |
+| 22 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 23 | [Masego](http://twitter.com/search?q=Masego) | N/A |
+| 24 | [Luda](http://twitter.com/search?q=Luda) | N/A |
+| 25 | [Kali Uchis](http://twitter.com/search?q=Kali+Uchis) | N/A |
+| 26 | [Yato](http://twitter.com/search?q=Yato) | N/A |
+| 27 | [White Rabbit](http://twitter.com/search?q=White+Rabbit) | N/A |
+| 28 | [Tornado Watch](http://twitter.com/search?q=Tornado+Watch) | N/A |
+| 29 | [Stakes Is High](http://twitter.com/search?q=Stakes+Is+High) | N/A |
+| 30 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
+| 31 | [WJSN](http://twitter.com/search?q=WJSN) | N/A |
+| 32 | [Richard Simmons](http://twitter.com/search?q=Richard+Simmons) | N/A |
+| 33 | [AI NFT](http://twitter.com/search?q=AI+NFT) | N/A |
+| 34 | [Wo Long](http://twitter.com/search?q=Wo+Long) | N/A |
+| 35 | [Kimmel](http://twitter.com/search?q=Kimmel) | N/A |
+| 36 | [PNC Bank](http://twitter.com/search?q=PNC+Bank) | N/A |
+| 37 | [REAL GAMERS DRINK GAMER SUPPS](http://twitter.com/search?q=REAL+GAMERS+DRINK+GAMER+SUPPS) | N/A |
+| 38 | [Banks](http://twitter.com/search?q=Banks) | N/A |
+| 39 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
+| 40 | [National Guard](http://twitter.com/search?q=National+Guard) | N/A |
+| 41 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
+| 42 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
+| 43 | [The Clippers](http://twitter.com/search?q=The+Clippers) | N/A |
+| 44 | [Trek](http://twitter.com/search?q=Trek) | N/A |
+| 45 | [Stephen Smith](http://twitter.com/search?q=Stephen+Smith) | N/A |
+| 46 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
+| 47 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 48 | [Pistol Pete](http://twitter.com/search?q=Pistol+Pete) | N/A |
+| 49 | [College Park](http://twitter.com/search?q=College+Park) | N/A |
+| 50 | [#EmployeeAppreciationDay](http://twitter.com/search?q=%23EmployeeAppreciationDay) | N/A |
 
 
 

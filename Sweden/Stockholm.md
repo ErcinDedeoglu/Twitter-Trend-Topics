@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stockholm
 
-📆 Last Updated: `2023-03-03 12:19:24 UTC`
+📆 Last Updated: `2023-03-03 13:20:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Sweden](</Sweden>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Brunnsparken](http://twitter.com/search?q=Brunnsparken) | N/A |
-| 2 | [Morgan Freeman](http://twitter.com/search?q=Morgan+Freeman) | N/A |
-| 3 | [utdelning](http://twitter.com/search?q=utdelning) | N/A |
-| 4 | [Göteborg](http://twitter.com/search?q=G%c3%b6teborg) | N/A |
-| 5 | [Timbro](http://twitter.com/search?q=Timbro) | N/A |
-| 6 | [Tullinge](http://twitter.com/search?q=Tullinge) | N/A |
-| 7 | [Gardell](http://twitter.com/search?q=Gardell) | N/A |
-| 8 | [Einstein](http://twitter.com/search?q=Einstein) | N/A |
-| 9 | [Detsamma](http://twitter.com/search?q=Detsamma) | N/A |
-| 10 | [Peje Emilsson](http://twitter.com/search?q=Peje+Emilsson) | N/A |
-| 11 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 1 | [brunnsparken](http://twitter.com/search?q=brunnsparken) | N/A |
+| 2 | [utdelning](http://twitter.com/search?q=utdelning) | N/A |
+| 3 | [Göteborg](http://twitter.com/search?q=G%c3%b6teborg) | N/A |
+| 4 | [Tullinge](http://twitter.com/search?q=Tullinge) | N/A |
+| 5 | [Kaskisuo](http://twitter.com/search?q=Kaskisuo) | N/A |
+| 6 | [Timbro](http://twitter.com/search?q=Timbro) | N/A |
+| 7 | [Morgan Freeman](http://twitter.com/search?q=Morgan+Freeman) | N/A |
+| 8 | [Rand](http://twitter.com/search?q=Rand) | N/A |
+| 9 | [Gardell](http://twitter.com/search?q=Gardell) | N/A |
+| 10 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 11 | [peje emilsson](http://twitter.com/search?q=peje+emilsson) | N/A |
 | 12 | [#vardagpåminplanet](http://twitter.com/search?q=%23vardagp%c3%a5minplanet) | N/A |
 | 13 | [#fplsverige](http://twitter.com/search?q=%23fplsverige) | N/A |
 | 14 | [Allahu Akbar](http://twitter.com/search?q=Allahu+Akbar) | N/A |
-| 15 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 16 | [Mass](http://twitter.com/search?q=Mass) | N/A |
-| 17 | [#on_the_street](http://twitter.com/search?q=%23on_the_street) | N/A |
-| 18 | [Svenskt Näringsliv](http://twitter.com/search?q=Svenskt+N%c3%a4ringsliv) | N/A |
-| 19 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 20 | [Farsta](http://twitter.com/search?q=Farsta) | N/A |
-| 21 | [lagrådet](http://twitter.com/search?q=lagr%c3%a5det) | N/A |
-| 22 | [Einar](http://twitter.com/search?q=Einar) | N/A |
-| 23 | [Djursholm](http://twitter.com/search?q=Djursholm) | N/A |
-| 24 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
-| 25 | [Frida](http://twitter.com/search?q=Frida) | N/A |
-| 26 | [Kunskapsskolan](http://twitter.com/search?q=Kunskapsskolan) | N/A |
-| 27 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 28 | [Ericsson](http://twitter.com/search?q=Ericsson) | N/A |
-| 29 | [Drottninggatan](http://twitter.com/search?q=Drottninggatan) | N/A |
-| 30 | [Kollektiv](http://twitter.com/search?q=Kollektiv) | N/A |
-| 31 | [Ungern](http://twitter.com/search?q=Ungern) | N/A |
-| 32 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
-| 33 | [ortio](http://twitter.com/search?q=ortio) | N/A |
-| 34 | [Råsunda](http://twitter.com/search?q=R%c3%a5sunda) | N/A |
-| 35 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 36 | [Föräldrar](http://twitter.com/search?q=F%c3%b6r%c3%a4ldrar) | N/A |
-| 37 | [Annika](http://twitter.com/search?q=Annika) | N/A |
-| 38 | [Guldspaden](http://twitter.com/search?q=Guldspaden) | N/A |
-| 39 | [Småland](http://twitter.com/search?q=Sm%c3%a5land) | N/A |
-| 40 | [Venus](http://twitter.com/search?q=Venus) | N/A |
-| 41 | [hildeby](http://twitter.com/search?q=hildeby) | N/A |
-| 42 | [Orban](http://twitter.com/search?q=Orban) | N/A |
-| 43 | [Baudin](http://twitter.com/search?q=Baudin) | N/A |
-| 44 | [Gårdsten](http://twitter.com/search?q=G%c3%a5rdsten) | N/A |
-| 45 | [Maja](http://twitter.com/search?q=Maja) | N/A |
-| 46 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
-| 47 | [Demirok](http://twitter.com/search?q=Demirok) | N/A |
+| 15 | [Mass](http://twitter.com/search?q=Mass) | N/A |
+| 16 | [#on_the_street](http://twitter.com/search?q=%23on_the_street) | N/A |
+| 17 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 18 | [Farsta](http://twitter.com/search?q=Farsta) | N/A |
+| 19 | [lagrådet](http://twitter.com/search?q=lagr%c3%a5det) | N/A |
+| 20 | [Djursholm](http://twitter.com/search?q=Djursholm) | N/A |
+| 21 | [Einar](http://twitter.com/search?q=Einar) | N/A |
+| 22 | [Ericsson](http://twitter.com/search?q=Ericsson) | N/A |
+| 23 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
+| 24 | [Kunskapsskolan](http://twitter.com/search?q=Kunskapsskolan) | N/A |
+| 25 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 26 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 27 | [Drottninggatan](http://twitter.com/search?q=Drottninggatan) | N/A |
+| 28 | [Frida](http://twitter.com/search?q=Frida) | N/A |
+| 29 | [Kollektiv](http://twitter.com/search?q=Kollektiv) | N/A |
+| 30 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
+| 31 | [ortio](http://twitter.com/search?q=ortio) | N/A |
+| 32 | [Föräldrar](http://twitter.com/search?q=F%c3%b6r%c3%a4ldrar) | N/A |
+| 33 | [Råsunda](http://twitter.com/search?q=R%c3%a5sunda) | N/A |
+| 34 | [Guldspaden](http://twitter.com/search?q=Guldspaden) | N/A |
+| 35 | [William](http://twitter.com/search?q=William) | William is a masculine given name of Old German origin. It is derived from the Germanic elements wil, meaning "will or desire," and helm, meaning "helmet, protection." The name was popular among early Christians due to its association with Saint William of Gellone. In English, it is often shortened to Will or Bill. |
+| 36 | [Småland](http://twitter.com/search?q=Sm%c3%a5land) | N/A |
+| 37 | [Baudin](http://twitter.com/search?q=Baudin) | N/A |
+| 38 | [Venus](http://twitter.com/search?q=Venus) | N/A |
+| 39 | [hildeby](http://twitter.com/search?q=hildeby) | N/A |
+| 40 | [Ungern](http://twitter.com/search?q=Ungern) | N/A |
+| 41 | [Schweiz](http://twitter.com/search?q=Schweiz) | N/A |
+| 42 | [Annika](http://twitter.com/search?q=Annika) | N/A |
+| 43 | [Gårdsten](http://twitter.com/search?q=G%c3%a5rdsten) | N/A |
+| 44 | [#SkidVM](http://twitter.com/search?q=%23SkidVM) | N/A |
+| 45 | [Fredag](http://twitter.com/search?q=Fredag) | N/A |
+| 46 | [Maja](http://twitter.com/search?q=Maja) | N/A |
+| 47 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
 | 48 | [Manner](http://twitter.com/search?q=Manner) | N/A |
 | 49 | [Danderyd](http://twitter.com/search?q=Danderyd) | N/A |
-| 50 | [lindbäck](http://twitter.com/search?q=lindb%c3%a4ck) | N/A |
+| 50 | [Demirok](http://twitter.com/search?q=Demirok) | N/A |
 
 
 

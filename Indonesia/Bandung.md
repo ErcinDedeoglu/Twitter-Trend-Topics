@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bandung
 
-📆 Last Updated: `2023-03-03 12:19:25 UTC`
+📆 Last Updated: `2023-03-03 13:20:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#LOEWExTAEYONG](http://twitter.com/search?q=%23LOEWExTAEYONG) | N/A |
-| 2 | [#BLACKPINKExhibitiondiJakarta](http://twitter.com/search?q=%23BLACKPINKExhibitiondiJakarta) | N/A |
-| 3 | [BLACKPINK EXHIBITION INDONESIA](http://twitter.com/search?q=BLACKPINK+EXHIBITION+INDONESIA) | N/A |
-| 4 | [#SiamParagonWFT23xMew](http://twitter.com/search?q=%23SiamParagonWFT23xMew) | N/A |
-| 5 | [SUPPASIT WFT 2023](http://twitter.com/search?q=SUPPASIT+WFT+2023) | N/A |
-| 6 | [#ROAR2ndWin](http://twitter.com/search?q=%23ROAR2ndWin) | N/A |
-| 7 | [#WINชวนฟิตกับCPFIITParty](http://twitter.com/search?q=%23WIN%e0%b8%8a%e0%b8%a7%e0%b8%99%e0%b8%9f%e0%b8%b4%e0%b8%95%e0%b8%81%e0%b8%b1%e0%b8%9aCPFIITParty) | N/A |
-| 8 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
-| 9 | [First Bias](http://twitter.com/search?q=First+Bias) | N/A |
-| 10 | [WHO IN SEVENTEEN](http://twitter.com/search?q=WHO+IN+SEVENTEEN) | N/A |
-| 11 | [ult bias](http://twitter.com/search?q=ult+bias) | N/A |
-| 12 | [Yato](http://twitter.com/search?q=Yato) | N/A |
-| 13 | [Jinki](http://twitter.com/search?q=Jinki) | N/A |
-| 14 | [Ultimate Bias](http://twitter.com/search?q=Ultimate+Bias) | N/A |
-| 15 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
-| 16 | [wjsn](http://twitter.com/search?q=wjsn) | WJSN stands for Cosmic Girls, a South Korean girl group formed in 2016 by Starship Entertainment and Yuehua Entertainment. The group consists of thirteen members: Seola, Xuan Yi, Bona, Exy, Soobin, Luda, Dawon, Eunseo, Cheng Xiao, Mei Qi, Yeoreum, Dayoung and Yeonjung. The name WJSN is an acronym for “Wonderful Journey to the Stars”. |
-| 17 | [Universitas Brawijaya](http://twitter.com/search?q=Universitas+Brawijaya) | N/A |
-| 18 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 19 | [Jumat](http://twitter.com/search?q=Jumat) | N/A |
-| 20 | [dawon](http://twitter.com/search?q=dawon) | N/A |
-| 21 | [Cipung](http://twitter.com/search?q=Cipung) | N/A |
-| 22 | [Nobita](http://twitter.com/search?q=Nobita) | N/A |
-| 23 | [Shizuka](http://twitter.com/search?q=Shizuka) | N/A |
-| 24 | [Menjadi](http://twitter.com/search?q=Menjadi) | N/A |
-| 25 | [Sakura](http://twitter.com/search?q=Sakura) | N/A |
-| 26 | [PN Jakpus](http://twitter.com/search?q=PN+Jakpus) | N/A |
-| 27 | [jeonghan](http://twitter.com/search?q=jeonghan) | Jeonghan is a Korean given name, usually for males. It is composed of two characters: "Jeong" meaning "righteous" and "Han" meaning "greatness". In English, Jeonghan can be translated to mean "righteous greatness". |
-| 28 | [Pemilu 2024](http://twitter.com/search?q=Pemilu+2024) | N/A |
-| 29 | [Dreamies](http://twitter.com/search?q=Dreamies) | N/A |
-| 30 | [Kembang Api](http://twitter.com/search?q=Kembang+Api) | N/A |
-| 31 | [Jeep](http://twitter.com/search?q=Jeep) | N/A |
-| 32 | [ON THE STREET OUT TODAY](http://twitter.com/search?q=ON+THE+STREET+OUT+TODAY) | N/A |
-| 33 | [ON THE STREET WITH J-HOPE](http://twitter.com/search?q=ON+THE+STREET+WITH+J-HOPE) | N/A |
-| 34 | [Virgo](http://twitter.com/search?q=Virgo) | N/A |
-| 35 | [Hakim](http://twitter.com/search?q=Hakim) | N/A |
-| 36 | [Cyno](http://twitter.com/search?q=Cyno) | N/A |
-| 37 | [Partai Prima](http://twitter.com/search?q=Partai+Prima) | N/A |
-| 38 | [R to V](http://twitter.com/search?q=R+to+V) | N/A |
-| 39 | [Cerah](http://twitter.com/search?q=Cerah) | N/A |
-| 40 | [#GREply](http://twitter.com/search?q=%23GREply) | N/A |
-| 41 | [#GETWELLSOONJENNIE](http://twitter.com/search?q=%23GETWELLSOONJENNIE) | N/A |
-| 42 | [#O_NEW_NOTE](http://twitter.com/search?q=%23O_NEW_NOTE) | N/A |
-| 43 | [#THEBOYZ19thWin](http://twitter.com/search?q=%23THEBOYZ19thWin) | N/A |
-| 44 | [#PetrokimiaGresikSambutRamadan](http://twitter.com/search?q=%23PetrokimiaGresikSambutRamadan) | N/A |
-| 45 | [#PasarRakyatBazarUMKMPG](http://twitter.com/search?q=%23PasarRakyatBazarUMKMPG) | N/A |
-| 46 | [#KanivaxBible](http://twitter.com/search?q=%23KanivaxBible) | N/A |
-| 47 | [#ChaTamara](http://twitter.com/search?q=%23ChaTamara) | N/A |
-| 48 | [#TaokaenoiZeeNunewDay1](http://twitter.com/search?q=%23TaokaenoiZeeNunewDay1) | N/A |
-| 49 | [#PFW23](http://twitter.com/search?q=%23PFW23) | N/A |
-| 50 | [#LeeSoe](http://twitter.com/search?q=%23LeeSoe) | N/A |
+| 1 | [#RENJUN_NandemonaiyaCover](http://twitter.com/search?q=%23RENJUN_NandemonaiyaCover) | N/A |
+| 2 | [#LOEWExTAEYONG](http://twitter.com/search?q=%23LOEWExTAEYONG) | N/A |
+| 3 | [#LIKEITLIKEIT_MV_Release](http://twitter.com/search?q=%23LIKEITLIKEIT_MV_Release) | N/A |
+| 4 | [STREAM LIKE IT LIKE IT](http://twitter.com/search?q=STREAM+LIKE+IT+LIKE+IT) | N/A |
+| 5 | [BLACKPINK EXHIBITION INDONESIA](http://twitter.com/search?q=BLACKPINK+EXHIBITION+INDONESIA) | N/A |
+| 6 | [WELCOME TO JAKARTA CHENLE](http://twitter.com/search?q=WELCOME+TO+JAKARTA+CHENLE) | N/A |
+| 7 | [#BLACKPINKExhibitiondiJakarta](http://twitter.com/search?q=%23BLACKPINKExhibitiondiJakarta) | N/A |
+| 8 | [LENNON](http://twitter.com/search?q=LENNON) | N/A |
+| 9 | [#JinnysKitchenEp2](http://twitter.com/search?q=%23JinnysKitchenEp2) | N/A |
+| 10 | [WORLD CLASS STAR V](http://twitter.com/search?q=WORLD+CLASS+STAR+V) | N/A |
+| 11 | [Superindo](http://twitter.com/search?q=Superindo) | N/A |
+| 12 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
+| 13 | [SUPPASIT WFT 2023](http://twitter.com/search?q=SUPPASIT+WFT+2023) | N/A |
+| 14 | [Jinki](http://twitter.com/search?q=Jinki) | N/A |
+| 15 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 16 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
+| 17 | [First Bias](http://twitter.com/search?q=First+Bias) | N/A |
+| 18 | [Universitas Brawijaya](http://twitter.com/search?q=Universitas+Brawijaya) | N/A |
+| 19 | [WHO IN SEVENTEEN](http://twitter.com/search?q=WHO+IN+SEVENTEEN) | N/A |
+| 20 | [Ult Bias](http://twitter.com/search?q=Ult+Bias) | N/A |
+| 21 | [Yato](http://twitter.com/search?q=Yato) | N/A |
+| 22 | [Ultimate Bias](http://twitter.com/search?q=Ultimate+Bias) | N/A |
+| 23 | [WJSN](http://twitter.com/search?q=WJSN) | N/A |
+| 24 | [Martabak](http://twitter.com/search?q=Martabak) | N/A |
+| 25 | [PN Jakpus](http://twitter.com/search?q=PN+Jakpus) | N/A |
+| 26 | [jeonghan](http://twitter.com/search?q=jeonghan) | Jeonghan is a Korean given name, usually for males. It is composed of two characters: "Jeong" meaning "righteous" and "Han" meaning "greatness". In English, Jeonghan can be translated to mean "righteous greatness". |
+| 27 | [dawon](http://twitter.com/search?q=dawon) | N/A |
+| 28 | [Yunjin](http://twitter.com/search?q=Yunjin) | N/A |
+| 29 | [Nobita](http://twitter.com/search?q=Nobita) | N/A |
+| 30 | [Cipung](http://twitter.com/search?q=Cipung) | N/A |
+| 31 | [ON THE STREET OUT TODAY](http://twitter.com/search?q=ON+THE+STREET+OUT+TODAY) | N/A |
+| 32 | [Jeep](http://twitter.com/search?q=Jeep) | N/A |
+| 33 | [Kembang Api](http://twitter.com/search?q=Kembang+Api) | N/A |
+| 34 | [Sakura](http://twitter.com/search?q=Sakura) | N/A |
+| 35 | [Pemilu 2024](http://twitter.com/search?q=Pemilu+2024) | N/A |
+| 36 | [Shizuka](http://twitter.com/search?q=Shizuka) | N/A |
+| 37 | [ON THE STREET WITH J-HOPE](http://twitter.com/search?q=ON+THE+STREET+WITH+J-HOPE) | N/A |
+| 38 | [Menjadi](http://twitter.com/search?q=Menjadi) | N/A |
+| 39 | [Dreamies](http://twitter.com/search?q=Dreamies) | N/A |
+| 40 | [Cyno](http://twitter.com/search?q=Cyno) | N/A |
+| 41 | [Virgo](http://twitter.com/search?q=Virgo) | N/A |
+| 42 | [Hakim](http://twitter.com/search?q=Hakim) | N/A |
+| 43 | [R to V](http://twitter.com/search?q=R+to+V) | N/A |
+| 44 | [Cerah](http://twitter.com/search?q=Cerah) | N/A |
+| 45 | [#DayofMINE](http://twitter.com/search?q=%23DayofMINE) | N/A |
+| 46 | [#일잘하는서진이네_김태형](http://twitter.com/search?q=%23%ec%9d%bc%ec%9e%98%ed%95%98%eb%8a%94%ec%84%9c%ec%a7%84%ec%9d%b4%eb%84%a4_%ea%b9%80%ed%83%9c%ed%98%95) | N/A |
+| 47 | [#SiamParagonWFT23xMew](http://twitter.com/search?q=%23SiamParagonWFT23xMew) | N/A |
+| 48 | [#ROAR2ndWin](http://twitter.com/search?q=%23ROAR2ndWin) | N/A |
+| 49 | [#GREply](http://twitter.com/search?q=%23GREply) | N/A |
+| 50 | [#ONEW_NOTE_DAY1](http://twitter.com/search?q=%23ONEW_NOTE_DAY1) | N/A |
 
 
 

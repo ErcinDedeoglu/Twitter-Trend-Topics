@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lausanne
 
-📆 Last Updated: `2023-03-03 12:19:23 UTC`
+📆 Last Updated: `2023-03-03 13:20:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [Switzerland](</Switzerland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#WorldWildlifeDay](http://twitter.com/search?q=%23WorldWildlifeDay) | N/A |
-| 2 | [Roger Köppel](http://twitter.com/search?q=Roger+K%c3%b6ppel) | N/A |
+| 1 | [Roger Köppel](http://twitter.com/search?q=Roger+K%c3%b6ppel) | N/A |
+| 2 | [#WorldWildlifeDay](http://twitter.com/search?q=%23WorldWildlifeDay) | N/A |
 | 3 | [#gntm](http://twitter.com/search?q=%23gntm) | N/A |
 | 4 | [#Klimastreik](http://twitter.com/search?q=%23Klimastreik) | N/A |
-| 5 | [Nationalrat](http://twitter.com/search?q=Nationalrat) | N/A |
-| 6 | [Beschwerde beim Presserat](http://twitter.com/search?q=Beschwerde+beim+Presserat) | N/A |
-| 7 | [Fall Windisch](http://twitter.com/search?q=Fall+Windisch) | N/A |
-| 8 | [Weltwoche](http://twitter.com/search?q=Weltwoche) | N/A |
-| 9 | [unterstütze die beschwerde](http://twitter.com/search?q=unterst%c3%bctze+die+beschwerde) | N/A |
-| 10 | [Rentner](http://twitter.com/search?q=Rentner) | N/A |
-| 11 | [Parlamentarier](http://twitter.com/search?q=Parlamentarier) | N/A |
-| 12 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 13 | [#KlamrothLuegt](http://twitter.com/search?q=%23KlamrothLuegt) | N/A |
-| 14 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 15 | [Panzer](http://twitter.com/search?q=Panzer) | N/A |
-| 16 | [#Zurich](http://twitter.com/search?q=%23Zurich) | N/A |
-| 17 | [teuerungsausgleich](http://twitter.com/search?q=teuerungsausgleich) | N/A |
-| 18 | [Rotkreuz](http://twitter.com/search?q=Rotkreuz) | N/A |
-| 19 | [Beispiele](http://twitter.com/search?q=Beispiele) | N/A |
-| 20 | [Medikamente](http://twitter.com/search?q=Medikamente) | N/A |
-| 21 | [Zoom](http://twitter.com/search?q=Zoom) | N/A |
-| 22 | [Initiative](http://twitter.com/search?q=Initiative) | N/A |
-| 23 | [Annecy](http://twitter.com/search?q=Annecy) | N/A |
-| 24 | [Jack](http://twitter.com/search?q=Jack) | N/A |
-| 25 | [Lohn](http://twitter.com/search?q=Lohn) | N/A |
-| 26 | [Neutralität](http://twitter.com/search?q=Neutralit%c3%a4t) | N/A |
-| 27 | [bern](http://twitter.com/search?q=bern) | N/A |
-| 28 | [Intéressant](http://twitter.com/search?q=Int%c3%a9ressant) | N/A |
-| 29 | [Art und Weise](http://twitter.com/search?q=Art+und+Weise) | N/A |
-| 30 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
-| 31 | [Franken](http://twitter.com/search?q=Franken) | N/A |
+| 5 | [Weltwoche](http://twitter.com/search?q=Weltwoche) | N/A |
+| 6 | [Nationalrat](http://twitter.com/search?q=Nationalrat) | N/A |
+| 7 | [Beschwerde beim Presserat](http://twitter.com/search?q=Beschwerde+beim+Presserat) | N/A |
+| 8 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 9 | [Fall Windisch](http://twitter.com/search?q=Fall+Windisch) | N/A |
+| 10 | [Unterstütze die Beschwerde](http://twitter.com/search?q=Unterst%c3%bctze+die+Beschwerde) | N/A |
+| 11 | [Rentner](http://twitter.com/search?q=Rentner) | N/A |
+| 12 | [#KlamrothLuegt](http://twitter.com/search?q=%23KlamrothLuegt) | N/A |
+| 13 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 14 | [Parlamentarier](http://twitter.com/search?q=Parlamentarier) | N/A |
+| 15 | [Teuerungsausgleich](http://twitter.com/search?q=Teuerungsausgleich) | N/A |
+| 16 | [#IxD23](http://twitter.com/search?q=%23IxD23) | N/A |
+| 17 | [Beispiele](http://twitter.com/search?q=Beispiele) | N/A |
+| 18 | [Servette](http://twitter.com/search?q=Servette) | N/A |
+| 19 | [Medikamente](http://twitter.com/search?q=Medikamente) | N/A |
+| 20 | [Initiative](http://twitter.com/search?q=Initiative) | N/A |
+| 21 | [Jack](http://twitter.com/search?q=Jack) | N/A |
+| 22 | [Panzer](http://twitter.com/search?q=Panzer) | N/A |
+| 23 | [Lohn](http://twitter.com/search?q=Lohn) | N/A |
+| 24 | [Städte](http://twitter.com/search?q=St%c3%a4dte) | N/A |
+| 25 | [Zoom](http://twitter.com/search?q=Zoom) | N/A |
+| 26 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
+| 27 | [Franken](http://twitter.com/search?q=Franken) | N/A |
+| 28 | [bern](http://twitter.com/search?q=bern) | N/A |
+| 29 | [Tory](http://twitter.com/search?q=Tory) | Tory is a term used to refer to a member of the British Conservative Party. It is derived from the Middle Irish word "toraidhe", which means "outlaw". The term has been used since the late 17th century to refer to those who supported the Royalist cause during the English Civil War. |
+| 30 | [Intéressant](http://twitter.com/search?q=Int%c3%a9ressant) | N/A |
+| 31 | [Art und Weise](http://twitter.com/search?q=Art+und+Weise) | N/A |
 | 32 | [Häuser](http://twitter.com/search?q=H%c3%a4user) | N/A |
-| 33 | [Tory](http://twitter.com/search?q=Tory) | Tory is a term used to refer to a member of the British Conservative Party. It is derived from the Middle Irish word "toraidhe", which means "outlaw". The term has been used since the late 17th century to refer to those who supported the Royalist cause during the English Civil War. |
-| 34 | [Affaires](http://twitter.com/search?q=Affaires) | N/A |
-| 35 | [Ständerat](http://twitter.com/search?q=St%c3%a4nderat) | N/A |
-| 36 | [Toulouse](http://twitter.com/search?q=Toulouse) | Toulouse is a city in southern France. It is the capital of the Occitanie region and the Haute-Garonne department. The city is located on the banks of the River Garonne, 150 km from the Mediterranean Sea and 230 km from the Atlantic Ocean. The meaning of Toulouse in English is "The City of Light". |
-| 37 | [Japan](http://twitter.com/search?q=Japan) | N/A |
-| 38 | [FC Sion](http://twitter.com/search?q=FC+Sion) | N/A |
+| 33 | [Affaires](http://twitter.com/search?q=Affaires) | N/A |
+| 34 | [Annecy](http://twitter.com/search?q=Annecy) | N/A |
+| 35 | [ständerat](http://twitter.com/search?q=st%c3%a4nderat) | N/A |
+| 36 | [Rotkreuz](http://twitter.com/search?q=Rotkreuz) | N/A |
+| 37 | [Toulouse](http://twitter.com/search?q=Toulouse) | Toulouse is a city in southern France. It is the capital of the Occitanie region and the Haute-Garonne department. The city is located on the banks of the River Garonne, 150 km from the Mediterranean Sea and 230 km from the Atlantic Ocean. The meaning of Toulouse in English is "The City of Light". |
+| 38 | [fc sion](http://twitter.com/search?q=fc+sion) | N/A |
 | 39 | [Verständnis](http://twitter.com/search?q=Verst%c3%a4ndnis) | N/A |
 | 40 | [Vogel](http://twitter.com/search?q=Vogel) | N/A |
-| 41 | [Nähe](http://twitter.com/search?q=N%c3%a4he) | N/A |
-| 42 | [Boah](http://twitter.com/search?q=Boah) | N/A |
-| 43 | [Sorge](http://twitter.com/search?q=Sorge) | N/A |
-| 44 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 45 | [Hilona](http://twitter.com/search?q=Hilona) | N/A |
-| 46 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
-| 47 | [Mali](http://twitter.com/search?q=Mali) | Mali is a landlocked country in West Africa. Its name is derived from the Mandinka word mali, meaning "hippopotamus". It is bordered by Algeria to the north, Niger to the east, Burkina Faso and Ivory Coast to the south, Guinea to the south-west, and Senegal and Mauritania to the west. |
+| 41 | [Boah](http://twitter.com/search?q=Boah) | N/A |
+| 42 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |
+| 43 | [Berg](http://twitter.com/search?q=Berg) | N/A |
+| 44 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
+| 45 | [Sorge](http://twitter.com/search?q=Sorge) | N/A |
+| 46 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 47 | [Hilona](http://twitter.com/search?q=Hilona) | N/A |
 
 
 

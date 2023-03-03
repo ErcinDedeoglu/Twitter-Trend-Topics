@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Yokohama
 
-📆 Last Updated: `2023-03-03 12:19:28 UTC`
+📆 Last Updated: `2023-03-03 13:20:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [今永先生](http://twitter.com/search?q=%e4%bb%8a%e6%b0%b8%e5%85%88%e7%94%9f) | N/A |
+| 1 | [#fmarinos](http://twitter.com/search?q=%23fmarinos) | N/A |
 | 2 | [#umore847](http://twitter.com/search?q=%23umore847) | N/A |
-| 3 | [細川くん](http://twitter.com/search?q=%e7%b4%b0%e5%b7%9d%e3%81%8f%e3%82%93) | N/A |
-| 4 | [イノケン](http://twitter.com/search?q=%e3%82%a4%e3%83%8e%e3%82%b1%e3%83%b3) | N/A |
-| 5 | [今永くん](http://twitter.com/search?q=%e4%bb%8a%e6%b0%b8%e3%81%8f%e3%82%93) | N/A |
-| 6 | [エウベル](http://twitter.com/search?q=%e3%82%a8%e3%82%a6%e3%83%99%e3%83%ab) | N/A |
-| 7 | [今永さん](http://twitter.com/search?q=%e4%bb%8a%e6%b0%b8%e3%81%95%e3%82%93) | N/A |
-| 8 | [ピッチャー](http://twitter.com/search?q=%e3%83%94%e3%83%83%e3%83%81%e3%83%a3%e3%83%bc) | N/A |
-| 9 | [#夜も一緒](http://twitter.com/search?q=%23%e5%a4%9c%e3%82%82%e4%b8%80%e7%b7%92) | N/A |
-| 10 | [F1開幕](http://twitter.com/search?q=F1%e9%96%8b%e5%b9%95) | N/A |
-| 11 | [ゲンガー](http://twitter.com/search?q=%e3%82%b2%e3%83%b3%e3%82%ac%e3%83%bc) | N/A |
-| 12 | [ハマグリ](http://twitter.com/search?q=%e3%83%8f%e3%83%9e%e3%82%b0%e3%83%aa) | N/A |
-| 13 | [PSN障害](http://twitter.com/search?q=PSN%e9%9a%9c%e5%ae%b3) | PSN障害 (PSN Shougai) is a Japanese term meaning "PlayStation Network Outage". It refers to a disruption in the service of the PlayStation Network, Sony's online gaming and media delivery service. |
-| 14 | [サンドイッチ](http://twitter.com/search?q=%e3%82%b5%e3%83%b3%e3%83%89%e3%82%a4%e3%83%83%e3%83%81) | N/A |
-| 15 | [進撃の巨人](http://twitter.com/search?q=%e9%80%b2%e6%92%83%e3%81%ae%e5%b7%a8%e4%ba%ba) | 進撃の巨人 (Shingeki no Kyojin) is a Japanese manga series written and illustrated by Hajime Isayama. It is set in a world where humanity lives inside cities surrounded by enormous walls due to the sudden appearance of the Titans, gigantic humanoid creatures who devour humans seemingly without reason. The story follows the adventures of Eren Yeager, his adopted sister Mikasa Ackerman, and their friend Armin Arlert, who join the military to fight the Titans after their home town is invaded and Eren's mother is eaten. The title of the series translates to "Attack on Titan" in English. |
-| 16 | [おひなさま](http://twitter.com/search?q=%e3%81%8a%e3%81%b2%e3%81%aa%e3%81%95%e3%81%be) | N/A |
-| 17 | [ランちゃん](http://twitter.com/search?q=%e3%83%a9%e3%83%b3%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 18 | [#思い出のイベント](http://twitter.com/search?q=%23%e6%80%9d%e3%81%84%e5%87%ba%e3%81%ae%e3%82%a4%e3%83%99%e3%83%b3%e3%83%88) | N/A |
-| 19 | [金星と木星](http://twitter.com/search?q=%e9%87%91%e6%98%9f%e3%81%a8%e6%9c%a8%e6%98%9f) | N/A |
-| 20 | [雛あられ](http://twitter.com/search?q=%e9%9b%9b%e3%81%82%e3%82%89%e3%82%8c) | N/A |
-| 21 | [ウォーロン](http://twitter.com/search?q=%e3%82%a6%e3%82%a9%e3%83%bc%e3%83%ad%e3%83%b3) | N/A |
-| 22 | [#AKB48歌唱力No1決定戦](http://twitter.com/search?q=%23AKB48%e6%ad%8c%e5%94%b1%e5%8a%9bNo1%e6%b1%ba%e5%ae%9a%e6%88%a6) | N/A |
-| 23 | [サーモン](http://twitter.com/search?q=%e3%82%b5%e3%83%bc%e3%83%a2%e3%83%b3) | サーモン is a type of fish that is found in the North Pacific and Atlantic oceans. It is a popular food item in Japan, and its English name is salmon. |
-| 24 | [#雛祭り](http://twitter.com/search?q=%23%e9%9b%9b%e7%a5%ad%e3%82%8a) | N/A |
-| 25 | [エブエブ](http://twitter.com/search?q=%e3%82%a8%e3%83%96%e3%82%a8%e3%83%96) | N/A |
-| 26 | [女の子の日](http://twitter.com/search?q=%e5%a5%b3%e3%81%ae%e5%ad%90%e3%81%ae%e6%97%a5) | N/A |
-| 27 | [大谷翔平](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e7%bf%94%e5%b9%b3) | 大谷翔平 is the name of a Japanese professional baseball player. In English, it translates to Shohei Otani. |
-| 28 | [結婚記念日](http://twitter.com/search?q=%e7%b5%90%e5%a9%9a%e8%a8%98%e5%bf%b5%e6%97%a5) | N/A |
-| 29 | [千輝くん](http://twitter.com/search?q=%e5%8d%83%e8%bc%9d%e3%81%8f%e3%82%93) | N/A |
-| 30 | [ダルビッシュ](http://twitter.com/search?q=%e3%83%80%e3%83%ab%e3%83%93%e3%83%83%e3%82%b7%e3%83%a5) | ダルビッシュ is the surname of Japanese baseball pitcher, Yu Darvish. In English, it is pronounced "Dahr-bish". |
-| 31 | [ひな祭り](http://twitter.com/search?q=%e3%81%b2%e3%81%aa%e7%a5%ad%e3%82%8a) | N/A |
-| 32 | [ちらし寿司](http://twitter.com/search?q=%e3%81%a1%e3%82%89%e3%81%97%e5%af%bf%e5%8f%b8) | N/A |
-| 33 | [アキーノ](http://twitter.com/search?q=%e3%82%a2%e3%82%ad%e3%83%bc%e3%83%8e) | N/A |
-| 34 | [ドラゴンズ](http://twitter.com/search?q=%e3%83%89%e3%83%a9%e3%82%b4%e3%83%b3%e3%82%ba) | N/A |
-| 35 | [ひなまつり](http://twitter.com/search?q=%e3%81%b2%e3%81%aa%e3%81%be%e3%81%a4%e3%82%8a) | N/A |
-| 36 | [涌井さん](http://twitter.com/search?q=%e6%b6%8c%e4%ba%95%e3%81%95%e3%82%93) | N/A |
-| 37 | [ビシエド](http://twitter.com/search?q=%e3%83%93%e3%82%b7%e3%82%a8%e3%83%89) | N/A |
-| 38 | [アニポケ](http://twitter.com/search?q=%e3%82%a2%e3%83%8b%e3%83%9d%e3%82%b1) | アニポケ (Anipoke) is a Japanese portmanteau of the words "anime" and "Pokémon". It is used to refer to anime series or movies based on the Pokémon franchise. |
-| 39 | [日本代表](http://twitter.com/search?q=%e6%97%a5%e6%9c%ac%e4%bb%a3%e8%a1%a8) | N/A |
-| 40 | [田中幹也](http://twitter.com/search?q=%e7%94%b0%e4%b8%ad%e5%b9%b9%e4%b9%9f) | N/A |
-| 41 | [カリステ](http://twitter.com/search?q=%e3%82%ab%e3%83%aa%e3%82%b9%e3%83%86) | N/A |
-| 42 | [キノタク](http://twitter.com/search?q=%e3%82%ad%e3%83%8e%e3%82%bf%e3%82%af) | N/A |
-| 43 | [モンハンコラボ](http://twitter.com/search?q=%e3%83%a2%e3%83%b3%e3%83%8f%e3%83%b3%e3%82%b3%e3%83%a9%e3%83%9c) | N/A |
-| 44 | [声出し応援](http://twitter.com/search?q=%e5%a3%b0%e5%87%ba%e3%81%97%e5%bf%9c%e6%8f%b4) | N/A |
-| 45 | [プリティウーマン](http://twitter.com/search?q=%e3%83%97%e3%83%aa%e3%83%86%e3%82%a3%e3%82%a6%e3%83%bc%e3%83%9e%e3%83%b3) | N/A |
-| 46 | [マリノス](http://twitter.com/search?q=%e3%83%9e%e3%83%aa%e3%83%8e%e3%82%b9) | マリノス (Marinos) is a Japanese professional football club based in Yokohama, Kanagawa Prefecture. The team competes in the J1 League, which is the top tier of football in Japan. The name "Marinos" is derived from the Spanish word for "sailors". |
-| 47 | [みのりんご](http://twitter.com/search?q=%e3%81%bf%e3%81%ae%e3%82%8a%e3%82%93%e3%81%94) | N/A |
-| 48 | [ジュペッタ](http://twitter.com/search?q=%e3%82%b8%e3%83%a5%e3%83%9a%e3%83%83%e3%82%bf) | N/A |
-| 49 | [ひなあられ](http://twitter.com/search?q=%e3%81%b2%e3%81%aa%e3%81%82%e3%82%89%e3%82%8c) | N/A |
+| 3 | [マルコス](http://twitter.com/search?q=%e3%83%9e%e3%83%ab%e3%82%b3%e3%82%b9) | N/A |
+| 4 | [引き分け](http://twitter.com/search?q=%e5%bc%95%e3%81%8d%e5%88%86%e3%81%91) | N/A |
+| 5 | [#Aqours](http://twitter.com/search?q=%23Aqours) | N/A |
+| 6 | [BEYOOOOONDS](http://twitter.com/search?q=BEYOOOOONDS) | N/A |
+| 7 | [イノケン](http://twitter.com/search?q=%e3%82%a4%e3%83%8e%e3%82%b1%e3%83%b3) | N/A |
+| 8 | [今永くん](http://twitter.com/search?q=%e4%bb%8a%e6%b0%b8%e3%81%8f%e3%82%93) | N/A |
+| 9 | [ノイルホーン](http://twitter.com/search?q=%e3%83%8e%e3%82%a4%e3%83%ab%e3%83%9b%e3%83%bc%e3%83%b3) | N/A |
+| 10 | [今永さん](http://twitter.com/search?q=%e4%bb%8a%e6%b0%b8%e3%81%95%e3%82%93) | N/A |
+| 11 | [Abema](http://twitter.com/search?q=Abema) | N/A |
+| 12 | [エウベル](http://twitter.com/search?q=%e3%82%a8%e3%82%a6%e3%83%99%e3%83%ab) | N/A |
+| 13 | [進撃の巨人](http://twitter.com/search?q=%e9%80%b2%e6%92%83%e3%81%ae%e5%b7%a8%e4%ba%ba) | 進撃の巨人 (Shingeki no Kyojin) is a Japanese manga series written and illustrated by Hajime Isayama. It is set in a world where humanity lives inside cities surrounded by enormous walls due to the sudden appearance of the Titans, gigantic humanoid creatures who devour humans seemingly without reason. The story follows the adventures of Eren Yeager, his adopted sister Mikasa Ackerman, and their friend Armin Arlert, who join the military to fight the Titans after their home town is invaded and Eren's mother is eaten. The title of the series translates to "Attack on Titan" in English. |
+| 14 | [今永先生](http://twitter.com/search?q=%e4%bb%8a%e6%b0%b8%e5%85%88%e7%94%9f) | N/A |
+| 15 | [ヒナ祭り](http://twitter.com/search?q=%e3%83%92%e3%83%8a%e7%a5%ad%e3%82%8a) | N/A |
+| 16 | [#夜も一緒](http://twitter.com/search?q=%23%e5%a4%9c%e3%82%82%e4%b8%80%e7%b7%92) | N/A |
+| 17 | [F1開幕](http://twitter.com/search?q=F1%e9%96%8b%e5%b9%95) | N/A |
+| 18 | [小西議員](http://twitter.com/search?q=%e5%b0%8f%e8%a5%bf%e8%ad%b0%e5%93%a1) | N/A |
+| 19 | [#AKB48歌唱力No1決定戦](http://twitter.com/search?q=%23AKB48%e6%ad%8c%e5%94%b1%e5%8a%9bNo1%e6%b1%ba%e5%ae%9a%e6%88%a6) | N/A |
+| 20 | [ブルーロック展](http://twitter.com/search?q=%e3%83%96%e3%83%ab%e3%83%bc%e3%83%ad%e3%83%83%e3%82%af%e5%b1%95) | ブルーロック展 is a Japanese art exhibition that focuses on the works of artists who specialize in the blue rock style. The term "blue rock" refers to a type of abstract painting that uses blue as its primary color. The exhibition showcases the works of these artists, and provides an opportunity for viewers to appreciate their unique styles and techniques. In English, it can be translated as "Blue Rock Exhibition". |
+| 21 | [ゲンガー](http://twitter.com/search?q=%e3%82%b2%e3%83%b3%e3%82%ac%e3%83%bc) | N/A |
+| 22 | [リボンブローチ](http://twitter.com/search?q=%e3%83%aa%e3%83%9c%e3%83%b3%e3%83%96%e3%83%ad%e3%83%bc%e3%83%81) | N/A |
+| 23 | [psn障害](http://twitter.com/search?q=psn%e9%9a%9c%e5%ae%b3) | N/A |
+| 24 | [雛あられ](http://twitter.com/search?q=%e9%9b%9b%e3%81%82%e3%82%89%e3%82%8c) | N/A |
+| 25 | [アークナイツ](http://twitter.com/search?q=%e3%82%a2%e3%83%bc%e3%82%af%e3%83%8a%e3%82%a4%e3%83%84) | N/A |
+| 26 | [ランちゃん](http://twitter.com/search?q=%e3%83%a9%e3%83%b3%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 27 | [海染ディシア](http://twitter.com/search?q=%e6%b5%b7%e6%9f%93%e3%83%87%e3%82%a3%e3%82%b7%e3%82%a2) | N/A |
+| 28 | [ハマグリ](http://twitter.com/search?q=%e3%83%8f%e3%83%9e%e3%82%b0%e3%83%aa) | N/A |
+| 29 | [金星と木星](http://twitter.com/search?q=%e9%87%91%e6%98%9f%e3%81%a8%e6%9c%a8%e6%98%9f) | N/A |
+| 30 | [かんぱーい](http://twitter.com/search?q=%e3%81%8b%e3%82%93%e3%81%b1%e3%83%bc%e3%81%84) | N/A |
+| 31 | [DeNA](http://twitter.com/search?q=DeNA) | N/A |
+| 32 | [サンドイッチ](http://twitter.com/search?q=%e3%82%b5%e3%83%b3%e3%83%89%e3%82%a4%e3%83%83%e3%83%81) | N/A |
+| 33 | [大谷翔平](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e7%bf%94%e5%b9%b3) | 大谷翔平 is the name of a Japanese professional baseball player. In English, it translates to Shohei Otani. |
+| 34 | [エブエブ](http://twitter.com/search?q=%e3%82%a8%e3%83%96%e3%82%a8%e3%83%96) | N/A |
+| 35 | [ウォーロン](http://twitter.com/search?q=%e3%82%a6%e3%82%a9%e3%83%bc%e3%83%ad%e3%83%b3) | N/A |
+| 36 | [ひな祭り](http://twitter.com/search?q=%e3%81%b2%e3%81%aa%e7%a5%ad%e3%82%8a) | N/A |
+| 37 | [ドラゴンズ](http://twitter.com/search?q=%e3%83%89%e3%83%a9%e3%82%b4%e3%83%b3%e3%82%ba) | N/A |
+| 38 | [ちらし寿司](http://twitter.com/search?q=%e3%81%a1%e3%82%89%e3%81%97%e5%af%bf%e5%8f%b8) | N/A |
+| 39 | [松井裕樹](http://twitter.com/search?q=%e6%9d%be%e4%ba%95%e8%a3%95%e6%a8%b9) | N/A |
+| 40 | [日本代表](http://twitter.com/search?q=%e6%97%a5%e6%9c%ac%e4%bb%a3%e8%a1%a8) | N/A |
+| 41 | [アキーノ](http://twitter.com/search?q=%e3%82%a2%e3%82%ad%e3%83%bc%e3%83%8e) | N/A |
+| 42 | [六甲おろし](http://twitter.com/search?q=%e5%85%ad%e7%94%b2%e3%81%8a%e3%82%8d%e3%81%97) | N/A |
+| 43 | [プリティウーマン](http://twitter.com/search?q=%e3%83%97%e3%83%aa%e3%83%86%e3%82%a3%e3%82%a6%e3%83%bc%e3%83%9e%e3%83%b3) | N/A |
+| 44 | [中日優勝](http://twitter.com/search?q=%e4%b8%ad%e6%97%a5%e5%84%aa%e5%8b%9d) | N/A |
+| 45 | [ひなまつり](http://twitter.com/search?q=%e3%81%b2%e3%81%aa%e3%81%be%e3%81%a4%e3%82%8a) | N/A |
+| 46 | [涌井さん](http://twitter.com/search?q=%e6%b6%8c%e4%ba%95%e3%81%95%e3%82%93) | N/A |
+| 47 | [中日ファン](http://twitter.com/search?q=%e4%b8%ad%e6%97%a5%e3%83%95%e3%82%a1%e3%83%b3) | N/A |
+| 48 | [サウスポー](http://twitter.com/search?q=%e3%82%b5%e3%82%a6%e3%82%b9%e3%83%9d%e3%83%bc) | N/A |
+| 49 | [WBC球](http://twitter.com/search?q=WBC%e7%90%83) | N/A |
 
 
 

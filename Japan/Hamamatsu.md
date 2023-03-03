@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hamamatsu
 
-📆 Last Updated: `2023-03-03 12:19:27 UTC`
+📆 Last Updated: `2023-03-03 13:20:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Japan](</Japan>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [ひな祭り](http://twitter.com/search?q=%e3%81%b2%e3%81%aa%e7%a5%ad%e3%82%8a) | N/A |
-| 2 | [ちらし寿司](http://twitter.com/search?q=%e3%81%a1%e3%82%89%e3%81%97%e5%af%bf%e5%8f%b8) | N/A |
-| 3 | [アキーノ](http://twitter.com/search?q=%e3%82%a2%e3%82%ad%e3%83%bc%e3%83%8e) | N/A |
-| 4 | [ドラゴンズ](http://twitter.com/search?q=%e3%83%89%e3%83%a9%e3%82%b4%e3%83%b3%e3%82%ba) | N/A |
-| 5 | [#侍ジャパン](http://twitter.com/search?q=%23%e4%be%8d%e3%82%b8%e3%83%a3%e3%83%91%e3%83%b3) | #侍ジャパン is a hashtag used on social media to show support for Japan. It translates to "Samurai Japan" and is often used in conjunction with the Japanese flag emoji. The hashtag is often used to show pride in Japanese culture, history, and people. |
-| 6 | [ひなまつり](http://twitter.com/search?q=%e3%81%b2%e3%81%aa%e3%81%be%e3%81%a4%e3%82%8a) | N/A |
-| 7 | [涌井さん](http://twitter.com/search?q=%e6%b6%8c%e4%ba%95%e3%81%95%e3%82%93) | N/A |
-| 8 | [ビシエド](http://twitter.com/search?q=%e3%83%93%e3%82%b7%e3%82%a8%e3%83%89) | N/A |
-| 9 | [アニポケ](http://twitter.com/search?q=%e3%82%a2%e3%83%8b%e3%83%9d%e3%82%b1) | アニポケ (Anipoke) is a Japanese portmanteau of the words "anime" and "Pokémon". It is used to refer to anime series or movies based on the Pokémon franchise. |
-| 10 | [#lovelive](http://twitter.com/search?q=%23lovelive) | #LoveLive is a hashtag used to promote the Japanese multimedia franchise Love Live! The franchise includes music, anime, manga, and video games. The hashtag is used to share content related to the franchise, such as fan art, cosplay photos, and news about upcoming releases. In English, #LoveLive means "love life" or "enjoy life". |
-| 11 | [日本代表](http://twitter.com/search?q=%e6%97%a5%e6%9c%ac%e4%bb%a3%e8%a1%a8) | N/A |
-| 12 | [田中幹也](http://twitter.com/search?q=%e7%94%b0%e4%b8%ad%e5%b9%b9%e4%b9%9f) | N/A |
-| 13 | [カリステ](http://twitter.com/search?q=%e3%82%ab%e3%83%aa%e3%82%b9%e3%83%86) | N/A |
-| 14 | [キノタク](http://twitter.com/search?q=%e3%82%ad%e3%83%8e%e3%82%bf%e3%82%af) | N/A |
-| 15 | [声出し応援](http://twitter.com/search?q=%e5%a3%b0%e5%87%ba%e3%81%97%e5%bf%9c%e6%8f%b4) | N/A |
-| 16 | [モンハンコラボ](http://twitter.com/search?q=%e3%83%a2%e3%83%b3%e3%83%8f%e3%83%b3%e3%82%b3%e3%83%a9%e3%83%9c) | N/A |
-| 17 | [#金スマ](http://twitter.com/search?q=%23%e9%87%91%e3%82%b9%e3%83%9e) | #金スマ is a hashtag used on Japanese social media to refer to people who are wealthy and have a luxurious lifestyle. In English, it translates to "golden lifestyle". |
-| 18 | [#初期刀と初鍛刀が同じ審神者さんを探す会](http://twitter.com/search?q=%23%e5%88%9d%e6%9c%9f%e5%88%80%e3%81%a8%e5%88%9d%e9%8d%9b%e5%88%80%e3%81%8c%e5%90%8c%e3%81%98%e5%af%a9%e7%a5%9e%e8%80%85%e3%81%95%e3%82%93%e3%82%92%e6%8e%a2%e3%81%99%e4%bc%9a) | N/A |
-| 19 | [プリティウーマン](http://twitter.com/search?q=%e3%83%97%e3%83%aa%e3%83%86%e3%82%a3%e3%82%a6%e3%83%bc%e3%83%9e%e3%83%b3) | N/A |
-| 20 | [マリノス](http://twitter.com/search?q=%e3%83%9e%e3%83%aa%e3%83%8e%e3%82%b9) | マリノス (Marinos) is a Japanese professional football club based in Yokohama, Kanagawa Prefecture. The team competes in the J1 League, which is the top tier of football in Japan. The name "Marinos" is derived from the Spanish word for "sailors". |
-| 21 | [#dragons](http://twitter.com/search?q=%23dragons) | N/A |
-| 22 | [みのりんご](http://twitter.com/search?q=%e3%81%bf%e3%81%ae%e3%82%8a%e3%82%93%e3%81%94) | N/A |
-| 23 | [ジュペッタ](http://twitter.com/search?q=%e3%82%b8%e3%83%a5%e3%83%9a%e3%83%83%e3%82%bf) | N/A |
-| 24 | [ひなあられ](http://twitter.com/search?q=%e3%81%b2%e3%81%aa%e3%81%82%e3%82%89%e3%82%8c) | N/A |
-| 25 | [中日優勝](http://twitter.com/search?q=%e4%b8%ad%e6%97%a5%e5%84%aa%e5%8b%9d) | N/A |
+| 2 | [ドラゴンズ](http://twitter.com/search?q=%e3%83%89%e3%83%a9%e3%82%b4%e3%83%b3%e3%82%ba) | N/A |
+| 3 | [ちらし寿司](http://twitter.com/search?q=%e3%81%a1%e3%82%89%e3%81%97%e5%af%bf%e5%8f%b8) | N/A |
+| 4 | [#SixTONES_ABARERO](http://twitter.com/search?q=%23SixTONES_ABARERO) | N/A |
+| 5 | [松井裕樹](http://twitter.com/search?q=%e6%9d%be%e4%ba%95%e8%a3%95%e6%a8%b9) | N/A |
+| 6 | [#侍ジャパン](http://twitter.com/search?q=%23%e4%be%8d%e3%82%b8%e3%83%a3%e3%83%91%e3%83%b3) | #侍ジャパン is a hashtag used on social media to show support for Japan. It translates to "Samurai Japan" and is often used in conjunction with the Japanese flag emoji. The hashtag is often used to show pride in Japanese culture, history, and people. |
+| 7 | [日本代表](http://twitter.com/search?q=%e6%97%a5%e6%9c%ac%e4%bb%a3%e8%a1%a8) | N/A |
+| 8 | [アキーノ](http://twitter.com/search?q=%e3%82%a2%e3%82%ad%e3%83%bc%e3%83%8e) | N/A |
+| 9 | [六甲おろし](http://twitter.com/search?q=%e5%85%ad%e7%94%b2%e3%81%8a%e3%82%8d%e3%81%97) | N/A |
+| 10 | [プリティウーマン](http://twitter.com/search?q=%e3%83%97%e3%83%aa%e3%83%86%e3%82%a3%e3%82%a6%e3%83%bc%e3%83%9e%e3%83%b3) | N/A |
+| 11 | [中日優勝](http://twitter.com/search?q=%e4%b8%ad%e6%97%a5%e5%84%aa%e5%8b%9d) | N/A |
+| 12 | [ひなまつり](http://twitter.com/search?q=%e3%81%b2%e3%81%aa%e3%81%be%e3%81%a4%e3%82%8a) | N/A |
+| 13 | [涌井さん](http://twitter.com/search?q=%e6%b6%8c%e4%ba%95%e3%81%95%e3%82%93) | N/A |
+| 14 | [#にじよんあにめーしょん](http://twitter.com/search?q=%23%e3%81%ab%e3%81%98%e3%82%88%e3%82%93%e3%81%82%e3%81%ab%e3%82%81%e3%83%bc%e3%81%97%e3%82%87%e3%82%93) | #にじよんあにめーしょん is a hashtag used on Twitter to promote the Japanese anime series Nijiyon AniMe-shon. The English translation of the hashtag is "Nijiyon Anime-shon Promotion". |
+| 15 | [中日ファン](http://twitter.com/search?q=%e4%b8%ad%e6%97%a5%e3%83%95%e3%82%a1%e3%83%b3) | N/A |
+| 16 | [#金スマ](http://twitter.com/search?q=%23%e9%87%91%e3%82%b9%e3%83%9e) | #金スマ is a hashtag used on Japanese social media to refer to people who are wealthy and have a luxurious lifestyle. In English, it translates to "golden lifestyle". |
+| 17 | [サウスポー](http://twitter.com/search?q=%e3%82%b5%e3%82%a6%e3%82%b9%e3%83%9d%e3%83%bc) | N/A |
+| 18 | [#朝日南アカネ3D](http://twitter.com/search?q=%23%e6%9c%9d%e6%97%a5%e5%8d%97%e3%82%a2%e3%82%ab%e3%83%8d3D) | N/A |
+| 19 | [WBC球](http://twitter.com/search?q=WBC%e7%90%83) | N/A |
+| 20 | [中日さん](http://twitter.com/search?q=%e4%b8%ad%e6%97%a5%e3%81%95%e3%82%93) | N/A |
+| 21 | [アニポケ](http://twitter.com/search?q=%e3%82%a2%e3%83%8b%e3%83%9d%e3%82%b1) | アニポケ (Anipoke) is a Japanese portmanteau of the words "anime" and "Pokémon". It is used to refer to anime series or movies based on the Pokémon franchise. |
+| 22 | [キノタク](http://twitter.com/search?q=%e3%82%ad%e3%83%8e%e3%82%bf%e3%82%af) | N/A |
+| 23 | [ビシエド](http://twitter.com/search?q=%e3%83%93%e3%82%b7%e3%82%a8%e3%83%89) | N/A |
+| 24 | [アルモンテ](http://twitter.com/search?q=%e3%82%a2%e3%83%ab%e3%83%a2%e3%83%b3%e3%83%86) | N/A |
+| 25 | [田中幹也](http://twitter.com/search?q=%e7%94%b0%e4%b8%ad%e5%b9%b9%e4%b9%9f) | N/A |
 | 26 | [ヌートバー](http://twitter.com/search?q=%e3%83%8c%e3%83%bc%e3%83%88%e3%83%90%e3%83%bc) | ヌートバー is a type of Japanese bar that specializes in serving alcoholic beverages such as beer, sake, and shochu. The word "nooto" comes from the Japanese word for "drinking," and "baa" means "bar." In English, it can be translated as "drinking bar." |
-| 27 | [フリード博士](http://twitter.com/search?q=%e3%83%95%e3%83%aa%e3%83%bc%e3%83%89%e5%8d%9a%e5%a3%ab) | N/A |
-| 28 | [桃の節句](http://twitter.com/search?q=%e6%a1%83%e3%81%ae%e7%af%80%e5%8f%a5) | N/A |
-| 29 | [小笠原くん](http://twitter.com/search?q=%e5%b0%8f%e7%ac%a0%e5%8e%9f%e3%81%8f%e3%82%93) | N/A |
-| 30 | [STAMP IT](http://twitter.com/search?q=STAMP+IT) | N/A |
-| 31 | [ヤミナベ](http://twitter.com/search?q=%e3%83%a4%e3%83%9f%e3%83%8a%e3%83%99) | N/A |
-| 32 | [ソフラン](http://twitter.com/search?q=%e3%82%bd%e3%83%95%e3%83%a9%e3%83%b3) | N/A |
-| 33 | [キャプテンピカチュウ](http://twitter.com/search?q=%e3%82%ad%e3%83%a3%e3%83%97%e3%83%86%e3%83%b3%e3%83%94%e3%82%ab%e3%83%81%e3%83%a5%e3%82%a6) | N/A |
-| 34 | [ボクスンア](http://twitter.com/search?q=%e3%83%9c%e3%82%af%e3%82%b9%e3%83%b3%e3%82%a2) | N/A |
-| 35 | [中日さん](http://twitter.com/search?q=%e4%b8%ad%e6%97%a5%e3%81%95%e3%82%93) | N/A |
-| 36 | [ララリラ](http://twitter.com/search?q=%e3%83%a9%e3%83%a9%e3%83%aa%e3%83%a9) | N/A |
-| 37 | [中日ファン](http://twitter.com/search?q=%e4%b8%ad%e6%97%a5%e3%83%95%e3%82%a1%e3%83%b3) | N/A |
-| 38 | [ビッグラン](http://twitter.com/search?q=%e3%83%93%e3%83%83%e3%82%b0%e3%83%a9%e3%83%b3) | ビッグラン is a Japanese phrase that literally translates to "big run". It is used to describe a situation where someone has achieved a great success or accomplishment. |
-| 39 | [小笠原めちゃくちゃ](http://twitter.com/search?q=%e5%b0%8f%e7%ac%a0%e5%8e%9f%e3%82%81%e3%81%a1%e3%82%83%e3%81%8f%e3%81%a1%e3%82%83) | N/A |
-| 40 | [ヤトウさん](http://twitter.com/search?q=%e3%83%a4%e3%83%88%e3%82%a6%e3%81%95%e3%82%93) | N/A |
-| 41 | [バンテリンドーム](http://twitter.com/search?q=%e3%83%90%e3%83%b3%e3%83%86%e3%83%aa%e3%83%b3%e3%83%89%e3%83%bc%e3%83%a0) | N/A |
-| 42 | [大谷さん](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e3%81%95%e3%82%93) | 大谷さん (Otani-san) is a Japanese honorific used to refer to someone with the surname Otani. It is roughly equivalent to "Mr. Otani" in English. |
-| 43 | [AXIZ](http://twitter.com/search?q=AXIZ) | N/A |
-| 44 | [やまーだ](http://twitter.com/search?q=%e3%82%84%e3%81%be%e3%83%bc%e3%81%a0) | N/A |
-| 45 | [山田哲人](http://twitter.com/search?q=%e5%b1%b1%e7%94%b0%e5%93%b2%e4%ba%ba) | N/A |
-| 46 | [大谷育江さん](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e8%82%b2%e6%b1%9f%e3%81%95%e3%82%93) | N/A |
-| 47 | [ラチャログ](http://twitter.com/search?q=%e3%83%a9%e3%83%81%e3%83%a3%e3%83%ad%e3%82%b0) | N/A |
-| 48 | [戸郷くん](http://twitter.com/search?q=%e6%88%b8%e9%83%b7%e3%81%8f%e3%82%93) | N/A |
-| 49 | [ノイルホーン](http://twitter.com/search?q=%e3%83%8e%e3%82%a4%e3%83%ab%e3%83%9b%e3%83%bc%e3%83%b3) | N/A |
-| 50 | [尻のトリオンキューブ](http://twitter.com/search?q=%e5%b0%bb%e3%81%ae%e3%83%88%e3%83%aa%e3%82%aa%e3%83%b3%e3%82%ad%e3%83%a5%e3%83%bc%e3%83%96) | N/A |
+| 27 | [侍JAPAN](http://twitter.com/search?q=%e4%be%8dJAPAN) | N/A |
+| 28 | [中日強すぎ](http://twitter.com/search?q=%e4%b8%ad%e6%97%a5%e5%bc%b7%e3%81%99%e3%81%8e) | N/A |
+| 29 | [ロンジュン](http://twitter.com/search?q=%e3%83%ad%e3%83%b3%e3%82%b8%e3%83%a5%e3%83%b3) | N/A |
+| 30 | [ひなあられ](http://twitter.com/search?q=%e3%81%b2%e3%81%aa%e3%81%82%e3%82%89%e3%82%8c) | N/A |
+| 31 | [ジュリア・ロバーツ](http://twitter.com/search?q=%e3%82%b8%e3%83%a5%e3%83%aa%e3%82%a2%e3%83%bb%e3%83%ad%e3%83%90%e3%83%bc%e3%83%84) | N/A |
+| 32 | [声出し応援](http://twitter.com/search?q=%e5%a3%b0%e5%87%ba%e3%81%97%e5%bf%9c%e6%8f%b4) | N/A |
+| 33 | [ホームラン](http://twitter.com/search?q=%e3%83%9b%e3%83%bc%e3%83%a0%e3%83%a9%e3%83%b3) | ホームラン (hōmuran) is a term used in baseball to refer to a home run, which is when a batter hits the ball and runs all the way around the bases, scoring a run for their team. In English, it is simply referred to as a home run. |
+| 34 | [桃の節句](http://twitter.com/search?q=%e6%a1%83%e3%81%ae%e7%af%80%e5%8f%a5) | N/A |
+| 35 | [リチャード・ギア](http://twitter.com/search?q=%e3%83%aa%e3%83%81%e3%83%a3%e3%83%bc%e3%83%89%e3%83%bb%e3%82%ae%e3%82%a2) | N/A |
+| 36 | [カリステ](http://twitter.com/search?q=%e3%82%ab%e3%83%aa%e3%82%b9%e3%83%86) | N/A |
+| 37 | [栗林くん](http://twitter.com/search?q=%e6%a0%97%e6%9e%97%e3%81%8f%e3%82%93) | N/A |
+| 38 | [ピッチャー](http://twitter.com/search?q=%e3%83%94%e3%83%83%e3%83%81%e3%83%a3%e3%83%bc) | N/A |
+| 39 | [松井くん](http://twitter.com/search?q=%e6%9d%be%e4%ba%95%e3%81%8f%e3%82%93) | N/A |
+| 40 | [みのりんご](http://twitter.com/search?q=%e3%81%bf%e3%81%ae%e3%82%8a%e3%82%93%e3%81%94) | N/A |
+| 41 | [モンハンコラボ](http://twitter.com/search?q=%e3%83%a2%e3%83%b3%e3%83%8f%e3%83%b3%e3%82%b3%e3%83%a9%e3%83%9c) | N/A |
+| 42 | [フリード博士](http://twitter.com/search?q=%e3%83%95%e3%83%aa%e3%83%bc%e3%83%89%e5%8d%9a%e5%a3%ab) | N/A |
+| 43 | [シーズン中](http://twitter.com/search?q=%e3%82%b7%e3%83%bc%e3%82%ba%e3%83%b3%e4%b8%ad) | N/A |
+| 44 | [マリノス](http://twitter.com/search?q=%e3%83%9e%e3%83%aa%e3%83%8e%e3%82%b9) | マリノス (Marinos) is a Japanese professional football club based in Yokohama, Kanagawa Prefecture. The team competes in the J1 League, which is the top tier of football in Japan. The name "Marinos" is derived from the Spanish word for "sailors". |
+| 45 | [STAMP IT](http://twitter.com/search?q=STAMP+IT) | N/A |
+| 46 | [サポートメンバー](http://twitter.com/search?q=%e3%82%b5%e3%83%9d%e3%83%bc%e3%83%88%e3%83%a1%e3%83%b3%e3%83%90%e3%83%bc) | N/A |
+| 47 | [ビッグラン](http://twitter.com/search?q=%e3%83%93%e3%83%83%e3%82%b0%e3%83%a9%e3%83%b3) | ビッグラン is a Japanese phrase that literally translates to "big run". It is used to describe a situation where someone has achieved a great success or accomplishment. |
+| 48 | [ボクスンア](http://twitter.com/search?q=%e3%83%9c%e3%82%af%e3%82%b9%e3%83%b3%e3%82%a2) | N/A |
+| 49 | [中日打線](http://twitter.com/search?q=%e4%b8%ad%e6%97%a5%e6%89%93%e7%b7%9a) | N/A |
+| 50 | [バンテリンドーム](http://twitter.com/search?q=%e3%83%90%e3%83%b3%e3%83%86%e3%83%aa%e3%83%b3%e3%83%89%e3%83%bc%e3%83%a0) | N/A |
 
 
 

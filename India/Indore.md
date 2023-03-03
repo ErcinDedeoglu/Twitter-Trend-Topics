@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indore
 
-📆 Last Updated: `2023-03-03 12:19:41 UTC`
+📆 Last Updated: `2023-03-03 13:20:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#जाट_महाकुंभ_एंथम](http://twitter.com/search?q=%23%e0%a4%9c%e0%a4%be%e0%a4%9f_%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%95%e0%a5%81%e0%a4%82%e0%a4%ad_%e0%a4%8f%e0%a4%82%e0%a4%a5%e0%a4%ae) | N/A |
+| 1 | [PATHAAN BIGGEST GROSSER](http://twitter.com/search?q=PATHAAN+BIGGEST+GROSSER) | N/A |
 | 2 | [#Chalo_SalaSar](http://twitter.com/search?q=%23Chalo_SalaSar) | N/A |
 | 3 | [#TAJonZEE5](http://twitter.com/search?q=%23TAJonZEE5) | N/A |
-| 4 | [1YR OF RDH FT TEJRAN](http://twitter.com/search?q=1YR+OF+RDH+FT+TEJRAN) | N/A |
-| 5 | [मनीष चाचा](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a8%e0%a5%80%e0%a4%b7+%e0%a4%9a%e0%a4%be%e0%a4%9a%e0%a4%be) | N/A |
-| 6 | [मोहन भागवत](http://twitter.com/search?q=%e0%a4%ae%e0%a5%8b%e0%a4%b9%e0%a4%a8+%e0%a4%ad%e0%a4%be%e0%a4%97%e0%a4%b5%e0%a4%a4) | N/A |
-| 7 | [1YR OF BADASS JAILOR KARAN](http://twitter.com/search?q=1YR+OF+BADASS+JAILOR+KARAN) | N/A |
-| 8 | [श्रीमती सोनिया गांधी](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%ae%e0%a4%a4%e0%a5%80+%e0%a4%b8%e0%a5%8b%e0%a4%a8%e0%a4%bf%e0%a4%af%e0%a4%be+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
-| 9 | [गंगाराम अस्पताल](http://twitter.com/search?q=%e0%a4%97%e0%a4%82%e0%a4%97%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%85%e0%a4%b8%e0%a5%8d%e0%a4%aa%e0%a4%a4%e0%a4%be%e0%a4%b2) | N/A |
+| 4 | [#जाट_महाकुंभ_एंथम](http://twitter.com/search?q=%23%e0%a4%9c%e0%a4%be%e0%a4%9f_%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%95%e0%a5%81%e0%a4%82%e0%a4%ad_%e0%a4%8f%e0%a4%82%e0%a4%a5%e0%a4%ae) | N/A |
+| 5 | [1YR OF RDH FT TEJRAN](http://twitter.com/search?q=1YR+OF+RDH+FT+TEJRAN) | N/A |
+| 6 | [WORLD CLASS STAR V](http://twitter.com/search?q=WORLD+CLASS+STAR+V) | N/A |
+| 7 | [श्रीमती सोनिया गांधी](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%ae%e0%a4%a4%e0%a5%80+%e0%a4%b8%e0%a5%8b%e0%a4%a8%e0%a4%bf%e0%a4%af%e0%a4%be+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
+| 8 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
+| 9 | [मनीष चाचा](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a8%e0%a5%80%e0%a4%b7+%e0%a4%9a%e0%a4%be%e0%a4%9a%e0%a4%be) | N/A |
 | 10 | [Vasundhara Raje](http://twitter.com/search?q=Vasundhara+Raje) | N/A |
-| 11 | [Laal Singh Chaddha](http://twitter.com/search?q=Laal+Singh+Chaddha) | N/A |
-| 12 | [Pegasus](http://twitter.com/search?q=Pegasus) | N/A |
-| 13 | [Lokayukta](http://twitter.com/search?q=Lokayukta) | N/A |
-| 14 | [BJP MLA](http://twitter.com/search?q=BJP+MLA) | N/A |
-| 15 | [Manish Chacha](http://twitter.com/search?q=Manish+Chacha) | N/A |
-| 16 | [वसुंधरा राजे](http://twitter.com/search?q=%e0%a4%b5%e0%a4%b8%e0%a5%81%e0%a4%82%e0%a4%a7%e0%a4%b0%e0%a4%be+%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%87) | N/A |
-| 17 | [Public Demands Justice4SSR](http://twitter.com/search?q=Public+Demands+Justice4SSR) | N/A |
-| 18 | [विदेशी धरती](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%a6%e0%a5%87%e0%a4%b6%e0%a5%80+%e0%a4%a7%e0%a4%b0%e0%a4%a4%e0%a5%80) | N/A |
-| 19 | [कैश मिला](http://twitter.com/search?q=%e0%a4%95%e0%a5%88%e0%a4%b6+%e0%a4%ae%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
-| 20 | [सालासर धाम](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%b2%e0%a4%be%e0%a4%b8%e0%a4%b0+%e0%a4%a7%e0%a4%be%e0%a4%ae) | N/A |
-| 21 | [Rs 6](http://twitter.com/search?q=Rs+6) | N/A |
-| 22 | [1 Day Left For Bodh Diwas](http://twitter.com/search?q=1+Day+Left+For+Bodh+Diwas) | N/A |
-| 23 | [Ranveer Singh](http://twitter.com/search?q=Ranveer+Singh) | N/A |
-| 24 | [वन्य जीव](http://twitter.com/search?q=%e0%a4%b5%e0%a4%a8%e0%a5%8d%e0%a4%af+%e0%a4%9c%e0%a5%80%e0%a4%b5) | N/A |
-| 25 | [Rs 40](http://twitter.com/search?q=Rs+40) | N/A |
-| 26 | [कैम्ब्रिज यूनिवर्सिटी](http://twitter.com/search?q=%e0%a4%95%e0%a5%88%e0%a4%ae%e0%a5%8d%e0%a4%ac%e0%a5%8d%e0%a4%b0%e0%a4%bf%e0%a4%9c+%e0%a4%af%e0%a5%82%e0%a4%a8%e0%a4%bf%e0%a4%b5%e0%a4%b0%e0%a5%8d%e0%a4%b8%e0%a4%bf%e0%a4%9f%e0%a5%80) | N/A |
-| 27 | [विजय अभियान](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%9c%e0%a4%af+%e0%a4%85%e0%a4%ad%e0%a4%bf%e0%a4%af%e0%a4%be%e0%a4%a8) | N/A |
-| 28 | [टाटा समूह](http://twitter.com/search?q=%e0%a4%9f%e0%a4%be%e0%a4%9f%e0%a4%be+%e0%a4%b8%e0%a4%ae%e0%a5%82%e0%a4%b9) | N/A |
-| 29 | [#PepsiRiseUpBaby](http://twitter.com/search?q=%23PepsiRiseUpBaby) | N/A |
-| 30 | [#ABAIndiaConf2023](http://twitter.com/search?q=%23ABAIndiaConf2023) | N/A |
-| 31 | [#Move360withW](http://twitter.com/search?q=%23Move360withW) | N/A |
-| 32 | [#PathuThalaTeaser](http://twitter.com/search?q=%23PathuThalaTeaser) | N/A |
-| 33 | [#GulmoharOnHotstar](http://twitter.com/search?q=%23GulmoharOnHotstar) | N/A |
-| 34 | [#awaitingapd2](http://twitter.com/search?q=%23awaitingapd2) | N/A |
-| 35 | [#ShubhoShubhoWithRani](http://twitter.com/search?q=%23ShubhoShubhoWithRani) | N/A |
-| 36 | [#WorldWildlifeDay](http://twitter.com/search?q=%23WorldWildlifeDay) | N/A |
-| 37 | [#MyBestFilm](http://twitter.com/search?q=%23MyBestFilm) | N/A |
-| 38 | [#चलो_सालासर](http://twitter.com/search?q=%23%e0%a4%9a%e0%a4%b2%e0%a5%8b_%e0%a4%b8%e0%a4%be%e0%a4%b2%e0%a4%be%e0%a4%b8%e0%a4%b0) | N/A |
-| 39 | [#Bheed](http://twitter.com/search?q=%23Bheed) | N/A |
-| 40 | [#SoniaGandhi](http://twitter.com/search?q=%23SoniaGandhi) | N/A |
-| 41 | [#ETCXPlus](http://twitter.com/search?q=%23ETCXPlus) | N/A |
-| 42 | [#ArrestGangsterPawanSinghal](http://twitter.com/search?q=%23ArrestGangsterPawanSinghal) | N/A |
-| 43 | [#ArrestgangsterhritikSinghal](http://twitter.com/search?q=%23ArrestgangsterhritikSinghal) | N/A |
+| 11 | [मोहन भागवत](http://twitter.com/search?q=%e0%a4%ae%e0%a5%8b%e0%a4%b9%e0%a4%a8+%e0%a4%ad%e0%a4%be%e0%a4%97%e0%a4%b5%e0%a4%a4) | N/A |
+| 12 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 13 | [विरोधी कांग्रेस सरकार](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%b0%e0%a5%8b%e0%a4%a7%e0%a5%80+%e0%a4%95%e0%a4%be%e0%a4%82%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%b8+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
+| 14 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 15 | [गंगाराम अस्पताल](http://twitter.com/search?q=%e0%a4%97%e0%a4%82%e0%a4%97%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%85%e0%a4%b8%e0%a5%8d%e0%a4%aa%e0%a4%a4%e0%a4%be%e0%a4%b2) | N/A |
+| 16 | [1YR OF BADASS JAILOR KARAN](http://twitter.com/search?q=1YR+OF+BADASS+JAILOR+KARAN) | N/A |
+| 17 | [Ranveer Singh](http://twitter.com/search?q=Ranveer+Singh) | N/A |
+| 18 | [Lokayukta](http://twitter.com/search?q=Lokayukta) | N/A |
+| 19 | [Manish Chacha](http://twitter.com/search?q=Manish+Chacha) | N/A |
+| 20 | [वसुंधरा राजे](http://twitter.com/search?q=%e0%a4%b5%e0%a4%b8%e0%a5%81%e0%a4%82%e0%a4%a7%e0%a4%b0%e0%a4%be+%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%87) | N/A |
+| 21 | [सालासर धाम](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%b2%e0%a4%be%e0%a4%b8%e0%a4%b0+%e0%a4%a7%e0%a4%be%e0%a4%ae) | N/A |
+| 22 | [BJP MLA](http://twitter.com/search?q=BJP+MLA) | N/A |
+| 23 | [विदेशी धरती](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%a6%e0%a5%87%e0%a4%b6%e0%a5%80+%e0%a4%a7%e0%a4%b0%e0%a4%a4%e0%a5%80) | N/A |
+| 24 | [1 Day Left For Bodh Diwas](http://twitter.com/search?q=1+Day+Left+For+Bodh+Diwas) | N/A |
+| 25 | [Public Demands Justice4SSR](http://twitter.com/search?q=Public+Demands+Justice4SSR) | N/A |
+| 26 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 27 | [कैम्ब्रिज यूनिवर्सिटी](http://twitter.com/search?q=%e0%a4%95%e0%a5%88%e0%a4%ae%e0%a5%8d%e0%a4%ac%e0%a5%8d%e0%a4%b0%e0%a4%bf%e0%a4%9c+%e0%a4%af%e0%a5%82%e0%a4%a8%e0%a4%bf%e0%a4%b5%e0%a4%b0%e0%a5%8d%e0%a4%b8%e0%a4%bf%e0%a4%9f%e0%a5%80) | N/A |
+| 28 | [Rs 40](http://twitter.com/search?q=Rs+40) | N/A |
+| 29 | [वन्य जीव](http://twitter.com/search?q=%e0%a4%b5%e0%a4%a8%e0%a5%8d%e0%a4%af+%e0%a4%9c%e0%a5%80%e0%a4%b5) | N/A |
+| 30 | [Quad](http://twitter.com/search?q=Quad) | N/A |
+| 31 | [विजय अभियान](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%9c%e0%a4%af+%e0%a4%85%e0%a4%ad%e0%a4%bf%e0%a4%af%e0%a4%be%e0%a4%a8) | N/A |
+| 32 | [#PepsiRiseUpBaby](http://twitter.com/search?q=%23PepsiRiseUpBaby) | N/A |
+| 33 | [#Rajasthan_Yuva_Aakrosh](http://twitter.com/search?q=%23Rajasthan_Yuva_Aakrosh) | N/A |
+| 34 | [#PathuThalaTeaser](http://twitter.com/search?q=%23PathuThalaTeaser) | N/A |
+| 35 | [#ABAIndiaConf2023](http://twitter.com/search?q=%23ABAIndiaConf2023) | N/A |
+| 36 | [#Move360withW](http://twitter.com/search?q=%23Move360withW) | N/A |
+| 37 | [#Manidham_Kaathu_Magizhvom](http://twitter.com/search?q=%23Manidham_Kaathu_Magizhvom) | N/A |
+| 38 | [#GulmoharOnHotstar](http://twitter.com/search?q=%23GulmoharOnHotstar) | N/A |
+| 39 | [#AwaitingAPD2](http://twitter.com/search?q=%23AwaitingAPD2) | N/A |
+| 40 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
+| 41 | [#JinnysKitchenEp2](http://twitter.com/search?q=%23JinnysKitchenEp2) | N/A |
+| 42 | [#SilambarasanTR](http://twitter.com/search?q=%23SilambarasanTR) | N/A |
+| 43 | [#WorldWildlifeDay](http://twitter.com/search?q=%23WorldWildlifeDay) | N/A |
 | 44 | [#RahulGandhiinCambridge](http://twitter.com/search?q=%23RahulGandhiinCambridge) | N/A |
-| 45 | [#pawansinghalfraud](http://twitter.com/search?q=%23pawansinghalfraud) | N/A |
-| 46 | [#APGlobalInvestorsSummit](http://twitter.com/search?q=%23APGlobalInvestorsSummit) | N/A |
-| 47 | [#TwitterSeva](http://twitter.com/search?q=%23TwitterSeva) | N/A |
-| 48 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
+| 45 | [#MyBestFilm](http://twitter.com/search?q=%23MyBestFilm) | N/A |
+| 46 | [#일잘하는서진이네_김태형](http://twitter.com/search?q=%23%ec%9d%bc%ec%9e%98%ed%95%98%eb%8a%94%ec%84%9c%ec%a7%84%ec%9d%b4%eb%84%a4_%ea%b9%80%ed%83%9c%ed%98%95) | N/A |
+| 47 | [#SoniaGandhi](http://twitter.com/search?q=%23SoniaGandhi) | N/A |
+| 48 | [#ArrestGangsterPawanSinghal](http://twitter.com/search?q=%23ArrestGangsterPawanSinghal) | N/A |
 
 
 
