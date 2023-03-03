@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pittsburgh
 
-📆 Last Updated: `2023-03-03 17:19:17 UTC`
+📆 Last Updated: `2023-03-03 18:18:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Chuck Fletcher](http://twitter.com/search?q=Chuck+Fletcher) | N/A |
-| 2 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
-| 3 | [#EmployeeAppreciationDay](http://twitter.com/search?q=%23EmployeeAppreciationDay) | N/A |
-| 4 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
-| 5 | [#BandcampFriday](http://twitter.com/search?q=%23BandcampFriday) | N/A |
-| 6 | [Walgreens](http://twitter.com/search?q=Walgreens) | N/A |
-| 7 | [Morgan Wallen](http://twitter.com/search?q=Morgan+Wallen) | N/A |
-| 8 | [#ToFOUReverlandWithTXT](http://twitter.com/search?q=%23ToFOUReverlandWithTXT) | N/A |
-| 9 | [#WorldWildlifeDay](http://twitter.com/search?q=%23WorldWildlifeDay) | N/A |
-| 10 | [Judge Newman](http://twitter.com/search?q=Judge+Newman) | N/A |
-| 11 | [De La Soul](http://twitter.com/search?q=De+La+Soul) | N/A |
-| 12 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 13 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 14 | [Alex Murdaugh](http://twitter.com/search?q=Alex+Murdaugh) | N/A |
-| 15 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
+| 1 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
+| 2 | [Creed 3](http://twitter.com/search?q=Creed+3) | N/A |
+| 3 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 4 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
+| 5 | [#EmployeeAppreciationDay](http://twitter.com/search?q=%23EmployeeAppreciationDay) | N/A |
+| 6 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
+| 7 | [#BandcampFriday](http://twitter.com/search?q=%23BandcampFriday) | N/A |
+| 8 | [#WorldWildlifeDay](http://twitter.com/search?q=%23WorldWildlifeDay) | N/A |
+| 9 | [Walgreens](http://twitter.com/search?q=Walgreens) | N/A |
+| 10 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
+| 11 | [Morgan Wallen](http://twitter.com/search?q=Morgan+Wallen) | N/A |
+| 12 | [Lemieux](http://twitter.com/search?q=Lemieux) | N/A |
+| 13 | [MIROTIC](http://twitter.com/search?q=MIROTIC) | N/A |
+| 14 | [De La Soul](http://twitter.com/search?q=De+La+Soul) | N/A |
+| 15 | [Judge Newman](http://twitter.com/search?q=Judge+Newman) | N/A |
 | 16 | [Dahm](http://twitter.com/search?q=Dahm) | N/A |
-| 17 | [Lemieux](http://twitter.com/search?q=Lemieux) | N/A |
-| 18 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 19 | [Masego](http://twitter.com/search?q=Masego) | N/A |
-| 20 | [Melle Mel](http://twitter.com/search?q=Melle+Mel) | N/A |
-| 21 | [Happy Friyay](http://twitter.com/search?q=Happy+Friyay) | N/A |
-| 22 | [Curtis Lazar](http://twitter.com/search?q=Curtis+Lazar) | N/A |
-| 23 | [Vrana](http://twitter.com/search?q=Vrana) | Vrana is a Croatian word that means "crow" in English. |
-| 24 | [Medvedev](http://twitter.com/search?q=Medvedev) | Medvedev is a Russian surname derived from the word medved, which means "bear". It is also the surname of Dmitry Medvedev, the current Prime Minister of Russia. In English, the name Medvedev can be translated to mean "son of the bear". |
-| 25 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
-| 26 | [Paris Davis](http://twitter.com/search?q=Paris+Davis) | N/A |
-| 27 | [ethan hawke](http://twitter.com/search?q=ethan+hawke) | N/A |
-| 28 | [Bonino](http://twitter.com/search?q=Bonino) | N/A |
-| 29 | [Eminem](http://twitter.com/search?q=Eminem) | N/A |
-| 30 | [ON SALE NOW](http://twitter.com/search?q=ON+SALE+NOW) | N/A |
-| 31 | [Medal of Honor](http://twitter.com/search?q=Medal+of+Honor) | N/A |
-| 32 | [Lacey Evans](http://twitter.com/search?q=Lacey+Evans) | Lacey Evans is a professional wrestler currently signed to WWE. Her ring name is derived from her real name, Macey Estrella-Kadlec. The name "Lacey" is derived from the English word for a type of lace fabric, and "Evans" is a common Welsh surname. |
-| 33 | [Jack Cassidy](http://twitter.com/search?q=Jack+Cassidy) | N/A |
-| 34 | [Saban](http://twitter.com/search?q=Saban) | Saban is a Turkish name derived from the Arabic word for “wise” or “learned.” It is also used as a surname in some parts of the world. In English, Saban can be translated to mean “wise one” or “wise man.” |
-| 35 | [4 YEARS WITH TXT](http://twitter.com/search?q=4+YEARS+WITH+TXT) | N/A |
-| 36 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
-| 37 | [Moonlighting](http://twitter.com/search?q=Moonlighting) | N/A |
-| 38 | [98 Braves](http://twitter.com/search?q=98+Braves) | N/A |
-| 39 | [Richard Simmons](http://twitter.com/search?q=Richard+Simmons) | N/A |
-| 40 | [Kali Uchis](http://twitter.com/search?q=Kali+Uchis) | N/A |
-| 41 | [Stakes is High](http://twitter.com/search?q=Stakes+is+High) | N/A |
-| 42 | [UNC Asheville](http://twitter.com/search?q=UNC+Asheville) | N/A |
-| 43 | [Flex Friday](http://twitter.com/search?q=Flex+Friday) | N/A |
-| 44 | [Crunchyroll](http://twitter.com/search?q=Crunchyroll) | N/A |
-| 45 | [CJ Stroud](http://twitter.com/search?q=CJ+Stroud) | CJ Stroud is the name of an American football quarterback who currently plays for the Ohio State Buckeyes. He is known for his strong arm and accuracy, as well as his leadership skills. The name CJ Stroud is derived from his initials, C.J., and his last name, Stroud. |
-| 46 | [3 Feet High and Rising](http://twitter.com/search?q=3+Feet+High+and+Rising) | N/A |
-| 47 | [Jordan Addison](http://twitter.com/search?q=Jordan+Addison) | N/A |
-| 48 | [Andrew Luck](http://twitter.com/search?q=Andrew+Luck) | N/A |
-| 49 | [Kimmel](http://twitter.com/search?q=Kimmel) | N/A |
+| 17 | [Paris Davis](http://twitter.com/search?q=Paris+Davis) | N/A |
+| 18 | [Medvedev](http://twitter.com/search?q=Medvedev) | Medvedev is a Russian surname derived from the word medved, which means "bear". It is also the surname of Dmitry Medvedev, the current Prime Minister of Russia. In English, the name Medvedev can be translated to mean "son of the bear". |
+| 19 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 20 | [Curtis Lazar](http://twitter.com/search?q=Curtis+Lazar) | N/A |
+| 21 | [Melle Mel](http://twitter.com/search?q=Melle+Mel) | N/A |
+| 22 | [HYPE BOY](http://twitter.com/search?q=HYPE+BOY) | HYPE BOY is a slang term used to describe someone who is very enthusiastic and supportive of something. It is often used to describe someone who is always trying to get people excited about something, or who is always talking up a particular person or event. |
+| 23 | [Detective Pikachu](http://twitter.com/search?q=Detective+Pikachu) | N/A |
+| 24 | [Medal of Honor](http://twitter.com/search?q=Medal+of+Honor) | N/A |
+| 25 | [Alex Murdaugh](http://twitter.com/search?q=Alex+Murdaugh) | N/A |
+| 26 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 27 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
+| 28 | [MacEwen](http://twitter.com/search?q=MacEwen) | N/A |
+| 29 | [Masego](http://twitter.com/search?q=Masego) | N/A |
+| 30 | [Happy Friyay](http://twitter.com/search?q=Happy+Friyay) | N/A |
+| 31 | [Eminem](http://twitter.com/search?q=Eminem) | N/A |
+| 32 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 33 | [Lacey Evans](http://twitter.com/search?q=Lacey+Evans) | Lacey Evans is a professional wrestler currently signed to WWE. Her ring name is derived from her real name, Macey Estrella-Kadlec. The name "Lacey" is derived from the English word for a type of lace fabric, and "Evans" is a common Welsh surname. |
+| 34 | [Slinky](http://twitter.com/search?q=Slinky) | N/A |
+| 35 | [Bonino](http://twitter.com/search?q=Bonino) | N/A |
+| 36 | [BRUNO MARS](http://twitter.com/search?q=BRUNO+MARS) | N/A |
+| 37 | [ON SALE NOW](http://twitter.com/search?q=ON+SALE+NOW) | N/A |
+| 38 | [Carew](http://twitter.com/search?q=Carew) | N/A |
+| 39 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
+| 40 | [98 Braves](http://twitter.com/search?q=98+Braves) | N/A |
+| 41 | [Ethan Hawke](http://twitter.com/search?q=Ethan+Hawke) | N/A |
+| 42 | [4 YEARS WITH TXT](http://twitter.com/search?q=4+YEARS+WITH+TXT) | N/A |
+| 43 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
+| 44 | [Saban](http://twitter.com/search?q=Saban) | Saban is a Turkish name derived from the Arabic word for “wise” or “learned.” It is also used as a surname in some parts of the world. In English, Saban can be translated to mean “wise one” or “wise man.” |
+| 45 | [Vick](http://twitter.com/search?q=Vick) | N/A |
+| 46 | [Vrana](http://twitter.com/search?q=Vrana) | Vrana is a Croatian word that means "crow" in English. |
+| 47 | [Moonlighting](http://twitter.com/search?q=Moonlighting) | N/A |
+| 48 | [Vindman](http://twitter.com/search?q=Vindman) | N/A |
+| 49 | [CJ Stroud](http://twitter.com/search?q=CJ+Stroud) | CJ Stroud is the name of an American football quarterback who currently plays for the Ohio State Buckeyes. He is known for his strong arm and accuracy, as well as his leadership skills. The name CJ Stroud is derived from his initials, C.J., and his last name, Stroud. |
 
 
 

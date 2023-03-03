@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-03-03 17:19:20 UTC`
+📆 Last Updated: `2023-03-03 18:18:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for Austria
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Klimastreik](http://twitter.com/search?q=%23Klimastreik) | N/A |
-| 2 | [#ECR2023](http://twitter.com/search?q=%23ECR2023) | N/A |
-| 3 | [#FridaysForFuture](http://twitter.com/search?q=%23FridaysForFuture) | N/A |
-| 4 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 5 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
-| 6 | [#on_the_street](http://twitter.com/search?q=%23on_the_street) | N/A |
-| 7 | [Kocher](http://twitter.com/search?q=Kocher) | N/A |
-| 8 | [Schönen Freitag](http://twitter.com/search?q=Sch%c3%b6nen+Freitag) | N/A |
-| 9 | [Peter Weibel](http://twitter.com/search?q=Peter+Weibel) | N/A |
-| 10 | [diktatur](http://twitter.com/search?q=diktatur) | N/A |
-| 11 | [guten morgen ingrid](http://twitter.com/search?q=guten+morgen+ingrid) | N/A |
-| 12 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
-| 13 | [Budget](http://twitter.com/search?q=Budget) | N/A |
-| 14 | [Rauch](http://twitter.com/search?q=Rauch) | N/A |
-| 15 | [Rudi](http://twitter.com/search?q=Rudi) | N/A |
-| 16 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
-| 17 | [Verschwörung](http://twitter.com/search?q=Verschw%c3%b6rung) | N/A |
-| 18 | [Wasserstoff](http://twitter.com/search?q=Wasserstoff) | N/A |
-| 19 | [angebote](http://twitter.com/search?q=angebote) | N/A |
-| 20 | [E-Fuels](http://twitter.com/search?q=E-Fuels) | N/A |
-| 21 | [Karin](http://twitter.com/search?q=Karin) | N/A |
-| 22 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 23 | [Überzeugung](http://twitter.com/search?q=%c3%9cberzeugung) | N/A |
-| 24 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
-| 25 | [Mitglieder](http://twitter.com/search?q=Mitglieder) | N/A |
-| 26 | [Schmäh](http://twitter.com/search?q=Schm%c3%a4h) | N/A |
-| 27 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
-| 28 | [Fesch](http://twitter.com/search?q=Fesch) | N/A |
-| 29 | [Alexandra](http://twitter.com/search?q=Alexandra) | N/A |
-| 30 | [Maske](http://twitter.com/search?q=Maske) | N/A |
-| 31 | [Brille](http://twitter.com/search?q=Brille) | N/A |
-| 32 | [Gehsteig](http://twitter.com/search?q=Gehsteig) | N/A |
-| 33 | [Lockdowns](http://twitter.com/search?q=Lockdowns) | N/A |
-| 34 | [Außenpolitik](http://twitter.com/search?q=Au%c3%9fenpolitik) | N/A |
-| 35 | [Mike](http://twitter.com/search?q=Mike) | N/A |
-| 36 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
-| 37 | [Landwirtschaft](http://twitter.com/search?q=Landwirtschaft) | N/A |
-| 38 | [Gehälter](http://twitter.com/search?q=Geh%c3%a4lter) | N/A |
-| 39 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 40 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
-| 41 | [Gm Bro](http://twitter.com/search?q=Gm+Bro) | N/A |
-| 42 | [Helmut](http://twitter.com/search?q=Helmut) | N/A |
-| 43 | [Toten](http://twitter.com/search?q=Toten) | N/A |
-| 44 | [Forschung](http://twitter.com/search?q=Forschung) | N/A |
+| 2 | [Koalitionspartner](http://twitter.com/search?q=Koalitionspartner) | N/A |
+| 3 | [#ECR2023](http://twitter.com/search?q=%23ECR2023) | N/A |
+| 4 | [#FridaysForFuture](http://twitter.com/search?q=%23FridaysForFuture) | N/A |
+| 5 | [Tomaselli](http://twitter.com/search?q=Tomaselli) | N/A |
+| 6 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 7 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 8 | [#LigaZwa](http://twitter.com/search?q=%23LigaZwa) | N/A |
+| 9 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
+| 10 | [Kocher](http://twitter.com/search?q=Kocher) | N/A |
+| 11 | [Schönen Freitag](http://twitter.com/search?q=Sch%c3%b6nen+Freitag) | N/A |
+| 12 | [Peter Weibel](http://twitter.com/search?q=Peter+Weibel) | N/A |
+| 13 | [guten morgen ingrid](http://twitter.com/search?q=guten+morgen+ingrid) | N/A |
+| 14 | [Diktatur](http://twitter.com/search?q=Diktatur) | N/A |
+| 15 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 16 | [Anliegen](http://twitter.com/search?q=Anliegen) | N/A |
+| 17 | [Budget](http://twitter.com/search?q=Budget) | N/A |
+| 18 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
+| 19 | [Rudi](http://twitter.com/search?q=Rudi) | N/A |
+| 20 | [Rauch](http://twitter.com/search?q=Rauch) | N/A |
+| 21 | [Schmäh](http://twitter.com/search?q=Schm%c3%a4h) | N/A |
+| 22 | [Wasserstoff](http://twitter.com/search?q=Wasserstoff) | N/A |
+| 23 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 24 | [Angebote](http://twitter.com/search?q=Angebote) | N/A |
+| 25 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 26 | [E-Fuels](http://twitter.com/search?q=E-Fuels) | N/A |
+| 27 | [Überzeugung](http://twitter.com/search?q=%c3%9cberzeugung) | N/A |
+| 28 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
+| 29 | [Verschwörung](http://twitter.com/search?q=Verschw%c3%b6rung) | N/A |
+| 30 | [gehsteig](http://twitter.com/search?q=gehsteig) | N/A |
+| 31 | [Mitglieder](http://twitter.com/search?q=Mitglieder) | N/A |
+| 32 | [guten morgen leo](http://twitter.com/search?q=guten+morgen+leo) | N/A |
+| 33 | [Maske](http://twitter.com/search?q=Maske) | N/A |
+| 34 | [Mike](http://twitter.com/search?q=Mike) | N/A |
+| 35 | [Muster](http://twitter.com/search?q=Muster) | N/A |
+| 36 | [Finnland](http://twitter.com/search?q=Finnland) | N/A |
+| 37 | [Brille](http://twitter.com/search?q=Brille) | N/A |
+| 38 | [Alexandra](http://twitter.com/search?q=Alexandra) | N/A |
+| 39 | [Nebenwirkungen](http://twitter.com/search?q=Nebenwirkungen) | N/A |
+| 40 | [Lockdowns](http://twitter.com/search?q=Lockdowns) | N/A |
+| 41 | [Außenpolitik](http://twitter.com/search?q=Au%c3%9fenpolitik) | N/A |
+| 42 | [Forschung](http://twitter.com/search?q=Forschung) | N/A |
+| 43 | [Gehälter](http://twitter.com/search?q=Geh%c3%a4lter) | N/A |
+| 44 | [Vorarlberg](http://twitter.com/search?q=Vorarlberg) | N/A |
 | 45 | [Gurke](http://twitter.com/search?q=Gurke) | N/A |
-| 46 | [Kunst](http://twitter.com/search?q=Kunst) | N/A |
-| 47 | [Versöhnung](http://twitter.com/search?q=Vers%c3%b6hnung) | N/A |
-| 48 | [Dietmar](http://twitter.com/search?q=Dietmar) | N/A |
-| 49 | [Kremlin](http://twitter.com/search?q=Kremlin) | N/A |
+| 46 | [Lasst](http://twitter.com/search?q=Lasst) | N/A |
+| 47 | [Kunst](http://twitter.com/search?q=Kunst) | N/A |
+| 48 | [Toten](http://twitter.com/search?q=Toten) | N/A |
+| 49 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
 | 50 | [Verfügung](http://twitter.com/search?q=Verf%c3%bcgung) | N/A |
 
 

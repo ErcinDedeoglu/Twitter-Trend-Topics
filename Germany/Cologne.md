@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cologne
 
-📆 Last Updated: `2023-03-03 17:18:48 UTC`
+📆 Last Updated: `2023-03-03 18:17:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Klimastreik](http://twitter.com/search?q=%23Klimastreik) | N/A |
-| 2 | [#KlamrothLuegt](http://twitter.com/search?q=%23KlamrothLuegt) | N/A |
+| 2 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 3 | [#FridaysForFuture](http://twitter.com/search?q=%23FridaysForFuture) | N/A |
-| 4 | [#Deutschlandtakt](http://twitter.com/search?q=%23Deutschlandtakt) | N/A |
-| 5 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
-| 6 | [#fdpschadetunsAllen](http://twitter.com/search?q=%23fdpschadetunsAllen) | N/A |
-| 7 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 8 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
-| 9 | [Richter](http://twitter.com/search?q=Richter) | N/A |
+| 4 | [#KlamrothLuegt](http://twitter.com/search?q=%23KlamrothLuegt) | N/A |
+| 5 | [#Deutschlandtakt](http://twitter.com/search?q=%23Deutschlandtakt) | N/A |
+| 6 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
+| 7 | [#Nockherberg](http://twitter.com/search?q=%23Nockherberg) | N/A |
+| 8 | [Richter](http://twitter.com/search?q=Richter) | N/A |
+| 9 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
 | 10 | [Drinks](http://twitter.com/search?q=Drinks) | N/A |
-| 11 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 11 | [Bewährung](http://twitter.com/search?q=Bew%c3%a4hrung) | N/A |
 | 12 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
-| 13 | [peek & cloppenburg](http://twitter.com/search?q=peek+%26+cloppenburg) | N/A |
-| 14 | [Mitbürger](http://twitter.com/search?q=Mitb%c3%bcrger) | N/A |
-| 15 | [Bewährung](http://twitter.com/search?q=Bew%c3%a4hrung) | N/A |
-| 16 | [Audi](http://twitter.com/search?q=Audi) | N/A |
-| 17 | [ÖPNV](http://twitter.com/search?q=%c3%96PNV) | N/A |
-| 18 | [Feiertag](http://twitter.com/search?q=Feiertag) | Feiertag is a German word meaning "holiday" or "celebration day". It is used to refer to any day that is set aside for special observance, such as a national holiday, religious holiday, or other special occasion. |
-| 19 | [Strom](http://twitter.com/search?q=Strom) | N/A |
+| 13 | [Strom](http://twitter.com/search?q=Strom) | N/A |
+| 14 | [ÖPNV](http://twitter.com/search?q=%c3%96PNV) | N/A |
+| 15 | [Mitbürger](http://twitter.com/search?q=Mitb%c3%bcrger) | N/A |
+| 16 | [Feiertag](http://twitter.com/search?q=Feiertag) | Feiertag is a German word meaning "holiday" or "celebration day". It is used to refer to any day that is set aside for special observance, such as a national holiday, religious holiday, or other special occasion. |
+| 17 | [Peek & Cloppenburg](http://twitter.com/search?q=Peek+%26+Cloppenburg) | N/A |
+| 18 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 19 | [Audi](http://twitter.com/search?q=Audi) | N/A |
 | 20 | [Schönen Freitag](http://twitter.com/search?q=Sch%c3%b6nen+Freitag) | N/A |
 | 21 | [Technologie](http://twitter.com/search?q=Technologie) | N/A |
-| 22 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 23 | [Außenpolitik](http://twitter.com/search?q=Au%c3%9fenpolitik) | N/A |
-| 24 | [Jährige auf dem Heimweg](http://twitter.com/search?q=J%c3%a4hrige+auf+dem+Heimweg) | N/A |
-| 25 | [Maske](http://twitter.com/search?q=Maske) | N/A |
-| 26 | [Adler](http://twitter.com/search?q=Adler) | N/A |
-| 27 | [Urteil](http://twitter.com/search?q=Urteil) | N/A |
-| 28 | [Markt](http://twitter.com/search?q=Markt) | N/A |
-| 29 | [Frida Gold](http://twitter.com/search?q=Frida+Gold) | N/A |
-| 30 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
-| 31 | [Vergewaltigung](http://twitter.com/search?q=Vergewaltigung) | N/A |
-| 32 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
-| 33 | [Rankin](http://twitter.com/search?q=Rankin) | N/A |
-| 34 | [freutag](http://twitter.com/search?q=freutag) | N/A |
-| 35 | [Autoindustrie](http://twitter.com/search?q=Autoindustrie) | N/A |
-| 36 | [Wirkungsgrad](http://twitter.com/search?q=Wirkungsgrad) | N/A |
-| 37 | [Seenotrettung](http://twitter.com/search?q=Seenotrettung) | N/A |
-| 38 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
-| 39 | [chrupalla](http://twitter.com/search?q=chrupalla) | N/A |
-| 40 | [Koalition](http://twitter.com/search?q=Koalition) | N/A |
-| 41 | [E-Autos](http://twitter.com/search?q=E-Autos) | N/A |
-| 42 | [Paulaner Spezi](http://twitter.com/search?q=Paulaner+Spezi) | N/A |
-| 43 | [BAMBOLA HIMNO AVATRICE](http://twitter.com/search?q=BAMBOLA+HIMNO+AVATRICE) | N/A |
-| 44 | [Stilles Wasser](http://twitter.com/search?q=Stilles+Wasser) | N/A |
-| 45 | [Ikke Hüftgold](http://twitter.com/search?q=Ikke+H%c3%bcftgold) | N/A |
-| 46 | [Merz](http://twitter.com/search?q=Merz) | Merz is a German word that means "to combine or join together." It is often used to describe the practice of combining different materials, such as wood and metal, to create a unique piece of art. The term was popularized by the German artist Kurt Schwitters, who used it to describe his collage-like works. |
-| 47 | [vorentscheid](http://twitter.com/search?q=vorentscheid) | N/A |
+| 22 | [Freitag Abend](http://twitter.com/search?q=Freitag+Abend) | N/A |
+| 23 | [Markt](http://twitter.com/search?q=Markt) | N/A |
+| 24 | [Urteil](http://twitter.com/search?q=Urteil) | N/A |
+| 25 | [Außenpolitik](http://twitter.com/search?q=Au%c3%9fenpolitik) | N/A |
+| 26 | [Maske](http://twitter.com/search?q=Maske) | N/A |
+| 27 | [Paulaner Spezi](http://twitter.com/search?q=Paulaner+Spezi) | N/A |
+| 28 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 29 | [freutag](http://twitter.com/search?q=freutag) | N/A |
+| 30 | [Vergewaltigung](http://twitter.com/search?q=Vergewaltigung) | N/A |
+| 31 | [Seenotrettung](http://twitter.com/search?q=Seenotrettung) | N/A |
+| 32 | [Autoindustrie](http://twitter.com/search?q=Autoindustrie) | N/A |
+| 33 | [E-Autos](http://twitter.com/search?q=E-Autos) | N/A |
+| 34 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 35 | [Frida Gold](http://twitter.com/search?q=Frida+Gold) | N/A |
+| 36 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
+| 37 | [Wirkungsgrad](http://twitter.com/search?q=Wirkungsgrad) | N/A |
+| 38 | [Koalition](http://twitter.com/search?q=Koalition) | N/A |
+| 39 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
+| 40 | [Ikke Hüftgold](http://twitter.com/search?q=Ikke+H%c3%bcftgold) | N/A |
+| 41 | [Adler](http://twitter.com/search?q=Adler) | N/A |
+| 42 | [Merz](http://twitter.com/search?q=Merz) | Merz is a German word that means "to combine or join together." It is often used to describe the practice of combining different materials, such as wood and metal, to create a unique piece of art. The term was popularized by the German artist Kurt Schwitters, who used it to describe his collage-like works. |
+| 43 | [Chrupalla](http://twitter.com/search?q=Chrupalla) | N/A |
+| 44 | [Vorentscheid](http://twitter.com/search?q=Vorentscheid) | N/A |
+| 45 | [BAMBOLA HIMNO AVATRICE](http://twitter.com/search?q=BAMBOLA+HIMNO+AVATRICE) | N/A |
+| 46 | [Syrer](http://twitter.com/search?q=Syrer) | N/A |
+| 47 | [BRUNO MARS](http://twitter.com/search?q=BRUNO+MARS) | N/A |
 | 48 | [März 2023](http://twitter.com/search?q=M%c3%a4rz+2023) | N/A |
-| 49 | [Porsche](http://twitter.com/search?q=Porsche) | N/A |
-| 50 | [Verkehrsminister](http://twitter.com/search?q=Verkehrsminister) | N/A |
+| 49 | [Heizung](http://twitter.com/search?q=Heizung) | N/A |
+| 50 | [Porsche](http://twitter.com/search?q=Porsche) | N/A |
 
 
 

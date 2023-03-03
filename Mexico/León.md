@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For León
 
-📆 Last Updated: `2023-03-03 17:18:38 UTC`
+📆 Last Updated: `2023-03-03 18:17:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,53 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ContigoSiempre](http://twitter.com/search?q=%23ContigoSiempre) | N/A |
+| 1 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
 | 2 | [#Convoy7Años](http://twitter.com/search?q=%23Convoy7A%c3%b1os) | N/A |
-| 3 | [#ToFOUReverlandWithTXT](http://twitter.com/search?q=%23ToFOUReverlandWithTXT) | N/A |
+| 3 | [#QueremosRock](http://twitter.com/search?q=%23QueremosRock) | N/A |
 | 4 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 5 | [4 YEARS WITH TXT](http://twitter.com/search?q=4+YEARS+WITH+TXT) | N/A |
-| 6 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 5 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 6 | [4 YEARS WITH TXT](http://twitter.com/search?q=4+YEARS+WITH+TXT) | N/A |
 | 7 | [Checo](http://twitter.com/search?q=Checo) | N/A |
 | 8 | [Hange](http://twitter.com/search?q=Hange) | N/A |
-| 9 | [Master of Puppets](http://twitter.com/search?q=Master+of+Puppets) | N/A |
-| 10 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
-| 11 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 12 | [Zendejas](http://twitter.com/search?q=Zendejas) | Zendejas is a Spanish surname. It is derived from the Basque word "zendegi," which means "life." In English, it can be translated to mean "one who has a long life." |
-| 13 | [Excelente Viernes](http://twitter.com/search?q=Excelente+Viernes) | N/A |
-| 14 | [Crunchyroll](http://twitter.com/search?q=Crunchyroll) | N/A |
-| 15 | [Banco de México](http://twitter.com/search?q=Banco+de+M%c3%a9xico) | N/A |
-| 16 | [Magic](http://twitter.com/search?q=Magic) | N/A |
-| 17 | [Nano](http://twitter.com/search?q=Nano) | N/A |
-| 18 | [Kali Uchis](http://twitter.com/search?q=Kali+Uchis) | N/A |
+| 9 | [El Plan](http://twitter.com/search?q=El+Plan) | N/A |
+| 10 | [Crunchyroll](http://twitter.com/search?q=Crunchyroll) | N/A |
+| 11 | [Master of Puppets](http://twitter.com/search?q=Master+of+Puppets) | N/A |
+| 12 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
+| 13 | [Zendejas](http://twitter.com/search?q=Zendejas) | Zendejas is a Spanish surname. It is derived from the Basque word "zendegi," which means "life." In English, it can be translated to mean "one who has a long life." |
+| 14 | [Banco de México](http://twitter.com/search?q=Banco+de+M%c3%a9xico) | N/A |
+| 15 | [Komanche](http://twitter.com/search?q=Komanche) | N/A |
+| 16 | [Excelente Viernes](http://twitter.com/search?q=Excelente+Viernes) | N/A |
+| 17 | [Banxico](http://twitter.com/search?q=Banxico) | N/A |
+| 18 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
 | 19 | [Layda Sansores](http://twitter.com/search?q=Layda+Sansores) | N/A |
-| 20 | [Jacobo](http://twitter.com/search?q=Jacobo) | N/A |
-| 21 | [Lía Limón](http://twitter.com/search?q=L%c3%ada+Lim%c3%b3n) | N/A |
-| 22 | [Levi](http://twitter.com/search?q=Levi) | N/A |
+| 20 | [Nano](http://twitter.com/search?q=Nano) | N/A |
+| 21 | [Magic](http://twitter.com/search?q=Magic) | N/A |
+| 22 | [Kali Uchis](http://twitter.com/search?q=Kali+Uchis) | N/A |
 | 23 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
-| 24 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 25 | [Lira](http://twitter.com/search?q=Lira) | N/A |
-| 26 | [Gobernación](http://twitter.com/search?q=Gobernaci%c3%b3n) | N/A |
-| 27 | [Adán Augusto](http://twitter.com/search?q=Ad%c3%a1n+Augusto) | N/A |
-| 28 | [Banxico](http://twitter.com/search?q=Banxico) | N/A |
-| 29 | [Mancera](http://twitter.com/search?q=Mancera) | N/A |
-| 30 | [Viernes 3](http://twitter.com/search?q=Viernes+3) | N/A |
+| 24 | [Edmundo Jacobo](http://twitter.com/search?q=Edmundo+Jacobo) | N/A |
+| 25 | [Viernes 3](http://twitter.com/search?q=Viernes+3) | N/A |
+| 26 | [Lía Limón](http://twitter.com/search?q=L%c3%ada+Lim%c3%b3n) | N/A |
+| 27 | [Lira](http://twitter.com/search?q=Lira) | N/A |
+| 28 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 29 | [Adán Augusto](http://twitter.com/search?q=Ad%c3%a1n+Augusto) | N/A |
+| 30 | [Toño](http://twitter.com/search?q=To%c3%b1o) | N/A |
 | 31 | [Eren](http://twitter.com/search?q=Eren) | N/A |
-| 32 | [Poder Judicial](http://twitter.com/search?q=Poder+Judicial) | N/A |
-| 33 | [Lorenzo Córdova](http://twitter.com/search?q=Lorenzo+C%c3%b3rdova) | N/A |
-| 34 | [Pajarito](http://twitter.com/search?q=Pajarito) | N/A |
-| 35 | [Norma Piña](http://twitter.com/search?q=Norma+Pi%c3%b1a) | Norma Piña is a Mexican dish made with shredded beef, potatoes, and carrots cooked in a tomato-based sauce. The name of the dish comes from the Spanish words for "shredded beef" (carne deshebrada) and "pineapple" (piña). In English, Norma Piña translates to "Shredded Beef with Pineapple". |
-| 36 | [#TXT_4th_Anniversary](http://twitter.com/search?q=%23TXT_4th_Anniversary) | N/A |
-| 37 | [#QueremosRock](http://twitter.com/search?q=%23QueremosRock) | N/A |
-| 38 | [#FelizViernesATodos](http://twitter.com/search?q=%23FelizViernesATodos) | N/A |
-| 39 | [#ShingekiNoKyojin](http://twitter.com/search?q=%23ShingekiNoKyojin) | N/A |
-| 40 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
-| 41 | [#PesoMexicano](http://twitter.com/search?q=%23PesoMexicano) | N/A |
-| 42 | [#AttackOnTitan](http://twitter.com/search?q=%23AttackOnTitan) | N/A |
-| 43 | [#DíaMundialDeLaVidaSilvestre](http://twitter.com/search?q=%23D%c3%adaMundialDeLaVidaSilvestre) | N/A |
-| 44 | [#ZonaRÉCORD](http://twitter.com/search?q=%23ZonaR%c3%89CORD) | N/A |
-| 45 | [#GPBahrein](http://twitter.com/search?q=%23GPBahrein) | N/A |
-| 46 | [#SuperPeso](http://twitter.com/search?q=%23SuperPeso) | N/A |
-| 47 | [#dolar](http://twitter.com/search?q=%23dolar) | N/A |
-| 48 | [#Formula1](http://twitter.com/search?q=%23Formula1) | N/A |
+| 32 | [Mancera](http://twitter.com/search?q=Mancera) | N/A |
+| 33 | [Álvaro Obregón](http://twitter.com/search?q=%c3%81lvaro+Obreg%c3%b3n) | N/A |
+| 34 | [Lorenzo Córdova](http://twitter.com/search?q=Lorenzo+C%c3%b3rdova) | N/A |
+| 35 | [Gobernación](http://twitter.com/search?q=Gobernaci%c3%b3n) | N/A |
+| 36 | [Rubius](http://twitter.com/search?q=Rubius) | Rubius is a Latin word meaning "red". It is often used to describe the color of hair, eyes, or skin. |
+| 37 | [Pajarito](http://twitter.com/search?q=Pajarito) | N/A |
+| 38 | [#ShingekiNoKyojin](http://twitter.com/search?q=%23ShingekiNoKyojin) | N/A |
+| 39 | [#ToFOUReverlandWithTXT](http://twitter.com/search?q=%23ToFOUReverlandWithTXT) | N/A |
+| 40 | [#TXT_4th_Anniversary](http://twitter.com/search?q=%23TXT_4th_Anniversary) | N/A |
+| 41 | [#FelizViernesATodos](http://twitter.com/search?q=%23FelizViernesATodos) | N/A |
+| 42 | [#PesoMexicano](http://twitter.com/search?q=%23PesoMexicano) | N/A |
+| 43 | [#ViernesDeRiesgo](http://twitter.com/search?q=%23ViernesDeRiesgo) | N/A |
+| 44 | [#AttackOnTitan](http://twitter.com/search?q=%23AttackOnTitan) | N/A |
+| 45 | [#DíaMundialDeLaVidaSilvestre](http://twitter.com/search?q=%23D%c3%adaMundialDeLaVidaSilvestre) | N/A |
+| 46 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
+| 47 | [#ZonaRÉCORD](http://twitter.com/search?q=%23ZonaR%c3%89CORD) | N/A |
 
 
 

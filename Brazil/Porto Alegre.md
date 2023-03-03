@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Porto Alegre
 
-📆 Last Updated: `2023-03-03 17:18:43 UTC`
+📆 Last Updated: `2023-03-03 18:17:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [Brazil](</Brazil>)
 | 3 | [Rony](http://twitter.com/search?q=Rony) | Rony is not a word in English. It may be a name or an acronym in another language. |
 | 4 | [Rony](http://twitter.com/search?q=Rony) | Rony is not a word in English. It may be a name or an acronym in another language. |
 | 5 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 6 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 7 | [Ramon](http://twitter.com/search?q=Ramon) | N/A |
-| 8 | [Andrey](http://twitter.com/search?q=Andrey) | Andrey is a Russian male given name derived from the Greek name Andreas, meaning "manly" or "masculine". |
-| 9 | [Vitor Roque](http://twitter.com/search?q=Vitor+Roque) | Vitor Roque is a Portuguese name. It is derived from the Latin name Victor, which means "victor" or "conqueror". In English, Vitor Roque can be translated to mean "Victorious Rock". |
-| 10 | [Caio Henrique](http://twitter.com/search?q=Caio+Henrique) | N/A |
-| 11 | [Robert Renan](http://twitter.com/search?q=Robert+Renan) | N/A |
-| 12 | [Weverton](http://twitter.com/search?q=Weverton) | Weverton is a Portuguese name derived from the Germanic name Wifard, which means “strong guardian”. It is also a common surname in Brazil. |
-| 13 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 14 | [Marrocos](http://twitter.com/search?q=Marrocos) | N/A |
-| 15 | [Juliette](http://twitter.com/search?q=Juliette) | Juliette is a French female given name, derived from the Latin Julia. It is a diminutive form of Julia, meaning "youthful" or "downy". |
-| 16 | [Joelinton](http://twitter.com/search?q=Joelinton) | Joelinton is a Portuguese name, derived from the combination of the names Joel and António. It is usually given to boys and means "God will give". |
-| 17 | [#TXT_4th_Anniversary](http://twitter.com/search?q=%23TXT_4th_Anniversary) | N/A |
-| 18 | [Seleção](http://twitter.com/search?q=Sele%c3%a7%c3%a3o) | N/A |
-| 19 | [#ToFOUReverlandWithTXT](http://twitter.com/search?q=%23ToFOUReverlandWithTXT) | N/A |
-| 20 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
-| 21 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 22 | [4 YEARS WITH TXT](http://twitter.com/search?q=4+YEARS+WITH+TXT) | N/A |
-| 23 | [Gabriel Magalhães](http://twitter.com/search?q=Gabriel+Magalh%c3%a3es) | N/A |
-| 24 | [Paquetá](http://twitter.com/search?q=Paquet%c3%a1) | N/A |
-| 25 | [Zico](http://twitter.com/search?q=Zico) | N/A |
-| 26 | [#F1noBandSports](http://twitter.com/search?q=%23F1noBandSports) | N/A |
-| 27 | [Shingeki](http://twitter.com/search?q=Shingeki) | Shingeki is a Japanese word that translates to "advancement" or "onslaught" in English. It is often used to refer to a sudden, large-scale attack or invasion. |
-| 28 | [Dudu](http://twitter.com/search?q=Dudu) | N/A |
-| 29 | [Sasha Fierce](http://twitter.com/search?q=Sasha+Fierce) | N/A |
-| 30 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 31 | [I Am](http://twitter.com/search?q=I+Am) | N/A |
-| 32 | [Kali Uchis](http://twitter.com/search?q=Kali+Uchis) | N/A |
-| 33 | [Drugo](http://twitter.com/search?q=Drugo) | N/A |
-| 34 | [Mycael](http://twitter.com/search?q=Mycael) | N/A |
-| 35 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
-| 36 | [Aldair](http://twitter.com/search?q=Aldair) | N/A |
-| 37 | [#BBBTaOn](http://twitter.com/search?q=%23BBBTaOn) | N/A |
-| 38 | [Mauro Galvão](http://twitter.com/search?q=Mauro+Galv%c3%a3o) | Mauro Galvão is a Brazilian name, derived from the Latin name Maurus, meaning "dark-skinned". It is also a common surname in Portugal. In English, the name Mauro Galvão can be translated to mean "dark-skinned man". |
-| 39 | [#SextouDoBem](http://twitter.com/search?q=%23SextouDoBem) | N/A |
-| 40 | [Fine Line](http://twitter.com/search?q=Fine+Line) | N/A |
-| 41 | [Renan Lodi](http://twitter.com/search?q=Renan+Lodi) | N/A |
-| 42 | [Nelly](http://twitter.com/search?q=Nelly) | Nelly is a nickname for the female given name Eleanor, which is derived from the Greek name Helenē, meaning “light” or “bright one.” It can also be used as a diminutive form of the name Cornelia. |
-| 43 | [Rubel](http://twitter.com/search?q=Rubel) | N/A |
-| 44 | [Alex Telles](http://twitter.com/search?q=Alex+Telles) | N/A |
-| 45 | [Harry's House](http://twitter.com/search?q=Harry%27s+House) | Harry's House is a phrase used to describe a place of refuge, safety, and comfort. It is often used to refer to a home or other place where someone can go to feel secure and relaxed. |
-| 46 | [Convocação](http://twitter.com/search?q=Convoca%c3%a7%c3%a3o) | N/A |
-| 47 | [Daniel Alves](http://twitter.com/search?q=Daniel+Alves) | Daniel Alves is a Brazilian professional footballer who plays as a right-back for São Paulo FC. He is widely regarded as one of the best right-backs in the world and has won numerous awards and accolades throughout his career. |
-| 48 | [DEIXA A SARAH JOGAR](http://twitter.com/search?q=DEIXA+A+SARAH+JOGAR) | N/A |
-| 49 | [Dangerously In Love](http://twitter.com/search?q=Dangerously+In+Love) | N/A |
-| 50 | [Miranda](http://twitter.com/search?q=Miranda) | Miranda is a female given name of Latin origin, derived from the word "mirandus" meaning "admirable" or "wonderful". It is also associated with the phrase "miranda rights", which are rights read to criminal suspects in the United States during an arrest. |
+| 6 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 7 | [Juliette](http://twitter.com/search?q=Juliette) | Juliette is a French female given name, derived from the Latin Julia. It is a diminutive form of Julia, meaning "youthful" or "downy". |
+| 8 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 9 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
+| 10 | [Ramon](http://twitter.com/search?q=Ramon) | N/A |
+| 11 | [Bruno Guimarães](http://twitter.com/search?q=Bruno+Guimar%c3%a3es) | N/A |
+| 12 | [#TXT_4th_Anniversary](http://twitter.com/search?q=%23TXT_4th_Anniversary) | N/A |
+| 13 | [André](http://twitter.com/search?q=Andr%c3%a9) | N/A |
+| 14 | [João Gomes](http://twitter.com/search?q=Jo%c3%a3o+Gomes) | João Gomes is a Portuguese name. It is the equivalent of John Smith in English. The literal translation of João Gomes is John Gomes. |
+| 15 | [Vitor Roque](http://twitter.com/search?q=Vitor+Roque) | Vitor Roque is a Portuguese name. It is derived from the Latin name Victor, which means "victor" or "conqueror". In English, Vitor Roque can be translated to mean "Victorious Rock". |
+| 16 | [#ToFOUReverlandWithTXT](http://twitter.com/search?q=%23ToFOUReverlandWithTXT) | N/A |
+| 17 | [Weverton](http://twitter.com/search?q=Weverton) | Weverton is a Portuguese name derived from the Germanic name Wifard, which means “strong guardian”. It is also a common surname in Brazil. |
+| 18 | [Marrocos](http://twitter.com/search?q=Marrocos) | N/A |
+| 19 | [Caio Henrique](http://twitter.com/search?q=Caio+Henrique) | N/A |
+| 20 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 21 | [Seleção](http://twitter.com/search?q=Sele%c3%a7%c3%a3o) | N/A |
+| 22 | [Robert Renan](http://twitter.com/search?q=Robert+Renan) | N/A |
+| 23 | [Joelinton](http://twitter.com/search?q=Joelinton) | Joelinton is a Portuguese name, derived from the combination of the names Joel and António. It is usually given to boys and means "God will give". |
+| 24 | [Shingeki](http://twitter.com/search?q=Shingeki) | Shingeki is a Japanese word that translates to "advancement" or "onslaught" in English. It is often used to refer to a sudden, large-scale attack or invasion. |
+| 25 | [Sasha Fierce](http://twitter.com/search?q=Sasha+Fierce) | N/A |
+| 26 | [BRUNO MARS](http://twitter.com/search?q=BRUNO+MARS) | N/A |
+| 27 | [#FORAALFACE](http://twitter.com/search?q=%23FORAALFACE) | N/A |
+| 28 | [4 YEARS WITH TXT](http://twitter.com/search?q=4+YEARS+WITH+TXT) | N/A |
+| 29 | [Drugo](http://twitter.com/search?q=Drugo) | N/A |
+| 30 | [I Am](http://twitter.com/search?q=I+Am) | N/A |
+| 31 | [Zico](http://twitter.com/search?q=Zico) | N/A |
+| 32 | [Gabriel Magalhães](http://twitter.com/search?q=Gabriel+Magalh%c3%a3es) | N/A |
+| 33 | [Dudu](http://twitter.com/search?q=Dudu) | N/A |
+| 34 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 35 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
+| 36 | [Paquetá](http://twitter.com/search?q=Paquet%c3%a1) | N/A |
+| 37 | [Mauro Galvão](http://twitter.com/search?q=Mauro+Galv%c3%a3o) | Mauro Galvão is a Brazilian name, derived from the Latin name Maurus, meaning "dark-skinned". It is also a common surname in Portugal. In English, the name Mauro Galvão can be translated to mean "dark-skinned man". |
+| 38 | [Aldair](http://twitter.com/search?q=Aldair) | N/A |
+| 39 | [Tipo Favorito](http://twitter.com/search?q=Tipo+Favorito) | N/A |
+| 40 | [#BBBTaOn](http://twitter.com/search?q=%23BBBTaOn) | N/A |
+| 41 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
+| 42 | [Rubel](http://twitter.com/search?q=Rubel) | N/A |
+| 43 | [Kiss & Tell](http://twitter.com/search?q=Kiss+%26+Tell) | N/A |
+| 44 | [Backyard Sessions](http://twitter.com/search?q=Backyard+Sessions) | N/A |
+| 45 | [Dangerously In Love](http://twitter.com/search?q=Dangerously+In+Love) | N/A |
+| 46 | [Kali Uchis](http://twitter.com/search?q=Kali+Uchis) | N/A |
+| 47 | [#F1noBandSports](http://twitter.com/search?q=%23F1noBandSports) | N/A |
+| 48 | [Zanin](http://twitter.com/search?q=Zanin) | Zanin is a Japanese word that means "all of us". It is often used to refer to a group of people who are working together towards a common goal. |
+| 49 | [Mycael](http://twitter.com/search?q=Mycael) | N/A |
+| 50 | [Fine Line](http://twitter.com/search?q=Fine+Line) | N/A |
 
 
 

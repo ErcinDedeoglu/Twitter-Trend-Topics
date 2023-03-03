@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Long Beach
 
-📆 Last Updated: `2023-03-03 17:19:14 UTC`
+📆 Last Updated: `2023-03-03 18:18:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#NICAR23](http://twitter.com/search?q=%23NICAR23) | N/A |
-| 2 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
-| 3 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
-| 4 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
-| 5 | [#EmployeeAppreciationDay](http://twitter.com/search?q=%23EmployeeAppreciationDay) | N/A |
-| 6 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
-| 7 | [#BandcampFriday](http://twitter.com/search?q=%23BandcampFriday) | N/A |
-| 8 | [Walgreens](http://twitter.com/search?q=Walgreens) | N/A |
-| 9 | [Morgan Wallen](http://twitter.com/search?q=Morgan+Wallen) | N/A |
-| 10 | [#ToFOUReverlandWithTXT](http://twitter.com/search?q=%23ToFOUReverlandWithTXT) | N/A |
-| 11 | [Judge Newman](http://twitter.com/search?q=Judge+Newman) | N/A |
-| 12 | [De La Soul](http://twitter.com/search?q=De+La+Soul) | N/A |
-| 13 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 14 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 15 | [Alex Murdaugh](http://twitter.com/search?q=Alex+Murdaugh) | N/A |
-| 16 | [Dahm](http://twitter.com/search?q=Dahm) | N/A |
-| 17 | [Lemieux](http://twitter.com/search?q=Lemieux) | N/A |
-| 18 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
-| 19 | [Masego](http://twitter.com/search?q=Masego) | N/A |
-| 20 | [Vrana](http://twitter.com/search?q=Vrana) | Vrana is a Croatian word that means "crow" in English. |
-| 21 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 22 | [Happy Friyay](http://twitter.com/search?q=Happy+Friyay) | N/A |
-| 23 | [Melle Mel](http://twitter.com/search?q=Melle+Mel) | N/A |
-| 24 | [Curtis Lazar](http://twitter.com/search?q=Curtis+Lazar) | N/A |
-| 25 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
-| 26 | [Paris Davis](http://twitter.com/search?q=Paris+Davis) | N/A |
-| 27 | [ethan hawke](http://twitter.com/search?q=ethan+hawke) | N/A |
-| 28 | [Bonino](http://twitter.com/search?q=Bonino) | N/A |
-| 29 | [Eminem](http://twitter.com/search?q=Eminem) | N/A |
-| 30 | [ON SALE NOW](http://twitter.com/search?q=ON+SALE+NOW) | N/A |
-| 31 | [Medal of Honor](http://twitter.com/search?q=Medal+of+Honor) | N/A |
-| 32 | [Medvedev](http://twitter.com/search?q=Medvedev) | Medvedev is a Russian surname derived from the word medved, which means "bear". It is also the surname of Dmitry Medvedev, the current Prime Minister of Russia. In English, the name Medvedev can be translated to mean "son of the bear". |
-| 33 | [Lacey Evans](http://twitter.com/search?q=Lacey+Evans) | Lacey Evans is a professional wrestler currently signed to WWE. Her ring name is derived from her real name, Macey Estrella-Kadlec. The name "Lacey" is derived from the English word for a type of lace fabric, and "Evans" is a common Welsh surname. |
-| 34 | [Jack Cassidy](http://twitter.com/search?q=Jack+Cassidy) | N/A |
-| 35 | [Saban](http://twitter.com/search?q=Saban) | Saban is a Turkish name derived from the Arabic word for “wise” or “learned.” It is also used as a surname in some parts of the world. In English, Saban can be translated to mean “wise one” or “wise man.” |
-| 36 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
-| 37 | [4 YEARS WITH TXT](http://twitter.com/search?q=4+YEARS+WITH+TXT) | N/A |
-| 38 | [98 Braves](http://twitter.com/search?q=98+Braves) | N/A |
-| 39 | [Moonlighting](http://twitter.com/search?q=Moonlighting) | N/A |
-| 40 | [Richard Simmons](http://twitter.com/search?q=Richard+Simmons) | N/A |
-| 41 | [Kali Uchis](http://twitter.com/search?q=Kali+Uchis) | N/A |
-| 42 | [Stakes is High](http://twitter.com/search?q=Stakes+is+High) | N/A |
-| 43 | [Flex Friday](http://twitter.com/search?q=Flex+Friday) | N/A |
-| 44 | [UNC Asheville](http://twitter.com/search?q=UNC+Asheville) | N/A |
-| 45 | [3 Feet High and Rising](http://twitter.com/search?q=3+Feet+High+and+Rising) | N/A |
-| 46 | [Crunchyroll](http://twitter.com/search?q=Crunchyroll) | N/A |
-| 47 | [CJ Stroud](http://twitter.com/search?q=CJ+Stroud) | CJ Stroud is the name of an American football quarterback who currently plays for the Ohio State Buckeyes. He is known for his strong arm and accuracy, as well as his leadership skills. The name CJ Stroud is derived from his initials, C.J., and his last name, Stroud. |
-| 48 | [Andrew Luck](http://twitter.com/search?q=Andrew+Luck) | N/A |
-| 49 | [Jordan Addison](http://twitter.com/search?q=Jordan+Addison) | N/A |
+| 1 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 2 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
+| 3 | [#NICAR23](http://twitter.com/search?q=%23NICAR23) | N/A |
+| 4 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
+| 5 | [Wayne](http://twitter.com/search?q=Wayne) | Wayne is a masculine given name in English, derived from an Old English surname meaning "wagon maker" or "wagon driver". It is also used as a surname. |
+| 6 | [Creed III](http://twitter.com/search?q=Creed+III) | N/A |
+| 7 | [Maggie](http://twitter.com/search?q=Maggie) | N/A |
+| 8 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
+| 9 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 10 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
+| 11 | [#EmployeeAppreciationDay](http://twitter.com/search?q=%23EmployeeAppreciationDay) | N/A |
+| 12 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
+| 13 | [#BandcampFriday](http://twitter.com/search?q=%23BandcampFriday) | N/A |
+| 14 | [#WorldWildlifeDay](http://twitter.com/search?q=%23WorldWildlifeDay) | N/A |
+| 15 | [Walgreens](http://twitter.com/search?q=Walgreens) | N/A |
+| 16 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
+| 17 | [Morgan Wallen](http://twitter.com/search?q=Morgan+Wallen) | N/A |
+| 18 | [Lemieux](http://twitter.com/search?q=Lemieux) | N/A |
+| 19 | [De La Soul](http://twitter.com/search?q=De+La+Soul) | N/A |
+| 20 | [MIROTIC](http://twitter.com/search?q=MIROTIC) | N/A |
+| 21 | [Judge Newman](http://twitter.com/search?q=Judge+Newman) | N/A |
+| 22 | [Dahm](http://twitter.com/search?q=Dahm) | N/A |
+| 23 | [Paris Davis](http://twitter.com/search?q=Paris+Davis) | N/A |
+| 24 | [Medvedev](http://twitter.com/search?q=Medvedev) | Medvedev is a Russian surname derived from the word medved, which means "bear". It is also the surname of Dmitry Medvedev, the current Prime Minister of Russia. In English, the name Medvedev can be translated to mean "son of the bear". |
+| 25 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 26 | [Curtis Lazar](http://twitter.com/search?q=Curtis+Lazar) | N/A |
+| 27 | [Melle Mel](http://twitter.com/search?q=Melle+Mel) | N/A |
+| 28 | [HYPE BOY](http://twitter.com/search?q=HYPE+BOY) | HYPE BOY is a slang term used to describe someone who is very enthusiastic and supportive of something. It is often used to describe someone who is always trying to get people excited about something, or who is always talking up a particular person or event. |
+| 29 | [Medal of Honor](http://twitter.com/search?q=Medal+of+Honor) | N/A |
+| 30 | [Alex Murdaugh](http://twitter.com/search?q=Alex+Murdaugh) | N/A |
+| 31 | [Detective Pikachu](http://twitter.com/search?q=Detective+Pikachu) | N/A |
+| 32 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 33 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
+| 34 | [MacEwen](http://twitter.com/search?q=MacEwen) | N/A |
+| 35 | [Masego](http://twitter.com/search?q=Masego) | N/A |
+| 36 | [Happy Friyay](http://twitter.com/search?q=Happy+Friyay) | N/A |
+| 37 | [Eminem](http://twitter.com/search?q=Eminem) | N/A |
+| 38 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 39 | [Lacey Evans](http://twitter.com/search?q=Lacey+Evans) | Lacey Evans is a professional wrestler currently signed to WWE. Her ring name is derived from her real name, Macey Estrella-Kadlec. The name "Lacey" is derived from the English word for a type of lace fabric, and "Evans" is a common Welsh surname. |
+| 40 | [Slinky](http://twitter.com/search?q=Slinky) | N/A |
+| 41 | [Bonino](http://twitter.com/search?q=Bonino) | N/A |
+| 42 | [BRUNO MARS](http://twitter.com/search?q=BRUNO+MARS) | N/A |
+| 43 | [ON SALE NOW](http://twitter.com/search?q=ON+SALE+NOW) | N/A |
+| 44 | [Carew](http://twitter.com/search?q=Carew) | N/A |
+| 45 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
+| 46 | [98 Braves](http://twitter.com/search?q=98+Braves) | N/A |
+| 47 | [Ethan Hawke](http://twitter.com/search?q=Ethan+Hawke) | N/A |
+| 48 | [4 YEARS WITH TXT](http://twitter.com/search?q=4+YEARS+WITH+TXT) | N/A |
+| 49 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
+| 50 | [Saban](http://twitter.com/search?q=Saban) | Saban is a Turkish name derived from the Arabic word for “wise” or “learned.” It is also used as a surname in some parts of the world. In English, Saban can be translated to mean “wise one” or “wise man.” |
 
 
 

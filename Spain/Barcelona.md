@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barcelona
 
-📆 Last Updated: `2023-03-03 17:18:50 UTC`
+📆 Last Updated: `2023-03-03 18:17:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Holanda](http://twitter.com/search?q=Holanda) | N/A |
-| 2 | [Iván](http://twitter.com/search?q=Iv%c3%a1n) | N/A |
-| 3 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 4 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 1 | [Iván](http://twitter.com/search?q=Iv%c3%a1n) | N/A |
+| 2 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 3 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 4 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 5 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
 | 6 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
-| 7 | [Libres 2](http://twitter.com/search?q=Libres+2) | N/A |
-| 8 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
-| 9 | [Nano](http://twitter.com/search?q=Nano) | N/A |
-| 10 | [Dan Fallows](http://twitter.com/search?q=Dan+Fallows) | N/A |
-| 11 | [Lobato](http://twitter.com/search?q=Lobato) | N/A |
-| 12 | [#BahreinDAZNF1](http://twitter.com/search?q=%23BahreinDAZNF1) | N/A |
-| 13 | [#F1DAZN](http://twitter.com/search?q=%23F1DAZN) | N/A |
+| 7 | [Lobi](http://twitter.com/search?q=Lobi) | N/A |
+| 8 | [Nano](http://twitter.com/search?q=Nano) | N/A |
+| 9 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
+| 10 | [Lobato](http://twitter.com/search?q=Lobato) | N/A |
+| 11 | [Libres 2](http://twitter.com/search?q=Libres+2) | N/A |
+| 12 | [#GOATXDISNEY](http://twitter.com/search?q=%23GOATXDISNEY) | N/A |
+| 13 | [Dan Fallows](http://twitter.com/search?q=Dan+Fallows) | N/A |
 | 14 | [LO VA A HACER](http://twitter.com/search?q=LO+VA+A+HACER) | N/A |
-| 15 | [Lobi](http://twitter.com/search?q=Lobi) | N/A |
-| 16 | [#GPBahrein](http://twitter.com/search?q=%23GPBahrein) | N/A |
-| 17 | [ESTÁN PASANDO COSAS](http://twitter.com/search?q=EST%c3%81N+PASANDO+COSAS) | N/A |
-| 18 | [#PecadoOriginal3Mar](http://twitter.com/search?q=%23PecadoOriginal3Mar) | N/A |
-| 19 | [Alpine](http://twitter.com/search?q=Alpine) | N/A |
-| 20 | [Alberto Casero](http://twitter.com/search?q=Alberto+Casero) | N/A |
-| 21 | [La 33](http://twitter.com/search?q=La+33) | N/A |
-| 22 | [Alana](http://twitter.com/search?q=Alana) | N/A |
+| 15 | [#GPBahrein](http://twitter.com/search?q=%23GPBahrein) | N/A |
+| 16 | [#PecadoOriginal3Mar](http://twitter.com/search?q=%23PecadoOriginal3Mar) | N/A |
+| 17 | [#BahreinDAZNF1](http://twitter.com/search?q=%23BahreinDAZNF1) | N/A |
+| 18 | [Shingeki](http://twitter.com/search?q=Shingeki) | Shingeki is a Japanese word that translates to "advancement" or "onslaught" in English. It is often used to refer to a sudden, large-scale attack or invasion. |
+| 19 | [ESTÁN PASANDO COSAS](http://twitter.com/search?q=EST%c3%81N+PASANDO+COSAS) | N/A |
+| 20 | [Djokovic](http://twitter.com/search?q=Djokovic) | Djokovic is a surname of Serbian origin. It is derived from the given name Djoko, which is a diminutive of the name Jovan (John). The meaning of Djokovic in English is "son of John". |
+| 21 | [Alpine](http://twitter.com/search?q=Alpine) | N/A |
+| 22 | [Alberto Casero](http://twitter.com/search?q=Alberto+Casero) | N/A |
 | 23 | [Brawn GP](http://twitter.com/search?q=Brawn+GP) | N/A |
-| 24 | [Pérez](http://twitter.com/search?q=P%c3%a9rez) | N/A |
-| 25 | [Qualy](http://twitter.com/search?q=Qualy) | N/A |
-| 26 | [RedBull](http://twitter.com/search?q=RedBull) | N/A |
-| 27 | [Naranjo](http://twitter.com/search?q=Naranjo) | N/A |
-| 28 | [Papu](http://twitter.com/search?q=Papu) | N/A |
-| 29 | [Trujillo](http://twitter.com/search?q=Trujillo) | N/A |
-| 30 | [Patria](http://twitter.com/search?q=Patria) | N/A |
-| 31 | [El Plan](http://twitter.com/search?q=El+Plan) | N/A |
-| 32 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 33 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 34 | [ES ROJA](http://twitter.com/search?q=ES+ROJA) | N/A |
-| 35 | [LA MISIÓN](http://twitter.com/search?q=LA+MISI%c3%93N) | N/A |
-| 36 | [Eder](http://twitter.com/search?q=Eder) | N/A |
-| 37 | [Salvador](http://twitter.com/search?q=Salvador) | N/A |
-| 38 | [Chimy Ávila](http://twitter.com/search?q=Chimy+%c3%81vila) | Chimy Ávila is a Mexican singer and songwriter. His name is a combination of his two first names, Chimy and Ávila. The English translation of his name would be "Chimy Avila". |
-| 39 | [Alfredo Landa](http://twitter.com/search?q=Alfredo+Landa) | N/A |
-| 40 | [El Supremo](http://twitter.com/search?q=El+Supremo) | N/A |
-| 41 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
-| 42 | [Del Pino](http://twitter.com/search?q=Del+Pino) | N/A |
-| 43 | [Castellano](http://twitter.com/search?q=Castellano) | N/A |
-| 44 | [Doñana](http://twitter.com/search?q=Do%c3%b1ana) | N/A |
-| 45 | [Zendal](http://twitter.com/search?q=Zendal) | N/A |
-| 46 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
-| 47 | [Metallica](http://twitter.com/search?q=Metallica) | N/A |
-| 48 | [EXPLICA TU TWITTER](http://twitter.com/search?q=EXPLICA+TU+TWITTER) | N/A |
-| 49 | [Catalán](http://twitter.com/search?q=Catal%c3%a1n) | N/A |
-| 50 | [Achraf Hakimi](http://twitter.com/search?q=Achraf+Hakimi) | N/A |
+| 24 | [Medvedev](http://twitter.com/search?q=Medvedev) | Medvedev is a Russian surname derived from the word medved, which means "bear". It is also the surname of Dmitry Medvedev, the current Prime Minister of Russia. In English, the name Medvedev can be translated to mean "son of the bear". |
+| 25 | [La 33](http://twitter.com/search?q=La+33) | N/A |
+| 26 | [Alana](http://twitter.com/search?q=Alana) | N/A |
+| 27 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 28 | [Vettel](http://twitter.com/search?q=Vettel) | N/A |
+| 29 | [Pérez](http://twitter.com/search?q=P%c3%a9rez) | N/A |
+| 30 | [Olivenza](http://twitter.com/search?q=Olivenza) | N/A |
+| 31 | [Trujillo](http://twitter.com/search?q=Trujillo) | N/A |
+| 32 | [Naranjo](http://twitter.com/search?q=Naranjo) | N/A |
+| 33 | [Qualy](http://twitter.com/search?q=Qualy) | N/A |
+| 34 | [Crunchyroll](http://twitter.com/search?q=Crunchyroll) | N/A |
+| 35 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 36 | [Papu](http://twitter.com/search?q=Papu) | N/A |
+| 37 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 38 | [La Misión](http://twitter.com/search?q=La+Misi%c3%b3n) | N/A |
+| 39 | [Patria](http://twitter.com/search?q=Patria) | N/A |
+| 40 | [El Plan](http://twitter.com/search?q=El+Plan) | N/A |
+| 41 | [ES ROJA](http://twitter.com/search?q=ES+ROJA) | N/A |
+| 42 | [Alfredo Landa](http://twitter.com/search?q=Alfredo+Landa) | N/A |
+| 43 | [Salvador](http://twitter.com/search?q=Salvador) | N/A |
+| 44 | [Chimy Ávila](http://twitter.com/search?q=Chimy+%c3%81vila) | Chimy Ávila is a Mexican singer and songwriter. His name is a combination of his two first names, Chimy and Ávila. The English translation of his name would be "Chimy Avila". |
+| 45 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 46 | [Eder](http://twitter.com/search?q=Eder) | N/A |
+| 47 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 48 | [Renault](http://twitter.com/search?q=Renault) | N/A |
+| 49 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 50 | [El Supremo](http://twitter.com/search?q=El+Supremo) | N/A |
 
 
 

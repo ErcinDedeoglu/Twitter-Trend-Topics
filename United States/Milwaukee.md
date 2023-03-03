@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Milwaukee
 
-📆 Last Updated: `2023-03-03 17:19:15 UTC`
+📆 Last Updated: `2023-03-03 18:18:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Badgers](http://twitter.com/search?q=%23Badgers) | N/A |
-| 2 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
-| 3 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
-| 4 | [#EmployeeAppreciationDay](http://twitter.com/search?q=%23EmployeeAppreciationDay) | N/A |
-| 5 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
-| 6 | [#BandcampFriday](http://twitter.com/search?q=%23BandcampFriday) | N/A |
-| 7 | [Walgreens](http://twitter.com/search?q=Walgreens) | N/A |
-| 8 | [Morgan Wallen](http://twitter.com/search?q=Morgan+Wallen) | N/A |
-| 9 | [Judge Newman](http://twitter.com/search?q=Judge+Newman) | N/A |
-| 10 | [De La Soul](http://twitter.com/search?q=De+La+Soul) | N/A |
-| 11 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 12 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 13 | [Alex Murdaugh](http://twitter.com/search?q=Alex+Murdaugh) | N/A |
-| 14 | [Dahm](http://twitter.com/search?q=Dahm) | N/A |
-| 15 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 16 | [Masego](http://twitter.com/search?q=Masego) | N/A |
-| 17 | [Vrana](http://twitter.com/search?q=Vrana) | Vrana is a Croatian word that means "crow" in English. |
-| 18 | [Lemieux](http://twitter.com/search?q=Lemieux) | N/A |
-| 19 | [Happy Friyay](http://twitter.com/search?q=Happy+Friyay) | N/A |
-| 20 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
-| 21 | [Melle Mel](http://twitter.com/search?q=Melle+Mel) | N/A |
-| 22 | [Curtis Lazar](http://twitter.com/search?q=Curtis+Lazar) | N/A |
-| 23 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
-| 24 | [Paris Davis](http://twitter.com/search?q=Paris+Davis) | N/A |
-| 25 | [ethan hawke](http://twitter.com/search?q=ethan+hawke) | N/A |
-| 26 | [Bonino](http://twitter.com/search?q=Bonino) | N/A |
-| 27 | [Eminem](http://twitter.com/search?q=Eminem) | N/A |
-| 28 | [ON SALE NOW](http://twitter.com/search?q=ON+SALE+NOW) | N/A |
-| 29 | [Medal of Honor](http://twitter.com/search?q=Medal+of+Honor) | N/A |
-| 30 | [Lacey Evans](http://twitter.com/search?q=Lacey+Evans) | Lacey Evans is a professional wrestler currently signed to WWE. Her ring name is derived from her real name, Macey Estrella-Kadlec. The name "Lacey" is derived from the English word for a type of lace fabric, and "Evans" is a common Welsh surname. |
-| 31 | [Jack Cassidy](http://twitter.com/search?q=Jack+Cassidy) | N/A |
-| 32 | [Saban](http://twitter.com/search?q=Saban) | Saban is a Turkish name derived from the Arabic word for “wise” or “learned.” It is also used as a surname in some parts of the world. In English, Saban can be translated to mean “wise one” or “wise man.” |
-| 33 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
-| 34 | [98 Braves](http://twitter.com/search?q=98+Braves) | N/A |
-| 35 | [4 YEARS WITH TXT](http://twitter.com/search?q=4+YEARS+WITH+TXT) | N/A |
-| 36 | [Moonlighting](http://twitter.com/search?q=Moonlighting) | N/A |
-| 37 | [Richard Simmons](http://twitter.com/search?q=Richard+Simmons) | N/A |
-| 38 | [Kali Uchis](http://twitter.com/search?q=Kali+Uchis) | N/A |
-| 39 | [Stakes is High](http://twitter.com/search?q=Stakes+is+High) | N/A |
-| 40 | [Flex Friday](http://twitter.com/search?q=Flex+Friday) | N/A |
-| 41 | [UNC Asheville](http://twitter.com/search?q=UNC+Asheville) | N/A |
-| 42 | [Medvedev](http://twitter.com/search?q=Medvedev) | Medvedev is a Russian surname derived from the word medved, which means "bear". It is also the surname of Dmitry Medvedev, the current Prime Minister of Russia. In English, the name Medvedev can be translated to mean "son of the bear". |
-| 43 | [3 Feet High and Rising](http://twitter.com/search?q=3+Feet+High+and+Rising) | N/A |
-| 44 | [Crunchyroll](http://twitter.com/search?q=Crunchyroll) | N/A |
-| 45 | [Andrew Luck](http://twitter.com/search?q=Andrew+Luck) | N/A |
-| 46 | [CJ Stroud](http://twitter.com/search?q=CJ+Stroud) | CJ Stroud is the name of an American football quarterback who currently plays for the Ohio State Buckeyes. He is known for his strong arm and accuracy, as well as his leadership skills. The name CJ Stroud is derived from his initials, C.J., and his last name, Stroud. |
-| 47 | [Jordan Addison](http://twitter.com/search?q=Jordan+Addison) | N/A |
-| 48 | [Kimmel](http://twitter.com/search?q=Kimmel) | N/A |
+| 1 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
+| 2 | [Badgers](http://twitter.com/search?q=Badgers) | N/A |
+| 3 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
+| 4 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 5 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
+| 6 | [#EmployeeAppreciationDay](http://twitter.com/search?q=%23EmployeeAppreciationDay) | N/A |
+| 7 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
+| 8 | [#BandcampFriday](http://twitter.com/search?q=%23BandcampFriday) | N/A |
+| 9 | [#WorldWildlifeDay](http://twitter.com/search?q=%23WorldWildlifeDay) | N/A |
+| 10 | [Walgreens](http://twitter.com/search?q=Walgreens) | N/A |
+| 11 | [Morgan Wallen](http://twitter.com/search?q=Morgan+Wallen) | N/A |
+| 12 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
+| 13 | [Lemieux](http://twitter.com/search?q=Lemieux) | N/A |
+| 14 | [De La Soul](http://twitter.com/search?q=De+La+Soul) | N/A |
+| 15 | [MIROTIC](http://twitter.com/search?q=MIROTIC) | N/A |
+| 16 | [Judge Newman](http://twitter.com/search?q=Judge+Newman) | N/A |
+| 17 | [Dahm](http://twitter.com/search?q=Dahm) | N/A |
+| 18 | [Medvedev](http://twitter.com/search?q=Medvedev) | Medvedev is a Russian surname derived from the word medved, which means "bear". It is also the surname of Dmitry Medvedev, the current Prime Minister of Russia. In English, the name Medvedev can be translated to mean "son of the bear". |
+| 19 | [Paris Davis](http://twitter.com/search?q=Paris+Davis) | N/A |
+| 20 | [Curtis Lazar](http://twitter.com/search?q=Curtis+Lazar) | N/A |
+| 21 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 22 | [Melle Mel](http://twitter.com/search?q=Melle+Mel) | N/A |
+| 23 | [HYPE BOY](http://twitter.com/search?q=HYPE+BOY) | HYPE BOY is a slang term used to describe someone who is very enthusiastic and supportive of something. It is often used to describe someone who is always trying to get people excited about something, or who is always talking up a particular person or event. |
+| 24 | [Medal of Honor](http://twitter.com/search?q=Medal+of+Honor) | N/A |
+| 25 | [Alex Murdaugh](http://twitter.com/search?q=Alex+Murdaugh) | N/A |
+| 26 | [MacEwen](http://twitter.com/search?q=MacEwen) | N/A |
+| 27 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 28 | [Detective Pikachu](http://twitter.com/search?q=Detective+Pikachu) | N/A |
+| 29 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
+| 30 | [Happy Friyay](http://twitter.com/search?q=Happy+Friyay) | N/A |
+| 31 | [Masego](http://twitter.com/search?q=Masego) | N/A |
+| 32 | [Eminem](http://twitter.com/search?q=Eminem) | N/A |
+| 33 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 34 | [Lacey Evans](http://twitter.com/search?q=Lacey+Evans) | Lacey Evans is a professional wrestler currently signed to WWE. Her ring name is derived from her real name, Macey Estrella-Kadlec. The name "Lacey" is derived from the English word for a type of lace fabric, and "Evans" is a common Welsh surname. |
+| 35 | [Slinky](http://twitter.com/search?q=Slinky) | N/A |
+| 36 | [Bonino](http://twitter.com/search?q=Bonino) | N/A |
+| 37 | [BRUNO MARS](http://twitter.com/search?q=BRUNO+MARS) | N/A |
+| 38 | [ON SALE NOW](http://twitter.com/search?q=ON+SALE+NOW) | N/A |
+| 39 | [Carew](http://twitter.com/search?q=Carew) | N/A |
+| 40 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
+| 41 | [Vrana](http://twitter.com/search?q=Vrana) | Vrana is a Croatian word that means "crow" in English. |
+| 42 | [98 Braves](http://twitter.com/search?q=98+Braves) | N/A |
+| 43 | [Vick](http://twitter.com/search?q=Vick) | N/A |
+| 44 | [Ethan Hawke](http://twitter.com/search?q=Ethan+Hawke) | N/A |
+| 45 | [4 YEARS WITH TXT](http://twitter.com/search?q=4+YEARS+WITH+TXT) | N/A |
+| 46 | [Saban](http://twitter.com/search?q=Saban) | Saban is a Turkish name derived from the Arabic word for “wise” or “learned.” It is also used as a surname in some parts of the world. In English, Saban can be translated to mean “wise one” or “wise man.” |
+| 47 | [Moonlighting](http://twitter.com/search?q=Moonlighting) | N/A |
+| 48 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
 
 
 
