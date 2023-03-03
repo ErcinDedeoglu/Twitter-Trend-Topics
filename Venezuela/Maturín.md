@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Maturín
 
-📆 Last Updated: `2023-03-02 23:16:21 UTC`
+📆 Last Updated: `2023-03-03 02:08:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Venezuela](</Venezuela>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#2Mar](http://twitter.com/search?q=%232Mar) | N/A |
-| 2 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 3 | [#ProducirEsIndependencia](http://twitter.com/search?q=%23ProducirEsIndependencia) | N/A |
-| 4 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 5 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
-| 6 | [Palmeritas](http://twitter.com/search?q=Palmeritas) | N/A |
-| 7 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 8 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 9 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 10 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
-| 11 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 12 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
-| 13 | [Jong](http://twitter.com/search?q=Jong) | N/A |
-| 14 | [Bernabéu](http://twitter.com/search?q=Bernab%c3%a9u) | Bernabéu is the name of the home stadium of Spanish football club Real Madrid. It is officially known as Estadio Santiago Bernabéu, named after the former club president Santiago Bernabéu. In English, it is referred to as the Santiago Bernabéu Stadium. |
-| 15 | [Petro](http://twitter.com/search?q=Petro) | N/A |
-| 16 | [#CopaDelRey](http://twitter.com/search?q=%23CopaDelRey) | #CopaDelRey is the Spanish Cup, an annual football tournament in Spain. In English, it translates to "King's Cup". |
-| 17 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
-| 18 | [#2023DeVueltaAlCampo](http://twitter.com/search?q=%232023DeVueltaAlCampo) | N/A |
-| 19 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
-| 20 | [#UniónFuerzaYCooperación](http://twitter.com/search?q=%23Uni%c3%b3nFuerzaYCooperaci%c3%b3n) | N/A |
-| 21 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 22 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
-| 23 | [Panza](http://twitter.com/search?q=Panza) | N/A |
-| 24 | [Capriles](http://twitter.com/search?q=Capriles) | N/A |
-| 25 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
-| 26 | [Miguel Rojas](http://twitter.com/search?q=Miguel+Rojas) | Miguel Rojas is a Spanish name. It is composed of the given name Miguel, which is derived from the Hebrew name Michael, meaning "who is like God," and the surname Rojas, which means "red." |
-| 27 | [Dembele](http://twitter.com/search?q=Dembele) | Dembele is a surname of West African origin. It is derived from the Mande language and means "peaceful warrior". In English, it can be translated to mean "one who brings peace through strength". |
-| 28 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
-| 29 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
-| 30 | [Militao](http://twitter.com/search?q=Militao) | Militão is a Portuguese name derived from the Latin word militare, meaning “to serve in the military”. In English, it can be translated to mean “soldier” or “warrior”. |
+| 2 | [#ProducirEsIndependencia](http://twitter.com/search?q=%23ProducirEsIndependencia) | N/A |
+| 3 | [Palmeritas](http://twitter.com/search?q=Palmeritas) | N/A |
+| 4 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 5 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
+| 6 | [Petro](http://twitter.com/search?q=Petro) | N/A |
+| 7 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 8 | [#CopaDelRey](http://twitter.com/search?q=%23CopaDelRey) | #CopaDelRey is the Spanish Cup, an annual football tournament in Spain. In English, it translates to "King's Cup". |
+| 9 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
+| 10 | [Miguel Rojas](http://twitter.com/search?q=Miguel+Rojas) | Miguel Rojas is a Spanish name. It is composed of the given name Miguel, which is derived from the Hebrew name Michael, meaning "who is like God," and the surname Rojas, which means "red." |
+| 11 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 12 | [Panza](http://twitter.com/search?q=Panza) | N/A |
+| 13 | [#PlanProsperi](http://twitter.com/search?q=%23PlanProsperi) | N/A |
+| 14 | [#ElClasico](http://twitter.com/search?q=%23ElClasico) | #ElClasico is a term used to refer to the football (soccer) match between two of the biggest clubs in Spain, Real Madrid and FC Barcelona. It is one of the most highly anticipated matches in world football and is considered to be one of the greatest rivalries in sport. In English, it translates to "The Classic". |
+| 15 | [Boris](http://twitter.com/search?q=Boris) | N/A |
+| 16 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
+| 17 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 18 | [Capriles](http://twitter.com/search?q=Capriles) | N/A |
+| 19 | [Fernando Aristeguieta](http://twitter.com/search?q=Fernando+Aristeguieta) | N/A |
+| 20 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 21 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
+| 22 | [Bernabéu](http://twitter.com/search?q=Bernab%c3%a9u) | Bernabéu is the name of the home stadium of Spanish football club Real Madrid. It is officially known as Estadio Santiago Bernabéu, named after the former club president Santiago Bernabéu. In English, it is referred to as the Santiago Bernabéu Stadium. |
+| 23 | [Judith Castillo](http://twitter.com/search?q=Judith+Castillo) | N/A |
+| 24 | [Chivacoa](http://twitter.com/search?q=Chivacoa) | N/A |
+| 25 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
+| 26 | [De Jong](http://twitter.com/search?q=De+Jong) | De Jong is a Dutch surname. It is derived from the personal name Jan, which is a form of John. The literal meaning of the name in English is "son of John". |
+| 27 | [Gualberto Ibarreto](http://twitter.com/search?q=Gualberto+Ibarreto) | N/A |
+| 28 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
+| 29 | [Hernán Pérez](http://twitter.com/search?q=Hern%c3%a1n+P%c3%a9rez) | N/A |
+| 30 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
 | 31 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
-| 32 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
-| 33 | [Chivacoa](http://twitter.com/search?q=Chivacoa) | N/A |
-| 34 | [Álvaro](http://twitter.com/search?q=%c3%81lvaro) | N/A |
-| 35 | [Carabobo](http://twitter.com/search?q=Carabobo) | Carabobo is a state in Venezuela. Its name is derived from the Carabobo tribe, which inhabited the area before the Spanish colonization of the Americas. In English, it means "Valley of the Brave". |
-| 36 | [Venus y Júpiter](http://twitter.com/search?q=Venus+y+J%c3%bapiter) | N/A |
-| 37 | [Boris](http://twitter.com/search?q=Boris) | N/A |
-| 38 | [Primero Justicia](http://twitter.com/search?q=Primero+Justicia) | N/A |
-| 39 | [Machu Picchu](http://twitter.com/search?q=Machu+Picchu) | N/A |
-| 40 | [Marcos Alonso](http://twitter.com/search?q=Marcos+Alonso) | Marcos Alonso is a Spanish professional footballer who plays as a left back for Premier League club Chelsea and the Spanish national team. His name is derived from the Spanish words "mar" (sea) and "cos" (order). In English, his name translates to "ordered sea". |
-| 41 | [Kounde](http://twitter.com/search?q=Kounde) | Kounde is a surname of African origin. It is derived from the Yoruba language and means “born on a Monday”. |
-| 42 | [El Libro](http://twitter.com/search?q=El+Libro) | N/A |
-| 43 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
-| 44 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
-| 45 | [Quaker](http://twitter.com/search?q=Quaker) | N/A |
-| 46 | [Ray Charles](http://twitter.com/search?q=Ray+Charles) | N/A |
-| 47 | [Mondongo](http://twitter.com/search?q=Mondongo) | N/A |
-| 48 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 49 | [Pilón](http://twitter.com/search?q=Pil%c3%b3n) | N/A |
-| 50 | [Granada](http://twitter.com/search?q=Granada) | N/A |
+| 32 | [Carabobo](http://twitter.com/search?q=Carabobo) | Carabobo is a state in Venezuela. Its name is derived from the Carabobo tribe, which inhabited the area before the Spanish colonization of the Americas. In English, it means "Valley of the Brave". |
+| 33 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 34 | [Colorado](http://twitter.com/search?q=Colorado) | N/A |
+| 35 | [Venus y Júpiter](http://twitter.com/search?q=Venus+y+J%c3%bapiter) | N/A |
+| 36 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
+| 37 | [Machu Picchu](http://twitter.com/search?q=Machu+Picchu) | N/A |
+| 38 | [El Libro](http://twitter.com/search?q=El+Libro) | N/A |
+| 39 | [Primero Justicia](http://twitter.com/search?q=Primero+Justicia) | N/A |
+| 40 | [Mondongo](http://twitter.com/search?q=Mondongo) | N/A |
+| 41 | [Coquitos](http://twitter.com/search?q=Coquitos) | N/A |
+| 42 | [Militao](http://twitter.com/search?q=Militao) | Militão is a Portuguese name derived from the Latin word militare, meaning “to serve in the military”. In English, it can be translated to mean “soldier” or “warrior”. |
+| 43 | [Fedra López](http://twitter.com/search?q=Fedra+L%c3%b3pez) | N/A |
+| 44 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
+| 45 | [Chachopo](http://twitter.com/search?q=Chachopo) | N/A |
+| 46 | [Granada](http://twitter.com/search?q=Granada) | N/A |
+| 47 | [Caracas FC](http://twitter.com/search?q=Caracas+FC) | N/A |
+| 48 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
+| 49 | [Lucy](http://twitter.com/search?q=Lucy) | N/A |
+| 50 | [Pilón](http://twitter.com/search?q=Pil%c3%b3n) | N/A |
 
 
 

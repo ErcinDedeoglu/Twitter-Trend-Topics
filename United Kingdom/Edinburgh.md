@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Edinburgh
 
-📆 Last Updated: `2023-03-02 23:16:11 UTC`
+📆 Last Updated: `2023-03-03 02:08:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#WorldBookDay2023](http://twitter.com/search?q=%23WorldBookDay2023) | N/A |
-| 2 | [#TheApprentice](http://twitter.com/search?q=%23TheApprentice) | #TheApprentice is a reality television show created by Mark Burnett, in which a group of aspiring businesspeople compete for a job with a successful business executive. The show has been running since 2004 and has aired in many countries around the world. The show's title refers to the contestants being "apprentices" to the executive, learning from them and competing against each other for the job. |
-| 3 | [#bbcqt](http://twitter.com/search?q=%23bbcqt) | #bbcqt is a hashtag used on Twitter to refer to the BBC's political discussion show, Question Time. It stands for "BBC Question Time". |
-| 4 | [Sue Gray](http://twitter.com/search?q=Sue+Gray) | N/A |
-| 5 | [Tom Harwood](http://twitter.com/search?q=Tom+Harwood) | N/A |
-| 6 | [Bradley](http://twitter.com/search?q=Bradley) | N/A |
-| 7 | [#SLWarSal](http://twitter.com/search?q=%23SLWarSal) | N/A |
-| 8 | [Rochelle](http://twitter.com/search?q=Rochelle) | N/A |
-| 9 | [#dragonsden](http://twitter.com/search?q=%23dragonsden) | N/A |
-| 10 | [Salford](http://twitter.com/search?q=Salford) | N/A |
-| 11 | [Lord Sugar](http://twitter.com/search?q=Lord+Sugar) | N/A |
-| 12 | [Jack Smith](http://twitter.com/search?q=Jack+Smith) | N/A |
-| 13 | [Simon Case](http://twitter.com/search?q=Simon+Case) | N/A |
-| 14 | [Venom](http://twitter.com/search?q=Venom) | N/A |
-| 15 | [Simba](http://twitter.com/search?q=Simba) | N/A |
-| 16 | [Warrington](http://twitter.com/search?q=Warrington) | N/A |
-| 17 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
-| 18 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
-| 19 | [Partygate](http://twitter.com/search?q=Partygate) | N/A |
-| 20 | [Wire](http://twitter.com/search?q=Wire) | N/A |
-| 21 | [Olivia and Claudia](http://twitter.com/search?q=Olivia+and+Claudia) | N/A |
-| 22 | [Fati](http://twitter.com/search?q=Fati) | N/A |
-| 23 | [Marnie](http://twitter.com/search?q=Marnie) | N/A |
-| 24 | [Jon Rahm](http://twitter.com/search?q=Jon+Rahm) | N/A |
-| 25 | [Civil Service](http://twitter.com/search?q=Civil+Service) | N/A |
-| 26 | [David Frost](http://twitter.com/search?q=David+Frost) | N/A |
-| 27 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
-| 28 | [Venus and Jupiter](http://twitter.com/search?q=Venus+and+Jupiter) | N/A |
-| 29 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 30 | [Shaq and Tanya](http://twitter.com/search?q=Shaq+and+Tanya) | N/A |
-| 31 | [Strange New Worlds](http://twitter.com/search?q=Strange+New+Worlds) | N/A |
-| 32 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
-| 33 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
-| 34 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 35 | [Claudia and Olivia](http://twitter.com/search?q=Claudia+and+Olivia) | N/A |
-| 36 | [Toms](http://twitter.com/search?q=Toms) | N/A |
-| 37 | [Keenan](http://twitter.com/search?q=Keenan) | N/A |
-| 38 | [Weather Report](http://twitter.com/search?q=Weather+Report) | N/A |
-| 39 | [Swinney](http://twitter.com/search?q=Swinney) | N/A |
-| 40 | [Steve Mackey](http://twitter.com/search?q=Steve+Mackey) | N/A |
-| 41 | [Shelagh](http://twitter.com/search?q=Shelagh) | N/A |
-| 42 | [Alex Salmond](http://twitter.com/search?q=Alex+Salmond) | N/A |
-| 43 | [Clint](http://twitter.com/search?q=Clint) | N/A |
-| 44 | [Downing Street](http://twitter.com/search?q=Downing+Street) | N/A |
-| 45 | [Pulp](http://twitter.com/search?q=Pulp) | N/A |
-| 46 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
-| 47 | [Lord Frost](http://twitter.com/search?q=Lord+Frost) | N/A |
-| 48 | [Elaine](http://twitter.com/search?q=Elaine) | N/A |
-| 49 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
-| 50 | [Tanya and Shaq](http://twitter.com/search?q=Tanya+and+Shaq) | N/A |
+| 1 | [#WorldBookDay](http://twitter.com/search?q=%23WorldBookDay) | N/A |
+| 2 | [#bbcqt](http://twitter.com/search?q=%23bbcqt) | #bbcqt is a hashtag used on Twitter to refer to the BBC's political discussion show, Question Time. It stands for "BBC Question Time". |
+| 3 | [#TheApprentice](http://twitter.com/search?q=%23TheApprentice) | #TheApprentice is a reality television show created by Mark Burnett, in which a group of aspiring businesspeople compete for a job with a successful business executive. The show has been running since 2004 and has aired in many countries around the world. The show's title refers to the contestants being "apprentices" to the executive, learning from them and competing against each other for the job. |
+| 4 | [Tom Harwood](http://twitter.com/search?q=Tom+Harwood) | N/A |
+| 5 | [Sue Gray](http://twitter.com/search?q=Sue+Gray) | N/A |
+| 6 | [#Station19](http://twitter.com/search?q=%23Station19) | N/A |
+| 7 | [#mimiwebb](http://twitter.com/search?q=%23mimiwebb) | N/A |
+| 8 | [Fiona Bruce](http://twitter.com/search?q=Fiona+Bruce) | N/A |
+| 9 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 10 | [Bradley](http://twitter.com/search?q=Bradley) | N/A |
+| 11 | [Simon Case](http://twitter.com/search?q=Simon+Case) | N/A |
+| 12 | [Boris](http://twitter.com/search?q=Boris) | N/A |
+| 13 | [Rochelle](http://twitter.com/search?q=Rochelle) | N/A |
+| 14 | [Lord Sugar](http://twitter.com/search?q=Lord+Sugar) | N/A |
+| 15 | [Partygate](http://twitter.com/search?q=Partygate) | N/A |
+| 16 | [Simba](http://twitter.com/search?q=Simba) | N/A |
+| 17 | [Salford](http://twitter.com/search?q=Salford) | N/A |
+| 18 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
+| 19 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
+| 20 | [Jack Smith](http://twitter.com/search?q=Jack+Smith) | N/A |
+| 21 | [David Frost](http://twitter.com/search?q=David+Frost) | N/A |
+| 22 | [Venom](http://twitter.com/search?q=Venom) | N/A |
+| 23 | [Warrington](http://twitter.com/search?q=Warrington) | N/A |
+| 24 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 25 | [Roofe](http://twitter.com/search?q=Roofe) | Roofe is a slang term used to describe someone who is attractive or good-looking. It is derived from the phrase "hot off the roofe," which means something that is very desirable. |
+| 26 | [Civil Service](http://twitter.com/search?q=Civil+Service) | N/A |
+| 27 | [Venus and Jupiter](http://twitter.com/search?q=Venus+and+Jupiter) | N/A |
+| 28 | [Lord Frost](http://twitter.com/search?q=Lord+Frost) | N/A |
+| 29 | [Marnie](http://twitter.com/search?q=Marnie) | N/A |
+| 30 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
+| 31 | [ABBA](http://twitter.com/search?q=ABBA) | N/A |
+| 32 | [Salmond](http://twitter.com/search?q=Salmond) | N/A |
+| 33 | [Downing Street](http://twitter.com/search?q=Downing+Street) | N/A |
+| 34 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
+| 35 | [Shaq and Tanya](http://twitter.com/search?q=Shaq+and+Tanya) | N/A |
+| 36 | [Steve Mackey](http://twitter.com/search?q=Steve+Mackey) | N/A |
+| 37 | [Shelagh](http://twitter.com/search?q=Shelagh) | N/A |
+| 38 | [Keenan](http://twitter.com/search?q=Keenan) | N/A |
+| 39 | [Madison](http://twitter.com/search?q=Madison) | N/A |
+| 40 | [Dani](http://twitter.com/search?q=Dani) | N/A |
+| 41 | [Wo Long](http://twitter.com/search?q=Wo+Long) | N/A |
+| 42 | [Uxbridge](http://twitter.com/search?q=Uxbridge) | N/A |
+| 43 | [Nadine Dorries](http://twitter.com/search?q=Nadine+Dorries) | N/A |
+| 44 | [Pulp](http://twitter.com/search?q=Pulp) | N/A |
+| 45 | [Mogg](http://twitter.com/search?q=Mogg) | N/A |
+| 46 | [Elaine](http://twitter.com/search?q=Elaine) | N/A |
+| 47 | [Bojo](http://twitter.com/search?q=Bojo) | N/A |
+| 48 | [Whitehall](http://twitter.com/search?q=Whitehall) | N/A |
+| 49 | [Whitney](http://twitter.com/search?q=Whitney) | N/A |
+| 50 | [#questiontime](http://twitter.com/search?q=%23questiontime) | N/A |
 
 
 

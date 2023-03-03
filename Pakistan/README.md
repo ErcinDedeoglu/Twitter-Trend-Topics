@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pakistan
 
-📆 Last Updated: `2023-03-02 23:17:01 UTC`
+📆 Last Updated: `2023-03-03 02:09:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Pakistan
 | ------- | ------------ | ------------ |
 | 1 | [#LQvQG](http://twitter.com/search?q=%23LQvQG) | N/A |
 | 2 | [#DollarPrice](http://twitter.com/search?q=%23DollarPrice) | N/A |
-| 3 | [#ElClasico](http://twitter.com/search?q=%23ElClasico) | #ElClasico is a term used to refer to the football (soccer) match between two of the biggest clubs in Spain, Real Madrid and FC Barcelona. It is one of the most highly anticipated matches in world football and is considered to be one of the greatest rivalries in sport. In English, it translates to "The Classic". |
-| 4 | [#عمران_داری_معیشت_لے_ڈوبی](http://twitter.com/search?q=%23%d8%b9%d9%85%d8%b1%d8%a7%d9%86_%d8%af%d8%a7%d8%b1%db%8c_%d9%85%d8%b9%db%8c%d8%b4%d8%aa_%d9%84%db%92_%da%88%d9%88%d8%a8%db%8c) | N/A |
-| 5 | [#خان_بمقابلہ_کرپٹ_نظام](http://twitter.com/search?q=%23%d8%ae%d8%a7%d9%86_%d8%a8%d9%85%d9%82%d8%a7%d8%a8%d9%84%db%81_%da%a9%d8%b1%d9%be%d9%b9_%d9%86%d8%b8%d8%a7%d9%85) | N/A |
-| 6 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 3 | [#عمران_داری_معیشت_لے_ڈوبی](http://twitter.com/search?q=%23%d8%b9%d9%85%d8%b1%d8%a7%d9%86_%d8%af%d8%a7%d8%b1%db%8c_%d9%85%d8%b9%db%8c%d8%b4%d8%aa_%d9%84%db%92_%da%88%d9%88%d8%a8%db%8c) | N/A |
+| 4 | [#خان_بمقابلہ_کرپٹ_نظام](http://twitter.com/search?q=%23%d8%ae%d8%a7%d9%86_%d8%a8%d9%85%d9%82%d8%a7%d8%a8%d9%84%db%81_%da%a9%d8%b1%d9%be%d9%b9_%d9%86%d8%b8%d8%a7%d9%85) | N/A |
+| 5 | [#ہرپریس_کلب_کےباہرلبیک_والے](http://twitter.com/search?q=%23%db%81%d8%b1%d9%be%d8%b1%db%8c%d8%b3_%da%a9%d9%84%d8%a8_%da%a9%db%92%d8%a8%d8%a7%db%81%d8%b1%d9%84%d8%a8%db%8c%da%a9_%d9%88%d8%a7%d9%84%db%92) | N/A |
+| 6 | [Sikandar Raza](http://twitter.com/search?q=Sikandar+Raza) | N/A |
 | 7 | [Sikandar Raza](http://twitter.com/search?q=Sikandar+Raza) | N/A |
-| 8 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 9 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 10 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 11 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 12 | [Dembele](http://twitter.com/search?q=Dembele) | Dembele is a surname of West African origin. It is derived from the Mande language and means "peaceful warrior". In English, it can be translated to mean "one who brings peace through strength". |
-| 13 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 14 | [Fati](http://twitter.com/search?q=Fati) | N/A |
-| 15 | [Namoos Sahaba Ahlbait Bill](http://twitter.com/search?q=Namoos+Sahaba+Ahlbait+Bill) | N/A |
-| 16 | [Quetta](http://twitter.com/search?q=Quetta) | Quetta is a city in Pakistan located in the province of Balochistan. The name Quetta is derived from the Pashto word "Kwatak", meaning fort. In English, Quetta translates to "fortress". |
-| 17 | [Qalandars](http://twitter.com/search?q=Qalandars) | N/A |
-| 18 | [haseebullah](http://twitter.com/search?q=haseebullah) | N/A |
-| 19 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 20 | [Ishaq Dar](http://twitter.com/search?q=Ishaq+Dar) | N/A |
-| 21 | [sir mark grundy](http://twitter.com/search?q=sir+mark+grundy) | N/A |
-| 22 | [Hafeez](http://twitter.com/search?q=Hafeez) | N/A |
-| 23 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 24 | [Rashid Khan](http://twitter.com/search?q=Rashid+Khan) | N/A |
-| 25 | [Resign](http://twitter.com/search?q=Resign) | Resign is a verb that means to formally give up or quit a job, position, or office. It is usually done in writing and is often accompanied by a letter of resignation. |
-| 26 | [Mighty](http://twitter.com/search?q=Mighty) | N/A |
-| 27 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 28 | [Youth](http://twitter.com/search?q=Youth) | N/A |
-| 29 | [happy birthday lala](http://twitter.com/search?q=happy+birthday+lala) | N/A |
-| 30 | [from 2-3 to 197-5](http://twitter.com/search?q=from+2-3+to+197-5) | N/A |
-| 31 | [Happy Baloch](http://twitter.com/search?q=Happy+Baloch) | N/A |
-| 32 | [Saifi](http://twitter.com/search?q=Saifi) | Saifi is an Arabic name that means "one who is pure". It is also used as a surname. |
-| 33 | [Sack](http://twitter.com/search?q=Sack) | N/A |
-| 34 | [British Council](http://twitter.com/search?q=British+Council) | N/A |
-| 35 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 36 | [Rauf](http://twitter.com/search?q=Rauf) | N/A |
-| 37 | [State Bank](http://twitter.com/search?q=State+Bank) | N/A |
-| 38 | [Fixer](http://twitter.com/search?q=Fixer) | N/A |
-| 39 | [Umaid Asif](http://twitter.com/search?q=Umaid+Asif) | N/A |
-| 40 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 41 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 42 | [Ben 10](http://twitter.com/search?q=Ben+10) | N/A |
-| 43 | [Kindly](http://twitter.com/search?q=Kindly) | N/A |
-| 44 | [Come to DM](http://twitter.com/search?q=Come+to+DM) | N/A |
-| 45 | [Your DM](http://twitter.com/search?q=Your+DM) | N/A |
-| 46 | [Heya](http://twitter.com/search?q=Heya) | N/A |
-| 47 | [Umar Akmal](http://twitter.com/search?q=Umar+Akmal) | N/A |
-| 48 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 49 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
-| 50 | [Yeahhh](http://twitter.com/search?q=Yeahhh) | N/A |
+| 8 | [haseebullah](http://twitter.com/search?q=haseebullah) | N/A |
+| 9 | [Quetta](http://twitter.com/search?q=Quetta) | Quetta is a city in Pakistan located in the province of Balochistan. The name Quetta is derived from the Pashto word "Kwatak", meaning fort. In English, Quetta translates to "fortress". |
+| 10 | [Ishaq Dar](http://twitter.com/search?q=Ishaq+Dar) | N/A |
+| 11 | [Namoos Sahaba Ahlbait Bill](http://twitter.com/search?q=Namoos+Sahaba+Ahlbait+Bill) | N/A |
+| 12 | [Hafeez](http://twitter.com/search?q=Hafeez) | N/A |
+| 13 | [sir mark grundy](http://twitter.com/search?q=sir+mark+grundy) | N/A |
+| 14 | [Qalandars](http://twitter.com/search?q=Qalandars) | N/A |
+| 15 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 16 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 17 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 18 | [Rashid Khan](http://twitter.com/search?q=Rashid+Khan) | N/A |
+| 19 | [Fati](http://twitter.com/search?q=Fati) | N/A |
+| 20 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 21 | [Mighty](http://twitter.com/search?q=Mighty) | N/A |
+| 22 | [Dembele](http://twitter.com/search?q=Dembele) | Dembele is a surname of West African origin. It is derived from the Mande language and means "peaceful warrior". In English, it can be translated to mean "one who brings peace through strength". |
+| 23 | [Resign](http://twitter.com/search?q=Resign) | Resign is a verb that means to formally give up or quit a job, position, or office. It is usually done in writing and is often accompanied by a letter of resignation. |
+| 24 | [Youth](http://twitter.com/search?q=Youth) | N/A |
+| 25 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
+| 26 | [HAPPY BIRTHDAY LALA](http://twitter.com/search?q=HAPPY+BIRTHDAY+LALA) | N/A |
+| 27 | [happy baloch](http://twitter.com/search?q=happy+baloch) | N/A |
+| 28 | [from 2-3 to 197-5](http://twitter.com/search?q=from+2-3+to+197-5) | N/A |
+| 29 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 30 | [Saifi](http://twitter.com/search?q=Saifi) | Saifi is an Arabic name that means "one who is pure". It is also used as a surname. |
+| 31 | [British Council](http://twitter.com/search?q=British+Council) | N/A |
+| 32 | [FIXER](http://twitter.com/search?q=FIXER) | N/A |
+| 33 | [State Bank](http://twitter.com/search?q=State+Bank) | N/A |
+| 34 | [Sack](http://twitter.com/search?q=Sack) | N/A |
+| 35 | [Your DM](http://twitter.com/search?q=Your+DM) | N/A |
+| 36 | [Umaid Asif](http://twitter.com/search?q=Umaid+Asif) | N/A |
+| 37 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 38 | [Ben 10](http://twitter.com/search?q=Ben+10) | N/A |
+| 39 | [Heya](http://twitter.com/search?q=Heya) | N/A |
+| 40 | [Dm ASAP](http://twitter.com/search?q=Dm+ASAP) | N/A |
+| 41 | [Kindly](http://twitter.com/search?q=Kindly) | N/A |
+| 42 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 43 | [Hina](http://twitter.com/search?q=Hina) | N/A |
+| 44 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
+| 45 | [Boot](http://twitter.com/search?q=Boot) | N/A |
+| 46 | [Quran](http://twitter.com/search?q=Quran) | N/A |
+| 47 | [Heyy](http://twitter.com/search?q=Heyy) | N/A |
+| 48 | [Graphic](http://twitter.com/search?q=Graphic) | N/A |
+| 49 | [Sending](http://twitter.com/search?q=Sending) | N/A |
+| 50 | [Count](http://twitter.com/search?q=Count) | N/A |
 
 
 

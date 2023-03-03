@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Antonio
 
-📆 Last Updated: `2023-03-02 23:16:54 UTC`
+📆 Last Updated: `2023-03-03 02:09:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Tornado Watch](http://twitter.com/search?q=Tornado+Watch) | N/A |
-| 2 | [Sherman](http://twitter.com/search?q=Sherman) | N/A |
-| 3 | [Texas Independence Day](http://twitter.com/search?q=Texas+Independence+Day) | N/A |
-| 4 | [#dfwwx](http://twitter.com/search?q=%23dfwwx) | N/A |
-| 5 | [North Texas](http://twitter.com/search?q=North+Texas) | N/A |
-| 6 | [#bigartday23](http://twitter.com/search?q=%23bigartday23) | N/A |
-| 7 | [#ILiveHereIGiveHere](http://twitter.com/search?q=%23ILiveHereIGiveHere) | N/A |
-| 8 | [Dirk](http://twitter.com/search?q=Dirk) | Dirk is a Scottish word for a long, pointed dagger. It is also used as a given name, usually for boys. |
-| 9 | [#AmplifyAustin](http://twitter.com/search?q=%23AmplifyAustin) | N/A |
-| 10 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
-| 11 | [Alamo](http://twitter.com/search?q=Alamo) | N/A |
-| 12 | [Nolan Smith](http://twitter.com/search?q=Nolan+Smith) | N/A |
-| 13 | [#WhyIChime](http://twitter.com/search?q=%23WhyIChime) | N/A |
-| 14 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 15 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 16 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
-| 17 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 18 | [Hershey](http://twitter.com/search?q=Hershey) | N/A |
-| 19 | [Jon Rahm](http://twitter.com/search?q=Jon+Rahm) | N/A |
-| 20 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 21 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 22 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
-| 23 | [Fanfest](http://twitter.com/search?q=Fanfest) | N/A |
-| 24 | [Jerome Boger](http://twitter.com/search?q=Jerome+Boger) | N/A |
-| 25 | [Calijah Kancey](http://twitter.com/search?q=Calijah+Kancey) | N/A |
-| 26 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 27 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
-| 28 | [Byron Young](http://twitter.com/search?q=Byron+Young) | N/A |
-| 29 | [Domi](http://twitter.com/search?q=Domi) | Domi is a Japanese term that means "dominance" or "dominant." It is often used to describe someone who is strong, powerful, and in control. |
-| 30 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
-| 31 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 32 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
-| 33 | [Red Ruby](http://twitter.com/search?q=Red+Ruby) | N/A |
-| 34 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 35 | [Dr. Seuss](http://twitter.com/search?q=Dr.+Seuss) | N/A |
-| 36 | [House Ethics Committee](http://twitter.com/search?q=House+Ethics+Committee) | N/A |
-| 37 | [Dembele](http://twitter.com/search?q=Dembele) | Dembele is a surname of West African origin. It is derived from the Mande language and means "peaceful warrior". In English, it can be translated to mean "one who brings peace through strength". |
-| 38 | [Bostic](http://twitter.com/search?q=Bostic) | N/A |
-| 39 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
-| 40 | [Jerry Richardson](http://twitter.com/search?q=Jerry+Richardson) | N/A |
-| 41 | [Adetomiwa Adebawore](http://twitter.com/search?q=Adetomiwa+Adebawore) | N/A |
-| 42 | [Tim Pool](http://twitter.com/search?q=Tim+Pool) | N/A |
-| 43 | [BAMBOLA HIMNO AVATRICE](http://twitter.com/search?q=BAMBOLA+HIMNO+AVATRICE) | N/A |
-| 44 | [Morgan Wallen](http://twitter.com/search?q=Morgan+Wallen) | N/A |
-| 45 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 46 | [Bernabeu](http://twitter.com/search?q=Bernabeu) | N/A |
-| 47 | [De Jong](http://twitter.com/search?q=De+Jong) | De Jong is a Dutch surname. It is derived from the personal name Jan, which is a form of John. The literal meaning of the name in English is "son of John". |
-| 48 | [Shingles](http://twitter.com/search?q=Shingles) | N/A |
-| 49 | [RTTS](http://twitter.com/search?q=RTTS) | N/A |
+| 1 | [Tornado](http://twitter.com/search?q=Tornado) | N/A |
+| 2 | [Sirens](http://twitter.com/search?q=Sirens) | N/A |
+| 3 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
+| 4 | [McKinney](http://twitter.com/search?q=McKinney) | McKinney is a city in the U.S. state of Texas. It is located in Collin County, about 30 miles north of Dallas. The city's population was estimated at 162,898 in 2019, making it the 19th-most populous city in Texas. The city is a part of the Dallas-Fort Worth metropolitan area and is one of the fastest-growing cities in the United States. |
+| 5 | [Plano](http://twitter.com/search?q=Plano) | N/A |
+| 6 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
+| 7 | [Severe Thunderstorm Warning](http://twitter.com/search?q=Severe+Thunderstorm+Warning) | N/A |
+| 8 | [Denton](http://twitter.com/search?q=Denton) | N/A |
+| 9 | [Frisco](http://twitter.com/search?q=Frisco) | Frisco is a nickname for the city of San Francisco, California. It is derived from the city's full name, which is "The City and County of San Francisco". |
+| 10 | [Sherman](http://twitter.com/search?q=Sherman) | N/A |
+| 11 | [Dr. Seuss](http://twitter.com/search?q=Dr.+Seuss) | N/A |
+| 12 | [Dwight Powell](http://twitter.com/search?q=Dwight+Powell) | N/A |
+| 13 | [Mother Nature](http://twitter.com/search?q=Mother+Nature) | Mother Nature is a term used to refer to the natural environment and the forces that shape it, such as weather, climate, and ecology. It is often used to refer to the beauty and power of nature, as well as its fragility and vulnerability. |
+| 14 | [#RODEOHOUSTON](http://twitter.com/search?q=%23RODEOHOUSTON) | N/A |
+| 15 | [Texas Independence Day](http://twitter.com/search?q=Texas+Independence+Day) | N/A |
+| 16 | [Dirk](http://twitter.com/search?q=Dirk) | Dirk is a Scottish word for a long, pointed dagger. It is also used as a given name, usually for boys. |
+| 17 | [Central Texas](http://twitter.com/search?q=Central+Texas) | N/A |
+| 18 | [Anderson](http://twitter.com/search?q=Anderson) | N/A |
+| 19 | [#ILiveHereIGiveHere](http://twitter.com/search?q=%23ILiveHereIGiveHere) | N/A |
+| 20 | [#AmplifyAustin](http://twitter.com/search?q=%23AmplifyAustin) | N/A |
+| 21 | [Alex Murdaugh](http://twitter.com/search?q=Alex+Murdaugh) | N/A |
+| 22 | [#WhyIChime](http://twitter.com/search?q=%23WhyIChime) | N/A |
+| 23 | [#Station19](http://twitter.com/search?q=%23Station19) | N/A |
+| 24 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 25 | [Nolan Smith](http://twitter.com/search?q=Nolan+Smith) | N/A |
+| 26 | [Kobe Bufkin](http://twitter.com/search?q=Kobe+Bufkin) | N/A |
+| 27 | [Kyedae](http://twitter.com/search?q=Kyedae) | N/A |
+| 28 | [Petry](http://twitter.com/search?q=Petry) | N/A |
+| 29 | [Discover](http://twitter.com/search?q=Discover) | N/A |
+| 30 | [Maggie](http://twitter.com/search?q=Maggie) | N/A |
+| 31 | [Walgreens](http://twitter.com/search?q=Walgreens) | N/A |
+| 32 | [Stephen Smith](http://twitter.com/search?q=Stephen+Smith) | N/A |
+| 33 | [Orlov](http://twitter.com/search?q=Orlov) | N/A |
+| 34 | [Brassard](http://twitter.com/search?q=Brassard) | N/A |
+| 35 | [Red Ruby](http://twitter.com/search?q=Red+Ruby) | N/A |
+| 36 | [REAL GAMERS DRINK GAMER SUPPS](http://twitter.com/search?q=REAL+GAMERS+DRINK+GAMER+SUPPS) | N/A |
+| 37 | [Metroid Fusion](http://twitter.com/search?q=Metroid+Fusion) | N/A |
+| 38 | [Hershey](http://twitter.com/search?q=Hershey) | N/A |
+| 39 | [Luka and Kyrie](http://twitter.com/search?q=Luka+and+Kyrie) | Luka and Kyrie is a phrase used to refer to the two NBA superstars, Luka Doncic and Kyrie Irving. The phrase is often used to describe the duo's incredible talent and potential as basketball players. |
+| 40 | [Tarasenko](http://twitter.com/search?q=Tarasenko) | N/A |
+| 41 | [Jett](http://twitter.com/search?q=Jett) | N/A |
+| 42 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
+| 43 | [Shingles](http://twitter.com/search?q=Shingles) | N/A |
+| 44 | [Motte](http://twitter.com/search?q=Motte) | N/A |
+| 45 | [PNC Bank](http://twitter.com/search?q=PNC+Bank) | N/A |
+| 46 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 47 | [Kyrie and Luka](http://twitter.com/search?q=Kyrie+and+Luka) | Kyrie and Luka is a reference to Kyrie Irving and Luka Doncic, two of the most talented basketball players in the NBA. The phrase is often used to refer to the potential of the two players when they are on the court together. In English, it means "the potential of Kyrie Irving and Luka Doncic when they are playing together." |
+| 48 | [Austin Watson](http://twitter.com/search?q=Austin+Watson) | N/A |
+| 49 | [Fanfest](http://twitter.com/search?q=Fanfest) | N/A |
 
 
 

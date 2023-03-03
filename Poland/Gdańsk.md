@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gdańsk
 
-📆 Last Updated: `2023-03-02 23:16:21 UTC`
+📆 Last Updated: `2023-03-03 02:08:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Poland](</Poland>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#ElClasico](http://twitter.com/search?q=%23ElClasico) | #ElClasico is a term used to refer to the football (soccer) match between two of the biggest clubs in Spain, Real Madrid and FC Barcelona. It is one of the most highly anticipated matches in world football and is considered to be one of the greatest rivalries in sport. In English, it translates to "The Classic". |
-| 2 | [Fati](http://twitter.com/search?q=Fati) | N/A |
-| 3 | [#RMAFCB](http://twitter.com/search?q=%23RMAFCB) | N/A |
-| 4 | [#PryczaDlaBielana](http://twitter.com/search?q=%23PryczaDlaBielana) | N/A |
-| 5 | [Realu](http://twitter.com/search?q=Realu) | N/A |
-| 6 | [Barcelony](http://twitter.com/search?q=Barcelony) | N/A |
-| 7 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 8 | [Bernabeu](http://twitter.com/search?q=Bernabeu) | N/A |
-| 9 | [#wtylewizji](http://twitter.com/search?q=%23wtylewizji) | N/A |
-| 10 | [Viniego](http://twitter.com/search?q=Viniego) | N/A |
-| 11 | [Kessiego](http://twitter.com/search?q=Kessiego) | N/A |
-| 12 | [Wenus](http://twitter.com/search?q=Wenus) | N/A |
-| 13 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 14 | [Kounde](http://twitter.com/search?q=Kounde) | Kounde is a surname of African origin. It is derived from the Yoruba language and means “born on a Monday”. |
-| 15 | [TSUE](http://twitter.com/search?q=TSUE) | N/A |
-| 16 | [Finlandii](http://twitter.com/search?q=Finlandii) | N/A |
-| 17 | [Jowisz](http://twitter.com/search?q=Jowisz) | N/A |
-| 18 | [Carlo](http://twitter.com/search?q=Carlo) | N/A |
-| 19 | [Barcy](http://twitter.com/search?q=Barcy) | N/A |
-| 20 | [Militao](http://twitter.com/search?q=Militao) | Militão is a Portuguese name derived from the Latin word militare, meaning “to serve in the military”. In English, it can be translated to mean “soldier” or “warrior”. |
-| 21 | [Referendum](http://twitter.com/search?q=Referendum) | N/A |
-| 22 | [Camavingi](http://twitter.com/search?q=Camavingi) | N/A |
-| 23 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 24 | [Alvaro](http://twitter.com/search?q=Alvaro) | N/A |
-| 25 | [De Jong](http://twitter.com/search?q=De+Jong) | De Jong is a Dutch surname. It is derived from the personal name Jan, which is a form of John. The literal meaning of the name in English is "son of John". |
-| 26 | [Żołnierzy Wyklętych](http://twitter.com/search?q=%c5%bbo%c5%82nierzy+Wykl%c4%99tych) | N/A |
-| 27 | [Realowi](http://twitter.com/search?q=Realowi) | N/A |
-| 28 | [Realem](http://twitter.com/search?q=Realem) | N/A |
-| 29 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 30 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
-| 31 | [narodowy dzień pamięci](http://twitter.com/search?q=narodowy+dzie%c5%84+pami%c4%99ci) | N/A |
-| 32 | [Lewego](http://twitter.com/search?q=Lewego) | N/A |
-| 33 | [Lasy Państwowe](http://twitter.com/search?q=Lasy+Pa%c5%84stwowe) | N/A |
-| 34 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
-| 35 | [Benzemy](http://twitter.com/search?q=Benzemy) | N/A |
-| 36 | [Aborcja](http://twitter.com/search?q=Aborcja) | N/A |
-| 37 | [NCBiR](http://twitter.com/search?q=NCBiR) | N/A |
-| 38 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
-| 39 | [KKS Kalisz](http://twitter.com/search?q=KKS+Kalisz) | N/A |
-| 40 | [Kołodziejczak](http://twitter.com/search?q=Ko%c5%82odziejczak) | N/A |
-| 41 | [Polek](http://twitter.com/search?q=Polek) | N/A |
-| 42 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
-| 43 | [Żalek](http://twitter.com/search?q=%c5%bbalek) | N/A |
-| 44 | [Dembele](http://twitter.com/search?q=Dembele) | Dembele is a surname of West African origin. It is derived from the Mande language and means "peaceful warrior". In English, it can be translated to mean "one who brings peace through strength". |
-| 45 | [Etiopii](http://twitter.com/search?q=Etiopii) | N/A |
-| 46 | [Biedroń](http://twitter.com/search?q=Biedro%c5%84) | N/A |
-| 47 | [Dworczyka](http://twitter.com/search?q=Dworczyka) | N/A |
-| 48 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
-| 49 | [Bohaterom](http://twitter.com/search?q=Bohaterom) | N/A |
+| 2 | [#PryczaDlaBielana](http://twitter.com/search?q=%23PryczaDlaBielana) | N/A |
+| 3 | [Realu](http://twitter.com/search?q=Realu) | N/A |
+| 4 | [#RMAFCB](http://twitter.com/search?q=%23RMAFCB) | N/A |
+| 5 | [Wenus](http://twitter.com/search?q=Wenus) | N/A |
+| 6 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
+| 7 | [Finlandii](http://twitter.com/search?q=Finlandii) | N/A |
+| 8 | [Fati](http://twitter.com/search?q=Fati) | N/A |
+| 9 | [Jowisz](http://twitter.com/search?q=Jowisz) | N/A |
+| 10 | [TSUE](http://twitter.com/search?q=TSUE) | N/A |
+| 11 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 12 | [#CopaDelRey](http://twitter.com/search?q=%23CopaDelRey) | #CopaDelRey is the Spanish Cup, an annual football tournament in Spain. In English, it translates to "King's Cup". |
+| 13 | [Referendum](http://twitter.com/search?q=Referendum) | N/A |
+| 14 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 15 | [żołnierzy wyklętych](http://twitter.com/search?q=%c5%bco%c5%82nierzy+wykl%c4%99tych) | N/A |
+| 16 | [Bernabeu](http://twitter.com/search?q=Bernabeu) | N/A |
+| 17 | [Carlo](http://twitter.com/search?q=Carlo) | N/A |
+| 18 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
+| 19 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
+| 20 | [narodowy dzień pamięci](http://twitter.com/search?q=narodowy+dzie%c5%84+pami%c4%99ci) | N/A |
+| 21 | [Kounde](http://twitter.com/search?q=Kounde) | Kounde is a surname of African origin. It is derived from the Yoruba language and means “born on a Monday”. |
+| 22 | [Barcy](http://twitter.com/search?q=Barcy) | N/A |
+| 23 | [KKS Kalisz](http://twitter.com/search?q=KKS+Kalisz) | N/A |
+| 24 | [NCBiR](http://twitter.com/search?q=NCBiR) | N/A |
+| 25 | [Kołodziejczak](http://twitter.com/search?q=Ko%c5%82odziejczak) | N/A |
+| 26 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 27 | [Etiopii](http://twitter.com/search?q=Etiopii) | N/A |
+| 28 | [Lasy Państwowe](http://twitter.com/search?q=Lasy+Pa%c5%84stwowe) | N/A |
+| 29 | [Realowi](http://twitter.com/search?q=Realowi) | N/A |
+| 30 | [Aborcja](http://twitter.com/search?q=Aborcja) | N/A |
+| 31 | [De Jong](http://twitter.com/search?q=De+Jong) | De Jong is a Dutch surname. It is derived from the personal name Jan, which is a form of John. The literal meaning of the name in English is "son of John". |
+| 32 | [Alvaro](http://twitter.com/search?q=Alvaro) | N/A |
+| 33 | [Marcos Alonso](http://twitter.com/search?q=Marcos+Alonso) | Marcos Alonso is a Spanish professional footballer who plays as a left back for Premier League club Chelsea and the Spanish national team. His name is derived from the Spanish words "mar" (sea) and "cos" (order). In English, his name translates to "ordered sea". |
+| 34 | [Polek](http://twitter.com/search?q=Polek) | N/A |
+| 35 | [Żalek](http://twitter.com/search?q=%c5%bbalek) | N/A |
+| 36 | [Militao](http://twitter.com/search?q=Militao) | Militão is a Portuguese name derived from the Latin word militare, meaning “to serve in the military”. In English, it can be translated to mean “soldier” or “warrior”. |
+| 37 | [dworczyka](http://twitter.com/search?q=dworczyka) | N/A |
+| 38 | [Biedroń](http://twitter.com/search?q=Biedro%c5%84) | N/A |
+| 39 | [bohaterom](http://twitter.com/search?q=bohaterom) | N/A |
+| 40 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
+| 41 | [BAMBOLA HIMNO AVATRICE](http://twitter.com/search?q=BAMBOLA+HIMNO+AVATRICE) | N/A |
+| 42 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 43 | [Układ](http://twitter.com/search?q=Uk%c5%82ad) | N/A |
+| 44 | [Żalka](http://twitter.com/search?q=%c5%bbalka) | N/A |
+| 45 | [Sigma](http://twitter.com/search?q=Sigma) | N/A |
+| 46 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
+| 47 | [Polkom](http://twitter.com/search?q=Polkom) | N/A |
+| 48 | [Hołownia](http://twitter.com/search?q=Ho%c5%82ownia) | N/A |
+| 49 | [ambasador niemiec](http://twitter.com/search?q=ambasador+niemiec) | N/A |
 
 
 

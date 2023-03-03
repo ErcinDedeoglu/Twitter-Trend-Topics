@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canberra
 
-📆 Last Updated: `2023-03-02 23:16:31 UTC`
+📆 Last Updated: `2023-03-03 02:09:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Australia](</Australia>)
 | ------- | ------------ | ------------ |
 | 1 | [#NRLEelsStorm](http://twitter.com/search?q=%23NRLEelsStorm) | N/A |
 | 2 | [Stuart Robert](http://twitter.com/search?q=Stuart+Robert) | N/A |
-| 3 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
-| 4 | [#RobodebtRC](http://twitter.com/search?q=%23RobodebtRC) | N/A |
-| 5 | [The Project](http://twitter.com/search?q=The+Project) | N/A |
-| 6 | [Cabinet](http://twitter.com/search?q=Cabinet) | N/A |
-| 7 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
-| 8 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 9 | [Daily Quordle 403](http://twitter.com/search?q=Daily+Quordle+403) | N/A |
-| 10 | [Harry Grant](http://twitter.com/search?q=Harry+Grant) | N/A |
-| 11 | [Munster](http://twitter.com/search?q=Munster) | N/A |
-| 12 | [#aflhawkspies](http://twitter.com/search?q=%23aflhawkspies) | N/A |
+| 3 | [#RobodebtRC](http://twitter.com/search?q=%23RobodebtRC) | N/A |
+| 4 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
+| 5 | [Collins](http://twitter.com/search?q=Collins) | N/A |
+| 6 | [Average](http://twitter.com/search?q=Average) | N/A |
+| 7 | [Cabinet](http://twitter.com/search?q=Cabinet) | N/A |
+| 8 | [The Project](http://twitter.com/search?q=The+Project) | N/A |
+| 9 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 10 | [#WorldWildlifeDay](http://twitter.com/search?q=%23WorldWildlifeDay) | N/A |
+| 11 | [Westminster](http://twitter.com/search?q=Westminster) | Westminster is a district in London, England, located to the west of the City of London. It is home to many of the city's most iconic landmarks, including Westminster Abbey, Buckingham Palace, and the Houses of Parliament. The term Westminster is often used to refer to the government of the United Kingdom as a whole. |
+| 12 | [Munster](http://twitter.com/search?q=Munster) | N/A |
 | 13 | [Parra](http://twitter.com/search?q=Parra) | N/A |
-| 14 | [Westminster](http://twitter.com/search?q=Westminster) | Westminster is a district in London, England, located to the west of the City of London. It is home to many of the city's most iconic landmarks, including Westminster Abbey, Buckingham Palace, and the Houses of Parliament. The term Westminster is often used to refer to the government of the United Kingdom as a whole. |
-| 15 | [Bluesfest](http://twitter.com/search?q=Bluesfest) | N/A |
+| 14 | [Harry Grant](http://twitter.com/search?q=Harry+Grant) | N/A |
+| 15 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
 | 16 | [Nathan Lyon](http://twitter.com/search?q=Nathan+Lyon) | N/A |
-| 17 | [Christians](http://twitter.com/search?q=Christians) | N/A |
-| 18 | [Moses](http://twitter.com/search?q=Moses) | N/A |
-| 19 | [Hodgson](http://twitter.com/search?q=Hodgson) | N/A |
-| 20 | [Sticky Fingers](http://twitter.com/search?q=Sticky+Fingers) | N/A |
-| 21 | [J Cole](http://twitter.com/search?q=J+Cole) | N/A |
-| 22 | [Evelyn](http://twitter.com/search?q=Evelyn) | N/A |
-| 23 | [Ashcroft](http://twitter.com/search?q=Ashcroft) | N/A |
-| 24 | [Frogmore](http://twitter.com/search?q=Frogmore) | N/A |
-| 25 | [Speers](http://twitter.com/search?q=Speers) | N/A |
-| 26 | [Mackenzie](http://twitter.com/search?q=Mackenzie) | N/A |
-| 27 | [Hopgood](http://twitter.com/search?q=Hopgood) | N/A |
-| 28 | [Joel Wilson](http://twitter.com/search?q=Joel+Wilson) | N/A |
-| 29 | [Australia Post](http://twitter.com/search?q=Australia+Post) | N/A |
-| 30 | [Wilkinson](http://twitter.com/search?q=Wilkinson) | N/A |
-| 31 | [Bolt](http://twitter.com/search?q=Bolt) | N/A |
-| 32 | [Steve Smith](http://twitter.com/search?q=Steve+Smith) | Steve Smith is a common English name. It does not have any particular meaning in English. |
-| 33 | [Morrison](http://twitter.com/search?q=Morrison) | N/A |
-| 34 | [jhope](http://twitter.com/search?q=jhope) | N/A |
-| 35 | [Pujara](http://twitter.com/search?q=Pujara) | N/A |
-| 36 | [Waleed](http://twitter.com/search?q=Waleed) | N/A |
-| 37 | [Mohammed](http://twitter.com/search?q=Mohammed) | N/A |
-| 38 | [Channel 10](http://twitter.com/search?q=Channel+10) | N/A |
-| 39 | [Commissioner](http://twitter.com/search?q=Commissioner) | N/A |
-| 40 | [Pikamee](http://twitter.com/search?q=Pikamee) | N/A |
-| 41 | [Kochie](http://twitter.com/search?q=Kochie) | N/A |
-| 42 | [Sivo](http://twitter.com/search?q=Sivo) | N/A |
-| 43 | [Brother Stuey](http://twitter.com/search?q=Brother+Stuey) | N/A |
-| 44 | [beau fermor](http://twitter.com/search?q=beau+fermor) | N/A |
-| 45 | [Lehrmann](http://twitter.com/search?q=Lehrmann) | N/A |
-| 46 | [ashley klein](http://twitter.com/search?q=ashley+klein) | N/A |
-| 47 | [Murdoch](http://twitter.com/search?q=Murdoch) | N/A |
-| 48 | [Golden Point](http://twitter.com/search?q=Golden+Point) | N/A |
-| 49 | [Bellamy](http://twitter.com/search?q=Bellamy) | N/A |
+| 17 | [Moses](http://twitter.com/search?q=Moses) | N/A |
+| 18 | [Hodgson](http://twitter.com/search?q=Hodgson) | N/A |
+| 19 | [Bluesfest](http://twitter.com/search?q=Bluesfest) | N/A |
+| 20 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
+| 21 | [Christians](http://twitter.com/search?q=Christians) | N/A |
+| 22 | [Alex Murdaugh](http://twitter.com/search?q=Alex+Murdaugh) | N/A |
+| 23 | [Bolt](http://twitter.com/search?q=Bolt) | N/A |
+| 24 | [Hopgood](http://twitter.com/search?q=Hopgood) | N/A |
+| 25 | [Evelyn](http://twitter.com/search?q=Evelyn) | N/A |
+| 26 | [Golightly](http://twitter.com/search?q=Golightly) | N/A |
+| 27 | [Sticky Fingers](http://twitter.com/search?q=Sticky+Fingers) | N/A |
+| 28 | [jcole](http://twitter.com/search?q=jcole) | N/A |
+| 29 | [Wilkinson](http://twitter.com/search?q=Wilkinson) | N/A |
+| 30 | [Ed Sheeran](http://twitter.com/search?q=Ed+Sheeran) | N/A |
+| 31 | [Australia Post](http://twitter.com/search?q=Australia+Post) | N/A |
+| 32 | [Speers](http://twitter.com/search?q=Speers) | N/A |
+| 33 | [Mackenzie](http://twitter.com/search?q=Mackenzie) | N/A |
+| 34 | [Daily Quordle 403](http://twitter.com/search?q=Daily+Quordle+403) | N/A |
+| 35 | [Frogmore](http://twitter.com/search?q=Frogmore) | N/A |
+| 36 | [jhope](http://twitter.com/search?q=jhope) | N/A |
+| 37 | [Joel Wilson](http://twitter.com/search?q=Joel+Wilson) | N/A |
+| 38 | [Payne](http://twitter.com/search?q=Payne) | N/A |
+| 39 | [Morrison](http://twitter.com/search?q=Morrison) | N/A |
+| 40 | [Kochie](http://twitter.com/search?q=Kochie) | N/A |
+| 41 | [Sivo](http://twitter.com/search?q=Sivo) | N/A |
+| 42 | [Commissioner](http://twitter.com/search?q=Commissioner) | N/A |
+| 43 | [Pikamee](http://twitter.com/search?q=Pikamee) | N/A |
+| 44 | [Mr Dutton](http://twitter.com/search?q=Mr+Dutton) | N/A |
+| 45 | [ashley klein](http://twitter.com/search?q=ashley+klein) | N/A |
+| 46 | [Murdoch](http://twitter.com/search?q=Murdoch) | N/A |
+| 47 | [Steve Smith](http://twitter.com/search?q=Steve+Smith) | Steve Smith is a common English name. It does not have any particular meaning in English. |
+| 48 | [Mohammed](http://twitter.com/search?q=Mohammed) | N/A |
+| 49 | [International Women's Day](http://twitter.com/search?q=International+Women%27s+Day) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indonesia
 
-📆 Last Updated: `2023-03-02 23:16:58 UTC`
+📆 Last Updated: `2023-03-03 02:09:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Indonesia
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 1 | [#HariRPLDesa](http://twitter.com/search?q=%23HariRPLDesa) | N/A |
 | 2 | [Indomie Yatai](http://twitter.com/search?q=Indomie+Yatai) | N/A |
-| 3 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 4 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 5 | [#ElClasicoRCTI](http://twitter.com/search?q=%23ElClasicoRCTI) | N/A |
-| 6 | [hanya di bloombergtechnoz](http://twitter.com/search?q=hanya+di+bloombergtechnoz) | N/A |
-| 7 | [berita ekonomi terkini](http://twitter.com/search?q=berita+ekonomi+terkini) | N/A |
-| 8 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 9 | [#LIKEITLIKEIT_OUT_NOW](http://twitter.com/search?q=%23LIKEITLIKEIT_OUT_NOW) | N/A |
-| 10 | [#TAEYONGtoPFW23](http://twitter.com/search?q=%23TAEYONGtoPFW23) | N/A |
-| 11 | [TY WEARS LOEWE](http://twitter.com/search?q=TY+WEARS+LOEWE) | N/A |
-| 12 | [#JumatBerkah](http://twitter.com/search?q=%23JumatBerkah) | N/A |
-| 13 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
-| 14 | [#MoonlightChickenFinalEP](http://twitter.com/search?q=%23MoonlightChickenFinalEP) | N/A |
-| 15 | [ekspresikan gayamu](http://twitter.com/search?q=ekspresikan+gayamu) | N/A |
-| 16 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 17 | [Leg 2](http://twitter.com/search?q=Leg+2) | N/A |
-| 18 | [Khilafah Ajaran Islam](http://twitter.com/search?q=Khilafah+Ajaran+Islam) | N/A |
-| 19 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 20 | [epic grand prize](http://twitter.com/search?q=epic+grand+prize) | N/A |
-| 21 | [asuransi aia](http://twitter.com/search?q=asuransi+aia) | N/A |
+| 3 | [hanya di bloombergtechnoz](http://twitter.com/search?q=hanya+di+bloombergtechnoz) | N/A |
+| 4 | [berita ekonomi terkini](http://twitter.com/search?q=berita+ekonomi+terkini) | N/A |
+| 5 | [#HUTBennyRhamdani](http://twitter.com/search?q=%23HUTBennyRhamdani) | N/A |
+| 6 | [NA JAEMIN THANK YOU](http://twitter.com/search?q=NA+JAEMIN+THANK+YOU) | N/A |
+| 7 | [#LIKEITLIKEIT_OUT_NOW](http://twitter.com/search?q=%23LIKEITLIKEIT_OUT_NOW) | N/A |
+| 8 | [#JumatBerkah](http://twitter.com/search?q=%23JumatBerkah) | N/A |
+| 9 | [R to V](http://twitter.com/search?q=R+to+V) | N/A |
+| 10 | [Nobita](http://twitter.com/search?q=Nobita) | N/A |
+| 11 | [#TAEYONGtoPFW23](http://twitter.com/search?q=%23TAEYONGtoPFW23) | N/A |
+| 12 | [ekspresikan gayamu](http://twitter.com/search?q=ekspresikan+gayamu) | N/A |
+| 13 | [TY WEARS LOEWE](http://twitter.com/search?q=TY+WEARS+LOEWE) | N/A |
+| 14 | [Shizuka](http://twitter.com/search?q=Shizuka) | N/A |
+| 15 | [Khilafah Ajaran Islam](http://twitter.com/search?q=Khilafah+Ajaran+Islam) | N/A |
+| 16 | [Semangat Dakwahkan Islam](http://twitter.com/search?q=Semangat+Dakwahkan+Islam) | N/A |
+| 17 | [epic grand prize](http://twitter.com/search?q=epic+grand+prize) | N/A |
+| 18 | [asuransi aia](http://twitter.com/search?q=asuransi+aia) | N/A |
+| 19 | [Rekognisi Pembelajaran Lampau](http://twitter.com/search?q=Rekognisi+Pembelajaran+Lampau) | N/A |
+| 20 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 21 | [ON THE STREET OUT TODAY](http://twitter.com/search?q=ON+THE+STREET+OUT+TODAY) | N/A |
 | 22 | [Silent](http://twitter.com/search?q=Silent) | N/A |
-| 23 | [Pengamat](http://twitter.com/search?q=Pengamat) | N/A |
-| 24 | [jkt48 hujan voucher lazada](http://twitter.com/search?q=jkt48+hujan+voucher+lazada) | N/A |
-| 25 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 26 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
-| 27 | [Bernabeu](http://twitter.com/search?q=Bernabeu) | N/A |
-| 28 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
-| 29 | [HYBE PROTECT RM](http://twitter.com/search?q=HYBE+PROTECT+RM) | N/A |
-| 30 | [BIGHIT PROTECT RM](http://twitter.com/search?q=BIGHIT+PROTECT+RM) | N/A |
-| 31 | [PN Jakpus](http://twitter.com/search?q=PN+Jakpus) | N/A |
-| 32 | [Lewy](http://twitter.com/search?q=Lewy) | Lewy is a surname of German origin. It is derived from the given name Ludwig, which is derived from the Germanic elements "hlud" meaning "fame" and "wig" meaning "warrior". The name can also be found in other countries such as Poland, where it is spelled Lewy. |
-| 33 | [Pika](http://twitter.com/search?q=Pika) | N/A |
-| 34 | [Formula E](http://twitter.com/search?q=Formula+E) | N/A |
-| 35 | [Frenkie](http://twitter.com/search?q=Frenkie) | Frenkie is a nickname for the Dutch footballer Frenkie de Jong, who currently plays for FC Barcelona. The name is derived from his given name, which is also spelled "Frenkie". In English, it can be used as an affectionate nickname for someone named Frank or Francis. |
-| 36 | [ARTIST AND STAFF](http://twitter.com/search?q=ARTIST+AND+STAFF) | N/A |
-| 37 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 38 | [De Jong](http://twitter.com/search?q=De+Jong) | De Jong is a Dutch surname. It is derived from the personal name Jan, which is a form of John. The literal meaning of the name in English is "son of John". |
-| 39 | [Partai PRIMA](http://twitter.com/search?q=Partai+PRIMA) | N/A |
-| 40 | [haechan lee thank you](http://twitter.com/search?q=haechan+lee+thank+you) | N/A |
-| 41 | [Jalur](http://twitter.com/search?q=Jalur) | N/A |
-| 42 | [our sunshine park jeongwoo](http://twitter.com/search?q=our+sunshine+park+jeongwoo) | N/A |
-| 43 | [sheila dara](http://twitter.com/search?q=sheila+dara) | N/A |
-| 44 | [Gelora Buat Konser](http://twitter.com/search?q=Gelora+Buat+Konser) | N/A |
-| 45 | [jcole](http://twitter.com/search?q=jcole) | N/A |
-| 46 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
-| 47 | [Khuntoria](http://twitter.com/search?q=Khuntoria) | N/A |
-| 48 | [bapak prabowo subianto](http://twitter.com/search?q=bapak+prabowo+subianto) | N/A |
-| 49 | [KPAI](http://twitter.com/search?q=KPAI) | N/A |
-| 50 | [Ini Twitter](http://twitter.com/search?q=Ini+Twitter) | N/A |
+| 23 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 24 | [J-HOPE X J. COLE](http://twitter.com/search?q=J-HOPE+X+J.+COLE) | N/A |
+| 25 | [jkt48 hujan voucher lazada](http://twitter.com/search?q=jkt48+hujan+voucher+lazada) | N/A |
+| 26 | [Partai Prima](http://twitter.com/search?q=Partai+Prima) | N/A |
+| 27 | [PN Jakpus](http://twitter.com/search?q=PN+Jakpus) | N/A |
+| 28 | [HYBE PROTECT RM](http://twitter.com/search?q=HYBE+PROTECT+RM) | N/A |
+| 29 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 30 | [ARTIST AND STAFF](http://twitter.com/search?q=ARTIST+AND+STAFF) | N/A |
+| 31 | [BIGHIT PROTECT RM](http://twitter.com/search?q=BIGHIT+PROTECT+RM) | N/A |
+| 32 | [Innalillahi](http://twitter.com/search?q=Innalillahi) | N/A |
+| 33 | [Cleaning](http://twitter.com/search?q=Cleaning) | N/A |
+| 34 | [ON THE STREET WITH J-HOPE](http://twitter.com/search?q=ON+THE+STREET+WITH+J-HOPE) | N/A |
+| 35 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
+| 36 | [Formula E](http://twitter.com/search?q=Formula+E) | N/A |
+| 37 | [Rubicon](http://twitter.com/search?q=Rubicon) | N/A |
+| 38 | [Leg 2](http://twitter.com/search?q=Leg+2) | N/A |
+| 39 | [haechan lee thank you](http://twitter.com/search?q=haechan+lee+thank+you) | N/A |
+| 40 | [TIFFANY BRAND AMBASSADOR JIMIN](http://twitter.com/search?q=TIFFANY+BRAND+AMBASSADOR+JIMIN) | N/A |
+| 41 | [our sunshine park jeongwoo](http://twitter.com/search?q=our+sunshine+park+jeongwoo) | N/A |
+| 42 | [bapak prabowo subianto](http://twitter.com/search?q=bapak+prabowo+subianto) | N/A |
+| 43 | [Hakimnya](http://twitter.com/search?q=Hakimnya) | N/A |
+| 44 | [Pika](http://twitter.com/search?q=Pika) | N/A |
+| 45 | [Red Velvet](http://twitter.com/search?q=Red+Velvet) | N/A |
+| 46 | [Khuntoria](http://twitter.com/search?q=Khuntoria) | N/A |
+| 47 | [yuta](http://twitter.com/search?q=yuta) | Yuta is a Japanese name that means "abundant" or "bountiful". It can also be used as a surname. |
+| 48 | [bloomberg global](http://twitter.com/search?q=bloomberg+global) | N/A |
+| 49 | [ini twitter](http://twitter.com/search?q=ini+twitter) | N/A |
+| 50 | [Jalur](http://twitter.com/search?q=Jalur) | N/A |
 
 
 

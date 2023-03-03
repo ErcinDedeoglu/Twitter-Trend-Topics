@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Leipzig
 
-📆 Last Updated: `2023-03-02 23:16:25 UTC`
+📆 Last Updated: `2023-03-03 02:08:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,55 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#gntm](http://twitter.com/search?q=%23gntm) | N/A |
+| 1 | [#KlamrothLuegt](http://twitter.com/search?q=%23KlamrothLuegt) | N/A |
 | 2 | [#Lanz](http://twitter.com/search?q=%23Lanz) | N/A |
-| 3 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
-| 4 | [Drinks](http://twitter.com/search?q=Drinks) | N/A |
-| 5 | [Heidi](http://twitter.com/search?q=Heidi) | N/A |
-| 6 | [Rankin](http://twitter.com/search?q=Rankin) | N/A |
-| 7 | [Kurt](http://twitter.com/search?q=Kurt) | N/A |
-| 8 | [Außenpolitik](http://twitter.com/search?q=Au%c3%9fenpolitik) | N/A |
-| 9 | [Christa](http://twitter.com/search?q=Christa) | N/A |
-| 10 | [Koalition](http://twitter.com/search?q=Koalition) | N/A |
-| 11 | [Vergewaltigungen](http://twitter.com/search?q=Vergewaltigungen) | N/A |
-| 12 | [Gisela](http://twitter.com/search?q=Gisela) | N/A |
-| 13 | [Black Pearl](http://twitter.com/search?q=Black+Pearl) | N/A |
-| 14 | [Feiertag](http://twitter.com/search?q=Feiertag) | Feiertag is a German word meaning "holiday" or "celebration day". It is used to refer to any day that is set aside for special observance, such as a national holiday, religious holiday, or other special occasion. |
-| 15 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
-| 16 | [Strom](http://twitter.com/search?q=Strom) | N/A |
-| 17 | [Kriegsverbrechen](http://twitter.com/search?q=Kriegsverbrechen) | N/A |
-| 18 | [Melina](http://twitter.com/search?q=Melina) | N/A |
-| 19 | [Maske](http://twitter.com/search?q=Maske) | N/A |
-| 20 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
-| 21 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 22 | [Wärmepumpen](http://twitter.com/search?q=W%c3%a4rmepumpen) | N/A |
-| 23 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
-| 24 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 25 | [BAMBOLA HIMNO AVATRICE](http://twitter.com/search?q=BAMBOLA+HIMNO+AVATRICE) | N/A |
-| 26 | [Jahre Berufserfahrung](http://twitter.com/search?q=Jahre+Berufserfahrung) | N/A |
-| 27 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 28 | [Moderator](http://twitter.com/search?q=Moderator) | N/A |
-| 29 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
-| 30 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 31 | [Menstruationshintergrund](http://twitter.com/search?q=Menstruationshintergrund) | N/A |
-| 32 | [Anya](http://twitter.com/search?q=Anya) | N/A |
-| 33 | [Ingo](http://twitter.com/search?q=Ingo) | N/A |
-| 34 | [Gretel](http://twitter.com/search?q=Gretel) | N/A |
-| 35 | [Heizungen](http://twitter.com/search?q=Heizungen) | N/A |
-| 36 | [Jusos](http://twitter.com/search?q=Jusos) | N/A |
-| 37 | [Faktencheck](http://twitter.com/search?q=Faktencheck) | N/A |
-| 38 | [Daniel](http://twitter.com/search?q=Daniel) | N/A |
-| 39 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 40 | [Cannabis](http://twitter.com/search?q=Cannabis) | N/A |
-| 41 | [Leiche](http://twitter.com/search?q=Leiche) | N/A |
-| 42 | [Mirella](http://twitter.com/search?q=Mirella) | Mirella is a female given name of Italian origin. It is derived from the Latin word mirabilis, meaning "wonderful" or "marvelous". |
-| 43 | [schönen donnerstag](http://twitter.com/search?q=sch%c3%b6nen+donnerstag) | N/A |
-| 44 | [Glühbirnen](http://twitter.com/search?q=Gl%c3%bchbirnen) | N/A |
-| 45 | [Gräber](http://twitter.com/search?q=Gr%c3%a4ber) | N/A |
-| 46 | [Berliner SPD](http://twitter.com/search?q=Berliner+SPD) | N/A |
-| 47 | [Toiletten](http://twitter.com/search?q=Toiletten) | N/A |
+| 3 | [#GNTM](http://twitter.com/search?q=%23GNTM) | N/A |
+| 4 | [#Lenssen](http://twitter.com/search?q=%23Lenssen) | N/A |
+| 5 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
+| 6 | [Drinks](http://twitter.com/search?q=Drinks) | N/A |
+| 7 | [Außenpolitik](http://twitter.com/search?q=Au%c3%9fenpolitik) | N/A |
+| 8 | [Koalition](http://twitter.com/search?q=Koalition) | N/A |
+| 9 | [Vergewaltigungen](http://twitter.com/search?q=Vergewaltigungen) | N/A |
+| 10 | [Feiertag](http://twitter.com/search?q=Feiertag) | Feiertag is a German word meaning "holiday" or "celebration day". It is used to refer to any day that is set aside for special observance, such as a national holiday, religious holiday, or other special occasion. |
+| 11 | [Strom](http://twitter.com/search?q=Strom) | N/A |
+| 12 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
+| 13 | [Maske](http://twitter.com/search?q=Maske) | N/A |
+| 14 | [Kriegsverbrechen](http://twitter.com/search?q=Kriegsverbrechen) | N/A |
+| 15 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
+| 16 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
+| 17 | [jahre berufserfahrung](http://twitter.com/search?q=jahre+berufserfahrung) | N/A |
+| 18 | [Moderator](http://twitter.com/search?q=Moderator) | N/A |
+| 19 | [Wärmepumpen](http://twitter.com/search?q=W%c3%a4rmepumpen) | N/A |
+| 20 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
+| 21 | [Rankin](http://twitter.com/search?q=Rankin) | N/A |
+| 22 | [Heizungen](http://twitter.com/search?q=Heizungen) | N/A |
+| 23 | [menstruationshintergrund](http://twitter.com/search?q=menstruationshintergrund) | N/A |
+| 24 | [Faktencheck](http://twitter.com/search?q=Faktencheck) | N/A |
+| 25 | [Maya](http://twitter.com/search?q=Maya) | N/A |
+| 26 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
+| 27 | [Cannabis](http://twitter.com/search?q=Cannabis) | N/A |
+| 28 | [BAMBOLA HIMNO AVATRICE](http://twitter.com/search?q=BAMBOLA+HIMNO+AVATRICE) | N/A |
+| 29 | [glühbirnen](http://twitter.com/search?q=gl%c3%bchbirnen) | N/A |
+| 30 | [schönen donnerstag](http://twitter.com/search?q=sch%c3%b6nen+donnerstag) | N/A |
+| 31 | [Jusos](http://twitter.com/search?q=Jusos) | N/A |
+| 32 | [Gräber](http://twitter.com/search?q=Gr%c3%a4ber) | N/A |
+| 33 | [Toiletten](http://twitter.com/search?q=Toiletten) | N/A |
+| 34 | [Berliner SPD](http://twitter.com/search?q=Berliner+SPD) | N/A |
+| 35 | [März 2023](http://twitter.com/search?q=M%c3%a4rz+2023) | N/A |
+| 36 | [spd-mitglied](http://twitter.com/search?q=spd-mitglied) | N/A |
+| 37 | [Bundesrat](http://twitter.com/search?q=Bundesrat) | N/A |
+| 38 | [Peter Fox](http://twitter.com/search?q=Peter+Fox) | N/A |
+| 39 | [Fabian](http://twitter.com/search?q=Fabian) | N/A |
+| 40 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 41 | [Black Pearl](http://twitter.com/search?q=Black+Pearl) | N/A |
+| 42 | [Merz](http://twitter.com/search?q=Merz) | Merz is a German word that means "to combine or join together." It is often used to describe the practice of combining different materials, such as wood and metal, to create a unique piece of art. The term was popularized by the German artist Kurt Schwitters, who used it to describe his collage-like works. |
+| 43 | [Stilles Wasser](http://twitter.com/search?q=Stilles+Wasser) | N/A |
+| 44 | [Seenotrettung](http://twitter.com/search?q=Seenotrettung) | N/A |
+| 45 | [zellhaufen](http://twitter.com/search?q=zellhaufen) | N/A |
+| 46 | [schulze](http://twitter.com/search?q=schulze) | N/A |
+| 47 | [Technologie](http://twitter.com/search?q=Technologie) | N/A |
+| 48 | [Peter Weibel](http://twitter.com/search?q=Peter+Weibel) | N/A |
+| 49 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
 
 
 

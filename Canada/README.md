@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canada
 
-📆 Last Updated: `2023-03-02 23:16:57 UTC`
+📆 Last Updated: `2023-03-03 02:09:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for Canada
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Nordstrom](http://twitter.com/search?q=Nordstrom) | N/A |
-| 2 | [Hronek](http://twitter.com/search?q=Hronek) | N/A |
-| 3 | [#TrudeauChineseElect](http://twitter.com/search?q=%23TrudeauChineseElect) | N/A |
-| 4 | [Kesselring](http://twitter.com/search?q=Kesselring) | N/A |
-| 5 | [Bjugstad](http://twitter.com/search?q=Bjugstad) | N/A |
-| 6 | [Bertuzzi](http://twitter.com/search?q=Bertuzzi) | N/A |
-| 7 | [#BoycottHersheys](http://twitter.com/search?q=%23BoycottHersheys) | N/A |
-| 8 | [#Flames1stGoal](http://twitter.com/search?q=%23Flames1stGoal) | N/A |
-| 9 | [Holl](http://twitter.com/search?q=Holl) | N/A |
-| 10 | [Nuge](http://twitter.com/search?q=Nuge) | N/A |
-| 11 | [Chychrun](http://twitter.com/search?q=Chychrun) | N/A |
-| 12 | [#WorldBookDay](http://twitter.com/search?q=%23WorldBookDay) | N/A |
-| 13 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 14 | [Coyotes](http://twitter.com/search?q=Coyotes) | N/A |
-| 15 | [Canucks](http://twitter.com/search?q=Canucks) | Canucks is a slang term for Canadians. It is derived from the word "Canadian" and is often used in a jocular or affectionate manner. |
-| 16 | [Eaton Centre](http://twitter.com/search?q=Eaton+Centre) | N/A |
-| 17 | [#ElClasico](http://twitter.com/search?q=%23ElClasico) | #ElClasico is a term used to refer to the football (soccer) match between two of the biggest clubs in Spain, Real Madrid and FC Barcelona. It is one of the most highly anticipated matches in world football and is considered to be one of the greatest rivalries in sport. In English, it translates to "The Classic". |
-| 18 | [Trudeau Foundation](http://twitter.com/search?q=Trudeau+Foundation) | N/A |
-| 19 | [jcole](http://twitter.com/search?q=jcole) | N/A |
-| 20 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
-| 21 | [Cam Dineen](http://twitter.com/search?q=Cam+Dineen) | N/A |
-| 22 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 23 | [Tom Wilson](http://twitter.com/search?q=Tom+Wilson) | N/A |
-| 24 | [Jonathan Quick](http://twitter.com/search?q=Jonathan+Quick) | N/A |
-| 25 | [Target](http://twitter.com/search?q=Target) | N/A |
-| 26 | [Nolan Smith](http://twitter.com/search?q=Nolan+Smith) | N/A |
-| 27 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 28 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
-| 29 | [Ansu Fati](http://twitter.com/search?q=Ansu+Fati) | Ansu Fati is the nickname of a Spanish professional footballer, Anssumane Fati. He currently plays for FC Barcelona and the Spanish national team. The name Ansu Fati is derived from his given name, Anssumane, which means "God's gift" in the West African language of Bambara. In English, Ansu Fati translates to "God's Gift". |
-| 30 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
-| 31 | [LTIR](http://twitter.com/search?q=LTIR) | N/A |
-| 32 | [Pikamee](http://twitter.com/search?q=Pikamee) | N/A |
-| 33 | [Granlund](http://twitter.com/search?q=Granlund) | N/A |
-| 34 | [Ekholm](http://twitter.com/search?q=Ekholm) | N/A |
-| 35 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 36 | [Hughes](http://twitter.com/search?q=Hughes) | Hughes is a surname of Welsh origin. It is derived from the Welsh personal name "Hugh," which is derived from the Germanic elements "hug" meaning "heart, mind, spirit" and "heil" meaning "brave, strong." |
-| 37 | [Zellers](http://twitter.com/search?q=Zellers) | N/A |
-| 38 | [sam levinson](http://twitter.com/search?q=sam+levinson) | N/A |
-| 39 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 40 | [Domi](http://twitter.com/search?q=Domi) | Domi is a Japanese term that means "dominance" or "dominant." It is often used to describe someone who is strong, powerful, and in control. |
-| 41 | [Yzerman](http://twitter.com/search?q=Yzerman) | N/A |
-| 42 | [CSIS](http://twitter.com/search?q=CSIS) | N/A |
-| 43 | [Simons](http://twitter.com/search?q=Simons) | N/A |
-| 44 | [Crouse](http://twitter.com/search?q=Crouse) | N/A |
-| 45 | [Hall](http://twitter.com/search?q=Hall) | Hall is a noun that refers to a large room or area used for meetings, receptions, or other events. It can also refer to an entranceway or corridor in a building. |
-| 46 | [International Women's Day](http://twitter.com/search?q=International+Women%27s+Day) | N/A |
-| 47 | [Frogmore](http://twitter.com/search?q=Frogmore) | N/A |
-| 48 | [Beijing](http://twitter.com/search?q=Beijing) | N/A |
-| 49 | [Alberta](http://twitter.com/search?q=Alberta) | N/A |
+| 2 | [#Station19](http://twitter.com/search?q=%23Station19) | N/A |
+| 3 | [Rachel](http://twitter.com/search?q=Rachel) | N/A |
+| 4 | [Big Game Brass](http://twitter.com/search?q=Big+Game+Brass) | N/A |
+| 5 | [Nick Nurse](http://twitter.com/search?q=Nick+Nurse) | N/A |
+| 6 | [Global News](http://twitter.com/search?q=Global+News) | N/A |
+| 7 | [Holden](http://twitter.com/search?q=Holden) | N/A |
+| 8 | [Kuzma](http://twitter.com/search?q=Kuzma) | Kuzma is a Slavic name derived from the Greek name Konstantinos, meaning "constant" or "steadfast". It is also a popular Russian surname. |
+| 9 | [Motte](http://twitter.com/search?q=Motte) | N/A |
+| 10 | [Alex Murdaugh](http://twitter.com/search?q=Alex+Murdaugh) | N/A |
+| 11 | [Tarasenko](http://twitter.com/search?q=Tarasenko) | N/A |
+| 12 | [Poeltl](http://twitter.com/search?q=Poeltl) | N/A |
+| 13 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 14 | [Simons](http://twitter.com/search?q=Simons) | N/A |
+| 15 | [Precious](http://twitter.com/search?q=Precious) | N/A |
+| 16 | [Watson](http://twitter.com/search?q=Watson) | Watson is an artificial intelligence (AI) computer system developed by IBM. It is capable of answering questions posed in natural language, making it a useful tool for businesses and researchers. Watson can also be used to analyze large amounts of data and generate insights from it. |
+| 17 | [Target](http://twitter.com/search?q=Target) | N/A |
+| 18 | [Eaton Centre](http://twitter.com/search?q=Eaton+Centre) | N/A |
+| 19 | [Brannstrom](http://twitter.com/search?q=Brannstrom) | N/A |
+| 20 | [Branny](http://twitter.com/search?q=Branny) | N/A |
+| 21 | [Jakob](http://twitter.com/search?q=Jakob) | N/A |
+| 22 | [Diane](http://twitter.com/search?q=Diane) | N/A |
+| 23 | [Wizards](http://twitter.com/search?q=Wizards) | Wizards is a term used to refer to people who are skilled in magic or the supernatural. It is often used to describe powerful and wise characters in fantasy stories, such as Merlin from the Arthurian legends. In modern usage, it can also refer to people who are highly skilled in a particular field or profession. |
+| 24 | [Hershey](http://twitter.com/search?q=Hershey) | N/A |
+| 25 | [The Raptors](http://twitter.com/search?q=The+Raptors) | N/A |
+| 26 | [Kesselring](http://twitter.com/search?q=Kesselring) | N/A |
+| 27 | [Big Mac](http://twitter.com/search?q=Big+Mac) | N/A |
+| 28 | [Keefe](http://twitter.com/search?q=Keefe) | N/A |
+| 29 | [Zellers](http://twitter.com/search?q=Zellers) | N/A |
+| 30 | [Buster](http://twitter.com/search?q=Buster) | N/A |
+| 31 | [#Flames1stGoal](http://twitter.com/search?q=%23Flames1stGoal) | N/A |
+| 32 | [Health Canada](http://twitter.com/search?q=Health+Canada) | N/A |
+| 33 | [Liljegren](http://twitter.com/search?q=Liljegren) | N/A |
+| 34 | [Bjugstad](http://twitter.com/search?q=Bjugstad) | N/A |
+| 35 | [Guilty](http://twitter.com/search?q=Guilty) | In English, "guilty" is an adjective that means responsible for a crime or wrongdoing. It is often used in a legal context to refer to someone who has been found guilty of a crime in a court of law. |
+| 36 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
+| 37 | [Chabot](http://twitter.com/search?q=Chabot) | N/A |
+| 38 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
+| 39 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 40 | [Bettman](http://twitter.com/search?q=Bettman) | N/A |
+| 41 | [Domi](http://twitter.com/search?q=Domi) | Domi is a Japanese term that means "dominance" or "dominant." It is often used to describe someone who is strong, powerful, and in control. |
+| 42 | [ESPN](http://twitter.com/search?q=ESPN) | ESPN stands for Entertainment and Sports Programming Network. It is a global cable and satellite sports television channel owned by ESPN Inc., a joint venture between The Walt Disney Company and Hearst Communications. ESPN broadcasts primarily from studio facilities located in Bristol, Connecticut. The network also operates offices in Miami, New York City, Seattle, Charlotte, and Los Angeles. |
+| 43 | [#NSStorm](http://twitter.com/search?q=%23NSStorm) | N/A |
+| 44 | [Coyotes](http://twitter.com/search?q=Coyotes) | N/A |
+| 45 | [Jupiter and Venus](http://twitter.com/search?q=Jupiter+and+Venus) | N/A |
+| 46 | [Drance](http://twitter.com/search?q=Drance) | N/A |
+| 47 | [Wilson](http://twitter.com/search?q=Wilson) | N/A |
+| 48 | [Venus and Jupiter](http://twitter.com/search?q=Venus+and+Jupiter) | N/A |
+| 49 | [#WorldBookDay](http://twitter.com/search?q=%23WorldBookDay) | N/A |
 | 50 | [SAAQ](http://twitter.com/search?q=SAAQ) | N/A |
 
 
