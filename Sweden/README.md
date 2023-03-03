@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sweden
 
-📆 Last Updated: `2023-03-03 08:17:23 UTC`
+📆 Last Updated: `2023-03-03 09:17:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Sweden
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Brunnsparken](http://twitter.com/search?q=Brunnsparken) | N/A |
-| 2 | [Göteborg](http://twitter.com/search?q=G%c3%b6teborg) | N/A |
-| 3 | [utdelning](http://twitter.com/search?q=utdelning) | N/A |
-| 4 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 5 | [Gardell](http://twitter.com/search?q=Gardell) | N/A |
-| 6 | [Allahu Akbar](http://twitter.com/search?q=Allahu+Akbar) | N/A |
-| 7 | [Godmorgon](http://twitter.com/search?q=Godmorgon) | N/A |
-| 8 | [#vardagpåminplanet](http://twitter.com/search?q=%23vardagp%c3%a5minplanet) | N/A |
-| 9 | [Småland](http://twitter.com/search?q=Sm%c3%a5land) | N/A |
+| 2 | [Tullinge](http://twitter.com/search?q=Tullinge) | N/A |
+| 3 | [Göteborg](http://twitter.com/search?q=G%c3%b6teborg) | N/A |
+| 4 | [#on_the_street](http://twitter.com/search?q=%23on_the_street) | N/A |
+| 5 | [utdelning](http://twitter.com/search?q=utdelning) | N/A |
+| 6 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 7 | [#fplsverige](http://twitter.com/search?q=%23fplsverige) | N/A |
+| 8 | [jonas gardell](http://twitter.com/search?q=jonas+gardell) | N/A |
+| 9 | [Allahu Akbar](http://twitter.com/search?q=Allahu+Akbar) | N/A |
 | 10 | [Frida](http://twitter.com/search?q=Frida) | N/A |
-| 11 | [Lagrådet](http://twitter.com/search?q=Lagr%c3%a5det) | N/A |
-| 12 | [#skidvm](http://twitter.com/search?q=%23skidvm) | N/A |
-| 13 | [Mass](http://twitter.com/search?q=Mass) | N/A |
-| 14 | [Einar](http://twitter.com/search?q=Einar) | N/A |
+| 11 | [Peje Emilsson](http://twitter.com/search?q=Peje+Emilsson) | N/A |
+| 12 | [Timbro](http://twitter.com/search?q=Timbro) | N/A |
+| 13 | [#vardagpåminplanet](http://twitter.com/search?q=%23vardagp%c3%a5minplanet) | N/A |
+| 14 | [Småland](http://twitter.com/search?q=Sm%c3%a5land) | N/A |
 | 15 | [Farsta](http://twitter.com/search?q=Farsta) | N/A |
-| 16 | [Djursholm](http://twitter.com/search?q=Djursholm) | N/A |
-| 17 | [Peje Emilsson](http://twitter.com/search?q=Peje+Emilsson) | N/A |
-| 18 | [Kunskapsskolan](http://twitter.com/search?q=Kunskapsskolan) | N/A |
-| 19 | [Ungern](http://twitter.com/search?q=Ungern) | N/A |
+| 16 | [#skidvm](http://twitter.com/search?q=%23skidvm) | N/A |
+| 17 | [Mass](http://twitter.com/search?q=Mass) | N/A |
+| 18 | [Ericsson](http://twitter.com/search?q=Ericsson) | N/A |
+| 19 | [Lagrådet](http://twitter.com/search?q=Lagr%c3%a5det) | N/A |
 | 20 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 21 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 22 | [Guldspaden](http://twitter.com/search?q=Guldspaden) | N/A |
-| 23 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
-| 24 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 25 | [Cola Zero](http://twitter.com/search?q=Cola+Zero) | N/A |
-| 26 | [Lidingö](http://twitter.com/search?q=Liding%c3%b6) | N/A |
-| 27 | [Ortio](http://twitter.com/search?q=Ortio) | N/A |
-| 28 | [bregott](http://twitter.com/search?q=bregott) | N/A |
+| 21 | [Djursholm](http://twitter.com/search?q=Djursholm) | N/A |
+| 22 | [Kunskapsskolan](http://twitter.com/search?q=Kunskapsskolan) | N/A |
+| 23 | [Einar](http://twitter.com/search?q=Einar) | N/A |
+| 24 | [#ElClasico](http://twitter.com/search?q=%23ElClasico) | #ElClasico is a term used to refer to the football (soccer) match between two of the biggest clubs in Spain, Real Madrid and FC Barcelona. It is one of the most highly anticipated matches in world football and is considered to be one of the greatest rivalries in sport. In English, it translates to "The Classic". |
+| 25 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 26 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
+| 27 | [Guldspaden](http://twitter.com/search?q=Guldspaden) | N/A |
+| 28 | [Ungern](http://twitter.com/search?q=Ungern) | N/A |
 | 29 | [Anders Lindberg](http://twitter.com/search?q=Anders+Lindberg) | N/A |
-| 30 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
-| 31 | [Brynäs](http://twitter.com/search?q=Bryn%c3%a4s) | N/A |
-| 32 | [bolund](http://twitter.com/search?q=bolund) | N/A |
-| 33 | [Fredrik](http://twitter.com/search?q=Fredrik) | N/A |
-| 34 | [#HV71](http://twitter.com/search?q=%23HV71) | N/A |
-| 35 | [Leksand](http://twitter.com/search?q=Leksand) | N/A |
-| 36 | [Vänsterpartiet](http://twitter.com/search?q=V%c3%a4nsterpartiet) | N/A |
-| 37 | [Venus](http://twitter.com/search?q=Venus) | N/A |
-| 38 | [Hildeby](http://twitter.com/search?q=Hildeby) | N/A |
-| 39 | [Molly](http://twitter.com/search?q=Molly) | N/A |
-| 40 | [Bryssel](http://twitter.com/search?q=Bryssel) | N/A |
-| 41 | [Bryansk](http://twitter.com/search?q=Bryansk) | N/A |
-| 42 | [Maja](http://twitter.com/search?q=Maja) | N/A |
-| 43 | [Skolverket](http://twitter.com/search?q=Skolverket) | N/A |
-| 44 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
-| 45 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 46 | [Frågan](http://twitter.com/search?q=Fr%c3%a5gan) | N/A |
-| 47 | [Problemet](http://twitter.com/search?q=Problemet) | N/A |
-| 48 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 49 | [lindbäck](http://twitter.com/search?q=lindb%c3%a4ck) | N/A |
-| 50 | [Imponerande](http://twitter.com/search?q=Imponerande) | N/A |
+| 30 | [bolund](http://twitter.com/search?q=bolund) | N/A |
+| 31 | [Ortio](http://twitter.com/search?q=Ortio) | N/A |
+| 32 | [Imponerande](http://twitter.com/search?q=Imponerande) | N/A |
+| 33 | [Danderyd](http://twitter.com/search?q=Danderyd) | N/A |
+| 34 | [Venus](http://twitter.com/search?q=Venus) | N/A |
+| 35 | [Gårdsten](http://twitter.com/search?q=G%c3%a5rdsten) | N/A |
+| 36 | [Hildeby](http://twitter.com/search?q=Hildeby) | N/A |
+| 37 | [Lidingö](http://twitter.com/search?q=Liding%c3%b6) | N/A |
+| 38 | [Molly](http://twitter.com/search?q=Molly) | N/A |
+| 39 | [Maja](http://twitter.com/search?q=Maja) | N/A |
+| 40 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
+| 41 | [Robbie Williams](http://twitter.com/search?q=Robbie+Williams) | N/A |
+| 42 | [Bryansk](http://twitter.com/search?q=Bryansk) | N/A |
+| 43 | [Brynäs](http://twitter.com/search?q=Bryn%c3%a4s) | N/A |
+| 44 | [Demirok](http://twitter.com/search?q=Demirok) | N/A |
+| 45 | [Leksand](http://twitter.com/search?q=Leksand) | N/A |
+| 46 | [lindbäck](http://twitter.com/search?q=lindb%c3%a4ck) | N/A |
+| 47 | [Orban](http://twitter.com/search?q=Orban) | N/A |
+| 48 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
+| 49 | [Eskilstuna](http://twitter.com/search?q=Eskilstuna) | N/A |
+| 50 | [Färjestad](http://twitter.com/search?q=F%c3%a4rjestad) | N/A |
 
 
 

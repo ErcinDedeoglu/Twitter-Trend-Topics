@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jakarta
 
-📆 Last Updated: `2023-03-03 08:16:48 UTC`
+📆 Last Updated: `2023-03-03 09:16:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,51 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#HariRPLDesa](http://twitter.com/search?q=%23HariRPLDesa) | N/A |
+| 1 | [#THEDREAMSHOW2_in_Jakarta](http://twitter.com/search?q=%23THEDREAMSHOW2_in_Jakarta) | N/A |
 | 2 | [#KanivaxBible](http://twitter.com/search?q=%23KanivaxBible) | N/A |
-| 3 | [Indomie Yatai](http://twitter.com/search?q=Indomie+Yatai) | N/A |
-| 4 | [#JakartaSTINBINBisa](http://twitter.com/search?q=%23JakartaSTINBINBisa) | N/A |
-| 5 | [ekspresikan gayamu](http://twitter.com/search?q=ekspresikan+gayamu) | N/A |
-| 6 | [epic grand prize](http://twitter.com/search?q=epic+grand+prize) | N/A |
-| 7 | [asuransi aia](http://twitter.com/search?q=asuransi+aia) | N/A |
-| 8 | [TY WEARS LOEWE](http://twitter.com/search?q=TY+WEARS+LOEWE) | N/A |
-| 9 | [PN Jakpus](http://twitter.com/search?q=PN+Jakpus) | N/A |
-| 10 | [Partai Prima](http://twitter.com/search?q=Partai+Prima) | N/A |
-| 11 | [jkt48 hujan voucher lazada](http://twitter.com/search?q=jkt48+hujan+voucher+lazada) | N/A |
-| 12 | [SAFE FLIGHT DREAMIES](http://twitter.com/search?q=SAFE+FLIGHT+DREAMIES) | N/A |
-| 13 | [Silent](http://twitter.com/search?q=Silent) | N/A |
-| 14 | [NA JAEMIN THANK YOU](http://twitter.com/search?q=NA+JAEMIN+THANK+YOU) | N/A |
-| 15 | [R to V](http://twitter.com/search?q=R+to+V) | N/A |
-| 16 | [Ultimate Bias](http://twitter.com/search?q=Ultimate+Bias) | N/A |
-| 17 | [BIGHIT PROTECT RM](http://twitter.com/search?q=BIGHIT+PROTECT+RM) | N/A |
-| 18 | [dawon](http://twitter.com/search?q=dawon) | N/A |
-| 19 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
-| 20 | [First Bias](http://twitter.com/search?q=First+Bias) | N/A |
-| 21 | [Luda](http://twitter.com/search?q=Luda) | N/A |
-| 22 | [WHO IN SEVENTEEN](http://twitter.com/search?q=WHO+IN+SEVENTEEN) | N/A |
-| 23 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 24 | [Universitas Brawijaya](http://twitter.com/search?q=Universitas+Brawijaya) | N/A |
-| 25 | [Piala Dunia U-20](http://twitter.com/search?q=Piala+Dunia+U-20) | N/A |
-| 26 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 27 | [ARTIST AND STAFF](http://twitter.com/search?q=ARTIST+AND+STAFF) | N/A |
-| 28 | [NICE TO MEET YOU BUILD](http://twitter.com/search?q=NICE+TO+MEET+YOU+BUILD) | N/A |
-| 29 | [Doktor Honoris Causa](http://twitter.com/search?q=Doktor+Honoris+Causa) | N/A |
-| 30 | [haechan lee thank you](http://twitter.com/search?q=haechan+lee+thank+you) | N/A |
-| 31 | [Nobita](http://twitter.com/search?q=Nobita) | N/A |
-| 32 | [our sunshine park jeongwoo](http://twitter.com/search?q=our+sunshine+park+jeongwoo) | N/A |
-| 33 | [Jeep](http://twitter.com/search?q=Jeep) | N/A |
-| 34 | [Cerah](http://twitter.com/search?q=Cerah) | N/A |
-| 35 | [Welcome WINWIN to Paris](http://twitter.com/search?q=Welcome+WINWIN+to+Paris) | N/A |
-| 36 | [Formula E](http://twitter.com/search?q=Formula+E) | N/A |
-| 37 | [bapak prabowo subianto](http://twitter.com/search?q=bapak+prabowo+subianto) | N/A |
-| 38 | [Shizuka](http://twitter.com/search?q=Shizuka) | N/A |
-| 39 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 40 | [Dota 2](http://twitter.com/search?q=Dota+2) | N/A |
-| 41 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
-| 42 | [Khuntoria](http://twitter.com/search?q=Khuntoria) | N/A |
-| 43 | [blooming with leeseo](http://twitter.com/search?q=blooming+with+leeseo) | N/A |
-| 44 | [Magister](http://twitter.com/search?q=Magister) | N/A |
-| 45 | [Gelora Buat Konser](http://twitter.com/search?q=Gelora+Buat+Konser) | N/A |
-| 46 | [Hakimnya](http://twitter.com/search?q=Hakimnya) | N/A |
-| 47 | [Cleaning](http://twitter.com/search?q=Cleaning) | N/A |
-| 48 | [WJSN](http://twitter.com/search?q=WJSN) | N/A |
+| 3 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
+| 4 | [#LAZADA11DAYxGeminiFourth](http://twitter.com/search?q=%23LAZADA11DAYxGeminiFourth) | N/A |
+| 5 | [jennie](http://twitter.com/search?q=jennie) | N/A |
+| 6 | [Universitas Brawijaya](http://twitter.com/search?q=Universitas+Brawijaya) | N/A |
+| 7 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
+| 8 | [SAFE FLIGHT DREAMIES](http://twitter.com/search?q=SAFE+FLIGHT+DREAMIES) | N/A |
+| 9 | [First Bias](http://twitter.com/search?q=First+Bias) | N/A |
+| 10 | [Jumat](http://twitter.com/search?q=Jumat) | N/A |
+| 11 | [dawon](http://twitter.com/search?q=dawon) | N/A |
+| 12 | [WHO IN SEVENTEEN](http://twitter.com/search?q=WHO+IN+SEVENTEEN) | N/A |
+| 13 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 14 | [Ultimate Bias](http://twitter.com/search?q=Ultimate+Bias) | N/A |
+| 15 | [Cerah](http://twitter.com/search?q=Cerah) | N/A |
+| 16 | [Luda](http://twitter.com/search?q=Luda) | N/A |
+| 17 | [Kiana](http://twitter.com/search?q=Kiana) | N/A |
+| 18 | [Menjadi](http://twitter.com/search?q=Menjadi) | N/A |
+| 19 | [Daehwi](http://twitter.com/search?q=Daehwi) | N/A |
+| 20 | [Welcome WINWIN to Paris](http://twitter.com/search?q=Welcome+WINWIN+to+Paris) | N/A |
+| 21 | [Nobita](http://twitter.com/search?q=Nobita) | N/A |
+| 22 | [PN Jakpus](http://twitter.com/search?q=PN+Jakpus) | N/A |
+| 23 | [Shizuka](http://twitter.com/search?q=Shizuka) | N/A |
+| 24 | [Rubicon](http://twitter.com/search?q=Rubicon) | N/A |
+| 25 | [R to V](http://twitter.com/search?q=R+to+V) | N/A |
+| 26 | [Partai Prima](http://twitter.com/search?q=Partai+Prima) | N/A |
+| 27 | [Cyno](http://twitter.com/search?q=Cyno) | N/A |
+| 28 | [Jeep](http://twitter.com/search?q=Jeep) | N/A |
+| 29 | [Doraemon](http://twitter.com/search?q=Doraemon) | N/A |
+| 30 | [Hakim](http://twitter.com/search?q=Hakim) | N/A |
+| 31 | [Red Velvet](http://twitter.com/search?q=Red+Velvet) | N/A |
+| 32 | [Yuta](http://twitter.com/search?q=Yuta) | N/A |
+| 33 | [#on_the_street](http://twitter.com/search?q=%23on_the_street) | N/A |
+| 34 | [#elvictoid](http://twitter.com/search?q=%23elvictoid) | N/A |
+| 35 | [#f1speedindo](http://twitter.com/search?q=%23f1speedindo) | N/A |
+| 36 | [#HariRPLDesa](http://twitter.com/search?q=%23HariRPLDesa) | N/A |
+| 37 | [#4Maret](http://twitter.com/search?q=%234Maret) | N/A |
+| 38 | [#TolakPenundaanPemilu](http://twitter.com/search?q=%23TolakPenundaanPemilu) | N/A |
+| 39 | [#ETDoktorHC](http://twitter.com/search?q=%23ETDoktorHC) | N/A |
+| 40 | [#NCTDREAM](http://twitter.com/search?q=%23NCTDREAM) | N/A |
+| 41 | [#TDS2inJAKARTA](http://twitter.com/search?q=%23TDS2inJAKARTA) | #TDS2inJAKARTA is a hashtag used to promote the second edition of The Digital Summit (TDS) in Jakarta, Indonesia. It is an event that brings together digital professionals from around the world to discuss the latest trends and technologies in the digital space. |
+| 42 | [#1Buku1Hari](http://twitter.com/search?q=%231Buku1Hari) | N/A |
+| 43 | [#GiveawayPustakaAkung](http://twitter.com/search?q=%23GiveawayPustakaAkung) | N/A |
+| 44 | [#BienvenueWINWINàParis](http://twitter.com/search?q=%23BienvenueWINWIN%c3%a0Paris) | N/A |
+| 45 | [#ADPxCHANYEOL](http://twitter.com/search?q=%23ADPxCHANYEOL) | N/A |
 
 
 
